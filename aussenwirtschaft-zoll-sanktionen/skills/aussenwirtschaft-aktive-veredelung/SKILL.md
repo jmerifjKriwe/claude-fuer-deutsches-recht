@@ -21,17 +21,17 @@ description: "Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240
 
 ## Erste Schritte
 
-1. Wirtschaftliche Voraussetzungen pruefen (Art. 211 Abs. 3 lit. a UZK): Interessentest und Ausfuhrnachweis.
+1. Wirtschaftliche Voraussetzungen prüfen (Art. 211 Abs. 3 lit. a UZK): Interessentest und Ausfuhrnachweis.
 2. Beantragung der Bewilligung beim oertlich zuständigen Hauptzollamt (Muster: DEK/INT/AV).
 3. Buchfuehrungsanforderungen klaren: Lagerbuchhaltungssystem, Mengenueberwachung, Ausbeute-Koeffizienten.
-4. INF-Blatt-Verfahren für Mehrniederlassungsveredelung pruefen.
+4. INF-Blatt-Verfahren für Mehrniederlassungsveredelung prüfen.
 5. Aequivalenzwaren-Option bewerten: Gleiche oder gleichartige Waren als Ersatz.
 6. Gesamtabrechnung mit Frist planen: Ausbeute-Ist vs. Soll, Fehlmengenbehandlung.
 
 ## Rechtsrahmen
 
 - **Art. 256-258 UZK (VO (EU) 952/2013)**: Anwendungsbereich und Bewilligungsvoraussetzungen.
-- **Art. 240-262 UZK-DA (VO (EU) 2015/2446)**: Technische Bedingungen, Ausbeute, Aequivalenz.
+- **Art. 240-262 UZK-DA (VO (EU) 2015/2446)**: Technische Bedingungen, Ausbeute, Äquivalenz.
 - **Art. 321-330 UZK-IA (VO (EU) 2015/2447)**: Buchfuehrungs- und Abschlusspflichten.
 - **Art. 212-214 UZK**: Bewilligungsantrag und wirtschaftliche Voraussetzungen.
 - **§ 10 ZollVG**: Hauptzollamtliche Kontrolle.

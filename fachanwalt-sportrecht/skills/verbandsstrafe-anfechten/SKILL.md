@@ -84,12 +84,12 @@ description: "Verbandsstrafe Anfechten: ordnet Normen, Nutzerangaben, Fristen, B
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Verbandsstrafe anfechten | Berufungsschriftsatz; Template unten |
-| Variante A — Eilmassnahme wegen gesperrten Spielers | Einstweilige Massnahme beantragen; Spielfaehigkeit sichern |
+| Variante A — Eilmassnahme wegen gesperrten Spielers | Einstweilige Maßnahme beantragen; Spielfaehigkeit sichern |
 | Variante B — Verband verweigert Akteneinsicht | Akteneinsichtsrecht nach eigenem Verbandsrecht geltend machen |
 | Variante C — Strafe durch mehrere Verfahren | Gesamtstrafbildung analog § 54 StGB beantragen |
 
@@ -209,7 +209,7 @@ Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

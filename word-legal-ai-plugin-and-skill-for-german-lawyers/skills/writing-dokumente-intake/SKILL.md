@@ -7,7 +7,7 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Writing Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Word Legal Ai Plugin And Skill For German Lawyers** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Writing Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Word Legal Ai Plugin And Skill For German Lawyers** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -28,7 +28,7 @@ Dieser Dokumenten-Intake für **Word Legal Ai Plugin And Skill For German Lawyer
 - `anspruchsgrundlage-rechtsfolgen-b2b-vs` — Anspruchsgrundlage Rechtsfolgen B2b Vs
 - `anwaltsschreiben-aussergerichtlich-argumentationsarchitektur` — Anwaltsschreiben Aussergerichtlich Argumentationsarchitektur
 - `bilingual-drafting-cowork-cloud` — Bilingual Drafting Cowork Cloud
-- `bilinguales-writing-englische-vertraege` — Bilinguales Writing Englische Vertraege
+- `bilinguales-writing-englische-vertraege` — Bilinguales Writing Englische Verträge
 - `boilerplate-klauseln-definitionen-klauseln` — Boilerplate Klauseln Definitionen Klauseln
 - `defensive-drafting-deutscher-kanzleistil` — Defensive Drafting Deutscher Kanzleistil
 - `dokumentarchitektur-vertrag-englischer-vertrag` — Dokumentarchitektur Vertrag Englischer Vertrag

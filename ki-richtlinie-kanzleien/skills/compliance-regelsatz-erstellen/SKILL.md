@@ -27,7 +27,7 @@ Der Regelsatz operationalisiert die zentralen Rechtspflichten: § 43a Abs. 2 BRA
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -62,7 +62,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 **10.** Wir melden jeden Verdachtsfall einer Compliance-Verletzung beim KI-Einsatz unverzüglich an [Name Datenschutzbeauftragter/Berufsrechtsbeauftragter/Geschäftsführung].
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -91,7 +91,7 @@ Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Än
 1. Welche KI-Systeme werden in der Kanzlei eingesetzt — ist eine Freigabeliste vorhanden?
 2. Gibt es bereits einen Compliance-Regelsatz oder wird er neu erstellt?
 3. Ist ein Betriebsrat vorhanden — wurde nach § 87 Abs. 1 Nr. 6 BetrVG eingebunden?
-4. Sind alle Mitarbeiter ueber das Privat-Account-Verbot und die Anonymisierungspflicht informiert?
+4. Sind alle Mitarbeiter über das Privat-Account-Verbot und die Anonymisierungspflicht informiert?
 5. Gibt es Schulungsunterlagen zum Compliance-Regelsatz?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 

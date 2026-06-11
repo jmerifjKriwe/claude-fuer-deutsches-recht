@@ -22,7 +22,7 @@ Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in
 | --- | --- | --- |
 | Anfechtungsklage Paragraf 246 Aktg | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-handels-gesellschaftsrecht/anfechtungsklage-paragraf-246-aktg.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-handels-gesellschaftsrecht/anfechtungsklage-paragraf-246-aktg.odt) |
 
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich pruefen und an konkreten Fall anpassen.*
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 
@@ -47,7 +47,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-## Anwalts-Dashboard fuer den Schnelleinstieg
+## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
 Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
@@ -126,7 +126,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `hgesr-grenzueberschreitende-formwechsel` | Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Glaeubiger, Minderheitsgesellschafter, Arbeitnehmer: Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobil... |
 | `hgesr-handelsvertreterausgleich-detail` | Handelsvertreterausgleich § 89b HGB detailliert: Voraussetzungen Nichtwirksamwerden des Vertrags, Unternehmervorteile bestehen fort, Provisionsverluste, Billigkeit: Handelsvertreterausgleich § 89b HGB detailliert: Voraussetzungen Nichtwi... |
 | `hgesr-mbg-modernisierungsgesetz-praxis` | MoPeG (Modernisierungsgesetz Personengesellschaftsrecht) seit 2024 in der Praxis: neue GbR mit Rechtsfaehigkeit und Gesellschaftsregister, Auswirkungen auf Grundbuch, OHG-Aktualisierungen, KG-Detailaenderungen: MoPeG (Modernisierungsgese... |
-| `hgr-aktionsbindungsvertrag-spezial` | Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Pruefung BGH-Rechtsprechung: Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Pr... |
+| `hgr-aktionsbindungsvertrag-spezial` | Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Prüfung BGH-Rechtsprechung: Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Pr... |
 | `hgr-dis-schiedsverfahren-streit` | Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen: DIS-Schiedsverfahren Gesellschafterstreit. Prüf... |
 | `hgr-dlt-pilotregime-token` | EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich bis 23.3.2029) für DLT-basierte Wertpapierinfrastruktur: EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich bis 23.3.2029) für D... |
 | `hgr-due-diligence-cheker-light` | Due-Diligence-Checker light für kleinere Mandate: Standard-Risikofelder (Steuer, Arbeit, IT, IP, Compliance, ESG), Datenraum-Struktur, Reviewer-Aufteilung, Sample-Quoten: Due-Diligence-Checker light für kleinere Mandate: Standard-Risikof... |
@@ -144,7 +144,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `partgg-verhandlung-vergleich-und-eskalation` | Partgg: Verhandlung, Vergleich und Eskalation im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und d... |
 | `pilotregime-sonderfall-edge-case` | Pilotregime: Sonderfall und Edge-Case-Prüfung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und d... |
 | `quellen-livecheck` | Quellen-Live-Check für Fachanwalt Handels- und Gesellschaftsrecht: prüft Normen (HGB, GmbHG, AktG, BGB §§ 705 ff., UmwG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Handelsregister und Quellenhygiene nach refe... |
-| `registerrecht-handelsregister-praxis` | Handelsregister-Praxis: Anmeldungen, Form (notariell, oeffentlich beglaubigt), zuständiges Gericht, elektronische Einreichung XJustiz, Pruefungsumfang nach FamFG: Handelsregister-Praxis: Anmeldungen, Form (notariell, oeffentlich beglaubi... |
+| `registerrecht-handelsregister-praxis` | Handelsregister-Praxis: Anmeldungen, Form (notariell, öffentlich beglaubigt), zuständiges Gericht, elektronische Einreichung XJustiz, Pruefungsumfang nach FamFG: Handelsregister-Praxis: Anmeldungen, Form (notariell, öffentlich beglaubi... |
 | `schnittstellen-mandantenentscheidung` | Schnittstellen: Mandantenkommunikation und Entscheidungsvorlage im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten,... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Anfechtungs-/Nichtigkeitsklage GV-Beschluss, Auskunftsklage, Squeeze-out: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau: Substantiierter... |
 | `seit-fehlerkatalog` | Seit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |

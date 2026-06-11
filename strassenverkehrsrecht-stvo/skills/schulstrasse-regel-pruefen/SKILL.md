@@ -3,7 +3,7 @@ name: schulstrasse-regel-pruefen
 description: "StVO: Schulstraße: Regel prüfen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Schulstrasse Regel Pruefen
+# Schulstrasse Regel Prüfen
 
 ## Arbeitsweg
 

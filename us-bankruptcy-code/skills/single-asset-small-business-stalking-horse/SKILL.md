@@ -46,7 +46,7 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 
 - Is debtor SARE?
 - Single property/project?
-- Gross income and operating business?
+- Groß income and operating business?
 
 ## Workflow
 

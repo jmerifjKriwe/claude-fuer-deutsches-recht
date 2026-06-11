@@ -17,7 +17,7 @@ Die Widerspruchsfrist oder Klagefrist ist abgelaufen. Eigentlich ist Ihr Recht w
 
 ## In einfacher Sprache
 
-Sie haben die Frist verpasst. Ohne Ihre Schuld. Es gibt eine Rettung. Sie heisst Wiedereinsetzung. Sie muessen erklaeren warum und beweisen koennen.
+Sie haben die Frist verpasst. Ohne Ihre Schuld. Es gibt eine Rettung. Sie heisst Wiedereinsetzung. Sie müssen erklaeren warum und beweisen können.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -30,8 +30,8 @@ Sie haben die Frist verpasst. Ohne Ihre Schuld. Es gibt eine Rettung. Sie heisst
 
 - **Wiedereinsetzung in den vorigen Stand**: Die Frist wird neu gewaehrt, als haetten Sie sie nicht versaeumt.
 - **Schuldlose Versaeumnis**: Sie konnten nichts dafür.
-- **Glaubhaftmachung**: Sie muessen den Grund nicht beweisen wie vor Gericht, aber wahrscheinlich machen (z.B. mit eidesstattlicher Versicherung).
-- **Antrag**: Sie muessen ausdruecklich Wiedereinsetzung beantragen — kommt nicht von alleine.
+- **Glaubhaftmachung**: Sie müssen den Grund nicht beweisen wie vor Gericht, aber wahrscheinlich machen (z.B. mit eidesstattlicher Versicherung).
+- **Antrag**: Sie müssen ausdruecklich Wiedereinsetzung beantragen — kommt nicht von alleine.
 
 ## Rechtsgrundlagen
 
@@ -42,7 +42,7 @@ Sie haben die Frist verpasst. Ohne Ihre Schuld. Es gibt eine Rettung. Sie heisst
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Sie wirklich kein Verschulden trifft
+### Schritt 1 — Prüfen, ob Sie wirklich kein Verschulden trifft
 
 Anerkannt als unverschuldet:
 
@@ -62,7 +62,7 @@ Nicht anerkannt:
 
 ### Schritt 2 — Frist beachten: 2 Wochen ab Hindernisende
 
-Wenn das Hindernis (z.B. die Krankheit) endet, haben Sie nur 2 Wochen Zeit für den Antrag. Und gleichzeitig muessen Sie die versaeumte Handlung (also Widerspruch oder Klage) nachholen.
+Wenn das Hindernis (z.B. die Krankheit) endet, haben Sie nur 2 Wochen Zeit für den Antrag. Und gleichzeitig müssen Sie die versaeumte Handlung (also Widerspruch oder Klage) nachholen.
 
 ### Schritt 3 — Antrag schreiben
 
@@ -102,7 +102,7 @@ Mit freundlichen Gruessen
 
 ### Schritt 4 — Eidesstattliche Versicherung
 
-Wenn Sie keinen Arzt-Beleg haben, koennen Sie eine eidesstattliche Versicherung anhaengen:
+Wenn Sie keinen Arzt-Beleg haben, können Sie eine eidesstattliche Versicherung anhaengen:
 
 ```
 Eidesstattliche Versicherung
@@ -127,14 +127,14 @@ Mir ist bekannt, dass eine falsche eidesstattliche Versicherung nach § 156 StGB
 
 ### Schritt 6 — Geduldig warten
 
-Die Behörde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, koennen Sie dagegen vorgehen.
+Die Behörde oder das Gericht entscheidet über den Antrag. Wenn sie ablehnen, können Sie dagegen vorgehen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **2-Wochen-Frist** ist streng. Sobald Sie wieder handlungsfaehig sind, muessen Sie sofort handeln.
+- **2-Wochen-Frist** ist streng. Sobald Sie wieder handlungsfaehig sind, müssen Sie sofort handeln.
 - **Verschulden** wird streng geprueft. Wer normalerweise Post oeffnet, muss Vertretung organisieren bei Krankheit.
 - **Versaeumte Handlung nachholen!** Ohne Widerspruch / Klage selbst hilft die Wiedereinsetzung nichts.
-- **Ein-Jahres-Frist**: Nach 1 Jahr ab Fristende ist Wiedereinsetzung auch bei Unverschulden nicht mehr moeglich (Ausnahme: hoehere Gewalt).
+- **Ein-Jahres-Frist**: Nach 1 Jahr ab Fristende ist Wiedereinsetzung auch bei Unverschulden nicht mehr möglich (Ausnahme: hoehere Gewalt).
 
 ## Typische Fehler
 

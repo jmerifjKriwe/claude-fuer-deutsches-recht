@@ -212,14 +212,14 @@ Bevor losgelegt wird, kläre:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Approbations-Widerspruch | Widerspruchsschreiben; Template unten |
 | Variante A — Sofortige Vollziehung angeordnet | Eilantrag VG § 80 Abs. 5 VwGO parallel zum Widerspruch |
-| Variante B — Nachbesserung moeglich | Einstweilige Einigung mit Behörde statt Formwiderspruch |
-| Variante C — Strafverfahren laufend | Koordination Strafrecht und Berufsrecht; Aussageverweigerung pruefen |
+| Variante B — Nachbesserung möglich | Einstweilige Einigung mit Behörde statt Formwiderspruch |
+| Variante C — Strafverfahren laufend | Koordination Strafrecht und Berufsrecht; Aussageverweigerung prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -252,7 +252,7 @@ Gefaehrdungsrisiko für Patienten nachgewiesen.
 Anlagen: Widerrufsbescheid, Vollmacht, Therapienachweise
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

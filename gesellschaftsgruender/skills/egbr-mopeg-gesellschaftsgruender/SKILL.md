@@ -39,7 +39,7 @@ Klaere bei jedem eGbR-Mandat zuerst:
 - **§ 707a II BGB** — Pflicht-Namenszusatz "eGbR" / "eingetragene Gesellschaft buergerlichen Rechts"
 - **§ 707a III BGB** — Vertrauensschutz Dritter auf Registerpublizitaet (analog Paragraf 15 HGB)
 - **§ 707b BGB** — Pflicht-Eintragung bei Grundstuecksgeschaeften; Grundbuchverfahren
-- **§ 720 I BGB** — Grundsatz der Gesamtvertretung; Satzungsabweichung moeglich
+- **§ 720 I BGB** — Grundsatz der Gesamtvertretung; Satzungsabweichung möglich
 - **§ 721 BGB** — Gesamtschuldnerische Aussenhaftung aller Gesellschafter (unbeschraenkt)
 - **§ 723 BGB** — Fortbestand der Gesellschaft bei Ausscheiden eines Gesellschafters (Kernneuerung MoPeG)
 
@@ -55,14 +55,14 @@ Klaere bei jedem eGbR-Mandat zuerst:
 | 2 | Grundstuecksgeschaeft geplant? | § 707b BGB | Ja: Pflicht-Eintragung VOR Notar-Termin |
 | 3 | GmbH-Anteilsbeteiligung? | § 40 GmbHG | Ja: eGbR-Eintragung Voraussetzung |
 | 4 | Handelsgeschaeft? | § 1 HGB | Ja: OHG statt eGbR (Handelsregister) |
-| 5 | Haftungsbeschraenkung gewuenscht? | § 721 BGB | eGbR bietet keine; GmbH/KG pruefen |
+| 5 | Haftungsbeschraenkung gewuenscht? | § 721 BGB | eGbR bietet keine; GmbH/KG prüfen |
 | 6 | Vertrauensschutz für Geschaeftspartner gewuenscht? | § 707a III BGB | Eintragung schafft Publizitaet |
 | 7 | Bestehendes Grundbuch auf alte GbR? | § 47 GBO | Umschreibung auf eGbR nach Eintragung |
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Qualifikation:** Innen-GbR oder Aussen-GbR? Handelsgeschaeft oder nicht? Freiberufler-Sozietaet?
-2. **Pflicht pruefen:** Grundstueck oder GmbH-Anteil betroffen? Dann Eintragung zwingend.
+2. **Pflicht prüfen:** Grundstueck oder GmbH-Anteil betroffen? Dann Eintragung zwingend.
 3. **Gesellschaftsvertrag entwerfen** (formfrei, aber schriftlich empfohlen): Gegenstand, Einlagen, Vertretung, Gewinnverteilung, Ausscheiden, Fortbestandsklausel (§ 723 BGB).
 4. **Anmeldung beim Amtsgericht:** Alle Gesellschafter; notarielle Beglaubigung der Unterschriften; Gebuehr ca. 80-150 EUR.
 5. **Eintragung abwarten:** Veröffentlichung im Bundesanzeiger; Namenszusatz "eGbR" ab sofort zu fuehren.
@@ -103,10 +103,10 @@ Unterschriften aller Gesellschafter (notariell beglaubigt)
 
 ## Rote Schwellen
 
-- Grundstueckskauf ohne eGbR-Eintragung: Auflassung scheitert; Notartermin nicht durchfuehrbar. Hinweis: BGH-Linie ueber das Voreintragungserfordernis nach MoPeG ist mittlerweile durch erste obergerichtliche und BGH-Entscheidungen gefestigt (siehe Vertiefung). Konkrete Aktenzeichen vor Verwendung live verifizieren.
+- Grundstueckskauf ohne eGbR-Eintragung: Auflassung scheitert; Notartermin nicht durchfuehrbar. Hinweis: BGH-Linie über das Voreintragungserfordernis nach MoPeG ist mittlerweile durch erste obergerichtliche und BGH-Entscheidungen gefestigt (siehe Vertiefung). Konkrete Aktenzeichen vor Verwendung live verifizieren.
 - Namenszusatz "eGbR" vergessen nach Eintragung: Ordnungswidrigkeit; Haftungsfolgen
 - Eintragung = Haftungsbeschraenkung: FALSCH. Alle Gesellschafter haften weiter unbeschraenkt (§ 721 BGB)
-- GbR als GmbH-Gesellschafter ohne eGbR: Eintragung in Gesellschafterliste nicht moeglich (§ 40 GmbHG)
+- GbR als GmbH-Gesellschafter ohne eGbR: Eintragung in Gesellschafterliste nicht möglich (§ 40 GmbHG)
 
 ## Quellen und Vertiefung
 
@@ -116,11 +116,11 @@ Unterschriften aller Gesellschafter (notariell beglaubigt)
 - § 40 GmbHG (Gesellschafterliste; eGbR-Eintragung als Voraussetzung der Listung als Gesellschafterin): https://www.gesetze-im-internet.de/gmbhg/__40.html
 - MoPeG (BGBl. I 2021, 3436): https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id=%27bgbl121s3436.pdf%27]
 - BGH, Beschl. v. 03.07.2025 — V ZB 17/24 (Voreintragung der GbR im Gesellschaftsregister vor Grundbuchaenderung; ECLI:DE:BGH:2025:030725BVZB17.24.0): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=142513
-- Weitere obergerichtliche Linien zur Firmierung "eGbR" und identitaetswahrenden Umwandlung GbR -> KG/OHG (Beispiele aus 2024, vor Verwendung Aktenzeichen pruefen):
+- Weitere obergerichtliche Linien zur Firmierung "eGbR" und identitaetswahrenden Umwandlung GbR -> KG/OHG (Beispiele aus 2024, vor Verwendung Aktenzeichen prüfen):
  - OLG Hamburg, Beschl. v. 22.04.2024 — 11 W 19/24
  - OLG Koeln, Beschl. v. 22.04.2024 — 4 Wx 4/24
  - OLG Muenchen, Beschl. v. 2024 — 34 Wx 71/24 e
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Uebergabe an andere Skills

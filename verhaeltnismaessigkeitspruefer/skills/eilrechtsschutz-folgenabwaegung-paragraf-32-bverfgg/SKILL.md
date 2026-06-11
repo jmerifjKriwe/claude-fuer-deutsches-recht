@@ -39,16 +39,16 @@ Trenne im Eilrechtsschutz strikt:
 
 | Variante | Frage | Typische Belege |
 | --- | --- | --- |
-| EA ergeht, Hauptsache spaeter erfolglos | Welche staatliche Aufgabe oder Drittposition wird vorlaeufig blockiert? | Verwaltungsablauf, Sicherheit, Haushalt, demokratischer Zeitplan, Rechte Dritter |
-| EA ergeht nicht, Hauptsache spaeter erfolgreich | Welche Grundrechtsposition geht unwiederbringlich verloren? | Versammlungstermin, Abschiebung, irreversible Datenuebermittlung, Publikation, Wahlvorgang |
+| EA ergeht, Hauptsache später erfolglos | Welche staatliche Aufgabe oder Drittposition wird vorlaeufig blockiert? | Verwaltungsablauf, Sicherheit, Haushalt, demokratischer Zeitplan, Rechte Dritter |
+| EA ergeht nicht, Hauptsache später erfolgreich | Welche Grundrechtsposition geht unwiederbringlich verloren? | Versammlungstermin, Abschiebung, irreversible Datenuebermittlung, Publikation, Wahlvorgang |
 | Milderes Zwischenmittel | Kann eine Auflage, Befristung, Teilanordnung oder Sicherung die Risiken reduzieren? | Stillhaltezusage, anonymisierte Daten, Rueckabwicklungsvorbehalt, Schutzauflage |
 
 ## Fehlerbremse
 
-- Nicht die volle Hauptsache pruefen, wenn der Ausgang offen ist.
+- Nicht die volle Hauptsache prüfen, wenn der Ausgang offen ist.
 - Nicht "Eilbeduerftigkeit" leer behaupten; Kalender, Fristen, Vollzugshandlung und irreparable Folge konkretisieren.
-- Nicht jedes finanzielle Risiko als schwerer Nachteil behandeln; Rueckholbarkeit pruefen.
-- Nicht nur den Antragsteller sehen: Folgen fuer Dritte und Gemeinwohl sauber benennen.
+- Nicht jedes finanzielle Risiko als schwerer Nachteil behandeln; Rueckholbarkeit prüfen.
+- Nicht nur den Antragsteller sehen: Folgen für Dritte und Gemeinwohl sauber benennen.
 
 ## Output
 

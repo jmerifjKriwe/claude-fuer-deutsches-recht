@@ -3,11 +3,11 @@ name: interessenkollision-beratung-und-pruefung-kaltstart
 description: "Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
-# Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+# Wirtschaftsprüfer: interessenkollision beratung und prüfung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Interessenkollision Beratung Und Pruefung Kaltstart** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Berufsrecht Wirtschaftspruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Interessenkollision Beratung Und Prüfung Kaltstart** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Berufsrecht Wirtschaftspruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -27,7 +27,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+## Konkreter Berufsrechtskern: Wirtschaftsprüfer: interessenkollision beratung und prüfung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 - **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
 - **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
 - **Spezialspur:** Kollision in Mandat, Sozietät, Vorbefassung, wirtschaftlichem Eigeninteresse und Informationszugang zerlegen.
@@ -36,7 +36,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Fallweichen dieser Speziallage
 
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
+1. Rolle, Ziel und Entscheidungsdruck klären.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
 3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
 4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.

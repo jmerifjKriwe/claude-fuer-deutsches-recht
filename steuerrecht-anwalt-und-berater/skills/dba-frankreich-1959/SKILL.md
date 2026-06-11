@@ -22,7 +22,7 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 1. Wohnsitzkonstellation, Einkunftsart?
 2. Arbeitnehmer im Grenzbezirk Elsass-Lothringen? 20-km-Zone beidseitig?
 3. Tageweise Rueckkehr zum Wohnsitz?
-4. Bei Pension: gesetzliche oder berufsstaendische, oeffentlich/privat?
+4. Bei Pension: gesetzliche oder berufsstaendische, öffentlich/privat?
 5. Bei Beteiligung: Schachtelhoehe?
 6. Veraeusserung Immobilien?
 7. Welche DBA-Protokoll-Fassung ist anwendbar im Veranlagungszeitraum?
@@ -35,31 +35,31 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 - **DBA Deutschland-Frankreich vom 21.07.1959** (BGBl. 1961 II S. 397/398) mit Aenderungsprotokollen: 09.06.1969, 28.09.1989, 20.12.2001, 31.03.2015 (BGBl. 2015 II S. 1332/1335).
 - **OECD-MA** zur Auslegungshilfe.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: Deutschland und Frankreich sind Unterzeichnerstaaten; MLI wirksam für DBA-FR ab 01.01.2025 (BGBl. 2025 II Nr. 5) — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
+- **MLI**: Deutschland und Frankreich sind Unterzeichnerstaaten; MLI wirksam für DBA-FR ab 01.01.2025 (BGBl. 2025 II Nr. 5) — konkrete Notification-Listen beim OECD-MLI-Status-Portal prüfen.
 - **Grenzgaengervereinbarung** (Verwaltungsvereinbarung Deutschland-Frankreich vom 16.02.2006) — massgebend im Original.
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zur Pensionsbesteuerung nach DBA-Frankreich ueber dejure.org / BFH-Datenbank abrufen.
-- Aktuelle BFH-Rechtsprechung zum Grenzgaenger DBA-Frankreich ueber dejure.org / BFH-Datenbank abrufen.
+- Aktuelle BFH-Rechtsprechung zur Pensionsbesteuerung nach DBA-Frankreich über dejure.org / BFH-Datenbank abrufen.
+- Aktuelle BFH-Rechtsprechung zum Grenzgaenger DBA-Frankreich über dejure.org / BFH-Datenbank abrufen.
 - **Konsultationsvereinbarung Deutschland-Frankreich vom 20.03.2025** zur Anwendung des Kassenstaatsprinzips nach Art. 14 Abs. 1 DBA-Frankreich bei beitragsfinanzierten Altersbezuegen an ehemalige franzoesische Bedienstete (BMF-Veroeffentlichung vom 19.05.2025; PDF "2025-05-19-konsultationsver-kassenstaatsprinzip" abrufbar unter bundesfinanzministerium.de, Bereich Internationales Steuerrecht / Frankreich).
-- BMF-Schreiben zur Grenzgaengerregelung DBA-Frankreich — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zur Grenzgaengerregelung DBA-Frankreich — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit (Art. 2)
 
-- Im DBA-FR steht "Wohnsitz" abweichend zu Art. 4 OECD-MA. Tie-Breaker funktioniert sinngemaess.
+- Im DBA-FR steht "Wohnsitz" abweichend zu Art. 4 OECD-MA. Tie-Breaker funktioniert sinngemäß.
 
 ### Betriebsstaette (Art. 2 Abs. 7)
 
-- Bauausfuehrung-Schwelle: **12 Monate** Standard, im DBA-FR konkret zu pruefen.
+- Bauausfuehrung-Schwelle: **12 Monate** Standard, im DBA-FR konkret zu prüfen.
 
 ### Aktive Einkuenfte
 
 - Unternehmensgewinne (Art. 4).
 - **Grenzgaengerregelung** (Art. 13 Abs. 5 DBA-FR, erlaeutert durch Verwaltungsvereinbarung 16.02.2006): Arbeitnehmer mit Wohnsitz in der Grenzzone des einen Staats, Taetigkeitsort in der Grenzzone des anderen Staats, taegliche Rueckkehr — Besteuerung Wohnsitzstaat.
-- Die Grenzzone wird in der Praxis als 20-km-Zone bzw. nach Gemeindeverzeichnis bestimmt (konkrete Definition und aktuelle Gemeindelisten im BMF-Schreiben und DBA-Protokoll pruefen).
+- Die Grenzzone wird in der Praxis als 20-km-Zone bzw. nach Gemeindeverzeichnis bestimmt (konkrete Definition und aktuelle Gemeindelisten im BMF-Schreiben und DBA-Protokoll prüfen).
 - **Schaedlichkeitsschwelle Nicht-Rueckkehrtage**: in der Verwaltungsvereinbarung 16.02.2006 ist eine Tagesschwelle normiert (in der Literatur regelmaessig mit 45 Tagen pro Jahr referenziert) — **konkrete Schwelle aus Verwaltungsvereinbarung uebernehmen, nicht aus diesem Skill**.
 
 ### Passive Einkuenfte
@@ -75,21 +75,21 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 
 ### Besonderheiten
 
-- **Pensionen Art. 13 Abs. 8**: gesetzliche Renten typ. Kassenstaat, private Pensionen Wohnsitzstaat — Verzeichnis der erfassten Rentenarten im BMF-Schreiben und DBA-Text pruefen.
+- **Pensionen Art. 13 Abs. 8**: gesetzliche Renten typ. Kassenstaat, private Pensionen Wohnsitzstaat — Verzeichnis der erfassten Rentenarten im BMF-Schreiben und DBA-Text prüfen.
 - **Veraeusserung Immobilien** (Art. 7): Belegenheit.
 - **20-km-Zone**: Liste der Grenzgemeinden in Anlage zum DBA-Protokoll.
 - **Erbschaftsteuer-DBA Deutschland-Frankreich**: separat (DBA-Erbschaft- und Schenkungsteuer mit Frankreich vom 12.10.2006, BGBl. 2007 II S. 900).
 
 ## Workflow
 
-### Phase 1 — DBA-Anwendbarkeit pruefen
+### Phase 1 — DBA-Anwendbarkeit prüfen
 1. Welche Fassung gilt? Welche Protokollaenderungen sind im Veranlagungszeitraum bereits anwendbar?
 
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 1. Tie-Breaker analog OECD-MA.
 
 ### Phase 3 — Einkunftsart einordnen
-1. Grenzgaenger? 20-km-Pruefung beidseitig.
+1. Grenzgaenger? 20-km-Prüfung beidseitig.
 
 ### Phase 4 — Verteilungs- und Methodenartikel
 1. Quellensteuer-Hoechstsatz.
@@ -102,18 +102,18 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 
 ## Strategie und Praxis-Tipps
 
-- Grenzgaengerregelung Elsass: Wohnsitz und Taetigkeitsort muessen beide in der 20-km-Zone liegen — Wohnsitz in Karlsruhe und Arbeitsort in Strassburg: **kein** Grenzgaengerstatus (Karlsruhe nicht in Zone).
+- Grenzgaengerregelung Elsass: Wohnsitz und Taetigkeitsort müssen beide in der 20-km-Zone liegen — Wohnsitz in Karlsruhe und Arbeitsort in Strassburg: **kein** Grenzgaengerstatus (Karlsruhe nicht in Zone).
 - 45-Tage-Schaedlichkeitsregel akribisch dokumentieren — Dienstreisen, Krankheitstage zaehlen unterschiedlich.
 - Pensionen aus franzoesischer "Reseau Securite Sociale" gesondert geregelt — Verzeichnis konsultieren.
 - Bei strittiger Auslegung: Verstaendigungsverfahren oder EU-DBA-SBG anrufen.
-- Alte 1959-DBA-Struktur: Artikel-Nummern weichen vom OECD-MA ab — vor Zitat im Memo Stelle pruefen.
-- Erbschaftsteuer-DBA-Frankreich gesondert beachten (Doppelbesteuerung Erbschaft moeglich).
+- Alte 1959-DBA-Struktur: Artikel-Nummern weichen vom OECD-MA ab — vor Zitat im Memo Stelle prüfen.
+- Erbschaftsteuer-DBA-Frankreich gesondert beachten (Doppelbesteuerung Erbschaft möglich).
 
 ## Praktiker-Tipps der alten Hasen
 
 ### Erstattungsverfahren franzoesische Quellensteuer (retenue a la source)
 
-- **Zuständigkeit**: franzoesische Erstattung durch **Service des Impots des Non-Residents (SIPNR)** in Noisy-le-Grand. Aktuelle Zuständigkeit auf **impots.gouv.fr** pruefen.
+- **Zuständigkeit**: franzoesische Erstattung durch **Service des Impots des Non-Residents (SIPNR)** in Noisy-le-Grand. Aktuelle Zuständigkeit auf **impots.gouv.fr** prüfen.
 - **Antragsformulare**: in der Praxis verbreitete franzoesische Formulare **Cerfa 5000** (Antrag Quellensteuerentlastung/Reduktion auf DBA-Hoechstsatz; "Attestation de residence") und **Cerfa 5001** (Antrag Erstattung Dividenden bei Streubesitz); für Zinsen Cerfa 5002, für Lizenzen Cerfa 5003 — **konkrete Formularnummern und Bezeichnungen sind vom Anwender mit aktuellem Stand auf impots.gouv.fr zu verifizieren** (Cerfa-Nummern werden periodisch geaendert).
 - **Frist**: nach franzoesischem CGI (Code General des Impots) und Livre des procedures fiscales regelmaessig **bis 31. Dezember des zweiten Folgejahres** nach Steuerentrichtung — knappe Frist!
 - **Bearbeitungsdauer SIPNR**: typischerweise 12-36 Monate; bei strittigen Faellen erheblich laenger. Anwaltliche Vertretung empfohlen bei groesseren Erstattungsbetraegen.
@@ -125,7 +125,7 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 
 ### Sprachen-Falle
 
-- **DBA-FR ist zweisprachig DE/FR** — die franzoesische Originalfassung ist regelmaessig **mitverbindlich**. Bei Auslegungsstreitigkeiten Begriffe wie "etablissement stable", "siege de direction effective", "remunerations" im Originaltext pruefen.
+- **DBA-FR ist zweisprachig DE/FR** — die franzoesische Originalfassung ist regelmaessig **mitverbindlich**. Bei Auslegungsstreitigkeiten Begriffe wie "etablissement stable", "siege de direction effective", "remunerations" im Originaltext prüfen.
 - Verwaltungsvereinbarung Grenzgaenger 16.02.2006 liegt zweisprachig vor.
 
 ### Online-Portale
@@ -137,19 +137,19 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Grenzgaenger-Status halten (Wohnsitz/Arbeit beide in 20-km-Zone) vs. Aufgeben | Wohnsitzstaat-Besteuerung, geringe Verwaltungsdichte | regulaere Art. 15 OECD-MA-Pruefung (Arbeitgeberstaat) | bei stabiler Konstellation in der Zone Status guenstiger; bei zunehmender Reisetaetigkeit Wechsel pruefen |
-| Schachteldividende FR-SA an DE-Mutter ueber DBA Art. 9 (0 Prozent Schachtel) vs. EU-MTRL | DBA bereits 0 Prozent — vorab Freistellung an FR-Quelle | EU-MTRL § 43b EStG: 0 Prozent | bei Schachtelbeteiligung beide Pfade greifen — § 43b EStG einfacher |
+| Grenzgaenger-Status halten (Wohnsitz/Arbeit beide in 20-km-Zone) vs. Aufgeben | Wohnsitzstaat-Besteuerung, geringe Verwaltungsdichte | regulaere Art. 15 OECD-MA-Prüfung (Arbeitgeberstaat) | bei stabiler Konstellation in der Zone Status guenstiger; bei zunehmender Reisetaetigkeit Wechsel prüfen |
+| Schachteldividende FR-SA an DE-Mutter über DBA Art. 9 (0 Prozent Schachtel) vs. EU-MTRL | DBA bereits 0 Prozent — vorab Freistellung an FR-Quelle | EU-MTRL § 43b EStG: 0 Prozent | bei Schachtelbeteiligung beide Pfade greifen — § 43b EStG einfacher |
 | Pension FR Securite Sociale Kassenstaat vs. private Pension Wohnsitzstaat | FR-Steueranspruch (bei Kassenstaat-Klausel) | DE-Steueranspruch (bei Wohnsitz) | klare Klassifikation der Pension-Art zentral |
 | Wegzug nach FR vs. Wohnsitz halten | sofortige § 6 AStG-Wegzugsbesteuerung (bei EU-Wegzug Stundungsmoeglichkeit nach ATAD) | Wohnsitz halten, deutsche Steueranspruch | je nach stillen Reserven |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
-- **1959er-Norm-Nummerierung mit OECD-MA verwechseln**: Klassiker — Art. 13 Abs. 5 DBA-FR ist Grenzgaenger, NICHT Art. 15 OECD-MA. Im Memo vor Zitat Stelle pruefen.
+- **1959er-Norm-Nummerierung mit OECD-MA verwechseln**: Klassiker — Art. 13 Abs. 5 DBA-FR ist Grenzgaenger, NICHT Art. 15 OECD-MA. Im Memo vor Zitat Stelle prüfen.
 - **Karlsruhe oder Stuttgart als deutscher Wohnsitz mit Arbeit in Strassburg**: scheitert am Grenzzonen-Erfordernis (Karlsruhe/Stuttgart nicht in 20-km-Zone) — Grenzgaengerstatus ausgeschlossen.
 - **45-Tage-Schaedlichkeit mit Krankheitstagen verwechselt**: Krankheits- und Urlaubstage sind regelmaessig NICHT schaedlich; nur Dienstreisen/Tagungen/Schulungen zaehlen — Konkrete Zaehlung aus Verwaltungsvereinbarung 16.02.2006.
 - **Securite Sociale vs. private Pension**: franzoesische gesetzliche Renten ("Caisse Nationale d'Assurance Vieillesse") werden in der Praxis als Kassenstaat-Pensionen behandelt; berufsstaendische Caisses (AGIRC-ARRCO) gesondert.
 - **Erbschaftsteuer-DBA vs. Einkommensteuer-DBA**: Mandanten verwechseln regelmaessig die beiden DBA — Erbschaftsteuer-DBA (BGBl. 2007 II S. 900) erfasst nur ErbSt/SchenkSt, nicht laufende Einkuenfte.
-- **Konsultationsvereinbarung 20.03.2025 (BMF 19.05.2025)**: Anwendung Kassenstaatsprinzip Art. 14 Abs. 1 für ehemalige franzoesische Bedienstete — bei aelteren Mandanten-Memos vor 2025 pruefen.
+- **Konsultationsvereinbarung 20.03.2025 (BMF 19.05.2025)**: Anwendung Kassenstaatsprinzip Art. 14 Abs. 1 für ehemalige franzoesische Bedienstete — bei aelteren Mandanten-Memos vor 2025 prüfen.
 
 ## Berechnungsbeispiel — Grenzgaenger Elsass-DE
 
@@ -175,6 +175,6 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Frankreich 21.07.1959 (BGBl. 1961 II S. 397/398), Aend.-Prot. 31.03.2015 (BGBl. 2015 II S. 1332/1335), MLI wirksam ab 01.01.2025 (BGBl. 2025 II Nr. 5). Verwaltungsvereinbarung Grenzgaenger 16.02.2006. Gemeindelisten 20-km-Zone und Quellensteuer-Saetze im aktuellen BMF-Schreiben pruefen.
+Stand: 05/2026. DBA-Frankreich 21.07.1959 (BGBl. 1961 II S. 397/398), Aend.-Prot. 31.03.2015 (BGBl. 2015 II S. 1332/1335), MLI wirksam ab 01.01.2025 (BGBl. 2025 II Nr. 5). Verwaltungsvereinbarung Grenzgaenger 16.02.2006. Gemeindelisten 20-km-Zone und Quellensteuer-Saetze im aktuellen BMF-Schreiben prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 14 Marker aufgeloest: 3 belegt (BGBl. 1961 II S. 397/398 und BGBl. 2015 II S. 1332/1335 bestaetigt; MLI wirksam ab 01.01.2025 BGBl. 2025 II Nr. 5 bestaetigt; Verwaltungsvereinbarung 16.02.2006 bestaetigt), 11 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

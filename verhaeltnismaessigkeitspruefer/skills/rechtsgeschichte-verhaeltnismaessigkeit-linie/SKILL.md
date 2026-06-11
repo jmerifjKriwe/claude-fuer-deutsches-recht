@@ -3,7 +3,7 @@ name: rechtsgeschichte-verhaeltnismaessigkeit-linie
 description: "Dogmengeschichtliche Linie der Verhaeltnismaessigkeitspruefung: Preussisches OVG Kreuzberg 1882, Weimarer Republik, BVerfG Apotheken 1958, Lueth 1958, Volkszaehlung 1983, Online-Durchsuchung 2008, Klimaschutz 2021, Bundesnotbremse 2021. Zeigt Entwicklungsschritte als Karte."
 ---
 
-# Rechtsgeschichte der Verhaeltnismaessigkeit
+# Rechtsgeschichte der Verhältnismäßigkeit
 
 ## Zweck dieses Skills
 
@@ -52,7 +52,7 @@ Verhaeltnismaessigkeitspruefung ist kein zeitloses Prinzip — sie ist gewachsen
 
 ### Vorform (1882 — 1933)
 
-**Preussisches OVG, Kreuzberg-Erkenntnis** vom 14.06.1882, PrOVGE 9, 353. Polizei darf nur Gefahren abwehren, nicht ungeschriebene Wohlfahrtsordnung erzwingen. Das ist Zweckkontrolle — der Urahn der Verhaeltnismaessigkeit. *Skill:* `preussisches-ovg-kreuzberg-polizeirecht`.
+**Preussisches OVG, Kreuzberg-Erkenntnis** vom 14.06.1882, PrOVGE 9, 353. Polizei darf nur Gefahren abwehren, nicht ungeschriebene Wohlfahrtsordnung erzwingen. Das ist Zweckkontrolle — der Urahn der Verhältnismäßigkeit. *Skill:* `preussisches-ovg-kreuzberg-polizeirecht`.
 
 ### Weimarer Republik
 
@@ -60,7 +60,7 @@ Carl Schmitt, *Verfassungslehre* (1928) — Grundrechte als Abwehrrechte mit abs
 
 ### Gruenderjahre des BVerfG (1951 — 1971)
 
-- **Apotheken-Urteil 1958** (BVerfGE 7, 377): Drei-Stufen-Lehre Art 12 GG; Geburtsstunde der modernen Pruefung. *Skill:* `apotheken-urteil-bverfge-7-377`.
+- **Apotheken-Urteil 1958** (BVerfGE 7, 377): Drei-Stufen-Lehre Art 12 GG; Geburtsstunde der modernen Prüfung. *Skill:* `apotheken-urteil-bverfge-7-377`.
 - **Lueth-Urteil 1958** (BVerfGE 7, 198): Werteordnung, Wechselwirkungslehre, Drittwirkung. *Skill:* `lueth-urteil-bverfge-7-198`.
 - **Mephisto 1971** (BVerfGE 30, 173): Praktische Konkordanz; Abwaegung Kunst vs. Persoenlichkeit.
 
@@ -81,7 +81,7 @@ Robert Alexy, *Theorie der Grundrechte* (1985, 2. Aufl. 1994): Prinzipientheorie
 
 ## Was die Linie zeigt
 
-1. **Verhaeltnismaessigkeit wird konkreter** — von der Zweckkontrolle (Kreuzberg) zur formalisierten Abwaegung (Alexy).
+1. **Verhältnismäßigkeit wird konkreter** — von der Zweckkontrolle (Kreuzberg) zur formalisierten Abwaegung (Alexy).
 2. **Die Stufen werden differenzierter** — Geeignetheit zerfaellt in Tatsachen- und Prognoseteile; Erforderlichkeit verlangt jetzt Verfahrenssicherungen; Angemessenheit beachtet Zukunftsfolgen.
 3. **Der Wesensgehalt wandert** — vom absoluten Schutz (Art 19 II GG) zur relativen Wesensgehaltslehre (Alexy) zurueck zur absoluten Linie (BVerfG seit Luftsicherheitsgesetz 2006).
 4. **Internationalisierung** — EGMR (necessary in a democratic society), EuGH (Art 52 I GRCh), Kanada (Oakes), Suedafrika (Section 36) konvergieren mit der deutschen Schranken-Schranke. Siehe Rechtsvergleichs-Skills.
@@ -89,7 +89,7 @@ Robert Alexy, *Theorie der Grundrechte* (1985, 2. Aufl. 1994): Prinzipientheorie
 ## Anschluss
 
 - Theorielinie zur Vertiefung: `theorie-alexy-prinzipientheorie`
-- Schnelleinstieg in die Pruefung: `schnellpruefung-fuenfminuten-express`
+- Schnelleinstieg in die Prüfung: `schnellpruefung-fuenfminuten-express`
 - Klausurschema: `klausur-pruefungsschema-kompakt`
 
 ## Quellenanker

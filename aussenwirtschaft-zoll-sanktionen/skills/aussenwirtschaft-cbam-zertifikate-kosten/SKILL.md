@@ -16,7 +16,7 @@ description: "Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung d
 ## Mandantenfall
 
 - CFO eines Stahlimporteurs fragt nach Kostenplanung für CBAM-Zertifikate ab 2026.
-- Importeur hat im Drittland CO2-Abgaben für Produktion gezahlt; Anrechnung auf CBAM pruefen.
+- Importeur hat im Drittland CO2-Abgaben für Produktion gezahlt; Anrechnung auf CBAM prüfen.
 - Unternehmen moechte CBAM-Zertifikate vorausschauend kaufen; Preisrisiko einschaetzen.
 
 ## Erste Schritte

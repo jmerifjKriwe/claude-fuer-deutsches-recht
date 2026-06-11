@@ -66,10 +66,10 @@ Kläre vor dem Training:
 
 ## Key Case Law — Verhandlung und Good Faith
 
-- *Walford v Miles* [1992] 2 AC 128 (HL) — kein implied duty to negotiate in good faith im englischen Recht; Pre-Contractual-Verhandlungen binden grundsaetzlich nicht, Lock-Out-Agreements ohne bestimmbare Laufzeit sind nichtig — ein fundamentaler Unterschied zu § 311 II BGB.
+- *Walford v Miles* [1992] 2 AC 128 (HL) — kein implied duty to negotiate in good faith im englischen Recht; Pre-Contractual-Verhandlungen binden grundsätzlich nicht, Lock-Out-Agreements ohne bestimmbare Laufzeit sind nichtig — ein fundamentaler Unterschied zu § 311 II BGB.
 - *Petromec Inc v Petroleo Brasileiro SA* [2005] EWCA Civ 891 — begrenzte Ausnahme: express duty of good faith in einem Teilvertrag kann bindend sein; wichtig für Trainingsszenarien mit NDA + Term Sheet.
 - *Pitt v PHH Asset Management Ltd* [1994] 1 WLR 327 (CA) — Lock-Out-Agreement mit bestimmter Laufzeit ist wirksam und durchsetzbar; zeigt Gestaltungsalternative zu Good-Faith-Klauseln.
-- *BCCI SA v Ali* [2001] UKHL 8 — weite Releases in Vergleichsverhandlungen; Parteien muessen klar und deutlich formulieren, wenn sie unbekannte Claims freigeben wollen — Lehrfall für Settlement-Training.
+- *BCCI SA v Ali* [2001] UKHL 8 — weite Releases in Vergleichsverhandlungen; Parteien müssen klar und deutlich formulieren, wenn sie unbekannte Claims freigeben wollen — Lehrfall für Settlement-Training.
 
 ## Normen und Quellen — Verhandlungsrecht
 
@@ -87,7 +87,7 @@ Kläre vor dem Training:
 - Fisher/Ury/Patton, *Getting to Yes*, 3rd ed. 2011 — BATNA-Konzept
 - Mnookin/Peppet/Tulumello, *Beyond Winning*, 2000 — Lawyer-as-Negotiator
 
-## Simulationsszenarien — Uebersicht
+## Simulationsszenarien — Übersicht
 
 | Szenario | Governing Law | Knackpunkt | Typischer Trainee-Fehler |
 |---|---|---|---|

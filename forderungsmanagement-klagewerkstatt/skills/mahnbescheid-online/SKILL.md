@@ -17,24 +17,24 @@ Strategische und technische Anleitung zum gerichtlichen Mahnverfahren §§ 688-7
 | Verbraucher, Bestreiten wahrscheinlich | NEIN |
 | Hauptzweck Verjährungshemmung | JA (§ 204 Abs. 1 Nr. 3 BGB) |
 | Forderung > 5.000 EUR mit niedrigem Streitwert-Risiko | JA |
-| Unbestimmter Anspruch (Schadensersatz dem Grunde nach) | NICHT zulaessig § 688 Abs. 2 Nr. 1 ZPO |
-| Gegenseitige Vertraege mit Gegenleistungseinrede | nicht ueber MB (§ 688 Abs. 2 Nr. 2 ZPO) |
+| Unbestimmter Anspruch (Schadensersatz dem Grunde nach) | NICHT zulässig § 688 Abs. 2 Nr. 1 ZPO |
+| Gegenseitige Verträge mit Gegenleistungseinrede | nicht über MB (§ 688 Abs. 2 Nr. 2 ZPO) |
 
 ## Voraussetzungen § 688 ZPO
 
 - Anspruch auf Zahlung **bestimmten Geldbetrages in Euro**.
 - Forderung ist **nicht** von Gegenleistung abhaengig oder Gegenleistung erbracht.
 - Bei Verbrauchergeschaeft: Zinssatz max. 12 % uebersteigt den Basiszinssatz nicht.
-- Zustellung im Inland moeglich (Ausnahme EuMVVO für EU-Auslandsfaelle).
+- Zustellung im Inland möglich (Ausnahme EuMVVO für EU-Auslandsfaelle).
 
 Ausgeschlossen § 688 Abs. 2 ZPO:
 - Nr. 1: unbestimmte Forderungen.
-- Nr. 2: gegenseitige Vertraege mit offener Gegenleistung.
+- Nr. 2: gegenseitige Verträge mit offener Gegenleistung.
 - Nr. 3: öffentliche Zustellung notwendig.
 
 ## Zuständigkeit § 689 ZPO
 
-**Ausschliesslich** das zentrale Mahngericht des Landes, in dem der Glaeubiger seinen allgemeinen Gerichtsstand hat:
+**Ausschließlich** das zentrale Mahngericht des Landes, in dem der Glaeubiger seinen allgemeinen Gerichtsstand hat:
 
 | Bundesland | Zentrales Mahngericht |
 |---|---|
@@ -54,8 +54,8 @@ Bei Glaeubiger im Ausland: Wahl unter den Mahngerichten (§ 689 Abs. 2 ZPO), AG 
 
 - Portal: [online-mahnantrag.de](https://www.online-mahnantrag.de) (Bund-Länder-Kooperation)
 - Format: Barcode-Antrag, professioneller XJustiz-Datensatz oder Online-Formular
-- Anwaltspflicht: nein (auch für Privatpersonen moeglich, § 78 Abs. 3 ZPO)
-- Bei beruflichem Antrag durch Anwalt: ueber beA EDA-Schnittstelle (§ 690 Abs. 3 ZPO)
+- Anwaltspflicht: nein (auch für Privatpersonen möglich, § 78 Abs. 3 ZPO)
+- Bei beruflichem Antrag durch Anwalt: über beA EDA-Schnittstelle (§ 690 Abs. 3 ZPO)
 
 ## Inhalt des Antrags § 690 ZPO
 
@@ -92,16 +92,16 @@ Antrag (online) -> Pruefung Mahngericht -> Erlass MB
 ## Widerspruch § 694 ZPO
 
 - Frist: 2 Wochen ab Zustellung (§ 692 Abs. 1 Nr. 3 ZPO).
-- Form: Schriftlich oder ueber elektronisches Formular.
+- Form: Schriftlich oder über elektronisches Formular.
 - Inhalt: keine Begruendung erforderlich; pauschaler Widerspruch genuegt.
-- Teilwiderspruch moeglich (§ 694 Abs. 1 ZPO).
+- Teilwiderspruch möglich (§ 694 Abs. 1 ZPO).
 - Verspaeteter Widerspruch wirkt als Einspruch gegen den Vollstreckungsbescheid (§ 694 Abs. 2 ZPO).
 
 ## Abgabe an Prozessgericht § 696 ZPO
 
-- Antrag durch Klaeger oder Beklagten.
-- Beweis: Klaeger muss Anspruch innerhalb der gesetzten Frist begruenden (Anspruchsbegruendung als Klageschrift, § 697 ZPO).
-- Saeumnisurteil moeglich, wenn Klaeger nicht begruendet.
+- Antrag durch Kläger oder Beklagten.
+- Beweis: Kläger muss Anspruch innerhalb der gesetzten Frist begruenden (Anspruchsbegruendung als Klageschrift, § 697 ZPO).
+- Saeumnisurteil möglich, wenn Kläger nicht begruendet.
 
 ## Vollstreckungsbescheid § 699 ZPO
 
@@ -124,7 +124,7 @@ Bei grenzueberschreitenden Forderungen im EU-Inland (ausser DK):
 
 - Forderung nicht bezifferbar (Schadensersatz dem Grunde nach).
 - Gegenleistung nicht erbracht aber so erklaert.
-- Zinssatz bei Verbrauchergeschaeft ueber zulaessigem Hoechstsatz.
+- Zinssatz bei Verbrauchergeschaeft über zulaessigem Hoechstsatz.
 - Anspruch falsch katalogisiert (Code falsch).
 - Adresse nicht ladungsfaehig.
 - Bei Widerspruch keine fristgerechte Anspruchsbegruendung.

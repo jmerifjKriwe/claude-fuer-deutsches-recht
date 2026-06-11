@@ -5,14 +5,14 @@ description: "Sachliche § 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026) und §
 
 # Zuständigkeitspruefung
 
-Vor jeder Klage- oder Mahnantrag-Einreichung pruefen: ist das angegangene Gericht sachlich, oertlich und ggf. international zuständig.
+Vor jeder Klage- oder Mahnantrag-Einreichung prüfen: ist das angegangene Gericht sachlich, oertlich und ggf. international zuständig.
 
 ## Sachliche Zuständigkeit (Streitwert-Grenze)
 
 | Streitwert | Gericht | Norm | Anwaltszwang |
 |---|---|---|---|
 | bis 10.000 EUR | Amtsgericht | § 23 Nr. 1 GVG (ab 01.01.2026) | nein § 78 Abs. 3 ZPO |
-| ueber 10.000 EUR | Landgericht | § 71 Abs. 1 GVG | ja § 78 Abs. 1 ZPO |
+| über 10.000 EUR | Landgericht | § 71 Abs. 1 GVG | ja § 78 Abs. 1 ZPO |
 
 **Ausnahme: AG kraft sachlicher Sondernorm** (ohne Streitwert):
 - § 23 Nr. 2 GVG: Wohnraummiete, Reiseangelegenheiten, Wildschaden.
@@ -33,17 +33,17 @@ Vor jeder Klage- oder Mahnantrag-Einreichung pruefen: ist das angegangene Gerich
 | Juristische Person (GmbH, AG, e.V.) | Satzungssitz (§ 17 Abs. 1 ZPO), hilfsweise Verwaltungssitz |
 | Behörde | Amtssitz (§ 17 Abs. 2 ZPO) |
 | Person ohne Wohnsitz im Inland | letzter Wohnsitz Inland (§ 16 ZPO) |
-| Bei Auslandsbeklagtem | Aufenthalt / Vermoegen § 23 ZPO (besonderer Gerichtsstand) |
+| Bei Auslandsbeklagtem | Aufenthalt / Vermögen § 23 ZPO (besonderer Gerichtsstand) |
 
 ### Besondere Gerichtsstaende (zur Wahl §§ 35 ZPO)
 
 | Gerichtsstand | Anwendungsfall | Norm |
 |---|---|---|
 | Erfuellungsort | vertragliche Streitigkeit | § 29 ZPO i.V.m. § 269 BGB |
-| Niederlassung | Geschaeft der Niederlassung | § 21 ZPO |
-| Vermoegen | bei auslaendischem Beklagten | § 23 ZPO |
+| Niederlassung | Geschäft der Niederlassung | § 21 ZPO |
+| Vermögen | bei auslaendischem Beklagten | § 23 ZPO |
 | Unerlaubte Handlung | Tatort (Handlungs-/Erfolgsort) | § 32 ZPO |
-| Mietsachen | belegene Sache (ausschliesslich) | § 29a ZPO |
+| Mietsachen | belegene Sache (ausschließlich) | § 29a ZPO |
 | Verbraucherklagen gegen Verbraucher | Wohnsitz Verbraucher | § 29c ZPO |
 | Versicherungsnehmer | Wohnsitz Versicherungsnehmer | § 215 VVG |
 
@@ -51,20 +51,20 @@ Vor jeder Klage- oder Mahnantrag-Einreichung pruefen: ist das angegangene Gerich
 
 | Konstellation | Wirksamkeit |
 |---|---|
-| Kaufmaennische Vertraege B2B | wirksam § 38 Abs. 1 ZPO |
+| Kaufmaennische Verträge B2B | wirksam § 38 Abs. 1 ZPO |
 | Mit Verbraucher | nur eng beschraenkt § 38 Abs. 2 ZPO |
 | Auslandsbezug (vor Streit) | nur für kuenftige Streitigkeiten § 38 Abs. 2 ZPO |
 | AGB-Klausel im B2C | regelmaessig unwirksam § 307 BGB |
 
 ### Ausschliesslicher Gerichtsstand (Vorrang)
 
-- § 24 ZPO: Streitigkeiten ueber dingliche Rechte an Grundstuecken am Belegenheitsort.
+- § 24 ZPO: Streitigkeiten über dingliche Rechte an Grundstuecken am Belegenheitsort.
 - § 29a ZPO: Mietsachen am Belegenheitsort.
 - § 32b ZPO: kapitalmarktrechtliche Schadensersatzklagen.
 
 ## Mahngericht § 689 ZPO
 
-**Ausschliesslich** das **zentrale Mahngericht des Landes des Glaeubigers** (siehe Skill `mahnbescheid-online`).
+**Ausschließlich** das **zentrale Mahngericht des Landes des Glaeubigers** (siehe Skill `mahnbescheid-online`).
 
 ## Internationale Zuständigkeit
 
@@ -80,7 +80,7 @@ Vor jeder Klage- oder Mahnantrag-Einreichung pruefen: ist das angegangene Gerich
 | Verbrauchersachen | Wohnsitz Verbraucher | Art. 17-19 |
 | Versicherung | Wohnsitz VN | Art. 11 |
 | Arbeitsvertrag | Arbeitsort | Art. 21 |
-| Ausschliesslich | Belegenheit Grundstueck, Register | Art. 24 |
+| Ausschließlich | Belegenheit Grundstueck, Register | Art. 24 |
 | Gerichtsstand-Vereinbarung | nur schriftlich, exklusiv | Art. 25 |
 
 ### Lugano-Uebereinkommen – Schweiz, Norwegen, Island
@@ -94,7 +94,7 @@ Parallel zu Bruessel Ia, weitgehend identisch.
 
 ## Verweisung § 281 ZPO
 
-Bei Unzuständigkeit: Antrag auf Verweisung statt Klageabweisung. Bindungswirkung § 281 Abs. 2 ZPO. Vorsicht: Verweisung an LG nur ueber 10.000 EUR ohne Anwaltszwang nicht moeglich; vorherige Mandatierung.
+Bei Unzuständigkeit: Antrag auf Verweisung statt Klageabweisung. Bindungswirkung § 281 Abs. 2 ZPO. Vorsicht: Verweisung an LG nur über 10.000 EUR ohne Anwaltszwang nicht möglich; vorherige Mandatierung.
 
 ## Online-Verifikation
 
@@ -104,7 +104,7 @@ Bei Unzuständigkeit: Antrag auf Verweisung statt Klageabweisung. Bindungswirkun
 | [justizadressen.nrw.de](https://www.justizadressen.nrw.de) | NRW-Adressen |
 | Justizportal jeweiliges Land | aktuelle Anschrift, Geschaeftsstelle |
 
-## Output Pruefung
+## Output Prüfung
 
 ```
 Sachliche Zuständigkeit:

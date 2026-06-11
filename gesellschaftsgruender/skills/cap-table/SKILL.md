@@ -25,7 +25,7 @@ description: "Cap-Table für GmbH oder UG aufbauen und pflegen: Stammkapital, Ge
 
 Klaere vor Erstellung des Cap Table:
 
-1. **Finanzierungsrunde?** Pre-Seed (Solo-Gruender) oder Series A (mehrere Klassen)?
+1. **Finanzierungsrunde?** Pre-Seed (Solo-Gründer) oder Series A (mehrere Klassen)?
 2. **Anteilsklassen vorhanden?** Nur Common oder auch Class A/B/C mit Sonderrechten?
 3. **Vesting-Schedule?** Gibt es Founder-Vesting, ESOP-Pool, Cliff-Perioden?
 4. **Liquidation Preference?** Non-participating, participating, Multiplier?
@@ -52,7 +52,7 @@ Klaere vor Erstellung des Cap Table:
 |---|---|---|---|
 | 1 | Gesellschafterliste aktuell? | § 40 GmbHG | Muss jede Anteilsaenderung widerspiegeln |
 | 2 | Legitimationswirkung beachtet? | § 16 GmbHG | Nur Eingetragener gilt als Gesellschafter |
-| 3 | Anteilsklassen satzungskonform? | § 3 GmbHG | Class A/B-Rechte muessen in Satzung verankert sein |
+| 3 | Anteilsklassen satzungskonform? | § 3 GmbHG | Class A/B-Rechte müssen in Satzung verankert sein |
 | 4 | Vesting-Rückübertragung notariell geregelt? | § 15 GmbHG | Formlose Vereinbarung genuegt nicht |
 | 5 | Einziehungs-Klausel für Bad Leaver? | § 34 GmbHG | Nur wenn satzungsmaessig vorgesehen |
 | 6 | Liquidation Preference mit Satzung konsistent? | § 3 GmbHG | SHA-Waterfall bei Widerspruch unwirksam |
@@ -62,7 +62,7 @@ Klaere vor Erstellung des Cap Table:
 
 1. **Bestandsaufnahme:** Aktuelle Gesellschafterliste (§ 40 GmbHG) und Satzung lesen; alle Klassen, Nennwerte, Vesting-Status erfassen.
 2. **Klassen-Matrix:** Separate Tabelle für Common, A, B, C mit Stimmrechten, Liquidation Preference, Anti-Dilution.
-3. **Vesting-Schedule:** Pro Gruender Cliff-Datum und Vesting-Ende eintragen; aktuell gevested und ungevested ausweisen.
+3. **Vesting-Schedule:** Pro Gründer Cliff-Datum und Vesting-Ende eintragen; aktuell gevested und ungevested ausweisen.
 4. **Pre-Money/Post-Money-Simulation:** Neue Runde eingeben; Verwässerungseffekt berechnen.
 5. **Liquidation-Waterfall:** Exit-Szenario simulieren (Participating vs. non-participating); Ausgabe pro Gesellschafter.
 6. **Gesellschafterliste aktualisieren:** Bei jeder Anteilsaenderung unverzueglich neue Liste für Notar vorbereiten.
@@ -115,7 +115,7 @@ Gesamt-Checks: Summe aller Auszahlungen = [EXIT-PREIS] EUR
 ## Rote Schwellen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Gesellschafterliste nicht aktualisiert: Haftung GF; gutglaeubiger Erwerb durch Dritte moeglich (§ 16 GmbHG)
+- Gesellschafterliste nicht aktualisiert: Haftung GF; gutglaeubiger Erwerb durch Dritte möglich (§ 16 GmbHG)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - ESOP-Optionen ohne Satzungs-/Hauptversammlungsbeschluss: Kapitalerhoehung nicht vollziehbar
 

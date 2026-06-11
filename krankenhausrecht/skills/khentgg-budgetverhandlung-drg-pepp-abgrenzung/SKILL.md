@@ -37,8 +37,8 @@ Die jaehrliche Budgetverhandlung legt für jede Klinik den Erloesrahmen fest. **
 - **MD-Pruefungen** nach § 275c SGB V ergaenzen Abrechnung.
 
 ## / Schritt für Schritt
-1. **Abgrenzung pruefen:** Welche Bereiche fallen unter DRG (somatisch), welche unter PEPP (Psychiatrie, Psychosomatik)?
-2. **Datensaetze pruefen:** AEB (Aufstellung der Entgelte und Budgetberechnung), L-Datensatz (Leistungen), E1/E2/E3 (Erloese), Pflegebudget-Nachweis.
+1. **Abgrenzung prüfen:** Welche Bereiche fallen unter DRG (somatisch), welche unter PEPP (Psychiatrie, Psychosomatik)?
+2. **Datensaetze prüfen:** AEB (Aufstellung der Entgelte und Budgetberechnung), L-Datensatz (Leistungen), E1/E2/E3 (Erloese), Pflegebudget-Nachweis.
 3. **Mehrleistungen quantifizieren:** Casemix-Volumen, neue OPS, Mengenentwicklung, Vorhalte-Anteil.
 4. **Forderungen ableiten:** Veraenderungsrate, Erloesausgleich, Vereinbarungstatbestaende.
 5. **Verhandlung fuehren:** Termin mit Kassenseite (vdek, GKV-Spitzenverband-Landesvertretung, Ersatzkassen-Verbaende), Protokollfuehrung.
@@ -48,7 +48,7 @@ Die jaehrliche Budgetverhandlung legt für jede Klinik den Erloesrahmen fest. **
 
 | Strategie | Vorteil | Nachteil | Wann |
 |---|---|---|---|
-| frueh Einvernehmen | Planbarkeit, kein Schiedsverfahren | ggf. niedrigere Verguetung | Standard, Mengenentwicklung normal |
+| frueh Einvernehmen | Planbarkeit, kein Schiedsverfahren | ggf. niedrigere Vergütung | Standard, Mengenentwicklung normal |
 | Schiedsstelle | objektive Drittentscheidung | Dauer, Verfahrenskosten | bei substanziellem Dissens |
 | Nachverhandlung | Korrektur Casemix-Schaetzfehler | nur Anlasstatbestaende | unerwartete Mengen/Strukturen |
 | Mehrleistungsabschlag akzeptieren | schneller Konsens | Reduktion 35 % auf Mehrmengen | bei kurzfristigen Mehrleistungen |

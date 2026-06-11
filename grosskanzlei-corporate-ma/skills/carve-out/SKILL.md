@@ -23,7 +23,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 | --- | --- |
 | Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschaeftsfuehrung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
 | Phase | Screening, NDA, Term Sheet, Datenraum, DD, SPA/APA, Signing, Closing, PMI, Streit oder Post-Mortem. |
-| Material | Business perimeter, Assets, Mitarbeiter, IT/Data, Vertraege, Genehmigungen, Shared Services, Timeline. |
+| Material | Business perimeter, Assets, Mitarbeiter, IT/Data, Verträge, Genehmigungen, Shared Services, Timeline. |
 | Frist | Signing, Closing, Q&A, Filing, Board, Beurkundung, Angebotsfrist, CP-Deadline oder keine Eile erkennbar. |
 | Ziel-Output | Separation Plan, TSA-Matrix, Stranded-Cost-Check, Closing Readiness und Red Flags. |
 
@@ -32,9 +32,9 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 
 | Karte/Spalte | Inhalt | Status | Owner | Quelle | Naechster Schritt |
 | --- | --- | --- | --- | --- | --- |
-| Issue | Konkretes Thema oder Dokument | offen / in Pruefung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
+| Issue | Konkretes Thema oder Dokument | offen / in Prüfung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
 
-Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
+Für Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
 - Kurzbild für Partner oder Mandant.
@@ -44,7 +44,7 @@ Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Bef
 - Offene Punkte mit genauem Nachforderungswortlaut.
 
 ## Quality Gate
-Vor Ausgabe immer pruefen:
+Vor Ausgabe immer prüfen:
 
 - Ist die Partei-Perspektive klar?
 - Sind alle Fristen und Vollzugsrisiken markiert?

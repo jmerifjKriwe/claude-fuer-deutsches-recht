@@ -7,4 +7,4 @@
 | Neues Regelungsvorhaben | vor Kontakt bzw. unverzueglich |  |  |  |  |
 | Stellungnahme/Gutachten versandt | Quartalsende |  |  |  |  |
 | Geschaeftsjahr beendet | Finanzdaten/Jahresupdate |  |  |  |  |
-| RfS-Aufforderung | Nachholfrist pruefen |  |  |  |  |
+| RfS-Aufforderung | Nachholfrist prüfen |  |  |  |  |

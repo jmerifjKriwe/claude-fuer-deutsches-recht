@@ -54,7 +54,7 @@ ALR I 9 / I 22 / I 23 regelt Grundstuecksrecht, Grenzen, Nachbarrecht, Notwege, 
 
 ### Heutige Fortwirkung
 - § 906 BGB ist konzeptionell ALR-naehe, wenn auch dogmatisch klarer.
-- Hutungsrechte / Triftrechte / Allmenderechte in Brandenburg, Mecklenburg, Sachsen-Anhalt teils bis heute eingetragen; pruefen ob Bereinigungsgesetz greift.
+- Hutungsrechte / Triftrechte / Allmenderechte in Brandenburg, Mecklenburg, Sachsen-Anhalt teils bis heute eingetragen; prüfen ob Bereinigungsgesetz greift.
 - Landesnachbarrechtsgesetze (z. B. NachbG NRW, NachbG Bdb) regeln heute den weit ueberwiegenden Teil; ALR taucht nur noch in Altakten auf.
 
 ### Beruehmte Faelle / Personen

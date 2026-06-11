@@ -22,7 +22,7 @@ description: "Untreue nach Paragraph 266 StGB Grundtatbestand: Missbrauchstatbes
 
 ## Worum geht es konkret
 
-Paragraph 266 StGB schuetzt fremdes Vermoegen vor Schaedigung durch Personen, denen es zur Wahrnehmung anvertraut ist. Anwendungsfall: GmbH-GF nimmt Privatentnahmen aus der Kasse, ohne Gesellschafterzustimmung. Stiftungsvorstand zahlt eigene Honorare in unangemessener Hoehe. Bankvorstand vergibt riskante Kredite ohne Sicherheitenpruefung.
+Paragraph 266 StGB schuetzt fremdes Vermögen vor Schaedigung durch Personen, denen es zur Wahrnehmung anvertraut ist. Anwendungsfall: GmbH-GF nimmt Privatentnahmen aus der Kasse, ohne Gesellschafterzustimmung. Stiftungsvorstand zahlt eigene Honorare in unangemessener Höhe. Bankvorstand vergibt riskante Kredite ohne Sicherheitenpruefung.
 
 Die Norm ist das Zentralgrundgeruest des deutschen Wirtschaftsstrafrechts und gleichzeitig das verfassungsrechtlich umstrittenste. Seit BVerfG 23.06.2010 (NJW 2010, 3209) ist die Beziehung Untreue-Schaden eng am Bestimmtheitsgebot zu messen.
 
@@ -30,7 +30,7 @@ Die Norm ist das Zentralgrundgeruest des deutschen Wirtschaftsstrafrechts und gl
 
 ### Absatz 1: zwei Tatbestandsalternativen
 
-**Missbrauchstatbestand (1. Alt.)**: Wer die ihm durch Gesetz, behoerdlichen Auftrag oder Rechtsgeschaeft eingeraeumte Befugnis, ueber fremdes Vermoegen zu verfuegen oder einen anderen zu verpflichten, missbraucht und dadurch dem, dessen Vermoegensinteressen er zu betreuen hat, Nachteil zufuegt.
+**Missbrauchstatbestand (1. Alt.)**: Wer die ihm durch Gesetz, behoerdlichen Auftrag oder Rechtsgeschaeft eingeraeumte Befugnis, über fremdes Vermögen zu verfuegen oder einen anderen zu verpflichten, missbraucht und dadurch dem, dessen Vermoegensinteressen er zu betreuen hat, Nachteil zufuegt.
 
 **Treubruchstatbestand (2. Alt.)**: Wer die ihm kraft Gesetz, behoerdlichen Auftrags, Rechtsgeschaefts oder Treueverhaeltnisses obliegende Pflicht, fremde Vermoegensinteressen wahrzunehmen, verletzt und dem, dessen Vermoegensinteressen er zu betreuen hat, dadurch Nachteil zufuegt.
 
@@ -40,12 +40,12 @@ Die Norm ist das Zentralgrundgeruest des deutschen Wirtschaftsstrafrechts und gl
 - **Tathandlung**:
  - Missbrauch = Ueberschreitung des Innenrechts (zwar im rechtsgeschaeftlichen Aussenverhaeltnis wirksam, aber pflichtwidrig).
  - Treubruch = Verletzung der Pflicht im weiteren Sinne (auch tatsaechliches Verhalten).
-- **Vermoegensnachteil**: Vergleich Vermoegen vor und nach Pflichtverletzung. Schadensbeziffrung BGH-Stufenmodell (siehe Fachmodul schaden-und-bezifferbarkeit).
-- **Vorsatz**: Eventualvorsatz reicht. Aber: Schadenshoehe muss im Vorsatz erfasst sein (gewisse Verallgemeinerung zulaessig).
+- **Vermoegensnachteil**: Vergleich Vermögen vor und nach Pflichtverletzung. Schadensbeziffrung BGH-Stufenmodell (siehe Fachmodul schaden-und-bezifferbarkeit).
+- **Vorsatz**: Eventualvorsatz reicht. Aber: Schadenshoehe muss im Vorsatz erfasst sein (gewisse Verallgemeinerung zulässig).
 
 ### Absatz 2: Schadenstatbestand
 
-Verweisungsnorm auf Paragraph 263 Abs 3 StGB (besonders schwerer Fall des Betrugs), insbesondere Regelbeispiel Nr 1 grosser Vermoegensschaden. Strafrahmen 6 Monate bis 10 Jahre.
+Verweisungsnorm auf Paragraph 263 Abs 3 StGB (besonders schwerer Fall des Betrugs), insbesondere Regelbeispiel Nr 1 großer Vermoegensschaden. Strafrahmen 6 Monate bis 10 Jahre.
 
 ### Subjektiver Tatbestand: schadensgleiche Vermoegensgefaehrdung
 
@@ -54,7 +54,7 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 ## Praktikertipps der alten Hasen
 
 - **Vermoegensbetreuungspflicht angreifen.** Bei jeder Untreuevorwurf-Verteidigung: Hatte der Mandant tatsaechlich eine *qualifizierte* Pflicht? Bei einfachen Angestellten oft nein, bei Kassierern manchmal nicht (BGH staendige Rspr. zur Bedienpflicht).
-- **Einwilligung des Vermoegensinhabers.** Bei GmbH: Wenn alle Gesellschafter zustimmen, scheidet Schaedigung *grundsaetzlich* aus. Aber: BGH-Linie schraenkt ein - bei Existenzgefaehrdung der GmbH ist auch einstimmige Gesellschafterzustimmung untreuewidrig (Stichwort "Existenzvernichtungsuntreue"; BGH-Linie streng).
+- **Einwilligung des Vermoegensinhabers.** Bei GmbH: Wenn alle Gesellschafter zustimmen, scheidet Schaedigung *grundsätzlich* aus. Aber: BGH-Linie schraenkt ein - bei Existenzgefaehrdung der GmbH ist auch einstimmige Gesellschafterzustimmung untreuewidrig (Stichwort "Existenzvernichtungsuntreue"; BGH-Linie streng).
 - **Business Judgment Rule Paragraph 93 Abs 1 Satz 2 AktG.** Bei unternehmerischen Entscheidungen kein Pflichtverstoss, wenn Entscheidung "auf Grundlage angemessener Information" und "zum Wohl der Gesellschaft" getroffen. Verteidigung muss Entscheidungsgrundlagen rekonstruieren (Vorstandsprotokoll, Sachverstaendigengutachten, externe Beratung).
 - **Schadensbeziffrung im Strengen.** Ohne genaue Bezifferbarkeit ist Untreue verfassungsrechtlich angreifbar. Verteidigung erzwingt Stufenberechnung mit Sachverstaendigem.
 - **Subjektiver Tatbestand: Verbotsirrtum Paragraph 17 StGB.** Bei komplexen Rechtsfragen oft greifbar. Bei Beratungsfehler des Rechtsanwalts: vermeidbarer Verbotsirrtum, Strafmilderung.
@@ -67,16 +67,16 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 
 ## Konkurrenzen
 
-- **Paragraph 266 StGB und Paragraph 263 StGB Betrug.** Untreue setzt eine Innenpflicht voraus, Betrug eine Aussenkommunikation. Bei Doppellage Tateinheit moeglich, aber meist Spezialitaet.
-- **Paragraph 266 StGB und Paragraph 283 StGB Bankrott.** GF, der in der Krise Vermoegen entzieht, verwirklicht sowohl Untreue (gegenueber GmbH) als auch Bankrott (gegenueber Glaeubigergesamtheit). Tateinheit.
+- **Paragraph 266 StGB und Paragraph 263 StGB Betrug.** Untreue setzt eine Innenpflicht voraus, Betrug eine Aussenkommunikation. Bei Doppellage Tateinheit möglich, aber meist Spezialitaet.
+- **Paragraph 266 StGB und Paragraph 283 StGB Bankrott.** GF, der in der Krise Vermögen entzieht, verwirklicht sowohl Untreue (gegenueber GmbH) als auch Bankrott (gegenueber Glaeubigergesamtheit). Tateinheit.
 - **Paragraph 266 StGB und Paragraph 246 StGB Unterschlagung.** Bei eigenhaendiger Zueignung von Bargeld; oft Tateinheit, Untreue wegen Vermoegensbetreuungspflicht spezieller.
-- **Paragraph 266 StGB und Paragraph 370 AO Steuerhinterziehung.** Bei Untreue ueber Steuerzahlungen Tateinheit.
+- **Paragraph 266 StGB und Paragraph 370 AO Steuerhinterziehung.** Bei Untreue über Steuerzahlungen Tateinheit.
 
 ## Strafzumessung und Folgen
 
 - Absatz 1: Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
 - Absatz 2 (besonders schwerer Fall): 6 Monate bis 10 Jahre.
-- **Regelbeispiele Paragraph 263 Abs 3 StGB** (via Verweisung): Vermoegensverlust grossen Ausmasses, gewerbsmäßige Begehung, fortgesetzte Tat.
+- **Regelbeispiele Paragraph 263 Abs 3 StGB** (via Verweisung): Vermoegensverlust großen Ausmasses, gewerbsmäßige Begehung, fortgesetzte Tat.
 - **Einziehung Paragraph 73 StGB** des untreuewidrig Erlangten; bei Selbstbereicherung Wertersatz Paragraph 73c StGB.
 - **Berufsverbot Paragraph 70 StGB** bei groben Pflichtverletzungen.
 - **GF-Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG** bei Verurteilung wegen Insolvenzstraftat.

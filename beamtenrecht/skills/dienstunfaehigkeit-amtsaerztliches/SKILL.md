@@ -15,7 +15,7 @@ description: "Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehi
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbesondere im Streit ueber Auswahl, Reichweite und Verwertbarkeit des amtsaerztlichen Gutachtens.
+Skill für Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbesondere im Streit über Auswahl, Reichweite und Verwertbarkeit des amtsaerztlichen Gutachtens.
 
 ## 2. Eingaben
 
@@ -32,7 +32,7 @@ Skill für Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbeson
 
 ### b) Mitwirkungspflicht
 - Beamter ist verpflichtet, sich der amtsaerztlichen Untersuchung zu unterziehen (§ 44 BBG).
-- Verweigerung kann zu Ruhestandsversetzung gemaess Vermutungsregelung fuehren.
+- Verweigerung kann zu Ruhestandsversetzung gemäß Vermutungsregelung fuehren.
 
 ### c) Vorrang des amtsaerztlichen Gutachtens
 - Im Konfliktfall zwischen amtsaerztlichem Gutachten und Privatgutachten genuesst das amtsaerztliche Gutachten regelmaessig groesseres Gewicht; Vorrang aber nicht absolut, sondern nur bei methodisch gleichwertiger Erstellung.

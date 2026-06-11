@@ -5,15 +5,15 @@ description: "Drei Stufen der Kontrolldichte des BVerfG (Evidenz-, Vertretbarkei
 
 # Einschaetzungspraerogative und Kontrolldichte
 
-> Das BVerfG entscheidet nicht ueber jede Norm gleich genau. Welche Kontrolldichte gewaehlt wird, ist eine Vorentscheidung, die das gesamte Ergebnis der Verhaeltnismaessigkeitspruefung praegt.
+> Das BVerfG entscheidet nicht über jede Norm gleich genau. Welche Kontrolldichte gewaehlt wird, ist eine Vorentscheidung, die das gesamte Ergebnis der Verhaeltnismaessigkeitspruefung praegt.
 
 ## Drei Stufen der Kontrolldichte
 
 | Stufe | Beschreibung | Typische Anwendungsfelder | BVerfG mit Schlagwort |
 | --- | --- | --- | --- |
 | Evidenzkontrolle | Nur evidente Fehler werden beanstandet | Wirtschaftspolitik, Aussenpolitik, neuartige Risiken | BVerfGE 50, 290 (Mitbestimmungs-Urteil); BVerfGE 102, 197 (Spielbankenmonopol) |
-| Vertretbarkeitskontrolle | Pruefung, ob der Gesetzgeber sich auf vertretbare Annahmen stuetzt | Standard bei wirtschaftlichen Eingriffen, Pandemie-Notlagen | BVerfGE 159, 223 (Bundesnotbremse) |
-| Intensive inhaltliche Kontrolle | Volle materielle Pruefung, Pruefung der Tatsachenbasis | Schwere Eingriffe in hochwertige Grundrechte, schwere Straffolgen | BVerfGE 88, 203 (Schwangerschaftsabbruch II); BVerfGE 39, 1 (Schwangerschaftsabbruch I) |
+| Vertretbarkeitskontrolle | Prüfung, ob der Gesetzgeber sich auf vertretbare Annahmen stuetzt | Standard bei wirtschaftlichen Eingriffen, Pandemie-Notlagen | BVerfGE 159, 223 (Bundesnotbremse) |
+| Intensive inhaltliche Kontrolle | Volle materielle Prüfung, Prüfung der Tatsachenbasis | Schwere Eingriffe in hochwertige Grundrechte, schwere Straffolgen | BVerfGE 88, 203 (Schwangerschaftsabbruch II); BVerfGE 39, 1 (Schwangerschaftsabbruch I) |
 
 ## Was steuert die Kontrolldichte?
 
@@ -26,7 +26,7 @@ description: "Drei Stufen der Kontrolldichte des BVerfG (Evidenz-, Vertretbarkei
 ## Beispiele entlang der Pruefungsstufen
 
 ### Geeignetheit
-Weiter Beurteilungsspielraum. BVerfGE 30, 292 (Erdoelbevorratung): "Geeignet ist eine Massnahme schon dann, wenn mit ihrer Hilfe der gewuenschte Erfolg gefoerdert werden kann." Vgl auch BVerfGE 159, 223 (Bundesnotbremse) zur dynamischen Wissenslage.
+Weiter Beurteilungsspielraum. BVerfGE 30, 292 (Erdoelbevorratung): "Geeignet ist eine Maßnahme schon dann, wenn mit ihrer Hilfe der gewuenschte Erfolg gefoerdert werden kann." Vgl auch BVerfGE 159, 223 (Bundesnotbremse) zur dynamischen Wissenslage.
 
 ### Erforderlichkeit
 Engerer Spielraum. Ob ein milderes Mittel gleich effektiv ist, kann meist plausibler ueberprueft werden. Vgl BVerfGE 53, 135 (Pelzwerbung) zum Effektivitaetsvergleich.
@@ -34,7 +34,7 @@ Engerer Spielraum. Ob ein milderes Mittel gleich effektiv ist, kann meist plausi
 ### Angemessenheit
 Verbleibt eine inhaltliche Abwaegung mit Wertungsfragen. Die Kontrolldichte richtet sich nach den oben genannten Faktoren.
 
-## Hinweis fuer die Praxis
+## Hinweis für die Praxis
 
 Die Wahl der Kontrolldichte ist nicht "voraussetzungslos". Sie muss begruendet werden, und Tom-Notiz: die Begruendung ist oft das eigentliche Argument im Schriftsatz oder in der Entscheidung.
 

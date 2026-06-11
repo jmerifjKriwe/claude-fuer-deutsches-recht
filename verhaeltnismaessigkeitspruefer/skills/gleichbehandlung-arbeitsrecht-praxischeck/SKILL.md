@@ -11,9 +11,9 @@ Das AGG entfaltet seine praktische Wirkung vor allem im Arbeitsrecht. Dieser Ski
 
 ## Paragraph 7 AGG — Benachteiligungsverbot
 
-Beschaeftigte duerfen wegen eines Merkmals aus Paragraph 1 AGG **nicht benachteiligt** werden. Der Schutz erfasst Bewerberinnen Beschaeftigte und ausgeschiedene Personen und gilt fuer den gesamten Arbeitsverhaeltniszyklus.
+Beschaeftigte dürfen wegen eines Merkmals aus Paragraph 1 AGG **nicht benachteiligt** werden. Der Schutz erfasst Bewerberinnen Beschaeftigte und ausgeschiedene Personen und gilt für den gesamten Arbeitsverhaeltniszyklus.
 
-Konsequenz fuer den Arbeitgeber:
+Konsequenz für den Arbeitgeber:
 - Verbot direkter und mittelbarer Benachteiligung.
 - Pflicht zur diskriminierungsfreien Ausgestaltung von Stellenausschreibungen Bewerbungsverfahren Beurteilung und Befoerderung.
 - Schutzpflicht gegenueber Belaestigung durch Kolleginnen und Kunden.
@@ -28,7 +28,7 @@ Bei Vermoegensschaden voller Schadensersatz mit Verschuldenserfordernis das verm
 
 Auch ohne Vermoegensschaden besteht Anspruch auf eine angemessene Entschaedigung in Geld. Pauschale Obergrenze von drei Monatsverdiensten bei Bewerberinnen sofern auch bei diskriminierungsfreier Auswahl keine Einstellung erfolgt waere.
 
-Hoehe der Entschaedigung bestimmt sich nach:
+Höhe der Entschaedigung bestimmt sich nach:
 - Art und Schwere der Benachteiligung.
 - Verschuldensgrad.
 - Wiederholungsgefahr.
@@ -67,7 +67,7 @@ Typische Indizien:
 
 1. AGG ergaenzt das Kuendigungsschutzrecht ersetzt es nicht.
 2. Kuendigungen wegen eines Merkmals aus Paragraph 1 AGG sind unwirksam.
-3. Bei betriebsbedingter Kuendigung Sozialauswahl unter Beruecksichtigung von Alter und Schwerbehinderung mit Pruefung auf altersbedingte Mittelbarwirkung.
+3. Bei betriebsbedingter Kuendigung Sozialauswahl unter Beruecksichtigung von Alter und Schwerbehinderung mit Prüfung auf altersbedingte Mittelbarwirkung.
 
 ## Tragende Leitentscheidungen
 
@@ -81,12 +81,12 @@ Typische Indizien:
 
 ## Fallstricke
 
-- **Frist nach Paragraph 15 Abs. 4 AGG verschlafen** — zwei Monate sind kurz. Mandantinnen frueh ueber die Frist aufklaeren.
+- **Frist nach Paragraph 15 Abs. 4 AGG verschlafen** — zwei Monate sind kurz. Mandantinnen frueh über die Frist aufklaeren.
 - **Indizien zu schwach darlegen** — Paragraph 22 AGG verlangt mehr als blosse Vermutung. Konkrete Anknuepfungstatsachen erforderlich.
 - **Stellenausschreibung uebersehen** — der typischste Indiztraeger sind Formulierungen wie junges Team oder Muttersprachler.
 - **Hilfsweise rein arbeitsrechtlich argumentieren** — AGG-Argumente sollten ausdruecklich und nicht nur als Annex vorgetragen werden um Praeklusion zu vermeiden.
-- **Entschaedigungshoehe unterschaetzen** — Gerichte schoepfen die Hoehe zunehmend aus wenn Praeventionsbedarf erkennbar ist.
-- **Mittelbare Diskriminierung nicht pruefen** — auch ohne unmittelbare Anknuepfung kann eine Auswahlentscheidung diskriminieren.
+- **Entschaedigungshoehe unterschaetzen** — Gerichte schoepfen die Höhe zunehmend aus wenn Praeventionsbedarf erkennbar ist.
+- **Mittelbare Diskriminierung nicht prüfen** — auch ohne unmittelbare Anknuepfung kann eine Auswahlentscheidung diskriminieren.
 
 ## Verwandte Skills
 

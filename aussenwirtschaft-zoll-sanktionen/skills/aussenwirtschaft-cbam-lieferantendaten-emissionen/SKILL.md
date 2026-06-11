@@ -17,16 +17,16 @@ description: "Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtige
 
 - Importeur muss Lieferanten in Indien zur Emissionsoffenlegung auffordern; wie formulieren?
 - Hersteller in der Tuerkei liefert keine vollstaendigen Emissionsdaten; Standardwerte zwingend?
-- Mehrere Lieferanten für gleiche Ware liefern unterschiedliche Emissionswerte; Pruefmethodologie klaeren.
+- Mehrere Lieferanten für gleiche Ware liefern unterschiedliche Emissionswerte; Pruefmethodologie klären.
 
 ## Erste Schritte
 
 1. Emissionsdaten-Anforderungsschreiben an Drittland-Produzent auf Basis VO 2023/956 Anhang IV verfassen.
-2. Datenformat klaeren: direkte Emissionen (Scope 1) und indirekte (Strom), je Tonne Ware.
+2. Datenformat klären: direkte Emissionen (Scope 1) und indirekte (Strom), je Tonne Ware.
 3. Verifikation durch akkreditierten Prufer im Drittland oder EU anfordern.
-4. Empfangene Daten auf Plausibilitaet gegenueber Branchenstandards pruefen.
+4. Empfangene Daten auf Plausibilitaet gegenueber Branchenstandards prüfen.
 5. Standardwerte der EU-Kommission als Fallback vorbereiten und Mehrkosten kalkulieren.
-6. Emissionsdaten in CBAM-Bericht und spaeter in CBAM-Erklaerung einarbeiten.
+6. Emissionsdaten in CBAM-Bericht und später in CBAM-Erklaerung einarbeiten.
 
 ## Rechtsrahmen
 

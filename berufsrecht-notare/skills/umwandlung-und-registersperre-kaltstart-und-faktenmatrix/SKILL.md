@@ -7,7 +7,7 @@ description: "Notare: umwandlung und registersperre - Kaltstart mit Faktenmatrix
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Umwandlung Und Registersperre Kaltstart Und Faktenmatrix** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Berufsrecht Notare** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Umwandlung Und Registersperre Kaltstart Und Faktenmatrix** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Berufsrecht Notare** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -52,7 +52,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fallweichen dieser Speziallage
 
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
+1. Rolle, Ziel und Entscheidungsdruck klären.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
 3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
 4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.

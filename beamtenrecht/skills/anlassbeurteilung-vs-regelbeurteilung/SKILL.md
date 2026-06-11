@@ -27,7 +27,7 @@ Skill für den haeufigen Streit, ob die Auswahlentscheidung auf einer ausreichen
 ## 3. Ablauf / Checkliste
 
 ### a) Aktualitaetsgrenze
-- Eine Beurteilung gilt nach staendiger Rechtsprechung des BVerwG nur eine begrenzte Zeit als hinreichend aktuell. Faustregel: rund drei Jahre, Einzelfall pruefen. Bei Aelterer Regelbeurteilung ist eine Anlassbeurteilung in der Regel geboten.
+- Eine Beurteilung gilt nach staendiger Rechtsprechung des BVerwG nur eine begrenzte Zeit als hinreichend aktuell. Faustregel: rund drei Jahre, Einzelfall prüfen. Bei Aelterer Regelbeurteilung ist eine Anlassbeurteilung in der Regel geboten.
 
 ### b) Anlassbeurteilung als Pflicht oder Verbot
 - Pflicht: wenn seit der letzten Beurteilung relevanter Zeitraum verstrichen ist oder eine wesentliche Veraenderung der Verwendung eingetreten ist.
@@ -39,10 +39,10 @@ Skill für den haeufigen Streit, ob die Auswahlentscheidung auf einer ausreichen
 
 ### d) Beurteilungszeitraum
 - Kein nahtloser Anschluss erforderlich, aber Luecke darf nicht groesser sein als der Regelturnus.
-- Beurteilungen ueber sehr kurzen Zeitraum (unter sechs Monaten) sind in der Regel angreifbar; Substanz im Beurteilungszeitraum nicht gegeben.
+- Beurteilungen über sehr kurzen Zeitraum (unter sechs Monaten) sind in der Regel angreifbar; Substanz im Beurteilungszeitraum nicht gegeben.
 
 ### e) Verwertbarkeit
-- Eine in einem anderen Auswahlverfahren erstellte Anlassbeurteilung kann im neuen Verfahren grundsaetzlich herangezogen werden, sofern weiterhin aktuell und vergleichbar.
+- Eine in einem anderen Auswahlverfahren erstellte Anlassbeurteilung kann im neuen Verfahren grundsätzlich herangezogen werden, sofern weiterhin aktuell und vergleichbar.
 
 ## 4. Quellenpflicht
 

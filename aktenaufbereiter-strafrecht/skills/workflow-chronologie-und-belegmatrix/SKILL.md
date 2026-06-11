@@ -29,7 +29,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Strafakte-Chronologie-Bausteine
 - **Tatzeit / Tatort** zuerst fixieren (Anklageschrift § 200 StPO Tenor).
-- **Ermittlungsstationen** mit Datum: Strafanzeige, Beschuldigtenvernehmung (§ 136 StPO Belehrung pruefen), Durchsuchung (§§ 102, 105 StPO), Festnahme / U-Haft (§ 112 StPO Haftbefehl, § 115 StPO Vorfuehrung), Abschlussverfuegung StA.
+- **Ermittlungsstationen** mit Datum: Strafanzeige, Beschuldigtenvernehmung (§ 136 StPO Belehrung prüfen), Durchsuchung (§§ 102, 105 StPO), Festnahme / U-Haft (§ 112 StPO Haftbefehl, § 115 StPO Vorfuehrung), Abschlussverfuegung StA.
 - **Beweiskette pro Tatkomplex:** Spur, sichernde Stelle, Auswertung, Gutachten, Aussagen (Tatzeuge, Geschaedigter, Beschuldigter).
 - **Verwertbarkeitspruefung:** § 136a StPO verbotene Vernehmungsmethoden; § 252 StPO Zeugnisverweigerung; Belehrungsmaengel und qualifizierte Belehrung nach staendiger Rspr.
 - **Belegmatrix-Spalten:** Datum, Aktenseite, Inhalt, Beweismittel-Typ (Urkunde § 249 StPO / Zeuge § 48 StPO / Sachverstaendiger § 73 StPO / Augenschein § 86 StPO), Verwendung, Bewertung.

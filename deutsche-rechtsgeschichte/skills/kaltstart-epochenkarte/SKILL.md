@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: Epochenkarte als Orientierungsinstrumen
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Epochenkarte** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Deutsche Rechtsgeschichte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Epochenkarte** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Deutsche Rechtsgeschichte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -53,7 +53,7 @@ Die Epochenkarte ist das zentrale Orientierungsinstrument für jeden rechtshisto
 - Epochengrenzen nicht starr setzen: Uebergaenge sind fliessend
 - Quellenpyramide beachten: Gesetzestext, Materialien (Mugdan für BGB), Rechtsprechung, Lehre
 - Anachronismus-Falle: Begriffe der heutigen Dogmatik nicht unkritisch auf aeltere Texte anwenden
-- Parallelueberlieferung pruefen: Partikularrecht bestand neben reichsweiten Regelungen
+- Parallelueberlieferung prüfen: Partikularrecht bestand neben reichsweiten Regelungen
 
 ## Historische Quellenanker
 
@@ -63,7 +63,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.

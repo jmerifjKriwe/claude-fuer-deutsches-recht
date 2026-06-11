@@ -13,7 +13,7 @@ description: "Sage Buchhalter BWA-Konfiguration. Anwendungsfall Mandanten oder K
 
 ## Kernsachverhalt
 
-Sage ist eine internationale ERP- und Buchhaltungsplattform, in Deutschland mit Sage 100, Sage 50 für KMU. Insbesondere bei mittelstaendischen Mandanten haeufig im Einsatz. BWA-Module sind aequivalent zu DATEV/Addison, aber mit anderer Bedienlogik. Steuerberater, die mit Sage-Mandanten arbeiten, brauchen Schnittstellen oder Datenuebernahme.
+Sage ist eine internationale ERP- und Buchhaltungsplattform, in Deutschland mit Sage 100, Sage 50 für KMU. Insbesondere bei mittelstaendischen Mandanten haeufig im Einsatz. BWA-Module sind äquivalent zu DATEV/Addison, aber mit anderer Bedienlogik. Steuerberater, die mit Sage-Mandanten arbeiten, brauchen Schnittstellen oder Datenuebernahme.
 
 ## Kaltstart-Rueckfragen
 
@@ -32,25 +32,25 @@ Sage ist eine internationale ERP- und Buchhaltungsplattform, in Deutschland mit 
 
 - Variante A: Mandant betreibt Sage selbst (Sage 50 Cloud, Sage 100, Sage Office Line); StB erhaelt Lese-Zugriff oder Monats-Export.
 - Variante B: StB betreibt Sage als Service-Provider (selten; in der Regel DATEV-Bevorzugung in Kanzleien).
-- Konten-Konfiguration: Sage unterstuetzt SKR 03/04 sowie eigene Kontenrahmen; Branchenkontenrahmen ueber Sage-Vorlagen.
+- Konten-Konfiguration: Sage unterstuetzt SKR 03/04 sowie eigene Kontenrahmen; Branchenkontenrahmen über Sage-Vorlagen.
 
 ### Phase 2 — BWA-Konfiguration
 
 - Sage-Standard-BWA gliedert ueblicherweise nach Erloesen, variable Kosten, Deckungsbeitrag, Fixkosten, Betriebsergebnis (vergleichbar mit DATEV BWA 01).
-- Vorjahresvergleich automatisch bei vorhandener Historie; Planwerte ueber das Sage-Planungsmodul.
-- Anpassung der BWA-Zeilen ueber `Auswertungen → BWA → Konfiguration` (konkreter Programmpfad variiert je Sage-Version — im Zweifelsfall in der Sage-Onlinehilfe unter "BWA-Konfiguration" nachschlagen).
+- Vorjahresvergleich automatisch bei vorhandener Historie; Planwerte über das Sage-Planungsmodul.
+- Anpassung der BWA-Zeilen über `Auswertungen → BWA → Konfiguration` (konkreter Programmpfad variiert je Sage-Version — im Zweifelsfall in der Sage-Onlinehilfe unter "BWA-Konfiguration" nachschlagen).
 
 ### Phase 3 — Schnittstellen
 
 - Sage-eRechnung-Modul für XRechnung/ZUGFeRD-Empfang und -Versand (§ 14 UStG; siehe Skill `stb-erechnung-pflicht-b2b-2025-2026`).
-- Bank-Anbindung ueber PSD2-Schnittstelle (HBCI/FinTS) oder Sage Banking.
-- Export im DATEV-CSV-Format (DATEV ASCII-Format) ueber `Stammdaten → Datenexport → DATEV` (Programmpfad version-abhaengig).
+- Bank-Anbindung über PSD2-Schnittstelle (HBCI/FinTS) oder Sage Banking.
+- Export im DATEV-CSV-Format (DATEV ASCII-Format) über `Stammdaten → Datenexport → DATEV` (Programmpfad version-abhaengig).
 
 ### Phase 4 — Datenaustausch mit StB
 
 - Standardisierter Monats-Export aus Sage; Termin- und Format-Vereinbarung schriftlich.
-- StB-Seite: Import in DATEV Kanzlei-Rechnungswesen ueber `Datei → Datenuebernahme → Buchungsstapel`.
-- Mapping-Tabelle Sage-Konten zu SKR 03/04 vorab abstimmen — Differenzen sonst pro Monat zu klaeren.
+- StB-Seite: Import in DATEV Kanzlei-Rechnungswesen über `Datei → Datenuebernahme → Buchungsstapel`.
+- Mapping-Tabelle Sage-Konten zu SKR 03/04 vorab abstimmen — Differenzen sonst pro Monat zu klären.
 
 ### Phase 5 — Lohn
 
@@ -61,21 +61,21 @@ Sage ist eine internationale ERP- und Buchhaltungsplattform, in Deutschland mit 
 ### Phase 6 — Updates
 
 - Jaehrliche Programm-Updates zum 1. Januar (LSt/SV-Tabellen, USt-Aenderungen, AfA-Tabellen).
-- Sage Cloud-Versionen: automatische Updates ueber den Cloud-Anbieter.
+- Sage Cloud-Versionen: automatische Updates über den Cloud-Anbieter.
 - Update-Pflicht aus § 146 AO (Programm muss aktuelle Tabellen abbilden).
 
 ## Strategie und Praxis-Tipps
 
 - Bei Sage-Mandanten Datenaustausch standardisieren — CSV-Export ist Standard.
 - Datenuebernahme Sage zu DATEV ist Aufwand — Mandantenwechsel sorgfaeltig planen.
-- Sage-Schulung ueber Sage-Akademie.
+- Sage-Schulung über Sage-Akademie.
 
 ## Quellen und Updates
 
 Stand: 05/2026.
 
-- Sage Programm- und Bedienungsdokumentation (aktuelle Version pruefen).
+- Sage Programm- und Bedienungsdokumentation (aktuelle Version prüfen).
 - AO § 146 (Update-Pflicht der Buchfuehrungsprogramme).
-- Hinweis: konkrete Programmpfade und Modulbezeichnungen koennen je Sage-Version abweichen; aktuelle Informationen in der Sage-Onlinehilfe pruefen.
+- Hinweis: konkrete Programmpfade und Modulbezeichnungen können je Sage-Version abweichen; aktuelle Informationen in der Sage-Onlinehilfe prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Sage-Programmpfad nicht versionsspezifisch belegbar, Verweis auf Sage-Onlinehilfe) -->

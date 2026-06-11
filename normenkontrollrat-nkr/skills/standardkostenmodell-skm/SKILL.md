@@ -11,7 +11,7 @@ Das Standardkostenmodell (SKM) ist die in Deutschland (und mehreren EU-Mitglieds
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Stellungnahme prueft Methodenanwendung
+- Stellungnahme prüft Methodenanwendung
 - Ressort wendet abweichende Methodik an
 - Rechenwege sind nicht nachvollziehbar
 - Schulung Methodik
@@ -63,13 +63,13 @@ Aufwand pro Fall
 |---|---|
 | Standardisierung vs. Einzelfallrechnung | Standardisierung bevorzugt für Vergleichbarkeit |
 | Punktwert vs. Bandbreite | Bandbreite bei Unsicherheit ausweisen |
-| Pessimistische vs. optimistische Annahme | Mittlere Annahme, Sensitivitaet pruefen |
+| Pessimistische vs. optimistische Annahme | Mittlere Annahme, Sensitivitaet prüfen |
 | Komplexitaetsfaktor | konservativ ansetzen |
 | Dunkelziffer / faktische Nutzung | dokumentieren, ggf. nicht einrechnen |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Die Berechnung folgt dem Standardkostenmodell (SKM) gemaess Leitfaden BMI/NKR. Aufwand pro Fall wurde aus den Zeitwerten der Tabelle [Bezeichnung] zuzueglich Sachkosten ermittelt."
+- "Die Berechnung folgt dem Standardkostenmodell (SKM) gemäß Leitfaden BMI/NKR. Aufwand pro Fall wurde aus den Zeitwerten der Tabelle [Bezeichnung] zuzueglich Sachkosten ermittelt."
 - "Der NKR weist darauf hin, dass die Berechnung von der Standardmethodik abweicht; eine Begruendung fehlt. Der NKR bittet das Ressort um Darstellung nach SKM."
 - "Die Sensitivitaetsanalyse zeigt: bei Variation der Fallzahl um ± 20% bewegt sich der Erfuellungsaufwand zwischen [X] und [Y] Mio EUR jaehrlich."
 
@@ -101,4 +101,4 @@ Pflicht: jaehrlicher Bericht im Umfang von ca. 4 Stunden.
 - OECD Standard Cost Model Manual
 - EU Better Regulation Toolbox Tool 24
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
-- Live verifizieren ueber [www.bmi.bund.de](https://www.bmi.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.bmi.bund.de](https://www.bmi.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

@@ -18,7 +18,7 @@ Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem 
 
 ## Rechtlicher Rahmen
 
-- Art. 28 Abs. 3 lit. h DSGVO: Auftragsverarbeiter stellt dem Verantwortlichen alle erforderlichen Informationen zum Nachweis der Einhaltung der in Art. 28 niedergelegten Pflichten zur Verfuegung und ermoeglicht Ueberpruefungen, einschliesslich Inspektionen, die vom Verantwortlichen oder einem anderen vom Verantwortlichen beauftragten Pruefer durchgefuehrt werden, und traegt zu diesen bei.
+- Art. 28 Abs. 3 lit. h DSGVO: Auftragsverarbeiter stellt dem Verantwortlichen alle erforderlichen Informationen zum Nachweis der Einhaltung der in Art. 28 niedergelegten Pflichten zur Verfuegung und ermoeglicht Ueberpruefungen, einschliesslich Inspektionen, die vom Verantwortlichen oder einem anderen vom Verantwortlichen beauftragten Prüfer durchgefuehrt werden, und traegt zu diesen bei.
 - Art. 32 DSGVO: TOM-Pflicht, die Audit-Grundlage ist.
 - Art. 42, Art. 43 DSGVO: Zertifizierungen und Pruefstellen.
 - Art. 40 DSGVO: Verhaltensregeln (Codes of Conduct).
@@ -38,14 +38,14 @@ Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem 
  | Selbstauskunft (Self-Assessment) | Standardpruefung | Niedrig |
  | Zertifikatseinsicht (ISO 27001, SOC 2 Type II, BSI C5 Typ 2) | Routine | Mittel |
  | Schriftlicher Auditbericht des Auftragsverarbeiters | Routine | Mittel |
- | Vor-Ort-Audit durch den Verantwortlichen oder dessen Pruefer | Anlassbezogen / kritisch | Hoch |
- | Aufsichtsbehoerdliche Pruefung | bei Anordnung | Hoechste |
+ | Vor-Ort-Audit durch den Verantwortlichen oder dessen Prüfer | Anlassbezogen / kritisch | Hoch |
+ | Aufsichtsbehoerdliche Prüfung | bei Anordnung | Hoechste |
 
 3. **Ankuendigungsfrist und Auditor.**
  - Praxis: 30 Kalendertage Vorankuendigung bei planmäßigem Audit.
  - Verzicht auf Vorankuendigung bei akuter Datenpanne.
  - Auditor: Verantwortlicher selbst oder ein vom Verantwortlichen beauftragter Wirtschaftspruefer / Datenschutzauditor.
- - Wettbewerber-Ausschluss zulaessig, soweit konkret begruendet.
+ - Wettbewerber-Ausschluss zulässig, soweit konkret begruendet.
 
 4. **Geschaeftsgeheimnis-Schutz.**
  - NDA für Auditoren.
@@ -72,13 +72,13 @@ Audit-Klausel:
 >
 > (1) Der Auftragsverarbeiter stellt dem Verantwortlichen alle erforderlichen Informationen zum Nachweis der Einhaltung der in Art. 28 DSGVO und in diesem Vertrag festgelegten Pflichten zur Verfuegung (Art. 28 Abs. 3 lit. h DSGVO).
 >
-> (2) Der Verantwortliche kann einmal pro Kalenderjahr ein planmäßiges Audit beim Auftragsverarbeiter durchfuehren oder durch einen von ihm beauftragten unabhaengigen Pruefer durchfuehren lassen. Das planmäßige Audit ist mindestens dreissig (30) Kalendertage im Voraus schriftlich anzukuendigen.
+> (2) Der Verantwortliche kann einmal pro Kalenderjahr ein planmäßiges Audit beim Auftragsverarbeiter durchfuehren oder durch einen von ihm beauftragten unabhaengigen Prüfer durchfuehren lassen. Das planmäßige Audit ist mindestens dreissig (30) Kalendertage im Voraus schriftlich anzukuendigen.
 >
-> (3) Ueber das planmäßige Audit hinaus ist der Verantwortliche bei begruendetem Anlass zur Durchfuehrung eines anlassbezogenen Audits ohne die Frist aus Absatz (2) berechtigt. Ein begruendeter Anlass liegt insbesondere vor bei einer Datenpanne, bei einer Anordnung der Aufsichtsbehoerde sowie bei einem konkreten Hinweis auf eine Pflichtverletzung des Auftragsverarbeiters.
+> (3) Über das planmäßige Audit hinaus ist der Verantwortliche bei begruendetem Anlass zur Durchfuehrung eines anlassbezogenen Audits ohne die Frist aus Absatz (2) berechtigt. Ein begruendeter Anlass liegt insbesondere vor bei einer Datenpanne, bei einer Anordnung der Aufsichtsbehoerde sowie bei einem konkreten Hinweis auf eine Pflichtverletzung des Auftragsverarbeiters.
 >
 > (4) Der Auftragsverarbeiter kann anstelle eines Vor-Ort-Audits die Vorlage eines aktuellen Pruefberichts eines unabhaengigen Pruefers nach anerkannten Standards (z. B. ISO 27001 oder SOC 2 Type II oder BSI C5 Typ 2) anbieten. Der Verantwortliche kann dieses Angebot annehmen, wenn der Pruefbericht die zu pruefenden Verarbeitungstaetigkeiten abdeckt und nicht aelter als zwoelf (12) Monate ist.
 >
-> (5) Der Auditor unterliegt der Verschwiegenheit. Der Auftragsverarbeiter kann sensible Geschäftsgeheimnisse (insbesondere Quellcode, Konfigurationen, Sub-AV-Vertraege) in geschwaerzter Form oder durch geeignete Aggregation vorlegen.
+> (5) Der Auditor unterliegt der Verschwiegenheit. Der Auftragsverarbeiter kann sensible Geschäftsgeheimnisse (insbesondere Quellcode, Konfigurationen, Sub-AV-Verträge) in geschwaerzter Form oder durch geeignete Aggregation vorlegen.
 >
 > (6) Die Kosten des planmäßigen Audits traegt der Verantwortliche. Werden bei einem Audit Pflichtverletzungen des Auftragsverarbeiters festgestellt, traegt der Auftragsverarbeiter die Kosten des betreffenden Audits sowie etwaiger Folgeaudits zur Nachpruefung.
 >

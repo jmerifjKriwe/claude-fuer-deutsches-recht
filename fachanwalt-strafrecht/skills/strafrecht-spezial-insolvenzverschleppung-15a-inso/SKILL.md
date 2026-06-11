@@ -18,9 +18,9 @@ description: "Insolvenzverschleppung nach Paragraph 15a InsO: Antragspflicht des
 
 ## Worum geht es konkret
 
-Paragraph 15a InsO ist der Kernschuss aller deutschen Wirtschaftsstrafverfahren bei GmbH-Insolvenzen. Anwendungsfall: GF einer GmbH ist seit Monaten zahlungsunfaehig oder ueberschuldet, stellt aber keinen Insolvenzantrag, weil er hofft, das Geschaeft "noch zu retten". Klassische Konstellation in der Krise.
+Paragraph 15a InsO ist der Kernschuss aller deutschen Wirtschaftsstrafverfahren bei GmbH-Insolvenzen. Anwendungsfall: GF einer GmbH ist seit Monaten zahlungsunfaehig oder ueberschuldet, stellt aber keinen Insolvenzantrag, weil er hofft, das Geschäft "noch zu retten". Klassische Konstellation in der Krise.
 
-Strafbar nach Absatz 4 und 5; die Antragspflicht nach Absatz 1 wirkt zugleich zivilrechtlich (Paragraph 823 Abs 2 BGB iVm Paragraph 15a InsO als Schutzgesetz - Haftung gegenueber Neuglaeubigern). Strafrechtlich treten regelmaessig auch Paragraph 283 StGB-Bankrottdelikte hinzu, weil in der antragslosen Phase oft Vermoegen verschoben oder Buchhaltung versaeumt wird.
+Strafbar nach Absatz 4 und 5; die Antragspflicht nach Absatz 1 wirkt zugleich zivilrechtlich (Paragraph 823 Abs 2 BGB iVm Paragraph 15a InsO als Schutzgesetz - Haftung gegenueber Neuglaeubigern). Strafrechtlich treten regelmaessig auch Paragraph 283 StGB-Bankrottdelikte hinzu, weil in der antragslosen Phase oft Vermögen verschoben oder Buchhaltung versaeumt wird.
 
 ## Tatbestand im Detail
 
@@ -49,7 +49,7 @@ Wer die Antragspflicht fahrlaessig verletzt, mit Freiheitsstrafe bis 1 Jahr oder
 
 ### Vorsatzform
 
-Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antragspflicht zumindest für moeglich halten und billigend in Kauf nehmen.
+Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antragspflicht zumindest für möglich halten und billigend in Kauf nehmen.
 
 ## Praktikertipps der alten Hasen
 
@@ -69,7 +69,7 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 ## Konkurrenzen
 
 - **Paragraph 15a InsO und Paragraph 283 StGB.** Tatmehrheit Paragraph 53 StGB, weil unterschiedliche Schutzgueter. Insolvenzverschleppung ist Schutzgesetz für Neuglaeubiger; Bankrott schuetzt Glaeubigergesamtheit gegen Vermoegensverkuerzung.
-- **Paragraph 15a InsO und Paragraph 263 StGB Eingehungsbetrug.** Wer als zahlungsunfaehiger GF noch Lieferungen bestellt, taeuscht ueber Zahlungsfaehigkeit. Tateinheit Paragraph 52 StGB.
+- **Paragraph 15a InsO und Paragraph 263 StGB Eingehungsbetrug.** Wer als zahlungsunfaehiger GF noch Lieferungen bestellt, taeuscht über Zahlungsfaehigkeit. Tateinheit Paragraph 52 StGB.
 - **Paragraph 15a InsO und Paragraph 266a StGB.** Vorenthalten Arbeitgeberanteile in antragsloser Krise; Tatmehrheit.
 - **Paragraph 15a InsO und Paragraph 15b InsO.** Paragraph 15b InsO ist nicht strafbewehrt; relevant nur für zivilrechtlichen Erstattungsanspruch des GF.
 
@@ -80,13 +80,13 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 - **Einziehung Paragraph 73 StGB** spielt bei reiner Insolvenzverschleppung kaum eine Rolle; aber bei Konkurrenz zu Paragraph 263 StGB oder Paragraph 266a StGB Einziehung der erlangten Mittel.
 - **Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG**: 5 Jahre als GF.
 - **Zivilrechtliche Folge**: Haftung gegenueber Neuglaeubigern aus Paragraph 823 Abs 2 BGB iVm Paragraph 15a InsO (negative Vertragsinteresse) und gegenueber Altglaeubigern aus Quotenschadensformel (BGH staendige Rspr.).
-- BZRG-Eintrag bei Geldstrafe ueber 90 Tagessaetzen.
+- BZRG-Eintrag bei Geldstrafe über 90 Tagessaetzen.
 
 ## Mustertexte
 
 **Schutzschrift-Snippet:** "Bis zum DD.MM.JJJJ lag weder Zahlungsunfaehigkeit (Paragraph 17 InsO) noch Ueberschuldung (Paragraph 19 InsO) vor. Die Fortbestehensprognose vom DD.MM.JJJJ (Anlage SS 1) bestaetigte die zumindest mittelfristige Lebensfaehigkeit des Unternehmens. Eine Antragspflicht nach Paragraph 15a Abs 1 InsO bestand somit nicht."
 
-**Einlassungs-Snippet:** "Ich habe ab DD.MM.JJJJ intensiv mit zwei Investoren (Anlagen SS 2 und SS 3) ueber eine Kapitalzufuhr verhandelt. Mein Sanierungsberater Y hat mich am DD.MM.JJJJ schriftlich beruhigt, dass die 3-Wochen-Frist erst ab vollstaendigem Scheitern aller Sanierungsversuche zu laufen beginne. Ich habe auf dieser Beratung vertraut."
+**Einlassungs-Snippet:** "Ich habe ab DD.MM.JJJJ intensiv mit zwei Investoren (Anlagen SS 2 und SS 3) über eine Kapitalzufuhr verhandelt. Mein Sanierungsberater Y hat mich am DD.MM.JJJJ schriftlich beruhigt, dass die 3-Wochen-Frist erst ab vollstaendigem Scheitern aller Sanierungsversuche zu laufen beginne. Ich habe auf dieser Beratung vertraut."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen StB X zu erheben zum Beweis der Tatsache, dass er meinem Mandanten zwischen DD.MM. und DD.MM.JJJJ wiederholt eine positive Fortbestehensprognose bestaetigt und ihn von einer sofortigen Antragstellung abgeraten hat."
 
@@ -99,4 +99,4 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 - Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG GF-Sperre.
 - BGH staendige Rspr. zur Pflichtigkeit faktischer Geschaeftsfuehrer.
 - BGH staendige Rspr. zum Beginn der 3-Wochen-Frist (Eintritt, nicht Kenntnis).
-- StaRUG-Verfahren (Gesetz ueber den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen) seit 2021 als zusaetzliches Sanierungsinstrument.
+- StaRUG-Verfahren (Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen) seit 2021 als zusaetzliches Sanierungsinstrument.

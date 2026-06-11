@@ -30,7 +30,7 @@ In allen anderen Faellen: **Mahnung erforderlich**.
 - Eignet sich für Stammkundschaft, Servicequalitaet.
 
 **Muster:**
-> Sehr geehrte/r ..., unsere Rechnung Nr. ... vom ... ueber EUR ... ist faellig zum ... . Bitte ueberweisen Sie bis zum [Datum +7 Tage]. Eventuelle Ueberschneidungen bitten wir zu entschuldigen.
+> Sehr geehrte/r ..., unsere Rechnung Nr. ... vom ... über EUR ... ist faellig zum ... . Bitte ueberweisen Sie bis zum [Datum +7 Tage]. Eventuelle Ueberschneidungen bitten wir zu entschuldigen.
 
 ### Stufe 2: Erste Mahnung (verzugsbegruendend nach § 286 Abs. 1 BGB)
 
@@ -39,7 +39,7 @@ In allen anderen Faellen: **Mahnung erforderlich**.
 - Mahnung muss nach Faelligkeit (§ 271 BGB) erfolgen, vorzeitige Mahnung wirkungslos (Ausnahme bei kalendermaessig bestimmten Faelligkeit).
 
 **Muster:**
-> Sehr geehrte/r ..., trotz unserer Rechnung Nr. ... vom ... ueber EUR ... haben wir bis heute keine Zahlung erhalten. Wir mahnen die Zahlung hiermit an und fordern Sie auf, den faelligen Betrag bis zum **[Datum +10 Tage]** auf unser Konto ... zu zahlen. Nach Ablauf dieser Frist berechnen wir Verzugszinsen in Hoehe von [5/9] Prozentpunkten ueber dem Basiszinssatz.
+> Sehr geehrte/r ..., trotz unserer Rechnung Nr. ... vom ... über EUR ... haben wir bis heute keine Zahlung erhalten. Wir mahnen die Zahlung hiermit an und fordern Sie auf, den faelligen Betrag bis zum **[Datum +10 Tage]** auf unser Konto ... zu zahlen. Nach Ablauf dieser Frist berechnen wir Verzugszinsen in Höhe von [5/9] Prozentpunkten über dem Basiszinssatz.
 
 ### Stufe 3: Zweite/letzte Mahnung mit Klageandrohung
 
@@ -72,7 +72,7 @@ Bei B2B: § 132 BGB Zugang an Geschaeftsraeumen, Briefkasten ueblich.
 | Folgemahnungen (konkrete Aufwendungen) | ja | § 280 Abs. 1, 2, § 286 BGB |
 | Pauschale 2,50 EUR pro Mahnung | praktisch akzeptiert | LG Berlin 32 O 188/95 |
 | Pauschale 40 EUR (B2B) | ja, einmal pro Forderung | § 288 Abs. 5 BGB |
-| Inkassokosten | nur in Hoehe 1,3 RVG-Geschaeftsgebuehr | § 4 RDGEG |
+| Inkassokosten | nur in Höhe 1,3 RVG-Geschaeftsgebuehr | § 4 RDGEG |
 
 ## B2B-Besonderheit § 286 Abs. 3 BGB
 
@@ -94,7 +94,7 @@ Die aussergerichtliche Mahnung **hemmt die Verjährung nicht** (§ 203 BGB nur b
 
 - Mahnvorlage je Stufe (mit Platzhaltern Datum, Betrag, Faelligkeit).
 - Vermerk Verzugsdatum mit Norm-Subsumtion.
-- Pruefung ob 30-Tage-Regel greift.
+- Prüfung ob 30-Tage-Regel greift.
 - Empfehlung Zustellweg.
 
 ## Quellen

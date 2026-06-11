@@ -90,7 +90,7 @@ Liste der angehörten Verbände, eingegangene Stellungnahmen, Bewertung.
 
 ## Zentrale Normen (Paragrafenkette)
 
-Art. 65 GG (Ressortprinzip) — Art. 76 GG (Einbringung Bundesgesetze) — §§ 15-28 GGO (Kabinettssache, Ressortabstimmung) — § 62 GGO (Rechts- und Gesetzesfolgen-Pruefung) — Art. 80 GG (Verordnungsermaechtigung in Kabinettsbeschluss)
+Art. 65 GG (Ressortprinzip) — Art. 76 GG (Einbringung Bundesgesetze) — §§ 15-28 GGO (Kabinettssache, Ressortabstimmung) — § 62 GGO (Rechts- und Gesetzesfolgen-Prüfung) — Art. 80 GG (Verordnungsermaechtigung in Kabinettsbeschluss)
 
 ## Ausgabe
 

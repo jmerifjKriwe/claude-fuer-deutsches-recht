@@ -123,9 +123,9 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Normen
 
-- **§§ 305-310 BGB** — AGB-Kontrolle; Klauseln koennen bei unangemessener Benachteiligung unwirksam sein
+- **§§ 305-310 BGB** — AGB-Kontrolle; Klauseln können bei unangemessener Benachteiligung unwirksam sein
 - **§ 307 BGB** — Generalklausel; Transparenzgebot; unklar formulierte Klauseln Kaeufer-nachteilig
-- **§ 444 BGB** — Arglist; keine Freizeichnung moeglich
+- **§ 444 BGB** — Arglist; keine Freizeichnung möglich
 - **§ 449 BGB** — Eigentumsvorbehalt
 - **§ 138 BGB** — Sittenwidrigkeit bei wucheraehnlichen Haftungsausschluessen
 - **§ 276 III BGB** — Haftung für Vorsatz kann nicht vertraglich ausgeschlossen werden
@@ -146,7 +146,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 | Cap (Title/Fundamental) | 100 % des KP | 100 % oder mehr | 50-100 % |
 | Verjährung (allg.) | 18-24 Monate | 36 Monate | 12 Monate |
 | Verjährung (Tax) | 5-7 Jahre | 7 Jahre | 5 Jahre |
-| Verjährung (Titel) | Unbegrenzt | Unbegrenzt | Verjährungsausschluss moeglich |
+| Verjährung (Titel) | Unbegrenzt | Unbegrenzt | Verjährungsausschluss möglich |
 
 ### Anti-Sandbagging
 
@@ -181,7 +181,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 5. **Key Issues Memo** — Zusammenfassung der wichtigsten Punkte für Mandanten; Prioritaetsstufen: Deal-Breaker / High Priority / Negotiation Position / Market Standard
 6. **Klientenfreigabe** — Mandant gibt Business-Entscheidungen frei; Anwalt setzt um
 7. **Verhandlung** — Gespraeche zu allen offenen Punkten; Kompromissoptionen vorbereiten
-8. **Finalversion** — Clean Copy; alle geeinigten Punkte eingearbeitet; Signaturseiten pruefen
+8. **Finalversion** — Clean Copy; alle geeinigten Punkte eingearbeitet; Signaturseiten prüfen
 
 ## Output-Template Key Issues Memo (Auszug)
 
@@ -225,7 +225,7 @@ NAECHSTE SCHRITTE
 ## Rote Schwellen
 
 - Markup ohne Begruendung — Gegenseite versteht Motiv nicht; Verhandlung ineffektiv
-- AGB-Kontrolle vergessen — unangemessene Klauseln koennen im deutschen Recht unwirksam sein
+- AGB-Kontrolle vergessen — unangemessene Klauseln können im deutschen Recht unwirksam sein
 - Cap für alle Warranties gleichgesetzt — Fundamental-Warranties brauchen hoeheren oder keinen Cap
 - Schiedsvereinbarung unklar — Vollstreckung im Ausland scheitert an Unwirksamkeit
 - Anti-Sandbagging nicht verhandelt — bei Kaeufer-Kenntnis aus DD kein Warranty-Anspruch

@@ -30,7 +30,7 @@ Addison (Wolters Kluwer) ist die zweitstaerkste StB-Kanzleisoftware in Deutschla
 
 ### Phase 1 — Standardformen
 
-| Addison-Bezeichnung | DATEV-Aequivalent | Verwendung |
+| Addison-Bezeichnung | DATEV-Äquivalent | Verwendung |
 |---|---|---|
 | Standard-BWA / Kurz-BWA | DATEV BWA 01 | Standard 90 % der Mandate |
 | Bewegungs-BWA | DATEV BWA 11 | Detaillierter Vormonatsvergleich |
@@ -38,25 +38,25 @@ Addison (Wolters Kluwer) ist die zweitstaerkste StB-Kanzleisoftware in Deutschla
 | Liquiditaets-BWA | DATEV BWA 41 | Cashflow-orientiert |
 | Kostenstellen-BWA | DATEV BWA 31 | Bei Kostenstellenrechnung |
 
-Hinweis: konkrete Form-Nummern und Bezeichnungen variieren mit der Addison-Version; aktuellen Stand in der Programmdokumentation pruefen.
+Hinweis: konkrete Form-Nummern und Bezeichnungen variieren mit der Addison-Version; aktuellen Stand in der Programmdokumentation prüfen.
 
 ### Phase 2 — Konten-Konfiguration
 
 - Kontenrahmen SKR 03 / SKR 04 wie in DATEV; alternativ branchenspezifische Rahmen (z.B. SKR 14 Landwirtschaft, IKR für Industrieunternehmen).
-- BWA-Konten-Zuordnung ueber Berater-Stammdaten (typischer Pfad `Stammdaten → BWA-Konfiguration → Konten-Zuordnung`; konkreter Menue-Pfad variiert je Addison-Version — im Zweifelsfall in der Programm-Onlinehilfe unter "BWA-Konfiguration" nachschlagen).
+- BWA-Konten-Zuordnung über Berater-Stammdaten (typischer Pfad `Stammdaten → BWA-Konfiguration → Konten-Zuordnung`; konkreter Menue-Pfad variiert je Addison-Version — im Zweifelsfall in der Programm-Onlinehilfe unter "BWA-Konfiguration" nachschlagen).
 - Bei individuellen Konten manuelle Zuordnung zur BWA-Zeile vor erstem Lauf.
 
 ### Phase 3 — Periodenvergleich
 
 - Vorjahresdaten werden bei vorhandener Buchhaltungs-Historie automatisch herangezogen.
-- Planwerte ueber das Plan-Erfassungs-Modul (jaehrlich/monatlich) erfassen; Plan-Ist-Vergleich in der BWA aktivieren.
-- Mehrjahresvergleich bis 5 Jahre zurueck moeglich.
+- Planwerte über das Plan-Erfassungs-Modul (jaehrlich/monatlich) erfassen; Plan-Ist-Vergleich in der BWA aktivieren.
+- Mehrjahresvergleich bis 5 Jahre zurueck möglich.
 
 ### Phase 4 — Branchenvergleich
 
 - Wolters Kluwer Branchenberichte als Alternative zu DATEV BBE-Branchenberichten.
 - Branchenschluessel (WZ-Code) im Mandantenstamm hinterlegen.
-- Aktualitaet der Branchendaten pruefen — typischerweise jaehrliche Aktualisierung.
+- Aktualitaet der Branchendaten prüfen — typischerweise jaehrliche Aktualisierung.
 
 ### Phase 5 — Ausgabe
 
@@ -72,7 +72,7 @@ Hinweis: konkrete Form-Nummern und Bezeichnungen variieren mit der Addison-Versi
 
 ## Strategie und Praxis-Tipps
 
-- Addison-Schulungen ueber Wolters Kluwer Akademie.
+- Addison-Schulungen über Wolters Kluwer Akademie.
 - Wechsel von DATEV zu Addison oder umgekehrt sorgfaeltig planen — Mandantenmigration aufwendig.
 - Hybrid-Modelle (z.B. Lohn Addison, Buchhaltung DATEV) sind selten und teuer.
 
@@ -80,7 +80,7 @@ Hinweis: konkrete Form-Nummern und Bezeichnungen variieren mit der Addison-Versi
 
 Stand: 05/2026.
 
-- Wolters Kluwer Addison Programm- und Bedienungsdokumentation (aktuelle Version pruefen).
+- Wolters Kluwer Addison Programm- und Bedienungsdokumentation (aktuelle Version prüfen).
 - Wolters Kluwer Branchenberichte als Vergleichsdatenbank.
 - Verifikations-Hinweis: konkrete Programmpfade und Form-Nummern ggf. abweichend in aktueller Addison-Version.
 

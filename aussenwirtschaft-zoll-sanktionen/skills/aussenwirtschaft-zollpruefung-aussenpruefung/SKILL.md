@@ -16,8 +16,8 @@ description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereit
 ## Mandantenfall
 
 - Hauptzollamt kuendigt Zollaußenpruefung an; Unternehmen hat 4 Wochen Vorbereitungszeit.
-- Pruefung fokussiert auf Zollwert von Konzerntransaktionen; Verrechnungspreisdokumentation bereitstellen.
-- Nach Pruefung Nacherhebungsbescheid für Zollwert-Unterdeklaration; Einspruch vorbereiten.
+- Prüfung fokussiert auf Zollwert von Konzerntransaktionen; Verrechnungspreisdokumentation bereitstellen.
+- Nach Prüfung Nacherhebungsbescheid für Zollwert-Unterdeklaration; Einspruch vorbereiten.
 
 ## Erste Schritte
 
@@ -25,7 +25,7 @@ description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereit
 2. Dokumentenarchiv aufbauen: Zollanmeldungen Rechnungen Ursprungsdokumente Genehmigungen.
 3. Interne Vorabpruefung: Typische Schwachstellen (Zollwert Praeferenz KN-Einreihung) analysieren.
 4. Prueferempfang vorbereiten: Ansprechpartner bestimmen Auskunftspersonen schulen.
-5. Nacherhebungsrisiko kalkulieren und Rueckstellungen pruefen.
+5. Nacherhebungsrisiko kalkulieren und Rueckstellungen prüfen.
 6. Rechtsberatung einschalten für komplexe Sachverhalte und Einspruchsstrategie.
 
 ## Rechtsrahmen
@@ -33,7 +33,7 @@ description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereit
 - **§§ 196-207 AO**: Außenpruefung als Verfahren.
 - **UZK Art. 48**: Zollkontrolle und Nachpruefungsrecht der Zollbehoerden.
 - **§ 21 ZollVG**: Auskunftspflichten gegenueber Zollbehoerden.
-- **UZK Art. 108**: Zollschuldnacherhebung nach Pruefung.
+- **UZK Art. 108**: Zollschuldnacherhebung nach Prüfung.
 - **§ 347 AO**: Einspruch gegen Steuerbescheide auch Zollbescheide.
 
 ## Pruef-Raster
@@ -50,7 +50,7 @@ description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereit
 - Freiwillige Offenlegung von Fehlern vor Pruefungsbeginn wirkt strafmildernd; danach nicht mehr.
 - Auskunftspersonen ohne Vorbereitung machen unbedachte Aussagen die Nacherhebungen auslosen.
 - Unvollstaendige Dokumentation wird als Verschulden gewertet.
-- Pruefungsschwerpunkte koennen sich auf weitere Jahre ausweiten.
+- Pruefungsschwerpunkte können sich auf weitere Jahre ausweiten.
 
 ## Schnittstellen zu anderen Skills
 

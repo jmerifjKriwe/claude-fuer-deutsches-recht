@@ -134,7 +134,7 @@ Wenn die Revision nicht zugelassen ist, ist nach Paragraf 544 ZPO Nichtzulassung
 ### Tatbestand
 - [ ] Unstreitige Tatsachen erkennbar
 - [ ] Streitige Tatsachen erkennbar (klägerischer und beklagter Vortrag)
-- [ ] Vortrag durch Aktenbezugnahme (Paragraf 313 II 2 ZPO) ggf. zulaessig?
+- [ ] Vortrag durch Aktenbezugnahme (Paragraf 313 II 2 ZPO) ggf. zulässig?
 - [ ] Anträge wortlautgetreu (auch Hilfsanträge)
 
 ### Entscheidungsgründe

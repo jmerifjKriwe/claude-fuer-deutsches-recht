@@ -3,7 +3,7 @@ name: heroin-erlaubnis-pruefen
 description: "Heroin: Erlaubnis prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Heroin Erlaubnis Pruefen
+# Heroin Erlaubnis Prüfen
 
 ## Arbeitsweg
 

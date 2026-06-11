@@ -44,7 +44,7 @@ Der Steuerberater rechnet sein Honorar nach der StBVV (Steuerberatervergutungsve
 
 **§ 13 StBVV** — Beratungstaetigkeit.
 
-**§ 1 Abs. 1 Nr. 1 UStG** — Steuerbarkeit der StB-Leistung; StB-Honorare sind grundsaetzlich umsatzsteuerpflichtig (Regelsteuersatz 19 %). Eine Steuerbefreiung nach § 4 UStG kommt regelmaessig nicht in Betracht.
+**§ 1 Abs. 1 Nr. 1 UStG** — Steuerbarkeit der StB-Leistung; StB-Honorare sind grundsätzlich umsatzsteuerpflichtig (Regelsteuersatz 19 %). Eine Steuerbefreiung nach § 4 UStG kommt regelmaessig nicht in Betracht.
 
 ### Verwaltungsanweisungen
 
@@ -59,7 +59,7 @@ Der Steuerberater rechnet sein Honorar nach der StBVV (Steuerberatervergutungsve
 | StBVV-Standard | Klare Rahmenleistung (Jahresabschluss, Steuererklaerung) |
 | Pauschalvereinbarung | Laufende Buchfuehrung, Lohnbuchfuehrung, Mandantenpauschale |
 | Zeithonorar | Beratung, Sondertaetigkeiten, Pruefungsbegleitung |
-| Erfolgsabhaengig | Eingeschraenkt zulaessig (§ 9a StBVV) |
+| Erfolgsabhaengig | Eingeschraenkt zulässig (§ 9a StBVV) |
 
 ### Phase 2 — Gegenstandswert ermitteln
 
@@ -131,11 +131,11 @@ Bankverbindung: ...
 
 ## Strategie und Praxis-Tipps
 
-- Die StBVV definiert den Mindestrahmen — eine Unterschreitung der Mindestgebuehr ist nur in begruendeten Ausnahmefaellen und unter Beachtung von § 4 StBVV (Hoehe der Verguetung) zulaessig.
+- Die StBVV definiert den Mindestrahmen — eine Unterschreitung der Mindestgebuehr ist nur in begruendeten Ausnahmefaellen und unter Beachtung von § 4 StBVV (Höhe der Vergütung) zulässig.
 - Pauschalvereinbarung ist Standard bei laufender Mandatsbetreuung — Planungssicherheit für beide Seiten; Schriftform nach § 14 StBVV beachten.
 - Bei Beratungstaetigkeiten ist ein Zeithonorar oft sachgerecht (genaue Erfassung mit Stundenzettel, ggf. Stundensatz nach § 13 StBVV).
 - Bei Mandatsende StBVV-Abrechnung konsequent durchsetzen; Transparenz vorab vermeidet Konflikte (Hinweis im Onboarding und Pauschalvertrag).
-- USt-Pflicht beachten — StB-Leistungen sind grundsaetzlich USt-pflichtig (Regelsteuersatz 19 %).
+- USt-Pflicht beachten — StB-Leistungen sind grundsätzlich USt-pflichtig (Regelsteuersatz 19 %).
 
 ## Quellen und Updates
 

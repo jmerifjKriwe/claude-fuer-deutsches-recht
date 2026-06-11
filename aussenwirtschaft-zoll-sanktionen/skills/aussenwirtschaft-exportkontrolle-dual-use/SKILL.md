@@ -7,7 +7,7 @@ description: "Dual-Use-Pruefung für Gueter, Software und Technologie nach VO (E
 
 ## Arbeitsbereich
 
-Dual-Use-Pruefung für Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff.: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag ueber ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassifizierungsdossier und Genehmigungspfad. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dual-Use-Prüfung für Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff.: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag über ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassifizierungsdossier und Genehmigungspfad. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,16 +20,16 @@ Dual-Use-Pruefung für Gueter, Software und Technologie nach VO (EU) 2021/821 An
 ## Mandantenfall
 
 - Maschinenbauunternehmen exportiert CNC-Fraesmaschine nach China; HS-Code liegt in Grauzone der ML-Liste.
-- Software-Unternehmen uebertragt Verschluesselungsmodul ueber Cloud-Download an iranischen Kunden.
+- Software-Unternehmen uebertragt Verschluesselungsmodul über Cloud-Download an iranischen Kunden.
 - Forschungseinrichtung gibt Technologieunterstuetzung an auslaendischen Gastwissenschaftler; Catch-All geprueft?
 
 ## Erste Schritte
 
 1. Ware/Software/Technologie technisch vollstaendig beschreiben (Parameter, Spezifikation, Verwendungszweck).
-2. Anhang I VO (EU) 2021/821 durchsuchen: alle 10 Kategorien und relevante Eintraege pruefen.
+2. Anhang I VO (EU) 2021/821 durchsuchen: alle 10 Kategorien und relevante Eintraege prüfen.
 3. KN-Code bestimmen und TARIC-Doppelverwendungshinweise beachten.
-4. Catch-All nach Art. 4 VO (EU) 2021/821 pruefen: Bestimmungsland, Endverwender, Kenntnislage.
-5. Bei Listentreffer: Allgemeine EU-Genehmigung pruefen, sonst Einzelgenehmigung BAFA via ELAN-K2.
+4. Catch-All nach Art. 4 VO (EU) 2021/821 prüfen: Bestimmungsland, Endverwender, Kenntnislage.
+5. Bei Listentreffer: Allgemeine EU-Genehmigung prüfen, sonst Einzelgenehmigung BAFA via ELAN-K2.
 6. Klassifizierungsergebnis und Genehmigungsstatus dokumentieren.
 
 ## Rechtsrahmen

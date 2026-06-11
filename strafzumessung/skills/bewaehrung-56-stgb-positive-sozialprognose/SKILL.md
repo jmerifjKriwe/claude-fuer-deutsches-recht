@@ -25,7 +25,7 @@ Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen pos
 
 - Sie verteidigen gegen eine drohende Freiheitsstrafe und wollen Bewaehrung sichern.
 - Sie strukturieren das Plaedoyer um die Sozialprognose.
-- Sie pruefen ein Urteil ohne Bewaehrung auf Revisionsangriff.
+- Sie prüfen ein Urteil ohne Bewaehrung auf Revisionsangriff.
 - Sie planen die Bewaehrungsverhandlung mit dem Mandanten (Auflagen, Weisungen, Bewaehrungshelfer).
 
 ## Rechtliche Grundlagen
@@ -40,7 +40,7 @@ Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen pos
 
 ## Strafzumessungs-Grundsatz
 
-Bewaehrung ist **Regelfall** bei Strafe bis 1 Jahr, sofern Sozialprognose positiv ist. Bei Strafe bis 2 Jahre ist Bewaehrung Ausnahme; es muessen **besondere Umstaende** vorliegen.
+Bewaehrung ist **Regelfall** bei Strafe bis 1 Jahr, sofern Sozialprognose positiv ist. Bei Strafe bis 2 Jahre ist Bewaehrung Ausnahme; es müssen **besondere Umstaende** vorliegen.
 
 ## Prognose-Faktoren (positiv)
 
@@ -61,7 +61,7 @@ Bewaehrung ist **Regelfall** bei Strafe bis 1 Jahr, sofern Sozialprognose positi
 
 ## "Besondere Umstaende" iSv § 56 Abs. 2 StGB
 
-Bei Strafe ueber 1 bis 2 Jahre. Erforderlich sind Umstaende, die das Gewicht der drohenden Vollstreckung **deutlich** mindern. Typisch:
+Bei Strafe über 1 bis 2 Jahre. Erforderlich sind Umstaende, die das Gewicht der drohenden Vollstreckung **deutlich** mindern. Typisch:
 
 - Massive Tatfolgen schon beim Taeter (Behinderung, Verstuemmelung in Tatzusammenhang).
 - Hohe Strafempfindlichkeit (Sucht-Therapieaufenthalt droht abzubrechen, schwere familiaere Belastung).
@@ -84,7 +84,7 @@ Restriktive Auslegung der st. Rspr.: Nicht jede mediale Empoerung; erforderlich 
 ## Schritt-für-Schritt-Anleitung (Anklage)
 
 - Bei Strafantrag ohne Bewaehrung: konkrete Begruendung, warum Sozialprognose negativ ist.
-- Bei Strafe ueber 1 Jahr und bis 2 Jahre Bewaehrung: konkrete Begruendung, warum keine besonderen Umstaende vorliegen.
+- Bei Strafe über 1 Jahr und bis 2 Jahre Bewaehrung: konkrete Begruendung, warum keine besonderen Umstaende vorliegen.
 - "Verteidigung der Rechtsordnung" sparsam und nur bei konkreten Anhaltspunkten.
 
 ## Begruendungspflicht des Gerichts
@@ -94,7 +94,7 @@ Wird Bewaehrung **versagt**, muss das Urteil im Strafzumessungsteil konkret darl
 ## Typische Fehler
 
 - **Pauschale Prognose** ohne Tatsachenbasis (Verteidigung wie Gericht).
-- **Bewaehrung bei Strafe ueber 2 Jahren** beantragt: rechtlich ausgeschlossen.
+- **Bewaehrung bei Strafe über 2 Jahren** beantragt: rechtlich ausgeschlossen.
 - **Auflagen/Weisungen** im Bewaehrungsbeschluss nicht ausdifferenziert: Mandant uebersieht Risiko des Widerrufs.
 - **Sucht ohne Therapie**: Bewaehrung ohne stoffspezifische Therapieweisung ist riskant.
 - **Verfahrensdauer-Kompensation** vergessen.

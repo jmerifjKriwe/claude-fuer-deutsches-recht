@@ -35,7 +35,7 @@ Skill zur Frage, in welchem Umfang ein Strafurteil oder ein Strafbefehl in das D
 - § 56 Abs. 1 Satz 2 BDG bzw. landesrechtliche Aequivalente.
 
 ### c) Strafbefehl
-- Strafbefehl bindet im Disziplinarverfahren grundsaetzlich nicht im selben Umfang wie ein Urteil; tatsaechliche Feststellungen koennen aber als Beweismittel verwertet werden.
+- Strafbefehl bindet im Disziplinarverfahren grundsätzlich nicht im selben Umfang wie ein Urteil; tatsaechliche Feststellungen können aber als Beweismittel verwertet werden.
 
 ### d) Einstellung nach §§ 153, 153a StPO
 - Keine Bindungswirkung; selbststaendige Feststellung im Disziplinarverfahren.
@@ -68,4 +68,4 @@ Skill zur Frage, in welchem Umfang ein Strafurteil oder ein Strafbefehl in das D
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant rechtskraeftig wegen Untreue verurteilt; Strafkammer hat aber ein zentrales Indiz uebersehen, das die Hoehe des Schadens widerlegen wuerde. Skill liefert Antrag auf Loesung von den tatsaechlichen Feststellungen mit Begruendung.
+Mandant rechtskraeftig wegen Untreue verurteilt; Strafkammer hat aber ein zentrales Indiz uebersehen, das die Höhe des Schadens widerlegen wuerde. Skill liefert Antrag auf Loesung von den tatsaechlichen Feststellungen mit Begruendung.

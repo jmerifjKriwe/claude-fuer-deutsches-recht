@@ -14,7 +14,7 @@ description: "Testamentsvollstreckung einrichten oder bei Streit über Vollstrec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung.
+**Fokus:** Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Vergütung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung.
 
 ### Testamentsvollstreckung
 
@@ -216,14 +216,14 @@ TV haftet für schuldhafte Pflichtverletzung nach §§ 276, 278 BGB (Verschulden
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Testamentsvollstreckung begleiten oder anfechten | TV-Arten und Schriftsatzbausteine unten |
 | Variante A — TV fuehrt Amt pflichtwidrig | Entlassungsantrag § 2227 BGB; Rechnungslegungsklage |
-| Variante B — Erbe will TV loswerden | Wichtiger Grund pruefen; Entlassungsantrag Nachlassgericht |
-| Variante C — TV-Verguetung streitig | Hamburger Tabelle als Massstab; ggf. Abweichung begruenden |
+| Variante B — Erbe will TV loswerden | Wichtiger Grund prüfen; Entlassungsantrag Nachlassgericht |
+| Variante C — TV-Vergütung streitig | Hamburger Tabelle als Massstab; ggf. Abweichung begruenden |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -310,7 +310,7 @@ nach § 2200 BGB, hilfsweise die Ernennung durch die
 Anlagen: Beweise für Pflichtverletzungen
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -15,14 +15,14 @@ description: "Haftungsfreistellung zwischen Autor und Verlag: Klauselbaustein im
 
 ## Worum geht es konkret
 
-Bei Veroeffentlichung urheberrechtlich oder aeusserungsrechtlich kritischer Beitraege koennen Ansprueche Dritter (Abmahnung, Schadensersatz, Unterlassung) den Verlag treffen. Vertraglich wird in der Regel eine Haftungsfreistellung mit dem Autor vereinbart: der Autor versichert die Rechtekonformitaet und stellt den Verlag von berechtigten Ansprueche Dritter frei. Der Skill beschreibt Reichweite, AGB-Schranken und Praxis bei Eintritt des Versicherungsfalls.
+Bei Veroeffentlichung urheberrechtlich oder aeusserungsrechtlich kritischer Beitraege können Ansprueche Dritter (Abmahnung, Schadensersatz, Unterlassung) den Verlag treffen. Vertraglich wird in der Regel eine Haftungsfreistellung mit dem Autor vereinbart: der Autor versichert die Rechtekonformitaet und stellt den Verlag von berechtigten Ansprueche Dritter frei. Der Skill beschreibt Reichweite, AGB-Schranken und Praxis bei Eintritt des Versicherungsfalls.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welches Werk und welche Rechtegrundlage (Zitate, Bilder, Daten, Persoenlichkeitsrecht)?
 2. Welcher Vertragstyp (Aufsatz, Buch, Kommentar, Webinar)?
 3. Steht eine konkrete Abmahnung oder Klage im Raum?
-4. Ist der Autor Verbraucher oder Unternehmer (AGB-Pruefung)?
+4. Ist der Autor Verbraucher oder Unternehmer (AGB-Prüfung)?
 5. Liegt eine Verlagshaftpflichtversicherung vor?
 6. Wie weit reicht die Klausel im Vertrag des Verlags (Standard, individuell verhandelt)?
 7. Bestaetigt der Autor die Rechtekonformitaet bei Manuskript-Einreichung (Manuskripterklaerung)?
@@ -38,10 +38,10 @@ Bei Veroeffentlichung urheberrechtlich oder aeusserungsrechtlich kritischer Beit
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Standardklausel pruefen.** Wie weit ist die Haftungsfreistellung des Autors formuliert (Rechte am Werk, Zitierfreiheit, Bildrechte, Persoenlichkeitsrechte, Datenrechte)?
-2. **AGB-Grenze.** Bei Verbraucher-Autor (Privatperson, kein Unternehmer): Klausel darf nicht ueber typische, vorhersehbare Risiken hinausgehen; bei B2B weitere Reichweite.
+1. **Standardklausel prüfen.** Wie weit ist die Haftungsfreistellung des Autors formuliert (Rechte am Werk, Zitierfreiheit, Bildrechte, Persoenlichkeitsrechte, Datenrechte)?
+2. **AGB-Grenze.** Bei Verbraucher-Autor (Privatperson, kein Unternehmer): Klausel darf nicht über typische, vorhersehbare Risiken hinausgehen; bei B2B weitere Reichweite.
 3. **Manuskripterklaerung** vor Drucklegung: kurze Bestaetigung des Autors, dass alle Quellen rechtekonform verwendet wurden.
-4. **Versicherung.** Verlagshaftpflicht mit Vermoegensschadenbaustein pruefen; Selbstbehalt klaeren.
+4. **Versicherung.** Verlagshaftpflicht mit Vermoegensschadenbaustein prüfen; Selbstbehalt klären.
 5. **Bei Eintritt des Anspruchs.** Anzeige an Versicherung innerhalb der vertraglichen Frist; Autor informieren; gemeinsame Verteidigung mit Justiziariat.
 6. **Aussergerichtliche Loesung.** Kommunikation mit Anspruchsteller; ggf. Vergleich; Innenausgleich Autor/Verlag nach BGB § 426.
 7. **Gerichtsverfahren.** Streitverkuendung an Autor (ZPO § 72), Versicherungsdeckung in Anspruch nehmen.

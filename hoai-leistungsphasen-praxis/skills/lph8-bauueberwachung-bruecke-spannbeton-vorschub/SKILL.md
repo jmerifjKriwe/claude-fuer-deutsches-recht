@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Bruecken im Freivorbau- oder 
 ## Spezialwissen
 
 Spannbetonbruecken im Freivorbau oder Taktschiebeverfahren gehoeren zu den anspruchsvollsten Bauueberwachungsaufgaben.
-Die Bauueberwachung nach HOAI LPH 8 prueft Spannstahlguete, Pressenprotokolle, Betonguete und Lagerkraefte.
+Die Bauueberwachung nach HOAI LPH 8 prüft Spannstahlguete, Pressenprotokolle, Betonguete und Lagerkraefte.
 Gebrauchstauglichkeit und Rissbeschraenkung nach DIN EN 1992-2 (Eurocode 2 Brueckenbau) sind Kernpruefpunkte.
 
 ## Bauwerk und Auftrag
@@ -39,7 +39,7 @@ Gebrauchstauglichkeit und Rissbeschraenkung nach DIN EN 1992-2 (Eurocode 2 Bruec
 - HOAI 2021 § 34 Anlage 10 LPH 8 Grundleistungen
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
 - DIN EN 1992-2 Eurocode 2: Betonbruecken, Beton- und Spannbetontragwerke
-- ZTV-Ing Teil 4 Stahlbeton- und Spannbetonbau: Grundsaetze, Ausfuehrung, Pruefung
+- ZTV-Ing Teil 4 Stahlbeton- und Spannbetonbau: Grundsaetze, Ausfuehrung, Prüfung
 - DIN EN 1337-1 Lager im Bauwesen: Allgemeine Konstruktionsprinzipien
 - DIN EN 10138 Spannstaehle: Anforderungen, Werksbescheinigung, Pruefverfahren
 
@@ -55,7 +55,7 @@ Gebrauchstauglichkeit und Rissbeschraenkung nach DIN EN 1992-2 (Eurocode 2 Bruec
 ## Foto-, Video- und Dokumentenanalyse
 
 - BIM360 Bruecke: IFC-Modell Taktschieben, Clash-Bericht Spannkanale vs. Bewehrung
-- Drohnenflug DJI Mavic 3 Enterprise: Uebersicht Brueckenfeld nach jedem Betoniertakt ortho
+- Drohnenflug DJI Mavic 3 Enterprise: Übersicht Brueckenfeld nach jedem Betoniertakt ortho
 - Pressenprotokoll-Scan: Spannkraft je Litze als PDF, Zuordnung zu Litzenbuendel und Achse
 - Betonkernproben Bruecke: Bohrkerne 28 Tage, Druckfestigkeit, Chloridgehalt, Labor akkreditiert
 - Konvergenzmessung: Totalstation-Monitoring Traegergeometrie, Monatsbericht Setzungswerte

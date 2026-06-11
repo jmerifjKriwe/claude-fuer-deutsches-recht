@@ -13,7 +13,7 @@ description: "Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite 
 
 ## Kernsachverhalt
 
-Rentabilitaetskennzahlen zeigen, wie effizient ein Unternehmen Kapital einsetzt. Die wichtigsten: Eigenkapital-Rendite (Return on Equity), Gesamtkapital-Rendite (Return on Investment), Umsatzrentabilitaet (Return on Sales). Der Steuerberater nutzt sie für Mandantenbewertung, Investor-Update und Vergleich mit Marktstandards. Bei haftungsbeschraenkten Gesellschaften besonders relevant: ueber 5-Jahres-Durchschnitt nachhaltige Rentabilitaet ist Indikator für Going-concern (§ 252 HGB).
+Rentabilitaetskennzahlen zeigen, wie effizient ein Unternehmen Kapital einsetzt. Die wichtigsten: Eigenkapital-Rendite (Return on Equity), Gesamtkapital-Rendite (Return on Investment), Umsatzrentabilitaet (Return on Sales). Der Steuerberater nutzt sie für Mandantenbewertung, Investor-Update und Vergleich mit Marktstandards. Bei haftungsbeschraenkten Gesellschaften besonders relevant: über 5-Jahres-Durchschnitt nachhaltige Rentabilitaet ist Indikator für Going-concern (§ 252 HGB).
 
 ## Kaltstart-Rueckfragen
 
@@ -34,7 +34,7 @@ Rentabilitaetskennzahlen zeigen, wie effizient ein Unternehmen Kapital einsetzt.
 
 **§ 33 StBerG** — StB-Aufgabenkreis.
 
-**§ 91 Abs. 2 AktG / analog GmbH** — Risikofrueherkennung; ueber 5-Jahres-Trend ablesbar.
+**§ 91 Abs. 2 AktG / analog GmbH** — Risikofrueherkennung; über 5-Jahres-Trend ablesbar.
 
 ### Standards
 
@@ -81,10 +81,10 @@ EBITDA-MARGE:
 
 | Kennzahl | Gruen (typisch) | Gelb (typisch) | Rot (typisch) |
 |---|---|---|---|
-| Eigenkapitalrendite (nach Steuern) | ueber ca. 15 Prozent | ca. 5-15 Prozent | unter ca. 5 Prozent |
-| Gesamtkapitalrendite | ueber ca. 10 Prozent | ca. 5-10 Prozent | unter ca. 5 Prozent |
-| Umsatzrentabilitaet | ueber ca. 8 Prozent | ca. 3-8 Prozent | unter ca. 3 Prozent |
-| EBITDA-Marge | ueber ca. 15 Prozent | ca. 8-15 Prozent | unter ca. 8 Prozent |
+| Eigenkapitalrendite (nach Steuern) | über ca. 15 Prozent | ca. 5-15 Prozent | unter ca. 5 Prozent |
+| Gesamtkapitalrendite | über ca. 10 Prozent | ca. 5-10 Prozent | unter ca. 5 Prozent |
+| Umsatzrentabilitaet | über ca. 8 Prozent | ca. 3-8 Prozent | unter ca. 3 Prozent |
+| EBITDA-Marge | über ca. 15 Prozent | ca. 8-15 Prozent | unter ca. 8 Prozent |
 
 Die Schwellenwerte sind Branchen-Daumenregeln und vor dem Mandantengespraech mit aktuellen BBE-Branchendaten abzugleichen. Industriebetriebe weisen typischerweise hoehere EK-Renditen aus; Handel hat oft geringe Umsatzrentabilitaet bei hohem Kapitalumschlag.
 
@@ -105,7 +105,7 @@ Beispiel: ROI 8 Prozent kann sich aus Umsatzrentabilitaet 4 Prozent x Kapitalums
 ### Phase 6 — Erlaeuterung und Beratungsempfehlung
 
 - Mandant in Branchenkontext einordnen.
-- Bei unterdurchschnittlicher EK-Rendite: Massnahmen (Preisgestaltung, Kostenstruktur, Bilanzpolitik).
+- Bei unterdurchschnittlicher EK-Rendite: Maßnahmen (Preisgestaltung, Kostenstruktur, Bilanzpolitik).
 - Bei langfristig negativen Renditen: Hinweispflicht § 102 StaRUG aufgrund Eigenkapitalverzehr.
 
 ## Strategie und Praxis-Tipps
@@ -115,7 +115,7 @@ Beispiel: ROI 8 Prozent kann sich aus Umsatzrentabilitaet 4 Prozent x Kapitalums
 - Bei Holding-Strukturen: bereinigte Renditen ohne reine Beteiligungs-Ergebnisse.
 - Bei Konzern: ROCE (Return on Capital Employed) statt ROI.
 - StBVV: Standardkennzahlen pauschaliert, Mehrjahres-Trend als Zusatzauftrag.
-- DATEV-Tipp: Kennzahlen-Modul mit Standard-Formeln; individuelle Anpassung ueber Berater-Stammdaten.
+- DATEV-Tipp: Kennzahlen-Modul mit Standard-Formeln; individuelle Anpassung über Berater-Stammdaten.
 
 ## Quellen und Updates
 

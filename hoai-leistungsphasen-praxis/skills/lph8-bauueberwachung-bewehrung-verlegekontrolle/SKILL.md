@@ -25,9 +25,9 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 
 ## Erste Schritte auf der Baustelle
 
-1. Stahllager-Pruefung auf der Baustelle: Lagerungsqualitaet trocken und unterlueftet, keine Roststellen tiefer als Korrosionsgrad C nach DIN EN ISO 8501-1, Chargen-Etikett erhalten
+1. Stahllager-Prüfung auf der Baustelle: Lagerungsqualitaet trocken und unterlueftet, keine Roststellen tiefer als Korrosionsgrad C nach DIN EN ISO 8501-1, Chargen-Etikett erhalten
 2. Werksbescheinigung 3.1 nach EN 10204: Je Liefercharge Stahlsorte und Chargen-Nr, chemische Analyse und mechanische Kennwerte, Uebereinstimmung mit Bestellspezifikation
-3. Biegerollendurchmesser pruefen: Biegerollendurchmesser nach DIN EN 1992-1-1 Tabelle 8.1 d groesser 5d für Durchmesser groesser 16 mm, Fehlbiegungen dokumentieren
+3. Biegerollendurchmesser prüfen: Biegerollendurchmesser nach DIN EN 1992-1-1 Tabelle 8.1 d groesser 5d für Durchmesser groesser 16 mm, Fehlbiegungen dokumentieren
 4. Abstandhalter-Einbau: Typ und Anordnung nach DBV-Merkblatt Betondeckung 2020, Punktlast-Abstandhalter max. 500 mm Abstand, Linienstuetzung bei Matten
 5. Stosslageprotokoll: Bewehrungsstoesse nicht im Bereich maximaler Biegemomente, Ueberlappungslaenge nach EC2, Fotos jedes Stosses
 6. Zeichnungsabgleich: Plan-Revision aktuell vor Bewehrungseinbau, Stabdurchmesser und Abstaende gemessen und eingetragen in Abnahme-Checkliste
@@ -54,7 +54,7 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 
 - Fotodokumentation Bewehrungsabnahme: Systemfoto Flaeche, Detailfoto Stosslage, Detailfoto Abstandhalter, Detailfoto Aussparungsschalung, Zeitstempel
 - BIM360 Photo Tracking: Foto gelinkt an IFC-Bauteil-ID Deckenfeld-Nr oder Stuetzen-ID, exportierbar je Bauteil als Abnahme-Paket
-- Matterport 360-Grad-Scan grosse Bewehrungsflaechen: Deckenbewehrung 3D dokumentiert, massstabsgerechte Abstands-Messung im Viewer
+- Matterport 360-Grad-Scan große Bewehrungsflaechen: Deckenbewehrung 3D dokumentiert, massstabsgerechte Abstands-Messung im Viewer
 - Lieferschein-Archiv: Scan per Handy-App, Verknuepfung Chargen-Nr zu Stahlsorte und Einbaubereich, vollstaendig für Gewaehrleistungsakte
 - Covermeter-Messprotokoll: Tabellarisch je Rasterfeld, Farbmarkierung Unterschreitung rot, Export PDF für Bauherrenakte
 
@@ -64,7 +64,7 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 - SAP PS Vorgang BEWEH-020: Status BTAB Teilabnahme Bewehrung, Datum Freigabe durch Bauueberwacher, Dokumenten-Link zu PlanRadar
 - PlanRadar Mangel mit IFC-Bauteil-Verknuepfung: Mangel-Nr, Foto, Schweregrad, Faelligkeit, Bauueberwacher als Erfasser, Polier als Empfaenger
 - Dalux BIM-Mangel direkt im 3D-Modell: BCF 2.1 Export an Tragwerksplaner für Stellungnahme bei Bewehrungsabweichungen
-- Workflow: Mangel-Abnahmeprotokoll erstellt, Massnahme definiert, Polier Mangelbeseitigung, Nachkontrolle Foto, Bewehrungsabnahme-Freigabe, Betonage-Freigabe
+- Workflow: Mangel-Abnahmeprotokoll erstellt, Maßnahme definiert, Polier Mangelbeseitigung, Nachkontrolle Foto, Bewehrungsabnahme-Freigabe, Betonage-Freigabe
 
 ## Typische Fallstricke
 
@@ -75,7 +75,7 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

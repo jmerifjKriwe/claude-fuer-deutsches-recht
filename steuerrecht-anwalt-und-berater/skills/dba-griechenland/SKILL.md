@@ -35,7 +35,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: Deutschland und Griechenland beide Unterzeichner und ratifiziert. Gemaess MLI-Anwendungsgesetz (BGBl. 2024 I Nr. 196) finden MLI-Modifikationen für DBA-Griechenland ab 01.01.2025 Anwendung.
+- **MLI**: Deutschland und Griechenland beide Unterzeichner und ratifiziert. Gemäß MLI-Anwendungsgesetz (BGBl. 2024 I Nr. 196) finden MLI-Modifikationen für DBA-Griechenland ab 01.01.2025 Anwendung.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -46,7 +46,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 - DBA aelteren Datums — Begriffsabweichungen vom OECD-MA.
 
 ### Betriebsstaette (Art. II Abs. 1)
-- Bauausfuehrung: Die genaue Frist ist dem aelteren DBA-Text (Art. II) zu entnehmen; Standardfrist nach OECD-MA 2017 ist 12 Monate, aeltere Abkommen koennen abweichen.
+- Bauausfuehrung: Die genaue Frist ist dem aelteren DBA-Text (Art. II) zu entnehmen; Standardfrist nach OECD-MA 2017 ist 12 Monate, aeltere Abkommen können abweichen.
 
 ### Aktive Einkuenfte
 - Loehne (Art. XI): 183-Tage-Regel.
@@ -68,7 +68,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 ### Phase 3 — Einkunftsart einordnen
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
@@ -76,8 +76,8 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 ## Strategie und Praxis-Tipps
 
 - DBA-Griechenland ist im Vergleich zum OECD-MA 2017 strukturell veraltet — bei Auslegungsstreitigkeiten Verstaendigungsverfahren.
-- Schifffahrt: griechische Sondersteuersystem (Tonnage Tax) — DBA-Berechtigung pruefen.
-- Pension deutsche DRV bei Wohnsitz Griechenland: griechische Quellenbesteuerung pruefen; oft Wohnsitzstaat-Prinzip aus DBA.
+- Schifffahrt: griechische Sondersteuersystem (Tonnage Tax) — DBA-Berechtigung prüfen.
+- Pension deutsche DRV bei Wohnsitz Griechenland: griechische Quellenbesteuerung prüfen; oft Wohnsitzstaat-Prinzip aus DBA.
 - EU-MTRL geht DBA bei Schachtel-Dividenden vor (Quellensteuer 0 Prozent).
 - Bei Tourismusbeteiligungen (Hotelimmobilien): Belegenheits-Besteuerung.
 
@@ -85,7 +85,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 
 ### Erstattungsverfahren griechische Quellensteuer
 
-- **Zuständigkeit**: griechische **AADE (Anexartiti Archi Dimosion Esodon)** — Unabhaengige Behörde für öffentliche Einnahmen. Aktuelle Zuständigkeit auf **aade.gr** pruefen.
+- **Zuständigkeit**: griechische **AADE (Anexartiti Archi Dimosion Esodon)** — Unabhaengige Behörde für öffentliche Einnahmen. Aktuelle Zuständigkeit auf **aade.gr** prüfen.
 - **Antragsformulare**: griechische DBA-Formulare zur Quellensteuer-Erstattung; **konkrete Formularnummern vom Anwender mit aktuellem Stand auf aade.gr zu verifizieren**.
 - **Frist**: nach griechischem Steuerrecht regelmaessig **fuenf Jahre**.
 - **Bearbeitungsdauer**: 12-36 Monate; bei strittigen Faellen erheblich laenger. Griechische Verwaltung historisch langsam.
@@ -108,19 +108,19 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Schachteldividende GR-AE an DE-Mutter ueber DBA (5 Prozent ab 25 Prozent Beteiligung) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung AADE (langwierig) | 0 Prozent via Freistellung vorab | EU-MTRL vorzugswuerdig |
-| Tonnage Tax für Schifffahrt vs. ordentliche KSt | griechisches Tonnage-System effektiv sehr niedrige Belastung | Standard-KSt | bei Reedereien Tonnage-System Standard; aber DBA-Berechtigung pruefen |
+| Schachteldividende GR-AE an DE-Mutter über DBA (5 Prozent ab 25 Prozent Beteiligung) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung AADE (langwierig) | 0 Prozent via Freistellung vorab | EU-MTRL vorzugswuerdig |
+| Tonnage Tax für Schifffahrt vs. ordentliche KSt | griechisches Tonnage-System effektiv sehr niedrige Belastung | Standard-KSt | bei Reedereien Tonnage-System Standard; aber DBA-Berechtigung prüfen |
 | Pension DRV an GR-Wohnsitz vs. DE-Wohnsitz | GR-Besteuerung auslaendischer Pensionen variiert; ggf. Verstaendigungsverfahren | DE-Wohnsitz: nur deutsche Besteuerung | Beratung im Einzelfall |
 | Hotelimmobilien-Beteiligung GR vs. Direktinvestition DE | Belegenheits-Besteuerung GR (Art. 6 DBA); GR-AE-Holding ggf. mit Steuervorteil | DE: Veranlagung nach deutscher Logik | bei substanziellem Hotel-Engagement GR-Vehikel sinnvoll |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
-- **DBA mit roemischen Artikelnummern (Art. II, VII, IX)**: nicht mit OECD-MA-Nummerierung verwechseln. Vor Zitat in Memos Stelle pruefen.
-- **Schifffahrt Art. VI**: tatsaechliche Geschaeftsleitung der Reederei — bei deutschen Investoren in griechische Reederei DBA-Berechtigung der Reederei pruefen.
+- **DBA mit roemischen Artikelnummern (Art. II, VII, IX)**: nicht mit OECD-MA-Nummerierung verwechseln. Vor Zitat in Memos Stelle prüfen.
+- **Schifffahrt Art. VI**: tatsaechliche Geschaeftsleitung der Reederei — bei deutschen Investoren in griechische Reederei DBA-Berechtigung der Reederei prüfen.
 - **Pension Klassifikation**: griechische Pensionen aus IKA (gesetzliche Sozialversicherung) gegenueber privaten oder berufsstaendischen Pensionen — unterschiedliche DBA-Klausel.
 - **EU-Mitgliedschaft seit 01.01.1981**: Mutter-Tochter-Richtlinie ab 1990 anwendbar — für Schachteldividenden vorrangig.
 - **MLI ab 01.01.2025**: PPT-Klausel wirkt sich auf bestehende Strukturen aus; Mandanten-Memos aktualisieren.
-- **Renten-Sondersteuer für Auslaender** (griechisches Pendant zur portugiesischen NHR/spanischen Beckham): historische Sondersteuersaetze für auslaendische Pensionisten — aktuellen Stand und Subject-to-Tax-Klausel § 50d Abs. 9 EStG pruefen.
+- **Renten-Sondersteuer für Auslaender** (griechisches Pendant zur portugiesischen NHR/spanischen Beckham): historische Sondersteuersaetze für auslaendische Pensionisten — aktuellen Stand und Subject-to-Tax-Klausel § 50d Abs. 9 EStG prüfen.
 
 ## Berechnungsbeispiel — Schachteldividende GR-AE an DE-Mutter
 
@@ -134,15 +134,15 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 
 ## Berechnungsbeispiel — Dividende an deutsche Privatperson (Streubesitz)
 
-> Deutscher Privatanleger erhaelt 5.000 EUR Dividende aus GR-AE (Streubesitz, unter 25 Prozent Beteiligung). Nationale griechische Quellensteuer 5 Prozent (ggf. Tarifaenderungen — aktuell pruefen) = 250 EUR. DBA-Hoechstsatz für Streubesitz 25 Prozent — nationale Steuer darunter, keine Erstattung.
+> Deutscher Privatanleger erhaelt 5.000 EUR Dividende aus GR-AE (Streubesitz, unter 25 Prozent Beteiligung). Nationale griechische Quellensteuer 5 Prozent (ggf. Tarifaenderungen — aktuell prüfen) = 250 EUR. DBA-Hoechstsatz für Streubesitz 25 Prozent — nationale Steuer darunter, keine Erstattung.
 >
 > Schritt 1: In DE: Abgeltungsteuer 25 Prozent + 5,5 Prozent Soli = 26,375 Prozent von 5.000 = 1.318,75 EUR.
 >
-> Schritt 2: Anrechnung der griechischen Quellensteuer nach § 32d Abs. 5 EStG (max. 15 Prozent nach DBA?? — Hier DBA-Streubesitz-Limit 25 Prozent, BZSt Tabelle): konkret pruefen ob 5 oder 25 Prozent gelten — fiktional Annahme: 5 Prozent voll anrechenbar = 250 EUR.
+> Schritt 2: Anrechnung der griechischen Quellensteuer nach § 32d Abs. 5 EStG (max. 15 Prozent nach DBA?? — Hier DBA-Streubesitz-Limit 25 Prozent, BZSt Tabelle): konkret prüfen ob 5 oder 25 Prozent gelten — fiktional Annahme: 5 Prozent voll anrechenbar = 250 EUR.
 >
 > Schritt 3: Verbleibende deutsche Steuer = 1.318,75 - 250 = 1.068,75 EUR.
 >
-> Anmerkung: konkrete Quellensteuersaetze und Anrechnungsmodalitaeten aus dem aktuellen BZSt-Verzeichnis und DBA-Text Art. VII pruefen.
+> Anmerkung: konkrete Quellensteuersaetze und Anrechnungsmodalitaeten aus dem aktuellen BZSt-Verzeichnis und DBA-Text Art. VII prüfen.
 
 ## Quellen und Updates
 

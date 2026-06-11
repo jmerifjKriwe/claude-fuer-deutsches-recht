@@ -37,7 +37,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 
 ### Tatbestand § 264 Abs. 1 StGB
 
-1. **Unrichtige oder unvollstaendige Angaben** gegenueber Subventionsgeber oder einer in das Subventionsverfahren eingeschalteten Stelle ueber subventionserhebliche Tatsachen, die für ihn oder einen anderen vorteilhaft sind.
+1. **Unrichtige oder unvollstaendige Angaben** gegenueber Subventionsgeber oder einer in das Subventionsverfahren eingeschalteten Stelle über subventionserhebliche Tatsachen, die für ihn oder einen anderen vorteilhaft sind.
 2. **Verwendung des Gegenstandes oder der Geldleistung entgegen einer Verwendungsbeschraenkung.**
 3. **Inanspruchnahme einer Subvention auf Grund einer durch unrichtige Belege erschlichenen Subventionsgenehmigung.**
 4. **Unterlassen** der Mitteilung bei nachtraeglichem Wegfall der Anspruchsvoraussetzungen.
@@ -45,7 +45,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 ### Schluesselbegriffe
 
 - **Subvention § 264 Abs. 8 StGB.** Leistung aus öffentlichen Mitteln nach Bundes- oder Landesrecht oder nach EU-Recht an Betriebe oder Unternehmen, wenigstens zum Teil ohne marktmäßige Gegenleistung. Corona-Soforthilfen sind nach BGH 4.5.2022 — 6 StR 392/21 Subventionen (Az. vor Verwendung verifizieren).
-- **Subventionserheblichkeit § 264 Abs. 9 StGB.** Tatsache muss durch Gesetz oder durch den Subventionsgeber als subventionserheblich bezeichnet sein. Mehrstufige Pruefung.
+- **Subventionserheblichkeit § 264 Abs. 9 StGB.** Tatsache muss durch Gesetz oder durch den Subventionsgeber als subventionserheblich bezeichnet sein. Mehrstufige Prüfung.
 - **Leichtfertigkeit § 264 Abs. 5 StGB.** Grobe Fahrlaessigkeit; auch ohne Vorsatz strafbar mit bis zu drei Jahren.
 
 ### Subjektiver Tatbestand
@@ -63,7 +63,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 - **Subventionserheblichkeit** durchsubsumieren. War die fraglich Tatsache als subventionserheblich bezeichnet? Bei Corona-Hilfen-Antragsformularen oft pauschale Klauseln; trennscharfe Bezeichnung erforderlich (BGH staendige Rspr. dazu, dass blosse Allgemeinformel nicht ausreicht).
 - **Vorsatz oder Leichtfertigkeit?** Wenn Vorsatz schwer beweisbar, kann StA auf Leichtfertigkeit ausweichen (Abs. 5). Verteidigungsziel: weder noch.
 - **Liquiditaetslage** zum Antragszeitpunkt rekonstruieren. Bei Corona-Hilfen entscheidend: Bestand Liquiditaetsengpass nach behoerdlicher Definition (haeufig 50 Prozent Umsatzrueckgang).
-- **Taetige Reue Abs. 6** noch waehrend des Verfahrens moeglich: vor Endabrechnung Rueckzahlung.
+- **Taetige Reue Abs. 6** noch waehrend des Verfahrens möglich: vor Endabrechnung Rueckzahlung.
 - **Adhaesion / Rueckforderung** parallel zum Verwaltungsverfahren.
 - **§ 153a StPO Einstellung** bei niedrigem Schaden plus Rueckzahlung.
 
@@ -80,14 +80,14 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 ## Konkurrenzen
 
 - **§ 264 StGB ist gegenueber § 263 StGB lex specialis.** § 263 verdraengt, soweit § 264 greift.
-- **§ 264 StGB / § 370 AO Steuerhinterziehung.** Tateinheit moeglich, wenn Förderung steuerlich abgewickelt (z. B. Investitionszulage).
+- **§ 264 StGB / § 370 AO Steuerhinterziehung.** Tateinheit möglich, wenn Förderung steuerlich abgewickelt (z. B. Investitionszulage).
 - **§ 264 StGB / § 263a StGB.** Bei Online-Antrag denkbar.
 - **§ 264 StGB / § 261 StGB Geldwaesche.** Reform 2021: jede Vortat tauglich.
 - **§ 264 StGB / Verwaltungsrecht.** Rueckforderung nach § 49 VwVfG i.V.m. § 49a VwVfG; parallel zur Strafverfolgung.
 
 ## Strafzumessung und Folgen
 
-- **Strafrahmen** bis fuenf Jahre oder Geldstrafe; Abs. 2 besonders schwere Faelle ein bis zehn Jahre (gewerbsmaessig, grossen Ausmasses, Amtstraegermissbrauch, falsche Belege).
+- **Strafrahmen** bis fuenf Jahre oder Geldstrafe; Abs. 2 besonders schwere Faelle ein bis zehn Jahre (gewerbsmaessig, großen Ausmasses, Amtstraegermissbrauch, falsche Belege).
 - **§ 46 StGB** Schadenshoehe, Wiedergutmachung.
 - **§ 73 StGB Einziehung** zwingend (gesamte Subvention).
 - **Berufsverbot § 70 StGB** insbes. bei Foerdermittel-Beratern.
@@ -99,7 +99,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 
 ### Antrag taetige Reue
 
-"Es wird Antrag auf Einstellung des Verfahrens gemaess § 264 Abs. 6 StGB gestellt. Der Mandant hat am [Datum] die gesamte Subvention in Hoehe von [Betrag] EUR an die Investitionsbank Berlin zurueckueberwiesen (Anlage K-3). Der Eintritt des Subventionsvorteils wurde freiwillig verhindert; die Rueckzahlung erfolgte unaufgefordert vor Erlass eines Rueckforderungsbescheids."
+"Es wird Antrag auf Einstellung des Verfahrens gemäß § 264 Abs. 6 StGB gestellt. Der Mandant hat am [Datum] die gesamte Subvention in Höhe von [Betrag] EUR an die Investitionsbank Berlin zurueckueberwiesen (Anlage K-3). Der Eintritt des Subventionsvorteils wurde freiwillig verhindert; die Rueckzahlung erfolgte unaufgefordert vor Erlass eines Rueckforderungsbescheids."
 
 ### Bestreiten Subventionserheblichkeit
 
@@ -108,8 +108,8 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 ## Quellen Stand 06/2026
 
 - § 264 StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/__264.html.
-- BGH 4.5.2022 — 6 StR 392/21 (Corona-Soforthilfe als Subvention); Az. vor Verwendung ueber https://www.bundesgerichtshof.de verifizieren.
-- BGH staendige Rspr. zur Subventionserheblichkeit, Az. zu pruefen.
+- BGH 4.5.2022 — 6 StR 392/21 (Corona-Soforthilfe als Subvention); Az. vor Verwendung über https://www.bundesgerichtshof.de verifizieren.
+- BGH staendige Rspr. zur Subventionserheblichkeit, Az. zu prüfen.
 - §§ 49, 49a VwVfG für parallele Rueckforderung; Verwaltungsverfahren nach LVwVfG.
 - §§ 73, 73c StGB Einziehung; § 70 StGB Berufsverbot.
 - references/zitierweise.md.

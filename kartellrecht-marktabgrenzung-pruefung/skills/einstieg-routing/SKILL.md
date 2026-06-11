@@ -11,7 +11,7 @@ Dieser Einstieg routet **Kartellrecht Marktabgrenzung Prüfung** vom ersten Sach
 
 ## Fachlandkarte dieses Plugins
 
-- `1-gwb-kartellverbot-nationale-pruefung` — 1 GWB Kartellverbot Nationale Pruefung
+- `1-gwb-kartellverbot-nationale-pruefung` — 1 GWB Kartellverbot Nationale Prüfung
 - `19a-gwb-relative-abuse-economic` — 19A GWB Relative Abuse Economic
 - `abuse-of-economic-dependence` — Abuse OF Economic Dependence
 - `aeuv-behoerden-gericht-und-registerweg` — Aeuv Behoerden Gericht und Registerweg
@@ -31,7 +31,7 @@ Dieser Einstieg routet **Kartellrecht Marktabgrenzung Prüfung** vom ersten Sach
 
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Kartellrecht Marktabgrenzung Pruefung sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Fachpfad wählen: zentrale Anker im Kartellrecht Marktabgrenzung Prüfung sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 

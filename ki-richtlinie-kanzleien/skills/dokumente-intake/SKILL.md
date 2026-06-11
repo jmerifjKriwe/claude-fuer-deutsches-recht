@@ -7,7 +7,7 @@ description: "Dokumentenintake für KI-Richtlinie für Kanzleien: sortiert KI-Ri
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Ki Richtlinie Kanzleien** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Ki Richtlinie Kanzleien** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -27,7 +27,7 @@ Dieser Dokumenten-Intake für **Ki Richtlinie Kanzleien** ordnet Anlagen, Regist
 
 - `anonymisierung-pseudonymisierung` — Anonymisierung Pseudonymisierung
 - `anwaelten-berufsrechtskonforme-beruht` — Anwaelten Berufsrechtskonforme Beruht
-- `auftragsverarbeitungsvertrag-pruefen` — Auftragsverarbeitungsvertrag Pruefen
+- `auftragsverarbeitungsvertrag-pruefen` — Auftragsverarbeitungsvertrag Prüfen
 - `automatisierte-entscheidungen-art-22-dsgvo` — Automatisierte Entscheidungen ART 22 DSGVO
 - `berufsrecht-bausteine` — Berufsrecht Bausteine
 - `berufsrechtskonforme-tatbestand-beweis-und-belege` — Berufsrechtskonforme Tatbestand Beweis und Belege

@@ -13,7 +13,7 @@ description: "DATEV Unternehmen Online Mandantenshop. Anwendungsfall Belegtransf
 
 ## Kernsachverhalt
 
-DATEV Unternehmen Online (DUO) ist die Standardplattform für den digitalen Belegtransfer zwischen Mandant und Steuerberater. Mandant erfasst oder scant Belege ueber das Portal; der Steuerberater greift direkt zu. Auch BWA, SuSa, OPOS-Listen werden ueber DUO geteilt. Konfiguration und Schulung des Mandanten sind Erfolgsfaktoren.
+DATEV Unternehmen Online (DUO) ist die Standardplattform für den digitalen Belegtransfer zwischen Mandant und Steuerberater. Mandant erfasst oder scant Belege über das Portal; der Steuerberater greift direkt zu. Auch BWA, SuSa, OPOS-Listen werden über DUO geteilt. Konfiguration und Schulung des Mandanten sind Erfolgsfaktoren.
 
 ## Kaltstart-Rueckfragen
 
@@ -44,8 +44,8 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform für den digitalen Bele
 
 ### Phase 1 — Einrichtung
 
-- DUO-Konto für Mandant beantragen (ueber DATEV).
-- AVV mit DATEV pruefen / unterzeichnen.
+- DUO-Konto für Mandant beantragen (über DATEV).
+- AVV mit DATEV prüfen / unterzeichnen.
 - Module aktivieren (Belegtransfer, Banking).
 - Benutzer und Rollen anlegen.
 
@@ -59,7 +59,7 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform für den digitalen Bele
 ### Phase 3 — Mandantenschulung
 
 - Erstgespraech mit Demo.
-- Belegtransfer ueber Smartphone-App.
+- Belegtransfer über Smartphone-App.
 - Buchungsfreigabe-Workflow.
 - Mandantenfreigabe von BWA.
 
@@ -68,26 +68,26 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform für den digitalen Bele
 - Mandant scannt Belege taeglich oder woechentlich.
 - Sachbearbeiter sieht Belege automatisch in DATEV Kanzlei-Rechnungswesen.
 - Buchung mit Belegverknuepfung.
-- BWA-Versand ueber DUO-Portal.
+- BWA-Versand über DUO-Portal.
 
 ### Phase 5 — Eskalation und Wartung
 
 - Bei Stoerungen DATEV-Support.
-- Quartalsweise Pruefung Belegabgabe-Disziplin.
+- Quartalsweise Prüfung Belegabgabe-Disziplin.
 - Bei Mandant-Nutzungsruckgang: Schulungswiederholung.
 
 ### Phase 6 — DSGVO und Sicherheit
 
 - Zwei-Faktor-Authentifizierung empfehlen.
 - Bei Mitarbeiterwechsel: Zugang aktualisieren.
-- Audit-Logs pruefen.
+- Audit-Logs prüfen.
 
 ## Strategie und Praxis-Tipps
 
 - DUO ist Effizienz-Hebel für beide Seiten — Belege landen sofort beim StB.
 - Mandantenakzeptanz ist Erfolgsfaktor — gute Schulung wichtig.
 - Mobile App ist Killer-Feature: Beleg-Scan direkt am Empfangsort.
-- Bei groesseren Mandanten: ERP-Anbindung pruefen (verschiedene Schnittstellen).
+- Bei groesseren Mandanten: ERP-Anbindung prüfen (verschiedene Schnittstellen).
 - StBVV: DUO-Einrichtung als Onboarding-Bestandteil.
 
 ## Quellen und Updates
@@ -98,5 +98,5 @@ Stand: 05/2026.
 - AO §§ 146, 147.
 - DSGVO Art. 28.
 - BMF v. 28.11.2019 zu GoBD.
-- DATEV-Dokumentation Unternehmen Online (aktuelle Version pruefen).
+- DATEV-Dokumentation Unternehmen Online (aktuelle Version prüfen).
 - Verifikations-Hinweis: konkrete Programmpfade und Modul-Bezeichnungen ggf. abweichend in aktueller DATEV-Version.

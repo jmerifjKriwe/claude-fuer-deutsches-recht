@@ -3,7 +3,7 @@ name: laienhilfe-einkommen-vermoegen-sgbii
 description: "Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgbii: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Wid..."
 ---
 
-# Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgbii
+# Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermögen Sgbii
 
 
 ## Arbeitsweg
@@ -14,9 +14,9 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgb
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgbii. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermögen Sgbii. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-### Laienhilfe: Einkommen Vermoegen Sgbii
+### Laienhilfe: Einkommen Vermögen Sgbii
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Einkommen Vermoegen Sgbii` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
@@ -28,7 +28,7 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgb
 
 ## Worum es geht
 
-Dieser Skill erklaert **Einkommen Vermoegen Sgbii** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
+Dieser Skill erklaert **Einkommen Vermögen Sgbii** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
 ## Erst sortieren
 
@@ -65,13 +65,13 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-## Einkommen / Vermoegen SGB II - Themenspezifika
-- **Rechtsgrundlagen:** §§ 11-12 SGB II (Einkommen, Vermoegen); § 11a SGB II (Nicht-Einkommen); § 11b SGB II (Absetzbetraege); § 12 SGB II (Vermoegen); §§ 1, 3-5 SGB II (Karenzzeit, Bedarfsgemeinschaft).
-- **Karenzzeit § 12 III SGB II (seit 2023):** in den ersten 12 Monaten Buergergeldbezug Vermoegen bis 40.000 EUR (Antragsteller) plus 15.000 EUR je weiteres Mitglied geschuetzt; Wohnung selbstgenutzt unbeachtlich.
-- **Vermoegen nach Karenz:** Schonbetraege Grundfreibetrag 15.000 EUR pro Person; Altersvorsorge geschuetzt; Hausrat angemessen; KFZ angemessen (regelmaessig 15.000 EUR).
+## Einkommen / Vermögen SGB II - Themenspezifika
+- **Rechtsgrundlagen:** §§ 11-12 SGB II (Einkommen, Vermögen); § 11a SGB II (Nicht-Einkommen); § 11b SGB II (Absetzbetraege); § 12 SGB II (Vermögen); §§ 1, 3-5 SGB II (Karenzzeit, Bedarfsgemeinschaft).
+- **Karenzzeit § 12 III SGB II (seit 2023):** in den ersten 12 Monaten Buergergeldbezug Vermögen bis 40.000 EUR (Antragsteller) plus 15.000 EUR je weiteres Mitglied geschuetzt; Wohnung selbstgenutzt unbeachtlich.
+- **Vermögen nach Karenz:** Schonbetraege Grundfreibetrag 15.000 EUR pro Person; Altersvorsorge geschuetzt; Hausrat angemessen; KFZ angemessen (regelmaessig 15.000 EUR).
 - **Einkommen-Definition § 11 SGB II:** alle Einkuenfte in Geld; Zuflussprinzip; Brutto-Netto-Berechnung. Nicht-Einkommen § 11a (z. B. Pflegegeld, Bafoeg-Teile, Schmerzensgeld, Entschaedigung Ehrenamt bis 250 EUR/Monat).
 - **Absetzbetraege § 11b SGB II:** Werbungskosten (Pauschale 100 EUR/Monat), Versicherungspauschale 30 EUR, Riester, Fahrtkosten 0,21 EUR/km einfach, Erwerbstaetigenfreibetrag (100 EUR Grundfreibetrag, dann 20 % bis 1000 EUR, 10 % bis 1200/1500 EUR).
 - **Bedarfsgemeinschaft § 7 III SGB II:** Ehegatte, Lebenspartner, eheaehnliche Gemeinschaft (3 Monate Vermutungsschwelle); minderjaehrige Kinder; Eltern bei unter 25-Jaehrigen im Haushalt.
-- **Beweislast:** Antragsteller traegt für leistungsbegruendende Tatsachen; Behörde traegt für Vermoegen, das einer Anrechnung entgegensteht (Negativbeweis nicht zumutbar).
+- **Beweislast:** Antragsteller traegt für leistungsbegruendende Tatsachen; Behörde traegt für Vermögen, das einer Anrechnung entgegensteht (Negativbeweis nicht zumutbar).
 - **Sanktion / Minderung:** bei Pflichtverletzungen § 31 ff. SGB II (1. Minderung 10 %, 2. 20 %, 3. 30 %); Anhörung § 24 SGB X zwingend.
-- **Praxis-Tipp:** Kontoauszuege ab 3 Monate vor Antrag bereithalten; Selbstauskunft genau pruefen - falsche Angaben sind ordnungswidrig § 63 SGB II / strafbar § 263 StGB.
+- **Praxis-Tipp:** Kontoauszuege ab 3 Monate vor Antrag bereithalten; Selbstauskunft genau prüfen - falsche Angaben sind ordnungswidrig § 63 SGB II / strafbar § 263 StGB.

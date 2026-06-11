@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Notverordnungen und Demokratiekrise 193
 
 ## Worum es geht
 
-Die Praesidialkabinette 1930-1933 regierten Deutschland faktisch per Notverordnung (Art. 48 WRV). Bruening erliess 1930-1932 ueber 60 Notverordnungen, Papen 1932 ueber 50. Der Reichstag wurde regelmassig aufgeloest. Die Notverordnungsflut 1930-1933 aushoehlte den Parlamentarismus der WRV. Als Legitimation diente angebliche Staatsnotlage. Das Ermächtigungsgesetz vom 24. Maerz 1933 (RGBl. I 1933, 141) gab der Reichsregierung ohne parlamentarische Kontrolle Gesetzgebungskompetenz. Carl Schmitt rechtfertigte Art. 48 als Instrument des Ausnahmerechts (Politische Theologie, 1922); Hans Kelsen widersprach (Wesen und Wert der Demokratie, 1929).
+Die Praesidialkabinette 1930-1933 regierten Deutschland faktisch per Notverordnung (Art. 48 WRV). Bruening erliess 1930-1932 über 60 Notverordnungen, Papen 1932 über 50. Der Reichstag wurde regelmassig aufgeloest. Die Notverordnungsflut 1930-1933 aushoehlte den Parlamentarismus der WRV. Als Legitimation diente angebliche Staatsnotlage. Das Ermächtigungsgesetz vom 24. Maerz 1933 (RGBl. I 1933, 141) gab der Reichsregierung ohne parlamentarische Kontrolle Gesetzgebungskompetenz. Carl Schmitt rechtfertigte Art. 48 als Instrument des Ausnahmerechts (Politische Theologie, 1922); Hans Kelsen widersprach (Wesen und Wert der Demokratie, 1929).
 
 ## Kernnormen / Kernquellen
 

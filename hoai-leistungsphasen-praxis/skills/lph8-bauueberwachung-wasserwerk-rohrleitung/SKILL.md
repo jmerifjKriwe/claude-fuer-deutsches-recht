@@ -15,7 +15,7 @@ description: "Bauueberwachung HOAI LPH 8 für Wasserwerksrohrleitungen und Trink
 
 ## Spezialwissen
 
-Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerken, die ueber die VOB hinausgehen und hygienische Anforderungen an Einbau und Inbetriebnahme definieren. Die Bauueberwachung in LPH 8 prueft Rohrleitungsverlegung, Verbindungstechnik, Grabensicherung und Druckpruefung und stellt sicher, dass die Anlage seuchenhygienisch einwandfrei in Betrieb genommen werden kann.
+Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerken, die über die VOB hinausgehen und hygienische Anforderungen an Einbau und Inbetriebnahme definieren. Die Bauueberwachung in LPH 8 prüft Rohrleitungsverlegung, Verbindungstechnik, Grabensicherung und Druckpruefung und stellt sicher, dass die Anlage seuchenhygienisch einwandfrei in Betrieb genommen werden kann.
 
 ## Bauwerk und Auftrag
 
@@ -25,8 +25,8 @@ Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerk
 
 ## Erste Schritte auf der Baustelle
 
-1. Grabenabsicherung pruefen: Verbautiefe nach DIN 4124 Abschnitt 5, Verbautyp Berliner Verbau oder Spundwand ab 1.75 m Tiefe, Rettungsweg vorhanden, Arbeitsraumbreite mindestens 0.5 m neben Rohr
-2. Rohrlager-Sichtpruefung vor Einbau: Chargen-Nummer und Zertifikat DVGW GW 335 pruefen, Beschaedigungen Innen- und Aussenauskleidung Zementmoertel, kein Einbau beschaedigter Rohre
+1. Grabenabsicherung prüfen: Verbautiefe nach DIN 4124 Abschnitt 5, Verbautyp Berliner Verbau oder Spundwand ab 1.75 m Tiefe, Rettungsweg vorhanden, Arbeitsraumbreite mindestens 0.5 m neben Rohr
+2. Rohrlager-Sichtpruefung vor Einbau: Chargen-Nummer und Zertifikat DVGW GW 335 prüfen, Beschaedigungen Innen- und Aussenauskleidung Zementmoertel, kein Einbau beschaedigter Rohre
 3. Bettungssand-Kontrolle: Koernung 0-2 mm nach DVGW W 400-2 Abschnitt 9.3, Bettungsstaerke 15 cm unter Rohrschaft, kein Fremdmaterial
 4. Verbindungsprotokoll: Jede Rohrverbindung einzeln dokumentiert, Schweissung PE-HD Heizwendelverfahren nach DVS 2207-1, Spitzend-Verbindung Duktilguss mit Schubsicherung
 5. Streckenprotokoll: GPS-Aufnahme Achse und Scheitel je 5 m, Rohrtiefe Lasernivelliermessung, Abweichung kleiner +-50 mm von Planachse
@@ -46,7 +46,7 @@ Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerk
 1. Verbaudokumentation: Foto Grabenwand-Verbau vor Rohreinbau, Verbautiefe mit Zollstock, Rettungsleiter-Abstand max. 12 m
 2. Schweissprotokoll PE-HD: DVS 2207-1 Angaben vollstaendig, Geraete-Kalibrierung aktuell, Witterungsschutz bei Wind groesser 3 m/s
 3. Schubsicherung Duktilguss: Betonwiderlager oder Zuganker vor Hinterfuellung, statischer Nachweis gegengeprueft
-4. Druckpruefungsprotokoll: Startdruck, Druckabfall Vorpruefung und Hauptpruefung, Massnahmen bei Undichtigkeiten, Unterschrift Auftraggeber
+4. Druckpruefungsprotokoll: Startdruck, Druckabfall Vorpruefung und Hauptpruefung, Maßnahmen bei Undichtigkeiten, Unterschrift Auftraggeber
 5. Desinfektion nach DVGW W 291: Chlorkonzentrations-Messprotokoll, Einwirkzeit mindestens 24 h, Freigabe Gesundheitsamt
 6. As-Built-Aufnahme: GPS-Leitungsachse nach Einbau, GIS-Shapefile oder ISYBAU-Austauschformat, Abgabe an Auftraggeber
 
@@ -54,7 +54,7 @@ Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerk
 
 - Fotoprotokoll Einbau: Jede Rohrverbindung mit Fotos Vorbereitung-Schweissung-Ergebnis, GPS-Tag und Zeitstempel, Ablage PlanRadar nach Leitungs-km
 - Kanalfernsehen nach Verfuellung: Kamerafahrt DN 200 aufwaerts, Inspektionssoftware WinCan, Klassifizierung Schaeden nach DIN EN 13508-2
-- Pruefung Lieferscheine: CE-Zeichen und DVGW-Zertifikat GW 335, Zementmoertelauskleidung-Bescheinigung, UV-Schutz-Lagerungsnachweis
+- Prüfung Lieferscheine: CE-Zeichen und DVGW-Zertifikat GW 335, Zementmoertelauskleidung-Bescheinigung, UV-Schutz-Lagerungsnachweis
 - Drohne UAV laendliche Trassen: Photogrammetrie Trassenverlauf vor Verfuellung, Orthofoto 3 cm/px für As-Built
 - SAP PM Fotodokumentation: Pflichtfoto je Meldung, Equipment-Nummer gescannt, Meldungsstatus-Historie vollstaendig
 
@@ -75,7 +75,7 @@ Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerk
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

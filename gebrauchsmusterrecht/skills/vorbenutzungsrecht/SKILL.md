@@ -50,7 +50,7 @@ Der Gegner beruft sich auf ältere Nutzung.
 - Diese Aktenzeichen vor Schriftsatzverwendung in einer freien Quelle gegen Datum, Entscheidungsform und Leitsatz prüfen; ohne Live-Check nur normbasiert über § 13 Abs. 3 GebrMG i.V.m. § 12 PatG argumentieren.
 
 ### Strategischer Wert
-- Wichtiges Verteidigungsmittel gegen spaeter angemeldetes Gebrauchsmuster.
+- Wichtiges Verteidigungsmittel gegen später angemeldetes Gebrauchsmuster.
 - Sorgfaeltige Dokumentation der eigenen Entwicklung Pflicht.
 
 ## Quellen-Hardening

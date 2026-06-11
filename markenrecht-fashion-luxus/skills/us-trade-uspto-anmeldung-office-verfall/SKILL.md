@@ -152,7 +152,7 @@ Bevor der Trade-Dress-Schutz beansprucht wird, klaere:
 
 ## Aktuelle Rechtsprechung (US)
 
-> **Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U.S. 205 (2000):** Produktkonfigurationen sind nie inherently distinctive und koennen Trade-Dress-Schutz nur durch Nachweis von Secondary Meaning erlangen; das Gericht zieht eine scharfe Grenze zwischen Produktverpackung (kann inherently distinctive sein) und Produktgestaltung.
+> **Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U.S. 205 (2000):** Produktkonfigurationen sind nie inherently distinctive und können Trade-Dress-Schutz nur durch Nachweis von Secondary Meaning erlangen; das Gericht zieht eine scharfe Grenze zwischen Produktverpackung (kann inherently distinctive sein) und Produktgestaltung.
 
 > **Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992):** Trade Dress, das inherently distinctive ist (hier: Restaurantambiente), ist ohne Secondary-Meaning-Nachweis schutzfaehig nach § 43(a) Lanham Act; das Zurueckgreifen auf inherent distinctiveness setzt voraus, dass das Trade Dress nicht funktional ist.
 

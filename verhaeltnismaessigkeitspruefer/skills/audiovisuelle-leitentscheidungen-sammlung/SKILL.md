@@ -45,7 +45,7 @@ Keine frei belegte audiovisuelle Quelle. Fuehre nur die amtliche Entscheidung: B
 Keine frei belegte audiovisuelle Quelle. Fuehre nur die amtliche Entscheidung: BVerfG, Urteil vom 15.01.1958, 1 BvR 400/51, BVerfGE 7, 198. Stufe: Wechselwirkung, praktische Konkordanz, grundrechtsfreundliche Auslegung zivilrechtlicher Normen.
 
 ### Volkszaehlung 1983 (BVerfGE 65, 1)
-Keine frei belegte audiovisuelle Quelle. Fuehre nur die amtliche Entscheidung: BVerfG, Urteil vom 15.12.1983, 1 BvR 209/83 u.a., BVerfGE 65, 1. Stufe: Bestimmtheit, Normklarheit, Verhaeltnismaessigkeit datenbezogener Eingriffe.
+Keine frei belegte audiovisuelle Quelle. Fuehre nur die amtliche Entscheidung: BVerfG, Urteil vom 15.12.1983, 1 BvR 209/83 u.a., BVerfGE 65, 1. Stufe: Bestimmtheit, Normklarheit, Verhältnismäßigkeit datenbezogener Eingriffe.
 
 ### Kruzifix-Beschluss 1995 (BVerfGE 93, 1)
 Keine frei belegte audiovisuelle Quelle. Fuehre nur die amtliche Entscheidung: BVerfG, Beschluss vom 16.05.1995, 1 BvR 1087/91, BVerfGE 93, 1. Stufe: praktische Konkordanz zwischen Glaubensfreiheit, Elternrecht und staatlichem Erziehungsauftrag.
@@ -75,7 +75,7 @@ Jeder Eintrag erhaelt:
 
 ## Hinweise zur Rechtssicherheit
 
-- Einbettungen ausschliesslich mit Permalinks der Originalquelle, keine Re-Uploads.
-- Bei akademischen Vortraegen Lizenz pruefen (CC BY, CC BY-SA oder Open Access).
+- Einbettungen ausschließlich mit Permalinks der Originalquelle, keine Re-Uploads.
+- Bei akademischen Vortraegen Lizenz prüfen (CC BY, CC BY-SA oder Open Access).
 - Verkuendungsmaterial des BVerfG ist gemeinfrei, jedoch Persoenlichkeitsrechte der Beteiligten beachten.
-- Pressekonferenzen koennen Urheberrechte der Sender enthalten; Zitatrecht nach § 51 UrhG pruefen.
+- Pressekonferenzen können Urheberrechte der Sender enthalten; Zitatrecht nach § 51 UrhG prüfen.

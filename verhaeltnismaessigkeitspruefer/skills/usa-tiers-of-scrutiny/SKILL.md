@@ -36,7 +36,7 @@ Anwendungsfaelle:
   Reed v Town of Gilbert 576 US 155 (2015).
 
 Affirmative-Action-Linie: Adarand Constructors Inc v Pena 515 US 200
-(1995) hat strict scrutiny auch fuer benigne Rassendifferenzierung
+(1995) hat strict scrutiny auch für benigne Rassendifferenzierung
 etabliert; Grutter v Bollinger 539 US 306 (2003) hat zunaechst eine
 eng zugeschnittene Beruecksichtigung der Hautfarbe in der
 Hochschulzulassung gebilligt; SFFA v Harvard 600 US 181 (2023) hat
@@ -65,7 +65,7 @@ Niedrigste Pruefdichte. Voraussetzungen:
 
 - **Legitimate governmental interest**.
 - **Rationally related** Mittel.
-- Vermutung der Verfassungsmaessigkeit; Klaeger trifft Darlegungslast.
+- Vermutung der Verfassungsmaessigkeit; Kläger trifft Darlegungslast.
 
 Anwendungsfaelle:
 
@@ -74,9 +74,9 @@ Anwendungsfaelle:
 - Allgemeine Gleichbehandlungsfragen ausserhalb suspect class.
 
 Rational basis with bite: in Romer v Evans 517 US 620 (1996) hat der
-Court eine in Wahrheit strengere Pruefung unter dem Label rational
+Court eine in Wahrheit strengere Prüfung unter dem Label rational
 basis durchgefuehrt, weil die Diskriminierung von Homosexuellen
-animus erkennen liess. Aehnlich City of Cleburne v Cleburne Living
+animus erkennen liess. Ähnlich City of Cleburne v Cleburne Living
 Center 473 US 432 (1985).
 
 ## Substantive Due Process
@@ -100,7 +100,7 @@ US 702, 1997).
 ## Rezeption deutscher Methodik
 
 Die US-Doktrin hat **keine direkte Rezeption** der deutschen
-Verhaeltnismaessigkeit. Vergleichbarkeiten bestehen aber:
+Verhältnismäßigkeit. Vergleichbarkeiten bestehen aber:
 
 - strict scrutiny erinnert an deutsche intensive Kontrolldichte mit
   Erforderlichkeit als Mildermittelpruefung.
@@ -114,35 +114,35 @@ Strukturelle Unterschiede sind aber gravierend.
 
 | Deutschland | USA |
 | --- | --- |
-| Vier Stufen sequenziell fuer alle Grundrechte gleich | Drei Pruefstufen je nach Eingriffsgegenstand vorab kategorisiert |
+| Vier Stufen sequenziell für alle Grundrechte gleich | Drei Pruefstufen je nach Eingriffsgegenstand vorab kategorisiert |
 | Schutzbereich-Eingriff-Rechtfertigung als Aufbau | Direkte Kategorisierung am Eingriff, dann Tier |
 | Einschaetzungspraerogative je nach Materie | Kategorisierte Pruefdichte je nach betroffener Class oder Right |
-| Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt; absolute Grenzen ueber Substantive Due Process |
+| Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt; absolute Grenzen über Substantive Due Process |
 | Menschenwuerde Art 1 I GG | Kein vergleichbares Recht; Dignity-Argumentation nur punktuell (Kennedy J in Obergefell) |
 | Praktische Konkordanz | Categorical balancing, ad hoc balancing |
 | Untermassverbot | DeShaney v Winnebago County 489 US 189 (1989) lehnt staatliche Schutzpflicht weitgehend ab |
 
-## Bedeutung fuer den Pruefer
+## Bedeutung für den Prüfer
 
 Bei Anwendung im deutschen Schriftsatz:
 
-- Rechtsvergleichendes Argument zur strikten Pruefung von Eingriffen
+- Rechtsvergleichendes Argument zur strikten Prüfung von Eingriffen
   in Kernbereiche (Strict Scrutiny) staerkt die Forderung nach hoher
   Kontrolldichte.
 - Categorical balancing (z B inhaltsbasierte vs inhaltsneutrale Eingriffe
-  in Rede) bietet Differenzierungsfolie fuer Art 5 GG.
+  in Rede) bietet Differenzierungsfolie für Art 5 GG.
 - Skepsis gegenueber Substantive Due Process (Dobbs) erinnert daran,
   dass ungeschriebene Grundrechte methodisch besonders begruendet
-  werden muessen; deutsches Pendant: Allgemeines Persoenlichkeitsrecht
+  werden müssen; deutsches Pendant: Allgemeines Persoenlichkeitsrecht
   Art 2 I iVm Art 1 I GG.
-- DeShaney und seine Grenzen koennen genutzt werden, um die deutsche
+- DeShaney und seine Grenzen können genutzt werden, um die deutsche
   Schutzpflichtdogmatik als Vorzug der eigenen Verfassungsordnung
   hervorzuheben.
 
 ## Live-Recherche-Disclaimer
 
-US-Supreme-Court-Entscheidungen vor Zitierung verifizieren ueber
+US-Supreme-Court-Entscheidungen vor Zitierung verifizieren über
 supremecourt.gov (Slip Opinions ab 2003) und Cornell Law School Legal
 Information Institute (law.cornell.edu/supremecourt/). Aktenzeichen
 nach US Reports Band-Seite (Jahr) und Slip Opinion bis offizielle
-Veroeffentlichung pruefen.
+Veroeffentlichung prüfen.

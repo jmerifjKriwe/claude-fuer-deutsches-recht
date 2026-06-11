@@ -47,7 +47,7 @@ Mit dem Kosten- und Betreuungsrechtsaenderungsgesetz 2025 (KostRAeG 2025) sind z
 - § 9 JVEG i.V.m. Anlage 1 (Sachverstaendigen-Stundensaetze, KostRAeG 2025)
 
 ## Rechtsprechung
-- Aktuelle Rechtsprechung zu § 5 JVEG vor Ausgabe ueber https://dejure.org pruefen.
+- Aktuelle Rechtsprechung zu § 5 JVEG vor Ausgabe über https://dejure.org prüfen.
 - BGH-Linie Sachverstaendigenverguetung: Senat für Anwaltssachen sowie I., VII., IV. Zivilsenat zuständig je nach Sachgebiet; Aktenzeichen vor Uebernahme verifizieren.
 
 ## Startet bei

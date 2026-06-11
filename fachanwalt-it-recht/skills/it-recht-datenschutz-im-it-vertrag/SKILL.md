@@ -3,7 +3,7 @@ name: it-recht-datenschutz-im-it-vertrag
 description: "Datenschutzklauseln im IT-Vertrag pruefen und gestalten: Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten R..."
 ---
 
-# Datenschutzklauseln im IT-Vertrag pruefen und gestalten
+# Datenschutzklauseln im IT-Vertrag prüfen und gestalten
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Datenschutzklauseln im IT-Vertrag pruefen und gestalten: Schnittst
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbeiter gemeinsam Verantwortlicher Subverarbeiter Datenstandort. AVV Art. 28 DSGVO Joint Controllership Art. 26 DSGVO Drittlandstransfer Art. 44 ff DSGVO. Schritt-für-Schritt für Vertragspruefung. Mustertexte für Klauseln. Abgrenzung: kein reiner AVV (avv-pruefung) keine SaaS-Spezialklauseln (it-recht-saas-avv-und-tia-bundle).
+**Fokus:** Datenschutzklauseln im IT-Vertrag prüfen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbeiter gemeinsam Verantwortlicher Subverarbeiter Datenstandort. AVV Art. 28 DSGVO Joint Controllership Art. 26 DSGVO Drittlandstransfer Art. 44 ff DSGVO. Schritt-für-Schritt für Vertragspruefung. Mustertexte für Klauseln. Abgrenzung: kein reiner AVV (avv-prüfung) keine SaaS-Spezialklauseln (it-recht-saas-avv-und-tia-bundle).
 
 ### IT-Recht — Datenschutz im IT-Vertrag
 
@@ -52,10 +52,10 @@ Sieben-Fragen-Diagnose:
 
 ## Mandantenfuehrung Schritt-für-Schritt
 
-1. **Zuerst: Rollenpruefung.** Ist der IT-Dienstleister Auftragsverarbeiter oder Verantwortlicher? Sehr haeufig nicht durch Vertragsbezeichnung, sondern durch faktische Zwecksetzung bestimmt. Wer entscheidet ueber Zweck und Mittel?
-2. **Als zweites: AVV oder Joint Controller Vereinbarung?** Vertraege ohne Datenschutzanhang gibt es im IT-Bereich praktisch nie rechtmaessig.
-3. **Als drittes: Mindestinhalte Art. 28 III pruefen** (Gegenstand, Dauer, Art, Zweck, Datenkategorien, Betroffenenkategorien, Rechte und Pflichten Verantwortlicher).
-4. **Als viertes: Drittlandstransfer pruefen.** Standort Server? Subdienstleister in USA, Indien? Schrems II Anforderungen TIA.
+1. **Zuerst: Rollenpruefung.** Ist der IT-Dienstleister Auftragsverarbeiter oder Verantwortlicher? Sehr haeufig nicht durch Vertragsbezeichnung, sondern durch faktische Zwecksetzung bestimmt. Wer entscheidet über Zweck und Mittel?
+2. **Als zweites: AVV oder Joint Controller Vereinbarung?** Verträge ohne Datenschutzanhang gibt es im IT-Bereich praktisch nie rechtmaessig.
+3. **Als drittes: Mindestinhalte Art. 28 III prüfen** (Gegenstand, Dauer, Art, Zweck, Datenkategorien, Betroffenenkategorien, Rechte und Pflichten Verantwortlicher).
+4. **Als viertes: Drittlandstransfer prüfen.** Standort Server? Subdienstleister in USA, Indien? Schrems II Anforderungen TIA.
 5. **Als fuenftes: Subverarbeiter-Klausel.** Generelle Genehmigung mit Widerspruchsrecht (Art. 28 II Satz 2).
 6. **Als sechstes: Loeschung Rueckgabe.** Was passiert mit Daten nach Vertragsende?
 7. **NICHT** AVV einfach vom IT-Dienstleister einseitig akzeptieren ohne Vergleich mit Mandantenanforderungen.
@@ -68,7 +68,7 @@ Sieben-Fragen-Diagnose:
 | Wartung mit Zugriff Mandantendaten | AVV Art. 28 | weisungsgebunden |
 | Newsletter-Versand mit eigenem Tracking | Joint Controller Art. 26 | gemeinsame Zwecke |
 | Cloud mit eigener Auswertung Telemetrie | Joint Controller oder zwei Verantwortliche | KI-Modell vom Anbieter trainiert |
-| Bezahlsoftware mit Telemetrie ohne Auswertung | AVV moeglich | Telemetrie nur für Funktion |
+| Bezahlsoftware mit Telemetrie ohne Auswertung | AVV möglich | Telemetrie nur für Funktion |
 | US-Anbieter direkt | EU-SCC + TIA + ggf. DPF | Schrems II Compliance |
 
 ## Mustertexte
@@ -79,11 +79,11 @@ Sieben-Fragen-Diagnose:
 
 ### Klausel "Subverarbeiter"
 
-> Der Auftragnehmer kann Subverarbeiter mit allgemeiner Genehmigung des Auftraggebers einsetzen. Eine aktuelle Liste der Subverarbeiter wird unter [URL] gefuehrt. Der Auftragnehmer informiert den Auftraggeber ueber beabsichtigte Aenderungen mit einer Frist von [30 Tagen]. Der Auftraggeber kann der Aenderung mit datenschutzrechtlicher Begruendung widersprechen; in diesem Fall sind die Parteien zur Verhandlung verpflichtet, und der Auftraggeber kann den Vertrag bei Nichteinigung mit angemessener Frist aus wichtigem Grund kuendigen.
+> Der Auftragnehmer kann Subverarbeiter mit allgemeiner Genehmigung des Auftraggebers einsetzen. Eine aktuelle Liste der Subverarbeiter wird unter [URL] gefuehrt. Der Auftragnehmer informiert den Auftraggeber über beabsichtigte Aenderungen mit einer Frist von [30 Tagen]. Der Auftraggeber kann der Aenderung mit datenschutzrechtlicher Begruendung widersprechen; in diesem Fall sind die Parteien zur Verhandlung verpflichtet, und der Auftraggeber kann den Vertrag bei Nichteinigung mit angemessener Frist aus wichtigem Grund kuendigen.
 
 ### Klausel "Drittlandstransfer"
 
-> Personenbezogene Daten werden grundsaetzlich in der Europaeischen Union verarbeitet. Soweit eine Verarbeitung in einem Drittland erforderlich ist, schliessen die Parteien zusaetzlich die Standardvertragsklauseln 2021/914 (Modul [2 oder 3] je nach Rolle) ab. Eine Transfer Impact Assessment liegt vor und wird mindestens jaehrlich aktualisiert.
+> Personenbezogene Daten werden grundsätzlich in der Europaeischen Union verarbeitet. Soweit eine Verarbeitung in einem Drittland erforderlich ist, schliessen die Parteien zusaetzlich die Standardvertragsklauseln 2021/914 (Modul [2 oder 3] je nach Rolle) ab. Eine Transfer Impact Assessment liegt vor und wird mindestens jaehrlich aktualisiert.
 
 ### Klausel "Datenrueckgabe und Loeschung"
 

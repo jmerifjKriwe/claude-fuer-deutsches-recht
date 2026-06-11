@@ -149,7 +149,7 @@ empfehlungen:
 
 ## Triage — Sanierungsbaustein-Auswahl
 
-1. **Zeitbedarf?** Patronatserklaerung/Rangruecktritt: 1-2 Tage. StaRUG-Plan: 4-8 Wochen. Kapitalerhöhung: 4-12 Wochen.
+1. **Zeitbedarf?** Patronatserklaerung/Rangrücktritt: 1-2 Tage. StaRUG-Plan: 4-8 Wochen. Kapitalerhöhung: 4-12 Wochen.
 2. **Glaeubiger-Einbindung noetig?** Stundungsanfragen, Verzichte — Zustimmung einholen.
-3. **Steuerliche Wirkung?** Sanierungserloes § 3a EStG: Voraussetzungen pruefen; Steuerberater einbinden.
-4. **Gesamtkonzept?** Alle Bausteine zusammen muessen eine positive Prognose tragen (IDW S 11 Konformitaet).
+3. **Steuerliche Wirkung?** Sanierungserloes § 3a EStG: Voraussetzungen prüfen; Steuerberater einbinden.
+4. **Gesamtkonzept?** Alle Bausteine zusammen müssen eine positive Prognose tragen (IDW S 11 Konformitaet).

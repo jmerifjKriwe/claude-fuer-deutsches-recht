@@ -3,7 +3,7 @@ name: rentenauskunft-und-versicherungsverlauf-pruefen
 description: "Rentenauskunft und Versicherungsverlauf pruefen: Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersre..."
 ---
 
-# Rentenauskunft und Versicherungsverlauf pruefen
+# Rentenauskunft und Versicherungsverlauf prüfen
 
 
 ## Arbeitsweg
@@ -14,9 +14,9 @@ description: "Rentenauskunft und Versicherungsverlauf pruefen: Skill erklaert wi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster.
+**Fokus:** Rentenauskunft und Versicherungsverlauf prüfen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken prüfen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster.
 
-### Rentenauskunft Und Versicherungsverlauf Pruefen
+### Rentenauskunft Und Versicherungsverlauf Prüfen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rentenauskunft Und Versicherungsverlauf Pruefen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
@@ -66,8 +66,8 @@ description: "Rentenauskunft und Versicherungsverlauf pruefen: Skill erklaert wi
 
 ## Wichtig
 
-- Vor Rentenantrag Konto klaeren — Beitraege zaehlen!
-- Bei Witwenrente Verlauf des Verstorbenen pruefen.
+- Vor Rentenantrag Konto klären — Beitraege zaehlen!
+- Bei Witwenrente Verlauf des Verstorbenen prüfen.
 
 ## Pruefraster
 

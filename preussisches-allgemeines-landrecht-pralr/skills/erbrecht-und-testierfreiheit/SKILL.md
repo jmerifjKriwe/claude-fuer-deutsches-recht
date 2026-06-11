@@ -26,7 +26,7 @@ description: "PrALR: Erbrecht, Testierfreiheit, Familienbindung, Pflichtteile un
 
 ### Schluesselparagraphen
 - **ALR I 12 §§ 1-100**: Allgemeines Erbrecht; Anfall der Erbschaft mit dem Tod (delatio); Anspruch auf "ungetheilte Erbschaft".
-- **ALR I 12 §§ 200-300**: Testament; oeffentlich (vor Gericht) oder privatschriftlich mit Zeugen.
+- **ALR I 12 §§ 200-300**: Testament; öffentlich (vor Gericht) oder privatschriftlich mit Zeugen.
 - **ALR I 12 §§ 380-440**: Pflichtteilsrecht — kasuistisch nach Verwandtschaftsgrad gestaffelt.
 - **ALR I 17**: Intestaterbfolge; sechs Parentelen-Modell wie im Roemisch-rechtlichen Anschluss.
 - **ALR II 4**: Familienfideikommiss — Adelsgut mit Unteilbarkeit ("Hausgut"); abgeschafft 1919/1938.
@@ -37,10 +37,10 @@ ALR-Loesung: Pflichtteilsrecht ALR I 12 §§ 380 ff. — Pflichtteil 1/3 des Int
 
 ### Subsumtionsbeispiel: Fideikommiss-Streit
 Sachverhalt: Adelsfamilie; Stammgut mit Fideikommiss aus 1750.
-ALR-Loesung: Bis 1919/1938 ALR II 4 — Stammgut unteilbar; geht an aeltesten Sohn (Primogenitur); juengere Geschwister erhalten Abfindung. Nach Auflösung der Fideikommisse: Vermoegen wird Sondervermoegen, fortgesetzt mit Ablösung.
+ALR-Loesung: Bis 1919/1938 ALR II 4 — Stammgut unteilbar; geht an aeltesten Sohn (Primogenitur); juengere Geschwister erhalten Abfindung. Nach Auflösung der Fideikommisse: Vermögen wird Sondervermoegen, fortgesetzt mit Ablösung.
 
 ### Heutige Fortwirkung
 - BGB §§ 1922 ff. ueberlagern ALR-Erbrecht ab 01.01.1900.
 - Pflichtteil heute 1/2 des Intestaterbteils (§ 2303 BGB).
-- Fideikommisse: Aufloesungsgesetz 26.01.1938 / Kontrollratsgesetz Nr. 45 Berlin — heute keine neuen Fideikommisse moeglich.
+- Fideikommisse: Aufloesungsgesetz 26.01.1938 / Kontrollratsgesetz Nr. 45 Berlin — heute keine neuen Fideikommisse möglich.
 - ALR-Erbfaelle vor 1900 noch heute relevant für Stammbaum- und Eigentumsstreitigkeiten an alten Gueteen.

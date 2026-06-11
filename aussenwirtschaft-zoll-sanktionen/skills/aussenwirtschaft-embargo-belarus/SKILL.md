@@ -17,20 +17,20 @@ description: "EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/
 
 - Exporteur liefert Industriegueter nach Belarus; Frage ob VO 765/2006-Verbote greifen.
 - Bank erhaelt Zahlungsauftrag von belarussischem Staatsunternehmen; Listenscreening.
-- Unternehmen fragt, ob Lieferung ueber Zwischenhaendler in Belarus als Russland-Embargo-Umgehung gilt.
+- Unternehmen fragt, ob Lieferung über Zwischenhaendler in Belarus als Russland-Embargo-Umgehung gilt.
 
 ## Erste Schritte
 
-1. EU-Sanktionsliste Belarus (VO 765/2006) und Finanzsanktionsliste pruefen.
-2. Guetersanktionen-Katalog (Anhang VO 765/2006 und Ergaenzungsverordnungen) gegenueber KN-Code pruefen.
+1. EU-Sanktionsliste Belarus (VO 765/2006) und Finanzsanktionsliste prüfen.
+2. Guetersanktionen-Katalog (Anhang VO 765/2006 und Ergaenzungsverordnungen) gegenueber KN-Code prüfen.
 3. Russland-Embargo-Umgehungsrisiko: Doppelcheck ob Gueter via Belarus nach Russland umgeleitet werden (Art. 12 VO 833/2014).
-4. Dienstleistungsverbote (IT, Beratung, PR) für belarussische Staatsunternehmen pruefen.
-5. Zahlungsrouting ueber belarussische Banken auf Sanktionsliste pruefen.
-6. Stop-Ship bei Unsicherheit bis vollstaendige Pruefung.
+4. Dienstleistungsverbote (IT, Beratung, PR) für belarussische Staatsunternehmen prüfen.
+5. Zahlungsrouting über belarussische Banken auf Sanktionsliste prüfen.
+6. Stop-Ship bei Unsicherheit bis vollstaendige Prüfung.
 
 ## Rechtsrahmen
 
-- **VO (EU) 765/2006**: Restriktive Massnahmen gegen Belarus.
+- **VO (EU) 765/2006**: Restriktive Maßnahmen gegen Belarus.
 - **VO (EU) 2022/576 Art. 7 ff.**: Erweiterter Sanktionsrahmen und Gueterliste.
 - **Art. 12 VO (EU) 833/2014**: Russland-Umgehungsverbot auch via Belarus.
 - **AWG § 18**: Strafbarkeit bei Embargo-Verstoss.
@@ -42,12 +42,12 @@ description: "EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/
 - [ ] Gueterkategorie und Anhang-Verbote geprueft?
 - [ ] Russland-Umgehungsrisiko explizit ausgeschlossen?
 - [ ] Dienstleistungsverbot für Staatsunternehmen geprueft?
-- [ ] Zahlungsrouting ueber sanktionierten Kanal geprueft?
+- [ ] Zahlungsrouting über sanktionierten Kanal geprueft?
 - [ ] Stop-Ship bei Risiko ausgeloest?
 
 ## Typische Fallstricke
 
-- Belarus-Embargo und Russland-Embargo sind separate Rechtsregime; beide muessen geprueeft werden.
+- Belarus-Embargo und Russland-Embargo sind separate Rechtsregime; beide müssen geprueeft werden.
 - Staatliche Kontrollbeteiligung in belarussischen Unternehmen loest Sanktionsrisiko auch ohne Listung aus.
 - Umgehung kann strafbar sein auch ohne Listentreffer der Gegenpartei.
 - Dienstleistungsverbote gelten auch für Unterauftragsverhaeltnisse.

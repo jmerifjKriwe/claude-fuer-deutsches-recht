@@ -7,7 +7,7 @@ description: "Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Uebe
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Triage Notaufnahme Vergaberecht Krankenhaus** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Krankenhausrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Triage Notaufnahme Vergaberecht Krankenhaus** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Krankenhausrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -33,7 +33,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Triage System MTS, Emergency Severity Index ESI) priorisieren. Bei Ueberlastung und Knappheit (Intensivbetten, Beatmungsgeraete) bestehen ethisch-rechtliche Vorgaben (BVerfG-Beschluss zur Triage 2021/2022; § 5c IfSG nach Pandemienovelle).
+Notaufnahmen müssen Patienten anhand validierter Triagesysteme (Manchester Triage System MTS, Emergency Severity Index ESI) priorisieren. Bei Ueberlastung und Knappheit (Intensivbetten, Beatmungsgeraete) bestehen ethisch-rechtliche Vorgaben (BVerfG-Beschluss zur Triage 2021/2022; § 5c IfSG nach Pandemienovelle).
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Triage-Lage (Routine, Massenanfall, Ressourcenknappheit)?
@@ -79,7 +79,7 @@ Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Tria
 > Eingangsdatum/-zeit: …, Patient: …, Triage-System: MTS, Kategorie: rot/orange/gelb/gruen/blau, Vitalparameter (RR, HF, AF, SpO2, Schmerzen NRS): …, Triagierende Person (Quali, Schulung): …, Nachsicht/Re-Triage: ja/nein.
 
 **Vorfallmemo Triagefehler:**
-> Vorfall vom [Datum], Patient [ID], Kategorie [vergeben], tatsaechliche Schwere: …, Folge: …, Ursachenanalyse: …, Massnahmen: Schulung, Audit, Eskalationspfad.
+> Vorfall vom [Datum], Patient [ID], Kategorie [vergeben], tatsaechliche Schwere: …, Folge: …, Ursachenanalyse: …, Maßnahmen: Schulung, Audit, Eskalationspfad.
 
 ## Typische Fehler
 - Triage durch ungeschultes Personal.

@@ -94,7 +94,7 @@ Sobald die Handlung erfolgt:
 Wer mehrere Sachen hat:
 
 - Wochentlich kurz drueberlesen
-- Pruefen, was naechste Woche faellig wird
+- Prüfen, was naechste Woche faellig wird
 - Falls Stress: priorisieren
 
 ### Schritt 7 — Bei Krankheit / Urlaub Vertretung
@@ -103,7 +103,7 @@ Wer mehrere Sachen hat:
 - Vollmacht hinterlegen (formlos)
 - Beim Sozialverband Bescheid geben
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sofort eintragen**: nicht warten.
 - **Mit Vorfrist arbeiten**: nicht erst am letzten Tag denken.

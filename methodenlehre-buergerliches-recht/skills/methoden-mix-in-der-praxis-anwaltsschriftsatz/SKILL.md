@@ -20,7 +20,7 @@ Die Spannung "Larenz (strukturierter Wertungs-Kanon) vs. BGH-Pragmatik" ist nich
 ## Wann brauchen Sie diese Skill?
 
 - Sie schreiben einen Schriftsatz und wollen die Methoden bewusst kombinieren.
-- Sie pruefen, welche Methode in Ihrer konkreten Fallkonstellation das staerkste Argument liefert.
+- Sie prüfen, welche Methode in Ihrer konkreten Fallkonstellation das staerkste Argument liefert.
 - Sie analysieren einen gegnerischen Schriftsatz und wollen seine methodischen Schwaechen identifizieren.
 - Sie schulen Junior-Anwaelte darin, wie ein Schriftsatz mehr ist als Subsumtion.
 - Sie wollen die "BGH-Realitaet" der Methodenanwendung verstehen.
@@ -63,7 +63,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 - In offener Rechtslage, wenn Wortlaut, System und Historie nicht eindeutig sind.
 - Wenn das Wertungsergebnis im Vordergrund steht.
 - Bei Schutzzwecknormen (§ 823 Abs. 2 BGB), Generalklauseln (§§ 138, 242, 826 BGB) und im Verbraucherrecht.
-- In der grossen Mehrheit der BGH-Begruendungen — Telos ist meist Hauptkanon.
+- In der großen Mehrheit der BGH-Begruendungen — Telos ist meist Hauptkanon.
 
 **Verfassungskonform / unionsrechtskonform traegt:**
 
@@ -145,10 +145,10 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 
 ## Typische Fehler / Kritik
 
-- **Nur eine Methode.** Der Schriftsatz, der nur Telos argumentiert, hat keine Stabilitaet. Wortlaut, System, Historie und Querschnitt muessen mitlaufen.
+- **Nur eine Methode.** Der Schriftsatz, der nur Telos argumentiert, hat keine Stabilitaet. Wortlaut, System, Historie und Querschnitt müssen mitlaufen.
 - **Methoden ohne Wertung.** Wer die Methoden mechanisch durchgeht, ohne die dahinterliegende Wertung sichtbar zu machen, ueberzeugt nicht.
 - **Wortlaut-Grenze ignorieren.** Wer in der Auslegung den moeglichen Wortsinn sprengt, ohne Rechtsfortbildung sauber zu kennzeichnen, riskiert die Wertung als unzulaessige Rechtsetzung.
-- **Verfassung und Unionsrecht uebersehen.** In jedem zivilrechtlichen Schriftsatz mit Grundrechts- oder Richtlinienbezug muessen die Querschnittskanones bedacht werden.
+- **Verfassung und Unionsrecht uebersehen.** In jedem zivilrechtlichen Schriftsatz mit Grundrechts- oder Richtlinienbezug müssen die Querschnittskanones bedacht werden.
 - **Kein Gegenargument.** Der Schriftsatz, der die gegnerische Position nicht vorwegnimmt, wirkt einseitig.
 
 ## Quellen und Stand 05/2026

@@ -43,8 +43,8 @@ description: "Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2
 
 Konsolidierte Fassung VO 833/2014: https://eur-lex.europa.eu/eli/reg/2014/833
 16. Paket (VO (EU) 2025/395 vom 24.02.2025): https://eur-lex.europa.eu/eli/reg/2025/395/oj — u. a. Aluminium-Importverbot, Erweiterung Schattenflotte-Liste (Anhang XLII), neue Sorgfaltspflichten Art. 12gb VO 833/2014 ab 26.05.2025 für Anhang XLVIII.
-17. Paket (Beschluss des Rates vom 20.05.2025): https://www.consilium.europa.eu/en/press/press-releases/2025/05/20/russia-s-war-of-aggression-against-ukraine-eu-agrees-17th-package-of-sanctions/ — ca. 189 zusaetzliche Schattenflotte-Schiffe; ueber 45 weitere Eintraege militaerischer Versorger; Listungsumfang VO 269/2014 nun ueber 2.400 Eintraege.
-Chronologische Uebersicht GTAI: https://www.gtai.de/de/trade/eu/zoll/chronologische-uebersicht-ueber-eu-sanktionen-gegenueber-russland-817424
+17. Paket (Beschluss des Rates vom 20.05.2025): https://www.consilium.europa.eu/en/press/press-releases/2025/05/20/russia-s-war-of-aggression-against-ukraine-eu-agrees-17th-package-of-sanctions/ — ca. 189 zusaetzliche Schattenflotte-Schiffe; über 45 weitere Eintraege militaerischer Versorger; Listungsumfang VO 269/2014 nun über 2.400 Eintraege.
+Chronologische Übersicht GTAI: https://www.gtai.de/de/trade/eu/zoll/chronologische-uebersicht-ueber-eu-sanktionen-gegenueber-russland-817424
 
 ### Deutsches Umsetzungsrecht
 
@@ -78,13 +78,13 @@ Chronologische Uebersicht GTAI: https://www.gtai.de/de/trade/eu/zoll/chronologis
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Embargo-Pruefung Russland-Geschaeft | Sanktions-Compliance-Gutachten; Template unten |
-| Variante A — Bestehendes Geschaeft muss abgewickelt werden | Winddown-Beratung; Genehmigungsantrag BAFA pruefen |
-| Variante B — Dual-Use-Produkt betroffen | Ausfuhrgenehmigung pruefen (AWG / EG-Dual-Use-VO); Customs-Compliance einbinden |
+| Standard — Embargo-Prüfung Russland-Geschäft | Sanktions-Compliance-Gutachten; Template unten |
+| Variante A — Bestehendes Geschäft muss abgewickelt werden | Winddown-Beratung; Genehmigungsantrag BAFA prüfen |
+| Variante B — Dual-Use-Produkt betroffen | Ausfuhrgenehmigung prüfen (AWG / EG-Dual-Use-VO); Customs-Compliance einbinden |
 | Variante C — Sanktionsverstoss bereits eingetreten | Voluntary Self-Disclosure; Strafbarkeitsrisiko § 18 AWG einschaetzen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -167,7 +167,7 @@ Mit freundlichen Gruessen
 [Kreditinstitut / Unternehmen]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -230,23 +230,23 @@ Mit freundlichen Gruessen
 ## Quellen
 
 - VO (EU) 833/2014 in der aktuell geltenden Fassung; konsolidiert: https://eur-lex.europa.eu/eli/reg/2014/833 — zuletzt geandert durch 16. Paket (VO (EU) 2025/395 v. 24.02.2025) und 17. Paket (20.05.2025).
-- VO (EU) 269/2014 in der aktuell geltenden Fassung: https://eur-lex.europa.eu/eli/reg/2014/269 — ueber 2.400 Listungen (Stand 05/2025 nach 17. Paket).
+- VO (EU) 269/2014 in der aktuell geltenden Fassung: https://eur-lex.europa.eu/eli/reg/2014/269 — über 2.400 Listungen (Stand 05/2025 nach 17. Paket).
 - AWG: https://www.gesetze-im-internet.de/awg_2013/ ; AWV: https://www.gesetze-im-internet.de/awv_2013/
 - GwG §§ 43, 11: https://www.gesetze-im-internet.de/gwg_2017/
 - BAFA-Russland-Hinweise: https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Embargos/Russland/russland.html
 - EU-Sanctions Map: https://www.sanctionsmap.eu/
 - GTAI Chronologie: https://www.gtai.de/de/trade/eu/zoll/chronologische-uebersicht-ueber-eu-sanktionen-gegenueber-russland-817424
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertiefung: Aktuelle Rechtsprechung und Leitsaetze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Normen-Kette Embargo-Pruefung
+## Normen-Kette Embargo-Prüfung
 
 - **VO (EU) 833/2014** Art. 2a–5k, Art. 12g — Sektor- und Dienstleistungsverbote, Re-Export-Pflichten
 - **VO (EU) 269/2014** Art. 2–4 — Personensanktionen, Asset-Freeze, Bereitstellungsverbot
-- **§ 7 AWG** — Verbote bei eingefrorenen Vermoegen; § 18 AWG — Straftatbestand Embargoverstoß
+- **§ 7 AWG** — Verbote bei eingefrorenen Vermögen; § 18 AWG — Straftatbestand Embargoverstoß
 - **§ 43 GwG** — Verdachtsmeldepflicht an FIU bei Sanktionstreffer
 - **§ 134 BGB** — Nichtigkeit des Rechtsgeschaefts bei Verstoß gegen gesetzliches Verbot
 - **§ 31 OWiG** — Verjährung der Verbandsgeldbuße; § 78 Abs. 3 Nr. 4 StGB — Strafverfolgungsverjährung 5 Jahre

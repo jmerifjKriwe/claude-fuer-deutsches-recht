@@ -176,7 +176,7 @@ nerin gem. § 364 BGB durch Konfusion.
 
 ### Rechtsprechung (verifiziert)
 
-- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt (relevant für Abgrenzung DES vs. Verzicht vs. Rangruecktritt).
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangrücktritt (relevant für Abgrenzung DES vs. Verzicht vs. Rangrücktritt).
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen der Passivierung; wirtschaftliche Belastung.
 - **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580** — kein § 42 AO bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum.
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12) — Liquidations-Kernentscheidung.

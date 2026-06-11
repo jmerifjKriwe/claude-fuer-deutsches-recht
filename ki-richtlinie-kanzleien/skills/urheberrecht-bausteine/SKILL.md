@@ -7,7 +7,7 @@ description: "Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzlei
 
 ## Arbeitsbereich
 
-Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Prüfraster kein Urheberrechtsschutz für reine KI-Outputs, Upload-Verbote urheberrechtlich geschützter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden dürfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Prüfraster kein Urheberrechtsschutz für reine KI-Outputs, Upload-Verbote urheberrechtlich geschützter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -52,7 +52,7 @@ Das Urheberrecht im Bereich KI entwickelt sich rasch weiter — insbesondere dur
 
 ## Triage zu Beginn
 1. Wer hat das Urheberrecht an KI-generierten Texten — Anwalt, KI-Anbieter, oder niemand?
-2. Werden urheberrechtlich geschuetzte Werke als Trainingsdaten verwendet — § 44b UrhG pruefen?
+2. Werden urheberrechtlich geschuetzte Werke als Trainingsdaten verwendet — § 44b UrhG prüfen?
 3. Hat der Anbieter einen Text-und-Data-Mining-Opt-out erklaert (Art. 4 DSM-RL)?
 4. Werden KI-Outputs an Mandanten uebermittelt — wer haftet bei Urheberrechtsverletzung?
 5. Sind Fotos oder Bilder Teil der KI-Nutzung — gilt § 72 UrhG oder KI-Bildrecht-Luecke?

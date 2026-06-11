@@ -26,12 +26,12 @@ description: "BtMG-Qualifikation § 29a BtMG: nicht geringe Menge: Verbrechen mi
 
 § 29a BtMG ist die zentrale Qualifikation des BtMG. Er macht den Grundtatbestand des § 29 BtMG zum Verbrechen, sobald sich die Tat auf eine nicht geringe Menge bezieht. Strafrahmen: Freiheitsstrafe von einem Jahr bis fuenfzehn Jahre (Verbrechen, § 12 Abs. 1 StGB). In minder schweren Faellen (§ 29a Abs. 2 BtMG): Freiheitsstrafe drei Monate bis fuenf Jahre.
 
-Praxis-Schluessel: Welche Wirkstoffmenge des reinen Wirkstoffs liegt vor? Wirkstoffmenge, nicht Bruttogewicht.
+Praxis-Schlüssel: Welche Wirkstoffmenge des reinen Wirkstoffs liegt vor? Wirkstoffmenge, nicht Bruttogewicht.
 
 ## Tatbestand und Stoffliche Erfassung
 
 **§ 29a Abs. 1 BtMG erfasst:**
-- Nr. 1: Wer als Person ueber einundzwanzig Jahre an Person unter achtzehn Jahren abgibt, verabreicht, ueberlaesst (Schutzaltersgrenze)
+- Nr. 1: Wer als Person über einundzwanzig Jahre an Person unter achtzehn Jahren abgibt, verabreicht, ueberlaesst (Schutzaltersgrenze)
 - Nr. 2: Wer mit Betaeubungsmitteln in nicht geringer Menge unerlaubt Handel treibt, sie in nicht geringer Menge herstellt, abgibt, besitzt oder einfuehrt
 
 **Wirkstoffmenge als Bezugsgroesse:** Massgeblich ist der Wirkstoffanteil des "reinen" Stoffs, nicht die zubereitete Konsumform. BGH-Linie: Bruttogewicht multipliziert mit Wirkstoffgehalt (Reinheit in Prozent) ergibt die nicht geringe Menge.
@@ -54,15 +54,15 @@ Faustregeln des BGH (mit aktueller BGH-Linie verifizieren — die Schwellenwerte
 
 **Berechnungsformel:** Bruttogewicht (g) x Wirkstoffgehalt (%) = Wirkstoffmenge (g).
 
-Beispiel: 50 g Kokain mit 70 Prozent Wirkstoffgehalt = 35 g KHC. Damit deutlich ueber 5 g KHC, nicht geringe Menge erfuellt.
+Beispiel: 50 g Kokain mit 70 Prozent Wirkstoffgehalt = 35 g KHC. Damit deutlich über 5 g KHC, nicht geringe Menge erfuellt.
 
 ## Praktikertipps der Verteidigung
 
 - **Wirkstoffanalyse anfechten:** Probenzeitpunkt, Lagerung (Temperatur, Feuchtigkeit), akkreditiertes Labor (DIN EN ISO/IEC 17025)? Eichschein der Waage? Zweitprobe sichern.
 - **Mischmengen:** Bei Mischungen muss jeder Bestandteil separat ermittelt werden. Streckmittel sind nicht zu addieren.
-- **Mehrere Pakete:** Bei mehreren Paketen Einzelmengen pruefen. Beziehbarer Vorsatz auf Gesamtmenge?
+- **Mehrere Pakete:** Bei mehreren Paketen Einzelmengen prüfen. Beziehbarer Vorsatz auf Gesamtmenge?
 - **Vorsatzproblem:** Mandant kann sich auf Unkenntnis der genauen Wirkstoffmenge berufen, wenn z.B. die Reinheit untypisch hoch war. Massgeblich ist dolus eventualis.
-- **Minder schwerer Fall § 29a Abs. 2 BtMG:** Gestaendnis, Erstaeter, geringe ueber-die-Grenze-Menge, geringe kriminelle Energie, eigene Sucht — Mindeststrafe sinkt auf drei Monate, Bewaehrung wieder moeglich.
+- **Minder schwerer Fall § 29a Abs. 2 BtMG:** Gestaendnis, Erstaeter, geringe über-die-Grenze-Menge, geringe kriminelle Energie, eigene Sucht — Mindeststrafe sinkt auf drei Monate, Bewaehrung wieder möglich.
 - **§ 31 BtMG:** Aufklaerungshilfe kann zur Strafrahmenverschiebung nach § 49 StGB fuehren (Detail-Skill `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge`).
 
 ## Trade-off-Matrix
@@ -79,15 +79,15 @@ Beispiel: 50 g Kokain mit 70 Prozent Wirkstoffgehalt = 35 g KHC. Damit deutlich 
 - § 29 BtMG zu § 29a BtMG: Spezialitaet, § 29a verdraengt.
 - § 29a BtMG zu § 30 BtMG: § 30 als weitere Qualifikation (banden-, waffenmaessig) geht vor.
 - § 29a BtMG zu § 30a BtMG: § 30a Verbrechen mit fuenf Jahren Mindeststrafe geht vor.
-- Versuch der nicht geringen Menge: strafbar, Mindeststrafe drei Monate (§ 23 Abs. 2, § 49 Abs. 1 StGB ueber § 29a Abs. 2 BtMG).
+- Versuch der nicht geringen Menge: strafbar, Mindeststrafe drei Monate (§ 23 Abs. 2, § 49 Abs. 1 StGB über § 29a Abs. 2 BtMG).
 
 ## Strafzumessung und Therapie statt Strafe
 
 - Strafrahmen: ein bis fuenfzehn Jahre Freiheitsstrafe (Verbrechen).
 - Minder schwerer Fall § 29a Abs. 2: drei Monate bis fuenf Jahre.
-- Strafmildernd: erstmaliger Verstoss, knapp ueber der Schwelle, kein Gewinn, eigene Sucht, gestaendige Einlassung, Aufklaerungshilfe (§ 31 BtMG).
+- Strafmildernd: erstmaliger Verstoss, knapp über der Schwelle, kein Gewinn, eigene Sucht, gestaendige Einlassung, Aufklaerungshilfe (§ 31 BtMG).
 - Strafschaerfend: vielfache nicht geringe Menge, gewerbsmaessig, Vorstrafen einschlaegig, Verkauf an Minderjaehrige.
-- § 35 BtMG (Therapie statt Strafe): bei Reststrafe bis zwei Jahre, Abhaengigkeit, Therapieplatz. Wichtig: Bewaehrungsfaehigkeit (§ 56 StGB) bei Freiheitsstrafe ueber zwei Jahre ausgeschlossen.
+- § 35 BtMG (Therapie statt Strafe): bei Reststrafe bis zwei Jahre, Abhaengigkeit, Therapieplatz. Wichtig: Bewaehrungsfaehigkeit (§ 56 StGB) bei Freiheitsstrafe über zwei Jahre ausgeschlossen.
 
 ## Mustertexte
 

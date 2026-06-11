@@ -7,7 +7,7 @@ description: "Dokumentenintake für Prozessrecht (ZPO/VwGO/StPO/SGG): sortiert K
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Prozessrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Prozessrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -28,7 +28,7 @@ Dieser Dokumenten-Intake für **Prozessrecht** ordnet Anlagen, Registerdaten, Ko
 - `amtlicher-zpo-proz-bauleiter-eilverfahren` — Amtlicher ZPO Proz Bauleiter Eilverfahren
 - `anspruchstabelle-beweislast` — Anspruchstabelle Beweislast
 - `anspruchstabelle-gegenseite-interessen` — Anspruchstabelle Gegenseite Interessen
-- `anwaltsgeheimnis-pruefung` — Anwaltsgeheimnis Pruefung
+- `anwaltsgeheimnis-pruefung` — Anwaltsgeheimnis Prüfung
 - `argumentationsverbesserung-red-team` — Argumentationsverbesserung RED Team
 - `beweissicherung-einstweilige-verfuegung` — Beweissicherung Einstweilige Verfuegung
 - `chronologie` — Chronologie

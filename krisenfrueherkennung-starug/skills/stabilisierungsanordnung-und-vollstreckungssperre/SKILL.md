@@ -229,7 +229,7 @@ Mit freundlichen Grüßen
 
 ---
 <!-- AUDIT 27.05.2026 | Bundle 036
-Rechtsprechung live pruefen: Thema und Fundstelle nur mit freier/amtlicher Quelle dokumentieren.
-Rechtsprechung live pruefen: Falsche Themenzuordnung ohne verifizierte Quelle nicht ausgeben.
+Rechtsprechung live prüfen: Thema und Fundstelle nur mit freier/amtlicher Quelle dokumentieren.
+Rechtsprechung live prüfen: Falsche Themenzuordnung ohne verifizierte Quelle nicht ausgeben.
 Kein echter StaRUG-Bezug. Aktion: Eintrag geloescht.
 -->

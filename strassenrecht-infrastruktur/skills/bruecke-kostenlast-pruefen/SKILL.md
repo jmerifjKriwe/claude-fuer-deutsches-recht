@@ -3,7 +3,7 @@ name: bruecke-kostenlast-pruefen
 description: "Brücke: Kostenlast prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Bruecke Kostenlast Pruefen
+# Bruecke Kostenlast Prüfen
 
 ## Arbeitsweg
 

@@ -33,18 +33,18 @@ Behörden setzen Fristen oder lassen Fristen entstehen (Rechtsbehelf, Aeusserung
 ## / Schritt für Schritt
 1. **Dokument datieren:** Bescheiddatum, Datum Posteingang/Zustellung.
 2. **Zugang ermitteln:** Bei einfachem Brief Zugangsfiktion 3 Werktage nach Absendung (§ 41 Abs. 2 VwVfG). Bei Zustellung: tatsaechlicher Tag der Zustellung.
-3. **Rechtsbehelfsbelehrung pruefen:** Vorhanden? Inhaltlich korrekt (Form, Frist, Behörde/Gericht)? Bei Fehlern Jahresfrist § 58 Abs. 2 VwGO.
+3. **Rechtsbehelfsbelehrung prüfen:** Vorhanden? Inhaltlich korrekt (Form, Frist, Behörde/Gericht)? Bei Fehlern Jahresfrist § 58 Abs. 2 VwGO.
 4. **Fristlauf berechnen:** Monatsfrist beginnt mit dem Tag nach Zugang (§ 187 BGB); Ende mit Ablauf des entsprechenden Tages im Folgemonat (§ 188 BGB). Faellt der Ablauftag auf Sa/So/Feiertag, verschiebt sich auf naechsten Werktag (§ 31 Abs. 3 VwVfG).
 5. **Sofortmassnahmen:** Fristwahrenden Widerspruch/Klage formulieren, Begruendung kann nachgereicht werden.
 6. **Wiedereinsetzungspruefung** bei abgelaufener Frist: unverschuldetes Versaeumnis, Antrag binnen 2 Wochen ab Wegfall des Hindernisses.
 
 ## Trade-off-Matrix
 
-| Lage | Massnahme | Effekt |
+| Lage | Maßnahme | Effekt |
 |---|---|---|
 | Frist klar, 1 Monat | Widerspruch/Klage einlegen | Erhalt Rechtsbehelf |
 | Rechtsbehelfsbelehrung fehlt/fehlerhaft | Jahresfrist nutzen, aber zuegig handeln | rechtssicher |
-| Frist abgelaufen | Wiedereinsetzung pruefen | unsicher, oft scheitert |
+| Frist abgelaufen | Wiedereinsetzung prüfen | unsicher, oft scheitert |
 | Anhörungsfrist | Stellungnahme einreichen | Bescheid abwenden |
 | Zustellungsfrage offen | Beweissicherung Postfach/Briefkasten | Beweisproblem |
 
@@ -63,13 +63,13 @@ Behörden setzen Fristen oder lassen Fristen entstehen (Rechtsbehelf, Aeusserung
 > Bescheiddatum 03.06.2026, abgesendet 03.06., Zugang fiktiv 06.06.2026 (3 Werktage). Monatsfrist beginnt 07.06.2026. Fristablauf 06.07.2026 (Mo). Letzter Tag für Widerspruch: 06.07.2026 24:00 Uhr.
 
 **Wiedereinsetzungsantrag:**
-> Hilfsweise wird Wiedereinsetzung in den vorigen Stand gemaess § 60 VwGO beantragt. Begruendung: …. Wir versichern an Eides Statt, dass …. Antrag binnen 2 Wochen ab Wegfall des Hindernisses.
+> Hilfsweise wird Wiedereinsetzung in den vorigen Stand gemäß § 60 VwGO beantragt. Begruendung: …. Wir versichern an Eides Statt, dass …. Antrag binnen 2 Wochen ab Wegfall des Hindernisses.
 
 ## Typische Fehler
 - Bescheiddatum mit Zugang gleichsetzen.
-- Drei-Tages-Fiktion ueber Wochenende falsch berechnet.
+- Drei-Tages-Fiktion über Wochenende falsch berechnet.
 - Rechtsbehelfsbelehrung nicht gepruegt (Fehler → 1-Jahresfrist).
-- Widerspruch bei Behörde eingereicht, die nicht zuständig ist (zur Niederschrift bei jeder Behörde moeglich, aber Zuständigkeitsweiterleitung sicherer).
+- Widerspruch bei Behörde eingereicht, die nicht zuständig ist (zur Niederschrift bei jeder Behörde möglich, aber Zuständigkeitsweiterleitung sicherer).
 - Nachts vor Mitternacht eingeworfen, ohne Zeugen — Beweisproblem.
 
 ## Quellen Stand 06/2026

@@ -31,7 +31,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 
 | Instrument | Wirkung | Typische Frist |
 |---|---|---|
-| Evaluierungsklausel | Nach Frist Bericht ueber Wirksamkeit | 3-5 Jahre |
+| Evaluierungsklausel | Nach Frist Bericht über Wirksamkeit | 3-5 Jahre |
 | Befristung | Gesetz laeuft aus, soweit nicht verlaengert | 5-10 Jahre |
 | Sunset | Gesetz tritt automatisch ausser Kraft, ohne Verlaengerung neu | 5 Jahre |
 
@@ -40,14 +40,14 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 ### Wann Evaluierungsklausel
 
 - Standardfall bei wesentlichem Erfuellungsaufwand
-- Wenn Indikatoren spaeter messbar sind
+- Wenn Indikatoren später messbar sind
 - Wenn ressortseitiges Evaluierungsinteresse besteht
 
 ### Wann Befristung
 
 - Wenn Geltungsbereich politisch zeitlich begrenzt (z.B. Krisenrecht)
 - Bei Pilotcharakter
-- Bei hoher Unsicherheit ueber Wirksamkeit
+- Bei hoher Unsicherheit über Wirksamkeit
 
 ### Wann Sunset
 
@@ -66,7 +66,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
 - Keine Evaluierungsklausel bei wesentlichem Vorhaben
-- Klausel ohne Indikatoren ("wird evaluiert, sobald moeglich")
+- Klausel ohne Indikatoren ("wird evaluiert, sobald möglich")
 - Klausel mit unrealistisch kurzer / langer Frist
 - Keine Befristung bei Pilotvorhaben
 
@@ -90,7 +90,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 
 > *§ [Paragraph] Evaluierung*
 >
-> *(1) Das Bundesministerium [Federfuehrer] berichtet dem Bundestag bis zum [TT.MM.JJJJ] ueber die Anwendung und Wirksamkeit dieses Gesetzes. Der Bericht enthaelt insbesondere Aussagen zu*
+> *(1) Das Bundesministerium [Federfuehrer] berichtet dem Bundestag bis zum [TT.MM.JJJJ] über die Anwendung und Wirksamkeit dieses Gesetzes. Der Bericht enthaelt insbesondere Aussagen zu*
 > *1. der tatsaechlichen Fallzahl der nach diesem Gesetz Verpflichteten,*
 > *2. dem tatsaechlichen Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung,*
 > *3. der Zielereichung im Sinne von [Konkretisierung],*
@@ -117,4 +117,4 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - Handbuch der Rechtsfoermlichkeit Teil C
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

@@ -23,7 +23,7 @@ Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule,
 2. **Wer ist Mandant?** — Gemeinde (Pflichten), Eltern (Schadensersatz), Schule (Organisationspflicht), Kind/Eltern nach Unfall?
 3. **Amtshaftung?** — War Gefahrenstelle bekannt? Wurde Pflicht zur Sicherung verletzt?
 4. **Zuständigkeiten?** — Strassenverkehrsbehoerde (§ 45 StVO), Schule (Schulbehorde), Gemeinde (Strassenlasttrager).
-5. **Eilt?** — Bei bekannter akuter Gefahrenstelle: Unterlassungsantrag oder Eilantrag moeglich.
+5. **Eilt?** — Bei bekannter akuter Gefahrenstelle: Unterlassungsantrag oder Eilantrag möglich.
 
 ## Zentrale Normen
 

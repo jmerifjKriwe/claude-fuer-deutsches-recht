@@ -15,17 +15,17 @@ description: "Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse v
 
 ## Spezialwissen
 
-Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geworden: Sie ermöglichen die flaechendeckende Dokumentation grosser Baustellen in wenigen Stunden, decken Maengel auf, die vom Boden aus unsichtbar sind, und liefern massstabstreue Orthofotos für As-Built-Dokumentation und Aufmass. Dieser Skill beschreibt den vollstaendigen von der Flugplanung bis zur SAP-PM-Meldungserstellung.
+Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geworden: Sie ermöglichen die flaechendeckende Dokumentation großer Baustellen in wenigen Stunden, decken Maengel auf, die vom Boden aus unsichtbar sind, und liefern massstabstreue Orthofotos für As-Built-Dokumentation und Aufmass. Dieser Skill beschreibt den vollstaendigen von der Flugplanung bis zur SAP-PM-Meldungserstellung.
 
 ## Bauwerk und Auftrag
 
-- Windpark Neubau Nordsee-Kuestenanlagen: 12 WEA, Fundamentbetonage Orthofotos, Setzungsmonitoring, 18 Befliegungen ueber 14 Monate, Auftraggeber Energiekonzern
+- Windpark Neubau Nordsee-Kuestenanlagen: 12 WEA, Fundamentbetonage Orthofotos, Setzungsmonitoring, 18 Befliegungen über 14 Monate, Auftraggeber Energiekonzern
 - Hochhaus-Rohbau Frankfurt 24 Geschosse: Monatliche Orthofoto-Befliegung für Baufortschritts-Dokumentation und Aufmass-Abgleich, Bausumme 42 Mio. EUR
 - Klaeranlage Neubau Bielefeld: Thermografie-Befliegung Dichtheitskontrolle Beckenwand nach Erstbefuellung, Hotspot-Auswertung
 
 ## Erste Schritte zur Befliegung
 
-1. Flugplanung und Genehmigung: NOTAM-Pruefung airspace.droniq.de, Luftraum-Klasse C oder D bedarf Genehmigung LBA, BVLOS-Betrieb Sondergenehmigung, Koordination mit Bauleiter
+1. Flugplanung und Genehmigung: NOTAM-Prüfung airspace.droniq.de, Luftraum-Klasse C oder D bedarf Genehmigung LBA, BVLOS-Betrieb Sondergenehmigung, Koordination mit Bauleiter
 2. Kalibrierung Drohne: IMU-Kalibrierung DJI Mavic 3 Enterprise vor Erstflug, RTK-Basisstation Leica GS18 aufstellen und kalibrieren, GCP-Punkte Ground Control Points einmessen Tachymeter EPSG 25832
 3. Flugmission planen: DJI Pilot 2 App, Ueberlappung Frontal 80 Prozent, Seitlich 70 Prozent, Flughoehe 80-120 m, GSD 2 cm/px für Risserkennung
 4. Flug durchfuehren: Kontinuierliche Sichtverbindung, Sicherheitsabstand Personen 30 m, Dokumentation Fluganfang und Ende, Wetterbedingungen Wind kleiner 10 m/s
@@ -64,18 +64,18 @@ Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geword
 - PlanRadar Drohnen-Layer: Orthofoto als Hintergrundkarte hochgeladen, Meldungen automatisch GPS-verortet auf Orthofoto
 - BIM360 RFI-Prozess: Drohnenfoto als Anhang an RFI-Formular, Soll-Ist-Vergleich mit IFC-Modell-Screenshot, Empfaenger AN-Bauleiter
 - SAP PS Aufmass-Import: Volumenberechnung Pix4D als CSV, Import Mengen in Vorgaenge Netzplan, Abgleich Aufmassrechnung
-- Workflow: Drohnenbefliegung, Orthofoto Pix4D, Auswertung, PlanRadar-Meldung, Bauleiter informiert, AN-Stellungnahme T+3, Massnahme, Nachbefliegung
+- Workflow: Drohnenbefliegung, Orthofoto Pix4D, Auswertung, PlanRadar-Meldung, Bauleiter informiert, AN-Stellungnahme T+3, Maßnahme, Nachbefliegung
 
 ## Typische Fallstricke
 
-- Flug ohne NOTAM-Pruefung: Luftraumverletzung bussgeldbewehrt bis 50.000 EUR nach LuftVO § 21h
+- Flug ohne NOTAM-Prüfung: Luftraumverletzung bussgeldbewehrt bis 50.000 EUR nach LuftVO § 21h
 - GCP-Messung ungeprueft: Schlechte GCP-Residuen liefern fehlerhaftes Orthofoto, Soll-Ist-Abweichungen verfaelscht
 - Wetterbedingung Wind zu stark: DJI Mavic 3 bei Wind groesser 10 m/s unzuverlaessig, Fotos verwackelt, Orthofoto-Qualitaet ungenügend
 - Thermografie-Emissionsgrad falsch: Beton-Emissionsgrad 0.9 statt Metall 0.3, Temperaturanzeige komplett falsch, Fehlinterpretation
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

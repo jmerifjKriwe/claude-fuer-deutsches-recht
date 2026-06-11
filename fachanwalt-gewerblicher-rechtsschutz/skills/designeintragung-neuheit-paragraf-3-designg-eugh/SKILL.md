@@ -32,7 +32,7 @@ Wettbewerber zeigt vor Anmeldung Design auf Messe; Eintragung loeschen?
 
 ## Arbeitsergebnis
 
-Schonfrist 12 Monate; aber nur fuer Anmelder selbst.
+Schonfrist 12 Monate; aber nur für Anmelder selbst.
 
 ## Belege und Aktenlücken
 

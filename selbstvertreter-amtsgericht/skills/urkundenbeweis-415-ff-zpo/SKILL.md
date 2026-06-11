@@ -27,7 +27,7 @@ Urkunden sind das **staerkste** Beweismittel im Zivilprozess. Eine schriftliche 
 
 - **§ 415 ZPO** — Oeffentliche Urkunde, voller Beweis.
 - **§ 416 ZPO** — Private Urkunde, voller Beweis für Erklaerung des Ausstellers.
-- **§ 418 ZPO** — Oeffentliche Urkunden ueber sonstige Vorgaenge.
+- **§ 418 ZPO** — Oeffentliche Urkunden über sonstige Vorgaenge.
 - **§ 419 ZPO** — Aenderungen, Durchstreichungen.
 - **§ 421 ZPO** — Antrag auf Urkundenvorlage.
 - **§ 142 ZPO** — Anordnung der Urkundenvorlage.
@@ -53,7 +53,7 @@ Sortieren Sie:
 
 In der Klage / Klageerwiderung als **Anlage** beifuegen.
 
-Bei Streit ueber Echtheit: **Original** vorlegen. Bewahren Sie Originale also auf.
+Bei Streit über Echtheit: **Original** vorlegen. Bewahren Sie Originale also auf.
 
 ### Schritt 4 — Bezeichnung im Schriftsatz
 
@@ -69,11 +69,11 @@ unterschrieben von Klaeger und Beklagtem).
 Wenn Beklagter sagt, die Unterschrift sei nicht echt, kann:
 
 - Schriftsachverstaendiger eingeschaltet werden.
-- § 440 ZPO Beweisaufnahme ueber Echtheit.
+- § 440 ZPO Beweisaufnahme über Echtheit.
 
 ### Schritt 6 — Urkunden der Gegenseite
 
-Sie koennen Antrag auf **Urkundenvorlage** stellen (§ 421 ZPO bei Zivilurkunden, § 142 ZPO Anordnungs-Antrag), wenn die Gegenseite Urkunden hat, die Sie brauchen.
+Sie können Antrag auf **Urkundenvorlage** stellen (§ 421 ZPO bei Zivilurkunden, § 142 ZPO Anordnungs-Antrag), wenn die Gegenseite Urkunden hat, die Sie brauchen.
 
 Voraussetzung: Sie haben Anspruch auf Vorlage (z. B. aus Vertrag) oder die Urkunde war gemeinsam erstellt.
 
@@ -109,7 +109,7 @@ Chats werden als private Urkunde / elektronisches Dokument bewertet. Beweis-Wert
 
 Originale aufbewahren — auch nach Klageeinreichung. Im Termin kann das Gericht Original sehen wollen. Auch in der Berufung relevant.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Original aufbewahren**: Bei Bestreiten Pflicht.
 - **Email-Authentizitaet** kann bestritten werden — Header sichern.
@@ -120,7 +120,7 @@ Originale aufbewahren — auch nach Klageeinreichung. Im Termin kann das Gericht
 
 - "Kopie reicht." → Original sicher aufbewahren.
 - "Screenshot WhatsApp ist Top-Beweis." → Authentizitaet kann bestritten werden.
-- "Vertrag muendlich, Email reicht." → Email kann Urkunde sein, aber pruefen.
+- "Vertrag muendlich, Email reicht." → Email kann Urkunde sein, aber prüfen.
 
 ## Quellen und Aktualitaet
 

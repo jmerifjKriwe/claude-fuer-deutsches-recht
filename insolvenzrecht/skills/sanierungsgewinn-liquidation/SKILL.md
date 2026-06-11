@@ -25,10 +25,10 @@ description: "Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfo
 
 Der Mandant hat im Krisenfall meist die Wahl zwischen Plan-Sanierung und Liquidation. Steuerlich sind das zwei sehr unterschiedliche Welten:
 
-- **Plan-Sanierung:** Forderungsverzicht moeglich, Sanierungsertrag, Paragraph 3a EStG-Antrag, Unternehmensfortfuehrung.
-- **Liquidation:** Verwertung der Aktiva, Auskehrung an Glaeubiger nach Quote, Restverbindlichkeiten bleiben (bei juristischer Person) zivilrechtlich bestehen, ueber Loeschung im Handelsregister hinaus (BFH, Urteil vom 26.02.2003 — II R 19/01).
+- **Plan-Sanierung:** Forderungsverzicht möglich, Sanierungsertrag, Paragraph 3a EStG-Antrag, Unternehmensfortfuehrung.
+- **Liquidation:** Verwertung der Aktiva, Auskehrung an Glaeubiger nach Quote, Restverbindlichkeiten bleiben (bei juristischer Person) zivilrechtlich bestehen, über Loeschung im Handelsregister hinaus (BFH, Urteil vom 26.02.2003 — II R 19/01).
 
-Die Liquidation produziert **keinen Sanierungsertrag**, weil keine Verbindlichkeit erlassen wird. Wenn die GmbH spaeter Vermoegen erhaelt oder ein Glaeubiger sich noch meldet, leben Verbindlichkeiten wieder auf. Eine Verlautbarung der OFD Frankfurt a. M. stellt zudem klar: der Liquidationsbeschluss allein ist nicht als konkludenter Forderungsverzicht zu deuten. Adressat: Beratungs-Anwalt der Geschaeftsleitung, IV, StB.
+Die Liquidation produziert **keinen Sanierungsertrag**, weil keine Verbindlichkeit erlassen wird. Wenn die GmbH später Vermögen erhaelt oder ein Glaeubiger sich noch meldet, leben Verbindlichkeiten wieder auf. Eine Verlautbarung der OFD Frankfurt a. M. stellt zudem klar: der Liquidationsbeschluss allein ist nicht als konkludenter Forderungsverzicht zu deuten. Adressat: Beratungs-Anwalt der Geschaeftsleitung, IV, StB.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -53,7 +53,7 @@ Kaltstart-Fragen:
 - Paragraph 16 EStG — Veraeusserungs-/Aufgabegewinn.
 - Paragraph 3a EStG — Sanierungsertrag (Negativ-Abgrenzung).
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
-- OFD Frankfurt a. M.: Liquidationsbeschluss allein ist kein konkludenter Forderungsverzicht (Verlautbarung der OFD — Az/Datum vom Anwender mit aktueller OFD-Veroeffentlichung zu pruefen).
+- OFD Frankfurt a. M.: Liquidationsbeschluss allein ist kein konkludenter Forderungsverzicht (Verlautbarung der OFD — Az/Datum vom Anwender mit aktueller OFD-Veroeffentlichung zu prüfen).
 
 ## / Schritt für Schritt
 
@@ -70,13 +70,13 @@ Kaltstart-Fragen:
 |---|---|---|
 | Forderungsverzicht | typisch | nein |
 | Sanierungsertrag | ja, Paragraph 3a EStG | nein |
-| Stille Reserven | Buchwertfortfuehrung moeglich | Aufdeckung |
+| Stille Reserven | Buchwertfortfuehrung möglich | Aufdeckung |
 | Verlustvortrag | nach Paragraph 3a Absatz 3 EStG ggf. verbraucht | abbaubar im Liquidationszeitraum Paragraph 11 KStG |
 | Unternehmen fortgefuehrt | ja | nein |
 | Restverbindlichkeiten | nach Plan-Bestaetigung erlischt nicht-Plan-Verzichts-Teil ggf. weiter passiviert | bei juristischer Person bleiben bestehen (BFH II R 19/01) |
 | Erloeschen der juristischen Person | nein | mit Loeschung im Handelsregister, aber Verbindlichkeiten bleiben |
 | Bei spaeterer Vermoegenslosigkeit | irrelevant | Verbindlichkeiten erloeschen erst bei expliziter Verzichtserklaerung oder Eintritt der Verjährung |
-| Steueraufwand | Paragraph 3a EStG-Pruefung | Veraeusserungsgewinne + Liquidations-Phase |
+| Steueraufwand | Paragraph 3a EStG-Prüfung | Veraeusserungsgewinne + Liquidations-Phase |
 | Geschwindigkeit | mehrere Monate Plan-Verfahren | je nach Verwertung |
 | Kosten | typisch hoeher | typisch niedriger |
 | Sanierungsbeduerftigkeit-Dokumentation | erforderlich | nicht |
@@ -85,9 +85,9 @@ Kaltstart-Fragen:
 
 | Konstellation | Plan | Liquidation |
 |---|---|---|
-| Hohe Verlustvortraege, geringe stille Reserven | Paragraph 3a Absatz 3 EStG verbraucht Vortraege | Vortraege koennen Aufgabegewinn verrechnen |
+| Hohe Verlustvortraege, geringe stille Reserven | Paragraph 3a Absatz 3 EStG verbraucht Vortraege | Vortraege können Aufgabegewinn verrechnen |
 | Geringe Verlustvortraege, hohe stille Reserven | Restsanierungsertrag muss durch Paragraph 3a Absatz 1 EStG getragen werden; stille Reserven bleiben | Aufdeckung der stillen Reserven ergibt Aufgabegewinn ohne Verrechnung |
-| Hohe stille Reserven + hohe Verlustvortraege | Plan tendenziell vorteilhaft | Liquidation moeglich, aber Vortraege werden anders verrechnet |
+| Hohe stille Reserven + hohe Verlustvortraege | Plan tendenziell vorteilhaft | Liquidation möglich, aber Vortraege werden anders verrechnet |
 | Sanierungspotenzial des Unternehmens hoch | Plan | nicht zielfuehrend |
 | Sanierungspotenzial gering | Plan kann scheitern | Liquidation realistisch |
 
@@ -174,5 +174,5 @@ Liquidation herleiten will, hat schlechte Karten.
 - Paragraph 16 EStG.
 - Paragraph 3a EStG.
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
-- OFD Frankfurt a. M.: Liquidationsbeschluss allein ist kein konkludenter Verzicht (Verlautbarung der OFD — Aktenzeichen/Datum vom Anwender mit aktueller OFD-Veroeffentlichung zu pruefen).
+- OFD Frankfurt a. M.: Liquidationsbeschluss allein ist kein konkludenter Verzicht (Verlautbarung der OFD — Aktenzeichen/Datum vom Anwender mit aktueller OFD-Veroeffentlichung zu prüfen).
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

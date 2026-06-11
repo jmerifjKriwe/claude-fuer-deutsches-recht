@@ -129,7 +129,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. **Zielobjekt klaren:** Wirtschaftsguetern, Anteile, Teilbetrieb, Holding-Beteiligung — massgeblich für Strukturentscheidung
 2. **Strukturmatrix erstellen:** Share Deal vs. Asset Deal vs. Umwandlung — je: Steuer, Haftung, Form, Genehmigungen, Timing, Kosten
-3. **Carve-out pruefen:** Ist Zielgesellschaft bereits separat? Muss Ausgliederung (§§ 311 UmwG) oder internes Reorganisationsschritt vorgelagert werden?
+3. **Carve-out prüfen:** Ist Zielgesellschaft bereits separat? Muss Ausgliederung (§§ 311 UmwG) oder internes Reorganisationsschritt vorgelagert werden?
 4. **Change-of-Control-Klauseln kartieren:** SPA-Garantien, Material Adverse Change-Klausel, Lender-Consent, Lizenzvertraege — bei Asset Deal: Einzeluebertragungszustimmungen
 5. **§ 613a BGB-Analyse:** Asset Deal immer: Arbeitnehmeruebergang, Informationspflicht, Widerspruchsfrist (1 Monat)
 6. **Steuerstruktur mit Steuerteam abstimmen:** Verlustvortraege (§ 8c KStG), Einbringung (§§ 20-24 UmwStG), Grunderwerbsteuer-Ergaenzungstatbestand (§ 1 Abs. 2a, 2b GrEStG)
@@ -140,7 +140,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Zielgesellschaft ist GmbH → Share Deal → § 15 Abs. 3 GmbHG Notarpflicht → ohne Notar: nichtig
 - Asset Deal → § 613a BGB → Betriebsuebergang Arbeitnehmer? → Informationspflicht zwingend
-- Verlustvortraege vorhanden → § 8c KStG-Risiko bei mehr als 50 % Erwerb pruefen → Gestaltung durch mehrere Tranchen oder Earn-out?
+- Verlustvortraege vorhanden → § 8c KStG-Risiko bei mehr als 50 % Erwerb prüfen → Gestaltung durch mehrere Tranchen oder Earn-out?
 - Carve-out erforderlich → Ausgliederung §§ 311 UmwG → notarielle Beurkundung und HR-Anmeldung → Mindest-Vorlaufzeit: 3-6 Monate
 
 ## Output-Template: Strukturmatrix
@@ -215,4 +215,4 @@ Offene Punkte: [TODO Owner Datum]
 
 - Share Deal vs. Asset Deal Wahl an Steuer-, Haftungs- und Genehmigungsfolgen, nicht am LMA-Standard ausrichten.
 - W&I-Versicherung nach BGH II ZR 109/13 ergaenzt, ersetzt aber keine Garantien.
-- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing pruefen, sonst § 41 GWB-Vollzugsverbot.
+- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing prüfen, sonst § 41 GWB-Vollzugsverbot.

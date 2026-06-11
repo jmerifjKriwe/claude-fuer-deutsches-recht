@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Krankenhausneubauten und Rein
 ## Spezialwissen
 
 Krankenhausbauten erfordern besondere hygienische Anforderungen an Lueftungsanlagen, Oberflaechen und Medienversorgung.
-Die Bauueberwachung nach HOAI LPH 8 prueft Reinraum-Klassen nach DIN 1946-4, Hygiene-Estrich und OP-Lampen-Anschluesse.
+Die Bauueberwachung nach HOAI LPH 8 prüft Reinraum-Klassen nach DIN 1946-4, Hygiene-Estrich und OP-Lampen-Anschluesse.
 Strahlenschutz-Raeume (Roentgen, MRT) erfordern Blei-Abschirmung nach StrlSchV mit spezifischen Pruefprotokollen.
 
 ## Bauwerk und Auftrag
@@ -29,9 +29,9 @@ Strahlenschutz-Raeume (Roentgen, MRT) erfordern Blei-Abschirmung nach StrlSchV m
 
 1. Reinraum-Abnahmepruefung nach DIN 1946-4: Luftkeimzahl, Schwebstoffpartikel nach ISO 14644-1
 2. Lueftungsanlage OP: Ueberdruck 20 Pa, Luftwechselzahl min. 20 h-1, HEPA H14 Filter nach DIN EN 1822
-3. Hygiene-Estrich und Wandbeschichtung: Fugenloses Nahtlosstystem, Keimaufnahme-Pruefung nach DIN EN ISO 846
+3. Hygiene-Estrich und Wandbeschichtung: Fugenloses Nahtlosstystem, Keimaufnahme-Prüfung nach DIN EN ISO 846
 4. Medizinische Gase: Druckluft 4 bar, Sauerstoff 4 bar, Vakuum 500 mbar, Druckpruefung je Leitungsabschnitt
-5. Roentgen-Strahlenschutz: Bleiglasdicke, Bleischuerzenbreite, Pruefung Baulastbescheinigung StrlSchV
+5. Roentgen-Strahlenschutz: Bleiglasdicke, Bleischuerzenbreite, Prüfung Baulastbescheinigung StrlSchV
 6. MRT-Abschirmung: Faraday-Kaefig-Test, HF-Abschirmung 80 dB, Erdung Abschirmgehaeuse
 
 ## Normen und Rechtsrahmen
@@ -40,7 +40,7 @@ Strahlenschutz-Raeume (Roentgen, MRT) erfordern Blei-Abschirmung nach StrlSchV m
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
 - DIN 1946-4 Lueftungstechnische Anlagen in Gebaeuden: Raumlufttechnik in Krankenhaeusern
 - DIN EN ISO 14644-1 Reinraeume: Klassifizierung der Luftreinheit nach Partikelkonzentration
-- DIN 13260 Medizinische Gasversorgung: Planung, Ausfuehrung und Pruefung
+- DIN 13260 Medizinische Gasversorgung: Planung, Ausfuehrung und Prüfung
 - Strahlenschutzverordnung StrlSchV: Anforderungen an Strahlenraeume, Abschirmungsnachweis
 
 ## Prueferaster und Kontrollpunkte
@@ -73,7 +73,7 @@ Strahlenschutz-Raeume (Roentgen, MRT) erfordern Blei-Abschirmung nach StrlSchV m
 - Luftkeimzahl zu hoch: Reinraum-Klassifizierung nicht erfuellt, OP nicht freigegeben, Nacharbeiten
 - Medizingas-Kreuzverbindung: Sauerstoff und Druckluft vertauscht, lebensgefaehrlich, Abnahme verweigern
 - Bleiabschirmung zu gering: Strahlenschutzbehoerde verweigert Betriebsgenehmigung
-- HEPA-Filter falsch eingebaut: Bypass-Stroemung moeglich, Reinraumklasse nicht erreichbar
+- HEPA-Filter falsch eingebaut: Bypass-Stroemung möglich, Reinraumklasse nicht erreichbar
 
 ## Quellen
 

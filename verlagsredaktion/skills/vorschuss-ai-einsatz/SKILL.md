@@ -3,7 +3,7 @@ name: vorschuss-ai-einsatz
 description: "Vorschusspruefung für Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen im Verlagsredaktion."
 ---
 
-# Vorschuss pruefen
+# Vorschuss prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Vorschusspruefung für Buchprojekte: Bemessungsgrundlage, Auszahlu
 
 ## Worum geht es konkret
 
-Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Honorarvorschuss vereinbart - entweder als Anschubfinanzierung für die Schreibarbeit oder als Anreiz beim Wechsel des Verlagshauses. Der Skill fuehrt durch die kalkulatorische und vertragliche Pruefung: Wieviel ist marktueblich, wie wird ausgekehrt, wie verrechnet, was passiert bei Scheitern des Projekts?
+Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Honorarvorschuss vereinbart - entweder als Anschubfinanzierung für die Schreibarbeit oder als Anreiz beim Wechsel des Verlagshauses. Der Skill fuehrt durch die kalkulatorische und vertragliche Prüfung: Wieviel ist marktueblich, wie wird ausgekehrt, wie verrechnet, was passiert bei Scheitern des Projekts?
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -32,7 +32,7 @@ Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Hono
 - VerlG §§ 1, 14, 22 - Verlagsvertrag, Honorarpflicht, Faelligkeit.
 - VerlG § 33 - Folgen bei Nichtablieferung; Schadensersatz und Ruecktritt.
 - BGB §§ 280, 323, 346 - Schadensersatz, Ruecktritt, Rueckabwicklung.
-- UrhG § 32 - angemessene Verguetung; Vorschuss muss spaeter durch Tantieme oder Pauschalhonorar gerechtfertigt sein.
+- UrhG § 32 - angemessene Vergütung; Vorschuss muss später durch Tantieme oder Pauschalhonorar gerechtfertigt sein.
 - EStG § 11 - Zufluss-/Abflussprinzip; Vorschuss ist im Jahr des Zuflusses steuerlich erfasst (beim Autor).
 - KSVG - Vorschuesse loesen KSK-Abgabe aus, auch wenn das Werk noch nicht abgeliefert ist.
 
@@ -60,8 +60,8 @@ Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Hono
 
 - "Ein Vorschuss ist eine Versicherung gegen Autorwechsel, kein Geschenk."
 - Bei Lehrbuch mit Pruefungsbezug: Lebenszyklus 5 Jahre rechnen; danach Schwester- oder Anschlussbaende kalkulieren.
-- Bei Kommentar: Mindestens auf die Folgeauflage hin denken; Vorschuss erstreckt sich oft ueber zwei Auflagen.
-- Bei Wechselautor: Karenzklausel pruefen (kein Konkurrenzwerk bis [Datum]).
+- Bei Kommentar: Mindestens auf die Folgeauflage hin denken; Vorschuss erstreckt sich oft über zwei Auflagen.
+- Bei Wechselautor: Karenzklausel prüfen (kein Konkurrenzwerk bis [Datum]).
 - Bei abgesprungenem Autor: Rueckforderung schnell schriftlich verlangen; sonst Verjährungsgefahr nach 3 Jahren.
 - Niemals "stillschweigend abschreiben" - die Verlagsleitung will Klarheit in der Bilanz.
 
@@ -130,13 +130,13 @@ Mit freundlichen Gruessen
 - Keine Rueckforderungsklausel - Vorschuss faktisch verloren bei Scheitern.
 - KSK-Meldung vergessen - Nachzahlung mit Saeumniszuschlag.
 - Hoher Vorschuss bei Wechselautor ohne Karenzklausel.
-- Bei Mehrautoren Vorschuss undifferenziert - Streit ueber Anteil.
+- Bei Mehrautoren Vorschuss undifferenziert - Streit über Anteil.
 
 ## Quellen Stand 06/2026
 
 - VerlG §§ 1, 14, 22, 33 - Verlagsvertrag, Honorarpflicht, Folgen Nichtablieferung.
 - BGB §§ 280, 286, 323, 346, 812 - Schadensersatz, Verzug, Ruecktritt, Rueckabwicklung, Bereicherung.
-- UrhG § 32 - angemessene Verguetung.
-- UStG §§ 12, 13 - Steuersatz und Entstehung; bei Vorschuss Anzahlungsversteuerung pruefen.
+- UrhG § 32 - angemessene Vergütung.
+- UStG §§ 12, 13 - Steuersatz und Entstehung; bei Vorschuss Anzahlungsversteuerung prüfen.
 - KSVG - Abgabepflicht; aktuelle Saetze unter kuenstlersozialkasse.de.
 - EStG § 11 - Zufluss-/Abflussprinzip.

@@ -17,7 +17,7 @@ description: "Standardvorlagen für den Mandantenbrief der Kanzlei. Aufbau Anred
 1. Welcher Brieftyp wird benoetigt: Mandatseröffnung, Zwischenbericht, Beratungsergebnis, Abschlussbericht oder Schlussrechnung?
 2. Ist der Mandant Verbraucher (§ 13 BGB) oder Unternehmer (§ 14 BGB) — wegen Sprache und Belehrungspflichten?
 3. Muss eine Kostenbelehrung (§ 49b Abs. 5 BRAO) oder ein Datenschutzhinweis (Art. 13 DSGVO) beigefuegt werden?
-4. Soll das Schreiben postalisch, per E-Mail oder ueber beA versandt werden?
+4. Soll das Schreiben postalisch, per E-Mail oder über beA versandt werden?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

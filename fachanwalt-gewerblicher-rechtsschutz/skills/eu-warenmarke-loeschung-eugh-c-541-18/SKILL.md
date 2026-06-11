@@ -7,7 +7,7 @@ description: "EU Warenmarke Loeschung EuGH C 541 18: fachanwaltlicher Spezialski
 
 ## Einsatzlage
 
-Marke wurde fuer Klassen angemeldet die nicht genutzt wurden; Loeschung wegen Boesglaeubigkeit?
+Marke wurde für Klassen angemeldet die nicht genutzt wurden; Loeschung wegen Boesglaeubigkeit?
 
 ## Normenanker
 

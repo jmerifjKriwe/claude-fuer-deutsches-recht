@@ -19,7 +19,7 @@ Hauptverhandlung nach § 411 StPO bei Einspruch. Termin Vorbereitungspflichten. 
 
 ## Triage zu Beginn — Checkliste vor der HV
 
-1. **Erscheinungspflicht klaeren:** Mandant erscheinungspflichtig (§ 411 Abs. 2 StPO); Antrag auf Entbindung moeglich wenn Sachverhalt unstreitig und nur Rechtsfolgen streitig.
+1. **Erscheinungspflicht klären:** Mandant erscheinungspflichtig (§ 411 Abs. 2 StPO); Antrag auf Entbindung möglich wenn Sachverhalt unstreitig und nur Rechtsfolgen streitig.
 2. **Beweisantraege fertig?** — Jeder Beweisantrag braucht konkretes Beweisthema und bestimmtes Beweismittel (§ 244 Abs. 3 StPO).
 3. **Einlassung oder Schweigen?** — Abschluss-Entscheidung mit Mandant mindestens 1 Woche vorher treffen.
 4. **Sachverstaendiger notwendig?** — Technische Fragen (Messung), medizinische Fragen (BAK), Glaubwuerdigkeitsgutachten.
@@ -46,7 +46,7 @@ Hauptverhandlung nach § 411 StPO bei Einspruch. Termin Vorbereitungspflichten. 
 3. **Beweisantraege formulieren** — pro Antrag: Beweisthema + Beweismittel + Relevanz.
 4. **Plaedoyer vorbereiten** — Strafzumessungsargumente strukturieren: mildernde Umstaende, keine Vorstrafe, Schadenswiedergutmachung.
 5. **Befangenheitsantrag vorbereiten** — wenn Anzeichen für Voreingenommenheit des Richters.
-6. **Mandant ueber Ablauf der HV informieren** — Aufruf, Vernehmung, Beweisaufnahme, Plaedoyer, Letztes Wort.
+6. **Mandant über Ablauf der HV informieren** — Aufruf, Vernehmung, Beweisaufnahme, Plaedoyer, Letztes Wort.
 
 ## Entscheidungsbaum in der HV
 

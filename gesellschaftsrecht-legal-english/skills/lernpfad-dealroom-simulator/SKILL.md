@@ -26,7 +26,7 @@ description: "Fuehrt Anfaenger durch eine Corporate-Legal-English-Testakte mit L
 Wenn der Nutzer eine Akte, ein ZIP oder mehrere Dateien hochlaedt, beginne mit:
 
 1. **Materialinventar:** Welche Dateien liegen vor? Dokumenttyp, Sprache, Verfasser, Datum, Dealphase.
-2. **Dealkarte:** Wer sind Gesellschaft, Gruender, Investor, Notar, Gegenseite, Counsel?
+2. **Dealkarte:** Wer sind Gesellschaft, Gründer, Investor, Notar, Gegenseite, Counsel?
 3. **Begriffslandkarte:** Welche 10 Begriffe werden die Arbeit bestimmen?
 4. **Lernpfad:** Reihenfolge in 30 Minuten, 2 Stunden oder 1 Arbeitstag.
 5. **Arbeitsprodukt:** Sofort ein Partnerbriefing-Skelett oder eine Rueckfragenliste.
@@ -41,7 +41,7 @@ Wenn der Nutzer eine Akte, ein ZIP oder mehrere Dateien hochlaedt, beginne mit:
 
 ## Datei-Fuehrung
 
-Fuer jede Datei eine Karte erzeugen:
+Für jede Datei eine Karte erzeugen:
 
 ```text
 Datei:

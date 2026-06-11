@@ -23,7 +23,7 @@ Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fri
 
 1. **Fristlage:** Wann wurde der Strafbefehl zugestellt? Einspruchsfrist § 410 Abs. 1 StPO: 2 Wochen ab Zustellung. Ist die Frist noch offen oder abgelaufen?
  - Frist offen → Einspruch sofort einlegen, dann vertiefen
- - Frist abgelaufen → Wiedereinsetzung § 44 StPO pruefen
+ - Frist abgelaufen → Wiedereinsetzung § 44 StPO prüfen
 
 2. **Delikt und Sanktion:** Was wird vorgeworfen (§§ StGB/StVG/OWiG)? Welche Rechtsfolge ist angesetzt (Tagessaetze, Geldstrafe, Fahrverbot, Bewaehrungsstrafe)?
 
@@ -31,7 +31,7 @@ Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fri
 
 ## Ampel-Schnelldiagnose
 
-| Situation | Ampel | Massnahme |
+| Situation | Ampel | Maßnahme |
 |-----------|-------|-----------|
 | Frist laeuft in < 3 Tagen | ROT | Einspruch SOFORT, dann vertiefen |
 | Frist laeuft in 4-7 Tagen | GELB | Einspruch und Akteneinsicht parallel |
@@ -44,7 +44,7 @@ Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fri
 | Aufgabe | Subskill |
 |---------|---------|
 | Einspruchsfrist berechnen + einlegen | `strafbefehl-fristen-einspruch` |
-| Strafbefehl-Inhalt auf § 409 pruefen | `strafbefehl-inhalt-409-pruefung` |
+| Strafbefehl-Inhalt auf § 409 prüfen | `strafbefehl-inhalt-409-pruefung` |
 | Akteneinsicht anfordern | `strafbefehl-akteneinsicht-147` |
 | Beweis- und Einlassungsstrategie | `strafbefehl-beweis-und-einlassung` |
 | Beschraenkter Einspruch | `strafbefehl-einspruch-beschraenkung` |

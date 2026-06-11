@@ -24,7 +24,7 @@ description: "Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag: Skill kl
 
 ## Funktion beim Bautraegervertrag
 
-- Erwerber hat Anspruch auf Eigentumsuebertragung (Auflassung) — aber Eigentum geht erst nach Fertigstellung und vollstaendiger Zahlung ueber.
+- Erwerber hat Anspruch auf Eigentumsuebertragung (Auflassung) — aber Eigentum geht erst nach Fertigstellung und vollstaendiger Zahlung über.
 - Vormerkung sichert die Rangstellung.
 - Schutz vor Verfuegungen des Bautraegers an Dritte.
 

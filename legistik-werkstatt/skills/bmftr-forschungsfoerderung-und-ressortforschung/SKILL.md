@@ -57,7 +57,7 @@ Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; 
 
 Horizon Europe; ERC; EIC; AGVO.
 
-Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
+Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
 
 ## Typische Legistik-Aufgaben
 
@@ -65,11 +65,11 @@ Foerderbekanntmachung; Antragsbearbeitung; Auswahlverfahren; Erfolgskontrolle; V
 
 Schrittfolge für den Normgeber:
 
-1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
+1. Sachverhalt und Regelungsziel in diesem Sachfeld prüfen
 2. Vorhandene Normen kartieren; Lueckenanalyse
 3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet pruefen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit pruefen
+4. Verfassungs- und Europarechtskonformitaet prüfen
+5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit prüfen
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
@@ -77,7 +77,7 @@ Schrittfolge für den Normgeber:
 
 Doppelfoerderung; Auslegung des Forschungsbegriffs; Auswertung; IP-Rechte.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Anschluss an die Legistik-Kette
 

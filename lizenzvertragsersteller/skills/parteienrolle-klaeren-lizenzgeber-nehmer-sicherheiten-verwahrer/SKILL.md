@@ -3,19 +3,19 @@ name: parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer
 description: "Rollenmatrix fuer Lizenzvertraege: Lizenzgeber, Lizenznehmer, Sicherheitengeber, Sicherheitennehmer, Verwahrer (Source-Code-Escrow), Konzernlizenzen, Cross-License. Mit Klaerungs-Checkliste pro Rolle."
 ---
 
-# Parteienrollen klaeren
+# Parteienrollen klären
 
 ## Standardrollen
 
 | Rolle | Funktion | Typische Klausel |
 | --- | --- | --- |
 | Lizenzgeber (Licensor) | inhabt das IP, gewaehrt Nutzungsrechte | Lizenzgegenstand, Garantie Inhaberschaft, Verteidigungspflicht |
-| Lizenznehmer (Licensee) | nutzt das IP gegen Verguetung | Verguetung, Nutzungsumfang, Verbesserungsrechte |
+| Lizenznehmer (Licensee) | nutzt das IP gegen Vergütung | Vergütung, Nutzungsumfang, Verbesserungsrechte |
 | Sicherheitengeber | Lizenzgeber, der das IP zur Sicherheit verpfaendet/abtritt | Sicherungslizenz, Aufschiebende Bedingungen |
 | Sicherheitennehmer | Bank/Investor, der das IP als Sicherheit haelt | Realisierungsrechte, Verwertungs-Mandat |
 | Verwahrer (Escrow Agent) | hinterlegt Source Code / IP-Dokumentation | Hinterlegungsbedingungen, Release-Trigger |
 | Cross-Licensor | beidseitige Lizenzgewaehrung (Patentpool, Forschungspartnerschaft) | Gegenseitige Lizenz, Schiedsklausel |
-| Konzernlizenznehmer | Lizenz auch fuer Konzernunternehmen | Definition $ 15 AktG / $ 17 AktG, Schutzkette |
+| Konzernlizenznehmer | Lizenz auch für Konzernunternehmen | Definition $ 15 AktG / $ 17 AktG, Schutzkette |
 
 ## Klaerungs-Checkliste
 

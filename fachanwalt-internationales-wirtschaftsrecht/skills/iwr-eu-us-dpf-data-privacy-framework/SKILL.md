@@ -38,9 +38,9 @@ description: "EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenhe
 - **DSGVO Art. 46** — Geeignete Garantien (SCC, BCR) als Fallback
 - **EO 14086** US-Executive Order (07.10.2022) zur Begrenzung des US-Geheimdienst-Zugriffs
 - **Standard Contractual Clauses (SCC) 2021/914** (Durchfuehrungsbeschluss vom 04.06.2021): https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj
-- **EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II; ECLI:EU:C:2020:559)** — Privacy Shield für ungueltig erklaert; SCC bleiben gueltig, aber Empfaengerland-Pruefung erforderlich: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0311
-- Hinweis Stand 05/2026: Schrems III-Verfahren vor EuGH gegen den DPF-Angemessenheitsbeschluss anhaengig; aktuellen Stand pruefen, da Aufhebung Folgen für Datentransfers haette.
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II; ECLI:EU:C:2020:559)** — Privacy Shield für ungueltig erklaert; SCC bleiben gueltig, aber Empfaengerland-Prüfung erforderlich: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0311
+- Hinweis Stand 05/2026: Schrems III-Verfahren vor EuGH gegen den DPF-Angemessenheitsbeschluss anhaengig; aktuellen Stand prüfen, da Aufhebung Folgen für Datentransfers haette.
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertragsklauseln-Update
 
@@ -95,7 +95,7 @@ Stand: 05/2026. Angemessenheitsbeschluss (EU) 2023/1795 (10.7.2023). EO 14086. S
 
 ### Triage EU-US DPF
 Bevor losgelegt wird, klaere:
-1. Ist der US-Empfaenger unter DPF zertifiziert? → DPF-Liste pruefen: dataprivacyframework.gov
+1. Ist der US-Empfaenger unter DPF zertifiziert? → DPF-Liste prüfen: dataprivacyframework.gov
 2. Handelt es sich um Auftragsverarbeitung (Art. 28 DSGVO) oder gemeinsame Verantwortung?
 3. Werden besondere Datenkategorien (Art. 9 DSGVO) uebermittelt? → Erhöhte Anforderungen
 4. Bestehen Standardvertragsklauseln (SCC) als Fallback?

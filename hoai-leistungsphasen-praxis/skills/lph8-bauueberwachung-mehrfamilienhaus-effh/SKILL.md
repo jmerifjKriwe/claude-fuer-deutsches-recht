@@ -27,7 +27,7 @@ Der akkreditierte Energieeffizienz-Experte (EE-Experte) begleitet Ausfuehrung un
 
 ## Erste Schritte auf der Baustelle
 
-1. Planpruefung Energieausweis: U-Werte gemaess GEG-Nachweis, Waermebrueckenberechnung Rohbau-Anschlusspunkte
+1. Planpruefung Energieausweis: U-Werte gemäß GEG-Nachweis, Waermebrueckenberechnung Rohbau-Anschlusspunkte
 2. Rohbaukontrolle Stahlbeton: Betondeckung XC1/XC2, Konsistenz Frischbeton, Wuerfelproben je Betonageabschnitt
 3. WDVS-Unterkonstruktion: Klebeflaeche min. 40 Prozent, Duebelmuster, Stossversatz und Eckausfuehrung
 4. TGA-Koordination woechentlich: Baubesprechungsprotokoll, Konflikte Rohrleitungen vs. Deckenunterzuege

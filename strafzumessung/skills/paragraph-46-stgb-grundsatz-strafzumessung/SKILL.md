@@ -23,10 +23,10 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie bereiten einen Schlussvortrag oder ein Plaedoyer vor und muessen die Strafzumessungslogik aufbauen.
+- Sie bereiten einen Schlussvortrag oder ein Plaedoyer vor und müssen die Strafzumessungslogik aufbauen.
 - Sie schreiben eine Strafzumessungsruege im Revisionsverfahren und brauchen den Norm-Anker.
-- Sie verfassen ein Urteil und muessen die Strafzumessungsgruende nach § 267 Abs. 3 StPO formulieren.
-- Sie pruefen, ob das Tatgericht das Doppelverwertungsverbot verletzt hat (Tatbestandsmerkmale werden noch einmal strafschaerfend angefuehrt).
+- Sie verfassen ein Urteil und müssen die Strafzumessungsgruende nach § 267 Abs. 3 StPO formulieren.
+- Sie prüfen, ob das Tatgericht das Doppelverwertungsverbot verletzt hat (Tatbestandsmerkmale werden noch einmal strafschaerfend angefuehrt).
 
 ## Rechtliche Grundlagen
 
@@ -39,7 +39,7 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
  - Art der Ausfuehrung und verschuldete Auswirkungen der Tat;
  - Vorleben des Taeters, seine persönlichen und wirtschaftlichen Verhaeltnisse;
  - Verhalten nach der Tat, namentlich Bemuehen, den Schaden wiedergutzumachen, und das Bemuehen des Taeters, einen Ausgleich mit dem Verletzten zu erreichen.
-- **§ 46 Abs. 3 StGB** — **Doppelverwertungsverbot**: Umstaende, die schon Merkmale des gesetzlichen Tatbestandes sind, duerfen nicht beruecksichtigt werden.
+- **§ 46 Abs. 3 StGB** — **Doppelverwertungsverbot**: Umstaende, die schon Merkmale des gesetzlichen Tatbestandes sind, dürfen nicht beruecksichtigt werden.
 
 ## Strafzumessungs-Grundsatz
 
@@ -57,7 +57,7 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
  - Taterscheinung: Beweggrund, Ausfuehrung, Folgen, Pflichtwidrigkeit;
  - Nachtatverhalten: Reue, Gestaendnis, TOA (§ 46a StGB), Schadenswiedergutmachung.
 4. **Abwaegung**: Strafmildernde gegen strafschaerfende Faktoren; das Gewicht muss explizit werden.
-5. **Doppelverwertungsverbot pruefen**: Wenn etwa § 224 Abs. 1 Nr. 2 StGB (gefaehrliches Werkzeug) verwirklicht ist, darf die Tatsache "Messer verwendet" nicht noch einmal strafschaerfend angefuehrt werden.
+5. **Doppelverwertungsverbot prüfen**: Wenn etwa § 224 Abs. 1 Nr. 2 StGB (gefaehrliches Werkzeug) verwirklicht ist, darf die Tatsache "Messer verwendet" nicht noch einmal strafschaerfend angefuehrt werden.
 6. **Begruendung**: Im Urteil muss die Strafzumessung so dargelegt werden, dass das Revisionsgericht sie ueberpruefen kann (§ 267 Abs. 3 StPO).
 
 ## Strafmildernde Faktoren (Standardkatalog)
@@ -86,7 +86,7 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
 - **Doppelverwertung**: Tatbestandsmerkmal wird nochmal als Schaerfungsgrund herangezogen. Revisionsangriff: Verletzung § 46 Abs. 3 StGB.
 - **Unzulaessige Schaerfung wegen Schweigen**: Schweigen des Angeklagten (§ 136 StPO, § 243 Abs. 5 StPO) darf nicht zum Nachteil verwertet werden (st. Rspr.). Wohl aber Lueg-Verhalten oder Verleumdung in der Verteidigung.
 - **Vorstrafen ohne Bezug** wahllos zitiert: erforderlich ist konkrete Bezugnahme auf die Gefaehrlichkeit oder einschlaegige Naehe.
-- **Praevention vor Schuld**: Wenn die Strafe ueber den Schuldrahmen hinaus aus Generalpraevention erhoeht wird, verletzt das § 46 Abs. 1 StGB.
+- **Praevention vor Schuld**: Wenn die Strafe über den Schuldrahmen hinaus aus Generalpraevention erhoeht wird, verletzt das § 46 Abs. 1 StGB.
 - **Strafzumessung pauschal**: "unter Beruecksichtigung aller Umstaende" ohne Einzelabwaegung ist revisionsanfaellig (§ 267 Abs. 3 StPO).
 
 ## Quellen und Stand 05/2026

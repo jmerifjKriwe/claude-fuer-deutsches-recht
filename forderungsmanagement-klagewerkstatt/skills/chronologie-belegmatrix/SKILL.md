@@ -9,7 +9,7 @@ Jeder Schriftsatz steht und faellt mit der Belegkette. Diese Matrix verbindet Er
 
 ## Matrix-Schema
 
-| Nr | Datum | Ereignis | Quelle | Anlage Klaeger | Anlage Beklagter | Beweismittel |
+| Nr | Datum | Ereignis | Quelle | Anlage Kläger | Anlage Beklagter | Beweismittel |
 |---|---|---|---|---|---|---|
 | 1 | 2024-01-15 | Angebot Klaegerin | E-Mail | K 1 | | Urkunde |
 | 2 | 2024-01-20 | Annahme Beklagte | E-Mail | K 2 | | Urkunde |

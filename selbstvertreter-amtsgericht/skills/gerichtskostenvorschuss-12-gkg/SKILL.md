@@ -7,7 +7,7 @@ description: "Gerichtskostenvorschuss nach § 12 GKG. Klage wird erst zugestellt
 
 ## Worum geht es?
 
-Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Beklagten einen Vorschuss von Ihnen ein (§ 12 GKG). Erst wenn der Vorschuss eingegangen ist, wird der Beklagte zugestellt. Wenn Sie den Vorschuss nicht oder zu spaet zahlen, wird auch die Verjährung **nicht** in voller Hoehe gehemmt (§ 167 ZPO — "demnaechst"-Wirkung kann ausfallen).
+Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Beklagten einen Vorschuss von Ihnen ein (§ 12 GKG). Erst wenn der Vorschuss eingegangen ist, wird der Beklagte zugestellt. Wenn Sie den Vorschuss nicht oder zu spaet zahlen, wird auch die Verjährung **nicht** in voller Höhe gehemmt (§ 167 ZPO — "demnaechst"-Wirkung kann ausfallen).
 
 ## Wann brauchen Sie diese Skill?
 
@@ -19,7 +19,7 @@ Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Bekla
 
 - **Gerichtskostenvorschuss**: Vorab-Zahlung der Gerichtskosten, bevor das Gericht zustellt.
 - **§ 167 ZPO "demnaechst"**: Wenn die Zustellung "demnaechst" erfolgt, wirkt sie auf den Tag der Klageeinreichung zurueck — wichtig für Frist-Wahrung.
-- **PKH (Prozesskostenhilfe)**: Sozialleistung, wenn Sie die Kosten nicht tragen koennen.
+- **PKH (Prozesskostenhilfe)**: Sozialleistung, wenn Sie die Kosten nicht tragen können.
 
 ## Rechtsgrundlagen
 
@@ -31,7 +31,7 @@ Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Bekla
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Vorschuss-Hoehe berechnen
+### Schritt 1 — Vorschuss-Höhe berechnen
 
 Vorschuss = 3,0 Gerichtsgebuehren nach GKG-Tabelle. Skill `kostenrisiko-streitwert-berechnen-gkg`.
 
@@ -39,14 +39,14 @@ Vorschuss = 3,0 Gerichtsgebuehren nach GKG-Tabelle. Skill `kostenrisiko-streitwe
 - Streitwert 3.000 EUR: ca. 324 EUR Vorschuss.
 - Streitwert 5.000 EUR: ca. 483 EUR Vorschuss.
 
-Werte vor Einreichung aktuell verifizieren ueber GKG-Tabelle.
+Werte vor Einreichung aktuell verifizieren über GKG-Tabelle.
 
 ### Schritt 2 — Aufforderung zur Vorschuss-Zahlung
 
 Nach Einreichung schickt das Gericht eine **Kostenrechnung** an Sie. Darauf:
 
 - Aktenzeichen.
-- Vorschuss-Hoehe.
+- Vorschuss-Höhe.
 - IBAN des Gerichts.
 - Verwendungszweck (Aktenzeichen muss in den Verwendungszweck!).
 
@@ -72,34 +72,34 @@ Nach Mahnung des Gerichts ohne Zahlung wird das Verfahren in der Schwebe gehalte
 
 ### Schritt 6 — Bei finanziellen Schwierigkeiten: PKH
 
-Wenn Sie sich den Vorschuss nicht leisten koennen: **gleichzeitig** mit der Klage PKH-Antrag stellen. Skill `prozesskostenhilfe-pkh-114-zpo`.
+Wenn Sie sich den Vorschuss nicht leisten können: **gleichzeitig** mit der Klage PKH-Antrag stellen. Skill `prozesskostenhilfe-pkh-114-zpo`.
 
-Sie zahlen dann erst nach PKH-Pruefung — oder gar nicht (bei PKH ohne Ratenzahlung).
+Sie zahlen dann erst nach PKH-Prüfung — oder gar nicht (bei PKH ohne Ratenzahlung).
 
 ### Schritt 7 — Beleg aufbewahren
 
 - Ueberweisungs-Beleg.
-- Spaeter Kostenrechnung des Gerichts.
+- Später Kostenrechnung des Gerichts.
 
-Bei Erfolg in der Klage koennen Sie die Vorschuss-Auslagen kostenfestsetzen lassen.
+Bei Erfolg in der Klage können Sie die Vorschuss-Auslagen kostenfestsetzen lassen.
 
 ### Schritt 8 — Zahlung uebers Online-Banking
 
 Praxis: Online-Banking mit Aktenzeichen im Verwendungszweck. Dauer 1-2 Werktage. Wenn knapp: Vor-Ort-Einzahlung an der Bank des Gerichts.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Vorschuss = Verjährungs-Risiko**: Bei Saumigkeit kann § 167 ZPO ausfallen.
 - **Aktenzeichen im Verwendungszweck**: Sonst kann Bank-Buchung nicht zugeordnet werden.
 - **2-Wochen-Frist**: Faustregel für "alsbald" § 167 ZPO. Nicht weiter spannen.
-- **Bei PKH**: Vor Einreichung pruefen oder gleichzeitig stellen.
+- **Bei PKH**: Vor Einreichung prüfen oder gleichzeitig stellen.
 
 ## Typische Fehler
 
-- "Vorschuss kann ich spaeter zahlen." → Verjährung kann eintreten.
+- "Vorschuss kann ich später zahlen." → Verjährung kann eintreten.
 - "Kein Verwendungszweck bei Ueberweisung." → Bank-Zuordnung verzoegert sich.
 - "Ich warte auf zweite Mahnung." → Eingang vom Gericht dauert. Verfahren in Schwebe.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 12 GKG, § 167 ZPO unveraendert. GKG-Werte ueber aktuelle Tabelle verifizieren.
+Stand: 05/2026. § 12 GKG, § 167 ZPO unveraendert. GKG-Werte über aktuelle Tabelle verifizieren.

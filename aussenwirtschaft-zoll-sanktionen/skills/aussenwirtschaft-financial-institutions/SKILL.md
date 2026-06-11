@@ -15,9 +15,9 @@ description: "Sanktions-Compliance für Banken und Finanzinstitute im Korrespond
 
 ## Mandantenfall
 
-- Deutsche Korrespondenzbank erhaelt USD-Zahlung ueber US-Korrespondenten aus Russland; OFAC-Exposure.
+- Deutsche Korrespondenzbank erhaelt USD-Zahlung über US-Korrespondenten aus Russland; OFAC-Exposure.
 - Bank soll Akkreditiv für iranischen Importeur eroeffnen; Gegenpartei nicht in SDN-Liste, aber enge Verbindungen zum Staat.
-- Finanzinstitut prueft neue Korrespondenzbankbeziehung mit Tuerkei; Sanktionsumgehungsrisiko Russland.
+- Finanzinstitut prüft neue Korrespondenzbankbeziehung mit Tuerkei; Sanktionsumgehungsrisiko Russland.
 
 ## Erste Schritte
 

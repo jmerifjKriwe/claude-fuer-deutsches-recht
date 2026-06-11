@@ -72,10 +72,10 @@ description: "Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien dur
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---|---|---|---|---|
-| ArbG Braunschweig | 6 Ca 303/24 | 24.06.2025 | § 36 Abs. 2 Satz 2 HinSchG (Beweislastumkehr) gilt nicht auf der Rechtsfolgenseite; Kausalitaet des konkreten Schadens muss der Anspruchsteller darlegen. Vorgesetzte sind nicht automatisch interne Meldestelle. Hinweisgeber muss substantiiert darlegen, wann, wo und welche konkrete Meldung erfolgte. | Hensche Arbeitsrecht; vor Verwendung Volltext-Pruefung in offenen Quellen (z.B. dejure.org, Justiz Niedersachsen) empfohlen |
-| BAG | Leitentscheidung noch nicht ergangen | - | Das HinSchG ist erst seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentscheidung zur Beweislastumkehr (§ 36 HinSchG) ist zum Stand Mai 2026 ueber dejure.org/openjur.de nicht mit offener Quelle verifizierbar | - |
+| ArbG Braunschweig | 6 Ca 303/24 | 24.06.2025 | § 36 Abs. 2 Satz 2 HinSchG (Beweislastumkehr) gilt nicht auf der Rechtsfolgenseite; Kausalitaet des konkreten Schadens muss der Anspruchsteller darlegen. Vorgesetzte sind nicht automatisch interne Meldestelle. Hinweisgeber muss substantiiert darlegen, wann, wo und welche konkrete Meldung erfolgte. | Hensche Arbeitsrecht; vor Verwendung Volltext-Prüfung in offenen Quellen (z.B. dejure.org, Justiz Niedersachsen) empfohlen |
+| BAG | Leitentscheidung noch nicht ergangen | - | Das HinSchG ist erst seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentscheidung zur Beweislastumkehr (§ 36 HinSchG) ist zum Stand Mai 2026 über dejure.org/openjur.de nicht mit offener Quelle verifizierbar | - |
 
-Hinweis: Erstinstanzliche Entscheidungen und Aufsatzliteratur sind nicht bindend; bei Schriftsatzverwendung neuere LAG/BAG-Rechtsprechung pruefen.
+Hinweis: Erstinstanzliche Entscheidungen und Aufsatzliteratur sind nicht bindend; bei Schriftsatzverwendung neuere LAG/BAG-Rechtsprechung prüfen.
 
 ## Beweislastumkehr § 36 HinSchG — Aufbau und Wirkung
 
@@ -154,7 +154,7 @@ Hinweis: Erstinstanzliche Entscheidungen und Aufsatzliteratur sind nicht bindend
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -250,7 +250,7 @@ Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 → Art. 10 EMRK (EGMR-Schutz Meinungs- und Informationsfreiheit)
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

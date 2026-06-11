@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Quellenkritik ist die Grundoperation der Rechtsgeschichte. Sie unterscheidet Ueberlieferungsform (Original, Abschrift, Druck, Digitalisat), Entstehungskontext (Kanzleipraxis, Legislativverfahren, Gerichtspraxis) und Editionszustand (kritische Edition, Regeste, Faksimile). Fuer die deutsche Rechtsgeschichte sind das Bundesarchiv (Koblenz/Berlin), die Landesarchive, das Geheime Staatsarchiv Preussischer Kulturbesitz sowie digitale Sammlungen wie ALEX und MGH-Online die zentralen Anlaufstellen.
+Quellenkritik ist die Grundoperation der Rechtsgeschichte. Sie unterscheidet Ueberlieferungsform (Original, Abschrift, Druck, Digitalisat), Entstehungskontext (Kanzleipraxis, Legislativverfahren, Gerichtspraxis) und Editionszustand (kritische Edition, Regeste, Faksimile). Für die deutsche Rechtsgeschichte sind das Bundesarchiv (Koblenz/Berlin), die Landesarchive, das Geheime Staatsarchiv Preussischer Kulturbesitz sowie digitale Sammlungen wie ALEX und MGH-Online die zentralen Anlaufstellen.
 
 ## Kernnormen / Kernquellen
 

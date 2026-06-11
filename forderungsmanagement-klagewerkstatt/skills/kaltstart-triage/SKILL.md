@@ -5,7 +5,7 @@ description: "Dokumentengetriebene Ersttriage einer Forderungsakte: wertet zuers
 
 # Kaltstart-Triage Forderungssache
 
-Eingangsroutine fuer jede neue Forderungsakte. Ziel ist nicht ein Formularinterview, sondern eine belastbare Aktenhypothese mit moeglichst wenigen Rueckfragen.
+Eingangsroutine für jede neue Forderungsakte. Ziel ist nicht ein Formularinterview, sondern eine belastbare Aktenhypothese mit moeglichst wenigen Rueckfragen.
 
 ## Grundsatz: Akte zuerst, Fragen danach
 
@@ -54,7 +54,7 @@ Mehr als drei Startfragen sind nur erlaubt, wenn Fristversaeumnis oder falsche P
 | gelb | Belege luckenhaft Verjährung im laufenden Jahr Schuldner zahlungssaeumig |
 | rot | Verjährung tritt in den naechsten sechzig Tagen ein Schuldner verzogen oder insolvent Belegstand schwach |
 
-Rote Ampel triggert sofort Skill verjaehrung-pruefen und gegebenenfalls Mahnbescheid noch am gleichen Werktag.
+Rote Ampel triggert sofort Skill verjaehrung-prüfen und gegebenenfalls Mahnbescheid noch am gleichen Werktag.
 
 ## Startprodukt
 

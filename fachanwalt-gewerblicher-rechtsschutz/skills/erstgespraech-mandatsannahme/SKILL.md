@@ -23,7 +23,7 @@ description: "Erstgespraech im gewerblichen Rechtsschutz strukturieren und Manda
 1. Liegt eine **Abmahnung, einstweilige Verfuegung oder Fristmitteilung** vor? Wenn ja: Datum feststellen und sofort Kalender-Alarm setzen.
 2. Welches **Schutzrecht** ist betroffen: Marke (MarkenG), Design (DesignG), Patent (PatG), Gebrauchsmuster (GebrMG) oder lauterkeitsrechtlicher Anspruch (UWG)?
 3. Sind **mehrere Parteien** am Sachverhalt beteiligt, für die ein Interessenkonflikt bestehen koennte (§ 43a Abs. 4 BRAO, § 3 BORA)?
-4. Ist der Mandant eine **juristische Person** → Handelsregister, Transparenzregister, wirtschaftlich Berechtigte pruefen (§§ 10 ff. GwG).
+4. Ist der Mandant eine **juristische Person** → Handelsregister, Transparenzregister, wirtschaftlich Berechtigte prüfen (§§ 10 ff. GwG).
 5. Was ist das **Endziel** des Mandanten in einem Satz?
 
 ## Phasen des Erstgespraechs
@@ -38,9 +38,9 @@ Standard-Fragenraster für Marken-, Patent-, Design- und Wettbewerbsrecht:
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
 - **Fristenscreening sofort:** anstehende Klage-/Widerspruchs-/Einspruchsfristen aus den vorgelegten Schreiben. Frist-Alarm an die Vorbereitung weitergeben.
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
-- Konflikt-Check ueber Mandantensystem: Gegnerin, Streitgegenstand, frueherer Mandant?
+- Konflikt-Check über Mandantensystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis, bei juristischer Person Handelsregister-/Transparenzregisterauszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
@@ -49,7 +49,7 @@ Standard-Fragenraster für Marken-, Patent-, Design- und Wettbewerbsrecht:
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
 - Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, Behörde.
-- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
+- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klären.
 
 ### 4. Streitwert und Gebührenvereinbarung
 
@@ -57,14 +57,14 @@ Standard-Streitwerte im Bereich Marken-, Patent-, Design- und Wettbewerbsrecht:
 
 - Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
 - RVG-Pauschalrechnung oder Stundenhonorarvereinbarung.
-- Beratungshilfe-/Prozesskostenhilfe-Antrag pruefen, wenn wirtschaftlich angezeigt.
+- Beratungshilfe-/Prozesskostenhilfe-Antrag prüfen, wenn wirtschaftlich angezeigt.
 - Vorschussanforderung nach § 9 RVG.
 
 ### 5. Strategie-Erstskizze
 
 Drei Weichen am Ende des Erstgespraechs:
 
-- **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
+- **Mandat annehmen:** vollstaendig (Prüfung + Schriftsatz) oder begrenzt (nur Prüfung/Gutachten).
 - **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
@@ -166,9 +166,9 @@ Schritt 7: E-Mail-Zusammenfassung binnen 48 h
 
 - Frist uebersehen, weil Mandantin sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen).
 - Konflikt-Check nur nach Personennamen, nicht nach Sachzusammenhang.
-- Vollmachtsumfang unklar → spaeter Streit mit Mandantin ueber Befugnisse.
+- Vollmachtsumfang unklar → später Streit mit Mandantin über Befugnisse.
 - Honorarvereinbarung muendlich → Beweisnot bei Streitwert-/Honorar-Streit.
-- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk ueber Risikobewertung.
+- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk über Risikobewertung.
 
 ## Praxis-Checkliste
 

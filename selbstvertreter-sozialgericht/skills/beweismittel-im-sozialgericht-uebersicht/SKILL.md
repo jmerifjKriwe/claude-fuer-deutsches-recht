@@ -17,11 +17,11 @@ Wer Recht haben will, muss Beweise haben. Im Sozialgericht gibt es verschiedene 
 
 ## In einfacher Sprache
 
-Sie muessen beweisen, was Sie sagen. Es gibt verschiedene Beweise. Papiere, Aerzte, Zeugen. Wir zeigen Ihnen alle.
+Sie müssen beweisen, was Sie sagen. Es gibt verschiedene Beweise. Papiere, Aerzte, Zeugen. Wir zeigen Ihnen alle.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wollen wissen, womit Sie Ihre Sache beweisen koennen.
+- Sie wollen wissen, womit Sie Ihre Sache beweisen können.
 - Sie haben einen Beweis, sind aber unsicher, ob er gilt.
 - Sie wollen Ihre Klage zur Sache stark machen.
 
@@ -50,7 +50,7 @@ Schriftliche Belege:
 
 - Bescheid, Widerspruchsbescheid
 - Atteste, Befundberichte (formal: Privaturkunde)
-- Vertraege (Mietvertrag etc.)
+- Verträge (Mietvertrag etc.)
 - Kontoauszuege
 - Briefe und E-Mails
 
@@ -85,11 +85,11 @@ Ein Experte mit fachlichem Urteil. Im SG meist:
 - Neurologie
 - Sozialmedizin
 
-Das Gericht beauftragt von Amts wegen (§ 103 SGG). Sie koennen einen eigenen Gutachter benennen nach § 109 SGG (siehe `sachverstaendigen-wahlrecht-109-sgg`).
+Das Gericht beauftragt von Amts wegen (§ 103 SGG). Sie können einen eigenen Gutachter benennen nach § 109 SGG (siehe `sachverstaendigen-wahlrecht-109-sgg`).
 
 ### Schritt 4 — Augenscheinseinnahme
 
-Selten, aber moeglich: Gericht schaut sich an. Beispiele:
+Selten, aber möglich: Gericht schaut sich an. Beispiele:
 
 - Treppe in Ihrer Wohnung (bei GdB-Streit Mobilitaet)
 - Arbeitsplatz (bei Berufskrankheit)
@@ -99,7 +99,7 @@ Stellen Sie Antrag, wenn relevant.
 
 ### Schritt 5 — Parteivernehmung
 
-Sie selbst werden gehoert. Im SG selten, weil andere Beweise vorgehen. Aber moeglich nach §§ 445 ff. ZPO analog.
+Sie selbst werden gehoert. Im SG selten, weil andere Beweise vorgehen. Aber möglich nach §§ 445 ff. ZPO analog.
 
 Bessere Wege: schriftlich vortragen + Sachverstaendige + Zeugen.
 
@@ -118,7 +118,7 @@ Vortragen Sie, wie viele Indizien zusammenpassen.
 - **Mit welchem Beweismittel?** (Pflegeprotokoll, Zeugen, Atteste, Gutachten)
 - **Wer kann diese Beweise liefern?** (Sie selbst, Aerzte, Familie)
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Aerzte sind die wichtigsten Beweise im Sozialrecht**: Atteste konkret und aktuell halten.
 - **Zeugen nur, wenn sie wirklich wahrgenommen haben**: Hoeren-sagen reicht oft nicht.

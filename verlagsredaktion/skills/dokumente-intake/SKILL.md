@@ -7,7 +7,7 @@ description: "Dokumentenintake für Verlagsredaktion: sortiert Verlagsvertrag, M
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Verlagsredaktion** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Verlagsredaktion** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -29,7 +29,7 @@ Dieser Dokumenten-Intake für **Verlagsredaktion** ordnet Anlagen, Registerdaten
 - `abstimmung-lektorat-produktion-satz` — Abstimmung Lektorat Produktion Satz
 - `abstimmung-mit-autor-feedback-kanal` — Abstimmung mit Autor Feedback Kanal
 - `abstimmung-mit-produktion-satz-druck` — Abstimmung mit Produktion Satz Druck
-- `abstimmung-mit-rechtsabteilung-pruefung` — Abstimmung mit Rechtsabteilung Pruefung
+- `abstimmung-mit-rechtsabteilung-pruefung` — Abstimmung mit Rechtsabteilung Prüfung
 - `abstimmung-mit-vertrieb-marketing` — Abstimmung mit Vertrieb Marketing
 - `ai-einsatz-transparenz-datenschutz` — AI Einsatz Transparenz Datenschutz
 - `audio-transkript-zu-fachbeitrag` — Audio Transkript zu Fachbeitrag

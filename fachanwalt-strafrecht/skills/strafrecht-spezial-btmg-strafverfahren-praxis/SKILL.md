@@ -14,7 +14,7 @@ description: "BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, Untersuchungshaft, V-Personen, Telekommunikationsueberwachung. Checkliste für Strafverteidiger im BtMG-Verfahren von der ersten Massnahme bis zur Hauptverhandlung.
+**Fokus:** BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, Untersuchungshaft, V-Personen, Telekommunikationsueberwachung. Checkliste für Strafverteidiger im BtMG-Verfahren von der ersten Maßnahme bis zur Hauptverhandlung.
 
 ### BtMG-Strafverfahren: Verteidigungspraxis
 
@@ -34,7 +34,7 @@ Dieser Skill ist Checkliste für Strafverteidiger in BtMG-Verfahren — von der 
 
 (Verfahrensschwellen statt Stoffschwellen.)
 
-| Massnahme | Voraussetzung | Norm |
+| Maßnahme | Voraussetzung | Norm |
 |---|---|---|
 | Durchsuchung | Anfangsverdacht, richterliche Anordnung | § 102, § 105 StPO |
 | Vorlaeufige Festnahme | Festnahmegrund § 127 StPO | § 127 StPO |
@@ -46,7 +46,7 @@ Dieser Skill ist Checkliste für Strafverteidiger in BtMG-Verfahren — von der 
 
 ## Praktikertipps der Verteidigung
 
-### Phase 1 — Erste Massnahme
+### Phase 1 — Erste Maßnahme
 
 1. **Durchsuchung:** Anordnungsbeschluss verlangen (§ 105 StPO). Bei Gefahr im Verzug Begruendung dokumentieren. Belehrung als Beschuldigter (§ 136 StPO)?
 2. **Identitaetsfeststellung:** Mandant identifiziert sich, aber sagt zur Sache nichts. Keine erkennungsdienstliche Behandlung ohne Anordnung.
@@ -56,19 +56,19 @@ Dieser Skill ist Checkliste für Strafverteidiger in BtMG-Verfahren — von der 
 ### Phase 2 — Akteneinsicht
 
 5. **Akteneinsicht beantragen:** § 147 StPO. Auch in technische Aufzeichnungen (TKUE-Protokolle, V-Personen-Akten).
-6. **Wirkstoffgutachten anfordern:** Probennahmeprotokoll, Eichschein der Waage, Laborakkreditierung pruefen.
-7. **TKUE-Pruefung:** Anordnungsbeschluss, Verlaengerungen, Kreis der Beteiligten, Verwertbarkeit nach § 100a Abs. 4 StPO (Kernbereich).
-8. **V-Person-Akte:** Identitaet bleibt regelmaessig anonym; aber Glaubwuerdigkeit, Vorstrafen, Vergueteung muessen offengelegt werden (BGH staendige Rspr.; verifizieren).
+6. **Wirkstoffgutachten anfordern:** Probennahmeprotokoll, Eichschein der Waage, Laborakkreditierung prüfen.
+7. **TKUE-Prüfung:** Anordnungsbeschluss, Verlaengerungen, Kreis der Beteiligten, Verwertbarkeit nach § 100a Abs. 4 StPO (Kernbereich).
+8. **V-Person-Akte:** Identitaet bleibt regelmaessig anonym; aber Glaubwuerdigkeit, Vorstrafen, Vergueteung müssen offengelegt werden (BGH staendige Rspr.; verifizieren).
 
 ### Phase 3 — Untersuchungshaft
 
 9. **Haftpruefung:** § 117 StPO Antrag. Fluchtgefahr begruendet? Wiederholungsgefahr § 112 Abs. 3 StPO (bei § 29a, § 30, § 30a BtMG vermutet, aber widerlegbar).
-10. **Verhaeltnismaessigkeit:** Sechs-Monats-Frist § 121 StPO. Verlaengerung nur durch OLG.
+10. **Verhältnismäßigkeit:** Sechs-Monats-Frist § 121 StPO. Verlaengerung nur durch OLG.
 11. **Haftbeschwerde:** § 304 StPO; Detail-Skill `fachanwalt-strafrecht-untersuchungshaft-haftpruefung`.
 
 ### Phase 4 — Vorbereitung Hauptverhandlung
 
-12. **Beweisantraege:** § 244 StPO. Stoffanalysen-Gegengutachten, Zeugen, V-Personen-Aussage (zumindest Sperrerklaerung pruefen).
+12. **Beweisantraege:** § 244 StPO. Stoffanalysen-Gegengutachten, Zeugen, V-Personen-Aussage (zumindest Sperrerklaerung prüfen).
 13. **Einlassungs-Vorbereitung:** Schweigen oder Gestaendnis? § 31 BtMG Aufklaerungshilfe? Verstaendigung § 257c StPO?
 14. **Therapie-Anbahnung:** § 35 BtMG vorbereiten — Therapieplatz, Suchtgutachten, Krankenversicherung.
 
@@ -102,17 +102,17 @@ Dieser Skill ist Checkliste für Strafverteidiger in BtMG-Verfahren — von der 
 "In dem Verfahren gegen meinen Mandanten beantrage ich Akteneinsicht in
 1. die TKUE-Anordnungsbeschluesse einschliesslich Verlaengerungen
 2. die vollstaendigen TKUE-Protokolle (Wortprotokolle, Zusammenfassungen)
-3. die Mitteilungen ueber die Massnahmen nach § 101 Abs. 4 StPO
-4. die Akte zum V-Personen-Einsatz mit Sperrerklaerung gemaess § 96 StPO."
+3. die Mitteilungen über die Maßnahmen nach § 101 Abs. 4 StPO
+4. die Akte zum V-Personen-Einsatz mit Sperrerklaerung gemäß § 96 StPO."
 
 **Haftpruefungsantrag:**
-"In der Strafsache gegen meinen Mandanten beantrage ich Haftpruefung gemaess § 117 StPO. Es fehlt am Haftgrund: Fluchtgefahr besteht nicht (Wohnsitz, Familie, Arbeit in Deutschland, Beschaffung Reisepass schwierig). Die Wiederholungsgefahr nach § 112 Abs. 3 StPO ist widerlegt durch [konkrete Umstaende: Therapieantritt, Wohnumfeld, soziales Netz]."
+"In der Strafsache gegen meinen Mandanten beantrage ich Haftpruefung gemäß § 117 StPO. Es fehlt am Haftgrund: Fluchtgefahr besteht nicht (Wohnsitz, Familie, Arbeit in Deutschland, Beschaffung Reisepass schwierig). Die Wiederholungsgefahr nach § 112 Abs. 3 StPO ist widerlegt durch [konkrete Umstaende: Therapieantritt, Wohnumfeld, soziales Netz]."
 
 ## Quellen Stand 06/2026
 
 - §§ 102 ff. StPO Durchsuchung.
 - § 112 StPO Untersuchungshaft (mit Sonderhaftgrund § 112 Abs. 3 StPO bei § 29a, § 30, § 30a BtMG).
-- §§ 100a, 100b, 100c, 110a StPO verdeckte Massnahmen.
+- §§ 100a, 100b, 100c, 110a StPO verdeckte Maßnahmen.
 - § 147 StPO Akteneinsicht.
 - § 244 StPO Beweisantraege.
 - § 257c StPO Verstaendigung.

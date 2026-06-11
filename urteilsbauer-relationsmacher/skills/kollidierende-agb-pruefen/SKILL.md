@@ -38,14 +38,14 @@ Klassisches Problem im B2B-Geschäft: Beide Parteien verweisen auf ihre eigenen 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Kollidierende AGB pruefen nach battle-of-forms | Pruefungsergebnis nach Schema; Template unten |
+| Standard — Kollidierende AGB prüfen nach battle-of-forms | Pruefungsergebnis nach Schema; Template unten |
 | Variante A — Letzter Schuss der Gegenseite Guillotine-Klausel | Letzte Erklaerung gegnerische AGB massgeblich; Widerspruch sofort |
 | Variante B — Keine AGB beider Seiten Individualvertrag | Kein AGB-Kollisions-Problem; Individualvertrag direkt pruefend |
-| Variante C — Internationale AGB verschiedene Rechtsordnungen | IPR pruefen; CISG als Aufangrecht beachten |
+| Variante C — Internationale AGB verschiedene Rechtsordnungen | IPR prüfen; CISG als Aufangrecht beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

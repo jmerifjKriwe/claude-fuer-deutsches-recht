@@ -14,7 +14,7 @@ description: "Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Fuer welche Akte und welches Rechtsgebiet wird die Rechtsprechung benoetigt?
+1. Für welche Akte und welches Rechtsgebiet wird die Rechtsprechung benoetigt?
 2. Welche amtlichen Datenbanken stehen zur Verfuegung: Bundesgerichtsdatenbank, juris, Beck-online, OpenJur?
 3. Muss der Sachverhalt vor der Suche abstrahiert/anonymisiert werden (Mandatsgeheimnis)?
 4. Soll die Fundstelle in die Akte oder in einen Schriftsatz eingearbeitet werden?

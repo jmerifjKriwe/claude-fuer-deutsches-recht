@@ -103,9 +103,9 @@ Bei Erfolg: Beklagte erstattet (Sie kriegen meist die volle Anwalts-Erstattung).
 - **Selbst vertreten**: gar keine Anwaltskosten
 - **Vergleich annehmen**: schneller Abschluss, oft mit Kostenuebernahme
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **§ 109-Gutachten** ist der Hauptkostenrisikofaktor. Pruefen Sie genau, bevor Sie beantragen.
+- **§ 109-Gutachten** ist der Hauptkostenrisikofaktor. Prüfen Sie genau, bevor Sie beantragen.
 - **Mutwilligkeits-Warnung**: Wenn das Gericht eindeutig sagt "das hat keine Aussicht" — zuhoeren!
 - **Bei Vergleich**: Kostenregelung im Vergleich beachten.
 
@@ -118,4 +118,4 @@ Bei Erfolg: Beklagte erstattet (Sie kriegen meist die volle Anwalts-Erstattung).
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt. Pruefen Sie Anwalts-RVG-Werte aktuell.
+Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt. Prüfen Sie Anwalts-RVG-Werte aktuell.

@@ -28,8 +28,8 @@ Bautraeger ist, wer wirtschaftlich auf eigene Rechnung Bauvorhaben für fremde R
 
 ## Verhaeltnis Bautraeger vs. Generaluebernehmer
 
-- Bautraeger: verkauft an Erwerber, der danach Eigentuemer wird.
-- Generaluebernehmer: fuehrt Bauvorhaben für fremden Auftraggeber durch, der bereits Eigentuemer ist.
+- Bautraeger: verkauft an Erwerber, der danach Eigentümer wird.
+- Generaluebernehmer: fuehrt Bauvorhaben für fremden Auftraggeber durch, der bereits Eigentümer ist.
 - Wichtig: nur für Bautraeger gilt § 3 MaBV — der zentrale Erwerberschutz.
 
 ## Pruefraster für Erwerber

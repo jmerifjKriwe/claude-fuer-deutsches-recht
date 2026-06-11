@@ -16,7 +16,7 @@ description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skil
 
 - Verkauf zu marktnotorisch zu niedrigem Preis: Indiz für scientia.
 - Verkauf unter Freunden in zeitlicher Naehe zur Insolvenz.
-- Verschwiegene Geschaefte ueber Mittelsmaenner.
+- Verschwiegene Geschaefte über Mittelsmaenner.
 
 ## Vermutungen
 
@@ -36,7 +36,7 @@ description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skil
 
 ## Pruefraster
 
-1. Welche Tatbestaende muessen bewiesen werden?
+1. Welche Tatbestaende müssen bewiesen werden?
 2. Welche Indizien stehen zur Verfuegung?
 3. Greifen Vermutungen?
 4. Welcher Quellenanker (D. 42.8)?

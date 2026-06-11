@@ -29,12 +29,12 @@ description: "Mandant hat Schiedsklausel und will internationales Schiedsverfahr
 
 ## Rechtlicher Rahmen
 
-- **§§ 1025-1066 ZPO** — Schiedsverfahren (deutsches Recht; bei Sitz DE). Reformprozess: Gesetz zur Modernisierung des Schiedsverfahrensrechts; Referentenentwurf des BMJ vom 01.02.2024 (Konsultation bis 14.03.2024); Vorhaben fiel mit Ende der 20. Wahlperiode der Diskontinuitaet anheim, neues Verfahren in 21. Wahlperiode. Inhalte u. a. Formfreiheit kaufmaennischer Schiedsvereinbarungen, Online-Verhandlungen, elektronische Schiedssprueche. Stand bei Verwendung pruefen: https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
+- **§§ 1025-1066 ZPO** — Schiedsverfahren (deutsches Recht; bei Sitz DE). Reformprozess: Gesetz zur Modernisierung des Schiedsverfahrensrechts; Referentenentwurf des BMJ vom 01.02.2024 (Konsultation bis 14.03.2024); Vorhaben fiel mit Ende der 20. Wahlperiode der Diskontinuitaet anheim, neues Verfahren in 21. Wahlperiode. Inhalte u. a. Formfreiheit kaufmaennischer Schiedsvereinbarungen, Online-Verhandlungen, elektronische Schiedssprueche. Stand bei Verwendung prüfen: https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
 - **ICC Rules 2021** (in Kraft seit 01.01.2021; Update gegenueber ICC Rules 2017): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
 - **UNCITRAL Model Law 2006** (mit Aenderungen)
 - **UNCITRAL Arbitration Rules 2021** (Expedited Arbitration Rules; in Kraft 19.09.2021): https://uncitral.un.org/en/texts/arbitration/contractualtexts/expedited_arbitration
 - **ICSID Convention** (Investitionsschutz); Stand 2024/2025: ICSID-Rules-Revision 2022 (in Kraft seit 01.07.2022): https://icsid.worldbank.org/rules-regulations/convention/icsid-convention-arbitration-rules-2022
-- **New Yorker Übereinkommen 1958** — Vollstreckung Schiedssprueche in derzeit ueber 170 Vertragsstaaten (Stand 2025; laufend aktualisiert). Aktuelle Liste: https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2
+- **New Yorker Übereinkommen 1958** — Vollstreckung Schiedssprueche in derzeit über 170 Vertragsstaaten (Stand 2025; laufend aktualisiert). Aktuelle Liste: https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2
 - **IBA Rules on the Taking of Evidence 2020** (in Kraft seit 17.12.2020): https://www.ibanet.org/MediaHandler?id=def0807b-9fec-43ef-b624-f2cb2af7cf7b
 - **IBA Guidelines on Conflicts of Interest 2024** (Revision; ersetzen Fassung 2014): https://www.ibanet.org/document?id=Guidelines-on-Conflicts-of-Interest-in-International-Arbitration-2024
 
@@ -127,14 +127,14 @@ Stand: 05/2026.
 - UNCITRAL Expedited Arbitration Rules (in Kraft 19.09.2021): https://uncitral.un.org/en/texts/arbitration/contractualtexts/expedited_arbitration
 - ICSID-Rules 2022 (in Kraft 01.07.2022): https://icsid.worldbank.org/rules-regulations/convention/icsid-convention-arbitration-rules-2022
 - IBA Guidelines on Conflicts of Interest 2024: https://www.ibanet.org/document?id=Guidelines-on-Conflicts-of-Interest-in-International-Arbitration-2024
-- Status New Yorker UN-Uebereinkommen 1958 (derzeit ueber 170 Vertragsstaaten): https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2
-- §§ 1025 ff. ZPO Modernisierung (BMJ-Verfahren laufend; Stand pruefen): https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
+- Status New Yorker UN-Uebereinkommen 1958 (derzeit über 170 Vertragsstaaten): https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2
+- §§ 1025 ff. ZPO Modernisierung (BMJ-Verfahren laufend; Stand prüfen): https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
 - Achmea (EuGH, Urt. v. 06.03.2018 — C-284/16, Slowakische Republik/Achmea BV; ECLI:EU:C:2018:158): https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:62016CJ0284 — Intra-EU-Investitionsschiedsklauseln in BITs unionsrechtswidrig.
 - Komstroy (EuGH, Urt. v. 02.09.2021 — C-741/19, Republik Moldau/Komstroy LLC; ECLI:EU:C:2021:655): https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0741 — Erweiterung der Achmea-Doktrin auf Intra-EU-Streitigkeiten unter dem Energiecharta-Vertrag (ECT).
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -203,7 +203,7 @@ Streitwert: EUR [BETRAG]
 [Anwalt Klaeger]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

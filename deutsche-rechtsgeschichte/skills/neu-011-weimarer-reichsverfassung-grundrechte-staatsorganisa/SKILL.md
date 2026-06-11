@@ -52,13 +52,13 @@ description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte S
 
 ## Notverordnung Art. 48
 
-- Reichspraesident kann zur Wahrung der öffentlichen Sicherheit und Ordnung Massnahmen treffen.
-- Aussetzung von Grundrechten moeglich.
+- Reichspraesident kann zur Wahrung der öffentlichen Sicherheit und Ordnung Maßnahmen treffen.
+- Aussetzung von Grundrechten möglich.
 - Zentraler Schwachpunkt — wird durch Hindenburg ab 1930 massiv genutzt.
 
 ## Konkordat und Kirchen
 
-- Staatskirchenrecht Art. 137 WRV (im GG ueber Art. 140 GG fortgesetzt).
+- Staatskirchenrecht Art. 137 WRV (im GG über Art. 140 GG fortgesetzt).
 - Konkordat mit Bayern 1924.
 
 ## Ende

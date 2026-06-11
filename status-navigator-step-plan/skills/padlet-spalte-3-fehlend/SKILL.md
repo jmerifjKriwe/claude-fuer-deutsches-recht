@@ -48,7 +48,7 @@ LausitzStorage-Akte, Spalte 3 mit 12 Karten:
 - Padlet-Spalte 3 mit Beschaffungs-Karten
 - Sortierung nach Frist
 - Fristen-Ampel je Karte
-- Eingangsstapel fuer Spalte 4
+- Eingangsstapel für Spalte 4
 
 ## Grenzen
 - **Frist-Tracking ersetzt keinen Fristenkalender.** Anwaltlicher
@@ -57,5 +57,5 @@ LausitzStorage-Akte, Spalte 3 mit 12 Karten:
   Bearbeitungszeiten realistisch ansetzen.
 
 ## Plugin-Kontext
-Spalte 3 ist der Treiber fuer Spalte 4. Jede Karte hier wird in Spalte 4
+Spalte 3 ist der Treiber für Spalte 4. Jede Karte hier wird in Spalte 4
 mit einem Schrittplan ausgearbeitet.

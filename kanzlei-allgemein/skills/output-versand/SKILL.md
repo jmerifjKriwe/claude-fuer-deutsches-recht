@@ -17,7 +17,7 @@ description: "Steuert Output und Versand für Schriftsatz Brief E-Mail Fax beA S
 ## Zentrale Normen
 - § 130a ZPO — Elektronisches Dokument: Anforderungen an Inhalt und Uebermittlungsweg
 - § 174 ZPO — Zustellungen von Anwalt zu Anwalt: Empfangsbekenntnis und Fristen
-- § 43 BRAO — Sorgfaltspflicht: umfasst Pruefung vor Ausgang
+- § 43 BRAO — Sorgfaltspflicht: umfasst Prüfung vor Ausgang
 - § 31a BRAO — beA-Nutzungspflicht: persönlicher Versand durch Inhaber
 
 ## Output-Kanäle

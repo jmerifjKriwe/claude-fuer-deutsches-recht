@@ -14,13 +14,13 @@ description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagier
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Ein Investor kauft ein Kreuzfahrtschiff oder grosses Fahrgastschiff; Risiken aus Altlasten und Zertifikatsmängeln sind zu identifizieren. Ein Reeder veräußert ein Kreuzfahrtschiff oder grosses Fahrgastschiff unter Zeitdruck; Gewährleistungsausschlüsse sind zu prüfen. Eine Bank finanziert den Kauf und möchte Vertragsrisiken kennen.
+Ein Investor kauft ein Kreuzfahrtschiff oder großes Fahrgastschiff; Risiken aus Altlasten und Zertifikatsmängeln sind zu identifizieren. Ein Reeder veräußert ein Kreuzfahrtschiff oder großes Fahrgastschiff unter Zeitdruck; Gewährleistungsausschlüsse sind zu prüfen. Eine Bank finanziert den Kauf und möchte Vertragsrisiken kennen.
 
 ## Erste Schritte
-1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für Kreuzfahrtschiff oder grosses Fahrgastschiff.
-2. Lastenuebergang pruefen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
-3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan pruefen.
-4. Zertifikatsstatus klaeren: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
+1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für Kreuzfahrtschiff oder großes Fahrgastschiff.
+2. Lastenuebergang prüfen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
+3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan prüfen.
+4. Zertifikatsstatus klären: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
 5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
 6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
 
@@ -35,7 +35,7 @@ Ein Investor kauft ein Kreuzfahrtschiff oder grosses Fahrgastschiff; Risiken aus
 - Ist Escrow-Mechanismus für simultane Transaktion vorgesehen?
 
 ## Typische Fallstricke
-- Kaeufer haftet mit Kreuzfahrtschiff oder grosses Fahrgastschiff für Altschulden bis zur Loeschung.
+- Kaeufer haftet mit Kreuzfahrtschiff oder großes Fahrgastschiff für Altschulden bis zur Loeschung.
 - Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
 - Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
 

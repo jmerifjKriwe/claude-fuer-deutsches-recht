@@ -56,6 +56,6 @@ KI darf die Arbeit beschleunigen. Sie darf nie die anwaltliche Verantwortung ers
 
 ### Anwendung im Skill
 
-- KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
+- KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten prüfen.
 - Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
 - GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.

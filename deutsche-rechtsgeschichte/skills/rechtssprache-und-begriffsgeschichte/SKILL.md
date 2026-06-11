@@ -15,15 +15,15 @@ description: "Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. D
 
 ## Worum es geht
 
-Die Rechtssprache ist selbst historisch. Im Mittelalter wurde Recht in der Volkssprache aufgezeichnet (Sachsenspiegel auf Mittelniederdeutsch). Die Rezeption des roemischen Rechts brachte Latein in die Rechtspraxis. Der Usus modernus des 17./18. Jh. mischte Latein und Deutsche. Die Historische Schule und Pandektistik schufen einen komplexen Fachjargon (Obligation, Delinquenz, Konzession). Das BGB 1900 versuchte durch die sogenannte Panthersprache (Windscheid-Stil) Praezision durch Abstraktion. Heute debattiert die Rechtspolitik ueber Verstaendlichkeit von Gesetzen (BMJV-Programm Rechtssprache). Reinhart Koselleck preagte die Begriffsgeschichte als Methode.
+Die Rechtssprache ist selbst historisch. Im Mittelalter wurde Recht in der Volkssprache aufgezeichnet (Sachsenspiegel auf Mittelniederdeutsch). Die Rezeption des roemischen Rechts brachte Latein in die Rechtspraxis. Der Usus modernus des 17./18. Jh. mischte Latein und Deutsche. Die Historische Schule und Pandektistik schufen einen komplexen Fachjargon (Obligation, Delinquenz, Konzession). Das BGB 1900 versuchte durch die sogenannte Panthersprache (Windscheid-Stil) Praezision durch Abstraktion. Heute debattiert die Rechtspolitik über Verstaendlichkeit von Gesetzen (BMJV-Programm Rechtssprache). Reinhart Koselleck preagte die Begriffsgeschichte als Methode.
 
 ## Kernnormen / Kernquellen
 
-- **Sachsenspiegel** (ca. 1220): Erste grosse Rechtsquelle in deutscher Volkssprache
+- **Sachsenspiegel** (ca. 1220): Erste große Rechtsquelle in deutscher Volkssprache
 - **Corpus Iuris Civilis**: Lateinische Grundlage der Rezeptionssprache
 - **BGB § 133**: Auslegung von Willenserklaerrungen nach dem sprachlichen Wortsinn
 - **GG Art. 103 Abs. 2**: Bestimmtheitsgrundsatz für Strafrecht (lex certa)
-- **Veroeffentlichungsgebot GG Art. 82 Abs. 1**: Gesetze muessen im BGBl. veroeffentlicht werden
+- **Veroeffentlichungsgebot GG Art. 82 Abs. 1**: Gesetze müssen im BGBl. veroeffentlicht werden
 
 ## Akteure und Institutionen
 

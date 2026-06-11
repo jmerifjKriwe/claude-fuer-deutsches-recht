@@ -34,7 +34,7 @@ description: "Rechtswidrige Anpassungsklauseln im Bautraegervertrag: Skill liste
 - Unwirksam, soweit wesentliche Aenderung.
 
 ### Sonderwuensche-Ausschluss
-- "Sonderwuensche sind nicht moeglich nach Vertragsschluss."
+- "Sonderwuensche sind nicht möglich nach Vertragsschluss."
 - Wirksam wenn klar, ABER mit angemessener Ausnahmeklausel.
 
 ### Verkleinerung der Wohnflaeche

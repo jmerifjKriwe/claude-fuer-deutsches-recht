@@ -32,7 +32,7 @@ description: "Klimaklagen Verbandsklage Umwrg: ordnet Normen, Nutzerangaben, Fri
 
 - Verwaltungsgerichtliche Klage auf Erlass von Klimaschutz-Maßnahmen
 - **BVerwG 30.11.2023, 8 C 7.22** (Klage DUH/BUND auf Klimaschutz-Sofortprogramm § 8 KSG 2021): Aktivlegitimation und Klagebefugnis der nach § 3 UmwRG anerkannten Umweltvereinigungen für den Klimaschutzprogramm-Anspruch nach KSG. Quelle: bverwg.de — Pressemitteilung 79/2023.
-- OVG Berlin-Brandenburg (Vorinstanzen DUH/BUND vs. BMU) — Aktenzeichen vor Ausgabe verifizieren ueber berlin.de/justiz
+- OVG Berlin-Brandenburg (Vorinstanzen DUH/BUND vs. BMU) — Aktenzeichen vor Ausgabe verifizieren über berlin.de/justiz
 - KSG-Aenderungsgesetz 2024 (BGBl. I 2024 S. 251) — Sofortprogramm-Mechanismus § 8 KSG modifiziert (Sektorenzielung gelockert, jahresbezogene Sektorgrenze ueberarbeitet)
 
 ### Typ 3 — Klage Verband gegen Genehmigung mit Klima-Bezug
@@ -72,13 +72,13 @@ description: "Klimaklagen Verbandsklage Umwrg: ordnet Normen, Nutzerangaben, Fri
 - Verbandsklage ohne eigene Rechtsverletzung
 - Aarhus-Konvention Art. 9 Abs. 2 — VO/RL 2003/35/EG
 - **EuGH 08.11.2016, C-243/15 (Lesoochranárske)**: Aarhus-Konvention Art. 9 Abs. 3 verlangt effektiven Rechtsschutz für Umweltverbaende; nationales Recht muss unionsrechtskonform ausgelegt werden. Quelle: curia.europa.eu.
-- **EuGH 20.12.2017, C-664/15 (Protect)**: Umweltverband muss zumindest objektive Rechtsverletzungen ruegen koennen; Aarhus Art. 9 Abs. 3 ist unmittelbar anwendbar. Quelle: curia.europa.eu.
+- **EuGH 20.12.2017, C-664/15 (Protect)**: Umweltverband muss zumindest objektive Rechtsverletzungen ruegen können; Aarhus Art. 9 Abs. 3 ist unmittelbar anwendbar. Quelle: curia.europa.eu.
 
 ### Materielle Anforderungen Klage-Erfolg
 
 - Verletzung umweltbezogener Rechtsvorschriften
 - Subjektive und objektive Rechte (§ 2 Abs. 4 UmwRG seit Novelle 2017)
-- **BVerwG 17.12.2020, 4 C 5.19**: Umweltverband muss substanziiert darlegen, dass das Vorhaben gegen umweltbezogene Vorschriften verstoesst; bloss formale Beanstandungen genuegen nicht. Quelle: bverwg.de.
+- **BVerwG 17.12.2020, 4 C 5.19**: Umweltverband muss substanziiert darlegen, dass das Vorhaben gegen umweltbezogene Vorschriften verstoesst; bloss formale Beanstandungen genügen nicht. Quelle: bverwg.de.
 - **BVerwG 18.07.2019, 7 C 26.17**: Anforderungen an UVP-Pflichtigkeit und Nachholbarkeit von Verfahrensfehlern; Aufhebung nur bei kausalen Verfahrensmaengeln. Quelle: bverwg.de.
 
 ## Schritt 3 — BVerfG-Klimabeschluss als Argumentation
@@ -117,7 +117,7 @@ Quelle: bundesverfassungsgericht.de (Volltext) / dejure.org/2021,7050. Nachfolge
 ### Klage gegen UVP-Pflicht-Verneinung
 
 - **BVerwG 18.07.2019, 7 C 26.17**: Verfahrensfehler bei UVP-Vorpruefung begruenden Klagerecht nach § 4 UmwRG; Aufhebung jedoch nur bei moeglicher Kausalitaet für das Ergebnis.
-- **BVerwG 17.12.2020, 4 C 5.19**: Umfang und Anforderungen artenschutzrechtliche Pruefung (saP); klimaschutzrechtliche Belange im Rahmen § 5 BImSchG-Vorsorge.
+- **BVerwG 17.12.2020, 4 C 5.19**: Umfang und Anforderungen artenschutzrechtliche Prüfung (saP); klimaschutzrechtliche Belange im Rahmen § 5 BImSchG-Vorsorge.
 - Anhörungs-Mangel begründet selbstständig Klage (§ 4 Abs. 1, 1a UmwRG)
 
 ## Schritt 5 — Materiell-rechtliche Klage-Linien
@@ -150,7 +150,7 @@ Quelle: bundesverfassungsgericht.de (Volltext) / dejure.org/2021,7050. Nachfolge
 - Zugang zu Gerichten für Umweltverbände
 - Effektivitätsprinzip
 - **EuGH 08.11.2016, C-243/15 (Lesoochranárske)**: Art. 9 Abs. 3 Aarhus-Konvention verpflichtet zur unionsrechtskonformen Auslegung; effektiver Rechtsschutz für Umweltverbaende. Quelle: curia.europa.eu.
-- **EuGH 20.12.2017, C-664/15 (Protect)**: Art. 9 Abs. 3 Aarhus-Konvention unmittelbar anwendbar — Verband muss objektive Rechtsverletzung ruegen koennen. Quelle: curia.europa.eu.
+- **EuGH 20.12.2017, C-664/15 (Protect)**: Art. 9 Abs. 3 Aarhus-Konvention unmittelbar anwendbar — Verband muss objektive Rechtsverletzung ruegen können. Quelle: curia.europa.eu.
 
 ### Compliance-Komitee
 
@@ -308,7 +308,7 @@ Es wird beantragt:
 - BVerwG 18.07.2019, 7 C 26.17 — UVP-Vorpruefung (bverwg.de)
 - EuGH 08.11.2016, C-243/15 (Lesoochranárske) — Aarhus Art. 9 Abs. 3 (curia.europa.eu)
 - EuGH 20.12.2017, C-664/15 (Protect) — Aarhus Art. 9 Abs. 3 (curia.europa.eu)
-- EGMR Grosse Kammer 09.04.2024, KlimaSeniorinnen ./. Schweiz, Nr. 53600/20 (echr.coe.int)
+- EGMR Große Kammer 09.04.2024, KlimaSeniorinnen ./. Schweiz, Nr. 53600/20 (echr.coe.int)
 - Hoge Raad Urgenda 20.12.2019
 - Aarhus-Konvention
 - Schlacke Umweltrecht

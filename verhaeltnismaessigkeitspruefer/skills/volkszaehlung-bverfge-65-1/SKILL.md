@@ -22,7 +22,7 @@ Verknuepfungs- und Abgleichsregelungen).
 Aus Art 2 I GG in Verbindung mit Art 1 I GG (allgemeines
 Persoenlichkeitsrecht) leitet das BVerfG das **Recht auf
 informationelle Selbstbestimmung** ab: die Befugnis des Einzelnen,
-grundsaetzlich selbst ueber die Preisgabe und Verwendung seiner
+grundsätzlich selbst über die Preisgabe und Verwendung seiner
 persoenlichen Daten zu bestimmen.
 
 ## Kernsatz
@@ -33,14 +33,14 @@ und Weitergabe seiner persoenlichen Daten von dem allgemeinen
 Persoenlichkeitsrecht umfasst. ... Es gibt unter den Bedingungen der
 automatischen Datenverarbeitung kein belangloses Datum mehr."
 
-## Bedeutung fuer die Verhaeltnismaessigkeit
+## Bedeutung für die Verhältnismäßigkeit
 
 - **Verarbeitungskontext** entscheidet: ein Datum kann harmlos in einem
   Kontext und gefaehrlich in einem anderen Kontext sein.
 - **Zweckbindung** und **Zweckaenderung** als zentrale Pruefkriterien.
 - **Verfahrenssicherungen** Aufklaerung Auskunft Berichtigung Loeschung
   als Verhaeltnismaessigkeitsfaktoren.
-- **Streuwirkung** auf grosse Personenmehrzahl als gewichtssteigernd.
+- **Streuwirkung** auf große Personenmehrzahl als gewichtssteigernd.
 
 ## Vier Stufen Konkretisierung
 

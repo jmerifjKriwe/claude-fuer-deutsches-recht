@@ -25,8 +25,8 @@ description: "Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Ve
 
 Klaere vor Entwurf des Anstellungsvertrags:
 
-1. **Gesellschafter-GF oder Fremd-GF?** Gesellschafter-GF: strengere vGA-Anforderungen (Fremdvergleich); Fremd-GF: SV-Pflicht pruefen.
-2. **Alleiniger GF oder Mitgeschaeftsfuehrer?** Allein: volles Geschaeft; Mitglied: Ressortverteilung, Gesamtvertretung.
+1. **Gesellschafter-GF oder Fremd-GF?** Gesellschafter-GF: strengere vGA-Anforderungen (Fremdvergleich); Fremd-GF: SV-Pflicht prüfen.
+2. **Alleiniger GF oder Mitgeschaeftsfuehrer?** Allein: volles Geschäft; Mitglied: Ressortverteilung, Gesamtvertretung.
 3. **Sozialversicherungsstatus?** Mehrheitsgesellschafter-GF meist SV-frei; Minderheits-GF meist SV-pflichtig; Statusfeststellung (§ 7a SGB IV) beantragen?
 4. **Pensionszusage gewuenscht?** Steuerlich attraktiv, aber strenge Anforderungen bei Gesellschafter-GF.
 5. **Wettbewerbsverbot?** Nachvertraglich: bis 2 Jahre; Karenzentschaedigung zwingend (≥ 50 % letzter Bezuege).
@@ -53,7 +53,7 @@ Klaere vor Entwurf des Anstellungsvertrags:
 |---|---|---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 2 | SV-Status bestimmt? | § 7a SGB IV | Statusfeststellungsverfahren empfohlen |
-| 3 | vGA-Fremdvergleich bei Gesellschafter-GF | § 8 Abs. 2 KStG | Angemessene Verguetung; Erdienungszeitraum Pension |
+| 3 | vGA-Fremdvergleich bei Gesellschafter-GF | § 8 Abs. 2 KStG | Angemessene Vergütung; Erdienungszeitraum Pension |
 | 4 | Wettbewerbsverbot mit Karenz? | § 74 II HGB analog | Ohne Karenz: Klausel unverbindlich |
 | 5 | Kuendigung und Befristung | §§ 620, 626 BGB | Sonderkuendigungsrecht für wichtige Gruende |
 | 6 | Kopplung Abberufung-Kuendigung | § 38 GmbHG | Explizit im Vertrag regeln |
@@ -61,10 +61,10 @@ Klaere vor Entwurf des Anstellungsvertrags:
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Vor Notar-Termin:** Vertragsrahmen (Verguetung, Befristung, Ressort) mit Gesellschaftern abstimmen.
+1. **Vor Notar-Termin:** Vertragsrahmen (Vergütung, Befristung, Ressort) mit Gesellschaftern abstimmen.
 2. **Gesellschafterbeschluss zur Bestellung** (Paragraf 46 Nr. 5 GmbHG) formulieren — separate Beurkundung oder Teil der Gruendung.
 3. **Anstellungsvertrag entwerfen:** Verguetungsstruktur, SV-Status, Wettbewerbsverbot, Pensionszusage.
-4. **vGA-Check:** Bei Gesellschafter-GF: Fremdvergleich-Pruefung durch Steuerberater empfohlen.
+4. **vGA-Check:** Bei Gesellschafter-GF: Fremdvergleich-Prüfung durch Steuerberater empfohlen.
 5. **Statusfeststellung beantragen** (§ 7a SGB IV) nach Eintragung im HR.
 6. **Unterzeichnung:** Gesellschaft vertreten durch alle Gesellschafter (oder bevollmächtigten Vertreter); GF als Anstellende.
 7. **Lohnsteuer-Anmeldung** beim Finanzamt; Gehaltskonto einrichten.

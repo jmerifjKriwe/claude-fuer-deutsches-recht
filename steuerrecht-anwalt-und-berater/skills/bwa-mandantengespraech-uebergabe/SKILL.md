@@ -22,7 +22,7 @@ Die schriftliche BWA mit Erlaeuterungstext ist das eine; das Gespraech mit dem M
 3. Welche Themenliste — nur BWA-Besprechung oder auch USt-, Lohn-, Investitionsfragen?
 4. Welcher Zeitrahmen — 30 Minuten, 1 Stunde, ganztaegig?
 5. Welche Unterlagen liegen vor — BWA, SuSa, OPOS, Lohn-Auswertung, Liquiditaetsplan?
-6. Welche Beschluesse muessen herbeigefuehrt werden (Investition, Personal, Bankgespraech)?
+6. Welche Beschlüsse müssen herbeigefuehrt werden (Investition, Personal, Bankgespraech)?
 7. Welche Eskalations-Themen sind vorbereitet (Krisensignale, Insolvenzgrund)?
 8. Welche Anschluss-Schritte sind vereinbart (Folgetermin, Schriftverkehr)?
 
@@ -117,7 +117,7 @@ ANSCHLUSS-TERMIN: [Datum]
 ### Phase 6 — Nachgang
 
 - Gespraechsnotiz binnen 3 Tagen an Mandant senden mit Bitte um Bestaetigung.
-- Massnahmen in DATEV-Wiedervorlage oder Tasksystem eintragen.
+- Maßnahmen in DATEV-Wiedervorlage oder Tasksystem eintragen.
 - Bei Krisengespraech: Warnschreiben separat per Einschreiben.
 
 ## Strategie und Praxis-Tipps
@@ -125,8 +125,8 @@ ANSCHLUSS-TERMIN: [Datum]
 - Quartalsgespraech als Standard mit allen wichtigen Mandanten — staerkste Mandantenbindung.
 - Bei Krisensignalen: persönliches Gespraech nicht durch E-Mail ersetzen.
 - Gespraechsnotiz ist Haftungsschutz — was schriftlich dokumentiert ist, gilt.
-- StBVV: Gespraech als Zusatzleistung; Pauschalvereinbarung mit Gespraechs-Kontingent moeglich.
-- Bei wiederholten Krisensignalen ohne Reaktion: Mandatsniederlegung § 627 BGB pruefen, mit anwaltlicher Begleitung.
+- StBVV: Gespraech als Zusatzleistung; Pauschalvereinbarung mit Gespraechs-Kontingent möglich.
+- Bei wiederholten Krisensignalen ohne Reaktion: Mandatsniederlegung § 627 BGB prüfen, mit anwaltlicher Begleitung.
 
 ## Quellen und Updates
 

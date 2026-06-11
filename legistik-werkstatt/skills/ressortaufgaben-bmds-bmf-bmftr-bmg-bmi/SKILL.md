@@ -54,7 +54,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 | Rechtsverordnung | Fachreferat plus ggf. Bundesrat-Zustimmung | RV-Vorlage; ggf. Bundesrat |
 | Aenderungsantrag aus der Mitte | Fraktion zusammen mit BMDS | Bundestagsausschuss |
 
-### Schritt 2 - Begruendungspflichten klaeren
+### Schritt 2 - Begruendungspflichten klären
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
@@ -76,7 +76,7 @@ Anhörungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch für BMDS-Vorhaben: BMI (Verwaltung), BMF
- (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ (Haushalt), BMJV (Prüfung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
  weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
@@ -89,20 +89,20 @@ Anhörungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 
 ### Schritt 6 - Kabinettsweg
 
-- Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
+- Kabinettsvorlage gemäß GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
-- **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
+- **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; prüfen über
  `spezial-bundestag-fristen-form-und-zuständigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMDS-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
 
-Nachgeordnete Behörden des BMDS im Vollzug einbinden. Vollzugsfolgen pruefen.
+Nachgeordnete Behörden des BMDS im Vollzug einbinden. Vollzugsfolgen prüfen.
 
 ## Abgrenzung
 

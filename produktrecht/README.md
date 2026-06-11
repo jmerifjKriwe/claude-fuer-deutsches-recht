@@ -80,8 +80,8 @@ Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-re
 | Skill | Zweck |
 |---|---|
 | **kaltstart-interview** | Erstellt `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` aus Interview + vergangenen Launch-Reviews |
-| **launch-pruefung** | Kategorie-für-Kategorie-Review, kalibriert auf Ihr Unternehmen (Sieben-Kategorien-Framework: Werberecht, Datenschutz, Produktsicherheit, AGB, Verbraucherrechte, Geistiges Eigentum, Aufsichtsrecht) |
-| **werbeaussagen-pruefung** | Werbeaussagen-Taxonomie: Marktschreierische Anpreisung / Tatsachenbehauptung / Vergleich / implizierte Aussage / absolute Aussage; Prüfung nach §§ 5, 5a, 5b UWG und PAngV |
+| **launch-prüfung** | Kategorie-für-Kategorie-Review, kalibriert auf Ihr Unternehmen (Sieben-Kategorien-Framework: Werberecht, Datenschutz, Produktsicherheit, AGB, Verbraucherrechte, Geistiges Eigentum, Aufsichtsrecht) |
+| **werbeaussagen-prüfung** | Werbeaussagen-Taxonomie: Marktschreierische Anpreisung / Tatsachenbehauptung / Vergleich / implizierte Aussage / absolute Aussage; Prüfung nach §§ 5, 5a, 5b UWG und PAngV |
 | **feature-risikobewertung** | Tiefgehende Analyse eines einzelnen Features (UWG, DSGVO, DSA, KI-VO, Verbraucherschutz BGB) |
 | **ist-das-ein-problem** | Gleich-Minuten-Triage für die schnelle Slack-Frage |
 | **impressum-pflicht** | Anbieterkennzeichnung §§ 5, 6 DDG (vormals TMG), § 18 MStV |
@@ -108,7 +108,7 @@ Ausgeliefert mit in `.mcp.json` konfigurierten Konnektoren:
 - **Atlassian** – Jira-Issues und Confluence-Seiten
 - **Asana** – Aufgaben und Projekt-Tracking
 
-Mit verbundenem Tracker: Kaltstart liest Launch-Historie, launch-pruefung liest Ticket-Kontext, markteinführungs-monitor-Agent überwacht den Kalender.
+Mit verbundenem Tracker: Kaltstart liest Launch-Historie, launch-prüfung liest Ticket-Kontext, markteinführungs-monitor-Agent überwacht den Kalender.
 
 ## Schnellstart
 
@@ -207,7 +207,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `prodr-produkthaftung-bauleiter` | Bauleiter Produkthaftung ProdHaftG und § 823 BGB Produktsicherheit: Fehlerbegriff, Hersteller-, Quasi-Hersteller- und Importeurshaftung. Pruefraster für Schadensregulierung im Produktrecht. |
 | `prodr-produktrueckruf-leitfaden` | Leitfaden Produktrueckruf: Pflicht zur Sicherheitsmassnahme nach ProdSG / GPSR, Meldung an Marktueberwachungsbehoerde, Kommunikation. Pruefraster für Hersteller im Produktrecht. |
 | `prodr-zahlen-schwellen-und-berechnung` | Prodr: Zahlen, Schwellenwerte und Berechnung im Produktrecht. |
-| `produktbeobachtung-feldueberwachung` | Produktbeobachtung und Feldueberwachung nach § 4 ProdSG und GPSR: aktive Beobachtung des Marktes nach Inverkehrbringen, Reklamationen, Schadensmeldungen, Reparaturdaten, Social-Media-Monitoring. Ableitung von Massnahmen (Information, Mod... |
+| `produktbeobachtung-feldueberwachung` | Produktbeobachtung und Feldueberwachung nach § 4 ProdSG und GPSR: aktive Beobachtung des Marktes nach Inverkehrbringen, Reklamationen, Schadensmeldungen, Reparaturdaten, Social-Media-Monitoring. Ableitung von Maßnahmen (Information, Mod... |
 | `produktbeobachtung-software-produktrecht` | Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung im Produktrecht. |
 | `produktbeobachtung-verhandlung-vergleich-und-eskalation` | Produktbeobachtung: Verhandlung, Vergleich und Eskalation im Produktrecht. |
 | `produkthaftung-digital-software-pld-2024-2853` | Prüft die neue EU-Produkthaftungsrichtlinie 2024/2853 für Software, KI-Systeme, digitale Fertigungsdateien, relevante digitale Dienste, Updates, Beweiserleichterungen und erweiterte Anspruchsgegner im Produktrecht. |
@@ -232,7 +232,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `reparaturpflicht-hersteller-nach-gewaehrleistung` | Prüft, wann Hersteller auch außerhalb der kaufrechtlichen Gewährleistung Reparatur anbieten müssen oder sollten, einschließlich Kosten, angemessener Frist, Ersatzgerät, Reparaturformular und Produktgruppen mit EU-Reparierbarkeitsanforder... |
 | `review-prodr-produkthaftung-digital` | Review: Fristen, Form, Zuständigkeit und Rechtsweg im Produktrecht. |
 | `right-to-rueckruf-strategie` | Prüft das EU-Recht auf Reparatur nach Richtlinie (EU) 2024/1799, Umsetzungsstand, Hersteller-/Repairerpflichten, Reparaturformular, Reparaturplattform, Ersatzteile und Grenzen software- oder hardwareseitiger Reparaturhindernisse im Produ... |
-| `rueckruf-strategie-konzern` | Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behörde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung ueber Seriennummern, Kostenuebernahme, Versicherung.... |
+| `rueckruf-strategie-konzern` | Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behörde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung über Seriennummern, Kostenuebernahme, Versicherung.... |
 | `software-quellenkarte` | Software Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Produktrecht (ProdSG/CE): trennt fehlende Tatsachen von fehlenden Belegen (Konformitätserklärung, Technisches Dossier, Risikobewertung), nennt pro Lücke Beweisthema, Beschaffungsweg (Marktüberwachung Län... |
 | `werbeaussagen-pruefung` | Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer Werbetext prüfen, Marketingaussagen freigeben, UWG-Prüfung, Health Claims, klimaneutral prüfen oder ver... |

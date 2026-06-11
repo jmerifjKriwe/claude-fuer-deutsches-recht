@@ -14,11 +14,11 @@ description: "Simulation und Verifikation der Rulemap: Faelle generieren; Pfadab
 
 ## Kern der Methode
 
-Validierung ueber drei Achsen: Vollstaendigkeit (jeder Pfad erreichbar); Konsistenz (keine widerspruechlichen Pfade); Korrektheit (juristisch korrekte Ergebnisse). Im Builder werden Faelle simuliert und Entscheidungen automatisch verifiziert.
+Validierung über drei Achsen: Vollstaendigkeit (jeder Pfad erreichbar); Konsistenz (keine widerspruechlichen Pfade); Korrektheit (juristisch korrekte Ergebnisse). Im Builder werden Faelle simuliert und Entscheidungen automatisch verifiziert.
 
 ## Pruefpunkte
 
-Pruefen: ist jeder Pfad mindestens einmal gepruefte? Sind systematisch Grenz- und Ausnahmefaelle erfasst? Sind die juristischen Soll-Antworten autorisiert (durch Fachreferat oder externe Begutachtung)?
+Prüfen: ist jeder Pfad mindestens einmal gepruefte? Sind systematisch Grenz- und Ausnahmefaelle erfasst? Sind die juristischen Soll-Antworten autorisiert (durch Fachreferat oder externe Begutachtung)?
 
 ## Normenanker
 
@@ -37,7 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Abgrenzung
 
-Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Pruefung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
+Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Prüfung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
 
 ## Quellen Stand 06/2026
 

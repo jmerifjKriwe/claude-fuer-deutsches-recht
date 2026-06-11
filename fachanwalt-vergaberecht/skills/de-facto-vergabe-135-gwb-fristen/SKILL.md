@@ -3,7 +3,7 @@ name: de-facto-vergabe-135-gwb-fristen
 description: "De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft pruefen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege: De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft pruefen: fehlende Bek..."
 ---
 
-# De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft pruefen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege.
+# De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege.
 
 
 ## Arbeitsweg
@@ -14,17 +14,17 @@ description: "De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft pruefen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege.
+**Fokus:** De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege.
 
 ### Paragraph 135 GWB De-facto-Vergabe
 
 ## Sofortmodus
 
-1. Rolle klaeren: Auftraggeber, Bieter, Beigeladener, Foerdermittelempfaenger, Projektsteuerer oder Kanzlei.
-2. Verfahrensstand klaeren: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachpruefung, Beschwerde oder Schadensersatz.
-3. Schwellenwert und Rechtsweg pruefen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Foerdermittel oder Sonderregime.
+1. Rolle klären: Auftraggeber, Bieter, Beigeladener, Foerdermittelempfaenger, Projektsteuerer oder Kanzlei.
+2. Verfahrensstand klären: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachpruefung, Beschwerde oder Schadensersatz.
+3. Schwellenwert und Rechtsweg prüfen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Foerdermittel oder Sonderregime.
 4. Fristen sichern: Ruge, Angebotsfrist, Stillhaltefrist, 15-Tage-Frist nach Nichtabhilfe, Beschwerdefrist, Paragraph 135 GWB-Fristen.
-5. Erst danach in die materielle Pruefung gehen.
+5. Erst danach in die materielle Prüfung gehen.
 
 ## Pflicht-Output
 
@@ -40,10 +40,10 @@ Fristen- und Kenntnismatrix, Unwirksamkeitsantrag, Verteidigungsargumente.
 ## Qualitaetsgates
 
 - Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
-- Keine ungeprueften Schwellenwerte. Fuer 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu pruefen.
+- Keine ungeprueften Schwellenwerte. Für 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu prüfen.
 - Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
 - Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?
-- Bieterseitig immer taktisch pruefen: Rugen, nachfragen, Angebot abgeben, Nachpruefung, Vergleich oder Schadensersatz.
+- Bieterseitig immer taktisch prüfen: Rugen, nachfragen, Angebot abgeben, Nachpruefung, Vergleich oder Schadensersatz.
 
 ## Anschluss-Skills
 
@@ -57,8 +57,8 @@ Fristen- und Kenntnismatrix, Unwirksamkeitsantrag, Verteidigungsargumente.
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

@@ -36,8 +36,8 @@ Dieser Skill erklaert **Arbeitslosengeld Sperrzeit** so, dass auch Menschen ohne
 - Verkuerzung bei besonderer Haerte: § 159 Abs. 3 SGB III – 6 oder 3 Wochen.
 - Wichtiger Grund: BSG-Linie und Fachliche Weisungen BA – z. B. drohende Krankheit, Mobbing nachweisbar, Pflege Angehoeriger, Umzug zum Partner.
 - Sperrzeit Arbeitsablehnung: § 159 Abs. 1 Nr. 2 SGB III – 3 Wochen erste Ablehnung, 6 Wochen zweite, 12 Wochen ab dritter.
-- Folge: ALG ruht (§ 159 Abs. 1 SGB III) und Anspruchsdauer verkuerzt sich (§ 148 Abs. 1 Nr. 4 SGB III); Ueberbruckung ggf. ueber Buergergeld (SGB II).
-- Krankenversicherung: § 5 SGB V – Pflichtversicherung bleibt waehrend Sperrzeit i. d. R. bestehen (§ 5 Abs. 1 Nr. 2a SGB V); freiwillige Versicherung pruefen.
+- Folge: ALG ruht (§ 159 Abs. 1 SGB III) und Anspruchsdauer verkuerzt sich (§ 148 Abs. 1 Nr. 4 SGB III); Ueberbruckung ggf. über Buergergeld (SGB II).
+- Krankenversicherung: § 5 SGB V – Pflichtversicherung bleibt waehrend Sperrzeit i. d. R. bestehen (§ 5 Abs. 1 Nr. 2a SGB V); freiwillige Versicherung prüfen.
 - Praxis-Tipp: Bei Aufhebungsvertrag oder Eigenkuendigung VOR Unterschrift Beratungs­hilfe holen. Nachher: Widerspruch (§ 84 SGG, 1 Monat) gegen Sperrzeitbescheid und parallel Buergergeldantrag stellen. Wichtiger Grund detailliert mit Belegen (Atteste, Zeugen, Korrespondenz) substantiieren – pauschale Behauptungen reichen nicht.
 
 ## Erst sortieren

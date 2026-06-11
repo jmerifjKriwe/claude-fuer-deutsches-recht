@@ -81,8 +81,8 @@ Das Erlernte wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertr
 | Skill | Zweck |
 |---|---|
 | **ersteinrichtung** | Interview, das `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` schreibt |
-| **lieferantenvertrag-pruefung** | Vollständige Abweichungsanalyse gegen den Vorgehensleitfaden mit Klausel-Redlines (§§ 631, 611 BGB; LkSG) |
-| **nda-pruefung** | Schnelle GRÜN/GELB/ROT-Triage (§§ 17 ff. GeschGehG, § 241 II BGB) |
+| **lieferantenvertrag-prüfung** | Vollständige Abweichungsanalyse gegen den Vorgehensleitfaden mit Klausel-Redlines (§§ 631, 611 BGB; LkSG) |
+| **nda-prüfung** | Schnelle GRÜN/GELB/ROT-Triage (§§ 17 ff. GeschGehG, § 241 II BGB) |
 | **saas-msa-pruefung** | SaaS-/MSA-spezifische Prüfung: AGB, Datenschutz Art. 28 DSGVO, Haftung, Preiseskalation |
 | **vertragsverlaengerungs-monitor** | Register der Kündigungsfristen; zeigt Fristen gemäß § 309 Nr. 9 BGB |
 | **eskalation** | Eskalationsmatrix aus dem Vorgehensleitfaden, Vorlage für Genehmigungsanfrage |
@@ -211,7 +211,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `nda-durchsetzer` | 'Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich,... |
 | `nda-pruefungsvorschlaege-saas-msa` | Schnelle Triage von eingehenden NDA-/Geheimhaltungsvereinbarungen in GRÜN / GELB / ROT, damit nur die Vereinbarungen anwaltliche Zeit beanspruchen, die sie wirklich brauchen. Geeignet für Vertrieb und BD zur eigenständigen Erstprüfung. W... |
 | `output-waehlen` | Output-Wahl für Vertragsrecht (BGB-Vertragsrecht): stimmt Adressat (Vertragsparteien, Drittbegünstigte), Frist (Verjährung 3 Jahre § 195 BGB) und Form auf den Zweck ab — typische Outputs: Vertragsentwurf, AGB-Check, Klage Erfüllung. |
-| `pruefung-red-team-und-qualitaetskontrolle` | Pruefung: Red-Team und Qualitätskontrolle im Vertragsrecht. |
+| `pruefung-red-team-und-qualitaetskontrolle` | Prüfung: Red-Team und Qualitätskontrolle im Vertragsrecht. |
 | `pruefungsvorschlaege` | Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer Pla... |
 | `quellen-livecheck` | Quellen-Live-Check für Vertragsrecht (BGB-Vertragsrecht): prüft Normen (BGB §§ 145 ff., 305 ff., HGB §§ 343 ff.) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgerichte und Quellenhygiene nach references/que... |
 | `rahmenvertrag-beweislast-vertragsrecht-vert` | Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung im Vertragsrecht. |

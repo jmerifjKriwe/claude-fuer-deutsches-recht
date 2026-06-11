@@ -36,7 +36,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## Verkehrsrechts-Fristennotiz / naechster Schritt Bausteine
-- **Frist-Uebersicht pro Saeule:**
+- **Frist-Übersicht pro Saeule:**
  - **Verkehrszivilrecht:** Verjährung Schaden § 195 BGB 3 Jahre ab Kenntnis § 199 BGB; Verzug § 286 BGB; Zinsen § 288 BGB; KH-Versicherer Frist § 14 PflVG 4 Wochen bei klarer Haftung.
  - **OWi:** Einspruch § 67 OWiG 2 Wochen; Verjährung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis Urteil 1. Instanz); Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat.
  - **Verkehrsstrafrecht:** § 410 StPO Strafbefehl-Einspruch 2 Wochen; § 314 StPO Berufung 1 Woche; § 341 / § 345 StPO Revision 1 Woche / 1 Monat.
@@ -59,7 +59,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Unfall mit Verletzten:** Sofort SV-Gutachten + Krankenakte + Krankenkasse-Anspruch § 116 SGB X; Versicherer in Anspruch nehmen.
  - **Bussgeldbescheid:** Akteneinsicht § 49 OWiG sofort; Einspruchsentscheidung in 2 Wochen.
  - **Vorlaeufige Entziehung Fahrerlaubnis § 111a StPO:** Beschwerde § 304 StPO sofort.
- - **Anhörung FeV-Behörde:** Stellungnahme mit anwaltlicher Pruefung Befunde.
+ - **Anhörung FeV-Behörde:** Stellungnahme mit anwaltlicher Prüfung Befunde.
  - **Schadenregulierung Versicherer:** Bei Streit oder Verzoegerung Klage zum AG / LG je Streitwert.
 - **Live-Quellen:**
  - gesetze-im-internet.de (Bundesnormen).

@@ -24,7 +24,7 @@ Ein Franchisesystem tauscht regelmässig Umsatzdaten, Preislisten und Kapazität
 3. Sensitivität der ausgetauschten Daten bewerten: Preisdaten, Kapazitätsdaten, Umsatzdaten, Kundendaten als besonders sensibel.
 4. Aggregationsgrad prüfen: Werden Rohdaten oder aggregierte Systemdurchschnittswerte ausgetauscht?
 5. Zeitnähe und Aktualität der Daten: Historische Daten (über 1 Jahr alt) sind weniger problematisch als Echtzeit-Preisdaten.
-6. Compliance-Massnahmen für Franchisenehmertreffen und Newsletter entwickeln.
+6. Compliance-Maßnahmen für Franchisenehmertreffen und Newsletter entwickeln.
 
 ## Rechtsrahmen
 

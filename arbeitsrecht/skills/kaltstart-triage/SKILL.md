@@ -5,7 +5,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Arbeitsrecht-Plugin. Fr
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Arbeitsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Arbeitsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -151,7 +151,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `entfristung-sachgrund-pruefen-14-abs-1` | Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechung zu… |
 | `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG. |
 | `entfristung-sachgrundlos-14-abs-2a-neugruendung` | Sachgrundlose Befristung bei Unternehmensneugründung nach § 14 Abs. 2a TzBfG: vier Jahre Gesamtdauer; Neugründungsprivileg; Voraussetzungen der Neugründung; Abgrenzung zu blossen Unternehmensumstrukturierungen. |
-| `entfristung-sachgrundlos-14-abs-3-aelter-52` | Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Massnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit… |
+| `entfristung-sachgrundlos-14-abs-3-aelter-52` | Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Maßnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit… |
 | `entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG für Befristungsabreden; Papieroriginal oder echte QES; Scan/einfache Signatur genügt nicht; Rechtsfolge § 16 Satz 1 TzBfG Vertrag gilt… |
 | `entfristung-triage-was-will-user` | Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kündigungsschutzklage; Überblick Prüfprogramm TzBfG; Weiterleitung zu passenden… |
 | `entfristung-vergleichsverhandlung-checkliste` | Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestätigung oder Beendigungsdatum mit Abfindung; Weiterbeschaeftigung oder Aufhebung; Zeugnis; Freistellung; Urlaubsabgeltung; Klageerledigung;… |
@@ -189,7 +189,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `kueschk-stricken-anwalt-risiko-und-vergleichsdruck` | KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts; Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag § 9 KSchG; § 12 KSchG einseitige… |
 | `kueschk-triage-laie-oder-anwalt` | KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie; bei Laie ständige Warnungen und dringende Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; leitet zu passenden Folge-Skills;… |
 | `kueschk-vergleichsverhandlung-checkliste` | Checkliste für Kündigungsschutz-Vergleiche: Beendigungsdatum; Abfindung nach Faustformel; Freistellung und Urlaubsabgeltung; Zeugnisnote und -formulierung; Klageerledigung; Outplacement; Rücklage-Klausel; alle Punkte… |
-| `kueschk-weiterbeschaeftigungsantrag-grosser-senat` | Weiterbeschaeftigungsantrag nach BAG Grosser Senat 1985: Voraussetzungen des allgemeinen Weiterbeschaeftigungsanspruchs; Vor- und Nachteile aus Arbeitnehmersicht; Vollstreckung; Unterschied zum § 102 Abs. 5 BetrVG… |
+| `kueschk-weiterbeschaeftigungsantrag-grosser-senat` | Weiterbeschaeftigungsantrag nach BAG Großer Senat 1985: Voraussetzungen des allgemeinen Weiterbeschaeftigungsanspruchs; Vor- und Nachteile aus Arbeitnehmersicht; Vollstreckung; Unterschied zum § 102 Abs. 5 BetrVG… |
 | `kueschk-zeugnisanspruch-und-vergleich` | Zeugnisanspruch nach § 109 GewO: qualifiziertes Zeugnis; BAG-Mindestnote befriedigend bei fehlender Substantiierung; Formulierungsrisiken und geheime Negativsignale; typische Vergleichsformulierungen für Zeugnisse. |
 | `lohn-arbeitszeit-fragen` | Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG (Höchstarbeitszeit, Pausen, Ruhezeiten, Aufzeichnungspflichten), MiLoG (Mindestlohn, Aufzeichnungspflicht), EFZG (Entgeltfortzahlung im Krankheitsfall),… |
 | `lohnsteuer-sozialversicherung` | Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit,… |
@@ -205,7 +205,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Arbeitsrecht-Plugin deckt das gesamte Individual- und Kollektivarbeitsrecht für Arbeitgeber und Arbeitnehmer ab: Kuendigungsschutzklage (KSchG), Entfristungsklage (TzBfG), Aufhebungsvertrag, Abmahnung, Betriebsratsanhoerung (§ 102 BetrVG), Betriebsuebergang (§ 613a BGB), Massenentlassung (§ 17 KSchG), AGG-Pruefung, HinSchG-Whistleblower, Mindestlohn, Arbeitszeiterfassung sowie interne Untersuchungen und internationale Expansion. Aktuelle BAG-Rechtsprechung 2025/2026 ist eingearbeitet (Equal Pay, Mindesturlaub-Verzicht, Freistellungsklausel).
+Das Arbeitsrecht-Plugin deckt das gesamte Individual- und Kollektivarbeitsrecht für Arbeitgeber und Arbeitnehmer ab: Kuendigungsschutzklage (KSchG), Entfristungsklage (TzBfG), Aufhebungsvertrag, Abmahnung, Betriebsratsanhoerung (§ 102 BetrVG), Betriebsuebergang (§ 613a BGB), Massenentlassung (§ 17 KSchG), AGG-Prüfung, HinSchG-Whistleblower, Mindestlohn, Arbeitszeiterfassung sowie interne Untersuchungen und internationale Expansion. Aktuelle BAG-Rechtsprechung 2025/2026 ist eingearbeitet (Equal Pay, Mindesturlaub-Verzicht, Freistellungsklausel).
 
 Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbeitgeber- als auch Arbeitnehmer-Mandate betreuen.
 
@@ -243,10 +243,10 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Arbeitnehmer, Arbeitgeber, Betriebsrat, Geschaeftsfuehrer oder Syndikus?
+1. Mandantenkonstellation klären: Arbeitnehmer, Arbeitgeber, Betriebsrat, Geschaeftsfuehrer oder Syndikus?
 2. Phase des Mandats bestimmen: Noch keine Kuendigung (praeventiv), Kuendigung ausgesprochen/erhalten (Fristensicherung), laufendes Verfahren oder Abschluss?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: § 4 KSchG drei Wochen ab Zugang der Kuendigung; § 17 TzBfG drei Wochen ab vereinbartem Vertragsende — beide absolute Ausschlussfristen.
+4. Eilfristen prüfen: § 4 KSchG drei Wochen ab Zugang der Kuendigung; § 17 TzBfG drei Wochen ab vereinbartem Vertragsende — beide absolute Ausschlussfristen.
 5. Anschluss-Skill bestimmen: Nach Triage zu Kuendigungsschutzklage-Skills, Entfristungsklage-Skills oder Aufhebungsvertrag.
 
 ## Skill-Tour (was gibt es hier?)
@@ -259,12 +259,12 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 **Kuendigungsschutzklage (kueschk-)**
 - `kueschk-triage-laie-oder-anwalt` — Kerneinstieg: Anwalt oder Laie? Dringende Empfehlung und Routing.
-- `kuendigungs-pruefung` — Rechtliche Pruefung einer ordentlichen oder ausserordentlichen Kuendigung.
+- `kuendigungs-pruefung` — Rechtliche Prüfung einer ordentlichen oder ausserordentlichen Kuendigung.
 - `kuendigungsschutzklage` — Entwurf der Kuendigungsschutzklage nach § 4 KSchG.
-- `kueschk-anwendbarkeit-kschg-pruefen` — Wartezeit (sechs Monate) und Schwellenwert (zehn Arbeitnehmer) pruefen.
+- `kueschk-anwendbarkeit-kschg-pruefen` — Wartezeit (sechs Monate) und Schwellenwert (zehn Arbeitnehmer) prüfen.
 - `kueschk-frist-und-zugang-pruefen` — § 4 KSchG Fristberechnung und Zugangsbeweis.
 - `kueschk-formfehler-pruefen` — Schriftform, Vollmachtsruege § 174 BGB, Betriebsratsanhoerung.
-- `kueschk-kuendigungsgrund-personen-verhalten-betrieb` — Drei Kuendigungsgruende nach § 1 Abs. 2 KSchG pruefen.
+- `kueschk-kuendigungsgrund-personen-verhalten-betrieb` — Drei Kuendigungsgruende nach § 1 Abs. 2 KSchG prüfen.
 - `kueschk-sonderkuendigungsschutz-checkliste` — Schwangerschaft, Elternzeit, Schwerbehinderung, BR-Mitglied.
 - `kueschk-klageschrift-anwalt-baustein` — Anwaltliche Klageschrift mit Hilfsantraegen und Beweisangeboten.
 - `kueschk-klageschrift-laie-baustein` — Klageschrift-Baustein für Laien mit Warnkopf.
@@ -277,7 +277,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - `kueschk-erwiderung-arbeitgeber-strategien-typisch` — Typische Verteidigungsstrategien des Arbeitgebers.
 - `kueschk-replik-arbeitnehmer-baustein` — Reaktion auf Klageerwiderung des Arbeitgebers.
 - `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst` — Annahmeverzugslohn § 615 BGB und Zwischenverdienst-Anrechnung.
-- `kueschk-weiterbeschaeftigungsantrag-grosser-senat` — Weiterbeschaeftigungsantrag nach BAG Grosser Senat 1985.
+- `kueschk-weiterbeschaeftigungsantrag-grosser-senat` — Weiterbeschaeftigungsantrag nach BAG Großer Senat 1985.
 - `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg` — Aufloeungsantrag § 9 KSchG bei Unzumutbarkeit.
 - `kueschk-paragraph-12-kschg-neuer-job-einseitig` — § 12 KSchG einseitige Loesung nach neuem Arbeitsverhaeltnis.
 - `kueschk-stricken-anwalt-risiko-und-vergleichsdruck` — Warnung vor Stricken-Strategie des Arbeitgeberanwalts.
@@ -293,7 +293,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - `entfristung-schriftform-14-abs-4-erkennen` — KERNSKILL: Schriftformmangel nach § 14 Abs. 4 TzBfG als Unwirksamkeitsgrund.
 - `entfristung-elektronische-signatur-vorsicht` — Scan/einfache Signatur von echter QES trennen; Rechtsfolge bei Formmangel Unbefristetheit.
 - `entfristung-grundwarnung-drei-wochen-frist` — § 17 TzBfG absolute Ausschlussfrist drei Wochen.
-- `entfristung-sachgrund-pruefen-14-abs-1` — Acht Sachgruende nach § 14 Abs. 1 TzBfG pruefen.
+- `entfristung-sachgrund-pruefen-14-abs-1` — Acht Sachgruende nach § 14 Abs. 1 TzBfG prüfen.
 - `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` — Sachgrundlose Befristung und Vorbeschaeftigungsverbot.
 - `entfristung-sachgrundlos-14-abs-2a-neugruendung` — Neugründungsprivileg § 14 Abs. 2a TzBfG.
 - `entfristung-sachgrundlos-14-abs-3-aelter-52` — Befristung aelterer Arbeitnehmer nach § 14 Abs. 3 TzBfG.
@@ -305,14 +305,14 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - `entfristung-vergleichsverhandlung-checkliste` — Vergleichsbausteine in der Entfristungsklage.
 
 **Aufhebungsvertrag und Abmahnung**
-- `aufhebungsvertrag` — Entwurf, Pruefung und Verhandlung eines Aufhebungsvertrags.
+- `aufhebungsvertrag` — Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags.
 - `aufhebungsvertrag-sperrzeit-prognose` — Sperrzeit-Risiko beim Aufhebungsvertrag nach § 159 SGB III.
 - `abmahnung-arbeitsrecht` — Abmahnungsschreiben oder Gegendarstellung und Widerspruchsschreiben.
 
 **Betriebsrat und kollektives Arbeitsrecht**
 - `betriebsrat-anhoerung` — Betriebsratsanhoerung nach § 102 BetrVG: Inhalt, Fristen, Reaktion.
 - `betriebsrat-beschluss-heilung-nachtraeglich` — Heilung unwirksamer Betriebsratsbeschluesse; BAG 25.09.2024.
-- `betriebsrat-ladung-und-ersatzmitglieder-pruefen` — Ordnungsgemaesse Ladung und Nachrückreihenfolge pruefen.
+- `betriebsrat-ladung-und-ersatzmitglieder-pruefen` — Ordnungsgemaesse Ladung und Nachrückreihenfolge prüfen.
 - `massenentlassung-17-kschg` — Massenentlassungsanzeige und Konsultation Betriebsrat nach § 17 KSchG.
 
 **Status, Expansion und Einstellungspruefung**
@@ -334,7 +334,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 **Handbuch, Richtlinien und Untersuchungen**
 - `richtlinien-entwurf` — Betriebliche Richtlinie mit standortspezifischen Ergaenzungen entwerfen.
-- `handbuch-aktualisierung` — Personalhandbuch auf Folgewirkungen und Mitbestimmungsrechte pruefen.
+- `handbuch-aktualisierung` — Personalhandbuch auf Folgewirkungen und Mitbestimmungsrechte prüfen.
 - `untersuchung-eroeffnen` — Neue interne Untersuchungssache eroeffnen und Protokoll anlegen.
 - `untersuchung-ergaenzen` — Laufende Untersuchung mit neuen Daten und Dokumenten erganzen.
 - `untersuchung-abfrage` — Fragen gegen das laufende Untersuchungsprotokoll stellen.
@@ -383,12 +383,12 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 ## Aktuelle BAG-Linie 2025/2026 (live verifizieren vor Schriftsatzverwendung)
 
-Drei aktuelle Leitentscheidungen, die ueber das Arbeitsrecht in den letzten zwoelf Monaten besonders weit ausstrahlen:
+Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoelf Monaten besonders weit ausstrahlen:
 
 | Entscheidung | Tragende Aussage | Skill-Vertiefung |
 | --- | --- | --- |
-| **BAG, Urt. v. 23.10.2025 - 8 AZR 300/24** | **Equal Pay - Paarvergleich genuegt.** Eine einzige besser bezahlte Vergleichsperson des anderen Geschlechts mit gleicher oder gleichwertiger Arbeit reicht, um die Vermutung des $ 22 AGG auszuloesen. Der Arbeitgeber muss konkret darlegen, dass die Differenz ausschliesslich auf objektiven, geschlechtsneutralen Gruenden beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick reichen nicht. Art. 157 AEUV bekommt damit Schaerfe. | `bag-equal-pay-paarvergleich` (fachanwalt-arbeitsrecht) / `bag-equal-pay-paarvergleich-8azr30024` (arbeitsrecht) |
-| **BAG, Urt. v. 03.06.2025 - 9 AZR 104/24** | **Kein Verzicht auf gesetzlichen Mindesturlaub.** Im bestehenden Arbeitsverhaeltnis koennen Arbeitnehmer:innen auf den gesetzlichen Mindesturlaub nicht wirksam verzichten - auch nicht durch gerichtlichen Vergleich. Gilt selbst dann, wenn die Beendigung bereits feststeht und absehbar ist, dass der Urlaub krankheitsbedingt nicht mehr genommen werden kann. Ausgleichs-/Erledigungs-/Abgeltungsklauseln muessen sauber zwischen gesetzlichem Mindesturlaub, vertraglichem Mehrurlaub und bereits entstandener Urlaubsabgeltung unterscheiden. | `bag-mindesturlaub-kein-verzicht` (fachanwalt-arbeitsrecht) / `bag-mindesturlaub-kein-verzicht-9azr10424` (arbeitsrecht) |
-| **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschaeftigte nach Kuendigung unter Fortzahlung der Verguetung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall moeglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
+| **BAG, Urt. v. 23.10.2025 - 8 AZR 300/24** | **Equal Pay - Paarvergleich genuegt.** Eine einzige besser bezahlte Vergleichsperson des anderen Geschlechts mit gleicher oder gleichwertiger Arbeit reicht, um die Vermutung des $ 22 AGG auszuloesen. Der Arbeitgeber muss konkret darlegen, dass die Differenz ausschließlich auf objektiven, geschlechtsneutralen Gruenden beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick reichen nicht. Art. 157 AEUV bekommt damit Schaerfe. | `bag-equal-pay-paarvergleich` (fachanwalt-arbeitsrecht) / `bag-equal-pay-paarvergleich-8azr30024` (arbeitsrecht) |
+| **BAG, Urt. v. 03.06.2025 - 9 AZR 104/24** | **Kein Verzicht auf gesetzlichen Mindesturlaub.** Im bestehenden Arbeitsverhaeltnis können Arbeitnehmer:innen auf den gesetzlichen Mindesturlaub nicht wirksam verzichten - auch nicht durch gerichtlichen Vergleich. Gilt selbst dann, wenn die Beendigung bereits feststeht und absehbar ist, dass der Urlaub krankheitsbedingt nicht mehr genommen werden kann. Ausgleichs-/Erledigungs-/Abgeltungsklauseln müssen sauber zwischen gesetzlichem Mindesturlaub, vertraglichem Mehrurlaub und bereits entstandener Urlaubsabgeltung unterscheiden. | `bag-mindesturlaub-kein-verzicht` (fachanwalt-arbeitsrecht) / `bag-mindesturlaub-kein-verzicht-9azr10424` (arbeitsrecht) |
+| **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschaeftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
 
 > Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Pruefschemata, Klagebausteine und Verteidigungsmuster.

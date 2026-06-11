@@ -15,16 +15,16 @@ description: "REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei 
 
 ## Mandantenfall
 
-- Chemie-Exporteur moechte bestimmte Pflanzenschutzmittel in Drittlaender ausliefern; PIC-Meldung klaeren.
+- Chemie-Exporteur moechte bestimmte Pflanzenschutzmittel in Drittlaender ausliefern; PIC-Meldung klären.
 - Importeur von Industriechemikalien fragt nach REACH-Registrierungspflicht für den EU-Markt.
 - Lagerhalter erhaelt Zollruecklage wegen fehlender Sicherheitsdatenblatt-Dokumentation.
 
 ## Erste Schritte
 
 1. Stoff identifizieren: REACH-Registrierung geprueft (ECHA-Datenbank) und SDS vorliegt?
-2. PIC-Pflicht nach VO 649/2012 pruefen: Stoff in Anhang I (verbotene Stoffe) oder Anhang V?
+2. PIC-Pflicht nach VO 649/2012 prüfen: Stoff in Anhang I (verbotene Stoffe) oder Anhang V?
 3. Vorab-Benachrichtigungsverfahren (DNS) bei ECHA einleiten falls PIC-pflichtig.
-4. Import: Registrierung und Sicherheitsdatenblatt-Pflicht bei Importen ueber 1 Tonne.
+4. Import: Registrierung und Sicherheitsdatenblatt-Pflicht bei Importen über 1 Tonne.
 5. Export: Exportbenachrichtigung an ECHA und Einwilligung des Importlandes einholen.
 6. ECHA-Dokumentation archivieren; Zollabfertigung mit PIC-Konformitaetsnachweis unterstuetzen.
 
@@ -47,7 +47,7 @@ description: "REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei 
 
 ## Typische Fallstricke
 
-- PIC-Verfahren dauert Monate; Liefertermine muessen eingeplant werden.
+- PIC-Verfahren dauert Monate; Liefertermine müssen eingeplant werden.
 - Fehlende SDS-Dokumentation fuehrt zu Zollruecklage; nicht nachreichbar ohne Neulieferung.
 - REACH-Registrierung verfaellt bei Jahres-Mengenunterschreitung.
 - Weiterverkauf registrierter Stoffe in EU erfordert eigene Downstream-User-Pflichten.

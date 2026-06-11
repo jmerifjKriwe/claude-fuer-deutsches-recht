@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -39,7 +39,7 @@ Das mittelalterliche Stadtrecht entstand als Privileg der Stadtgruender (Landesh
 - **Magdeburger Schoeffen-Weistum** (1261): Grundlage des Magdeburger Rechts
 - **Luebisches Recht** (Luebecker Stadtrecht 1240): Grundlage des Luebischen Rechts
 - **Hamburg Stadtrecht 1270 (Ordeelbook)**: Fruehes Hamburger Handels- und Prozessrecht
-- **Hanse-Rezesse** (14.-16. Jh.): Beschluesse der Hansetage
+- **Hanse-Rezesse** (14.-16. Jh.): Beschlüsse der Hansetage
 - **Nuernberger Stadtrecht 1564**: Spaetmittelalterliches Beispiel komplexer Stadtverfassung
 
 ## Akteure und Institutionen

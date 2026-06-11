@@ -24,7 +24,7 @@ Bei Aussetzung zur Bewaehrung kann das Gericht **Auflagen** (§ 56b StGB) und **
 ## Wann brauchen Sie diese Skill?
 
 - Sie verteidigen vor einer Hauptverhandlung mit Aussicht auf Bewaehrung und wollen das Gericht durch konkrete Auflagenangebote unterstuetzen.
-- Sie pruefen einen Bewaehrungsbeschluss, dessen Weisungen unzumutbar oder unverhaeltnismaessig sind.
+- Sie prüfen einen Bewaehrungsbeschluss, dessen Weisungen unzumutbar oder unverhaeltnismaessig sind.
 - Sie begleiten den Mandanten in der Bewaehrungszeit (Pflichten, Risiken).
 
 ## Rechtliche Grundlagen
@@ -52,20 +52,20 @@ Beispiele:
 
 ### § 56d StGB — Bewaehrungshelfer
 
-Das Gericht **kann** einen Bewaehrungshelfer bestellen. Bei Strafe ueber 9 Monaten und bei Verurteilten unter 27 Jahren ist die Bestellung Regelfall.
+Das Gericht **kann** einen Bewaehrungshelfer bestellen. Bei Strafe über 9 Monaten und bei Verurteilten unter 27 Jahren ist die Bestellung Regelfall.
 
 ## Grenzen
 
-- Auflagen und Weisungen muessen **zumutbar** sein (§ 56b Abs. 1 Satz 1, § 56c Abs. 1 Satz 1 StGB).
-- Sie duerfen den Verurteilten nicht in der **Lebensfuehrung** unverhaeltnismaessig einschraenken.
+- Auflagen und Weisungen müssen **zumutbar** sein (§ 56b Abs. 1 Satz 1, § 56c Abs. 1 Satz 1 StGB).
+- Sie dürfen den Verurteilten nicht in der **Lebensfuehrung** unverhaeltnismaessig einschraenken.
 - Therapieweisungen nur mit **Einwilligung** des Verurteilten (§ 56c Abs. 3 Nr. 1, 2 StGB) — Therapie ist nicht erzwingbar.
-- Geldauflagen muessen wirtschaftlich tragbar sein.
+- Geldauflagen müssen wirtschaftlich tragbar sein.
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Vor der Hauptverhandlung**: Auflagenpaket mit dem Mandanten abstimmen — was kann er tragen?
  - Schadenswiedergutmachung an den Geschaedigten (auch Ratenangebot).
- - Geldbetrag an eine konkrete gemeinnuetzige Einrichtung in einer wirtschaftlich tragbaren Hoehe.
+ - Geldbetrag an eine konkrete gemeinnuetzige Einrichtung in einer wirtschaftlich tragbaren Höhe.
  - Stundenangebot für gemeinnuetzige Arbeit (z.B. 60 oder 100 Stunden).
 2. **Im Plaedoyer** ausdruecklich anbieten:
  - "Mein Mandant ist bereit, zur Genugtuung [...] zu zahlen."
@@ -74,7 +74,7 @@ Das Gericht **kann** einen Bewaehrungshelfer bestellen. Bei Strafe ueber 9 Monat
  - Therapie nur mit Einwilligung.
  - Aufenthaltsweisungen, die Arbeitsstelle gefaehrden, ablehnen.
  - Kontaktverbote nur, wenn der Mandant einverstanden ist.
-4. **Nach Verkuendung**: Auflagen-/Weisungs-Beschluss pruefen, ggf. **sofortige Beschwerde** nach § 305a StPO oder § 311 StPO innerhalb einer Woche.
+4. **Nach Verkuendung**: Auflagen-/Weisungs-Beschluss prüfen, ggf. **sofortige Beschwerde** nach § 305a StPO oder § 311 StPO innerhalb einer Woche.
 
 ## Standardauflagen (Praxis)
 
@@ -106,7 +106,7 @@ VI. Belehrung nach § 268a Abs. 3 StPO.
 
 - **Therapieweisung ohne Einwilligung**: unwirksam; § 56c Abs. 3 StGB.
 - **Geldauflage** unwirtschaftlich angesetzt: Verurteilter kann nicht zahlen, Widerrufsgefahr.
-- **Aufenthaltsweisung** kollidiert mit Arbeitsstelle: laesst sich oft korrigieren mit sofortiger Beschwerde.
+- **Aufenthaltsweisung** kollidiert mit Arbeitsstelle: lässt sich oft korrigieren mit sofortiger Beschwerde.
 - **Auflagenangebote** zu spaet (erst nach Verkuendung): wirkt nicht mehr strafzumessend.
 - **Standardauflage** ohne Bezug zur Tat: schwaecht Wirkung.
 

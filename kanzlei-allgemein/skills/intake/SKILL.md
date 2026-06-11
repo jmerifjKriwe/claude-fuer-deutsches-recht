@@ -7,7 +7,7 @@ description: "Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iM
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Kanzlei Allgemein** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Kanzlei Allgemein** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -28,7 +28,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Ueber welchen Kanal ist der Eingang erfolgt: Brief, beA, E-Mail, Telefonnotiz, Messenger?
+1. Über welchen Kanal ist der Eingang erfolgt: Brief, beA, E-Mail, Telefonnotiz, Messenger?
 2. Gibt es ein bestehendes Mandat, dem der Eingang zugeordnet werden kann, oder handelt es sich um einen Neueingang?
 3. Enthaelt der Eingang fristwahrendes Material (Klage, Bescheid, Urteil, EB)?
 4. Sind Datenschutzrisiken oder Mandatsgeheimnis-relevante Informationen im Eingang enthalten?

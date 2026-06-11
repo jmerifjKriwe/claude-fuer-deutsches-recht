@@ -9,6 +9,6 @@
 | Ausnahme § 2 Abs. 3 LobbyRG |  |  |  |  |
 | Freiwillige Registrierung sinnvoll |  |  |  |  |
 
-**Triggerdatum fuer unverzuegliche Eintragung:**
+**Triggerdatum für unverzuegliche Eintragung:**
 
 **Offene Fragen:**

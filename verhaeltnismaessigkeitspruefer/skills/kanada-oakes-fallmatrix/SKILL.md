@@ -10,7 +10,7 @@ description: Rechtsvergleichende Fallmatrix zu Leitentscheidungen des Supreme Co
 Ein Schriftsatz, Gutachten oder Seminarpapier soll zeigen, wie der
 Supreme Court of Canada Eingriffe in Charter-Rechte durch den
 Oakes-Test diszipliniert. Der Vergleich dient als Denkwerkzeug, nicht
-als Ersatz fuer Art. 1 bis 19 GG und die BVerfG-Rechtsprechung.
+als Ersatz für Art. 1 bis 19 GG und die BVerfG-Rechtsprechung.
 
 ## Leitentscheidungen im Ueberblick
 
@@ -33,21 +33,21 @@ Pruefraster und befand, dass kein rationaler Zusammenhang zwischen
 bloss em Besitz und Handelsabsicht besteht: die reverse onus erfasst
 auch kleinste Mengen und ist daher nicht rational.
 
-Bedeutung fuer den Pruefer: Wenn der gesetzliche Schluss von Indiz auf
+Bedeutung für den Prüfer: Wenn der gesetzliche Schluss von Indiz auf
 Tatbestand zu weit greift, scheitert bereits die Geeignetheit. Pendant
 zur deutschen Diskussion um Beweislastumkehr und Indizregelungen.
 
 ## Edwards Books and Art Ltd v The Queen [1986] 2 SCR 713
 
 Ontario Retail Business Holidays Act verbot Sonntagsoeffnung mit
-Ausnahmen fuer kleine Geschaefte und juedische Haendler mit Samstagsruhe.
-Die Maehrheit hielt das Gesetz fuer verhaeltnismaessig: der Gesetzgeber
+Ausnahmen für kleine Geschaefte und juedische Haendler mit Samstagsruhe.
+Die Maehrheit hielt das Gesetz für verhaeltnismaessig: der Gesetzgeber
 darf bei komplexen sozialpolitischen Materien einen Gestaltungsspielraum
 beanspruchen, solange die Ausnahmen die Belastung mildern.
 
-Bedeutung fuer den Pruefer: Vergleichbar mit BVerfGE 50, 290
+Bedeutung für den Prüfer: Vergleichbar mit BVerfGE 50, 290
 (Mitbestimmung) zur Einschaetzungspraerogative bei komplexer
-Wirtschafts- und Sozialregulierung. Argument fuer Deferenz bei
+Wirtschafts- und Sozialregulierung. Argument für Deferenz bei
 mehrpoliger Abwaegung.
 
 ## RJR-MacDonald Inc v Canada [1995] 3 SCR 199
@@ -58,7 +58,7 @@ geschuetzt; die Regierung hatte nicht hinreichend nachgewiesen, dass
 ein totales Werbeverbot mildester Eingriff sei. Verfassungswidrig auf
 minimal impairment.
 
-Bedeutung fuer den Pruefer: Der SCC verlangt belastbare empirische
+Bedeutung für den Prüfer: Der SCC verlangt belastbare empirische
 Begruendung. Pendant zu BVerfG-Anforderungen an Prognosegrundlagen
 (vgl. BVerfGE 50, 290; BVerfGE 121, 317 Nichtraucherschutz).
 
@@ -71,7 +71,7 @@ ist gewahrt, da die Provinz keine gleich effektive mildere
 Datensicherungsalternative hat; und die proportionality of effects
 fiel zugunsten des Staates aus.
 
-Bedeutung fuer den Pruefer: Wichtige Korrektur an minimal impairment.
+Bedeutung für den Prüfer: Wichtige Korrektur an minimal impairment.
 Der SCC verlagert Gewicht auf die Endabwaegung. Pendant zur deutschen
 Diskussion, dass Angemessenheit nicht in Erforderlichkeit aufgehen darf.
 
@@ -83,11 +83,11 @@ geprueft. Der SCC: alle drei Normen waren grossly disproportionate
 oder overbroad und damit nicht in Einklang mit principles of fundamental
 justice. Verfassungswidrig.
 
-Bedeutung fuer den Pruefer: Innerhalb von Section 7 hat der SCC eigene
-Pruefkategorien (arbitrariness, overbreadth, gross disproportionality)
+Bedeutung für den Prüfer: Innerhalb von Section 7 hat der SCC eigene
+Pruefkategorien (arbitrariness, overbreadth, groß disproportionality)
 entwickelt, die teilweise Section 1 vorgelagert sind. Pendant zur
-deutschen Diskussion ueber strukturelle Inkonsequenz im
-Eingriffsrecht und ueber Schutzpflichten gegenueber besonders
+deutschen Diskussion über strukturelle Inkonsequenz im
+Eingriffsrecht und über Schutzpflichten gegenueber besonders
 verletzlichen Gruppen.
 
 ## Carter v Canada [2015] 1 SCR 331
@@ -97,10 +97,10 @@ geprueft. Der SCC: das absolute Verbot ist overbroad, weil es auch
 kompetente Erwachsene mit irreversiblem Leiden trifft, die freiwillig
 um Sterbehilfe ersuchen. Verfassungswidrig.
 
-Bedeutung fuer den Pruefer: Parallelfall zu BVerfGE 153, 182
+Bedeutung für den Prüfer: Parallelfall zu BVerfGE 153, 182
 (Verbot geschaeftsmaessiger Sterbehilfe). Beide Gerichte arbeiten
 mit dem Argument, dass Pauschalverbote durch ihre Reichweite die
-Verhaeltnismaessigkeit verletzen.
+Verhältnismäßigkeit verletzen.
 
 ## Uebertragung in die deutsche Arbeitsweise
 
@@ -118,17 +118,17 @@ Verhaeltnismaessigkeit verletzen.
 
 - Nicht behaupten, der Oakes-Test gelte in Deutschland. Der Vergleich
   hilft nur, methodische Alternativen sichtbar zu machen.
-- Section 7 Pruefkategorien (overbreadth, arbitrariness, gross
+- Section 7 Pruefkategorien (overbreadth, arbitrariness, groß
   disproportionality) sind nicht identisch mit deutschen Begriffen
-  und duerfen nicht ungeprueft uebersetzt werden.
+  und dürfen nicht ungeprueft uebersetzt werden.
 - Notwithstanding Clause Section 33 hat keine Entsprechung; im
   rechtsvergleichenden Argument nicht uebersehen, dass kanadische
   Charter-Rechtsprechung gesetzgeberisch ueberschrieben werden kann.
-- Deutsche Ergebnisse muessen am Ende mit BVerfG-Dogmatik begruendet
+- Deutsche Ergebnisse müssen am Ende mit BVerfG-Dogmatik begruendet
   werden.
 
 ## Live-Recherche-Disclaimer
 
-SCC-Entscheidungen vor Zitierung im Schriftsatz verifizieren ueber
+SCC-Entscheidungen vor Zitierung im Schriftsatz verifizieren über
 CanLII (canlii.org) oder Lexum (scc-csc.lexum.com). Aktenzeichen und
-Fundstellenformat (Year SCR Band Seite) im Original pruefen.
+Fundstellenformat (Year SCR Band Seite) im Original prüfen.

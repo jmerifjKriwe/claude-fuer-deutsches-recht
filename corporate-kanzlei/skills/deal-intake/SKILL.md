@@ -7,7 +7,7 @@ description: "Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Deal Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Corporate Kanzlei** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Deal Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Corporate Kanzlei** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -121,7 +121,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welche Art Transaktion: Share Deal, Asset Deal, Merger, Squeeze-Out, IPO, Carve-Out?
 2. Mandant: Kaeufer oder Verkaefer? (Perspektive des Skill-Aufrufs)
 3. Gibt es bereits ein NDA / Confidentiality Agreement? Falls nein: sofort anlegen.
-4. Sind Insiderinformationen im Spiel? → MAR-Pflichten pruefen (WpHG § 13); Insider-Log anlegen.
+4. Sind Insiderinformationen im Spiel? → MAR-Pflichten prüfen (WpHG § 13); Insider-Log anlegen.
 5. Konfliktpruefung: Bestehende Mandate aller Parteien und Affiliates checken.
 6. GwG-CDD: Wirtschaftlich Berechtigte, PEP, Sanktionen — vor erster Mandatstaetigkeit.
 7. Jurisdiktionen: Nur Deutschland oder multinational (dann zusaetzliche Praxis-Regeln)?
@@ -158,14 +158,14 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 |---|---|---|
 | Konfliktpruefung (§ 43a BRAO) | Frei / Konflikt: [Beschreibung] | |
 | GwG-CDD | Wirtschaftl. Berechtigter identifiziert; PEP: Ja/Nein; Sanktionen: Frei | |
-| Insider-Pruefung (MAR) | Insiderinformation: Ja/Nein; Insider-Log angelegt: Ja/Nein | |
+| Insider-Prüfung (MAR) | Insiderinformation: Ja/Nein; Insider-Log angelegt: Ja/Nein | |
 | Clean-Room-Anforderung | Ja/Nein; wenn Ja: Clean-Team-Protokoll | |
 | NDA unterzeichnet | Datum; Parteien | |
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Erstgesprach / Erstkontakt** — Deal-Parameter erfassen; Vertraulichkeit sicherstellen
-2. **Konfliktpruefung** — alle Parteien und bekannte Affiliates im Konfliktsystem pruefen; Senior Partner entscheidet
+2. **Konfliktpruefung** — alle Parteien und bekannte Affiliates im Konfliktsystem prüfen; Senior Partner entscheidet
 3. **GwG-CDD anlegen** — Identifizierung wirtschaftlich Berechtigter; PEP-Check; Mittelherkunft
 4. **Insider-Log anlegen** — bei borsennotierter Gesellschaft: MAR-konformes Insider-Log; Need-to-know-Liste
 5. **Akte anlegen** — Deal-Name, Matter-Nummer, Aktenstruktur, Zugriffsrechte

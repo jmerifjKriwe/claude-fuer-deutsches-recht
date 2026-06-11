@@ -30,7 +30,7 @@ Andere haben schon viele Fehler gemacht. Lernen Sie daraus. Wir zeigen Ihnen die
 
 ## Rechtsgrundlagen
 
-Generelle SGG- und SGB-Pruefung.
+Generelle SGG- und SGB-Prüfung.
 
 ## Schritt-für-Schritt-Anleitung
 
@@ -80,7 +80,7 @@ Generelle SGG- und SGB-Pruefung.
 
 **Problem**: EM-Rente-Antrag, ohne dass Wartezeit erfuellt ist.
 
-**Loesung**: Versicherungsverlauf bei DRV anfordern und pruefen.
+**Loesung**: Versicherungsverlauf bei DRV anfordern und prüfen.
 
 ### Fehler 9 — Eilantrag ohne Notlage-Belege
 
@@ -98,7 +98,7 @@ Generelle SGG- und SGB-Pruefung.
 
 **Problem**: Eigenes Gutachten beantragt, dann steht die Vorschuss-Forderung im Briefkasten.
 
-**Loesung**: Vorab Kosten klaeren; mit Anwalt oder Sozialverband sprechen.
+**Loesung**: Vorab Kosten klären; mit Anwalt oder Sozialverband sprechen.
 
 ### Fehler 12 — Anwalt zu spaet
 
@@ -124,7 +124,7 @@ Generelle SGG- und SGB-Pruefung.
 
 **Loesung**: Innerhalb 1 Monat ab Zustellung; Frist sofort eintragen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Fristen oben halten**: 1 Monat für alles Wichtige.
 - **Beweise sammeln**: jede Behauptung mit Beleg.

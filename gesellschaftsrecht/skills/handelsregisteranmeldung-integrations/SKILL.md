@@ -32,13 +32,13 @@ Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR)
 
 ## Triage zu Beginn
 
-Vor der Anmeldungsvorbereitung klaeren:
+Vor der Anmeldungsvorbereitung klären:
 
 1. **Anmeldungsgegenstand:** Was soll angemeldet werden? (Geschaeftsfuehrer-Wechsel, Prokura, Sitzverlegung, Kapitalerhoehung, Satzungsaenderung, Liquidation, Loeschung)
 2. **Registerart:** HRB (GmbH/AG), HRA (OHG/KG), GnR (eG), PartGR (PartG)? Bei GmbH & Co. KG: sowohl HRB als auch HRA betroffen?
 3. **Unterlagen vollstaendig?** Gesellschafterbeschluss (ggf. notariell beurkundet bei Satzungsaenderung § 53 GmbHG), Versicherung GF (§ 8 Abs. 3 GmbHG), Satzung aktuell?
 4. **Notar beauftragt?** § 12 HGB: öffentliche Beglaubigung erforderlich; Notar uebermittelt elektronisch (§ 12 Abs. 2 HGB). Ist der Notar bereits beauftragt?
-5. **Mehrfache Aenderungen gleichzeitig?** Mehrere Aenderungen koennen in einer Anmeldung zusammengefasst werden; Voraussetzungen für jede Aenderung separat pruefen.
+5. **Mehrfache Aenderungen gleichzeitig?** Mehrere Aenderungen können in einer Anmeldung zusammengefasst werden; Voraussetzungen für jede Aenderung separat prüfen.
 6. **§ 15 HGB-Risiko waehrend Wartezeit?** Wer vertritt die Gesellschaft bis zur Eintragung des neuen GF? Uebergangsregelungen (Vollmachten) treffen.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -135,12 +135,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Handelsregisteranmeldung vorbereiten und einreichen | Anmeldung nach Checkliste; Template unten |
-| Variante A — Eilbedarf Eintragung innerhalb Woche noetig | Vorlagenversion pruefen; Notarbeschleunigungs-Option |
+| Variante A — Eilbedarf Eintragung innerhalb Woche noetig | Vorlagenversion prüfen; Notarbeschleunigungs-Option |
 | Variante B — Aenderungsanmeldung nicht Erstanmeldung | Aenderungsanmeldung-Subset des Templates verwenden |
 | Variante C — Anmeldung wird vom Registergericht bemueckelt | Beschwerdeverfahren vorbereiten; Ergaenzung der Unterlagen zuerst |
 
@@ -204,7 +204,7 @@ Mit freundlichen Gruessen
 | Bekanntmachung vorbereitet | § 10 GmbHG | [JA / ENTFAELLT] |
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -217,7 +217,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Rote Schwellen
 
-- **Formfehler § 12 HGB (fehlende Beglaubigung)** — Registergericht weist Anmeldung zurueck; erneute Vorlage mit Zeitverlust; Notar vor Einreichung pruefen lassen.
+- **Formfehler § 12 HGB (fehlende Beglaubigung)** — Registergericht weist Anmeldung zurueck; erneute Vorlage mit Zeitverlust; Notar vor Einreichung prüfen lassen.
 - **Versicherungspflicht § 8 Abs. 3 GmbHG fehlt** — Anmeldung ohne GF-Versicherung wird abgelehnt; Versicherung vor Notartermin einholen.
 - **§ 15 Abs. 1 HGB: Verzoegerung > 2 Wochen** — Ausscheidender GF haftet ggf. weiterhin gegenueber Dritten; neuer GF kann Vertretungsmacht nicht aus Register beweisen; Anmeldung unverzueglich einreichen.
 - **Satzungsaenderung ohne notarielle Beurkundung** — § 53 Abs. 2 GmbHG: Formnichtigkeit; Notar muss beurkunden (nicht nur beglaubigen).

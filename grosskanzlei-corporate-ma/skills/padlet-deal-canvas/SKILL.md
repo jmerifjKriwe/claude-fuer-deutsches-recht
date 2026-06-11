@@ -25,16 +25,16 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 | Phase | Screening, NDA, Term Sheet, Datenraum, DD, SPA/APA, Signing, Closing, PMI, Streit oder Post-Mortem. |
 | Material | Parteien, Zielstruktur, Datenraumindex, Term Sheet oder Kurzsachverhalt, offene Fragen, Fristen, Nutzerrolle. |
 | Frist | Signing, Closing, Q&A, Filing, Board, Beurkundung, Angebotsfrist, CP-Deadline oder keine Eile erkennbar. |
-| Ziel-Output | Padlet-Board mit Spalten, Karten, Tags, Prioritaeten, Eigentuemer, Fristen, Quellenstatus und Vorschlaegen für naechste Karten. |
+| Ziel-Output | Padlet-Board mit Spalten, Karten, Tags, Prioritaeten, Eigentümer, Fristen, Quellenstatus und Vorschlaegen für naechste Karten. |
 
 ## Padlet- und Tabellen-Ausgabe
 Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 
 | Karte/Spalte | Inhalt | Status | Owner | Quelle | Naechster Schritt |
 | --- | --- | --- | --- | --- | --- |
-| Issue | Konkretes Thema oder Dokument | offen / in Pruefung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
+| Issue | Konkretes Thema oder Dokument | offen / in Prüfung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
 
-Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
+Für Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
 - Kurzbild für Partner oder Mandant.
@@ -44,7 +44,7 @@ Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Bef
 - Offene Punkte mit genauem Nachforderungswortlaut.
 
 ## Quality Gate
-Vor Ausgabe immer pruefen:
+Vor Ausgabe immer prüfen:
 
 - Ist die Partei-Perspektive klar?
 - Sind alle Fristen und Vollzugsrisiken markiert?

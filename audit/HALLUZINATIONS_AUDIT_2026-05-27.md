@@ -17,7 +17,7 @@
 
 **Halluzinations-Quote (WRONG_TOPIC + NOT_FOUND):** 976 von 3228 = 30.2%
 
-## Chunk-Uebersicht
+## Chunk-Übersicht
 
 | Chunk | Gesamt | OK | WRONG | NOT_FND | UNVERIF |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | BSG | 12 KR 13/14 | WRONG_TOPIC | > BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R: Schuldrechtlich | BSG B 12 KR 13/14 R, Urt. 11.11.2015, BSGE 120, 59: Statusfe | https://dejure.org/2015,32875 |
 | BAG | 1 ABR 22/21 | WRONG_TOPIC | description: "Arbeitnehmer klagt auf Mindestlohn oder Uebers | BAG 1 ABR 22/21, Beschl. 13.09.2022: Initiativrecht des Betr | https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21 |
 | BGH | VI ZR 207/21 | WRONG_TOPIC | - BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — S | BGH VI ZR 207/21 nicht in dejure; V ZR 207/21 (WEG Beschluss | https://dejure.org/2022,22528 |
-| EuGH | C-398/08 | WRONG_TOPIC | description: "Slogan-Marken fuer Luxus-Mode auf Eintragbarke | EuGH C-398/08 P (Audi/HABM), Urt. 21.01.2010: Eintragbarkeit | https://dejure.org/2010,20 |
+| EuGH | C-398/08 | WRONG_TOPIC | description: "Slogan-Marken für Luxus-Mode auf Eintragbarke | EuGH C-398/08 P (Audi/HABM), Urt. 21.01.2010: Eintragbarkeit | https://dejure.org/2010,20 |
 | BGH | VIII ZR 304/21 | WRONG_TOPIC | - BGH, Urt. v. 14.12.2022 — VIII ZR 304/21, NJW 2023, 1289 R | BGH VIII ZR 304/21, Urt. 27.04.2022, BGHZ 233, 215, NJW 2022 | https://dejure.org/2022,12700 |
 | BGH | VIII ZR 317/21 | WRONG_TOPIC | - BGH, Urt. v. 13.07.2022 – Az. VIII ZR 317/21, NJW 2022, 27 | BGH VIII ZR 317/21, Urt. 13.07.2022, NJW 2022, 2830: Eintrit | https://dejure.org/2022,21658 |
 | BGH | I ZR 184/17 | WRONG_TOPIC | - BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn.  | BGH I ZR 184/17, Urt. 07.03.2019, GRUR 2019, 746: Energieeff | https://dejure.org/2019,12159 |
@@ -145,7 +145,7 @@ Welle 3 hat die 528 vorgesehenen AZ-Probleme abgearbeitet. Die in `audit_problem
 
 ## Welle 4 — Selbstvertreter-Skills (Commit 9af66be8, Tag v14.2.6)
 
-Audit-Folge fuer die 156 Selbstvertreter-Skills aus PR #115, die im ersten Audit-Lauf nicht enthalten waren.
+Audit-Folge für die 156 Selbstvertreter-Skills aus PR #115, die im ersten Audit-Lauf nicht enthalten waren.
 
 ### Statistik
 
@@ -181,15 +181,15 @@ Audit-Folge fuer die 156 Selbstvertreter-Skills aus PR #115, die im ersten Audit
 
 ---
 
-## Welle 5 - Codex-Vorbereitung fuer v16.0.0
+## Welle 5 - Codex-Vorbereitung für v16.0.0
 
 Arbeitsstand: 27.05.2026 auf Branch `codex/halluzinations-global-cleanup`, nach Sync mit `origin/main` bei `246a72e2` / `v15.0.0`.
 
 ### Zielsetzung
 
 - Resttreffer aus Welle 3/4 in produktiven Skills entfernen oder auf belastbare Fundstellen umstellen
-- Release-Vorbereitung fuer `v16.0.0`
-- Audit-Dateien duerfen die alten Problemstellen weiterhin als Befundhistorie enthalten
+- Release-Vorbereitung für `v16.0.0`
+- Audit-Dateien dürfen die alten Problemstellen weiterhin als Befundhistorie enthalten
 
 ### Korrekturmuster
 

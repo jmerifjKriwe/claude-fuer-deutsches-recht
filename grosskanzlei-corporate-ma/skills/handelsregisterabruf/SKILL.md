@@ -125,7 +125,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Rechtsgrundlagen
 
 - §§ 8-10 GmbHG — Handelsregisteranmeldung der GmbH: Inhalt, notarielle Beglaubigung
-- §§ 29 ff. HGB — Pflicht zur Handelsregistranmeldung; negative Publizitaet (§ 15 HGB): nicht eingetragene Tatsachen koennen Dritten nicht entgegengesetzt werden
+- §§ 29 ff. HGB — Pflicht zur Handelsregistranmeldung; negative Publizitaet (§ 15 HGB): nicht eingetragene Tatsachen können Dritten nicht entgegengesetzt werden
 - § 16 GmbHG — Legitimationswirkung der Gesellschafterliste: eingetragener Gesellschafter gilt als Inhaber der Rechte
 - § 20 TranspRG — Transparenzregister: wirtschaftlich Berechtigter; Meldepflicht; Zugaenglichkeit
 - § 40 GmbHG — Einreichung der Gesellschafterliste nach Anteilsuebertragung; Frist 1 Monat
@@ -137,8 +137,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Abruf-Liste erstellen:** alle zu recherchierenden Gesellschaften (inkl. Komplementaer-GmbH, Holdinggesellschaften) auflisten
-2. **Abruf ueber handelsregister.de:** HRB- oder HRA-Nummer eingeben; aktuellen Ausdruck und vollstaendige Urkundssammlung (Satzung, aeltere Versionen) abrufen
-3. **Gesellschafterliste pruefen:** stimmt mit SPA-Parteistellung ueberein? Eintragungsdatum aktuell?
+2. **Abruf über handelsregister.de:** HRB- oder HRA-Nummer eingeben; aktuellen Ausdruck und vollstaendige Urkundssammlung (Satzung, aeltere Versionen) abrufen
+3. **Gesellschafterliste prüfen:** stimmt mit SPA-Parteistellung ueberein? Eintragungsdatum aktuell?
 4. **Vertretungsmacht auslesen:** Einzelvertretung, Gesamtvertretung, Prokura — alle Eintragungen erfassen
 5. **Transparenzregister:** Abgleich mit wirtschaftlich Berechtigten nach GwG; Abweichungen notieren
 6. **Beteiligungskette kartieren:** Organigramm mit HR-belegten Beteiligungsstufen erstellen

@@ -39,12 +39,12 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 
 - Bedarfssatz (nach Wohnform Schule/Studium Krankenversicherung).
 - Anrechnung Einkommen Eltern (Freibetraege).
-- Anrechnung eigenes Einkommen Vermoegen.
+- Anrechnung eigenes Einkommen Vermögen.
 - Geschwister, Unterhaltspflichten, Vorausleistung, elternunabhängige Förderung und Auslands-BAföG als eigene Prüfschleifen.
 
 ## Foerderhoehe
 
-- Bafoeg-Hoechstsatz pruefen (aktuell verifizieren).
+- Bafoeg-Hoechstsatz prüfen (aktuell verifizieren).
 - 50 Prozent Zuschuss / 50 Prozent zinsloses Darlehen.
 
 ## Aenderungsantrag
@@ -64,7 +64,7 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 
 1. Foerderfaehiger Bildungsgang?
 2. Einkommen Eltern korrekt erfasst?
-3. Eigenes Einkommen Vermoegen?
+3. Eigenes Einkommen Vermögen?
 4. Bedarfssatz richtig?
 5. Widerspruchsfrist?
 6. Aktualisierungsantrag, Vorausleistung oder Härtefall nötig?

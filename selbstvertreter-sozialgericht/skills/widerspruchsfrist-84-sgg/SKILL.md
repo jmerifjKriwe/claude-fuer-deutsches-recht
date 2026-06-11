@@ -21,7 +21,7 @@ Sie haben einen Monat Zeit. Aber: ab wann? Der Brief ist am vierten Tag nach Auf
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie haben einen Bescheid bekommen und muessen die Frist rechnen.
+- Sie haben einen Bescheid bekommen und müssen die Frist rechnen.
 - Sie sind unsicher, ob Sie noch in der Frist sind.
 - Sie wollen die Frist auf den Tag genau wissen.
 
@@ -66,27 +66,27 @@ Vom Bekanntgabetag wird ein Monat gerechnet. Die Frist endet an dem Tag, der dur
 
 Achtung: Wenn der entsprechende Tag im Folgemonat nicht existiert (z.B. 31. → Februar hat keinen 31.), endet die Frist am letzten Tag des Folgemonats.
 
-### Schritt 4 — Wochenende und Feiertag pruefen
+### Schritt 4 — Wochenende und Feiertag prüfen
 
 Endet die Frist an einem Samstag, Sonntag oder Feiertag? Dann verlaengert sich die Frist auf den naechsten Werktag (§ 64 Abs. 3 SGG).
 
 ### Schritt 5 — Notieren und sichern
 
-Schreiben Sie das genaue Datum gross in den Kalender. Setzen Sie sich eine Erinnerung drei Tage vorher. Lieber zu frueh handeln als zu spaet.
+Schreiben Sie das genaue Datum groß in den Kalender. Setzen Sie sich eine Erinnerung drei Tage vorher. Lieber zu frueh handeln als zu spaet.
 
 ### Schritt 6 — Bei Unsicherheit zur Geschaeftsstelle
 
-Auf der Geschaeftsstelle des SG koennen Sie nach dem genauen Fristende fragen. Die Mitarbeiter helfen.
+Auf der Geschaeftsstelle des SG können Sie nach dem genauen Fristende fragen. Die Mitarbeiter helfen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Keine ordentliche Rechtsbehelfsbelehrung im Bescheid** → 1 Jahr Frist (§ 66 SGG). Pruefen Sie genau, ob die Belehrung vollstaendig und richtig ist (Behörde, Frist, Form).
-- **Tatsaechlicher Zugang**: Wenn Sie nachweisen koennen, dass der Brief erst spaeter angekommen ist (Urlaub, Krankheit, Postfehler), gilt der spaetere Zugang. Aber der Beweis liegt bei Ihnen.
-- **PostModG-Wechsel**: Aufgabe zur Post vor dem 1.1.2025 → 3-Tage-Fiktion alt. Aufgabe ab 1.1.2025 → 4-Tage-Fiktion neu. Pruefen Sie das Bescheid-Datum.
+- **Keine ordentliche Rechtsbehelfsbelehrung im Bescheid** → 1 Jahr Frist (§ 66 SGG). Prüfen Sie genau, ob die Belehrung vollstaendig und richtig ist (Behörde, Frist, Form).
+- **Tatsaechlicher Zugang**: Wenn Sie nachweisen können, dass der Brief erst später angekommen ist (Urlaub, Krankheit, Postfehler), gilt der spaetere Zugang. Aber der Beweis liegt bei Ihnen.
+- **PostModG-Wechsel**: Aufgabe zur Post vor dem 1.1.2025 → 3-Tage-Fiktion alt. Aufgabe ab 1.1.2025 → 4-Tage-Fiktion neu. Prüfen Sie das Bescheid-Datum.
 
 ## Typische Fehler
 
-- Frist vom Bescheidsdatum statt Bekanntgabe gerechnet → 4 Tage spaeter starten
+- Frist vom Bescheidsdatum statt Bekanntgabe gerechnet → 4 Tage später starten
 - Vier-Tage-Fiktion vergessen → fast immer zu vorsichtig zu rechnen
 - Bei Wochenende falsch addiert → § 64 Abs. 3 SGG nutzen
 - Frist gerade noch erreicht, aber per Post → frueher abschicken!

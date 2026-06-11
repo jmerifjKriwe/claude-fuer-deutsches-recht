@@ -15,7 +15,7 @@ description: "Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beihilfeberechtigte, die eine Behandlung im Ausland in Anspruch nehmen wollen oder genommen haben und deren Erstattungsfaehigkeit klaeren wollen.
+Skill für Beihilfeberechtigte, die eine Behandlung im Ausland in Anspruch nehmen wollen oder genommen haben und deren Erstattungsfaehigkeit klären wollen.
 
 ## 2. Eingaben
 
@@ -31,7 +31,7 @@ Skill für Beihilfeberechtigte, die eine Behandlung im Ausland in Anspruch nehme
 - Beihilfefaehigkeit nur bei medizinisch notwendiger und wirtschaftlicher Heilbehandlung. Bei Auslandsbehandlung Begrenzung der Erstattung auf das Niveau, das bei vergleichbarer Behandlung im Inland angefallen waere.
 
 ### b) Notfallbehandlung
-- Bei medizinischen Notfaellen im Ausland keine Vorabgenehmigung erforderlich; Erstattung ohne Begrenzung auf Inlandsniveau moeglich, soweit nachvollziehbar notwendig.
+- Bei medizinischen Notfaellen im Ausland keine Vorabgenehmigung erforderlich; Erstattung ohne Begrenzung auf Inlandsniveau möglich, soweit nachvollziehbar notwendig.
 
 ### c) Geplante Behandlung im EU-Ausland
 - Patientenrichtlinie 2011/24/EU: grenzueberschreitende Behandlung in der EU/im EWR ist nach Massgabe der nationalen Vorschriften erstattungsfaehig.
@@ -63,4 +63,4 @@ Skill für Beihilfeberechtigte, die eine Behandlung im Ausland in Anspruch nehme
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant laesst Hueftgelenkoperation in einer Wiener Klinik durchfuehren; Rechnung 18.500 Euro. Skill liefert Pruefung der Beihilfefaehigkeit nach Patientenrichtlinie und Begrenzung auf Inlandsniveau.
+Mandant lässt Hueftgelenkoperation in einer Wiener Klinik durchfuehren; Rechnung 18.500 Euro. Skill liefert Prüfung der Beihilfefaehigkeit nach Patientenrichtlinie und Begrenzung auf Inlandsniveau.

@@ -27,7 +27,7 @@ Mieteinheiten-bezogene Abnahmepruefung sichert die Uebergabe an jeden Mieter mit
 
 ## Erste Schritte auf der Baustelle
 
-1. Pruefung Tragsystem: Stuetzenweite 12-18 m, Betonguete C25/30 bis C35/45, Vorspannstahl-Protokoll
+1. Prüfung Tragsystem: Stuetzenweite 12-18 m, Betonguete C25/30 bis C35/45, Vorspannstahl-Protokoll
 2. Sprinkleranlage VdS CEA 4001: Zonenpluene, Druckpruefung, Abstandsmasse Sprinkler
 3. Rauchabzugsanlage DIN 18232: Klappen-Funktionspruefung, Zuluftflaechennachweis, Ansteuerung
 4. Mieteinheiten-Trennung: Trennwand T30 oder T60, Versorgungsleitungen je Einheit messbar getrennt
@@ -40,12 +40,12 @@ Mieteinheiten-bezogene Abnahmepruefung sichert die Uebergabe an jeden Mieter mit
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
 - VdS CEA 4001 Sprinkleranlagen: Planung und Einbau stationaerer Loeschanlagen
 - DIN 18232 Rauch- und Waermeabzugsanlagen: Natuerlicher Rauchabzug NRA, mechanischer MRWA
-- DIN 18040-1 Barrierefreies Bauen: oeffentlich zugaengliche Gebaeude
+- DIN 18040-1 Barrierefreies Bauen: öffentlich zugaengliche Gebaeude
 - VOB/C DIN 18351 Fassadenarbeiten: Innenwandverkleidungen Mieteinheiten-Ausbau
 
 ## Prueferaster und Kontrollpunkte
 
-1. Tragsystem Pruefung: Bewehrungsabnahme je Deckenfeld, Vorspannkrafts-Protokoll bei Spannbeton
+1. Tragsystem Prüfung: Bewehrungsabnahme je Deckenfeld, Vorspannkrafts-Protokoll bei Spannbeton
 2. Sprinkler: Druckpruefung je Zone 10 bar, Abstande von Einbauten nach CEA 4001
 3. Rauchabzug: Klappenpruefliste je Klappe, Oeffnungsflaeche, Reaktionszeit kleiner 60 s
 4. Mieteinheiten-Zaehler: Strom, Wasser, Gas je Einheit messbar, Zaehlernummern dokumentiert

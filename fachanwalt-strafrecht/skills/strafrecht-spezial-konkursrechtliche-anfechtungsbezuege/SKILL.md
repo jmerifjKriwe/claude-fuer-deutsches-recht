@@ -65,7 +65,7 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 ## Praktikertipps der alten Hasen
 
 - **Parallelitaet beider Verfahren nutzen.** Insolvenzverwalter klagt zivilrechtlich; StA ermittelt parallel. Verteidigung kann auf Ergebnisse der Zivilklage zur Schadensbeziffrung warten - oder umgekehrt: zivilrechtliche Vergleich frueh schliessen und im Strafverfahren als Wiedergutmachung bewerten.
-- **Inkongruenz akribisch pruefen.** Bei Paragraph 131 InsO und Paragraph 283c StGB: War die Leistung tatsaechlich nicht geschuldet? Pruefe Vertragslage, Faelligkeit, vereinbarte Leistungsart.
+- **Inkongruenz akribisch prüfen.** Bei Paragraph 131 InsO und Paragraph 283c StGB: War die Leistung tatsaechlich nicht geschuldet? Prüfe Vertragslage, Faelligkeit, vereinbarte Leistungsart.
 - **Bargeschaeftsausnahme Paragraph 142 InsO.** Zug-um-Zug-Geschaefte mit gleichwertiger Gegenleistung sind insolvenzanfechtungsfest und strafrechtlich weitgehend unproblematisch.
 - **Beweislast.** Im Zivilverfahren oft Insolvenzverwalter (volle Beweislast); im Strafverfahren StA (in dubio pro reo). Strafverteidigung hat strukturell Vorteile, aber Anfechtungsindizien sind im Strafverfahren beweisrechtlich verwertbar.
 - **Wiedergutmachung als doppelter Hebel.** Wer den Anfechtungsanspruch erfuellt, hat strafmildernde Wiedergutmachung (Paragraph 46a StGB) und gegebenenfalls Einstellung nach Paragraph 153a StPO.
@@ -88,13 +88,13 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 
 - **Schadenshoehe** korrigiert durch Anfechtungsruckgewaehr: Wenn der Anfechtungsanspruch befriedigt wird, sinkt der strafrechtliche Schaden.
 - **Wiedergutmachung Paragraph 46 StGB** strafmildernd.
-- **Paragraph 46a StGB Taeter-Opfer-Ausgleich** moeglich, wenn aktive Mitwirkung an der Wiedergutmachung erfolgt.
-- **Paragraph 153a StPO Einstellung gegen Auflage** bei geringerer Schwere oft moeglich, wenn vollstaendige Rueckgewaehr.
+- **Paragraph 46a StGB Taeter-Opfer-Ausgleich** möglich, wenn aktive Mitwirkung an der Wiedergutmachung erfolgt.
+- **Paragraph 153a StPO Einstellung gegen Auflage** bei geringerer Schwere oft möglich, wenn vollstaendige Rueckgewaehr.
 - **Einziehung Paragraph 73 StGB**: wird wegen Anfechtungsruckgewaehr regelmaessig gegenstandslos (Wertersatz entfaellt).
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Mein Mandant hat den Anfechtungsanspruch des Insolvenzverwalters Y vom DD.MM.JJJJ ueber EUR Z anerkannt und durch Vereinbarung vom DD.MM.JJJJ (Anlage SS 1) in voller Hoehe beglichen. Der strafrechtliche Schaden iSd Paragraph 283 Abs 1 Nr 1 StGB ist damit kompensiert; Wiedergutmachung iSd Paragraph 46 Abs 2 Satz 2 Nr 6 StGB liegt vor."
+**Schutzschrift-Snippet:** "Mein Mandant hat den Anfechtungsanspruch des Insolvenzverwalters Y vom DD.MM.JJJJ über EUR Z anerkannt und durch Vereinbarung vom DD.MM.JJJJ (Anlage SS 1) in voller Höhe beglichen. Der strafrechtliche Schaden iSd Paragraph 283 Abs 1 Nr 1 StGB ist damit kompensiert; Wiedergutmachung iSd Paragraph 46 Abs 2 Satz 2 Nr 6 StGB liegt vor."
 
 **Einlassungs-Snippet:** "Mir war zum Zeitpunkt der Zahlung an Lieferant Y am DD.MM.JJJJ nicht bekannt, dass die Forderung noch nicht faellig war. Ich bin davon ausgegangen, dass die Rechnung wie ueblich nach Erhalt zu zahlen sei. Eine bewusste Beguenstigung des Lieferanten gegenueber anderen Glaeubigern lag mir fern."
 

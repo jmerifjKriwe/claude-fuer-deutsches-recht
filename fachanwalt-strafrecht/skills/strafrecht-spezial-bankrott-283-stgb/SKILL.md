@@ -18,7 +18,7 @@ description: "Bankrott nach Paragraph 283 StGB: Tatbestandsalternativen Beiseite
 
 ## Worum geht es konkret
 
-Paragraph 283 StGB sanktioniert Vermoegensverschiebungen in der wirtschaftlichen Krise. Geschuetzt ist die Glaeubigergesamtheit, nicht der einzelne Glaeubiger. Anwendungsfall: Geschaeftsfuehrer einer insolvenzreifen GmbH schafft Vermoegenswerte beiseite, verheimlicht Bankguthaben, vernichtet Buchhaltung. Stets gemeinsam zu pruefen mit Paragraph 283b StGB (Buchfuehrungsverletzung), Paragraph 283c StGB (Glaeubigerbeguenstigung) und Paragraph 15a InsO (Insolvenzverschleppung).
+Paragraph 283 StGB sanktioniert Vermoegensverschiebungen in der wirtschaftlichen Krise. Geschuetzt ist die Glaeubigergesamtheit, nicht der einzelne Glaeubiger. Anwendungsfall: Geschaeftsfuehrer einer insolvenzreifen GmbH schafft Vermoegenswerte beiseite, verheimlicht Bankguthaben, vernichtet Buchhaltung. Stets gemeinsam zu prüfen mit Paragraph 283b StGB (Buchfuehrungsverletzung), Paragraph 283c StGB (Glaeubigerbeguenstigung) und Paragraph 15a InsO (Insolvenzverschleppung).
 
 Tatzeit ist die Phase materieller Insolvenz oder drohender Insolvenz. Die objektive Bedingung der Strafbarkeit (Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag) muss eintreten, sonst keine Strafbarkeit aus Paragraph 283 StGB selbst. Die Tat wird also erst durch das spaetere Ereignis strafbar; das ist für Verjährungsfragen wichtig.
 
@@ -31,11 +31,11 @@ Taeter ist, wer bei drohender Zahlungsunfaehigkeit, Zahlungsunfaehigkeit oder Ue
 - **Nr. 1 Beiseiteschaffen, Verheimlichen, Zerstoeren, Beschaedigen oder Unbrauchbarmachen** von Vermoegensbestandteilen, die im Fall der Insolvenzeroeffnung zur Masse gehoeren wuerden. Klassiker: Ueberweisung an Strohmann, Barabhebung, Tresorlager.
 - **Nr. 2 unwirtschaftliche Ausgaben oder Verlustgeschaefte** wie Glueckspiel, ueberteuerte Bestellungen, Verkauf weit unter Wert.
 - **Nr. 3 Anschaffen von Waren oder Wertpapieren auf Kredit** und alsbaldige Veraeusserung unter Wert oder Beiseiteschaffen.
-- **Nr. 4 Vortaeuschen fremder Rechte** oder Anerkennen erdichteter Rechte am Vermoegen.
+- **Nr. 4 Vortaeuschen fremder Rechte** oder Anerkennen erdichteter Rechte am Vermögen.
 - **Nr. 5 Unterlassen, Verfaelschen, Vernichten oder Verbergen von Handelsbuechern**, deren Fuehrung gesetzlich vorgeschrieben ist.
 - **Nr. 6 Beiseiteschaffen, Vernichten, Verbergen oder Verfaelschen** kaufmaennischer Belege vor Ablauf der gesetzlichen Aufbewahrungsfrist (regelmaessig 10 Jahre nach Paragraph 257 HGB).
 - **Nr. 7 Entgegen Handelsrecht Bilanzen unrichtig aufstellen** oder Bilanzierung unterlassen.
-- **Nr. 8 In anderer den Anforderungen ordnungsgemaesser Wirtschaft grob widersprechender Weise** Vermoegen vermindern oder wirkliche Geschaeftsverhaeltnisse verheimlichen.
+- **Nr. 8 In anderer den Anforderungen ordnungsgemaesser Wirtschaft grob widersprechender Weise** Vermögen vermindern oder wirkliche Geschaeftsverhaeltnisse verheimlichen.
 
 ### Absatz 2 Bankrotthandlung mit Insolvenzherbeifuehrung
 
@@ -59,11 +59,11 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 
 ## Praktikertipps der alten Hasen
 
-- **Tatzeitpunkt-Streit fuehren.** War die Krise zur Tathandlung schon konkret? Liquiditaetsstatus zum Tattag rekonstruieren (BWA, Kontoauszuege, Forderungsliste). Ohne dokumentierte Insolvenzreife laesst sich der subjektive Tatbestand oft erschuettern.
+- **Tatzeitpunkt-Streit fuehren.** War die Krise zur Tathandlung schon konkret? Liquiditaetsstatus zum Tattag rekonstruieren (BWA, Kontoauszuege, Forderungsliste). Ohne dokumentierte Insolvenzreife lässt sich der subjektive Tatbestand oft erschuettern.
 - **Beratung des Steuerberaters oder externen Sanierungsberaters belegen.** Verbotsirrtum nach Paragraph 17 StGB, jedenfalls Indizwirkung gegen Vorsatz. BGH staendige Rspr. zur Wertung eines Beratervotums als entlastend.
 - **Tagebuch-Reaktion auf Krisensignale.** Wenn der Mandant nach Bekanntwerden der Krise sofort eine Insolvenzberatung beauftragt hat, dann ist eine Bankrotthandlung in der Zwischenzeit eher mit "Sanierungshandlung" zu erklaeren (Paragraph 17 InsO drohende Zahlungsunfaehigkeit erlaubt Sanierungsversuch).
 - **Beweisfuehrungsfalle Sequenzierung.** Insolvenzverwalter rekonstruiert oft nur Aussenwirkung (Buchhaltung verschwunden, Konto leer). Verteidigung muss aktiv Geldfluesse mitliefern; sonst Indizienlast.
-- **Strohmann-Konstellation.** Wenn der Geschaeftsfuehrer nur formal eingesetzt und der faktische Geschaeftsfuehrer (Familienangehoeriger, Hintermann) gehandelt hat, dann Paragraph 14 StGB pruefen (Vertretungsfaelle); siehe Fachmodul faktische Geschaeftsfuehrer.
+- **Strohmann-Konstellation.** Wenn der Geschaeftsfuehrer nur formal eingesetzt und der faktische Geschaeftsfuehrer (Familienangehoeriger, Hintermann) gehandelt hat, dann Paragraph 14 StGB prüfen (Vertretungsfaelle); siehe Fachmodul faktische Geschaeftsfuehrer.
 
 ## Trade-off-Matrix
 
@@ -73,9 +73,9 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 
 ## Konkurrenzen
 
-- **Paragraph 283 StGB und Paragraph 266 StGB Untreue.** Bei Eigenschaedigung der GmbH durch GF in der Krise: Untreue + Bankrott in Tateinheit moeglich (BGH staendige Rspr.). Untreue setzt Vermoegensbetreuungspflicht voraus, Bankrott schuetzt Glaeubigergesamtheit.
+- **Paragraph 283 StGB und Paragraph 266 StGB Untreue.** Bei Eigenschaedigung der GmbH durch GF in der Krise: Untreue + Bankrott in Tateinheit möglich (BGH staendige Rspr.). Untreue setzt Vermoegensbetreuungspflicht voraus, Bankrott schuetzt Glaeubigergesamtheit.
 - **Paragraph 283 StGB und Paragraph 15a InsO.** Insolvenzverschleppung ist eigenstaendiger Tatbestand, der oft *vor* der Bankrotthandlung liegt. Tatmehrheit Paragraph 53 StGB.
-- **Paragraph 283 StGB und Paragraph 263 StGB Betrug.** Bei Eingehungsbetrug in der Krise (Bestellung trotz Insolvenzreife) Tateinheit moeglich.
+- **Paragraph 283 StGB und Paragraph 263 StGB Betrug.** Bei Eingehungsbetrug in der Krise (Bestellung trotz Insolvenzreife) Tateinheit möglich.
 - **Paragraph 283 StGB und Paragraph 266a StGB.** Vorenthalten von Arbeitgeberanteilen oft parallel; siehe Fachmodul 266a.
 
 ## Strafzumessung und Folgen
@@ -84,10 +84,10 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 - Besonders schwerer Fall nach Paragraph 283a StGB: 6 Monate bis 10 Jahre (Regelbeispiele Gewerbsmaessigkeit; wissentliches Inkaufnehmen vieler Glaeubiger in wirtschaftliche Not).
 - Fahrlaessigkeitsvariante Absatz 5: Freiheitsstrafe bis 2 Jahre oder Geldstrafe.
 - **Einziehung Paragraph 73 StGB** des aus der Bankrotthandlung erlangten Vermoegens; bei Beiseiteschaffung wird der Wert eingezogen.
-- **Berufsverbot Paragraph 70 StGB** moeglich bei groben Pflichtverletzungen; in der Praxis seltener als Gewerbeuntersagung.
+- **Berufsverbot Paragraph 70 StGB** möglich bei groben Pflichtverletzungen; in der Praxis seltener als Gewerbeuntersagung.
 - **Gewerbeuntersagung Paragraph 35 GewO** drohend.
 - **Sperre als Geschaeftsfuehrer Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG**: 5 Jahre Sperre nach rechtskraeftiger Verurteilung wegen Insolvenzstraftat (auch Paragraph 283 StGB).
-- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
+- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
 
 ## Mustertexte
 

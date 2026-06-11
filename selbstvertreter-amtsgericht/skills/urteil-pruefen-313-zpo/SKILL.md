@@ -3,11 +3,11 @@ name: urteil-pruefen-313-zpo
 description: "Prüfung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbestand Entscheidungsgründe auf Vollständigkeit Korrektheit prüfen. Tatbestandsberichtigung § 320 ZPO Urteils-Ergaenzung § 321 ZPO bei vergessenen Ansprüchen. Vorbereitung Berufung."
 ---
 
-# Das schriftliche Urteil pruefen
+# Das schriftliche Urteil prüfen
 
 ## Worum geht es?
 
-Wenn Sie das schriftliche Urteil erhalten, sollten Sie es sorgfaeltig lesen — nicht nur den Tenor. Pruefen Sie, ob Tatbestand und Entscheidungsgruende Ihren Vortrag richtig wiedergeben. Fehler koennen Sie binnen Frist korrigieren lassen oder als Grundlage für Berufung nutzen.
+Wenn Sie das schriftliche Urteil erhalten, sollten Sie es sorgfaeltig lesen — nicht nur den Tenor. Prüfen Sie, ob Tatbestand und Entscheidungsgruende Ihren Vortrag richtig wiedergeben. Fehler können Sie binnen Frist korrigieren lassen oder als Grundlage für Berufung nutzen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -31,7 +31,7 @@ Wenn Sie das schriftliche Urteil erhalten, sollten Sie es sorgfaeltig lesen — 
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Tenor pruefen
+### Schritt 1 — Tenor prüfen
 
 Stimmt die Entscheidung mit der Verkuendung ueberein?
 
@@ -43,7 +43,7 @@ Stimmt die Entscheidung mit der Verkuendung ueberein?
 
 Wenn Diskrepanzen: Anwalt fragen oder Tatbestandsberichtigung.
 
-### Schritt 2 — Tatbestand pruefen
+### Schritt 2 — Tatbestand prüfen
 
 Im Tatbestand fasst das Gericht den Sachverhalt zusammen. Ist das richtig?
 
@@ -51,7 +51,7 @@ Im Tatbestand fasst das Gericht den Sachverhalt zusammen. Ist das richtig?
 - Wurden alle Tatsachen erwaehnt?
 - Sind Zeitangaben richtig?
 
-Fehler im Tatbestand koennen die Begruendung tragen — daher pruefen.
+Fehler im Tatbestand können die Begruendung tragen — daher prüfen.
 
 ### Schritt 3 — Tatbestandsberichtigung (§ 320 ZPO)
 
@@ -74,7 +74,7 @@ zu berichtigen.
 [Ort, Datum, Unterschrift]
 ```
 
-### Schritt 4 — Entscheidungsgruende pruefen
+### Schritt 4 — Entscheidungsgruende prüfen
 
 In den Entscheidungsgruenden begruendet das Gericht, warum es so entschieden hat.
 
@@ -112,7 +112,7 @@ Wenn fehlerhaft: Die "verlaengerte Rechtsmittel-Frist" greift — bis zu 1 Jahr 
 
 ### Schritt 7 — Entscheidung: Berufung?
 
-Pruefen Sie:
+Prüfen Sie:
 
 - Beschwer über 1.000 EUR? (§ 511 Abs. 2 Nr. 1 ZPO, Stand 2026) — sonst Berufung nur bei Zulassung; Übergangsfälle mit alter 600-EUR-Grenze gesondert prüfen.
 - Berufung zugelassen? (§ 511 II Nr. 2 ZPO).
@@ -125,7 +125,7 @@ Skill `berufung-amtsgericht-511-zpo`, `berufungs-zulassung-niedrig-streitwert`.
 Wenn Urteil vorlaeufig vollstreckbar (i. d. R. ja, § 708 ZPO):
 
 - Gegnerseite kann sofort pfaenden.
-- Antrag auf Aussetzung § 719 ZPO bei Einlegung Berufung moeglich.
+- Antrag auf Aussetzung § 719 ZPO bei Einlegung Berufung möglich.
 
 ### Schritt 9 — Frist im Auge
 
@@ -133,7 +133,7 @@ Berufungsfrist 1 Monat (§ 517 ZPO) startet mit Zustellung des Urteils.
 
 In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Frist 2 Wochen** für Tatbestandsberichtigung / Ergaenzung.
 - **Berufung 1 Monat**.
@@ -142,7 +142,7 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 
 ## Typische Fehler
 
-- "Tenor stimmt, alles andere egal." → Tatbestand pruefen.
+- "Tenor stimmt, alles andere egal." → Tatbestand prüfen.
 - "Berichtigung beantragen bei kleinen Fehlern." → Substanzfehler beantragen.
 - "Berufung kann immer eingelegt werden." → Streitwertgrenze beachten.
 

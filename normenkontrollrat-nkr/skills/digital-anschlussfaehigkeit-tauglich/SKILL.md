@@ -12,7 +12,7 @@ Seit 2022 gilt der **Digitalcheck**: jedes Bundesregelungsvorhaben muss vor Kabi
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben sieht digitale Verfahren vor
-- Vorhaben sieht analoge Verfahren vor (Pruefung, ob digital moeglich)
+- Vorhaben sieht analoge Verfahren vor (Prüfung, ob digital möglich)
 - Vorhaben enthaelt Datenpflichten
 - Vorhaben adressiert OZG-Leistungen
 
@@ -21,9 +21,9 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 ## Rechtlicher und methodischer Rahmen
 
 - **Digitalcheck-Methodik** (BMI / NKR, seit 2022)
-- **OZG** (Onlinezugangsgesetz, in der jeweils geltenden Fassung; OZG-Folgeregulierung Stand zu pruefen)
+- **OZG** (Onlinezugangsgesetz, in der jeweils geltenden Fassung; OZG-Folgeregulierung Stand zu prüfen)
 - **eIDAS-VO** (Verordnung (EU) 910/2014 in der jeweils geltenden Fassung)
-- **§ 44 GGO** — Folgen-Pruefung umfasst auch Digitales
+- **§ 44 GGO** — Folgen-Prüfung umfasst auch Digitales
 - **NKRG** § 4
 - **Standards XOEV, FIM, ELSTER, beA**
 
@@ -103,7 +103,7 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 
 ### Checkliste für den Digitalcheck (Pflichtbestandteile)
 
-- [ ] Digitale Kommunikation moeglich
+- [ ] Digitale Kommunikation möglich
 - [ ] OZG-Anschluss
 - [ ] XOEV / FIM verwendet
 - [ ] Once-Only umgesetzt
@@ -111,7 +111,7 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 - [ ] Barrierefreiheit
 - [ ] Maschinenlesbarkeit
 - [ ] Schnittstellen zu Bestandssystemen
-- [ ] Pruefung Automatisierungsmoeglichkeit
+- [ ] Prüfung Automatisierungsmoeglichkeit
 
 ## Typische Fehler in Ressort-Entwuerfen
 
@@ -130,4 +130,4 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - Standards XOEV, FIM, ELSTER, beA — Spezifikationen jeweils aktueller Stand
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.digitalcheck.bund.de](https://www.digitalcheck.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.digitalcheck.bund.de](https://www.digitalcheck.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

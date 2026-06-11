@@ -14,15 +14,15 @@ description: "Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-V
 
 ## Argumentation contra (herrschende Meinung)
 
-- **EuGH "Unamar" (Rs. C-184/12, 17.10.2013)**: Eingriffsnormen werden eng definiert — sie muessen "für die Wahrung der politischen, sozialen oder wirtschaftlichen Organisation eines Mitgliedstaats als so entscheidend angesehen werden, dass ihre Befolgung [...] vorzunehmen ist".
+- **EuGH "Unamar" (Rs. C-184/12, 17.10.2013)**: Eingriffsnormen werden eng definiert — sie müssen "für die Wahrung der politischen, sozialen oder wirtschaftlichen Organisation eines Mitgliedstaats als so entscheidend angesehen werden, dass ihre Befolgung [...] vorzunehmen ist".
 - § 242 BGB ist eine Auslegungs- und Konkretisierungsregel, kein international zwingender Anwendungsbefehl.
 - Art. 6 Rom-I-VO regelt den Verbraucherschutz autonom und abschliessend; die Spezialnorm verdraengt einen Rueckgriff auf Art. 9.
-- BGH IX ZR 119/14 (Az im Digitalisat verifizieren): keine Erstreckung des AGB-Rechts via § 242 BGB auf fremdrechtliche Vertraege.
-- Praktische Folge: Schweizer / englisches / US-Recht in B2B-Vertraegen ist wirksam, ohne dass deutsches AGB-Recht ueber § 242 BGB durchschlaegt.
+- BGH IX ZR 119/14 (Az im Digitalisat verifizieren): keine Erstreckung des AGB-Rechts via § 242 BGB auf fremdrechtliche Verträge.
+- Praktische Folge: Schweizer / englisches / US-Recht in B2B-Vertraegen ist wirksam, ohne dass deutsches AGB-Recht über § 242 BGB durchschlaegt.
 
 ## Praktische Folgen
 
-- Verwender mit deutschen B2B-Mandanten koennen mit Rechtswahl Schweizer Recht erheblichen AGB-Spielraum gewinnen.
+- Verwender mit deutschen B2B-Mandanten können mit Rechtswahl Schweizer Recht erheblichen AGB-Spielraum gewinnen.
 - Bei B2C bleibt Art. 6 Rom-I — der ist die einzige relevante Schutzklippe.
 - Schiedsklauseln in B2B sind frei verwertbar.
 

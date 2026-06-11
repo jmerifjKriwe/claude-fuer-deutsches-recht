@@ -24,19 +24,19 @@ description: "Führt Schritt für Schritt durch den Portal-Ersteintrag: Stammdat
 
 1. Sind alle Pflichtfelder und Nachweise vorhanden?
 2. Welche Angaben sind noch unsicher?
-3. Welche Texte muessen vor Eintragung intern freigegeben werden?
+3. Welche Texte müssen vor Eintragung intern freigegeben werden?
 
 ## Quellenanker
 
 ## Stop-Regel bei Zweigniederlassungen
 
-Wenn die Nutzerin eine unselbststaendige Zweigniederlassung als eigene Organisation registrieren will, muss der Skill stoppen und nachfragen: Ist die Zweigniederlassung eigener Rechtstraeger oder nur Handelsregisterzweigstelle? Liegt eine ausdrueckliche Auskunft der registerfuehrenden Stelle vor? Ohne diese Klaerung nur den ausländischen oder inlaendischen Rechtstraeger als Primaerentwurf ausgeben und die Niederlassung transparent im Eintrag abbilden.
+Wenn die Nutzerin eine unselbststaendige Zweigniederlassung als eigene Organisation registrieren will, muss der Skill stoppen und nachfragen: Ist die Zweigniederlassung eigener Rechtstraeger oder nur Handelsregisterzweigstelle? Liegt eine ausdrueckliche Auskunft der registerfuehrenden Stelle vor? Ohne diese Klärung nur den ausländischen oder inlaendischen Rechtstraeger als Primaerentwurf ausgeben und die Niederlassung transparent im Eintrag abbilden.
 
 ## JSON-nahes Eingabemapping
 
 Erzeuge neben dem Portal-Eingabeplan ein JSON-nahes Arbeitsmapping nach `assets/templates/registerdaten-json-mapping.md`. Das Mapping hilft, Pflichtfelder, Freigaben und den spaeteren API-Diff vorzubereiten. Es darf nicht als technische Einreichung, XML-Upload oder Portalersatz bezeichnet werden.
 
-Fuer jedes Feld angeben:
+Für jedes Feld angeben:
 
 - interne Quelle
 - Portalabschnitt

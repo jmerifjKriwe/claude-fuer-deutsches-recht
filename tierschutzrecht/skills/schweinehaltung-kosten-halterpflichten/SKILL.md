@@ -3,7 +3,7 @@ name: schweinehaltung-kosten-halterpflichten
 description: "Schweinehaltung: Kosten klären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Schweinehaltung Kosten Klaeren
+# Schweinehaltung Kosten Klären
 
 ## Arbeitsweg
 

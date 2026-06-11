@@ -13,11 +13,11 @@ description: "Fax beim SG einreichen Vorteile und Grenzen. Sendebericht als Bewe
 
 ## Worum geht es?
 
-Fax ist immer noch ein anerkannter Weg, eine Klage einzureichen. Vorteil: Sie haben einen Beweis für den Eingang am selben Tag. Nachteil: Fax wird zunehmend abgeschafft. Diese Skill zeigt, wann Fax sinnvoll ist und worauf Sie achten muessen.
+Fax ist immer noch ein anerkannter Weg, eine Klage einzureichen. Vorteil: Sie haben einen Beweis für den Eingang am selben Tag. Nachteil: Fax wird zunehmend abgeschafft. Diese Skill zeigt, wann Fax sinnvoll ist und worauf Sie achten müssen.
 
 ## In einfacher Sprache
 
-Sie koennen die Klage auch per Fax schicken. Das geht schnell. Sie haben einen Beweis. Aber: nicht jedes Gericht hat noch ein Fax. Pruefen Sie das vorher.
+Sie können die Klage auch per Fax schicken. Das geht schnell. Sie haben einen Beweis. Aber: nicht jedes Gericht hat noch ein Fax. Prüfen Sie das vorher.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -38,12 +38,12 @@ Sie koennen die Klage auch per Fax schicken. Das geht schnell. Sie haben einen B
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Aktuelle Faxnummer pruefen
+### Schritt 1 — Aktuelle Faxnummer prüfen
 
 - Auf www.sozialgerichtsbarkeit.de
 - Oder bei der Geschaeftsstelle anrufen.
 
-Achtung: Einige SG haben das Fax abgeschafft oder umgestellt. Pruefen Sie immer aktuell.
+Achtung: Einige SG haben das Fax abgeschafft oder umgestellt. Prüfen Sie immer aktuell.
 
 ### Schritt 2 — Schriftsatz vorbereiten
 
@@ -62,7 +62,7 @@ Achtung: Einige SG haben das Fax abgeschafft oder umgestellt. Pruefen Sie immer 
 
 - Nummer waehlen mit fuehrender Null.
 - Nach dem Senden: Sendebericht ausdrucken.
-- Pruefen, dass "OK" oder "Erfolg" dasteht.
+- Prüfen, dass "OK" oder "Erfolg" dasteht.
 
 ### Schritt 5 — Aufheben
 
@@ -72,12 +72,12 @@ Achtung: Einige SG haben das Fax abgeschafft oder umgestellt. Pruefen Sie immer 
 ### Schritt 6 — Bei Versand am letzten Tag
 
 - Frueh am Tag senden (nicht 23:55).
-- Wenn das Fax voll ist, koennte es bei spaeter Sendung nicht durchgehen.
+- Wenn das Fax voll ist, koennte es bei später Sendung nicht durchgehen.
 - Im Notfall mehrere Versuche; jeden Sendebericht aufheben.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Fax verschwindet**: Justizverwaltung baut Fax allmaehlich ab. Pruefen Sie vor jedem Einsatz.
+- **Fax verschwindet**: Justizverwaltung baut Fax allmaehlich ab. Prüfen Sie vor jedem Einsatz.
 - **Sendebericht ist ENTSCHEIDEND**: ohne OK-Sendebericht haben Sie keinen Beweis.
 - **Quality**: Fax-Vorlage muss lesbar sein. Dunkler Text auf hellem Grund.
 - **Anlagen mit vielen Seiten**: dauert lange; Geraet kann waehrenddessen abbrechen.
@@ -91,4 +91,4 @@ Achtung: Einige SG haben das Fax abgeschafft oder umgestellt. Pruefen Sie immer 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. BGH und BSG haben Fax-Schriftform vielfach bestaetigt. Fax in der Justiz wird mittelfristig abgeschafft. Pruefen Sie bei Ihrem SG aktuell, ob noch verfuegbar.
+Stand: 05/2026. BGH und BSG haben Fax-Schriftform vielfach bestaetigt. Fax in der Justiz wird mittelfristig abgeschafft. Prüfen Sie bei Ihrem SG aktuell, ob noch verfuegbar.

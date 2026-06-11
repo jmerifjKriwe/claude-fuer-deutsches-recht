@@ -3,16 +3,16 @@ name: avv-pruefung-bestehender-vertraege-audit
 description: "Pruefung bestehender AVV-Vertraege Vendor-Inventur AVV-Audit und Vertragsfolgemanagement. Behandelt die systematische Durchsicht eines AVV-Bestands die Identifikation veralteter Klauseln SCC-Altmuster fehlender DPF-Bezug und sub-AV-Listenpflege. Output: Audit-Bericht und Vertragsverbesserungsplan."
 ---
 
-# AVV-Audit – Pruefung bestehender Vertraege
+# AVV-Audit – Prüfung bestehender Verträge
 
 ## Zweck / Purpose
 
-Systematische Inventur und Pruefung bestehender Auftragsverarbeitungsvertraege auf Aktualitaet, Vollstaendigkeit der Pflichtinhalte, Sub-AV-Pflege und Drittlandbezug. Purpose (EN): Vendor inventory and audit of existing DPAs.
+Systematische Inventur und Prüfung bestehender Auftragsverarbeitungsvertraege auf Aktualitaet, Vollstaendigkeit der Pflichtinhalte, Sub-AV-Pflege und Drittlandbezug. Purpose (EN): Vendor inventory and audit of existing DPAs.
 
 ## Wann dieses Modul hilft
 
-- Mandant hat AVV-Bestand und will im Rahmen eines Compliance-Programms pruefen.
-- Aufsichtsbehoerde hat eine Pruefung angekuendigt und der AVV-Bestand muss verteidigungsfaehig sein.
+- Mandant hat AVV-Bestand und will im Rahmen eines Compliance-Programms prüfen.
+- Aufsichtsbehoerde hat eine Prüfung angekuendigt und der AVV-Bestand muss verteidigungsfaehig sein.
 - Nach einer Datenpanne oder einem Aufsichtsanlass ist der AVV-Bestand systematisch nachzuziehen.
 - Bei Unternehmenskauf (M&A) ist der AVV-Bestand Teil der Due Diligence.
 
@@ -54,7 +54,7 @@ Systematische Inventur und Pruefung bestehender Auftragsverarbeitungsvertraege a
  - TIA vorhanden und aktuell?
 
 6. **Aktualitaet der TOM-Anlage.**
- - Letzte Pruefung?
+ - Letzte Prüfung?
  - Branchenuebliche Standards (ISO 27001, BSI C5, SOC 2) referenziert?
  - Pflichtmindestmassnahmen aus Art. 32 DSGVO abgedeckt?
 
@@ -104,7 +104,7 @@ Frist: [DATUM]
 
 ## Typische Drafting-Fehler
 
-- AVV-Bestand wird nur per Stichprobe geprueft – für aufsichtsbehoerdliche Pruefung unzureichend.
+- AVV-Bestand wird nur per Stichprobe geprueft – für aufsichtsbehoerdliche Prüfung unzureichend.
 - Altbestand mit SCC-Altmustern (2001/497/EG, 2010/87/EU) nicht umgestellt.
 - DPF-Listing nicht periodisch geprueft.
 - TOM-Anlage Stand 2018 ohne Aktualisierung.

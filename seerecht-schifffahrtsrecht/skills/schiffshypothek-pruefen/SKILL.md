@@ -7,7 +7,7 @@ description: "Mandant (Bank oder Kaeufer) prueft bestehende Schiffshypothek: Val
 
 ## Arbeitsbereich
 
-Mandant (Bank oder Kaeufer) prueft bestehende Schiffshypothek: Valutierung; Rang; Sicherungsvertrag nach SchRG §§ 8-74. Hoechstbetragshypothek (SchRG § 75); Sicherungsabrede; Mithaftung Zubehoer (SchRG § 31); Kreditkuendigungsvoraussetzungen. Schiffsglaeubigerrecht-Vorrang (HGB §§ 596-601). Output: Hypothekenpruefvermerk und Freigabestrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant (Bank oder Kaeufer) prüft bestehende Schiffshypothek: Valutierung; Rang; Sicherungsvertrag nach SchRG §§ 8-74. Hoechstbetragshypothek (SchRG § 75); Sicherungsabrede; Mithaftung Zubehoer (SchRG § 31); Kreditkuendigungsvoraussetzungen. Schiffsglaeubigerrecht-Vorrang (HGB §§ 596-601). Output: Hypothekenpruefvermerk und Freigabestrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

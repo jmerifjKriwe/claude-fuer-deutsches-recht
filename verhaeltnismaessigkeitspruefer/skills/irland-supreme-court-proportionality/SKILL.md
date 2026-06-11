@@ -13,7 +13,7 @@ schuetzt **fundamental rights** in Art 40 bis 44, ergaenzt um die
 294. Art 40 3 1 Constitution verpflichtet den Staat, die personal
 rights des Buergers zu schuetzen.
 
-Die EMRK ist ueber den **European Convention on Human Rights Act 2003**
+Die EMRK ist über den **European Convention on Human Rights Act 2003**
 sub-konstitutionell inkorporiert; sie ist Auslegungshilfe und kann zu
 declaration of incompatibility fuehren (Section 5 ECHR Act 2003).
 
@@ -29,7 +29,7 @@ verankert:
    eines pressing and substantial objective.
 2. **Minimal impairment / least restrictive means**: das Mittel
    beeintraechtigt das Recht moeglichst wenig.
-3. **Proportionate effect**: die Vorteile fuer das Allgemeinwohl
+3. **Proportionate effect**: die Vorteile für das Allgemeinwohl
    ueberwiegen die Belastung des Betroffenen.
 
 Bestaetigt und fortentwickelt in:
@@ -63,13 +63,13 @@ Eingriffe in diese Rechte werden ebenfalls am Heaney Test gemessen.
 | Deutschland | Irland |
 | --- | --- |
 | Vier Stufen sequenziell | Drei Stufen Heaney Test (Oakes-Rezeption) |
-| Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt; abwaegungsfeste Kerne ueber Art 40 3 und EMRK Art 3 |
-| Schutzbereich-Eingriff-Rechtfertigung getrennt | Pruefung in Heaney-Schritten integriert |
+| Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt; abwaegungsfeste Kerne über Art 40 3 und EMRK Art 3 |
+| Schutzbereich-Eingriff-Rechtfertigung getrennt | Prüfung in Heaney-Schritten integriert |
 | Einschaetzungspraerogative national | Margin of appreciation des Oireachtas, eng kontrolliert bei Eingriffen |
 | Praktische Konkordanz | Balancing exercise (von kanadischem Oakes-Test uebernommen) |
-| Untermassverbot ausgepraegt | Positive duty to protect aus Art 40 3 1 |
+| Untermassverbot ausgeprägt | Positive duty to protect aus Art 40 3 1 |
 
-## Bedeutung fuer den Pruefer
+## Bedeutung für den Prüfer
 
 Bei irischen Bezuegen:
 
@@ -77,16 +77,16 @@ Bei irischen Bezuegen:
   substantial objective als Zweckpruefung.
 - Direkten Bezug zu R v Oakes 1986 SCR herstellen, weil der irische
   Test ohne Zwischenstufe direkt rezipiert ist.
-- Unenumerated rights-Doktrin als irische Besonderheit fuer Rechte
+- Unenumerated rights-Doktrin als irische Besonderheit für Rechte
   nutzen, die im deutschen Recht in Art 2 I iVm Art 1 I GG aufgehen.
 - ECHR Act 2003 als sub-konstitutionellen Rezeptionskanal benennen;
-  EMRK-Konformitaet ueber declaration of incompatibility (Section 5).
+  EMRK-Konformitaet über declaration of incompatibility (Section 5).
 - Bei Klimaschutz Friends of the Irish Environment v Government of
   Ireland [2020] IESC 49 als methodisches Pendant zu BVerfGE 157, 30
   zitieren.
 
 ## Live-Recherche-Disclaimer
 
-Urteile vor Zitierung verifizieren ueber courts ie / supremecourt ie und
+Urteile vor Zitierung verifizieren über courts ie / supremecourt ie und
 BAILII (bailii org). Irische Zitierform (Jahr) Band IR Seite (Irish
 Reports) bzw [Jahr] IESC Nummer (Supreme Court neutral citation).

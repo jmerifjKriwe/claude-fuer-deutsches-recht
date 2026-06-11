@@ -26,7 +26,7 @@ Identifiziere ironische und sarkastische Formulierungen in beruflichen Texten un
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Verbot herabsetzender Aeusserungen (auch durch Ironie)
 - § 25 BORA — Kollegialitaet: keine Herabsetzung von Kollegen durch sarkastische Formulierungen
 - Art. 5 GG — Meinungsfreiheit: Schutz scharfer Kritik, nicht von Schmahkritik
-- § 185 StGB — Beleidigung: sarkastische Aussagen koennen Beleidigungscharakter haben
+- § 185 StGB — Beleidigung: sarkastische Aussagen können Beleidigungscharakter haben
 
 ## Warum Ironie und Sarkasmus problematisch sind
 

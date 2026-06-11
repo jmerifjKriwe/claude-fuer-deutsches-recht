@@ -17,7 +17,7 @@ Das LSG hat gegen Sie entschieden und die Revision nicht zugelassen. Sie wollen 
 
 ## In einfacher Sprache
 
-Das LSG hat Sie nicht zum BSG gelassen. Sie koennen das selbst angreifen. Das nennt man Nichtzulassungsbeschwerde. Aber: nur mit Anwalt.
+Das LSG hat Sie nicht zum BSG gelassen. Sie können das selbst angreifen. Das nennt man Nichtzulassungsbeschwerde. Aber: nur mit Anwalt.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -53,7 +53,7 @@ Beim BSG zugelassener Anwalt. PKH-Antrag.
 
 - Rechtsfrage allgemein wichtig
 - Nicht durch BSG entschieden
-- Wahrscheinlich erneut zu klaeren
+- Wahrscheinlich erneut zu klären
 
 **Divergenz**:
 
@@ -76,7 +76,7 @@ Oft Beschluss ohne muendliche Verhandlung. Erfolgsquote real eher klein.
 
 BSG lasst Revision zu. Verfahren wird als Revisions-Verfahren fortgesetzt.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sehr formelle Anforderungen**.
 - **Anwalt mit Erfahrung** suchen.

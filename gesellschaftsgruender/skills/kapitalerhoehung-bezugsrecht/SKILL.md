@@ -231,9 +231,9 @@ Klaere vor Bearbeitung einer Kapitalerhoehung:
 1. **Art der Erhoehung?** Bareinlage (Cash) oder Sacheinlage (Assets, IP, Forderungen)?
 2. **Bezugsrecht ausgeschlossen oder gewahrt?** Neuer Investor: typisch Ausschluss; interne Erhoehung: typisch gewahrt.
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. **75%-Mehrheit gesichert?** Stimmverbot § 47 IV GmbHG pruefen; Golden-Share-Veto pruefen.
-5. **Anti-Dilution-Klauseln in SHA?** Bestehende Investoren-Schutzrechte koennen durch neue Runde ausgeloest werden.
-6. **Stamm- oder Nennkapital nach Erhoehung?** Handelsregister-Eintragung erst nach vollstaendiger Einzahlung moeglich.
+4. **75%-Mehrheit gesichert?** Stimmverbot § 47 IV GmbHG prüfen; Golden-Share-Veto prüfen.
+5. **Anti-Dilution-Klauseln in SHA?** Bestehende Investoren-Schutzrechte können durch neue Runde ausgeloest werden.
+6. **Stamm- oder Nennkapital nach Erhoehung?** Handelsregister-Eintragung erst nach vollstaendiger Einzahlung möglich.
 
 ## Aktuelle Rechtsprechung
 

@@ -24,11 +24,11 @@ description: "Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft di
  - **lit. b:** Klausel, durch die der Kunde bestimmte Tatsachen bestaetigt (z.B. "Kunde bestaetigt vollstaendige Information").
  - **Konkrete Beispiele unwirksamer Klauseln:**
  - "Der Anspruch des Kunden auf Mangelbeseitigung setzt voraus, dass er den Mangel innerhalb von 14 Tagen anzeigt" (Beweislastumkehr).
- - "Der Kunde bestaetigt, ueber das Widerrufsrecht informiert worden zu sein" (Tatsachen-Bestaetigung).
+ - "Der Kunde bestaetigt, über das Widerrufsrecht informiert worden zu sein" (Tatsachen-Bestaetigung).
  - "Die Sache ist bei Lieferung in ordnungsgemaessem Zustand" (Beweisbelastung).
- - **§ 308 Nr. 6 BGB - Zugangsfiktion (Klauselverbot mit Wertungsmoeglichkeit):** Klausel, nach der eine Erklaerung des Verwenders bei besonderem Bedeutung als zugegangen gilt - nur bei angemessener Frist und Hinweisfunktion zulaessig. Pauschale Zugangsfiktion wie "Mitteilung an die letzte uns bekannte Adresse gilt als zugegangen" ist regelmaessig unwirksam.
+ - **§ 308 Nr. 6 BGB - Zugangsfiktion (Klauselverbot mit Wertungsmoeglichkeit):** Klausel, nach der eine Erklaerung des Verwenders bei besonderem Bedeutung als zugegangen gilt - nur bei angemessener Frist und Hinweisfunktion zulässig. Pauschale Zugangsfiktion wie "Mitteilung an die letzte uns bekannte Adresse gilt als zugegangen" ist regelmaessig unwirksam.
  - **B2B-Ausstrahlung:**
- - § 309 Nr. 12 BGB strahlt ueber § 307 BGB ins B2B aus (BGH, ständige Rechtsprechung).
+ - § 309 Nr. 12 BGB strahlt über § 307 BGB ins B2B aus (BGH, ständige Rechtsprechung).
  - § 308 Nr. 6 BGB ist im B2B unter Wertung des § 307 BGB anwendbar; pauschale Zugangsfiktionen auch im B2B kritisch.
  - **Zugang nach § 130 BGB:** Bei Empfangsbeduerftigen Willenserklaerungen "Zugang in den Machtbereich des Empfaengers + Moeglichkeit der Kenntnisnahme". Bei E-Mail: in Eingang des Empfangsservers + Kenntnisnahmemoeglichkeit (BGH-Linie). Ausserhalb von Geschaeftszeiten: am naechsten Werktag.
  - **Beweissicherung im Vertrag:** Statt Zugangsfiktion ist Lieferantragsdokumentation zu empfehlen (Einschreiben, Lesebestaetigung, qualifizierter elektronischer Zustelldienst).
@@ -46,8 +46,8 @@ description: "Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft di
 - § 309 Nr. 13 BGB Strengere Form als die Textform für Anzeigen oder Erklaerungen.
 
 ### Schriftformklauseln
-- Schriftform statt Textform: gemaess § 309 Nr. 13 BGB unwirksam, soweit AGB strengere Anforderungen vorsehen, als das Gesetz vorschreibt.
-- BGB-Reform 2016: Textform genuegt; alle "Schriftform"-Klauseln in Verbraucher-AGB sind zu pruefen.
+- Schriftform statt Textform: gemäß § 309 Nr. 13 BGB unwirksam, soweit AGB strengere Anforderungen vorsehen, als das Gesetz vorschreibt.
+- BGB-Reform 2016: Textform genuegt; alle "Schriftform"-Klauseln in Verbraucher-AGB sind zu prüfen.
 - BGH VIII ZR 91/19 zur Konsequenz unwirksamer Schriftformklauseln (Az im Digitalisat verifizieren).
 
 ### Zugangsfiktion
@@ -59,7 +59,7 @@ description: "Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft di
 1. Beweislastverteilung modifiziert? — § 309 Nr. 12 BGB.
 2. Strengere Form als gesetzlich? — § 309 Nr. 13 BGB.
 3. Zugang fiktiv geregelt? — § 308 Nr. 6 BGB.
-4. B2B? — Pruefung nach § 307 BGB, Indizwirkung der Wertung des § 309 BGB.
+4. B2B? — Prüfung nach § 307 BGB, Indizwirkung der Wertung des § 309 BGB.
 
 ## Quellenanker
 

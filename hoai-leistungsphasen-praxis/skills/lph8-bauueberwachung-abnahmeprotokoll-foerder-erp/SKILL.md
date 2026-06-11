@@ -15,7 +15,7 @@ description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeff
 
 ## Spezialwissen
 
-Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprotokolle: Verwendungsnachweise für KfW, EFRE und Bundesfoerderungen muessen lueckenlos nachweisen, dass foerderungsrelevante Baumassnahmen ordnungsgemaess ausgefuehrt wurden. Abnahmeprotokoll und ERP-Buchung sind dabei untrennbar verknuepft. Dieser Skill beschreibt den vollstaendigen von der Abnahmebegehung bis zur SAP-FI-Buchung und Foerderantrag-Konformitaetsnachweis.
+Öffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprotokolle: Verwendungsnachweise für KfW, EFRE und Bundesfoerderungen müssen lueckenlos nachweisen, dass foerderungsrelevante Baumassnahmen ordnungsgemaess ausgefuehrt wurden. Abnahmeprotokoll und ERP-Buchung sind dabei untrennbar verknuepft. Dieser Skill beschreibt den vollstaendigen von der Abnahmebegehung bis zur SAP-FI-Buchung und Foerderantrag-Konformitaetsnachweis.
 
 ## Bauwerk und Auftrag
 
@@ -26,7 +26,7 @@ Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprot
 ## Erste Schritte Abnahmeprotokoll öffentlicher Bau
 
 1. Abnahmetermin vorbereiten: Einladung alle Parteien AN, AG, Sachverstaendiger, Foerdermittelbehoerde, Terminbestaetigung 14 Tage vorher, Checklisten Dalux vorab ausgefuellt
-2. Begehung strukturieren: Rundgang nach Gewerk-Reihenfolge VOB/C, Foto je Mangel, Protokollant und Schriftfuehrer, Massnahmen sofort festhalten, Fristen definieren
+2. Begehung strukturieren: Rundgang nach Gewerk-Reihenfolge VOB/C, Foto je Mangel, Protokollant und Schriftfuehrer, Maßnahmen sofort festhalten, Fristen definieren
 3. Abnahmeprotokoll Formular: VOB/B § 12 Angaben vollstaendig AG AN Datum Ort, Fertigstellungsdatum, Mangelliste nummeriert, Fristen, Vorbehalt und Faelligkeit, Unterschrift alle Parteien
 4. Foerderantrag-Konformitaetspruefung: Abnahmemassnahmen gegen Foerderbedingungen abgeglichen, z.B. KfW 55 U-Wert-Nachweis, EFRE-Ausschreibungskonformitaet
 5. Verwendungsnachweis-Vorbereitung: Kosten aus SAP PS Ist-Kosten je Foerderposition, Rechnungsbelege archiviert BIM360, Foerderposition zu LV-Position Zuordnung
@@ -38,7 +38,7 @@ Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprot
 - HOAI 2021 § 34 Anlage 10 LPH 8: Abnahme als Grundleistung, Foerdermittelkoordination als Besondere Leistung
 - VOB/B § 12 Abnahme: Abnahmeprotokoll-Pflicht, Maengelvorbehalt, Faelligkeiten, Verjährungsbeginn Maengelansprueche
 - KfW-Merkblatt Energieeffizient Sanieren und Bauen: Abnahmevoraussetzungen, Energieberater-Bestaetigung, Pruefzertifikat
-- EFRE-Verordnung EU 2021/1060 Dachverordnung: Verwendungsnachweis, Pruefpfad, Unabhaengige Pruefung Verwendung Foerdermittel
+- EFRE-Verordnung EU 2021/1060 Dachverordnung: Verwendungsnachweis, Pruefpfad, Unabhaengige Prüfung Verwendung Foerdermittel
 - GoBD BMF-Schreiben 2019: Grundsaetze ordnungsgemaesser DV-gestuetzter Buchfuehrungssysteme, revisionssichere Archivierung Foerderbelege
 
 ## Prueferaster und Kontrollpunkte
@@ -46,7 +46,7 @@ Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprot
 1. Abnahmeprotokoll-Vollstaendigkeit: Alle VOB/B § 12 Angaben, Datum Fertigstellung und Abnahme, Mangelliste vollstaendig, Fristen schriftlich, Unterschriften aller Parteien
 2. Foerderantrag-Konformitaet: Je Foerderposition Nachweis Ausfuehrung nach Foerderbedingungen, z.B. KfW Daemmstandard Protokoll Energieberater
 3. Verwendungsnachweis-Vollstaendigkeit: Alle Rechnungsbelege vorhanden, SAP PS Ist-Kosten je Foerderposition ausgewertet, Foerderhoechstbetrag nicht ueberschritten
-4. eIDAS-Signatur-Pruefung: Qualifiziertes Zertifikat Signatur Zeitstempel, Verifikation durch Vertrauensdiensteanbieter
+4. eIDAS-Signatur-Prüfung: Qualifiziertes Zertifikat Signatur Zeitstempel, Verifikation durch Vertrauensdiensteanbieter
 5. Foerderantrag-Frist-Kontrolle: Einreichungsfrist Verwendungsnachweis nach Foerderrichtlinie beachtet, typisch 6 Monate nach Abnahme
 6. SAP FI Buchung: Foerdermitteleingang als Sonderposten, korrekte Kontengruppe, Kostenstellen-Zuordnung, Pruefbericht Wirtschaftspruefer
 
@@ -70,12 +70,12 @@ Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprot
 
 - Abnahme ohne Foerdermittelkonformitaet-Check: Foerdermittelgeber verweigert Verwendungsnachweis nachtraeglich wegen Ausfuehrungsabweichung
 - Fehlende Partei-Unterschrift: Abnahme unwirksam nach VOB/B § 12, Verjährungsfrist beginnt nicht, Maengelansprueche laufen weiter
-- Verwendungsnachweis-Frist verspasst: Foerdermittelrueckforderung moeglich nach Foerderrichtlinie bei Fristversaeumnis
-- SAP FI Buchung falsche Kontengruppe: Wirtschaftspruefer-Pruefung ergibt Fehler, Foerderantrag abgelehnt
+- Verwendungsnachweis-Frist verspasst: Foerdermittelrueckforderung möglich nach Foerderrichtlinie bei Fristversaeumnis
+- SAP FI Buchung falsche Kontengruppe: Wirtschaftspruefer-Prüfung ergibt Fehler, Foerderantrag abgelehnt
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

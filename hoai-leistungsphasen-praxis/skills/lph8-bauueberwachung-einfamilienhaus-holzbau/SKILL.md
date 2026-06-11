@@ -27,10 +27,10 @@ Fehler in der Luftdichtheitsebene sind nach Beplankung kaum noch korrigierbar un
 
 ## Erste Schritte auf der Baustelle
 
-1. Pruefung Lieferunterlagen: CE-Kennzeichnung, Holzklasse GL24h, Feuchtegehalt Anlieferungsprotokoll max. 15 Prozent
+1. Prüfung Lieferunterlagen: CE-Kennzeichnung, Holzklasse GL24h, Feuchtegehalt Anlieferungsprotokoll max. 15 Prozent
 2. Kontrolle Sockelanschluss auf Betonbodenplatte: Trennlage gegen Feuchtigkeit, Schwellhoelzer Holzschutzklasse GK 3b
 3. Montagebegleitung Aufrichttag: Stuetzenstellung, Wandtafel-Verbindungen, Horizontalscheiben, Diagonalverstrebungen
-4. Luftdichtheitsebene vor Beplankung: PE-Folie lueckenfrei, Klebeband Stossstellen und Durchfuehrungen pruefen
+4. Luftdichtheitsebene vor Beplankung: PE-Folie lueckenfrei, Klebeband Stossstellen und Durchfuehrungen prüfen
 5. Dachanschluss und Ringbalken: Auflagerpunkt Dachbinder, Fenstersturz Anschluss Dampfbremse, Gefaellegrad
 6. Blower-Door-Vortest nach Rohbaufertigstellung: n50-Wert, Leckageortung mit Thermokamera Flir TG275, Protokoll
 
@@ -40,7 +40,7 @@ Fehler in der Luftdichtheitsebene sind nach Beplankung kaum noch korrigierbar un
 - § 650p BGB Architektenvertrag Pflichten Bauueberwachung, § 650q BGB Kuendigung
 - DIN EN 1995-1-1 Eurocode 5: Bemessung und Konstruktion von Holzbauten
 - DIN 4108-7 Waermeschutz: Luftdichtheit von Gebaeuden, Anforderungen und Ausfuehrung
-- DIN 68800-2 Holzschutz: Vorbeugende bauliche Massnahmen, Schutzklassen GK 0 bis GK 3
+- DIN 68800-2 Holzschutz: Vorbeugende bauliche Maßnahmen, Schutzklassen GK 0 bis GK 3
 - GEG 2023 Gebaeude-Energie-Gesetz: Neubaustandard, KfW-Foerderprogramme und Nachweispflichten
 
 ## Prueferaster und Kontrollpunkte

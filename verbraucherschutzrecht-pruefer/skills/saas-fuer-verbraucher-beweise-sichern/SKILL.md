@@ -3,7 +3,7 @@ name: saas-fuer-verbraucher-beweise-sichern
 description: "Prüfer: SaaS für Verbraucher: Beweise sichern im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Saas Fuer Verbraucher Beweise Sichern
+# Saas Für Verbraucher Beweise Sichern
 
 ## Arbeitsweg
 

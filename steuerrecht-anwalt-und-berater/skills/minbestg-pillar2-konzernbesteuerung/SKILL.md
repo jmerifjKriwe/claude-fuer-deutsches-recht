@@ -41,8 +41,8 @@ description: "Beratung zur globalen Mindestbesteuerung Pillar Two MinBestG für 
 - **OECD Commentary** (März 2022) zur Anwendung.
 - **OECD Administrative Guidance** (Februar 2023, Juli 2023, Dezember 2023, Mai 2024, Januar 2025).
 - **EU-Richtlinie (EU) 2022/2523** vom 14.12.2022.
-- **Mindeststeueranpassungsgesetz (MinStAnpG)** vom Dezember 2025 (BGBl. 2025 I Nr. 353, verkuendet 23.12.2025; in Kraft 24.12.2025). Setzt OECD-Verwaltungsleitlinien vom 15.12.2023, 24.05.2024 und 13.01.2025 um (CbCR-Safe-Harbour-Anpassungen, QDMTT-Safe-Harbour-Voraussetzungen). Aktuellen Stand pruefen.
-- BMF-Schreiben vom 18.04.2024 zum MinBestG (Anwendung). Folgeschreiben moeglich.
+- **Mindeststeueranpassungsgesetz (MinStAnpG)** vom Dezember 2025 (BGBl. 2025 I Nr. 353, verkuendet 23.12.2025; in Kraft 24.12.2025). Setzt OECD-Verwaltungsleitlinien vom 15.12.2023, 24.05.2024 und 13.01.2025 um (CbCR-Safe-Harbour-Anpassungen, QDMTT-Safe-Harbour-Voraussetzungen). Aktuellen Stand prüfen.
+- BMF-Schreiben vom 18.04.2024 zum MinBestG (Anwendung). Folgeschreiben möglich.
 - **§ 8b KStG / § 17 KStG / DBA** — Wechselwirkungen mit klassischem Konzernsteuerrecht.
 
 ### Leitentscheidungen und relevante Rechtsprechung

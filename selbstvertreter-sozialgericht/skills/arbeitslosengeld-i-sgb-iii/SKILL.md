@@ -13,7 +13,7 @@ description: "Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezei
 
 ## Worum geht es?
 
-ALG I ist Versicherungsleistung. Sie haben gearbeitet, jetzt sind Sie arbeitslos. Streit gibt es vor allem um Sperrzeiten, Hoehe und Anwartschaft.
+ALG I ist Versicherungsleistung. Sie haben gearbeitet, jetzt sind Sie arbeitslos. Streit gibt es vor allem um Sperrzeiten, Höhe und Anwartschaft.
 
 ## In einfacher Sprache
 
@@ -23,26 +23,26 @@ Arbeitslosengeld I bekommen Sie, wenn Sie eine Zeit lang gearbeitet haben und je
 
 - Sperrzeit wurde verhaengt.
 - Anwartschaftszeit angeblich nicht erfuellt.
-- Hoehe falsch berechnet.
+- Höhe falsch berechnet.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **ALG I**: Arbeitslosengeld bei Arbeitslosigkeit (12 bis 24 Monate je nach Lebensalter).
 - **Sperrzeit**: Kuerzung wegen versicherungswidrigem Verhalten (z.B. selbst gekuendigt).
 - **Anwartschaftszeit**: 12 Monate sozialversicherungspflichtige Beschaeftigung in den letzten 30 Monaten.
-- **Bemessungsentgelt**: Berechnungsgrundlage für Hoehe.
+- **Bemessungsentgelt**: Berechnungsgrundlage für Höhe.
 
 ## Rechtsgrundlagen
 
 - **§ 137 SGB III** — Anspruch.
 - **§ 142 SGB III** — Anwartschaftszeit.
 - **§ 147 SGB III** — Anspruchsdauer.
-- **§ 149 SGB III** — Hoehe.
+- **§ 149 SGB III** — Höhe.
 - **§ 159 SGB III** — Sperrzeit.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Anspruch pruefen
+### Schritt 1 — Anspruch prüfen
 
 - Arbeitslos
 - Arbeitslosenmeldung
@@ -56,7 +56,7 @@ Arbeitslosengeld I bekommen Sie, wenn Sie eine Zeit lang gearbeitet haben und je
 - **Sperrzeit bei unzureichenden Eigenbemuehungen** (Nr. 3): 2 Wochen.
 - **Sperrzeit bei Meldeversaeumnis** (Nr. 5): 1 Woche.
 
-### Schritt 3 — Wichtiger Grund pruefen
+### Schritt 3 — Wichtiger Grund prüfen
 
 Bei Eigenkuendigung "wichtiger Grund":
 
@@ -64,7 +64,7 @@ Bei Eigenkuendigung "wichtiger Grund":
 - Gesundheitsgruende mit Attest
 - Schwerwiegende Vertragsverletzungen des Arbeitgebers
 - Familiaere Gruende (Pflege von Angehoerigen)
-- Wegfall der Zumutbarkeit des Arbeitswegs (z.B. bei Umzug zu pflegebeduerftigem Angehoerigen) — BSG-Linie pruefen
+- Wegfall der Zumutbarkeit des Arbeitswegs (z.B. bei Umzug zu pflegebeduerftigem Angehoerigen) — BSG-Linie prüfen
 - Aufhebungsvertrag für Abfindung — meist KEIN wichtiger Grund, ausser drohende betriebliche Kuendigung
 
 ### Schritt 4 — Widerspruch
@@ -96,13 +96,13 @@ Mit freundlichen Gruessen
 
 Bei abweisendem Widerspruchsbescheid.
 
-### Schritt 6 — Bei Streit um Hoehe
+### Schritt 6 — Bei Streit um Höhe
 
-- Bemessungszeitraum pruefen (1 Jahr vor Arbeitslosigkeit)
+- Bemessungszeitraum prüfen (1 Jahr vor Arbeitslosigkeit)
 - Beitragsklasse / Steuerklasse
 - Kinder (Beruecksichtigung im Leistungssatz)
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sperrzeit ist Existenz-Bedrohung**: 12 Wochen ohne ALG I.
 - **Aufhebungsvertrag** loest fast immer Sperrzeit aus.
@@ -116,4 +116,4 @@ Bei abweisendem Widerspruchsbescheid.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGB III aktuell. BSG-Linie zu wichtigem Grund Eigenkuendigung pruefen in juris.
+Stand: 05/2026. SGB III aktuell. BSG-Linie zu wichtigem Grund Eigenkuendigung prüfen in juris.

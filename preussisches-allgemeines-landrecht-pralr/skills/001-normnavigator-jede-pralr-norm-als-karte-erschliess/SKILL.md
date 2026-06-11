@@ -40,7 +40,7 @@ Pro Norm: Quellenanker, Inhalt, Subsumtion, Vergleich BGB.
 - Digitalisat: opinioiuris.de, koeblergerhard.de, MPI für Rechtsgeschichte.
 
 ### 2. Inhalt
-- Wortlaut (mit Vorbehalt: OCR-Pruefung).
+- Wortlaut (mit Vorbehalt: OCR-Prüfung).
 - Begriffe (frueh-modernes Deutsch entschluesseln).
 
 ### 3. Subsumtion

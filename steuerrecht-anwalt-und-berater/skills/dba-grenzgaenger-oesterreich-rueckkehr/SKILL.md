@@ -15,7 +15,7 @@ description: "Grenzgaengerregelung DBA Oesterreich mit Wohnsitz in der Grenznaeh
 
 ## Kernsachverhalt
 
-Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungsprotokoll 29.12.2010 und Zweites Protokoll 21.08.2023, anwendbar ab 01.01.2024) erfasst Arbeitnehmer, die in einer Gemeinde innerhalb einer Grenzzone von **30 km Luftlinie** zur jeweils anderen Seite wohnen und in der Grenzzone der anderen Seite ueblicherweise taetig sind. Folge ist Wohnsitzstaat-Besteuerung. Die Konsultationsvereinbarung vom 20.12.2023 reguliert die Schaedlichkeitsgrenzen.
+Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungsprotokoll 29.12.2010 und Zweites Protokoll 21.08.2023, anwendbar ab 01.01.2024) erfasst Arbeitnehmer, die in einer Gemeinde innerhalb einer Grenzzone von **30 km Luftlinie** zur jeweils anderen Seite wohnen und in der Grenzzone der anderen Seite ueblicherweise tätig sind. Folge ist Wohnsitzstaat-Besteuerung. Die Konsultationsvereinbarung vom 20.12.2023 reguliert die Schaedlichkeitsgrenzen.
 
 ## Kaltstart-Rueckfragen
 
@@ -57,22 +57,22 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 
 - Reisekalender Mandant.
 - Arbeitgeberbescheinigung.
-- Gemeindeliste pruefen.
+- Gemeindeliste prüfen.
 - Mandanten-Memo Grenzgaengerstatus Oesterreich.
 
 ## Strategie und Praxis-Tipps
 
-- 30-km-Luftlinie: schnelle GIS-Pruefung; bei Grenzfaellen Geokoordinaten.
+- 30-km-Luftlinie: schnelle GIS-Prüfung; bei Grenzfaellen Geokoordinaten.
 - Home-Office ab 01.01.2024: Homeoffice-Tage in der Grenzzone des Wohnsitzstaats zaehlen nicht als schaedliche Tage. Nur Tage ausserhalb beider Grenzzonen sind relevant für die 45-Tage-Grenze.
-- Bei Pendelfahrten in Inneroesterreich (Wien-Aufenthalt) — Schaedlichkeit pruefen.
+- Bei Pendelfahrten in Inneroesterreich (Wien-Aufenthalt) — Schaedlichkeit prüfen.
 - BMF-Schreiben mit aktualisierten Gemeindelisten periodisch konsultieren.
-- Bei Schaedlichkeit: 183-Tage-Pruefung Art. 15.
+- Bei Schaedlichkeit: 183-Tage-Prüfung Art. 15.
 
 ## Praktiker-Tipps der alten Hasen
 
 ### Erstattungsverfahren bei AT-Quellensteuer
 
-- **Zuständigkeit**: oesterreichisches **Finanzamt für Grossbetriebe** in Wien (frueher Bruck Eisenstadt Oberwart). Aktuelle Zuständigkeit auf **bmf.gv.at** pruefen.
+- **Zuständigkeit**: oesterreichisches **Finanzamt für Grossbetriebe** in Wien (frueher Bruck Eisenstadt Oberwart). Aktuelle Zuständigkeit auf **bmf.gv.at** prüfen.
 - **Antragsformulare**: oesterreichische **ZS-RD1** (Rueckerstattung) und **ZS-QU1** (Entlastung an der Quelle) — Bezeichnungen vom Anwender mit aktuellem Stand zu verifizieren.
 - **Frist**: fuenf Jahre ab Veranlagungsjahr-Ablauf.
 - **Bearbeitungsdauer**: 6-18 Monate.
@@ -99,18 +99,18 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 |---|---|---|---|
 | Grenzgaengerstatus halten (30-km-Pendelbereich, max. 45 Tage ausserhalb) | Wohnsitzstaat-Besteuerung | Status verlieren — regulaere Art. 15 OECD-MA | bei stabiler 30-km-Konstellation Status guenstiger |
 | Home-Office in der Grenzzone (Wohnsitz) vs. ausserhalb | nicht schaedlich seit 01.01.2024 — voller Status erhalten | schaedlich, zaehlt zur 45-Tage-Grenze | Wohnsitz in 30-km-Zone mit Home-Office-Eignung waehlen |
-| Wohnsitz Salzburg + Arbeit Bayern (Freilassing) vs. Wohnsitz Bayern + Arbeit Salzburg | beide Konstellationen Grenzgaenger moeglich | je nach Lebenswichtigkeit-Mittelpunkt unterschiedlich | individuelle Berechnung; Wohnsitzstaat-Steuer-Tarif als Argument |
+| Wohnsitz Salzburg + Arbeit Bayern (Freilassing) vs. Wohnsitz Bayern + Arbeit Salzburg | beide Konstellationen Grenzgaenger möglich | je nach Lebenswichtigkeit-Mittelpunkt unterschiedlich | individuelle Berechnung; Wohnsitzstaat-Steuer-Tarif als Argument |
 | Schichtarbeit / Nachtschicht | arbeitstaegliche Rueckkehr i.S.d. Verwaltungsvereinbarung — pro Schichtende | Schwierigkeit bei 12-Stunden-Schichten mit Nachtarbeit | Reisekalender pro Schichtende dokumentieren |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
 - **Wien-Aufenthalt Lehrer aus Salzburg**: Wien ist NICHT in der 30-km-Zone — bei Lehrer mit Dienstort Wien Grenzgaengerstatus ausgeschlossen.
-- **Salzburger Doppelhaushalt** (Familienwohnsitz Innsbruck, Zweitwohnung Salzburg für Arbeit Freilassing): Tie-Breaker Art. 4 entscheidet; Pendelbereich pruefen.
+- **Salzburger Doppelhaushalt** (Familienwohnsitz Innsbruck, Zweitwohnung Salzburg für Arbeit Freilassing): Tie-Breaker Art. 4 entscheidet; Pendelbereich prüfen.
 - **Schichtwechsel mit Wechselschichten** (Frueh/Spaet/Nacht): jede Schicht-Heimkehr zaehlt als Rueckkehr — aber Nachtschicht-Ende morgens vor Wohnsitz-Rueckkehr ist regelmaessig unproblematisch.
-- **Krankheit und Karenz**: laengere Erkrankungen unterbrechen den Grenzgaengerstatus nicht zwingend — DBA-Text und Praxis pruefen.
-- **Aufgabenwechsel mit Reiseanteil**: bei zunehmenden Drittlandsreisen ueber 45 Tage Schaedlichkeit eintritt.
+- **Krankheit und Karenz**: laengere Erkrankungen unterbrechen den Grenzgaengerstatus nicht zwingend — DBA-Text und Praxis prüfen.
+- **Aufgabenwechsel mit Reiseanteil**: bei zunehmenden Drittlandsreisen über 45 Tage Schaedlichkeit eintritt.
 - **Toleranzregelung vor 2024 vs. Neuregelung ab 2024**: alte Mandanten-Memos referenzierten max. 45 Tage in der Grenzzone des Taetigkeitsstaats; ab 2024 explizit Home-Office in der Grenzzone des Wohnsitzstaats nicht schaedlich.
-- **Pendelbereich vs. Nahbereich**: Pendelbereich ist Begriffsbestandteil der Konsultationsvereinbarung 20.12.2023; "Nahbereich" ist NICHT definierter Begriff im DBA — Verwechslungen in Memos klaeren.
+- **Pendelbereich vs. Nahbereich**: Pendelbereich ist Begriffsbestandteil der Konsultationsvereinbarung 20.12.2023; "Nahbereich" ist NICHT definierter Begriff im DBA — Verwechslungen in Memos klären.
 
 ## Berechnungsbeispiel — Bayerischer Grenzgaenger (Freilassing-Salzburg)
 
@@ -130,7 +130,7 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 
 > Gleicher Mandant, aber neuer Aufgabenbereich mit 50 Reisetagen Wien/Linz (ausserhalb Grenzzone).
 >
-> Schritt 1: 50 Reisetage ueber 45-Tage-Schwelle. Schaedlichkeit eingetreten.
+> Schritt 1: 50 Reisetage über 45-Tage-Schwelle. Schaedlichkeit eingetreten.
 >
 > Schritt 2: Grenzgaengerstatus verloren. Rueckkehr zu Art. 15 OECD-MA.
 >

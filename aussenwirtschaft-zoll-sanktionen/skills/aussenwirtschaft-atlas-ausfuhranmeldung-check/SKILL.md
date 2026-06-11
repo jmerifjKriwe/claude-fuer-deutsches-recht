@@ -22,9 +22,9 @@ description: "Qualitaetssicherung und Fehleranalyse von ATLAS-Ausfuhranmeldungen
 ## Erste Schritte
 
 1. ATLAS-Fehlerprottokoll und MRN-Status sichten; Fehlercode-Glossar des Zolls heranziehen.
-2. Pflichtfelder Anhaenge B UZK-DA pruefen: KN-Code, Ursprung, Wert, Menge, Empfaenger, Verfahren.
+2. Pflichtfelder Anhaenge B UZK-DA prüfen: KN-Code, Ursprung, Wert, Menge, Empfaenger, Verfahren.
 3. Genehmigungshinweise (BAFA-Genehmigungsnummer, Verwendungszweck) korrekt eingetragen?
-4. Verfahrenscode und Unterverfahrenscode gegenueber Warenfluss und Bewilligungen pruefen.
+4. Verfahrenscode und Unterverfahrenscode gegenueber Warenfluss und Bewilligungen prüfen.
 5. Statistischer Wert und Zollwert gegenueber Rechnung abgleichen.
 6. Korrekturmoeglichkeiten in ATLAS nutzen; bei Abgangsanmeldung Korrekturfenster beachten.
 
@@ -47,7 +47,7 @@ description: "Qualitaetssicherung und Fehleranalyse von ATLAS-Ausfuhranmeldungen
 
 ## Typische Fallstricke
 
-- Falscher KN-Code loest falsche TARIC-Massnahmen und Genehmigungserfordernisse aus.
+- Falscher KN-Code loest falsche TARIC-Maßnahmen und Genehmigungserfordernisse aus.
 - Fehlendes Genehmigungshinweis-Feld fuehrt zur Ablehnung kontrollpflichtiger Waren.
 - Verfahrenscode 10 00 bei Veredelungsgutern falsch; richtig ist spezifischer Bewilligungscode.
 - Statistischer Wert muss Incoterms-bereinigter FOB-Wert sein; oft unrichtig.

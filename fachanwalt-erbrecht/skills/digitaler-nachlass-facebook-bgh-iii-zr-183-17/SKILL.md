@@ -31,7 +31,7 @@ Eltern verlangen Zugriff auf Facebook-Konto der verstorbenen Tochter; Plattform 
 
 ## Arbeitsergebnis
 
-Gesamtrechtsnachfolge gilt fuer digitale Konten; Vertrag geht auf Erben ueber.
+Gesamtrechtsnachfolge gilt für digitale Konten; Vertrag geht auf Erben über.
 
 ## Belege und Aktenlücken
 

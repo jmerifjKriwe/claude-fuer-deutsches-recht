@@ -3,7 +3,7 @@ name: strafr-dysfunk-contempt-of-court-debatte-177a
 description: "Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen: Adversatorisches Element schwer m..."
 ---
 
-# Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen
+# Reformdebatte über Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-R
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen. Adversatorisches Element schwer mit inquisitorischer Aufklaerungspflicht § 244 Abs. 2 StPO vereinbar. Einseitige Adressierung Ordnungsgeld an Verteidiger ohne Bezug zur Staatsanwaltschaft verletzt Waffengleichheit. Argumentationslinien für berufspolitische Auseinandersetzung und für den einzelnen Sitzungsverlauf. Bezug zur historischen Tradition § 177 § 178 GVG seit 1921 keine Zwangsmittel gegen Verteidiger.
+**Fokus:** Reformdebatte über Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen. Adversatorisches Element schwer mit inquisitorischer Aufklaerungspflicht § 244 Abs. 2 StPO vereinbar. Einseitige Adressierung Ordnungsgeld an Verteidiger ohne Bezug zur Staatsanwaltschaft verletzt Waffengleichheit. Argumentationslinien für berufspolitische Auseinandersetzung und für den einzelnen Sitzungsverlauf. Bezug zur historischen Tradition § 177 § 178 GVG seit 1921 keine Zwangsmittel gegen Verteidiger.
 
 ### Contempt of Court Debatte und § 177a GVG-E einordnen
 
@@ -28,7 +28,7 @@ description: "Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-R
 
 - Die deutsche Strafprozessordnung ist inquisitorisch organisiert. Die Aufklaerungspflicht des Gerichts nach § 244 Abs. 2 StPO ist nicht durch Bequemlichkeit relativierbar.
 - Contempt of Court stammt aus dem adversatorischen Common-Law-System. Dort ist die Streitfuehrung der Parteien durch das Gericht zu disziplinieren. In der inquisitorischen Struktur fehlt die systemische Grundlage.
-- Auch der Verteidiger muss notfalls gegen das Gericht verteidigen koennen (§ 137 Abs. 1 StPO). Eine einseitige Drohung gegen den Verteidiger ohne Bezug zur Staatsanwaltschaft verfehlt das Strukturgleichgewicht.
+- Auch der Verteidiger muss notfalls gegen das Gericht verteidigen können (§ 137 Abs. 1 StPO). Eine einseitige Drohung gegen den Verteidiger ohne Bezug zur Staatsanwaltschaft verfehlt das Strukturgleichgewicht.
 
 ## Historischer Bezug
 
@@ -37,7 +37,7 @@ description: "Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-R
 
 ## Argumentationslinien
 
-- Einzelfall: in der Sitzung knapp festhalten, dass Drohungen mit Contempt-aehnlichen Massnahmen keine Rechtsgrundlage im deutschen Strafprozessrecht haben.
+- Einzelfall: in der Sitzung knapp festhalten, dass Drohungen mit Contempt-aehnlichen Maßnahmen keine Rechtsgrundlage im deutschen Strafprozessrecht haben.
 - Berufspolitik: Stellungnahme der Anwaltschaft. Hinweis auf Waffengleichheit und Verteidigungsfunktion.
 
 ## Pitfalls

@@ -25,9 +25,9 @@ Die systematische Videodokumentation der Tagesbaustelle ergaenzt die klassische 
 
 ## Erste Schritte zur Videodokumentation
 
-1. Kamera-Aufstellung Plan: Positionen Webcam für optimale Sichtabdeckung Baustellen-Schluessel-Bereiche, Stromanschluss 230 V oder Akku-Pack, WLAN-Verbindung oder LTE-Router
+1. Kamera-Aufstellung Plan: Positionen Webcam für optimale Sichtabdeckung Baustellen-Schlüssel-Bereiche, Stromanschluss 230 V oder Akku-Pack, WLAN-Verbindung oder LTE-Router
 2. Zeitraffer-Konfiguration GoPro: Intervall 2 Minuten für Gesamtbaustelle, 30 Sekunden für Betonage-Events, Speicherkapazitaet 256 GB SD-Karte pro Monat
-3. Webcam-Installation Mobotix M73: Montagepunkt 5-8 m Hoehe auf Geruest oder Turm, 180 Grad-Fisheye-Objektiv, Bildspeicherung NAS oder Cloud, DSGVO-Einwilligung Arbeitnehmer
+3. Webcam-Installation Mobotix M73: Montagepunkt 5-8 m Höhe auf Geruest oder Turm, 180 Grad-Fisheye-Objektiv, Bildspeicherung NAS oder Cloud, DSGVO-Einwilligung Arbeitnehmer
 4. 360-Grad-Scan Matterport: Scan alle 4-6 Wochen Innenraeume, 5 Minuten je Standpunkt, Exportformat OBJ und XYZ, BIM360-Integration
 5. Tagesauswertung Video: Zusammenschnitt taeglich automatisch als MP4 5 Minuten, Zeitstempel eingeblendet, Wetterdaten DWD als Overlay
 6. Konflikt-Dokumentation: Bei Behinderungsanzeige Videoschnitt 30 Minuten vor bis nach Ereignis, Export für Rechtsstreit, Sicherungskopie extern
@@ -68,14 +68,14 @@ Die systematische Videodokumentation der Tagesbaustelle ergaenzt die klassische 
 
 ## Typische Fallstricke
 
-- DSGVO-Verletzung: Webcam ohne Einwilligung und Hinweisschild, Bussgeld DSGVO Art. 83 bis 10 Mio. EUR moeglich
+- DSGVO-Verletzung: Webcam ohne Einwilligung und Hinweisschild, Bussgeld DSGVO Art. 83 bis 10 Mio. EUR möglich
 - Kameraausfall nicht bemerkt: Keine Aufnahmen waehrend kritischer Bauphase, Beweis für Behinderungsfall fehlt
 - Zeitstempel-Asynchronie: Kamera um 30 Minuten falsch, Videobeweise im Streitfall angezweifelt
 - Zu geringes Kamera-Aufloesungsquerschnitt: Wichtige Details wie Risse oder Bewehrungslage nicht erkennbar
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

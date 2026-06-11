@@ -38,7 +38,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - BZRG-Auszug Beschuldigter aktuell?
  - Beweismittelverzeichnis Anklage § 200 StPO vollstaendig?
  - Belehrungs-Vermerk in Vernehmungsprotokollen § 136 StPO?
- - TKUe-Beschluesse § 100a StPO mit Begruendung?
+ - TKUe-Beschlüsse § 100a StPO mit Begruendung?
  - Durchsuchungsbeschluesse § 105 StPO?
  - Sachverstaendigengutachten beigezogen?
  - Asservaten-Verzeichnis mit chain-of-custody?

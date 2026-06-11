@@ -34,7 +34,7 @@ Paragraph 144 Abs 1 MarkenG: Paragraph 143 MarkenG (Grundtatbestand) wird nur au
 
 - Hoher Umsatz aus Verletzungshandlung.
 - Vertrieb gefaehrlicher Faelschungen (Arzneimittel, Sicherheitsausruestung, Kinderspielzeug — Gesundheitsgefahr).
-- Organisierter Vertrieb ueber Marktplaetze mit grosser Reichweite.
+- Organisierter Vertrieb über Marktplaetze mit großer Reichweite.
 - Wiederholungstaeterschaft trotz vorausgegangener Verurteilung oder Unterlassungsverpflichtung.
 - Verbindung mit weiteren Tatbestaenden (Steuerhinterziehung, Geldwaesche).
 
@@ -51,23 +51,23 @@ Antragsberechtigt:
 
 Praxiswichtig: Bei Unionsmarken (Verordnung 2017/1001) ist die Antragsberechtigung gleich; deutsches Strafrecht setzt nur an die Markenrechtsverletzung im deutschen Hoheitsgebiet an (Paragraph 9 StGB Tatort).
 
-Der Antrag muss schriftlich (Paragraph 158 StPO; in Praxis ueber Strafanzeige mit Antragstellung verbunden) und in der dreimonatigen Frist gestellt werden. Antrag kann zurueckgenommen werden (Paragraph 77d StGB), Wiederholung dann ausgeschlossen.
+Der Antrag muss schriftlich (Paragraph 158 StPO; in Praxis über Strafanzeige mit Antragstellung verbunden) und in der dreimonatigen Frist gestellt werden. Antrag kann zurueckgenommen werden (Paragraph 77d StGB), Wiederholung dann ausgeschlossen.
 
 ## Praktikertipps der Verteidigung
 
-- **Antragsfrist mathematisch pruefen.** Drei Monate ab Kenntnis von Tat und Taeter. Wann hatte das Vertretungsorgan tatsaechlich Kenntnis? Testkauf-Datum, Versandnachweis, interne Mitteilung dokumentieren. Verspaeteter Antrag fuehrt zur Einstellung Paragraph 170 Abs 2 StPO.
-- **Besonderes öffentliches Interesse erschuettern.** Wenn StA Offizialverfolgung aufnimmt, ist die Annahme des besonderen öffentlichen Interesses zu pruefen. Bei nur einzelnen Verkaufstaten geringen Umfangs ist das Interesse nicht zu bejahen; Antragsmangel fuehrt zur Einstellung.
+- **Antragsfrist mathematisch prüfen.** Drei Monate ab Kenntnis von Tat und Taeter. Wann hatte das Vertretungsorgan tatsaechlich Kenntnis? Testkauf-Datum, Versandnachweis, interne Mitteilung dokumentieren. Verspaeteter Antrag fuehrt zur Einstellung Paragraph 170 Abs 2 StPO.
+- **Besonderes öffentliches Interesse erschuettern.** Wenn StA Offizialverfolgung aufnimmt, ist die Annahme des besonderen öffentlichen Interesses zu prüfen. Bei nur einzelnen Verkaufstaten geringen Umfangs ist das Interesse nicht zu bejahen; Antragsmangel fuehrt zur Einstellung.
 - **Privatklageverweis anregen.** Im Schriftsatz an die StA frueh anregen, dass keine besondere öffentliche Bedeutung gegeben sei und der Markeninhaber auf den Privatklageweg verwiesen werden moege. Markeninhaber scheut Privatklageweg wegen Kostenrisiko und Aufwand; oft Effekt der faktischen Einstellung.
-- **Adhaesion vorbereiten oder verhindern.** Markeninhaber kann Adhaesionsantrag nach Paragraphen 403 ff. StPO stellen (Schadensersatz im Strafverfahren). Verteidigung sollte Bezifferung pruefen und ggf. Verweisung an Zivilverfahren beantragen (Paragraph 406 Abs 1 S 3 bis 6 StPO).
-- **Zuständigkeit.** Amtsgericht regelmaessig bei Paragraph 143 MarkenG (Strafrahmen bis drei Jahre, Paragraph 24 GVG). Bei Paragraph 143a MarkenG (Verbrechen) Landgericht (Paragraph 74 Abs 1 GVG, sofern Erwartung ueber vier Jahre Strafe). Bei Bezug zur Wirtschaftsstrafkammer Paragraph 74c GVG pruefen (gewerblicher Rechtsschutz ist nach Auslegung erfasst).
+- **Adhaesion vorbereiten oder verhindern.** Markeninhaber kann Adhaesionsantrag nach Paragraphen 403 ff. StPO stellen (Schadensersatz im Strafverfahren). Verteidigung sollte Bezifferung prüfen und ggf. Verweisung an Zivilverfahren beantragen (Paragraph 406 Abs 1 S 3 bis 6 StPO).
+- **Zuständigkeit.** Amtsgericht regelmaessig bei Paragraph 143 MarkenG (Strafrahmen bis drei Jahre, Paragraph 24 GVG). Bei Paragraph 143a MarkenG (Verbrechen) Landgericht (Paragraph 74 Abs 1 GVG, sofern Erwartung über vier Jahre Strafe). Bei Bezug zur Wirtschaftsstrafkammer Paragraph 74c GVG prüfen (gewerblicher Rechtsschutz ist nach Auslegung erfasst).
 
 ## Trade-off-Matrix
 
 | Pfad A Strafanzeige durch Markeninhaber | Pfad B Zivilrechtliche Unterlassungsklage allein | Empfehlung |
 | --- | --- | --- |
-| Strafanzeige loest StA-Ermittlung mit Beschlagnahme, Durchsuchung und Druck auf Beschuldigten aus; Adhaesion moeglich; Strafmass kann zivile Vergleichsbereitschaft erhoehen | Schnellere Wirkung durch einstweilige Verfuegung (Paragraph 935 ZPO); Unterlassungstitel direkt; keine StA-Wartezeit; geringere Reputationswirkung | Markeninhaber waehlt regelmaessig parallelen Weg: einstweilige Verfuegung sofort + Strafanzeige zur Drohkulisse + Hauptsacheklage zur Folge. Verteidigung muss alle drei Schienen synchron managen. |
+| Strafanzeige loest StA-Ermittlung mit Beschlagnahme, Durchsuchung und Druck auf Beschuldigten aus; Adhaesion möglich; Strafmass kann zivile Vergleichsbereitschaft erhoehen | Schnellere Wirkung durch einstweilige Verfuegung (Paragraph 935 ZPO); Unterlassungstitel direkt; keine StA-Wartezeit; geringere Reputationswirkung | Markeninhaber waehlt regelmaessig parallelen Weg: einstweilige Verfuegung sofort + Strafanzeige zur Drohkulisse + Hauptsacheklage zur Folge. Verteidigung muss alle drei Schienen synchron managen. |
 
-Aus Sicht der Verteidigung: Wenn der Mandant kooperationsbereit ist, anwaltlich vor StA Schadensbezifferung mit Markeninhaber aushandeln und auf Antragsruecknahme Paragraph 77d StGB hinwirken; gegen Geldzahlung oft moeglich.
+Aus Sicht der Verteidigung: Wenn der Mandant kooperationsbereit ist, anwaltlich vor StA Schadensbezifferung mit Markeninhaber aushandeln und auf Antragsruecknahme Paragraph 77d StGB hinwirken; gegen Geldzahlung oft möglich.
 
 ## Konkurrenzen
 
@@ -88,9 +88,9 @@ Praxistipps:
 
 **Schriftsatz an StA — Verweis auf Privatklageweg:** "Namens des Beschuldigten beantrage ich, das Verfahren gegen meinen Mandanten nach Paragraph 170 Abs 2 StPO einzustellen. Mein Mandant hat das streitgegenstaendliche Verhalten nur einmalig vorgenommen; ein Umsatz von EUR X im Tatzeitraum belegt das Fehlen einer fortlaufenden Erwerbsabsicht. Ein besonderes öffentliches Interesse an der Strafverfolgung im Sinne Paragraph 144 Abs 1 MarkenG ist nicht erkennbar; die Markeninhaberin moege auf den Privatklageweg Paragraph 374 StPO iVm Paragraph 144 Abs 2 MarkenG verwiesen werden."
 
-**Antragsrueckname-Vereinbarung (Verteidigerseite):** "Im Wege der gueltichen Streitbeilegung erkennt mein Mandant Schadensersatz an die X AG in Hoehe von EUR Y an. Die X AG verpflichtet sich, den Strafantrag gemaess Paragraph 77d StGB zurueckzunehmen, sobald die Zahlung erfolgt ist. Beide Parteien vereinbaren wechselseitige Stillschweigeverpflichtungen."
+**Antragsrueckname-Vereinbarung (Verteidigerseite):** "Im Wege der gueltichen Streitbeilegung erkennt mein Mandant Schadensersatz an die X AG in Höhe von EUR Y an. Die X AG verpflichtet sich, den Strafantrag gemäß Paragraph 77d StGB zurueckzunehmen, sobald die Zahlung erfolgt ist. Beide Parteien vereinbaren wechselseitige Stillschweigeverpflichtungen."
 
-**Strafanzeige mit Antrag (Markeninhaber-Seite):** "Namens und mit Vollmacht der X AG, Inhaberin der Marke Y, erstatte ich Strafanzeige und stelle Strafantrag gemaess Paragraph 144 Abs 1 MarkenG iVm Paragraph 143 MarkenG. Die Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt. Ein besonderes öffentliches Interesse besteht: Der Beschuldigte hat ueber die Plattform Z im Tatzeitraum [...] Stueck Counterfeit-Ware mit einem Umsatz von EUR W vertrieben; die Vertriebsstruktur weist auf Wiederholungsabsicht hin. Die Akte enthaelt: Testkaeufe (Anlage K1), Originalitaetsbegutachtung durch X AG (Anlage K2), Plattform-Verkaufsstatistik (Anlage K3)."
+**Strafanzeige mit Antrag (Markeninhaber-Seite):** "Namens und mit Vollmacht der X AG, Inhaberin der Marke Y, erstatte ich Strafanzeige und stelle Strafantrag gemäß Paragraph 144 Abs 1 MarkenG iVm Paragraph 143 MarkenG. Die Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt. Ein besonderes öffentliches Interesse besteht: Der Beschuldigte hat über die Plattform Z im Tatzeitraum [...] Stueck Counterfeit-Ware mit einem Umsatz von EUR W vertrieben; die Vertriebsstruktur weist auf Wiederholungsabsicht hin. Die Akte enthaelt: Testkaeufe (Anlage K1), Originalitaetsbegutachtung durch X AG (Anlage K2), Plattform-Verkaufsstatistik (Anlage K3)."
 
 ## Quellen Stand 06/2026
 

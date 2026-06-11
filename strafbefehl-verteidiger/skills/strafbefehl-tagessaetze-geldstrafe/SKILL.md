@@ -19,7 +19,7 @@ Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagessatzanzahl nach
 
 ## Triage zu Beginn
 
-1. **Wie viele Tagessaetze sind im Strafbefehl festgesetzt?** — Anzahl bestimmt Schuldgewicht, Hoehe das Nettoeinkommen.
+1. **Wie viele Tagessaetze sind im Strafbefehl festgesetzt?** — Anzahl bestimmt Schuldgewicht, Höhe das Nettoeinkommen.
 2. **Tagessatzhoehe korrekt?** — Nettoeinkommen / 30 = Tagessatz (§ 40 Abs. 2 StGB); zu hoch wenn Einkommen ueberschaetzt.
 3. **Liegt Einkommensnachweis vor?** — Lohnabrechnung, Steuerbescheid, BWA bei Selbststaendigen.
 4. **Ratenzahlung noetig?** — § 42 StGB: Gericht kann Ratenzahlung gestatten; Antrag bei Zahlungsunfaehigkeit.
@@ -30,7 +30,7 @@ Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagessatzanzahl nach
 - **§ 40 Abs. 1 StGB** — Geldstrafe: 5 bis 360 Tagessaetze (bei Mehrfachverstoss bis 720)
 - **§ 40 Abs. 2 StGB** — Tagessatz: Dreissigstel des monatlichen Nettoeinkommens; Mindest 1 EUR
 - **§ 40 Abs. 2 Satz 3 StGB** — Schaetzungsrecht des Gerichts wenn genaues Einkommen nicht feststellbar
-- **§ 41 StGB** — Geldstrafe neben Freiheitsstrafe moeglich
+- **§ 41 StGB** — Geldstrafe neben Freiheitsstrafe möglich
 - **§ 42 StGB** — Zahlungserleichterungen, Ratenzahlung
 - **§ 43 StGB** — Ersatzfreiheitsstrafe: 1 Tag pro Tagessatz, mind. 1 Tag
 - **§ 459d StPO** — Uneinbringlichkeit der Geldstrafe: Vollstreckungsgericht entscheidet

@@ -40,4 +40,4 @@ description: "Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten im 
 1. Welche Dienstform?
 2. Wie haeufig Schicht?
 3. Anspruch auf welche Zulage?
-4. Hoehe nach EZulV?
+4. Höhe nach EZulV?

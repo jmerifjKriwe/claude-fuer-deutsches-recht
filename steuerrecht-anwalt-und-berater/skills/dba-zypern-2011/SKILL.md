@@ -36,7 +36,7 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 - **OECD-MA 2010**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: Deutschland und Zypern haben das MLI ratifiziert; DBA-DE-CY gilt MLI-modifiziert (PPT-Klausel wirksam ab 01.01.2025, MLI-Anwendungsgesetz 2024). Aktuellen Synthesetext im BMF-Verzeichnis pruefen.
+- **MLI**: Deutschland und Zypern haben das MLI ratifiziert; DBA-DE-CY gilt MLI-modifiziert (PPT-Klausel wirksam ab 01.01.2025, MLI-Anwendungsgesetz 2024). Aktuellen Synthesetext im BMF-Verzeichnis prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zu Zypern-Holdings und § 50d Abs. 3 EStG in freier amtlicher Quelle abrufen.
@@ -60,13 +60,13 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 ### Besonderheiten
 - **KSt Zypern 12,5 Prozent**: AStG-Niedrigsteuerschwelle ab VZ 2024 auf 15 Prozent abgesenkt (Mindestbesteuerungsumsetzungsgesetz 21.12.2023) — zypriotische KSt liegt nunmehr unter der AStG-Schwelle.
 - **IP-Box Zypern**: Ermaessigung Lizenzeinkuenfte — substanz-basiert seit 2016 (Nexus-Approach).
-- **Tonnage Tax** Schifffahrt: Sonderbesteuerung — DBA-Berechtigung pruefen.
+- **Tonnage Tax** Schifffahrt: Sonderbesteuerung — DBA-Berechtigung prüfen.
 - **CFC** § 7 ff. AStG bei passiven Einkuenften.
 
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 ### Phase 3 — Einkunftsart einordnen
 ### Phase 4 — Substanztest § 50d Abs. 3 EStG
 ### Phase 5 — CFC § 7 ff. AStG
@@ -76,17 +76,17 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 ## Strategie und Praxis-Tipps
 
 - Zypern-Holding: Substanz § 50d Abs. 3 EStG zentral, Personal und Geschaeftsfuehrung — Briefkasten scheitert.
-- IP-Box Zypern: Nexus-Approach erfordert Forschungs- und Entwicklungsausgaben in Zypern; § 4j EStG-Lizenzschranke pruefen.
-- Tonnage Tax: kann Hauptsteuerlast ersetzen — DBA-Berechtigung sorgfaeltig pruefen.
-- CFC § 7 ff. AStG bei passiven Einkuenften vom Anfang an pruefen — Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
-- Pillar Two (GloBE): seit 01.01.2024 Mindeststeuer 15 Prozent — bei zypriotischen Tochtergesellschaften deutsche Top-Up-Tax pruefen.
+- IP-Box Zypern: Nexus-Approach erfordert Forschungs- und Entwicklungsausgaben in Zypern; § 4j EStG-Lizenzschranke prüfen.
+- Tonnage Tax: kann Hauptsteuerlast ersetzen — DBA-Berechtigung sorgfaeltig prüfen.
+- CFC § 7 ff. AStG bei passiven Einkuenften vom Anfang an prüfen — Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
+- Pillar Two (GloBE): seit 01.01.2024 Mindeststeuer 15 Prozent — bei zypriotischen Tochtergesellschaften deutsche Top-Up-Tax prüfen.
 - BZSt-Verfahren bei Empfang zypriotischer Quellen: typ. EU-MTRL-Empfaengerprivileg (§ 43b EStG); bei Streubesitz BZSt-Erstattungsantrag § 50c Abs. 3 EStG mit zypriotischer Ansaessigkeitsbescheinigung; siehe `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.
 
 ## Praktiker-Tipps der alten Hasen
 
 ### Erstattungsverfahren zypriotische Quellensteuer
 
-- **Zuständigkeit**: zypriotische **Tax Department** (Phorologia, frueher: Inland Revenue Department). Aktuelle Zuständigkeit auf **mof.gov.cy** und **tax.gov.cy** pruefen.
+- **Zuständigkeit**: zypriotische **Tax Department** (Phorologia, frueher: Inland Revenue Department). Aktuelle Zuständigkeit auf **mof.gov.cy** und **tax.gov.cy** prüfen.
 - **Antragsformulare**: zypriotische DBA-Formulare — **konkrete Formularnummern vom Anwender mit aktuellem Stand auf tax.gov.cy zu verifizieren**.
 - **Frist**: nach zypriotischem Assessment and Collection of Taxes Law regelmaessig **sechs Jahre**.
 - **Bearbeitungsdauer**: 6-18 Monate.
@@ -106,24 +106,24 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Zypern-Holding (KSt 12,5 Prozent) vs. DE-Direkthaltung nach Pillar Two | 12,5 Prozent KSt; ab 2024 Pillar Two Top-Up auf 15 Prozent; CFC bei passiven Einkuenften | DE-Direkthaltung mit voller KSt | bei vollem Substrat in CY noch sinnvoll; bei Briefkasten Verlagerung |
-| Schachteldividende CY-Ltd an DE-Mutter ueber DBA vs. EU-MTRL | Zypern erhebt regelmaessig 0 Prozent Quellensteuer auf Dividenden | EU-MTRL 0 Prozent vorrangig | regelmaessig 0 Prozent — keine Erstattung erforderlich |
-| IP-Box Zypern für Lizenzgestaltungen | reduzierte effektive Belastung Lizenzeinkuenfte; aber § 4j EStG-Lizenzschranke beim deutschen Zahler bei Nichterfullung Nexus | Lizenz ueber DE-Standort | bei Nexus-konformer Forschungs-/Entwicklungstaetigkeit in CY guenstig; sonst § 4j EStG-Versagung |
-| Tonnage Tax Schifffahrt vs. ordentliche KSt | Tonnage-System effektiv sehr niedrige Belastung — Pillar Two pruefen | Standard-KSt | bei Reederei-Strukturen Tonnage-System Standard; aber Pillar-Two-Folgen |
+| Schachteldividende CY-Ltd an DE-Mutter über DBA vs. EU-MTRL | Zypern erhebt regelmaessig 0 Prozent Quellensteuer auf Dividenden | EU-MTRL 0 Prozent vorrangig | regelmaessig 0 Prozent — keine Erstattung erforderlich |
+| IP-Box Zypern für Lizenzgestaltungen | reduzierte effektive Belastung Lizenzeinkuenfte; aber § 4j EStG-Lizenzschranke beim deutschen Zahler bei Nichterfullung Nexus | Lizenz über DE-Standort | bei Nexus-konformer Forschungs-/Entwicklungstaetigkeit in CY guenstig; sonst § 4j EStG-Versagung |
+| Tonnage Tax Schifffahrt vs. ordentliche KSt | Tonnage-System effektiv sehr niedrige Belastung — Pillar Two prüfen | Standard-KSt | bei Reederei-Strukturen Tonnage-System Standard; aber Pillar-Two-Folgen |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
 - **AStG-Niedrigsteuerschwelle ab VZ 2024 = 15 Prozent**: zypriotische KSt 12,5 Prozent unter Schwelle — CFC bei passiven Einkuenften zwingend.
 - **§ 4j EStG-Lizenzschranke**: deutsche Lizenz-Zahlung an zypriotische IP-Box-Empfaenger ohne Nexus — Abzugsversagung beim deutschen Zahler.
 - **Pillar Two ab 2024**: zypriotische effektive Belastung unter 15 Prozent — Top-Up-Tax. QDMTT in CY oder IIR in DE.
 - **§ 50d Abs. 3 EStG-Substanztest**: zypriotische Briefkasten-Holdings ohne Personal scheitern — Substanz aufbauen.
 - **Doppelansaessigkeit POEM**: zypriotisches Tochterunternehmen mit Place of Effective Management (POEM) in DE — Doppelansaessigkeit, Tie-Breaker Art. 4.
-- **Tonnage Tax und DBA-Berechtigung**: zypriotische Tonnage-Steuersystem kann DBA-Berechtigung in Frage stellen — konkrete Pruefung erforderlich.
+- **Tonnage Tax und DBA-Berechtigung**: zypriotische Tonnage-Steuersystem kann DBA-Berechtigung in Frage stellen — konkrete Prüfung erforderlich.
 
 ## Berechnungsbeispiel — Zypern-Holding mit IP-Box
 
 > CY-Ltd (Limassol, voller Geschaeftsbetrieb mit 5 Forschern und Buero in CY, Nexus-konform) generiert Lizenzeinnahmen von 1.000.000 EUR aus Patent-Lizenz an DE-AG.
 >
-> Schritt 1: DBA-CY Art. 12: Lizenzgebuehren ggf. 0 Prozent oder reduzierter Satz (konkreter DBA-Text Art. 12 pruefen).
+> Schritt 1: DBA-CY Art. 12: Lizenzgebuehren ggf. 0 Prozent oder reduzierter Satz (konkreter DBA-Text Art. 12 prüfen).
 >
 > Schritt 2: § 4j EStG-Lizenzschranke beim deutschen Zahler: bei Nexus-konformer F&E-Taetigkeit in CY KEINE Versagung; bei reiner IP-Verwertung ohne Nexus Versagung des BA-Abzugs.
 >

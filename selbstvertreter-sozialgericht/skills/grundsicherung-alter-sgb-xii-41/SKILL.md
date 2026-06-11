@@ -20,25 +20,25 @@ description: "Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. 
 
 ## Bedarfspruefung
 
-- Einkommen und Vermoegen.
+- Einkommen und Vermögen.
 - Vermoegensfreibetrag (aktuell 10000 Euro Alleinstehende, 20000 Euro Paar — verifizieren).
 - Schonvermoegen: angemessenes Hausgrundstueck.
 
 ## Berechnung
 
 - Regelbedarf (Stufe 1 oder 2).
-- KdU in tatsaechlicher Hoehe (Angemessenheitsgrenze).
+- KdU in tatsaechlicher Höhe (Angemessenheitsgrenze).
 - Mehrbedarf nach § 30 SGB XII.
 
 ## Antrag
 
 - Bei der Stadt oder Gemeinde (oertlicher Traeger der Sozialhilfe).
-- Anlage zu Einkommen Vermoegen Wohnverhaeltnisse.
+- Anlage zu Einkommen Vermögen Wohnverhaeltnisse.
 
 ## Pruefraster
 
 1. Altersgrenze oder EM?
 2. Bedarfspruefung erfolgt?
 3. Einkommen vollstaendig?
-4. Vermoegen unter Freibetrag?
+4. Vermögen unter Freibetrag?
 5. KdU angemessen?

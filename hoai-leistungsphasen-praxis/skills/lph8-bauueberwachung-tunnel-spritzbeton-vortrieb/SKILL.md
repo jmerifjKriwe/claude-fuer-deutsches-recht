@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbeton
 ## Spezialwissen
 
 Tunnelbauwerke im Spritzbetonvortrieb (NATM) erfordern geologische Einstufung, Konvergenzmonitoring und Spritzbeton-Guetepruefung.
-Die Bauueberwachung nach HOAI LPH 8 prueft Vortriebsklassen, Spritzbeton-Schichtdicken und Ankernagel-Vorspannkraefte.
+Die Bauueberwachung nach HOAI LPH 8 prüft Vortriebsklassen, Spritzbeton-Schichtdicken und Ankernagel-Vorspannkraefte.
 Sicherheitsrelevante Messwerte (Konvergenz, Setzung) werden tagesaktuell mit Totalstationsystem erfasst und ausgewertet.
 
 ## Bauwerk und Auftrag
@@ -65,7 +65,7 @@ Sicherheitsrelevante Messwerte (Konvergenz, Setzung) werden tagesaktuell mit Tot
 - SAP PM DB InfraGo: Equipment Tunnelabschnitt, Wartungsplaene Betriebssicherheit nach Inbetriebnahme
 - SAP PS Projektsystem: Vorgang Tunnelvortrieb je Monat, Kosten je Vortriebsklasse, Nachtragsmanagement
 - RIB iTWO: Aufmass Spritzbeton nach m3, Vortriebsklassen-Abrechnung, Abrechnungsfreigabe je Abschnitt
-- PlanRadar Tunnel-Sicherheitsbericht: Konvergenz-Alarm-Protokoll, Massnahmen, Behörden-Information
+- PlanRadar Tunnel-Sicherheitsbericht: Konvergenz-Alarm-Protokoll, Maßnahmen, Behörden-Information
 - Dalux Field: Geologie-Kartierung Ortsbrust direkt in App, automatische Verknuepfung GPS-Koordinaten
 
 ## Typische Fallstricke

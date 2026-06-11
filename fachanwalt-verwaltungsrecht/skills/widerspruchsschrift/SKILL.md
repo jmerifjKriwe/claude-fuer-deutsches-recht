@@ -8,7 +8,7 @@ description: "Widerspruchsschrift nach §§ 68 ff: VwGO gegen belastenden Verwal
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Widerspruchsschrift Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Verwaltungsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Widerspruchsschrift Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Verwaltungsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -132,12 +132,12 @@ Gegen einen belastenden Verwaltungsakt ist als Vorverfahren — sofern nicht dur
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Widerspruch gegen Verwaltungsakt einlegen | Widerspruchsschrift nach Pruefschema; Template unten |
-| Variante A — Widerspruchsverfahren nicht Pflicht direkter Klageweg | Klagefrist pruefen; ggf. direkt Anfechtungsklage ohne Widerspruch |
+| Variante A — Widerspruchsverfahren nicht Pflicht direkter Klageweg | Klagefrist prüfen; ggf. direkt Anfechtungsklage ohne Widerspruch |
 | Variante B — Mandant will Widerspruch nur zur Fristwahrung | Kurzwiderspruch ohne Begruendung zuerst; Begruendung nachreichen |
 | Variante C — Behörde zeigt Kooperationsbereitschaft | Informelles Gespraech vor Widerspruch; Widerspruch als letzte Option |
 
@@ -292,7 +292,7 @@ nach Einlegung des Widerspruchs eine Anhörung nachgeholt haben.
  den materiellen Gründen (s.o.) rechtswidrig.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

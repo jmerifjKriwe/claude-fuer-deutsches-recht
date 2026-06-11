@@ -3,11 +3,11 @@ name: verhaeltnismaessigkeit-einstieg
 description: Einstieg in den Verhaeltnismaessigkeitspruefer mit Plugin-Karte, Methodik-UEberblick und Empfehlungen welcher Skill bei welchem Fall zu starten ist. Erklaert die vier Stufen kurz und verweist auf vertiefende Skills.
 ---
 
-# Verhaeltnismaessigkeit Einstieg
+# Verhältnismäßigkeit Einstieg
 
 ## Schnellpfad — wenn die Zeit knapp ist
 
-Wer in fuenf Minuten eine erste Pruefung braucht: `schnellpruefung-fuenfminuten-express`. Wer ein Klausurschema braucht: `klausur-pruefungsschema-kompakt`. Wer einen konkreten Fall mit Subsumtionsbausteinen sucht: `subsumtionshelfer-faelle-pattern`.
+Wer in fuenf Minuten eine erste Prüfung braucht: `schnellpruefung-fuenfminuten-express`. Wer ein Klausurschema braucht: `klausur-pruefungsschema-kompakt`. Wer einen konkreten Fall mit Subsumtionsbausteinen sucht: `subsumtionshelfer-faelle-pattern`.
 
 ## Drei Zugaenge
 
@@ -15,7 +15,7 @@ Wer in fuenf Minuten eine erste Pruefung braucht: `schnellpruefung-fuenfminuten-
    -> jede Stufe einzeln.
 2. **Leitentscheidung als Lehrbuch**: starte mit `apotheken-urteil-bverfge-7-377`
    (drei-Stufen-Lehre der Berufsfreiheit) oder `bundesnotbremse-bverfge-159-223`
-   (vollstaendige Pruefung Art 2 II GG plus Art 6 GG).
+   (vollstaendige Prüfung Art 2 II GG plus Art 6 GG).
 3. **Praxisfall**: `polizeirecht-eingriff-pruefen` (Standardmuster Polizeiverfuegung)
    oder `strafrecht-strafzumessung-verhaeltnismaessigkeit`
    (Paragraf 46 StGB als Eingriffsausgleich).
@@ -23,10 +23,10 @@ Wer in fuenf Minuten eine erste Pruefung braucht: `schnellpruefung-fuenfminuten-
 ## Theoretische Fundierung
 
 - `theorie-alexy-prinzipientheorie` — Robert Alexys Prinzipientheorie, Optimierungsgebote, Abwaegungsgesetz; Linie Smend - Alexy - Barak.
-- `abwaegungsgesetz-und-gewichtsformel-alexy` — Alexys Gewichtsformel als Werkzeug fuer Stufe 4 (Triadenlogik, Quotientenberechnung, Anwendung auf BVerfG-Faelle).
+- `abwaegungsgesetz-und-gewichtsformel-alexy` — Alexys Gewichtsformel als Werkzeug für Stufe 4 (Triadenlogik, Quotientenberechnung, Anwendung auf BVerfG-Faelle).
 - `rechtsgeschichte-verhaeltnismaessigkeit-linie` — Dogmengeschichtliche Linie von Preussisches OVG Kreuzberg 1882 bis Klimaschutz 2021; Stationen auf einer Zeitachse.
 
-## Pruefungs- und Klausurhilfen
+## Prüfungs- und Klausurhilfen
 
 - `schnellpruefung-fuenfminuten-express` — Express-Workflow mit 12-Punkte-Checkliste und ASCII-Entscheidungsbaum.
 - `klausur-pruefungsschema-kompakt` — Standard-Aufbau, Standardformulierungen, Top-7-Punktverluste.
@@ -54,10 +54,10 @@ Siebzehn Vergleichsordnungen sind als Kontrastfolie aufbereitet:
 - **EuGH / Charta** — Art 52 I GRCh mit Wesensgehalt, Digital Rights Ireland und Schrems II: `eugh-cjeu-verhaeltnismaessigkeit`.
 - **USA** — strict, intermediate und rational basis scrutiny mit Korematsu, Grutter und Adarand: `usa-tiers-of-scrutiny`.
 - **Frankreich** — Triple Test des CE seit Ville Nouvelle Est, Conciliation des Conseil constitutionnel, QPC: `frankreich-controle-proportionnalite`.
-- **Italien** — Ragionevolezza ueber Art 3 Cost mit Idoneità/Necessità/Proporzionalità und Bilanciamento: `italien-ragionevolezza-proporzionalita`.
+- **Italien** — Ragionevolezza über Art 3 Cost mit Idoneità/Necessità/Proporzionalità und Bilanciamento: `italien-ragionevolezza-proporzionalita`.
 - **Spanien** — Juicio de proporcionalidad in drei Stufen (STC 66/1995, STC 207/1996), Contenido esencial Art 53 I CE: `spanien-juicio-proporcionalidad`.
 - **Niederlande** — Evenredigheidsbeginsel Art 3:4 Awb seit Maxis en Praxis (ABRvS 2022): `niederlande-evenredigheidsbeginsel`.
-- **Belgien** — Grondwettelijk Hof / Cour constitutionnelle ueber Art 10 11 GW, Foederalismus-Pruefung: `belgien-redelijkheid-evenredigheid`.
+- **Belgien** — Grondwettelijk Hof / Cour constitutionnelle über Art 10 11 GW, Foederalismus-Prüfung: `belgien-redelijkheid-evenredigheid`.
 - **Österreich** — VfGH-Sachlichkeitsgebot mit EMRK im Verfassungsrang: `oesterreich-vfgh-verhaeltnismaessigkeit`.
 - **Luxemburg** — Cour constitutionnelle Triple Test, Verfassungsreform 2023: `luxemburg-cour-constitutionnelle-proportionnalite`.
 - **Dänemark** — Proportionalitetsprincip in Politilov und Retsplejelov, EMRK-Inkorporation 1992: `daenemark-proportionalitetsprincip`.
@@ -70,5 +70,5 @@ Die deutsche Lösung bleibt stets an Grundgesetz und BVerfG-Rechtsprechung gebun
 
 ## Methodischer Hinweis
 
-Der Pruefer ersetzt nicht das eigene Urteil. Er reicht ein Geruest und
+Der Prüfer ersetzt nicht das eigene Urteil. Er reicht ein Geruest und
 benennt die Stellen, an denen Wertung erforderlich ist.

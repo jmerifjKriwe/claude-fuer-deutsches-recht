@@ -21,7 +21,7 @@ Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder 
 
 1. **Konzession (Betrieb) oder Bau?** — Konzession nach § 9 PBefG (Personenbefoerderung), Planfeststellung nach § 28 PBefG (Infrastrukturbau) sind separate Verfahren.
 2. **Mandantentyp?** — Verkehrsunternehmen (Konzessionsbewerber), Anlieger (Laerm, Erschuetterungen), Gemeinde (Delegationsrecht, Ausschreibung).
-3. **Direktvergabe oder EU-Ausschreibung?** — § 8a PBefG i.V.m. VO (EG) 1370/2007: wann ist Direktvergabe zulaessig?
+3. **Direktvergabe oder EU-Ausschreibung?** — § 8a PBefG i.V.m. VO (EG) 1370/2007: wann ist Direktvergabe zulässig?
 4. **Planfeststellungseinwendung?** — Laermschutz, Erschuetterungsschutz, Eigentumseingriff, Alternative Trassenauswahl.
 5. **Konzessionsablauf?** — Befristung der Konzession; Neuausschreibung oder Verlaengerung.
 
@@ -45,12 +45,12 @@ Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder 
 2. **Einwendung formulieren:** Laerm, Erschuetterungen, Eigentumseingriff, Sichtbeziehungen.
 3. **Laermschutzberechnungen anfordern** (§ 41 BImSchG, 16. BImSchV).
 4. **Eroerrterungstermin teilnehmen** (§ 73 Abs. 6 VwVfG).
-5. **Planfeststellungsbeschluss pruefen:** Auflagen zu Laerm- und Erschuetterungsschutz korrekt?
+5. **Planfeststellungsbeschluss prüfen:** Auflagen zu Laerm- und Erschuetterungsschutz korrekt?
 6. **Klage:** OVG/BVerwG je nach Bundesland und Vorhabentyp.
 
 ## Harte Leitplanken
 
 - Einwendungsfrist 6 Wochen nach § 73 Abs. 4 VwVfG — Praeklusion!
-- Direktvergabe EU-rechtskonform pruefen — VO (EG) 1370/2007 beachten.
+- Direktvergabe EU-rechtskonform prüfen — VO (EG) 1370/2007 beachten.
 - Laermschutzberechnungen fachlich begleiten lassen (Sachverstaendiger).
 - Anwaltliche Endkontrolle bei Einwendungen und Klagen.

@@ -75,7 +75,7 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe ist angemessen — Bemerku
 | Bedenken | hoch | mittel |
 | Nachdrueckliche Mahnung | hoch | mittel — Konflikt mit Ressort |
 | Wiederholungsmahnung | hoch | hoch — politische Resonanz |
-| Jahresbericht-Aufnahme | sehr hoch | hoch — oeffentlich |
+| Jahresbericht-Aufnahme | sehr hoch | hoch — öffentlich |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
@@ -92,8 +92,8 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe ist angemessen — Bemerku
 ### Grenzen-Bausteine
 
 - "Die Bewertung der ordnungspolitischen Zielsetzung obliegt der Bundesregierung und dem Bundestag; der NKR aeussert sich hierzu nicht."
-- "Eine Bewertung der Verfassungs- oder Europarechtskonformitaet ist nicht Gegenstand der NKR-Pruefung."
-- "Die Frage haushaltspolitischer Auswirkungen ist Gegenstand der Pruefung durch das Bundesministerium der Finanzen und den Bundesrechnungshof."
+- "Eine Bewertung der Verfassungs- oder Europarechtskonformitaet ist nicht Gegenstand der NKR-Prüfung."
+- "Die Frage haushaltspolitischer Auswirkungen ist Gegenstand der Prüfung durch das Bundesministerium der Finanzen und den Bundesrechnungshof."
 
 ## Typische Fehler in Stellungnahme-Entwuerfen
 
@@ -107,4 +107,4 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe ist angemessen — Bemerku
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4, § 6, § 7
 - §§ 45, 62 GGO
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Mustertexte mahnender Bemerkungen
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

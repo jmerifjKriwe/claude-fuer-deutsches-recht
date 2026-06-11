@@ -123,7 +123,7 @@ Stand: 05/2026. AsylG, AufenthG. GEAS-Reform ab 12.6.2026 wirksam.
 
 - **§§ 13–25 AsylG** — Asylantrag und Anhörungsverfahren; § 25 Abs. 6 AsylG — Beistand
 - **§ 24 VwVfG** — Amtsermittlungsgrundsatz; § 28 VwVfG — rechtliches Gehoer
-- **Art. 4 Qualifikations-RL 2011/95** — Pruefung von Tatsachen und Umstaenden; Glaubwuerdigkeitspruefung
+- **Art. 4 Qualifikations-RL 2011/95** — Prüfung von Tatsachen und Umstaenden; Glaubwuerdigkeitspruefung
 - **Art. 15 Verfahrens-RL 2013/32** — Garantien für Antragsteller; Recht auf Anhörungsprotokoll
 - **§ 36 AsylG** — beschleunigtes Verfahren mit 1-Wochen-Klagefrist
 - **§ 74 Abs. 1 AsylG** — Klagefrist zwei Wochen (Standardbescheid), eine Woche (§ 36 AsylG)
@@ -133,14 +133,14 @@ Stand: 05/2026. AsylG, AufenthG. GEAS-Reform ab 12.6.2026 wirksam.
 Bevor losgelegt wird, klaere:
 1. War bereits eine Erstanhoerung — welche Abweichungen drohen zur Zweitanhoerung?
 2. Bestehen Traumatisierungen, Behinderungen oder sprachliche Barrieren, die Sonderregelungen auslösen?
-3. Liegt das Anhörungsprotokoll der Erstanhoerung vor — Konsistenz pruefen?
+3. Liegt das Anhörungsprotokoll der Erstanhoerung vor — Konsistenz prüfen?
 4. Welche Sprache des Dolmetschers ist am naechsten zur Muttersprache des Mandanten?
 5. Frist: § 36 AsylG (1 Woche) oder § 74 AsylG (2 Wochen) nach zu erwartendem Bescheid?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -198,7 +198,7 @@ Abschiebungsverbot] zuzuerkennen.
 Anlagen: K1 [Beschreibung], K2 [...]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

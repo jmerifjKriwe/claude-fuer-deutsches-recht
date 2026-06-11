@@ -30,12 +30,12 @@ description: "Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB
 - Klausel muss differenzieren nach Kuendigungsgrund (Eigenkuendigung des Arbeitnehmers schadet, betriebsbedingte Kuendigung des Arbeitgebers nicht).
 
 ### Vertragsstrafe im Arbeitsvertrag
-- § 309 Nr. 6 BGB direkt nicht anwendbar (§ 310 Abs. 4 Satz 1 BGB), aber Wertung ueber § 307 BGB.
-- BAG: Vertragsstrafe in Hoehe eines Bruttomonatsgehalts in der Regel zulaessig.
+- § 309 Nr. 6 BGB direkt nicht anwendbar (§ 310 Abs. 4 Satz 1 BGB), aber Wertung über § 307 BGB.
+- BAG: Vertragsstrafe in Höhe eines Bruttomonatsgehalts in der Regel zulässig.
 
 ### Ueberstundenpauschalierung
-- Klausel "Mit der Verguetung sind etwaige Ueberstunden abgegolten" ist intransparent, wenn die Anzahl der erfassten Ueberstunden nicht klar genannt wird.
-- BAG 5 AZR 765/10: max. 25 Prozent Pauschalierung in Bezug zur Wochenarbeitszeit zulaessig.
+- Klausel "Mit der Vergütung sind etwaige Ueberstunden abgegolten" ist intransparent, wenn die Anzahl der erfassten Ueberstunden nicht klar genannt wird.
+- BAG 5 AZR 765/10: max. 25 Prozent Pauschalierung in Bezug zur Wochenarbeitszeit zulässig.
 
 ## Pruefraster
 

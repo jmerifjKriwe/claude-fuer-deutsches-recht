@@ -23,7 +23,7 @@ description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacke
 
 ## Rechtlicher und methodischer Rahmen
 
-- **Vertragssprache**: Privatautonomie. Parteien koennen frei waehlen.
+- **Vertragssprache**: Privatautonomie. Parteien können frei waehlen.
 - **Anwendbares Recht**: Rom I-VO. Bei B2C-Vertraegen Verbraucherschutz im Land des gewoehnlichen Aufenthalts (Art. 6 Rom I-VO).
 - **§ 184 GVG**: Gerichtssprache deutscher Gerichte ist Deutsch. Bei englischen Vertraegen vor deutschen Gerichten: Uebersetzung erforderlich, Kosten regelmaessig zulasten der vorlegenden Partei. Vereinzelte Spezialkammern für englischsprachige Verfahren (Hamburg, Frankfurt, Stuttgart).
 - **§ 293 ZPO**: Auslaendisches Recht muss bewiesen werden. Sachverstaendigengutachten regelmaessig erforderlich, Kosten 10.000 EUR aufwaerts.
@@ -51,7 +51,7 @@ description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacke
 
 ### Courtesy translation (eine nur informativ)
 
-- Eine Sprache ist verbindlich, die andere wird ausschliesslich zur Information beigefuegt.
+- Eine Sprache ist verbindlich, die andere wird ausschließlich zur Information beigefuegt.
 - Niedriger Drafting-Aufwand bei Aenderungen (nur die verbindliche Fassung ist relevant).
 - Risiko: Uebersetzung kann irrefuehrend sein, der Mandant unterschreibt im Vertrauen auf die Uebersetzung.
 
@@ -75,7 +75,7 @@ Wenn Side-by-Side, dann zweispaltige Tabelle ohne Rahmen, Spaltenbreite 50:50, Z
 |---|---|
 | Track Changes-tauglich | Lesefluss zweimal unterbrochen |
 | Word-natives Layout | Manchmal Verlust der Querreferenz |
-| Standard bei DIS, ICC | Lange Vertraege werden unhandlich |
+| Standard bei DIS, ICC | Lange Verträge werden unhandlich |
 
 Gestapelt: Jeder Abschnitt erst auf Deutsch, dann auf Englisch. Englische Abschnitte in kursivem Schnitt oder mit "EN:"-Prefix.
 
@@ -83,7 +83,7 @@ Gestapelt: Jeder Abschnitt erst auf Deutsch, dann auf Englisch. Englische Abschn
 
 ## False Friends Deutsch-Englisch
 
-Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. Pruefen Sie jede Klausel.
+Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. Prüfen Sie jede Klausel.
 
 | Englisch | Falsche dt. Uebersetzung | Korrekte dt. Uebersetzung | Anmerkung |
 |---|---|---|---|
@@ -94,18 +94,18 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 | **Reasonable best efforts** | (oft falsch uebersetzt) | Angemessene Anstrengungen | Verhandlungsformel zwischen "best" und "commercially reasonable" |
 | **Consequential damages** | Folgeschaeden | Indirekte oder mittelbare Schaeden | Begriff im US-Recht enger als dt. mittelbarer Schaden |
 | **Punitive damages** | Strafzahlungen | Strafschadensersatz | Im dt. Recht unbekannt, ordre public-relevant (§ 328 ZPO) |
-| **Liquidated damages** | Verfluessigte Schaeden | Pauschalierter Schadensersatz | Naeher an § 309 Nr. 5 BGB als an Vertragsstrafe |
+| **Liquidated damages** | Verfluessigte Schaeden | Pauschalierter Schadensersatz | Näher an § 309 Nr. 5 BGB als an Vertragsstrafe |
 | **Penalty** | Strafe | Vertragsstrafe | Im US-Recht oft unzulaessig, in dt. Recht Pflicht zur Begrenzung |
 | **Severability** | Trennbarkeit | Salvatorische Klausel | Erfordert in dt. Recht zwingend salvatorische Klausel im Vertrag |
-| **Entire agreement** | Gesamte Vereinbarung | Vollstaendigkeitsklausel / Schlussklausel | Im dt. Recht: Pruefung an § 305b BGB |
-| **No waiver** | Kein Verzicht | Kein Verzicht durch Untaetigkeit | Im dt. Recht: § 242 BGB Verwirkung trotzdem moeglich |
+| **Entire agreement** | Gesamte Vereinbarung | Vollstaendigkeitsklausel / Schlussklausel | Im dt. Recht: Prüfung an § 305b BGB |
+| **No waiver** | Kein Verzicht | Kein Verzicht durch Untaetigkeit | Im dt. Recht: § 242 BGB Verwirkung trotzdem möglich |
 | **Force majeure** | Hoehere Gewalt | Hoehere Gewalt | OK, aber Reichweite oft anders verstanden |
 | **Counterparts** | Gegenstuecke | Mehrere Ausfertigungen | Standardklausel bei US/UK-Vertraegen |
 | **Notice** | Mitteilung | Zugang einer rechtsverbindlichen Erklaerung | § 130 BGB Zugang ist enger |
-| **Arbitration** | Schiedsverfahren | Schiedsverfahren | OK, aber Schiedsfaehigkeit pruefen § 1030 ZPO |
+| **Arbitration** | Schiedsverfahren | Schiedsverfahren | OK, aber Schiedsfaehigkeit prüfen § 1030 ZPO |
 | **Setoff** | Aufrechnung | Aufrechnung | Im US-Recht weiter, im dt. Recht § 387 BGB |
 | **Assignment** | Abtretung | Forderungsabtretung oder Vertragsuebernahme | Im US-Recht oft beides, im dt. Recht § 398 ff. BGB vs. § 414 ff. BGB |
-| **Subsidiary** | Tochter | Tochtergesellschaft / Beherrschtes Unternehmen | Pruefung an § 17 AktG |
+| **Subsidiary** | Tochter | Tochtergesellschaft / Beherrschtes Unternehmen | Prüfung an § 17 AktG |
 | **Affiliate** | Affiliierter | Verbundenes Unternehmen | § 15 AktG verwenden |
 | **Material adverse change (MAC)** | Materielle nachteilige Veraenderung | Wesentliche nachteilige Veraenderung | Kein dt. Standardbegriff, im Vertrag zu definieren |
 | **Representations and warranties** | Erklaerungen und Gewaehrleistungen | Garantien | Im dt. Recht selbststaendige Garantien § 311 BGB |
@@ -118,29 +118,29 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 - Querverweise: in beiden Sprachen, gleiche Paragraphennummer.
 - Anlagen: gleiche Bezeichnung (Anlage 1 / Schedule 1).
 - Bei Aenderung einer Klausel: andere Sprache sofort mitziehen. Niemals nur eine Sprache bearbeiten.
-- Pruefung am Ende: Word-Vergleich beider Sprachen (manuell) auf Synchronitaet.
+- Prüfung am Ende: Word-Vergleich beider Sprachen (manuell) auf Synchronitaet.
 
 ## Ablauf / Checkliste
 
-1. Anwendungsfall klaeren (true bilingual / sovereign / courtesy).
+1. Anwendungsfall klären (true bilingual / sovereign / courtesy).
 2. Layout entscheiden (Side-by-Side oder Stacked).
 3. Sprachklausel formulieren (s. o.).
 4. Definitionenverzeichnis aufbauen, beide Sprachen synchron.
 5. Vertrag in der verbindlichen Sprache zuerst draften.
-6. Uebersetzung erstellen, dabei jede der oben aufgefuehrten False Friends pruefen.
-7. Konsistenz-Pruefung: jeder definierte Begriff in beiden Sprachen identisch.
-8. Forum-Pruefung: Kosten und Risiken bei Streitfall im vereinbarten Gericht (§ 184 GVG, § 293 ZPO).
+6. Uebersetzung erstellen, dabei jede der oben aufgefuehrten False Friends prüfen.
+7. Konsistenz-Prüfung: jeder definierte Begriff in beiden Sprachen identisch.
+8. Forum-Prüfung: Kosten und Risiken bei Streitfall im vereinbarten Gericht (§ 184 GVG, § 293 ZPO).
 9. Versand mit beiden Fassungen im selben Word-Dokument.
 
 ## Beispiel: Sprachklausel mit Forum-Hinweis
 
 > ### § 28 Sprache, Anwendbares Recht, Gerichtsstand
 >
-> (1) Dieser Vertrag ist in deutscher und englischer Sprache abgefasst. Die deutsche Fassung ist verbindlich. Die englische Fassung dient ausschliesslich der Information.
+> (1) Dieser Vertrag ist in deutscher und englischer Sprache abgefasst. Die deutsche Fassung ist verbindlich. Die englische Fassung dient ausschließlich der Information.
 >
-> (2) Auf diesen Vertrag findet ausschliesslich das Recht der Bundesrepublik Deutschland Anwendung. Die Anwendung des UN-Kaufrechts (CISG) wird ausgeschlossen.
+> (2) Auf diesen Vertrag findet ausschließlich das Recht der Bundesrepublik Deutschland Anwendung. Die Anwendung des UN-Kaufrechts (CISG) wird ausgeschlossen.
 >
-> (3) Ausschliesslicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist Frankfurt am Main. Die Parteien koennen davon abweichend ein Schiedsverfahren nach der Schiedsordnung der DIS (Deutsche Institution für Schiedsgerichtsbarkeit) vereinbaren; Schiedsort ist in diesem Fall Frankfurt am Main, Schiedssprache Deutsch.
+> (3) Ausschliesslicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist Frankfurt am Main. Die Parteien können davon abweichend ein Schiedsverfahren nach der Schiedsordnung der DIS (Deutsche Institution für Schiedsgerichtsbarkeit) vereinbaren; Schiedsort ist in diesem Fall Frankfurt am Main, Schiedssprache Deutsch.
 >
 > ### Section 28 Language, Governing Law, Jurisdiction
 >

@@ -3,7 +3,7 @@ name: post-closing-integration
 description: "Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden: Post-Merger-Integration planen u..."
 ---
 
-# Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden
+# Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing müssen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Post-Merger-Integration planen und begleiten: Anwendungsfall nach 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. § 613a BGB Betriebsuebergang, §§ 321 ff. HGB Completion-Accounts-Pflichten, SPA Post-Closing-Obligations. Prüfraster PMI-Aufgaben aus DD-Findings, Earn-Out-Berechnungsmechanismus, Betriebsuebergangspflichten, Register- und Behoeranmeldungen. Output PMI-Plan mit Owner-Matrix, Earn-Out-Monitoring und offenen SPA-Pflichten. Abgrenzung zu Steps-Plan-PMO für Pre-Signing-Phasen und zu Signing-Closing-CPs.
+**Fokus:** Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing müssen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. § 613a BGB Betriebsuebergang, §§ 321 ff. HGB Completion-Accounts-Pflichten, SPA Post-Closing-Obligations. Prüfraster PMI-Aufgaben aus DD-Findings, Earn-Out-Berechnungsmechanismus, Betriebsuebergangspflichten, Register- und Behoeranmeldungen. Output PMI-Plan mit Owner-Matrix, Earn-Out-Monitoring und offenen SPA-Pflichten. Abgrenzung zu Steps-Plan-PMO für Pre-Signing-Phasen und zu Signing-Closing-CPs.
 
 ### Post-Closing Integration
 
@@ -122,11 +122,11 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. Sind Garantiefristen aus dem SPA zu beachten — wann laufen die wichtigsten Business Warranty-Fristen ab?
 3. Gibt es offene § 613a BGB-Pflichten — wurden alle Arbeitnehmer informiert, laufen noch Widerspruchsfristen?
 4. Sind Registeranmeldungen nach Closing noch offen — Gesellschafterliste § 40 GmbHG, Transparenzregister?
-5. Welche Synergieannahmen muessen operativ umgesetzt werden — Integrationsplaene, Restrukturierungen, IT-Systeme?
+5. Welche Synergieannahmen müssen operativ umgesetzt werden — Integrationsplaene, Restrukturierungen, IT-Systeme?
 
 ## Zentrale Rechtsgrundlagen
 
-- § 613a BGB — Betriebsuebergang: nach Asset Deal gehen alle Arbeitsverhaeltnisse kraft Gesetzes ueber; Widerspruchsrecht 1 Monat nach Information; Klaerung von Ueberleitungsfragen nach Closing
+- § 613a BGB — Betriebsuebergang: nach Asset Deal gehen alle Arbeitsverhaeltnisse kraft Gesetzes über; Widerspruchsrecht 1 Monat nach Information; Klärung von Ueberleitungsfragen nach Closing
 - § 40 GmbHG — Einreichung der Gesellschafterliste: Notar oder Geschaeftsfuehrer innerhalb eines Monats nach Anteilsuebertragung
 - § 20 TranspRG — Transparenzregistermeldung: wirtschaftlich Berechtigte nach Gesellschafterwechsel; Frist 2 Wochen nach Closing
 - §§ 195, 199 BGB — Verjährungsfristen für Post-Closing-Ansprueche: regelmäßige Verjährung 3 Jahre; vertragliche Abkuerzung auf 18-24 Monate ueblich; Fristbeginn mit Kenntnis oder Entstehung
@@ -140,8 +140,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Post-Closing-Obligations-Register:** alle SPA-Verpflichtungen nach Closing erfassen (Owner, Faelligkeit, Nachweis)
-2. **Completion Accounts / Purchase Price Adjustment:** Frist pruefen (haeufig 60-90 Tage nach Closing); Anpassungsberechnung erstellen und abstimmen
-3. **Earn-Out-Monitoring:** Earn-Out-Formel dokumentieren; Monitoring-Recht des Verkaeuf ers einhalten; keine schaedlichen Massnahmen
+2. **Completion Accounts / Purchase Price Adjustment:** Frist prüfen (haeufig 60-90 Tage nach Closing); Anpassungsberechnung erstellen und abstimmen
+3. **Earn-Out-Monitoring:** Earn-Out-Formel dokumentieren; Monitoring-Recht des Verkaeuf ers einhalten; keine schaedlichen Maßnahmen
 4. **§ 613a BGB-Nachbearbeitung:** Widerspruchsfrist (mindestens 1 Monat) ueberwachen; neue Arbeitgeber-Pflichten; BAV-Ueberleitung
 5. **Registeranmeldungen abarbeiten:** Gesellschafterliste (§ 40 GmbHG), HR-Anmeldungen, Transparenzregister (§ 20 TranspRG)
 6. **Garantiefristen-Kalender:** alle SPA-Fristen in Wiedervorlage; Notification bei Garantieverletzung fristgerecht
@@ -176,7 +176,7 @@ PMI-MEILENSTEINE
 ## Rote Schwellen
 
 - Completion Accounts-Frist versaeumt: Kaufpreisanpassung verwirkt
-- Earn-Out-schaedliche Massnahmen: Schadensersatz Verkaeufer (BGH Earn-Out-Leitlinie)
+- Earn-Out-schaedliche Maßnahmen: Schadensersatz Verkaeufer (BGH Earn-Out-Leitlinie)
 - Gesellschafterliste nicht eingereicht (§ 40 GmbHG): Stimmrechte fraglich
 - Garantiefrist-Notification versaeumt: Anspruch erloschen
 

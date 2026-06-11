@@ -18,7 +18,7 @@ Eine Rulemap wirkt erst im Verwaltungsverfahren. Die Vollzugstauglichkeit fragt:
 
 ## Pruefpunkte
 
-Pruefen: wo bleibt die Letztverantwortung beim Menschen (Art. 22 DSGVO)? Sind alle Beteiligungsrechte abgebildet (Drittbeteiligung; UVP)? Bleibt die Aktenfuehrung nachvollziehbar?
+Prüfen: wo bleibt die Letztverantwortung beim Menschen (Art. 22 DSGVO)? Sind alle Beteiligungsrechte abgebildet (Drittbeteiligung; UVP)? Bleibt die Aktenfuehrung nachvollziehbar?
 
 ## Normenanker
 
@@ -37,7 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Abgrenzung
 
-Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Pruefung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
+Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Prüfung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
 
 ## Quellen Stand 06/2026
 

@@ -24,7 +24,7 @@ Paragraph 23 GeschGehG ersetzt seit 26.04.2019 den frueheren Paragraph 17 UWG (G
 
 Strafrahmen Paragraph 23 Abs 1 bis 4 GeschGehG: bis drei Jahre Freiheitsstrafe oder Geldstrafe (Grundtatbestand). Qualifikation Paragraph 23 Abs 4 GeschGehG (gewerbsmaessig, im Auftrag eines fremden Staates oder bei besonders schwerwiegenden Faellen): bis fuenf Jahre Freiheitsstrafe (Wortlaut bitte verifizieren — die Qualifikationen sind in mehrere Absaetze gegliedert).
 
-Antragsdelikt grundsaetzlich (Paragraph 23 Abs 7 GeschGehG analog der UrhG-Systematik), Ausnahme besonderes öffentliches Interesse. **Verifizieren** vor konkreter Anwendung.
+Antragsdelikt grundsätzlich (Paragraph 23 Abs 7 GeschGehG analog der UrhG-Systematik), Ausnahme besonderes öffentliches Interesse. **Verifizieren** vor konkreter Anwendung.
 
 ## Tatbestand und Geltungsbereich
 
@@ -47,17 +47,17 @@ Erlaubte Handlungen Paragraph 5 GeschGehG: Whistleblowing zur Aufdeckung rechtsw
 
 ## Strafantrag und Antragsbefugnis
 
-Paragraph 23 Abs 7 GeschGehG (Verifikation noetig — der genaue Absatz für die Antragsdeliktqualifikation kann variieren): Die Tat wird grundsaetzlich nur auf Antrag verfolgt; Ausnahme: besonderes öffentliches Interesse durch StA bejaht. Antragsfrist Paragraph 77b StGB drei Monate ab Kenntnis von Tat und Taeter.
+Paragraph 23 Abs 7 GeschGehG (Verifikation noetig — der genaue Absatz für die Antragsdeliktqualifikation kann variieren): Die Tat wird grundsätzlich nur auf Antrag verfolgt; Ausnahme: besonderes öffentliches Interesse durch StA bejaht. Antragsfrist Paragraph 77b StGB drei Monate ab Kenntnis von Tat und Taeter.
 
 Antragsberechtigt: Inhaber des Geschäftsgeheimnisses (Paragraph 2 Nr 2 GeschGehG). Bei juristischen Personen Vertretungsorgan. Bei Konzernstrukturen: Konzernobergesellschaft oder die operative Gesellschaft, die das Geheimnis kontrolliert.
 
-Praxis: Strafanzeige durch betroffenes Unternehmen wird haeufig parallel zu zivilrechtlichen Massnahmen (einstweilige Verfuegung Paragraph 6 GeschGehG, Unterlassungsklage Paragraph 6 GeschGehG, Schadensersatzklage Paragraph 10 GeschGehG) gestellt. Beweissicherung durch Strafverfahren (Beschlagnahme von Datentraegern) ist oft entscheidend.
+Praxis: Strafanzeige durch betroffenes Unternehmen wird haeufig parallel zu zivilrechtlichen Maßnahmen (einstweilige Verfuegung Paragraph 6 GeschGehG, Unterlassungsklage Paragraph 6 GeschGehG, Schadensersatzklage Paragraph 10 GeschGehG) gestellt. Beweissicherung durch Strafverfahren (Beschlagnahme von Datentraegern) ist oft entscheidend.
 
 ## Praktikertipps der Verteidigung
 
-- **Angemessene Geheimhaltungsmassnahmen bestreiten.** Pruefen, ob Inhaber tatsaechlich vertragliche NDAs hatte, technische Zugangsbeschraenkungen (Passwortschutz, Zwei-Faktor), organisatorische Massnahmen (Need-to-know-Prinzip, abgeschlossene Aktenraeume), Vertraulichkeitskennzeichnung. Fehlen dieser Massnahmen entkraeftet den Geheimnisbegriff. Vor Gericht eidesstattliche Versicherung des frueheren Mitarbeiters zu den real gelebten Schutzmassnahmen einbringen.
-- **Whistleblower-Schutz Paragraph 5 GeschGehG.** Wenn Mandant die Information zur Aufdeckung rechtswidriger Handlungen oder zur Wahrung berechtigter öffentlicher Interessen offenlegte, ist Tat gerechtfertigt. HinSchG (Hinweisgeberschutzgesetz) seit 2023 schaerfere Vorgaben für interne Meldewege; vorrangige interne Meldung pruefen.
-- **Allgemein bekannt geworden.** Wenn das Geheimnis zwischenzeitlich oeffentlich wurde (z. B. durch Branchenpublikation), entfaellt der Schutz; spaetere Verwertung ist dann nicht mehr strafbar.
+- **Angemessene Geheimhaltungsmassnahmen bestreiten.** Prüfen, ob Inhaber tatsaechlich vertragliche NDAs hatte, technische Zugangsbeschraenkungen (Passwortschutz, Zwei-Faktor), organisatorische Maßnahmen (Need-to-know-Prinzip, abgeschlossene Aktenraeume), Vertraulichkeitskennzeichnung. Fehlen dieser Maßnahmen entkraeftet den Geheimnisbegriff. Vor Gericht eidesstattliche Versicherung des frueheren Mitarbeiters zu den real gelebten Schutzmassnahmen einbringen.
+- **Whistleblower-Schutz Paragraph 5 GeschGehG.** Wenn Mandant die Information zur Aufdeckung rechtswidriger Handlungen oder zur Wahrung berechtigter öffentlicher Interessen offenlegte, ist Tat gerechtfertigt. HinSchG (Hinweisgeberschutzgesetz) seit 2023 schaerfere Vorgaben für interne Meldewege; vorrangige interne Meldung prüfen.
+- **Allgemein bekannt geworden.** Wenn das Geheimnis zwischenzeitlich öffentlich wurde (z. B. durch Branchenpublikation), entfaellt der Schutz; spaetere Verwertung ist dann nicht mehr strafbar.
 - **Mitnahme von Erfahrungswissen.** BGH staendige Rspr. (auch zu Paragraph 17 UWG aF) hat Erfahrungswissen, Kunden- und Marktkenntnisse, die ein Arbeitnehmer im Laufe seiner Taetigkeit gewinnt, von Geschäftsgeheimnissen abgegrenzt. Bei Kundenkontakten ohne mitgenommene Datei-Kopie eher kein Geschaeftsgeheimnis im Sinne des Paragraph 2 Nr 1 GeschGehG.
 - **Beweisproblem digitale Spuren.** IT-forensische Auswertung der Datentraeger des Mandanten ist Standard; Verteidigung sollte fruehzeitig eigene IT-Forensik beauftragen, Geraete-Image sichern, parallel zur Beschlagnahme.
 
@@ -71,11 +71,11 @@ Paragraph 16 GeschGehG Geheimnisschutz im gerichtlichen Verfahren ist auch im St
 
 ## Konkurrenzen
 
-- **Paragraph 23 GeschGehG und Paragraph 202a StGB Ausspaehen von Daten.** Bei unbefugtem Datenzugriff Tateinheit moeglich; Paragraph 202a StGB schuetzt die Datenintegritaet, Paragraph 23 GeschGehG den wirtschaftlichen Wert.
-- **Paragraph 23 GeschGehG und Paragraph 263 StGB.** Bei taeuschender Erlangung ueber Vortaeuschen Mitarbeitereigenschaft Tateinheit moeglich.
+- **Paragraph 23 GeschGehG und Paragraph 202a StGB Ausspaehen von Daten.** Bei unbefugtem Datenzugriff Tateinheit möglich; Paragraph 202a StGB schuetzt die Datenintegritaet, Paragraph 23 GeschGehG den wirtschaftlichen Wert.
+- **Paragraph 23 GeschGehG und Paragraph 263 StGB.** Bei taeuschender Erlangung über Vortaeuschen Mitarbeitereigenschaft Tateinheit möglich.
 - **Paragraph 23 GeschGehG und Paragraph 17 UWG aF.** Paragraph 17 UWG ist seit 26.04.2019 aufgehoben; Altfaelle sind nach Paragraph 17 UWG aF zu beurteilen, Tatzeitpunkt entscheidend.
-- **Paragraph 23 GeschGehG und Paragraph 99 StGB Spionage.** Bei Auftrag eines fremden Staates pruefen. Paragraph 23 Abs 4 GeschGehG hat ausdruecklich einen Auftrag fremder Staat-Tatbestand.
-- **Paragraph 23 GeschGehG und Paragraph 266 StGB Untreue.** Bei Geschaeftsfuehrer, der Geheimnisse zugunsten Dritter verraet, Tateinheit moeglich.
+- **Paragraph 23 GeschGehG und Paragraph 99 StGB Spionage.** Bei Auftrag eines fremden Staates prüfen. Paragraph 23 Abs 4 GeschGehG hat ausdruecklich einen Auftrag fremder Staat-Tatbestand.
+- **Paragraph 23 GeschGehG und Paragraph 266 StGB Untreue.** Bei Geschaeftsfuehrer, der Geheimnisse zugunsten Dritter verraet, Tateinheit möglich.
 
 ## Strafzumessung
 
@@ -87,11 +87,11 @@ Strafrahmen Paragraph 23 Abs 1 GeschGehG: bis drei Jahre Freiheitsstrafe oder Ge
 
 ## Mustertexte
 
-**Strafantrag-Snippet:** "Namens und mit Vollmacht der X GmbH, Inhaberin des Geschäftsgeheimnisses 'Y-Produktionsverfahren', stelle ich gemaess Paragraph 23 Abs 7 GeschGehG iVm Paragraph 158 StPO Strafanzeige und Strafantrag wegen unbefugten Erlangens und Nutzens eines Geschäftsgeheimnisses (Paragraph 23 Abs 1 GeschGehG). Die Mandantin hat angemessene Geheimhaltungsmassnahmen getroffen: vertragliche NDA mit allen Mitarbeitern (Anlage K1), technische Zugriffsbeschraenkung mit Need-to-know-Prinzip (Anlage K2), schriftliche Vertraulichkeitskennzeichnung des betreffenden Dokuments (Anlage K3). Kenntnis von Tat und Taeter wurde am DD.MM.JJJJ erlangt; die Frist nach Paragraph 77b StGB ist gewahrt."
+**Strafantrag-Snippet:** "Namens und mit Vollmacht der X GmbH, Inhaberin des Geschäftsgeheimnisses 'Y-Produktionsverfahren', stelle ich gemäß Paragraph 23 Abs 7 GeschGehG iVm Paragraph 158 StPO Strafanzeige und Strafantrag wegen unbefugten Erlangens und Nutzens eines Geschäftsgeheimnisses (Paragraph 23 Abs 1 GeschGehG). Die Mandantin hat angemessene Geheimhaltungsmassnahmen getroffen: vertragliche NDA mit allen Mitarbeitern (Anlage K1), technische Zugriffsbeschraenkung mit Need-to-know-Prinzip (Anlage K2), schriftliche Vertraulichkeitskennzeichnung des betreffenden Dokuments (Anlage K3). Kenntnis von Tat und Taeter wurde am DD.MM.JJJJ erlangt; die Frist nach Paragraph 77b StGB ist gewahrt."
 
 **Schutzschrift-Snippet:** "Die streitgegenstaendliche Information ist nicht als Geschaeftsgeheimnis im Sinne von Paragraph 2 Nr 1 GeschGehG zu qualifizieren. Die Mandantin hat keine angemessenen Geheimhaltungsmassnahmen getroffen: Die Datei lag im allgemein zugaenglichen Netzwerkverzeichnis ohne Passwortschutz; eine schriftliche Vertraulichkeitskennzeichnung war nicht angebracht; die NDA-Pflichten waren nur muendlich erteilt und nicht durchgesetzt. Die Information ist daher nicht durch Paragraph 23 GeschGehG geschuetzt. Beweisangebot: Zeugenvernehmung des frueheren IT-Administrators X."
 
-**Hilfsbeweisantrag:** "Es wird beantragt, ein IT-forensisches Gutachten einzuholen zum Beweis der Tatsache, dass die streitgegenstaendliche Datei im Tatzeitraum ueber das offene WLAN der Mandantin von jedem Mitarbeiter abrufbar war und somit keine angemessenen Geheimhaltungsmassnahmen im Sinne von Paragraph 2 Nr 1 b) GeschGehG vorlagen."
+**Hilfsbeweisantrag:** "Es wird beantragt, ein IT-forensisches Gutachten einzuholen zum Beweis der Tatsache, dass die streitgegenstaendliche Datei im Tatzeitraum über das offene WLAN der Mandantin von jedem Mitarbeiter abrufbar war und somit keine angemessenen Geheimhaltungsmassnahmen im Sinne von Paragraph 2 Nr 1 b) GeschGehG vorlagen."
 
 ## Quellen Stand 06/2026
 

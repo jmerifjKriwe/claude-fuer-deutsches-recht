@@ -47,14 +47,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Anfechtungsklage gegen Verwaltungsakt | Klageschrift nach Pruefschema VwGO; Template unten |
 | Variante A — Widerspruchsverfahren noch offen | Widerspruchsschrift zuerst; Klage nach Widerspruchsbescheid |
 | Variante B — VA rechtswidrig aber Mandant will schnelle Loesung | Vergleich mit Behörde anstreben; Klage als Druckmittel |
-| Variante C — VA nicht mehr vollziehbar Feststellungsinteresse pruefen | Fortsetzungsfeststellungsklage § 113 Abs. 1 S. 4 VwGO statt Anfechtung |
+| Variante C — VA nicht mehr vollziehbar Feststellungsinteresse prüfen | Fortsetzungsfeststellungsklage § 113 Abs. 1 S. 4 VwGO statt Anfechtung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -142,7 +142,7 @@ Anlagen
 - Vollmacht
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

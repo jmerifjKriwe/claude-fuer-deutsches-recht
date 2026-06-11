@@ -59,7 +59,7 @@ description: "Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung: Anw
 | BAG, 2. Senat | 2 AZR 227/97 | 05.02.1998 | Praezisierung: Mitteilungspflicht umfasst auch dem AG bekannte, für den AN guenstige Umstaende, soweit sie objektiv relevant sind | dejure.org-Vernetzung BAG 05.02.1998 - 2 AZR 227/97 |
 | BAG, 2. Senat | 2 AZR 472/01 | 10.10.2002 | Angabe der Sozialdaten bei verhaltensbedingter Kuendigung; Beginn der Stellungnahmefrist bei ergaenzenden Informationen | dejure.org-Vernetzung BAG 10.10.2002 - 2 AZR 472/01 |
 
-Hinweis: Aktuellere Entscheidungen (Q4/2025 - Q2/2026) zur Anhörungs-Substantiierung vor Schriftsatzverwendung in offenen Quellen pruefen.
+Hinweis: Aktuellere Entscheidungen (Q4/2025 - Q2/2026) zur Anhörungs-Substantiierung vor Schriftsatzverwendung in offenen Quellen prüfen.
 
 ## Prüfschema Betriebsratsanhörung
 
@@ -93,14 +93,14 @@ Hinweis: Aktuellere Entscheidungen (Q4/2025 - Q2/2026) zur Anhörungs-Substantii
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Anhörungsruege § 102 BetrVG in Klageschrift | Ruege-Baustein nach Template unten |
 | Variante A — Anhörungsmangel klar und offensichtlich | Auf starke Unwirksamkeit setzen; Vergleich auf hohem Niveau |
-| Variante B — Anhörung formell ok aber inhaltlich unvollstaendig | Subjektive Determinationstheorie pruefen; Einzelfall-Argumentation |
-| Variante C — Kein Betriebsrat vorhanden | § 102 BetrVG entfaellt; andere Unwirksamkeitsgruende pruefen |
+| Variante B — Anhörung formell ok aber inhaltlich unvollstaendig | Subjektive Determinationstheorie prüfen; Einzelfall-Argumentation |
+| Variante C — Kein Betriebsrat vorhanden | § 102 BetrVG entfaellt; andere Unwirksamkeitsgruende prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -158,7 +158,7 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 [Unterschrift Geschäftsführung / HR-Leitung]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

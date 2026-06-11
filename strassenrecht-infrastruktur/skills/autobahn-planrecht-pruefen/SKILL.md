@@ -3,7 +3,7 @@ name: autobahn-planrecht-pruefen
 description: "Autobahn: Planrecht prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Autobahn Planrecht Pruefen
+# Autobahn Planrecht Prüfen
 
 ## Arbeitsweg
 

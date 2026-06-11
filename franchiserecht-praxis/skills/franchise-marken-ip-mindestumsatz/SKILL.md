@@ -33,7 +33,7 @@ description: "Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenr
 ## Software-Lizenz
 
 - Software für Kassensysteme, Lagerverwaltung, CRM.
-- AGB-rechtliche Pruefung der Lizenzbedingungen.
+- AGB-rechtliche Prüfung der Lizenzbedingungen.
 
 ## Postvertragliche Pflichten
 

@@ -13,7 +13,7 @@ description: "Kassenführung GoBD-Pflichten. Anwendungsfall Mandanten mit Barges
 
 ## Kernsachverhalt
 
-Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrung ein sensibler Pruefpunkt. § 146 AO verlangt Zeitgerechtigkeit und Vollstaendigkeit; § 146a AO erfordert seit 01.01.2020 (BMF-Nichtbeanstandungsregelung bis 30.09.2020) eine zertifizierte Technische Sicherheitseinrichtung (TSE) bei elektronischen Aufzeichnungssystemen. Seit 01.01.2020 besteht zudem die Belegausgabepflicht nach § 146a Abs. 2 AO. Verstoesse koennen zur Schaetzungsbefugnis (§ 162 AO), Bussgeld (§ 379 AO) bzw. zu steuerstrafrechtlicher Bewertung als Steuerhinterziehung fuehren.
+Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrung ein sensibler Pruefpunkt. § 146 AO verlangt Zeitgerechtigkeit und Vollstaendigkeit; § 146a AO erfordert seit 01.01.2020 (BMF-Nichtbeanstandungsregelung bis 30.09.2020) eine zertifizierte Technische Sicherheitseinrichtung (TSE) bei elektronischen Aufzeichnungssystemen. Seit 01.01.2020 besteht zudem die Belegausgabepflicht nach § 146a Abs. 2 AO. Verstoesse können zur Schaetzungsbefugnis (§ 162 AO), Bussgeld (§ 379 AO) bzw. zu steuerstrafrechtlicher Bewertung als Steuerhinterziehung fuehren.
 
 ## Kaltstart-Rueckfragen
 
@@ -51,7 +51,7 @@ Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrun
 
 ## Workflow
 
-### Phase 1 — Kassensystem pruefen
+### Phase 1 — Kassensystem prüfen
 
 | System | TSE-Pflicht | Anforderungen |
 |---|---|---|
@@ -60,7 +60,7 @@ Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrun
 | Cloud-Kassensystem | TSE | Auch Cloud-Loesungen brauchen TSE |
 | App-Kasse | TSE | Bei elektronischer Speicherung |
 
-### Phase 2 — TSE-Pruefung
+### Phase 2 — TSE-Prüfung
 
 - TSE-Modul muss zertifiziert sein (BSI).
 - TSE-Daten werden mit jeder Buchung erstellt (Signatur, Zeitstempel).
@@ -70,7 +70,7 @@ Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrun
 
 - Z-Bon (Tagesabschluss): am Tagesende ausdrucken.
 - Kassensturz: Soll-Bestand vs. Ist-Bestand.
-- Differenzen klaeren.
+- Differenzen klären.
 - Kassenbericht oder elektronisch.
 
 ### Phase 4 — Belegpflicht § 146b AO
@@ -79,9 +79,9 @@ Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrun
 - Beleg kann Papier oder elektronisch sein.
 - Verstoss: § 379 AO Bussgeld.
 
-### Phase 5 — Bei Pruefung
+### Phase 5 — Bei Prüfung
 
-- Kassennachschau § 146b AO: unangemeldet moeglich.
+- Kassennachschau § 146b AO: unangemeldet möglich.
 - Aussenpruefer: Kassenfuehrung vorlegen.
 - Bei wesentlichen Maengeln: Schaetzung § 162 AO.
 
@@ -96,7 +96,7 @@ Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrun
 - Die TSE-Pflicht ist hart durchgesetzt; der Bussgeldrahmen reicht nach § 379 Abs. 6 AO bis 25.000 EUR pro Verstoss.
 - Die Verfahrensdokumentation (Konfiguration, Bedienungsanleitung, Aenderungsprotokoll) ist haeufig vernachlaessigt, aber ausdruecklich Pflichtbestandteil nach GoBD (BMF v. 28.11.2019, Rz. 153 ff.).
 - Bei Mandanten mit hohem Bargeschaeft ist eine kontinuierliche StB-Begleitung sinnvoll; bei Verdacht auf Manipulation der Aufzeichnungen ist der Mandant nachweisbar (Aktenvermerk, schriftliche Belehrung) auf die Sanktionsrisiken nach § 379 AO bzw. § 370 AO hinzuweisen — vgl. die Eskalations-Routine in `stb-mandantenanfrage-reaktion-frist-laufend` und die berufsrechtliche Hinweispflicht aus § 102 StaRUG bei drohender Insolvenz.
-- Die Kassennachschau nach § 146b AO erfolgt unangekuendigt — auch zu Beginn der Geschaeftsoeffnung; Mandanten sollten auf den Umgang mit dem Pruefer (Vorlage Kassen-Z-Bons, TSE-DSFinV-K-Daten) geschult werden.
+- Die Kassennachschau nach § 146b AO erfolgt unangekuendigt — auch zu Beginn der Geschaeftsoeffnung; Mandanten sollten auf den Umgang mit dem Prüfer (Vorlage Kassen-Z-Bons, TSE-DSFinV-K-Daten) geschult werden.
 
 ## Quellen und Updates
 

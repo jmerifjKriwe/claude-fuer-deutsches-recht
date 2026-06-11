@@ -39,7 +39,7 @@ Sie haben alle Teile. Jetzt machen Sie ein Paket. Das Paket schicken Sie ans Ger
 
 ### Schritt 1 — Vollstaendigkeits-Checkliste
 
-Pruefen Sie:
+Prüfen Sie:
 
 - [ ] **Klageschrift** mit Unterschrift (Original für das Gericht)
 - [ ] **Antraege** klar formuliert
@@ -78,15 +78,15 @@ Pruefen Sie:
 
 Eine Moeglichkeit:
 
-- **Eine grosse Datei**: alles zusammen in ein PDF (Schriftsatz + Anlagen). Vorteil: ein Klick.
+- **Eine große Datei**: alles zusammen in ein PDF (Schriftsatz + Anlagen). Vorteil: ein Klick.
 - **Mehrere Dateien**: Schriftsatz, dann je ein PDF pro Anlage. Vorteil: leichtere Orientierung.
 
-Pruefen Sie das Limit Ihres Versandwegs (z.B. MJP).
+Prüfen Sie das Limit Ihres Versandwegs (z.B. MJP).
 
 ### Schritt 6 — Letzter Check vor Versand
 
 - Lesen Sie alles nochmal durch.
-- Pruefen Sie die Frist!
+- Prüfen Sie die Frist!
 - Stimmen Daten und Aktenzeichen?
 - Ist die Unterschrift drauf?
 - Sind die Anlagen vollstaendig?
@@ -96,7 +96,7 @@ Pruefen Sie das Limit Ihres Versandwegs (z.B. MJP).
 - Per gewaehltem Weg (siehe entsprechende Skills).
 - Beweis aufheben.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Originalunterschrift**: bei Papierversand auf dem Original — nicht nur Kopie.
 - **Frist sichern**: Versand am letzten Tag riskant; lieber vorher.

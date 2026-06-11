@@ -85,4 +85,4 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - **Klage Verwaltungsgericht** 1 Monat.
 - **Kostenbeteiligung Eltern §§ 91-94 SGB VIII** abhaengig von Einkommen; Kostenheranziehung nach gesonderter Berechnung.
 - **Eilrechtsschutz § 123 VwGO** bei drohendem Hilfeausfall.
-- **Praxis-Tipp:** Bei Streit Jugendamt vs. Sozialamt zur Eingliederungshilfe: 1. Erstantrag beim Jugendamt (Schnellweg), 2. parallel Sozialamt; bei Streit nach §§ 14, 15 SGB IX vorläufige Klaerung; Antraege nach § 14 SGB IX werden binnen 2 Wochen weitergeleitet, sonst Erstattung zwischen Traegern.
+- **Praxis-Tipp:** Bei Streit Jugendamt vs. Sozialamt zur Eingliederungshilfe: 1. Erstantrag beim Jugendamt (Schnellweg), 2. parallel Sozialamt; bei Streit nach §§ 14, 15 SGB IX vorläufige Klärung; Antraege nach § 14 SGB IX werden binnen 2 Wochen weitergeleitet, sonst Erstattung zwischen Traegern.

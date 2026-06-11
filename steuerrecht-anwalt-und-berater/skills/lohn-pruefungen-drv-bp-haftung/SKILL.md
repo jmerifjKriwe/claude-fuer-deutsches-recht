@@ -3,7 +3,7 @@ name: lohn-pruefungen-drv-bp-haftung
 description: "Prüfungen DRV-Prüfung Lohnsteuer-Aussenprüfung Steuerberater-Haftung. Anwendungsfall DRV-Prüfer kommt Prüfkriterien Nachforderung Haftungsrisiken Mandant. Methodik Vorbereitung Begleitung Reaktion. Output Prüfbericht Prüfverhandlung Massnahmen."
 ---
 
-# DRV-Pruefung, Lohnsteuer-Aussenpruefung, StB-Haftung
+# DRV-Prüfung, Lohnsteuer-Aussenpruefung, StB-Haftung
 
 ## Fachlicher Anker
 
@@ -13,26 +13,26 @@ description: "Prüfungen DRV-Prüfung Lohnsteuer-Aussenprüfung Steuerberater-Ha
 
 ## Kernsachverhalt
 
-Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung des FA (anlassbezogen oder routinemaessig) sind die zentralen externen Pruefungen der Lohnbuchhaltung. Pruefthemen: SV-Status-Klassifikation, BBG-Einhaltung, Sachbezuege, Pauschalierungen, Aufzeichnungspflichten, Reisekosten. Der Steuerberater bereitet vor, begleitet die Pruefung und prueft Nachforderungen. Bei Pruefungsfehlern haftet der StB aus Mandantenvertrag (§ 280 BGB).
+Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung des FA (anlassbezogen oder routinemaessig) sind die zentralen externen Pruefungen der Lohnbuchhaltung. Pruefthemen: SV-Status-Klassifikation, BBG-Einhaltung, Sachbezuege, Pauschalierungen, Aufzeichnungspflichten, Reisekosten. Der Steuerberater bereitet vor, begleitet die Prüfung und prüft Nachforderungen. Bei Pruefungsfehlern haftet der StB aus Mandantenvertrag (§ 280 BGB).
 
 ## Kaltstart-Rueckfragen
 
-1. Welche Pruefung wird angekuendigt — DRV, Lohnsteuer-Aussenpruefung, BG-Pruefung, Zoll?
+1. Welche Prüfung wird angekuendigt — DRV, Lohnsteuer-Aussenpruefung, BG-Prüfung, Zoll?
 2. Welcher Pruefzeitraum (in der Regel 4 Jahre)?
 3. Welche Pruefthemen sind erkennbar?
-4. Liegen vorherige Pruefungs-Beanstandungen vor?
+4. Liegen vorherige Prüfungs-Beanstandungen vor?
 5. Welche kritischen Lohn-Themen im Mandantenbetrieb (Werkvertrag, Sachbezug, GGF-Status)?
-6. Welche Unterlagen muessen vorgelegt werden?
-7. Welcher Pruefer ist zuständig?
+6. Welche Unterlagen müssen vorgelegt werden?
+7. Welcher Prüfer ist zuständig?
 8. Welche Mandantenkommunikation zur Pruefungsbegleitung?
 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
 
-**§ 28p SGB IV** — DRV-Pruefung (Pruefung der ordnungsgemaessen Beitragsleistung; in der Regel im 4-Jahres-Rhythmus).
+**§ 28p SGB IV** — DRV-Prüfung (Prüfung der ordnungsgemaessen Beitragsleistung; in der Regel im 4-Jahres-Rhythmus).
 
-**§ 42f EStG** — Lohnsteuer-Aussenpruefung (Pruefung beim AG durch das FA).
+**§ 42f EStG** — Lohnsteuer-Aussenpruefung (Prüfung beim AG durch das FA).
 
 **§§ 193-203 AO** — Allgemeine Pruefungsbefugnis (subsidiaer; § 42f EStG ist lex specialis für LSt).
 
@@ -44,7 +44,7 @@ Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung
 
 ### Verwaltungsanweisungen
 
-- DRV-Rundschreiben zur Pruefung.
+- DRV-Rundschreiben zur Prüfung.
 - BMF zu Lohnsteuer-Aussenpruefung.
 
 ## Workflow
@@ -52,16 +52,16 @@ Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung
 ### Phase 1 — Pruefungsankuendigung
 
 - Schriftliche Ankuendigung mit Pruefzeitraum.
-- Pruefungs-Inhalt grob benannt.
+- Prüfungs-Inhalt grob benannt.
 - Vorlage-Frist Unterlagen.
 - Pruefdauer (in der Regel 3-5 Tage vor Ort).
 
 ### Phase 2 — Vorbereitung
 
-| Unterlage | Pruefer-Anfrage |
+| Unterlage | Prüfer-Anfrage |
 |---|---|
 | Lohnbuecher Sachkonten | Buchungs-Belege |
-| AN-Stammdaten | Vertraege, ELStAM-Daten |
+| AN-Stammdaten | Verträge, ELStAM-Daten |
 | Arbeitsvertraege | Vertragstexte |
 | Sachbezugsdokumentation | Belege, Gutschein-Konfigurationen |
 | Reisekosten-Belege | Belege, Erstattungsformulare |
@@ -70,19 +70,19 @@ Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung
 | ELSTER-Quittungen | Lohnsteuer-Anmeldungen |
 | DEUEV-Quittungen | SV-Meldungen |
 
-### Phase 3 — Pruefungs-Themenschwerpunkte
+### Phase 3 — Prüfungs-Themenschwerpunkte
 
 | Thema | Risiko |
 |---|---|
 | Statusfeststellung GGF, Werkvertrag, Aushilfe | Nachforderung SV bis 4 Jahre |
 | Minijob-Schwelle dauerhaft eingehalten? | Nachforderung |
-| Sachbezuege ueber 50 EUR | Nachversteuerung LSt + SV |
+| Sachbezuege über 50 EUR | Nachversteuerung LSt + SV |
 | Dienstwagen 1-Prozent korrekt? | Lohnsteuer-Nachforderung |
 | Pauschalierungen § 40 EStG | Nachversteuerung |
-| Steuerfreie Auslagenerstattung Reisekosten | Pauschalbetraege Pruefung |
+| Steuerfreie Auslagenerstattung Reisekosten | Pauschalbetraege Prüfung |
 | § 3b EStG Sonn-/Nacht-Zuschlaege | Hoechstsatz und Grundlohngrenze |
 
-### Phase 4 — Begleitung der Pruefung
+### Phase 4 — Begleitung der Prüfung
 
 - StB als Bevollmaechtigter vor Ort.
 - Auf Fragen sachlich-fachlich antworten.
@@ -92,23 +92,23 @@ Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung
 ### Phase 5 — Pruefbericht und Schlussbesprechung
 
 - Pruefbericht mit Beanstandungen und Nachforderungen.
-- Schlussbesprechung mit Pruefer und Mandant: strittige Punkte klaeren.
+- Schlussbesprechung mit Prüfer und Mandant: strittige Punkte klären.
 - Bei Streitpunkten: Einspruch (§ 347 AO) im Pruefungsbescheid.
 
-### Phase 6 — Reaktion und Haftungs-Pruefung
+### Phase 6 — Reaktion und Haftungs-Prüfung
 
 - Bei Nachforderung: Mandant trgt SV oder LSt nach.
-- Bei Fehler durch StB (z.B. falsche Klassifikation): Pruefung Berufshaftpflicht.
-- Mandanten-Schadensersatzanspruch nach § 280 BGB pruefen.
+- Bei Fehler durch StB (z.B. falsche Klassifikation): Prüfung Berufshaftpflicht.
+- Mandanten-Schadensersatzanspruch nach § 280 BGB prüfen.
 
 ## Strategie und Praxis-Tipps
 
-- DRV-Pruefung alle 4 Jahre Routine — Mandant rechtzeitig vorbereiten.
-- Bei Lohnsteuer-Aussenpruefung haeufig Anlass aus E-Bilanz-Auffaelligkeiten oder Pruefung beim Unterauftragnehmer.
+- DRV-Prüfung alle 4 Jahre Routine — Mandant rechtzeitig vorbereiten.
+- Bei Lohnsteuer-Aussenpruefung haeufig Anlass aus E-Bilanz-Auffaelligkeiten oder Prüfung beim Unterauftragnehmer.
 - StB-Haftungsrisiko hoch bei Sachbezugs-, GGF-Status-, Minijob-Fehlern — sorgfaeltige Dokumentation Standard.
-- Pruefer-Argumente nicht vorschnell akzeptieren — bei zweifelhaften Rechtsfragen Anwalt einschalten.
+- Prüfer-Argumente nicht vorschnell akzeptieren — bei zweifelhaften Rechtsfragen Anwalt einschalten.
 - StBVV: Pruefungsbegleitung nach Gegenstandswert Pruefungsergebnis oder Zeithonorar.
-- DATEV-Tipp: DATEV LODAS Pruefer-Sicht-Modus mit Pruefer-Datenexport.
+- DATEV-Tipp: DATEV LODAS Prüfer-Sicht-Modus mit Prüfer-Datenexport.
 
 ## Quellen und Updates
 

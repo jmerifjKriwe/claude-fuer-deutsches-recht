@@ -50,8 +50,8 @@ description: "Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde 
 |---|---|---|---|---|
 | EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Ausschluss wegen Falschangaben — Verhaeltnismaessigkeitspruefung im Einzelfall obligatorisch (Art. 57 RL 2014/24) | curia.europa.eu |
 | EuGH | C-66/22 (Infraestruturas) | 21.12.2023 | Ausschluss wegen Wettbewerbsverstoss § 124 Abs. 1 Nr. 4 GWB / Art. 57 Abs. 4 RL — Auslegung „schwerwiegende Verfehlung im beruflichen Bereich" | curia.europa.eu |
-| EuGH | C-66/20 | 12.05.2022 | Selbstreinigung Art. 57 Abs. 6 RL — Bewertung obliegt national; Verhaeltnismaessigkeit der Ausschlussfolgen | curia.europa.eu |
-| VK Bund / OLG Vergabesenate | laufende Senatsrspr. 2023-2025 | — | PQ-Verzeichnis ersetzt Einzelnachweise; Zusatznachweise nur ausnahmsweise zulaessig | bundeskartellamt.de/Vergabe + olg-duesseldorf.nrw.de |
+| EuGH | C-66/20 | 12.05.2022 | Selbstreinigung Art. 57 Abs. 6 RL — Bewertung obliegt national; Verhältnismäßigkeit der Ausschlussfolgen | curia.europa.eu |
+| VK Bund / OLG Vergabesenate | laufende Senatsrspr. 2023-2025 | — | PQ-Verzeichnis ersetzt Einzelnachweise; Zusatznachweise nur ausnahmsweise zulässig | bundeskartellamt.de/Vergabe + olg-duesseldorf.nrw.de |
 
 Konkrete OLG-Vergabesenat-Entscheidungen vor Verwendung per olg-duesseldorf.nrw.de / openjur.de mit Aktenzeichen und Datum verifizieren.
 
@@ -77,7 +77,7 @@ Konkrete OLG-Vergabesenat-Entscheidungen vor Verwendung per olg-duesseldorf.nrw.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -203,7 +203,7 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 [Rechtsanwälte]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -275,18 +275,18 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 
 1. Welches Eignungskriterium ist streitig? (Umsatz, Referenzen, Personal, Zertifikate, Insolvenz)
 2. Ist Kriterium in Bekanntmachung oder Vergabeunterlagen eindeutig beschrieben? (§ 122 Abs. 4 GWB)
-3. Wurde Eignungsanforderung im Verhaeltnis zum Auftragsgegenstand aufgestellt? (Verhaeltnismaessigkeit)
+3. Wurde Eignungsanforderung im Verhaeltnis zum Auftragsgegenstand aufgestellt? (Verhältnismäßigkeit)
 4. Liegt behaupteter Ausschluss § 124 GWB vor? (Harte/weiche Ausschlusskriterien)
-5. Selbstreinigung nach § 125 GWB moeglich?
+5. Selbstreinigung nach § 125 GWB möglich?
 
 ### Ergaenzende Leitsaetze Eignungspruefung (verifiziert curia.europa.eu)
 
-- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeit bei Ausschluss wegen Falschangaben
+- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhältnismäßigkeit bei Ausschluss wegen Falschangaben
 - EuGH 21.12.2023, C-66/22 (Infraestruturas) — Auslegung der „schwerwiegenden Verfehlung im beruflichen Bereich"
 - EuGH 12.05.2022, C-66/20 — Selbstreinigung Art. 57 Abs. 6 RL 2014/24
 - EuGH 27.10.2016, C-292/15 — Transparenz auch unterhalb der Schwellenwerte bei grenzueberschreitendem Interesse
 
-Vor Ausgabe konkrete Aktenzeichen ueber curia.europa.eu (EuGH) oder olg-... bzw. openjur.de verifizieren.
+Vor Ausgabe konkrete Aktenzeichen über curia.europa.eu (EuGH) oder olg-... bzw. openjur.de verifizieren.
 
 ### Output-Template Begruendung Eignung
 **Adressat:** Vergabestelle oder Vergabekammer — Tonfall: sachlich-juristisch
@@ -316,8 +316,8 @@ Vergabeverfahren [BEZEICHNUNG]
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

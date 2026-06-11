@@ -3,7 +3,7 @@ name: losbildung-mittelstandsfoerderung
 description: "Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden: Bieter..."
 ---
 
-# Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden
+# Losbildung und Mittelstandsfoerderung im Vergabeverfahren prüfen und angreifen: Auftraggeber muss Gesamtvergabe begruenden
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende für Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
+**Fokus:** Losbildung und Mittelstandsfoerderung im Vergabeverfahren prüfen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende für Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
 
 ### Losbildung und Mittelstandsfoerderung
 
@@ -36,15 +36,15 @@ Trennung nach Gewerken (Rohbau, Tiefbau, Elektro, IT-Beschaffung vs. IT-Dienstle
 Mengenmäßige Teilung (z. B. Buerobedarf nach Regionen, Standorten).
 
 ### Begruendung Gesamtvergabe
-Zulaessig nur, wenn wirtschaftliche oder technische Gruende dies erfordern. Begruendung im Vergabevermerk:
+Zulässig nur, wenn wirtschaftliche oder technische Gruende dies erfordern. Begruendung im Vergabevermerk:
 - Wirtschaftlich: gravierender Kostennachteil bei Losbildung (Skalen-, Schnittstellen-, Logistikkosten).
 - Technisch: Schnittstellenrisiken, Haftungsabgrenzung, Inkompatibilitaet.
 - Sicherheit: einheitliche Verantwortung sicherheitsrelevant.
 
 ## Mittelstand und Bieterstruktur
 - Eignungsleihe § 47 VgV: Bieter kann sich auf Kapazitaeten Dritter berufen.
-- Bietergemeinschaften: kartellrechtlich grundsaetzlich zulaessig (BGH KZR 25/14), wenn Bieter einzeln nicht oder schwerer leistungsfaehig.
-- Subunternehmer: Auftraggeber kann Eignung der Subunternehmer pruefen (§ 36 VgV).
+- Bietergemeinschaften: kartellrechtlich grundsätzlich zulässig (BGH KZR 25/14), wenn Bieter einzeln nicht oder schwerer leistungsfaehig.
+- Subunternehmer: Auftraggeber kann Eignung der Subunternehmer prüfen (§ 36 VgV).
 
 ## Ruegestrategie für Mittelstandsbieter
 - Ruege § 160 Abs. 3 GWB innerhalb 10 Tagen ab Kenntnis.
@@ -53,25 +53,25 @@ Zulaessig nur, wenn wirtschaftliche oder technische Gruende dies erfordern. Begr
 
 ## Vergabevermerk-Bausteine für Auftraggeber
 1. Identifizierte Fach- und Teillose (Tabelle).
-2. Pruefung wirtschaftlicher und technischer Gruende.
+2. Prüfung wirtschaftlicher und technischer Gruende.
 3. Gegenueberstellung Kosten Losvergabe vs. Gesamtvergabe.
 4. Fazit Losentscheidung mit Begruendung.
 
 ## Typische Fehler
-- Gesamtvergabe ohne dokumentierte Pruefung.
+- Gesamtvergabe ohne dokumentierte Prüfung.
 - Wirtschaftliche Gruende werden nur pauschal genannt.
 - Fachlose ohne Beruecksichtigung von Schnittstellenpflichten beim Auftraggeber.
 - Eignungsanforderungen pro Los sind nicht losbezogen, sondern für Gesamtleistung formuliert.
 
 ## Quellenregel
-OLG-Linie zu § 97 Abs. 4 GWB (OLG Duesseldorf, OLG Muenchen) vor Ausgabe ueber dejure.org verifizieren.
+OLG-Linie zu § 97 Abs. 4 GWB (OLG Duesseldorf, OLG Muenchen) vor Ausgabe über dejure.org verifizieren.
 
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

@@ -30,7 +30,7 @@ description: "Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Fae
 
 ## Pruefraster
 
-1. Hoheitliche Massnahme im Allgemeininteresse?
+1. Hoheitliche Maßnahme im Allgemeininteresse?
 2. Sonderbelastung des Einzelnen?
 3. Spezialgesetz greift (IfSG, POG)?
 4. Allgemeiner Aufopferungsanspruch subsidiaer?

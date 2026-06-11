@@ -11,7 +11,7 @@ Klagen gegen die öffentliche Hand sind nicht generell Verwaltungsgerichtssache.
 
 | Anspruchsnatur | Rechtsweg | Norm |
 |---|---|---|
-| oeffentlich-rechtlich z B Abgabenrueckforderung | Verwaltungsgericht | VwGO 40 Abs. 1 |
+| öffentlich-rechtlich z B Abgabenrueckforderung | Verwaltungsgericht | VwGO 40 Abs. 1 |
 | fiskalisches Handeln z B Lieferung an Stadtverwaltung | ordentliches Gericht Zivilkammer | GVG 13 |
 | Amtshaftung BGB 839 | ordentliches Gericht | GVG 13 ZPO |
 | Sozialleistungen | Sozialgericht | SGG 51 |
@@ -32,7 +32,7 @@ Behörden vertreten sich oft selbst durch eigenes Justitiariat. Zustellung an An
 ## Norm-Pinpoints
 
 - GVG 13 ordentlicher Rechtsweg
-- VwGO 40 oeffentlich-rechtliche Streitigkeit
+- VwGO 40 öffentlich-rechtliche Streitigkeit
 - BGB 839 Amtshaftung
 - SGG 51 Sozialgerichte
 

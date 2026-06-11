@@ -26,12 +26,12 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
 
 - Zwei oder mehr Akteure verarbeiten dieselben personenbezogenen Daten und es ist unklar, welches Vertragsmodell zu schliessen ist.
 - Aufsichtsbehoerde fragt nach Rollenzuordnung im Verarbeitungsverzeichnis (Art. 30 DSGVO).
-- Mandant geht davon aus, "wir sind nur Auftragsverarbeiter" – Pruefung, ob nicht in Wahrheit Art. 26 DSGVO einschlaegig ist.
+- Mandant geht davon aus, "wir sind nur Auftragsverarbeiter" – Prüfung, ob nicht in Wahrheit Art. 26 DSGVO einschlaegig ist.
 - Vor Abschluss eines Joint-Controller-Agreement oder AVV soll die Einstufung gesichert sein.
 
 ## Rechtlicher Rahmen
 
-- Art. 4 Nr. 7 DSGVO: Verantwortlicher entscheidet allein oder gemeinsam mit anderen ueber Zwecke und Mittel.
+- Art. 4 Nr. 7 DSGVO: Verantwortlicher entscheidet allein oder gemeinsam mit anderen über Zwecke und Mittel.
 - Art. 26 DSGVO: Gemeinsam Verantwortliche.
 - Art. 28 DSGVO: Auftragsverarbeiter.
 - Art. 4 Nr. 9 DSGVO: Empfaenger.
@@ -52,7 +52,7 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
  | Weisungsgebundenheit? | nicht relevant | nein, kollektive Entscheidung | ja, voll |
 
 2. **EuGH-Indizienreihe.**
- - Wer entscheidet ueber Zweck der Verarbeitung? (Kerntest)
+ - Wer entscheidet über Zweck der Verarbeitung? (Kerntest)
  - Wer bestimmt wesentliche Mittel (z. B. Tool-Auswahl, Speicherort, Loeschfristen)?
  - Wer profitiert wirtschaftlich von der Verarbeitung?
  - Besteht eine wechselseitige Abhaengigkeit?
@@ -71,8 +71,8 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
 
 5. **Pruefraster (Stufenmodell).**
  - Stufe 1: Liegt eine Verarbeitung im Sinne von Art. 4 Nr. 2 DSGVO vor? (immer ja)
- - Stufe 2: Wer entscheidet ueber Zweck? Wenn nur einer: weiter Stufe 4. Wenn mehrere: weiter Stufe 3.
- - Stufe 3: Liegt gemeinsame Entscheidung auch ueber wesentliche Mittel oder gemeinsamer Nutzen vor? Wenn ja: Art. 26 DSGVO. Wenn nein: getrennte Verantwortliche.
+ - Stufe 2: Wer entscheidet über Zweck? Wenn nur einer: weiter Stufe 4. Wenn mehrere: weiter Stufe 3.
+ - Stufe 3: Liegt gemeinsame Entscheidung auch über wesentliche Mittel oder gemeinsamer Nutzen vor? Wenn ja: Art. 26 DSGVO. Wenn nein: getrennte Verantwortliche.
  - Stufe 4: Ist der ausfuehrende Akteur weisungsgebunden und ohne eigenen Zweck? Wenn ja: Art. 28 DSGVO. Wenn nein: getrennte Verantwortliche oder Funktionsuebertragung.
 
 ## Mustertext / Template
@@ -124,16 +124,16 @@ Datum, Unterschrift Datenschutzbeauftragter
 
 - AVV abgeschlossen, obwohl Joint Control vorliegt (Fanpage / Like-Button / Webtracking).
 - Joint-Agreement abgeschlossen, obwohl getrennte Verantwortliche vorliegen (typischer Fall: Inkasso-Dienstleister).
-- "Standardloesung AVV" ohne Pruefung.
+- "Standardloesung AVV" ohne Prüfung.
 - Berufsgeheimnistraeger als reine Auftragsverarbeiter behandelt (Funktionsuebertragung uebersehen).
 - Tracking-Anbieter als Auftragsverarbeiter behandelt, obwohl er Daten für eigene Zwecke nutzt.
 
 ## Quellen Stand 06/2026
 
 - Art. 4 Nr. 7, Art. 26, Art. 28 DSGVO.
-- EDSA-Leitlinien 07/2020 (Final 07.07.2021), abrufbar ueber edpb.europa.eu.
+- EDSA-Leitlinien 07/2020 (Final 07.07.2021), abrufbar über edpb.europa.eu.
 - EuGH C-25/17 (Zeugen Jehovas) – verifiziert.
 - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert.
 - EuGH C-40/17 (Fashion ID) – verifiziert.
-- Volltexte ueber curia.europa.eu pruefen.
+- Volltexte über curia.europa.eu prüfen.
 - Zitierweise: `../../../references/zitierweise.md`.

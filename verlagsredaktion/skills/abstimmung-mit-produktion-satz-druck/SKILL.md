@@ -19,7 +19,7 @@ Nach der inhaltlichen und sprachlichen Freigabe geht das Manuskript in die Produ
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klaeren Sie:
+Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klären Sie:
 
 1. Inhouse-Satz oder externer Setzer?
 2. Welches Druckverfahren (Offset, Digital, Print-on-Demand)?
@@ -42,11 +42,11 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
  - Tabellen ggf. separat als .xlsx.
  - Style-Anweisungen / Vorlage.
  - Inhaltsverzeichnis / Stichwortverzeichnis.
-2. **Erste Satzfahne pruefen** mit `satzfahne-korrekturlauf`.
+2. **Erste Satzfahne prüfen** mit `satzfahne-korrekturlauf`.
 3. **Korrekturen markieren** im PDF (Adobe Acrobat-Kommentare oder ausgedruckt mit Korrekturzeichen).
-4. **Zweite Fahne** auf Vollstaendigkeit der Korrekturen pruefen.
+4. **Zweite Fahne** auf Vollstaendigkeit der Korrekturen prüfen.
 5. **Druckfreigabe** schriftlich, mit Versionsstand und Datum.
-6. **Druckueberwachung.** Stichprobe aus Druck, Termin pruefen.
+6. **Druckueberwachung.** Stichprobe aus Druck, Termin prüfen.
 7. **Auslieferung.** Verlag, Buchhandel, Online-Lizenz aktivieren.
 8. **Reklamationen.** Defekte, Druckfehler, Setzfehler dokumentieren und an Setzer / Drucker melden.
 
@@ -64,7 +64,7 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 - "Druckfreigabe ist eine Unterschrift, nicht ein Mailsatz. Wird im Streitfall gebraucht."
 - Bilder im Manuskript eingebunden sind für Setzer minderwertig - immer separat in 300+ dpi.
 - Tabellen mit komplexer Struktur als .xlsx zusaetzlich liefern, nicht nur als Word-Tabelle.
-- Schriftrechte pruefen - bei kommerziellen Druckereien Standardschriften verfuegbar, bei Sonderschriften Lizenznachweis.
+- Schriftrechte prüfen - bei kommerziellen Druckereien Standardschriften verfuegbar, bei Sonderschriften Lizenznachweis.
 - Bei Loseblattwerk: Ergaenzungslieferungen brauchen ueberlappende Termine und klare Versionskontrolle.
 
 ## Mustertexte / Vorlagen
@@ -101,7 +101,7 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 
 **Anschreiben Setzer:**
 
-> Sehr geehrte Frau Setzerin, wir uebergeben hiermit das freigegebene Manuskript Mueller "Praxiskommentar Plattformhaftung" zur Satzbearbeitung (siehe Anlagen). Layoutvorgaben gemaess Verlagsstyleguide, Druckschrift Stempel Garamond mit Hauslizenz. Erste Satzfahne erwarten wir bis 30.07.2026. Bei Rueckfragen ...
+> Sehr geehrte Frau Setzerin, wir uebergeben hiermit das freigegebene Manuskript Mueller "Praxiskommentar Plattformhaftung" zur Satzbearbeitung (siehe Anlagen). Layoutvorgaben gemäß Verlagsstyleguide, Druckschrift Stempel Garamond mit Hauslizenz. Erste Satzfahne erwarten wir bis 30.07.2026. Bei Rueckfragen ...
 
 ## Typische Fehler / Pitfalls
 

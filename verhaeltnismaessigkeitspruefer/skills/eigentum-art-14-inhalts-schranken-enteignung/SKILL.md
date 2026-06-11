@@ -18,7 +18,7 @@ description: "Art. 14 GG verhaeltnismaessig pruefen: Inhalts- und Schrankenbesti
 ## Entscheidungsanker
 
 - BVerfG, Urteil vom 06.12.2016, 1 BvR 2821/11, 1 BvR 321/12, 1 BvR 1456/12, BVerfGE 143, 246 (Atomausstieg): Inhalts- und Schrankenbestimmung kann weit reichen, muss aber Belastungen verhaeltnismaessig verteilen und gegebenenfalls Ausgleich vorsehen.
-- BVerfG, Beschluss vom 09.07.2020, 1 BvR 2067/17: Verwendungsverbote koennen Inhalts- und Schrankenbestimmungen sein; Abgrenzung zur Enteignung nicht nur nach wirtschaftlicher Schwere.
+- BVerfG, Beschluss vom 09.07.2020, 1 BvR 2067/17: Verwendungsverbote können Inhalts- und Schrankenbestimmungen sein; Abgrenzung zur Enteignung nicht nur nach wirtschaftlicher Schwere.
 
 ## Frei pruefbare Quellen
 
@@ -31,10 +31,10 @@ description: "Art. 14 GG verhaeltnismaessig pruefen: Inhalts- und Schrankenbesti
 Beginne nicht mit "Enteignung", sondern mit der Eigentumsstruktur:
 
 1. Was ist Eigentum im Schutzbereich?
-2. Wird eine konkrete Rechtsposition entzogen oder nur ihre Nutzung fuer die Zukunft geregelt?
+2. Wird eine konkrete Rechtsposition entzogen oder nur ihre Nutzung für die Zukunft geregelt?
 3. Ist die Belastung allgemein-abstrakt oder individualisiert zugunsten eines bestimmten Vorhabens?
 4. Gibt es Uebergangs-, Ausgleichs- oder Haertefallregeln?
-5. Wird eine kleine Gruppe fuer Gemeinwohlziele uebermaessig belastet?
+5. Wird eine kleine Gruppe für Gemeinwohlziele uebermaessig belastet?
 
 ## Vier Stufen
 
@@ -47,10 +47,10 @@ Beginne nicht mit "Enteignung", sondern mit der Eigentumsstruktur:
 
 ## Ausgleich als Verhaeltnismaessigkeitsventil
 
-Pruefe Ausgleich nicht erst am Ende. Bei schweren, ungleich verteilten Inhalts- und Schrankenbestimmungen kann ein finanzieller oder uebergangsrechtlicher Ausgleich die Verhaeltnismaessigkeit retten. Fehlt er, ist die Massnahme nicht automatisch Enteignung, aber moeglicherweise unverhaeltnismaessig.
+Prüfe Ausgleich nicht erst am Ende. Bei schweren, ungleich verteilten Inhalts- und Schrankenbestimmungen kann ein finanzieller oder uebergangsrechtlicher Ausgleich die Verhältnismäßigkeit retten. Fehlt er, ist die Maßnahme nicht automatisch Enteignung, aber moeglicherweise unverhaeltnismaessig.
 
 ## Output
 
 - Art.-14-Triage: Schutzbereich, Eingriffstyp, Intensitaet, Ausgleich.
 - Tabelle "Regulierung / Enteignung / ausgleichspflichtige Inhaltsbestimmung".
-- Entwurf fuer Normenkontrolle oder Schriftsatzabschnitt zur Eigentumsproportionalitaet.
+- Entwurf für Normenkontrolle oder Schriftsatzabschnitt zur Eigentumsproportionalitaet.

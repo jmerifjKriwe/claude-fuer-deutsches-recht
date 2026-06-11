@@ -36,12 +36,12 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 - Aenderungsprotokoll, in Kraft 23.12.2021, anwendbar ab 01.01.2022 (BGBl. 2021 II S. 483).
 - **OECD-MA 1992/2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: Deutschland und Daenemark haben das MLI unterzeichnet und ratifiziert; DBA-DE-DK gilt MLI-modifiziert. Aktuellen Synthesetext im BMF-Verzeichnis pruefen.
+- **MLI**: Deutschland und Daenemark haben das MLI unterzeichnet und ratifiziert; DBA-DE-DK gilt MLI-modifiziert. Aktuellen Synthesetext im BMF-Verzeichnis prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 
 - Aktuelle BFH-Rechtsprechung zum DBA-Daenemark (Schifffahrt, Folkepension) in freier amtlicher Quelle abrufen.
-- Aktuelle BMF-Schreiben zur Sozialversicherung Daenemark im BMF-Schreiben-Verzeichnis pruefen.
+- Aktuelle BMF-Schreiben zur Sozialversicherung Daenemark im BMF-Schreiben-Verzeichnis prüfen.
 
 ## Land-spezifisches
 
@@ -66,15 +66,15 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 - Anrechnung passive Einkuenfte.
 
 ### Besonderheiten
-- **Sozialversicherungsleistungen** Folkepension: in Daenemark als öffentliche Pension klassifiziert; Pensions-Klausel im DBA-DK gesondert — konkreten DBA-Text pruefen.
+- **Sozialversicherungsleistungen** Folkepension: in Daenemark als öffentliche Pension klassifiziert; Pensions-Klausel im DBA-DK gesondert — konkreten DBA-Text prüfen.
 - **ATP**: separate Behandlung.
 - **Grenzpendler**: ohne klassische Grenzgaengerregelung gelten 183-Tage-Regelung und Methodenartikel.
-- **Schiffsoffiziere** unter daenischer Flagge: Art. 8/15 DBA — Wohnsitzstaat-Besteuerung haeufig nicht durchsetzbar; konkrete Klausel im DBA-Text pruefen.
+- **Schiffsoffiziere** unter daenischer Flagge: Art. 8/15 DBA — Wohnsitzstaat-Besteuerung haeufig nicht durchsetzbar; konkrete Klausel im DBA-Text prüfen.
 
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 ### Phase 3 — Einkunftsart einordnen
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
@@ -83,22 +83,22 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 
 ## Strategie und Praxis-Tipps
 
-- Folkepension wird oft falsch eingeordnet — sie ist staatliche Sozialleistung, das DBA enthaelt eine Spezialregelung — DBA-Text konkret pruefen.
+- Folkepension wird oft falsch eingeordnet — sie ist staatliche Sozialleistung, das DBA enthaelt eine Spezialregelung — DBA-Text konkret prüfen.
 - ATP und betriebliche Pensionen separat klassifizieren — Wohnsitzstaat vs. Kassenstaat unterschiedlich.
 - Schiffsoffiziere unter daenischer Flagge: Art. 8/15 DBA — konkrete Klausel aus dem DBA-Text entnehmen.
 - EU-Mutter-Tochter-RL geht regelmaessig vor DBA — 0 Prozent Quellensteuer bei Schachtel.
-- Kein klassischer Grenzgaengerstatus — Wohnsitz/Taetigkeit muessen 183 Tage-Regel oder Methodenartikel nutzen.
+- Kein klassischer Grenzgaengerstatus — Wohnsitz/Taetigkeit müssen 183 Tage-Regel oder Methodenartikel nutzen.
 
 ## Praktiker-Tipps der alten Hasen
 
 ### Erstattungsverfahren daenische Quellensteuer (Udbytteskat)
 
-- **Zuständigkeit**: daenische Erstattung durch **Skattestyrelsen** (SKAT), Customer Centre Foreign Investors in Kopenhagen. Aktuelle Zuständigkeit auf **skat.dk** pruefen.
+- **Zuständigkeit**: daenische Erstattung durch **Skattestyrelsen** (SKAT), Customer Centre Foreign Investors in Kopenhagen. Aktuelle Zuständigkeit auf **skat.dk** prüfen.
 - **Antragsformulare**: daenische Formulare zur Rueckerstattung von Udbytteskat — Bezeichnungen vom Anwender mit aktuellem Stand auf skat.dk zu verifizieren. SKAT hat das Erstattungsverfahren nach den "Cum-Ex"-Skandalen 2015 deutlich verschaerft.
 - **Frist**: nach daenischem Steuerrecht regelmaessig **drei Jahre** ab Faelligkeit — knappe Frist.
 - **Bearbeitungsdauer SKAT**: nach den Cum-Ex-Skandalen oft **24-60 Monate** und langwierige Plausibilitaetspruefungen. Bei substanziellen Erstattungsbetraegen daenischen Berater einbinden.
 - **Online-Portal**: **skat.dk** zentral; "TastSelv" Steuer-Konto. Englische Sprachversion verfuegbar.
-- **Sprache**: DA/EN/DE moeglich; offizielle Bescheide in DA — bei strittigen Faellen Uebersetzung pruefen.
+- **Sprache**: DA/EN/DE möglich; offizielle Bescheide in DA — bei strittigen Faellen Uebersetzung prüfen.
 
 ### Lokaler Steuerberater-Kontakt
 
@@ -113,16 +113,16 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Schachteldividende DK-A/S an DE-Mutter ueber DBA Art. 10 (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung via SKAT | 0 Prozent via Freistellung vor Ausschuettung | § 43b EStG vorzugswuerdig — Antragsweg an daenische Quelle vor Ausschuettung |
-| Schiffsoffizier daenische Flagge Heimathafen DE-Wohnsitz | Schifffahrt Art. 8: tatsaechliche Geschaeftsleitung Reederei (DK) — DK-Besteuerung | bei Wohnsitz DE Versuch der DE-Besteuerung nach Art. 15 | DBA-Text Art. 8/15 strikt pruefen; haeufig DK-Besteuerung durchsetzbar |
+| Schachteldividende DK-A/S an DE-Mutter über DBA Art. 10 (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung via SKAT | 0 Prozent via Freistellung vor Ausschuettung | § 43b EStG vorzugswuerdig — Antragsweg an daenische Quelle vor Ausschuettung |
+| Schiffsoffizier daenische Flagge Heimathafen DE-Wohnsitz | Schifffahrt Art. 8: tatsaechliche Geschaeftsleitung Reederei (DK) — DK-Besteuerung | bei Wohnsitz DE Versuch der DE-Besteuerung nach Art. 15 | DBA-Text Art. 8/15 strikt prüfen; haeufig DK-Besteuerung durchsetzbar |
 | Pendler Schleswig-Holstein nach DK | keine Grenzgaengerregelung — 183-Tage-Regel | bei laengerem DK-Aufenthalt: DK-Steueranspruch | klassische 183-Tage-Doku |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
-- **Folkepension Klassifikation**: daenische gesetzliche Grundrente — DBA enthaelt **Spezialklausel**, die nicht standardmaessig dem Wohnsitzstaat zuweist. Genaue Klausel im DBA-Text Art. 18 pruefen.
+- **Folkepension Klassifikation**: daenische gesetzliche Grundrente — DBA enthaelt **Spezialklausel**, die nicht standardmaessig dem Wohnsitzstaat zuweist. Genaue Klausel im DBA-Text Art. 18 prüfen.
 - **ATP-Rente**: separate Arbeitsmarkt-Tillaegspension — eigene Klassifikation neben Folkepension und betrieblicher Pension.
-- **Cum-Ex-Pruefungsschaerfe**: SKAT prueft bei daenischen Dividenden-Erstattungen sehr genau. Bei substanziellen Antraegen vollstaendige Dokumentation, Original-Aktienurkunden, Verwahrkette zwingend.
-- **Schiff unter daenischer Flagge mit deutschem Heimathafen**: Sondersystem **DIS (Dansk Internationalt Skibsregister)** — Schiffsoffiziere oft volle DK-Steuerbefreiung; DBA-Pruefung kompliziert.
+- **Cum-Ex-Pruefungsschaerfe**: SKAT prüft bei daenischen Dividenden-Erstattungen sehr genau. Bei substanziellen Antraegen vollstaendige Dokumentation, Original-Aktienurkunden, Verwahrkette zwingend.
+- **Schiff unter daenischer Flagge mit deutschem Heimathafen**: Sondersystem **DIS (Dansk Internationalt Skibsregister)** — Schiffsoffiziere oft volle DK-Steuerbefreiung; DBA-Prüfung kompliziert.
 - **EU-Cross-Border-Pendler** Flensburg-Padborg: keine klassische Grenzgaengerregelung — 183-Tage-Regel und Methodenartikel anwenden.
 
 ## Berechnungsbeispiel — Schachteldividende DK-A/S an DE-Holding
@@ -139,16 +139,16 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 
 > Mandant Wohnsitz Hamburg, Folkepension 18.000 EUR p.a. aus daenischem ATP/Folkepension-System.
 >
-> Schritt 1: DBA-Text Art. 18 DBA-Daenemark pruefen — Klassifikation Sozialleistung mit Spezialklausel ggf. abweichend von Wohnsitz-Standard.
+> Schritt 1: DBA-Text Art. 18 DBA-Daenemark prüfen — Klassifikation Sozialleistung mit Spezialklausel ggf. abweichend von Wohnsitz-Standard.
 >
 > Schritt 2: Bei Wohnsitz-Zuweisung: DE-Besteuerung mit § 22 EStG.
 >
 > Schritt 3: Bei Kassenstaat-Zuweisung: DK-Besteuerung primaer, in DE Anrechnung nach § 34c EStG bzw. Freistellung mit Progression nach Art. 24.
 >
-> Anmerkung: konkrete DBA-Klausel und aktuelle Verstaendigungsvereinbarung im BMF-Verzeichnis pruefen.
+> Anmerkung: konkrete DBA-Klausel und aktuelle Verstaendigungsvereinbarung im BMF-Verzeichnis prüfen.
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Daenemark 22.11.1995, in Kraft 25.12.1996 (BGBl. 1996 II S. 2565). Aenderungsprotokoll: BGBl. 2021 II S. 483, in Kraft 23.12.2021, anwendbar ab 01.01.2022. MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
+Stand: 05/2026. DBA-Daenemark 22.11.1995, in Kraft 25.12.1996 (BGBl. 1996 II S. 2565). Aenderungsprotokoll: BGBl. 2021 II S. 483, in Kraft 23.12.2021, anwendbar ab 01.01.2022. MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

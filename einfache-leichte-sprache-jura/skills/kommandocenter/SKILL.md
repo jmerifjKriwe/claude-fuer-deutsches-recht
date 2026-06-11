@@ -18,7 +18,7 @@ Einfache Sprache oder Leichte Sprache.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 11 BGG — Barrierefreiheit: Behörden muessen Informationen in Leichter Sprache oder Einfacher Sprache bereitstellen
+- § 11 BGG — Barrierefreiheit: Behörden müssen Informationen in Leichter Sprache oder Einfacher Sprache bereitstellen
 - BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung (gilt für öffentliche Stellen)
 - § 43 SGB I — Beratungspflicht sozialrechtlich in verstaendlicher Sprache
 - § 58 VwGO — Rechtsbehelfsbelehrung: Klarheit als Wirksamkeitsvoraussetzung

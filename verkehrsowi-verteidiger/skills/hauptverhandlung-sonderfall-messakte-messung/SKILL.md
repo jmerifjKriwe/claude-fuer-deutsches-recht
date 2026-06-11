@@ -48,7 +48,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Mehrere OWi in einer Handlung -> Tateinheit, Strafmass einheitlich.
  - Mehrere getrennte Verstoesse -> Tatmehrheit, Strafe je Verstoss; ggf. Gesamtgeldbuesse.
 - **Sonderfall 5: Auslaendischer Betroffener:**
- - Halterauskunft ueber EU-Mitgliedstaat moeglich; RB 2005/214/JI Vollstreckung Geldsanktionen.
+ - Halterauskunft über EU-Mitgliedstaat möglich; RB 2005/214/JI Vollstreckung Geldsanktionen.
  - Dolmetscher § 185 GVG erforderlich.
  - Verkuendung schriftlich + Uebersetzung beruecksichtigen.
 - **Sonderfall 6: Mehrere Betroffene (Halter + Fahrer):**
@@ -58,7 +58,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Aussetzung Vollziehung Fahrverbot:** Antrag bei AG vor Rechtskraft.
  - **Vorlaeufige Entziehung Fuehrerschein § 111a StPO** im Strafverfahren: Beschwerde § 304 StPO.
 - **Wiedereinsetzung § 52 OWiG:** 1 Woche ab Wegfall des Hindernisses.
-- **Praxis-Tipp:** Bei drohendem Fahrverbot Berufskraftfahrer regelmaessig persönliches Erscheinen; persönlicher Eindruck Betroffener oft entscheidend für Haerte-Pruefung.
+- **Praxis-Tipp:** Bei drohendem Fahrverbot Berufskraftfahrer regelmaessig persönliches Erscheinen; persönlicher Eindruck Betroffener oft entscheidend für Haerte-Prüfung.
 
 ## Qualitätsanker: Messdaten, Messakte und faires Verfahren
 

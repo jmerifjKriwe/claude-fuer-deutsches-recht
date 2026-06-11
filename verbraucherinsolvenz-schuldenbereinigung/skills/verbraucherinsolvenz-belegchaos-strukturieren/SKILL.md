@@ -33,7 +33,7 @@ description: "Schuldnerberatungsstelle: Strukturierung des Belegchaos: Skill lie
 
 ### Schritt 1: Sortieren in Kategorien
 - Forderungen (Mahnungen, Rechnungen, Vollstreckungsbescheide).
-- Vertraege (Mietvertrag, Kreditvertrag, Telefonvertrag).
+- Verträge (Mietvertrag, Kreditvertrag, Telefonvertrag).
 - Behörden (Finanzamt, Krankenkasse, Sozialamt).
 - Konten (Bankauszuege, Sparbuecher).
 - Einkommen (Gehaltsabrechnungen, Sozialleistungen).
@@ -50,12 +50,12 @@ description: "Schuldnerberatungsstelle: Strukturierung des Belegchaos: Skill lie
 - Bankkonten-Abfrage.
 - Anfrage an bekannte Glaeubiger nach aktuellem Forderungsstand.
 
-### Schritt 4: Forderungen pruefen
+### Schritt 4: Forderungen prüfen
 - Verjährung (§§ 195, 199 BGB; vollstreckbare Titel 30 Jahre § 197 BGB).
 - Bestreitbare Forderungen.
 - Doppelte Forderungen.
 
-### Schritt 5: Vermoegen erfassen
+### Schritt 5: Vermögen erfassen
 - Bankkonten, Sparbuecher, Lebensversicherungen, Bausparvertraege.
 - Hausrat, Pkw, ggf. Immobilien.
 - Pfaendungsfreies Einkommen.

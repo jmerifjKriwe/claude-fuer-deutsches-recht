@@ -8,7 +8,7 @@ description: "Substantiierter Schriftsatzkern für Strafverfahren Einspruch und 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Plaedoyer Vorbereitung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Strafrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Plaedoyer Vorbereitung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Strafrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -44,7 +44,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 - Beschuldigte/Angeklagte/Verurteilte (Name, Geburtsdatum, ladungsfaehige Anschrift) - exakte Schreibweise wie in Strafbefehl/Anklage/Urteil.
 - Verteidigerin/Verteidiger mit Beiordnung-/Wahlvermerk (Pflicht-/Wahlverteidigung).
-- Gericht/Staatsanwaltschaft (Zuständigkeit pruefen; bei Revision zuständiges Revisionsgericht).
+- Gericht/Staatsanwaltschaft (Zuständigkeit prüfen; bei Revision zuständiges Revisionsgericht).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Bezeichnung der angefochtenen Entscheidung mit Datum.
 
@@ -73,7 +73,7 @@ Strafrechtlicher Pruefungsaufbau:
 
 1. **Tatbestand** des StGB/Nebenstrafrechts (BtMG, AO §§ 369 ff., StVG, WaffG) nennen.
 2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal gegen den eigenen Tatsachenvortrag spiegeln (objektive und subjektive Seite; Vorsatz/Fahrlaessigkeit).
-3. **Rechtfertigungsgruende** (§§ 32, 34 StGB) und **Entschuldigungsgruende** (§§ 33, 35 StGB) pruefen.
+3. **Rechtfertigungsgruende** (§§ 32, 34 StGB) und **Entschuldigungsgruende** (§§ 33, 35 StGB) prüfen.
 4. **Verfahrenshindernisse:** Verjährung (§ 78 StGB), Strafklageverbrauch (Art. 103 III GG, ne bis in idem), fehlender Strafantrag (§ 77 StGB), Immunitaet, Verfolgungsverjaehrung im Steuerstrafrecht (§ 376 AO).
 5. **Beweiswuerdigung-Kritik:** Indizienkette, Aussage-gegen-Aussage-Konstellation, Glaubwuerdigkeitsanalyse.
 6. **Rechtsprechungs-Verweise:** BGH-Strafsenate, BVerfG (Art. 103 GG, Schuldprinzip), EGMR (Art. 6 EMRK).
@@ -113,7 +113,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 5. Beweisantraege bestimmt formuliert (Tatsache + Mittel + Konnexitaet)?
 6. Anlagenverzeichnis vollstaendig?
 7. beA-Konformitaet (PDF/A, ERVV, qeS bzw. sicherer Uebermittlungsweg)?
-8. Vier-Augen-Pruefung durch Sozius oder Senior-Verteidigerin?
+8. Vier-Augen-Prüfung durch Sozius oder Senior-Verteidigerin?
 
 ## Rechtsprechungs-Werkzeugkasten
 
@@ -136,13 +136,13 @@ Drei haeufige Tatbestaende und ihre Substantiierungs-Anforderungen:
 
 - Steueranspruch nach Steuergesetz: konkrete Steuerart, Veranlagungszeitraum, Bemessungsgrundlage.
 - Unrichtige/unvollstaendige Angabe oder pflichtwidriges Unterlassen: konkrete Erklaerung, konkretes Feld.
-- Steuerverkuerzung in bestimmter Hoehe: Differenz aus Steueranspruch und Festsetzung.
+- Steuerverkuerzung in bestimmter Höhe: Differenz aus Steueranspruch und Festsetzung.
 - Vorsatz: Wissen und Wollen, bedingter Vorsatz reicht (BGH-Linie).
 - Strafzumessung: § 370 Abs. 3 AO (besonders schwerer Fall), Selbstanzeige § 371 AO.
 
 ### Tatbestand 2: Betrug (§ 263 StGB)
 
-- Taeuschung ueber Tatsachen: konkrete Aeusserung oder konkludentes Verhalten.
+- Taeuschung über Tatsachen: konkrete Aeusserung oder konkludentes Verhalten.
 - Irrtum: Vorstellung des Getaeuschten; Indizien.
 - Vermoegensverfuegung: konkrete Verfuegung mit Schadensrelevanz.
 - Vermoegensschaden: Saldo; bei Eingehungsbetrug auch Gefaehrdungsschaden (BVerfG-Konkretisierungsgebot).
@@ -160,7 +160,7 @@ Drei haeufige Tatbestaende und ihre Substantiierungs-Anforderungen:
 ### Einspruch gegen Strafbefehl
 
 - "Es wird beantragt, den Strafbefehl des AG ... vom ... (Az. ...) aufzuheben und die Angeklagte/den Angeklagten freizusprechen."
-- Hilfsweise: "... das Verfahren gemaess § 153 Abs. 2 StPO (alternativ § 153a StPO mit konkreter Auflage) einzustellen."
+- Hilfsweise: "... das Verfahren gemäß § 153 Abs. 2 StPO (alternativ § 153a StPO mit konkreter Auflage) einzustellen."
 - Hilfsweise: "... auf eine Geldstrafe von hoechstens X Tagessaetzen zu erkennen."
 
 ### Revisionsbegruendung
@@ -184,7 +184,7 @@ Drei haeufige Tatbestaende und ihre Substantiierungs-Anforderungen:
 ### Zeugenbeweis
 
 - Form: "Beweis: Vernehmung der Zeugin Name, ladungsfaehige Anschrift, zum Beweis der Tatsache, dass ...; Konnexitaet: Die Zeugin war anwesend / hat das Gespraech selber gefuehrt / hat den Vorgang dokumentiert."
-- Keine Beweisermittlung ueber Zeugnis - Beweistatsache muss bestimmt sein.
+- Keine Beweisermittlung über Zeugnis - Beweistatsache muss bestimmt sein.
 
 ### Sachverstaendigenbeweis
 
@@ -212,9 +212,9 @@ Schon im Schriftsatz die Trennung sauber durchziehen:
 
 - PDF/A-2 oder PDF/A-3, mit eingebetteten Schriften.
 - Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
-- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand ueber beA (sicherer Uebermittlungsweg).
+- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
 - Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
-- Spezifika im Strafverfahren: Strafverteidiger reichen Schriftsaetze regelmaessig ueber beA an Strafkammer/Staatsanwaltschaft ein; Postausgang nach § 32a StPO.
+- Spezifika im Strafverfahren: Strafverteidiger reichen Schriftsaetze regelmaessig über beA an Strafkammer/Staatsanwaltschaft ein; Postausgang nach § 32a StPO.
 
 ## Schriftsatz-Stil
 

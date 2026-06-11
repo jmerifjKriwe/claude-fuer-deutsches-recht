@@ -23,17 +23,17 @@ description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche W
 
 ## Querverweis zum Asset
 
-Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.md`. Sie enthaelt ueber 60 Bausteine in der oben beschriebenen Struktur. Nutze diesen Skill als Bedienungsanleitung.
+Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.md`. Sie enthaelt über 60 Bausteine in der oben beschriebenen Struktur. Nutze diesen Skill als Bedienungsanleitung.
 
 ## Ablauf / Checkliste
 
 1. Bestimmen Sie den Klauselbereich.
 2. Schlagen Sie in `references/klausel-bibliothek.md` nach.
-3. Pruefen Sie das Verwendungsfeld (B2B / B2C / beides).
-4. Pruefen Sie die AGB-Ampel. Bei rot: AGB-Skill `agb-konforme-klauseln-305-310-bgb` konsultieren.
+3. Prüfen Sie das Verwendungsfeld (B2B / B2C / beides).
+4. Prüfen Sie die AGB-Ampel. Bei rot: AGB-Skill `agb-konforme-klauseln-305-310-bgb` konsultieren.
 5. Wählen Sie mild oder scharf je nach Verhandlungsstrategie.
 6. Passen Sie die Variablen an (Fristen, Betraege, Parteien).
-7. Pruefen Sie die Konsistenz mit anderen Klauseln (Definitionen, Querverweise).
+7. Prüfen Sie die Konsistenz mit anderen Klauseln (Definitionen, Querverweise).
 
 ## Beispielbausteine
 
@@ -43,11 +43,11 @@ Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.m
 
 > ### § X Verzug, Verzugszinsen
 >
-> (1) Befindet sich eine Partei mit der Erbringung einer Geldleistung in Verzug, schuldet sie der anderen Partei Verzugszinsen in Hoehe von neun Prozentpunkten ueber dem jeweiligen Basiszinssatz (§ 247 BGB) gemaess § 288 Abs. 2 BGB.
+> (1) Befindet sich eine Partei mit der Erbringung einer Geldleistung in Verzug, schuldet sie der anderen Partei Verzugszinsen in Höhe von neun Prozentpunkten über dem jeweiligen Basiszinssatz (§ 247 BGB) gemäß § 288 Abs. 2 BGB.
 >
 > (2) Die Geltendmachung eines weiteren Schadens bleibt vorbehalten. Auf den Verzugsschaden ist der Verzugszins anzurechnen.
 >
-> (3) Bei Zahlungsverzug schuldet die Schuldnerin zusaetzlich die Verzugspauschale gemaess § 288 Abs. 5 BGB in Hoehe von 40 EUR.
+> (3) Bei Zahlungsverzug schuldet die Schuldnerin zusaetzlich die Verzugspauschale gemäß § 288 Abs. 5 BGB in Höhe von 40 EUR.
 
 **Englisch:**
 
@@ -61,15 +61,15 @@ Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.m
 
 ### Haftungsbegrenzung B2B
 
-**Gelbe Ampel (in AGB pruefen), Standardformulierung:**
+**Gelbe Ampel (in AGB prüfen), Standardformulierung:**
 
 > ### § X Haftung
 >
 > (1) Die Parteien haften einander für Schaeden, die auf Vorsatz oder grober Fahrlaessigkeit beruhen, unbegrenzt.
 >
-> (2) Fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit haftet jede Partei unbegrenzt.
+> (2) Für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit haftet jede Partei unbegrenzt.
 >
-> (3) Im Uebrigen haftet jede Partei nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), die für die Erreichung des Vertragszwecks unverzichtbar sind und auf deren Einhaltung die andere Partei regelmaessig vertrauen darf; in diesem Fall ist die Haftung der Hoehe nach auf den vertragstypischen und vorhersehbaren Schaden begrenzt.
+> (3) Im Uebrigen haftet jede Partei nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), die für die Erreichung des Vertragszwecks unverzichtbar sind und auf deren Einhaltung die andere Partei regelmaessig vertrauen darf; in diesem Fall ist die Haftung der Höhe nach auf den vertragstypischen und vorhersehbaren Schaden begrenzt.
 >
 > (4) Die Haftung nach Abs. 3 ist je Schadensereignis auf einen Betrag von EUR [...] begrenzt; die Haftung im Vertragsjahr ist insgesamt auf einen Betrag von EUR [...] begrenzt.
 >
@@ -97,11 +97,11 @@ Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.m
 
 ### Vertragsstrafe B2B
 
-**Gelbe Ampel (AGB-Pruefung), mild:**
+**Gelbe Ampel (AGB-Prüfung), mild:**
 
 > ### § X Vertragsstrafe
 >
-> (1) Bei schuldhafter Verletzung der Geheimhaltungspflicht gemaess § Y schuldet die verletzende Partei der anderen Partei eine Vertragsstrafe in Hoehe von EUR 25.000 pro Einzelverstoss.
+> (1) Bei schuldhafter Verletzung der Geheimhaltungspflicht gemäß § Y schuldet die verletzende Partei der anderen Partei eine Vertragsstrafe in Höhe von EUR 25.000 pro Einzelverstoss.
 >
 > (2) Bei einem Dauerverstoss ist die Vertragsstrafe für jeden angefangenen Monat des Verstosses gesondert zu zahlen, hoechstens jedoch sechsmal je Pflichtverletzung.
 >
@@ -119,9 +119,9 @@ Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.m
 >
 > ### § 2 Geheimhaltungspflicht
 >
-> (1) Die Empfangende Partei verpflichtet sich, Vertrauliche Informationen vertraulich zu behandeln, nicht ohne vorherige schriftliche Zustimmung der Offenlegenden Partei an Dritte weiterzugeben und ausschliesslich für die in diesem Vertrag genannten Zwecke zu verwenden.
+> (1) Die Empfangende Partei verpflichtet sich, Vertrauliche Informationen vertraulich zu behandeln, nicht ohne vorherige schriftliche Zustimmung der Offenlegenden Partei an Dritte weiterzugeben und ausschließlich für die in diesem Vertrag genannten Zwecke zu verwenden.
 >
-> (2) Die Empfangende Partei darf Vertrauliche Informationen nur solchen Mitarbeitern, Beratern und Vertragspartnern zugaenglich machen, die für die Vertragsdurchfuehrung notwendigerweise davon Kenntnis haben muessen ("need to know") und die in vergleichbarer Weise zur Geheimhaltung verpflichtet sind.
+> (2) Die Empfangende Partei darf Vertrauliche Informationen nur solchen Mitarbeitern, Beratern und Vertragspartnern zugaenglich machen, die für die Vertragsdurchfuehrung notwendigerweise davon Kenntnis haben müssen ("need to know") und die in vergleichbarer Weise zur Geheimhaltung verpflichtet sind.
 >
 > ### § 3 Ausnahmen
 >
@@ -130,11 +130,11 @@ Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.m
 > a) der Empfangenden Partei zum Zeitpunkt der Offenlegung bereits rechtmaessig bekannt waren;
 > b) ohne Verschulden der Empfangenden Partei der Oeffentlichkeit zugaenglich werden;
 > c) von der Empfangenden Partei selbststaendig und ohne Verwendung Vertraulicher Informationen entwickelt wurden;
-> d) aufgrund einer gesetzlichen oder behoerdlichen Anordnung offenzulegen sind; in diesem Fall wird die Empfangende Partei die Offenlegende Partei vor Offenlegung unverzueglich benachrichtigen, soweit gesetzlich zulaessig.
+> d) aufgrund einer gesetzlichen oder behoerdlichen Anordnung offenzulegen sind; in diesem Fall wird die Empfangende Partei die Offenlegende Partei vor Offenlegung unverzueglich benachrichtigen, soweit gesetzlich zulässig.
 >
 > ### § 4 Dauer
 >
-> Die Geheimhaltungspflicht beginnt mit Unterzeichnung dieses Vertrages und besteht für eine Dauer von fuenf Jahren nach Beendigung des Hauptvertrages oder, falls kein Hauptvertrag geschlossen wird, fuenf Jahre ab Unterzeichnung dieses Vertrages. Fuer Geschäftsgeheimnisse im Sinne des § 2 GeschGehG gilt die Geheimhaltungspflicht zeitlich unbegrenzt fort, solange die gesetzlichen Voraussetzungen vorliegen.
+> Die Geheimhaltungspflicht beginnt mit Unterzeichnung dieses Vertrages und besteht für eine Dauer von fuenf Jahren nach Beendigung des Hauptvertrages oder, falls kein Hauptvertrag geschlossen wird, fuenf Jahre ab Unterzeichnung dieses Vertrages. Für Geschäftsgeheimnisse im Sinne des § 2 GeschGehG gilt die Geheimhaltungspflicht zeitlich unbegrenzt fort, solange die gesetzlichen Voraussetzungen vorliegen.
 
 ### Force Majeure
 
@@ -156,7 +156,7 @@ Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.m
 
 > ### § X Anwendbares Recht und Gerichtsstand
 >
-> (1) Dieser Vertrag unterliegt ausschliesslich dem Recht der Bundesrepublik Deutschland. Die Anwendung des UN-Kaufrechts (CISG) wird ausgeschlossen.
+> (1) Dieser Vertrag unterliegt ausschließlich dem Recht der Bundesrepublik Deutschland. Die Anwendung des UN-Kaufrechts (CISG) wird ausgeschlossen.
 >
 > (2) Ausschliesslicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Sitz der Auftraggeberin. Die Auftraggeberin ist berechtigt, die Auftragnehmerin auch an deren allgemeinem Gerichtsstand zu verklagen.
 
@@ -179,5 +179,5 @@ Die Bibliothek wird regelmaessig aktualisiert. Aenderungen in der Gesetzgebung (
 ## Quellen (Stand 05/2026)
 
 - §§ 247, 257, 288, 305-310, 339 BGB; §§ 2 GeschGehG; CISG.
-- Klauseln basieren auf gaengiger Vertragspraxis in deutschen Kanzleien und sind vom Nutzer fallbezogen zu pruefen.
+- Klauseln basieren auf gaengiger Vertragspraxis in deutschen Kanzleien und sind vom Nutzer fallbezogen zu prüfen.
 - Zitierweise: `references/zitierweise.md`.

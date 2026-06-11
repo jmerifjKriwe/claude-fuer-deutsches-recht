@@ -22,7 +22,7 @@ Skill für Mandanten, deren dienstliche Beurteilung ohne Einbindung eines fruehe
 - Verlauf des Beurteilungszeitraums (Verwendungen, Vorgesetzte)
 - Beurteilungsrichtlinie / VwV des Dienstherrn
 - Beurteilung selbst (Volltext mit Begruendungsteil)
-- Vermerk ueber Beurteilungsgespraech
+- Vermerk über Beurteilungsgespraech
 - Hinweise auf Heranziehung oder Nichtheranziehung von Drittbeitraegen
 
 ## 3. Ablauf / Checkliste
@@ -40,7 +40,7 @@ Skill für Mandanten, deren dienstliche Beurteilung ohne Einbindung eines fruehe
 ### c) Maengel und Heilung
 - Fehlender Beitrag macht die Beurteilung in der Regel rechtswidrig.
 - Heilung durch nachgeholten Beitrag und Neuerstellung oder ergaenzende Plausibilisierung der Beurteilung waehrend des laufenden Verfahrens nur unter engen Voraussetzungen — BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen.
-- Heilung nach Abschluss des Auswahlverfahrens grundsaetzlich nicht moeglich, wenn dadurch der Ausgang sich aendern koennte.
+- Heilung nach Abschluss des Auswahlverfahrens grundsätzlich nicht möglich, wenn dadurch der Ausgang sich ändern koennte.
 
 ### d) Geltendmachung im Eilverfahren
 - Mangel der Beurteilung ist Anordnungsanspruch im Konkurrenteneilantrag.
@@ -67,4 +67,4 @@ Skill für Mandanten, deren dienstliche Beurteilung ohne Einbindung eines fruehe
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandantin war im Beurteilungszeitraum 18 Monate abgeordnet. Der dortige Dienststellenleiter lieferte keinen Beitrag, der Heimatbeurteiler stuetzte sich allein auf eigene Eindruecke ueber den verbliebenen Zeitraum. Skill liefert Argument: Beurteilung ist rechtswidrig wegen fehlenden Beurteilungsbeitrags; Nachholung mit Neuerstellung erforderlich.
+Mandantin war im Beurteilungszeitraum 18 Monate abgeordnet. Der dortige Dienststellenleiter lieferte keinen Beitrag, der Heimatbeurteiler stuetzte sich allein auf eigene Eindruecke über den verbliebenen Zeitraum. Skill liefert Argument: Beurteilung ist rechtswidrig wegen fehlenden Beurteilungsbeitrags; Nachholung mit Neuerstellung erforderlich.

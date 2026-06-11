@@ -117,7 +117,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Was ist ein Share Deal vs. Asset Deal?
 - **Share Deal:** Kaeufer erwirbt Anteile der Gesellschaft. Alle Verbindlichkeiten gehen mit. Steuerneutral für Verkaefer (§ 8b KStG). GmbH: notariell (§ 15 GmbHG).
-- **Asset Deal:** Kaeufer erwirbt einzelne Wirtschaftsgueter. Verbindlichkeiten nur soweit vereinbart. § 613a BGB beachten. Steuerlich: AfA-Neustart moeglich für Kaeufer.
+- **Asset Deal:** Kaeufer erwirbt einzelne Wirtschaftsgueter. Verbindlichkeiten nur soweit vereinbart. § 613a BGB beachten. Steuerlich: AfA-Neustart möglich für Kaeufer.
 
 ### Was ist eine MAC-Klausel?
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -129,7 +129,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 Warranty & Indemnity Insurance sichert Garantie-Verletzungsansprueche gegen den Versicherer ab. Kaeufer-Policy: Kaeufer klagt direkt Versicherer. Sinnvoll ab ca. 15-20 Mio. EUR EV. Praemie: ca. 1 % der Versicherungssumme.
 
 ### Was ist ein Squeeze-Out?
-Mehrheitsaktionaer mit >95 % (AktG §§ 327a-f) kann Minderheitsaktionaere gegen Barabfindung ausschliessen. Spruchverfahren moeglich. WpUeG-Squeeze-Out: nach Uebernahme ab 90 % (§§ 39a-c WpUeG).
+Mehrheitsaktionaer mit >95 % (AktG §§ 327a-f) kann Minderheitsaktionaere gegen Barabfindung ausschliessen. Spruchverfahren möglich. WpUeG-Squeeze-Out: nach Uebernahme ab 90 % (§§ 39a-c WpUeG).
 
 ### Was ist Locked Box vs. Closing Accounts?
 - **Locked Box:** Kaufpreis fixiert auf historische Bilanz; Leakage-Schutz; einfacher

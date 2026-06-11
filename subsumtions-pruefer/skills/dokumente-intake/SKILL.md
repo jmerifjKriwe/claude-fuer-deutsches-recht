@@ -7,7 +7,7 @@ description: "Dokumentenintake für Subsumtions-Prüfer (Jura): sortiert Sachver
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Subsumtions Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Subsumtions Prüfer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -36,15 +36,15 @@ Dieser Dokumenten-Intake für **Subsumtions Prüfer** ordnet Anlagen, Registerda
 - `europarecht-fristen-form-und-zustaendigkeit` — Europarecht Fristen Form und Zustaendigkeit
 - `falsche-wiese-warnung` — Falsche Wiese Warnung
 - `fehlerklasse-bgb-at-training` — Fehlerklasse BGB AT Training
-- `generalklauseln-pruefen` — Generalklauseln Pruefen
-- `grundrechte-pruefung-de-und-grch` — Grundrechte Pruefung DE und Grch
+- `generalklauseln-pruefen` — Generalklauseln Prüfen
+- `grundrechte-pruefung-de-und-grch` — Grundrechte Prüfung DE und Grch
 - `einstieg-routing` — Einstieg Routing
 - `unterlagen-luecken` — Unterlagen Luecken
 
 ## Arbeitsweg
 
 - Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
-- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Subsumtions Pruefer-Frage.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Subsumtions Prüfer-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
 - Tragende Normen vorläufig zuordnen: die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen — Endfeststellung erst nach Live-Check.
 - Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.

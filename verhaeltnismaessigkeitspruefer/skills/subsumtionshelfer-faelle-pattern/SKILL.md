@@ -7,7 +7,7 @@ description: "Pattern-Sammlung typischer Klausur- und Schriftsatz-Konstellatione
 
 ## Zweck dieses Skills
 
-Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtionsbausteinen, die nur an den konkreten Sachverhalt angepasst werden muessen.
+Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtionsbausteinen, die nur an den konkreten Sachverhalt angepasst werden müssen.
 
 ## Pattern 1 — Polizeiverfuegung gegen Versammlung
 
@@ -19,11 +19,11 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 | Eingriff | Beschraenkung der Selbstorganisation |
 | Schranke | Art 8 II GG, einfacher Gesetzesvorbehalt + Polizei-/Versammlungsgesetz |
 | Zweck | Schutz oeffentlicher Sicherheit oder Rechte Dritter |
-| Geeignet | Wenn Massnahme Stoerung verhindert |
+| Geeignet | Wenn Maßnahme Stoerung verhindert |
 | Erforderlich | **Nadeloehr:** Auflage vor Verbot (Brokdorf-Linie) |
 | Angemessen | Eingriffsintensitaet (Voll-Verbot vs. Auflage) gegen konkrete Gefahr |
 
-**Standardformel:** "Die Voraussetzungen einer konkreten Gefahr i. S. d. Polizeirechts sind hinsichtlich [Stoerung] zu pruefen; nur bei konkreter Gefahr darf die Versammlung beschraenkt werden, und auch dann ist primaer Auflage statt Verbot zu waehlen (BVerfG Brokdorf — `versammlungsfreiheit-brokdorf-auflagen-verbot`)."
+**Standardformel:** "Die Voraussetzungen einer konkreten Gefahr i. S. d. Polizeirechts sind hinsichtlich [Stoerung] zu prüfen; nur bei konkreter Gefahr darf die Versammlung beschraenkt werden, und auch dann ist primaer Auflage statt Verbot zu waehlen (BVerfG Brokdorf — `versammlungsfreiheit-brokdorf-auflagen-verbot`)."
 
 ## Pattern 2 — Pandemiebedingte Kontaktbeschraenkung
 
@@ -55,7 +55,7 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 | Erforderlich | mildere Mittel der unteren Stufen vorrangig |
 | Angemessen | Eingriffsintensitaet der Stufe gegen Schutzgut |
 
-**Standardformel:** "Eine objektive Zulassungsschranke ist nur zulaessig, wenn sie zur Abwehr nachweisbarer oder hoechst wahrscheinlicher schwerer Gefahren fuer ueberragend wichtige Gemeinschaftsgueter notwendig ist (BVerfGE 7, 377 — `apotheken-urteil-bverfge-7-377`)."
+**Standardformel:** "Eine objektive Zulassungsschranke ist nur zulässig, wenn sie zur Abwehr nachweisbarer oder hoechst wahrscheinlicher schwerer Gefahren für ueberragend wichtige Gemeinschaftsgueter notwendig ist (BVerfGE 7, 377 — `apotheken-urteil-bverfge-7-377`)."
 
 ## Pattern 4 — Anlasslose Datenspeicherung
 
@@ -79,7 +79,7 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 
 | Stufe | Subsumtion |
 |---|---|
-| Pruefung | **Doppelte Hypothese**: ergeht einstweilige Anordnung, gewinnt aber HV: Schaden? — ergeht keine eA, verliert in HV: Schaden? |
+| Prüfung | **Doppelte Hypothese**: ergeht einstweilige Anordnung, gewinnt aber HV: Schaden? — ergeht keine eA, verliert in HV: Schaden? |
 | Folgenabwaegung | Gewichten und vergleichen |
 | Sonderfall | Bei offensichtlicher Verfassungswidrigkeit: Folgenabwaegung entbehrlich |
 
@@ -94,10 +94,10 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 | Vorfrage | Abgrenzung Inhaltsbestimmung (Art 14 I 2 GG) vs. Enteignung (Art 14 III GG) |
 | Schutzbereich | Eigentum + ggf. erweitert auf vermoegenswerte Rechte |
 | Schranke | Bei Inhaltsbestimmung: Gesetz; bei Enteignung: Gesetz + Entschaedigung |
-| Vier-Stufen | Erforderlichkeit oft Nadeloehr (Verhaeltnismaessigkeit der Lastenverteilung) |
+| Vier-Stufen | Erforderlichkeit oft Nadeloehr (Verhältnismäßigkeit der Lastenverteilung) |
 | Angemessen | Lastenausgleich, Uebergangsregelungen, Bestandsschutz |
 
-**Standardformel:** "Bei einer Inhaltsbestimmung mit ausgleichspflichtigen Folgen ist die Pflicht zum Lastenausgleich zu pruefen (BVerfGE 100, 226 Denkmalschutz; vertiefend `eigentum-art-14-inhalts-schranken-enteignung`)."
+**Standardformel:** "Bei einer Inhaltsbestimmung mit ausgleichspflichtigen Folgen ist die Pflicht zum Lastenausgleich zu prüfen (BVerfGE 100, 226 Denkmalschutz; vertiefend `eigentum-art-14-inhalts-schranken-enteignung`)."
 
 ## Pattern 7 — Klimaschutz und Generationengerechtigkeit
 
@@ -111,7 +111,7 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 | Stufen | Zukunftsdimension auf Stufe 4 |
 | Untermass | Pflicht zur generationengerechten Verteilung |
 
-**Standardformel:** "Eingriffe in Freiheit muessen ueber die Zeit gleichmaessig verteilt werden; eine intertemporale Lastenverlagerung in die Zukunft ist begruendungspflichtig (BVerfGE 157, 30 — `klimaschutz-bverfge-157-30`)."
+**Standardformel:** "Eingriffe in Freiheit müssen über die Zeit gleichmaessig verteilt werden; eine intertemporale Lastenverlagerung in die Zukunft ist begruendungspflichtig (BVerfGE 157, 30 — `klimaschutz-bverfge-157-30`)."
 
 ## Pattern 8 — Vorbehaltloses Grundrecht mit verfassungsimmanenter Schranke
 
@@ -122,7 +122,7 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 | Schutzbereich | weit |
 | Eingriff | ja |
 | Schranke | Nicht im Wortlaut. Verfassungsimmanente Schranke = Grundrechte Dritter oder andere Verfassungsguete mit Rang |
-| Pruefung | Praktische Konkordanz |
+| Prüfung | Praktische Konkordanz |
 
 **Standardformel:** "Da Art X GG vorbehaltlos gewaehrleistet ist, kommt als Schranke nur ein verfassungsimmanenter Gegenwert in Betracht; die Aufloesung folgt der praktischen Konkordanz (`praktische-konkordanz`, `schranke-vorbehaltlos-verfassungsimmanent`)."
 
@@ -133,7 +133,7 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 | Stufe | Subsumtion |
 |---|---|
 | Anspruch | Auf staatliches Schutzhandeln aus Art 2 II, Art 6 I, Art 14 I, Art 20a GG |
-| Pruefung | Vier-Stufen, gespiegelt: legt staatliches Untaetigsein die Schutzpflicht offen? |
+| Prüfung | Vier-Stufen, gespiegelt: legt staatliches Untaetigsein die Schutzpflicht offen? |
 | Massstab | Nicht "evident unwirksam" allein; konkrete Plausibilitaet gefordert (Klimaschutz-Linie) |
 
 **Standardformel:** "Aus dem Untermassverbot ergibt sich eine Pflicht des Gesetzgebers, ein wirksames Schutzkonzept vorzuhalten; das BVerfG kontrolliert die Plausibilitaet und Wirksamkeit (`untermassverbot-schutzpflicht-dimension`)."
@@ -147,10 +147,10 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 | Schutzbereich | Art 2 I, Art 2 II GG (Freiheit der Person) |
 | Eingriff | Strafe |
 | Schranke | StGB |
-| Pruefung | Paragraf 46 StGB als verhaeltnismaessigkeitsfunktionale Norm |
+| Prüfung | Paragraf 46 StGB als verhaeltnismaessigkeitsfunktionale Norm |
 | Massstab | Tat- und Schuldangemessenheit; Vermeidung von ueberzogenen Strafhoehen |
 
-**Standardformel:** "Die Strafzumessung ist die strafrechtliche Auspraegung der Verhaeltnismaessigkeit; sie konkretisiert Geeignetheit (Praevention), Erforderlichkeit (mildestes Strafmass) und Angemessenheit (Tat- und Schuldangemessenheit) (`strafrecht-strafzumessung-verhaeltnismaessigkeit`)."
+**Standardformel:** "Die Strafzumessung ist die strafrechtliche Auspraegung der Verhältnismäßigkeit; sie konkretisiert Geeignetheit (Praevention), Erforderlichkeit (mildestes Strafmass) und Angemessenheit (Tat- und Schuldangemessenheit) (`strafrecht-strafzumessung-verhaeltnismaessigkeit`)."
 
 ## Wie diese Pattern verwenden
 

@@ -38,7 +38,7 @@ Hofuebernehmer T uebernahm 2010 elterlichen Hof in Niedersachsen nach HoeO; 2026
 2. Veraeusserung binnen 20 Jahren ab Hofuebergang?
 3. Antragsberechtigter weichender Erbe?
 4. Rueckkaufpreis = Wert bei Hofuebergang nach Paragraf 12 HoeO (nicht der Verkaufspreis).
-5. Ausuebung formell durch notarielle Erklaerung gegen den Hofuebernehmer.
+5. Ausübung formell durch notarielle Erklaerung gegen den Hofuebernehmer.
 
 ## Belege und Aktenlücken
 

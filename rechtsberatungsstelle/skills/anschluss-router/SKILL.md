@@ -128,7 +128,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin unterstuetzt studentische und gemeinnuetzige Rechtsberatungsstellen bei der RDG-konformen Durchfuehrung ihrer Beratungsarbeit. Es bildet den gesamten Lebenszyklus eines Mandats ab: von der Erstaufnahme ueber die rechtliche Analyse und Schriftstueckerstellung bis zur sauberen Semesteruebergabe.
+Das Plugin unterstuetzt studentische und gemeinnuetzige Rechtsberatungsstellen bei der RDG-konformen Durchfuehrung ihrer Beratungsarbeit. Es bildet den gesamten Lebenszyklus eines Mandats ab: von der Erstaufnahme über die rechtliche Analyse und Schriftstueckerstellung bis zur sauberen Semesteruebergabe.
 
 Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rechtsanwaelte. Die Beratungsleistung muss im Rahmen der nach § 6 RDG erlaubten unentgeltlichen Rechtsdienstleistungen bleiben. Alle wesentlichen Dokumente beduerften einer Anleiter-Freigabe. Das Plugin beruecksichtigt diese Aufsichtsstruktur mit einer optionalen Pruefwarteschlange.
 
@@ -145,7 +145,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - **RDG** — Rechtsdienstleistungsgesetz; regelt, wer ausserhalb der Anwaltschaft Rechtsdienstleistungen erbringen darf.
 - **§ 6 RDG** — Erlaubnisnorm für unentgeltliche Rechtsdienstleistungen; Grundlage für studentische Beratungsstellen.
 - **BeratungsHiG** — Beratungshilfegesetz; ermoeglicht einkommensschwachen Personen staatlich gefoerderte Rechtsberatung.
-- **Anleiter** — Zugelassener Rechtsanwalt, der die Aufsicht ueber Studierende fuehrt und Arbeitsergebnisse freigibt.
+- **Anleiter** — Zugelassener Rechtsanwalt, der die Aufsicht über Studierende fuehrt und Arbeitsergebnisse freigibt.
 - **Gutachtenmethode** — Juristische Analyse nach dem Schema Obersatz - Norm/Definition - Subsumtion - Ergebnis.
 - **Interessenkonflikt** — Situation, in der Berater oder Kanzlei bereits die Gegenpartei vertreten; muss vor Mandatsannahme geprueft werden (§ 43a Abs. 4 BRAO entsprechend).
 - **Pruefwarteschlange** — Optionale Aufsichtsstruktur, in der Arbeitsergebnisse auf Anleiter-Freigabe warten, bevor sie den Mandanten oder Gerichten zugehen.
@@ -164,7 +164,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 
 1. Kaltstart-Interview durchfuehren und Plugin an Hochschule und Rechtsgebiete anpassen.
 2. Neue Studierende einarbeiten (Semester-Start).
-3. Mandanten aufnehmen: Sachverhalt, Fristen, Interessenkonflikt und Beratungsberechtigung pruefen.
+3. Mandanten aufnehmen: Sachverhalt, Fristen, Interessenkonflikt und Beratungsberechtigung prüfen.
 4. Passenden Skill auswaehlen (Memo, Entwurf, Mandantenbrief, einfache Sprache, Formular).
 5. Ergebnis in Pruefwarteschlange stellen; nach Anleiter-Freigabe versenden oder weitergeben.
 
@@ -189,10 +189,10 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 
 ## Worauf besonders achten
 
-- **RDG-Grenze einhalten**: Studierende duerfen keine individualrechtliche Beratung ausserhalb des § 6 RDG-Rahmens erbringen; Abgrenzung zu anwaltlicher Taetigkeit ist essentiell.
+- **RDG-Grenze einhalten**: Studierende dürfen keine individualrechtliche Beratung ausserhalb des § 6 RDG-Rahmens erbringen; Abgrenzung zu anwaltlicher Taetigkeit ist essentiell.
 - **Anleiter-Freigabe vor Versand**: Kein Schriftstuck und kein Mandantenbrief verlasst die Beratungsstelle ohne Anleiter-Freigabe.
-- **Fristen besonders beobachten**: Versaeumte Fristen koennen den Mandanten seinen Anspruch kosten; der Fristen-Skill muss regelmaessig abgerufen werden.
-- **Mandatsgeheimnis bei Semesteruebergabe**: Uebergabenotizen duerfen nur mit dem Einverstaendnis des Mandanten weitergegeben werden.
+- **Fristen besonders beobachten**: Versaeumte Fristen können den Mandanten seinen Anspruch kosten; der Fristen-Skill muss regelmaessig abgerufen werden.
+- **Mandatsgeheimnis bei Semesteruebergabe**: Uebergabenotizen dürfen nur mit dem Einverstaendnis des Mandanten weitergegeben werden.
 - **Dokumentation datenschutzkonform**: Mandantendaten duerften nicht in nicht-genehmigten KI-Systemen verarbeitet werden.
 
 ## Typische Fehler
@@ -201,7 +201,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - Memo als fertige Rechtsberatung weitergeben statt als Analyse-Grundlage für den Anleiter.
 - Fristenliste nicht aktuell halten; Fristaenderungen durch Gericht werden nicht eingetragen.
 - Bei der Semesteruebergabe Mandate ohne Uebergabenotiz an Nachfolgekohorte weitergeben.
-- Einfache-Sprache-Uebersetzung nicht auf Richtigkeit pruefen lassen; Vereinfachungen koennen Rechtsinhalte veraendern.
+- Einfache-Sprache-Uebersetzung nicht auf Richtigkeit prüfen lassen; Vereinfachungen können Rechtsinhalte veraendern.
 
 ## Quellen und Aktualitaet
 

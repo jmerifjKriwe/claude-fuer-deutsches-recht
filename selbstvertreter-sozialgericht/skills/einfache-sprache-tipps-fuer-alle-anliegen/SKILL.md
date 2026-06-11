@@ -13,17 +13,17 @@ description: "Tipps zur klaren und einfachen Sprache für eigene Schriftsaetze. 
 
 ## Worum geht es?
 
-Sie muessen Briefe an Behörden und Gerichte schreiben. Diese Skill hilft Ihnen, klar und verstaendlich zu schreiben — ohne Behördendeutsch.
+Sie müssen Briefe an Behörden und Gerichte schreiben. Diese Skill hilft Ihnen, klar und verstaendlich zu schreiben — ohne Behördendeutsch.
 
 ## In einfacher Sprache
 
-Briefe an Behörden muessen nicht kompliziert sein. Schreiben Sie klar. Kurze Saetze. Ein Gedanke pro Satz. Das wirkt besser.
+Briefe an Behörden müssen nicht kompliziert sein. Schreiben Sie klar. Kurze Saetze. Ein Gedanke pro Satz. Das wirkt besser.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie schreiben Ihren ersten Schriftsatz.
 - Sie wissen nicht, wie man formal schreibt.
-- Sie denken, Sie muessen kompliziert formulieren.
+- Sie denken, Sie müssen kompliziert formulieren.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -107,13 +107,13 @@ Besser:
 - Reha-Bericht vom [Datum]
 - Pflegeprotokoll 14 Tage"
 
-### Schritt 7 — Vor Versand pruefen
+### Schritt 7 — Vor Versand prüfen
 
 - Selbst lesen
 - Familienmitglied lesen lassen
 - Mit Sozialberatung durchgehen
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Hoeflich, aber klar**: keine Devot-Saetze.
 - **Konkret**: jede Behauptung mit Beleg.

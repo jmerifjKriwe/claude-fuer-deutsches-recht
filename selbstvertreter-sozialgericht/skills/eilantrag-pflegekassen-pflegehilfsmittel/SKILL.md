@@ -17,7 +17,7 @@ Die Pflegekasse blockiert dringende Hilfen. Vielleicht das Pflegebett, den Trepp
 
 ## In einfacher Sprache
 
-Die Pflegekasse blockiert Hilfe. Sie brauchen die Hilfe schnell. Sie koennen zum Sozialgericht gehen. Wir zeigen, wie das geht und welche Beweise Sie brauchen.
+Die Pflegekasse blockiert Hilfe. Sie brauchen die Hilfe schnell. Sie können zum Sozialgericht gehen. Wir zeigen, wie das geht und welche Beweise Sie brauchen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -31,7 +31,7 @@ Die Pflegekasse blockiert Hilfe. Sie brauchen die Hilfe schnell. Sie koennen zum
 - **Pflegegrad**: Einstufung Ihres Pflegebedarfs (1 bis 5).
 - **Pflegehilfsmittel** (§ 40 SGB XI): Verbrauchsmittel und Geraete für die Pflege.
 - **Verhinderungspflege**: Ersatzpflege, wenn die Pflegeperson Urlaub / krank ist.
-- **Wohnumfeldverbesserung**: Zuschuss für Umbau bis 4.000 EUR pro Massnahme.
+- **Wohnumfeldverbesserung**: Zuschuss für Umbau bis 4.000 EUR pro Maßnahme.
 - **Medizinischer Dienst (MD)**: Begutachter; frueher MDK.
 
 ## Rechtsgrundlagen
@@ -119,7 +119,7 @@ IV. Glaubhaftmachung
 
 ### Schritt 4 — Pflegegrad-Eilantrag besonders
 
-Bei Pflegegrad-Streit ist Eilantrag schwerer, weil das Ergebnis nicht so akut ist. Pruefen Sie:
+Bei Pflegegrad-Streit ist Eilantrag schwerer, weil das Ergebnis nicht so akut ist. Prüfen Sie:
 
 - Gibt es zwischenzeitlich eine massive Verschlechterung?
 - Brauchen Sie sofort mehr Pflegegeld zur Bezahlung der Pflegekraft?
@@ -128,16 +128,16 @@ Argument: "Ohne sofortigen Pflegegrad 3 kann die ambulante Pflegekraft mit XYZ S
 
 ### Schritt 5 — Wohnumfeldverbesserung
 
-Hier ist Eilantrag selten erfolgreich, weil Umbau Zeit braucht. Aber: bei akuter Sturzgefahr (Bad-Umbau, Treppenlift für Rollstuhlfahrer) moeglich.
+Hier ist Eilantrag selten erfolgreich, weil Umbau Zeit braucht. Aber: bei akuter Sturzgefahr (Bad-Umbau, Treppenlift für Rollstuhlfahrer) möglich.
 
 ### Schritt 6 — Verhinderungspflege
 
 Schnell, wenn ein konkreter Anlass besteht: Pflegeperson ist ploetzlich krank / verstorben, und sofort muss Ersatz organisiert werden.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Pflegeprotokoll für 14 Tage** ist Gold wert. Tagesgenau: was wann wer wieviele Minuten.
-- **MD (Medizinischer Dienst)** heisst seit 2022 nicht mehr MDK. Pruefen Sie die richtige Bezeichnung im Bescheid.
+- **MD (Medizinischer Dienst)** heisst seit 2022 nicht mehr MDK. Prüfen Sie die richtige Bezeichnung im Bescheid.
 - **§ 109 SGG-Gutachten** zur Pflegegrad-Streitigkeit kann das Verfahren entscheiden — Sie tragen aber Kosten (siehe `sachverstaendigen-wahlrecht-109-sgg`).
 - **Akut nur was nicht warten kann**: Hilfsmittel akut, Pflegegrad-Streit eher Hauptsache.
 
@@ -150,4 +150,4 @@ Schnell, wenn ein konkreter Anlass besteht: Pflegeperson ist ploetzlich krank / 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGB XI in aktueller Fassung. MD-Reform 2022 (Umbenennung MDK zu MD). Bei der Pflegegrad-Frage BSG-Linie u.a. zu Konstellation der Minutenrechnung pruefen in juris.
+Stand: 05/2026. SGB XI in aktueller Fassung. MD-Reform 2022 (Umbenennung MDK zu MD). Bei der Pflegegrad-Frage BSG-Linie u.a. zu Konstellation der Minutenrechnung prüfen in juris.

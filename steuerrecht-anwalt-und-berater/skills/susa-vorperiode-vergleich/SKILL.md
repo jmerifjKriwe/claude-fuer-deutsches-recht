@@ -23,7 +23,7 @@ Eine isolierte SuSa zeigt nur den Stichtag. Erst die Gegenueberstellung mit Vorm
 4. Welche Sondereffekte sind herauszurechnen?
 5. Welche Periodendefinitions (Kalender vs. abweichendes Wirtschaftsjahr)?
 6. Welche Auswertungsfrequenz (monatlich vs. quartalsweise)?
-7. Welche Verwendungszweck (interne Pruefung, Mandanten-Kommunikation)?
+7. Welche Verwendungszweck (interne Prüfung, Mandanten-Kommunikation)?
 8. Welche Buchungs-Kontinuitaet vs. Aenderungen Kontenrahmen?
 
 ## Rechtlicher Rahmen
@@ -51,7 +51,7 @@ Eine isolierte SuSa zeigt nur den Stichtag. Erst die Gegenueberstellung mit Vorm
 - Aktuelle SuSa zur Periode X.
 - Vorperiode-SuSa (Vormonat).
 - Vorjahres-Periode-SuSa.
-- Kontinuitaet pruefen (Kontenrahmen unveraendert).
+- Kontinuitaet prüfen (Kontenrahmen unveraendert).
 
 ### Phase 2 — Vergleichs-Tabelle
 
@@ -74,8 +74,8 @@ Konto Bezeichnung Aktuell Vormonat Diff Vorjahres-Periode Diff
 
 | Schwelle absolut | Schwelle prozentual | Aktion |
 |---|---|---|
-| > 5.000 EUR | > 50 Prozent | Pruefung erforderlich |
-| > 10.000 EUR | > 100 Prozent | Klaerung mit Mandant |
+| > 5.000 EUR | > 50 Prozent | Prüfung erforderlich |
+| > 10.000 EUR | > 100 Prozent | Klärung mit Mandant |
 | > 50.000 EUR | > 200 Prozent | Sondergespraech |
 
 ### Phase 4 — Konten-Cluster-Analyse
@@ -113,7 +113,7 @@ AUFFAELLIGKEITS-LISTE
 - SuSa-Vergleich ist Standardpruefung im Monatsabschluss — nicht nur bei Jahresabschluss.
 - Bei wiederholten Auffaelligkeiten auf demselben Konto: systemischer Fehler (Kontierungsregel falsch).
 - Vergleichs-Schwellen mandantenabhaengig — bei Kleinmandanten geringere absolute Schwellen.
-- Bei Wechsel des Kontenrahmens: Vergleich nicht moeglich ohne Brueckenposten.
+- Bei Wechsel des Kontenrahmens: Vergleich nicht möglich ohne Brueckenposten.
 - StBVV: Periodenvergleich in der Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV-Sachkontenauswertung mit Vergleichsspalten und automatischer Abweichungsmarkierung.
 

@@ -16,16 +16,16 @@ description: "Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferan
 ## Mandantenfall
 
 - Einkauf moechte neuen Lieferanten aus Tuerkei aufnehmen; Sanktions- und Dual-Use-Weiterlieferungsrisiko.
-- Lieferant aus China soll Vorprodukte für Dual-Use-Endprodukt liefern; Herkunft und Endverwendung pruefen.
+- Lieferant aus China soll Vorprodukte für Dual-Use-Endprodukt liefern; Herkunft und Endverwendung prüfen.
 - LkSG-Sorgfaltspflicht erfordert Lieferanten-Risikoanalyse auch für Aussenwirtschafts-Compliance.
 
 ## Erste Schritte
 
-1. Lieferanten-Fragebogen erstellen: Identitaet, Eigentuemer, Sitz, Produkte, Herkunft der Vorprodukte.
+1. Lieferanten-Fragebogen erstellen: Identitaet, Eigentümer, Sitz, Produkte, Herkunft der Vorprodukte.
 2. Sanktionslistenscreening Lieferant und UBO-Kette.
-3. Herkunftsland-Pruefung: Sanktionsbetroffenes Land? Umgehungsland?
+3. Herkunftsland-Prüfung: Sanktionsbetroffenes Land? Umgehungsland?
 4. Dual-Use-Vorprodukt-Check: Liefert der Lieferant Dual-Use-Gueter?
-5. Lieferantenerklaerung für Praeferenzursprung anfordern und auf Plausibilitaet pruefen.
+5. Lieferantenerklaerung für Praeferenzursprung anfordern und auf Plausibilitaet prüfen.
 6. Risikoklassifizierung und periodisches Re-Screening-Intervall festlegen.
 
 ## Rechtsrahmen
@@ -48,7 +48,7 @@ description: "Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferan
 ## Typische Fallstricke
 
 - Erstes Screening genuegt nicht; periodisches Re-Screening unverzichtbar.
-- Lieferanten mit unverdaechtigen Produkten koennen sanktionierte Eigentuemer haben.
+- Lieferanten mit unverdaechtigen Produkten können sanktionierte Eigentümer haben.
 - Praeferenz-Lieferantenerklaerungen falsch oder verfallt; Nachzollrisiko.
 - LkSG-Sorgfaltspflicht und Exportkontroll-KYC werden nicht integriert; Doppelaufwand.
 

@@ -14,7 +14,7 @@ description: "Wahlverteidigerausschluss nach § 138a StPO abwehren: Antrag muss 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Wahlverteidigerausschluss nach § 138a StPO abwehren. Antrag muss konkrete tatbestandliche Voraussetzungen substantiieren. § 138a Abs. 1 Nr. 1 bis 3 StPO erfasst Tatverstrickung, Strafverletzungen oder Sicherheitsgefahren. Ausschluss ist ultima ratio und beruehrt das Beistandsrecht nach § 137 Abs. 1 StPO. Verteidigung gegen den Ausschlussantrag mit Bezug zu Beweisanforderungen Verhaeltnismaessigkeit und Verfahrensschutz.
+**Fokus:** Wahlverteidigerausschluss nach § 138a StPO abwehren. Antrag muss konkrete tatbestandliche Voraussetzungen substantiieren. § 138a Abs. 1 Nr. 1 bis 3 StPO erfasst Tatverstrickung, Strafverletzungen oder Sicherheitsgefahren. Ausschluss ist ultima ratio und beruehrt das Beistandsrecht nach § 137 Abs. 1 StPO. Verteidigung gegen den Ausschlussantrag mit Bezug zu Beweisanforderungen Verhältnismäßigkeit und Verfahrensschutz.
 
 ### Wahlverteidigerausschluss § 138a StPO abwehren
 
@@ -32,16 +32,16 @@ description: "Wahlverteidigerausschluss nach § 138a StPO abwehren: Antrag muss 
 
 ## Verteidigung gegen den Ausschlussantrag
 
-- Substanz der Tatsachenlage pruefen. Mutmassungen tragen Ausschluss nicht.
-- Verhaeltnismaessigkeit ist Querschnittsmassstab. Alternative Mittel haben Vorrang.
+- Substanz der Tatsachenlage prüfen. Mutmassungen tragen Ausschluss nicht.
+- Verhältnismäßigkeit ist Querschnittsmassstab. Alternative Mittel haben Vorrang.
 - § 137 Abs. 1 StPO als Massstab heranziehen. Ausschluss ist ultima ratio.
 - Hinweis auf das Beistandsrecht und auf das Recht des Mandanten auf eigene Wahl.
 
 ## Praktisches Vorgehen
 
-- Schriftliche Stellungnahme gegen den Ausschlussantrag. Tatsachenbestreitung wo moeglich. Eidesstattliche Versicherung wenn sinnvoll.
+- Schriftliche Stellungnahme gegen den Ausschlussantrag. Tatsachenbestreitung wo möglich. Eidesstattliche Versicherung wenn sinnvoll.
 - Bei muendlicher Anhörung: Sachvortrag mit Aktenstellen und Zeugen.
-- Bei Beschluss in der Hauptverhandlung: sofortige Beschwerde § 138d StPO pruefen.
+- Bei Beschluss in der Hauptverhandlung: sofortige Beschwerde § 138d StPO prüfen.
 
 ## Pitfalls
 

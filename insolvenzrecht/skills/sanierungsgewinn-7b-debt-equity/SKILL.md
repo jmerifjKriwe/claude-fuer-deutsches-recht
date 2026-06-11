@@ -23,7 +23,7 @@ description: "Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Par
 
 ## Worum geht es
 
-Mit Paragraph 7b GewStG wurde die Steuerfreiheit des Sanierungsertrags auf die Gewerbesteuer uebertragen. Der Antrag ist aber **eigenstaendig** zu stellen und die Verrechnungsmechanik weicht von Paragraph 3a EStG ab — insbesondere weil Gewerbeverluste anders behandelt werden und die Gemeinde ueber den Hebesatz die finale Steuerlast bestimmt.
+Mit Paragraph 7b GewStG wurde die Steuerfreiheit des Sanierungsertrags auf die Gewerbesteuer uebertragen. Der Antrag ist aber **eigenstaendig** zu stellen und die Verrechnungsmechanik weicht von Paragraph 3a EStG ab — insbesondere weil Gewerbeverluste anders behandelt werden und die Gemeinde über den Hebesatz die finale Steuerlast bestimmt.
 
 Dieser Skill arbeitet die Parallel-Mechanik durch. Adressat: StB des Schuldners, IV/Sachwalter, Plan-Anwalt.
 
@@ -55,7 +55,7 @@ Kaltstart-Fragen:
 
 1. **Gewerbesteuerliche Verlustvortraege ermitteln.** Paragraph 10a GewStG-Vortrag ist eigenstaendig.
 2. **Sanierungsertrag identifizieren.** Identitaet mit dem KSt-/ESt-Sanierungsertrag, aber u. U. abweichend wegen GewSt-Korrekturen Paragraph 8 ff. GewStG.
-3. **Verrechnungsreihenfolge nach Paragraph 7b GewStG aufstellen.** Mechanisch aehnlich wie Paragraph 3a Absatz 3 EStG, aber mit gewerbesteuerlichem Verlustvortrag.
+3. **Verrechnungsreihenfolge nach Paragraph 7b GewStG aufstellen.** Mechanisch ähnlich wie Paragraph 3a Absatz 3 EStG, aber mit gewerbesteuerlichem Verlustvortrag.
 4. **Restsanierungsertrag berechnen.**
 5. **Antrag** in der Gewerbesteuererklaerung des Sanierungsjahres.
 6. **Gemeinde einbeziehen.** Die Gemeinde ist für den Hebesatz zuständig; das Finanzamt erlaesst den Messbetragsbescheid (Paragraph 184 AO), die Gemeinde den Hebebescheid (Paragraph 16 GewStG).
@@ -166,5 +166,5 @@ GewStG vom [Datum]]
 - Paragraph 184 AO, `gesetze-im-internet.de/ao_1977/__184.html`.
 - Paragraphen 222, 227 AO.
 - Paragraph 3a EStG.
-- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25. Verifikation ueber `dejure.org`.
+- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25. Verifikation über `dejure.org`.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

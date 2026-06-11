@@ -29,7 +29,7 @@ Manchmal ist es dringend. Sie brauchen Geld oder Hilfe sofort. Dann gibt es den 
 ## Fachbegriffe (kurz erklaert)
 
 - **Eilantrag**: Schneller Antrag, damit das Gericht vorlaeufig regelt.
-- **Aufschiebende Wirkung**: Eine Massnahme der Behörde wird gestoppt, bis entschieden ist.
+- **Aufschiebende Wirkung**: Eine Maßnahme der Behörde wird gestoppt, bis entschieden ist.
 - **Einstweilige Anordnung**: Das Gericht ordnet vorlaeufig etwas an (z.B. dass Sie Geld bekommen).
 - **Anordnungsanspruch**: Sie haben wahrscheinlich Recht in der Hauptsache.
 - **Anordnungsgrund**: Ohne sofortige Hilfe drohen schwere Nachteile.
@@ -50,9 +50,9 @@ Zwei Varianten:
 - **§ 86b Abs. 1 SGG**: Wenn ein Bescheid Sie belastet, der aufschiebende Wirkung verloren hat (z.B. Sanktion nach SGB II). Sie beantragen, dass die aufschiebende Wirkung angeordnet wird → der Bescheid wird gestoppt.
 - **§ 86b Abs. 2 SGG**: Wenn Sie eine Leistung wollen, die Sie nicht bekommen (z.B. Buergergeld, Pflegehilfsmittel). Sie beantragen einstweilige Anordnung → das Gericht ordnet vorlaeufig die Leistung an.
 
-### Schritt 2 — Pruefen, was Sie brauchen
+### Schritt 2 — Prüfen, was Sie brauchen
 
-Fuer beide gilt: Sie muessen zwei Dinge glaubhaft machen:
+Für beide gilt: Sie müssen zwei Dinge glaubhaft machen:
 
 1. **Anordnungsanspruch**: Sie haben in der Hauptsache wahrscheinlich Recht.
 2. **Anordnungsgrund**: Ohne Eilentscheidung drohen Ihnen schwere oder unumkehrbare Nachteile.
@@ -120,7 +120,7 @@ Anlagen:
 - Kontoauszuege (zeigt, wieviel Geld noch da ist)
 - Mietvertrag (zeigt Verpflichtungen)
 - Aerztliche Atteste (bei Gesundheits-Eilantrag)
-- Bestaetigungen ueber unbezahlte Rechnungen
+- Bestaetigungen über unbezahlte Rechnungen
 
 ### Schritt 5 — Beim SG einreichen
 
@@ -133,11 +133,11 @@ Nicht beim Widerspruchsverfahren! Eilantrag geht direkt zum Sozialgericht.
 
 Das SG entscheidet meist innerhalb von 1 bis 4 Wochen. Bei akuten Faellen (Strom-Abschaltung, lebenswichtige Medikamente) auch innerhalb von Tagen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Glaubhaftmachung statt Beweis**: Eidesstattliche Versicherung ist Ihr wichtigstes Werkzeug.
 - **Konkret werden**: "Ich habe kein Geld" reicht nicht; "Mein Konto zeigt 12,40 EUR Stand vom 1.5." ist konkret.
-- **Hauptsache nicht vergessen**: Eilantrag ist nur vorlaeufig. Sie muessen trotzdem Widerspruch / Klage in der Hauptsache fuehren.
+- **Hauptsache nicht vergessen**: Eilantrag ist nur vorlaeufig. Sie müssen trotzdem Widerspruch / Klage in der Hauptsache fuehren.
 - **Eilantrag-Verfahren ist auch kostenfrei** beim SG (§ 183 SGG).
 
 ## Typische Fehler

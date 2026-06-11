@@ -45,7 +45,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 ### Ansaessigkeit (Art. 4)
 - OECD-Tie-Breaker.
-- **NHR-Status** (frueher bis 10 Jahre Sonderbesteuerung in Portugal mit Pensionsfreiheit) — Pruefung, ob "ansaessig" iSd DBA bei NHR.
+- **NHR-Status** (frueher bis 10 Jahre Sonderbesteuerung in Portugal mit Pensionsfreiheit) — Prüfung, ob "ansaessig" iSd DBA bei NHR.
 
 ### Betriebsstaette (Art. 5)
 - Bauausfuehrung **12 Monate**.
@@ -55,26 +55,26 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 ### Passive Einkuenfte
 - **Dividenden** (Art. 10): 5 Prozent (Schachtel ab 25 Prozent Beteiligung), 15 Prozent (Streubesitz). EU-MTRL 0 Prozent Schachtel vorrangig.
-- **Zinsen** (Art. 11): Quellenbesteuerungsrecht im Quellenstaat; DBA-Hoechstsatz 10 Prozent. Konkrete DBA-Klausel bei Anwendungsfall pruefen.
-- **Lizenzgebuehren** (Art. 12): DBA-Hoechstsatz 10 Prozent. Konkrete DBA-Klausel bei Anwendungsfall pruefen.
+- **Zinsen** (Art. 11): Quellenbesteuerungsrecht im Quellenstaat; DBA-Hoechstsatz 10 Prozent. Konkrete DBA-Klausel bei Anwendungsfall prüfen.
+- **Lizenzgebuehren** (Art. 12): DBA-Hoechstsatz 10 Prozent. Konkrete DBA-Klausel bei Anwendungsfall prüfen.
 
 ### Vermeidungs-Methode (Art. 24)
 - **Anrechnungsmethode** ueberwiegend in DBA-Portugal — entgegen Freistellungsstandard.
 - Folge: deutsche Pensionen voll im Welteinkommen.
 
 ### Besonderheiten
-- **NHR-Status (non-habitual resident)**: ermoeglichte ueber einen Zeitraum von bis zu 10 Jahren eine ueberwiegend begünstigte Besteuerung in Portugal (insb. für auslaendische Pensionen — historisch in Teilen voellige Steuerbefreiung, ab 2020 Mindeststeuer 10 Prozent eingefuehrt). Deutsches BMF prueft Subject-to-Tax-Anwendung nach § 50d Abs. 9 EStG.
-- **NHR-Reform 2024**: Das NHR-Programm ist für Neuzugaenge ab 2024 weitgehend geschlossen; Bestandsschutz für Altfaelle mit NHR-Registrierung vor 2024. Nachfolger ist das IFICI-Regime (Incentivo Fiscal a Investigacao Cientifica e Inovacao — für Wissenschaftler, Hochqualifizierte und bestimmte Investoren). Konkrete Einzelheiten nach portugiesischem Steuerrecht im Anwendungsfall pruefen.
-- **Madeira**: Madeira International Business Center mit ermaessigtem Koerperschaftsteuersatz; DBA-Berechtigung pruefen.
+- **NHR-Status (non-habitual resident)**: ermoeglichte über einen Zeitraum von bis zu 10 Jahren eine ueberwiegend begünstigte Besteuerung in Portugal (insb. für auslaendische Pensionen — historisch in Teilen voellige Steuerbefreiung, ab 2020 Mindeststeuer 10 Prozent eingefuehrt). Deutsches BMF prüft Subject-to-Tax-Anwendung nach § 50d Abs. 9 EStG.
+- **NHR-Reform 2024**: Das NHR-Programm ist für Neuzugaenge ab 2024 weitgehend geschlossen; Bestandsschutz für Altfaelle mit NHR-Registrierung vor 2024. Nachfolger ist das IFICI-Regime (Incentivo Fiscal a Investigacao Cientifica e Inovacao — für Wissenschaftler, Hochqualifizierte und bestimmte Investoren). Konkrete Einzelheiten nach portugiesischem Steuerrecht im Anwendungsfall prüfen.
+- **Madeira**: Madeira International Business Center mit ermaessigtem Koerperschaftsteuersatz; DBA-Berechtigung prüfen.
 - **Pensionen** Art. 18: gesetzliche Renten Wohnsitzstaat, öffentlicher Dienst Kassenstaat.
 
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 ### Phase 3 — Einkunftsart einordnen
 ### Phase 4 — Verteilungs- und Methodenartikel
-### Phase 5 — Subject-to-Tax pruefen (§ 50d Abs. 9 EStG)
+### Phase 5 — Subject-to-Tax prüfen (§ 50d Abs. 9 EStG)
 ### Phase 6 — Erstattung / Erklaerung
 
 ## Strategie und Praxis-Tipps
@@ -89,7 +89,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 ### Erstattungsverfahren portugiesische Quellensteuer
 
-- **Zuständigkeit**: portugiesische Erstattung durch **Autoridade Tributaria e Aduaneira (AT)**, Direccao de Servicos das Relacoes Internacionais. Aktuelle Zuständigkeit auf **portaldasfinancas.gov.pt** pruefen.
+- **Zuständigkeit**: portugiesische Erstattung durch **Autoridade Tributaria e Aduaneira (AT)**, Direccao de Servicos das Relacoes Internacionais. Aktuelle Zuständigkeit auf **portaldasfinancas.gov.pt** prüfen.
 - **Antragsformulare**: portugiesische Modelos (z.B. Modelo 21-RFI) zur Quellensteuer-Erstattung nach DBA; **konkrete Modelo-Nummern vom Anwender mit aktuellem Stand auf portaldasfinancas.gov.pt zu verifizieren** (Modelos werden periodisch aktualisiert).
 - **Frist**: nach portugiesischem LGT regelmaessig **zwei Jahre** ab Steuerentrichtung — sehr knapp! Frueh stellen.
 - **Bearbeitungsdauer AT**: 12-30 Monate.
@@ -108,16 +108,16 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| NHR-Bestandsschutz behalten vs. nach IFICI wechseln | NHR mit 10-Prozent-Sonderbesteuerung auslaendischer Pensionen (ab 2020); endet nach 10 Jahren | IFICI für Wissenschaftler/Hochqualifizierte; engere Voraussetzungen | bei aktiven NHR-Faellen Bestand sichern; Neuzugaenge nur ueber IFICI |
+| NHR-Bestandsschutz behalten vs. nach IFICI wechseln | NHR mit 10-Prozent-Sonderbesteuerung auslaendischer Pensionen (ab 2020); endet nach 10 Jahren | IFICI für Wissenschaftler/Hochqualifizierte; engere Voraussetzungen | bei aktiven NHR-Faellen Bestand sichern; Neuzugaenge nur über IFICI |
 | Algarve-Wohnsitz mit Pension DBA-Anrechnung vs. DE-Wohnsitz | PT-Besteuerung auslaendischer Pensionen (auch DRV); DE-Anrechnung max. DE-Steuer | DE-Wohnsitz: nur deutsche Besteuerung | bei NHR/IFICI Algarve guenstiger; ohne NHR mit deutscher EStG-Belastung haeufig DE-Wohnsitz besser |
 | Madeira-Holding (5 Prozent KSt) vs. Portugal Festland (21 Prozent KSt) | Madeira International Business Center | Festland | bei Pillar-Two-Mindeststeuer 15 Prozent ab 2024 Madeira-Vorteil reduziert |
-| Schachteldividende PT-S.A. an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten | 0 Prozent via Freistellung | EU-MTRL vorzugswuerdig |
+| Schachteldividende PT-S.A. an DE-Mutter über DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten | 0 Prozent via Freistellung | EU-MTRL vorzugswuerdig |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
-- **NHR-Status**: ehemals 10 Jahre Sonderbesteuerung mit Pensionsfreistellung/-ermaessigung — bei Mandanten mit Status vor 2024 Bestandsschutz; ab 2024 Neuzugaenge nur ueber IFICI.
-- **§ 50d Abs. 9 EStG bei NHR**: deutsche Finanzverwaltung prueft Subject-to-Tax — wenn Portugal die DRV-Rente nicht effektiv besteuert (NHR-Befreiung), kann DE-Freistellung versagen. Konkrete Pruefung im Einzelfall.
-- **Madeira International Business Center**: ermaessigte KSt für dort ansaessige Gesellschaften — DBA-Berechtigung pruefen, ggf. Substanztest § 50d Abs. 3 EStG.
+- **NHR-Status**: ehemals 10 Jahre Sonderbesteuerung mit Pensionsfreistellung/-ermaessigung — bei Mandanten mit Status vor 2024 Bestandsschutz; ab 2024 Neuzugaenge nur über IFICI.
+- **§ 50d Abs. 9 EStG bei NHR**: deutsche Finanzverwaltung prüft Subject-to-Tax — wenn Portugal die DRV-Rente nicht effektiv besteuert (NHR-Befreiung), kann DE-Freistellung versagen. Konkrete Prüfung im Einzelfall.
+- **Madeira International Business Center**: ermaessigte KSt für dort ansaessige Gesellschaften — DBA-Berechtigung prüfen, ggf. Substanztest § 50d Abs. 3 EStG.
 - **Anrechnungsmethode statt Freistellung**: Mandanten erwarten oft Freistellung — Beratung dass DBA-PT Anrechnung vorsieht, kann Verlustverwertung verbessern.
 - **Pillar Two**: ab 2024 bei effektiver Belastung unter 15 Prozent deutsche Top-Up-Tax — Madeira-Vorteile teilweise neutralisiert.
 
@@ -131,7 +131,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 >
 > Schritt 3: NHR-Bestandsschutz: 10 Prozent Sonderbesteuerung in PT auf auslaendische Pensionen (seit 2020).
 >
-> Schritt 4: § 50d Abs. 9 EStG-Pruefung in DE: bei effektiver portugiesischer Besteuerung (10 Prozent ist substanziell) regelmaessig Anrechnungsmethode bei DBA-PT.
+> Schritt 4: § 50d Abs. 9 EStG-Prüfung in DE: bei effektiver portugiesischer Besteuerung (10 Prozent ist substanziell) regelmaessig Anrechnungsmethode bei DBA-PT.
 >
 > Schritt 5: In DE: Veranlagung des Welteinkommens; Anrechnung der portugiesischen 10 Prozent = 2.500 EUR auf deutsche EStG (sofern deutsche Besteuerung greift); effektive Gesamtsteuerlast ca. 2.500 - 5.000 EUR je nach Tarif.
 
@@ -147,7 +147,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 >
 > Schritt 4: Madeira-Vorteil real weitgehend neutralisiert; nur noch für Steuerlatenz/Liquiditaet relevant.
 >
-> Anmerkung: konkrete Pillar-Two-Regelungen in §§ 1-100 MinStG (Mindestbesteuerungsgesetz, BGBl. 2023 I) pruefen.
+> Anmerkung: konkrete Pillar-Two-Regelungen in §§ 1-100 MinStG (Mindestbesteuerungsgesetz, BGBl. 2023 I) prüfen.
 
 ## Quellen und Updates
 

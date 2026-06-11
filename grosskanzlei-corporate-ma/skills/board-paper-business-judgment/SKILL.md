@@ -33,10 +33,10 @@ description: "Board Paper und Business Judgment Rule Prüfung für M&A-Entscheid
 
 ## Triage zu Beginn
 
-Vor der Erstellung einer Entscheidungsvorlage klaeren:
+Vor der Erstellung einer Entscheidungsvorlage klären:
 
 1. **Wer entscheidet?** Vorstand (AG, § 76 AktG), Geschaeftsfuehrer (GmbH, § 35 GmbHG), Aufsichtsrat (Zustimmungsvorbehalt, § 111 Abs. 4 AktG), Gesellschafterversammlung (§ 46 GmbHG / § 119 AktG)?
-2. **Freigabevorbehalt geprueft?** Kapitalmarkt-relevante Massnahme erfordert HV-Beschluss (§ 179a AktG); wesentliche Vertraege erfordern AR-Zustimmung (Geschaeftsordnung / Satzung); grenzueberschreitende Transaktionen ggf. FDI-Screening.
+2. **Freigabevorbehalt geprueft?** Kapitalmarkt-relevante Maßnahme erfordert HV-Beschluss (§ 179a AktG); wesentliche Verträge erfordern AR-Zustimmung (Geschaeftsordnung / Satzung); grenzueberschreitende Transaktionen ggf. FDI-Screening.
 3. **Informationsgrundlage vollstaendig?** Business Judgment Rule (§ 93 Abs. 1 Satz 2 AktG) setzt voraus, dass das Organmitglied auf Basis angemessener Informationen handelt. Welche Due-Diligence-Ergebnisse, Gutachten, Beraterberichte liegen vor?
 4. **Alternativen dokumentiert?** Das Board Paper muss ernsthaft geprueft alternativenoptionen enthalten; Vorlage ohne Alternativen erhoert Haftungsrisiko.
 5. **Interessenkonflikte?** Organmitglied an der Transaktion beteiligt oder wirtschaftlich interessiert? Offenlegung und Enthaltung (§ 93 Abs. 1 Satz 3 AktG)?
@@ -68,11 +68,11 @@ Vor der Erstellung einer Entscheidungsvorlage klaeren:
 1. **Entscheidungsgegenstand definieren:** Was ist die konkrete Entscheidung? (M&A-Signing, Kapitalerhoehung, wesentlicher Vertrag, Restrukturierung)
 2. **Zuständigkeitspruefung:** Wer entscheidet? Freigabevorbehalt AR, HV, GV? (§ 111 Abs. 4 AktG, § 179a AktG, § 46 GmbHG)
 3. **Informationsgrundlage zusammenstellen:** DD-Ergebnisse, Fairness Opinion (falls vorhanden), externe Gutachten, Bankbewertung, Branchenreports.
-4. **Alternativen darstellen:** Mindestens zwei echte Alternativen zur Entscheidung beschreiben und bewerten (inkl. "Keine Massnahme").
+4. **Alternativen darstellen:** Mindestens zwei echte Alternativen zur Entscheidung beschreiben und bewerten (inkl. "Keine Maßnahme").
 5. **Risiken und Restrisiken:** Welche Risiken verbleiben nach der Entscheidung? Quantifizierbar? Mitigationsmoeglichkeiten?
-6. **Interessenkonflikte pruefen:** Alle Organmitglieder auf Eigeninteresse pruefen; Enthaltung protokollieren (§ 93 Abs. 1 Satz 3 AktG).
-7. **BJR-Pruefkarte ausfuellen:** Voraussetzungen gemaess obiger Tabelle abarbeiten.
-8. **Legalitaetspflicht pruefen:** Kartellrecht, FDI, MAR, Mitbestimmung, Insolvenzrecht — keine Entscheidung gegen zwingendes Recht.
+6. **Interessenkonflikte prüfen:** Alle Organmitglieder auf Eigeninteresse prüfen; Enthaltung protokollieren (§ 93 Abs. 1 Satz 3 AktG).
+7. **BJR-Pruefkarte ausfuellen:** Voraussetzungen gemäß obiger Tabelle abarbeiten.
+8. **Legalitaetspflicht prüfen:** Kartellrecht, FDI, MAR, Mitbestimmung, Insolvenzrecht — keine Entscheidung gegen zwingendes Recht.
 9. **Board Paper erstellen** und Entscheidungsvorlage zur Unterzeichnung vorlegen.
 10. **Protokollierung:** Beschluss im Sitzungsprotokoll (→ `gesellschaftsrecht:aufsichtsrat-protokoll`) dokumentieren.
 
@@ -150,7 +150,7 @@ Abstimmung: _________________________ Datum: _____________
 
 - Entscheidung, Alternativen, Informationsquellen und Beraterbeitraege darstellen.
 - Due-Diligence-Ergebnisse und Restrisiken knapp priorisieren.
-- Transparenz ueber Erstellungsmethode und Datenbasis sicherstellen.
+- Transparenz über Erstellungsmethode und Datenbasis sicherstellen.
 - Business-Judgment- und Legalitaetspflicht-Aspekte als Pruefkarte ausgeben.
 
 ## Standardausgabe

@@ -106,7 +106,7 @@ Quellen: [Dokument im Datenraum, Seite/Tab]
 
 - Verursacher > Rechtsnachfolger > Grundstueckseigentuemer > Inhaber tatsaechlicher Gewalt.
 - Bei Share Deal: Erwerber tritt als Gesamtrechtsnachfolger in Haftungsposition des Verkaeufers ein.
-- Gesamtschuldner-Ausgleich § 24 BBodSchG: Sanierungskosten koennen intern aufgeteilt werden.
+- Gesamtschuldner-Ausgleich § 24 BBodSchG: Sanierungskosten können intern aufgeteilt werden.
 - Haftungs-Cap im Kaufvertrag gilt nur zwischen Vertragsparteien, nicht gegenueber Behörde.
 
 ## Anschluss-Skills

@@ -3,7 +3,7 @@ name: abo-modell-vergleich-pruefen
 description: "Verbraucherschutzverband Durchsetzung: Abo-Modell: Vergleich prüfen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Abo Modell Vergleich Pruefen
+# Abo Modell Vergleich Prüfen
 
 ## Arbeitsweg
 

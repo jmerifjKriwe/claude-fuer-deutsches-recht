@@ -25,8 +25,8 @@ description: "Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe Rechnun
 ## Zentrale Normen
 - § 130 ZPO — Inhalt von Schriftsaetzen: Vollstaendigkeit von Antraegen und Tatsachen
 - § 253 Abs. 2 Nr. 2 ZPO — Bestimmtheitsgrundsatz beim Klageantrag
-- § 138 ZPO — Wahrheitspflicht und Erklaerungslast: Tatsachen muessen vollstaendig und wahrheitsgemass sein
-- § 43 BRAO — Sorgfaltspflicht: Canvas-Pruefung als Teil anwaltlicher Dokumentenerstellung
+- § 138 ZPO — Wahrheitspflicht und Erklaerungslast: Tatsachen müssen vollstaendig und wahrheitsgemass sein
+- § 43 BRAO — Sorgfaltspflicht: Canvas-Prüfung als Teil anwaltlicher Dokumentenerstellung
 
 ## Canvas-Bereiche
 

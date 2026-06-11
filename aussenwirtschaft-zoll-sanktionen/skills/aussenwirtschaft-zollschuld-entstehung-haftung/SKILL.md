@@ -20,15 +20,15 @@ Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Ueberlassung z
 ## Mandantenfall
 
 - Spediteur wird als Zollschuldner in Anspruch genommen obwohl er nur Vertreter war; Haftungsabgrenzung.
-- Unternehmen erhalt Nacherhebungsbescheid für 3 Jahre alte Zollanmeldungen; Verjährung pruefen.
+- Unternehmen erhalt Nacherhebungsbescheid für 3 Jahre alte Zollanmeldungen; Verjährung prüfen.
 - Transitverfahren nicht beendet; Zollschuldentstehung nach Art. 79 und Haftungsverteilung.
 
 ## Erste Schritte
 
 1. Entstehungstatbestand identifizieren: Art. 77 (ordentliche Zollschuld) oder Art. 79 (Pflichtversto)?
 2. Schuldnerkreis bestimmen: Anmelder Zollschuldner kraft Gesetz und Gesamtschuldner.
-3. Nacherhebungsfrist pruefen: Art. 103 UZK 3 Jahre; 10 Jahre bei strafrechtlich relevantem Verhalten.
-4. Erlass-Option pruefen: Art. 116 ff. UZK bei unabwendbarem Ereignis oder offensichtlichem Versehen.
+3. Nacherhebungsfrist prüfen: Art. 103 UZK 3 Jahre; 10 Jahre bei strafrechtlich relevantem Verhalten.
+4. Erlass-Option prüfen: Art. 116 ff. UZK bei unabwendbarem Ereignis oder offensichtlichem Versehen.
 5. Einspruch gegen Nacherhebungsbescheid vorbereiten: § 347 AO Frist 1 Monat.
 6. Haftungsabgrenzung zwischen indirektem Vertreter Auftraggeber und Befoerderer dokumentieren.
 

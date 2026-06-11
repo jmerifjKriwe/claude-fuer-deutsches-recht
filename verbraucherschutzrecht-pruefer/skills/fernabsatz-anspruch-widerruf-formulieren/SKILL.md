@@ -3,7 +3,7 @@ name: fernabsatz-anspruch-widerruf-formulieren
 description: "Prüfer: Fernabsatz: Anspruch prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Fernabsatz Anspruch Pruefen
+# Fernabsatz Anspruch Prüfen
 
 ## Arbeitsweg
 

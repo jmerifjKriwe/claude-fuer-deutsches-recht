@@ -24,7 +24,7 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 - VO (EU) 2024/1689 KI-VO:
  - Art. 6, Anhang III: Hochrisiko-KI-Kategorien
  - Art. 26 Betreiberpflichten (englisch: deployers): bestimmungsgemaesse Nutzung, menschliche Aufsicht, Logging, Information Betroffener
- - Art. 27 Pflicht zur Grundrechte-Folgenabschaetzung (FRIA) für bestimmte Betreiber (öffentliche Stellen, oeffentlich finanzierte Dienste, Kreditwuerdigkeit, Kranken- und Lebensversicherung)
+ - Art. 27 Pflicht zur Grundrechte-Folgenabschaetzung (FRIA) für bestimmte Betreiber (öffentliche Stellen, öffentlich finanzierte Dienste, Kreditwuerdigkeit, Kranken- und Lebensversicherung)
  - Art. 50 Transparenzpflichten generative KI
 - EDSA-Stellungnahme 28/2024 zu KI-Modellen (Auslegung DSGVO bei KI).
 - EDSA-Leitlinien WP 248 rev.01 zur DSFA.
@@ -34,17 +34,17 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 
 - Anbieter (provider) entwickelt oder bringt das KI-System in Verkehr und ist primaer adressiert durch Art. 8 bis Art. 21 KI-VO.
 - Betreiber (deployer) setzt das KI-System ein und ist adressiert durch Art. 26, 27 KI-VO.
-- Die DSGVO-Verantwortlichkeit haengt nicht an dieser Rolle, sondern an der Entscheidung ueber Zwecke und Mittel der Verarbeitung (Art. 4 Nr. 7 DSGVO).
+- Die DSGVO-Verantwortlichkeit haengt nicht an dieser Rolle, sondern an der Entscheidung über Zwecke und Mittel der Verarbeitung (Art. 4 Nr. 7 DSGVO).
 - Praxisregel: Wer ein KI-System für eigene Personalentscheidung, Kundenbewertung oder Behördenentscheidung nutzt, ist regelmaessig Betreiber nach KI-VO und Verantwortlicher nach DSGVO.
 
 ## Ablauf 6-Schritte-Methodik
 
-1. **Verarbeitungsbeschreibung.** Welches KI-System, welcher Zweck, welche Datenarten, welche Betroffenenkreise? Anbieter und Betreiber benennen, Anhang-III-Kategorie pruefen.
-2. **Verhaeltnismaessigkeitspruefung.** Notwendigkeit und Verhaeltnismaessigkeit der KI-gestuetzten Verarbeitung; Pruefung ob ein nicht-automatisiertes Verfahren ausreicht. Art. 5 Abs. 1 DSGVO und Erforderlichkeitspruefung.
+1. **Verarbeitungsbeschreibung.** Welches KI-System, welcher Zweck, welche Datenarten, welche Betroffenenkreise? Anbieter und Betreiber benennen, Anhang-III-Kategorie prüfen.
+2. **Verhaeltnismaessigkeitspruefung.** Notwendigkeit und Verhältnismäßigkeit der KI-gestuetzten Verarbeitung; Prüfung ob ein nicht-automatisiertes Verfahren ausreicht. Art. 5 Abs. 1 DSGVO und Erforderlichkeitspruefung.
 3. **Risikoanalyse.** Doppelblick:
- - DSGVO-Risiken: Profiling, automatisierte Entscheidung, Trainingsdatenleck, Halluzination ueber Personen.
+ - DSGVO-Risiken: Profiling, automatisierte Entscheidung, Trainingsdatenleck, Halluzination über Personen.
  - KI-VO-Risiken: Diskriminierung durch Datenbias, fehlende menschliche Aufsicht, fehlende Robustheit.
-4. **Massnahmen.** TOMs nach Art. 32 DSGVO plus KI-VO-Massnahmen: menschliche Aufsicht, Logging, Transparenz, Information Betroffener (Art. 26 Abs. 11 KI-VO).
+4. **Maßnahmen.** TOMs nach Art. 32 DSGVO plus KI-VO-Maßnahmen: menschliche Aufsicht, Logging, Transparenz, Information Betroffener (Art. 26 Abs. 11 KI-VO).
 5. **Restrisiko.** Doppelte Restrisikobewertung — für DSFA (Art. 35 DSGVO) und für FRIA (Art. 27 KI-VO), wenn diese Pflicht besteht.
 6. **Konsultation / Genehmigung.** DSB Anhörung Art. 35 Abs. 2 DSGVO. Bei hohem Restrisiko: Art. 36 DSGVO Vorabkonsultation. Nach KI-VO: nationale Marktueberwachungsbehoerde nach Art. 70 KI-VO ggf. einbinden. Integration in Verarbeitungsverzeichnis und KI-Bestandsverzeichnis.
 
@@ -98,9 +98,9 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 
 ## Typische Fehler
 
-- DSFA und FRIA werden vermischt — beide Instrumente sind rechtlich eigenstaendig und muessen getrennt nachweisbar sein.
+- DSFA und FRIA werden vermischt — beide Instrumente sind rechtlich eigenstaendig und müssen getrennt nachweisbar sein.
 - Betreiberpflichten Art. 26 KI-VO werden auf den Anbieter abgeschoben — die Pflicht trifft den Einsetzenden.
-- Logging-Pflicht Art. 26 Abs. 6 KI-VO wird mit DSGVO-Loeschpflichten konfligierend behandelt, ohne Pruefung der Rechtsgrundlage des Loggings.
+- Logging-Pflicht Art. 26 Abs. 6 KI-VO wird mit DSGVO-Loeschpflichten konfligierend behandelt, ohne Prüfung der Rechtsgrundlage des Loggings.
 - Anhang III KI-VO wird nicht geprueft — Kategorisierung fehlt.
 - KI-Anbieter im Drittland: zusaetzliche Transferpruefung uebersehen (Skill dsfa-für-internationale-datentransfers).
 - Generative KI: Art. 50 KI-VO Transparenzpflichten uebersehen.

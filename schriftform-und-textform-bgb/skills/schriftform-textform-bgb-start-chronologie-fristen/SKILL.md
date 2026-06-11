@@ -128,13 +128,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift` | Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. § 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen… |
 | `textform-paragraph-126b-bgb-dauerhafter-datentraeger` | Mandant schickte Erklärung per E-Mail WhatsApp oder SMS und fragt ob Textform eingehalten wurde. § 126b BGB Textform dauerhafter Datentraeger. Prüfraster: lesbare Erklärung Person des Erklärenden erkennbar Abschluss… |
 | `verteidigungsstrategie-bei-formangriff` | Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB)… |
-| `wohnraummiete-kuendigung-paragraph-568-bgb` | Vermieter oder Mieter hat Kündigung des Wohnraummietvertragsempfangen oder versendet und Anwalt prüft Schriftform. § 568 Abs. 1 BGB Schriftformerfordernis Kündigung Wohnraummietvertrag. Prüfraster: qES grundsaetzlich… |
+| `wohnraummiete-kuendigung-paragraph-568-bgb` | Vermieter oder Mieter hat Kündigung des Wohnraummietvertragsempfangen oder versendet und Anwalt prüft Schriftform. § 568 Abs. 1 BGB Schriftformerfordernis Kündigung Wohnraummietvertrag. Prüfraster: qES grundsätzlich… |
 | `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb` | Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung… |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Worum geht es?
 
-Das deutsche Zivilrecht kennt eine Hierarchie von Formerfordernissen: von der Textform (§ 126b BGB) ueber die Schriftform mit eigenhaendiger Unterschrift (§ 126 BGB) und die elektronische Form mit qualifizierter elektronischer Signatur (§ 126a BGB) bis zur notariellen Beurkundung (§§ 128, 129 BGB). Bei Verstoss gegen ein gesetzliches Formerfordernis ist die Erklaerung nach § 125 BGB nichtig; bei gewillkuerter Form koennen die Parteien Abweichendes vereinbaren.
+Das deutsche Zivilrecht kennt eine Hierarchie von Formerfordernissen: von der Textform (§ 126b BGB) über die Schriftform mit eigenhaendiger Unterschrift (§ 126 BGB) und die elektronische Form mit qualifizierter elektronischer Signatur (§ 126a BGB) bis zur notariellen Beurkundung (§§ 128, 129 BGB). Bei Verstoss gegen ein gesetzliches Formerfordernis ist die Erklaerung nach § 125 BGB nichtig; bei gewillkuerter Form können die Parteien Abweichendes vereinbaren.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -149,7 +149,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Fachbegriffe (kurz erklaert)
 
 - **Schriftform** — eigenhaendige Namenszeichnung auf Papier, die den Text raeumlich abschliesst (§ 126 BGB); bei mehrseitigen Vertraegen: Urkundeneinheit.
-- **Textform** — lesbare Erklaerung auf einem dauerhaften Datentraeger, Person des Erklaerenden und Abschluss der Erklaerung erkennbar (§ 126b BGB); E-Mail und PDF genuegen.
+- **Textform** — lesbare Erklaerung auf einem dauerhaften Datentraeger, Person des Erklaerenden und Abschluss der Erklaerung erkennbar (§ 126b BGB); E-Mail und PDF genügen.
 - **qES** — qualifizierte elektronische Signatur nach Art. 3 Nr. 12 eIDAS-VO; ersetzt die Schriftform nach § 126a BGB, wenn nicht gesetzlich ausgeschlossen.
 - **Nichtigkeit** — Rechtsfolge bei Verstoss gegen gesetzliches Formerfordernis (§ 125 BGB); Gegenleistung kann aber nach § 812 BGB zurueckgefordert werden.
 - **Zugang** — Voraussetzung für die Wirksamkeit empfangsbeduerftiger Willenserklaerungen (§ 130 BGB); Erklaerung muss so in den Machtbereich gelangen, dass der Empfaenger sie zur Kenntnis nehmen kann.
@@ -165,7 +165,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - §§ 130a, 130e ZPO — elektronischer Schriftsatz und Formfiktion
 - § 46h ArbGG — arbeitsgerichtliche Formfiktion
 - § 311b BGB — notarielle Beurkundung bei Grundstuecksgeschaeften
-- § 550 BGB — Schriftform bei Mietvertraegen ueber mehr als ein Jahr
+- § 550 BGB — Schriftform bei Mietvertraegen über mehr als ein Jahr
 - § 568 BGB — Schriftform bei Kuendigung von Wohnraummietvertraegen
 - § 14 Abs. 4 TzBfG i.V.m. § 623 BGB — Schriftformzwang bei Befristungsabreden und Kuendigungen
 - § 656a BGB — Textform beim Maklervertrag
@@ -173,10 +173,10 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Besteht ein gesetzliches oder ein gewillkuertes Formerfordernis? Handelt es sich um Schriftform, Textform oder Beurkundung?
+1. Mandantenkonstellation klären: Besteht ein gesetzliches oder ein gewillkuertes Formerfordernis? Handelt es sich um Schriftform, Textform oder Beurkundung?
 2. Phase des Mandats bestimmen: Praevention (Klauselgestaltung), akute Formpruefung (bestehendes Dokument) oder Reaktion (Formmangel-Einwand der Gegenseite)?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: Verjaebrung nach § 195 BGB gilt auch für Bereicherungsansprueche nach Formmangel.
+4. Eilfristen prüfen: Verjaebrung nach § 195 BGB gilt auch für Bereicherungsansprueche nach Formmangel.
 5. Anschluss-Skill bestimmen: Nach Formpruefung entweder Klauselgenerator (Preaevention) oder Verteidigungsstrategie (Reaktion).
 
 ## Skill-Tour (was gibt es hier?)
@@ -185,7 +185,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - `form-checker-für-vertrag-oder-willenserklaerung` — Schnelle Formanalyse: welche Form ist vorgeschrieben, wurde sie eingehalten, was passiert bei Verstoss?
 - `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift` — Schriftform: Namenszeichnung, Urkundeneinheit, Faksimile, Blankounterschrift und BGH-Linie.
 - `elektronische-form-paragraph-126a-bgb-qes` — qES als Schriftformersatz: eIDAS-Anforderungen, qES-Zugang, beA-Abgrenzung, § 130e ZPO und § 46h ArbGG.
-- `textform-paragraph-126b-bgb-dauerhafter-datentraeger` — Textform: E-Mail, WhatsApp, SMS, PDF — Pruefung und Empfehlung.
+- `textform-paragraph-126b-bgb-dauerhafter-datentraeger` — Textform: E-Mail, WhatsApp, SMS, PDF — Prüfung und Empfehlung.
 - `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb` — Zugang nach § 130 BGB: Machtbereichslehre, Briefkasten, Abrufbarkeit, Beweis.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - `wohnraummiete-kuendigung-paragraph-568-bgb` — Schriftform bei Wohnraum-Kuendigung: qES-Zugang, Empfehlung Papier per Boten.
@@ -217,14 +217,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Kuendigung per WhatsApp in der Annahme, Textform sei immer ausreichend: Bei Wohnraum-Kuendigung ist Schriftform (§ 568 BGB) erforderlich; WhatsApp genuegt nicht.
 - qES-Dokument wird als Attachment versandt und der Empfang als Zugang gewertet: Zugang ist erst mit Pruefmoeglichkeit der Signatur gegeben.
 - Schriftformklausel ohne BGH-Konformitaetspruefung in AGB aufgenommen: § 305b BGB macht Individualabrede wirksam auch gegen Klausel.
-- Formmangel erst in der Klage entdeckt: Nachtraegliche Heilung ist bei den meisten Formarten nicht moeglich; praevention hat Vorrang.
+- Formmangel erst in der Klage entdeckt: Nachtraegliche Heilung ist bei den meisten Formarten nicht möglich; praevention hat Vorrang.
 - Beurkundungspflicht bei GmbH-Anteilsuebertragung uebersehen: Formverstoss fuehrt zu Nichtigkeit des Vertrages (§ 15 Abs. 3 GmbHG).
 
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
 - BGB §§ 125-130 in geltender Fassung
-- TzBfG § 14 Abs. 4 in geltender Fassung. Aenderung durch das Vierte Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024): seit 01.01.2025 grundsaetzlich Textform für Befristungsabrede, soweit kein Tarifvertrag entgegensteht.
+- TzBfG § 14 Abs. 4 in geltender Fassung. Aenderung durch das Vierte Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024): seit 01.01.2025 grundsätzlich Textform für Befristungsabrede, soweit kein Tarifvertrag entgegensteht.
 - § 130e ZPO (eingefuehrt 17.07.2024) und § 46h ArbGG in geltender Fassung.
 - VO (EU) Nr. 910/2014 (eIDAS-VO).
 - Leitlinien Rechtsprechung 2024/2025:

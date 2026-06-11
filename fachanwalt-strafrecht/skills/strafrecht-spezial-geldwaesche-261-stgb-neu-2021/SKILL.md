@@ -20,14 +20,14 @@ description: "Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendung
 
 ## Worum geht es
 
-Spezial-Mandat: Anklage Geldwaesche. Klassische Konstellationen: Money Mules nach Cyberbetrug, Bargeldgeschaefte mit Drogengeld, Cum-Ex-Stripping, Krypto-Mixer und Tornado Cash, Immobilieninvestitionen mit nicht-versteuertem Vermoegen, "Geschenke" aus Bandenbetrug, NFT- und Token-Geschaefte.
+Spezial-Mandat: Anklage Geldwaesche. Klassische Konstellationen: Money Mules nach Cyberbetrug, Bargeldgeschaefte mit Drogengeld, Cum-Ex-Stripping, Krypto-Mixer und Tornado Cash, Immobilieninvestitionen mit nicht-versteuertem Vermögen, "Geschenke" aus Bandenbetrug, NFT- und Token-Geschaefte.
 
 **Wichtig:** Seit Reform vom **9. Maerz 2021** (Geldwaeschebekaempfungsgesetz vom 09.03.2021, BGBl. I S. 327, in Kraft seit 18.03.2021) gilt der **All-Crimes-Approach**: **JEDE Straftat** taugt als Vortat, der bisherige Vortatkatalog ist entfallen. Strafrahmen Freiheitsstrafe drei Monate bis fuenf Jahre.
 
 ## Eingaben
 
 - Anklageschrift / Ermittlungsschrift.
-- Vortat-Anklage / -Verdacht (jede Straftat moeglich).
+- Vortat-Anklage / -Verdacht (jede Straftat möglich).
 - Tathandlungen: Vermoegensbewegung, Empfaengerkonto, Wallet-Adressen.
 - Wirtschaftliche Erklaerung der Mittelherkunft.
 - Geldwaesche-Bekanntmachung GwG-Pflichtige (Banken, Notare, Steuerberater, Rechtsanwaelte, Immobilienmakler, Krypto-Custodian).
@@ -39,7 +39,7 @@ Spezial-Mandat: Anklage Geldwaesche. Klassische Konstellationen: Money Mules nac
 Wer einen Gegenstand, der aus einer **rechtswidrigen Tat** herruehrt:
 
 1. **verbirgt,**
-2. die **Aufklaerung** ueber dessen Herkunft oder das Auffinden, den Verfall, die Einziehung oder die Sicherstellung **vereitelt oder gefaehrdet,**
+2. die **Aufklaerung** über dessen Herkunft oder das Auffinden, den Verfall, die Einziehung oder die Sicherstellung **vereitelt oder gefaehrdet,**
 3. **sich oder einem Dritten verschafft** oder
 4. **verwahrt oder für sich oder einen Dritten verwendet,** wenn er die Herkunft des Gegenstandes zu dem Zeitpunkt gekannt hat, in dem er ihn erlangt hat.
 
@@ -69,7 +69,7 @@ Wer einen Gegenstand, der aus einer **rechtswidrigen Tat** herruehrt:
 Wer freiwillig:
 
 1. die Tat bei der zuständigen Behörde anzeigt oder freiwillig veranlasst, dass die Anzeige erstattet wird, und
-2. soweit moeglich die Sicherstellung des Gegenstandes bewirkt,
+2. soweit möglich die Sicherstellung des Gegenstandes bewirkt,
 
 wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil bereits entdeckt war.
 
@@ -78,7 +78,7 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 - **Vortat bestreiten.** Auch wenn Vortatkatalog entfallen — die Vortat muss als rechtswidrige Tat feststellbar sein. Bei nicht beweisbarer Vortat-Identifikation kann § 261 entfallen.
 - **Subjektiver Tatbestand bei Money Mules.** Bei nicht-eingearbeiteten Money Mules ohne Kenntnis der Vortat: Vorsatz und Leichtfertigkeit beide angreifen. Werbungsanzeigen "Schnell Geld verdienen" plausible Erklaerung?
 - **Kryptotransaktionen.** Bei Tornado Cash und Mixer-Verwendung Argument der Privacy nicht zwingend gleich Geldwaesche; aber Aufmerksamkeit erhoeht.
-- **GwG-Verpflichtete:** Bei Bank- / Anwalt- / Steuerberater-Mandanten Pflichtenverletzung pruefen; Compliance-Defence darstellen.
+- **GwG-Verpflichtete:** Bei Bank- / Anwalt- / Steuerberater-Mandanten Pflichtenverletzung prüfen; Compliance-Defence darstellen.
 - **§ 261 Abs. 9 StGB Selbstanzeige.** Bei rechtzeitiger Anzeige vor Entdeckung Strafausschluss.
 - **Verstaendigung § 257c StPO** bei Massenfaellen ueblich.
 
@@ -95,7 +95,7 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 
 ## Konkurrenzen
 
-- **§ 261 StGB / Vortat.** Seit Selbstgeldwaesche-Regelung § 261 Abs. 7 StGB neben Vortat moeglich, sofern eigenstaendiges Unrecht (z. B. Verschleierung).
+- **§ 261 StGB / Vortat.** Seit Selbstgeldwaesche-Regelung § 261 Abs. 7 StGB neben Vortat möglich, sofern eigenstaendiges Unrecht (z. B. Verschleierung).
 - **§ 261 StGB / § 263 StGB Betrug.** Bei Money Mules oft Tateinheit (eigener Betrug plus Geldwaesche).
 - **§ 261 StGB / § 232a StGB Menschenhandel.** Bei Zwangslage von Money Mules.
 - **§ 261 StGB / § 370 AO Steuerhinterziehung.** Bei verschleierten Steueranlagen.
@@ -108,7 +108,7 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 - **§ 261 Abs. 4 StGB** besonders schwere Faelle sechs Monate bis zehn Jahre.
 - **§ 261 Abs. 6 StGB** leichtfertige Geldwaesche bis zwei Jahre oder Geldstrafe.
 - **§ 46 StGB** Vermoegensumfang, Tatdauer, Anzahl Transaktionen, Compliance-Defizite.
-- **Einziehung § 73 StGB** Tatertrag (gewaschener Wert). § 76a StGB selbststaendige Einziehung moeglich.
+- **Einziehung § 73 StGB** Tatertrag (gewaschener Wert). § 76a StGB selbststaendige Einziehung möglich.
 - **§ 73d StGB erweiterte Einziehung** bei Strukturen.
 - **Berufsverbot § 70 StGB** bei berufsbezogener Tat (Steuerberater, RA, Banker).
 - **Disqualifikation § 6 GmbHG** Geschaeftsfuehrer (5 Jahre).
@@ -122,7 +122,7 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 
 ### Antrag § 261 Abs. 9 StGB
 
-"Es wird Antrag auf Anerkennung der taetigen Reue gemaess § 261 Abs. 9 StGB gestellt. Der Mandant hat am [Datum] vor Bekanntwerden der Ermittlungen der zuständigen Staatsanwaltschaft [Ort] eine umfassende Selbstanzeige erstattet (Anlage K-1) und gleichzeitig die Sicherstellung der noch verfuegbaren Vermoegenswerte in Hoehe von [Betrag] EUR bewirkt (Anlage K-2). Die Tat war zu diesem Zeitpunkt nicht ganz oder zum Teil entdeckt; die Strafbarkeit entfaellt."
+"Es wird Antrag auf Anerkennung der taetigen Reue gemäß § 261 Abs. 9 StGB gestellt. Der Mandant hat am [Datum] vor Bekanntwerden der Ermittlungen der zuständigen Staatsanwaltschaft [Ort] eine umfassende Selbstanzeige erstattet (Anlage K-1) und gleichzeitig die Sicherstellung der noch verfuegbaren Vermoegenswerte in Höhe von [Betrag] EUR bewirkt (Anlage K-2). Die Tat war zu diesem Zeitpunkt nicht ganz oder zum Teil entdeckt; die Strafbarkeit entfaellt."
 
 ## Quellen Stand 06/2026
 

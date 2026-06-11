@@ -34,7 +34,7 @@ US-Cloud-Anbieter wird vom DOJ aufgefordert Daten herauszugeben.
 
 ## Arbeitsergebnis
 
-Beachtung DSGVO; Garantieklauseln; SCC plus zusaetzliche Massnahmen.
+Beachtung DSGVO; Garantieklauseln; SCC plus zusaetzliche Maßnahmen.
 
 ## Belege und Aktenlücken
 

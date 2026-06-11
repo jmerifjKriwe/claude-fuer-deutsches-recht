@@ -180,14 +180,14 @@ Signifikante ART/EMT (Art. 43):
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — MiCA Art. 16-Zulassung für Stablecoin beantragen | Antragsbausteine nach Template unten |
-| Variante A — Emittent bereits BaFin-reguliert (E-Geld-Institut) | Vereinfachter Zulassungsweg Art. 17 MiCA pruefen |
+| Variante A — Emittent bereits BaFin-reguliert (E-Geld-Institut) | Vereinfachter Zulassungsweg Art. 17 MiCA prüfen |
 | Variante B — Token uebersteigt Schwellenwert (signifikant) | Kategorie signifikanter EMT; EBA-Aufsicht beachten |
-| Variante C — Pilot-Emission vor vollstaendiger MiCA-Zulassung | Sandbox-Regimes pruefen; Rechtsrisiko dokumentieren |
+| Variante C — Pilot-Emission vor vollstaendiger MiCA-Zulassung | Sandbox-Regimes prüfen; Rechtsrisiko dokumentieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -225,7 +225,7 @@ Begründung:
 [Rechtsanwalt/-anwaeltin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

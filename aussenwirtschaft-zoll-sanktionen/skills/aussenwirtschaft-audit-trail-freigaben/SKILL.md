@@ -19,8 +19,8 @@ Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: 
 
 ## Mandantenfall
 
-- BAFA prueft Exporteur nach wiederholten Genehmigungsantraegen; Auditoren verlangen vollstaendigen Freigabe-Trail.
-- Hauptzollamt fordert bei Aussen-pruefung lueckenlosen Nachweis für Sanktionsscreening der letzten 3 Jahre.
+- BAFA prüft Exporteur nach wiederholten Genehmigungsantraegen; Auditoren verlangen vollstaendigen Freigabe-Trail.
+- Hauptzollamt fordert bei Aussen-prüfung lueckenlosen Nachweis für Sanktionsscreening der letzten 3 Jahre.
 - Unternehmensberatung hilft KMU beim Aufbau ersttauglicher Exportkontroll-Dokumentation für ICP.
 
 ## Erste Schritte

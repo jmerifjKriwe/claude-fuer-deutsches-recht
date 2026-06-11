@@ -24,12 +24,12 @@ description: "Baut Aktenstruktur für Belege, Freigaben, Portal-Screenshots, Kon
 
 1. Welche Belege liegen wo?
 2. Welche Entscheidungen wurden von wem freigegeben?
-3. Welche Portalaktionen muessen dokumentiert werden?
+3. Welche Portalaktionen müssen dokumentiert werden?
 4. Welche API- oder JSON-Exportantworten belegen den öffentlichen Datenstand?
 
 ## API-Revisionsspur
 
-Fuer jeden API- oder JSON-Export muss die Akte enthalten:
+Für jeden API- oder JSON-Export muss die Akte enthalten:
 
 - Abrufdatum und `sourceDate`
 - verwendeter Endpunkt, Suchparameter und Cursor

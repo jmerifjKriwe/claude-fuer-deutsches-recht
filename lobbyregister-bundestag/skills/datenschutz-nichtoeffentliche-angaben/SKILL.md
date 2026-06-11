@@ -23,7 +23,7 @@ description: "Ordnet öffentliche und nicht öffentliche Registerangaben, person
 ## Leitfragen
 
 1. Welche Angaben werden im Portal veroeffentlicht?
-2. Welche Daten bleiben nicht oeffentlich?
+2. Welche Daten bleiben nicht öffentlich?
 3. Welche Einwilligungen, Informationspflichten oder internen Freigaben fehlen?
 
 ## Quellenanker

@@ -23,14 +23,14 @@ description: "Student beginnt Hausarbeit und braucht vollständige Begleitung vo
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 13 JAG NRW — Anforderungen an Hausarbeiten im Examen: voellig eigensatndige wissenschaftliche Leistung
+- § 13 JAG NRW — Anforderungen an Hausarbeiten im Examen: völlig eigensatndige wissenschaftliche Leistung
 - § 1 PruefO Jura (beispielhaft) — Eigenstaendigkeit als Grundprinzip jeder juristischen Pruefungsleistung
 - §§ 133, 157 BGB — Methodische Basis für korrekte Auslegung im Workflow
 - § 242 BGB — Treu und Glauben: umfasst auch sorgfaeltige wissenschaftliche Arbeit
 
 ## Vorsicht: hiermit bitte nicht mogeln im Studium
 
-Dieser Skill und alle Skills im Plugin `hausarbeitenmacher` sind Lern- und Trainingswerkzeuge. Vom Plugin generierte Texte (Gliederungs-Vorschlag Subsumtion Argumentations-Skizze Probe-Gutachten) duerfen **nicht** als eigene Leistung in einer Hausarbeit Seminararbeit Klausur muendlichen Prüfung oder im juristischen Vorbereitungsdienst eingereicht werden. Das waere ein Taeuschungsversuch im Sinne der Prüfungsordnung der jeweiligen Universität bzw. Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbarer Vorschriften der anderen Bundesländer. Folge ist regelmäßig Nichtbestehen Aberkennung Disziplinarverfahren. Erlaubter Lernweg: zuerst selbst denken und schreiben dann mit dem Plugin gegenprüfen hinterfragen verbessern lassen.
+Dieser Skill und alle Skills im Plugin `hausarbeitenmacher` sind Lern- und Trainingswerkzeuge. Vom Plugin generierte Texte (Gliederungs-Vorschlag Subsumtion Argumentations-Skizze Probe-Gutachten) dürfen **nicht** als eigene Leistung in einer Hausarbeit Seminararbeit Klausur muendlichen Prüfung oder im juristischen Vorbereitungsdienst eingereicht werden. Das waere ein Taeuschungsversuch im Sinne der Prüfungsordnung der jeweiligen Universität bzw. Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbarer Vorschriften der anderen Bundesländer. Folge ist regelmäßig Nichtbestehen Aberkennung Disziplinarverfahren. Erlaubter Lernweg: zuerst selbst denken und schreiben dann mit dem Plugin gegenprüfen hinterfragen verbessern lassen.
 
 Das Plugin macht zwei Dinge unterschiedlich von einem Schemata-Lieferer:
 

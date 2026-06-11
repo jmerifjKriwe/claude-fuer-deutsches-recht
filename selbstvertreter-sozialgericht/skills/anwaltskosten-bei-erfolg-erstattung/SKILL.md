@@ -36,14 +36,14 @@ Sie haben einen Anwalt und Sie haben gewonnen. Die Beklagte muss die Anwaltskost
 
 - **§ 193 SGG** — Erstattung aussergerichtlicher Kosten.
 - **§ 197 SGG** — Kostenfestsetzung.
-- **§§ 1 ff. RVG** — Rechtsanwalts-Verguetung.
+- **§§ 1 ff. RVG** — Rechtsanwalts-Vergütung.
 - **VV RVG** — Verguetungs-Verzeichnis.
 
 ## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wer rechnet ab?
 
-- **Mit eigenem Anwalt**: Anwalt stellt Rechnung an Beklagte (ueber Sie).
+- **Mit eigenem Anwalt**: Anwalt stellt Rechnung an Beklagte (über Sie).
 - **PKH**: Anwalt rechnet mit Staatskasse ab; Staatskasse holt sich Erstattung von Beklagter.
 - **Sozialverband**: Verband rechnet ab.
 
@@ -90,7 +90,7 @@ Bei PKH: Staatskasse zahlt zunaechst, holt sich dann das Geld von Beklagter zuru
 
 Festsetzungsbeschluss ist Vollstreckungstitel. Beklagte zahlt meist binnen Wochen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Gegenstandswert** ist wichtig: bei laufenden Leistungen oft 3-Jahres-Betrag.
 - **Erfolgsquote**: Bei Teilerfolg anteilige Erstattung.
@@ -100,11 +100,11 @@ Festsetzungsbeschluss ist Vollstreckungstitel. Beklagte zahlt meist binnen Woche
 
 - Anwaltsrechnung selbst gezahlt ohne Antrag → § 193-Antrag stellen
 - Bei Teilerfolg vergessen → anteilig erstattbar
-- Bei PKH keine Anrechnung erwartet → Mehrbetrag pruefen
+- Bei PKH keine Anrechnung erwartet → Mehrbetrag prüfen
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. RVG aktuell. Konkrete Gebühren-Saetze online pruefen.
+Stand: 05/2026. RVG aktuell. Konkrete Gebühren-Saetze online prüfen.
 
 ## Normen und Rechtsprechung
 
@@ -131,6 +131,6 @@ Stand: 05/2026. RVG aktuell. Konkrete Gebühren-Saetze online pruefen.
 
 ### Anwendung im Skill
 
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

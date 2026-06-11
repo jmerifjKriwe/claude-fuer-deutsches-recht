@@ -61,12 +61,12 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 
 ## Praktikertipps Verteidigung
 
-- **Versicherungsschutz pruefen.** Bestand zum Tatzeitpunkt tatsaechlich Versicherung für die Sache? Bei abgelaufenem Vertrag oder fehlender Pramienzahlung Tatbestand verneint.
+- **Versicherungsschutz prüfen.** Bestand zum Tatzeitpunkt tatsaechlich Versicherung für die Sache? Bei abgelaufenem Vertrag oder fehlender Pramienzahlung Tatbestand verneint.
 - **Absicht Leistungserlangung** angreifen. Bei Sachzerstoerung aus Wut, Verzweiflung oder anderen Motiven (nicht versicherungsbezogen) entfaellt Tatbestand.
 - **Manipulationsabsicht versus Versuch § 263 StGB.** Bei Schadensmeldung nach Manipulation wird oft sofort § 263 StGB versucht (Vorrang).
 - **Brand- oder KFZ-Gutachten** sezieren: Brandbeschleuniger, Kurzschluss, technischer Defekt vs. Manipulation. Eigenes Gutachten beauftragen.
 - **Geltungsmachung Versicherungsleistung** zurueckziehen → bei § 263 StGB nur Versuch (Strafmilderung § 23 Abs. 2 StGB i.V.m. § 49 Abs. 1 StGB); § 265 oft schon vollendet.
-- **Ruecktritt § 24 StGB** vom Versuch des § 263 StGB pruefen.
+- **Ruecktritt § 24 StGB** vom Versuch des § 263 StGB prüfen.
 
 ## Trade-off-Matrix
 
@@ -81,7 +81,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 ## Konkurrenzen
 
 - **§ 265 StGB / § 263 StGB.** Subsidiaritaet — § 263 vorrangig bei vollendetem Vermoegensschaden.
-- **§ 265 StGB / § 303 StGB Sachbeschaedigung.** Tateinheit moeglich bei eigener fremder Sache (z. B. Leasing).
+- **§ 265 StGB / § 303 StGB Sachbeschaedigung.** Tateinheit möglich bei eigener fremder Sache (z. B. Leasing).
 - **§ 265 StGB / § 306 StGB Brandstiftung.** Tateinheit bei Auto- oder Hausbrand.
 - **§ 265 StGB / § 145d StGB Vortaeuschen einer Straftat.** Tateinheit bei vorgetaeuschtem Diebstahl.
 - **§ 265 StGB / § 263 V StGB.** Bei Bandenstrukturen (organisierte Autoabbrand-Ringe).
@@ -90,7 +90,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 
 - **Strafrahmen** Freiheitsstrafe bis drei Jahre oder Geldstrafe (Vergehen).
 - **§ 46 StGB** Schadenshoehe (Versicherungssumme), Vorbereitung, Wiedergutmachung.
-- **Einziehung § 73 StGB** bei erlangter Versicherungsleistung (i.d.R. dann ueber § 263 StGB).
+- **Einziehung § 73 StGB** bei erlangter Versicherungsleistung (i.d.R. dann über § 263 StGB).
 - **Berufsverbot § 70 StGB** bei berufsbezogener Tat (Versicherungsvertreter, Sachverstaendiger).
 - **Zivilrechtliche Versicherungsrueckforderung** parallel; § 81 VVG Leistungsfreiheit.
 - **Versicherungsbetrugsdatenbank HIS** (Hinweis- und Informationssystem) — Eintragung mit langfristigen Folgen.
@@ -99,11 +99,11 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 
 ### Bestreiten Manipulation
 
-"Eine vorsaetzliche Manipulation der versicherten Sache wird bestritten. Das in der Akte befindliche Brandgutachten des [Sachverstaendiger] vom [Datum] schliesst zwar bestimmte Ursachen aus, laesst aber einen technischen Defekt (Marderschaden Bordnetz, Kurzschluss Anlasser) als gleichwertige Ursache offen. Die Verteidigung legt das Gegen-Gutachten des [Sachverstaendiger] vom [Datum] vor und beantragt die Einholung eines weiteren Gutachtens."
+"Eine vorsaetzliche Manipulation der versicherten Sache wird bestritten. Das in der Akte befindliche Brandgutachten des [Sachverstaendiger] vom [Datum] schliesst zwar bestimmte Ursachen aus, lässt aber einen technischen Defekt (Marderschaden Bordnetz, Kurzschluss Anlasser) als gleichwertige Ursache offen. Die Verteidigung legt das Gegen-Gutachten des [Sachverstaendiger] vom [Datum] vor und beantragt die Einholung eines weiteren Gutachtens."
 
 ### Bestreiten Absicht
 
-"Eine Absicht der Versicherungsleistungserlangung wird bestritten. Die Beschaedigung des Fahrzeugs erfolgte aus persönlichem Frust nach Trennung von der Ehegattin und nicht in Versicherungsabsicht. Die spaeter erfolgte Schadensmeldung an die Versicherung beruhte auf einem familieninternen Ratschlag des [Person] und stellt eine eigenstaendige Entschlussbildung dar."
+"Eine Absicht der Versicherungsleistungserlangung wird bestritten. Die Beschaedigung des Fahrzeugs erfolgte aus persönlichem Frust nach Trennung von der Ehegattin und nicht in Versicherungsabsicht. Die später erfolgte Schadensmeldung an die Versicherung beruhte auf einem familieninternen Ratschlag des [Person] und stellt eine eigenstaendige Entschlussbildung dar."
 
 ## Quellen Stand 06/2026
 

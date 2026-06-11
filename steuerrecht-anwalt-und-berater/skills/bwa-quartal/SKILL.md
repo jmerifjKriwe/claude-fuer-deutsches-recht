@@ -79,7 +79,7 @@ Mit freundlichen Gruessen
 
 - Teilnehmer: Geschaeftsfuehrung, ggf. kaufmaennische Leitung; auf StB-Seite Sachbearbeiter und Berufstraeger.
 - Ort: bevorzugt beim Mandanten (Vor-Ort-Bezug staerkt die Beratungsbeziehung) oder StB-Buero.
-- Bei Bewirtung im StB-Buero auf ordnungsgemaessen Bewirtungsbeleg (§ 4 Abs. 5 S. 1 Nr. 2 EStG) achten — geschaeftlicher Anlass, Bewirteten, Hoehe und Datum dokumentieren.
+- Bei Bewirtung im StB-Buero auf ordnungsgemaessen Bewirtungsbeleg (§ 4 Abs. 5 S. 1 Nr. 2 EStG) achten — geschaeftlicher Anlass, Bewirteten, Höhe und Datum dokumentieren.
 - Agenda-Punkte abarbeiten und Zeitfenster pro Punkt einhalten.
 
 ### Phase 3 — Standard-Agenda

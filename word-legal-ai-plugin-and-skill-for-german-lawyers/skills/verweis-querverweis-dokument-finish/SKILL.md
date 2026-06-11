@@ -31,8 +31,8 @@ description: "Verweis- und Querverweistechnik in juristischen Dokumenten. Intern
 
 1. **Interne Verweise inventarisieren.** Welche Klauseln verweisen aufeinander?
 2. **Anlagen inventarisieren.** Welche Anlagen werden zitiert? Sind sie alle vorhanden?
-3. **Externe Verweise pruefen.** Sind Gesetzesangaben aktuell? Sind Rspr.-Zitate verifiziert?
-4. **Verweisform pruefen.** Klauselnummer und Klauselueberschrift nennen ("§ 7 Abs. 2 (Haftung)").
+3. **Externe Verweise prüfen.** Sind Gesetzesangaben aktuell? Sind Rspr.-Zitate verifiziert?
+4. **Verweisform prüfen.** Klauselnummer und Klauselueberschrift nennen ("§ 7 Abs. 2 (Haftung)").
 5. **Verweise nach Renumbering kontrollieren.** Keine toten Verweise nach Verschiebung von Klauseln oder Anlagen.
 6. **Konsistenzpruefung.** Volltextsuche nach "siehe oben", "vorstehend", "nachstehend".
 7. **Anlagenverzeichnis erstellen.** Anlage 1 bis Anlage n.
@@ -121,14 +121,14 @@ Vermeiden Sie diese Begriffe in operativen Klauseln. Sie sind Auslegungsmuell. W
 
 - **Tote Verweise nach Renumbering.** Klauselnummern wurden verschoben, aber die Verweise im Text nicht nachgezogen.
 - **"Siehe oben" ohne Bezugsstelle.** Kein Reviewer findet die Stelle.
-- **Anlage zitiert, aber nicht vorhanden.** Anlagenverzeichnis pruefen.
+- **Anlage zitiert, aber nicht vorhanden.** Anlagenverzeichnis prüfen.
 - **Externe Verweise auf veraltete Normen.** § Nummern haben sich geaendert (z.B. nach Schuldrechtsmodernisierung 2002, AGB-Reform 2002, BDSG-DSGVO-Umstellung 2018).
 - **Rspr.-Zitate aus Modellwissen.** Verifikationspflicht nach `references/zitierweise.md`.
 - **Klausel-Spinne.** Mehrfach kreisende Verweise. Hauptregel konsolidieren.
 
 ## Beispiel
 
-**Aufgabe:** Pruefen Sie den Verweisapparat folgender Klausel:
+**Aufgabe:** Prüfen Sie den Verweisapparat folgender Klausel:
 
 ```
 § 7 Haftung

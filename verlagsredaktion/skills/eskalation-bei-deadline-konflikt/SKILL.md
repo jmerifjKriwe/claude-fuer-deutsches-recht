@@ -40,13 +40,13 @@ Eine Frist droht zu reissen: Manuskripteingang verzoegert sich, Druckereitermin 
 2. **Stufe bestimmen.**
  - Stufe 1: Freundlicher Reminder mit Vorschlag zur Loesung.
  - Stufe 2: Erinnerung mit klarer neuer Frist, Hinweis auf Folgen.
- - Stufe 3: Mahnung mit Nachfristsetzung gemaess BGB § 323, Androhung des Ruecktritts.
+ - Stufe 3: Mahnung mit Nachfristsetzung gemäß BGB § 323, Androhung des Ruecktritts.
  - Stufe 4: Eskalation an Programm- oder Verlagsleitung, ggf. an Justiziariat.
  - Stufe 5: Ruecktritt vom Vertrag, Schadensersatzgeltendmachung.
-3. **Vor jeder Stufe pruefen:** Ist der vorherige Schritt schriftlich dokumentiert?
+3. **Vor jeder Stufe prüfen:** Ist der vorherige Schritt schriftlich dokumentiert?
 4. **Bei externer Beteiligung (Druckerei, Verteiler):** Parallel Plan B aktivieren, nicht erst nach Verstreichen der Frist.
 5. **Nach Eskalation:** Stets schriftliche Bestaetigung des neuen Termins einholen.
-6. **Lernschleife:** Nach Abschluss prueft die Redaktion, ob die Frist von Anfang an realistisch war.
+6. **Lernschleife:** Nach Abschluss prüft die Redaktion, ob die Frist von Anfang an realistisch war.
 
 ## Trade-off-Matrix
 
@@ -63,7 +63,7 @@ Empfehlung: lieber eine Stufe frueher als zu spaet.
 
 - "Wer Stufe 1 ueberspringt, verliert die Bewegungsfreiheit." Immer freundlich anfangen.
 - Bei wichtigen Autoren: Eskalation moeglichst durch Programmleitung, nicht durch Lektorat.
-- Nie per E-Mail eskalieren, wenn ein Telefonat moeglich ist - aber jedes Telefonat schriftlich nachhalten.
+- Nie per E-Mail eskalieren, wenn ein Telefonat möglich ist - aber jedes Telefonat schriftlich nachhalten.
 - Imprimaturtermin haengt am Druckereitermin; Druckerei nie auf Verdacht stornieren.
 - Bei wiederholten Versagen desselben Autors Hinweis in Personalakte / CRM, nicht nur im Lektoratsordner.
 
@@ -137,7 +137,7 @@ Entscheidung bitte bis [Datum, Uhrzeit].
 
 ## Quellen Stand 06/2026
 
-- Gesetz ueber das Verlagsrecht (VerlG) vom 19.06.1901, zuletzt geaendert; insb. §§ 30, 32, 33 VerlG.
+- Gesetz über das Verlagsrecht (VerlG) vom 19.06.1901, zuletzt geaendert; insb. §§ 30, 32, 33 VerlG.
 - BGB §§ 280, 286, 288, 314, 323 - Verzug, Ruecktritt, Kuendigung aus wichtigem Grund.
 - BGB § 271 - Leistungszeit.
 - Schricker/Loewenheim, Urheberrecht, aktuelle Auflage (vom Nutzer beizubringen) zu Verlagsverhaeltnissen.

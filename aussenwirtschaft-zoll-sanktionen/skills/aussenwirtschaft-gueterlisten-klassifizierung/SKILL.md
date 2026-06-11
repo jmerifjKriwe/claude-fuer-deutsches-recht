@@ -24,7 +24,7 @@ description: "Technische Klassifizierung von Waren, Software und Technologie nac
 1. Produkt technisch vollstaendig beschreiben: Funktion, Parameter, Betriebsbedingungen, Software.
 2. Gueterliste systematisch durchsuchen: Anhang I VO (EU) 2021/821, Kategorien 0-9, alle Untereintraege.
 3. Technische Parameter mit Listenschwellenwerten abgleichen (z.B. Genauigkeit, Geschwindigkeit, Frequenz).
-4. Kriegswaffenliste pruefen (KrWaffKontrG Anlage), Abgrenzung zu ML-Position des Wassenaar-Arrangements.
+4. Kriegswaffenliste prüfen (KrWaffKontrG Anlage), Abgrenzung zu ML-Position des Wassenaar-Arrangements.
 5. Bei Listentreffer: Eintrag genau dokumentieren mit Kategorie, Eintragsnummer und Schwellenwertvergleich.
 6. Ergebnis als Klassifizierungsgutachten dokumentieren; BAFA-Auskunftsverfahren bei Unsicherheit.
 
@@ -48,7 +48,7 @@ description: "Technische Klassifizierung von Waren, Software und Technologie nac
 ## Typische Fallstricke
 
 - Suche nach Produktbeschreibung ist unzureichend; nur Parametervergleich entscheidet.
-- Softwarekomponenten und technische Unterstuetzung koennen hoher klassifiziert sein als die Hardware.
+- Softwarekomponenten und technische Unterstuetzung können hoher klassifiziert sein als die Hardware.
 - Aenderungen der Gueterliste (jaehrliche Aktualisierung) werden nicht nachverfolgt.
 - 'Entwickelt für' vs. 'geeignet für': Kriterium variiert je nach Listeneintrag.
 

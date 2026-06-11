@@ -18,7 +18,7 @@ description: "Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB: Re
 
 ## Worum geht es konkret
 
-Paragraph 283a StGB hebt die Strafdrohung des Bankrotts (Paragraph 283 StGB) von "bis 5 Jahre" auf "6 Monate bis 10 Jahre" an, wenn ein Regelbeispiel verwirklicht ist oder ein unbenannter besonders schwerer Fall vorliegt. Anwendungsfall: Serientaeter im Insolvenzgewerbe, Strohmannketten, gezielte Vermoegensverschiebungen im grossen Stil.
+Paragraph 283a StGB hebt die Strafdrohung des Bankrotts (Paragraph 283 StGB) von "bis 5 Jahre" auf "6 Monate bis 10 Jahre" an, wenn ein Regelbeispiel verwirklicht ist oder ein unbenannter besonders schwerer Fall vorliegt. Anwendungsfall: Serientaeter im Insolvenzgewerbe, Strohmannketten, gezielte Vermoegensverschiebungen im großen Stil.
 
 Bedeutung für die Verteidigung: Der Sprung in den hoeheren Strafrahmen ist zumessungsentscheidend. Bei einer erfolgreichen Entkraeftung des Regelbeispiels kann die Strafe oft im unteren Bereich des Paragraph 283 StGB-Rahmens bleiben.
 
@@ -49,7 +49,7 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 - **Gewerbsmaessigkeit angreifen.** Der Vorsatz muss auf wiederholte Einnahmequelle gerichtet sein. Bei einmaligem Bankrott mit nachweisbar einmaliger Sanierungsabsicht ist die Indikation oft erschuetterbar.
 - **Glaeubigerzahl genau aufschluesseln.** "Viele" ist normativ. Wenn alle Vermoegenswerte gegen Sicherheiten gegeben waren oder die Glaeubiger institutionell (Bank, Lieferant) und nicht in wirtschaftlicher Not sind, dann ist Nr. 2 zu verneinen.
 - **Wiedergutmachung als Gegenindikation.** BGH staendige Rspr.: Vollstaendige Schadenswiedergutmachung kann die Regelwirkung wegnehmen. Gespraeche mit Insolvenzverwalter um Vergleich oder Rueckzahlung schon im Ermittlungsverfahren beginnen.
-- **Belege für Sanierungsbemuehungen.** Sanierungsgutachten, Insolvenzberatung, ueberhastete aber redliche Versuche koennen den unbenannten besonders schweren Fall entkraeften.
+- **Belege für Sanierungsbemuehungen.** Sanierungsgutachten, Insolvenzberatung, ueberhastete aber redliche Versuche können den unbenannten besonders schweren Fall entkraeften.
 - **Kein automatischer Sprung im Strafrahmen.** Auch wenn die Voraussetzungen verwirklicht sind, darf das Gericht im konkreten Fall den Sprung verneinen; das ist Pflichtpruefung. Bei Versaeumnis: Revisionsruege nach Paragraph 337 StPO (Sachruege).
 
 ## Trade-off-Matrix
@@ -60,14 +60,14 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 
 ## Konkurrenzen
 
-- **Paragraph 283a StGB neben Paragraph 263 StGB.** Bei Eingehungsbetrug in der Krise mit vielen Glaeubigern kann Tateinheit vorliegen. Aber Paragraph 263 Abs 5 StGB hat eigene Regelbeispiele (Bandenbetrug); diese sind eigenstaendig zu pruefen.
+- **Paragraph 283a StGB neben Paragraph 263 StGB.** Bei Eingehungsbetrug in der Krise mit vielen Glaeubigern kann Tateinheit vorliegen. Aber Paragraph 263 Abs 5 StGB hat eigene Regelbeispiele (Bandenbetrug); diese sind eigenstaendig zu prüfen.
 - **Paragraph 283a StGB neben Paragraph 266 StGB Untreue.** Wenn die Untreue durch Bankrotthandlung erfolgt und der GF Vermoegensbetreuungspflicht hat. Tateinheit; Paragraph 283a StGB hat die schaerfere Strafdrohung im Regelfall.
 - **Paragraph 283a StGB neben Paragraph 15a InsO.** Insolvenzverschleppung als selbstaendiger Tatbestand. Tatmehrheit.
 
 ## Strafzumessung und Folgen
 
-- Strafrahmen: 6 Monate bis 10 Jahre. Geldstrafe ist nicht moeglich.
-- Wegen Mindeststrafe ueber 1 Jahr: Bewaehrung nach Paragraph 56 Abs 2 StGB nur bei besonderen Umstaenden (z. B. wirtschaftliche Verheerung; volle Wiedergutmachung).
+- Strafrahmen: 6 Monate bis 10 Jahre. Geldstrafe ist nicht möglich.
+- Wegen Mindeststrafe über 1 Jahr: Bewaehrung nach Paragraph 56 Abs 2 StGB nur bei besonderen Umstaenden (z. B. wirtschaftliche Verheerung; volle Wiedergutmachung).
 - **Einziehung Paragraph 73 StGB** des Erlangten.
 - **Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG**: 5 Jahre Sperre als GF/Vorstand.
 - **Berufsverbot Paragraph 70 StGB** wesentlich naeherliegend als bei Paragraph 283 StGB Grundtatbestand.
@@ -87,7 +87,7 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 - Paragraph 283a StGB im Wortlaut (gesetze-im-internet.de).
 - BGH staendige Rspr. zur Gewerbsmaessigkeit (Wiederholungsvorsatz, nicht nur voruebergehende Einnahmequelle).
 - BGH staendige Rspr. zur Widerlegung der Regelwirkung bei Wiedergutmachung.
-- Paragraph 56 Abs 2 StGB Bewaehrung bei Freiheitsstrafe ueber 1 Jahr.
+- Paragraph 56 Abs 2 StGB Bewaehrung bei Freiheitsstrafe über 1 Jahr.
 - Paragraph 70 StGB Berufsverbot.
 - Paragraph 73 StGB Einziehung des Erlangten.
 - Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG GF-Inhabilitaet.

@@ -40,7 +40,7 @@ Abgrenzung von §§ 332 / 334 StGB (Bestechlichkeit / Bestechung — Spezialnorm
 
 ### § 331 StGB Vorteilsannahme (Nehmer)
 
-Wer als **Amtstraeger, Europaeischer Amtstraeger oder für den öffentlichen Dienst besonders Verpflichteter** **für die Dienstausuebung** einen Vorteil für sich oder einen Dritten **fordert, sich versprechen laesst oder annimmt**.
+Wer als **Amtstraeger, Europaeischer Amtstraeger oder für den öffentlichen Dienst besonders Verpflichteter** **für die Dienstausuebung** einen Vorteil für sich oder einen Dritten **fordert, sich versprechen lässt oder annimmt**.
 
 ### § 333 StGB Vorteilsgewaehrung (Geber)
 
@@ -48,14 +48,14 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder für den öffentlichen D
 
 ### Schluesselbegriffe
 
-- **Amtstraeger § 11 Abs. 1 Nr. 2 StGB.** Beamte, Richter, Personen in sonstigem oeffentlich-rechtlichem Amtsverhaeltnis, Beschaeftigte in öffentlicher Verwaltung.
+- **Amtstraeger § 11 Abs. 1 Nr. 2 StGB.** Beamte, Richter, Personen in sonstigem öffentlich-rechtlichem Amtsverhaeltnis, Beschaeftigte in öffentlicher Verwaltung.
 - **Vorteil.** Jede Zuwendung mit objektivem Wert. Auch immaterielle Vorteile (Lobpreisungen) nur eingeschraenkt.
-- **"Fuer die Dienstausuebung".** Lockerer Bezug als bei §§ 332 / 334 StGB. Keine konkrete Diensthandlung erforderlich. Hinwendung zum allgemeinen Wohlwollen genuegt (sog. **"Klimapflege"**).
+- **"Für die Dienstausuebung".** Lockerer Bezug als bei §§ 332 / 334 StGB. Keine konkrete Diensthandlung erforderlich. Hinwendung zum allgemeinen Wohlwollen genuegt (sog. **"Klimapflege"**).
 - **Sozialadaequanz.** Geringfuegige Aufmerksamkeiten (Kugelschreiber, Kaffee, kleine Werbeartikel). Schwelle ueblich bis ca. 25 bis 50 EUR Wert, je nach Behörde.
 
 ### Genehmigung § 331 Abs. 3 StGB
 
-- Nicht strafbar, wenn der Taeter einen nicht von ihm geforderten Vorteil sich versprechen laesst oder annimmt und die **zuständige Behörde** zuvor genehmigt hat oder er unverzueglich Anzeige erstattet und Genehmigung erteilt wird.
+- Nicht strafbar, wenn der Taeter einen nicht von ihm geforderten Vorteil sich versprechen lässt oder annimmt und die **zuständige Behörde** zuvor genehmigt hat oder er unverzueglich Anzeige erstattet und Genehmigung erteilt wird.
 - Dies gilt **nicht** bei pflichtwidriger Diensthandlung (dann §§ 332, 334 StGB einschlaegig).
 
 ### Drittmittelforschung
@@ -66,8 +66,8 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder für den öffentlichen D
 
 - **Dienstausuebungsbezug angreifen.** War der Vorteil tatsaechlich "für die Dienstausuebung" oder rein privat (Familienanlass, Freundschaftsverhaeltnis)?
 - **Sozialadaequanz.** Branchenuebliche Aufmerksamkeiten unter Bagatellgrenze.
-- **Behoerdliche Genehmigung.** Nachtraegliche Genehmigung nach Anzeige im Sinne § 331 Abs. 3 StGB pruefen.
-- **Drittmittel-Konstellation.** Bei Forschungsfoerderung Drittmittelgenehmigung der Hochschulverwaltung pruefen.
+- **Behoerdliche Genehmigung.** Nachtraegliche Genehmigung nach Anzeige im Sinne § 331 Abs. 3 StGB prüfen.
+- **Drittmittel-Konstellation.** Bei Forschungsfoerderung Drittmittelgenehmigung der Hochschulverwaltung prüfen.
 - **Vorsatz.** Bei Amtstraegern oft fehlender konkreter Bezug; reine Geschenke ohne Dienstbezug aus Geburtstagsanlass.
 - **Verstaendigung § 257c StPO** mit Bewaehrung haeufig bei Erstdelikt.
 
@@ -93,11 +93,11 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder für den öffentlichen D
 ## Strafzumessung und Folgen
 
 - **Strafrahmen** Freiheitsstrafe bis drei Jahre oder Geldstrafe.
-- **§ 46 StGB** Hoehe Vorteil, Dienstposten Verantwortlichkeit, Tatdauer, Wiedergutmachung.
+- **§ 46 StGB** Höhe Vorteil, Dienstposten Verantwortlichkeit, Tatdauer, Wiedergutmachung.
 - **Einziehung § 73 StGB** Tatertrag (Vorteilsgegenstand oder Wertersatz).
 - **Berufsverbot § 70 StGB** insbes. bei Beamtenstatus.
 - **Disziplinarverfahren parallel** — bis zur Dienstentfernung § 13 BDG.
-- **Vergaberechtliche Konsequenzen** für Geber-Unternehmen ueber Wettbewerbsregister.
+- **Vergaberechtliche Konsequenzen** für Geber-Unternehmen über Wettbewerbsregister.
 - **§ 30 OWiG Verbandsgeldbusse** bis 10 Mio. EUR.
 
 ## Mustertexte
@@ -108,11 +108,11 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder für den öffentlichen D
 
 ### Antrag § 331 Abs. 3 StGB
 
-"Es wird auf den Strafausschluss gemaess § 331 Abs. 3 StGB hingewiesen. Der Mandant hat den von ihm nicht geforderten Vorteil (Einladung zur Festveranstaltung) unverzueglich nach Erhalt am [Datum] mit Schreiben vom [Datum] dem Dienstvorgesetzten [Name] angezeigt und die Genehmigung beantragt. Mit Schreiben des [Behörde] vom [Datum] (Anlage K-2) wurde die Annahme genehmigt. Die Annahme war damit gerechtfertigt."
+"Es wird auf den Strafausschluss gemäß § 331 Abs. 3 StGB hingewiesen. Der Mandant hat den von ihm nicht geforderten Vorteil (Einladung zur Festveranstaltung) unverzueglich nach Erhalt am [Datum] mit Schreiben vom [Datum] dem Dienstvorgesetzten [Name] angezeigt und die Genehmigung beantragt. Mit Schreiben des [Behörde] vom [Datum] (Anlage K-2) wurde die Annahme genehmigt. Die Annahme war damit gerechtfertigt."
 
 ### Drittmittel-Verteidigung
 
-"Die Annahme der Drittmittel der [Pharmaunternehmen] erfolgte ordnungsgemaess nach den Drittmittel-Richtlinien der [Hochschule]. Mit Bescheid des Praesidiums vom [Datum] (Anlage K-3) wurde die Annahme genehmigt; die Verwendung erfolgte ausschliesslich für Forschungszwecke gemaess § [...] HRG / LHG."
+"Die Annahme der Drittmittel der [Pharmaunternehmen] erfolgte ordnungsgemaess nach den Drittmittel-Richtlinien der [Hochschule]. Mit Bescheid des Praesidiums vom [Datum] (Anlage K-3) wurde die Annahme genehmigt; die Verwendung erfolgte ausschließlich für Forschungszwecke gemäß § [...] HRG / LHG."
 
 ## Quellen Stand 06/2026
 

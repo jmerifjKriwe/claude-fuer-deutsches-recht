@@ -7,7 +7,7 @@ description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die N
 
 ## Worum geht es konkret
 
-Neben Erfuellungsaufwand verlangen GGO und Nachhaltigkeitsstrategie der Bundesregierung eine Pruefung auf Nachhaltigkeitswirkung (SDG, Deutsche Nachhaltigkeitsstrategie) und seit den 2020er Jahren auch auf Klimawirkung. Der NKR prueft die Vollstaendigkeit dieser Darstellung und ihre methodische Konsistenz mit dem Erfuellungsaufwand.
+Neben Erfuellungsaufwand verlangen GGO und Nachhaltigkeitsstrategie der Bundesregierung eine Prüfung auf Nachhaltigkeitswirkung (SDG, Deutsche Nachhaltigkeitsstrategie) und seit den 2020er Jahren auch auf Klimawirkung. Der NKR prüft die Vollstaendigkeit dieser Darstellung und ihre methodische Konsistenz mit dem Erfuellungsaufwand.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -35,7 +35,7 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - Beruehrt es einen Indikator der Deutschen Nachhaltigkeitsstrategie?
 - Beruehrt es CO2-Emissionen?
 
-### 2. Klimawirkung pruefen
+### 2. Klimawirkung prüfen
 
 - Werden CO2-Emissionen erhoeht oder reduziert?
 - Quantifizierung in t CO2-Aequivalente?
@@ -82,7 +82,7 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - "Der NKR weist darauf hin, dass die ressortseitige Nachhaltigkeitspruefung nur qualitative Aussagen enthaelt. Eine Quantifizierung der CO2-Wirkung im Sinne des Bundes-Klimaschutzgesetzes waere wuenschenswert."
 - "Das Vorhaben enthaelt einen potentiellen Zielkonflikt zwischen [SDG-Bereich 1] und [SDG-Bereich 2]. Der NKR empfiehlt, die Abwaegung in der Begruendung transparent zu machen."
 - "Die Klimawirkung des Vorhabens wurde im Klimacheck mit [+/- X] t CO2-Aequivalente pro Jahr ausgewiesen. Der NKR haelt die Methodik für nachvollziehbar."
-- "Aus Sicht des NKR ist die methodische Pruefung der Nachhaltigkeitsfolgen nicht Pruefgegenstand im engeren Sinne nach § 4 NKRG; soweit sie jedoch für die Konsistenz der Folgenabschaetzung relevant ist, wird sie kommentiert."
+- "Aus Sicht des NKR ist die methodische Prüfung der Nachhaltigkeitsfolgen nicht Pruefgegenstand im engeren Sinne nach § 4 NKRG; soweit sie jedoch für die Konsistenz der Folgenabschaetzung relevant ist, wird sie kommentiert."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
@@ -102,4 +102,4 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - EU Green Deal-Paket, EU-Taxonomie-Verordnung
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.bundesregierung.de/nachhaltigkeit](https://www.bundesregierung.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.bundesregierung.de/nachhaltigkeit](https://www.bundesregierung.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

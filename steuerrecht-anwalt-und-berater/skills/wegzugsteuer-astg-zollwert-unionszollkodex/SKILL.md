@@ -30,7 +30,7 @@ Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 E
 1. Liegt eine Anteilsuebertragung iSd § 17 EStG oder ein Wegzug in einen EU/EWR oder Drittstaat vor?
 2. Wie hoch ist der gemeine Wert der Anteile zum Wegzugszeitpunkt?
 3. Ist Stundung in sieben gleichen Jahresraten gegen Sicherheitsleistung beantragbar?
-4. Ist Rueckkehr binnen sieben Jahren beabsichtigt — Rueckabwicklung nach § 6 Abs. 3 AStG moeglich?
+4. Ist Rueckkehr binnen sieben Jahren beabsichtigt — Rueckabwicklung nach § 6 Abs. 3 AStG möglich?
 5. Greift DBA-Anrechnung oder Erstattung bei tatsaechlicher Veraeusserung im Zielstaat?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 

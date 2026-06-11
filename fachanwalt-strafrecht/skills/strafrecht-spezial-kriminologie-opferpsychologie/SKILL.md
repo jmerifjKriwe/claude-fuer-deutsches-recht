@@ -33,30 +33,30 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Veraenderung der Stimmung und Kognition (Schuldgefuehle, Entfremdung, Hoffnungslosigkeit).
 
 **Trauma und Gedaechtnis (Forschungsstand, generisch).**
-- Traumatische Erlebnisse koennen sehr lebendig in Form von Intrusionen vorhanden sein.
-- Sie koennen aber auch fragmentiert, unzusammenhaengend, dissoziativ kodiert sein.
-- Latenzphasen mit Verdraengung oder Schweigen sind moeglich (insbesondere bei innerfamiliaerer Belastung).
-- Aussagen koennen sich erst nach Therapie oder Triggererlebnis kristallisieren.
-- Aber: Diese Phaenomene koennen auch durch suggestive Therapie oder andere Einfluesse erst erzeugt werden (Spannungsfeld trauma-bezogene vs. suggestive Erinnerung).
+- Traumatische Erlebnisse können sehr lebendig in Form von Intrusionen vorhanden sein.
+- Sie können aber auch fragmentiert, unzusammenhaengend, dissoziativ kodiert sein.
+- Latenzphasen mit Verdraengung oder Schweigen sind möglich (insbesondere bei innerfamiliaerer Belastung).
+- Aussagen können sich erst nach Therapie oder Triggererlebnis kristallisieren.
+- Aber: Diese Phaenomene können auch durch suggestive Therapie oder andere Einfluesse erst erzeugt werden (Spannungsfeld trauma-bezogene vs. suggestive Erinnerung).
 
-**Sekundaere Viktimisierung.** Die wiederholte Vernehmung, das öffentliche Verfahren, die Kreuzbefragung koennen das Opfer erneut belasten. Daher gesetzliche Schutzmechanismen: § 58a StPO (Videoaufzeichnung), § 247a StPO (Videoanhoerung), § 247 StPO (Ausschluss des Angeklagten), § 171b GVG (Oeffentlichkeitsausschluss), Nebenklagebeistand (§§ 395 ff. StPO).
+**Sekundaere Viktimisierung.** Die wiederholte Vernehmung, das öffentliche Verfahren, die Kreuzbefragung können das Opfer erneut belasten. Daher gesetzliche Schutzmechanismen: § 58a StPO (Videoaufzeichnung), § 247a StPO (Videoanhoerung), § 247 StPO (Ausschluss des Angeklagten), § 171b GVG (Oeffentlichkeitsausschluss), Nebenklagebeistand (§§ 395 ff. StPO).
 
 **Sogenannter Trauma-Beweis.** Manchmal werden Trauma-Symptome ("die Zeugin zeigt klare PTBS-Symptome") als Beweis für die Tatsache des Traumas und damit für die Tat verwendet. Methodisch problematisch: PTBS ist ein Antwortmuster auf einen Stressor, der nicht zwingend identifizierbar ist. Ein PTBS-Bild beweist nicht den behaupteten Stressor.
 
 ## Praktikertipps Verteidigung
 
-- **Trauma respektvoll behandeln.** Niemals das Trauma als solches in Frage stellen oder bagatellisieren. Strategie: differenziert pruefen, ob die behauptete Ursache des Traumas die richtige ist.
-- **PTBS-Diagnose pruefen.** Wer hat diagnostiziert? Aufgrund welcher Befunde? Mit welchem Verfahren? Diagnose nach ICD-10 oder DSM-5 ist methodisch erforderlich.
+- **Trauma respektvoll behandeln.** Niemals das Trauma als solches in Frage stellen oder bagatellisieren. Strategie: differenziert prüfen, ob die behauptete Ursache des Traumas die richtige ist.
+- **PTBS-Diagnose prüfen.** Wer hat diagnostiziert? Aufgrund welcher Befunde? Mit welchem Verfahren? Diagnose nach ICD-10 oder DSM-5 ist methodisch erforderlich.
 - **PTBS beweist nicht die Tat.** Replik: "Eine PTBS-Symptomatik ist eine Reaktion auf ein traumatisches Erlebnis. Welches Erlebnis kausal war, kann sie nicht beweisen. Das Symptombild kann ebenso durch andere Stressoren (frueheres Trauma, gegenwaertige Belastung, sekundaere Viktimisierung durch das Verfahren) erklaert werden."
 - **Inkonstanzen differenziert wuerdigen.** Wenn die StA Inkonstanzen als traumatypisch erklaert, fragen: Welche konkreten neuropsychologischen Befunde sprechen für fragmentiertes Trauma-Gedaechtnis bei dieser Zeugin? Oder sind die Inkonstanzen eher Anzeichen einer rekonstruktiv geformten Erinnerung?
-- **Therapie als doppelter Risikofaktor.** Therapie kann sowohl die Erinnerung stabilisieren als auch suggestiv kontaminieren. Beide Hypothesen sind methodisch zu pruefen.
-- **Nebenklage und Opferanwalt im Blick.** Nebenklage hat eigene Strategie. Konstellation pruefen: ist Zeugin auch Nebenklaegerin? Gibt es zivilrechtliche Anspruechee (Adhaesionsantrag, OEG-Anspruch)?
+- **Therapie als doppelter Risikofaktor.** Therapie kann sowohl die Erinnerung stabilisieren als auch suggestiv kontaminieren. Beide Hypothesen sind methodisch zu prüfen.
+- **Nebenklage und Opferanwalt im Blick.** Nebenklage hat eigene Strategie. Konstellation prüfen: ist Zeugin auch Nebenklaegerin? Gibt es zivilrechtliche Anspruechee (Adhaesionsantrag, OEG-Anspruch)?
 
 ## Trade-off-Matrix
 
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
-| Trauma respektvoll anerkennen, Kausalitaet differenziert pruefen | Methodisch sauber, kein Empoerungseffekt | Tatrichter folgt ggf. der einfacheren Erklaerung |
+| Trauma respektvoll anerkennen, Kausalitaet differenziert prüfen | Methodisch sauber, kein Empoerungseffekt | Tatrichter folgt ggf. der einfacheren Erklaerung |
 | Hilfsbeweisantrag SV-Gutachten zur Aussagedynamik | Methodisch fundiert | Belastung der Zeugin |
 | Trauma-Diagnose attackieren (Diagnosekriterien) | Konkret | Hoch riskant; Risiko des Empoerungseffekts |
 | Aussagegenese als suggestiv kontaminiert darstellen | Stark, ohne Zeugin zu attackieren | Setzt klare Suggestionsindikatoren voraus |
@@ -71,7 +71,7 @@ Im Plaedoyer respektvoll und differenziert: "Die Zeugin hat ohne Zweifel belaste
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten unter Beruecksichtigung der opferpsychologischen Forschungslage zur Aussage der Zeugin [Name] einzuholen. Schwerpunkt: methodische Differenzierung zwischen traumatypischer Inkonstanz und suggestiver Kontamination der Aussage. Hintergrund: Therapeutische Behandlung seit [Datum] mit Schwerpunkt auf [Methode]; berichtete Symptome [konkret]; Latenz zwischen Tatzeitpunkt und Erstaussage [Zeitraum]."
 
 **Mustersatz für Plaedoyer:**
-"Es ist unbestritten, dass die Zeugin Symptome psychischer Belastung zeigt. Es ist auch unbestritten, dass solche Symptome durch traumatische Ereignisse ausgeloest werden koennen. Was aber methodisch nicht zulaessig ist: aus den Symptomen auf die in der Anklage behauptete Tat zurueckzuschliessen. Symptome sind unspezifisch. Sie koennen viele Ursachen haben — und sie koennen auch durch das Verfahren selbst, durch die Therapie, durch sekundaere Viktimisierung mit erzeugt werden. Damit traegt der Trauma-Beweis die Verurteilung nicht."
+"Es ist unbestritten, dass die Zeugin Symptome psychischer Belastung zeigt. Es ist auch unbestritten, dass solche Symptome durch traumatische Ereignisse ausgeloest werden können. Was aber methodisch nicht zulässig ist: aus den Symptomen auf die in der Anklage behauptete Tat zurueckzuschliessen. Symptome sind unspezifisch. Sie können viele Ursachen haben — und sie können auch durch das Verfahren selbst, durch die Therapie, durch sekundaere Viktimisierung mit erzeugt werden. Damit traegt der Trauma-Beweis die Verurteilung nicht."
 
 ## Quellen Stand 06/2026
 

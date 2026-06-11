@@ -105,12 +105,12 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — StaRUG-Anzeige oder Insolvenzplan vorbereiten | Schriftsatzbausteine unten nach Baustein 1-3 |
-| Variante A — Schuldner bevorzugt aussergerichtliche Loesung | StaRUG-Anzeige und stiller Restrukturierungsrahmen pruefen |
+| Variante A — Schuldner bevorzugt aussergerichtliche Loesung | StaRUG-Anzeige und stiller Restrukturierungsrahmen prüfen |
 | Variante B — Glaeubigerwiderstands hoch | Planbestaetigungsverfahren mit Cram-down § 26 StaRUG erwaegen |
 | Variante C — Insolvenz unvermeidbar | Direkter Weg in regulaere Insolvenz; StaRUG nicht mehr sinnvoll |
 
@@ -206,7 +206,7 @@ Wir beantragen: Die Bestätigung des Plans ist zu versagen; hilfsweise ist dem G
 ein Ausgleich in Höhe von EUR [Betrag] gemäß § 64 Abs. 3 StaRUG zuzusprechen.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -16,7 +16,7 @@ Vereinigungsfreiheit der Anteilseigner Art 9 GG.
 
 Senat 1 BVerfG, Urteil 01.03.1979, BVerfGE 50, 290 (Mitbestimmung).
 MitbestG verfassungsmaessig. Einschaetzungspraerogative des Gesetzgebers
-schliesst nicht aus, dass das Gesetz spaeter ueberprueft werden muss.
+schliesst nicht aus, dass das Gesetz später ueberprueft werden muss.
 
 ## Drei Kontrolldichten
 
@@ -28,23 +28,23 @@ oder neuartigen Sachverhalten. BVerfG greift nur ein bei
 **offenkundig unhaltbarer** Einschaetzung.
 
 ### Vertretbarkeitskontrolle
-Standard fuer den Grossteil der Faelle. Pruefung, ob die Einschaetzung
+Standard für den Grossteil der Faelle. Prüfung, ob die Einschaetzung
 **sachgerecht und vertretbar** war.
 
 ### Intensive inhaltliche Kontrolle
 Bei schweren Eingriffen in hochwertige Grundrechte.
 
-## Bedeutung fuer Verhaeltnismaessigkeit
+## Bedeutung für Verhältnismäßigkeit
 
 Die Kontrolldichte bestimmt, wie tief das BVerfG die einzelnen Stufen
-der Verhaeltnismaessigkeit pruefen darf. Bei Evidenzkontrolle bleibt
+der Verhältnismäßigkeit prüfen darf. Bei Evidenzkontrolle bleibt
 nahezu jede gesetzgeberische Einschaetzung stehen; bei intensiver Kontrolle
 wird substantiell nachgepruet.
 
 ## Fortwirkung
 
 - BVerfGE 88 203 Schwangerschaftsabbruch: intensive Kontrolle bei
-  Schutzpflichten fuer ungeborenes Leben.
+  Schutzpflichten für ungeborenes Leben.
 - BVerfGE 102 197 Spielbankenmonopol: vertretbare Einschaetzung.
 - BVerfGE 159 223 Bundesnotbremse: gestaffelte Kontrolle bei neuer
   Pandemielage.

@@ -3,7 +3,7 @@ name: kommunalvermoegen-widerspruch-pruefen
 description: "Einigungsvertrag und Vermögensrecht: Kommunalvermögen: Widerspruch prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Kommunalvermoegen Widerspruch Pruefen
+# Kommunalvermoegen Widerspruch Prüfen
 
 ## Arbeitsweg
 

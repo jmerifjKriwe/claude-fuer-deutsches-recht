@@ -43,8 +43,8 @@ Der Mueller-Arnold-Fall war der unmittelbare Anlass für die Justizreform unter 
 
 ### Heutige Wertung
 - Anker für den Diskurs um richterliche Unabhaengigkeit.
-- Ironischerweise wurde Friedrich spaeter rehabilitiert: der Karpfenteich entzog der Muehle tatsaechlich Wasser; die Richter hatten dies aber nicht im rechtlich relevanten Sinne festgestellt.
-- Heute Gegenstand von Hauptverhandlungen ueber Art. 97 GG (richterliche Unabhaengigkeit), Art. 101 GG (gesetzlicher Richter) und Art. 19 IV GG.
+- Ironischerweise wurde Friedrich später rehabilitiert: der Karpfenteich entzog der Muehle tatsaechlich Wasser; die Richter hatten dies aber nicht im rechtlich relevanten Sinne festgestellt.
+- Heute Gegenstand von Hauptverhandlungen über Art. 97 GG (richterliche Unabhaengigkeit), Art. 101 GG (gesetzlicher Richter) und Art. 19 IV GG.
 
 ### Pruefraster
 1. Quellenarbeit: Akten in PrGS oder Akten des Geheimen Staatsarchivs Preussischer Kulturbesitz.

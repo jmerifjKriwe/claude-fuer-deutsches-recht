@@ -46,7 +46,7 @@ description: "Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbscha
 
 - § 2100 ff. BGB Vor- und Nacherbe.
 - § 2096 BGB Ersatzerbe.
-- Trust im Common Law als funktionales Aequivalent.
+- Trust im Common Law als funktionales Äquivalent.
 
 ## Pruefraster
 

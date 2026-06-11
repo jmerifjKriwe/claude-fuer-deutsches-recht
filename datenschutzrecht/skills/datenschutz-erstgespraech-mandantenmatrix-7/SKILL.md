@@ -11,14 +11,14 @@ Sie brauchen diesen Skill **immer dann**, wenn ein neues Datenschutzmandat einge
 
 - Mandant erhaelt ein Auskunftsersuchen nach Art. 15 DSGVO.
 - Mandant meldet eine moegliche Datenpanne.
-- Aufsichtsbehoerde hat angeschrieben (Pruefung, Anhörung, Bussgeldbescheid).
+- Aufsichtsbehoerde hat angeschrieben (Prüfung, Anhörung, Bussgeldbescheid).
 - Betroffener klagt auf Schadensersatz nach Art. 82 DSGVO.
 - Beschwerde nach Art. 77 DSGVO ist eingegangen.
 
 Stellen Sie genau **diese sieben Fragen** in der Reihenfolge. Springen Sie nicht vor.
 
-1. **Rolle:** Welche Rolle hat der Mandant in der Datenverarbeitung? Verantwortlicher (Art. 4 Nr. 7 DSGVO), Auftragsverarbeiter (Art. 4 Nr. 8, Art. 28 DSGVO) oder gemeinsam Verantwortlicher (Art. 26 DSGVO)? Wer hat ueber Zweck und Mittel entschieden?
-2. **Anlass:** Wer hat den Vorgang ausgeloest? Aufsichtsbehoerde, Betroffener selbst, Konkurrent, Gegnervertreter, eigene interne Pruefung, Whistleblower?
+1. **Rolle:** Welche Rolle hat der Mandant in der Datenverarbeitung? Verantwortlicher (Art. 4 Nr. 7 DSGVO), Auftragsverarbeiter (Art. 4 Nr. 8, Art. 28 DSGVO) oder gemeinsam Verantwortlicher (Art. 26 DSGVO)? Wer hat über Zweck und Mittel entschieden?
+2. **Anlass:** Wer hat den Vorgang ausgeloest? Aufsichtsbehoerde, Betroffener selbst, Konkurrent, Gegnervertreter, eigene interne Prüfung, Whistleblower?
 3. **Frist:** Welche Frist laeuft jetzt? Art. 12 III DSGVO (ein Monat ab Eingang Antrag, Verlaengerung bis drei Monate gesamt), Art. 33 DSGVO (72 Stunden ab Kenntnis), Anhörungsfrist im Bussgeldverfahren, Klagefrist?
 4. **Risikoklasse:** Welche Datenkategorien sind betroffen? Allgemeine personenbezogene Daten, besondere Kategorien (Art. 9 DSGVO Gesundheit Religion Gewerkschaft sexuelle Orientierung biometrische Daten), Strafrechtsdaten (Art. 10 DSGVO), Minderjaehrigen-Daten (Art. 8 DSGVO)?
 5. **Vorgeschichte:** Gab es schon Vorgaenge in derselben Sache? Frueheres Bussgeld, frueherer Auskunftsantrag, fruehere Beschwerde, frueherer Schadensersatzprozess?
@@ -29,7 +29,7 @@ Stellen Sie genau **diese sieben Fragen** in der Reihenfolge. Springen Sie nicht
 
 - **Art. 4 DSGVO** Begriffsbestimmungen (Verantwortlicher, Auftragsverarbeiter, Empfaenger, Dritter, Verletzung).
 - **Art. 5 DSGVO** Grundsaetze, insbesondere Rechenschaftspflicht (Abs. 2).
-- **Art. 12 III DSGVO** Bearbeitungsfrist Betroffenenanfragen — ein Monat, Verlaengerung um zwei Monate moeglich bei Komplexitaet oder Zahl der Antraege, **Begruendungspflicht innerhalb des ersten Monats**.
+- **Art. 12 III DSGVO** Bearbeitungsfrist Betroffenenanfragen — ein Monat, Verlaengerung um zwei Monate möglich bei Komplexitaet oder Zahl der Antraege, **Begruendungspflicht innerhalb des ersten Monats**.
 - **Art. 26 DSGVO** Gemeinsam Verantwortliche.
 - **Art. 28 DSGVO** Auftragsverarbeitung.
 - **Art. 33, 34 DSGVO** Datenpanne und Benachrichtigung.
@@ -41,7 +41,7 @@ Stellen Sie genau **diese sieben Fragen** in der Reihenfolge. Springen Sie nicht
 
 ## Mandantenfuehrung Schritt-für-Schritt
 
-1. **Zuerst:** Aktenzeichen anlegen, Mandantenvollmacht klaeren, schriftlich oder per Mail bestaetigen, dass Mandat angenommen ist. Kostenhinweis nach § 49b BRAO und RVG erteilen.
+1. **Zuerst:** Aktenzeichen anlegen, Mandantenvollmacht klären, schriftlich oder per Mail bestaetigen, dass Mandat angenommen ist. Kostenhinweis nach § 49b BRAO und RVG erteilen.
 2. **Als zweites:** Sieben Fragen in dieser Reihenfolge stellen. Antworten in der Matrix erfassen (siehe Mustertexte).
 3. **Als drittes:** Risikoampel setzen (gruen, gelb, rot).
 4. **Als viertes:** Folge-Skill aus dem datenschutzrecht-Plugin auswaehlen (Auskunft, Datenpanne, Bussgeld, Schadensersatz, Beschwerde, Loeschpflicht).
@@ -96,9 +96,9 @@ Folge-Skill: [datenschutz-auskunftsersuchen-art-15-praxis / datenschutz-datenpan
 - Loeschung anordnen, bevor klar ist, ob Sperrung nach § 17 BDSG oder Aufbewahrung nach § 257 HGB / § 147 AO erforderlich.
 - Rolle nach Art. 4 DSGVO nicht sauber geklaert. Konsequenz: falsche Pflichten, falsche Adressaten.
 - Frist nach Art. 12 III DSGVO uebersehen, weil das Schreiben des Betroffenen formlos kam.
-- Mandant nicht ueber Risiko einer Selbstbelastung im Bussgeldverfahren aufgeklaert.
+- Mandant nicht über Risiko einer Selbstbelastung im Bussgeldverfahren aufgeklaert.
 
-**Was triggert die Aufsichtsbehoerde besonders?** Leerformelhafte Antworten, fehlende Rechtsgrundlage (Art. 6 DSGVO), kein Bezug zu technischen und organisatorischen Massnahmen (Art. 32 DSGVO), fehlende Mandantenbeteiligung.
+**Was triggert die Aufsichtsbehoerde besonders?** Leerformelhafte Antworten, fehlende Rechtsgrundlage (Art. 6 DSGVO), kein Bezug zu technischen und organisatorischen Maßnahmen (Art. 32 DSGVO), fehlende Mandantenbeteiligung.
 
 ## Quellen Stand 06/2026
 

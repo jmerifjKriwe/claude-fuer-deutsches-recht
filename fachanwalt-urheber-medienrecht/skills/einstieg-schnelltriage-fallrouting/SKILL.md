@@ -113,7 +113,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `erstgespraech-mandatsannahme` | Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen. §§ 1 7 UrhG Werkbegriff § 43a BRAO. Prüfraster: Sachverhaltserfassung Schutzfähigkeit Parteistellung Fristen… |
-| `fachanwalt-urheber-medienrecht-abmahnung-pruefen` | Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung Lizenzkette Belege. Vorformulierte Unterlassungserklärung prüfen Vertragsstrafe Hoehe Abgrenzung modifizierte… |
+| `fachanwalt-urheber-medienrecht-abmahnung-pruefen` | Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung Lizenzkette Belege. Vorformulierte Unterlassungserklärung prüfen Vertragsstrafe Höhe Abgrenzung modifizierte… |
 | `fachanwalt-urheber-medienrecht-filesharing-verteidigung` | Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird. §§ 97 97a UrhG Abmahnung §§ 85 ff. UrhG Leistungsschutzrechte. Prüfraster:… |
 | `fachanwalt-urheber-medienrecht-gegendarstellung-presse` | Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei… |
 | `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` | Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfraster: Nutzungsrechtsart ausschließlich einfach… |

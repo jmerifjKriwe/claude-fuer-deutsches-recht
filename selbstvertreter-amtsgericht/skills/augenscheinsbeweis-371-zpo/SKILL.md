@@ -28,7 +28,7 @@ Augenscheinsbeweis ist die direkte Wahrnehmung einer Sache durch das Gericht. Ei
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Eignung pruefen
+### Schritt 1 — Eignung prüfen
 
 Augenscheinsbeweis sinnvoll, wenn:
 
@@ -79,14 +79,14 @@ Bei Wohnung, Grundstueck:
 
 ### Schritt 5 — Augenschein im Termin
 
-- Sache ins Gericht mitbringen, wenn moeglich.
+- Sache ins Gericht mitbringen, wenn möglich.
 - Vor Vernehmung der Zeugen oder begleitend.
 
 ### Schritt 6 — Beweissicherung vor Klage
 
-Wenn die Sache sich aendern koennte (Reparatur, Bewuchs, Saison), pruefen Sie:
+Wenn die Sache sich ändern koennte (Reparatur, Bewuchs, Saison), prüfen Sie:
 
-- **Selbstaendiges Beweisverfahren** § 485 ZPO (auch vor Klageerhebung moeglich).
+- **Selbstaendiges Beweisverfahren** § 485 ZPO (auch vor Klageerhebung möglich).
 - Fotos / Videos jetzt machen mit Beweis-Sicherung.
 
 Skill `beweismittel-vorab-sammeln-checkliste`.
@@ -99,7 +99,7 @@ Gericht wuerdigt frei (§ 286 ZPO). Direkter Augenschein ist hoch — der Richte
 
 Vor-Ort-Termin: Reisekosten Gericht, ggf. Sachverstaendiger anwesend. Kosten meist nicht hoch (im Verhaeltnis zu Sachverstaendigen-Gutachten).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sicherung der Sache** vor Veraenderung.
 - **Foto-Dokumentation** mit Datum.

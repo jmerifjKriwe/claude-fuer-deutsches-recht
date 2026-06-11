@@ -119,7 +119,7 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 - Sich verabschieden ("Vielen Dank, Hoher Herr Vorsitzender").
 - Den Saal verlassen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Ruhe und Hoeflichkeit**: macht Eindruck.
 - **Keine Beleidigung der Gegenseite**, auch wenn berechtigt empoert.

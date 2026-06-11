@@ -31,8 +31,8 @@ description: "ALR-Personenrecht — Kuriositaeten und ihre rechtshistorische Bed
 - ALR I 4 — Geschaeftsunfaehigkeit bei Geisteskrankheit.
 
 ### Verschwendung ALR II 18
-- Verschwender koennen unter Kuratel gestellt werden.
-- Spaeter §§ 6, 114 BGB a.F.
+- Verschwender können unter Kuratel gestellt werden.
+- Später §§ 6, 114 BGB a.F.
 
 ### Detailvorgaben zu Lebenszeichen
 - Tatbestand der Geburt — Lebendgeburt erfordert Schrei (in der Praxis schwer feststellbar).

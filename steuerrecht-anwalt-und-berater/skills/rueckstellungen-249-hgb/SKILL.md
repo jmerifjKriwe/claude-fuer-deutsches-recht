@@ -13,7 +13,7 @@ description: "Vollstaendige Pruefung von Rueckstellungen handels- und steuerrech
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Liegt eine Verbindlichkeit dem Grunde oder der Hoehe nach unsicher vor?
+1. Liegt eine Verbindlichkeit dem Grunde oder der Höhe nach unsicher vor?
 2. Greift § 249 HGB Passivierungspflicht oder Passivierungswahlrecht?
 3. Greift steuerliches Passivierungsverbot (z. B. Drohverlust § 5 Abs. 4a EStG)?
 4. Wird die Rueckstellung mit 5,5 Prozent abgezinst § 6 Abs. 1 Nr. 3a EStG?

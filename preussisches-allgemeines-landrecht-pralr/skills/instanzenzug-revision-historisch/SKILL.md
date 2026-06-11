@@ -15,7 +15,7 @@ description: "Instanzenzug und Revision im preussischen Recht historisch. Skill 
 
 ### Dritte Instanz
 - Obertribunal Berlin (oberste Instanz).
-- Spaeter Reichsgericht Leipzig (RGG 1879).
+- Später Reichsgericht Leipzig (RGG 1879).
 
 ## Berufung
 
@@ -44,7 +44,7 @@ description: "Instanzenzug und Revision im preussischen Recht historisch. Skill 
 
 1. Welche Instanz?
 2. Welche Pruefungsdichte?
-3. Heutige Aequivalenz?
+3. Heutige Äquivalenz?
 
 ## Normenanker
 

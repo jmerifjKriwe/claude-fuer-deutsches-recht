@@ -21,9 +21,9 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie streiten ueber die Verteilung von Risiken in Vertraegen und brauchen ein Effizienzargument.
-- Sie pruefen Schadensrechtsfragen (insbesondere Mitverschulden, Vorteilsausgleichung, Versicherbarkeit).
-- Sie argumentieren ueber Externalitaeten und Transaktionskosten im Nachbarrecht oder Umweltrecht.
+- Sie streiten über die Verteilung von Risiken in Vertraegen und brauchen ein Effizienzargument.
+- Sie prüfen Schadensrechtsfragen (insbesondere Mitverschulden, Vorteilsausgleichung, Versicherbarkeit).
+- Sie argumentieren über Externalitaeten und Transaktionskosten im Nachbarrecht oder Umweltrecht.
 - Sie schreiben in einem M&A-Mandat oder in einem komplexen Wirtschaftsvertrag und wollen die kommerzielle Effizienz als Wertungsargument einsetzen.
 - Sie diskutieren regulatorische Eingriffe ins Privatrecht (Mietpreisbremse, AGB-Kontrolle) und wollen die oekonomische Folgenanalyse einbringen.
 
@@ -57,7 +57,7 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 **Beispiel ProdHaftG:** Strict liability schafft Anreize für Hersteller, in Produktsicherheit zu investieren. Calabresi: cheapest cost avoider — der Hersteller kann am billigsten Schadensvermeidung organisieren.
 
-**Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** AGB sparen Transaktionskosten (keine individuelle Verhandlung). Aber sie koennen Informationsasymmetrien ausnutzen. Effizienz-Argument: AGB-Kontrolle soll Informationsdefizite kompensieren; uebermäßige Kontrolle erhoeht Transaktionskosten und verteuert Vertraege.
+**Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** AGB sparen Transaktionskosten (keine individuelle Verhandlung). Aber sie können Informationsasymmetrien ausnutzen. Effizienz-Argument: AGB-Kontrolle soll Informationsdefizite kompensieren; uebermäßige Kontrolle erhoeht Transaktionskosten und verteuert Verträge.
 
 **Beispiel Vertragsschluss und Bindung:** Pacta sunt servanda als Effizienzregel — Vertragsbindung ermoeglicht Vertrauen, ermoeglicht Vorleistungen und investitionen, senkt Transaktionskosten.
 
@@ -69,7 +69,7 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 2. **Transaktionskosten betrachten.** Wie hoch sind die Kosten der Verhandlung, Information, Durchsetzung?
 3. **Cheapest cost avoider identifizieren.** Wer kann den Schaden am billigsten vermeiden?
 4. **Effizienz-Vergleich.** Welche Auslegung minimiert die gesamtgesellschaftlichen Kosten?
-5. **Verteilungswirkung pruefen.** Effizient ist nicht gerecht — wer profitiert, wer verliert?
+5. **Verteilungswirkung prüfen.** Effizient ist nicht gerecht — wer profitiert, wer verliert?
 6. **Effizienzargument im Schriftsatz** als zusaetzliches, nicht primaeres Argument einbauen. Das deutsche Privatrecht bleibt wertungsjuristisch.
 
 ## Typische Fehler / Kritik
@@ -83,7 +83,7 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 **Kritik aus Critical Legal Studies:** Die Behauptung, eine bestimmte Auslegung sei "effizient", ist nie wertneutral. Die Auswahl der Effizienzkriterien (Pareto vs. Kaldor-Hicks, Gewichtung von Wohlfahrt) ist politisch.
 
-**Kritik aus Grundrechtsdogmatik:** Effizienzueberlegungen koennen Grundrechte nicht ueberspielen. Wer für Mietkuendigungsschutz nach § 573 BGB rein effizienzoekonomisch argumentiert, vergisst Art. 13 GG und Sozialstaatsprinzip.
+**Kritik aus Grundrechtsdogmatik:** Effizienzueberlegungen können Grundrechte nicht ueberspielen. Wer für Mietkuendigungsschutz nach § 573 BGB rein effizienzoekonomisch argumentiert, vergisst Art. 13 GG und Sozialstaatsprinzip.
 
 ## Quellen und Stand 05/2026
 

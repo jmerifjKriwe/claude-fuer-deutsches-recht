@@ -17,7 +17,7 @@ Bauunternehmerin kann Sicherheit verlangen. Wird Sicherheit nicht gestellt darf 
 
 ## Pruefliste MB-Antrag Bau
 
-| Punkt | Pruefung |
+| Punkt | Prüfung |
 |---|---|
 | Abnahme erfolgt | foermlich oder konkludent BGB 640 |
 | Schlussrechnung pruefbar | Massenauszug Belege |

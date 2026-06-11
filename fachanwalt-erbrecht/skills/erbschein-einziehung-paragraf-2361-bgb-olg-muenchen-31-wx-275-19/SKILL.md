@@ -7,7 +7,7 @@ description: "Erbschein Einziehung Paragraf 2361 BGB Olg Muenchen 31 Wx 275 19: 
 
 ## Einsatzlage
 
-Erbschein nennt A als Alleinerben; spaeter taucht Testament fuer B auf.
+Erbschein nennt A als Alleinerben; später taucht Testament für B auf.
 
 ## Normenanker
 
@@ -32,7 +32,7 @@ Erbschein nennt A als Alleinerben; spaeter taucht Testament fuer B auf.
 
 ## Arbeitsergebnis
 
-Einziehung auf Antrag; auch von Amts wegen moeglich.
+Einziehung auf Antrag; auch von Amts wegen möglich.
 
 ## Belege und Aktenlücken
 

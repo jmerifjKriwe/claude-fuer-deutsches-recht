@@ -15,7 +15,7 @@ description: "Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS un
 
 ## Spezialwissen
 
-Das Waermedaemm-Verbundsystem ist DAS Mauerwerk der Fassade: Fehler im Kleberauftrag, falsche Duebelanzahl oder fehlende Brandsperren sind spaeter nicht mehr zugaenglich und fuehren zu Brandschutz-Nachruest- oder Sanierungskosten im sechsstelligen Bereich. Die Bauueberwachung in LPH 8 kontrolliert jeden Schritt von der Vorbereitung Untergrund bis zum Schlussbeschichtungsauftrag und dokumentiert den Brandschutz-Einbaunachweis lueckenlos.
+Das Waermedaemm-Verbundsystem ist DAS Mauerwerk der Fassade: Fehler im Kleberauftrag, falsche Duebelanzahl oder fehlende Brandsperren sind später nicht mehr zugaenglich und fuehren zu Brandschutz-Nachruest- oder Sanierungskosten im sechsstelligen Bereich. Die Bauueberwachung in LPH 8 kontrolliert jeden Schritt von der Vorbereitung Untergrund bis zum Schlussbeschichtungsauftrag und dokumentiert den Brandschutz-Einbaunachweis lueckenlos.
 
 ## Bauwerk und Auftrag
 
@@ -28,7 +28,7 @@ Das Waermedaemm-Verbundsystem ist DAS Mauerwerk der Fassade: Fehler im Kleberauf
 1. Untergrundvorbereitung: Haftgrundbeschaffenheit Saugfaehigkeit und Festigkeit nach DIBt-Zulassung Z-33.4-xx, Abziehmethode min. 0.08 N/mm2 Haftzugfestigkeit
 2. Kleberauftrag Daemmplatte: Rand-Punkt-Verfahren oder Vollflaeche nach Zulassung, Klebermasse min. 60 Prozent Plattenflaeche, Hohllagen verboten
 3. Duebel-Einbauprotokoll: Duebel-Typ SX8 oder Rahmendubel nach Zulassung, Anzahl je qm nach statischem Nachweis Windsogebzone, Schraubtiefe laut Bemessungstabelle
-4. Brandsperre Einbau: Mineralwolle-Lamellstreifen hoechstens alle 2 Geschosse bei EPS-Daemmung nach MBO § 28 Abs. 3, Breite 200 mm, Hoehe 30 cm, vollverklebt und gedubelt
+4. Brandsperre Einbau: Mineralwolle-Lamellstreifen hoechstens alle 2 Geschosse bei EPS-Daemmung nach MBO § 28 Abs. 3, Breite 200 mm, Höhe 30 cm, vollverklebt und gedubelt
 5. Armierungsgewebe-Einbettung: Verstaerkungs-Armierung an Oeffnungsecken 45 Grad 300 mm x 500 mm, Ueberlappung Standardgewebe 100 mm, Einbettung im Kleber vollstaendig
 6. Schlussbeschichtung: Mineralischer Reibeputz Koernung 1.5 mm oder 2.0 mm, 2-Phasen-Auftrag, Wasserdampfdurchlaessigkeit s(d)-Wert kleiner 0.1 m nach DIN 18550
 
@@ -75,7 +75,7 @@ Das Waermedaemm-Verbundsystem ist DAS Mauerwerk der Fassade: Fehler im Kleberauf
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

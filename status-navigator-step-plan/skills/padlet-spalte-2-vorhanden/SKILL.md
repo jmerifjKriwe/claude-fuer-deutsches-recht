@@ -55,6 +55,6 @@ LausitzStorage-Akte, Spalte 2 enthaelt 16 Karten:
   Skill unterschriftspruefung oder copy-paste-fehler-erkennung.
 
 ## Plugin-Kontext
-Spalte 2 ist Lieferquelle fuer die Querkommunikation zwischen Padlet-Karten
-und Excel-Reitern. Wer hier sauber Type-Tags vergibt, kann spaeter
+Spalte 2 ist Lieferquelle für die Querkommunikation zwischen Padlet-Karten
+und Excel-Reitern. Wer hier sauber Type-Tags vergibt, kann später
 filtern (zum Beispiel `nur Beschluesse anzeigen`).

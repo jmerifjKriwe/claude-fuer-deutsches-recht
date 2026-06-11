@@ -46,7 +46,7 @@ Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung für jede DBA-An
 ### Leitentscheidungen und BMF-Schreiben
 
 - Aktuelle BFH-Rechtsprechung zu Mittelpunkt der Lebensinteressen, gewoehnlichem Aufenthalt und Gesellschafts-Ansaessigkeit in amtliche/freie Quellen oder lizenzierte Datenbanken abrufen (Suche: BFH I. Senat, Art. 4 OECD-MA).
-- BMF-Schreiben zur Wegzugsbesteuerung nach ATAD-Umsetzung 2022 — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zur Wegzugsbesteuerung nach ATAD-Umsetzung 2022 — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Land-spezifisches
 
@@ -69,7 +69,7 @@ Pruefungskaskade in dieser Reihenfolge:
 ### Staendige Wohnstaette
 
 - Eigentum oder Mietverhaeltnis allein reicht nicht — Faktor ist die staendige Verfuegbarkeit und tatsaechliche Nutzung.
-- Hotelzimmer, Ferienwohnung, Studenten-WG koennen nach Umstaenden staendige Wohnstaette begruenden.
+- Hotelzimmer, Ferienwohnung, Studenten-WG können nach Umstaenden staendige Wohnstaette begruenden.
 - Indizien: Stromabrechnungen, Telefonanschluss, Hauptpost-Anschrift, Mobiliar.
 
 ### Mittelpunkt der Lebensinteressen
@@ -81,23 +81,23 @@ Pruefungskaskade in dieser Reihenfolge:
 ### Gewoehnlicher Aufenthalt
 
 - Quantitativ: laenger als 6 Monate (§ 9 AO).
-- Qualitativ: ueber blossen Besuchsaufenthalt hinaus.
+- Qualitativ: über blossen Besuchsaufenthalt hinaus.
 - Bei Mehrfachaufenthalt: Vergleich der Aufenthaltszeiten.
 
 ## Workflow
 
 ### Phase 1 — Sachverhalt aufnehmen
 
-1. Wohnsitz-Konstellation klaeren: Eigentum, Miete, Nutzungsumfang, Familienanbindung.
+1. Wohnsitz-Konstellation klären: Eigentum, Miete, Nutzungsumfang, Familienanbindung.
 2. Beruflicher Hintergrund: Entsendung, Auswanderung, Pendlerstatus.
 3. Vermoegenslage: Bankkonten, Immobilien, Beteiligungen pro Staat.
 4. Liegen Ansaessigkeitsbescheinigungen vor?
 
-### Phase 2 — Pruefung nationale Ansaessigkeit
+### Phase 2 — Prüfung nationale Ansaessigkeit
 
 1. Deutsche Seite: Wohnsitz § 8 AO oder gewoehnlicher Aufenthalt § 9 AO? Unbeschraenkte Steuerpflicht?
 2. Andere Seite: Ansaessigkeit nach dortigem nationalen Recht?
-3. Bei beidseitiger Ansaessigkeit: Pruefung Tie-Breaker.
+3. Bei beidseitiger Ansaessigkeit: Prüfung Tie-Breaker.
 
 ### Phase 3 — Tie-Breaker durchspielen
 
@@ -116,40 +116,40 @@ Pruefungskaskade in dieser Reihenfolge:
 ### Phase 5 — Folgewirkungen
 
 1. Welcher Staat ist Wohnsitzstaat im DBA-Sinne (Methodenartikel beachten)?
-2. Wegzugsbesteuerung § 6 AStG bei Wegfall deutscher Ansaessigkeit pruefen.
+2. Wegzugsbesteuerung § 6 AStG bei Wegfall deutscher Ansaessigkeit prüfen.
 3. Beschraenkte Steuerpflicht im anderen Staat fortbestehend?
 
 ## Strategie und Praxis-Tipps
 
 - Bei strittiger Ansaessigkeit: Verstaendigungsverfahren Art. 25 MA in Erwaegung ziehen, da Tie-Breaker im Einzelfall ambivalent ist.
 - Mittelpunkt der Lebensinteressen ist Beweisfrage — sauber dokumentieren mit Photos, Verbrauchsbelegen, Reisekalender.
-- Bei Wegzug: § 6 AStG-Stundungsantrag pruefen (seit ATAD-Umsetzung 2022 nur noch EU/EWR-rechtskonform); konkrete Stundungsbedingungen nach § 6 Abs. 4 und 5 AStG i.d.F. ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035) pruefen.
-- Bei Gesellschaften: Protokolle ueber Vorstandssitzungen sind das zentrale Beweismittel.
+- Bei Wegzug: § 6 AStG-Stundungsantrag prüfen (seit ATAD-Umsetzung 2022 nur noch EU/EWR-rechtskonform); konkrete Stundungsbedingungen nach § 6 Abs. 4 und 5 AStG i.d.F. ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035) prüfen.
+- Bei Gesellschaften: Protokolle über Vorstandssitzungen sind das zentrale Beweismittel.
 - MLI-Anpassung Art. 4 Abs. 3 fuehrt zu "kein DBA-Schutz ohne Verstaendigung" — kann Mandanten kalt erwischen.
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **Ansaessigkeitsbescheinigung zuerst, dann alles andere**: Standard-Formular des Wohnsitz-FA in DE ist DE-1/CoR (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — die Bezeichnungen aendern sich). Bei auslaendischen FA: IRS Form 6166 (USA, Antrag ueber Form 8802), HMRC Certificate of Residence (UK), CFR-1 (Polen), CRA Certificate (Kanada), spanisches Modelo 28 (in der Praxis hierfür "certificado de residencia fiscal"; aktuelle Modellnummer ueber agenciatributaria.gob.es pruefen) — Bearbeitungszeit teils 4-12 Wochen.
+- **Ansaessigkeitsbescheinigung zuerst, dann alles andere**: Standard-Formular des Wohnsitz-FA in DE ist DE-1/CoR (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — die Bezeichnungen ändern sich). Bei auslaendischen FA: IRS Form 6166 (USA, Antrag über Form 8802), HMRC Certificate of Residence (UK), CFR-1 (Polen), CRA Certificate (Kanada), spanisches Modelo 28 (in der Praxis hierfür "certificado de residencia fiscal"; aktuelle Modellnummer über agenciatributaria.gob.es prüfen) — Bearbeitungszeit teils 4-12 Wochen.
 - **Doppelte Ansaessigkeitsbescheinigung beantragen**: solange Tie-Breaker offen ist, beide FA um Bescheinigung bitten. Spaetere Korrektur einer Bescheinigung ist mit massivem Verwaltungsaufwand verbunden.
-- **Reisekalender als Excel mit Quellbeleg**: Pruefer fragen "wie sind die Tage gezaehlt?" — Excel-Spalten Datum, Land, Beleg (Flugticket, Hotelrechnung, EC-Kartenabhebung, Mobilfunk-Roaming-Abrechnung). Pruefer akzeptieren keine reinen Behauptungen.
+- **Reisekalender als Excel mit Quellbeleg**: Prüfer fragen "wie sind die Tage gezaehlt?" — Excel-Spalten Datum, Land, Beleg (Flugticket, Hotelrechnung, EC-Kartenabhebung, Mobilfunk-Roaming-Abrechnung). Prüfer akzeptieren keine reinen Behauptungen.
 - **Drittland-Ansaessigkeit (z.B. VAE, Singapur)**: Apostille des Heimatstaats notwendig, in vielen Drittstaaten sogar Konsularbeglaubigung — Vorlaufzeit 6-10 Wochen einplanen.
-- **Online-Antrag DE-Wohnsitz-FA**: ueber ELSTER moeglich, schneller als Papier. Bei Wegzug zwingend rechtzeitig vor Wegzug stellen, da nach Abmeldung keine Wohnsitz-Ansaessigkeit mehr bescheinigt wird.
+- **Online-Antrag DE-Wohnsitz-FA**: über ELSTER möglich, schneller als Papier. Bei Wegzug zwingend rechtzeitig vor Wegzug stellen, da nach Abmeldung keine Wohnsitz-Ansaessigkeit mehr bescheinigt wird.
 
 ## Trade-off-Tabelle
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Tie-Breaker durchspielen vs. MAP beantragen | Tie-Breaker-Subsumtion eigenstaendig (ohne Behörde) | MAP Art. 25 MA — Behörden klaeren | bei eindeutigem Sachverhalt Pfad A; bei strittiger Beweislage Pfad B |
+| Tie-Breaker durchspielen vs. MAP beantragen | Tie-Breaker-Subsumtion eigenstaendig (ohne Behörde) | MAP Art. 25 MA — Behörden klären | bei eindeutigem Sachverhalt Pfad A; bei strittiger Beweislage Pfad B |
 | Wegzug vor Veraeusserung vs. nach Veraeusserung | Veraeusserung waehrend deutscher Ansaessigkeit — voll DE-besteuert, aber DBA-Sicherheit | Wegzug zuerst, Veraeusserung danach — § 6 AStG, ggf. Stundung | bei wesentlicher Beteiligung (> 1 Prozent) immer § 6 AStG durchrechnen |
 | Doppelte Wohnstaette aufgeben vs. erhalten | Aufgabe Wohnung im Zweitstaat — Tie-Breaker klar für Hauptwohnsitz | Beibehaltung — Indizientabelle / Mittelpunkt-Argumentation | bei Familie im Zweitstaat regelmaessig Pfad B; sonst Pfad A vereinfacht |
-| POEM-Klausel (alt) vs. MAP-Klausel (MLI-neu) | Alt-Klausel: objektive POEM-Pruefung | Neu-Klausel: MAP zwischen Behörden | bei Gesellschaftsumzug: Vorab-Antrag auf MAP-Bestaetigung, sonst monatelange Unsicherheit |
+| POEM-Klausel (alt) vs. MAP-Klausel (MLI-neu) | Alt-Klausel: objektive POEM-Prüfung | Neu-Klausel: MAP zwischen Behörden | bei Gesellschaftsumzug: Vorab-Antrag auf MAP-Bestaetigung, sonst monatelange Unsicherheit |
 | Stundung § 6 AStG vs. Sofortzahlung | Stundungsantrag bei EU/EWR-Wegzug | Sofortzahlung | bei finanzieller Belastbarkeit Sofortzahlung — sichert Rechtsfrieden |
 
-## Was Reviewer/Pruefer triggert
+## Was Reviewer/Prüfer triggert
 
 - **Tie-Breaker-Kaskade nicht sauber subsumiert**: Memo springt zu Stufe 4 (Staatsangehoerigkeit) ohne saubere Argumentation, warum Stufen 1-3 nicht entscheiden.
 - **Mittelpunkt der Lebensinteressen nur behauptet, nicht belegt**: keine Indizientabelle, keine Beweismittel.
-- **Familiensituation uebersehen**: Ehegatte und Kinder gewichten BFH-typisch staerker als Vermoegen.
+- **Familiensituation uebersehen**: Ehegatte und Kinder gewichten BFH-typisch staerker als Vermögen.
 - **Beamtenpensionaer als "ausgewandert" behandelt**: Beamtenpension öffentlicher Dienst loest Kassenstaat-Besteuerung aus (Art. 19), unabhaengig von Wohnsitz — Wegzug ohne Folgen für Pension uebersehen.
 - **§ 6 AStG-Wegzugsbesteuerung ignoriert**: bei wesentlicher Beteiligung (≥ 1 Prozent) oder bestimmten Investmentanteilen droht stille-Reserven-Auflosung; haeufig spaet bemerkt.
 - **Ansaessigkeitsbescheinigung fehlt** als Anlage zum Memo.
@@ -159,7 +159,7 @@ Pruefungskaskade in dieser Reihenfolge:
 | Stufe | Kriterium Art. 4 Abs. 2 MA | Befund Mandant | Eindeutig? | Folge |
 |---|---|---|---|---|
 | 1 | Staendige Wohnstaette in einem Staat? | [Wohnung [Stadt A] gemietet, Ferienhaus [Stadt B] eigen] | [ja/nein] | wenn ja: Ansaessigkeit dort |
-| 2 | Mittelpunkt der Lebensinteressen | persoenlich: [Familie wo?]; wirtschaftlich: [Arbeitgeber/Vermoegen wo?] | [ja/nein] | wenn ja: Ansaessigkeit dort |
+| 2 | Mittelpunkt der Lebensinteressen | persoenlich: [Familie wo?]; wirtschaftlich: [Arbeitgeber/Vermögen wo?] | [ja/nein] | wenn ja: Ansaessigkeit dort |
 | 3 | Gewoehnlicher Aufenthalt > 6 Monate | [Aufenthaltstage Staat A: ...; Staat B: ...] | [ja/nein] | wenn ja: Ansaessigkeit dort |
 | 4 | Staatsangehoerigkeit | [DE/...] | [ja/nein] | wenn ja: Ansaessigkeit dort |
 | 5 | Verstaendigungsverfahren | beide Behörden | — | Antrag MAP |
@@ -172,7 +172,7 @@ Pruefungskaskade in dieser Reihenfolge:
 | Ehegatte/Lebenspartner | [...] | [...] | Heiratsurkunde, Meldebescheinigung |
 | Kinder Schule/Kita | [...] | [...] | Schulbescheinigung |
 | Hauptarbeitgeber | [...] | [...] | Arbeitsvertrag |
-| Vermoegen (Hauptbankkonto, Immobilien) | [...] | [...] | Kontoauszuege |
+| Vermögen (Hauptbankkonto, Immobilien) | [...] | [...] | Kontoauszuege |
 | Krankenversicherung | [...] | [...] | Versicherungsschein |
 | Kfz-Anmeldung | [...] | [...] | Zulassung |
 | Vereinszugehoerigkeit | [...] | [...] | Mitgliedsausweis |

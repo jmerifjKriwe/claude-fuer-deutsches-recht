@@ -14,7 +14,7 @@ description: "Beschlussfassung WEG zur Waermepumpen-Aufstellung gem: § 20 WEG n
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Förderung BAFA BEG-EM.
+**Fokus:** Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschlüsse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Förderung BAFA BEG-EM.
 
 ### Wärmepumpen-Einbau in WEG nach GEG 2024
 
@@ -71,13 +71,13 @@ description: "Beschlussfassung WEG zur Waermepumpen-Aufstellung gem: § 20 WEG n
 
 ### Leitentscheidungen (verifizierte Eckpunkte, Stand 05/2026)
 
-Belegt ueber bundesgerichtshof.de und dejure.org:
+Belegt über bundesgerichtshof.de und dejure.org:
 
-- **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG auf Genehmigung einer Waermepumpe (4 Lueftungsanlagen mit Fassadendurchbohrungen): die Zulaessigkeit setzt für die Vorbefassung nicht voraus, dass dem Versammlungsgremium bereits ein Privatgutachten/optimaler Entscheidungsgrundlage vorgelegt wurde. Es genuegt, dass der Klaeger in der Versammlung den entsprechenden Antrag gestellt hat. Volltext-Suche: https://www.bundesgerichtshof.de
-- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderung (Klimaanlage); Pruefung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand der unmittelbar mit der Veraenderung verbundenen Auswirkungen. URL: https://dejure.org/2025,9080
+- **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG auf Genehmigung einer Waermepumpe (4 Lueftungsanlagen mit Fassadendurchbohrungen): die Zulaessigkeit setzt für die Vorbefassung nicht voraus, dass dem Versammlungsgremium bereits ein Privatgutachten/optimaler Entscheidungsgrundlage vorgelegt wurde. Es genuegt, dass der Kläger in der Versammlung den entsprechenden Antrag gestellt hat. Volltext-Suche: https://www.bundesgerichtshof.de
+- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderung (Klimaanlage); Prüfung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand der unmittelbar mit der Veraenderung verbundenen Auswirkungen. URL: https://dejure.org/2025,9080
 - **BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23** — Kostenverteilung bei baulichen Maßnahmen / Aenderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG, einschliesslich Erhaltungsruecklage; PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 
-Schallschutzfragen werden ueberwiegend von Instanzgerichten entschieden; vor Zitierung Instanzgerichts-Urteile auf openjur.de / OLG-Datenbanken pruefen.
+Schallschutzfragen werden ueberwiegend von Instanzgerichten entschieden; vor Zitierung Instanzgerichts-Urteile auf openjur.de / OLG-Datenbanken prüfen.
 
 ## Prüfschema
 
@@ -96,14 +96,14 @@ Schallschutzfragen werden ueberwiegend von Instanzgerichten entschieden; vor Zit
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — WEG/Miet Waermepumpe GEG-Umruest | Beschluss / Zustimmungsklage; Template unten |
-| Variante A — Eigentuemergemeinschaft lehnt ab | Individualrechts-Weg § 13 WEG pruefen; Sondernutzungsrecht |
+| Variante A — Eigentuemergemeinschaft lehnt ab | Individualrechts-Weg § 13 WEG prüfen; Sondernutzungsrecht |
 | Variante B — Vermieteter Mietbaustein Modernisierung | Modernisierungsmieterhoeung §§ 559 ff. BGB ankuendigen |
-| Variante C — Denkmalschutz blockiert Umbau | Behordliche Genehmigung Denkmalbehoerde; GEG-Ausnahmen pruefen |
+| Variante C — Denkmalschutz blockiert Umbau | Behordliche Genehmigung Denkmalbehoerde; GEG-Ausnahmen prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -171,7 +171,7 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 [Unterschrift Vermieter]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -238,7 +238,7 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
  - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / unbillige Benachteiligung): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&anz=1&nr=141426&pos=0
  - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
-- Weitere Rechtsprechung vor Verwendung live ueber dejure.org/openjur.de/bundesgerichtshof.de pruefen.
+- Weitere Rechtsprechung vor Verwendung live über dejure.org/openjur.de/bundesgerichtshof.de prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Förderrichtlinie BEG Einzelmaßnahmen 2024
 - TA Lärm (Technische Anleitung zum Schutz gegen Lärm)

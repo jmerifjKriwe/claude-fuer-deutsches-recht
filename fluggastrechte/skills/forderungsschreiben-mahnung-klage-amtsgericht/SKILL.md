@@ -131,7 +131,7 @@ Wichtig: Die Mahnung nimmt regelmäßig dieselben Anlagen wie das Erstschreiben 
 - Art. 7 VO (EG) Nr. 261/2004 — Ausgleichszahlung 250/400/600 EUR je nach Distanz
 - Art. 5 Abs. 3 VO (EG) Nr. 261/2004 — Entlastungsbeweis aussergewoehnliche Umstaende (Beweislast Airline)
 - § 286 Abs. 1 BGB — Verzug bei fruchtlosem Fristablauf
-- § 288 Abs. 1 BGB — Verzugszinsen 5 Prozentpunkte ueber Basiszinssatz
+- § 288 Abs. 1 BGB — Verzugszinsen 5 Prozentpunkte über Basiszinssatz
 - § 195 BGB — Regelmäßige Verjährungsfrist drei Jahre
 - § 199 Abs. 1 BGB — Verjährungsbeginn Schluss des Jahres der Kenntnis
 

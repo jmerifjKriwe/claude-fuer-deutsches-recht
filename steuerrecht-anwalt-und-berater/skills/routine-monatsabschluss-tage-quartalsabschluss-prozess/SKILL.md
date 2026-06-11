@@ -96,7 +96,7 @@ TAG 29-30: ABSCHLUSS UND ARCHIVIERUNG
 | 15. Februar Folgejahr | Jahresmeldung DEUEV, BG-Lohnnachweis |
 | 28. Februar Folgejahr | LSt-Bescheinigungen |
 | 31. Juli Folgejahr | Steuererklaerungen Standardfrist § 149 Abs. 2 AO (ohne Beratervorbehalt) |
-| Letzter Tag Februar des **zweiten** Folgejahres | Steuererklaerungen mit Beratervorbehalt § 149 Abs. 3 AO (StB-Mandat); für Veranlagungszeitraeume mit verlaengerten Fristen Stand pruefen |
+| Letzter Tag Februar des **zweiten** Folgejahres | Steuererklaerungen mit Beratervorbehalt § 149 Abs. 3 AO (StB-Mandat); für Veranlagungszeitraeume mit verlaengerten Fristen Stand prüfen |
 
 ### Phase 3 — Mandantengruppen
 
@@ -108,13 +108,13 @@ TAG 29-30: ABSCHLUSS UND ARCHIVIERUNG
 
 - Bei Belegabgabe-Verzoegerung: 1./2./3. Mahnung.
 - Bei wiederholten Verspaetungen: Honorar-Aufschlag, Mandatsgespraech.
-- Bei dauerhafter Verspaetung: Mandatsniederlegung pruefen.
+- Bei dauerhafter Verspaetung: Mandatsniederlegung prüfen.
 
 ### Phase 5 — Sachbearbeiter-Zuordnung
 
 - Klare Zuständigkeit pro Mandant.
 - Urlaubsvertretung dokumentiert.
-- Berufstraeger-Pruefung mindestens beim Versand.
+- Berufstraeger-Prüfung mindestens beim Versand.
 
 ### Phase 6 — Controlling
 

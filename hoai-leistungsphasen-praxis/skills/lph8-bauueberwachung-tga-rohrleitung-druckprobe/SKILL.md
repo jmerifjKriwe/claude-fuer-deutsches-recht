@@ -15,7 +15,7 @@ description: "Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt 
 
 ## Spezialwissen
 
-Rohrleitungen der technischen Gebaeude-ausruestung sind nach dem Einbau in Waenden und Decken nicht mehr zugaenglich - eine nicht entdeckte Undichtigkeit fuehrt zum Wasserschaden. Die Bauueberwachung in LPH 8 stellt sicher, dass alle Rohrleitungssysteme vor dem Schliessen der Schlitze und Decken druckgeprueft und dokumentiert sind. Das Anlagenkennzeichnungssystem ermoeglicht spaeter den lueckenlosen Betrieb durch SAP PM.
+Rohrleitungen der technischen Gebaeude-ausruestung sind nach dem Einbau in Waenden und Decken nicht mehr zugaenglich - eine nicht entdeckte Undichtigkeit fuehrt zum Wasserschaden. Die Bauueberwachung in LPH 8 stellt sicher, dass alle Rohrleitungssysteme vor dem Schliessen der Schlitze und Decken druckgeprueft und dokumentiert sind. Das Anlagenkennzeichnungssystem ermoeglicht später den lueckenlosen Betrieb durch SAP PM.
 
 ## Bauwerk und Auftrag
 
@@ -30,7 +30,7 @@ Rohrleitungen der technischen Gebaeude-ausruestung sind nach dem Einbau in Waend
 3. Schweissnahtpruefung Stahl: VT Sichtpruefung 100 Prozent nach DIN EN ISO 17637, RT Roentgenpruefung stichprobenartig 10 Prozent nach DIN EN ISO 17636-1
 4. Druckpruefung Heizung: Kaltdruckpruefung 1.3-facher Betriebsdruck mindestens 60 Minuten, Manometerprotokoll Druckabfall kleiner 0.1 bar
 5. Trinkwasserpruefung: Stagnationspruefung nach DVGW W 551, Probe Legionellen und Gesamtkeimzahl vor Inbetriebnahme, Befund Labor
-6. Abwasserrohr-Dichtheit: Druckluft-Pruefung DN kleiner 200 nach EN 1610 Verfahren L, Druck 150 mbar 30 Minuten, Druckabfall kleiner 0.3 mbar
+6. Abwasserrohr-Dichtheit: Druckluft-Prüfung DN kleiner 200 nach EN 1610 Verfahren L, Druck 150 mbar 30 Minuten, Druckabfall kleiner 0.3 mbar
 
 ## Normen und Rechtsrahmen
 
@@ -53,7 +53,7 @@ Rohrleitungen der technischen Gebaeude-ausruestung sind nach dem Einbau in Waend
 ## Foto-, Video- und Dokumentenanalyse
 
 - Fotodokumentation Rohrleitungsverlegung: Foto je Trassenabschnitt vor Schliessung Schlitz oder Decke, Zeitstempel, AKS-Schild sichtbar
-- Endoskop-Inspektion Rohrleitungsinnenwand: nach Schweissnahtreparatur visuelle Pruefung Schlackerestreste, Video-Protokoll
+- Endoskop-Inspektion Rohrleitungsinnenwand: nach Schweissnahtreparatur visuelle Prüfung Schlackerestreste, Video-Protokoll
 - Schweissnahtpruefprotokoll RT: Roentgenfilm-Auswertung oder digitale DR-Aufnahme, Bewertung nach DIN EN ISO 10675-1
 - Druckpruefprotokoll PDF-Archiv: Automatisch generiert aus Digitalmanometer Rotronic oder Testo 512, Exportformat CSV für SAP-Import
 - PlanRadar TGA-Grundriss: Mangelpin je Rohrleitungsabschnitt, Foto Undichtigkeit, Gewerk Heizung oder Sanitaer, Faelligkeit T+5
@@ -68,14 +68,14 @@ Rohrleitungen der technischen Gebaeude-ausruestung sind nach dem Einbau in Waend
 
 ## Typische Fallstricke
 
-- Druckpruefung ohne AKS-Identifikation protokolliert: Spaetere Zuordnung des Pruefprotokolls zum Rohrsystem nicht moeglich, keine verwertbare Dokumentation
+- Druckpruefung ohne AKS-Identifikation protokolliert: Spaetere Zuordnung des Pruefprotokolls zum Rohrsystem nicht möglich, keine verwertbare Dokumentation
 - Rohrdaemmung vor Druckpruefung aufgebracht: Undichtigkeiten unter Daemmung nicht lokalisierbar, Abwicklung im Schadensfall kompliziert
 - Trinkwasseranlage ohne DVGW W 551 Betriebstemperatur: Legionellenausbruch waehrend Hotel-Betrieb, schwerwiegende Haftungsfolgen nach § 823 BGB
 - Abwasserleitungen nicht einzeln geprueft: Gesamtabschnitt zu lang, Leckstelle nicht lokalisierbar
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

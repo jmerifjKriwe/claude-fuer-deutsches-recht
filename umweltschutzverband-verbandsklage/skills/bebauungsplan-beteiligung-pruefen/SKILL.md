@@ -3,7 +3,7 @@ name: bebauungsplan-beteiligung-pruefen
 description: "Umweltschutzverband Verbandsklage: Bebauungsplan: Beteiligung prüfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Bebauungsplan Beteiligung Pruefen
+# Bebauungsplan Beteiligung Prüfen
 
 ## Arbeitsweg
 

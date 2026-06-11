@@ -37,7 +37,7 @@ description: "Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitend
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
 
-## Triage vor Pruefung
+## Triage vor Prüfung
 
 Bevor losgelegt wird, klaere:
 1. Welche Grundfreiheit ist betroffen — Warenverkehr, Dienstleistungen, Niederlassung, Kapital, Personen?
@@ -52,13 +52,13 @@ Bevor losgelegt wird, klaere:
 
 ## Normen-Kette Grundfreiheiten
 
-- **Art. 34-36 AEUV** — Freier Warenverkehr; Mengenmassige Beschraenkungen und Massnahmen gleicher Wirkung; Rechtfertigungsgruende Art. 36
+- **Art. 34-36 AEUV** — Freier Warenverkehr; Mengenmassige Beschraenkungen und Maßnahmen gleicher Wirkung; Rechtfertigungsgruende Art. 36
 - **Art. 45-48 AEUV** — Arbeitnehmerfreizuegigkeit; Diskriminierungsverbot; Art. 45 Abs. 3 Ausnahme oeffentl. Ordnung
 - **Art. 49-55 AEUV** — Niederlassungsfreiheit; Sekundaerniederlassung; Art. 52 Rechtfertigungsgruende
 - **Art. 56-62 AEUV** — Dienstleistungsfreiheit; voruebergehende Erbringung; DLF-RL 2006/123
 - **Art. 63-66 AEUV** — Kapitalverkehrsfreiheit; umfassendste Grundfreiheit; auch gg. Drittlaender
 
-## Output-Template: Grundfreiheiten-Pruefung
+## Output-Template: Grundfreiheiten-Prüfung
 
 **Adressat:** Kanzlei-intern oder Mandant
 **Tonfall:** Systematisch-analytisch

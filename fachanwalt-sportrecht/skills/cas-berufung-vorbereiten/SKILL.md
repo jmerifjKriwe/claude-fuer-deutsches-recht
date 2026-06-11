@@ -80,13 +80,13 @@ description: "Sportler oder Verein will Entscheidung eines Sportverbands vor dem
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — CAS-Berufung vorbereiten | Berufungsschriftsatz; Template unten |
 | Variante A — Mandant will Verfahren vermeiden | Einigung mit Verband vor CAS; Settlement-Option |
-| Variante B — Einstweilige Massnahme noetig | R37 CAS-Code Antrag auf einstweilige Massnahme |
+| Variante B — Einstweilige Maßnahme noetig | R37 CAS-Code Antrag auf einstweilige Maßnahme |
 | Variante C — Grundsatzentscheidung angestrebt | Advisory Opinion CAS als Alternative |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -265,7 +265,7 @@ The Appellant is available for emergency contact:
 [Counsel Signature]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

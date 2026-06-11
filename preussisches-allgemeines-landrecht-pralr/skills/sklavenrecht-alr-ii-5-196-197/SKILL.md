@@ -9,7 +9,7 @@ description: "Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 
 
 ALR Zweiter Teil, Fuenfter Titel (Vom Gesinde) enthaelt mehrere Bestimmungen zum Status auslaendischer Sklaven, die nach Preussen gelangen. Sie zaehlen zu den beruehmten Stellen des ALR und werden in der Diskussion um das "free soil"-Prinzip Europas regelmaessig zitiert.
 
-### Schluesselparagraphen (Wortlaut sinngemaess)
+### Schluesselparagraphen (Wortlaut sinngemäß)
 
 - **ALR II 5 § 196**: "Sklaverei soll in den koeniglichen Staaten nicht geduldet werden."
 - **ALR II 5 § 197**: "Sklaven, welche aus auswaertigen Ländern in die koeniglichen Staaten gebracht werden, sind, sobald sie die Grenze ueberschreiten, für frei zu erklaeren."
@@ -22,7 +22,7 @@ Wortlaut vor konkretem Zitat im Digitalisat (z. B. opinioiuris.de, Universitaets
 - Eintritt in das Staatsgebiet **eo ipso** beendet den Sklavenstatus.
 - Der frueher Versklavte wird ab Grenzuebertritt **frei** im Sinne des preussischen Personenrechts.
 - Eigentumsansprueche des frueheren Herrn am Menschen sind in Preussen rechtlich nicht durchsetzbar.
-- Die ehemalige Herrschaft hat allenfalls vertragliche Restansprueche (z. B. ueber Reisekosten Hausrat) — aber keine personenrechtliche Verfuegungsbefugnis.
+- Die ehemalige Herrschaft hat allenfalls vertragliche Restansprueche (z. B. über Reisekosten Hausrat) — aber keine personenrechtliche Verfuegungsbefugnis.
 
 ## Die "1-Jahres-Frist"
 

@@ -29,7 +29,7 @@ Liefert die Konditionalsystematik, die typischen M&A-Closing-Conditions, das Lon
 ## Rechtlicher und methodischer Rahmen
 
 - § 158 BGB: Aufschiebende und aufloesende Bedingung. Die Wirkung tritt mit dem Eintritt der Bedingung ein bzw. faellt mit ihm weg.
-- § 159 BGB: Rueckbeziehung der Wirkung durch Parteivereinbarung moeglich.
+- § 159 BGB: Rueckbeziehung der Wirkung durch Parteivereinbarung möglich.
 - § 161 BGB: Schwebende Wirksamkeit bei Verfuegungen.
 - § 162 BGB: Treuwidrige Verhinderung oder Herbeifuehrung der Bedingung.
 - § 163 BGB: Bestimmung der Zeit. Befristung im Gegensatz zur Bedingung.
@@ -37,12 +37,12 @@ Liefert die Konditionalsystematik, die typischen M&A-Closing-Conditions, das Lon
 
 ## Ablauf / Checkliste
 
-1. **Klaeren: Bedingung oder Befristung?** Ungewisses Ereignis = Bedingung. Sicheres zeitliches Ereignis = Befristung.
+1. **Klären: Bedingung oder Befristung?** Ungewisses Ereignis = Bedingung. Sicheres zeitliches Ereignis = Befristung.
 2. **Aufschiebend oder aufloesend?** Tritt die Wirkung mit Bedingungseintritt ein oder faellt sie weg?
 3. **Potestativ oder Drittbedingung?** Liegt der Eintritt in der Macht einer Partei?
 4. **Long Stop Date setzen.** Ohne zeitliche Grenze schwebt die Bedingung unbestimmt lange.
 5. **Faelligkeit der Hauptpflichten bestimmen.** Mit oder ohne Eintritt?
-6. **Fristberechnung pruefen.** §§ 187 bis 193 BGB anwenden. Sonn- und Feiertagsregel beachten.
+6. **Fristberechnung prüfen.** §§ 187 bis 193 BGB anwenden. Sonn- und Feiertagsregel beachten.
 7. **Doppelt-negative Formulierungen vermeiden.**
 
 ### Tabelle Bedingungstyp zu Beispielklausel
@@ -50,7 +50,7 @@ Liefert die Konditionalsystematik, die typischen M&A-Closing-Conditions, das Lon
 | Typ | § BGB | Wirkung | Beispielklausel |
 |---|---|---|---|
 | Aufschiebende Bedingung | § 158 Abs. 1 | Wirksamkeit tritt erst mit Eintritt ein | "Dieser Vertrag wird wirksam mit Eintragung der Verschmelzung im Handelsregister." |
-| Aufloesende Bedingung | § 158 Abs. 2 | Wirksamkeit endet mit Eintritt | "Dieser Vertrag endet mit Insolvenzeroeffnung ueber das Vermoegen des Bestellers." |
+| Aufloesende Bedingung | § 158 Abs. 2 | Wirksamkeit endet mit Eintritt | "Dieser Vertrag endet mit Insolvenzeroeffnung über das Vermögen des Bestellers." |
 | Befristung | § 163 BGB | Zeitlich gewisses Ereignis | "Der Vertrag endet am 31. Dezember 2028." |
 | Potestativbedingung | § 158 BGB | Eintritt von einer Partei kontrollierbar | "Sofern der Besteller das Angebot annimmt, ..." |
 | Closing Condition (CP) | § 158 Abs. 1 | Aufschiebende Bedingung im M&A | "Bedingung des Vollzugs ist die kartellrechtliche Freigabe." |

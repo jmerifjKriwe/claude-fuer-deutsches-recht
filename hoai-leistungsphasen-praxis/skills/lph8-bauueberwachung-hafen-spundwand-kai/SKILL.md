@@ -15,7 +15,7 @@ description: "Bauueberwachung HOAI LPH 8 für Hafenspundwaende und Kaianlagen �
 
 ## Spezialwissen
 
-Hafenbauwerke gehoeren zu den komplexesten Ingenieurbauwerken im Tiefbau: Stahlspundwaende muessen unter Wassereinfluss dauerhaft standsicher sein, Kaiplatten muessen Schwerlastverkehr und Kranlasten aufnehmen, und der Korrosionsschutz entscheidet ueber die Betriebsdauer. Die Bauueberwachung in LPH 8 sichert Einbauqualitaet, Masstoleranzen und Abnahme mit Hafenbetreiber und Wasserbehoerde.
+Hafenbauwerke gehoeren zu den komplexesten Ingenieurbauwerken im Tiefbau: Stahlspundwaende müssen unter Wassereinfluss dauerhaft standsicher sein, Kaiplatten müssen Schwerlastverkehr und Kranlasten aufnehmen, und der Korrosionsschutz entscheidet über die Betriebsdauer. Die Bauueberwachung in LPH 8 sichert Einbauqualitaet, Masstoleranzen und Abnahme mit Hafenbetreiber und Wasserbehoerde.
 
 ## Bauwerk und Auftrag
 
@@ -64,18 +64,18 @@ Hafenbauwerke gehoeren zu den komplexesten Ingenieurbauwerken im Tiefbau: Stahls
 - SAP PS Netzplan Hafen: RAMM-010 Spundwandeinbau, ANKER-020 Zugpfaehle, BETON-030 Kaiplatte, KKS-040 Korrosionsschutz, ABNAHME-050
 - BIM360 Dokumentenmanagement: Rammprotokolle als PDF hochgeladen, verknuepft mit Spundwand-ID aus IFC-Modell
 - Dalux Field Management Abnahmecheckliste Hafen: Punkt Spundwand-Lage, KKS-Schutzpotential, Betonguete, Unterschrift HPA
-- Workflow: Abweichung Spundwand > Toleranz, statische Bewertung durch Tragwerksplaner, Massnahme Ankerpfahl nachtraglich oder Akzeptanz
+- Workflow: Abweichung Spundwand > Toleranz, statische Bewertung durch Tragwerksplaner, Maßnahme Ankerpfahl nachtraglich oder Akzeptanz
 
 ## Typische Fallstricke
 
-- Spundwand waehrend Rammung aus Flucht geraten: Nachbarborlen klemmen, Nachrammen ausschliesslich mit Vibration ohne zusaetzlichen Schlageintrag
+- Spundwand waehrend Rammung aus Flucht geraten: Nachbarborlen klemmen, Nachrammen ausschließlich mit Vibration ohne zusaetzlichen Schlageintrag
 - Kathodischer Korrosionsschutz vergessen: Seewasser-Chlorid-Korrosion an Stahl erfordert KKS zwingend, Nachruestung nach Einbau extrem aufwendig
 - Fehlende Ankerpfahl-Freilaenge: Zu kurze Freilaenge fuehrt zu Zwangsspannungen und Kopfbruch unter Last, Statik-Freigabe Pflicht
 - Betonage Kaiplatte bei Seegang: Schalung verformung bei Wellengang, Masstoleranzen Kaipflaster nicht einhaltbar
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

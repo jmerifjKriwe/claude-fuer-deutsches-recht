@@ -13,17 +13,17 @@ description: "Klage und Schriftsatz per Post beim SG einreichen. Abschriften fü
 
 ## Worum geht es?
 
-Auch ohne Internet und Fax koennen Sie klagen. Per Post. Dabei muessen Sie aber an Abschriften denken, damit das Gericht den Schriftsatz auch der Gegenseite schicken kann.
+Auch ohne Internet und Fax können Sie klagen. Per Post. Dabei müssen Sie aber an Abschriften denken, damit das Gericht den Schriftsatz auch der Gegenseite schicken kann.
 
 ## In einfacher Sprache
 
-Sie koennen Ihre Klage per Brief schicken. Das ist immer noch ok. Wichtig: das Gericht braucht den Brief mehrfach. Einmal für sich, einmal für den Gegner.
+Sie können Ihre Klage per Brief schicken. Das ist immer noch ok. Wichtig: das Gericht braucht den Brief mehrfach. Einmal für sich, einmal für den Gegner.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie wollen klassisch per Post einreichen.
 - Sie haben kein MJP-Konto.
-- Sie wollen einen Brief, den Sie anfassen koennen.
+- Sie wollen einen Brief, den Sie anfassen können.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -63,7 +63,7 @@ Alle Anlagen einmal für das Gericht (Original-Kopie reicht) und einmal je Bekla
 ### Schritt 4 — Versand vorbereiten
 
 - Adresse aus www.sozialgerichtsbarkeit.de
-- Umschlag entsprechend gross
+- Umschlag entsprechend groß
 - Fragen Sie in der Post nach dem Porto für Maxibrief / Paketchen, je nach Umfang.
 
 ### Schritt 5 — Versandweg waehlen
@@ -81,11 +81,11 @@ Alle Anlagen einmal für das Gericht (Original-Kopie reicht) und einmal je Bekla
 
 Aufheben min. 5 Jahre.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Original mit Unterschrift** ist Pflicht. Eine Kopie der Unterschrift reicht meist nicht.
 - **Abschriften nicht vergessen**: ohne Abschriften kann das Gericht nicht zustellen — und fragt erst nach, was Zeit kostet.
-- **Frist sichern**: Bei letzter Tag Versand: pruefen, ob Briefkasten-Leerung am selben Tag erfolgt.
+- **Frist sichern**: Bei letzter Tag Versand: prüfen, ob Briefkasten-Leerung am selben Tag erfolgt.
 
 ## Typische Fehler
 
@@ -96,4 +96,4 @@ Aufheben min. 5 Jahre.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 93 SGG zu Abschriften. Postpreise variieren, aktuell pruefen.
+Stand: 05/2026. § 93 SGG zu Abschriften. Postpreise variieren, aktuell prüfen.

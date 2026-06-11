@@ -38,7 +38,7 @@ description: "Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungs
 
 ## Vorlage Mahnung
 
-"Trotz meiner Sachstandsanfrage vom [Datum] ist bisher keine Entscheidung ergangen. Ich setze hiermit Frist bis zum [Datum 14 Tage spaeter]. Andernfalls werde ich Untaetigkeitsklage erheben."
+"Trotz meiner Sachstandsanfrage vom [Datum] ist bisher keine Entscheidung ergangen. Ich setze hiermit Frist bis zum [Datum 14 Tage später]. Andernfalls werde ich Untaetigkeitsklage erheben."
 
 ## Pruefraster
 

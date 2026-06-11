@@ -7,7 +7,7 @@ description: "Dokumentenintake für Wandeldarlehen-Lebenszyklus: sortiert Wandel
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Wandeldarlehen Lebenszyklus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Wandeldarlehen Lebenszyklus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -26,7 +26,7 @@ Dieser Dokumenten-Intake für **Wandeldarlehen Lebenszyklus** ordnet Anlagen, Re
 ## Fachlandkarte dieses Plugins
 
 - `begleitet-erstpruefung-und-mandatsziel` — Begleitet Erstpruefung und Mandatsziel
-- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis Pruefung
+- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis Prüfung
 - `beurkundungspruefung-quellenkarte-check` — Beurkundungspruefung Quellenkarte Check
 - `bilingual-einsprachig` — Bilingual Einsprachig
 - `bilinguale-vertragserstellung` — Bilinguale Vertragserstellung

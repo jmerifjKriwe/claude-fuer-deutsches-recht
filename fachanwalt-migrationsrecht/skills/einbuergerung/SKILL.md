@@ -14,7 +14,7 @@ description: "Antrag auf Einbuergerung nach StAG: Anspruchseinbuergerung § 10 S
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmäßiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenntnis zur freiheitlich-demokratischen Grundordnung kein Ausweisungsinteresse. Mehrstaatigkeit nach Reform 2024 grundsaetzlich zulässig § 12 StAG. Ermessenseinbuergerung § 8 StAG. Untätigkeitsklage § 75 VwGO.
+**Fokus:** Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmäßiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenntnis zur freiheitlich-demokratischen Grundordnung kein Ausweisungsinteresse. Mehrstaatigkeit nach Reform 2024 grundsätzlich zulässig § 12 StAG. Ermessenseinbuergerung § 8 StAG. Untätigkeitsklage § 75 VwGO.
 
 ### Einbürgerung
 
@@ -64,13 +64,13 @@ description: "Antrag auf Einbuergerung nach StAG: Anspruchseinbuergerung § 10 S
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Einbuergerungsantrag | Antragsunterlagen; Template unten |
-| Variante A — Mehrstaatigkeit erwuenscht | § 12 StAG Ausnahme Hinnahme Mehrstaatigkeit pruefen |
-| Variante B — Vorstrafen im Register | § 11 StAG Ausschlussgrund pruefen; Tilgungsfrist |
+| Variante A — Mehrstaatigkeit erwuenscht | § 12 StAG Ausnahme Hinnahme Mehrstaatigkeit prüfen |
+| Variante B — Vorstrafen im Register | § 11 StAG Ausschlussgrund prüfen; Tilgungsfrist |
 | Variante C — Einbuergerung beschleunigt erwaegen | § 10 Abs. 3 StAG besondere Integrationsleistungen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -158,7 +158,7 @@ liegt nicht vor, weil [konkrete Widerlegung].
 [Unterschrift]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

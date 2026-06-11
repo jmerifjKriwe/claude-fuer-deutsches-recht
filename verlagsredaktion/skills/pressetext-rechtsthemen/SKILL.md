@@ -45,7 +45,7 @@ Der Verlag bringt ein neues Buch, eine neue Auflage oder einen aktuellen Aufsatz
  - Tagespresse: Alltagsbeispiel, Folgen für den Buerger, keine Fachsprache.
 4. **Zitat des Autors einbauen.** Ein zwei- bis dreisaetziger O-Ton; vorab mit Autor freigeben.
 5. **Sperrfrist setzen** ("Sperrfrist: [Datum], 0 Uhr"). Bei Datenbankplatzierung Embargo bei Anbietern.
-6. **Faktencheck.** Aktenzeichen, Datum, Auflagen, Preis pruefen.
+6. **Faktencheck.** Aktenzeichen, Datum, Auflagen, Preis prüfen.
 7. **Pressefoto und Cover.** Hochaufloesend (300 dpi, mindestens 1500 px), Lizenz im Header der E-Mail.
 8. **Verteiler.** Justierte Adresslisten, nicht "alle". Beim Boomerang-Effekt am Vortag verschicken.
 9. **Nachfass.** Nach 48 Stunden Anruf bei den drei wichtigsten Medien.

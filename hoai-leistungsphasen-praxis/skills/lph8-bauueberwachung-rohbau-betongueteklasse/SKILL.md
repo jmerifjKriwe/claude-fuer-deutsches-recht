@@ -29,17 +29,17 @@ Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungsla
 2. Bewehrungsabnahme: Stahlsorte BSt 500 S Werksbescheinigung 3.1, Abstandhalter-Typ und Anordnung, Biegerollendurchmesser, Stosslage nicht in Momentenmaximum
 3. Frischbetonprobenahme: DIN EN 12350-1 bis -7, Konsistenz F3, Rohdichte, Luftgehalt, Temperatur, Chargen-Nummer und Transportbegleitschein
 4. Betonierprotokoll: Einbaugeschwindigkeit je Schalungseinheit, Verdichtungsabstand Innenruettler max. 0.5 m, Aussetzmethode dokumentiert
-5. Pruefkoerperherstellung: 3 Wuerfel 150 mm je 50 m3 oder je Bauteil, Lagerung normtemperate 20 degC nach DIN EN 12390-2, Pruefung nach 7 und 28 Tagen
+5. Pruefkoerperherstellung: 3 Wuerfel 150 mm je 50 m3 oder je Bauteil, Lagerung normtemperate 20 degC nach DIN EN 12390-2, Prüfung nach 7 und 28 Tagen
 6. Sichtbeton-Klasseneinstufung: SB1-SB4 nach DBV-Merkblatt Sichtbeton 2015, Abnahmebegehung mit Auftraggeber vor Freistellung
 
 ## Normen und Rechtsrahmen
 
 - § 650p BGB, § 650q BGB: Architektenvertrag Rohbau, Bauueberwachungspflicht
-- HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Bewehrungsabnahme, Betonierprotokoll, Pruefung Bausubstanz
+- HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Bewehrungsabnahme, Betonierprotokoll, Prüfung Bausubstanz
 - VOB/C DIN 18331 Betonarbeiten: Einteilung Betone, Pruefpflichten, Aufmass nach Einbaumassen
-- DIN EN 206:2021-06 und DIN 1045-2:2023-08: Konformitaetsnachweis Beton, Chargen-Pruefung, Eignungspruefung
+- DIN EN 206:2021-06 und DIN 1045-2:2023-08: Konformitaetsnachweis Beton, Chargen-Prüfung, Eignungspruefung
 - DIN EN 1992-1-1 Eurocode 2: Betondeckung, Mindestbewehrung, Rissbreitenbegrenzung
-- DIN EN 12390 (Pruefung von Festbeton): Teile 1-8, Wuerfelherstellung, Druckfestigkeit, Wasserundurchlaessigkeit
+- DIN EN 12390 (Prüfung von Festbeton): Teile 1-8, Wuerfelherstellung, Druckfestigkeit, Wasserundurchlaessigkeit
 
 ## Prueferaster und Kontrollpunkte
 
@@ -69,13 +69,13 @@ Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungsla
 ## Typische Fallstricke
 
 - Betonage ohne Bewehrungsabnahme-Protokoll: Fehlende Unterschrift Statiker gilt als nicht abgenommen, Haftungsrisiko Bauueberwacher
-- Pruefwuerfel falsch gelagert: Wuerfel bei Frost oder direkter Sonne gelagert, Druckfestigkeit verfaelscht, kein Konformitaetsnachweis moeglich
-- Sichtbeton-Klasse nicht schriftlich vereinbart: Auftraggeber beanstandet spaeter Farbtoene, keine vertragliche Grundlage, teurer Nachtragsstreit
+- Pruefwuerfel falsch gelagert: Wuerfel bei Frost oder direkter Sonne gelagert, Druckfestigkeit verfaelscht, kein Konformitaetsnachweis möglich
+- Sichtbeton-Klasse nicht schriftlich vereinbart: Auftraggeber beanstandet später Farbtoene, keine vertragliche Grundlage, teurer Nachtragsstreit
 - Zu fruehes Ausschalen: Mindest-Ausschalfristen nach DIN 1045-3 nicht eingehalten, Rissbildung durch Eigengewicht
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

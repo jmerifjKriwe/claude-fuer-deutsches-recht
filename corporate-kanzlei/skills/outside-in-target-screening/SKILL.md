@@ -227,7 +227,7 @@ VERTRAULICH
 ## Rote Schwellen
 
 - UBO ungeklärt → GwG-Pflicht; keine Mandatsannahme ohne vollständige UBO-Klärung
-- Jahresabschluss fehlt → grosses Risiko; § 325 HGB-Verstoss als Red Flag
+- Jahresabschluss fehlt → großes Risiko; § 325 HGB-Verstoss als Red Flag
 - Screening ohne Transparenzregister-Abfrage → wirtschaftlich Berechtigter unbekannt
 - DSGVO: Personendaten aus Screening speichern ohne Zweck → unzulaessige Verarbeitung (Art. 5 DSGVO)
 - Insider-Probleme bei börsennotierten Targets → Art. 14, 17, 18 MAR; Insider-Liste und Ad-hoc-Prüfung anlegen

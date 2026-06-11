@@ -15,9 +15,9 @@ description: "Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues 
 
 ## Mandatsaufnahme-Triage
 
-**Klaeren Sie zuerst:**
+**Klären Sie zuerst:**
 
-1. **Mandantentyp:** Gemeinde/Stadt, Vorhabentraeger (DB, Strassenbauverwaltung), privater Betroffener (Anlieger, Eigentuemer), Verband, Unternehmen?
+1. **Mandantentyp:** Gemeinde/Stadt, Vorhabentraeger (DB, Strassenbauverwaltung), privater Betroffener (Anlieger, Eigentümer), Verband, Unternehmen?
 2. **Rechtsgebiet:** Strassenplanung (FStrG, LStrG), OEPNV/Schiene (AEG, PBefG), Privatstrassenrecht, Kommunales Strassenrecht?
 3. **Verfahrensstadium:** Vorabstimmung, Planfeststellung, Genehmigung, Oeffentlichkeitsbeteiligung, Widerspruch, Verwaltungsklage?
 4. **Kritische Frist:** Einwendungsfrist (6 Wochen nach § 73 VwVfG), Widerspruchsfrist (1 Monat § 70 VwGO), Klagefrist (1 Monat § 74 VwGO)?
@@ -52,15 +52,15 @@ description: "Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues 
 
 ## Querschnitts-Rechtsprechung
 
-- Rechtsprechung live pruefen: Planfeststellungsentscheidungen nur mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle ausgeben.
-- Rechtsprechung live pruefen: Abwaegungsfehler nur anhand verifizierter Entscheidungen einordnen.
-- Rechtsprechung live pruefen: Art.-14-Bezuege nur anhand verifizierter Entscheidungen einordnen.
+- Rechtsprechung live prüfen: Planfeststellungsentscheidungen nur mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle ausgeben.
+- Rechtsprechung live prüfen: Abwaegungsfehler nur anhand verifizierter Entscheidungen einordnen.
+- Rechtsprechung live prüfen: Art.-14-Bezuege nur anhand verifizierter Entscheidungen einordnen.
 
 ## Harte Leitplanken
 
 - Verfahrensfristen im Planungsrecht sind praelusiv — nie versaeumen.
 - Mandantenrolle bestimmt Rechte und Pflichten grundlegend.
-- Einstweiliger Rechtsschutz (§ 80 VwGO) bei drohenden Vollzugshandlungen sofort pruefen.
+- Einstweiliger Rechtsschutz (§ 80 VwGO) bei drohenden Vollzugshandlungen sofort prüfen.
 - Anwaltliche Endkontrolle bei Einwendungen, Klagen und Antraegen.
 
 ## Normen und Rechtsprechung

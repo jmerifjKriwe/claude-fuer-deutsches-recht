@@ -17,8 +17,8 @@ description: "Skill-Verzeichnis nach Rechtsgebiet, Norm oder Mandantentyp durchs
 ## Zentrale Normen
 - Art. 32 DSGVO — TOM: Sicherheitsprueung jeder neuen Registry vor Aufnahme in Watchlist
 - Art. 28 DSGVO — AVV: Registry-Betreiber kann Auftragsverarbeiter sein, wenn Skills Mandantendaten verarbeiten
-- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: Registry-Skills duerfen keine Mandantengeheimnisse an externe Anbieter uebermitteln
-- § 203 StGB — Verletzung von Privatgeheimnissen: Community-Skills muessen mandatsgeheimnisskonform sein
+- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: Registry-Skills dürfen keine Mandantengeheimnisse an externe Anbieter uebermitteln
+- § 203 StGB — Verletzung von Privatgeheimnissen: Community-Skills müssen mandatsgeheimnisskonform sein
 
 ## Eingaben
 

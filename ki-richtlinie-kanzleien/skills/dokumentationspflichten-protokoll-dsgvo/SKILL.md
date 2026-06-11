@@ -38,7 +38,7 @@ Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht — die Kanzlei muss die Einhaltung de
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -63,7 +63,7 @@ Verarbeitungstätigkeit: Unterstützung bei der Erstellung juristischer Texte du
 **Baustein Handakten-Dokumentation:**
 Wird in einem Mandat ein KI-System für die Erstellung wesentlicher Dokumente eingesetzt, ist in der Handakte zu vermerken: (1) welches KI-System wann eingesetzt wurde, (2) welche Aufgaben damit erledigt wurden, (3) welche Prüfschritte durchgeführt wurden und (4) wer die abschließende Freigabe erteilt hat.
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -90,7 +90,7 @@ Anforderungen an die Dokumentation können sich durch neue DSGVO-Leitlinien des 
 
 ## Triage zu Beginn
 1. Welche KI-Eingaben und Ausgaben sind für den Mandatsvorgang relevant?
-2. Wie lange muessen die Protokolle aufbewahrt werden (§ 50 BRAO: fuenf Jahre)?
+2. Wie lange müssen die Protokolle aufbewahrt werden (§ 50 BRAO: fuenf Jahre)?
 3. Liegt ein Hochrisiko-KI-System vor — ist Protokollierung nach Art. 26 Abs. 1 KI-VO verpflichtend?
 4. Ist der Pruefvorgang (Verifikation der KI-Ausgabe) dokumentiert und datiert?
 5. Ist eine Versionskontrolle für das KI-System vorhanden (Modell-Version, Datum)?

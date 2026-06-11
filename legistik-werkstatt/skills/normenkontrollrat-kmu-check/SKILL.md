@@ -55,7 +55,7 @@ Seit 2015 Bundesregierungsregel: Jeder neue Bürokratieaufwand für die Wirtscha
 
 ## Zentrale Normen (Paragrafenkette)
 
-§§ 1-8 NKRG (Normenkontrollrat-Gesetz) — § 62 Abs. 1 GGO (NKR-Beteiligung Pflicht) — Art. 5 EUV (EU-Verhaeltnismaessigkeit, KMU-Test) — Leitlinien KMU-Test Europaeische Kommission COM 2009 (SME-Test)
+§§ 1-8 NKRG (Normenkontrollrat-Gesetz) — § 62 Abs. 1 GGO (NKR-Beteiligung Pflicht) — Art. 5 EUV (EU-Verhältnismäßigkeit, KMU-Test) — Leitlinien KMU-Test Europaeische Kommission COM 2009 (SME-Test)
 
 ## Ausgabe
 

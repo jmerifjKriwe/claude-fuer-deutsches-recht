@@ -39,20 +39,20 @@ Das DBA Deutschland-Jugoslawien vom 26.03.1987 (BGBl. 1988 II S. 745) gilt nach 
 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-Jugoslawien/Serbien sind selten. Allgemein einschlaegig: BFH-Urteile zu § 50d Abs. 3 EStG und Art. 18 DBA bei Pensionen.
-- Nachfolge-Regelungen: BMF-Schreiben zum Stand der DBA (aktuell: 01.01.2026) enthaelt ausfuehrliche Uebersicht zur Jugoslawien-Nachfolge.
+- Nachfolge-Regelungen: BMF-Schreiben zum Stand der DBA (aktuell: 01.01.2026) enthaelt ausfuehrliche Übersicht zur Jugoslawien-Nachfolge.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit
 - OECD-Tie-Breaker analog.
-- Diaspora-Konstellation: Mittelpunkt Lebensinteressen pruefen.
+- Diaspora-Konstellation: Mittelpunkt Lebensinteressen prüfen.
 
 ### Betriebsstaette
 - Bauausfuehrung **12 Monate**.
 
 ### Quellensteuer
 - **Dividenden** (Art. 11 DBA-Jugoslawien 1987): 15 Prozent des Bruttobetrags.
-- **Zinsen** (Art. 12 DBA-Jugoslawien 1987): 0 Prozent (ausschliesslich Ansaessigkeitsstaat; kein Quellensteuerrecht).
+- **Zinsen** (Art. 12 DBA-Jugoslawien 1987): 0 Prozent (ausschließlich Ansaessigkeitsstaat; kein Quellensteuerrecht).
 - **Lizenzgebuehren** (Art. 13 DBA-Jugoslawien 1987): hoechstens 10 Prozent des Bruttobetrags.
 - Hinweis: DBA-Jugoslawien 1987 verwendet abweichende Artikelnummerierung gegenueber OECD-MA.
 
@@ -72,9 +72,9 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 2. Sachliche Anwendbarkeit (Art. 2) — alter DBA-Jugoslawien-Katalog.
 3. Einkunftsart (Art. 6-21) — typische Konstellation: DRV-Pension bei Wohnsitz Serbien/Montenegro, Bauausfuehrung mit 12-Monatsfrist, Beteiligung an lokaler Gesellschaft ohne EU-MTRL-Schutz.
 4. Vermeidungsmethode — Anrechnung ueberwiegend.
-5. Innerstaatliche Umsetzung — § 34c EStG; bei Pensionen Anlage R-AUS und § 50d Abs. 9 EStG-Pruefung.
+5. Innerstaatliche Umsetzung — § 34c EStG; bei Pensionen Anlage R-AUS und § 50d Abs. 9 EStG-Prüfung.
 
-BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbescheinigung der serbischen Poreska uprava bzw. der Steuerverwaltung Montenegro als Anlage.
+BZSt-Verfahren: Freistellung/Erstattung § 50c EStG über BOP; Ansaessigkeitsbescheinigung der serbischen Poreska uprava bzw. der Steuerverwaltung Montenegro als Anlage.
 
 ## Strategie und Praxis-Tipps
 
@@ -82,7 +82,7 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 - DBA aelteren Datums — bei Auslegung Verstaendigungsverfahren oder EU-DBA-SBG (nach EU-Beitritt).
 - Bei Bauunternehmen mit Aktivitaeten Serbien/Montenegro: 12-Monatsfrist.
 - Beteiligungen: ohne EU-MTRL — DBA-Hoechstsaetze.
-- Bei Nachfolgestaaten Bosnien, Nord-Mazedonien: gesondertes DBA pruefen.
+- Bei Nachfolgestaaten Bosnien, Nord-Mazedonien: gesondertes DBA prüfen.
 
 ## Praktiker-Tipps der alten Hasen
 
@@ -93,21 +93,21 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 - **Lokaler Berater**: Bei serbischen oder montenegrinischen Gesellschaften, Diaspora-Mandanten und Erbfaellen ist Hinzuziehung eines lokalen Beraters wegen unterschiedlicher Rechtskulturen und Sprachenunterschiede empfehlenswert.
 - **Apostille**: ZWINGEND bei Urkunden zur Verwendung in Drittstaaten Serbien und Montenegro (beide nicht EU). Haager Uebereinkommen 1961 gilt; deutsche Behörden geben Apostille für Inlandsdokumente aus. Konsularische Beglaubigung kann ergaenzend erforderlich sein bei spezifischen Notarurkunden.
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
-- **Diaspora-Doppelansaessigkeit**: Klassische Konstellation — Familie und Wohnsitz in Serbien/Montenegro, langjaehriger Arbeitsbezug DE, Wochenend-/Saisonpendler. Mittelpunkt Lebensinteressen extrem schwer zu klaeren; Pruefer triggert auf Lebensmittelpunkt-Indizien.
-- **DRV-Auslandsrente Wohnsitz Serbien/Montenegro**: Wohnsitzstaat-Prinzip nach DBA-Jugoslawien 1987 (Art. 18); DRV erfaehrt Wohnsitzwechsel ueber Lebensbescheinigung und kann Auszahlungsverfahren entsprechend anpassen. Beim Pensionsempfaenger oft Erklaerungspflicht in Serbien/Montenegro.
+- **Diaspora-Doppelansaessigkeit**: Klassische Konstellation — Familie und Wohnsitz in Serbien/Montenegro, langjaehriger Arbeitsbezug DE, Wochenend-/Saisonpendler. Mittelpunkt Lebensinteressen extrem schwer zu klären; Prüfer triggert auf Lebensmittelpunkt-Indizien.
+- **DRV-Auslandsrente Wohnsitz Serbien/Montenegro**: Wohnsitzstaat-Prinzip nach DBA-Jugoslawien 1987 (Art. 18); DRV erfaehrt Wohnsitzwechsel über Lebensbescheinigung und kann Auszahlungsverfahren entsprechend anpassen. Beim Pensionsempfaenger oft Erklaerungspflicht in Serbien/Montenegro.
 - **Kein MLI**: weder Serbien noch Montenegro haben MLI ratifiziert — keine PPT-Klausel. Nationales § 50d Abs. 3 EStG und § 42 AO maßgeblich.
 - **EU-Beitrittsperspektive**: Beide Staaten sind EU-Beitrittskandidaten; kuenftiger MTRL- und ZinsLizenzRL-Schutz vorgesehen, aber heute nicht anwendbar.
-- **Nachfolge-Tabelle**: DBA-Jugoslawien gilt fortgeltend nur für Serbien (BGBl. 1997 II S. 961) und Montenegro (BGBl. 2011 II S. 745). Bosnien-Herzegowina, Kosovo, Nord-Mazedonien, Slowenien und Kroatien haben eigene DBA-Regelungen — separate Skills pruefen.
+- **Nachfolge-Tabelle**: DBA-Jugoslawien gilt fortgeltend nur für Serbien (BGBl. 1997 II S. 961) und Montenegro (BGBl. 2011 II S. 745). Bosnien-Herzegowina, Kosovo, Nord-Mazedonien, Slowenien und Kroatien haben eigene DBA-Regelungen — separate Skills prüfen.
 
 ## Trade-offs
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Wohnsitz DE behalten vs. Wegzug RS/ME im Ruhestand | DE-Wohnsitz behalten: voller DRV-Bezug, deutsche Besteuerung, DBA klaert nur Doppelbesteuerung | Wegzug RS/ME: Wohnsitzstaat-Besteuerung Rente, oft niedrigerer Steuersatz, aber Lebensbescheinigung an DRV erforderlich | bei Diaspora-Pensionaeren oft Wohnsitz-Wechsel attraktiv; Wegzugsbesteuerung § 6 AStG bei Anteilen pruefen (Drittland — Stundung schwer) |
+| Wohnsitz DE behalten vs. Wegzug RS/ME im Ruhestand | DE-Wohnsitz behalten: voller DRV-Bezug, deutsche Besteuerung, DBA klaert nur Doppelbesteuerung | Wegzug RS/ME: Wohnsitzstaat-Besteuerung Rente, oft niedrigerer Steuersatz, aber Lebensbescheinigung an DRV erforderlich | bei Diaspora-Pensionaeren oft Wohnsitz-Wechsel attraktiv; Wegzugsbesteuerung § 6 AStG bei Anteilen prüfen (Drittland — Stundung schwer) |
 | Beteiligung an RS/ME-Gesellschaft direkt vs. via EU-Holding | direkt: DBA-Hoechstsatz 15 Prozent Dividenden | via EU-Holding (z.B. SI, HU): EU-MTRL ggf. greift nicht in RS/ME, aber Treaty-Network | RS/ME-Holding meist nicht treaty-shopping-vorteilhaft; direkt mit DBA-Hoechstsatz |
-| Bauausfuehrung RS/ME unter 12 Monate | unter 12 Monate: keine BS, Unternehmensgewinne Art. 7 ausschliesslich Ansaessigkeitsstaat | ueber 12 Monate: BS mit RS/ME-Besteuerung | bei Annaeherung an 12 Monate sauber dokumentieren; Pruefer addiert Folgeauftraege beim selben Bauherrn |
+| Bauausfuehrung RS/ME unter 12 Monate | unter 12 Monate: keine BS, Unternehmensgewinne Art. 7 ausschließlich Ansaessigkeitsstaat | über 12 Monate: BS mit RS/ME-Besteuerung | bei Annaeherung an 12 Monate sauber dokumentieren; Prüfer addiert Folgeauftraege beim selben Bauherrn |
 
 ## Berechnungsbeispiel
 
@@ -118,26 +118,26 @@ Diaspora-Mandant mit DRV-Rente 18.000 EUR/Jahr und Wohnsitz Serbien:
 - Serbische Besteuerung Renten: nach serbischem Recht regelmaessig in begrenztem Umfang steuerpflichtig (vom Anwender mit aktuellem serbischem Steuerrecht zu verifizieren) — oft niedrigere Belastung als in DE.
 - Lebensbescheinigung jaehrlich an DRV uebermitteln.
 
-Achtung: Bei Wohnsitzwechsel DE → RS/ME im Ruhestand ist auch die Krankenversicherung (Auslandskrankenversicherung erforderlich) und die Sozialleistungsbezuege (Wohnungswechsel) zu klaeren — DBA loest nur Steuerfragen.
+Achtung: Bei Wohnsitzwechsel DE → RS/ME im Ruhestand ist auch die Krankenversicherung (Auslandskrankenversicherung erforderlich) und die Sozialleistungsbezuege (Wohnungswechsel) zu klären — DBA loest nur Steuerfragen.
 
 ## Mandatsablauf in der Praxis
 
 1. **Aufnahme**: Diaspora-Konstellation, Wohnsitze, DRV-Bezug, Bauausfuehrung, Beteiligungen.
-2. **Strukturierung**: Mittelpunkt Lebensinteressen pruefen; bei Wegzug Wegzugsbesteuerung § 6 AStG (RS/ME Drittland).
+2. **Strukturierung**: Mittelpunkt Lebensinteressen prüfen; bei Wegzug Wegzugsbesteuerung § 6 AStG (RS/ME Drittland).
 3. **Antraege**: Ansaessigkeitsbescheinigung Poreska uprava (RS) bzw. Steuerverwaltung Montenegro; BZSt-Erstattung (oder Vorab-Freistellung).
 4. **Laufende Compliance**: RS/ME-Erklaerung jaehrlich (oft formalistisch); DE-Erklaerung mit Anrechnung; bei Pensionaeren mit Wohnsitz RS/ME Lebensbescheinigung an DRV.
-5. **Audit-Vorbereitung**: RS/ME-Pruefer beschraenkte Kapazitaeten; DE-FA-Pruefung Tie-Breaker und Mittelpunkt Lebensinteressen-Indizien.
+5. **Audit-Vorbereitung**: RS/ME-Prüfer beschraenkte Kapazitaeten; DE-FA-Prüfung Tie-Breaker und Mittelpunkt Lebensinteressen-Indizien.
 
 ## Ausgabeformat für Mandanten-Memo Serbien/Montenegro
 
 Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Diaspora-Konstellation, Wohnsitze, DRV-Bezug, Zeitraum.
-2. **Frage(n)**: Besteuerungsrecht Rente/Beteiligung, Wohnsitzstaat-Pruefung, EU-Beitrittsperspektive.
+2. **Frage(n)**: Besteuerungsrecht Rente/Beteiligung, Wohnsitzstaat-Prüfung, EU-Beitrittsperspektive.
 3. **Kurzantwort**: DBA-Jugoslawien 1987 (fortgeltend) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
 4. **Rechtliche Bewertung**:
  - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-Jugoslawien 1987; Nachfolge-Bekanntmachungen).
- - Mittelpunkt Lebensinteressen bei Diaspora pruefen.
+ - Mittelpunkt Lebensinteressen bei Diaspora prüfen.
  - Einkunftsart (DRV-Rente Art. 18, Beteiligung Art. 11 DBA-Jugoslawien 1987).
  - Methodenartikel (Anrechnung ueberwiegend).
  - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 49 EStG bei beschraenkter Steuerpflicht).

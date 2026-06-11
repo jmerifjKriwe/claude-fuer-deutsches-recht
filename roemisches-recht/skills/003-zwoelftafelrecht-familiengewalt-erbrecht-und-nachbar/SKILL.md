@@ -20,7 +20,7 @@ description: "Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nac
 
 ## Tafel V (Erbrecht)
 
-- **"Si intestato moritur, cui suus heres nec escit, agnatus proximus familiam habeto"** — wer ohne Testament und ohne sui heres stirbt, dem soll der naechste Agnat das Vermoegen erben.
+- **"Si intestato moritur, cui suus heres nec escit, agnatus proximus familiam habeto"** — wer ohne Testament und ohne sui heres stirbt, dem soll der naechste Agnat das Vermögen erben.
 - Testierfreiheit eingefuehrt (vorher Pflicht zur Vererbung).
 
 ## Tafel VII (Nachbarschaft)
@@ -31,14 +31,14 @@ description: "Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nac
 
 ## Subsumtionsbeispiel: Testament 450 v. Chr.
 
-A will Vermoegen zu Lebzeiten ueber Tod hinaus verfuegen.
+A will Vermögen zu Lebzeiten über Tod hinaus verfuegen.
 - **XII Tafeln V**: Testierfreiheit etabliert.
 - **Heute**: §§ 2229 ff. BGB.
 
 ## Heutige Fortwirkung
 
 - Testierfreiheit als Grundprinzip (§ 1937 BGB).
-- Pflichtteil als spaeter Schutz (§ 2303 BGB).
+- Pflichtteil als später Schutz (§ 2303 BGB).
 
 ## Pruefraster
 

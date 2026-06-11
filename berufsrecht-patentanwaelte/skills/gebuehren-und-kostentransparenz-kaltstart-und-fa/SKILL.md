@@ -7,7 +7,7 @@ description: "Patentanwälte: gebuehren und kostentransparenz - Kaltstart mit Fa
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Gebuehren Und Kostentransparenz Kaltstart Und Fa** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Berufsrecht Patentanwaelte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Gebuehren Und Kostentransparenz Kaltstart Und Fa** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Berufsrecht Patentanwaelte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -36,7 +36,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Fallweichen dieser Speziallage
 
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
+1. Rolle, Ziel und Entscheidungsdruck klären.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
 3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
 4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.

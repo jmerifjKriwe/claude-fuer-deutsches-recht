@@ -7,7 +7,7 @@ description: "Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Welch
 
 ## Worum geht es?
 
-Manche Fristen koennen Sie verlaengern lassen — andere nicht. **Notfristen** sind grundsaetzlich **nicht verlaengerbar**. **Richterliche Fristen** und manche gesetzliche Fristen koennen Sie auf Antrag verlaengern. Diese Skill zeigt, wie Sie den Antrag stellen.
+Manche Fristen können Sie verlaengern lassen — andere nicht. **Notfristen** sind grundsätzlich **nicht verlaengerbar**. **Richterliche Fristen** und manche gesetzliche Fristen können Sie auf Antrag verlaengern. Diese Skill zeigt, wie Sie den Antrag stellen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -24,12 +24,12 @@ Manche Fristen koennen Sie verlaengern lassen — andere nicht. **Notfristen** s
 ## Rechtsgrundlagen
 
 - **§ 224 I ZPO** — Notfristen sind nicht verlaengerbar.
-- **§ 224 II ZPO** — Andere Fristen koennen verlaengert werden.
+- **§ 224 II ZPO** — Andere Fristen können verlaengert werden.
 - **§ 225 ZPO** — Antrag und Bewilligung.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Frist verlaengerbar
+### Schritt 1 — Prüfen, ob Frist verlaengerbar
 
 #### Nicht verlaengerbar (Notfristen, § 224 I ZPO):
 
@@ -40,7 +40,7 @@ Manche Fristen koennen Sie verlaengern lassen — andere nicht. **Notfristen** s
 
 #### Verlaengerbar:
 
-- **Berufungsbegruendungs-Frist** (2 Monate, § 520 II ZPO) — **keine** Notfrist; Verlaengerung durch den Vorsitzenden auf Antrag moeglich (§ 520 II 3 ZPO). Bei Einwilligung der Gegenseite bis zu einem Monat ohne weitere Pruefung; daraus hinausgehend nur, wenn erhebliche Gruende dargelegt sind.
+- **Berufungsbegruendungs-Frist** (2 Monate, § 520 II ZPO) — **keine** Notfrist; Verlaengerung durch den Vorsitzenden auf Antrag möglich (§ 520 II 3 ZPO). Bei Einwilligung der Gegenseite bis zu einem Monat ohne weitere Prüfung; daraus hinausgehend nur, wenn erhebliche Gruende dargelegt sind.
 - Klageerwiderungs-Frist (richterliche Frist).
 - Replik-Frist.
 - Schriftsatz-Frist nach gerichtlichem Hinweis.
@@ -90,7 +90,7 @@ Gute Gruende:
 
 - Krankheit (mit Attest).
 - Beweis-Beschaffung (mit Schaetzung Dauer).
-- Komplexe Sachverhalts-Pruefung.
+- Komplexe Sachverhalts-Prüfung.
 - Verhandlungen mit Gegenseite (Vergleichs-Versuch).
 - Urlaub (nur bei rechtzeitiger Anmeldung).
 
@@ -99,7 +99,7 @@ Schlechte Gruende:
 - "Ich hatte keine Zeit."
 - "Vergessen."
 
-### Schritt 5 — Bewilligung pruefen
+### Schritt 5 — Bewilligung prüfen
 
 Gericht entscheidet schriftlich. Verlaengerung wird i. d. R. bewilligt bei erstem Antrag und nachvollziehbarer Begruendung.
 
@@ -108,20 +108,20 @@ Bei mehrfachen Antraegen oder pauschalen Gruenden: Ablehnung wahrscheinlicher.
 ### Schritt 6 — Bei Ablehnung
 
 - Frist bleibt unveraendert.
-- Sie muessen handeln.
+- Sie müssen handeln.
 - Falls bereits Termin für Antrag und Ablehnung: ggf. § 296 ZPO Praeklusion droht.
 
 ### Schritt 7 — Bei Notfrist
 
-Notfristen koennen Sie **nicht** verlaengern.
+Notfristen können Sie **nicht** verlaengern.
 
 Bei Versaeumnis: Nur Wiedereinsetzung (§ 233 ZPO) und nur bei "ohne Verschulden". Skill `wiedereinsetzung-frist-233-zpo`.
 
 ### Schritt 8 — Tipp Verlaengerung als Vergleichs-Spielraum
 
-Wenn Sie mit Gegenseite ueber Vergleich verhandeln, koennen Sie Verlaengerung beantragen mit Begruendung "Vergleichs-Verhandlungen laufen". Gericht ist da meist kulant.
+Wenn Sie mit Gegenseite über Vergleich verhandeln, können Sie Verlaengerung beantragen mit Begruendung "Vergleichs-Verhandlungen laufen". Gericht ist da meist kulant.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Notfrist NICHT verlaengerbar**.
 - **Frueh stellen**, vor Frist-Ende.
@@ -130,7 +130,7 @@ Wenn Sie mit Gegenseite ueber Vergleich verhandeln, koennen Sie Verlaengerung be
 
 ## Typische Fehler
 
-- "Ich beantrage Verlaengerung der Einspruchsfrist." → Notfrist, nicht moeglich.
+- "Ich beantrage Verlaengerung der Einspruchsfrist." → Notfrist, nicht möglich.
 - "Antrag am Frist-Ende." → Zu spaet.
 - "Begruendung: ich brauche mehr Zeit." → Nicht substantiiert.
 

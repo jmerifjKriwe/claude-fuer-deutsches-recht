@@ -73,11 +73,11 @@ Bei Dienstleistungen, die unmittelbar einem einzelnen Amtsgeschäft dienen (§ 2
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Erforderlichkeit einer Verarbeitung dokumentieren | Zwei-Stufen-Pruefung nach Art. 5 Abs. 1 lit. c DSGVO; Template unten |
+| Standard — Erforderlichkeit einer Verarbeitung dokumentieren | Zwei-Stufen-Prüfung nach Art. 5 Abs. 1 lit. c DSGVO; Template unten |
 | Variante A — Verarbeitung klar nicht erforderlich | Stoppen empfehlen; Alternative vorschlagen |
 | Variante B — Grenzfall mit starkem Interesse | Interessenabwaegung vertiefen; ausfuehrlichere Dokumentation |
 | Variante C — besondere Kategorie (Art. 9 DSGVO) | Erhoehter Massstab; gesonderte Rechtsgrundlage noetig |
@@ -115,7 +115,7 @@ Erforderlichkeit: GRUEN / GELB / ROT
 Begruendung: [...]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

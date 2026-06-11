@@ -5,7 +5,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Corporate Kanzlei-Plugi
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Corporate Kanzlei** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Corporate Kanzlei** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -133,7 +133,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `corporate-kanzlei-deal-team-staffing` | Transaktionsteam zusammenstellen und Workstreams verteilen für M&A-Mandate: Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberprüfen. Normen: BRAO § 43a (Interessenkonflikte), RVG/Stundenhonorar,… |
 | `corporate-kanzlei-disclosure-schedules` | Disclosure Schedules zum SPA erstellen und prüfen: Verkaeufer offenbart bekannte Risiken um Warranty-Verletzungen nach § 444 BGB (Arglist) zu verhindern; Kaeufer prüft Vollständigkeit. Normen: § 444 BGB, § 311 Abs. 2… |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| `corporate-kanzlei-due-diligence-commercial-contracts` | Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§… |
+| `corporate-kanzlei-due-diligence-commercial-contracts` | Commercial Contracts Due Diligence: Prüft wesentliche Verträge im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§… |
 | `corporate-kanzlei-due-diligence-legal` | Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vertragswerk, HR, IP, Litigation und Compliance im Datenraum. Normen: §§ 311 Abs. 2 und 444 BGB sowie GmbHG, AktG, einschlaegige Sondergesetze. Prüfraster:… |
 | `corporate-kanzlei-due-diligence-reporting` | DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Due-Diligence-Workstreams zu einem integrierten DD-Bericht für M&A-Transaktionen. Normen: §§ 311 Abs. 2 und 444 BGB; SPA Representations & Warranties.… |
 | `corporate-kanzlei-expert-calls-transkripte` | Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team führt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschäftsgeheimnis), DSGVO Art. 6, MAR… |
@@ -147,15 +147,15 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `corporate-kanzlei-kommandocenter` | Deal-Kommandocenter Corporate/M&A: Schnellstart für Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Fachmodul (SPA,… |
 | `corporate-kanzlei-look-and-feel` | Corporate-Cowork-Design: Definiert die visuelle Oberflaeche für Partner, Counsel und Associates. Ruhig, edel, blaeulich-silbern; Orange für Entscheidungspunkte. Statuskarten, Ampeln und dichte Deal-Information statt… |
 | `corporate-kanzlei-matter-file` | Transaktionsakte strukturieren und verwalten für Corporate/M&A-Mandate: Anwalt benoetigt Dokument-Klassifizierung, Versionskontrolle, Zugriffsrechteverwaltung und Aufbewahrungsplanung. Normen: §§ 257 HGB, 147 AO… |
-| `corporate-kanzlei-output-versand-signing` | Signing-Management und Output-Verteilung für M&A-Vertraege: Koordiniert physisches und virtuelles Signing, Signaturseiten-Protokoll, qualifizierte eSignatur (QES), Exekution und Verteilung. Normen: §§ 126 und 126a und… |
+| `corporate-kanzlei-output-versand-signing` | Signing-Management und Output-Verteilung für M&A-Verträge: Koordiniert physisches und virtuelles Signing, Signaturseiten-Protokoll, qualifizierte eSignatur (QES), Exekution und Verteilung. Normen: §§ 126 und 126a und… |
 | `corporate-kanzlei-outside-in-target-screening` | Outside-In-Zielunternehmen-Screening aus öffentlichen Quellen für M&A-Vorprüfung: M&A-Team benoetigt schnellen Überblick über Target ohne Datenraumzugang. Normen: § 3 GwG (UBO-Identifikation), DSGVO, WpHG §§ 33 ff.… |
-| `corporate-kanzlei-post-closing-integration` | Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar nach Closing muessen Handelsregister, Vertraege, Organ-Strukturen und Steuereinheiten angepasst werden. Normen: GmbHG, AktG, UmwStG, KStG (Organschaft), §… |
+| `corporate-kanzlei-post-closing-integration` | Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar nach Closing müssen Handelsregister, Verträge, Organ-Strukturen und Steuereinheiten angepasst werden. Normen: GmbHG, AktG, UmwStG, KStG (Organschaft), §… |
 | `corporate-kanzlei-public-ma-kapitalmarkt-mar` | Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtangebote, Squeeze-Out und Delisting. Normen: WpueG, AktG §§ 327a-f, WpHG/MAR Ad-hoc, §§ 39a-c WpueG. Leitsaetze BGH und BaFin-Praxis. |
 | `corporate-kanzlei-qa-information-requests` | Q&A- und Information-Request-Management in M&A-Transaktionen: DD-Team erhaelt schriftliche Datenraum-Fragen und muss konsistente Antworten mit Disclosure-Wirkung erstellen. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis… |
 | `corporate-kanzlei-rechtsprechungsrecherche` | Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. Liefert Fundstellenliste mit Aktenzeichen, Datum,… |
 | `corporate-kanzlei-regulatory-fdi-merger-control` | Anmeldepflichten Fusionskontrolle und FDI prüfen: M&A-Transaktion erfordert Clearance. Normen: §§ 35 ff. GWB (deutsches Fusionskontrollrecht), Art. 1 ff. FKVO (EU-Fusionskontrolle), AWG/AWV (Investitionsprüfung),… |
 | `corporate-kanzlei-restructuring-starug-insolvenzplan` | StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schuldner oder Berater plant außergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff.… |
-| `corporate-kanzlei-signing-closing-conditions` | Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB… |
+| `corporate-kanzlei-signing-closing-conditions` | Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs müssen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB… |
 | `corporate-kanzlei-simulation-bidder-process` | Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simulieren: Verkaeufer-Kanzlei plant Bieter-Prozess oder Kaeufer bereitet NBO/BO vor. Normen: SPA, WpueG (Public M&A), Marktstandard M&A-Auktion. Prüfraster:… |
 | `corporate-kanzlei-spa-apa-entwurf` | SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement) entwerfen und strukturieren aus Term Sheet und DD-Findings. Normen: §§ 433 ff. BGB (Kaufrecht), § 444 BGB (Gewaehrleistung), §§ 311 Abs. 2 und 280 BGB.… |
 | `corporate-kanzlei-steps-plan-pmo` | Steps Plan und Transaktions-PMO für M&A-Mandate erstellen: Deal-Team benoetigt Gesamtprojektplan mit Workstream-Koordination, CP-Tracking und Status-Reporting. Normen: SPA Closing Conditions, § 158 BGB. Prüfraster:… |
@@ -165,28 +165,28 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `corporate-kanzlei-translations-multijurisdictional` | Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10… |
 | `corporate-kanzlei-umwandlungsrecht` | Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel).… |
 | `corporate-kanzlei-umwandlungssteuerrecht` | Umwandlungssteuerrecht: Begleitet Verschmelzung, Spaltung und Formwechsel nach UmwStG auf Steuerneutralitaet, Buchwertfortführung, Sperrfristen, Verlustnutzung und Grunderwerbsteuer. Normen: §§ 11-25 UmwStG, §§ 1 ff.… |
-| `corporate-kanzlei-vertragsmarkup-key-issues` | Juristischen Markup für M&A-Vertraege und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK… |
+| `corporate-kanzlei-vertragsmarkup-key-issues` | Juristischen Markup für M&A-Verträge und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK… |
 | `corporate-kanzlei-wi-insurance` | W&I-Versicherung (Warranty & Indemnity Insurance) strukturieren und prüfen: M&A-Berater braucht Policen-Analyse oder Underwriting-Vorbereitung. Normen: SPA Reps & Warranties, VVG, englisches Insurance-Recht… |
 
 ## Worum geht es?
 
-Das Corporate-Kanzlei-Plugin ist das zentrale Arbeitswerkzeug für Corporate/M&A-Anwaeltinnen und -Anwaelte. Es deckt den vollstaendigen Transaktionszyklus ab: vom ersten Mandatseingang ueber Due Diligence, Vertragsentwurf, Regulatory Clearance, Signing und Closing bis zur Post-Merger-Integration.
+Das Corporate-Kanzlei-Plugin ist das zentrale Arbeitswerkzeug für Corporate/M&A-Anwaeltinnen und -Anwaelte. Es deckt den vollstaendigen Transaktionszyklus ab: vom ersten Mandatseingang über Due Diligence, Vertragsentwurf, Regulatory Clearance, Signing und Closing bis zur Post-Merger-Integration.
 
 Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldungen, StaRUG-Restrukturierungsplaenen, Distressed-M&A, Public M&A und Kapitalmarkttransaktionen. Es richtet sich an Partner, Counsel und Senior Associates in Transaktionskanzleien sowie an Corporate-Inhouse-Juristen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Ein neues M&A-Mandat geht ein und muss strukturiert aufgenommen, auf Konflikte gepruefsft und mit einer Deal-Karte versehen werden.
-- Eine Due-Diligence-Phase beginnt und Datenraum, Q&A-Management und DD-Reporting muessen koordiniert werden.
+- Eine Due-Diligence-Phase beginnt und Datenraum, Q&A-Management und DD-Reporting müssen koordiniert werden.
 - Ein SPA-Entwurf der Gegenseite muss in Markup-Form mit Key-Issues-Memo kommentiert werden.
-- Ein Closing naehert sich und alle Conditions Precedent sowie Closing-Deliverables muessen getrackt werden.
+- Ein Closing naehert sich und alle Conditions Precedent sowie Closing-Deliverables müssen getrackt werden.
 - Ein Unternehmen befindet sich in der Krise und ein StaRUG-Restrukturierungsplan oder Insolvenzplan wird benoetigt.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **SPA** — Share Purchase Agreement; Anteilskaufvertrag bei Share Deals.
 - **APA** — Asset Purchase Agreement; Vermoegensuebertragungsvertrag bei Asset Deals.
-- **Due Diligence** — Sorgfaeltige Pruefung des Zielunternehmens in rechtlichen, steuerlichen und wirtschaftlichen Bereichen vor Transaktionsabschluss.
+- **Due Diligence** — Sorgfaeltige Prüfung des Zielunternehmens in rechtlichen, steuerlichen und wirtschaftlichen Bereichen vor Transaktionsabschluss.
 - **W&I-Versicherung** — Warranty & Indemnity Insurance; Versicherung gegen Garantieverletzungen im SPA.
 - **CP** — Condition Precedent; aufschiebende Bedingung, die vor Closing erfuellt sein muss.
 - **StaRUG** — Unternehmensstabilisierungs- und -restrukturierungsgesetz; aussergerichltiches Restrukturierungsverfahren für Unternehmen in der Krise.
@@ -211,7 +211,7 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 1. Mandatseingang strukturiert aufnehmen: Dealtyp, Phase, Parteiperspektive bestimmen (`corporate-kanzlei-deal-intake`).
 2. Konflikt-, GwG- und Sanktionscheck durchfuehren (`corporate-kanzlei-conflict-gwg-sanctions`).
 3. Passende Prüfungslinie auswaehlen (Due Diligence, SPA, Regulatory, StaRUG, Kapitalmarkt).
-4. Eilfristen pruefen: Vollzugsverbot § 41 GWB, MAR-Fristen, Anmeldepflichten FDI.
+4. Eilfristen prüfen: Vollzugsverbot § 41 GWB, MAR-Fristen, Anmeldepflichten FDI.
 5. Anschluss-Skill bestimmen: Closing, Archivierung oder PMI?
 
 ## Skill-Tour (was gibt es hier?)
@@ -228,36 +228,36 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 - `corporate-kanzlei-datenraum-aufbau` — Virtuellen Datenraum strukturieren und befuellen für Private und Public M&A.
 - `corporate-kanzlei-datenraum-gap-clean-room` — Gap-Analyse des Datenraums und Clean-Room-Protokoll erstellen.
 - `corporate-kanzlei-qa-information-requests` — Q&A- und Information-Request-Management in M&A-Transaktionen.
-- `corporate-kanzlei-due-diligence-legal` — Legal Due Diligence: Corporate, Vertragswerk, HR, IP, Litigation und Compliance pruefen.
-- `corporate-kanzlei-due-diligence-commercial-contracts` — Commercial Contracts Due Diligence: Change-of-Control-Klauseln, Kuendigungsrechte, Haftungsgrenzen pruefen.
+- `corporate-kanzlei-due-diligence-legal` — Legal Due Diligence: Corporate, Vertragswerk, HR, IP, Litigation und Compliance prüfen.
+- `corporate-kanzlei-due-diligence-commercial-contracts` — Commercial Contracts Due Diligence: Change-of-Control-Klauseln, Kuendigungsrechte, Haftungsgrenzen prüfen.
 - `corporate-kanzlei-due-diligence-reporting` — DD-Reporting: Legal, Tax, Financial und Commercial Workstreams konsolidieren.
 - `corporate-kanzlei-expert-calls-transkripte` — Expert Calls und Transkript-Auswertung in der M&A-Due-Diligence.
-- `corporate-kanzlei-tabellenreview-3d-datenraum` — Strukturierte Datentabellen aus Datenraeumen pruefen und qualitaetssichern.
+- `corporate-kanzlei-tabellenreview-3d-datenraum` — Strukturierte Datentabellen aus Datenraeumen prüfen und qualitaetssichern.
 - `corporate-kanzlei-fair-disclosure-knowledge` — Fair Disclosure und Knowledge Management: Informationsfluss nach MAR und Kartellrecht steuern.
 - `corporate-kanzlei-spa-apa-entwurf` — SPA oder APA aus Term Sheet und DD-Findings entwerfen und strukturieren.
-- `corporate-kanzlei-disclosure-schedules` — Disclosure Schedules zum SPA erstellen und pruefen.
-- `corporate-kanzlei-vertragsmarkup-key-issues` — Juristischen Markup für M&A-Vertraege und Key-Issues-Memo erstellen.
-- `corporate-kanzlei-wi-insurance` — W&I-Versicherung strukturieren und Police auf Deckungsluecken pruefen.
-- `corporate-kanzlei-regulatory-fdi-merger-control` — Anmeldepflichten Fusionskontrolle und FDI-Investitionspruefung pruefen.
+- `corporate-kanzlei-disclosure-schedules` — Disclosure Schedules zum SPA erstellen und prüfen.
+- `corporate-kanzlei-vertragsmarkup-key-issues` — Juristischen Markup für M&A-Verträge und Key-Issues-Memo erstellen.
+- `corporate-kanzlei-wi-insurance` — W&I-Versicherung strukturieren und Police auf Deckungsluecken prüfen.
+- `corporate-kanzlei-regulatory-fdi-merger-control` — Anmeldepflichten Fusionskontrolle und FDI-Investitionspruefung prüfen.
 - `corporate-kanzlei-public-ma-kapitalmarkt-mar` — Public M&A, Pflichtangebote, Squeeze-Out und MAR-Ad-hoc begleiten.
 - `corporate-kanzlei-signing-closing-conditions` — Signing und Closing Conditions verwalten und CP-Tracker fuehren.
-- `corporate-kanzlei-output-versand-signing` — Signing-Management und Output-Verteilung für M&A-Vertraege koordinieren.
+- `corporate-kanzlei-output-versand-signing` — Signing-Management und Output-Verteilung für M&A-Verträge koordinieren.
 - `corporate-kanzlei-closing-bible-archiv` — Closing Bible und Deal-Archiv nach M&A-Closing erstellen.
-- `corporate-kanzlei-post-closing-integration` — Post-Closing-Integration rechtlich begleiten: Register, Vertraege, Organschaft, § 613a BGB.
+- `corporate-kanzlei-post-closing-integration` — Post-Closing-Integration rechtlich begleiten: Register, Verträge, Organschaft, § 613a BGB.
 - `corporate-kanzlei-steps-plan-pmo` — Steps Plan und Transaktions-PMO für M&A-Mandate erstellen.
 - `corporate-kanzlei-automation-monitoring` — Monitore für Datenraum-Neuzugaenge, Q&A-Status, CP-Deadlines und Registerupdates entwerfen.
 - `corporate-kanzlei-restructuring-starug-insolvenzplan` — StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen erstellen.
 - `corporate-kanzlei-distressed-ma` — Unternehmenskaeufe aus Insolvenz oder Krise begleiten.
 - `corporate-kanzlei-umwandlungsrecht` — Verschmelzung, Spaltung, Formwechsel und Vermoegensuebertragung nach UmwG begleiten.
-- `corporate-kanzlei-umwandlungssteuerrecht` — Umwandlungen auf Steuerneutralitaet, Buchwertfortfuehrung und Sperrfristen pruefen.
+- `corporate-kanzlei-umwandlungssteuerrecht` — Umwandlungen auf Steuerneutralitaet, Buchwertfortfuehrung und Sperrfristen prüfen.
 - `corporate-kanzlei-gesellschaftsrecht-register` — Handelsregister-Anmeldungen und Satzungsaenderungen durchfuehren.
 - `corporate-kanzlei-handelsregisterabruf` — Handelsregister-Daten abrufen und Gesellschaftsstruktur analysieren.
 - `corporate-kanzlei-kg-personengesellschaften` — KG und Personengesellschaften im Corporate/M&A-Kontext begleiten (MoPeG 2024).
-- `corporate-kanzlei-translations-multijurisdictional` — Mehrsprachige Transaktionsdokumente in DE/EN erstellen und pruefen.
-- `corporate-kanzlei-rechtsprechungsrecherche` — Corporate/M&A-Rechtsprechung suchen und für Vertraege und Board Papers aufbereiten.
+- `corporate-kanzlei-translations-multijurisdictional` — Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen.
+- `corporate-kanzlei-rechtsprechungsrecherche` — Corporate/M&A-Rechtsprechung suchen und für Verträge und Board Papers aufbereiten.
 - `corporate-kanzlei-matter-file` — Transaktionsakte strukturieren, versionieren und Aufbewahrungsplanung erstellen.
 - `corporate-kanzlei-billing-narratives` — Time Narratives, Phasenbudgets und Workstream-Rechnungen erstellen.
-- `corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle` — KI-generierte DD-Findings auf fehlerhafte Quellen und Luecken pruefen.
+- `corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle` — KI-generierte DD-Findings auf fehlerhafte Quellen und Luecken prüfen.
 - `corporate-kanzlei-ki-governance-berufsrecht` — KI-Governance und Berufsrecht für den Einsatz von KI-Werkzeugen in der Kanzlei.
 - `corporate-kanzlei-board-paper-business-judgment` — Board Paper und Business Judgment Rule-Dokumentation für M&A-Entscheidungen erstellen.
 - `corporate-kanzlei-freundlicher-copilot` — Einstiegshilfe für Corporate/M&A-Aufgaben: Fachbegriffe erklaeren, Erstfragen beantworten, Skills verweisen.
@@ -267,16 +267,16 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 
 - Konflikt- und GwG-Check ist vorgelagert: Kein Mandat starten, bevor Interessenkonflikte und wirtschaftlich Berechtigte geprueft sind.
 - Fusionskontrolle-Vollzugsverbot nach § 41 GWB gilt bis zur Freigabe: Closing ohne Clearance ist bussgeldrelevant.
-- MAR-Insider-Abgrenzung bei Public-M&A: Alle Deal-Team-Mitglieder muessen im Insider-Register erfasst werden.
+- MAR-Insider-Abgrenzung bei Public-M&A: Alle Deal-Team-Mitglieder müssen im Insider-Register erfasst werden.
 - W&I-Versicherung beeinflusst Disclosure-Strategie: Underwriting-Prozess laeuft parallel zur DD — fruehzeitig koordinieren.
 - StaRUG setzt Anzeigepflicht voraus: Drohende Zahlungsunfaehigkeit muss dem Restrukturierungsgericht angezeigt werden.
 
 ## Typische Fehler
 
-- Deal-Intake ohne CP-Tracking-Aufbau: Closing-Bedingungen werden spaeter nicht strukturiert verwaltet.
+- Deal-Intake ohne CP-Tracking-Aufbau: Closing-Bedingungen werden später nicht strukturiert verwaltet.
 - Disclosure Schedules als Formalitaet behandelt: Lueckenhafte Offenbarung kann zu Warrany-Haftung nach § 444 BGB fuehren.
 - PMI unterschaetzt: Registeranmeldungen und § 613a-Informationen nach Closing werden verzoegert — Fristen laufen.
-- Umwandlungssteuerrecht getrennt von Umwandlungsrecht betrachtet: Sperrfristen koennen rueckwirkend ausgeloest werden.
+- Umwandlungssteuerrecht getrennt von Umwandlungsrecht betrachtet: Sperrfristen können rueckwirkend ausgeloest werden.
 - Expert Calls ohne Insider-Abgrenzungs-Check: Informationsaustausch mit Experten kann MAR-pflichtig sein.
 
 ## Quellen und Aktualitaet

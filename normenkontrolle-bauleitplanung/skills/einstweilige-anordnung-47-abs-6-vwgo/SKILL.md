@@ -169,4 +169,4 @@ description: "Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug d
 
 - BVerwG 12.06.2019, 4 BN 4.19 — Massstab "schwere Nachteile" beim Eilantrag § 47 Abs. 6 VwGO (bverwg.de)
 - BVerwG 23.06.2020, 9 A 22.19 — Klimaschutz als beruecksichtigungspflichtiger Belang (bverwg.de)
-- Aktuelle OVG-/VGH-Beschluesse vor Ausgabe ueber landesrecht-[bundesland].de und bverwg.de verifizieren
+- Aktuelle OVG-/VGH-Beschlüsse vor Ausgabe über landesrecht-[bundesland].de und bverwg.de verifizieren

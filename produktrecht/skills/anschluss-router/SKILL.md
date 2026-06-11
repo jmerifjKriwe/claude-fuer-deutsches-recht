@@ -168,7 +168,7 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 **Konfiguration und Mandatsverwaltung**
 
 - `produktrecht-kaltstart-interview` — Plugin erstmalig einrichten; Risikokalibrierung, Launch-Framework, Eskalationsmatrix.
-- `produktrecht-anpassen` — Einzelne Elemente des Praxisprofils aendern ohne Kaltstart-Interview.
+- `produktrecht-anpassen` — Einzelne Elemente des Praxisprofils ändern ohne Kaltstart-Interview.
 - `produktrecht-mandat-arbeitsbereich` — Produktmandate anlegen, wechseln, abschliessen.
 
 **Triage und Launch**
@@ -181,23 +181,23 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 
 - `impressum-pflicht` — Impressumspflicht nach §§ 5 und 6 DDG und § 18 MStV; konformer Impressumstext; Abmahnrisiken.
 - `preisangaben` — PAngV 2022: Gesamtpreise, Grundpreise, Streichpreise, 30-Tage-Niedrigstpreisregel.
-- `werbeaussagen-pruefung` — Werbebehauptungen auf UWG-, Health-Claims- und ESG-Risiken pruefen.
+- `werbeaussagen-pruefung` — Werbebehauptungen auf UWG-, Health-Claims- und ESG-Risiken prüfen.
 
 ## Worauf besonders achten
 
-- **Impressumspflicht gilt auch für Social-Media-Profile** — Gewerblich genutzte Profile bei Instagram, LinkedIn oder X muessen vollstaendiges Impressum enthalten oder klar darauf verlinken.
-- **30-Tage-Regel ist keine Empfehlung, sondern Pflicht** — Streichpreise muessen auf dem Niedrigstpreis der letzten 30 Tage vor Reduzierung basieren; Verstaesse sind abmahnbar.
-- **KI-Features benoetigen KI-VO-Check** — Der AI Act gilt für KI-Systeme ab August 2026 in vollem Umfang; Hochrisiko-Systeme und verbotene Praktiken muessen vorab identifiziert werden.
+- **Impressumspflicht gilt auch für Social-Media-Profile** — Gewerblich genutzte Profile bei Instagram, LinkedIn oder X müssen vollstaendiges Impressum enthalten oder klar darauf verlinken.
+- **30-Tage-Regel ist keine Empfehlung, sondern Pflicht** — Streichpreise müssen auf dem Niedrigstpreis der letzten 30 Tage vor Reduzierung basieren; Verstaesse sind abmahnbar.
+- **KI-Features benoetigen KI-VO-Check** — Der AI Act gilt für KI-Systeme ab August 2026 in vollem Umfang; Hochrisiko-Systeme und verbotene Praktiken müssen vorab identifiziert werden.
 - **Health Claims erfordern Zulassung** — Nicht zugelassene Gesundheitsversprechen sind ohne Ausnahme unzulaessig; Positivliste VO 1924/2006 ist abschliessend.
 - **Risikokalibrierung ist Ausgangspunkt** — Ohne konfiguriertes Praxisprofil liefert das Plugin nur generische Ergebnisse; `produktrecht-kaltstart-interview` zuerst ausfuehren.
 
 ## Typische Fehler
 
 - Impressum fehlt oder ist unvollstaendig (keine Rechtsform, kein Vertretungsberechtigter, keine USt-IdNr. bei Pflicht); erhoehtes Abmahnrisiko.
-- Streichpreis-Aktion wird ohne Pruefung des Niedrigstpreises der letzten 30 Tage gestartet; PAngV-Verstoss.
-- Feature mit KI-Komponente wird gelauncht ohne Pruefung, ob es als Hochrisiko-KI-System nach AI Act gilt.
+- Streichpreis-Aktion wird ohne Prüfung des Niedrigstpreises der letzten 30 Tage gestartet; PAngV-Verstoss.
+- Feature mit KI-Komponente wird gelauncht ohne Prüfung, ob es als Hochrisiko-KI-System nach AI Act gilt.
 - Werbeaussage zu Klimaneutralitaet oder Nachhaltigkeit wird nicht mit belastbaren Nachweisen unterlegt; Greenwashing-Abmahnrisiko.
-- Launch-Pruefung wird als Checkliste abgehakt, ohne Risikokalibrierung und Eskalationsschwellen der eigenen Rechtsabteilung.
+- Launch-Prüfung wird als Checkliste abgehakt, ohne Risikokalibrierung und Eskalationsschwellen der eigenen Rechtsabteilung.
 
 ## Quellen und Aktualitaet
 

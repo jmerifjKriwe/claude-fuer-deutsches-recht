@@ -29,7 +29,7 @@ Berechnung und Dokumentation des praeferenziellen Ursprungs nach UZK Art. 64 und
 2. Listenregel für HS-Code der Ware im Ursprungsprotokoll nachschlagen.
 3. Stuckliste (BOM) mit Ursprung aller Materialien erstellen.
 4. Listenregel anwenden: HS-Wechsel und/oder Wertschwell-Berechnung.
-5. Kumulierungsmoeglichkeiten pruefen (bilateral, diagonal, vollstaendig).
+5. Kumulierungsmoeglichkeiten prüfen (bilateral, diagonal, vollstaendig).
 6. Lieferantenerklaerung nach VO (EU) 1207/2001 oder Langzeit-Lieferantenerklaerung erstellen.
 
 ## Rechtsrahmen

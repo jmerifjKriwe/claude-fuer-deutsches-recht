@@ -15,7 +15,7 @@ description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen: prü
 
 ## Wichtige Paragraphen
 
-- **ALR I 8 § 1**: Eigentumsdefinition (verfuegungsmacht ueber Substanz).
+- **ALR I 8 § 1**: Eigentumsdefinition (verfuegungsmacht über Substanz).
 - **ALR I 8 §§ 26-30**: Schranken; Aufopferung.
 - **ALR I 9** (Besitz) und I 21 (Dienstbarkeiten) ergaenzend.
 

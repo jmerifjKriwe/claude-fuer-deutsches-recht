@@ -32,7 +32,7 @@ description: "Krisenmanagement bei medialer Berichterstattung ueber Exportkontro
 
 - **§ 193 StGB**: Rechtfertigungsgrund für Medienartikel (Abgrenzung); kein Erstattungsrecht.
 - **§ 22 Abs. 4 AWG**: Strafmilderung bei freiwilliger Offenlegung; Kommunikation anpassen.
-- **DSGVO Art. 5**: Datenschutz bei Pressemitteilungen ueber Personen.
+- **DSGVO Art. 5**: Datenschutz bei Pressemitteilungen über Personen.
 - **§ 37 StPO**: Schweigerecht; Mitarbeiter nicht zur Aussage an Presse drangen.
 - **§ 130 OWiG**: Organisationsverschulden; Kommunikation darf kein Schuldanerkenntnis enthalten.**
 
@@ -47,8 +47,8 @@ description: "Krisenmanagement bei medialer Berichterstattung ueber Exportkontro
 
 ## Typische Fallstricke
 
-- Vorschnelle Aussagen in Medien koennen Strafverfolgung eskalieren oder Schuldanerkenntnis enthalten.
-- Medienkommunikation und Behördenkommunikation muessen konsistent sein.
+- Vorschnelle Aussagen in Medien können Strafverfolgung eskalieren oder Schuldanerkenntnis enthalten.
+- Medienkommunikation und Behördenkommunikation müssen konsistent sein.
 - Mitarbeiter geben ohne Anweisung Interviews; einheitliche Sprachregelung noetig.
 - 'Kein Kommentar' kann fehlinterpretiert werden; Formulierungsalternative vorbereiten.
 

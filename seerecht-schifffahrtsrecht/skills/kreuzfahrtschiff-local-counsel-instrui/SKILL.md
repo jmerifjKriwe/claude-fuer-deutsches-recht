@@ -14,11 +14,11 @@ description: "Kreuzfahrtschiff: Auslaendischen Anwalt für Arrest; Vollstreckung
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Ein Kreuzfahrtschiff oder grosses Fahrgastschiff liegt in einem ausländischen Hafen; lokaler Arrest ist erforderlich. Eine Hypothekenbank braucht Auskunft zur Vollstreckbarkeit ihrer deutschen Sicherheit im Ausland. Ein P&I-Club braucht nach Unfall lokale Rechtsvertretung für das Kreuzfahrtschiff oder grosses Fahrgastschiff.
+Ein Kreuzfahrtschiff oder großes Fahrgastschiff liegt in einem ausländischen Hafen; lokaler Arrest ist erforderlich. Eine Hypothekenbank braucht Auskunft zur Vollstreckbarkeit ihrer deutschen Sicherheit im Ausland. Ein P&I-Club braucht nach Unfall lokale Rechtsvertretung für das Kreuzfahrtschiff oder großes Fahrgastschiff.
 
 ## Erste Schritte
 1. Local Counsel auswaehlen: Empfehlung durch P&I-Club-Korrespondenten oder Netzwerk.
-2. Briefing erstellen: Kreuzfahrtschiff oder grosses Fahrgastschiff-Daten (IMO-Nummer; Flagge); Sachverhalt; deutsches Recht.
+2. Briefing erstellen: Kreuzfahrtschiff oder großes Fahrgastschiff-Daten (IMO-Nummer; Flagge); Sachverhalt; deutsches Recht.
 3. Lokale Rechtslage abfragen: Vollstreckungsanforderungen; Anerkennung deutscher Titel.
 4. ISAC-1952-Pruefung: Ist Hafenstaat Vertragsstaat?
 5. Letter of Instruction verfassen: Weisungen; Budget; Berichtspflichten.
@@ -35,7 +35,7 @@ Ein Kreuzfahrtschiff oder grosses Fahrgastschiff liegt in einem ausländischen H
 - Ist der Kostenrahmen für das Auslandsverfahren freigegeben?
 
 ## Typische Fallstricke
-- Lokale Seepfandrechte koennen deutsche Hypothek im Rang ueberbieten.
+- Lokale Seepfandrechte können deutsche Hypothek im Rang ueberbieten.
 - Kostenunterschaetzung: Auslandsverfahren dauern laenger und kosten mehr.
 - LOU-Verhandlungen erfordern erfahrenen Local Counsel.
 

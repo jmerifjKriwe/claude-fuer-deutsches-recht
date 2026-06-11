@@ -7,7 +7,7 @@ description: "EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) un
 
 ## Arbeitsbereich
 
-EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/2014 (Finanzsanktionen). Verbotene Gueter (Anhaenge VO 833/2014), No-Russia-Clause Art. 12g, Dienstleistungsverbote (Art. 5n), Umgehungsverbot. Catch-All und Red-Flags. Mandant prueft Lieferkette auf Russland-Kontamination. Output: Russland-Embargo-Pruefvermerk mit Ampel und Massnahmenplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/2014 (Finanzsanktionen). Verbotene Gueter (Anhaenge VO 833/2014), No-Russia-Clause Art. 12g, Dienstleistungsverbote (Art. 5n), Umgehungsverbot. Catch-All und Red-Flags. Mandant prüft Lieferkette auf Russland-Kontamination. Output: Russland-Embargo-Pruefvermerk mit Ampel und Massnahmenplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,17 +20,17 @@ EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/
 ## Mandantenfall
 
 - Maschinenhersteller hat Altvertrag mit russischem Staatsunternehmen; Lieferpflicht vs. Embargoverstoß abwaegen.
-- Logistikunternehmen befodert Gueter ueber Kasachstan; No-Russia-Clause und Umgehungsrisiko pruefen.
+- Logistikunternehmen befodert Gueter über Kasachstan; No-Russia-Clause und Umgehungsrisiko prüfen.
 - IT-Dienstleister fragt, ob Wartungsvertrag mit russischer Tochter weiterhin erlaubt ist.
 
 ## Erste Schritte
 
 1. VO 833/2014 (konsolidiert) und VO 269/2014 aktuell abfragen (laufende Sanktionspakete).
 2. Guetersanktionskatalog (Anh. VII, XXIII, IV, XVIII etc.) mit KN-Code des Exporteurs abgleichen.
-3. No-Russia-Clause nach Art. 12g für Anh. XI/XX/XXXV-Gueter in Drittlandevertraegen pruefen.
-4. Dienstleistungsverbote Art. 5n pruefen: IT, Rechts-, Buchhaltungs-, Steuerberatung.
-5. Umgehungsindizien pruefen: Routen ueber Drittlaender, ungewoehnliche Ziellaender, Red Flags.
-6. Altvertrag: Winddown-Ausnahme und Genehmigungspflicht beim BAFA pruefen.
+3. No-Russia-Clause nach Art. 12g für Anh. XI/XX/XXXV-Gueter in Drittlandevertraegen prüfen.
+4. Dienstleistungsverbote Art. 5n prüfen: IT, Rechts-, Buchhaltungs-, Steuerberatung.
+5. Umgehungsindizien prüfen: Routen über Drittlaender, ungewoehnliche Ziellaender, Red Flags.
+6. Altvertrag: Winddown-Ausnahme und Genehmigungspflicht beim BAFA prüfen.
 
 ## Rechtsrahmen
 
@@ -51,7 +51,7 @@ EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/
 
 ## Typische Fallstricke
 
-- Laufende Sanktionspakete aendern Anhangslisten; nur tagesaktuelle Pruefung.
+- Laufende Sanktionspakete ändern Anhangslisten; nur tagesaktuelle Prüfung.
 - No-Russia-Clause-Fehlen ist eigenstaendiger Verstoss; auch bei genehmigungsfreier Ware.
 - Dienstleistungsverbote greifen auch bei indirekter Leistungserbringung im Konzern.
 - Umgehungsverbote sind subjektiv sehr weit ausgelegt; Fahrlassigkeit reicht.

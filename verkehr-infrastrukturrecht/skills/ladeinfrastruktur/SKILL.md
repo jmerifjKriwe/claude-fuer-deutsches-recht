@@ -15,16 +15,16 @@ description: "Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betr
 
 ## Triage zu Beginn
 
-1. **Oeffentliche oder private Ladeinfrastruktur?** — Oeffentlich zugaenglich (§ 2 Nr. 5 AFIR-VO): Pflichten zur Interoperabilitaet, ad-hoc-Laden, Preistransparenz; Private: Hausanschluss, WEG-Zustimmung.
+1. **Oeffentliche oder private Ladeinfrastruktur?** — Öffentlich zugaenglich (§ 2 Nr. 5 AFIR-VO): Pflichten zur Interoperabilitaet, ad-hoc-Laden, Preistransparenz; Private: Hausanschluss, WEG-Zustimmung.
 2. **Standort?** — Privatgrundstuck, öffentliche Verkehrsflaeche (Sondernutzung!), Parkhaus.
-3. **Genehmigungspflicht nach Baurecht?** — Ladesaeulen an Gebaeuden oft genehmigungsfrei; grössere Anlagen oder bauliche Aenderungen koennen LBO-pflichtig sein.
+3. **Genehmigungspflicht nach Baurecht?** — Ladesaeulen an Gebaeuden oft genehmigungsfrei; grössere Anlagen oder bauliche Aenderungen können LBO-pflichtig sein.
 4. **Netzanschlusspflicht des Netzbetreibers?** — § 8 EnWG: Anschlusspflicht des Netzbetreibers; Verweigerung nur aus tatsaechlichen oder rechtlichen Gruenden (Kapazitaet, Sicherheit).
-5. **Förderung moeglich?** — BAFA-Förderung für Ladeinfrastruktur (Programme regelmaessig aktualisiert); KfW 439.
+5. **Förderung möglich?** — BAFA-Förderung für Ladeinfrastruktur (Programme regelmaessig aktualisiert); KfW 439.
 
 ## Zentrale Normen
 
 - **AFIR-VO (EU) 2023/1804** — Verordnung zum Aufbau alternativer Kraftstoffinfrastruktur; ab 13.04.2024 unmittelbar anwendbar
-- **§ 2 LSV** — Ladesaeulenverordnung: Anforderungen an oeffentlich zugaengliche Ladepunkte
+- **§ 2 LSV** — Ladesaeulenverordnung: Anforderungen an öffentlich zugaengliche Ladepunkte
 - **§ 8 EnWG** — Netzanschlusspflicht des Netzbetreibers; Anschluss und Zugang
 - **§ 9a GEG** — Neubau und wesentliche Renovierung: Ladeinfrastruktur-Anforderungen
 - **§ 20 WEG** — Bauliche Veraenderung; Ladesaeule auf WEG-Gemeinschaftseigentum erfordert Zustimmung oder Mehrheitsbeschluss

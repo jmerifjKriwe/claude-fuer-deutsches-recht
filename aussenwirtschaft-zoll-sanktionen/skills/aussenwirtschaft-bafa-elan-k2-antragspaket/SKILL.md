@@ -22,11 +22,11 @@ description: "Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ue
 ## Erste Schritte
 
 1. Gueterlisten-Code und einschlaeige Genehmigungsnorm (VO 2021/821 oder AWV) bestimmen.
-2. ELAN-K2-Systemzugang einrichten; Benutzerkonto und Vollmachten klaeren.
-3. Endverwendungserklaerung (EUC) vom Endverwender unterschrieben einholen und pruefen.
+2. ELAN-K2-Systemzugang einrichten; Benutzerkonto und Vollmachten klären.
+3. Endverwendungserklaerung (EUC) vom Endverwender unterschrieben einholen und prüfen.
 4. Technische Spezifikation mit Gueterlisten-Referenz und Leistungsparametern aufbereiten.
 5. Lieferplan, Wert und Mengenangaben vollstaendig eintragen.
-6. Antrag vollstaendig auf Luecken pruefen; BAFA-Merkblatt Antragstellung als Checkliste nutzen.
+6. Antrag vollstaendig auf Luecken prüfen; BAFA-Merkblatt Antragstellung als Checkliste nutzen.
 
 ## Rechtsrahmen
 
@@ -47,7 +47,7 @@ description: "Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ue
 
 ## Typische Fallstricke
 
-- Unvollstaendige EUC ist haeufigster Rueckweisungsgrund; Authentizitaet des Unterschreibers pruefen.
+- Unvollstaendige EUC ist haeufigster Rueckweisungsgrund; Authentizitaet des Unterschreibers prüfen.
 - Technische Parameter nicht auf Listeneintrag abgestimmt; keine pauschale Beschreibung.
 - Sammelgenehmigungsantrag erfordert abweichende Formularwahl von Einzelantrag.
 - Lieferplan muss realistisch sein; spaetere Aenderungen erfordern Nachtrag.

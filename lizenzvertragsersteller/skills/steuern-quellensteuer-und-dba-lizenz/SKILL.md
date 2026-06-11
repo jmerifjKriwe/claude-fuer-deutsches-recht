@@ -13,7 +13,7 @@ description: "Steuern und Quellensteuer im Lizenzvertrag: $ 49 EStG Quellensteue
 |---|---|
 | $ 49 I Nr. 6 EStG | Lizenzgebuehren an beschraenkt steuerpflichtige Auslaender: Quellensteuer 15 % |
 | $ 50a EStG | Steuerabzug an der Quelle; Schuldner = Lizenznehmer |
-| $ 50d EStG | Erstattungs-/Freistellungsverfahren beim Bundeszentralamt fuer Steuern (BZSt) |
+| $ 50d EStG | Erstattungs-/Freistellungsverfahren beim Bundeszentralamt für Steuern (BZSt) |
 
 ### B. DBA-Reduktion
 
@@ -29,7 +29,7 @@ Doppelbesteuerungsabkommen reduzieren regelmaessig die Quellensteuer:
 | DE-China | 10 % |
 | DE-Indien | 10 % |
 
-→ Vor Vertragsschluss: DBA pruefen, Freistellungsbescheinigung beantragen.
+→ Vor Vertragsschluss: DBA prüfen, Freistellungsbescheinigung beantragen.
 
 ### C. EU-Zinsen-Lizenzgebuehren-Richtlinie (2003/49/EG)
 
@@ -43,17 +43,17 @@ Bei Lizenzen zwischen verbundenen Unternehmen (mindestens 25 % Beteiligung) in E
 
 ## Klausel-Bausteine
 
-**A. Quellensteuer-Klausel (Gross-up):**
+**A. Quellensteuer-Klausel (Groß-up):**
 > "$ 19 Steuern.
 > (1) Lizenzgebuehren sind ohne Abzug von Steuern, Gebuehren oder anderen Abgaben zu zahlen.
-> (2) Sofern der Lizenznehmer kraft Gesetzes verpflichtet ist, von der Lizenzgebuehr Quellensteuer einzubehalten, erhoeht sich die Lizenzgebuehr um den Betrag der Quellensteuer (Gross-up), so dass der Lizenzgeber den vertraglich vereinbarten Nettobetrag erhaelt.
+> (2) Sofern der Lizenznehmer kraft Gesetzes verpflichtet ist, von der Lizenzgebuehr Quellensteuer einzubehalten, erhoeht sich die Lizenzgebuehr um den Betrag der Quellensteuer (Groß-up), so dass der Lizenzgeber den vertraglich vereinbarten Nettobetrag erhaelt.
 > (3) Sofern der Lizenzgeber durch DBA-Anwendung oder die EU-Zinsen-Lizenz-Richtlinie einen reduzierten Quellensteuersatz oder Steuerbefreiung beanspruchen kann, wirkt er bei der Beschaffung der erforderlichen Bescheinigungen mit."
 
 **B. Umsatzsteuer:**
 > "(4) Die Lizenzgebuehren sind Nettobetraege. Auf die Lizenzgebuehr ist die gesetzliche Umsatzsteuer hinzuzurechnen. Bei B2B-Konstellationen innerhalb der EU gilt das Reverse-Charge-Verfahren ($ 13b UStG)."
 
 **C. Steuer-Erstattung:**
-> "(5) Wird die Quellensteuer rueckwirkend reduziert oder erstattet, fliesst der Erstattungsbetrag dem Lizenzgeber zu, soweit dieser den Gross-up bereits getragen hat."
+> "(5) Wird die Quellensteuer rueckwirkend reduziert oder erstattet, fliesst der Erstattungsbetrag dem Lizenzgeber zu, soweit dieser den Groß-up bereits getragen hat."
 
 ## Pruefroutine vor Vertragsschluss
 

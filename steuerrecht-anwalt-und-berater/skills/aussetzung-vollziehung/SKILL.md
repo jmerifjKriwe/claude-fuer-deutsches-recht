@@ -49,10 +49,10 @@ Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag we
 
 ## Aktuelle Rechtsprechung
 
-- **BFH, Vorlagebeschluss vom 08.05.2024 — VIII R 9/23** an das BVerfG (anhaengig BVerfG 1 BvL 8/24): Der Zinssatz für Aussetzungszinsen nach § 237 i.V.m. § 238 Abs. 1 S. 1 AO in Hoehe von 0,5 Prozent pro Monat ist nach Auffassung des BFH für den Zeitraum 01.01.2019 bis 15.04.2021 verfassungswidrig. Konsequenz für die Praxis: AdV-Antraege für betroffene Zeitraeume sollten den anhaengigen Vorlagebeschluss mitfuehren; ggf. AdV der Aussetzungszinsen selbst beantragen. Volltext BFH ueber die BFH-Datenbank (Vorlagebeschluss VIII R 9/23, STRE202410144).
-- **BFH, Beschluss vom 21.03.2025 — X B 21/25 (AdV)** zu Saeumniszuschlaegen: Keine ernstlichen verfassungsrechtlichen Zweifel an der Hoehe der Saeumniszuschlaege nach § 240 Abs. 1 S. 1 AO für Zeitraeume nach dem 31.12.2018; gestuetzt auf das nachhaltig erhoehte Zinsumfeld seit Februar 2022. Volltext ueber BFH-Datenbank.
-- **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** zu Grunderwerbsteuer-Doppelfestsetzung nach § 1 Abs. 2b und § 1 Abs. 3 Nr. 1 GrEStG bei zeitlich getrenntem Signing und Closing eines GmbH-Anteilserwerbs: ernstliche Zweifel an der Rechtmaessigkeit bejaht; Vollziehung ausgesetzt. Volltext ueber BFH-Datenbank.
-- **BFH, Beschluss vom 09.07.2025 — II B 13/25 (AdV)**: Massstab "ernstliche Zweifel" — gegeben, wenn bei summarischer Pruefung neben für die Rechtmaessigkeit sprechenden Umstaenden gewichtige gegen die Rechtmaessigkeit sprechende Gruende zutage treten, die Unsicherheit oder Unentschiedenheit in der rechtlichen oder tatsaechlichen Beurteilung bewirken. Volltext ueber BFH-Datenbank.
+- **BFH, Vorlagebeschluss vom 08.05.2024 — VIII R 9/23** an das BVerfG (anhaengig BVerfG 1 BvL 8/24): Der Zinssatz für Aussetzungszinsen nach § 237 i.V.m. § 238 Abs. 1 S. 1 AO in Höhe von 0,5 Prozent pro Monat ist nach Auffassung des BFH für den Zeitraum 01.01.2019 bis 15.04.2021 verfassungswidrig. Konsequenz für die Praxis: AdV-Antraege für betroffene Zeitraeume sollten den anhaengigen Vorlagebeschluss mitfuehren; ggf. AdV der Aussetzungszinsen selbst beantragen. Volltext BFH über die BFH-Datenbank (Vorlagebeschluss VIII R 9/23, STRE202410144).
+- **BFH, Beschluss vom 21.03.2025 — X B 21/25 (AdV)** zu Saeumniszuschlaegen: Keine ernstlichen verfassungsrechtlichen Zweifel an der Höhe der Saeumniszuschlaege nach § 240 Abs. 1 S. 1 AO für Zeitraeume nach dem 31.12.2018; gestuetzt auf das nachhaltig erhoehte Zinsumfeld seit Februar 2022. Volltext über BFH-Datenbank.
+- **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** zu Grunderwerbsteuer-Doppelfestsetzung nach § 1 Abs. 2b und § 1 Abs. 3 Nr. 1 GrEStG bei zeitlich getrenntem Signing und Closing eines GmbH-Anteilserwerbs: ernstliche Zweifel an der Rechtmaessigkeit bejaht; Vollziehung ausgesetzt. Volltext über BFH-Datenbank.
+- **BFH, Beschluss vom 09.07.2025 — II B 13/25 (AdV)**: Massstab "ernstliche Zweifel" — gegeben, wenn bei summarischer Prüfung neben für die Rechtmaessigkeit sprechenden Umstaenden gewichtige gegen die Rechtmaessigkeit sprechende Gruende zutage treten, die Unsicherheit oder Unentschiedenheit in der rechtlichen oder tatsaechlichen Beurteilung bewirken. Volltext über BFH-Datenbank.
 
 ## Schritt-für-Schritt-Workflow
 
@@ -149,7 +149,7 @@ Keine gesetzliche Antragsfrist. Empfehlung: zusammen mit Einspruch oder Klage ei
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -184,7 +184,7 @@ informieren Sie über den weiteren Verfahrensgang.
 [KANZLEI], [DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

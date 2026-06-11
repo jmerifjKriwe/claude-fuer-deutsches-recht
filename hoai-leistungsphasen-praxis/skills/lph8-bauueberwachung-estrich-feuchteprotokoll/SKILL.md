@@ -37,7 +37,7 @@ Estrichschichten sind Voraussetzung für nahezu jeden Bodenbelag, und ein zu feu
 - § 650p BGB, § 650q BGB: Architektenvertrag, Freigabepflicht vor Bodenbelagsverlegung
 - HOAI 2021 § 34 Anlage 10 LPH 8: Bauueberwachung Estrich und Bodenbelag als Grundleistung
 - VOB/C DIN 18353 Estricharbeiten: Materialkennwerte, Auftragsdicke, Schutzfristen, Aufmass nach Flaeche
-- DIN 18560-1:2015-11 Estriche im Bauwesen: Allgemeine Anforderungen, Pruefung, Beanspruchungsklassen
+- DIN 18560-1:2015-11 Estriche im Bauwesen: Allgemeine Anforderungen, Prüfung, Beanspruchungsklassen
 - DIN 18560-2:2009-09 Estriche auf Daemmschichten: Schwimmende Estriche, Dicke, Bewehrung, Randdaemmstreifen
 - DIN EN 13813:2003-01 Estrichmörtel Estriche: Klassen CT CA und CA+, Druckfestigkeit C, Biegezugfestigkeit F
 
@@ -45,10 +45,10 @@ Estrichschichten sind Voraussetzung für nahezu jeden Bodenbelag, und ein zu feu
 
 1. Estrichdicke Stichmessung: Bohrung 10 mm Schlagbohrer, Tiefenmessung Schieblehre, Soll-Dicke nach DIN 18560-2 Tabelle 1, Mindestdicke
 2. Bewehrung Kontrolle: Stahlmatteneinlage bei Dickestrich oder Belastungsklasse nach DIN 18560-2, Lage in mittlerer Schicht, Betondeckung 10 mm
-3. Randdaemmstreifen Vollstaendigkeit: Umlaufend ohne Luecke, Hoehe ueber Estrichoberkante mindestens 10 mm, Photo je Raum
+3. Randdaemmstreifen Vollstaendigkeit: Umlaufend ohne Luecke, Höhe über Estrichoberkante mindestens 10 mm, Photo je Raum
 4. Ebenheitsmessung: 2-m-Latte nach DIN 18202 Tabelle 3, Toleranzklasse 3 kleiner 5 mm unter Latte, Messung Raster 2 m x 2 m
 5. CM-Messung Protokoll: Datum, Entnahmeort GPS oder Raum-Nr, CM-Ergebnis in Prozent, Unterschrift Pruefperson, Grenzwert eingehalten Ja/Nein
-6. Schallschutz-Messung: Trittschallminderung Pruefung nach DIN EN ISO 10140-3 als Stichprobe, Vergleich Anforderung DIN 4109
+6. Schallschutz-Messung: Trittschallminderung Prüfung nach DIN EN ISO 10140-3 als Stichprobe, Vergleich Anforderung DIN 4109
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -60,22 +60,22 @@ Estrichschichten sind Voraussetzung für nahezu jeden Bodenbelag, und ein zu feu
 
 ## Meldungserstellung im ERP / SAP
 
-- SAP PM Meldungsart M2 Estrich-Feuchtemangel: Equipment-Nr Raum-ID z.B. ESTRICH-3OG-B204, Schadenscode E001 CM-Grenzwert ueberschritten, Massnahme Nachtrocknung 2 Wochen
+- SAP PM Meldungsart M2 Estrich-Feuchtemangel: Equipment-Nr Raum-ID z.B. ESTRICH-3OG-B204, Schadenscode E001 CM-Grenzwert ueberschritten, Maßnahme Nachtrocknung 2 Wochen
 - SAP PS Netzplan Ausbau: DAEMM-010 Daemmschicht, ESTRICH-020 Estricheinbau, TROCK-030 Trocknungsphase, CM-040 CM-Messung Freigabe, BELAG-050 Bodenbelagsverlegung
 - Nevaris Aufmass Estrich: Raumliste mit Flaeche qm je Raum, Dicke cm, Qualitaet CT oder CA, Mengenabgleich Lieferschein
 - Dalux Freigabe-Checkliste Bodenbelag: CM-Messwert Eingabe, Datum, Unterschrift Pruefperson, gruen bei Unterschreitung Grenzwert, automatische Freigabe-E-Mail
-- Workflow: CM-Messung zu hoch, Nachtrocknung-Massnahme (Bauwerkstrockner), Messung nach 1 Woche wiederholen, Freigabe erst bei Grenzwert
+- Workflow: CM-Messung zu hoch, Nachtrocknung-Maßnahme (Bauwerkstrockner), Messung nach 1 Woche wiederholen, Freigabe erst bei Grenzwert
 
 ## Typische Fallstricke
 
 - Bodenbelag auf feuchtem Estrich verlegt: Parkett quillt auf, Fliesen loesen sich, Schimmel unter Belag, kompletter Austausch notwendig
 - Randdaemmstreifen fehlend an Unterzug: Estrich schallbruecke zwischen Raum und Treppenhaus, Trittschallanforderung DIN 4109 verletzt
-- Feldeinteilung vergessen: Estrich reisst nach 6 Monaten Schwindrisse, Reparatur nur mit Fugenband oder Schleifen moeglich
+- Feldeinteilung vergessen: Estrich reisst nach 6 Monaten Schwindrisse, Reparatur nur mit Fugenband oder Schleifen möglich
 - Zu fruehe Belastung Estrich vor Austrocknungszeit: Estrich verformt sich plastisch, bleibt uneben
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

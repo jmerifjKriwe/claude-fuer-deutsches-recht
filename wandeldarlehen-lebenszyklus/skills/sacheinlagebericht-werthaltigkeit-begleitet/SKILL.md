@@ -109,4 +109,4 @@ Stand: 05/2026.
 - § 82 GmbHG (Strafbarkeit falscher Angaben): https://www.gesetze-im-internet.de/gmbhg/__82.html
 - § 272 II Nr. 4 HGB (Kapitalruecklage): https://www.gesetze-im-internet.de/hgb/__272.html
 - IDW S 1 / IDW RS HFA 42 (Werthaltigkeit von Forderungen): https://www.idw.de/idw/idw-verlautbarungen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

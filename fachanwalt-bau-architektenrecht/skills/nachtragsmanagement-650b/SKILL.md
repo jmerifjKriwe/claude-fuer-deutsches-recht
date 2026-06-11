@@ -8,7 +8,7 @@ description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: M
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Nachtragsmanagement 650b** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Bau Architektenrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Nachtragsmanagement 650b** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Bau Architektenrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -64,13 +64,13 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Leitentscheidungen (Stand 05/2026)
 
-Wichtige Linien (jedes Aktenzeichen vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit Datum und Norm verifizieren):
+Wichtige Linien (jedes Aktenzeichen vor Ausgabe über dejure.org / bundesgerichtshof.de mit Datum und Norm verifizieren):
 
-- BGH VII. Zivilsenat: Mehrvergütung VOB/B § 2 Abs. 5 / Abs. 6 — Tendenz seit 2019 zur Berechnung auf Grundlage der tatsaechlich erforderlichen Kosten zuzueglich angemessener Zuschlaege (Aufgabe einer rein „vorkalkulatorischen" Preisfortschreibung). Konkretes Eckurteil (BGH 08.08.2019) vor Ausgabe ueber bundesgerichtshof.de mit Aktenzeichen verifizieren.
+- BGH VII. Zivilsenat: Mehrvergütung VOB/B § 2 Abs. 5 / Abs. 6 — Tendenz seit 2019 zur Berechnung auf Grundlage der tatsaechlich erforderlichen Kosten zuzueglich angemessener Zuschlaege (Aufgabe einer rein „vorkalkulatorischen" Preisfortschreibung). Konkretes Eckurteil (BGH 08.08.2019) vor Ausgabe über bundesgerichtshof.de mit Aktenzeichen verifizieren.
 - BGH zum BGB-Bauvertrag § 650c BGB seit 2018: Berechnung der Mehrverguetung primaer kostenorientiert (tatsaechliche Selbstkosten + AGK + WuG); Wahlrecht des AN auf Urkalkulationsabgleich nur bei nachgewiesenem Auseinanderfallen — vor Ausgabe konkrete Entscheidung verifizieren.
 - Behinderungsanzeige § 6 VOB/B: stehende Rspr. fordert konkrete Behinderungsursache, Beginn und voraussichtliche Dauer; Pauschalhinweis genuegt nicht — OLG-Linien siehe öffentliche Entscheidungsdatenbanken der OLG (z. B. olg-duesseldorf.nrw.de).
 
-Live-Verifikation Pflicht ueber dejure.org / bundesgerichtshof.de / olg-...nrw.de bzw. die jeweilige Landesjustiz-Datenbank.
+Live-Verifikation Pflicht über dejure.org / bundesgerichtshof.de / olg-...nrw.de bzw. die jeweilige Landesjustiz-Datenbank.
 
 ## Prüfschema — Nachtragsanspruch im Überblick
 
@@ -221,13 +221,13 @@ GESAMTBRUTTO: EUR [Summe]
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Nachtragsanspruch nach § 650b BGB oder VOB/B geltend machen | Fuenfstufiges Schema; Bausteine unten |
 | Variante A — Auftraggeber bestreitet Anordnung | 80-Prozent-Abrechnungsrecht § 650c Abs. 3 BGB nutzen |
-| Variante B — Streit ueber Vergaetungshoehe | Kalkulations-Methode OffMat-Vergleich; Gerichtsgutachten antizipieren |
+| Variante B — Streit über Vergaetungshoehe | Kalkulations-Methode OffMat-Vergleich; Gerichtsgutachten antizipieren |
 | Variante C — eilige Bauzeitverlaengerung noetig | Gerichtlicher Eilantrag § 650d BGB; kurzfristig stellen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -307,7 +307,7 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 [Unterschrift Auftragnehmer]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

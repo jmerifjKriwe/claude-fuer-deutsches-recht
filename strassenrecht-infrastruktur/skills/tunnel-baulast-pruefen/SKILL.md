@@ -3,7 +3,7 @@ name: tunnel-baulast-pruefen
 description: "Tunnel: Baulast prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Tunnel Baulast Pruefen
+# Tunnel Baulast Prüfen
 
 ## Arbeitsweg
 

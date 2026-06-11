@@ -22,8 +22,8 @@ Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat An
 1. **Anhörungsbogen erhalten?** — Unterschied zum Bussgeldbescheid: Anhörung ist Vorstadium; kein Bussgeldbescheid noch offen.
 2. **Schweigen oder Stellungnahme?** — § 55 OWiG: Betroffener muss auf Anhörung nicht reagieren; Schweigen kann nicht nachteilig gewertet werden.
 3. **Fahreridentifikation?** — Betroffener muss sich nicht als Fahrender identifizieren; Halter-Auskunft ist OWi-Pflicht (§ 31a StVG bei Halter-Anfrage), aber Fahrernennung ist freiwillig.
-4. **Bussgeldbescheid bereits erlassen?** — Wenn ja: Einspruchsfrist 2 Wochen ab Zustellung (§ 67 Abs. 1 OWiG) pruefen.
-5. **Zustellungsfiktion pruefen?** — § 33 Abs. 1 OWiG i.V.m. §§ 177-182 ZPO; Einwurf-Einschreiben.
+4. **Bussgeldbescheid bereits erlassen?** — Wenn ja: Einspruchsfrist 2 Wochen ab Zustellung (§ 67 Abs. 1 OWiG) prüfen.
+5. **Zustellungsfiktion prüfen?** — § 33 Abs. 1 OWiG i.V.m. §§ 177-182 ZPO; Einwurf-Einschreiben.
 
 ## Zentrale Normen
 
@@ -31,7 +31,7 @@ Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat An
 - **§ 55 Abs. 1 OWiG** — Schweigen ist nicht zu seinen Ungunsten zu verwenden
 - **§ 66 OWiG** — Inhalt des Bussgeldbescheidss; Pflichtangaben nach § 66 Abs. 1 Nr. 1-7 OWiG
 - **§ 67 Abs. 1 OWiG** — Einspruch: 2 Wochen ab Zustellung des Bussgeldbescheids
-- **§ 67 Abs. 2 OWiG** — Beschraenkter Einspruch (nur Rechtsfolgen) moeglich
+- **§ 67 Abs. 2 OWiG** — Beschraenkter Einspruch (nur Rechtsfolgen) möglich
 - **§ 33 OWiG i.V.m. §§ 177-182 ZPO** — Zustellungsvorschriften
 - **§ 31a StVG** — Recht auf Fahrerauskunft (nur Halter-Auskunft, nicht Fahrernennung)
 
@@ -91,5 +91,5 @@ Mit freundlichen Gruessen [KANZLEI]
 
 - Anhörungsbogen nicht selbst ausfullen lassen — Schweigerecht empfehlen.
 - Einspruchsfrist 2 Wochen ab Zustellung (§ 67 OWiG) — sofort notieren.
-- Bussgeldbescheid auf Pflichtinhalt nach § 66 OWiG pruefen.
+- Bussgeldbescheid auf Pflichtinhalt nach § 66 OWiG prüfen.
 - Anwaltliche Endkontrolle bei Einspruchsformulierung.

@@ -269,7 +269,7 @@ Jedes auf diesem Skill basierende Gutachten muss mindestens folgende Quellen aus
 
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
 
-## Triage — ZU-Pruefung § 17 InsO
+## Triage — ZU-Prüfung § 17 InsO
 
 Bevor losgelegt wird, klaere:
 

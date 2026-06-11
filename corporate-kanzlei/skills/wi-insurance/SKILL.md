@@ -124,11 +124,11 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## W&I-Versicherungsstruktur: Uebersicht
+## W&I-Versicherungsstruktur: Übersicht
 
 ### Kaeufer-Policy (Buyer-Side)
 - Kaeufer ist Versicherungsnehmer und Beguenstigter
-- Verkaefer haftet nur noch in Hoehe des Selbstbehalts (Excess) — oft 0 EUR bei Nil-Seller-Liability-Strukturen
+- Verkaefer haftet nur noch in Höhe des Selbstbehalts (Excess) — oft 0 EUR bei Nil-Seller-Liability-Strukturen
 - Praemie: 0.8-1.5 % der Versicherungssumme (Stand 2024)
 - Vorteile: Kaeufer-Kontrolle; kein Schritt gegen Verkaefer; PE-Seller bevorzugt (Clean Exit)
 
@@ -153,7 +153,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 | Ausschluss | Beschreibung | Ausweg |
 |---|---|---|
 | Known Facts | Versicherte hat Kenntnis des Risikos | Erhoehtes Pricing; separate Indemnity |
-| Forward-Looking Reps | Reps ueber Zukunftserwartungen | Kein Schutz; earmarked risks |
+| Forward-Looking Reps | Reps über Zukunftserwartungen | Kein Schutz; earmarked risks |
 | Environmental / Umwelt | Bodenkontamination; Altlasten | Separate Umwelt-Policy; Environmental Indemnity |
 | Purchase Price Adjustment | Working Capital/Net Debt-Anpassungen | Separate Purchase Price-Mechanismus |
 | Pension Deficits | Unterdeckung bei Pensionsverpflichtungen | Separate Pension Indemnity im SPA |
@@ -218,7 +218,7 @@ Datum der Abgabe: [DATUM]
 
 - VVG (Versicherungsvertragsgesetz): https://www.gesetze-im-internet.de/vvg_2008/
 - VVG § 19 (vorvertragliche Anzeigepflicht): https://www.gesetze-im-internet.de/vvg_2008/__19.html
-- W&I-Marktstandard: LMA-Modellklauseln, GDV-Hinweise (Stand pruefen).
+- W&I-Marktstandard: LMA-Modellklauseln, GDV-Hinweise (Stand prüfen).
 - Im SPA-Kontext: §§ 311 II, 280 BGB (W&I deckt regelmaessig Garantieverletzungen § 311 I BGB oder vertragliche Schadensersatzregelungen).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

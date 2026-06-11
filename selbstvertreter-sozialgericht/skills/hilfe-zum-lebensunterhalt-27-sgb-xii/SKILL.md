@@ -19,7 +19,7 @@ description: "Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert d
 - **Vorrang SGB II (Buergergeld)**: erwerbsfaehige Hilfebeduerftige nach § 8 SGB II (mindestens 3 Stunden taeglich erwerbsfaehig).
 - **Vorrang §§ 41 ff. SGB XII (Grundsicherung)**: Personen ab Regelaltersgrenze sowie dauerhaft voll Erwerbsgeminderte.
 - **HLU nach § 27 SGB XII** trifft daher die **uebriggebliebenen** Faelle: insbesondere vorruebergehend Erwerbsgeminderte (auch unter 65), Personen ohne SGB-II-Anspruch wegen Ausschluss (z. B. § 7 Abs. 1 Satz 2 SGB II), bestimmte Auslaender ohne SGB-II-Berechtigung, kurze Brueckenfaelle.
-- Auslaender mit Aufenthaltsrecht: Pruefung der Ausschluesse (§ 23 SGB XII; Aufenthaltsrechtsstatus).
+- Auslaender mit Aufenthaltsrecht: Prüfung der Ausschluesse (§ 23 SGB XII; Aufenthaltsrechtsstatus).
 
 **Achtung**: Alter unter 65 reicht allein nicht. Es muss vielmehr ein konkreter Ausschluss von SGB II und SGB XII Grundsicherung vorliegen.
 
@@ -41,7 +41,7 @@ description: "Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert d
 ## Pruefraster
 
 1. Erwerbsfaehigkeit unter 3 Stunden?
-2. Einkommen und Vermoegen?
+2. Einkommen und Vermögen?
 3. Vorrangige Anspruechen?
 4. KdU?
 5. GKV-Pflichtversicherung?

@@ -16,8 +16,8 @@ description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: E
 
 ## Zentrale Normen
 - Art. 28 DSGVO — AVV: jeder Community-Skill-Anbieter mit Datenzugriff ist Auftragsverarbeiter
-- Art. 32 DSGVO — TOM: vor Installation eines Community-Skills TOM-Pruefung erforderlich
-- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: Community-Skills duerfen keine Mandantengeheimnisse exponieren
+- Art. 32 DSGVO — TOM: vor Installation eines Community-Skills TOM-Prüfung erforderlich
+- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: Community-Skills dürfen keine Mandantengeheimnisse exponieren
 - § 203 StGB — Verletzung von Privatgeheimnissen: gilt auch bei Weiterleitung an Community-Skill-Infrastruktur
 
 ## Eingaben

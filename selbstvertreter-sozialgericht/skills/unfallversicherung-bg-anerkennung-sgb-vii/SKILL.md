@@ -45,7 +45,7 @@ Sie hatten einen Arbeitsunfall. Oder eine Berufskrankheit. Die Berufsgenossensch
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Arbeitsunfall pruefen
+### Schritt 1 — Arbeitsunfall prüfen
 
 Vier Voraussetzungen:
 
@@ -56,7 +56,7 @@ Vier Voraussetzungen:
 
 Wichtig: Auch Wegeunfaelle sind erfasst (§ 8 Abs. 2 Nr. 1 SGB VII).
 
-### Schritt 2 — Berufskrankheit pruefen
+### Schritt 2 — Berufskrankheit prüfen
 
 Es muss:
 
@@ -118,7 +118,7 @@ Beklagte: BG am Sitz der BG (Sonderzuständigkeit nach § 57 Abs. 2 SGG). Beispi
 
 - BG hat eigene Sachverstaendige.
 - Bei strittiger Kausalitaet: BG-eigene Gutachten.
-- Sie koennen § 109 SGG nutzen.
+- Sie können § 109 SGG nutzen.
 - Wichtig: Kausalitaetsbeweis (Unfall → Schaden).
 
 ### Schritt 7 — Bei Erfolg
@@ -126,13 +126,13 @@ Beklagte: BG am Sitz der BG (Sonderzuständigkeit nach § 57 Abs. 2 SGG). Beispi
 - Anerkennung als Arbeitsunfall / BK
 - Heilbehandlung uebernommen
 - Bei MdE 20 % und mehr: Verletztenrente
-- Reha-Massnahmen
+- Reha-Maßnahmen
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sofort D-Arzt aufsuchen** bei Arbeitsunfaellen — das ist das wichtigste Beweismittel.
 - **BK-Anzeige durch Arbeitgeber** prufen — oft unterlassen.
-- **Wegeunfall**: nur der direkte Weg ist versichert; Umwege koennen problematisch sein.
+- **Wegeunfall**: nur der direkte Weg ist versichert; Umwege können problematisch sein.
 - **Kausalitaet**: bei BK oft strittig (war wirklich der Beruf die Ursache?).
 
 ## Typische Fehler
@@ -144,4 +144,4 @@ Beklagte: BG am Sitz der BG (Sonderzuständigkeit nach § 57 Abs. 2 SGG). Beispi
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGB VII aktuell. BKV jaehrlich aktualisiert. BSG-Linie zu BK-Anerkennung detailliert in juris pruefen.
+Stand: 05/2026. SGB VII aktuell. BKV jaehrlich aktualisiert. BSG-Linie zu BK-Anerkennung detailliert in juris prüfen.

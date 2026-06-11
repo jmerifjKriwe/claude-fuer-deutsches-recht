@@ -7,7 +7,7 @@ description: "Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Ma
 
 ## Arbeitsbereich
 
-Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Massnahmen-Trio: Erziehungsmassregeln §§ 9-12 JGG, Zuchtmittel §§ 13-16 JGG, Jugendstrafe §§ 17-18 JGG. Voraussetzung Jugendstrafe schaedliche Neigungen oder Schwere der Schuld § 17 JGG. Strafrahmen Jugendstrafe 6 Monate bis 5 Jahre, bei Verbrechen bis 10 Jahre. Heranwachsende § 105 JGG. JStVollzG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Maßnahmen-Trio: Erziehungsmassregeln §§ 9-12 JGG, Zuchtmittel §§ 13-16 JGG, Jugendstrafe §§ 17-18 JGG. Voraussetzung Jugendstrafe schaedliche Neigungen oder Schwere der Schuld § 17 JGG. Strafrahmen Jugendstrafe 6 Monate bis 5 Jahre, bei Verbrechen bis 10 Jahre. Heranwachsende § 105 JGG. JStVollzG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -23,8 +23,8 @@ Das Jugendgerichtsgesetz (JGG) gilt für Jugendliche (14 bis unter 18 Jahre) und
 
 ## Wann brauchen Sie diese Skill?
 
-- Mandant ist Jugendlicher oder Heranwachsender; Sie pruefen die anwendbaren Sanktionen.
-- Heranwachsender Mandant — Sie pruefen § 105 JGG (Anwendung Jugendrecht oder Erwachsenenrecht).
+- Mandant ist Jugendlicher oder Heranwachsender; Sie prüfen die anwendbaren Sanktionen.
+- Heranwachsender Mandant — Sie prüfen § 105 JGG (Anwendung Jugendrecht oder Erwachsenenrecht).
 - Sie bereiten die Strafzumessungsverhandlung vor der Jugendkammer oder dem Jugendrichter vor.
 
 ## Rechtliche Grundlagen
@@ -44,8 +44,8 @@ Das Jugendgerichtsgesetz (JGG) gilt für Jugendliche (14 bis unter 18 Jahre) und
 
 #### 1. Erziehungsmassregeln (§§ 9-12 JGG)
 
-- **§ 10 JGG Weisungen** — Aufenthalt, Arbeit, Schule, Familie, Freizeit, sozial-paedagogische Massnahmen, Verkehrsunterricht, Anti-Aggressionstraining etc.
-- **§ 11 JGG Hilfen zur Erziehung** — Verweis auf jugendhilferechtliche Massnahmen.
+- **§ 10 JGG Weisungen** — Aufenthalt, Arbeit, Schule, Familie, Freizeit, sozial-paedagogische Maßnahmen, Verkehrsunterricht, Anti-Aggressionstraining etc.
+- **§ 11 JGG Hilfen zur Erziehung** — Verweis auf jugendhilferechtliche Maßnahmen.
 
 #### 2. Zuchtmittel (§§ 13-16 JGG)
 
@@ -57,11 +57,11 @@ Das Jugendgerichtsgesetz (JGG) gilt für Jugendliche (14 bis unter 18 Jahre) und
 
 - **§ 17 Abs. 1 JGG** — Jugendstrafe ist Freiheitsentzug in Jugendstrafanstalt.
 - **§ 17 Abs. 2 JGG** — Voraussetzung:
- - **Schaedliche Neigungen**, deren Bekaempfung erzieherische Massnahmen nicht ausreichen, **oder**
+ - **Schaedliche Neigungen**, deren Bekaempfung erzieherische Maßnahmen nicht ausreichen, **oder**
  - **Schwere der Schuld** bei Straftaten von erheblicher Bedeutung.
 - **§ 18 Abs. 1 JGG** — Mindestmass 6 Monate, Hoechstmass:
  - bei Vergehen: 5 Jahre.
- - bei Verbrechen, für die Hoechststrafe ueber 10 Jahre Freiheitsstrafe nach allgemeinem Strafrecht steht: bis 10 Jahre.
+ - bei Verbrechen, für die Hoechststrafe über 10 Jahre Freiheitsstrafe nach allgemeinem Strafrecht steht: bis 10 Jahre.
  - bei besonders schweren Mordfaellen bei Heranwachsenden nach § 105 JGG: bis 15 Jahre.
 - **§ 18 Abs. 2 JGG** — Strafzumessungs-Grundsatz: erforderliche erzieherische Einwirkung.
 
@@ -70,30 +70,30 @@ Das Jugendgerichtsgesetz (JGG) gilt für Jugendliche (14 bis unter 18 Jahre) und
 - **§ 21 JGG** — Aussetzung der Jugendstrafe zur Bewaehrung bis 1 Jahr regelmaessig; bis 2 Jahre bei guenstiger Prognose.
 - **§ 22 JGG** — Bewaehrungszeit 1 bis 3 Jahre, mindestens 1 Jahr.
 - **§ 27 JGG** — Aussetzung der Verhaengung der Jugendstrafe.
-- **§ 31 JGG** — Einheitliche Massnahme oder Strafe bei mehreren Taten.
+- **§ 31 JGG** — Einheitliche Maßnahme oder Strafe bei mehreren Taten.
 - **§ 105 JGG** — Heranwachsende.
 - **§ 106 JGG** — Strafzumessung bei Heranwachsenden im allgemeinen Strafrecht; Sondergrenzen.
 
 ## Strafzumessungs-Grundsatz
 
 - **Erziehung** vor **Suehne**.
-- **Stufung**: Erziehungsmassregeln zuerst pruefen, dann Zuchtmittel, erst zuletzt Jugendstrafe.
+- **Stufung**: Erziehungsmassregeln zuerst prüfen, dann Zuchtmittel, erst zuletzt Jugendstrafe.
 - **Jugendstrafe** nur, wenn Erziehungsmassregeln und Zuchtmittel nicht ausreichen oder Schwere der Schuld es gebietet.
 - **§ 18 Abs. 2 JGG** — Strafhoehe der Jugendstrafe nach der erforderlichen erzieherischen Einwirkung; das schliesst weder die Beruecksichtigung der Schuld noch praeventive Erwaegungen aus, aber der Erziehungsgedanke ist tragend.
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
-1. **Anwendungsbereich** klaeren:
+1. **Anwendungsbereich** klären:
  - Tatbegehungsalter? Jugendlich oder Heranwachsend?
- - Bei Heranwachsenden: § 105 JGG-Pruefung. Antrag auf Jugendrecht meist verteidigungsguenstig.
+ - Bei Heranwachsenden: § 105 JGG-Prüfung. Antrag auf Jugendrecht meist verteidigungsguenstig.
 2. **Sozialanamnese** vorbereiten:
  - Persoenlichkeit (Entwicklung, Schulbildung, soziales Umfeld).
  - Tat: Bagatelle, Krisentat, Jugendverfehlung?
  - Schaedliche Neigungen erkennbar (Suchtproblematik, Gewalt, Eigentumsdelikte als Muster)?
 3. **Sanktionsvorschlag** mit Mandant und Jugendgerichtshilfe abstimmen:
- - **Erziehungsmassregel** (Weisung, sozial-paedagogische Massnahme).
+ - **Erziehungsmassregel** (Weisung, sozial-paedagogische Maßnahme).
  - **Zuchtmittel** (Auflage, Jugendarrest).
- - **Jugendstrafe** vermeiden, wenn moeglich; sonst Bewaehrung sichern.
+ - **Jugendstrafe** vermeiden, wenn möglich; sonst Bewaehrung sichern.
 4. **Bewaehrungsperspektive**: § 21 JGG.
 5. **Strafzumessungs-Argumentation**:
  - Erziehung: lernfaehig, sozial integriert, Schul- oder Berufsperspektive.
@@ -135,14 +135,14 @@ Das Jugendgerichtsgesetz (JGG) gilt für Jugendliche (14 bis unter 18 Jahre) und
 
 ## Typische Fehler
 
-- **Heranwachsenden** automatisch Erwachsenenrecht angewandt: § 105 JGG-Pruefung notwendig.
+- **Heranwachsenden** automatisch Erwachsenenrecht angewandt: § 105 JGG-Prüfung notwendig.
 - **Jugendstrafe** als erste Wahl behandelt; Stufung uebersprungen.
 - **Schaedliche Neigungen** ohne Tatsachenbasis bejaht.
 - **Schwere der Schuld** ohne erforderliche Tatschwere.
 - **Erziehungsgedanke** rein floskelhaft, nicht konkret in die Strafzumessung eingearbeitet.
 - **Sozialanamnese** der Jugendgerichtshilfe nicht ausgewertet.
 - **Vollzug** in Jugendstrafanstalt (§§ 89 ff. JGG) nicht beachtet.
-- **§ 31 JGG**: bei mehreren Taten ist eine **einheitliche** Massnahme oder Strafe zu bilden — kein einfaches "Aufsummieren".
+- **§ 31 JGG**: bei mehreren Taten ist eine **einheitliche** Maßnahme oder Strafe zu bilden — kein einfaches "Aufsummieren".
 
 ## Quellen und Stand 05/2026
 

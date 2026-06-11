@@ -19,7 +19,7 @@ Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. de
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beamte ab dem 55. Lebensjahr, die ueber Altersteilzeit den gleitenden Uebergang in den Ruhestand wuenschen.
+Skill für Beamte ab dem 55. Lebensjahr, die über Altersteilzeit den gleitenden Uebergang in den Ruhestand wuenschen.
 
 ## 2. Eingaben
 
@@ -36,12 +36,12 @@ Skill für Beamte ab dem 55. Lebensjahr, die ueber Altersteilzeit den gleitenden
 - Mindestalter und Mindestbeschaeftigungsdauer, dienstliche Belange nicht entgegenstehend.
 
 ### b) Modelle
-- Teilzeitmodell: gleichmäßige Reduzierung der Arbeitszeit ueber die gesamte Altersteilzeit.
+- Teilzeitmodell: gleichmäßige Reduzierung der Arbeitszeit über die gesamte Altersteilzeit.
 - Blockmodell: Arbeitsphase mit voller Arbeitszeit und anschliessende Freistellungsphase.
 
 ### c) Bezuege
 - Bezuege betragen in der Regel 80 v. H. der Bezuege der entsprechenden Vollzeitbeschaeftigung (Altersteilzeitzuschlag).
-- Auswirkungen auf Beihilfe und Heilfürsorge pruefen.
+- Auswirkungen auf Beihilfe und Heilfürsorge prüfen.
 
 ### d) Ruhegehaltfaehigkeit
 - Altersteilzeit ist anteilig ruhegehaltfaehig.

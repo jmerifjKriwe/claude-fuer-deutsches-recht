@@ -19,14 +19,14 @@ description: "Verkehrsowi Beweisverwertung Standardisiert: ordnet Normen, Nutzer
 2. **Welche konkreten Angriffspunkte auf die Messung gibt es?** — Pauschales Bestreiten genuegt nicht um das standardisierte Verfahren zu erschuettern.
 3. **Rohmessdaten angefordert?** — BVerfG-Linie zum Recht auf Zugang zu vorhandenen Daten (Beschl. v. 12.11.2020, 2 BvR 1616/18; Beschl. v. 20.6.2023, 2 BvR 1167/20 — bundesverfassungsgericht.de).
 4. **Sachverstaendigenantrag gestellt?** — § 77 Abs. 2 OWiG: Gericht darf nur ablehnen wenn Antrag missbräuchlich oder Beweisthema nicht entscheidungserheblich.
-5. **Fahreridentifikation aus Messfoto eindeutig?** — Lichtbild-Qualitaet prufen; Sachverstaendiger für biometrischen Vergleich moeglich.
+5. **Fahreridentifikation aus Messfoto eindeutig?** — Lichtbild-Qualitaet prufen; Sachverstaendiger für biometrischen Vergleich möglich.
 
 ## Zentrale Normen
 
 - **§ 77 OWiG** — Beweisaufnahme: Gericht darf und muss Beweise erheben wenn entscheidungserheblich
 - **§ 77 Abs. 2 OWiG** — Ablehnung von Beweisantraegen nur aus enumerativen Gruenden
 - **§ 71 OWiG i.V.m. § 261 StPO** — Freie Beweiswuerdigung
-- **Art. 103 Abs. 1 GG** — Rechtliches Gehoer: Betroffener muss Beweise angreifen koennen
+- **Art. 103 Abs. 1 GG** — Rechtliches Gehoer: Betroffener muss Beweise angreifen können
 - **§ 6 MessEG** — Eichpflicht als Grundbedingung der Verwertbarkeit
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
@@ -74,7 +74,7 @@ SACHVERSTAENDIGENANTRAG (§ 77 Abs. 2 OWiG):
 ## Schritt-für-Schritt-Workflow
 
 1. **Messgeraet und -verfahren identifizieren.**
-2. **Angriffspunkte pruefen** (s. Checkliste).
+2. **Angriffspunkte prüfen** (s. Checkliste).
 3. **Rohmessdaten-Status feststellen** — angefordert? Vorhanden?
 4. **Sachverstaendigenantrag konkret formulieren** wenn Angriffspunkte bestehen.
 5. **In der Hauptverhandlung:** Beweisantrag § 77 OWiG stellen; bei Ablehnung: Gruende in das Protokoll aufnehmen lassen; Rechtsbeschwerde-Grundlage sichern.

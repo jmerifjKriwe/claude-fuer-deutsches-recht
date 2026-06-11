@@ -75,9 +75,9 @@ KI-Training und Text-Data-Mining?
 | Mandatstyp | Erstschritte | Frist |
 |------------|-------------|-------|
 | Urheberrechtsverletzung aktiv | Verletzungsnachweis, Abmahnung | Verjährung 3 Jahre § 195 BGB |
-| Filesharing-Abmahnung passiv | Abmahnung pruefen, § 97a Abs. 3 UrhG | Reaktionsfrist 7-14 Tage |
+| Filesharing-Abmahnung passiv | Abmahnung prüfen, § 97a Abs. 3 UrhG | Reaktionsfrist 7-14 Tage |
 | Persoenlichkeitsrechtsverletzung | Einstweilige Verfuegung vorbereiten | 4 Wochen Selbstwiderlegung |
-| Gegendarstellung | LPG-Frist pruefen, Verlangen verfassen | 2-3 Monate ab Kenntnis |
+| Gegendarstellung | LPG-Frist prüfen, Verlangen verfassen | 2-3 Monate ab Kenntnis |
 | VGG-Schiedsstelle | Antrag DPMA | Vor Klage OLG Muenchen § 128 VGG |
 
 ## Fristen-Checkliste

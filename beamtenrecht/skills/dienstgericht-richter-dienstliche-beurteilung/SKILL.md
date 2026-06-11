@@ -19,7 +19,7 @@ Skill für Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidige
 
 ## 2. Eingaben
 
-- Beanstandeter Vorgang (Disziplinarverfuegung, Massnahme der Dienstaufsicht, Geschaeftsverteilungsbeschluss)
+- Beanstandeter Vorgang (Disziplinarverfuegung, Maßnahme der Dienstaufsicht, Geschaeftsverteilungsbeschluss)
 - Statusamt (Bundes- oder Landesrichter)
 - Spruchkoerper-Besetzung
 - Antrag im Detail
@@ -28,20 +28,20 @@ Skill für Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidige
 
 ### a) Zuständigkeit
 - § 62 DRiG: Dienstgericht des Bundes für Bundesrichter, Dienstgerichte der Länder für Landesrichter.
-- § 78 DRiG: Disziplinarsachen, Statussachen, Pruefung nach § 26 DRiG.
+- § 78 DRiG: Disziplinarsachen, Statussachen, Prüfung nach § 26 DRiG.
 
 ### b) Besetzung
 - Dienstgericht: Drei Berufsrichter, zwei ehrenamtliche Richter (in Disziplinarsachen) bzw. spezifische Besetzung in Statussachen.
 
-### c) Pruefung nach § 26 DRiG
-- Pruefung von Massnahmen der Dienstaufsicht, ob die richterliche Unabhaengigkeit beruehrt wird; Pruefraster: Massnahme, Beruehrung der Unabhaengigkeit, Folgen.
-- Antrag auf Pruefung in Frist (regelmaessig 3 Monate nach Massnahme).
+### c) Prüfung nach § 26 DRiG
+- Prüfung von Maßnahmen der Dienstaufsicht, ob die richterliche Unabhaengigkeit beruehrt wird; Pruefraster: Maßnahme, Beruehrung der Unabhaengigkeit, Folgen.
+- Antrag auf Prüfung in Frist (regelmaessig 3 Monate nach Maßnahme).
 
 ### d) Disziplinarverfahren
 - Verfahren nach BDG in Anlehnung; spezifische Besonderheiten in DRiG und Landesrichtergesetzen.
 
 ### e) Geschaeftsverteilung
-- Antrag auf Pruefung der Geschaeftsverteilung beim Dienstgericht — siehe Schwester-Skill `geschaeftsverteilung-richter-21e-gvg`.
+- Antrag auf Prüfung der Geschaeftsverteilung beim Dienstgericht — siehe Schwester-Skill `geschaeftsverteilung-richter-21e-gvg`.
 
 ## 4. Quellenpflicht
 
@@ -65,4 +65,4 @@ Skill für Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidige
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Vorsitzender Richter, Praesidium hat ihm anhaengiges Verfahren entzogen mit Hinweis auf Belastungssituation. Skill liefert Pruefung nach § 26 DRiG und Antrag beim Dienstgericht.
+Mandant Vorsitzender Richter, Praesidium hat ihm anhaengiges Verfahren entzogen mit Hinweis auf Belastungssituation. Skill liefert Prüfung nach § 26 DRiG und Antrag beim Dienstgericht.

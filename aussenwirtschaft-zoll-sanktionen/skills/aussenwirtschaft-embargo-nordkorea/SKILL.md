@@ -15,14 +15,14 @@ description: "EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und 
 
 ## Mandantenfall
 
-- Schifffahrtsunternehmen prueft Ladung, die moeglicherweise via Drittland an Nordkorea weitergeleitet wird.
-- Exporteur von Elektronikbauteilen erhalt Order ueber Singapur-Zwischenhaendler; Endverwender unklar.
-- Bank prueft Korrespondenz-Zahlung mit nordkoreanischem Bezug.
+- Schifffahrtsunternehmen prüft Ladung, die moeglicherweise via Drittland an Nordkorea weitergeleitet wird.
+- Exporteur von Elektronikbauteilen erhalt Order über Singapur-Zwischenhaendler; Endverwender unklar.
+- Bank prüft Korrespondenz-Zahlung mit nordkoreanischem Bezug.
 
 ## Erste Schritte
 
-1. EU-Sanktionsliste Nordkorea (VO 2017/1509) und UN-Konsolidierte Sanktionsliste pruefen.
-2. Umfassenden Guetersanktionskatalog pruefen: kein Export von Luxusgutern, Ruestung, Dual-Use und weiteren.
+1. EU-Sanktionsliste Nordkorea (VO 2017/1509) und UN-Konsolidierte Sanktionsliste prüfen.
+2. Umfassenden Guetersanktionskatalog prüfen: kein Export von Luxusgutern, Ruestung, Dual-Use und weiteren.
 3. Transshipment-Risiko bewertet: Drittland-Intermediary mit NK-Verbindung?
 4. Catch-All für Proliferations- und WMD-Verdacht bewertet.
 5. Finanzsanktionen und Zahlungsrouting-Verbot geprueft.
@@ -30,7 +30,7 @@ description: "EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und 
 
 ## Rechtsrahmen
 
-- **VO (EU) 2017/1509**: Restriktive Massnahmen gegen Nordkorea.
+- **VO (EU) 2017/1509**: Restriktive Maßnahmen gegen Nordkorea.
 - **UN-SR-Resolutionen 1718/1874/2270/2321 ff.**: Universelle Sanktionen gegen Nordkorea.
 - **AWG § 18**: Strafbarkeit.
 - **Art. 4 VO (EU) 2021/821**: Catch-All Proliferationsverdacht.
@@ -47,9 +47,9 @@ description: "EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und 
 
 ## Typische Fallstricke
 
-- NK-Sanktionsumgehung laeuft fast immer ueber Drittlaender; nur direkte Pruefung reicht nicht.
+- NK-Sanktionsumgehung laeuft fast immer über Drittlaender; nur direkte Prüfung reicht nicht.
 - Catch-All für NK-Proliferation ist extraterritorial wirksam.
-- UN-Sanktionen gehen ueber EU-Sanktionen hinaus und binden auch Nicht-EU-Tochtergesellschaften.
+- UN-Sanktionen gehen über EU-Sanktionen hinaus und binden auch Nicht-EU-Tochtergesellschaften.
 
 ## Schnittstellen zu anderen Skills
 

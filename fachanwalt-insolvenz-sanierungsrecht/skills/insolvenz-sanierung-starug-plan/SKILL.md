@@ -222,7 +222,7 @@ Bevor losgelegt wird, klaere:
 2. **Plan-Scope bestimmen:** Welche Glaeubiger werden einbezogen (§ 9 StaRUG)? Finanzglaeubiger, Lieferanten, Pensionsansprueche, FA?
 3. **Klassenbildung § 10 StaRUG:** Glaeubiger mit gleichen Rechten und Interessen pro Klasse; mindestens: gesicherte Glaeubiger, Finanzglaeubiger, Handelsglaeubiger.
 4. **Vergleichsrechnung erstellen:** Gegenueber Liquidationswert (Liquiditaetsszenario ohne Plan) — jede Klasse muss im Plan mindestens so viel erhalten wie ohne Plan.
-5. **Plan aufstellen:** Darstellender Teil (§ 8 StaRUG): Sachverhalt, Krisenursachen, Sanierungs-Massnahmen; Gestaltender Teil (§ 9 StaRUG): konkrete Rechtsaenderungen (Stundung, Erlass, Debt-Equity-Swap).
+5. **Plan aufstellen:** Darstellender Teil (§ 8 StaRUG): Sachverhalt, Krisenursachen, Sanierungs-Maßnahmen; Gestaltender Teil (§ 9 StaRUG): konkrete Rechtsaenderungen (Stundung, Erlass, Debt-Equity-Swap).
 6. **Abstimmung:** Anzeige § 31 StaRUG → Ladung Glaeubiger → Abstimmungstermin; 75% Summe je Klasse § 25 StaRUG.
 7. **Gerichtsbestaetigung §§ 60-66 StaRUG:** Bestaetigung, Cramdown, Planwirkung § 67 StaRUG.
 

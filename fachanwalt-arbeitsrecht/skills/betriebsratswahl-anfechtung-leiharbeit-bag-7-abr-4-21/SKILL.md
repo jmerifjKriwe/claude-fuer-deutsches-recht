@@ -7,7 +7,7 @@ description: "Betriebsratswahl Anfechtung bei Wahlfehler Leiharbeiter mit BAG 7 
 
 ## Einsatzlage
 
-Wahlvorstand laesst Leiharbeiter ohne 6 Monate Einsatzdauer waehlen; Wahlanfechtung folgt.
+Wahlvorstand lässt Leiharbeiter ohne 6 Monate Einsatzdauer waehlen; Wahlanfechtung folgt.
 
 ## Normenanker
 

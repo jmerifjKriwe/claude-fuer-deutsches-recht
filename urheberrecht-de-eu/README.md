@@ -168,7 +168,7 @@ Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschrei
 | `kaltstart-triage` | Kaltstart für deutsches und EU-Urheberrecht: sortiert Werk, Rechte, Nutzung, KI, Software, Musik, Schranken, Fristen, Beweise und passende Anschluss-Skills. |
 | `kanzlei-urheber-rechtsprechungs-livecheck` | Organisiert Mandat, Dokumente, Beweise, Fristen, Rechtekette, Gegnerkommunikation und Outputformat im Urheberrechtsfall im Urheberrecht De Eu. |
 | `ki-act-gpai-copyright` | Prueft GPAI-Pflichten zu Urheberrechts-Policy, Rechtevorbehalten, Training-Content-Summary und Dokumentation im Urheberrecht De Eu. |
-| `ki-output-menschlicher-beitrag` | Prueft, ob KI-unterstuetzte Ergebnisse urheberrechtlich geschuetzt sein koennen und welcher menschliche Beitrag konkret nachweisbar ist. |
+| `ki-output-menschlicher-beitrag` | Prueft, ob KI-unterstuetzte Ergebnisse urheberrechtlich geschuetzt sein können und welcher menschliche Beitrag konkret nachweisbar ist. |
 | `ki-training-tdm-optout` | Prueft Text und Data Mining, KI-Training, Rechtevorbehalt und Dokumentation nach § 44b UrhG, § 60d UrhG, DSM-RL und KI-VO im Urheberrecht De Eu. |
 | `ki-vertragsklauseln-urhebervertragsrecht` | Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung im Urheberrecht De Eu. |
 | `kosten-streitwert-leistungsschutz-kuenstler` | Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sinnhaftigkeit und Eskalationsbudget im Urheberrecht De Eu. |

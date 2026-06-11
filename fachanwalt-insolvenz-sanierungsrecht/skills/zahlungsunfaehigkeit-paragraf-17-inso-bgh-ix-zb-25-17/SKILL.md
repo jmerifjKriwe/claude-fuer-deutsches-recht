@@ -7,7 +7,7 @@ description: "Zahlungsunfaehigkeit Paragraf 17 InsO BGH Ix Zb 25 17: fachanwaltl
 
 ## Einsatzlage
 
-Liquiditaetsluecke 11 Prozent fuer 3 Wochen; Zahlungsunfaehigkeit?
+Liquiditaetsluecke 11 Prozent für 3 Wochen; Zahlungsunfaehigkeit?
 
 ## Normenanker
 

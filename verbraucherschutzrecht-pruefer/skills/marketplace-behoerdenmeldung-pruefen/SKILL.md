@@ -3,7 +3,7 @@ name: marketplace-behoerdenmeldung-pruefen
 description: "Prüfer: Marketplace: Behördenmeldung prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Marketplace Behördenmeldung Pruefen
+# Marketplace Behördenmeldung Prüfen
 
 ## Arbeitsweg
 

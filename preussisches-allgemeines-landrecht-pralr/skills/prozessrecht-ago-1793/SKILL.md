@@ -21,7 +21,7 @@ description: "Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Ski
 ## Beweisregeln
 
 - Gesetzliche Beweisregeln (z. B. Zeugenzahl, Eid).
-- Spaeter Aufgabe zur freien Beweiswuerdigung (CPO 1877).
+- Später Aufgabe zur freien Beweiswuerdigung (CPO 1877).
 
 ## Fortwirkung
 

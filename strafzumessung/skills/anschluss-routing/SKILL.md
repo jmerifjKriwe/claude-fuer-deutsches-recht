@@ -21,7 +21,7 @@ Dieses Anschluss-Routing für **Strafzumessung** wählt nach dem ersten Ergebnis
 - `freiheitsstrafe-compliance-dokumentation-und-akte` — Freiheitsstrafe Compliance Dokumentation und Akte
 - `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — Freiheitsstrafe Ohne Bewaehrung Vollstreckung
 - `freiheitsstrafe-strafmass-geldstrafe` — Freiheitsstrafe Strafmass Geldstrafe
-- `geldstrafe-grossen-rechtsmittel` — Geldstrafe Grossen Rechtsmittel
+- `geldstrafe-grossen-rechtsmittel` — Geldstrafe Großen Rechtsmittel
 - `geldstrafe-tagessatzanzahl-bestimmen` — Geldstrafe Tagessatzanzahl Bestimmen
 - `geldstrafe-vs-freiheitsstrafe-47-stgb` — Geldstrafe VS Freiheitsstrafe 47 STGB
 - `dokumente-intake` — Dokumente Intake

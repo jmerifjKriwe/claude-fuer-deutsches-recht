@@ -3,7 +3,7 @@ name: anordnung-und-wegnahme-pruefen
 description: "Tierschutzrecht: Anordnung und Wegnahme prüfen. Anordnung und Wegnahme prüfen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
 ---
 
-# Anordnung Und Wegnahme Pruefen
+# Anordnung Und Wegnahme Prüfen
 
 ## Arbeitsweg
 

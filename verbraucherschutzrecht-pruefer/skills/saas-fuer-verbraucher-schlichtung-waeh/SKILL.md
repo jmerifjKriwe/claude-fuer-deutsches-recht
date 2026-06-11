@@ -3,7 +3,7 @@ name: saas-fuer-verbraucher-schlichtung-waeh
 description: "Prüfer: SaaS für Verbraucher: Schlichtung wählen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Saas Fuer Verbraucher Schlichtung Waeh
+# Saas Für Verbraucher Schlichtung Waeh
 
 ## Arbeitsweg
 

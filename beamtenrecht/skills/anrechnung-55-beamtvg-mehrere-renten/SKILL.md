@@ -33,7 +33,7 @@ Skill für Versorgungsempfaenger, die neben der Beamtenversorgung Renten aus der
 - Gesetzliche Rente einschliesslich Anteile aus Kindererziehungszeiten.
 - Hinterbliebenenrenten ggf. anteilig.
 - Auslaendische Renten (EU-Mitgliedstaaten) sind nach EuGH-Rechtsprechung zu beruecksichtigen — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-- Berufsstaendische Versorgung (Aerztekammer, Rechtsanwaltskammer) grundsaetzlich anrechenbar, soweit beamtengleicher Ursprung.
+- Berufsstaendische Versorgung (Aerztekammer, Rechtsanwaltskammer) grundsätzlich anrechenbar, soweit beamtengleicher Ursprung.
 
 ### c) Nicht anrechenbar
 - Renten aus privater Lebens- oder Rentenversicherung.

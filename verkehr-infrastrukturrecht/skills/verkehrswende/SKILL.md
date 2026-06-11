@@ -15,10 +15,10 @@ description: "Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fus
 
 ## Triage zu Beginn — klaere zuerst
 
-1. Welche Massnahme steht im Fokus: Tempo 30, Fussgaengerzone, Radstreifen, Lieferzone, Einbahnstrasse?
+1. Welche Maßnahme steht im Fokus: Tempo 30, Fussgaengerzone, Radstreifen, Lieferzone, Einbahnstrasse?
 2. Wer ist Mandant: Gemeinde/Strassenverkehrsbehoerde, Anlieger, Gewerbetreibender, Verband?
 3. Gibt es einen anfechtenden Dritten (z.B. Anlieger gegen Tempo-30)?
-4. Ist die Massnahme verkehrsrechtlich (StVO) oder planerisch (B-Plan, Widmungsaenderung)?
+4. Ist die Maßnahme verkehrsrechtlich (StVO) oder planerisch (B-Plan, Widmungsaenderung)?
 5. Welche wirtschaftlichen Interessen sind betroffen (Erreichbarkeit, Lieferfrequenz)?
 6. Bestehen laermschutzrechtliche oder behindertenrechtliche Anforderungen?
 
@@ -39,10 +39,10 @@ description: "Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fus
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Massnahme qualifizieren:** reine Verkehrszeichen-Anordnung (§ 45 StVO) oder Strassenplanung (BauGB/StrWG)?
+1. **Maßnahme qualifizieren:** reine Verkehrszeichen-Anordnung (§ 45 StVO) oder Strassenplanung (BauGB/StrWG)?
 2. **Rechtsgrundlage bestimmen:** welche Ziffer des § 45 I, I b oder I c StVO greift?
 3. **Begruendung dokumentieren:** Laermgutachten, Unfallstatistik, Schulwegplaene, Laermaktionsplan
-4. **Verhaeltnismaessigkeit pruefen:** milderes Mittel vorhanden (Geschwindigkeitsdaempfer statt Vollsperrung)?
+4. **Verhältnismäßigkeit prüfen:** milderes Mittel vorhanden (Geschwindigkeitsdaempfer statt Vollsperrung)?
 5. **Betroffene Belange erfassen:** Anlieger, Gewerbe, OEPNV, Lieferverkehr, Feuerwehr/Rettungsdienste
 6. **Sondernutzungsregelung treffen:** Lieferzeitfenster, Ausnahmegenehmigungen (§ 46 StVO)
 7. **Beschilderung konzipieren:** VwV-StVO Zeichen- und Aufstellungsanforderungen
@@ -105,7 +105,7 @@ Bekanntgabe Widerspruch eingelegt werden.
 ## Harte Leitplanken
 
 - Tempo-30 braucht konkrete Begruendung (Laerm/Unfall) — politischer Wille allein reicht nicht
-- Verhaeltnismaessigkeit: stets pruefen ob milderes Mittel ausreicht
+- Verhältnismäßigkeit: stets prüfen ob milderes Mittel ausreicht
 - Lieferverkehr nie vollstaendig ausschliessen — wirtschaftliche Grundversorgung sichern
 - Ausnahmegenehmigungen (§ 46 StVO) für Anlieger mit Behinderung / Gewerbe einplanen
 - Anfechtungsrecht der Anlieger bei Vollsperrungen: Eilrechtsschutz § 80 V VwGO wahrscheinlich

@@ -20,7 +20,7 @@ Keine Rueckfrage noetig.
 
 ## Rechtlicher und methodischer Rahmen
 
-- **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR), jeweils aktuelle Fassung — der Stand ist vom Anwender zu pruefen (vor Ausgabe Live-Recherche)
+- **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR), jeweils aktuelle Fassung — der Stand ist vom Anwender zu prüfen (vor Ausgabe Live-Recherche)
 - **§§ 44, 45, 62 GGO** — Verweis auf den Leitfaden
 - **NKRG** § 4 — methodische Bezugnahme
 - **OECD-SKM** — internationale Grundlage
@@ -44,7 +44,7 @@ Keine Rueckfrage noetig.
 
 In jeder NKR-Stellungnahme sollte am Beginn der methodischen Bewertung ein Satz stehen:
 
-> "Die Pruefung erfolgt anhand des Leitfadens zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) in der jeweils geltenden Fassung sowie unter Beachtung des Standardkostenmodells."
+> "Die Prüfung erfolgt anhand des Leitfadens zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) in der jeweils geltenden Fassung sowie unter Beachtung des Standardkostenmodells."
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
@@ -65,7 +65,7 @@ In jeder NKR-Stellungnahme sollte am Beginn der methodischen Bewertung ein Satz 
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Die Pruefung erfolgt anhand des Leitfadens zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) in der jeweils geltenden Fassung sowie unter Beachtung des Standardkostenmodells (SKM)."
+- "Die Prüfung erfolgt anhand des Leitfadens zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) in der jeweils geltenden Fassung sowie unter Beachtung des Standardkostenmodells (SKM)."
 - "Der NKR weist darauf hin, dass die Darstellung im Vorblatt nicht der Strukturvorgabe des Leitfadens entspricht. Eine Aufschluesselung nach Adressaten, einmalig / laufend und KMU-Betroffenheit fehlt."
 - "Der NKR begruesst, dass die Ressortbegruendung die Leitfaden-Struktur in Abschnitt A.VI.4 vollstaendig uebernimmt."
 
@@ -96,4 +96,4 @@ In jeder NKR-Stellungnahme sollte am Beginn der methodischen Bewertung ein Satz 
 - §§ 44, 45, 62 GGO
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.bmi.bund.de](https://www.bmi.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.bmi.bund.de](https://www.bmi.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

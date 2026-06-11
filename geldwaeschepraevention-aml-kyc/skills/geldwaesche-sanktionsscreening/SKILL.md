@@ -16,7 +16,7 @@ description: "Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen 
 ## Triage zu Beginn
 1. Welche Sanktionslisten sollen geprueft werden: EU, OFAC, UN, nationale Listen?
 2. Liegt ein True-Hit oder ein False-Positive vor — und welche Dokumentation gibt es bereits?
-3. Sind Eigentuems- oder Kontrollbeziehungen zum Sanctioned Entity zu pruefen?
+3. Sind Eigentuems- oder Kontrollbeziehungen zum Sanctioned Entity zu prüfen?
 4. Gibt es eine Transaktionssperr-Pflicht oder eine Verdachtsmeldepflicht ausloesende Treffer?
 
 ## Aktuelle Rechtsprechung und Behördenpraxis

@@ -7,7 +7,7 @@ description: "Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht d
 
 ## Worum geht es konkret
 
-Der NKR wirkt nicht nur ex ante an Einzelvorhaben mit, sondern bilanziert ex post das Regelungsaufkommen und veroeffentlicht jaehrlich einen Bericht (§ 7 NKRG). Der Bericht ist das wichtigste oeffentlich wirksame Instrument des NKR.
+Der NKR wirkt nicht nur ex ante an Einzelvorhaben mit, sondern bilanziert ex post das Regelungsaufkommen und veroeffentlicht jaehrlich einen Bericht (§ 7 NKRG). Der Bericht ist das wichtigste öffentlich wirksame Instrument des NKR.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -30,7 +30,7 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 
 ### Jahresbericht
 
-1. **Stoffsammlung** ueber das Berichtsjahr
+1. **Stoffsammlung** über das Berichtsjahr
 2. **Aggregierte Auswertung**:
  - Anzahl Stellungnahmen
  - Anteil kritischer Stellungnahmen
@@ -42,7 +42,7 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 
 ### Evaluierungsklausel im Einzelvorhaben
 
-1. **Evaluierungspflicht** pruefen (Konzept der Bundesregierung)
+1. **Evaluierungspflicht** prüfen (Konzept der Bundesregierung)
 2. **Zeitpunkt**: regelmaessig 3-5 Jahre nach Inkrafttreten
 3. **Indikatoren**:
  - Fallzahlen
@@ -61,7 +61,7 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 
 - Fehlende Evaluierungsklausel bei wesentlichem Vorhaben
 - Keine Indikatoren benannt
-- Evaluierung "spaeter" ohne Termin
+- Evaluierung "später" ohne Termin
 - Vergangenes Vorhaben wurde nicht evaluiert -> Aufnahme im Jahresbericht
 
 ## Trade-off-Matrix
@@ -102,4 +102,4 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 - Konzept zur Evaluierung neuer Regelungsvorhaben (Bundesregierung, jeweils aktuelle Fassung)
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

@@ -23,7 +23,7 @@ Die Aufzeichnungspflicht der taeglichen Arbeitszeit (Beginn, Ende, Dauer) trifft
 4. Werden taegliche Anfang/Ende/Dauer aufgezeichnet?
 5. Werden Pausen erfasst?
 6. Wer hat Aufzeichnungs-Verantwortung (Mandant oder StB)?
-7. Welche Pruefung durch Zoll-Hauptzollamt schon erfolgt?
+7. Welche Prüfung durch Zoll-Hauptzollamt schon erfolgt?
 8. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtlicher Rahmen
@@ -42,7 +42,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-(Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.)
+(Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen.)
 
 ## Workflow
 
@@ -68,12 +68,12 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Schriftlich: Papier, Stundenzettel.
 - Digital: Excel, Stempeluhr, Zeiterfassungssoftware.
 - Manipulationssicher: Excel umstritten (manipulierbar); zertifizierte Systeme bevorzugt.
-- BAG verlangt grundsaetzlich objektive, verlaessliche, zugaengliche Aufzeichnung.
+- BAG verlangt grundsätzlich objektive, verlaessliche, zugaengliche Aufzeichnung.
 
 ### Phase 4 — Aufbewahrung
 
 - 2 Jahre nach Aufzeichnung.
-- Bei Zoll-Pruefung Vorlagepflicht innerhalb gesetzter Frist.
+- Bei Zoll-Prüfung Vorlagepflicht innerhalb gesetzter Frist.
 
 ### Phase 5 — Bussgelder
 
@@ -83,16 +83,16 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Phase 6 — Beratung Mandant
 
-- Mandant ueber EuGH-/BAG-Rechtsprechung informieren — auch ausserhalb § 2a-Branchen relevant.
+- Mandant über EuGH-/BAG-Rechtsprechung informieren — auch ausserhalb § 2a-Branchen relevant.
 - Empfehlung Zeiterfassungssystem (Software z.B. ZEUS, AVERO, Pliam).
-- Bei Vertrauensarbeitszeit: Aufzeichnungspflicht bleibt; alternative Erfassung moeglich.
+- Bei Vertrauensarbeitszeit: Aufzeichnungspflicht bleibt; alternative Erfassung möglich.
 
 ## Strategie und Praxis-Tipps
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Sondersituation Aussendienst, Home-Office: Aufzeichnung am Ort der Taetigkeit.
-- Bei Pruefung durch Zoll: Vorlage in Deutsch in Originalform oder beglaubigter Uebersetzung.
-- Bei Minijob: Aufzeichnung ist zentrale Pruefungsstelle der Pruefer.
+- Sondersituation Außendienst, Home-Office: Aufzeichnung am Ort der Taetigkeit.
+- Bei Prüfung durch Zoll: Vorlage in Deutsch in Originalform oder beglaubigter Uebersetzung.
+- Bei Minijob: Aufzeichnung ist zentrale Pruefungsstelle der Prüfer.
 - StBVV: Beratung Aufzeichnungspflichten Zusatzauftrag.
 - DATEV-Tipp: DATEV-Zeitwirtschaft als Modul; Schnittstelle zu LODAS.
 

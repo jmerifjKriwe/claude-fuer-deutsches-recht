@@ -11,8 +11,8 @@ description: "Exklusivitaetsklauseln: ausschliessliche Lizenz (mit / ohne Selbst
 |---|---|---|
 | **Ausschliessliche Lizenz** | Nur Lizenznehmer; auch Lizenzgeber darf nicht mehr nutzen | Strenge Bindung; bei Patenten: Doppelschutz vor Drittnutzungen |
 | **Sole License** | Nur Lizenznehmer plus Lizenzgeber; keine weitere Vergabe | Mittel; Lizenzgeber bleibt selbst aktiv |
-| **Einfache Lizenz** | Weitere Lizenzen moeglich | Flexibel; geringere Bindung; geringerer Royalty-Anteil |
-| **Most-Favoured-Customer** | Lizenznehmer bekommt automatisch die besten Konditionen, die einem Dritten gewaehrt werden | Klingt gut; in Praxis oft Streit ueber "Konditionen" |
+| **Einfache Lizenz** | Weitere Lizenzen möglich | Flexibel; geringere Bindung; geringerer Royalty-Anteil |
+| **Most-Favoured-Customer** | Lizenznehmer bekommt automatisch die besten Konditionen, die einem Dritten gewaehrt werden | Klingt gut; in Praxis oft Streit über "Konditionen" |
 
 ## Klausel-Baustein
 
@@ -28,7 +28,7 @@ description: "Exklusivitaetsklauseln: ausschliessliche Lizenz (mit / ohne Selbst
 > Der Lizenzgeber raeumt dem Lizenznehmer eine **einfache, nicht-ausschliessliche Lizenz** ein. Der Lizenzgeber bleibt zur Nutzung und zur Vergabe weiterer Lizenzen an Dritte berechtigt.
 >
 > Option D — Most-Favoured-Customer-Zusatz:
-> Sollte der Lizenzgeber waehrend der Vertragslaufzeit einem Dritten guenstigere Konditionen fuer die Nutzung des Lizenzgegenstands einraeumen, gelten diese ab dem Datum des betreffenden Vertrags ohne weiteres auch fuer den Lizenznehmer.
+> Sollte der Lizenzgeber waehrend der Vertragslaufzeit einem Dritten guenstigere Konditionen für die Nutzung des Lizenzgegenstands einraeumen, gelten diese ab dem Datum des betreffenden Vertrags ohne weiteres auch für den Lizenznehmer.
 
 ## Kartellrechtliche Schranken (TT-GVO)
 
@@ -38,6 +38,6 @@ description: "Exklusivitaetsklauseln: ausschliessliche Lizenz (mit / ohne Selbst
 
 ## Anschluss
 
-- Verguetung: `klausel-verguetung-pauschale-royalty-tiered`
+- Vergütung: `klausel-verguetung-pauschale-royalty-tiered`
 - Sub-Lizenzen: `klausel-unterlizenzen-sublicensing`
 - Kartellrecht: `kartellrecht-tt-gvo-eu-316-2014`

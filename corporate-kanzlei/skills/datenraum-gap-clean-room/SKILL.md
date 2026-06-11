@@ -135,7 +135,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Clean-Room-Protokoll: Kartellrechtliche Anforderungen
 
-Bei Transaktionen zwischen Wettbewerbern prueft das Bundeskartellamt den Informationsaustausch. Ein Clean Room beschraenkt sensible Informationen (Preise, Kunden, Produktionskapazitaeten) auf ein separates Team.
+Bei Transaktionen zwischen Wettbewerbern prüft das Bundeskartellamt den Informationsaustausch. Ein Clean Room beschraenkt sensible Informationen (Preise, Kunden, Produktionskapazitaeten) auf ein separates Team.
 
 **Clean-Team-Anforderungen:**
 1. Mitglieder operativ unabhaengig vom Wettbewerbsbetrieb (keine Einkauf, Vertrieb, Pricing)
@@ -147,12 +147,12 @@ Bei Transaktionen zwischen Wettbewerbern prueft das Bundeskartellamt den Informa
 ## Schritt-für-Schritt-Workflow
 
 1. **Ausgangsstatus erfassen** — Datenraum-Index gegen IRL spiegeln; fehlende Positionen markieren
-2. **Prioritaeten festlegen** — kritische Pfade (Tax, Litigation, wesentliche Vertraege) zuerst
+2. **Prioritaeten festlegen** — kritische Pfade (Tax, Litigation, wesentliche Verträge) zuerst
 3. **Follow-up-IRL** — priorisierte Nachforderung; kurze Fristen; klare Formulierung
-4. **Kartellrechtliche Pruefung** — Clean-Room-Erfordernis bei Wettbewerber-Transaktionen?
+4. **Kartellrechtliche Prüfung** — Clean-Room-Erfordernis bei Wettbewerber-Transaktionen?
 5. **Clean-Team einrichten** — Mitglieder benennen; Verpflichtung unterschreiben lassen
 6. **Zugriffsebenen anpassen** — Clean-Room-Ordner im DR separat; keine Cross-Contamination
-7. **DSGVO-Massnahmen** — Personaldaten anonymisieren; AVV mit Plattformanbieter pruefen
+7. **DSGVO-Maßnahmen** — Personaldaten anonymisieren; AVV mit Plattformanbieter prüfen
 8. **Gap-Report erstellen** — Statusbericht an Deal-Team; kritische Luecken hervorheben
 
 ## Output-Template IRL-Tracker (Ausschnitt)
@@ -183,7 +183,7 @@ Verpflichtungen unterschrieben: [Ja/Nein]
 
 ## Rote Schwellen
 
-- Clean-Room-Verletzung (Wettbewerbsinfo ohne Clean-Team) → § 1 GWB; Kartellbusse moeglich
+- Clean-Room-Verletzung (Wettbewerbsinfo ohne Clean-Team) → § 1 GWB; Kartellbusse möglich
 - Personaldaten ungeschwetzt im Datenraum → DSGVO-Bussgeld; Betriebsrat-Rechte verletzt
 - Wesentliche Dokumente nicht hochgeladen bis DD-Deadline → DD-Report-Luecken; Seller-Haftungsrisiko
 - Keine Download-Protokollierung → kein Nachweis Kaeufer-Kenntnis bei spaeterem Streit

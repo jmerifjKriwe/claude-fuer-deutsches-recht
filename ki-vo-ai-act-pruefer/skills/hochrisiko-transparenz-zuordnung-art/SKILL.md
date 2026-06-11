@@ -7,7 +7,7 @@ description: "Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir
 
 ## Arbeitsbereich
 
-Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken menschliche Aufsicht Verstaendlichkeitsanforderungen Sprachanforderungen Aktualisierungspflichten. Output: Vorlage Gebrauchsanweisung Hochrisiko-KI. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (interne Doku) und begrenztes-risiko-art-50-transparenzpflichten (Endnutzer-Transparenz). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anbieter von Hochrisiko-KI fragt: Welche Informationen müssen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken menschliche Aufsicht Verstaendlichkeitsanforderungen Sprachanforderungen Aktualisierungspflichten. Output: Vorlage Gebrauchsanweisung Hochrisiko-KI. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (interne Doku) und begrenztes-risiko-art-50-transparenzpflichten (Endnutzer-Transparenz). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -102,10 +102,10 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
 
 ## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — HOCHRISIKO TRANSPARENZ UND INFORMATIONEN FUER BETREIBER ART 13
 [DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]

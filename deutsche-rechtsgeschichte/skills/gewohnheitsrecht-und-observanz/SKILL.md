@@ -21,7 +21,7 @@ Gewohnheitsrecht war im mittelalterlichen und fruehneuzeitlichen Recht die Haupt
 
 - **HGB § 346**: Handelsbrauch als Auslegungsmittel und Rechtsquelle
 - **BGB § 242**: Treu und Glauben, Einfallstor für gewohnheitsrechtliche Grundsaetze
-- **EinfGBGB Art. 2 (alt)**: Nichtkodifiziertes Recht; Gewohnheitsrecht blieb zulaessig
+- **EinfGBGB Art. 2 (alt)**: Nichtkodifiziertes Recht; Gewohnheitsrecht blieb zulässig
 - **Georg Friedrich Puchta**: Das Gewohnheitsrecht, 2 Bde. (1828/1837) als dogmenhistorische Grundquelle
 - **Savigny**: System des heutigen Roemischen Rechts Bd. I, §§ 11-29 (1840)
 

@@ -3,7 +3,7 @@ name: sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan
 description: "Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und StaRUG-Plan. Qualifizierter Rangruecktritt verhindert Passivierung. Abgrenzung zum Forderungsverzicht: bei Rangruecktritt bleibt die Verbindlichkeit zivilrechtlich, faellt aber bilanziell weg, wenn Tilgung nur aus kuenftigen Gewinnen..."
 ---
 
-# Sanierungsgewinn — Rangruecktritt und Paragraph 5 Absatz 2a EStG im Plan
+# Sanierungsgewinn — Rangrücktritt und Paragraph 5 Absatz 2a EStG im Plan
 
 ## Arbeitsweg
 
@@ -23,7 +23,7 @@ description: "Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und St
 
 ## Worum geht es
 
-Der **qualifizierte Rangruecktritt** ist eine Alternative oder Ergaenzung zum Forderungsverzicht. Bei richtiger Gestaltung bleibt die Verbindlichkeit zivilrechtlich bestehen, faellt aber **bilanziell** als Verbindlichkeit weg, weil sie nur aus kuenftigen Gewinnen, freien Liquiditaetsueberschuessen oder einem Liquidationsueberschuss zu tilgen ist (Paragraph 5 Absatz 2a EStG). Steuerlich kann das einen Effekt aehnlich dem Forderungsverzicht haben — aber **ohne** sofortigen Sanierungsertrag, wenn die Vereinbarung sauber formuliert ist.
+Der **qualifizierte Rangrücktritt** ist eine Alternative oder Ergaenzung zum Forderungsverzicht. Bei richtiger Gestaltung bleibt die Verbindlichkeit zivilrechtlich bestehen, faellt aber **bilanziell** als Verbindlichkeit weg, weil sie nur aus kuenftigen Gewinnen, freien Liquiditaetsueberschuessen oder einem Liquidationsueberschuss zu tilgen ist (Paragraph 5 Absatz 2a EStG). Steuerlich kann das einen Effekt ähnlich dem Forderungsverzicht haben — aber **ohne** sofortigen Sanierungsertrag, wenn die Vereinbarung sauber formuliert ist.
 
 Dieser Skill zeigt die Mechanik und grenzt sie zum Forderungsverzicht ab. Adressat: Plan-Anwalt, IV/Sachwalter, StB.
 
@@ -36,54 +36,54 @@ Dieser Skill zeigt die Mechanik und grenzt sie zum Forderungsverzicht ab. Adress
 Kaltstart-Fragen:
 
 1. Wer trifft die Rangruecktrittsvereinbarung (Drittglaeubiger, Gesellschafter, Bank)?
-2. Hoehe der betroffenen Forderung?
+2. Höhe der betroffenen Forderung?
 3. Soll die Vereinbarung qualifiziert oder nur einfach sein?
-4. Existiert bereits eine Insolvenzantragspflicht (Paragraph 15a InsO) — Rangruecktritt zur Vermeidung der Ueberschuldung?
-5. Wird der Rangruecktritt mit Forderungsverzicht kombiniert?
+4. Existiert bereits eine Insolvenzantragspflicht (Paragraph 15a InsO) — Rangrücktritt zur Vermeidung der Ueberschuldung?
+5. Wird der Rangrücktritt mit Forderungsverzicht kombiniert?
 
 ## Rechtlicher Rahmen
 
 - Paragraph 5 Absatz 2a EStG — Passivierungsverbot für Verbindlichkeiten, die nur aus kuenftigen Einnahmen oder Liquidationsueberschuessen zu tilgen sind.
-- Paragraph 19 Absatz 2 Satz 2 InsO — qualifizierter Rangruecktritt im Ueberschuldungsstatus.
+- Paragraph 19 Absatz 2 Satz 2 InsO — qualifizierter Rangrücktritt im Ueberschuldungsstatus.
 - Paragraph 39 Absatz 2 InsO — vereinbarter Nachrang.
 - Paragraph 39 Absatz 1 Nr. 5 InsO — Gesellschafterdarlehen.
 - Paragraph 3a EStG — Sanierungsertrag (Abgrenzung).
-- BFH-Linie: "qualifizierter Rangruecktritt" als steuerliche Anerkennungsschwelle.
+- BFH-Linie: "qualifizierter Rangrücktritt" als steuerliche Anerkennungsschwelle.
 
 ## / Schritt für Schritt
 
-1. **Zweck klaeren.** Geht es um Beseitigung der Ueberschuldung (insolvenzrechtlich) oder um Sanierungsertrag-Vermeidung (steuerlich) oder beides?
-2. **Qualifizierten Rangruecktritt formulieren** mit drei Elementen:
+1. **Zweck klären.** Geht es um Beseitigung der Ueberschuldung (insolvenzrechtlich) oder um Sanierungsertrag-Vermeidung (steuerlich) oder beides?
+2. **Qualifizierten Rangrücktritt formulieren** mit drei Elementen:
  - Nachrang hinter alle Insolvenzglaeubiger.
  - Tilgung nur aus kuenftigen Gewinnen, freien Liquiditaetsueberschuessen oder Liquidationsueberschuss.
  - Glaeubiger verpflichtet sich, nicht in einer Weise Tilgung zu verlangen, die einen Insolvenzgrund ausloest.
-3. **Pruefen Paragraph 5 Absatz 2a EStG.** Wenn Tilgung **nur** aus kuenftigen Einnahmen / Liquidationsueberschuss zu erfolgen hat, ist Passivierung verboten. Wenn Tilgung "auch" aus laufenden Mitteln moeglich ist, ist die Passivierungspflicht zu pruefen.
+3. **Prüfen Paragraph 5 Absatz 2a EStG.** Wenn Tilgung **nur** aus kuenftigen Einnahmen / Liquidationsueberschuss zu erfolgen hat, ist Passivierung verboten. Wenn Tilgung "auch" aus laufenden Mitteln möglich ist, ist die Passivierungspflicht zu prüfen.
 4. **Plan-Klausel formulieren.**
-5. **Abgrenzung zum Verzicht: Bei Rangruecktritt bleibt die Forderung; bei Verzicht erlischt sie.** Steuerlich kann der Rangruecktritt im Ergebnis zu einem aehnlichen Effekt fuehren, ohne dass sofort ein Sanierungsertrag entsteht.
-6. **Spaetere Tilgung pruefen:** Wenn die Tilgung tatsaechlich erfolgt, ist die Bilanz wieder zu korrigieren.
+5. **Abgrenzung zum Verzicht: Bei Rangrücktritt bleibt die Forderung; bei Verzicht erlischt sie.** Steuerlich kann der Rangrücktritt im Ergebnis zu einem aehnlichen Effekt fuehren, ohne dass sofort ein Sanierungsertrag entsteht.
+6. **Spaetere Tilgung prüfen:** Wenn die Tilgung tatsaechlich erfolgt, ist die Bilanz wieder zu korrigieren.
 
 ## Trade-off-Matrix
 
 | Gestaltung | Wirkung | wann sinnvoll |
 |---|---|---|
-| Qualifizierter Rangruecktritt mit Passivierungsverbot Paragraph 5 Absatz 2a EStG | bilanziell wie Verzicht, kein Sanierungsertrag | wenn Paragraph 3a EStG-Voraussetzungen unsicher |
+| Qualifizierter Rangrücktritt mit Passivierungsverbot Paragraph 5 Absatz 2a EStG | bilanziell wie Verzicht, kein Sanierungsertrag | wenn Paragraph 3a EStG-Voraussetzungen unsicher |
 | Einfacher Nachrang (Paragraph 39 Absatz 2 InsO ohne Paragraph 5 Absatz 2a-Wirkung) | Verbindlichkeit bleibt passiviert | wenn nur Ueberschuldungsstatus-Wirkung gewuenscht |
 | Verzicht endgueltig | Sanierungsertrag, Paragraph 3a EStG erforderlich | wenn Paragraph 3a-Voraussetzungen sicher und Glaeubiger einverstanden |
 | Verzicht mit Besserungsschein | Sanierungsertrag im Verzichtsjahr; Rueckbuchung bei Eintritt | wenn Hoffnungswert besteht |
-| Kombination Rangruecktritt + Teilverzicht | Mischung, Steuerung des Sanierungsertrags-Volumens | bei groesseren Volumen sinnvoll |
+| Kombination Rangrücktritt + Teilverzicht | Mischung, Steuerung des Sanierungsertrags-Volumens | bei groesseren Volumen sinnvoll |
 
 ## Praxistipps der alten Hasen
 
-1. **Formulierung "nur aus kuenftigen Gewinnen oder Liquidationsueberschuss"** ist der Schluessel für Paragraph 5 Absatz 2a EStG. Wer "auch aus freien Mitteln" zulaesst, faellt aus dem Passivierungsverbot.
+1. **Formulierung "nur aus kuenftigen Gewinnen oder Liquidationsueberschuss"** ist der Schlüssel für Paragraph 5 Absatz 2a EStG. Wer "auch aus freien Mitteln" zulaesst, faellt aus dem Passivierungsverbot.
 2. **Insolvenzrechtliche Wirkung allein kommt aus Paragraph 19 Absatz 2 Satz 2 InsO.** Steuerliche Wirkung kommt aus Paragraph 5 Absatz 2a EStG. Beide Wirkungen brauchen unterschiedliche Klauseln.
 3. **Bei Gesellschafterdarlehen** ist Paragraph 39 Absatz 1 Nr. 5 InsO ohnehin Nachrang — eine zusaetzliche Vereinbarung gibt aber die steuerlich gewuenschte Wirkung.
-4. **Rangruecktritt für kuenftige Tilgung schreibfest machen.** Wenn der Schuldner spaeter wieder profitabel ist, soll die Tilgung nicht aus Versehen Steuerfolgen ausloesen.
-5. **Rangruecktritt im Insolvenzplan-Text aufnehmen.** Im Plan ist Bestimmtheit Paragraph 221 InsO Pflicht; nur dann wirkt Paragraph 254 Absatz 1 InsO.
+4. **Rangrücktritt für kuenftige Tilgung schreibfest machen.** Wenn der Schuldner später wieder profitabel ist, soll die Tilgung nicht aus Versehen Steuerfolgen ausloesen.
+5. **Rangrücktritt im Insolvenzplan-Text aufnehmen.** Im Plan ist Bestimmtheit Paragraph 221 InsO Pflicht; nur dann wirkt Paragraph 254 Absatz 1 InsO.
 6. **Wichtiger Sonderfall:** Wenn die Rangruecktrittsvereinbarung erst nach Verfahrenseroeffnung getroffen wird, sind Paragraphen 80, 81 InsO zu beachten.
 
 ## Mustertexte / Berechnungsbeispiele
 
-**Muster qualifizierter Rangruecktritt (kombinierte Wirkung Paragraph 19 InsO und Paragraph 5 Absatz 2a EStG):**
+**Muster qualifizierter Rangrücktritt (kombinierte Wirkung Paragraph 19 InsO und Paragraph 5 Absatz 2a EStG):**
 
 ```
 RANGRUECKTRITTSVEREINBARUNG
@@ -155,9 +155,9 @@ zu behandeln, soweit die dortigen Voraussetzungen erfuellt sind.
 
 ## Typische Fehler
 
-1. Rangruecktritt nur insolvenzrechtlich gestaltet — steuerliche Passivierungswirkung verfehlt.
-2. Klausel laesst Tilgung auch aus laufenden Mitteln zu — Paragraph 5 Absatz 2a EStG greift nicht.
-3. Annahme, Rangruecktritt loese **keinen** Effekt aus — bei Aufloesung der Verbindlichkeit kann ein Ertrag entstehen, der dann ggf. Paragraph 3a EStG-Pruefung braucht.
+1. Rangrücktritt nur insolvenzrechtlich gestaltet — steuerliche Passivierungswirkung verfehlt.
+2. Klausel lässt Tilgung auch aus laufenden Mitteln zu — Paragraph 5 Absatz 2a EStG greift nicht.
+3. Annahme, Rangrücktritt loese **keinen** Effekt aus — bei Aufloesung der Verbindlichkeit kann ein Ertrag entstehen, der dann ggf. Paragraph 3a EStG-Prüfung braucht.
 4. Verwechslung mit Verzicht.
 5. Spaetere Tilgung nicht buchhalterisch dokumentiert.
 6. Bei Gesellschafterdarlehen vergessen, dass Paragraph 39 Absatz 1 Nr. 5 InsO ohnehin Nachrang vorsieht — die Vereinbarung verstaerkt das nur.
@@ -176,7 +176,7 @@ zu behandeln, soweit die dortigen Voraussetzungen erfuellt sind.
 
 ### Rechtsprechung (verifiziert)
 
-- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Kernentscheidung zur Anwendung des Paragraph 5 Absatz 2a EStG bei Rangruecktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen. Maszgeblich für die Gestaltungspraxis.
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Kernentscheidung zur Anwendung des Paragraph 5 Absatz 2a EStG bei Rangrücktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen. Maszgeblich für die Gestaltungspraxis.
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung. Begruendet die Pruefungstrias: bestimmter Verpflichtungsinhalt, durchsetzbar, wirtschaftliche Belastung.
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Rangruecktrittsbehaftete Verbindlichkeit bleibt bis Loeschung passiviert; rechtstheoretisch entstehender Gewinn mangels Steuersubjekt nicht steuerpflichtig (vorgehend zu BFH I R 34/12).
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — bestaetigt FG-Koeln-Linie als „nicht evident rechtsfehlerhaft".

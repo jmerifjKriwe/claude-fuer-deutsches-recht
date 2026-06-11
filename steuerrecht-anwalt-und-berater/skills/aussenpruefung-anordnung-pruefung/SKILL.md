@@ -13,11 +13,11 @@ description: "Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanor
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Ist die Pruefungsanordnung formell ordnungsgemaess (Adressat Pruefungsumfang Pruefer Termin)?
+1. Ist die Pruefungsanordnung formell ordnungsgemaess (Adressat Pruefungsumfang Prüfer Termin)?
 2. Welche Steuerarten und Veranlagungszeitraeume sind erfasst?
 3. Ist eine Pruefungserweiterung erfolgt oder droht sie — Antrag auf Beschraenkung sinnvoll?
-4. Welche Daten muessen GoBD-konform bereitgestellt werden (Z1 Z2 Z3 Zugriff)?
-5. Wirkung der Pruefung auf Festsetzungsfrist § 171 Abs. 4 AO?
+4. Welche Daten müssen GoBD-konform bereitgestellt werden (Z1 Z2 Z3 Zugriff)?
+5. Wirkung der Prüfung auf Festsetzungsfrist § 171 Abs. 4 AO?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen

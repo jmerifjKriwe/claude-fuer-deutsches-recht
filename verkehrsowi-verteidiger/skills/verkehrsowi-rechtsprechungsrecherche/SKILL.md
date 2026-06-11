@@ -22,7 +22,7 @@ Rechtsprechungsrecherche für OWi-Verkehrsmandate: Anwalt sucht OLG-Entscheidung
 1. **Konkrete Rechtsfrage?** — "Darf der Betroffene Rohmessdaten anfordern?" vs. "War die Eichung gueltig?" — Suchstrategien verschieden.
 2. **Gericht?** — OLG des jeweiligen Bundeslandes für Rechtsbeschwerde-Entscheidungen; BGH für grundsaetzliche Fragen; BVerfG für Grundrechtsfragen.
 3. **Verifikation Pflicht:** Aktenzeichen, Datum und Leitsatz vor Verwendung in offener Quelle (bundesverfassungsgericht.de, bundesgerichtshof.de, openjur.de, dejure.org) aufrufen — nicht aus Modellwissen.
-4. **Messgeraet-spezifische Rspr.?** — Fuer PoliScan, ESO, TraffiStar gibt es geraetespezifische OLG-Entscheidungen.
+4. **Messgeraet-spezifische Rspr.?** — Für PoliScan, ESO, TraffiStar gibt es geraetespezifische OLG-Entscheidungen.
 
 ## Zentrale Rechtsprechungs-Kette OWi (Stand Mai 2026)
 
@@ -102,5 +102,5 @@ Alle Zitate vor Versand in offener Quelle (BGH-Datenbank, openjur.de, dejure.org
 
 - Keine erfundenen Aktenzeichen oder Fundstellen.
 - Bei Unsicherheit: konservativen Klassiker nennen (BGH BGHSt 43, 277).
-- OLG-Rspr. ist regional verschieden — passendes OLG des Bundeslandes pruefen.
+- OLG-Rspr. ist regional verschieden — passendes OLG des Bundeslandes prüfen.
 - Anwaltliche Endkontrolle bei Zitaten in Schriftsaetzen.

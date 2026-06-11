@@ -14,7 +14,7 @@ description: "Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff sch
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff scheitert. Jeder Antrag traegt erkennbar Beweisbehauptung Beweismittel Konnex zur Sachverteidigung. Bezug zu konkreten Lebenstatsachen statt Beweisermittlungsantrag. Reihenfolge und Zeitpunkt der Antraege strategisch. Antraege schriftlich oder Sitzungsprotokoll. § 244 Abs. 3 und Abs. 6 StPO und § 244 Abs. 4 Satz 2 StPO. Antworten der Kammer mit Sachdienlichkeitsbegruendung pruefen. Vorbeugend gegen § 244 Abs. 3 Satz 3 StPO Verschleppungsabsicht.
+**Fokus:** Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff scheitert. Jeder Antrag traegt erkennbar Beweisbehauptung Beweismittel Konnex zur Sachverteidigung. Bezug zu konkreten Lebenstatsachen statt Beweisermittlungsantrag. Reihenfolge und Zeitpunkt der Antraege strategisch. Antraege schriftlich oder Sitzungsprotokoll. § 244 Abs. 3 und Abs. 6 StPO und § 244 Abs. 4 Satz 2 StPO. Antworten der Kammer mit Sachdienlichkeitsbegruendung prüfen. Vorbeugend gegen § 244 Abs. 3 Satz 3 StPO Verschleppungsabsicht.
 
 ### Beweisantragsstrategie ohne Missbrauchsangriff
 
@@ -41,8 +41,8 @@ description: "Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff sch
 
 ## Antwort der Kammer
 
-- Pruefen ob § 244 Abs. 6 Satz 2 StPO Sachdienlichkeit substantiiert begruendet wird.
-- Pruefen ob Begruendungspflicht nach § 244 Abs. 4 Satz 2 StPO eingehalten wird.
+- Prüfen ob § 244 Abs. 6 Satz 2 StPO Sachdienlichkeit substantiiert begruendet wird.
+- Prüfen ob Begruendungspflicht nach § 244 Abs. 4 Satz 2 StPO eingehalten wird.
 - Verschleppungsabsicht § 244 Abs. 3 Satz 3 StPO nur bei besonderem Nachweis.
 
 ## Pitfalls

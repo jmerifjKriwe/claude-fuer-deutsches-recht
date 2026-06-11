@@ -35,11 +35,11 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 - **Aenderungsprotokoll vom 31.03.2015** (BGBl. 2015 II S. 1332/1335) — Anpassungen an Grenzgaengerregelung.
 - **Verwaltungsvereinbarung Grenzgaenger** Deutschland-Frankreich vom 16.02.2006.
 - **§ 1 EStG, § 49 EStG** (unbeschraenkte/beschraenkte Steuerpflicht).
-- **Konsultationsvereinbarung Home-Office** (Pandemie 2020/2021 und Folgevereinbarungen) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- **Konsultationsvereinbarung Home-Office** (Pandemie 2020/2021 und Folgevereinbarungen) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zum Grenzgaenger DBA-Frankreich in freier amtlicher Quelle abrufen.
-- BMF-Schreiben zur Grenzgaengerregelung DBA-Frankreich — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zur Grenzgaengerregelung DBA-Frankreich — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Anwendungsvoraussetzungen
 
@@ -59,7 +59,7 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 
 - Der Arbeitnehmer muss arbeitstaeglich zum Wohnsitz zurueckkehren.
 - "Arbeitstaeglich" = nach jedem Arbeitstag.
-- Maximale **Nicht-Rueckkehrtage pro Jahr**: 45 Tage (Schaedlichkeitsschwelle gemaess Verwaltungsvereinbarung 16.02.2006 — massgebend ist der Originaltext).
+- Maximale **Nicht-Rueckkehrtage pro Jahr**: 45 Tage (Schaedlichkeitsschwelle gemäß Verwaltungsvereinbarung 16.02.2006 — massgebend ist der Originaltext).
 - Krankheitstage, Urlaubstage, Feiertage: nicht relevant für Schaedlichkeit.
 - Dienstreisen, Tagungen, Schulungen: zaehlen je nach Auslegung.
 
@@ -67,11 +67,11 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 
 - Bei Erfuellung Grenzgaengerstatus: **ausschliessliche Besteuerung im Wohnsitzstaat**.
 - Im Taetigkeitsstaat keine Lohnsteuer; ggf. Quellensteuerausgleich.
-- Bei Schaedlichkeitsverletzung: Rueckkehr zu Art. 15 OECD-MA (183-Tage und Wohnsitz-/Taetigkeitsstaat-Pruefung).
+- Bei Schaedlichkeitsverletzung: Rueckkehr zu Art. 15 OECD-MA (183-Tage und Wohnsitz-/Taetigkeitsstaat-Prüfung).
 
 ## Beweismittel
 
-- **Arbeitgeberbescheinigung** ueber Taetigkeitsort und arbeitstaegliche Rueckkehr.
+- **Arbeitgeberbescheinigung** über Taetigkeitsort und arbeitstaegliche Rueckkehr.
 - **Reisekalender** (Pflicht des Arbeitnehmers; ist im Streitfall vorzulegen).
 - **Mietvertrag / Grundbuch** Wohnsitz.
 - **Steuerbescheid** des Wohnsitzstaats.
@@ -79,16 +79,16 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 
 ## Workflow
 
-### Phase 1 — Wohnsitz und Taetigkeitsort pruefen
+### Phase 1 — Wohnsitz und Taetigkeitsort prüfen
 1. Beide in 20-km-Zone?
 2. Gemeindeliste konsultieren.
 
 ### Phase 2 — Arbeitstaegliche Rueckkehr
 1. Reisekalender erstellen oder einholen.
 2. Nicht-Rueckkehrtage zaehlen.
-3. Pruefung Schaedlichkeitsschwelle (typ. 45 Tage).
+3. Prüfung Schaedlichkeitsschwelle (typ. 45 Tage).
 
-### Phase 3 — Lohnsteuerabzug pruefen
+### Phase 3 — Lohnsteuerabzug prüfen
 1. Bei deutschem Arbeitgeber und franzoesischem Wohnsitz: kein deutscher Lohnsteuerabzug bei Vorlage Grenzgaengerbescheinigung.
 2. Bei franzoesischem Arbeitgeber und deutschem Wohnsitz: kein franzoesischer Steuerabzug bei Vorlage entsprechender Bescheinigung.
 
@@ -96,14 +96,14 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 1. Anlage N-AUS oder Grenzgaengernachweis beifuegen.
 2. Bei Schaedlichkeitsverletzung: regulaere Behandlung Art. 15.
 
-### Phase 5 — Home-Office pruefen
+### Phase 5 — Home-Office prüfen
 1. Konsultationsvereinbarung beachten.
 2. Home-Office-Tage in 20-km-Zone des Wohnsitzstaats: nicht arbeitstaegliche Rueckkehr in Frage.
 
 ## Strategie und Praxis-Tipps
 
 - Reisekalender taeglich fuehren — nachtraegliche Rekonstruktion ist kritisch.
-- Home-Office-Tage Aufmerksamkeit — Konsultationsvereinbarung pruefen; bei Ueberschreitung Konsultations-Schwelle Verlust Grenzgaengerstatus.
+- Home-Office-Tage Aufmerksamkeit — Konsultationsvereinbarung prüfen; bei Ueberschreitung Konsultations-Schwelle Verlust Grenzgaengerstatus.
 - Bei Schaedlichkeit (mehr als 45 Tage Nicht-Rueckkehr): Vorab planen (Tagungen reduzieren) — Schaedlichkeit ist absolutes Ausschlusskriterium.
 - Karlsruhe, Stuttgart, Trier (groessere Staedte) sind regelmaessig **nicht** in der 20-km-Zone — Grenzgaenger für dort arbeitende Arbeitnehmer scheidet aus.
 - Bei strittiger Gemeindezugehoerigkeit: Verstaendigungsverfahren oder Auskunft bei FA bzw. CFE.
@@ -137,19 +137,19 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Grenzgaengerstatus halten (Wohnsitz/Arbeit in 20-km-Zone, max. 45 Nicht-Rueckkehrtage) | Wohnsitzstaat-Besteuerung (DE) — meist guenstiger als FR-progressive Tarife | Status verlieren (z.B. durch Umzug, Tagungen): Art. 15 OECD-MA, regulaer | bei stabiler Konstellation Status halten |
-| Wohnsitz Kehl/Strassburg vs. Karlsruhe/Mannheim | Grenzgaengerstatus moeglich (in Zone) | Karlsruhe/Mannheim NICHT in 20-km-Zone — Grenzgaenger ausgeschlossen | bei Job-Wahl Wohnsitzentscheidung mitdenken |
+| Wohnsitz Kehl/Strassburg vs. Karlsruhe/Mannheim | Grenzgaengerstatus möglich (in Zone) | Karlsruhe/Mannheim NICHT in 20-km-Zone — Grenzgaenger ausgeschlossen | bei Job-Wahl Wohnsitzentscheidung mitdenken |
 | Home-Office-Tage in Grenzzone vs. ausserhalb | in Grenzzone Wohnsitz nicht schaedlich (regelmaessig zaehlend als Heimkehrtag) | ausserhalb der Grenzzone schaedlich | Wohnsitz mit Home-Office-Eignung waehlen |
-| Selbstaendiger Grenzgaenger vs. Arbeitnehmer | Grenzgaengerregelung Art. 13 Abs. 5 erfasst nur Arbeitnehmer; Selbstaendige nach Art. 12/14 DBA | bei Selbststaendigkeit andere Pruefung | Statuswechsel bewusst planen |
+| Selbstaendiger Grenzgaenger vs. Arbeitnehmer | Grenzgaengerregelung Art. 13 Abs. 5 erfasst nur Arbeitnehmer; Selbstaendige nach Art. 12/14 DBA | bei Selbststaendigkeit andere Prüfung | Statuswechsel bewusst planen |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
 - **Wohnsitz Karlsruhe + Arbeit Strassburg**: klassischer "Beinahe-Grenzgaenger" — scheitert wegen Karlsruhe nicht in 20-km-Zone. Mandant glaubt oft, Grenzgaengerstatus zu haben.
-- **Dienstreisen nach Paris** (10 Tage), **Tagungen in Lyon** (5 Tage), **Schulung in Bordeaux** (3 Tage): jede Uebernachtung auswaerts zaehlt schaedlich — bei mehrtaegigen Reisen schnell ueber 45 Tage.
+- **Dienstreisen nach Paris** (10 Tage), **Tagungen in Lyon** (5 Tage), **Schulung in Bordeaux** (3 Tage): jede Uebernachtung auswaerts zaehlt schaedlich — bei mehrtaegigen Reisen schnell über 45 Tage.
 - **Krankheits- und Urlaubstage**: NICHT schaedlich nach Verwaltungsvereinbarung — sauber abgrenzen (Krankenscheine, Urlaubsantraege).
 - **Drittstaat-Aufenthalte**: Geschaeftsreisen nach Schweiz/USA/UK zaehlen schaedlich, weil keine Rueckkehr zum deutschen Wohnsitz.
 - **Vorruhestand/Altersteilzeit**: Grenzgaengerstatus haengt an Arbeitsverhaeltnis — bei Aussetzung Status weg.
-- **Doppelhaushalt**: Mandant mit Familienwohnsitz Saarbruecken und Zweitwohnung Strassburg für Arbeit — Tie-Breaker Art. 4 entscheidet ueber Wohnsitzstaat; Grenzgaengerstatus nur bei einheitlichem Wohnsitz in Grenzzone.
-- **Lohnsteuer-Korrektur**: deutsches FA muss bei vorgelegter Grenzgaengerbescheinigung von der Lohnsteuer (bei FR-Arbeitgeber) entlasten, bzw. franzoesischer Arbeitgeber das Verfahren der "non-prelevement a la source" beachten — Aktualitaet pruefen.
+- **Doppelhaushalt**: Mandant mit Familienwohnsitz Saarbruecken und Zweitwohnung Strassburg für Arbeit — Tie-Breaker Art. 4 entscheidet über Wohnsitzstaat; Grenzgaengerstatus nur bei einheitlichem Wohnsitz in Grenzzone.
+- **Lohnsteuer-Korrektur**: deutsches FA muss bei vorgelegter Grenzgaengerbescheinigung von der Lohnsteuer (bei FR-Arbeitgeber) entlasten, bzw. franzoesischer Arbeitgeber das Verfahren der "non-prelevement a la source" beachten — Aktualitaet prüfen.
 
 ## Berechnungsbeispiel — Grenzgaenger Kehl-Strassburg
 
@@ -167,9 +167,9 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 
 > Gleicher Mandant, aber 50 Dienstreisetage (Aufgabenwechsel mit hoeherem Reiseanteil).
 >
-> Schritt 1: 50 Nicht-Rueckkehrtage **ueber 45-Tage-Schwelle** — **Schaedlichkeitsverletzung**.
+> Schritt 1: 50 Nicht-Rueckkehrtage **über 45-Tage-Schwelle** — **Schaedlichkeitsverletzung**.
 >
-> Schritt 2: Grenzgaengerstatus verloren. Rueckkehr zu Art. 15 OECD-MA: 183-Tage-Pruefung.
+> Schritt 2: Grenzgaengerstatus verloren. Rueckkehr zu Art. 15 OECD-MA: 183-Tage-Prüfung.
 >
 > Schritt 3: Bei mehr als 183 Tagen in FR: franzoesische Besteuerung des FR-Lohnanteils. Lohnsteuerabzug durch FR-Arbeitgeber.
 >
@@ -179,6 +179,6 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Frankreich 21.07.1959 (BGBl. 1961 II S. 397/398), Aend.-Prot. 31.03.2015 (BGBl. 2015 II S. 1332/1335). Verwaltungsvereinbarung Grenzgaenger 16.02.2006. Gemeindelisten 20-km-Zone und aktuelle Konsultationsvereinbarungen Home-Office im BMF-Veroeffentlichungsverzeichnis pruefen.
+Stand: 05/2026. DBA-Frankreich 21.07.1959 (BGBl. 1961 II S. 397/398), Aend.-Prot. 31.03.2015 (BGBl. 2015 II S. 1332/1335). Verwaltungsvereinbarung Grenzgaenger 16.02.2006. Gemeindelisten 20-km-Zone und aktuelle Konsultationsvereinbarungen Home-Office im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 3 belegt (BGBl. 1961 II S. 397/398 bestaetigt; BGBl. 2015 II S. 1332/1335 bestaetigt; Verwaltungsvereinbarung 16.02.2006 bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

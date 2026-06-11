@@ -3,7 +3,7 @@ name: review-richtlinie
 description: "Pruefung: Internationaler Bezug und Schnittstellen."
 ---
 
-# Pruefung: Internationaler Bezug und Schnittstellen
+# Prüfung: Internationaler Bezug und Schnittstellen
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Pruefung: Internationaler Bezug und Schnittstellen."
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Pruefung: Internationaler Bezug und Schnittstellen
+## Spezialwissen: Prüfung: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
 
 ## Fallweichen

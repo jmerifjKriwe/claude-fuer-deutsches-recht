@@ -23,7 +23,7 @@ Dieses Anschluss-Routing für **Schriftform Und Textform Bgb** wählt nach dem e
 - `elektronische-paragraph-formerfordernisse` — Elektronische Paragraph Formerfordernisse
 - `empfangsbeduerftiger-international` — Empfangsbeduerftiger International
 - `empfangsbeduerftiger-international-schnittstellen` — Empfangsbeduerftiger International Schnittstellen
-- `form-checker-fuer-vertrag-oder-willenserklaerung` — Form Checker Fuer Vertrag Oder Willenserklaerung
+- `form-checker-fuer-vertrag-oder-willenserklaerung` — Form Checker Für Vertrag Oder Willenserklaerung
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 

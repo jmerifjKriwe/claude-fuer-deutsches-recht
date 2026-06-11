@@ -121,12 +121,12 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `vaf-redline-qa` | Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenentwurf oder überarbeitete Fassung liegt vor und soll auf Vollständigkeit versteckte Änderungen Formatbrüche und ungeklärte Klauselentscheidungen geprüft… |
 | `vaf-rueckfrageninterview` | Rückfrageninterview für fehlende Vertragsdaten führen: Anwendungsfall Felder im Vertrag sind noch offen und Mandant muss verständnisfreundlich befragt werden. Klausel-Bibliothek, Vertragsmodule. Prüfraster offene… |
 | `vaf-template-erkennung` | Vertragsvorlage und Altvertrag erkennen und analysieren: Anwendungsfall Anwalt oder Mandant gibt unbekannte Vorlage oder alten Vertrag ein und Skill soll Vertragstyp Klauselstruktur Pflichtfelder und Wahlklauseln… |
-| `vaf-termsheet-mapping` | Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten muessen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent,… |
+| `vaf-termsheet-mapping` | Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten müssen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent,… |
 | `vaf-track-changes-nur-nach-frage` | Track Changes und Redline nur nach ausdrücklicher Bestätigung erstellen: Anwendungsfall überarbeiteter Vertrag soll als Track-Changes-Fassung ausgegeben werden; Skill fragt vorher explizit nach Bestätigung. §§ 145 ff.… |
 
 ## Worum geht es?
 
-Dieses Plugin fuehrt Anwaelte und ihre Mandanten durch den vollstaendigen zum Ausfullen, Aktualisieren und Qualitaetssichern von Vertragsvorlagen und Altvertraegen. Es erkennt automatisch den Eingabedokument-Typ (DOCX-Vorlage, Altvertrag, Term Sheet, Freitext), erstellt ein Feldinventar, fuehrt ein strukturiertes Ruckfrageninterview, trifft Klauselentscheidungen, prueft Plausibilitaet und gibt eine bereinige Clean-Version aus. Track-Changes-Fassungen werden nur nach ausdrucklicher Bestaetigung erstellt.
+Dieses Plugin fuehrt Anwaelte und ihre Mandanten durch den vollstaendigen zum Ausfullen, Aktualisieren und Qualitaetssichern von Vertragsvorlagen und Altvertraegen. Es erkennt automatisch den Eingabedokument-Typ (DOCX-Vorlage, Altvertrag, Term Sheet, Freitext), erstellt ein Feldinventar, fuehrt ein strukturiertes Ruckfrageninterview, trifft Klauselentscheidungen, prüft Plausibilitaet und gibt eine bereinige Clean-Version aus. Track-Changes-Fassungen werden nur nach ausdrucklicher Bestaetigung erstellt.
 
 Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbeitsvertraege, Kaufvertraege, Dienstleistungsvertraege und individualvertragliche Sondergestaltungen. Es wendet AGB-Recht und Schriftformerfordernisse automatisch an.
 
@@ -143,11 +143,11 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 - **Feldinventar** — Strukturierte Liste aller ausfullbaren Felder einer Vertragsvorlage mit Pflicht/Optional-Status, Quelle und Risikohinweis.
 - **Term Sheet** — Vorvertragliches Eckpunktepapier; Letter of Intent oder Term Sheet werden auf Vertragsfelder gemappt.
 - **Track Changes** — Dokumenten-Aenderungsmarkierung in Word (DOCX); wird nur nach ausdrucklicher Bestaetigung ausgegeben.
-- **AGB-Kontrolle** — Pruefung von allgemeinen Geschaeftsbedingungen nach §§ 305 bis 310 BGB; strenger Massstab bei B2C, geringer bei B2B.
+- **AGB-Kontrolle** — Prüfung von allgemeinen Geschaeftsbedingungen nach §§ 305 bis 310 BGB; strenger Massstab bei B2C, geringer bei B2B.
 - **Schriftformerfordernis** — § 550 BGB bei Mietvertraegen laenger als ein Jahr; § 125 BGB bei gesetzlicher Schriftform; Fehler macht Vertrag unwirksam.
 - **Redline** — Uberarbeitete Vertragsfassung mit sichtbaren Aenderungen gegenuber dem Ausgangsdokument.
 - **Clean Output** — Bereinigter Vertragsentwurf ohne Platzhalter und Track-Changes für Unterzeichnung oder Versand.
-- **Plausibilitaetscheck** — Pruefung von Betragen, Fristen, Querverweisen und interner Konsistenz vor Ausgabe.
+- **Plausibilitaetscheck** — Prüfung von Betragen, Fristen, Querverweisen und interner Konsistenz vor Ausgabe.
 
 ## Rechtsgrundlagen
 
@@ -196,26 +196,26 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 
 **Qualitaetssicherung und Output**
 
-- `vaf-plausibilitaetscheck` — Betrage, Fristen, Querverweise und interne Widersprueche pruefen.
+- `vaf-plausibilitaetscheck` — Betrage, Fristen, Querverweise und interne Widersprueche prüfen.
 - `vaf-quality-gate` — Gesamtpruefung: alle Pflichtfelder, AGB-Zulaessigkeit, Anlagen, Freigabe.
 - `vaf-clean-output` — Bereinigter finaler Vertragsentwurf mit Ausfullprotokoll und Annahmenregister.
 
 **Redline und Track Changes**
 
-- `vaf-redline-qa` — Redline oder Gegenentwurf auf Vollstandigkeit und versteckte Aenderungen pruefen.
+- `vaf-redline-qa` — Redline oder Gegenentwurf auf Vollstandigkeit und versteckte Aenderungen prüfen.
 - `vaf-track-changes-nur-nach-frage` — Track-Changes-Fassung nur nach ausdrucklicher Bestaetigung erstellen.
 
 ## Worauf besonders achten
 
 - **Schriftformerfordernis ist Fallstrick** — § 550 BGB bei Mietvertraegen laenger als ein Jahr; fehlende Unterschrift oder fehlende Anlage macht den Langzeitmietvertrag in ein Jahresvertrag ohne Kuendigungsschutz umzudeuten.
-- **AGB oder Individualvertrag klaeren zuerst** — Die Intensitaet der AGB-Kontrolle haengt davon ab; ein Verhandlungsprotokoll kann Individualvertragscharakter begruenden.
+- **AGB oder Individualvertrag klären zuerst** — Die Intensitaet der AGB-Kontrolle haengt davon ab; ein Verhandlungsprotokoll kann Individualvertragscharakter begruenden.
 - **Track-Changes-Bestaetigung nicht vergessen** — Das Plugin fragt explizit nach, bevor eine Redline erstellt wird; ohne Bestaetigung wird Clean Output ausgegeben.
 - **Term Sheet ist oft unvollstaendig** — Steuerliche Punkte, USt-Option und Wettbewerbsverbote sind im Term Sheet haeufig nicht geregelt; `vaf-termsheet-mapping` markiert Lucken.
 - **NachwG-Pflichtfelder bei Arbeitsvertraegen** — § 2 NachwG schreibt bestimmte Angaben vor; Fehlen kann Bussgeld ausloesen.
 
 ## Typische Fehler
 
-- Vorlage wird direkt ausgefullt, ohne Schriftformerfordernis und AGB-Kontrolle vorab zu pruefen.
+- Vorlage wird direkt ausgefullt, ohne Schriftformerfordernis und AGB-Kontrolle vorab zu prüfen.
 - Track-Changes-Fassung wird ausgegeben, ohne dass Quality Gate gruene Ampel gezeigt hat.
 - Term Sheet wird eins zu eins uebernommen, ohne Widersprueche zur Vertragsvorlage zu prufen.
 - Wahlklauseln bleiben unentschieden (Leerfelder in der Endfassung).

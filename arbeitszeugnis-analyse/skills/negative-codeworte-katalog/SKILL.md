@@ -19,7 +19,7 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 |---|---|---|
 | "trug zur Verbesserung des Betriebsklimas bei" | Alkohol- oder Drogenproblem | Rot |
 | "war stets gesellig" | Trinkgewohnheit | Rot |
-| "war für Aufgaben im Aussendienst geeignet" (ohne Kontext) | Wurde aus dem Innendienst entfernt | Rot |
+| "war für Aufgaben im Außendienst geeignet" (ohne Kontext) | Wurde aus dem Innendienst entfernt | Rot |
 | "pflegte einen kollegialen Umgang am Feierabend" | Trinkkultur | Rot |
 
 ### Krankheit und Fehlzeiten

@@ -13,7 +13,7 @@ description: "Jahresabschluss-Vorbereitung Stichtag. Anwendungsfall systematisch
 
 ## Kernsachverhalt
 
-Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bilanzstichtag und eine geordnete Abwicklung in den ersten vier Monaten danach. Inventur, Periodenabgrenzung, Rueckstellungen, Anlagenspiegel und Mandantenfragebogen muessen aufeinander abgestimmt sein. Die folgende Standardroutine setzt den Bilanzstichtag (i.d.R. 31.12.) als Anker; die Phasen koennen bei abweichendem Geschaeftsjahr entsprechend verschoben werden.
+Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bilanzstichtag und eine geordnete Abwicklung in den ersten vier Monaten danach. Inventur, Periodenabgrenzung, Rueckstellungen, Anlagenspiegel und Mandantenfragebogen müssen aufeinander abgestimmt sein. Die folgende Standardroutine setzt den Bilanzstichtag (i.d.R. 31.12.) als Anker; die Phasen können bei abweichendem Geschaeftsjahr entsprechend verschoben werden.
 
 ## Kaltstart-Rueckfragen
 
@@ -50,14 +50,14 @@ Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bil
 
 - Mandantenfragebogen (siehe `stb-mandantenfragebogen-jahresabschluss`) versenden mit Rueckfrist 4 Wochen.
 - Inventur-Termin und -Anweisung mit Mandant schriftlich abstimmen (insbesondere bei Stichtagsinventur am 31.12.).
-- Bei Pruefungspflicht (§ 316 HGB): Vor-Pruefungs-Vorbereitung mit dem Wirtschaftspruefer; Pruefungsplanung abstimmen.
+- Bei Pruefungspflicht (§ 316 HGB): Vor-Prüfungs-Vorbereitung mit dem Wirtschaftspruefer; Pruefungsplanung abstimmen.
 - Hinweis an Mandant zu Investitionen, IAB § 7g EStG, Sonder-AfA-Optionen vor Stichtag.
 
 ### Phase 2 — Stichtag und Inventur (Bilanzstichtag)
 
 - Inventur vor Ort begleiten oder Beobachterrolle bei groesseren Mandanten; bei kleineren Mandanten Stichprobenbegleitung.
 - Inventurprotokolle aufnehmen (Mengen, Bewertungshinweise, Pruefdatum, Bearbeiter).
-- Bestandsabweichungen unmittelbar klaeren (Cut-off-Listen Lieferungen / Wareneingang).
+- Bestandsabweichungen unmittelbar klären (Cut-off-Listen Lieferungen / Wareneingang).
 
 ### Phase 3 — 1. Quartal nach Stichtag (Wochen 1-4): Bestandskonten abstimmen
 
@@ -67,10 +67,10 @@ Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bil
 
 ### Phase 4 — 1. Quartal nach Stichtag (Wochen 5-10): Abgrenzungen, Rueckstellungen, Anlagen
 
-- Periodenabgrenzung (RAP) gemaess `stb-jahresabschluss-abgrenzungen-rap-rai`.
-- Rueckstellungen quantifizieren gemaess `stb-jahresabschluss-rueckstellungen-bewertung`.
-- Anlagenspiegel und AfA gemaess `stb-jahresabschluss-anlagenverzeichnis-afa`.
-- Saldenabstimmung Forderungen, Verbindlichkeiten, Banken; Werterhellungstatsachen pruefen.
+- Periodenabgrenzung (RAP) gemäß `stb-jahresabschluss-abgrenzungen-rap-rai`.
+- Rueckstellungen quantifizieren gemäß `stb-jahresabschluss-rueckstellungen-bewertung`.
+- Anlagenspiegel und AfA gemäß `stb-jahresabschluss-anlagenverzeichnis-afa`.
+- Saldenabstimmung Forderungen, Verbindlichkeiten, Banken; Werterhellungstatsachen prüfen.
 
 ### Phase 5 — 2. Quartal nach Stichtag (Wochen 10-14): Entwurf und Mandantengespraech
 
@@ -81,8 +81,8 @@ Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bil
 ### Phase 6 — 2.-3. Quartal nach Stichtag (Wochen 14-26): Freigabe, Uebermittlung, Offenlegung
 
 - Mandanten-Freigabe schriftlich (Aufstellungserklaerung).
-- E-Bilanz-Uebermittlung an FA gemaess `stb-jahresabschluss-elektronische-uebermittlung-ebilanz`.
-- Offenlegung im Unternehmensregister (§ 325 HGB) innerhalb 12 Monaten nach Stichtag gemaess `stb-jahresabschluss-veroeffentlichung-bundesanzeiger`.
+- E-Bilanz-Uebermittlung an FA gemäß `stb-jahresabschluss-elektronische-uebermittlung-ebilanz`.
+- Offenlegung im Unternehmensregister (§ 325 HGB) innerhalb 12 Monaten nach Stichtag gemäß `stb-jahresabschluss-veroeffentlichung-bundesanzeiger`.
 
 ## Strategie und Praxis-Tipps
 

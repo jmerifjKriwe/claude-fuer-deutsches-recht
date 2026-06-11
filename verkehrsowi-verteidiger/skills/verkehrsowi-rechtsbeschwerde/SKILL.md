@@ -19,7 +19,7 @@ Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil ge
 
 ## Triage zu Beginn
 
-1. **Ist Rechtsbeschwerde zulaessig?** — § 79 Abs. 1 OWiG: zulaessig bei Geldbusse > 250 EUR ODER Fahrverbot; ansonsten nur Zulassungsbeschwerde nach § 80 OWiG.
+1. **Ist Rechtsbeschwerde zulässig?** — § 79 Abs. 1 OWiG: zulässig bei Geldbusse > 250 EUR ODER Fahrverbot; ansonsten nur Zulassungsbeschwerde nach § 80 OWiG.
 2. **Welches Gericht ist zuständig?** — OLG im jeweiligen Bundesland (Ausnahme: bei Grundsatzfragen auch BGH denkbar, sehr selten).
 3. **Was soll angegriffen werden?** — Rechtsfehler (Verfahrensruege oder Sachruge); keine Tatsachenpruefung in der Rechtsbeschwerde!
 4. **Frist beachten?** — 1 Woche ab Urteilsverkuendung; Begründungsfrist 1 Monat ab Urteilszustellung (§ 79 Abs. 3 OWiG i.V.m. § 345 StPO).

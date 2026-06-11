@@ -20,7 +20,7 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 1. Welcher Mandant — Belegvolumen, Komplexitaet, Kontenrahmen?
 2. Welche Belegabgabe-Form ist vereinbart — Papier, DATEV Unternehmen Online, BuchhaltungsButler, scan-zentrum?
 3. Welcher Auswertungstermin ist mit dem Mandanten verbindlich vereinbart — bis zum 15., 20., 25. des Folgemonats?
-4. Wer bucht (Sachbearbeiter), wer prueft (Berufstraeger), wer versendet?
+4. Wer bucht (Sachbearbeiter), wer prüft (Berufstraeger), wer versendet?
 5. Liegen Lohnbuchungen aus dem Lohnprogramm rechtzeitig vor (in der Regel Monatsmitte des Folgemonats)?
 6. Welche Periodenabgrenzungen werden routinemaessig gebucht (RAP, Rueckstellungen, Abschreibungen)?
 7. Gibt es Sonderpflichten — Konzernanforderung, Bankreporting, fortlaufender Liquiditaetsplan?
@@ -51,16 +51,16 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 
 ### Phase 1 — Tag 1-5 des Folgemonats: Belegabgabe und Wareneingang
 
-- Mandant uebermittelt Belege bis spaetestens 5. des Folgemonats (digital ueber DATEV Unternehmen Online).
+- Mandant uebermittelt Belege bis spaetestens 5. des Folgemonats (digital über DATEV Unternehmen Online).
 - Belegannahme-Kontrolle: Vollstaendigkeit Eingangsrechnungen, Ausgangsrechnungen, Bankauszuege, Kassenauszuege, Lohnauswertungen.
-- Pruefung Kassenfuehrung GoBD-konform (taegliche Aufzeichnungen, Z-Bons).
+- Prüfung Kassenfuehrung GoBD-konform (taegliche Aufzeichnungen, Z-Bons).
 - OP-Listen vom Vormonat anfordern: noch nicht bezahlte Eingangsrechnungen, ueberfaellige Ausgangsrechnungen.
 
 ### Phase 2 — Tag 5-15: Buchung Tagesarbeit
 
 - Bankbuchungen: GVC-Kontierung (DATEV) oder Banking-Kontierung.
 - Eingangsrechnungen: gegen OPOS abgleichen, USt-Behandlung (Vorsteuer, Reverse-Charge, innergemeinschaftlicher Erwerb).
-- Ausgangsrechnungen: aus Faktura-Modul oder manuelle Buchung; USt-Schluessel pruefen.
+- Ausgangsrechnungen: aus Faktura-Modul oder manuelle Buchung; USt-Schlüssel prüfen.
 - Kassenbuchung: tageweise mit Z-Bon-Verprobung.
 - Lohnbuchungen aus Lohnprogramm integrieren (Loehne, Sozialabgaben, Pauschalsteuer).
 
@@ -74,16 +74,16 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 
 ### Phase 4 — Tag 20-25: Plausibilisierung
 
-- Pruefung Umsatzentwicklung vs. Vormonat und Vorjahres-Monat.
-- Vorsteuer-Pruefung: VAT-Konten sauber, Innergemeinschaftliche Lieferungen mit Bestaetigung der USt-Id.
+- Prüfung Umsatzentwicklung vs. Vormonat und Vorjahres-Monat.
+- Vorsteuer-Prüfung: VAT-Konten sauber, Innergemeinschaftliche Lieferungen mit Bestaetigung der USt-Id.
 - USt-Voranmeldung erstellen (§ 18 UStG) — bis zum 10. des Folgemonats (ggf. Dauerfristverlaengerung).
-- BWA-Vorabauswertung pruefen: Ist das Ergebnis plausibel? Materialquote, Personalquote, Sondereffekte?
+- BWA-Vorabauswertung prüfen: Ist das Ergebnis plausibel? Materialquote, Personalquote, Sondereffekte?
 
 ### Phase 5 — Tag 25-30: BWA-Erstellung und Versand
 
 - BWA aus DATEV/Addison/Sage erstellen mit Vorjahresvergleich und kumuliertem Jahresblock.
 - Erlaeuterungstext (1-2 Seiten) ergaenzen.
-- Berufstraeger-Pruefung (4-Augen-Prinzip) — Stichproben, Plausibilitaet, Krisensignale.
+- Berufstraeger-Prüfung (4-Augen-Prinzip) — Stichproben, Plausibilitaet, Krisensignale.
 - BWA an Mandant versenden (DATEV Unternehmen Online, E-Mail mit verschluesseltem Anhang).
 - Monatsabschluss in Mandantenakte dokumentieren mit Zeitstempel und Bearbeiter.
 
@@ -110,4 +110,4 @@ Stand: 05/2026.
 - StBerG § 33.
 - StBVV § 33 (Buchfuehrung), Anhang 5.
 - BMF v. 28.11.2019, BStBl I 2019, 1269 (GoBD).
-- Verifikations-Hinweis: GoBD-Update bei BMF-Anpassungen jaehrlich pruefen.
+- Verifikations-Hinweis: GoBD-Update bei BMF-Anpassungen jaehrlich prüfen.

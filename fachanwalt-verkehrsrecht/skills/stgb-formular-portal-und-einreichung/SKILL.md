@@ -46,7 +46,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Bussgeldstelle (zentrales OWi-Verfahren des jeweiligen Bundeslands):** Einspruch § 67 OWiG.
 - **Gerichte:**
  - **AG (Verkehrsstrafsachen / Bussgeld):** Strafrichter / Schoeffengericht.
- - **LG (Verkehrszivilrecht):** ab Streitwert ueber 5.000 EUR; Berufung gegen AG-Urteile.
+ - **LG (Verkehrszivilrecht):** ab Streitwert über 5.000 EUR; Berufung gegen AG-Urteile.
  - **OLG (Rechtsbeschwerde §§ 79, 80 OWiG):** OWi-Sache.
 - **eAkte / beA / MJP-Portal:**
  - **beA (besonderes elektronisches Anwaltspostfach):** zwingend für Anwaltskommunikation mit Gerichten § 130d ZPO (zivilrechtlich); im Strafrecht freiwillig (§ 32a StPO).

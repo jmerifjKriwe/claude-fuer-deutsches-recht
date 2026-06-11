@@ -3,7 +3,7 @@ name: tutela-fiduciaria-und-pflegevormundschaft-vermoegen
 description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung für Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix im Römisches Recht."
 ---
 
-# Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermoegen
+# Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermögen
 
 ## Arbeitsweg
 
@@ -16,7 +16,7 @@ description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung f�
 ## Tutela impuberum
 
 - Vormundschaft für Minderjaehrige (impuberes) bis 14 Jahre (Knaben) / 12 Jahre (Maedchen).
-- Tutor verwaltet das Vermoegen.
+- Tutor verwaltet das Vermögen.
 
 ## Tutela mulierum
 
@@ -38,7 +38,7 @@ description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung f�
 ## Schutzbestimmungen
 
 - Verbot der Eigengeschaefte des Tutors mit dem Muendelvermoegen.
-- Hypothek auf das Vermoegen des Tutors (tacita hypotheca) zugunsten des Muendels.
+- Hypothek auf das Vermögen des Tutors (tacita hypotheca) zugunsten des Muendels.
 
 ## Vergleich zu modernem Recht
 

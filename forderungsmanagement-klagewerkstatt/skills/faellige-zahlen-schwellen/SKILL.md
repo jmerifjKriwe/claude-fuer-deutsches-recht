@@ -15,12 +15,12 @@ Der Basiszinssatz wird halbjaehrlich von der Bundesbank festgesetzt. Aktueller S
 
 | Verhaeltnis | Zinssatz |
 |---|---|
-| B2C Verbraucher als Schuldner | fuenf Prozentpunkte ueber Basiszinssatz |
-| B2B Entgeltforderung kein Verbraucher beteiligt | neun Prozentpunkte ueber Basiszinssatz |
+| B2C Verbraucher als Schuldner | fuenf Prozentpunkte über Basiszinssatz |
+| B2B Entgeltforderung kein Verbraucher beteiligt | neun Prozentpunkte über Basiszinssatz |
 
 ## Verzugskostenpauschale BGB 288 Abs. 5
 
-| Anwendung | Hoehe |
+| Anwendung | Höhe |
 |---|---|
 | B2B Entgeltforderung Hauptforderung | 40 Euro je Forderung |
 | B2C | nicht anwendbar |
@@ -30,7 +30,7 @@ Der Basiszinssatz wird halbjaehrlich von der Bundesbank festgesetzt. Aktueller S
 | Gericht | Streitwert |
 |---|---|
 | Amtsgericht GVG 23 Nr. 1 ab 1.1.2026 | bis zehntausend Euro |
-| Landgericht GVG 71 ab 1.1.2026 | ueber zehntausend Euro |
+| Landgericht GVG 71 ab 1.1.2026 | über zehntausend Euro |
 | Mietsachen GVG 23 Nr. 2a | streitwertunabhaengig AG |
 | Wohnungseigentum GVG 23 Nr. 2c | streitwertunabhaengig AG |
 

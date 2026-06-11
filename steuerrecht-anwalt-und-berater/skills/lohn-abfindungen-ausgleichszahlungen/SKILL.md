@@ -32,7 +32,7 @@ Abfindungen aus Anlass der Beendigung des Arbeitsverhaeltnisses sind aussergewoe
 3. Wird die Abfindung in einem Jahr ausgezahlt (Zusammenballung)?
 4. Welcher Bruttolohn des AN im Vorjahr und im Jahr der Auszahlung?
 5. Welches Alter des AN, welche Beschaeftigungsdauer (Aufstockungs-Pauschale)?
-6. Erfolgt die Abfindung ausschliesslich oder mit weiteren Komponenten (offene Loehne, Urlaubsabgeltung)?
+6. Erfolgt die Abfindung ausschließlich oder mit weiteren Komponenten (offene Loehne, Urlaubsabgeltung)?
 7. Wird die Abfindung als Zahlungsersatz für entgangene Loehne gestaltet (SV-Pflicht-Risiko)?
 8. AG-Wunsch — Auszahlung im Folgejahr (Steueroptimierung)?
 
@@ -50,10 +50,10 @@ Abfindungen aus Anlass der Beendigung des Arbeitsverhaeltnisses sind aussergewoe
 
 **SvEV § 1 Abs. 1 Nr. 16** — SV-Behandlung Abfindungen.
 
-### Leitentscheidungen (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
+### Leitentscheidungen (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BSG-Linie zu echter vs. unechter Abfindung im SV-Recht: vor Uebernahme aktuelle Entscheidungen in freier amtlicher Quelle pruefen.
+- BSG-Linie zu echter vs. unechter Abfindung im SV-Recht: vor Uebernahme aktuelle Entscheidungen in freier amtlicher Quelle prüfen.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
@@ -61,7 +61,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Phase 1 — Voraussetzungen Fuenftel-Regelung
 
-| Voraussetzung | Pruefung |
+| Voraussetzung | Prüfung |
 |---|---|
 | Aussergewoehnliche Einkuenfte (Entschaedigung) | Aus Vertrag/Vergleich erkennbar |
 | Zusammenballung in einem Veranlagungszeitraum | Auszahlung in einem Jahr |
@@ -82,31 +82,31 @@ Die Fuenftel-Regelung mindert die Steuerprogression — bei vollstaendiger Wirku
 
 - Echte Abfindung (Schadensersatz für Verlust des Arbeitsplatzes): SV-frei.
 - Unechte Abfindung (Lohnnachzahlung): SV-pflichtig.
-- Pruefung Vereinbarung — wenn als "Entschaedigung wegen Verlust des Arbeitsplatzes" formuliert: SV-frei.
+- Prüfung Vereinbarung — wenn als "Entschaedigung wegen Verlust des Arbeitsplatzes" formuliert: SV-frei.
 
 ### Phase 4 — Steuerklassenoptimierung
 
 - Bei Auszahlung im selben Jahr wie Kuendigung: Steuerklasse beachten.
-- Bei Wechsel im Jahr (z.B. EhepartnerIn-Wahl 3/5 vs. 4/4): rechtzeitig pruefen.
+- Bei Wechsel im Jahr (z.B. EhepartnerIn-Wahl 3/5 vs. 4/4): rechtzeitig prüfen.
 - Vorausschau auf zu versteuerndes Einkommen.
 
 ### Phase 5 — Auszahlung im Folgejahr
 
 - Wenn AN im Folgejahr arbeitslos: niedrigeres ZvE; Fuenftel-Wirkung staerker.
 - Bei Verschiebung Vereinbarungsbasis: Aufhebungsvertrag mit Auszahlungstermin Januar Folgejahr.
-- AG-Risiko: Insolvenz vor Auszahlung — Mandant pruefen.
+- AG-Risiko: Insolvenz vor Auszahlung — Mandant prüfen.
 
 ### Phase 6 — Lohnabrechnung
 
 - DATEV LODAS: Abfindung mit Lohnart "Sonstige Bezuege ermaessigt" buchen.
-- Achtung Reform: Mit dem Wachstumschancengesetz wurde der Lohnsteuer-Abzug der Fuenftel-Regelung im Lohnsteuer-Verfahren ab 2025 gestrichen (Verifikation 2026 ueber aktuelles BMF-Schreiben zur Lohnsteuer-Ermittlung); seither erfolgt die Fuenftel-Anwendung nur noch in der Veranlagung beim AN. AG sollte AN zur Einkommensteuererklaerung anhalten.
-- LSt-Bescheinigung in Zeile 10 ("Ermaessigt besteuerter Arbeitslohn für mehrere Jahre") — gilt für die Zuordnung zur Kennzahl; konkretes Feld bei jedem LSt-Update pruefen (Bescheinigungsmuster BMF).
+- Achtung Reform: Mit dem Wachstumschancengesetz wurde der Lohnsteuer-Abzug der Fuenftel-Regelung im Lohnsteuer-Verfahren ab 2025 gestrichen (Verifikation 2026 über aktuelles BMF-Schreiben zur Lohnsteuer-Ermittlung); seither erfolgt die Fuenftel-Anwendung nur noch in der Veranlagung beim AN. AG sollte AN zur Einkommensteuererklaerung anhalten.
+- LSt-Bescheinigung in Zeile 10 ("Ermaessigt besteuerter Arbeitslohn für mehrere Jahre") — gilt für die Zuordnung zur Kennzahl; konkretes Feld bei jedem LSt-Update prüfen (Bescheinigungsmuster BMF).
 
 ## Strategie und Praxis-Tipps
 
 - Verschiebung in Folgejahr fast immer steuerlich vorteilhaft, wenn AN im Folgejahr weniger verdient.
 - Aufstockungs-Abfindung: AG zahlt mehr aus, um Netto zu erhoehen — Beratung sinnvoll.
-- Bei laufendem Lohn bis Beendigung + Abfindung: Aufteilung pruefen (laufender Lohn keine Fuenftel-Regelung).
+- Bei laufendem Lohn bis Beendigung + Abfindung: Aufteilung prüfen (laufender Lohn keine Fuenftel-Regelung).
 - SV-Frei nur bei echter Entschaedigung — schon im Aufhebungsvertrag korrekt formulieren.
 - StBVV: Sonderlohn-Berechnung Zeithonorar oder Pauschale.
 - DATEV-Tipp: DATEV LODAS Lohnart "Ermaessigte Besteuerung" mit automatischer Fuenftel-Berechnung.
@@ -118,8 +118,8 @@ Stand: 05/2026.
 - EStG §§ 19, 24 Nr. 1, 34.
 - SGB IV § 14.
 - SvEV § 1.
-- BFH-Linie zur Zusammenballung der Einkuenfte (stetige Rechtsprechung, vgl. Schmidt/EStG, Blumich/EStG zu § 34 EStG; konkrete Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen).
-- BSG-Linie zur SV-Einordnung echter vs. unechter Abfindungen (aktuelle Entscheidungen vor Uebernahme in freier amtlicher Quelle pruefen).
+- BFH-Linie zur Zusammenballung der Einkuenfte (stetige Rechtsprechung, vgl. Schmidt/EStG, Blumich/EStG zu § 34 EStG; konkrete Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen).
+- BSG-Linie zur SV-Einordnung echter vs. unechter Abfindungen (aktuelle Entscheidungen vor Uebernahme in freier amtlicher Quelle prüfen).
 - Wachstumschancengesetz vom 27.03.2024 (BGBl. 2024 I Nr. 108): Streichung der Fuenftel-Regelung im Lohnsteuer-Abzugsverfahren ab dem Veranlagungszeitraum 2025; Anwendung der Fuenftel-Regelung nur noch in der Veranlagung beim AN.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 0 bestaetigt (Fundstelle/Datum), 4 ersetzt (Hinweis auf Pruefung in amtliche/freie Quellen oder lizenzierte Datenbanken neu formuliert) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 0 bestaetigt (Fundstelle/Datum), 4 ersetzt (Hinweis auf Prüfung in amtliche/freie Quellen oder lizenzierte Datenbanken neu formuliert) -->

@@ -33,7 +33,7 @@ Skill für Beamte, die Mehrarbeit geleistet haben und entweder Freizeitausgleich
 
 ### b) Ausgleich
 - Vorrangig Freizeitausgleich innerhalb von zwoelf Monaten (§ 88 BBG).
-- Nur wenn Freizeitausgleich aus zwingenden dienstlichen Gruenden nicht moeglich, kommt Verguetung in Geld nach der MArbVergV in Betracht.
+- Nur wenn Freizeitausgleich aus zwingenden dienstlichen Gruenden nicht möglich, kommt Vergütung in Geld nach der MArbVergV in Betracht.
 
 ### c) Bereitschaftsdienst
 - Bereitschaftsdienst ist nach EuGH-Rechtsprechung (Arbeitszeitrichtlinie 2003/88/EG) als Arbeitszeit zu werten, soweit der Beamte sich an einem vom Dienstherrn bestimmten Ort aufhalten muss. Folgen für Mehrarbeitsberechnung.
@@ -44,7 +44,7 @@ Skill für Beamte, die Mehrarbeit geleistet haben und entweder Freizeitausgleich
 
 ### e) Antrag und Frist
 - Antrag auf Geldausgleich nach Ablauf der zwoelfmonatigen Ausgleichsfrist.
-- Allgemeine Verjährungsfristen pruefen.
+- Allgemeine Verjährungsfristen prüfen.
 
 ## 4. Quellenpflicht
 
@@ -68,4 +68,4 @@ Skill für Beamte, die Mehrarbeit geleistet haben und entweder Freizeitausgleich
 
 ## 7. Beispiel (Kurzfassung)
 
-Brandinspektor leistete im Hochwassereinsatz 84 Stunden Mehrarbeit; Freizeitausgleich wegen Personalengpass nicht moeglich. Skill liefert Geldverguetungsantrag.
+Brandinspektor leistete im Hochwassereinsatz 84 Stunden Mehrarbeit; Freizeitausgleich wegen Personalengpass nicht möglich. Skill liefert Geldverguetungsantrag.

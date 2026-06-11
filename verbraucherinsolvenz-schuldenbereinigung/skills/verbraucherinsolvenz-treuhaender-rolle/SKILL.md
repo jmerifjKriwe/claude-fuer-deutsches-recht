@@ -14,7 +14,7 @@ description: "Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbraucherinsolvenz: Rolle des Treuhaenders. Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermoegensaufsicht Verteilung Forderungspruefung Glaeubigerinformation. Verguetung und Kostenfragen. Liefert Pruefraster.
+**Fokus:** Verbraucherinsolvenz: Rolle des Treuhaenders. Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermoegensaufsicht Verteilung Forderungspruefung Glaeubigerinformation. Vergütung und Kostenfragen. Liefert Pruefraster.
 
 ### Verbraucherinsolvenz Treuhaender Rolle
 
@@ -33,10 +33,10 @@ description: "Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die 
 
 ### Vermoegensaufsicht
 - Empfang der monatlichen Abfuehrungen.
-- Pruefung auf Erfuellung der Mitwirkungspflichten.
+- Prüfung auf Erfuellung der Mitwirkungspflichten.
 
 ### Forderungspruefung
-- Anmeldung Pruefung.
+- Anmeldung Prüfung.
 - Bestreitung bei zweifelhaften Forderungen.
 
 ### Glaeubigerinformation
@@ -46,7 +46,7 @@ description: "Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die 
 ### Verteilung
 - Quotale Verteilung der Massen.
 
-## Verguetung
+## Vergütung
 
 - § 14 InsVV Insolvenzrechtsverguetungsverordnung.
 - Mindestverguetung 100 Euro/Jahr für Treuhaender in Verbraucherinsolvenz.
@@ -55,4 +55,4 @@ description: "Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die 
 
 1. Treuhaenderaufgaben sauber abgegrenzt?
 2. Pflichtverletzungen?
-3. Verguetung angemessen?
+3. Vergütung angemessen?

@@ -44,7 +44,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 ## Triage vor Kartellpruefung
 
 Bevor losgelegt wird, klaere:
-1. Liegen Vereinbarungen zwischen Unternehmen, Beschluesse von Unternehmensvereinigungen oder aufeinander abgestimmte Verhaltensweisen vor (Art. 101 Abs. 1 AEUV)?
+1. Liegen Vereinbarungen zwischen Unternehmen, Beschlüsse von Unternehmensvereinigungen oder aufeinander abgestimmte Verhaltensweisen vor (Art. 101 Abs. 1 AEUV)?
 2. Beeintraechtigen diese den Handel zwischen Mitgliedstaaten und bezwecken oder bewirken sie Wettbewerbseinschraenkungen?
 3. Koennte eine Freistellung nach Art. 101 Abs. 3 AEUV / Gruppenfreistellungsverordnung eingreifen?
 4. Handelt es sich um einen Marktbeherrschungsmissbrauch Art. 102 AEUV (Marktbeherrschung festgestellt)?

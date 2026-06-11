@@ -109,14 +109,14 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — E-Rechnung und GoBD-Anforderungen für Mittelstand pruefen | GoBD-Checkliste nach Schema; Template unten |
+| Standard — E-Rechnung und GoBD-Anforderungen für Mittelstand prüfen | GoBD-Checkliste nach Schema; Template unten |
 | Variante A — Kanzlei noch in Umstellungsphase kein Vollbetrieb | Uebergangs-Checkliste; Fristen und Schritte dokumentieren |
-| Variante B — Mandant nutzt Cloud-Buchhaltung | Cloud-spezifische GoBD-Anforderungen pruefen |
-| Variante C — Steuerpruefung laeuft E-Rechnung als Beweismittel | Beweissicherung der E-Rechnungen pruefen; Zugriff sichern |
+| Variante B — Mandant nutzt Cloud-Buchhaltung | Cloud-spezifische GoBD-Anforderungen prüfen |
+| Variante C — Steuerpruefung laeuft E-Rechnung als Beweismittel | Beweissicherung der E-Rechnungen prüfen; Zugriff sichern |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

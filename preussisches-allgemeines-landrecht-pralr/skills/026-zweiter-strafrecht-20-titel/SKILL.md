@@ -35,7 +35,7 @@ description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch: Bearbeite
 ## Konkreter ALR-Stoff: ALR-Strafrecht (II 20)
 
 ### Aufbau
-ALR II 20 war das preussische Allgemeine Strafgesetzbuch bis zur Einfuehrung des Preussischen Strafgesetzbuchs 1851 und schliesslich des Reichsstrafgesetzbuchs 1871/1872. ALR II 20 ist umfangreich (ueber 1500 Paragraphen) und kasuistisch — typisches Beispiel: detaillierte Verbote von Aberglauben, Selbstmord, Spielsucht; Strafkatalog mit Strafgraden bis zu Schandstrafen.
+ALR II 20 war das preussische Allgemeine Strafgesetzbuch bis zur Einfuehrung des Preussischen Strafgesetzbuchs 1851 und schliesslich des Reichsstrafgesetzbuchs 1871/1872. ALR II 20 ist umfangreich (über 1500 Paragraphen) und kasuistisch — typisches Beispiel: detaillierte Verbote von Aberglauben, Selbstmord, Spielsucht; Strafkatalog mit Strafgraden bis zu Schandstrafen.
 
 ### Wichtige Paragraphen
 - **ALR II 20 §§ 1 ff.** Allgemeiner Teil: Schuldfragen, Versuch, Teilnahme, Strafarten.

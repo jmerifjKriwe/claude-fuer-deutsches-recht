@@ -112,7 +112,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 2-38 UmwG — Verschmelzung: Vertrag, Bericht, Pruefung, Beschluss, Anmeldung; Gesamtrechtsnachfolge
+- §§ 2-38 UmwG — Verschmelzung: Vertrag, Bericht, Prüfung, Beschluss, Anmeldung; Gesamtrechtsnachfolge
 - §§ 123-137 UmwG — Spaltung (Aufspaltung, Abspaltung, Ausgliederung): Spaltungsplan, Beschluss
 - §§ 311-312 UmwG — Ausgliederung zur Neugründung: erleichterte Form für Carve-out
 - §§ 190-213 UmwG — Formwechsel: keine Vermoegensuebertragung; Identitaetswahrung des Rechtsträgers
@@ -129,16 +129,16 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. **Umwandlungstyp bestimmen:** Verschmelzung, Abspaltung, Ausgliederung, Formwechsel — massgeblich für Form und Gremien
 2. **Zeitplan aufstellen:** Notartermin, Beschlussfassung, Registereintragung (i.d.R. 2-4 Monate ab Beschluss); Steuerliche Rueckwirkungsfrist einhalten (§§ 2 Abs. 1, 20 Abs. 5 UmwStG)
-3. **Beschluesse vorbereiten:** Gesellschafterversammlung/Hauptversammlung mit notarieller Beurkundung; Mehrheitserfordernisse pruefen (§ 50 UmwG: 75 % bei GmbH)
-4. **Bericht erstellen:** Geschaeftsfuehrung/Vorstand muss Umwandlungsbericht erstellen (§§ 8, 127 UmwG); bei Pruefungspflicht: externer Pruefer
-5. **Glaeubigerschutz sicherstellen:** § 22 UmwG — Glaeubiger koennen Sicherheitsleistung verlangen; Ankuendigung und Frist beachten
+3. **Beschlüsse vorbereiten:** Gesellschafterversammlung/Hauptversammlung mit notarieller Beurkundung; Mehrheitserfordernisse prüfen (§ 50 UmwG: 75 % bei GmbH)
+4. **Bericht erstellen:** Geschaeftsfuehrung/Vorstand muss Umwandlungsbericht erstellen (§§ 8, 127 UmwG); bei Pruefungspflicht: externer Prüfer
+5. **Glaeubigerschutz sicherstellen:** § 22 UmwG — Glaeubiger können Sicherheitsleistung verlangen; Ankuendigung und Frist beachten
 6. **Arbeitnehmerinformation:** § 324 UmwG i.V.m. § 613a BGB — schriftliche Unterrichtung der uebernommenen Arbeitnehmer; Betriebsrat informieren
 7. **Anmeldung zum HR:** notariell beglaubigte Anmeldung zum Handelsregister; Eintragung konstitutiv
 8. **Steuerliche Rueckwirkung sichern:** Massgeblichkeitsstichtag für steuerliche Bilanz festlegen; Frist maximal 12 Monate rueckwirkend ab Abschlussstichtag
 
 ## Entscheidungsbaum
 
-- Verschmelzung → Gesamtrechtsnachfolge → alle Vertraege gehen ueber → Change-of-Control-Klauseln pruefen
+- Verschmelzung → Gesamtrechtsnachfolge → alle Verträge gehen über → Change-of-Control-Klauseln prüfen
 - Ausgliederung → Einzelrechtsnachfolge je uebertragener Position → Zustimmung Glaeubiger bei Schulduebertragung?
 - Formwechsel → Identitaetswahrung → kein Betriebsuebergang, aber Abfindungsangebot nach § 207 UmwG
 - Steuerrueckwirkung → mehr als 12 Monate? → kein Buchwertansatz; stille Reserven aufzudecken
@@ -168,13 +168,13 @@ Steuerl. Schlusspunkt UmwStG | Steuer [NAME] | [DATUM] | [ ]
 
 - Beschluss-/Berichtserfordernis offen: Eintragung durch Registergericht abgelehnt
 - Steuerliche Rueckwirkung oder Sperrfrist nicht geprueft: stille Reserven werden aufgedeckt; Steuerbelastung
-- Spruchverfahrensrisiko nicht einkalkuliert: Prozesskosten und Nachzahlungen koennen erheblich sein
+- Spruchverfahrensrisiko nicht einkalkuliert: Prozesskosten und Nachzahlungen können erheblich sein
 
 ## Standardausgabe
 
 - Umwandlungs-Checkliste mit Zeitplan, Owner und Status
 - Offene Punkte als `TODO` mit Eskalationsstufe
-- Belegkette: Normen, Beschluesse, Registerschritte
+- Belegkette: Normen, Beschlüsse, Registerschritte
 
 ## Uebergabe an andere Skills
 

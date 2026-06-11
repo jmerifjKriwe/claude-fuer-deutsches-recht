@@ -14,7 +14,7 @@ description: "Mietpreisueberhoehung § 5 WiStrG 1954: WICHTIG dies ist eine Ordn
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Mietpreisueberhoehung § 5 WiStrG 1954: WICHTIG dies ist eine Ordnungswidrigkeit, keine Straftat. Verteidigung des Vermieters oder Beratung Mieter bei behaupteter Mietpreisueberhoehung um mehr als 20 Prozent ueber ueblichen Entgelten bei Ausnutzung geringen Wohnraumangebots. Bussgeldrahmen bis 50.000 EUR, Mehrerloes § 8 WiStrG 1954, Abgrenzung zu § 291 StGB Mietwucher.
+**Fokus:** Mietpreisueberhoehung § 5 WiStrG 1954: WICHTIG dies ist eine Ordnungswidrigkeit, keine Straftat. Verteidigung des Vermieters oder Beratung Mieter bei behaupteter Mietpreisueberhoehung um mehr als 20 Prozent über ueblichen Entgelten bei Ausnutzung geringen Wohnraumangebots. Bussgeldrahmen bis 50.000 EUR, Mehrerloes § 8 WiStrG 1954, Abgrenzung zu § 291 StGB Mietwucher.
 
 ### Mietpreisüberhöhung § 5 WiStrG 1954
 
@@ -53,9 +53,9 @@ Unangemessen sind Entgelte, die **infolge der Ausnutzung eines geringen Angebots
 
 ## Praktikertipps Verteidigung
 
-- **Vergleichsmiete bestreiten.** Mietspiegel ist nicht abschliessend; Sachverstaendiger zur Ortsueblichkeit moeglich. Bei nicht-qualifiziertem Mietspiegel besondere Anfechtbarkeit.
-- **Wohnflaechenberechnung pruefen.** § 4 II BV oder WoFlV; geringere Flaeche kann hoehere Miete pro Quadratmeter rechtfertigen.
-- **Modernisierungs- und Ausstattungszuschlaege.** Hochwertige Ausstattung kann ueber dem Mietspiegel-Mittel liegen.
+- **Vergleichsmiete bestreiten.** Mietspiegel ist nicht abschliessend; Sachverstaendiger zur Ortsueblichkeit möglich. Bei nicht-qualifiziertem Mietspiegel besondere Anfechtbarkeit.
+- **Wohnflaechenberechnung prüfen.** § 4 II BV oder WoFlV; geringere Flaeche kann hoehere Miete pro Quadratmeter rechtfertigen.
+- **Modernisierungs- und Ausstattungszuschlaege.** Hochwertige Ausstattung kann über dem Mietspiegel-Mittel liegen.
 - **Geringes Angebot bestreiten.** Stand zur Vertragsschluss-Zeit; Leerstandsquote, Online-Inserate, Wohnungsmarkt-Report.
 - **Ausnutzen subjektiv verneinen.** Vermieter konnte nicht erkennen, dass Mieter aus Mangellage zustimmen musste — Indiz: Mieter hatte Alternativangebote.
 - **Verjährung des Bußgeldverfahrens.** § 31 OWiG prüfen; wegen Bußgeldrahmen bis 50.000 EUR liegt die Regelfrist nach § 31 Abs. 2 OWiG regelmäßig bei drei Jahren. Unterbrechungen nach § 33 OWiG gesondert prüfen.
@@ -65,11 +65,11 @@ Unangemessen sind Entgelte, die **infolge der Ausnutzung eines geringen Angebots
 
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
-| Vergleichsmiete-Bestreiten ueber Gutachten | OWi entfaellt | Gutachtenkosten 1500 bis 4000 EUR |
+| Vergleichsmiete-Bestreiten über Gutachten | OWi entfaellt | Gutachtenkosten 1500 bis 4000 EUR |
 | Bestreiten Mangellage | OWi entfaellt | Beweislage abhaengig vom Mietmarkt |
 | Subjektive Komponente Ausnutzen verneinen | Wenigstens Leichtfertigkeit | Bussgeld bleibt |
 | Akzeptanz und Verhandlung Bussgeldhoehe | Schnelle Erledigung | Bussgeld + Mietherabsetzung zivilrechtlich |
-| Einspruch und Hauptverhandlung beim AG | Volle Pruefung | Zeitaufwand, Verfahrenskosten |
+| Einspruch und Hauptverhandlung beim AG | Volle Prüfung | Zeitaufwand, Verfahrenskosten |
 
 ## Konkurrenzen
 
@@ -84,13 +84,13 @@ Unangemessen sind Entgelte, die **infolge der Ausnutzung eines geringen Angebots
 - **Mehrerlös** nach § 8 WiStrG 1954: Der Unterschiedsbetrag zwischen zulässigem und erzieltem Preis ist an das Land abzuführen, soweit nicht aufgrund rechtlicher Verpflichtung zurückerstattet wurde; § 8 Abs. 4 WiStrG 1954 ersetzt insoweit Einziehung nach StGB/OWiG.
 - **Keine Eintragung BZR**, keine Vorstrafe.
 - **Zivilrechtliche Folgen** Mieter kann Mietpreisbremse-Rueckforderung (§ 556g BGB), Mietherabsetzung in die Zukunft, ggf. Schadenersatz.
-- **Weiterer Bussgeldaufstockung** bei wiederholten Verstoessen moeglich (Wiederholungstaeter).
+- **Weiterer Bussgeldaufstockung** bei wiederholten Verstoessen möglich (Wiederholungstaeter).
 
 ## Mustertexte
 
 ### Einspruch Bussgeldbescheid
 
-"Hiermit wird gegen den Bussgeldbescheid des [Bezirksamt] vom [Datum], Az. [...], gemaess § 67 OWiG **Einspruch** eingelegt. Begruendung folgt nach Akteneinsicht. Es wird beantragt, die Akte zur Einsicht zu uebersenden gemaess § 49 OWiG."
+"Hiermit wird gegen den Bussgeldbescheid des [Bezirksamt] vom [Datum], Az. [...], gemäß § 67 OWiG **Einspruch** eingelegt. Begruendung folgt nach Akteneinsicht. Es wird beantragt, die Akte zur Einsicht zu uebersenden gemäß § 49 OWiG."
 
 ### Bestreiten Vergleichsmiete
 

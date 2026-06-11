@@ -13,7 +13,7 @@ description: "Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüf
 
 ## Kernsachverhalt
 
-Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Konformitaet sichergestellt sein. Wesentliche Aspekte: AVV nach Art. 28 DSGVO mit jedem Auftragsverarbeiter, TOM (technisch-organisatorische Massnahmen), Drittlandtransfer-Pruefung (USA-Server problematisch), Einhaltung der Daten-Minimierung. Bei Verstoss: Bussgeld bis 4 Prozent Jahresumsatz.
+Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Konformitaet sichergestellt sein. Wesentliche Aspekte: AVV nach Art. 28 DSGVO mit jedem Auftragsverarbeiter, TOM (technisch-organisatorische Maßnahmen), Drittlandtransfer-Prüfung (USA-Server problematisch), Einhaltung der Daten-Minimierung. Bei Verstoss: Bussgeld bis 4 Prozent Jahresumsatz.
 
 ## Kaltstart-Rueckfragen
 
@@ -21,7 +21,7 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 2. Liegen AVV mit allen Auftragsverarbeitern vor?
 3. Welche Daten werden gespeichert (Mandantendaten, Lohndaten, Mitarbeiterdaten)?
 4. Welcher Server-Standort (EU, Drittland)?
-5. Welche TOM-Massnahmen?
+5. Welche TOM-Maßnahmen?
 6. Welche Mandantenkommunikation Datenschutzhinweise?
 7. Welche Sicherheits-Vorfaelle in der Vergangenheit?
 8. Welche Berufsverschwiegenheit (§ 57 StBerG)?
@@ -44,7 +44,7 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 
 ### Verwaltungsanweisungen
 
-- Aufsichtsbehoerden DSK-Beschluesse.
+- Aufsichtsbehoerden DSK-Beschlüsse.
 - Schrems II-Urteil EuGH (Drittlandtransfer USA).
 
 ## Workflow
@@ -59,22 +59,22 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 | BuchhaltungsButler | Mandanten-Buchhaltung | EU | Ja |
 | Zoom | Videokonferenz | Mix | Ja |
 
-### Phase 2 — AVV-Pruefung Art. 28 DSGVO
+### Phase 2 — AVV-Prüfung Art. 28 DSGVO
 
 - Schriftlicher AVV-Vertrag.
 - Inhalte: Verarbeitungstaetigkeit, Daten-Kategorien, TOM-Bestimmungen, Sub-Verarbeiter, Pflichten beidseitig.
-- Aktualitaet pruefen.
+- Aktualitaet prüfen.
 
-### Phase 3 — Drittlandtransfer Pruefung
+### Phase 3 — Drittlandtransfer Prüfung
 
-- USA-Server: nach Schrems II zusaetzliche Massnahmen erforderlich.
+- USA-Server: nach Schrems II zusaetzliche Maßnahmen erforderlich.
 - Standardvertragsklauseln (SCC).
 - Transfer Impact Assessment (TIA).
 - Bei sensiblen Daten (Mandantenidentifizier, Gesundheitsdaten): EU-Server bevorzugen.
 
-### Phase 4 — TOM-Massnahmen
+### Phase 4 — TOM-Maßnahmen
 
-| Bereich | Massnahmen |
+| Bereich | Maßnahmen |
 |---|---|
 | Vertraulichkeit | Verschluesselung Transport (TLS), Verschluesselung at-rest |
 | Integritaet | Hashverfahren, Audit-Logs |
@@ -82,7 +82,7 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 | Belastbarkeit | Disaster Recovery |
 | Wiederherstellbarkeit | Backup-Restore |
 | Pruefverfahren | Regelmäßige Audits |
-| Pseudonymisierung | wo moeglich |
+| Pseudonymisierung | wo möglich |
 
 ### Phase 5 — Mandantenkommunikation
 
@@ -98,10 +98,10 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 
 ## Strategie und Praxis-Tipps
 
-- Die Berufsverschwiegenheit nach § 57 StBerG ist durch § 203 Abs. 1 Nr. 3 StGB strafrechtlich abgesichert; die Einbeziehung externer Dienstleister (Cloud-Anbieter) erfordert nach § 203 Abs. 3, 4 StGB die schriftliche Verpflichtung des Dienstleisters auf die Schweigepflicht — entsprechende Klauseln im AVV pruefen.
+- Die Berufsverschwiegenheit nach § 57 StBerG ist durch § 203 Abs. 1 Nr. 3 StGB strafrechtlich abgesichert; die Einbeziehung externer Dienstleister (Cloud-Anbieter) erfordert nach § 203 Abs. 3, 4 StGB die schriftliche Verpflichtung des Dienstleisters auf die Schweigepflicht — entsprechende Klauseln im AVV prüfen.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - DSGVO-Bussgelder bis 20 Mio. EUR oder 4 % des weltweiten Jahresumsatzes (Art. 83 Abs. 5 DSGVO) — Compliance unverzichtbar.
-- Jaehrliche DSGVO-Pruefung im Kanzleiteam (Verzeichnis Verarbeitungstaetigkeiten, AVV-Mappe, TOM-Liste aktualisieren).
+- Jaehrliche DSGVO-Prüfung im Kanzleiteam (Verzeichnis Verarbeitungstaetigkeiten, AVV-Mappe, TOM-Liste aktualisieren).
 - StBVV: DSGVO-Compliance-Beratung für Mandanten als separater Auftrag nach § 13 StBVV (Beratung) oder als Bestandteil der Buchfuehrungspauschale.
 
 ## Quellen und Updates
@@ -112,4 +112,4 @@ Stand: 05/2026.
 - StBerG § 57.
 - StGB § 203.
 - Schrems II-Urteil EuGH.
-- DSK-Beschluesse.
+- DSK-Beschlüsse.

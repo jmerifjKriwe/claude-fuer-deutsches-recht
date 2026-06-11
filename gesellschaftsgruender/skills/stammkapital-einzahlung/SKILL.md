@@ -162,7 +162,7 @@ Die Einlage muss **endgültig** und **uneingeschraenkt** beim GF zur freien Verf
 - Kapitalerhöhung auf 25.000 EUR (typisch durch Kapitalerhöhung aus Ruecklage oder Bareinzahlung)
 - Notarielle Beurkundung (Paragraf 53 II GmbHG)
 - Handelsregister-Eintragung
-- Bei Erreichen 25.000 EUR: Umfirmierung zur GmbH zulaessig
+- Bei Erreichen 25.000 EUR: Umfirmierung zur GmbH zulässig
 
 ### Bei späteren Finanzierungsrunden
 
@@ -196,7 +196,7 @@ Die Einlage muss **endgültig** und **uneingeschraenkt** beim GF zur freien Verf
 
 ## 10) Bei Auslandsgesellschaftern
 
-- Ausländische Quellen sind zulaessig
+- Ausländische Quellen sind zulässig
 - Aber: GwG-Prüfung der Bank prüft Herkunft (Quelle der Mittel)
 - Bei Hochrisiko-Ländern (Sanktionen) ggf. Verweigerung der Konto-Eröffnung
 
@@ -214,7 +214,7 @@ Klaere vor Anmeldung beim HR:
 2. **Bar- oder Sachgruendung?** Bar: Konto-Bestätigung; Sach: Werthaltigkeitsnachweis und Sachgruendungsbericht.
 3. **Hin- und Herzahlen-Risiko?** Steht zeitnah ein Kauf vom Gesellschafter an? Vorsicht § 19 V GmbHG.
 4. **Vorratsgesellschaft?** Wird eine bestehende GmbH neu aktiviert? Dann neue Einzahlung erforderlich.
-5. **Auslaendische Gesellschafter?** GwG-Pruefung der Bank kann Konto-Eroeffnung verzoegern.
+5. **Auslaendische Gesellschafter?** GwG-Prüfung der Bank kann Konto-Eroeffnung verzoegern.
 6. **Gesellschaftskonto bereits eroeffnet?** Frist zum Notar-Termin beachten (2-7 Tage Bankprozess).
 
 ## Aktuelle Rechtsprechung

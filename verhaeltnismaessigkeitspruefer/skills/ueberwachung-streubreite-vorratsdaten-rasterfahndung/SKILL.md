@@ -11,7 +11,7 @@ description: "Sicherheits- und Ueberwachungsmassnahmen verhaeltnismaessig pruefe
 - Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG: informationelle Selbstbestimmung.
 - Art. 13 GG: Unverletzlichkeit der Wohnung bei heimlicher technischer Ueberwachung.
 - Art. 19 Abs. 1 Satz 2 GG: Zitiergebot bei Grundrechtseinschraenkung.
-- Art. 20 Abs. 3 GG: Bestimmtheit, Normklarheit, Verhaeltnismaessigkeit.
+- Art. 20 Abs. 3 GG: Bestimmtheit, Normklarheit, Verhältnismäßigkeit.
 - § 100a StPO, § 100b StPO, § 100g StPO: strafprozessuale Telekommunikations- und IT-Ermittlungen als Vergleichsfolie.
 - §§ 48 ff. BDSG bzw. DSGVO/BDSG-Schnittstellen: Verarbeitung, Zweckbindung, Loeschung je nach Bereich.
 
@@ -30,7 +30,7 @@ description: "Sicherheits- und Ueberwachungsmassnahmen verhaeltnismaessig pruefe
 
 ## Arbeitsauftrag
 
-Pruefe Ueberwachungsmassnahmen nicht nur ueber "Sicherheitszweck ja/nein". Entscheidend sind Streubreite, Anlassnaehe, Heimlichkeit, Datenqualitaet, Auswertungsrisiko, Zweckbindung, Loeschung und effektiver Rechtsschutz.
+Prüfe Ueberwachungsmassnahmen nicht nur über "Sicherheitszweck ja/nein". Entscheidend sind Streubreite, Anlassnaehe, Heimlichkeit, Datenqualitaet, Auswertungsrisiko, Zweckbindung, Loeschung und effektiver Rechtsschutz.
 
 ## Intensitaetsmatrix
 
@@ -46,12 +46,12 @@ Pruefe Ueberwachungsmassnahmen nicht nur ueber "Sicherheitszweck ja/nein". Entsc
 ## Vier Stufen
 
 1. **Legitimer Zweck:** konkrete Gefahrenabwehr oder Strafverfolgung; abstrakte Sicherheitsrhetorik reicht nicht.
-2. **Geeignetheit:** Daten muessen den Zweck tatsaechlich foerdern; blosses "koennte nuetzlich sein" kritisch markieren.
-3. **Erforderlichkeit:** zielgenauere Abfrage, kuerzere Speicherdauer, richterliche Anordnung, Stichprobe, offene Befragung, technische Filter pruefen.
+2. **Geeignetheit:** Daten müssen den Zweck tatsaechlich foerdern; blosses "koennte nuetzlich sein" kritisch markieren.
+3. **Erforderlichkeit:** zielgenauere Abfrage, kuerzere Speicherdauer, richterliche Anordnung, Stichprobe, offene Befragung, technische Filter prüfen.
 4. **Angemessenheit:** Streubreite und Heimlichkeit gegen Gewicht der Gefahr; bei vielen Unbeteiligten steigen Normklarheit und Sicherungen.
 
 ## Output
 
 - Grundrechtseingriffsprofil als Tabelle.
 - Sicherungskatalog: Zweckbindung, Zugriffskreis, Protokollierung, Loeschung, Benachrichtigung, Rechtsschutz.
-- Angriffslinie fuer Verfassungsbeschwerde oder Fachgericht: fehlende konkrete Gefahr, zu weite Datenkategorien, unzureichende Schwellen, fehlende Kontrolle.
+- Angriffslinie für Verfassungsbeschwerde oder Fachgericht: fehlende konkrete Gefahr, zu weite Datenkategorien, unzureichende Schwellen, fehlende Kontrolle.

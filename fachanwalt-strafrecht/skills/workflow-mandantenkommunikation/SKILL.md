@@ -34,7 +34,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Pflicht-Hinweise im Strafrecht**: § 137 StPO Mandat als Verteidiger; § 43a Abs. 2 BRAO Mandantengeheimnis (Schweigerecht / -pflicht des Verteidigers § 53 I Nr. 2 StPO); klare Belehrung zur Eigenbelastungsfreiheit nemo tenetur Art. 2 i.V.m. 1 I GG.
 - **Aussageverhalten** dokumentieren: ausdruecklich raten zur Verweigerung der Aussage bis vollstaendige Akteneinsicht (§ 136 I 2 StPO Schweigerecht); keine telefonischen Angaben gegenueber Polizei ohne Vorbereitung.
 - **Strategie-Entscheidungen** brauchen Mandantenfreigabe vorab und schriftlich: Strafbefehl Einspruch / Verteidigungslinie / Gestaendnisbereitschaft / Verstaendigung § 257c StPO / TOA § 46a StGB / Rechtsmittelverzicht.
-- **Kosten transparent machen:** RVG-Verguetung (insb. Hauptverhandlungstermine, Akteneinsicht VV 4100 ff. RVG); Honorarvereinbarung § 3a RVG schriftlich; Pflichtverteidigung §§ 140-141 StPO Kostenfolgen Mandant bei Verurteilung.
+- **Kosten transparent machen:** RVG-Vergütung (insb. Hauptverhandlungstermine, Akteneinsicht VV 4100 ff. RVG); Honorarvereinbarung § 3a RVG schriftlich; Pflichtverteidigung §§ 140-141 StPO Kostenfolgen Mandant bei Verurteilung.
 - **Haftbesuch / Verteidigergespraech in JVA:** schriftliche Vorbereitung; bei U-Haft ungestoerter Verteidigerkontakt § 148 StPO (Ausnahme: Untersagung bei §§ 129a, 129b StGB Verdacht).
 - **Schweigepflichtentbindung** für Aerzte/Therapeuten nur eng abgrenzen.
 - **Sprachbarriere**: Dolmetscher § 187 GVG zwingend; bei Auslaender Pflichtverteidigerbestellung § 140 II StPO erweitert.

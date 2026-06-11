@@ -51,8 +51,8 @@ Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrig
 
 1. **Anhörungsschreiben analysieren**: Vorwurf, Norm, Tatzeit, Beweismittel, gesetzte Frist.
 2. **Akteneinsicht beantragen** (§ 49 OWiG): Vollstaendige Akte — Messberichte, Kontrolle-Protokolle, Zeugenaussagen.
-3. **Schuld pruefen**: Vorsatz / Fahrlassigkeit, Zurechnung auf Mandant, Delegationskette.
-4. **Verjaeahrung pruefen**: § 31 OWiG; Unterbrechung durch Anhörung (§ 33 OWiG).
+3. **Schuld prüfen**: Vorsatz / Fahrlassigkeit, Zurechnung auf Mandant, Delegationskette.
+4. **Verjaeahrung prüfen**: § 31 OWiG; Unterbrechung durch Anhörung (§ 33 OWiG).
 5. **Verteidigungsschrift einreichen**: Tatsachen und Recht; Antrag auf Einstellung oder Bussgeld-Reduzierung.
 6. **Einspruch bei Bescheid**: § 67 OWiG — 2 Wochen-Frist ab Bekanntgabe; Einspruch hemmt Rechtskraft.
 7. **Amtsgericht**: Hauptverhandlung § 68 OWiG — Zeugenbefragung, Sachverstaendige; Strafverfahren § 70 KrWG / § 326 StGB separat.
@@ -71,7 +71,7 @@ Anhörungsschreiben erhalten
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -116,7 +116,7 @@ Wir beantragen, das Verfahren einzustellen.
 Anlagen: Betriebsprotokoll, Wartungsnachweise, Vollmacht
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -131,7 +131,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - Behörde kann gegen jur. Person Bussgeld festsetzen, wenn GF/Organ Pflicht verletzt.
 - Bussgeld bis 10 Mio. EUR (§ 30 Abs. 2 OWiG) bei Vorsatz; bei Fahrlassigkeit Haelfte.
-- Selbststaendiges Verfahren gegen jur. Person neben Verfahren gegen natuerliche Person moeglich.
+- Selbststaendiges Verfahren gegen jur. Person neben Verfahren gegen natuerliche Person möglich.
 - Verteidigung: Mangelnde Zurechnung der Handlung, fehlende Aufsichtspflichtverletzung § 130 OWiG.
 
 ## Fristen im Ueberblick

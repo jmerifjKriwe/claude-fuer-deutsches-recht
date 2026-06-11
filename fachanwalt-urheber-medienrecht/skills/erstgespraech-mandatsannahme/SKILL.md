@@ -51,7 +51,7 @@ description: "Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und
 - Bisherige Korrespondenz (Abmahnung, einstweilige Verfuegung, Gegendarstellungsverlangen)
 - **Fristenscreening sofort:** Antwortfristen aus Abmahnungen, Reaktionsfrist auf einstweilige Verfuegung, Gegendarstellungsfristen nach LPG
 
-### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
+### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
 
 - Konflikt-Check: frueheres Mandat mit Gegenseite oder Sachzusammenhang?
 - GwG-Identifizierung: Lichtbildausweis, bei juristischer Person Handelsregisterauszug

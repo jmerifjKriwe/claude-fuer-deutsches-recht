@@ -69,7 +69,7 @@ f) Alle geschlossenen Gaps archivieren
 
 ## Zentrale Normen (Paragrafenkette)
 
-Art. 20 Abs. 3 GG (Bindung an Gesetz und Recht, Rechtsluecken-Klaerung) — §§ 133, 157 BGB (Auslegungsgrundsaetze) — § 5 EGBGB (Analogie bei Rechtsluecken im Privatrecht) — §§ 13, 31 EnWG (Luecken in Regulierungs-Normen)
+Art. 20 Abs. 3 GG (Bindung an Gesetz und Recht, Rechtsluecken-Klärung) — §§ 133, 157 BGB (Auslegungsgrundsaetze) — § 5 EGBGB (Analogie bei Rechtsluecken im Privatrecht) — §§ 13, 31 EnWG (Luecken in Regulierungs-Normen)
 
 ## Quellen und Zitierweise
 

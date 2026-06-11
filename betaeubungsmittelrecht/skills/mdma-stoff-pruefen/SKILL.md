@@ -3,7 +3,7 @@ name: mdma-stoff-pruefen
 description: "MDMA: Stoff prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Mdma Stoff Pruefen
+# Mdma Stoff Prüfen
 
 ## Arbeitsweg
 

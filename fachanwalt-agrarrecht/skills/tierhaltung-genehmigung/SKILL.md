@@ -156,14 +156,14 @@ description: "Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwert
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Neuantrag Tierhaltungsgenehmigung BImSchG | Genehmigungsverfahren-Schema unten |
 | Variante A — Erweiterung unter BImSchG-Schwellenwert | Nur Baugenehmigungsverfahren; BImSchV nicht noetig |
-| Variante B — Nachbarn klagen wegen Immissionen | Verwaltungsrechtlichen Schutz und ggf. Anpassungsauflage pruefen |
-| Variante C — Bestandsanlage soll veraendert werden | Aenderungsgenehmigung § 15 BImSchG; Wesentlichkeitsschwelle pruefen |
+| Variante B — Nachbarn klagen wegen Immissionen | Verwaltungsrechtlichen Schutz und ggf. Anpassungsauflage prüfen |
+| Variante C — Bestandsanlage soll veraendert werden | Aenderungsgenehmigung § 15 BImSchG; Wesentlichkeitsschwelle prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -204,7 +204,7 @@ den Bescheid aufzuheben und die Genehmigung zu erteilen.
 [Rechtsanwalt/-anwaeltin, Fachanwalt für Agrarrecht]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

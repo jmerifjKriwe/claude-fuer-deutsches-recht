@@ -18,9 +18,9 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 | Vollstreckungsbescheid rechtskraeftig | vollstreckungsbescheid-folgen | zwangsvollstreckung-ueberblick |
 | Urteil rechtskraeftig | zwangsvollstreckung-ueberblick | forderung-im-ausland-vollstrecken bei Auslandsbezug |
 | Schuldner zahlungsunfaehig Insolvenzantrag bekannt | forderung-gegen-insolventen-schuldner | InsO-Anmeldung 174 |
-| Forderung aus Urkunde Vertrag oder Scheck | urkundenprozess-pruefen | zahlungsklage-erstellen |
+| Forderung aus Urkunde Vertrag oder Scheck | urkundenprozess-prüfen | zahlungsklage-erstellen |
 | Werkvertragsforderung Bau | forderung-werkvertrag-bau | mahnverfahren-bauleiter |
-| Anwaltshonorar Streit ueber RVG-Rechnung | forderung-anwaltshonorar-rvg | klagefreigabe-belegte-forderung |
+| Anwaltshonorar Streit über RVG-Rechnung | forderung-anwaltshonorar-rvg | klagefreigabe-belegte-forderung |
 | Arzthonorar GOAE-Streit | forderung-arzthonorar-goae | klagefreigabe-belegte-forderung |
 | Mietrueckstand | forderung-mietrueckstand-zahlungsklage | mahnbescheid-online bei reinem Zahlungsanspruch |
 | Forderung gegen GmbH Geschaeftsfuehrer | forderung-gegen-gmbh-gesellschafter | zahlungsklage-erstellen |
@@ -30,7 +30,7 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 
 | Stop wenn | Begruendung |
 |---|---|
-| Forderung verjaehrt nach Pruefung in verjaehrung-pruefen | Klage waere unbegruendet wenn Einrede erhoben wird |
+| Forderung verjaehrt nach Prüfung in verjaehrung-prüfen | Klage waere unbegruendet wenn Einrede erhoben wird |
 | Schuldner verstorben Erben unklar | erst Erbenermittlung dann gesonderter Skill |
 | Mandant ohne Klagewunsch trotz Aussicht | Aktenvermerk nach belegte-compliance-aktenvermerk dann Wiedervorlage |
 

@@ -3,9 +3,9 @@ name: verjaehrung-pruefen
 description: "Verjährung pruefen: Regelverjaehrung § 195 BGB drei Jahre, Beginn § 199 BGB Schluss des Jahres mit Kenntnis. Hoechstfristen § 199 Abs. 2-4 BGB (10/30 Jahre). Hemmung § 203 BGB (Verhandlungen), § 204 BGB (Rechtsverfolgung). Neubeginn § 212 BGB (Anerkenntnis, Vollstreckung). Sonderfristen § 196 BGB..."
 ---
 
-# Verjährung pruefen
+# Verjährung prüfen
 
-Pruefung, ob eine Forderung noch durchsetzbar ist oder verjaehrt ist. Verjährungseinrede ist materielles Leistungsverweigerungsrecht (§ 214 BGB), wird nur auf Einrede beachtet.
+Prüfung, ob eine Forderung noch durchsetzbar ist oder verjaehrt ist. Verjährungseinrede ist materielles Leistungsverweigerungsrecht (§ 214 BGB), wird nur auf Einrede beachtet.
 
 ## Verjährungsfristen-Tabelle
 
@@ -25,7 +25,7 @@ Pruefung, ob eine Forderung noch durchsetzbar ist oder verjaehrt ist. Verjährun
 
 Regelverjaehrung beginnt mit **Schluss des Jahres**, in dem
 1. der Anspruch entstanden ist UND
-2. der Glaeubiger Kenntnis der anspruchsbegruendenden Umstaende und der Person des Schuldners hat oder ohne grobe Fahrlaessigkeit haette haben muessen.
+2. der Glaeubiger Kenntnis der anspruchsbegruendenden Umstaende und der Person des Schuldners hat oder ohne grobe Fahrlaessigkeit haette haben müssen.
 
 **Hoechstfristen** (kenntnisunabhaengig):
 - § 199 Abs. 2 BGB: 30 Jahre bei Leben/Koerper/Gesundheit/Freiheit
@@ -37,13 +37,13 @@ Regelverjaehrung beginnt mit **Schluss des Jahres**, in dem
 
 ## Hemmung § 203 BGB – Verhandlungen
 
-Schweben Verhandlungen zwischen den Parteien ueber den Anspruch oder die anspruchsbegruendenden Umstaende, ist die Verjährung gehemmt, **bis der eine oder andere Teil die Fortsetzung der Verhandlungen verweigert**. Die Verjährung tritt frueherstens drei Monate nach Ende der Hemmung ein.
+Schweben Verhandlungen zwischen den Parteien über den Anspruch oder die anspruchsbegruendenden Umstaende, ist die Verjährung gehemmt, **bis der eine oder andere Teil die Fortsetzung der Verhandlungen verweigert**. Die Verjährung tritt frueherstens drei Monate nach Ende der Hemmung ein.
 
-Verhandlungen: jeder Meinungsaustausch ueber den Anspruch oder Umstaende, ausser bei sofortiger Ablehnung (BGH IX ZR 113/13).
+Verhandlungen: jeder Meinungsaustausch über den Anspruch oder Umstaende, ausser bei sofortiger Ablehnung (BGH IX ZR 113/13).
 
 ## Hemmung § 204 BGB – Rechtsverfolgung
 
-| Massnahme | Hemmungsbeginn |
+| Maßnahme | Hemmungsbeginn |
 |---|---|
 | Klageerhebung | mit Zustellung (Rueckwirkung § 167 ZPO bei "demnaechst") |
 | Mahnbescheid | mit Zustellung |
@@ -68,8 +68,8 @@ Die Verjährung beginnt **erneut**, wenn
 1. **Anspruch bestimmen** (Kaufpreis, Werklohn, Schadensersatz, Bereicherung).
 2. **Frist ermitteln** (Tabelle oben).
 3. **Beginn ermitteln**: Schluss des Jahres mit Kenntnis (§ 199 Abs. 1 BGB) ODER objektiver Beginn (§ 199 Abs. 2-4 BGB).
-4. **Hemmungen pruefen**: Verhandlungen, Klage, Mahnbescheid, Streitverkuendung, Vollstreckung.
-5. **Neubeginn pruefen**: Anerkenntnis, Teilzahlung, Vollstreckungshandlung.
+4. **Hemmungen prüfen**: Verhandlungen, Klage, Mahnbescheid, Streitverkuendung, Vollstreckung.
+5. **Neubeginn prüfen**: Anerkenntnis, Teilzahlung, Vollstreckungshandlung.
 6. **Ergebnis**: Verjährungsdatum berechnen, Restlaufzeit notieren.
 
 ## Beispielrechnung
@@ -86,9 +86,9 @@ Rechnung 15.04.2023, faellig sofort, Kenntnis bei Glaeubiger 15.04.2023.
 
 - Materielles Leistungsverweigerungsrecht (§ 214 Abs. 1 BGB)
 - Nicht von Amts wegen zu beruecksichtigen
-- Muss spaetestens in der muendlichen Verhandlung gegen den Klaeger erhoben werden
+- Muss spaetestens in der muendlichen Verhandlung gegen den Kläger erhoben werden
 - Praeklusion § 296 ZPO bei spaetem Vorbringen
-- Verzicht moeglich (§ 202 BGB Beschraenkung, vorab unzulaessig für Vorsatz)
+- Verzicht möglich (§ 202 BGB Beschraenkung, vorab unzulaessig für Vorsatz)
 
 ## Quellen
 - BGB § 195 [gesetze-im-internet.de/bgb/__195.html](https://www.gesetze-im-internet.de/bgb/__195.html)

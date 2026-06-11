@@ -22,7 +22,7 @@ description: "Investitionspruefung bei Erwerb kritischer Infrastruktur (KRITIS) 
 ## Erste Schritte
 
 1. Zielunternehmen einem KRITIS-Sektor nach AWV Anhang A zuordnen.
-2. Erwerber auf Drittstaats-Eigenschaft pruefen (Nicht-EU/EFTA/NATO).
+2. Erwerber auf Drittstaats-Eigenschaft prüfen (Nicht-EU/EFTA/NATO).
 3. Anteilsschwelle 10 % bei KRITIS-Sektor bestimmen; Vollzugsverbot beachten.
 4. BMWK-Anmeldung vorbereiten: Gesellschaftsstruktur, Geschaftstaetigkeit, Sicherheitskonzept.
 5. Moegliche Auflagen und Sicherheitszusagen mit BMWK abstimmen.
@@ -47,10 +47,10 @@ description: "Investitionspruefung bei Erwerb kritischer Infrastruktur (KRITIS) 
 
 ## Typische Fallstricke
 
-- Intrakonzern-Restrukturierungen fallen ebenfalls unter KRITIS-Pruefung wenn Drittstaatsbezug besteht.
+- Intrakonzern-Restrukturierungen fallen ebenfalls unter KRITIS-Prüfung wenn Drittstaatsbezug besteht.
 - Mittelbare Kontrolle (Vetomacht, Aufsichtsratssitz) kann Anmeldepflicht auslosen.
-- BMWK-Pruefung kann Closing erheblich verzoegern; M&A-Zeitplan muss 6+ Monate einplanen.
-- Auflagen koennen Betriebsmodell verandern; Auflagenrisiko als wesentlicher M&A-Risikofaktor.
+- BMWK-Prüfung kann Closing erheblich verzoegern; M&A-Zeitplan muss 6+ Monate einplanen.
+- Auflagen können Betriebsmodell verandern; Auflagenrisiko als wesentlicher M&A-Risikofaktor.
 
 ## Schnittstellen zu anderen Skills
 

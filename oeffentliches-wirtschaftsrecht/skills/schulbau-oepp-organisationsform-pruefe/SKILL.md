@@ -3,7 +3,7 @@ name: schulbau-oepp-organisationsform-pruefe
 description: "Schulbau-ÖPP: Organisationsform prüfen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Schulbau Oepp Organisationsform Pruefe
+# Schulbau Oepp Organisationsform Prüfe
 
 ## Arbeitsweg
 

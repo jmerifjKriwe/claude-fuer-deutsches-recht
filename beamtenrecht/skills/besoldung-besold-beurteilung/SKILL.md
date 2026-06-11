@@ -33,7 +33,7 @@ description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung 
 
 ## Konkurrentenfall: Vergleichsbeurteilung
 
-- Bei Auswahlverfahren muessen alle Beurteilungen vergleichbar sein.
+- Bei Auswahlverfahren müssen alle Beurteilungen vergleichbar sein.
 - Sonst: Auswahl rechtsfehlerhaft.
 
 ## Klagewege

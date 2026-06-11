@@ -34,9 +34,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## OWi-Einspruch / Dokumentenmatrix - Bausteine
 - **Pflichtdokumente bei Einspruch § 67 OWiG:** Bussgeldbescheid mit Datum Zustellung; Einspruchsschreiben unterschrieben; Vollmacht Verteidiger.
-- **Messverfahren-Pruefung Lueckenliste:**
+- **Messverfahren-Prüfung Lueckenliste:**
  - **Eichschein** Geraet im Tatzeitraum gueltig? (Eichordnung; regelmaessig 1 Jahr).
- - **Bedienerschein / Schulungsnachweis** Messbeamter? (gemaess PTB-Anforderungen).
+ - **Bedienerschein / Schulungsnachweis** Messbeamter? (gemäß PTB-Anforderungen).
  - **Lebensakte Geraet** komplett? (Reparaturen, Software-Updates).
  - **Messprotokoll** ordnungsgemaess gefuehrt? (Datum, Zeit, Aufstellort, Witterung).
  - **Rohdaten** (.case / .esa / Statistik): Anspruch auf Herausgabe nach BVerfG-Linie zur fair-trial-Garantie - vom OLG zunehmend bejaht; ggf. Verfassungsbeschwerde bei Verweigerung.
@@ -45,10 +45,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Spezifische Geraete-Schwaechen:**
  - **Poliscan F1HP / FM1**: bekannte Diskussionen zu Photopositionierung, Rohdaten-Verfuegbarkeit.
  - **Leivtec XV3**: Verfahren bei AG/OLG bei systematischen Messfehlern.
- - **ES 8.0 / 3.0**: Smear-Effekt bei schnellen Fahrzeugen, Photolinien-Pruefung.
+ - **ES 8.0 / 3.0**: Smear-Effekt bei schnellen Fahrzeugen, Photolinien-Prüfung.
  - **TraffiStar S330**: stationaerer Blitzer, Rohdaten kontrovers.
  - **VKS 3.0 / VPS 3.0**: Video-Nachverfolgung.
-- **Fahrerermittlung** § 25 StVG: Lichtbildqualitaet (Aehnlichkeitsabgleich); Fahrtenbuchauflage § 31a StVZO nach Verfahrenseinstellung moeglich.
+- **Fahrerermittlung** § 25 StVG: Lichtbildqualitaet (Aehnlichkeitsabgleich); Fahrtenbuchauflage § 31a StVZO nach Verfahrenseinstellung möglich.
 - **Beschraenkungsmoeglichkeiten:** Einspruch auf Rechtsfolgenausspruch (analog § 410 II StPO; gilt auch im OWi-Verfahren).
 - **Nachforderungs-Schreiben** mit konkreter Liste und Frist; ggf. Beweisantrag § 244 StPO i.V.m. § 71 OWiG.
 

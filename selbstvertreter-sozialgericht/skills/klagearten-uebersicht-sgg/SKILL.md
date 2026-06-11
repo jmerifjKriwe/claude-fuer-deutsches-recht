@@ -13,7 +13,7 @@ description: "Welche Klage passt zu Ihrem Fall. Anfechtungs- Verpflichtungs- Lei
 
 ## Worum geht es?
 
-Vor dem Sozialgericht gibt es verschiedene Arten von Klagen. Welche für Sie passt, haengt davon ab, was Sie wollen. Diese Skill zeigt die wichtigsten Klagearten in einer Uebersicht.
+Vor dem Sozialgericht gibt es verschiedene Arten von Klagen. Welche für Sie passt, haengt davon ab, was Sie wollen. Diese Skill zeigt die wichtigsten Klagearten in einer Übersicht.
 
 ## In einfacher Sprache
 
@@ -94,15 +94,15 @@ Wann: Behörde tut nichts seit mindestens
 - **6 Monaten** nach Antragstellung (Bescheid steht aus), oder
 - **3 Monaten** nach Widerspruch (Widerspruchsbescheid steht aus).
 
-Antrag: "Die Beklagte wird verurteilt, ueber meinen Antrag vom [Datum] / Widerspruch vom [Datum] zu entscheiden."
+Antrag: "Die Beklagte wird verurteilt, über meinen Antrag vom [Datum] / Widerspruch vom [Datum] zu entscheiden."
 
 Siehe `untaetigkeitsklage-88-sgg`.
 
 ### Schritt 8 — Im Zweifel kombinieren
 
-Sie koennen Anfechtungs- und Verpflichtungs- und Leistungsklage in einer Klage stellen. Die Geschaeftsstelle hilft bei der Formulierung.
+Sie können Anfechtungs- und Verpflichtungs- und Leistungsklage in einer Klage stellen. Die Geschaeftsstelle hilft bei der Formulierung.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Klage in der richtigen Form**: schriftlich oder zur Niederschrift bei der Geschaeftsstelle. Siehe `klage-zur-niederschrift-90-sgg`.
 - **Klagebegruendung kann nachgereicht werden**: Erstmal nur Klage einlegen, dann begruenden.

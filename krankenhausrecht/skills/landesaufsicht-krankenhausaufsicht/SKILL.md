@@ -19,7 +19,7 @@ description: "Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit, Hygiene, Personal- und Geraeteausstattung. Werkzeuge: Beanstandung, Auflagen, Anordnung, Bussgeld, im Extremfall Schliessung oder Herausnahme aus dem Krankenhausplan.
+Die Landeskrankenhausaufsicht prüft strukturelle Maengel, Versorgungssicherheit, Hygiene, Personal- und Geraeteausstattung. Werkzeuge: Beanstandung, Auflagen, Anordnung, Bussgeld, im Extremfall Schliessung oder Herausnahme aus dem Krankenhausplan.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Aufsichtsbehoerde (Bezirksregierung, Landesministerium, Gesundheitsamt) handelt?
@@ -39,14 +39,14 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 ## / Schritt für Schritt
 1. **Aufsichtsbehoerde und Anlass identifizieren:** Routineprueung, Beschwerde, MD-Bericht, Vorfall?
 2. **Anhörung wahrnehmen:** Sachverhaltsdarstellung, Gegendarstellung, Sachverstaendigenstellungnahme.
-3. **Bescheid pruefen:** Auflage, Anordnung, Bussgeld, Schliessungsdrohung; Ermessen und Verhaeltnismaessigkeit.
+3. **Bescheid prüfen:** Auflage, Anordnung, Bussgeld, Schliessungsdrohung; Ermessen und Verhältnismäßigkeit.
 4. **Frist sichern:** Widerspruch (wenn vorgesehen) oder Klage binnen 1 Monat.
-5. **Massnahmen umsetzen:** Auflagen erfuellen, Nachweis fuehren, Aufsichtsdialog suchen.
+5. **Maßnahmen umsetzen:** Auflagen erfuellen, Nachweis fuehren, Aufsichtsdialog suchen.
 6. **Rechtsschutz:** Klage VG, ggf. einstweiliger Rechtsschutz § 80 Abs. 5 VwGO (insbesondere bei Sofortvollzug).
 
 ## Trade-off-Matrix
 
-| Massnahme Aufsicht | Reaktion | Risiko |
+| Maßnahme Aufsicht | Reaktion | Risiko |
 |---|---|---|
 | Beanstandung mit Frist | Anhörungsstellungnahme + Plan | i. d. R. heilbar |
 | Anordnung mit Sofortvollzug | einstweiliger Rechtsschutz | Verfahrensdauer |
@@ -62,7 +62,7 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 
 ## Mustertexte
 **Stellungnahme auf Anhörung:**
-> Sehr geehrte Damen und Herren, zu Ihrer Beanstandung vom [Datum] nehmen wir wie folgt Stellung. Die festgestellten Maengel sind teilweise abgestellt: 1. … (Belege Anlage A). Verbleibende Massnahmen erfolgen bis [Frist]. Wir bitten von belastenden Anordnungen abzusehen und um Aufsichtsdialog.
+> Sehr geehrte Damen und Herren, zu Ihrer Beanstandung vom [Datum] nehmen wir wie folgt Stellung. Die festgestellten Maengel sind teilweise abgestellt: 1. … (Belege Anlage A). Verbleibende Maßnahmen erfolgen bis [Frist]. Wir bitten von belastenden Anordnungen abzusehen und um Aufsichtsdialog.
 
 **Klage VG mit Eilantrag:**
 > Klageantrag: Der Bescheid vom [Datum] wird aufgehoben. Eilantrag § 80 Abs. 5 VwGO: Die aufschiebende Wirkung der Klage wird wiederhergestellt. Begruendung: 1. Bescheid ist rechtswidrig (Sachverhalt, Ermessensfehler) … 2. Aussetzungsinteresse ueberwiegt …
@@ -70,12 +70,12 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 ## Typische Fehler
 - Anhörung formelhaft beantwortet — Sachverhalt nicht widerlegt.
 - Frist Widerspruch/Klage versaeumt — Bestandskraft.
-- Sofortvollzug uebersehen — Massnahme wird umgesetzt.
+- Sofortvollzug uebersehen — Maßnahme wird umgesetzt.
 - Aufsichtsdialog verweigert — Eskalation zur Schliessungsanordnung.
 
 ## Quellen Stand 06/2026
 - Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
 - Landes-VwVfG / Bundes-VwVfG §§ 28, 35 ff., 48, 49.
 - IfSG §§ 23, 36.
-- BVerwG, staend. Rspr. zu Aufsichtsmassnahmen und Verhaeltnismaessigkeit.
+- BVerwG, staend. Rspr. zu Aufsichtsmassnahmen und Verhältnismäßigkeit.
 - VwGO §§ 42, 80, 113.

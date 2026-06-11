@@ -88,7 +88,7 @@ b) Hilfsweise: Einholung eines weiteren Gutachtens nach § 109 SGG durch Prof. D
 
 ### Schritt 3 — Erlaeuterung in der muendlichen Verhandlung
 
-Beantragen Sie ausdruecklich, dass der Gutachter im Termin erscheint. So koennen Sie ihn fragen.
+Beantragen Sie ausdruecklich, dass der Gutachter im Termin erscheint. So können Sie ihn fragen.
 
 Vorbereitung:
 
@@ -112,9 +112,9 @@ Nur, wenn der Gutachter sich klar parteiisch geaeussert hat oder andere Befangen
 
 ### Schritt 7 — Geduldig bleiben
 
-Das Gericht prueft Stellungnahme und ggf. Erlaeuterung. Eine Entscheidung dauert.
+Das Gericht prüft Stellungnahme und ggf. Erlaeuterung. Eine Entscheidung dauert.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sachliche Kritik**: keine Beleidigungen, keine Wuetenden Saetze.
 - **Mit Belegen**: Jeder Punkt mit Beleg (Attest, Zeugenname).

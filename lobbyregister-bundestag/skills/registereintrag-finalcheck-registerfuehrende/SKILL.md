@@ -37,9 +37,9 @@ Vor Freigabe muss geprueft werden, ob mehrere Registerentwuerfe dieselbe juristi
 Der Finalcheck hat zwei Zeitpunkte:
 
 1. **Vor Portalabgabe:** Interne Daten mit `assets/templates/registerdaten-json-mapping.md` JSON-nah auf das öffentliche Schema mappen. Das Mapping ist nur QA, keine Einreichung.
-2. **Nach Veroeffentlichung:** Oeffentlichen Registereintrag per API V2 oder JSON-Download abrufen und mit `assets/templates/registerexport-diff.md` gegen die Freigabeakte pruefen.
+2. **Nach Veroeffentlichung:** Oeffentlichen Registereintrag per API V2 oder JSON-Download abrufen und mit `assets/templates/registerexport-diff.md` gegen die Freigabeakte prüfen.
 
-Im Nachcheck mindestens pruefen: Registernummer, Version, Gesetzeslage, Aktivstatus, Name/Rechtstraeger, Adresse, Niederlassungen, betraute Personen, VZAE, Taetigkeitsbeschreibung, Interessenbereiche, Regelungsvorhaben, Stellungnahmen, Auftraggeber, Unterauftragnehmer, Finanzaufwendungen, Zuwendungen, Schenkungen, Berichte, Verhaltenskodex, verweigerte Angaben, verspaetete Aktualisierung und Kodexverstoesse.
+Im Nachcheck mindestens prüfen: Registernummer, Version, Gesetzeslage, Aktivstatus, Name/Rechtstraeger, Adresse, Niederlassungen, betraute Personen, VZAE, Taetigkeitsbeschreibung, Interessenbereiche, Regelungsvorhaben, Stellungnahmen, Auftraggeber, Unterauftragnehmer, Finanzaufwendungen, Zuwendungen, Schenkungen, Berichte, Verhaltenskodex, verweigerte Angaben, verspaetete Aktualisierung und Kodexverstoesse.
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572

@@ -44,7 +44,7 @@ Der Anspruchsentwurf ist roh oder KI-generiert.
 4. Aequivalenzraum durch sprachlich offene Begriffe (z. B. "im Wesentlichen") wahren.
 
 ### BGH-Linie
-- BGH X ZR 95/05 "Schneidmesser" — Aequivalenz auch im Gebrauchsmusterrecht.
+- BGH X ZR 95/05 "Schneidmesser" — Äquivalenz auch im Gebrauchsmusterrecht.
 - Patent-Disclaimer-Entscheidungen nicht als Standardanker für Gebrauchsmuster-Auslegung verwenden; für den erfinderischen Schritt im Gebrauchsmusterrecht vorrangig BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank) heranziehen und vor Ausgabe frei prüfen.
 
 ## Quellen-Hardening

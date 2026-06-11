@@ -34,8 +34,8 @@ Die Erfindung stammt aus Team, Labor oder Dienstverhältnis.
 - **§ 5 ArbnErfG**: Meldepflicht der Diensterfindung an den Arbeitgeber unverzueglich.
 - **§ 6 ArbnErfG**: Arbeitgeber kann innerhalb von **vier Monaten** die Diensterfindung in Anspruch nehmen (Reform 2009: Inanspruchnahme-Fiktion bei Schweigen, frueher musste der Arbeitgeber aktiv handeln).
 
-### Verguetung
-- **§§ 9-11 ArbnErfG**: Verguetung nach Massgabe der Verguetungsrichtlinie.
+### Vergütung
+- **§§ 9-11 ArbnErfG**: Vergütung nach Massgabe der Verguetungsrichtlinie.
 - Berechnungsfaktoren: erfinderische Leistung, Bedeutung der Erfindung, Aufgabenstellung im Betrieb.
 
 ### Wichtig für Gebrauchsmuster

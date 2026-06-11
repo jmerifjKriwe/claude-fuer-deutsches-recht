@@ -21,12 +21,12 @@ description: "Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer 
 
 ## Erste Schritte
 
-1. Ware auf Verbrauchsteuerpflicht pruefen: Energieerzeugnisse Alkohol Tabak Strom?
+1. Ware auf Verbrauchsteuerpflicht prüfen: Energieerzeugnisse Alkohol Tabak Strom?
 2. Steueraussetzungsverfahren: Ist Ware in zugelassenem Lager (Steuerlager) und EMCS aktiviert?
 3. Befoerderungsdokument (elektronisches Verwaltungsdokument e-VD) in EMCS anlegen.
 4. Ausfuhrerstattungsantrag: Ausfuhrnachweise (ATLAS-Ausgangsvermerk) für Verbrauchsteuer-Erstattung.
-5. Steuerterritorium pruefen: Sondergebiete (Kanalinsel Buesingen) und Ueberschneidung mit Zollgebiet.
-6. Nationale Verbrauchsteuerbehoerde (Hauptzollamt) und EMCS-Zugangsberechtigung pruefen.
+5. Steuerterritorium prüfen: Sondergebiete (Kanalinsel Buesingen) und Ueberschneidung mit Zollgebiet.
+6. Nationale Verbrauchsteuerbehoerde (Hauptzollamt) und EMCS-Zugangsberechtigung prüfen.
 
 ## Rechtsrahmen
 

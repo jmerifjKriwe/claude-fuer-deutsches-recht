@@ -3,7 +3,7 @@ name: windpark-beteiligung-pruefen
 description: "Umweltschutzverband Verbandsklage: Windpark: Beteiligung prüfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Windpark Beteiligung Pruefen
+# Windpark Beteiligung Prüfen
 
 ## Arbeitsweg
 

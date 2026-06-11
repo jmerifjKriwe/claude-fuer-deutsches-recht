@@ -22,7 +22,7 @@ description: "Sexueller Uebergriff nach § 177 Abs: 1 StGB. Reform 2016 Nein hei
 
 § 177 Abs. 1 StGB ist der **neue Grundtatbestand** des Sexualstrafrechts seit der Reform 2016 (50. StRG, in Kraft seit 10.11.2016). Strafbar ist die sexuelle Handlung **gegen den erkennbaren Willen** einer anderen Person **ohne** das vor 2016 erforderliche Mittel der Gewalt, qualifizierten Drohung oder Ausnutzung schutzloser Lage.
 
-Strafrahmen: Freiheitsstrafe von sechs Monaten bis zu fuenf Jahren. Geldstrafe ist nicht moeglich (Mindeststrafe sechs Monate).
+Strafrahmen: Freiheitsstrafe von sechs Monaten bis zu fuenf Jahren. Geldstrafe ist nicht möglich (Mindeststrafe sechs Monate).
 
 Dieser Skill konzentriert sich auf die spezifische Tatbestandsstruktur des Abs. 1 und die zentrale Verteidigungsfrage: **Wann ist der entgegenstehende Wille "erkennbar"?**
 
@@ -53,17 +53,17 @@ Reines Schweigen oder Erstarren ist nach staendiger BGH-Rechtsprechung **nicht**
 
 ## Tatbestandsmerkmale konkret
 
-**Sexuelle Handlung § 184h Nr. 1 StGB:** Handlung von einigem Gewicht hinsichtlich des geschuetzten Rechtsguts. Sexueller Bezug muss erkennbar sein. Auch ueber Bekleidung (Streifen, Beruehren von Brust, Gesaess oder Geschlechtsteilen).
+**Sexuelle Handlung § 184h Nr. 1 StGB:** Handlung von einigem Gewicht hinsichtlich des geschuetzten Rechtsguts. Sexueller Bezug muss erkennbar sein. Auch über Bekleidung (Streifen, Beruehren von Brust, Gesaess oder Geschlechtsteilen).
 
 **Erheblichkeitsschwelle:** § 184h Nr. 1 StGB verlangt sexuelle Handlung "von einigem Gewicht". Bei nur kurzer leichter Beruehrung kann § 184i StGB (sexuelle Belaestigung) einschlaegig sein – Strafrahmen Geldstrafe oder Freiheitsstrafe bis zwei Jahre. Abgrenzung wichtig für den Strafrahmen.
 
-**Erkennbarkeit aus Sicht des Taeters:** **Objektiver Massstab** – wuerde ein durchschnittlicher Beobachter die Aeusserung als Ablehnung verstehen. Subjektive Wahrnehmungsstoerungen des Taeters (Alkohol, Wunschdenken) entlasten nicht ohne weiteres; sie koennen aber im Rahmen des § 16 StGB beruecksichtigt werden.
+**Erkennbarkeit aus Sicht des Taeters:** **Objektiver Massstab** – wuerde ein durchschnittlicher Beobachter die Aeusserung als Ablehnung verstehen. Subjektive Wahrnehmungsstoerungen des Taeters (Alkohol, Wunschdenken) entlasten nicht ohne weiteres; sie können aber im Rahmen des § 16 StGB beruecksichtigt werden.
 
 **Vorbeziehung und Tatdynamik:** Bei vorbestehender Beziehung mit einvernehmlichen sexuellen Kontakten muss der Wille einer "Nein"-Position klar geaeussert sein. **Vergangenes Einverstaendnis ist kein Pauschalkonsens.**
 
 ## Praktikertipps der Verteidigung
 
-- **Tatbestandsirrtum § 16 StGB strukturiert pruefen:** Was hat der Beschuldigte konkret wahrgenommen? Welche Hinweise auf Ablehnung gab es? Wurden diese vom Beschuldigten erkannt? Tatbestandsirrtum schliesst den Vorsatz aus.
+- **Tatbestandsirrtum § 16 StGB strukturiert prüfen:** Was hat der Beschuldigte konkret wahrgenommen? Welche Hinweise auf Ablehnung gab es? Wurden diese vom Beschuldigten erkannt? Tatbestandsirrtum schliesst den Vorsatz aus.
 - **Erkennbarkeit erschuettern:** Aussage des Beschuldigten zu seiner Wahrnehmungssituation; ggf. Aussagepsychologisches Sachverstaendigengutachten.
 - **Forensische Spuren:** Spurenbild, fehlende Verletzungen, Tatortspuren in die Erkennbarkeit einordnen.
 - **Vorbeziehung dokumentieren:** Bei vorbestehender Beziehung Chatverlaufe, Zeugen, einvernehmliche Vorhandlungen darstellen – aber **niemals** als Pauschalkonsens darstellen; der Wille muss konkret in der Tatsituation geaeussert worden sein oder eben nicht.
@@ -73,9 +73,9 @@ Reines Schweigen oder Erstarren ist nach staendiger BGH-Rechtsprechung **nicht**
 ## Trade-off-Matrix
 
 - **Schweigen vs. Aussage:** Bei strittiger Erkennbarkeit ist die Aussage des Beschuldigten regelmaessig nicht zu vermeiden. Aussage muss konsistent, detailliert und mit dem objektiven Befund vereinbar sein.
-- **Geststaendnis hinsichtlich sexueller Handlung:** Strafmilderungsgrund; bei kurzer Beruehrung Verteidigung auf § 184i StGB hin pruefen.
+- **Geststaendnis hinsichtlich sexueller Handlung:** Strafmilderungsgrund; bei kurzer Beruehrung Verteidigung auf § 184i StGB hin prüfen.
 - **§ 46a StGB / TOA:** Bei Sexualdelikten heikel; Opferschutz im Vordergrund.
-- **Nebenklage:** § 395 Abs. 1 Nr. 1 StPO – Nebenklage zulaessig; Beistand nach § 397a StPO regelmaessig.
+- **Nebenklage:** § 395 Abs. 1 Nr. 1 StPO – Nebenklage zulässig; Beistand nach § 397a StPO regelmaessig.
 - **Glaubwuerdigkeit:** BGH-Linie staendige Rspr. zur Aussage gegen Aussage.
 
 ## Konkurrenzen
@@ -92,16 +92,16 @@ Reines Schweigen oder Erstarren ist nach staendiger BGH-Rechtsprechung **nicht**
 
 - **Strafrahmen § 177 Abs. 1 StGB:** Freiheitsstrafe von sechs Monaten bis zu fuenf Jahren.
 - **Versuch:** § 177 Abs. 4 StGB (Versuch strafbar).
-- **§ 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB:** Strafrahmenverschiebung; Strafrahmen ein bis drei Monate Freiheitsstrafe nicht moeglich (Mindest sechs Monate).
+- **§ 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB:** Strafrahmenverschiebung; Strafrahmen ein bis drei Monate Freiheitsstrafe nicht möglich (Mindest sechs Monate).
 - **Minder schwerer Fall § 177 Abs. 9 StGB:** Freiheitsstrafe von drei Monaten bis zu drei Jahren; ggf. Geldstrafe.
 - **§ 46a StGB / TOA:** Strafrahmenverschiebung – bei Sexualdelikten zurueckhaltend einzusetzen.
-- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsaetzlich moeglich (§ 56 StGB).
+- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsätzlich möglich (§ 56 StGB).
 - **§ 21 StGB:** Bei Alkohol, Drogen, Persoenlichkeitsstoerung Strafrahmenverschiebung.
 
 ## Mustertexte
 
 **Einlassung (Auszug, Tatbestandsirrtum):**
-> Der Angeklagte und die Geschaedigte hatten eine seit ueber einem Jahr bestehende intime Beziehung. In der Tatnacht haben sie zunaechst einvernehmlich miteinander Geschlechtsverkehr gehabt. Der Angeklagte hat danach im Halbschlaf nochmals eine sexuelle Handlung initiiert, in der Annahme, die Geschaedigte sei wie bisher einverstanden. Eine ausdrueckliche oder konkludente Ablehnung hat er nicht wahrgenommen. Erst am naechsten Morgen hat die Geschaedigte ihm gegenueber geaeussert, sie habe sich nicht mehr aeussern koennen.
+> Der Angeklagte und die Geschaedigte hatten eine seit über einem Jahr bestehende intime Beziehung. In der Tatnacht haben sie zunaechst einvernehmlich miteinander Geschlechtsverkehr gehabt. Der Angeklagte hat danach im Halbschlaf nochmals eine sexuelle Handlung initiiert, in der Annahme, die Geschaedigte sei wie bisher einverstanden. Eine ausdrueckliche oder konkludente Ablehnung hat er nicht wahrgenommen. Erst am naechsten Morgen hat die Geschaedigte ihm gegenueber geaeussert, sie habe sich nicht mehr aeussern können.
 
 **Plaedoyer-Snippet (§ 16 StGB):**
 > § 177 Abs. 1 StGB verlangt nicht nur einen erkennbaren entgegenstehenden Willen, sondern auch den Vorsatz des Taeters hinsichtlich dieser Erkennbarkeit. Die Beweisaufnahme hat nicht zur Ueberzeugung des Gerichts ergeben, dass der Angeklagte das Schweigen und die Reglosigkeit der Geschaedigten als Ablehnung wahrgenommen hat. Es liegt ein Tatbestandsirrtum nach § 16 StGB vor. Vorsatz und damit Tatbestand entfallen.

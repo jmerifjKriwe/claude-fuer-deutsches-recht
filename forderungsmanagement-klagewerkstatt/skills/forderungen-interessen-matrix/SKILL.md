@@ -25,7 +25,7 @@ Wenn Mandant mehrere Forderungen gegen denselben oder verschiedene Schuldner hat
 | Gegenforderung Beklagter | Widerklage | ZPO 33 |
 | Tilgungsverrechnung bei mehreren Forderungen | Tilgungsreihenfolge | BGB 366 BGB 367 |
 
-## Kostenmehrwert pruefen
+## Kostenmehrwert prüfen
 
 Bundelung lohnt wenn alle Forderungen in dieselbe Zuständigkeit fallen GVG 23 oder GVG 71. Bei Mischung von AG- und LG-Forderungen kann Zusammenrechnung der Streitwerte nach ZPO 5 ein einheitliches LG-Verfahren ergeben.
 

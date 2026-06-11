@@ -3,7 +3,7 @@ name: methadon-stoff-pruefen
 description: "Methadon: Stoff prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Methadon Stoff Pruefen
+# Methadon Stoff Prüfen
 
 ## Arbeitsweg
 

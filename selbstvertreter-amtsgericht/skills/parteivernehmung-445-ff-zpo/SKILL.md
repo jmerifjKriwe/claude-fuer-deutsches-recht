@@ -7,7 +7,7 @@ description: "Parteivernehmung nach §§ 445 ff. ZPO. Subsidiaeres Beweismittel 
 
 ## Worum geht es?
 
-Im Gegensatz zum Strafrecht ist die eigene Aussage im Zivilprozess **kein** vollwertiges Beweismittel. Sie koennen nicht einfach sagen "ich war's nicht" und das Gericht muss das so nehmen. **Parteivernehmung** nach §§ 445 ff. ZPO ist ein **subsidiaeres** Mittel — nur, wenn keine anderen Beweise da sind, kann eine Partei vernommen werden. Diese Skill ordnet das ein und zeigt, wann es sinnvoll ist.
+Im Gegensatz zum Strafrecht ist die eigene Aussage im Zivilprozess **kein** vollwertiges Beweismittel. Sie können nicht einfach sagen "ich war's nicht" und das Gericht muss das so nehmen. **Parteivernehmung** nach §§ 445 ff. ZPO ist ein **subsidiaeres** Mittel — nur, wenn keine anderen Beweise da sind, kann eine Partei vernommen werden. Diese Skill ordnet das ein und zeigt, wann es sinnvoll ist.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -32,7 +32,7 @@ Im Gegensatz zum Strafrecht ist die eigene Aussage im Zivilprozess **kein** voll
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Subsidiaritaet pruefen
+### Schritt 1 — Subsidiaritaet prüfen
 
 § 445 ZPO: Parteivernehmung **nur**, wenn andere Beweismittel nicht zur Verfuegung stehen oder nicht ausreichen.
 
@@ -66,7 +66,7 @@ Aber: Eine konsistente, detaillierte Aussage kann ueberzeugen.
 
 - Tatsachen sammeln und chronologisch ordnen.
 - Daten, Orte, Personen kennen.
-- Konsistente Erinnerung pruefen — wer sich widerspricht, verliert Glaubwuerdigkeit.
+- Konsistente Erinnerung prüfen — wer sich widerspricht, verliert Glaubwuerdigkeit.
 
 ### Schritt 6 — Im Termin
 
@@ -77,13 +77,13 @@ Aber: Eine konsistente, detaillierte Aussage kann ueberzeugen.
 
 ### Schritt 7 — Eid
 
-§ 452 ZPO: Eid moeglich, wenn Aussage besondere Bedeutung. Heute selten.
+§ 452 ZPO: Eid möglich, wenn Aussage besondere Bedeutung. Heute selten.
 
 ### Schritt 8 — § 446 ZPO Nicht-Erscheinen
 
 Wenn die beweispflichtige Partei nicht erscheint: Gericht entscheidet nach freier Wuerdigung — kann zur Niederlage fuehren.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Subsidiaritaet**: Nur, wenn keine anderen Mittel.
 - **Beweiswert begrenzt**: Eigene Aussage hat Partei-Naehe.

@@ -133,7 +133,7 @@ Bevor das e-Filing startet, klaere:
 1. Wurde eine eSearch-Vorrecherche auf identische und aehnliche aeltere Marken durchgefuehrt?
 2. Ist das Warenverzeichnis hinreichend praezise (IP Translator — keine pauschalen Klassenüberschriften)?
 3. Soll Prioritaet auf eine DPMA-Anmeldung beansprucht werden — ist die 6-Monats-Frist noch offen?
-4. Gibt es bekannte aeltere Inhaber, die widerspruchsberechtigt sein koennen?
+4. Gibt es bekannte aeltere Inhaber, die widerspruchsberechtigt sein können?
 
 ## Aktuelle Rechtsprechung
 

@@ -82,7 +82,7 @@ Eingaben:
 ## Mustertexte
 
 ### Internes Memo zur Aktion (Auszug)
-"Die geplante Aktion 'Bonus 2 Euro für jede E-Rezept-Einlösung' wurde geprüft. Ergebnis: Bei Rx-Arzneimitteln verstösst die Bonusgewährung gegen § 78 AMG i.V.m. AMPreisV (Endpreisbindung) und § 7 HWG (Zuwendungsverbot). Empfehlung: Aktion ausschliesslich auf apothekenpflichtige OTC und apothekenübliche Waren beschränken; Bonus pro Einkauf maximal 1 Euro im Sinne der HWG-Geringwertigkeit. Bei Rx: Beratungsmehrwerte und kostenfreie Patientenseminare anstelle finanzieller Vorteile."
+"Die geplante Aktion 'Bonus 2 Euro für jede E-Rezept-Einlösung' wurde geprüft. Ergebnis: Bei Rx-Arzneimitteln verstösst die Bonusgewährung gegen § 78 AMG i.V.m. AMPreisV (Endpreisbindung) und § 7 HWG (Zuwendungsverbot). Empfehlung: Aktion ausschließlich auf apothekenpflichtige OTC und apothekenübliche Waren beschränken; Bonus pro Einkauf maximal 1 Euro im Sinne der HWG-Geringwertigkeit. Bei Rx: Beratungsmehrwerte und kostenfreie Patientenseminare anstelle finanzieller Vorteile."
 
 ### Unterlassungserklärung zu Patientenzuweisung (Auszug)
 "Ich erkläre, dass die Apotheke keine Vereinbarung mit der Praxis Dr. [Arzt] über die Zuweisung von Patienten getroffen hat und nicht treffen wird. Insbesondere bestehen keine Zahlungen, Sachzuwendungen, Beratungsverträge oder Mietnachlässe zugunsten der Praxis im Zusammenhang mit der Verschreibung von Arzneimitteln, die in unserer Apotheke eingelöst werden. § 11 ApoG, § 31 BO-Ä und §§ 299a/b StGB sind beachtet."

@@ -17,19 +17,19 @@ Manchmal weiss eine andere Person etwas Wichtiges für Ihre Sache. Diese Person 
 
 ## In einfacher Sprache
 
-Andere Menschen koennen erzaehlen, was sie gesehen haben. Das nennt man Zeugen. Wir zeigen Ihnen, wie und wann das hilft.
+Andere Menschen können erzaehlen, was sie gesehen haben. Das nennt man Zeugen. Wir zeigen Ihnen, wie und wann das hilft.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben Personen, die etwas Wichtiges für Sie wissen.
 - Sie wollen wissen, wie Sie diese benennen.
-- Sie ueberlegen, ob ein Zeuge die Sache klaeren kann.
+- Sie ueberlegen, ob ein Zeuge die Sache klären kann.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Zeuge**: Person mit eigener Wahrnehmung von Tatsachen.
 - **Beweisthema**: Worueber soll der Zeuge aussagen.
-- **Zeugnisverweigerungsrecht**: Manche Personen muessen / duerfen nicht aussagen (Familienangehoerige, Aerzte ohne Schweigepflichtsentbindung).
+- **Zeugnisverweigerungsrecht**: Manche Personen müssen / dürfen nicht aussagen (Familienangehoerige, Aerzte ohne Schweigepflichtsentbindung).
 - **Sachverstaendiger Zeuge**: Person mit Fachwissen, die zugleich Beobachtungen gemacht hat (z.B. behandelnder Arzt).
 
 ## Rechtsgrundlagen
@@ -42,7 +42,7 @@ Andere Menschen koennen erzaehlen, was sie gesehen haben. Das nennt man Zeugen. 
 
 ### Schritt 1 — Wann lohnt sich Zeugenbeweis?
 
-Im Sozialrecht selten allein entscheidend. Beweise meistens ueber Atteste / Gutachten. Aber gut bei:
+Im Sozialrecht selten allein entscheidend. Beweise meistens über Atteste / Gutachten. Aber gut bei:
 
 - **Pflegestreit**: Angehoerige, die Pflege machen, als Zeugen.
 - **GdB / Behinderung im Alltag**: Nachbarn, die taegliche Schwierigkeiten beobachten.
@@ -68,7 +68,7 @@ Beweisthema: Frau Mueller hat in den vergangenen 6 Monaten taeglich an meiner Wo
 
 ### Schritt 4 — Mehrere Zeugen
 
-Sie koennen mehrere Zeugen benennen. Jeder mit klarem Beweisthema.
+Sie können mehrere Zeugen benennen. Jeder mit klarem Beweisthema.
 
 ### Schritt 5 — Was der Zeuge muss
 
@@ -79,9 +79,9 @@ Sie koennen mehrere Zeugen benennen. Jeder mit klarem Beweisthema.
 ### Schritt 6 — Was passiert vor Gericht?
 
 - Vorsitzender Richter fragt den Zeugen zur Person.
-- Belehrt ueber Wahrheitspflicht.
+- Belehrt über Wahrheitspflicht.
 - Stellt Fragen zum Beweisthema.
-- Sie koennen erlaeutern, was Sie noch wissen wollen.
+- Sie können erlaeutern, was Sie noch wissen wollen.
 - Behörde kann fragen.
 - Protokoll wird angefertigt.
 
@@ -95,11 +95,11 @@ Zeuge bekommt aus der Staatskasse (JVEG):
 
 Auch bei Sozialgericht (§ 1 JVEG i.V.m. § 197a SGG analog). Sagen Sie das dem Zeugen vorab.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Adresse exakt**: Ohne Adresse kann das Gericht nicht laden.
 - **Beweisthema konkret**: Allgemeines "Frau X weiss alles" reicht nicht.
-- **Familienangehoerige**: Pruefen, ob Aussage gewuenscht / moeglich.
+- **Familienangehoerige**: Prüfen, ob Aussage gewuenscht / möglich.
 - **Sachverstaendiger Zeuge** (Arzt): besser oft als reiner Zeuge.
 
 ## Typische Fehler
@@ -111,4 +111,4 @@ Auch bei Sozialgericht (§ 1 JVEG i.V.m. § 197a SGG analog). Sagen Sie das dem 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze für Zeugenentschaedigung pruefen.
+Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze für Zeugenentschaedigung prüfen.

@@ -3,7 +3,7 @@ name: bussgeldbescheid-pruefen
 description: "Ordnungswidrigkeitenrecht: Bußgeldbescheid prüfen. Bußgeldbescheid prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
 ---
 
-# Bussgeldbescheid Pruefen
+# Bussgeldbescheid Prüfen
 
 ## Arbeitsweg
 
@@ -20,7 +20,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
 - `§ 8 OWiG` — Begehen durch Unterlassen.
 - `§ 9 OWiG` — Handeln für einen anderen.
-- `§ 17 OWiG` — Hoehe der Geldbusse.
+- `§ 17 OWiG` — Höhe der Geldbusse.
 - `§ 30 OWiG` — Verbandsgeldbusse.
 - `§ 31 OWiG` — Verjährung.
 - `§ 47 OWiG` — Opportunitaetsprinzip.

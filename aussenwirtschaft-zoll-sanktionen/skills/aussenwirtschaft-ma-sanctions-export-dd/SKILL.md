@@ -15,17 +15,17 @@ description: "Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen:
 
 ## Mandantenfall
 
-- Private-Equity kauft deutschen Maschinenbauer; DD zeigt ungeloeste BAFA-Pruefung aus Vorjahr.
+- Private-Equity kauft deutschen Maschinenbauer; DD zeigt ungeloeste BAFA-Prüfung aus Vorjahr.
 - Strategischer Erwerber plant Akquisition eines US-Lizenztechnologie-Unternehmens mit ITAR-Daten.
 - Zielunternehmen hat erhebliche Russland-Kundenbeziehungen; Sanktionsexposure-Quantifizierung noetig.
 
 ## Erste Schritte
 
 1. Exportkontroll- und Sanktions-DD-Fragebogen an Zielunternehmen senden.
-2. Exportprofile pruefen: Hauptmaerkte, Produktkategorien, Genehmigungshistorie, BAFA-Kontakte.
+2. Exportprofile prüfen: Hauptmaerkte, Produktkategorien, Genehmigungshistorie, BAFA-Kontakte.
 3. Historische BAFA-Pruefungen und Sanktionsscreening-Prozesse analysieren.
 4. ICP-Qualitaet bewerten: Struktur, gelebte Praxis, Luecken.
-5. Sanktionsexposure quantifizieren: aktive Kundenbeziehungen, laufende Vertraege, offene Verbindlichkeiten.
+5. Sanktionsexposure quantifizieren: aktive Kundenbeziehungen, laufende Verträge, offene Verbindlichkeiten.
 6. M&A-Reps-and-Warranties und Ruecktrittsklauseln für Exportkontroll-Risiken formulieren.
 
 ## Rechtsrahmen
@@ -41,7 +41,7 @@ description: "Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen:
 - [ ] Exportprofile und Hauptmaerkte des Zielunternehmens vollstaendig erfasst?
 - [ ] BAFA-Pruefungshistorie und Ergebnisse analysiert?
 - [ ] ICP-Qualitaet bewertet und Luecken dokumentiert?
-- [ ] Sanktionsexposure quantifiziert (Kundenbeziehungen, Vertraege)?
+- [ ] Sanktionsexposure quantifiziert (Kundenbeziehungen, Verträge)?
 - [ ] Haftungsrisiken für Kaeufer bewertet und in Kaufpreis reflektiert?
 - [ ] M&A-Reps-and-Warranties für Exportkontrollrisiken formuliert?
 
@@ -49,7 +49,7 @@ description: "Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen:
 
 - Vererbte BAFA-Pruefungen werden nach Closing zu Kaeufer-Problem.
 - ITAR-contamination: US-Technologie im Zielunternehmen uebertraegt sich auf Kaeufer (ITAR 22 CFR 127.1).
-- Historische Verstoss-Potenziale (Verjaeahrungsfristen beachten; AWG 5 Jahre) koennen nach Closing aufschlagen.
+- Historische Verstoss-Potenziale (Verjaeahrungsfristen beachten; AWG 5 Jahre) können nach Closing aufschlagen.
 - ICP-Luecken bedeuten kontinuierliches Risiko; Integrations-ICP-Plan erforderlich.
 
 ## Schnittstellen zu anderen Skills

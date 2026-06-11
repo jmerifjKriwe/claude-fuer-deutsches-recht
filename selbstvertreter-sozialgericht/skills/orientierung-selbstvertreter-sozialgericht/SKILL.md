@@ -13,11 +13,11 @@ description: "Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblic
 
 ## Worum geht es?
 
-Sie haben einen Bescheid bekommen, der Ihnen nicht passt. Vielleicht von der Krankenkasse, dem Jobcenter, dem Versorgungsamt oder der Rentenversicherung. Sie wollen sich wehren — und das ohne Anwalt. Diese Skill ist Ihr erster Wegweiser. Sie zeigt, wie das Sozialgericht arbeitet und wo Sie weiterlesen muessen.
+Sie haben einen Bescheid bekommen, der Ihnen nicht passt. Vielleicht von der Krankenkasse, dem Jobcenter, dem Versorgungsamt oder der Rentenversicherung. Sie wollen sich wehren — und das ohne Anwalt. Diese Skill ist Ihr erster Wegweiser. Sie zeigt, wie das Sozialgericht arbeitet und wo Sie weiterlesen müssen.
 
 ## In einfacher Sprache
 
-Sie sind nicht einverstanden mit einem Bescheid. Sie koennen sich wehren. Das geht ohne Anwalt. Das kostet Sie nichts. Wir zeigen Ihnen den Weg.
+Sie sind nicht einverstanden mit einem Bescheid. Sie können sich wehren. Das geht ohne Anwalt. Das kostet Sie nichts. Wir zeigen Ihnen den Weg.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -39,8 +39,8 @@ Sie sind nicht einverstanden mit einem Bescheid. Sie koennen sich wehren. Das ge
 
 - **§ 73 SGG** — Sie brauchen keinen Anwalt vor dem SG und dem Landessozialgericht (LSG). Nur vor dem Bundessozialgericht (BSG) brauchen Sie einen Anwalt.
 - **§ 183 SGG** — Kein Geld für das Gericht, wenn Sie Versicherter, Leistungsempfaenger oder Behinderter sind.
-- **§ 103 SGG** — Das Gericht ermittelt von Amts wegen. Es muss selbst pruefen, was wahr ist.
-- **§ 78 SGG** — Vor der Klage muessen Sie Widerspruch einlegen.
+- **§ 103 SGG** — Das Gericht ermittelt von Amts wegen. Es muss selbst prüfen, was wahr ist.
+- **§ 78 SGG** — Vor der Klage müssen Sie Widerspruch einlegen.
 - **§ 84 SGG** — Frist für den Widerspruch: ein Monat.
 - **§ 87 SGG** — Frist für die Klage: ein Monat nach Widerspruchsbescheid.
 
@@ -88,7 +88,7 @@ Welches Sozialgesetzbuch (SGB) betrifft Ihren Bescheid?
 
 Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch, Klage, Eilantrag oder Stellungnahme abschicken. Bei Urteil oder Berufung nutzen Sie `zulassungsgrenzen-check-sozialgericht`. Bei Zitaten aus Rechtsprechung oder Behördenargumenten nutzen Sie `rechtsprechungschat-sozialgericht`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Die Frist!** Wenn Sie die Frist verpassen, ist Ihr Recht oft weg. Lesen Sie `wiedereinsetzung-frist-67-sgg`, falls die Frist schon abgelaufen ist.
 - **Der Bescheid muss eine Rechtsbehelfsbelehrung enthalten.** Fehlt sie, gilt eine Jahresfrist statt einem Monat (§ 66 Abs. 2 SGG).
@@ -103,4 +103,4 @@ Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch,
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. Bei Unsicherheit pruefen Sie unter www.sozialgerichtsbarkeit.de oder beim oertlichen Sozialgericht.
+Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. Bei Unsicherheit prüfen Sie unter www.sozialgerichtsbarkeit.de oder beim oertlichen Sozialgericht.

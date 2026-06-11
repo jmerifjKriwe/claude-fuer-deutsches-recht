@@ -3,7 +3,7 @@ name: mdma-erlaubnis-pruefen
 description: "MDMA: Erlaubnis prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Mdma Erlaubnis Pruefen
+# Mdma Erlaubnis Prüfen
 
 ## Arbeitsweg
 

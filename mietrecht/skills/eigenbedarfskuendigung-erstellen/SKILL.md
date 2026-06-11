@@ -110,8 +110,8 @@ Vor Versand der Eigenbedarfskündigung: fachanwaltliche Prüfung. Risiko: Unwirk
 - BGH, Urt. v. 24.09.2025 – Az. VIII ZR 289/23 — Anforderungen an die Begruendung nach § 573 Abs. 3 BGB sind nicht ueberzogen; Eigenbedarf bleibt wirksam auch wenn der Vermieter zunaechst Eigennutzung waehrend Umbau plant und spaetere Veraeusserung beabsichtigt. Konkretisierung des Massstabs „ernsthafter, vernuenftiger, nachvollziehbarer Eigennutzungswunsch". Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=24.09.2025&Aktenzeichen=VIII+ZR+289/23
 - BGH 14.12.2016, VIII ZR 232/15 — Schadensersatz bei vorgetaeuschtem Eigenbedarf (https://dejure.org/2016,46126)
 - BGH 10.05.2017, VIII ZR 292/15 — Mitteilungspflicht bei Wegfall des Eigenbedarfs (https://dejure.org/2017,15097)
-- BGH 22.05.2019, VIII ZR 180/18 — Haerteklausel § 574 BGB; Pflicht zur Abwaegung Vermieter-/Mieterinteressen, alters- oder krankheitsbedingte Haerten substantiiert pruefen (https://dejure.org/2019,12824)
-- BGH 11.12.2019, VIII ZR 144/19 — Haerteklausel: Hochbetagtes Alter und langjaehrige Verwurzelung koennen Vertragsfortsetzung tragen; nur ausnahmsweise unbefristete Fortsetzung (https://dejure.org/2019,49075)
+- BGH 22.05.2019, VIII ZR 180/18 — Haerteklausel § 574 BGB; Pflicht zur Abwaegung Vermieter-/Mieterinteressen, alters- oder krankheitsbedingte Haerten substantiiert prüfen (https://dejure.org/2019,12824)
+- BGH 11.12.2019, VIII ZR 144/19 — Haerteklausel: Hochbetagtes Alter und langjaehrige Verwurzelung können Vertragsfortsetzung tragen; nur ausnahmsweise unbefristete Fortsetzung (https://dejure.org/2019,49075)
 - BGH 09.05.2012, VIII ZR 238/11 — „Vorratskündigung"-Verbot; Eigenbedarf muss konkret-bevorstehend sein (https://dejure.org/2012,12036)
 
 Weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de mit Datum und Aktenzeichen verifizieren.

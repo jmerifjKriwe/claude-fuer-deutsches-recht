@@ -3,7 +3,7 @@ name: egmr-emrk-verhaeltnismaessigkeit
 description: Verhaeltnismaessigkeitspruefung des Europaeischen Gerichtshofs fuer Menschenrechte nach Art 8 bis 11 EMRK und Art 1 ZP 1 mit den drei Stufen prescribed by law legitimate aim necessary in a democratic society. Mit margin of appreciation pressing social need least restrictive means und fair balance sowie Hinweisen zur Wechselwirkung mit deutscher BVerfG-Dogmatik und zur Rezeption in Goerguelue Caroline und Sahin.
 ---
 
-# EGMR EMRK Verhaeltnismaessigkeit
+# EGMR EMRK Verhältnismäßigkeit
 
 ## Normtext (Beispiel Art 8 II EMRK)
 
@@ -18,9 +18,9 @@ Parallelstrukturen finden sich in Art 9 II (Religion), Art 10 II
 (Meinungs- und Pressefreiheit) und Art 11 II EMRK (Versammlung und
 Vereinigung).
 
-## Drei-Stufen-Pruefung des EGMR
+## Drei-Stufen-Prüfung des EGMR
 
-Der Gerichtshof prueft Eingriffe in qualifizierte EMRK-Rechte nach
+Der Gerichtshof prüft Eingriffe in qualifizierte EMRK-Rechte nach
 festem Schema:
 
 1. **In accordance with the law / prescribed by law**: formelle
@@ -29,7 +29,7 @@ festem Schema:
    (1979) Series A no 30.
 2. **Legitimate aim**: einer der in Absatz 2 abschliessend genannten
    Zwecke (national security, public safety, etc).
-3. **Necessary in a democratic society**: die Massnahme entspricht
+3. **Necessary in a democratic society**: die Maßnahme entspricht
    einem **pressing social need**, ist **proportionate to the legitimate
    aim pursued** und wird mit **relevant and sufficient reasons**
    begruendet. Leading case: Handyside v United Kingdom (1976) Series A
@@ -39,7 +39,7 @@ festem Schema:
 
 Der EGMR hat in Handyside klargestellt, dass necessary nicht
 indispensable und nicht admissible oder ordinary meint, sondern eine
-mittlere Schwelle: pressing social need. Die Pruefung umfasst drei
+mittlere Schwelle: pressing social need. Die Prüfung umfasst drei
 Substufen:
 
 - **rationaler Zusammenhang** Mittel zu Ziel,
@@ -54,7 +54,7 @@ ein, dessen Weite vom geprueften Recht, dem Eingriffsanlass und dem
 Konsens unter den Vertragsstaaten abhaengt.
 
 - **Eng**: bei intimen Lebensbereichen (Dudgeon v UK 1981), bei
-  Berichterstattung ueber Personen oeffentlichen Interesses (Von
+  Berichterstattung über Personen oeffentlichen Interesses (Von
   Hannover v Germany 2004), bei diskriminierenden Eingriffen aufgrund
   sensibler Merkmale.
 - **Weit**: bei Moralfragen (Handyside), bei religioes-symbolischen
@@ -66,9 +66,9 @@ Konsens weitet ihn.
 
 ## Fair balance
 
-In Eingriffsfaellen prueft der EGMR, ob das innerstaatliche
+In Eingriffsfaellen prüft der EGMR, ob das innerstaatliche
 Spruchkoerper-Ergebnis einen fair balance zwischen kollidierenden
-Interessen wahrt. In positive obligation Faellen prueft er, ob der
+Interessen wahrt. In positive obligation Faellen prüft er, ob der
 Staat ausreichend zum Schutz aktiv geworden ist (Soering-Linie, Z v
 Finland, Oeneryildiz v Turkey).
 
@@ -82,7 +82,7 @@ EMRK und EGMR-Urteile bei der Auslegung deutscher Grundrechte zu
 beruecksichtigen sind (voelkerrechtsfreundliche Auslegung). Daraus
 folgt:
 
-- EGMR-Massstaebe sind Auslegungsmaterial fuer Art 1-19 GG, nicht
+- EGMR-Massstaebe sind Auslegungsmaterial für Art 1-19 GG, nicht
   unmittelbar geltendes Verfassungsrecht.
 - Bei Divergenz hat das BVerfG den Vorrang, muss aber sein Abweichen
   begruenden (Sicherungsverwahrung-Beschluss BVerfGE 128, 326 nach
@@ -100,26 +100,26 @@ folgt:
 | Menschenwuerde Art 1 I GG abwaegungsfest | Art 3 EMRK (Folterverbot) ist absolut, kein Eingriffsvorbehalt |
 | Einschaetzungspraerogative national | Margin of appreciation supranational |
 | Praktische Konkordanz | Fair balance |
-| Untermassverbot ausgepraegt | Positive obligations punktuell, weniger systematisiert |
+| Untermassverbot ausgeprägt | Positive obligations punktuell, weniger systematisiert |
 
-## Bedeutung fuer den Pruefer
+## Bedeutung für den Prüfer
 
 Bei der Anwendung im deutschen Schriftsatz:
 
 - Bei Eingriffen in Art 8, 9, 10, 11 EMRK Pendants im GG identifizieren
   (Art 8 EMRK / Art 2 I iVm Art 1 I GG und Art 13 GG; Art 10 EMRK /
   Art 5 GG; Art 11 EMRK / Art 8 GG).
-- Necessary in a democratic society als Auslegungshilfe fuer
-  Verhaeltnismaessigkeit nutzen, nicht ersetzen.
-- Margin of appreciation Argumente koennen die deutsche Diskussion ueber
+- Necessary in a democratic society als Auslegungshilfe für
+  Verhältnismäßigkeit nutzen, nicht ersetzen.
+- Margin of appreciation Argumente können die deutsche Diskussion über
   Einschaetzungspraerogative verstaerken oder relativieren.
 - Bei sensiblen Materien (Religion, sexuelle Identitaet, Privatheit)
-  pruefen, ob EGMR-Linie den deutschen Spielraum begrenzt.
+  prüfen, ob EGMR-Linie den deutschen Spielraum begrenzt.
 
 ## Live-Recherche-Disclaimer
 
-EGMR-Urteile vor Zitierung verifizieren ueber HUDOC
+EGMR-Urteile vor Zitierung verifizieren über HUDOC
 (hudoc.echr.coe.int). Aktenzeichen (Application Number), Datum
-und Spruchkoerper (Chamber / Grand Chamber) im Original pruefen.
+und Spruchkoerper (Chamber / Grand Chamber) im Original prüfen.
 Series-A-Nummerierung wurde 1996 durch ECHR-Reports abgeloest;
 zwischen alter und neuer Zitierform unterscheiden.

@@ -32,19 +32,19 @@ davon haben `fragwuerdig` als Unterschriftsstatus:
   Gesellschafterbeschluss (Copy-Paste-Fehler) – Hinweis
 
 ## Output-Module
-- Tabelleneintraege fuer Reiter 2
-- Hinweisliste fuer Reiter 3 (was ist als Anlage zu beschaffen)
-- Querliste fuer den Skill unterschriftspruefung
-- Querliste fuer den Skill copy-paste-fehler-erkennung
+- Tabelleneintraege für Reiter 2
+- Hinweisliste für Reiter 3 (was ist als Anlage zu beschaffen)
+- Querliste für den Skill unterschriftspruefung
+- Querliste für den Skill copy-paste-fehler-erkennung
 
 ## Grenzen
 - **Keine rechtliche Wirksamkeitspruefung.** Schwebende Unwirksamkeit nach
-  § 177 BGB ist nur ein Hinweis, kein Befund – Heilung pruefen anwaltlich.
+  § 177 BGB ist nur ein Hinweis, kein Befund – Heilung prüfen anwaltlich.
 - **Keine Vollmachts-Beurteilung.** Der Skill kann nur sichtbare Abweichungen
-  vom HR-Eintrag herausarbeiten; gewillkuerte Vollmachten muessen aktiv
+  vom HR-Eintrag herausarbeiten; gewillkuerte Vollmachten müssen aktiv
   abgefragt werden.
 
 ## Plugin-Kontext
-Reiter 2 ist die Lieferquelle fuer die Skills unterschriftspruefung,
+Reiter 2 ist die Lieferquelle für die Skills unterschriftspruefung,
 copy-paste-fehler-erkennung, diskrepanzen-aufdecken. Sauber gebauter
 Reiter 2 spart Stunden in den Folgeschritten.

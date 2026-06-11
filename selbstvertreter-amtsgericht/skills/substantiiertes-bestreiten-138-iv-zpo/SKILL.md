@@ -7,18 +7,18 @@ description: "Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO. Wann 
 
 ## Worum geht es?
 
-Sie koennen nicht einfach sagen "stimmt nicht" zu allem in der Klage. § 138 II ZPO verlangt eine **substantiierte** (= konkrete, mit Tatsachen unterlegte) Erklaerung. Wenn die Tatsache **aus eigener Wahrnehmung** stammt, muessen Sie konkret entgegnen. Wenn die Tatsache **ausser Ihrer Wahrnehmung** liegt, koennen Sie mit Nichtwissen bestreiten (§ 138 IV ZPO).
+Sie können nicht einfach sagen "stimmt nicht" zu allem in der Klage. § 138 II ZPO verlangt eine **substantiierte** (= konkrete, mit Tatsachen unterlegte) Erklaerung. Wenn die Tatsache **aus eigener Wahrnehmung** stammt, müssen Sie konkret entgegnen. Wenn die Tatsache **ausser Ihrer Wahrnehmung** liegt, können Sie mit Nichtwissen bestreiten (§ 138 IV ZPO).
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie schreiben Klageerwiderung.
 - Sie sind unsicher, ob "bestritten" reicht.
-- Klaeger behauptet etwas, was Sie ueberhaupt nicht wissen koennen.
+- Kläger behauptet etwas, was Sie ueberhaupt nicht wissen können.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Substantiiertes Bestreiten**: Bestreiten mit konkretem Gegenvortrag.
-- **Mit Nichtwissen bestreiten (§ 138 IV ZPO)**: Erklaerung, dass die Tatsache ausserhalb Ihrer Wahrnehmung lag und Sie sie nicht beurteilen koennen.
+- **Mit Nichtwissen bestreiten (§ 138 IV ZPO)**: Erklaerung, dass die Tatsache ausserhalb Ihrer Wahrnehmung lag und Sie sie nicht beurteilen können.
 - **Sekundaere Darlegungslast**: In bestimmten Faellen muss der nicht-darlegungspflichtige Teil dennoch eigene Tatsachen vortragen.
 
 ## Rechtsgrundlagen
@@ -30,7 +30,7 @@ Sie koennen nicht einfach sagen "stimmt nicht" zu allem in der Klage. § 138 II 
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Klaeger-Tatsachen sortieren
+### Schritt 1 — Kläger-Tatsachen sortieren
 
 Pro Tatsache:
 
@@ -40,11 +40,11 @@ Pro Tatsache:
 Beispiel:
 
 - "Vertrag wurde am 5.3.2025 in Muenchen geschlossen, ich war dabei." → eigene Wahrnehmung.
-- "Klaeger hat am 12.3.2025 die Ware bei seiner Filiale verladen." → ausser Ihrer Wahrnehmung.
+- "Kläger hat am 12.3.2025 die Ware bei seiner Filiale verladen." → ausser Ihrer Wahrnehmung.
 
 ### Schritt 2 — Eigene Wahrnehmung: substantiiert bestreiten
 
-Sie muessen konkret entgegnen, nicht nur leugnen.
+Sie müssen konkret entgegnen, nicht nur leugnen.
 
 Falsch:
 
@@ -68,7 +68,7 @@ Beweis: Anlage B1 — Email vom 12.3.2025
 
 ### Schritt 3 — Nichtwissen-Erklaerung
 
-Wenn Sie tatsaechlich nichts wissen koennen (z. B. interne Vorgaenge bei der Gegenseite):
+Wenn Sie tatsaechlich nichts wissen können (z. B. interne Vorgaenge bei der Gegenseite):
 
 ```
 Mit Nichtwissen bestritten (§ 138 IV ZPO),
@@ -80,9 +80,9 @@ Voraussetzung: Tatsache liegt erkennbar ausser Ihrer Wahrnehmung.
 
 ### Schritt 4 — Sekundaere Darlegungslast
 
-Beachten: In manchen Konstellationen (BGH-Rechtsprechung) muessen Sie trotz nicht-Beweislast eigene Tatsachen vortragen, weil nur Sie sie kennen.
+Beachten: In manchen Konstellationen (BGH-Rechtsprechung) müssen Sie trotz nicht-Beweislast eigene Tatsachen vortragen, weil nur Sie sie kennen.
 
-Beispiel: Klaeger behauptet, eine Mahnung sei zugegangen — Beweis-Schwierigkeit. Sie wissen, ob bei Ihnen Brief eingelagert war. Sie muessen substantiiert vortragen, dass Sie nichts erhalten haben (Briefkasten leer, kein Eingang im Posteingang). Nur dann gilt das Klaeger-Bestreiten als wirksam.
+Beispiel: Kläger behauptet, eine Mahnung sei zugegangen — Beweis-Schwierigkeit. Sie wissen, ob bei Ihnen Brief eingelagert war. Sie müssen substantiiert vortragen, dass Sie nichts erhalten haben (Briefkasten leer, kein Eingang im Posteingang). Nur dann gilt das Kläger-Bestreiten als wirksam.
 
 ### Schritt 5 — Eigener Vortrag zur Gegen-Geschichte
 
@@ -123,13 +123,13 @@ es waren nur 1.250 EUR (Anlage B3).
 
 ### Schritt 7 — Vorsicht bei Wahrheitspflicht
 
-Sie duerfen **nicht** wissentlich falsch bestreiten. Wenn Sie wissen, dass die Behauptung zutrifft, koennen Sie nicht bestreiten. Falsches Bestreiten kann Schadensersatz auslosen und im Extremfall Prozessbetrug sein.
+Sie dürfen **nicht** wissentlich falsch bestreiten. Wenn Sie wissen, dass die Behauptung zutrifft, können Sie nicht bestreiten. Falsches Bestreiten kann Schadensersatz auslosen und im Extremfall Prozessbetrug sein.
 
 ### Schritt 8 — Beweismittel zum Bestrittenen
 
-Wer bestreitet, muss in der Regel **nicht** beweisen — der Klaeger ist beweispflichtig. Aber Sie koennen Gegenbeweis anbieten. Skill `beweislast-grundregel-wer-was`.
+Wer bestreitet, muss in der Regel **nicht** beweisen — der Kläger ist beweispflichtig. Aber Sie können Gegenbeweis anbieten. Skill `beweislast-grundregel-wer-was`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Pauschale Erklaerungen reichen nicht**.
 - **Mit Nichtwissen nur bei tatsaechlich nicht-eigener Wahrnehmung**.

@@ -7,7 +7,7 @@ description: "Einstieg und Triage. Ordnet das Mandat (Strafverteidiger, Staatsan
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Orientierung Triage Paragraph Stgb Besonders** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Strafzumessung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Orientierung Triage Paragraph Stgb Besonders** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Strafzumessung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -37,7 +37,7 @@ Strafzumessung ist die richterliche Bestimmung von Strafart und Strafhoehe inner
 - Anklageschrift liegt vor, Strafzumessungs-Verteidigung in der Hauptverhandlung wird vorbereitet.
 - Verstaendigungs-Gespraech (§ 257c StPO) mit Gericht und Staatsanwaltschaft steht an, Strafrahmen wird sondiert.
 - Urteil ist ergangen, Strafzumessungsruege wird vorbereitet (§ 267 Abs. 3 StPO).
-- Mehrere Verurteilungen liegen vor, nachtraegliche Gesamtstrafenbildung (§ 55 StGB) oder Haerteausgleich pruefen.
+- Mehrere Verurteilungen liegen vor, nachtraegliche Gesamtstrafenbildung (§ 55 StGB) oder Haerteausgleich prüfen.
 
 ## Rolle abklaeren (Pflicht)
 
@@ -58,7 +58,7 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 | Einstellungsangebot § 153a StPO | `153a-stpo-einstellung-gegen-auflage` |
 | Anklage liegt vor, Hauptverhandlung vorbereiten | `strafrahmen-und-strafzumessungsstufen`, dann `paragraph-46-stgb-grundsatz-strafzumessung` |
 | Verstaendigung steht an | `verstaendigung-257c-stpo-strafzumessung` |
-| TOA mit dem Opfer moeglich | `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` |
+| TOA mit dem Opfer möglich | `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` |
 | Mehrere Taten in einem Verfahren | `gesamtstrafenbildung-53-54-stgb-erste-instanz` |
 | Mehrere Verurteilungen, eine Anlasstat | `nachtraegliche-gesamtstrafenbildung-55-stgb`, ggf. `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung` |
 | Urteil liegt vor, Strafzumessungsruege | `267-iii-stpo-begruendungsanforderungen-strafurteil` |
@@ -67,7 +67,7 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 ## Schritt-für-Schritt-Anleitung
 
 1. Rolle und Verfahrensstadium erfragen oder aus Material erkennen.
-2. Eilfristen pruefen (Einspruchsfrist § 410 StPO, Revisionsbegruendung § 345 StPO, Bewaehrungsstellungnahme).
+2. Eilfristen prüfen (Einspruchsfrist § 410 StPO, Revisionsbegruendung § 345 StPO, Bewaehrungsstellungnahme).
 3. Strafrahmen-Frage stellen: Welche Norm, welcher Strafrahmen, gibt es Regelbeispiele oder minder schweren Fall?
 4. Strafzumessungs-Tatsachen sammeln (§ 46 Abs. 2 StGB): Vorleben, Tat, Nachtatverhalten.
 5. Passenden Fachmodul auswaehlen; bei klarer Faktenlage sofort ersten Entwurf mit Platzhaltern liefern.
@@ -75,7 +75,7 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 
 ## Typische Fehler
 
-- Strafzumessung wird ohne Sortierung des Strafrahmens diskutiert: erst Strafrahmen pruefen, dann konkretisieren.
+- Strafzumessung wird ohne Sortierung des Strafrahmens diskutiert: erst Strafrahmen prüfen, dann konkretisieren.
 - Verstaendigung wird abgeschlossen, bevor die Belehrungspflicht (§ 257c Abs. 4 und 5 StPO) sauber gepruefte ist.
 - TOA wird als reine Schadenswiedergutmachung verstanden; nach BGH ist ein friedensstiftender kommunikativer Prozess noetig.
 - Tagessatzhoehe wird ohne Einkommensnachweis akzeptiert; Gericht schaetzt sonst zu Lasten des Mandanten.

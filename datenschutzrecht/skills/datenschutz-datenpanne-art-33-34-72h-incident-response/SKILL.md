@@ -14,7 +14,7 @@ description: "Datenpannen-Incident-Response Art: 33 und 34 DSGVO. 72-Stunden-Fri
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-für-Schritt: Sachverhalt klaeren NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Massnahmen Lessons Learned. Mustertexte für Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
+**Fokus:** Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-für-Schritt: Sachverhalt klären NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Maßnahmen Lessons Learned. Mustertexte für Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
 
 ### Datenschutz Datenpanne — 72 Stunden Incident Response nach Art. 33 und 34 DSGVO
 
@@ -41,8 +41,8 @@ Sieben-Fragen-Diagnose mit Antwort-Pattern:
 - **Art. 4 Nr. 12 DSGVO** Definition Verletzung des Schutzes personenbezogener Daten: Vernichtung, Verlust, Veraenderung, unbefugte Offenlegung oder Zugang.
 - **Art. 33 I DSGVO** Meldepflicht innerhalb 72 Stunden ab Kenntnis des Verantwortlichen, ausser unwahrscheinliches Risiko für Rechte und Freiheiten.
 - **Art. 33 II DSGVO** Auftragsverarbeiter meldet unverzueglich an Verantwortlichen.
-- **Art. 33 III DSGVO** Pflichtinhalt: Art der Verletzung, Kategorien und Anzahl Betroffener, DSB-Kontakt, wahrscheinliche Folgen, ergriffene oder vorgeschlagene Massnahmen.
-- **Art. 33 IV DSGVO** Stufenmeldung zulaessig.
+- **Art. 33 III DSGVO** Pflichtinhalt: Art der Verletzung, Kategorien und Anzahl Betroffener, DSB-Kontakt, wahrscheinliche Folgen, ergriffene oder vorgeschlagene Maßnahmen.
+- **Art. 33 IV DSGVO** Stufenmeldung zulässig.
 - **Art. 33 V DSGVO** Dokumentationspflicht aller Verletzungen unabhaengig von Meldung.
 - **Art. 34 I DSGVO** Benachrichtigung Betroffener bei voraussichtlich hohem Risiko.
 - **Art. 34 III DSGVO** Ausnahmen: (a) wirksame Verschluesselung, (b) Folgemassnahmen verhindern Risiko, (c) Unverhaeltnismaessigkeit / öffentliche Bekanntmachung.
@@ -52,12 +52,12 @@ Sieben-Fragen-Diagnose mit Antwort-Pattern:
 
 ## Mandantenfuehrung Schritt-für-Schritt
 
-1. **Sachverhalt klaeren — NICHT vorschnell handeln.** Erste 4-8 Stunden: Fakten sammeln, Zeitstrahl, Personenkreis. Noch nichts ausserhalb des Mandanten kommunizieren. Vermeiden Sie pauschale Selbstvorwuerfe in Mails (werden im Bussgeldverfahren zur Akte).
+1. **Sachverhalt klären — NICHT vorschnell handeln.** Erste 4-8 Stunden: Fakten sammeln, Zeitstrahl, Personenkreis. Noch nichts ausserhalb des Mandanten kommunizieren. Vermeiden Sie pauschale Selbstvorwuerfe in Mails (werden im Bussgeldverfahren zur Akte).
 2. **Risikobewertung dokumentieren.** Matrix: Eintrittswahrscheinlichkeit Risiko x Schwere. EDSA-Leitlinien 9/2022 als Massstab.
 3. **Mandantenfreigabe einholen.** Geschaeftsfuehrung, DSB nach Art. 37 DSGVO, ggf. IT-Sicherheitsbeauftragter, ggf. Betriebsrat.
 4. **Aufsicht melden — innerhalb 72 Stunden ab Kenntnis.** Stufenmeldung Art. 33 IV nutzen, wenn Fakten noch unklar. Lieber knapp und ehrlich als spekulativ ueberschwaenglich.
-5. **Betroffene benachrichtigen — nur bei hohem Risiko Art. 34 I.** Bei wirksamer Verschluesselung Ausnahme Art. 34 III a pruefen. Nicht voreilig benachrichtigen, wenn Risiko gering — sonst unnoetige Sorge und Reputationsschaden.
-6. **Massnahmen einleiten.** Passworter zuruecksetzen, Zugaenge sperren, Backup aktivieren, Vorfall eindaemmen.
+5. **Betroffene benachrichtigen — nur bei hohem Risiko Art. 34 I.** Bei wirksamer Verschluesselung Ausnahme Art. 34 III a prüfen. Nicht voreilig benachrichtigen, wenn Risiko gering — sonst unnoetige Sorge und Reputationsschaden.
+6. **Maßnahmen einleiten.** Passworter zuruecksetzen, Zugaenge sperren, Backup aktivieren, Vorfall eindaemmen.
 7. **Lessons Learned und Dokumentation Art. 33 V DSGVO.** Internes Pannenregister, Update der TOM, ggf. DSFA aktualisieren.
 
 ## Trade-off-Matrix
@@ -66,7 +66,7 @@ Sieben-Fragen-Diagnose mit Antwort-Pattern:
 |---|---|---|
 | Sofortmeldung unter 24h | Kooperation signalisiert, Bussgeldmilderung Art. 83 II c | Unvollstaendige Fakten erhoehen spaeteren Aenderungsbedarf |
 | Stufenmeldung Art. 33 IV | Frist gewahrt, Praezision steigt | Mehr Schreibarbeit, Aufsicht erwartet Update |
-| Verschluesselungs-Ausnahme Art. 34 III a | Spart Massenbenachrichtigung | Wirksamkeit muss dokumentiert sein (Schluessel sicher, Algorithmus aktuell) |
+| Verschluesselungs-Ausnahme Art. 34 III a | Spart Massenbenachrichtigung | Wirksamkeit muss dokumentiert sein (Schlüssel sicher, Algorithmus aktuell) |
 | Oeffentliche Bekanntmachung Art. 34 III c | Spart Einzelbenachrichtigung | Reputationsschaden, Anwaltsabmahnung |
 
 ## Mustertexte
@@ -95,24 +95,24 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 > 4. Kategorien personenbezogener Daten: [konkret].
 > 5. Anzahl Betroffener: [Schaetzung, mit Begruendung].
 > 6. Wahrscheinliche Folgen: [konkret nach EDSA 9/2022].
-> 7. Ergriffene und vorgeschlagene Massnahmen: [TOM-Bezug Art. 32 DSGVO, Sofortmassnahmen].
-> 8. Bewertung der Meldepflicht und der Benachrichtigung Betroffener Art. 34 DSGVO: [Pruefung mit Ergebnis].
+> 7. Ergriffene und vorgeschlagene Maßnahmen: [TOM-Bezug Art. 32 DSGVO, Sofortmassnahmen].
+> 8. Bewertung der Meldepflicht und der Benachrichtigung Betroffener Art. 34 DSGVO: [Prüfung mit Ergebnis].
 > 9. Stufenmeldung Art. 33 IV: [ja/nein, Update bis Datum].
 
 ### Betroffenenbenachrichtigung (Art. 34 II DSGVO)
 
 > Sehr geehrte/r [Name],
 >
-> in einer am [Datum] festgestellten Verletzung des Schutzes personenbezogener Daten sind moeglicherweise auch Ihre Daten betroffen. Wir informieren Sie hiermit gemaess Art. 34 DSGVO.
+> in einer am [Datum] festgestellten Verletzung des Schutzes personenbezogener Daten sind moeglicherweise auch Ihre Daten betroffen. Wir informieren Sie hiermit gemäß Art. 34 DSGVO.
 >
 > Was ist passiert: [klar].
 > Welche Daten sind betroffen: [konkret].
-> Welche moeglichen Folgen koennen entstehen: [konkret].
-> Was wir getan haben: [Massnahmen, TOM].
-> Was Sie tun koennen: [Passwortwechsel, Konto-Monitoring, Hotline].
+> Welche moeglichen Folgen können entstehen: [konkret].
+> Was wir getan haben: [Maßnahmen, TOM].
+> Was Sie tun können: [Passwortwechsel, Konto-Monitoring, Hotline].
 >
 > Datenschutzbeauftragter: [Kontakt nach Art. 37 VII DSGVO].
-> Sie koennen sich beschweren bei der zuständigen Aufsichtsbehoerde nach Art. 77 DSGVO: [Adresse].
+> Sie können sich beschweren bei der zuständigen Aufsichtsbehoerde nach Art. 77 DSGVO: [Adresse].
 >
 > Mit freundlichen Gruessen
 

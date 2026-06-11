@@ -15,15 +15,15 @@ description: "Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm
 
 Die systematische Auslegung fragt: Wo steht die Norm im Gesetz, und wie verhaelt sie sich zu den Nachbarnormen? Sie nutzt die Architektur des Gesetzbuchs als Bedeutungsquelle. Bei Savigny umfasste sie das "logische" und das "systematische" Element zugleich; heute werden beide unter "Systematik" gefuehrt.
 
-Das Argument lautet: Der Gesetzgeber denkt das Gesetz als kohaerentes System. Wer eine Norm auslegt, kann sich nicht ueber die anderen Normen desselben Buches, Abschnitts oder Titels hinwegsetzen. Widersprueche sind moeglichst zu vermeiden (Prinzip der Einheit der Rechtsordnung).
+Das Argument lautet: Der Gesetzgeber denkt das Gesetz als kohaerentes System. Wer eine Norm auslegt, kann sich nicht über die anderen Normen desselben Buches, Abschnitts oder Titels hinwegsetzen. Widersprueche sind moeglichst zu vermeiden (Prinzip der Einheit der Rechtsordnung).
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie pruefen, ob eine Norm einen Sachverhalt erfasst, und wollen Nachbarnormen heranziehen.
-- Sie streiten ueber die Reichweite einer Verweisung ("entsprechend gelten").
-- Sie pruefen das Verhaeltnis lex specialis / lex generalis (etwa § 280 BGB vs. § 823 BGB).
-- Sie pruefen den Anwendungsbereich einer Generalklausel (§§ 138, 242 BGB) im Verhaeltnis zu Spezialnormen.
-- Sie pruefen ein Querverhaeltnis zwischen BGB, HGB, ZPO oder Sondergesetzen.
+- Sie prüfen, ob eine Norm einen Sachverhalt erfasst, und wollen Nachbarnormen heranziehen.
+- Sie streiten über die Reichweite einer Verweisung ("entsprechend gelten").
+- Sie prüfen das Verhaeltnis lex specialis / lex generalis (etwa § 280 BGB vs. § 823 BGB).
+- Sie prüfen den Anwendungsbereich einer Generalklausel (§§ 138, 242 BGB) im Verhaeltnis zu Spezialnormen.
+- Sie prüfen ein Querverhaeltnis zwischen BGB, HGB, ZPO oder Sondergesetzen.
 
 ## Methodische Grundlage
 
@@ -54,20 +54,20 @@ Das Argument lautet: Der Gesetzgeber denkt das Gesetz als kohaerentes System. We
 
 1. **Norm verorten.** Welches Buch, welcher Abschnitt, welcher Titel, welcher Untertitel des BGB? Bei Sondergesetzen analog.
 2. **Nachbarnormen identifizieren.** Direkt vor- und nachstehende Paragraphen lesen.
-3. **Verweisungen pruefen.** "entsprechend gelten", "unbeschadet", "soweit", "Absatz 1 gilt nicht". Verweisungsketten nachvollziehen.
-4. **Verhaeltnis zu Allgemeinem und Besonderem Teil** pruefen (z. B. § 280 BGB als Allgemeines Schuldrecht vor §§ 437, 634 BGB).
-5. **Lex specialis / lex generalis** pruefen. Spezialnorm verdraengt Generalnorm, soweit Anwendungsbereich identisch ist.
-6. **Verhaeltnis zu Nachbargesetzen** pruefen (HGB, ZPO, Sondergesetze).
+3. **Verweisungen prüfen.** "entsprechend gelten", "unbeschadet", "soweit", "Absatz 1 gilt nicht". Verweisungsketten nachvollziehen.
+4. **Verhaeltnis zu Allgemeinem und Besonderem Teil** prüfen (z. B. § 280 BGB als Allgemeines Schuldrecht vor §§ 437, 634 BGB).
+5. **Lex specialis / lex generalis** prüfen. Spezialnorm verdraengt Generalnorm, soweit Anwendungsbereich identisch ist.
+6. **Verhaeltnis zu Nachbargesetzen** prüfen (HGB, ZPO, Sondergesetze).
 7. **Unions- und Verfassungsrecht** als Rahmenordnung beachten; bei Konflikten Querschnittskanones auslegen (siehe Skill `verfassungs-und-unionsrechtskonforme-auslegung`).
 8. **Ergebnis dokumentieren.** Systematisches Argument nennen, auch wenn andere Elemente staerker sind.
 
 ## Typische Fehler / Kritik
 
 - **Norm ohne Standort lesen.** Wer § 280 BGB aufruft, ohne das Verhaeltnis zu §§ 281-283 BGB zu sehen, missversteht den Allgemeinen Teil.
-- **Verweisungen nicht nachvollziehen.** "Entsprechend gelten" bedeutet: Norm wird sinngemaess uebertragen, nicht woertlich. Die Voraussetzungen sind separat zu pruefen.
+- **Verweisungen nicht nachvollziehen.** "Entsprechend gelten" bedeutet: Norm wird sinngemäß uebertragen, nicht woertlich. Die Voraussetzungen sind separat zu prüfen.
 - **Lex specialis uebersehen.** Wer auf § 823 BGB zugreift, obwohl § 280 BGB als vertragliche Grundlage einschlaegig ist, verschiebt die Beweislast unzulaessig zugunsten der Gegenseite.
 - **Verfassungsrecht ignorieren.** Auch Grundrechte gehoeren zur Systematik der Rechtsordnung (siehe BVerfG-Linie zur mittelbaren Drittwirkung der Grundrechte).
-- **System ueber System stellen.** Systematische Auslegung ist nicht der "wahre" Schluessel — sie ist ein Argument neben Wortlaut, Historie und Telos.
+- **System über System stellen.** Systematische Auslegung ist nicht der "wahre" Schlüssel — sie ist ein Argument neben Wortlaut, Historie und Telos.
 
 Kritik aus der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Das System ist nicht so geschlossen, wie die Pandektistik glauben machte. Im konkreten Fall siegen Problem- und Wertungsargumente, nicht Systemargumente (siehe Skill `topik-viehweg-vs-systemdenken`).
 

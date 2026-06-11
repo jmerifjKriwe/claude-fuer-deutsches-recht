@@ -17,14 +17,14 @@ description: "EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergae
 
 - Unternehmen plant Baumaterial-Lieferungen für Wiederaufbau nach Syrien nach 2024; welche Sanktionen gelten noch?
 - Bank erhaelt Auftrag für Zahlung an syrisches Bauunternehmen; Listencheck und Sektorsanktionen.
-- Exporteur fragt nach aktueller Lage nach Regimewechsel Ende 2024 bezueglich Guetersanktionen.
+- Exporteur fragt nach aktueller Lage nach Regimewechsel Ende 2024 bezüglich Guetersanktionen.
 
 ## Erste Schritte
 
 1. VO (EU) 36/2012 aktuell aufrufen (laufende Anpassungen nach Regime-Sturz 2024/2025).
 2. Personensanktionsliste auf Beteiligten screenen; Assad-Entourage und Militaer besonders beachten.
-3. Waffenembargo und Ruestungsguterliste pruefen (gilt unabhaengig vom Regime-Wechsel).
-4. Guetersanktionen: Oelembargo und sektorale Verbote auf aktuelle Fassung pruefen.
+3. Waffenembargo und Ruestungsguterliste prüfen (gilt unabhaengig vom Regime-Wechsel).
+4. Guetersanktionen: Oelembargo und sektorale Verbote auf aktuelle Fassung prüfen.
 5. Lockerungsausnahmen für humanitaere Hilfe und Wiederaufbau eruieren (Art. 25 ff. VO 36/2012).
 6. Exportgenehmigung beim BAFA für genehmigungspflichtige Gueter beantragen.
 

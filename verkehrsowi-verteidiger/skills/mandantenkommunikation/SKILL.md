@@ -19,19 +19,19 @@ Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoe
 
 ## Triage-Erstgespraeches-Leitfaden
 
-**Was zuerst klaeren:**
+**Was zuerst klären:**
 
 1. **Zustellungsdatum Bescheid?** — Frist sofort berechnen, Mandant informieren.
 2. **Fahrzeug auf Mandanten-Namen?** — Halter = OWi-Adressat; wenn nicht Fahrzeugfuehrer: Fahreridentifikation.
 3. **Aktueller Punktestand?** — Hat der Mandant eine FAER-Auskunft (§ 30 StVG)?
-4. **Berufliche Folgen eines Fahrverbots?** — Existenzgefaehrdung? Arbeitgeber-Bescheinigung moeglich?
+4. **Berufliche Folgen eines Fahrverbots?** — Existenzgefaehrdung? Arbeitgeber-Bescheinigung möglich?
 5. **Was ist das Ziel?** — Freispruch, Einstellung, Fahrverbot-Vermeidung, Tagessatz-Reduzierung?
 
 ## Kommentar-Warteraum Erstgespraeches-Sprache
 
 - Nicht: "Die Messtoleranz wurde korrekt abgezogen" → Besser: "Von Ihrer gemessenen Geschwindigkeit wird ein Sicherheitsabzug von 3 km/h (bzw. 3%) vorgenommen — das ist gesetzlich vorgeschrieben."
 - Nicht: "§ 67 OWiG-Frist" → Besser: "Sie haben ab dem Tag, an dem Sie den Bescheid bekommen haben, 2 Wochen Zeit, Einspruch einzulegen."
-- Nicht: "Standardisiertes Messverfahren nach BGH" → Besser: "Das Gericht akzeptiert diese Art der Messung grundsaetzlich, aber wir pruefen trotzdem ob technische Fehler vorlagen."
+- Nicht: "Standardisiertes Messverfahren nach BGH" → Besser: "Das Gericht akzeptiert diese Art der Messung grundsätzlich, aber wir prüfen trotzdem ob technische Fehler vorlagen."
 
 ## Zentrale Normen
 
@@ -98,12 +98,12 @@ Mit freundlichen Gruessen [KANZLEI]
 2. **Einspruch einlegen:** Mandant sofort informieren.
 3. **Akteneinsicht:** Ergebnis in verstaendlicher Sprache erklaeren.
 4. **Strategie besprechen:** Erfolgsaussichten realistisch einschaetzen.
-5. **Vor der HV:** Mandant ueber Ablauf informieren, Erscheinungspflicht klaeren.
+5. **Vor der HV:** Mandant über Ablauf informieren, Erscheinungspflicht klären.
 6. **Nach der HV / Urteil:** Ergebnis erklaeren, Rechtsmitteloptionen darlegen.
 
 ## Harte Leitplanken
 
-- Mandant immer ueber Kosten informieren (RVG-Gebühren schriftlich).
+- Mandant immer über Kosten informieren (RVG-Gebühren schriftlich).
 - Erfolgsaussichten realistisch kommunizieren — keine Garantien.
 - Fristen immer in Mandantenkommunikation vermerken.
 - Anwaltliche Endkontrolle bei Mandantenkorrespondenz.

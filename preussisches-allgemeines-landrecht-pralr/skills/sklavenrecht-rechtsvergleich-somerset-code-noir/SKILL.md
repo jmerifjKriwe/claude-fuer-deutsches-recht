@@ -50,7 +50,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ### Code Noir 1685 (Louis XIV)
 - Kolonialordnung für die franzoesischen Kolonien (Karibik, La Reunion, Louisiana).
 - Sklaverei in den Kolonien gesetzlich geregelt.
-- Im Mutterland Frankreich grundsaetzlich keine Sklaverei (Tradition "Le sol de France affranchit l'esclave qui le touche").
+- Im Mutterland Frankreich grundsätzlich keine Sklaverei (Tradition "Le sol de France affranchit l'esclave qui le touche").
 
 ### Edit du Roi de Juin 1716
 - Erlaubt die zeitweilige Mitnahme von Sklaven aus den Kolonien nach Frankreich zwecks Erziehung in Religion oder Beruf — Sklavenstatus bleibt **für maximal drei Jahre** erhalten.

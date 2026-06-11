@@ -13,7 +13,7 @@ description: "Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill k
 
 ## Grundsatz
 
-§ 22 Abs. 1 SGB II: Bedarfe für Unterkunft und Heizung werden in tatsaechlicher Hoehe anerkannt, soweit diese angemessen sind.
+§ 22 Abs. 1 SGB II: Bedarfe für Unterkunft und Heizung werden in tatsaechlicher Höhe anerkannt, soweit diese angemessen sind.
 
 ## Angemessenheitspruefung
 
@@ -24,7 +24,7 @@ description: "Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill k
 
 - Bei Unangemessenheit Aufforderung zur Senkung mit Frist (regelmaessig 6 Monate).
 - Begleitend: Wohnungssuche-Hilfe.
-- Bei Erfolglosigkeit Kuerzung auf angemessene Hoehe.
+- Bei Erfolglosigkeit Kuerzung auf angemessene Höhe.
 
 ## Eigentum
 
@@ -33,11 +33,11 @@ description: "Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill k
 
 ## Heizung
 
-- Tatsaechliche Hoehe, soweit nicht uebermäßiger Verbrauch.
+- Tatsaechliche Höhe, soweit nicht uebermäßiger Verbrauch.
 
 ## Pruefraster
 
-1. KdU in tatsaechlicher Hoehe?
+1. KdU in tatsaechlicher Höhe?
 2. Angemessenheit gepruef?
 3. Senkungsverfahren ordnungsgemaess?
 4. Wohnungssuche unterstuetzt?

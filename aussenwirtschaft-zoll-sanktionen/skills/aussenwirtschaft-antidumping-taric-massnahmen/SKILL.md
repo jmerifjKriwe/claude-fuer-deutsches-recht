@@ -3,7 +3,7 @@ name: aussenwirtschaft-antidumping-taric-massnahmen
 description: "Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, Ausgleichszoll, Safeguards) im TARIC-System: Zuordnung der KN-Position, Ursprungsland und Hersteller zu geltenden Massnahmen. Ermittelt TARIC-Zusatzcode, Preisverpflichtungen und Schwellenwerte für relevante Waren. Ou..."
 ---
 
-# TARIC-Massnahmen: Antidumping und Ausgleichszoelle in der Zollabfertigung
+# TARIC-Maßnahmen: Antidumping und Ausgleichszoelle in der Zollabfertigung
 
 ## Arbeitsweg
 
@@ -15,42 +15,42 @@ description: "Identifizierung und Anwendung handelspolitischer Schutzmassnahmen 
 
 ## Mandantenfall
 
-- Zollagent findet beim Import von Stahlrohren aus China drei konkurrierende Massnahmen-Codes in TARIC.
+- Zollagent findet beim Import von Stahlrohren aus China drei konkurrierende Maßnahmen-Codes in TARIC.
 - Importeur zahlt falsche Antidumping-Zoelle weil Hersteller-TARIC-Code veraltet.
 - Unternehmen importiert Fahrraeder aus Kambodscha; Frage ob EU-Antiumgehungsmassnahme greift.
 
 ## Erste Schritte
 
 1. KN-8-Steller und Ursprungsland klar bestimmen; TARIC-Abfrage mit aktueller Fassung.
-2. Alle gueltigen Massnahmen (ADD, CVD, Safeguard, Surveillance) für den Code auflisten.
+2. Alle gueltigen Maßnahmen (ADD, CVD, Safeguard, Surveillance) für den Code auflisten.
 3. Hersteller-Code (TARIC ADD-Zusatzcode) beim Lieferanten erfragen und validieren.
-4. Preisverpflichtungen (Price Undertakings) und Mindestimportpreise pruefen.
-5. Freimengen und Zollkontingente (TRQ) pruefen, falls Massnahme-Ausnahmen bestehen.
-6. Massnahmen-Stand in Dokumentation vermerken (Datum, TARIC-Version).
+4. Preisverpflichtungen (Price Undertakings) und Mindestimportpreise prüfen.
+5. Freimengen und Zollkontingente (TRQ) prüfen, falls Maßnahme-Ausnahmen bestehen.
+6. Maßnahmen-Stand in Dokumentation vermerken (Datum, TARIC-Version).
 
 ## Rechtsrahmen
 
-- **UZK Art. 56 Abs. 2**: Massnahmen des Gemeinsamen Zolltarifs inkl. Antidumping.
+- **UZK Art. 56 Abs. 2**: Maßnahmen des Gemeinsamen Zolltarifs inkl. Antidumping.
 - **VO (EU) 2016/1036**: Antidumping-Grundverordnung.
 - **VO (EU) 2016/1037**: Ausgleichszoll-Grundverordnung (Subventionen).
 - **VO (EU) 2015/478**: Gemeinsame Einfuhrregelung und Safeguards.
-- **Durchfuehrungsverordnungen**: Einzelne ADD- und CVD-Massnahmen per Durchfuehrungs-VO.
+- **Durchfuehrungsverordnungen**: Einzelne ADD- und CVD-Maßnahmen per Durchfuehrungs-VO.
 
 ## Pruef-Raster
 
 - [ ] KN-Code und Ursprungsland korrekt für TARIC-Abfrage?
-- [ ] Alle aktiven Massnahmen (ADD, CVD, Safeguard) aufgelistet?
+- [ ] Alle aktiven Maßnahmen (ADD, CVD, Safeguard) aufgelistet?
 - [ ] Hersteller-TARIC-Code validiert und nicht gesperrt?
 - [ ] Preisverpflichtungs-Compliance dokumentiert?
 - [ ] Freimengen/Kontingente (TRQ) geprueft?
-- [ ] Massnahmen-Stand mit Datum protokolliert?
+- [ ] Maßnahmen-Stand mit Datum protokolliert?
 
 ## Typische Fallstricke
 
 - TARIC-Datenbank mit Stand-Datum nutzen; keine Offline-Auszuege aus Vormonat.
-- Mehrere parallele Massnahmen (ADD + CVD + Safeguard) sind kumulativ anwendbar.
-- Hersteller-ID kann sich durch Fusionen oder Rueckzug der Anerkennung aendern.
-- Massnahmen gelten per Einreihung; marginale Unterschiede im KN-Code vermeiden.
+- Mehrere parallele Maßnahmen (ADD + CVD + Safeguard) sind kumulativ anwendbar.
+- Hersteller-ID kann sich durch Fusionen oder Rueckzug der Anerkennung ändern.
+- Maßnahmen gelten per Einreihung; marginale Unterschiede im KN-Code vermeiden.
 
 ## Schnittstellen zu anderen Skills
 

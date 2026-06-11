@@ -114,12 +114,12 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 
 ### Standardformel Eingang
 
-> "Der Nationale Normenkontrollrat hat den Entwurf eines [Vorhabenstitel] gemaess § 4 NKRG geprueft."
+> "Der Nationale Normenkontrollrat hat den Entwurf eines [Vorhabenstitel] gemäß § 4 NKRG geprueft."
 
 ### Standardformeln Grundsatz
 
 - "Der NKR begruesst die Zielsetzung des Vorhabens."
-- "Der NKR begruesst grundsaetzlich die Zielsetzung, hat aber Bedenken zur konkreten Ausgestaltung."
+- "Der NKR begruesst grundsätzlich die Zielsetzung, hat aber Bedenken zur konkreten Ausgestaltung."
 - "Der NKR hat Zweifel an der Erforderlichkeit des Vorhabens in der vorliegenden Form."
 
 ### Standardformeln Ergebnis
@@ -131,7 +131,7 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 ## Typische Fehler in Stellungnahme-Entwuerfen
 
 - Politische Wertung statt Methodenkritik
-- Empfehlungen pauschal ("im weiteren Verfahren zu pruefen")
+- Empfehlungen pauschal ("im weiteren Verfahren zu prüfen")
 - Schlussformel fehlt
 - Ressortname falsch
 - Aktenzeichen fehlt
@@ -143,4 +143,4 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 - §§ 45, 62 GGO
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Mustertexte und Praxisbeispiele
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

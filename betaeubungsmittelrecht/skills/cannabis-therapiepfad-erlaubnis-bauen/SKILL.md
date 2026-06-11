@@ -3,7 +3,7 @@ name: cannabis-therapiepfad-erlaubnis-bauen
 description: "Cannabis: Therapiepfad prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Cannabis Therapiepfad Pruefen
+# Cannabis Therapiepfad Prüfen
 
 ## Arbeitsweg
 

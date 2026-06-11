@@ -111,14 +111,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Steuerstrafverteidigung mit Verstaendigungsoption | Verteidigungs-Strategie nach Schema; Schriftsatz unten |
 | Variante A — Mandant will Selbstanzeige als Weg | Selbstanzeige § 371 AO zuerst; Verstaendigung danach |
 | Variante B — Steuerdelikte mit Geldwaesche-Bezug | Geldwaesche-Skill parallel; Gesamtstrategie koordinieren |
-| Variante C — Mandant will auf keinen Fall Verurteilung riskieren | Einstellungs-Strategie § 153a StPO pruefen; Verstaendigung nur alternativ |
+| Variante C — Mandant will auf keinen Fall Verurteilung riskieren | Einstellungs-Strategie § 153a StPO prüfen; Verstaendigung nur alternativ |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -252,7 +252,7 @@ Mit freundlichen Grüßen
 [RA]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

@@ -117,7 +117,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. Wurde bereits ein Insolvenzantrag gestellt? Gibt es einen vorläufigen Insolvenzverwalter?
 3. Laeuft ein StaRUG-Verfahren — Restrukturierungsplan, Restrukturierungsbeauftragter, Moratorium?
 4. Welche Erwerbsstruktur ist geplant — Asset Deal aus der Insolvenz, uebertragende Sanierung, Share Deal mit Sanierungsplan, Insolvenzplan mit Debt-Equity-Swap?
-5. Gibt es wesentliche Sicherheiten (Pfandrechte, Sicherungsuebereignungen, Grundpfandrechte), die in den Erwerb einbezogen werden muessen?
+5. Gibt es wesentliche Sicherheiten (Pfandrechte, Sicherungsuebereignungen, Grundpfandrechte), die in den Erwerb einbezogen werden müssen?
 6. Besteht Betriebsuebergang nach § 613a BGB — welche Arbeitnehmer sollen uebernommen werden?
 
 ## Zentrale Rechtsgrundlagen
@@ -137,14 +137,14 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Krisencheck:** Insolvenztatbestand (§§ 17-19 InsO) bestimmen; Antragspflicht (§ 15a InsO) und Fristen pruefen; Liquiditaetsvorschau anfordern
+1. **Krisencheck:** Insolvenztatbestand (§§ 17-19 InsO) bestimmen; Antragspflicht (§ 15a InsO) und Fristen prüfen; Liquiditaetsvorschau anfordern
 2. **Strukturwahl:** Asset Deal / uebertragende Sanierung vs. Share Deal aus der Insolvenz vs. StaRUG-Plan vs. Insolvenzplan
 3. **Anfechtungsrisiko-Analyse:** § 133 InsO (Vorsatz), § 135 InsO (Sicherheiten, Gesellschafterdarlehen), § 131 InsO (kongruente/inkongruente Deckung) — kritischer Zeitraum 4 Jahre rueckwirkend
 4. **Sicherheitenlage kartieren:** Pfandrechte, Sicherungsuebereignungen, Grundpfandrechte, Eigentumsvorbehalt — welche Sicherheiten werden mit erworben?
-5. **§ 613a BGB-Pruefung:** welche Arbeitnehmer uebernommen? Informationspflicht, Widerspruchsrecht (Frist: mind. 1 Monat); bei Nicht-Information: Schadensersatz
+5. **§ 613a BGB-Prüfung:** welche Arbeitnehmer uebernommen? Informationspflicht, Widerspruchsrecht (Frist: mind. 1 Monat); bei Nicht-Information: Schadensersatz
 6. **Insolvenzverwalter-Interface:** öffentliche Bekanntmachung, Angebot, Glaeubigerzustimmung, Insolvenzgericht; due diligence im eingeschraenkten Datenraum
 7. **W&I und Closing-Risiko:** W&I bei Distressed meist ausgeschlossen; stattdessen: Disclosure-basierter Haftungsausschluss, MAC-Trigger im SPA
-8. **Liquiditaetsampel und CP-Kalender:** Mindestliquiditaet bis Closing sichern; CPs pruefen (Insolvenzgericht-Genehmigung, Glaeubigerzustimmung)
+8. **Liquiditaetsampel und CP-Kalender:** Mindestliquiditaet bis Closing sichern; CPs prüfen (Insolvenzgericht-Genehmigung, Glaeubigerzustimmung)
 
 ## Entscheidungsbaum
 
@@ -187,7 +187,7 @@ OFFENE PUNKTE: [TODO Owner Datum]
 
 - Insolvenzrechtlicher Status unklar: Antragspflicht § 15a InsO laeuft; Haftung Geschaeftsfuehrer § 15b InsO
 - Anfechtungsrisiko nicht geprueft: Asset Deal anfechtbar; Sicherheiten fallen zurueck zur Masse
-- § 613a BGB-Information unterlassen: Schadensersatz; alle Arbeitsverhaeltnisse gehen ueber
+- § 613a BGB-Information unterlassen: Schadensersatz; alle Arbeitsverhaeltnisse gehen über
 - Liquiditaetslücke vor Closing: MAC-Trigger im SPA; Closing-Versagung
 
 ## Standardausgabe

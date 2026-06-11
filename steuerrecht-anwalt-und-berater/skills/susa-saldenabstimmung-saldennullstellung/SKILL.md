@@ -23,14 +23,14 @@ description: "Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass.
 
 ## Kernsachverhalt
 
-Zum Bilanzstichtag muessen die Forderungen und Verbindlichkeiten extern bestaetigt werden, soweit dies dem Mandanten zumutbar und im Pruefungsumfang erforderlich ist. Die Saldenabstimmung ist Pflichtbestandteil der Wirtschaftspruefung (§ 320 HGB) und gehoert auch zur sorgfaeltigen Jahresabschluss-Erstellung. Der Steuerberater versendet Abstimmungsschreiben, wertet Antworten aus und klaert Differenzen mit dem Mandanten und der Gegenseite.
+Zum Bilanzstichtag müssen die Forderungen und Verbindlichkeiten extern bestaetigt werden, soweit dies dem Mandanten zumutbar und im Pruefungsumfang erforderlich ist. Die Saldenabstimmung ist Pflichtbestandteil der Wirtschaftspruefung (§ 320 HGB) und gehoert auch zur sorgfaeltigen Jahresabschluss-Erstellung. Der Steuerberater versendet Abstimmungsschreiben, wertet Antworten aus und klaert Differenzen mit dem Mandanten und der Gegenseite.
 
 ## Kaltstart-Rueckfragen
 
 1. Welcher Stichtag — 31. Dezember oder abweichendes Wirtschaftsjahr?
 2. Welche Mandantengroesse (§ 267 HGB) — Pruefungspflichtig oder freiwillig?
 3. Welche Positionen sind abzustimmen — Forderungen LuL, Verbindlichkeiten LuL, Banken, Darlehen?
-4. Welcher Schwellenwert ist relevant (Forderungen ueber X EUR)?
+4. Welcher Schwellenwert ist relevant (Forderungen über X EUR)?
 5. Wie viele Geschaeftspartner ungefaehr (Volumen Abstimmungsschreiben)?
 6. Welche Form — positive Abstimmung (Antwortwerbung) oder negative (Schweigen = Zustimmung)?
 7. Welche Frist bis zum geplanten Bilanzstichtag-Reporting?
@@ -57,10 +57,10 @@ Zum Bilanzstichtag muessen die Forderungen und Verbindlichkeiten extern bestaeti
 
 ### Phase 1 — Abstimmungsobjekt waehlen
 
-| Objekt | Pruefung |
+| Objekt | Prüfung |
 |---|---|
-| Forderungen LuL ueber 5.000 EUR | Positiv-Bestaetigung |
-| Verbindlichkeiten LuL ueber 5.000 EUR | Positiv-Bestaetigung |
+| Forderungen LuL über 5.000 EUR | Positiv-Bestaetigung |
+| Verbindlichkeiten LuL über 5.000 EUR | Positiv-Bestaetigung |
 | Bankkontensalden | Saldenbestaetigung Bank (jaehrliche Bestaetigung) |
 | Darlehen | Positiv-Bestaetigung Kreditinstitut |
 | Gesellschafterdarlehen | Positiv-Bestaetigung Gesellschafter |
@@ -111,18 +111,18 @@ Mit freundlichen Gruessen
 
 ### Phase 5 — Differenzklaerung
 
-| Differenz-Typ | Mögliche Ursache | Klaerung |
+| Differenz-Typ | Mögliche Ursache | Klärung |
 |---|---|---|
 | Saldo niedriger als StB-Bestand | Zahlung des Geschaeftspartners im Cut-off | Mit Bankauszug abgleichen |
-| Saldo hoeher als StB-Bestand | Eingangs-/Ausgangsrechnung im Cut-off nicht erfasst | Buchung pruefen |
-| Saldo abweicht stark | Strittige Rechnung, Reklamation | Mit Mandant pruefen, ggf. Rueckstellung |
+| Saldo hoeher als StB-Bestand | Eingangs-/Ausgangsrechnung im Cut-off nicht erfasst | Buchung prüfen |
+| Saldo abweicht stark | Strittige Rechnung, Reklamation | Mit Mandant prüfen, ggf. Rueckstellung |
 
 ### Phase 6 — Dokumentation und Bilanzanpassung
 
 - Saldenabstimmungs-Mappe in Mandantenakte.
 - Bilanzanpassung bei wesentlichen Differenzen.
 - Bei strittigen Forderungen: Einzelwertberichtigung in der Bilanz.
-- Pruefer-Bericht mit Stichprobenquote.
+- Prüfer-Bericht mit Stichprobenquote.
 
 ## Strategie und Praxis-Tipps
 
@@ -130,7 +130,7 @@ Mit freundlichen Gruessen
 - Bei Mittelstand ohne Pruefungspflicht oft freiwillig für Bank-Reporting oder Mandantenwunsch.
 - Bei groesseren Mandanten Standardprozess mit DATEV-Saldenbestaetigung-Modul.
 - Antwortquote oft 50-70 Prozent — daher Nichtantworten dokumentiert hinnehmen.
-- StBVV: Saldenabstimmung als Zusatzauftrag Jahresabschluss oder Pruefung.
+- StBVV: Saldenabstimmung als Zusatzauftrag Jahresabschluss oder Prüfung.
 - DATEV-Tipp: DATEV-Saldenbestaetigung-Modul automatisiert Schreiben und Antwortauswertung.
 
 ## Quellen und Updates

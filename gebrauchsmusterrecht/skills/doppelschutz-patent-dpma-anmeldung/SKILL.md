@@ -27,17 +27,17 @@ Patent und Gebrauchsmuster laufen nebeneinander.
 ## Konkrete Norm-Anker
 
 ### Grundlage
-- **§ 25 PatG**: Doppelschutz Patent-Gebrauchsmuster grundsaetzlich zulaessig.
+- **§ 25 PatG**: Doppelschutz Patent-Gebrauchsmuster grundsätzlich zulässig.
 - Anmelder kann simultan Patent und Gebrauchsmuster anmelden.
 
 ### Strategische Vorteile
-1. **Frueher Schutz**: Gebrauchsmuster eingetragen binnen Wochen (Patent-Pruefung dauert 2-5 Jahre).
+1. **Frueher Schutz**: Gebrauchsmuster eingetragen binnen Wochen (Patent-Prüfung dauert 2-5 Jahre).
 2. **Schneller Registertitel**: Das Gebrauchsmuster wird ohne materielle Prüfung eingetragen; der erfinderische Schritt folgt aus § 1 Abs. 1 GebrMG und ist nicht schematisch als deutlich geringere Patentschwelle zu behandeln.
 3. **Fall-back**: Wenn Patent scheitert, bleibt das Gebrauchsmuster.
 
 ### Strategische Nachteile
 - Loeschungsantrag (§ 16 GebrMG) leichter als Patentnichtigkeitsklage.
-- Eingetragenes Gebrauchsmuster ohne materielle Pruefung — kein Bestand-Indiz.
+- Eingetragenes Gebrauchsmuster ohne materielle Prüfung — kein Bestand-Indiz.
 
 ### Schutzdauern
 - Patent: 20 Jahre ab Anmeldetag.
@@ -48,7 +48,7 @@ Patent und Gebrauchsmuster laufen nebeneinander.
 - Doppelschutz-Aussagen primär aus GebrMG, PatG und Registerstand herleiten; konkrete BGH-Rechtsprechung nur nach freier Prüfung mit vollständigem Aktenzeichen zitieren.
 
 ### Internationaler Vergleich
-- USA: kein gleichwertiges Utility Model (provisional patent kein Aequivalent).
+- USA: kein gleichwertiges Utility Model (provisional patent kein Äquivalent).
 - China: Utility Model parallel zum Patent ueblich.
 
 ## Quellen-Hardening

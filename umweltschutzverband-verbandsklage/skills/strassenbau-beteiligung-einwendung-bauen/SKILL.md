@@ -3,7 +3,7 @@ name: strassenbau-beteiligung-einwendung-bauen
 description: "Umweltschutzverband Verbandsklage: Straßenbau: Beteiligung prüfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Strassenbau Beteiligung Pruefen
+# Strassenbau Beteiligung Prüfen
 
 ## Arbeitsweg
 

@@ -13,17 +13,17 @@ description: "Pruefung der erbschaftsteuerlichen Verschonungsregeln für Betrieb
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Liegt begueenstigtes Vermoegen iSd § 13b Abs. 1 ErbStG vor (Betrieb Mitunternehmeranteil Anteile an KapGes ab 25 Prozent)?
+1. Liegt begueenstigtes Vermögen iSd § 13b Abs. 1 ErbStG vor (Betrieb Mitunternehmeranteil Anteile an KapGes ab 25 Prozent)?
 2. Wie hoch ist der Anteil Verwaltungsvermögen § 13b Abs. 4 ErbStG?
 3. Soll Regelverschonung 85 Prozent oder Optionsverschonung 100 Prozent (max. 20 Prozent Verwaltungsvermögen) gewaehlt werden?
 4. Sind Lohnsummen- und Behaltensregeln erfuellbar (5 oder 7 Jahre)?
-5. Verschonungsbedarfspruefung § 28a ErbStG bei Grossvermoegen ueber 26 Mio. Euro?
+5. Verschonungsbedarfspruefung § 28a ErbStG bei Grossvermoegen über 26 Mio. Euro?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
 - **§ 13a ErbStG** — Verschonungsabschlag.
-- **§ 13b ErbStG** — begünstigtes Vermoegen.
+- **§ 13b ErbStG** — begünstigtes Vermögen.
 - **§ 13c ErbStG** — Abschmelzungsregel bei Grossvermoegen.
 - **§ 28a ErbStG** — Verschonungsbedarfspruefung.
 - **§ 19a ErbStG** — Tarifbegrenzung.

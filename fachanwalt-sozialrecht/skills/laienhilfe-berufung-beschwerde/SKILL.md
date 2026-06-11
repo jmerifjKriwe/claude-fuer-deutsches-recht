@@ -33,10 +33,10 @@ Dieser Skill erklaert **Berufung Beschwerde** so, dass auch Menschen ohne jurist
 ## Norm- und Praxisanker
 
 - Berufung: § 143 SGG – gegen Urteile des SG zum LSG; Frist 1 Monat ab Zustellung (§ 151 SGG).
-- Berufungssumme: § 144 SGG – grundsaetzlich Berufung zulaessig, aber bei Geldleistung unter 750 EUR oder bei Erstattungsstreit unter 10.000 EUR Zulassung erforderlich. Bei wiederkehrenden Leistungen ueber mehr als 1 Jahr ohne Wertgrenze.
+- Berufungssumme: § 144 SGG – grundsätzlich Berufung zulässig, aber bei Geldleistung unter 750 EUR oder bei Erstattungsstreit unter 10.000 EUR Zulassung erforderlich. Bei wiederkehrenden Leistungen über mehr als 1 Jahr ohne Wertgrenze.
 - Zulassung Berufung: § 144 Abs. 2 SGG – grundsaetzliche Bedeutung, Divergenz, Verfahrensmangel.
 - Nichtzulassungsbeschwerde zum LSG: § 145 SGG – Frist 1 Monat.
-- Beschwerde gegen Beschluesse: § 172 SGG – Frist regelmaessig 1 Monat; nicht statthaft gegen prozessleitende Verfuegungen § 172 Abs. 2 SGG.
+- Beschwerde gegen Beschlüsse: § 172 SGG – Frist regelmaessig 1 Monat; nicht statthaft gegen prozessleitende Verfuegungen § 172 Abs. 2 SGG.
 - Postulationsfaehigkeit LSG: § 73 SGG – auch vor LSG kein Anwaltszwang für Versicherte, aber Sozialverband oder Anwalt mit PKH empfehlenswert.
 - Praxis-Tipp: Berufung in der Frist einlegen ("Hiermit lege ich Berufung gegen das Urteil vom XX.XX.XXXX, Az. XXX, ein"). Begruendung kann nachgereicht werden. Bei Wertgrenzen-Problem (unter 750 EUR) Nichtzulassungs­beschwerde gleichzeitig nutzen.
 

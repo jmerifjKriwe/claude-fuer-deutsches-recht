@@ -9,10 +9,10 @@ description: "Output: zweisprachiger Lizenzvertrag mit Massgeb-Sprache. Side-by-
 
 | Indiziert wenn | Nicht zwingend wenn |
 |---|---|
-| Beide Parteien koennen je Muttersprache lesen | beide Parteien sprechen die Vertragssprache fliessend |
+| Beide Parteien können je Muttersprache lesen | beide Parteien sprechen die Vertragssprache fliessend |
 | Kulturelle Brueckenfunktion gewuenscht | Schiedsverfahren in einer Sprache |
 | Risiko-Buffer bei Streit | Kostenfaktor (Uebersetzung teuer) |
-| Compliance mit US-Konzern und DE-Geschaeft | reine Domestic-Lizenz |
+| Compliance mit US-Konzern und DE-Geschäft | reine Domestic-Lizenz |
 
 ## Strukturoptionen
 
@@ -26,7 +26,7 @@ description: "Output: zweisprachiger Lizenzvertrag mit Massgeb-Sprache. Side-by-
 
 ### B. Sequentiell (DE-Block / EN-Block)
 
-Jeder Paragraf vollstaendig in DE, dann vollstaendig in EN. Lesefreundlicher fuer kurze Klauseln.
+Jeder Paragraf vollstaendig in DE, dann vollstaendig in EN. Lesefreundlicher für kurze Klauseln.
 
 ### C. Anlage in der jeweils anderen Sprache
 
@@ -51,11 +51,11 @@ Ohne Massgeb-Klausel ist die zweisprachige Fassung bei Divergenz **rechtsunsiche
 
 | Typische Stolpersteine | Korrekt |
 |---|---|
-| "Lizenz" vs. "licence/license" | UK: licence (Substantiv) / license (Verb); US: license fuer beides |
+| "Lizenz" vs. "licence/license" | UK: licence (Substantiv) / license (Verb); US: license für beides |
 | "Schadenersatz" vs. "Schadensersatz" | DE-Standard: "Schadensersatz" (mit s) |
-| "Verguetung" vs. "Vergutung" | mit Umlaut |
+| "Vergütung" vs. "Vergutung" | mit Umlaut |
 | "Ausschluss" / "exclusion" | nicht "exclusiveness" |
-| "Grobe Fahrlaessigkeit" / "gross negligence" | nicht "rough negligence" |
+| "Grobe Fahrlaessigkeit" / "groß negligence" | nicht "rough negligence" |
 | "Auf eigene Kosten" / "at one's own expense" | nicht "at own cost" |
 | "Frist" / "deadline" or "period" | je nach Kontext |
 

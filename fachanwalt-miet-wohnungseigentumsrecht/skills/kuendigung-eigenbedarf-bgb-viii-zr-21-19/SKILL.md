@@ -7,7 +7,7 @@ description: "Kuendigung Eigenbedarf BGB Viii Zr 21 19: fachanwaltlicher Spezial
 
 ## Einsatzlage
 
-Vermieter kuendigt fuer Tochter; Tochter zieht nie ein.
+Vermieter kuendigt für Tochter; Tochter zieht nie ein.
 
 ## Normenanker
 

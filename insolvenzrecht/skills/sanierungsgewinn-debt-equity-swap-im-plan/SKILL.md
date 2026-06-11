@@ -36,7 +36,7 @@ Dieser Skill arbeitet die KStG-, EStG- und GewStG-Folgen heraus. Adressat ist Pl
 Kaltstart-Fragen:
 
 1. Rechtsform der Schuldnerin (GmbH, AG)?
-2. Hoehe der einzubringenden Forderung?
+2. Höhe der einzubringenden Forderung?
 3. Wie hoch ist die Werthaltigkeit der Forderung am Stichtag (Bonitaet der Schuldnerin)?
 4. Wer bringt ein (Bank, Bondholder, strategischer Investor)?
 5. Soll die Einbringung als Kapitalerhoehung mit Sacheinlage oder als Kombinations-Modell erfolgen?
@@ -56,11 +56,11 @@ Kaltstart-Fragen:
 ## / Schritt für Schritt
 
 1. **Sacheinlagepruefung.** Welcher Wert wird der eingebrachten Forderung im handelsrechtlichen Kapitalerhoehungs-Verfahren beigemessen?
-2. **Werthaltigkeit der Forderung am Stichtag pruefen.**
+2. **Werthaltigkeit der Forderung am Stichtag prüfen.**
 3. **Zwei steuerliche Sphaeren trennen:**
- - **Ebene Schuldnerin:** Verbindlichkeit faellt weg; Sanierungsertrag in Hoehe des nicht werthaltigen Teils der Forderung.
- - **Ebene Glaeubiger/Investor:** Anschaffungskosten der Beteiligung in Hoehe des werthaltigen Teils; Verzichts-Aufwand in Hoehe des nicht werthaltigen Teils.
-4. **Paragraph 3a EStG-Pruefung** für den Sanierungsertrag auf Schuldnerebene.
+ - **Ebene Schuldnerin:** Verbindlichkeit faellt weg; Sanierungsertrag in Höhe des nicht werthaltigen Teils der Forderung.
+ - **Ebene Glaeubiger/Investor:** Anschaffungskosten der Beteiligung in Höhe des werthaltigen Teils; Verzichts-Aufwand in Höhe des nicht werthaltigen Teils.
+4. **Paragraph 3a EStG-Prüfung** für den Sanierungsertrag auf Schuldnerebene.
 5. **Plan-Klausel formulieren** (Paragraph 225a InsO bzw. StaRUG).
 6. **Anteils-Bewertung** (insbesondere bei AG: Sacheinlagepruefung Paragraph 27 AktG).
 
@@ -68,8 +68,8 @@ Kaltstart-Fragen:
 
 | Schritt | Wirkung Schuldnerin | Wirkung Glaeubiger/Investor |
 |---|---|---|
-| 1. Verzicht auf Forderung (in voller Hoehe) | Verbindlichkeit weg | Aufwand für den nicht werthaltigen Teil |
-| 2. Bareinlage / Sacheinlage in Hoehe der neuen Anteile | Eigenkapital steigt | Anschaffungskosten der Beteiligung |
+| 1. Verzicht auf Forderung (in voller Höhe) | Verbindlichkeit weg | Aufwand für den nicht werthaltigen Teil |
+| 2. Bareinlage / Sacheinlage in Höhe der neuen Anteile | Eigenkapital steigt | Anschaffungskosten der Beteiligung |
 
 In der Praxis erfolgt der Vorgang oft als kombinierte Einlage: die Forderung wird als Sacheinlage eingebracht.
 
@@ -78,7 +78,7 @@ In der Praxis erfolgt der Vorgang oft als kombinierte Einlage: die Forderung wir
 | Konstellation | Wirkung Schuldnerin | Wirkung Glaeubiger |
 |---|---|---|
 | Forderung voll werthaltig | kein Sanierungsertrag | Anschaffungskosten = Nennwert Forderung |
-| Forderung teilweise werthaltig | Sanierungsertrag in Hoehe des nicht werthaltigen Teils | Anschaffungskosten = werthaltiger Teil; Aufwand = nicht werthaltiger Teil |
+| Forderung teilweise werthaltig | Sanierungsertrag in Höhe des nicht werthaltigen Teils | Anschaffungskosten = werthaltiger Teil; Aufwand = nicht werthaltiger Teil |
 | Forderung nicht werthaltig | voller Sanierungsertrag | Anschaffungskosten ueberschaubar; voller Aufwand |
 | Glaeubiger ist GmbH/AG | Paragraph 8b KStG für kuenftige Beteiligungsertraege | 5% Pauschalbesteuerung Paragraph 8b Absatz 5 KStG |
 | Glaeubiger ist natuerliche Person | Paragraph 17 EStG / Paragraph 3 Nr. 40 EStG bei Veraeusserung | Teileinkuenfteverfahren |
@@ -86,10 +86,10 @@ In der Praxis erfolgt der Vorgang oft als kombinierte Einlage: die Forderung wir
 
 ## Praxistipps der alten Hasen
 
-1. **Werthaltigkeitsgutachten frueh einholen.** Im DES haengt alles am Wert der eingebrachten Forderung. Spaeter rekonstruierte Werthaltigkeit reicht selten.
+1. **Werthaltigkeitsgutachten frueh einholen.** Im DES haengt alles am Wert der eingebrachten Forderung. Später rekonstruierte Werthaltigkeit reicht selten.
 2. **Paragraph 27 AktG-Sacheinlagepruefung nicht unterschaetzen** bei AG.
 3. **Plan-Klausel Paragraph 225a InsO** liefert die rechtssichere Umgehung der Zustimmung der Altgesellschafter — Cramdown auf Anteilseigner.
-4. **StaRUG-Variante Paragraph 7 StaRUG**: dort ebenfalls Kapitalmassnahmen moeglich, aber strenger an Klassenbildung der Anteilseigner gebunden.
+4. **StaRUG-Variante Paragraph 7 StaRUG**: dort ebenfalls Kapitalmassnahmen möglich, aber strenger an Klassenbildung der Anteilseigner gebunden.
 5. **Steuerliche Bonitaetspruefung der einzubringenden Forderung** sollte vom unabhaengigen WP/StB kommen, nicht vom Glaeubiger selbst.
 6. **Reservoir-Wirkung der Verlustvortraege** auch beim DES: der Sanierungsertrag, der durch den nicht werthaltigen Teil entsteht, durchlaeuft die Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG.
 
@@ -146,8 +146,8 @@ Plan-Bestaetigung ersetzt.
 
 ## Typische Fehler
 
-1. Werthaltigkeit zu hoch angesetzt — Sanierungsertrag wird kuenstlich kleingerechnet, FA korrigiert spaeter.
-2. Werthaltigkeit zu niedrig angesetzt — Anschaffungskosten Beteiligung beim Investor zu gering, spaeter Veraeusserungsgewinn unnoetig hoch.
+1. Werthaltigkeit zu hoch angesetzt — Sanierungsertrag wird kuenstlich kleingerechnet, FA korrigiert später.
+2. Werthaltigkeit zu niedrig angesetzt — Anschaffungskosten Beteiligung beim Investor zu gering, später Veraeusserungsgewinn unnoetig hoch.
 3. Sacheinlagepruefung Paragraph 27 AktG vergessen.
 4. Paragraph 225a Absatz 3 InsO-Cramdown nicht aktiviert, Altanteilseigner blockieren.
 5. Steuerliche Behandlung nur auf Schuldnerebene gepraegt — Investor-Sicht uebersehen.

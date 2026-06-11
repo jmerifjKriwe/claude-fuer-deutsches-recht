@@ -3,7 +3,7 @@ name: aussenwirtschaft-exportkontrollklauseln-vertrag
 description: "Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, Lizenz- und Kooperationsvertraegen: No-Russia-Clause nach Art. 12g VO (EU) 833/2014, Endverwendungsklauseln, Re-Export-Verbote, Ruecktrittsrechte bei Genehmigungsversagung, Vertragsstrafen bei Verstoss. Output: Klauselbausteine und..."
 ---
 
-# Exportkontrollklauseln im Vertrag: Gestaltung und Pruefung
+# Exportkontrollklauseln im Vertrag: Gestaltung und Prüfung
 
 ## Arbeitsweg
 
@@ -17,13 +17,13 @@ description: "Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, 
 
 - Liefervertrag mit tuerkischem Abnehmer enthaelt keine Re-Export-Beschraenkung; Russland-Sanktionsrisiko.
 - Lizenzvertrag mit US-Technologie-Lizenzgeber verlangt ITAR-Flowdown-Klauseln.
-- Kaufvertrag ueber Dual-Use-Maschine ohne Ruecktrittsrecht bei Genehmigungsversagung abgeschlossen.
+- Kaufvertrag über Dual-Use-Maschine ohne Ruecktrittsrecht bei Genehmigungsversagung abgeschlossen.
 
 ## Erste Schritte
 
 1. Gueter und Technologie klassifizieren und Genehmigungspflicht feststellen.
 2. Relevante Rechtsregime identifizieren: EU-Sanktionen (No-Russia-Clause), US EAR/ITAR, nationale Genehmigungen.
-3. Bestehenden Vertrag auf exportkontrollrechtliche Klauseln pruefen.
+3. Bestehenden Vertrag auf exportkontrollrechtliche Klauseln prüfen.
 4. Erforderliche Klauseln identifizieren: No-Russia, Endverwendung, Re-Export-Verbot, Ruecktrittsrecht.
 5. Klauselbausteine formulieren oder US-Musterklauseln adaptieren.
 6. Vertragsstrafenregime für Verstoss gegen Exportkontrollklauseln einbauen.
@@ -34,7 +34,7 @@ description: "Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, 
 - **Art. 9 VO (EU) 833/2014**: Bereitstellungsverbot und vertragliche Absicherung.
 - **§ 18 AWG**: Strafbarkeit; vertragliche Mitverantwortung.
 - **§ 280 BGB**: Schadensersatz bei Verletzung vertraglicher Exportkontrollpflichten.
-- **§ 119 BGB**: Anfechtung bei Irrtum ueber Genehmigungspflicht.
+- **§ 119 BGB**: Anfechtung bei Irrtum über Genehmigungspflicht.
 
 ## Pruef-Raster
 

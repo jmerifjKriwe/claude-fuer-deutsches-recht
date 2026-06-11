@@ -45,7 +45,7 @@ Wegen der hohen Beweislast (Arbeitgeber muss Zugang beweisen) und der 3-Wochen-F
 
 - Datum, Uhrzeit jeder Zustellung protokollieren.
 - Identische Originale (Inhaltsbeweis).
-- Bei Streit ueber Zugang: spaetestens Zustellung wirkt.
+- Bei Streit über Zugang: spaetestens Zustellung wirkt.
 
 ## Pruefraster
 

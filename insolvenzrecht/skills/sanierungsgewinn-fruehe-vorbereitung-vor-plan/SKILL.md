@@ -31,7 +31,7 @@ Adressat: Insolvenzverwalter, Sachwalter, Eigenverwalter, CRO, Geschaeftsleitung
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Mandant ist Schuldnerunternehmen in der Krise, denkt ueber Insolvenzantrag oder StaRUG-Anzeige nach.
+- Mandant ist Schuldnerunternehmen in der Krise, denkt über Insolvenzantrag oder StaRUG-Anzeige nach.
 - Insolvenzverwalter wurde gerade bestellt und der Plan wird in den naechsten drei bis sechs Monaten vorbereitet.
 - Beraterteam ist neu im Mandat und muss aufholen, was steuerlich seit Krisenbeginn versaeumt wurde.
 
@@ -42,7 +42,7 @@ Kaltstart-Fragen:
 3. Liegt eine Fortbestehensprognose vor, wenn ja Stand wann?
 4. Wie hoch ist der Forderungsverzicht der Glaeubiger, der im Plan voraussichtlich erforderlich wird (Bandbreite reicht)?
 5. Steuerliche Verlustvortraege Stand letzte verbindliche Veranlagung — bekannt?
-6. Wer ist Steuerberater des Schuldners und ist er ueber die Sanierungsabsicht informiert?
+6. Wer ist Steuerberater des Schuldners und ist er über die Sanierungsabsicht informiert?
 
 Wenn nur drei der sechs Antworten vorliegen, beginnt die Arbeit am Zeitstrahl. Die fehlenden Antworten landen als Platzhalter `[noch zu klaeren: ...]` im ersten Entwurf.
 
@@ -62,20 +62,20 @@ Die folgende Tabelle nimmt als Tag 0 den geplanten Tag der Plan-Einreichung oder
 
 | Monat | Wer ist verantwortlich | Pflicht-Output | Hinweise |
 |---|---|---|---|
-| -9 bis -12 | Geschaeftsleitung + StB | Krisenfrueherkennung dokumentieren (Liquiditaetsplanung, Fortbestehensprognose Entwurf) | Spaeter ein zentraler Baustein für Sanierungsbeduerftigkeit. |
+| -9 bis -12 | Geschaeftsleitung + StB | Krisenfrueherkennung dokumentieren (Liquiditaetsplanung, Fortbestehensprognose Entwurf) | Später ein zentraler Baustein für Sanierungsbeduerftigkeit. |
 | -6 bis -9 | IV / Sachwalter / CRO | Verlustvortraege Bestandsaufnahme: Koerperschaftsteuer, Gewerbesteuer, ggf. Einkommensteuer | Bescheid-Kopien der letzten drei Veranlagungen. |
 | -6 bis -9 | StB des Schuldners | Steuerliche Modellrechnung Paragraph 3a Absatz 3 EStG: wie viel Sanierungsertrag wird durch Verlustvortraege aufgezehrt? | Wenn Verlustvortraege das Volumen vollstaendig schlucken, ist die spaetere Steuerfreiheit weniger kritisch — Antrag bleibt aber wichtig. |
 | -6 | IV / CRO | Externes Sanierungskonzept (IDW S 6 oder gleichwertig) beauftragen oder im Sachwaltermodell selbst aufsetzen | Belegt Sanierungsfaehigkeit + Sanierungseignung. |
 | -4 bis -6 | IV / CRO + StB | Glaeubiger-Kommunikation: Sanierungsabsicht aktenkundig machen (Protokollnotizen, Glaeubigerausschuss-Beschluss, Briefe) | Sanierungsabsicht ist eine der vier Voraussetzungen — sie muss aus der Akte belegbar sein. |
 | -3 bis -4 | StB + IV | Antragsraster nach Paragraph 3a EStG und Paragraph 7b GewStG vorbereiten | Antraege werden mit der Steuererklaerung des Sanierungsjahres gestellt. |
 | -2 | IV + Plan-Anwalt | Plan-Entwurf in steuerlicher Hinsicht spiegelt die Verzichtsstruktur | Inhalt des darstellenden Teils muss alle vier Voraussetzungen sichtbar machen. |
-| -1 | IV + StB | Pre-Filing-Abstimmung mit dem Finanzamt (Vorabauskunft, soweit moeglich) | Verbindliche Auskunft Paragraph 89 AO kann sich lohnen, ist gebuehrenpflichtig. |
+| -1 | IV + StB | Pre-Filing-Abstimmung mit dem Finanzamt (Vorabauskunft, soweit möglich) | Verbindliche Auskunft Paragraph 89 AO kann sich lohnen, ist gebuehrenpflichtig. |
 | 0 | IV / Plan-Anwalt | Plan-Einreichung | Steuerlich ist alles auf Knopfdruck dokumentierbar. |
 | +1 bis +3 | IV + StB | Begleitung Erlassantrag oder Vorabauskunft FA, Vorbereitung Steuererklaerung | Erlassantrag braucht alle Vorab-Dokumente. |
 
 ## Trade-off-Matrix
 
-| Entscheidung | fruehe Klaerung (mehr als 6 Monate vor Plan) | spaete Klaerung (weniger als 3 Monate vor Plan) |
+| Entscheidung | fruehe Klärung (mehr als 6 Monate vor Plan) | spaete Klärung (weniger als 3 Monate vor Plan) |
 |---|---|---|
 | Verlustvortraege ermitteln | Ruhe, Beanstandungen FA klaerbar | Hektik, Bescheide oft strittig |
 | Sanierungskonzept | substanzhaft, glaubwuerdig | hektisch, glaeubigerseitig anzweifelbar |
@@ -89,12 +89,12 @@ Die folgende Tabelle nimmt als Tag 0 den geplanten Tag der Plan-Einreichung oder
 1. **Eine Tabelle, zwei Sichten.** Verlustvortraege koerperschaftsteuerlich und gewerbesteuerlich getrennt fuehren, weil Paragraph 7b GewStG eine eigene Antragsmechanik vorsieht.
 2. **Sanierungsabsicht der Glaeubiger ist eine Akten-Sache, kein Wille.** Die Voraussetzung ist erfuellt, wenn die Glaeubiger im Plan dem Verzicht zustimmen, gerade weil die Sanierung sonst nicht funktioniert. Aktennotiz mit O-Ton aus Glaeubigerversammlung hilft mehr als Theorie.
 3. **Beraterhonorar fruehzeitig als Massehaftung sichern.** Die Beratung zu Sanierungsgewinn kostet — und der Berater haftet im Zweifel, wenn er die Modellrechnung nicht machte.
-4. **Vorabauskunft ist nicht kostenlos, aber oft wirtschaftlich.** Bei Sanierungsertraegen oberhalb von rund einer Million EUR Vorabauskunft Paragraph 89 AO regelmaessig pruefen.
-5. **Stille Reserven kennen.** Bei Buchwertfortfuehrung im Plan: stille Reserven koennen den Sanierungsertrag erhoehen oder mindern, je nach Buchungstechnik beim Verzicht.
+4. **Vorabauskunft ist nicht kostenlos, aber oft wirtschaftlich.** Bei Sanierungsertraegen oberhalb von rund einer Million EUR Vorabauskunft Paragraph 89 AO regelmaessig prüfen.
+5. **Stille Reserven kennen.** Bei Buchwertfortfuehrung im Plan: stille Reserven können den Sanierungsertrag erhoehen oder mindern, je nach Buchungstechnik beim Verzicht.
 
 ## Mustertexte / Berechnungsbeispiele
 
-**Aktenvermerk Pruefung Paragraph 3a EStG vor Plan-Einreichung (Geruest):**
+**Aktenvermerk Prüfung Paragraph 3a EStG vor Plan-Einreichung (Geruest):**
 
 ```
 AKTENVERMERK STEUERLICHE PRUEFUNG VOR PLAN-EINREICHUNG
@@ -147,6 +147,6 @@ Verfasser: [IV/Sachwalter] in Abstimmung mit [StB Name]
 - Paragraph 36 Absatz 2c GewStG, `gesetze-im-internet.de/gewstg/__36.html`.
 - Paragraphen 251, 222, 227 AO, `gesetze-im-internet.de/ao_1977/`.
 - Paragraph 60 InsO, `gesetze-im-internet.de/inso/__60.html`.
-- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung und Grenzen des steuerfreien Sanierungsgewinns. Verifikation ueber `dejure.org` und NWB-Datenbank.
-- FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation, Rangruecktritt und Steuerausfall mangels Koerperschaftsteuersubjekt; verifizierte Fundstelle für den Pfad Liquidation statt Plan.
+- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung und Grenzen des steuerfreien Sanierungsgewinns. Verifikation über `dejure.org` und NWB-Datenbank.
+- FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation, Rangrücktritt und Steuerausfall mangels Koerperschaftsteuersubjekt; verifizierte Fundstelle für den Pfad Liquidation statt Plan.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

@@ -16,7 +16,7 @@ description: "Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — 
 1. Liegt Nahestehensverhaeltnis iSd § 1 Abs. 2 AStG vor?
 2. Welche Methode wird angewandt (Preisvergleich Wiederverkauf Kostenaufschlag TNMM Profit-Split)?
 3. Wurde die Dokumentation § 90 Abs. 3 AO erstellt — Local File Master File CbCR?
-4. Sind Zuschlaege nach § 162 Abs. 4 AO bei fehlender, verspaeteter oder unverwertbarer Dokumentation moeglich?
+4. Sind Zuschlaege nach § 162 Abs. 4 AO bei fehlender, verspaeteter oder unverwertbarer Dokumentation möglich?
 5. Greift Korrekturregelung § 1 AStG im Verhaeltnis zu DBA?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 

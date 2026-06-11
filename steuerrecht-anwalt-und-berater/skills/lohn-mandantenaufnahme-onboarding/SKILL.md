@@ -13,13 +13,13 @@ description: "Onboarding eines neuen Lohn-Mandanten. Anwendungsfall Erstaufnahme
 
 ## Kernsachverhalt
 
-Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stammdaten zum Arbeitgeber und allen Arbeitnehmern, SV-Nummern, Steuer-IDs, ELStAM-Abruf, Berufsgenossenschaft, ggf. Versorgungswerk. Fehlende oder fehlerhafte Stammdaten fuehren zu spaeter aufwendigen Korrekturen. Der Steuerberater nutzt eine Standard-Checkliste, die in DATEV LODAS, Lohn und Gehalt oder einem aequivalenten Programm zu hinterlegen ist.
+Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stammdaten zum Arbeitgeber und allen Arbeitnehmern, SV-Nummern, Steuer-IDs, ELStAM-Abruf, Berufsgenossenschaft, ggf. Versorgungswerk. Fehlende oder fehlerhafte Stammdaten fuehren zu später aufwendigen Korrekturen. Der Steuerberater nutzt eine Standard-Checkliste, die in DATEV LODAS, Lohn und Gehalt oder einem aequivalenten Programm zu hinterlegen ist.
 
 ## Kaltstart-Rueckfragen
 
 1. Welche Rechtsform und Branche des Mandanten?
 2. Wie viele Arbeitnehmer (Stammbelegschaft, geringfuegig, Werkstudenten)?
-3. Welches Vorprogramm bzw. Vorberater (Datenuebernahme moeglich)?
+3. Welches Vorprogramm bzw. Vorberater (Datenuebernahme möglich)?
 4. Welcher Lohnsteuer-Anmelde-Zeitraum (monatlich, vierteljaehrlich, jaehrlich)?
 5. Bestehen ueberbetriebliche Tarifvertraege?
 6. Gibt es eine Betriebsvereinbarung zu Loehnen, Tantiemen, bAV?
@@ -56,13 +56,13 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 
 ### Phase 1 — Arbeitgeber-Stammdaten
 
-| Stammdaten-Feld | Quelle / Pruefung |
+| Stammdaten-Feld | Quelle / Prüfung |
 |---|---|
 | Firma, Rechtsform, Sitz | Handelsregister-Auszug |
 | Steuer-Nr und Steuer-Id | Finanzamtsbescheid |
 | Betriebsstaetten-Nummer (BSN) | Bundesagentur für Arbeit |
 | Berufsgenossenschaft + Mitgliedsnummer | BG-Bescheid |
-| Krankenkassen-Schluessel | Krankenkasse |
+| Krankenkassen-Schlüssel | Krankenkasse |
 | Versorgungswerk (falls einschlaegig) | Berufsverband |
 | Tarifvertrag | DGB / Verband |
 | Lohnsteuer-Anmeldungs-Zeitraum | FA-Festlegung |
@@ -87,7 +87,7 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 
 - ELStAM-Verfahren (Elektronische LohnSteuerAbzugsMerkmale): zentraler Abruf der LSt-Merkmale beim BZSt (§ 39e EStG).
 - Voraussetzung: Steuer-Id (11-stellig) des AN.
-- Abrufschluessel: AG-Steuer-Nr (FA-Schluessel + AG-Nr) und Geburtsdatum des AN.
+- Abrufschluessel: AG-Steuer-Nr (FA-Schlüssel + AG-Nr) und Geburtsdatum des AN.
 - Abruf-Zeitpunkt: vor der ersten Lohnabrechnung, in DATEV LODAS unter Mandant → Mitarbeiterverwaltung → ELStAM-Anmeldung; bei DATEV Lohn und Gehalt unter Stamm → ELStAM-Verfahren. Ruecklauf in der Regel binnen Sekunden.
 - Erst-Anmeldung mit Anlassgrund "Beginn der Beschaeftigung"; Folgemonatlich automatische Aktualisierung bei Aenderungen (Steuerklasse, KiFB, KKB).
 
@@ -114,12 +114,12 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 
 ## Strategie und Praxis-Tipps
 
-- Onboarding-Checkliste konsequent durchgehen — vergessene Stammdaten kosten spaeter erheblich Zeit.
-- ELStAM-Abruf rechtzeitig — bei Fehlern keine Abrechnung moeglich.
-- Bei Konzern-Mandanten: zentrale Konsistenz pruefen (gleiche Konto-Nummern, Kostenstellen).
+- Onboarding-Checkliste konsequent durchgehen — vergessene Stammdaten kosten später erheblich Zeit.
+- ELStAM-Abruf rechtzeitig — bei Fehlern keine Abrechnung möglich.
+- Bei Konzern-Mandanten: zentrale Konsistenz prüfen (gleiche Konto-Nummern, Kostenstellen).
 - Mandantenvereinbarung schriftlich — Lohnbuchfuehrung StBVV § 35 separater Auftrag.
-- Erstes Lohn-Jahr immer mit Stichproben pruefen (Sachbezuege, Pauschalsteuer, SV-Klassifikation).
-- DATEV-Tipp: DATEV LODAS Mandanten-Anlage mit Pruefliste; bei Datenuebernahme aus Vorprogramm (z.B. Lexware) erweiterte Pruefung.
+- Erstes Lohn-Jahr immer mit Stichproben prüfen (Sachbezuege, Pauschalsteuer, SV-Klassifikation).
+- DATEV-Tipp: DATEV LODAS Mandanten-Anlage mit Pruefliste; bei Datenuebernahme aus Vorprogramm (z.B. Lexware) erweiterte Prüfung.
 
 ## Quellen und Updates
 

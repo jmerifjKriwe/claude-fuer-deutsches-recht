@@ -33,7 +33,7 @@ Die Erfindung wurde schon gezeigt.
 
 ### Anwendungsfall
 - Messeveroeffentlichung, Produktlaunch, wissenschaftliche Veroeffentlichung des Erfinders.
-- Nach 6-monatiger Frist Anmeldung weiterhin moeglich.
+- Nach 6-monatiger Frist Anmeldung weiterhin möglich.
 
 ### Voraussetzungen
 - Veroeffentlichung muss von Erfinder oder Rechtsnachfolger ausgehen.
@@ -49,8 +49,8 @@ Die Erfindung wurde schon gezeigt.
 
 ### Internationale Folgen
 - Bei Anmeldung im Ausland (z. B. EP-Patent) gilt die deutsche Neuheitsgnade NICHT.
-- 6 Monate genuegen daher nur für DE-Gebrauchsmuster.
-- Bei US- oder JP-Strategie eigene Regelungen pruefen.
+- 6 Monate genügen daher nur für DE-Gebrauchsmuster.
+- Bei US- oder JP-Strategie eigene Regelungen prüfen.
 
 ## Quellen-Hardening
 

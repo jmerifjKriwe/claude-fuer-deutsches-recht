@@ -15,7 +15,7 @@ description: "Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fug
 
 ## Spezialwissen
 
-Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig: Lagerfugen zu dick oder zu duenn, nicht vermoeelte Stossfugen, falsche Steinformate oder ungenuegend eingebundene Sturze fuehren spaeter zu Rissen und Feuchteeintraegen. Die Bauueberwachung in LPH 8 kontrolliert Fugenbild, Mauermoertelklasse und Steindruckfestigkeit als Konformitaetsnachweis und dokumentiert fotographisch für die Gewaehrleistungsphase.
+Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig: Lagerfugen zu dick oder zu duenn, nicht vermoeelte Stossfugen, falsche Steinformate oder ungenuegend eingebundene Sturze fuehren später zu Rissen und Feuchteeintraegen. Die Bauueberwachung in LPH 8 kontrolliert Fugenbild, Mauermoertelklasse und Steindruckfestigkeit als Konformitaetsnachweis und dokumentiert fotographisch für die Gewaehrleistungsphase.
 
 ## Bauwerk und Auftrag
 
@@ -26,8 +26,8 @@ Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig:
 ## Erste Schritte auf der Baustelle
 
 1. Materialprüfung Steine und Moertel: CE-Zeugnis je Liefercharge, Steindruckfestigkeit nach DIN EN 771-1, Moertelklasse LM 21 oder NM 10 nach DIN 20000-412 Lieferschein
-2. Lagerfugenstärke messen: Zollstock und Schieblehre je 5. Schicht, Soll 12 mm Toleranz +-3 mm, Protokoll mit Wandachse und Hoehe
-3. Stossflachen-Vermoertelung pruefen: Vollflaeche oder Hohlkammer-Vermoertelung nach DIN EN 1996-2, bei Hohlkammer-Klasse-Zulassung vorhanden
+2. Lagerfugenstärke messen: Zollstock und Schieblehre je 5. Schicht, Soll 12 mm Toleranz +-3 mm, Protokoll mit Wandachse und Höhe
+3. Stossflachen-Vermoertelung prüfen: Vollflaeche oder Hohlkammer-Vermoertelung nach DIN EN 1996-2, bei Hohlkammer-Klasse-Zulassung vorhanden
 4. Wandscheiben-Stoss: Verzahnung oder Ankerschiene, Versatz Steine mindestens 0.25 Steinhöhe, Foto je Wandkreuzung
 5. Sturzauflager: Auflagertiefe mindestens 175 mm oder nach Statik, Auflagermoertel vollflächig, Statik-Freigabe bei Stahl-Sturztraeger
 6. Abdichtung Fensterbank und Bruestung: Bleistreifen, EPDM oder Bitumenband, Ueberlappung 150 mm, Flanke am Mauerwerk hochgezogen 50 mm
@@ -47,8 +47,8 @@ Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig:
 2. Wandlot: Wasserwaage und Lotschnur, Wandneigung kleiner 5 mm auf 2 m Latte, Protokolliert an Wandachse
 3. Moertelklasse-Lieferschein: Charge, Datum, Klasse, Mischungsverhaeltnis bei Werksmoertel, Moertelproben 40 mm x 40 mm x 160 mm nach DIN EN 1015-11
 4. Sturzlageplan: Alle Stuerze eingetragen, Auflagertiefe gemessen und protokolliert, Foto je Sturzeinbau
-5. Oeffnungsmasse: Lichte Weite +10 mm/-5 mm Toleranz gegenueber Plan, Hoehe gleichermassen, Diagonalenmass
-6. Ankerverbindung Holzdecke-Mauerwerk: Ankerschiene oder Stahlanker je 1.25 m Hoehe, Einbindung 120 mm in Mauerwerk, Foto je Anker
+5. Oeffnungsmasse: Lichte Weite +10 mm/-5 mm Toleranz gegenueber Plan, Höhe gleichermassen, Diagonalenmass
+6. Ankerverbindung Holzdecke-Mauerwerk: Ankerschiene oder Stahlanker je 1.25 m Höhe, Einbindung 120 mm in Mauerwerk, Foto je Anker
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -75,7 +75,7 @@ Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig:
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

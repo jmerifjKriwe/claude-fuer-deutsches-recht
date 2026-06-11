@@ -28,7 +28,7 @@ Skill für Beamte, denen Erholungsurlaub aus zurueckliegenden Urlaubsjahren nich
 
 ### a) Unionsrechtliche Vorgaben
 - Richtlinie 2003/88/EG: Mindesturlaub vier Wochen pro Jahr.
-- EuGH C-518/20 und Vorgaengerentscheidungen (Schultz-Hoff, KHS, Max-Planck): Urlaub verfaellt grundsaetzlich nicht automatisch, wenn der Dienstherr seiner Mitwirkungsobliegenheit (Aufklaerung ueber Verfall) nicht nachgekommen ist.
+- EuGH C-518/20 und Vorgaengerentscheidungen (Schultz-Hoff, KHS, Max-Planck): Urlaub verfaellt grundsätzlich nicht automatisch, wenn der Dienstherr seiner Mitwirkungsobliegenheit (Aufklaerung über Verfall) nicht nachgekommen ist.
 
 ### b) Mitwirkungsobliegenheit
 - Dienstherr muss den Beamten konkret und rechtzeitig darauf hinweisen, dass nicht genommener Urlaub mit Ablauf des Uebertragungszeitraums verfaellt.
@@ -42,7 +42,7 @@ Skill für Beamte, denen Erholungsurlaub aus zurueckliegenden Urlaubsjahren nich
 - Zusatzurlaub (Schwerbehinderung, Wechselschicht) ist landesrechtlich gesondert geregelt.
 
 ### e) Frist
-- Antrag auf Abgeltung zeitnah nach Ausscheiden; Verjährungsfristen pruefen.
+- Antrag auf Abgeltung zeitnah nach Ausscheiden; Verjährungsfristen prüfen.
 
 ## 4. Quellenpflicht
 

@@ -26,7 +26,7 @@ description: "EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap für 
 
 Ziel: alle Transfers erfassen.
 
-Pruefen:
+Prüfen:
 
 - Welche Daten werden uebermittelt? Direkter Export, Remote Access, Onward Transfers?
 - Wer ist Exporteur (Verantwortlicher oder Auftragsverarbeiter)?
@@ -51,19 +51,19 @@ Optionen:
  - Behoerdliche Standardvertragsklauseln.
 - **Art. 49 DSGVO – Ausnahmen** (Einwilligung, Vertragserfuellung, Rechtsanspruch) – nur eng auslegen, keine Dauerloesung.
 
-Bei Art. 45 endet die TIA-Pruefung haeufig hier (Schritt 3-5 dann reduziert).
+Bei Art. 45 endet die TIA-Prüfung haeufig hier (Schritt 3-5 dann reduziert).
 
 ### Schritt 3 – Assess law and practice
 
 Ziel: Drittlandsrecht und tatsaechliche Praxis bewerten.
 
-Pruefen:
+Prüfen:
 
 - Welche Behörden haben Zugriffsbefugnisse?
 - Welche Eingriffstiefe? Welche Garantien (gerichtliche Kontrolle, Anlassbezug)?
 - Empfehlung 02/2020 – Europaeische Wesentliche Garantien (EEG):
  - Garantie A: klare, praezise und vorhersehbare Regelungen.
- - Garantie B: Notwendigkeit und Verhaeltnismaessigkeit.
+ - Garantie B: Notwendigkeit und Verhältnismäßigkeit.
  - Garantie C: unabhaengiger Pruefmechanismus.
  - Garantie D: effektive Rechtsschutzmoeglichkeiten der betroffenen Person.
 - Sind die Garantien im Recht **und** in der Praxis erfuellt?
@@ -76,25 +76,25 @@ Falls Schritt 3 negativ: ergaenzende Schutzmassnahmen.
 
 Drei Kategorien:
 
-- **Technische Massnahmen** (oft entscheidend): starke Verschluesselung mit Key Management ausserhalb des Drittlands; Pseudonymisierung mit unkorrelierten Schluesseln; Split Processing; ueberhaupt kein Klartext-Zugriff durch Importeur.
-- **Vertragliche Massnahmen**: erweiterte Audit- und Transparenzrechte, Behördenanfragen-Berichtspflichten, Warrant Canary, sofortige Aussetzungspflichten.
-- **Organisatorische Massnahmen**: Mitarbeiterschulung, klare Eskalationsprozesse, Lieferantenbewertung, dokumentierte Anfechtungspolitik.
+- **Technische Maßnahmen** (oft entscheidend): starke Verschluesselung mit Key Management ausserhalb des Drittlands; Pseudonymisierung mit unkorrelierten Schluesseln; Split Processing; ueberhaupt kein Klartext-Zugriff durch Importeur.
+- **Vertragliche Maßnahmen**: erweiterte Audit- und Transparenzrechte, Behördenanfragen-Berichtspflichten, Warrant Canary, sofortige Aussetzungspflichten.
+- **Organisatorische Maßnahmen**: Mitarbeiterschulung, klare Eskalationsprozesse, Lieferantenbewertung, dokumentierte Anfechtungspolitik.
 
 EDPB-Anhang 2 zu Empfehlung 01/2020 listet Use Cases 1-7 (Use Case 6 und 7 ohne wirksame Schutzmassnahmen denkbar).
 
 ### Schritt 5 – Procedural steps
 
-Wenn ergaenzende Massnahmen erforderlich:
+Wenn ergaenzende Maßnahmen erforderlich:
 
 - AVV/DPA anpassen.
 - SCC ergaenzende Anhaenge ausfuellen (Annex I, II, III).
-- Falls SCC angepasst werden (Klauselzusatz, nicht Streichung) – Konsultation Aufsichtsbehoerde pruefen.
+- Falls SCC angepasst werden (Klauselzusatz, nicht Streichung) – Konsultation Aufsichtsbehoerde prüfen.
 - Bei BCR – Updates an die Lead-Behörde melden.
 - Genehmigung beantragen, wo erforderlich.
 
 ### Schritt 6 – Re-evaluate
 
-Erneute Pruefung bei Aenderungen:
+Erneute Prüfung bei Aenderungen:
 
 - Aenderungen im Drittlandsrecht (Gesetze, Urteile).
 - Aenderungen in der Behördenpraxis.
@@ -144,7 +144,7 @@ Kapitelueberschriften für das TIA-Dokument:
 - Schritt 1 unvollstaendig: nur Direkttransfer betrachtet, nicht Onward Transfer.
 - Schritt 2: DPF gewaehlt, aber Importeur nicht aktiv gelistet.
 - Schritt 3: keine Praxispruefung – nur abstrakte Rechtsanalyse.
-- Schritt 4: ausschliesslich vertragliche Massnahmen ohne technische Untermauerung – nach EDPB regelmaessig unzureichend.
+- Schritt 4: ausschließlich vertragliche Maßnahmen ohne technische Untermauerung – nach EDPB regelmaessig unzureichend.
 - Schritt 5: SCC inhaltlich veraendert (statt nur ergaenzt) – riskant.
 - Schritt 6: kein Review-Termin.
 - TIA wird gemacht, aber nicht zur Akte genommen.

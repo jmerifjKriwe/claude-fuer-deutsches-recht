@@ -3,7 +3,7 @@ name: suedafrika-section-36-uebersicht
 description: Section 36 der Verfassung Suedafrikas 1996 als Limitation Clause mit fuenf Kriterien Bedeutung der Rechte Bedeutung des Zwecks Eingriffsintensitaet Verhaeltnis Mittel-Zweck und mildere Mittel. Mit Hinweisen zur Rezeption deutscher Methodik und Constitutional Court Praxis.
 ---
 
-# Suedafrika Section 36 Uebersicht
+# Suedafrika Section 36 Übersicht
 
 ## Normtext
 
@@ -23,7 +23,7 @@ factors, including:
 
 ## Struktur
 
-Section 36 enthaelt eine **generalisierte Limitation Clause** fuer alle
+Section 36 enthaelt eine **generalisierte Limitation Clause** für alle
 Grundrechte der Bill of Rights. Sie kombiniert:
 
 - formelle Anforderungen: **law of general application** (Gesetzesvorbehalt,
@@ -63,14 +63,14 @@ Wichtige Constitutional-Court-Entscheidungen:
 | Deutschland | Suedafrika |
 | --- | --- |
 | Vier Stufen sequenziell | Fuenf Faktoren parallel abgewogen |
-| Jede Stufe kann Pruefung beenden | Gesamtabwaegung nach allen Faktoren |
+| Jede Stufe kann Prüfung beenden | Gesamtabwaegung nach allen Faktoren |
 | Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt |
-| Praktische Konkordanz fuer Kollisionen | Direkte Abwaegung nach S 36 |
-| Untermassverbot fuer Schutzpflichten | Schutzpflichten weniger ausgepraegt |
+| Praktische Konkordanz für Kollisionen | Direkte Abwaegung nach S 36 |
+| Untermassverbot für Schutzpflichten | Schutzpflichten weniger ausgeprägt |
 
-## Bedeutung fuer den Pruefer
+## Bedeutung für den Prüfer
 
 Beim rechtsvergleichenden Argument: Section 36 erlaubt explizite
 Abwaegung **aller relevanten Faktoren** und ist methodisch
-flexibler als die starre Vier-Stufen-Pruefung. In Grenzfaellen
+flexibler als die starre Vier-Stufen-Prüfung. In Grenzfaellen
 bietet S 36-Argumentation eine Vergleichsfolie.

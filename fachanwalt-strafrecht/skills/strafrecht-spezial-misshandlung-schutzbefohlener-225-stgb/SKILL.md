@@ -41,7 +41,7 @@ In der Praxis ist § 225 StGB die zentrale Norm zum Schutz von **Kindern in Fami
 **Tathandlung (drei Varianten):**
 
 1. **Quaelen:** Laenger dauernde oder wiederholte Misshandlungen, die erhebliche koerperliche oder seelische Leiden verursachen. Wiederholungs- oder Dauerelement.
-2. **Roh misshandeln:** Gefuehllose, von schwerer Brutalitaet gepraegte Misshandlung. Einzelne Handlung kann genuegen, wenn sie besonders brutal ist.
+2. **Roh misshandeln:** Gefuehllose, von schwerer Brutalitaet gepraegte Misshandlung. Einzelne Handlung kann genügen, wenn sie besonders brutal ist.
 3. **Pflichtwidrige Vernachlaessigung mit Gesundheitsschaedigung:** Unterlassen der gebotenen Fuersorge mit der Folge einer Schaedigung der Gesundheit. Beispiel: Nichtversorgung eines Kindes; Verweigerung medizinischer Versorgung.
 
 **Subjektiver Tatbestand:** Vorsatz hinsichtlich der Tathandlung und der Stellung als Schutzbefohlener. Dolus eventualis genuegt.
@@ -50,7 +50,7 @@ In der Praxis ist § 225 StGB die zentrale Norm zum Schutz von **Kindern in Fami
 
 **Quaelen:** Klassisch wiederholte koerperliche Bestrafung, lang andauernde Demuetigungen, fortgesetzte seelische Misshandlung. **Seelisches Quaelen** ausdruecklich erfasst (Mobbing, Isolation, dauerhafte Drohungen). Einzelne Misshandlung reicht nicht; erforderlich sind mehrere Tathandlungen oder eine dauerhafte Situation.
 
-**Roh misshandeln:** Tat mit besonderer Brutalitaet oder Gefuehllosigkeit. Auch Einzelhandlung moeglich, wenn sie sich durch eine rohe Gesinnung auszeichnet. Schuetteln eines Saeuglings (Schuetteltrauma), schwere Schlaege gegen ein Kleinkind.
+**Roh misshandeln:** Tat mit besonderer Brutalitaet oder Gefuehllosigkeit. Auch Einzelhandlung möglich, wenn sie sich durch eine rohe Gesinnung auszeichnet. Schuetteln eines Saeuglings (Schuetteltrauma), schwere Schlaege gegen ein Kleinkind.
 
 **Pflichtwidrige Vernachlaessigung:** Unterlassen iVm § 13 StGB. Voraussetzung: Garantenstellung aus Fuersorgepflicht. Erforderlich ist eine **Schaedigung der Gesundheit**. Bei blosser Gefaehrdung ggf. § 171 StGB (Verletzung der Fuersorgepflicht).
 
@@ -64,29 +64,29 @@ bringt. Konkretes Gefaehrdungsdelikt. Bei Schuetteltrauma, schweren Bissverletzu
 
 ## Praktikertipps der Verteidigung
 
-- **Taetereigenschaft pruefen:** Liegt eine Obhuts- oder Fuersorgepflicht vor? Bei lockerem familiaeren Kontakt ohne dauerhafte Verantwortung kann Taetereigenschaft entfallen.
+- **Taetereigenschaft prüfen:** Liegt eine Obhuts- oder Fuersorgepflicht vor? Bei lockerem familiaeren Kontakt ohne dauerhafte Verantwortung kann Taetereigenschaft entfallen.
 - **Quaelen – Wiederholungselement:** Wenn nur einmalige Misshandlung vorlag, ist § 225 StGB nicht in der Quael-Variante erfuellt; ggf. § 223 / § 224 StGB.
 - **Aerztliche Sachverstaendige:** Bei Schuetteltrauma / Babyshaking medizinische Sachverstaendige zu Verletzungsmechanismus, Vorerkrankungen, Alternativursachen.
 - **Kindersachverstaendige:** Bei seelischer Quaelung kinderpsychologische / kinderpsychiatrische Begutachtung.
-- **Garantenstellung beim Unterlassen:** Bei Vernachlaessigung Garantenstellung sorgfaeltig pruefen.
+- **Garantenstellung beim Unterlassen:** Bei Vernachlaessigung Garantenstellung sorgfaeltig prüfen.
 - **§ 1631 Abs. 2 BGB:** Gewaltfreie Erziehung; koerperliche Bestrafung ist seit 2000 ausdruecklich verboten.
-- **Verteidigung in Kindeswohlverfahren:** Achtung – parallele Verfahren beim Familiengericht (§ 1666 BGB). Aussagen im Strafverfahren koennen im Familienverfahren Folgen haben.
+- **Verteidigung in Kindeswohlverfahren:** Achtung – parallele Verfahren beim Familiengericht (§ 1666 BGB). Aussagen im Strafverfahren können im Familienverfahren Folgen haben.
 
 ## Trade-off-Matrix
 
 - **Schweigen vs. Aussage:** Bei "Aussage gegen Aussage" mit Kind kann das Schweigen die Tatfeststellung erschweren. Risiko: Aussage des Beschuldigten kann sich gegen ihn wenden.
 - **Aussage des Kindes:** Glaubwuerdigkeitsgutachten nach staendiger BGH-Linie; Erhebung der Aussage moeglichst kindgerecht; oft Videovernehmung nach § 58a StPO.
 - **Geststaendnis und TOA:** Bei familiaerer Konstellation oft Strafmilderung; Bewaehrungsaussicht.
-- **Glaubwuerdigkeit der Anzeige:** Bei familiaeren Konflikten (Sorgerechtsverfahren) Pruefung, ob die Anzeige zur Beeinflussung des Familienverfahrens dient – aber Verteidigung darf nicht den Eindruck einer Opferdiskreditierung erwecken.
-- **Nebenklage:** § 395 Abs. 1 Nr. 4 StPO – Nebenklage durch Schutzbefohlene zulaessig.
+- **Glaubwuerdigkeit der Anzeige:** Bei familiaeren Konflikten (Sorgerechtsverfahren) Prüfung, ob die Anzeige zur Beeinflussung des Familienverfahrens dient – aber Verteidigung darf nicht den Eindruck einer Opferdiskreditierung erwecken.
+- **Nebenklage:** § 395 Abs. 1 Nr. 4 StPO – Nebenklage durch Schutzbefohlene zulässig.
 
 ## Konkurrenzen
 
-- **§§ 223, 224, 226, 227 StGB:** Tateinheit moeglich; § 225 StGB hat Sperrwirkung wegen Sonderpflichtverletzung (staendige BGH-Linie).
+- **§§ 223, 224, 226, 227 StGB:** Tateinheit möglich; § 225 StGB hat Sperrwirkung wegen Sonderpflichtverletzung (staendige BGH-Linie).
 - **§ 211 StGB iVm § 22 StGB:** Bei Toetungsvorsatz vorrangig.
 - **§ 171 StGB:** Verletzung der Fuersorge- oder Erziehungspflicht – allgemeines Gefaehrdungsdelikt; bei Schaedigung tritt § 225 StGB vorrangig ein.
-- **§§ 174 ff. StGB:** Bei sexuellem Missbrauch Tateinheit moeglich.
-- **§ 240 StGB:** Bei Noetigungen Tateinheit moeglich.
+- **§§ 174 ff. StGB:** Bei sexuellem Missbrauch Tateinheit möglich.
+- **§ 240 StGB:** Bei Noetigungen Tateinheit möglich.
 
 ## Strafzumessung
 
@@ -95,12 +95,12 @@ bringt. Konkretes Gefaehrdungsdelikt. Bei Schuetteltrauma, schweren Bissverletzu
 - **Minder schwerer Fall § 225 Abs. 4 StGB:** Strafrahmen drei Monate bis fuenf Jahre (Abs. 1) bzw. sechs Monate bis fuenf Jahre (Abs. 3).
 - **Versuch:** § 225 Abs. 2 StGB Versuch strafbar.
 - **§ 49 StGB:** Strafrahmenverschiebung.
-- **Bewaehrung:** Bei Strafe bis zu zwei Jahren grundsaetzlich moeglich.
+- **Bewaehrung:** Bei Strafe bis zu zwei Jahren grundsätzlich möglich.
 
 ## Mustertexte
 
 **Einlassung (Auszug):**
-> Der Angeklagte raeumt ein, am Tattag ueberfordert gewesen zu sein. Er hat seine Tochter einmalig im Affekt ueber den Boden geschoben. Es ist zu keinen weiteren Misshandlungen gekommen; insbesondere liegt kein dauerhaftes oder wiederholtes Misshandlungsverhalten vor. Quaelen iSd § 225 StGB ist nicht erfuellt.
+> Der Angeklagte raeumt ein, am Tattag ueberfordert gewesen zu sein. Er hat seine Tochter einmalig im Affekt über den Boden geschoben. Es ist zu keinen weiteren Misshandlungen gekommen; insbesondere liegt kein dauerhaftes oder wiederholtes Misshandlungsverhalten vor. Quaelen iSd § 225 StGB ist nicht erfuellt.
 
 **Hilfsbeweisantrag:**
 > Hilfsweise wird beantragt, ein kinderpsychiatrisches Glaubhaftigkeitsgutachten zur Aussage des Kindes einzuholen. Beweisthema: Die Aussage des Kindes weist Anzeichen einer suggestiven Beeinflussung durch die Mutter im Kontext des laufenden Sorgerechtsverfahrens auf.

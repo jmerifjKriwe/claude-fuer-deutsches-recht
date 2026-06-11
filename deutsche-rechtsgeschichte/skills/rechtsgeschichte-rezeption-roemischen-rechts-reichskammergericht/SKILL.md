@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -38,7 +38,7 @@ Die Rezeption des roemischen Rechts bezeichnet den Prozess, durch den das im Mit
 
 - **Corpus Iuris Civilis** (Justinian, 533/534): Institutiones, Digesten, Codex, Novellae
 - **Reichskammergerichtsordnung 1495**: Vorschreibung des gelehrten Rechts
-- **Usus modernus Pandectarum** (Samuel Stryk, Usus modernus, 1690-1712): Schluessel zur Rezeptionsperiode
+- **Usus modernus Pandectarum** (Samuel Stryk, Usus modernus, 1690-1712): Schlüssel zur Rezeptionsperiode
 - **EGBGB Art. 2 (1900)**: Formale Ablosung des gemeinen Rechts durch BGB
 
 ## Akteure und Institutionen

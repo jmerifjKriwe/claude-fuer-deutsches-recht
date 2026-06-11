@@ -84,12 +84,12 @@ Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Regulierungsanforderung nach Unfall stellen | Regulierungsschreiben an Versicherer nach Checkliste; Template unten |
-| Variante A — Haftungsquote streitig Gegner bestreitet | Haftungsquote-Pruefung zuerst; Schriftsatz erst nach Quotenfixierung |
+| Variante A — Haftungsquote streitig Gegner bestreitet | Haftungsquote-Prüfung zuerst; Schriftsatz erst nach Quotenfixierung |
 | Variante B — Totalschaden Restwert streitig | Gutachten abwarten; Regulierung auf Basis Sachverstaendiger |
 | Variante C — Personenschaden Schmerzensgeld ungeklaert | Erst Heilbehandlung abschliessen dann Schmerzensgeldanspruch beziffern |
 
@@ -253,7 +253,7 @@ oder dejure.org verifizieren und mit Aktenzeichen sowie Randnummer
 einsetzen).
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

@@ -17,7 +17,7 @@ description: "Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebsp
 
 - BAFA kuendigt Aussenpruefung für den naechsten Monat an; Unternehmen muss sich vorbereiten.
 - Zollbetriebspruefung deckt Fehler bei Praeferenzursprungsangaben auf; Nachzoll droht.
-- Laufende Zollpruefung geht in strafrechtliche Ermittlung ueber; Rechtsanwalt sofort einschalten.
+- Laufende Zollpruefung geht in strafrechtliche Ermittlung über; Rechtsanwalt sofort einschalten.
 
 ## Erste Schritte
 
@@ -25,14 +25,14 @@ description: "Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebsp
 2. Relevante Unterlagen zusammenstellen und Lueckenanalyse durchfuehren.
 3. Auskunftspflichtige Mitarbeiter identifizieren und briefen (keine Spontanaussagen).
 4. Rechtsanwalt für Pruefungsbegleitung einschalten.
-5. Pruefung protokollieren: alle Fragen, Antworten und ausgehaendigten Unterlagen dokumentieren.
+5. Prüfung protokollieren: alle Fragen, Antworten und ausgehaendigten Unterlagen dokumentieren.
 6. Bei Uebergang zu Ermittlung: sofort Schweigerecht belehren und Verteidiger beiziehen.
 
 ## Rechtsrahmen
 
 - **AWG § 14**: Auskunftspflichten gegenueber Behörden.
 - **§ 393 AO**: Steuerliche Auskunftspflicht und strafrechtliches Schweigerecht.
-- **UZK Art. 48**: Zollamtliche Pruefung; Rechte und Pflichten.
+- **UZK Art. 48**: Zollamtliche Prüfung; Rechte und Pflichten.
 - **§ 148 AO**: Akteneinsicht und Gegendarstellung.
 - **StPO § 97**: Beschlagnahmefreiheit; Schutz anwaltlicher Unterlagen.**
 
@@ -47,10 +47,10 @@ description: "Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebsp
 
 ## Typische Fallstricke
 
-- Spontanaussagen von Mitarbeitern ohne Rechtsberatung koennen Ermittlungen ausloesen.
-- Unterlagen aushändigen ohne Kopie behalten; Kontrollverlust ueber Beweislage.
+- Spontanaussagen von Mitarbeitern ohne Rechtsberatung können Ermittlungen ausloesen.
+- Unterlagen aushändigen ohne Kopie behalten; Kontrollverlust über Beweislage.
 - Auskunftspflicht nach AWG gilt nicht für selbstbelastende Angaben.
-- Zollpruefung und BAFA-Pruefung laufen parallel; keine koordinierte Verteidigung.
+- Zollpruefung und BAFA-Prüfung laufen parallel; keine koordinierte Verteidigung.
 
 ## Schnittstellen zu anderen Skills
 

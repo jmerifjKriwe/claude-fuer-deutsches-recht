@@ -42,7 +42,7 @@ description: "Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit konkre
 
 ## Streitfaelle
 
-- Briefkasten defekt, gross genug, ueberfuellt.
+- Briefkasten defekt, groß genug, ueberfuellt.
 - Fremder Briefkasten (Mehrfamilienhaus mit gleichem Namen).
 - Arbeitnehmer im Urlaub — Zugang trotzdem (Urlaubs-Selbstrisiko).
 

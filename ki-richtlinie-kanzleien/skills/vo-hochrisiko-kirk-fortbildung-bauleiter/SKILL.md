@@ -60,7 +60,7 @@ Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsak
 2. Ist der Betriebsrat nach § 87 Abs. 1 Nr. 6 BetrVG eingebunden worden?
 3. Wurde ein Bias-Test auf AGG-geschuetzte Merkmale durchgefuehrt?
 4. Gibt es einen menschlichen Entscheidungstraeger — kein vollautomatisierter Prozess (Art. 22 DSGVO)?
-5. Sind Bewerber/Arbeitnehmer nach Art. 13/14 DSGVO ueber KI-Einsatz informiert?
+5. Sind Bewerber/Arbeitnehmer nach Art. 13/14 DSGVO über KI-Einsatz informiert?
 
 ## Output-Template — Hochrisiko-KI-Personalwesen-Check
 **Adressat:** HR / Compliance / Betriebsrat — Tonfall: strukturiert, rechtlich

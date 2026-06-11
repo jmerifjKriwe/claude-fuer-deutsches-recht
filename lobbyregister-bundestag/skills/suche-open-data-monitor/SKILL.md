@@ -24,15 +24,15 @@ description: "Nutzt Suche, Standardlisten, Open Data und API zur Markt-, Complia
 
 1. Welche Organisation, Branche, Registernummer oder Vorhaben sollen beobachtet werden?
 2. Welche Suchfilter und Datenfelder sind relevant?
-3. Welche Aenderungen muessen intern gemeldet werden?
+3. Welche Aenderungen müssen intern gemeldet werden?
 4. Geht es um eigene Portal-Nachkontrolle, Gegenparteienpruefung, Dublettenrisiko oder Marktmonitoring?
 5. Soll die Abfrage einmalig, periodisch oder als Cursor-gestuetzte Trefferliste laufen?
 
 ## API-V2-Arbeitsweise
 
-Nutze die offizielle API V2 nur als lesende Quelle für öffentliche Registerdaten. Fuer jede Abfrage:
+Nutze die offizielle API V2 nur als lesende Quelle für öffentliche Registerdaten. Für jede Abfrage:
 
-1. API-Key ueber `LOBBYREGISTER_API_KEY` verwenden, nicht in die Akte schreiben.
+1. API-Key über `LOBBYREGISTER_API_KEY` verwenden, nicht in die Akte schreiben.
 2. `GET /registerentries?q=...&format=json` für Suche nach Organisationen, Zweigniederlassungen, Auftraggebern, Unterauftragnehmern, Themen und Schreibvarianten.
 3. `GET /registerentries/{registerNumber}?format=json` für den amtlichen Einzelabgleich.
 4. `GET /registerentries/{registerNumber}/{version}?format=json` für Versionsvergleich.

@@ -23,7 +23,7 @@ description: "Kanzlei-Buchhaltung mit Geschäftskonto offenen Posten Debitoren K
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 43a Abs. 5 BRAO — Pflicht zur Trennung von Fremdgeld und eigenem Vermoegen
+- § 43a Abs. 5 BRAO — Pflicht zur Trennung von Fremdgeld und eigenem Vermögen
 - §§ 238-241 HGB — Buchfuehrungspflicht: Grundsaetze ordnungsmäßiger Buchfuehrung
 - § 147 AO — Aufbewahrungspflichten für Buchungsbelege (10 Jahre)
 - § 286 BGB — Verzug: Voraussetzungen und Verzugszinsen bei offenen Posten

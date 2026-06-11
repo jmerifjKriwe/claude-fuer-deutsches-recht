@@ -37,16 +37,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Zeugenbeistand / internationaler Bezug Bausteine
 - **Rechtsgrundlage Zeugenbeistand § 68b StPO:** anwaltliche Hilfe für Zeugen in der Vernehmung; auf Antrag oder von Amts wegen bei besonderer Schutzbeduerftigkeit; Ablehnung in eng begrenzten Faellen.
-- **Anwaltsbestellung Zeugen § 68b II StPO:** Beiordnung wenn Zeugenrechte (insb. §§ 52, 55 StPO) ohne Beistand nicht wahrgenommen werden koennen.
+- **Anwaltsbestellung Zeugen § 68b II StPO:** Beiordnung wenn Zeugenrechte (insb. §§ 52, 55 StPO) ohne Beistand nicht wahrgenommen werden können.
 - **Schutzrechte Zeugen StPO:**
  - **§ 52 StPO Zeugnisverweigerungsrecht Angehoeriger:** Verlobte / Ehegatten / Lebenspartner / Geschwister bis 3. Grad / Verschwaegerte; muss vor Vernehmung belehrt werden.
  - **§ 53 StPO Berufsgeheimnistraeger:** Anwaelte, Aerzte, Geistliche, Journalisten.
  - **§ 55 StPO Auskunftsverweigerung wegen Selbstbelastung:** bei Strafverfolgungsrisiko für Zeugen / Angehoerige.
- - **§ 68 StPO Pruefung Anonymitaet** bei gefaehrdeten Zeugen.
+ - **§ 68 StPO Prüfung Anonymitaet** bei gefaehrdeten Zeugen.
 - **Internationaler Zeugenbeistand:**
  - **Auslaendischer Zeuge im Inland:** Dolmetscher § 185 GVG; ggf. videovernehmung.
- - **Auslaendischer Zeuge im Ausland:** Rechtshilfeersuchen / Europaeische Ermittlungsanordnung RL 2014/41/EU; Videovernehmung moeglich.
- - **Inlandszeuge im Ausland:** Vernehmung ueber Botschaft / Konsulat; ggf. kommissarische Vernehmung § 223 StPO.
+ - **Auslaendischer Zeuge im Ausland:** Rechtshilfeersuchen / Europaeische Ermittlungsanordnung RL 2014/41/EU; Videovernehmung möglich.
+ - **Inlandszeuge im Ausland:** Vernehmung über Botschaft / Konsulat; ggf. kommissarische Vernehmung § 223 StPO.
 - **Konfrontation und Konfrontationsrecht Art. 6 III lit. d EMRK:**
  - Recht des Beschuldigten auf Befragung Belastungszeugen.
  - **EGMR-Linie zu anonymen Zeugen:** restriktive Verwertung; massgebliche Konfrontationsmoeglichkeit erforderlich.

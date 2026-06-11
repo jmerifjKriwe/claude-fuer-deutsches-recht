@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrument für rechtshistorische Argumente in heutigen Texten (Gutachten, Schriftsaetze, Gesetzesbegr√ündungen). Es prueft: (1) Sind die historischen Quellen korrekt identifiziert? (2) Tragt die Quelle die Behauptung tatsaechlich? (3) Liegt ein Anachronismus vor? (4) Gibt es Luecken in der Argumentationskette? (5) Sind Unsicherheiten sichtbar gemacht? Ergebnis ist ein strukturiertes Memo mit Ampelbewertung: Gruen (Quelle traegt), Gelb (Einschraenkung noetig), Rot (Quelle traegt nicht).
+Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrument für rechtshistorische Argumente in heutigen Texten (Gutachten, Schriftsaetze, Gesetzesbegr√ündungen). Es prüft: (1) Sind die historischen Quellen korrekt identifiziert? (2) Tragt die Quelle die Behauptung tatsaechlich? (3) Liegt ein Anachronismus vor? (4) Gibt es Luecken in der Argumentationskette? (5) Sind Unsicherheiten sichtbar gemacht? Ergebnis ist ein strukturiertes Memo mit Ampelbewertung: Gruen (Quelle traegt), Gelb (Einschraenkung noetig), Rot (Quelle traegt nicht).
 
 ## Kernnormen / Kernquellen
 

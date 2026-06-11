@@ -12,9 +12,9 @@ description: "Gesinderecht Dienstvertraege und Zuechtigungsbefugnis. Skill behan
 
 ## Zuechtigungsbefugnis (historisch-kritisch)
 
-- ALR II 5 §§ — eingeschraenkte Befugnis zur koerperlichen Massnahme.
+- ALR II 5 §§ — eingeschraenkte Befugnis zur koerperlichen Maßnahme.
 - Stoesse Schlaege Ohrfeigen waren rechtlich strittig.
-- Bei schwerwiegender Misshandlung Klage moeglich.
+- Bei schwerwiegender Misshandlung Klage möglich.
 
 ## Wichtig — historischer Kontext
 

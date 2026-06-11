@@ -17,7 +17,7 @@ Sie haben den Widerspruch eingelegt und gewartet. Jetzt ist die Antwort der Beh�
 
 ## In einfacher Sprache
 
-Die Behörde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bisschen. Wir helfen Ihnen zu verstehen, was im Brief steht und was Sie jetzt tun koennen.
+Die Behörde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bisschen. Wir helfen Ihnen zu verstehen, was im Brief steht und was Sie jetzt tun können.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -47,13 +47,13 @@ Die Behörde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bissc
 
 Schreiben Sie sich das Datum auf, an dem Sie den Brief bekommen haben. Wieder 4-Tage-Fiktion: 4. Tag nach Aufgabe zur Post.
 
-### Schritt 2 — Pruefen, was die Behörde gesagt hat
+### Schritt 2 — Prüfen, was die Behörde gesagt hat
 
 Drei Moeglichkeiten:
 
 - **Volle Abhilfe**: Behörde gibt Ihnen Recht. Geld kommt. Fertig.
-- **Teilabhilfe**: Behörde gibt Ihnen teilweise Recht. Pruefen Sie genau, was bleibt.
-- **Volle Zurueckweisung**: Behörde haelt am Bescheid fest. Klage moeglich.
+- **Teilabhilfe**: Behörde gibt Ihnen teilweise Recht. Prüfen Sie genau, was bleibt.
+- **Volle Zurueckweisung**: Behörde haelt am Bescheid fest. Klage möglich.
 
 Siehe `teilstattgabe-vollstattgabe-verstehen` für Details.
 
@@ -79,7 +79,7 @@ Wenn Sie klagen wollen:
 
 Klagefrist: **1 Monat ab Bekanntgabe des Widerspruchsbescheids**. Wieder mit 4-Tage-Fiktion zu rechnen.
 
-Im Widerspruchsbescheid steht die Rechtsbehelfsbelehrung. Lesen Sie sie genau. Pruefen Sie:
+Im Widerspruchsbescheid steht die Rechtsbehelfsbelehrung. Lesen Sie sie genau. Prüfen Sie:
 
 - Genaues SG (Adresse)
 - Frist (1 Monat)
@@ -97,12 +97,12 @@ Siehe folgende Skills:
 
 ### Schritt 7 — Falls Sie nicht klagen wollen
 
-Pruefen Sie, ob es sich lohnt. Bei klar abgeschlossener Sache: einfach akzeptieren. Bei wichtigen Geldsachen: lieber klagen, kostet ja nichts.
+Prüfen Sie, ob es sich lohnt. Bei klar abgeschlossener Sache: einfach akzeptieren. Bei wichtigen Geldsachen: lieber klagen, kostet ja nichts.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Bei Teilabhilfe sind Sie nicht "ganz" verloren**: Sie koennen gegen den verbliebenen Teil klagen.
-- **Eilantrag** parallel pruefen: Wenn Existenz bedroht ist, parallel zum Klageverfahren einen Eilantrag stellen (siehe `eilantrag-86b-sgg-grundlagen`).
+- **Bei Teilabhilfe sind Sie nicht "ganz" verloren**: Sie können gegen den verbliebenen Teil klagen.
+- **Eilantrag** parallel prüfen: Wenn Existenz bedroht ist, parallel zum Klageverfahren einen Eilantrag stellen (siehe `eilantrag-86b-sgg-grundlagen`).
 - **Frist absolut wichtig**: 1 Monat ist sehr kurz. Beginnen Sie sofort.
 
 ## Typische Fehler

@@ -3,7 +3,7 @@ name: aussenwirtschaft-kommandocenter
 description: "Steuerungsmodul für Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationspl..."
 ---
 
-# Kommandocenter Aussenwirtschaft: Mehrfach-Sachverhalts-Steuerung
+# Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Steuerungsmodul für Mandanten mit mehreren parallelen Aussenwirts
 
 ## Mandantenfall
 
-- Konzern hat gleichzeitig laufende BAFA-Pruefung, Russland-Sanktionsfall, CBAM-Implementierung und AEO-Verlaengerung.
+- Konzern hat gleichzeitig laufende BAFA-Prüfung, Russland-Sanktionsfall, CBAM-Implementierung und AEO-Verlaengerung.
 - Kanzlei betreut drei Mandanten gleichzeitig mit Zollpruefungen und einer internen Exportkontroll-Investigation.
 - Compliance-Abteilung muss Jahresbericht, Neukunden-KYC-Backlog und Systemmigration gleichzeitig bewaltigen.
 
@@ -72,7 +72,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 
 ## Quellen
 
-- [BAFA Aussenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
 - [Zoll.de](https://www.zoll.de/DE/Home/home_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)

@@ -50,7 +50,7 @@ description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Mi
 ## Versicherbarkeit
 
 - TLI-/IOL-Versicherung mit Sondersummen für kryptografische Payloads.
-- Cyber-Cover-Klauseln pruefen (oft Ausschluss bei staatlich gesponserten Angriffen).
+- Cyber-Cover-Klauseln prüfen (oft Ausschluss bei staatlich gesponserten Angriffen).
 - Lloyd's LMA5403 als haufige Cyber-Ausschlussklausel.
 
 ## Pruefraster

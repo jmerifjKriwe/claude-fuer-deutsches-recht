@@ -22,7 +22,7 @@ Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 B
 - Vertragstyp und Parteien (B2B oder B2C)
 - AGB oder Individualabrede
 - Branchenrisiko (Personenschaden, Datenschutz, IP-Risiken)
-- Versicherungsschutz (Hoehe der Haftpflichtversicherung)
+- Versicherungsschutz (Höhe der Haftpflichtversicherung)
 - Verhandlungsposition
 
 ## Rechtlicher und methodischer Rahmen
@@ -41,7 +41,7 @@ Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 B
 3. **Verschuldungsgrad?** Einfache Fahrlaessigkeit, grobe Fahrlaessigkeit, Vorsatz?
 4. **Welche Pflicht?** Kardinalpflicht oder Nebenpflicht?
 5. **AGB oder Individualabrede?** Im AGB-Verhaeltnis gelten Klauselverbote.
-6. **Hoehe der Begrenzung?** Summenmaessig, deckungsgleich mit Haftpflichtversicherung?
+6. **Höhe der Begrenzung?** Summenmaessig, deckungsgleich mit Haftpflichtversicherung?
 7. **Zeitliche Begrenzung?** Verkuerzung der Verjährung nach § 202 BGB beachten.
 
 ### Pflichtgrenzen-Tabelle
@@ -49,10 +49,10 @@ Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 B
 | Tatbestand | B2B (AGB) | B2C (AGB) | Individualvertrag |
 |---|---|---|---|
 | Vorsatz | nie ausschliessbar (§ 276 Abs. 3 BGB) | nie ausschliessbar | nie ausschliessbar |
-| Grobe Fahrlaessigkeit eigener Personen | grundsaetzlich nicht in AGB (§ 309 Nr. 7 BGB analog) | nie ausschliessbar | nur eingeschraenkt |
-| Grobe Fahrlaessigkeit Erfuellungsgehilfen | begrenzt zulaessig | nie ausschliessbar | begrenzt zulaessig |
+| Grobe Fahrlaessigkeit eigener Personen | grundsätzlich nicht in AGB (§ 309 Nr. 7 BGB analog) | nie ausschliessbar | nur eingeschraenkt |
+| Grobe Fahrlaessigkeit Erfuellungsgehilfen | begrenzt zulässig | nie ausschliessbar | begrenzt zulässig |
 | Leben Koerper Gesundheit | nie ausschliessbar | nie ausschliessbar | nie ausschliessbar |
-| Kardinalpflichten leicht fahrlaessig | nur summenmaessig auf vorhersehbaren Schaden | nur summenmaessig auf vorhersehbaren Schaden | summenmäßige Begrenzung zulaessig |
+| Kardinalpflichten leicht fahrlaessig | nur summenmaessig auf vorhersehbaren Schaden | nur summenmaessig auf vorhersehbaren Schaden | summenmäßige Begrenzung zulässig |
 | Sonstige leichte Fahrlaessigkeit | ausschliessbar | begrenzt ausschliessbar | ausschliessbar |
 | Arglistig verschwiegener Mangel | § 444 BGB | § 444 BGB | § 444 BGB |
 | Produkthaftung Personenschaden | § 11 ProdHaftG | § 11 ProdHaftG | § 11 ProdHaftG |
@@ -151,4 +151,4 @@ gesetzlichen Vorschriften.
 
 - § 276 Abs. 3 BGB, § 278 BGB, § 307 BGB, § 309 Nr. 7 BGB, § 309 Nr. 8 BGB, § 444 BGB, § 202 BGB. gesetze-im-internet.de.
 - § 11 ProdHaftG. gesetze-im-internet.de/prodhaftg/.
-- BGH-Rspr. zu Kardinalpflichten und summenmäßiger Begrenzung: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
+- BGH-Rspr. zu Kardinalpflichten und summenmäßiger Begrenzung: vom Nutzer mit konkretem Aktenzeichen über bundesgerichtshof.de zu verifizieren.

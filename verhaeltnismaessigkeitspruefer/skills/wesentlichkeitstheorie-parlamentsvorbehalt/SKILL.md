@@ -15,7 +15,7 @@ description: "Wesentlichkeitstheorie und Parlamentsvorbehalt als Vorfrage materi
 
 ## Kernsatz
 
-Je grundrechtsrelevanter eine Frage ist, desto eher muss der Gesetzgeber sie **selbst** entscheiden. Umgekehrt: Routine- und Detailfragen koennen an Rechtsverordnungen oder Satzungen delegiert werden, wenn Art 80 I GG (Inhalt, Zweck, Ausmass) eingehalten ist.
+Je grundrechtsrelevanter eine Frage ist, desto eher muss der Gesetzgeber sie **selbst** entscheiden. Umgekehrt: Routine- und Detailfragen können an Rechtsverordnungen oder Satzungen delegiert werden, wenn Art 80 I GG (Inhalt, Zweck, Ausmass) eingehalten ist.
 
 ## Anwendungsbeispiele
 
@@ -30,7 +30,7 @@ Je grundrechtsrelevanter eine Frage ist, desto eher muss der Gesetzgeber sie **s
 
 ## Pruefraster
 
-1. **Grundrechtsrelevanz** der Regelung pruefen.
+1. **Grundrechtsrelevanz** der Regelung prüfen.
 2. **Schwere** des Eingriffs einschaetzen.
 3. **Reichweite** und Generalitaet der Auswirkungen.
 4. **Sachliche Notwendigkeit** flexibler Anpassung (Verordnungsspielraum).
@@ -38,7 +38,7 @@ Je grundrechtsrelevanter eine Frage ist, desto eher muss der Gesetzgeber sie **s
 
 ## Folge bei Verstoss
 
-Verstoss gegen den Parlamentsvorbehalt fuehrt zur Verfassungswidrigkeit der Verordnung oder Verwaltungsvorschrift, ohne dass es noch auf Verhaeltnismaessigkeit ankaeme. Bei einer gesetzlichen Regelung kann die Wesentlichkeitsfrage in der Bestimmtheitspruefung mit aufgehen (siehe `bestimmtheit-normklarheit-eingriffsgesetze`).
+Verstoss gegen den Parlamentsvorbehalt fuehrt zur Verfassungswidrigkeit der Verordnung oder Verwaltungsvorschrift, ohne dass es noch auf Verhältnismäßigkeit ankaeme. Bei einer gesetzlichen Regelung kann die Wesentlichkeitsfrage in der Bestimmtheitspruefung mit aufgehen (siehe `bestimmtheit-normklarheit-eingriffsgesetze`).
 
 ## Quellen mit Schlagwort
 

@@ -7,7 +7,7 @@ description: "Nachbarstreit Schweinemast Geruchsemissionen mit Paragraf 906 BGB 
 
 ## Einsatzlage
 
-Wohngebaeude W liegt 280 m von Schweinemast S entfernt; Geruchsbelastung ueber 35 Stunden pro Jahr ueber Geruchsstunde 10 Prozent. W will Klage auf Unterlassung.
+Wohngebaeude W liegt 280 m von Schweinemast S entfernt; Geruchsbelastung über 35 Stunden pro Jahr über Geruchsstunde 10 Prozent. W will Klage auf Unterlassung.
 
 ## Normenanker
 

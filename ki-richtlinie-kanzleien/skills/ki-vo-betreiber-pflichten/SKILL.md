@@ -27,12 +27,12 @@ Art. 3 Nr. 4 KI-VO: "Betreiber" — wer ein KI-System in eigener Verantwortung b
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Betreiberpflichten KI-VO checklisten-artig aufbereiten | Checkliste nach Schema; Template unten |
-| Variante A — Kanzlei ist nicht Betreiber nur Nutzer | Nutzer-Pflichten statt Betreiber-Pflichten pruefen |
+| Variante A — Kanzlei ist nicht Betreiber nur Nutzer | Nutzer-Pflichten statt Betreiber-Pflichten prüfen |
 | Variante B — Hochrisiko-KI nach Annex III KI-VO betroffen | Erweiterte Pflichten-Checkliste für Hochrisiko-Systeme |
 | Variante C — KI-System noch in Entwicklung kein Einsatz | Planungs-Checkliste; Betreiberpflichten ab Inbetriebnahme |
 
@@ -49,7 +49,7 @@ Die in der Kanzlei eingesetzten KI-Systeme zur Unterstützung juristischer Arbei
 **Baustein Kennzeichnungspflicht:**
 Eine gesetzliche Pflicht zur Kennzeichnung KI-generierter Inhalte in anwaltlichen Schriftsätzen besteht nach Art. 50 Abs. 4 KI-VO nicht, da Schriftsätze nicht an die "Öffentlichkeit über Angelegenheiten von öffentlichem Interesse" gerichtet sind und der Anwalt durch seine Unterschrift die redaktionelle Verantwortung übernimmt. Bei Kanzlei-Blogs, Pressemitteilungen oder öffentlichen Beiträgen ohne individuelle menschliche Endkontrolle ist eine Kennzeichnung hingegen geboten.
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -66,11 +66,11 @@ Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen K
 
 ## Faktische Updates (Stand 05/2026)
 
-- **Art. 4 KI-VO (KI-Kompetenz) — seit 02.02.2025 anwendbar:** Kanzleien muessen bereits jetzt für ausreichende KI-Kompetenz des Personals sorgen (Schulungen dokumentieren, Use-Case-spezifisch). Verstoesse koennen ab 02.08.2025 sanktioniert werden.
+- **Art. 4 KI-VO (KI-Kompetenz) — seit 02.02.2025 anwendbar:** Kanzleien müssen bereits jetzt für ausreichende KI-Kompetenz des Personals sorgen (Schulungen dokumentieren, Use-Case-spezifisch). Verstoesse können ab 02.08.2025 sanktioniert werden.
 - **Art. 50 KI-VO (Transparenzpflichten) — ab 02.08.2026:** Bei Kanzlei-Chatbots gegenueber Mandanten/Interessenten (Art. 50 Abs. 1), Deepfakes / synthetische Inhalte (Art. 50 Abs. 2), KI-generierter öffentlicher Text bei öffentlichem Interesse (Art. 50 Abs. 3). Schriftsatzunterzeichnung durch Anwalt = redaktionelle Verantwortung (Ausnahme).
 - **Art. 26 KI-VO (Betreiberpflichten Hochrisiko) — ab 02.08.2026:** Insbesondere bei Hochrisiko-Anwendungen in der Personalauswahl (Anhang III Nr. 4) — vor Einsatz Eignungspruefung, menschliche Aufsicht, Logging, Information betroffener Personen.
-- **Nationale Aufsicht:** In Deutschland ist die BNetzA als koordinierende KI-Aufsichtsbehoerde benannt; sektorale Zuständigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt etc.) bleiben bestehen. Aktuellen Stand der nationalen KI-VO-Durchfuehrungsregelungen ueber bundestag.de / bmbf.de / bmwk.de live pruefen.
-- **GPAI Code of Practice:** Bei Nutzung von GPAI-Diensten (z.B. LLM-Chatbots) Anbieter-Code-of-Practice-Anschluss pruefen — kann für Kanzlei Dokumentations- und Sorgfaltsnachweise erleichtern.
+- **Nationale Aufsicht:** In Deutschland ist die BNetzA als koordinierende KI-Aufsichtsbehoerde benannt; sektorale Zuständigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt etc.) bleiben bestehen. Aktuellen Stand der nationalen KI-VO-Durchfuehrungsregelungen über bundestag.de / bmbf.de / bmwk.de live prüfen.
+- **GPAI Code of Practice:** Bei Nutzung von GPAI-Diensten (z.B. LLM-Chatbots) Anbieter-Code-of-Practice-Anschluss prüfen — kann für Kanzlei Dokumentations- und Sorgfaltsnachweise erleichtern.
 - **DORA / NIS-2:** Bei IT-Sicherheits- oder Cyber-Risiken im KI-Betrieb der Kanzlei parallel die einschlaegigen IT-Sicherheits-Regelwerke beachten (BSIG n. F., Art. 32 DSGVO).
 
 ## Aktuelle Rechtsprechung (v14.2)
@@ -88,7 +88,7 @@ Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen K
 2. Welche Hochrisiko-KI-Systeme (Anhang III) werden betrieben — welche Art. 26-Pflichten greifen?
 3. Ist eine menschliche Aufsicht nach Art. 26 Abs. 1 lit. b KI-VO sichergestellt?
 4. Werden Protokolle nach Art. 26 Abs. 1 lit. d KI-VO gefuehrt?
-5. Ist eine FRIA nach Art. 27 KI-VO erforderlich (öffentliche Stelle oder oeffentlich finanzierter Dienst)?
+5. Ist eine FRIA nach Art. 27 KI-VO erforderlich (öffentliche Stelle oder öffentlich finanzierter Dienst)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Betreiberpflichten-Checkliste KI-VO

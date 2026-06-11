@@ -48,8 +48,8 @@ Zum Jahresende sind verschiedene Jahresmeldungen Pflicht: Jahresmeldung DEUEV (L
 ### Phase 1 — Jahresmeldung DEUEV
 
 - § 10 DEUEV: Frist 15. Februar des Folgejahres (gesetzlich; bei Verschiebung auf naechsten Werktag).
-- Inhalt: SV-pflichtige Lohnsumme je AN ueber das ganze Jahr.
-- Form: elektronisch ueber sv.net (online / comfort) oder DATEV DAKOTA.
+- Inhalt: SV-pflichtige Lohnsumme je AN über das ganze Jahr.
+- Form: elektronisch über sv.net (online / comfort) oder DATEV DAKOTA.
 - Abgabegrund: 50 (Jahresmeldung).
 - Eigene Meldung pro AN, der im Jahr beschaeftigt war (auch ausgeschiedene).
 
@@ -64,7 +64,7 @@ Zum Jahresende sind verschiedene Jahresmeldungen Pflicht: Jahresmeldung DEUEV (L
 
 - Frist: bis 15. Februar Folgejahr.
 - Inhalt: Jahres-Lohnsumme nach Gefahrenklassen.
-- Form: elektronisch ueber sv.net oder BG-Portal.
+- Form: elektronisch über sv.net oder BG-Portal.
 
 ### Phase 4 — Statistik-Meldungen
 
@@ -81,7 +81,7 @@ Zum Jahresende sind verschiedene Jahresmeldungen Pflicht: Jahresmeldung DEUEV (L
 ### Phase 6 — Mandantenkommunikation
 
 - Lohnsteuerbescheinigungen an AN versenden (Standard: Anfang Februar).
-- Mandant ueber Beitragsentwicklung informieren (Jahres-Bruttolohnsumme).
+- Mandant über Beitragsentwicklung informieren (Jahres-Bruttolohnsumme).
 - Wiedervorlage für Folgejahr.
 
 ## Strategie und Praxis-Tipps
@@ -89,7 +89,7 @@ Zum Jahresende sind verschiedene Jahresmeldungen Pflicht: Jahresmeldung DEUEV (L
 - 15. Februar und 28. Februar sind harte Fristen — Termincontrolling Pflicht.
 - Bei vielen Mandanten Lohn-Block-Bearbeitung im Januar/Februar.
 - LSt-Bescheinigungen automatisch aus DATEV LODAS; bei Korrektur Sonderaufwand.
-- Bei AN-Wechsel im Jahr: Jahresmeldung beim alten AG; neuen AG ueber Lohnzeitraum informieren.
+- Bei AN-Wechsel im Jahr: Jahresmeldung beim alten AG; neuen AG über Lohnzeitraum informieren.
 - StBVV: Jahresmeldungen in Lohnpauschale oder gesonderter Auftrag.
 - DATEV-Tipp: DATEV LODAS Jahresende-Lauf mit automatischer Erstellung aller Meldungen.
 

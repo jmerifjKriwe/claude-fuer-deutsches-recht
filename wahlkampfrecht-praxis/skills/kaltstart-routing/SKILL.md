@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Kaltstart für jede Wahlkampflage mit Routi
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Routing** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Wahlkampfrecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Routing** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Wahlkampfrecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -63,7 +63,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
 - `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
 - `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
 - `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
 - `§ 49a BWahlG` — Ordnungswidrigkeiten.
 - `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.

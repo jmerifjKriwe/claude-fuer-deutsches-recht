@@ -15,7 +15,7 @@ description: "Bauueberwachung HOAI LPH 8 für Windpark-Fundamente und Turmbauten
 
 ## Spezialwissen
 
-Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchsvollsten Bauwerken im Ingenieurbau. Die Bauueberwachung in LPH 8 sichert die anforderungsgerechte Ausfuehrung von Ringfundamenten und Pfahlgruendungen sowie die praezise Positionierung des Ankerkorbs. Fehler in dieser Phase fuehren zu Garantieverlust und betrieblichen Ausfaellen ueber die 20-jaehrige Anlagenlebensdauer.
+Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchsvollsten Bauwerken im Ingenieurbau. Die Bauueberwachung in LPH 8 sichert die anforderungsgerechte Ausfuehrung von Ringfundamenten und Pfahlgruendungen sowie die praezise Positionierung des Ankerkorbs. Fehler in dieser Phase fuehren zu Garantieverlust und betrieblichen Ausfaellen über die 20-jaehrige Anlagenlebensdauer.
 
 ## Bauwerk und Auftrag
 
@@ -26,7 +26,7 @@ Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchs
 ## Erste Schritte auf der Baustelle
 
 1. Sichtpruefung Erdaushub Gruendungssohle: Bodenaustausch bei weichen Schichten dokumentieren, Sohldruckvergleich mit Baugrundgutachten GEO-Klasse 3 nach EC7 Abschnitt 2.5
-2. Einmesskontrolle Ankerkorb: Achse und Hoehe mit Tachymeter, Toleranz Mittelachse +-5 mm, Hoehe Ankerbolzen-Oberkante +-2 mm gegenueber Planvorgabe
+2. Einmesskontrolle Ankerkorb: Achse und Höhe mit Tachymeter, Toleranz Mittelachse +-5 mm, Höhe Ankerbolzen-Oberkante +-2 mm gegenueber Planvorgabe
 3. Bewehrungsabnahme vor Betonage: Ringgurt, Radialbewehrung, Buegelabstaende nach Plan, Betondeckung Abstandhalter 50 mm Fundamentunterseite
 4. Frischbetonkontrolle: Konsistenz F3, Temperatur 5-30 degC, Verdichtungsprotokoll Innenruettler je Lage max. 500 mm Schichtdicke
 5. Ankerbolzen-Anzugsdrehmoment: Drehmomentkontrolle nach Montageanweisung Turm-Hersteller, M48 Guete 10.9 typisch 4.750 Nm, Protokollierung 100 Prozent der Schrauben
@@ -48,7 +48,7 @@ Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchs
 3. Betonierprotokoll: Einbaugeschwindigkeit max. 1 m Steighoehe je Stunde bei Ringfundament, Kerntemperatur-Logging bei Bauteildicke groesser 1 m
 4. Rissbreitenkontrolle nach Ausschalen: W1-Rissbreite kleiner 0.3 mm nach DIN EN 1992-1-1 Abschnitt 7.3, Kartierung Rissbild
 5. Ankerschrauben-Drehmomentkontrolle: 100 Prozent aller M48-Schrauben mit kalibriertem Drehmomentschluessel, Zeitpunkte 72 h und 168 h nach Betonage
-6. Abdichtung Fundamentkopf: EPDM-Manschette ueber Oberkante, Stossnaehte versetzt, Nahtpruefung Vakuumbox-Test
+6. Abdichtung Fundamentkopf: EPDM-Manschette über Oberkante, Stossnaehte versetzt, Nahtpruefung Vakuumbox-Test
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -71,11 +71,11 @@ Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchs
 - Ankerkorb-Versatz durch Betonierdruckstoss: Ungesicherte Schalung verursacht Lageveraenderung, Nachmessen erst nach Ausschalen zu spaet
 - Massenbeton-Erwaermung Ringfundament: Temperaturdifferenz Kern-Rand groesser 20 K erzeugt Zwangsrisse, Kuehlkonzept pflichtmaessig
 - Veraenderte Setzungsdynamik nach Drainageeinbau: Dränagen um Fundament beschleunigen Konsolidierung, Monitoring-Auswertung pflichtmaessig
-- Fehlende DIBt-Pruefung vor Betonage: Ankerkorb-Einbauprotokoll fehlt in Zulassungsunterlagen, Genehmigungsversagung Inbetriebnahme
+- Fehlende DIBt-Prüfung vor Betonage: Ankerkorb-Einbauprotokoll fehlt in Zulassungsunterlagen, Genehmigungsversagung Inbetriebnahme
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

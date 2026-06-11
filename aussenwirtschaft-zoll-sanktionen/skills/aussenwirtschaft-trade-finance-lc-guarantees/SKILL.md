@@ -17,15 +17,15 @@ description: "Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrument
 
 - Bank erhalt Anfrage zur Eroeffffnung eines Akkreditivs für Lieferung nach Russland; Sanktionspruefung.
 - Exporteur beantragt Ausfuhrgarantie für Lieferung an iranischen Staatskonzern; EUC und Sanktionscheck.
-- Dokumenteninkasso für Textillieferung nach Belarus; Korrespondenzbank-Kette pruefen.
+- Dokumenteninkasso für Textillieferung nach Belarus; Korrespondenzbank-Kette prüfen.
 
 ## Erste Schritte
 
 1. Transaktionsstruktur aufnehmen: Akkreditivbeteiligter Importeur Exporteur eroeffnende und bestaetigende Bank.
-2. Alle Beteiligten gegen EU-Konsolidierte-Liste OFAC-SDN und BAFA-Embargo pruefen.
-3. Verbote für Finanzhilfe (Art. 5a VO 833/2014 für Russland) und Bereitstellungsverbote pruefen.
-4. Bestimmungsland und Waren-HS-Codes auf Gueter-Embargo pruefen.
-5. Korrespondenzbank-Kette auf sanktionierte Institute pruefen.
+2. Alle Beteiligten gegen EU-Konsolidierte-Liste OFAC-SDN und BAFA-Embargo prüfen.
+3. Verbote für Finanzhilfe (Art. 5a VO 833/2014 für Russland) und Bereitstellungsverbote prüfen.
+4. Bestimmungsland und Waren-HS-Codes auf Gueter-Embargo prüfen.
+5. Korrespondenzbank-Kette auf sanktionierte Institute prüfen.
 6. Freigabeentscheidung mit Quellennachweis dokumentieren.
 
 ## Rechtsrahmen
@@ -49,8 +49,8 @@ description: "Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrument
 
 - Zweitbegünstigte hinter Akkreditiv kann gelistete Person/Entitaet sein.
 - Finanzhilfe-Verbote greifen auch bei mittelbarer Unterstuetzung durch nicht-sanktionierte Partei.
-- Korrespondenzbanken in Drittlaendern haben eigene Listenpflichten; Konflikte moeglich.
-- Alte Akkreditive bleiben gueltig bis Ablauf; Sanktionsaenderungen erfordern Re-Pruefung.
+- Korrespondenzbanken in Drittlaendern haben eigene Listenpflichten; Konflikte möglich.
+- Alte Akkreditive bleiben gueltig bis Ablauf; Sanktionsaenderungen erfordern Re-Prüfung.
 
 ## Schnittstellen zu anderen Skills
 

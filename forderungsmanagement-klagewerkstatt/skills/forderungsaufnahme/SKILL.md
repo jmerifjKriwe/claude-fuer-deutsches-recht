@@ -30,9 +30,9 @@ Erste systematische Erfassung einer Forderung vor jeder rechtlichen Handlung. Zw
 | Vertretungsberechtigung | ja | HRB aktuell (nicht aelter als 6 Monate) |
 | Ladungsfaehige Anschrift | ja | Meldeauskunft, Handelsregister |
 | Verbraucher oder Unternehmer? | ja | Vertragszweck |
-| Insolvenzstatus | pruefen | [insolvenzbekanntmachungen.de](https://www.insolvenzbekanntmachungen.de) |
-| Bonitaetsindikatoren | pruefen | Creditreform, Schufa |
-| Auslandsbezug | pruefen | EuGVVO/EuMVVO/Brusssel Ia |
+| Insolvenzstatus | prüfen | [insolvenzbekanntmachungen.de](https://www.insolvenzbekanntmachungen.de) |
+| Bonitaetsindikatoren | prüfen | Creditreform, Schufa |
+| Auslandsbezug | prüfen | EuGVVO/EuMVVO/Brusssel Ia |
 
 ### 3. Rechtsgrund
 
@@ -87,7 +87,7 @@ Praezise Subsumtion welcher Anspruch auf welcher Norm beruht:
 | Beleg | Zweck |
 |---|---|
 | Vertrag / Auftragsbestaetigung / AGB | Anspruchsgrund |
-| Lieferschein / Abnahmeprotokoll | Erfuellung Klaeger |
+| Lieferschein / Abnahmeprotokoll | Erfuellung Kläger |
 | Rechnung | Bezifferung, Faelligkeitsausloeser |
 | Mahnungen mit Zustellnachweis | Verzug |
 | Kontoauszuege | Teilzahlungen, Anrechnung § 366 BGB |

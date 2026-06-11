@@ -7,23 +7,23 @@ description: "Prüfung des Anwaltszwangs nach § 78 ZPO. Vor dem Amtsgericht im 
 
 ## Worum geht es?
 
-Vor dem Amtsgericht koennen Sie sich grundsaetzlich **selbst** vertreten. Das nennt sich "Postulationsfaehigkeit" — Sie duerfen vor Gericht Antraege stellen und Schriftsaetze einreichen. Vor dem Landgericht (LG), Oberlandesgericht (OLG) und dem Bundesgerichtshof (BGH) ist das anders: Dort herrscht **Anwaltszwang**. Diese Skill klaert, ob für Ihren Fall wirklich kein Anwalt zwingend ist und nennt die wenigen Ausnahmen.
+Vor dem Amtsgericht können Sie sich grundsätzlich **selbst** vertreten. Das nennt sich "Postulationsfaehigkeit" — Sie dürfen vor Gericht Antraege stellen und Schriftsaetze einreichen. Vor dem Landgericht (LG), Oberlandesgericht (OLG) und dem Bundesgerichtshof (BGH) ist das anders: Dort herrscht **Anwaltszwang**. Diese Skill klaert, ob für Ihren Fall wirklich kein Anwalt zwingend ist und nennt die wenigen Ausnahmen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wollen vor Klage-Einreichung verstehen, ob Sie wirklich ohne Anwalt klagen koennen.
-- Sie wurden vor das AG zitiert und wollen wissen, ob Sie selbst auftreten duerfen.
+- Sie wollen vor Klage-Einreichung verstehen, ob Sie wirklich ohne Anwalt klagen können.
+- Sie wurden vor das AG zitiert und wollen wissen, ob Sie selbst auftreten dürfen.
 - Sie haben Bedenken wegen Familien- oder Betreuungssachen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Anwaltszwang (Postulationsfaehigkeit)**: Die Pflicht, sich nur durch einen zugelassenen Rechtsanwalt vertreten zu lassen.
-- **Familiensache**: Streitigkeiten ueber Scheidung, Unterhalt, Sorgerecht, Versorgungsausgleich. Werden vom AG (Familiengericht) behandelt.
+- **Familiensache**: Streitigkeiten über Scheidung, Unterhalt, Sorgerecht, Versorgungsausgleich. Werden vom AG (Familiengericht) behandelt.
 - **Verfahrensbevollmaechtigter**: Anwalt, der Sie im Prozess vertritt.
 
 ## Rechtsgrundlagen
 
-- **§ 78 Abs. 1 ZPO** — "Vor den Landgerichten und Oberlandesgerichten muessen sich die Parteien durch einen Rechtsanwalt vertreten lassen." → Im Umkehrschluss: AG-Verfahren **ohne** Anwaltszwang.
+- **§ 78 Abs. 1 ZPO** — "Vor den Landgerichten und Oberlandesgerichten müssen sich die Parteien durch einen Rechtsanwalt vertreten lassen." → Im Umkehrschluss: AG-Verfahren **ohne** Anwaltszwang.
 - **§ 78 Abs. 3 ZPO** — Bestimmte Antraege auch vor LG/OLG ohne Anwalt (z. B. Antrag auf Prozesskostenhilfe).
 - **§ 114 FamFG** — In Familiensachen vor dem AG (= Familiengericht) gilt für Ehesachen und Folgesachen Anwaltszwang. **Hier brauchen Sie einen Anwalt.**
 - **§ 11 ArbGG** — Vor Arbeitsgerichten erster Instanz kein Anwaltszwang.
@@ -39,7 +39,7 @@ Vor dem Amtsgericht koennen Sie sich grundsaetzlich **selbst** vertreten. Das ne
 
 ### Schritt 2 — Welcher Antrag?
 
-Selbst vor LG/OLG koennen Sie folgende Antraege **selbst** stellen:
+Selbst vor LG/OLG können Sie folgende Antraege **selbst** stellen:
 
 - Antrag auf Prozesskostenhilfe (§ 78 Abs. 3 ZPO).
 - Antrag auf Ablehnung eines Richters (§§ 42 ff. ZPO).
@@ -53,23 +53,23 @@ Berufungsgericht gegen AG-Urteile ist das Landgericht. Vor dem LG herrscht Anwal
 
 ### Schritt 4 — Selbstvertretung trotzdem sinnvoll?
 
-Nur weil kein Anwaltszwang besteht, ist Selbstvertretung nicht immer klug. Bei komplexen Sachverhalten, hoher Streitwert oder fehlender Routine im Umgang mit dem Recht koennen Sie mehr verlieren, als ein Anwalt kostet. Skill `wann-doch-anwalt-grenzfaelle`.
+Nur weil kein Anwaltszwang besteht, ist Selbstvertretung nicht immer klug. Bei komplexen Sachverhalten, hoher Streitwert oder fehlender Routine im Umgang mit dem Recht können Sie mehr verlieren, als ein Anwalt kostet. Skill `wann-doch-anwalt-grenzfaelle`.
 
 ### Schritt 5 — Bevollmaechtigter ohne Anwaltszulassung?
 
-Vor dem AG koennen Sie sich auch durch eine andere Person vertreten lassen, wenn keine geschaeftsmäßige Rechtsberatung vorliegt (§ 79 Abs. 2 ZPO):
+Vor dem AG können Sie sich auch durch eine andere Person vertreten lassen, wenn keine geschaeftsmäßige Rechtsberatung vorliegt (§ 79 Abs. 2 ZPO):
 
 - Volljaehrige Familienangehoerige.
 - Mitarbeiter Ihres Unternehmens.
 - Verbraucherzentrale.
 
-**Nicht** zulaessig: Bekannte, die regelmaessig für andere auftreten (= Rechtsdienstleistungsgesetz, RDG).
+**Nicht** zulässig: Bekannte, die regelmaessig für andere auftreten (= Rechtsdienstleistungsgesetz, RDG).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **§ 114 FamFG bei Ehesachen**: Sie koennen keine Ehescheidung selbst betreiben. Hier ist Anwalt **zwingend**. Auch wenn die Scheidung einvernehmlich ist, brauchen mindestens Sie selbst (oder im Verbund mit Folgesachen) einen Anwalt.
+- **§ 114 FamFG bei Ehesachen**: Sie können keine Ehescheidung selbst betreiben. Hier ist Anwalt **zwingend**. Auch wenn die Scheidung einvernehmlich ist, brauchen mindestens Sie selbst (oder im Verbund mit Folgesachen) einen Anwalt.
 - **Rechtsmittel**: Berufung vor LG ist Anwaltszwang. Wenn Sie im AG-Prozess unsicher sind, ob Sie verlieren werden, planen Sie das Anwalts-Risiko für die Berufung ein.
-- **Schriftsaetze**: Auch ohne Anwaltszwang muessen Schriftsaetze formale Mindestanforderungen erfuellen — Antrag, Vortrag, Beweis. Skill `klageschrift-pflichtbestandteile-253-zpo`.
+- **Schriftsaetze**: Auch ohne Anwaltszwang müssen Schriftsaetze formale Mindestanforderungen erfuellen — Antrag, Vortrag, Beweis. Skill `klageschrift-pflichtbestandteile-253-zpo`.
 
 ## Typische Fehler
 
@@ -79,7 +79,7 @@ Vor dem AG koennen Sie sich auch durch eine andere Person vertreten lassen, wenn
 
 ## Praxis-Tipp
 
-Selbst wenn am Amtsgericht kein Anwaltszwang besteht, gibt es zwei Schwellen, ab denen Anwaltskontakt regelmaessig sinnvoll ist: (1) **Streitwert ueber 5.000 EUR** – Risiko und Komplexitaet steigen; im Unterliegen drohen erhebliche Kostenfolgen nach §§ 91 ff. ZPO. (2) **Berufungswuerdiger Sachverhalt** – wenn der Fall mit ueber 1.000 EUR Beschwer endet, droht Anwaltszwang vor dem LG (§ 78 I ZPO). Frueh PKH (§§ 114 ff. ZPO) oder Beratungshilfe nach BerHG pruefen, weil Antraege rechtzeitig vor Klage gestellt werden muessen. Notanwalt § 78b ZPO nur als letzter Ausweg, wenn Sie partout keinen Anwalt finden.
+Selbst wenn am Amtsgericht kein Anwaltszwang besteht, gibt es zwei Schwellen, ab denen Anwaltskontakt regelmaessig sinnvoll ist: (1) **Streitwert über 5.000 EUR** – Risiko und Komplexitaet steigen; im Unterliegen drohen erhebliche Kostenfolgen nach §§ 91 ff. ZPO. (2) **Berufungswuerdiger Sachverhalt** – wenn der Fall mit über 1.000 EUR Beschwer endet, droht Anwaltszwang vor dem LG (§ 78 I ZPO). Frueh PKH (§§ 114 ff. ZPO) oder Beratungshilfe nach BerHG prüfen, weil Antraege rechtzeitig vor Klage gestellt werden müssen. Notanwalt § 78b ZPO nur als letzter Ausweg, wenn Sie partout keinen Anwalt finden.
 
 ## Quellen und Aktualitaet
 

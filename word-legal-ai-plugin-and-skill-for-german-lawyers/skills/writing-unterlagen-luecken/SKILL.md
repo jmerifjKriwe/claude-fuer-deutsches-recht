@@ -14,7 +14,7 @@ Diese Unterlagenprüfung für **Word Legal Ai Plugin And Skill For German Lawyer
 - `anspruchsgrundlage-rechtsfolgen-b2b-vs` — Anspruchsgrundlage Rechtsfolgen B2b Vs
 - `anwaltsschreiben-aussergerichtlich-argumentationsarchitektur` — Anwaltsschreiben Aussergerichtlich Argumentationsarchitektur
 - `bilingual-drafting-cowork-cloud` — Bilingual Drafting Cowork Cloud
-- `bilinguales-writing-englische-vertraege` — Bilinguales Writing Englische Vertraege
+- `bilinguales-writing-englische-vertraege` — Bilinguales Writing Englische Verträge
 - `boilerplate-klauseln-definitionen-klauseln` — Boilerplate Klauseln Definitionen Klauseln
 - `defensive-drafting-deutscher-kanzleistil` — Defensive Drafting Deutscher Kanzleistil
 - `dokumentarchitektur-vertrag-englischer-vertrag` — Dokumentarchitektur Vertrag Englischer Vertrag

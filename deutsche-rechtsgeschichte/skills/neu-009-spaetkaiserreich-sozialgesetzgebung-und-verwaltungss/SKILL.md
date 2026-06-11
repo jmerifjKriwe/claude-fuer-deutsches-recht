@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,9 +32,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Sozialgesetze Bismarcks
 
-- **Gesetz ueber Krankenversicherung 15.06.1883** — erste Sozialversicherung der Welt.
-- **Gesetz ueber Unfallversicherung 06.07.1884** — Berufsgenossenschaften.
-- **Gesetz ueber Invaliditaets- und Altersversicherung 22.06.1889** — Vorlaeufer Rentenversicherung.
+- **Gesetz über Krankenversicherung 15.06.1883** — erste Sozialversicherung der Welt.
+- **Gesetz über Unfallversicherung 06.07.1884** — Berufsgenossenschaften.
+- **Gesetz über Invaliditaets- und Altersversicherung 22.06.1889** — Vorlaeufer Rentenversicherung.
 
 ## Spaete Reformen
 

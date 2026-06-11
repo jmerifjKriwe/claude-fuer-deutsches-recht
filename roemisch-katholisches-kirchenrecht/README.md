@@ -22,7 +22,7 @@ Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in
 | --- | --- | --- |
 | Supplicatio De Dispensatione Can 401 Cic | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/roemisch-katholisches-kirchenrecht/supplicatio-de-dispensatione-can-401-cic.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/roemisch-katholisches-kirchenrecht/supplicatio-de-dispensatione-can-401-cic.odt) |
 
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich pruefen und an konkreten Fall anpassen.*
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 

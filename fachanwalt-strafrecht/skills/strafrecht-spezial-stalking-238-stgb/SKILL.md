@@ -20,7 +20,7 @@ description: "§ 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach 
 
 ## Worum geht es konkret
 
-§ 238 StGB sanktioniert die Nachstellung — umgangssprachlich "Stalking". Die Vorschrift wurde durch das Stalking-Bekaempfungsgesetz (2007), die Reform 2017 (Erfolgsdelikt aufgegeben, Eignungsdelikt) und die Reform 2021 deutlich verschaerft. Verteidiger muessen die Reform-Stufen kennen und das anwendbare Recht ueber den Tatzeitraum sauber abgrenzen.
+§ 238 StGB sanktioniert die Nachstellung — umgangssprachlich "Stalking". Die Vorschrift wurde durch das Stalking-Bekaempfungsgesetz (2007), die Reform 2017 (Erfolgsdelikt aufgegeben, Eignungsdelikt) und die Reform 2021 deutlich verschaerft. Verteidiger müssen die Reform-Stufen kennen und das anwendbare Recht über den Tatzeitraum sauber abgrenzen.
 
 ## Tatbestand im Detail
 
@@ -29,28 +29,28 @@ description: "§ 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach 
 Die acht Regelbeispiele:
 
 1. die raeumliche Naehe aufsucht
-2. unter Verwendung von Telekommunikationsmitteln oder sonstigen Mitteln der Kommunikation oder ueber Dritte Kontakt herzustellen versucht
+2. unter Verwendung von Telekommunikationsmitteln oder sonstigen Mitteln der Kommunikation oder über Dritte Kontakt herzustellen versucht
 3. unter missbraeuchlicher Verwendung von dessen personenbezogenen Daten Bestellungen abgibt oder Dritte veranlasst, mit diesem Kontakt aufzunehmen
 4. mit der Verletzung von Leben, koerperlicher Unversehrtheit, Gesundheit oder Freiheit droht
 5. zulasten der betroffenen Person oder nahestehender Personen eine Tat nach §§ 202a, 202b oder 202c StGB begeht
-6. eine Abbildung der betroffenen Person oder nahestehender Personen verbreitet oder oeffentlich zugaenglich macht
-7. einen Inhalt verbreitet oder oeffentlich zugaenglich macht, der unter Vortaeuschung der Urheberschaft der betroffenen Person geeignet ist, diese veraechtlich zu machen oder herabzuwuerdigen
+6. eine Abbildung der betroffenen Person oder nahestehender Personen verbreitet oder öffentlich zugaenglich macht
+7. einen Inhalt verbreitet oder öffentlich zugaenglich macht, der unter Vortaeuschung der Urheberschaft der betroffenen Person geeignet ist, diese veraechtlich zu machen oder herabzuwuerdigen
 8. eine mit Nr. 1 bis 7 vergleichbare Handlung vornimmt
 
 Strafrahmen § 238 Abs. 1 StGB: Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 
-§ 238 Abs. 2 StGB: besonders schwere Faelle der Nachstellung nach Abs. 1 Nr. 1 bis 7, Strafrahmen 3 Monate bis 5 Jahre. Hierhin gehoeren insbesondere verursachte Gesundheitsschaedigung, Gefahr des Todes oder einer schweren Gesundheitsschaedigung, eine Vielzahl von Tathandlungen ueber mindestens sechs Monate und bestimmte Cyber-/Bild-/Inhaltskonstellationen.
+§ 238 Abs. 2 StGB: besonders schwere Faelle der Nachstellung nach Abs. 1 Nr. 1 bis 7, Strafrahmen 3 Monate bis 5 Jahre. Hierhin gehoeren insbesondere verursachte Gesundheitsschaedigung, Gefahr des Todes oder einer schweren Gesundheitsschaedigung, eine Vielzahl von Tathandlungen über mindestens sechs Monate und bestimmte Cyber-/Bild-/Inhaltskonstellationen.
 
-§ 238 Abs. 3 StGB: Todesfolge. Verursacht die Tat den Tod des Opfers, eines Angehoerigen oder einer anderen nahestehenden Person, betraegt der Strafrahmen 1 bis 10 Jahre. Schwere Gesundheitsschaedigung ohne Tod nicht in Abs. 3 ziehen, sondern Abs. 2 pruefen.
+§ 238 Abs. 3 StGB: Todesfolge. Verursacht die Tat den Tod des Opfers, eines Angehoerigen oder einer anderen nahestehenden Person, betraegt der Strafrahmen 1 bis 10 Jahre. Schwere Gesundheitsschaedigung ohne Tod nicht in Abs. 3 ziehen, sondern Abs. 2 prüfen.
 
 ## Praktikertipps der Verteidigung
 
 - **Tatzeitraum sauber abgrenzen**: Vor der 2017er Reform war § 238 StGB als Erfolgsdelikt ausgestaltet (schwerwiegende Beeintraechtigung der Lebensgestaltung musste tatsaechlich eingetreten sein). Seit der Reform reicht die Eignung zur nicht unerheblichen Beeintraechtigung. Bei Alttatzeitraeumen vor Inkrafttreten der Reform ist das Bestreiten des konkreten Erfolgs ein Verteidigungsansatz.
-- **"Wiederholt" statt altem Eingangselement**: Fuer aktuelles Recht nach der Reform 2021 ist "wiederholt" das gesetzliche Eingangselement. Aeltere Rechtsprechung zum frueheren Merkmal kann nur noch für Altrecht und als historischer Auslegungs- und Abgrenzungshintergrund helfen, ersetzt aber nicht den aktuellen Gesetzeswortlaut. Verteidigung daher nicht auf ein weggefallenes Merkmal stuetzen, sondern Anzahl, Dichte, Zeitraum, Zusammenhang und Eignung der konkreten Handlungen pruefen.
+- **"Wiederholt" statt altem Eingangselement**: Für aktuelles Recht nach der Reform 2021 ist "wiederholt" das gesetzliche Eingangselement. Aeltere Rechtsprechung zum frueheren Merkmal kann nur noch für Altrecht und als historischer Auslegungs- und Abgrenzungshintergrund helfen, ersetzt aber nicht den aktuellen Gesetzeswortlaut. Verteidigung daher nicht auf ein weggefallenes Merkmal stuetzen, sondern Anzahl, Dichte, Zeitraum, Zusammenhang und Eignung der konkreten Handlungen prüfen.
 - **Eignung zur Beeintraechtigung**: objektiver Massstab, nicht das subjektive Empfinden des Opfers. Verteidigung kann hier mit Lebensumstaenden des Opfers (Selbststaendigkeit, Mobilitaet, soziale Einbindung) argumentieren.
-- **Vorsatz**: bedingter Vorsatz genuegt. Bei einseitiger Liebe (Schwarmverliebtheit, Verfolgungswahn) Schuldfaehigkeit § 20 StGB pruefen.
+- **Vorsatz**: bedingter Vorsatz genuegt. Bei einseitiger Liebe (Schwarmverliebtheit, Verfolgungswahn) Schuldfaehigkeit § 20 StGB prüfen.
 - **GewSchG-Schnittstelle**: zivilrechtliche Annaeherungsverbote (Familiengerichtsbeschluss § 1 GewSchG) und Strafverfahren laufen oft parallel. Verstoss gegen zivilen Beschluss = eigener Straftatbestand § 4 GewSchG.
-- **Pretrial-Massnahmen**: Kontaktverbot, Wohnungsverweisung — Verteidigung kann antiveriablen Plan vorlegen (Therapie, freiwillige Abstinenz).
+- **Pretrial-Maßnahmen**: Kontaktverbot, Wohnungsverweisung — Verteidigung kann antiveriablen Plan vorlegen (Therapie, freiwillige Abstinenz).
 
 ## Trade-off-Matrix
 
@@ -70,8 +70,8 @@ Strafrahmen § 238 Abs. 1 StGB: Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 ## Strafzumessung und Folgen
 
 - § 46 StGB allgemeine Strafzumessung: Vorgeschichte, Beziehungsdynamik, Therapieeinsicht massgeblich.
-- Berufsverbot § 70 StGB selten, aber bei einschlaegigen Berufsfeldern moeglich (Sicherheitsdienst, Lehrer).
-- BZRG: Eintrag bei Geldstrafe ueber 90 Tagessaetzen oder Freiheitsstrafe.
+- Berufsverbot § 70 StGB selten, aber bei einschlaegigen Berufsfeldern möglich (Sicherheitsdienst, Lehrer).
+- BZRG: Eintrag bei Geldstrafe über 90 Tagessaetzen oder Freiheitsstrafe.
 - Faehigkeit zur Waffenbesitzkarte (§ 5 II Nr. 1c WaffG): regelmaessig negativ tangiert.
 
 ## Mustertexte
@@ -86,5 +86,5 @@ Strafrahmen § 238 Abs. 1 StGB: Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 
 - § 238 StGB in der seit den Reformen 2017 und 2021 geltenden Struktur.
 - § 4 GewSchG.
-- Aeltere BGH-Rechtsprechung zum frueheren Eingangselement nur für Altrecht/Tatzeitraeume vor der Reform 2021 oder als historischer Auslegungshintergrund verwenden; für aktuelles Recht immer den Wortlaut "wiederholt" zugrunde legen und die konkrete Linie vor Verwendung in Schriftsatz ueber bundesgerichtshof.de oder dejure.org verifizieren.
+- Aeltere BGH-Rechtsprechung zum frueheren Eingangselement nur für Altrecht/Tatzeitraeume vor der Reform 2021 oder als historischer Auslegungshintergrund verwenden; für aktuelles Recht immer den Wortlaut "wiederholt" zugrunde legen und die konkrete Linie vor Verwendung in Schriftsatz über bundesgerichtshof.de oder dejure.org verifizieren.
 - Bundestag-Drucksache 19/28679 zur Reform 2021 (verifizieren).

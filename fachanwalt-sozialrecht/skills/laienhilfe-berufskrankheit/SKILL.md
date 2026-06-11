@@ -76,4 +76,4 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Anzeige BK:** Arbeitgeber (§ 193 SGB VII) und Arzt (§ 202 SGB VII) sind verpflichtet; Patient kann selbst Anzeige machen.
 - **Leistungen:** Heilbehandlung (§ 27 SGB VII), Krankengeld, Verletztenrente bei MdE ab 20 % (§ 56 SGB VII), Pflege, Reha, ggf. Sterbegeld.
 - **MdE-Tabellen** der UV-Traeger / Schoenberger-Mehrtens-Valentin als Referenz; nicht mit GdB (SGB IX) verwechseln.
-- **Praxis-Tipp:** Berufsverlauf detailliert dokumentieren (Arbeitgeberliste, Belastungsexpositionen, Daten); Stellungnahmen ehemaliger Kollegen; Versicherungsbeitraege pruefen.
+- **Praxis-Tipp:** Berufsverlauf detailliert dokumentieren (Arbeitgeberliste, Belastungsexpositionen, Daten); Stellungnahmen ehemaliger Kollegen; Versicherungsbeitraege prüfen.

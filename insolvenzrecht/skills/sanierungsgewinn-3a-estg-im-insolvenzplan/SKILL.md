@@ -25,7 +25,7 @@ description: "Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. In
 
 Der Insolvenzplan (Paragraphen 217 ff. InsO) ist das in der Praxis wichtigste Instrument für Forderungsverzichte und damit zugleich der typische Ausloeser eines Sanierungsertrags. Mit der Wiederaufnahme von Paragraph 3a EStG ist die fruehere Streitfrage, ob der Sanierungserlass per Verwaltungsanweisung oder per Gesetz gelte, erledigt: die Steuerbefreiung steht im Gesetz.
 
-Dieser Skill arbeitet die Pruefung des Sanierungsertrags im Plan-Kontext durch: vier materielle Voraussetzungen, Verrechnungsreihenfolge, Antrag, Plan-Texte. Adressat ist der Plan-Anwalt, der Insolvenzverwalter und der StB.
+Dieser Skill arbeitet die Prüfung des Sanierungsertrags im Plan-Kontext durch: vier materielle Voraussetzungen, Verrechnungsreihenfolge, Antrag, Plan-Texte. Adressat ist der Plan-Anwalt, der Insolvenzverwalter und der StB.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -36,7 +36,7 @@ Dieser Skill arbeitet die Pruefung des Sanierungsertrags im Plan-Kontext durch: 
 Kaltstart-Fragen:
 
 1. Schuldner: GmbH, AG, GmbH und Co. KG, Einzelunternehmer, eingetragener Kaufmann?
-2. Hoehe des Forderungsverzichts im Plan?
+2. Höhe des Forderungsverzichts im Plan?
 3. Plan-Quote (was bleibt den Glaeubigern)?
 4. Verlustvortraege bekannt (KSt, GewSt, ESt)?
 5. Liegt ein Sanierungskonzept nach IDW S 6 oder vergleichbarer Standard vor?
@@ -49,12 +49,12 @@ Kaltstart-Fragen:
 - Paragraph 3a Absatz 3 EStG — Verrechnungsreihenfolge; verdraengt Mindestbesteuerung.
 - Paragraph 7b GewStG — Gewerbesteuer-Parallel.
 - Paragraph 251 AO — Steuern im Insolvenzverfahren.
-- BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich ueber die Liquidation hinaus bestehen; blosse Vermoegenslosigkeit begruendet keine Ausbuchung — zur Abgrenzung Sanierungsertrag vs. Ausbuchung mangels Schuldner.
+- BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich über die Liquidation hinaus bestehen; blosse Vermoegenslosigkeit begruendet keine Ausbuchung — zur Abgrenzung Sanierungsertrag vs. Ausbuchung mangels Schuldner.
 
 ## / Schritt für Schritt
 
-1. **Forderungsverzicht erfassen.** Welche Forderungen entfallen im Plan in welcher Hoehe? Trennung Drittglaeubiger vs. Gesellschafter (Gesellschafter-Verzicht kann verdeckte Einlage sein).
-2. **Werthaltigkeit der Forderungen pruefen.** Nur werthaltige Forderungen erzeugen einen vollwertigen Sanierungsertrag; nicht werthaltige Forderungen erhoehen den Sanierungsertrag rechnerisch, fuehren aber zugleich zu einer abweichenden bilanziellen Behandlung.
+1. **Forderungsverzicht erfassen.** Welche Forderungen entfallen im Plan in welcher Höhe? Trennung Drittglaeubiger vs. Gesellschafter (Gesellschafter-Verzicht kann verdeckte Einlage sein).
+2. **Werthaltigkeit der Forderungen prüfen.** Nur werthaltige Forderungen erzeugen einen vollwertigen Sanierungsertrag; nicht werthaltige Forderungen erhoehen den Sanierungsertrag rechnerisch, fuehren aber zugleich zu einer abweichenden bilanziellen Behandlung.
 3. **Vier Voraussetzungen Paragraph 3a Absatz 2 EStG abarbeiten** (Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger).
 4. **Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG aufstellen.**
 5. **Restsanierungsertrag berechnen.**
@@ -74,8 +74,8 @@ Kaltstart-Fragen:
 
 | Variante | Vorteil | Nachteil |
 |---|---|---|
-| Unternehmensbezogene Sanierung (Paragraph 3a Absatz 2 EStG) | Steuerbefreiung greift | Vier Voraussetzungen muessen wasserdicht belegt sein |
-| Unternehmerbezogene Sanierung | nicht von Paragraph 3a Absatz 1 EStG erfasst | Steuerpflichtig — Erlass nur ueber Paragraph 227 AO |
+| Unternehmensbezogene Sanierung (Paragraph 3a Absatz 2 EStG) | Steuerbefreiung greift | Vier Voraussetzungen müssen wasserdicht belegt sein |
+| Unternehmerbezogene Sanierung | nicht von Paragraph 3a Absatz 1 EStG erfasst | Steuerpflichtig — Erlass nur über Paragraph 227 AO |
 | Gesellschafter-Verzicht (gesellschaftsrechtlich veranlasst) | keine Steuer (Einlage) | Werthaltigkeitspruefung; ggf. verdeckte Einlage |
 | Drittglaeubiger-Verzicht | klar Sanierungsertrag | bei Werthaltigkeit gewinnerhoehend |
 | Verzicht mit Besserungsschein | nur teilweise endgueltig | Sanierungsertrag entsteht ggf. nachgelagert; Buchungstechnik beachten |
@@ -84,7 +84,7 @@ Kaltstart-Fragen:
 
 1. **Vier Voraussetzungen in den darstellenden Teil ausdruecklich aufnehmen.** Wer das im Plan dokumentiert, hat dem Finanzamt eine vorgefertigte Begruendung serviert.
 2. **Sanierungsabsicht ist plural.** Wenn nur ein Hauptglaeubiger verzichtet, hilft das nicht — der Verzicht muss von einem ausreichenden Glaeubigerkreis getragen sein, weil die Sanierung sonst nicht plausibel ist.
-3. **Besserungsschein steuerlich pruefen.** Forderungsverzicht mit Besserungsabrede entstehen den Sanierungsertrag erst, wenn der Besserungsfall **nicht** eintritt — bis dahin ist der Verzicht aufschiebend.
+3. **Besserungsschein steuerlich prüfen.** Forderungsverzicht mit Besserungsabrede entstehen den Sanierungsertrag erst, wenn der Besserungsfall **nicht** eintritt — bis dahin ist der Verzicht aufschiebend.
 4. **Stille Reserven nicht durch Buchungstechnik in den Sanierungsertrag mischen.** Aufdeckungen sind regulaer steuerpflichtige Gewinne.
 5. **Vorabauskunft Paragraph 89 AO** ist gebuehrenpflichtig, aber bei Volumen ab ca. 1 Mio EUR Sanierungsertrag in der Regel sinnvoll.
 6. **Doppelt parallel laufen** — KSt-Antrag und GewSt-Antrag (Paragraph 7b GewStG) gleichzeitig vorbereiten.
@@ -186,7 +186,7 @@ Paragraph 222 AO.
 
 - **BFH, Urt. v. 26.02.2003 — II R 19/01** — Verbindlichkeiten bleiben zivilrechtlich auch in Liquidation bestehen.
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung.
-- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Paragraph 5 Absatz 2a EStG bei Rangruecktritt.
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Paragraph 5 Absatz 2a EStG bei Rangrücktritt.
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Bei Liquidation rangruecktrittsbehaftete Verbindlichkeit passiviert bis Loeschung; rechtstheoretisch entstehender Gewinn mangels Steuersubjekt nicht steuerpflichtig (vorgehend zu BFH I R 34/12).
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — bestaetigt FG-Koeln-Linie als „nicht evident rechtsfehlerhaft".
 - **FG Koeln, Urt. v. 04.11.2025 — 12 K 1413/25** — Antragsfristen Paragraph 3a Abs. 4 EStG.

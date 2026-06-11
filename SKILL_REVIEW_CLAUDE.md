@@ -63,7 +63,7 @@ Aus ~19 162 SKILL.md sind 5951 geworden. Der wirklich wertvolle Inhalt (z. B. di
 ### 2.2 Tatsächlich starke Inhalte
 Einzelne Kompendien-Module sind genuin gut:
 
-- `beamtenrecht/skills/kompendium-06-besold-neu-003-besol-bis-besold-neu-009-minde` → Modul 6 (Amtsangemessene Alimentation): Klare Fünf-Parameter-Pruefung erster Stufe, Trennung erste/zweite Stufe, BVerfGE-Anker mit Band+Randnummer. Das ist **Fachanwalts-Niveau**, nicht Lehrbuch.
+- `beamtenrecht/skills/kompendium-06-besold-neu-003-besol-bis-besold-neu-009-minde` → Modul 6 (Amtsangemessene Alimentation): Klare Fünf-Parameter-Prüfung erster Stufe, Trennung erste/zweite Stufe, BVerfGE-Anker mit Band+Randnummer. Das ist **Fachanwalts-Niveau**, nicht Lehrbuch.
 - `selbstvertreter-sozialgericht/skills/kompendium-08-.../eilantrag-86b-sgg-grundlagen` → Vollständiger SG-Eilantrag mit eidesstattlicher Versicherung, Antragsmuster, Anlagenliste. Das spart einer/m Bürger:in zwei Stunden Recherche.
 - `roemisches-recht/skills/kompendium-11-.../rom-074-bereicherungsrecht-vergleich` → Saubere Zuordnung Digestenstellen → BGB §§ 812-822, einschließlich Einheits- vs. Trennungslehre. Universitätsniveau.
 - `selbstvertreter-amtsgericht/skills/kompendium-01-anfaenger-workflow-a-bis-fristbeginn-zustellu` → Sehr starkes Triage-Schema in Sie-Form mit drei Führungsstufen (sehr geführt / normal / Kurzmodus). Das ist genau die richtige Idee für einen Allgemein-Skill.

@@ -25,7 +25,7 @@ description: "Lernstrategien für Jurastudium und Examensvorbereitung entwickeln
 ## Zentrale Normen
 - § 195 BGB — Regelverjaehrung: Muster-Anker für Spaced Repetition im Schuldrecht
 - §§ 242 StGB, 263 StGB — Strafrecht-Standardtatbestaende für Interleaving-Uebungen
-- §§ 40, 42 VwGO — VwR-Klageart-Pruefung als wiederkehrendes Interleaving-Element
+- §§ 40, 42 VwGO — VwR-Klageart-Prüfung als wiederkehrendes Interleaving-Element
 - §§ 133, 157 BGB — Auslegung als Kern-Kompetenz: muss durch aktiven Abruf gelernt werden
 
 ## Eingaben

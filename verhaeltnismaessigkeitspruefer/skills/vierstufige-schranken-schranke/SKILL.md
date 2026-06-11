@@ -14,14 +14,14 @@ der jeweiligen Grundrechte.
 
 BVerfGE 19, 342 (Wencker) hat das Prinzip allgemein anerkannt;
 BVerfGE 7, 377 (Apotheken-Urteil) ist die Geburtsstunde der
-abgestuften Pruefung im Grundrechtsbereich.
+abgestuften Prüfung im Grundrechtsbereich.
 
 ## Normenanker
 
 - Art. 1 Abs. 1 GG: absolute Menschenwuerdegrenze.
 - Art. 2 Abs. 1 GG: allgemeine Handlungsfreiheit als Auffanggrundrecht.
 - Art. 5 Abs. 2 GG: Schranken-Trias Meinung/Presse.
-- Art. 8 Abs. 2 GG: Gesetzesvorbehalt fuer Versammlungen unter freiem Himmel.
+- Art. 8 Abs. 2 GG: Gesetzesvorbehalt für Versammlungen unter freiem Himmel.
 - Art. 12 Abs. 1 GG: Berufsfreiheit und Drei-Stufen-Lehre.
 - Art. 14 Abs. 1 bis 3 GG: Inhaltsbestimmung, Sozialbindung, Enteignung.
 - Art. 19 Abs. 1 Satz 2 GG: Zitiergebot.
@@ -30,7 +30,7 @@ abgestuften Pruefung im Grundrechtsbereich.
 
 ## Entscheidungsanker
 
-- BVerfG, Urteil vom 11.06.1958, 1 BvR 596/56, BVerfGE 7, 377 (Apotheken): abgestufte Pruefung bei Art. 12 GG.
+- BVerfG, Urteil vom 11.06.1958, 1 BvR 596/56, BVerfGE 7, 377 (Apotheken): abgestufte Prüfung bei Art. 12 GG.
 - BVerfG, Urteil vom 02.03.2010, 1 BvR 256/08 u.a., BVerfGE 125, 260 (Vorratsdatenspeicherung): Eingriffsintensitaet, Streubreite, Sicherungen und Loeschung.
 - BVerfG, Beschluss vom 24.03.2021, 1 BvR 2656/18 u.a., BVerfGE 157, 30 (Klimaschutz): Angemessenheit mit Zukunftsdimension.
 - BVerfG, Beschluss vom 19.11.2021, 1 BvR 781/21 u.a., BVerfGE 159, 223 (Bundesnotbremse): Kontrolldichte bei dynamischer Wissenslage.
@@ -38,7 +38,7 @@ abgestuften Pruefung im Grundrechtsbereich.
 ## Die vier Stufen
 
 ### Stufe 1: Legitimer Zweck
-Verfolgt die Massnahme einen vom Grundgesetz nicht verbotenen Zweck?
+Verfolgt die Maßnahme einen vom Grundgesetz nicht verbotenen Zweck?
 - Bei einfachem Gesetzesvorbehalt: jeder vernuenftige Gemeinwohlzweck.
 - Bei qualifiziertem Gesetzesvorbehalt: nur die in der Schrankenklausel
   genannten Zwecke (zum Beispiel Art 11 II GG, Art 13 II VII GG).
@@ -53,7 +53,7 @@ Gibt es ein milderes gleich effektives Mittel? **Mildestes Mittel**
 ist das Mittel mit dem geringsten Grundrechtseingriff, das mit gleicher
 Sicherheit zum Zweck fuehrt.
 
-### Stufe 4: Angemessenheit (Verhaeltnismaessigkeit im engeren Sinne)
+### Stufe 4: Angemessenheit (Verhältnismäßigkeit im engeren Sinne)
 Steht der Eingriff in einem ausgewogenen Verhaeltnis zum Zweckgewinn?
 Hier wird **abgewogen**: Schwere des Eingriffs gegen Gewicht des Zwecks
 und Wahrscheinlichkeit der Zweckerreichung.
@@ -64,7 +64,7 @@ und Wahrscheinlichkeit der Zweckerreichung.
 | --- | --- |
 | Berufsfreiheit | Erforderlichkeit oder Stufenlehre |
 | Polizeirecht Praevention | Angemessenheit (Gefahrenprognose) |
-| Pandemie-Massnahmen | Erforderlichkeit (mildere Alternativen) |
+| Pandemie-Maßnahmen | Erforderlichkeit (mildere Alternativen) |
 | Verkehrssicherheit | Geeignetheit selten kritisch |
 | Sozialleistungskuerzungen | Existenzminimum als Grenze |
 | Datenschutz | Verfahrenssicherungen in Erforderlichkeit |

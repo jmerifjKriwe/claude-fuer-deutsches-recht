@@ -7,7 +7,7 @@ description: "Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel."
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Verkehrsowi Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Verkehrsowi Verteidiger** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Verkehrsowi Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Verkehrsowi Verteidiger** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -51,13 +51,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **(1) Zustellungsdatum** Bussgeldbescheid? § 67 OWiG 2 Wochen Einspruchsfrist.
  - **(2) Tatvorwurf-Typ** (Geschwindigkeit, Abstand, Rotlicht, Handy, Alkohol, Drogen)?
  - **(3) Sanktionsumfang** (Geldbusse, Punkte, Fahrverbot)?
- - **(4) Beruflich existenzbedrohend** (Berufskraftfahrer, Pendler, Aussendienst)?
+ - **(4) Beruflich existenzbedrohend** (Berufskraftfahrer, Pendler, Außendienst)?
  - **(5) Vorbelastung** (Punktestand FAER, Wiederholungstaeter § 4 II StVG, MPU-Risiko)?
 - **Mandatsziele-Hierarchie:**
  - **Verfahren einstellen** § 47 OWiG (Geringfuegigkeit, öffentliches Interesse).
- - **Fahrverbot abwenden** (auch ueber Erhoehung Geldbusse als Kompensation, BGH-Linie).
+ - **Fahrverbot abwenden** (auch über Erhoehung Geldbusse als Kompensation, BGH-Linie).
  - **Punkte abwenden** (insb. bei drohender 8-Punkte-Grenze).
- - **Geldbusse senken** (oft realistisch ueber Beschraenkung).
+ - **Geldbusse senken** (oft realistisch über Beschraenkung).
  - **Schuldspruch beseitigen** (Messfehler, Identitaetszweifel).
 - **Akteneinsicht § 49 OWiG i.V.m. § 147 StPO sofort:**
  - Messprotokoll, Lichtbild, Eichschein, Bedienerschein, Lebensakte Geraet.
@@ -65,7 +65,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Schulungsnachweis Messbeamter.
 - **Verteidigungsstrategie-Optionen:**
  - **Messfehler** (Standardisierungsfrage, Toleranzunterschreitung, Bedienfehler).
- - **Identitaetszweifel** (Lichtbild zeigt nicht Halter; Halterauskunft § 31a StVZO trotzdem zulaessig).
+ - **Identitaetszweifel** (Lichtbild zeigt nicht Halter; Halterauskunft § 31a StVZO trotzdem zulässig).
  - **Verfahrensfehler** (Verjährung § 26 III StVG, Zustellungsmaengel, Anhörungspflicht § 55 OWiG).
  - **Rechtsfolgenmilderung** (Tagessatzhoehe; Fahrverbot Haerte).
 - **Risikoampel:**

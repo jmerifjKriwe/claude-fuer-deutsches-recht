@@ -7,11 +7,11 @@ description: "Baut die vierte Padlet-Spalte als Pendant zu Reiter 4 der Step-Pla
 
 ## Ziel
 Spalte 4 des Padlets bildet Reiter 4 der Step-Plan-Excel ab: Workflow je
-fehlendes Dokument, Schritt fuer Schritt.
+fehlendes Dokument, Schritt für Schritt.
 
 ## Vorlage-Bezug
 Spaltenkopf: `4. Erstellung und Beschaffung`
-Subtitle: `Fuer jedes zu erstellende bzw. zu beschaffende Dokument: die
+Subtitle: `Für jedes zu erstellende bzw. zu beschaffende Dokument: die
 erforderlichen Schritte in der Reihenfolge ihrer Ausfuehrung.`
 
 Karteninhalt (fuenf Felder aus der Excel-Vorlage):
@@ -60,7 +60,7 @@ LausitzStorage-Akte, Spalte 4 mit 12 Workflow-Karten, davon:
 - Mandat-Reporting auf Knopfdruck
 
 ## Grenzen
-- **Workflow ist Vorschlag**, anwaltliche Pruefung erforderlich.
+- **Workflow ist Vorschlag**, anwaltliche Prüfung erforderlich.
 - **Tags sind Hilfsklassifikation**, ersetzen keine Vollmachtspruefung.
 
 ## Plugin-Kontext

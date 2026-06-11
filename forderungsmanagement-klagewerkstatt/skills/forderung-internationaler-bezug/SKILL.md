@@ -13,7 +13,7 @@ Auslandsbezug aendert Zuständigkeit anwendbares Recht und Vollstreckungspfad.
 |---|---|---|
 | EU-Mitgliedstaat | Brüssel Ia VO 1215/2012 | nationales Verfahren EuMVVO oder EuGFVO |
 | EFTA Schweiz Norwegen Island | LugÜ 2007 | wie Brüssel Ia |
-| Drittstaat z B GB nach Brexit USA | autonomes Recht 12 13 23 ZPO | Anerkennungs- und Vollstreckungsvertraege pruefen |
+| Drittstaat z B GB nach Brexit USA | autonomes Recht 12 13 23 ZPO | Anerkennungs- und Vollstreckungsvertraege prüfen |
 
 ## Anwendbares Recht
 

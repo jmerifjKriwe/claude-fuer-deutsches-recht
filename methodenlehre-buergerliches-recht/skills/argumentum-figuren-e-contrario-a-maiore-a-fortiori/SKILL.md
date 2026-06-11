@@ -39,13 +39,13 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 
 - Sie argumentieren mit dem Schweigen einer Norm und brauchen den Umkehrschluss.
 - Sie wollen eine Wertung von einem Fall auf einen verwandten Fall uebertragen, ohne in die formale Analogie zu gehen.
-- Sie pruefen die Abgrenzung Auslegung / Analogie und stellen fest, dass eine Argumentum-Figur die Sache klarer macht.
-- Sie streiten ueber abschliessende Aufzaehlungen vs. Regelbeispiele.
+- Sie prüfen die Abgrenzung Auslegung / Analogie und stellen fest, dass eine Argumentum-Figur die Sache klarer macht.
+- Sie streiten über abschliessende Aufzaehlungen vs. Regelbeispiele.
 - Sie wollen im Schriftsatz ein zusaetzliches Argument liefern, ohne die Wortlaut-Grenze zu sprengen.
 
 ## Methodische Grundlage
 
-**Wurzel:** Roemisches Recht; in die deutsche Methodenlehre eingegangen ueber die Pandektistik (siehe Skill `pandekten-und-begriffsjurisprudenz`).
+**Wurzel:** Roemisches Recht; in die deutsche Methodenlehre eingegangen über die Pandektistik (siehe Skill `pandekten-und-begriffsjurisprudenz`).
 
 **Klassische Werke:**
 
@@ -58,8 +58,8 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 
 **Argumentum e contrario:**
 
-- **§ 181 BGB (Insichgeschaeft):** "Ein Vertreter kann, soweit nicht ein anderes ihm gestattet ist, im Namen des Vertretenen mit sich im eigenen Namen oder als Vertreter eines Dritten ein Rechtsgeschaeft nicht vornehmen, es sei denn, dass das Rechtsgeschaeft ausschliesslich in der Erfuellung einer Verbindlichkeit besteht." E contrario: Wenn das Insichgeschaeft ausschliesslich Erfuellung ist, ist es zulaessig.
-- **§ 311 Abs. 1 BGB:** Zur Begruendung eines Schuldverhaeltnisses durch Rechtsgeschaeft sowie zur Aenderung des Inhalts eines Schuldverhaeltnisses ist ein Vertrag erforderlich, soweit nicht das Gesetz ein anderes vorschreibt. E contrario: Einseitige Akte begruenden grundsaetzlich kein Schuldverhaeltnis, ausser das Gesetz sieht es vor (z. B. § 657 BGB Auslobung, § 661a BGB Gewinnzusage).
+- **§ 181 BGB (Insichgeschaeft):** "Ein Vertreter kann, soweit nicht ein anderes ihm gestattet ist, im Namen des Vertretenen mit sich im eigenen Namen oder als Vertreter eines Dritten ein Rechtsgeschaeft nicht vornehmen, es sei denn, dass das Rechtsgeschaeft ausschließlich in der Erfuellung einer Verbindlichkeit besteht." E contrario: Wenn das Insichgeschaeft ausschließlich Erfuellung ist, ist es zulässig.
+- **§ 311 Abs. 1 BGB:** Zur Begruendung eines Schuldverhaeltnisses durch Rechtsgeschaeft sowie zur Aenderung des Inhalts eines Schuldverhaeltnisses ist ein Vertrag erforderlich, soweit nicht das Gesetz ein anderes vorschreibt. E contrario: Einseitige Akte begruenden grundsätzlich kein Schuldverhaeltnis, ausser das Gesetz sieht es vor (z. B. § 657 BGB Auslobung, § 661a BGB Gewinnzusage).
 - **Abschliessende Aufzaehlungen** — z. B. § 437 BGB (Maengelrechte). E contrario: Andere Rechte als Nacherfuellung, Ruecktritt, Minderung, Schadensersatz und Aufwendungsersatz hat der Kaeufer nicht. Aber: Konkurrenzen zu allgemeinem Schadensersatz nach § 280 BGB sind nicht ausgeschlossen.
 
 **Argumentum a maiore ad minus (vom Groesseren auf das Kleinere):**
@@ -78,27 +78,27 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 
 ## Schritt-für-Schritt
 
-**Fuer den Umkehrschluss:**
+**Für den Umkehrschluss:**
 
 1. **Norm identifizieren.** Welche Norm regelt einen bestimmten Fall?
-2. **Abschliessenden Charakter pruefen.** Ist die Aufzaehlung enumerativ oder regelhaft?
-3. **Materialien pruefen.** Hat der Gesetzgeber bewusst nur diesen Fall geregelt?
+2. **Abschliessenden Charakter prüfen.** Ist die Aufzaehlung enumerativ oder regelhaft?
+3. **Materialien prüfen.** Hat der Gesetzgeber bewusst nur diesen Fall geregelt?
 4. **Umkehrwertung formulieren.** Was gilt e contrario?
-5. **Konflikt mit Analogie pruefen.** Wenn die Wertung gleich ist, koennte statt Umkehrschluss Analogie naeherliegen.
+5. **Konflikt mit Analogie prüfen.** Wenn die Wertung gleich ist, koennte statt Umkehrschluss Analogie naeherliegen.
 
-**Fuer den Erst-recht-Schluss:**
+**Für den Erst-recht-Schluss:**
 
 1. **Norm und Wertung identifizieren.** Welcher Fall ist geregelt? Welche Wertung steht dahinter?
 2. **Vergleichsfall identifizieren.** Welcher nicht geregelte Fall ist "groesser" oder "kleiner"?
-3. **Wertungsidentitaet pruefen.** Greift die Wertung des geregelten Falles auch für den Vergleichsfall?
+3. **Wertungsidentitaet prüfen.** Greift die Wertung des geregelten Falles auch für den Vergleichsfall?
 4. **Schluss formulieren.** "Wer X darf, darf erst recht Y" oder "Wer X schon nicht darf, darf erst recht nicht Y."
-5. **Argumentstaerke pruefen.** Stuetzt sich der Schluss auf eindeutige Wertungen, oder ist er beliebig?
+5. **Argumentstaerke prüfen.** Stuetzt sich der Schluss auf eindeutige Wertungen, oder ist er beliebig?
 
 ## Typische Fehler / Kritik
 
 - **Umkehrschluss ohne abschliessenden Charakter.** Wer aus dem Schweigen einer Norm automatisch das Gegenteil ableitet, uebergeht die Frage, ob es eine planwidrige Regelungsluecke gibt (siehe Skill `analogie-und-teleologische-reduktion`).
 - **Erst-recht-Schluss ohne Wertungsanker.** "Erst recht" ist nur ein Argument, wenn die Wertung des geregelten Falles auch den Vergleichsfall traegt. Bloss formale "Groessenvergleiche" tragen nicht.
-- **Umkehrschluss und Analogie als Alternativen.** Beide schliessen sich aus: Wenn die Norm abschliessend ist, ist sie nicht analogiefaehig; wenn sie analogiefaehig ist, ist e contrario nicht zulaessig.
+- **Umkehrschluss und Analogie als Alternativen.** Beide schliessen sich aus: Wenn die Norm abschliessend ist, ist sie nicht analogiefaehig; wenn sie analogiefaehig ist, ist e contrario nicht zulässig.
 - **Argumentum-Figuren als Selbstbeleg.** Wer "e contrario" oder "a maiore" als alleinige Begruendung vorbringt, betreibt formale Logik ohne Wertung.
 
 Kritik der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Die Figuren sind Topoi, also Argumentationsmuster — keine Beweisschluesse. Sie ueberzeugen nur, wenn die dahinterliegende Wertung trifft.

@@ -103,14 +103,14 @@ description: "Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erb
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Landpachtvertrag und Hoferbfolge gemeinsam pruefen | Beide Pruefschemas unten; Schriftsatzbausteine |
+| Standard — Landpachtvertrag und Hoferbfolge gemeinsam prüfen | Beide Pruefschemas unten; Schriftsatzbausteine |
 | Variante A — nur Landpacht ohne Hoferbfolge | Teil 1 Pruefschema; Schriftsatzbaustein § 593 BGB |
-| Variante B — nur Hoferbfolge ohne laufenden Pachtvertrag | Teil 2 HoeFO-Pruefung; Abfindungsberechnung |
-| Variante C — Verpachter und Erblasser dieselbe Person | Verknuepfung Pachtverhaeltnis und Erbrecht beachten; Sonderkuendigungsrecht pruefen |
+| Variante B — nur Hoferbfolge ohne laufenden Pachtvertrag | Teil 2 HoeFO-Prüfung; Abfindungsberechnung |
+| Variante C — Verpachter und Erblasser dieselbe Person | Verknuepfung Pachtverhaeltnis und Erbrecht beachten; Sonderkuendigungsrecht prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -185,7 +185,7 @@ zertifiziertem Sachverständigen zu ermitteln; länderspezifische
 Wertermittlungsrichtlinien beachten.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

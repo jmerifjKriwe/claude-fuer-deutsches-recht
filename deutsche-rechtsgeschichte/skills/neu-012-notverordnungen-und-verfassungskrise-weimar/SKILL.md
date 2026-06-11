@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,8 +32,8 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Notverordnungsrecht Art. 48 WRV
 
-- Reichspraesident kann Massnahmen zur Wahrung der öffentlichen Sicherheit und Ordnung treffen.
-- Bestimmte Grundrechte koennen ausgesetzt werden.
+- Reichspraesident kann Maßnahmen zur Wahrung der öffentlichen Sicherheit und Ordnung treffen.
+- Bestimmte Grundrechte können ausgesetzt werden.
 - Reichstag kann durch einfache Mehrheit die Aufhebung der Notverordnung verlangen.
 
 ## Praktische Anwendung 1930-1933

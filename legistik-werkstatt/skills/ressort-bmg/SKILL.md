@@ -34,7 +34,7 @@ Vollzugspraxis greifen ineinander.
 - **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
 - **EU-Ebene** (Generaldirektion und Ratsformation)
 
-### Welche Normen muss man lesen koennen
+### Welche Normen muss man lesen können
 
 AMG; MPG; MPDG; SGB V; SGB XI; IfSG; BApO; KHG; KHEntgG.
 
@@ -46,11 +46,11 @@ gerichts-Linie und BVerwG-Linie.
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
  konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Ländern oder nachgeordneten Behörden;
- Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen müssen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
  (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
- pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ prüfen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -61,7 +61,7 @@ gerichts-Linie und BVerwG-Linie.
 - `legw-bmg-krankenhaus-und-versorgungsstrukturrecht` - Krankenhaus- und Versorgungsstrukturrecht
 
 Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Pruefpfad und
-Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau diese Skills ein.
+Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich über genau diese Skills ein.
 
 ## Stolpersteine - die fuenf haeufigsten
 

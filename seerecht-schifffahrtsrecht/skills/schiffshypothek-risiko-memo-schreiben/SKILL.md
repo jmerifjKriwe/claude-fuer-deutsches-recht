@@ -21,7 +21,7 @@ Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Schiffshy
 2. Hypothekenrang und Konkurrenzrechte darstellen.
 3. Hauptrisiken identifizieren: Wertverfall; Reeder-Insolvenz; Vorrangglaeubigerrechte; Wrackpflicht.
 4. Handlungsoptionen mit Kosten-Nutzen-Analyse formulieren.
-5. Zeitkritische Massnahmen priorisieren: Arrest; Versicherungspruefung; ISM-Status.
+5. Zeitkritische Maßnahmen priorisieren: Arrest; Versicherungspruefung; ISM-Status.
 6. Empfehlungsmatrix für Entscheidungstraeger erstellen.
 
 ## Rechtsrahmen
@@ -36,7 +36,7 @@ Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Schiffshy
 
 ## Typische Fallstricke
 - Schiffswertgutachten für hypothekenbelastetes Seeschiff veraltet; Marktpreise schwanken stark.
-- Memo ohne Priorisierung zeitkritischer Massnahmen fuehrt zu Untaetigkeit.
+- Memo ohne Priorisierung zeitkritischer Maßnahmen fuehrt zu Untaetigkeit.
 - Vorrangglaeubigerrechte (Besatzungsloehne/Hafengebuehren) werden unterschaetzt.
 
 ## Vertiefung: Struktur des Risiko-Memos

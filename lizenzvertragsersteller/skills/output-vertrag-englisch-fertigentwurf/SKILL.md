@@ -79,7 +79,7 @@ Annex E — Sub-Licensee List
 > "Licensor hereby grants Licensee a [non-exclusive / sole / exclusive] licence to use the intellectual property rights listed in Annex A (the 'Licensed IP') for the Field of Use defined in Annex B in the Territory defined herein."
 
 **Sec. 5 — Royalties:**
-> "Licensee shall pay to Licensor a running royalty of [X] % of Net Sales of Licensed Products. 'Net Sales' means gross invoiced sales less customary discounts, returns, value-added tax and shipping costs. Royalties are payable within thirty (30) days after the end of each calendar quarter."
+> "Licensee shall pay to Licensor a running royalty of [X] % of Net Sales of Licensed Products. 'Net Sales' means groß invoiced sales less customary discounts, returns, value-added tax and shipping costs. Royalties are payable within thirty (30) days after the end of each calendar quarter."
 
 **Sec. 15 — Governing Law and Arbitration (English law, LCIA):**
 > "This Agreement shall be governed by and construed in accordance with the laws of England and Wales. Any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration under the LCIA Rules. The seat of arbitration shall be London. The number of arbitrators shall be three. The language of the arbitration shall be English."

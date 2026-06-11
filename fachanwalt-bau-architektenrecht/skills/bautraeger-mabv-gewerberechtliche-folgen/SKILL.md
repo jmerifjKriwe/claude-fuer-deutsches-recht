@@ -22,7 +22,7 @@ description: "MaBV-Verstoss gewerberechtliche Folgen: Skill behandelt die gewerb
 
 - Bussgeld nach § 18 MaBV bis 5000 Euro.
 - Bei wiederholten Verstoessen Erlaubnisentzug nach § 34c Abs. 4 GewO.
-- Anzeige durch geschaedigte Erwerber an Gewerbeaufsicht moeglich.
+- Anzeige durch geschaedigte Erwerber an Gewerbeaufsicht möglich.
 
 ## Zivilrechtlich
 

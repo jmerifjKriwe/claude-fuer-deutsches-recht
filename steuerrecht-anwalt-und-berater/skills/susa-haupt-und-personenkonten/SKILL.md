@@ -13,7 +13,7 @@ description: "SuSa-Auswertung Hauptbuchkonten und Personenkonten separat auswert
 
 ## Kernsachverhalt
 
-Die SuSa zeigt einen Saldo auf dem Sammelkonto "Forderungen aus Lieferungen und Leistungen" (typisch SKR 03 1400). Die Detailebene mit Einzelkunden liegt im Nebenbuch in den Personenkonten (Debitorennummern-Bereich des aktuellen DATEV-Kontenrahmens beachten). Hauptbuch und Nebenbuch muessen abgestimmt sein — der Sammelkonto-Saldo muss mit der Summe der Personenkonten-Salden uebereinstimmen. Differenzen sind Fehler, die der Steuerberater aufspueren muss.
+Die SuSa zeigt einen Saldo auf dem Sammelkonto "Forderungen aus Lieferungen und Leistungen" (typisch SKR 03 1400). Die Detailebene mit Einzelkunden liegt im Nebenbuch in den Personenkonten (Debitorennummern-Bereich des aktuellen DATEV-Kontenrahmens beachten). Hauptbuch und Nebenbuch müssen abgestimmt sein — der Sammelkonto-Saldo muss mit der Summe der Personenkonten-Salden uebereinstimmen. Differenzen sind Fehler, die der Steuerberater aufspueren muss.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,7 +24,7 @@ Die SuSa zeigt einen Saldo auf dem Sammelkonto "Forderungen aus Lieferungen und 
 5. Welche Periodizitaet der Abstimmung — monatlich, quartalsweise, jaehrlich?
 6. Welche Differenzkriterien (in EUR und in Prozent)?
 7. Welche Sondersituation (Massenbuchungen, Storno-Pauschalen)?
-8. Welche Dokumentationspflicht (intern, Pruefer)?
+8. Welche Dokumentationspflicht (intern, Prüfer)?
 
 ## Rechtlicher Rahmen
 
@@ -71,14 +71,14 @@ Typische SKR-03-Sammelkonten (Nummern beispielhaft; bei Abweichungen in der aktu
 | Verbindlichkeiten LuL | [X] | [Y] | [Z] |
 | Bank | [X] | [Y] | [Z] |
 
-Differenzen muessen 0 sein. Bei Abweichung: Fehler im System (Buchung ohne Personenkonto-Zuordnung) oder Zeitversatz.
+Differenzen müssen 0 sein. Bei Abweichung: Fehler im System (Buchung ohne Personenkonto-Zuordnung) oder Zeitversatz.
 
 ### Phase 4 — Differenzursachen
 
-| Differenz-Typ | Ursache | Klaerung |
+| Differenz-Typ | Ursache | Klärung |
 |---|---|---|
 | Saldo Hauptbuch > Personenkonten | Buchung direkt auf Sammelkonto ohne Personenzuordnung | Korrektur-Buchung mit Personenzuordnung |
-| Saldo Hauptbuch < Personenkonten | Personenkonto mit Saldo, kein Hauptbuch-Eintrag | Buchung pruefen |
+| Saldo Hauptbuch < Personenkonten | Personenkonto mit Saldo, kein Hauptbuch-Eintrag | Buchung prüfen |
 | Cut-off-Differenz | Zahlung am letzten Tag, Buchung Folgetag | Cut-off-Korrektur |
 | Storno-Pauschale | Pauschal-Storno ohne Personenkonto | Personalisieren oder akzeptieren |
 
@@ -88,10 +88,10 @@ Differenzen muessen 0 sein. Bei Abweichung: Fehler im System (Buchung ohne Perso
 - Bei "direkter Buchung Sammelkonto" durch Sachbearbeiter: Aufklaerung und Schulung.
 - Cut-off-Korrekturen mit klarem Vermerk.
 
-### Phase 6 — Pruefer-Vorbereitung
+### Phase 6 — Prüfer-Vorbereitung
 
-- Bei WP-Pruefung Abstimmungsprotokoll als Pruefungsunterlage.
-- Bei BP-Pruefung Hauptbuch und OPOS-Listen gemeinsam vorlegen.
+- Bei WP-Prüfung Abstimmungsprotokoll als Pruefungsunterlage.
+- Bei BP-Prüfung Hauptbuch und OPOS-Listen gemeinsam vorlegen.
 - Bei Mandantenwechsel Abstimmung als Uebergabeunterlage.
 
 ## Strategie und Praxis-Tipps
@@ -101,7 +101,7 @@ Differenzen muessen 0 sein. Bei Abweichung: Fehler im System (Buchung ohne Perso
 - Schulung der Sachbearbeiter: jede Buchung auf 1400/1500 braucht Personenkonto-Zuordnung.
 - StBVV: Abstimmung in Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV-Auswertung "Sachkonten und Personenkonten" bietet automatische Differenzanzeige.
-- Bei wiederholten Differenzen ueber 1.000 EUR: systemischer Fehler — Buchungslogik pruefen.
+- Bei wiederholten Differenzen über 1.000 EUR: systemischer Fehler — Buchungslogik prüfen.
 
 ## Quellen und Updates
 

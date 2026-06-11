@@ -7,13 +7,13 @@ description: "Bezeichnung Sortierung und Beifuegung von Anlagen zur Klageschrift
 
 ## Worum geht es?
 
-Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnummeriert (K1, K2, K3 ... für Klaeger; B1, B2, B3 ... für Beklagten) und im Sachvortrag mit dieser Bezeichnung referenziert. Eine gute Anlagen-Struktur erleichtert Richter und Gegenseite die Lesefuehrung — was bei Selbstvertretung Eindruck macht.
+Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnummeriert (K1, K2, K3 ... für Kläger; B1, B2, B3 ... für Beklagten) und im Sachvortrag mit dieser Bezeichnung referenziert. Eine gute Anlagen-Struktur erleichtert Richter und Gegenseite die Lesefuehrung — was bei Selbstvertretung Eindruck macht.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie bereiten die Anlagen zu Ihrer Klage vor.
 - Sie wollen wissen, wie die Anlagen sortiert werden.
-- Sie sind unsicher, wie viele Kopien Sie machen muessen.
+- Sie sind unsicher, wie viele Kopien Sie machen müssen.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -31,11 +31,11 @@ Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnumme
 
 ### Schritt 1 — Sortierung festlegen
 
-Klaeger-Anlagen: **K1, K2, K3, ...** in der Reihenfolge, in der sie im Sachvortrag erstmals erwaehnt werden.
+Kläger-Anlagen: **K1, K2, K3, ...** in der Reihenfolge, in der sie im Sachvortrag erstmals erwaehnt werden.
 
 Beklagter-Anlagen: **B1, B2, B3, ...**
 
-Wenn Sie unsicher sind, ob Klaeger oder Beklagter: Bei Selbstvertretung sind Sie meist Klaeger. Bei Klageerwiderung Sie sind Beklagter → B-Anlagen.
+Wenn Sie unsicher sind, ob Kläger oder Beklagter: Bei Selbstvertretung sind Sie meist Kläger. Bei Klageerwiderung Sie sind Beklagter → B-Anlagen.
 
 ### Schritt 2 — Chronologisch oder thematisch?
 
@@ -61,7 +61,7 @@ geschlossen.
 Beweis: Anlage K1 (Email-Verkehr 5.3.2025)
 ```
 
-Die Anlage wird nur einmal eingefuehrt. Spaeter koennen Sie kurz "vgl. Anlage K1" schreiben.
+Die Anlage wird nur einmal eingefuehrt. Später können Sie kurz "vgl. Anlage K1" schreiben.
 
 ### Schritt 4 — Anlagenverzeichnis erstellen
 
@@ -83,7 +83,7 @@ K6 — Kontoauszuege Maerz bis Mai 2025
 Jede Anlage bekommt ein Deckblatt oder Stempel mit der Bezeichnung:
 
 - Deckblatt: "Anlage K1" oben rechts.
-- Oder Stempel ueber die erste Seite.
+- Oder Stempel über die erste Seite.
 
 So findet der Richter beim Bezug "Anlage K1" sofort das Dokument.
 
@@ -114,7 +114,7 @@ Skill `einreichung-papierform-mit-abschriften`.
 
 ### Schritt 8 — Elektronische Einreichung
 
-Bei Einreichung ueber MJP: alle Anlagen als PDF-Dateien beifuegen, eindeutig benannt:
+Bei Einreichung über MJP: alle Anlagen als PDF-Dateien beifuegen, eindeutig benannt:
 
 ```
 Klageschrift.pdf
@@ -125,17 +125,17 @@ Anlage_K2_Lieferschein.pdf
 
 Skill `einreichung-mein-justizpostfach-mjp-2024`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Lesbarkeit**: Schlechte Kopien (verschwommen, abgeschnitten) sind im Streitfall problematisch. Originale aufbewahren.
-- **Originale-Pflicht**: Bei Streit ueber die Echtheit kann das Gericht das Original verlangen.
+- **Originale-Pflicht**: Bei Streit über die Echtheit kann das Gericht das Original verlangen.
 - **Datenschutz**: Schwaerzen Sie Drittpersonen-Daten in Anlagen, wenn sie nicht prozessrelevant sind.
 - **Umfang**: Nur Anlagen beifuegen, die im Sachvortrag referenziert sind. Keine ungenutzten Dokumente.
 
 ## Typische Fehler
 
-- "Ich nummeriere wie es kommt, A B C D." → Falsche Konvention. Klaeger K, Beklagter B.
-- "Ich lege ueber 100 Anlagen vor." → Uebermaessig; reichen Sie nur Wesentliches ein.
+- "Ich nummeriere wie es kommt, A B C D." → Falsche Konvention. Kläger K, Beklagter B.
+- "Ich lege über 100 Anlagen vor." → Uebermaessig; reichen Sie nur Wesentliches ein.
 - "Anlagen sind unbeschriftet." → Erschwert Bezugnahme; Richter sucht.
 - "Ich gebe nur Original und keine Abschriften." → Klage muss zugestellt werden — ohne Abschriften kann das Gericht nicht zustellen.
 

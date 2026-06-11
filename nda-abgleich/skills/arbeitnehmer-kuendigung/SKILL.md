@@ -143,7 +143,7 @@ Hintergrund: Wer ganze Klauseln durch eigene Formulierungen ersetzt, signalisier
 Für Modus B braucht der Skill:
 
 - den **NDA-Entwurf der Gegenseite** (.docx oder .pdf, OCR falls Bild-PDF) als Ausgangsdokument, und
-- den **Haltelinien-Standard des Mandanten**. Diesen liefert idealerweise Modus A in Form der `.json`- oder `.md`-Datei. Alternativ akzeptiert der Skill auch ein eigenes Standard-NDA des Mandanten plus eine kurze Ampelmatrix als Eingabe — er destilliert dann intern "on the fly" einen Minimal-Standard daraus (mit Hinweis, dass Modus A grundsaetzlich die solidere Grundlage ist).
+- den **Haltelinien-Standard des Mandanten**. Diesen liefert idealerweise Modus A in Form der `.json`- oder `.md`-Datei. Alternativ akzeptiert der Skill auch ein eigenes Standard-NDA des Mandanten plus eine kurze Ampelmatrix als Eingabe — er destilliert dann intern "on the fly" einen Minimal-Standard daraus (mit Hinweis, dass Modus A grundsätzlich die solidere Grundlage ist).
 
 Vor der ersten Änderung liest der Skill alle Inputs vollständig:
 

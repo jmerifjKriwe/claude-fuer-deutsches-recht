@@ -33,7 +33,7 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 
 - **§ 51 StGB** — Anrechnung von Untersuchungshaft, einstweiliger Unterbringung, Auslieferungshaft und vergleichbarer Freiheitsentziehung. Pflicht zur vollstaendigen Anrechnung, sofern keine ausdrueckliche Versagung wegen vorwerfbaren Verhaltens.
 - **§ 57 StGB** — Aussetzung des Strafrests bei zeitiger Freiheitsstrafe; Regelfall nach 2/3, in besonderen Faellen nach 1/2.
-- **§ 57a StGB** — Aussetzung des Strafrests bei lebenslanger Freiheitsstrafe; frueheste Pruefung nach 15 Jahren; **besondere Schwere der Schuld** kann verlaengern (§ 57a Abs. 1 Satz 1 Nr. 2 StGB).
+- **§ 57a StGB** — Aussetzung des Strafrests bei lebenslanger Freiheitsstrafe; frueheste Prüfung nach 15 Jahren; **besondere Schwere der Schuld** kann verlaengern (§ 57a Abs. 1 Satz 1 Nr. 2 StGB).
 - **§ 57b StGB** — Aussetzung bei Gesamtstrafe aus lebenslanger und zeitiger Freiheitsstrafe.
 - **§ 35 BtMG** — Zurueckstellung der Strafvollstreckung bei Betaeubungsmittelabhaengigkeit zugunsten Therapie.
 - **§ 36 BtMG** — Anrechnung der Therapiezeit.
@@ -45,7 +45,7 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 ## Anrechnung U-Haft (§ 51 StGB)
 
 - **Vollstaendig anzurechnen**: jeder Tag U-Haft, einstweilige Unterbringung, Auslieferungshaft.
-- **Ausnahme**: vorwerfbares Verhalten des Verurteilten (selbstverschuldete Verlaengerung); Anrechnung ganz oder teilweise versagt — Urteilsformel pruefen.
+- **Ausnahme**: vorwerfbares Verhalten des Verurteilten (selbstverschuldete Verlaengerung); Anrechnung ganz oder teilweise versagt — Urteilsformel prüfen.
 - **Anrechnungssatz**: 1 Tag U-Haft = 1 Tag Freiheitsstrafe (Standard).
 - **Massregel-Anrechnung**: Bei Sicherungsverwahrung oder § 64 StGB im Vorgriff kann § 67 Abs. 4 StGB greifen.
 
@@ -53,22 +53,22 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 
 ### 2/3 (§ 57 Abs. 1 StGB)
 
-- Pruefung **von Amts wegen** nach Verbuessung von 2/3.
+- Prüfung **von Amts wegen** nach Verbuessung von 2/3.
 - Erforderlich: positive Sozialprognose und Zustimmung des Verurteilten.
 - Bewaehrungszeit 2 bis 5 Jahre.
 - Anhörung durch Strafvollstreckungskammer (§ 454 StPO).
 
 ### 1/2 (§ 57 Abs. 2 StGB)
 
-- Pruefung nur bei besonderen Umstaenden.
+- Prüfung nur bei besonderen Umstaenden.
 - Voraussetzungen:
  - Erstvollverbuesser ohne einschlaegige Vorbelastung, **oder**
  - besondere Umstaende der Tat, der Persoenlichkeit oder der Entwicklung im Vollzug.
-- Frueheste Pruefung nach Verbuessung von 1/2 der Strafe, jedoch mindestens 6 Monate.
+- Frueheste Prüfung nach Verbuessung von 1/2 der Strafe, jedoch mindestens 6 Monate.
 
 ### Lebenslang (§ 57a StGB)
 
-- Frueheste Pruefung nach **15 Jahren**.
+- Frueheste Prüfung nach **15 Jahren**.
 - Besondere Schwere der Schuld (§ 57a Abs. 1 Satz 1 Nr. 2 StGB) kann zusaetzliche Mindestverbuessungsdauer begruenden — wird durch das **Tatgericht** im Urteilstenor festgestellt.
 - Bei Gesamtstrafe mit lebenslang siehe § 57b StGB.
 
@@ -83,13 +83,13 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 - **§ 455 Abs. 1 StPO** — Strafaufschub bei Geisteskrankheit.
 - **§ 455 Abs. 2-4 StPO** — bei schwerer Krankheit, lebensgefahr; Vollstreckungsbehoerde entscheidet.
 - **§ 455a StPO** — Strafunterbrechung in besonderen Faellen.
-- **§ 456 StPO** — Aufschub aus persönlichen Gruenden (z.B. Pruefung, Schwangerschaft, betreuungspflichtige Kinder) auf laengstens 4 Monate.
+- **§ 456 StPO** — Aufschub aus persönlichen Gruenden (z.B. Prüfung, Schwangerschaft, betreuungspflichtige Kinder) auf laengstens 4 Monate.
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
-1. **Urteilsformel pruefen**: U-Haft-Anrechnung korrekt? Wenn nein, Beschluss der Vollstreckungsbehoerde nach § 458 StPO anregen.
-2. **§ 35 BtMG** pruefen, wenn Tat im BtM-Zusammenhang.
-3. **Strafaufschub / -unterbrechung** pruefen, wenn persönliche Lage es erfordert.
+1. **Urteilsformel prüfen**: U-Haft-Anrechnung korrekt? Wenn nein, Beschluss der Vollstreckungsbehoerde nach § 458 StPO anregen.
+2. **§ 35 BtMG** prüfen, wenn Tat im BtM-Zusammenhang.
+3. **Strafaufschub / -unterbrechung** prüfen, wenn persönliche Lage es erfordert.
 4. **Reststrafenaussetzung** rechtzeitig vorbereiten:
  - Sozialprognose mit Schulungs-/Therapie-/Arbeitsangebot für die Bewaehrungszeit.
  - Anhörungsschriftsatz bei der Strafvollstreckungskammer.

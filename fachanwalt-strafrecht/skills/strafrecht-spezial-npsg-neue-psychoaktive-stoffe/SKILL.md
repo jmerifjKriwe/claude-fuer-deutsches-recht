@@ -52,7 +52,7 @@ ohne Erlaubnis, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe best
 
 ## Mengen und Schwellen
 
-NpSG kennt keine "nicht geringe Menge" wie das BtMG. Mengenfragen werden ueber § 4 Abs. 2 NpSG (Gesundheitsgefahr, Gewerbsmaessigkeit) abgewickelt.
+NpSG kennt keine "nicht geringe Menge" wie das BtMG. Mengenfragen werden über § 4 Abs. 2 NpSG (Gesundheitsgefahr, Gewerbsmaessigkeit) abgewickelt.
 
 | Konstellation | Strafrahmen |
 |---|---|
@@ -64,9 +64,9 @@ NpSG kennt keine "nicht geringe Menge" wie das BtMG. Mengenfragen werden ueber �
 
 - **Stoffliche Zuordnung:** Hauptangriffspunkt. Faellt der konkrete Stoff unter eine Stoffgruppe der NpSG-Anlage? Gutachten eines forensischen Chemikers ist Pflicht.
 - **Abgrenzung zu BtMG:** Wenn der Stoff bereits im BtMG aufgefuehrt ist (z.B. nachtraegliche Aufnahme synthetischer Cannabinoide), greift BtMG (Spezialitaet — Detail mit aktueller Anlage und BGH-Linie verifizieren).
-- **Abgrenzung zu Arzneimittelrecht:** Synthetische Stoffe mit pharmakologischer Wirkung koennen als Arzneimittel ohne Zulassung gelten (§§ 95, 96 AMG). Doppel-Strafbarkeit pruefen.
+- **Abgrenzung zu Arzneimittelrecht:** Synthetische Stoffe mit pharmakologischer Wirkung können als Arzneimittel ohne Zulassung gelten (§§ 95, 96 AMG). Doppel-Strafbarkeit prüfen.
 - **Eigenbesitz nicht strafbar:** Wer nur Eigenkonsum vorbringt, ist nach § 4 NpSG nicht strafbar. Wichtig: Verteidigungslinie deutlich machen. Abgrenzung zu "Vorraetig-halten zum Inverkehrbringen".
-- **"Inverkehrbringen" eng auslegen:** Ueberlassen an einzelne Bekannte zum Eigenkonsum ist umstritten — pruefen, ob noch Sozialadaequanz oder bereits Inverkehrbringen.
+- **"Inverkehrbringen" eng auslegen:** Ueberlassen an einzelne Bekannte zum Eigenkonsum ist umstritten — prüfen, ob noch Sozialadaequanz oder bereits Inverkehrbringen.
 - **Online-Handel:** Hauptanwendungsfall NpSG. IP-Adressen, Versandprotokolle, Kryptowaehrungs-Spuren entscheidend.
 
 ## Trade-off-Matrix
@@ -82,16 +82,16 @@ NpSG kennt keine "nicht geringe Menge" wie das BtMG. Mengenfragen werden ueber �
 
 - NpSG zu BtMG: BtMG ist Spezialgesetz, wenn der Stoff in BtMG-Anlagen aufgenommen wird.
 - NpSG zu Arzneimittelrecht (§§ 95, 96 AMG): bei pharmakologischer Wirkung kann AMG einschlaegig sein, ggf. tateinheitlich (Detail-Skill `strafrecht-spezial-arzneimittelstrafrecht-amg-95-96`).
-- NpSG zu Doping (§ 4 AntiDopG): bei sportlicher Anwendung pruefen.
-- Tateinheit mit Steuerhinterziehung (§ 370 AO) bei nicht versteuerten Importen moeglich.
+- NpSG zu Doping (§ 4 AntiDopG): bei sportlicher Anwendung prüfen.
+- Tateinheit mit Steuerhinterziehung (§ 370 AO) bei nicht versteuerten Importen möglich.
 
 ## Strafzumessung und Therapie statt Strafe
 
-- Strafrahmen § 4 Abs. 1 NpSG: bis 3 Jahre. Bewaehrung (§ 56 StGB) regelmaessig moeglich.
+- Strafrahmen § 4 Abs. 1 NpSG: bis 3 Jahre. Bewaehrung (§ 56 StGB) regelmaessig möglich.
 - Strafrahmen § 4 Abs. 2 NpSG: 1 bis 10 Jahre.
 - Strafmildernd: Erstaeter, Online-Handel ohne organisatorische Struktur, geringer Umsatz, Aufklaerungshilfe.
 - Strafschaerfend: gewerbsmaessig, banden-, Gesundheitsschaeden eingetreten, Abgabe an Jugendliche.
-- § 35 BtMG: nicht direkt anwendbar (kein BtMG-Stoff); § 35 BtMG analog umstritten. Therapieanrechnung uber allgemeine Strafzumessungsgrundsaetze (§ 46 StGB) moeglich.
+- § 35 BtMG: nicht direkt anwendbar (kein BtMG-Stoff); § 35 BtMG analog umstritten. Therapieanrechnung uber allgemeine Strafzumessungsgrundsaetze (§ 46 StGB) möglich.
 - § 56 StGB Bewaehrung: bis 2 Jahre.
 
 ## Mustertexte

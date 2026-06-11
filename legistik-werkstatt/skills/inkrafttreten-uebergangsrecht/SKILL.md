@@ -20,9 +20,9 @@ Alternativ:
 
 Zeit zwischen Verkündung und Inkrafttreten. Sollte ausreichend sein:
 
-- Bürger und Wirtschaft koennen sich vorbereiten
+- Bürger und Wirtschaft können sich vorbereiten
 - Verwaltung kann sich vorbereiten
-- IT-Systeme koennen angepasst werden
+- IT-Systeme können angepasst werden
 
 Faustregel: bei IT-Pflichten mindestens 12 Monate, bei Belehrungspflichten mindestens 6 Monate.
 

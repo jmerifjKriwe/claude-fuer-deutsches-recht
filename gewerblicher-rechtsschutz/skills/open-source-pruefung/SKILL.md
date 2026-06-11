@@ -239,7 +239,7 @@ Alle Klassifikationen und Pflichtaussagen müssen belegbar sein:
 - **Kommentar oder Aufsatz:** Schricker/Löwenheim UrhG oder Metzger/Jaeger GRUR Int. 1999 mit Seitenangabe
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
 
-## Triage-Fragen vor Open-Source-Pruefung
+## Triage-Fragen vor Open-Source-Prüfung
 
 Bevor die Lizenz-Compliance-Analyse beginnt, klaere:
 1. Handelt es sich um statische oder dynamische Verlinkung (entscheidend für GPL vs. LGPL-Frage)?

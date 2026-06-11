@@ -3,7 +3,7 @@ name: strafrecht-spezial-kcang-strafvorschriften-34-35-kcang
 description: "Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel ueber Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen: Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel ueber Schwell..."
 ---
 
-# Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel ueber Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen
+# Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel über Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel ueber Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen. Strafrahmen, Konkurrenzen, Uebergangsregeln zur Strafhaftung Cannabis.
+**Fokus:** Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel über Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen. Strafrahmen, Konkurrenzen, Uebergangsregeln zur Strafhaftung Cannabis.
 
 ### KCanG: § 34, § 35 Strafvorschriften Cannabis
 
@@ -30,7 +30,7 @@ description: "Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter 
 - Cannabis abgibt, anbaut, herstellt
 - Cannabis Personen unter achtzehn Jahren ueberlaesst oder abgibt
 
-ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+über die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 **§ 34 Abs. 3 KCanG Qualifikation nicht geringe Menge:** Strafrahmen Freiheitsstrafe drei Monate bis fuenf Jahre.
 
@@ -38,12 +38,12 @@ ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstraf
 - gewerbsmäßigem Handeltreiben
 - Banden-Handel mit nicht geringer Menge
 - Mitfuehren Schusswaffe oder gefaehrlicher Gegenstand
-- Abgabe an Personen unter achtzehn Jahren als Person ueber einundzwanzig Jahren in nicht geringer Menge
+- Abgabe an Personen unter achtzehn Jahren als Person über einundzwanzig Jahren in nicht geringer Menge
 - leichtfertige Verursachung des Todes durch Abgabe
 
 **§ 35 Abs. 2 KCanG minder schwerer Fall:** Drei Monate bis fuenf Jahre.
 
-**Subjektiver Tatbestand:** Vorsatz, mindestens dolus eventualis. Fahrlaessigkeit nur in besonderen Faellen (Detail im Gesetzestext pruefen).
+**Subjektiver Tatbestand:** Vorsatz, mindestens dolus eventualis. Fahrlaessigkeit nur in besonderen Faellen (Detail im Gesetzestext prüfen).
 
 ## Mengen und Schwellen
 
@@ -58,10 +58,10 @@ ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstraf
 
 ## Praktikertipps der Verteidigung
 
-- **Erste Pruefung — Schwellen-Naehe:** Bei knapper Ueberschreitung Pruefung, ob noch Ordnungswidrigkeit § 36 KCanG.
-- **Wirkstoffanalyse:** Bei nicht geringer Menge entscheidet der THC-Gehalt. Probennahme, Lagerung, akkreditiertes Labor pruefen — wie bei BtMG.
+- **Erste Prüfung — Schwellen-Naehe:** Bei knapper Ueberschreitung Prüfung, ob noch Ordnungswidrigkeit § 36 KCanG.
+- **Wirkstoffanalyse:** Bei nicht geringer Menge entscheidet der THC-Gehalt. Probennahme, Lagerung, akkreditiertes Labor prüfen — wie bei BtMG.
 - **Eigenkonsum-Verteidigung:** Wer 26 g im öffentlichen Raum besitzt, kann sich darauf berufen, dass diese knappe Ueberschreitung lediglich Ordnungswidrigkeit ist. Schwierig wird es bei deutlich groesseren Mengen.
-- **Hausanbau ueber 3 Pflanzen:** Pruefen, ob die zusaetzlichen Pflanzen Stecklinge oder erntereife Pflanzen waren. Stecklinge zaehlen umstrittenermassen anders (Detail mit aktueller BGH-Linie verifizieren).
+- **Hausanbau über 3 Pflanzen:** Prüfen, ob die zusaetzlichen Pflanzen Stecklinge oder erntereife Pflanzen waren. Stecklinge zaehlen umstrittenermassen anders (Detail mit aktueller BGH-Linie verifizieren).
 - **§ 35 Abs. 2 KCanG minder schwerer Fall:** wichtigste Verteidigungsoption bei Verbrechensstrafrahmen. Erstaeter, eigene Sucht, Aufklaerungshilfe.
 - **Aufklaerungshilfe:** § 35 BtMG analog? § 31 BtMG nur für BtMG-Stoffe; für KCanG ist § 46b StGB einschlaegig (Cannabis ist KCanG-Stoff, nicht BtMG-Stoff). Voraussetzung: Katalogtat des § 46b StGB erfuellt.
 
@@ -78,7 +78,7 @@ ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstraf
 
 - § 34 KCanG zu § 35 KCanG: Spezialitaet, § 35 verdraengt.
 - § 34 KCanG zu § 36 KCanG (Ordnungswidrigkeit): Strafbarkeit verdraengt Ordnungswidrigkeit.
-- § 34 KCanG zu BtMG-Vorschriften: bei reinem Cannabis-Sachverhalt KCanG ausschliesslich; bei Mischsachverhalt (Cannabis + Heroin) zusaetzlich BtMG.
+- § 34 KCanG zu BtMG-Vorschriften: bei reinem Cannabis-Sachverhalt KCanG ausschließlich; bei Mischsachverhalt (Cannabis + Heroin) zusaetzlich BtMG.
 - § 34 Abs. 1 Nr. 6 KCanG (Abgabe an Minderjaehrige) zu § 35 Abs. 1 Nr. 4 (Abgabe in nicht geringer Menge an Minderjaehrige): Spezialitaet, § 35 verdraengt.
 
 ## Strafzumessung und Therapie statt Strafe
@@ -87,7 +87,7 @@ ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstraf
 - § 34 Abs. 3 KCanG: drei Monate bis fuenf Jahre.
 - § 35 KCanG: ein bis fuenfzehn Jahre (Verbrechen). Minder schwerer Fall § 35 Abs. 2 KCanG: drei Monate bis fuenf Jahre.
 - § 56 StGB Bewaehrung: bis zwei Jahre.
-- § 35 KCanG enthaelt mit § 35 BtMG vergleichbare Therapie-statt-Strafe-Regelung — Detail nach Verkuendung verifizieren; bis dahin § 35 BtMG analog pruefen.
+- § 35 KCanG enthaelt mit § 35 BtMG vergleichbare Therapie-statt-Strafe-Regelung — Detail nach Verkuendung verifizieren; bis dahin § 35 BtMG analog prüfen.
 - Strafmildernd: Erstaeter, gestaendige Einlassung, eigene Suchtkrankheit, Aufklaerungshilfe § 46b StGB.
 
 ## Mustertexte
@@ -96,7 +96,7 @@ ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstraf
 "Es liegt ein minder schwerer Fall im Sinne des § 35 Abs. 2 KCanG vor. Mein Mandant ist nicht vorbestraft, hat ein umfassendes Gestaendnis abgelegt, die nicht geringe Menge wurde nur knapp ueberschritten, Aufklaerungshilfe nach § 46b StGB wurde geleistet."
 
 **Mandantenbrief Verteidigungsstrategie Cannabis Hausanbau:**
-"In Ihrer Sache hat die Staatsanwaltschaft Anklage wegen Verstosses gegen § 34 KCanG erhoben. Wir verteidigen Sie wie folgt: (1) Pruefung Pflanzenzahl unter Beruecksichtigung Stecklinge; (2) Wirkstoffanalyse THC; (3) Eigenbedarfs-Argumentation; (4) Bei Verbrechensstrafrahmen Antrag minder schwerer Fall § 35 Abs. 2 KCanG."
+"In Ihrer Sache hat die Staatsanwaltschaft Anklage wegen Verstosses gegen § 34 KCanG erhoben. Wir verteidigen Sie wie folgt: (1) Prüfung Pflanzenzahl unter Beruecksichtigung Stecklinge; (2) Wirkstoffanalyse THC; (3) Eigenbedarfs-Argumentation; (4) Bei Verbrechensstrafrahmen Antrag minder schwerer Fall § 35 Abs. 2 KCanG."
 
 ## Quellen Stand 06/2026
 

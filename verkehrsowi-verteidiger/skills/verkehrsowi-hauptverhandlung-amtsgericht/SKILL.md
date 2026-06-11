@@ -33,7 +33,7 @@ Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nac
 - **§ 74 OWiG** — Verwerfung des Einspruchs bei unentschuldigtem Ausbleiben
 - **§ 77 OWiG** — Beweisantraege: Ablehnungsgruende eng; Sachverstaendigenrecht
 - **§ 17 OWiG** — Geldbusse: Zubemassung nach Schwere und Einkommen
-- **§ 79 OWiG** — Rechtsbeschwerde: zulaessig bei Geldbusse > 250 EUR oder Fahrverbot
+- **§ 79 OWiG** — Rechtsbeschwerde: zulässig bei Geldbusse > 250 EUR oder Fahrverbot
 - **§ 80 OWiG** — Zulassung der Rechtsbeschwerde bei grundsaetzlicher Bedeutung
 
 ## Aktuelle Rechtsprechung
@@ -76,13 +76,13 @@ Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nac
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — OWi-Hauptverhandlung am Amtsgericht fuehren | Plaedoyer nach Schema; Template unten |
 | Variante A — Mandant will Einspruch zuruecknehmen vor HV | Einspruchsruecknahme statt HV; Bussgeldbescheid wird rechtskraeftig |
-| Variante B — Freispruch unrealistisch Strafmass im Fokus | Strafzumessungs-Plaedoyer; Fahrverpflichtung pruefen |
+| Variante B — Freispruch unrealistisch Strafmass im Fokus | Strafzumessungs-Plaedoyer; Fahrverpflichtung prüfen |
 | Variante C — Rechtsbeschwerde bereits im Blick | Verteidigungsstrategie HV auf Rechtsbeschwerde ausrichten; Protokollfuehrung beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -106,7 +106,7 @@ Antrag: Freispruch / Einstellung / Geldbusse von [X] EUR
 ohne Fahrverbot.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

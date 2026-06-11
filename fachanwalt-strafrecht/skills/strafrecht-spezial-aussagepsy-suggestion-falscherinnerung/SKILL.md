@@ -30,7 +30,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 **Loftus-Forschungslinie (zentrale Befunde, generisch).**
 - Misinformation effect: Nach einem Ereignis eingespielte Falschinformation kann das Erinnerungsbild dauerhaft veraendern (klassische Experimente zu Verkehrsunfaellen mit suggestiver Wortwahl).
-- Lost-in-the-mall-Paradigma: Auch komplette Erinnerungen an nie erlebte Ereignisse koennen durch wiederholte suggestive Befragung implantiert werden, einschliesslich Detail und Affekt.
+- Lost-in-the-mall-Paradigma: Auch komplette Erinnerungen an nie erlebte Ereignisse können durch wiederholte suggestive Befragung implantiert werden, einschliesslich Detail und Affekt.
 - Post-event-Information: Spaetere Hinweise, Bilder, Gespraeche werden in das urspruengliche Erinnerungsbild eingebaut, ohne dass die Person die Quelle bewusst zuordnen kann (Quellenamnesie).
 
 **Suggestionsfaktoren in Strafverfahren.**
@@ -47,9 +47,9 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 - **Luege vs. Falscherinnerung trennen.** Replik gegen StA: "Es geht nicht darum, ob die Zeugin luegt. Sie kann hochgradig ueberzeugt und subjektiv ehrlich aussagen — und dennoch eine Falscherinnerung wiedergeben. Das ist die methodische Kernfrage."
 - **Suggestionsquellen kartieren.** Wer hat wann was mit der Zeugin besprochen? Therapeut, Familie, Polizei, Anwalt, Medien? Akteneinsicht in Therapeutendokumentation (mit Schweigepflichtsentbindung erforderlich).
-- **Aussageentstehung in der ersten polizeilichen Vernehmung pruefen.** Frageprotokoll? Offene oder geschlossene Fragen? Vorhalt von Beweisstuecken? Wiederholungen?
-- **Latenz pruefen.** Wie lange zwischen behauptetem Tatzeitpunkt und erster Aussage? Je laenger, desto hoeher das Suggestionsrisiko (besonders kritisch bei Latenzen ueber mehrere Monate oder Jahre).
-- **Therapie als Risikofaktor.** Wenn die Aussage in einem therapeutischen Setting entstanden ist, ist die Aussagegenese besonders kritisch zu pruefen. Therapeutische Aufdeckung ist nicht aussagepsychologisch neutral.
+- **Aussageentstehung in der ersten polizeilichen Vernehmung prüfen.** Frageprotokoll? Offene oder geschlossene Fragen? Vorhalt von Beweisstuecken? Wiederholungen?
+- **Latenz prüfen.** Wie lange zwischen behauptetem Tatzeitpunkt und erster Aussage? Je laenger, desto hoeher das Suggestionsrisiko (besonders kritisch bei Latenzen über mehrere Monate oder Jahre).
+- **Therapie als Risikofaktor.** Wenn die Aussage in einem therapeutischen Setting entstanden ist, ist die Aussagegenese besonders kritisch zu prüfen. Therapeutische Aufdeckung ist nicht aussagepsychologisch neutral.
 - **Imagination und Wiederholung adressieren.** Wenn die Zeugin die Tat in Therapie oder Selbsthilfegruppe wiederholt durchgegangen ist, kann die Erinnerung sich verfestigt, ergaenzt oder veraendert haben.
 
 ## Trade-off-Matrix

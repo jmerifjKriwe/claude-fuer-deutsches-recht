@@ -28,7 +28,7 @@ Auch wenn Paragraph 3a EStG nicht greift oder ein Restbetrag steuerbar bleibt, i
 - **Stundung Paragraph 222 AO** — wenn die Einziehung bei Faelligkeit eine erhebliche Haerte bedeutet und die Anspruchsverwirklichung nicht gefaehrdet ist.
 - **Erlass Paragraph 227 AO** — wenn die Einziehung sachlich oder persoenlich unbillig waere.
 
-Diese Werkzeuge sind in der Sanierungspraxis wichtig, weil sie auch dann greifen koennen, wenn Paragraph 3a EStG-Voraussetzungen nicht zweifelsfrei erfuellt sind. Adressat: StB, IV, Sachwalter, Plan-Anwalt.
+Diese Werkzeuge sind in der Sanierungspraxis wichtig, weil sie auch dann greifen können, wenn Paragraph 3a EStG-Voraussetzungen nicht zweifelsfrei erfuellt sind. Adressat: StB, IV, Sachwalter, Plan-Anwalt.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -55,7 +55,7 @@ Kaltstart-Fragen:
 
 ## / Schritt für Schritt
 
-1. **Hauptantrag pruefen: Paragraph 3a EStG**. Erst wenn dieser greift, ist alles andere ueberfluessig.
+1. **Hauptantrag prüfen: Paragraph 3a EStG**. Erst wenn dieser greift, ist alles andere ueberfluessig.
 2. **Hilfslinie Stundung Paragraph 222 AO** vorbereiten:
  - erhebliche Haerte bei Faelligkeit (Sanierung wuerde scheitern, Liquidation drohte).
  - Anspruch nicht gefaehrdet (Liquiditaetsplan zeigt Tilgung in Raten).
@@ -70,11 +70,11 @@ Kaltstart-Fragen:
 
 | Werkzeug | Wirkung | Voraussetzung | Risiko |
 |---|---|---|---|
-| Paragraph 3a EStG | Steuerbefreiung | vier Voraussetzungen | Pruefung FA |
+| Paragraph 3a EStG | Steuerbefreiung | vier Voraussetzungen | Prüfung FA |
 | Paragraph 222 AO | Aufschub | erhebliche Haerte + nicht gefaehrdeter Anspruch | Zinsen ggf. |
 | Paragraph 227 AO | endgueltig (oder teilweise) | sachliche/persönliche Unbilligkeit | hohe Begruendungsanforderung |
 | Paragraph 78 AO | Tatsachen-Fixierung | nur für Tatsachen, nicht Recht | nicht bindend bei spaeterer Klage gegen Tatsachen-Verstaendigung |
-| Klage vor FG | richterliche Klaerung | Bescheid liegt vor | langwierig |
+| Klage vor FG | richterliche Klärung | Bescheid liegt vor | langwierig |
 | Kombination Paragraph 3a EStG + hilfsweise Paragraph 227 AO | Standard | parallel zu erklaeren | kein Risiko, wenn klar getrennt |
 
 ## Praxistipps der alten Hasen
@@ -82,7 +82,7 @@ Kaltstart-Fragen:
 1. **Immer kaskadiert beantragen.** Hauptantrag Paragraph 3a EStG, hilfsweise Erlass Paragraph 227 AO, hilfsweise Stundung Paragraph 222 AO.
 2. **Persoenliche und sachliche Unbilligkeit getrennt begruenden.** Beide Stossrichtungen.
 3. **Liquiditaetsplan beifuegen.** Ohne Liquiditaetsplan ist die Stundung schlecht zu rechtfertigen.
-4. **Tatsaechliche Verstaendigung** bei strittiger Werthaltigkeit (Gesellschafterverzicht): besser eine Tatsachen-Klaerung im Vorab als spaeter Streit.
+4. **Tatsaechliche Verstaendigung** bei strittiger Werthaltigkeit (Gesellschafterverzicht): besser eine Tatsachen-Klärung im Vorab als später Streit.
 5. **Schriftform.** Muendliche Zusagen der FA-Sachbearbeitung sind kein Vertrauensschutz.
 6. **Gemeinde im Blick:** Bei GewSt liegt die Hebebezugsentscheidung bei der Gemeinde; Stundung dort gesondert.
 

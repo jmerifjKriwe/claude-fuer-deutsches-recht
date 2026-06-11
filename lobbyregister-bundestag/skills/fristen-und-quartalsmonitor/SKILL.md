@@ -29,7 +29,7 @@ description: "Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist f�
 
 ## API-Wiedervorlagen
 
-Fuer jede Portalfrist soll der Monitor eine zweite Kontrollfrist setzen: Nach Veroeffentlichung API/API-Export abrufen, `sourceDate` und Version sichern, `updateMissing`, Stellungnahmen, Regelungsvorhaben und Finanzdaten gegen die Freigabeakte pruefen. Bleibt die erwartete Aenderung oeffentlich aus, Eskalation an Portalverantwortliche und Dokumentation im Fristenbuch.
+Für jede Portalfrist soll der Monitor eine zweite Kontrollfrist setzen: Nach Veroeffentlichung API/API-Export abrufen, `sourceDate` und Version sichern, `updateMissing`, Stellungnahmen, Regelungsvorhaben und Finanzdaten gegen die Freigabeakte prüfen. Bleibt die erwartete Aenderung öffentlich aus, Eskalation an Portalverantwortliche und Dokumentation im Fristenbuch.
 
 ## Quellenanker
 

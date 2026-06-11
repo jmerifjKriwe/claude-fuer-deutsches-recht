@@ -16,12 +16,12 @@ description: "Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des
 
 Art. 30 Abs. 2 DSGVO – Pflichtinhalte für Processor:
 
-a) Name und Kontaktdaten des Auftragsverarbeiters und jedes Verantwortlichen, in dessen Auftrag er taetig ist, sowie ggf. eines Vertreters des Verantwortlichen oder des Auftragsverarbeiters und eines Datenschutzbeauftragten;
+a) Name und Kontaktdaten des Auftragsverarbeiters und jedes Verantwortlichen, in dessen Auftrag er tätig ist, sowie ggf. eines Vertreters des Verantwortlichen oder des Auftragsverarbeiters und eines Datenschutzbeauftragten;
 b) Kategorien der im Auftrag jedes Verantwortlichen durchgefuehrten Verarbeitungen;
-c) ggf. Uebermittlungen in ein Drittland oder an eine internationale Organisation, einschliesslich Angabe des betreffenden Drittlands sowie bei Uebermittlungen gemaess Art. 49 Abs. 1 Unterabs. 2 Dokumentierung der geeigneten Garantien;
-d) wenn moeglich, allgemeine Beschreibung der TOMs gemaess Art. 32 Abs. 1 DSGVO.
+c) ggf. Uebermittlungen in ein Drittland oder an eine internationale Organisation, einschliesslich Angabe des betreffenden Drittlands sowie bei Uebermittlungen gemäß Art. 49 Abs. 1 Unterabs. 2 Dokumentierung der geeigneten Garantien;
+d) wenn möglich, allgemeine Beschreibung der TOMs gemäß Art. 32 Abs. 1 DSGVO.
 
-Wichtig: Pro Auftraggeber eine Zeile. Mehrere Verarbeitungskategorien koennen zusammengefasst werden, wenn TOMs identisch sind.
+Wichtig: Pro Auftraggeber eine Zeile. Mehrere Verarbeitungskategorien können zusammengefasst werden, wenn TOMs identisch sind.
 
 ## Ablauf / Checkliste
 
@@ -74,7 +74,7 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 ## Typische Fehler
 
 - "Verarbeitungskategorie" wird mit "Zweck" verwechselt – Zwecke bestimmt der Verantwortliche.
-- Subverarbeiter fehlen, obwohl Drittlandtransfer ueber sie laeuft.
+- Subverarbeiter fehlen, obwohl Drittlandtransfer über sie laeuft.
 - Pro Auftraggeber separate TOMs dokumentiert, obwohl Mandantenbasis identisch ist – Redundanz vermeiden.
 - Auftraggeber-DSB nicht erfasst.
 - TOM-Spalte mit Wiederholung der Anlage 32 – besser Verweis.

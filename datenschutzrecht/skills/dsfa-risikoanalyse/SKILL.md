@@ -31,10 +31,10 @@ description: "Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal 
  - Transparenz: verdeckte Verarbeitung, fehlende Information
  - Intervenierbarkeit: Loeschungs- oder Berichtigungssperre
  - Nicht-Verkettung: ungewollte Zusammenfuehrung
- - Datenminimierung: ueber Zweck hinausreichende Speicherung
+ - Datenminimierung: über Zweck hinausreichende Speicherung
  Pro Szenario: Eintrittswahrscheinlichkeit (gering/mittel/hoch) und Schadenschwere für Betroffene (gering/mittel/hoch). Verknuepfung zur Risikostufe nach Matrix.
-4. **Massnahmen.** Wirkung der geplanten Massnahmen auf Wahrscheinlichkeit und Schwere; Pruefung ob die Risikostufe sinkt.
-5. **Restrisiko.** Risikostufe nach Massnahmen, dokumentiert pro Szenario. Wenn hoch verbleibend, Vorab-Konsultation nach Art. 36.
+4. **Maßnahmen.** Wirkung der geplanten Maßnahmen auf Wahrscheinlichkeit und Schwere; Prüfung ob die Risikostufe sinkt.
+5. **Restrisiko.** Risikostufe nach Maßnahmen, dokumentiert pro Szenario. Wenn hoch verbleibend, Vorab-Konsultation nach Art. 36.
 6. **Konsultation / Genehmigung.** DSB-Stellungnahme; Risikomatrix in die DSFA als zentrales Steuerungsdokument einbetten.
 
 ## Bewertungsmatrix (3x3)
@@ -49,9 +49,9 @@ Wahrscheinlichkeit
 ```
 
 - GRUEN — Risiko niedrig, dokumentieren
-- GELB — Risiko mittel, Massnahmen pruefen
-- ORANGE — Risiko hoch, Massnahmen verbindlich, ggf. Vorab-Konsultation
-- ROT — Risiko sehr hoch, ohne Massnahmen-Anpassung keine Freigabe
+- GELB — Risiko mittel, Maßnahmen prüfen
+- ORANGE — Risiko hoch, Maßnahmen verbindlich, ggf. Vorab-Konsultation
+- ROT — Risiko sehr hoch, ohne Maßnahmen-Anpassung keine Freigabe
 
 ## Mustertext / Template
 
@@ -88,7 +88,7 @@ Unterschrift DSB: ____________________
 
 - Wahrscheinlichkeit ohne Bedrohungsmodell geschaetzt — Bauchwerte sind nicht aufsichtstauglich.
 - Schadenschwere nur aus Sicht der Organisation bewertet — Massstab ist der Betroffene (Erwaegungsgrund 75).
-- Massnahmenwirkung nicht beziffert — die Spalte nach Massnahmen bleibt leer.
+- Massnahmenwirkung nicht beziffert — die Spalte nach Maßnahmen bleibt leer.
 - Restrisiko hoch wird hingenommen ohne Art. 36 zu konsultieren — eigenstaendige Pflichtverletzung.
 - Risikomatrix wird nicht aktualisiert — DSFA als Einmaldokument.
 - Schutzziele werden auf Vertraulichkeit reduziert — Transparenz und Intervenierbarkeit werden vergessen.

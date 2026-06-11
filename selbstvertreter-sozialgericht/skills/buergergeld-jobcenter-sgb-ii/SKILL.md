@@ -33,7 +33,7 @@ Buergergeld bekommen Sie, wenn Sie wenig Geld haben und arbeitsfaehig sind. Das 
 - **Bedarfsgemeinschaft**: Personen, die zusammen leben und Buergergeld bekommen.
 - **Karenzzeit**: 12 Monate nach Antragstellung mit erweitertem Schonvermoegen (40.000 EUR für erste Person, 15.000 EUR für weitere).
 - **Sanktion**: Kuerzung wegen Pflichtverletzung — seit Reform abgemildert.
-- **Mitwirkungspflicht** (§ 60 SGB I): Sie muessen mitmachen (Termine, Unterlagen).
+- **Mitwirkungspflicht** (§ 60 SGB I): Sie müssen mitmachen (Termine, Unterlagen).
 
 ## Rechtsgrundlagen
 
@@ -55,15 +55,15 @@ Buergergeld bekommen Sie, wenn Sie wenig Geld haben und arbeitsfaehig sind. Das 
 
 ### Schritt 2 — Typische Streitthemen
 
-**KdU zu niedrig**: Jobcenter zahlt nur die "angemessene" Miete. Pruefen Sie die regionale Obergrenze. Bei Ueberschreitung: 6-Monats-Frist zur Anpassung (Umzug oder Senkung), erst dann Kuerzung.
+**KdU zu niedrig**: Jobcenter zahlt nur die "angemessene" Miete. Prüfen Sie die regionale Obergrenze. Bei Ueberschreitung: 6-Monats-Frist zur Anpassung (Umzug oder Senkung), erst dann Kuerzung.
 
-**Sanktion**: Pruefen Sie:
+**Sanktion**: Prüfen Sie:
 - War die Pflichtverletzung wirklich gegeben?
 - Lag ein wichtiger Grund vor (Krankheit, Familie)?
 - Wurde belehrt?
-- Hoehe der Sanktion: max. 30 % bei Erstverstoss (BVerfG-Linie).
+- Höhe der Sanktion: max. 30 % bei Erstverstoss (BVerfG-Linie).
 
-**Schonvermoegen**: In der Karenzzeit (erste 12 Monate) erweitert. Erstes BG-Mitglied 40.000 EUR, weitere 15.000 EUR (pruefen).
+**Schonvermoegen**: In der Karenzzeit (erste 12 Monate) erweitert. Erstes BG-Mitglied 40.000 EUR, weitere 15.000 EUR (prüfen).
 
 **Selbstgenutzte Immobilie**: in angemessener Groesse geschuetzt.
 
@@ -93,7 +93,7 @@ Die Sanktion in Hoehe von 30 % wegen versaeumtem Meldetermin ist rechtswidrig, w
 Mit freundlichen Gruessen
 ```
 
-### Schritt 4 — Eilantrag pruefen
+### Schritt 4 — Eilantrag prüfen
 
 Bei laufenden Existenzproblemen siehe `eilantrag-buergergeld-jobcenter`.
 
@@ -105,19 +105,19 @@ Nach Widerspruchsbescheid: Anfechtungs- (Sanktion) oder Verpflichtungs-Klage (Be
 
 - Mietvertrag
 - Nebenkostenabrechnungen
-- Kontoauszuege (Vermoegen)
+- Kontoauszuege (Vermögen)
 - AU-Bescheinigungen (Termine)
 - Schriftverkehr mit Jobcenter
 
 ### Schritt 7 — Aufrechnung beachten
 
-Jobcenter rechnet alte Forderungen mit Buergergeld auf. Pruefen Sie:
+Jobcenter rechnet alte Forderungen mit Buergergeld auf. Prüfen Sie:
 
 - Maximalbetrag 30 % des Regelbedarfs (§ 43 SGB II)
 - Tilgungsplan
 - Verjährung (4 Jahre § 50 SGB X)
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Karenzzeit-Schonvermoegen**: In den ersten 12 Monaten erweitert.
 - **Sanktionen seit BVerfG-Urteil begrenzt**: max. 30 % bei Erstverstoss.
@@ -126,10 +126,10 @@ Jobcenter rechnet alte Forderungen mit Buergergeld auf. Pruefen Sie:
 
 ## Typische Fehler
 
-- Termine "vergessen" → wenn moeglich, kurzfristig absagen mit Grund
+- Termine "vergessen" → wenn möglich, kurzfristig absagen mit Grund
 - Belege nicht eingereicht → § 60 SGB I-Verletzung
 - KdU stillschweigend zugestimmt → nicht zu hoch ansetzen, aber durchsetzen
-- Vermoegen verschwiegen → Strafbarkeit Betrug!
+- Vermögen verschwiegen → Strafbarkeit Betrug!
 
 ## Quellen und Aktualitaet
 

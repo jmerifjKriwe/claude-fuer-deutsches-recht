@@ -36,7 +36,7 @@ Ein Mandantenreport ist die kuratierte Aufbereitung aller Auswertungen eines Mon
 
 **§ 102 StaRUG** — Hinweispflicht; im Monatsreport zu kommunizieren.
 
-**§ 90 AO** — Mitwirkungspflicht Mandant; im Report Massnahmen-Plan.
+**§ 90 AO** — Mitwirkungspflicht Mandant; im Report Maßnahmen-Plan.
 
 **DSGVO Art. 32** — Sicherheit der Verarbeitung; verschluesselte Uebertragung.
 
@@ -81,7 +81,7 @@ SEITE 4: EMPFEHLUNGSBLOCK
 
 ### Phase 2 — Datenintegration
 
-- BWA aus DATEV/Addison ueber Export.
+- BWA aus DATEV/Addison über Export.
 - Kennzahlen aus Kennzahlen-Modul.
 - OPOS aus OP-Verwaltung.
 - Lohn aus Lohnprogramm.
@@ -90,14 +90,14 @@ SEITE 4: EMPFEHLUNGSBLOCK
 ### Phase 3 — Cover-Aussagen formulieren
 
 - 3 Hauptaussagen pro Monat (z.B. "Umsatz plus 12 Prozent gegenueber Vorjahr", "Personalkostenquote stabil bei 38 Prozent", "Liquiditaet 1. Grades stabil bei 18 Prozent").
-- Klar, kurz, nicht ueber-positiv (Vertrauensbildung durch Realismus).
+- Klar, kurz, nicht über-positiv (Vertrauensbildung durch Realismus).
 - Bei Krisensignalen: Hauptaussage rot markiert.
 
 ### Phase 4 — Empfehlungsblock
 
 - Konkret und umsetzbar.
 - Mit Verantwortlichkeit (Mandant, StB, Bank).
-- Mit Termin (z.B. "bis 15. Folgemonat klaeren").
+- Mit Termin (z.B. "bis 15. Folgemonat klären").
 - Keine Rechtsberatung (§ 5 RDG).
 
 ### Phase 5 — Layout und Versand
@@ -120,7 +120,7 @@ SEITE 4: EMPFEHLUNGSBLOCK
 - Bei wesentlichen Aenderungen Mandant per Telefon kurz vorabinformieren.
 - StBVV: Reportgestaltung Zusatzauftrag oder Pauschalvereinbarung; nicht in Standard-Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV Praesentation-Modul mit Vorlagen; bei Vollindividualisierung Excel/PowerPoint.
-- Mandantenwunsch in Erstgespraech klaeren: Detailtiefe, Frequenz, Versandkanal.
+- Mandantenwunsch in Erstgespraech klären: Detailtiefe, Frequenz, Versandkanal.
 
 ## Quellen und Updates
 

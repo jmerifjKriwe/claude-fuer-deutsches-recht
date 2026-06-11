@@ -91,7 +91,7 @@ Stand Mai 2026: Eine BSG-Leitentscheidung speziell zur Anerkennung von Long-COVI
 | 3 | Höhere Infektionsgefährdung als Allgemeinbevölkerung dokumentiert? | RKI-Empfehlung |
 | 4 | Labordiagnostischer Infektionsnachweis (PCR / Antikörper) und zeitlicher Konnex zur beruflichen Tätigkeit | § 9 SGB VII, BKV Anlage 1 Nr. 3101 |
 | 5 | Symptompersistenz > 12 Wochen — Anwendungsbereich Post-COVID nach AWMF-S1-Leitlinie 05/2024 | https://register.awmf.org/de/leitlinien/detail/020-027 |
-| 6 | Kausalitätskette: berufliche Exposition → Infektion → Long-COVID-Folge — vor Ausgabe BSG/LSG-Linie zur Kausalitätsbeurteilung live in dejure.org pruefen | § 9 SGB VII |
+| 6 | Kausalitätskette: berufliche Exposition → Infektion → Long-COVID-Folge — vor Ausgabe BSG/LSG-Linie zur Kausalitätsbeurteilung live in dejure.org prüfen | § 9 SGB VII |
 | 7 | Long-COVID-Symptome dauerhaft belegt? (Fatigue, PEM, POTS, Kognition) | Arztberichte, Spezialambulanz |
 | 8 | ME/CFS (ICD G93.3) als Folgeerkrankung diagnostiziert? | Diagnostik-Kriterien (CCC/ICC) |
 | 9 | BG-Anzeige nach § 193 SGB VII durch Arbeitgeber erfolgt? | § 193 SGB VII |
@@ -105,13 +105,13 @@ Stand Mai 2026: Eine BSG-Leitentscheidung speziell zur Anerkennung von Long-COVI
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Long-COVID BK-Anerkennung Berufsgenossenschaft | Widerspruchsschriftsatz BG; Template unten |
 | Variante A — Dienstunfall statt BK (Beamte) | Beamtenrecht statt SGB VII; anderer Anspruchsweg |
-| Variante B — Keine Listenanerkennung als BK | § 9 Abs. 2 SGB VII Wie-BK pruefen; neue Erkenntnisse |
+| Variante B — Keine Listenanerkennung als BK | § 9 Abs. 2 SGB VII Wie-BK prüfen; neue Erkenntnisse |
 | Variante C — Privatversicherung daneben | AU-Versicherung und BG-Leistungen nicht ausschliessend |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -221,7 +221,7 @@ Mit freundlichen Grüßen
 [Fachanwalt/-anwältin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

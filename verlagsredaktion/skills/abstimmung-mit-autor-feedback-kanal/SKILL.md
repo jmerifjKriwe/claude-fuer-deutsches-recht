@@ -15,11 +15,11 @@ description: "Strukturiert die laufende Kommunikation mit Autorin: Kanal Frequen
 
 ## Worum geht es konkret
 
-Die Beziehung zwischen Verlag und Autorin laeuft ueber einen kontinuierlichen Kommunikationskanal: Manuskripteingang, Lektoratsrueckmeldungen, Korrekturfahnen, Freigabe, Marketing-Abstimmung, Honorarabrechnung. Ohne saubere Kanalfuehrung entstehen Konflikte, Zuverlaessigkeitsverlust und im Schlimmsten Fall Manuskript-Abbruch. Dieser Skill ist die Vorlage für die strukturierte Autorenkommunikation.
+Die Beziehung zwischen Verlag und Autorin laeuft über einen kontinuierlichen Kommunikationskanal: Manuskripteingang, Lektoratsrueckmeldungen, Korrekturfahnen, Freigabe, Marketing-Abstimmung, Honorarabrechnung. Ohne saubere Kanalfuehrung entstehen Konflikte, Zuverlaessigkeitsverlust und im Schlimmsten Fall Manuskript-Abbruch. Dieser Skill ist die Vorlage für die strukturierte Autorenkommunikation.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahnenden Konflikten, bei Lieferverzug. Klaeren Sie:
+Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahnenden Konflikten, bei Lieferverzug. Klären Sie:
 
 1. Verhaeltnis (langjaehrige Autorin / Erstautor / schwieriges Verhaeltnis)?
 2. Kommunikationspraeferenz (Mail, Telefon, Termin)?
@@ -38,9 +38,9 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 1. **Kanal festlegen.** E-Mail als Primaerkanal (dokumentierbar), Telefon für komplexe Klaerungen, Termin für strategische Themen.
 2. **Frequenz.** Bei aktiver Manuskriptbearbeitung mindestens monatlicher Statusaustausch; bei Druckphase woechentlich.
 3. **Dokumentation.** Jedes wichtige Telefonat in einer Notiz festhalten und an Autorin als "Aktennotiz" mailen. So entsteht beidseitige Dokumentation.
-4. **Eskalationswege.** Bei Konflikten: zunaechst direkte Klaerung; dann Schriftleitung; dann Verlagsleitung. Niemals von vorneherein eskalieren.
-5. **Lieferverzug.** Bei drohendem Verzug fruehzeitig (vor Frist) Klaerung. Verzug nach Frist: schriftliche Mahnung, Ersatzfrist, ggf. Vertragsrueckabwicklung gemaess Verlagsgesetz.
-6. **Manuskriptaenderungen.** Wenn Autorin nachtraeglich aendern will (nach Lektorat): Versionierung pruefen, Kosten / Zeit klaeren.
+4. **Eskalationswege.** Bei Konflikten: zunaechst direkte Klärung; dann Schriftleitung; dann Verlagsleitung. Niemals von vorneherein eskalieren.
+5. **Lieferverzug.** Bei drohendem Verzug fruehzeitig (vor Frist) Klärung. Verzug nach Frist: schriftliche Mahnung, Ersatzfrist, ggf. Vertragsrueckabwicklung gemäß Verlagsgesetz.
+6. **Manuskriptaenderungen.** Wenn Autorin nachtraeglich ändern will (nach Lektorat): Versionierung prüfen, Kosten / Zeit klären.
 7. **Abschluss.** Nach Druck: Honorarrechnung, Belegexemplare, Marketing-Abstimmung, Ausblick auf Folgewerk.
 
 ## Trade-off-Matrix
@@ -54,7 +54,7 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 ## Praxistipps der alten Redaktion
 
 - "Eine Autorin, die nichts vom Verlag hoert, denkt, ihr Manuskript liege im Schrank. Status mindestens monatlich."
-- Telefonate immer mit Aktennotiz dokumentieren - sonst gibt es spaeter "das hat aber Frau Schmidt am Telefon ganz anders gesagt".
+- Telefonate immer mit Aktennotiz dokumentieren - sonst gibt es später "das hat aber Frau Schmidt am Telefon ganz anders gesagt".
 - Bei drohendem Lieferverzug niemals warten - frueher anrufen ist Schadensbegrenzung.
 - Honorarfragen klar trennen vom Manuskript-Lektorat (eigene Mailthreads).
 - Bei renommierten Autoren mit eigenem Lektorat-Stil: respektvoll bleiben, aber Hausregeln durchsetzen.
@@ -85,17 +85,17 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 >
 > Falls etwas davon nicht zutrifft, bitte bis 14.06.2026 melden, sonst gilt es als beidseitig dokumentiert.
 
-**Lieferverzug-Klaerung:**
+**Lieferverzug-Klärung:**
 
-> Sehr geehrter Herr Professor Schmidt, am 19.06.2026 ist die Abgabefrist für Ihren Beitrag "[Titel]" zur Festschrift für Y verstrichen. Wir bitten um kurze Rueckmeldung zum Stand und um Vorschlag einer Ersatzfrist (max. 4 Wochen). Sollten Sie das Manuskript nicht mehr beitragen koennen, bitte ebenfalls Mitteilung, damit wir die Festschriftplanung anpassen koennen. Bei Rueckfragen ...
+> Sehr geehrter Herr Professor Schmidt, am 19.06.2026 ist die Abgabefrist für Ihren Beitrag "[Titel]" zur Festschrift für Y verstrichen. Wir bitten um kurze Rueckmeldung zum Stand und um Vorschlag einer Ersatzfrist (max. 4 Wochen). Sollten Sie das Manuskript nicht mehr beitragen können, bitte ebenfalls Mitteilung, damit wir die Festschriftplanung anpassen können. Bei Rueckfragen ...
 
 ## Typische Fehler / Pitfalls
 
-- Kein Status ueber Wochen - Autorin denkt, Manuskript liegt brach.
-- Telefonat ohne Aktennotiz - spaeter unklar, was vereinbart wurde.
+- Kein Status über Wochen - Autorin denkt, Manuskript liegt brach.
+- Telefonat ohne Aktennotiz - später unklar, was vereinbart wurde.
 - Lieferverzug zu spaet adressiert.
 - Honorar-Themen vermischt mit Lektorat - verwirrt beide Seiten.
-- Bei Konflikt sofort Eskalation an Verlagsleitung - vorher direkte Klaerung versuchen.
+- Bei Konflikt sofort Eskalation an Verlagsleitung - vorher direkte Klärung versuchen.
 
 ## Quellen Stand 06/2026
 

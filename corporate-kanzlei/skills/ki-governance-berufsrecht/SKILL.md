@@ -108,18 +108,18 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welche KI-Werkzeuge werden eingesetzt (generative KI, Dokumentenanalyse, Recherche)?
 2. Welche Mandatsdaten werden verarbeitet (anonym, pseudonymisiert, im Klartext)?
 3. Werden Daten an externe Server uebertragen? (Datenschutz; Mandatsgeheimnis)
-4. Muss der Mandant ueber KI-Einsatz informiert werden?
+4. Muss der Mandant über KI-Einsatz informiert werden?
 5. Wer traegt Verantwortung für KI-generierte Ergebnisse (Qualitatskontrolle)?
 6. EU-KI-VO (AI Act): In welche Risikoklasse faellt der Anwendungsfall?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
-- **§ 43a BRAO** — Verschwiegenheitspflicht; mandatsrelevante Daten duerfen nicht an Dritte weitergegeben werden
-- **§ 2 BORA** — Berufsrechtliche Sorgfalt; KI-Ergebnisse muessen qualitaetsgesichert werden
+- **§ 43a BRAO** — Verschwiegenheitspflicht; mandatsrelevante Daten dürfen nicht an Dritte weitergegeben werden
+- **§ 2 BORA** — Berufsrechtliche Sorgfalt; KI-Ergebnisse müssen qualitaetsgesichert werden
 - **Art. 6, 9 DSGVO** — Rechtsgrundlage für Datenverarbeitung; besondere Kategorien; Auftragsverarbeitung (Art. 28)
 - **EU-KI-VO (AI Act, Verordnung (EU) 2024/1689)** — Hochrisiko-KI-Systeme (Art. 6); verbotene KI (Art. 5); Transparenzpflichten
-- **§ 93 AktG / § 43 GmbHG** — BJR: Entscheidungen auf KI-Basis muessen angemessen begruendet und kontrolliert sein
+- **§ 93 AktG / § 43 GmbHG** — BJR: Entscheidungen auf KI-Basis müssen angemessen begruendet und kontrolliert sein
 
 ## Aktuelle Rechtsprechung
 
@@ -139,7 +139,7 @@ Kanzlei-Anwendungen (Dokumentenanalyse, Rechercheassistenz): meist minimales bis
 
 ## DSGVO-Compliance für KI-Werkzeuge
 
-| Pruefpunkt | Anforderung | Massnahme |
+| Pruefpunkt | Anforderung | Maßnahme |
 |---|---|---|
 | Rechtsgrundlage | Art. 6 I DSGVO | Berechtigtes Interesse oder Einwilligung |
 | Auftragsverarbeitung | Art. 28 DSGVO | AVV mit KI-Anbieter abschliessen |
@@ -155,13 +155,13 @@ Kanzlei-Anwendungen (Dokumentenanalyse, Rechercheassistenz): meist minimales bis
 2. **AVV abschliessen** — mit Anbieter nach Art. 28 DSGVO; Drittland-SCC falls noetig
 3. **Mandanteninformation** — bei Verarbeitung personenbezogener oder mandatsrelevanter Daten informieren
 4. **Pseudonymisierungs-Protokoll** — Mandantennamen ersetzen; Sachverhalte entpersonalisieren bevor Eingabe in KI
-5. **Qualitaetssicherung** — jedes KI-Ergebnis durch Anwalt inhaltlich pruefen; kein blindes Uebernehmen
+5. **Qualitaetssicherung** — jedes KI-Ergebnis durch Anwalt inhaltlich prüfen; kein blindes Uebernehmen
 6. **Dokumentation** — wann wurde KI eingesetzt; wie wurde Ergebnis geprueft; Akte dokumentiert
 7. **Fehlerprotokoll** — bei KI-Irrtum: korrigieren; Mandant informieren; Verbesserung
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -199,7 +199,7 @@ MANDANTENINFORMATION:
 FAZIT: KI-Ergebnisse wurden angemessen geprueft; Eigenverantwortung des Anwalts gewahrt.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

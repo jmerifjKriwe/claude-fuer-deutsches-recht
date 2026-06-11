@@ -21,20 +21,20 @@ EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/
 
 - Stahlimporteur ist von EU-Stahl-Safeguard-Kontingenten betroffen; Kontingentanteil beantragen.
 - Exporteur aus Drittland fragt wie er auf EU-Safeguard-Untersuchung reagieren kann.
-- Solarpanel-Importeur fragt ob auslaufende Safeguard-Massnahme verlaengert wird.
+- Solarpanel-Importeur fragt ob auslaufende Safeguard-Maßnahme verlaengert wird.
 
 ## Erste Schritte
 
 1. Massnahmenart feststellen: Safeguard-Zoll oder Mengen-Kontingent (Tariff Rate Quota)?
-2. Betroffenen HS-Code und Ursprungsland in TARIC auf Safeguard-Eintrag pruefen.
-3. Kontingents-Zuteilung pruefen: Traditioneller Importeur oder neuer Lieferant?
+2. Betroffenen HS-Code und Ursprungsland in TARIC auf Safeguard-Eintrag prüfen.
+3. Kontingents-Zuteilung prüfen: Traditioneller Importeur oder neuer Lieferant?
 4. Antrag auf Kontingentszuteilung bei Kommission oder Hauptzollamt fristgerecht stellen.
 5. EU-Safeguard-Untersuchung: Als interessierte Partei registrieren und Fragebogen beantworten.
-6. Ablauf-Check: Ist Massnahme befristet? Verlaengerungsankuendigung der Kommission beobachten.
+6. Ablauf-Check: Ist Maßnahme befristet? Verlaengerungsankuendigung der Kommission beobachten.
 
 ## Rechtsrahmen
 
-- **VO (EU) 2015/478 Art. 16**: Safeguard-Massnahmen bei Einfuhren aus WTO-Ländern.
+- **VO (EU) 2015/478 Art. 16**: Safeguard-Maßnahmen bei Einfuhren aus WTO-Ländern.
 - **VO (EU) 2015/755 Art. 13**: Safeguards für Einfuhren aus Ländern ohne Marktwirtschaft.
 - **GATT Art. XIX**: WTO-Grundlage für Schutzmassnahmen.
 - **VO (EU) 2019/159**: Stahlschutzmasnahmen-Verordnung (aktuell in Kraft).
@@ -42,19 +42,19 @@ EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/
 
 ## Pruef-Raster
 
-- [ ] HS-Code und Ursprungsland auf Safeguard-Massnahme in TARIC geprueft?
+- [ ] HS-Code und Ursprungsland auf Safeguard-Maßnahme in TARIC geprueft?
 - [ ] Kontingents-Zuteilungssystem verstanden (TRQ-Verfahren)?
 - [ ] Antrag auf Kontingent fristgerecht eingereicht?
 - [ ] Status als interessierte Partei in Untersuchung registriert?
-- [ ] Ablauf der Massnahme im Blick und Reaktionsplanung vorbereitet?
+- [ ] Ablauf der Maßnahme im Blick und Reaktionsplanung vorbereitet?
 - [ ] Abgrenzung Safeguard/Antidumping für kumulierte Belastung analysiert?
 
 ## Typische Fallstricke
 
-- Safeguard-Kontingente erschoepfen sich schnell am Jahresanfang; Antrag so frueh wie moeglich.
+- Safeguard-Kontingente erschoepfen sich schnell am Jahresanfang; Antrag so frueh wie möglich.
 - Ursprungsland-Shifting (Ausweichen auf Nicht-Safeguard-Land) wird als Umgehung verfolgt.
 - EU-Safeguards enden oder werden verlaengert; Planung ohne Monitoring gefaehrlich.
-- Kumulierung Safeguard + Antidumping-Zoll auf dieselbe Ware moeglich und kostspielig.
+- Kumulierung Safeguard + Antidumping-Zoll auf dieselbe Ware möglich und kostspielig.
 
 ## Schnittstellen zu anderen Skills
 

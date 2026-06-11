@@ -3,7 +3,7 @@ name: ins-055-incident-drill
 description: "Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck: Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufs..."
 ---
 
-# Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck.
+# Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck.
+**Fokus:** Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck.
 
 ### Incident Drill – Insiderrecht-Krisenübung (Tabletop Exercise)
 

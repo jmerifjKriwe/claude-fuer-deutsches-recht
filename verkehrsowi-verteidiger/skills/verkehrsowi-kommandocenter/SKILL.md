@@ -19,7 +19,7 @@ description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt 
 
 1. **Fristlage:** Wann wurde der Bussgeldbescheid zugestellt? Einspruchsfrist § 67 Abs. 1 OWiG: 2 Wochen ab Zustellung.
  - Frist offen → Einspruch sofort, dann vertiefen
- - Frist abgelaufen → Wiedereinsetzung § 52 OWiG pruefen
+ - Frist abgelaufen → Wiedereinsetzung § 52 OWiG prüfen
 
 2. **OWi oder Strafrecht?** — Grenzwert: § 24a Abs. 1 StVG (0,5 Promille OWi) vs. § 316 StGB (ab 1,1 Promille oder Ausfallerscheinung = Strafrecht!); Geschwindigkeit: OWi immer.
 
@@ -27,7 +27,7 @@ description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt 
 
 ## Ampel-Schnelldiagnose
 
-| Situation | Ampel | Massnahme |
+| Situation | Ampel | Maßnahme |
 |-----------|-------|-----------|
 | Frist laeuft in < 3 Tagen | ROT | Einspruch SOFORT, dann vertiefen |
 | Frist laeuft in 4-7 Tagen | GELB | Einspruch und Akteneinsicht parallel |
@@ -41,11 +41,11 @@ description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt 
 |---------|---------|
 | Einspruchsfrist berechnen + einlegen | `verkehrsowi-fristen-einspruch` |
 | Akteneinsicht Messakte anfordern | `verkehrsowi-akteneinsicht-messakte` |
-| Messverfahren-Angriffspunkte pruefen | `verkehrsowi-messverfahren-geschwindigkeit` |
+| Messverfahren-Angriffspunkte prüfen | `verkehrsowi-messverfahren-geschwindigkeit` |
 | Beweisverwertung standardisiert | `verkehrsowi-beweisverwertung-standardisiert` |
 | Alkohol / Drogen § 24a StVG | `verkehrsowi-alkohol-drogen-24a` |
 | Fahreridentifizierung | `verkehrsowi-fahreridentifizierung` |
-| Anhörung / Bussgeldbescheid-Pruefung | `verkehrsowi-anhoerung-bussgeldbescheid` |
+| Anhörung / Bussgeldbescheid-Prüfung | `verkehrsowi-anhoerung-bussgeldbescheid` |
 | Haertefall Fahrverbot | `verkehrsowi-haertefall-fahrverbot` |
 | Punkte in Flensburg | `verkehrsowi-punkte-fahrverbot-flensburg` |
 | Hauptverhandlung Amtsgericht | `verkehrsowi-hauptverhandlung-amtsgericht` |
@@ -76,7 +76,7 @@ description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt 
 
 ## Harte Leitplanken
 
-- OWi vs. Strafrecht immer zuerst klaeren — falsche Qualifikation ist schwerer Fehler.
+- OWi vs. Strafrecht immer zuerst klären — falsche Qualifikation ist schwerer Fehler.
 - Frist immer zuerst sichern — kein Schritt vor Einspruch.
-- Rohmessdaten grundsaetzlich anfordern.
+- Rohmessdaten grundsätzlich anfordern.
 - Anwaltliche Endkontrolle bei allen Fristen und Antraegen.

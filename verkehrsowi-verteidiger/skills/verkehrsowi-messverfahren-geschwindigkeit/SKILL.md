@@ -17,7 +17,7 @@ description: "Verkehrsowi Messverfahren Geschwindigkeit: ordnet Normen, Nutzeran
 
 1. **Messgeraet identifizieren:** Welches Geraet wurde eingesetzt? (ESO ES 3.0 / ProViDa / TraffiStar S350 / Riegl FG21-P / PoliScan Speed / Traffipax Traffistar S330) — beeinflusst Angriffsstrategie entscheidend.
 2. **Toleranzabzug korrekt?** — PTB-Tabelle: Geschw. bis 100 km/h: 3 km/h Abzug; ab 100 km/h: 3% Abzug. Im Bescheid korrekt angewendet?
-3. **Eichschein vorhanden und gueltig?** — Eichschein aus der Messakte anfordern; Eichgueltigkeit pruefen (Ablaufdatum); § 6 MessEG.
+3. **Eichschein vorhanden und gueltig?** — Eichschein aus der Messakte anfordern; Eichgueltigkeit prüfen (Ablaufdatum); § 6 MessEG.
 4. **Messprotokoll und Schulungsnachweis?** — Bedienungsanleitung beachtet? Beamter für dieses Geraet geschult?
 5. **Rohmessdaten vorhanden und herausgegeben?** — Nach BVerfG hat Betroffener Recht auf Zugang zu Rohmessdaten; Verweigerung verletzt rechtliches Gehoer.
 
@@ -36,7 +36,7 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand Volltext aufrufen):
 
 - **BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18** — Recht des Betroffenen auf Zugang zu den nicht-zum-Aktenbestand gehörenden Messunterlagen (Rohmessdaten, Lebensakte etc.) als Ausfluss des fairen Verfahrens. Quelle: bundesverfassungsgericht.de
 - **BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20** — Keine Pflicht zur Speicherung von Rohmessdaten bei standardisiertem Messverfahren (Leivtec XV3); Recht auf erweiterten Zugang besteht aber im Einzelfall. Quelle: bundesverfassungsgericht.de
-- BGH-Linie zum standardisierten Messverfahren: konkrete Aktenzeichen (Beschluesse BGH 4. Strafsenat) vor Versand in bundesgerichtshof.de oder dejure.org verifizieren.
+- BGH-Linie zum standardisierten Messverfahren: konkrete Aktenzeichen (Beschlüsse BGH 4. Strafsenat) vor Versand in bundesgerichtshof.de oder dejure.org verifizieren.
 
 Hinweis: Standardisiertes Messverfahren bringt Beweis-Erleichterung; konkrete Angriffspunkte (Eichung, Aufstellung, Mehrfachreflexion, Bedienfehler) müssen substantiiert vorgetragen werden.
 
@@ -75,7 +75,7 @@ ROHMESSDATEN:
 | Gemessene Geschwindigkeit | Toleranzabzug |
 |--------------------------|---------------|
 | Bis 100 km/h | 3 km/h |
-| Ueber 100 km/h | 3% der Messung |
+| Über 100 km/h | 3% der Messung |
 
 **Beispiel:** Gemessen 84 km/h → abzuziehen 3 km/h → vorwerfbar 81 km/h.
 **Beispiel:** Gemessen 130 km/h → abzuziehen 3% = 3,9 km/h ≈ 4 km/h → vorwerfbar 126 km/h.
@@ -84,7 +84,7 @@ ROHMESSDATEN:
 
 1. **Messakte vollstaendig anfordern** (§ 147 StPO i.V.m. § 49 OWiG): Eichschein, Messprotokoll, Schulungsnachweis, Rohmessdaten, Messfoto hochauflöesend.
 2. **Toleranzabzug nachrechnen** — ist der Abzug im Bescheid korrekt?
-3. **Eichgueltigkeit pruefen** — Eichablaufdatum vor Messzeitpunkt?
+3. **Eichgueltigkeit prüfen** — Eichablaufdatum vor Messzeitpunkt?
 4. **Messfoto analysieren** — eindeutige Fahrzeugzuordnung?
 5. **Sachverstaendigen-Antrag stellen** (§ 244 Abs. 4 StPO i.V.m. § 77 OWiG) wenn konkrete Angriffspunkte bestehen.
 6. **Verwertungsverbot ruegen** bei fehlenden Rohmessdaten (BVerfG 2020 zitieren).

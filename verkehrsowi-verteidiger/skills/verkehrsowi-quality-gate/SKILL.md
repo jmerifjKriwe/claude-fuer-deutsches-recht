@@ -65,6 +65,6 @@ AMPEL: GRUEN zufriedenstellend / GELB Rechtsbeschwerde moeglich / ROT Fehler
 ## Harte Leitplanken
 
 - Quality Gate ist Pflichtprozess — auch bei einfachen Faellen.
-- ROT-Punkte muessen unverzueglich adressiert werden.
-- Mandant ueber jeden Gate-Status informieren.
+- ROT-Punkte müssen unverzueglich adressiert werden.
+- Mandant über jeden Gate-Status informieren.
 - Anwaltliche Endkontrolle bei jedem Gate zwingend.

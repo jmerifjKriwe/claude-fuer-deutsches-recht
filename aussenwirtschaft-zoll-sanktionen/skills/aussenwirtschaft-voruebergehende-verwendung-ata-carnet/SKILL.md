@@ -21,8 +21,8 @@ description: "Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet na
 
 ## Erste Schritte
 
-1. Bestimmungsland pruefen: ATA-Carnet-Partnerland (WCO-Mitglied) oder EU-Bewilligung voruebergehende Verwendung?
-2. Warenart pruefen: Messeware Berufsausruestung Transportmittel oder Ersatzteile?
+1. Bestimmungsland prüfen: ATA-Carnet-Partnerland (WCO-Mitglied) oder EU-Bewilligung voruebergehende Verwendung?
+2. Warenart prüfen: Messeware Berufsausruestung Transportmittel oder Ersatzteile?
 3. ATA-Carnet bei zuständiger Handelskammer (IHK) beantragen; Buergschaftshoehe kalkulieren.
 4. Carnet vollstaendig ausfuellen; Warenliste mit HS-Codes Werten und Seriennummern.
 5. Ausreise: Carnet bei Abgangszollstelle abstempeln lassen.
@@ -50,7 +50,7 @@ description: "Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet na
 - Rueckfuehrungsfrist versaeumt: Zollschuldentstehung und IHK haftet aus Buergschaft.
 - Warenveraenderung im Ausland (Reparatur) fuehrt zu Statusverlust voruebergehende Verwendung.
 - ATA-Carnet gilt nicht in der EU selbst; dort gelten EU-Zollverfahren.
-- Verlust des Carnets im Ausland: Notfallverfahren ueber IHK und WCO.
+- Verlust des Carnets im Ausland: Notfallverfahren über IHK und WCO.
 
 ## Schnittstellen zu anderen Skills
 

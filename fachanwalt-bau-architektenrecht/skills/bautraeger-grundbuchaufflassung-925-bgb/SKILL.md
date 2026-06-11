@@ -20,7 +20,7 @@ description: "Aufflassung nach § 925 BGB beim Bautraegervertrag: Skill klaert d
 
 ## Norm
 
-§ 925 BGB Aufflassung — formgerechte Einigung ueber die Eigentumsuebertragung des Grundstuecks.
+§ 925 BGB Aufflassung — formgerechte Einigung über die Eigentumsuebertragung des Grundstuecks.
 
 ## Form
 

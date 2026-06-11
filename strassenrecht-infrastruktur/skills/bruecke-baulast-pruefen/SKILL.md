@@ -3,7 +3,7 @@ name: bruecke-baulast-pruefen
 description: "Brücke: Baulast prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Bruecke Baulast Pruefen
+# Bruecke Baulast Prüfen
 
 ## Arbeitsweg
 

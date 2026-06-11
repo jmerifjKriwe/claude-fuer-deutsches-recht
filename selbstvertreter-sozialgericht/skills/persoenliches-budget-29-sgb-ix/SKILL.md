@@ -13,7 +13,7 @@ description: "Persoenliches Budget nach § 29 SGB IX. Skill klaert die Vorausset
 
 ## Anspruch
 
-§ 29 SGB IX: Leistungen zur Teilhabe koennen auf Antrag als persönliches Budget ausgefuehrt werden.
+§ 29 SGB IX: Leistungen zur Teilhabe können auf Antrag als persönliches Budget ausgefuehrt werden.
 
 ## Vorteile
 
@@ -25,11 +25,11 @@ description: "Persoenliches Budget nach § 29 SGB IX. Skill klaert die Vorausset
 
 - Antrag.
 - Zielvereinbarung mit Traeger.
-- Hoehe in Geld bemessen.
+- Höhe in Geld bemessen.
 
 ## Trager-uebergreifend
 
-- Mehrere Traeger koennen sich zum Budget zusammenschliessen (z. B. KK + EGH).
+- Mehrere Traeger können sich zum Budget zusammenschliessen (z. B. KK + EGH).
 - Vereinbarung erforderlich.
 
 ## Verwaltung
@@ -51,6 +51,6 @@ description: "Persoenliches Budget nach § 29 SGB IX. Skill klaert die Vorausset
 
 1. Welche Leistung als Budget?
 2. Zielvereinbarung formuliert?
-3. Hoehe berechnet?
+3. Höhe berechnet?
 4. Nachweisfuehrung organisiert?
 5. EUTB konsultiert?

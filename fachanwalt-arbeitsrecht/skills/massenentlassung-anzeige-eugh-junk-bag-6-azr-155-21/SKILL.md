@@ -7,7 +7,7 @@ description: "Massenentlassung Anzeigeverfahren Paragraf 17 KSchG mit EuGH Junk 
 
 ## Einsatzlage
 
-Arbeitgeber kuendigt 35 von 280 AN ohne Konsultation Betriebsrat und ohne Anzeige Agentur fuer Arbeit.
+Arbeitgeber kuendigt 35 von 280 AN ohne Konsultation Betriebsrat und ohne Anzeige Agentur für Arbeit.
 
 ## Normenanker
 
@@ -32,7 +32,7 @@ Arbeitgeber kuendigt 35 von 280 AN ohne Konsultation Betriebsrat und ohne Anzeig
 
 ## Arbeitsergebnis
 
-Anzeige bei Agentur fuer Arbeit Wirksamkeitsvoraussetzung; Verfahrensfehler fuehrt zur Unwirksamkeit aller Kuendigungen.
+Anzeige bei Agentur für Arbeit Wirksamkeitsvoraussetzung; Verfahrensfehler fuehrt zur Unwirksamkeit aller Kuendigungen.
 
 ## Belege und Aktenlücken
 

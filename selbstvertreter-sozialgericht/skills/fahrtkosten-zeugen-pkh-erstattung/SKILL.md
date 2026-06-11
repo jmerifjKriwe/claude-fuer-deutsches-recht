@@ -22,7 +22,7 @@ Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat 
 ## Wann brauchen Sie diese Skill?
 
 - Sie waren Zeuge im SG-Verfahren.
-- Sie sind als Klaeger zum Termin gefahren.
+- Sie sind als Kläger zum Termin gefahren.
 - Bei PKH Erstattungs-Fragen.
 
 ## Fachbegriffe (kurz erklaert)
@@ -44,22 +44,22 @@ Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat 
 
 - **Zeugen** geladen vom Gericht (JVEG)
 - **Sachverstaendige** (JVEG)
-- **Sie selbst als Klaeger** unter bestimmten Voraussetzungen
+- **Sie selbst als Kläger** unter bestimmten Voraussetzungen
 
 ### Schritt 2 — Zeugen-Auslagen
 
-JVEG-Saetze (aktuell pruefen):
+JVEG-Saetze (aktuell prüfen):
 
 - Fahrtkosten OePNV: tatsaechlich
-- PKW: 0,42 EUR / km nach § 5 JVEG (aktueller Stand pruefen)
+- PKW: 0,42 EUR / km nach § 5 JVEG (aktueller Stand prüfen)
 - Tagegeld bei langer Abwesenheit
-- Verdienstausfall (bis zu festgesetzte Hoehe)
+- Verdienstausfall (bis zu festgesetzte Höhe)
 
 Antrag direkt nach Termin bei der Geschaeftsstelle stellen. Formular vorhanden.
 
-### Schritt 3 — Eigene Fahrt-Kosten als Klaeger
+### Schritt 3 — Eigene Fahrt-Kosten als Kläger
 
-Bei Erfolg: ueber § 193 SGG erstattungsfaehig:
+Bei Erfolg: über § 193 SGG erstattungsfaehig:
 
 - Fahrt zum Termin (PKW oder OePNV)
 - Fahrt zur Untersuchung beim Sachverstaendigen
@@ -68,7 +68,7 @@ Beleg: Tankquittung, OePNV-Ticket, km-Aufstellung mit Routenplaner.
 
 ### Schritt 4 — Mit PKH
 
-Bei PKH koennen eigene Fahrtkosten ebenfalls erstattet werden, wenn das im PKH-Beschluss vorgesehen ist. Pruefen Sie den Beschluss.
+Bei PKH können eigene Fahrtkosten ebenfalls erstattet werden, wenn das im PKH-Beschluss vorgesehen ist. Prüfen Sie den Beschluss.
 
 ### Schritt 5 — Antrag
 
@@ -91,18 +91,18 @@ Anlagen: Tankquittung, Routenplaner
 [Unterschrift]
 ```
 
-Hinweis: Der km-Satz nach JVEG kann sich aendern; pruefen Sie den aktuellen Wert bei der Geschaeftsstelle des SG oder im JVEG.
+Hinweis: Der km-Satz nach JVEG kann sich ändern; prüfen Sie den aktuellen Wert bei der Geschaeftsstelle des SG oder im JVEG.
 
 ### Schritt 6 — Bei langem Termin / weiter Anreise
 
-- Tagegeld pruefen
+- Tagegeld prüfen
 - Uebernachtungskosten bei sehr weiter Anreise
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Zeugen-Anspruch verfaellt** bei nicht-Antragstellung — innerhalb von 3 Monaten beantragen.
 - **JVEG-Saetze aktualisieren** sich.
-- **Bei Erfolg im Hauptverfahren**: auch Klaeger-Auslagen erstattbar.
+- **Bei Erfolg im Hauptverfahren**: auch Kläger-Auslagen erstattbar.
 
 ## Typische Fehler
 
@@ -112,4 +112,4 @@ Hinweis: Der km-Satz nach JVEG kann sich aendern; pruefen Sie den aktuellen Wert
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. JVEG aktuell. Konkrete Saetze pruefen.
+Stand: 05/2026. JVEG aktuell. Konkrete Saetze prüfen.

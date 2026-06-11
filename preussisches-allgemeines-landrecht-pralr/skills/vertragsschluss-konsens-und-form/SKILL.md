@@ -9,7 +9,7 @@ description: "Vertragsschluss im ALR — Konsens und Form. Skill behandelt das K
 
 - ALR uebernimmt das roemisch-rechtliche Konsensmodell.
 - ALR I 4 — Willenserklaerung als Grundlage.
-- ALR I 5 — Vertraege allgemein.
+- ALR I 5 — Verträge allgemein.
 
 ## Formerfordernisse
 
@@ -20,7 +20,7 @@ description: "Vertragsschluss im ALR — Konsens und Form. Skill behandelt das K
 ### Notarielle Beurkundung
 - Grundstueckskauf, Adoption, Testamenten.
 
-### Mancipatio-aehnlich
+### Mancipatio-ähnlich
 - Bei besonderen Geschaeften (im Kern aufgegeben mit roemisch-rechtlichem Anachronismus).
 
 ## Vertragsangebot und Annahme

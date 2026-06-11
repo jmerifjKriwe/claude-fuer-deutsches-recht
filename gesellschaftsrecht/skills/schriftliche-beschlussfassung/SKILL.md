@@ -32,11 +32,11 @@ Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlauf
 
 ## Triage zu Beginn
 
-Vor dem Beschlussentwurf klaeren:
+Vor dem Beschlussentwurf klären:
 
 1. **Rechtsform:** GmbH / UG (schriftliches Verfahren § 48 Abs. 2 GmbHG) oder AG (Umlaufbeschluss nur für AR § 108 Abs. 4 AktG und Vorstand)? Bei AG-HV: Praesenz-HV oder virtuelle HV (§ 118a AktG) erforderlich.
 2. **Einverstaendnis aller Gesellschafter?** § 48 Abs. 2 GmbHG setzt nach h.M. voraus, dass alle Gesellschafter dem schriftlichen Verfahren zustimmen (oder der Gesellschaftsvertrag das Verfahren explizit zulaesst). Ist das sichergestellt?
-3. **Massnahme-Typ:** Routine (Geschaeftsfuehrer, Prokura, Jahresabschluss) oder wesentlich (M&A, Satzungsaenderung, Liquidation)? → Bei wesentlichen Massnahmen: Anwaltliche Pruefung vor Unterzeichnung.
+3. **Maßnahme-Typ:** Routine (Geschaeftsfuehrer, Prokura, Jahresabschluss) oder wesentlich (M&A, Satzungsaenderung, Liquidation)? → Bei wesentlichen Maßnahmen: Anwaltliche Prüfung vor Unterzeichnung.
 4. **Stimmverbot?** Ist ein Gesellschafter von der Abstimmung ausgeschlossen (§ 47 Abs. 4 GmbHG)? Insbesondere bei Eigenbestellung zum Geschaeftsfuehrer (str.)
 5. **Beurkundungspflicht?** Satzungsaenderung (§ 53 GmbHG), Kapitalerhoehung, Abtretung von Anteilen (§ 15 Abs. 3 GmbHG) — Notar erforderlich?
 6. **Handelsregisteranmeldung?** Geschaeftsfuehrerwechsel (§ 39 GmbHG), Satzungsaenderung, Kapitalerhoehung erforderlich?
@@ -63,7 +63,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **AG/SE:** § 108 Abs. 4 AktG (Aufsichtsratumlaufbeschluss); § 118a AktG (virtuelle HV); § 130 AktG (notarielle Niederschrift HV-Beschlüsse).
 
-**Personengesellschaften (MoPeG ab 01.01.2024):** § 714 BGB n.F. (GbR-Beschlussfassung): https://www.gesetze-im-internet.de/bgb/__714.html ; §§ 105, 110 HGB (OHG); § 163 HGB (KG-Stimmrechte). Neues Beschlussmaengelrecht §§ 110-115 HGB n.F. (Anfechtungsmodell, Klage gegen die Gesellschaft, Frist drei Monate, Cram-down moeglich) — gilt für OHG/KG, auf GbR analog soweit Gesellschaftsvertrag dies vorsieht (vgl. BGH "Schiedsfaehigkeit IV", Beschl. v. 23.09.2021 — I ZB 13/21, für Schiedsklauseln-Anpassungsbedarf): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.09.2021&Aktenzeichen=I+ZB+13/21
+**Personengesellschaften (MoPeG ab 01.01.2024):** § 714 BGB n.F. (GbR-Beschlussfassung): https://www.gesetze-im-internet.de/bgb/__714.html ; §§ 105, 110 HGB (OHG); § 163 HGB (KG-Stimmrechte). Neues Beschlussmaengelrecht §§ 110-115 HGB n.F. (Anfechtungsmodell, Klage gegen die Gesellschaft, Frist drei Monate, Cram-down möglich) — gilt für OHG/KG, auf GbR analog soweit Gesellschaftsvertrag dies vorsieht (vgl. BGH "Schiedsfaehigkeit IV", Beschl. v. 23.09.2021 — I ZB 13/21, für Schiedsklauseln-Anpassungsbedarf): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.09.2021&Aktenzeichen=I+ZB+13/21
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 

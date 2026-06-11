@@ -23,14 +23,14 @@ description: "Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsle
 
 ## Triage zu Beginn
 
-Klaere vor Erstellung und Pruefung des Protokolls:
+Klaere vor Erstellung und Prüfung des Protokolls:
 
 1. **Notarielle Beurkundung erforderlich?** Bei Satzungsaenderung, Kapitalerhoehung, Aufloesung: Notar zwingend (§ 53 GmbHG).
 2. **Streitige Versammlung?** Notar als neutralen Zeugen einladen; eingeschriebener Brief als Zustellungsnachweis.
 3. **Alle Gesellschafter anwesend?** Vollversammlungs-Heilung (§ 51 III GmbHG) nur bei Einverstaendnis aller.
 4. **Stimmverbote beachten?** § 47 IV GmbHG: bei Eigen-Interesse kein Stimmrecht; im Protokoll vermerken.
-5. **HR-Anmeldung erforderlich?** Beschluesse zur Bestellung / Abberufung GF, Satzungsaenderung: Notar-Einreichung.
-6. **Beschlusstext eindeutig?** Vage Beschluesse koennen bei HR-Anmeldung beanstandet werden.
+5. **HR-Anmeldung erforderlich?** Beschlüsse zur Bestellung / Abberufung GF, Satzungsaenderung: Notar-Einreichung.
+6. **Beschlusstext eindeutig?** Vage Beschlüsse können bei HR-Anmeldung beanstandet werden.
 
 ## Zentrale Normen
 
@@ -59,7 +59,7 @@ Klaere vor Erstellung und Pruefung des Protokolls:
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Vorbereitung:** Anwesenheits-Liste mit Anteilen und Stimmrechten erstellen; Stimmverbot-Pruefung pro Gesellschafter pro TOP.
+1. **Vorbereitung:** Anwesenheits-Liste mit Anteilen und Stimmrechten erstellen; Stimmverbot-Prüfung pro Gesellschafter pro TOP.
 2. **Eroeffnung:** Feststellung Beschlussfaehigkeit und ordnungsgemae Einladung protokollieren.
 3. **Versammlungsleiter-Wahl:** Abstimmung für Versammlungsleiter; Ergebnis protokollieren.
 4. **Pro TOP:** Beschlussvorlage im Wortlaut; kurze Diskussion zusammenfassen; Stimmen zaehlen und aufschlüsseln.
@@ -128,6 +128,6 @@ Schriftfuehrer: ___________ [NAME]
 ## Uebergabe an andere Skills
 
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — Einladung vorab
-- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit ueber Beschluesse
+- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit über Beschlüsse
 - `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung-Protokoll
 - `gesellschaftsgruender-share-classes-a-b-c` — Klassen-Stimmrechts-Berechnung

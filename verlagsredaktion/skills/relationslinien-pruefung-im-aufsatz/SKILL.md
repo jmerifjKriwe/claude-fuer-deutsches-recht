@@ -3,7 +3,7 @@ name: relationslinien-pruefung-im-aufsatz
 description: "Prueft die logischen Relationslinien eines juristischen Aufsatzes: traegt das Argumentationsgeruest die Hauptthese ohne Sprunglinien und ohne Zirkel? im Verlagsredaktion."
 ---
 
-# Relationslinien-Pruefung im Aufsatz
+# Relationslinien-Prüfung im Aufsatz
 
 ## Arbeitsweg
 
@@ -15,11 +15,11 @@ description: "Prueft die logischen Relationslinien eines juristischen Aufsatzes:
 
 ## Worum geht es konkret
 
-Ein juristischer Aufsatz steht oder faellt mit seinem Argumentationsgeruest. Die Relationslinien-Pruefung zeigt, ob die These mit den Argumenten verbunden ist, ob jedes Argument einen Beleg hat, ob Schluesse zwingend folgen oder Sprunglinien enthalten, ob Zirkelschluesse drinstecken oder ob eine Gegenposition unbearbeitet bleibt.
+Ein juristischer Aufsatz steht oder faellt mit seinem Argumentationsgeruest. Die Relationslinien-Prüfung zeigt, ob die These mit den Argumenten verbunden ist, ob jedes Argument einen Beleg hat, ob Schluesse zwingend folgen oder Sprunglinien enthalten, ob Zirkelschluesse drinstecken oder ob eine Gegenposition unbearbeitet bleibt.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen Lektoratsfreigabe. Klaeren Sie:
+Sie brauchen ihn nach Format-Check und Zitiernorm-Prüfung, vor der inhaltlichen Lektoratsfreigabe. Klären Sie:
 
 1. Welche Hauptthese wird beansprucht (in einem Satz)?
 2. Welche Gegenposition wird bearbeitet (oder beschwiegen)?
@@ -34,13 +34,13 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **These extrahieren.** Auf einer Karteikarte in einem Satz festhalten. Wenn das nicht moeglich ist, ist die These unklar.
+1. **These extrahieren.** Auf einer Karteikarte in einem Satz festhalten. Wenn das nicht möglich ist, ist die These unklar.
 2. **Argumentkette auflisten.** Pro Kapitel die zentralen Argumente in 1-2 Saetzen.
 3. **Relationslinie ziehen.** Pfeil von jedem Argument zur These - traegt das? Oder hat der Pfeil eine Luecke?
 4. **Zirkelschluesse aufspueren.** Bewirkt Argument A nur, weil These B gilt, die wiederum A voraussetzt?
 5. **Gegenposition behandeln.** Wird sie genannt, gewuerdigt, widerlegt?
 6. **Sprunglinien markieren.** Wo wechselt der Argumenttyp (Wortlaut -> Telos), ohne dass das begruendet wird?
-7. **Methoden-Niveau pruefen.** Auslegung nach Wortlaut, System, Historie, Telos vollstaendig oder selektiv?
+7. **Methoden-Niveau prüfen.** Auslegung nach Wortlaut, System, Historie, Telos vollstaendig oder selektiv?
 8. **Befundbrief an Autorin** mit gezielten Rueckfragen, nicht mit fertigen Antworten.
 
 ## Trade-off-Matrix
@@ -56,7 +56,7 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 - "Die wichtigste Frage: Was wuerde die Klausur-Korrektorin schreiben, wenn das eine Hausarbeit waere?"
 - Zirkelschluesse erkennt man, wenn man die Argumentation in eine Kette zerlegt: A -> B -> C. Wenn C wieder A braucht, ist es ein Zirkel.
 - Gegenpositionen werden gerne in Fussnoten verschoben - das ist zu wenig für einen wissenschaftlichen Aufsatz.
-- Sprunglinien zwischen Auslegungsmethoden sind kein Fehler, muessen aber begruendet werden.
+- Sprunglinien zwischen Auslegungsmethoden sind kein Fehler, müssen aber begruendet werden.
 - Die schlechtesten Aufsaetze haben eine These am Anfang und eine ganz andere am Ende - dann ist die Gliederung falsch.
 
 ## Mustertexte / Vorlagen
@@ -68,12 +68,12 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 | II.1 | Wortlautargument | ja | BGH Az. ... | OK |
 | II.2 | Systematik | ja | § 433 BGB + § 437 BGB | OK |
 | III.1 | Historie | ja | RGZ 24, 113 | OK |
-| III.2 | Telos | indirekt | Canaris JZ 2019 | Sprunglinie zu klaeren |
+| III.2 | Telos | indirekt | Canaris JZ 2019 | Sprunglinie zu klären |
 | IV.1 | Gegenposition | nicht behandelt | - | Stop: Position Esser/Stuermer fehlt |
 
 **Rueckmeldungs-Anschreiben:**
 
-> Sehr geehrter Herr Professor, die strukturelle Pruefung Ihres Aufsatzes "[Titel]" hat folgende Befunde ergeben (siehe Befund-Tabelle Anlage):
+> Sehr geehrter Herr Professor, die strukturelle Prüfung Ihres Aufsatzes "[Titel]" hat folgende Befunde ergeben (siehe Befund-Tabelle Anlage):
 >
 > 1. Die Hauptthese (S. 2, "X ist Y") wird durch die ersten drei Argumente getragen.
 > 2. In Kapitel III.2 wechseln Sie vom Wortlautargument zur teleologischen Argumentation. Diese Sprunglinie sollte begruendet werden.

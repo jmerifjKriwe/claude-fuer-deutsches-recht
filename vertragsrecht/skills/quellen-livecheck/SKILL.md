@@ -13,7 +13,7 @@ Dieser Quellen-Livecheck für **Vertragsrecht** trennt amtliche Normfassung, fre
 
 - `abmahnung-uwg` — Abmahnung UWG
 - `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
-- `agb-pruefung` — AGB Pruefung
+- `agb-pruefung` — AGB Prüfung
 - `anpassen` — Anpassen
 - `anschluss-router` — Anschluss Router
 - `bgb-business-einzelabrufe-sonderfall` — BGB Business Einzelabrufe Sonderfall

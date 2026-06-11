@@ -93,11 +93,11 @@ Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tau
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Ladungsschaden Frachtrecht pruefen | Schadensanzeige; Template unten |
+| Standard — Ladungsschaden Frachtrecht prüfen | Schadensanzeige; Template unten |
 | Variante A — Verdeckter Schaden (erst nach Oeffnung) | Ruegefristen HGB § 438 / CMR Art. 30 beachten; sieben Tage |
 | Variante B — Gesamtladung beschaedigt | Totalverlust-Berechnung; Zeitwert oder Wiederbeschaffungswert |
 | Variante C — Zollverschluss beschaedigt | Zollrechtliche Haftung parallel zur Frachtrechtshaftung |
@@ -238,7 +238,7 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 [Ort, Datum, Unterschrift]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

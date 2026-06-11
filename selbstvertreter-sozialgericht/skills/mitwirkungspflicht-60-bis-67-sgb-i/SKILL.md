@@ -25,9 +25,9 @@ description: "Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. S
 - Aerztliche und psychologische Untersuchungen dulden.
 
 ### § 63 SGB I — Heilbehandlung
-- Massnahmen der Heilbehandlung mitwirken.
+- Maßnahmen der Heilbehandlung mitwirken.
 
-### § 64 SGB I — Berufsfoerdernde Massnahmen
+### § 64 SGB I — Berufsfoerdernde Maßnahmen
 - Mitwirkung an beruflichen Foerdermassnahmen.
 
 ### § 65 SGB I — Grenzen
@@ -50,7 +50,7 @@ description: "Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. S
 2. Aufforderung mit Folgenhinweis ergangen?
 3. Frist ausreichend?
 4. Unzumutbarkeit nach § 65 SGB I?
-5. Nachholung moeglich?
+5. Nachholung möglich?
 
 ## Wenn Sie Verweigerung erwaegen
 

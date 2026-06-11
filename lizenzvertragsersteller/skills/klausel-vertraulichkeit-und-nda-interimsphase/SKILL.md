@@ -11,14 +11,14 @@ Bei Lizenzverhandlungen werden Geschaeftsgeheimnisse, Patentinformationen, Roadm
 
 ## Interim-NDA (vor Vertragsschluss)
 
-Standardtext fuer die Verhandlungs-/DD-Phase:
+Standardtext für die Verhandlungs-/DD-Phase:
 
 > **Non-Disclosure Agreement / Vertraulichkeitsvereinbarung**
 >
-> 1. Die Parteien beabsichtigen, ueber den Abschluss eines Lizenzvertrages zu verhandeln. Zu diesem Zweck tauschen sie vertrauliche Informationen aus.
+> 1. Die Parteien beabsichtigen, über den Abschluss eines Lizenzvertrages zu verhandeln. Zu diesem Zweck tauschen sie vertrauliche Informationen aus.
 > 2. "Vertrauliche Information" bezeichnet alle technischen, kommerziellen, finanziellen oder organisatorischen Informationen, die als vertraulich gekennzeichnet sind oder erkennbar geheim sein sollen.
-> 3. Empfaenger verwendet vertrauliche Informationen ausschliesslich zum Zweck der Pruefung einer moeglichen Lizenz; gibt sie nur an Mitarbeiter und Berater weiter, die einer Geheimhaltungspflicht unterliegen ("need to know").
-> 4. Ausnahmen: oeffentlich bekannte Informationen, vor Offenlegung bereits dem Empfaenger bekannte Informationen, von Dritten ohne Geheimhaltungspflicht erhaltene Informationen, durch eigene Entwicklung unabhaengig erworbene Informationen.
+> 3. Empfaenger verwendet vertrauliche Informationen ausschließlich zum Zweck der Prüfung einer moeglichen Lizenz; gibt sie nur an Mitarbeiter und Berater weiter, die einer Geheimhaltungspflicht unterliegen ("need to know").
+> 4. Ausnahmen: öffentlich bekannte Informationen, vor Offenlegung bereits dem Empfaenger bekannte Informationen, von Dritten ohne Geheimhaltungspflicht erhaltene Informationen, durch eigene Entwicklung unabhaengig erworbene Informationen.
 > 5. Laufzeit: 24 Monate ab Unterzeichnung. Geheimhaltungspflicht besteht zusaetzlich 5 Jahre fort.
 > 6. Bei Vertragsschluss eines Lizenzvertrages tritt dieser an die Stelle des NDA; bei Nichtzustandekommen besteht das NDA fort.
 > 7. Vertragsstrafe bei Verstoss: [Betrag] EUR pro Fall.
@@ -32,14 +32,14 @@ Standardtext fuer die Verhandlungs-/DD-Phase:
 > (2) "Vertrauliche Information" bezeichnet alle technischen, kommerziellen, finanziellen, geschaeftlichen, personellen, wissenschaftlichen oder organisatorischen Informationen, die als vertraulich gekennzeichnet oder erkennbar geheimhaltungsbeduerftig sind. Dies umfasst insbesondere den Lizenzgegenstand, Anlage A, Royalty-Hoehen, Audit-Berichte, Sub-Lizenz-Konditionen, Roadmap-Informationen.
 >
 > (3) Ausnahmen: Eine Information ist nicht vertraulich, wenn sie
->   a) oeffentlich bekannt ist oder waehrend der Laufzeit dieses Vertrages ohne Verschulden der empfangenden Partei oeffentlich wird;
+>   a) öffentlich bekannt ist oder waehrend der Laufzeit dieses Vertrages ohne Verschulden der empfangenden Partei öffentlich wird;
 >   b) der empfangenden Partei bereits vor Erhalt nachweislich bekannt war;
 >   c) von einem Dritten ohne Geheimhaltungspflicht uebermittelt wurde;
 >   d) unabhaengig von der empfangenden Partei entwickelt wurde.
 >
-> (4) Geheimhaltungspflicht ueber das Vertragsende hinaus: 5 Jahre.
+> (4) Geheimhaltungspflicht über das Vertragsende hinaus: 5 Jahre.
 >
-> (5) Bei Verstoss schuldet die verletzende Partei der anderen eine Vertragsstrafe in Hoehe von [Betrag] EUR pro Verstoss, hoechstens [Maximalbetrag] pro Jahr. Weitergehende Schadensersatzansprueche bleiben unberuehrt.
+> (5) Bei Verstoss schuldet die verletzende Partei der anderen eine Vertragsstrafe in Höhe von [Betrag] EUR pro Verstoss, hoechstens [Maximalbetrag] pro Jahr. Weitergehende Schadensersatzansprueche bleiben unberuehrt.
 
 ## Anschluss
 

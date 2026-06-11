@@ -17,13 +17,13 @@ Dieses Anschluss-Routing für **Verfassungsrecht** wählt nach dem ersten Ergebn
 - `bverfg-verfahrenssicht-und-annahmerisiko` — Bverfg Verfahrenssicht und Annahmerisiko
 - `formelle-mehrparteien-konflikt-und-interessen` — Formelle Mehrparteien Konflikt und Interessen
 - `formelle-verfassungsmaessigkeit` — Formelle Verfassungsmaessigkeit
-- `gesetzentwurf-gg-konformitaet-pruefen` — Gesetzentwurf GG Konformitaet Pruefen
+- `gesetzentwurf-gg-konformitaet-pruefen` — Gesetzentwurf GG Konformitaet Prüfen
 - `gesetzgebungskompetenz-grundrechtspruefung` — Gesetzgebungskompetenz Grundrechtspruefung
-- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz Pruefen
+- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz Prüfen
 - `grundgesetz-fristen-form-und-zustaendigkeit` — Grundgesetz Fristen Form und Zustaendigkeit
 - `grundrechte-fehlerkatalog` — Grundrechte Fehlerkatalog
 - `grundrechtspruefung-acht-formelle-interessen` — Grundrechtspruefung Acht Formelle Interessen
-- `grundrechtspruefung-und-verhaeltnismaessigkeit` — Grundrechtspruefung und Verhaeltnismaessigkeit
+- `grundrechtspruefung-und-verhaeltnismaessigkeit` — Grundrechtspruefung und Verhältnismäßigkeit
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 

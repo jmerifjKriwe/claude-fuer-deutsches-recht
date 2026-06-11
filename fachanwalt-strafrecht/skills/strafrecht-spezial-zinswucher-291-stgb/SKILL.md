@@ -53,7 +53,7 @@ Wer **die Zwangslage, die Unerfahrenheit, den Mangel an Urteilsvermoegen oder di
 3. **für eine sonstige Leistung** oder
 4. **für die Vermittlung** einer der vorbezeichneten Leistungen
 
-**Vermoegensvorteile versprechen oder gewaehren laesst**, die in einem **auffaelligen Missverhaeltnis** zur Leistung oder ihrer Vermittlung stehen.
+**Vermoegensvorteile versprechen oder gewaehren lässt**, die in einem **auffaelligen Missverhaeltnis** zur Leistung oder ihrer Vermittlung stehen.
 
 ### Schluesselbegriffe
 
@@ -61,7 +61,7 @@ Wer **die Zwangslage, die Unerfahrenheit, den Mangel an Urteilsvermoegen oder di
 - **Unerfahrenheit / Mangel an Urteilsvermoegen / Willensschwaeche.** Bildung, Alter, Sprache, Suchtdruck.
 - **Auffaelliges Missverhaeltnis.**
  - Mietwucher: in der Praxis deutlich oberhalb der §-5-WiStrG-1954-Schwelle; häufig wird eine Größenordnung um **50 Prozent** über Vergleichsmiete als starkes Indiz diskutiert, aber vor Verwendung immer mit aktueller Rechtsprechung und konkretem Mietspiegel verifizieren.
- - Zinswucher: **doppelter** marktueblicher Effektivzins oder zwoelf Prozentpunkte ueber dem Markt (BGH zur Sittenwidrigkeit § 138 BGB; im Strafrecht restriktiver, aber Indizwirkung).
+ - Zinswucher: **doppelter** marktueblicher Effektivzins oder zwoelf Prozentpunkte über dem Markt (BGH zur Sittenwidrigkeit § 138 BGB; im Strafrecht restriktiver, aber Indizwirkung).
  - Lohnwucher: ca. **zwei Drittel** des Tariflohns als Untergrenze (BGH staendige Rspr.).
 - **Ausbeuten.** Bewusste Ausnutzung in subjektiver Hinsicht. Vorsatz erforderlich (Eventualvorsatz reicht).
 
@@ -78,8 +78,8 @@ Besonders schwerer Fall liegt nach § 291 Abs. 2 StGB in der Regel vor, wenn der
 - **Zwangslage angreifen.** Hatten die Geschaedigten Alternativen (andere Wohnung, andere Bank, anderer Job)? Marktvergleich, Online-Recherchen, Alternativangebote.
 - **Auffälliges Missverhältnis quantitativ prüfen.** Mietspiegel und Sachverständiger; bei deutlich unterhalb der strafrechtlichen Indizschwelle eher § 5 WiStrG 1954, Mietpreisbremse oder Zivilrecht prüfen.
 - **Subjektive Komponente Ausbeuten.** Hatte Vermieter / Kreditgeber Kenntnis der Zwangslage? Bei Standardkonditionen ohne Kenntnis der Lebensumstaende oft fehlend.
-- **Marktueblichkeit.** Privatdarlehen koennen hoehere Risikoaufschlaege rechtfertigen — Vergleich mit aehnlich risikobehafteten Kreditprodukten.
-- **§ 138 BGB Sittenwidrigkeit** zivilrechtlich pruefen (oft Vorgriff): Bei sittenwidrigem Vertrag ggf. Indiz für Strafrechtsvorsatz.
+- **Marktueblichkeit.** Privatdarlehen können hoehere Risikoaufschlaege rechtfertigen — Vergleich mit ähnlich risikobehafteten Kreditprodukten.
+- **§ 138 BGB Sittenwidrigkeit** zivilrechtlich prüfen (oft Vorgriff): Bei sittenwidrigem Vertrag ggf. Indiz für Strafrechtsvorsatz.
 - **Verstaendigung § 257c StPO** bei Einzelfall.
 
 ## Trade-off-Matrix
@@ -87,7 +87,7 @@ Besonders schwerer Fall liegt nach § 291 Abs. 2 StGB in der Regel vor, wenn der
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
 | Zwangslage bestreiten | Tatbestand entfaellt | Belegfaehige Alternativen erforderlich |
-| Auffaelliges Missverhaeltnis bestreiten ueber Gutachten | Tatbestand entfaellt | Gutachten teuer |
+| Auffaelliges Missverhaeltnis bestreiten über Gutachten | Tatbestand entfaellt | Gutachten teuer |
 | Ausbeuten subjektiv verneinen | Vorsatz weg | Beweislast |
 | Verlagerung auf § 5 WiStrG 1954 OWi | OWi statt Straftat | Bußgeld + Mietherabsetzung/Mehrerlös |
 | Schadenswiedergutmachung § 46a StGB | Strafmilderung | Eingestaendnis Wucher |
@@ -96,10 +96,10 @@ Besonders schwerer Fall liegt nach § 291 Abs. 2 StGB in der Regel vor, wenn der
 ## Konkurrenzen
 
 - **§ 291 StGB / § 5 WiStrG 1954.** § 291 StGB ist die Straftat; § 5 WiStrG 1954 die OWi-Stufe. § 5 kann greifen, wenn ein geringes Wohnraumangebot ausgenutzt wurde, aber keine individuelle Schwächesituation oder kein strafrechtlich auffälliges Missverhältnis nachweisbar ist.
-- **§ 291 StGB / § 263 StGB.** Bei Taeuschung ueber Konditionen Tateinheit.
+- **§ 291 StGB / § 263 StGB.** Bei Taeuschung über Konditionen Tateinheit.
 - **§ 291 StGB / § 240 StGB Noetigung.** Bei Druck zur Zustimmung.
 - **§ 291 StGB / § 138 BGB.** Zivilrechtliche Nichtigkeit; Rueckforderung nach § 812 BGB.
-- **§ 291 StGB / § 23 RDG.** Bei Wucher in Rechtsdienstleistung pruefen.
+- **§ 291 StGB / § 23 RDG.** Bei Wucher in Rechtsdienstleistung prüfen.
 - **§ 291 StGB / § 261 StGB Geldwaesche.** Nach Reform 2021.
 
 ## Strafzumessung und Folgen
@@ -120,7 +120,7 @@ Besonders schwerer Fall liegt nach § 291 Abs. 2 StGB in der Regel vor, wenn der
 
 ### Bestreiten auffaelliges Missverhaeltnis
 
-"Das in der Anklage behauptete auffaellige Missverhaeltnis von 60 Prozent ueber Vergleichsmiete bestreitet sich. Die heranzuziehende Vergleichsmiete ist anhand des aktuellen Mietspiegels [Stadt] [Jahr] sowie ergaenzend Vergleichswohnungen [Adressen] zu bestimmen. Bei sachgerechter Beruecksichtigung der Sondermerkmale (Ausstattung, Lage, Modernisierungsstand) liegt der vereinbarte Mietzins um weniger als 25 Prozent ueber dem oberen Wert; ein auffaelliges Missverhaeltnis im Sinne der BGH-Rechtsprechung ist damit nicht gegeben."
+"Das in der Anklage behauptete auffaellige Missverhaeltnis von 60 Prozent über Vergleichsmiete bestreitet sich. Die heranzuziehende Vergleichsmiete ist anhand des aktuellen Mietspiegels [Stadt] [Jahr] sowie ergaenzend Vergleichswohnungen [Adressen] zu bestimmen. Bei sachgerechter Beruecksichtigung der Sondermerkmale (Ausstattung, Lage, Modernisierungsstand) liegt der vereinbarte Mietzins um weniger als 25 Prozent über dem oberen Wert; ein auffaelliges Missverhaeltnis im Sinne der BGH-Rechtsprechung ist damit nicht gegeben."
 
 ## Quellen Stand 06/2026
 

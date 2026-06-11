@@ -7,7 +7,7 @@ description: "Strukturierung des Tatsachenvortrags in der Klageschrift. Chronolo
 
 ## Worum geht es?
 
-Der Tatsachenvortrag (= Sachverhalt) ist das Fundament Ihrer Klage. Das Gericht entscheidet nur ueber das, was Sie vorgetragen haben. Vergessene Tatsachen fallen weg. Pauschalbehauptungen werden ggf. nicht beruecksichtigt. Diese Skill zeigt, wie Sie Ihre Geschichte vortragen — chronologisch, vollstaendig, mit Beweisangeboten verzahnt.
+Der Tatsachenvortrag (= Sachverhalt) ist das Fundament Ihrer Klage. Das Gericht entscheidet nur über das, was Sie vorgetragen haben. Vergessene Tatsachen fallen weg. Pauschalbehauptungen werden ggf. nicht beruecksichtigt. Diese Skill zeigt, wie Sie Ihre Geschichte vortragen — chronologisch, vollstaendig, mit Beweisangeboten verzahnt.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -108,12 +108,12 @@ Skill `klageschrift-beweisangebote-einbauen-373-zpo`.
 ### Schritt 4 — Pauschalbehauptungen vermeiden
 
 - ❌ "Der Beklagte hat den Vertrag nicht erfuellt."
-- ✓ "Am 5.4.2025 — Faelligkeit war 30.3.2025 — hatte der Klaeger den Kaufpreis nicht erhalten."
+- ✓ "Am 5.4.2025 — Faelligkeit war 30.3.2025 — hatte der Kläger den Kaufpreis nicht erhalten."
 
 - ❌ "Der Beklagte schuldet mir Geld."
 - ✓ "Der Beklagte hat aus dem am 5.3.2025 geschlossenen Kaufvertrag den Kaufpreis von 1.500 EUR zu zahlen."
 
-### Schritt 5 — Vollstaendigkeit pruefen
+### Schritt 5 — Vollstaendigkeit prüfen
 
 Pro Tatbestandsmerkmal:
 
@@ -130,9 +130,9 @@ Beispiel-Checkliste für Kaufpreis-Forderung:
 
 ### Schritt 6 — Negative Tatsachen
 
-Wenn Sie eine Negative behaupten ("hat nicht gezahlt"), reicht die Behauptung. Beklagter muss substantiiert bestreiten, was er gezahlt hat (sekundaere Darlegungslast). Sie selbst koennen z. B. Kontoauszug als Beweis für "kein Eingang" anbieten.
+Wenn Sie eine Negative behaupten ("hat nicht gezahlt"), reicht die Behauptung. Beklagter muss substantiiert bestreiten, was er gezahlt hat (sekundaere Darlegungslast). Sie selbst können z. B. Kontoauszug als Beweis für "kein Eingang" anbieten.
 
-### Schritt 7 — Schluessigkeit pruefen
+### Schritt 7 — Schluessigkeit prüfen
 
 Lesen Sie Ihren Tatsachenvortrag und fragen: Wenn alles wahr waere, was ich vortrage — habe ich dann automatisch Recht? Wenn ja: schluessig. Wenn nein: Es fehlt was, ergaenzen.
 
@@ -156,18 +156,18 @@ Verzugszinsen schuldet er nach § 288 I BGB.
 
 Bei Selbstvertretung muss die Rechtsfolge nicht ueberkomplex sein — kurz und auf die Normen verweisen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Praeklusion § 296 ZPO**: Tatsachen, die Sie spaeter nicht mehr vortragen koennen, sind verloren. Tragen Sie alles, was Sie haben, gleich vor.
-- **Wahrheitspflicht § 138 I ZPO**: Bewusst falsche Tatsachenbehauptungen koennen Prozessbetrug sein (§ 263 StGB).
-- **Beweis-Junktur**: Niemals Tatsachenbehauptung ohne Beweisangebot. Auch wenn der Vortrag spaeter unstreitig ist — das wissen Sie beim Schreiben noch nicht.
+- **Praeklusion § 296 ZPO**: Tatsachen, die Sie später nicht mehr vortragen können, sind verloren. Tragen Sie alles, was Sie haben, gleich vor.
+- **Wahrheitspflicht § 138 I ZPO**: Bewusst falsche Tatsachenbehauptungen können Prozessbetrug sein (§ 263 StGB).
+- **Beweis-Junktur**: Niemals Tatsachenbehauptung ohne Beweisangebot. Auch wenn der Vortrag später unstreitig ist — das wissen Sie beim Schreiben noch nicht.
 - **Substantiiert vortragen**: Datum, Ort, Namen, Betraege.
 
 ## Typische Fehler
 
 - "Ich erzaehle die ganze Lebensgeschichte." → Konzentrieren Sie sich auf anspruchsrelevante Fakten.
 - "Beweis steht nur unten als Liste." → Pro Tatsache direkt darunter Beweis-Angabe.
-- "Ich bestreite eigene Pflichten." → Sie als Klaeger muessen Ihre Tatsachen positiv vortragen.
+- "Ich bestreite eigene Pflichten." → Sie als Kläger müssen Ihre Tatsachen positiv vortragen.
 
 ## Quellen und Aktualitaet
 

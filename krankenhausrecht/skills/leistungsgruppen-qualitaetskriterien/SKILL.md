@@ -19,7 +19,7 @@ description: "Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukt
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppen, die ICD-/OPS-basierte Versorgungstypen buendeln und an Strukturqualitaetsmerkmale gekoppelt sind. Der Skill prueft, ob eine Klinik die geforderte Struktur erfuellt und ob ein LG-Bescheid haltbar ist.
+Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppen, die ICD-/OPS-basierte Versorgungstypen buendeln und an Strukturqualitaetsmerkmale gekoppelt sind. Der Skill prüft, ob eine Klinik die geforderte Struktur erfuellt und ob ein LG-Bescheid haltbar ist.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche LG wird gewollt/bestritten (z. B. LG 14 Allgemeine Innere, LG 27 Komplexe Wirbelsaeule)?
@@ -30,7 +30,7 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 
 ## Rechtlicher Rahmen
 - **KHG § 6a** Bundeseinheitliche Leistungsgruppen, Anlage zum KHG.
-- **KHEntgG § 5** Verguetung an LG geknuepft, Vorhalteanteil.
+- **KHEntgG § 5** Vergütung an LG geknuepft, Vorhalteanteil.
 - **SGB V § 135a, 136, 137** Qualitaetssicherung, Strukturmerkmale.
 - **G-BA-Strukturqualitaetsrichtlinien** (z. B. für Stroke Units, Perinatalzentren, Onkologie).
 - **Landeskrankenhausgesetze** Ausnahmen aus Sicherstellungsgruenden, Kooperationsregelungen.
@@ -41,8 +41,8 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 2. **Strukturqualitaetsmerkmale auflisten:** Personal (Aerzte, Pflege, qualifiziert), Geraete, 24/7-Bereitschaft, intensivmed. Anbindung.
 3. **Erfuellungsgrad messen:** Nachweise (Dienstplaene, Geraeteliste, Personalmeldung) auswerten.
 4. **Luecken identifizieren:** Welche Merkmale fehlen, wie zeitnah erfuellbar?
-5. **Kooperationsmodelle pruefen:** Verbund-LG, Konsiliar-Anbindung, Teleneurologie, Telemedizin.
-6. **Bescheid pruefen oder Antrag formulieren:** Sachverhaltsfeststellung der Behörde gegen tatsaechliche Lage abgleichen.
+5. **Kooperationsmodelle prüfen:** Verbund-LG, Konsiliar-Anbindung, Teleneurologie, Telemedizin.
+6. **Bescheid prüfen oder Antrag formulieren:** Sachverhaltsfeststellung der Behörde gegen tatsaechliche Lage abgleichen.
 
 ## Trade-off-Matrix
 
@@ -50,7 +50,7 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 |---|---|---|
 | LG vollumfaenglich selbst erfuellen | volle Planautoritaet | hohe Personalkosten, ggf. Doppelvorhaltung |
 | Kooperation/Verbund | Aufgabenteilung | Steuerungsaufwand, Vertragsgestaltung |
-| Telemedizin-Anbindung | guenstig, schnell | nur für bestimmte LG zulaessig (z. B. Stroke) |
+| Telemedizin-Anbindung | guenstig, schnell | nur für bestimmte LG zulässig (z. B. Stroke) |
 | LG abgeben | Konzentration auf Kernportfolio | Erloesausfall, Personalfolgen |
 
 ## Praxistipps
@@ -71,7 +71,7 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 - LG mit OPS-Code verwechseln: OPS triggert LG, ist aber nicht die LG selbst.
 - G-BA-Qualitaetsanforderungen vergessen — sie gelten parallel.
 - Personal nur als Soll-Besetzung melden, statt als Ist-Lage zum Stichtag.
-- Kooperationsmodelle ohne schriftliche Vertraege/Dienstanweisungen — nicht anerkennbar.
+- Kooperationsmodelle ohne schriftliche Verträge/Dienstanweisungen — nicht anerkennbar.
 
 ## Quellen Stand 06/2026
 - KHG Anlage zu § 6a (Leistungsgruppen-Liste), Fassung KHVVG 12/2024.

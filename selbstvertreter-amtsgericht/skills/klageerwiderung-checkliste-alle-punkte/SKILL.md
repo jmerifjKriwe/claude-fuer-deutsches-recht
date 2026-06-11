@@ -7,13 +7,13 @@ description: "Vollständige Checkliste für die Klageerwiderung. Pro Klage-Punkt
 
 ## Worum geht es?
 
-In Ihrer Klageerwiderung muessen Sie **systematisch** auf jeden erheblichen Punkt der Klage eingehen. Was Sie nicht ausdruecklich bestreiten, gilt als **zugestanden** (§ 138 III ZPO). Das ist eine der haerteren Regeln des Zivilprozesses — und der haeufigste Anfaengerfehler. Diese Skill ist Ihre Checkliste.
+In Ihrer Klageerwiderung müssen Sie **systematisch** auf jeden erheblichen Punkt der Klage eingehen. Was Sie nicht ausdruecklich bestreiten, gilt als **zugestanden** (§ 138 III ZPO). Das ist eine der haerteren Regeln des Zivilprozesses — und der haeufigste Anfaengerfehler. Diese Skill ist Ihre Checkliste.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie schreiben Klageerwiderung.
 - Sie wollen sicherstellen, dass Sie kein Klage-Argument uebersehen.
-- Sie haben mehrere Klagepunkte und sind unsicher ueber Reihenfolge.
+- Sie haben mehrere Klagepunkte und sind unsicher über Reihenfolge.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -46,18 +46,18 @@ Schreiben Sie eine **Stichwortliste** Ihrer Reaktion zu jedem Punkt.
 
 ### Schritt 2 — Pro Tatsache: ausdrueckliche Stellungnahme
 
-Jede Klaeger-Tatsache braucht eine Antwort: zugestanden, bestritten, oder Unkenntnis-Erklaerung (§ 138 IV ZPO).
+Jede Kläger-Tatsache braucht eine Antwort: zugestanden, bestritten, oder Unkenntnis-Erklaerung (§ 138 IV ZPO).
 
 Beispiel:
 
-- Klaeger: "Vertrag am 5.3.2025 geschlossen."
+- Kläger: "Vertrag am 5.3.2025 geschlossen."
 - Ihre Antwort: "Bestritten. Es gab kein Angebot mit allen Vertragsbedingungen vor dem 12.3.2025."
 - Oder: "Zugestanden."
 - Oder: "Mit Nichtwissen bestritten" (nur bei Tatsachen ausser Ihrer Wahrnehmung).
 
 ### Schritt 3 — Substantiiert bestreiten
 
-§ 138 II ZPO: Sie muessen substantiiert vortragen, nicht nur pauschal.
+§ 138 II ZPO: Sie müssen substantiiert vortragen, nicht nur pauschal.
 
 - Falsch: "Klage wird bestritten."
 - Richtig: "Bestritten, dass die Ware am 12.3.2025 geliefert wurde. Tatsaechlich erfolgte Lieferung erst am 19.3.2025 und an die falsche Adresse."
@@ -66,7 +66,7 @@ Skill `substantiiertes-bestreiten-138-iv-zpo`.
 
 ### Schritt 4 — Einreden erheben
 
-Pruefen Sie:
+Prüfen Sie:
 
 - Verjährung (§ 214 BGB)?
 - Aufrechnung (§ 387 BGB)?
@@ -74,7 +74,7 @@ Pruefen Sie:
 - Stundung?
 - Unzuständigkeit des Gerichts?
 
-Jede Einrede muss **ausdruecklich erhoben werden** — Gericht prueft nicht von Amts wegen.
+Jede Einrede muss **ausdruecklich erhoben werden** — Gericht prüft nicht von Amts wegen.
 
 Skill `einreden-aktiv-geltend-machen`.
 
@@ -163,28 +163,28 @@ IV. Einreden
 [Anlagenverzeichnis, Unterschrift]
 ```
 
-### Schritt 10 — Vollstaendigkeit pruefen
+### Schritt 10 — Vollstaendigkeit prüfen
 
 Vor Versand:
 
-- Pro Klaeger-Punkt eine Antwort?
+- Pro Kläger-Punkt eine Antwort?
 - Beweismittel benannt?
 - Antraege gestellt?
 - Einreden erhoben (falls einschlaegig)?
 - Sachvortrag substantiiert?
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **§ 138 III ZPO**: Nicht-Bestrittenes ist zugestanden. KERN-Regel!
-- **Praeklusion § 296 ZPO**: Spaeter nicht vorgetragen = nicht beruecksichtigt.
-- **Einreden mit Frist**: Manche (Verjährung) muessen ausdruecklich erhoben werden.
+- **Praeklusion § 296 ZPO**: Später nicht vorgetragen = nicht beruecksichtigt.
+- **Einreden mit Frist**: Manche (Verjährung) müssen ausdruecklich erhoben werden.
 - **Wahrheitspflicht** § 138 I ZPO: Keine bewusst falschen Tatsachenbehauptungen.
 
 ## Typische Fehler
 
 - "Ich antworte allgemein, das deckt alles." → Pauschale Antworten reichen nicht.
 - "Verjährung erkennt das Gericht selbst." → Nein, Einrede muss kommen.
-- "Ich erzaehle erstmal meine Sicht." → Auch Stellungnahme zu Klaeger-Punkten Pflicht.
+- "Ich erzaehle erstmal meine Sicht." → Auch Stellungnahme zu Kläger-Punkten Pflicht.
 - "Beweis kommt im Termin." → Beweismittel jetzt benennen.
 
 ## Quellen und Aktualitaet

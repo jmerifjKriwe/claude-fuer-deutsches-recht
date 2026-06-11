@@ -30,7 +30,7 @@ description: "Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare 
 
 ## Ablauf / Checkliste
 
-1. **Tatbestand zerlegen.** Welche Voraussetzungen muessen kumulativ vorliegen?
+1. **Tatbestand zerlegen.** Welche Voraussetzungen müssen kumulativ vorliegen?
 2. **Rechtsfolge formulieren.** Was ist die genaue Pflicht oder das Recht?
 3. **Frist setzen.** Innerhalb welcher Frist gilt die Rechtsfolge?
 4. **Beweislast bedenken.** Wer muss was darlegen?
@@ -57,7 +57,7 @@ ES SEI DENN [Ausnahme].
 | Ruecktritt | Nacherfuellung erfolglos | Ruecktritt durch Besteller | nach erfolgloser Frist |
 | Verzug | Faelligkeit, Mahnung | Verzugszinsen | ab Mahnung |
 | Kuendigung wichtiger Grund | Pflichtverletzung, Abmahnung | Ausserordentliche Kuendigung | 14 Tage nach Kenntnis |
-| Aufrechnung | unbestrittene oder rechtskraeftig festgestellte Forderung | Aufrechnung zulaessig | jederzeit |
+| Aufrechnung | unbestrittene oder rechtskraeftig festgestellte Forderung | Aufrechnung zulässig | jederzeit |
 
 ### Beispiel 1: Maengelhaftungsklausel (B2B-Lieferantenvertrag)
 
@@ -173,7 +173,7 @@ Mit Zugang der Kuendigung endet der Vertrag. § 9 Abs. 3 (Folgen) gilt.
 ## Quellen (Stand 05/2026)
 
 - § 280 BGB, § 281 BGB, § 286 BGB, § 288 BGB, § 308 BGB, § 309 BGB, § 437 BGB, § 634 BGB; § 377 HGB. gesetze-im-internet.de.
-- AGB-Rechtsprechung des BGH zu Mantelklauseln: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
+- AGB-Rechtsprechung des BGH zu Mantelklauseln: vom Nutzer mit konkretem Aktenzeichen über bundesgerichtshof.de zu verifizieren.
 
 ## Normen und Rechtsprechung
 

@@ -41,7 +41,7 @@ Bei Nutzung des Skills daher: BMF v. 06.03.2025 zugrundelegen; Skill-Name dokume
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BFH-Verfahren zu DeFi-Spezifika sind anhaengig — aktuellen Stand ueber dejure.org / BFH-Datenbank pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BFH-Verfahren zu DeFi-Spezifika sind anhaengig — aktuellen Stand über dejure.org / BFH-Datenbank prüfen.
 
 ## Steuerliche Behandlung pro Aktivität
 

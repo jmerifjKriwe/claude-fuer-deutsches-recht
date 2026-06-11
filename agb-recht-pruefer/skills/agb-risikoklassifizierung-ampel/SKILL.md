@@ -45,7 +45,7 @@ description: "Einstiegs- und Prüfungslinie für AGB Risikoklassifizierung Ampel
 2. Klauseltyp (Haupt-/Nebenleistung/AGB-Modul).
 3. § 309 BGB-Treffer? — Rot.
 4. § 308 BGB Treffer mit Wertungsabwaegung? — Gelb.
-5. § 307 BGB Generalklausel? — Pruefung im Einzelfall.
+5. § 307 BGB Generalklausel? — Prüfung im Einzelfall.
 6. BGH-Linie konsultieren.
 
 ## Quellenanker

@@ -3,7 +3,7 @@ name: kokain-erlaubnis-pruefen
 description: "Kokain: Erlaubnis prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Kokain Erlaubnis Pruefen
+# Kokain Erlaubnis Prüfen
 
 ## Arbeitsweg
 

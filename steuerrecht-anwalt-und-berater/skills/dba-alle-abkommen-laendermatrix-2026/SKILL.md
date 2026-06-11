@@ -39,22 +39,22 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 
 - **Matrix als Ausgangspunkt, DBA-Text als Endpunkt**: nie eine Mandantenanfrage allein auf Basis der Matrix beantworten — DBA-Text in der BGBl-II-Fundstelle ist verbindlich. Im Memo immer BGBl-Stelle nennen.
 - **Schnellnavigation auf bundesfinanzministerium.de**: "Internationales Steuerrecht > Doppelbesteuerung > Liste der Staaten mit DBA" — pro Land PDF zum Originaltext + Aenderungsprotokolle + Konsultationsvereinbarungen.
-- **MLI-Status getrennt zum DBA pruefen**: OECD-MLI-Matching-Database (oecd.org/tax/treaties/mli-matching-database.htm) zeigt, welche Klauseln des MLI bei einem konkreten DBA durchschlagen. Wirksamkeitsdatum pro Norm separat.
+- **MLI-Status getrennt zum DBA prüfen**: OECD-MLI-Matching-Database (oecd.org/tax/treaties/mli-matching-database.htm) zeigt, welche Klauseln des MLI bei einem konkreten DBA durchschlagen. Wirksamkeitsdatum pro Norm separat.
 - **Russland-Suspendierung 30.12.2023**: bis auf weiteres keine BZSt-Entlastung; Memo entsprechend kennzeichnen (siehe `stb-dba-russland-suspendierung-2024`).
-- **VAE und Saudi-Arabien**: kein umfassendes DBA (kuendigung VAE 31.12.2021; Saudi-Arabien nicht im Einkommensteuer-DBA-Netz). Nur Spezialabkommen pruefen.
-- **Belarus / Iran / Syrien**: Sanktionsrechtliche Beschraenkungen (EU-Sanktionsregimes) gehen DBA vor — pruefen.
-- **Ehemalige UdSSR-Staaten**: einzelne DBA mit Fortwirkung (Russland, Ukraine, Belarus, Kasachstan, Usbekistan, Aserbaidschan etc.); pruefen, ob nationales Recht der Fortwirkung folgt.
+- **VAE und Saudi-Arabien**: kein umfassendes DBA (kuendigung VAE 31.12.2021; Saudi-Arabien nicht im Einkommensteuer-DBA-Netz). Nur Spezialabkommen prüfen.
+- **Belarus / Iran / Syrien**: Sanktionsrechtliche Beschraenkungen (EU-Sanktionsregimes) gehen DBA vor — prüfen.
+- **Ehemalige UdSSR-Staaten**: einzelne DBA mit Fortwirkung (Russland, Ukraine, Belarus, Kasachstan, Usbekistan, Aserbaidschan etc.); prüfen, ob nationales Recht der Fortwirkung folgt.
 - **Ehemalige Jugoslawien-Staaten**: Fortwirkung Jugoslawien-DBA für Bosnien-Herzegowina, Nordmazedonien, Kosovo; eigene DBA für Slowenien, Kroatien, Serbien-Montenegro, Albanien — Fortgeltung im Einzelfall.
 
 ## Trade-off-Tabelle
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Allgemeiner Skill (dieser) vs. Landeseinzel-Skill | Routing ueber Matrix; Hinweis auf live Pruefung | Detail-Skill mit Subsumtion | bei vorhandenem Landeseinzel-Skill immer diesen vorziehen |
-| Drittstaat ohne aktuellen DBA-Text | Memo mit "kein DBA / DBA suspendiert" pruefen | Fachmodul (Russland, Belarus, VAE) | bei Sonderlagen Fachmodul nutzen |
+| Allgemeiner Skill (dieser) vs. Landeseinzel-Skill | Routing über Matrix; Hinweis auf live Prüfung | Detail-Skill mit Subsumtion | bei vorhandenem Landeseinzel-Skill immer diesen vorziehen |
+| Drittstaat ohne aktuellen DBA-Text | Memo mit "kein DBA / DBA suspendiert" prüfen | Fachmodul (Russland, Belarus, VAE) | bei Sonderlagen Fachmodul nutzen |
 | MLI-modifiziertes DBA vs. unmodifizierter DBA-Text | OECD-MLI-Synopse abrufen | nur DBA-Text | bei Veranlagungszeitraum ab 2019/2020 stets MLI-Synopse abrufen |
 
-## Was Reviewer/Pruefer triggert
+## Was Reviewer/Prüfer triggert
 
 - **Memo schreibt "DBA gilt", ohne BGBl-Stelle zu nennen**.
 - **MLI-Status nicht erwaehnt**, obwohl beide Staaten ratifiziert haben und Wirksamkeitsdatum erreicht ist.
@@ -99,8 +99,8 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 ## Vorgehen bei nicht gefundenen Fachmodule
 
 1. **Matrix abrufen** und Staat eintragen.
-2. **DBA-Text** ueber bundesfinanzministerium.de beziehen.
-3. **MLI-Status** ueber OECD-Matching-Database pruefen.
+2. **DBA-Text** über bundesfinanzministerium.de beziehen.
+3. **MLI-Status** über OECD-Matching-Database prüfen.
 4. **Regionenrouter-Skill** als Pfad B nutzen.
 5. **All-Country-Memo-Generator** für das Memo selbst.
 6. **Querverweis auf relevante Querschnitts-Skills** (Methodenartikel, Quellensteuer, MAP).

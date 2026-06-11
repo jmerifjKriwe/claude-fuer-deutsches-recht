@@ -19,7 +19,7 @@ Autorinnen, Mandantinnen oder Fremdmaterial liegen oft als gescannte PDFs oder a
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, sobald eine Bildquelle (Scan, Screenshot, fotografierte Seite) zum durchsuchbaren Text werden muss. Klaeren Sie:
+Sie brauchen ihn, sobald eine Bildquelle (Scan, Screenshot, fotografierte Seite) zum durchsuchbaren Text werden muss. Klären Sie:
 
 1. Auflage hoch oder niedrig (300 dpi+? unter 200 dpi liefert OCR-Mist)?
 2. Schriftart: Antiqua moderner Druck, Fraktur, Schreibmaschine?
@@ -34,13 +34,13 @@ Sie brauchen ihn, sobald eine Bildquelle (Scan, Screenshot, fotografierte Seite)
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Datenschutz pruefen.** Wenn Mandantendaten enthalten sind: nur in Tools mit AVV und entsprechend BRAO § 43a Abs. 2.
-2. **Qualitaet pruefen.** Eine Stichprobe von zwei bis drei Seiten ansehen. Unter 200 dpi: zurueck zur Quelle (neu scannen).
+1. **Datenschutz prüfen.** Wenn Mandantendaten enthalten sind: nur in Tools mit AVV und entsprechend BRAO § 43a Abs. 2.
+2. **Qualitaet prüfen.** Eine Stichprobe von zwei bis drei Seiten ansehen. Unter 200 dpi: zurueck zur Quelle (neu scannen).
 3. **OCR ausfuehren.** Tesseract, Adobe Acrobat oder vergleichbare Werkzeuge mit Sprachpaket "deu" (und ggf. "lat", "eng").
 4. **Fehlerquoten-Stichprobe.** Zwei zufaellige Seiten Wort-für-Wort vergleichen, Fehlerrate dokumentieren (typisch 0,3 bis 3 % bei modernem Druck, deutlich mehr bei Fraktur).
 5. **Manuelle Nachkorrektur** vor allem bei: Eigennamen (Personen, Orte, Kommentar-Bearbeitern), Zahlen (Aktenzeichen, Randnummern, Seitenangaben), Sonderzeichen (§, II 2, vgl.), Fussnoten.
 6. **Strukturmarkierung.** OCR liefert Fliesstext ohne Stilauszeichnung; Ueberschriften, Fussnoten, Tabellen mit Verlagsvorlage neu auszeichnen.
-7. **Audit-Log.** Quelle, Stichproben-Fehlerrate, manuelle Korrekturen dokumentieren - der Verlag muss spaeter beweisen koennen, dass nicht halluziniert wurde.
+7. **Audit-Log.** Quelle, Stichproben-Fehlerrate, manuelle Korrekturen dokumentieren - der Verlag muss später beweisen können, dass nicht halluziniert wurde.
 
 ## Trade-off-Matrix
 
@@ -48,12 +48,12 @@ Sie brauchen ihn, sobald eine Bildquelle (Scan, Screenshot, fotografierte Seite)
 |------|------------------------------|----------------------------|------------|
 | Qualitaet moderner Druck | sehr gut | gut | B reicht meist |
 | Fraktur / historisch | mittel | besser mit speziellen Modellen | B mit Fraktur-Modell |
-| Datenschutz | Cloud vs. Desktop, AVV pruefen | lokal moeglich | B bei Mandantendaten |
+| Datenschutz | Cloud vs. Desktop, AVV prüfen | lokal möglich | B bei Mandantendaten |
 | Zeit | schnell | langsamer | A bei Volumen |
 
 ## Praxistipps der alten Redaktion
 
-- "Aktenzeichen sind die haeufigste OCR-Falle. Eine 6 wird zur 8, eine 1 zum l. Vor Abgabe jedes Aktenzeichen pruefen."
+- "Aktenzeichen sind die haeufigste OCR-Falle. Eine 6 wird zur 8, eine 1 zum l. Vor Abgabe jedes Aktenzeichen prüfen."
 - Marginalien-Druck (oft am Rand) wird oft als Hauptfliesstext fehlgedeutet - manuell sortieren.
 - Bei Frakturschrift fast immer manuelle Nachbearbeitung; ohne Spezialmodell waeren 5-10 % Fehler normal.
 - Screenshots aus Word/PDF-Reader haben den Vorteil, dass der Originaltext per Copy-Paste oft verfuegbar waere - lieber den nachfragen statt OCR.
@@ -75,7 +75,7 @@ Status: redaktionsreif nach Lektoratspruefung
 
 **Anschreiben bei schlechter Scanqualitaet:**
 
-> Sehr geehrte Frau Doktor, das uebersandte PDF (Anlage Festschrift S. 211 ff.) ist mit rund 150 dpi gescannt. Eine zuverlaessige Texterkennung ist auf dieser Basis nicht moeglich. Wir bitten um einen neuen Scan mit mindestens 300 dpi (Graustufe ausreichend) bis 19.06.2026.
+> Sehr geehrte Frau Doktor, das uebersandte PDF (Anlage Festschrift S. 211 ff.) ist mit rund 150 dpi gescannt. Eine zuverlaessige Texterkennung ist auf dieser Basis nicht möglich. Wir bitten um einen neuen Scan mit mindestens 300 dpi (Graustufe ausreichend) bis 19.06.2026.
 
 ## Typische Fehler / Pitfalls
 

@@ -26,7 +26,7 @@ description: "Handelsregisterabruf über offizielle Quellen für Unternehmenspr�
 - § 15 HGB — Registerpublizitaet: Eintragungen und deren Wirkung
 - § 8 HGB — Inhalt und Pflichtangaben des Handelsregisters
 - § 40 GmbHG — Gesellschafterliste: Hinterlegung und Wirkung als Nachweis der Mitgliedschaft
-- § 3 GwG — Sorgfaltspflichten für risikobasierte KYC-Pruefung (Handelsregister als Beleg)
+- § 3 GwG — Sorgfaltspflichten für risikobasierte KYC-Prüfung (Handelsregister als Beleg)
 
 ## Offizielle Quellen
 

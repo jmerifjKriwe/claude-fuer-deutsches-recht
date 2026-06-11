@@ -3,7 +3,7 @@ name: vollstreckungsrecht-personal
 description: "Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermoegensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quelle"
 ---
 
-# Rom 110 Vollstreckungsrecht Personal Und Vermoegen
+# Rom 110 Vollstreckungsrecht Personal Und Vermögen
 
 ## Quellenanker
 

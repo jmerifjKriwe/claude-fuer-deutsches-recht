@@ -139,13 +139,13 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `amtsermittlungsgrundsatz-103-sgg` | Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern. |
+| `amtsermittlungsgrundsatz-103-sgg` | Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein großer Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern. |
 | `anfaenger-workflow-sozialgericht` | Geführter Anfänger-Workflow: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills. |
 | `anfechtungsklage-54-sgg` | Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext für Buerger ohne Anwalt. |
-| `anlagen-bezeichnen-und-sortieren-sozialgericht` | Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Klaeger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren. |
+| `anlagen-bezeichnen-und-sortieren-sozialgericht` | Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Kläger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren. |
 | `anwaltskosten-bei-erfolg-erstattung` | Anwaltskosten bei Erfolg vor dem SG erstattet bekommen. RVG-Saetze Streitwert PKH Beiordnung. Praxis für Buerger und ihre Anwaelte. |
-| `anwaltszwang-pruefen-73-sgg` | Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen. |
-| `arbeitslosengeld-i-sgb-iii` | Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt. |
+| `anwaltszwang-pruefen-73-sgg` | Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen können. |
+| `arbeitslosengeld-i-sgb-iii` | Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Höhe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Höhe ALG I für Buerger ohne Anwalt. |
 | `arztberichte-vorlegen-laien-leitfaden` | Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen für Laien Mustertext. |
 | `beratungshilfe-vor-widerspruch-brh` | Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil. |
 | `berufung-lsg-144-sgg-wertgrenze-750` | Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende Leistungen über 1 Jahr. Mustertext für Buerger ohne Anwalt mit Hinweis auf Anwaltsempfehlung. |
@@ -193,7 +193,7 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 | `rechtsprechungschat-sozialgericht` | Geführter Rechtsprechungschat: findet, erklärt und bewertet BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung. |
 | `sachverstaendigen-wahlrecht-109-sgg` | Eigenes Gutachten nach § 109 SGG. Versicherter kann eigenen Gutachter waehlen. Eigenkosten Erstattung Wann sinnvoll. Mustertext Antrag. |
 | `sanity-check-selbstvertretung-sozialgericht` | Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung: prüft Frist, Bescheidkette, Klageart, Eilbedürftigkeit, Belege, Antrag, Kosten und rote Flaggen. |
-| `saeumnis-im-termin-sozialgericht` | Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger. |
+| `saeumnis-im-termin-sozialgericht` | Wenn Sie zum SG-Termin nicht erscheinen können oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger. |
 | `sozialgericht-zuständigkeit-51-sgg` | Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht. |
 | `sozialleistungen-uebersicht-sgb` | Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger. |
 | `teilstattgabe-vollstattgabe-verstehen` | Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen. |
@@ -211,7 +211,7 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 | `widerspruch-begruendung-laienleitfaden` | Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen. |
 | `widerspruch-gegen-gutachten-laien` | Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erlaeuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt. |
 | `widerspruch-ohne-anwalt-einreichen` | Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persönliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt. |
-| `widerspruch-vorverfahren-78-sgg` | Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behörde was prüft und wie das Ganze ablaeuft. Mit Mustertext. |
+| `widerspruch-vorverfahren-78-sgg` | Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage müssen Sie Widerspruch einlegen. Welche Behörde was prüft und wie das Ganze ablaeuft. Mit Mustertext. |
 | `widerspruchsbescheid-was-jetzt` | Sie haben den Widerspruchsbescheid bekommen. Was nun? Klagefrist 1 Monat § 87 SGG. Klage einreichen oder akzeptieren. Wegweiser für Buerger nach dem Widerspruchsbescheid. |
 | `widerspruchsfrist-84-sgg` | Die Widerspruchsfrist nach § 84 SGG ist ein Monat. Hier lernen Sie genau Berechnung Bekanntgabefiktion vier Tage nach Postaufgabe Wochenenden Feiertage. Mit Beispielen. |
 | `wiedereinsetzung-frist-67-sgg` | Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt. |

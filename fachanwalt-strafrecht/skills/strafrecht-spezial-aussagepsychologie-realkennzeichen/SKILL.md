@@ -20,13 +20,13 @@ description: "Realkennzeichen nach Steller und Koehnken (Criteria-Based Content 
 
 ## Worum geht es
 
-Realkennzeichen (Inhaltsmerkmale erlebnisbasierter Aussagen, Criteria-Based Content Analysis, CBCA) sind das zentrale Instrumentarium der aussagepsychologischen Inhaltsanalyse. Sie dienen dazu, eine Aussage anhand ihrer inhaltlichen Struktur darauf zu pruefen, ob sie ein erlebtes oder ein erfundenes Ereignis beschreibt. Die Methodik geht massgeblich auf Udo Undeutsch (Undeutsch-Hypothese) sowie auf die strukturierte Operationalisierung durch Steller und Koehnken zurueck und ist in Deutschland Stand der Wissenschaft.
+Realkennzeichen (Inhaltsmerkmale erlebnisbasierter Aussagen, Criteria-Based Content Analysis, CBCA) sind das zentrale Instrumentarium der aussagepsychologischen Inhaltsanalyse. Sie dienen dazu, eine Aussage anhand ihrer inhaltlichen Struktur darauf zu prüfen, ob sie ein erlebtes oder ein erfundenes Ereignis beschreibt. Die Methodik geht massgeblich auf Udo Undeutsch (Undeutsch-Hypothese) sowie auf die strukturierte Operationalisierung durch Steller und Koehnken zurueck und ist in Deutschland Stand der Wissenschaft.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert das methodische Werkzeug, um eine Belastungsaussage strukturiert auf Realkennzeichen zu pruefen und die StA-Behauptung "die Aussage ist detailreich, also wahr" methodisch einzuordnen und ggf. zu entkraeften.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert das methodische Werkzeug, um eine Belastungsaussage strukturiert auf Realkennzeichen zu prüfen und die StA-Behauptung "die Aussage ist detailreich, also wahr" methodisch einzuordnen und ggf. zu entkraeften.
 
 ## Methodische Grundlagen
 
-**Undeutsch-Hypothese.** Aussagen ueber tatsaechlich erlebte Ereignisse unterscheiden sich in Inhalt und Qualitaet von Aussagen ueber erfundene Sachverhalte. Erlebnisbasierte Aussagen sind im Mittel detailreicher, raum-zeitlich strukturierter, weniger glatt und enthalten Inhalte, die ein durchschnittlich erfindendes Subjekt nicht erfinden wuerde.
+**Undeutsch-Hypothese.** Aussagen über tatsaechlich erlebte Ereignisse unterscheiden sich in Inhalt und Qualitaet von Aussagen über erfundene Sachverhalte. Erlebnisbasierte Aussagen sind im Mittel detailreicher, raum-zeitlich strukturierter, weniger glatt und enthalten Inhalte, die ein durchschnittlich erfindendes Subjekt nicht erfinden wuerde.
 
 **Realkennzeichen-Katalog nach Steller/Koehnken (CBCA).** Operationalisierte 19 Kriterien in fuenf Gruppen:
 
@@ -63,9 +63,9 @@ Deliktsspezifische Inhalte:
 
 ## Praktikertipps Verteidigung
 
-- **Realkennzeichen sind keine Wahrheitskennzeichen.** Sie sind Indikatoren erlebnisbasierter Aussagen, die aber durch Suggestion, Konfabulation oder geuebte Falschbeschuldigung simuliert werden koennen. Replik gegen StA: "Realkennzeichen sind notwendig, aber nicht hinreichend; sie verlieren ihre Aussagekraft, wenn die Aussagegenese kontaminiert ist."
+- **Realkennzeichen sind keine Wahrheitskennzeichen.** Sie sind Indikatoren erlebnisbasierter Aussagen, die aber durch Suggestion, Konfabulation oder geuebte Falschbeschuldigung simuliert werden können. Replik gegen StA: "Realkennzeichen sind notwendig, aber nicht hinreichend; sie verlieren ihre Aussagekraft, wenn die Aussagegenese kontaminiert ist."
 - **Aussage in Tabelle zerlegen.** Saemtliche 19 Kriterien anhand des Hauptverhandlungsprotokolls und der polizeilichen Aussagen abklopfen, Belegstellen markieren. Wenn ein Kriterium fehlt: dokumentieren.
-- **Kompetenzschwelle pruefen.** Aussagepsychologisch geschulte Personen (Therapeutinnen, einschlaegige Kursteilnehmer, in Foren aktive Belastende) koennen Realkennzeichen kennen und reproduzieren. Diese Kompetenzschwelle bei der Person des Zeugen pruefen.
+- **Kompetenzschwelle prüfen.** Aussagepsychologisch geschulte Personen (Therapeutinnen, einschlaegige Kursteilnehmer, in Foren aktive Belastende) können Realkennzeichen kennen und reproduzieren. Diese Kompetenzschwelle bei der Person des Zeugen prüfen.
 - **Fehlende Kriterien stark betonen.** Wenn z. B. Komplikationen im Tatverlauf fehlen, woertliche Rede nicht erinnert wird, Nebensaechlichkeiten ueberhaupt nicht vorkommen — die Aussage hat das Profil einer konstruierten Erzaehlung.
 - **Konstanz nicht mit Realkennzeichen verwechseln.** Konstanz ist ein eigenstaendiges Pruefkriterium (separater Skill). Eine konstant erzaehlte, aber detailarme Aussage ist nicht automatisch erlebnisbasiert.
 
@@ -88,7 +88,7 @@ Im Schlussvortrag arbeiten Sie strukturiert: erstes Kriterium, Beleg, Bewertung;
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten unter Anwendung der Criteria-Based Content Analysis (CBCA) nach Steller und Koehnken zur Frage einzuholen, ob die Aussage der Zeugin [Name] hinreichende Realkennzeichen aufweist, um die Annahme der Erlebnisbasiertheit zu stuetzen."
 
 **Mustersatz für Plaedoyer:**
-"Eine sorgfaeltige Pruefung der Aussage anhand der 19 Realkennzeichen nach Steller und Koehnken ergibt: Komplikationen im Tatverlauf werden nicht beschrieben. Woertliche Rede fehlt vollstaendig. Ungewoehnliche Details kommen nicht vor. Nebensaechlichkeiten sind nicht erinnert. Eigenpsychische Vorgaenge bleiben Floskeln. Diese Aussage zeigt nicht das Profil eines erlebten Ereignisses, sondern das einer konstruierten Erzaehlung. Restzweifel bleiben — Freispruch nach in dubio pro reo."
+"Eine sorgfaeltige Prüfung der Aussage anhand der 19 Realkennzeichen nach Steller und Koehnken ergibt: Komplikationen im Tatverlauf werden nicht beschrieben. Woertliche Rede fehlt vollstaendig. Ungewoehnliche Details kommen nicht vor. Nebensaechlichkeiten sind nicht erinnert. Eigenpsychische Vorgaenge bleiben Floskeln. Diese Aussage zeigt nicht das Profil eines erlebten Ereignisses, sondern das einer konstruierten Erzaehlung. Restzweifel bleiben — Freispruch nach in dubio pro reo."
 
 ## Quellen Stand 06/2026
 

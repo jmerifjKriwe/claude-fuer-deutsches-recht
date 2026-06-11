@@ -11,9 +11,9 @@ wir bitten um einen Hinweis zur registerpraktischen Behandlung folgender Konstel
 - keine eigene Rechtspersoenlichkeit der Zweigniederlassung
 - Interessenvertretung gegenueber [BUNDESTAG/BUNDESREGIERUNG] wird teilweise durch Mitarbeitende der deutschen Zweigniederlassung wahrgenommen
 
-Unsere Arbeitsannahme ist, dass der auslaendische Rechtstraeger als eintragungspflichtige Organisation einzutragen ist und die deutsche Zweigniederlassung ueber Anschrift, betraute Personen, Taetigkeitsbeschreibung und Kosten-/Personenzuordnung transparent abgebildet wird.
+Unsere Arbeitsannahme ist, dass der auslaendische Rechtstraeger als eintragungspflichtige Organisation einzutragen ist und die deutsche Zweigniederlassung über Anschrift, betraute Personen, Taetigkeitsbeschreibung und Kosten-/Personenzuordnung transparent abgebildet wird.
 
-Wir bitten um Mitteilung, ob aus Sicht der registerfuehrenden Stelle eine zusaetzliche gesonderte Eintragung der unselbststaendigen Zweigniederlassung vorgesehen, moeglich oder gerade nicht gewuenscht ist.
+Wir bitten um Mitteilung, ob aus Sicht der registerfuehrenden Stelle eine zusaetzliche gesonderte Eintragung der unselbststaendigen Zweigniederlassung vorgesehen, möglich oder gerade nicht gewuenscht ist.
 
 Mit freundlichen Gruessen
 

@@ -131,13 +131,13 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — KI-Governance-Baustein für Kanzlei-Berufsrecht erstellen | Governance-Vorlage nach Schema; Template unten |
 | Variante A — Kleinere Kanzlei keine eigene IT-Abteilung | Vereinfachte Governance ohne technische Detail-Spezifikationen |
-| Variante B — Internationales Buero auslaendisches Recht relevant | Jurisdiktion-spezifische Anpassungen erfordern separate Pruefung |
+| Variante B — Internationales Buero auslaendisches Recht relevant | Jurisdiktion-spezifische Anpassungen erfordern separate Prüfung |
 | Variante C — Bestehende Richtlinie aktualisieren nicht neu erstellen | Delta-Update statt Neuerstellung; nur geaenderte Stellen anpassen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -147,7 +147,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - assets/templates/ai-use-disclosure-log.md
 - assets/templates/confidentiality-need-to-know-log.md
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

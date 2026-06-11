@@ -233,5 +233,5 @@ EMPFOHLENE REDLINES:
 WENN ANBIETER NICHT NACHGIBT:
 [FALLBACK ODER ESKALATIONSWEG]
 
-Erstellt: [NAME], [DATUM] — Vor Unterzeichnung anwaltliche Pruefung einholen.
+Erstellt: [NAME], [DATUM] — Vor Unterzeichnung anwaltliche Prüfung einholen.
 ```

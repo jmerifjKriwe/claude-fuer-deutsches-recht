@@ -3,7 +3,7 @@ name: lohn-sv-meldungen-dakota-svnet
 description: "SV-Meldungen über sv.net oder DAKOTA. Anwendungsfall Beitragsnachweis Meldung an Krankenkassen elektronische Übermittlung Prüfung Quittungen. Methodik System-Wahl Konfiguration. Output Meldebescheinigungen Quittungen."
 ---
 
-# SV-Meldungen ueber sv.net oder DAKOTA
+# SV-Meldungen über sv.net oder DAKOTA
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "SV-Meldungen über sv.net oder DAKOTA. Anwendungsfall Beitragsnach
 
 ## Kernsachverhalt
 
-SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkassen uebermittelt. Zwei Hauptverfahren: sv.net (kostenfrei, ueber GKV-Spitzenverband) oder DATEV-DAKOTA (kostenpflichtig, mit DATEV-Integration). Der Steuerberater waehlt das passende System, konfiguriert Zugaenge und versendet die Meldungen.
+SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkassen uebermittelt. Zwei Hauptverfahren: sv.net (kostenfrei, über GKV-Spitzenverband) oder DATEV-DAKOTA (kostenpflichtig, mit DATEV-Integration). Der Steuerberater waehlt das passende System, konfiguriert Zugaenge und versendet die Meldungen.
 
 ## Kaltstart-Rueckfragen
 
@@ -49,9 +49,9 @@ SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkasse
 
 | System | Vorteile | Nachteile |
 |---|---|---|
-| sv.net (ITSG) | Kostenfrei; Standard GKV-Spitzenverband; sv.net classic wurde 2024 abgeloest durch sv.net online (Browser) und sv.net comfort (Lokalinstallation); aktuelle Verfuegbarkeit ueber ITSG.de pruefen | Beschraenkter Funktionsumfang; nicht mandantenoptimal bei vielen AN |
-| DATEV DAKOTA | Integriert in DATEV LODAS / Lohn und Gehalt; mandantenoptimiert; jaehrliches Zertifikat ueber DATEV-eService | Kostenpflichtig |
-| ITSG-Software anderer Anbieter (z.B. Lexware, Addison) | Mandanten-spezifisch | Pruefung Kosten/Nutzen |
+| sv.net (ITSG) | Kostenfrei; Standard GKV-Spitzenverband; sv.net classic wurde 2024 abgeloest durch sv.net online (Browser) und sv.net comfort (Lokalinstallation); aktuelle Verfuegbarkeit über ITSG.de prüfen | Beschraenkter Funktionsumfang; nicht mandantenoptimal bei vielen AN |
+| DATEV DAKOTA | Integriert in DATEV LODAS / Lohn und Gehalt; mandantenoptimiert; jaehrliches Zertifikat über DATEV-eService | Kostenpflichtig |
+| ITSG-Software anderer Anbieter (z.B. Lexware, Addison) | Mandanten-spezifisch | Prüfung Kosten/Nutzen |
 
 ### Phase 2 — Zugang und Zertifikate
 
@@ -78,10 +78,10 @@ SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkasse
 - Empfangsquittung.
 - Bei Fehler: Korrektur und erneute Sendung.
 
-### Phase 5 — Pruefung Quittungen
+### Phase 5 — Prüfung Quittungen
 
 - Eingehende Quittung vom Server.
-- Bei Fehler: Pruefung Stammdaten.
+- Bei Fehler: Prüfung Stammdaten.
 - Bestaetigungsmeldung von der Krankenkasse.
 
 ### Phase 6 — Archivierung
@@ -92,7 +92,7 @@ SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkasse
 ## Strategie und Praxis-Tipps
 
 - Bei vielen Mandanten DATEV DAKOTA wirtschaftlich; bei wenigen sv.net ausreichend.
-- ITSG-Zertifikate rechtzeitig erneuern — bei Ablauf keine Uebermittlung mehr moeglich.
+- ITSG-Zertifikate rechtzeitig erneuern — bei Ablauf keine Uebermittlung mehr möglich.
 - Bei Sofortmeldungspflicht-Branchen sofort am Tag der Beschaeftigungsaufnahme.
 - Wiederholte Fehlermeldungen (z.B. SV-Nummer nicht erkannt) deuten auf Stammdaten-Fehler hin.
 - StBVV: Standardmeldungen in Lohnpauschale.

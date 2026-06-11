@@ -13,7 +13,7 @@ description: "Altersteilzeit Block-Modell Gleichverteilungsmodell Aufstockungsbe
 
 ## Kernsachverhalt
 
-Die Altersteilzeit ermoeglicht AN ab 55 Jahren eine Reduzierung der Arbeitszeit auf die Haelfte. Zwei Modelle: Gleichverteilungsmodell (halftige Stunden ueber die gesamte Laufzeit) oder Blockmodell (Vollzeit-Arbeitsphase + Vollzeit-Freistellungsphase). AG zahlt halftiges Gehalt plus Aufstockungsbetrag (mind. 20 Prozent des Regelgehalts; insgesamt ca. 70 Prozent des frueheren Nettos). Steuerlich teilweise gefoerdert (§ 3 Nr. 28 EStG), SV-rechtlich besondere Behandlung. Hinweis: Die BA-Förderung der Altersteilzeit (§ 4 AltTZG) ist seit 31.12.2009 ausgelaufen; Altersteilzeit existiert aber als tarifvertragliche oder einzelvertragliche Gestaltung weiter. AltTZG bleibt als steuerlich-sozialversicherungsrechtlicher Rahmen wirksam.
+Die Altersteilzeit ermoeglicht AN ab 55 Jahren eine Reduzierung der Arbeitszeit auf die Haelfte. Zwei Modelle: Gleichverteilungsmodell (halftige Stunden über die gesamte Laufzeit) oder Blockmodell (Vollzeit-Arbeitsphase + Vollzeit-Freistellungsphase). AG zahlt halftiges Gehalt plus Aufstockungsbetrag (mind. 20 Prozent des Regelgehalts; insgesamt ca. 70 Prozent des frueheren Nettos). Steuerlich teilweise gefoerdert (§ 3 Nr. 28 EStG), SV-rechtlich besondere Behandlung. Hinweis: Die BA-Förderung der Altersteilzeit (§ 4 AltTZG) ist seit 31.12.2009 ausgelaufen; Altersteilzeit existiert aber als tarifvertragliche oder einzelvertragliche Gestaltung weiter. AltTZG bleibt als steuerlich-sozialversicherungsrechtlicher Rahmen wirksam.
 
 ## Kaltstart-Rueckfragen
 
@@ -53,7 +53,7 @@ Die Altersteilzeit ermoeglicht AN ab 55 Jahren eine Reduzierung der Arbeitszeit 
 
 ### Phase 1 — Voraussetzungen
 
-| Voraussetzung | Pruefung |
+| Voraussetzung | Prüfung |
 |---|---|
 | Alter mind. 55 Jahre | Geburtsdatum |
 | Beschaeftigungsdauer im Betrieb | Arbeitsvertrag |
@@ -76,7 +76,7 @@ Die Altersteilzeit ermoeglicht AN ab 55 Jahren eine Reduzierung der Arbeitszeit 
 
 ### Phase 4 — Gleichverteilungsmodell
 
-- Halbtags-Arbeit ueber gesamte Laufzeit.
+- Halbtags-Arbeit über gesamte Laufzeit.
 - Halbtags-Lohn + Aufstockungsbetrag laufend.
 - Keine Wertguthaben-Bildung.
 
@@ -90,7 +90,7 @@ Die Altersteilzeit ermoeglicht AN ab 55 Jahren eine Reduzierung der Arbeitszeit 
 ### Phase 6 — Renteneintritt
 
 - Nach Altersteilzeit oft direkter Renteneintritt mit 63 (vorgezogene Altersrente).
-- Pruefung Rentenabschlag.
+- Prüfung Rentenabschlag.
 - DRV-Beratung empfehlen.
 
 ## Strategie und Praxis-Tipps

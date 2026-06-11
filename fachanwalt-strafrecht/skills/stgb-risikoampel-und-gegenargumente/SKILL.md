@@ -48,10 +48,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **TOA § 46a StGB:** Strafmilderung oder Absehen von Strafe.
 - **Risikoampel-Triage:**
  - **Rot:** Verbrechen mit Mindeststrafe; Beweislage erdrueckend; Vorstrafenlage; Untersuchungshaftrisiko.
- - **Gelb:** Beweislage uneindeutig; Strafrahmen mittlere Bandbreite; Bewaehrungsfaehigkeit moeglich.
+ - **Gelb:** Beweislage uneindeutig; Strafrahmen mittlere Bandbreite; Bewaehrungsfaehigkeit möglich.
  - **Gruen:** Einstellung absehbar; Tat geringfuegig; Erfolg dokumentiert (TOA, Wiedergutmachung).
 - **Gegenargumente staendiger Praxis:**
- - "Tatzeuge eindeutig" -> Aussagepsychologische Pruefung; Erinnerungsverlust; Beeinflussung.
+ - "Tatzeuge eindeutig" -> Aussagepsychologische Prüfung; Erinnerungsverlust; Beeinflussung.
  - "Gestaendnis am Tatort" -> Schweigerecht § 136 StPO; Belehrungsmangel; Beweisverwertungsverbot.
  - "DNA / Fingerabdruck" -> Untersuchung Probekette / Asservatenhandhabung; Sekundärtransfer.
  - "Bestaetigte Identitaet" -> Lichtbildvergleich; Aehnlichkeitsfehler bei Zwillingen / Familien.

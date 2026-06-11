@@ -3,7 +3,7 @@ name: nda-clean-team-protokoll
 description: "NDA- und Clean-Team-Protokoll für Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin: NDA- und Clean-Team-Protokoll für Bieterprozesse: prueft Vertraulichkeit, kartellr..."
 ---
 
-# NDA- und Clean-Team-Protokoll für Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin.
+# NDA- und Clean-Team-Protokoll für Bieterprozesse: prüft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "NDA- und Clean-Team-Protokoll für Bieterprozesse: prueft Vertraul
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** NDA- und Clean-Team-Protokoll für Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin.
+**Fokus:** NDA- und Clean-Team-Protokoll für Bieterprozesse: prüft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin.
 
 ### NDA Clean Team Protokoll
 
@@ -47,9 +47,9 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 
 | Karte/Spalte | Inhalt | Status | Owner | Quelle | Naechster Schritt |
 | --- | --- | --- | --- | --- | --- |
-| Issue | Konkretes Thema oder Dokument | offen / in Pruefung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
+| Issue | Konkretes Thema oder Dokument | offen / in Prüfung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
 
-Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
+Für Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
 - Kurzbild für Partner oder Mandant.
@@ -59,7 +59,7 @@ Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Bef
 - Offene Punkte mit genauem Nachforderungswortlaut.
 
 ## Quality Gate
-Vor Ausgabe immer pruefen:
+Vor Ausgabe immer prüfen:
 
 - Ist die Partei-Perspektive klar?
 - Sind alle Fristen und Vollzugsrisiken markiert?

@@ -27,7 +27,7 @@ Klaere vor Erstellung der Einladung:
 
 1. **Ordentliche oder ausserordentliche GV?** Ordentliche: jaehrliche Pflichtversammlung (§ 42a GmbHG); ausserordentliche: anlassbezogen.
 2. **Wer ist einberufungsberechtigt?** GF (§ 49 I GmbHG); Gesellschafter mit ≥ 10 % (§ 50 GmbHG); sonst: Amtsgericht anrufen.
-3. **Welche Fristen gelten?** Gesetzlich: 1 Woche (§ 51 I GmbHG); Satzungsverlaengerung pruefen.
+3. **Welche Fristen gelten?** Gesetzlich: 1 Woche (§ 51 I GmbHG); Satzungsverlaengerung prüfen.
 4. **Elektronischer Versand zugelassen?** Nur wenn Satzung das vorsieht (§ 51 II GmbHG).
 5. **Streitige Versammlung erwartet?** Notar hinzuziehen; eingeschriebener Brief mit Rueckschein.
 6. **Auslaendische Gesellschafter?** Bilinguale Einladung; § 5 BeurkG für Beurkundungen.
@@ -51,7 +51,7 @@ Klaere vor Erstellung der Einladung:
 
 | Schritt | Pruefpunkt | Norm | Ergebnis |
 |---|---|---|---|
-| 1 | Alle Gesellschafter eingeladen? | § 51 GmbHG | Nein: Nichtigkeit der Beschluesse |
+| 1 | Alle Gesellschafter eingeladen? | § 51 GmbHG | Nein: Nichtigkeit der Beschlüsse |
 | 2 | Frist eingehalten? (≥ 1 Woche; Satzung beachten) | § 51 I GmbHG | Nein: Anfechtbarkeit |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 4 | Elektronischer Versand satzungskonform? | § 51 II GmbHG | Nein: Anfechtbarkeit |
@@ -64,10 +64,10 @@ Klaere vor Erstellung der Einladung:
 2. **Tagesordnung entwerfen:** Jeden Beschluss konkret benennen; keine Generalklauseln.
 3. **Beschluss-Vorlagen formulieren:** Klarer Beschlusstext; bei Satzungsaenderung: neuer Wortlaut als Anlage.
 4. **Anlagen zusammenstellen:** Jahresabschluss (ordentliche GV), Satzungsaenderungs-Entwurf, Berichte.
-5. **Versand:** Einschreiben mit Rueckschein an alle Gesellschafter; bei elektronischem Versand: Satzung pruefen.
+5. **Versand:** Einschreiben mit Rueckschein an alle Gesellschafter; bei elektronischem Versand: Satzung prüfen.
 6. **Frist-Dokumentation:** Versanddatum notieren; Zustellungsfiktion (3. Tag nach Aufgabe) rechnen.
-7. **Vor der Versammlung:** Beschlussfaehigkeit pruefen; Quorum in Satzung nachschlagen.
-8. **Waehrend der Versammlung:** Versammlungsleiter waehlen; Beschlussfaehigkeit protokollieren; Beschluesse klar formulieren.
+7. **Vor der Versammlung:** Beschlussfaehigkeit prüfen; Quorum in Satzung nachschlagen.
+8. **Waehrend der Versammlung:** Versammlungsleiter waehlen; Beschlussfaehigkeit protokollieren; Beschlüsse klar formulieren.
 
 ## Output-Template: Ordentliche GV-Einladung
 
@@ -160,7 +160,7 @@ Anlage: [RELEVANTE DOKUMENTE]
 ## Rote Schwellen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Vage Tagesordnung für wichtige Beschluesse: Anfechtbarkeit (OLG Muenchen 2022)
+- Vage Tagesordnung für wichtige Beschlüsse: Anfechtbarkeit (OLG Muenchen 2022)
 - Elektronischer Versand ohne Satzungs-Ermaechtigung: Anfechtbarkeit (§ 51 II GmbHG)
 
 ## Quellen und Vertiefung

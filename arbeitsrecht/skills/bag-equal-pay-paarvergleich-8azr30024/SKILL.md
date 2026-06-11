@@ -32,9 +32,9 @@ Dieser Skill ist ein Live-Research-für Equal-Pay-Fälle mit Paarvergleich. Er d
 
 ## Leitentscheidung
 
-- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Paarvergleich bei Entgeltdiskriminierung; Vorinstanz LAG Baden-Württemberg). Tragende Aussage: Es genügt, dass die Klägerin substantiiert darlegt, dass ein einzelner Kollege des anderen Geschlechts für gleiche oder gleichwertige Arbeit eine hoehere Verguetung erhaelt, um die Vermutung der geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) auszuloesen; auf Mediane oder Vergleichsgruppengroessen kommt es nicht an. Selbst der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
+- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Paarvergleich bei Entgeltdiskriminierung; Vorinstanz LAG Baden-Württemberg). Tragende Aussage: Es genügt, dass die Klägerin substantiiert darlegt, dass ein einzelner Kollege des anderen Geschlechts für gleiche oder gleichwertige Arbeit eine hoehere Vergütung erhaelt, um die Vermutung der geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) auszuloesen; auf Mediane oder Vergleichsgruppengroessen kommt es nicht an. Selbst der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
 - Offene Quelle: dejure.org, Vernetzung BAG 23.10.2025 - 8 AZR 300/24; Pressemitteilung BAG (Entscheidungen Online).
-- Status: Volltextveroeffentlichung gemaess Aussagen Drittquellen noch ausstehend - bei Schriftsatz vor Versand pruefen, ob Volltext inzwischen verfuegbar ist.
+- Status: Volltextveroeffentlichung gemäß Aussagen Drittquellen noch ausstehend - bei Schriftsatz vor Versand prüfen, ob Volltext inzwischen verfuegbar ist.
 
 ## Bedeutung für die Praxis
 
@@ -74,9 +74,9 @@ Der Anspruch richtet sich auf Entgeltnachzahlung für den Differenzbetrag (Parag
 
 Die Richtlinie (EU) 2023/970 des Europäischen Parlaments und des Rates vom 10. Mai 2023 zur Staerkung der Anwendung des Grundsatzes des gleichen Entgelts für Maenner und Frauen bei gleicher oder gleichwertiger Arbeit durch Entgelttransparenz und Durchsetzungsmechanismen (ABl. L 132 vom 17.05.2023, S. 21) ist bis zum 07. Juni 2026 in deutsches Recht umzusetzen. Nationale Umsetzung steht zum Stand Mai 2026 noch aus; ein Referentenentwurf zur Aenderung des EntgTranspG ist angekuendigt. Praxisrelevante Pflichten der Richtlinie:
 
-- Art. 5 — Vorvertragliche Entgelttransparenz: Bewerber haben Anspruch auf Information ueber das Einstiegsentgelt oder dessen Spanne; Verbot, nach der bisherigen Gehaltshistorie zu fragen.
-- Art. 7 — Auskunftsanspruch der Beschaeftigten ueber das eigene Entgelt und das durchschnittliche Entgelt nach Geschlecht für gleiche oder gleichwertige Arbeit; Antwort binnen zwei Monaten.
-- Art. 9 — Berichtspflicht des Arbeitgebers ueber das geschlechtsspezifische Entgeltgefaelle: Arbeitgeber ab 250 Beschaeftigten jaehrlich, ab 150 alle drei Jahre, ab 100 alle drei Jahre (nach Uebergangsfristen).
+- Art. 5 — Vorvertragliche Entgelttransparenz: Bewerber haben Anspruch auf Information über das Einstiegsentgelt oder dessen Spanne; Verbot, nach der bisherigen Gehaltshistorie zu fragen.
+- Art. 7 — Auskunftsanspruch der Beschaeftigten über das eigene Entgelt und das durchschnittliche Entgelt nach Geschlecht für gleiche oder gleichwertige Arbeit; Antwort binnen zwei Monaten.
+- Art. 9 — Berichtspflicht des Arbeitgebers über das geschlechtsspezifische Entgeltgefaelle: Arbeitgeber ab 250 Beschaeftigten jaehrlich, ab 150 alle drei Jahre, ab 100 alle drei Jahre (nach Uebergangsfristen).
 - Art. 10 — Gemeinsame Entgeltbewertung mit Arbeitnehmervertretung, wenn das Entgeltgefaelle bei einer Arbeitnehmerkategorie mindestens fuenf Prozent betraegt und nicht durch geschlechtsneutrale Faktoren erklaerbar ist.
 - Art. 16 — Schadensersatz ohne Obergrenze; volle Wiedergutmachung einschliesslich entgangenem Entgelt, Boni und Sachleistungen.
 - Art. 18 — Beweislastumkehr zu Lasten des Arbeitgebers, sobald dieser Transparenzpflichten verletzt hat.

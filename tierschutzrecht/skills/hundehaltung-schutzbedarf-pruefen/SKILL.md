@@ -3,7 +3,7 @@ name: hundehaltung-schutzbedarf-pruefen
 description: "Hundehaltung: Schutzbedarf prüfen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Hundehaltung Schutzbedarf Pruefen
+# Hundehaltung Schutzbedarf Prüfen
 
 ## Arbeitsweg
 

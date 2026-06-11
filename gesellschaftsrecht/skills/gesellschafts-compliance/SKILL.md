@@ -159,11 +159,11 @@ Gilt für alle AG (keine Größenklassenausnahme). GmbH: Prüfungspflicht ab mit
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Compliance-Programm initialisierten oder pruefen | Compliance-Schema nach Checkliste; Template unten |
+| Standard — Compliance-Programm initialisierten oder prüfen | Compliance-Schema nach Checkliste; Template unten |
 | Variante A — Kleines Unternehmen kein Budget für umfangreiches Programm | Minimalanforderungen-Compliance-Set statt Vollprogramm |
 | Variante B — Branchenspezifische Anforderungen GwG DSGVO | Branchen-spezifisches Compliance-Modul einsetzen |
 | Variante C — Bereits Ermittlungsverfahren laeuft | Compliance-Untersuchung als Verteidigung; Kooperation mit Behörden |
@@ -251,7 +251,7 @@ Mit freundlichen Grüßen
 [Kanzlei / Name]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -530,9 +530,9 @@ Status: [AKTUELL / AENDERUNG ERFORDERLICH bis TT.MM.JJJJ]
 ## Rote Schwellen
 
 - **Bilanzpublizitaet § 325 HGB > 12 Monate ueberfaellig** — Ordnungsgeldverfahren BfJ laeuft oder droht (§ 335 HGB: bis 25.000 EUR je Verstoß); sofort Jahresabschluss erstellen und einreichen.
-- **Gesellschafterliste § 40 GmbHG nach Abtretung > 3 Wochen nicht eingereicht** — gutglaeuber Erwerb durch Dritte moeglich (§ 16 Abs. 3 GmbHG); Notar sofort beauftragen.
+- **Gesellschafterliste § 40 GmbHG nach Abtretung > 3 Wochen nicht eingereicht** — gutglaeuber Erwerb durch Dritte möglich (§ 16 Abs. 3 GmbHG); Notar sofort beauftragen.
 - **Transparenzregister-Eintrag nach Beteiligungsaenderung > 2 Wochen nicht aktualisiert** — Bußgeld bis 1.000.000 EUR (§ 56 Abs. 1 GwG).
-- **Groessenklassenwechsel zur grossen Kapitalgesellschaft nicht erkannt** — Prüfungspflicht § 316 HGB gilt ab zweitem Jahr in Folge (§ 267 Abs. 4 HGB); Prüfungsauftrag erteilen.
+- **Groessenklassenwechsel zur großen Kapitalgesellschaft nicht erkannt** — Prüfungspflicht § 316 HGB gilt ab zweitem Jahr in Folge (§ 267 Abs. 4 HGB); Prüfungsauftrag erteilen.
 
 ## Anschluss-Skills
 

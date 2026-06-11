@@ -22,7 +22,7 @@ Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als 
 1. **Welche Beamten sind als Zeugen geladen?** — Messbeamter, Beobachtungsbeamter (bei Rotlicht/Handy), Anhaltebeamter.
 2. **Haben die Beamten ein Protokoll gefuehrt?** — Datum, Uhrzeit, Messort, Geraet, Bemerkungen.
 3. **Gibt es Inkonsistenzen zwischen Protokoll und zu erwartender HV-Aussage?** — Vermeintliche Erinnerung vs. Protokoll-Wiedergabe.
-4. **Sind mehrere Beamte taetig geworden?** — Arbeitsteilung: Messbeamter vs. Anhaltebeamter vs. Schreiber.
+4. **Sind mehrere Beamte tätig geworden?** — Arbeitsteilung: Messbeamter vs. Anhaltebeamter vs. Schreiber.
 5. **Lag Routine-Masse an OWi-Faellen vor?** — Massenhaftes Aufschreiben von OWi-Verfahren senkt individuelle Erinnerungsqualitaet.
 
 ## Zentrale Normen
@@ -41,17 +41,17 @@ Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als 
 
 ### Einstiegsfragen (neutral)
 - "Wann und wo haben Sie den Messvorgang durchgefuehrt?"
-- "Koennen Sie sich an diesen konkreten Fall erinnern, oder lesen Sie aus dem Protokoll?"
+- "Können Sie sich an diesen konkreten Fall erinnern, oder lesen Sie aus dem Protokoll?"
 - "Wie viele Messungen haben Sie an diesem Tag durchgefuehrt?"
 
-### Vertiefungsfragen (Erinnerung pruefen)
+### Vertiefungsfragen (Erinnerung prüfen)
 - "Beschreiben Sie bitte das Fahrzeug des Betroffenen ohne in Ihre Unterlagen zu schauen."
-- "Koennen Sie die Kleidung oder das Aussehen des Fahrers beschreiben?"
+- "Können Sie die Kleidung oder das Aussehen des Fahrers beschreiben?"
 - "War das Messfoto klar genug um den Fahrer eindeutig zu identifizieren?"
 
 ### Technik-Fragen (Messverfahren)
 - "Haben Sie eine Einweisung in das Messgeraet [Modell] erhalten?"
-- "Koennen Sie mir den genauen Standort der Messanlage auf einer Karte zeigen?"
+- "Können Sie mir den genauen Standort der Messanlage auf einer Karte zeigen?"
 - "Wurden vor und nach der Messung Kontrollmessungen durchgefuehrt?"
 
 ### Vorhalt-Fragen (Inkonsistenz)
@@ -69,5 +69,5 @@ Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als 
 
 - Keine Fragen stellen, deren Antwort unbekannt und schaedlich sein koennte.
 - Vorhalt nur mit konkreter Fundstelle in der Akte.
-- Polizeibeamten haben grundsaetzlich nicht mehr Glaubwuerdigkeit als andere Zeugen — aber das ist in der HV oft zu betonen.
+- Polizeibeamten haben grundsätzlich nicht mehr Glaubwuerdigkeit als andere Zeugen — aber das ist in der HV oft zu betonen.
 - Anwaltliche Endkontrolle bei Frageliste vor HV.

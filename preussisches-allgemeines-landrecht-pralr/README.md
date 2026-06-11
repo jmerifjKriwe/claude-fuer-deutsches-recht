@@ -20,9 +20,9 @@ Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in
 
 | Vorlage | Markdown | ODT |
 | --- | --- | --- |
-| Kauf Contract Ueber Ein Koenigliches Rittergutsgrundstueck Im Stil Des Alr | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/preussisches-allgemeines-landrecht-pralr/kauf-contract-ueber-ein-koenigliches-rittergutsgrundstueck-im-stil-des-alr.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/preussisches-allgemeines-landrecht-pralr/kauf-contract-ueber-ein-koenigliches-rittergutsgrundstueck-im-stil-des-alr.odt) |
+| Kauf Contract Über Ein Koenigliches Rittergutsgrundstueck Im Stil Des Alr | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/preussisches-allgemeines-landrecht-pralr/kauf-contract-ueber-ein-koenigliches-rittergutsgrundstueck-im-stil-des-alr.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/preussisches-allgemeines-landrecht-pralr/kauf-contract-ueber-ein-koenigliches-rittergutsgrundstueck-im-stil-des-alr.odt) |
 
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich pruefen und an konkreten Fall anpassen.*
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 
@@ -249,8 +249,8 @@ Automatisch generierte Komplett-Liste aller 199 Skills in diesem Plugin. Beschre
 | `sklavenrecht-alr-ii-5-196-197` | Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 196 ff. zur Nichtanerkennung der Sklaverei in Preussen. Skill behandelt den Wortlaut der Schluesselparagraphen die Wirkung Sklavenstatus bei Grenzuebertritt zu enden die Frage... |
 | `sklavenrecht-rechtsvergleich` | Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Frankreich Code Noir 1685/1716. Skill arbeitet die drei wichtigsten europaeischen Linien aus den Wirkungsmechanismus (sofortige Befreiung vs. Fristenkonstrukt) und... |
 | `sklavenrecht-rechtsvergleich-somerset-code-noir` | Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Frankreich Code Noir 1685/1716. Skill arbeitet die drei wichtigsten europaeischen Linien aus den Wirkungsmechanismus (sofortige Befreiung vs. Fristenkonstrukt) und... |
-| `sklaverei-aufhebung-edikte-1807` | Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR ueber das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die... |
-| `sklaverei-aufhebung-und-edikte-1807-1857` | Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR ueber das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die... |
+| `sklaverei-aufhebung-edikte-1807` | Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR über das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die... |
+| `sklaverei-aufhebung-und-edikte-1807-1857` | Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR über das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die... |
 | `staatshaftung-alr-rechtsstaat` | Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die Staatshaftungsansaetze in der Einleitung des ALR die Stein-Hardenbergsche Reformphase und die spaetere Reichshaftung. Liefert Quellenmatrix. |
 | `staatshaftung-aufopferung` | PrALR: Einleitung §§ 74 und 75, Aufopferung, enteignender/enteignungsgleicher Eingriff und heutige Dogmatik trennen. |
 | `staatshaftung-im-alr-und-rechtsstaat` | Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die Staatshaftungsansaetze in der Einleitung des ALR die Stein-Hardenbergsche Reformphase und die spaetere Reichshaftung. Liefert Quellenmatrix: prüft konkret die... |

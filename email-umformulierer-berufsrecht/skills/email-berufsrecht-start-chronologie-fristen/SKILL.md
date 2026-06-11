@@ -122,7 +122,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `kompetenz-zweifel-respektvoll` | Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe… |
 | `konfliktdeeskalation-formulierungen` | Eskalierte oder hitzige Korrespondenz deeskalieren und konstruktive Kommunikationsbasis herstellen. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Eskalationsniveau Interessenidentifikation deeskalierende… |
 | `kooperativer-abschluss` | E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz… |
-| `mehrsprachige-umformulierung` | Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit… |
+| `mehrsprachige-umformulierung` | Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Äquivalenz der Rechtsbegriffe Sachlichkeit… |
 | `notare-bnotk-modus` | Korrespondenz von Notaren und Notarinnen auf notarrechtliche Besonderheiten und BNotK-Vorgaben anpassen. §§ 14 17 BNotO § 26 BRAO analog. Prüfraster: neutrale Beurkundsrolle Unparteilichkeit Gebotes zur Unabhängigkeit… |
 | `persönlichen-angriff-entschaerfen` | Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen… |
 | `sachlichkeitsgebot-anwendung` | Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden und Verbesserungen vornehmen. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: unsachliche Formulierungen Emotionalisierung Abwertungen… |
@@ -146,10 +146,10 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Sachlichkeitsgebot (§ 43a BRAO / § 26 BORA)** — Anwaelte muessen sachlich formulieren und unwahre Tatsachenbehauptungen oder herabwuerdigende Aeusserungen unterlassen.
+- **Sachlichkeitsgebot (§ 43a BRAO / § 26 BORA)** — Anwaelte müssen sachlich formulieren und unwahre Tatsachenbehauptungen oder herabwuerdigende Aeusserungen unterlassen.
 - **Kollegialitaetsgebot (§ 43a Abs. 3 BRAO / § 26 BORA)** — Im Verkehr mit anderen Anwaelten ist gegenseitige Achtung und fairer Umgang gefordert.
 - **Emotionale Trigger** — Woerter oder Formulierungen, die beim Empfaenger negative Emotionen ausloesen und die Kommunikation eskalieren.
-- **Deeskalation** — Kommunikative Massnahmen, um aus einer eskalierten Korrespondenz konstruktiv herauszufinden.
+- **Deeskalation** — Kommunikative Maßnahmen, um aus einer eskalierten Korrespondenz konstruktiv herauszufinden.
 - **BORA** — Berufsordnung der Rechtsanwaelte; konkretisiert die Berufspflichten aus § 43a BRAO.
 - **BNotO** — Bundesnotarordnung; berufsrechtliche Grundlage für Notare, mit eigenen Sachlichkeits- und Unabhaengigkeitspflichten.
 - **StBerG** — Steuerberatungsgesetz; regelt Berufspflichten der Steuerberater, u.a. § 57 StBerG Allgemeine Berufspflichten.
@@ -161,7 +161,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - §§ 6 ff. BORA — Allgemeine Berufspflichten
 - § 14 BNotO — Allgemeine Amts- und Berufspflichten der Notare
 - § 57 StBerG — Allgemeine Berufspflichten der Steuerberater
-- § 186 StGB — Beleidigung (grenzwertige Formulierungen koennen strafrechtlich relevant sein)
+- § 186 StGB — Beleidigung (grenzwertige Formulierungen können strafrechtlich relevant sein)
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
@@ -169,15 +169,15 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 2. Eingangsanalyse durchfuehren: Tonalitaet, emotionale Trigger und Konfliktpotenzial bestimmen.
 3. Berufsrechtlichen Kontext festlegen: BRAO/BORA, BNotO oder StBerG; Sprache der Korrespondenz?
 4. Passenden Skill auswaehlen (siehe Skill-Tour) oder Gesamt-starten.
-5. Vorher-Nachher-Vergleich pruefen und Aenderungen erklaeren.
+5. Vorher-Nachher-Vergleich prüfen und Aenderungen erklaeren.
 
 ## Skill-Tour (was gibt es hier?)
 
 - `email-eingangsanalyse` — Eingehende E-Mail analysieren: Tonalitaet, Konfliktpotenzial und Handlungsbedarf bestimmen.
-- `brao-konformitaetspruefung` — E-Mail auf BRAO-Konformitaet (§§ 43 43a 43b) pruefen vor Versand.
-- `bora-konformitaetspruefung` — E-Mail auf BORA-Konformitaet (§§ 6 ff. 26 BORA) pruefen vor Versand.
+- `brao-konformitaetspruefung` — E-Mail auf BRAO-Konformitaet (§§ 43 43a 43b) prüfen vor Versand.
+- `bora-konformitaetspruefung` — E-Mail auf BORA-Konformitaet (§§ 6 ff. 26 BORA) prüfen vor Versand.
 - `sachlichkeitsgebot-anwendung` — Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden.
-- `kollegialitaetsgebot-pruefung` — Kollegialitaetsgebot im Anwaltsverkehr pruefen und Formulierungen anpassen.
+- `kollegialitaetsgebot-pruefung` — Kollegialitaetsgebot im Anwaltsverkehr prüfen und Formulierungen anpassen.
 - `emotionale-trigger-katalog` — Trigger-Woerter und -Phrasen identifizieren und neutralisieren.
 - `ironie-und-sarkasmus-eliminieren` — Ironie oder Sarkasmus erkennen und berufsrechtlich einwandfrei ersetzen.
 - `persönlichen-angriff-entschaerfen` — Persoenliche Angriffe oder Beleidigungen durch sachliche Formulierungen ersetzen.
@@ -187,7 +187,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - `frist-und-mahnung-hoeflich` — Fristsetzungen und Mahnungen hoeflich und dennoch rechtswirksam formulieren.
 - `klare-bitte-formulieren` — Unklare oder versteckte Forderungen klar und direkt ausformulieren.
 - `kooperativer-abschluss` — Schreiben mit kooperativem und prozessfoerderndem Abschluss versehen.
-- `anrede-und-grussformeln` — Anrede und Grussformeln auf berufsrechtliche und stilistische Anforderungen pruefen.
+- `anrede-und-grussformeln` — Anrede und Grussformeln auf berufsrechtliche und stilistische Anforderungen prüfen.
 - `email-berufsrecht-berufliche-korrespondenz` — Allgemeine berufliche E-Mail-Korrespondenz professionell und berufsrechtskonform umformulieren.
 - `notare-bnotk-modus` — Notar-Korrespondenz auf BNotO- und BNotK-Vorgaben anpassen.
 - `steuerberater-stberg-modus` — Steuerberater-Korrespondenz auf StBerG-Konformitaet anpassen.
@@ -197,17 +197,17 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 ## Worauf besonders achten
 
 - Das Sachlichkeitsgebot verbietet auch verdeckt herabwuerdigende Formulierungen; nicht nur explizite Beleidigungen sind problematisch.
-- Ironie und Sarkasmus sind in Anwalts-Schreiben immer berufsrechtlich riskant, da sie leicht als Beleidigung ausgelegt werden koennen.
-- Bei Fristsetzungen muss die Frist klar und bestimmt sein (§ 286 BGB); Weichspueler-Formulierungen koennen Rechtswirkung vereiteln.
+- Ironie und Sarkasmus sind in Anwalts-Schreiben immer berufsrechtlich riskant, da sie leicht als Beleidigung ausgelegt werden können.
+- Bei Fristsetzungen muss die Frist klar und bestimmt sein (§ 286 BGB); Weichspueler-Formulierungen können Rechtswirkung vereiteln.
 - Im Notar-Modus gelten besondere Unabhaengigkeitspflichten: Notar darf nicht Partei ergreifen; Sprache muss dies widerspiegeln.
-- Mehrsprachige Umformulierungen muessen nicht nur sprachlich, sondern auch standesrechtlich der Zielsprache entsprechen (z.B. englisches Solicitor-Standesrecht).
+- Mehrsprachige Umformulierungen müssen nicht nur sprachlich, sondern auch standesrechtlich der Zielsprache entsprechen (z.B. englisches Solicitor-Standesrecht).
 
 ## Typische Fehler
 
 - Entschaerfung macht Schreiben rechtlich unwirksam: Frist oder Forderung wird so weich formuliert, dass keine Rechtsfolge mehr erkennbar ist.
 - Nur oberflaeechliche Aenderungen: Emotionaler Kern bleibt im Text, nur Schluesselwoerter werden ausgetauscht.
-- Sachverhalt wird beim Umformulieren verfaelscht: Neutrale Darstellung darf inhaltliche Aussage nicht aendern.
-- BORA-Pruefung ohne Kontext: Kollegialitaetsgebot gilt nur im Anwaltsverkehr; in Mandanten-Kommunikation gelten andere Masssstaebe.
+- Sachverhalt wird beim Umformulieren verfaelscht: Neutrale Darstellung darf inhaltliche Aussage nicht ändern.
+- BORA-Prüfung ohne Kontext: Kollegialitaetsgebot gilt nur im Anwaltsverkehr; in Mandanten-Kommunikation gelten andere Masssstaebe.
 - Eigentor durch uebertriebene Hoeflichkeit: Zu konziliante Formulierung im Mahnschreiben kann als Zustimmung zur Verzoegerung ausgelegt werden.
 
 ## Quellen und Aktualitaet

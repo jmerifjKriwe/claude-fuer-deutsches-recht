@@ -3,7 +3,7 @@ name: verhaeltnismaessigkeit-sicht-zeitwerttabelle
 description: "Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. M"
 ---
 
-# NKR-Verhaeltnismaessigkeit aus NKR-Sicht
+# NKR-Verhältnismäßigkeit aus NKR-Sicht
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefu
 
 ## Worum geht es konkret
 
-Verhaeltnismaessigkeit im verfassungsrechtlichen Sinne prueft das BMJ und ggf. das BVerfG. Der NKR prueft Verhaeltnismaessigkeit nur in der **methodischen Variante** des Standardkostenmodells: ist der Erfuellungsaufwand für das adressierte Problem **angemessen**?
+Verhältnismäßigkeit im verfassungsrechtlichen Sinne prüft das BMJ und ggf. das BVerfG. Der NKR prüft Verhältnismäßigkeit nur in der **methodischen Variante** des Standardkostenmodells: ist der Erfuellungsaufwand für das adressierte Problem **angemessen**?
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -28,9 +28,9 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 
 ## Rechtlicher und methodischer Rahmen
 
-- **Art. 20 Abs. 3 GG, Rechtsstaatsprinzip** — verfassungsrechtliche Verhaeltnismaessigkeit (BMJ / BVerfG)
+- **Art. 20 Abs. 3 GG, Rechtsstaatsprinzip** — verfassungsrechtliche Verhältnismäßigkeit (BMJ / BVerfG)
 - **§ 44 GGO** — Gesetzesfolgenabschaetzung (auch Verhaeltnismaessigkeitsdimension)
-- **NKRG** § 4 — methodische Pruefung
+- **NKRG** § 4 — methodische Prüfung
 - **Leitfaden BMI / NKR** — Verhaeltnismaessigkeitsmodul (Eingriffstiefe vs. Aufwand)
 
 ## Pruefraster / Schritt für Schritt
@@ -61,7 +61,7 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 
 ## Trade-off-Matrix
 
-| Aspekt | Verhaeltnismaessigkeit-Plus | Verhaeltnismaessigkeit-Minus |
+| Aspekt | Verhältnismäßigkeit-Plus | Verhältnismäßigkeit-Minus |
 |---|---|---|
 | Adressatenkreis | risikobasiert | pauschal alle |
 | Schwellenwerte | nach Groesse / Risiko | keine |
@@ -75,8 +75,8 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 - "Der NKR haelt das Vorhaben dem Grunde nach für geeignet, das adressierte Problem zu loesen."
 - "Der NKR weist darauf hin, dass die vorgesehene Frequenz von [monatlich / quartalsweise] in einem unverhaeltnismäßigen Verhaeltnis zum erwarteten Nutzen steht. Eine jaehrliche [Verpflichtung] erscheint angemessen."
 - "Der NKR empfiehlt, einen Schwellenwert zur Entlastung von Kleinstunternehmen einzufuehren."
-- "Aus Sicht des NKR ist die Eingriffstiefe der Regelung angemessen; die methodische Bewertung der Verhaeltnismaessigkeit im verfassungsrechtlichen Sinne obliegt der zuständigen Ressortpruefung."
-- "Der NKR sieht die Sanktion in Hoehe von [X EUR] in einem Spannungsverhaeltnis zur Verhaeltnismaessigkeit der Pflicht; er empfiehlt eine abgestufte Sanktionsregelung."
+- "Aus Sicht des NKR ist die Eingriffstiefe der Regelung angemessen; die methodische Bewertung der Verhältnismäßigkeit im verfassungsrechtlichen Sinne obliegt der zuständigen Ressortpruefung."
+- "Der NKR sieht die Sanktion in Höhe von [X EUR] in einem Spannungsverhaeltnis zur Verhältnismäßigkeit der Pflicht; er empfiehlt eine abgestufte Sanktionsregelung."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
@@ -93,4 +93,4 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

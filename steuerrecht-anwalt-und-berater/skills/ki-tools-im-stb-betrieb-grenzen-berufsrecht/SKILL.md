@@ -65,15 +65,15 @@ KI-Tools wie ChatGPT, Claude, Microsoft 365 Copilot oder DATEV-KI veraendern auc
 
 | Tool | Verwendung | Mandantendaten? | AVV |
 |---|---|---|---|
-| ChatGPT (OpenAI) | Recherche, Text | Achtung | Pruefen |
-| Claude (Anthropic) | Recherche, Text | Achtung | Pruefen |
+| ChatGPT (OpenAI) | Recherche, Text | Achtung | Prüfen |
+| Claude (Anthropic) | Recherche, Text | Achtung | Prüfen |
 | Microsoft 365 Copilot | Office | Ja | Ja |
 | DATEV-KI | Lohn, Buchhaltung | Ja | Ja (DATEV-AVV) |
-| Whisper / Speech-to-Text | Diktat | Achtung | Pruefen |
+| Whisper / Speech-to-Text | Diktat | Achtung | Prüfen |
 
-### Phase 2 — Berufsverschwiegenheits-Pruefung
+### Phase 2 — Berufsverschwiegenheits-Prüfung
 
-- § 57 StBerG: Mandantendaten duerfen nicht weitergegeben werden.
+- § 57 StBerG: Mandantendaten dürfen nicht weitergegeben werden.
 - Bei KI-Tool ohne Berufsgeheimnistraeger-Klausel: Mandantendaten anonymisieren.
 - Spezielle "Business-Versionen" mit kein Trainingsversprechen sicherer.
 
@@ -90,9 +90,9 @@ StB-typische KI-Nutzung (Recherche, Textgenerierung, Buchungsvorschlaege) ist re
 
 ### Phase 4 — Sachbearbeiter-Schulung
 
-- Welche Daten duerfen NICHT in KI?
+- Welche Daten dürfen NICHT in KI?
 - Mandantendaten, Personenbezogene Daten anonymisieren.
-- Output kritisch pruefen (Halluzinationen).
+- Output kritisch prüfen (Halluzinationen).
 
 ### Phase 5 — Mandantenkommunikation
 
@@ -101,18 +101,18 @@ StB-typische KI-Nutzung (Recherche, Textgenerierung, Buchungsvorschlaege) ist re
 
 ### Phase 6 — Output-Verantwortung
 
-- KI-Output durch Sachbearbeiter pruefen.
+- KI-Output durch Sachbearbeiter prüfen.
 - Bei Halluzinationen: Falschberatungs-Risiko.
 - Bei rechtlichen Aspekten: § 5 RDG — KI darf nicht Rechtsberatung ersetzen.
 
 ## Strategie und Praxis-Tipps
 
-- KI ist Produktivitaetshebel für Routine-Texte, Recherche, Beleg-Klassifikation; sie ersetzt aber keine berufsrechtlich verantwortete Pruefung durch den Berufstraeger.
+- KI ist Produktivitaetshebel für Routine-Texte, Recherche, Beleg-Klassifikation; sie ersetzt aber keine berufsrechtlich verantwortete Prüfung durch den Berufstraeger.
 - Mandantendaten gelangen nur in KI-Loesungen mit nachweisbarem AVV, dokumentiertem Hosting (EU-Praeferenz) und schriftlicher Verschwiegenheitsverpflichtung nach § 203 Abs. 4 StGB i.V.m. § 62 StBerG (z.B. DATEV-KI, Microsoft 365 Copilot Enterprise mit EU Data Boundary).
-- Bei ChatGPT/Claude in Konsumfassung: Mandantendaten zwingend anonymisieren / pseudonymisieren; Trainings-Opt-Out aktivieren; bei Geschaeftskonten mit AVV (z.B. ChatGPT Enterprise, Claude for Work) sind die Anforderungen erfuellbar, jeweils Vertragsstand pruefen.
+- Bei ChatGPT/Claude in Konsumfassung: Mandantendaten zwingend anonymisieren / pseudonymisieren; Trainings-Opt-Out aktivieren; bei Geschaeftskonten mit AVV (z.B. ChatGPT Enterprise, Claude for Work) sind die Anforderungen erfuellbar, jeweils Vertragsstand prüfen.
 - Berufsverschwiegenheit ist strafrechtlich abgesichert (§ 203 StGB) — jeder Verstoss ist Offizialdelikt; zusaetzlich drohen DSGVO-Bussgelder bis 4 % Jahresumsatz.
-- KI-VO-Compliance: Bis 02.02.2025 verbotene Praktiken vermeiden; Schulung der Sachbearbeiter zur Output-Kontrolle (Halluzinationsrisiko); ab 02.08.2026 Pruefung der eingesetzten KI auf Hochrisiko-Einstufung.
-- Output-Verantwortung verbleibt beim Berufstraeger: jede inhaltliche Aussage ist vor Mandantenkommunikation durch den Berufstraeger zu pruefen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang).
+- KI-VO-Compliance: Bis 02.02.2025 verbotene Praktiken vermeiden; Schulung der Sachbearbeiter zur Output-Kontrolle (Halluzinationsrisiko); ab 02.08.2026 Prüfung der eingesetzten KI auf Hochrisiko-Einstufung.
+- Output-Verantwortung verbleibt beim Berufstraeger: jede inhaltliche Aussage ist vor Mandantenkommunikation durch den Berufstraeger zu prüfen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang).
 
 ## Quellen und Updates
 
@@ -124,6 +124,6 @@ Stand: 05/2026.
 - EU-KI-VO 2024/1689 (BGBl. EU L vom 12.07.2024).
 - RDG § 5.
 - BStBK-/DStV-Hinweise zur KI-Nutzung.
-- Hinweis: KI-VO Anwendungsstufen — verbotene Praktiken ab 02.02.2025, General Purpose AI ab 02.08.2025, Hochrisiko-KI-Pflichten im Wesentlichen ab 02.08.2026; delegierte Rechtsakte laufend ueber eur-lex.europa.eu abrufen.
+- Hinweis: KI-VO Anwendungsstufen — verbotene Praktiken ab 02.02.2025, General Purpose AI ab 02.08.2025, Hochrisiko-KI-Pflichten im Wesentlichen ab 02.08.2026; delegierte Rechtsakte laufend über eur-lex.europa.eu abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (Output-Verantwortungs-Satz ohne Marker neu formuliert; KI-VO-Anwendungsstufen mit konkreten Daten aus VO 2024/1689 belegt) -->

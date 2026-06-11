@@ -54,7 +54,7 @@ ALR I 1 normiert die natuerliche und juristische Person, Rechts- und Geschaeftsf
 
 ### Heutige Fortwirkung
 - BGB § 1 BGB hat ALR I 1 § 1 abgeloest. ALR ist insoweit reine Rechtsgeschichte.
-- Standes- und Adelsrecht: Art. 109 III 2 WRV in Verbindung mit Art. 123 GG haben den Adel als Standesvorrecht abgeschafft; Adelspraedikate gelten nur noch als Namensbestandteil. Praktisch noch relevant bei Streit ueber Adelsnamenfuehrung, Reichsadel vs. Briefadel.
+- Standes- und Adelsrecht: Art. 109 III 2 WRV in Verbindung mit Art. 123 GG haben den Adel als Standesvorrecht abgeschafft; Adelspraedikate gelten nur noch als Namensbestandteil. Praktisch noch relevant bei Streit über Adelsnamenfuehrung, Reichsadel vs. Briefadel.
 - Verschollenheitsregeln vollstaendig durch VerschG 1951 und BGB ueberlagert.
 
 ### Beruehmte Faelle / Personen

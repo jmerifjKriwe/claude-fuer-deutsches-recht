@@ -16,17 +16,17 @@ description: "Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV �
 ## Mandantenfall
 
 - Chinesischer Investor erwirbt 20 Prozent an deutschem Sicherheitstechnikunternehmen; Anmeldepflicht geprueft.
-- US-Private-Equity uebernimmt deutschen Hersteller von Halbleitern; sektorspezifische Pruefung.
-- Arabischer Staatsfonds kauft 15 Prozent an Energieversorger; KRITIS-Pruefung eingeleitet.
+- US-Private-Equity uebernimmt deutschen Hersteller von Halbleitern; sektorspezifische Prüfung.
+- Arabischer Staatsfonds kauft 15 Prozent an Energieversorger; KRITIS-Prüfung eingeleitet.
 
 ## Erste Schritte
 
 1. Erwerber und Zielunternehmen identifizieren; Drittstaatsbezug und Branche feststellen.
 2. Sektor des Zielunternehmens einordnen: KRITIS (Anhang A AWV) oder allgemeiner Sektor (Anhang B AWV).
-3. Anteilsschwelle pruefen: 10 % (KRITIS/kritische Technologien), 20 %, 25 %.
+3. Anteilsschwelle prüfen: 10 % (KRITIS/kritische Technologien), 20 %, 25 %.
 4. Anmeldepflicht oder freiwillige Anmeldung bestimmen; Vollzugsverbot beachten.
 5. Antrag beim BMWK-Referat 533 stellen; erforderliche Unterlagen zusammenstellen.
-6. Verfahrenszeitplan planen (3 Monate Pruefung, Verlaengerung moeglich).
+6. Verfahrenszeitplan planen (3 Monate Prüfung, Verlaengerung möglich).
 
 ## Rechtsrahmen
 
@@ -48,9 +48,9 @@ description: "Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV �
 ## Typische Fallstricke
 
 - Vollzugsverbot gilt ab Anmeldepflicht; Closing vor Freigabe ist bussgeldbewehrt.
-- Intrakonzernuebertragungen koennen Pruefpflicht ausloesen wenn Letzteigentuemer wechselt.
+- Intrakonzernuebertragungen können Pruefpflicht ausloesen wenn Letzteigentuemer wechselt.
 - Berechnung Anteilsschwelle muss alle Stimmrechte und wirtschaftliche Einflussmoeglichkeiten einschliessen.
-- BMWK-Pruefverfahren kann laenger als 3 Monate dauern; Verlaengerungen moeglich.
+- BMWK-Pruefverfahren kann laenger als 3 Monate dauern; Verlaengerungen möglich.
 
 ## Schnittstellen zu anderen Skills
 

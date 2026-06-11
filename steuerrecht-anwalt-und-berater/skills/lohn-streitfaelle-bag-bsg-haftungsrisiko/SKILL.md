@@ -23,7 +23,7 @@ Streitfaelle in der Lohnbuchhaltung haben oft zwei Streitlinien parallel: arbeit
 4. Welche Vertragstexte und tatsaechliche Ausgestaltung?
 5. Welche AN-Lebensumstaende (Familieneinbettung, Mehrfachbeschaeftigung)?
 6. Welcher Pruefzeitraum?
-7. Welche Hoehe Nachforderung?
+7. Welche Höhe Nachforderung?
 8. Welche Versicherungs-Deckung (BHV des StB)?
 
 ## Rechtlicher Rahmen
@@ -42,13 +42,13 @@ Streitfaelle in der Lohnbuchhaltung haben oft zwei Streitlinien parallel: arbeit
 
 **§ 67 StBerG** — Berufshaftpflicht.
 
-### Leitentscheidungen BAG (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
+### Leitentscheidungen BAG (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen)
 
 | Aktenzeichen | Leitsatz |
 |---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich |
 
-### Leitentscheidungen BSG (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
+### Leitentscheidungen BSG (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen)
 
 | Aktenzeichen | Leitsatz |
 |---|---|
@@ -67,7 +67,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | FA stellt nachtraeglich LSt-Pflicht fest | Finanzgericht | BFH-Linie |
 | GGF-Status | DRV-Statusfeststellung | BSG-Linie |
 
-### Phase 2 — Pruefung Gesamtbild
+### Phase 2 — Prüfung Gesamtbild
 
 - Eingliederung in den Betrieb (Direktionsrecht).
 - Weisungsgebundenheit (Zeit, Ort, Inhalt).
@@ -101,7 +101,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Saeumniszuschlaege.
 - Bei Vorsatz: § 266a StGB strafrechtlich.
 - StB-Haftungsrisiko (§ 280 BGB): wenn StB hatte Veranlassung der Klassifikation.
-- Berufshaftpflicht-Anmeldung pruefen.
+- Berufshaftpflicht-Anmeldung prüfen.
 
 ## Strategie und Praxis-Tipps
 
@@ -122,6 +122,6 @@ Stand: 05/2026.
 - ArbGG § 1; SGG § 51.
 - StBerG § 67.
 - StGB § 266a.
-- BAG- und BSG-Linien; aktuelle Entscheidungen in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.
+- BAG- und BSG-Linien; aktuelle Entscheidungen in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BAG 9 AZR 102/20 v. 01.12.2020 recherchiert), 3 ersetzt (Pruefhinweise ohne Marker) -->

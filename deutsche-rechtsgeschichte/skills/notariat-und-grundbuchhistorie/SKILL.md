@@ -30,7 +30,7 @@ Das Notariat hat mittelalterliche Wurzeln im kaiserlichen und paepstlichen Notar
 - **Notarkammern**: Standesorganisationen der Notare
 - **Deutsche Notarrechtliche Vereinigung**: Wissenschaftliche Aufarbeitung
 - **Joachim Gernhuber** (1921-2001): Privatrechtler, Beurkundungsrecht
-- **Justizministerien der Länder**: Aufsicht ueber das Notariat
+- **Justizministerien der Länder**: Aufsicht über das Notariat
 
 ## Typische Streitfragen / Forschungsfragen
 

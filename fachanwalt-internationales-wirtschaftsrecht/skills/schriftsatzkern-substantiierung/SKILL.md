@@ -8,7 +8,7 @@ description: "Substantiierter Schriftsatzkern für Klage mit CISG-/EuGVVO-Bezug,
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Internationales Wirtschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Internationales Wirtschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -44,7 +44,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit prüfen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -110,7 +110,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
-8. Vier-Augen-Pruefung durch Sozius oder Senior-Anwaeltin?
+8. Vier-Augen-Prüfung durch Sozius oder Senior-Anwaeltin?
 
 ## Rechtsprechungs-Werkzeugkasten
 
@@ -165,7 +165,7 @@ Typische Antraege in Internationales Wirtschafts- und Schiedsrecht (Klage mit CI
 
 - Form: "Beweis: Aussage der Zeugin Name, ladungsfaehige Anschrift, zum Beweisthema (konkret in einem Satz)."
 - Mehrere Zeuginnen zum gleichen Thema: Indiziengeruest staerken.
-- Keine Beweisermittlung ueber Zeugnis - das Beweisthema muss konkret sein.
+- Keine Beweisermittlung über Zeugnis - das Beweisthema muss konkret sein.
 
 ### Sachverstaendigenbeweis
 
@@ -191,14 +191,14 @@ Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegne
 
 - PDF/A-2 oder PDF/A-3, mit eingebetteten Schriften.
 - Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
-- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand ueber beA (sicherer Uebermittlungsweg).
+- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
 - Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
 - 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Aenderungen im Vollstreckungsbereich; in Internationales Wirtschafts- und Schiedsrecht ggf. spezifische ERV-Pflichten beachten.
 
 ## Schriftsatz-Stil
 
 - Aktiv, kurze Saetze, klare Subsumtion.
-- Keine Floskeln ("Die Klage ist zulaessig und begruendet" als Ueberschrift, aber dann substantiieren).
+- Keine Floskeln ("Die Klage ist zulässig und begruendet" als Ueberschrift, aber dann substantiieren).
 - Mandanten- und Beweismittel-Zitate woertlich, in Anfuehrungszeichen, mit Anlage-Verweis.
 - Keine Gefuehlsausbrueche - sachlich auch bei provokanter Gegenseite.
 
@@ -244,14 +244,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Bevor losgelegt wird, klaere:
 1. Welches Gericht ist zustandig — nationaler oder internationaler Gerichtsstand (EuGVVO, Schiedsklausel)?
 2. Welches materielle Recht gilt — CISG, ROM-I-Rechtswahl, nationale Kollisionsnormen?
-3. Liegt ein vollstreckbarer Titel aus dem Ausland vor — Pruefung § 328 ZPO bzw. Art. 45 EuGVVO?
+3. Liegt ein vollstreckbarer Titel aus dem Ausland vor — Prüfung § 328 ZPO bzw. Art. 45 EuGVVO?
 4. Ist die Klagefrist gewahrt — Verjährung nach CISG Art. 39 (2 Jahre ab Mangel), § 195 BGB, Sonderfristen?
 5. Welche Beweismittel sind verfugbar — Urkunden, Zeugen im Ausland (Hager Beweisaufnahmeubereinkommen)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -316,7 +316,7 @@ VI. BEWEISANGEBOTE
 [RECHTSANWAELTIN/RECHTSANWALT]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

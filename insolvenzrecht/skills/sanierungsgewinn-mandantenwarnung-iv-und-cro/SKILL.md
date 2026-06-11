@@ -53,9 +53,9 @@ Wenn die Fragen 1 und 4 beantwortet sind, beginnt der Brief.
 
 ## / Schritt für Schritt
 
-1. **Adressat klaeren.** IV/CRO/Schuldner — drei verschiedene Briefe in unterschiedlichen Tonfaellen.
+1. **Adressat klären.** IV/CRO/Schuldner — drei verschiedene Briefe in unterschiedlichen Tonfaellen.
 2. **Sachverhalts-Bezug einfuegen.** Welche konkrete Krisensituation? Welcher Plan-Stand?
-3. **Drei Kern-Punkte heraus arbeiten:** Verlustvortrag-Pruefung, Vier-Voraussetzungen-Dokumentation, Antrag Paragraph 3a EStG und Paragraph 7b GewStG.
+3. **Drei Kern-Punkte heraus arbeiten:** Verlustvortrag-Prüfung, Vier-Voraussetzungen-Dokumentation, Antrag Paragraph 3a EStG und Paragraph 7b GewStG.
 4. **Frist setzen.** Konkrete Frist für Rueckmeldung (typisch 14 Tage).
 5. **Honorarklarheit.** RVG-Hinweis (bei RA) oder StBVV (bei StB), bei Massehaftung Hinweis auf Paragraph 55 Absatz 1 Nr. 1 InsO.
 6. **Verteiler.** CC an alle steuerlich Beteiligten (StB Schuldner, ggf. eigener Mitarbeiter im Mandat).
@@ -180,5 +180,5 @@ Mit freundlichen Gruessen
 - Paragraph 60 InsO, Paragraph 55 InsO, `gesetze-im-internet.de/inso/`.
 - Paragraphen 69, 89 AO, `gesetze-im-internet.de/ao_1977/`.
 - Paragraph 130 OWiG, `gesetze-im-internet.de/owig_1968/__130.html`.
-- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung. Verifikation ueber `dejure.org`.
+- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung. Verifikation über `dejure.org`.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Stadien und Grossveranstaltun
 ## Spezialwissen
 
 Stadien und Grossveranstaltungsstaetten sind Sonderbauten nach MVStaettVO mit erhoehten Brandschutz- und Tragsicherheitsanforderungen.
-Die Bauueberwachung nach HOAI LPH 8 prueft Membrandach-Spannung, Stahltribuene-Schweissnaehte und Fluchtweg-Konzept.
+Die Bauueberwachung nach HOAI LPH 8 prüft Membrandach-Spannung, Stahltribuene-Schweissnaehte und Fluchtweg-Konzept.
 Fangtraegerkonstruktionen und Membranen erfordern Fadenspannungs-Messungen und Herstellerzertifikate.
 
 ## Bauwerk und Auftrag
@@ -27,7 +27,7 @@ Fangtraegerkonstruktionen und Membranen erfordern Fadenspannungs-Messungen und H
 
 ## Erste Schritte auf der Baustelle
 
-1. Statik-Pruefung Stahltribuene: Schweissnahtguete DIN EN ISO 5817 Klasse B, Schraubenverbindungen HR
+1. Statik-Prüfung Stahltribuene: Schweissnahtguete DIN EN ISO 5817 Klasse B, Schraubenverbindungen HR
 2. Membrandach Spannungsprotokoll: Fadenspannungsmessung je Feld nach Herstellervorgabe, Protokoll
 3. Brandschutz Versammlungsstaette: Fluchtwegebreite 1.2 m je 600 Personen nach MVStaettVO
 4. Tribueune-Entwasserung: Rinnen, Abfluss, Speier, Druckpruefung je Sektion

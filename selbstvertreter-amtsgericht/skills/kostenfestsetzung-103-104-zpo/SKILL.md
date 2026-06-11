@@ -7,7 +7,7 @@ description: "Kostenfestsetzung nach §§ 103 104 ZPO. Bei Erfolg im Verfahren I
 
 ## Worum geht es?
 
-Wenn Sie gewonnen haben, traegt die Gegenseite die Kosten (§ 91 ZPO). Aber: Das passiert nicht automatisch. Sie muessen die Kosten **festsetzen** lassen — Antrag an die Geschaeftsstelle. Mit dem Festsetzungs-Beschluss koennen Sie vollstrecken.
+Wenn Sie gewonnen haben, traegt die Gegenseite die Kosten (§ 91 ZPO). Aber: Das passiert nicht automatisch. Sie müssen die Kosten **festsetzen** lassen — Antrag an die Geschaeftsstelle. Mit dem Festsetzungs-Beschluss können Sie vollstrecken.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -36,7 +36,7 @@ Wenn Sie gewonnen haben, traegt die Gegenseite die Kosten (§ 91 ZPO). Aber: Das
 Sie brauchen ein Urteil (oder Vergleich), das die Kostenfolge regelt:
 
 - "Der Beklagte traegt die Kosten."
-- "Die Kosten werden quoteliert: Klaeger 30 %, Beklagter 70 %."
+- "Die Kosten werden quoteliert: Kläger 30 %, Beklagter 70 %."
 
 ### Schritt 2 — Was ist erstattungsfaehig?
 
@@ -102,11 +102,11 @@ Pro Kostenposition:
 
 ### Schritt 6 — Verfahren
 
-Geschaeftsstelle prueft den Antrag. Gegnerseite bekommt Gelegenheit zur Stellungnahme. Dann **Kostenfestsetzungs-Beschluss**.
+Geschaeftsstelle prüft den Antrag. Gegnerseite bekommt Gelegenheit zur Stellungnahme. Dann **Kostenfestsetzungs-Beschluss**.
 
 ### Schritt 7 — Vollstreckung des Beschlusses
 
-Mit dem Kostenfestsetzungs-Beschluss koennen Sie:
+Mit dem Kostenfestsetzungs-Beschluss können Sie:
 
 - Vollstreckungsklausel beantragen.
 - Vollstrecken (Skill `zwangsvollstreckung-querverweis-substitutionsagent`).
@@ -118,7 +118,7 @@ Mit dem Kostenfestsetzungs-Beschluss koennen Sie:
 - Sie meinen, eine Position falsch berechnet.
 - Mehr beantragt wurde, als zugesprochen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Belege aufbewahren** waehrend des Verfahrens.
 - **Selbstvertretung erhaelt weniger Kostenfestsetzung** als Anwalts-Mandate.

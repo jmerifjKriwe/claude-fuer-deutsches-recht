@@ -28,12 +28,12 @@ description: "Senatsschelte und obiter dicta in Strafurteilen und Revisionsentsc
 ## Pruefraster
 
 - **Tragend**: Kritik ist Bestandteil der Beweiswuerdigung oder der Strafzumessung. Beispiel: Gericht behandelt das Aussageverhalten des Beschuldigten als gewichtetes Indiz und begruendet das mit Verteidigerinstruktion.
-- **Obiter dictum**: beilaeufige Bemerkung ueber die Verteidigerfuehrung ohne Bezug zur tragenden Wuerdigung.
+- **Obiter dictum**: beilaeufige Bemerkung über die Verteidigerfuehrung ohne Bezug zur tragenden Wuerdigung.
 
 ## Revisionsstrategie
 
 - Wenn tragend: Ruege § 261 StPO (luckenhafte oder gegen Denkgesetze verstossende Beweiswuerdigung). Ggf § 338 Nr. 8 StPO bei Verfahrensfehler.
-- Wenn obiter: pruefen ob durch Aufnahme in die Urteilsgruende Auswirkung auf andere Verfahren droht oder nur rhetorisch.
+- Wenn obiter: prüfen ob durch Aufnahme in die Urteilsgruende Auswirkung auf andere Verfahren droht oder nur rhetorisch.
 - Berufsrechtliche Relevanz: bei massiver Kritik Information an RAK.
 
 ## Tonalitaet in der Revisionsbegruendung

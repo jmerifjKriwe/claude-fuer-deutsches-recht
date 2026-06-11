@@ -69,7 +69,7 @@ Die Fusionskontrolle nach §§ 35 ff. GWB ist relevant, wenn das franchisierte U
 
 ## Praxishinweise
 
-- Change-of-Control-Klausel-Scan als erste Due-Diligence-Massnahme; Anzahl und Konsequenzen bestimmen.
+- Change-of-Control-Klausel-Scan als erste Due-Diligence-Maßnahme; Anzahl und Konsequenzen bestimmen.
 - Marken und Domains sofort auf Inhaber und Registerstand prüfen; Übertragungserfordernis im Kaufvertrag regeln.
 - Systemhandbuch und Know-how-Transfer in den Kaufvertrag einbeziehen; Übergabepflicht des Veräusserers.
 - Latenzrisiken (potential claims) aus Franchiseverträgen in den Kaufpreiseinbehalt einkalkulieren.

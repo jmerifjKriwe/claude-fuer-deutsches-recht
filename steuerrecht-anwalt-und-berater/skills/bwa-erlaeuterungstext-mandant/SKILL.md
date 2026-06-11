@@ -20,7 +20,7 @@ Die BWA ohne Erlaeuterung ist ein Zahlenfriedhof. Der Mandant — meist kein Bil
 1. Welcher Mandantentyp — Solo-Unternehmer, Familien-GmbH, Mittelstand mit eigener Buchhaltung?
 2. Wie tief soll der Text gehen — kurze Zusammenfassung (1/2 Seite) oder ausfuehrliche Analyse (2 Seiten)?
 3. Welche Abweichungen sind wesentlich (Schwellenwert absolut/prozentual)?
-4. Welche Sondereffekte muessen erklaert werden (Sonderzahlung, Sonderabschreibung, Einmalumsatz)?
+4. Welche Sondereffekte müssen erklaert werden (Sonderzahlung, Sonderabschreibung, Einmalumsatz)?
 5. Liegen Krisensignale vor (Eigenkapital negativ, SV-Rueckstaende, Umsatzeinbruch)?
 6. Welche Empfehlungen sind angebracht (Investition, Personalkosten, Lieferanten)?
 7. Adressat — GF (operativer Fokus), Aufsichtsrat (strategisch), Bank (Schuldendienst)?
@@ -53,7 +53,7 @@ Die BWA ohne Erlaeuterung ist ein Zahlenfriedhof. Der Mandant — meist kein Bil
 | Kleinunternehmer < 500.000 EUR Umsatz | ab 500 EUR Abweichung | ab 10 Prozent |
 | KMU 500.000-5 Mio EUR Umsatz | ab 2.000 EUR | ab 5 Prozent |
 | Mittelstand 5-50 Mio EUR | ab 10.000 EUR | ab 3 Prozent |
-| Grosser Mittelstand > 50 Mio EUR | ab 50.000 EUR | ab 2 Prozent |
+| Großer Mittelstand > 50 Mio EUR | ab 50.000 EUR | ab 2 Prozent |
 
 ### Phase 2 — Erlaeuterungs-Struktur
 
@@ -96,12 +96,12 @@ Stichtag: [Datum]
 - Bei OPOS-Listen mit ueberfaelligen Forderungen > 60 Tage: Hinweis auf Forderungsausfall-Risiko.
 - Bei Steuerrueckstaenden: Hinweis auf Saeumniszuschlaege § 240 AO und ggf. Stundung § 222 AO.
 - Bei SV-Rueckstaenden: dringender Hinweis (§ 266a StGB-Risiko für GF).
-- Bei Eigenkapitalerosion: Verweis auf Pruefung § 19 InsO und stb-bwa-sus-bilanz-pruefung.
+- Bei Eigenkapitalerosion: Verweis auf Prüfung § 19 InsO und stb-bwa-sus-bilanz-pruefung.
 
 ### Phase 5 — Empfehlungen formulieren
 
-- Konkret und umsetzbar: "Bitte pruefen Sie Mahnungen für OP > 60 Tage" statt "OP-Management verbessern".
-- Bei wesentlichen Massnahmen: Termin zur Besprechung anbieten.
+- Konkret und umsetzbar: "Bitte prüfen Sie Mahnungen für OP > 60 Tage" statt "OP-Management verbessern".
+- Bei wesentlichen Maßnahmen: Termin zur Besprechung anbieten.
 - Keine Rechtsberatung (§ 5 RDG); bei Rechtsfragen Verweis auf Anwalt.
 
 ### Phase 6 — Freigabe und Versand

@@ -35,7 +35,7 @@ Ein Gechartertes Seeschiff unter Charterparty liegt in einem ausländischen Hafe
 - Ist der Kostenrahmen für das Auslandsverfahren freigegeben?
 
 ## Typische Fallstricke
-- Lokale Seepfandrechte koennen deutsche Hypothek im Rang ueberbieten.
+- Lokale Seepfandrechte können deutsche Hypothek im Rang ueberbieten.
 - Kostenunterschaetzung: Auslandsverfahren dauern laenger und kosten mehr.
 - LOU-Verhandlungen erfordern erfahrenen Local Counsel.
 

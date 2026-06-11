@@ -16,7 +16,7 @@ Dieser Einstieg routet **Robotik Recht** vom ersten Sachverhalt zu Rollen, Frist
 - `anwaltliche-quellenhygiene-robotik` — Anwaltliche Quellenhygiene Robotik
 - `arbeitsschutz-betrsichv-autonome` — Arbeitsschutz Betrsichv Autonome
 - `arbeitsschutz-betrsichv-robotik` — Arbeitsschutz Betrsichv Robotik
-- `arbeitswelt-cobot-beschaffung-oeffentlich` — Arbeitswelt Cobot Beschaffung Oeffentlich
+- `arbeitswelt-cobot-beschaffung-oeffentlich` — Arbeitswelt Cobot Beschaffung Öffentlich
 - `arbeitswelt-cobot-check` — Arbeitswelt Cobot Check
 - `art-3-ki-system-robotik` — ART 3 KI System Robotik
 - `art-6-hochrisiko-robotik` — ART 6 Hochrisiko Robotik

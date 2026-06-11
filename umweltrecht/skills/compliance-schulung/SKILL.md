@@ -22,7 +22,7 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 1. Welche Beauftragte sind nach Gesetz zu bestellen (ImmSchBeauftragter, Abfallbeauftragter, Gewaesserschutzbeauftragter)?
 2. Besteht bereits ein Compliance-Management-System oder steht erstmalige Einrichtung an?
 3. Wurde ein behordliches Audit oder eine Ueberwachung angekuendigt?
-4. Wie gross ist das Unternehmen — Anzahl Anlagen, Produktionsstaetten, Mitarbeiter?
+4. Wie groß ist das Unternehmen — Anzahl Anlagen, Produktionsstaetten, Mitarbeiter?
 5. Welche Schulungsthemen sind akut (TEHG, KrWG-Novelle, BImSchG-Aenderung, CSRD)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -44,7 +44,7 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-### A) Beauftragten-Bestellung pruefen
+### A) Beauftragten-Bestellung prüfen
 
 1. **ISB-Pflicht**: § 53 BImSchG i.V.m. § 1 5. BImSchV — Anlage nach Anlage 1 Nr. 1-10 der 5. BImSchV; Genehmigung nach § 4 BImSchG.
 2. **ABfallbeauftragter**: § 59 KrWG i.V.m. § 1 AbfBeauftrV — Anlagen mit bestimmten Abfallmengen oder Betreiber von Entsorgungsanlagen.
@@ -66,7 +66,7 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 |---|---|---|---|
 | ISB bestellt und fachkundig | JA/NEIN | § 53 BImSchG | Letzte Schulung: [DATUM] |
 | Abfallbeauftragter bestellt | JA/NEIN | § 59 KrWG | Letzte Schulung: [DATUM] |
-| Genehmigungen aktuell | JA/NEIN | § 4 BImSchG | Naechste Pruefung: [DATUM] |
+| Genehmigungen aktuell | JA/NEIN | § 4 BImSchG | Naechste Prüfung: [DATUM] |
 | TEHG-Abgabe geleistet | JA/NEIN | § 8 TEHG | Letzte Abgabe: [DATUM] |
 | Abfallnachweise vollstaendig | JA/NEIN | NachwV | Letzter Bericht: [DATUM] |
 | Emissionsberichte aktuell | JA/NEIN | § 5 TEHG | Letzter Bericht: [DATUM] |
@@ -75,7 +75,7 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -131,7 +131,7 @@ Trigger: Neue Gesetzgebung (z.B. KrWG-Novelle, TEHG-Aenderung), Bussgeld-Beschei
 Verantwortlich: [NAME COMPLIANCE-OFFICER]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -144,8 +144,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Vertiefung: CSRD-Berichtspflicht Umwelt-Compliance
 
-- CSRD-Unternehmen (ab 250 MA oder Boersennotierung) muessen Compliance-Systeme im Nachhaltigkeitsbericht (ESRS) offenlegen.
-- ESRS E1 (Klimawandel), E2 (Umweltverschmutzung): Angaben zu Compliance-Massnahmen, Zielen, Messzahlen.
+- CSRD-Unternehmen (ab 250 MA oder Boersennotierung) müssen Compliance-Systeme im Nachhaltigkeitsbericht (ESRS) offenlegen.
+- ESRS E1 (Klimawandel), E2 (Umweltverschmutzung): Angaben zu Compliance-Maßnahmen, Zielen, Messzahlen.
 - Audit durch Wirtschaftspruefer (Reasonable Assurance ab 2028, Limited Assurance ab 2024).
 
 ## Anschluss-Skills

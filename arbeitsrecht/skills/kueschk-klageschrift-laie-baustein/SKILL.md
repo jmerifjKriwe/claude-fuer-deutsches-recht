@@ -57,13 +57,13 @@ Erzeugt eine ausfüllbare Klageschrift-Vorlage für Arbeitnehmer ohne Rechtsanwa
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Klage ohne Anwalt am Arbeitsgericht einreichen | Vorlage unten vollstaendig ausfuellen; Frist drei Wochen ab Zugang |
-| Variante A — Mandant ist unentschlossen ob er klagen will | Frist wahren durch Einreichen; Rücknahme spaeter noch moeglich |
-| Variante B — Klaeger will eigentlich Abfindung | Klage als Druckmittel; im Guetetermin Abfindungsgespraech ansprechen |
+| Variante A — Mandant ist unentschlossen ob er klagen will | Frist wahren durch Einreichen; Rücknahme später noch möglich |
+| Variante B — Kläger will eigentlich Abfindung | Klage als Druckmittel; im Guetetermin Abfindungsgespraech ansprechen |
 | Variante C — Beratungshilfe oder PKH noetig | Antrag zeitgleich stellen; Klage unabhaengig davon einreichen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -155,7 +155,7 @@ Die Kündigung ist formunwirksam. [FORMFEHLER BESCHREIBEN — z.B.: Die Kündigu
 
 ---
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

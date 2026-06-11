@@ -13,7 +13,7 @@ description: "Signing und Closing Conditions verwalten: M&A-Transaktion naehert 
 
 ## Fachkern: Signing und Closing Conditions
 
-- **Corporate-Aufgabe (Signing und Closing Conditions):** M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein.
+- **Corporate-Aufgabe (Signing und Closing Conditions):** M&A-Transaktion naehert sich Signing oder Closing und alle CPs müssen erledigt sein.
 - **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
 - **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
 - **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
@@ -107,7 +107,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welche Closing Conditions sind im SPA definiert?
 2. Wer ist CP-Owner für jede Bedingung (Kaeufer, Verkaefer, beide)?
 3. Behordliche Genehmigungen: Kartellrecht, FDI, Sektorregulierung — Fristen?
-4. Dritte Zustimmungen: Change-of-Control-Klauseln, Bankenkonsortium, Schluessel-Kunden?
+4. Dritte Zustimmungen: Change-of-Control-Klauseln, Bankenkonsortium, Schlüssel-Kunden?
 5. Long Stop Date: Wann verfaellt das SPA automatisch wenn CPs nicht erfuellt?
 6. MAC-Klausel: Gibt es ein Ruecktrittsrecht bei Material Adverse Change?
 7. Interim Operating Covenants: Welche Beschraenkungen gelten zwischen Signing und Closing?
@@ -127,11 +127,11 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Standard-Closing-Conditions-Matrix
 
-| CP-Typ | Typischer Inhalt | CP-Owner | Pruefung | Frist |
+| CP-Typ | Typischer Inhalt | CP-Owner | Prüfung | Frist |
 |---|---|---|---|---|
 | Regulatorisch | Kartellfreigabe GWB/FKVO; FDI-Genehmigung | Kaeufer | Behördenschreiben | Long Stop Date |
 | Corporate | GV/AR-Beschluss; Unterschriften; vollstaendige Execution | Beide | Protokoll + Anlagen | Signing |
-| Dritte Zustimmungen | CoC-Consents; Banken (Change-of-Control-Covenant); Schluessel-Kunden | Meist Verkaefer | Consent Letters | Long Stop Date |
+| Dritte Zustimmungen | CoC-Consents; Banken (Change-of-Control-Covenant); Schlüssel-Kunden | Meist Verkaefer | Consent Letters | Long Stop Date |
 | Representations True & Correct | Keine wesentliche Unrichtigkeit der Reps zum Closing | Verkaefer | Bring-Down Certificate | Closing Day |
 | No MAC | Kein Material Adverse Change eingetreten | Verkaefer | MAC Certificate | Closing Day |
 | No Legal Proceedings | Kein Gerichtsentscheid oder einstweilige Verfuegung | Beide | Anwaltsbestaetigung | Closing Day |
@@ -214,7 +214,7 @@ VORAUSSICHTLICHES CLOSING: [DATUM]
 - Vollzugsverbot missachtet (Gun Jumping) — Bussgeld bis 10 % Weltumsatz; § 41 GWB
 - Long Stop Date verstrichen ohne Verlaengerungsvereinbarung → automatischer Ruecktritt
 - Bring-Down-Verletzung ignoriert → Closing ohne valide Grundlage; Ruecktrittsanspruch Kaeufer
-- Dritte Consent vergessen → CoC-Kuendigung wesentlicher Vertraege post-Closing
+- Dritte Consent vergessen → CoC-Kuendigung wesentlicher Verträge post-Closing
 - Interim Covenants verletzt (z.B. Verkaefer verkauft Schluesselasset vor Closing) → Schadensersatz; ggf. Ruecktritt
 
 ## Quellen

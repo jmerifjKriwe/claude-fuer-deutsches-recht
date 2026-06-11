@@ -36,7 +36,7 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 ### Qualifikationsmerkmale § 263 Abs. 5 StGB
 
 - **Mitglied einer Bande.** Mindestens drei Personen.
-- **Bandenabrede.** Auf fortgesetzte Begehung mehrerer selbststaendiger Taten gerichteter Zusammenschluss. Konkludent moeglich (BGH staendige Rspr.). Auch lockere Strukturen reichen, sofern Wille zur Wiederholung gemeinsamer Begehung erkennbar.
+- **Bandenabrede.** Auf fortgesetzte Begehung mehrerer selbststaendiger Taten gerichteter Zusammenschluss. Konkludent möglich (BGH staendige Rspr.). Auch lockere Strukturen reichen, sofern Wille zur Wiederholung gemeinsamer Begehung erkennbar.
 - **Gewerbsmaessig.** Auch hier: Absicht auf nicht nur voruebergehende Einnahmequelle von einigem Umfang.
 - **Mitgliedschaftliche Beteiligung an der einzelnen Tat.** Anwesenheit am Tatort nicht erforderlich (BGH staendige Rspr.); Tatbeitrag aus dem Hintergrund genuegt, sofern als Bandentat begangen.
 
@@ -44,15 +44,15 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 
 - **Schockanruf / Enkeltrick.** Anrufer, Geldabholer und Logistik bilden Bande. Die einzelne Tat bemisst sich nach jedem Einzelopfer.
 - **Cybertrading.** Operatoren, Money Mules, Backend-Mitarbeiter. Auch Strukturen mit Auslandsbezug (Israel, Bulgarien, Tuerkei) als Bande BGH-tauglich.
-- **Phishing.** Auch dezentrale Strukturen koennen Bande sein, wenn Wille zur fortgesetzten gemeinsamen Begehung nachweisbar.
+- **Phishing.** Auch dezentrale Strukturen können Bande sein, wenn Wille zur fortgesetzten gemeinsamen Begehung nachweisbar.
 
 ## Praktikertipps Verteidigung
 
 - **Bandenabrede bestreiten.** Insbesondere bei Money Mules ohne Kenntnis der Gesamtstruktur. Schweigen Mit-Beschuldigte oder gegen sie laufende Tatvorwuerfe nutzen.
 - **Tatbeitrag als blosse Beihilfe** § 27 StGB qualifizieren — Strafmilderung § 27 Abs. 2 StGB i.V.m. § 49 Abs. 1 StGB.
-- **Kronzeugenregelung § 46b StGB.** Aufklaerungshilfe ueber Hintermaenner oder Strukturen kann erhebliche Strafmilderung oder Absehen von Strafe rechtfertigen — eigener Skill `fachanwalt-strafrecht-aufklaerungshilfe-46b-stgb` falls vorhanden, sonst sorgfaeltige Risiko-Nutzen-Abwaegung.
-- **Versuch / Vollendung pruefen.** Bei gescheitertem Schockanruf moeglich Versuch — Milderung § 23 Abs. 2 StGB.
-- **TKUe-Verwertbarkeit pruefen.** Anordnung nach § 100a StPO Voraussetzungen; Kernbereich der Lebensgestaltung § 100d StPO.
+- **Kronzeugenregelung § 46b StGB.** Aufklaerungshilfe über Hintermaenner oder Strukturen kann erhebliche Strafmilderung oder Absehen von Strafe rechtfertigen — eigener Skill `fachanwalt-strafrecht-aufklaerungshilfe-46b-stgb` falls vorhanden, sonst sorgfaeltige Risiko-Nutzen-Abwaegung.
+- **Versuch / Vollendung prüfen.** Bei gescheitertem Schockanruf möglich Versuch — Milderung § 23 Abs. 2 StGB.
+- **TKUe-Verwertbarkeit prüfen.** Anordnung nach § 100a StPO Voraussetzungen; Kernbereich der Lebensgestaltung § 100d StPO.
 
 ## Trade-off-Matrix
 
@@ -86,16 +86,16 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 
 ### Antrag minder schwerer Fall
 
-"Es wird beantragt, einen minder schweren Fall im Sinne des § 263 Abs. 5 Satz 2 StGB anzunehmen. Hierfür sprechen: (1) Rolle des Mandanten als bloss ausfuehrend Beteiligter ohne Tatherrschaft (Abholer im Sinne der staendigen BGH-Rechtsprechung), (2) Aussage des Mandanten gemaess § 46b StGB ueber die Hintermaenner [Name], (3) vollstaendige Schadenswiedergutmachung an die Geschaedigten Ziff. 3 und 5 der Anklage, (4) Erstmaligkeit der Verurteilung."
+"Es wird beantragt, einen minder schweren Fall im Sinne des § 263 Abs. 5 Satz 2 StGB anzunehmen. Hierfür sprechen: (1) Rolle des Mandanten als bloss ausfuehrend Beteiligter ohne Tatherrschaft (Abholer im Sinne der staendigen BGH-Rechtsprechung), (2) Aussage des Mandanten gemäß § 46b StGB über die Hintermaenner [Name], (3) vollstaendige Schadenswiedergutmachung an die Geschaedigten Ziff. 3 und 5 der Anklage, (4) Erstmaligkeit der Verurteilung."
 
 ### Bestreiten Bandenabrede
 
-"Eine Bandenabrede wird bestritten. Der Mandant hat als sogenannter Money Mule lediglich ein einzelnes Konto für Ueberweisungen zur Verfuegung gestellt. Eine Kenntnis von einer auf fortgesetzte Begehung gerichteten Organisation ist nicht ersichtlich; der Kontakt zu den vermeintlichen Mittaetern erfolgte ueber anonyme Chatkanaele ohne Personenwissen. Eine konkludente Bandenabrede setzt zumindest die Kenntnis der wesentlichen Strukturmerkmale voraus (BGH staendige Rspr.)."
+"Eine Bandenabrede wird bestritten. Der Mandant hat als sogenannter Money Mule lediglich ein einzelnes Konto für Ueberweisungen zur Verfuegung gestellt. Eine Kenntnis von einer auf fortgesetzte Begehung gerichteten Organisation ist nicht ersichtlich; der Kontakt zu den vermeintlichen Mittaetern erfolgte über anonyme Chatkanaele ohne Personenwissen. Eine konkludente Bandenabrede setzt zumindest die Kenntnis der wesentlichen Strukturmerkmale voraus (BGH staendige Rspr.)."
 
 ## Quellen Stand 06/2026
 
 - § 263 StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/__263.html.
-- BGH staendige Rspr. zur Bandenabrede (BGH grosser Senat 22.03.2001 — GSSt 1/00 ist Leit-Linie der Drei-Personen-Bande; Aktenzeichen vor Verwendung verifizieren).
+- BGH staendige Rspr. zur Bandenabrede (BGH großer Senat 22.03.2001 — GSSt 1/00 ist Leit-Linie der Drei-Personen-Bande; Aktenzeichen vor Verwendung verifizieren).
 - § 46b StGB Aufklaerungshilfe — https://www.gesetze-im-internet.de/stgb/__46b.html.
 - §§ 73, 73b, 73c, 73d StGB Einziehung.
 - §§ 100a, 100d StPO TKUe; § 112a StPO Wiederholungsgefahr.

@@ -3,7 +3,7 @@ name: ueber-schriftsatz-brief-und-memo-bausteine
 description: "Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgruender."
 ---
 
-# Ueber: Schriftsatz-, Brief- und Memo-Bausteine
+# Über: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Arbeitsweg
 
@@ -21,7 +21,7 @@ description: "Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgr�
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Spezialwissen: Ueber: Schriftsatz-, Brief- und Memo-Bausteine
+## Spezialwissen: Über: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** UG, OHG, KG, PartG, MoPeG, DiRUG, GwG.
 
 ## Fallweichen

@@ -7,7 +7,7 @@ description: "Dokumentenintake für Fluggastrechte VO 261/2004: sortiert Buchung
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fluggastrechte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fluggastrechte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -28,7 +28,7 @@ Dieser Dokumenten-Intake für **Fluggastrechte** ordnet Anlagen, Registerdaten, 
 - `abtretung-an-fluggastportal-spezial` — Abtretung AN Fluggastportal Spezial
 - `airline-bonitaet-und-vollstreckung` — Airline Bonitaet und Vollstreckung
 - `airline-standardausreden-annullierung` — Airline Standardausreden Annullierung
-- `airline-standardausreden-pruefen` — Airline Standardausreden Pruefen
+- `airline-standardausreden-pruefen` — Airline Standardausreden Prüfen
 - `anlagen-bauen` — Anlagen Bauen
 - `annullierung-oder-verspaetung-einordnen` — Annullierung Oder Verspaetung Einordnen
 - `annullierung-schriftsatz-brief-memo-bausteine` — Annullierung Schriftsatz Brief Memo Bausteine

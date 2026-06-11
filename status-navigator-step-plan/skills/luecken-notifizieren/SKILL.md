@@ -9,7 +9,7 @@ description: "Notifiziert direkt in den Tabellen, wo Fehler, Luecken oder Unklar
 Notifiziert direkt in den Tabellen, wo Fehler, Luecken oder Unklarheiten bestehen. Standard-Notes umfassen die haeufigsten Befunde aus Restrukturierungs- und Vollstreckungsmandaten.
 
 ## Anwendungsbeispiel
-LausitzStorage: 23 Notes ueber alle Reiter. Wiederholte Notes: `Zustellung unklar` (Drawstop-Schreiben, LEAG-Kuendigungsdrohung), `Anlage fehlt` (Anlage 4 Konsortialvertrag, BImSchG-Auflagenliste), `Beschluss-Form fragwuerdig` (Gesellschafterbeschluss 17.10.2025 ohne notarielles Protokoll), `Unterschrift Vertretung unklar` (zwei Pachtvertragsnachtraege).
+LausitzStorage: 23 Notes über alle Reiter. Wiederholte Notes: `Zustellung unklar` (Drawstop-Schreiben, LEAG-Kuendigungsdrohung), `Anlage fehlt` (Anlage 4 Konsortialvertrag, BImSchG-Auflagenliste), `Beschluss-Form fragwuerdig` (Gesellschafterbeschluss 17.10.2025 ohne notarielles Protokoll), `Unterschrift Vertretung unklar` (zwei Pachtvertragsnachtraege).
 
 ## Output-Module
 - Standard-Notes-Vokabular als Vorblatt

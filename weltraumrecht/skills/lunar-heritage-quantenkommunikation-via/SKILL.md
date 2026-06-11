@@ -28,7 +28,7 @@ description: "Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Art
 - **Registration Convention 1975**: gegenstaendlicher Schutz registrierter Gegenstaende.
 - **US One Small Step to Protect Human Heritage in Space Act** (Public Law 116-275, 31.12.2020): verpflichtet US-Akteure mit NASA-Beteiligung zur Einhaltung der NASA Recommendations to Space-Faring Entities (NASA-SP-2011-1226).
 - **NASA Recommendations to Space-Faring Entities (2011)**: Schutzzonen 75 m und 225 m um Apollo-Stellen, je nach Sensitivitaet (Lunar Module, Experimente, Mobile Geraete). Annaeherungsausschluss für staubaufwirbelnde Manoever.
-- **Artemis Accords 2020**: Art. 9 Schutz aussergewoehnlich wertvoller Stellen ("outer space heritage"). Bislang ueber 30 Unterzeichnerstaaten (Deutschland Beitritt September 2023; live verifizieren).
+- **Artemis Accords 2020**: Art. 9 Schutz aussergewoehnlich wertvoller Stellen ("outer space heritage"). Bislang über 30 Unterzeichnerstaaten (Deutschland Beitritt September 2023; live verifizieren).
 
 ## Praktische Schutzpflichten
 

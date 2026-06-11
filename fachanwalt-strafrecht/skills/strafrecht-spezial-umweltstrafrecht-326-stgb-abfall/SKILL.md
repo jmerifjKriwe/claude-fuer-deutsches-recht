@@ -30,15 +30,15 @@ Anwendungsfaelle: Ablagerung von Asbestabfaellen auf Privatgrundstueck; Verbrenn
 
 ### Absatz 1 Nummer 1 — gefaehrliche Stoffe
 
-Strafbar ist, wer Abfaelle ausserhalb einer dafür zugelassenen Anlage oder unter wesentlicher Abweichung von einem dafür vorgeschriebenen oder zugelassenen Verfahren behandelt, lagert, ablagert, ablaesst oder sonst beseitigt, **wenn sie Gift oder Erreger gemeinschaftsgefaehrlicher Krankheiten enthalten oder hervorbringen koennen**.
+Strafbar ist, wer Abfaelle ausserhalb einer dafür zugelassenen Anlage oder unter wesentlicher Abweichung von einem dafür vorgeschriebenen oder zugelassenen Verfahren behandelt, lagert, ablagert, ablaesst oder sonst beseitigt, **wenn sie Gift oder Erreger gemeinschaftsgefaehrlicher Krankheiten enthalten oder hervorbringen können**.
 
 ### Absatz 1 Nummer 2 — krebserzeugende und reproduktionstoxische Stoffe
 
-Erfasst sind Abfaelle, die für den Menschen krebserzeugend, fruchtschaedigend oder erbgutveraendernd sein koennen. Beispiel: Asbest, polychlorierte Biphenyle (PCB).
+Erfasst sind Abfaelle, die für den Menschen krebserzeugend, fruchtschaedigend oder erbgutveraendernd sein können. Beispiel: Asbest, polychlorierte Biphenyle (PCB).
 
 ### Absatz 1 Nummer 3 — explosiv, brennbar, radioaktiv
 
-Erfasst sind Abfaelle, die explodieren koennen, leicht entzuendlich sind oder radioaktiv strahlen. Beispiele: Altmunition, Batterien mit hoher Energie, radioaktiv kontaminierte Abfaelle.
+Erfasst sind Abfaelle, die explodieren können, leicht entzuendlich sind oder radioaktiv strahlen. Beispiele: Altmunition, Batterien mit hoher Energie, radioaktiv kontaminierte Abfaelle.
 
 ### Absatz 1 Nummer 4 a — Gewaesser- oder Bodenverschmutzung
 
@@ -50,7 +50,7 @@ Erfasst sind Abfaelle, die geeignet sind, Tierbestaende oder den Wald oder ander
 
 ### Absatz 2 grenzueberschreitendes Verbringen
 
-Strafbar ist, wer **gefaehrliche Abfaelle entgegen den geltenden Vorschriften ueber die Verbringung gefaehrlicher Abfaelle** in den Geltungsbereich des Gesetzes verbringt oder aus ihm verbringt. Verweisnorm auf EU-Abfallverbringungs-VO. Praxisrelevant: illegale Container-Exporte.
+Strafbar ist, wer **gefaehrliche Abfaelle entgegen den geltenden Vorschriften über die Verbringung gefaehrlicher Abfaelle** in den Geltungsbereich des Gesetzes verbringt oder aus ihm verbringt. Verweisnorm auf EU-Abfallverbringungs-VO. Praxisrelevant: illegale Container-Exporte.
 
 ### Absatz 6 unbedeutende Menge
 
@@ -63,21 +63,21 @@ Vorsatz hinsichtlich aller objektiven Merkmale, einschliesslich des Fehlens der 
 ## Praktikertipps Verteidigung
 
 - **Abfallbegriff bestreiten.** Nur Abfall im Sinne von Paragraph 3 KrWG ist erfasst — Stoff, dessen sich der Besitzer entledigen will oder entledigen muss. "Nebenprodukt" oder "Produktstatus" kann den Abfallbegriff ausschliessen.
-- **Eigenschaft als gefaehrlich pruefen.** Abfallverzeichnis-Verordnung (AVV) und Europaeischer Abfallkatalog (EAK) — ist der Abfall mit Sternchen versehen (gefaehrlich) oder nicht? Sachverstaendigengutachten zur Klassifizierung.
+- **Eigenschaft als gefaehrlich prüfen.** Abfallverzeichnis-Verordnung (AVV) und Europaeischer Abfallkatalog (EAK) — ist der Abfall mit Sternchen versehen (gefaehrlich) oder nicht? Sachverstaendigengutachten zur Klassifizierung.
 - **Anlagenbezug bestreiten.** Wenn die Behandlung im Rahmen einer zugelassenen Anlage erfolgte: Tatbestandsausschluss. Kopie der Anlagengenehmigung beschaffen.
 - **Wesentliche Abweichung relativieren.** Bei kleinen Verfahrensabweichungen (z. B. Probenahme nicht alle 24 h, sondern nur alle 48 h) ist "wesentlich" nicht automatisch erfuellt.
-- **Mengen-Bagatelle nach Absatz 6.** Wenn Mandant nur wenige Kilogramm gefaehrlichen Abfall ablagerte: pruefen, ob "offensichtlich ausgeschlossen" gefaehrdet. Schwelle in der Praxis sehr eng.
-- **Fahrlaessigkeit Absatz 5.** Bei komplexen Verhaltensanforderungen kann Vorsatz fehlen; Verbotsirrtum ueber Erlaubnispflichten haeufig vermeidbar.
+- **Mengen-Bagatelle nach Absatz 6.** Wenn Mandant nur wenige Kilogramm gefaehrlichen Abfall ablagerte: prüfen, ob "offensichtlich ausgeschlossen" gefaehrdet. Schwelle in der Praxis sehr eng.
+- **Fahrlaessigkeit Absatz 5.** Bei komplexen Verhaltensanforderungen kann Vorsatz fehlen; Verbotsirrtum über Erlaubnispflichten haeufig vermeidbar.
 
 ## Trade-off-Matrix
 
 | Pfad A Bestreiten Abfalleigenschaft | Pfad B Gestaendnis Abfall, Bestreiten gefaehrliche Eigenschaft | Empfehlung |
 | --- | --- | --- |
-| Tragfaehig bei industriellen Stoffen mit Produktstatus (z. B. Recyclingmaterial); riskant bei klarem Entsorgungswillen. | Verteidigung ueber Sachverstaendige zur Stoffklassifizierung; oft erfolgreich bei nicht-eindeutigen Klassifizierungen. | Bei klarer Abfalleigenschaft Pfad B bevorzugen; Klassifizierungs-Streit liefert hohe Erfolgsquote durch Sachverstaendigenbeweis. |
+| Tragfaehig bei industriellen Stoffen mit Produktstatus (z. B. Recyclingmaterial); riskant bei klarem Entsorgungswillen. | Verteidigung über Sachverstaendige zur Stoffklassifizierung; oft erfolgreich bei nicht-eindeutigen Klassifizierungen. | Bei klarer Abfalleigenschaft Pfad B bevorzugen; Klassifizierungs-Streit liefert hohe Erfolgsquote durch Sachverstaendigenbeweis. |
 
 ## Konkurrenzen
 
-- **Paragraph 326 StGB und Paragraph 324 StGB Gewaesserverunreinigung.** Tatmehrheit moeglich, wenn Abfall in Gewaesser gelangt.
+- **Paragraph 326 StGB und Paragraph 324 StGB Gewaesserverunreinigung.** Tatmehrheit möglich, wenn Abfall in Gewaesser gelangt.
 - **Paragraph 326 StGB und Paragraph 327 StGB Anlagenbetrieb.** Tatmehrheit; Paragraph 327 StGB zielt auf Anlagenbetrieb, Paragraph 326 StGB auf Abfallumgang.
 - **Paragraph 326 StGB und Paragraph 263 StGB Betrug.** Bei Abrechnungsbetrug gegen Auftraggeber (Mandant hat für ordnungsgemaesse Entsorgung kassiert): Tatmehrheit.
 - **Paragraph 326 StGB und Paragraph 25 OWiG nach KrWG.** OWi tritt zurueck bei strafrechtlicher Erfassung.
@@ -91,7 +91,7 @@ Vorsatz hinsichtlich aller objektiven Merkmale, einschliesslich des Fehlens der 
 - **Einziehung Paragraph 73 StGB** der ersparten Entsorgungskosten (Wertersatz).
 - **Sanierungspflicht nach KrWG** und Bodenschutzrecht; behoerdliche Anordnungen.
 - **Verbandssanktion** gegen Unternehmen nach Paragraph 30 OWiG; in der Praxis oft sechsstellige Bussgelder.
-- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
+- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
 
 ## Mustertexte
 

@@ -13,11 +13,11 @@ description: "Vergleich im Sozialprozess § 101 SGG. Was bedeutet das wann lohnt
 
 ## Worum geht es?
 
-Im Termin oder im schriftlichen Verfahren kann ein Vergleich vorgeschlagen werden. Das bedeutet: Sie und die Behörde einigen sich. Diese Skill zeigt, was ein Vergleich ist und worauf Sie achten muessen.
+Im Termin oder im schriftlichen Verfahren kann ein Vergleich vorgeschlagen werden. Das bedeutet: Sie und die Behörde einigen sich. Diese Skill zeigt, was ein Vergleich ist und worauf Sie achten müssen.
 
 ## In einfacher Sprache
 
-Statt zu kaempfen, koennen Sie sich auch einigen. Das heisst Vergleich. Beide Seiten geben nach. Sie bekommen etwas, die Behörde gibt etwas. Wir helfen Ihnen zu entscheiden.
+Statt zu kaempfen, können Sie sich auch einigen. Das heisst Vergleich. Beide Seiten geben nach. Sie bekommen etwas, die Behörde gibt etwas. Wir helfen Ihnen zu entscheiden.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -28,9 +28,9 @@ Statt zu kaempfen, koennen Sie sich auch einigen. Das heisst Vergleich. Beide Se
 ## Fachbegriffe (kurz erklaert)
 
 - **Vergleich**: Einigung beider Seiten.
-- **Teilvergleich**: Einigung nur ueber Teil-Aspekte.
+- **Teilvergleich**: Einigung nur über Teil-Aspekte.
 - **Anerkenntnis**: Behörde gibt vollstaendig nach.
-- **Widerruf**: In manchen Faellen koennen Sie Vergleich widerrufen.
+- **Widerruf**: In manchen Faellen können Sie Vergleich widerrufen.
 - **Vergleichsangebot**: Konkreter Vorschlag.
 
 ## Rechtsgrundlagen
@@ -46,24 +46,24 @@ Statt zu kaempfen, koennen Sie sich auch einigen. Das heisst Vergleich. Beide Se
 Was wird angeboten?
 
 - Konkrete Leistung (z.B. Pflegegrad 3 ab [Datum])
-- Hoehe der Nachzahlung
+- Höhe der Nachzahlung
 - Kostenregelung (§ 193 SGG)
 - Erledigung des Verfahrens
 
-### Schritt 2 — Pruefen, ob es ein guter Vergleich ist
+### Schritt 2 — Prüfen, ob es ein guter Vergleich ist
 
 Bewertung:
 
 - **Was bekomme ich?** Genauer Betrag oder konkrete Leistung
 - **Was gebe ich auf?** Restklage, Rueckwirkung, andere Punkte
-- **Vergleich vs. Urteil**: Wie gross ist mein Risiko, vor Urteil zu verlieren?
+- **Vergleich vs. Urteil**: Wie groß ist mein Risiko, vor Urteil zu verlieren?
 
 ### Schritt 3 — Bedenkzeit nutzen
 
 Das Gericht muss Ihnen Zeit zum Nachdenken geben (§ 101 Abs. 2 SGG kann genutzt werden):
 
-- Vergleich nur muendlich vorgeschlagen: Sie koennen "Bedenkzeit" verlangen
-- Vergleich nur unter Widerrufsvorbehalt: nach Termin koennen Sie noch ueberlegen
+- Vergleich nur muendlich vorgeschlagen: Sie können "Bedenkzeit" verlangen
+- Vergleich nur unter Widerrufsvorbehalt: nach Termin können Sie noch ueberlegen
 
 Mustertext:
 
@@ -85,7 +85,7 @@ Wenn Sie zustimmen:
 - Sie unterschreiben
 - Vergleich ist sofort wirksam
 
-### Schritt 6 — Widerrufsmoeglichkeit pruefen
+### Schritt 6 — Widerrufsmoeglichkeit prüfen
 
 Manchmal mit Widerrufsfrist. Wenn Sie sich dann anders entscheiden: rechtzeitig schriftlich widerrufen.
 
@@ -95,9 +95,9 @@ Im Vergleich wird die Kostenregel geregelt:
 
 - "Die Beklagte traegt die ausserhalb des Verfahrens entstandenen Kosten" → gut für Sie
 - "Jeder traegt eigene Kosten" → neutral
-- "Klaeger traegt Kosten" → eher schlecht; pruefen
+- "Kläger traegt Kosten" → eher schlecht; prüfen
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Nicht ueberhastet zustimmen**: Sie haben Recht auf Bedenkzeit.
 - **Konkrete Zahlen**: Vergleich muss konkret formuliert sein.
@@ -109,7 +109,7 @@ Im Vergleich wird die Kostenregel geregelt:
 - Spontan zugestimmt → bedenken
 - Kostenregelung uebersehen → konkret regeln
 - Datum-Beginn nicht klar → ausdruecklich
-- Teilvergleich akzeptiert ohne Rest-Klage zu verstehen → klaeren
+- Teilvergleich akzeptiert ohne Rest-Klage zu verstehen → klären
 
 ## Quellen und Aktualitaet
 

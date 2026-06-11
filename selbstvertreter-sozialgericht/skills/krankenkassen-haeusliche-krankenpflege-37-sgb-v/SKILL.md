@@ -54,12 +54,12 @@ description: "Krankenkassen haeusliche Krankenpflege nach § 37 SGB V: Skill kla
 ## Intensivpflege
 
 - § 37c SGB V seit 2023 — Intensivpflegegesetz.
-- Ambulante Intensivpflege auf strengerer Pruefung der Notwendigkeit.
+- Ambulante Intensivpflege auf strengerer Prüfung der Notwendigkeit.
 
 ## Anrtrag
 
 - Aerztliche Verordnung der haeuslichen Krankenpflege (Muster 12).
-- Verordnungsdauer max. 4 Wochen, Verlaengerung moeglich.
+- Verordnungsdauer max. 4 Wochen, Verlaengerung möglich.
 
 ## Pruefraster
 

@@ -3,7 +3,7 @@ name: verpflichtungsermaechtigung-pruefen
 description: "Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung prüfen. Verpflichtungsermächtigung prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen..."
 ---
 
-# Verpflichtungsermaechtigung Pruefen
+# Verpflichtungsermaechtigung Prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung p
 
 ## Normenanker
 
-Arbeitsfokus: **Verpflichtungsermaechtigung Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Verpflichtungsermaechtigung Prüfen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 16 BHO` — Verpflichtungsermächtigungen.
 - `§ 38 BHO` — Eingehen von Verpflichtungen.

@@ -13,7 +13,7 @@ description: "Wirtschaftsprüfer: auslandsmandat und ethics code - Kaltstart mit
 
 ## Fallweichen dieser Speziallage
 
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
+1. Rolle, Ziel und Entscheidungsdruck klären.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
 3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
 4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
@@ -67,6 +67,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ### Anwendung im Skill
 
-- Unabhaengigkeit nach § 49 WPO und Art. 5 VO 537/2014 vor Mandatsannahme schriftlich pruefen.
+- Unabhaengigkeit nach § 49 WPO und Art. 5 VO 537/2014 vor Mandatsannahme schriftlich prüfen.
 - Bestaetigungsvermerk § 322 HGB darf keine versteckten Einschraenkungen enthalten; Versagung sorgfaeltig begruenden.
-- IDW PS 200 ff. sind Berufsstandards, ueber die im Disziplinarverfahren nicht hinausgegangen werden darf.
+- IDW PS 200 ff. sind Berufsstandards, über die im Disziplinarverfahren nicht hinausgegangen werden darf.

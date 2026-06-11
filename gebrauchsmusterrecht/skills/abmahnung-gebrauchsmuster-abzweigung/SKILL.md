@@ -32,15 +32,15 @@ Eine Abmahnung wird gesendet oder empfangen.
 - **§ 25 GebrMG**: Strafbarkeit bei vorsaetzlicher Verletzung.
 
 ### Besonderheit Gebrauchsmuster
-- Anders als Patent: **kein materieller Pruefungsfilter im Eintragungsverfahren** (DPMA prueft nur formell).
-- Folge: Eingetragenes Gebrauchsmuster sagt **nichts ueber Rechtsbestand** aus.
+- Anders als Patent: **kein materieller Pruefungsfilter im Eintragungsverfahren** (DPMA prüft nur formell).
+- Folge: Eingetragenes Gebrauchsmuster sagt **nichts über Rechtsbestand** aus.
 - Die Abmahnung muss den ungeprüften Registertitel besonders sorgfältig gegen Rechtsbestandsangriffe absichern; konkrete BGH-Zitate nur nach Live-Check mit frei zugänglicher Quelle einsetzen.
 
 ### Verteidigungsstrategie
-1. **Pruefe Rechtsbestand**: Stand der Technik recherchieren, Neuheit und erfinderischer Schritt § 3, § 4 GebrMG.
+1. **Prüfe Rechtsbestand**: Stand der Technik recherchieren, Neuheit und erfinderischer Schritt § 3, § 4 GebrMG.
 2. **Loeschungsantrag** beim DPMA als Gegenangriff (§ 16 GebrMG); fuehrt im Verletzungsverfahren regelmaessig zur Aussetzung.
 3. **Schutzschrift** beim ZPO-Gericht hinterlegen, wenn einstweilige Verfuegung droht.
-4. **Schutzbereich pruefen**: Anspruchsmerkmale gegen verletzte Ausfuehrung pruefen — § 12a GebrMG i.V.m. § 14 PatG (Auslegung der Schutzansprueche).
+4. **Schutzbereich prüfen**: Anspruchsmerkmale gegen verletzte Ausfuehrung prüfen — § 12a GebrMG i.V.m. § 14 PatG (Auslegung der Schutzansprueche).
 
 ### BGH-Linie zum Schutzbereich
 - Für den Schutzbereich § 12a GebrMG i.V.m. § 14 PatG entlang Anspruchswortlaut, Beschreibung, Zeichnungen und Fachmannverständnis prüfen.

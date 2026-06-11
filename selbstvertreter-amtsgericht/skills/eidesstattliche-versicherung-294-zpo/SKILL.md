@@ -83,7 +83,7 @@ Freiheitsstrafe bis zu einem Jahr oder Geldstrafe).
 - Vorsaetzlich: Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 - Fahrlaessig (§ 161 StGB): Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-Achtung: Auch wenn die Versicherung formell nicht durch zuständige Stelle abgenommen wurde, kann § 156 StGB greifen (Streitfrage; pruefen).
+Achtung: Auch wenn die Versicherung formell nicht durch zuständige Stelle abgenommen wurde, kann § 156 StGB greifen (Streitfrage; prüfen).
 
 ### Schritt 5 — Beweiswert in Glaubhaftmachungs-Verfahren
 
@@ -91,7 +91,7 @@ E. V. zusammen mit anderen Beweisanzeichen ueberzeugt das Gericht. Praxis: bei W
 
 ### Schritt 6 — Vergleich mit anderen Glaubhaftmachungs-Mitteln
 
-§ 294 ZPO laesst zu:
+§ 294 ZPO lässt zu:
 
 - Zeugen-Aussage in vereinfachtem Verfahren.
 - Urkunden (auch unbeglaubigte Kopien).
@@ -109,11 +109,11 @@ E. V. ist haeufig die einfachste Form.
 
 ### Schritt 8 — Praxis
 
-- Im PKH-Antrag: E. V. zu Vermoegen, Einkommen.
+- Im PKH-Antrag: E. V. zu Vermögen, Einkommen.
 - Bei Wiedereinsetzung: E. V. zum Hindernis.
 - Bei einstweiliger Verfuegung: E. V. zum Sachverhalt und Eilbeduerftigkeit.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Nur Glaubhaftmachung — KEIN Beweis im Hauptverfahren**.
 - **Strafbarkeit § 156 StGB**: Keine falsche Versicherung.

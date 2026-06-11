@@ -36,13 +36,13 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 
 **§ 252 HGB** — Going-concern; positive Fortbestehensprognose setzt belastbaren Plan voraus.
 
-**§ 19 Abs. 2 InsO** — Fortbestehensprognose; Prognosezeitraum (regulaer 12 Monate; durch SanInsKG zeitweise auf vier Monate verkuerzt). Aktuelle Geltungsdauer der SanInsKG-Verkuerzung in freier amtlicher Quelle pruefen.
+**§ 19 Abs. 2 InsO** — Fortbestehensprognose; Prognosezeitraum (regulaer 12 Monate; durch SanInsKG zeitweise auf vier Monate verkuerzt). Aktuelle Geltungsdauer der SanInsKG-Verkuerzung in freier amtlicher Quelle prüfen.
 
 ### Standards
 
 - IDW S 6 — Anforderungen an Sanierungskonzepte (integrierter Finanzplan).
 - IDW S 11 — Beurteilung Insolvenzeroeffnungsgruende.
-- IDW PS 305 — Pruefung Risikofrueherkennungssystem § 91 Abs. 2 AktG.
+- IDW PS 305 — Prüfung Risikofrueherkennungssystem § 91 Abs. 2 AktG.
 
 ## Workflow
 
@@ -55,7 +55,7 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 
 ### Phase 2 — Planeingabe in DATEV/Addison
 
-- DATEV: Plan-Werte ueber DATEV Kanzlei-Rechnungswesen → Plan-Stammdaten erfassen.
+- DATEV: Plan-Werte über DATEV Kanzlei-Rechnungswesen → Plan-Stammdaten erfassen.
 - Addison: Budget-Modul aktivieren, Werte einlesen.
 - Saisonalitaet abbilden: Jahresplan auf 12 Monate verteilen mit branchentypischen Schwankungsmustern.
 - Plausibilitaetspruefung: Plan-Werte mit Vorjahres-Ist abgleichen.
@@ -71,13 +71,13 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 | Abweichung | Bewertung | Handlungsbedarf |
 |---|---|---|
 | < 5 Prozent | Normaler Streubereich | Beobachten |
-| 5-15 Prozent | Signifikante Abweichung | Ursache klaeren, Mandant ansprechen |
+| 5-15 Prozent | Signifikante Abweichung | Ursache klären, Mandant ansprechen |
 | > 15 Prozent | Wesentliche Abweichung | Bericht an GF, ggf. Planrevision |
-| > 25 Prozent ueber mehrere Monate | Krisensignal | stb-bwa-sus-bilanz-pruefung pruefen |
+| > 25 Prozent über mehrere Monate | Krisensignal | stb-bwa-sus-bilanz-pruefung prüfen |
 
 ### Phase 5 — Planrevision
 
-- Bei groesseren Abweichungen ueber 2-3 Monate: Plan-Revision erforderlich.
+- Bei groesseren Abweichungen über 2-3 Monate: Plan-Revision erforderlich.
 - Mandant in Entscheidung einbinden — keine eigenmaechtige Planaenderung ohne Mandantenfreigabe.
 - Dokumentation der Planaenderungen in Mandantenakte mit Datum und Begruendung.
 

@@ -7,7 +7,7 @@ description: "Leistungsstoerungen im ALR — Unmoeglichkeit und Verzug. Skill be
 
 ## ALR-System
 
-- Unmoeglichkeit (impotentia praestandi): wenn Erfuellung nicht moeglich.
+- Unmoeglichkeit (impotentia praestandi): wenn Erfuellung nicht möglich.
 - Verzug (mora): bei unentschuldigter Verzoegerung.
 - Verschuldensgrade nach roemischer Tradition (dolus, culpa lata, culpa levis, culpa levissima).
 

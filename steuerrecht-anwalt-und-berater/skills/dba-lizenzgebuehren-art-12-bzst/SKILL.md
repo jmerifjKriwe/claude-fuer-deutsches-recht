@@ -15,7 +15,7 @@ description: "Lizenzgebühren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebühren-R
 
 ## Kernsachverhalt
 
-Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubigers besteuert; viele deutsche DBA weichen jedoch ab und gewaehren dem Quellenstaat ein Restbesteuerungsrecht (0/5/10 Prozent Quellensteuer). § 50g EStG setzt die Zins-/Lizenz-Richtlinie um (0 Prozent bei verbundenen EU-Unternehmen). § 50a EStG begruendet Steuerabzugspflicht beim deutschen Vergueterschuldner; § 50c EStG regelt BZSt-Entlastung. Praxisrelevant für Software, Patente, Markenrechte, Franchise.
+Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Glaeubigers besteuert; viele deutsche DBA weichen jedoch ab und gewaehren dem Quellenstaat ein Restbesteuerungsrecht (0/5/10 Prozent Quellensteuer). § 50g EStG setzt die Zins-/Lizenz-Richtlinie um (0 Prozent bei verbundenen EU-Unternehmen). § 50a EStG begruendet Steuerabzugspflicht beim deutschen Vergueterschuldner; § 50c EStG regelt BZSt-Entlastung. Praxisrelevant für Software, Patente, Markenrechte, Franchise.
 
 ## Kaltstart-Rueckfragen
 
@@ -43,10 +43,10 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zu Lizenzgebuehren-Quellensteuer in freier amtlicher Quelle abrufen.
 - Aktuelle BFH-Rechtsprechung zu Irland-Lizenzgebuehren in freier amtlicher Quelle abrufen.
-- BMF-Schreiben zu § 4j EStG (Lizenzschranke) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
-- BMF-Schreiben zu § 50g EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zu § 4j EStG (Lizenzschranke) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
+- BMF-Schreiben zu § 50g EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
-## DBA-Hoechstsaetze für Lizenzen (Uebersicht — alle Saetze konkret im DBA-Text pruefen)
+## DBA-Hoechstsaetze für Lizenzen (Übersicht — alle Saetze konkret im DBA-Text prüfen)
 
 | DBA | Lizenz-Hoechstsatz (typ.) | Bemerkung |
 |---|---|---|
@@ -68,12 +68,12 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 
 ## Workflow
 
-### Phase 1 — Lizenz-Charakter klaeren
+### Phase 1 — Lizenz-Charakter klären
 1. Software-Standardlizenz vs. Anpassungslizenz.
 2. Patent / Marke / Know-how.
 3. Franchise.
 
-### Phase 2 — EU-ZinsLizenzRL pruefen
+### Phase 2 — EU-ZinsLizenzRL prüfen
 1. Verbundene Unternehmen (25 Prozent Beteiligung)?
 2. EU/EWR-Ansaessigkeit?
 3. 24 Monate Mindesthaltedauer (haeufig im § 50g EStG anders).
@@ -98,7 +98,7 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 
 ## Strategie und Praxis-Tipps
 
-- ZinsLizenzRL (0 Prozent) bei verbundenen EU-Unternehmen guenstiger als DBA-Hoechstsatz — Empfaengergunst-Pruefung.
+- ZinsLizenzRL (0 Prozent) bei verbundenen EU-Unternehmen guenstiger als DBA-Hoechstsatz — Empfaengergunst-Prüfung.
 - Software-Lizenzen: nach OECD-MA-Kommentar Lizenzeinkuenfte (Art. 12); Software-Verkauf (Standardware) Art. 7 — Abgrenzung kritisch.
 - § 4j EStG-Lizenzschranke: bei schaedlicher IP-Box-Regelung in Quellenstaat Betriebsausgabenabzug auf Vergueter-Seite eingeschraenkt.
 - Substanz § 50d Abs. 3 EStG: Briefkasten-Lizenzgesellschaften scheitern regelmaessig.
@@ -109,14 +109,14 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **§ 50a EStG-Anmeldung des deutschen Vergueterschuldners**: Pflicht zur Quartalsanmeldung (vierteljaehrlich) ueber BZSt-Online-Portal (BOP); Anmeldung der Steuer Abzug auch bei Freistellung notwendig. Vom Anwender mit aktuellem BZSt-Verfahrensverzeichnis abgleichen.
+- **§ 50a EStG-Anmeldung des deutschen Vergueterschuldners**: Pflicht zur Quartalsanmeldung (vierteljaehrlich) über BZSt-Online-Portal (BOP); Anmeldung der Steuer Abzug auch bei Freistellung notwendig. Vom Anwender mit aktuellem BZSt-Verfahrensverzeichnis abgleichen.
 - **Freistellungsbescheinigung vor erster Lizenzzahlung**: nach § 50c Abs. 2 EStG vom BZSt erwirken; gilt für kuenftige Zahlungen, max. drei Jahre. Vergueterschuldner darf reduziert einbehalten.
 - **Ansaessigkeitsbescheinigung des Lizenzempfaengers vorab**: bei IRS Form 6166 (USA), HMRC (UK), CFR-1 (Polen). Bearbeitung im Heimatstaat regelmaessig 4-8 Wochen — Vorlauf einplanen.
-- **Vertrag pruefen, ob Software-Lizenz oder Software-Kauf**: Pruefer kategorisieren anhand der Vertragsklausel "Eigentum/Lizenz". Lizenz (Art. 12) loest Quellensteuer aus; Kauf (Art. 7) regelmaessig nicht. Vertragsmuster anpassen, wenn Auslegung guenstig sein soll.
-- **§ 4j EStG-Lizenzschranke vor Abschluss des Lizenzvertrags pruefen**: schaedliche IP-Box im Empfaengerstaat (Praeferenzregime der OECD-Liste) reduziert Betriebsausgabenabzug deutschen Lizenznehmers. Liste ueber OECD Harmful Tax Practices und BMF-Schreiben aktualisieren.
+- **Vertrag prüfen, ob Software-Lizenz oder Software-Kauf**: Prüfer kategorisieren anhand der Vertragsklausel "Eigentum/Lizenz". Lizenz (Art. 12) loest Quellensteuer aus; Kauf (Art. 7) regelmaessig nicht. Vertragsmuster anpassen, wenn Auslegung guenstig sein soll.
+- **§ 4j EStG-Lizenzschranke vor Abschluss des Lizenzvertrags prüfen**: schaedliche IP-Box im Empfaengerstaat (Praeferenzregime der OECD-Liste) reduziert Betriebsausgabenabzug deutschen Lizenznehmers. Liste über OECD Harmful Tax Practices und BMF-Schreiben aktualisieren.
 - **EU-ZinsLizenzRL: 24-Monatsfrist beachten**: nach § 50g EStG mindestens 24 Monate Verbundenheit vor Zahlung. Bei jungen Konzernstrukturen oft nicht erfuellt — DBA-Hoechstsatz greift.
 - **Erstattung nach Einbehalt § 50c Abs. 3 EStG**: vier Jahre Antragsfrist nach Ablauf Kalenderjahr der Steuerentstehung. Frueh stellen — BZSt-Bearbeitung 6-24 Monate, Cashflow-Belastung beim Glaeubiger.
-- **Bei Online-Antrag DAV-Verfahren** für institutionelle Lizenzgeber moeglich — Massen-Erstattung effizienter als Einzelantrag.
+- **Bei Online-Antrag DAV-Verfahren** für institutionelle Lizenzgeber möglich — Massen-Erstattung effizienter als Einzelantrag.
 
 ## Trade-off-Tabelle
 
@@ -128,11 +128,11 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 | IP-Holding im Niedrigsteuerland vs. operative Gesellschaft | IP-Box Niederlande/Luxemburg/Schweiz | direkte IP-Halterin im Hauptkonzern | § 4j EStG-Lizenzschranke + § 50d Abs. 3 EStG bei Substanzmangel — meist nicht mehr lohnend |
 | § 50a-Einbehalt akzeptieren vs. anfechten | Vergueterschuldner zahlt mit Vorbehalt; Lizenzgeber holt sich Erstattung | Direktes Anfechtungsverfahren | bei klarer DBA-Lage Pfad A schneller |
 
-## Was Reviewer/Pruefer triggert
+## Was Reviewer/Prüfer triggert
 
 - **Software-Lizenz vs. Software-Verkauf falsch qualifiziert**: BMF-Schreiben zur Abgrenzung (live abrufen) verlangt Vertragsanalyse.
 - **§ 50a-Einbehalt unterlassen**: deutscher Vergueterschuldner zahlt brutto an Auslandsempfaenger, ohne Freistellungsbescheinigung — Haftung § 50a Abs. 5 EStG.
-- **§ 4j EStG-Lizenzschranke ignoriert**: Memo argumentiert Betriebsausgabenabzug der Lizenzgebuehr, ohne IP-Box-Pruefung.
+- **§ 4j EStG-Lizenzschranke ignoriert**: Memo argumentiert Betriebsausgabenabzug der Lizenzgebuehr, ohne IP-Box-Prüfung.
 - **§ 50d Abs. 3 EStG-Substanz nicht dokumentiert**: bei IP-Holdings ohne Personal/Buero/Geschaeftstaetigkeit — Entlastung verweigert.
 - **ZinsLizenzRL-Voraussetzungen nicht geprueft**: Beteiligungshoehe (25 Prozent), Haltedauer (24 Monate), EU/EWR-Ansaessigkeit, Empfaengerrechtsform.
 - **Brexit-Wirkung uebersehen**: UK seit 2021 kein ZinsLizenzRL — Memo argumentiert noch mit RL-Vorteil.
@@ -141,7 +141,7 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 ## BZSt-Antragsablauf Lizenzen (Mustercheckliste)
 
 1. **Vertrag analysieren**: Lizenz vs. Verkauf, einmalig vs. laufend, Bemessungsgrundlage (Pauschal/Umsatzbeteiligung).
-2. **Empfaengerprofil pruefen**: EU/EWR/Drittstaat, verbunden iSd ZinsLizenzRL, Substanz § 50d Abs. 3 EStG.
+2. **Empfaengerprofil prüfen**: EU/EWR/Drittstaat, verbunden iSd ZinsLizenzRL, Substanz § 50d Abs. 3 EStG.
 3. **Ansaessigkeitsbescheinigung des Empfaengerstaats anfordern** — Vorlauf 4-8 Wochen.
 4. **Form auswaehlen**: Freistellungsbescheinigung (§ 50c Abs. 2 EStG) oder Erstattung (§ 50c Abs. 3 EStG); BZSt-Online-Portal BOP.
 5. **Anlagen zusammenstellen**:
@@ -150,7 +150,7 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
  - Verguetungsabrechnungen.
  - Substanzdokumentation (Personal, Geschaeftsraeume).
  - Steuerbescheinigung des deutschen Vergueterschuldners (KapErtSt-Bescheinigung).
-6. **Einreichung digital ueber BOP**.
+6. **Einreichung digital über BOP**.
 7. **Bearbeitung 6-24 Monate**; Rueckfragen fristgerecht beantworten.
 8. **Bei Ablehnung**: Einspruch innerhalb eines Monats; ggf. Klage FG Koeln.
 
@@ -161,7 +161,7 @@ Sachverhalt: Deutsche GmbH zahlt Softwarelizenz an US-Schwester (verbunden, > 50
 | Position | Wert |
 |---|---|
 | Lizenzgebuehr brutto | 500.000 EUR |
-| DBA-USA Art. 12 Hoechstsatz | 0 Prozent (Protokoll 2006; DBA-Text pruefen) |
+| DBA-USA Art. 12 Hoechstsatz | 0 Prozent (Protokoll 2006; DBA-Text prüfen) |
 | § 50a-Einbehaltspflicht ohne Freistellungsbescheinigung | 15 Prozent + Soli = 15,825 Prozent |
 | § 50a-Einbehalt absolut | 79.125 EUR |
 | Mit Freistellungsbescheinigung BZSt | 0 EUR |

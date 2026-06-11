@@ -46,14 +46,14 @@ description: "PrALR: Geltungsbereich, subsidiäre Anwendung, Städte, Provinzen,
 
 ### Subsumtionsbeispiel: Erbschaft in Magdeburg 1850
 Sachverhalt: Erbschaftsteilung.
-Pruefung: Erstens gilt Magdeburger Provinzialrecht (Recht der Stadt Magdeburg, basierend auf Magdeburger Recht aus dem Mittelalter). Wenn Magdeburger Recht eine Regelung enthaelt, gilt diese vor ALR. Erst bei Schweigen des Magdeburger Rechts greift ALR I 12.
+Prüfung: Erstens gilt Magdeburger Provinzialrecht (Recht der Stadt Magdeburg, basierend auf Magdeburger Recht aus dem Mittelalter). Wenn Magdeburger Recht eine Regelung enthaelt, gilt diese vor ALR. Erst bei Schweigen des Magdeburger Rechts greift ALR I 12.
 
 ### Subsumtionsbeispiel: Bauernguter in Pommern 1880
 Sachverhalt: Bauerngutverkauf.
-Pruefung: Pommersches Provinzialrecht enthaelt Sondervorschriften für Bauernguter (Heimstaette, Erbenfolge). Diese sind vor ALR zu beachten.
+Prüfung: Pommersches Provinzialrecht enthaelt Sondervorschriften für Bauernguter (Heimstaette, Erbenfolge). Diese sind vor ALR zu beachten.
 
 ### Methodischer Reflex
-- Beim Quellenvergleich immer pruefen: Welches Provinzialrecht? Welches Stadtrecht? Welches Gewohnheitsrecht?
+- Beim Quellenvergleich immer prüfen: Welches Provinzialrecht? Welches Stadtrecht? Welches Gewohnheitsrecht?
 - ALR ist nur **default**.
 - Erst nach BGB-Inkrafttreten 1900 wird das Lokalrecht verdraengt — und auch das nur teilweise (Art. 109 EGBGB Vorbehalt für Landesrecht).
 

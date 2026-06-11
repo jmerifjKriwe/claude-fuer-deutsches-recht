@@ -38,7 +38,7 @@ description: "Vergleich der DSFA-Methoden: CNIL PIA Software (Frankreich) gegenu
 1. **Verarbeitungsbeschreibung.** Was wird verarbeitet, wer ist Verantwortlicher, in welcher Jurisdiktion?
 2. **Verhaeltnismaessigkeitspruefung.** Welche Methodik passt zur Verarbeitung? Standortbezug DE: SDM bevorzugt; FR-Bezug: CNIL PIA; reine TOM-Fragen: BSI-Bausteine ergaenzend.
 3. **Risikoanalyse.** Methodisches Risikomodell waehlen: Schadensszenarien (CNIL), Schutzziele (SDM) oder Schutzbedarf (BSI).
-4. **Massnahmen.** Methode steuert die Massnahmenstruktur: CNIL fragt pro Szenario, SDM pro Schutzziel, BSI pro Baustein.
+4. **Maßnahmen.** Methode steuert die Massnahmenstruktur: CNIL fragt pro Szenario, SDM pro Schutzziel, BSI pro Baustein.
 5. **Restrisiko.** Methodenwahl beeinflusst Bewertungsmassstab; bei Hybridansatz beide Skalen dokumentieren.
 6. **Konsultation / Genehmigung.** DSB-Anhörung; Methodenwahl in der DSFA explizit begruenden.
 
@@ -100,7 +100,7 @@ Unterschrift DSB: ____________________
 - BSI-Grundschutz wird als DSFA-Ersatz behandelt — er ist primaer Sicherheitsmethodik.
 - Hybridansatz wird gewaehlt, ohne die Schnittstellen zu definieren — Doppelarbeit oder Luecken.
 - Sprache der Methodenartefakte passt nicht zur Aufsicht (CNIL-Output franzoesisch bei deutscher Aufsicht).
-- Methodenwahl wird im Projektverlauf gewechselt — kein Quervergleich der Risikobewertung mehr moeglich.
+- Methodenwahl wird im Projektverlauf gewechselt — kein Quervergleich der Risikobewertung mehr möglich.
 - Aufsichtshinweise zur Methodenfreiheit werden als Beliebigkeit verstanden — die Methode muss zur Verarbeitung passen.
 
 ## Quellen Stand 06/2026

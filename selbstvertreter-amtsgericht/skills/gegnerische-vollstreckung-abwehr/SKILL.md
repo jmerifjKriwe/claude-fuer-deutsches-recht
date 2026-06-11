@@ -18,7 +18,7 @@ Wenn Sie das Verfahren verloren haben, kann die Gegenseite gegen Sie vollstrecke
 ## Fachbegriffe (kurz erklaert)
 
 - **Pfaendungs-Freigrenze**: Existenzminimum, das nicht gepfaendet werden darf.
-- **Vollstreckungs-Schutzantrag (§ 765a ZPO)**: Antrag, eine Vollstreckungs-Massnahme als unbillig zu erklaeren.
+- **Vollstreckungs-Schutzantrag (§ 765a ZPO)**: Antrag, eine Vollstreckungs-Maßnahme als unbillig zu erklaeren.
 - **Vollstreckungs-Gegenklage (§ 767 ZPO)**: Klage, mit der die Vollstreckung wegen materieller Einreden gestoppt wird.
 
 ## Rechtsgrundlagen
@@ -30,11 +30,11 @@ Wenn Sie das Verfahren verloren haben, kann die Gegenseite gegen Sie vollstrecke
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pflichtschuldigkeit pruefen
+### Schritt 1 — Pflichtschuldigkeit prüfen
 
 - Liegt Vollstreckungs-Titel vor (rechtskraeftiges Urteil, Vollstreckungsbescheid, vorlaeufig vollstreckbares Urteil)?
 - Klausel zugestellt?
-- Rechtsmittel-Frist abgelaufen? Wenn noch nicht: Berufung pruefen.
+- Rechtsmittel-Frist abgelaufen? Wenn noch nicht: Berufung prüfen.
 
 ### Schritt 2 — Vor Pfaendung: Ratenzahlung anbieten
 
@@ -69,11 +69,11 @@ Mit freundlichen Gruessen
 - Grundfreibetrag (Stand 05/2026 ca. 1.500 EUR netto — aktuelle Tabelle verifizieren).
 - Erhoehungen für unterhaltsberechtigte Personen.
 
-Tabelle § 850c ZPO regelmaessig aktualisiert; ueber justiz.de verfuegbar.
+Tabelle § 850c ZPO regelmaessig aktualisiert; über justiz.de verfuegbar.
 
 ### Schritt 4 — Pfaendungsschutz-Konto
 
-Bei Pfaendung Ihres Bankkontos: Sie koennen das Konto in **Pfaendungsschutz-Konto** (P-Konto) umwandeln (§ 850k ZPO). Damit bleibt Existenz-Minimum geschuetzt.
+Bei Pfaendung Ihres Bankkontos: Sie können das Konto in **Pfaendungsschutz-Konto** (P-Konto) umwandeln (§ 850k ZPO). Damit bleibt Existenz-Minimum geschuetzt.
 
 Antrag bei Ihrer Bank — meist binnen 24 Stunden umgewandelt.
 
@@ -86,7 +86,7 @@ Gerichtsvollzieher darf bestimmte Gegenstaende nicht pfaenden:
 - Kleidung.
 - Bettzeug.
 
-Pruefen Sie das Pfaendungs-Protokoll — wenn Unpfaendbares gepfaendet wurde, Einspruch.
+Prüfen Sie das Pfaendungs-Protokoll — wenn Unpfaendbares gepfaendet wurde, Einspruch.
 
 ### Schritt 6 — Vollstreckungs-Schutzantrag (§ 765a ZPO)
 
@@ -145,7 +145,7 @@ Beweis: ...
 
 Mit Vollstreckungs-Schutzantrag (§ 765a ZPO) oder Vollstreckungs-Gegenklage (§ 767 ZPO) **Antrag auf einstweilige Einstellung** der Vollstreckung (§ 769 ZPO).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Pfaendungs-Schutz-Konto** sofort einrichten bei Pfaendung.
 - **Ratenzahlung** zuerst aussergerichtlich versuchen.
@@ -160,4 +160,4 @@ Mit Vollstreckungs-Schutzantrag (§ 765a ZPO) oder Vollstreckungs-Gegenklage (§
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. §§ 765a, 767, 850 ff. ZPO unveraendert. Pfaendungs-Freigrenzen-Tabelle verifizieren ueber justiz.de.
+Stand: 05/2026. §§ 765a, 767, 850 ff. ZPO unveraendert. Pfaendungs-Freigrenzen-Tabelle verifizieren über justiz.de.

@@ -7,7 +7,7 @@ description: "Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (An
 
 Grenzueberschreitende Forderungsdurchsetzung. Die Wahl des Instruments haengt vom Wohnsitz des Schuldners und vom Streitwert ab.
 
-## Instrumenten-Uebersicht
+## Instrumenten-Übersicht
 
 | Instrument | Anwendungsbereich | Vorteil |
 |---|---|---|
@@ -31,7 +31,7 @@ Grenzueberschreitende Forderungsdurchsetzung. Die Wahl des Instruments haengt vo
 | Verbrauchersache | Art. 17-19 |
 | Versicherung | Art. 10-16 |
 | Arbeitsvertrag | Art. 20-23 |
-| Ausschliesslich (Grundstueck, Register) | Art. 24 |
+| Ausschließlich (Grundstueck, Register) | Art. 24 |
 | Vereinbarung | Art. 25 (Schriftform, Exklusivitaet) |
 
 **Vollstreckung in anderem MS** (Art. 36-44):
@@ -56,9 +56,9 @@ Bestaetigung durch Urspr.-Gericht, Formblatt I. In ZielMS direkt vollstreckbar.
 |---|---|
 | Antragsformular | Formblatt A |
 | Zustaendiges Gericht DE | AG Wedding (Berlin) |
-| Online-Antrag moeglich | www.online-mahnantrag.de |
+| Online-Antrag möglich | www.online-mahnantrag.de |
 | Verteidigungsfrist Bekl. | 30 Tage nach Zustellung |
-| Bei Einspruch | Uebergang ins streitige Verfahren (Pruefung Art. 17 EuMVVO) |
+| Bei Einspruch | Uebergang ins streitige Verfahren (Prüfung Art. 17 EuMVVO) |
 | Bei keinem Einspruch | Vollstreckbarerklaerung Formblatt G |
 | Vollstreckungsorgan | im Wohnsitz-MS Schuldner |
 
@@ -81,11 +81,11 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 | Sachverhalt | Vorgehen |
 |---|---|
 | Anerkennung deutsches Urteil | §§ 328 ZPO Anerkennung in DE; Anerkennung in Drittstaat nach dort. IPR |
-| Bilaterales Abkommen | Vertraege z.B. mit Tunesien, Israel, T?rkei (Anerkennungsabkommen) |
+| Bilaterales Abkommen | Verträge z.B. mit Tunesien, Israel, T?rkei (Anerkennungsabkommen) |
 | Kein Abkommen | erneute Klage im Drittstaat ueblich |
 | Schiedsspruch | New York Convention 1958 (NYÜ) – sehr leistungsfaehig |
 
-## Verfahrensweg-Pruefung Schritt für Schritt
+## Verfahrensweg-Prüfung Schritt für Schritt
 
 ```
 1. Schuldner-Sitz ermitteln
@@ -117,7 +117,7 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 **HZUe 1965** (Haager Zustellungsuebereinkommen) – für Drittstaaten.
 **EuZustVO (EU 2020/1784)** seit 01.07.2022 – innerhalb EU:
 - Direkte Zustellung Justizbehoerde zu Justizbehoerde.
-- Postzustellung mit Einschreiben moeglich (Art. 18).
+- Postzustellung mit Einschreiben möglich (Art. 18).
 - Diplomatischer Weg (Konsulat) bei Bedarf.
 - Uebersetzung in Amtssprache des ZielMS.
 
@@ -139,7 +139,7 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 
 ## Typische Fehler
 
-- Klage in DE gegen Bekl. mit Wohnsitz EU ohne Pruefung Bruessel Ia → ggf. unzuständig.
+- Klage in DE gegen Bekl. mit Wohnsitz EU ohne Prüfung Bruessel Ia → ggf. unzuständig.
 - EuMVVO bei strittiger Forderung – Widerspruch fuehrt in nationale Klage des Bekl.-MS.
 - Uebersetzung vergessen → Zustellung schlaegt fehl.
 - Schiedsklausel ueberhaupt nicht gepruef → New York Convention besserer Pfad.

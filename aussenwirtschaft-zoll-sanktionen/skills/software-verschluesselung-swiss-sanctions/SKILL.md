@@ -17,15 +17,15 @@ description: "Exportkontrolle für Verschluesselungssoftware und Kryptografiepro
 
 - Softwarehaus moechte Produkt mit AES-256-Verschluesselung in Drittlaender exportieren; Genehmigungspflicht unklar.
 - Cloud-Dienst mit Ende-zu-Ende-Verschluesselung wird von EU-Kunden an Endkunden in Embargo-Staaten bereitgestellt.
-- Open-Source-Kryptobibliothek soll in Exportprodukt integriert werden; Klassifizierung pruefen.
+- Open-Source-Kryptobibliothek soll in Exportprodukt integriert werden; Klassifizierung prüfen.
 
 ## Erste Schritte
 
 1. Kryptografische Parameter bestimmen: Algorithmus, Schluessellaenge, Protokoll (TLS SSL VPN SSH).
-2. Einreihung in Kategorie 5 Teil 2 der EU-Dual-Use-Liste (VO 2021/821 Anhang I) pruefen.
-3. Ausnahmeregelungen pruefen: Massenmarktprodukt mit Standard-Kryptografie, Open-Source-Ausnahme.
-4. Allgemeine Genehmigung EU001 auf Anwendbarkeit pruefen (Standard-Verschluesselung in Massenmarktsoftware).
-5. Ziellaender und Endverwender auf Embargo und Catch-All pruefen.
+2. Einreihung in Kategorie 5 Teil 2 der EU-Dual-Use-Liste (VO 2021/821 Anhang I) prüfen.
+3. Ausnahmeregelungen prüfen: Massenmarktprodukt mit Standard-Kryptografie, Open-Source-Ausnahme.
+4. Allgemeine Genehmigung EU001 auf Anwendbarkeit prüfen (Standard-Verschluesselung in Massenmarktsoftware).
+5. Ziellaender und Endverwender auf Embargo und Catch-All prüfen.
 6. Ergebnis als Klassifizierungsvermerk dokumentieren.
 
 ## Rechtsrahmen
@@ -49,7 +49,7 @@ description: "Exportkontrolle für Verschluesselungssoftware und Kryptografiepro
 
 - Standardmaessig eingebettete TLS-Bibliotheken fallen trotzdem unter Dual-Use-Kontrolle.
 - Open-Source-Ausnahme gilt nicht für modifizierte oder proprietaer eingebettete Varianten.
-- Cloud-Dienste: Technologie-Transfer durch Download von verschluesselter Software ueber Landesgrenze.
+- Cloud-Dienste: Technologie-Transfer durch Download von verschluesselter Software über Landesgrenze.
 - US-Re-Export-Kontrollen (EAR) ueberlagern EU-Genehmigung bei US-Ursprungstechnologie.
 
 ## Schnittstellen zu anderen Skills

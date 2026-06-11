@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit histor
 
 ## Worum es geht
 
-Das Presserecht in Deutschland ist durch den Wechsel zwischen Zensur und Freiheit gepraegt. Der Deutsche Bund kannte intensive Pressezensur (Karlsbader Beschluesse 1819). Das Reichspressegesetz 1874 (RGBl. 1874, 65) schuf erstmals Pressefreiheit und hob die Zensur auf, bewahrte aber Straftatbestaende. Die WRV Art. 118 garantierte Meinungsfreiheit, Art. 119 Pressefreiheit. Das NS-Schriftleitergesetz 1933 (RGBl. I 1933, 713) unterstellte die Presse der NS-Kontrolle. Das GG Art. 5 garantiert Meinungs-, Presse- und Rundfunkfreiheit. Das BVerfG pragte diese Rechte durch Leitentscheidungen wie BVerfGE 7, 198 (Lueths Urteil) und BVerfGE 20, 162 (Spiegel-Affaere).
+Das Presserecht in Deutschland ist durch den Wechsel zwischen Zensur und Freiheit gepraegt. Der Deutsche Bund kannte intensive Pressezensur (Karlsbader Beschlüsse 1819). Das Reichspressegesetz 1874 (RGBl. 1874, 65) schuf erstmals Pressefreiheit und hob die Zensur auf, bewahrte aber Straftatbestaende. Die WRV Art. 118 garantierte Meinungsfreiheit, Art. 119 Pressefreiheit. Das NS-Schriftleitergesetz 1933 (RGBl. I 1933, 713) unterstellte die Presse der NS-Kontrolle. Das GG Art. 5 garantiert Meinungs-, Presse- und Rundfunkfreiheit. Das BVerfG pragte diese Rechte durch Leitentscheidungen wie BVerfGE 7, 198 (Lueths Urteil) und BVerfGE 20, 162 (Spiegel-Affaere).
 
 ## Kernnormen / Kernquellen
 
@@ -28,7 +28,7 @@ Das Presserecht in Deutschland ist durch den Wechsel zwischen Zensur und Freihei
 
 ## Akteure und Institutionen
 
-- **Metternich** (1773-1859): Urheber der Karlsbader Beschluesse 1819 gegen Pressefreiheit
+- **Metternich** (1773-1859): Urheber der Karlsbader Beschlüsse 1819 gegen Pressefreiheit
 - **Rudolf Augstein** (1923-2002): Spiegel-Herausgeber, Spiegel-Affaere 1962/66
 - **BVerfG**: Leitentscheidungen zu Art. 5 GG
 - **Landesmediengesetze**: Rundfunkrecht in Länderkompetenz
@@ -39,7 +39,7 @@ Das Presserecht in Deutschland ist durch den Wechsel zwischen Zensur und Freihei
 2. Spiegel-Affaere 1962: Gefaehrdung der Pressefreiheit durch den Staat?
 3. Pressefreiheit und Persoenlichkeitsrecht: Wann endet Pressefreiheit (Caroline-Urteil)?
 4. NS-Schriftleitergesetz: Hat es die Presse gleichgeschaltet oder nur kontrolliert?
-5. Rundfunkfreiheit und Staatsferne: GG Art. 5 und oeffentlich-rechtlicher Rundfunk
+5. Rundfunkfreiheit und Staatsferne: GG Art. 5 und öffentlich-rechtlicher Rundfunk
 
 ## Methodik
 

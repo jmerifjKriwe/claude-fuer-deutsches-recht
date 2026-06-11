@@ -13,7 +13,7 @@ description: "Erfolgskonten-Saldennullstellung zum Jahresende. Anwendungsfall Ja
 
 ## Kernsachverhalt
 
-Zum Jahresende muessen die Erfolgskonten (Klasse 4-8 SKR 03, Klasse 4-7 SKR 04) auf null gestellt werden — ihr Saldo wird ueber das GuV-Konto in den Bilanzgewinn ueberfuehrt. Dieser Vorgang heisst Saldennullstellung oder GuV-Abschluss und ist Standardprozess zum Bilanzstichtag. Die DATEV/Addison-Systeme erledigen das automatisch beim Wirtschaftsjahres-Wechsel, aber der Steuerberater muss das Ergebnis dokumentieren und pruefen.
+Zum Jahresende müssen die Erfolgskonten (Klasse 4-8 SKR 03, Klasse 4-7 SKR 04) auf null gestellt werden — ihr Saldo wird über das GuV-Konto in den Bilanzgewinn ueberfuehrt. Dieser Vorgang heisst Saldennullstellung oder GuV-Abschluss und ist Standardprozess zum Bilanzstichtag. Die DATEV/Addison-Systeme erledigen das automatisch beim Wirtschaftsjahres-Wechsel, aber der Steuerberater muss das Ergebnis dokumentieren und prüfen.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,7 +24,7 @@ Zum Jahresende muessen die Erfolgskonten (Klasse 4-8 SKR 03, Klasse 4-7 SKR 04) 
 5. Welche Verwendung Bilanzgewinn — Thesaurierung, Ausschuettung, Verlustvortrag?
 6. Liegt Gesellschafterbeschluss zur Ergebnisverwendung vor?
 7. Welche steuerlichen Korrekturen sind zu erwarten (Mehr- oder Wenigergewinn vs. Steuerbilanz)?
-8. Welche Konto-Schlussbestand Pruefung (alle Bestandskonten Endsaldo dokumentiert)?
+8. Welche Konto-Schlussbestand Prüfung (alle Bestandskonten Endsaldo dokumentiert)?
 
 ## Rechtlicher Rahmen
 
@@ -49,7 +49,7 @@ Zum Jahresende muessen die Erfolgskonten (Klasse 4-8 SKR 03, Klasse 4-7 SKR 04) 
 
 ## Workflow
 
-### Phase 1 — Vor-Pruefung Jahresend-Schluss
+### Phase 1 — Vor-Prüfung Jahresend-Schluss
 
 - Alle laufenden Belege Dezember verbucht?
 - Periodenabgrenzung gebucht (RAP)?
@@ -78,7 +78,7 @@ Saldo Konto 9999 (Gewinn/Verlust) → Konto 2000 (Bilanzgewinn) [GmbH]
 - Bei manueller Korrektur in DATEV: Berater-Funktion.
 - Bei Addison: vergleichbare Automatik.
 
-### Phase 4 — Pruefung Konsistenz
+### Phase 4 — Prüfung Konsistenz
 
 - Schluss-SuSa: alle Erfolgskonten Saldo 0?
 - Bilanzkonten: Endsalden mit Bilanzpositionen abgestimmt?
@@ -98,12 +98,12 @@ Saldo Konto 9999 (Gewinn/Verlust) → Konto 2000 (Bilanzgewinn) [GmbH]
 
 ## Strategie und Praxis-Tipps
 
-- Erfolgskonten-Schliessung ist der Schluss-Stempel des Jahres. Spaetere Aenderungen muessen ueber Vorperioden-Korrekturen laufen.
-- Bei wesentlichen Nachtraegen in der Pruefung: ggf. erneut schliessen.
+- Erfolgskonten-Schliessung ist der Schluss-Stempel des Jahres. Spaetere Aenderungen müssen über Vorperioden-Korrekturen laufen.
+- Bei wesentlichen Nachtraegen in der Prüfung: ggf. erneut schliessen.
 - Bilanzgewinn-Verwendung erst nach Gesellschafterbeschluss buchen.
-- Bei Personenunternehmen: Privatentnahmen und -einlagen ueber das Jahr separat — werden in Kapitalkonto verrechnet.
+- Bei Personenunternehmen: Privatentnahmen und -einlagen über das Jahr separat — werden in Kapitalkonto verrechnet.
 - StBVV: Jahresabschluss-Erstellung StBVV § 35 — gesonderter Auftrag.
-- DATEV-Tipp: Jahreswechsel mit DATEV-Berater-Lauf; manuelle Korrekturen nur ueber Berater-Funktion.
+- DATEV-Tipp: Jahreswechsel mit DATEV-Berater-Lauf; manuelle Korrekturen nur über Berater-Funktion.
 
 ## Quellen und Updates
 

@@ -21,7 +21,7 @@ Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach
 
 1. **Was bestreitet der Mandant?** — Tathandlung, Fahrereigenschaft, Vorsatz, Schuld? Klare Abgrenzung der streitigen Punkte.
 2. **Aktenlage:** Welche Beweismittel hat die Staatsanwaltschaft — Zeugen, Messgeraet, Video, Gestaendnis im Anhörungsbogen?
-3. **Hat der Mandant sich bereits gegenueber der Polizei gaeussert?** — Aussagen im Anhörungsverfahren oder Vernehmung koennen belastend sein.
+3. **Hat der Mandant sich bereits gegenueber der Polizei gaeussert?** — Aussagen im Anhörungsverfahren oder Vernehmung können belastend sein.
 4. **Anhörungsbogen ausgefuellt oder unterschrieben?** — Nur schriftliche Bekanntgabe, kein Gestaendnis; Unterschrift kann als Einraeuming der Fahrereigenschaft ausgelegt werden.
 5. **Dauer der Hauptverhandlung und Ressourcen des Mandanten** — Einlassung mit Kostenpruefung abstimmen.
 6. **Smartphone-, Polizei- oder Versammlungsaufnahme?** — Bei Strafbefehl wegen Filmens/Audioaufnahme sofort `strafbefehl-polizeifilmerei-201-kug` hinzuziehen: § 201 StGB, § 201a StGB und KunstUrhG/KUG dürfen nicht vermischt werden.
@@ -32,7 +32,7 @@ Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach
 - **§ 136a StPO** — Verbotene Vernehmungsmethoden; Verstoss = absolutes Beweisverwertungsverbot
 - **§ 163a StPO** — Vernehmung des Beschuldigten durch die Polizei; Belehrungspflicht
 - **§ 244 StPO** — Beweisantragsrecht; Gericht muss jeden Beweisantrag bescheiden
-- **§ 257c StPO** — Verstaendigung (Deal); auch im vereinfachten Verfahren moeglich
+- **§ 257c StPO** — Verstaendigung (Deal); auch im vereinfachten Verfahren möglich
 - **§ 46 StGB** — Strafzumessung; Gestaendnis als Milderungsgrund
 - **§§ 22, 23, 33 KunstUrhG/KUG** — Bildnisveröffentlichung; bloße Anfertigung von Bildern getrennt prüfen
 - **§§ 201, 201a StGB** — Tonaufnahmen und höchstpersönliche Bildinhalte; Nichtöffentlichkeit, Schutzbereich und Rechtfertigung sauber trennen
@@ -69,7 +69,7 @@ Anhörungsbogen ausgefuellt?
 1. **Akteneinsicht anfordern** (§ 147 StPO) — Basis für jede Einlassungsstrategie.
 2. **Beweislage analysieren:** Welche Beweismittel hat die Anklage? Sind sie verwertbar (Belehrungsfehler, § 136a-Verstoss)?
 3. **Mandantengespraech: Sachverhaltsschilderung vollstaendig aufnehmen** — ohne Bewertung, nur erfassen.
-4. **Strategie festlegen** (s. Entscheidungsbaum) — schriftlich dokumentieren, Mandant ueber Risiken aufklaeren.
+4. **Strategie festlegen** (s. Entscheidungsbaum) — schriftlich dokumentieren, Mandant über Risiken aufklaeren.
 5. **Einlassung formulieren oder Schweigen anordnen** — bei Schweigen Mandanten anweisen, keine Angaben gegenueber Polizei/Staatsanwaltschaft zu machen.
 6. **Beweisantraege formulieren** (§ 244 StPO) — konkret: Beweisthema und Beweismittel benennen.
 7. **Wenn Gestaendnis:** Timing und Umfang mit Mandant absprechen; Gestaendnis in HV fruehzeitig abgeben für optimalen Strafzumessungseffekt.
@@ -104,6 +104,6 @@ Strafmildernd ist zu beruecksichtigen:
 
 - Keine Einlassung vor vollstaendiger Akteneinsicht.
 - Schweigrecht nach § 136 StPO ausueben bis Aktenlage klar ist.
-- Gestaendnis nur nach Mandantenruecksprache und Aufklaerung ueber Tragweite.
-- Beweisverwertungsverbote aktiv pruefen — Fehler der Ermittlungsbehoerden nicht verschenken.
+- Gestaendnis nur nach Mandantenruecksprache und Aufklaerung über Tragweite.
+- Beweisverwertungsverbote aktiv prüfen — Fehler der Ermittlungsbehoerden nicht verschenken.
 - Anwaltliche Endkontrolle bei jedem Schritt.

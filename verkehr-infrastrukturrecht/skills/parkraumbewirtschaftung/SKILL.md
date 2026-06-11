@@ -15,9 +15,9 @@ description: "Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten:
 
 ## Triage zu Beginn
 
-1. **Oeffentliche oder private Parkflaeche?** — Oeffentlich (StVO/Gemeinderecht); Private (Strafrecht, Hausrecht, Vertragsrecht).
+1. **Oeffentliche oder private Parkflaeche?** — Öffentlich (StVO/Gemeinderecht); Private (Strafrecht, Hausrecht, Vertragsrecht).
 2. **Welcher Eingriff?** — Bewohnerparkausweis-Ablehnung, Abschleppung, Halteverbots-Anordnung, Parkgebuehren-Bescheid?
-3. **Sofortmassnahme?** — Abschleppung ist vollzogen: Abschleppkostenerstattung pruefen.
+3. **Sofortmassnahme?** — Abschleppung ist vollzogen: Abschleppkostenerstattung prüfen.
 4. **Kommunales Konzept?** — Parkraumkonzept der Gemeinde als Rechtsgrundlage.
 5. **Klageweg?** — Verwaltungsgericht bei Verwaltungsakt (Halteverbot-Anordnung, Abschleppung); Zivilgericht bei privatem Parkplatz.
 
@@ -25,7 +25,7 @@ description: "Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten:
 
 - **§ 45 Abs. 1b Nr. 2a StVO** — Bewohnerparkausweis; Anordnungsgrundlage für beschraenkte Parkerlaubnis
 - **§ 45 Abs. 1 StVO** — Allgemeine Verkehrsregelungs-Befugnis der Strassenverkehrsbehoerde
-- **§ 6a StVG** — Gebühren für besondere Massnahmen der Strassenverkehrsbehoerde
+- **§ 6a StVG** — Gebühren für besondere Maßnahmen der Strassenverkehrsbehoerde
 - **§ 12 StVO** — Halteverbote; Haltverbot-Zonen
 - **§ 16 StrWG NRW / § 16 StrWG entspr.** — Sondernutzung öffentlicher Strassenflaechen
 - **§ 25 PolG / VwVG** — Unmittelbarer Zwang; Abschleppung als Vollzugshandlung
@@ -39,9 +39,9 @@ description: "Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten:
 ## Schritt-für-Schritt-bei Abschleppung
 
 1. **Abschleppung vollzogen:** Datum, Ort, Fahrzeug, Einsatzkraefte dokumentieren.
-2. **Rechtsgrundlage pruefen:** War Halteverbot klar beschildert? War Fahrzeug tatsaechlich im Haltverbot?
+2. **Rechtsgrundlage prüfen:** War Halteverbot klar beschildert? War Fahrzeug tatsaechlich im Haltverbot?
 3. **Kosten-Bescheid erhalten:** Rechnungshoehe; angemessene Kosten (ADAC-Richtwerte als Vergleich)?
-4. **Verhaeltnismaessigkeit pruefen:** Lag konkrete Verkehrsbehinderung vor? War Sofortabschleppung notwendig?
+4. **Verhältnismäßigkeit prüfen:** Lag konkrete Verkehrsbehinderung vor? War Sofortabschleppung notwendig?
 5. **Widerspruch:** 1-Monat-Frist (§ 70 VwGO); Kosten-Begruendung anfechten.
 
 ## Harte Leitplanken

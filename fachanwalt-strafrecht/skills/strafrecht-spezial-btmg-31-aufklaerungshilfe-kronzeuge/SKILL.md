@@ -18,7 +18,7 @@ description: "§ 31 BtMG kleine Kronzeugenregelung: Strafmilderung oder Absehen 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** § 31 BtMG kleine Kronzeugenregelung: Strafmilderung oder Absehen von Strafe bei wesentlicher Aufklaerungshilfe. Abgrenzung zu § 46b StGB grosse Kronzeugenregelung. Voraussetzungen, Verhandlungstaktik, Zeugenschutz.
+**Fokus:** § 31 BtMG kleine Kronzeugenregelung: Strafmilderung oder Absehen von Strafe bei wesentlicher Aufklaerungshilfe. Abgrenzung zu § 46b StGB große Kronzeugenregelung. Voraussetzungen, Verhandlungstaktik, Zeugenschutz.
 
 ### § 31 BtMG: Kleine Kronzeugenregelung Aufklaerungshilfe
 
@@ -30,7 +30,7 @@ Abzugrenzen ist § 31 BtMG von § 46b StGB (allgemeine Kronzeugenregelung). § 3
 
 ## Tatbestand und Stoffliche Erfassung
 
-**§ 31 Nr. 1 BtMG — Aufklaerungshilfe:** Der Taeter hat durch freiwillige Offenbarung seines Wissens wesentlich dazu beigetragen, dass die Tat ueber seinen Tatbeitrag hinaus aufgedeckt werden konnte.
+**§ 31 Nr. 1 BtMG — Aufklaerungshilfe:** Der Taeter hat durch freiwillige Offenbarung seines Wissens wesentlich dazu beigetragen, dass die Tat über seinen Tatbeitrag hinaus aufgedeckt werden konnte.
 
 **§ 31 Nr. 2 BtMG — Praeventionshilfe:** Der Taeter hat sein Wissen so rechtzeitig einer Dienststelle offenbart, dass Straftaten nach § 29 Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a Abs. 1 BtMG, von deren Planung er weiss, noch verhindert werden konnten.
 
@@ -56,19 +56,19 @@ Abzugrenzen ist § 31 BtMG von § 46b StGB (allgemeine Kronzeugenregelung). § 3
 
 ## Praktikertipps der Verteidigung
 
-- **Strategische Entscheidung vor Aussage:** Aufklaerungshilfe ist meist nicht reversibel. Vor der ersten Aussage Akteneinsicht abwarten, Beweislage einschaetzen, Mandant ueber Folgen aufklaeren.
+- **Strategische Entscheidung vor Aussage:** Aufklaerungshilfe ist meist nicht reversibel. Vor der ersten Aussage Akteneinsicht abwarten, Beweislage einschaetzen, Mandant über Folgen aufklaeren.
 - **Wesentlichkeit dokumentieren:** Schriftliche Einlassung mit konkreten Namen, Daten, Mengen. Vage Hinweise reichen nicht. Lieber praezise und ueberpruefbar.
-- **Freiwilligkeit:** Vor Ueberfuehrung offenbaren. Wer erst nach Beweismittellage spricht, kann Wesentlichkeit verlieren. Bei spaeter Offenbarung dennoch zumindest § 46b StGB pruefen.
-- **Praeventionshilfe § 31 Nr. 2 BtMG:** Besonders attraktiv: Auch Strafen anderer Personen koennen verhindert werden. Voraussetzung: rechtzeitige Offenbarung, bevor Tat begangen ist.
+- **Freiwilligkeit:** Vor Ueberfuehrung offenbaren. Wer erst nach Beweismittellage spricht, kann Wesentlichkeit verlieren. Bei später Offenbarung dennoch zumindest § 46b StGB prüfen.
+- **Praeventionshilfe § 31 Nr. 2 BtMG:** Besonders attraktiv: Auch Strafen anderer Personen können verhindert werden. Voraussetzung: rechtzeitige Offenbarung, bevor Tat begangen ist.
 - **Zeugenschutz:** Bei organisierter Kriminalitaet § 110a ff. StPO (V-Personen), Zeugenschutzgesetz, § 68 StPO Anonymisierung. Bei realer Gefahr Zeugenschutzprogramm erwaegen.
-- **Abgrenzung § 31 BtMG / § 46b StGB:** § 31 BtMG nur für BtMG-Taten; wenn Mandant ueber Nicht-BtMG-Taten aufklaert, § 46b StGB (Katalogtat erforderlich).
+- **Abgrenzung § 31 BtMG / § 46b StGB:** § 31 BtMG nur für BtMG-Taten; wenn Mandant über Nicht-BtMG-Taten aufklaert, § 46b StGB (Katalogtat erforderlich).
 - **Verfahrensoekonomie:** Aufklaerungshilfe haeufig in Verbindung mit § 257c StPO (Verstaendigung) — Detail-Skill `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`.
 
 ## Trade-off-Matrix
 
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
-| Frueh und vollstaendig aussagen | Hoechste Strafmilderung, Bewaehrung moeglich | Belastung Dritter, Konflikte in Haft, Lebensgefahr in OK-Faellen |
+| Frueh und vollstaendig aussagen | Hoechste Strafmilderung, Bewaehrung möglich | Belastung Dritter, Konflikte in Haft, Lebensgefahr in OK-Faellen |
 | Spaet, nach Akteneinsicht | Bessere Beweiskenntnis | Wesentlichkeit gefaehrdet |
 | Schweigen | Keine Selbstbelastung, kein Konflikt | Keine § 31-Milderung; bei § 30a fuenf Jahre Mindeststrafe |
 | § 31 + § 257c StPO Verstaendigung | Planbare Strafe | Verhandlungsfuehrung anspruchsvoll, Bindungswirkung |
@@ -76,27 +76,27 @@ Abzugrenzen ist § 31 BtMG von § 46b StGB (allgemeine Kronzeugenregelung). § 3
 
 ## Konkurrenzen
 
-- § 31 BtMG zu § 46b StGB: § 31 BtMG vorrangig bei BtMG-Taten; § 46b StGB tritt hinzu, wenn der Aufklaerungsbeitrag auch ueber den BtMG-Rahmen hinaus reicht.
+- § 31 BtMG zu § 46b StGB: § 31 BtMG vorrangig bei BtMG-Taten; § 46b StGB tritt hinzu, wenn der Aufklaerungsbeitrag auch über den BtMG-Rahmen hinaus reicht.
 - § 31 BtMG zu § 49 StGB: Strafrahmenverschiebung erfolgt zwingend nach § 49 Abs. 1 oder Abs. 2 StGB.
 
 ## Strafzumessung und Therapie statt Strafe
 
 - Strafrahmenverschiebung nach § 49 Abs. 1 StGB: 1/4 der gesetzlichen Hoechststrafe entfaellt, Mindeststrafe sinkt entsprechend.
-- Bei § 30a BtMG: Mindeststrafe 2 Jahre statt 5 Jahre. Bewaehrung erst ab Strafe bis 2 Jahre. § 31 ist also der Schluessel zur Bewaehrungsfaehigkeit bei § 30a BtMG.
+- Bei § 30a BtMG: Mindeststrafe 2 Jahre statt 5 Jahre. Bewaehrung erst ab Strafe bis 2 Jahre. § 31 ist also der Schlüssel zur Bewaehrungsfaehigkeit bei § 30a BtMG.
 - Kombination mit § 30a Abs. 3 BtMG (minder schwerer Fall): Mindeststrafe sechs Monate.
 - § 35 BtMG (Therapie statt Strafe) bleibt anwendbar.
 
 ## Mustertexte
 
 **Schriftsatz Aufklaerungshilfe § 31 BtMG:**
-"Namens und im Auftrag meines Mandanten lege ich folgende Aufklaerungshilfe gemaess § 31 Nr. 1 BtMG vor:
+"Namens und im Auftrag meines Mandanten lege ich folgende Aufklaerungshilfe gemäß § 31 Nr. 1 BtMG vor:
 1. Mein Mandant offenbart freiwillig: [Sachverhaltskomplex mit Namen, Daten, Mengen]
 2. Die Offenbarung erfolgt vor wesentlicher Ueberfuehrung, ist umfassend und nachpruefbar.
-3. Der Beitrag fuehrt ueber den eigenen Tatbeitrag meines Mandanten hinaus zur Aufklaerung von [konkrete Taten].
+3. Der Beitrag fuehrt über den eigenen Tatbeitrag meines Mandanten hinaus zur Aufklaerung von [konkrete Taten].
 Wir beantragen Strafrahmenverschiebung nach § 49 Abs. 1 StGB, hilfsweise Absehen von Strafe nach § 31 Halbsatz 2 BtMG."
 
 **Antrag § 257c StPO Verstaendigung:**
-"Mein Mandant ist bereit, Aufklaerungshilfe nach § 31 BtMG zu leisten und ein umfassendes Gestaendnis abzulegen. Im Rahmen einer Verstaendigung wird eine Strafe nicht ueber [X] Jahren Freiheitsstrafe mit Bewaehrungsvorbehalt angeregt."
+"Mein Mandant ist bereit, Aufklaerungshilfe nach § 31 BtMG zu leisten und ein umfassendes Gestaendnis abzulegen. Im Rahmen einer Verstaendigung wird eine Strafe nicht über [X] Jahren Freiheitsstrafe mit Bewaehrungsvorbehalt angeregt."
 
 ## Quellen Stand 06/2026
 

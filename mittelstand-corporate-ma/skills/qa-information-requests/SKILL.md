@@ -146,7 +146,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 43a BRAO — anwaltliche Sorgfaltspflichten: vollstaendige Mandatsfuehrung; Unterlassen kann Haftung ausloesen
 - §§ 675, 280 BGB — Beratungsvertrag und Schadensersatz: Anwalt haftet bei Pflichtverletzung; gilt auch für Organisation und Kommunikation
 - § 2 GmbHG; § 15 GmbHG — gesellschaftsrechtliche Grundlagen GmbH: relevant für alle Corporate-Mandate
-- §§ 29-33 HGB — Handelsregisterpublizitaet: Wissen ueber eintragungspflichtige Tatsachen wird konstruktiv zugerechnet
+- §§ 29-33 HGB — Handelsregisterpublizitaet: Wissen über eintragungspflichtige Tatsachen wird konstruktiv zugerechnet
 
 ### Leitsaetze aus der Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -161,6 +161,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 <!-- AUDIT 27.05.2026
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Massnahme: Leitsatz korrigiert auf tatsaechlichen Inhalt: gesteigerte vorvertragliche Aufklaerungspflicht des Verkaeufers beim GmbH-Anteilskauf; Nichtoffenbarung von Zahlungsunfaehigkeit / Konkursreife begruendet arglistige Taeuschung.
+Maßnahme: Leitsatz korrigiert auf tatsaechlichen Inhalt: gesteigerte vorvertragliche Aufklaerungspflicht des Verkaeufers beim GmbH-Anteilskauf; Nichtoffenbarung von Zahlungsunfaehigkeit / Konkursreife begruendet arglistige Taeuschung.
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=04.04.2001&Aktenzeichen=VIII+ZR+32%2F00
 -->

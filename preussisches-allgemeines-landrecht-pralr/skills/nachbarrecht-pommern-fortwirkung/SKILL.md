@@ -27,7 +27,7 @@ description: "PrALR: Nachbarrechtliche Fortwirkung, lokale Rechtsräume, Pommern
 ### Schluesselparagraphen
 - **ALR I 23 §§ 1-30**: Allgemeine Nachbarrechte; Grenzbaeume, Grenzhecken (Grenzbaum gehoert beiden Nachbarn anteilig).
 - **ALR I 23 §§ 35-50**: Immissionen — Rauch, Geruch, Gewerbedaempfe; Untersagung nur, wenn "uebermäßige Beeintraechtigung".
-- **ALR I 23 §§ 80 ff.**: Notweg ueber Nachbarsgrundstueck bei eingeschlossener Lage; Entschaedigung.
+- **ALR I 23 §§ 80 ff.**: Notweg über Nachbarsgrundstueck bei eingeschlossener Lage; Entschaedigung.
 - **ALR I 23 §§**: Traufrecht — Wasser darf von Hausdach auf Nachbarsgrundstueck fliessen, sofern keine wesentliche Schaedigung.
 
 ### Subsumtionsbeispiel: Eingeschlossenes Grundstueck in Pommern 1900
@@ -40,7 +40,7 @@ ALR-Loesung: ALR I 23 §§ 35-50 — Beurteilung nach Ortsueblichkeit; bei "uebe
 
 ### Pommern-Spezifikum
 - Pommersche Gueter mit jahrhundertelangen Servituten waren bis 1945 Hauptanwendungsfall.
-- Nach 1945 in der DDR Bodenreform; nach Wiedervereinigung Eigentumsfragen ueber das Vermögensgesetz und Sachenrechtsbereinigungsgesetz.
+- Nach 1945 in der DDR Bodenreform; nach Wiedervereinigung Eigentumsfragen über das Vermögensgesetz und Sachenrechtsbereinigungsgesetz.
 
 ### Heutige Fortwirkung
 - § 906 BGB Immissionen.

@@ -28,7 +28,7 @@ description: "Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils —
 
 ## Triage zu Beginn
 
-Vor der Profilanpassung klaeren:
+Vor der Profilanpassung klären:
 
 1. **Profil vorhanden?** Existiert eine CLAUDE.md mit abgeschlossenem Kaltstart-Interview? Falls nicht: `gesellschaftsrecht-kaltstart-interview` zuerst ausfuehren.
 2. **Was soll geaendert werden?** Ein Abschnitt (Wesentlichkeitsschwelle, Modul, Risikoprofil, Person) oder mehrere Abschnitte? — Pro Durchlauf nur eine Aenderung.
@@ -129,9 +129,9 @@ Weitere Anpassungen: `/gesellschaftsrecht:gesellschaftsrecht-anpassen` erneut au
 
 ## Rote Schwellen
 
-- **Wesentlichkeitsschwelle M&A auf null oder sehr niedrig gesetzt** — alle Vertraege werden als wesentlich geflaggt; DD-Tools werden unbrauchbar; Wert ueberdenken.
-- **Modul deaktiviert, obwohl aktive Mandate dieses Modul nutzen** — laufende Mandate koennen Skills nicht mehr laden; erst nach Abschluss aller Mandate in diesem Bereich deaktivieren.
-- **Schutzfunktionen (\"pruefen\"-Flags, Quellenhinweise) entfernt** — haftungsrechtliches Risiko; vor Entfernung Trade-off ausfuehrlich erklaeren.
+- **Wesentlichkeitsschwelle M&A auf null oder sehr niedrig gesetzt** — alle Verträge werden als wesentlich geflaggt; DD-Tools werden unbrauchbar; Wert ueberdenken.
+- **Modul deaktiviert, obwohl aktive Mandate dieses Modul nutzen** — laufende Mandate können Skills nicht mehr laden; erst nach Abschluss aller Mandate in diesem Bereich deaktivieren.
+- **Schutzfunktionen (\"prüfen\"-Flags, Quellenhinweise) entfernt** — haftungsrechtliches Risiko; vor Entfernung Trade-off ausfuehrlich erklaeren.
 - **Mehrere Abschnitte in einem Durchlauf geaendert** — Downstream-Konflikte schwer nachverfolgbar; eine Aenderung pro Durchlauf.
 
 ## Beispiel

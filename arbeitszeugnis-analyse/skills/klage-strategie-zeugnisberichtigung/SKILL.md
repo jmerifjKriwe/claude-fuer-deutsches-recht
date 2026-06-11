@@ -103,7 +103,7 @@ Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, 
 
 | Entscheidung | Tragende Aussage | Freie Quelle |
 | --- | --- | --- |
-| **BAG, Urt. v. 21.09.1999 - 9 AZR 893/98** | Aeussere Form: zweimaliges Falten zulaessig, wenn Original kopierfaehig bleibt und Knicke nicht durchschlagen. Wer mit Maschinenname unterzeichnet, muss eigenhaendig unterschreiben. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 21.09.1999 - 9 AZR 893/98** | Aeussere Form: zweimaliges Falten zulässig, wenn Original kopierfaehig bleibt und Knicke nicht durchschlagen. Wer mit Maschinenname unterzeichnet, muss eigenhaendig unterschreiben. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 27.04.2021 - 9 AZR 262/20** | Tabellarische Ankreuz-/Schulnotenformulare erfuellen $ 109 GewO regelmaessig nicht - individuelle Hervorhebung verlangt Fliesstext. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Beschl. v. 07.05.2026 - 8 AZB 25/25** | Im gerichtlichen Vergleich uebernommene Pflicht, Zeugnis nach dem ENTWURF des Arbeitnehmers zu erteilen mit Abweichungs-Vorbehalt aus wichtigem Grund, hat vollstreckungsfaehigen Inhalt. | bundesarbeitsgericht.de / dejure.org (vor Schriftsatzverwendung live verifizieren - Entscheidung aus 2026) |
 | **BAG, Urt. v. 08.03.1995 - 5 AZR 848/93** | Zeugniserteilung ist Holschuld ($ 269 BGB): Arbeitnehmer holt im Betrieb ab; nur ausnahmsweise (Unzumutbarkeit, $ 242 BGB) Schickschuld. | bundesarbeitsgericht.de / dejure.org |
@@ -118,6 +118,6 @@ Wenn Urteil oder Vergleich vorliegt, der Arbeitgeber aber nicht oder falsch erfu
 | Titulierter Zeugnisanspruch wird nicht erfuellt | Zwangsgeld, ersatzweise Zwangshaft ($ 888 ZPO - nicht vertretbare Handlung) |
 | Vergleich mit Entwurfsklausel ("Zeugnis nach Entwurf des Arbeitnehmers, Abweichung nur aus wichtigem Grund") | Unmittelbar vollstreckbar (BAG 07.05.2026 - 8 AZB 25/25 - vor Verwendung live verifizieren) |
 | Erteiltes Zeugnis weicht vom Titel ab | Im Vollstreckungsverfahren ruegen; ironische Uebererfuellung ist Nichterfuellung (LAG Hamm 12 Ta 475/16) |
-| Streit ueber "wichtigen Grund" der Abweichung | Arbeitgeber muss den wichtigen Grund darlegen; sonst Zwangsmittel |
+| Streit über "wichtigen Grund" der Abweichung | Arbeitgeber muss den wichtigen Grund darlegen; sonst Zwangsmittel |
 
 **Praxisregel:** Schon beim Vergleichsschluss an die Vollstreckung denken - die Entwurfsklausel mit Wichtiger-Grund-Vorbehalt macht aus dem Vergleich einen scharfen Titel.

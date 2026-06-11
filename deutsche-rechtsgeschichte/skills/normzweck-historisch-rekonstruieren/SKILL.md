@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -52,7 +52,7 @@ Die historische Normzweckrekonstruktion (genetische Auslegung) fragt: Was wollte
 ## Typische Streitfragen / Forschungsfragen
 
 1. Normzweck und Wortlaut: Was gilt bei Widerspruch?
-2. Normzweck und zeitlicher Wandel: Kann sich der Zweck einer Norm aendern?
+2. Normzweck und zeitlicher Wandel: Kann sich der Zweck einer Norm ändern?
 3. Draftsmen intention vs. Parliamentary intent: Wessen Wille zaehlt?
 4. Historische Auslegung und Analogie: Wie unterscheiden sie sich?
 5. Fehlerhafter Normzweck: Was wenn die Materialien falsche Tatsachen voraussetzen?

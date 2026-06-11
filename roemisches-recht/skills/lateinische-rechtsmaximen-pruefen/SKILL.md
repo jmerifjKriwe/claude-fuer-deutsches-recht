@@ -3,7 +3,7 @@ name: lateinische-rechtsmaximen-pruefen
 description: "Römisches Recht: Lateinische Rechtsmaximen Pruefen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
-# Lateinische Rechtsmaximen Pruefen
+# Lateinische Rechtsmaximen Prüfen
 
 ## Quellenanker
 

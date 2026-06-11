@@ -132,10 +132,10 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Closing-Deliverables-Register anlegen:** alle SPA-Deliverables aus Schedule/Annex extrahieren, Owner und Faelligkeitsdatum zuordnen
-2. **Signaturketten pruefen:** für jeden signierten Vertrag: Originalunterschriften, Vollmachten, Vertretungsmacht gemaess Handelsregisterstand pruefen
-3. **Notarpflichten abarbeiten:** SPA-Beurkundung, Anteilsuebertragung gemaess § 15 Abs. 3 GmbHG, Anlagen mitbeurkundet?
-4. **Registeranmeldungen:** Gesellschafterliste gemaess § 40 GmbHG, HR-Anmeldung Geschaeftsfuehrerwechsel/Satzungsaenderung, Transparenzregister gemaess § 20 TranspRG
-5. **Funds Flow und Closing Payments pruefen:** Kaufpreistransfernachweise, Bankbestaetigung, Freistellung von Sicherheiten
+2. **Signaturketten prüfen:** für jeden signierten Vertrag: Originalunterschriften, Vollmachten, Vertretungsmacht gemäß Handelsregisterstand prüfen
+3. **Notarpflichten abarbeiten:** SPA-Beurkundung, Anteilsuebertragung gemäß § 15 Abs. 3 GmbHG, Anlagen mitbeurkundet?
+4. **Registeranmeldungen:** Gesellschafterliste gemäß § 40 GmbHG, HR-Anmeldung Geschaeftsfuehrerwechsel/Satzungsaenderung, Transparenzregister gemäß § 20 TranspRG
+5. **Funds Flow und Closing Payments prüfen:** Kaufpreistransfernachweise, Bankbestaetigung, Freistellung von Sicherheiten
 6. **Closing Bible zusammenstellen:** Inhaltsverzeichnis mit Tab-Struktur, je Dokument: Bezeichnung, Parteien, Datum, Fassung, Datenraum-Referenz
 7. **Offene Punkte als Post-Closing Obligations:** Fristen, Owner, Eskalationsstufe
 8. **Archivierung:** Deal-Archiv anlegen mit Zugriffskonzept, Vertraulichkeitsstufen, Retention Policy (§ 257 HGB: 10 Jahre)
@@ -143,7 +143,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Entscheidungsbaum
 
 - GmbH-Anteilsuebertragung → § 15 Abs. 3 GmbHG → notarielle Beurkundung erforderlich → ohne Beurkundung: Nichtigkeit
-- AG-Aktien vinkuliert → Zustimmung Hauptversammlung/AR-Beschluss pruefen → Eintrag Aktienbuch
+- AG-Aktien vinkuliert → Zustimmung Hauptversammlung/AR-Beschluss prüfen → Eintrag Aktienbuch
 - Transparenzregisterpflicht → § 19 GwG Wirtschaftlich Berechtigte neu? → Frist 2 Wochen ab Closing
 - Registeranmeldung Namenswechsel/Satzungsaenderung → notarielle Form → Registergericht
 

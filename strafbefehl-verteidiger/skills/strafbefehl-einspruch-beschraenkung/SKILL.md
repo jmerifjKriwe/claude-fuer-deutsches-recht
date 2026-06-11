@@ -27,8 +27,8 @@ Beschraenkter Einspruch nach § 410 Abs. 2 StPO auf Rechtsfolgen. Schuldspruch w
 
 ## Zentrale Normen
 
-- **§ 410 Abs. 2 StPO** — beschraenkter Einspruch auf Rechtsfolgen moeglich
-- **§ 40 StGB** — Tagessatzsystem; Anzahl nach Schuld, Hoehe nach Nettoeinkommen / 30
+- **§ 410 Abs. 2 StPO** — beschraenkter Einspruch auf Rechtsfolgen möglich
+- **§ 40 StGB** — Tagessatzsystem; Anzahl nach Schuld, Höhe nach Nettoeinkommen / 30
 - **§ 25 StVG** — Fahrverbot im Busgeldverfahren (1 bis 3 Monate)
 - **§ 44 StGB** — Fahrverbot als strafrechtliche Nebenfolge (1 bis 6 Monate)
 - **§ 73 StGB** — Einziehung von Tatertraegen
@@ -104,6 +104,6 @@ Mit freundlichen Gruessen [KANZLEI]
 ## Harte Leitplanken
 
 - Beschraenkt-Einspruch nur nach ausdruecklicher Mandantenanweisung.
-- Schriftliche Aufklaerung ueber Rechtskraft des Schuldspruchs und Verboescherungs-Risiko.
+- Schriftliche Aufklaerung über Rechtskraft des Schuldspruchs und Verboescherungs-Risiko.
 - Einkommensnachweise vor der Hauptverhandlung vollstaendig einreichen.
 - Frist § 410 Abs. 1 StPO (2 Wochen) beachten — gilt auch für beschraenkten Einspruch.

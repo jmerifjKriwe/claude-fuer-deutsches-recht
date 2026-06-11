@@ -22,7 +22,7 @@ description: "Exportkontrollpruefung für Ersatzteile und Komponenten mit Dual-U
 ## Erste Schritte
 
 1. Technische Spezifikation des Ersatzteils beschaffen und mit Anhang I VO (EU) 2021/821 abgleichen.
-2. Bestimmungsland und Endverwender verifizieren; Catch-All nach Art. 4 VO (EU) 2021/821 pruefen.
+2. Bestimmungsland und Endverwender verifizieren; Catch-All nach Art. 4 VO (EU) 2021/821 prüfen.
 3. Gesamtanlage und deren Klassifizierung kennen; Ersatzteil-Klassifizierung ggf. davon abhaengig.
 4. BAFA-Auskunftsverfahren bei Unklarheit einleiten (Nullbescheid oder Klassifizierungsanfrage).
 5. Sanktionslisten-Screening Endverwender und Lieferkette (Re-Export-Risiko UAE/Tuerkei).
@@ -41,14 +41,14 @@ description: "Exportkontrollpruefung für Ersatzteile und Komponenten mit Dual-U
 - [ ] Technische Parameter des Ersatzteils vollstaendig bekannt?
 - [ ] Abgleich mit allen relevanten Kategorien des Anhangs I VO (EU) 2021/821 erfolgt?
 - [ ] Bestimmungsland und Endverwender verifiziert, Catch-All ausgeschlossen?
-- [ ] Re-Export-Risiko ueber Drittlaender geprueft?
+- [ ] Re-Export-Risiko über Drittlaender geprueft?
 - [ ] Sanktionslistenscreening aller Beteiligten durchgefuehrt?
 - [ ] Entscheidung mit technischer Begruendung dokumentiert?
 
 ## Typische Fallstricke
 
-- Ersatzteile koennen hoeherer Kategorie angehoeren als die Anlage selbst.
-- Sammellieferungen von Ersatzteilen koennen zusammen eine vollstaendige Anlage darstellen.
+- Ersatzteile können hoeherer Kategorie angehoeren als die Anlage selbst.
+- Sammellieferungen von Ersatzteilen können zusammen eine vollstaendige Anlage darstellen.
 - UAE und Tuerkei gelten als Umgehungslaender; Catch-All-Risiko erhoht.
 - BAFA-Nullbescheid gilt nur für die beschriebene Konfiguration, nicht für Varianten.
 

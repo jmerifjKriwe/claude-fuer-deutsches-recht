@@ -31,8 +31,8 @@ Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutach
 ## Zentrale Normen
 - § 407a Abs. 1 ZPO — Hoechstpersönliche Erstellungspflicht des Sachverstaendigen
 - § 407a Abs. 3 ZPO — Benennungspflicht für Hilfskraefte und Mitarbeiter
-- § 8a Abs. 2 JVEG — Wegfall der Verguetung bei Unverwertbarkeit oder Identitaetsunklarheit
-- Art. 103 Abs. 1 GG — Anspruch auf rechtliches Gehoer: Partei muss Gutachten-Mangel geltend machen koennen
+- § 8a Abs. 2 JVEG — Wegfall der Vergütung bei Unverwertbarkeit oder Identitaetsunklarheit
+- Art. 103 Abs. 1 GG — Anspruch auf rechtliches Gehoer: Partei muss Gutachten-Mangel geltend machen können
 
 ## Grundproblem
 

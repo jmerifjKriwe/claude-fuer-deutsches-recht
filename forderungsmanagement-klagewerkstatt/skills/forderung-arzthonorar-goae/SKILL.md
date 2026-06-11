@@ -5,7 +5,7 @@ description: "Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit § 12 GOAE mi
 
 # Arzthonorar nach GOAE und GOZ
 
-Geltendmachung des Honoraranspruchs aus Behandlungsvertrag mit Privatpatient. GKV-Patienten: nicht ueber GOAE, sondern KV-EBM, abrechnen mit KV (anderes Skill).
+Geltendmachung des Honoraranspruchs aus Behandlungsvertrag mit Privatpatient. GKV-Patienten: nicht über GOAE, sondern KV-EBM, abrechnen mit KV (anderes Skill).
 
 ## Anspruchsgrundlage
 
@@ -25,7 +25,7 @@ Geltendmachung des Honoraranspruchs aus Behandlungsvertrag mit Privatpatient. GK
    - Bezeichnung der Leistung mit GOAE-Ziffer
    - Steigerungsfaktor
    - Betrag
-   - Bei Schwierigkeitsanstieg ueber 2,3 (Schwellenwert): **schriftliche, fall- und patientenbezogene Begruendung**.
+   - Bei Schwierigkeitsanstieg über 2,3 (Schwellenwert): **schriftliche, fall- und patientenbezogene Begruendung**.
 
 Faelligkeit tritt **erst mit ordnungsgemaesser Rechnungserteilung** ein. Vor Erteilung kein Verzug.
 
@@ -38,7 +38,7 @@ Faelligkeit tritt **erst mit ordnungsgemaesser Rechnungserteilung** ein. Vor Ert
 | Regelfall (Schwellenwert) | 2,3 (1,8 für techn. Leistungen Labor) | keine Begruendung |
 | Erhoehung 1,0 - 2,3 | bis 2,3 | keine schriftliche Begruendung |
 | Ueberschreitung 2,3 - 3,5 | bis 3,5 | schriftliche Begruendung (Schwierigkeit, Zeitaufwand) |
-| Ueber 3,5 (Hoechstsatz) | mehr als 3,5 | Vereinbarung im Voraus schriftlich (§ 2 GOAE) |
+| Über 3,5 (Hoechstsatz) | mehr als 3,5 | Vereinbarung im Voraus schriftlich (§ 2 GOAE) |
 | Laborleistungen | 1,15 oder 1,8 | feste Saetze |
 
 GOZ: vergleichbar mit eigenen Saetzen.
@@ -49,7 +49,7 @@ GOZ: vergleichbar mit eigenen Saetzen.
 1. Schriftlich.
 2. Vor Beginn der Behandlung.
 3. Persoenliche Vereinbarung mit Patient.
-4. Hinweis auf voraussichtliche Hoehe.
+4. Hinweis auf voraussichtliche Höhe.
 5. Hinweis dass GKV/PKV moeglicherweise nicht voll erstattet.
 
 Folge Formmangel: nur Mindestsatz GOAE (1,0).
@@ -110,13 +110,13 @@ Verjährung beginnt **erst** mit Rechnungsstellung (Faelligkeitsausloeser § 12 
 2. **Privatpatient** oder GKV-Patient? Bei GKV: Anspruch gegen KV, nicht Patient (Ausnahme IGeL).
 3. **Rechnung** ordnungsgemaess (§ 12 GOAE) erteilt → Faelligkeit.
 4. **Steigerungsfaktor** rechtens, ggf. mit schriftlicher Begruendung?
-5. **Vereinbarung** § 2 GOAE bei Faktor ueber 3,5?
+5. **Vereinbarung** § 2 GOAE bei Faktor über 3,5?
 6. **Verzug** durch Mahnung (§ 286 BGB) oder 30-Tage-Regel (§ 286 Abs. 3 BGB) bei Verbraucher mit Hinweis.
 7. **Klagegericht** (AG/LG, oertlich Wohnsitz Patient).
 
 ## Verteidigung Patient – Standardeinwendungen
 
-| Einwendung | Pruefung |
+| Einwendung | Prüfung |
 |---|---|
 | Behandlungsfehler | § 280, § 630a BGB Schadensersatz, Minderung |
 | Aufklaerungspflichtverletzung | § 630e BGB, Beweislast Arzt |

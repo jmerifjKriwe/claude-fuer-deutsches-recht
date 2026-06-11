@@ -15,11 +15,11 @@ description: "Export der Rulemap aus dem Builder; Integration in Fachverfahren; 
 
 ## Kern der Methode
 
-Der Rulemap Builder exportiert ausfuehrbare Modelle; sie werden ueber die Rulemapping Automation Platform an Fachverfahren angebunden. Juristisch zu klaeren sind: Rechtsgrundlage der Datenverarbeitung; Registerzugriffe; Auftragsverarbeitung; Loeschkonzept; Protokollierung.
+Der Rulemap Builder exportiert ausfuehrbare Modelle; sie werden über die Rulemapping Automation Platform an Fachverfahren angebunden. Juristisch zu klären sind: Rechtsgrundlage der Datenverarbeitung; Registerzugriffe; Auftragsverarbeitung; Loeschkonzept; Protokollierung.
 
 ## Pruefpunkte
 
-Pruefen: Zuständigkeitsverteilung Norm und IT; Folgepflichten aus DSGVO; Anschluss an Bundes-IT-Standards (z.B. BSI-Vorgaben; OZG-Vorgaben).
+Prüfen: Zuständigkeitsverteilung Norm und IT; Folgepflichten aus DSGVO; Anschluss an Bundes-IT-Standards (z.B. BSI-Vorgaben; OZG-Vorgaben).
 
 ## Normenanker
 
@@ -40,7 +40,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Abgrenzung
 
-Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Pruefung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
+Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Prüfung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
 
 ## Quellen Stand 06/2026
 

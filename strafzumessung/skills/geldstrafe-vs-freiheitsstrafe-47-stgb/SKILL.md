@@ -20,7 +20,7 @@ description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB.
 ## Wann brauchen Sie diese Skill?
 
 - Sie verteidigen gegen einen Strafantrag oder ein Urteil mit kurzer Freiheitsstrafe und wollen auf Geldstrafe umstellen lassen.
-- Sie pruefen die Strafzumessungsruege bei kurzer Freiheitsstrafe ohne ausreichende Begruendung.
+- Sie prüfen die Strafzumessungsruege bei kurzer Freiheitsstrafe ohne ausreichende Begruendung.
 - Sie verhandeln in einer Verstaendigung den Strafrahmen und wollen die Geldstrafe-Schiene sichern.
 - Sie sondieren bei einem Tatbestand ohne Geldstrafe-Option, ob § 47 Abs. 2 StGB den Strafrahmen oeffnet.
 
@@ -40,7 +40,7 @@ description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB.
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
-1. **Strafrahmen pruefen**: Sieht der Tatbestand Geldstrafe vor? Wenn nein, Klappentest für § 47 Abs. 2 StGB.
+1. **Strafrahmen prüfen**: Sieht der Tatbestand Geldstrafe vor? Wenn nein, Klappentest für § 47 Abs. 2 StGB.
 2. **Argumente gegen besondere Umstaende sammeln**:
  - Erstmaliger Verstoss.
  - Niedrige kriminelle Energie.
@@ -57,7 +57,7 @@ description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB.
 - Wenn kurze Freiheitsstrafe angestrebt wird, **konkret** vortragen, welche besonderen Umstaende vorliegen:
  - Einschlaegige Vorbelastung, mehrfache Bewaehrungsversager.
  - Tat-Spezifika (z.B. Gewerbsmaessigkeit, Bandenstruktur, Wiederholungstat in Bewaehrung).
- - Schwergewichtige Tatfolgen ueber Tatbestandsmerkmal hinaus.
+ - Schwergewichtige Tatfolgen über Tatbestandsmerkmal hinaus.
 - Verteidigung der Rechtsordnung nur bei massiven oder oeffentlichkeitswirksamen Faellen tragfaehig.
 
 ## Strafmildernde Wirkung gegenueber Geldstrafe

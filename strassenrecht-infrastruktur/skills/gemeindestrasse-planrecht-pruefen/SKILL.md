@@ -3,7 +3,7 @@ name: gemeindestrasse-planrecht-pruefen
 description: "Gemeindestraße: Planrecht prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Gemeindestrasse Planrecht Pruefen
+# Gemeindestrasse Planrecht Prüfen
 
 ## Arbeitsweg
 

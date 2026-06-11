@@ -20,12 +20,12 @@ description: "MaBV § 7 Vollstaendigkeitserklaerung als Alternative: Skill klaer
 
 ## Norm
 
-§ 7 MaBV: Bautraeger darf die gesamte Vertragssumme vor Baufortschritt verlangen, **wenn** er eine **selbstschuldnerische Buergschaft** in Hoehe von 105 Prozent der Vertragssumme stellt — diese sichert sowohl die Fertigstellung als auch die Vermoegensauskehr.
+§ 7 MaBV: Bautraeger darf die gesamte Vertragssumme vor Baufortschritt verlangen, **wenn** er eine **selbstschuldnerische Buergschaft** in Höhe von 105 Prozent der Vertragssumme stellt — diese sichert sowohl die Fertigstellung als auch die Vermoegensauskehr.
 
 ## Voraussetzungen
 
 - Selbstschuldnerische Buergschaft eines Kreditinstituts oder Versicherers.
-- Hoehe 105 Prozent (gegenwaertige Fassung pruefen — frueher 110 Prozent bei manchen Auslegungen).
+- Höhe 105 Prozent (gegenwaertige Fassung prüfen — frueher 110 Prozent bei manchen Auslegungen).
 - Schutz auch für Maengelansprueche.
 
 ## Praxis

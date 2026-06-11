@@ -15,7 +15,7 @@ description: "Bezugsbindungen im Franchisesystem kartellrechtlich prüfen: Freis
 
 ## Mandantenfall
 
-Ein Franchisesystem verpflichtet Franchisenehmer, bestimmte Waren ausschliesslich beim Franchisegeber oder von designierten Lieferanten zu beziehen. Ein Franchisenehmer möchte günstigere Alternativen nutzen oder die Bezugsbindung auf Kartellrechtskonformität prüfen. Alternativ gestaltet ein Franchisegeber seine Lieferantenverträge und Bezugspflichten neu.
+Ein Franchisesystem verpflichtet Franchisenehmer, bestimmte Waren ausschließlich beim Franchisegeber oder von designierten Lieferanten zu beziehen. Ein Franchisenehmer möchte günstigere Alternativen nutzen oder die Bezugsbindung auf Kartellrechtskonformität prüfen. Alternativ gestaltet ein Franchisegeber seine Lieferantenverträge und Bezugspflichten neu.
 
 ## Erste Schritte
 

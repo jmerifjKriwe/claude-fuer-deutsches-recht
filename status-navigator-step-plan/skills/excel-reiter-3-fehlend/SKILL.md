@@ -30,17 +30,17 @@ LausitzStorage-Akte: Reiter 3 enthaelt 12 Positionen, sortiert nach Frist:
 - 30.06.: BImSchG-Hauptantrag (Drohfrist LEAG)
 
 ## Output-Module
-- Tabelleneintraege fuer Reiter 3
+- Tabelleneintraege für Reiter 3
 - Frist-Liste aufsteigend
-- Eingangsstapel fuer Reiter 4 (Workflow)
+- Eingangsstapel für Reiter 4 (Workflow)
 - Optional Reiter 5 (Fristenkontrolle) mit Querverweis
 
 ## Grenzen
-- **Beschaffungswege koennen sich verschieben.** Behoerdliche Bearbeitungszeiten
+- **Beschaffungswege können sich verschieben.** Behoerdliche Bearbeitungszeiten
   realistisch ansetzen, nicht idealisieren.
 - **Frist-Tracking ersetzt keinen Fristenkalender.** Anwaltlicher Fristenkalender
   bleibt verbindlich.
 
 ## Plugin-Kontext
-Reiter 3 ist die Voraussetzung fuer Reiter 4. Ohne saubere Liste der
+Reiter 3 ist die Voraussetzung für Reiter 4. Ohne saubere Liste der
 fehlenden Stuecke kann kein Workflow gebaut werden.

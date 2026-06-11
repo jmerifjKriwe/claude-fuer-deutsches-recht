@@ -15,7 +15,7 @@ description: "Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (
 
 § 1 BEEG: Anspruch auf Elterngeld bei Geburt eines Kindes.
 
-## Hoehe
+## Höhe
 
 ### Basiselterngeld
 - 67 Prozent des Nettoeinkommens vor Geburt.

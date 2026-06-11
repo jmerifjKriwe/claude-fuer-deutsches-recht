@@ -50,18 +50,18 @@ Sie sind alt oder dauerhaft krank und haben wenig Rente. Dann hilft das Sozialam
 
 Wer Buergergeld bezieht und Renteneintrittsalter erreicht, wechselt automatisch zur Grundsicherung.
 
-### Schritt 2 — Anspruch pruefen
+### Schritt 2 — Anspruch prüfen
 
 - Wohnsitz in Deutschland
 - Nicht arbeitsfaehig oder im Renteneintrittsalter (67 Jahre regulaer)
 - Bedarf liegt vor (Einkommen / Rente reicht nicht)
-- Vermoegen unter Schongrenzen (§ 90 SGB XII)
+- Vermögen unter Schongrenzen (§ 90 SGB XII)
 
-### Schritt 3 — Schongrenzen pruefen
+### Schritt 3 — Schongrenzen prüfen
 
 Schongrenze ist niedriger als bei Buergergeld:
 
-- Pauschal-Freibetrag (Standard 5.000 EUR, kann aktuell angepasst sein — pruefen)
+- Pauschal-Freibetrag (Standard 5.000 EUR, kann aktuell angepasst sein — prüfen)
 - Selbstgenutzte Immobilie in angemessener Groesse
 - Hausrat
 - Auto in angemessenem Wert
@@ -85,7 +85,7 @@ Regelbedarf (Stufe 1 für Alleinstehende) 563 EUR
 Im Sozialamt:
 
 - Antrag schriftlich (Formular)
-- Belege ueber Einkommen / Vermoegen / Miete
+- Belege über Einkommen / Vermögen / Miete
 - Personalausweis
 - Renten-Bescheid
 
@@ -126,9 +126,9 @@ Mit freundlichen Gruessen
 
 Wie bei anderen Sozialleistungen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Vermoegen genauer pruefen** als bei Buergergeld.
+- **Vermögen genauer prüfen** als bei Buergergeld.
 - **Mehrbedarfe**: Schwerbehinderung mit Merkzeichen G (+17 %), kostenaufwendige Ernaehrung etc.
 - **Einkommensanrechnung**: bestimmte Einkuenfte (z.B. Erwerbstaetigen-Freibetrag) sind privilegiert.
 - **Beruecksichtigung von Unterhaltsverpflichtungen**: Kinder, geschiedene Ehepartner.
@@ -136,7 +136,7 @@ Wie bei anderen Sozialleistungen.
 ## Typische Fehler
 
 - SGB II beantragt, obwohl SGB XII passt (oder umgekehrt)
-- Vermoegen verschwiegen → Strafbarkeit
+- Vermögen verschwiegen → Strafbarkeit
 - Mehrbedarfe nicht beantragt → konkret beantragen
 - Schwerbehindertenausweis nicht vorgelegt → vorlegen
 

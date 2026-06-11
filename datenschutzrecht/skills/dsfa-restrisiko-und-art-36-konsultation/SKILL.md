@@ -7,27 +7,27 @@ description: "Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36
 
 ## Wann dieses Modul hilft
 
-- Wenn die DSFA-Risikoanalyse nach Massnahmen ein hohes Restrisiko ergibt
+- Wenn die DSFA-Risikoanalyse nach Maßnahmen ein hohes Restrisiko ergibt
 - Wenn die Aufsichtsbehoerde von sich aus eine Konsultation anregt
 - Bei besonders sensiblen Verarbeitungen, bei denen die Konsultation reputationsklug erscheint
 - Vor Einfuehrung neuer Hochrisiko-Technologien (KI nach Anhang III KI-VO, Biometrie)
 
 ## Rechtlicher Rahmen
 
-- Art. 36 Abs. 1 DSGVO: Konsultationspflicht bei voraussichtlich hohem Risiko trotz Massnahmen.
+- Art. 36 Abs. 1 DSGVO: Konsultationspflicht bei voraussichtlich hohem Risiko trotz Maßnahmen.
 - Art. 36 Abs. 2 DSGVO: Aufsichtsbehoerde hat 8 Wochen zur schriftlichen Empfehlung, verlaengerbar um 6 Wochen bei komplexen Faellen.
-- Art. 36 Abs. 3 DSGVO: erforderlicher Inhalt des Konsultationsersuchens (Verantwortliche, Aufgabenteilung, Zwecke, Massnahmen, Kontaktdaten DSB, DSFA, sonstige Informationen).
-- Art. 36 Abs. 4 DSGVO: Konsultation bei gesetzgeberischen Massnahmen.
+- Art. 36 Abs. 3 DSGVO: erforderlicher Inhalt des Konsultationsersuchens (Verantwortliche, Aufgabenteilung, Zwecke, Maßnahmen, Kontaktdaten DSB, DSFA, sonstige Informationen).
+- Art. 36 Abs. 4 DSGVO: Konsultation bei gesetzgeberischen Maßnahmen.
 - Art. 36 Abs. 5 DSGVO: nationale Sonderregeln zur Voraberlaubnis oder Vorabkonsultation.
-- Art. 58 Abs. 3 lit. a DSGVO: Aufsichtsbehoerden duerfen Empfehlungen aussprechen oder Verarbeitung untersagen.
+- Art. 58 Abs. 3 lit. a DSGVO: Aufsichtsbehoerden dürfen Empfehlungen aussprechen oder Verarbeitung untersagen.
 - Art. 83 Abs. 4 lit. a DSGVO: Bussgeldtatbestand bei Verstoss gegen Art. 36.
 
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Vollstaendige Beschreibung aus der DSFA uebernehmen — Zweck, Datenarten, Betroffene, Empfaenger, Technologie, Drittlandbezug.
 2. **Verhaeltnismaessigkeitspruefung.** Wurde die Verhaeltnismaessigkeitspruefung der DSFA mit nachvollziehbarem Ergebnis abgeschlossen? Wenn nein, zurueck zur DSFA.
-3. **Risikoanalyse.** Risikomatrix vor und nach Massnahmen; Identifizierung der Szenarien, die im hohen Bereich verbleiben.
-4. **Massnahmen.** Sind alle technisch und organisatorisch zumutbaren Massnahmen ergriffen? Pruefung Art. 32 DSGVO, Stand der Technik, Implementierungskosten gegen Risikoreduktion.
+3. **Risikoanalyse.** Risikomatrix vor und nach Maßnahmen; Identifizierung der Szenarien, die im hohen Bereich verbleiben.
+4. **Maßnahmen.** Sind alle technisch und organisatorisch zumutbaren Maßnahmen ergriffen? Prüfung Art. 32 DSGVO, Stand der Technik, Implementierungskosten gegen Risikoreduktion.
 5. **Restrisiko.** Wenn hoch verbleibend: Art. 36 Konsultation Pflicht. Begruendung warum das Restrisiko nicht weiter reduzierbar ist (Wirtschaftlichkeit, technische Grenzen, gesetzlicher Zweck).
 6. **Konsultation / Genehmigung.** Konsultationsantrag an die zuständige Aufsichtsbehoerde mit den Inhalten nach Art. 36 Abs. 3 DSGVO. Frist 8 Wochen; Verarbeitung darf bis zur Antwort nicht aufgenommen werden.
 
@@ -81,7 +81,7 @@ Mit freundlichen Gruessen
 ## Hinweise zur Frist
 
 - 8 Wochen Antwortfrist Art. 36 Abs. 2 DSGVO ab vollstaendigem Eingang.
-- Verlaengerung um 6 Wochen moeglich, schriftlich mitzuteilen.
+- Verlaengerung um 6 Wochen möglich, schriftlich mitzuteilen.
 - Verarbeitungsbeginn vor Antwort: Pflichtverletzung, kann Anordnung und Bussgeld ausloesen (Art. 58, Art. 83 DSGVO).
 - Wenn Aufsichtsbehoerde untersagt: aufschiebende Wirkung beachten; Rechtsbehelfe nach VwGO bzw. § 20 BDSG.
 

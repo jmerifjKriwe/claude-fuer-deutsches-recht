@@ -13,7 +13,7 @@ description: "Zeitvergleich Vorjahr und Vormonat in der BWA. Anwendungsfall Mona
 
 ## Kernsachverhalt
 
-Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungswert. Erst durch die Gegenueberstellung mit der Vorjahres-Periode (Monat oder Quartal) und dem kumulierten Jahresvergleich entsteht Trendaussage. Der Steuerberater muss dabei methodisch sauber vorgehen: Sondereffekte herausrechnen, Periodenabgrenzungen vergleichbar machen und qualifizierte Aussagen ueber Abweichungen treffen.
+Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungswert. Erst durch die Gegenueberstellung mit der Vorjahres-Periode (Monat oder Quartal) und dem kumulierten Jahresvergleich entsteht Trendaussage. Der Steuerberater muss dabei methodisch sauber vorgehen: Sondereffekte herausrechnen, Periodenabgrenzungen vergleichbar machen und qualifizierte Aussagen über Abweichungen treffen.
 
 ## Kaltstart-Rueckfragen
 
@@ -41,7 +41,7 @@ Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungs
 ### Verwaltungsanweisungen
 
 - BMF v. 28.11.2019 zu GoBD — laufende Buchfuehrung.
-- IDW PS 250 — Berichterstattung ueber Pruefergebnisse (sinngemaess auf BWA-Berichterstattung anwendbar).
+- IDW PS 250 — Berichterstattung über Pruefergebnisse (sinngemäß auf BWA-Berichterstattung anwendbar).
 
 ## Workflow
 
@@ -49,7 +49,7 @@ Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungs
 
 - Vorjahres-BWA-Daten aus Vorperiode bestaendig in DATEV/Addison verfuegbar machen.
 - Bei Mandantenuebernahme: Vorjahres-BWA des Vorberaters anfordern (Mandantenakte).
-- Kontenrahmen-Aenderungen pruefen (SKR 03 → SKR 04 erfordert Brueckenposten).
+- Kontenrahmen-Aenderungen prüfen (SKR 03 → SKR 04 erfordert Brueckenposten).
 
 ### Phase 2 — Sondereffekte identifizieren
 
@@ -78,9 +78,9 @@ Vorsicht: Im obigen Beispiel ist `13,6` nur in der Tabelle akzeptabel; in der Fr
 
 ### Phase 4 — Abweichungsanalyse
 
-- Absolute Abweichung in EUR: ab welchem Schwellenwert ist Klaerung noetig? Mandantenabhaengig (kleine Mandanten ab 500 EUR, grosse ab 5.000 EUR).
+- Absolute Abweichung in EUR: ab welchem Schwellenwert ist Klärung noetig? Mandantenabhaengig (kleine Mandanten ab 500 EUR, große ab 5.000 EUR).
 - Prozentuale Abweichung: ab 10-20 Prozent ist Erlaeuterung im BWA-Text Pflicht.
-- Kreuzpruefung: Umsatzplus von 13 Prozent rechtfertigt Materialeinsatzplus von 7 Prozent nicht — Materialquote sinkt, Marge waechst. Ursache klaeren (Preiserhoehung, Mix-Effekt, Einkaufsvorteile)?
+- Kreuzpruefung: Umsatzplus von 13 Prozent rechtfertigt Materialeinsatzplus von 7 Prozent nicht — Materialquote sinkt, Marge waechst. Ursache klären (Preiserhoehung, Mix-Effekt, Einkaufsvorteile)?
 
 ### Phase 5 — Kumuliert seit Jahresbeginn
 
@@ -109,4 +109,4 @@ Stand: 05/2026.
 - EStG §§ 4, 5, 7g.
 - BMF v. 28.11.2019, BStBl I 2019, 1269 (GoBD).
 - DATEV BWA-Form 01 mit Vorjahresvergleich (Standard).
-- IDW PS 250 (sinngemaess).
+- IDW PS 250 (sinngemäß).

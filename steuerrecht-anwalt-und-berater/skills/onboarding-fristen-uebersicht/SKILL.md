@@ -16,7 +16,7 @@ description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen �
 1. Welches Schriftstueck loest die Frist aus (Bescheid, Einspruchsentscheidung, Urteil, Verfuegung)?
 2. Wann ist die Zustellung bewirkt (§ 122 Abs. 2 AO Drei-Tages-Fiktion; § 122a AO Bereitstellung im ELSTER-Postfach)?
 3. Faellt das Fristende auf Wochenende oder Feiertag (§ 108 Abs. 3 AO)?
-4. Wurde die Frist bereits versaeumt? Pruefen ob Wiedereinsetzung § 110 AO oder § 56 FGO greift.
+4. Wurde die Frist bereits versaeumt? Prüfen ob Wiedereinsetzung § 110 AO oder § 56 FGO greift.
 5. Gibt es Hemmungstatbestaende (Aussenpruefung § 171 AO; vorläufige Festsetzung § 165 AO)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -49,7 +49,7 @@ description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen �
 | Nichtzulassungsbeschwerde | 1 Monat ab FG-Urteil | § 116 FGO | § 56 FGO |
 | AdV-Antrag beim FA | jederzeit waehrend Einspruch | § 361 AO | nicht erforderlich |
 | AdV-Antrag beim FG | jederzeit waehrend Klage | § 69 FGO | nicht erforderlich |
-| Selbstanzeige (Sperrwirkung) | bis Bekanntgabe Pruefungsanordnung | § 371 Abs. 2 AO | nicht moeglich |
+| Selbstanzeige (Sperrwirkung) | bis Bekanntgabe Pruefungsanordnung | § 371 Abs. 2 AO | nicht möglich |
 | Festsetzungsfrist regulaer | 4 Jahre | § 169 Abs. 2 Nr. 2 AO | n.a. |
 | Festsetzungsfrist Hinterziehung | 10 Jahre | § 169 Abs. 2 S. 2 AO | n.a. |
 | Zahlungsverjaehrung | 5 Jahre | § 228 AO | n.a. |

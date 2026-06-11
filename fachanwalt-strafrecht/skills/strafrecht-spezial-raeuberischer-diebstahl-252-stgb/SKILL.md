@@ -55,7 +55,7 @@ In der Praxis ist § 252 StGB die zentrale Norm für **Fluchtdiebstahl mit Gewal
 - **Frische-Tat-Merkmal:** Genaue Zeitachse und Ortspruefung; bei Distanz zur Tat und langer Zeit nach Vollendung kann das Merkmal entfallen.
 - **Vortat:** War der Diebstahl vollendet? Bei Versuch des Diebstahls scheidet § 252 StGB aus; ggf. § 249 StGB.
 - **Gewaltbegriff:** Wie bei § 249 StGB – koerperlich wirkende Zwangsanwendung. Bei Wegrennen und Wegstossen ohne erhebliche Zwangswirkung nicht Gewalt iSd § 252 StGB.
-- **§ 250 StGB iVm § 252 StGB:** Bei Bewaffnung Qualifikation pruefen.
+- **§ 250 StGB iVm § 252 StGB:** Bei Bewaffnung Qualifikation prüfen.
 - **§ 21 StGB:** Schuldfaehigkeit.
 
 ## Trade-off-Matrix
@@ -69,8 +69,8 @@ In der Praxis ist § 252 StGB die zentrale Norm für **Fluchtdiebstahl mit Gewal
 - **§ 242 StGB:** Vortat – wird in § 252 StGB integriert.
 - **§ 249 StGB:** Kein § 252 StGB, wenn die Gewalt zur Wegnahme eingesetzt wurde.
 - **§§ 250, 251 StGB:** Qualifikationen iVm § 252 StGB anwendbar.
-- **§ 113 StGB:** Bei Gewalt gegen Polizeibeamte. Wenn die Gewalt ausschliesslich der Strafverfolgungsvermeidung dient, nur § 113 StGB (nicht § 252 StGB).
-- **§§ 223, 224 StGB:** Tateinheit moeglich.
+- **§ 113 StGB:** Bei Gewalt gegen Polizeibeamte. Wenn die Gewalt ausschließlich der Strafverfolgungsvermeidung dient, nur § 113 StGB (nicht § 252 StGB).
+- **§§ 223, 224 StGB:** Tateinheit möglich.
 
 ## Strafzumessung
 
@@ -87,7 +87,7 @@ In der Praxis ist § 252 StGB die zentrale Norm für **Fluchtdiebstahl mit Gewal
 > Der Angeklagte raeumt den Ladendiebstahl ein. Er hat ein Smartphone im Wert von ... EUR aus dem Verkaufsregal mitgenommen und in die Jackentasche gesteckt. Auf dem Weg zum Ausgang wurde er vom Ladendetektiv angesprochen. Der Angeklagte hat die Hand des Ladendetektivs weggeschlagen und ist gefluechtet. Der Angeklagte hatte zu diesem Zeitpunkt das Smartphone bereits zur Seite geworfen; es lag auf dem Boden. Beutesicherungsabsicht lag damit nicht vor.
 
 **Plaedoyer-Snippet (Beutesicherungsabsicht):**
-> § 252 StGB setzt die Beutesicherungsabsicht voraus. Die Beweisaufnahme hat ergeben, dass der Angeklagte die Beute bereits zur Seite geworfen hatte, als er den Schlag gegen den Ladendetektiv ausfuehrte. Sein Handeln war ausschliesslich auf die Vermeidung der Festnahme gerichtet. § 252 StGB ist daher nicht erfuellt. Es bleibt § 113 StGB in Tateinheit mit § 242 StGB.
+> § 252 StGB setzt die Beutesicherungsabsicht voraus. Die Beweisaufnahme hat ergeben, dass der Angeklagte die Beute bereits zur Seite geworfen hatte, als er den Schlag gegen den Ladendetektiv ausfuehrte. Sein Handeln war ausschließlich auf die Vermeidung der Festnahme gerichtet. § 252 StGB ist daher nicht erfuellt. Es bleibt § 113 StGB in Tateinheit mit § 242 StGB.
 
 **Hilfsbeweisantrag:**
 > Hilfsweise wird beantragt, das Videomaterial der Ueberwachungsanlage des Geschaeftes zu sichten und in Augenschein zu nehmen. Beweisthema: Der Angeklagte hat die Beute vor dem koerperlichen Kontakt mit dem Ladendetektiv zur Seite geworfen.

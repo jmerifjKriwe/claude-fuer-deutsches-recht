@@ -22,7 +22,7 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 ## Plattform-AGB
 
 - App Store-AGB Apple: Provision 30 Prozent (15 Prozent für kleine Entwickler) — DMA-Pflicht zur Alternative.
-- Google Play-AGB: aehnlich, mit DMA-Pflicht.
+- Google Play-AGB: ähnlich, mit DMA-Pflicht.
 - Amazon Marketplace: Allgemeine Verkaufsbedingungen mit Sanktionen.
 
 ## BGH-Linie
@@ -73,6 +73,6 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 
 ### Anwendung im Skill
 
-- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
+- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge prüfen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klären.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
-- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG prüfen; modifizierte UE statt voreiliger Unterzeichnung.

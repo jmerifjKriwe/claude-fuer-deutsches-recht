@@ -3,7 +3,7 @@ name: eingliederungshilfe-schule
 description: "Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klaeren und durchsetzen: SGB IX Teil 2 §§ 90 ff. Eingliede..."
 ---
 
-# Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klaeren und durchsetzen
+# Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt müssen Anspruch klären und durchsetzen
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anw
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klaeren und durchsetzen. SGB IX Teil 2 §§ 90 ff. Eingliederungshilfe § 35a SGB VIII bei seelischer Behinderung. Prüfraster: Behinderungsbegriff § 99 SGB IX zuständiger Traeger (Eingliederungshilfetraeger Jugendamt) Antragspraxis Gesamtplanverfahren UN-BRK Inklusionsrecht. Output: Widerspruchsentwurf oder Klagebaustein Eingliederungshilfe Schulbegleitung. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und fachanwalt-sozialrecht-gdb-schwerbehinderung.
+**Fokus:** Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt müssen Anspruch klären und durchsetzen. SGB IX Teil 2 §§ 90 ff. Eingliederungshilfe § 35a SGB VIII bei seelischer Behinderung. Prüfraster: Behinderungsbegriff § 99 SGB IX zuständiger Traeger (Eingliederungshilfetraeger Jugendamt) Antragspraxis Gesamtplanverfahren UN-BRK Inklusionsrecht. Output: Widerspruchsentwurf oder Klagebaustein Eingliederungshilfe Schulbegleitung. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und fachanwalt-sozialrecht-gdb-schwerbehinderung.
 
 ### Eingliederungshilfe in Schule und Bildung
 

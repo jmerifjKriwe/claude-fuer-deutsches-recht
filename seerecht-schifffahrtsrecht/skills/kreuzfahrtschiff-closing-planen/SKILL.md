@@ -14,14 +14,14 @@ description: "Kreuzfahrtschiff: Closing eines Kreuzfahrtschiff oder grosses Fahr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Der Kauf eines Kreuzfahrtschiff oder grosses Fahrgastschiff soll abgeschlossen werden; Hypotheken sind abzulösen. Ein Käufer besteht auf lastenfreier Lieferung mit gültiger Klasse und MLC-Zertifikat. Eine Bank koordiniert das Closing bei syndizierten Finanzierungen.
+Der Kauf eines Kreuzfahrtschiff oder großes Fahrgastschiff soll abgeschlossen werden; Hypotheken sind abzulösen. Ein Käufer besteht auf lastenfreier Lieferung mit gültiger Klasse und MLC-Zertifikat. Eine Bank koordiniert das Closing bei syndizierten Finanzierungen.
 
 ## Erste Schritte
 1. Ablosebetraege aller Hypothekenglaeubiger anfordern; Stichtag abstimmen.
 2. Loeschungsbewilligungen (SchRG § 19) beschaffen; zeitlich koordinieren.
 3. Escrow-Konto einrichten: Kaufpreis gegen Loeschungsbestaetigung.
-4. Eigentumsuebergang (SchRG § 2) und Hypothekenloesung gleichzeitig für Kreuzfahrtschiff oder grosses Fahrgastschiff.
-5. Zertifikate (Klasse; ISM; MLC; ISPS) auf neuen Eigentuemer ummelden.
+4. Eigentumsuebergang (SchRG § 2) und Hypothekenloesung gleichzeitig für Kreuzfahrtschiff oder großes Fahrgastschiff.
+5. Zertifikate (Klasse; ISM; MLC; ISPS) auf neuen Eigentümer ummelden.
 6. Registerauszug nach Closing beschaffen; Closing-Memo erstellen.
 
 ## Rechtsrahmen
@@ -30,7 +30,7 @@ Der Kauf eines Kreuzfahrtschiff oder grosses Fahrgastschiff soll abgeschlossen w
 ## Prüfraster
 - Sind alle Loeschungsbewilligungen zeitlich koordiniert?
 - Ist der Escrow-Mechanismus wasserdicht gegen Insolvenz des Verkaeufers?
-- Sind alle Zertifikate für Kreuzfahrtschiff oder grosses Fahrgastschiff auf neuen Eigentuemer vorbereitet?
+- Sind alle Zertifikate für Kreuzfahrtschiff oder großes Fahrgastschiff auf neuen Eigentümer vorbereitet?
 - Ist der Flaggenwechsel (wenn vorgesehen) vorbereitet?
 - Ist die Vollmacht für den Registerantrag aktuell?
 

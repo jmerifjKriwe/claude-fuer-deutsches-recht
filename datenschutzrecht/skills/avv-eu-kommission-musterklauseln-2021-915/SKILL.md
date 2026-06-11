@@ -17,17 +17,17 @@ Anwendung und Aufbau der EU-Kommissions-Standardvertragsklauseln zwischen Verant
 
 ## Rechtlicher Rahmen
 
-- Beschluss (EU) 2021/915 der Kommission vom 04.06.2021 ueber Standardvertragsklauseln zwischen Verantwortlichen und Auftragsverarbeitern gemaess Art. 28 Abs. 7 DSGVO und Art. 29 Abs. 7 EU-Verordnung 2018/1725.
+- Beschluss (EU) 2021/915 der Kommission vom 04.06.2021 über Standardvertragsklauseln zwischen Verantwortlichen und Auftragsverarbeitern gemäß Art. 28 Abs. 7 DSGVO und Art. 29 Abs. 7 EU-Verordnung 2018/1725.
 - Veroeffentlichung im Amtsblatt der EU L 199/18 vom 07.06.2021.
-- Art. 28 Abs. 6 DSGVO: Verantwortlicher und Auftragsverarbeiter koennen die SCC nach Abs. 7 oder Abs. 8 verwenden – Vorteil: Klauseln gelten "as is", keine Einzelpruefung gegen Art. 28 Abs. 3 noetig, soweit unveraendert.
-- Art. 28 Abs. 7 DSGVO: Kommission erlaesst die SCC; Art. 28 Abs. 8 DSGVO: Aufsichtsbehoerden koennen eigene SCC erlassen.
+- Art. 28 Abs. 6 DSGVO: Verantwortlicher und Auftragsverarbeiter können die SCC nach Abs. 7 oder Abs. 8 verwenden – Vorteil: Klauseln gelten "as is", keine Einzelpruefung gegen Art. 28 Abs. 3 noetig, soweit unveraendert.
+- Art. 28 Abs. 7 DSGVO: Kommission erlaesst die SCC; Art. 28 Abs. 8 DSGVO: Aufsichtsbehoerden können eigene SCC erlassen.
 
 ## Ablauf / Checkliste
 
-1. **Abgrenzung pruefen.**
+1. **Abgrenzung prüfen.**
  - Beschluss (EU) 2021/915 = AVV Verantwortlicher zu Auftragsverarbeiter im EWR-Binnenkontext.
  - Beschluss (EU) 2021/914 = Drittlandtransfer-SCC (vier Module: C2C, C2P, P2P, P2C); in Kraft seit 27.06.2021.
- - Beide koennen nebeneinander verwendet werden, wenn Auftragsverarbeiter im Drittland sitzt.
+ - Beide können nebeneinander verwendet werden, wenn Auftragsverarbeiter im Drittland sitzt.
 
 2. **Struktur des Beschluss (EU) 2021/915.**
  - Klausel 1 Zweck und Anwendungsbereich.
@@ -50,13 +50,13 @@ Anwendung und Aufbau der EU-Kommissions-Standardvertragsklauseln zwischen Verant
 
 4. **Begrenzung.**
  - Die Klauseln decken Art. 28 DSGVO ab, nicht Art. 26 (Joint Control) und nicht Art. 13/14 (Informationspflichten).
- - Sie ersetzen keine Drittland-SCC; wenn Daten aus dem EWR herausfliessen, muessen zusaetzlich die SCC nach Beschluss (EU) 2021/914 abgeschlossen werden.
+ - Sie ersetzen keine Drittland-SCC; wenn Daten aus dem EWR herausfliessen, müssen zusaetzlich die SCC nach Beschluss (EU) 2021/914 abgeschlossen werden.
 
 ## Mustertext / Template
 
 Bezugnahme-Klausel zur Inkorporation des Beschluss (EU) 2021/915 in den Hauptvertrag:
 
-> "Soweit der Auftragnehmer für den Auftraggeber personenbezogene Daten im Sinne des Art. 4 Nr. 1 DSGVO als Auftragsverarbeiter im Sinne des Art. 4 Nr. 8 DSGVO verarbeitet, gelten erganzend zum Hauptvertrag die Standardvertragsklauseln der EU-Kommission gemaess Durchfuehrungsbeschluss (EU) 2021/915 vom 04.06.2021 in der jeweils geltenden Fassung. Die Klauseln 1 bis 11 des Beschluss (EU) 2021/915 werden ohne Aenderung uebernommen; die Anhaenge I bis IV sind als Anlagen 1 bis 4 zu dieser Vereinbarung beigefuegt und integraler Bestandteil der Vereinbarung. Im Fall eines Widerspruchs zwischen einer Bestimmung des Hauptvertrags und einer Klausel des Beschluss (EU) 2021/915 gehen die Klauseln des Beschluss (EU) 2021/915 vor."
+> "Soweit der Auftragnehmer für den Auftraggeber personenbezogene Daten im Sinne des Art. 4 Nr. 1 DSGVO als Auftragsverarbeiter im Sinne des Art. 4 Nr. 8 DSGVO verarbeitet, gelten erganzend zum Hauptvertrag die Standardvertragsklauseln der EU-Kommission gemäß Durchfuehrungsbeschluss (EU) 2021/915 vom 04.06.2021 in der jeweils geltenden Fassung. Die Klauseln 1 bis 11 des Beschluss (EU) 2021/915 werden ohne Aenderung uebernommen; die Anhaenge I bis IV sind als Anlagen 1 bis 4 zu dieser Vereinbarung beigefuegt und integraler Bestandteil der Vereinbarung. Im Fall eines Widerspruchs zwischen einer Bestimmung des Hauptvertrags und einer Klausel des Beschluss (EU) 2021/915 gehen die Klauseln des Beschluss (EU) 2021/915 vor."
 
 ## Typische Drafting-Fehler
 

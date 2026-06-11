@@ -42,17 +42,17 @@ Strafbar ist, wer beim Schmuggel eine Schusswaffe bei sich fuehrt oder ein ander
 
 ### Paragraph 373 AO Absatz 3 — Ausland
 
-Strafbar ist die Tat auch dann, wenn sie im Ausland begangen wurde, soweit der Taeter Deutscher ist oder spaeter Deutscher wird.
+Strafbar ist die Tat auch dann, wenn sie im Ausland begangen wurde, soweit der Taeter Deutscher ist oder später Deutscher wird.
 
 ### Subjektiver Tatbestand
 
-Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verbotsirrtum ueber Zollabgabenpflicht praxisrelevant; selten erfolgreich, weil Zollvorschriften als bekannt vorauszusetzen sind.
+Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verbotsirrtum über Zollabgabenpflicht praxisrelevant; selten erfolgreich, weil Zollvorschriften als bekannt vorauszusetzen sind.
 
 ## Praktikertipps Verteidigung
 
 - **Bandenabrede bestreiten.** Drei Personen mit gemeinsamem Tatplan ist Voraussetzung. Auf "Mitfahrer", "Helfer" oder "Auftraggeber" achten — sind sie wirklich Bande oder nur Einzeltatbeteiligte? BGH verlangt subjektive Verstaendigung auf fortgesetzte Begehung.
 - **Gewerbsmaessigkeit bestreiten.** Einzeltat oder Gelegenheitsschmuggel reicht nicht. "Reise zur Familie und Mitnahme einer Stange Zigaretten" ist nicht gewerbsmaessig. Verteidiger muss substantiierter Vortrag, dass der Mandant nicht regelmaessig schmuggelte.
-- **Mengen-Klassifizierung pruefen.** Mengen-Schwellen für Zigaretten (bis 800 Stueck) oder Alkohol (bis 10 Liter Spirituosen) sind reisefreie Mengen und nicht Tatbestand.
+- **Mengen-Klassifizierung prüfen.** Mengen-Schwellen für Zigaretten (bis 800 Stueck) oder Alkohol (bis 10 Liter Spirituosen) sind reisefreie Mengen und nicht Tatbestand.
 - **Vorsatz hinsichtlich Zollabgabenpflicht.** Bei Geschenken zwischen Familien oder Privatpersonen kann Vorsatz fehlen. Verbotsirrtum nach Paragraph 17 StGB praxisrelevant.
 - **Einziehung der Schmuggelware Paragraph 73 StGB.** Mandant verliert die Ware; Wertersatz wird haeufig gefordert. Verteidigung sollte Wertfestsetzung kritisch begleiten.
 - **Verfahrenstrennung bei Beihilfe.** Bei Beihilfe zum Schmuggel oft mildere Strafe; Verteidiger sollte Hilfsrolle des Mandanten betonen.
@@ -66,8 +66,8 @@ Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verb
 ## Konkurrenzen
 
 - **Paragraph 373 AO und Paragraph 372 AO.** Spezialitaet — Paragraph 373 AO ist Qualifikation.
-- **Paragraph 373 AO und Paragraph 370 AO.** Tateinheit moeglich, wenn neben Zollvergehen auch andere Steuerverkuerzung vorliegt (z. B. Verbrauchsteuern auf Zigaretten).
-- **Paragraph 373 AO und Paragraph 263 StGB Betrug.** Tatmehrheit moeglich bei Taeuschung des Empfaengers.
+- **Paragraph 373 AO und Paragraph 370 AO.** Tateinheit möglich, wenn neben Zollvergehen auch andere Steuerverkuerzung vorliegt (z. B. Verbrauchsteuern auf Zigaretten).
+- **Paragraph 373 AO und Paragraph 263 StGB Betrug.** Tatmehrheit möglich bei Taeuschung des Empfaengers.
 - **Paragraph 373 AO und Paragraph 261 StGB Geldwaesche.** Wenn aus Schmuggel Geldwaesche-Vortat folgt.
 - **Paragraph 373 AO und Paragraph 244 I Nr 2 StGB Bandendiebstahl.** Wenn die Bande nicht nur Schmuggel, sondern auch Diebstahl begeht — Tatmehrheit.
 
@@ -75,11 +75,11 @@ Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verb
 
 - **Strafrahmen Paragraph 373 Abs 1 AO:** Freiheitsstrafe von 6 Monaten bis zu 10 Jahren.
 - **Strafrahmen Paragraph 373 Abs 2 AO:** Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
-- **Bewaehrungspraxis:** ueber 2 Jahre Freiheitsstrafe ist Bewaehrung nicht moeglich (Paragraph 56 StGB); ueber 1 Jahr nur unter Voraussetzungen. Bei bandenmäßigem Schmuggel mit Mengen ueber 200.000 Zigaretten Bewaehrung kaum noch.
+- **Bewaehrungspraxis:** über 2 Jahre Freiheitsstrafe ist Bewaehrung nicht möglich (Paragraph 56 StGB); über 1 Jahr nur unter Voraussetzungen. Bei bandenmäßigem Schmuggel mit Mengen über 200.000 Zigaretten Bewaehrung kaum noch.
 - **Einziehung Paragraph 73 StGB** der Schmuggelware und des Erloeses; Wertersatz Paragraph 73c StGB.
 - **Verbrauchsteuer-Nachforderung** (Tabaksteuer, Branntweinsteuer) plus Zoll plus EUSt.
-- **Berufsverbot Paragraph 70 StGB** moeglich bei Speditionsunternehmern.
-- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
+- **Berufsverbot Paragraph 70 StGB** möglich bei Speditionsunternehmern.
+- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
 - Bei Auslaender: Ausweisung nach Paragraph 53 AufenthG droht.
 
 ## Mustertexte

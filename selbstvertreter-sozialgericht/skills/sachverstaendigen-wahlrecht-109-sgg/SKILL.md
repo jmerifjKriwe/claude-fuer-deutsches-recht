@@ -13,11 +13,11 @@ description: "Eigenes Gutachten nach § 109 SGG. Versicherter kann eigenen Gutac
 
 ## Worum geht es?
 
-Wenn das Gericht ein Gutachten einholt, das gegen Sie ausfaellt, koennen Sie ein eigenes Gutachten beantragen. Sie waehlen den Arzt. Sie tragen aber die Kosten — zumindest erstmal.
+Wenn das Gericht ein Gutachten einholt, das gegen Sie ausfaellt, können Sie ein eigenes Gutachten beantragen. Sie waehlen den Arzt. Sie tragen aber die Kosten — zumindest erstmal.
 
 ## In einfacher Sprache
 
-Das Gericht hat einen Gutachter gewaehlt. Sie sind nicht einverstanden. Sie koennen einen eigenen Gutachter benennen. Sie zahlen erstmal selbst. Das kostet zwischen 1500 und 4000 Euro.
+Das Gericht hat einen Gutachter gewaehlt. Sie sind nicht einverstanden. Sie können einen eigenen Gutachter benennen. Sie zahlen erstmal selbst. Das kostet zwischen 1500 und 4000 Euro.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -39,7 +39,7 @@ Das Gericht hat einen Gutachter gewaehlt. Sie sind nicht einverstanden. Sie koen
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob § 109 sinnvoll
+### Schritt 1 — Prüfen, ob § 109 sinnvoll
 
 Sinnvoll, wenn:
 
@@ -61,7 +61,7 @@ Vorsicht bei:
 - Anwalt fragen (PKH-Anwalt)
 - Sozialverband fragen
 
-Wichtig: Arzt muss bereit sein, das Gutachten zu erstellen UND in der Hoehe der Kosten transparent (sagen, was es kostet).
+Wichtig: Arzt muss bereit sein, das Gutachten zu erstellen UND in der Höhe der Kosten transparent (sagen, was es kostet).
 
 ### Schritt 3 — Antrag stellen
 
@@ -114,28 +114,28 @@ Das Gericht setzt einen Vorschuss fest. Diesen ueberweisen Sie an die Gerichtska
 
 Wenn das § 109-Gutachten zu Ihrem Erfolg fuehrt, kann das Gericht die Kosten der Staatskasse auferlegen (§ 109 Abs. 1 S. 3 SGG). Antrag stellen.
 
-Wenn auch die Beklagte verliert, koennen die Kosten ueber § 193 SGG erstattet werden.
+Wenn auch die Beklagte verliert, können die Kosten über § 193 SGG erstattet werden.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Kostenrisiko**: Bei Misserfolg verlieren Sie die Kosten.
-- **Mit PKH**: Pruefen Sie, ob PKH die Kosten deckt — nicht selbstverstaendlich!
+- **Mit PKH**: Prüfen Sie, ob PKH die Kosten deckt — nicht selbstverstaendlich!
 - **Fristen**: Antrag rechtzeitig, bevor das Gericht entscheidet.
 - **Doppel-Gutachten**: Zwei Gutachten heben sich nicht zwingend auf — kommt auf Qualitaet an.
 
 ### Schritt 8 — Wenn Sie kein Geld haben
 
-- Pruefen Sie, ob VdK / SoVD-Mitglied: manche helfen.
-- Pruefen Sie, ob die Krankenkasse das Gutachten finanziert (selten, aber moeglich).
-- Manche Aerzte arbeiten auf Erfolgsbasis (Vorsicht: Rechtsfragen pruefen).
+- Prüfen Sie, ob VdK / SoVD-Mitglied: manche helfen.
+- Prüfen Sie, ob die Krankenkasse das Gutachten finanziert (selten, aber möglich).
+- Manche Aerzte arbeiten auf Erfolgsbasis (Vorsicht: Rechtsfragen prüfen).
 
 ## Typische Fehler
 
-- § 109 ohne aerztliche Vorab-Pruefung → 3000 EUR Risiko
+- § 109 ohne aerztliche Vorab-Prüfung → 3000 EUR Risiko
 - Antrag ohne Begruendung → Gericht lehnt ab
 - Kostenvorschuss nicht gezahlt → kein Gutachten
 - Falscher Fachbereich (z.B. Hausarzt statt Sozialmediziner)
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 109 SGG aktuell. Pruefen Sie aktuelle Gerichtskosten-Praxis bei Ihrem SG.
+Stand: 05/2026. § 109 SGG aktuell. Prüfen Sie aktuelle Gerichtskosten-Praxis bei Ihrem SG.

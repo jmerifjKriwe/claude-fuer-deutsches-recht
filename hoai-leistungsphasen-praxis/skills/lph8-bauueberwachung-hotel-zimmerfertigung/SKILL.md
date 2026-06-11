@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Hotelneubauten mit modular vo
 ## Spezialwissen
 
 Hotelneubauten mit vorgefertigten Zimmermodulen kombinieren Schnelligkeit mit hohen Qualitaetsanforderungen.
-Die Bauueberwachung nach HOAI LPH 8 prueft Modulanschluesse, Schallschutz nach Schallschutzklasse IV und Sprinkleranlage.
+Die Bauueberwachung nach HOAI LPH 8 prüft Modulanschluesse, Schallschutz nach Schallschutzklasse IV und Sprinkleranlage.
 Der Gast erwartet hohen Schallschutz (Rw min. 47 dB Zimmertrennung) und reibungslosen TGA-Betrieb ab Tag 1.
 
 ## Bauwerk und Auftrag
@@ -40,7 +40,7 @@ Der Gast erwartet hohen Schallschutz (Rw min. 47 dB Zimmertrennung) und reibungs
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
 - DIN 4109-1 Schallschutz: Anforderungen Hotelgebaeude Schallschutzklasse IV
 - DIN EN 12845 Stationaere Loeschanlagen Sprinkler: Planung, Einbau, Instandhaltung
-- DIN 18040-1 Barrierefreies Bauen: oeffentlich zugaengliche Gebaeude
+- DIN 18040-1 Barrierefreies Bauen: öffentlich zugaengliche Gebaeude
 - GEG 2023 Gebaeude-Energie-Gesetz: Hotelneubauten, Anforderungen Heizwaermebedarf
 
 ## Prueferaster und Kontrollpunkte

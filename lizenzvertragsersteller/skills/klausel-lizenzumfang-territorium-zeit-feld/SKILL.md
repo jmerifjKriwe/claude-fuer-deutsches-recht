@@ -11,11 +11,11 @@ description: "Lizenzumfang-Klausel: territorial (Schutzgebiete), zeitlich (Laufz
 |---|---|
 | **Territorial** | Deutschland · EU · weltweit · "alle Mitgliedstaaten der EU mit Ausnahme von …" |
 | **Zeitlich** | 5 Jahre · bis zum Ablauf des Schutzrechts · auf unbestimmte Zeit mit Kuendigungsrecht |
-| **Anwendungsfeld (Field of Use)** | "ausschliesslich fuer die Herstellung von Medizinprodukten der Klasse IIa" |
+| **Anwendungsfeld (Field of Use)** | "ausschließlich für die Herstellung von Medizinprodukten der Klasse IIa" |
 
 ## Zweckuebertragungstheorie $ 31 V UrhG
 
-Bei Urheberrechtslizenzen gilt: Im Zweifel nur die Rechte, die fuer den Vertragszweck erforderlich sind. → Vertrag muss konkret aufzaehlen, sonst eng auszulegen.
+Bei Urheberrechtslizenzen gilt: Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Vertrag muss konkret aufzaehlen, sonst eng auszulegen.
 
 ## Klausel-Baustein
 
@@ -23,7 +23,7 @@ Bei Urheberrechtslizenzen gilt: Im Zweifel nur die Rechte, die fuer den Vertrags
 >
 > (1) **Raeumlich** umfasst die Lizenz das Territorium [Mitgliedstaaten der Europaeischen Union / weltweit / xxx]. Ausserhalb dieses Territoriums ist die Nutzung des Lizenzgegenstands durch den Lizenznehmer nicht gestattet.
 >
-> (2) **Zeitlich** wird die Lizenz fuer eine feste Laufzeit von [N] Jahren ab dem Datum des Wirksamwerdens dieses Vertrages eingeraeumt. Sie verlaengert sich um jeweils [M] Jahre, sofern keine Partei mit einer Frist von [F] Monaten zum Ende der jeweiligen Laufzeit schriftlich kuendigt.
+> (2) **Zeitlich** wird die Lizenz für eine feste Laufzeit von [N] Jahren ab dem Datum des Wirksamwerdens dieses Vertrages eingeraeumt. Sie verlaengert sich um jeweils [M] Jahre, sofern keine Partei mit einer Frist von [F] Monaten zum Ende der jeweiligen Laufzeit schriftlich kuendigt.
 >
 > (3) **Sachlich (Anwendungsfeld)** ist die Lizenz beschraenkt auf die in **Anlage B** definierten Anwendungsfelder ("Field of Use"). Eine darueber hinausgehende Nutzung bedarf der vorherigen schriftlichen Zustimmung des Lizenzgebers.
 
@@ -43,7 +43,7 @@ B.2 Ausgeschlossene Felder:
 
 ## Kartellrechtliche Schranke
 
-Bei territorialen Beschraenkungen pruefen: TT-GVO Art. 4 Abs. 1 enthaelt Kernbeschraenkungen ("hardcore restrictions"), die die Freistellung entfallen lassen. Insbesondere passive Verkaeufe duerfen nicht generell ausgeschlossen werden.
+Bei territorialen Beschraenkungen prüfen: TT-GVO Art. 4 Abs. 1 enthaelt Kernbeschraenkungen ("hardcore restrictions"), die die Freistellung entfallen lassen. Insbesondere passive Verkaeufe dürfen nicht generell ausgeschlossen werden.
 
 ## Anschluss
 

@@ -101,14 +101,14 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Bieter ruegt Vergaberechtsverstoß fristgerecht | Ruegeschriftsatz nach § 160 Abs. 3 GWB; Template unten |
 | Variante A — Mandant will Auftrag behalten nicht streiten | Informelles Klaerungsgespraech mit Vergabestelle vor formeller Ruege |
 | Variante B — Zuschlag bereits erteilt keine 15-Tage-Frist | Nachpruefungsantrag auf Feststellung Unwirksamkeit § 135 GWB direkt |
-| Variante C — Unterschwellenvergabe kein GWB-Nachpruefungsverfahren | Unterlassungsklage vor Zivilgericht § 1 UWG analog pruefen |
+| Variante C — Unterschwellenvergabe kein GWB-Nachpruefungsverfahren | Unterlassungsklage vor Zivilgericht § 1 UWG analog prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -294,7 +294,7 @@ Mit freundlichen Grüßen
 [Rechtsanwalt]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -395,7 +395,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - VgV, SektVO, KonzVgV
 - VO (EU) 2014/24, VO (EU) 2022/1031 (IPI), VO (EU) 2023/1441 (Schwellenwerte)
 - EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergaben (curia.europa.eu)
-- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeit Ausschluss (curia.europa.eu)
+- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhältnismäßigkeit Ausschluss (curia.europa.eu)
 - EuGH 21.12.2023, C-66/22 (Infraestruturas) — Wettbewerbsverstoss (curia.europa.eu)
 - OLG Vergabesenate (öffentliche Datenbanken: olg-duesseldorf.nrw.de, openjur.de, landesrecht-bw.de)
 - VK Bund: bundeskartellamt.de/Vergabe
@@ -444,8 +444,8 @@ Halluzinations-Reparatur Bundle 026:
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

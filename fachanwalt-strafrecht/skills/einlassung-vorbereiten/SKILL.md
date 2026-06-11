@@ -54,13 +54,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Einlassung schriftlich vorbereiten | Einlassungsschreiben; Template unten |
 | Variante A — Mandant schweigt komplett | Keine schriftliche Einlassung; muendliche Einlassung in HV erwaegen |
-| Variante B — Teilgestaendnis strategisch sinnvoll | Absprache nach § 257c StPO pruefen; Strafrabatt |
+| Variante B — Teilgestaendnis strategisch sinnvoll | Absprache nach § 257c StPO prüfen; Strafrabatt |
 | Variante C — Kronzeuge / Verstaendigungsweg | § 46b StGB; Strafmilderung durch Aufklaerungshilfe |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -109,7 +109,7 @@ schriftlich ueber den Verteidiger zu stellen.
 Mit kollegialen Gruessen
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

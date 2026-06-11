@@ -55,7 +55,7 @@ Eingaben:
  - Schriftform, Unterschrift Heimleitung + Apothekenleitung.
  - Pflichten Apotheke (Beratung, Visite, Notdienst, Verblisterung).
  - Patientenwahlfreiheit gesondert betont.
- - Vergütung: ausschliesslich für tatsächliche Leistungen, marktüblich.
+ - Vergütung: ausschließlich für tatsächliche Leistungen, marktüblich.
 2. **Anzeige Landesaufsicht:** § 12a ApoG verlangt unverzügliche Anzeige.
 3. **Patientenwahlfreiheit:** Heim muss Bewohner über Freiheit informieren; Apotheke darf nicht als "Vertragsapotheke" durch Heimleitung zugewiesen werden.
 4. **Geldflüsse:** Keine "Versorgungspauschale" als verdeckte Zuweisung. Verblisterungsentgelt nur auf Patient/GKV-Seite, nicht ans Heim.
@@ -86,7 +86,7 @@ Eingaben:
 ## Mustertexte
 
 ### Versorgungsvertrag (Auszug Kerninhalt)
-"§ 1 Gegenstand: Die Apotheke versorgt die Bewohner der [Heim] mit Arzneimitteln nach ärztlicher Verschreibung. Die Apotheke leistet Medikationsmanagement, regelmässige pharmazeutische Visiten (mind. monatlich), Verblisterung auf Wunsch und Notdienstbereitschaft. § 2 Patientenwahlfreiheit: Die Bewohner sind in der Wahl der versorgenden Apotheke frei. Eine vertragliche Zuweisung der Bewohner an die Apotheke ist ausgeschlossen. Das Heim weist Bewohner bei Einzug schriftlich auf das Wahlrecht hin (Anlage 1). § 3 Vergütung: Die Apotheke erhält ausschliesslich die regulären Erlöse aus der Arzneimittelabgabe nach AMPreisV. Pauschalzahlungen vom Heim oder Heimträger sind ausgeschlossen. § 4 Datenschutz: Auftragsverarbeitungsvertrag nach Art. 28 DSGVO ist Vertragsbestandteil (Anlage 2). § 5 Dauer und Kündigung: Vertrag läuft auf unbestimmte Zeit, Kündigung mit Frist von drei Monaten zum Quartalsende."
+"§ 1 Gegenstand: Die Apotheke versorgt die Bewohner der [Heim] mit Arzneimitteln nach ärztlicher Verschreibung. Die Apotheke leistet Medikationsmanagement, regelmässige pharmazeutische Visiten (mind. monatlich), Verblisterung auf Wunsch und Notdienstbereitschaft. § 2 Patientenwahlfreiheit: Die Bewohner sind in der Wahl der versorgenden Apotheke frei. Eine vertragliche Zuweisung der Bewohner an die Apotheke ist ausgeschlossen. Das Heim weist Bewohner bei Einzug schriftlich auf das Wahlrecht hin (Anlage 1). § 3 Vergütung: Die Apotheke erhält ausschließlich die regulären Erlöse aus der Arzneimittelabgabe nach AMPreisV. Pauschalzahlungen vom Heim oder Heimträger sind ausgeschlossen. § 4 Datenschutz: Auftragsverarbeitungsvertrag nach Art. 28 DSGVO ist Vertragsbestandteil (Anlage 2). § 5 Dauer und Kündigung: Vertrag läuft auf unbestimmte Zeit, Kündigung mit Frist von drei Monaten zum Quartalsende."
 
 ### Anzeige Landesaufsicht (Auszug)
 "Sehr geehrte Damen und Herren, hiermit zeige ich gemäss § 12a Abs. 5 ApoG den Abschluss eines Versorgungsvertrages an. Apotheke: [Name, Anschrift, Erlaubnis vom Datum]. Heim: [Name, Anschrift, Trägerschaft]. Vertragsbeginn: [Datum]. Vertragsdauer: unbefristet. Beigefügt sind: 1. Versorgungsvertrag (Kopie), 2. Patientenwahlfreiheits-Information (Muster), 3. Verblisterungs-SOP, 4. Notdienst-Bereitschaftsregelung."

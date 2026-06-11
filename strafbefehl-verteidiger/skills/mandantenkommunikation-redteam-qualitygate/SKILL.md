@@ -30,12 +30,12 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Strafbefehl-Mandantenkommunikation Speziallage
 - **Pflicht-Aufklaerung sofort:**
  - **Verteidigerbestellung** § 137 StPO; Schweigerecht § 136 StPO.
- - **Frist § 410 StPO: 2 Wochen** ab Zustellung - bei Versaeumnis Rechtskraft und Vollstreckung; Wiedereinsetzung § 44 StPO oft nicht moeglich.
+ - **Frist § 410 StPO: 2 Wochen** ab Zustellung - bei Versaeumnis Rechtskraft und Vollstreckung; Wiedereinsetzung § 44 StPO oft nicht möglich.
  - **Rechtsfolgen Akzeptanz Strafbefehl:** wird **rechtskraeftig wie Urteil** (§ 410 III StPO); BZRG-Eintrag; FAER-Punkte bei Verkehrsdelikten; berufsrechtliche Folgen.
 - **Entscheidungsmatrix Einspruch ja/nein:**
  - **Tatsachenstreit:** wenn Mandant die Tat bestreitet oder erhebliche Beweisluecken bestehen - Einspruch sinnvoll, ggf. Beweisaufnahme in Hauptverhandlung.
  - **Strafmass-Streit:** Einspruch beschraenkt auf Rechtsfolgenausspruch § 410 II StPO; nur Tagessatzhoehe / Fahrverbot streitig.
- - **Einstellung anstreben:** §§ 153, 153a StPO im Strafbefehlsverfahren noch moeglich - Verhandlung mit StA / Gericht.
+ - **Einstellung anstreben:** §§ 153, 153a StPO im Strafbefehlsverfahren noch möglich - Verhandlung mit StA / Gericht.
  - **Akzeptanz:** wenn Strafmass im Rahmen, keine erheblichen Nebenfolgen, Hauptverhandlung wuerde Beweise gegen Mandant erbringen.
 - **Berufsspezifische Konsequenzen** stets ansprechen:
  - **Beamte/Soldaten:** Disziplinarrecht, Anzeigepflicht; ab Geldstrafe oft Verfahren.

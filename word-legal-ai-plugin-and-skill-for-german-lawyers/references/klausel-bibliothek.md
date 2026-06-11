@@ -9,10 +9,10 @@ Anwendung: B2B und B2C (je Baustein gekennzeichnet)
 Jeder Baustein hat:
 
 - **Verwendungshinweis**: B2B / B2C / beides
-- **AGB-Risiko**: gruen (unproblematisch), gelb (in AGB pruefen), rot (in AGB regelmaessig unwirksam)
-- **Mild**: verhandlungsoffene Fassung, akzeptabel fuer Gegenseite
+- **AGB-Risiko**: gruen (unproblematisch), gelb (in AGB prüfen), rot (in AGB regelmaessig unwirksam)
+- **Mild**: verhandlungsoffene Fassung, akzeptabel für Gegenseite
 - **Scharf**: Verhandlungsmaximum, oft Ausgangspunkt
-- **EN**: englische Standardfassung fuer bilinguale Vertraege
+- **EN**: englische Standardfassung für bilinguale Verträge
 
 Variablen sind durch `[...]` markiert (z. B. `EUR [...]`, `[Frist]`, `[Vertragsbezeichnung]`).
 
@@ -25,7 +25,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 1. Praeambel und Eingangsformeln
 2. Definitionen
 3. Leistungsbeschreibung
-4. Verguetung und Zahlung
+4. Vergütung und Zahlung
 5. Verzug und Verzugszinsen
 6. Aufrechnung und Zurueckbehaltung
 7. Gewaehrleistung
@@ -80,13 +80,13 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § 1 Definitionen
 >
-> Die nachstehend mit grossen Anfangsbuchstaben verwendeten Begriffe haben in diesem Vertrag folgende Bedeutung:
+> Die nachstehend mit großen Anfangsbuchstaben verwendeten Begriffe haben in diesem Vertrag folgende Bedeutung:
 >
 > "Vertragsgegenstand" bezeichnet [Definition].
 > "Vertragsjahr" bezeichnet jeweils zwoelf aufeinanderfolgende Kalendermonate ab Vertragsbeginn.
 > "Verbundene Unternehmen" bezeichnet Unternehmen im Sinne der §§ 15 ff. AktG.
 > "Werktag" bezeichnet einen Tag von Montag bis Freitag, der nicht gesetzlicher Feiertag am Sitz der Auftraggeberin ist.
-> "Schriftform" bezeichnet die Schriftform im Sinne von § 126 BGB; die elektronische Form gemaess § 126a BGB ist gleichgestellt.
+> "Schriftform" bezeichnet die Schriftform im Sinne von § 126 BGB; die elektronische Form gemäß § 126a BGB ist gleichgestellt.
 
 **EN:**
 
@@ -108,7 +108,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Leistungsgegenstand
 >
-> (1) Die Auftragnehmerin erbringt fuer die Auftraggeberin die in Anlage 1 (Leistungsbeschreibung) im Einzelnen aufgefuehrten Leistungen.
+> (1) Die Auftragnehmerin erbringt für die Auftraggeberin die in Anlage 1 (Leistungsbeschreibung) im Einzelnen aufgefuehrten Leistungen.
 >
 > (2) Die Leistungsbeschreibung ist Bestandteil dieses Vertrages. Bei Widersprueche zwischen Vertrag und Anlage 1 hat der Vertrag Vorrang, soweit nicht im Vertrag ausdruecklich auf die Anlage verwiesen wird.
 >
@@ -122,23 +122,23 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > (2) Nicht in die Berechnung einbezogen sind Zeiten geplanter Wartung, die mit einer Vorlaufzeit von mindestens 48 Stunden angekuendigt wurden und die nicht laenger als vier Stunden pro Monat und ausserhalb der Hauptnutzungszeiten (Montag bis Freitag, 08:00 bis 18:00 Uhr deutscher Zeit) liegen.
 >
-> (3) Unterschreitet die Verfuegbarkeit den vereinbarten Wert, schuldet die Auftragnehmerin eine Service-Gutschrift in Hoehe von [...] Prozent der monatlichen Verguetung je Prozentpunkt Unterschreitung, gedeckelt auf 30 Prozent der monatlichen Verguetung.
+> (3) Unterschreitet die Verfuegbarkeit den vereinbarten Wert, schuldet die Auftragnehmerin eine Service-Gutschrift in Höhe von [...] Prozent der monatlichen Vergütung je Prozentpunkt Unterschreitung, gedeckelt auf 30 Prozent der monatlichen Vergütung.
 
 ---
 
-## 4. Verguetung und Zahlung
+## 4. Vergütung und Zahlung
 
 ### 4.1 Festverguetung (beides, gruen)
 
-> ### § X Verguetung
+> ### § X Vergütung
 >
-> (1) Fuer die Erbringung der Leistung schuldet die Auftraggeberin der Auftragnehmerin einen Pauschalbetrag in Hoehe von EUR [...] zuzueglich der gesetzlichen Umsatzsteuer.
+> (1) Für die Erbringung der Leistung schuldet die Auftraggeberin der Auftragnehmerin einen Pauschalbetrag in Höhe von EUR [...] zuzueglich der gesetzlichen Umsatzsteuer.
 >
-> (2) Die Verguetung ist faellig 30 Kalendertage nach Erhalt einer pruefbaren Rechnung.
+> (2) Die Vergütung ist faellig 30 Kalendertage nach Erhalt einer pruefbaren Rechnung.
 
-### 4.2 Verguetung nach Aufwand mit Cap (B2B, gruen)
+### 4.2 Vergütung nach Aufwand mit Cap (B2B, gruen)
 
-> ### § X Verguetung nach Aufwand
+> ### § X Vergütung nach Aufwand
 >
 > (1) Die Leistung wird nach Aufwand verguetet. Der Stundensatz betraegt EUR [...] netto.
 >
@@ -146,11 +146,11 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > (3) Die Auftragnehmerin fuehrt einen monatlichen Stundenzettel und legt diesen der Auftraggeberin spaetestens am fuenften Werktag des Folgemonats zur Bestaetigung vor.
 
-### 4.3 Anpassungsklausel Verguetung (B2B, gelb)
+### 4.3 Anpassungsklausel Vergütung (B2B, gelb)
 
-> ### § X Anpassung der Verguetung
+> ### § X Anpassung der Vergütung
 >
-> (1) Die Auftragnehmerin ist berechtigt, die Verguetung jaehrlich zum 1. Januar in dem Umfang anzupassen, in dem sich der Verbraucherpreisindex fuer Deutschland (Gesamtindex, Basisjahr 2020 = 100, veroeffentlicht vom Statistischen Bundesamt) gegenueber dem Stand zum 1. Januar des Vorjahres veraendert hat.
+> (1) Die Auftragnehmerin ist berechtigt, die Vergütung jaehrlich zum 1. Januar in dem Umfang anzupassen, in dem sich der Verbraucherpreisindex für Deutschland (Gesamtindex, Basisjahr 2020 = 100, veroeffentlicht vom Statistischen Bundesamt) gegenueber dem Stand zum 1. Januar des Vorjahres veraendert hat.
 >
 > (2) Die Anpassung wird der Auftraggeberin mindestens drei Monate vor Wirksamwerden in Textform angekuendigt.
 
@@ -162,23 +162,23 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Verzug, Verzugszinsen
 >
-> (1) Befindet sich eine Partei mit der Erbringung einer Geldleistung in Verzug, schuldet sie der anderen Partei Verzugszinsen in Hoehe von neun Prozentpunkten ueber dem jeweiligen Basiszinssatz gemaess § 247 BGB.
+> (1) Befindet sich eine Partei mit der Erbringung einer Geldleistung in Verzug, schuldet sie der anderen Partei Verzugszinsen in Höhe von neun Prozentpunkten über dem jeweiligen Basiszinssatz gemäß § 247 BGB.
 >
 > (2) Die Geltendmachung eines weiteren Schadens bleibt vorbehalten. Auf den Verzugsschaden ist der Verzugszins anzurechnen.
 >
-> (3) Bei Zahlungsverzug schuldet die Schuldnerin zusaetzlich die Verzugspauschale gemaess § 288 Abs. 5 BGB in Hoehe von EUR 40.
+> (3) Bei Zahlungsverzug schuldet die Schuldnerin zusaetzlich die Verzugspauschale gemäß § 288 Abs. 5 BGB in Höhe von EUR 40.
 
 ### 5.2 Verzug B2C (B2C, gruen)
 
 > ### § X Verzug
 >
-> Bei Zahlungsverzug der Verbraucherin schuldet diese Verzugszinsen in Hoehe von fuenf Prozentpunkten ueber dem jeweiligen Basiszinssatz gemaess § 247 BGB. Die Geltendmachung eines weiteren Verzugsschadens bleibt vorbehalten.
+> Bei Zahlungsverzug der Verbraucherin schuldet diese Verzugszinsen in Höhe von fuenf Prozentpunkten über dem jeweiligen Basiszinssatz gemäß § 247 BGB. Die Geltendmachung eines weiteren Verzugsschadens bleibt vorbehalten.
 
 ### 5.3 Skonto (B2B, gruen)
 
 > ### § X Skonto
 >
-> Bei Zahlung innerhalb von zehn Kalendertagen nach Rechnungserhalt ist die Auftraggeberin berechtigt, einen Skontoabzug in Hoehe von zwei Prozent vorzunehmen.
+> Bei Zahlung innerhalb von zehn Kalendertagen nach Rechnungserhalt ist die Auftraggeberin berechtigt, einen Skontoabzug in Höhe von zwei Prozent vorzunehmen.
 
 ---
 
@@ -188,7 +188,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Aufrechnung, Zurueckbehaltung
 >
-> (1) Eine Aufrechnung gegen Forderungen der Auftraggeberin ist nur mit unbestrittenen oder rechtskraeftig festgestellten Gegenforderungen zulaessig.
+> (1) Eine Aufrechnung gegen Forderungen der Auftraggeberin ist nur mit unbestrittenen oder rechtskraeftig festgestellten Gegenforderungen zulässig.
 >
 > (2) Ein Zurueckbehaltungsrecht der Auftraggeberin besteht nur, soweit es auf demselben Vertragsverhaeltnis beruht.
 
@@ -218,7 +218,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Gewaehrleistung
 >
-> Es gelten die gesetzlichen Bestimmungen. Insbesondere gilt die zweijaehrige Verjaehrungsfrist gemaess § 438 Abs. 1 Nr. 3 BGB.
+> Es gelten die gesetzlichen Bestimmungen. Insbesondere gilt die zweijaehrige Verjaehrungsfrist gemäß § 438 Abs. 1 Nr. 3 BGB.
 
 ---
 
@@ -228,15 +228,15 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Haftung
 >
-> (1) Die Parteien haften einander fuer Schaeden, die auf Vorsatz oder grober Fahrlaessigkeit beruhen, unbegrenzt.
+> (1) Die Parteien haften einander für Schaeden, die auf Vorsatz oder grober Fahrlaessigkeit beruhen, unbegrenzt.
 >
-> (2) Fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit haftet jede Partei unbegrenzt.
+> (2) Für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit haftet jede Partei unbegrenzt.
 >
-> (3) Im Uebrigen haftet jede Partei nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), die fuer die Erreichung des Vertragszwecks unverzichtbar sind und auf deren Einhaltung die andere Partei regelmaessig vertrauen darf; in diesem Fall ist die Haftung der Hoehe nach auf den vertragstypischen und vorhersehbaren Schaden begrenzt.
+> (3) Im Uebrigen haftet jede Partei nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), die für die Erreichung des Vertragszwecks unverzichtbar sind und auf deren Einhaltung die andere Partei regelmaessig vertrauen darf; in diesem Fall ist die Haftung der Höhe nach auf den vertragstypischen und vorhersehbaren Schaden begrenzt.
 >
 > (4) Die Haftung nach Abs. 3 ist je Schadensereignis auf einen Betrag von EUR [...] begrenzt; die Haftung im Vertragsjahr ist insgesamt auf einen Betrag von EUR [...] begrenzt.
 >
-> (5) Eine Haftung fuer entgangenen Gewinn und mittelbare Schaeden ist im Rahmen der Begrenzung nach Abs. 3 und 4 ausgeschlossen.
+> (5) Eine Haftung für entgangenen Gewinn und mittelbare Schaeden ist im Rahmen der Begrenzung nach Abs. 3 und 4 ausgeschlossen.
 >
 > (6) Die Haftung nach dem Produkthaftungsgesetz bleibt unberuehrt.
 
@@ -244,7 +244,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### Section X Liability
 >
-> (1) The parties shall be liable to each other without limitation for damages caused by wilful intent or gross negligence.
+> (1) The parties shall be liable to each other without limitation for damages caused by wilful intent or groß negligence.
 >
 > (2) Each party shall be liable without limitation for damages arising from injury to life, body or health.
 >
@@ -260,7 +260,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Haftung
 >
-> Wir haften unbeschraenkt bei Vorsatz und grober Fahrlaessigkeit, fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit, bei Uebernahme einer Garantie und im Rahmen des Produkthaftungsgesetzes. Bei leicht fahrlaessiger Verletzung wesentlicher Vertragspflichten haften wir auf den vertragstypischen und vorhersehbaren Schaden. Eine weitergehende Haftung ist ausgeschlossen.
+> Wir haften unbeschraenkt bei Vorsatz und grober Fahrlaessigkeit, für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit, bei Uebernahme einer Garantie und im Rahmen des Produkthaftungsgesetzes. Bei leicht fahrlaessiger Verletzung wesentlicher Vertragspflichten haften wir auf den vertragstypischen und vorhersehbaren Schaden. Eine weitergehende Haftung ist ausgeschlossen.
 
 ---
 
@@ -270,9 +270,9 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Vertragsstrafe
 >
-> (1) Bei schuldhafter Verletzung der Geheimhaltungspflicht gemaess § Y schuldet die verletzende Partei der anderen Partei eine Vertragsstrafe in Hoehe von EUR 25.000 pro Einzelverstoss.
+> (1) Bei schuldhafter Verletzung der Geheimhaltungspflicht gemäß § Y schuldet die verletzende Partei der anderen Partei eine Vertragsstrafe in Höhe von EUR 25.000 pro Einzelverstoss.
 >
-> (2) Bei einem Dauerverstoss ist die Vertragsstrafe fuer jeden angefangenen Monat des Verstosses gesondert zu zahlen, hoechstens jedoch sechsmal je Pflichtverletzung.
+> (2) Bei einem Dauerverstoss ist die Vertragsstrafe für jeden angefangenen Monat des Verstosses gesondert zu zahlen, hoechstens jedoch sechsmal je Pflichtverletzung.
 >
 > (3) Die Geltendmachung eines weitergehenden Schadensersatzes bleibt vorbehalten. Die Vertragsstrafe ist auf den Schadensersatzanspruch anzurechnen.
 
@@ -312,7 +312,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > (1) Das Recht zur ausserordentlichen Kuendigung aus wichtigem Grund bleibt unberuehrt.
 >
-> (2) Ein wichtiger Grund liegt insbesondere vor, wenn die andere Partei eine wesentliche Vertragspflicht trotz schriftlicher Abmahnung und Setzung einer angemessenen Frist nicht innerhalb der gesetzten Frist erfuellt, ueber ihr Vermoegen das Insolvenzverfahren beantragt oder eroeffnet wird oder die Eroeffnung mangels Masse abgelehnt wird.
+> (2) Ein wichtiger Grund liegt insbesondere vor, wenn die andere Partei eine wesentliche Vertragspflicht trotz schriftlicher Abmahnung und Setzung einer angemessenen Frist nicht innerhalb der gesetzten Frist erfuellt, über ihr Vermögen das Insolvenzverfahren beantragt oder eroeffnet wird oder die Eroeffnung mangels Masse abgelehnt wird.
 
 ---
 
@@ -322,7 +322,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Hoehere Gewalt
 >
-> (1) Keine Partei haftet fuer die Nichterfuellung oder verspaetete Erfuellung ihrer Verpflichtungen aus diesem Vertrag, soweit die Nichterfuellung oder Verspaetung auf einem Ereignis hoeherer Gewalt beruht.
+> (1) Keine Partei haftet für die Nichterfuellung oder verspaetete Erfuellung ihrer Verpflichtungen aus diesem Vertrag, soweit die Nichterfuellung oder Verspaetung auf einem Ereignis hoeherer Gewalt beruht.
 >
 > (2) Ereignisse hoeherer Gewalt sind solche, die ausserhalb des zumutbaren Einflussbereichs der betroffenen Partei liegen und trotz Anwendung der im Verkehr erforderlichen Sorgfalt nicht abgewendet werden konnten, insbesondere: Naturkatastrophen, Epidemien und Pandemien, kriegerische Auseinandersetzungen, Terrorakte, behoerdliche Anordnungen mit Auswirkung auf die Vertragserfuellung, allgemeine Energie- und Rohstoffknappheit, Streiks und Aussperrungen, sofern nicht von der betroffenen Partei verschuldet, sowie Cyber-Angriffe auf wesentliche Infrastruktur.
 >
@@ -344,22 +344,22 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > ### § X+1 Geheimhaltungspflicht
 >
-> (1) Die Empfangende Partei verpflichtet sich, Vertrauliche Informationen vertraulich zu behandeln, nicht ohne vorherige schriftliche Zustimmung der Offenlegenden Partei an Dritte weiterzugeben und ausschliesslich fuer die in diesem Vertrag genannten Zwecke zu verwenden.
+> (1) Die Empfangende Partei verpflichtet sich, Vertrauliche Informationen vertraulich zu behandeln, nicht ohne vorherige schriftliche Zustimmung der Offenlegenden Partei an Dritte weiterzugeben und ausschließlich für die in diesem Vertrag genannten Zwecke zu verwenden.
 >
-> (2) Die Empfangende Partei darf Vertrauliche Informationen nur solchen Mitarbeitern, Beratern und Vertragspartnern zugaenglich machen, die fuer die Vertragsdurchfuehrung notwendigerweise davon Kenntnis haben muessen ("need to know") und die in vergleichbarer Weise zur Geheimhaltung verpflichtet sind.
+> (2) Die Empfangende Partei darf Vertrauliche Informationen nur solchen Mitarbeitern, Beratern und Vertragspartnern zugaenglich machen, die für die Vertragsdurchfuehrung notwendigerweise davon Kenntnis haben müssen ("need to know") und die in vergleichbarer Weise zur Geheimhaltung verpflichtet sind.
 >
 > ### § X+2 Ausnahmen
 >
-> Die Geheimhaltungspflicht gilt nicht fuer Informationen, die:
+> Die Geheimhaltungspflicht gilt nicht für Informationen, die:
 >
 > a) der Empfangenden Partei zum Zeitpunkt der Offenlegung bereits rechtmaessig bekannt waren;
 > b) ohne Verschulden der Empfangenden Partei der Oeffentlichkeit zugaenglich werden;
 > c) von der Empfangenden Partei selbststaendig und ohne Verwendung Vertraulicher Informationen entwickelt wurden;
-> d) aufgrund einer gesetzlichen oder behoerdlichen Anordnung offenzulegen sind; in diesem Fall wird die Empfangende Partei die Offenlegende Partei vor Offenlegung unverzueglich benachrichtigen, soweit gesetzlich zulaessig.
+> d) aufgrund einer gesetzlichen oder behoerdlichen Anordnung offenzulegen sind; in diesem Fall wird die Empfangende Partei die Offenlegende Partei vor Offenlegung unverzueglich benachrichtigen, soweit gesetzlich zulässig.
 >
 > ### § X+3 Dauer
 >
-> Die Geheimhaltungspflicht beginnt mit Unterzeichnung dieses Vertrages und besteht fuer eine Dauer von fuenf Jahren nach Beendigung des Hauptvertrages oder, falls kein Hauptvertrag geschlossen wird, fuenf Jahre ab Unterzeichnung dieses Vertrages. Fuer Geschaeftsgeheimnisse im Sinne des § 2 GeschGehG gilt die Geheimhaltungspflicht zeitlich unbegrenzt fort, solange die gesetzlichen Voraussetzungen vorliegen.
+> Die Geheimhaltungspflicht beginnt mit Unterzeichnung dieses Vertrages und besteht für eine Dauer von fuenf Jahren nach Beendigung des Hauptvertrages oder, falls kein Hauptvertrag geschlossen wird, fuenf Jahre ab Unterzeichnung dieses Vertrages. Für Geschaeftsgeheimnisse im Sinne des § 2 GeschGehG gilt die Geheimhaltungspflicht zeitlich unbegrenzt fort, solange die gesetzlichen Voraussetzungen vorliegen.
 
 ---
 
@@ -371,13 +371,13 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > (1) Die Parteien werden die Bestimmungen der DSGVO und des BDSG beachten.
 >
-> (2) Soweit die Auftragnehmerin im Auftrag der Auftraggeberin personenbezogene Daten verarbeitet, schliessen die Parteien einen separaten Auftragsverarbeitungsvertrag gemaess Art. 28 DSGVO. Dieser Vertrag ist Anlage [...] und Bestandteil dieses Vertrages.
+> (2) Soweit die Auftragnehmerin im Auftrag der Auftraggeberin personenbezogene Daten verarbeitet, schliessen die Parteien einen separaten Auftragsverarbeitungsvertrag gemäß Art. 28 DSGVO. Dieser Vertrag ist Anlage [...] und Bestandteil dieses Vertrages.
 
 ### 13.2 Auftragsverarbeitung Mini-Klausel (B2B, gelb)
 
 > ### § X Auftragsverarbeitung
 >
-> Die Auftragnehmerin darf personenbezogene Daten ausschliesslich auf dokumentierte Weisung der Auftraggeberin und zu den im Auftragsverarbeitungsvertrag (Anlage [...]) genannten Zwecken verarbeiten. Subunternehmer beduerfen der vorherigen Genehmigung der Auftraggeberin in Textform.
+> Die Auftragnehmerin darf personenbezogene Daten ausschließlich auf dokumentierte Weisung der Auftraggeberin und zu den im Auftragsverarbeitungsvertrag (Anlage [...]) genannten Zwecken verarbeiten. Subunternehmer beduerfen der vorherigen Genehmigung der Auftraggeberin in Textform.
 
 ---
 
@@ -387,7 +387,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Nutzungsrechte
 >
-> (1) Soweit im Rahmen der Leistungserbringung urheberrechtlich schutzfaehige Arbeitsergebnisse entstehen, raeumt die Auftragnehmerin der Auftraggeberin ein einfaches, raeumlich und zeitlich unbeschraenktes Nutzungsrecht ein, die Arbeitsergebnisse fuer ihre internen Geschaeftszwecke zu nutzen.
+> (1) Soweit im Rahmen der Leistungserbringung urheberrechtlich schutzfaehige Arbeitsergebnisse entstehen, raeumt die Auftragnehmerin der Auftraggeberin ein einfaches, raeumlich und zeitlich unbeschraenktes Nutzungsrecht ein, die Arbeitsergebnisse für ihre internen Geschaeftszwecke zu nutzen.
 >
 > (2) Bestehende Rechte der Auftragnehmerin an vorbestehenden Arbeitsergebnissen, Methoden und Werkzeugen ("Background IP") bleiben unberuehrt.
 
@@ -395,11 +395,11 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Nutzungsrechte
 >
-> (1) Die Auftragnehmerin uebertraegt der Auftraggeberin saemtliche ausschliessliche, uebertragbare, unterlizenzierbare, zeitlich und raeumlich unbeschraenkte Nutzungsrechte an allen im Rahmen dieses Vertrages entstehenden Arbeitsergebnissen fuer alle bekannten und unbekannten Nutzungsarten.
+> (1) Die Auftragnehmerin uebertraegt der Auftraggeberin saemtliche ausschliessliche, uebertragbare, unterlizenzierbare, zeitlich und raeumlich unbeschraenkte Nutzungsrechte an allen im Rahmen dieses Vertrages entstehenden Arbeitsergebnissen für alle bekannten und unbekannten Nutzungsarten.
 >
-> (2) Die Verguetung fuer die Rechteuebertragung ist mit der Verguetung gemaess § Y abgegolten.
+> (2) Die Vergütung für die Rechteuebertragung ist mit der Vergütung gemäß § Y abgegolten.
 
-**Hinweis**: § 31a UrhG (Nutzungsarten unbekannt) und § 32 UrhG (angemessene Verguetung) beachten — bei Urhebern (natuerlichen Personen) Schriftform und Widerrufsrecht.
+**Hinweis**: § 31a UrhG (Nutzungsarten unbekannt) und § 32 UrhG (angemessene Vergütung) beachten — bei Urhebern (natuerlichen Personen) Schriftform und Widerrufsrecht.
 
 ---
 
@@ -411,7 +411,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > (1) Jede Partei kann jederzeit schriftlich Aenderungen der Leistung verlangen.
 >
-> (2) Die Auftragnehmerin pruft den Aenderungsantrag und legt der Auftraggeberin innerhalb von zehn Werktagen ein Aenderungsangebot mit Angabe von Auswirkungen auf Verguetung, Termin und Leistungsumfang vor.
+> (2) Die Auftragnehmerin pruft den Aenderungsantrag und legt der Auftraggeberin innerhalb von zehn Werktagen ein Aenderungsangebot mit Angabe von Auswirkungen auf Vergütung, Termin und Leistungsumfang vor.
 >
 > (3) Das Aenderungsangebot wird durch beiderseitige schriftliche Unterzeichnung Vertragsbestandteil.
 
@@ -425,7 +425,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > (1) Wir behalten uns vor, diese AGB anzupassen, wenn dies durch gesetzliche oder regulatorische Aenderungen, hoechstrichterliche Rechtsprechung oder zur Anpassung an wesentliche Veraenderungen des Leistungsangebots erforderlich ist.
 >
-> (2) Die geplanten Aenderungen werden Ihnen mindestens zwei Monate vor Wirksamwerden in Textform mitgeteilt. Sie koennen den Aenderungen innerhalb von sechs Wochen ab Zugang der Mitteilung widersprechen. Tun Sie dies nicht und nutzen den Dienst weiter, gelten die Aenderungen als angenommen. Auf diese Wirkung werden wir Sie in der Aenderungsmitteilung gesondert hinweisen.
+> (2) Die geplanten Aenderungen werden Ihnen mindestens zwei Monate vor Wirksamwerden in Textform mitgeteilt. Sie können den Aenderungen innerhalb von sechs Wochen ab Zugang der Mitteilung widersprechen. Tun Sie dies nicht und nutzen den Dienst weiter, gelten die Aenderungen als angenommen. Auf diese Wirkung werden wir Sie in der Aenderungsmitteilung gesondert hinweisen.
 >
 > (3) Bei Widerspruch endet der Vertrag zum Zeitpunkt des Wirksamwerdens der Aenderungen.
 
@@ -437,7 +437,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Sprache
 >
-> Vertragssprache ist Deutsch. Eine englische Uebersetzung dient ausschliesslich Informationszwecken. Bei Widersprueche zwischen den Fassungen ist die deutsche Fassung massgeblich.
+> Vertragssprache ist Deutsch. Eine englische Uebersetzung dient ausschließlich Informationszwecken. Bei Widersprueche zwischen den Fassungen ist die deutsche Fassung massgeblich.
 
 ---
 
@@ -447,7 +447,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Aenderungen, Schriftform
 >
-> (1) Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform. Dies gilt auch fuer die Aufhebung oder Aenderung dieser Schriftformklausel.
+> (1) Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform. Dies gilt auch für die Aufhebung oder Aenderung dieser Schriftformklausel.
 >
 > (2) Die Schriftform ist gewahrt durch eine eigenhaendig oder mittels qualifizierter elektronischer Signatur unterzeichnete Vertragsurkunde, die in einem einheitlichen Dokument oder in mehreren gleichlautenden Ausfertigungen vorliegt.
 >
@@ -483,9 +483,9 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Anwendbares Recht und Gerichtsstand
 >
-> (1) Dieser Vertrag unterliegt ausschliesslich dem Recht der Bundesrepublik Deutschland. Die Anwendung des UN-Kaufrechts (CISG) wird ausgeschlossen.
+> (1) Dieser Vertrag unterliegt ausschließlich dem Recht der Bundesrepublik Deutschland. Die Anwendung des UN-Kaufrechts (CISG) wird ausgeschlossen.
 >
-> (2) Ausschliesslicher Gerichtsstand fuer alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Sitz der Auftraggeberin. Die Auftraggeberin ist berechtigt, die Auftragnehmerin auch an deren allgemeinem Gerichtsstand zu verklagen.
+> (2) Ausschliesslicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Sitz der Auftraggeberin. Die Auftraggeberin ist berechtigt, die Auftragnehmerin auch an deren allgemeinem Gerichtsstand zu verklagen.
 
 ### 19.2 B2C-Verbraucher (B2C, gruen)
 
@@ -493,7 +493,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > (1) Dieser Vertrag unterliegt deutschem Recht. Zwingende Verbraucherschutzbestimmungen des Staates, in dem die Verbraucherin ihren gewoehnlichen Aufenthalt hat, bleiben unberuehrt.
 >
-> (2) Gerichtsstand fuer Streitigkeiten richtet sich nach den gesetzlichen Bestimmungen.
+> (2) Gerichtsstand für Streitigkeiten richtet sich nach den gesetzlichen Bestimmungen.
 
 ---
 
@@ -503,7 +503,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Schiedsklausel
 >
-> Alle Streitigkeiten, die sich aus oder im Zusammenhang mit diesem Vertrag ergeben, werden nach der Schiedsgerichtsordnung der Deutschen Institution fuer Schiedsgerichtsbarkeit e.V. (DIS) unter Ausschluss des ordentlichen Rechtswegs endgueltig entschieden. Der Ort des Schiedsverfahrens ist Frankfurt am Main. Die Anzahl der Schiedsrichter betraegt drei. Die Sprache des Verfahrens ist Deutsch. Das in der Sache anzuwendende Recht ist das Recht der Bundesrepublik Deutschland.
+> Alle Streitigkeiten, die sich aus oder im Zusammenhang mit diesem Vertrag ergeben, werden nach der Schiedsgerichtsordnung der Deutschen Institution für Schiedsgerichtsbarkeit e.V. (DIS) unter Ausschluss des ordentlichen Rechtswegs endgueltig entschieden. Der Ort des Schiedsverfahrens ist Frankfurt am Main. Die Anzahl der Schiedsrichter betraegt drei. Die Sprache des Verfahrens ist Deutsch. Das in der Sache anzuwendende Recht ist das Recht der Bundesrepublik Deutschland.
 
 ### 20.2 Mediation als Vorstufe (B2B, gruen)
 
@@ -557,7 +557,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > (1) Die Auftragnehmerin darf zur Erfuellung ihrer Pflichten aus diesem Vertrag Subunternehmer nur mit vorheriger Zustimmung der Auftraggeberin in Textform einsetzen. Die Zustimmung darf nicht unbillig verweigert werden.
 >
-> (2) Die Auftragnehmerin haftet fuer ihre Subunternehmer wie fuer eigenes Handeln.
+> (2) Die Auftragnehmerin haftet für ihre Subunternehmer wie für eigenes Handeln.
 >
 > (3) Eine Liste der zum Zeitpunkt des Vertragsschlusses bereits zugelassenen Subunternehmer ist Anlage [...].
 
@@ -569,7 +569,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Audit-Recht
 >
-> (1) Die Auftraggeberin ist berechtigt, einmal jaehrlich nach vorheriger Ankuendigung mit einer Frist von mindestens vier Wochen waehrend der ueblichen Geschaeftszeiten ein Audit bei der Auftragnehmerin durchzufuehren, um die Einhaltung der vertraglichen Pflichten zu pruefen, insbesondere die Einhaltung von Datenschutz-, Compliance- und Sicherheitspflichten.
+> (1) Die Auftraggeberin ist berechtigt, einmal jaehrlich nach vorheriger Ankuendigung mit einer Frist von mindestens vier Wochen waehrend der ueblichen Geschaeftszeiten ein Audit bei der Auftragnehmerin durchzufuehren, um die Einhaltung der vertraglichen Pflichten zu prüfen, insbesondere die Einhaltung von Datenschutz-, Compliance- und Sicherheitspflichten.
 >
 > (2) Das Audit darf den Geschaeftsbetrieb der Auftragnehmerin nicht unverhaeltnismaessig stoeren. Geschaefts- und Betriebsgeheimnisse Dritter sind zu wahren.
 >
@@ -587,6 +587,6 @@ Quellen:
 - Gaengige Vertragspraxis in deutschen Kanzleien
 - Hoechstrichterliche Rechtsprechung zu §§ 305-310 BGB (BGH-Linie zur AGB-Kontrolle)
 
-**Wichtig**: Diese Bibliothek ist eine Arbeitshilfe. Sie ersetzt nicht die Pruefung im Einzelfall. Jeder Baustein ist auf das konkrete Mandat anzupassen. Bei AGB-Klauseln (gelbe oder rote Ampel) ist stets der Skill `agb-konforme-klauseln-305-310-bgb` zu konsultieren. Bei B2C-Vertraegen sind zwingende Verbraucherschutzbestimmungen vorrangig.
+**Wichtig**: Diese Bibliothek ist eine Arbeitshilfe. Sie ersetzt nicht die Prüfung im Einzelfall. Jeder Baustein ist auf das konkrete Mandat anzupassen. Bei AGB-Klauseln (gelbe oder rote Ampel) ist stets der Skill `agb-konforme-klauseln-305-310-bgb` zu konsultieren. Bei B2C-Vertraegen sind zwingende Verbraucherschutzbestimmungen vorrangig.
 
 Zitierweise nach `references/zitierweise.md` (sofern vorhanden); ansonsten nach den Konventionen des Plugins `zitierweise-deutsches-recht`.

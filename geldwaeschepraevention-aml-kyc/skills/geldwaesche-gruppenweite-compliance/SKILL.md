@@ -18,7 +18,7 @@ Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienst
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Welche Tochtergesellschaften oder Dienstleister sind im Scope der gruppenweiten Pruefung?
+1. Welche Tochtergesellschaften oder Dienstleister sind im Scope der gruppenweiten Prüfung?
 2. Gibt es laenderspezifische Anforderungen (FATF-Hochrisikolaender, EU-Mitglieder mit abweichenden Regeln)?
 3. Welche Auslagerungsvertraege bestehen und wie werden die AML-Pflichten dort kontrolliert?
 4. Gibt es einen gruppenweiten Policy-Rahmen oder Einzelregelungen pro Einheit?

@@ -3,7 +3,7 @@ name: online-shop-behoerdenmeldung-pruefen
 description: "Prüfer: Online-Shop: Behördenmeldung prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Online Shop Behördenmeldung Pruefen
+# Online Shop Behördenmeldung Prüfen
 
 ## Arbeitsweg
 

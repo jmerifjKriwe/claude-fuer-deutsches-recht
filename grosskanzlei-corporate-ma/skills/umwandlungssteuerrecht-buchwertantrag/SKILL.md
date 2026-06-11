@@ -125,18 +125,18 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Zielstruktur mit Corporate-Team abstimmen:** welche Umwandlungsform (Verschmelzung, Ausgliederung, Formwechsel) ist beabsichtigt?
-2. **Verlustvortraege kartieren:** § 8c KStG-Pruefung — bisherige Anteilsuebertragungen der letzten 5 Jahre; Schwellenwerte berechnen; Sanierungsklausel pruefen
+2. **Verlustvortraege kartieren:** § 8c KStG-Prüfung — bisherige Anteilsuebertragungen der letzten 5 Jahre; Schwellenwerte berechnen; Sanierungsklausel prüfen
 3. **Buchwert-Antrag planen:** Antrag beim zuständigen Finanzamt; Frist (§§ 11 Abs. 1, 20 Abs. 2 UmwStG); ohne Antrag: gemeiner Wert = stille Reserven werden aufgedeckt
 4. **Rueckwirkungsfristen einhalten:** steuerlicher Abschlussstichtag bestimmen; maximal 12 Monate rueckwirkend (§ 2 Abs. 1 UmwStG); HR-Anmeldung als Fristbeginn
-5. **Grunderwerbsteuer pruefen:** grundbesitzende Gesellschaft? § 1 Abs. 2a, 2b GrEStG Schwelle 90 %? Steuersatz; Steuerbefreiung Konzernklausel § 6a GrEStG?
+5. **Grunderwerbsteuer prüfen:** grundbesitzende Gesellschaft? § 1 Abs. 2a, 2b GrEStG Schwelle 90 %? Steuersatz; Steuerbefreiung Konzernklausel § 6a GrEStG?
 6. **Sperrfrist-Management:** nach Einbringung nach § 20 UmwStG keine schaedliche Veraeusserung für 7 Jahre; § 22 UmwStG Monitoring einrichten
-7. **Organschaft-Auswirkungen:** Umwandlung koennte Organschaft beenden; Verlustausgleich und Ergebnisabfuehrungsvertrag pruefen
+7. **Organschaft-Auswirkungen:** Umwandlung koennte Organschaft beenden; Verlustausgleich und Ergebnisabfuehrungsvertrag prüfen
 8. **Steuer-Rueckstellung und Haftungsrisiken im SPA adressieren:** Tax Warranties, Tax Indemnity, Steuer-Freistellungsklausel
 
 ## Entscheidungsbaum
 
 - Verlustvortraege vorhanden + mehr als 50 % Anteilserwerb → § 8c KStG → Verlustuntergang → Sanierungsklausel prufen?
-- Einbringung ohne Teilbetrieb → § 20 UmwStG Buchwert nicht moeglich → stille Reserven aufzudecken → Steuerbelastung
+- Einbringung ohne Teilbetrieb → § 20 UmwStG Buchwert nicht möglich → stille Reserven aufzudecken → Steuerbelastung
 - GrEStG § 1 Abs. 2a/2b → 90 % Schwelle → GrESt-Pflicht → Konzernklausel § 6a GrEStG greifen?
 - Sperrfrist-Verletzung → Einbringungsgewinn I oder II → rueckwirkende Steuer bis zu 7 Jahre
 
@@ -210,4 +210,4 @@ Offene Fragen an Steuerteam: [TODO Owner Datum]
 
 - Share Deal vs. Asset Deal Wahl an Steuer-, Haftungs- und Genehmigungsfolgen, nicht am LMA-Standard ausrichten.
 - W&I-Versicherung nach BGH II ZR 109/13 ergaenzt, ersetzt aber keine Garantien.
-- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing pruefen, sonst § 41 GWB-Vollzugsverbot.
+- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing prüfen, sonst § 41 GWB-Vollzugsverbot.

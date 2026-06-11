@@ -23,7 +23,7 @@ description: "Jobticket Deutschlandticket steuerliche Behandlung. Anwendungsfall
 
 ## Kernsachverhalt
 
-Der AG kann AN ein Jobticket für OePNV steuerfrei zur Verfuegung stellen, wenn dieses zusaetzlich zum geschuldeten Arbeitslohn gewaehrt wird (§ 3 Nr. 15 EStG). Seit 2023 ist das Deutschlandticket (49 EUR/Monat ab 01.05.2023, ab 01.01.2025 58 EUR; Preis wird politisch jaehrlich festgelegt — aktuellen Wert ueber Verkehrsministerkonferenz pruefen) ebenso behandelbar. Bei voller AG-Finanzierung ist das Ticket steuer- und SV-frei. Bei AN-Eigenanteil wird der AG-Zuschuss steuerfrei behandelt. Die Entfernungspauschale wird beim AN um die steuerfreien AG-Leistungen gekuerzt.
+Der AG kann AN ein Jobticket für OePNV steuerfrei zur Verfuegung stellen, wenn dieses zusaetzlich zum geschuldeten Arbeitslohn gewaehrt wird (§ 3 Nr. 15 EStG). Seit 2023 ist das Deutschlandticket (49 EUR/Monat ab 01.05.2023, ab 01.01.2025 58 EUR; Preis wird politisch jaehrlich festgelegt — aktuellen Wert über Verkehrsministerkonferenz prüfen) ebenso behandelbar. Bei voller AG-Finanzierung ist das Ticket steuer- und SV-frei. Bei AN-Eigenanteil wird der AG-Zuschuss steuerfrei behandelt. Die Entfernungspauschale wird beim AN um die steuerfreien AG-Leistungen gekuerzt.
 
 ## Kaltstart-Rueckfragen
 
@@ -79,10 +79,10 @@ Der AG kann AN ein Jobticket für OePNV steuerfrei zur Verfuegung stellen, wenn 
 ### Phase 4 — Deutschlandticket-Sondersituation
 
 - 01.05.2023: Einfuehrung Deutschlandticket 49 EUR/Monat.
-- Ab 01.01.2025: 58 EUR/Monat; Preis wird politisch jaehrlich festgelegt — aktuellen Wert ueber Verkehrsministerkonferenz (VMK) pruefen.
+- Ab 01.01.2025: 58 EUR/Monat; Preis wird politisch jaehrlich festgelegt — aktuellen Wert über Verkehrsministerkonferenz (VMK) prüfen.
 - Behandlung wie Jobticket nach § 3 Nr. 15 EStG.
-- Bei AG-Zuschuss zum Deutschlandticket des AN: steuerfrei, wenn ueber Job-Karte erworben.
-- **Zahlenbeispiel:** AG zahlt für AN das Deutschlandticket voll (58 EUR/Monat Stand 2025; Preis pruefen), zusaetzlich zum Lohn → 696 EUR/Jahr LSt- und SV-frei nach § 3 Nr. 15 EStG; allerdings beim AN Kuerzung der Entfernungspauschale (§ 9 Abs. 1 Nr. 4 Satz 6 EStG) — der AN gibt in der Anlage N die AG-Leistung an, das FA mindert den Werbungskostenabzug. Alternative Pauschalierung 25 Prozent (§ 40 Abs. 2 Satz 2 EStG): keine Kuerzung der Entfernungspauschale.
+- Bei AG-Zuschuss zum Deutschlandticket des AN: steuerfrei, wenn über Job-Karte erworben.
+- **Zahlenbeispiel:** AG zahlt für AN das Deutschlandticket voll (58 EUR/Monat Stand 2025; Preis prüfen), zusaetzlich zum Lohn → 696 EUR/Jahr LSt- und SV-frei nach § 3 Nr. 15 EStG; allerdings beim AN Kuerzung der Entfernungspauschale (§ 9 Abs. 1 Nr. 4 Satz 6 EStG) — der AN gibt in der Anlage N die AG-Leistung an, das FA mindert den Werbungskostenabzug. Alternative Pauschalierung 25 Prozent (§ 40 Abs. 2 Satz 2 EStG): keine Kuerzung der Entfernungspauschale.
 
 ### Phase 5 — Lohnabrechnung
 
@@ -99,9 +99,9 @@ Der AG kann AN ein Jobticket für OePNV steuerfrei zur Verfuegung stellen, wenn 
 ## Strategie und Praxis-Tipps
 
 - Deutschlandticket ist guenstig für AG — minimale Buchung, hohe AN-Bindung.
-- "Zusaetzlich zum Lohn" streng pruefen — bei Gehaltsumwandlung kein § 3 Nr. 15.
+- "Zusaetzlich zum Lohn" streng prüfen — bei Gehaltsumwandlung kein § 3 Nr. 15.
 - Bei Pauschalierung 25 Prozent: keine Entfernungspauschalen-Kuerzung beim AN; attraktiv.
-- Bei vollstaendiger AG-Erstattung: AN profitiert ueber Werbungskosten-Differenz.
+- Bei vollstaendiger AG-Erstattung: AN profitiert über Werbungskosten-Differenz.
 - StBVV: in Lohnpauschale; Konfiguration einmalig.
 - DATEV-Tipp: DATEV LODAS Jobticket-Konfiguration mit eigenem Lohnart.
 
@@ -112,6 +112,6 @@ Stand: 05/2026.
 - EStG §§ 3 Nr. 15, 8, 9 Abs. 1 Nr. 4, 40 Abs. 2.
 - BMF v. 15.08.2019 (Jobticket).
 - LStR R 3.15.
-- Deutschlandticket-Preis: 58 EUR/Monat ab 01.01.2025 (jaehrlich durch VMK festgelegt; pruefen).
+- Deutschlandticket-Preis: 58 EUR/Monat ab 01.01.2025 (jaehrlich durch VMK festgelegt; prüfen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 2 bestaetigt (Deutschlandticket 58 EUR ab 01.01.2025), 2 ersetzt (Pruefhinweise ohne Marker) -->

@@ -45,7 +45,7 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 | Wort | Was es heisst | Was zu tun ist |
 | --- | --- | --- |
-| **Bestandskraeftig** | Entscheidung ist endgueltig; kein Widerspruch mehr moeglich. | Pruefen, ob Frist vorbei. Notfalls Wiederaufnahme nach § 51 VwVfG. |
+| **Bestandskraeftig** | Entscheidung ist endgueltig; kein Widerspruch mehr möglich. | Prüfen, ob Frist vorbei. Notfalls Wiederaufnahme nach § 51 VwVfG. |
 | **Unanfechtbar** | Gleiche Bedeutung wie bestandskraeftig. | Schnell Anwalt fragen. |
 | **Anerkenntnis** | Sie sagen: "Stimmt, ich habe Schuld." | Nie unterschreiben ohne Anwalt. § 307 ZPO Anerkenntnisurteil. |
 | **Verzicht** | Sie geben einen Anspruch auf. | Bedeutet endgueltigen Verlust. § 397 BGB Erlass. |
@@ -56,7 +56,7 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 ## Sprachebene waehlen
 
-- **Einfache Sprache:** kurze Saetze, aktive Verben, ein Gedanke pro Satz. Beispiel: "Sie muessen bis 30. Juni zahlen."
+- **Einfache Sprache:** kurze Saetze, aktive Verben, ein Gedanke pro Satz. Beispiel: "Sie müssen bis 30. Juni zahlen."
 - **Leichte Sprache:** noch einfacher; Regeln nach DIN SPEC 33429. Eher für Personen mit kognitiver Einschraenkung.
 - **Behördensprache hoeflich-formal:** "Sehr geehrte Damen und Herren, mit Schreiben vom . teilen Sie mit ... Hierzu nehme ich wie folgt Stellung: ..."
 - Tipp: Mehrdeutige Formulierungen vermeiden ("erforderlichenfalls" → "wenn noetig"; "Sachverhalt" → "Geschehen").

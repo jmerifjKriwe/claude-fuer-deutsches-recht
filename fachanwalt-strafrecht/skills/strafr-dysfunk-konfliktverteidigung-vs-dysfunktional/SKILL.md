@@ -44,7 +44,7 @@ description: "Konfliktverteidigung gegen den Vorwurf der Dysfunktionalitaet saub
 
 - Vor jedem aggressiven Antrag: schriftlich notieren, welchem Verteidigungsziel er konkret dient (Aufklaerung, Glaubhaftigkeit, Beweisverwertung, Verfahrenstrennung).
 - Aktennotiz mit Datum und Begruendung in Handakte. Diese Notiz ist im Ernstfall (§ 138a StPO, Berufsrechtsverfahren) nicht erforderlich aber Beleg für sachorientierte Arbeit.
-- Mandantenbesprechung dokumentieren: Mandant entscheidet ueber Strategie nach Belehrung.
+- Mandantenbesprechung dokumentieren: Mandant entscheidet über Strategie nach Belehrung.
 
 ## Argumentation gegen das Gericht
 

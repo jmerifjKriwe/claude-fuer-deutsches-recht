@@ -14,11 +14,11 @@ description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagier
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Ein Kreuzfahrtschiff oder grosses Fahrgastschiff sinkt in deutschen Gewässern; WSA ordnet Beseitigung an; Eigentümer fragt nach Haftung. Die finanzierende Bank fragt, ob sie als Hypothekengläubigerin haftet. Ein Reeder ist insolvent; Behörde will Kosten beim letzten Eigentümer eintreiben.
+Ein Kreuzfahrtschiff oder großes Fahrgastschiff sinkt in deutschen Gewässern; WSA ordnet Beseitigung an; Eigentümer fragt nach Haftung. Die finanzierende Bank fragt, ob sie als Hypothekengläubigerin haftet. Ein Reeder ist insolvent; Behörde will Kosten beim letzten Eigentümer eintreiben.
 
 ## Erste Schritte
-1. WRC 2007 / WSG Anwendbarkeit pruefen: Kreuzfahrtschiff oder grosses Fahrgastschiff ab 300 BRZ in deutschen Gewaessern.
-2. Verantwortlichen identifizieren: WSG § 2 - Eigentuemer des {vessel} haftet primaer.
+1. WRC 2007 / WSG Anwendbarkeit prüfen: Kreuzfahrtschiff oder großes Fahrgastschiff ab 300 BRZ in deutschen Gewaessern.
+2. Verantwortlichen identifizieren: WSG § 2 - Eigentümer des {vessel} haftet primaer.
 3. Behoerdliche Meldepflicht (WRC Art. 5 / WSG § 4): unverzuegliche Meldung beim WSA.
 4. Versicherungsnachweis (WRC Art. 12): Pflicht ab 300 BRZ; P&I-Club-Zertifikat vorlegen.
 5. Kostenschaetzung einholen: Bergungsunternehmen; Umweltschadensrisiko bewerten.
@@ -28,16 +28,16 @@ Ein Kreuzfahrtschiff oder grosses Fahrgastschiff sinkt in deutschen Gewässern; 
 - WSG §§ 1-12 Wrackbeseitigungsgesetz; WRC 2007 Nairobi Art. 1-12; MARPOL Annex I Reg. 26.
 
 ## Prüfraster
-- Ist der Eigentuemer des Kreuzfahrtschiff oder grosses Fahrgastschiff bekannt und zahlungsfaehig?
+- Ist der Eigentümer des Kreuzfahrtschiff oder großes Fahrgastschiff bekannt und zahlungsfaehig?
 - Greift WRC 2007 (Schiff ab 300 BRZ; Gewaesser eines Vertragsstaats)?
 - Ist Wrackbeseitigungs-Versicherung vorhanden (WRC Art. 12)?
 - Ueberschreiten Wrackkosten den Schiffswert?
-- Bestehen Umweltschadensrisiken (Bunkeröl/Chemikalien) beim Kreuzfahrtschiff oder grosses Fahrgastschiff?
+- Bestehen Umweltschadensrisiken (Bunkeröl/Chemikalien) beim Kreuzfahrtschiff oder großes Fahrgastschiff?
 
 ## Typische Fallstricke
 - WRC gilt auch für Freizeitjachten ab 14 Meter Laenge.
 - Behoerdliche Ersatzvornahme begründet Kostenerstattungsanspruch mit Vorrang.
-- Bei Kreuzfahrtschiff oder grosses Fahrgastschiff unter Auslandsflagge kommen Flaggenstaat-Pflichten hinzu.
+- Bei Kreuzfahrtschiff oder großes Fahrgastschiff unter Auslandsflagge kommen Flaggenstaat-Pflichten hinzu.
 
 ## Vertiefung: Nairobi WRC 2007 im Überblick
 Das Nairobi Wrack-Übereinkommen (WRC 2007) trat international 2015 in Kraft; Deutschland hat es 2013 ratifiziert und durch das Wrackbeseitigungsgesetz (WSG) umgesetzt. Es gilt für Wracks in der AWZ und dem Küstenmeer von Vertragsstaaten; für Wracks auf der Hohen See gelten nur nationale Normen. Kernpflicht: Eigentümer muss das Wrack melden; markieren; und beseitigen oder beseitigen lassen.

@@ -18,7 +18,7 @@ description: "Belastung des Eigentums im ALR Pfand und Hypothek. Skill behandelt
 
 ## Generalhypothek
 
-- Ueber das Gesamtvermoegen.
+- Über das Gesamtvermoegen.
 - Heute weitgehend ueberholt.
 
 ## Konventionalhypothek

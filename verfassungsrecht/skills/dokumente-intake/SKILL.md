@@ -7,7 +7,7 @@ description: "Dokumentenintake für Verfassungsrecht: sortiert Letzter fachgeric
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Verfassungsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Verfassungsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -31,13 +31,13 @@ Dieser Dokumenten-Intake für **Verfassungsrecht** ordnet Anlagen, Registerdaten
 - `bverfg-verfahrenssicht-und-annahmerisiko` — Bverfg Verfahrenssicht und Annahmerisiko
 - `formelle-mehrparteien-konflikt-und-interessen` — Formelle Mehrparteien Konflikt und Interessen
 - `formelle-verfassungsmaessigkeit` — Formelle Verfassungsmaessigkeit
-- `gesetzentwurf-gg-konformitaet-pruefen` — Gesetzentwurf GG Konformitaet Pruefen
+- `gesetzentwurf-gg-konformitaet-pruefen` — Gesetzentwurf GG Konformitaet Prüfen
 - `gesetzgebungskompetenz-grundrechtspruefung` — Gesetzgebungskompetenz Grundrechtspruefung
-- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz Pruefen
+- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz Prüfen
 - `grundgesetz-fristen-form-und-zustaendigkeit` — Grundgesetz Fristen Form und Zustaendigkeit
 - `grundrechte-fehlerkatalog` — Grundrechte Fehlerkatalog
 - `grundrechtspruefung-acht-formelle-interessen` — Grundrechtspruefung Acht Formelle Interessen
-- `grundrechtspruefung-und-verhaeltnismaessigkeit` — Grundrechtspruefung und Verhaeltnismaessigkeit
+- `grundrechtspruefung-und-verhaeltnismaessigkeit` — Grundrechtspruefung und Verhältnismäßigkeit
 - `anschluss-routing` — Anschluss Routing
 - `einstieg-routing` — Einstieg Routing
 

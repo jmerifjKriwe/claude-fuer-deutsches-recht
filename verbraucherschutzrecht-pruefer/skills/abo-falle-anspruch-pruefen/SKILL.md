@@ -3,7 +3,7 @@ name: abo-falle-anspruch-pruefen
 description: "Prüfer: Abo-Falle: Anspruch prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Abo Falle Anspruch Pruefen
+# Abo Falle Anspruch Prüfen
 
 ## Arbeitsweg
 

@@ -15,7 +15,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe —
 
 ## Spezialwissen
 
-Hochhaeuser ab 22 m Hoehe (Sonderbauten gemaess Musterrichtlinie Hochhaeuser MHHR) unterliegen erhoehten Anforderungen.
+Hochhaeuser ab 22 m Höhe (Sonderbauten gemäß Musterrichtlinie Hochhaeuser MHHR) unterliegen erhoehten Anforderungen.
 Die Bauueberwachung nach HOAI LPH 8 koordiniert Statik, Fassade, Brandschutz und TGA unter verschaerften Ueberwachungsklassen.
 Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle Spannstahl und Fassadenabnahme.
 
@@ -27,9 +27,9 @@ Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle S
 
 ## Erste Schritte auf der Baustelle
 
-1. Pruefung Statik und Freigabe Bewehrungsplaene: Stahlguete BSt500S, Anschluss Wandscheiben und Kerne
+1. Prüfung Statik und Freigabe Bewehrungsplaene: Stahlguete BSt500S, Anschluss Wandscheiben und Kerne
 2. Betongueteplan: C30/37 bis C45/55 je Geschoss und Bauteil, Frischbetonproben und Wuerfelproben
-3. Fassadenmontageplan pruefen: Ankerpositionen, Toleranzen, Dichtsystem Silikonbutylfuge
+3. Fassadenmontageplan prüfen: Ankerpositionen, Toleranzen, Dichtsystem Silikonbutylfuge
 4. Windlastpruefung Fassade: Pruefoeffnungen nach DIN EN 13830, Druckwasserdichtheit-Pruefprotokoll
 5. Brandschutzabschalung Traeger und Stuetzen: F90-A Brandschutzputz oder Intumeszenz-Anstrich dokumentieren
 6. Aufzugsschachtkontrolle: Schachtmasse für Hochgeschwindigkeitsaufzug bis 6 m/s, Fuehrungsschienen-Ausrichtung
@@ -56,7 +56,7 @@ Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle S
 
 - Drohnenflug DJI Mavic 3 Enterprise: Fassadeninspektion ab Etage 10, Ankerpositionen, Dichtfugenverlauf
 - Fotodokumentation verdeckte Anker: Bewehrungsanschluss Fassadenhalter vor Verguss, GPS und Zeitstempel
-- Pruefung Fassadenmodul-Abnahmeprotokoll: Werkspruefzeugnis Glas Uw-Wert, CE-Zertifikat, Feuerwiderstandsklasse
+- Prüfung Fassadenmodul-Abnahmeprotokoll: Werkspruefzeugnis Glas Uw-Wert, CE-Zertifikat, Feuerwiderstandsklasse
 - BIM360 Coordination: Clash-Bericht Fassade vs. Rohbau, offene Konflikte mit Verantwortlichen und Terminen
 - Windtunnel-Gutachten: Vergleich Ist-Fassade mit Pruefzertifikat nach DIN EN 13830 Abschnitt 8
 

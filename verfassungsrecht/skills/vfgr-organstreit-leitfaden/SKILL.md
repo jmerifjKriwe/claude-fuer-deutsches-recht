@@ -23,17 +23,17 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster Organstreit (Zulaessigkeit)
 
 1. **Zuständigkeit BVerfG** — Art. 93 I Nr. 1 GG, §§ 13 Nr. 5, 63 ff. BVerfGG.
 2. **Parteifaehigkeit / Beteiligtenfaehigkeit** — § 63 BVerfGG: oberste Bundesorgane (Bundestag, Bundesrat, Bundespraesident, Bundesregierung) und andere durch GG oder Geschaeftsordnung mit eigenen Rechten ausgestattete Beteiligte (Fraktionen, einzelne Abgeordnete, Bundestagspraesident, Bundestagsausschuesse).
-3. **Antragsgegenstand** — § 64 I BVerfGG: Massnahme oder Unterlassung des Antragsgegners.
-4. **Antragsbefugnis** — § 64 I BVerfGG: Antragsteller muss eigene Rechte aus dem GG (oder organschaftliche Rechte) durch die beanstandete Massnahme/Unterlassung verletzt sein oder unmittelbar gefaehrdet sein koennen (Moeglichkeitstheorie).
-5. **Form und Frist** — § 64 III BVerfGG: schriftlich, binnen sechs Monaten ab Bekanntwerden der beanstandeten Massnahme. Frist ist nicht verlaengerbar, keine Wiedereinsetzung in vorigen Stand (§ 93 II BVerfGG nur bei Verfassungsbeschwerde).
-6. **Rechtsschutzbeduerfnis** — entfaellt z. B. bei Erledigung; Fortsetzungsfeststellungsantrag moeglich bei Wiederholungsgefahr oder Rehabilitierungsinteresse.
+3. **Antragsgegenstand** — § 64 I BVerfGG: Maßnahme oder Unterlassung des Antragsgegners.
+4. **Antragsbefugnis** — § 64 I BVerfGG: Antragsteller muss eigene Rechte aus dem GG (oder organschaftliche Rechte) durch die beanstandete Maßnahme/Unterlassung verletzt sein oder unmittelbar gefaehrdet sein können (Moeglichkeitstheorie).
+5. **Form und Frist** — § 64 III BVerfGG: schriftlich, binnen sechs Monaten ab Bekanntwerden der beanstandeten Maßnahme. Frist ist nicht verlaengerbar, keine Wiedereinsetzung in vorigen Stand (§ 93 II BVerfGG nur bei Verfassungsbeschwerde).
+6. **Rechtsschutzbeduerfnis** — entfaellt z. B. bei Erledigung; Fortsetzungsfeststellungsantrag möglich bei Wiederholungsgefahr oder Rehabilitierungsinteresse.
 
 ## Typische Konstellationen
 
@@ -44,7 +44,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 
 ## Abgrenzung
 
-- **Bund-Länder-Streit (Art. 93 I Nr. 3 GG, §§ 68 ff. BVerfGG):** Streit ueber Rechte/Pflichten von Bund und Ländern, nicht von Bundesorganen untereinander.
+- **Bund-Länder-Streit (Art. 93 I Nr. 3 GG, §§ 68 ff. BVerfGG):** Streit über Rechte/Pflichten von Bund und Ländern, nicht von Bundesorganen untereinander.
 - **Abstrakte Normenkontrolle (Art. 93 I Nr. 2 GG):** objektive Normpruefung, nicht subjektive Organrechtsverletzung.
 - **Verfassungsbeschwerde (§ 90 BVerfGG):** Grundrechtstraeger gegen öffentliche Gewalt, nicht Organe untereinander.
 

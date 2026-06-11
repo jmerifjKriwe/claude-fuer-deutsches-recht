@@ -15,7 +15,7 @@ description: "Bauueberwachung HOAI LPH 8 für Erdbauarbeiten mit Fokus auf Boden
 
 ## Spezialwissen
 
-Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Baugrubensicherung bis zur Planumsherstellung muessen Bodenkennwerte praezise erhoben und Verdichtungsanforderungen eingehalten werden. Die Bauueberwachung in LPH 8 stellt sicher, dass Boden der richtigen Klasse eingebaut, die Verdichtung nachgewiesen und die Standsicherheit der Baugrube kontinuierlich ueberwacht wird.
+Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Baugrubensicherung bis zur Planumsherstellung müssen Bodenkennwerte praezise erhoben und Verdichtungsanforderungen eingehalten werden. Die Bauueberwachung in LPH 8 stellt sicher, dass Boden der richtigen Klasse eingebaut, die Verdichtung nachgewiesen und die Standsicherheit der Baugrube kontinuierlich ueberwacht wird.
 
 ## Bauwerk und Auftrag
 
@@ -44,7 +44,7 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 ## Prueferaster und Kontrollpunkte
 
 1. Bodenklassen-Abgleich: Soll-Klasse aus Baugrundgutachten, Ist-Klasse Aushubprotokoll, bei Abweichung sofort Baugrundgutachter einschalten
-2. Ev2-Pruefung vollstaendig: Plattenposition GPS, Datum, Pruefgeraet-Kalibrierungsnachweis, Ev2 Mindest-Grenzwert nach Planvorgabe
+2. Ev2-Prüfung vollstaendig: Plattenposition GPS, Datum, Pruefgeraet-Kalibrierungsnachweis, Ev2 Mindest-Grenzwert nach Planvorgabe
 3. Inklinometer-Auswertung: Messung woeachentlich oder nach jedem Meter Aushub, Grenzwert 15 mm horizontale Verformung vor Alarm
 4. Entwasserung Baugrube: Offene oder geschlossene Wasserhaltung, Pumpenprotokoll, Filterbrunnenabsenkung kontrolliert
 5. Bodenaustausch Qualitaet: Recycling-Boden RCM oder ZM-Boden nur mit Guetenachweis und Positivliste LAGA M 20
@@ -75,7 +75,7 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

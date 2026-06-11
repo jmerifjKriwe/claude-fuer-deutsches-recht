@@ -6,5 +6,5 @@
 | Verfahren | Schwellenwert, Verfahrenswahl, Bekanntmachung |  |  |  |  |
 | Unterlagen | Leistungsbeschreibung, Eignung, Zuschlag, Vertragsentwurf |  |  |  |  |
 | Kommunikation | Bieterfragen, Antworten, Aenderungen |  |  |  |  |
-| Wertung | Pruefung, Aufklaerung, Matrix, Entscheidung |  |  |  |  |
+| Wertung | Prüfung, Aufklaerung, Matrix, Entscheidung |  |  |  |  |
 | Abschluss | Paragraph 134 GWB, Zuschlag, Bekanntmachung, Vertrag |  |  |  |  |

@@ -214,7 +214,7 @@ ANLAGEN
 
 ## Triage — Plan-Architektur Check
 
-1. **Darstellender Teil vollstaendig?** Ausgangslage, Krisenursachen, Sanierungskonzept, Massnahmen, Vergleichsrechnung.
+1. **Darstellender Teil vollstaendig?** Ausgangslage, Krisenursachen, Sanierungskonzept, Maßnahmen, Vergleichsrechnung.
 2. **Gestaltender Teil praezise?** Forderungstabelle, Quoten, Stundungen, Sicherheiten klar bezeichnen.
 3. **Gruppen korrekt?** Homogenitaet je Gruppe sichergestellt?
 4. **Anlagen?** Integrierten Finanzplan, Sanierungsgutachten, Beteiligten-Listen als Anlagen.

@@ -19,7 +19,7 @@ description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Pl
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versorgungsauftrag, Bettenkapazitaeten und (mit KHVVG) Leistungsgruppen. Aufnahme, Herausnahme oder Aenderung sind Verwaltungsakte mit grundrechtsrelevanten Folgen — Klage zum VG ist regelmaeßig zulaessig.
+Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versorgungsauftrag, Bettenkapazitaeten und (mit KHVVG) Leistungsgruppen. Aufnahme, Herausnahme oder Aenderung sind Verwaltungsakte mit grundrechtsrelevanten Folgen — Klage zum VG ist regelmaeßig zulässig.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welcher Verfahrensschritt steht an (Aufnahmeantrag, Herausnahme, Strukturaenderung)?
@@ -35,14 +35,14 @@ Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versor
 - **GG Art. 12 Abs. 1, Art. 3 Abs. 1** Berufsausuebung, Gleichbehandlung (BVerfG).
 - **VwGO §§ 42, 80, 113** Anfechtungs-, Verpflichtungs-, einstweiliger Rechtsschutz.
 - **VwVfG §§ 28 (Anhörung), 39 (Begruendung), 48/49 (Aufhebung)**.
-- **EU-Beihilfenrecht** bei oeffentlich gefoerderten Kliniken.
+- **EU-Beihilfenrecht** bei öffentlich gefoerderten Kliniken.
 
 ## / Schritt für Schritt
-1. **Verfahrensstand klaeren:** Anhörung, Bescheid-Entwurf, Bescheid, Widerspruchsverfahren, Klage?
+1. **Verfahrensstand klären:** Anhörung, Bescheid-Entwurf, Bescheid, Widerspruchsverfahren, Klage?
 2. **Bedarfslage darlegen:** Versorgungsbedarf, demographische Entwicklung, Erreichbarkeit, Krankheitsspektrum.
 3. **Eigene Strukturqualitaet beweisen:** Personal, Geraete, Notfallstufe, LG-Profil.
 4. **Beteiligungsrechte ausueben:** Stellungnahme zur Anhörung, ggf. mit Sachverstaendigengutachten.
-5. **Bescheid pruefen:** Ermessen (§ 40 VwVfG), Begruendung, Sachverhaltsfeststellung.
+5. **Bescheid prüfen:** Ermessen (§ 40 VwVfG), Begruendung, Sachverhaltsfeststellung.
 6. **Rechtsbehelf:** Widerspruch (wenn vom Land vorgesehen), Klage zum VG (§ 42 VwGO), einstweiliger Rechtsschutz § 80 Abs. 5 VwGO bei sofortvollziehbarer Herausnahme.
 
 ## Trade-off-Matrix
@@ -58,7 +58,7 @@ Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versor
 - Bedarfsanalyse muss aktuell und differenziert sein (Demografie, ICD-Spektrum, Verbund-Versorgung).
 - Anhörung ist die wichtigste Phase — substanzielle Stellungnahme einreichen.
 - BVerfG (1 BvR 1167/14) hat für Plankrankenhaus-Auswahlentscheidungen Auswahlkriterien definiert (Qualitaet, Wirtschaftlichkeit, Vielfalt der Traegerschaft).
-- Sicherstellungsausnahme nach Landeskrankenhausgesetz pruefen.
+- Sicherstellungsausnahme nach Landeskrankenhausgesetz prüfen.
 - Einstweiliger Rechtsschutz § 80 Abs. 5 VwGO greift, wenn Sofortvollzug angeordnet ist.
 
 ## Mustertexte
@@ -66,7 +66,7 @@ Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versor
 > Sehr geehrte Damen und Herren, in Ihrer Anhörung vom [Datum] beabsichtigen Sie die Herausnahme der Klinik aus dem Krankenhausplan. Wir nehmen wie folgt Stellung: 1. Versorgungsbedarf ist durch [Daten] belegt. 2. Strukturqualitaet erfuellt LG-Anforderungen. 3. Erreichbarkeitsanalyse Land zeigt … Wir beantragen, von der Herausnahme abzusehen.
 
 **Klage Verwaltungsgericht (Antrag):**
-> Klageantrag: Den Bescheid vom [Datum] aufzuheben und das beklagte Land zu verpflichten, die Klaegerin als Plankrankenhaus … fortzufuehren. Begruendung: 1. Sachverhaltsfeststellung fehlerhaft, 2. Ermessensfehler, 3. Verstoss gegen Verhaeltnismaessigkeit …
+> Klageantrag: Den Bescheid vom [Datum] aufzuheben und das beklagte Land zu verpflichten, die Klaegerin als Plankrankenhaus … fortzufuehren. Begruendung: 1. Sachverhaltsfeststellung fehlerhaft, 2. Ermessensfehler, 3. Verstoss gegen Verhältnismäßigkeit …
 
 ## Typische Fehler
 - Anhörungsstellungnahme zu spaet oder unsubstanziell.

@@ -3,7 +3,7 @@ name: sozialleistungen-uebersicht-sgb
 description: "Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger."
 ---
 
-# Sozialleistungen — Uebersicht aller SGB
+# Sozialleistungen — Übersicht aller SGB
 
 ## Fachlicher Anker
 
@@ -21,7 +21,7 @@ Es gibt viele Sozialleistungen. Jede gehoert in ein anderes Buch. Wir geben Ihne
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wissen nicht, welche Leistung Sie ueberhaupt bekommen koennen.
+- Sie wissen nicht, welche Leistung Sie ueberhaupt bekommen können.
 - Sie haben einen Bescheid und kennen das Gesetz nicht.
 - Sie wollen sich vor dem Widerspruch einen Ueberblick verschaffen.
 
@@ -29,7 +29,7 @@ Es gibt viele Sozialleistungen. Jede gehoert in ein anderes Buch. Wir geben Ihne
 
 - **Sozialgesetzbuch (SGB)**: Sammlung der Sozialgesetze.
 - **Sozialleistungstraeger**: Die Behörde, die Leistung zahlt (z.B. Krankenkasse, Rentenversicherung).
-- **Antragsprinzip**: Viele Leistungen muessen Sie beantragen — sie kommen nicht von alleine.
+- **Antragsprinzip**: Viele Leistungen müssen Sie beantragen — sie kommen nicht von alleine.
 
 ## Rechtsgrundlagen
 
@@ -64,7 +64,7 @@ Hinweis: SGB XIII existiert nicht (Nummer ausgelassen).
 - Sie haben kein oder zu wenig Einkommen, sind arbeitsfaehig: **SGB II** (Jobcenter)
 - Sie sind arbeitslos und haben gearbeitet: **SGB III** (Arbeitsagentur)
 - Sie sind krank: **SGB V** (Krankenkasse)
-- Sie koennen nicht mehr arbeiten wegen Krankheit / Alter: **SGB VI** (Rente)
+- Sie können nicht mehr arbeiten wegen Krankheit / Alter: **SGB VI** (Rente)
 - Sie hatten einen Arbeitsunfall: **SGB VII** (BG)
 - Sie sind schwerbehindert / brauchen Reha: **SGB IX**
 - Sie brauchen Pflege: **SGB XI**
@@ -79,9 +79,9 @@ Manchmal greift mehr als ein SGB. Beispiel: Krank (SGB V) UND Schwerbehinderung 
 
 - **Sozialverbaende** beraten kostenlos zu jedem SGB.
 - **Buergerberater** bei den Behörden selbst.
-- **Sozialamt** und **Jugendamt** klaeren Zuständigkeit.
+- **Sozialamt** und **Jugendamt** klären Zuständigkeit.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Antrag stellen!** Viele Leistungen kommen nicht von alleine. Stellen Sie schriftlich Antrag (auch formloser Brief reicht).
 - **§ 16 SGB I**: Antrag bei falscher Stelle gilt trotzdem. Wichtig für Fristen.

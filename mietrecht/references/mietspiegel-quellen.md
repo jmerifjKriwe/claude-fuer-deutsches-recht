@@ -821,7 +821,7 @@ Universitätsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nach
 
 ## Prüfroutine vor jeder Verwendung
 
-1. **Aktualität prüfen.** Pruefe auf der amtlichen Stadt- oder Landesseite, ob seit Mai 2026 ein neuer Mietspiegel oder eine neue Mietenbegrenzungsverordnung erschienen ist.
+1. **Aktualität prüfen.** Prüfe auf der amtlichen Stadt- oder Landesseite, ob seit Mai 2026 ein neuer Mietspiegel oder eine neue Mietenbegrenzungsverordnung erschienen ist.
 2. **Wohnlagen-Zuordnung.** Adresse in das amtliche Straßenverzeichnis / Geoportal der Stadt eingeben — die Wohnlage (einfach / mittel / gut) entscheidet über die Tabellenwerte.
 3. **Ausstattung erfassen.** Bad, Küche, Heizung, Wohnung (Bodenbelag, Fenster, Balkon), Gebäude (Aufzug, Stellplatz) — vgl. Sondermerkmals-Katalog des jeweiligen Mietspiegels.
 4. **Spanne und Mittelwert ablesen.** In allen qualifizierten Mietspiegeln gibt es Spannen-Tabellen plus Orientierungshilfe für die Einordnung innerhalb der Spanne.

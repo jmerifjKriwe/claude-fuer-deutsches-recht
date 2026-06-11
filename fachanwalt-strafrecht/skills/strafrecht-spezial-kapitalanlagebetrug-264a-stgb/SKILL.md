@@ -34,7 +34,7 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 ### Tatbestand § 264a Abs. 1 StGB
 
-- **In Prospekten oder in Darstellungen oder Uebersichten ueber den Vermoegensstand** im Zusammenhang mit dem Vertrieb von Wertpapieren, Bezugsrechten oder von Anteilen, die eine Beteiligung an dem Ergebnis eines Unternehmens gewaehren sollen, oder mit dem Angebot, die Einlage auf solche Anteile zu erhoehen.
+- **In Prospekten oder in Darstellungen oder Uebersichten über den Vermoegensstand** im Zusammenhang mit dem Vertrieb von Wertpapieren, Bezugsrechten oder von Anteilen, die eine Beteiligung an dem Ergebnis eines Unternehmens gewaehren sollen, oder mit dem Angebot, die Einlage auf solche Anteile zu erhoehen.
 - **Unrichtige vorteilhafte Angaben** machen oder **nachteilige Tatsachen verschweigen**.
 
 ### Schluesselbegriffe
@@ -57,10 +57,10 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 - **Prospekt-Begriff angreifen.** War das Vertriebsdokument tatsaechlich Prospekt im Sinne § 264a StGB? Bei reinen Marketingunterlagen ohne Prospekteigenschaft kann Tatbestand entfallen.
 - **Wesentlichkeit der Angabe.** Nicht jede falsche Angabe ist tatbestandsmaessig. War sie für durchschnittlichen Anleger entscheidungserheblich?
-- **Vorsatz.** Bei komplexen Finanzprodukten oft fehlend, wenn Geschaeftsfuehrer auf Wirtschaftspruefer und Rechtsanwaelte vertraut. § 17 StGB Verbotsirrtum pruefen.
+- **Vorsatz.** Bei komplexen Finanzprodukten oft fehlend, wenn Geschaeftsfuehrer auf Wirtschaftspruefer und Rechtsanwaelte vertraut. § 17 StGB Verbotsirrtum prüfen.
 - **Mittelabfluss.** Bei nicht erfolgter Kapitaleinwerbung greift Abs. 3 (taetige Reue).
-- **Zivilrechtliche Prospekthaftung** parallel — Verteidigungsstrategie abstimmen, da Schadenersatz im Strafverfahren als Adhaesion moeglich.
-- **BaFin-Verfahren** koennen mit Strafverfahren kollidieren; Verwertung von Verwaltungsaussagen pruefen (Selbstbelastungsverbot).
+- **Zivilrechtliche Prospekthaftung** parallel — Verteidigungsstrategie abstimmen, da Schadenersatz im Strafverfahren als Adhaesion möglich.
+- **BaFin-Verfahren** können mit Strafverfahren kollidieren; Verwertung von Verwaltungsaussagen prüfen (Selbstbelastungsverbot).
 
 ## Trade-off-Matrix
 
@@ -83,7 +83,7 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 ## Strafzumessung und Folgen
 
 - **Strafrahmen** Freiheitsstrafe bis drei Jahre oder Geldstrafe (Vergehen).
-- **§ 46 StGB** Schadens- und Anlegerzahl, Hoehe eingeworbenes Kapital, Tatdauer, Mehrfachhandlungen.
+- **§ 46 StGB** Schadens- und Anlegerzahl, Höhe eingeworbenes Kapital, Tatdauer, Mehrfachhandlungen.
 - **Einziehung § 73 StGB** Tatertrag (eingeworbene Mittel) — bei Kapitalanlagebetrug oft hoch.
 - **Berufsverbot § 70 StGB** insbes. bei Vermoegensanlagenvertrieb, Geschaeftsfuehrer Emittent.
 - **§ 35 GewO** Gewerbeuntersagung wegen Unzuverlaessigkeit.
@@ -93,11 +93,11 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 ### Antrag § 264a Abs. 3 StGB
 
-"Der Mandant hat freiwillig verhindert, dass auf Grund der monierten Prospektangaben Mittel an die [Emittent] ausgekehrt wurden. Mit Schreiben vom [Datum] wurde der Treuhandvertrag mit der [Treuhaender] gekuendigt; die eingegangenen Anlegerzeichnungen wurden vollumfaenglich rueckabgewickelt. Eine Strafbarkeit gemaess § 264a Abs. 3 Satz 1 StGB ist damit ausgeschlossen."
+"Der Mandant hat freiwillig verhindert, dass auf Grund der monierten Prospektangaben Mittel an die [Emittent] ausgekehrt wurden. Mit Schreiben vom [Datum] wurde der Treuhandvertrag mit der [Treuhaender] gekuendigt; die eingegangenen Anlegerzeichnungen wurden vollumfaenglich rueckabgewickelt. Eine Strafbarkeit gemäß § 264a Abs. 3 Satz 1 StGB ist damit ausgeschlossen."
 
 ### Bestreiten Wesentlichkeit
 
-"Die angefochtene Prospektangabe in Kapitel 3.2 zur prognostizierten Ausschuettungsquote ist als Prognose ausdruecklich gekennzeichnet (Seite 28 des Prospekts, Anlage K-1). Eine durchschnittliche Anlegerin haette dem Prognose-Charakter erkennen koennen; eine Entscheidungserheblichkeit im Sinne des § 264a Abs. 1 StGB ist nicht ersichtlich."
+"Die angefochtene Prospektangabe in Kapitel 3.2 zur prognostizierten Ausschuettungsquote ist als Prognose ausdruecklich gekennzeichnet (Seite 28 des Prospekts, Anlage K-1). Eine durchschnittliche Anlegerin haette dem Prognose-Charakter erkennen können; eine Entscheidungserheblichkeit im Sinne des § 264a Abs. 1 StGB ist nicht ersichtlich."
 
 ## Quellen Stand 06/2026
 

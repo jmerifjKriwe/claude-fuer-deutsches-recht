@@ -15,9 +15,9 @@ Dieser Einstieg routet **Urteilsbauer Relationsmacher** vom ersten Sachverhalt z
 - `aktenintake-zivil` — Aktenintake Zivil
 - `amts-aktenintake-zivil-anspruchsgrundlagen` — Amts Aktenintake Zivil Anspruchsgrundlagen
 - `amts-fristen-form-zustaendigkeit` — Amts Fristen Form Zustaendigkeit
-- `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen Pruefen
+- `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen Prüfen
 - `berufungsfest-beschluss-bauen-beweisbeschluss` — Berufungsfest Beschluss Bauen Beweisbeschluss
-- `berufungsfest-pruefen` — Berufungsfest Pruefen
+- `berufungsfest-pruefen` — Berufungsfest Prüfen
 - `beschluss-bauen-zpo` — Beschluss Bauen ZPO
 - `beschluss-tatbestand-beweis-und-belege` — Beschluss Tatbestand Beweis und Belege
 - `beschluss-tatbestandsmerkmale` — Beschluss Tatbestandsmerkmale

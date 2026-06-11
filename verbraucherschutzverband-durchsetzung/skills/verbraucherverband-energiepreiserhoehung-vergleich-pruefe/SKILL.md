@@ -3,7 +3,7 @@ name: verbraucherverband-energiepreiserhoehung-vergleich-pruefe
 description: "Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Vergleich prüfen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Energiepreiserhoehung Vergleich Pruefe
+# Energiepreiserhoehung Vergleich Prüfe
 
 ## Arbeitsweg
 

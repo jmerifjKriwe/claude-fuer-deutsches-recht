@@ -31,7 +31,7 @@ Tool verarbeitet Personendaten in USA.
 
 ## Arbeitsergebnis
 
-TIA; SCC plus zusaetzliche Massnahmen.
+TIA; SCC plus zusaetzliche Maßnahmen.
 
 ## Belege und Aktenlücken
 

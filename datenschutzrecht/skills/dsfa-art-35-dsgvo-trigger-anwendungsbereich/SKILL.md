@@ -18,8 +18,8 @@ description: "Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich
 - Art. 35 Abs. 1 DSGVO Generalklausel: DSFA verpflichtend wenn eine Form der Verarbeitung, insbesondere bei Verwendung neuer Technologien, aufgrund Art, Umfang, Umstaenden und Zwecken voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natuerlicher Personen zur Folge hat.
 - Art. 35 Abs. 3 DSGVO Regelbeispiele:
  - lit. a systematische und umfassende Bewertung persönlicher Aspekte einschliesslich Profiling und darauf gestuetzter automatisierter Entscheidung mit Rechtswirkung
- - lit. b umfangreiche Verarbeitung besonderer Kategorien nach Art. 9 Abs. 1 oder von Daten ueber strafrechtliche Verurteilungen nach Art. 10
- - lit. c systematische umfangreiche Ueberwachung oeffentlich zugaenglicher Bereiche
+ - lit. b umfangreiche Verarbeitung besonderer Kategorien nach Art. 9 Abs. 1 oder von Daten über strafrechtliche Verurteilungen nach Art. 10
+ - lit. c systematische umfangreiche Ueberwachung öffentlich zugaenglicher Bereiche
 - Art. 35 Abs. 4 DSGVO Pflichtliste der Aufsichtsbehoerde (BfDI bzw. zuständige Landesbehoerde) — sogenannte Blacklist.
 - Art. 35 Abs. 5 DSGVO optionale Whitelist der Aufsichtsbehoerde.
 - Art. 35 Abs. 10 DSGVO Ausnahme bei gesetzlicher Grundlage mit bereits durchgefuehrter allgemeiner DSFA durch den Gesetzgeber.
@@ -27,9 +27,9 @@ description: "Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich
 
 ## Ablauf 6-Schritte-Methodik
 
-1. **Verarbeitungsbeschreibung.** Kurzbeschreibung der Verarbeitung in maximal 10 Saetzen: Zweck, Datenarten, Betroffenenkreise, Technologie, Drittlandbezug, Aufbewahrung. Ohne diese Beschreibung ist die Trigger-Pruefung nicht moeglich.
+1. **Verarbeitungsbeschreibung.** Kurzbeschreibung der Verarbeitung in maximal 10 Saetzen: Zweck, Datenarten, Betroffenenkreise, Technologie, Drittlandbezug, Aufbewahrung. Ohne diese Beschreibung ist die Trigger-Prüfung nicht möglich.
 2. **Verhaeltnismaessigkeitspruefung.** In dieser Stufe nur grobe Plausibilitaet: Liegt ein offensichtliches Missverhaeltnis von Zweck und Eingriff vor? Falls ja, ist die DSFA bereits aus diesem Grund angezeigt.
-3. **Risikoanalyse Trigger-Ebene.** Pruefen der 9 EDSA-Kriterien:
+3. **Risikoanalyse Trigger-Ebene.** Prüfen der 9 EDSA-Kriterien:
  - Bewertung oder Scoring
  - automatisierte Entscheidung mit Rechtswirkung
  - systematische Ueberwachung
@@ -39,7 +39,7 @@ description: "Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich
  - schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte)
  - neue Technologien (KI, Biometrie, IoT)
  - Verhinderung der Ausübung von Betroffenenrechten
-4. **Massnahmen.** Pruefen ob bereits getroffene risikomindernde Massnahmen den Schwellwert unter hohes Risiko druecken (Pseudonymisierung, Anonymisierung, technische Beschraenkung). Ergebnis dokumentieren.
+4. **Maßnahmen.** Prüfen ob bereits getroffene risikomindernde Maßnahmen den Schwellwert unter hohes Risiko druecken (Pseudonymisierung, Anonymisierung, technische Beschraenkung). Ergebnis dokumentieren.
 5. **Restrisiko / Schwellwertergebnis.** Drei moegliche Ergebnisse:
  - DSFA-PFLICHTIG (Art. 35 Abs. 3, Abs. 4 oder mindestens 2 EDSA-Kriterien)
  - DSFA-EMPFOHLEN (1 EDSA-Kriterium, Grenzfall)
@@ -97,7 +97,7 @@ Unterschrift DSB: ____________________
 - Art. 5 Abs. 2 DSGVO (Rechenschaftspflicht)
 - § 67 BDSG (Pflichtliste BfDI)
 - EDSA-Leitlinien WP 248 rev.01 zur DSFA
-- BfDI: bfdi.bund.de — aktuelle Blacklist und Whitelist live pruefen
+- BfDI: bfdi.bund.de — aktuelle Blacklist und Whitelist live prüfen
 - Landesdatenschutzbehoerden (LfDI BW, LDA Bayern u.a.) — eigene Listen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle oder lizenziertem Live-Zugriff

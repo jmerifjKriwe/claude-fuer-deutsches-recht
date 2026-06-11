@@ -106,7 +106,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. Welche Dokumente bilden die Closing Bible (SPA, Anlagen, Disclosure Letter, Closing Certificate, Anmeldungen)?
 2. Elektronisch signiert (qualifizierte elektronische Signatur) oder handschriftlich?
-3. Gibt es notarielle Dokumente (GmbH-Anteilsuebertragung), die im Original vorliegen muessen?
+3. Gibt es notarielle Dokumente (GmbH-Anteilsuebertragung), die im Original vorliegen müssen?
 4. Wer archiviert das Original: Kanzlei, Mandant, Notar, gemeinsam?
 5. Vertraulichkeitsstufe und Zugriffskonzept: need-to-know?
 6. Ist eine Long-Term-Archivierung vertraglich vereinbart (z.B. 10 Jahre)?
@@ -144,7 +144,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Deliverables-Liste finalisieren** — alle CP-Checklisten-Punkte sind Basis der Closing Bible
-2. **Pre-Closing-Review** — einen Tag vor Closing alle vorbereiteten Dokumente pruefen; fehlende Signaturen anmahnen
+2. **Pre-Closing-Review** — einen Tag vor Closing alle vorbereiteten Dokumente prüfen; fehlende Signaturen anmahnen
 3. **Closing-Meeting** — gleichzeitiger Austausch; jedes Dokument gegen Index abgehakt
 4. **Offene Punkte post-Closing** — Handelsregisteranmeldung; HR-auszug; ggf. ausstehende Consents
 5. **Closing Bible zusammenstellen** — digitale und physische Version; Index und Tabs; versioniert

@@ -3,7 +3,7 @@ name: aussenwirtschaft-antidumping-ausgleich
 description: "Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Identifizierung von TARIC-Antidumping-Massnahmen, Berechnung endgueltiger Antidumping-Zoelle, Ueberpruefen von Ursprungsnachweis und Hersteller-TARIC-Code (Einzelzoll vs. Restzoll). Fallkonstellation: Importeur prueft A..."
 ---
 
-# Antidumping-Ausgleich: TARIC-Massnahmen und Herstellerzuordnung
+# Antidumping-Ausgleich: TARIC-Maßnahmen und Herstellerzuordnung
 
 ## Arbeitsweg
 
@@ -15,17 +15,17 @@ description: "Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 
 
 ## Mandantenfall
 
-- Importeur kauft Solarpaneele aus China; TARIC-Abfrage zeigt Antidumping-Massnahmen. Welcher Zollsatz gilt?
+- Importeur kauft Solarpaneele aus China; TARIC-Abfrage zeigt Antidumping-Maßnahmen. Welcher Zollsatz gilt?
 - Stahlhaendler erhaelt Nachzollbescheid, weil Ursprungsnachweise des chinesischen Lieferanten nicht anerkannt.
 - Unternehmen importiert Keramik aus Vietnam; fragt nach Antidumping-Risiko und Nullzoll-Optionen.
 
 ## Erste Schritte
 
-1. TARIC-Datenbank (ec.europa.eu/taxation_customs/dds2/taric) aufrufen: Massnahmen für KN-Code und Ursprungsland pruefen.
+1. TARIC-Datenbank (ec.europa.eu/taxation_customs/dds2/taric) aufrufen: Maßnahmen für KN-Code und Ursprungsland prüfen.
 2. Hersteller-ID und TARIC-Unternehmenscode (TARIC ADD-Code) des Lieferanten ermitteln.
-3. Individualzoll vs. Restzoll klaeren; Ursprungszeugnis und EU-Anerkennungsstatus pruefen.
+3. Individualzoll vs. Restzoll klären; Ursprungszeugnis und EU-Anerkennungsstatus prüfen.
 4. Antidumping-Zoll auf CIF-Wert berechnen; Vergleich mit eventueller Preisverpflichtung (Price Undertaking).
-5. Ueberpruefen ob Befreiungsantrag moeglich (Art. 11 VO 2016/1036: Auslaufrevision).
+5. Ueberpruefen ob Befreiungsantrag möglich (Art. 11 VO 2016/1036: Auslaufrevision).
 6. Zollwertdeklaration und Ursprungsdokumentation für Audit-Compliance sicherstellen.
 
 ## Rechtsrahmen
@@ -38,19 +38,19 @@ description: "Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 
 
 ## Pruef-Raster
 
-- [ ] TARIC-Massnahmen für exakten KN-Code und Ursprungsland aktuell geprueft?
+- [ ] TARIC-Maßnahmen für exakten KN-Code und Ursprungsland aktuell geprueft?
 - [ ] Hersteller-TARIC-Code gueltig und anerkannt?
-- [ ] Ursprungsnachweis zulaessig und nachweisbar?
+- [ ] Ursprungsnachweis zulässig und nachweisbar?
 - [ ] CIF-Wert korrekt für Antidumping-Berechnungsgrundlage?
 - [ ] Preisverpflichtung (Price Undertaking) aktiv und nutzbar?
-- [ ] Rueckerstattungsantrag bei Dumping-Margin-Review moeglich?
+- [ ] Rueckerstattungsantrag bei Dumping-Margin-Review möglich?
 
 ## Typische Fallstricke
 
-- TARIC-Massnahmen aendern sich durch Revisionen und Auslaufverfahren laufend; immer tagesaktuelle Abfrage.
+- TARIC-Maßnahmen ändern sich durch Revisionen und Auslaufverfahren laufend; immer tagesaktuelle Abfrage.
 - Zusammengesetzte Waren: Antidumpingzoll kann an Bestandteil haengen, nicht am Endprodukt.
 - Hersteller-ID des Lieferanten nicht geprueft: Restzoll statt Individualzoll wird faellig.
-- Umgehungsrisiko bei Transhipment ueber Drittlaender.
+- Umgehungsrisiko bei Transhipment über Drittlaender.
 
 ## Schnittstellen zu anderen Skills
 

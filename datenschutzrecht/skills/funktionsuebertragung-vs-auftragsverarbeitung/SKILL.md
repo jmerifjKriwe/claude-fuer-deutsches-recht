@@ -33,9 +33,9 @@ Abgrenzung zwischen Funktionsuebertragung (eigene Verantwortlichkeit des Dritten
  - Erbringt er eine Berufsleistung, die der Mandant nicht selbst erbringen koennte?
  - Beispiele: Steuerberatung, Rechtsdienstleistung, Wirtschaftspruefung, aerztliche Behandlung, Inkasso (RDG).
 
-2. **Eigene Zweck-Mittel-Entscheidung pruefen.**
- - Entscheidet der Dritte ueber Methode und Inhalt seiner Berufsleistung autonom?
- - Steuerberater entscheidet ueber Buchungsmethode, Rechtsanwalt ueber Argumentationsstrategie, Arzt ueber Diagnoseverfahren.
+2. **Eigene Zweck-Mittel-Entscheidung prüfen.**
+ - Entscheidet der Dritte über Methode und Inhalt seiner Berufsleistung autonom?
+ - Steuerberater entscheidet über Buchungsmethode, Rechtsanwalt über Argumentationsstrategie, Arzt über Diagnoseverfahren.
  - Dann: Eigene Verantwortlichkeit, Funktionsuebertragung.
 
 3. **Konstellationen.**
@@ -44,7 +44,7 @@ Abgrenzung zwischen Funktionsuebertragung (eigene Verantwortlichkeit des Dritten
  |---|---|---|
  | Steuerberater erstellt Buchhaltung für Mandant | Funktionsuebertragung | Steuerberatungsvertrag, ggf. C2C-Datenuebermittlungsregelung |
  | Rechtsanwalt vertritt Mandant | Funktionsuebertragung | Mandatsvertrag |
- | Wirtschaftspruefer prueft Jahresabschluss | Funktionsuebertragung | Pruefungsvertrag |
+ | Wirtschaftspruefer prüft Jahresabschluss | Funktionsuebertragung | Pruefungsvertrag |
  | Inkassodienstleister treibt Forderungen ein | Funktionsuebertragung (typisch) | Inkassovertrag |
  | Arzt behandelt Patient | Funktionsuebertragung | Behandlungsvertrag § 630a BGB |
  | Externe IT betreut Kanzlei-IT mit Datenzugang | regelmaessig Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
@@ -52,8 +52,8 @@ Abgrenzung zwischen Funktionsuebertragung (eigene Verantwortlichkeit des Dritten
  | Cloud-Speicher für Mandantenakten | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
 
 4. **§ 203 Abs. 3 StGB beachten (nur bei Auftragsverarbeitung erforderlich).**
- - Mitwirkende Personen muessen zur Verschwiegenheit verpflichtet sein.
- - Berufstraeger muss "im erforderlichen Umfang" offenbaren duerfen.
+ - Mitwirkende Personen müssen zur Verschwiegenheit verpflichtet sein.
+ - Berufstraeger muss "im erforderlichen Umfang" offenbaren dürfen.
  - Schriftliche Verpflichtung der mitwirkenden Personen ratsam.
  - § 11 BORA für Rechtsanwaelte; entsprechende Regeln für Steuerberater und Aerzte.
 
@@ -70,17 +70,17 @@ A) Klausel im Mandatsvertrag bei Funktionsuebertragung (Steuerberater oder Recht
 >
 > (1) Auftraggeber und [Berufstraeger] verarbeiten personenbezogene Daten jeweils als eigene Verantwortliche im Sinne von Art. 4 Nr. 7 DSGVO. Eine Auftragsverarbeitung im Sinne von Art. 28 DSGVO liegt nicht vor.
 >
-> (2) Der Auftraggeber uebermittelt [Berufstraeger] die zur Mandatsbearbeitung erforderlichen personenbezogenen Daten auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO und – soweit besondere Kategorien personenbezogener Daten betroffen sind – Art. 9 Abs. 2 lit. f DSGVO. [Berufstraeger] verarbeitet die Daten ausschliesslich im Rahmen der gesetzlichen Berufspflichten unter Wahrung der Verschwiegenheitspflicht aus [§ 43a Abs. 2 BRAO / § 57 Abs. 1 StBerG / § 43 Abs. 1 WPO].
+> (2) Der Auftraggeber uebermittelt [Berufstraeger] die zur Mandatsbearbeitung erforderlichen personenbezogenen Daten auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO und – soweit besondere Kategorien personenbezogener Daten betroffen sind – Art. 9 Abs. 2 lit. f DSGVO. [Berufstraeger] verarbeitet die Daten ausschließlich im Rahmen der gesetzlichen Berufspflichten unter Wahrung der Verschwiegenheitspflicht aus [§ 43a Abs. 2 BRAO / § 57 Abs. 1 StBerG / § 43 Abs. 1 WPO].
 >
-> (3) Die Informationspflichten gemaess Art. 13 und 14 DSGVO erfuellt jede Partei eigenstaendig gegenueber ihren jeweiligen Betroffenen.
+> (3) Die Informationspflichten gemäß Art. 13 und 14 DSGVO erfuellt jede Partei eigenstaendig gegenueber ihren jeweiligen Betroffenen.
 >
-> (4) Soweit [Berufstraeger] zur Erbringung der Berufsleistung externe Dienstleister einsetzt, die nicht selbst Berufstraeger im Sinne des § 203 Abs. 1 StGB sind, werden diese gemaess § 203 Abs. 3 StGB i.V.m. [§ 11 BORA / entsprechender Berufsregel] zur Verschwiegenheit verpflichtet."
+> (4) Soweit [Berufstraeger] zur Erbringung der Berufsleistung externe Dienstleister einsetzt, die nicht selbst Berufstraeger im Sinne des § 203 Abs. 1 StGB sind, werden diese gemäß § 203 Abs. 3 StGB i.V.m. [§ 11 BORA / entsprechender Berufsregel] zur Verschwiegenheit verpflichtet."
 
 B) Klausel zur Verpflichtung mitwirkender Personen bei Auftragsverarbeitung:
 
 > "§ Z Verschwiegenheitspflicht des Auftragsverarbeiters (§ 203 Abs. 3 StGB)
 >
-> (1) Der Auftragsverarbeiter und alle bei ihm zur Verarbeitung der berufsgeheimnisgeschuetzten Daten befugten Personen sind nach Massgabe des § 203 Abs. 3 Satz 2 StGB zur Verschwiegenheit ueber die zur Kenntnis gelangten Tatsachen verpflichtet. Die Verpflichtung wirkt ueber das Ende des Vertragsverhaeltnisses hinaus fort.
+> (1) Der Auftragsverarbeiter und alle bei ihm zur Verarbeitung der berufsgeheimnisgeschuetzten Daten befugten Personen sind nach Massgabe des § 203 Abs. 3 Satz 2 StGB zur Verschwiegenheit über die zur Kenntnis gelangten Tatsachen verpflichtet. Die Verpflichtung wirkt über das Ende des Vertragsverhaeltnisses hinaus fort.
 >
 > (2) Der Auftragsverarbeiter dokumentiert die Verschwiegenheitsverpflichtung seiner Mitarbeiter schriftlich und legt sie dem Verantwortlichen auf Verlangen vor.
 >

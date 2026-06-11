@@ -52,4 +52,4 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 1. Welche Periode?
 2. Welche Berechtigung?
-3. Heutige Aequivalenz?
+3. Heutige Äquivalenz?

@@ -22,7 +22,7 @@ description: "Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion im 
 
 - **Statusamt**: rechtlich-abstraktes Amt mit konkreter Besoldungsgruppe (z. B. Regierungsrat A 13).
 - **Funktionsamt**: konkrete Verwendung mit Aufgabenfeld (z. B. Referatsleiter im BMI).
-- Beide muessen amtsangemessen sein.
+- Beide müssen amtsangemessen sein.
 
 ## Eingruppierungskriterien
 

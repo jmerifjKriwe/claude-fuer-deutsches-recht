@@ -20,7 +20,7 @@ description: "Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbewe
 
 ## Konstellation
 
-Arbeitgeber laesst die Kuendigung durch einen **Boten** uebergeben (interner Mitarbeiter, externer Zustellservice, Notar). Bote dokumentiert Einwurf oder Uebergabe.
+Arbeitgeber lässt die Kuendigung durch einen **Boten** uebergeben (interner Mitarbeiter, externer Zustellservice, Notar). Bote dokumentiert Einwurf oder Uebergabe.
 
 ## Was muss der Bote tun?
 
@@ -52,4 +52,4 @@ Arbeitgeber laesst die Kuendigung durch einen **Boten** uebergeben (interner Mit
 1. Wer ist Bote?
 2. Hat er den Inhalt gesehen?
 3. Datum/Uhrzeit dokumentiert?
-4. Zeugenaussage moeglich?
+4. Zeugenaussage möglich?

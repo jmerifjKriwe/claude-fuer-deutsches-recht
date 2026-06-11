@@ -16,7 +16,7 @@ Dieser Einstieg routet **Kanzlei Allgemein** vom ersten Sachverhalt zu Rollen, F
 - `aktenbestand-pflege-bea-versand` — Aktenbestand Pflege BEA Versand
 - `aktenzeichen` — Aktenzeichen
 - `bea-journal` — BEA Journal
-- `bea-versand-pruefen` — BEA Versand Pruefen
+- `bea-versand-pruefen` — BEA Versand Prüfen
 - `buchhaltung-konten-kanzlei-erechnung` — Buchhaltung Konten Kanzlei Erechnung
 - `erechnung` — Erechnung
 - `freundlicher-copilot-kanzlei` — Freundlicher Copilot Kanzlei

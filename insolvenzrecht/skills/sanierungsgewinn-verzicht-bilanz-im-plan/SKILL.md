@@ -23,7 +23,7 @@ description: "Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und
 
 ## Worum geht es
 
-Der Forderungsverzicht ist die typische Sanierungsmassnahme im Insolvenzplan und im StaRUG-Plan. Bilanziell loest er einen **Ertrag** aus — den **Sanierungsertrag** —, dessen steuerliche Behandlung ueber Paragraph 3a EStG laeuft. Aber bilanziell, also handelsrechtlich und in der Steuerbilanz, ist die Erfassung nicht in jedem Fall trivial: Werthaltigkeit der Forderung, Verzicht mit oder ohne Besserungsabrede, Gesellschafterverzicht versus Drittglaeubigerverzicht — jede Variante hat eigene Buchungsfolgen.
+Der Forderungsverzicht ist die typische Sanierungsmassnahme im Insolvenzplan und im StaRUG-Plan. Bilanziell loest er einen **Ertrag** aus — den **Sanierungsertrag** —, dessen steuerliche Behandlung über Paragraph 3a EStG laeuft. Aber bilanziell, also handelsrechtlich und in der Steuerbilanz, ist die Erfassung nicht in jedem Fall trivial: Werthaltigkeit der Forderung, Verzicht mit oder ohne Besserungsabrede, Gesellschafterverzicht versus Drittglaeubigerverzicht — jede Variante hat eigene Buchungsfolgen.
 
 Ordnet die Konstellationen und liefert konkrete Buchungs-Saetze.
 
@@ -36,7 +36,7 @@ Ordnet die Konstellationen und liefert konkrete Buchungs-Saetze.
 Kaltstart-Fragen:
 
 1. Wer verzichtet (Drittglaeubiger, Gesellschafter, Mischung)?
-2. In welcher Hoehe wurde die Forderung in der Bilanz des Schuldners passiviert?
+2. In welcher Höhe wurde die Forderung in der Bilanz des Schuldners passiviert?
 3. Ist der Verzicht endgueltig oder mit Besserungsabrede?
 4. Sind die verzichteten Forderungen werthaltig (Bonitaet des Schuldners ohne Sanierung)?
 5. Welcher Rechnungslegungsstandard greift (HGB, IFRS)?
@@ -49,17 +49,17 @@ Kaltstart-Fragen:
 - Paragraph 397 BGB — Erlass.
 - Paragraph 158 BGB — Bedingung (Besserungsschein).
 - Paragraph 5 Absatz 1 EStG — Massgeblichkeit der Handelsbilanz.
-- Paragraph 5 Absatz 2a EStG — Rangruecktritt und auflosbare Verbindlichkeit.
+- Paragraph 5 Absatz 2a EStG — Rangrücktritt und auflosbare Verbindlichkeit.
 - Paragraph 3a EStG — steuerliche Begnadigung des Sanierungsertrags.
-- BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich ueber die Liquidation hinaus bestehen; blosse Vermoegenslosigkeit begruendet keine Ausbuchung der Verbindlichkeit — Abgrenzung zum Verzicht.
+- BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich über die Liquidation hinaus bestehen; blosse Vermoegenslosigkeit begruendet keine Ausbuchung der Verbindlichkeit — Abgrenzung zum Verzicht.
 
 ## / Schritt für Schritt
 
 1. **Forderung und Bilanzposition zuordnen.** Welche Verbindlichkeit der Schuldnerin steht der verzichteten Forderung gegenueber?
-2. **Verzichtsart klaeren.** Endgueltig oder unter Besserungsabrede? Drittglaeubiger oder Gesellschafter?
-3. **Werthaltigkeit der Forderung pruefen** (Bonitaet ohne Sanierung): vollwerthaltig, teilwerthaltig, nicht werthaltig.
+2. **Verzichtsart klären.** Endgueltig oder unter Besserungsabrede? Drittglaeubiger oder Gesellschafter?
+3. **Werthaltigkeit der Forderung prüfen** (Bonitaet ohne Sanierung): vollwerthaltig, teilwerthaltig, nicht werthaltig.
 4. **Bilanzielle Buchung waehlen** (siehe Tabelle).
-5. **Steuerliche Behandlung pruefen.** Sanierungsertrag versus Einlage versus auflosbare Verbindlichkeit.
+5. **Steuerliche Behandlung prüfen.** Sanierungsertrag versus Einlage versus auflosbare Verbindlichkeit.
 6. **Schnittstelle zu Paragraph 3a Absatz 3 EStG** (Modellrechnung).
 
 ## Buchungslogik
@@ -123,7 +123,7 @@ Die verbleibenden 20 % bleiben passiviert und werden plangemaess bedient.
 | Verzicht mit Besserungsschein | sofortiger Ertrag mit potenzieller Rueckbuchung | Sanierungsertrag im Verzichtsjahr; Rueckbuchung im Besserungsjahr Aufwand |
 | Gesellschafter-Verzicht werthaltig | Erhoehung Kapitalruecklage | verdeckte Einlage, kein Sanierungsertrag |
 | Gesellschafter-Verzicht nicht werthaltig | gemischt | werthaltiger Teil Einlage, Rest Sanierungsertrag |
-| Rangruecktritt qualifiziert (Paragraph 5 Absatz 2a EStG) | Verbindlichkeit bleibt | erst bei spaeterer Aufloesung Ertrag |
+| Rangrücktritt qualifiziert (Paragraph 5 Absatz 2a EStG) | Verbindlichkeit bleibt | erst bei spaeterer Aufloesung Ertrag |
 | Schuldumwandlung (DES) | Verbindlichkeit wird Eigenkapital | siehe Skill DES |
 
 ## Praxistipps der alten Hasen
@@ -131,8 +131,8 @@ Die verbleibenden 20 % bleiben passiviert und werden plangemaess bedient.
 1. **Werthaltigkeitspruefung dokumentieren.** Beim Gesellschafterverzicht entscheidet die Werthaltigkeit der Forderung am Tag des Verzichts. Spaetere Sicht ist irrelevant.
 2. **Besserungsabrede genau formulieren.** Eine missverstaendliche Klausel kann den gesamten Sanierungsertrag steuerlich nach hinten verschieben — oder umgekehrt vorziehen.
 3. **HGB- und Steuerbilanz auseinander halten.** Massgeblichkeit nach Paragraph 5 Absatz 1 EStG, aber Sonderregeln greifen.
-4. **Konzern-Verzichte sind heikel.** Verdeckte Einlage Mutter zugunsten Tochter laeuft anders als ueber Schwesterunternehmen.
-5. **Achtung Ausbuchung mangels Schuldner.** Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermoegenslosigkeit hinaus bestehen — keine erleichterte Ausbuchung; Verzicht ist eigene Kategorie.
+4. **Konzern-Verzichte sind heikel.** Verdeckte Einlage Mutter zugunsten Tochter laeuft anders als über Schwesterunternehmen.
+5. **Achtung Ausbuchung mangels Schuldner.** Verbindlichkeiten bleiben nach BFH II R 19/01 über blosse Vermoegenslosigkeit hinaus bestehen — keine erleichterte Ausbuchung; Verzicht ist eigene Kategorie.
 
 ## Mustertexte / Berechnungsbeispiele
 
@@ -169,7 +169,7 @@ EUR [...], Sanierungsertrag in Hoehe EUR [...].
 
 1. Werthaltigkeitspruefung beim Gesellschafterverzicht uebergangen — Ertrag faelschlich als Sanierungsertrag verbucht.
 2. Besserungsschein-Klausel als unmittelbaren Verzicht behandelt.
-3. Konzern-Verzicht ueber Schwester ohne Beruecksichtigung der Dreiecksbeziehung verbucht.
+3. Konzern-Verzicht über Schwester ohne Beruecksichtigung der Dreiecksbeziehung verbucht.
 4. HGB- und Steuerbilanz nicht abgestimmt.
 5. Ausbuchung mangels Schuldner mit Verzicht verwechselt (BFH II R 19/01 nicht beachtet).
 6. Bei nur teilweisem Verzicht (Plan-Quote) Buchung als Vollverzicht.
@@ -190,13 +190,13 @@ EUR [...], Sanierungsertrag in Hoehe EUR [...].
 
 - **BFH, Urt. v. 26.02.2003 — II R 19/01** — Verbindlichkeiten gehen nicht allein durch Vermoegenslosigkeit unter.
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung.
-- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Paragraph 5 Absatz 2a EStG bei Rangruecktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen.
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Paragraph 5 Absatz 2a EStG bei Rangrücktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen.
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Rangruecktrittsbehaftete Verbindlichkeit bleibt bis Loeschung passiviert; rechtstheoretisch entstehender Gewinn nach Loeschung mangels Steuersubjekt nicht steuerpflichtig (vorgehend zu BFH I R 34/12).
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — bestaetigt FG-Koeln-Linie als „nicht evident rechtsfehlerhaft".
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** — ertragsteuerliche Beurteilung von Darlehensverbindlichkeiten im Abwicklungsendvermoegen; Aktualitaet vor Anwendung pruefen.
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** — ertragsteuerliche Beurteilung von Darlehensverbindlichkeiten im Abwicklungsendvermoegen; Aktualitaet vor Anwendung prüfen.
 - **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** — Vorgaengerverfuegung.
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580** — Sichtweise NRW.
 

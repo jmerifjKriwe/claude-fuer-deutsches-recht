@@ -20,13 +20,13 @@ description: "Verstaendigung im Strafverfahren § 257c StPO und Strafzumessung: 
 
 ## Worum geht es?
 
-Die Verstaendigung erlaubt eine **prozessuale Einigung** ueber den Verfahrensausgang. Gegenstand kann u.a. die **Strafe** sein (in einem **Strafrahmen**, **nicht** ein punktgenaues Strafmass). Voraussetzung sind die Belehrungen nach § 257c Abs. 4 und 5 StPO. Das BVerfG hat in der Leitentscheidung 2 BvR 2628/10 vom 19.03.2013 die Verfassungskonformitaet bestaetigt — bei strikter Beachtung der Schutzregeln.
+Die Verstaendigung erlaubt eine **prozessuale Einigung** über den Verfahrensausgang. Gegenstand kann u.a. die **Strafe** sein (in einem **Strafrahmen**, **nicht** ein punktgenaues Strafmass). Voraussetzung sind die Belehrungen nach § 257c Abs. 4 und 5 StPO. Das BVerfG hat in der Leitentscheidung 2 BvR 2628/10 vom 19.03.2013 die Verfassungskonformitaet bestaetigt — bei strikter Beachtung der Schutzregeln.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie sondieren mit Staatsanwaltschaft und Gericht einen Strafrahmen.
 - Sie bereiten den Mandanten auf die Verstaendigungsfolgen vor (Gestaendnis, Rechtsmittelverzicht-Verbot).
-- Sie pruefen ein Urteil, das auf einer Verstaendigung beruht, auf Belehrungsmangel.
+- Sie prüfen ein Urteil, das auf einer Verstaendigung beruht, auf Belehrungsmangel.
 
 ## Rechtliche Grundlagen
 
@@ -34,8 +34,8 @@ Die Verstaendigung erlaubt eine **prozessuale Einigung** ueber den Verfahrensaus
 - **§ 257c Abs. 2 StPO** — **Gegenstand**: Rechtsfolgen, Verfahrensgestaltung, Nebenfolgen, **kein** Schuldspruch, **kein** Verfahrenseinstellung-Versprechen.
 - **§ 257c Abs. 3 StPO** — Gericht kann **Ober- und Untergrenze** der Strafe nennen; punktgenaue Strafe ist nicht Gegenstand.
 - **§ 257c Abs. 4 StPO** — **Wegfall der Bindung** des Gerichts, wenn sich neue Tatsachen oder Umstaende ergeben; Hinweispflicht.
-- **§ 257c Abs. 5 StPO** — Belehrung des Angeklagten ueber Bedingungen und Folgen der Verstaendigung; ueber moeglichen Wegfall der Bindung.
-- **§ 35a Satz 3 StPO** — Belehrung ueber Rechtsmittel; Rechtsmittelverzicht **ausgeschlossen** bei Verstaendigung.
+- **§ 257c Abs. 5 StPO** — Belehrung des Angeklagten über Bedingungen und Folgen der Verstaendigung; über moeglichen Wegfall der Bindung.
+- **§ 35a Satz 3 StPO** — Belehrung über Rechtsmittel; Rechtsmittelverzicht **ausgeschlossen** bei Verstaendigung.
 - **§ 273 Abs. 1a StPO** — Protokoll der Verstaendigung; Belehrungen Protokoll.
 
 ## Aktuelle und tragende Rechtsprechung
@@ -59,11 +59,11 @@ Die Verstaendigung erlaubt eine **prozessuale Einigung** ueber den Verfahrensaus
 | Rechtsfolgen (Bewaehrung, Auflagen) | Schuldspruch (kein Freispruch- oder Verurteilungs-Versprechen) |
 | Verfahrensgestaltung | Verfahrenseinstellung verbindlich versprechen |
 | Adhaesionsvergleich-Hinweise | Schuldspruchverzicht |
-| TOA-Plaene | Faktisch verkapptes "Mass-Geschaeft" |
+| TOA-Plaene | Faktisch verkapptes "Mass-Geschäft" |
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
-1. **Verstaendigungs-Eignung pruefen**:
+1. **Verstaendigungs-Eignung prüfen**:
  - Klare Schuldfrage oder zumindest klares Schuldgewicht?
  - Gestaendnis für Mandant tragbar?
  - Risiken einer Hauptverhandlung ohne Verstaendigung?
@@ -75,10 +75,10 @@ Die Verstaendigung erlaubt eine **prozessuale Einigung** ueber den Verfahrensaus
  - Bei neuen Tatsachen kann das Gericht von der Verstaendigung abruecken (§ 257c Abs. 4 StPO).
  - Rechtsmittelverzicht ist **ausgeschlossen** (§ 35a Satz 3 StPO).
 5. **In der Hauptverhandlung**:
- - Verstaendigung wird **oeffentlich** verkuendet und protokolliert (§ 273 Abs. 1a StPO).
+ - Verstaendigung wird **öffentlich** verkuendet und protokolliert (§ 273 Abs. 1a StPO).
  - **Belehrungen** vollstaendig in das Protokoll.
  - Gestaendnis ablegen; in der Hauptverhandlung verlesen oder erklaert.
-6. **Nach Urteil**: Rechtsmittel pruefen; Verzicht nicht moeglich.
+6. **Nach Urteil**: Rechtsmittel prüfen; Verzicht nicht möglich.
 
 ## Schritt-für-Schritt-Anleitung (Staatsanwaltschaft)
 

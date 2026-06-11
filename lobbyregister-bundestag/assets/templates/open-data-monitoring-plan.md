@@ -26,10 +26,10 @@
 
 | Ausloeser | Bewertung | Sofortaktion | Frist |
 |---|---|---|---|
-| eigener Eintrag inaktiv | Rot | Portalstatus pruefen | sofort |
+| eigener Eintrag inaktiv | Rot | Portalstatus prüfen | sofort |
 | `updateMissing` wahr | Rot | Aktualisierungsakte oeffnen | sofort |
-| neue Version ohne interne Freigabeakte | Rot | Revisionsspur pruefen | sofort |
-| neue Stellungnahme fehlt im Register | Orange | Quartalsupload pruefen | naechster Arbeitstag |
+| neue Version ohne interne Freigabeakte | Rot | Revisionsspur prüfen | sofort |
+| neue Stellungnahme fehlt im Register | Orange | Quartalsupload prüfen | naechster Arbeitstag |
 | Auftraggeber/Unterauftrag weicht ab | Orange | Vertragsregister abgleichen | naechster Arbeitstag |
 | Zweigniederlassung als zweiter Treffer | Orange/Rot | Doppelregistrierungsvermerk | naechster Arbeitstag |
 | Kodexverstoss markiert | Rot | Compliance und Geschaeftsleitung informieren | sofort |

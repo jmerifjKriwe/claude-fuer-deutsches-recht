@@ -7,12 +7,12 @@ description: "Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortfü
 
 ## Worum geht es?
 
-Wenn Sie auf eine Klage antworten (= Klageerwiderung) oder selbst auf eine Klageerwiderung antworten (= Replik), muessen Sie wieder Anlagen einreichen. Aber **wie nummeriert man die richtig**, ohne dass es Verwirrung gibt? Diese Skill zeigt Ihnen die Praxis-Konvention.
+Wenn Sie auf eine Klage antworten (= Klageerwiderung) oder selbst auf eine Klageerwiderung antworten (= Replik), müssen Sie wieder Anlagen einreichen. Aber **wie nummeriert man die richtig**, ohne dass es Verwirrung gibt? Diese Skill zeigt Ihnen die Praxis-Konvention.
 
 ## In aller Kuerze
 
-- **Klaeger** nutzt **K1, K2, K3, ...** durchgehend ueber alle Schriftsaetze hinweg.
-- **Beklagter** nutzt **B1, B2, B3, ...** durchgehend ueber alle Schriftsaetze hinweg.
+- **Kläger** nutzt **K1, K2, K3, ...** durchgehend über alle Schriftsaetze hinweg.
+- **Beklagter** nutzt **B1, B2, B3, ...** durchgehend über alle Schriftsaetze hinweg.
 - Wenn Sie in der Klage bei K8 aufgehoert haben, geht die Replik mit K9 weiter.
 - Wenn der Beklagte in der Klageerwiderung bei B3 aufgehoert hat, geht die Duplik mit B4 weiter.
 - **Nie wieder bei 1 anfangen.** Sonst kollidieren die Nummern.
@@ -28,7 +28,7 @@ Wenn Sie auf eine Klage antworten (= Klageerwiderung) oder selbst auf eine Klage
 - **Klageerwiderung**: Der erste Schriftsatz des Beklagten, mit dem er auf die Klage antwortet.
 - **Replik**: Die Antwort des Klaegers auf die Klageerwiderung.
 - **Duplik**: Die Antwort des Beklagten auf die Replik.
-- **K-Anlagen**: Anlagen des Klaegers (K = Klaeger).
+- **K-Anlagen**: Anlagen des Klaegers (K = Kläger).
 - **B-Anlagen**: Anlagen des Beklagten (B = Beklagter).
 
 ## Schritt-für-Schritt — als Beklagter
@@ -39,19 +39,19 @@ Lesen Sie die Klageschrift. Notieren Sie: Welche K-Anlagen liegen bei? K1, K2, K
 
 ### Schritt 2 — Eigene B-Anlagen festlegen
 
-Wenn Sie eigene Beweisstuecke haben, fangen Sie mit **B1** an. Die K-Nummern des Klaegers werden NICHT verwendet. Klaeger und Beklagter haben getrennte Nummerierungs-Stroenge.
+Wenn Sie eigene Beweisstuecke haben, fangen Sie mit **B1** an. Die K-Nummern des Klaegers werden NICHT verwendet. Kläger und Beklagter haben getrennte Nummerierungs-Stroenge.
 
 ### Schritt 3 — Im Text verweisen
 
 In der Klageerwiderung schreiben Sie:
 
-> "Der Klaeger behauptet, der Vertrag sei am 12.03.2025 geschlossen worden. **Das wird bestritten.** Tatsaechlich gab es nur ein Vor-Gespraech. Der Vertrags-Entwurf wurde dem Beklagten erst am 25.03.2025 zugeleitet (**Anlage B1** — E-Mail mit Vertrags-Entwurf)."
+> "Der Kläger behauptet, der Vertrag sei am 12.03.2025 geschlossen worden. **Das wird bestritten.** Tatsaechlich gab es nur ein Vor-Gespraech. Der Vertrags-Entwurf wurde dem Beklagten erst am 25.03.2025 zugeleitet (**Anlage B1** — E-Mail mit Vertrags-Entwurf)."
 
 Und auf K-Anlagen des Klaegers verweisen Sie auch:
 
-> "Die vom Klaeger vorgelegte Rechnung (**Anlage K2 der Klageschrift**) hat der Beklagte nicht erhalten."
+> "Die vom Kläger vorgelegte Rechnung (**Anlage K2 der Klageschrift**) hat der Beklagte nicht erhalten."
 
-So ist klar: B1 = Beklagter-Anlage, K2 = Klaeger-Anlage.
+So ist klar: B1 = Beklagter-Anlage, K2 = Kläger-Anlage.
 
 ### Schritt 4 — Anlagenverzeichnis B fuehren
 
@@ -65,13 +65,13 @@ Anlage B2 — Foto der gelieferten Ware mit Mangel (2 Seiten)
 Anlage B3 — Gutachten Sachverstaendiger ABC vom 15.05.2025 (8 Seiten)
 ```
 
-## Schritt-für-Schritt — als Klaeger in der Replik
+## Schritt-für-Schritt — als Kläger in der Replik
 
 ### Schritt 1 — Letzte K-Nummer der Klage merken
 
 Wenn Sie in der Klage K1 bis K8 verwendet haben, geht es in der Replik mit **K9** weiter.
 
-### Schritt 2 — Klageerwiderung lesen und B-Anlagen pruefen
+### Schritt 2 — Klageerwiderung lesen und B-Anlagen prüfen
 
 Schauen Sie sich an, welche B-Anlagen der Beklagte vorgelegt hat. Notieren Sie: B1, B2, B3.
 
@@ -113,10 +113,10 @@ Anlage B4 — Gegenargument-Schriftstueck (...)
 Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
 ```
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Keine Kollision** — niemals zweimal "Anlage K3" oder "Anlage B2".
-- **Konsequenz**: Wenn Klaeger K9, dann nicht "Anlage K1 zur Replik" schreiben.
+- **Konsequenz**: Wenn Kläger K9, dann nicht "Anlage K1 zur Replik" schreiben.
 - **Querverweis** auf gegnerische Anlagen: "Anlage B1 der Klageerwiderung" — so ist klar, welche gemeint ist.
 - **Anlagenverzeichnis aktualisieren** — für jede neue Anlage ein Eintrag.
 
@@ -129,4 +129,4 @@ Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 für Klaeger und KE1, KE2 für Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.
+Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 für Kläger und KE1, KE2 für Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.

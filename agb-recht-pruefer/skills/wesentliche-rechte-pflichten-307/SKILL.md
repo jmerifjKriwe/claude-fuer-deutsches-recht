@@ -26,9 +26,9 @@ description: "Norm- und Dogmatik-Skill für Wesentliche Rechte Pflichten 307: pr
  - Beim Dienstvertrag/SaaS: Bereitstellung der vertraglich vereinbarten Dienstleistung in vereinbarter Qualitaet.
  - Beim Mietvertrag: Ueberlassung in tauglichem Zustand (§ 535 BGB).
  - **Hauptanwendung:** Haftungsklauseln. Eine Klausel, die die Haftung für Verletzung der Kardinalpflicht selbst bei leichter Fahrlaessigkeit ausschliesst oder so weit beschraenkt, dass der Vertragspartner seine Hauptleistungs-Erwartung verliert, ist unwirksam.
- - **Zulaessig:** Begrenzung der Haftung bei leichter Fahrlaessigkeit der Kardinalpflichten auf den vertragstypisch vorhersehbaren Schaden (BGH, ständige Rechtsprechung). Voraussetzung: Begrenzung muss in vernuenftiger Relation zum Vertragswert stehen.
+ - **Zulässig:** Begrenzung der Haftung bei leichter Fahrlaessigkeit der Kardinalpflichten auf den vertragstypisch vorhersehbaren Schaden (BGH, ständige Rechtsprechung). Voraussetzung: Begrenzung muss in vernuenftiger Relation zum Vertragswert stehen.
  - **B2B-Anwendbarkeit:** Volle Geltung; § 307 Abs. 2 Nr. 2 BGB ist auch im unternehmerischen Verkehr unmittelbar anwendbar.
- - **Differenzierung notwendig:** "Wesentliche Vertragspflichten" (oft auch als Synonym verwendet) sollten in der Klausel ausdruecklich definiert werden, um Transparenzanforderungen § 307 Abs. 1 S. 2 BGB zu genuegen.
+ - **Differenzierung notwendig:** "Wesentliche Vertragspflichten" (oft auch als Synonym verwendet) sollten in der Klausel ausdruecklich definiert werden, um Transparenzanforderungen § 307 Abs. 1 S. 2 BGB zu genügen.
  - **Praxis-Tipp:** Im Haftungsklauseltext "wesentliche Vertragspflichten" oder "Kardinalpflichten" ausdruecklich nennen und definieren; sonst Risiko der Unbestimmtheit.
 6. **Rechtsfolge:** Unwirksamkeit; gesetzliche Haftung nach §§ 280, 249 BGB greift voll.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.

@@ -24,7 +24,7 @@ description: "Exportkontrolle bei Lizenzvertraegen: VO (EU) 2021/821 (Dual-Use);
 | **Sicherheitstechnologie** auf Dual-Use-Anhang I VO 2021/821 | genehmigungspflichtig |
 | **Sanctioned Country** (Russland, Belarus, Iran, Nordkorea) | Verbot oder umfangreiche Genehmigungspflicht |
 | **Sanktionierte Person** (EU-Listen, OFAC) | Verbot |
-| **Cloud-Lizenz** mit Zugriff auf Server in sanctioned country | Pruefen |
+| **Cloud-Lizenz** mit Zugriff auf Server in sanctioned country | Prüfen |
 
 ## Dual-Use-Anhang I (Stichworte)
 
@@ -33,10 +33,10 @@ description: "Exportkontrolle bei Lizenzvertraegen: VO (EU) 2021/821 (Dual-Use);
 - **Kategorie 3:** Elektronik
 - **Kategorie 4:** Computer + Software
 - **Kategorie 5 Teil 1:** Telekommunikation
-- **Kategorie 5 Teil 2:** Informationssicherheit (Kryptografie!) - haeufigster Trigger fuer Lizenz
+- **Kategorie 5 Teil 2:** Informationssicherheit (Kryptografie!) - haeufigster Trigger für Lizenz
 - **Kategorie 9:** Luft- und Raumfahrt
 
-→ Software/Quellcode mit Krypto-Funktionen, KI-Modelle mit dual-use-Anwendung, Datenanalyse-Tools fuer Ueberwachung: regelmaessig erfasst.
+→ Software/Quellcode mit Krypto-Funktionen, KI-Modelle mit dual-use-Anwendung, Datenanalyse-Tools für Ueberwachung: regelmaessig erfasst.
 
 ## Klausel-Bausteine
 
@@ -46,15 +46,15 @@ description: "Exportkontrolle bei Lizenzvertraegen: VO (EU) 2021/821 (Dual-Use);
 > (2) Der Lizenznehmer wird den Lizenzgegenstand und etwaige darin enthaltene Technologie nicht in Sanctioned Countries oder an Sanctioned Persons exportieren, weitergeben, lizenzieren oder bereitstellen."
 
 **B. Genehmigungsvorbehalt:**
-> "(3) Falls fuer den Lizenzgegenstand eine Ausfuhrgenehmigung erforderlich ist, wird der Lizenzgeber den Lizenznehmer hierueber informieren. Die Lizenz tritt erst mit Erteilung der erforderlichen Genehmigungen in Kraft. Vorab koennen Vorbereitungshandlungen erfolgen."
+> "(3) Falls für den Lizenzgegenstand eine Ausfuhrgenehmigung erforderlich ist, wird der Lizenzgeber den Lizenznehmer hierueber informieren. Die Lizenz tritt erst mit Erteilung der erforderlichen Genehmigungen in Kraft. Vorab können Vorbereitungshandlungen erfolgen."
 
 **C. Sanctioned Persons:**
 > "(4) Die Parteien sichern zu, dass weder sie selbst noch ihre Konzernunternehmen, Anteilseigner oder Mitarbeiter auf Sanktionslisten der EU, der USA oder der Vereinten Nationen gefuehrt werden. Bei Aufnahme auf eine Sanktionsliste ist die jeweils andere Partei zur sofortigen Vertragsbeendigung berechtigt."
 
 **D. Cloud-/Cross-Border-Klausel:**
-> "(5) Der Lizenznehmer wird den Lizenzgegenstand nicht ueber Server in Sanctioned Countries betreiben, hosten oder verarbeiten."
+> "(5) Der Lizenznehmer wird den Lizenzgegenstand nicht über Server in Sanctioned Countries betreiben, hosten oder verarbeiten."
 
-## Praktische Pruefung
+## Praktische Prüfung
 
 ```
 1. Pruefe Anhang I Dual-Use-VO: ist Lizenzgegenstand erfasst?

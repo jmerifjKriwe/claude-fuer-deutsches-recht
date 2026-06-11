@@ -31,7 +31,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **EU-RL:** RL 2012/13/EU (Belehrungsrecht), RL 2013/48/EU (Anwaltszugang), RL 2016/343/EU (Unschuldsvermutung).
  - **StGB / StPO:** Bundesrecht.
  - **Nebenstrafrecht:** BtMG, KCanG, AO, GwG, WaffG, StVG, AufenthG, MStrG.
- - **Geschaeftsverteilungsplaene** der Gerichte (oeffentlich).
+ - **Geschaeftsverteilungsplaene** der Gerichte (öffentlich).
 - **Fristennotiz-Struktur:**
  ```
  AZ: ...
@@ -48,8 +48,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Naechster-Schritt-Matrix nach Verfahrensstand:**
  - **Nach Anklageerhebung:** Akteneinsicht § 147 StPO; Einwaende § 201 StPO; Hilfsbeweisantraege.
  - **Nach Eroeffnungsbeschluss:** Hauptverhandlungsvorbereitung; Verstaendigungssondierung; Beweisantraege.
- - **Nach Urteil:** Rechtsmittel pruefen (Berufung 1 Woche § 314 StPO, Revision 1 Woche / 1 Monat §§ 341, 345 StPO).
- - **Nach U-Haft-Eroeffnung:** Haftprüfung § 117 StPO, mündliche Verhandlung §§ 118, 118a StPO, Haftbeschwerde § 304 StPO, Aussetzung § 116 StPO, OLG-Pruefung 6 Monate § 121 StPO.
+ - **Nach Urteil:** Rechtsmittel prüfen (Berufung 1 Woche § 314 StPO, Revision 1 Woche / 1 Monat §§ 341, 345 StPO).
+ - **Nach U-Haft-Eroeffnung:** Haftprüfung § 117 StPO, mündliche Verhandlung §§ 118, 118a StPO, Haftbeschwerde § 304 StPO, Aussetzung § 116 StPO, OLG-Prüfung 6 Monate § 121 StPO.
  - **Nach Strafvollstreckung:** Strafaussetzung § 57 StGB; Bewaehrungswiderruf § 56f.
 - **Live-Quellen:**
  - gesetze-im-internet.de (BMJV) - Gesetzestexte.

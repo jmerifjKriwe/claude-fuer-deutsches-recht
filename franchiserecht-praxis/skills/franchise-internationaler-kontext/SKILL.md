@@ -43,8 +43,8 @@ description: "Franchise im internationalen Kontext. Skill behandelt internationa
 
 ## Pruefraster
 
-1. Anwendbares Recht klaeren.
-2. Sprachen klaeren.
+1. Anwendbares Recht klären.
+2. Sprachen klären.
 3. Disclosure-Anforderungen?
 4. Schiedsabrede?
 5. Vollstreckbarkeit?

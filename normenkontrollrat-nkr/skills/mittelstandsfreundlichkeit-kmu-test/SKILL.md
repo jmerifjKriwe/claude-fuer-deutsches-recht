@@ -7,7 +7,7 @@ description: "KMU-Test (Small and Medium Enterprises Test) als Standardelement d
 
 ## Worum geht es konkret
 
-Kleine und mittlere Unternehmen (KMU) tragen erfahrungsgemaess **ueberproportional** an Regulierungslasten. Der KMU-Test ist deshalb Pflichtelement jeder NKR-Pruefung bei wirtschaftsbezogenen Vorhaben.
+Kleine und mittlere Unternehmen (KMU) tragen erfahrungsgemaess **ueberproportional** an Regulierungslasten. Der KMU-Test ist deshalb Pflichtelement jeder NKR-Prüfung bei wirtschaftsbezogenen Vorhaben.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -58,7 +58,7 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 - Geringere Frequenz?
 - Geringere Sanktion?
 
-### 4. Verhaeltnismaessigkeit
+### 4. Verhältnismäßigkeit
 
 - Steht der Aufwand für KMU in einem angemessenen Verhaeltnis zum erwarteten Nutzen ihrer Befolgung?
 
@@ -83,14 +83,14 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 | Schwellenwert | klare Abgrenzung | Stufeneffekte / Anreizverzerrung |
 | Vereinfachtes Verfahren | Entlastung bei Zielereichung | Mehraufwand für Behörde |
 | Verlaengerte Frist | Investitionsschutz | spaetere Wirkung |
-| Geringere Sanktion | Verhaeltnismaessigkeit | Wirksamkeitsverlust |
+| Geringere Sanktion | Verhältnismäßigkeit | Wirksamkeitsverlust |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der NKR weist darauf hin, dass das Vorhaben rund [N] KMU adressiert, die zusammen ueber [X] Prozent des Erfuellungsaufwands tragen. Eine KMU-spezifische Aufwandsdarstellung ist im Vorhaben nicht erfolgt."
+- "Der NKR weist darauf hin, dass das Vorhaben rund [N] KMU adressiert, die zusammen über [X] Prozent des Erfuellungsaufwands tragen. Eine KMU-spezifische Aufwandsdarstellung ist im Vorhaben nicht erfolgt."
 - "Der NKR empfiehlt, einen Schwellenwert zur Entlastung von Kleinst- und Kleinunternehmen vorzusehen."
-- "Der NKR begruesst die ressortseitige Pruefung einer KMU-Ausnahme bis [Schwellenwert]; die Begruendung der Differenzierung ist nachvollziehbar."
-- "Aus Sicht des NKR ist eine Differenzierung nach Unternehmensgroesse hier nicht moeglich, da [Sachgrund]. Der NKR teilt diese Einschaetzung."
+- "Der NKR begruesst die ressortseitige Prüfung einer KMU-Ausnahme bis [Schwellenwert]; die Begruendung der Differenzierung ist nachvollziehbar."
+- "Aus Sicht des NKR ist eine Differenzierung nach Unternehmensgroesse hier nicht möglich, da [Sachgrund]. Der NKR teilt diese Einschaetzung."
 
 ### KMU-spezifische Tabelle (Pflichtbestandteil)
 
@@ -107,7 +107,7 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 - Keine groessensspezifische Aufwandsschaetzung
 - Differenzierungsmoeglichkeiten ueberhaupt nicht geprueft
 - Behauptung "vereinfachtes Verfahren" ohne Konkretisierung
-- Begruendung "Wettbewerbsgleichheit" ohne weitere Pruefung
+- Begruendung "Wettbewerbsgleichheit" ohne weitere Prüfung
 
 ## Quellen Stand 06/2026
 
@@ -117,4 +117,4 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR), KMU-Test-Kapitel
 - EU Better Regulation Toolbox Tool 23 SME-Test
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

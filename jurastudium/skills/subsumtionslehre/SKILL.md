@@ -17,7 +17,7 @@ description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur —
 1. Welches Tatbestandsmerkmal wird gerade subsumiert und liegt eine Definition vor?
 2. Gibt es einen Sachverhaltsbezug für die Subsumtion oder wird abstrakt geuebt?
 3. Liegt ein Subsumtionssprung vor (Ergebnis wird vorweggenommen ohne Pruefungsweg)?
-4. Ist das Tatbestandsmerkmal streitig (mehrere Definitionen moeglich)?
+4. Ist das Tatbestandsmerkmal streitig (mehrere Definitionen möglich)?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

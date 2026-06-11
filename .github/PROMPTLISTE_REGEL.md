@@ -1,10 +1,10 @@
-# Regel fuer Skill-Autoren und KI-Assistenten
+# Regel für Skill-Autoren und KI-Assistenten
 
 Diese Regel richtet sich an alle, die in diesem Repository **neue Skills** anlegen oder bestehende Skills veredeln — insbesondere an die hier eingesetzten KI-Assistenten **Claude Code, Codex und Perplexity Computer**.
 
 ## Pruefroutine bei jedem neuen oder veredelten Skill
 
-Pruefe nach Fertigstellung eines Skills, ob er sich als **eigenstaendiger Mega-Prompt** ausserhalb von Claude Code, Codex oder Perplexity Computer einsetzen laesst. Indizien dafuer:
+Prüfe nach Fertigstellung eines Skills, ob er sich als **eigenstaendiger Mega-Prompt** ausserhalb von Claude Code, Codex oder Perplexity Computer einsetzen lässt. Indizien dafuer:
 
 - Der Skill enthaelt einen **substanziellen, inhaltlich tragenden Prompt-Korpus** — also nicht nur Router-Logik, Kaltstart-Anweisungen oder Verweise auf andere Skills.
 - Der Skill ist **fachlich spezifisch** (z. B. konkrete Klauselpruefung, konkrete Pruefroutine, konkretes Verfahrensschema), nicht generisch.
@@ -44,10 +44,10 @@ Kurzbeschreibung (200 bis 250 Zeichen), die das fachliche Profil und den Praxisn
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/plugin-name/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 ```
 
-## Beispiel-Workflow fuer dich als KI-Assistent
+## Beispiel-Workflow für dich als KI-Assistent
 
 1. Du erstellst ein neues Plugin `xyz-recht`.
-2. Pruefe: faellt es unter die Praxis-Kriterien oben?
+2. Prüfe: faellt es unter die Praxis-Kriterien oben?
 3. Wenn ja: oeffne `PROMPTLISTE.md` und ergaenze einen Eintrag in der passenden Kategorie (alphabetisch innerhalb der Kategorie).
 4. Aktualisiere die Plugin-Zahl in der Inhaltsverzeichnis-Zeile dieser Kategorie um 1.
 5. Committe `PROMPTLISTE.md` zusammen mit dem Plugin-Commit oder in einem direkten Folgecommit `chore(promptliste): xyz-recht eingetragen`.

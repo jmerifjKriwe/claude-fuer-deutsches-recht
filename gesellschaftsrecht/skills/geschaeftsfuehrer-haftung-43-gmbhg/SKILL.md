@@ -136,8 +136,8 @@ Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DAT
 - AO § 69: https://www.gesetze-im-internet.de/ao_1977/__69.html
 - StGB §§ 14, 263, 266, 266a, 283 ff.: https://www.gesetze-im-internet.de/stgb/__14.html ; https://www.gesetze-im-internet.de/stgb/__266.html ; https://www.gesetze-im-internet.de/stgb/__266a.html
 - BGH, Urt. v. 21.04.1997 — II ZR 175/95 (ARAG/Garmenbeck; BGHZ 135, 244): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.04.1997&Aktenzeichen=II+ZR+175/95
-- Hinweis zur Anwendung: § 15a InsO i.d.F. SanInsFoG (BGBl. I 2020, 3256) — Antragspflicht aufgrund Pandemiefolgen wurde zeitweilig modifiziert (COVInsAG 2020/21), zwischenzeitlich ausgelaufen. Bei Altsachverhalten Stichtag pruefen.
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Hinweis zur Anwendung: § 15a InsO i.d.F. SanInsFoG (BGBl. I 2020, 3256) — Antragspflicht aufgrund Pandemiefolgen wurde zeitweilig modifiziert (COVInsAG 2020/21), zwischenzeitlich ausgelaufen. Bei Altsachverhalten Stichtag prüfen.
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Uebergabe an andere Skills

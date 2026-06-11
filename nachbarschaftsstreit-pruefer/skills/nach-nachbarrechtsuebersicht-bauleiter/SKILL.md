@@ -3,7 +3,7 @@ name: nach-nachbarrechtsuebersicht-bauleiter
 description: "Bauleiter Uebersicht Nachbarrecht: BGB §§ 903 ff., Landesnachbarrechtsgesetze, BImSchG. Pruefraster Immissionen, Grenzbebauung, Einfriedung. Mustertext Aufforderungsschreiben im Nachbarschaftsstreit Pruefer."
 ---
 
-# Nach: Nachbarrecht-Uebersicht
+# Nach: Nachbarrecht-Übersicht
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Bauleiter Uebersicht Nachbarrecht: BGB §§ 903 ff., Landesnachbar
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schlichtungsantrag, Klage AG, Lichtbilder, Lärm-/Geruchsprotokoll, Sachverständigengutachten, Anwaltsschreiben, Vermessungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Nach: Nachbarrecht-Uebersicht
+## Spezialwissen: Nach: Nachbarrecht-Übersicht
 - **Normen-/Quellenanker:** BGB, BImSchG.
 
 ## Fallweichen
@@ -22,7 +22,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
@@ -31,7 +31,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext

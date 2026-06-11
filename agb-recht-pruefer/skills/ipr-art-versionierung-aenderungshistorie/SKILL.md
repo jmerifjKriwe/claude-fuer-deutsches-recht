@@ -7,7 +7,7 @@ description: "AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die 
 
 ## Arbeitsbereich
 
-AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswahl und Schiedsabrede. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Prüfung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswahl und Schiedsabrede. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche
 
 ## Fachkern: Agb Und Ipr Art 6 Rom I Verbraucher
 
-- **Klauselproblem (Agb Und Ipr Art 6 Rom I Verbraucher):** AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswahl und Schiedsabrede.
+- **Klauselproblem (Agb Und Ipr Art 6 Rom I Verbraucher):** AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Prüfung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswahl und Schiedsabrede.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.

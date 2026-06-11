@@ -45,7 +45,7 @@ In Word/LibreOffice:
 - Markieren Sie den ganzen Text (Strg+A).
 - Stellen Sie die Schriftart ein: Times New Roman oder Arial.
 - Stellen Sie die Schriftgroesse ein: 12 Punkt.
-- Stellen Sie den Zeilenabstand ein: 1,5 (im Format-Menue oder ueber das Absatz-Dialogfeld).
+- Stellen Sie den Zeilenabstand ein: 1,5 (im Format-Menue oder über das Absatz-Dialogfeld).
 
 ### Schritt 2 — Anlagen als separate Dateien erstellen
 
@@ -102,7 +102,7 @@ Das ist nicht zwingend, aber praktisch für alle.
 
 ### Schritt 6 — Dateinamen nach Konvention
 
-Wenn Sie die Anlagen ueber Mein Justizpostfach einreichen, geben Sie den Dateien klare Namen:
+Wenn Sie die Anlagen über Mein Justizpostfach einreichen, geben Sie den Dateien klare Namen:
 
 ```
 01_Klageschrift.pdf
@@ -135,24 +135,24 @@ So sollte eine fertige Anlage K1 aussehen:
 +----------------------------------------------+
 ```
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Schwarzer Text auf weissem Hintergrund** — kein farbiges Papier, kein Wasserzeichen "ENTWURF" oder "MUSTER".
 - **Lesbarkeit**: 12pt ist Standard. Kleiner ist schlecht, groesser unueblich.
 - **Datenschutz**: Schwaerzen Sie persönliche Daten Dritter (z.B. Kontonummern fremder Personen), wenn sie nichts mit dem Fall zu tun haben.
-- **Dateigroesse**: Mein Justizpostfach hat eine Obergrenze pro Einreichung (typisch 60 MB). Komprimieren Sie grosse PDFs.
+- **Dateigroesse**: Mein Justizpostfach hat eine Obergrenze pro Einreichung (typisch 60 MB). Komprimieren Sie große PDFs.
 
 ## Typische Fehler
 
 - **Fehler:** Anlage K1 ist nur ein verschwommener Handy-Foto-Scan. → **So vermeiden:** Richtig scannen (Scanner-App auf Smartphone oder Multifunktionsdrucker).
 - **Fehler:** "Anlage K1" oben links statt oben rechts. → **So vermeiden:** Konvention einhalten — rechts oben.
-- **Fehler:** Anlagen ueber 60 MB schicken — beA/MJP weigert sich. → **So vermeiden:** PDF komprimieren (kostenlose Tools).
+- **Fehler:** Anlagen über 60 MB schicken — beA/MJP weigert sich. → **So vermeiden:** PDF komprimieren (kostenlose Tools).
 - **Fehler:** Anlage als Word-Dokument (.docx) statt PDF einreichen. → **So vermeiden:** Immer PDF — als unveraenderbares Format.
 - **Fehler:** Anlage K1 enthaelt mehrere Beweise zusammen. → **So vermeiden:** Eine Anlage = ein Beweisstueck. Pro Vertrag, Rechnung, E-Mail eine eigene Anlage.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Klaeger), B1, B2 (Beklagter) ist Praxis-Konvention der Zivilgerichte, nicht gesetzlich vorgeschrieben.
+Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Kläger), B1, B2 (Beklagter) ist Praxis-Konvention der Zivilgerichte, nicht gesetzlich vorgeschrieben.
 
 ## Normen und Rechtsprechung
 

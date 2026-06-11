@@ -43,7 +43,7 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe — keine Einwaende, Bemer
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
-- Empfehlung "im weiteren Verfahren zu pruefen" — zu vage
+- Empfehlung "im weiteren Verfahren zu prüfen" — zu vage
 - Empfehlung ohne Rechtsfolge
 - Eskalationsstufe nicht passend zum Befund (uebertrieben oder zu weich)
 - Ergebnis ohne klare Schlussformel
@@ -53,7 +53,7 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe — keine Einwaende, Bemer
 | Befund | Eskalationsstufe | Folge |
 |---|---|---|
 | Methodik vollstaendig, plausibel | 1 (keine Einwaende) | unproblematisch |
-| Methodik vollstaendig, Verbesserung moeglich | 2-3 (Bemerkungen / Empfehlungen) | konstruktiv |
+| Methodik vollstaendig, Verbesserung möglich | 2-3 (Bemerkungen / Empfehlungen) | konstruktiv |
 | Methodik teilweise mangelhaft | 4 (Einwaende) | Nachforderung |
 | Methodik wesentlich mangelhaft | 5 (Bedenken) | Aufforderung Nachbesserung |
 | Politisch heikel | 6 (Mahnung) | öffentliche Resonanz |
@@ -64,7 +64,7 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe — keine Einwaende, Bemer
 
 > "Der NKR empfiehlt insbesondere
 > 1. die Lebensbescheid-Pflicht von monatlich auf jaehrlich umzustellen, da der monatliche Turnus den Erfuellungsaufwand für die Wirtschaft mehrfach ohne entsprechenden Mehrnutzen erhoeht;
-> 2. eine zentrale Loesung ueber das Handelsregistergericht zu pruefen, die das Once-Only-Prinzip erfuellt;
+> 2. eine zentrale Loesung über das Handelsregistergericht zu prüfen, die das Once-Only-Prinzip erfuellt;
 > 3. einen Schwellenwert zur Entlastung von Kleinst- und Kleinunternehmen aufzunehmen;
 > 4. eine Evaluierungsklausel mit Frist 3 Jahre vorzusehen, die insbesondere die tatsaechlichen Fallzahlen und Erfuellungsaufwand-Werte ueberprueft."
 
@@ -104,4 +104,4 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe — keine Einwaende, Bemer
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 6
 - §§ 45, 62 GGO
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Mustertexte und Praxisbeispiele
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

@@ -3,7 +3,7 @@ name: projektfinanzierung-oeffentlich
 description: "Öffentliches Wirtschaftsrecht: Projektfinanzierung öffentlich. Projektfinanzierung öffentlich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
 ---
 
-# Projektfinanzierung Oeffentlich
+# Projektfinanzierung Öffentlich
 
 ## Arbeitsweg
 

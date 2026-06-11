@@ -26,7 +26,7 @@ description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement)
 
 - **§ 433 ff. BGB** — Kaufvertrag; Mietvertrag-, Aufhebungs-, Abtretungsregeln
 - **§ 453 BGB** — Rechtskauf, Anteilskauf
-- **§ 444 BGB** — Arglistiges Verschweigen; keine vertragliche Haftungsfreizeichnung moeglich
+- **§ 444 BGB** — Arglistiges Verschweigen; keine vertragliche Haftungsfreizeichnung möglich
 - **§ 15 GmbHG** — Abtretung von GmbH-Anteilen; Notarpflicht
 - **§ 929 ff. BGB** — Eigentumsuebergang Asset Deal
 - **§ 613a BGB** — Betriebsuebergang; Arbeitnehmeruebergang Asset Deal
@@ -60,7 +60,7 @@ description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement)
 |---|---|---|
 | Corporate | Gruendung, Anteilsstruktur, Satzung, Vollmachten | Disclosure Letter |
 | Financial | Jahresabschluss ordnungsgemaess, kein Material Adverse Change | Wesentlichkeitsschwelle |
-| Business | Vertraege, IP, Kunden, Lizenzen, Behördenerlaubnisse | Knowledge qualifier |
+| Business | Verträge, IP, Kunden, Lizenzen, Behördenerlaubnisse | Knowledge qualifier |
 | Employment | Arbeitsvertraege, BR, Pensionen, Change-of-Control | Kollektivarbeitsrecht |
 | Tax | Steuern vollstaendig bezahlt, keine offenen Betriebspruefungen | Tax Disclosure |
 | Legal | Keine wesentlichen Rechtsstreitigkeiten | Pending/Threatened |
@@ -175,7 +175,7 @@ Anlagen: Disclosure Letter, Locked-Box-Bilanz, CP-Liste, W&I-Term Sheet
 
 ## Rote Schwellen
 
-- Kaufpreismechanik nicht abgestimmt → Streit ueber Earn-Out oder Working Capital obligatorisch
+- Kaufpreismechanik nicht abgestimmt → Streit über Earn-Out oder Working Capital obligatorisch
 - DD-Finding ohne vertragliche Reaktion → Indemnity-Luecke; kein Seller-Schutz und kein Kaeufer-Schutz
 - MAC-Klausel fehlt → keine Ruecktrittsoption bei wesentlicher Verschlechterung vor Closing
 - Notarpflicht (§ 15 GmbHG) uebersehen → formnichtige Anteilsuebertragung
@@ -208,5 +208,5 @@ Best Practice: (a) Accounting-Methodology einfrieren; (b) Nicht-Beeintrachtigung
 - AWG §§ 4-6, AWV §§ 55 ff. (Investitionspruefung): https://www.gesetze-im-internet.de/awv_2013/
 - EU FSR (VO 2022/2560; M&A-Notifizierungspflicht ab 12.10.2023): https://eur-lex.europa.eu/eli/reg/2022/2560
 - MoPeG (in Kraft 01.01.2024) — Asset/Share Deal bei Personengesellschaften, neue eGbR-Eintragung: https://www.gesetze-im-internet.de/bgb/__705.html
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

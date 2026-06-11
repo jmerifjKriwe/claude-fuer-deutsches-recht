@@ -22,7 +22,7 @@ description: "KCanG Anbauvereinigung (Cannabis Social Club): §§ 11 ff: KCanG. 
 
 §§ 11 ff. KCanG regeln den gemeinschaftlichen Eigenanbau in einer Anbauvereinigung (auch "Cannabis Social Club"). Anbauvereinigungen sind eingetragene Vereine oder eingetragene Genossenschaften mit dem ausschliesslichen Zweck, für Mitglieder Cannabis zum Eigenkonsum gemeinschaftlich anzubauen und an die Mitglieder abzugeben.
 
-Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt oder weitergibt, fuellt regelmaessig §§ 34 ff. KCanG aus. Verteidiger muessen die Erlaubnisstruktur und ihre Grenzen kennen.
+Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt oder weitergibt, fuellt regelmaessig §§ 34 ff. KCanG aus. Verteidiger müssen die Erlaubnisstruktur und ihre Grenzen kennen.
 
 ## Tatbestand und Stoffliche Erfassung
 
@@ -32,12 +32,12 @@ Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt ode
 - Eingetragener Verein oder Genossenschaft.
 - Mindestens drei Mitglieder; hoechstens 500 Mitglieder.
 - Mitglieder volljaehrig, Wohnsitz in Deutschland seit mindestens sechs Monaten.
-- Vereinszweck ausschliesslich gemeinschaftlicher Anbau und Abgabe.
+- Vereinszweck ausschließlich gemeinschaftlicher Anbau und Abgabe.
 - Persoenliche und fachliche Eignung der Vorstandsmitglieder; kein Bezug zu Drogenhandel.
 
 **Abgabemengen § 19 KCanG:**
 - Monatlich hoechstens 50 g getrocknetes Cannabis pro Mitglied.
-- Fuer Mitglieder zwischen 18 und 21 Jahren hoechstens 30 g und THC-Anteil hoechstens 10 Prozent.
+- Für Mitglieder zwischen 18 und 21 Jahren hoechstens 30 g und THC-Anteil hoechstens 10 Prozent.
 - Tageshoechstmenge 25 g.
 - Jaehrliche Hoechstmenge: 600 g pro Mitglied (Aufstellung verifizieren).
 
@@ -58,12 +58,12 @@ Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt ode
 
 ## Praktikertipps der Verteidigung
 
-- **Erlaubnis pruefen:** Liegt eine gueltige Erlaubnis der Landesbehoerde vor? Erlaubnisbescheid genau pruefen — Auflagen, Mengenkontingent, Standort.
-- **Mengenkontingent als Strafbarkeitsschwelle:** Abgabe ueber Kontingent kann Strafbarkeit nach § 34 KCanG ausloesen. Buchfuehrung der Anbauvereinigung pruefen (§ 19 Abs. 5 KCanG).
+- **Erlaubnis prüfen:** Liegt eine gueltige Erlaubnis der Landesbehoerde vor? Erlaubnisbescheid genau prüfen — Auflagen, Mengenkontingent, Standort.
+- **Mengenkontingent als Strafbarkeitsschwelle:** Abgabe über Kontingent kann Strafbarkeit nach § 34 KCanG ausloesen. Buchfuehrung der Anbauvereinigung prüfen (§ 19 Abs. 5 KCanG).
 - **Mitgliederkontrolle:** Mitgliedschaft seit mindestens sechs Monaten? Wohnsitz Deutschland? Volljaehrigkeit? Verstoss bei Abgabe an Nichtmitglieder = § 34 KCanG.
-- **Vereinsstrafrecht:** Bei Verstoss gegen Erlaubnis koennen sowohl der Vorstand (§ 14 StGB Vertreterhaftung) als auch der individuelle Taeter strafbar sein.
-- **Erlaubnisrueknahme:** Behoerdliche Massnahme; bei drohendem Strafverfahren parallel verwaltungsgerichtlich pruefen (Anfechtungsklage gegen Erlaubnisentzug).
-- **Beratung Vereinsgruendung:** Strafrecht-Beratung für Gruender oft notwendig — Schwester-Skill `vereinsrecht-vereinsmanager` ergaenzend.
+- **Vereinsstrafrecht:** Bei Verstoss gegen Erlaubnis können sowohl der Vorstand (§ 14 StGB Vertreterhaftung) als auch der individuelle Taeter strafbar sein.
+- **Erlaubnisrueknahme:** Behoerdliche Maßnahme; bei drohendem Strafverfahren parallel verwaltungsgerichtlich prüfen (Anfechtungsklage gegen Erlaubnisentzug).
+- **Beratung Vereinsgruendung:** Strafrecht-Beratung für Gründer oft notwendig — Schwester-Skill `vereinsrecht-vereinsmanager` ergaenzend.
 
 ## Trade-off-Matrix
 
@@ -77,7 +77,7 @@ Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt ode
 ## Konkurrenzen
 
 - KCanG-Vereinigung zu BtMG: bei BtMG-Stoffen kein Wechsel zur Anbauvereinigung; Anbauvereinigung nur für Cannabis.
-- Anbauvereinigung zu privatem Anbau: kumulativ moeglich.
+- Anbauvereinigung zu privatem Anbau: kumulativ möglich.
 - Erlaubnisverstoss zu § 34 KCanG (Strafbarkeit): bei wesentlichem Verstoss Strafbarkeit; bei marginalen Verstoessen Ordnungswidrigkeit § 36 KCanG.
 - Vereinsrecht (BGB §§ 21 ff.) zu KCanG: kumulativ; KCanG enthaelt Spezialanforderungen, BGB-Vereinsrecht Grundregeln.
 
@@ -90,7 +90,7 @@ Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt ode
 
 ## Mustertexte
 
-**Schriftsatz Erlaubnis-Pruefung:**
+**Schriftsatz Erlaubnis-Prüfung:**
 "In dem Strafverfahren gegen die Anbauvereinigung [Name] e.V., HRA [Nummer], wird unter Vorlage des Erlaubnisbescheids der Behörde [Name] vom [Datum], Az. [X], beantragt, von einer Strafverfolgung abzusehen. Die Anbauvereinigung haelt sich an die in der Erlaubnis festgesetzten Auflagen (Mitgliederzahl: [X], Mengenkontingent: [Y] g/Monat pro Mitglied, Standort: [Z]). Die im Verfahren beanstandeten Abgaben liegen innerhalb des erlaubten Rahmens (Anlage: Mengenuebersicht und Mitgliederbuchhaltung)."
 
 ## Quellen Stand 06/2026

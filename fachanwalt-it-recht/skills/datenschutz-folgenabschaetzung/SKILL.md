@@ -14,7 +14,7 @@ description: "Datenschutz-Folgenabschaetzung DSFA nach Art: 35 DSGVO bei vorauss
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Prüfraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Massnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung.
+**Fokus:** Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Prüfraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Maßnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung.
 
 ### Datenschutz-Folgenabschätzung
 
@@ -95,9 +95,9 @@ Mit freundlichen Gruessen
 
 ## Faktische Updates (Stand 05/2026)
 
-- **FRIA (Art. 27 KI-VO) — ab 02.08.2026:** Bei Hochrisiko-KI-Systemen muessen bestimmte Betreiber (öffentliche Stellen, oeffentlich-finanzierte Dienste, Kreditscoring, Krankenversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung durchfuehren. Integriert mit DSFA moeglich, rechtlich aber eigenstaendig.
-- **EDSA-Stellungnahme 28/2024 zu KI-Modellen:** Bei KI-Modellen, die mit personenbezogenen Daten trainiert wurden, sind Anonymitaet, Pseudonymisierung, Modellausgaben mit Personenbezug und Rechenschaftspflicht (Art. 5 Abs. 2 DSGVO) zu pruefen. Quelle: edpb.europa.eu.
-- **Aktualisierte BfDI/LfDI-Blacklists Art. 35 Abs. 4 DSGVO:** vor jeder DSFA aktuelle Listen live pruefen.
+- **FRIA (Art. 27 KI-VO) — ab 02.08.2026:** Bei Hochrisiko-KI-Systemen müssen bestimmte Betreiber (öffentliche Stellen, öffentlich-finanzierte Dienste, Kreditscoring, Krankenversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung durchfuehren. Integriert mit DSFA möglich, rechtlich aber eigenstaendig.
+- **EDSA-Stellungnahme 28/2024 zu KI-Modellen:** Bei KI-Modellen, die mit personenbezogenen Daten trainiert wurden, sind Anonymitaet, Pseudonymisierung, Modellausgaben mit Personenbezug und Rechenschaftspflicht (Art. 5 Abs. 2 DSGVO) zu prüfen. Quelle: edpb.europa.eu.
+- **Aktualisierte BfDI/LfDI-Blacklists Art. 35 Abs. 4 DSGVO:** vor jeder DSFA aktuelle Listen live prüfen.
 - **NIS-2 / DORA Schnittstelle:** Bei Hochrisiko-Verarbeitungen mit IT-Sicherheits-Bezug parallele Cyber-Risikobewertung dokumentieren.
 
 ## Triage zu Beginn

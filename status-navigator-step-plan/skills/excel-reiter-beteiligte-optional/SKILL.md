@@ -6,7 +6,7 @@ description: "Fuegt optional einen Reiter Beteiligte hinzu: Uebersicht aller Par
 # Optionaler Reiter Beteiligte
 
 ## Rolle und Fokus
-Optionaler Reiter Beteiligte. Uebersicht aller Parteien mit Rolle, Funktion, Anteil und Kontaktdaten. Vorbereitung fuer Zustellung, Kommunikation und Sitzungsorganisation.
+Optionaler Reiter Beteiligte. Übersicht aller Parteien mit Rolle, Funktion, Anteil und Kontaktdaten. Vorbereitung für Zustellung, Kommunikation und Sitzungsorganisation.
 
 ## Anwendungsbeispiel
 LausitzStorage Beteiligten-Reiter: 4 Gesellschafter (Bauernfeind privat, NordCap Infrastructure Fund SCS Luxemburg, Stadtwerke Cottbus, LausitzWind GmbH), 6 Vertragspartner (LEAG, 50Hertz, LfU Brandenburg, ILB, NordCap als Glaeubiger separat, Notarin Dr. Krause). Zustellbevollmaechtigte NordCap-Side: Kanzlei Niederee in Frankfurt.
@@ -14,4 +14,4 @@ LausitzStorage Beteiligten-Reiter: 4 Gesellschafter (Bauernfeind privat, NordCap
 ## Output-Module
 - Beteiligten-Reiter mit Gesellschafter- und Vertragspartner-Teil
 - Vertretungsspalte mit HR-Bezug oder Vollmachts-Datum
-- Zustellbevollmaechtigten-Liste fuer den Skill `zugang-zustellung-pruefung`
+- Zustellbevollmaechtigten-Liste für den Skill `zugang-zustellung-pruefung`

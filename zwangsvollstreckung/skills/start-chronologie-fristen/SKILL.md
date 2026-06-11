@@ -131,9 +131,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin begleitet die Zwangsvollstreckung aus der Perspektive beider Seiten: Glaeubiger, die einen vorhandenen Titel vollstrecken wollen, und Schuldner, die sich gegen Vollstreckungsmassnahmen wehren. Es deckt das gesamte Spektrum der §§ 704 ff. ZPO ab: vom Mahnbescheid und Vollstreckungsbescheid ueber Pfaendungs- und Uebertragungsbeschluesse (PfUeB) bei Bankkonten und Arbeitseinkommen bis zur Raeumungsvollstreckung und zum ZVG-Antrag bei Immobilien.
+Das Plugin begleitet die Zwangsvollstreckung aus der Perspektive beider Seiten: Glaeubiger, die einen vorhandenen Titel vollstrecken wollen, und Schuldner, die sich gegen Vollstreckungsmassnahmen wehren. Es deckt das gesamte Spektrum der §§ 704 ff. ZPO ab: vom Mahnbescheid und Vollstreckungsbescheid über Pfaendungs- und Uebertragungsbeschluesse (PfUeB) bei Bankkonten und Arbeitseinkommen bis zur Raeumungsvollstreckung und zum ZVG-Antrag bei Immobilien.
 
-Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schuldnerschutz nach § 765a ZPO sowie § 802l-Kontensuche. Zielgruppe sind Anwaelte, Inkassobetriebe und Rechtspfleger.
+Einbezogen sind auch EU-grenzueberschreitende Maßnahmen (EuKtPVO) und der Schuldnerschutz nach § 765a ZPO sowie § 802l-Kontensuche. Zielgruppe sind Anwaelte, Inkassobetriebe und Rechtspfleger.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -150,7 +150,7 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - **PfUeB** — Pfaendungs- und Uebertragungsbeschluss; richterlicher Beschluss, der Forderung des Schuldners gegenueber Drittschuldner pfaendet.
 - **P-Konto** — Pfaendungsschutzkonto; schuetzt Existenzminimum des Schuldners bei Kontopfaendung (§ 850k ZPO).
 - **Pfaendungsfreigrenze (§ 850c ZPO)** — Betrag des Arbeitseinkommens, der pfaendungsfrei bleibt; Pfaendungstabelle wird regelmaessig angepasst.
-- **Vermoegensauskunft (§ 802c ZPO)** — Pflicht des Schuldners, vollstaendiges Vermoegen zu offenbaren; frueherer Name: Eidesstattliche Versicherung.
+- **Vermoegensauskunft (§ 802c ZPO)** — Pflicht des Schuldners, vollstaendiges Vermögen zu offenbaren; frueherer Name: Eidesstattliche Versicherung.
 - **ZVG** — Zwangsversteigerungsgesetz; Grundlage für Immobilienvollstreckung durch Versteigerung.
 - **EuKtPVO** — EU-Kontenpfaendungsverordnung (VO 655/2014); ermoeglicht vorläufige Kontenpfaendung in EU-Mitgliedstaaten.
 
@@ -171,18 +171,18 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Glaeubiger-Seite (Vollstreckung einleiten) oder Schuldner-Seite (Vollstreckung abwehren)?
-2. Titelstatus pruefen: Liegt ein vollstreckbarer Titel mit Klausel und Zustellung vor (§§ 704, 724, 750 ZPO)?
+1. Mandantenkonstellation klären: Glaeubiger-Seite (Vollstreckung einleiten) oder Schuldner-Seite (Vollstreckung abwehren)?
+2. Titelstatus prüfen: Liegt ein vollstreckbarer Titel mit Klausel und Zustellung vor (§§ 704, 724, 750 ZPO)?
 3. Zielobjekt bestimmen: Bankkonto, Arbeitseinkommen, Mobiliarsachen, Immobilie oder sonstige Forderung?
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
-5. Eilfristen pruefen: Haertefall-Antrag nach § 765a ZPO sofort bei Vollstreckungstermin; EU-Kontenpfaendung hat eigene Fristen.
+5. Eilfristen prüfen: Haertefall-Antrag nach § 765a ZPO sofort bei Vollstreckungstermin; EU-Kontenpfaendung hat eigene Fristen.
 
 ## Skill-Tour (was gibt es hier?)
 
 - `zv-kommandocenter` — Routing: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten? Ueberblick und Weiterleitung.
 - `zv-mahnbescheid-online` — Mahnbescheid online beantragen und Vollstreckungsbescheid erwaerken nach §§ 688 ff. ZPO.
 - `zv-vollstreckungsbescheid-folge` — Nach Mahnbescheid: Vollstreckungsbescheid beantragen oder auf Widerspruch reagieren.
-- `zv-titel-klausel-zustellung` — Formale Trias pruefen: vollstreckbarer Titel, Vollstreckungsklausel, Zustellung an Schuldner.
+- `zv-titel-klausel-zustellung` — Formale Trias prüfen: vollstreckbarer Titel, Vollstreckungsklausel, Zustellung an Schuldner.
 - `zv-pfueb-bank` — PfUeB für Bankkonto beantragen; Drittschuldner-Erklarung, P-Konto-Schutz.
 - `zv-pfueb-arbeitsentgelt` — PfUeB für Arbeitseinkommen; Pfaendungsfreigrenze nach § 850c ZPO berechnen.
 - `zv-pfueb-mieter-finanzamt` — PfUeB für Mietforderung, Steuererstattung oder sonstige Drittschuldner-Forderung.
@@ -201,7 +201,7 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 
 ## Worauf besonders achten
 
-- Formale Trias ist zwingend: Titel, Klausel und Zustellung muessen vollstaendig vorliegen, bevor Vollstreckung beginnt (§ 750 ZPO).
+- Formale Trias ist zwingend: Titel, Klausel und Zustellung müssen vollstaendig vorliegen, bevor Vollstreckung beginnt (§ 750 ZPO).
 - P-Konto-Schutz gilt automatisch, wenn Schuldner P-Konto eingerichtet hat; Glaeubiger muss Freibetrag-Erhoehung separat anfechten.
 - Pfaendungsfreigrenzen werden jaehrlich angepasst (§ 850c ZPO); immer aktuelle Tabelle verwenden.
 - EU-Kontenpfaendung nach EuKtPVO setzt Zuständigkeit eines deutschen Gerichts voraus; Antrag hat eigene Formalien.
@@ -211,8 +211,8 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 
 - Vollstreckung ohne Zustellung an Schuldner begonnen: § 750 ZPO erfordert vorherige oder gleichzeitige Zustellung; fehlende Zustellung macht Vollstreckungsmassnahme anfechtbar.
 - Pfaendungsfreigrenze falsch berechnet: Falsche Steuerklasse oder Unterhaltspflichten nicht beruecksichtigt; Schuldner kann Erinnerung einlegen.
-- Gerichtsvollzieher-Auftrag zu spaet gestellt: Mobiliarsachen koennen veraessert oder abhandengekommen sein.
-- Verjährung des Titels uebersehen: Vollstreckungsverjaeaehrung nach § 197 BGB betraegt 30 Jahre ab Urteil; Mahnbescheide koennen kuerzere Fristen haben.
+- Gerichtsvollzieher-Auftrag zu spaet gestellt: Mobiliarsachen können veraessert oder abhandengekommen sein.
+- Verjährung des Titels uebersehen: Vollstreckungsverjaeaehrung nach § 197 BGB betraegt 30 Jahre ab Urteil; Mahnbescheide können kuerzere Fristen haben.
 - EU-Kontenpfaendung ohne Zuständigkeitspruefung: Deutsche Gerichte sind nur zuständig wenn Deutschland Vollstreckungsmitgliedstaat ist.
 
 ## Quellen und Aktualitaet

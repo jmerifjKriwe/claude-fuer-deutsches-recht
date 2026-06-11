@@ -83,13 +83,13 @@ description: "Fachanwalt Sportrecht Spielervertrag: ordnet Normen, Nutzerangaben
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Spielervertrag pruefen und verhandeln | Vertragsbewertung; Template unten |
+| Standard — Spielervertrag prüfen und verhandeln | Vertragsbewertung; Template unten |
 | Variante A — Vorzeitige Aufhebung | Abloesesumme vs. ausserordentliche Kuendigung abwaegen |
-| Variante B — Vertragsstrafe wegen Vertragsbruch | Vertragsstrafe pruefen; § 343 BGB-Herabsetzung |
+| Variante B — Vertragsstrafe wegen Vertragsbruch | Vertragsstrafe prüfen; § 343 BGB-Herabsetzung |
 | Variante C — Image-/Sponsorenrechte streitig | IP-Recht-Aspekte; Skill urheber-medienrecht einbeziehen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -211,7 +211,7 @@ Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

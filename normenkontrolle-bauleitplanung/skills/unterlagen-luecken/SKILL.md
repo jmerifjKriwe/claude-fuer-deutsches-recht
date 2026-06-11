@@ -17,7 +17,7 @@ Diese Unterlagenprüfung für **Normenkontrolle Bauleitplanung** benennt fehlend
 - `anfechtung-antragsbefugnis-red-team-korrektur` — Anfechtung Antragsbefugnis RED Team Korrektur
 - `anfechtung-tatbestandsmerkmale` — Anfechtung Tatbestandsmerkmale
 - `anpassungsgebot-flaechennutzungsplan` — Anpassungsgebot Flaechennutzungsplan
-- `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis Eigentuemer Nachbar
+- `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis Eigentümer Nachbar
 - `antragsbefugnis-fehlerkatalog` — Antragsbefugnis Fehlerkatalog
 - `antragsbefugnis-red-team-und-qualitaetskontrolle` — Antragsbefugnis RED Team und Qualitaetskontrolle
 - `antragstellervertretung-zahlen-schwellen-und-berechnung` — Antragstellervertretung Zahlen Schwellen und Berechnung

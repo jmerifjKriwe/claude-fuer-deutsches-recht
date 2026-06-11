@@ -23,8 +23,8 @@ Vor der konkreten Strafzumessung muss der **gesetzliche Strafrahmen** bestimmt w
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie verteidigen oder klagen an und muessen bestimmen, welcher Strafrahmen anwendbar ist (Grundtatbestand, Qualifikation, minder schwerer Fall?).
-- Sie pruefen, ob ein **besonders schwerer Fall** wegen eines Regelbeispiels anzunehmen ist.
+- Sie verteidigen oder klagen an und müssen bestimmen, welcher Strafrahmen anwendbar ist (Grundtatbestand, Qualifikation, minder schwerer Fall?).
+- Sie prüfen, ob ein **besonders schwerer Fall** wegen eines Regelbeispiels anzunehmen ist.
 - Sie sondieren in einer Verstaendigung, welcher Strafrahmen Verhandlungsgrundlage sein soll (§ 257c Abs. 3 StPO).
 
 ## Rechtliche Grundlagen
@@ -69,13 +69,13 @@ Nach allen Modifikationen das Ergebnis. Beispiel:
 
 Innerhalb des konkreten Strafrahmens nach § 46 StGB. Hier kommen die Strafzumessungstatsachen ins Spiel; vgl. `strafzumessungs-tatsachen-46-ii-stgb`.
 
-## Reihenfolge in der Pruefung (Standard)
+## Reihenfolge in der Prüfung (Standard)
 
 1. Welche Tatbestaende sind verwirklicht?
 2. Strafrahmen des einschlaegigen Tatbestands oder der Qualifikation.
 3. Liegt minder schwerer Fall vor (Gesamtbetrachtung)?
 4. Liegt Regelbeispiel oder unbenannter besonders schwerer Fall vor?
-5. Liegen Milderungsgruende nach § 49 StGB vor? In welcher Reihenfolge greifen sie? (Mehrfache Milderung moeglich; jeweils auf das Ergebnis der vorigen Milderung anzuwenden.)
+5. Liegen Milderungsgruende nach § 49 StGB vor? In welcher Reihenfolge greifen sie? (Mehrfache Milderung möglich; jeweils auf das Ergebnis der vorigen Milderung anzuwenden.)
 6. Konkreter Strafrahmen festhalten.
 7. Konkrete Strafe nach § 46 StGB im Spielraum schuldangemessener Strafe.
 
@@ -87,8 +87,8 @@ Wenn mehrere § 49 Abs. 1 StGB-Milderungen zusammentreffen (z.B. Beihilfe + verm
 
 - **Regelbeispiel automatisch angenommen**: Auch wenn ein Regelbeispiel erfuellt ist, muss eine **Gesamtbetrachtung** ergeben, dass die "Indiz-Wirkung" nicht entkraeftet ist (BGH st. Rspr.; Az vor Zitat verifizieren).
 - **§ 49 Abs. 1 StGB falsch berechnet**: Hoechstmass 3/4 (Freiheitsstrafe), Mindeststrafe entfaellt oder reduziert nach § 49 Abs. 1 Nr. 2 und 3 StGB. Bei lebenslang: 3 bis 15 Jahre (§ 49 Abs. 1 Nr. 1 StGB).
-- **§ 28 StGB uebersehen** bei Beihilfe-/Anstifter-Pruefung: fehlende strafbegruendende persönliche Merkmale fuehren zwingend zur Strafmilderung nach § 49 Abs. 1 StGB.
-- **Doppelverwertung** zwischen Regelbeispiel und § 46 StGB: Umstaende, die das Regelbeispiel begruenden, duerfen nicht noch einmal als strafschaerfender Faktor angefuehrt werden.
+- **§ 28 StGB uebersehen** bei Beihilfe-/Anstifter-Prüfung: fehlende strafbegruendende persönliche Merkmale fuehren zwingend zur Strafmilderung nach § 49 Abs. 1 StGB.
+- **Doppelverwertung** zwischen Regelbeispiel und § 46 StGB: Umstaende, die das Regelbeispiel begruenden, dürfen nicht noch einmal als strafschaerfender Faktor angefuehrt werden.
 
 ## Quellen und Stand 05/2026
 

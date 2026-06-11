@@ -35,9 +35,9 @@ Abnahmevarianten:
 
 ## Abschlagszahlungen § 632a BGB
 
-- Anspruch auf Abschlagszahlung in Hoehe wertmaessig erbrachter Leistungen.
+- Anspruch auf Abschlagszahlung in Höhe wertmaessig erbrachter Leistungen.
 - Voraussetzung: vertragsgemaesse Leistung erbracht.
-- Sicherheit Bauhandwerker § 650f BGB: Klaeger kann Sicherheit verlangen.
+- Sicherheit Bauhandwerker § 650f BGB: Kläger kann Sicherheit verlangen.
 
 ## Schlussrechnung
 
@@ -45,7 +45,7 @@ Abnahmevarianten:
 |---|---|
 | Pruefbare Schlussrechnung | Faelligkeit Werklohn |
 | Pruefungsfrist Auftraggeber | Regel 30 Tage |
-| Keine Schlussrechnung | Klage nur eingeschraenkt zulaessig |
+| Keine Schlussrechnung | Klage nur eingeschraenkt zulässig |
 
 § 14 VOB/B (bei vereinbarter VOB/B): pruefbare Schlussrechnung mit Pruefungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber.
 
@@ -61,10 +61,10 @@ Es wird beantragt:
 3. Die Beklagte traegt die Kosten des Rechtsstreits.
 ```
 
-Klagegrund-Schluessel:
+Klagegrund-Schlüssel:
 - Vertragsdatum, Vertragstyp (Werk-/Bauvertrag).
 - Leistungspflichten (Gewerk, Aufmass).
-- Erfuellung Klaeger (Abnahmeprotokoll als K2).
+- Erfuellung Kläger (Abnahmeprotokoll als K2).
 - Schlussrechnung (Datum, Pruefbarkeit).
 - Faelligkeit.
 
@@ -82,7 +82,7 @@ Klagegrund-Schluessel:
 |---|---|
 | Werk maengelfrei | Voller Werklohn faellig |
 | Unwesentliche Maengel | Abnahme nicht verweigerbar (§ 640 Abs. 1 S. 2 BGB), Werklohn faellig |
-| Wesentliche Maengel | Abnahmeverweigerung zulaessig, Werklohn nicht faellig |
+| Wesentliche Maengel | Abnahmeverweigerung zulässig, Werklohn nicht faellig |
 | Maengelbeseitigungskosten | Zurueckbehaltungsrecht § 641 Abs. 3 BGB (doppelte Kosten) |
 | Minderung erklaert | § 638 BGB Werklohn anteilig |
 
@@ -91,7 +91,7 @@ Klagegrund-Schluessel:
 VOB/B nur als AGB wirksam; gilt nur, wenn dem Vertragspartner zumutbar gemacht (BGH VII ZR 162/00). Bei Verbraucherbauvertrag in der Regel unwirksam.
 
 Wesentliche VOB/B-Klauseln:
-- § 8 VOB/B Kuendigung Auftraggeber (jederzeit ohne Grund moeglich)
+- § 8 VOB/B Kuendigung Auftraggeber (jederzeit ohne Grund möglich)
 - § 9 VOB/B Kuendigung Auftragnehmer (nur aus wichtigem Grund)
 - § 13 VOB/B Maengelhaftung (Frist 4 Jahre bei Bauwerken)
 - § 14 VOB/B Schlussrechnung

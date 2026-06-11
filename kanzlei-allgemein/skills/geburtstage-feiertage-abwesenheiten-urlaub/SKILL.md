@@ -25,7 +25,7 @@ description: "Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler
 
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. f DSGVO — Berechtigtes Interesse als Rechtsgrundlage für Mandantenpflege-Kontakte
-- Art. 21 DSGVO — Widerspruchsrecht: muss ohne Schranken moeglich sein
+- Art. 21 DSGVO — Widerspruchsrecht: muss ohne Schranken möglich sein
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur notwendige Daten speichern
 - § 7 UWG — Unzumutbare Belaestigung bei Werbung ohne Einwilligung
 

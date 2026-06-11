@@ -127,10 +127,10 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Parteien-Screening:** alle Parteien inkl. wirtschaftlich Berechtigter (mind. 25 % Beteiligungsschwelle, § 3 GwG) identifizieren und in internem Conflicts-System abgleichen
-2. **Sanktions-Screening:** EU-Sanktionsdatenbank, OFAC SDN, UK OFSI, UN-Liste pruefen; Treffer → sofortige Eskalation an Partner/Compliance
-3. **Interessenkonflikt-Pruefung:** laufende und frueheres Mandate pruefen; bei positivem Treffer: Screening-Protokoll, ggf. Waiver-Einholung oder Mandatsablehnung
-4. **PEP-Pruefung:** § 1 Abs. 12 GwG — bei Treffer: verstaerkte Sorgfalt (§ 15 GwG), Geschaftsfuehrungsebene einschalten
-5. **Mittelherkunfts-Pruefung:** Funds Flow Confirmation, Bankauszuege, Fondsstruktur dokumentieren; bei Verdacht → FIU-Meldepflicht pruefen
+2. **Sanktions-Screening:** EU-Sanktionsdatenbank, OFAC SDN, UK OFSI, UN-Liste prüfen; Treffer → sofortige Eskalation an Partner/Compliance
+3. **Interessenkonflikt-Prüfung:** laufende und frueheres Mandate prüfen; bei positivem Treffer: Screening-Protokoll, ggf. Waiver-Einholung oder Mandatsablehnung
+4. **PEP-Prüfung:** § 1 Abs. 12 GwG — bei Treffer: verstaerkte Sorgfalt (§ 15 GwG), Geschaftsfuehrungsebene einschalten
+5. **Mittelherkunfts-Prüfung:** Funds Flow Confirmation, Bankauszuege, Fondsstruktur dokumentieren; bei Verdacht → FIU-Meldepflicht prüfen
 6. **Sektoren-/FDI-Check:** § 55 ff. AWV, Art. 4 EU-FDI-Screening-VO — betrifft kritische Infrastruktur, Verteidigung, Energie, Telekommunikation
 7. **Dokumentation:** Akte mit Screening-Protokoll, Entscheidungsgrunden, Datum und verantwortlichem Partner abschliessen
 
@@ -139,7 +139,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Sanktionstreffer → JA: Mandatsannahme verboten; sofort an Compliance; NEIN: weiter
 - Interessenkonflikt → JA ohne Waiver-Moeglichkeit: ablehnen; JA mit Waiver: dokumentieren; NEIN: weiter
 - PEP-Status → verstaerkte Sorgfalt § 15 GwG; Genehmigung der Geschaftsfuehrung
-- Unklare Mittelherkunft → Nachfrage; keine Annahme vor Klaerung; bei Verdacht FIU-Meldepflicht
+- Unklare Mittelherkunft → Nachfrage; keine Annahme vor Klärung; bei Verdacht FIU-Meldepflicht
 
 ## Output-Template: Conflicts- und GwG-Pruefungsprotokoll
 

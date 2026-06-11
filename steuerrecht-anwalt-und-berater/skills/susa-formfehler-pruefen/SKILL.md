@@ -3,7 +3,7 @@ name: susa-formfehler-pruefen
 description: "SuSa-Prüfung auf Formfehler Plausibilitaet und Differenzen. Anwendungsfall Qualitaetsprüfung der SuSa vor Versand oder Prüfung Buchungsdifferenzen typische Anomalien. Methodik Checkliste Plausibilitaet Differenz-Analyse. Output Fehlerprotokoll Korrekturmassnahmen."
 ---
 
-# SuSa-Pruefung — Formfehler, Plausibilitaet, Differenzen
+# SuSa-Prüfung — Formfehler, Plausibilitaet, Differenzen
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "SuSa-Prüfung auf Formfehler Plausibilitaet und Differenzen. Anwen
 
 ## Kernsachverhalt
 
-Eine fehlerhafte SuSa ist Risiko für alle Folgeauswertungen — BWA, USt-VA, Jahresabschluss. Der Steuerberater muss die SuSa systematisch auf Plausibilitaet pruefen, bevor er sie verwendet. Typische Fehler: Pruefsumme-Differenz, ungewoehnliche Salden, USt-Inkonsistenz, offene Verrechnungskonten. Dieser Skill ist Pflicht-Checkliste für Sachbearbeiter und Berufstraeger.
+Eine fehlerhafte SuSa ist Risiko für alle Folgeauswertungen — BWA, USt-VA, Jahresabschluss. Der Steuerberater muss die SuSa systematisch auf Plausibilitaet prüfen, bevor er sie verwendet. Typische Fehler: Pruefsumme-Differenz, ungewoehnliche Salden, USt-Inkonsistenz, offene Verrechnungskonten. Dieser Skill ist Pflicht-Checkliste für Sachbearbeiter und Berufstraeger.
 
 ## Kaltstart-Rueckfragen
 
@@ -51,10 +51,10 @@ Eine fehlerhafte SuSa ist Risiko für alle Folgeauswertungen — BWA, USt-VA, Ja
 ### Phase 1 — Pruefsumme Soll/Haben
 
 - Summe Soll-Buchungen = Summe Haben-Buchungen (doppelte Buchfuehrung).
-- Differenz = Systemfehler (selten, aber bei Datenmigrationen moeglich).
-- Bei Differenz: Konto-Pruefung bis zur Buchung zurueck.
+- Differenz = Systemfehler (selten, aber bei Datenmigrationen möglich).
+- Bei Differenz: Konto-Prüfung bis zur Buchung zurueck.
 
-### Phase 2 — Konten-Plausibilitaet (Kontennummern beispielhaft im SKR 03; aktuelle DATEV-Kontenrahmenfassung pruefen)
+### Phase 2 — Konten-Plausibilitaet (Kontennummern beispielhaft im SKR 03; aktuelle DATEV-Kontenrahmenfassung prüfen)
 
 | Konto-Bereich | Erwartung | Auffaelligkeit |
 |---|---|---|
@@ -69,20 +69,20 @@ Eine fehlerhafte SuSa ist Risiko für alle Folgeauswertungen — BWA, USt-VA, Ja
 
 ### Phase 3 — USt-Konsistenz (Kontennummern beispielhaft im SKR 03; mit aktueller DATEV-Kontenrahmenfassung abgleichen)
 
-- USt-Konto 19 Prozent (typisch SKR 03 1776) gegen USt-Voranmeldung pruefen.
-- Vorsteuer-Konto 19 Prozent (typisch SKR 03 1576) gegen USt-Voranmeldung pruefen.
-- Innergemeinschaftlicher Erwerb (USt-Konten im 1780er-Bereich, z. B. SKR 03 1786): Erfassung pruefen.
+- USt-Konto 19 Prozent (typisch SKR 03 1776) gegen USt-Voranmeldung prüfen.
+- Vorsteuer-Konto 19 Prozent (typisch SKR 03 1576) gegen USt-Voranmeldung prüfen.
+- Innergemeinschaftlicher Erwerb (USt-Konten im 1780er-Bereich, z. B. SKR 03 1786): Erfassung prüfen.
 - Reverse-Charge nach § 13b UStG: typische Konten SKR 03 1787 (Umsatzsteuer) und 1576/1577 (Vorsteuer-Gegenbuchung); konkrete Kontonummern in DATEV-Kontenrahmen SKR 03 nachschlagen (DATEV-Kontenrahmen-PDF unter datev.de).
 
 ### Phase 4 — Hauptbuch-Nebenbuch-Konsistenz
 
-- Saldo Forderungssammelkonto (typisch SKR 03 1400) gegen Summe der Debitoren-OPOS pruefen.
-- Saldo Verbindlichkeiten-Sammelkonto (typisch SKR 03 1700) gegen Summe der Kreditoren-OPOS pruefen.
+- Saldo Forderungssammelkonto (typisch SKR 03 1400) gegen Summe der Debitoren-OPOS prüfen.
+- Saldo Verbindlichkeiten-Sammelkonto (typisch SKR 03 1700) gegen Summe der Kreditoren-OPOS prüfen.
 - Bei Differenz: Buchungen ohne Personenkonto-Zuordnung suchen (DATEV-Klickpfad: Rechnungswesen → Buchungserfassung → Stapelverarbeitung → Filter "ohne OPOS-Zuordnung").
 
 ### Phase 5 — Anlagenkonten und AfA
 
-- Anlagenkonten-Saldo (Klasse 0 SKR 03) gegen Buchwert im Anlagenspiegel pruefen.
+- Anlagenkonten-Saldo (Klasse 0 SKR 03) gegen Buchwert im Anlagenspiegel prüfen.
 - AfA-Aufwandskonten (typisch SKR 03 4830 für Sachanlagen) gegen Summe der AfA aus dem Anlagenspiegel abstimmen.
 - Bei Zu- oder Abgaengen Anlagenspiegel synchronhalten.
 
@@ -107,11 +107,11 @@ Datum: [Datum] Bearbeiter: [Name]
 
 ## Strategie und Praxis-Tipps
 
-- SuSa-Pruefung sollte vor jedem Versand erfolgen — auch bei Routine-Mandanten.
+- SuSa-Prüfung sollte vor jedem Versand erfolgen — auch bei Routine-Mandanten.
 - Bei wiederholten Fehlern (gleiches Konto, gleicher Sachbearbeiter): Schulung.
 - Pruefliste standardisieren — Sachbearbeiter haben einheitliches Pruefraster.
 - Bei wesentlichen Fehlern in der Vorperiode: § 153 AO Berichtigungspflicht.
-- StBVV: Pruefung als Bestandteil der Buchfuehrungspauschale.
+- StBVV: Prüfung als Bestandteil der Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV-Pruefliste Monatsabschluss systematisch durchgehen; "Konten mit ungewoehnlichem Saldo" als Standardlauf.
 
 ## Quellen und Updates

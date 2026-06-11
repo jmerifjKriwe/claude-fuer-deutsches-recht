@@ -41,7 +41,7 @@ description: "Vertragsparteien aus verschiedenen Ländern streiten über Vertrag
 - Eingriffsnormen Art. 9 Rom I — auch im internationalen Wirtschaftsverkehr beachten (EU-Sanktionen Russland VO 833/2014 in der Fassung 16./17. Paket 2025; Energierecht; LkSG).
 - ordre public Art. 21 Rom I.
 - Brexit-Folge: UK seit 01.01.2021 nicht mehr Rom-I-Vertragsstaat; UK behaelt Rom I in nationaler Form als "assimilated EU law" (Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019) — seit Retained EU Law (Revocation and Reform) Act 2023 ggf. Aenderungen. Bei DE-Gerichten Art. 20 Rom I (kein Renvoi) beachten.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -70,14 +70,14 @@ description: "Vertragsparteien aus verschiedenen Ländern streiten über Vertrag
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Rechtswahl und Gerichtsstand pruefen | Gutachten Rom I / Bruessel Ia; Template unten |
+| Standard — Rechtswahl und Gerichtsstand prüfen | Gutachten Rom I / Bruessel Ia; Template unten |
 | Variante A — Mandant will EU-Gericht vermeiden | Schiedsklausel als Alternative; Skill fachanwalt-internationales-wirtschaftsrecht-schiedsklausel |
 | Variante B — Verbraucher oder Arbeitnehmer beteiligt | Schutzgerichtsstand Art. 17-22 Bruessel Ia zwingend beachten |
-| Variante C — Drittstaaten-Sitz einer Partei | Hague Convention / HAVÜ 2019 pruefen statt Bruessel Ia |
+| Variante C — Drittstaaten-Sitz einer Partei | Hague Convention / HAVÜ 2019 prüfen statt Bruessel Ia |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -107,7 +107,7 @@ anwendbaren Recht Stellung:
 Mit freundlichen Gruessen
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

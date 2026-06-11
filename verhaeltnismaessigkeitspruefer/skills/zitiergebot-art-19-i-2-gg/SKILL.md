@@ -10,7 +10,7 @@ description: "Zitiergebot Art 19 I 2 GG als formelle Vorgabe fuer Eingriffsgeset
 ## Funktion
 
 - **Warnfunktion**: der Gesetzgeber soll sich der grundrechtlichen Tragweite bewusst sein.
-- **Klarstellungsfunktion**: fuer Buerger und Rechtsanwender wird der Eingriffstatbestand sichtbar.
+- **Klarstellungsfunktion**: für Buerger und Rechtsanwender wird der Eingriffstatbestand sichtbar.
 - **Kompetenzschutz**: das Parlament uebernimmt die Verantwortung sichtbar.
 
 ## Ausnahmen aus der BVerfG-Linie
@@ -18,7 +18,7 @@ description: "Zitiergebot Art 19 I 2 GG als formelle Vorgabe fuer Eingriffsgeset
 | Konstellation | Entscheidung | Schlagwort | Aussage |
 | --- | --- | --- | --- |
 | Vorbehaltlose Grundrechte | BVerfGE 28, 282 | Inhaberkonzentration im Verlagsbereich | Zitiergebot nicht anwendbar |
-| Vorkonstitutionelles Recht | BVerfGE 2, 121 | Reichsgesetze | Kein Zitiergebot fuer vor-1949er Gesetze |
+| Vorkonstitutionelles Recht | BVerfGE 2, 121 | Reichsgesetze | Kein Zitiergebot für vor-1949er Gesetze |
 | Allgemeingesetze | BVerfGE 64, 72 | Berufungserstattung | Nur bei eigentlichem Grundrechtseingriff |
 | Inhalts- und Schrankenbestimmungen Art 14 I 2 GG | BVerfGE 24, 367 | Hamburgisches Deichordnungsgesetz | Klassische Eingriffe brauchen Zitierung |
 

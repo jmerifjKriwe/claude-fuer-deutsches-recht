@@ -17,10 +17,10 @@ Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab Zustellung) und erstel
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Triage zu Beginn — Sofort klaeren
+## Triage zu Beginn — Sofort klären
 
 1. **Zugangsdatum Strafbefehl:** Wann wurde der Strafbefehl zugestellt? Postzustellung (§ 37 StPO i.V.m. §§ 177 ff. ZPO) oder persönliche Uebergabe?
-2. **Zustellungsfiktion pruefen:** Bei Postzustellung gilt § 418 ZPO — Einwurf-Einschreiben drei Tage nach Aufgabe als zugestellt, es sei denn Mandant weist spaetere Kenntnisnahme nach.
+2. **Zustellungsfiktion prüfen:** Bei Postzustellung gilt § 418 ZPO — Einwurf-Einschreiben drei Tage nach Aufgabe als zugestellt, es sei denn Mandant weist spaetere Kenntnisnahme nach.
 3. **Fristende berechnen:** Tag der Zustellung + 14 Tage (§ 410 Abs. 1 StPO), §§ 42, 43 StPO zur Berechnung; Fristende auf Samstag/Sonntag/Feiertag — naechster Werktag.
 4. **Reaktion des Mandanten bislang:** Hat der Mandant bereits reagiert, einen Pro-forma-Einspruch selbst eingelegt?
 5. **Ziel des Mandanten:** Einstellung (§§ 153, 153a StPO), Verhandlung und Freispruch, Strafmassreduzierung — beeinflusst ob beschraenkt oder unbeschraenkt.
@@ -44,8 +44,8 @@ Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab Zustellung) und erstel
 ## Schritt-für-Schritt-Workflow
 
 1. **Frist sofort berechnen und dokumentieren:** Zugangsdatum (aus Zustellungsurkunde oder Mandantenangabe) + 14 Tage = Fristende; in Fristenkalender einpflegen, 3-Tage-Vorlauf-Wiedervorlage setzen.
-2. **Strafbefehl auf Pflichtinhalt pruefen (§ 409 StPO):** Fehlt ein Pflichtbestandteil, kann dies zur Nichtigkeit fuehren — Antrag auf Berichtigung oder Aufhebung.
-3. **Zustellungsfiktion pruefen:** Einwurf-Einschreiben? Mandant ueber § 180 ZPO aufklaeren; bei Zweifeln Mandant schriftlich bestaetigenden Hinweis geben lassen.
+2. **Strafbefehl auf Pflichtinhalt prüfen (§ 409 StPO):** Fehlt ein Pflichtbestandteil, kann dies zur Nichtigkeit fuehren — Antrag auf Berichtigung oder Aufhebung.
+3. **Zustellungsfiktion prüfen:** Einwurf-Einschreiben? Mandant über § 180 ZPO aufklaeren; bei Zweifeln Mandant schriftlich bestaetigenden Hinweis geben lassen.
 4. **Einspruch formulieren:** Unbeschraenkt als Standardweg — Beschraenkung auf Rechtsfolgen nur wenn Schuldspruch unstreitig und Strafmassreduzierung das einzige Ziel.
 5. **Einspruch per EB oder anwaltlichem Fax einlegen** — Empfangsbekenntnis sichern.
 6. **Hauptverhandlung vorbereiten** — nach Einspruch wird Termin bestimmt (§ 411 StPO); Akte anfordern, Einlassung abstimmen.

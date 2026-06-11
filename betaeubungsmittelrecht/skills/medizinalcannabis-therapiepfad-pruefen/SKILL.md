@@ -3,7 +3,7 @@ name: medizinalcannabis-therapiepfad-pruefen
 description: "Medizinalcannabis: Therapiepfad prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Medizinalcannabis Therapiepfad Pruefen
+# Medizinalcannabis Therapiepfad Prüfen
 
 ## Arbeitsweg
 

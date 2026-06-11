@@ -29,7 +29,7 @@ Hochregal-Gabelstapler erfordern eine Ebenheit von max. 2 mm/2 m, die beim Beton
 
 1. Bodenplatten-Untergrundkontrolle: Tragfaehigkeit Baugrund mind. 80 MN/m nach Lastplattenversuch
 2. Betonguete C30/37 mit Faserbewehrung: Lieferschein, Frischbetonpruefung, w/z-Wert max. 0.5
-3. Pruefung Einstreuvorgang Hartstoffeinstreuung: Einstreurate nach Herstellervorgabe (z.B. Sika Mastertop 100)
+3. Prüfung Einstreuvorgang Hartstoffeinstreuung: Einstreurate nach Herstellervorgabe (z.B. Sika Mastertop 100)
 4. Fugenplan: Felder max. 6 x 6 m, Schwindfugen gesaegt, Fugen mit Polyurethankitt versiegelt
 5. Ebenheitsmessung: Messung nach DIN 18202 mit Messgeraet Trimble DiNi 0.3, Messprotokoll je Feld
 6. Druckfestigkeit: Bohrkernproben nach 28 Tagen, Guete C30/37 bestaetigend, Pruefprotokoll akkreditiertes Labor
@@ -50,13 +50,13 @@ Hochregal-Gabelstapler erfordern eine Ebenheit von max. 2 mm/2 m, die beim Beton
 3. Einstreurate Hartstoff: Wiegeprotokoll je Abschnitt (kg/qm nach Herstellervorgabe)
 4. Fugenschnitt: Tiefe min. 1/4 Plattendicke, Schnittzeit 6-12 h nach Betonage, Protokoll
 5. Ebenheit nach DIN 18202: Toleranzklasse nach Nutzungsvertrag, Messung mit Profilschiene 4 m
-6. Bohrkernproben: Entnahme nach 28 Tagen, Druckfestigkeit-Pruefung akkreditiertes Baustofflabor
+6. Bohrkernproben: Entnahme nach 28 Tagen, Druckfestigkeit-Prüfung akkreditiertes Baustofflabor
 
 ## Foto-, Video- und Dokumentenanalyse
 
 - Dalux Field Bodenplatte: Ebenheitsmangel mit GPS-Pin, Foto, Schnittzeitprotokoll, Verantwortlicher
 - Drohnenflug Halle nach Betonage: orthografische Aufnahme zur Dokumentation Fugenraster und Risse
-- Pruefung Lieferscheine je Fahrmischer: Gueteklasse, Fasergehalt, Konsistenz, Anlieferungszeit
+- Prüfung Lieferscheine je Fahrmischer: Gueteklasse, Fasergehalt, Konsistenz, Anlieferungszeit
 - Ebenheitsmessungsprotokoll Trimble DiNi 0.3: Messgitter 1 m x 1 m, CSV-Export, Abweichungsplan
 - Bohrkernpruefsprotokoll akkreditiertes Labor: Druckfestigkeit, Spaltziehfestigkeit, Porositaet
 
@@ -71,7 +71,7 @@ Hochregal-Gabelstapler erfordern eine Ebenheit von max. 2 mm/2 m, die beim Beton
 ## Typische Fallstricke
 
 - Ebenheit nicht eingehalten: Gabelstapler-Kippsicherheit gefaehrdet, Hochregallager-Zulassung verweigert
-- Fugenplanung fehlerhaft: Schwindfelder zu gross, Risse unkontrolliert, Hochregallager-Montage gestoppt
+- Fugenplanung fehlerhaft: Schwindfelder zu groß, Risse unkontrolliert, Hochregallager-Montage gestoppt
 - Betonage bei Frost: Frischbetontemperatur unter 5 Grad C ohne Frostschutzmassnahmen fuehrt zu Schaden
 - Einstreurate zu gering: Bodenplatte mit zu geringer Haerte, Gabelstapler-Spuren nach Wochen sichtbar
 

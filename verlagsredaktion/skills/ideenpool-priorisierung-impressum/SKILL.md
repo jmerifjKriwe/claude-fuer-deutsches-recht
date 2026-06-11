@@ -19,7 +19,7 @@ Ideen entstehen taeglich: Gespraech auf der Tagung, Mandantenfrage, Kollegenhinw
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn keine zentrale Themenverwaltung existiert oder die bestehende veraltet ist. Klaeren Sie:
+Sie brauchen ihn, wenn keine zentrale Themenverwaltung existiert oder die bestehende veraltet ist. Klären Sie:
 
 1. Welche Werkzeuge stehen zur Verfuegung (Excel, Notion, Confluence, Trello, Verlags-CMS)?
 2. Wer pflegt das Backlog (Schriftleitung, Lektorat, alle)?

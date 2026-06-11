@@ -29,7 +29,7 @@ description: "PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge: prü
 ## Subsumtionsbeispiel: Vertrag aus Furcht 1820
 
 A unterschreibt aus Furcht vor Drohung mit Gewalt.
-- **ALR I 4**: Anfechtung wegen vis ac metus moeglich.
+- **ALR I 4**: Anfechtung wegen vis ac metus möglich.
 - **BGB**: § 123 BGB Anfechtung wegen Drohung; § 124 BGB Frist 1 Jahr.
 
 ## Heutige Fortwirkung

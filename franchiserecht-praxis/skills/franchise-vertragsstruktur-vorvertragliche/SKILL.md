@@ -37,12 +37,12 @@ description: "Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. 
 ## Kartellrechtliche Themen
 
 - Vertriebsverordnung VBE (EU) 2022/720.
-- Hoechstpreisbindung zulaessig, Mindestpreisbindung unzulaessig.
+- Hoechstpreisbindung zulässig, Mindestpreisbindung unzulaessig.
 - Verbund von Wettbewerbsverboten muss VBE-konform sein (Marktanteilsschwelle 30 Prozent).
 
 ## Pruefraster
 
 1. Welche Struktur?
 2. Welches Recht je Ebene?
-3. Kartellrechtliche Pruefung?
+3. Kartellrechtliche Prüfung?
 4. Sub-Franchisee-Schutz?

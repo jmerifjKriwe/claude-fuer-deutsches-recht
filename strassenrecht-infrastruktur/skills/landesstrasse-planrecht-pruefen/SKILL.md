@@ -3,7 +3,7 @@ name: landesstrasse-planrecht-pruefen
 description: "Landesstraße: Planrecht prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Landesstrasse Planrecht Pruefen
+# Landesstrasse Planrecht Prüfen
 
 ## Arbeitsweg
 

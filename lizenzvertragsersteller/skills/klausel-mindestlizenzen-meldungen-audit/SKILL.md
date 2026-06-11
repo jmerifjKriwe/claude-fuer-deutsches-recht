@@ -25,20 +25,20 @@ Quartalsweise Bericht; jaehrlicher Compliance-Bericht.
 
 ### C. Audit-Recht
 
-> "Der Lizenzgeber ist berechtigt, einmal pro Kalenderjahr nach Voranmeldung von mindestens 14 Tagen durch einen oder eine vereidigte Wirtschaftspruefer:in die Berechnung der Lizenzgebuehren beim Lizenznehmer zu pruefen. Die Pruefkosten traegt der Lizenzgeber, es sei denn, das Audit ergibt eine Abweichung von mehr als 5 % zulasten des Lizenzgebers; in diesem Fall traegt der Lizenznehmer die Pruefkosten und die festgestellte Differenz nebst Verzugszinsen in Hoehe von 9 Prozentpunkten ueber dem Basiszinssatz."
+> "Der Lizenzgeber ist berechtigt, einmal pro Kalenderjahr nach Voranmeldung von mindestens 14 Tagen durch einen oder eine vereidigte Wirtschaftspruefer:in die Berechnung der Lizenzgebuehren beim Lizenznehmer zu prüfen. Die Pruefkosten traegt der Lizenzgeber, es sei denn, das Audit ergibt eine Abweichung von mehr als 5 % zulasten des Lizenzgebers; in diesem Fall traegt der Lizenznehmer die Pruefkosten und die festgestellte Differenz nebst Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz."
 
 ## Eskalationsstufen bei Berichts-/Zahlungsverzug
 
-| Stufe | Bei Verzug … | Massnahme |
+| Stufe | Bei Verzug … | Maßnahme |
 |---|---|---|
 | 1 | Erstmalig + < 14 Tage | Mahnung schriftlich |
 | 2 | 14 - 60 Tage | Mahnung + Verzugszinsen $ 288 II BGB |
 | 3 | > 60 Tage | Recht zur ausserordentlichen Kuendigung; Suspendierung der Lizenz |
-| 4 | wiederholt | Audit + Schadensersatz; Auskunftsanspruch ueber bisher nicht gemeldete Umsaetze |
+| 4 | wiederholt | Audit + Schadensersatz; Auskunftsanspruch über bisher nicht gemeldete Umsaetze |
 
 ## Verzugs- und Strafkonditionen
 
-> "Zahlt der Lizenznehmer eine Lizenzgebuehr nicht oder verspaetet, schuldet er Verzugszinsen in Hoehe von 9 Prozentpunkten ueber dem Basiszinssatz nach $ 247 BGB. Daneben kann der Lizenzgeber bei einem Verzug von mehr als 60 Tagen die Lizenz ausserordentlich kuendigen und Schadensersatz verlangen."
+> "Zahlt der Lizenznehmer eine Lizenzgebuehr nicht oder verspaetet, schuldet er Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz nach $ 247 BGB. Daneben kann der Lizenzgeber bei einem Verzug von mehr als 60 Tagen die Lizenz ausserordentlich kuendigen und Schadensersatz verlangen."
 
 ## Anschluss
 

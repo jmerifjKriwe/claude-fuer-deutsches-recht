@@ -14,13 +14,13 @@ description: "Konstanzanalyse: Aussagekonstanz vs: Aussageinkonstanz, Kernkonsta
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Konstanzanalyse: Aussagekonstanz vs. Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Pruefung, Bewertung im aussagepsychologischen Gesamtkontext, Verteidigerwerkzeuge für das Kreuzverhoer.
+**Fokus:** Konstanzanalyse: Aussagekonstanz vs. Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Prüfung, Bewertung im aussagepsychologischen Gesamtkontext, Verteidigerwerkzeuge für das Kreuzverhoer.
 
 ### Konstanzanalyse, Aussageentwicklung und Inkonstanzen
 
 ## Worum geht es
 
-Die Konstanzanalyse ist das zweite tragende Pruefelement der aussagepsychologischen Begutachtung neben den Realkennzeichen. Sie fragt: Wie konstant sind die wesentlichen Aussageelemente ueber die Zeit hinweg, und wo variieren sie? Konstanz spricht — bei sonst plausibler Aussagegenese — für Erlebnisbasiertheit; auffaellige Inkonstanzen oder eine schrittweise Steigerung der Belastung indizieren Suggestion, Konfabulation oder bewusste Anpassung.
+Die Konstanzanalyse ist das zweite tragende Pruefelement der aussagepsychologischen Begutachtung neben den Realkennzeichen. Sie fragt: Wie konstant sind die wesentlichen Aussageelemente über die Zeit hinweg, und wo variieren sie? Konstanz spricht — bei sonst plausibler Aussagegenese — für Erlebnisbasiertheit; auffaellige Inkonstanzen oder eine schrittweise Steigerung der Belastung indizieren Suggestion, Konfabulation oder bewusste Anpassung.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert ein strukturiertes Werkzeug für die Aufbereitung der Aussagechronologie und das Kreuzverhoer.
 
@@ -41,10 +41,10 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 **Pruefdimensionen.**
 - Konsistenz: gleichbleibende Beschreibung des Kerngeschehens.
-- Steigerung: zunehmende Belastung, neue Vorwuerfe, neue Taten ueber die Zeit (typisch suggestiv kontaminiert).
+- Steigerung: zunehmende Belastung, neue Vorwuerfe, neue Taten über die Zeit (typisch suggestiv kontaminiert).
 - Reduktion: Wegfall belastender Elemente (kann auf Vermeidung, Schamabbau oder Korrektur hindeuten).
 - Substitution: ein Detail wird durch ein anderes ersetzt (Tatort A wird zu Tatort B).
-- Auslassungen: ein in einer Vernehmung berichtetes Detail kommt spaeter nicht mehr vor.
+- Auslassungen: ein in einer Vernehmung berichtetes Detail kommt später nicht mehr vor.
 - Neueinfuehrungen: ein in der Hauptverhandlung erstmals genanntes Detail, das zuvor in keiner Aussage erwaehnt war.
 
 **Bewertung.** Konstanz allein beweist nichts (auswendig gelernte Skripte sind hochkonstant). Inkonstanz allein beweist auch nichts (Erinnerung ist normalerweise rekonstruktiv und variiert). Massgeblich ist die Gesamtbewertung im Hypothesen-Schema.
@@ -52,7 +52,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 ## Praktikertipps Verteidigung
 
 - **Chronologie-Tabelle anlegen.** Jede Aussage chronologisch in eine Tabelle mit Spalten: Datum, Quelle, Vernehmungsperson, Kerninhalt (Wer/Wo/Was), Variante (Detail X), Belastungstendenz.
-- **Steigerungsmuster suchen.** Wenn die Aussage von "ein einmaliger Vorfall" zu "regelmäßige Vorfaelle ueber Jahre" wandert, ist das ein klassisches Suggestionsmuster.
+- **Steigerungsmuster suchen.** Wenn die Aussage von "ein einmaliger Vorfall" zu "regelmäßige Vorfaelle über Jahre" wandert, ist das ein klassisches Suggestionsmuster.
 - **Quelle der Steigerung verorten.** Welche Vernehmung, welcher Therapeut, welcher Gespraechspartner hat die Steigerung ausgeloest?
 - **Kreuzverhoer strukturiert vorbereiten.** Konkrete Frageblock-Module für das Kreuzverhoer: Frage zum Kern, Frage zum Detail in Vernehmung 1, Frage zum Detail in Vernehmung 2, ggf. Vorhalt nach § 253 StPO.
 - **Aussage zur Aussagegenese erfragen.** Wer hat zuerst was gesagt? Hat die Zeugin mit Therapeutin gesprochen? In Selbsthilfegruppe?
@@ -82,7 +82,7 @@ Im Plaedoyer arbeiten Sie nicht mit Pauschalkritik, sondern mit konkreter Gegenu
 ## Quellen Stand 06/2026
 
 - BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (Beweiswuerdigung in Aussage-gegen-Aussage-Konstellationen).
-- BGH staendige Rechtsprechung zur Konstanzanalyse als Bestandteil der aussagepsychologischen Pruefung (Folge-Aktenzeichen mit aktueller BGH-Linie verifizieren).
+- BGH staendige Rechtsprechung zur Konstanzanalyse als Bestandteil der aussagepsychologischen Prüfung (Folge-Aktenzeichen mit aktueller BGH-Linie verifizieren).
 - Steller, M., Koehnken, G., zur Konstanzbewertung als eines der Pruefkriterien (Lehrbuch-Bezug, generisch).
 - Volbert, R., zur Aussagegenese und Aussageentwicklung (generisch).
 - Methodik siehe `references/methodik-buergerliches-recht.md` (entsprechend).

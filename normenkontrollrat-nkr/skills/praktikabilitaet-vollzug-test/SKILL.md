@@ -7,7 +7,7 @@ description: "Praktikabilitaetstest für den Vollzug. Prueft ob die Regelung von
 
 ## Worum geht es konkret
 
-Eine Regelung kann methodisch sauber begruendet sein und dennoch im Vollzug **nicht praktikabel** sein: Behörden ueberfordert, IT-Systeme nicht vorhanden, Daten nicht verfuegbar, Adressaten ueberfordert. Der NKR prueft Praktikabilitaet als Standardelement.
+Eine Regelung kann methodisch sauber begruendet sein und dennoch im Vollzug **nicht praktikabel** sein: Behörden ueberfordert, IT-Systeme nicht vorhanden, Daten nicht verfuegbar, Adressaten ueberfordert. Der NKR prüft Praktikabilitaet als Standardelement.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -22,7 +22,7 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 ## Rechtlicher und methodischer Rahmen
 
 - **§ 44 GGO** — Folgen für Vollzug
-- **NKRG** § 4 — methodische Pruefung umfasst auch Praktikabilitaet
+- **NKRG** § 4 — methodische Prüfung umfasst auch Praktikabilitaet
 - **Leitfaden BMI / NKR** — Praktikabilitaetspruefung
 - **Art. 83-87 GG** — Vollzugskompetenzen
 - **Art. 104a GG, Konnexitaetsverbot** (Verfassungen der Länder)
@@ -46,7 +46,7 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 ### 3. IT-Voraussetzungen
 
 - Welche Systeme existieren?
-- Welche muessen entwickelt werden?
+- Welche müssen entwickelt werden?
 - Schnittstellen zu bestehenden Verfahren?
 - Datenschutz und Informationssicherheit
 
@@ -76,7 +76,7 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 
 - Vollzugskaskade nicht beschrieben
 - Personalbedarf nicht beziffert
-- IT-Voraussetzungen "vorhanden" ohne Pruefung
+- IT-Voraussetzungen "vorhanden" ohne Prüfung
 - Datenfluss nicht beschrieben
 - Konnexitaet ignoriert
 - Inkrafttretensfrist zu kurz für realistische Umsetzung
@@ -99,11 +99,11 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 - "Der NKR weist darauf hin, dass der Vollzug bei [Behörde] erheblichen Personalmehrbedarf erfordert. Die Stellenanforderung wird im Ressortentwurf nicht beziffert."
 - "Der NKR haelt die vorgesehene Inkrafttretensfrist von [X] Monaten für zu kurz, um die notwendige IT-Anpassung bei [Behörde] sicherzustellen. Eine Verlaengerung auf [Y] Monate erscheint angemessen."
 - "Der NKR weist darauf hin, dass die Pflicht für Kommunen die Frage der Konnexitaet (Art. 104a Abs. 1 GG, Landesverfassungen) aufwirft. Eine ausgleichende Regelung ist im Vorhaben nicht vorgesehen."
-- "Der NKR begruesst die ressortseitige Pruefung der Vollzugspraktikabilitaet und die transparente Darstellung des Personalmehrbedarfs."
+- "Der NKR begruesst die ressortseitige Prüfung der Vollzugspraktikabilitaet und die transparente Darstellung des Personalmehrbedarfs."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
-- "Vollzug erfolgt im Rahmen vorhandener Mittel" ohne Pruefung
+- "Vollzug erfolgt im Rahmen vorhandener Mittel" ohne Prüfung
 - "IT-Systeme sind vorhanden" ohne Konkretisierung
 - Konnexitaet ignoriert
 - "Inkrafttreten am Tag nach Verkuendung" trotz IT-Erfordernis
@@ -116,4 +116,4 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

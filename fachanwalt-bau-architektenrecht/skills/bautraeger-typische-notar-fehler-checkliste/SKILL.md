@@ -14,7 +14,7 @@ description: "Typische Notar-Fehler im Bautraegervertrag: Skill listet die haeuf
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen für Klaerung.
+**Fokus:** Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen für Klärung.
 
 ### Bautraeger Typische Notar Fehler Checkliste
 
@@ -22,18 +22,18 @@ description: "Typische Notar-Fehler im Bautraegervertrag: Skill listet die haeuf
 
 ### Ungenuegende Bonitaetsklaerung
 - Notar pruef im Voraus den Grundbuchstand, oft aber nicht die Bonitaet des Bautraegers.
-- Erwerber muss selbst pruefen.
+- Erwerber muss selbst prüfen.
 
 ### Vereinfachte Belehrung
 - Notar legt MaBV-Schutz nicht ausreichend dar.
 - Belehrung sollte konkret und schriftlich sein.
 
 ### Uebersetzte Pauschalpreise
-- Klauseln zu Sonderwuensche mit pauschalen Aufpreisen koennen unangemessen sein.
+- Klauseln zu Sonderwuensche mit pauschalen Aufpreisen können unangemessen sein.
 
 ### Unklare Sonderwunschregelung
 - Genaue Definition fehlt.
-- Streit ueber Mehrkosten ist vorprogrammiert.
+- Streit über Mehrkosten ist vorprogrammiert.
 
 ### Fehlende Festlegung der Anlagen
 - Baubeschreibung ist Anlage, aber Stand nicht klar.
@@ -45,10 +45,10 @@ description: "Typische Notar-Fehler im Bautraegervertrag: Skill listet die haeuf
 
 ## Empfehlung Erwerber
 
-1. Vor Beurkundungstermin: Vertrag von Anwalt pruefen lassen.
+1. Vor Beurkundungstermin: Vertrag von Anwalt prüfen lassen.
 2. Eigene Nachfragen schriftlich vorbereiten.
 3. Vertragsentwurf mindestens 2 Wochen vor Termin (§ 17 Abs. 2a BeurkG).
-4. Anwesenheit Anwalt beim Notartermin moeglich.
+4. Anwesenheit Anwalt beim Notartermin möglich.
 
 ## Pruefraster
 

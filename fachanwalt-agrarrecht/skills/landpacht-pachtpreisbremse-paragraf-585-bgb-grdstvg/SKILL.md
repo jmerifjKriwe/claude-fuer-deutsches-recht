@@ -7,7 +7,7 @@ description: "Ueberhoehte Landpacht und Pachtpreiskontrolle nach Paragraf 4 LPac
 
 ## Einsatzlage
 
-Verpaechter V verlangt von Paechter P 1850 EUR pro Hektar pro Jahr fuer Ackerland in Brandenburg; ortsueblich sind 480 EUR. Pacht ist anzeigepflichtig.
+Verpaechter V verlangt von Paechter P 1850 EUR pro Hektar pro Jahr für Ackerland in Brandenburg; ortsueblich sind 480 EUR. Pacht ist anzeigepflichtig.
 
 ## Normenanker
 

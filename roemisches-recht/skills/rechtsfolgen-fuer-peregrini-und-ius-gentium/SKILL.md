@@ -3,7 +3,7 @@ name: rechtsfolgen-fuer-peregrini-und-ius-gentium
 description: "Rechtsfolgen für Peregrini und das ius gentium. Skill behandelt die Stellung der Auslaender vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Quellenmatrix im Römisches Recht."
 ---
 
-# Rom 156 Rechtsfolgen Fuer Peregrini Und Ius Gentium
+# Rom 156 Rechtsfolgen Für Peregrini Und Ius Gentium
 
 ## Quellenanker
 

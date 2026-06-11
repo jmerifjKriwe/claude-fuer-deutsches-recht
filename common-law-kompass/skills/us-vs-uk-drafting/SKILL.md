@@ -52,7 +52,7 @@ Kläre vor der Vergleichsanalyse:
 - *Arnold v Britton* [2015] UKSC 36, [2015] AC 1619 — UK Supreme Court betont: klarer Vertragswortlaut schlaegt kontextuelle Auslegung; englisches Recht tendiert zu wortgetreuer Auslegung bei gut gedrafteten Texten.
 - *Investors Compensation Scheme v West Bromwich* [1998] 1 WLR 896 (HL) — Lord Hoffmann: Kontext und Hintergrundwissen beeinflussen Bedeutung; englische Auslegung ist kontextuell, aber nicht rewriting.
 - *Frigaliment Importing Co v BNS International Sales Corp* 190 F Supp 116 (SDNY 1960) — US-Klassiker zu Vertragsauslegung ("What is chicken?"): Trade usage, course of dealing und course of performance als Auslegungsquellen nach UCC.
-- *Pacific Gas & Electric Co v GW Thomas Drayage* 69 Cal 2d 33 (Cal 1968) — US (California) Parol Evidence Rule: extrinsic evidence grundsaetzlich zulaessig zur Klaerung von Ambiguities — ein fundamentaler Unterschied zu klassischer englischer plain-meaning-Auslegung.
+- *Pacific Gas & Electric Co v GW Thomas Drayage* 69 Cal 2d 33 (Cal 1968) — US (California) Parol Evidence Rule: extrinsic evidence grundsätzlich zulässig zur Klärung von Ambiguities — ein fundamentaler Unterschied zu klassischer englischer plain-meaning-Auslegung.
 
 ## UK vs US Drafting-Vergleichsmatrix
 
@@ -64,7 +64,7 @@ Kläre vor der Vergleichsanalyse:
 | Material Adverse Change | Court-sceptisch (Akorn v Fresenius - Delaware) | MAC-Trigger schwer auszuloesen; hohe Schwelle | MAC als Force-Majeure-Ersatz missverstehen |
 | Entire Agreement Clause | Sperrt nur collateral warranties, nicht statutory misrep | Merger Clause sperrt Parol Evidence breiter | Als vollstaendigen Haftungsausschluss ueberschaetzen |
 | Good Faith | Kein allgemeiner implied duty (Walford v Miles) | UCC § 1-304: duty of good faith bei UCC-Vertraegen | BGB-Treu-und-Glauben-Mastab anlegen |
-| Limitation of Liability | UCTA reasonableness test | NY: Generally enforceable, aber gross negligence nicht ausschliessbar | Cap zu hoch oder zu niedrig ansetzen |
+| Limitation of Liability | UCTA reasonableness test | NY: Generally enforceable, aber groß negligence nicht ausschliessbar | Cap zu hoch oder zu niedrig ansetzen |
 | Notice Provisions | Strict compliance gefordert | Substantial compliance oft ausreichend | Notice-Fristen als Formsache behandeln |
 
 ## Normen und Quellen

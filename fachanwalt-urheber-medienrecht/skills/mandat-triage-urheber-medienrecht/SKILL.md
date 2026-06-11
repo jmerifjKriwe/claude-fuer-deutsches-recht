@@ -8,7 +8,7 @@ description: "Urheber- und Medienrechtsmandat schnell einordnen und naechste Sch
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Gegendarstellung Presse Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Urheber Medienrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Gegendarstellung Presse Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Urheber Medienrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -104,4 +104,4 @@ Schritt 5: Routing zum Folge-Skill
 
 - `erstgespraech-mandatsannahme` — vollstaendige Mandatsannahme
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
-- `fachanwalt-urheber-medienrecht-orientierung` — Normen-Uebersicht
+- `fachanwalt-urheber-medienrecht-orientierung` — Normen-Übersicht

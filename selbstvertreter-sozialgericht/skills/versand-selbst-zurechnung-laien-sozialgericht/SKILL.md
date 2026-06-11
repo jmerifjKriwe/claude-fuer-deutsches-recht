@@ -13,11 +13,11 @@ description: "Beweise für den Versand sicher organisieren. Einlieferungsschein 
 
 ## Worum geht es?
 
-Wenn Sie etwas abschicken, brauchen Sie einen Beweis, dass es angekommen ist. Sonst koennen Sie nicht nachweisen, dass Sie rechtzeitig waren. Diese Skill zeigt, welche Beweise wann gelten — und wie Sie sie aufheben.
+Wenn Sie etwas abschicken, brauchen Sie einen Beweis, dass es angekommen ist. Sonst können Sie nicht nachweisen, dass Sie rechtzeitig waren. Diese Skill zeigt, welche Beweise wann gelten — und wie Sie sie aufheben.
 
 ## In einfacher Sprache
 
-Wenn Sie etwas abschicken, sammeln Sie den Beweis. Sonst kann jemand sagen, der Brief ist nie angekommen. Wir zeigen Ihnen, wie das geht und was Sie alles aufheben muessen.
+Wenn Sie etwas abschicken, sammeln Sie den Beweis. Sonst kann jemand sagen, der Brief ist nie angekommen. Wir zeigen Ihnen, wie das geht und was Sie alles aufheben müssen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -85,7 +85,7 @@ Bei Einschreiben:
 
 - www.deutschepost.de/sendungsverfolgung
 - Sendungsnummer eingeben.
-- Status pruefen.
+- Status prüfen.
 - Bei "Zustellung erfolgt" → Screenshot machen.
 
 ### Schritt 7 — Bei Probleme: Beweis verteidigen
@@ -94,11 +94,11 @@ Bei Einschreiben:
 - Legen Sie Sendebericht, Rueckschein oder Stempel vor.
 - Bei Online-Sendungen: digitale Quittung.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Originalbelege NIE wegwerfen**: auch nicht "nach Erledigung". Lieber zu lange aufheben.
-- **Lesbarkeit pruefen**: Sendeberichte verblassen mit der Zeit. Kopie / Scan empfohlen.
-- **Bei Streit liegt die Beweislast bei Ihnen**: Sie muessen den Zugang beweisen.
+- **Lesbarkeit prüfen**: Sendeberichte verblassen mit der Zeit. Kopie / Scan empfohlen.
+- **Bei Streit liegt die Beweislast bei Ihnen**: Sie müssen den Zugang beweisen.
 
 ## Typische Fehler
 

@@ -43,12 +43,12 @@ Für jeden Edge-Case eine Tabelle ausgeben:
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **Bei Edge-Case immer Sachverhaltsdokumentation als erste Aktivitaet**: Photos, Belege, Vertrags-PDFs, Reisekalender, IT-Login-Logs — bevor das Memo geschrieben wird. Pruefer setzen den Massstab bei den Belegen, nicht bei der juristischen Argumentation.
-- **Doppelbesteuerung sofort rechnerisch darstellen**: Welche Steuer fiel in welchem Staat an? Welche Bemessungsgrundlage? Welcher Bescheid liegt vor? Pruefer und MAP-Antraege verlangen Zahlentransparenz.
-- **Beneficial-Ownership-Pruefung bei Holding-Edge-Cases**: nicht nur § 50d Abs. 3 EStG, sondern auch DBA-eigene Beneficial-Ownership-Klausel; bei MLI-Anpassung zusaetzlich PPT.
-- **Bei Hybrid-Gesellschaften (LLC, LP, CV)**: BMF-Schreiben 26.09.2014 ist Hauptdokument; aktuellen Stand im BMF-Verzeichnis pruefen.
+- **Bei Edge-Case immer Sachverhaltsdokumentation als erste Aktivitaet**: Photos, Belege, Vertrags-PDFs, Reisekalender, IT-Login-Logs — bevor das Memo geschrieben wird. Prüfer setzen den Massstab bei den Belegen, nicht bei der juristischen Argumentation.
+- **Doppelbesteuerung sofort rechnerisch darstellen**: Welche Steuer fiel in welchem Staat an? Welche Bemessungsgrundlage? Welcher Bescheid liegt vor? Prüfer und MAP-Antraege verlangen Zahlentransparenz.
+- **Beneficial-Ownership-Prüfung bei Holding-Edge-Cases**: nicht nur § 50d Abs. 3 EStG, sondern auch DBA-eigene Beneficial-Ownership-Klausel; bei MLI-Anpassung zusaetzlich PPT.
+- **Bei Hybrid-Gesellschaften (LLC, LP, CV)**: BMF-Schreiben 26.09.2014 ist Hauptdokument; aktuellen Stand im BMF-Verzeichnis prüfen.
 - **Bei Stock Options/RSU**: Vesting-Kalender als Excel mit Datum pro Tranche; Lohnsteuer-Aufteilung nach Anwesenheitstagen je Staat.
-- **MAP-Antrag-Frist im konkreten DBA**: viele DBA fordern Antrag innerhalb von 3 Jahren ab erster Mitteilung der Massnahme — Frist nicht verpassen.
+- **MAP-Antrag-Frist im konkreten DBA**: viele DBA fordern Antrag innerhalb von 3 Jahren ab erster Mitteilung der Maßnahme — Frist nicht verpassen.
 - **EU-DBA-SBG-Antrag** parallel zum MAP bei EU-Sachverhalten — nicht eines opfern, weil das andere informeller wirkt.
 
 ## Trade-off-Tabelle (Edge-Case-typisch)
@@ -56,13 +56,13 @@ Für jeden Edge-Case eine Tabelle ausgeben:
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Bewusste BS-Begruendung vs. Vermeidung | aktive lokale Geschaeftstaetigkeit, BS akzeptieren | Aktivitaeten reduzieren auf Vorbereitung/Hilfsfunktion | bei lukrativen Maerkten Pfad A; bei Pilotprojekt Pfad B |
-| Hybrid-Gesellschaft (US-LLC) als transparent vs. intransparent | transparent (DE-Sicht, mit BMF 26.09.2014) | intransparent (US-Sicht) | Qualifikationskonflikt — frueh klaeren, ggf. MAP |
+| Hybrid-Gesellschaft (US-LLC) als transparent vs. intransparent | transparent (DE-Sicht, mit BMF 26.09.2014) | intransparent (US-Sicht) | Qualifikationskonflikt — frueh klären, ggf. MAP |
 | Stock Options bei Wegzug: Realisierung vor vs. nach Wegzug | vor Wegzug: voll DE-besteuert | nach Wegzug: Anteil auslaendischer Vesting-Periode | bei nachgewiesener Auslandstaetigkeit Aufteilungsmodell |
 | Pensionaer Wohnsitz Portugal NHR: NHR aktivieren oder nicht | NHR aktiv: niedrige PT-Steuer, aber § 50d Abs. 9 EStG-Risiko | NHR nicht aktiv: regulaere PT-Besteuerung, geringeres § 50d-Risiko | Modellrechnung pro Jahr; NHR oft trotzdem vorteilhaft, aber DE-Anrechnung kann drohen |
 | Dreieckssachverhalt: 3 Staaten besteuern | komplexes MAP zwischen allen Beteiligten | unilaterale § 34c-Anrechnung in DE | bei DE-Ansaessigkeit erst § 34c durchrechnen; MAP bei Restdoppelbesteuerung |
 | Treaty Shopping: Strukturoptimierung | EU-Holding zwischenschalten | Direktstruktur | § 50d Abs. 3 EStG, PPT, LOB — Pfad A nur bei echter Substanz |
 
-## Was Reviewer/Pruefer triggert (Edge-Cases)
+## Was Reviewer/Prüfer triggert (Edge-Cases)
 
 - **Doppelte Ansaessigkeit als "geloest" behauptet** ohne Tie-Breaker-Subsumtion.
 - **Home-Office-BS argumentiert** ohne Verfuegungsmacht des Arbeitgebers.
@@ -70,9 +70,9 @@ Für jeden Edge-Case eine Tabelle ausgeben:
 - **LLC/LP-Qualifikation in DE und Quellenstaat nicht abgestimmt**.
 - **Immobilien-Holding (Art. 13 DBA)**: grundstuecksreiche Gesellschaft nicht erkannt — falsche Verteilungszuweisung.
 - **Stock Options/RSU nicht nach Vesting aufgeteilt**.
-- **Pension NHR Portugal**: § 50d Abs. 9 EStG-Pruefung fehlt.
+- **Pension NHR Portugal**: § 50d Abs. 9 EStG-Prüfung fehlt.
 - **Star-Company-Substanz nicht dokumentiert**.
-- **Dreiecksfall vorschnell als Doppelbesteuerung behandelt** — pruefen, ob nur einmal effektive Besteuerung.
+- **Dreiecksfall vorschnell als Doppelbesteuerung behandelt** — prüfen, ob nur einmal effektive Besteuerung.
 - **§ 50d Abs. 3 EStG-Look-Through fehlt** seit AbzStEntModG 2021 anders gefasst.
 
 ## Edge-Case-Mustertabelle (Anwendung)
@@ -81,7 +81,7 @@ Für jeden Edge-Case eine Tabelle ausgeben:
 |---|---|---|---|---|
 | Doppelte Ansaessigkeit | Art. 4 + Tie-Breaker | §§ 8, 9 AO; § 6 AStG | Ansaessigkeitsbescheinigungen, Indizientabelle | Wegzugsbesteuerung |
 | Home-Office | Art. 5 + Konsultationsvereinb. | § 12 AO | Arbeitgeberbescheinigung Home-Office-Tage | BS-Risiko, 183-Tage |
-| BS ohne Schild | Art. 5 Abs. 1-7 + MLI 12/13 | § 12 AO | Mietvertrag, Personalliste, FRA-Analyse | AOA-Pruefung |
+| BS ohne Schild | Art. 5 Abs. 1-7 + MLI 12/13 | § 12 AO | Mietvertrag, Personalliste, FRA-Analyse | AOA-Prüfung |
 | Hybridgesellschaft | DBA-Qualifikation + BMF 26.09.2014 | § 1 KStG | Gesellschaftsvertrag, US-Check-the-Box-Election | Qualifikationskonflikt |
 | Immobilien-Holding | Art. 13 DBA | § 49 EStG | Bewertungsgutachten Immobilien | Belegenheitsstaat |
 | Pension | Art. 18, 19 | § 22 Nr. 1 EStG | Rentenbescheinigung | § 50d Abs. 9 EStG |
@@ -92,7 +92,7 @@ Für jeden Edge-Case eine Tabelle ausgeben:
 
 ## Berechnungsbeispiel: Stock Options bei Wegzug
 
-Sachverhalt: Mandant in DE, 4-jaehriger Vesting-Plan ueber 100.000 Options. Nach Jahr 2 Wegzug nach CH. Vesting jaehrlich 25 Prozent.
+Sachverhalt: Mandant in DE, 4-jaehriger Vesting-Plan über 100.000 Options. Nach Jahr 2 Wegzug nach CH. Vesting jaehrlich 25 Prozent.
 
 | Position | DE-Periode | CH-Periode |
 |---|---|---|
@@ -114,8 +114,8 @@ Sachverhalt: Mandant DE-ansaessig, BS in Staat B, Zahlung aus Staat C (Quellenst
 | DBA DE-B existiert? | DBA-[B] | [ja/nein] |
 | DBA DE-C existiert? | DBA-[C] | [ja/nein] |
 | DBA B-C existiert? | DBA zwischen B und C | nicht direkt relevant für DE-Memo |
-| Welchen DBA-Schutz hat DE-BS in B für Einkuenfte aus C? | DBA-[B] und nationales Recht B | live pruefen |
-| Anrechnung in DE: § 34c EStG für auslaendische Steuer aus C oder B? | § 34c EStG | sorgfaeltige Pruefung — Doppelanrechnung droht |
-| Switch-Over bei passiver Niedrigsteuer-BS? | § 20 Abs. 2 AStG | bei passiver BS Pruefung |
+| Welchen DBA-Schutz hat DE-BS in B für Einkuenfte aus C? | DBA-[B] und nationales Recht B | live prüfen |
+| Anrechnung in DE: § 34c EStG für auslaendische Steuer aus C oder B? | § 34c EStG | sorgfaeltige Prüfung — Doppelanrechnung droht |
+| Switch-Over bei passiver Niedrigsteuer-BS? | § 20 Abs. 2 AStG | bei passiver BS Prüfung |
 | MAP DE-B oder DE-C? | DBA Art. 25 | bilateral |
-| Verstaendigung trilateral nicht moeglich | — | nur zwei DBA-Verfahren parallel |
+| Verstaendigung trilateral nicht möglich | — | nur zwei DBA-Verfahren parallel |

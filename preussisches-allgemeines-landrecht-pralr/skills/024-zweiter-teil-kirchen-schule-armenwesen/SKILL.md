@@ -28,7 +28,7 @@ description: "PrALR: Zweiter Teil Kirchen Schule Armenwesen: prüft konkret die 
 ## Subsumtionsbeispiel: Schulpflicht 1830
 
 Bauer schickt Kind nicht zur Schule.
-- **ALR II 12**: Schulpflicht; Sanktion ueber Polizey.
+- **ALR II 12**: Schulpflicht; Sanktion über Polizey.
 - **Heute**: Schulgesetze der Länder mit Schulpflicht (Art. 7 GG).
 
 ## Heutige Fortwirkung

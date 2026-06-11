@@ -40,7 +40,7 @@ Das DBA-Estland vom 29.11.1996 (BGBl. 1998 II S. 38) regelt das Verhaeltnis zum 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-Estland sind selten; bei Substanz-/Hinzurechnungsfragen einschlaegig sind die allgemeinen BFH-Entscheidungen zu § 50d Abs. 3 EStG und § 8 AStG (vgl. `stb-dba-quellensteuer-erstattung-bzst-50c-estg`).
 - Niedrigsteuer-Schwelle § 8 Abs. 5 AStG: 15 Prozent (eingefuehrt durch ATADUmsG vom 25.06.2021 mit Wirkung ab VZ 2022). Relevant bei estnischen Gesellschaften ohne Ausschuettung (Distribution Tax).
-- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL und § 50g EStG / ZinsLizenzRL: aktuellen Stand beim BMF pruefen.
+- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL und § 50g EStG / ZinsLizenzRL: aktuellen Stand beim BMF prüfen.
 
 ## Land-spezifisches
 
@@ -55,14 +55,14 @@ Das DBA-Estland vom 29.11.1996 (BGBl. 1998 II S. 38) regelt das Verhaeltnis zum 
 - Loehne 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10 n.F. nach Aenderungsprotokoll 2020): 5 Prozent des Bruttobetrags, wenn Nutzungsberechtigter eine Gesellschaft ist, die waehrend 365 Tagen unmittelbar ueber mindestens 25 Prozent des Kapitals verfuegt; 15 Prozent in allen anderen Faellen.
+- **Dividenden** (Art. 10 n.F. nach Aenderungsprotokoll 2020): 5 Prozent des Bruttobetrags, wenn Nutzungsberechtigter eine Gesellschaft ist, die waehrend 365 Tagen unmittelbar über mindestens 25 Prozent des Kapitals verfuegt; 15 Prozent in allen anderen Faellen.
 - **Zinsen** (Art. 11), **Lizenzgebuehren** (Art. 12): konkrete Saetze aus dem konsolidierten DBA-Text entnehmen; EU-MTRL (§ 43b EStG) und ZinsLizenzRL (§ 50g EStG) gehen als EU-Recht dem DBA vor.
 
 ### Vermeidungs-Methode
 - Anrechnung ueberwiegend.
 
 ### Besonderheiten
-- **Estnisches Steuersystem**: 0 Prozent auf einbehaltene Gewinne, KSt nur bei Ausschuettung (20/80, also 20 Prozent vom Brutto bzw. 25 Prozent vom Netto). Pruefung **Niedrigsteuer-Schwelle § 8 AStG** und Pillar Two.
+- **Estnisches Steuersystem**: 0 Prozent auf einbehaltene Gewinne, KSt nur bei Ausschuettung (20/80, also 20 Prozent vom Brutto bzw. 25 Prozent vom Netto). Prüfung **Niedrigsteuer-Schwelle § 8 AStG** und Pillar Two.
 - **CFC** § 7 ff. AStG bei Holding ohne Ausschuettung — passive Einkuenfte und niedrige effektive Steuer.
 
 ## Workflow
@@ -75,7 +75,7 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 4. Vermeidungsmethode — Anrechnung ueberwiegend.
 5. Innerstaatliche Umsetzung — § 7 ff. AStG (CFC bei passiven Einkuenften und unterstellt niedriger Belastung wegen Distribution Tax); Pillar Two; § 50d Abs. 3 EStG-Substanztest bei E-Residency.
 
-BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung § 50c Abs. 3 EStG (Frist vier Jahre); Antraege ueber BZSt-Online-Portal (BOP). Anlage: estnische Ansaessigkeitsbescheinigung (Maksu- ja Tolliamet).
+BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung § 50c Abs. 3 EStG (Frist vier Jahre); Antraege über BZSt-Online-Portal (BOP). Anlage: estnische Ansaessigkeitsbescheinigung (Maksu- ja Tolliamet).
 
 ## Strategie und Praxis-Tipps
 
@@ -88,15 +88,15 @@ BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung 
 
 - **Erstattungsverfahren EE → DE-Mandant**: Antrag bei Maksu- ja Tolliamet (MTA, Steuer- und Zollamt); Online-Portal "e-MTA" (estnisches eGovernment-Vorzeigeprojekt, vom Anwender mit aktuellem Stand zu verifizieren). Ansaessigkeitsbescheinigung der MTA als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Estnisch sowie Englisch (DBA-Estland 1996 als modernes DBA trilingual). Englische Fassung als Pivot in der Praxis oft am laengsten verfuegbar.
-- **Lokaler Berater**: Bei estnischer OÜ (Osauehing, GmbH-Aequivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines estnischen "maksukonsultant" wegen der Sonderheit des Distribution-Tax-Systems und der E-Residency-Diskussion.
+- **Lokaler Berater**: Bei estnischer OÜ (Osauehing, GmbH-Äquivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines estnischen "maksukonsultant" wegen der Sonderheit des Distribution-Tax-Systems und der E-Residency-Diskussion.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (EE seit 2004).
 - **e-Residency-Falle**: Estnische e-Residency erlaubt Online-Gesellschaftsgruendung ohne physische Praesenz — aber Steueransaessigkeit nach Art. 4 DBA setzt tatsaechliche Geschaeftsleitung (POEM) voraus, die bei reiner Online-Verwaltung oft im Wohnsitzstaat des Geschaeftsfuehrers liegt.
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
-- **Distribution Tax (Estonian Tax Model)**: Estland besteuert nur bei Ausschuettung mit effektiv 20/80 (= 20 Prozent vom Bruttogewinn bzw. 25 Prozent vom Netto, je nach Berechnung; bei "regularer" Ausschuettung 14/86 reduziert auf 14 Prozent — vom Anwender mit aktuellem estnischem Steuerrecht zu verifizieren). Einbehaltene Gewinne bleiben ohne KSt. CFC-Hinzurechnung § 7 ff. AStG nach Distribution-Tax-Hoehe (oft unter 15 Prozent effektiv).
-- **AStG-Niedrigsteuer-Schwelle 15 Prozent**: bei estnischer OÜ mit ueberwiegend einbehaltenen Gewinnen ist die effektive Steuerquote praktisch 0 Prozent — CFC obligatorisch pruefen.
-- **Pillar Two seit 2024**: EE musste umsetzen — Top-Up auf 15 Prozent für multinationale Konzerne ueber 750 Mio EUR Umsatz.
+- **Distribution Tax (Estonian Tax Model)**: Estland besteuert nur bei Ausschuettung mit effektiv 20/80 (= 20 Prozent vom Bruttogewinn bzw. 25 Prozent vom Netto, je nach Berechnung; bei "regularer" Ausschuettung 14/86 reduziert auf 14 Prozent — vom Anwender mit aktuellem estnischem Steuerrecht zu verifizieren). Einbehaltene Gewinne bleiben ohne KSt. CFC-Hinzurechnung § 7 ff. AStG nach Distribution-Tax-Höhe (oft unter 15 Prozent effektiv).
+- **AStG-Niedrigsteuer-Schwelle 15 Prozent**: bei estnischer OÜ mit ueberwiegend einbehaltenen Gewinnen ist die effektive Steuerquote praktisch 0 Prozent — CFC obligatorisch prüfen.
+- **Pillar Two seit 2024**: EE musste umsetzen — Top-Up auf 15 Prozent für multinationale Konzerne über 750 Mio EUR Umsatz.
 - **MLI nicht anwendbar auf DBA-Estland 1996**: Bilaterale Umsetzung der BEPS-Mindeststandards durch Aenderungsprotokoll 2020 (BGBl. 2021 II S. 562).
 - **§ 50d Abs. 3 EStG bei E-Residency-Strukturen**: praktisch kein Treaty-Schutz für Briefkasten-Holdings.
 
@@ -110,20 +110,20 @@ BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung 
 
 ## Berechnungsbeispiel
 
-Deutscher Mandant gruendet ueber estnische e-Residency eine OÜ; Gewinn 100.000 EUR jaehrlich aus IT-Dienstleistungen. POEM nach Pruefung in DE (Mandant verwaltet OÜ online aus Berlin).
+Deutscher Mandant gruendet über estnische e-Residency eine OÜ; Gewinn 100.000 EUR jaehrlich aus IT-Dienstleistungen. POEM nach Prüfung in DE (Mandant verwaltet OÜ online aus Berlin).
 
 - Variante 1 (POEM DE): OÜ wird DE-steueransaessig (§ 1 KStG); voller DE-KSt-Satz 15 Prozent plus SolZ plus GewSt — wirtschaftlich keine EE-Vorteile.
 - Variante 2 (POEM EE, mit substanzieller Geschaeftsleitung in Tallinn — Mitarbeiter, Buero, Geschaeftsfuehrer mit Wohnsitz EE): Einbehaltung 100.000 EUR ohne EE-KSt. Bei Ausschuettung 100.000 EUR an DE-Anteilseigner: EE-Distribution-Tax 20/80 = 25.000 EUR EE-Steuer. DE-Anteilseigner als natuerliche Person: § 32d EStG-Abgeltungsteuer 25 Prozent zzgl. SolZ = 26,375 Prozent auf 75.000 EUR Brutto = 19.781 EUR.
-- DE-Anrechnung EE-Distribution-Tax 25.000 EUR auf DE-Abgeltungsteuer 19.781 EUR: nur bis Hoehe DE-Steuer 19.781 EUR anrechenbar — Anrechnungsueberhang 5.219 EUR verloren.
+- DE-Anrechnung EE-Distribution-Tax 25.000 EUR auf DE-Abgeltungsteuer 19.781 EUR: nur bis Höhe DE-Steuer 19.781 EUR anrechenbar — Anrechnungsueberhang 5.219 EUR verloren.
 - Praxis: bei Substanz und richtigem POEM ist Estland für IT-Dienstleister attraktiv, aber bei Ausschuettung kein Steuervorteil gegenueber DE; bei langjaehriger Einbehaltung Steueraufschub-Vorteil.
 
 ## Mandatsablauf in der Praxis
 
 1. **Aufnahme**: Konstellation (IT-Holding, OÜ-Geschaeftstaetigkeit, e-Residency-Modell, Beteiligung).
-2. **Strukturierung**: POEM-Pruefung bei e-Residency; Distribution-Tax-System mit Aufschub-Strategie; CFC-Pruefung; bei Holding Substanz § 50d Abs. 3 EStG.
-3. **Antraege**: Ansaessigkeitsbescheinigung MTA ueber e-MTA-Portal; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+2. **Strukturierung**: POEM-Prüfung bei e-Residency; Distribution-Tax-System mit Aufschub-Strategie; CFC-Prüfung; bei Holding Substanz § 50d Abs. 3 EStG.
+3. **Antraege**: Ansaessigkeitsbescheinigung MTA über e-MTA-Portal; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: EE-Erklaerung jaehrlich (sehr digitalisiert); DE-Erklaerung mit Anrechnung und ggf. CFC-Hinzurechnung.
-5. **Audit-Vorbereitung**: EE-Pruefung digital effizient; DE-FA-Pruefung CFC-Berechnung und POEM-Indizien.
+5. **Audit-Vorbereitung**: EE-Prüfung digital effizient; DE-FA-Prüfung CFC-Berechnung und POEM-Indizien.
 
 ## Ausgabeformat für Mandanten-Memo Estland
 

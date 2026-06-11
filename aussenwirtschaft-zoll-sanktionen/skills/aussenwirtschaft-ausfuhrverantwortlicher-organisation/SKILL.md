@@ -16,17 +16,17 @@ description: "Benennung und Organisation des Ausfuhrverantwortlichen nach AWG §
 ## Mandantenfall
 
 - KMU erhalt BAFA-Anfrage und stellt fest, dass kein benannter Ausfuhrverantwortlicher existiert.
-- Konzernmutter prueft, ob Ausfuhrverantwortlicher-Rolle in shared-service-Struktur zentralisiert werden kann.
+- Konzernmutter prüft, ob Ausfuhrverantwortlicher-Rolle in shared-service-Struktur zentralisiert werden kann.
 - Neugegrundetes Tech-Unternehmen mit Dual-Use-Produkten muss Exportkontroll-Funktion aufbauen.
 
 ## Erste Schritte
 
-1. Gesetzliche Pflicht zur Benennung pruefen: § 7 AWG, BAFA-Merkblatt Exportverantwortung.
+1. Gesetzliche Pflicht zur Benennung prüfen: § 7 AWG, BAFA-Merkblatt Exportverantwortung.
 2. Geeignete Person identifizieren: Kenntnisse im Exportkontrollrecht, Erreichbarkeit, Befugnisse.
 3. Stellenbeschreibung erstellen: Aufgaben, Berichtslinie an Geschaeftsfuehrung, Vertretung.
 4. Interne Vollmacht und Entscheidungskompetenzen dokumentieren (Freigabe, Hold, Eskalation).
 5. Schulungsplan für initialen und laufenden Wissenserhalt erstellen.
-6. BAFA ueber Benennung informieren falls explizit gefordert; Dokumentation im ICP ablegen.
+6. BAFA über Benennung informieren falls explizit gefordert; Dokumentation im ICP ablegen.
 
 ## Rechtsrahmen
 

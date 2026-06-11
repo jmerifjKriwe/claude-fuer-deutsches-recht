@@ -55,7 +55,7 @@ Mit zunehmender Integration von KI-Systemen in Kanzleimanagement-Software (z.B. 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 22 Abs. 1 DSGVO — Verbot vollautomatisierter Einzelentscheidungen mit Rechtswirkung
 - Art. 22 Abs. 2 lit. a-c DSGVO — Ausnahmen (Vertrag, gesetzliche Pflicht, Einwilligung)
-- Art. 22 Abs. 3 DSGVO — Widerspruchsrecht und menschliche Pruefung
+- Art. 22 Abs. 3 DSGVO — Widerspruchsrecht und menschliche Prüfung
 - Art. 13/14 DSGVO — Informationspflichten bei automatisierten Entscheidungen
 - § 26 BDSG — Beschaeftigtendatenschutz bei KI-Mitarbeiterbewertung
 
@@ -63,7 +63,7 @@ Mit zunehmender Integration von KI-Systemen in Kanzleimanagement-Software (z.B. 
 1. Liegt eine vollautomatisierte Entscheidung mit Rechtswirkung oder erheblicher Beeintraechtigung vor?
 2. Ist eine Rechtsgrundlage nach Art. 22 Abs. 2 lit. a-c DSGVO gegeben?
 3. Ist ein menschlicher Ueberpruefer vorgesehen — oder stempelt er nur ab (Stempel-Risiko)?
-4. Werden Betroffene nach Art. 13/14 DSGVO ueber die automatisierte Entscheidung informiert?
+4. Werden Betroffene nach Art. 13/14 DSGVO über die automatisierte Entscheidung informiert?
 5. Ist ein Widerspruchsrecht und eine Korrekturmoeglichkeit nach Art. 22 Abs. 3 DSGVO implementiert?
 
 ## Output-Template — Art. 22 DSGVO-Pruefprotokoll

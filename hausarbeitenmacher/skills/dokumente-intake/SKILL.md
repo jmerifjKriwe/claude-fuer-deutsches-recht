@@ -7,7 +7,7 @@ description: "Dokumentenintake für Jura-Hausarbeiten: sortiert Sachverhalt, Lit
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Hausarbeitenmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Hausarbeitenmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -34,7 +34,7 @@ Dieser Dokumenten-Intake für **Hausarbeitenmacher** ordnet Anlagen, Registerdat
 - `durch-schriftsatz-brief-und-memo-bausteine` — Durch Schriftsatz Brief und Memo Bausteine
 - `europarecht-anwendbarkeit-hausarbeiten` — Europarecht Anwendbarkeit Hausarbeiten
 - `europarecht-interessen-fertigen-sonderfall` — Europarecht Interessen Fertigen Sonderfall
-- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet Routing Zivil Oeffentlich Straf
+- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet Routing Zivil Öffentlich Straf
 - `fertigen-sonderfall-und-edge-case` — Fertigen Sonderfall und Edge Case
 - `fuehrt-risikoampel-und-gegenargumente` — Fuehrt Risikoampel und Gegenargumente
 - `gliederung-mit-tiefenstruktur` — Gliederung mit Tiefenstruktur

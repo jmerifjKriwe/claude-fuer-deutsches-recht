@@ -22,7 +22,7 @@ description: "Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsisten
 ## Rechtlicher und methodischer Rahmen
 
 - § 305c Abs. 2 BGB: Unklarheitenregel zulasten des Verwenders. Inkonsistente Begriffe gehen zulasten des AGB-Verwenders.
-- § 307 Abs. 1 Satz 2 BGB: Transparenzgebot. Defined Terms muessen klar verstaendlich definiert sein.
+- § 307 Abs. 1 Satz 2 BGB: Transparenzgebot. Defined Terms müssen klar verstaendlich definiert sein.
 - §§ 133, 157 BGB: Vertragsauslegung. Defined Terms binden die Auslegung.
 - Konvention: Defined Terms grossschreiben oder kursiv setzen, damit sie im Text sichtbar sind.
 
@@ -30,7 +30,7 @@ description: "Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsisten
 
 1. **Begriffe identifizieren.** Welche Konzepte tauchen mehr als einmal auf? Welche tragen Rechtsfolgen?
 2. **Zentral oder inline?** Faustregel: mehr als zehn Begriffe oder Verwendung in mehreren Klauseln, dann zentraler Definitionen-Abschnitt.
-3. **Definitionsstruktur waehlen.** Alphabetisch (Default) oder thematisch (bei sehr grossen Vertraegen).
+3. **Definitionsstruktur waehlen.** Alphabetisch (Default) oder thematisch (bei sehr großen Vertraegen).
 4. **Defined Term auszeichnen.** Grossschreibung des Anfangs ("Vertrag", "Vertragspartei", "Closing", "Long Stop Date") oder kursiv ("Vertrag").
 5. **Definition formulieren.** Knapp, eindeutig, ohne andere Defined Terms zu verschachteln, wo unnoetig.
 6. **Konsistenzpruefung durchfuehren.** Volltextsuche, jeder Defined Term im Dokument identisch geschrieben.
@@ -77,7 +77,7 @@ wird folgender Liefervertrag (im Folgenden "Vertrag") geschlossen.
 | 1 | "Vertragspartei" | nicht vorhanden, wenn "Partei" definiert ist |
 | 2 | "Vereinbarung" | nicht vorhanden im operativen Text, wenn "Vertrag" definiert ist |
 | 3 | "vorliegender Kontrakt" | streichen |
-| 4 | "Liefergegenstand" und "Ware" | nur einer als Defined Term zulaessig |
+| 4 | "Liefergegenstand" und "Ware" | nur einer als Defined Term zulässig |
 | 5 | "Besteller" und "Auftraggeber" | nur einer |
 
 ### Anti-Pattern
@@ -98,7 +98,7 @@ wird folgender Liefervertrag (im Folgenden "Vertrag") geschlossen.
 
 ## Beispiel
 
-**Aufgabe:** "Bauen Sie aus folgendem Term Sheet einen Definitionen-Abschnitt: Lieferant ist eine GmbH, Besteller eine AG, Liefergegenstand sind Industrieventile, Closing erfolgt am Long Stop Date oder spaeter, Anlage 1 enthaelt die technische Spezifikation."
+**Aufgabe:** "Bauen Sie aus folgendem Term Sheet einen Definitionen-Abschnitt: Lieferant ist eine GmbH, Besteller eine AG, Liefergegenstand sind Industrieventile, Closing erfolgt am Long Stop Date oder später, Anlage 1 enthaelt die technische Spezifikation."
 
 **Loesung:**
 
@@ -125,4 +125,4 @@ wird folgender Liefervertrag (im Folgenden "Vertrag") geschlossen.
 ## Quellen (Stand 05/2026)
 
 - § 305c Abs. 2 BGB, § 307 Abs. 1 Satz 2 BGB, §§ 133, 157 BGB. gesetze-im-internet.de.
-- Konvention zur Defined-Terms-Auszeichnung folgt internationaler M&A-Praxis und ist in deutscher Wirtschaftsvertragsgestaltung etabliert. Konkretes Hauskonvention je Kanzlei pruefen.
+- Konvention zur Defined-Terms-Auszeichnung folgt internationaler M&A-Praxis und ist in deutscher Wirtschaftsvertragsgestaltung etabliert. Konkretes Hauskonvention je Kanzlei prüfen.

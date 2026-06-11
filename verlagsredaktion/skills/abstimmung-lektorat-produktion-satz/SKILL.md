@@ -3,7 +3,7 @@ name: abstimmung-lektorat-produktion-satz
 description: "Klaert Lektorats- und Redaktionsstandards: wer ist für welchen Pruefschritt zuständig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln im Verlagsredaktion."
 ---
 
-# Abstimmung Lektorat / Redaktion (Format-Klaerung)
+# Abstimmung Lektorat / Redaktion (Format-Klärung)
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Lektorat und Redaktion arbeiten am selben Manuskript, oft parallel. Ohne klare S
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn Lektorat und Redaktion neu aufgestellt sind, ein neues Manuskript-Tool eingefuehrt wird oder Konflikte aufkommen. Klaeren Sie:
+Sie brauchen ihn, wenn Lektorat und Redaktion neu aufgestellt sind, ein neues Manuskript-Tool eingefuehrt wird oder Konflikte aufkommen. Klären Sie:
 
 1. Welche Lektoratsdienste (intern, freie Lektorinnen, beides)?
 2. Welche Tools (Word Track Changes, LaTeX-Diff, CMS)?
@@ -83,7 +83,7 @@ Offen:
 
 **Eskalations-Notiz:**
 
-> Sehr geehrte Schriftleitung, wir bitten um Klaerung zu drei inhaltlichen Differenzen zwischen Lektorat und Redaktion bei Mueller "[Titel]":
+> Sehr geehrte Schriftleitung, wir bitten um Klärung zu drei inhaltlichen Differenzen zwischen Lektorat und Redaktion bei Mueller "[Titel]":
 >
 > 1. S. 7: Lektorat schlaegt Glaettung "innovativ" -> "neuartig" vor; Redaktion will Autorenstimme respektieren.
 > 2. S. 18: Lektorat sieht Mandantenbezug als zu duenn anonymisiert; Redaktion sieht ausreichend.

@@ -32,7 +32,7 @@ Ein Gebrauchsmuster soll angegriffen werden.
 ### Loeschungsgruende
 1. **§ 15 Abs. 1 Nr. 1 GebrMG**: Schutzgegenstand nicht schutzfaehig (§§ 1-3 GebrMG nicht erfuellt — kein erfinderischer Schritt, nicht neu, ausgeschlossener Gegenstand).
 2. **§ 15 Abs. 1 Nr. 2 GebrMG**: nicht widerrechtlich entnommen.
-3. **§ 15 Abs. 1 Nr. 3 GebrMG**: Schutzgegenstand geht ueber den Inhalt der Anmeldung hinaus.
+3. **§ 15 Abs. 1 Nr. 3 GebrMG**: Schutzgegenstand geht über den Inhalt der Anmeldung hinaus.
 
 ### Verfahren
 1. Loeschungsantrag schriftlich an DPMA — formfrei aber strukturiert.
@@ -46,7 +46,7 @@ Ein Gebrauchsmuster soll angegriffen werden.
 
 ### Strategie
 - Gegenangriff im Verletzungsverfahren typisch.
-- Aussetzung des Verletzungsverfahrens beim ZPO-Gericht moeglich, wenn Loeschung erhebliche Erfolgsaussicht hat.
+- Aussetzung des Verletzungsverfahrens beim ZPO-Gericht möglich, wenn Loeschung erhebliche Erfolgsaussicht hat.
 
 ## Quellen-Hardening
 

@@ -42,8 +42,8 @@ Mit dem KostRAeG 2025 wurden die Saetze des § 9 JVEG in Anlage 1 zum 01.06.2025
 - DGuSV-Hinweise: https://www.dgusv.de/news-blog/mehr-geld-für-sachverstaendige-was-die-neuen-verguetungssaetze-seit-juni-2025-wirklich-bedeuten/
 
 ## Rechtsprechung
-- Rechtsprechung zu §§ 8, 9, 12 JVEG (Erforderlichkeit, Plausibilitaetspruefung, Schwierigkeitsbewertung) ueber https://dejure.org und https://openjur.de verifizieren.
-- BGH-Linie zu § 8a JVEG (Kuerzung wegen Pflichtverletzung) vor Ausgabe pruefen; Aktenzeichen und Datum nicht aus Modellwissen einsetzen.
+- Rechtsprechung zu §§ 8, 9, 12 JVEG (Erforderlichkeit, Plausibilitaetspruefung, Schwierigkeitsbewertung) über https://dejure.org und https://openjur.de verifizieren.
+- BGH-Linie zu § 8a JVEG (Kuerzung wegen Pflichtverletzung) vor Ausgabe prüfen; Aktenzeichen und Datum nicht aus Modellwissen einsetzen.
 
 ## Startet bei
 Eingang einer Sachverständigenrechnung zur Festsetzung nach § 4 JVEG.

@@ -35,13 +35,13 @@ Test** entwickelt:
    den verfolgten Zweck zu erreichen.
 2. **Koniecznosc** (Erforderlichkeit): kein milderes gleich wirksames
    Mittel.
-3. **Proporcjonalnosc sensu stricto** (Verhaeltnismaessigkeit im engeren
-   Sinn): die Nachteile fuer den Betroffenen ueberwiegen nicht die
+3. **Proporcjonalnosc sensu stricto** (Verhältnismäßigkeit im engeren
+   Sinn): die Nachteile für den Betroffenen ueberwiegen nicht die
    Vorteile.
 
 Leading cases:
 
-- TK K 11/94 (Methodische Verankerung der Drei-Stufen-Pruefung),
+- TK K 11/94 (Methodische Verankerung der Drei-Stufen-Prüfung),
 - TK K 12/03 (Eigentumsfreiheit),
 - TK K 4/06 (Lustracja, Wesensgehalt),
 - TK K 23/11 (Datenschutz und Telekomvorratspeicherung),
@@ -50,7 +50,7 @@ Leading cases:
 ## Istota wolnosci i praw
 
 Der Wesensgehaltsbegriff ist in Art 31 III Konstytucji ausdruecklich
-verankert. Der TK hat ihn als **absolute Schranke** ausgepraegt: kein
+verankert. Der TK hat ihn als **absolute Schranke** ausgeprägt: kein
 Grundrecht darf in seinem Kern entleert werden. Strukturell entspricht
 dies stark Art 19 II GG. Die Lehre rezipiert deutsche Begriffe (teoria
 absolutna / wzgledna).
@@ -73,12 +73,12 @@ anerkannt; bei juengeren ist Vorsicht und kritische Lektuere geboten.
 | --- | --- |
 | Vier Stufen sequenziell | Drei Stufen Przydatnosc Koniecznosc Proporcjonalnosc |
 | Wesensgehalt Art 19 II GG | Istota wolnosci i praw Art 31 III Konstytucji |
-| Schutzbereich-Eingriff-Rechtfertigung getrennt | Integrierte Pruefung im Art 31 III-Test |
+| Schutzbereich-Eingriff-Rechtfertigung getrennt | Integrierte Prüfung im Art 31 III-Test |
 | Einschaetzungspraerogative national | Margines swobody ustawodawcy, eng kontrolliert |
 | Praktische Konkordanz | Wazenie wartosci konstytucyjnych |
-| Untermassverbot ausgepraegt | Obowiazek pozytywnej ochrony aus Art 30 (Wuerde) und Art 38 (Leben) |
+| Untermassverbot ausgeprägt | Obowiazek pozytywnej ochrony aus Art 30 (Wuerde) und Art 38 (Leben) |
 
-## Bedeutung fuer den Pruefer
+## Bedeutung für den Prüfer
 
 Bei polnischen Bezuegen:
 
@@ -92,8 +92,8 @@ Bei polnischen Bezuegen:
 
 ## Live-Recherche-Disclaimer
 
-Entscheidungen vor Zitierung verifizieren ueber trybunal gov pl;
+Entscheidungen vor Zitierung verifizieren über trybunal gov pl;
 Volltexte auch in Orzecznictwo Trybunalu Konstytucyjnego (OTK ZU).
 Aktenzeichen K (Normenkontrolle), SK (Verfassungsbeschwerde), P
 (Frage des Gerichts), U (sonstige). Stand der Rezeption nach 2017
-kritisch pruefen.
+kritisch prüfen.

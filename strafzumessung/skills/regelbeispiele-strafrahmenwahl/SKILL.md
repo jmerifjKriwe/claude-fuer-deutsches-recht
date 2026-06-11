@@ -39,9 +39,9 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
  - Berufliche / soziale Stabilisierung.
  - Lange Verfahrensdauer (Datum Ermittlungseinleitung bis Hauptverhandlung).
 - **Belegmatrix Strafschaerfungstatsachen:**
- - Einschlaegige Vorstrafen (BZRG-Auszug; Verwertungsverbot § 51 BZRG pruefen).
+ - Einschlaegige Vorstrafen (BZRG-Auszug; Verwertungsverbot § 51 BZRG prüfen).
  - Tatfolgen (Schadenshoehe, Personenschaden).
  - Bewaehrung lief? (Bewaehrungsbruch § 56f StGB).
  - Verfahren wegen anderer Taten anhaengig?
-- **Tagessatz-Hoehe § 40 II StGB:** monatliches Nettoeinkommen (Lohnabrechnungen 3 Monate); Schaetzung § 40 III StGB nur subsidiaer; Unterhaltslasten.
-- **Konsequenzen-Matrix:** Geldstrafe ueber 90 TS -> BZRG-Eintrag; Freiheitsstrafe -> ggf. Verlust Beamtenstatus § 24 BeamtStG; Eintragung im FZR / BZR.
+- **Tagessatz-Höhe § 40 II StGB:** monatliches Nettoeinkommen (Lohnabrechnungen 3 Monate); Schaetzung § 40 III StGB nur subsidiaer; Unterhaltslasten.
+- **Konsequenzen-Matrix:** Geldstrafe über 90 TS -> BZRG-Eintrag; Freiheitsstrafe -> ggf. Verlust Beamtenstatus § 24 BeamtStG; Eintragung im FZR / BZR.

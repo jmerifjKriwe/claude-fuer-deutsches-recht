@@ -33,7 +33,7 @@ description: "Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert d
 ## Antrag
 
 - Vor Antritt der Verhinderung/Kurzzeitpflege Antrag bei der Pflegekasse.
-- Rueckwirkende Beantragung bei Verhinderungspflege moeglich (innerhalb angemessener Frist).
+- Rueckwirkende Beantragung bei Verhinderungspflege möglich (innerhalb angemessener Frist).
 
 ## Pruefraster
 

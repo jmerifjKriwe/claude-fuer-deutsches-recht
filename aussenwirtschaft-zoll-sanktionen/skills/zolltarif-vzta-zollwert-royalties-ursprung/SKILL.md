@@ -21,10 +21,10 @@ description: "Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZ
 
 ## Erste Schritte
 
-1. TARIC-Abfrage: Zollsaetze Praeferenzregelungen Zollaussetzungen und Kontingente für HS-Code pruefen.
-2. APS/GSP-Berechtigung pruefen: Ist Ursprungsland begünstigtes Land? GSP Basis EBA DFQF?
-3. Zollaussetzungen pruefen: Autonome Aussetzungen nach VO 2021/2267 für Industrierohstoffe.
-4. Praeferenzkalkulation: Regel des hinreichenden Umwands und spezifische Listenregeln pruefen.
+1. TARIC-Abfrage: Zollsaetze Praeferenzregelungen Zollaussetzungen und Kontingente für HS-Code prüfen.
+2. APS/GSP-Berechtigung prüfen: Ist Ursprungsland begünstigtes Land? GSP Basis EBA DFQF?
+3. Zollaussetzungen prüfen: Autonome Aussetzungen nach VO 2021/2267 für Industrierohstoffe.
+4. Praeferenzkalkulation: Regel des hinreichenden Umwands und spezifische Listenregeln prüfen.
 5. vZTA-Strategie: Bei Unsicherheit vZTA beantragen für Planungssicherheit.
 6. Zolltarif-Optimierungsanalyse: Vergleich verschiedener Einreihungsoptionen und Praeferenzoptimierung.
 

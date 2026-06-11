@@ -30,7 +30,7 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 ## Plattform-AGB
 
 - App Store-AGB Apple: Provision 30 Prozent (15 Prozent für kleine Entwickler) — DMA-Pflicht zur Alternative.
-- Google Play-AGB: aehnlich, mit DMA-Pflicht.
+- Google Play-AGB: ähnlich, mit DMA-Pflicht.
 - Amazon Marketplace: Allgemeine Verkaufsbedingungen mit Sanktionen.
 
 ## BGH-Linie

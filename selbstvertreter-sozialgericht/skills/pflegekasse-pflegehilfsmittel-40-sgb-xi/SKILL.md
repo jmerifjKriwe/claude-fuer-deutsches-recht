@@ -16,7 +16,7 @@ description: "Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung m
 § 40 Abs. 2 SGB XI: Bis zu 40 Euro/Monat für zum Verbrauch bestimmte Pflegehilfsmittel.
 
 - Beispiele: Einmalhandschuhe Bettschutzeinlagen Desinfektionsmittel.
-- Direkter Bezug ueber Anbieter oder Apotheke.
+- Direkter Bezug über Anbieter oder Apotheke.
 
 ## Technische Pflegehilfsmittel
 
@@ -26,11 +26,11 @@ description: "Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung m
 - Lagerungshilfen.
 - Notrufsysteme.
 
-## Wohnumfeldverbessernde Massnahmen
+## Wohnumfeldverbessernde Maßnahmen
 
 § 40 Abs. 4 SGB XI:
 - Treppenlift Badewanneneinstieg Tuerverbreiterung.
-- Zuschuss bis 4000 Euro je Massnahme.
+- Zuschuss bis 4000 Euro je Maßnahme.
 - Bei mehreren Pflegebeduerftigen im Haushalt addieren.
 
 ## Antrag

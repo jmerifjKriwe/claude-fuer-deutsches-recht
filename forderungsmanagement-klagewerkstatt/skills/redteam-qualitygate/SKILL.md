@@ -35,7 +35,7 @@ Vor Einreichung ein Pruefgang aus Sicht der Beklagten.
 
 ## Verspaetungspraeklusion
 
-Spaeter Vortrag kann nach ZPO 296 zurueckgewiesen werden. Beklagte versucht oft Verzoegerungstaktik. Klaeger sollte Beweise mit Klage einreichen.
+Später Vortrag kann nach ZPO 296 zurueckgewiesen werden. Beklagte versucht oft Verzoegerungstaktik. Kläger sollte Beweise mit Klage einreichen.
 
 ## Norm-Pinpoints
 

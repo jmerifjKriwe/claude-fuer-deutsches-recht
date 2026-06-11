@@ -15,8 +15,8 @@ description: "Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die 
 - ALR I 11 — locatio conductio operarum.
 
 ### Handlungsgehilfe
-- Im kaufmaennischen Geschaeft.
-- Spaeter HGB §§ 59 ff.
+- Im kaufmaennischen Geschäft.
+- Später HGB §§ 59 ff.
 
 ### Freie Berufe
 - Aerzte Anwaelte Lehrer Beamte.

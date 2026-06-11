@@ -7,7 +7,7 @@ description: "AI Act Art 6 Hochrisiko KI: fachanwaltlicher Spezialskill mit Norm
 
 ## Einsatzlage
 
-KI-System fuer Kreditvergabe wird eingefuehrt.
+KI-System für Kreditvergabe wird eingefuehrt.
 
 ## Normenanker
 

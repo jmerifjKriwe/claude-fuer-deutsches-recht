@@ -56,8 +56,8 @@ Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensu
 | Schritt | Inhalt | Norm | Frist/Formalitaet |
 |---|---|---|---|
 | 1 | Verschmelzungsvertrag oder -plan | §§ 4-6 UmwG | Notarielle Beurkundung |
-| 2 | Verschmelzungsbericht | § 8 UmwG | Pruefung durch unabh. Pruefer |
-| 3 | Pruefung durch Verschmelzungspruefer | § 9 UmwG | Bestellung durch Gericht |
+| 2 | Verschmelzungsbericht | § 8 UmwG | Prüfung durch unabh. Prüfer |
+| 3 | Prüfung durch Verschmelzungspruefer | § 9 UmwG | Bestellung durch Gericht |
 | 4 | Einberufung HV/GV | § 47 UmwG | 30 Tage vor Beschluss |
 | 5 | HV/GV-Beschluss | § 13 UmwG | 3/4-Mehrheit (Kapital+Stimmen) |
 | 6 | Ggf. Klageverzichtsfrist | §§ 14 ff. UmwG | 1 Monat; Freigabeverfahren |
@@ -69,8 +69,8 @@ Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensu
 
 | Art | Rechtsfolge | Typischer Anwendungsfall |
 |---|---|---|
-| Aufspaltung (§ 123 I UmwG) | Uebertragende Gesellschaft erloscht; gesamtes Vermoegen geht auf mind. 2 aufnehmende ueber | Konzernaufloesung, Carve-Out |
-| Abspaltung (§ 123 II UmwG) | Uebertragende Gesellschaft besteht fort; Teil des Vermoegens geht auf aufnehmende ueber | Ausgliederung einer Geschaeftssparte |
+| Aufspaltung (§ 123 I UmwG) | Uebertragende Gesellschaft erloscht; gesamtes Vermögen geht auf mind. 2 aufnehmende über | Konzernaufloesung, Carve-Out |
+| Abspaltung (§ 123 II UmwG) | Uebertragende Gesellschaft besteht fort; Teil des Vermoegens geht auf aufnehmende über | Ausgliederung einer Geschaeftssparte |
 | Ausgliederung (§ 123 III UmwG) | Wie Abspaltung, aber Gegenleistung sind Anteile an der aufnehmenden Gesellschaft — kommen der uebertragenden Gesellschaft, nicht den Gesellschaftern zu | Holdingstruktur aufbauen; Tochtergesellschaft gruenden |
 
 ## Schritt-für-Schritt-Workflow
@@ -82,21 +82,21 @@ Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensu
 3. **Vertragsentwurf erstellen** — Verschmelzungsvertrag/Spaltungsplan; Notar einbinden
 4. **Sachverstaendigenpruefung** — Verschmelzungspruefer durch Gericht bestellt; unabhaengige Bewertung
 5. **Arbeitnehmer informieren** — § 5 UmwG Protokoll; Betriebsrat konsultieren; Widerspruchsrecht nach § 613a VI BGB
-6. **HV/GV-Beschluesse** — Einberufung, Beschluss mit qualifizierter Mehrheit; Protokoll notariell
+6. **HV/GV-Beschlüsse** — Einberufung, Beschluss mit qualifizierter Mehrheit; Protokoll notariell
 7. **Anmeldung Handelsregister** — Notarielle Anmeldung; Freigabeverfahren wenn Klage eingereicht
 8. **Steuerneutralitaet sichern** — UmwStG-Antrag auf Buchwertfortfuehrung; Sperrfrist 5 Jahre beachten
 9. **Post-Umwandlung** — Vertragsanpassungen (neue Firma, IBAN, Steuernummer); Gesellschafter- und Glaeubigerschutz
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Verschmelzung nach UmwG vorbereiten | Pruefschema und Verschmelzungsvertrag-Outline nach Template unten |
 | Variante A — Spaltung statt Verschmelzung vorzugsweise | Spaltungsarten vergleichen; Abspaltung oder Ausgliederung waehlen |
-| Variante B — steuerliche Optimierung vorrangig | § 15 UmwStG pruefen; Buchwertfortfuehrung sichern |
-| Variante C — Umwandlung mit Auslandsbezug | Grenzueberschreitende Verschmelzung; SE-Option und UmwRL pruefen |
+| Variante B — steuerliche Optimierung vorrangig | § 15 UmwStG prüfen; Buchwertfortfuehrung sichern |
+| Variante C — Umwandlung mit Auslandsbezug | Grenzueberschreitende Verschmelzung; SE-Option und UmwRL prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -142,7 +142,7 @@ PRAEMBEL
 10. SONSTIGES
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -151,13 +151,13 @@ PRAEMBEL
 
 - Bewertungsstichtag nicht mehr als 8 Monate vor Anmeldung (§ 17 II UmwG) → Pruefungserfordernis
 - Arbeitnehmer nicht fristgerecht informiert (§ 5 UmwG) → Beschluss anfechtbar
-- Steuerneutralitaet vergessen → UmwStG-Buchwertfortfuehrungsantrag nachholen nicht moeglich
+- Steuerneutralitaet vergessen → UmwStG-Buchwertfortfuehrungsantrag nachholen nicht möglich
 - Fusionskontrolle uebersehen → Verschmelzung ggf. untersagt; Entflechtung
 - Sperrfrist UmwStG (5 Jahre) nicht beachtet → rueckwirkende Steuerpflicht
 
 ## Vertiefung: Spruchverfahren nach Umwandlung
 
-Minderheitsgesellschafter koennen im Spruchverfahren (§§ 2, 34 ff. SpruchG) eine angemessene Barabfindung nach § 29 UmwG oder Verbesserung des Umtauschverhaeltnisses verlangen. Bewertung nach IDW S1 (Ertragswertmethode). Verfahrensdauer: typisch 2-5 Jahre, ggf. laenger.
+Minderheitsgesellschafter können im Spruchverfahren (§§ 2, 34 ff. SpruchG) eine angemessene Barabfindung nach § 29 UmwG oder Verbesserung des Umtauschverhaeltnisses verlangen. Bewertung nach IDW S1 (Ertragswertmethode). Verfahrensdauer: typisch 2-5 Jahre, ggf. laenger.
 
 ## Quellen
 

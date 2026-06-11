@@ -80,7 +80,7 @@ Nutze für die Auswahl die automatisch gepflegte Übersicht unten. Die Skills si
 ## Gute Begleiter
 
 - [methodenlehre-buergerliches-recht](../methodenlehre-buergerliches-recht) für Auslegung, Gutachtenstil und Anspruchsdenken.
-- [subsumtions-pruefer](../subsumtions-pruefer) für generische Tatbestandsarbeit.
+- [subsumtions-prüfer](../subsumtions-pruefer) für generische Tatbestandsarbeit.
 - [schriftform-und-textform-bgb](../schriftform-und-textform-bgb) für tiefe Form-, Textform- und Zugangskonstellationen.
 - [bereicherungs-und-anfechtungsrecht-pruefer](../bereicherungs-und-anfechtungsrecht-pruefer) für Rückabwicklung nach unwirksamem Vertrag.
 

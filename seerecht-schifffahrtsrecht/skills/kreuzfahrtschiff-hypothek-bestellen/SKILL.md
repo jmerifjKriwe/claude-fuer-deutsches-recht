@@ -14,13 +14,13 @@ description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagier
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine Bank bestellt eine Hypothek auf ein Kreuzfahrtschiff oder grosses Fahrgastschiff als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Kreuzfahrtschiff oder grosses Fahrgastschiff als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
+Eine Bank bestellt eine Hypothek auf ein Kreuzfahrtschiff oder großes Fahrgastschiff als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Kreuzfahrtschiff oder großes Fahrgastschiff als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
 
 ## Erste Schritte
-1. Eintragungsfaehigkeit des Kreuzfahrtschiff oder grosses Fahrgastschiffs pruefen; Eintragung im Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) bestaetigen.
+1. Eintragungsfaehigkeit des Kreuzfahrtschiff oder großes Fahrgastschiffs prüfen; Eintragung im Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) bestaetigen.
 2. Sicherungsabrede aufsetzen: gesicherte Forderungen, Kuendigungsrechte, Cross-Default.
 3. Notarielle Hypothekenbestellungsurkunde nach SchRG §§ 8-18 erstellen.
-4. Vertretungsbefugnis des Eigentuemers pruefen; ggf. Handelsregisterauszug.
+4. Vertretungsbefugnis des Eigentuemers prüfen; ggf. Handelsregisterauszug.
 5. Eintragungsantrag beim {reg_type}-Gericht stellen; Rangstelle fruehzeitig reservieren.
 6. Eintragungsbestaetigung und ggf. Hypothekenbrief sichern; Sicherungsvertrag archivieren.
 
@@ -28,7 +28,7 @@ Eine Bank bestellt eine Hypothek auf ein Kreuzfahrtschiff oder grosses Fahrgasts
 - HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III; SchRG § 31 Zubehoer-Mithaftung; SchRG § 75 Hoechstbetragshypothek; SchRegO §§ 13-19. ISPS-Code Hafen-Sicherheit; SOLAS Kap. II-2 Brandschutz; MLC Passagierschiffe.
 
 ## Prüfraster
-- Ist das Kreuzfahrtschiff oder grosses Fahrgastschiff im Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) eingetragen und eintragungsfaehig?
+- Ist das Kreuzfahrtschiff oder großes Fahrgastschiff im Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) eingetragen und eintragungsfaehig?
 - Ist die Sicherungsabrede vollstaendig und rechtswirksam?
 - Ist Zubehoer-Mithaftung (SchRG § 31) vertraglich gesichert?
 - Ist die notarielle Form eingehalten (SchRG § 17)?

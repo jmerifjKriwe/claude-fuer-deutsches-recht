@@ -35,7 +35,7 @@ description: "Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen 
 - Nicht-schriftliche Kuendigung ist **nichtig** § 125 BGB.
 - Keine Wirkung — Arbeitsverhaeltnis besteht fort.
 - **§ 4 S. 1 KSchG laeuft NICHT an**, weil die Vorschrift ihrem Wortlaut nach nur eine **schriftliche** Kuendigung erfasst (BAG 22. Oktober 2015 - 2 AZR 720/14 Rn 23 ff.; BAG 17. Dezember 2015 - 6 AZR 709/14).
-- **Keine Heilung ueber § 7 KSchG** bei Formverstoss: Die Fiktionswirkung des § 7 KSchG setzt eine formwirksame schriftliche Kuendigung voraus; bei Nichtigkeit nach § 125 BGB iVm § 623 BGB greift sie nicht.
+- **Keine Heilung über § 7 KSchG** bei Formverstoss: Die Fiktionswirkung des § 7 KSchG setzt eine formwirksame schriftliche Kuendigung voraus; bei Nichtigkeit nach § 125 BGB iVm § 623 BGB greift sie nicht.
 - Der Arbeitnehmer kann den Fortbestand des Arbeitsverhaeltnisses jederzeit (vorbehaltlich Verwirkung) mit allgemeiner Feststellungsklage § 256 ZPO geltend machen, nicht nur mit Kuendigungsschutzklage § 4 KSchG.
 - Achtung Abgrenzung: Eine formwirksame, aber aus anderem Grund unwirksame Kuendigung (z.B. Sozialwidrigkeit, fehlende Anhörung Betriebsrat) muss innerhalb von 3 Wochen mit Kuendigungsschutzklage angegriffen werden, sonst Fiktion § 7 KSchG.
 

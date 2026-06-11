@@ -14,13 +14,13 @@ description: "Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfesti
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information. Risikoanalyse je nach Anzahl, Abstand, Vernehmungsperson, Setting. Verteidigerwerkzeug für die Aussagegenese-Pruefung bei Vielfach-Vernehmungen.
+**Fokus:** Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information. Risikoanalyse je nach Anzahl, Abstand, Vernehmungsperson, Setting. Verteidigerwerkzeug für die Aussagegenese-Prüfung bei Vielfach-Vernehmungen.
 
 ### Mehrfach vernommene Zeugen und Aussageverfestigung
 
 ## Worum geht es
 
-Eine Belastungszeugin, die in einem Strafverfahren ueber Monate oder Jahre hinweg mehrfach vernommen wird — polizeilich, richterlich, in Therapie, in Selbsthilfegruppe, vor Gericht — gibt nicht jedes Mal die gleiche unabhaengige Aussage. Jede Vernehmung baut auf der vorigen auf, jede Vernehmung kann die Erinnerung verfestigen oder veraendern. Dieser Skripteffekt ist eines der zentralen aussagepsychologischen Probleme in laenger laufenden Strafverfahren.
+Eine Belastungszeugin, die in einem Strafverfahren über Monate oder Jahre hinweg mehrfach vernommen wird — polizeilich, richterlich, in Therapie, in Selbsthilfegruppe, vor Gericht — gibt nicht jedes Mal die gleiche unabhaengige Aussage. Jede Vernehmung baut auf der vorigen auf, jede Vernehmung kann die Erinnerung verfestigen oder veraendern. Dieser Skripteffekt ist eines der zentralen aussagepsychologischen Probleme in laenger laufenden Strafverfahren.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die aussagepsychologischen Mechanismen, die Risikoanalyse je nach Vernehmungssituation und die Replik-Werkzeuge.
 
@@ -40,16 +40,16 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Gespraeche mit Mitbetroffenen, Selbsthilfegruppen.
 - Vorhalte aus eigenen frueheren Aussagen ("Sie haben damals gesagt...").
 - Akteneinsicht der Zeugin (im Adhaesions- oder Nebenklagekontext denkbar).
-- Medienberichterstattung ueber das Verfahren.
+- Medienberichterstattung über das Verfahren.
 
-**Konstanz vs. Verfestigung.** Eine konstante Aussage kann erlebnisbasiert sein — oder ein verfestigtes Skript. Die Unterscheidung ist methodisch schwierig und gelingt am ehesten ueber den Vergleich mit der Erstaussage, deren Spontaneitaet und Detail-Profil mit den spaeteren Aussagen verglichen werden muss.
+**Konstanz vs. Verfestigung.** Eine konstante Aussage kann erlebnisbasiert sein — oder ein verfestigtes Skript. Die Unterscheidung ist methodisch schwierig und gelingt am ehesten über den Vergleich mit der Erstaussage, deren Spontaneitaet und Detail-Profil mit den spaeteren Aussagen verglichen werden muss.
 
 ## Praktikertipps Verteidigung
 
 - **Vernehmungs-Chronologie akribisch erstellen.** Jede Vernehmung mit Datum, Ort, Vernehmungsperson, Setting, Dauer, Methodik (offen/geschlossen), Anwesenheiten. Vergleich mit Erstaussage.
 - **Erstaussage ist die wichtigste.** Sie ist am wenigsten kontaminiert. Wenn die Erstaussage detailaermer, weniger strukturiert, weniger belastend ist als spaetere — Verdacht auf Verfestigung.
-- **Therapeutendokumentation einsehen.** Mit Schweigepflichtsentbindung der Zeugin oder ueber Beweisantrag. Therapeutische Gespraeche koennen Aussagen verfestigen oder veraendern.
-- **Selbsthilfegruppen und Online-Foren.** Bei laufender Belastung pruefen, ob die Zeugin in Foren oder Selbsthilfegruppen aktiv war. Dort werden Erfahrungen geteilt und Skripte verfestigt.
+- **Therapeutendokumentation einsehen.** Mit Schweigepflichtsentbindung der Zeugin oder über Beweisantrag. Therapeutische Gespraeche können Aussagen verfestigen oder veraendern.
+- **Selbsthilfegruppen und Online-Foren.** Bei laufender Belastung prüfen, ob die Zeugin in Foren oder Selbsthilfegruppen aktiv war. Dort werden Erfahrungen geteilt und Skripte verfestigt.
 - **Vorhalte aus frueheren Aussagen markieren.** Wenn die Vernehmungsperson die Zeugin mit eigenen frueheren Aussagen konfrontiert hat, ist die Aussage ab diesem Zeitpunkt nicht mehr unabhaengig.
 - **Beweisantrag SV-Gutachten zur Aussagegenese.** Bei mehr als drei Vernehmungen, langer Latenz und Therapiebegleitung in der Regel geboten.
 
@@ -64,7 +64,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer arbeiten Sie chronologisch: "Die Aussage der Zeugin ist nicht aus einer Vernehmung. Sie ist das Ergebnis von acht Vernehmungen ueber 14 Monate. Zwischen der polizeilichen Erstvernehmung vom [Datum] und der heutigen Hauptverhandlung liegen sieben weitere Aussage-Setting: zwei polizeiliche Vernehmungen, eine richterliche Vernehmung nach § 58a StPO, vier dokumentierte Therapeutengespraeche mit Aufdeckungs-Schwerpunkt, regelmäßige Treffen einer Selbsthilfegruppe. In jeder Phase ist neue Information hinzugekommen. Die Erstaussage war kuerzer, weniger detailliert, ohne die jetzt zentralen Belastungsmomente. Diese sind erst in den spaeteren Aussagen aufgetaucht — eine klassische Aussageverfestigung. Damit ist die Aussage nicht unabhaengig, sondern aufeinander aufbauend, und ihre Beweiskraft ist erheblich reduziert."
+Im Plaedoyer arbeiten Sie chronologisch: "Die Aussage der Zeugin ist nicht aus einer Vernehmung. Sie ist das Ergebnis von acht Vernehmungen über 14 Monate. Zwischen der polizeilichen Erstvernehmung vom [Datum] und der heutigen Hauptverhandlung liegen sieben weitere Aussage-Setting: zwei polizeiliche Vernehmungen, eine richterliche Vernehmung nach § 58a StPO, vier dokumentierte Therapeutengespraeche mit Aufdeckungs-Schwerpunkt, regelmäßige Treffen einer Selbsthilfegruppe. In jeder Phase ist neue Information hinzugekommen. Die Erstaussage war kuerzer, weniger detailliert, ohne die jetzt zentralen Belastungsmomente. Diese sind erst in den spaeteren Aussagen aufgetaucht — eine klassische Aussageverfestigung. Damit ist die Aussage nicht unabhaengig, sondern aufeinander aufbauend, und ihre Beweiskraft ist erheblich reduziert."
 
 ## Mustertexte
 
@@ -72,7 +72,7 @@ Im Plaedoyer arbeiten Sie chronologisch: "Die Aussage der Zeugin ist nicht aus e
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Frage einzuholen, ob die Aussage der Zeugin [Name] in der Hauptverhandlung als unabhaengig oder als verfestigt aus den vorangegangenen [N] Vernehmungssituationen zu bewerten ist. Hintergrund: Vernehmungen am [Daten] mit [Vernehmungspersonen] in [Setting]; therapeutische Behandlung seit [Datum] mit Schwerpunkt auf [Methode]; Teilnahme an Selbsthilfegruppe [Name] seit [Datum]."
 
 **Mustersatz für Plaedoyer:**
-"Konstanz ist nicht Erlebnis. Eine Aussage, die ueber acht Vernehmungen hinweg gleich bleibt, kann erlebnisbasiert sein — sie kann aber auch ein durch Wiederholung verfestigtes Skript sein. Die aussagepsychologische Forschung kennt diesen Skripteffekt seit Jahrzehnten. Bei den hier dokumentierten Aussagesituationen ist die Annahme einer reinen Erlebnisbasierung methodisch nicht gestuetzt. Damit traegt die Aussage die Verurteilung nicht."
+"Konstanz ist nicht Erlebnis. Eine Aussage, die über acht Vernehmungen hinweg gleich bleibt, kann erlebnisbasiert sein — sie kann aber auch ein durch Wiederholung verfestigtes Skript sein. Die aussagepsychologische Forschung kennt diesen Skripteffekt seit Jahrzehnten. Bei den hier dokumentierten Aussagesituationen ist die Annahme einer reinen Erlebnisbasierung methodisch nicht gestuetzt. Damit traegt die Aussage die Verurteilung nicht."
 
 ## Quellen Stand 06/2026
 

@@ -18,7 +18,7 @@ giurisdizione** (Richtervorbehalt Art 13, 14, 15 Cost).
 
 Die Corte costituzionale hat aus Art 3 Cost (Gleichheitssatz) das
 Prinzip der **ragionevolezza** entwickelt. Aus dem Gleichheitssatz wird
-ein allgemeines Willkuerverbot, das ueber tertium comparationis hinaus
+ein allgemeines Willkuerverbot, das über tertium comparationis hinaus
 zur **vollen Verhaeltnismaessigkeitspruefung** ausgebaut wurde:
 
 1. **Idoneita**: das Mittel ist tatsaechlich geeignet das verfolgte
@@ -32,14 +32,14 @@ Leading cases zur Ragionevolezza-Dogmatik:
 
 - Sentenza 1130/1988 (Konfiguration als triplo test),
 - Sentenza 1/1988 (allgemeine Methodik),
-- Sentenza 220/1995 (Verhaeltnismaessigkeit von Sanktionen),
+- Sentenza 220/1995 (Verhältnismäßigkeit von Sanktionen),
 - Sentenza 1146/1988 (principi supremi Tabu),
 - Sentenza 85/2013 ILVA Taranto (Bilanciamento Gesundheit / Arbeit /
   Umwelt / Wirtschaft).
 
 ## Bilanciamento tra principi
 
-Bei Kollision zweier Verfassungsguete prueft die Corte ein
+Bei Kollision zweier Verfassungsguete prüft die Corte ein
 **bilanciamento dei principi** (Abwaegung). Sie operiert mit den
 Massstaeben:
 
@@ -69,46 +69,46 @@ Diese funktionieren strukturell wie Art 1 I und Art 19 II GG.
 ## Rezeption europaeischer Massstaebe
 
 Mit Sent 348 und 349/2007 (sogenannte sentenze gemelle) hat die Corte
-die EMRK ueber Art 117 I Cost als **norme interposte** in den
+die EMRK über Art 117 I Cost als **norme interposte** in den
 Verfassungsmassstab integriert. Folge:
 
-- EGMR-Massstaebe sind Auslegungsmaterial fuer italienische Grundrechte.
+- EGMR-Massstaebe sind Auslegungsmaterial für italienische Grundrechte.
 - Bei Konflikt kann die Corte den Anwendungsvorrang des EU-Rechts und
-  die EMRK-Konformitaet pruefen.
-- EuGH-Linien (insbes Art 52 I GRCh) werden ueber Art 11 und 117 Cost
+  die EMRK-Konformitaet prüfen.
+- EuGH-Linien (insbes Art 52 I GRCh) werden über Art 11 und 117 Cost
   rezipiert.
 
 ## Strukturunterschiede
 
 | Deutschland | Italien |
 | --- | --- |
-| Vier Stufen sequenziell | Ragionevolezza ueber Art 3 Cost mit Idoneita Necessita Proporzionalita |
+| Vier Stufen sequenziell | Ragionevolezza über Art 3 Cost mit Idoneita Necessita Proporzionalita |
 | Wesensgehalt Art 19 II GG | Nucleo essenziale / contenuto minimo |
 | Schutzbereich-Eingriff-Rechtfertigung getrennt | Bilanciamento dei principi mit eingebundener Geeignetheit |
 | Einschaetzungspraerogative national | Discrezionalita del legislatore mit ragionevolezza-Schranke |
 | Praktische Konkordanz | Bilanciamento |
-| Untermassverbot ausgepraegt | Obblighi di tutela vgl Sent 27/1975 Aborto und Sent 85/2013 ILVA |
+| Untermassverbot ausgeprägt | Obblighi di tutela vgl Sent 27/1975 Aborto und Sent 85/2013 ILVA |
 
-## Bedeutung fuer den Pruefer
+## Bedeutung für den Prüfer
 
 Bei Schriftsaetzen mit italienischem Bezug:
 
 - Ragionevolezza-Argumentation als Pendant zur deutschen
-  Verhaeltnismaessigkeit benennen.
+  Verhältnismäßigkeit benennen.
 - Bilanciamento entspricht praktischer Konkordanz.
 - Bei strafrechtlichen oder polizeirechtlichen Eingriffen Riserva di
   legge und Riserva di giurisdizione als formelle Schranken-Schranken
-  pruefen.
+  prüfen.
 - Bei sensiblen Materien (Bioethik, Sterbehilfe, Religion) Sent 242/2019
-  (caso Cappato / DJ Fabo) als methodisches Vorbild fuer
-  Verhaeltnismaessigkeit zwischen Lebensschutz und Selbstbestimmung.
+  (caso Cappato / DJ Fabo) als methodisches Vorbild für
+  Verhältnismäßigkeit zwischen Lebensschutz und Selbstbestimmung.
 - Sent 1/2014 (legge elettorale Calderoli) zeigt die Anwendung der
   proporzionalita auf Wahlrecht.
 
 ## Live-Recherche-Disclaimer
 
-Entscheidungen der Corte costituzionale vor Zitierung verifizieren ueber
-cortecostituzionale it; Volltexte auch ueber Gazzetta Ufficiale
+Entscheidungen der Corte costituzionale vor Zitierung verifizieren über
+cortecostituzionale it; Volltexte auch über Gazzetta Ufficiale
 (gazzettaufficiale it) und ItalgiureWeb (italgiure giustizia it).
 Sentenz-Nummerierung pro Jahr; Datum und Tipo (sentenza / ordinanza)
 beachten.

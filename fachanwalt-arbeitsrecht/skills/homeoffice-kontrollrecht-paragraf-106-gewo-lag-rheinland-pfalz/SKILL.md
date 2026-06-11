@@ -33,7 +33,7 @@ Arbeitgeber verlangt Bildschirmaufzeichnung im Homeoffice; AN verweigert.
 
 ## Arbeitsergebnis
 
-Eingriff in Privatleben; pauschale Bildschirmaufzeichnung unverhaeltnismaessig; nur stichprobenartige Pruefung zulaessig.
+Eingriff in Privatleben; pauschale Bildschirmaufzeichnung unverhaeltnismaessig; nur stichprobenartige Prüfung zulässig.
 
 ## Belege und Aktenlücken
 

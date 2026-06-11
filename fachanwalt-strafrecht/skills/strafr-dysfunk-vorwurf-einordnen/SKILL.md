@@ -14,7 +14,7 @@ description: "Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dy
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dysfunktionaler Strafverteidigung erhebt. Sauber unterscheiden zwischen dysfunktionaler Verteidigung mit verdeckter Strategie und zielfuehrender harter Konfliktverteidigung. Begriff hat keinen Eingriffstatbestand und ist kein Rechtsbegriff. Empirische Datenlage zeigt geringe Fallzahlen. Pruefen ob konkrete Handlung gegen § 137 Abs. 1 StPO oder Standesrecht verstoesst oder nur unbequem ist. Reaktion souveraen dokumentieren ohne defensive Eskalation.
+**Fokus:** Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dysfunktionaler Strafverteidigung erhebt. Sauber unterscheiden zwischen dysfunktionaler Verteidigung mit verdeckter Strategie und zielfuehrender harter Konfliktverteidigung. Begriff hat keinen Eingriffstatbestand und ist kein Rechtsbegriff. Empirische Datenlage zeigt geringe Fallzahlen. Prüfen ob konkrete Handlung gegen § 137 Abs. 1 StPO oder Standesrecht verstoesst oder nur unbequem ist. Reaktion souveraen dokumentieren ohne defensive Eskalation.
 
 ### Vorwurf dysfunktionale Strafverteidigung einordnen
 
@@ -22,7 +22,7 @@ description: "Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dy
 
 1. Wie wurde der Vorwurf konkret formuliert (Sitzungsprotokoll, Senatsschelte im Urteil, schriftliche Mitteilung, Mitteilung an Kammer)?
 2. Welche konkrete Handlung wird als dysfunktional bezeichnet (Beweisantrag, Befangenheitsantrag, Erklaerung, KI-Schriftsatz, Mandanteninstruktion)?
-3. Gibt es schon eine Massnahme (Sitzungspolizei, Ordnungsmittel, Antrag nach § 138a StPO, Entpflichtung nach § 143a Abs. 2 StPO, Strafanzeige § 258 StGB)?
+3. Gibt es schon eine Maßnahme (Sitzungspolizei, Ordnungsmittel, Antrag nach § 138a StPO, Entpflichtung nach § 143a Abs. 2 StPO, Strafanzeige § 258 StGB)?
 4. Wer hat den Vorwurf erhoben (Vorsitz, beisitzender Richter, StA, Nebenklage)?
 5. Wie hat der Mandant die Auseinandersetzung wahrgenommen und welche Belastung daraus?
 
@@ -31,7 +31,7 @@ description: "Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dy
 - **Konfliktverteidigung**: harter, aber zielfuehrender Einsatz aller prozessualen Rechte (Beweisantraege, Befangenheit, Erklaerungen, Widerspruch). Negativ konnotiert, aber rechtmaessig.
 - **Dysfunktionale Verteidigung**: verdeckte Strategie, prozessuale Instrumente nicht zur Sachverteidigung sondern zur Storung des Verfahrens zu nutzen (subjektive Verfremdung des Zwecks).
 - **Prozesssabotage**: keine geltende Legaldefinition; § 138b StPO-E 1974 (Vorlage Bundesrat) wurde nicht Gesetz; Begriff ist auch heute nicht normiert.
-- Beide Begriffe sind keine Tatbestaende. Sie taugen nur als Etikett. Eine Massnahme braucht immer eine konkrete Rechtsgrundlage (§ 138a StPO, § 143a StPO, § 177 GVG etc.).
+- Beide Begriffe sind keine Tatbestaende. Sie taugen nur als Etikett. Eine Maßnahme braucht immer eine konkrete Rechtsgrundlage (§ 138a StPO, § 143a StPO, § 177 GVG etc.).
 
 ## Empirische Realitaetskontrolle
 
@@ -41,7 +41,7 @@ description: "Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dy
 ## Erste Reaktion
 
 - Nicht emotional reagieren. Vorwurf zur Kenntnis nehmen, schriftlich dokumentieren.
-- Konkrete Tathandlung identifizieren. Pruefen welche Norm verletzt sein soll.
+- Konkrete Tathandlung identifizieren. Prüfen welche Norm verletzt sein soll.
 - Wenn keine Norm passt: feststellen, dass es sich um wertende Kritik handelt, keinen Eingriffstatbestand traegt.
 - Mandanten informieren, dass dies eine Drohgebaerde sein kann und keine automatische Sanktion folgt.
 

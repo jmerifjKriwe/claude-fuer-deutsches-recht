@@ -21,9 +21,9 @@ Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskr
 
 1. **Wann wurde der Bussgeldbescheid zugestellt?** — Ausgangspunkt der 2-Wochen-Frist § 67 Abs. 1 OWiG.
 2. **Zustellungsform?** — Persoenliche Uebergabe, Einwurf-Einschreiben (§§ 33 OWiG, 180 ZPO), PZU.
-3. **Mandant kennt Zugangsdatum?** — Falls unsicher: Zustellungsfiktion pruefen; für Mandanten spaetestes bekanntes Datum nehmen.
-4. **Frist bereits abgelaufen?** — Wiedereinsetzungsantrag nach § 52 OWiG pruefen.
-5. **Beschraenkt oder unbeschraenkt einlegen?** — § 67 Abs. 2 OWiG: Beschraenkung auf Rechtsfolgen moeglich.
+3. **Mandant kennt Zugangsdatum?** — Falls unsicher: Zustellungsfiktion prüfen; für Mandanten spaetestes bekanntes Datum nehmen.
+4. **Frist bereits abgelaufen?** — Wiedereinsetzungsantrag nach § 52 OWiG prüfen.
+5. **Beschraenkt oder unbeschraenkt einlegen?** — § 67 Abs. 2 OWiG: Beschraenkung auf Rechtsfolgen möglich.
 
 ## Zentrale Normen
 

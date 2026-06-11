@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Rechtshistorische Argumente koennen in prozessualen Schriftsaetzen eingebracht werden, wenn methodisch korrekt. Typische Einsatzfelder: Auslegungsstreit (Materialienverweis), Vertrauensschutzfragen (historische Rechtslage), Wiedervereinigungsrecht (DDR-Recht und Einigungsvertrag), NS-Enteignungen (Wiedergutmachungsrecht). Die Herausforderung: Gerichte wollen praezise Quellen, keine historiographischen Essays. Formel: Historische Norm/Entscheidung (mit genauer Fundstelle) + Argument aus historischem Kontext + Subsumtion auf heutigen Fall. Der BGH nutzt regelmaessig historische Auslegung für BGB-Paragraphen.
+Rechtshistorische Argumente können in prozessualen Schriftsaetzen eingebracht werden, wenn methodisch korrekt. Typische Einsatzfelder: Auslegungsstreit (Materialienverweis), Vertrauensschutzfragen (historische Rechtslage), Wiedervereinigungsrecht (DDR-Recht und Einigungsvertrag), NS-Enteignungen (Wiedergutmachungsrecht). Die Herausforderung: Gerichte wollen praezise Quellen, keine historiographischen Essays. Formel: Historische Norm/Entscheidung (mit genauer Fundstelle) + Argument aus historischem Kontext + Subsumtion auf heutigen Fall. Der BGH nutzt regelmaessig historische Auslegung für BGB-Paragraphen.
 
 ## Kernnormen / Kernquellen
 
@@ -53,7 +53,7 @@ Rechtshistorische Argumente koennen in prozessualen Schriftsaetzen eingebracht w
 1. Wann ist historisches Argument zwingend, wann nur ergaenzend?
 2. Qualitaet der Fundstelle: Akzeptiert ein Gericht Wikipedia oder nur Primaereditionen?
 3. Historische Argumente in der Revisionsbegruendung: Formale Anforderungen?
-4. Prozessrechtliche Praeklusion: Koennen historische Argumente nachgebracht werden?
+4. Prozessrechtliche Praeklusion: Können historische Argumente nachgebracht werden?
 5. Widerstreit: Historische Auslegung vs. EU-konforme Auslegung
 
 ## Methodik

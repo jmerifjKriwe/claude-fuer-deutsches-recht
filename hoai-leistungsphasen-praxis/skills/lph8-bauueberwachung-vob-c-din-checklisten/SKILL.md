@@ -29,8 +29,8 @@ VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsing
 2. Pruefpunkte ableiten: Aus Normentext Abschnitt Ausfuehrung und Abnahme Pruefanweisungen ableiten, 5-8 Pruefpunkte je Gewerk, Reihenfolge logisch nach Bauablauf
 3. Checklisten-Digital Dalux: Vorlage erstellen Dalux Field, Pruefpunkte mit Eingabetype Checkbox, Text, Foto-Pflicht, Messwert, Auswahlliste, QR-Code-Generierung je Punkt
 4. QR-Code-Planung auf Baustelle: Je Pruefpunkt oder Bauteil QR-Code-Aufkleber, Scan mit Mobilgeraet oeffnet Dalux-Formular automatisch
-5. Erstpruefung und Nachpruefung: Pruefung durch Bauueberwacher, Mangel-Pin bei Nicht-Bestehen, AN-Benachrichtigung, Massnahme, Nachpruefung Bestehen oder Eskalation
-6. SAP PM Integration: Checklisten-Ergebnis automatisch SAP PM Meldung M3 Aktivitaetenmeldung bei abgeschlossener Pruefung, M2 bei Mangel
+5. Erstpruefung und Nachpruefung: Prüfung durch Bauueberwacher, Mangel-Pin bei Nicht-Bestehen, AN-Benachrichtigung, Maßnahme, Nachpruefung Bestehen oder Eskalation
+6. SAP PM Integration: Checklisten-Ergebnis automatisch SAP PM Meldung M3 Aktivitaetenmeldung bei abgeschlossener Prüfung, M2 bei Mangel
 
 ## Normen und Rechtsrahmen
 
@@ -70,12 +70,12 @@ VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsing
 
 - Veraltete VOB/C-Version in Checkliste: Normen werden alle 2-4 Jahre aktualisiert, DIN 18331 Neufassung 2019 enthalt neue Anforderungen
 - Pruefpunkte zu allgemein: Wasser ist dicht Ja/Nein ohne Messwert und Methode hat kein Beweiswert vor Gericht
-- Checkliste nicht gepfuegt: Bei Sonderbauteilen keine passende Checkliste vorhanden, Pruefung unvollstaendig
-- QR-Code-Aufkleber beschaedigt: Scan nicht moeglich, manuelle Eingabe erforderlich, GPS-Genauigkeit schlechter
+- Checkliste nicht gepfuegt: Bei Sonderbauteilen keine passende Checkliste vorhanden, Prüfung unvollstaendig
+- QR-Code-Aufkleber beschaedigt: Scan nicht möglich, manuelle Eingabe erforderlich, GPS-Genauigkeit schlechter
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

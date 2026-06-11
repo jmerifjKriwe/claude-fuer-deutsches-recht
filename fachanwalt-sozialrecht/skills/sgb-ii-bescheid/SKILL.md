@@ -30,7 +30,7 @@ description: "Fachanwalt Sozialrecht Sgb Ii Bescheid: ordnet Normen, Nutzerangab
 1. Welcher Bescheid genau (Bewilligungs-, Aufhebungs-, Erstattungsbescheid)? § 40 SGB II i.V.m. §§ 45, 48 SGB X: Unterschied materiell-rechtlich entscheidend.
 2. Widerspruchsfrist 1 Monat ab Bekanntgabe (§ 84 SGG) — noch offen? Bei abgelaufenem Bescheid: § 44 SGB X-Überprüfungsantrag.
 3. Aufschiebende Wirkung: SGB-II-Bescheide haben grundsätzlich KEINE aufschiebende Wirkung (§ 39 SGB II) — Eilantrag § 86b SGG notwendig wenn laufende Versorgung gefährdet.
-4. Hat der Bescheid eine ordnungsgemäße Anhörung nach § 24 SGB X durchlaufen? Bei Aufhebung/Erstattung pruefen. BSG-Linie B 7 AS / B 4 AS — vor Ausgabe Aktenzeichen live in dejure.org pruefen.
+4. Hat der Bescheid eine ordnungsgemäße Anhörung nach § 24 SGB X durchlaufen? Bei Aufhebung/Erstattung prüfen. BSG-Linie B 7 AS / B 4 AS — vor Ausgabe Aktenzeichen live in dejure.org prüfen.
 5. Ist Mandant im Karenzjahr (§ 12 Abs. 3 SGB II)? Dann erweiterte Vermögensschonung.
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
@@ -101,7 +101,7 @@ Weitere Entscheidungen vor Ausgabe in dejure.org / bsg.bund.de live verifizieren
 | 2 | Regelbedarfsstufe richtig zugeordnet (1–6)? | § 20, Anlage RBEG |
 | 3 | Mehrbedarfe vollständig berücksichtigt? | § 21 SGB II |
 | 4 | Kosten der Unterkunft tatsächlich angesetzt? | § 22 Abs. 1 SGB II |
-| 5 | Angemessenheits-Grenze KdU mit aktueller örtlicher Rechtsprechung pruefen | § 22 Abs. 1 S. 1 SGB II — schlüssiges Konzept; BSG-Linie B 7 AS / B 14 AS, Aktenzeichen vor Ausgabe in dejure.org pruefen |
+| 5 | Angemessenheits-Grenze KdU mit aktueller örtlicher Rechtsprechung prüfen | § 22 Abs. 1 S. 1 SGB II — schlüssiges Konzept; BSG-Linie B 7 AS / B 14 AS, Aktenzeichen vor Ausgabe in dejure.org prüfen |
 | 6 | Heizkosten separat und angemessen? | § 22 Abs. 1 Satz 3 SGB II |
 | 7 | Einkommensbereinigung § 11b korrekt? | § 11b SGB II |
 | 8 | Freibetrag Erwerbstätigkeit korrekt berechnet? | § 11b Abs. 2, 3 SGB II |
@@ -117,14 +117,14 @@ Weitere Entscheidungen vor Ausgabe in dejure.org / bsg.bund.de live verifizieren
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — SGB-II-Bescheid pruefen und anfechten | Widerspruch; Template unten |
+| Standard — SGB-II-Bescheid prüfen und anfechten | Widerspruch; Template unten |
 | Variante A — Mandant will sofortige Zahlung | Eilantrag § 86b SGG parallel zum Widerspruch |
 | Variante B — Rueckforderungsbescheid | § 45 vs. § 48 SGB X unterscheiden; Vertrauensschutz |
-| Variante C — Sanktionsbescheid | Verfassungswidrigkeit BVerfGE 1 BvL 7/16 pruefen |
+| Variante C — Sanktionsbescheid | Verfassungswidrigkeit BVerfGE 1 BvL 7/16 prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -257,7 +257,7 @@ Mit freundlichen Grüßen
 [Fachanwalt/-anwältin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -13,7 +13,7 @@ description: "Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung.
 
 ## Kernsachverhalt
 
-Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufig strittig: abhaengig beschaeftigt (= SV-pflichtig) oder selbstaendig (= nicht SV-pflichtig). Die DRV-Statusfeststellung (§ 7a SGB IV) gibt Rechtssicherheit. Wesentliche Kriterien: Beteiligungshoehe, Weisungsgebundenheit, unternehmerisches Risiko, Sperrminoritaet. BSG-Rechtsprechung sehr detailliert; Fehlklassifikation fuehrt zu Nachforderung ueber 4 Jahre + Saeumniszuschlag.
+Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufig strittig: abhaengig beschaeftigt (= SV-pflichtig) oder selbstaendig (= nicht SV-pflichtig). Die DRV-Statusfeststellung (§ 7a SGB IV) gibt Rechtssicherheit. Wesentliche Kriterien: Beteiligungshoehe, Weisungsgebundenheit, unternehmerisches Risiko, Sperrminoritaet. BSG-Rechtsprechung sehr detailliert; Fehlklassifikation fuehrt zu Nachforderung über 4 Jahre + Saeumniszuschlag.
 
 ## Kaltstart-Rueckfragen
 
@@ -36,7 +36,7 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 **§ 28a SGB IV** — Meldepflichten.
 
-**§ 28p SGB IV** — Pruefung Sozialversicherungsbeitraege.
+**§ 28p SGB IV** — Prüfung Sozialversicherungsbeitraege.
 
 **GmbHG §§ 37, 47** — Geschaeftsfuehrer-Stellung und Stimmrechte.
 
@@ -46,11 +46,11 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 |---|---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-(Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.)
+(Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen.)
 
 ## Workflow
 
-### Phase 1 — Kriterien-Pruefung
+### Phase 1 — Kriterien-Prüfung
 
 | Kriterium | Spricht für selbstaendig | Spricht für abhaengig |
 |---|---|---|
@@ -76,7 +76,7 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 - AG zahlt keine SV-Beitraege.
 - GGF privat versichert (KV/PV als Privatversicherung).
 - RV freiwillig (DRV-freiwillige Versicherung).
-- AV nicht moeglich.
+- AV nicht möglich.
 
 ### Phase 4 — Wirkung bei abhaengig
 
@@ -89,13 +89,13 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 - Fremd-Geschaeftsfuehrer (keine Kapitalbeteiligung): in der Regel abhaengig.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Geschaeftsfuehrer mit echter Sperrminoritaet ueber satzungsmäßige Beschluesse (typisch >25 Prozent bei Mehrheitsklauseln; einzelfallabhaengig): selbstaendig.
-- 50/50-GGF mit zwei Gesellschaftern und Vetoposition: selbstaendig (kein Beschluss gegen ihn moeglich).
+- Geschaeftsfuehrer mit echter Sperrminoritaet über satzungsmäßige Beschlüsse (typisch >25 Prozent bei Mehrheitsklauseln; einzelfallabhaengig): selbstaendig.
+- 50/50-GGF mit zwei Gesellschaftern und Vetoposition: selbstaendig (kein Beschluss gegen ihn möglich).
 - Wichtig: Stimmrechtsvereinbarungen ausserhalb der Satzung (Pool-Vertrag) werden vom BSG seit ca. 2015 nicht mehr als Sperrminoritaet anerkannt.
 
 ### Phase 6 — Risiko bei Fehlklassifikation
 
-- Bei DRV-Pruefung: rueckwirkende Nachforderung 4 Jahre.
+- Bei DRV-Prüfung: rueckwirkende Nachforderung 4 Jahre.
 - Saeumniszuschlag 1 Prozent pro Monat.
 - AG haftet für AN- und AG-Anteil.
 - Strafrechtlich § 266a StGB-Risiko bei Vorsatz.
@@ -104,10 +104,10 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 - Statusfeststellung bei jedem GGF zwingend empfehlen — Rechtssicherheit.
 - Bei Familien-GmbH besonders sorgfaeltig — BSG hat hier mehrfach gewechselt.
-- Satzungsmäßige Sperrminoritaet (Hoehe je nach Gesellschaftsvertrag, typisch >25 Prozent) ist nach BSG-Linie die sichere Trennlinie zu Selbstaendigkeit; Stimmrechtsvereinbarungen ausserhalb der Satzung reichen nicht.
+- Satzungsmäßige Sperrminoritaet (Höhe je nach Gesellschaftsvertrag, typisch >25 Prozent) ist nach BSG-Linie die sichere Trennlinie zu Selbstaendigkeit; Stimmrechtsvereinbarungen ausserhalb der Satzung reichen nicht.
 - Bei spaeterer Aenderung (Verkauf Anteile, neue Gesellschaftervereinbarung): Statusfeststellung wiederholen.
 - StBVV: Statusfeststellung als Zusatzauftrag mit Zeithonorar (komplex).
-- DATEV-Tipp: DATEV LODAS bei GGF separate Personengruppen-Schluessel; bei "selbstaendig" Lohnabrechnung manuell konfigurieren.
+- DATEV-Tipp: DATEV LODAS bei GGF separate Personengruppen-Schlüssel; bei "selbstaendig" Lohnabrechnung manuell konfigurieren.
 
 ## Quellen und Updates
 

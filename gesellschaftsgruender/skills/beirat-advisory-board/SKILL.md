@@ -53,7 +53,7 @@ Klaere vor Ausarbeitung der Beiratsstruktur:
 | 1 | Rechtsform und Pflicht | GmbH: Beirat freiwillig; AG: AR Pflicht; DrittelbG/MitbestG? | Klaren ob AR-Pflicht besteht |
 | 2 | Aufgabenprofil | Beratend, kontrollierend, schlichterisch? | Festlegt Tiefe der Satzungs-Klausel |
 | 3 | Satzungs-Klausel | Beirat in Satzung verankert? Befugnisse definiert? | Ohne Satzungs-Klausel kein Zustimmungsvorbehalt |
-| 4 | Beiratsordnung | Detailregelungen ausgelagert (Meeting-Rhythmus, Vergütung, Quorum)? | Aenderungen ohne Notar moeglich |
+| 4 | Beiratsordnung | Detailregelungen ausgelagert (Meeting-Rhythmus, Vergütung, Quorum)? | Aenderungen ohne Notar möglich |
 | 5 | Besetzung | Anzahl Mitglieder, Wahlmodus, Amtszeit, Wiederwahl | Satzung oder Beiratsordnung regelt |
 | 6 | Vergütung | Cash / Optionen / ehrenamtlich; Reisekostenerstattung | Steuerlich relevant; ESOP bei Startup |
 | 7 | D&O-Versicherung | Bei Zustimmungsrechten empfohlen | Keine gesetzliche Pflicht; Gestaltung |
@@ -100,11 +100,11 @@ Klaere vor Ausarbeitung der Beiratsstruktur:
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Triage:** Aufgabe und Rechtsform klaeren; Pflicht-AR pruefen (DrittelbG/MitbestG)
+1. **Triage:** Aufgabe und Rechtsform klären; Pflicht-AR prüfen (DrittelbG/MitbestG)
 2. **Konzept:** Aufgabenprofil, Besetzungswunsch, Verguetungsmodell festlegen
 3. **Satzungs-Klausel entwerfen:** Minimalklausel oder detaillierte Klausel; Notar-Termin einplanen
 4. **Beiratsordnung entwerfen:** Meeting-Rhythmus, Quorum, Beschlussfaehigkeit, Protokoll-Pflicht
-5. **Beiratsvertraege:** Vertraulichkeit, Verguetung, D&O-Versicherung, Wettbewerbsverbot
+5. **Beiratsvertraege:** Vertraulichkeit, Vergütung, D&O-Versicherung, Wettbewerbsverbot
 6. **Besetzung:** Mitglieder ansprechen, Beschluss der Gesellschafterversammlung herbeiführen
 7. **Konstituierende Sitzung:** Vorsitzenden waehlen, Beiratsordnung verabschieden
 8. **Monitoring:** Jaehrliche Beirats-Evaluation; Anpassung Beiratsordnung wenn noetig

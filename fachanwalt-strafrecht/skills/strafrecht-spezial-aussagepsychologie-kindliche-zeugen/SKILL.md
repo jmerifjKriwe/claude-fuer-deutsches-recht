@@ -20,16 +20,16 @@ description: "Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabh
 
 ## Worum geht es
 
-Kindliche Zeugen — typischerweise in Verfahren wegen Sexualstraftaten oder innerfamiliaerer Gewalt — sind aussagepsychologisch besonders sensible Zeugen. Ihre Aussagen sind grundsaetzlich nicht weniger wert als die Erwachsener, aber sie sind anders zu behandeln: Entwicklungsstand, sprachliches Vermoegen, Suggestibilitaet, Quellengedaechtnis und die Aussagegenese sind methodisch zentral.
+Kindliche Zeugen — typischerweise in Verfahren wegen Sexualstraftaten oder innerfamiliaerer Gewalt — sind aussagepsychologisch besonders sensible Zeugen. Ihre Aussagen sind grundsätzlich nicht weniger wert als die Erwachsener, aber sie sind anders zu behandeln: Entwicklungsstand, sprachliches Vermögen, Suggestibilitaet, Quellengedaechtnis und die Aussagegenese sind methodisch zentral.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert das entwicklungspsychologische Wissen, die rechtlichen Rahmenbedingungen und die Replik-Werkzeuge gegen die StA-Behauptung, eine kindliche Aussage sei "in dem Detailreichtum gar nicht erfindbar".
 
 ## Methodische Grundlagen
 
 **Entwicklungspsychologische Stufen (vereinfacht).**
-- Vorschulalter (etwa 3 bis 6 Jahre): Aussagefaehigkeit grundsaetzlich gegeben, aber stark abhaengig von sprachlicher Entwicklung. Hohe Suggestibilitaet. Quellengedaechtnis schwach (Kind kann nicht zuverlaessig trennen, ob es etwas erlebt, gehoert oder gesehen hat). Zeitliche Verortung schwach.
+- Vorschulalter (etwa 3 bis 6 Jahre): Aussagefaehigkeit grundsätzlich gegeben, aber stark abhaengig von sprachlicher Entwicklung. Hohe Suggestibilitaet. Quellengedaechtnis schwach (Kind kann nicht zuverlaessig trennen, ob es etwas erlebt, gehoert oder gesehen hat). Zeitliche Verortung schwach.
 - Grundschulalter (etwa 6 bis 10 Jahre): Bessere sprachliche Faehigkeiten, weiterhin Suggestibilitaet, beginnende Faehigkeit zur Quellentrennung.
-- Vorpubertaet und Pubertaet (etwa 10 bis 14 Jahre): Aussagepsychologisch zunehmend mit Erwachsenen vergleichbar. Aber: Belastungs-, Loyalitaets- und Motivationskonflikte besonders ausgepraegt.
+- Vorpubertaet und Pubertaet (etwa 10 bis 14 Jahre): Aussagepsychologisch zunehmend mit Erwachsenen vergleichbar. Aber: Belastungs-, Loyalitaets- und Motivationskonflikte besonders ausgeprägt.
 
 **Suggestibilitaet kindlicher Zeugen.** Empirisch belegt: Kinder sind in suggestiven Befragungssituationen besonders anfaellig für Falschaussagen, weil sie:
 - Erwartungen erwachsener Befragungspersonen erkennen und beantworten.
@@ -50,7 +50,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - **Suggestionsindikatoren in der Vernehmung.** Geschlossene Fragen, Lobpunkte für bestimmte Antworten, Wiederholungen, Vorhalt von Materialien, Anwesenheit involvierter Erwachsener.
 - **Familiendynamik adressieren.** Trennungs- und Sorgerechtsstreit, Geschwisterkonflikte, neue Lebenspartner, schulische Probleme — alles mitdenken.
 - **Hilfsbeweisantrag aussagepsychologisches Gutachten.** Bei kindlichen Zeugen in Aussage-gegen-Aussage-Konstellationen ist die Einholung eines SV-Gutachtens nahezu Standard. Der Tatrichter besitzt regelmaessig nicht die entwicklungspsychologische Kompetenz.
-- **Pflichtverteidigung pruefen.** Bei Sexualdelikten in der Regel notwendige Verteidigung (§ 140 StPO). Antrag fruehzeitig.
+- **Pflichtverteidigung prüfen.** Bei Sexualdelikten in der Regel notwendige Verteidigung (§ 140 StPO). Antrag fruehzeitig.
 
 ## Trade-off-Matrix
 

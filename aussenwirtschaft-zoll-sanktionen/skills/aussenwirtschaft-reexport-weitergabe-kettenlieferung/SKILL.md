@@ -22,10 +22,10 @@ description: "Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weiter
 ## Erste Schritte
 
 1. Lieferkette vollstaendig abbilden: alle Zwischen-haendler, Logistik, Zahlungsweg.
-2. BAFA-Genehmigung auf Weitergabe-Beschraenkungen pruefen.
+2. BAFA-Genehmigung auf Weitergabe-Beschraenkungen prüfen.
 3. No-Russia-Clause nach Art. 12g VO 833/2014: bei Anhaenge-XI/XX/XXXV-Gueter Klausel notwendig?
 4. Catch-All-Analyse: Kenntnis von Endverwender und Endverwendung bei Weiterlieferung?
-5. Vertragspartner-Due-Diligence auf Re-Export-Muster pruefen (UAE, Tuerkei als Durchgangslaender).
+5. Vertragspartner-Due-Diligence auf Re-Export-Muster prüfen (UAE, Tuerkei als Durchgangslaender).
 6. Re-Export-Pruefmatrix mit Risikobewertung erstellen und dokumentieren.
 
 ## Rechtsrahmen
@@ -50,7 +50,7 @@ description: "Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weiter
 - Kenntnis von offensichtlichem Re-Export-Risiko loest Catch-All aus; 'Nichtwissen wollen' genuegt nicht.
 - No-Russia-Clause fehlend bei Anhaenge-XI-Gueter-Export in Drittland ist eigenstaendiger Verstoss.
 - BAFA-Genehmigungsbedingungen schliessen Re-Export oft aus; Kaeufer muss informiert werden.
-- Kettenlieferung ueber mehrere EU-Länder aendert nichts an Auslosung der Genehmigungspflicht.
+- Kettenlieferung über mehrere EU-Länder aendert nichts an Auslosung der Genehmigungspflicht.
 
 ## Schnittstellen zu anderen Skills
 

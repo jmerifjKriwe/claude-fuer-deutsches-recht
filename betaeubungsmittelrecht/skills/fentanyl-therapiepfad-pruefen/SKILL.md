@@ -3,7 +3,7 @@ name: fentanyl-therapiepfad-pruefen
 description: "Fentanyl: Therapiepfad prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Fentanyl Therapiepfad Pruefen
+# Fentanyl Therapiepfad Prüfen
 
 ## Arbeitsweg
 

@@ -15,7 +15,7 @@ description: "Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versor
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beamte, die Elternzeit nehmen oder genommen haben und die Auswirkungen auf Besoldung Stufenaufstieg Versorgungsbezuege und Beihilfe pruefen wollen.
+Skill für Beamte, die Elternzeit nehmen oder genommen haben und die Auswirkungen auf Besoldung Stufenaufstieg Versorgungsbezuege und Beihilfe prüfen wollen.
 
 ## 2. Eingaben
 
@@ -27,11 +27,11 @@ Skill für Beamte, die Elternzeit nehmen oder genommen haben und die Auswirkunge
 ## 3. Ablauf / Checkliste
 
 ### a) Ruhegehaltfaehigkeit
-- Elternzeit ohne Bezuege ist grundsaetzlich nicht ruhegehaltfaehig (§ 6 BeamtVG i.V.m. § 6 BEEG).
+- Elternzeit ohne Bezuege ist grundsätzlich nicht ruhegehaltfaehig (§ 6 BeamtVG i.V.m. § 6 BEEG).
 - Kindererziehungszeiten werden in der Versorgung nach Massgabe gesonderter Regelungen beruecksichtigt (Kindererziehungszuschlag und vergleichbare Leistungen).
 
 ### b) Stufenaufstieg
-- Elternzeit hemmt grundsaetzlich den Stufenaufstieg; spezifische Verzoegerungstatbestaende pruefen.
+- Elternzeit hemmt grundsätzlich den Stufenaufstieg; spezifische Verzoegerungstatbestaende prüfen.
 
 ### c) Teilzeit waehrend Elternzeit
 - Teilzeit nach § 92 BBG / § 43 BeamtStG i.V.m. Landesrecht ermoeglicht Beruecksichtigung pro rata.
@@ -57,7 +57,7 @@ Skill für Beamte, die Elternzeit nehmen oder genommen haben und die Auswirkunge
 
 - § 6 BeamtVG (ruhegehaltfaehige Dienstzeiten); § 50a, § 50b BeamtVG (Kindererziehungszuschlag und Kindererziehungsergaenzungszuschlag).
 - § 15 BEEG (Anspruch auf Elternzeit); § 79 BBG (Mutterschutz und Elternzeit Bundesbeamte); § 92 BBG (Teilzeit aus familiaeren Gruenden); § 43 BeamtStG i.V.m. Landesrecht (Teilzeit waehrend Elternzeit).
-- BVerfG zur Beruecksichtigung von Kindererziehungszeiten in der Beamtenversorgung — Datum und Az vor Zitat in amtlicher Quelle live pruefen.
+- BVerfG zur Beruecksichtigung von Kindererziehungszeiten in der Beamtenversorgung — Datum und Az vor Zitat in amtlicher Quelle live prüfen.
 - Versorgungsausgleichsgesetz bei Scheidung waehrend oder nach Elternzeit; § 12 VersAusglG (Beamtenversorgung als Anrecht).
 
 ## 7. Beispiel (Kurzfassung)

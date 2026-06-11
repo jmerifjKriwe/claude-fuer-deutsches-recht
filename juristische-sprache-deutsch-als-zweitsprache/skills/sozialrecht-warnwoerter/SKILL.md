@@ -22,9 +22,9 @@ description: "Hilft bei Sozialrecht Warnwoerter für Menschen mit Deutsch als Zw
 - **Widerspruch (§ 84 SGG)**: 1 Monat ab Bekanntgabe; bei Auslandszustellung 3 Monate.
 - **Klage (§ 87 SGG)**: 1 Monat nach Widerspruchsbescheid; kostenfrei (§ 183 SGG).
 - **Eilantrag § 86b SGG**: bei drohendem Leistungsentzug Antrag auf einstweiligen Rechtsschutz.
-- **Beitragsschulden Krankenkasse**: koennen zum Ruhen des Krankenversicherungsschutzes fuehren.
-- **Rentenbescheid Widerspruch**: 1 Monat; bei laenger zurueckliegenden Bescheiden Ueberpruefung nach § 44 SGB X moeglich (4-Jahres-Frist).
-- **Rentenbeginn / Anrechnungszeiten**: Auswirkungen auf Hoehe und Wartezeit.
+- **Beitragsschulden Krankenkasse**: können zum Ruhen des Krankenversicherungsschutzes fuehren.
+- **Rentenbescheid Widerspruch**: 1 Monat; bei laenger zurueckliegenden Bescheiden Ueberpruefung nach § 44 SGB X möglich (4-Jahres-Frist).
+- **Rentenbeginn / Anrechnungszeiten**: Auswirkungen auf Höhe und Wartezeit.
 
 ## Vor jeder Unterschrift / Erklaerung
 - Habe ich Anspruch auf Beratungshilfe (BerHG) oder Prozesskostenhilfe?

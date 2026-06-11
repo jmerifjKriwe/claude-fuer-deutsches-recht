@@ -41,19 +41,19 @@ description: "PrALR: Ablösung durch BGB, Fortgeltungsreste, Überleitung und hi
 - BGB tritt zum 01.01.1900 in Kraft.
 - ALR wird verdraengt — aber Altrechte bleiben.
 
-### Subsumtionsbeispiel: Vermoegen aus ALR-Erbschaft 1895
+### Subsumtionsbeispiel: Vermögen aus ALR-Erbschaft 1895
 Sachverhalt: Erbe nach ALR-Vater stirbt 1895; Erbteilung im April 1898.
 ALR-Loesung: Vollstaendig nach ALR. Heute relevant nur, wenn Folgeerbschaft aus 1898 noch heute auswirkungen hat (z. B. Stammguter-Verteilung in Adelsfamilien).
 
 ### Subsumtionsbeispiel: Hutungsrecht im Grundbuch heute eingetragen
 Sachverhalt: 1885 begruendetes Hutungsrecht in Brandenburg ist heute noch im Grundbuch.
-Pruefung: EGBGB Art. 184 — Bestand des Altrechts; Ablösung nach Sachenrechtsbereinigungsgesetz 1994 (für Ostdeutschland) oder landesrechtliche Bereinigungsgesetze.
+Prüfung: EGBGB Art. 184 — Bestand des Altrechts; Ablösung nach Sachenrechtsbereinigungsgesetz 1994 (für Ostdeutschland) oder landesrechtliche Bereinigungsgesetze.
 
 ### Subsumtionsbeispiel: Fideikommiss aufgeloest 1938
 Sachverhalt: Stammgut der Familie X war ALR-Fideikommiss.
-Pruefung: Aufloesungsgesetz 26.01.1938 — Sondervermoegen wird Vermoegen aller Familienmitglieder. Heutige Streitigkeiten nach Erbfaellen aus dieser Epoche.
+Prüfung: Aufloesungsgesetz 26.01.1938 — Sondervermoegen wird Vermögen aller Familienmitglieder. Heutige Streitigkeiten nach Erbfaellen aus dieser Epoche.
 
 ### Heutige Praxisrelevanz
-- Erbschaftsstreitigkeiten ueber Stammguter und alte Adelsvermoegen.
+- Erbschaftsstreitigkeiten über Stammguter und alte Adelsvermoegen.
 - Grundbuch-Eintragungen aus dem 19. Jh.
 - Lokales Bereinigungsgesetzrecht der Länder (Sachenrechtsbereinigungsgesetz für Ostdeutschland 1994).

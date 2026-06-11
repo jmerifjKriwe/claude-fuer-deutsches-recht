@@ -28,8 +28,8 @@ Skill für Beamte im Auswaertigen Dienst, in Auslandsentsendung der Bundespolize
 ## 3. Ablauf / Checkliste
 
 ### a) Auslandszuschlag (§ 53 BBesG)
-- Hoehe abhaengig von Posten-Kategorie, Familienstand, Dienststellung.
-- Pruefung der korrekten Eingruppierung des Mandanten.
+- Höhe abhaengig von Posten-Kategorie, Familienstand, Dienststellung.
+- Prüfung der korrekten Eingruppierung des Mandanten.
 
 ### b) Mietzuschuss (§ 54 BBesG)
 - Mietzuschuss für den Anteil der Miete, der einen Selbstbehalt uebersteigt.
@@ -46,7 +46,7 @@ Skill für Beamte im Auswaertigen Dienst, in Auslandsentsendung der Bundespolize
 - Bei Posten mit besonderen Belastungen (Sicherheitslage, klimatische Bedingungen) zusaetzliche Zuschlaege; Auslandsverwendungszuschlagsverordnung.
 
 ### f) Beendigung Auslandsverwendung
-- Rueckkehrregelung, Tropentauglichkeit, gesundheitliche Pruefung; ggf. Anschlussverwendung.
+- Rueckkehrregelung, Tropentauglichkeit, gesundheitliche Prüfung; ggf. Anschlussverwendung.
 
 ## 4. Quellenpflicht
 

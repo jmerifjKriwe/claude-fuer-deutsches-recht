@@ -23,7 +23,7 @@ Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand
 2. **Frist bei § 24 StVG / § 26a StVG?** — § 26 Abs. 3 StVG: 3 Monate Verjaerunsfrist für einfache Verkehrs-OWi.
 3. **Unterbrechungshandlungen geprueft?** — § 33 OWiG: Anhörung des Betroffenen, Bussgeldbescheid, Eingang Einspruch — unterbrechen Verjährung.
 4. **Absolute Verjährung?** — § 33 Abs. 3 OWiG: absolute Verjährung = doppelte ordentliche Frist (bei 3-Monats-Frist: 6 Monate).
-5. **Zustellungsfehler moeglich?** — Fehlerhafte Zustellung unterbricht die Verjährung nicht; Bescheid gilt als nicht zugestellt.
+5. **Zustellungsfehler möglich?** — Fehlerhafte Zustellung unterbricht die Verjährung nicht; Bescheid gilt als nicht zugestellt.
 
 ## Zentrale Normen
 

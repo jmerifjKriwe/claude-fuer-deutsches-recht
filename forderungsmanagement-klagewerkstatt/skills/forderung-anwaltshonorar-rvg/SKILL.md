@@ -21,7 +21,7 @@ Geltendmachung des Vergueetungsanspruchs des Rechtsanwalts gegen den Mandanten. 
 **Pflicht-Formerfordernisse**:
 1. Schriftform (auch elektronisch mit qeS, § 126a BGB).
 2. Bezeichnung als "Vergueetungsvereinbarung" (oder vergleichbar deutlich).
-3. Hinweis, dass Hoehe abweicht von gesetzlicher Vergueetung.
+3. Hinweis, dass Höhe abweicht von gesetzlicher Vergueetung.
 4. Hinweis, dass bei Beratungshilfe/PKH andere Vergueetung gilt.
 5. Im Beratungshilfeverfahren Schutz § 8 BerHG.
 
@@ -29,8 +29,8 @@ Folge bei Formverstoss: Mandant schuldet **nur die gesetzliche Vergueetung**, ka
 
 **Inhaltlich**:
 - Erfolgshonorar: § 4a RVG, nur in begruendetem Einzelfall (wirtschaftliche Bedingungen), schriftlich, Belehrung.
-- Stundenhonorar: zulaessig, nach Aufwand abzurechnen mit nachpruefbarer Erfassung.
-- Pauschalhonorar: zulaessig.
+- Stundenhonorar: zulässig, nach Aufwand abzurechnen mit nachpruefbarer Erfassung.
+- Pauschalhonorar: zulässig.
 
 ## Berechnung gesetzliche Gebuehr
 
@@ -52,7 +52,7 @@ Gebührensaetze gestaffelt nach Gegenstandswert; 0,5 / 1,0 / 1,3 / 1,6 etc.
 
 ### Schritt 3: Gebührentatbestand im VV
 
-| Nr. VV | Tatbestand | Hoehe |
+| Nr. VV | Tatbestand | Höhe |
 |---|---|---|
 | 2300 | Geschaeftsgebuehr aussergerichtlich | 0,5 - 2,5 (Schwellengebuehr 1,3) |
 | 3100 | Verfahrensgebuehr Zivilprozess 1. Instanz | 1,3 |
@@ -67,7 +67,7 @@ Gebührensaetze gestaffelt nach Gegenstandswert; 0,5 / 1,0 / 1,3 / 1,6 etc.
 
 ### Schritt 4: Auslagen
 
-| Nr. VV | Auslagen | Hoehe |
+| Nr. VV | Auslagen | Höhe |
 |---|---|---|
 | 7000 | Schreib-/Druckkosten | 0,15 EUR pro Seite (max. 1500 Seiten) |
 | 7001 | Pauschale Post/Telekom | 20 % der Gebuehr, max. 20 EUR |
@@ -94,16 +94,16 @@ Anwalt kann jederzeit Vorschuss verlangen. Mandant schuldet, sobald gesetzlich o
 
 1. **Berechnung-Anlage** der Klage muss enthalten:
    - Gegenstandswert mit Begruendung.
-   - Gebührenposition mit VV-Nr. und Hoehe.
+   - Gebührenposition mit VV-Nr. und Höhe.
    - Auslagen einzeln.
    - USt-Berechnung.
-2. **Belehrung Mandant** beim Erstkontakt ueber voraussichtliche Vergueetung (§ 49b Abs. 5 BRAO).
-3. **Berufung auf RVG-Gebuehr**: vor Klage Vergleichsangebot pruefen (Berufsethik).
+2. **Belehrung Mandant** beim Erstkontakt über voraussichtliche Vergueetung (§ 49b Abs. 5 BRAO).
+3. **Berufung auf RVG-Gebuehr**: vor Klage Vergleichsangebot prüfen (Berufsethik).
 4. **Datenschutz**: nur erforderliche Mandatsdaten offenbaren (Verschwiegenheitspflicht § 43a BRAO).
 
 ## Pruefraster Verteidigung Mandant
 
-| Einwendung | Pruefung |
+| Einwendung | Prüfung |
 |---|---|
 | Schlechtleistung | Beweislast Mandant; Schadensersatz § 280 BGB |
 | Schaetzung uebersteigt | § 49b Abs. 5 BRAO Belehrung erfolgt? |
@@ -115,7 +115,7 @@ Anwalt kann jederzeit Vorschuss verlangen. Mandant schuldet, sobald gesetzlich o
 
 | Konstellation | Streitwert Honorarklage |
 |---|---|
-| Klage auf gesetzliche Vergueetung | Hoehe Vergueetung |
+| Klage auf gesetzliche Vergueetung | Höhe Vergueetung |
 | Klage auf Differenz Vereinbarung-gesetzlich | Differenzbetrag |
 | Klage auf Rueckforderung | Rueckzahlungsbetrag |
 

@@ -20,7 +20,7 @@ description: "Schwere Koerperverletzung nach § 226 StGB: Erfolgsqualifikation m
 
 ## Worum geht es
 
-§ 226 StGB ist eine **Erfolgsqualifikation** der Koerperverletzung mit besonders schweren bleibenden Folgen. Es muss eine Grundtat nach § 223 StGB oder § 224 StGB vorliegen, und es muessen besonders schwere Folgen eingetreten sein.
+§ 226 StGB ist eine **Erfolgsqualifikation** der Koerperverletzung mit besonders schweren bleibenden Folgen. Es muss eine Grundtat nach § 223 StGB oder § 224 StGB vorliegen, und es müssen besonders schwere Folgen eingetreten sein.
 
 Strafrahmen:
 
@@ -36,7 +36,7 @@ Die zentrale Verteidigungsfrage ist, ob die schwere Folge dem Taeter zugerechnet
 
 **Grundtatbestand:** Vorsaetzliche Koerperverletzung nach § 223 StGB oder qualifizierte nach § 224 StGB.
 
-**Tatbestandsspezifischer Gefahrenzusammenhang:** Die schwere Folge muss ein spezifischer Risikoverlauf aus der Grundtat sein. Bei atypischen Folgen (z. B. spaeter Selbstmord aufgrund von PTBS) eingeschraenkte Zurechnung.
+**Tatbestandsspezifischer Gefahrenzusammenhang:** Die schwere Folge muss ein spezifischer Risikoverlauf aus der Grundtat sein. Bei atypischen Folgen (z. B. später Selbstmord aufgrund von PTBS) eingeschraenkte Zurechnung.
 
 ## Schwere Folgen nach § 226 Abs. 1 StGB
 
@@ -56,7 +56,7 @@ Die zentrale Verteidigungsfrage ist, ob die schwere Folge dem Taeter zugerechnet
 - **Laehmung:** Dauerhafte Bewegungsunfaehigkeit eines Koerperteils mit erheblicher Auswirkung.
 - **Geistige Krankheit oder Behinderung:** Dauerhafte Beeintraechtigung der geistigen Faehigkeiten.
 
-**Dauerhaftigkeit:** Voraussichtlich nicht behebbar oder nur durch unverhaeltnismäßige Massnahmen behebbar. Bei Heilbarkeit durch medizinische Standardmassnahmen scheidet § 226 StGB aus.
+**Dauerhaftigkeit:** Voraussichtlich nicht behebbar oder nur durch unverhaeltnismäßige Maßnahmen behebbar. Bei Heilbarkeit durch medizinische Standardmassnahmen scheidet § 226 StGB aus.
 
 ## Absichtsvariante § 226 Abs. 2 StGB
 
@@ -64,26 +64,26 @@ Wenn der Taeter die schwere Folge **vorsaetzlich** verursacht (mindestens dolus 
 
 ## Praktikertipps der Verteidigung
 
-- **Dauerhaftigkeit pruefen:** Sachverstaendiger zu Heilungschancen. Bei moeglicher Heilung (z. B. Rekonstruktion, Prothese, Therapie) ist § 226 StGB nicht erfuellt.
+- **Dauerhaftigkeit prüfen:** Sachverstaendiger zu Heilungschancen. Bei moeglicher Heilung (z. B. Rekonstruktion, Prothese, Therapie) ist § 226 StGB nicht erfuellt.
 - **Schwere der Folge:** Aerztliches Gutachten zu Funktionseinbusse. Auch bei Verlust eines Glieds Streit, ob "wichtig" iSd Nr. 2.
-- **Subjektiver Bezug:** Fahrlaessigkeit nach § 18 StGB pruefen. Wenn die schwere Folge aus Sicht des Taeters voellig unvorhersehbar war, scheidet Erfolgsqualifikation aus.
+- **Subjektiver Bezug:** Fahrlaessigkeit nach § 18 StGB prüfen. Wenn die schwere Folge aus Sicht des Taeters völlig unvorhersehbar war, scheidet Erfolgsqualifikation aus.
 - **Abgrenzung Abs. 1 / Abs. 2:** Bei Abs. 2 muss Vorsatz auf die schwere Folge bewiesen werden (Wissentlichkeit oder Absicht, nicht nur dolus eventualis). Verteidigung kann oft auf Abs. 1 zurueckdraengen.
 - **Minder schwerer Fall § 226 Abs. 3 StGB:** Bei geringer Tatschwere, Geststaendnis, Reue, TOA.
-- **§ 46a StGB:** TOA / Schadenswiedergutmachung – auch bei schwerer Koerperverletzung Strafrahmenverschiebung moeglich, aber selten Absehen von Strafe (Hoechststrafgrenze).
+- **§ 46a StGB:** TOA / Schadenswiedergutmachung – auch bei schwerer Koerperverletzung Strafrahmenverschiebung möglich, aber selten Absehen von Strafe (Hoechststrafgrenze).
 
 ## Trade-off-Matrix
 
 - **Schweigen vs. Aussage:** Bei strittiger Schwere der Folge kann die Verteidigung mit Aussage zur Tathandlung wenig erreichen; entscheidend ist medizinische Sachverstaendigenbeweisaufnahme.
 - **Geststaendnis:** Bei eindeutigem objektivem Befund Geststaendnis und Konzentration auf Strafrahmenverschiebung (§ 21 StGB, § 46a StGB).
 - **Glaubwuerdigkeit:** Bei "Aussage gegen Aussage" zur Vorgeschichte (Notwehr, Provokation) Beweisaufnahme nutzen.
-- **Nebenklage:** § 395 Abs. 1 Nr. 3 StPO – Nebenklage regelmaessig zulaessig.
+- **Nebenklage:** § 395 Abs. 1 Nr. 3 StPO – Nebenklage regelmaessig zulässig.
 
 ## Konkurrenzen
 
 - **§§ 223, 224 StGB:** Werden durch § 226 StGB qualifiziert; Tateinheit (§ 52 StGB) oder Verdraengung im Wege der Spezialitaet.
 - **§ 227 StGB:** Bei Todesfolge.
 - **§ 212 StGB:** Bei Toetungsvorsatz vorrangig.
-- **§ 225 StGB:** Bei Schutzbefohlenen Tateinheit moeglich.
+- **§ 225 StGB:** Bei Schutzbefohlenen Tateinheit möglich.
 - **§§ 211, 212 StGB iVm § 22 StGB:** Versuchter Mord / Totschlag konsumiert ggf. § 226 StGB.
 
 ## Strafzumessung
@@ -93,7 +93,7 @@ Wenn der Taeter die schwere Folge **vorsaetzlich** verursacht (mindestens dolus 
 - **Minder schwerer Fall (Abs. 3):** Strafrahmen sechs Monate bis fuenf Jahre (Abs. 1) oder ein Jahr bis zehn Jahre (Abs. 2).
 - **Versuch:** § 226 Abs. 4 StGB – Versuch strafbar (insb. für Abs. 2 relevant).
 - **§ 49 StGB:** Strafrahmenverschiebung bei vertypten Milderungsgruenden (§ 21 StGB, § 46a StGB, § 23 Abs. 2 StGB).
-- **Bewaehrung:** Bei Strafe bis zu zwei Jahren grundsaetzlich moeglich; in der Praxis bei § 226 StGB selten.
+- **Bewaehrung:** Bei Strafe bis zu zwei Jahren grundsätzlich möglich; in der Praxis bei § 226 StGB selten.
 
 ## Mustertexte
 

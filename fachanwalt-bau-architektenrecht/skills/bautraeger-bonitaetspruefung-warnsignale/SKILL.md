@@ -47,5 +47,5 @@ description: "Bautraeger-Bonitaetspruefung Warnsignale: Skill listet typische Wa
 ## Pruefraster
 
 1. Welche Warnsignale?
-2. Risiko-Hoehe?
+2. Risiko-Höhe?
 3. Aufruf zur Sicherung?

@@ -22,7 +22,7 @@ Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in
 | --- | --- | --- |
 | Einspruch Bussgeldbescheid Paragraf 67 Owig | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-verkehrsrecht/einspruch-bussgeldbescheid-paragraf-67-owig.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-verkehrsrecht/einspruch-bussgeldbescheid-paragraf-67-owig.odt) |
 
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich pruefen und an konkreten Fall anpassen.*
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 
@@ -45,7 +45,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-## Anwalts-Dashboard fuer den Schnelleinstieg
+## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
 Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
@@ -92,7 +92,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `autonom-abschlussprodukt-und-uebergabe` | Autonom: Abschlussprodukt und Übergabe: Autonom: Abschlussprodukt und Übergabe. |
 | `bezuege-behoerden-gericht-und-registerweg` | Bezuege: Behörden-, Gerichts- oder Registerweg: Bezuege: Behörden-, Gerichts- oder Registerweg. |
 | `blitzer-messung-paragraf-3-stvo` | Blitzer Messung § 3 StVO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
-| `bussgeld-einspruch-pruefen` | Bussgeld Einspruch Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Bussgeld Einspruch Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprec... |
+| `bussgeld-einspruch-pruefen` | Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprec... |
 | `bussgeld-zahlen-schwellen-und-berechnung` | Bussgeld: Zahlen, Schwellenwerte und Berechnung: Bussgeld: Zahlen, Schwellenwerte und Berechnung. |
 | `bussgeldbescheid-pruefen` | Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist: OWiG §§ 65 ff. StVG § 26 Abs. 3 Verjährung. Prüfraster: Form- und Verfahrensfehler Verj... |
 | `dieselskandal-paragraf-826-bgb` | Dieselskandal § 826 BGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
@@ -109,7 +109,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `kanzlei-mandantenkommunikation-entscheidungsvorlage` | Kanzlei: Mandantenkommunikation und Entscheidungsvorlage: Kanzlei: Mandantenkommunikation und Entscheidungsvorlage. |
 | `kaskoversicherung-paragraf-81-vvg-bgh-iv-zr-25-21` | Kaskoversicherung Paragraf 81 Vvg BGH Iv Zr 25 21: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `kfz-handel-paragraf-434-bgb` | kfz Handel § 434 BGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
-| `mandat-triage-verkehrsrecht` | Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen prüfen: Eingangs-Triage Verkehrsrecht. Prüfraster: Verfahrensart (Zivilrecht Sc... |
+| `mandat-triage-verkehrsrecht` | Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen: Eingangs-Triage Verkehrsrecht. Prüfraster: Verfahrensart (Zivilrecht Sc... |
 | `mpu-vorbereitung` | Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll: MPU Medizinisch-Psychologische Untersuchung Fahrerlaubnisrecht. Prüfraster: Anlass Alkohol Drogen Punkte Aggression zugelassene... |
 | `output-waehlen` | Output-Wahl für Fachanwalt Verkehrsrecht: stimmt Adressat (Betroffener/Geschädigter, Behörde, Versicherer), Frist (§ 67 OWiG Einspruch 2 Wochen) und Form auf den Zweck ab — typische Outputs: Einspruch OWi, Strafbefehlseinspruch, MPU-Bera... |
 | `personen-verhandlung-vergleich-und-eskalation` | Personen: Verhandlung, Vergleich und Eskalation: Personen: Verhandlung, Vergleich und Eskalation. |
@@ -127,13 +127,13 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `stvg-fristen-form-und-zustaendigkeit` | Stvg: Fristen, Form, Zuständigkeit und Rechtsweg: Stvg: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `stvo-dokumentenmatrix-und-lueckenliste` | Stvo: Dokumentenmatrix, Lückenliste und Nachforderung: Stvo: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `tempo-messung-beweis` | Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid: Tempo-Messung Beweisanfechtung OWiG. Prüfraster: Standardmessgeräte PoliScan Speed Es 3.0 LeivTec XV-3 Multanova... |
-| `unfall-haftungsquote-berechnen` | Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote: Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Sch... |
+| `unfall-haftungsquote-berechnen` | Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten können geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote: Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Sch... |
 | `unfallregulierung-beweislast-und-darlegungslast` | Unfallregulierung: Beweislast, Darlegungslast und Substantiierung: Unfallregulierung: Beweislast, Darlegungslast und Substantiierung. |
 | `unfallregulierung-quoten` | Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind: § 254 BGB Mitverschulden Quoten-Modelle. Prüf... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Verkehrsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Bußgeldbescheid, Polizeiprotokoll, Anhörungsbogen), nennt pro Lücke Beweisthema, Beschaffungsweg (AG (Bußgeld + Straf)), Frist u... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Ver... |
 | `verk-fahrerlaubnisrecht-leitfaden` | Leitfaden Fahrerlaubnisrecht: Entziehung, MPU, Sperrfrist, vorzeitige Wiedererteilung: Pruefraster FeV-Begutachtung und Klage gegen Fahrerlaubnisbehoerde. |
-| `verk-fahrtenbuch-anordnung-spezial` | Spezialfall Fahrtenbuchanordnung § 31a StVZO: Voraussetzungen, Ermessen, Mitwirkung, Verhaeltnismaessigkeit: Pruefraster für Widerspruch und Klage. |
+| `verk-fahrtenbuch-anordnung-spezial` | Spezialfall Fahrtenbuchanordnung § 31a StVZO: Voraussetzungen, Ermessen, Mitwirkung, Verhältnismäßigkeit: Pruefraster für Widerspruch und Klage. |
 | `verk-trunkenheit-drogenfahrt-spezial` | Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntuechtigkeit, BAK-Werte, Cannabis-Grenzwert Reform 2024: Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative u... |
 | `verk-unfallregulierung-workflow` | Unfallregulierung: Anspruchsgrundlagen § 7 StVG / § 18 StVG / § 823 BGB / § 115 VVG, Quote, Schadenspositionen Wiederbeschaffungswert, Wertminderung, Nutzungsausfall: Unfallregulierung: Anspruchsgrundlagen § 7 StVG / § 18 StVG / § 823 BG... |
 | `verkehr-autonom-1d-stvg` | Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren: § 1d StVG autonomes Fahren Level 4. Prüfraster: Haftungsverteilung Halter § 7 StVG Fahrer § 18... |

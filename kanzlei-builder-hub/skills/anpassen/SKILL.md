@@ -23,10 +23,10 @@ description: "Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- Art. 25 DSGVO — Privacy by Design und Default: Konfigurationsaenderungen muessen Datenschutz beruecksichtigen
+- Art. 25 DSGVO — Privacy by Design und Default: Konfigurationsaenderungen müssen Datenschutz beruecksichtigen
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei Einsatz externer KI-Infrastruktur
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: bei jeder Aenderung des Verarbeitungsumfangs zu aktualisieren
-- Art. 32 DSGVO — Technisch-organisatorische Massnahmen: TOM-Dokumentation nach jeder relevanten Aenderung
+- Art. 32 DSGVO — Technisch-organisatorische Maßnahmen: TOM-Dokumentation nach jeder relevanten Aenderung
 
 ## Eingaben
 

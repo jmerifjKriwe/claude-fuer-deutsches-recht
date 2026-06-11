@@ -19,7 +19,7 @@ Eine emeritierte Professorin uebersendet ihre handschriftliche Festschrift-Notiz
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftliche / historische / mechanisch-tippspurige Vorlagen. Klaeren Sie:
+Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftliche / historische / mechanisch-tippspurige Vorlagen. Klären Sie:
 
 1. Welche Vorlagengattung (Handschrift, Schreibmaschine, Frakturdruck, Mikrofilm)?
 2. Wer ist Urheber, wann verfasst, in welchem Rechtsstand?
@@ -35,10 +35,10 @@ Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftlich
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Rechte klaeren.** Urhg-Schutz besteht bis 70 Jahre nach Tod des Verfassers (§ 64 UrhG). Bei Nachlass: Erbenfreigabe. Auch bei freien Werken: Pietaet und Quellenangabe.
+1. **Rechte klären.** Urhg-Schutz besteht bis 70 Jahre nach Tod des Verfassers (§ 64 UrhG). Bei Nachlass: Erbenfreigabe. Auch bei freien Werken: Pietaet und Quellenangabe.
 2. **Materialwuerdigung.** Original schonen - hochaufloesende Scans erstellen, dann mit Scans arbeiten.
-3. **Erste Transkription.** Handschrift Wort für Wort, mit `[?]` bei Unsicherheit. Wenn moeglich, durch zweite Lektorin gegenlesen lassen (Vier-Augen-Prinzip).
-4. **Vergleichende Lesart.** Bei Streitfaellen: Schriftvergleich mit anderen Texten desselben Verfassers. Wenn keine Klaerung moeglich, beide Lesarten dokumentieren.
+3. **Erste Transkription.** Handschrift Wort für Wort, mit `[?]` bei Unsicherheit. Wenn möglich, durch zweite Lektorin gegenlesen lassen (Vier-Augen-Prinzip).
+4. **Vergleichende Lesart.** Bei Streitfaellen: Schriftvergleich mit anderen Texten desselben Verfassers. Wenn keine Klärung möglich, beide Lesarten dokumentieren.
 5. **Modernisierung.** Alte Rechtschreibung (Hauptwoerter, Eszett, scharfes S) behutsam, mit Editionsstandard. Bei wissenschaftlicher Edition: nichts modernisieren, nur dokumentieren.
 6. **Edition mit Apparat.** Bei wissenschaftlichen Editionen: textkritischer Apparat (Lesartenvergleich) und Kommentar (Sachapparat).
 7. **Druckfreigabe** mit Hinweis "Editionsstand: 06/2026, Lesarten gesichert / fraglich".

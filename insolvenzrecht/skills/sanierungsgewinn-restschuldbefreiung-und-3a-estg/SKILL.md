@@ -60,9 +60,9 @@ Kaltstart-Fragen:
 
 1. **Verbindlichkeiten klassifizieren:** geschaeftlich vs. privat. Nur geschaeftlich loest Sanierungsertrag aus.
 2. **Sanierungs-Modus:**
- - Plan-Sanierung (mit Forderungsverzicht): Sanierungsertrag moeglich.
+ - Plan-Sanierung (mit Forderungsverzicht): Sanierungsertrag möglich.
  - reine Restschuldbefreiung: zivilrechtliches Erloeschen der Verbindlichkeit; steuerlich aber bilanziell Ertrag, falls die Verbindlichkeit zuvor passiviert war.
-3. **Vier Voraussetzungen Paragraph 3a Absatz 2 EStG** pruefen, wenn unternehmensbezogen.
+3. **Vier Voraussetzungen Paragraph 3a Absatz 2 EStG** prüfen, wenn unternehmensbezogen.
 4. **Unternehmerbezogene Sanierung** abgrenzen — sie ist nicht von Paragraph 3a EStG erfasst; hier Hilfslinie Paragraph 227 AO.
 5. **Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG**: Verlustvortraege der natuerlichen Person.
 6. **Antrag mit der Einkommensteuererklaerung** des Sanierungsjahres.
@@ -83,7 +83,7 @@ Die Restschuldbefreiung erlischt die Verbindlichkeit (Paragraph 301 Absatz 1 Ins
 
 | Konstellation | steuerliche Folge |
 |---|---|
-| Verbindlichkeit war geschaeftlich, Sanierung unternehmensbezogen | Sanierungsertrag, Paragraph 3a EStG-Pruefung |
+| Verbindlichkeit war geschaeftlich, Sanierung unternehmensbezogen | Sanierungsertrag, Paragraph 3a EStG-Prüfung |
 | Verbindlichkeit war geschaeftlich, Sanierung unternehmerbezogen | Ertrag, kein Paragraph 3a EStG; Hilfslinie Paragraph 227 AO |
 | Verbindlichkeit war privat | kein steuerlicher Ertrag, weil keine Betriebsausgabe |
 | Verbindlichkeit war gemischt | Aufteilung |
@@ -101,9 +101,9 @@ Die Restschuldbefreiung erlischt die Verbindlichkeit (Paragraph 301 Absatz 1 Ins
 ## Praxistipps der alten Hasen
 
 1. **Verbindlichkeiten klassifizieren.** Eine Excel-Tabelle mit "geschaeftlich/privat/gemischt" pro Forderung ist die Basis.
-2. **Bei Einzelunternehmer immer pruefen, ob Plan oder Restschuldbefreiung das richtige Werkzeug ist.** Plan ist steuerlich tendenziell besser, weil Paragraph 3a EStG greifen kann.
+2. **Bei Einzelunternehmer immer prüfen, ob Plan oder Restschuldbefreiung das richtige Werkzeug ist.** Plan ist steuerlich tendenziell besser, weil Paragraph 3a EStG greifen kann.
 3. **Erlassantrag Paragraph 227 AO** für den unternehmerbezogenen Anteil vorbereiten.
-4. **Verbraucherinsolvenz-Mandat:** Steueranfall pruefen, aber selten relevant.
+4. **Verbraucherinsolvenz-Mandat:** Steueranfall prüfen, aber selten relevant.
 5. **Wohlverhaltensphase laeuft drei Jahre.** Plan im Vorfeld kann die Wohlverhaltensphase umgehen.
 6. **Versagungsgruende Paragraph 290 InsO** im Auge behalten — die Restschuldbefreiung ist nicht selbstverstaendlich.
 

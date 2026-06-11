@@ -8,7 +8,7 @@ description: "Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fris
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Itr Open Source Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt It Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Itr Open Source Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt It Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -147,12 +147,12 @@ Bei aktivem Hacker-Angriff:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — IT-Recht Mandat triage und routen | Triage-Protokoll; Template unten |
-| Variante A — Datenschutz-Schwerpunkt | DSGVO-Skills pruefen; DPA als erstes |
+| Variante A — Datenschutz-Schwerpunkt | DSGVO-Skills prüfen; DPA als erstes |
 | Variante B — Strafrecht-Beruehrer | § 202a ff. StGB; Strafrecht-Skill einbeziehen |
 | Variante C — Eilsituation Datenpanne | 72h-Frist DSGVO Art. 33; Skill cyber-incident-response |
 
@@ -167,7 +167,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - Bei Cyber-Incident: Sofort-Checkliste als Anhang
 - Empfehlung Folge-Skill
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -199,7 +199,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 2. Liegt ein Cyber-Vorfall oder eine Datenpanne vor — laeuft die 72-Stunden-Frist (Art. 33 DSGVO)?
 3. Handelt es sich um eine NIS-2-relevante Einrichtung — laeuft die 24-Stunden-Fruhwarnung (§ 32 BSIG n. F.)?
 4. Welches Sachgebiet ist einschlaegig (Softwarerecht, Datenschutz, KI-VO, DSA, Plattformrecht)?
-5. Wie hoch ist der Streitwert — sechsstellig oder mehr erfordert fruehs Sachverstaendigen-Bedarf klaeren?
+5. Wie hoch ist der Streitwert — sechsstellig oder mehr erfordert fruehs Sachverstaendigen-Bedarf klären?
 
 ## Output-Template — Triage-Protokoll IT-Recht
 **Adressat:** Kanzlei intern (Akte) — Tonfall: strukturiert-knapp

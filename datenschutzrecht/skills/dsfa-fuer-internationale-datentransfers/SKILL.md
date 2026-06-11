@@ -10,7 +10,7 @@ description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Inte
 - Bei Auftragsverarbeiter mit Sitz oder Unterauftrag im Drittland
 - Bei eigener Niederlassung im Drittland
 - Bei US-Cloud-Diensten (auch bei EU-Hosting wegen Zugriffsmoeglichkeit US-Behörden)
-- Bei Konzernintern-Transfers ueber Landesgrenzen
+- Bei Konzernintern-Transfers über Landesgrenzen
 - Bei KI-Anbietern mit Training oder Inferenz im Drittland
 - Bei nationalen Sicherheitsgesetzen des Drittlands (z. B. CLOUD Act, FISA 702, China DSL)
 
@@ -34,11 +34,11 @@ description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Inte
  - Drittlandrecht: Zugriffsbefugnisse von Behörden, Rechtsbehelfe Betroffener.
  - Anbieter-Risiko: Branche, Datentyp, Subunternehmer.
  - Daten-Risiko: Sensitivitaet, Aggregation, Identifizierbarkeit.
-4. **Massnahmen.**
+4. **Maßnahmen.**
  - Rechtsgrundlage: Angemessenheitsbeschluss, SCC mit passendem Modul, BCR, Ausnahme Art. 49.
- - Ergaenzende Massnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information ueber Behördenanfragen), organisatorisch (Audit, Schulung).
-5. **Restrisiko.** Pruefung ob die ergaenzenden Massnahmen das Schutzniveau auf das EU-Niveau anheben oder ob das Restrisiko hoch bleibt.
-6. **Konsultation / Genehmigung.** DSB-Anhörung; bei verbleibendem hohem Restrisiko Art. 36 DSGVO Vorabkonsultation; bei US-Anbietern Pruefung DPF-Zertifizierung.
+ - Ergaenzende Maßnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information über Behördenanfragen), organisatorisch (Audit, Schulung).
+5. **Restrisiko.** Prüfung ob die ergaenzenden Maßnahmen das Schutzniveau auf das EU-Niveau anheben oder ob das Restrisiko hoch bleibt.
+6. **Konsultation / Genehmigung.** DSB-Anhörung; bei verbleibendem hohem Restrisiko Art. 36 DSGVO Vorabkonsultation; bei US-Anbietern Prüfung DPF-Zertifizierung.
 
 ## Mustertext / Template (Transfer-Sektion einer DSFA)
 
@@ -109,9 +109,9 @@ Unterschrift DSB: ____________________
 - TIA wird separat vom DSFA-Prozess gefuehrt — Schnittstellen gehen verloren.
 - US-Cloud mit EU-Hosting wird als reiner EU-Verarbeitung behandelt — Zugriffsbefugnis US-Behörden uebersehen.
 - SCC-Modul falsch gewaehlt (C-P statt C-C oder umgekehrt).
-- Ergaenzende Massnahmen werden nur rechtlich, nicht technisch dokumentiert.
+- Ergaenzende Maßnahmen werden nur rechtlich, nicht technisch dokumentiert.
 - Ausnahme Art. 49 wird als Daueroption verwendet, obwohl sie nur für Einzelfaelle gedacht ist.
-- Re-Pruefung nach Schrems-Folgeurteil unterbleibt.
+- Re-Prüfung nach Schrems-Folgeurteil unterbleibt.
 - DPF-Zertifizierung des Anbieters wird nicht jaehrlich nachgeprueft.
 
 ## Quellen Stand 06/2026
@@ -120,7 +120,7 @@ Unterschrift DSB: ____________________
 - EuGH Urt. v. 16.07.2020, C-311/18 (Schrems II)
 - Durchfuehrungsbeschluss (EU) 2021/914 vom 04.06.2021 (SCC)
 - Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023 (DPF)
-- EDSA Leitlinien 04/2022 (Aktualitaet pruefen)
-- EDSA Empfehlungen 01/2020 zu ergaenzenden Massnahmen (Aktualitaet pruefen)
+- EDSA Leitlinien 04/2022 (Aktualitaet prüfen)
+- EDSA Empfehlungen 01/2020 zu ergaenzenden Maßnahmen (Aktualitaet prüfen)
 - Rechtsprechung: weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle

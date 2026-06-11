@@ -102,5 +102,5 @@ Pro Block maximal 50 Worte, gesamt unter 300 Worte. Schriftgrad 11 Punkt.
 - StBerG Paragraf 62a, WPO Paragraf 50a, BNotO Paragraf 26a, PAO Paragraf 39a
 - StGB Paragraf 203
 - VO (EU) 2016/679 (DSGVO), insb. Art. 5, 6, 28, 32, 44 ff.
-- BRAK-Hinweise zur KI-Nutzung (Stand pruefen vor Veroeffentlichung)
-- DAV-Stellungnahme zu Legal-AI (Stand pruefen vor Veroeffentlichung)
+- BRAK-Hinweise zur KI-Nutzung (Stand prüfen vor Veroeffentlichung)
+- DAV-Stellungnahme zu Legal-AI (Stand prüfen vor Veroeffentlichung)

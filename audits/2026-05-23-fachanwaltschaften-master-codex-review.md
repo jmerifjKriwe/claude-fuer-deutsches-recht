@@ -7,11 +7,11 @@
 Das Repo enthaelt 24 Fachanwalts-Plugins mit insgesamt rund 152 Skills, die
 deutsche Rechtsanwaeltinnen und Rechtsanwaelte bei der typischen
 fachanwaltlichen Mandatsarbeit unterstuetzen sollen. Vom
-Mandantengespraech ueber Anspruchsgrundlagenpruefung bis zum
+Mandantengespraech über Anspruchsgrundlagenpruefung bis zum
 Schriftsatzentwurf.
 
 **Ziel dieses Audits:** Die Skills sollen **juristisch praeziser** und
-**praxisnaeher hilfreicher** werden. Das ist ein **Master-Audit ueber
+**praxisnaeher hilfreicher** werden. Das ist ein **Master-Audit über
 alle Fachanwaltschaften** mit der Bitte, **direkt im selben PR** konkrete
 Verbesserungen einzucommitten.
 
@@ -50,7 +50,7 @@ Plugins (alphabetisch):
 
 ## Pruefdimensionen
 
-Bitte je Skill und je Plugin pruefen und **direkt Verbesserungen
+Bitte je Skill und je Plugin prüfen und **direkt Verbesserungen
 committen**, wo sinnvoll:
 
 ### Dimension 1 — Juristische Praezision
@@ -62,7 +62,7 @@ committen**, wo sinnvoll:
   - § 17 InsO Zahlungsunfaehigkeit vs § 19 InsO Ueberschuldung
   - Art. 6 / Art. 9 DSGVO statt § DSGVO (kein Paragraf!)
 - **BGH/BVerfG-Zitate:** Existieren die zitierten Urteile? Aktenzeichen
-  pruefen. Gibt es neuere Leitentscheidungen, die zitiert werden
+  prüfen. Gibt es neuere Leitentscheidungen, die zitiert werden
   sollten?
 - **Aktuelle Gesetzeslage:** Wurde z.B. das Hinweisgeberschutzgesetz,
   MoPeG, KStG-Reformen, PflPostG, neue ZPO-Aenderungen,
@@ -76,13 +76,13 @@ committen**, wo sinnvoll:
 
 - **Mandantengespraech-Checklisten:** Welche Fakten muss die Anwaeltin
   als erstes erfragen? Sind die Checklisten vollstaendig genug, um nach
-  dem Erstgespraech tatsaechlich weiterarbeiten zu koennen?
+  dem Erstgespraech tatsaechlich weiterarbeiten zu können?
 - **Anspruchsgrundlagen-Pruefschemata:** Sind die Pruefungsreihenfolgen
   korrekt und vollstaendig? Beispiel Arbeitsrecht:
   Kuendigungsschutzklage muss § 4 KSchG-Frist, § 1 KSchG-Anwendbarkeit
   (Schwellenwerte, Wartezeit), Kuendigungsgruende, Sozialauswahl,
   Anhoerung Betriebsrat § 102 BetrVG durchpruefen.
-- **Schriftsatz-Bausteine:** Sind die Textbausteine fuer
+- **Schriftsatz-Bausteine:** Sind die Textbausteine für
   Klageschriften, Beschwerden, Widersprueche so formuliert, dass sie
   direkt verwendbar sind?
 - **Tenor-Vorschlaege:** Bei Skills mit Klageantraegen — sind die
@@ -104,7 +104,7 @@ committen**, wo sinnvoll:
 ### Dimension 4 — Format und Stil
 
 - **DSGVO-Verweise:** Immer `Art.`, **nie** `§`.
-- **Komma-Zahlen:** Der Validator verbietet `\d\s*,\s*\d` ausschliesslich
+- **Komma-Zahlen:** Der Validator verbietet `\d\s*,\s*\d` ausschließlich
   in Skill-`description`-Frontmatter und Plugin-Manifest-`description`. Im
   SKILL.md-Body sind juristische Komma-Zahlen (z.B. `1,5 Promille`,
   `12,5 Prozent`) erlaubt und sollen nicht ohne Not umgeschrieben werden.
@@ -153,7 +153,7 @@ committen**, wo sinnvoll:
    - Neue Plugins/Skills alphabetisch in marketplace.json /
      plugin.json einsortieren.
 
-## Schweregrade fuer Findings
+## Schweregrade für Findings
 
 - **P1 — juristisch falsch:** Verweis auf nicht existente Norm,
   falsches Fristenmaass, falsche Zustaendigkeit, falsches BGH-AZ,
@@ -168,8 +168,8 @@ committen**, wo sinnvoll:
 
 - P1-Fixes werden gemerged.
 - P2-Fixes werden begutachtet und in der Regel uebernommen.
-- P3-Fixes sind willkommen, koennen aber gesammelt nachgezogen werden.
+- P3-Fixes sind willkommen, können aber gesammelt nachgezogen werden.
 - Falls Codex auf einzelne Plugins separate Folge-Audits empfiehlt,
   bitte das als Kommentar markieren.
 
-Vielen Dank fuer die gruendliche Pruefung.
+Vielen Dank für die gruendliche Prüfung.

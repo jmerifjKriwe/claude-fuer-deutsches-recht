@@ -12,25 +12,25 @@ Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. E
 | Regel | Inhalt | Norm |
 |---|---|---|
 | Beibringungsgrundsatz | Parteien tragen Tatsachen vor | § 282 ZPO |
-| Wahrheitspflicht | Parteien muessen wahr sein | § 138 Abs. 1 ZPO |
+| Wahrheitspflicht | Parteien müssen wahr sein | § 138 Abs. 1 ZPO |
 | Substantiierungspflicht | konkreter Tatsachenvortrag | § 138 Abs. 2 ZPO |
 | Geststaendnisfiktion | nicht bestrittene Tatsache gilt zugegeben | § 138 Abs. 3 ZPO |
-| Bestreiten mit Nichtwissen | nur ueber Vorgaenge der Gegenseite | § 138 Abs. 4 ZPO |
+| Bestreiten mit Nichtwissen | nur über Vorgaenge der Gegenseite | § 138 Abs. 4 ZPO |
 
 ## Verteilung der Beweislast
 
 **Grundsatz** (BGH IX ZR 12/86): Jede Partei traegt die Beweislast für die Tatsachen, aus denen sich die für sie guenstige Rechtsfolge ergibt.
 
-### Beim Klaeger (anspruchsbegruendende Tatsachen)
+### Beim Kläger (anspruchsbegruendende Tatsachen)
 
-| Forderungstyp | Klaeger beweist |
+| Forderungstyp | Kläger beweist |
 |---|---|
 | Kaufpreisanspruch § 433 BGB | Vertragsschluss, Lieferung, Faelligkeit |
-| Werklohnanspruch § 631 BGB | Vertrag, Abnahme, Hoehe Werklohn |
-| Mietzinsanspruch § 535 BGB | Mietvertrag, Hoehe Miete |
+| Werklohnanspruch § 631 BGB | Vertrag, Abnahme, Höhe Werklohn |
+| Mietzinsanspruch § 535 BGB | Mietvertrag, Höhe Miete |
 | Darlehensrueckforderung § 488 BGB | Darlehensvertrag, Auszahlung, Faelligkeit |
 | Schadensersatz § 280 BGB | Vertragsverletzung, Verschulden, Schaden, Kausalitaet |
-| Bereicherungsanspruch § 812 BGB | Leistung, ohne Rechtsgrund, Hoehe |
+| Bereicherungsanspruch § 812 BGB | Leistung, ohne Rechtsgrund, Höhe |
 
 ### Beim Beklagten (rechtshindernde, rechtsvernichtende, rechtshemmende Tatsachen)
 
@@ -56,7 +56,7 @@ Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. E
 
 ## Sekundaere Darlegungslast (BGH-Doktrin)
 
-Wenn Klaeger ausserhalb des für ihn beweisbaren Bereichs steht und der Beklagte naehere Kenntnis hat, trifft den Beklagten eine **sekundaere Darlegungslast** (konkrete Darlegung, ggf. Belege).
+Wenn Kläger ausserhalb des für ihn beweisbaren Bereichs steht und der Beklagte naehere Kenntnis hat, trifft den Beklagten eine **sekundaere Darlegungslast** (konkrete Darlegung, ggf. Belege).
 
 **Beispiele:**
 - Arbeitnehmer klagt Vergueetung → AG legt Stundenaufzeichnung vor.
@@ -75,7 +75,7 @@ Wenn Klaeger ausserhalb des für ihn beweisbaren Bereichs steht und der Beklagte
 
 ## Bestreiten mit Nichtwissen § 138 Abs. 4 ZPO
 
-**Zulaessig** nur ueber Tatsachen,
+**Zulässig** nur über Tatsachen,
 1. die nicht eigene Handlungen der Partei betreffen UND
 2. nicht Gegenstand eigener Wahrnehmung der Partei waren.
 
@@ -116,12 +116,12 @@ Klaegerin hat aus § 631 Abs. 1 BGB Anspruch auf Werklohn ...
 Bei Aufnahme eines Falles erstellen:
 | Tatsache | beweispflichtig | Beweismittel |
 |---|---|---|
-| Vertragsschluss 15.04.24 | Klaeger | Vertrag K1, Zeuge X |
-| Lieferung 30.04.24 | Klaeger | Lieferschein K2 |
-| Abnahme | Klaeger | Abnahmeprotokoll K3 |
-| Faelligkeit | Klaeger | § 641 BGB i.V.m. Abnahme K3 |
-| Verzug | Klaeger | Mahnung K4 mit Zugang |
-| Hoehe Schaden Inkassokosten | Klaeger | Anwaltsrechnung K6 |
+| Vertragsschluss 15.04.24 | Kläger | Vertrag K1, Zeuge X |
+| Lieferung 30.04.24 | Kläger | Lieferschein K2 |
+| Abnahme | Kläger | Abnahmeprotokoll K3 |
+| Faelligkeit | Kläger | § 641 BGB i.V.m. Abnahme K3 |
+| Verzug | Kläger | Mahnung K4 mit Zugang |
+| Höhe Schaden Inkassokosten | Kläger | Anwaltsrechnung K6 |
 | Erfuellung durch Bekl. | Beklagter | Kontoauszug |
 | Verjährung | Beklagter | Datum Forderungsbeginn |
 

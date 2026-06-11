@@ -3,7 +3,7 @@ name: kommunalvermoegen-anspruchspfad-pruefe
 description: "Einigungsvertrag und Vermögensrecht: Kommunalvermögen: Anspruchspfad prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Kommunalvermoegen Anspruchspfad Pruefe
+# Kommunalvermoegen Anspruchspfad Prüfe
 
 ## Arbeitsweg
 

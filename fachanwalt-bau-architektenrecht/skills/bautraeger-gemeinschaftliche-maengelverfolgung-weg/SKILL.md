@@ -24,13 +24,13 @@ description: "Gemeinschaftliche Maengelverfolgung in der WEG: Skill klaert wie d
 
 ## WEG-Reform 2020
 
-- Vor 2020: einzelner Eigentuemer konnte Maengel am Gemeinschaftseigentum geltend machen.
+- Vor 2020: einzelner Eigentümer konnte Maengel am Gemeinschaftseigentum geltend machen.
 - Seit 2020: nur noch die WEG (vertreten durch den Verwalter).
-- Beschluss der Eigentuemerversammlung ueber Geltendmachung erforderlich.
+- Beschluss der Eigentuemerversammlung über Geltendmachung erforderlich.
 
 ## Sondereigentum
 
-- Maengelansprueche am Sondereigentum bleiben beim einzelnen Eigentuemer.
+- Maengelansprueche am Sondereigentum bleiben beim einzelnen Eigentümer.
 - Maengel an Wohnungs-Innenwaenden, Bodenbelag, Sanitaer.
 
 ## Streitfaelle

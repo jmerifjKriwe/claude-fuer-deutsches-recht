@@ -5,7 +5,7 @@ description: "Vorpruefung Schritt 3 vor der Schranken-Schranke. Welche Schranke 
 
 # Stufe 0c: Welche Schranke gilt?
 
-> Erst wenn die einschlaegige Schranke benannt ist, kann die Schranken-Schranke (Verhaeltnismaessigkeit) sie kontrollieren.
+> Erst wenn die einschlaegige Schranke benannt ist, kann die Schranken-Schranke (Verhältnismäßigkeit) sie kontrollieren.
 
 ## Drei Vorbehaltsarten
 
@@ -17,17 +17,17 @@ Das Grundrecht darf durch oder aufgrund eines Gesetzes eingeschraenkt werden, oh
 - Art 14 I 2 GG (Inhalt und Schranken des Eigentums)
 
 ### Qualifizierter Gesetzesvorbehalt
-Das Grundrecht darf nur fuer die in der Schranke ausdruecklich genannten Zwecke eingeschraenkt werden.
+Das Grundrecht darf nur für die in der Schranke ausdruecklich genannten Zwecke eingeschraenkt werden.
 - Art 8 II GG (Versammlungen unter freiem Himmel)
 - Art 10 II GG (Brief-, Post- und Fernmeldegeheimnis nur unter qualifizierten Voraussetzungen, vgl BVerfGE 100, 313 (G10-Gesetz))
-- Art 11 II GG (Freizuegigkeit nur fuer Bestand des Bundes oder eines Landes, Bekaempfung Seuchengefahr usw.)
+- Art 11 II GG (Freizuegigkeit nur für Bestand des Bundes oder eines Landes, Bekaempfung Seuchengefahr usw.)
 - Art 13 III bis VII GG (Wohnung; sehr fein abgestufte Eingriffsstufen)
 
 ### Vorbehaltlose Grundrechte
-Kein ausdruecklicher Schrankenvorbehalt. Eingriffe sind nur ueber **verfassungsimmanente Schranken** moeglich, also zugunsten kollidierender Verfassungsgueter.
+Kein ausdruecklicher Schrankenvorbehalt. Eingriffe sind nur über **verfassungsimmanente Schranken** möglich, also zugunsten kollidierender Verfassungsgueter.
 - Art 4 I, II GG (Glaubens- und Gewissensfreiheit; vgl BVerfGE 93, 1 Kruzifix-Beschluss zur Konkordanz mit Art 6 II GG und Schulpflicht)
 - Art 5 III 1 GG (Kunst- und Wissenschaftsfreiheit; vgl BVerfGE 30, 173 Mephisto-Beschluss)
-- Art 8 I GG fuer Versammlungen in geschlossenen Raeumen
+- Art 8 I GG für Versammlungen in geschlossenen Raeumen
 - Art 1 I GG (absoluter Wesensgehalt, siehe `absolute-grenze-menschenwuerde-art-1-i-gg`)
 
 ## Schranken-Trias des Art 2 I GG
@@ -41,7 +41,7 @@ Praktisch reduziert auf "jedes formell und materiell verfassungsmaessige Gesetz"
 
 ## Schranken bei Drittwirkung
 
-Bei mittelbarer Drittwirkung (BVerfGE 7, 198 Lueth-Urteil) gibt der Gesetzgeber ueber die Generalklauseln des Privatrechts (Paragraf 138, 242, 826 BGB) eine Schranke vor, die im Lichte der Grundrechte ausgelegt wird.
+Bei mittelbarer Drittwirkung (BVerfGE 7, 198 Lueth-Urteil) gibt der Gesetzgeber über die Generalklauseln des Privatrechts (Paragraf 138, 242, 826 BGB) eine Schranke vor, die im Lichte der Grundrechte ausgelegt wird.
 
 ## Pruefraster
 

@@ -67,10 +67,10 @@ Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klä
 
 ## Maßgebliche Rechtsprechung (verifizierte Eckpunkte, Stand 05/2026)
 
-Belegt ueber bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung live pruefen:
+Belegt über bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung live prüfen:
 
 **VIII. Zivilsenat — Wohnraummietrecht:**
-- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 (Eigenbedarf bei Umbau-/Verkaufsabsicht zulaessig)
+- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 (Eigenbedarf bei Umbau-/Verkaufsabsicht zulässig)
 - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24 (Haerteklausel § 574 BGB / Krankheit, Alter)
 - BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse nur bei Mietbeginn)
 - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23 (Untervermietung mit Gewinn nicht "berechtigtes Interesse")
@@ -88,7 +88,7 @@ Belegt ueber bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung 
 - BVerfG, Beschl. v. 08.01.2026 – 1 BvR 183/25 (Verfassungsbeschwerde gegen Verlaengerung der Mietpreisbremse erfolglos): https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rk20260108_1bvr018325.html
 
 **Gesetzgebung:**
-- Gesetz zur Aenderung der Regelungen ueber die zulaessige Miethoehe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025): Verlaengerung Mietpreisbremse bis 31.12.2029; https://www.recht.bund.de/bgbl/1/2025/163/VO.html
+- Gesetz zur Aenderung der Regelungen über die zulaessige Miethoehe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025): Verlaengerung Mietpreisbremse bis 31.12.2029; https://www.recht.bund.de/bgbl/1/2025/163/VO.html
 
 ## Fristen-Sofort-Check
 
@@ -104,13 +104,13 @@ Belegt ueber bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung 
 ## Triage — Bevor du loslegst, klaere
 
 1. **Vertragsart**: Wohnraummiete (§§ 549 ff. BGB), Gewerberaummiete (§§ 578 ff. BGB) oder WEG-Sache?
-2. **Mandantenrolle**: Vermieter, Mieter, WEG-Eigentuemer, Verwalter, Hausverwaltung?
+2. **Mandantenrolle**: Vermieter, Mieter, WEG-Eigentümer, Verwalter, Hausverwaltung?
 3. **Akute Fristen**: WEG-Anfechtungsklage 1 Monat, Kuendigung Frist, Schonfrist Zahlungsverzug?
 4. **Streitgegenstand**: Kuendigung, Mieterhoehung, Mietminderung, Betriebskosten, Schoenheitsreparaturen, WEG-Beschluss?
 
 ## Weiterfuehrende Leitsaetze BGH (Erweiterung)
 
-Verifizierte Aktenzeichen und Quellen-URLs sind im Abschnitt "Maßgebliche Rechtsprechung" enthalten. Volltexte ueber https://www.bundesgerichtshof.de (eigene Datenbank), https://dejure.org und https://openjur.de pruefen. Kommentare/Aufsaetze (Beck, juris) nur ueber lizenzierten Live-Zugriff zitieren.
+Verifizierte Aktenzeichen und Quellen-URLs sind im Abschnitt "Maßgebliche Rechtsprechung" enthalten. Volltexte über https://www.bundesgerichtshof.de (eigene Datenbank), https://dejure.org und https://openjur.de prüfen. Kommentare/Aufsaetze (Beck, juris) nur über lizenzierten Live-Zugriff zitieren.
 
 ## Übergabe
 
@@ -120,7 +120,7 @@ Verifizierte Aktenzeichen und Quellen-URLs sind im Abschnitt "Maßgebliche Recht
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie).
 
 <!-- AUDIT 29.05.2026
-Faktualitaets-Update: verifizierte BGH-Rspr. 2025/Q1-Q2 2026 (VIII. und V. Zivilsenat) ueber bundesgerichtshof.de
+Faktualitaets-Update: verifizierte BGH-Rspr. 2025/Q1-Q2 2026 (VIII. und V. Zivilsenat) über bundesgerichtshof.de
 und dejure.org eingepflegt. Mietpreisbremse-Verlaengerung BGBl. 2025 I Nr. 163 (in Kraft 23.07.2025) ergaenzt.
-GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht aufgenommen (nicht ueber offene Datenbanken zugaenglich).
+GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht aufgenommen (nicht über offene Datenbanken zugaenglich).
 -->

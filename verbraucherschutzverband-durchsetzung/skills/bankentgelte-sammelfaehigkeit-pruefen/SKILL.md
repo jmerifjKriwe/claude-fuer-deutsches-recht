@@ -3,7 +3,7 @@ name: bankentgelte-sammelfaehigkeit-pruefen
 description: "Verbraucherschutzverband Durchsetzung: Bankentgelte: Sammelfähigkeit prüfen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Bankentgelte Sammelfaehigkeit Pruefen
+# Bankentgelte Sammelfaehigkeit Prüfen
 
 ## Arbeitsweg
 

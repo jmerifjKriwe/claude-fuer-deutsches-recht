@@ -24,7 +24,7 @@ Das deutsche Handelsrecht kodifizierte sich in zwei Schritten: Das Allgemeine De
 - **HGB § 1**: Kaufmannsbegriff
 - **HGB § 346**: Handelsbrauch als Rechtsquelle
 - **HGB §§ 105-160**: OHG und KG
-- **HRefG 1998 (BGBl. I 1998, 1474)**: Grosse HGB-Reform
+- **HRefG 1998 (BGBl. I 1998, 1474)**: Große HGB-Reform
 
 ## Akteure und Institutionen
 

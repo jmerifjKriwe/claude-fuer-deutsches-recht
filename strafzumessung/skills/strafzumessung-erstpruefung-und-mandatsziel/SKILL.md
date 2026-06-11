@@ -7,7 +7,7 @@ description: "Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel im St
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Strafzumessung Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Strafzumessung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Strafzumessung Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Strafzumessung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -57,8 +57,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Vorstrafen (BZRG-Auszug); Verwertungsverbot § 51 BZRG.
  - Schuldfaehigkeit § 20 StGB / verminderte Schuldfaehigkeit § 21 StGB - Anhaltspunkte für Gutachten?
  - Tatschuld (objektive Schwere, subjektive Vorwerfbarkeit) - § 46 I 1 StGB Grundlage.
- - Pruefung Regelbeispiel / besonders schwerer Fall / minderschwerer Fall.
- - Strafrahmenverschiebung § 49 StGB pruefen.
+ - Prüfung Regelbeispiel / besonders schwerer Fall / minderschwerer Fall.
+ - Strafrahmenverschiebung § 49 StGB prüfen.
 - **Erwartungsspanne kommunizieren:**
  - **Geldstrafe** ueblicher Bereich nach Vergehen, Vorstrafen, Schuld: Zahl der TS; **Tagessatzhoehe** = 1/30 Nettoeinkommen.
  - **Freiheitsstrafe**: idR ab 6 Monaten (§ 47 StGB), Bewaehrungspraxis § 56 StGB.

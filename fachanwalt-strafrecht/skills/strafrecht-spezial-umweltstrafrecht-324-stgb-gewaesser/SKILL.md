@@ -30,7 +30,7 @@ Anwendungsfaelle: Einleitung industrieller Abwaesser ohne Erlaubnis in den Vorfl
 
 ### Gewaesser
 
-Erfasst sind oberirdische Gewaesser (Fluesse, Baeche, Seen) und das Grundwasser. Nicht erfasst sind kuenstliche Anlagen wie Brunnen oder Klaeranlagen (Innenrohrleitungen), solange sie nicht Teil des öffentlichen Gewaessersystems sind. Privatgewaesser (kleine Teiche) sind ueber Paragraph 1 Abs 2 WHG mitgemeint, wenn sie Bestandteil des Wasserhaushalts sind.
+Erfasst sind oberirdische Gewaesser (Fluesse, Baeche, Seen) und das Grundwasser. Nicht erfasst sind kuenstliche Anlagen wie Brunnen oder Klaeranlagen (Innenrohrleitungen), solange sie nicht Teil des öffentlichen Gewaessersystems sind. Privatgewaesser (kleine Teiche) sind über Paragraph 1 Abs 2 WHG mitgemeint, wenn sie Bestandteil des Wasserhaushalts sind.
 
 ### Tathandlung Verunreinigen und nachteilig Veraendern
 
@@ -54,10 +54,10 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 
 ## Praktikertipps Verteidigung
 
-- **Wasserrechtliche Erlaubnis pruefen.** Ist der Mandant Erlaubnisinhaber? Sind die Grenzwerte eingehalten? Liegt die Einleitung im erlaubten Rahmen? Frueh Kopie der Erlaubnis besorgen.
-- **Mengen- und Stoff-Schwelle bestreiten.** "Nicht nur geringfuegig" — Sachverstaendiger zur Bewertung der Eintragsmenge im Verhaeltnis zur Gewaesserkapazitaet. Bei sehr kleinem Eintrag (z. B. wenige Liter Diesel im grossen Fluss): Wertbarkeit der Verschlechterung pruefen.
-- **Kausalitaet bestreiten.** Wenn andere Einleiter vor- oder gleichzeitig taetig waren: alternative oder kumulative Kausalitaet. Vorsicht: Bei kumulativer Verunreinigung haftet jeder Beitragstaeter.
-- **Vorsatzausschluss bei Irrtum ueber Erlaubnis.** Wenn Mandant glaubte, die Erlaubnis decke das Verhalten ab: Tatbestandsirrtum nach Paragraph 16 StGB, mindestens Verbotsirrtum nach Paragraph 17 StGB.
+- **Wasserrechtliche Erlaubnis prüfen.** Ist der Mandant Erlaubnisinhaber? Sind die Grenzwerte eingehalten? Liegt die Einleitung im erlaubten Rahmen? Frueh Kopie der Erlaubnis besorgen.
+- **Mengen- und Stoff-Schwelle bestreiten.** "Nicht nur geringfuegig" — Sachverstaendiger zur Bewertung der Eintragsmenge im Verhaeltnis zur Gewaesserkapazitaet. Bei sehr kleinem Eintrag (z. B. wenige Liter Diesel im großen Fluss): Wertbarkeit der Verschlechterung prüfen.
+- **Kausalitaet bestreiten.** Wenn andere Einleiter vor- oder gleichzeitig tätig waren: alternative oder kumulative Kausalitaet. Vorsicht: Bei kumulativer Verunreinigung haftet jeder Beitragstaeter.
+- **Vorsatzausschluss bei Irrtum über Erlaubnis.** Wenn Mandant glaubte, die Erlaubnis decke das Verhalten ab: Tatbestandsirrtum nach Paragraph 16 StGB, mindestens Verbotsirrtum nach Paragraph 17 StGB.
 - **Sachverstaendige fruehzeitig einbinden.** Hydrogeologe oder Umweltchemiker für Gegenanalyse der Wasserproben.
 - **Hilfsbeweisantraege zum Probenahmeprotokoll.** Probenahme oft fehlerhaft (falscher Ort, falscher Zeitpunkt, falsche Geraete). Polizeiliche Probenahme angreifbar.
 
@@ -69,9 +69,9 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 
 ## Konkurrenzen
 
-- **Paragraph 324 StGB und Paragraph 326 StGB unerlaubter Umgang mit Abfaellen.** Tatmehrheit moeglich, wenn Abfaelle und Gewaesserverunreinigung getrennte Tathandlungen.
+- **Paragraph 324 StGB und Paragraph 326 StGB unerlaubter Umgang mit Abfaellen.** Tatmehrheit möglich, wenn Abfaelle und Gewaesserverunreinigung getrennte Tathandlungen.
 - **Paragraph 324 StGB und Paragraph 327 StGB unerlaubtes Betreiben von Anlagen.** Tatmehrheit; Paragraph 327 StGB zielt auf den Anlagenbetrieb, Paragraph 324 StGB auf das Eintragsereignis.
-- **Paragraph 324 StGB und Paragraph 325 StGB Luftverunreinigung.** Tatmehrheit moeglich (Eintrag in Wasser und Luft).
+- **Paragraph 324 StGB und Paragraph 325 StGB Luftverunreinigung.** Tatmehrheit möglich (Eintrag in Wasser und Luft).
 - **Paragraph 324 StGB und Paragraph 326 Abs 1 Nr 4 a StGB.** Spezialitaetsprobleme bei Schwarzeinleitung gefaehrlicher Abfaelle.
 - **Paragraph 324 StGB und Paragraph 222 StGB fahrlaessige Toetung.** Bei toedlichen Folgen Tateinheit.
 
@@ -80,10 +80,10 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 - **Strafrahmen Absatz 1:** Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
 - **Strafrahmen Absatz 3 Fahrlaessigkeit:** Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 - **Einziehung Paragraph 73 StGB** der ersparten Aufwendungen (z. B. Klaerkosten, die durch Schwarzeinleitung gespart wurden).
-- **Massnahmen nach Wasserrecht:** Sanierungspflicht nach Paragraph 89 WHG; Bussgelder nach Paragraph 103 WHG; ggf. Anordnungen.
-- **Berufsverbot Paragraph 70 StGB** moeglich bei Anlagenbetreibern oder Umweltbeauftragten.
+- **Maßnahmen nach Wasserrecht:** Sanierungspflicht nach Paragraph 89 WHG; Bussgelder nach Paragraph 103 WHG; ggf. Anordnungen.
+- **Berufsverbot Paragraph 70 StGB** möglich bei Anlagenbetreibern oder Umweltbeauftragten.
 - **Verbandssanktion**: gegen Unternehmen Geldbusse nach Paragraph 30 OWiG mit Mindestbetrag 50.000 Euro (Bagatell), bis Millionenbereich; siehe Verbandssanktionengesetz-Skill.
-- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
+- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
 
 ## Mustertexte
 
@@ -99,7 +99,7 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 - Wasserhaushaltsgesetz (WHG); Paragraph 8 WHG Erlaubnispflicht; Paragraph 89 WHG Sanierungspflicht.
 - Verwaltungsakzessorietaet im Umweltstrafrecht (BGH staendige Rspr.).
 - BGH staendige Rspr. zum Erfordernis "nicht nur geringfuegige Verunreinigung".
-- BGH staendige Rspr. zum Vorsatzausschluss bei Irrtum ueber Erlaubnis.
+- BGH staendige Rspr. zum Vorsatzausschluss bei Irrtum über Erlaubnis.
 - Paragraph 73 StGB Einziehung.
 - Paragraph 30 OWiG Verbandsgeldbusse.
 - Paragraph 70 StGB Berufsverbot.

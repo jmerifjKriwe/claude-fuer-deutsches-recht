@@ -45,7 +45,7 @@ description: "Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsve
 
 ## Paragrafenkette bei Reaktion auf Abmahnung
 
-§ 14 MarkenG / § 3 UWG → § 8 UWG (Unterlassungsanspruch) → § 13 Abs. 3 UWG (Kostenerstattung) → §§ 339-345 BGB (Vertragsstrafe) → § 8c UWG (Missbrauch pruefen) → ggf. § 12 UWG (einstweilige Verfuegung bei Scheitern)
+§ 14 MarkenG / § 3 UWG → § 8 UWG (Unterlassungsanspruch) → § 13 Abs. 3 UWG (Kostenerstattung) → §§ 339-345 BGB (Vertragsstrafe) → § 8c UWG (Missbrauch prüfen) → ggf. § 12 UWG (einstweilige Verfuegung bei Scheitern)
 
 ## ADR-Pfade
 

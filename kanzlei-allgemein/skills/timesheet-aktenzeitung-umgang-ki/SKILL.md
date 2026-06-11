@@ -14,7 +14,7 @@ description: "Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mi
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Fuer welches Mandat und welchen Zeitraum wird die Zeiterfassung ausgefuehrt?
+1. Für welches Mandat und welchen Zeitraum wird die Zeiterfassung ausgefuehrt?
 2. Wird nach RVG oder nach Stundensatz abgerechnet (beeinflusst Erfassungsgenauigkeit)?
 3. Sind die Eintrage GoBD-konform (unveraenderbar, zeitnah, mit Zeitstempel)?
 4. Sollen Reports nach Mandat, Anwalt oder Zeitraum generiert werden?

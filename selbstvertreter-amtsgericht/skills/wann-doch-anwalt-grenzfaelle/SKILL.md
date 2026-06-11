@@ -7,7 +7,7 @@ description: "Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll ist und 
 
 ## Worum geht es?
 
-Selbstvertretung vor dem AG ist moeglich und oft sinnvoll. Aber nicht immer. Bei komplexen Faellen, hohem Risiko oder Spezialmaterien kann ein Anwalt mehr sparen, als er kostet. Diese Skill ist Ihre ehrliche Selbstpruefung.
+Selbstvertretung vor dem AG ist möglich und oft sinnvoll. Aber nicht immer. Bei komplexen Faellen, hohem Risiko oder Spezialmaterien kann ein Anwalt mehr sparen, als er kostet. Diese Skill ist Ihre ehrliche Selbstpruefung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -50,13 +50,13 @@ Auch vor AG kann Anwalt sinnvoll sein bei:
 - **Beweis-Schwierigkeiten** (Beweislast-Umkehr noetig).
 - **Aussergerichtliche Verhandlung** mit Anwalt der Gegenseite.
 
-### Schritt 3 — Streitwert-Pruefung
+### Schritt 3 — Streitwert-Prüfung
 
 Faustregel:
 
-- Streitwert bis 1.000 EUR: Selbstvertretung oft ausreichend (auch § 495a ZPO vereinfachtes Verfahren moeglich).
-- Streitwert 1.000-10.000 EUR: AG zuständig, kein Anwaltszwang — Pruefung Einzelfall.
-- Streitwert ueber 10.000 EUR: LG zuständig (§ 71 GVG), **Anwalt zwingend** (§ 78 I ZPO).
+- Streitwert bis 1.000 EUR: Selbstvertretung oft ausreichend (auch § 495a ZPO vereinfachtes Verfahren möglich).
+- Streitwert 1.000-10.000 EUR: AG zuständig, kein Anwaltszwang — Prüfung Einzelfall.
+- Streitwert über 10.000 EUR: LG zuständig (§ 71 GVG), **Anwalt zwingend** (§ 78 I ZPO).
 
 ### Schritt 4 — Spezialmaterie
 
@@ -101,7 +101,7 @@ Klare Indikatoren:
 
 ### Schritt 8 — Hybrid-Loesung
 
-Sie koennen:
+Sie können:
 
 - Selbst klagen.
 - Bei Komplikationen Anwalt einschalten (= "Beistand" im Termin nicht erlaubt, aber Beratung im Hintergrund).
@@ -113,7 +113,7 @@ Wenn PKH mit Anwaltsbeiordnung (§ 121 ZPO): Anwalt kostenfrei oder vereinfacht.
 
 Skill `prozesskostenhilfe-pkh-114-zpo`.
 
-### Schritt 10 — Letzte Pruefung
+### Schritt 10 — Letzte Prüfung
 
 Beantworten Sie:
 
@@ -124,7 +124,7 @@ Beantworten Sie:
 
 Wenn 3 von 4 mal "Nein": Anwalt.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Anwaltszwang vor LG** und in bestimmten AG-Verfahren.
 - **Berufung braucht Anwalt** für Begruendung.

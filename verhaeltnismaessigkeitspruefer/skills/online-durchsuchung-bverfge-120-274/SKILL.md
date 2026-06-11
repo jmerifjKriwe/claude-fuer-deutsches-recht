@@ -9,7 +9,7 @@ description: Online-Durchsuchung BVerfGE Band 120 Seite 274 vom 27.02.2008 als B
 
 Nordrhein-westfaelisches Verfassungsschutzgesetz erlaubte heimliche
 Online-Durchsuchung informationstechnischer Systeme. Verfassungsbeschwerde
-mehrerer Klaeger.
+mehrerer Kläger.
 
 ## Entscheidung
 
@@ -22,14 +22,14 @@ informationstechnischer Systeme.
 ## Eingriffsschwellen
 
 Online-Durchsuchung darf nur unter strengen Voraussetzungen:
-- **konkrete Gefahr** fuer ueberragend wichtige Rechtsgueter (Leib, Leben,
+- **konkrete Gefahr** für ueberragend wichtige Rechtsgueter (Leib, Leben,
   Freiheit der Person, Bestand des Staates, Existenz von Menschen).
 - **vorherige richterliche Anordnung**.
 - **Kernbereichsschutz** privater Lebensgestaltung (Daten nicht auswerten,
   sofort loeschen, wenn Kernbereich beruehrt).
-- **Verfahrensregeln** fuer Auswertung, Speicherung, Loeschung.
+- **Verfahrensregeln** für Auswertung, Speicherung, Loeschung.
 
-## Verhaeltnismaessigkeit konkret
+## Verhältnismäßigkeit konkret
 
 - Stufe 3 (Erforderlichkeit): klassische Telekommunikationsueberwachung
   und Beschlagnahme erreichen oft nicht dieselben Daten. Online-Durchsuchung
@@ -40,14 +40,14 @@ Online-Durchsuchung darf nur unter strengen Voraussetzungen:
 ## Bedeutung
 
 - Erstes neues "Quasi-Grundrecht" der modernen Rechtsprechung.
-- Vorbild fuer spaetere Entscheidungen zur digitalen Lebensspur:
+- Vorbild für spaetere Entscheidungen zur digitalen Lebensspur:
   - BVerfGE 125, 260 (Vorratsdatenspeicherung) Vorratsdatenspeicherung.
   - BVerfGE 141, 220 (BKAG-Urteil) BKAG-Urteil.
   - BVerfGE 154, 152 (Bestandsdatenauskunft II) Bestandsdatenauskunft II.
 
 ## Klausurelevanz
 
-Wenn ein technologiebezogener Eingriff in IT-Systeme zu pruefen ist:
+Wenn ein technologiebezogener Eingriff in IT-Systeme zu prüfen ist:
 1. Schutzbereich des IT-Grundrechts statt Art 10 GG oder Art 13 GG.
-2. Verhaeltnismaessigkeit mit strengen Eingriffsschwellen.
+2. Verhältnismäßigkeit mit strengen Eingriffsschwellen.
 3. Kernbereichsschutz als absolute Grenze.

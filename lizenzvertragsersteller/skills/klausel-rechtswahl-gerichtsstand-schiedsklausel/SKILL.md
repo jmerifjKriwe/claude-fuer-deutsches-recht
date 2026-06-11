@@ -29,7 +29,7 @@ description: "Rechtswahl-, Gerichtsstands- und Schiedsklauseln im Lizenzvertrag:
 
 | Institut | Sitz | Anwendung |
 |---|---|---|
-| **DIS** Deutsche Institution fuer Schiedsgerichtsbarkeit | Koeln | deutsche Vertraege |
+| **DIS** Deutsche Institution für Schiedsgerichtsbarkeit | Koeln | deutsche Verträge |
 | **ICC** International Chamber of Commerce | Paris | international |
 | **LCIA** London Court of International Arbitration | London | international, Common Law |
 | **SCC** Stockholm Chamber of Commerce | Stockholm | OST-West, Energie |
@@ -40,7 +40,7 @@ description: "Rechtswahl-, Gerichtsstands- und Schiedsklauseln im Lizenzvertrag:
 **A. Standard Deutsches Recht / DIS-Schiedsgericht:**
 > "$ 15 Rechtswahl und Streitbeilegung.
 > (1) Dieser Vertrag unterliegt dem Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts (CISG) sowie der IPR-Vorschriften.
-> (2) Alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag werden nach der Schiedsgerichtsordnung der Deutschen Institution fuer Schiedsgerichtsbarkeit (DIS) unter Ausschluss des ordentlichen Rechtsweges endgueltig entschieden. Schiedsort ist [Frankfurt am Main / Berlin / Muenchen]. Verfahrenssprache ist [Deutsch / Englisch]. Das Schiedsgericht besteht aus [einem / drei] Schiedsrichter:innen."
+> (2) Alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag werden nach der Schiedsgerichtsordnung der Deutschen Institution für Schiedsgerichtsbarkeit (DIS) unter Ausschluss des ordentlichen Rechtsweges endgueltig entschieden. Schiedsort ist [Frankfurt am Main / Berlin / Muenchen]. Verfahrenssprache ist [Deutsch / Englisch]. Das Schiedsgericht besteht aus [einem / drei] Schiedsrichter:innen."
 
 **B. Mediation-Vorschaltung:**
 > "(3) Vor Anrufung des Schiedsgerichts verpflichten sich die Parteien zur Durchfuehrung eines Mediationsverfahrens nach der Mediationsordnung der DIS. Das Mediationsverfahren gilt als gescheitert, wenn binnen 90 Tagen seit Einleitung keine Einigung erzielt wurde."

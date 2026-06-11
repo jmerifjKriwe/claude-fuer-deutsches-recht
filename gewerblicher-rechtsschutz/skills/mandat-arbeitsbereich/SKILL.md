@@ -189,7 +189,7 @@ Alle Aussagen zu Vertraulichkeit, Aufbewahrung und Interessenkonflikten müssen 
 Bevor das Mandat angelegt wird, klaere:
 1. Ist ein Interessenkonflikt-Check (§ 43a IV BRAO) durchgefuehrt worden?
 2. Sind die wesentlichen Mandatsdaten vollstaendig (Mandant, Gegner, Rechtsgebiet, Streitgegenstand)?
-3. Wurde der Mandant ueber Honorar und Kostenrisiko aufgeklaert (§ 49b BRAO, § 34 RVG)?
+3. Wurde der Mandant über Honorar und Kostenrisiko aufgeklaert (§ 49b BRAO, § 34 RVG)?
 4. Laeuft bereits eine Frist (z.B. Widerspruchsfrist Marke, Abmahnungsfrist), die sofort ins Fristenbuch muss?
 
 ## Aktuelle Rechtsprechung

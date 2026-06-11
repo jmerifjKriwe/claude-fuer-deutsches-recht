@@ -16,7 +16,7 @@ description: "Student erstellt Gliederung für juristische Hausarbeit mit korrek
 ## Triage zu Beginn
 1. Welches Fachgebiet und wie viele Anspruchsgrundlagen/Pruefungspunkte sind zu erwarten?
 2. Wie ist die gewuenschte Tiefe der Gliederung (Anfaenger: A.I.1.a), Examen: tiefer)?
-3. Gibt es Konkurrenzen zwischen Anspruchsgrundlagen, die in der Gliederung sichtbar sein muessen?
+3. Gibt es Konkurrenzen zwischen Anspruchsgrundlagen, die in der Gliederung sichtbar sein müssen?
 4. Sollen Hilfsweise-Pruefungen als eigene Gliederungspunkte oder als Unterpunkte erscheinen?
 
 ## Aktuelle Rechtsprechung und Methodik
@@ -24,7 +24,7 @@ description: "Student erstellt Gliederung für juristische Hausarbeit mit korrek
 
 ## Zentrale Normen
 - § 242 BGB — Treu und Glauben: Gliederung muss die rechtlichen Beziehungen vollstaendig abbilden
-- § 308 ZPO — Bindung an Antraege: Gliederung darf nicht ueber den Bearbeitungsvermerk hinausgehen
+- § 308 ZPO — Bindung an Antraege: Gliederung darf nicht über den Bearbeitungsvermerk hinausgehen
 - §§ 195 ff. BGB — Verjährung als eigener Gliederungspunkt bei Anspruchs-Erloesung
 - § 362 BGB — Erfuellung als erster Erloeschungsgrund in Gliederungs-Unterebene
 

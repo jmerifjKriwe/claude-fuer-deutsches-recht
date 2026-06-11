@@ -52,7 +52,7 @@ Pflichtangaben § 14 Abs. 4 UStG:
 
 - **Empfangs-Pflicht**: Seit 1.1.2025 muss jeder inländische Unternehmer für inländische B2B-Umsätze eRechnungen empfangen können.
 - **Ausstellungs-Pflicht** (gestaffelt):
- - bis 31.12.2026: Papier-/PDF-Rechnung mit Zustimmung des Empfaengers weiterhin zulaessig (Übergang)
+ - bis 31.12.2026: Papier-/PDF-Rechnung mit Zustimmung des Empfaengers weiterhin zulässig (Übergang)
  - bis 31.12.2027: nur für Unternehmer mit Vorjahresumsatz ≤ 800 000 EUR Papier-Erleichterung
  - ab 1.1.2028: vollständige eRechnungspflicht für alle B2B-Inlands-Umsätze
 - **Format**: strukturiertes, maschinenlesbares Format nach EN 16931 (z. B. **XRechnung** oder **ZUGFeRD ab Profil EN-16931**); reines PDF ohne strukturierte XML-Daten ist KEINE eRechnung.

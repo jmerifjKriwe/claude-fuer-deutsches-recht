@@ -24,7 +24,7 @@ Bei **Realkonkurrenz** (mehrere selbststaendige Taten in einem Verfahren) sind n
 ## Wann brauchen Sie diese Skill?
 
 - Sie bereiten ein Plaedoyer oder ein Urteil bei mehreren Taten vor.
-- Sie pruefen ein Urteil im Revisionsverfahren auf Gesamtstrafen-Fehler.
+- Sie prüfen ein Urteil im Revisionsverfahren auf Gesamtstrafen-Fehler.
 - Sie verhandeln in einer Verstaendigung den Gesamtstrafrahmen.
 
 ## Rechtliche Grundlagen

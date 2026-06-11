@@ -22,7 +22,7 @@ description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung i
 ## Erfahrungsstufen
 
 - Stufe 1-8.
-- Aufstieg in der Regel alle 2 Jahre, spaeter alle 3-4 Jahre.
+- Aufstieg in der Regel alle 2 Jahre, später alle 3-4 Jahre.
 
 ## Anerkennung Vorzeiten
 

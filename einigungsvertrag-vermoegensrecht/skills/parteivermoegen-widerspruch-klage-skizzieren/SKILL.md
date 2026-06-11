@@ -3,7 +3,7 @@ name: parteivermoegen-widerspruch-klage-skizzieren
 description: "Einigungsvertrag und Vermögensrecht: Parteivermögen: Widerspruch prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Parteivermoegen Widerspruch Pruefen
+# Parteivermoegen Widerspruch Prüfen
 
 ## Arbeitsweg
 

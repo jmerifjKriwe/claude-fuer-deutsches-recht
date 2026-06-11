@@ -25,7 +25,7 @@ description: "Katalog typischer Standardausreden der Fluggesellschaften mit Gege
 
 **Gegenargument**:
 
-> EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte sind grundsaetzlich Teil der normalen Tätigkeit eines Luftfahrtunternehmens und kein außergewöhnlicher Umstand. Volltext auf curia.europa.eu vor Versand aufrufen und Randnummer (typisch Rn. 24 ff.) einsetzen.
+> EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte sind grundsätzlich Teil der normalen Tätigkeit eines Luftfahrtunternehmens und kein außergewöhnlicher Umstand. Volltext auf curia.europa.eu vor Versand aufrufen und Randnummer (typisch Rn. 24 ff.) einsetzen.
 >
 > Ausnahme: versteckter Konstruktionsfehler des Herstellers — EuGH, Urt. v. 13.6.2025, C-411/23 (curia.europa.eu) — kann ausnahmsweise außergewöhnlich sein, auch wenn die Airline Monate vor dem Flug informiert war.
 
@@ -73,7 +73,7 @@ Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumut
 
 **Außergewöhnlich aber**:
 
-> EuGH, Urt. v. 4.5.2017, C-315/15 (Pesková) — Vogelschlag ist grundsaetzlich außergewöhnlicher Umstand i.S.v. Art. 5 Abs. 3 VO 261/2004 (curia.europa.eu). Vor Versand Volltext aufrufen und Randnummer einsetzen.
+> EuGH, Urt. v. 4.5.2017, C-315/15 (Pesková) — Vogelschlag ist grundsätzlich außergewöhnlicher Umstand i.S.v. Art. 5 Abs. 3 VO 261/2004 (curia.europa.eu). Vor Versand Volltext aufrufen und Randnummer einsetzen.
 >
 > ABER: die Airline muss zusätzlich nachweisen dass alle **zumutbaren Maßnahmen** ergriffen wurden — z. B. zuegige technische Prüfung schnellstmögliche Wiederinbetriebnahme Umbuchung auf anderen Flug.
 
@@ -81,7 +81,7 @@ Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumut
 
 **Außergewöhnlich aber**:
 
-> EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag mit nachfolgender sicherheitsbedingter Pruefung kann außergewöhnlicher Umstand sein (curia.europa.eu).
+> EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag mit nachfolgender sicherheitsbedingter Prüfung kann außergewöhnlicher Umstand sein (curia.europa.eu).
 >
 > ABER: zumutbare Maßnahmen sind weiterhin nachzuweisen (Ersatzflugzeug, Umbuchung, Information).
 

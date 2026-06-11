@@ -11,7 +11,7 @@ description: "Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill b
 |---|---|---|
 | consilium fraudis | Vorsatz Schuldner § 3 | Vorsatz § 133 |
 | scientia des Dritten | Kenntnis Dritter § 3 | Kenntnis § 133 |
-| unentgeltliches Geschaeft (keine scientia noetig) | § 4 | § 134 |
+| unentgeltliches Geschäft (keine scientia noetig) | § 4 | § 134 |
 | nahestehende Personen Vermutung | § 6 | § 138 |
 | annus utilis | 4-10 Jahre Frist | 4-10 Jahre Frist |
 | Restitution durch bonorum emptor | Rueckgewaehr § 11 AnfG | Rueckgewaehr § 143 InsO |

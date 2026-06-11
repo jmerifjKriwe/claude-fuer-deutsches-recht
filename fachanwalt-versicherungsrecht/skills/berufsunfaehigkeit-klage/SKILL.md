@@ -226,14 +226,14 @@ Ablehnung Versicherer?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Klage gegen BU-Versicherer wegen Leistungsablehnung | BU-Klageschrift nach Pruefschema; Template unten |
 | Variante A — Erstantrag noch nicht vollstaendig gestellt | Nachbeibringung Unterlagen zuerst; Klage danach |
 | Variante B — Vergleich wirtschaftlich attraktiver als Prozess | Vergleichsverhandlung vor Klageerhebung; Klage als Druckmittel |
-| Variante C — BU nur voruebergehend Reaktivierung moeglich | Teilleistung akzeptieren und beobachten statt Vollklage |
+| Variante C — BU nur voruebergehend Reaktivierung möglich | Teilleistung akzeptieren und beobachten statt Vollklage |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -270,7 +270,7 @@ Beweis: K1 Police + AVB, K2 Tätigkeitsbeschreibung, K3 Privatgutachten,
  K4 Ablehnungsschreiben, K5 Antragsformular, K6 Vollmacht
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

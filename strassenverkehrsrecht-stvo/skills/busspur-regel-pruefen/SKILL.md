@@ -3,7 +3,7 @@ name: busspur-regel-pruefen
 description: "StVO: Busspur: Regel prüfen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Busspur Regel Pruefen
+# Busspur Regel Prüfen
 
 ## Arbeitsweg
 

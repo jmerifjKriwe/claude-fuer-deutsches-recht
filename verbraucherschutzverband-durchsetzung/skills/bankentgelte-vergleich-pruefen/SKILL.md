@@ -3,7 +3,7 @@ name: bankentgelte-vergleich-pruefen
 description: "Verbraucherschutzverband Durchsetzung: Bankentgelte: Vergleich prüfen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Bankentgelte Vergleich Pruefen
+# Bankentgelte Vergleich Prüfen
 
 ## Arbeitsweg
 

@@ -19,7 +19,7 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 
 1. Welche Art Sachbezug — Warengutschein, Bonusprogramm, Sachzuwendung physisch?
 2. Liegt eine Geldzuwendung verkleidet als Sachbezug vor?
-3. Hoehe der Sachbezuege im Monat?
+3. Höhe der Sachbezuege im Monat?
 4. Werden Sachbezuege mehrfach im Monat oder einmalig gewaehrt?
 5. Erfolgt Anrechnung auf den Lohn (Lohnumwandlung)?
 6. Wer waehlt die Sachzuwendung (AG oder AN)?
@@ -52,7 +52,7 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 
 | Form | Sachbezug? |
 |---|---|
-| Gutschein/Karte für konkretes Geschaeft (z.B. nur Tankstelle) | Ja (Sachbezug) |
+| Gutschein/Karte für konkretes Geschäft (z.B. nur Tankstelle) | Ja (Sachbezug) |
 | Gutschein nur online einlosbar (Amazon-Gutschein) | Ja bei ZAG-Konformitaet |
 | Geldkarte (allgemeine Akzeptanzstelle) | Nein (Geldzuwendung) |
 | Kreditkartenguthaben | Nein |
@@ -62,18 +62,18 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 | Jobticket | Steuerfrei bei AG-Pauschalerstattung |
 | Sachgeschenk physisch | Sachbezug |
 
-### Phase 2 — 50-EUR-Pruefung
+### Phase 2 — 50-EUR-Prüfung
 
 - Monatlich Summe Sachbezuege je AN.
 - Ueberschreitung 50 EUR: die GESAMTE monatliche Zuwendung ist lohnsteuer- und SV-pflichtig — nicht nur der ueberschreitende Teil (Freigrenze, nicht Freibetrag).
 - Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit) bis 60 EUR LSt-frei (gesonderte Regelung R 19.6 LStR, nicht Sachbezugs-Freigrenze; vgl. `stb-lohn-betriebsausfluege-aufmerksamkeiten-60-euro`).
-- Sachbezugswerte SvEV (Verpflegung, Unterkunft) jaehrlich angepasst (Stand 2025: Verpflegung frei 313 EUR/Monat, Fruehstueck 2,17 EUR, Mittag/Abend je 4,13 EUR; Werte 2026 ueber BMAS/SvEV-VO pruefen).
+- Sachbezugswerte SvEV (Verpflegung, Unterkunft) jaehrlich angepasst (Stand 2025: Verpflegung frei 313 EUR/Monat, Fruehstueck 2,17 EUR, Mittag/Abend je 4,13 EUR; Werte 2026 über BMAS/SvEV-VO prüfen).
 - Zahlenbeispiel: Tankgutschein 49 EUR + Sachgeschenk 5 EUR im selben Monat = 54 EUR; Folge — vollstaendige Versteuerung der 54 EUR, weil 50-EUR-Grenze ueberschritten.
 
 ### Phase 3 — Inflationsausgleichspraemie (2022-2024 — für 2026 NICHT mehr anwendbar)
 
 - § 3 Nr. 11c EStG: Bis 3.000 EUR Inflationsausgleichspraemie LSt- und SV-frei, gueltig vom 26.10.2022 bis 31.12.2024.
-- Voraussetzung: zusaetzlich zum Lohn; nicht auf bestehende Verguetung umgestellt.
+- Voraussetzung: zusaetzlich zum Lohn; nicht auf bestehende Vergütung umgestellt.
 - Bei laufenden Abrechnungen 2026 nicht mehr nutzbar; nur für rueckblickende DRV- oder Lohnsteuer-Aussenpruefungen Pruefzeitraum 2022-2024 relevant.
 
 ### Phase 4 — Pauschalierung § 37b EStG
@@ -86,7 +86,7 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 ### Phase 5 — Dokumentation
 
 - Bezugsbelege im Lohnordner.
-- Bei Gutscheinen: Aussteller-Bestaetigung ueber Sachzuwendungs-Charakter.
+- Bei Gutscheinen: Aussteller-Bestaetigung über Sachzuwendungs-Charakter.
 - Aufzeichnung pro AN-Monat.
 
 ### Phase 6 — Lohnabrechnung
@@ -100,7 +100,7 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 - 50-EUR-Freigrenze ist beliebter Gestaltungshebel — bei sorgfaeltiger Dokumentation problemlos.
 - Gutscheine streng abgrenzen: BMF v. 13.04.2021 wichtig — nur ZAG-Sachgutscheine zaehlen.
 - Aufmerksamkeiten 60 EUR pro persönlichem Anlass NICHT in 50 EUR-Grenze eingerechnet (eigene Regelung).
-- Bei Hochzeitsgeschenk + Geburtstagsgeschenk im selben Monat: beide Aufmerksamkeiten getrennt zu pruefen.
+- Bei Hochzeitsgeschenk + Geburtstagsgeschenk im selben Monat: beide Aufmerksamkeiten getrennt zu prüfen.
 - Pauschalierung § 37b EStG bei groesseren Streuwerbeartikel-Verteilungen sinnvoll.
 - StBVV: in Lohnpauschale; Sondergestaltungen Zeithonorar.
 - DATEV-Tipp: DATEV LODAS hat eigene Sachbezugs-Konten; bei Mandanten mit Gutscheinprogrammen sorgfaeltige Konfiguration.
@@ -113,6 +113,6 @@ Stand: 05/2026.
 - ZAG.
 - BMF v. 13.04.2021 (Gutscheine).
 - LStR R 8.1.
-- Sachbezugsfreigrenze: 50 EUR/Monat (seit 01.01.2022, § 8 Abs. 2 Satz 11 EStG; vorher 44 EUR). SvEV-Sachbezugswerte 2025: Verpflegung frei 313 EUR/Monat; Werte jaehrlich pruefen.
+- Sachbezugsfreigrenze: 50 EUR/Monat (seit 01.01.2022, § 8 Abs. 2 Satz 11 EStG; vorher 44 EUR). SvEV-Sachbezugswerte 2025: Verpflegung frei 313 EUR/Monat; Werte jaehrlich prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 bestaetigt (50-EUR-Freigrenze seit 2022 und SvEV-Werte 2025 eingesetzt) -->

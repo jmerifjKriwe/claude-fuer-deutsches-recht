@@ -43,9 +43,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Hersteller-Geheimnis steht Strafverteidigung nicht entgegen.
  - Behörde muss Rohdaten beim Hersteller / Polizei beschaffen.
 - **Internationale Konstellationen:**
- - **EU-Verkehrsverstoss** im Inland: deutsches Recht; Vollstreckung im Heimatstaat nach RB 2005/214/JI ueber gegenseitige Anerkennung Geldsanktionen (Rahmenbeschluss; in DE umgesetzt §§ 84 ff. OWiG-Vollstreckung).
- - **Ausland-Verkehrsverstoss** durch deutschen Halter: anderes Land massgeblich; Vollstreckung gegen Halter in Deutschland nur ueber Rahmenbeschluss / Abkommen.
- - **Akteneinsicht im Ausland**: nationales Recht; ggf. ueber EuRhilfe-Verordnung 2017/1939 oder Europaeische Ermittlungsanordnung RL 2014/41/EU.
+ - **EU-Verkehrsverstoss** im Inland: deutsches Recht; Vollstreckung im Heimatstaat nach RB 2005/214/JI über gegenseitige Anerkennung Geldsanktionen (Rahmenbeschluss; in DE umgesetzt §§ 84 ff. OWiG-Vollstreckung).
+ - **Ausland-Verkehrsverstoss** durch deutschen Halter: anderes Land massgeblich; Vollstreckung gegen Halter in Deutschland nur über Rahmenbeschluss / Abkommen.
+ - **Akteneinsicht im Ausland**: nationales Recht; ggf. über EuRhilfe-Verordnung 2017/1939 oder Europaeische Ermittlungsanordnung RL 2014/41/EU.
 - **Praxis-Tipp:** Akteneinsicht sofort schriftlich beantragen; bei Verweigerung Antrag auf gerichtliche Entscheidung; bei Hauptverhandlung Beweisantrag § 244 StPO i.V.m. § 71 OWiG auf Vorlage Rohdaten / Bedienungsanleitung; bei Verweigerung Vorlagebeschluss anregen.
 
 ## Qualitätsanker: Messdaten, Messakte und faires Verfahren

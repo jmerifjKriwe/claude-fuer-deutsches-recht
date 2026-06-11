@@ -47,7 +47,7 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
 
 | Stoff | Geringe Menge zum Eigenverbrauch (Richtwert) | Quelle |
 |---|---|---|
-| Cannabis (KCanG) | bis 25 g oeffentlich, 50 g privat | § 3 KCanG |
+| Cannabis (KCanG) | bis 25 g öffentlich, 50 g privat | § 3 KCanG |
 | Heroin | ca. 0.5 g | Landesrichtlinien § 31a BtMG (laenderspezifisch verifizieren) |
 | Kokain | ca. 1 g | Landesrichtlinien |
 | Amphetamin | ca. 3 g | Landesrichtlinien |
@@ -55,11 +55,11 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
 | LSD | ca. 5 Konsumeinheiten | Landesrichtlinien |
 | Methamphetamin | ca. 1 g | Landesrichtlinien |
 
-**Wichtig:** Die Schwellen variieren erheblich zwischen Bundeslaendern und Generalstaatsanwaltschaften. Vor Antrag § 31a BtMG die einschlaegigen Richtlinien der jeweiligen Generalstaatsanwaltschaft pruefen.
+**Wichtig:** Die Schwellen variieren erheblich zwischen Bundeslaendern und Generalstaatsanwaltschaften. Vor Antrag § 31a BtMG die einschlaegigen Richtlinien der jeweiligen Generalstaatsanwaltschaft prüfen.
 
 ## Praktikertipps der Verteidigung
 
-- **Suchtanamnese als Fundament:** Mandant zu einer Suchtberatungsstelle (Drogenhilfe, Caritas, AWO) schicken. Bescheinigung ueber Beratungskontakt anlegen.
+- **Suchtanamnese als Fundament:** Mandant zu einer Suchtberatungsstelle (Drogenhilfe, Caritas, AWO) schicken. Bescheinigung über Beratungskontakt anlegen.
 - **Aerztliches Attest:** Hausarzt oder Suchtmediziner attestiert Konsum, Tagesdosis und Therapiebedarf. Tipp: Aerztin/Arzt schriftlich informieren, was attestiert werden soll (Konsumdauer, Tagesdosis, Therapiebereitschaft).
 - **Konsumprotokoll:** Mandant fuehrt Konsumprotokoll (vereinzelt empfohlen; nur, wenn klar Eigenkonsum, sonst Selbstbelastung).
 - **Indizien gegen Verkaufsabsicht:**
@@ -75,7 +75,7 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
  - Chats/Kunden-Kontakte
  - Hohe Bargeldbetraege
 - **Konsumeinheiten-Argumentation:** Bei mittleren Mengen kann man darlegen, dass die Menge für mehrtaegigen oder mehrwoechigen Eigenkonsum reicht. Beispiel: Tagesdosis 100 mg Amphetaminbase x 30 Tage = 3 g. Bei Sucht hoeher.
-- **Therapieanbahnung:** Sofort. Beratungsstellen-Termin im ersten Mandantengespraech vereinbaren. Wirkt strafmildernd und ermoeglicht spaeter § 35 BtMG.
+- **Therapieanbahnung:** Sofort. Beratungsstellen-Termin im ersten Mandantengespraech vereinbaren. Wirkt strafmildernd und ermoeglicht später § 35 BtMG.
 
 ## Trade-off-Matrix
 
@@ -83,7 +83,7 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
 |---|---|---|
 | § 31a BtMG Einstellung | Schnelle Verfahrensbeendigung | Schuldfeststellung implizit, kann für kuenftige Faelle relevant werden |
 | § 153 StPO Einstellung | Keine Auflagen | Bei wiederholten Faellen schwer durchsetzbar |
-| § 153a StPO Einstellung gegen Auflagen | Verbindung zur Therapieauflage moeglich | Auflagen muessen erfuellt werden |
+| § 153a StPO Einstellung gegen Auflagen | Verbindung zur Therapieauflage möglich | Auflagen müssen erfuellt werden |
 | Freispruchsantrag | Volle Entlastung | Bei klarer Beweislage Risiko |
 | Strafmilderung wegen Eigenkonsums | Reduziert Strafe | Schuldfeststellung vorhanden |
 
@@ -103,11 +103,11 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
 ## Mustertexte
 
 **Antrag § 31a BtMG:**
-"Sehr geehrte Damen und Herren, namens und im Auftrag meines Mandanten beantrage ich gemaess § 31a BtMG, von der Verfolgung der Tat abzusehen. Die sichergestellte Menge ([X] g [Stoff]) dient dem ausschliesslichen Eigenverbrauch meines Mandanten. Mein Mandant ist seit [Datum] in suchtmedizinischer Behandlung bei Dr. [Name] (Attest anliegend Anlage 1). Die Suchterkrankung ist diagnostiziert. Es liegt keine Fremdgefaehrdung vor. Mein Mandant ist Erstaeter. Das öffentliche Interesse an der Strafverfolgung ist nicht ersichtlich."
+"Sehr geehrte Damen und Herren, namens und im Auftrag meines Mandanten beantrage ich gemäß § 31a BtMG, von der Verfolgung der Tat abzusehen. Die sichergestellte Menge ([X] g [Stoff]) dient dem ausschliesslichen Eigenverbrauch meines Mandanten. Mein Mandant ist seit [Datum] in suchtmedizinischer Behandlung bei Dr. [Name] (Attest anliegend Anlage 1). Die Suchterkrankung ist diagnostiziert. Es liegt keine Fremdgefaehrdung vor. Mein Mandant ist Erstaeter. Das öffentliche Interesse an der Strafverfolgung ist nicht ersichtlich."
 
 **Antrag § 153a StPO mit Therapieauflage:**
 "Hilfsweise wird Einstellung nach § 153a Abs. 1 StPO gegen Auflage angeregt:
-- Auflage 1: Mein Mandant absolviert eine ambulante Drogentherapie bei [Stelle] ueber [Dauer].
+- Auflage 1: Mein Mandant absolviert eine ambulante Drogentherapie bei [Stelle] über [Dauer].
 - Auflage 2: Mein Mandant zahlt [Betrag] EUR an eine gemeinnuetzige Einrichtung."
 
 ## Quellen Stand 06/2026

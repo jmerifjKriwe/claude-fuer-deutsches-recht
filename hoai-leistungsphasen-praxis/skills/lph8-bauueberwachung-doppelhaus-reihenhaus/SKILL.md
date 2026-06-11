@@ -71,7 +71,7 @@ Jede Einheit wird separat abgenommen, da Kaeufermangelansprueche sich auf die je
 ## Typische Fallstricke
 
 - Schallbruecke durch gemeinsame Bodenplatte: keine Trennfuge zwischen Einheiten fuehrt zu Koerperschallleitung
-- Haustrennwand endet unterhalb Dach: Rauch und Flamme koennen in Brandfall in Nachbareinheit eintreten
+- Haustrennwand endet unterhalb Dach: Rauch und Flamme können in Brandfall in Nachbareinheit eintreten
 - Einheitenuebergreifende TGA: gemeinsame Heizung benoetigt WEG-Vertragsregelung vor Aufteilung
 - Fehlende Einzelabnahme: Sammelabnahme schliesst Kaeufermangelansprueche nicht aus
 

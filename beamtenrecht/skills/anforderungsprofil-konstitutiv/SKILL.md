@@ -27,11 +27,11 @@ Skill für Konstellationen, in denen das Anforderungsprofil der Stellenausschrei
 ## 3. Ablauf / Checkliste
 
 ### a) Konstitutiv oder deklaratorisch
-- Konstitutiv (auch: zwingend) ist ein Merkmal, dessen Fehlen ohne weitere Pruefung zum Ausschluss fuehrt. Es engt die Vergleichsgruppe ein.
+- Konstitutiv (auch: zwingend) ist ein Merkmal, dessen Fehlen ohne weitere Prüfung zum Ausschluss fuehrt. Es engt die Vergleichsgruppe ein.
 - Deklaratorisch ist ein Merkmal, das nur die Auslegung der Beurteilung leitet und bei der Bewertung gewichtet wird.
 
 ### b) Rechtfertigungsanforderung
-- Ein konstitutives Anforderungsprofil ist nur zulaessig, wenn es sachlich gerechtfertigt ist und einen Bezug zur konkreten Aufgabenwahrnehmung hat (BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen).
+- Ein konstitutives Anforderungsprofil ist nur zulässig, wenn es sachlich gerechtfertigt ist und einen Bezug zur konkreten Aufgabenwahrnehmung hat (BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen).
 - Es darf nicht auf einen einzelnen Wunschbewerber zugeschnitten sein. Ein Zuschnittsverdacht ergibt sich aus Indizien (sehr enges Kriterienbuendel, Identitaet mit Vita des Wunschbewerbers, fehlende Vorgeschichte für solche Anforderungen).
 
 ### c) Folge eines unzulaessigen Profils
@@ -39,7 +39,7 @@ Skill für Konstellationen, in denen das Anforderungsprofil der Stellenausschrei
 - Bei laufendem Auswahlverfahren: einstweilige Anordnung gegen Ernennung des Konkurrenten — Skill `konkurrentenklage-einstweiliger-rechtsschutz`.
 
 ### d) Schutz des Wettbewerbsverfahrens
-- Auch wenn ein einzelnes Merkmal entfaellt, bleibt der Bestenauslese-Grundsatz erhalten; die uebrigen Anforderungen sind weiter pruefen.
+- Auch wenn ein einzelnes Merkmal entfaellt, bleibt der Bestenauslese-Grundsatz erhalten; die uebrigen Anforderungen sind weiter prüfen.
 
 ## 4. Quellenpflicht
 

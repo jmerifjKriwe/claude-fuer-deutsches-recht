@@ -27,7 +27,7 @@ DATEV bietet zwei Lohnprogramme: LODAS (Lohnbuchhaltungs- und Datenerfassungs-Sy
 
 ## Kaltstart-Rueckfragen
 
-1. Welche Mandantengroesse — bis 50 AN, ueber 50 AN?
+1. Welche Mandantengroesse — bis 50 AN, über 50 AN?
 2. Welche Branche und Sondersituationen (Sonn-/Feiertag, Schichtarbeit)?
 3. Welche Schnittstellen erforderlich (Bank, ERP)?
 4. Welche Module aktiv (BG, bAV, JobRad)?
@@ -77,7 +77,7 @@ DATEV bietet zwei Lohnprogramme: LODAS (Lohnbuchhaltungs- und Datenerfassungs-Sy
 - BG-Lohnnachweis.
 - bAV mit Versicherer-Schnittstelle.
 - JobRad mit Leasing-Vertraegen.
-- Werkstudent mit Immatrikulations-Pruefung.
+- Werkstudent mit Immatrikulations-Prüfung.
 
 ### Phase 6 — Updates und Wartung
 
@@ -96,6 +96,6 @@ DATEV bietet zwei Lohnprogramme: LODAS (Lohnbuchhaltungs- und Datenerfassungs-Sy
 
 Stand: 05/2026.
 
-- DATEV LODAS und Lohn und Gehalt Programm- und Bedienungs-Dokumentation (aktuelle Version pruefen).
+- DATEV LODAS und Lohn und Gehalt Programm- und Bedienungs-Dokumentation (aktuelle Version prüfen).
 - DATEV-Programm-Updates jaehrlich (Stand 01.01.) sowie unterjaehrige Reform-Updates (SV-Beitragsbemessungsgrenzen, Mindestlohn).
 - Verifikations-Hinweis: konkrete Programmpfade und Menue-Bezeichnungen ggf. abweichend in aktueller DATEV-Version.

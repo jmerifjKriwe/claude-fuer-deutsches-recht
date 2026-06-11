@@ -3,7 +3,7 @@ name: mdma-therapiepfad-erlaubnis-bauen
 description: "MDMA: Therapiepfad prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Mdma Therapiepfad Pruefen
+# Mdma Therapiepfad Prüfen
 
 ## Arbeitsweg
 

@@ -16,7 +16,7 @@ description: "Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vert
 1. Buy-Side oder Sell-Side DD? (Kaeufer analysiert oder Verkaefer bereitet auf)
 2. Full-Scope oder Limited-Scope (Focus Areas)?
 3. Zeitrahmen: Wie viele Tage bis zum DD-Report-Deadline?
-4. Welche Workstreams sind relevant: Corporate, Vertraege, HR, IP/IT, Litigation, Compliance, Real Estate?
+4. Welche Workstreams sind relevant: Corporate, Verträge, HR, IP/IT, Litigation, Compliance, Real Estate?
 5. Gibt es bekannte Deal-Breaker-Themen aus dem Process Letter oder ersten Gespraechen?
 6. W&I-Versicherung geplant? (Underwriter stellt eigene DD-Anforderungen)
 7. Sind Datenschutz/DSGVO und Exportkontrolle eigene Workstreams?
@@ -42,7 +42,7 @@ description: "Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vert
 | Workstream | Kerndokumente | Hauptrisiken | Vertragsmechanismus |
 |---|---|---|---|
 | Corporate | Satzung, Handelsregister, Gesellschaftervertraege, Organbeschluesse | Minderheitsrechte, Change-of-Control, Vinkulierung | Corporate Title Warranty, Zustimmungsvorbehalt |
-| Vertraege | Wesentliche Vertraege, Material Contracts, Aufhebungsvereinbarungen | CoC-Klauseln, Kuendigungsrechte, Exklusivitaet | Specific Reps, Indemnity |
+| Verträge | Wesentliche Verträge, Material Contracts, Aufhebungsvereinbarungen | CoC-Klauseln, Kuendigungsrechte, Exklusivitaet | Specific Reps, Indemnity |
 | HR/Arbeitsrecht | Arbeitsvertraege, Betriebsvereinbarungen, Pensionszusagen | § 613a BGB, Betriebsrat, Change-of-Control | HR Warranty, Pension Indemnity |
 | IP/IT | Marken, Patente, Lizenzen, Domain-Namen, Quellcode | Lizenzkuendigungen, Open-Source-Pflichten, IT-Sicherheit | IP Title Warranty, Source Code Escrow |
 | Litigation | Laufende Rechtsstreitigkeiten, Schiedsverfahren, Behördenverfahren | Haftungsvolumen, Rueckstellungsluecken | Litigation Indemnity, Disclosure Schedule |
@@ -64,9 +64,9 @@ description: "Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vert
 1. **DD-Scope festlegen** — Workstreams, Tiefen-Level (Full/Limited), Ressourcen, Zeitplan
 2. **IRL (Information Request List) erstellen** — gegliedert nach Workstreams; priorisiert nach Wesentlichkeit
 3. **Datenraum strukturieren** — Index-Mapping, Gap-Analyse, fehlende Dokumente als TODO markieren
-4. **Workstream-Pruefung** — jedes Dokument mit Datum, Fundstelle (Datenraum-ID) und Risikoklasse erfassen
+4. **Workstream-Prüfung** — jedes Dokument mit Datum, Fundstelle (Datenraum-ID) und Risikoklasse erfassen
 5. **Red Flag Memo intern** — laufende Zusammenfassung für Deal-Team; taeglich aktualisieren
-6. **Rueckfragen (Q&A)** — schriftliche Fragen an Verkaefer ueber Q&A-Funktion; Antworten dokumentieren
+6. **Rueckfragen (Q&A)** — schriftliche Fragen an Verkaefer über Q&A-Funktion; Antworten dokumentieren
 7. **DD-Report finalisieren** — Executive Summary, Workstream-Abschnitte, Risikomatrix, Empfehlungen
 8. **SPA-Mapping** — DD-Findings mit konkreten Vertragsklauseln verknuepfen (Reps, Indemnities, Closing Conditions)
 9. **W&I-Underwriter-Briefing** — DD-Report und Red Flag Memo an Versicherer; No-Claims Declaration
@@ -139,7 +139,7 @@ ANLAGEN: Dokumentenindex, Q&A-Log, Organigramm
 ## Vertiefung: Besondere Risikobereiche
 
 ### Change-of-Control-Klauseln
-Wesentliche Vertraege (Kundenv., Lieferantenv., Bankkredite, Mietvertraege, Lizenzen) enthalten haeufig CoC-Kuendigungsrechte. Im LDD: systematisches Mapping aller wesentlichen Vertraege mit CoC-Klauseln; Verhandlung von Consents vor Signing.
+Wesentliche Verträge (Kundenv., Lieferantenv., Bankkredite, Mietvertraege, Lizenzen) enthalten haeufig CoC-Kuendigungsrechte. Im LDD: systematisches Mapping aller wesentlichen Verträge mit CoC-Klauseln; Verhandlung von Consents vor Signing.
 
 ### Kartellrecht (§§ 35 ff. GWB; FKVO)
 Ab Umsatzschwellen: Anmeldepflicht Bundeskartellamt / EU-Kommission. Vollzugsverbot (Gun Jumping) bis zur Freigabe strikt einhalten — Bussgeld bis 10 % des Weltumsatzes.
@@ -155,10 +155,10 @@ Der Datenraum darf keine personenbezogenen Daten enthalten, die nicht für DD-Zw
 - § 15 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__15.html
 - § 179a AktG: https://www.gesetze-im-internet.de/aktg/__179a.html
 - §§ 35 ff. GWB: https://www.gesetze-im-internet.de/gwb/__35.html
-- AWG § 4-6 (FDI-Pruefung); AWV §§ 55 ff. (sektorale Investitionspruefung): https://www.gesetze-im-internet.de/awv_2013/
+- AWG § 4-6 (FDI-Prüfung); AWV §§ 55 ff. (sektorale Investitionspruefung): https://www.gesetze-im-internet.de/awv_2013/
 - EU-FDI-Screening-VO (EU) 2019/452: https://eur-lex.europa.eu/eli/reg/2019/452
-- EU Foreign Subsidies Regulation (FSR) (VO (EU) 2022/2560; in Kraft 12.01.2023; anwendbar ab 12.07.2023; Notifizierungspflicht ab 12.10.2023). M&A-Schwelle: mindestens eine Partei (oder Zielgesellschaft) ueber EUR 500 Mio. EU-Umsatz UND erworbene Seite hat ueber EUR 50 Mio. drittstaatliche finanzielle Zuwendungen in letzten drei Jahren erhalten. Bei Vergabeverfahren: ueber EUR 250 Mio. Auftragswert und ueber EUR 4 Mio. Drittstaaten-Zuwendungen. VO-Text: https://eur-lex.europa.eu/eli/reg/2022/2560 — Kommission Guidance: https://competition-policy.ec.europa.eu/foreign-subsidies-regulation_en
+- EU Foreign Subsidies Regulation (FSR) (VO (EU) 2022/2560; in Kraft 12.01.2023; anwendbar ab 12.07.2023; Notifizierungspflicht ab 12.10.2023). M&A-Schwelle: mindestens eine Partei (oder Zielgesellschaft) über EUR 500 Mio. EU-Umsatz UND erworbene Seite hat über EUR 50 Mio. drittstaatliche finanzielle Zuwendungen in letzten drei Jahren erhalten. Bei Vergabeverfahren: über EUR 250 Mio. Auftragswert und über EUR 4 Mio. Drittstaaten-Zuwendungen. VO-Text: https://eur-lex.europa.eu/eli/reg/2022/2560 — Kommission Guidance: https://competition-policy.ec.europa.eu/foreign-subsidies-regulation_en
 - MoPeG (BGBl. I 2021, 3436; in Kraft 01.01.2024) — Auswirkungen auf DD bei Personengesellschaften (eGbR, OHG, KG): https://www.gesetze-im-internet.de/bgb/__705.html
 - DiRUG/DiREG: Online-Beurkundung Kapitalmassnahmen seit 01.08.2023 — DD-Implikation für Closing-Mechanik
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

@@ -3,7 +3,7 @@ name: strafrecht-spezial-haeusliche-gewalt-im-strafverfahren
 description: "Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, G..."
 ---
 
-# Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/öffentliches Interesse bei § 223 StGB sauber pruefen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung.
+# Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/öffentliches Interesse bei § 223 StGB sauber prüfen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung.
 
 
 ## Arbeitsweg
@@ -14,13 +14,13 @@ description: "Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: T
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/öffentliches Interesse bei § 223 StGB sauber pruefen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung.
+**Fokus:** Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/öffentliches Interesse bei § 223 StGB sauber prüfen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung.
 
 ### Haeusliche Gewalt im Strafverfahren — Verteidigerleitfaden
 
 ## Worum geht es konkret
 
-"Haeusliche Gewalt" ist kein eigener Straftatbestand, sondern ein Tat-Kontext, der mehrere Strafnormen aktiviert. Verfahren sind kommunikativ, beweisrechtlich und strafprozessual besonders herausfordernd, weil die Beziehungsdynamik in die Beweisaufnahme hineinwirkt. Verteidiger muessen den Tatbestand sauber pruefen, die Aussage-gegen-Aussage-Konstellation methodisch behandeln und parallel die zivilrechtliche GewSchG-Schiene mitdenken.
+"Haeusliche Gewalt" ist kein eigener Straftatbestand, sondern ein Tat-Kontext, der mehrere Strafnormen aktiviert. Verfahren sind kommunikativ, beweisrechtlich und strafprozessual besonders herausfordernd, weil die Beziehungsdynamik in die Beweisaufnahme hineinwirkt. Verteidiger müssen den Tatbestand sauber prüfen, die Aussage-gegen-Aussage-Konstellation methodisch behandeln und parallel die zivilrechtliche GewSchG-Schiene mitdenken.
 
 ## Tatbestandsbuendel im Detail
 
@@ -39,10 +39,10 @@ description: "Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: T
 
 ## Praktikertipps der Verteidigung
 
-- **Strafantrag und öffentliches Interesse sauber trennen**: Bei reiner einfacher Koerperverletzung nach § 223 StGB gilt § 230 StGB. Die Tat wird grundsaetzlich nur auf Strafantrag verfolgt, es sei denn, die Staatsanwaltschaft haelt wegen besonderen öffentlichen Interesses ein Einschreiten von Amts wegen für geboten. Deshalb zuerst klaeren: Strafantrag gestellt? Frist und Berechtigung? Rücknahme nach § 77d StGB denkbar? Hat die StA das besondere öffentliche Interesse ausdruecklich oder der Sache nach bejaht? § 248a StGB gehoert nicht hierher; er betrifft geringwertige Vermoegensdelikte, nicht Koerperverletzung.
+- **Strafantrag und öffentliches Interesse sauber trennen**: Bei reiner einfacher Koerperverletzung nach § 223 StGB gilt § 230 StGB. Die Tat wird grundsätzlich nur auf Strafantrag verfolgt, es sei denn, die Staatsanwaltschaft haelt wegen besonderen öffentlichen Interesses ein Einschreiten von Amts wegen für geboten. Deshalb zuerst klären: Strafantrag gestellt? Frist und Berechtigung? Rücknahme nach § 77d StGB denkbar? Hat die StA das besondere öffentliche Interesse ausdruecklich oder der Sache nach bejaht? § 248a StGB gehoert nicht hierher; er betrifft geringwertige Vermoegensdelikte, nicht Koerperverletzung.
 - **Aussage-gegen-Aussage**: regelmaessig methodische Glaubhaftigkeitspruefung erforderlich. Verteidigung sollte aussagepsychologisches SV-Gutachten anregen (§ 244 III StPO), wenn Realkennzeichen schwach sind oder Motiv zur Falschbelastung erkennbar (Trennungsdynamik, Sorgerechtsstreit).
 - **Polizeiprotokoll als Beweismittel**: Sturmprotokolle der Polizei, Wegweisungs-/Rueckkehrverbote nach Polizeigesetz Land sind oft Schluesselbeweise. Verteidiger holt Protokoll im Original; Verzerrungen durch Stresssituation und Wahrnehmungslueken kommen vor.
-- **Schutzraum-Akte**: Mandant darf wegen Aufnahme in Frauenhaus keine Annaeherung suchen. Adressfeststellung durch Verteidiger ueber Strafakte (§ 147 StPO) — diskret und ohne Verschriftlichung im Mandantenkontakt.
+- **Schutzraum-Akte**: Mandant darf wegen Aufnahme in Frauenhaus keine Annaeherung suchen. Adressfeststellung durch Verteidiger über Strafakte (§ 147 StPO) — diskret und ohne Verschriftlichung im Mandantenkontakt.
 - **Beratungskette mit Familiengericht**: Schutzbeschluss § 1 GewSchG, Wohnungszuweisung § 2 GewSchG, Sorgerecht/Umgang — alle Verfahren parallel; ein Familienverfahren kann das Strafverfahren stark beeinflussen.
 - **Tat-Provokation**: § 199 StGB Wechselseitigkeit bei Beleidigung; bei KV-Streit ohne klares Aggressor-Opfer-Verhaeltnis kann § 213 StGB (minder schwerer Fall Totschlag) bzw. Provokationsgrundsatz bei Strafzumessung argumentiert werden.
 
@@ -76,7 +76,7 @@ description: "Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: T
 > Mein Mandant nimmt Stellung wie folgt: Die geschilderten Vorgaenge am [Datum] sind aus seiner Wahrnehmung anders verlaufen, als von der Geschaedigten dargestellt. Insbesondere hat ihn die Geschaedigte zuerst mit den im Polizeiprotokoll dokumentierten Worten beleidigt und einen Schlag in das Gesicht ausgefuehrt. Die nachfolgende reaktive Bewegung meines Mandanten stand im Spannungsverhaeltnis Notwehr § 32 StGB / Affekt. Im Uebrigen wird auf das Schweigerecht zurueckgegriffen, soweit Detailfragen die Beziehungsdynamik betreffen.
 
 **Hilfsbeweisantrag aussagepsy-Gutachten**:
-> Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zu Frau [Geschaedigte] einzuholen. Es ist methodisch nach der Hypothesen-gegen-Hypothesen-Methode (BGH 30.07.1999 - 1 StR 618/98, BGHSt 45, 164) zu klaeren, ob die belastende Aussage erlebnisbasiert ist oder durch (a) Trennungs- und Sorgerechtskonflikt, (b) Loyalitaetskonflikt gegenueber Dritten, (c) konfliktreiche Vor-Vernehmungssituation suggestiv gepraegt ist.
+> Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zu Frau [Geschaedigte] einzuholen. Es ist methodisch nach der Hypothesen-gegen-Hypothesen-Methode (BGH 30.07.1999 - 1 StR 618/98, BGHSt 45, 164) zu klären, ob die belastende Aussage erlebnisbasiert ist oder durch (a) Trennungs- und Sorgerechtskonflikt, (b) Loyalitaetskonflikt gegenueber Dritten, (c) konfliktreiche Vor-Vernehmungssituation suggestiv gepraegt ist.
 
 ## Quellen Stand 06/2026
 

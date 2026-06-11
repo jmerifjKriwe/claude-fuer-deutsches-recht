@@ -12,7 +12,7 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 ## Wann dieses Modul hilft
 
 - Haftungscaps im AVV werden verhandelt.
-- Mandant hat Schadensersatzanspruch gegen den Vertragspartner zu pruefen.
+- Mandant hat Schadensersatzanspruch gegen den Vertragspartner zu prüfen.
 - Aussenhaftung gegenueber einem Betroffenen ist eingetreten und der Innenregress steht an.
 - Mandant beziffert das Restrisiko für ein Cyber-Versicherungsdeckungsgespraech.
 
@@ -24,7 +24,7 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 - Art. 82 Abs. 4 DSGVO: Gesamtschuldnerische Haftung mehrerer Verantwortlicher / Auftragsverarbeiter, wenn an demselben Verarbeitungsvorgang beteiligt.
 - Art. 82 Abs. 5 DSGVO: Innenregress nach Mass des Verschuldensanteils.
 - Art. 28 Abs. 10 DSGVO: Bei Ueberschreiten der Weisungen wird Auftragsverarbeiter zum Verantwortlichen.
-- EuGH-Linie zu Art. 82 DSGVO: Konkrete Aktenzeichen vor Zitat ueber curia.europa.eu verifizieren; aus dem Modellwissen wird kein Aktenzeichen zitiert.
+- EuGH-Linie zu Art. 82 DSGVO: Konkrete Aktenzeichen vor Zitat über curia.europa.eu verifizieren; aus dem Modellwissen wird kein Aktenzeichen zitiert.
 
 ## Ablauf / Checkliste
 
@@ -39,7 +39,7 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 
 3. **Cap-Diskussion.**
  - Aussenhaftung kann nicht durch Vertrag zwischen Verantwortlichem und Auftragsverarbeiter zu Lasten des Betroffenen begrenzt werden.
- - Innenregress-Cap zulaessig, soweit nicht gegen § 307 BGB (AGB), Vorsatz und grobe Fahrlaessigkeit nicht ausschliessbar.
+ - Innenregress-Cap zulässig, soweit nicht gegen § 307 BGB (AGB), Vorsatz und grobe Fahrlaessigkeit nicht ausschliessbar.
  - Branchenuebliche Caps: 12-Monats-Honorar, oft mit Sub-Cap für Datenschutzverletzungen.
 
 4. **Versicherung.**
@@ -60,7 +60,7 @@ Haftungsklausel:
 >
 > (1) Die Parteien haften gegenueber Betroffenen nach Massgabe des Art. 82 DSGVO. Diese gesetzliche Haftung wird durch die nachstehenden vertraglichen Regelungen zur Innenhaftung nicht beruehrt.
 >
-> (2) Im Innenverhaeltnis tragen Verantwortlicher und Auftragsverarbeiter den Schaden im Verhaeltnis ihres jeweiligen Verschuldensanteils. Hat ein Auftragsverarbeiter den vollen Schadenersatz an einen Betroffenen geleistet, steht ihm gegen den Verantwortlichen ein Regressanspruch in Hoehe des Verschuldensanteils des Verantwortlichen zu (Art. 82 Abs. 5 DSGVO).
+> (2) Im Innenverhaeltnis tragen Verantwortlicher und Auftragsverarbeiter den Schaden im Verhaeltnis ihres jeweiligen Verschuldensanteils. Hat ein Auftragsverarbeiter den vollen Schadenersatz an einen Betroffenen geleistet, steht ihm gegen den Verantwortlichen ein Regressanspruch in Höhe des Verschuldensanteils des Verantwortlichen zu (Art. 82 Abs. 5 DSGVO).
 >
 > (3) Die Haftung des Auftragsverarbeiters gegenueber dem Verantwortlichen aus oder im Zusammenhang mit diesem Vertrag, einschliesslich Regressansprueche nach Absatz (2), ist auf einen Betrag von [BETRAG] EUR pro Schadensfall und insgesamt auf [BETRAG] EUR pro Kalenderjahr begrenzt. Die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
 >
@@ -72,7 +72,7 @@ Haftungsklausel:
 
 ## Typische Drafting-Fehler
 
-- Vollstaendige Haftungsfreistellung des Auftragsverarbeiters – nicht zulaessig wegen Art. 82 Abs. 2 DSGVO.
+- Vollstaendige Haftungsfreistellung des Auftragsverarbeiters – nicht zulässig wegen Art. 82 Abs. 2 DSGVO.
 - Cap auch für Vorsatz und grobe Fahrlaessigkeit – AGB-rechtlich unwirksam (§ 309 Nr. 7 BGB).
 - Pauschale Uebernahme aller Aussenhaftungsrisiken – wirtschaftlich unrealistisch ohne Versicherung.
 - Bussgelder-Regress ohne Bezug zur konkreten Pflichtverletzung – Art. 83 DSGVO Sanktionscharakter spricht gegen pauschalen Regress.
@@ -83,7 +83,7 @@ Haftungsklausel:
 
 - Art. 82, Art. 28 Abs. 4, Art. 28 Abs. 10, Art. 83 DSGVO.
 - § 307, § 309 Nr. 7 BGB (AGB-rechtliche Schranken).
-- EuGH-Linie zu Art. 82 DSGVO: konkrete Aktenzeichen vor Zitat ueber curia.europa.eu verifizieren; keine Aktenzeichen aus dem Modellwissen.
+- EuGH-Linie zu Art. 82 DSGVO: konkrete Aktenzeichen vor Zitat über curia.europa.eu verifizieren; keine Aktenzeichen aus dem Modellwissen.
 - Zitierweise: `../../../references/zitierweise.md`.
 
 ## Normen und Rechtsprechung

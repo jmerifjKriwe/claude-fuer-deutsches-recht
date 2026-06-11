@@ -14,4 +14,4 @@ LausitzStorage Bereinigung: Senior-Darlehen NordCap 80 Mio EUR, Wandeldarlehen N
 ## Output-Module
 - Instrumentenkarte mit Rang und Sicherheit
 - Konditionsuebersicht je Instrument
-- Step-Plan mit Bereinigungs-Massnahmen und Verantwortlichkeit
+- Step-Plan mit Bereinigungs-Maßnahmen und Verantwortlichkeit

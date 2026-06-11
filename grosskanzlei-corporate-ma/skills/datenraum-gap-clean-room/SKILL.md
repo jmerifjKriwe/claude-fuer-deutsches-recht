@@ -3,12 +3,12 @@ name: datenraum-gap-clean-room
 description: "Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden koennen: Datenraum-Lueckenanaly..."
 ---
 
-# Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden koennen
+# Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden können
 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Datenraum Deal Intake Disclosure Distressed** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Grosskanzlei Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Datenraum Deal Intake Disclosure Distressed** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Grosskanzlei Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -28,7 +28,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden koennen. §§ 35 ff. GWB Fusionskontrolle, Kartellrecht. Prüfraster fehlende Dokumente identifizieren, Gap-Liste erstellen, Clean-Room-Prozess dokumentieren, Nachanforderungen strukturieren. Output Gap-Report mit priorisierten Nachforderungen und Clean-Room-Zugangsprotokolll. Abgrenzung zu Datenraum-Aufbau und zu QA-Information-Requests.
+**Fokus:** Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden können. §§ 35 ff. GWB Fusionskontrolle, Kartellrecht. Prüfraster fehlende Dokumente identifizieren, Gap-Liste erstellen, Clean-Room-Prozess dokumentieren, Nachanforderungen strukturieren. Output Gap-Report mit priorisierten Nachforderungen und Clean-Room-Zugangsprotokolll. Abgrenzung zu Datenraum-Aufbau und zu QA-Information-Requests.
 
 ### Datenraum-Gap-Analyse und Clean Room
 
@@ -172,7 +172,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Art. 7 FKVO; § 41 GWB — Clean-Room-Pflicht bei kartellrechtlich sensiblen Informationen vor Fusionskontrollfreigabe
 - §§ 17-18 GeschGehG — Schutz von Geschäftsgeheimnissen: Datenraum-Inhalte unterliegen Geheimhaltung; Clean Room schutzt Wettbewerber-Informationen
-- §§ 311, 241 Abs. 2 BGB — Offenbarungspflicht des Verkaeuf ers: wesentliche Risiken muessen offengelegt werden; Fair Disclosure nach BGH
+- §§ 311, 241 Abs. 2 BGB — Offenbarungspflicht des Verkaeuf ers: wesentliche Risiken müssen offengelegt werden; Fair Disclosure nach BGH
 - Art. 7, 17 MAR — bei boersennotiertem Zielobjekt: Insiderinformationen im Datenraum erfordern MAR-konforme Zugangsprotokollierung
 
 ## Aktuelle Rechtsprechung
@@ -184,8 +184,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. **Datenraum-Index auswerten:** Kategorien, Vollstaendigkeit, Duplikate, Versionierung
 2. **IRL-Luecken identifizieren:** fehlende Dokumente je Workstream aufführen; Prioritaet High/Medium
 3. **Widerspruchsanalyse:** Teaser vs. IM vs. Datenraum — wesentliche Abweichungen → Red Flag
-4. **Clean Room pruefen:** kartellrechtlich sensitive Informationen? → Clean Room einrichten; Zugangsproto koll
-5. **Disclosure-Konzept bewerten:** allgemeine Disclosure vs. spezifische Disclosure; Fair-Disclosure-Standard pruefen
+4. **Clean Room prüfen:** kartellrechtlich sensitive Informationen? → Clean Room einrichten; Zugangsproto koll
+5. **Disclosure-Konzept bewerten:** allgemeine Disclosure vs. spezifische Disclosure; Fair-Disclosure-Standard prüfen
 
 ## Rote Schwellen
 

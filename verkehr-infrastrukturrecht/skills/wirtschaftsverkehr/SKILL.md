@@ -46,7 +46,7 @@ Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistiku
 
 1. **Bedarf analysieren:** Welche Betriebe brauchen Lieferflaeche, welche Frequenz, welche Fahrzeugklassen?
 2. **Bestandsaufnahme:** vorhandene Haltverbote, Parkraumbewirtschaftung, Fussgaengerzonen abgleichen
-3. **Standort pruefen:** Sichtweite, Kreuzungsabstand (§ 12 I Nr. 1 StVO 5m-Regel), OEPNV-Haltestelle
+3. **Standort prüfen:** Sichtweite, Kreuzungsabstand (§ 12 I Nr. 1 StVO 5m-Regel), OEPNV-Haltestelle
 4. **Rechtsgrundlage waehlen:** Haltverbotsaufhebung (§ 45 StVO), Lieferzone Zeichen 286, Sondernutzung
 5. **Zeitfenster festlegen:** Hauptlieferzeit 06:00-11:00 Uhr; Abendlieferung ggf. mit Laermbeschraenkung
 6. **Ausnahmegenehmigung beantragen (§ 46 StVO):** Antrag bei Strassenverkehrsbehoerde, Fahrzeugliste, Nachweis gewerblicher Notwendigkeit
@@ -120,7 +120,7 @@ Mit freundlichen Gruessen
 
 - § 46 StVO-Genehmigung ist Ermessensentscheidung — kein Rechtsanspruch, aber Anspruch auf fehlerfreie Ermessensausübung
 - Sichtdreiecke und 5-m-Abstands-Regel (§ 12 I Nr. 1 StVO) bei Lieferzonen-Standort unbedingt einhalten
-- Ladungssicherung (§ 22 StVO, VDI 2700) vor Beginn jeder Auslieferung pruefen
+- Ladungssicherung (§ 22 StVO, VDI 2700) vor Beginn jeder Auslieferung prüfen
 - OEPNV-Haltestellen und Radwege freihalten — Busverkehr geht vor
 - Sondernutzungsgebuehren vertraglich absichern und kalkulieren
 

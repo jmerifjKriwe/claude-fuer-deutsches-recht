@@ -18,7 +18,7 @@ description: "Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigensch
 1. Ist der Stoff Abfall (§ 3 Abs. 1 KrWG) oder liegt ein Nebenprodukt (§ 4 KrWG) oder Ende der Abfalleigenschaft (§ 5 KrWG) vor?
 2. Wer ist Abfallerzeuger / -besitzer? Liegt gewerbliche Sammlung (§ 17 Abs. 2 Nr. 4 KrWG) vor?
 3. Welche Entsorgungsanlage soll genutzt werden — genehmigt oder nicht?
-4. Besteht Ueberlassungspflicht an oeffentlich-rechtliche Entsorgungstraeger (§ 17 Abs. 1 KrWG)?
+4. Besteht Ueberlassungspflicht an öffentlich-rechtliche Entsorgungstraeger (§ 17 Abs. 1 KrWG)?
 5. Welche Nachweispflichten (§§ 49 ff. KrWG, NachwV) sind einzuhalten?
 6. Gibt es Transporte — nationale Grenze? (EG-AbfVerbrV, Basler Uebereinkommen)
 
@@ -42,7 +42,7 @@ description: "Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigensch
 
 1. **Stoff-Klassifikation**: Ist Stoff Abfall, Nebenprodukt oder nicht-Abfall nach §§ 3-5 KrWG + Europaeischem Abfallverzeichnis (AVV)?
 2. **Entsorgungsweg bestimmen**: Verwertung (§ 8 KrWG — energetisch, werkstofflich, biologisch) oder Beseitigung (§ 15 KrWG)?
-3. **Genehmigung pruefen**: Entsorgungsanlage §§ 4 ff. BImSchG, Planfeststellung (Deponie §§ 35 ff. KrWG)?
+3. **Genehmigung prüfen**: Entsorgungsanlage §§ 4 ff. BImSchG, Planfeststellung (Deponie §§ 35 ff. KrWG)?
 4. **Nachweise**: Gefaehrliche Abfaelle — Begleitschein/Entsorgernachweis (NachwV); elektronisches Nachweisverfahren.
 5. **Ueberlassungspflicht**: § 17 KrWG — Ausnahmen für Eigenkompostierung, gemeinnuetzige Sammlung, gewerbliche Drittbeauftragung.
 6. **Grenzueberschreitend**: EG-AbfVerbrV Nr. 1013/2006 — Notifizierungspflicht bei gruenen / orangenen / roten Listen; Basel-Genehmigung bei gefaehrlichen Abfaellen in Drittstaaten.

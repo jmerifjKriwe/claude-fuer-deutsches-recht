@@ -20,14 +20,14 @@ Skill für Beamte, die ihre Erfahrungsstufe der Besoldung anzweifeln. Anwendung 
 ## 2. Eingaben
 
 - Beamtenrechtlicher Werdegang (Probezeit, Versetzungen, Beurlaubungen)
-- Aussagen ueber Vorzeiten im Tarif, in der freien Wirtschaft, im Ausland
+- Aussagen über Vorzeiten im Tarif, in der freien Wirtschaft, im Ausland
 - Stufenfeststellungsbescheid
 - Eltern- und Pflegezeiten
 
 ## 3. Ablauf / Checkliste
 
 ### a) Grundregel
-- § 27 BBesG: Aufstieg in den Stufen nach Erfahrungszeiten; Bundesrecht. Länder haben eigene Vorschriften, oft strukturell aehnlich.
+- § 27 BBesG: Aufstieg in den Stufen nach Erfahrungszeiten; Bundesrecht. Länder haben eigene Vorschriften, oft strukturell ähnlich.
 - Zaehlbar sind beamtenrechtliche Dienstzeiten und gleichgestellte Verwendungen.
 
 ### b) Anerkennung beruflicher Vorzeiten
@@ -36,7 +36,7 @@ Skill für Beamte, die ihre Erfahrungsstufe der Besoldung anzweifeln. Anwendung 
 
 ### c) Verzoegerungstatbestaende
 - Verzoegerung bei nicht foerderlicher Verwendung, langfristiger Beurlaubung ohne Bezuege.
-- Elternzeit nach § 6 Abs. 1 BEEG wird grundsaetzlich nicht stufenwirksam beruecksichtigt; jedoch keine Schlechterstellung bei Wiederaufnahme.
+- Elternzeit nach § 6 Abs. 1 BEEG wird grundsätzlich nicht stufenwirksam beruecksichtigt; jedoch keine Schlechterstellung bei Wiederaufnahme.
 
 ### d) Wechsel Bund / Land
 - Bei Versetzung zwischen Dienstherrn ist eine "Stufengleichschaltung" durchzufuehren; Streit oft bei differenzierten Erfahrungsstufenmodellen.

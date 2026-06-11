@@ -32,7 +32,7 @@ Zum Monatsende fallen mehrere Meldepflichten gleichzeitig an: LSt-Anmeldung beim
 
 **§ 41a EStG** — LSt-Anmeldung Frist 10. des Folgemonats.
 
-**§ 23 Abs. 1 SGB IV** — SV-Beitragsfaelligkeit drittletzter Bankarbeitstag des laufenden Monats (voraussichtliche Schuld); Korrektur ueber Beitragsnachweis bis 15. des Folgemonats.
+**§ 23 Abs. 1 SGB IV** — SV-Beitragsfaelligkeit drittletzter Bankarbeitstag des laufenden Monats (voraussichtliche Schuld); Korrektur über Beitragsnachweis bis 15. des Folgemonats.
 
 **§ 28a SGB IV** — DEUEV-Meldungen.
 
@@ -77,7 +77,7 @@ Mandant: [Firma]
 ### Phase 3 — SV-Beitragsnachweis und Zahlung
 
 - Faelligkeit: drittletzter Bankarbeitstag des laufenden Monats.
-- SV-Beitragsnachweis ueber sv.net oder DAKOTA an Krankenkassen.
+- SV-Beitragsnachweis über sv.net oder DAKOTA an Krankenkassen.
 - Zahlung an jede Krankenkasse einzeln.
 - Bei Verspaetung: 1 Prozent Saeumniszuschlag pro Monat.
 

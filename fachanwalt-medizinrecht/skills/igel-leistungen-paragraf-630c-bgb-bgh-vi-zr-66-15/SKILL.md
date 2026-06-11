@@ -7,7 +7,7 @@ description: "Igel Leistungen Paragraf 630c BGB BGH Vi Zr 66 15: fachanwaltliche
 
 ## Einsatzlage
 
-Patient erhaelt IGEL-Leistung ohne Aufklaerung ueber Kostenpflicht.
+Patient erhaelt IGEL-Leistung ohne Aufklaerung über Kostenpflicht.
 
 ## Normenanker
 

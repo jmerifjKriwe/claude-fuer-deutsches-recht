@@ -13,7 +13,7 @@ description: "Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG er
 
 ## Worum geht es?
 
-Bevor Sie klagen, muessen Sie wissen: Ist das Sozialgericht ueberhaupt zuständig? Nicht jeder Streit mit einer Behörde gehoert dorthin. Manche Sachen gehen vor das Verwaltungsgericht. Andere vor das Arbeitsgericht. Diese Skill hilft Ihnen, das richtige Gericht zu finden.
+Bevor Sie klagen, müssen Sie wissen: Ist das Sozialgericht ueberhaupt zuständig? Nicht jeder Streit mit einer Behörde gehoert dorthin. Manche Sachen gehen vor das Verwaltungsgericht. Andere vor das Arbeitsgericht. Diese Skill hilft Ihnen, das richtige Gericht zu finden.
 
 ## In einfacher Sprache
 
@@ -39,7 +39,7 @@ Es gibt verschiedene Gerichte. Nicht jedes Gericht ist für Sie zuständig. Das 
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, was im Bescheid steht
+### Schritt 1 — Prüfen, was im Bescheid steht
 
 Im Bescheid steht oft, welches Gericht zuständig ist (Rechtsbehelfsbelehrung). Vertrauen Sie der Belehrung, wenn sie da steht.
 
@@ -56,7 +56,7 @@ Das Sozialgericht ist zuständig für:
 - **Sozialhilfe** (SGB XII): Grundsicherung im Alter
 - **Schwerbehinderung** (SGB IX): Grad der Behinderung
 - **Soziale Entschaedigung** (SGB XIV): Opferleistungen
-- **Kinder- und Jugendhilfe** (SGB VIII) — teilweise, vorsichtig pruefen
+- **Kinder- und Jugendhilfe** (SGB VIII) — teilweise, vorsichtig prüfen
 - **Asylbewerberleistungs-Gesetz** (AsylbLG)
 
 ### Schritt 3 — Nicht ans SG gehoeren
@@ -76,7 +76,7 @@ Rufen Sie die Geschaeftsstelle des Sozialgerichts an. Sagen Sie kurz, was los is
 
 Auch wenn Sie ans falsche Gericht schreiben, ist nichts verloren. Das Gericht verweist Ihren Fall (§ 98 SGG). Die Frist bleibt gewahrt. Aber: Sie sparen Zeit, wenn Sie gleich richtig zielen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Wohngeld und Sozialhilfe**: Wohngeld geht ans Verwaltungsgericht, Sozialhilfe ans Sozialgericht. Das ist eine haeufige Verwechslung. Siehe `wohngeld-und-sozialhilfe-grenzfaelle`.
 - **Kindergeld**: Geht ans Finanzgericht — nicht ans SG.
@@ -90,4 +90,4 @@ Auch wenn Sie ans falsche Gericht schreiben, ist nichts verloren. Das Gericht ve
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialgerichts (kostenlose Auskunft). Pruefen Sie immer die Rechtsbehelfsbelehrung Ihres Bescheids.
+Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialgerichts (kostenlose Auskunft). Prüfen Sie immer die Rechtsbehelfsbelehrung Ihres Bescheids.

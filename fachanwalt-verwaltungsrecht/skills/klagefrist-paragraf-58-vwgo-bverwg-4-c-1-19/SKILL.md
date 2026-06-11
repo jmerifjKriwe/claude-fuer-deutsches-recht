@@ -31,7 +31,7 @@ Rechtsbehelfsbelehrung fehlt; Klagefrist?
 
 ## Arbeitsergebnis
 
-Jahresfrist; Pruefung Belehrung.
+Jahresfrist; Prüfung Belehrung.
 
 ## Belege und Aktenlücken
 

@@ -19,10 +19,10 @@ Der Verlag muss Geld vom Autor zurueckfordern: ueberzahlte Tantiemen (z. B. nach
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-1. Welche Forderung in welcher Hoehe (EUR, Faelligkeit, Rechtsgrund)?
+1. Welche Forderung in welcher Höhe (EUR, Faelligkeit, Rechtsgrund)?
 2. Gibt es eine schriftliche Anerkennung (Vertrag, Abrechnung)?
 3. Hat der Autor schon reagiert (gar nicht, Ablehnung, Teilzahlung, Vergleichsangebot)?
-4. Verjährungslage (Frist nach BGB § 195 grundsaetzlich 3 Jahre)?
+4. Verjährungslage (Frist nach BGB § 195 grundsätzlich 3 Jahre)?
 5. Ist der Autor Verbraucher oder Unternehmer (BGB § 13/14)?
 6. Eilbedarf (Zahlungsunfaehigkeitsgefahr, Vermoegensverfall)?
 7. Mahnung allein oder Eskalation an Inkasso / Justiziariat?
@@ -30,7 +30,7 @@ Der Verlag muss Geld vom Autor zurueckfordern: ueberzahlte Tantiemen (z. B. nach
 ## Rechtlicher und sachlicher Rahmen
 
 - BGB § 286 - Schuldnerverzug; Mahnung erforderlich, soweit kein Termin nach dem Kalender bestimmt ist; nach 30 Tagen ab Faelligkeit Verzug ohne Mahnung bei Verbrauchern nur mit Hinweis nach BGB § 286 Abs. 3.
-- BGB § 288 - Verzugszinsen: 5 Prozentpunkte ueber Basiszinssatz bei Verbrauchern, 9 Prozentpunkte ueber Basiszinssatz bei B2B.
+- BGB § 288 - Verzugszinsen: 5 Prozentpunkte über Basiszinssatz bei Verbrauchern, 9 Prozentpunkte über Basiszinssatz bei B2B.
 - BGB § 195 - Regelverjaehrung 3 Jahre; Beginn nach BGB § 199.
 - BGB § 812 - Rueckforderung wegen Bereicherung bei ueberzahlten Tantiemen.
 - VerlG § 33 - Rueckforderung von Vorschuss bei Ruecktritt.
@@ -39,15 +39,15 @@ Der Verlag muss Geld vom Autor zurueckfordern: ueberzahlte Tantiemen (z. B. nach
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Forderung sauber ermitteln.** Hoehe, Faelligkeit, Rechtsgrund, Belege.
-2. **Verjährungspruefung.** Wann begann die Verjährung? Drohen Massnahmen vor Jahresende?
+1. **Forderung sauber ermitteln.** Höhe, Faelligkeit, Rechtsgrund, Belege.
+2. **Verjährungspruefung.** Wann begann die Verjährung? Drohen Maßnahmen vor Jahresende?
 3. **Erste Zahlungsaufforderung** (freundlich, ohne juristische Drohung). Frist 14 Tage.
-4. **Zweite Zahlungsaufforderung** mit Nachfristsetzung gemaess BGB § 286. Ankuendigung der Verzugszinsen.
+4. **Zweite Zahlungsaufforderung** mit Nachfristsetzung gemäß BGB § 286. Ankuendigung der Verzugszinsen.
 5. **Dritte Mahnung** - letzte Mahnung mit Ankuendigung gerichtlicher Schritte. Frist 14 Tage.
 6. **Mahnbescheid (ZPO §§ 688 ff.)** beim Mahngericht (oertlich zuständig nach Wohnsitz). Kosten gering, hemmt Verjährung.
 7. **Bei Widerspruch:** Streitige Verfahren - Klage einreichen oder Klage abgeben.
 8. **Vollstreckungsbescheid** bei keinem Widerspruch nach 2 Wochen; Titel für Zwangsvollstreckung.
-9. **Parallel:** Vergleichsangebot pruefen (siehe `verl-vergleichsverhandlung-mit-autor`).
+9. **Parallel:** Vergleichsangebot prüfen (siehe `verl-vergleichsverhandlung-mit-autor`).
 
 ## Trade-off-Matrix
 
@@ -65,8 +65,8 @@ Der Verlag muss Geld vom Autor zurueckfordern: ueberzahlte Tantiemen (z. B. nach
 - Vorletzte Mahnung immer per Einschreiben - bei Bestreiten der Zustellung Beweis.
 - Verzugszinsen nicht vergessen - die Buchhaltung uebersieht sie oft.
 - Bei Verbraucher-Autor (Privatperson) Verzug erst nach Mahnung; bei B2B Schuldnerverzug 30 Tage nach Faelligkeit, auch ohne Mahnung (BGB § 286 Abs. 3).
-- Mahnkosten als Pauschale (5 EUR Verbraucher, 40 EUR B2B nach BGB § 288 Abs. 5) sind zulaessig.
-- Bei mehreren Forderungen: Tilgungsbestimmung (BGB § 366) klaeren, sonst Anrechnung auf aelteste.
+- Mahnkosten als Pauschale (5 EUR Verbraucher, 40 EUR B2B nach BGB § 288 Abs. 5) sind zulässig.
+- Bei mehreren Forderungen: Tilgungsbestimmung (BGB § 366) klären, sonst Anrechnung auf aelteste.
 
 ## Mustertexte / Vorlagen
 

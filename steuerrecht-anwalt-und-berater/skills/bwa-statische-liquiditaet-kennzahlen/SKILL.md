@@ -13,7 +13,7 @@ description: "Statische Liquiditaetskennzahlen Liquiditaet 1 2 3 Grades aus BWA 
 
 ## Kernsachverhalt
 
-Statische Liquiditaetskennzahlen geben einen Schnappschuss der Zahlungsfaehigkeit zum Stichtag. Sie sind keine vollwertige Liquiditaetsplanung (dynamisch), aber Standardinstrument für Bank-Reporting, Quartals-Pruefung und erste Krisenfrueherkennung. Der Steuerberater berechnet sie aus Bilanz und SuSa und bewertet sie nach branchenueblichen Schwellenwerten. Bei Krisenmandanten ist die Liquiditaet 1. Grades unter 100 Prozent oft erster Indikator für § 17 InsO-Risiko.
+Statische Liquiditaetskennzahlen geben einen Schnappschuss der Zahlungsfaehigkeit zum Stichtag. Sie sind keine vollwertige Liquiditaetsplanung (dynamisch), aber Standardinstrument für Bank-Reporting, Quartals-Prüfung und erste Krisenfrueherkennung. Der Steuerberater berechnet sie aus Bilanz und SuSa und bewertet sie nach branchenueblichen Schwellenwerten. Bei Krisenmandanten ist die Liquiditaet 1. Grades unter 100 Prozent oft erster Indikator für § 17 InsO-Risiko.
 
 ## Kaltstart-Rueckfragen
 
@@ -21,7 +21,7 @@ Statische Liquiditaetskennzahlen geben einen Schnappschuss der Zahlungsfaehigkei
 2. Liegt aktuelle SuSa und Bilanz vor?
 3. Welche Kreditlinien (Kontokorrent, langfristig)?
 4. Welche Verbindlichkeiten kurzfristig (< 1 Jahr) vs. langfristig?
-5. Sind Forderungen werthaltig (keine grossen Einzelrisiken)?
+5. Sind Forderungen werthaltig (keine großen Einzelrisiken)?
 6. Welche Vorraete (Umschlaghaeufigkeit)?
 7. Welche Branche — branchentypische Schwellenwerte differieren?
 8. Welcher Verwendungszweck — interne Steuerung, Bank, Sanierungsgutachten?
@@ -83,17 +83,17 @@ ANLAGENDECKUNG II:
 
 | Kennzahl | Gruen (typisch) | Gelb (typisch) | Rot (typisch) |
 |---|---|---|---|
-| Liquiditaet 1. Grades | ueber ca. 20 Prozent | ca. 10-20 Prozent | unter ca. 10 Prozent |
-| Liquiditaet 2. Grades | ueber ca. 100 Prozent | ca. 80-100 Prozent | unter ca. 80 Prozent |
-| Liquiditaet 3. Grades | ueber ca. 200 Prozent | ca. 120-200 Prozent | unter ca. 120 Prozent |
+| Liquiditaet 1. Grades | über ca. 20 Prozent | ca. 10-20 Prozent | unter ca. 10 Prozent |
+| Liquiditaet 2. Grades | über ca. 100 Prozent | ca. 80-100 Prozent | unter ca. 80 Prozent |
+| Liquiditaet 3. Grades | über ca. 200 Prozent | ca. 120-200 Prozent | unter ca. 120 Prozent |
 | Working Capital | Positiv mit Reserve | Knapp positiv | Negativ |
-| Anlagendeckung II | ueber ca. 110 Prozent | ca. 100-110 Prozent | unter ca. 100 Prozent |
+| Anlagendeckung II | über ca. 110 Prozent | ca. 100-110 Prozent | unter ca. 100 Prozent |
 
 Die Schwellenwerte sind Branchenrichtwerte und vor dem Mandantengespraech mit aktuellen BBE-Daten abzugleichen. Handel weist oft niedrigere Liquiditaet 3. Grades wegen schnellem Lagerumschlag aus.
 
 ### Phase 4 — Interpretation
 
-- Liquiditaet 1. Grades < 10 Prozent: Achtung — bei ueber 3 Wochen anhaltend, § 17 InsO-Pruefung erforderlich.
+- Liquiditaet 1. Grades < 10 Prozent: Achtung — bei über 3 Wochen anhaltend, § 17 InsO-Prüfung erforderlich.
 - Working Capital negativ: Umlaufvermoegen finanziert teils Anlagevermoegen — Fristenkongruenz verletzt, akute Liquiditaets-Spannung.
 - Anlagendeckung II < 100 Prozent: Anlagevermoegen wird teils mit kurzfristigem Kapital finanziert — strukturelles Risiko.
 - Kreditlinien einbeziehen: ungenutzte Linien erhoehen "verfuegbare Mittel" der Liquiditaet 1. Grades.
@@ -101,7 +101,7 @@ Die Schwellenwerte sind Branchenrichtwerte und vor dem Mandantengespraech mit ak
 ### Phase 5 — Beratungsempfehlung
 
 - Bei roter Ampel Liquiditaet 1. Grades: dynamische Liquiditaetsplanung (3-Wochen) sofort.
-- Bei roter Ampel Anlagendeckung II: Umfinanzierung pruefen (kurzfristige in langfristige Schulden umwidmen).
+- Bei roter Ampel Anlagendeckung II: Umfinanzierung prüfen (kurzfristige in langfristige Schulden umwidmen).
 - Bei negativem Working Capital: Sondergespraech mit Bank.
 
 ### Phase 6 — Reporting

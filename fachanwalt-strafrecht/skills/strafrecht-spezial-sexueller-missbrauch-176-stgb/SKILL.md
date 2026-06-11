@@ -44,7 +44,7 @@ Vor der Reform 2021 galten teilweise niedrigere Strafrahmen; bei Altfaellen § 2
 
 **Schutzobjekt:** Kinder unter 14 Jahren (§ 176 Abs. 1 StGB). **Streit um Schutzaltersgrenze:** Strikt 14-jaehriger Geburtstag.
 
-**Subjektiver Tatbestand:** Vorsatz hinsichtlich der sexuellen Handlung und hinsichtlich des kindlichen Alters. **Tatbestandsirrtum nach § 16 StGB** ueber das Alter ist moeglich, aber selten erfolgreich – das Aussehen muss eindeutig als deutlich aelter als 14 Jahre erscheinen.
+**Subjektiver Tatbestand:** Vorsatz hinsichtlich der sexuellen Handlung und hinsichtlich des kindlichen Alters. **Tatbestandsirrtum nach § 16 StGB** über das Alter ist möglich, aber selten erfolgreich – das Aussehen muss eindeutig als deutlich aelter als 14 Jahre erscheinen.
 
 ## Qualifikationen § 176a StGB (Schwerer sexueller Missbrauch)
 
@@ -66,7 +66,7 @@ Strafrahmen § 176a Abs. 1 StGB: Freiheitsstrafe nicht unter zwei Jahren.
 
 **Pornografische Inhalte:** § 184 StGB; § 184h Nr. 2, 3 StGB.
 
-**Kindesalter:** Stichtagsgenau bis zum 14. Geburtstag. Bei Unklarheit ueber das Alter Verteidigung wichtig (Geburtsurkunde).
+**Kindesalter:** Stichtagsgenau bis zum 14. Geburtstag. Bei Unklarheit über das Alter Verteidigung wichtig (Geburtsurkunde).
 
 ## Praktikertipps der Verteidigung
 
@@ -82,7 +82,7 @@ Strafrahmen § 176a Abs. 1 StGB: Freiheitsstrafe nicht unter zwei Jahren.
 - **Schweigen vs. Aussage:** Bei Aussage gegen Aussage Standard zu Beginn Schweigen. Aussage des Beschuldigten kann sich gegen ihn wenden.
 - **Geststaendnis und TOA:** Bei Sexualdelikten gegen Kinder ist TOA fast ausgeschlossen (Opferschutz, Kindeswohl); Geststaendnis kann Strafmilderungsgrund sein, ist aber wegen Mindeststrafe ein Jahr / zwei Jahre nur begrenzt wirksam.
 - **Glaubwuerdigkeit der Kindesaussage:** BGH staendige Rspr. – aussagepsychologisches Sachverstaendigengutachten.
-- **Nebenklage:** § 395 Abs. 1 Nr. 1 StPO – Nebenklage durch Kind / gesetzliche Vertretung zulaessig; Beistand nach § 397a StPO regelmaessig.
+- **Nebenklage:** § 395 Abs. 1 Nr. 1 StPO – Nebenklage durch Kind / gesetzliche Vertretung zulässig; Beistand nach § 397a StPO regelmaessig.
 - **§ 21 StGB:** Bei Persoenlichkeitsstoerung, Paraphilie Sachverstaendigengutachten.
 
 ## Konkurrenzen
@@ -91,10 +91,10 @@ Strafrahmen § 176a Abs. 1 StGB: Freiheitsstrafe nicht unter zwei Jahren.
 - **§ 176b StGB:** Vorbereitung des sexuellen Missbrauchs – eigenes Delikt.
 - **§ 176c StGB:** Sexueller Missbrauch mit Todesfolge.
 - **§ 176d StGB:** Schwerer sexueller Missbrauch mit Todesfolge.
-- **§ 177 StGB:** Bei Vollendung tritt § 176 StGB vorrangig auf bei Personen unter 14 Jahren; bei Verbindung mit Gewalt / Drohung Tateinheit moeglich.
+- **§ 177 StGB:** Bei Vollendung tritt § 176 StGB vorrangig auf bei Personen unter 14 Jahren; bei Verbindung mit Gewalt / Drohung Tateinheit möglich.
 - **§ 184b StGB:** Verbreitung kinderpornografischer Inhalte.
 - **§§ 174, 174a, 174b, 174c StGB:** Bei Schutzbefohlenen, Schutzbefohlenheits-Aspekt.
-- **§ 225 StGB:** Tateinheit moeglich bei Misshandlung.
+- **§ 225 StGB:** Tateinheit möglich bei Misshandlung.
 
 ## Strafzumessung
 

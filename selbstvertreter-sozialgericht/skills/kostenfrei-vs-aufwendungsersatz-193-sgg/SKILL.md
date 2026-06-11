@@ -38,7 +38,7 @@ Wenn Sie gewinnen, muss die Behörde Ihnen Geld zurueckzahlen. Anwalt, Fahrt, Po
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Sie gewonnen haben
+### Schritt 1 — Prüfen, ob Sie gewonnen haben
 
 Auch teilweiser Erfolg fuehrt zu anteiligem Aufwendungs-Ersatz.
 
@@ -57,9 +57,9 @@ NICHT erstattungsfaehig:
 - Allgemeine Lebensfuehrungskosten
 - Zeit für Aktenstudium
 
-### Schritt 3 — Antrag im Urteil oder spaeter
+### Schritt 3 — Antrag im Urteil oder später
 
-Das Gericht kann im Urteil ueber die Erstattung entscheiden. Oder Sie stellen nach dem Urteil:
+Das Gericht kann im Urteil über die Erstattung entscheiden. Oder Sie stellen nach dem Urteil:
 
 ```
 Sozialgericht [Ort] [Ort, Datum]
@@ -104,11 +104,11 @@ Wenn Sie PKH hatten und gewonnen haben: Staatskasse holt sich das Geld von der B
 
 Bei Teil-Sieg: Quotenrechnung. Beispiel: Sie wollten 1000 EUR, bekommen 500: 50 % Erfolgsquote, 50 % Auslagen erstattet.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Antrag rechtzeitig**: nach Urteil im Kostenfestsetzungs-Verfahren.
 - **Belege sammeln**: Anwaltsrechnung, Fahrt-Belege.
-- **Auch ohne Anwalt** koennen Sie Auslagen geltend machen (Fahrt, Porto).
+- **Auch ohne Anwalt** können Sie Auslagen geltend machen (Fahrt, Porto).
 
 ## Typische Fehler
 
@@ -118,4 +118,4 @@ Bei Teil-Sieg: Quotenrechnung. Beispiel: Sie wollten 1000 EUR, bekommen 500: 50 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 193 SGG aktuell. RVG für Anwaltsrechnung pruefen.
+Stand: 05/2026. § 193 SGG aktuell. RVG für Anwaltsrechnung prüfen.

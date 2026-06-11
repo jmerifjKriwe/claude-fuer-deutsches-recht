@@ -22,13 +22,13 @@ description: "Dokumentation der DSFA als Beleg der Rechenschaftspflicht nach Art
 
 - Nach Abschluss einer DSFA, vor Archivierung
 - Bei Aufsichtsanfrage zur Vorlage der DSFA
-- Bei Audit durch DSB oder externen Pruefer
+- Bei Audit durch DSB oder externen Prüfer
 - Bei Wechsel des DSB oder des Verantwortlichen — Aktenuebergabe
 - Bei wesentlicher Aenderung (Versionierung)
 
 ## Rechtlicher Rahmen
 
-- Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht — der Verantwortliche muss die Einhaltung der Grundsaetze nachweisen koennen.
+- Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht — der Verantwortliche muss die Einhaltung der Grundsaetze nachweisen können.
 - Art. 24 DSGVO: Verantwortung des für die Verarbeitung Verantwortlichen.
 - Art. 30 DSGVO: Verzeichnis von Verarbeitungstaetigkeiten — DSFA-Verweis.
 - Art. 35 Abs. 11 DSGVO: Re-Pruefungspflicht.
@@ -38,9 +38,9 @@ description: "Dokumentation der DSFA als Beleg der Rechenschaftspflicht nach Art
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Welcher Verarbeitungsvorgang? Eindeutige Akten-Identifikation (z. B. VV-Nummer, DSFA-Aktenzeichen).
-2. **Verhaeltnismaessigkeitspruefung.** Pruefung welche Dokumente in die DSFA-Akte gehoeren — Vollstaendigkeit ohne Ueberfrachtung.
-3. **Risikoanalyse.** Beweiswertrisiken pruefen — fehlende Unterschriften, fehlende Versionen, fehlende Datierungen, unklare Verantwortlichkeiten.
-4. **Massnahmen.** Strukturierte Aktenfuehrung in standardisierter Form (digital signiert, mit Datum und Versionierung).
+2. **Verhaeltnismaessigkeitspruefung.** Prüfung welche Dokumente in die DSFA-Akte gehoeren — Vollstaendigkeit ohne Ueberfrachtung.
+3. **Risikoanalyse.** Beweiswertrisiken prüfen — fehlende Unterschriften, fehlende Versionen, fehlende Datierungen, unklare Verantwortlichkeiten.
+4. **Maßnahmen.** Strukturierte Aktenfuehrung in standardisierter Form (digital signiert, mit Datum und Versionierung).
 5. **Restrisiko.** Beweiswertbeurteilung — wie sicher ist die DSFA bei Aufsichtsverfahren? Ergaenzungen oder Bekraeftigungen.
 6. **Konsultation / Genehmigung.** DSB bestaetigt Vollstaendigkeit; Aufbewahrung und Zugriffsrechte regeln.
 

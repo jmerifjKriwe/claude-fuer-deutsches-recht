@@ -3,7 +3,7 @@ name: bundesstrasse-planrecht-pruefen
 description: "Bundesstraße: Planrecht prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Bundesstrasse Planrecht Pruefen
+# Bundesstrasse Planrecht Prüfen
 
 ## Arbeitsweg
 

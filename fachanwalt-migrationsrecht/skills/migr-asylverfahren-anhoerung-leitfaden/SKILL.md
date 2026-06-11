@@ -24,7 +24,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster Asylverfahren und Anhörung
@@ -57,10 +57,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 ### 4. Anhörungs-Praxis BAMF
 
 - **Vorbereitung** mit Mandanten: Chronologie, Fluchtweg, persönliche Daten der Familienangehoerigen, dokumentierte Verfolgungshandlungen, religioese/politische Aktivitaeten.
-- **Dolmetscher** § 17 AsylG; Recht auf Dolmetscher in einer Sprache, die Antragsteller versteht; Pruefung der Qualifikation.
+- **Dolmetscher** § 17 AsylG; Recht auf Dolmetscher in einer Sprache, die Antragsteller versteht; Prüfung der Qualifikation.
 - **Pflichten des Antragstellers** § 15 AsylG: persönliche Erscheinen, wahrheitsgemaesse Angaben, Mitwirkung an Identitaetsklaerung.
 - **Vertrauensanwalt** bei Anhörung kein Recht auf Beistand (str.; nach BVerwG-Linie zugelassen, aber keine eigenstaendige Rolle).
-- **Niederschrift** § 25 VII AsylG: Rueckuebersetzung; Pruefung auf Vollstaendigkeit und Korrektheit; Ergaenzungsantrag noch waehrend Anhörung moeglich.
+- **Niederschrift** § 25 VII AsylG: Rueckuebersetzung; Prüfung auf Vollstaendigkeit und Korrektheit; Ergaenzungsantrag noch waehrend Anhörung möglich.
 
 ### 5. Bescheid und Rechtsschutz
 
@@ -72,7 +72,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 
 - **Sieben-Tages-Frist** bei "offensichtlich unbegruendet" wird oft uebersehen.
 - **Dublin-Frist** sechs Monate Art. 29 Dublin III; Verlaengerung bei Untertauchen.
-- **Aenderungen Anhörung** muessen sofort moniert werden; sonst Bestandskraft der Niederschrift.
+- **Aenderungen Anhörung** müssen sofort moniert werden; sonst Bestandskraft der Niederschrift.
 - **Asylfolgeantrag** § 71 AsylG nur bei neuer Sach- oder Rechtslage; Frist drei Monate.
 - **Familienasyl** § 26 AsylG (Ehegatte, minderjaehrige ledige Kinder).
 - **Sichere Herkunftsstaaten** § 29a AsylG i.V.m. Anlage II AsylG (z. B. Albanien, Bosnien, Ghana, Kosovo, Mazedonien, Senegal, Serbien, Moldau, Georgien).

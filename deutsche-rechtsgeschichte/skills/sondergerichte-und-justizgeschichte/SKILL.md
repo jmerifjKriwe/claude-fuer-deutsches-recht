@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,11 +32,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Das NS-Regime schuf ein paralleles Gerichtssystem neben der ordentlichen Gerichtsbarkeit. Die Sondergerichte (Verordnung vom 21. Maerz 1933, RGBl. I 1933, 136) urteilten schnell und ohne volle Prozessgarantien ueber politische Delikte. Der Volksgerichtshof (VGH, geschaffen 1934 nach dem Reichstagsbrandprozess) war für Hochverrat und Landesverrat zuständig. Roland Freisler als VGH-Praesident (ab 1942) wurde zur personifizierten NS-Justiz. Kriegsgerichte vollstreckten Todesurteile schnell. Nach 1945 amtierten viele NS-Richter weiter. Ingo Mueller analysierte dies in Furchtbare Juristen (1987).
+Das NS-Regime schuf ein paralleles Gerichtssystem neben der ordentlichen Gerichtsbarkeit. Die Sondergerichte (Verordnung vom 21. Maerz 1933, RGBl. I 1933, 136) urteilten schnell und ohne volle Prozessgarantien über politische Delikte. Der Volksgerichtshof (VGH, geschaffen 1934 nach dem Reichstagsbrandprozess) war für Hochverrat und Landesverrat zuständig. Roland Freisler als VGH-Praesident (ab 1942) wurde zur personifizierten NS-Justiz. Kriegsgerichte vollstreckten Todesurteile schnell. Nach 1945 amtierten viele NS-Richter weiter. Ingo Mueller analysierte dies in Furchtbare Juristen (1987).
 
 ## Kernnormen / Kernquellen
 
-- **Verordnung ueber Sondergerichte 1933 (RGBl. I 1933, 136)**: Gruendung der Sondergerichte
+- **Verordnung über Sondergerichte 1933 (RGBl. I 1933, 136)**: Gruendung der Sondergerichte
 - **Volksgerichtshofgesetz 1934 (RGBl. I 1934, 341)**: Gruendung des Volksgerichtshofs
 - **Kriegsstrafverfahrensordnung 1939 (RGBl. I 1939, 1457)**: Kriegsgericht-Grundlage
 - **Heimtueckegesetz 1934 (RGBl. I 1934, 1269)**: Straftatbestand für Kritik an NS
@@ -53,7 +53,7 @@ Das NS-Regime schuf ein paralleles Gerichtssystem neben der ordentlichen Gericht
 
 1. War der Volksgerichtshof ein Gericht oder ein politisches Tribunal?
 2. Legalitaet der Sondergerichte 1933: Hatten sie eine formell gueltige Rechtsgrundlage?
-3. Weiterwirken NS-Richter: Wer prueft heute Urteile auf NS-Hintergrund?
+3. Weiterwirken NS-Richter: Wer prüft heute Urteile auf NS-Hintergrund?
 4. NS-Aufhebungsgesetz 1998: Warum dauerte es so lange?
 5. Sondergerichts-Tradition: Gibt es problematische Weiterungen in heutigen Schnellverfahren?
 

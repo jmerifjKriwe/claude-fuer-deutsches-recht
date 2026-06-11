@@ -24,7 +24,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster CISG (Wiener UN-Kaufrechtsuebereinkommen)
@@ -32,12 +32,12 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 ### 1. Anwendungsbereich
 
 - **Sachlich** Art. 1-5 CISG
- - Kaufvertraege ueber Waren zwischen Parteien mit Niederlassung in verschiedenen Staaten (Art. 1 I lit. a CISG: beide Vertragsstaaten; lit. b: Verweisung des IPR auf Recht eines Vertragsstaats).
+ - Kaufvertraege über Waren zwischen Parteien mit Niederlassung in verschiedenen Staaten (Art. 1 I lit. a CISG: beide Vertragsstaaten; lit. b: Verweisung des IPR auf Recht eines Vertragsstaats).
  - Ausnahmen Art. 2 CISG: Konsumgueterkauf, Auktion, Zwangsvollstreckung, Wertpapiere, Geld, Schiffe/Luftfahrzeuge, Strom.
  - Werklieferungsvertrag Art. 3 CISG: erfasst, wenn nicht wesentlicher Teil aus vom Besteller zu liefernden Stoffen.
  - Keine Anwendung auf Wirksamkeit/Vertragsschlusserforderlichkeit Art. 4 CISG.
 - **Persoenlich** Art. 1, 10 CISG — Niederlassung; Sitz des engsten Zusammenhangs.
-- **Opt-out** Art. 6 CISG — vollstaendiger oder teilweiser Ausschluss durch Parteivereinbarung moeglich (typische Praxis: "Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts").
+- **Opt-out** Art. 6 CISG — vollstaendiger oder teilweiser Ausschluss durch Parteivereinbarung möglich (typische Praxis: "Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts").
 
 ### 2. Vertragsschluss Art. 14-24 CISG
 

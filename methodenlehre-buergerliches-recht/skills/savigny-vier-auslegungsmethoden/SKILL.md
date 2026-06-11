@@ -19,10 +19,10 @@ Wichtig: Savigny sprach nicht von "Methoden" im Sinne austauschbarer Werkzeuge, 
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie muessen eine Norm auslegen und wissen nicht, in welcher Reihenfolge Sie vorgehen sollen.
+- Sie müssen eine Norm auslegen und wissen nicht, in welcher Reihenfolge Sie vorgehen sollen.
 - Sie schreiben einen Schriftsatz oder ein Memo und brauchen das methodische Geruest.
-- Sie diskutieren mit der Gegenseite ueber die "richtige" Auslegungsmethode und wollen die Rechtsprechungsposition kennen.
-- Sie pruefen, ob ein bestimmtes Auslegungsergebnis methodisch sauber ist.
+- Sie diskutieren mit der Gegenseite über die "richtige" Auslegungsmethode und wollen die Rechtsprechungsposition kennen.
+- Sie prüfen, ob ein bestimmtes Auslegungsergebnis methodisch sauber ist.
 - Sie unterrichten oder schulen Junior-Anwaelte oder Referendare.
 
 ## Methodische Grundlage
@@ -34,9 +34,9 @@ Wichtig: Savigny sprach nicht von "Methoden" im Sinne austauschbarer Werkzeuge, 
 1. Grammatisches Element (Wortlaut nach Sprachgesetzen).
 2. Logisches Element (Verhaeltnis der Teile des Gedankens zueinander).
 3. Historisches Element (Zustand des Rechts zur Zeit des Gesetzes, Wirkung des Gesetzes auf den Zustand).
-4. Systematisches Element (Verbindung zu allen Rechtsinstituten und Rechtsregeln in einem grossen Ganzen).
+4. Systematisches Element (Verbindung zu allen Rechtsinstituten und Rechtsregeln in einem großen Ganzen).
 
-Das spaeter ergaenzte teleologische Element gehoert nicht zu Savignys urspruenglicher Vierer-Liste, sondern wurde insbesondere durch Rudolf von Jhering (1818-1892, "Der Zweck im Recht", 1877-1883) und spaeter die Interessen- und Wertungsjurisprudenz nachgeschoben. Heute werden Savignys "logisches" und "systematisches" Element zur systematischen Auslegung zusammengefasst, dafür steht die teleologische Auslegung neben den anderen drei.
+Das später ergaenzte teleologische Element gehoert nicht zu Savignys urspruenglicher Vierer-Liste, sondern wurde insbesondere durch Rudolf von Jhering (1818-1892, "Der Zweck im Recht", 1877-1883) und später die Interessen- und Wertungsjurisprudenz nachgeschoben. Heute werden Savignys "logisches" und "systematisches" Element zur systematischen Auslegung zusammengefasst, dafür steht die teleologische Auslegung neben den anderen drei.
 
 ## Anwendung im deutschen Zivilrecht
 
@@ -54,17 +54,17 @@ Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird de
 ## Schritt-für-Schritt
 
 1. **Norm und Streitfrage benennen.** Welche Tatbestandsmerkmale sind streitig?
-2. **Wortlaut pruefen** (siehe Skill `wortlaut-grammatikalische-auslegung`). Allgemein- oder Fachsprache? Wortlaut-Grenze beachten.
-3. **System pruefen** (siehe Skill `systematische-auslegung`). Stellung im Gesetz, Verweisungen, Ueberschriften, Verhaeltnis zu Spezial- und Generalnormen.
-4. **Historie pruefen** (siehe Skill `historische-auslegung`). Materialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen.
-5. **Telos pruefen** (siehe Skill `teleologische-auslegung`). Schutzzweck, Funktion, ratio legis.
+2. **Wortlaut prüfen** (siehe Skill `wortlaut-grammatikalische-auslegung`). Allgemein- oder Fachsprache? Wortlaut-Grenze beachten.
+3. **System prüfen** (siehe Skill `systematische-auslegung`). Stellung im Gesetz, Verweisungen, Ueberschriften, Verhaeltnis zu Spezial- und Generalnormen.
+4. **Historie prüfen** (siehe Skill `historische-auslegung`). Materialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen.
+5. **Telos prüfen** (siehe Skill `teleologische-auslegung`). Schutzzweck, Funktion, ratio legis.
 6. **Querschnittskanones** (siehe Skill `verfassungs-und-unionsrechtskonforme-auslegung`).
 7. **Gewichten, nicht ranken.** Wenn drei Elemente in eine Richtung, eines in die andere zeigen, traegt die Mehrheit, aber die Mindermeinung ist zu wuerdigen.
 8. **Ergebnis formulieren** und im Schriftsatz oder Memo alle Elemente sichtbar machen.
 
 ## Typische Fehler / Kritik
 
-- **Starre Rangfolge behaupten.** Die Vorstellung, der Wortlaut sei stets vorrangig oder die Historie der "wahre" Schluessel, entspricht nicht der gerichtlichen Praxis.
+- **Starre Rangfolge behaupten.** Die Vorstellung, der Wortlaut sei stets vorrangig oder die Historie der "wahre" Schlüssel, entspricht nicht der gerichtlichen Praxis.
 - **Nur eine Methode anwenden** und die anderen drei verschweigen. Wer nur teleologisch argumentiert, ohne Wortlaut, System und Historie zu erwaehnen, riskiert die Wertung als Wunschauslegung.
 - **Savigny mit dem modernen Kanon gleichsetzen.** Savigny sprach von vier Elementen einer einheitlichen Auslegung, nicht von vier konkurrierenden Methoden. Telos war bei ihm noch nicht eigenstaendig.
 - **"Logische" und "systematische" Auslegung trennen.** In der modernen Praxis ist beides systematische Auslegung; die Differenzierung Savignys hat sich nicht erhalten.

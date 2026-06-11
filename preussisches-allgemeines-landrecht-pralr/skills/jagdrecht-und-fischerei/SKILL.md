@@ -29,7 +29,7 @@ description: "Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-
 
 1. Welche Periode?
 2. Welche Berechtigung?
-3. Heutige Aequivalenz?
+3. Heutige Äquivalenz?
 
 ## Normenanker
 

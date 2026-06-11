@@ -3,11 +3,11 @@ name: schutzpflichtdimension-grundrechte
 description: Schutzpflichtdimension der Grundrechte als zweite Saeule neben der Abwehrfunktion. Behandelt insbesondere die Schutzpflicht aus Art. 3 Abs. 3 Satz 2 GG bei Behinderung wie sie im Triage-Beschluss des BVerfG vom 16.12.2021 anerkannt wurde. Verhaeltnismaessigkeit wirkt hier als Untermassverbot. Erklaert wann der Staat aktiv handeln muss und wie die Schutzpflicht ueber die Drittwirkung in Konstellationen zwischen Privaten hineinreicht.
 ---
 
-# Schutzpflichtdimension — Verhaeltnismaessigkeit als Untermassverbot
+# Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot
 
 ## Zweck dieses Skills
 
-Grundrechte sind nicht nur Abwehrrechte gegen den Staat. Sie verpflichten ihn auch positiv zum Schutz der Grundrechtstraegerinnen vor Beeintraechtigungen durch Dritte oder durch natuerliche und gesellschaftliche Umstaende. Verhaeltnismaessigkeit kehrt sich hier um: nicht mehr Obergrenze des Eingriffs sondern Untergrenze des Schutzes. Dieser Skill ordnet die Schutzpflichtdogmatik mit dem Schwerpunkt auf dem Triage-Beschluss und der Drittwirkungsdimension.
+Grundrechte sind nicht nur Abwehrrechte gegen den Staat. Sie verpflichten ihn auch positiv zum Schutz der Grundrechtstraegerinnen vor Beeintraechtigungen durch Dritte oder durch natuerliche und gesellschaftliche Umstaende. Verhältnismäßigkeit kehrt sich hier um: nicht mehr Obergrenze des Eingriffs sondern Untergrenze des Schutzes. Dieser Skill ordnet die Schutzpflichtdogmatik mit dem Schwerpunkt auf dem Triage-Beschluss und der Drittwirkungsdimension.
 
 ## Dogmatische Grundlage
 
@@ -23,7 +23,7 @@ Schutzpflicht und objektive Wertordnung ueberlappen aber sind nicht identisch.
 ### Voraussetzungen der Schutzpflicht
 
 1. Gefaehrdung eines Grundrechts durch Dritte oder durch tatsaechliche Umstaende.
-2. Schutzbeduerftigkeit der Betroffenen die nicht selbst hinreichend schuetzen koennen.
+2. Schutzbeduerftigkeit der Betroffenen die nicht selbst hinreichend schuetzen können.
 3. Schutzmoeglichkeit des Staates durch Gesetzgebung Verwaltung oder Rechtsprechung.
 
 ## Triage-Beschluss BVerfG 16.12.2021 — 1 BvR 1541/20
@@ -40,7 +40,7 @@ Aus Art. 3 Abs. 3 Satz 2 GG folgt eine **Schutzpflicht des Gesetzgebers** dafuer
 
 - Erste explizite Anerkennung einer Schutzpflicht aus Art. 3 Abs. 3 Satz 2 GG.
 - Schutzpflicht reicht in das aerztliche Triage-Geschehen also ein Verhaeltnis zwischen Privaten.
-- Untermassverbot als Pruefungsmassstab — der Schutz darf nicht voellig fehlen oder ungeeignet sein.
+- Untermassverbot als Pruefungsmassstab — der Schutz darf nicht völlig fehlen oder ungeeignet sein.
 
 ## Pruefungsschema Untermassverbot
 
@@ -58,7 +58,7 @@ Schutzpflicht und mittelbare Drittwirkung sind dogmatische Nachbarinnen mit unte
 - Mittelbare Drittwirkung — Auslegung der Generalklauseln im konkreten Zivilrechtsstreit.
 - Schutzpflicht — staatlicher Auftrag zur Schaffung eines hinreichenden Schutzrahmens.
 
-Im Triage-Beschluss wirken beide zusammen: Der Staat schuldet einen Rechtsrahmen Aerztinnen muessen ihn in der konkreten Behandlung umsetzen.
+Im Triage-Beschluss wirken beide zusammen: Der Staat schuldet einen Rechtsrahmen Aerztinnen müssen ihn in der konkreten Behandlung umsetzen.
 
 ## Weitere Anwendungsfelder
 
@@ -81,7 +81,7 @@ Im Triage-Beschluss wirken beide zusammen: Der Staat schuldet einen Rechtsrahmen
 
 ## Fallstricke
 
-- **Untermassverbot und Uebermassverbot verwechseln** — beide sind Verhaeltnismaessigkeit aber spiegelbildlich. Pruefungsrichtung beachten.
+- **Untermassverbot und Uebermassverbot verwechseln** — beide sind Verhältnismäßigkeit aber spiegelbildlich. Pruefungsrichtung beachten.
 - **Schutzpflichtenkatalog ueberdehnen** — nicht jede Beeintraechtigung loest eine Schutzpflicht aus. Erforderlich ist eine grundrechtsrelevante Gefaehrdung.
 - **Einschaetzungsspielraum ignorieren** — der Gesetzgeber hat erhebliche Wahlfreiheit bei den Mitteln. Nur klare Schutzdefizite sind verfassungswidrig.
 - **Triage-Beschluss verallgemeinern** — die Entscheidung ist auf Art. 3 Abs. 3 Satz 2 GG zugeschnitten. Andere Schutzpflichten folgen eigenen Linien.

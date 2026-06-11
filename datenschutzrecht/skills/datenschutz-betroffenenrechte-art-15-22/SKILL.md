@@ -15,8 +15,8 @@ Sie brauchen den Skill, sobald ein Antrag mehr als nur ein Betroffenenrecht enth
 
 Sieben-Fragen-Diagnose:
 
-1. **Welche Rechte werden geltend gemacht?** Art. 15 Auskunft, Art. 16 Berichtigung, Art. 17 Loeschung, Art. 18 Einschraenkung, Art. 20 Uebertragbarkeit, Art. 21 Widerspruch, Art. 22 keine ausschliesslich automatisierte Entscheidung?
-2. **Welche Frist?** Art. 12 III DSGVO ein Monat, Verlaengerung um zwei Monate moeglich, **Begruendung der Verlaengerung innerhalb erster Monat**.
+1. **Welche Rechte werden geltend gemacht?** Art. 15 Auskunft, Art. 16 Berichtigung, Art. 17 Loeschung, Art. 18 Einschraenkung, Art. 20 Uebertragbarkeit, Art. 21 Widerspruch, Art. 22 keine ausschließlich automatisierte Entscheidung?
+2. **Welche Frist?** Art. 12 III DSGVO ein Monat, Verlaengerung um zwei Monate möglich, **Begruendung der Verlaengerung innerhalb erster Monat**.
 3. **Identitaet sicher?** Art. 12 VI DSGVO.
 4. **Liegt Konflikt zwischen Rechten vor?** Loeschung Art. 17 vs Aufbewahrung HGB AO, Auskunft Art. 15 vs Loeschung im laufenden Verfahren.
 5. **Drittinteressen?** Art. 15 IV oder § 34 BDSG.
@@ -26,7 +26,7 @@ Sieben-Fragen-Diagnose:
 ## Rechtlicher Rahmen
 
 - **Art. 12 DSGVO** Transparenz, Modalitaeten, Fristen.
-- **Art. 13, 14 DSGVO** Informationspflichten (nicht reaktiv, aber ggf. mit zu pruefen).
+- **Art. 13, 14 DSGVO** Informationspflichten (nicht reaktiv, aber ggf. mit zu prüfen).
 - **Art. 15 DSGVO** Auskunft.
 - **Art. 16 DSGVO** Berichtigung.
 - **Art. 17 DSGVO** Loeschung "Recht auf Vergessenwerden".
@@ -34,7 +34,7 @@ Sieben-Fragen-Diagnose:
 - **Art. 19 DSGVO** Mitteilungspflicht gegenueber Empfaengern bei Berichtigung Loeschung Einschraenkung.
 - **Art. 20 DSGVO** Datenuebertragbarkeit — nur bei Verarbeitungsgrundlage Einwilligung Art. 6 I a oder Vertrag Art. 6 I b.
 - **Art. 21 DSGVO** Widerspruch — bei berechtigtem Interesse Art. 6 I f oder Direktwerbung.
-- **Art. 22 DSGVO** Verbot ausschliesslich automatisierter Einzelfallentscheidung mit rechtlichen oder erheblichen Folgen.
+- **Art. 22 DSGVO** Verbot ausschließlich automatisierter Einzelfallentscheidung mit rechtlichen oder erheblichen Folgen.
 - **EuGH C-487/21** Datenkopie. **EuGH C-579/21** Empfaengerangabe. **EuGH C-307/22** Patientenakte unentgeltlich. **EuGH C-634/21 SCHUFA** zu Art. 22.
 - **§ 34, § 35 BDSG** Einschraenkungen Auskunfts- und Loeschrechte.
 
@@ -42,20 +42,20 @@ Sieben-Fragen-Diagnose:
 
 1. **Zuerst: Eingangsanalyse.** Welche Rechte sind explizit, welche implizit?
 2. **Als zweites: Frist setzen.** Eine einheitliche Frist Art. 12 III für den Vorgang, nicht je Recht.
-3. **Als drittes: Identitaet pruefen** (Art. 12 VI DSGVO).
+3. **Als drittes: Identitaet prüfen** (Art. 12 VI DSGVO).
 4. **Als viertes: Konflikte mapping.** Welches Recht setzt welche Verarbeitung voraus?
 5. **Als fuenftes: Pro Recht eine Bearbeitungsspur** und am Ende eine Sammelantwort.
 6. **NICHT vorschnell loeschen,** wenn gleichzeitig Auskunft beantragt ist — sonst Verletzung Art. 15.
-7. **NICHT** Schufa-Werte ungeprueft preisgeben — Rechte Dritter pruefen.
+7. **NICHT** Schufa-Werte ungeprueft preisgeben — Rechte Dritter prüfen.
 
 ## Trade-off-Matrix
 
 | Konstellation | Reihenfolge | Begruendung |
 |---|---|---|
-| Auskunft + Loeschung | erst Auskunft erteilen, dann Loeschung pruefen | Sonst kein Auskunftsobjekt mehr |
-| Berichtigung + Loeschung | erst Berichtigung, dann pruefen ob Loeschung uebrig | Art. 16 hat Vorrang bei falschen Daten |
+| Auskunft + Loeschung | erst Auskunft erteilen, dann Loeschung prüfen | Sonst kein Auskunftsobjekt mehr |
+| Berichtigung + Loeschung | erst Berichtigung, dann prüfen ob Loeschung uebrig | Art. 16 hat Vorrang bei falschen Daten |
 | Uebertragbarkeit + Loeschung | Uebertragung ausfuehren, danach Loeschung | Art. 20 setzt Daten voraus |
-| Widerspruch + Auskunft | erst Auskunft, dann Wirksamkeit Widerspruch pruefen | Begruendung Art. 21 II Direktwerbung absolut |
+| Widerspruch + Auskunft | erst Auskunft, dann Wirksamkeit Widerspruch prüfen | Begruendung Art. 21 II Direktwerbung absolut |
 | Art. 22 + Auskunft | Auskunft enthaelt Logik der automatisierten Entscheidung | Art. 15 I h DSGVO |
 
 ## Mustertexte
@@ -73,7 +73,7 @@ Sieben-Fragen-Diagnose:
 > 3. Loeschung nach Art. 17 DSGVO: [erfolgt] / [abgelehnt wegen Art. 17 III, z. B. Aufbewahrungspflicht § 257 HGB / § 147 AO].
 > 4. Einschraenkung nach Art. 18 DSGVO: [erfolgt] / [nicht erforderlich, Begruendung].
 > 5. Uebertragbarkeit nach Art. 20 DSGVO: [erfuellt, Format JSON/CSV] / [abgelehnt, da Rechtsgrundlage nicht Einwilligung oder Vertrag].
-> 6. Widerspruch nach Art. 21 DSGVO: [stattgegeben für Direktwerbung absolut] / [Pruefung berechtigtes Interesse Art. 6 I f mit Ergebnis].
+> 6. Widerspruch nach Art. 21 DSGVO: [stattgegeben für Direktwerbung absolut] / [Prüfung berechtigtes Interesse Art. 6 I f mit Ergebnis].
 > 7. Automatisierte Entscheidungsfindung Art. 22: [findet nicht statt] / [Logik und Tragweite werden mitgeteilt].
 >
 > Ihr Beschwerderecht nach Art. 77 DSGVO bei [zuständige Aufsichtsbehoerde] bleibt unberuehrt.
@@ -86,7 +86,7 @@ Sieben-Fragen-Diagnose:
 
 - Loeschung vor Auskunft — Auskunftsobjekt entfaellt.
 - Datenuebertragbarkeit auch bei Verarbeitungsgrundlage berechtigtes Interesse (Art. 6 I f) gewaehrt — falsch, Art. 20 setzt Einwilligung oder Vertrag voraus.
-- Widerspruch bei Direktwerbung pruefen — falsch, Direktwerbung-Widerspruch ist absolut, kein Abwaegungsspielraum.
+- Widerspruch bei Direktwerbung prüfen — falsch, Direktwerbung-Widerspruch ist absolut, kein Abwaegungsspielraum.
 - Mitteilungspflicht Art. 19 vergessen (Empfaenger informieren).
 - Schufa-Score-Aussage ungeprueft (EuGH C-634/21 SCHUFA).
 

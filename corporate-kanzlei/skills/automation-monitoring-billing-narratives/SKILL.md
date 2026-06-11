@@ -155,8 +155,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. **Datenquellen verbinden** — DR-Plattform Alert, Kalender, Behorderenkontakt-Liste
 3. **Eskalationsregeln konfigurieren** — Ampelstatus; Benachrichtigung; SMS/E-Mail/Call
 4. **Stoppschwellen einbauen** — automatische Aktion nur nach human-in-the-loop Freigabe
-5. **Test-Durchlauf** — alle Alerts simuliert; Eskalationspfad pruefen
-6. **Woechentlicher Review** — PMO prueft Monitor-Status; adjustiert bei Bedarf
+5. **Test-Durchlauf** — alle Alerts simuliert; Eskalationspfad prüfen
+6. **Woechentlicher Review** — PMO prüft Monitor-Status; adjustiert bei Bedarf
 7. **Archivierung** — Monitor-Protokolle als Teil Deal-Archivs
 
 ## Output-Template Monitoring-Plan

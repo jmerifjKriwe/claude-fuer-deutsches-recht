@@ -83,7 +83,7 @@ Eingaben:
 "Sehr geehrte Damen und Herren, wir wurden auf eine Werbeaktion Ihres Hauses aufmerksam, in der Sie Versicherten der GKV bei Einlösung eines Rezeptes über die Höhe der Zuzahlung hinaus einen Gutschein in Höhe von [Betrag] gewähren. Diese Praxis verstösst gegen die Arzneimittelpreisverordnung i.V.m. § 78 AMG, da der Endpreis für Rx-Arzneimittel inländisch gebunden ist. Wir fordern Sie auf, bis [Frist] die Werbung einzustellen und eine strafbewehrte Unterlassungserklärung abzugeben. Andernfalls behalten wir uns die gerichtliche Geltendmachung vor."
 
 ### Internes Memo zu Bonusaktion (Auszug)
-"Die geplante Aktion 'Kunden-Treuepunkte' wurde geprüft. Ergebnis: Bei Rx-Arzneimitteln verstösst die Punktegewährung gegen § 78 AMG i.V.m. AMPreisV. Empfehlung: Aktion auf OTC und apothekenübliche Waren beschränken; bei Rx ausschliesslich Beratungsmehrwerte (nicht-monetäre Vorteile) anbieten. Bei rechtlicher Unsicherheit: Konsultation Apothekerkammer und Anwalt für Apothekenrecht."
+"Die geplante Aktion 'Kunden-Treuepunkte' wurde geprüft. Ergebnis: Bei Rx-Arzneimitteln verstösst die Punktegewährung gegen § 78 AMG i.V.m. AMPreisV. Empfehlung: Aktion auf OTC und apothekenübliche Waren beschränken; bei Rx ausschließlich Beratungsmehrwerte (nicht-monetäre Vorteile) anbieten. Bei rechtlicher Unsicherheit: Konsultation Apothekerkammer und Anwalt für Apothekenrecht."
 
 ## Typische Fehler
 

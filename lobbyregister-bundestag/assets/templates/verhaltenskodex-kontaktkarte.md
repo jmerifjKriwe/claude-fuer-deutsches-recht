@@ -1,6 +1,6 @@
 # Verhaltenskodex-Kontaktkarte
 
-**Vor jedem Kontakt pruefen:**
+**Vor jedem Kontakt prüfen:**
 
 - Identitaet offen gelegt
 - Anliegen offen gelegt
@@ -12,4 +12,4 @@
 
 **Offenlegungssatz:**
 
-Ich spreche fuer [Organisation] zu [Anliegen/Regelungsvorhaben]. Falls einschlaegig handeln wir im Auftrag von [Auftraggeber]. Unser Lobbyregistereintrag ist [Registernummer/Link].
+Ich spreche für [Organisation] zu [Anliegen/Regelungsvorhaben]. Falls einschlaegig handeln wir im Auftrag von [Auftraggeber]. Unser Lobbyregistereintrag ist [Registernummer/Link].

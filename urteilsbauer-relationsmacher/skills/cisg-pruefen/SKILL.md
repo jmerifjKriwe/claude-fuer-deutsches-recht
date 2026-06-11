@@ -58,7 +58,7 @@ Ein Ausschluss nach Art. 6 CISG liegt nicht vor. [Alternativ: CISG ausgeschlosse
 
 ## Ausschluss
 
-- Artikel 6 CISG: Parteien koennen die Anwendung ganz oder teilweise ausschließen.
+- Artikel 6 CISG: Parteien können die Anwendung ganz oder teilweise ausschließen.
 - Wirksamer Ausschluss erfordert klare Vereinbarung. **Nicht ausreichend** ist die blosse Rechtswahl "deutsches Recht" - CISG ist Teil des deutschen Rechts. Erforderlich: ausdruecklicher Ausschluss ("unter Ausschluss des UN-Kaufrechts").
 
 ## Wichtige Vorschriften

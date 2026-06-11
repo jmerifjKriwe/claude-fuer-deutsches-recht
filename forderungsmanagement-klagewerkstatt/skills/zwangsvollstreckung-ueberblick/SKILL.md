@@ -81,20 +81,20 @@ Aktuelle Pfaendungsfreigrenze 2025: ca. 1.560 EUR netto monatlich (alle 2 Jahre 
 
 ## Immobiliarvollstreckung
 
-| Massnahme | Norm | Aufwand |
+| Maßnahme | Norm | Aufwand |
 |---|---|---|
 | Zwangshypothek | § 866 ZPO | gering, Eintrag Grundbuch |
 | Zwangsversteigerung | ZVG §§ 15 ff. | hoch, Versteigerungstermin |
 | Zwangsverwaltung | ZVG §§ 146 ff. | mittel, Mieten/Pacht abschoepfen |
 
-Zwangshypothek nur bei Forderungen ueber 750 EUR (§ 866 Abs. 3 ZPO).
+Zwangshypothek nur bei Forderungen über 750 EUR (§ 866 Abs. 3 ZPO).
 
 ## Vermoegensauskunft § 802c ZPO
 
 | Aspekt | Inhalt |
 |---|---|
 | Anlass | Schuldner zahlt nicht, GV-Auftrag |
-| Pflichten | umfassende Auskunft Vermoegen (Konten, Forderungen, Sachen) |
+| Pflichten | umfassende Auskunft Vermögen (Konten, Forderungen, Sachen) |
 | Folgen Verweigerung | Haftbefehl § 802g ZPO, Schuldnerverzeichnis |
 | Wirkung | Eintrag § 882b ZPO, 3 Jahre |
 | Sperrfrist | 2 Jahre erneuter Antrag (§ 802d ZPO), Ausnahme bei wesentlicher Aenderung |
@@ -139,7 +139,7 @@ Zwangshypothek nur bei Forderungen ueber 750 EUR (§ 866 Abs. 3 ZPO).
 
 ## Kosten Vollstreckung
 
-| Posten | Hoehe |
+| Posten | Höhe |
 |---|---|
 | GV-Auftrag (Pfaendung) | 26 EUR Grundgebuehr + Pauschalen |
 | PfÜB-Antrag | 22 EUR (KV 2110 GKG) |
@@ -152,7 +152,7 @@ Zwangshypothek nur bei Forderungen ueber 750 EUR (§ 866 Abs. 3 ZPO).
 - Pfaendung ohne Vollstreckungsklausel.
 - Konto nicht als P-Konto, Schuldner verliert Existenzminimum → Beschwerde.
 - Pfaendungsfreigrenzen nicht beachtet.
-- Doppelpfaendung ohne Rangkonkurrenz pruefen (Prioritaetsprinzip § 829 Abs. 3 ZPO).
+- Doppelpfaendung ohne Rangkonkurrenz prüfen (Prioritaetsprinzip § 829 Abs. 3 ZPO).
 - Drittschuldnererklaerung nicht abgewartet → Pfaendungsantrag ins Leere.
 
 ## Quellen

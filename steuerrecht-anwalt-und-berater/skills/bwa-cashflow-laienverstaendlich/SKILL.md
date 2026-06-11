@@ -13,7 +13,7 @@ description: "Cashflow-Darstellung für Mandant in laienverstaendlicher Form. An
 
 ## Kernsachverhalt
 
-Die DRS-21-Kapitalflussrechnung ist methodisch korrekt, aber für den nicht-finanzaffinen Mandanten zu komplex. Fuer das Mandantengespraech braucht es eine einfachere Darstellung: Wie viel Cash kam laufend rein? Was wurde investiert? Was wurde an Bank/Gesellschafter zurueckgezahlt? Was bleibt am Monatsende? Der Steuerberater erstellt eine 1-seitige Brutto-Cashflow-Uebersicht, die dem Mandanten die Geldfluesse zeigt — ohne ihn zu ueberfordern.
+Die DRS-21-Kapitalflussrechnung ist methodisch korrekt, aber für den nicht-finanzaffinen Mandanten zu komplex. Für das Mandantengespraech braucht es eine einfachere Darstellung: Wie viel Cash kam laufend rein? Was wurde investiert? Was wurde an Bank/Gesellschafter zurueckgezahlt? Was bleibt am Monatsende? Der Steuerberater erstellt eine 1-seitige Brutto-Cashflow-Übersicht, die dem Mandanten die Geldfluesse zeigt — ohne ihn zu ueberfordern.
 
 ## Kaltstart-Rueckfragen
 
@@ -81,7 +81,7 @@ BANK-/KASSE-BESTAND ENDE [X]
 
 ### Phase 2 — Erklaerung für den Mandanten
 
-- "Laufender Cashflow" = Geld, das aus dem normalen Geschaeft hineinkommt (ohne Investitionen, ohne Bankgeschaefte).
+- "Laufender Cashflow" = Geld, das aus dem normalen Geschäft hineinkommt (ohne Investitionen, ohne Bankgeschaefte).
 - "Investitions-Cashflow" = Geld, das in neue Anlagen geflossen oder aus Verkauf alter zurueckgeflossen ist.
 - "Finanzierungs-Cashflow" = Geld, das mit Bank und Gesellschaftern ausgetauscht wurde.
 - Summe ergibt Veraenderung Bank-/Kasse-Bestand.
@@ -102,12 +102,12 @@ BANK-/KASSE-BESTAND ENDE [X]
 ### Phase 5 — Beratungsempfehlung
 
 - Bei negativem laufendem Cashflow: Working-Capital-Diskussion (Vorraete, Forderungen, Lieferanten).
-- Bei negativem FCF ueber mehrere Perioden: Liquiditaets-Engpass droht; Liquiditaetsplanung erforderlich.
+- Bei negativem FCF über mehrere Perioden: Liquiditaets-Engpass droht; Liquiditaetsplanung erforderlich.
 - Bei Sondereinmaleffekten (Anlagenverkauf): klar als einmalig kennzeichnen.
 
 ### Phase 6 — Mandantenkommunikation
 
-- Cashflow-Uebersicht zusammen mit BWA versenden.
+- Cashflow-Übersicht zusammen mit BWA versenden.
 - Im Quartalsgespraech 5 Minuten erklaeren.
 - Bei Krisensignalen: Sondergespraech mit Liquiditaetsplanung.
 
@@ -115,8 +115,8 @@ BANK-/KASSE-BESTAND ENDE [X]
 
 - Bei Familien-GmbH ist Cashflow oft wichtigeres Steuerungsmass als Bilanzgewinn — direkter Bezug zur Bankliquiditaet.
 - "Gewinn vs. Cash"-Erklaerung: Gewinn kann positiv sein und Bank-Bestand sinken, wenn Forderungen steigen.
-- Bei Bankgespraech: Cashflow-Uebersicht oft entscheidender als reine GuV.
-- StBVV: Cashflow-Uebersicht als Bestandteil der Quartals-BWA oder als Zusatzauftrag.
+- Bei Bankgespraech: Cashflow-Übersicht oft entscheidender als reine GuV.
+- StBVV: Cashflow-Übersicht als Bestandteil der Quartals-BWA oder als Zusatzauftrag.
 - DATEV-Tipp: Der DATEV-Bilanzbericht beinhaltet eine automatisierte Kapitalflussrechnung (Klickpfad: Rechnungswesen → Bilanzbericht → Bestandteile waehlen → Kapitalflussrechnung). Die vereinfachte Mandantendarstellung erfolgt in Excel oder im DATEV-Praesentationsmodul manuell.
 
 ## Quellen und Updates

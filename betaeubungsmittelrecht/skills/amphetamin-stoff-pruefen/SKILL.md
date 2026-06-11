@@ -3,7 +3,7 @@ name: amphetamin-stoff-pruefen
 description: "Amphetamin: Stoff prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Amphetamin Stoff Pruefen
+# Amphetamin Stoff Prüfen
 
 ## Arbeitsweg
 

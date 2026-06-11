@@ -66,7 +66,7 @@ Argumentation des OLG:
 
 - § 30 BtOG richtet sich **einseitig** an den Berufsbetreuer.
 - Berufsrechtliche Pflicht, die den Erblasser und seine Testierfreiheit
-  (Art. 14 Abs. 1 GG i.V.m. § 1937 BGB) unberuehrt laesst.
+  (Art. 14 Abs. 1 GG i.V.m. § 1937 BGB) unberuehrt lässt.
 - Erstreckung der Nichtigkeitsfolge auf die letztwillige Verfügung würde die
   verfassungsrechtlich verankerte Testierfreiheit unzulässig einschraenken.
 - Der Gesetzgeber hat bewusst **keine** mit § 14 HeimG a.F. bzw. § 7 WBVG

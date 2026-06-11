@@ -3,7 +3,7 @@ name: parteivermoegen-anspruchspfad-pruefen
 description: "Einigungsvertrag und Vermögensrecht: Parteivermögen: Anspruchspfad prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Parteivermoegen Anspruchspfad Pruefen
+# Parteivermoegen Anspruchspfad Prüfen
 
 ## Arbeitsweg
 

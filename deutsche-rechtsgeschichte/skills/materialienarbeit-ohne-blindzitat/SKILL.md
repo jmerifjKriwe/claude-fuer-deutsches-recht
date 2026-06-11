@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Materialienarbeit bedeutet das direkte Arbeiten mit den Entstehungsquellen einer Norm. Blindzitat ist die Nennung einer Quelle ohne nachprueifbare Angabe. In der Rechtsgeschichte ist Blindzitat ein methodischer Fehler erster Ordnung. Korrekte Materialienarbeit: (1) Quelle prazise benennen (Mugdan Bd. II, S. 348), (2) Zitat im Original (nicht paraphrasiert), (3) Kontext erklaeren (Erste oder Zweite Kommission? Motiv oder Protokoll?), (4) Wuerdigungsvorbehalt: Materialien binden den Richter nicht, sind aber Auslegungshilfe. Mugdan ist der Schluessel für BGB-Materialien; Reichstagsprotokolle sind der Schluessel für parlamentarisches Recht.
+Materialienarbeit bedeutet das direkte Arbeiten mit den Entstehungsquellen einer Norm. Blindzitat ist die Nennung einer Quelle ohne nachprueifbare Angabe. In der Rechtsgeschichte ist Blindzitat ein methodischer Fehler erster Ordnung. Korrekte Materialienarbeit: (1) Quelle prazise benennen (Mugdan Bd. II, S. 348), (2) Zitat im Original (nicht paraphrasiert), (3) Kontext erklaeren (Erste oder Zweite Kommission? Motiv oder Protokoll?), (4) Wuerdigungsvorbehalt: Materialien binden den Richter nicht, sind aber Auslegungshilfe. Mugdan ist der Schlüssel für BGB-Materialien; Reichstagsprotokolle sind der Schlüssel für parlamentarisches Recht.
 
 ## Kernnormen / Kernquellen
 
@@ -54,7 +54,7 @@ Materialienarbeit bedeutet das direkte Arbeiten mit den Entstehungsquellen einer
 2. Zweite Kommission aenderte Ersten Entwurf: Welche Materialien haben Vorrang?
 3. Materialien und spatere Gesetzesaenderungen: Gelten die Ursprungsmaterialien noch?
 4. Kein Mugdan-Pendant: Was tun bei fehlendem Materialienbezug?
-5. Mugdan und EU-Recht: Koennen BGB-Materialien bei richtlinienkonformer Auslegung herangezogen werden?
+5. Mugdan und EU-Recht: Können BGB-Materialien bei richtlinienkonformer Auslegung herangezogen werden?
 
 ## Methodik
 

@@ -18,7 +18,7 @@ Manche Streitarten gehoeren immer ans Amtsgericht — auch wenn es um 200.000 EU
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Wohnraummietsache**: Streit aus einem Mietverhaeltnis ueber Wohnraum (= Wohnung, nicht Gewerbe).
+- **Wohnraummietsache**: Streit aus einem Mietverhaeltnis über Wohnraum (= Wohnung, nicht Gewerbe).
 - **Reisevertrag**: Pauschalreisevertrag nach §§ 651a ff. BGB. Auch verbundene Reise.
 - **Wildschaden**: Schaden, den Wild (Reh, Wildschwein) z. B. an einem Acker angerichtet hat.
 - **Familiensache**: Scheidung, Sorgerecht, Versorgungsausgleich u. a., § 111 FamFG.
@@ -28,18 +28,18 @@ Manche Streitarten gehoeren immer ans Amtsgericht — auch wenn es um 200.000 EU
 - **§ 23 Nr. 2 a GVG** — Wohnraummietsachen ohne Wertgrenze.
 - **§ 23 Nr. 2 b GVG** — Reisevertrag.
 - **§ 23 Nr. 2 c GVG** — Wildschaeden.
-- **§ 23 Nr. 2 d GVG** — Unterhalt unter Verwandten (greift heute nur noch ergaenzend; Hauptregelung ueber § 23a, § 111 FamFG).
+- **§ 23 Nr. 2 d GVG** — Unterhalt unter Verwandten (greift heute nur noch ergaenzend; Hauptregelung über § 23a, § 111 FamFG).
 - **§ 23a GVG** — Familiensachen, Anhang.
 - **§ 23b GVG** — Betreuungssachen.
 - **§ 23c GVG** — Nachlass- und Teilungssachen.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen Sie, ob Wohnraummietsache vorliegt
+### Schritt 1 — Prüfen Sie, ob Wohnraummietsache vorliegt
 
-Voraussetzung: Mietvertrag ueber **Wohnraum**. Gewerbliche Vermietung faellt **nicht** unter § 23 Nr. 2 a GVG — dort gilt die normale Streitwert-Regelung des § 23 Nr. 1 GVG.
+Voraussetzung: Mietvertrag über **Wohnraum**. Gewerbliche Vermietung faellt **nicht** unter § 23 Nr. 2 a GVG — dort gilt die normale Streitwert-Regelung des § 23 Nr. 1 GVG.
 
-Wohnraum heisst: Raeume, die zum dauerhaften Wohnen vermietet sind. Mischformen (Wohnen + Geschaeft) sind nach Schwerpunkt zu beurteilen.
+Wohnraum heisst: Raeume, die zum dauerhaften Wohnen vermietet sind. Mischformen (Wohnen + Geschäft) sind nach Schwerpunkt zu beurteilen.
 
 Typische Fragen:
 
@@ -65,13 +65,13 @@ Ehesachen, Folgesachen (Versorgungsausgleich, Hausrat), Sorgerecht, Umgang, Kind
 
 ### Schritt 4 — Unterhalt zwischen Verwandten?
 
-Heute Hauptregelung ueber Familienverfahrensgesetz (FamFG) und § 23a GVG i. V. m. § 231 FamFG. Praktisch immer AG (Familiengericht), Anwaltszwang gilt für Ehegattenunterhalt nach Trennung in Verbund mit Ehesache.
+Heute Hauptregelung über Familienverfahrensgesetz (FamFG) und § 23a GVG i. V. m. § 231 FamFG. Praktisch immer AG (Familiengericht), Anwaltszwang gilt für Ehegattenunterhalt nach Trennung in Verbund mit Ehesache.
 
 ### Schritt 5 — Nachlass- oder Betreuungssache?
 
 Erbschein-Antraege, Testamentsvollstreckung, Betreuung. Immer AG (§ 23b, 23c GVG), oft als FG-Verfahren nach FamFG.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **"Wohnraum" eng auslegen**: Eine reine Garagen-Vermietung ohne Wohnraum-Verbund ist **kein** § 23 Nr. 2 a GVG. Wenn die Garage Annex der Wohnung ist, hingegen schon.
 - **Reiseveranstalter-Insolvenz** ist eine andere Materie (Reisesicherungsschein-Anspruechre gegen Sicherungsfonds). Hier kann die Zuständigkeit anders liegen.

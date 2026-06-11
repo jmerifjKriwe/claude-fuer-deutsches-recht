@@ -26,7 +26,7 @@ description: "BtMG-Grundtatbestand § 29 Abs: 1 BtMG: Anbau, Herstellung, Handel
 
 § 29 Abs. 1 BtMG ist das zentrale Auffangdelikt des Betaeubungsmittelstrafrechts. Erfasst sind nahezu alle Umgangsformen mit den in den Anlagen I bis III zum BtMG aufgefuehrten Stoffen ausserhalb der erlaubten Faelle. Strafrahmen: Freiheitsstrafe bis zu fuenf Jahren oder Geldstrafe; Versuch strafbar.
 
-Seit dem 01.04.2024 ist Cannabis aus den Anlagen des BtMG herausgenommen und unterliegt dem Konsumcannabisgesetz (KCanG). Fuer alle anderen Stoffe (Heroin, Kokain, Amphetamin, MDMA, LSD, Methamphetamin etc.) bleibt § 29 BtMG zentrale Norm.
+Seit dem 01.04.2024 ist Cannabis aus den Anlagen des BtMG herausgenommen und unterliegt dem Konsumcannabisgesetz (KCanG). Für alle anderen Stoffe (Heroin, Kokain, Amphetamin, MDMA, LSD, Methamphetamin etc.) bleibt § 29 BtMG zentrale Norm.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Mandantenkommunikation in Sie-Form.
 
@@ -48,7 +48,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Mandantenk
 
 | Tathandlung | Schwelle | Folge |
 |---|---|---|
-| Besitz "geringe Menge" zum Eigenverbrauch | je nach Bundesland; Heroin ca. 0.5 g, Kokain ca. 1 g, Amphetamin ca. 3 g (BGH-Linie verifizieren) | § 31a BtMG Absehen von Verfolgung moeglich |
+| Besitz "geringe Menge" zum Eigenverbrauch | je nach Bundesland; Heroin ca. 0.5 g, Kokain ca. 1 g, Amphetamin ca. 3 g (BGH-Linie verifizieren) | § 31a BtMG Absehen von Verfolgung möglich |
 | Besitz "Eigenbedarf" mehrtaegig | richterliche Wuerdigung im Einzelfall | § 153, § 153a StPO Einstellungsmoeglichkeit |
 | Nicht geringe Menge | § 29a BtMG (Heroin 1.5 g HHC, Kokain 5 g KHC, Amphetamin 10 g Base; BGH-Faustregeln, mit aktueller BGH-Linie verifizieren) | Verbrechen, 1 bis 15 Jahre |
 
@@ -57,8 +57,8 @@ Tatbestandsausschluss durch Erlaubnis (§ 3 BtMG, Bundesopiumstelle BfArM).
 ## Praktikertipps der Verteidigung
 
 - **Konsumeigenbedarf belegen:** Tagesdosis, individueller Konsum, ggf. AEW-Wertung, Sucht-Aerztin/Sucht-Arzt-Attest, Therapieanbahnung. Ziel: § 31a BtMG, hilfsweise § 153, § 153a StPO.
-- **Durchsuchung pruefen:** Anordnung durch Richter (§ 105 StPO)? Gefahr im Verzug ausreichend begruendet? Verwertungsverbot bei willkuerlicher Umgehung des Richtervorbehalts moeglich.
-- **Sicherstellung pruefen:** Identifizierungskette des Stoffs lueckenlos? Wiegeprotokoll? Probennahme nach BKA-Richtlinie? Eichprotokoll der Waage? Wirkstoffgehalt durch akkreditiertes Labor bestimmt?
+- **Durchsuchung prüfen:** Anordnung durch Richter (§ 105 StPO)? Gefahr im Verzug ausreichend begruendet? Verwertungsverbot bei willkuerlicher Umgehung des Richtervorbehalts möglich.
+- **Sicherstellung prüfen:** Identifizierungskette des Stoffs lueckenlos? Wiegeprotokoll? Probennahme nach BKA-Richtlinie? Eichprotokoll der Waage? Wirkstoffgehalt durch akkreditiertes Labor bestimmt?
 - **Wirkstoffgehalt entscheidend:** Bei der nicht geringen Menge zaehlt die Wirkstoffmenge des reinen Stoffs (z.B. Heroinhydrochlorid, Kokainhydrochlorid), nicht das Bruttogewicht.
 - **Aussageverhalten:** Beim ersten Kontakt mit Polizei oder Staatsanwaltschaft regelmaessig schweigen, Akteneinsicht abwarten, dann gemeinsame Verteidigungsstrategie festlegen.
 
@@ -90,10 +90,10 @@ Tatbestandsausschluss durch Erlaubnis (§ 3 BtMG, Bundesopiumstelle BfArM).
 ## Mustertexte
 
 **Schutzschrift / Einlassung Eigenbedarf:**
-"Sehr geehrte Damen und Herren, namens und im Auftrag meines Mandanten teile ich mit, dass die bei ihm sichergestellte Menge an [Stoff] ausschliesslich dem Eigenkonsum diente. Mein Mandant ist seit [Datum] in ambulanter Drogenberatung bei [Stelle]. Wir regen die Einstellung nach § 31a BtMG, hilfsweise § 153a StPO an."
+"Sehr geehrte Damen und Herren, namens und im Auftrag meines Mandanten teile ich mit, dass die bei ihm sichergestellte Menge an [Stoff] ausschließlich dem Eigenkonsum diente. Mein Mandant ist seit [Datum] in ambulanter Drogenberatung bei [Stelle]. Wir regen die Einstellung nach § 31a BtMG, hilfsweise § 153a StPO an."
 
 **Antrag § 31a BtMG:**
-"Gemaess § 31a BtMG wird angeregt, von der Strafverfolgung abzusehen. Die Tat betrifft eine geringe Menge zum Eigenverbrauch; öffentliches Interesse an der Strafverfolgung ist nicht ersichtlich (vgl. RL-OEAB der Justizverwaltung [Bundesland])."
+"Gemäß § 31a BtMG wird angeregt, von der Strafverfolgung abzusehen. Die Tat betrifft eine geringe Menge zum Eigenverbrauch; öffentliches Interesse an der Strafverfolgung ist nicht ersichtlich (vgl. RL-OEAB der Justizverwaltung [Bundesland])."
 
 ## Quellen Stand 06/2026
 

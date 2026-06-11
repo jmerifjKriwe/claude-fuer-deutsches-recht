@@ -28,14 +28,14 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 **Klassische Befunde der Luegenerkennungsforschung (generisch).**
 - Ekman et al. zu micro expressions: kurzlebige Gesichtsausdrucksanteile von Bruchteilen einer Sekunde, die emotionale Echtheit indizieren sollen. In der wissenschaftlichen Diskussion umstritten; nicht zuverlaessig zur Luegenerkennung in der Praxis nutzbar.
-- Meta-Analysen (Bond/DePaulo und andere): Mittlere Trefferquote in Luegenerkennungsexperimenten liegt nahe am Zufallsniveau (etwa 54 Prozent — und nicht signifikant ueber 50 Prozent bei einigen Studien).
+- Meta-Analysen (Bond/DePaulo und andere): Mittlere Trefferquote in Luegenerkennungsexperimenten liegt nahe am Zufallsniveau (etwa 54 Prozent — und nicht signifikant über 50 Prozent bei einigen Studien).
 - Erfahrung und Berufstaetigkeit (Polizei, Justiz) verbessert die Trefferquote nur marginal; das Vertrauen in die eigene Trefferquote steigt jedoch stark — was die Fehleranfaelligkeit erhoeht.
 - Verhaltensindikatoren, die in der Praxis als "Luegensignale" verwendet werden (Augenkontakt, Schwitzen, Zoegern), sind empirisch nicht trennscharf zwischen Luegnern und Wahrheitssagern.
 - Stress und Aufregung sind nicht Luegen-spezifisch. Auch ein wahrheitssagender Beschuldigter, der in der Hauptverhandlung steht, ist gestresst, aufgeregt, ungelassen.
 
 **Polygraph und andere apparative Verfahren.** Polygraph (sogenannter Luegendetektor) ist in der deutschen Justiz nicht als Beweismittel zugelassen (vgl. BGH-Linie zur Unzulaessigkeit der polygraphischen Untersuchung als Sachverweisbeweis; Aktenzeichen verifizieren). Andere apparative Verfahren (fMRT, EEG-basierte Verfahren) sind in der forensischen Praxis nicht etabliert.
 
-**Was "wirken" beweisen kann.** Empirisch praktisch nichts. Aussagen ueber das Wirken einer Zeugin sind allenfalls Eindruckspsychologie, nicht aussagepsychologische Methodik. In der Beweiswuerdigung haben sie keinen Platz, der die methodische Pruefung der Aussage ersetzen wuerde.
+**Was "wirken" beweisen kann.** Empirisch praktisch nichts. Aussagen über das Wirken einer Zeugin sind allenfalls Eindruckspsychologie, nicht aussagepsychologische Methodik. In der Beweiswuerdigung haben sie keinen Platz, der die methodische Prüfung der Aussage ersetzen wuerde.
 
 **Aussage der nonverbalen Faktoren.** Mimik, Gestik, Stimmlage indizieren Affekt, aber nicht Wahrheitsgehalt. Eine traumatisierte Zeugin kann ruhig erzaehlen (Dissoziation). Eine Falschaussagende kann emotional aufgeregt sein. Eine wahrheitssagende Zeugin kann emotional flach wirken.
 
@@ -46,7 +46,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - **Im Plaedoyer auf Forschungsstand verweisen.** "Es ist verstaendlich, dass das Gericht sich einen Eindruck verschafft. Methodisch beweiserheblich ist dieser Eindruck aber nicht. Die Luegenerkennungsforschung ist seit Jahrzehnten eindeutig: Eindruckspsychologie ist nicht zuverlaessig."
 - **Polygraph ist kein Ausweg.** Auch wenn Mandant einen Polygraphentest verlangt — die Ergebnisse sind in Deutschland nicht zugelassen. Vorsicht vor privaten Polygraphenanbietern.
 - **Mimik-Lese in Vernehmungen adressieren.** Wenn ein Vernehmungsbeamter aussagt, der Mandant habe "geschwitzt und ausgewichen, das spricht für Schuld" — diese Aussage ist methodisch wertlos und kann so im Plaedoyer eingeordnet werden.
-- **Demeanor evidence und Confrontation.** Bei Videovernehmung oder § 247a-Vernehmung ist die Beobachtung durch das Gericht ohnehin nur eingeschraenkt moeglich. Diese Konstellation kann für die Methodenkritik nutzbar gemacht werden.
+- **Demeanor evidence und Confrontation.** Bei Videovernehmung oder § 247a-Vernehmung ist die Beobachtung durch das Gericht ohnehin nur eingeschraenkt möglich. Diese Konstellation kann für die Methodenkritik nutzbar gemacht werden.
 
 ## Trade-off-Matrix
 
@@ -59,15 +59,15 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer methodisch und respektvoll: "Es ist eine menschliche und legitime Tendenz, Aussagen anhand des persönlichen Eindrucks zu beurteilen. Eindrucks-Bewertung darf aber nicht die methodische Pruefung der Aussage ersetzen. Die wissenschaftliche Forschung zur Luegenerkennung ist seit Jahrzehnten eindeutig: Menschen erkennen Luegen nicht besser als der Zufall, auch wenn sie professionell mit Aussagen arbeiten. Der Eindruck der Zeugin in der Hauptverhandlung mag positiv sein — aber er ersetzt nicht die Anwendung der Hypothesen-gegen-Hypothesen-Methode. Diese ist hier nicht durchgefuehrt."
+Im Plaedoyer methodisch und respektvoll: "Es ist eine menschliche und legitime Tendenz, Aussagen anhand des persönlichen Eindrucks zu beurteilen. Eindrucks-Bewertung darf aber nicht die methodische Prüfung der Aussage ersetzen. Die wissenschaftliche Forschung zur Luegenerkennung ist seit Jahrzehnten eindeutig: Menschen erkennen Luegen nicht besser als der Zufall, auch wenn sie professionell mit Aussagen arbeiten. Der Eindruck der Zeugin in der Hauptverhandlung mag positiv sein — aber er ersetzt nicht die Anwendung der Hypothesen-gegen-Hypothesen-Methode. Diese ist hier nicht durchgefuehrt."
 
 ## Mustertexte
 
 **Mustersatz für Revisionsbegruendung:**
-"Die Beweiswuerdigung des Landgerichts (Urteilsumdruck S. [X]) stuetzt sich im Wesentlichen auf den persönlichen Eindruck, den die Zeugin in der Hauptverhandlung gemacht habe. Eine methodische Pruefung der Aussage anhand der Realkennzeichen, der Konstanz und der Aussagegenese fehlt. Damit ist die Beweiswuerdigung in einer Aussage-gegen-Aussage-Konstellation luckenhaft (BGH, Urt. v. 30.07.1999, 1 StR 618/98, BGHSt 45, 164)."
+"Die Beweiswuerdigung des Landgerichts (Urteilsumdruck S. [X]) stuetzt sich im Wesentlichen auf den persönlichen Eindruck, den die Zeugin in der Hauptverhandlung gemacht habe. Eine methodische Prüfung der Aussage anhand der Realkennzeichen, der Konstanz und der Aussagegenese fehlt. Damit ist die Beweiswuerdigung in einer Aussage-gegen-Aussage-Konstellation luckenhaft (BGH, Urt. v. 30.07.1999, 1 StR 618/98, BGHSt 45, 164)."
 
 **Mustersatz für Plaedoyer:**
-"Bitte verzeihen Sie, wenn ich Ihnen widerspreche: Auch das geuebte Auge erkennt Luegen nicht. Die Luegenerkennungsforschung ist hier seit Jahrzehnten konsistent. Polizeiliche Erfahrung und richterliche Routine bringen statistisch keinen relevanten Vorteil gegenueber dem Zufall. Das macht die Eindrucksbewertung nicht wertlos — sie ist menschlich und unvermeidbar. Aber sie ersetzt nicht die methodische Pruefung. Und diese ist hier nicht im Sinne der Hypothesen-gegen-Hypothesen-Methode geleistet."
+"Bitte verzeihen Sie, wenn ich Ihnen widerspreche: Auch das geuebte Auge erkennt Luegen nicht. Die Luegenerkennungsforschung ist hier seit Jahrzehnten konsistent. Polizeiliche Erfahrung und richterliche Routine bringen statistisch keinen relevanten Vorteil gegenueber dem Zufall. Das macht die Eindrucksbewertung nicht wertlos — sie ist menschlich und unvermeidbar. Aber sie ersetzt nicht die methodische Prüfung. Und diese ist hier nicht im Sinne der Hypothesen-gegen-Hypothesen-Methode geleistet."
 
 ## Quellen Stand 06/2026
 

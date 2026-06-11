@@ -127,14 +127,14 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 | Workstream | Hauptbefunde | Risikobewertung | SPA-Empfehlung |
 |---|---|---|---|
-| Legal DD | Corporate, Vertraege, HR, IP, Litigation | [Hoch/Mittel/Niedrig] | Spezifische Reps, Indemnity |
+| Legal DD | Corporate, Verträge, HR, IP, Litigation | [Hoch/Mittel/Niedrig] | Spezifische Reps, Indemnity |
 | Tax DD | Koerperschaftsteuer, USt, VP-Preise, Betriebspruefung | [H/M/N] | Tax Indemnity, Tax Warranties |
 | Financial DD | EBITDA-Qualitaet, Working Capital, Net Debt, Normalisierungen | [H/M/N] | Kaufpreis-Anpassung |
 | Commercial DD | Marktposition, Kundenkonzentration, Pipeline, Synergien | [H/M/N] | MAC-Klausel, Earn-Out |
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Workstream-Berichte einsammeln** — Legal, Tax, Financial, Commercial DD-Reports; Datum und Versionsstand pruefen
+1. **Workstream-Berichte einsammeln** — Legal, Tax, Financial, Commercial DD-Reports; Datum und Versionsstand prüfen
 2. **Cross-Workstream-Abgleich** — gleiches Finding aus verschiedenen Perspektiven identifizieren (z.B. Rechtsstreit = Litigation-Risk in LDD + Rueckstellung in FDD)
 3. **Executive Summary aufbauen** — Gesamtrisikoeinschaetzung, Deal-Empfehlung, wichtigste Befunde
 4. **Risikomatrix konsolidieren** — alle High/Red-Findings zusammenfuehren; Priorisierung nach Wertrelevanz
@@ -227,7 +227,7 @@ ANLAGEN:
 - Cross-Workstream-Abgleich fehlt — Tax und Legal identifizieren dasselbe Risiko unabhaengig, ohne Konsolidierung
 - DD-Report nicht an BJR-Anforderungen ausgerichtet — Vorstand kann safe harbour verlieren (§ 93 AktG)
 - W&I-Report unterschlaegt bekannte Risiken — Versicherer verweigert Deckung bei Material Misrepresentation
-- Keine Versionierung — spaeter kein Nachweis, was zum Signing-Zeitpunkt bekannt war
+- Keine Versionierung — später kein Nachweis, was zum Signing-Zeitpunkt bekannt war
 - Kein SPA-Mapping — DD-Befunde ohne vertragliche Konsequenz bleiben ungeschuetzt
 
 ## Vertiefung: Vendor DD (Sell-Side)

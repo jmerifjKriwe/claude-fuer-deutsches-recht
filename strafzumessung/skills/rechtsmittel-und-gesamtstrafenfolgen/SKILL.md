@@ -14,7 +14,7 @@ description: "Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumes
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `strafzumessung`. Kontext des Plugins: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `strafzumessung`. Kontext des Plugins: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
@@ -36,7 +36,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## Rechtsmittel / Bewaehrung / Gesamtstrafe - Bausteine
 - **Rechtsmittelpruefung nach Verkuendung:**
- - Beschwer pruefen (Strafmass-Differenz zum Antrag StA/Verteidigung).
+ - Beschwer prüfen (Strafmass-Differenz zum Antrag StA/Verteidigung).
  - Erfolgsaussicht Sachruege (Strafzumessungsruege selten erfolgreich; Aufhebung idR bei Lueckenhaftigkeit, Wertungsfehler, falschem Strafrahmen, Doppelverwertung § 46 III StGB) - staendige Rspr.
  - Verfahrensruege für Verstaendigungsmaengel § 257c StPO (Belehrung § 257c V StPO!).
  - Berufung § 314 StPO 1 Woche, Revision § 341 StPO 1 Woche, § 345 StPO Begruendung 1 Monat.

@@ -31,7 +31,7 @@ description: "Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposi
 
 ## Subsumtionsbeispiel: Beleidigung
 
-A beleidigt B oeffentlich.
+A beleidigt B öffentlich.
 - **XII Tafeln VIII**: 25 Asses Geldstrafe.
 - **Heute**: § 185 StGB Beleidigung (Geld- oder Freiheitsstrafe).
 

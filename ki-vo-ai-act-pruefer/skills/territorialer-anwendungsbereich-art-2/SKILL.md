@@ -88,7 +88,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 5. Ist ein bevollmaechtigter Vertreter nach Art. 22 KI-VO erforderlich?
 
 ## Output-Template — Territorialer Anwendungsbereich
-**Adressat:** Pruefer / Rechtsberater — Tonfall: entscheidungsbaum-strukturiert
+**Adressat:** Prüfer / Rechtsberater — Tonfall: entscheidungsbaum-strukturiert
 ```
 TERRITORIALER ANWENDUNGSBEREICH ART. 2 KI-VO
 [DATUM] — System: [SYSTEMNAME] — Anbieter-Sitz: [LAND]

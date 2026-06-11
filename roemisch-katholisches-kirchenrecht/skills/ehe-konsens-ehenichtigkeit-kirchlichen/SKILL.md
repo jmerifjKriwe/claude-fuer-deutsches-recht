@@ -58,7 +58,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - **can. 1083 CIC**: Eheschliessungsalter (Mann 16, Frau 14, mit dispensativem Vorbehalt der Bischofskonferenz).
 - **can. 1090-1094 CIC**: Trennende Hindernisse aus Vorsatz, Verwandtschaft, Schwaegerschaft, öffentlicher Anstand.
 - **can. 1095 CIC**: Konsensunfaehigkeit (mangelnder Vernunftgebrauch, schwerer Mangel der Urteilsfaehigkeit, psychisch begruendete Unfaehigkeit zu wesentlichen Pflichten).
-- **can. 1097-1101 CIC**: Konsensmaengel (Irrtum ueber Person/wesentliche Eigenschaften, Furcht, Simulation).
+- **can. 1097-1101 CIC**: Konsensmaengel (Irrtum über Person/wesentliche Eigenschaften, Furcht, Simulation).
 - **can. 1108-1117 CIC**: Formpflicht; Eheschliessung vor Ortspfarrer oder dessen Delegat sowie zwei Zeugen.
 
 ### Reformen
@@ -75,7 +75,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Religionsausuebungsrecht Art. 4 GG schuetzt aber die kirchliche Form als religioesen Akt.
 
 ### Pruefraster
-1. Ist die Ehe vor 2015 oder danach geschlossen? Beim Nichtigkeitsverfahren immer Mitis Iudex pruefen.
+1. Ist die Ehe vor 2015 oder danach geschlossen? Beim Nichtigkeitsverfahren immer Mitis Iudex prüfen.
 2. Konsensmangel oder Hindernis? — cc. 1083-1094 vor cc. 1095-1107.
 3. Liegt einer der vier Faelle für processus brevior vor (cc. 1683-1687 CIC)?
 4. Bei orientalisch-katholischer Trauung: CCEO statt CIC.

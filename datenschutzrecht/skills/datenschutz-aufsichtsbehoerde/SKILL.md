@@ -12,11 +12,11 @@ Sie brauchen den Skill, sobald ein Schreiben einer Aufsichtsbehoerde eingegangen
 Sieben-Fragen-Diagnose:
 
 1. **Welche Aufsicht?** BfDI nach § 13 BDSG (Telekommunikation, Post, Bundesbehoerden, Postdienste) oder Landesaufsicht nach § 40 BDSG (privater Bereich plus Landesbehoerden)? Federfuehrend nach Art. 56 DSGVO?
-2. **Welcher Anlass?** Pruefung von Amts wegen, Beschwerde Art. 77, Folge einer Meldung Art. 33, anonymer Hinweis, koordiniertes Aufsichtsverfahren EDSA?
+2. **Welcher Anlass?** Prüfung von Amts wegen, Beschwerde Art. 77, Folge einer Meldung Art. 33, anonymer Hinweis, koordiniertes Aufsichtsverfahren EDSA?
 3. **Welche Verfahrensart?** Anhörung (kein Bussgeldverfahren), Bussgeldverfahren OWiG, Verwaltungsverfahren Art. 58 II DSGVO (Anordnung)?
 4. **Welche Frist?** Genau notieren, Eingangsstempel, Fristenkalender.
 5. **Ist der Mandant antwortbereit?** Sind Daten vorhanden, ist die Geschaeftsfuehrung einig, DSB beteiligt?
-6. **Welches Mandatsziel?** Pruefung erledigen mit minimalem Eingriff, Bussgeld vermeiden, oder öffentliche Wahrnehmung steuern?
+6. **Welches Mandatsziel?** Prüfung erledigen mit minimalem Eingriff, Bussgeld vermeiden, oder öffentliche Wahrnehmung steuern?
 7. **Welche Spurensicherung intern?** Verarbeitungsverzeichnis Art. 30 DSGVO, TOM Art. 32, DSFA Art. 35, AVV Art. 28 — liegt alles vor und ist aktuell?
 
 ## Rechtlicher Rahmen
@@ -36,7 +36,7 @@ Sieben-Fragen-Diagnose:
 ## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Mandantenfreigabe zwingend.** Kein Brief geht raus ohne Geschaeftsfuehrungsfreigabe. Vier-Augen-Prinzip.
-2. **NICHT vorschnell schriftliche Stellungnahme abgeben.** Erst Akteneinsicht beantragen, Sachverhalt klaeren, Belegmatrix erstellen.
+2. **NICHT vorschnell schriftliche Stellungnahme abgeben.** Erst Akteneinsicht beantragen, Sachverhalt klären, Belegmatrix erstellen.
 3. **Eingangsschreiben sortieren:** Anhörung, Auskunftsverlangen, Anordnung, Bussgeldanhoerung — andere Vorgehen pro Variante.
 4. **Akteneinsicht beantragen.** Bei Bussgeldverfahren § 49 OWiG i.V.m. § 147 StPO. Bei Verwaltungsverfahren § 29 VwVfG.
 5. **Frist nutzen.** Lieber Fristverlaengerung beantragen als unvollstaendig liefern.
@@ -48,7 +48,7 @@ Sieben-Fragen-Diagnose:
 | Variante | Vorteil | Nachteil |
 |---|---|---|
 | Volle Kooperation, alle Unterlagen sofort | Bussgeldmilderung Art. 83 II c, Vertrauen | Risiko Selbstbelastung, Akte waechst |
-| Akteneinsicht zuerst, dann Stellungnahme | Klarheit ueber Vorwurfsbasis | Zeitverlust, Aufsicht ungeduldig |
+| Akteneinsicht zuerst, dann Stellungnahme | Klarheit über Vorwurfsbasis | Zeitverlust, Aufsicht ungeduldig |
 | Fristverlaengerung mit Begruendung | Sauberes Ergebnis | Aufsicht kann Anordnung Art. 58 II beschleunigen |
 | Bevollmaechtigungsanzeige sofort | Klare Kommunikationswege | Aufsicht erkennt Anwaltsmandat als Eskalationssignal |
 
@@ -60,7 +60,7 @@ Sieben-Fragen-Diagnose:
 >
 > in der oben bezeichneten Sache zeigen wir an, dass uns [Mandantenfirma], gesetzlich vertreten durch [GF], mit der Vertretung beauftragt hat. Eine entsprechende Vollmacht reichen wir nach. Wir bitten um Zustellung saemtlicher kuenftiger Schreiben zu unseren Haenden.
 >
-> Wir beantragen Akteneinsicht in den vollstaendigen Vorgang gemaess [§ 29 VwVfG / § 49 OWiG i.V.m. § 147 StPO].
+> Wir beantragen Akteneinsicht in den vollstaendigen Vorgang gemäß [§ 29 VwVfG / § 49 OWiG i.V.m. § 147 StPO].
 >
 > Zur Sache wird im Anschluss Stellung genommen. Eine Frist zur Stellungnahme vor Akteneinsicht ist nicht angemessen. Wir beantragen Fristverlaengerung um [4-6 Wochen] ab Akteneinsicht.
 

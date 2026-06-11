@@ -13,7 +13,7 @@ description: "Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende 
 
 ## Worum geht es?
 
-Wenn Sie vor dem SG verloren haben (oder teilgewonnen), koennen Sie in die zweite Instanz: das Landessozialgericht (LSG). Aber: Die Berufung muss ueber einer Wertgrenze liegen. Diese Skill klaert das auf.
+Wenn Sie vor dem SG verloren haben (oder teilgewonnen), können Sie in die zweite Instanz: das Landessozialgericht (LSG). Aber: Die Berufung muss über einer Wertgrenze liegen. Diese Skill klaert das auf.
 
 ## In einfacher Sprache
 
@@ -28,7 +28,7 @@ Sie haben verloren und wollen nochmal. Dafür gibt es das Landessozialgericht (z
 
 - **Berufung**: Rechtsmittel zum LSG.
 - **Wertgrenze**: 750 EUR Streitwert ist die Schwelle.
-- **Laufende Leistungen ueber 1 Jahr**: Auch ohne Wertgrenze Berufung moeglich.
+- **Laufende Leistungen über 1 Jahr**: Auch ohne Wertgrenze Berufung möglich.
 - **Nichtzulassungsbeschwerde**: Wenn keine Berufung, dann diese (wenn das SG die Berufung haette zulassen sollen).
 
 ## Rechtsgrundlagen
@@ -39,23 +39,23 @@ Sie haben verloren und wollen nochmal. Dafür gibt es das Landessozialgericht (z
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen: Berufung statthaft?
+### Schritt 1 — Prüfen: Berufung statthaft?
 
-Berufung ohne Zulassung moeglich, wenn:
+Berufung ohne Zulassung möglich, wenn:
 
-- **Streitwert ueber 750 EUR**, oder
-- **Laufende Leistungen ueber 1 Jahr**
+- **Streitwert über 750 EUR**, oder
+- **Laufende Leistungen über 1 Jahr**
 
 Beispiel:
 
-- Pflegegrad 2 statt 3, monatlich 200 EUR mehr ab 1.1.2025 → ueber Jahr ueber 750 EUR
-- Sanktion 100 EUR → unter Wertgrenze, aber pruefbar wenn Sanktion ueber 12 Monate
+- Pflegegrad 2 statt 3, monatlich 200 EUR mehr ab 1.1.2025 → über Jahr über 750 EUR
+- Sanktion 100 EUR → unter Wertgrenze, aber pruefbar wenn Sanktion über 12 Monate
 
-Bei laufenden Leistungen reicht 1 Jahr Bezug — die Hoehe muss nicht ueber 750 EUR sein.
+Bei laufenden Leistungen reicht 1 Jahr Bezug — die Höhe muss nicht über 750 EUR sein.
 
 ### Schritt 2 — Wenn nicht statthaft: Nichtzulassungsbeschwerde
 
-Wenn das SG die Berufung haette zulassen muessen (grundsaetzliche Bedeutung, Divergenz), koennen Sie Nichtzulassungsbeschwerde stellen (§ 145 SGG).
+Wenn das SG die Berufung haette zulassen müssen (grundsaetzliche Bedeutung, Divergenz), können Sie Nichtzulassungsbeschwerde stellen (§ 145 SGG).
 
 Siehe `berufung-zulassung-besondere-bedeutung`.
 
@@ -126,10 +126,10 @@ Vor dem LSG haben oft beide Seiten einen Anwalt. Sie haben zwar keinen Anwaltszw
 
 Verfahren am LSG ebenfalls kostenfrei (§ 183 SGG). Anwaltskosten zahlen Sie / PKH.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Berufungsfrist 1 Monat** ab Zustellung.
-- **Wertgrenze pruefen** — wenn nicht erfuellt, Nichtzulassungsbeschwerde.
+- **Wertgrenze prüfen** — wenn nicht erfuellt, Nichtzulassungsbeschwerde.
 - **Anwalt sehr empfohlen** bei wichtigen Faellen.
 - **Neue Beweise** sind erlaubt (anders als beim BSG).
 

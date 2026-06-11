@@ -42,12 +42,12 @@ description: "Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung d
 
 ## Klagegrunde § 22 PatG
 
-| Grund | Inhalt | Pruefung |
+| Grund | Inhalt | Prüfung |
 |-------|--------|---------|
 | Mangelnde Neuheit § 3 PatG | Jedes Merkmal eines Anspruchs ist im StdT offenbart | Einzel-Entgegenhaltung; kein Mosaikverbot |
 | Fehlende Erfindungshoehe § 4 PatG | Gesamtheit der Anspruchsmerkmale für Fachmann naheliegend | Fachmann-Perspektive; Kombinationsnahelegen erlaubt |
 | Unzureichende Offenbarung § 21 I Nr. 2 PatG | Fachmann kann Erfindung nicht ausfuehren | Ausnahme: Hinterlegung biologischen Materials |
-| Unzulaessige Erweiterung § 21 I Nr. 4 PatG | Schutzbereich ueber urspruenglich Offenbartes erweitert | Vergleich Anmeldung mit erteiltem Anspruch |
+| Unzulaessige Erweiterung § 21 I Nr. 4 PatG | Schutzbereich über urspruenglich Offenbartes erweitert | Vergleich Anmeldung mit erteiltem Anspruch |
 
 ## Stand der Technik (SdT) — Recherche und Beweis
 
@@ -81,8 +81,8 @@ description: "Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung d
 ### EPG / UPC (Einheitspatent)
 
 - Zuständigkeit: Local Divisions (Duesseldorf, Hamburg, Muenchen) oder Central Division
-- Zweig Verletzung und Nichtigkeit koennen in einem Verfahren behandelt werden (kein Bifurkations-Problem)
-- Opt-out moeglich für klassische EP-Patente bis 2030
+- Zweig Verletzung und Nichtigkeit können in einem Verfahren behandelt werden (kein Bifurkations-Problem)
+- Opt-out möglich für klassische EP-Patente bis 2030
 
 ### Bifurkation im DE-System
 
@@ -132,7 +132,7 @@ Schritt 8: Berufung BGH (wenn noetig)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -193,7 +193,7 @@ D1: [Titel, Veroeffentlichungsdatum]
 D2: [Titel, Veroeffentlichungsdatum]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

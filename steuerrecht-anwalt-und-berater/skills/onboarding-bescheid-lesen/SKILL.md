@@ -47,7 +47,7 @@ description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbe
 | Steuerart und Zeitraum | Kopf | sonst Inhaltsmangel |
 | Festgesetzter Betrag | Tenor | Basis für AdV-Antrag |
 | Vorbehalt der Nachpruefung | Tenor / Erlaeuterungen | jederzeit Aenderung § 164 Abs. 2 AO |
-| Vorlaeufigkeitsvermerk | Erlaeuterungen | Reichweite genau pruefen |
+| Vorlaeufigkeitsvermerk | Erlaeuterungen | Reichweite genau prüfen |
 | Rechtsbehelfsbelehrung | Ende | fehlt oder fehlerhaft → Jahresfrist § 356 Abs. 2 AO |
 | Erlaeuterungstext | letzte Seite | Indikator für Streitpunkt |
 

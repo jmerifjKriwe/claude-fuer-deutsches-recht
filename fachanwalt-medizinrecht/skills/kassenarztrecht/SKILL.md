@@ -62,13 +62,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Kassenarztrecht-Verfahren | Schriftsatz an Zulaessungsausschuss; Template unten |
 | Variante A — Mandant will Zulassung aufgeben | Zulassungsverzicht vs. Praxisverkauf abwaegen |
-| Variante B — Sonderbedarfszulassung | Bedarfsplanung § 101 SGB V pruefen; GBA-Richtlinie |
+| Variante B — Sonderbedarfszulassung | Bedarfsplanung § 101 SGB V prüfen; GBA-Richtlinie |
 | Variante C — Ausschluss aus Vertragsarztversorgung | Sofortige Wiederzulassung vs. Neuantrag nach Wartezeit |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -127,7 +127,7 @@ Anlagen
 - Vollmacht
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

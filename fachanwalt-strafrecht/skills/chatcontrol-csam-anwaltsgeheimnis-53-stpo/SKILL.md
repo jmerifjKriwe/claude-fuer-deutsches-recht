@@ -3,7 +3,7 @@ name: chatcontrol-csam-anwaltsgeheimnis-53-stpo
 description: "Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweigerungsrecht: Anwendungsfall Kanzlei prüft ob Chat-Control-Massnahmen Anwaltsgeheimnis verletzen oder Mandatskommunikation abhoeren koennten: Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeug..."
 ---
 
-# Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweigerungsrecht: Anwendungsfall Kanzlei prüft ob Chat-Control-Massnahmen Anwaltsgeheimnis verletzen oder Mandatskommunikation abhoeren koennten
+# Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweigerungsrecht: Anwendungsfall Kanzlei prüft ob Chat-Control-Maßnahmen Anwaltsgeheimnis verletzen oder Mandatskommunikation abhoeren koennten
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweiger
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweigerungsrecht: Anwendungsfall Kanzlei prüft ob Chat-Control-Massnahmen Anwaltsgeheimnis verletzen oder Mandatskommunikation abhoeren koennten. § 53 StPO Zeugnisverweigerungsrecht, § 97 StPO Beschlagnahmeverbot, BRAO Anwaltsgeheimnis, EU-Chat-Control-VO-Entwurf. Prüfraster Anwaltsgeheimnis-Schutz, Beschlagnahmeschutz, EU-Regulierungsrisiken, Mandatskommunikation-Sicherheit. Output Rechtsgutachten zu Chat-Control-Risiken für Anwaltsgeheimnis. Abgrenzung zu KI-Governance-Berufsrecht und zu Akteneinsicht.
+**Fokus:** Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweigerungsrecht: Anwendungsfall Kanzlei prüft ob Chat-Control-Maßnahmen Anwaltsgeheimnis verletzen oder Mandatskommunikation abhoeren koennten. § 53 StPO Zeugnisverweigerungsrecht, § 97 StPO Beschlagnahmeverbot, BRAO Anwaltsgeheimnis, EU-Chat-Control-VO-Entwurf. Prüfraster Anwaltsgeheimnis-Schutz, Beschlagnahmeschutz, EU-Regulierungsrisiken, Mandatskommunikation-Sicherheit. Output Rechtsgutachten zu Chat-Control-Risiken für Anwaltsgeheimnis. Abgrenzung zu KI-Governance-Berufsrecht und zu Akteneinsicht.
 
 ### ChatControl / EU-CSAM und Anwaltsgeheimnis § 53 StPO
 
@@ -36,7 +36,7 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 
 - **Vorschlag COM(2022) 209** "ChatControl 2.0" — Pflicht-Scanning aller Kommunikationsdienste auf CSAM-Material und Grooming
 - **EU-Datenschutzbeauftragter EDPS-Stellungnahme** (2022) — sieht Verstoß gegen Grundrechte
-- Stand Mai 2026 zum EU-Verfahren: Der Verordnungsvorschlag (CSA-VO/COM(2022)209) ist weiterhin im Rat blockiert; Verlaengerung der Interimsverordnung (EU) 2021/1232 in Diskussion. Aktualisierungen vor Ausgabe direkt unter https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022PC0209 pruefen.
+- Stand Mai 2026 zum EU-Verfahren: Der Verordnungsvorschlag (CSA-VO/COM(2022)209) ist weiterhin im Rat blockiert; Verlaengerung der Interimsverordnung (EU) 2021/1232 in Diskussion. Aktualisierungen vor Ausgabe direkt unter https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022PC0209 prüfen.
 
 ### Nationales Anwaltsrecht
 
@@ -126,6 +126,6 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 
 - BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Verwertbarkeit): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
 - CSA-VO-Vorschlag COM(2022)209 — Stand des EU-Gesetzgebungsverfahrens unter: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022PC0209
-- Interimsverordnung (EU) 2021/1232 (befristete Ausnahme von ePrivacy für freiwilliges CSAM-Scanning): vor Verwendung Geltungsdauer unter https://eur-lex.europa.eu pruefen.
+- Interimsverordnung (EU) 2021/1232 (befristete Ausnahme von ePrivacy für freiwilliges CSAM-Scanning): vor Verwendung Geltungsdauer unter https://eur-lex.europa.eu prüfen.
 - §§ 43a BRAO, 53, 53a, 97, 100a, 160a StPO sowie § 203 StGB als Maßstabskette.
 - Weitere Rechtsprechung vor Ausgabe in dejure.org / bverfg.de / openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -19,7 +19,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## EU-Organe und ihre Funktionen (Art. 13 EUV)
@@ -27,13 +27,13 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 | Organ | Funktion | Verfahrensbeteiligung / Klagewege |
 |---|---|---|
 | **Europaeisches Parlament (EP)** | Mitgesetzgeber, Haushaltsbeschluss, Kontrolle Kommission | Petition Art. 24 II, 227 AEUV; Klagen Art. 263, 265 AEUV; PETI; Buergerbeauftragter Art. 228 AEUV |
-| **Europaeischer Rat** | Politische Leitlinien, Vertragsaenderungen Art. 48 EUV | Keine Rechtsetzung im engeren Sinn; Klagen Art. 263 AEUV gegen Beschluesse moeglich |
+| **Europaeischer Rat** | Politische Leitlinien, Vertragsaenderungen Art. 48 EUV | Keine Rechtsetzung im engeren Sinn; Klagen Art. 263 AEUV gegen Beschlüsse möglich |
 | **Rat der Europaeischen Union** | Mitgesetzgeber, Koordinierung Wirtschaftspolitik | Mitwirkung am ordentlichen Gesetzgebungsverfahren Art. 294 AEUV |
-| **Kommission** | Initiativrecht, Vollzug, Huetterin der Vertraege | Beschwerde wegen Vertragsverletzung Art. 258 AEUV; State Aid Art. 108 AEUV; Kartell Art. 105 AEUV |
+| **Kommission** | Initiativrecht, Vollzug, Huetterin der Verträge | Beschwerde wegen Vertragsverletzung Art. 258 AEUV; State Aid Art. 108 AEUV; Kartell Art. 105 AEUV |
 | **EuGH (Court of Justice)** | Verfassungsgerichtsbarkeit der Union | Vorabentscheidung Art. 267 AEUV; Vertragsverletzung Art. 258, 259 AEUV; Rechtsmittel gegen EuG |
 | **EuG (General Court)** | Erstinstanzgericht für Direktklagen | Nichtigkeitsklage Art. 263 AEUV; Untaetigkeit Art. 265 AEUV; Schadensersatz Art. 268, 340 AEUV (von Privaten) |
 | **EuRH (Rechnungshof)** | Haushaltskontrolle | Keine streitigen Verfahren |
-| **EZB** | Geldpolitik Eurozone, Aufsicht (SSM) | Klagen Art. 263 AEUV gegen EZB-Beschluesse |
+| **EZB** | Geldpolitik Eurozone, Aufsicht (SSM) | Klagen Art. 263 AEUV gegen EZB-Beschlüsse |
 
 ## Routing für typische Mandantenanliegen
 
@@ -50,14 +50,14 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 ## Pruefraster für den Skill
 
 1. **Sachverhalt fixieren** — streitige und unstreitige Tatsachen, Lueckentafel.
-2. **Unionsbezug pruefen** — Faellt die Materie in den Anwendungsbereich des Unionsrechts (Art. 51 GRC)?
-3. **Zustaendiges Organ identifizieren** ueber die obige Tabelle.
-4. **Rechtswegerschoepfung pruefen** (bei Untaetigkeitsklage Art. 265 AEUV: vorherige Aufforderung).
-5. **Frist pruefen** (Art. 263 VI AEUV: zwei Monate ab Bekanntgabe oder Kenntnis).
+2. **Unionsbezug prüfen** — Faellt die Materie in den Anwendungsbereich des Unionsrechts (Art. 51 GRC)?
+3. **Zustaendiges Organ identifizieren** über die obige Tabelle.
+4. **Rechtswegerschoepfung prüfen** (bei Untaetigkeitsklage Art. 265 AEUV: vorherige Aufforderung).
+5. **Frist prüfen** (Art. 263 VI AEUV: zwei Monate ab Bekanntgabe oder Kenntnis).
 
 ## Praxisfallen
 
-- **Plaumann-Formel** zur unmittelbaren und individuellen Betroffenheit Art. 263 IV AEUV ist sehr restriktiv; mit Lissabon erweitert auf "Rechtsakte mit Verordnungscharakter, die den Klaeger unmittelbar betreffen und keine Durchfuehrungsmassnahmen nach sich ziehen".
+- **Plaumann-Formel** zur unmittelbaren und individuellen Betroffenheit Art. 263 IV AEUV ist sehr restriktiv; mit Lissabon erweitert auf "Rechtsakte mit Verordnungscharakter, die den Kläger unmittelbar betreffen und keine Durchfuehrungsmassnahmen nach sich ziehen".
 - Vorlagepflicht des letztinstanzlichen Gerichts Art. 267 III AEUV (CILFIT-Doktrin).
 - Vertragsverletzungsverfahren Art. 258 AEUV: kein subjektiver Anspruch des Beschwerdefuehrers.
 

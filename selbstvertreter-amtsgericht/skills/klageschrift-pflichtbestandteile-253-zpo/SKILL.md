@@ -12,7 +12,7 @@ Eine Klage muss bestimmte Pflichtangaben enthalten, sonst ist sie unzulaessig. �
 ## Wann brauchen Sie diese Skill?
 
 - Sie schreiben Ihre Klage.
-- Sie wollen pruefen, ob Ihre Klage formell korrekt ist.
+- Sie wollen prüfen, ob Ihre Klage formell korrekt ist.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -175,7 +175,7 @@ Skill `einreichung-papierform-mit-abschriften`.
 
 Schicken Sie an das Gericht — per MJP (elektronisch), Post (mit Einschreiben) oder geben Sie persoenlich ab (mit Eingangs-Stempel). Skill `einreichung-mein-justizpostfach-mjp-2024`, `einreichung-papierform-mit-abschriften`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Bestimmter Antrag** ist Kernpflicht. Skill `klageschrift-antrag-bestimmt-formulieren`.
 - **Beweismittel benennen** (§ 253 III ZPO). Skill `klageschrift-beweisangebote-einbauen-373-zpo`.
@@ -185,9 +185,9 @@ Schicken Sie an das Gericht — per MJP (elektronisch), Post (mit Einschreiben) 
 ## Typische Fehler
 
 - "Der Beklagte schuldet mir Geld." → Kein konkreter Antrag, unzulaessig.
-- "Beweis lege ich spaeter vor." → Beweismittel sollten **benannt** sein, am besten beigefuegt.
+- "Beweis lege ich später vor." → Beweismittel sollten **benannt** sein, am besten beigefuegt.
 - "Anschrift Beklagter brauche ich nicht, hab ja Nachnamen." → Doch, ladungsfaehige Anschrift Pflicht.
-- "Streitwert kann das Gericht selbst rechnen." → Sie muessen ihn angeben (§ 253 III ZPO).
+- "Streitwert kann das Gericht selbst rechnen." → Sie müssen ihn angeben (§ 253 III ZPO).
 
 ## Quellen und Aktualitaet
 

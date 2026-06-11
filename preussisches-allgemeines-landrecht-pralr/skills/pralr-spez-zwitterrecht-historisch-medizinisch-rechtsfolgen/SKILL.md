@@ -44,11 +44,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ### Standesregister ab 1875
 - Personenstandsgesetz 06.02.1875: Eintragung im Geburtenregister.
-- Nach Wahl: Aenderung des Eintrags moeglich (anders als nach BGB-Logik).
+- Nach Wahl: Aenderung des Eintrags möglich (anders als nach BGB-Logik).
 
 ## Eherecht
 
-- Ehe nach Wahl moeglich.
+- Ehe nach Wahl möglich.
 - Bei spaeterer Wahlaenderung Eheaufhebung umstritten.
 
 ## Erbrecht

@@ -101,13 +101,13 @@ Im Mittelstands-M&A liegen die Daten häufig in schlechter Qualität vor: Excel-
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Tabellen aus Mittelstand-Unterlagen reviewen | Tabellenreview nach Schema; Pruefbericht unten |
-| Variante A — Excel-Tabellen mit Makros komplex | Makro-Dokumentation separat anfordern; Pruefung ohne Makros |
-| Variante B — Mandant will nur bestimmte KPIs pruefen | KPI-Subset pruefen; nicht alle Tabellenfelder |
+| Variante A — Excel-Tabellen mit Makros komplex | Makro-Dokumentation separat anfordern; Prüfung ohne Makros |
+| Variante B — Mandant will nur bestimmte KPIs prüfen | KPI-Subset prüfen; nicht alle Tabellenfelder |
 | Variante C — Tabellen aus Due-Diligence-Raum | NDA beachten; Pruefergebnis vertraulich behandeln |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -157,7 +157,7 @@ Die Körperschaftsteuerveranlagung für [Jahr] liegt nicht vor. Bitte nachreiche
 Bestehen Steuerrückstände oder laufende Betriebsprüfungen beim Finanzamt [Ort]?
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

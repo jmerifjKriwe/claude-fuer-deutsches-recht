@@ -13,7 +13,7 @@ Konstruktion einer Klageschrift für reine Geldforderungen nach §§ 253 ff. ZPO
 |---|---|---|
 | Bezeichnung der Parteien | § 253 Abs. 2 Nr. 1 ZPO | Voller Name, ladungsfaehige Anschrift, gesetzlicher Vertreter (bei juristischen Personen); bei GmbH Geschaeftsfuehrer mit HRB-Auszug |
 | Bezeichnung des Gerichts | § 253 Abs. 2 Nr. 1 ZPO | Sachlich + oertlich zuständiges Gericht (AG/LG) |
-| Bestimmter Antrag | § 253 Abs. 2 Nr. 2 ZPO | Zahlung in EUR, Zinsen genau (Hoehe, Zeitraum, Bezugsforderung), Kosten |
+| Bestimmter Antrag | § 253 Abs. 2 Nr. 2 ZPO | Zahlung in EUR, Zinsen genau (Höhe, Zeitraum, Bezugsforderung), Kosten |
 | Bestimmter Gegenstand und Grund | § 253 Abs. 2 Nr. 2 ZPO | Tatbestand mit Lebenssachverhalt |
 | Beweismittel | § 253 Abs. 3 Nr. 1 ZPO | Urkunden, Zeugen mit ladungsfaehiger Anschrift, Sachverstaendige |
 | Streitwertangabe | § 61 GKG, § 3 ZPO | bei Geldforderung Hauptforderung ohne Zinsen + Nebenforderungen ohne Bezifferungspflicht (§ 4 ZPO) |
@@ -24,8 +24,8 @@ Konstruktion einer Klageschrift für reine Geldforderungen nach §§ 253 ff. ZPO
 | Streitwert | Gericht | Norm |
 |---|---|---|
 | bis 10.000 EUR | Amtsgericht | § 23 Nr. 1 GVG (Erhoehung durch BGBl. 2025 I Nr. 318) |
-| ueber 10.000 EUR | Landgericht | § 71 Abs. 1 GVG |
-| Mietsachen Wohnraum | AG ausschliesslich | § 23 Nr. 2a GVG |
+| über 10.000 EUR | Landgericht | § 71 Abs. 1 GVG |
+| Mietsachen Wohnraum | AG ausschließlich | § 23 Nr. 2a GVG |
 | Familiensachen | AG (Familiengericht) | § 23a GVG |
 
 Uebergangsregelung § 47 EGZPO: vor dem 01.01.2026 anhaengige Verfahren bleiben am bisherigen Gericht.
@@ -47,7 +47,7 @@ Es wird beantragt:
    gleicher Hoehe leistet (§ 709 ZPO).
 ```
 
-Bei Verbraucher als Beklagtem: 5 Prozentpunkte ueber Basiszins (§ 288 Abs. 1 BGB), keine 40-EUR-Pauschale.
+Bei Verbraucher als Beklagtem: 5 Prozentpunkte über Basiszins (§ 288 Abs. 1 BGB), keine 40-EUR-Pauschale.
 
 ## Tatbestand – Aufbau
 
@@ -84,7 +84,7 @@ Bei Verbraucher als Beklagtem: 5 Prozentpunkte ueber Basiszins (§ 288 Abs. 1 BG
 
 ## Elektronische Einreichung
 
-Seit 01.01.2022 Pflicht ueber beA für Rechtsanwaelte (§ 130d ZPO). Format: PDF/A oder durchsuchbares PDF, Signatur durch beA oder qeS.
+Seit 01.01.2022 Pflicht über beA für Rechtsanwaelte (§ 130d ZPO). Format: PDF/A oder durchsuchbares PDF, Signatur durch beA oder qeS.
 
 ## B2B-Inkasso-Variante mit Inkassokosten
 
@@ -92,7 +92,7 @@ Nach aussergerichtlichem Mahnvorlauf sind im Antrag zusaetzlich aufzunehmen:
 
 - Inkassokosten als Verzugsschaden BGB 280 286 begrenzt auf RVG-Gebühren RDG 13c
 - Verzugskostenpauschale 40 Euro je Forderung nur B2B BGB 288 Abs. 5
-- Verzugszinsen B2B neun Prozentpunkte ueber Basiszinssatz BGB 288 Abs. 2
+- Verzugszinsen B2B neun Prozentpunkte über Basiszinssatz BGB 288 Abs. 2
 
 ```
 Die Beklagte wird verurteilt an die Klaegerin
@@ -111,7 +111,7 @@ Verzugskostenpauschale zu zahlen.
 - Verzugszinsen ab Rechnungsdatum statt ab Mahnung/Faelligkeit + 30 Tagen.
 - Streitwert zu niedrig angegeben → spaetere Verweisung ans LG.
 - Bei GbR-Beklagter: alle Gesellschafter mit Anschrift; ladungsfaehige Anschrift der GbR allein reicht nicht (BGH II ZR 175/16).
-- Vergessen, die Mwst.-Pflicht zu pruefen (Brutto vs. Netto).
+- Vergessen, die Mwst.-Pflicht zu prüfen (Brutto vs. Netto).
 
 ## Quellen
 - ZPO §§ 253 ff. [gesetze-im-internet.de/zpo/__253.html](https://www.gesetze-im-internet.de/zpo/__253.html)

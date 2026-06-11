@@ -13,7 +13,7 @@ Der Erfuellungsaufwand wird methodisch **separat für drei Adressatengruppen** a
 
 - Stellungnahme-Drafting: Tabellenstruktur
 - Ressortentwurf zeigt nur Gesamtsumme
-- Diskussion ueber Zuordnung (z.B. Selbstaendige zu Wirtschaft oder Buerger?)
+- Diskussion über Zuordnung (z.B. Selbstaendige zu Wirtschaft oder Buerger?)
 
 Rueckfrage nur wenn unklar: *"Welche Adressatengruppe steht im Vordergrund — Buerger, Wirtschaft oder Verwaltung?"*
 
@@ -30,7 +30,7 @@ Rueckfrage nur wenn unklar: *"Welche Adressatengruppe steht im Vordergrund — B
 
 - **Adressat**: natuerliche Personen in Privatangelegenheiten
 - **Aufwand**: Zeitaufwand für Antraege, Anzeigen, Belege, Anhörungen
-- **Bewertung**: Zeitkosten (Stand 06/2026 als Bandbreite ca. 28 EUR/h gemaess Leitfaden — vom Anwender mit aktueller Tabelle zu pruefen)
+- **Bewertung**: Zeitkosten (Stand 06/2026 als Bandbreite ca. 28 EUR/h gemäß Leitfaden — vom Anwender mit aktueller Tabelle zu prüfen)
 - **Sachkosten**: nur wenn relevant (z.B. Gebühren, ggf. Notar)
 - **Falltypen**: Antrag stellen, Pflicht erfuellen, Anhörung wahrnehmen
 - **Bandbreiten**: stark adressatenabhaengig (Senioren, Migranten, mit/ohne digitale Affinitaet)
@@ -39,7 +39,7 @@ Rueckfrage nur wenn unklar: *"Welche Adressatengruppe steht im Vordergrund — B
 
 - **Adressat**: Unternehmen aller Groessen
 - **Aufwand**: Personalkosten plus Sachkosten plus externe Dienstleistungen
-- **Bewertung**: branchenbezogene Lohnsaetze gemaess DESTATIS (z.B. ca. 40-50 EUR/h Verwaltung; 60-100 EUR/h hochqualifiziert — laufende Tabellen sind heranzuziehen)
+- **Bewertung**: branchenbezogene Lohnsaetze gemäß DESTATIS (z.B. ca. 40-50 EUR/h Verwaltung; 60-100 EUR/h hochqualifiziert — laufende Tabellen sind heranzuziehen)
 - **Sachkosten**: IT, Material, Gutachten
 - **Einmaliger Umstellungsaufwand** vs. laufender Aufwand getrennt
 - **KMU-Differenzierung**: KMU ggf. extra ausweisen
@@ -66,7 +66,7 @@ Rueckfrage nur wenn unklar: *"Welche Adressatengruppe steht im Vordergrund — B
 
 | Adressat | Zeitwert (Beispiel-Bandbreite) | Hinweis |
 |---|---|---|
-| Buerger | ca. 28 EUR/h | mit aktueller Leitfaden-Tabelle pruefen |
+| Buerger | ca. 28 EUR/h | mit aktueller Leitfaden-Tabelle prüfen |
 | Wirtschaft Verwaltung | ca. 40-50 EUR/h | branchenabhaengig |
 | Wirtschaft Spezialisten | ca. 60-100 EUR/h | je nach Qualifikation |
 | Verwaltung Bund mittlerer Dienst | ca. 50-60 EUR/h | Vollkostenrechnung |
@@ -92,7 +92,7 @@ Bausteine:
 
 - "Der Erfuellungsaufwand für Buerger entsteht hauptsaechlich durch [konkrete Pflicht]. Der NKR haelt die zugrundegelegten Fallzahlen für plausibel."
 - "Der Erfuellungsaufwand für die Wirtschaft wird durch [konkrete Pflicht] verursacht. Davon entfallen auf KMU [Anteil]."
-- "Der NKR weist darauf hin, dass der Erfuellungsaufwand für die kommunale Verwaltung in Hoehe von [X] Mio EUR die Frage der Konnexitaet aufwirft."
+- "Der NKR weist darauf hin, dass der Erfuellungsaufwand für die kommunale Verwaltung in Höhe von [X] Mio EUR die Frage der Konnexitaet aufwirft."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
@@ -109,4 +109,4 @@ Bausteine:
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) inkl. Zeitwerttabellen
 - DESTATIS Verdienststrukturerhebung (jeweils aktuelle Ausgabe)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.destatis.de](https://www.destatis.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.destatis.de](https://www.destatis.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

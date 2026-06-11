@@ -17,15 +17,15 @@ description: "Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passe
 
 - Maschinenhersteller moechte Ersatzteile in USA liefern; Frage ob EU001 (NATO) anwendbar.
 - Elektroniklieferant fragt, ob EU007 (Forschung und Entwicklung) für Technologielieferung in die Schweiz gilt.
-- KMU prueft, ob nationale AGG 29 für Lieferung bestimmter Gueter nach Israel nutzbar ist.
+- KMU prüft, ob nationale AGG 29 für Lieferung bestimmter Gueter nach Israel nutzbar ist.
 
 ## Erste Schritte
 
 1. Gueterlistenklassifizierung feststellen (Anhang I VO 2021/821, ECCN, Dual-Use-Code).
 2. Zielland und Endverwender (Regierung, Zivil, Militaer) bestimmen.
 3. Alle EU-Allgemeingenehmigungen EU001-EU009 systematisch durchpruefen.
-4. Nationale Allgemeingenehmigungen (AWV) für nicht von EU-Regelung erfasste Faelle pruefen.
-5. Bedingungen der anwendbaren AGG pruefen: Ausschluesse, Exporteurdokumentation, Registrierung.
+4. Nationale Allgemeingenehmigungen (AWV) für nicht von EU-Regelung erfasste Faelle prüfen.
+5. Bedingungen der anwendbaren AGG prüfen: Ausschluesse, Exporteurdokumentation, Registrierung.
 6. Registrierungspflicht beim BAFA beachten und Nutzungslog anlegen.
 
 ## Rechtsrahmen
@@ -47,10 +47,10 @@ description: "Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passe
 
 ## Typische Fallstricke
 
-- EU-Allgemeingenehmigungen schliessen bestimmte Länder explizit aus; Ausschlusslisten aktuell pruefen.
+- EU-Allgemeingenehmigungen schliessen bestimmte Länder explizit aus; Ausschlusslisten aktuell prüfen.
 - Registrierungspflicht bei EU002/EU003 wird oft vergessen.
 - AGG deckt keine Embargosituationen ab; vorrangige Embargopruefen erforderlich.
-- Nationale AWV-AGGs koennen durch spaeteres EU-Recht ueberholt sein.
+- Nationale AWV-AGGs können durch spaeteres EU-Recht ueberholt sein.
 
 ## Schnittstellen zu anderen Skills
 

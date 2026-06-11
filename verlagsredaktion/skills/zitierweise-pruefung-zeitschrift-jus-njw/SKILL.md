@@ -3,7 +3,7 @@ name: zitierweise-pruefung-zeitschrift-jus-njw
 description: "Prueft die Zitierweise in Manuskripten gegen die jeweiligen Hausnormen von NJW NZA JuS JZ und verwandten Fachzeitschriften ohne Halluzination im Verlagsredaktion."
 ---
 
-# Zitierweise-Pruefung (NJW, NZA, JuS, JZ, ...)
+# Zitierweise-Prüfung (NJW, NZA, JuS, JZ, ...)
 
 ## Arbeitsweg
 
@@ -15,11 +15,11 @@ description: "Prueft die Zitierweise in Manuskripten gegen die jeweiligen Hausno
 
 ## Worum geht es konkret
 
-Jede juristische Fachzeitschrift hat eigene Hausnormen für Zitate. NJW zitiert anders als JZ, JuS anders als NJW, NZA hat eigene Kuerzel. Führe die Pruefung systematisch durch: jede Fundstelle pro Zeitschriftenstandard, mit Korrekturvorschlag - und ohne Halluzination, weil unbelegte Pinpoints sichtbar markiert bleiben.
+Jede juristische Fachzeitschrift hat eigene Hausnormen für Zitate. NJW zitiert anders als JZ, JuS anders als NJW, NZA hat eigene Kuerzel. Führe die Prüfung systematisch durch: jede Fundstelle pro Zeitschriftenstandard, mit Korrekturvorschlag - und ohne Halluzination, weil unbelegte Pinpoints sichtbar markiert bleiben.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn nach dem Format-Check, vor der Annahme. Klaeren Sie:
+Sie brauchen ihn nach dem Format-Check, vor der Annahme. Klären Sie:
 
 1. Zielzeitschrift (NJW, NZA, JuS, JZ, ZIP, BB, JuS, NJ, NVwZ ...)?
 2. Liegen die hausspezifischen Manuskriptrichtlinien vor?
@@ -30,15 +30,15 @@ Sie brauchen ihn nach dem Format-Check, vor der Annahme. Klaeren Sie:
 
 - Manuskript mit Fussnotenapparat.
 - Manuskriptrichtlinien der Zielzeitschrift (Hausstandard).
-- Zugang zur Verlagsdatenbank für Live-Pruefung der Pinpoints (sofern lizenziert).
+- Zugang zur Verlagsdatenbank für Live-Prüfung der Pinpoints (sofern lizenziert).
 - Verzeichnis abgekuerzter Kommentare und Zeitschriften.
 
 ## Praxisleitfaden / Schritt für Schritt
 
 1. **Fundstelleninventar.** Jede Fundstelle in Tabelle: Fussnote, Quellenart, Zitat-Wortlaut.
 2. **Klassifikation.** Rspr. / Kommentar / Aufsatz / Internet / Sonstiges.
-3. **Hausstandard pruefen** (siehe Trade-off-Matrix unten für Standards).
-4. **Pinpoint-Pruefung.** Az., Rn., Seite stimmig? Bei Live-Zugriff einzeln pruefen; ohne Zugriff als `[Pinpoint pruefen]` markieren.
+3. **Hausstandard prüfen** (siehe Trade-off-Matrix unten für Standards).
+4. **Pinpoint-Prüfung.** Az., Rn., Seite stimmig? Bei Live-Zugriff einzeln prüfen; ohne Zugriff als `[Pinpoint pruefen]` markieren.
 5. **Reihenfolge.** Rspr. vor Lit., neueste zuerst, innerhalb Lit. alphabetisch.
 6. **Wiederholungs-Zitate.** "aaO", "fn. X" konsistent verwenden.
 7. **Befund-Tabelle** an Autorin oder Lektorat.
@@ -59,7 +59,7 @@ Hinweis: Die exakte Hausnorm immer aus den jeweils geltenden Manuskriptrichtlini
 - BeckRS allein bei tragender BGH-Aussage: ungenuegend, NJW oder BGHZ verlangen.
 - Internetzitate immer mit "abrufbar unter [URL], zuletzt abgerufen am [Datum]".
 - aaO und Wiederholungen: maximal in derselben Fussnote oder unmittelbarer Folgefussnote - sonst Volltext-Zitat wiederholen.
-- Bei Autorinnen mit Hochschulhintergrund Aufsaetze gerne mit "(Rn.)" - praxisorientierte Autoren oft nur mit Seitenangabe. Klaeren statt umrechnen.
+- Bei Autorinnen mit Hochschulhintergrund Aufsaetze gerne mit "(Rn.)" - praxisorientierte Autoren oft nur mit Seitenangabe. Klären statt umrechnen.
 
 ## Mustertexte / Vorlagen
 
@@ -68,7 +68,7 @@ Hinweis: Die exakte Hausnorm immer aus den jeweils geltenden Manuskriptrichtlini
 | Fn. | Quelle | Befund | Korrekturvorschlag |
 |-----|--------|--------|--------------------|
 | 12 | BGH-Urteil | "BGH NJW 2026, 1234" (ohne Az. ohne Rn.) | "BGH, Urt. v. 12.05.2026 - I ZR 12/24, NJW 2026, 1234 Rn. 17" |
-| 19 | Aufsatz | "Canaris JZ 2019" (ohne Seite) | "Canaris, JZ 2019, 547 (549)" - Seite pruefen |
+| 19 | Aufsatz | "Canaris JZ 2019" (ohne Seite) | "Canaris, JZ 2019, 547 (549)" - Seite prüfen |
 | 27 | Internet | "https://..." (ohne Datum) | URL + "zuletzt abgerufen am [Datum]" ergaenzen |
 | 34 | Kommentar | "MueKo § 433 Rn. 12" (ohne Bearbeiter) | "Bearbeiter, in: MueKo BGB, 9. Aufl. 2024, § 433 Rn. 12" |
 

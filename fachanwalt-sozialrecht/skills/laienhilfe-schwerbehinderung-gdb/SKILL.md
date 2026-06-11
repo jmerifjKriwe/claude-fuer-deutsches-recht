@@ -35,7 +35,7 @@ Dieser Skill erklaert **Schwerbehinderung Gdb** so, dass auch Menschen ohne juri
 - Grad der Behinderung (GdB): § 152 SGB IX – Feststellung durch Versorgungsamt; Skala in Zehnerschritten von 20 bis 100.
 - Schwerbehinderung: ab GdB 50 (§ 2 Abs. 2 SGB IX); Ausweis nach § 152 Abs. 5 SGB IX.
 - Bewertungsgrundlage: Versorgungsmedizinische Grundsaetze (VersMedV / Anlage 2 zur VersorgungsmedizinV) – Funktionsbeeintraechtigung statt blosser Diagnose entscheidend (BSG-Linie).
-- Gesamt-GdB: Bildung nach § 152 Abs. 3 SGB IX – Gesamtschau, nicht Addition; Wechselwirkungen pruefen.
+- Gesamt-GdB: Bildung nach § 152 Abs. 3 SGB IX – Gesamtschau, nicht Addition; Wechselwirkungen prüfen.
 - Merkzeichen: G, aG, B, H, Bl, Gl, RF, TBl (§ 229 SGB IX, § 3 SchwbAwV); jeweils eigene Voraussetzungen.
 - Antrag und Aenderung: § 152 SGB IX – Erstantrag und Aenderungsantrag bei Verschlechterung.
 - Bedarfsfeststellung Teilhabe: § 13 SGB IX – Teilhabeplanverfahren bei mehreren Leistungstraegern (Reha, Eingliederungshilfe).

@@ -135,7 +135,7 @@ Dual Pricing (Online-Aufschlag pauschal) | NEIN | Art. 4e VGG
 Bevor die Preisklauseln in Händlerverträgen verabschiedet werden, klaere:
 1. Handelt es sich um eine verbindliche Mindestpreisklausel (Hardcore-Verstoß) oder echte UPE?
 2. Liegt der Marktanteil von klotzkette SA im relevanten Markt unter 30 % (Vertikal-GVO-Freistellungsschwelle)?
-3. Gibt es interne E-Mails oder Monitoring-Systeme, die als de-facto-Preisbindung ausgelegt werden koennen?
+3. Gibt es interne E-Mails oder Monitoring-Systeme, die als de-facto-Preisbindung ausgelegt werden können?
 4. Ist Dual Pricing Online/Offline geplant — wenn ja, auf tatsaechlichen Mehrkosten basierend?
 
 ## Aktuelle Rechtsprechung

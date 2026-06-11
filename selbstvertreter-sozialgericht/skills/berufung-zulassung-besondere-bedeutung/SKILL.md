@@ -13,7 +13,7 @@ description: "Zulassung der Berufung trotz fehlender Wertgrenze. Grundsaetzliche
 
 ## Worum geht es?
 
-Auch unter 750 EUR (bzw. ohne 1-Jahres-Leistung) ist Berufung moeglich — wenn das SG die Berufung zugelassen hat oder das LSG sie zulaesst. Diese Skill zeigt die Ausnahmen.
+Auch unter 750 EUR (bzw. ohne 1-Jahres-Leistung) ist Berufung möglich — wenn das SG die Berufung zugelassen hat oder das LSG sie zulaesst. Diese Skill zeigt die Ausnahmen.
 
 ## In einfacher Sprache
 
@@ -39,18 +39,18 @@ Wenn Ihre Streit-Sache klein ist, gibt es trotzdem manchmal Berufung. Wenn es um
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen: hat das SG zugelassen?
+### Schritt 1 — Prüfen: hat das SG zugelassen?
 
 Im Urteil steht am Ende, ob die Berufung zugelassen wurde. Wenn ja: direkt Berufung einlegen.
 
 Wenn nicht und Wertgrenze nicht erreicht: Nichtzulassungsbeschwerde noetig.
 
-### Schritt 2 — Zulassungsgruende pruefen
+### Schritt 2 — Zulassungsgruende prüfen
 
 **Grundsaetzliche Bedeutung**:
 
 - Eine Rechtsfrage, die allgemein relevant ist.
-- Beispiel: Auslegung einer neuen Norm, ueber die noch keine BSG-Entscheidung existiert.
+- Beispiel: Auslegung einer neuen Norm, über die noch keine BSG-Entscheidung existiert.
 
 **Divergenz**:
 
@@ -108,9 +108,9 @@ Diese Beschwerde ist anspruchsvoll. Anwalt mit PKH stark empfohlen.
 
 ### Schritt 6 — Bei Erfolg
 
-Das LSG laesst die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
+Das LSG lässt die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sehr formell**: hier muss man juristisch sauber argumentieren.
 - **Anwalt sinnvoll** mit PKH.

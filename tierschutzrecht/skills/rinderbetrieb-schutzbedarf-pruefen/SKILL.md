@@ -3,7 +3,7 @@ name: rinderbetrieb-schutzbedarf-pruefen
 description: "Rinderbetrieb: Schutzbedarf prüfen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Rinderbetrieb Schutzbedarf Pruefen
+# Rinderbetrieb Schutzbedarf Prüfen
 
 ## Arbeitsweg
 

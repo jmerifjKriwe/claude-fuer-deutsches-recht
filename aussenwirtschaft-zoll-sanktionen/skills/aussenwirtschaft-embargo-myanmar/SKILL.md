@@ -15,23 +15,23 @@ description: "EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnu
 
 ## Mandantenfall
 
-- Importeur bezieht Textilwaren aus Myanmar; Verbindung zu Militaer-nahem Unternehmen pruefen.
+- Importeur bezieht Textilwaren aus Myanmar; Verbindung zu Militaer-nahem Unternehmen prüfen.
 - Bank erhalt Auftrag für Korrespondenz-Zahlung an burmesischen Staatskonzern.
 - Maschinenproduzent erhalt Anfrage aus Myanmar für Lieferung von Industrie-Equipment.
 
 ## Erste Schritte
 
-1. EU-Sanktionsliste Myanmar (VO 401/2013) und aktuelle Ergaenzungsverordnungen pruefen.
-2. Militaer-Verbindung des Unternehmens pruefen (Unternehmensregister, Eigentuemerstruktur).
-3. Waffenembargo und Rueustungsguter-Verbote pruefen (Anhang VO 401/2013).
-4. Sektorale Einschraenkungen für Treibstoff, Holz, Jade und Rubine pruefen.
-5. Finanzsanktionen und Bereitstellungsverbote für gelistete Personen pruefen.
-6. Dokumentation der Pruefung und Freigabe-/Sperrempfehlung.
+1. EU-Sanktionsliste Myanmar (VO 401/2013) und aktuelle Ergaenzungsverordnungen prüfen.
+2. Militaer-Verbindung des Unternehmens prüfen (Unternehmensregister, Eigentuemerstruktur).
+3. Waffenembargo und Rueustungsguter-Verbote prüfen (Anhang VO 401/2013).
+4. Sektorale Einschraenkungen für Treibstoff, Holz, Jade und Rubine prüfen.
+5. Finanzsanktionen und Bereitstellungsverbote für gelistete Personen prüfen.
+6. Dokumentation der Prüfung und Freigabe-/Sperrempfehlung.
 
 ## Rechtsrahmen
 
-- **VO (EU) 401/2013**: Restriktive Massnahmen gegen Myanmar.
-- **Folgeverordnungen nach 2021-Coup**: Erweiterte Personenliste und sektorale Massnahmen.
+- **VO (EU) 401/2013**: Restriktive Maßnahmen gegen Myanmar.
+- **Folgeverordnungen nach 2021-Coup**: Erweiterte Personenliste und sektorale Maßnahmen.
 - **AWG § 18**: Strafbarkeit bei Embargo-Verstoss.
 - **Art. 2 VO (EU) 401/2013**: Waffenembargo und militaerische Gueter.
 - **UZK Art. 56**: Zolltarifanwendung bei Embargogutern.

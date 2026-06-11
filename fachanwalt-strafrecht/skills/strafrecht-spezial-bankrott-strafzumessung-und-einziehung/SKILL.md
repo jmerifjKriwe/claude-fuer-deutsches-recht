@@ -49,18 +49,18 @@ Die Insolvenzstraftaten haben drei *parallele* Belastungen:
 ### Bewaehrung Paragraph 56 StGB
 
 - **Bis 1 Jahr Freiheitsstrafe**: Bewaehrung bei guenstiger Sozialprognose (Paragraph 56 Abs 1 StGB).
-- **Ueber 1 bis 2 Jahre**: nur bei besonderen Umstaenden (Paragraph 56 Abs 2 StGB).
-- **Ueber 2 Jahre**: keine Bewaehrung moeglich.
+- **Über 1 bis 2 Jahre**: nur bei besonderen Umstaenden (Paragraph 56 Abs 2 StGB).
+- **Über 2 Jahre**: keine Bewaehrung möglich.
 
 Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Verteidigung.
 
 ### Einziehung Paragraph 73 StGB
 
 - Das aus der Tat **Erlangte** wird eingezogen.
-- Bei nicht koerperlich vorhandenem Vermoegen: Wertersatz Paragraph 73c StGB (Geldbetrag).
+- Bei nicht koerperlich vorhandenem Vermögen: Wertersatz Paragraph 73c StGB (Geldbetrag).
 - Bei Drittbeteiligten: Paragraph 73b StGB Drittbeteiligten-Einziehung.
 - Berechnungsmethode: Brutto- oder Nettoprinzip? Seit 2017 (Gesetz zur Reform der Vermoegensabschoepfung) **Bruttoprinzip** als Grundregel.
-- **Paragraph 73e StGB Haerteklausel**: bei unbilliger Haerte teilweise Absehen moeglich.
+- **Paragraph 73e StGB Haerteklausel**: bei unbilliger Haerte teilweise Absehen möglich.
 
 ### Paragraph 70 StGB Berufsverbot
 
@@ -76,21 +76,21 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 
 ### BZRG-Eintrag
 
-- Ab Geldstrafe ueber 90 Tagessaetzen oder Freiheitsstrafe.
-- **Tilgungsfristen** Paragraph 46 BZRG: 5 Jahre (Geldstrafe), 10 Jahre (Freiheitsstrafe bis 1 Jahr), 15 Jahre (Freiheitsstrafe ueber 1 Jahr).
+- Ab Geldstrafe über 90 Tagessaetzen oder Freiheitsstrafe.
+- **Tilgungsfristen** Paragraph 46 BZRG: 5 Jahre (Geldstrafe), 10 Jahre (Freiheitsstrafe bis 1 Jahr), 15 Jahre (Freiheitsstrafe über 1 Jahr).
 
 ## Praktikertipps der alten Hasen
 
 - **Wiedergutmachung von Anfang an organisieren.** Mit Insolvenzverwalter Vergleich verhandeln; teilweise Rueckzahlung; Anerkenntnis der Anfechtungsforderung. Strafmilderung greift fruehzeitig.
 - **Sachverstaendigengutachten zur Schadenshoehe.** Bei Einziehung wirkt jede Euro Schadensminderung direkt auf die Vermoegensabschoepfung. Gegen-Bilanzierung kann sechsstellige Betraege bewegen.
-- **Paragraph 73e StGB Haerteklausel.** Bei drohender Privatinsolvenz des Mandanten durch Wertersatz pruefen, ob Haerteklausel greift. Selten erfolgreich, aber moeglich.
+- **Paragraph 73e StGB Haerteklausel.** Bei drohender Privatinsolvenz des Mandanten durch Wertersatz prüfen, ob Haerteklausel greift. Selten erfolgreich, aber möglich.
 - **Bewaehrung-Argumente bei Insolvenzstraftaten:**
  - Erste Verurteilung,
  - Schadenswiedergutmachung,
  - Persoenlich-wirtschaftliche Spitzensituation als Tatauslqueger,
  - Stabilisierung der Lebensumstaende (neue Arbeit, Therapie).
 - **Berufsverbot vermeiden.** Argumentieren: Tat war einmalig, Mandant hat berufliche Position aufgegeben, neue Position ohne Vermoegensverantwortung. Berufsverbot kann zeitlich begrenzt oder verneint werden.
-- **D&O-Versicherung pruefen.** Bei Vorstaenden/GF deckt D&O regelmaessig zivilrechtliche Haftung, aber nicht strafrechtliche Geldstrafen. Einziehung ist aber nicht Strafe iSv Paragraph 73a StGB - hier ist D&O-Deckung manchmal moeglich.
+- **D&O-Versicherung prüfen.** Bei Vorstaenden/GF deckt D&O regelmaessig zivilrechtliche Haftung, aber nicht strafrechtliche Geldstrafen. Einziehung ist aber nicht Strafe iSv Paragraph 73a StGB - hier ist D&O-Deckung manchmal möglich.
 
 ## Trade-off-Matrix
 
@@ -114,11 +114,11 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 
 ## Mustertexte
 
-**Plaedoyer-Snippet (Strafzumessung):** "Mein Mandant hat den Schaden in voller Hoehe von EUR X an die Masse zurueckgefuehrt (Anlage P 1). Er hat ein vollumfaengliches Gestaendnis abgelegt (HV-Protokoll Bl. xx). Er ist Erststraefter. Eine Bewaehrungsstrafe ist auch ueber 1 Jahr nach Paragraph 56 Abs 2 StGB gerechtfertigt; die besonderen Umstaende liegen in der Erststrafenlage, der vollstaendigen Wiedergutmachung und der wirtschaftlichen Notlage der Tatzeit."
+**Plaedoyer-Snippet (Strafzumessung):** "Mein Mandant hat den Schaden in voller Höhe von EUR X an die Masse zurueckgefuehrt (Anlage P 1). Er hat ein vollumfaengliches Gestaendnis abgelegt (HV-Protokoll Bl. xx). Er ist Erststraefter. Eine Bewaehrungsstrafe ist auch über 1 Jahr nach Paragraph 56 Abs 2 StGB gerechtfertigt; die besonderen Umstaende liegen in der Erststrafenlage, der vollstaendigen Wiedergutmachung und der wirtschaftlichen Notlage der Tatzeit."
 
-**Antrag auf Absehen vom Berufsverbot:** "Es wird beantragt, von einem Berufsverbot nach Paragraph 70 StGB abzusehen. Mein Mandant hat seine Taetigkeit als GF aufgegeben und ist seit DD.MM.JJJJ als Angestellter (ohne Vermoegensverantwortung) bei der Y AG taetig (Anlage P 2). Eine Wiederholungsgefahr besteht damit nicht."
+**Antrag auf Absehen vom Berufsverbot:** "Es wird beantragt, von einem Berufsverbot nach Paragraph 70 StGB abzusehen. Mein Mandant hat seine Taetigkeit als GF aufgegeben und ist seit DD.MM.JJJJ als Angestellter (ohne Vermoegensverantwortung) bei der Y AG tätig (Anlage P 2). Eine Wiederholungsgefahr besteht damit nicht."
 
-**Antrag Haerteklausel Einziehung:** "Es wird beantragt, von der Anordnung einer Einziehung nach Paragraph 73 StGB im Hinblick auf den Wertersatz nach Paragraph 73c StGB unter Anwendung der Haerteklausel Paragraph 73e StGB zumindest teilweise abzusehen. Mein Mandant ist bereits durch die zivilrechtliche Erstattungsklage des Insolvenzverwalters in Hoehe von EUR Z belastet (Anlage P 3); zusaetzliche Vermoegensabschoepfung wuerde zu Privatinsolvenz fuehren."
+**Antrag Haerteklausel Einziehung:** "Es wird beantragt, von der Anordnung einer Einziehung nach Paragraph 73 StGB im Hinblick auf den Wertersatz nach Paragraph 73c StGB unter Anwendung der Haerteklausel Paragraph 73e StGB zumindest teilweise abzusehen. Mein Mandant ist bereits durch die zivilrechtliche Erstattungsklage des Insolvenzverwalters in Höhe von EUR Z belastet (Anlage P 3); zusaetzliche Vermoegensabschoepfung wuerde zu Privatinsolvenz fuehren."
 
 ## Quellen Stand 06/2026
 
@@ -132,5 +132,5 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 - Paragraph 76 Abs 3 Satz 2 Nr 3 AktG Vorstands-Sperre.
 - Paragraph 46 BZRG Tilgungsfristen.
 - Gesetz zur Reform der strafrechtlichen Vermoegensabschoepfung (in Kraft 01.07.2017) - Bruttoprinzip.
-- BGH staendige Rspr. zur Wertgrenze "grosses Ausmass" bei EUR 50.000.
+- BGH staendige Rspr. zur Wertgrenze "großes Ausmass" bei EUR 50.000.
 - BGH staendige Rspr. zum Verhaeltnis Einziehung und zivilrechtlicher Schaden.

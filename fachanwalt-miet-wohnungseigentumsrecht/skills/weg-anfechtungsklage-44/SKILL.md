@@ -60,10 +60,10 @@ Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klä
 
 ### BGH-Rechtsprechung (WEMoG-Reform 01.12.2020) — verifizierte Eckpunkte, Stand 05/2026
 
-Belegt ueber bundesgerichtshof.de bzw. dejure.org:
+Belegt über bundesgerichtshof.de bzw. dejure.org:
 
 - **BGH, Beschl. v. 07.11.2024 – V ZB 6/24** — Bei verspaeteter Klagezustellung durch das Gericht trifft den Anfechtungsklaeger eine Erkundigungsobliegenheit; im Regelfall innerhalb eines Jahres nach Ablauf der Monatsfrist § 45 Satz 1 WEG.
-- **BGH, Urt. v. 14.02.2025 – V ZR 236/23** — Erstmalige Belastung der bislang nicht beteiligten Wohnungseigentuemer mit Erhaltungskosten eines nur einem Teil der Eigentuemer dienenden Gebaeudeteils widerspricht idR ordnungsmäßiger Verwaltung; nur bei sachlichem Grund anders. Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2025&nr=140714&linked=urt&Blank=1&file=dokument.pdf
+- **BGH, Urt. v. 14.02.2025 – V ZR 236/23** — Erstmalige Belastung der bislang nicht beteiligten Wohnungseigentuemer mit Erhaltungskosten eines nur einem Teil der Eigentümer dienenden Gebaeudeteils widerspricht idR ordnungsmäßiger Verwaltung; nur bei sachlichem Grund anders. Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2025&nr=140714&linked=urt&Blank=1&file=dokument.pdf
 - **BGH, Urt. v. 14.02.2025 – V ZR 128/23** — Beschlusskompetenz für Aenderung des Verteilungsschluessels umfasst auch die Verteilung für die Erhaltungsruecklage (§ 16 Abs. 2 Satz 2 WEG). Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23
 - **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Vorbefassungsobliegenheit bei Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG (Waermepumpe): es genuegt, in der Versammlung einen Beschluss erbeten zu haben; die Klagezulaessigkeit haengt nicht davon ab, ob Antragsteller weitere Informationen vorgelegt hat.
 - **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderungen (Klimaanlage): Beurteilung der unbilligen Benachteiligung gem. § 20 Abs. 4 WEG; unmittelbare Auswirkungen sind massgeblich. Dejure: https://dejure.org/2025,9080
@@ -87,14 +87,14 @@ Belegt ueber bundesgerichtshof.de bzw. dejure.org:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — WEG-Beschlussanfechtungsklage § 44 WEG | Klageschrift; Template unten |
 | Variante A — Mandant will Beschluss aufrechterhalten | Verteidigungsstrategie; keine eigene Klage |
 | Variante B — Formfehler statt Inhaltsfehler | Kassation durch Formfehler leichter; Hauptantrag Formfehler |
-| Variante C — Mehrheitseigentuemer blockiert | Minderheitenschutz WEG pruefen; einstweilige Verfuegung |
+| Variante C — Mehrheitseigentuemer blockiert | Minderheitenschutz WEG prüfen; einstweilige Verfuegung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -179,7 +179,7 @@ II. Begründetheit
 [Unterschrift]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -14,8 +14,8 @@ description: "AGB-Vertragsstrafe nach § 309 Nr. 6 BGB. Skill vertieft die AGB-r
 
 ## Norm
 
-- § 309 Nr. 6 BGB: Vertragsstrafe in B2C-AGB grundsaetzlich unwirksam, soweit Verzug nicht erfasst wird.
-- § 310 Abs. 1 BGB im B2B: § 309 nicht direkt anwendbar, aber Wertung ueber § 307 BGB.
+- § 309 Nr. 6 BGB: Vertragsstrafe in B2C-AGB grundsätzlich unwirksam, soweit Verzug nicht erfasst wird.
+- § 310 Abs. 1 BGB im B2B: § 309 nicht direkt anwendbar, aber Wertung über § 307 BGB.
 
 ## B2C
 
@@ -26,17 +26,17 @@ description: "AGB-Vertragsstrafe nach § 309 Nr. 6 BGB. Skill vertieft die AGB-r
 
 - Vertragsstrafe wirksam, soweit angemessen.
 - Faustregel: Hoechstgrenze bis ca. 10 Prozent des Vertragswerts.
-- BGH X ZR 36/16 zur angemessenen Hoehe in Werkvertraegen.
+- BGH X ZR 36/16 zur angemessenen Höhe in Werkvertraegen.
 
 ## Arbeitsvertrag
 
-- BAG 8 AZR 73/13: Vertragsstrafe bis zu einem Bruttomonatsgehalt regelmaessig zulaessig.
+- BAG 8 AZR 73/13: Vertragsstrafe bis zu einem Bruttomonatsgehalt regelmaessig zulässig.
 - Bei Wettbewerbsklauseln Kombination mit § 74 HGB beachten.
 
 ## Pruefraster
 
 1. Vertragsart (B2C / B2B / Arbeit)?
 2. Vertragsstrafe oder Schadenspauschalierung?
-3. Hoehe angemessen?
+3. Höhe angemessen?
 4. Verzugsfall erfasst?
 5. Transparenz?

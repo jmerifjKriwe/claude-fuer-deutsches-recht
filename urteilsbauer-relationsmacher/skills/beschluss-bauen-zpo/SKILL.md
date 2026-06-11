@@ -177,11 +177,11 @@ gegeben.
 
 ## 5) Unterschied zum Urteil
 
-- Beschluss ergeht **ohne** muendliche Verhandlung (Paragraf 128 IV ZPO), Urteil grundsaetzlich **mit** (Paragraf 128 I ZPO).
+- Beschluss ergeht **ohne** muendliche Verhandlung (Paragraf 128 IV ZPO), Urteil grundsätzlich **mit** (Paragraf 128 I ZPO).
 - Begründung beim Beschluss kuerzer — aber nicht unkenntlich.
 - Rechtsmittel beim Beschluss ist meist die **sofortige Beschwerde** (Paragraf 567 ZPO, 2-Wochen-Frist), nicht die Berufung.
 - **Tatbestand entfaellt** beim Beschluss in der Regel; bei Endentscheidungen (z.B. Versäumnisbeschluss Paragraf 331 III ZPO) ist eine knappe Sachverhaltsdarstellung sinnvoll.
-- Beschlüsse koennen vom **Vorsitzenden allein** ergehen, soweit nicht Kammerentscheidung vorgeschrieben (Paragraf 348 ZPO Einzelrichter).
+- Beschlüsse können vom **Vorsitzenden allein** ergehen, soweit nicht Kammerentscheidung vorgeschrieben (Paragraf 348 ZPO Einzelrichter).
 
 ## 6) Typische Fehler
 

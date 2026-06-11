@@ -23,7 +23,7 @@ Die Kreditoren-Saldenliste zeigt alle Verbindlichkeiten gegenueber Lieferanten. 
 4. Welche Faelligkeit ist Ziel-Zahlungsdauer (z.B. 30 Tage netto)?
 5. Welche Lieferanten haben gestundete Posten?
 6. Welche Lieferanten mit Liefersperre gedroht?
-7. Welche Steuer- oder SV-Verbindlichkeiten sind separat zu pruefen?
+7. Welche Steuer- oder SV-Verbindlichkeiten sind separat zu prüfen?
 8. Welche Mandantenkontingenz für Zahlungsdisposition?
 
 ## Rechtlicher Rahmen
@@ -75,12 +75,12 @@ SUMME [X]
 | Skonti-Frist (in 5-10 Tagen) | [X Prozent] | Sofort zahlen (Skonti-Gewinn) |
 | Nicht faellig (10-30 Tage) | [Y Prozent] | Im Plan |
 | Faellig (0-15 Tage ueberfaellig) | [Z Prozent] | Sofort zahlen |
-| Ueber 15 Tage ueberfaellig | [A Prozent] | Krisensignal; mit Lieferanten klaeren |
-| Ueber 30 Tage ueberfaellig | [B Prozent] | Drohende Liefersperre; § 17 InsO-Indiz |
+| Über 15 Tage ueberfaellig | [A Prozent] | Krisensignal; mit Lieferanten klären |
+| Über 30 Tage ueberfaellig | [B Prozent] | Drohende Liefersperre; § 17 InsO-Indiz |
 
 ### Phase 4 — Skonti-Optimierung
 
-- Skonti-Pruefung: Skonti 2 Prozent in 10 Tagen vs. 30 Tage netto = effektive Verzinsung 36 Prozent p.a.
+- Skonti-Prüfung: Skonti 2 Prozent in 10 Tagen vs. 30 Tage netto = effektive Verzinsung 36 Prozent p.a.
 - Bei ausreichender Liquiditaet: Skonti immer nutzen.
 - Bei knapper Liquiditaet: Skonti-Optimum berechnen (Skonti-Wert vs. Zinskosten Kontokorrent).
 
@@ -99,10 +99,10 @@ SUMME [X]
 
 ## Strategie und Praxis-Tipps
 
-- Skonti sind oft die guenstigste Finanzierungsform — Verzinsung 36-72 Prozent p.a. Aequivalent.
+- Skonti sind oft die guenstigste Finanzierungsform — Verzinsung 36-72 Prozent p.a. Äquivalent.
 - Bei knapper Liquiditaet trotzdem Kernlieferanten zuerst (Lieferkette nicht abreissen lassen).
 - SV-Beitraege haben absolute Prioritaet — § 266a StGB-Risiko.
-- Bei ueber 90 Tage ueberfaelligen Lieferantenrechnungen: § 17 InsO-Indiz; Hinweispflicht § 102 StaRUG ausgeloest.
+- Bei über 90 Tage ueberfaelligen Lieferantenrechnungen: § 17 InsO-Indiz; Hinweispflicht § 102 StaRUG ausgeloest.
 - StBVV: OPOS-Auswertung in Buchfuehrungspauschale; Zahlungsdisposition optional Zusatzauftrag.
 - DATEV-Tipp: DATEV-Zahlungstrager mit Skonti-Faelligkeitspruefung.
 

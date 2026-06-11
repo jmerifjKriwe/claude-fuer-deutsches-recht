@@ -17,16 +17,16 @@ description: "Zolllager und Freilager nach UZK Art. 240 ff: Bewilligungsvorausse
 
 - Spediteur moechte Zolllager für Nicht-Unionsware beantragen; Voraussetzungen und Antrag.
 - Lagerhalter hat Fehlmenge im Zolllager festgestellt; Nacherhebungsrisiko und Meldepflicht.
-- Unternehmen prueft ob Freilager als Alternative zum Zolllager sinnvoll ist.
+- Unternehmen prüft ob Freilager als Alternative zum Zolllager sinnvoll ist.
 
 ## Erste Schritte
 
 1. Lagerart bestimmen: Oeffentliches Zolllager (Typ I/II) oder privates Zolllager (Typ III/IV/V)?
-2. Bewilligungsvoraussetzungen nach UZK-DA Art. 189 pruefen: Wirtschaftliches Beduerfnis Lagerbuchfuehrung Sicherheitsleistung.
+2. Bewilligungsvoraussetzungen nach UZK-DA Art. 189 prüfen: Wirtschaftliches Beduerfnis Lagerbuchfuehrung Sicherheitsleistung.
 3. Antrag beim Hauptzollamt mit Lagerbeschreibung und Lagerbuchkonzept stellen.
 4. Lagerbuch einrichten: Wareneingaenge Ausgaenge Bestandskontrolle und Fehlmengenmeldung.
 5. Sicherheitsleistung kalkulieren: Zollwert der gelagerten Ware x Zollsatz x Sicherheitsfaktor.
-6. Freilager-Option pruefen: Freilager nach Art. 243 UZK für Nicht-Unionsware mit Zollfreiheit.
+6. Freilager-Option prüfen: Freilager nach Art. 243 UZK für Nicht-Unionsware mit Zollfreiheit.
 
 ## Rechtsrahmen
 
@@ -47,7 +47,7 @@ description: "Zolllager und Freilager nach UZK Art. 240 ff: Bewilligungsvorausse
 
 ## Typische Fallstricke
 
-- Fehlmengen im Zolllager loesen automatisch Zollschuld aus wenn keine Entlastung moeglich.
+- Fehlmengen im Zolllager loesen automatisch Zollschuld aus wenn keine Entlastung möglich.
 - Lagerbuch unvollstaendig: BAFA- und Zollpruefung kann Lager sperren.
 - Warenfremde Nutzung des Zolllagers (Verarbeitung ohne Bewilligung) fuehrt zu Statusverlust.
 - Ueberschreitung der Bewilligungsdauer bei Bewilligung auf Zeit ohne Verlaengerungsantrag.

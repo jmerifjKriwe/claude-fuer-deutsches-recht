@@ -22,7 +22,7 @@ Keine Rueckfrage noetig, wenn Zahlen vorliegen.
 
 - **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR), Kapitel Darstellung
 - **§ 45 GGO** — Darstellung in der Begruendung
-- **One-in-one-out-Regel** der Bundesregierung 2015 (Stand zu pruefen)
+- **One-in-one-out-Regel** der Bundesregierung 2015 (Stand zu prüfen)
 
 ## Pruefraster / Schritt für Schritt
 
@@ -74,7 +74,7 @@ Tabelle:
 
 Bausteine:
 
-- "Das Vorhaben verursacht einen einmaligen Umstellungsaufwand für die Wirtschaft in Hoehe von [X] Mio EUR und einen jaehrlich laufenden Aufwand von [Y] Mio EUR."
+- "Das Vorhaben verursacht einen einmaligen Umstellungsaufwand für die Wirtschaft in Höhe von [X] Mio EUR und einen jaehrlich laufenden Aufwand von [Y] Mio EUR."
 - "Der NKR weist darauf hin, dass die ressortseitige Darstellung den jaehrlichen Aufwand und den einmaligen Aufwand nicht trennt; eine getrennte Ausweisung ist methodisch erforderlich."
 - "Der mehrjaehrige Re-Zertifizierungsaufwand wurde mit [Wert / Jahre] annualisiert."
 
@@ -89,6 +89,6 @@ Bausteine:
 
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - § 45 GGO
-- One-in-one-out-Beschluss der Bundesregierung (Stand zu pruefen)
+- One-in-one-out-Beschluss der Bundesregierung (Stand zu prüfen)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

@@ -27,7 +27,7 @@ Schweissnahtpruefung (VT, UT, MT) und Korrosionsschutz-Trockenschichtdickenmessu
 
 ## Erste Schritte auf der Baustelle
 
-1. Pruefung Stahlbau-Plaene: Schweissnahtguete nach DIN EN ISO 5817 Gueteklasse B/C, Verbindungsschrauben HR
+1. Prüfung Stahlbau-Plaene: Schweissnahtguete nach DIN EN ISO 5817 Gueteklasse B/C, Verbindungsschrauben HR
 2. Begleituntersuchung Stahlmontage: Sichtpruefung VT aller Schweissnaehte, stichprobenartig UT Stumpfnaehte
 3. Korrosionsschutzpruefung: Trockenschichtdickenmessung (Dualscope MP40), Haftzugpruefung Korrosionsschutzanstrich
 4. Kranbahnmontage: Parallelitaet der Schienen max. +/-3 mm/5 m nach DIN 15018, Wechsel-Schweissprotokoll
@@ -56,7 +56,7 @@ Schweissnahtpruefung (VT, UT, MT) und Korrosionsschutz-Trockenschichtdickenmessu
 
 - Dalux Field Stahlbau: Schweissnahtrisse als Foto mit GPS und Bauteilnummer, Verantwortlicher, Frist
 - Drohnenflug DJI Mavic 3 Enterprise: Dachflaecheninspektion Trapezblech, Lichtbaender, Kehlrinnen
-- Pruefberichte UT: Ultraschall-Pruefprotokoll nach DIN EN ISO 17640, Defektangaben, Pruefer-Qualifikation
+- Pruefberichte UT: Ultraschall-Pruefprotokoll nach DIN EN ISO 17640, Defektangaben, Prüfer-Qualifikation
 - Werkszeugnisse Stahl: EN 10025 Werksbescheinigung 3.1 je Stuetzen- und Traegercharge
 - Kran-Abnahmedokumentation: Belastungstest mit 125 Prozent Nennlast, Messprotokoll TUeV
 

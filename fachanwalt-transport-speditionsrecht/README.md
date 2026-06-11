@@ -93,7 +93,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `orientierung-mandat-fachanwaltschaft` | Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skill anhand Sachverhalt auswaehlen: Normen: §§ 407 ff. HGB, CMR, ADSP. Prüfraster: Vertragsart... |
 | `output-waehlen` | Output-Wahl für Fachanwalt Transport- und Speditionsrecht: stimmt Adressat (Absender, Frachtführer, Empfänger), Frist (CMR Klage 1 Jahr / 3 Jahre Vorsatz) und Form auf den Zweck ab — typische Outputs: Schadensklage, Sicherungsvertrag, Fr... |
 | `paketdienst-haftung-paragraf-449-hgb` | Paketdienst Haftung § 449 HGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
-| `pruefen-abschlussprodukt-und-uebergabe` | Pruefen: Abschlussprodukt und Übergabe: Pruefen: Abschlussprodukt und Übergabe. |
+| `pruefen-abschlussprodukt-und-uebergabe` | Prüfen: Abschlussprodukt und Übergabe: Prüfen: Abschlussprodukt und Übergabe. |
 | `quellen-livecheck` | Quellen-Live-Check für Fachanwalt Transport- und Speditionsrecht: prüft Normen (HGB §§ 407 ff. Frachtrecht, CMR (Straße), Montrealer Übk. (Luft)) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Handelsgericht und... |
 | `regeln-mehrparteien-konflikt-und-interessen` | Regeln: Mehrparteienkonflikt und Interessenmatrix: Regeln: Mehrparteienkonflikt und Interessenmatrix. |
 | `reklamationsschreiben-cmr-hgb` | Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten: Normen: § 438 HGB, Art. 30 CMR. Prüfraster: Reklamationsfrist sieben Tage, schr... |
@@ -108,7 +108,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `trans-kabotage-marktzugang-spezial` | Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotagebefoerderungen, Mindestlohn, Entsenderecht: Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotageb... |
 | `trans-mandantenkommunikation-entscheidungsvorlage` | Trans: Mandantenkommunikation und Entscheidungsvorlage: Trans: Mandantenkommunikation und Entscheidungsvorlage. |
 | `trans-multimodaler-transport-spezial` | Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schadensort, Network-Liability, Through-Bill of Lading: Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schaden... |
-| `transport-adr-gefahrgut` | Gefahrguttransport-Haftung und ADR-Verstoss klaeren: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bußgelder: Normen: ADR, §§ 407 ff. HGB, Gefahrgu... |
+| `transport-adr-gefahrgut` | Gefahrguttransport-Haftung und ADR-Verstoss klären: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bußgelder: Normen: ADR, §§ 407 ff. HGB, Gefahrgu... |
 | `transport-autonome-lkw-konvois-haftung-1d-stvg` | Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren: Fahrzeughalterhaftung, KI-Systemfehler: Normen: § 1d StVG, §§ 7 18 StVG, §§ 407 ff. HGB. Prüf... |
 | `transport-cmr-schadensregulierung` | Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen: Normen: Art. 17 ff. 23 ff. CMR. Prüfraster: Schadensanzeige, Haftungsgrenzen 8.33 SZR je Kilogr... |
 | `transport-paragraf-431-hgb` | Transport § 431 HGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |

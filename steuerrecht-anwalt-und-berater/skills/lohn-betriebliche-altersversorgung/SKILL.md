@@ -13,7 +13,7 @@ description: "Betriebliche Altersversorgung bAV Grundlagen Durchführungswege. A
 
 ## Kernsachverhalt
 
-Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungsleistung zugunsten des AN, die zusaetzlich zur gesetzlichen RV traegt. Funf Durchfuehrungswege (BetrAVG): Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds. Steuerliche Förderung ueber § 3 Nr. 63 EStG (bis 8 Prozent BBG steuerfrei, bis 4 Prozent BBG SV-frei) sowie § 100 EStG (Förderung Geringverdiener). Pflicht: AG-Zuschuss zur Entgeltumwandlung 15 Prozent nach BRSG.
+Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungsleistung zugunsten des AN, die zusaetzlich zur gesetzlichen RV traegt. Funf Durchfuehrungswege (BetrAVG): Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds. Steuerliche Förderung über § 3 Nr. 63 EStG (bis 8 Prozent BBG steuerfrei, bis 4 Prozent BBG SV-frei) sowie § 100 EStG (Förderung Geringverdiener). Pflicht: AG-Zuschuss zur Entgeltumwandlung 15 Prozent nach BRSG.
 
 ## Kaltstart-Rueckfragen
 
@@ -22,7 +22,7 @@ Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungslei
 3. Welche Beitragshoehe pro Monat?
 4. Liegt eine Versorgungszusage vor (Vertragstext)?
 5. Welche Steuerklasse hat der AN? (Geringverdiener-Förderung § 100 EStG bei Niedriglohn)
-6. Wann erfolgt der Renteneintritt des AN (Pruefung Vertragslaufzeit)?
+6. Wann erfolgt der Renteneintritt des AN (Prüfung Vertragslaufzeit)?
 7. Welche Mitarbeiterzahl im Betrieb (BAVAG-Beratungspflichten)?
 8. Welche bAV-Tarifvertraege (z.B. Metall- und Elektroindustrie) sind anwendbar?
 
@@ -38,7 +38,7 @@ Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungslei
 
 **§ 3 Nr. 63 EStG** — Steuerfreiheit Direktversicherung/Pensionskasse/Pensionsfonds bis 8 Prozent BBG.
 
-**§ 100 EStG** — Förderung Geringverdiener (Hochstgehalt ueber bAV-Beitrag).
+**§ 100 EStG** — Förderung Geringverdiener (Hochstgehalt über bAV-Beitrag).
 
 **§ 19 EStG** — Versorgungsbezuege in Auszahlungsphase.
 
@@ -59,7 +59,7 @@ Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungslei
 | Weg | Charakter | Steuer (Ansparphase) | SV (Ansparphase) | Auszahlung |
 |---|---|---|---|---|
 | Direktversicherung | Versicherungsvertrag AG zu Versicherer | Bis 8 Prozent BBG steuerfrei (§ 3 Nr. 63 EStG) | Bis 4 Prozent BBG SV-frei | Voll lohnsteuerpflichtig in Auszahlung |
-| Pensionskasse | Sondervermoegen ueber Pensionskasse | Wie Direktversicherung | Wie Direktversicherung | Wie Direktversicherung |
+| Pensionskasse | Sondervermoegen über Pensionskasse | Wie Direktversicherung | Wie Direktversicherung | Wie Direktversicherung |
 | Pensionsfonds | Kapitalmarktorientiert | Wie Direktversicherung | Wie Direktversicherung | Wie Direktversicherung |
 | Direktzusage | AG-eigene Versorgungszusage | Bei Auszahlung lohnsteuerpflichtig | SV-frei (bis BBG bei Auszahlung) | Voll lohnsteuerpflichtig |
 | Unterstuetzungskasse | Eigene rechtsfaehige Kasse | Wie Direktzusage | Wie Direktzusage | Wie Direktzusage |
@@ -68,13 +68,13 @@ Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungslei
 
 - Bis 8 Prozent der RV-BBG (West) steuerfrei.
 - Davon bis 4 Prozent BBG zusaetzlich SV-frei.
-- BBG-West RV 2025: 96.600 EUR/Jahr; 8 Prozent = 7.728 EUR steuerfrei, 4 Prozent = 3.864 EUR SV-frei (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen).
+- BBG-West RV 2025: 96.600 EUR/Jahr; 8 Prozent = 7.728 EUR steuerfrei, 4 Prozent = 3.864 EUR SV-frei (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen).
 - AN-Vorteil: niedrigeres Brutto in Ansparphase, hoehere Rente.
 
 ### Phase 3 — § 100 EStG Geringverdiener-Förderung
 
-- AG kann für AN mit Bruttolohn unter Schwellenwert (§ 100 Abs. 3 Nr. 3 EStG: 2.575 EUR/Monat seit dem Grundrentengesetz 2020; Schwellenwert wird nicht automatisch angepasst, bei Gesetzesaenderung pruefen) BAV-Foerderbetrag erhalten.
-- Foerderbetrag: 30 Prozent des AG-Beitrags (max. 288 EUR/Jahr je AN — Stand 2025, § 100 Abs. 1 EStG; BMF-Schreiben zu § 100 EStG pruefen).
+- AG kann für AN mit Bruttolohn unter Schwellenwert (§ 100 Abs. 3 Nr. 3 EStG: 2.575 EUR/Monat seit dem Grundrentengesetz 2020; Schwellenwert wird nicht automatisch angepasst, bei Gesetzesaenderung prüfen) BAV-Foerderbetrag erhalten.
+- Foerderbetrag: 30 Prozent des AG-Beitrags (max. 288 EUR/Jahr je AN — Stand 2025, § 100 Abs. 1 EStG; BMF-Schreiben zu § 100 EStG prüfen).
 - AG verrechnet Förderung mit abzufuehrender LSt in der LSt-Anmeldung.
 
 ### Phase 4 — § 1a BetrAVG 15-Prozent-Zuschuss
@@ -85,21 +85,21 @@ Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungslei
 
 ### Phase 5 — Auszahlungsphase
 
-- bAV-Renten lohnsteuerpflichtig in voller Hoehe (nachgelagerte Besteuerung).
-- KV/PV-Pflicht in der Auszahlungsphase (Freibetrag für Pflichtversicherte Rentner nach § 226 Abs. 2 SGB V; aktueller Freibetrag ueber GKV-Spitzenverband pruefen).
+- bAV-Renten lohnsteuerpflichtig in voller Höhe (nachgelagerte Besteuerung).
+- KV/PV-Pflicht in der Auszahlungsphase (Freibetrag für Pflichtversicherte Rentner nach § 226 Abs. 2 SGB V; aktueller Freibetrag über GKV-Spitzenverband prüfen).
 - Sondersituation pauschal versteuerte Direktversicherung (§ 40b EStG a.F.): Auszahlung ggf. nicht voll steuerpflichtig (Altvertraege bis 2004).
 
 ### Phase 6 — Beratung Mandant
 
 - Vergleich Durchfuehrungswege mit Mandant.
 - Bei kleinen Mandanten oft Direktversicherung praktisch (kein eigener Pensionsverwaltungs-Aufwand).
-- Bei Konzernen Pensionsfonds oder Direktzusage moeglich.
-- Vertragstext mit Rechtsanwalt pruefen lassen.
+- Bei Konzernen Pensionsfonds oder Direktzusage möglich.
+- Vertragstext mit Rechtsanwalt prüfen lassen.
 
 ## Strategie und Praxis-Tipps
 
 - Direktversicherung ist Standard für kleine Mandanten — wenig Aufwand, klare Förderung.
-- 4-Prozent-Grenze SV-Frei genau pruefen — daruber hinaus SV-pflichtig.
+- 4-Prozent-Grenze SV-Frei genau prüfen — daruber hinaus SV-pflichtig.
 - AG-Zuschuss 15 Prozent ist Pflicht — wer das nicht zahlt, riskiert AN-Klagen.
 - Bei Direktzusagen: bilanzielle Behandlung (Rueckstellung) zu beachten — § 6a EStG.
 - StBVV: bAV-Beratung als Zusatzauftrag (Komplex).
@@ -114,6 +114,6 @@ Stand: 05/2026.
 - SGB IV; SvEV.
 - BMF v. 06.12.2017, v. 18.03.2022.
 - BRSG.
-- BBG-West RV 2025: 96.600 EUR; § 100 EStG Schwellenwert 2.575 EUR/Monat, Foerderbetrag max. 288 EUR/Jahr (Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 und BMF-Schreiben pruefen).
+- BBG-West RV 2025: 96.600 EUR; § 100 EStG Schwellenwert 2.575 EUR/Monat, Foerderbetrag max. 288 EUR/Jahr (Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 und BMF-Schreiben prüfen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Werte 2025 eingesetzt), 1 ersetzt (Rentner-Freibetrag Pruefhinweis ohne Marker) -->

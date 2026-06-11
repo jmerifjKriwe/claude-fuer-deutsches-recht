@@ -15,7 +15,7 @@ description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfa
 
 ## Triage zu Beginn
 1. Welches Element des Lernprofils soll angepasst werden: Lernstil, Faecher, Bundesland, Prüfungsziel?
-2. Gibt es einen konkreten Anlass (neue Pruefung, Schwachstelle erkannt, Semesterwechsel)?
+2. Gibt es einen konkreten Anlass (neue Prüfung, Schwachstelle erkannt, Semesterwechsel)?
 3. Welches Prüfungsziel gilt jetzt (Zwischenpruefung, 1. StEx, 2. StEx, Schwerpunktbereich)?
 4. Welche Ressourcen stehen zur Verfuegung (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, Bibliothek, Lerngruppe)?
 
@@ -23,7 +23,7 @@ description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfa
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 13 JAG NRW — Pruefungsinhalte 1. Staatsexamen (exemplarisch); andere Länder aequivalent
+- § 13 JAG NRW — Pruefungsinhalte 1. Staatsexamen (exemplarisch); andere Länder äquivalent
 - Art. 3 GG — Chancengleichheit: Grundlage für bundeslandspezifische Lernprofile
 - §§ 133, 157 BGB — Auslegungsmethoden: unveraendert kernelementig in allen Profilen
 - § 195 BGB — Verjährung als Dauerklassiker: bleibt in jedem Profil

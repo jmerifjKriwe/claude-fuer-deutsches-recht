@@ -22,7 +22,7 @@ Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in
 | --- | --- | --- |
 | Verfassungsbeschwerde Paragraf 93 Iii Bverfgg Skelett | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/verfassungsrecht/verfassungsbeschwerde-paragraf-93-iii-bverfgg-skelett.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/verfassungsrecht/verfassungsbeschwerde-paragraf-93-iii-bverfgg-skelett.odt) |
 
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich pruefen und an konkreten Fall anpassen.*
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 
@@ -114,7 +114,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `gesetzgebungskompetenz-pruefen` | Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Prüfraster: ausschließliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirk... |
 | `grundgesetz-fristen-form-und-zustaendigkeit` | Grundgesetz: Fristen, Form, Zuständigkeit und Rechtsweg im Verfassungsrecht. |
 | `grundrechte-fehlerkatalog` | Grundrechte Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `grundrechtspruefung-acht-formelle-interessen` | Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Massnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtl... |
+| `grundrechtspruefung-acht-formelle-interessen` | Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Maßnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtl... |
 | `grundrechtspruefung-und-verhaeltnismaessigkeit` | Grundrechtsprüfung und Verhältnismäßigkeit: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Verfassungsrecht. |
 | `live-schriftsatz-brief-und-memo-bausteine` | Live: Schriftsatz-, Brief- und Memo-Bausteine im Verfassungsrecht. |
 | `mandantenkommunikation-redteam-qualitygate` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Verfassungsrecht. |
@@ -138,17 +138,17 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `verfassung-grundrechte-uebersicht` | Grundrechte des GG Ueberblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken,... |
 | `verfassung-grundrechte-und-eu-recht` | Verhaeltnis GG-Grundrechte und EU-Grundrechtecharta: Solange-II BVerfGE 73 S. 339, Bananenmarkt BVerfGE 102 S. 147, Recht auf Vergessen I sowie II BVerfG 1 BvR 16 aus 13 und 1 BvR 276 aus 17. Pruefraster: Anwendungsbereich Charta vs. GG... |
 | `verfassung-konkrete-normenkontrolle` | Konkrete Normenkontrolle Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG: Vorlage durch Gericht, das Gesetz für verfassungswidrig haelt. Vorlagepflicht und Entscheidungserheblichkeit im Verfassungsrecht. |
-| `verfassung-organstreitverfahren` | Organstreitverfahren Art. 93 Abs. 1 Nr. 1 GG, § 13 Nr. 5, §§ 63 ff. BVerfGG: Antragsteller (Verfassungsorgane, mit eigenen Rechten ausgestattete Teile), Antragsgegenstand Massnahme Verfassungsorgan, Frist 6 Monate. Pruefraster im Verfass... |
+| `verfassung-organstreitverfahren` | Organstreitverfahren Art. 93 Abs. 1 Nr. 1 GG, § 13 Nr. 5, §§ 63 ff. BVerfGG: Antragsteller (Verfassungsorgane, mit eigenen Rechten ausgestattete Teile), Antragsgegenstand Maßnahme Verfassungsorgan, Frist 6 Monate. Pruefraster im Verfass... |
 | `verfassung-parteiverbot` | Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Pruefraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG im Verfassungsrecht. |
 | `verfassung-petition-und-verfassungsschutz` | Petitionsrecht Art. 17 GG und Verfassungsschutz: Verhaeltnis demokratische Teilhabe und Sicherheitsbehoerden. Beobachtung politischer Parteien und Akteure, Rechtsschutz vor VG im Verfassungsrecht. |
 | `verfassung-staatsorganisation` | Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Pruefraster Staatsfunktionen im Verfassungsrecht. |
 | `verfassungsbeschwerde-entwurf-formelle` | Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Prüfraster: Beschwerdeführerbefugnis Beschwerdeobje... |
 | `verfassungsbeschwerde-mandantenentscheidung` | Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage im Verfassungsrecht. |
 | `verfassungsmaessigkeit-formular-portal-und-einreichung` | Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik im Verfassungsrecht. |
-| `verfassungsrechtliche-pruefung` | Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit E... |
-| `verhaeltnismaessigkeit` | Verhältnismäßigkeitsprüfung für staatliche Massnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenprüfung Abwaegu... |
+| `verfassungsrechtliche-pruefung` | Verfassungsrechtliche Prüfung einer Maßnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit E... |
+| `verhaeltnismaessigkeit` | Verhältnismäßigkeitsprüfung für staatliche Maßnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenprüfung Abwaegu... |
 | `vfgr-bundestreue-foederalismus` | Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Rücksicht. Pruefraster für Bund-Länder-Konflikte und Klagen Karlsruhe im Verfassungsrecht. |
-| `vfgr-grundrechtspruefung-bauleiter` | Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster für Klausur und Schriftsatz im Verfassungsrecht. |
+| `vfgr-grundrechtspruefung-bauleiter` | Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhältnismäßigkeit. Pruefraster für Klausur und Schriftsatz im Verfassungsrecht. |
 | `vfgr-organstreit-leitfaden` | Leitfaden Organstreit Art. 93 Abs. 1 Nr. 1 GG: Beteiligtenfaehigkeit, Antragsgegenstand, Antragsbefugnis. Pruefraster für Bundestagsfraktionen und Abgeordnete im Verfassungsrecht. |
 | `vfgr-verfassungsbeschwerde-substantiierung-spezial` | Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis, Selbst- gegenwaertig- unmittelbar, Rechtswegerschoepfung: Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis,... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Verfassungsrecht. |

@@ -44,14 +44,14 @@ Die Transparenzpflichten sind bei jedem Wechsel des KI-Anbieters und bei jeder �
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
-- Art. 13 Abs. 1 lit. f DSGVO — Information ueber automatisierte Entscheidungsfindung bei Ersterhebung
+- Art. 13 Abs. 1 lit. f DSGVO — Information über automatisierte Entscheidungsfindung bei Ersterhebung
 - Art. 14 DSGVO — Information bei Daten nicht direkt beim Betroffenen erhoben
 - Art. 22 Abs. 3 DSGVO — Widerspruchsrecht bei automatisierten Entscheidungen
 - Art. 50 Abs. 1 KI-VO — Chatbot-Offenlegungspflicht
 - § 43 BRAO — Sorgfaltspflicht umfasst Transparenz gegenueber Mandant
 
 ## Triage zu Beginn
-1. Werden Mandanten ueber den Einsatz von KI-Tools bei der Bearbeitung ihres Mandats informiert?
+1. Werden Mandanten über den Einsatz von KI-Tools bei der Bearbeitung ihres Mandats informiert?
 2. Ist eine Datenschutzerklaerung vorhanden, die KI-Einsatz und Art. 13 DSGVO-Information abdeckt?
 3. Setzt die Kanzlei Chatbots oder vollautomatisierte Systeme gegenueber Mandanten ein?
 4. Haben Mandanten ein Widerspruchsrecht gegen KI-Nutzung bei ihrer Mandatsbearbeitung?

@@ -114,10 +114,10 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Normen
 
-- **§§ 154, 155 BGB** — Einigung ueber alle wesentlichen Punkte; Letter of Intent als Vorvertrag-Pruefung
+- **§§ 154, 155 BGB** — Einigung über alle wesentlichen Punkte; Letter of Intent als Vorvertrag-Prüfung
 - **§ 311 II BGB** — vorvertragliche Schutzpflichten; Exklusivitaet; culpa in contrahendo
 - **§ 241 II BGB** — Rücksichtnahmepflicht; bei laufenden Verhandlungen schuetzwuerdiges Vertrauen
-- **§§ 307, 305 BGB** — AGB-Kontrolle; Process-Dokumente koennen AGB-Charakter haben
+- **§§ 307, 305 BGB** — AGB-Kontrolle; Process-Dokumente können AGB-Charakter haben
 - **Art. 18 MAR** — bei borsennotierten Zielgesellschaften: Insider-Log für alle Bieter
 
 ## Aktuelle Rechtsprechung
@@ -207,7 +207,7 @@ EMPFEHLUNG: [Bieter X auf die Shortlist; Begruendung]
 ## Schritt-für-Schritt-Workflow
 
 1. **Prozess-Design** — Breite oder schmale Auktion; Zeitplan; Datenraum-Readiness
-2. **Bieter-Qualifikation** — strategische vs. Finanzinvestoren; regulatorische Risiken vorab pruefen
+2. **Bieter-Qualifikation** — strategische vs. Finanzinvestoren; regulatorische Risiken vorab prüfen
 3. **Process Letter versenden** — an qualifizierte Interessenten nach NDA-Unterzeichnung
 4. **Phase-I-DD organisieren** — IM; erste Datenraum-Zugaenge; Management Presentation
 5. **NBO einsammeln und vergleichen** — Bewertungsmatrix; Shortlist-Entscheidung

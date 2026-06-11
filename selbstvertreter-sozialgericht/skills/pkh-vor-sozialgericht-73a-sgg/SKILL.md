@@ -13,15 +13,15 @@ description: "Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. Z
 
 ## Worum geht es?
 
-Wenn Sie sich keinen Anwalt leisten koennen, gibt es Prozesskostenhilfe (PKH). Der Staat zahlt Ihren Anwalt. Auch vor dem SG, wo das Verfahren ohnehin kostenfrei ist, ist PKH für die Anwaltskosten wichtig.
+Wenn Sie sich keinen Anwalt leisten können, gibt es Prozesskostenhilfe (PKH). Der Staat zahlt Ihren Anwalt. Auch vor dem SG, wo das Verfahren ohnehin kostenfrei ist, ist PKH für die Anwaltskosten wichtig.
 
 ## In einfacher Sprache
 
-Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn für Sie. Das nennt man Prozesskostenhilfe. Sie muessen das beantragen und Belege zeigen.
+Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn für Sie. Das nennt man Prozesskostenhilfe. Sie müssen das beantragen und Belege zeigen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie haben wenig Einkommen und Vermoegen.
+- Sie haben wenig Einkommen und Vermögen.
 - Sie wollen einen Anwalt für Ihr SG-Verfahren.
 - Sie haben Sorge, dass Anwaltskosten zu hoch werden.
 
@@ -30,7 +30,7 @@ Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn für Sie. D
 - **PKH**: Prozesskostenhilfe — Staatliche Uebernahme von Anwaltskosten.
 - **Erfolgsaussicht**: Ihre Klage muss hinreichende Erfolgsaussichten haben.
 - **Mutwilligkeit**: Eine Klage darf nicht aussichtslos und schikanoes sein.
-- **PKH-Erklaerung**: Formular ueber Einkommen und Vermoegen.
+- **PKH-Erklaerung**: Formular über Einkommen und Vermögen.
 
 ## Rechtsgrundlagen
 
@@ -40,10 +40,10 @@ Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn für Sie. D
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Sie wirtschaftlich PKH-berechtigt sind
+### Schritt 1 — Prüfen, ob Sie wirtschaftlich PKH-berechtigt sind
 
 - Niedriges Einkommen (i.d.R. unter ca. 600 EUR / Monat nach Abzug).
-- Wenig Vermoegen (Freibetraege wie bei Buergergeld).
+- Wenig Vermögen (Freibetraege wie bei Buergergeld).
 - Belastungen wie Miete, Unterhalt werden abgezogen.
 
 Sicherheitsformel: Wer Buergergeld bekommt oder kurz drueber liegt, hat in der Regel PKH-Anspruch.
@@ -99,18 +99,18 @@ Wichtige Felder:
 - Einkommen brutto / netto
 - Wohnkosten
 - Unterhaltsverpflichtungen
-- Vermoegen (Konten, Auto, Immobilien)
+- Vermögen (Konten, Auto, Immobilien)
 
 Belege beifuegen:
 
 - Letzte 3 Gehaltsabrechnungen oder Renten-/Buergergeld-Bescheide
 - Kontoauszuege letzte 3 Monate
 - Mietvertrag
-- Versicherungs-Vertraege
+- Versicherungs-Verträge
 
-### Schritt 5 — Erfolgsaussicht pruefen
+### Schritt 5 — Erfolgsaussicht prüfen
 
-Das SG prueft, ob Ihre Klage Aussicht hat. PKH wird verweigert bei:
+Das SG prüft, ob Ihre Klage Aussicht hat. PKH wird verweigert bei:
 
 - Klar aussichtslosen Klagen
 - Mutwilligkeit (schikanoes)
@@ -124,10 +124,10 @@ Das SG entscheidet meist innerhalb von Wochen. Anwalt-Beiordnung wird oft bewill
 ### Schritt 7 — Bei Erfolg
 
 - Anwaltskosten zahlt der Staat.
-- Bei sehr knappem Einkommen evtl. monatliche Raten (Pruefung).
+- Bei sehr knappem Einkommen evtl. monatliche Raten (Prüfung).
 - Bei Erfolg der Klage: Beklagte muss die Anwaltskosten erstatten (§ 193 SGG) — dann zahlt der Staat nichts.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Frist**: PKH-Antrag schon mit Klage einreichen oder kurz danach.
 - **Vollstaendige Belege**: Unvollstaendige PKH-Erklaerung wird zurueckgewiesen.
@@ -138,9 +138,9 @@ Das SG entscheidet meist innerhalb von Wochen. Anwalt-Beiordnung wird oft bewill
 
 - PKH ohne Erfolgsaussicht-Erlaeuterung → Klagebegruendung mitliefern
 - PKH-Erklaerung unvollstaendig → alle Felder und Belege
-- Keinen Anwalt → ohne Anwalt keine Beiordnung; Sie koennen sich selbst vertreten
+- Keinen Anwalt → ohne Anwalt keine Beiordnung; Sie können sich selbst vertreten
 - Anwalt akzeptiert PKH-Mandat nicht → anderen Anwalt fragen
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
+Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle prüfen.

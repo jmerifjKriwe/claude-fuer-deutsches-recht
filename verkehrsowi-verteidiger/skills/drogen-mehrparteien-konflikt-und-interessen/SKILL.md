@@ -42,23 +42,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Cannabis-Konsum legal in Grenzen.
  - **Aber:** § 24a II StVG bleibt - Wirkstoffe in Anlage zu § 24a StVG **erweitert um THC-Grenzwert 3,5 ng/ml** (Stand 2024); Differenzierung muss live geprueft werden.
 - **MPU-Anordnung § 13/14 FeV:**
- - **§ 13 Nr. 1c FeV:** ab 1,6 Promille Atemalkohol oder 0,8 BAK (Stand: Reform pruefen) -> MPU.
+ - **§ 13 Nr. 1c FeV:** ab 1,6 Promille Atemalkohol oder 0,8 BAK (Stand: Reform prüfen) -> MPU.
  - **§ 14 I Nr. 2 FeV:** auch einmaliger Drogenkonsum (insbesondere harte Drogen) genuegt für MPU.
  - **§ 14 II FeV:** Cannabis-Konsumenten - regelmäßiger Konsum + Trennung Konsum/Fahren oder Mischkonsum.
-- **Wirkstoff-Grenzwerte (Anlage zu § 24a StVG, aktuell pruefen):**
+- **Wirkstoff-Grenzwerte (Anlage zu § 24a StVG, aktuell prüfen):**
  - THC: 3,5 ng/ml (seit Reform 2024).
  - Kokain / Benzoylecgonin: niedrigster Nachweis.
- - Amphetamin / Methamphetamin / MDMA: aehnlich.
+ - Amphetamin / Methamphetamin / MDMA: ähnlich.
  - Morphin: 10 ng/ml.
 - **Beweisstrategie Verteidigung:**
  - **Blutprobe § 81a StPO**: Voraussetzungen (Richtervorbehalt regelmaessig, Gefahr im Verzug eng); Verwertungsverbot bei groben Versto.
  - **Atemalkoholmessung / Schnelltests Drogen**: lediglich Indiz; Blutprobe massgeblich.
- - **Sekundaer-Konsum / passive Aufnahme**: bei Cannabis Verteidigungslinie moeglich.
+ - **Sekundaer-Konsum / passive Aufnahme**: bei Cannabis Verteidigungslinie möglich.
  - **Nachzehrung Alkohol**: zwischen Trinken Ende und Messung tatsaechlich relevant?
 - **Massregeln und Wiedererteilung:**
  - **§ 69 StGB Entziehung Fahrerlaubnis** + **§ 69a StGB Sperre** (6 Monate bis 5 Jahre, lebenslang bei besonders schweren Faellen).
  - **Wiedererteilungsantrag § 20 FeV** fruehestens 6 Monate vor Ablauf Sperre; idR MPU-Anordnung.
-- **Mehrparteienlage:** Versicherer (KH/Voll/Insassenversicherer) bei Unfall mit Drogenfahrt - **Leistungsfreiheit § 28 VVG (Vorsatz / grobe Fahrlaessigkeit)** moeglich; Mandant ueber Anzeigeobliegenheit § 30 VVG aufklaeren.
+- **Mehrparteienlage:** Versicherer (KH/Voll/Insassenversicherer) bei Unfall mit Drogenfahrt - **Leistungsfreiheit § 28 VVG (Vorsatz / grobe Fahrlaessigkeit)** möglich; Mandant über Anzeigeobliegenheit § 30 VVG aufklaeren.
 
 ## Qualitätsanker: Messdaten, Messakte und faires Verfahren
 

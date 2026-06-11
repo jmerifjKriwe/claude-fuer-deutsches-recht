@@ -15,7 +15,7 @@ description: "AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Spark
 ## Banken-AGB Sparkassen-AGB
 
 - Allgemeine Geschaeftsbedingungen der privaten Banken Stand 01.07.2023 (BVR, BdB, VOEB), Sparkassen-AGB Stand 01.07.2023, AGB der Volks- und Raiffeisenbanken.
-- Inhaltskontrolle § 307 BGB grundsaetzlich anwendbar.
+- Inhaltskontrolle § 307 BGB grundsätzlich anwendbar.
 - BGH-Linie: AGB-rechtlich strenger Massstab für Banken wegen ueberlegener Marktstellung.
 
 ## Klassische Problemklauseln

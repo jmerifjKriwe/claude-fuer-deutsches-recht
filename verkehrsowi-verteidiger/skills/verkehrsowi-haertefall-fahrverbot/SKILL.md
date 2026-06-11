@@ -21,7 +21,7 @@ Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich
 
 1. **Wie hoch ist das Fahrverbot?** — § 25 StVG: 1 bis 3 Monate; Regelfahrverbot im BKat (Bussgeldkatalog) bei bestimmten Verstaessen.
 2. **Ist der Mandant beruflich auf das Fahrzeug angewiesen?** — LKW-Fahrer, Vertreter, Pflegekraft, Taxi/Uber — Haertefall-Argumentation.
-3. **Existenzgefaehrdung nachweisbar?** — Drohende Kuendigung, Arbeitslosenunterstuetzung nicht ausreichend, Eigentuemer Kleinstunternehmen.
+3. **Existenzgefaehrdung nachweisbar?** — Drohende Kuendigung, Arbeitslosenunterstuetzung nicht ausreichend, Eigentümer Kleinstunternehmen.
 4. **Gibt es mildernde Tatumstaende?** — Dringende Notsituation, techisches Versagen, minimale Ueberschreitung.
 5. **Vier-Monats-Frist nutzbar?** — § 25 Abs. 2a StVG: Betroffener kann Beginn des Fahrverbots bis zu 4 Monate nach Rechtskraft hinauszogern (vorteilhaft für Urlaubszeit).
 
@@ -30,7 +30,7 @@ Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich
 - **§ 25 Abs. 1 StVG** — Fahrverbot im OWi-Verfahren: 1 bis 3 Monate
 - **§ 25 Abs. 2a StVG** — Vier-Monats-Frist: Betroffener kann Antritt bis 4 Monate nach Rechtskraft hinausschieben
 - **§ 4 Abs. 1 BKatV** — Regelfahrverbot bei bestimmten Grenzwerten; kann unterschritten werden wenn Haertefall vorliegt
-- **§ 17 Abs. 3 OWiG** — Geldbusse als Alternative; Erhoehung moeglich statt Fahrverbot
+- **§ 17 Abs. 3 OWiG** — Geldbusse als Alternative; Erhoehung möglich statt Fahrverbot
 - **§ 44 StGB** — Fahrverbot als strafrechtliche Nebenstrafe (andere Regelung als § 25 StVG)
 
 ## Aktuelle Rechtsprechung
@@ -68,7 +68,7 @@ VIER-MONATS-FRIST (§ 25 Abs. 2a StVG):
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Mandant ueber realistische Chancen aufklaeren** — Haertefall ist selten anerkannt.
+1. **Mandant über realistische Chancen aufklaeren** — Haertefall ist selten anerkannt.
 2. **Beweise sammeln:** Arbeitgeber-Bescheinigung, Einkommensnachweis, Alternativennachweis (OEPNV nicht erreichbar).
 3. **Vier-Monats-Frist als Alternative:** Wenn Haertefall nicht durchsetzbar, Fristverschiebung nach § 25 Abs. 2a StVG beantragen.
 4. **Absehen vom Fahrverbot beantragen:** Statt Fahrverbot erhoehte Geldbusse; § 17 Abs. 3 OWiG i.V.m. § 4 Abs. 4 BKatV.

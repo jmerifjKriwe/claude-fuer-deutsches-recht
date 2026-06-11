@@ -15,17 +15,17 @@ description: "Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinves
 
 ## Mandantenfall
 
-- Unternehmen gewahrt auslaendischem Tochterunternehmen Darlehen; Z11-Meldepflicht pruefen.
-- Kapitalanlagegesellschaft kauft Aktien einer US-Gesellschaft; Z10 vs. Z4 klaeren.
+- Unternehmen gewahrt auslaendischem Tochterunternehmen Darlehen; Z11-Meldepflicht prüfen.
+- Kapitalanlagegesellschaft kauft Aktien einer US-Gesellschaft; Z10 vs. Z4 klären.
 - GmbH in Deutschland vergibt Gesellschafterdarlehen an Muttergesellschaft im Ausland.
 
 ## Erste Schritte
 
 1. Transaktionstyp einordnen: Direktinvestition (Z4), Wertpapier (Z10) oder Darlehen/Kapitalverkehr (Z11).
-2. Meldepflichtige Schwellenwerte pruefen (§ 67 AWV, spezifische Regelung je Formular).
+2. Meldepflichtige Schwellenwerte prüfen (§ 67 AWV, spezifische Regelung je Formular).
 3. Fristen bestimmen: Z4 trimestrisch oder jaehrlich, Z10/Z11 monatlich.
 4. Bundesbank-Ausfuellhinweise zum jeweiligen Formular heranziehen.
-5. Formular vollstaendig ausfuellen und fristgerecht ueber ExtraNet einreichen.
+5. Formular vollstaendig ausfuellen und fristgerecht über ExtraNet einreichen.
 6. Einreichungsbestaetigung archivieren.
 
 ## Rechtsrahmen
@@ -47,8 +47,8 @@ description: "Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinves
 
 ## Typische Fallstricke
 
-- Gesellschafterdarlehen und Direktinvestitionsdarlehn koennen sowohl Z4 als auch Z11 ausloesen.
-- Wertpapiertransaktionen ueber auslaendische Depotbanken koennen trotzdem Z10-Pflicht ausloesen.
+- Gesellschafterdarlehen und Direktinvestitionsdarlehn können sowohl Z4 als auch Z11 ausloesen.
+- Wertpapiertransaktionen über auslaendische Depotbanken können trotzdem Z10-Pflicht ausloesen.
 - Fristen Z4 und Z10/Z11 unterscheiden sich; Kumulierung uebersehen.
 - Automatische Verrechnung von Forderungen und Verbindlichkeiten loescht Meldepflicht nicht.
 

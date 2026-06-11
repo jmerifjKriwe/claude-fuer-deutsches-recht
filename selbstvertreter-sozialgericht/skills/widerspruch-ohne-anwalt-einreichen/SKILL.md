@@ -13,11 +13,11 @@ description: "Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax 
 
 ## Worum geht es?
 
-Sie haben den Widerspruch geschrieben. Jetzt muss er zur Behörde — und zwar nachweisbar. Diese Skill zeigt die Wege, die wirklich funktionieren, und worauf Sie achten muessen.
+Sie haben den Widerspruch geschrieben. Jetzt muss er zur Behörde — und zwar nachweisbar. Diese Skill zeigt die Wege, die wirklich funktionieren, und worauf Sie achten müssen.
 
 ## In einfacher Sprache
 
-Den Widerspruch koennen Sie auf mehrere Arten abschicken. Wichtig ist: Sie brauchen einen Beweis, dass er angekommen ist. Sonst kann die Behörde sagen, sie hat ihn nie bekommen.
+Den Widerspruch können Sie auf mehrere Arten abschicken. Wichtig ist: Sie brauchen einen Beweis, dass er angekommen ist. Sonst kann die Behörde sagen, sie hat ihn nie bekommen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -81,7 +81,7 @@ Seit 2024 für alle Buerger nutzbar:
 4. Anhaenge als PDF.
 5. Abschicken; Quittung speichern.
 
-Wichtig: Pruefen Sie, ob die Behörde MJP unterstuetzt. Krankenkassen oft, Jobcenter manchmal.
+Wichtig: Prüfen Sie, ob die Behörde MJP unterstuetzt. Krankenkassen oft, Jobcenter manchmal.
 
 ### Schritt 6 — Fax
 
@@ -89,13 +89,13 @@ Wichtig: Pruefen Sie, ob die Behörde MJP unterstuetzt. Krankenkassen oft, Jobce
 - Sendebericht ausdrucken und aufheben.
 - "OK" im Sendebericht ist Beweis.
 
-Achtung: Fax wird allmaehlich abgeschafft. Pruefen Sie, ob Faxgeraet bei der Behörde noch aktiv ist.
+Achtung: Fax wird allmaehlich abgeschafft. Prüfen Sie, ob Faxgeraet bei der Behörde noch aktiv ist.
 
 ### Schritt 7 — Beweis aufheben
 
 Egal welcher Weg: Sie brauchen einen Beweis für den Tag, an dem Ihr Widerspruch bei der Behörde war. Aufheben mindestens 5 Jahre.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Zeitpuffer**: Verschicken Sie nicht am letzten Tag. Lieber 3 Tage vorher.
 - **Einschreiben am letzten Tag** ist nur sicher, wenn die Post den Brief am selben Tag noch zur Post bringt. Frueh ist besser.
@@ -110,4 +110,4 @@ Egal welcher Weg: Sie brauchen einen Beweis für den Tag, an dem Ihr Widerspruch
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. MJP seit 2024 für Buerger oeffentlich. § 65a SGG für SG-Klagen. § 36a SGB I für Behörden-Kommunikation. Pruefen Sie im Zweifel den Stand bei Ihrer Behörde.
+Stand: 05/2026. MJP seit 2024 für Buerger öffentlich. § 65a SGG für SG-Klagen. § 36a SGB I für Behörden-Kommunikation. Prüfen Sie im Zweifel den Stand bei Ihrer Behörde.

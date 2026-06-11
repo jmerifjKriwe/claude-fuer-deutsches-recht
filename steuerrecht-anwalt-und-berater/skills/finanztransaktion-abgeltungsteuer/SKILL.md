@@ -14,7 +14,7 @@ description: "Bearbeitung der Kapitaleinkuenfte und der Abgeltungsteuer — § 2
 ## Triage — kläre vor der Bearbeitung
 
 1. Welche Kapitalertraege liegen vor — Zinsen Dividenden Veraeusserungsgewinne?
-2. Ist der Steuerpflichtige mit ueber 25 Prozent oder ueber 1 Prozent beteiligt — Antrag § 32d Abs. 2 Nr. 3 EStG?
+2. Ist der Steuerpflichtige mit über 25 Prozent oder über 1 Prozent beteiligt — Antrag § 32d Abs. 2 Nr. 3 EStG?
 3. Greift Guenstigerpruefung § 32d Abs. 6 EStG?
 4. Wurde Quellensteuer DBA-konform angerechnet?
 5. Werbungskostenabzug § 20 Abs. 9 EStG beschraenkt — bei Antragsveranlagung?

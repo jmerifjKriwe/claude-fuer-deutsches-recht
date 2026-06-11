@@ -15,13 +15,13 @@ description: "Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat
 
 ## Mandantenfall
 
-- Deutsches Unternehmen wickelt Zahlungen ueber Schweizer Tochtergesellschaft ab; SECO-Listencheck erforderlich.
+- Deutsches Unternehmen wickelt Zahlungen über Schweizer Tochtergesellschaft ab; SECO-Listencheck erforderlich.
 - Schweizer Konzernzentrale stellt Frage ob EU-Russland-Sanktionen für CH-Entitaet gelten.
-- Transaktion soll ueber Schweizer Bank abgewickelt werden; Sanktionskonvergenz pruefen.
+- Transaktion soll über Schweizer Bank abgewickelt werden; Sanktionskonvergenz prüfen.
 
 ## Erste Schritte
 
-1. Relevanz der Schweizer Sanktionen pruefen: Schweizer Entitaet beteiligt oder Schweizer Bankverbindung?
+1. Relevanz der Schweizer Sanktionen prüfen: Schweizer Entitaet beteiligt oder Schweizer Bankverbindung?
 2. SECO-Sanktionsliste abrufen und mit EU-Konsolidierter-Liste abgleichen.
 3. Divergenzen identifizieren: Welche Personen/Entitaeten sind nur in EU oder nur in CH-Liste?
 4. EmbG-Verbote für konkrete Transaktion anwenden.

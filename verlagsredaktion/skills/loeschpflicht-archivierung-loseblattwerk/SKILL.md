@@ -33,7 +33,7 @@ Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-
 - DSGVO Art. 85 - Medienprivileg; nationaler Umsetzungsspielraum.
 - MStV §§ 9c-g und LDSG-Mediengesetze - Datenschutz-Regelungen für journalistisch-redaktionelle Telemedien.
 - KUG §§ 22, 23 - Bildnisrecht.
-- BVerfG, st. Rspr. zum Resozialisierungsgrundsatz (Lebach-Entscheidung BVerfGE 35, 202; zur Pruefung am Wortlaut unter bundesverfassungsgericht.de).
+- BVerfG, st. Rspr. zum Resozialisierungsgrundsatz (Lebach-Entscheidung BVerfGE 35, 202; zur Prüfung am Wortlaut unter bundesverfassungsgericht.de).
 - BGH-Rechtsprechung zu Suchmaschinen-Auslistung und Online-Archivpflege; Folgeentscheidungen nach EuGH Google Spain (C-131/12).
 - UrhG § 51 - Zitatrecht (bei Anonymisierung von Zitierten).
 
@@ -43,7 +43,7 @@ Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-
 2. **Pruefraster anwenden.**
  - Tatsachenbehauptung oder Werturteil?
  - Aktualitaet noch gegeben?
- - Informationsinteresse (oeffentlich vs. privat)?
+ - Informationsinteresse (öffentlich vs. privat)?
  - Identifizierbarkeit zwingend?
  - Medienprivileg einschlaegig?
 3. **Abwaegung dokumentieren.** Pflicht zur Begruendung, auch bei Ablehnung.
@@ -55,7 +55,7 @@ Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-
 5. **Datenbankanbieter informieren** (juris, beck-online): Aenderung muss in der Datenbank nachvollzogen werden.
 6. **Backup-Pflichten.** Auch in internen Backups Anonymisierung sicherstellen, soweit zumutbar.
 7. **Folgen kommunizieren.** Bei kompletter Loeschung Hinweisseite mit Datum.
-8. **Archivierungsverpflichtungen** beruecksichtigen (Pflichtablieferung an Deutsche Nationalbibliothek; Loeschung dort nicht moeglich).
+8. **Archivierungsverpflichtungen** beruecksichtigen (Pflichtablieferung an Deutsche Nationalbibliothek; Loeschung dort nicht möglich).
 
 ## Trade-off-Matrix
 
@@ -64,15 +64,15 @@ Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-
 | Datenschutz | Maximal | Hoch | Niedrig |
 | Wissenschaftliche Nachvollziehbarkeit | Verlust | Erhalten | Erhalten |
 | Aufwand | Hoch (Backup, Cache) | Mittel | Niedrig |
-| Folgerisiko | Niedrig | Mittel | Klage moeglich |
+| Folgerisiko | Niedrig | Mittel | Klage möglich |
 | Praezedenzwirkung | Stark | Mittel | Schwach |
 
 ## Praxistipps der alten Redaktion
 
 - Aktenzeichen sind im juristischen Beitrag essentiell - Anonymisierung nur als Initialen, nicht Streichung.
-- Identifizierbarkeit pruefen: bei kleinen Faechern reicht oft die Funktionsbeschreibung.
+- Identifizierbarkeit prüfen: bei kleinen Faechern reicht oft die Funktionsbeschreibung.
 - Lebach-Logik: Bei lang zurueckliegenden Strafverfahren und Resozialisierung Pflicht zur Anonymisierung.
-- Pflichtexemplare an Deutsche Nationalbibliothek koennen nicht zurueckgezogen werden; dortige Anfrage sinnlos.
+- Pflichtexemplare an Deutsche Nationalbibliothek können nicht zurueckgezogen werden; dortige Anfrage sinnlos.
 - Bei Anonymisierung Versionierung im System; Original im internen Archiv bleibt.
 - Ablehnung mit Begruendung schriftlich; sonst erscheint sie als ignorierte Beschwerde.
 - Eilbedarf bei einstweiliger Verfuegung - 24-Stunden-Eskalation an Justiziariat.
@@ -141,7 +141,7 @@ angaben. Inhaltliche Aenderungen wurden nicht vorgenommen.
 
 ## Typische Fehler / Pitfalls
 
-- Loeschung ohne Pruefung des Medienprivilegs - Schaden für Archivlogik.
+- Loeschung ohne Prüfung des Medienprivilegs - Schaden für Archivlogik.
 - Anonymisierung im Online-Volltext, aber nicht in der Datenbank - Inkonsistenz.
 - Begruendung der Ablehnung fehlt - Beschwerde bei Aufsichtsbehoerde wahrscheinlich.
 - Backup wird nicht angepasst - bei Restore wird Original wiederhergestellt.
@@ -154,6 +154,6 @@ angaben. Inhaltliche Aenderungen wurden nicht vorgenommen.
 - MStV §§ 9c-g - Datenschutz für journalistisch-redaktionelle Telemedien.
 - LDSG-Mediengesetze (z. B. NRW LMG) - jeweilige Landesfassung.
 - KUG §§ 22, 23 - Bildnisrecht.
-- BVerfG, Lebach (Volltext unter bundesverfassungsgericht.de); aktuelle Anschluss-Rechtsprechung pruefen.
+- BVerfG, Lebach (Volltext unter bundesverfassungsgericht.de); aktuelle Anschluss-Rechtsprechung prüfen.
 - EuGH C-131/12 (Google Spain) - Loeschung in Suchindex; nachfolgende Rechtsprechung.
 - BGH-Rechtsprechung zur Online-Archivierung (Volltexte unter bundesgerichtshof.de).

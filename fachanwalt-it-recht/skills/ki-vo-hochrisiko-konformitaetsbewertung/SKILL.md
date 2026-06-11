@@ -105,14 +105,14 @@ description: "KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art: 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — KI-VO Hochrisiko-Konformitaetsbewertung | Konformitaetsbewertungs-Protokoll; Template unten |
 | Variante A — Kein Hochrisiko-System | Vereinfachtes Compliance-Register; CE-Kennzeichnung entfaellt |
-| Variante B — Inverkehrbringen durch Drittanbieter | Importeur/Haendler-Pflichten Art. 23 ff. KI-VO pruefen |
-| Variante C — Open-Source-KI | Ausnahmen Art. 2 Abs. 10 KI-VO pruefen |
+| Variante B — Inverkehrbringen durch Drittanbieter | Importeur/Haendler-Pflichten Art. 23 ff. KI-VO prüfen |
+| Variante C — Open-Source-KI | Ausnahmen Art. 2 Abs. 10 KI-VO prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -198,7 +198,7 @@ Anlagen:
 Mit freundlichen Gruessen
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -276,11 +276,11 @@ Mit freundlichen Gruessen
 
 ## Faktische Updates (Stand 05/2026)
 
-- **02.08.2026 — Hochrisiko Anhang III in Kraft:** Anbieter und Betreiber von Hochrisiko-KI-Systemen nach Anhang III muessen alle Pflichten des Kapitels III KI-VO erfuellen (Art. 113 lit. c KI-VO). Konformitaetsbewertung (Art. 43), CE-Kennzeichnung (Art. 48), EU-Datenbank-Registrierung (Art. 71) sind ab diesem Stichtag Voraussetzung für das Inverkehrbringen / die Inbetriebnahme.
+- **02.08.2026 — Hochrisiko Anhang III in Kraft:** Anbieter und Betreiber von Hochrisiko-KI-Systemen nach Anhang III müssen alle Pflichten des Kapitels III KI-VO erfuellen (Art. 113 lit. c KI-VO). Konformitaetsbewertung (Art. 43), CE-Kennzeichnung (Art. 48), EU-Datenbank-Registrierung (Art. 71) sind ab diesem Stichtag Voraussetzung für das Inverkehrbringen / die Inbetriebnahme.
 - **02.08.2027 — Hochrisiko Anhang I:** Verlaengerte Frist für KI als Sicherheitskomponente in Produkten der Anhang-I-Liste (Maschinen-VO, MDR, Spielzeug-RL etc.).
-- **Harmonisierte Normen:** CEN/CENELEC arbeitet an harmonisierten Normen (insb. ISO/IEC 42001 — KI-Managementsystem, ISO/IEC 23894 — Risikomanagement, ISO/IEC 24029 — Robustheit). Bei freiwilliger Anwendung Vermutung der Pflichtenkonformitaet (Art. 40 KI-VO). Live-Status der Veroeffentlichung pruefen.
+- **Harmonisierte Normen:** CEN/CENELEC arbeitet an harmonisierten Normen (insb. ISO/IEC 42001 — KI-Managementsystem, ISO/IEC 23894 — Risikomanagement, ISO/IEC 24029 — Robustheit). Bei freiwilliger Anwendung Vermutung der Pflichtenkonformitaet (Art. 40 KI-VO). Live-Status der Veroeffentlichung prüfen.
 - **EU-AI-Office:** seit Beginn 2025 voll operativ; zuständig für GPAI-Modelle, Koordinierung mit nationalen Marktueberwachungsbehoerden, Best Practices.
-- **EU-Datenbank Art. 71:** Hochrisiko-KI-Datenbank (commercial, in beta) live pruefen ueber digital-strategy.ec.europa.eu.
+- **EU-Datenbank Art. 71:** Hochrisiko-KI-Datenbank (commercial, in beta) live prüfen über digital-strategy.ec.europa.eu.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über curia.europa.eu (EuGH) oder offizielle nationale Quellen verifizieren.
 
 ## Aktuelle Rechtsprechung (v14.2)

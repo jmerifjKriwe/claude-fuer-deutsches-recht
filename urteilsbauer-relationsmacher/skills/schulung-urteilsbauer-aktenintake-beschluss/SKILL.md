@@ -7,7 +7,7 @@ description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmache
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Schulung Urteilsbauer Aktenintake Beschluss** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Urteilsbauer Relationsmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Schulung Urteilsbauer Aktenintake Beschluss** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Urteilsbauer Relationsmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -80,7 +80,7 @@ Am Beginn jeder Schulung: **Ausgegebene Relationen und Urteilsentwürfe dürfen 
 
 ## Lernziele
 
-Die Teilnehmenden koennen am Ende
+Die Teilnehmenden können am Ende
 
 1. eine Zivilakte strukturiert intaken,
 2. eine Relation aufbauen,
@@ -113,7 +113,7 @@ Tag 1 wie oben. Tag 2 vertieft die Arbeitsakte `testakten/solis-vision-x-smartgl
 
 ## Hinweis zur Prüfungstaeuschung
 
-Im Trainerleitfaden zu Beginn jeder Schulung den Hinweis mitgeben: **Die hier ausgegebenen Relationen und Urteilsentwuerfe duerfen nicht in Klausuren des Vorbereitungsdienstes als eigene Arbeit eingereicht werden.** Es handelt sich um Schulungs- und Praxismaterial; die Eigenleistung der Teilnehmer/-innen ist nicht verzichtbar.
+Im Trainerleitfaden zu Beginn jeder Schulung den Hinweis mitgeben: **Die hier ausgegebenen Relationen und Urteilsentwuerfe dürfen nicht in Klausuren des Vorbereitungsdienstes als eigene Arbeit eingereicht werden.** Es handelt sich um Schulungs- und Praxismaterial; die Eigenleistung der Teilnehmer/-innen ist nicht verzichtbar.
 
 ## Workflow-Entscheidungspunkte
 

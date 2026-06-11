@@ -5,7 +5,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Kanzlei Allgemein-Plugi
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Routing Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Kanzlei Allgemein** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Routing Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Kanzlei Allgemein** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -126,7 +126,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `kanzlei-allgemein-erechnung` | Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD vorbereiten und validieren. Anwendungsfall Mandant oder öffentliche Hand verlangt Rechnung im Format XRechnung oder ZUGFeRD. Normen EN 16931 GoBD § 14 UStG… |
 | `kanzlei-allgemein-freundlicher-copilot` | Führt junge Anwaelte freundlich durch alle Kanzlei-Workflows mit Nachhilfemodus. Anwendungsfall Berufsanfaenger oder Quereinsteiger weiss nicht wie er Akte anlegen Rechnung schreiben oder beA nutzen soll. Prüft Luecken… |
 | `kanzlei-allgemein-fristen-monitor` | Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen und Zustellungen. Anwendungsfall Schriftsatz beA-Nachricht oder Urteil wurde hochgeladen und Fristen sollen automatisch erkannt werden. Normen § 222 ZPO §§ 187… |
-| `kanzlei-allgemein-handelsregisterabruf` | Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura muessen geprüft werden. Normen §§ 15… |
+| `kanzlei-allgemein-handelsregisterabruf` | Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura müssen geprüft werden. Normen §§ 15… |
 | `kanzlei-allgemein-hr-personal` | Verwaltung von Kanzlei-Personal mit Stammdaten Arbeitsvertraegen Onboarding und Offboarding. Anwendungsfall neue Kanzleimitarbeiterin wird eingestellt oder Mitarbeiter scheidet aus und HR-Dokumentation muss gepflegt… |
 | `kanzlei-allgemein-intake` | Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iMessage WhatsApp Telegram Teams Screenshot Upload oder Telefonnotiz. Erkennt Absender Akte Aktenzeichen Fristen Action-Items Datenschutzrisiken und… |
 | `kanzlei-allgemein-integrationen-simulation` | Prüft Kanzlei-Integrationen und führt Workflows im Simulationsmodus weiter. Anwendungsfall E-Mail Outlook beA Fax Telefon DMS oder Buchhaltung ist nicht verbunden und Kanzlei will trotzdem Workflows testen. Normen Art.… |
@@ -145,7 +145,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `kanzlei-allgemein-rechtsprechungsrecherche` | Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen Datenbanken der Bundesgerichte und Länder, ergänzt OpenJur und dejure.org, bewertet Treffer, erstellt Zitier- und Verwertungsnotizen und legt… |
 | `kanzlei-allgemein-schreibcanvas` | Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe Rechnungen beA-Nachrichten und Mandantenkommunikation. Anwendungsfall Anwalt will einen Entwurf strukturieren oder schwache Stellen in einem laufenden Text… |
 | `kanzlei-allgemein-schriftsatz-turbo` | Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO… |
-| `kanzlei-allgemein-ustva-buchhaltung` | Sammelt Rechnungsdaten und Belege für die monatliche Umsatzsteuervoranmeldung. Anwendungsfall Monat ist vorbei und UStVA-Unterlagen muessen für ELSTER oder Steuerkanzlei zusammengestellt werden. Normen §§ 18 21 UStG… |
+| `kanzlei-allgemein-ustva-buchhaltung` | Sammelt Rechnungsdaten und Belege für die monatliche Umsatzsteuervoranmeldung. Anwendungsfall Monat ist vorbei und UStVA-Unterlagen müssen für ELSTER oder Steuerkanzlei zusammengestellt werden. Normen §§ 18 21 UStG… |
 | `kanzlei-allgemein-ustva-simulation` | Fallback bei ELSTER-Stoerung oder fehlendem Steuersoftware-Zugang für UStVA-Simulation. Anwendungsfall ELSTER-Verbindung funktioniert nicht oder UStVA muss ohne Fachsoftware simuliert werden. Normen § 18 Abs. 1 UStG… |
 | `kanzlei-allgemein-vertragsentwurf` | Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vorlagen für jede Vertragsart. Anwendungsfall Mandant braucht Vertragsentwurf und Ausgangsmaterial liegt als Term Sheet Stichpunkte oder Muster vor.… |
 | `kanzlei-allgemein-zeitnarrative` | Zeiterfassung mit abrechenbaren Narrativen für Kanzlei-Mandate. Anwendungsfall Anwalt hat Tätigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen für spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben… |
@@ -163,16 +163,16 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Kanzlei-Allgemein-Plugin (fusioniert mit Cowork) ist das zentrale Workflow-Plugin für den gesamten Kanzleibetrieb. Es vereint alle wesentlichen Tagesoperationen einer Anwaltskanzlei: von der Mandatsannahme mit GwG-Pruefung ueber die Erstellung von Klagen, Repliken und Vertraegen bis zur Zeiterfassung, Rechnungsstellung, Buchhaltung und UStVA-Vorbereitung. Hinzu kommen beA-Versand, Postlauf, Fristenbuch, HR und Sekretariatsfunktionen.
+Das Kanzlei-Allgemein-Plugin (fusioniert mit Cowork) ist das zentrale Workflow-Plugin für den gesamten Kanzleibetrieb. Es vereint alle wesentlichen Tagesoperationen einer Anwaltskanzlei: von der Mandatsannahme mit GwG-Prüfung über die Erstellung von Klagen, Repliken und Vertraegen bis zur Zeiterfassung, Rechnungsstellung, Buchhaltung und UStVA-Vorbereitung. Hinzu kommen beA-Versand, Postlauf, Fristenbuch, HR und Sekretariatsfunktionen.
 
 Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und orangenem Akzent (Cowork-Designsprache) und gibt alle Outputs als Markdown-Dashboards mit Freigabeampeln und Statuskarten aus. Es richtet sich an Einzelanwaelte, Sozietaeten und anwaltliche GmbHs jeder Groesse.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie erhalten eine neue Mandatsanfrage und wollen Intake, GwG-Pruefung, Konfliktcheck und Aktenanlage in einem strukturierten Ablauf durchfuehren.
+- Sie erhalten eine neue Mandatsanfrage und wollen Intake, GwG-Prüfung, Konfliktcheck und Aktenanlage in einem strukturierten Ablauf durchfuehren.
 - Eine Frist laeuft ab und Sie benoetigen schnellen Zugriff auf Fristenbuch, beA-Versand und Schriftsatzerstellung.
 - Der Monat endet und Sie wollen Zeiterfassung, Rechnungserstellung, UStVA-Vorbereitung und DATEV-Uebergabe koordinieren.
-- Ein Mitarbeiter ist abwesend und Sie muessen Vertretungsregelungen für Postlauf, Fristen und beA sicherstellen.
+- Ein Mitarbeiter ist abwesend und Sie müssen Vertretungsregelungen für Postlauf, Fristen und beA sicherstellen.
 - Sie moechten Kanzlei-Routinen automatisieren oder im Simulationsmodus testen.
 
 ## Fachbegriffe (kurz erklaert)
@@ -203,7 +203,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 
 1. Kaltstart-Interview: Kanzleiprofil, Aktenzeichen-Konvention, Eingangskanale und Integrationen einrichten.
 2. Kommandocenter: Tages-Routing aus einem Satz; automatisch bestimmen.
-3. Mandatsannahme und GwG-Pruefung bei neuem Mandat durchfuehren.
+3. Mandatsannahme und GwG-Prüfung bei neuem Mandat durchfuehren.
 4. Tagesoperationen: Postlauf, beA-Journal, Fristencheck, Schriftsatzerstellung, Zeiterfassung.
 5. Monatliche Abschlussarbeiten: Rechnung, UStVA-Vorbereitung, Payroll, DATEV-Uebergabe.
 
@@ -214,7 +214,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - `kanzlei-allgemein-akte` — Anlage oder Zuordnung einer Akte bei neuer Mandatsanfrage oder eingehendem Schriftstueck.
 - `kanzlei-allgemein-aktenzeichen` — Erkennung, Normalisierung und Verknuepfung von Aktenzeichen.
 - `kanzlei-allgemein-intake` — Strukturiertes Einlesen von Eingaengen aus Brief, Fax, beA, E-Mail, Telefon und Upload.
-- `kanzlei-allgemein-mandatsannahme-gwg` — Mandatsannahme und GwG-Pruefung: Intake, Aktenanlage, Konfliktcheck, Identifizierung, PEP, BRAK-Dokumentation.
+- `kanzlei-allgemein-mandatsannahme-gwg` — Mandatsannahme und GwG-Prüfung: Intake, Aktenanlage, Konfliktcheck, Identifizierung, PEP, BRAK-Dokumentation.
 - `kanzlei-allgemein-mandatsvereinbarung` — Mandatsvereinbarung, Vollmacht, Datenschutzhinweis, Honorarvereinbarung und Vorschuss erstellen.
 - `mandantenakte-anlegen` — Mandantenakte nach Kanzleikonvention anlegen: Stammdaten, Konfliktcheck, GwG, Honorar.
 - `kanzlei-allgemein-kaltstart` — Kaltstart des Plugins: Kanzleiprofil und Stammprofil einrichten.
@@ -237,7 +237,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - `kanzlei-allgemein-handelsregisterabruf` — Handelsregisterabruf für GmbH-Vertretung, Gesellschafterstruktur und GwG-Dokumentation.
 
 **beA, Versand und Postlauf**
-- `bea-versand-pruefen` — beA-Versand pruefen: sicherer Uebermittlungsweg, qeS, Versandquittung, Wiedereinsetzung.
+- `bea-versand-pruefen` — beA-Versand prüfen: sicherer Uebermittlungsweg, qeS, Versandquittung, Wiedereinsetzung.
 - `kanzlei-allgemein-bea-journal` — beA-Verbindungen, Nachrichten und EB-dokumentieren.
 - `kanzlei-allgemein-output-versand` — Output und Versand steuern: Schriftsatz, Brief, E-Mail, Fax, beA, Messenger.
 - `kanzlei-allgemein-postlauf` — Taeglich um 11 Uhr: neue Eingaenge, beA-Journal, Fristen, Action-Items, Versandbedarf.
@@ -271,7 +271,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 **Qualitaetssicherung und Automationen**
 - `kanzlei-allgemein-qualitaetsgate-hardening` — Mehrstufige Qualitaetsgates vor Versand: Substanz, Fristen, Zuständigkeit, Antraege.
 - `kanzlei-allgemein-automationen` — Wiederkehrende Kanzlei-Routinen als datenschutzkonforme Automationen planen.
-- `kanzlei-allgemein-integrationen-simulation` — Kanzlei-Integrationen pruefen und Workflows im Simulationsmodus testen.
+- `kanzlei-allgemein-integrationen-simulation` — Kanzlei-Integrationen prüfen und Workflows im Simulationsmodus testen.
 - `kanzlei-allgemein-kanzleitag-simulation` — Achtstuendigen Kanzleitag für Training und Demo simulieren.
 
 **Mandantenpflege und Sonstiges**
@@ -283,7 +283,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - **beA sicherer Uebermittlungsweg**: Nur der persönliche Versand durch den beA-Inhaber zaehlt als sUW; Versand durch Mitarbeitende erfordert qeS.
 - **PostModG seit 1.1.2025**: Die Zustellungsfiktion bei Brief betraegt jetzt vier Werktage (vorher drei); alle Fristberechnungen anpassen.
 - **GwG-Kataloggeschaefte nicht uebersehen**: Truhand, Immobilientransaktionen und Gesellschaftsgruendungen loesen GwG-Pflichten aus, auch wenn kein Gerichtsverfahren anhangig ist.
-- **DSGVO-Speicherbegrenzung bei Aktenarchivierung**: Nach Ablauf der sechs-jaehrigen Aufbewahrungsfrist (§ 50 BRAO) muessen Akten geloescht werden.
+- **DSGVO-Speicherbegrenzung bei Aktenarchivierung**: Nach Ablauf der sechs-jaehrigen Aufbewahrungsfrist (§ 50 BRAO) müssen Akten geloescht werden.
 - **Qualitaetsgate vor beA-Versand immer aktivieren**: Ein einmal versandtes beA-Dokument kann nicht zurueckgezogen werden.
 
 ## Typische Fehler

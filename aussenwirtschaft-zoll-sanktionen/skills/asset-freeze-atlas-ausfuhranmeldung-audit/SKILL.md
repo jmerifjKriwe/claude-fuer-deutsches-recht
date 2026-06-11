@@ -7,7 +7,7 @@ description: "Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontr
 
 ## Arbeitsbereich
 
-Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflicht an Bundesbank/BaFin und zuständige Behörden. Output: Einfrierungs-Protokoll und Meldedokument. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermögen, Meldepflicht an Bundesbank/BaFin und zuständige Behörden. Output: Einfrierungs-Protokoll und Meldedokument. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -80,7 +80,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [VO (EU) 833/2014 konsolidiert auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [Bundesbank Devisenbeschraenkungen](https://www.bundesbank.de/de/aufgaben/unbarer-zahlungsverkehr/finanzsanktionen)
-- [BAFA Aussenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
 
 ## Normen und Rechtsprechung
 

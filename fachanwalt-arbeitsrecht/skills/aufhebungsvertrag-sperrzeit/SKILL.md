@@ -43,7 +43,7 @@ description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei
 
 Rechtsprechungsstand: BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmäßigen ordentlichen betriebsbedingten Kuendigung des AG bei eingehaltener Kuendigungsfrist begruendet wichtigen Grund i.S.d. § 159 SGB III. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
 
-- AG hätte ordentlich kündigen koennen (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
+- AG hätte ordentlich kündigen können (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
 - Beendigungszeitpunkt nicht früher als bei ordentlicher Kündigung
 - Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschaeftigungsjahr (Fachliche Weisungen BA zu § 159 SGB III, Stand 01.01.2024, arbeitsagentur.de)
 
@@ -113,7 +113,7 @@ Wir sind an einer einvernehmlichen und zügigen Lösung interessiert und stehen 
 
 Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Sperrzeit-Vermeidung. Abweichungen von der vorgeschlagenen Formulierung bedürfen der ausdrücklichen Zustimmung unserer Kanzlei und werden auf Sperrzeit-Konformität geprüft.
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -170,7 +170,7 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 - BSG, 12.07.2006 - B 11a AL 47/05 R: wichtiger Grund bei drohender objektiv rechtmäßiger betriebsbedingter Kuendigung mit eingehaltener Frist. Quelle: dejure.org.
 - BSG, 02.05.2012 - B 11 AL 6/11 R: Drohung muss konkret und ernsthaft sein. Quelle: dejure.org.
-- Hinweis: Weitere BSG-Entscheidungen (Q4/2025 - Q2/2026) konnten zum Stand der Aktualisierung nicht ueber dejure.org/openjur.de mit Volltext und konkretem Aktenzeichen verifiziert werden. Anwaltlicher Beratungsstandard: Pruefung der jeweils aktuellen Fachlichen Weisungen der BA zu § 159 SGB III.
+- Hinweis: Weitere BSG-Entscheidungen (Q4/2025 - Q2/2026) konnten zum Stand der Aktualisierung nicht über dejure.org/openjur.de mit Volltext und konkretem Aktenzeichen verifiziert werden. Anwaltlicher Beratungsstandard: Prüfung der jeweils aktuellen Fachlichen Weisungen der BA zu § 159 SGB III.
 
 ## Paragrafenkette
 

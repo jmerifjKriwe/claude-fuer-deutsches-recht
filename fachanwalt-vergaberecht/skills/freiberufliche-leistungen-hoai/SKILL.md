@@ -27,10 +27,10 @@ description: "Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Recht
 
 ## Verfahrenswahl
 ### Verhandlungsverfahren mit TW (Regel) § 50 VgV
-Freiberufliche Leistungen sind regelmaessig nicht eindeutig und erschoepfend beschreibbar, daher Verhandlungsverfahren mit TW zulaessig. Voraussetzung § 14 Abs. 4 Nr. 5 VgV.
+Freiberufliche Leistungen sind regelmaessig nicht eindeutig und erschoepfend beschreibbar, daher Verhandlungsverfahren mit TW zulässig. Voraussetzung § 14 Abs. 4 Nr. 5 VgV.
 
 ### Planungswettbewerb § 78 ff. VgV
-Anonymisiertes Wettbewerbsverfahren mit Jury (RPW 2013). Anschluss-Vergabe an Sieger ueber Verhandlungsverfahren ohne TW (§ 14 Abs. 4 Nr. 8 VgV) zulaessig.
+Anonymisiertes Wettbewerbsverfahren mit Jury (RPW 2013). Anschluss-Vergabe an Sieger über Verhandlungsverfahren ohne TW (§ 14 Abs. 4 Nr. 8 VgV) zulässig.
 
 ### Konzeptvergabe
 Loesungsorientierte Vergabe ohne klassisches Leistungsverzeichnis; Eignung und Konzept werden gemeinsam bewertet.
@@ -38,19 +38,19 @@ Loesungsorientierte Vergabe ohne klassisches Leistungsverzeichnis; Eignung und K
 ## HOAI 2021 und EuGH/BGH-Linie
 - EuGH C-377/17 Kommission/Deutschland (04.07.2019): Mindest- und Hoechstsaetze HOAI alte Fassung unionsrechtswidrig.
 - BGH VII ZR 174/19 (02.06.2022): HOAI-Saetze im Bestand-Inland-Verhaeltnis nicht zwingend.
-- HOAI 2021: Orientierungshilfe, kein zwingender Mindestpreis; freie Honorarvereinbarung moeglich.
-- Vergabepraxis: Honorar als Wertungskriterium zulaessig und ueblich.
+- HOAI 2021: Orientierungshilfe, kein zwingender Mindestpreis; freie Honorarvereinbarung möglich.
+- Vergabepraxis: Honorar als Wertungskriterium zulässig und ueblich.
 
 ## Honorar als Wertungskriterium
-- Grundsatz: zulaessig, aber nicht alleiniges Kriterium (qualitaetsabhaengige Leistung).
+- Grundsatz: zulässig, aber nicht alleiniges Kriterium (qualitaetsabhaengige Leistung).
 - Typische Gewichtung: 20-40 Prozent Honorar, 60-80 Prozent Qualitaet (Konzept, Team, Referenzen).
-- Untergrenze: kein Preisdumping (§ 60 VgV Pruefung ungewoehnlich niedriger Angebote).
+- Untergrenze: kein Preisdumping (§ 60 VgV Prüfung ungewoehnlich niedriger Angebote).
 
 ## Planungswettbewerb RPW 2013
 - Anonymitaet bis Juryentscheidung.
 - Preisgericht mit Mehrheit Fachleute.
 - Preisgeld nach RPW-Tabellen.
-- Direkter Anschluss an Sieger im Verhandlungsverfahren ohne TW (§ 14 Abs. 4 Nr. 8 VgV) zulaessig, sofern in Auslobung angekuendigt.
+- Direkter Anschluss an Sieger im Verhandlungsverfahren ohne TW (§ 14 Abs. 4 Nr. 8 VgV) zulässig, sofern in Auslobung angekuendigt.
 
 ## Typische Fehler
 - Honorar als einziges Kriterium (Qualitaetsverlust + EuGH-konformes Wertungsmodell verletzt).
@@ -62,8 +62,8 @@ Loesungsorientierte Vergabe ohne klassisches Leistungsverzeichnis; Eignung und K
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

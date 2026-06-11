@@ -26,7 +26,7 @@ description: "Fachanwalt Arbeitsrecht Massenentlassung 17 KSchG: ordnet Normen, 
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Triage — vor jeder Bearbeitung klaeren
+## Triage — vor jeder Bearbeitung klären
 
 1. **Wie viele Arbeitnehmer hat der Betrieb?** — Betriebsbegriff nach BAG (nicht Unternehmen!): selbstaendige Organisation mit eigener Leitung, § 4 BetrVG.
 2. **Wie viele Entlassungen sind geplant, in welchem Zeitraum?** — Massgeblich: 30 Tage.
@@ -89,7 +89,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Entlassungssperre 1 Monat beachtet? | § 18 Abs. 1 KSchG | Kuendigung vor Fristablauf unwirksam |
 | 9 | Interessenausgleich versucht? | § 112 Abs. 2 BetrVG | Nachteilsausgleich § 113 BetrVG |
-| 10 | Sozialplan-Verhandlung oder Einigungsstelle? | § 112 Abs. 2-4 BetrVG | Erzwingbar; keine Kuendigung ohne Sozialplan moeglich wenn BR widerspricht |
+| 10 | Sozialplan-Verhandlung oder Einigungsstelle? | § 112 Abs. 2-4 BetrVG | Erzwingbar; keine Kuendigung ohne Sozialplan möglich wenn BR widerspricht |
 | 11 | Individuelle BR-Anhörung nach § 102 BetrVG pro Kuendigung? | § 102 BetrVG | Gesonderte Unwirksamkeit jeder einzelnen Kuendigung |
 
 ## Konsultationsverfahren § 17 Abs. 2 KSchG
@@ -101,12 +101,12 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Zahl und Berufsgruppen der in der Regel beschaeftigten AN
 - Zeitraum der geplanten Entlassungen
 - Vorgesehene Kriterien für die Auswahl der zu entlassenden AN
-- Fuer die Berechnung etwaiger Abfindungen vorgesehene Kriterien (§ 17 Abs. 2 S. 1 KSchG)
+- Für die Berechnung etwaiger Abfindungen vorgesehene Kriterien (§ 17 Abs. 2 S. 1 KSchG)
 
 ### Konsultationsziel
 
-- Pruefen, wie Entlassungen vermieden, eingeschraenkt oder ihre Folgen gemildert werden koennen
-- BR kann Alternativvorschlaege machen; AG muss diese ernsthaft pruefen (nicht zwingend umsetzen)
+- Prüfen, wie Entlassungen vermieden, eingeschraenkt oder ihre Folgen gemildert werden können
+- BR kann Alternativvorschlaege machen; AG muss diese ernsthaft prüfen (nicht zwingend umsetzen)
 - Protokoll der Konsultationsgespraeche anfertigen
 
 ### Zeitliche Reihenfolge (zwingend)
@@ -152,9 +152,9 @@ Anlagen:
 
 ### Interessenausgleich § 112 Abs. 1 BetrVG
 
-- Vereinbarung ueber **Ob**, **Wann** und **Wie** der Betriebsaenderung
+- Vereinbarung über **Ob**, **Wann** und **Wie** der Betriebsaenderung
 - Nicht erzwingbar (nur Einigungsstellen-Anruf als Druckmittel)
-- Namensliste der zu kuendigenden AN: erleichtert Sozialauswahl-Pruefung (§ 1 Abs. 5 KSchG — grobe Fehlerfreiheit genuegt)
+- Namensliste der zu kuendigenden AN: erleichtert Sozialauswahl-Prüfung (§ 1 Abs. 5 KSchG — grobe Fehlerfreiheit genuegt)
 
 ### Sozialplan § 112 Abs. 1 BetrVG
 
@@ -167,7 +167,7 @@ Anlagen:
 
 - Greift wenn AG Betriebsaenderung ohne Versuch des Interessenausgleichs durchfuehrt
 - Jeder entlassene AN hat Anspruch auf Abfindung nach § 113 Abs. 1 i.V.m. § 10 KSchG
-- Hoehe: bis 12 Bruttomonatsgehaelter; bei Alter und Betriebszugehoerigkeit bis 18
+- Höhe: bis 12 Bruttomonatsgehaelter; bei Alter und Betriebszugehoerigkeit bis 18
 
 ## Workflow
 
@@ -177,7 +177,7 @@ Anlagen:
 ### Phase 1 — Planung (4-6 Wochen vor erstem Kuendigungsausspruch)
 
 1. Schwellenwert-Berechnung: Entlassungszahl, 30-Tage-Fenster, Aufhebungsvertraege einbeziehen
-2. Betriebsabgrenzung klaeren: Betriebsteil vs. eigenstaendiger Betrieb (§ 4 BetrVG)
+2. Betriebsabgrenzung klären: Betriebsteil vs. eigenstaendiger Betrieb (§ 4 BetrVG)
 3. Sozialplan-Volumen vorab kalkulieren: Budget festlegen (0.5 bis 1.0 Monat x Betriebsjahre)
 4. Kommunikationsplan: wann informiert AG wen? Reihenfolge BR — BA — Presse
 
@@ -197,7 +197,7 @@ Anlagen:
 ### Phase 4 — Kuendigungen
 
 12. Erst nach Ablauf der Entlassungssperre: individuelle Kuendigungsschreiben aushaendigen
-13. Fuer jede Kuendigung: gesonderte BR-Anhörung nach § 102 BetrVG
+13. Für jede Kuendigung: gesonderte BR-Anhörung nach § 102 BetrVG
 14. Dokumentation: Zugangsnachweise sichern (Boten-Zustellung, Einschreiben)
 
 ### Phase 5 — Nachbereitung
@@ -278,11 +278,11 @@ c) Soziale Rechtfertigung fehlt nach § 1 II KSchG.
 - **Kuendigungsschutzklage AN**: dreifacher Bruttomonatslohn (§ 42 Abs. 2 GKG)
 - **Sozialplan-Einigungsstelle**: AG traegt Kosten nach § 76a BetrVG
 - **Nachteilsausgleich § 113 BetrVG**: Streitwert = Abfindungsbetrag
-- **Massenverfahren**: oft gemeinsame Vertretung mehrerer Klaeger moeglich
+- **Massenverfahren**: oft gemeinsame Vertretung mehrerer Kläger möglich
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -327,7 +327,7 @@ Anhaltspunkte für eine hohe Abfindung sind vorhanden.
 [Rechtsanwalt/-anwaeltin, Fachanwalt für Arbeitsrecht]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -338,7 +338,7 @@ Anhaltspunkte für eine hohe Abfindung sind vorhanden.
 |---|---|---|
 | Arbeitsgericht (Klageschrift) | Sachlich-juristisch, praezise | Verfahrensfehler als primaerer Angriffspunkt, soziale Rechtfertigung subsidiaar |
 | Mandant (Erstberatung) | Verstaendlich, realistisch | Chancen durch Verfahrensfehler; Abfindungsrahmen nennen |
-| Arbeitgeber (BR-Unterrichtung) | Formal, vollstaendig | Vollstaendigkeit des Inhalts gemaess § 17 Abs. 2 KSchG sicherstellen |
+| Arbeitgeber (BR-Unterrichtung) | Formal, vollstaendig | Vollstaendigkeit des Inhalts gemäß § 17 Abs. 2 KSchG sicherstellen |
 | Bundesagentur für Arbeit (Anzeige) | Behördensprache, vollstaendig | Alle Pflichtangaben; BR-Stellungnahme anhaengen |
 
 ## Anschluss-Skills

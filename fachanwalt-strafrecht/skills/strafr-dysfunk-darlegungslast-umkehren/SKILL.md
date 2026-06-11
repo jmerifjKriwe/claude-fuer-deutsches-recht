@@ -14,7 +14,7 @@ description: "Darlegungs- und Substantiierungslast für den Missbrauchsvorwurf k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Darlegungs- und Substantiierungslast für den Missbrauchsvorwurf konsequent auf die Gegenseite verlagern. Wer dem Verteidiger Rechtsmissbrauch vorwirft muss konkret darlegen welcher Antrag aus welchem Grund welchen Eingriffstatbestand erfuellt. Pauschalvorwuerfe sind nicht ausreichend. Praktische Schriftsatzformulierungen und Antwortbausteine. Folgenbetrachtung wenn Gericht in Urteilen Senatsschelte ohne Begruendung anfuehrt. Revisionsrelevanz pruefen.
+**Fokus:** Darlegungs- und Substantiierungslast für den Missbrauchsvorwurf konsequent auf die Gegenseite verlagern. Wer dem Verteidiger Rechtsmissbrauch vorwirft muss konkret darlegen welcher Antrag aus welchem Grund welchen Eingriffstatbestand erfuellt. Pauschalvorwuerfe sind nicht ausreichend. Praktische Schriftsatzformulierungen und Antwortbausteine. Folgenbetrachtung wenn Gericht in Urteilen Senatsschelte ohne Begruendung anfuehrt. Revisionsrelevanz prüfen.
 
 ### Darlegungslast für den Missbrauchsvorwurf umkehren
 
@@ -35,13 +35,13 @@ description: "Darlegungs- und Substantiierungslast für den Missbrauchsvorwurf k
 
 ## Schriftsatzformulierung (Bausteine)
 
-- Hinweis: Der Beschluss enthaelt keine Tatsachen, die eine Verschleppungsabsicht im Sinne § 244 Abs. 3 Satz 3 StPO tragen koennen.
+- Hinweis: Der Beschluss enthaelt keine Tatsachen, die eine Verschleppungsabsicht im Sinne § 244 Abs. 3 Satz 3 StPO tragen können.
 - Hinweis: Der Antrag dient erkennbar der Aufklaerung von [konkrete Beweisbehauptung] und steht im Bezug zu [Tatkomplex].
 - Hinweis: Eine Pauschalbewertung als Konfliktverteidigung ersetzt die Subsumtion nicht. § 137 Abs. 1 StPO schuetzt die Beistandsleistung.
 
 ## Senatsschelte im Urteil
 
-- Pruefen ob die Senatsschelte mit den Urteilsgruenden verflochten oder als obiter dictum eingestellt ist.
+- Prüfen ob die Senatsschelte mit den Urteilsgruenden verflochten oder als obiter dictum eingestellt ist.
 - Wenn der Senat seine Beweiswuerdigung mit der Verteidigerkritik vermischt: Revisionsruege § 261 StPO (luckenhafte Beweiswuerdigung) und § 338 StPO (absolute Revisionsgruende).
 - Wenn obiter dictum: in der Revision streichen lassen oder beanstanden.
 

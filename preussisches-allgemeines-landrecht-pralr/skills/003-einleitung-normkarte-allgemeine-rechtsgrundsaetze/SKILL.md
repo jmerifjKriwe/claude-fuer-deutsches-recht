@@ -49,11 +49,11 @@ Die Einleitung des ALR (1794) gilt als das normative Vorzimmer der Kodifikation.
 - **Einl. §§ 1-7 ALR** Verhaeltnis von Gesetz, Provinzialrecht, Statutarrecht und Gewohnheit; Subsidiaritaet des ALR gegenueber Provinzialrechten ("Soweit das Provinzial- oder Statutar-Recht nichts entgegengesetztes enthaelt, hat das Allgemeine Landrecht subsidiarische Kraft").
 - **Einl. §§ 46-58 ALR** Auslegung der Gesetze nach Wortlaut, Sinn, Absicht des Gesetzgebers; ausdrueckliche Erwaehnung des Grundsatzes 'In dubio pro reo' bzw. 'in dubio mitius'.
 - **Einl. §§ 73-89 ALR** Verhaeltnis Individualrecht zu Staatswohl. Hier sitzt der heute beruehmte Aufopferungsgedanke.
-- **Einl. § 74 ALR** "Die einzelnen Rechte und Vortheile der Mitglieder des Staats muessen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
+- **Einl. § 74 ALR** "Die einzelnen Rechte und Vortheile der Mitglieder des Staats müssen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
 - **Einl. § 75 ALR** "Dagegen ist der Staat denjenigen, welcher seine besondren Rechte und Vortheile dem Wohle des gemeinen Wesens aufzuopfern genoethigt wird, zu entschaedigen verbunden." — Anker des Aufopferungsanspruchs.
 
 ### Heutige Fortwirkung
-- **Aufopferungsanspruch** wird vom BGH bis heute aus §§ 74, 75 Einl. ALR als 'allgemeines Rechtsinstitut' fortgeschrieben (staendige Rspr.; Aktenzeichen vor Zitat im Digitalisat live pruefen, etwa BGHZ 9 Seite 83). Heute zentral bei Impfschaeden (vor SGB-VII-Spezialgesetzen), Polizeischaeden gegen Unbeteiligte, Aufopferung im Strafverfolgungsinteresse.
+- **Aufopferungsanspruch** wird vom BGH bis heute aus §§ 74, 75 Einl. ALR als 'allgemeines Rechtsinstitut' fortgeschrieben (staendige Rspr.; Aktenzeichen vor Zitat im Digitalisat live prüfen, etwa BGHZ 9 Seite 83). Heute zentral bei Impfschaeden (vor SGB-VII-Spezialgesetzen), Polizeischaeden gegen Unbeteiligte, Aufopferung im Strafverfolgungsinteresse.
 - Allgemeine Rechtssatzlehre ist methodengeschichtliche Grundlage des modernen Auslegungskanons.
 
 ### Beruehmte Faelle / Personen

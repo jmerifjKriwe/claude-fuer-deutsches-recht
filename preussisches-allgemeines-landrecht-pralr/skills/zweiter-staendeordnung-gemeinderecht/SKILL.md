@@ -46,7 +46,7 @@ description: "PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern: prüft kon
 ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Beispiele dafür, wie das ALR die staendische Gesellschaft normiert hat. Die Titel sind heute fast vollstaendig obsolet, aber rechtshistorisch zentral.
 
 ### Wichtige Paragraphen
-- **ALR II 7 §§ 1 ff.** Bauernstand: Gutsuntertaenigkeit, Erbuntertaenigkeit, Frondienste, Spanndienste. Hier zeigt das ALR den noch ungebrochenen Feudalismus: Bauern duerfen ohne Zustimmung des Gutsherrn nicht heiraten, das Gut nicht verlassen, nicht studieren.
+- **ALR II 7 §§ 1 ff.** Bauernstand: Gutsuntertaenigkeit, Erbuntertaenigkeit, Frondienste, Spanndienste. Hier zeigt das ALR den noch ungebrochenen Feudalismus: Bauern dürfen ohne Zustimmung des Gutsherrn nicht heiraten, das Gut nicht verlassen, nicht studieren.
 - **ALR II 8 §§ 1 ff.** Buergerstand: Innungen, Zuenfte, staedtisches Buergerrecht, Gewerbefreiheit eingeschraenkt.
 - **ALR II 9 §§ 1 ff.** Adel: Stammgut, Familienfideikommiss, Adelsvorrechte, Gerichtsbarkeit der Patrimonialgerichte.
 
@@ -54,7 +54,7 @@ ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Bei
 - Stein-Hardenbergsche Reformen ab 1807 (Oktoberedikt 06.10.1807) hoben die Gutsuntertaenigkeit auf — der bedeutendste Eingriff ins ALR.
 - Reichsdeputationshauptschluss 1803 und Wiener Kongress 1815 veraenderten die Adelsstruktur.
 - Art. 109 WRV (1919) und Art. 123 GG (1949) i.V.m. § 1 NamG haben Adelsvorrechte vollstaendig abgeschafft.
-- Adelspraedikate gelten ausschliesslich als Namensbestandteil; siehe BVerfG-Rspr. zur Namensfuehrung (Az im Digitalisat verifizieren).
+- Adelspraedikate gelten ausschließlich als Namensbestandteil; siehe BVerfG-Rspr. zur Namensfuehrung (Az im Digitalisat verifizieren).
 
 ### Beruehmte Faelle / Personen
 - **Stein** und **Hardenberg** als Architekten der Reformen.

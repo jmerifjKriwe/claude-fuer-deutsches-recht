@@ -72,14 +72,14 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - Briefkopf, Arzt-Stempel, Datum.
  - Diagnose mit ICD-10-Code.
  - Befund (objektive Untersuchung: Beweglichkeit, Krafteinschraenkungen, Laborwerte).
- - **Funktionsbeschreibung** (kann nicht laenger als 30 Min. sitzen, kein Heben ueber 5 kg, Konzentration ueber 15 Min. eingeschraenkt).
+ - **Funktionsbeschreibung** (kann nicht laenger als 30 Min. sitzen, kein Heben über 5 kg, Konzentration über 15 Min. eingeschraenkt).
  - Prognose (kurz-, mittel-, langfristig).
 - **Befundberichte:** Hausarzt, Fachaerzte, Klinikentlassungs-Berichte, Reha-Entlassungsberichte, Gutachten DRV/MD.
 - **Schweigepflichtentbindung § 17 SGB I, § 76 SGB X:** schriftlich und konkret (welche Aerzte, welcher Zeitraum, welche Behörde) - Recht auf Information welche Daten weitergeleitet werden.
-- **Eigene Stellungnahme - Pflegetagebuch:** ueber 14 Tage detailliert; Zeitangaben pro Modul.
+- **Eigene Stellungnahme - Pflegetagebuch:** über 14 Tage detailliert; Zeitangaben pro Modul.
 - **Bei kontroversen Gutachten:**
- - **Akteneinsicht** § 25 SGB X / § 120 SGG zur Pruefung Gutachten.
+ - **Akteneinsicht** § 25 SGB X / § 120 SGG zur Prüfung Gutachten.
  - **Stellungnahme** behandelnder Aerzte einholen.
- - **§ 109 SGG Antrag** auf Wahl-Sachverstaendigen vor dem SG (Kostentragung Antragsteller; bei Erfolg ueber § 192 SGG-Regelung diskutabel).
+ - **§ 109 SGG Antrag** auf Wahl-Sachverstaendigen vor dem SG (Kostentragung Antragsteller; bei Erfolg über § 192 SGG-Regelung diskutabel).
 - **Beweislast:** Versicherter / Antragsteller für leistungsbegruendende Tatsachen; Behörde für leistungsausschliessende Tatsachen (BSG-Linie). Nichterweislichkeit geht zu Lasten der Partei mit Beweislast.
-- **Praxis-Tipp:** Aussage Angehoeriger / Pflegekraefte als ergaenzende Beweise; Fotos im Alltag (eingeschraenkte Bewegung, Hilfsmittel); Tagebuch ueber Schmerz, Schlaf, Mobilitaet.
+- **Praxis-Tipp:** Aussage Angehoeriger / Pflegekraefte als ergaenzende Beweise; Fotos im Alltag (eingeschraenkte Bewegung, Hilfsmittel); Tagebuch über Schmerz, Schlaf, Mobilitaet.

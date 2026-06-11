@@ -48,10 +48,10 @@ description: "Norm- und Dogmatik-Skill für Battle of Forms AGB Kollision: prüf
 - Internationales: bei UN-Kaufrecht (CISG) Art. 19 CISG Mirror-Image-Rule mit Modifikationen.
 
 ### Abwehrklauseln
-- Abwehrklauseln ("Es gelten ausschliesslich unsere AGB") sind im B2B grundsaetzlich wirksam, aber bei Kollision wirkt die Restgueltigkeitstheorie weiter.
+- Abwehrklauseln ("Es gelten ausschließlich unsere AGB") sind im B2B grundsätzlich wirksam, aber bei Kollision wirkt die Restgueltigkeitstheorie weiter.
 
 ### Praxiskonsequenzen
-- Auftragsbestaetigung mit eigenen AGB sollte ausdruecklich auf bisherige Kommunikation Bezug nehmen, um Rechtsklarheit ueber Vertragsinhalt zu schaffen.
+- Auftragsbestaetigung mit eigenen AGB sollte ausdruecklich auf bisherige Kommunikation Bezug nehmen, um Rechtsklarheit über Vertragsinhalt zu schaffen.
 - Spaetere Erfuellungshandlungen werden im Zweifel als konkludentes Einverstaendnis gewertet, aber nur für Kernpunkte.
 
 ### Pruefraster
@@ -59,7 +59,7 @@ description: "Norm- und Dogmatik-Skill für Battle of Forms AGB Kollision: prüf
 2. Abwehrklauseln vorhanden?
 3. Welche Klauseln widersprechen sich konkret?
 4. Welche dispositive Norm greift bei Kollision?
-5. Internationales Geschaeft? — CISG-Pruefung.
+5. Internationales Geschäft? — CISG-Prüfung.
 
 ## Quellenanker
 

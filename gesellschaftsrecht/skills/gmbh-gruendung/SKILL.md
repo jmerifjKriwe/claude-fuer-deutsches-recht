@@ -32,9 +32,9 @@ Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur Ei
 
 ## Triage zu Beginn
 
-Vor Beginn der Gruendungsbegleitung klaeren:
+Vor Beginn der Gruendungsbegleitung klären:
 
-1. **Rechtsform sicher?** GmbH oder UG (haftungsbeschraenkt, § 5a GmbHG)? Bei Stammkapital < 25.000 EUR: UG; bei nur 1 Gesellschafter und 1 Geschaeftsfuehrer: Musterprotokoll (§ 2 Abs. 1a GmbHG) moeglich.
+1. **Rechtsform sicher?** GmbH oder UG (haftungsbeschraenkt, § 5a GmbHG)? Bei Stammkapital < 25.000 EUR: UG; bei nur 1 Gesellschafter und 1 Geschaeftsfuehrer: Musterprotokoll (§ 2 Abs. 1a GmbHG) möglich.
 2. **Gesellschafterkreis vollstaendig?** Alle Gesellschafter identifiziert, Geschaeftsfaehigkeit geprueft? Minderjaehrige: familiengerichtliche Genehmigung erforderlich?
 3. **Gegenstand erlaubnispflichtig?** Zahlungsdienste (§ 32 KWG), Finanzanlageberatung (§ 34f GewO), Immobilienmakler (§ 34c GewO), Gesundheit, Waffen? Genehmigung VOR Gruendung einholen.
 4. **Sacheinlagen?** Wird Stammkapital durch Sacheinlagen aufgebracht? → Sachgruendungsbericht (§ 5 Abs. 4 GmbHG) erforderlich; Zeitaufwand und Werthaltigkeitspruefung einplanen.
@@ -134,20 +134,20 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — GmbH gruenden nach Standardprogramm | Gruendungsprotokoll nach Ablauf; Template unten |
 | Variante A — Gruendung eilt keine Zeit für Musterprotokoll | Musterprotokoll-GmbH § 2 Abs. 1a GmbHG als Schnelloption |
-| Variante B — Gesellschafter aus verschiedenen Ländern | Notarielle Gruendung im Inland; Vollmacht aus dem Ausland pruefen |
-| Variante C — Gruender will erst UG dann Hochstufung | UG-Gruendung zuerst; Hochstufung nach Kapitalaufbau |
+| Variante B — Gesellschafter aus verschiedenen Ländern | Notarielle Gruendung im Inland; Vollmacht aus dem Ausland prüfen |
+| Variante C — Gründer will erst UG dann Hochstufung | UG-Gruendung zuerst; Hochstufung nach Kapitalaufbau |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template
 
-**Adressat:** Gruender / Mandant — Tonfall: verstaendlich-erklaerend, fristen-orientiert
+**Adressat:** Gründer / Mandant — Tonfall: verstaendlich-erklaerend, fristen-orientiert
 
 ```
 GRUENDUNGS-CHECKLISTE
@@ -200,7 +200,7 @@ Phase: [VORBEREITUNG / BEURKUNDUNG / EINZAHLUNG / ANMELDUNG / ABGESCHLOSSEN]
 Naechster Schritt: [AKTION] — Frist: [DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

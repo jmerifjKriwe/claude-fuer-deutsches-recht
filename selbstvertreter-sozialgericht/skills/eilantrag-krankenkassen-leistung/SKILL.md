@@ -3,7 +3,7 @@ name: eilantrag-krankenkassen-leistung
 description: "Eilantrag wenn die Krankenkasse Behandlung Hilfsmittel oder Therapie ablehnt § 86b Abs. 2 SGG. Schwere und unumkehrbare Gesundheitsschaeden Mustertext für Buerger."
 ---
 
-# Eilantrag gegen die Krankenkasse — wenn Sie nicht warten koennen
+# Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können
 
 ## Fachlicher Anker
 
@@ -17,7 +17,7 @@ Die Krankenkasse lehnt eine wichtige Behandlung oder ein Hilfsmittel ab. Sie bra
 
 ## In einfacher Sprache
 
-Die Krankenkasse sagt Nein. Aber Sie brauchen die Hilfe schnell. Sie koennen zum Sozialgericht gehen. Das Gericht kann der Krankenkasse sagen: bezahlen Sie das jetzt. Das geht in wenigen Wochen.
+Die Krankenkasse sagt Nein. Aber Sie brauchen die Hilfe schnell. Sie können zum Sozialgericht gehen. Das Gericht kann der Krankenkasse sagen: bezahlen Sie das jetzt. Das geht in wenigen Wochen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -30,7 +30,7 @@ Die Krankenkasse sagt Nein. Aber Sie brauchen die Hilfe schnell. Sie koennen zum
 
 - **Hilfsmittel**: Geraete, die Sie wegen Krankheit oder Behinderung brauchen.
 - **Heilmittel**: Therapien wie Physiotherapie, Ergotherapie.
-- **Genehmigungsfiktion**: Wenn die Krankenkasse nicht rechtzeitig entscheidet (3 Wochen / 5 Wochen bei MD-Pruefung), gilt der Antrag als genehmigt (§ 13 Abs. 3a SGB V).
+- **Genehmigungsfiktion**: Wenn die Krankenkasse nicht rechtzeitig entscheidet (3 Wochen / 5 Wochen bei MD-Prüfung), gilt der Antrag als genehmigt (§ 13 Abs. 3a SGB V).
 - **Off-Label-Use**: Medikament wird ausserhalb der Zulassung verwendet (besondere Voraussetzungen).
 
 ## Rechtsgrundlagen
@@ -44,9 +44,9 @@ Die Krankenkasse sagt Nein. Aber Sie brauchen die Hilfe schnell. Sie koennen zum
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Genehmigungsfiktion pruefen
+### Schritt 1 — Genehmigungsfiktion prüfen
 
-Wichtig! Wenn die Krankenkasse seit mehr als 3 Wochen nach Ihrem Antrag nicht entschieden hat (5 Wochen bei MD-Pruefung), gilt der Antrag als genehmigt (§ 13 Abs. 3a SGB V). Sie koennen die Leistung selbst beschaffen und sich erstatten lassen.
+Wichtig! Wenn die Krankenkasse seit mehr als 3 Wochen nach Ihrem Antrag nicht entschieden hat (5 Wochen bei MD-Prüfung), gilt der Antrag als genehmigt (§ 13 Abs. 3a SGB V). Sie können die Leistung selbst beschaffen und sich erstatten lassen.
 
 Schritte:
 
@@ -114,7 +114,7 @@ IV. Glaubhaftmachung
 
 ### Schritt 3 — Aerztliche Unterstuetzung organisieren
 
-Das ist der Schluessel: Ihr Arzt muss schreiben, warum die Behandlung dringend ist.
+Das ist der Schlüssel: Ihr Arzt muss schreiben, warum die Behandlung dringend ist.
 
 Bitten Sie Ihren Arzt um ein **medizinisches Attest mit Dringlichkeit**:
 
@@ -129,7 +129,7 @@ Bitten Sie Ihren Arzt um ein **medizinisches Attest mit Dringlichkeit**:
 Das Gericht muss erkennen, dass es jetzt eilt. Beispiele:
 
 - "Bei Verzoegerung um mehr als 4 Wochen droht eine Operation, die andernfalls vermieden werden koennte."
-- "Ohne sofortige Hoergeraet-Versorgung ist die Teilhabe am beruflichen Alltag nicht mehr moeglich; Arbeitsplatzverlust droht."
+- "Ohne sofortige Hoergeraet-Versorgung ist die Teilhabe am beruflichen Alltag nicht mehr möglich; Arbeitsplatzverlust droht."
 
 ### Schritt 5 — Schnelle Wege nutzen
 
@@ -140,16 +140,16 @@ Das Gericht muss erkennen, dass es jetzt eilt. Beispiele:
 
 Das Gericht ordnet die Leistung vorlaeufig an. Die KK muss bezahlen. Die Hauptsache (Widerspruch und ggf. Klage) laeuft trotzdem weiter.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Genehmigungsfiktion ist Geheimwaffe**: Wenn die KK Fristen reisst, ist der Antrag fiktiv genehmigt. Pruefen Sie immer die Fristen.
+- **Genehmigungsfiktion ist Geheimwaffe**: Wenn die KK Fristen reisst, ist der Antrag fiktiv genehmigt. Prüfen Sie immer die Fristen.
 - **Aerztliche Atteste sind das Wichtigste**: ohne aerztliche Unterstuetzung kaum Eilantrag-Erfolg.
-- **Off-Label und nicht zugelassene Behandlungen**: enge Voraussetzungen. BSG-Linie pruefen.
-- **Reha ist nicht immer akut**: Reha-Ablehnung muessen Sie eher in Hauptverfahren angreifen; Eilantrag schwerer.
+- **Off-Label und nicht zugelassene Behandlungen**: enge Voraussetzungen. BSG-Linie prüfen.
+- **Reha ist nicht immer akut**: Reha-Ablehnung müssen Sie eher in Hauptverfahren angreifen; Eilantrag schwerer.
 
 ## Typische Fehler
 
-- Genehmigungsfiktion vergessen → erst pruefen!
+- Genehmigungsfiktion vergessen → erst prüfen!
 - Eilantrag ohne aerztliches Attest → Arzt einbinden
 - "Lange leiden" als Argument → keine Eilbeduerftigkeit ohne unumkehrbaren Schaden
 - An die Krankenkasse statt ans SG → SG ist Adressat

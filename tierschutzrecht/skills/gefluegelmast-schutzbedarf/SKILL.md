@@ -3,7 +3,7 @@ name: gefluegelmast-schutzbedarf
 description: "Geflügelmast: Schutzbedarf prüfen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Gefluegelmast Schutzbedarf Pruefen
+# Gefluegelmast Schutzbedarf Prüfen
 
 ## Arbeitsweg
 

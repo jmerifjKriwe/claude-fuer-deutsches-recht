@@ -35,7 +35,7 @@ Modul 2 oder 3 — das schwerwiegendere zaehlt.
 - PG 2: 27 - 47,5 Punkte
 - PG 3: 47,5 - 70 Punkte
 - PG 4: 70 - 90 Punkte
-- PG 5: ueber 90 Punkte
+- PG 5: über 90 Punkte
 
 ## Typische Streitpunkte
 

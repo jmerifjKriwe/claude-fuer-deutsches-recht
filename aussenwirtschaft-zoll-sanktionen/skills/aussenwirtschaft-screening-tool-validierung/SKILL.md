@@ -16,7 +16,7 @@ description: "Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: 
 ## Mandantenfall
 
 - Compliance-Abteilung muss gegenueber BAFA nachweisen, dass Screening-Tool Sanktionslisten vollstaendig abdeckt.
-- Bank prueft neues Screening-System vor Go-live; Testfall-Set gesucht.
+- Bank prüft neues Screening-System vor Go-live; Testfall-Set gesucht.
 - Bestehendes Tool liefert zu viele False Positives; Schwellenwert-Kalibrierung noetig.
 
 ## Erste Schritte
@@ -25,7 +25,7 @@ description: "Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: 
 2. Testfall-Set erstellen: Bekannte Listeneintraege, Namensvarationen, bekannte False-Positive-Faelle.
 3. False-Positive- und False-Negative-Rate messen und dokumentieren.
 4. Fuzzy-Match-Schwellenwert analysieren; Einfluss von Umlaut-Normalisierung und Transliteration.
-5. Aktualitaet der Listen pruefen: Wie haeufig wird die Listendatenbank aktualisiert?
+5. Aktualitaet der Listen prüfen: Wie haeufig wird die Listendatenbank aktualisiert?
 6. Validierungsbericht erstellen und Schwachstellen mit Korrekturmanahmen priorisieren.
 
 ## Rechtsrahmen
@@ -43,7 +43,7 @@ description: "Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: 
 - [ ] False-Negative-Test mit bekannten Listentreffer durchgefuehrt?
 - [ ] Fuzzy-Match-Schwellenwert kalibriert und begruendet?
 - [ ] Update-Frequenz der Listendatenbank ausreichend?
-- [ ] Audit-Dokumentation für BAFA-/BaFin-Pruefung vorhanden?
+- [ ] Audit-Dokumentation für BAFA-/BaFin-Prüfung vorhanden?
 
 ## Typische Fallstricke
 

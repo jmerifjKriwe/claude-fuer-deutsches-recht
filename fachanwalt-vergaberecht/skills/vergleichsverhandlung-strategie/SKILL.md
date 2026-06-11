@@ -60,7 +60,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ### Konzessionsphase
 
 - In kleinen, begruendeten Schritten nachgeben.
-- Jede Konzession an Gegenleistung knuepfen ("Wenn Sie X, dann koennen wir Y").
+- Jede Konzession an Gegenleistung knuepfen ("Wenn Sie X, dann können wir Y").
 - Konzessionsmuster nicht linear (sonst extrapolierbar) sondern abnehmend.
 
 ### Endspiel
@@ -93,7 +93,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ## Risiken und Stolpersteine im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 
-- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> GWB Teil 4 und ESt-/USt-Regeln pruefen.
+- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> GWB Teil 4 und ESt-/USt-Regeln prüfen.
 - Vollmacht: Mandantin muss zustimmen, anwaltliche Vergleichsbefugnis muss in Vollmacht expliziert sein.
 - Vollstreckbarkeit: aussergerichtlicher Vergleich ohne notarielle Form/Anwaltsvergleich ist kein Vollstreckungstitel.
 - Verzicht zu weit gefasst: pauschale Abgeltungsklausel kann eigene Ansprueche unbeabsichtigt mit erfassen.
@@ -111,11 +111,11 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 1: Eroeffnung mit Ankerwert
 
-> "Wir haben die Sache durchgerechnet. Auf Basis von GWB Teil 4 und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, ueber eine Pauschalsumme zu sprechen, die die Sache abschliesst."
+> "Wir haben die Sache durchgerechnet. Auf Basis von GWB Teil 4 und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, über eine Pauschalsumme zu sprechen, die die Sache abschliesst."
 
 ### Skript 2: Begruendete Konzession
 
-> "Wir koennen Z Euro nachgeben, wenn Sie im Gegenzug die Klausel A streichen und einer Vertraulichkeitsvereinbarung zustimmen. Andernfalls bleiben wir bei der urspruenglichen Position."
+> "Wir können Z Euro nachgeben, wenn Sie im Gegenzug die Klausel A streichen und einer Vertraulichkeitsvereinbarung zustimmen. Andernfalls bleiben wir bei der urspruenglichen Position."
 
 ### Skript 3: Abschluss-Frage
 
@@ -123,11 +123,11 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 4: Walk-Away-Signal
 
-> "Wir haben hier eine klare Linie. Wenn Sie nicht ueber die 35.000 Euro hinauskommen, werden wir Klage einreichen und sehen, wie das Gericht entscheidet."
+> "Wir haben hier eine klare Linie. Wenn Sie nicht über die 35.000 Euro hinauskommen, werden wir Klage einreichen und sehen, wie das Gericht entscheidet."
 
 ## Stoerfeuer und Antwort-Bausteine
 
-- **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
+- **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir können Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
 - **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjährung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
 - **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
 
@@ -136,7 +136,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 Im Bereich Vergaberecht (Oberschwellen- und Unterschwellenvergabe) oft uebersehen:
 
 - Vergleichszahlung als Schadensersatz (in der Regel keine USt, EStG je nach Art).
-- Vergleich ueber Lohn-/Gehaltsanspruch -> Lohnsteuer- und SV-Abzug pruefen.
+- Vergleich über Lohn-/Gehaltsanspruch -> Lohnsteuer- und SV-Abzug prüfen.
 - Vergleichszahlung als Anwaltshonorar -> ggf. USt.
 - Erbrechtliche Abfindung -> ggf. ErbStG.
 - Hinweis im Vergleich: "Die steuerliche Behandlung ist nicht Gegenstand dieser Vereinbarung und obliegt der eigenen Steuerberatung der Parteien."
@@ -179,7 +179,7 @@ Klassische Stolperfalle in Vergaberecht (Oberschwellen- und Unterschwellenvergab
 Bei Nachpruefungsverfahren-Vergleich:
 - Verfahren wird eingestellt wenn Bieter Antrag zuruecknimmt
 - Kein Prozessvergleich wie in ZPO-Verfahren; Vergabekammer stellt Verfahren ein
-- Einigung ueber kuenftige Auftragserteilung ist vergaberechtlich riskant (De-facto-Vergabe)
+- Einigung über kuenftige Auftragserteilung ist vergaberechtlich riskant (De-facto-Vergabe)
 - Schadensersatz § 181 GWB als Vergleichsgegenstand: prozessoekonomisch sinnvoll
 
 ### Normen Vergaberecht Vergleich
@@ -192,8 +192,8 @@ Bei Nachpruefungsverfahren-Vergleich:
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

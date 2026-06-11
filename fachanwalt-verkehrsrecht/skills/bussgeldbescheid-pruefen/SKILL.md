@@ -79,12 +79,12 @@ Hinweis: BGH (4. Strafsenat) zu Geschwindigkeitsmessverfahren ist standardisiert
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Mandant will Bussgeldbescheid pruefen lassen | Formelle und materielle Pruefung; Schriftsatz unten |
-| Variante A — Bescheid ohne Messfehler Akzeptanz guenstiger | Keine weiteren Massnahmen; Zahlung empfehlen |
+| Standard — Mandant will Bussgeldbescheid prüfen lassen | Formelle und materielle Prüfung; Schriftsatz unten |
+| Variante A — Bescheid ohne Messfehler Akzeptanz guenstiger | Keine weiteren Maßnahmen; Zahlung empfehlen |
 | Variante B — Fahrverbot mit Haertefall Elternzeit Fernpendler | Einspruch nur wegen Fahrverbot; Geldbusse akzeptieren |
 | Variante C — Standardisiertes Messverfahren fehlerhafte Geeichung | Einspruch mit technischer Ruege; Akte anfordern |
 
@@ -198,7 +198,7 @@ folgende Fehler zu verzeichnen:
  Messergebnisse liefern konnte.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

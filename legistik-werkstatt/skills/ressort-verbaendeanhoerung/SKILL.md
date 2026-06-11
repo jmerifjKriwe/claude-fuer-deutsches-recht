@@ -41,14 +41,14 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Kuerzel:** BMF
 - **Hausleitung Stand 2026:** Lars Klingbeil (SPD)
 - **Dienstsitz:** Wilhelmstr. 97; 10117 Berlin; Zweitsitz Am Propsthof 78a; 53121 Bonn
-- **Schwerpunkt:** Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche.
+- **Schwerpunkt:** Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Außenwirtschaft; Geldwaesche.
 - **Kernnormen im Geschaeftsbereich:** AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG.
 
 ## Materie auf einer Seite
 
 ### Worum geht es sachlich
 
-Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche. Dieses Ressort ist nicht primaer Politik; es ist sachverstaendige Verwaltung
+Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Außenwirtschaft; Geldwaesche. Dieses Ressort ist nicht primaer Politik; es ist sachverstaendige Verwaltung
 einer Lebenswelt - Behörden; Verbaende; technische Regeln; europaeische Rechtsakte und
 Vollzugspraxis greifen ineinander.
 
@@ -61,7 +61,7 @@ Vollzugspraxis greifen ineinander.
 - **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
 - **EU-Ebene** (Generaldirektion und Ratsformation)
 
-### Welche Normen muss man lesen koennen
+### Welche Normen muss man lesen können
 
 AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG.
 
@@ -73,11 +73,11 @@ gerichts-Linie und BVerwG-Linie.
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
  konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Ländern oder nachgeordneten Behörden;
- Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen müssen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
  (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
- pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ prüfen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -88,7 +88,7 @@ gerichts-Linie und BVerwG-Linie.
 - `legw-bmf-geldwaesche-und-sanktionsrecht` - Geldwaescherecht und Sanktionsrecht
 
 Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Pruefpfad und
-Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau diese Skills ein.
+Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich über genau diese Skills ein.
 
 ## Stolpersteine - die fuenf haeufigsten
 

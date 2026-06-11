@@ -22,7 +22,7 @@ description: "Gefaehrliche Koerperverletzung nach § 224 StGB: Qualifikationen N
 
 § 224 StGB ist die zentrale **Qualifikation der Koerperverletzung**. Er erweitert § 223 StGB durch fuenf Begehungsweisen, die das Tatunrecht deutlich erhoehen. Strafrahmen: Freiheitsstrafe von sechs Monaten bis zu zehn Jahren; in minder schweren Faellen Freiheitsstrafe von drei Monaten bis zu fuenf Jahren.
 
-§ 224 StGB ist Offizialdelikt – kein Strafantrag erforderlich. Nebenklage ist nach § 395 Abs. 1 StPO zulaessig.
+§ 224 StGB ist Offizialdelikt – kein Strafantrag erforderlich. Nebenklage ist nach § 395 Abs. 1 StPO zulässig.
 
 In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches Werkzeug" (Nr. 2)? Wann liegt eine "lebensgefaehrdende Behandlung" (Nr. 5) vor? Wann ist die Gemeinschaftlichkeit (Nr. 4) erfuellt?
 
@@ -43,16 +43,16 @@ In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches 
 
 **Nr. 3 – Hinterlistiger Ueberfall:** Ueberraschender Angriff unter planmäßiger Verbergung der Angriffsabsicht. Vorbedachte Verbergung der Absicht. Reines Plueckichkeitsmoment reicht nicht; erforderlich ist eine besondere Tueckigkeit (Lauerstellung, Maske, falsche Identitaet).
 
-**Nr. 4 – Mit einem anderen Beteiligten gemeinschaftlich:** Mindestens zwei am Tatort anwesende Personen wirken zusammen. Es genuegt nach staendiger BGH-Rechtsprechung, dass die anderen Beteiligten am Tatort anwesend sind und das Opfer dadurch in Furcht versetzt wird – auch Anstiftungs- oder Beihilfehandlungen sind moeglich. Nicht erforderlich, dass alle Beteiligten Mittaeter iSd § 25 Abs. 2 StGB sind.
+**Nr. 4 – Mit einem anderen Beteiligten gemeinschaftlich:** Mindestens zwei am Tatort anwesende Personen wirken zusammen. Es genuegt nach staendiger BGH-Rechtsprechung, dass die anderen Beteiligten am Tatort anwesend sind und das Opfer dadurch in Furcht versetzt wird – auch Anstiftungs- oder Beihilfehandlungen sind möglich. Nicht erforderlich, dass alle Beteiligten Mittaeter iSd § 25 Abs. 2 StGB sind.
 
 **Nr. 5 – Lebensgefaehrdende Behandlung:** Die Behandlung muss nach den Umstaenden des Einzelfalls **objektiv und konkret** geeignet sein, das Leben des Opfers zu gefaehrden. Eine tatsaechliche Lebensgefahr ist nicht erforderlich (Eignungsdelikt). Wuergen mit erheblichem Druck am Hals, Schlaege mit dem Kopf gegen harten Untergrund, Werfen aus dem Fenster, Drosselungen.
 
 ## Praktikertipps der Verteidigung
 
-- **Nr. 2 Gefaehrliches Werkzeug:** Genaue Beweisaufnahme zur konkreten Verwendung (Schlagintensitaet, getroffene Koerperregion). Bei Faustschlag scheidet Nr. 2 grundsaetzlich aus.
+- **Nr. 2 Gefaehrliches Werkzeug:** Genaue Beweisaufnahme zur konkreten Verwendung (Schlagintensitaet, getroffene Koerperregion). Bei Faustschlag scheidet Nr. 2 grundsätzlich aus.
 - **Nr. 4 Gemeinschaftlich:** Ist der "andere Beteiligte" tatsaechlich am Tatort anwesend und am Geschehen beteiligt gewesen? Blosse Anwesenheit ohne Beitrag reicht nach staendiger BGH-Linie regelmaessig nicht.
 - **Nr. 5 Lebensgefaehrdende Behandlung:** Eignungsdelikt – Verteidigung muss die konkrete Eignung zur Lebensgefaehrdung erschuettern; aerztliche Sachverstaendige zur Verletzungsfolge.
-- **Subjektiver Tatbestand:** Bei dolus eventualis hinsichtlich der Lebensgefaehrdung genaue Pruefung. Verteidigung kann oft argumentieren, der Taeter habe die konkrete Gefahr nicht erkannt.
+- **Subjektiver Tatbestand:** Bei dolus eventualis hinsichtlich der Lebensgefaehrdung genaue Prüfung. Verteidigung kann oft argumentieren, der Taeter habe die konkrete Gefahr nicht erkannt.
 - **§ 224 Abs. 2 StGB (minder schwerer Fall):** Strafrahmen drei Monate bis fuenf Jahre Freiheitsstrafe – bei Geststaendnis, Erstmaligkeit, Schadenswiedergutmachung, geringen Tatfolgen.
 - **Versuch:** § 224 Abs. 2 StGB – Versuch strafbar.
 
@@ -61,17 +61,17 @@ In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches 
 - **Schweigen vs. Aussage:** Bei strittiger Werkzeugeigenschaft oder Gemeinschaftlichkeit kann die Verteidigung mit Aussage die Qualifikation auf § 223 StGB zurueckfuehren. Risiko: Geststaendnis hinsichtlich Koerperverletzung steht fest.
 - **Geststaendnis und TOA:** Klassischer Strafmilderungsweg. Bei § 224 StGB wird Bewaehrungsstrafe bis zu zwei Jahren erstrebt.
 - **Glaubwuerdigkeit:** Bei "Aussage gegen Aussage" zur Werkzeugeigenschaft Beweiserhebung intensiv betreiben (Spurenbild, Verletzungsbild).
-- **Nebenklage:** § 395 Abs. 1 Nr. 3 StPO – Nebenklage bei § 224 StGB regelmaessig zulaessig (auch ohne Verletzungsgrad nach § 226 StGB).
+- **Nebenklage:** § 395 Abs. 1 Nr. 3 StPO – Nebenklage bei § 224 StGB regelmaessig zulässig (auch ohne Verletzungsgrad nach § 226 StGB).
 
 ## Konkurrenzen
 
-- **§ 223 StGB:** Grundtatbestand, der durch § 224 StGB qualifiziert wird; Tateinheit moeglich; nach staendiger BGH-Rechtsprechung treten beide nicht in Idealkonkurrenz, sondern § 223 StGB tritt im Wege der Spezialitaet zurueck.
+- **§ 223 StGB:** Grundtatbestand, der durch § 224 StGB qualifiziert wird; Tateinheit möglich; nach staendiger BGH-Rechtsprechung treten beide nicht in Idealkonkurrenz, sondern § 223 StGB tritt im Wege der Spezialitaet zurueck.
 - **§ 226 StGB:** Erfolgsqualifikation – schwere Folgen.
 - **§ 227 StGB:** Erfolgsqualifikation Todesfolge.
 - **§ 225 StGB:** Misshandlung Schutzbefohlener.
 - **§ 212 StGB:** Bei Toetungsvorsatz vorrangig.
 - **§ 250 StGB:** Bei Raubgeschehen.
-- **§ 177 StGB:** Bei Sexualdelikt mit Gewaltanwendung Tateinheit moeglich.
+- **§ 177 StGB:** Bei Sexualdelikt mit Gewaltanwendung Tateinheit möglich.
 
 ## Strafzumessung
 
@@ -80,8 +80,8 @@ In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches 
 - **Versuch:** § 224 Abs. 2 StGB; § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB.
 - **§ 46 StGB Strafzumessung:** Verletzungsfolgen, Tatumstaende, Geststaendnis, TOA.
 - **§ 46a StGB / TOA:** Strafrahmenverschiebung iVm § 49 Abs. 1 StGB.
-- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsaetzlich moeglich (§ 56 StGB).
-- **§§ 153, 153a StPO:** Bei minder schweren Faellen pruefen, aber selten bei § 224 StGB.
+- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsätzlich möglich (§ 56 StGB).
+- **§§ 153, 153a StPO:** Bei minder schweren Faellen prüfen, aber selten bei § 224 StGB.
 
 ## Mustertexte
 
@@ -89,7 +89,7 @@ In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches 
 > Der Angeklagte raeumt ein, dem Geschaedigten einen Schlag mit der flachen Hand gegeben zu haben. Er bestreitet, dass die in der Anklage erwaehnte Glasflasche im Spiel war. Die Glasflasche stand auf dem Nebentisch und ist nach dem Schlag durch eine andere Bewegung zu Boden gefallen.
 
 **Antrag auf Strafrahmenverschiebung § 46a StGB:**
-> Es wird die Anwendung des § 46a Nr. 1 StGB beantragt. Der Angeklagte hat mit dem Geschaedigten ein TOA-Verfahren durchgefuehrt, sich entschuldigt, ein Schmerzensgeld in Hoehe von ... EUR vereinbart und die erste Rate bereits gezahlt. Der Geschaedigte hat erklaert, die Tat sei aus seiner Sicht aufgearbeitet.
+> Es wird die Anwendung des § 46a Nr. 1 StGB beantragt. Der Angeklagte hat mit dem Geschaedigten ein TOA-Verfahren durchgefuehrt, sich entschuldigt, ein Schmerzensgeld in Höhe von ... EUR vereinbart und die erste Rate bereits gezahlt. Der Geschaedigte hat erklaert, die Tat sei aus seiner Sicht aufgearbeitet.
 
 **Plaedoyer-Snippet:**
 > Die Qualifikation nach § 224 Abs. 1 Nr. 5 StGB setzt eine konkret lebensgefaehrdende Behandlung voraus. Die Beweisaufnahme hat ergeben, dass das Wuergen nur sekundenkurz und ohne erkennbaren Erstickungseffekt erfolgt ist. Die konkrete Eignung zur Lebensgefaehrdung ist nicht zur Ueberzeugung des Gerichts nachgewiesen.

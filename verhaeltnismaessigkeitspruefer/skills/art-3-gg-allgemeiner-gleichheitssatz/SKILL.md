@@ -13,38 +13,38 @@ Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern die ungerechtf
 
 1. **Vergleichsgruppen bilden** — wesentlich Gleiches wird ungleich behandelt oder wesentlich Ungleiches gleich. Vergleichsmerkmal explizit benennen.
 2. **Differenzierung feststellen** — Norm, Verwaltungsakt oder faktische Praxis behandelt die Gruppen unterschiedlich.
-3. **Rechtfertigung pruefen** — abhaengig vom Pruefungsmassstab nach Willkuerformel oder Neuer Formel.
-4. **Verhaeltnismaessigkeit der Differenzierung** — wo Neue Formel greift, Vier-Stufen-Pruefung wie bei Eingriffsrechtfertigung.
+3. **Rechtfertigung prüfen** — abhaengig vom Pruefungsmassstab nach Willkuerformel oder Neuer Formel.
+4. **Verhältnismäßigkeit der Differenzierung** — wo Neue Formel greift, Vier-Stufen-Prüfung wie bei Eingriffsrechtfertigung.
 
 ## Willkuerformel und Neue Formel
 
 ### Willkuerformel (klassisch, ab BVerfGE 1, 14 — Suedweststaat)
 
-Eine Differenzierung ist gerechtfertigt, wenn fuer sie ein **sachlicher Grund** besteht und sie nicht willkuerlich ist. Pruefungsdichte gering: Gesetzgeber hat weiten Spielraum, gerichtliche Kontrolle nur bei evidenter Sachwidrigkeit.
+Eine Differenzierung ist gerechtfertigt, wenn für sie ein **sachlicher Grund** besteht und sie nicht willkuerlich ist. Pruefungsdichte gering: Gesetzgeber hat weiten Spielraum, gerichtliche Kontrolle nur bei evidenter Sachwidrigkeit.
 
 Anwendungsbereich heute: vor allem sachbezogene Differenzierungen ohne Personenbezug, geringer Eingriff, weiter Gestaltungsspielraum des Gesetzgebers.
 
 ### Neue Formel (ab BVerfGE 55, 72 — Praeklusion, 1980)
 
-Differenzierungen zwischen Personengruppen, die sich nicht ohne weiteres in ihrem Verhalten aendern koennen, beduerfen einer **verhaeltnismaessigen Rechtfertigung**. Die Pruefung folgt den Stufen Geeignetheit, Erforderlichkeit und Angemessenheit.
+Differenzierungen zwischen Personengruppen, die sich nicht ohne weiteres in ihrem Verhalten ändern können, beduerfen einer **verhaeltnismaessigen Rechtfertigung**. Die Prüfung folgt den Stufen Geeignetheit, Erforderlichkeit und Angemessenheit.
 
-Gleitender Massstab: Je groesser die Naehe zu personenbezogenen Merkmalen aus Art. 3 Abs. 3 GG, je schwerer der Nachteil, je geringer die Beeinflussbarkeit durch den Betroffenen, desto strenger die Pruefung.
+Gleitender Massstab: Je groesser die Naehe zu personenbezogenen Merkmalen aus Art. 3 Abs. 3 GG, je schwerer der Nachteil, je geringer die Beeinflussbarkeit durch den Betroffenen, desto strenger die Prüfung.
 
 ## Pruefungsdichte — Faustregeln
 
 | Konstellation | Massstab | Beispielentscheidung |
 |---|---|---|
-| Personenbezogene Differenzierung nah an Art. 3 Abs. 3 GG | strenge Verhaeltnismaessigkeit | BVerfGE 88, 87 Transsexuelle |
-| Personengruppe mit eingeschraenkter Aenderungsmoeglichkeit | strenge Verhaeltnismaessigkeit | BVerfGE 130, 240 Elterngeld-Ost |
-| Sachbezogene Differenzierung mit Auswirkung auf Grundrechte | mittlere Pruefung | BVerfGE 122, 1 Agrardiesel |
+| Personenbezogene Differenzierung nah an Art. 3 Abs. 3 GG | strenge Verhältnismäßigkeit | BVerfGE 88, 87 Transsexuelle |
+| Personengruppe mit eingeschraenkter Aenderungsmoeglichkeit | strenge Verhältnismäßigkeit | BVerfGE 130, 240 Elterngeld-Ost |
+| Sachbezogene Differenzierung mit Auswirkung auf Grundrechte | mittlere Prüfung | BVerfGE 122, 1 Agrardiesel |
 | Reine Sachdifferenzierung im Verwaltungsalltag | Willkuerformel | BVerfGE 12, 326 |
 
-## Verhaeltnismaessigkeit der Differenzierung
+## Verhältnismäßigkeit der Differenzierung
 
 Greift die Neue Formel, werden die klassischen vier Stufen auf die Differenzierung angewendet:
 
-1. **Legitimer Zweck** — der mit der Ungleichbehandlung verfolgte Zweck muss verfassungsrechtlich zulaessig sein.
-2. **Geeignetheit** — die Differenzierung muss zur Zweckerreichung beitragen koennen.
+1. **Legitimer Zweck** — der mit der Ungleichbehandlung verfolgte Zweck muss verfassungsrechtlich zulässig sein.
+2. **Geeignetheit** — die Differenzierung muss zur Zweckerreichung beitragen können.
 3. **Erforderlichkeit** — kein milderes, gleich geeignetes Mittel der Differenzierung verfuegbar.
 4. **Angemessenheit** — die Nachteile der benachteiligten Gruppe stehen in einem angemessenen Verhaeltnis zu den verfolgten Zwecken.
 
@@ -56,16 +56,16 @@ Besonderheit gegenueber der Eingriffsverhaeltnismaessigkeit: Die Abwaegung erfol
 - BVerfGE 55, 72 — Praeklusion, Geburt der Neuen Formel
 - BVerfGE 88, 87 — Transsexuellengesetz, strenge Massstaebe bei personenbezogenen Merkmalen
 - BVerfGE 122, 1 — Agrardiesel, mittlere Pruefungsdichte bei wirtschaftslenkenden Normen
-- BVerfGE 130, 240 — Elterngeld-Ost, Verhaeltnismaessigkeit als Massstab
+- BVerfGE 130, 240 — Elterngeld-Ost, Verhältnismäßigkeit als Massstab
 - BVerfGE 152, 274 — Hartz IV Sanktionen, gleitender Massstab bei Existenzsicherung
 - BVerfGE 158, 282 — Solidaritaetszuschlag, Willkuerformel im Steuerrecht
 
 ## Fallstricke
 
-- **Falsche Vergleichsgruppe** — wird die Vergleichsgruppe zu eng oder zu weit gefasst, geht die ganze Pruefung schief. Vergleichsmerkmal in der Norm selbst suchen.
+- **Falsche Vergleichsgruppe** — wird die Vergleichsgruppe zu eng oder zu weit gefasst, geht die ganze Prüfung schief. Vergleichsmerkmal in der Norm selbst suchen.
 - **Pruefungsmassstab pauschal waehlen** — Willkuerformel und Neue Formel sind keine Alternativen nach Geschmack. Massstab aus den Faktoren ableiten: Personenbezug, Beeinflussbarkeit, Eingriffstiefe, Grundrechtsnaehe.
 - **Differenzierungsgrund und Differenzierungswirkung verwechseln** — der Grund liegt im Norminhalt, die Wirkung beim Adressaten. Beide getrennt benennen.
-- **Art. 3 Abs. 3 GG uebersehen** — wenn das Differenzierungsmerkmal in Abs. 3 aufgefuehrt ist, gelten strengere Massstaebe; eigene Pruefung erforderlich.
+- **Art. 3 Abs. 3 GG uebersehen** — wenn das Differenzierungsmerkmal in Abs. 3 aufgefuehrt ist, gelten strengere Massstaebe; eigene Prüfung erforderlich.
 
 ## Verwandte Skills
 

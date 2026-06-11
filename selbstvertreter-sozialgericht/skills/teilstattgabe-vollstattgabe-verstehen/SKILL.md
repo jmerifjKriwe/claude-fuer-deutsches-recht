@@ -13,17 +13,17 @@ description: "Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruch
 
 ## Worum geht es?
 
-Wenn Sie den Widerspruchsbescheid lesen, muessen Sie erkennen, ob die Behörde Ihnen ganz, teilweise oder gar nicht recht gibt. Diese Skill hilft beim Erkennen und Einordnen.
+Wenn Sie den Widerspruchsbescheid lesen, müssen Sie erkennen, ob die Behörde Ihnen ganz, teilweise oder gar nicht recht gibt. Diese Skill hilft beim Erkennen und Einordnen.
 
 ## In einfacher Sprache
 
-Im Bescheid steht: gewonnen, teils gewonnen, oder verloren. Wir zeigen Ihnen, wie Sie das im Text erkennen. Und was Sie dann tun koennen.
+Im Bescheid steht: gewonnen, teils gewonnen, oder verloren. Wir zeigen Ihnen, wie Sie das im Text erkennen. Und was Sie dann tun können.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben den Widerspruchsbescheid bekommen und sind unsicher, was er sagt.
 - Sie sehen das Ergebnis nicht klar.
-- Sie wollen wissen, ob Sie noch klagen koennen.
+- Sie wollen wissen, ob Sie noch klagen können.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -76,7 +76,7 @@ Lesen Sie sehr genau. Beispiel: "Der Bescheid wird wie folgt geaendert: Der Pfle
 
 Hier ist strittig: Sie wollten Pflegegrad 3 ab Antragstellung (z.B. 1.3.2026). Die Behörde gibt aber erst ab 1.7.2026. Die 4 Monate Differenz sind verloren — es sei denn, Sie klagen.
 
-### Schritt 4 — Pruefen, ob es sich lohnt zu klagen
+### Schritt 4 — Prüfen, ob es sich lohnt zu klagen
 
 - Wie hoch ist der Geldbetrag, der noch strittig ist?
 - Wie wahrscheinlich ist der Erfolg?
@@ -88,25 +88,25 @@ Auch bei kleinen Betraegen lohnt sich Klage oft: das SG-Verfahren ist gratis.
 
 Bei Teilabhilfe und Zurueckweisung: 1 Monat ab Bekanntgabe Klage erheben.
 
-### Schritt 6 — Bei Vollabhilfe: pruefen, dass auch wirklich gezahlt wird
+### Schritt 6 — Bei Vollabhilfe: prüfen, dass auch wirklich gezahlt wird
 
-Eine Vollabhilfe ist eine Entscheidung. Geld kommt aber nicht von selbst. Pruefen Sie:
+Eine Vollabhilfe ist eine Entscheidung. Geld kommt aber nicht von selbst. Prüfen Sie:
 
 - Wann ist die Nachzahlung angekuendigt?
-- Stimmt die Hoehe?
+- Stimmt die Höhe?
 - Bei Zoegerei: Erinnerung schreiben und ggf. Untaetigkeit-Anzeige.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Begruendung im Widerspruchsbescheid lesen**: Die Behörde muss begruenden, warum sie Sie ablehnt oder teilweise abhilft. Aus der Begruendung sehen Sie, was die Behörde anders sieht — und was Sie in der Klage angreifen koennen.
+- **Begruendung im Widerspruchsbescheid lesen**: Die Behörde muss begruenden, warum sie Sie ablehnt oder teilweise abhilft. Aus der Begruendung sehen Sie, was die Behörde anders sieht — und was Sie in der Klage angreifen können.
 - **"Im Uebrigen wird der Widerspruch zurueckgewiesen"** ist die kritische Formel: dieser Rest ist strittig und kann beklagt werden.
 - **Folgebescheide**: Wenn die Behörde waehrend des Widerspruchs einen neuen Bescheid erlassen hat, wird er automatisch Teil des Verfahrens (§ 86 SGG).
 
 ## Typische Fehler
 
 - Tenor uebersehen → genau lesen
-- "Abhilfe" mit "Zurueckweisung" verwechselt → Wortbedeutung pruefen
-- Bei Teilabhilfe nicht klagen, obwohl Rest strittig → Klage waere moeglich
+- "Abhilfe" mit "Zurueckweisung" verwechselt → Wortbedeutung prüfen
+- Bei Teilabhilfe nicht klagen, obwohl Rest strittig → Klage waere möglich
 - Bei Vollabhilfe auf Geld warten ohne Nachfrage → nach 4 Wochen erinnern
 
 ## Quellen und Aktualitaet

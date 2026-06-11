@@ -22,7 +22,7 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 1. Wohnsitzkonstellation und Einkunftsart?
 2. Grenzgaengerstatus Art. 15a DBA-Schweiz: arbeitstaegliche Rueckkehr (60-Tage-Schaedlichkeit pro Jahr)?
 3. Bei Wegzug Schweiz: § 6 AStG-Wegzugsbesteuerung? Antrag Stundung?
-4. Pauschalbesteuerung des Mandanten in der Schweiz? Treaty-Berechtigung pruefen.
+4. Pauschalbesteuerung des Mandanten in der Schweiz? Treaty-Berechtigung prüfen.
 5. Bei Beteiligung: Schachtelhoehe, Substanz?
 6. Bei Pension: erste/zweite/dritte Saeule?
 7. Bauausfuehrung welcher Dauer?
@@ -44,14 +44,14 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 - Aktuelle BFH-Rechtsprechung zur Pauschalbesteuerung Schweiz in freier amtlicher Quelle abrufen.
 - Aktuelle BFH-Rechtsprechung zu Pensions-Saeulen DBA-Schweiz in freier amtlicher Quelle abrufen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BMF-Schreiben zu Grenzgaengern Schweiz (regelmaessig aktualisiert) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
-- Konsultationsvereinbarung Home-Office Deutschland-Schweiz vom 11.06.2020 und Folgevereinbarungen — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zu Grenzgaengern Schweiz (regelmaessig aktualisiert) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
+- Konsultationsvereinbarung Home-Office Deutschland-Schweiz vom 11.06.2020 und Folgevereinbarungen — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit (Art. 4)
 - Tie-Breaker entsprechend OECD-MA.
-- Bei Pauschalbesteuerung in der Schweiz: DBA-Berechtigung in Frage gestellt; **Sondersituation, Pruefung BMF-Schreiben** — pauschalbesteuerte Personen unter Umstaenden nicht voll abkommensberechtigt.
+- Bei Pauschalbesteuerung in der Schweiz: DBA-Berechtigung in Frage gestellt; **Sondersituation, Prüfung BMF-Schreiben** — pauschalbesteuerte Personen unter Umstaenden nicht voll abkommensberechtigt.
 
 ### Betriebsstaette (Art. 5)
 - Bauausfuehrung **12 Monate**.
@@ -67,14 +67,14 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 - **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — massgebend ist Art. 12 DBA-Schweiz in der jeweils geltenden Fassung.
 
 ### Vermeidungs-Methode (Art. 24)
-- Anrechnungsmethode für Schweiz grundsaetzlich.
+- Anrechnungsmethode für Schweiz grundsätzlich.
 - Freistellung mit Progressionsvorbehalt für aktive Einkuenfte mit Aktivitaetsklausel.
 
 ### Besonderheiten
 - **60-Tage-Schaedlichkeit**: dokumentationspflichtig (Reisekalender, Beweismittel Arbeitgeber).
-- **Pauschalbesteuerung Schweiz**: Anti-Forderungsklausel im DBA: bei Aufwandbesteuerung nicht voll abkommensberechtigt — **konkret pruefen**.
-- **Wegzugsbesteuerung § 6 AStG**: bei Wegzug Schweiz erhebliche Steuerlast; ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035) hat Schweiz als Drittland strenger erfasst; Stundung gemaess § 6 Abs. 4 AStG n.F. nur unter engen Voraussetzungen — aktuellen Anwendungsstand in freier amtlicher Quelle pruefen.
-- **Pensionen** (Art. 18): erste Saeule (AHV) typ. Kassenstaat, zweite Saeule (BVG/Pensionskasse), dritte Saeule (3a/3b) abweichend behandelt — **konkret pruefen**.
+- **Pauschalbesteuerung Schweiz**: Anti-Forderungsklausel im DBA: bei Aufwandbesteuerung nicht voll abkommensberechtigt — **konkret prüfen**.
+- **Wegzugsbesteuerung § 6 AStG**: bei Wegzug Schweiz erhebliche Steuerlast; ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035) hat Schweiz als Drittland strenger erfasst; Stundung gemäß § 6 Abs. 4 AStG n.F. nur unter engen Voraussetzungen — aktuellen Anwendungsstand in freier amtlicher Quelle prüfen.
+- **Pensionen** (Art. 18): erste Saeule (AHV) typ. Kassenstaat, zweite Saeule (BVG/Pensionskasse), dritte Saeule (3a/3b) abweichend behandelt — **konkret prüfen**.
 - **Sozialversicherungsabkommen DE-CH** separat.
 
 ## Workflow
@@ -82,7 +82,7 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 ### Phase 1 — DBA-Anwendbarkeit
 1. Anwendbares Aenderungsprotokoll.
 
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 1. Pauschalbesteuerung beachten.
 
 ### Phase 3 — Einkunftsart einordnen
@@ -92,9 +92,9 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 1. Quellensteuer-Hoechstsatz.
 2. Anrechnung / Freistellung.
 
-### Phase 5 — Wegzugsbesteuerung pruefen
+### Phase 5 — Wegzugsbesteuerung prüfen
 1. § 6 AStG.
-2. Stundung pruefen.
+2. Stundung prüfen.
 
 ### Phase 6 — Erstattung / Erklaerung
 1. BZSt-Antrag bei Beteiligungen / Lizenzen.
@@ -115,22 +115,22 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 - § 6 AStG bei Wegzug Schweiz: erheblich verschaerft seit ATAD-Umsetzung 2022 — frueh planen (Schenkung vor Wegzug, Holding-Umstrukturierung).
 - Pension zweite Saeule (BVG) Auszahlung als Kapital vs. Rente: unterschiedliche steuerliche Behandlung in DE und CH — Verstaendigungsverfahren bei strittiger Auslegung.
 - Schachtel-Dividenden Schweiz-Deutschland: Schweizer Verrechnungssteuer nationaler Satz 35 Prozent (Art. 13 VStG), Erstattung auf DBA-Hoechstsatz durch die Eidgenoessische Steuerverwaltung (ESTV), nicht durch das BZSt. Antragsformulare auf estv.admin.ch.
-- Konsultationsvereinbarung Home-Office DE-CH: Pruefung bei zunehmenden Home-Office-Tagen.
+- Konsultationsvereinbarung Home-Office DE-CH: Prüfung bei zunehmenden Home-Office-Tagen.
 
 ## Praktiker-Tipps der alten Hasen
 
 ### Erstattungsverfahren Schweizer Verrechnungssteuer (35 Prozent)
 
 - **Zuständigkeit**: Schweizer Verrechnungssteuer wird **nicht** durch das BZSt erstattet, sondern durch die Eidgenoessische Steuerverwaltung (ESTV) in Bern, Hauptabteilung Direkte Bundessteuer, Verrechnungssteuer, Stempelabgaben.
-- **Antragsformulare**: Aktuelle Formulare und Verfahrensanweisungen abrufbar auf **estv.admin.ch** im Bereich Verrechnungssteuer/Internationale Quellensteuer — vom Anwender mit aktuellem Stand zu verifizieren (Formularbezeichnungen aendern sich periodisch).
+- **Antragsformulare**: Aktuelle Formulare und Verfahrensanweisungen abrufbar auf **estv.admin.ch** im Bereich Verrechnungssteuer/Internationale Quellensteuer — vom Anwender mit aktuellem Stand zu verifizieren (Formularbezeichnungen ändern sich periodisch).
 - **Frist**: nach Schweizerischem Verrechnungssteuergesetz (VStG) regelmaessig **drei Jahre** ab Faelligkeit des steuerpflichtigen Ertrags — sehr knapp! Frueh stellen.
 - **Bearbeitungsdauer ESTV**: Erfahrungswert 4-12 Monate; bei strittigen Faellen deutlich laenger. Anwaltliche Vertretung sinnvoll bei groesseren Erstattungsbetraegen.
-- **Sprache**: Eingaben moeglich in DE/FR/IT/EN; bei Schweizer Behörden bevorzugt **Deutsch** (Bern).
+- **Sprache**: Eingaben möglich in DE/FR/IT/EN; bei Schweizer Behörden bevorzugt **Deutsch** (Bern).
 
 ### Lokaler Steuerberater-Kontakt
 
 - **Empfehlung**: bei Pauschalbesteuerung in der Schweiz, bei zweiter/dritter Saeule-Auszahlung, bei Wegzugsfaellen mit Schweizer Substrat — Schweizer Steuerberater (Treuhaender) einbinden. KMU-Kanzleien mit DBA-Erfahrung in Basel/Zuerich/Bern.
-- **Trigger für Berater-Einbindung**: kantonale Steuerunterschiede koennen erheblich sein (Zuerich vs. Zug vs. Schwyz); Pension dritte Saeule (3a) hat kantonale Sondersaetze.
+- **Trigger für Berater-Einbindung**: kantonale Steuerunterschiede können erheblich sein (Zuerich vs. Zug vs. Schwyz); Pension dritte Saeule (3a) hat kantonale Sondersaetze.
 
 ### Online-Portale
 
@@ -142,19 +142,19 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Wegzug in die Schweiz vs. Beteiligung als deutscher Steuerpflichtiger halten | sofortige Wegzugssteuer § 6 AStG (bei Drittstaat Schweiz strenger), aber dann freie Verfuegung | Beteiligung halten, deutsche KSt/EStG-Pflicht weiter; Schenkung an in DE wohnenden Familienangehoerigen vor Wegzug pruefen | je nach stillen Reserven, Familienkonstellation, kuenftiger Veraeusserungsabsicht; Frueh-Beratung essenziell |
+| Wegzug in die Schweiz vs. Beteiligung als deutscher Steuerpflichtiger halten | sofortige Wegzugssteuer § 6 AStG (bei Drittstaat Schweiz strenger), aber dann freie Verfuegung | Beteiligung halten, deutsche KSt/EStG-Pflicht weiter; Schenkung an in DE wohnenden Familienangehoerigen vor Wegzug prüfen | je nach stillen Reserven, Familienkonstellation, kuenftiger Veraeusserungsabsicht; Frueh-Beratung essenziell |
 | Schweizer Pauschalbesteuerung waehlen vs. ordentlich besteuert werden | niedrigere Steuer in CH, aber **kein voller DBA-Schutz**, Doppelbesteuerung droht | volle DBA-Berechtigung, aber hoehere Schweizer Steuerlast | bei hohem Auslandseinkommen: ordentliche Besteuerung wegen DBA-Schutz oft vorteilhafter |
 | Pension zweite Saeule (BVG) Auszahlung als **Kapital** vs. **Rente** | Kapital-Auszahlung: in CH einmalige niedrigere Besteuerung; in DE Lohn-/Kapitalbehandlung strittig | Rente: laufende Besteuerung beider Staaten, Anrechnung | bei groesseren Betraegen Berechnung beider Pfade in Mandanten-Memo; Wohnsitzwechsel beachten |
-| Grenzgaenger-Status (60-Tage-Regel) halten vs. echter Schweizer Wohnsitz | DE-Steuer-Wohnsitz, deutsche EStG-Anrechnung der CH-Quellensteuer 4,5 Prozent | CH-Wohnsitz, in CH besteuert (kantonal+Bund), § 6 AStG-Wegzug | bei stabilen 60-Tage-Verhaeltnissen Grenzgaenger guenstiger; bei zunehmender Reisetaetigkeit Wohnsitz CH pruefen |
+| Grenzgaenger-Status (60-Tage-Regel) halten vs. echter Schweizer Wohnsitz | DE-Steuer-Wohnsitz, deutsche EStG-Anrechnung der CH-Quellensteuer 4,5 Prozent | CH-Wohnsitz, in CH besteuert (kantonal+Bund), § 6 AStG-Wegzug | bei stabilen 60-Tage-Verhaeltnissen Grenzgaenger guenstiger; bei zunehmender Reisetaetigkeit Wohnsitz CH prüfen |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
-- **"Alte 4-Tage-Regel" (vor 2006)**: in aelteren Mandanten-Memos oft noch zitiert; ab 2007 abgeloest durch die heutige 60-Tage-Schaedlichkeit. Bei Bezug auf 4-Tage-Regel: Veranlagungszeitraum pruefen.
+- **"Alte 4-Tage-Regel" (vor 2006)**: in aelteren Mandanten-Memos oft noch zitiert; ab 2007 abgeloest durch die heutige 60-Tage-Schaedlichkeit. Bei Bezug auf 4-Tage-Regel: Veranlagungszeitraum prüfen.
 - **Mehrtaegige Schulungen/Tagungen in der Schweiz**: jede Uebernachtung ausserhalb des deutschen Wohnsitzes zaehlt regelmaessig schaedlich, auch bei dienstlicher Veranlassung (BFH-Praxis verifikationspflichtig).
 - **Dienst nach 22 Uhr**: in der Praxis als schaedlicher Tag gewertet, wenn Heimkehr objektiv unzumutbar wird — sorgfaeltig dokumentieren (Bahnverbindungen).
 - **Pauschalbesteuerung-Mandant fragt nach DBA-Erstattung**: Standardfalle — pauschalbesteuerte Personen sind **nicht voll abkommensberechtigt**, BZSt-/ESTV-Erstattung scheitert oft.
 - **CH-Bank ueberweist Dividende mit 35 Prozent VST**: Erstattung des Differenzbetrags zum DBA-Hoechstsatz (15 Prozent für Streubesitz, 5 Prozent für Schachtel) bei ESTV beantragen — Frist 3 Jahre beachten.
-- **Schweizer Quellensteuer auf Lohn-Grenzgaenger (4,5 Prozent) nicht eingezogen**: bei Direktbezug aus DE-Arbeitgeber-Tochter pruefen, ob Schweizer Lohnsteuersystem zuständig war; rueckwirkende Korrektur muehsam.
+- **Schweizer Quellensteuer auf Lohn-Grenzgaenger (4,5 Prozent) nicht eingezogen**: bei Direktbezug aus DE-Arbeitgeber-Tochter prüfen, ob Schweizer Lohnsteuersystem zuständig war; rueckwirkende Korrektur muehsam.
 
 ## Berechnungsbeispiel — Grenzgaenger Schweiz
 
@@ -178,7 +178,7 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 >
 > Schritt 3: In DE: § 8b KStG-Befreiung 95 Prozent, 5 Prozent fiktive nichtabziehbare BA. Schweizer 5 Prozent CH-VST kann auf deutsche KSt nach § 26 KStG/§ 34c EStG nur sehr begrenzt angerechnet werden (auf den steuerpflichtigen Teil) — in der Praxis oft Wirtschaftslast.
 >
-> Anmerkung: konkrete Saetze und Verfahren aus DBA-Text und ESTV-Wegleitung pruefen.
+> Anmerkung: konkrete Saetze und Verfahren aus DBA-Text und ESTV-Wegleitung prüfen.
 
 ## Quellen und Updates
 

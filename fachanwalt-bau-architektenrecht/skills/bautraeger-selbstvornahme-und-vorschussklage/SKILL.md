@@ -31,13 +31,13 @@ description: "Selbstvornahme und Vorschussklage gegen den Bautraeger: Skill klae
 
 ## Selbstvornahme
 
-- Erwerber laesst Mangel beseitigen.
+- Erwerber lässt Mangel beseitigen.
 - Bautraeger traegt die Kosten.
 
 ## Vorschuss
 
-- § 637 Abs. 3 BGB: Erwerber kann einen Kostenvorschuss vom Bautraeger fordern, ohne in Vorleistung treten zu muessen.
-- Vorschussklage moeglich, wenn Bautraeger nicht freiwillig zahlt.
+- § 637 Abs. 3 BGB: Erwerber kann einen Kostenvorschuss vom Bautraeger fordern, ohne in Vorleistung treten zu müssen.
+- Vorschussklage möglich, wenn Bautraeger nicht freiwillig zahlt.
 
 ## Praxis
 

@@ -56,9 +56,9 @@ description: "Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenvert
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---------|-------------|-------|-------------|--------|
-| BVerwG | 7 C 36.04 | 16.03.2006 | Sanierungspflicht § 4 BBodSchG — Zustandsstoererhaftung des Eigentuemers besteht auch ohne eigenes Verschulden; Verhaeltnismaessigkeit der Behörden-Anordnung | bverwg.de |
+| BVerwG | 7 C 36.04 | 16.03.2006 | Sanierungspflicht § 4 BBodSchG — Zustandsstoererhaftung des Eigentuemers besteht auch ohne eigenes Verschulden; Verhältnismäßigkeit der Behörden-Anordnung | bverwg.de |
 | BVerfG | 1 BvR 242/91 | 16.02.2000 | Zustandshaftung Grundstueckseigentuemer — verfassungsrechtliche Grenze bei Unverhaeltnismaessigkeit ueberbordender Kosten gegenueber Verkehrswert | bundesverfassungsgericht.de |
-| BGH | VII ZR 175/13 | 27.03.2014 | Baugrundrisiko traegt grundsaetzlich der Besteller (Beistellungspflicht § 645 BGB); Aufklaerungspflichten gemildert bei nicht-erkennbaren Risiken | dejure.org/2014,5860 |
+| BGH | VII ZR 175/13 | 27.03.2014 | Baugrundrisiko traegt grundsätzlich der Besteller (Beistellungspflicht § 645 BGB); Aufklaerungspflichten gemildert bei nicht-erkennbaren Risiken | dejure.org/2014,5860 |
 | BGH (V. Zivilsenat, st. Rspr.) | Aufklaerungspflicht zu Altlasten | — | Schadensersatz bei verschwiegener Altlast bei Grundstueckskauf, c.i.c. § 311 Abs. 2 BGB; konkrete Aktenzeichen vor Ausgabe per dejure.org verifizieren | dejure.org / BGH-Datenbank |
 | BVerwG | 7 C 26.17 | 18.07.2019 | UVP-Vorpruefung — Anforderungen und Bewertungsfehler (uebertragbar auf altlastenrelevante Vorhaben) | bverwg.de |
 
@@ -169,14 +169,14 @@ Pflichten des Bauunternehmers:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Bodenkontamination beim Aushub entdeckt | Sofortmassnahmen-Checkliste und Schriftverkehr-Bausteine unten |
-| Variante A — Auftraggeber kannte Kontamination | GewaeHrleistungs-Ausschluss pruefen; § 444 BGB analog |
+| Variante A — Auftraggeber kannte Kontamination | GewaeHrleistungs-Ausschluss prüfen; § 444 BGB analog |
 | Variante B — Auftragnehmer hat Kontamination verursacht | Haftung nach § 4 BBodSchG; Schadensersatzklage vorbereiten |
-| Variante C — Behördenanordnung laeuft | Verwaltungsrechtlicher Weg parallel; Sofortvollzug pruefen |
+| Variante C — Behördenanordnung laeuft | Verwaltungsrechtlicher Weg parallel; Sofortvollzug prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -253,7 +253,7 @@ Gesamt brutto: EUR [Summe]
 Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

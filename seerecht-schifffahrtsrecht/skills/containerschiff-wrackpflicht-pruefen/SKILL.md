@@ -21,8 +21,8 @@ Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft
 Ein Containerlinienfrachtschiff sinkt in deutschen Gewässern; WSA ordnet Beseitigung an; Eigentümer fragt nach Haftung. Die finanzierende Bank fragt, ob sie als Hypothekengläubigerin haftet. Ein Reeder ist insolvent; Behörde will Kosten beim letzten Eigentümer eintreiben.
 
 ## Erste Schritte
-1. WRC 2007 / WSG Anwendbarkeit pruefen: Containerlinienfrachtschiff ab 300 BRZ in deutschen Gewaessern.
-2. Verantwortlichen identifizieren: WSG § 2 - Eigentuemer des {vessel} haftet primaer.
+1. WRC 2007 / WSG Anwendbarkeit prüfen: Containerlinienfrachtschiff ab 300 BRZ in deutschen Gewaessern.
+2. Verantwortlichen identifizieren: WSG § 2 - Eigentümer des {vessel} haftet primaer.
 3. Behoerdliche Meldepflicht (WRC Art. 5 / WSG § 4): unverzuegliche Meldung beim WSA.
 4. Versicherungsnachweis (WRC Art. 12): Pflicht ab 300 BRZ; P&I-Club-Zertifikat vorlegen.
 5. Kostenschaetzung einholen: Bergungsunternehmen; Umweltschadensrisiko bewerten.
@@ -32,7 +32,7 @@ Ein Containerlinienfrachtschiff sinkt in deutschen Gewässern; WSA ordnet Beseit
 - WSG §§ 1-12 Wrackbeseitigungsgesetz; WRC 2007 Nairobi Art. 1-12; MARPOL Annex I Reg. 26.
 
 ## Prüfraster
-- Ist der Eigentuemer des Containerlinienfrachtschiff bekannt und zahlungsfaehig?
+- Ist der Eigentümer des Containerlinienfrachtschiff bekannt und zahlungsfaehig?
 - Greift WRC 2007 (Schiff ab 300 BRZ; Gewaesser eines Vertragsstaats)?
 - Ist Wrackbeseitigungs-Versicherung vorhanden (WRC Art. 12)?
 - Ueberschreiten Wrackkosten den Schiffswert?

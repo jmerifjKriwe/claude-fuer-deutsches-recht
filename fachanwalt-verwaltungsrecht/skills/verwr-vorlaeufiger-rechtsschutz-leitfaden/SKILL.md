@@ -27,7 +27,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
@@ -44,7 +44,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 ### Variante 2: § 80a VwGO (Drittanfechtung)
 
 - Begehren des Dritten: Anordnung der aufschiebenden Wirkung seines Widerspruchs gegen begunstigenden VA an Adressaten (z. B. Baugenehmigung des Nachbarn).
-- Pruefung nach Massgabe drittschuetzender Normen.
+- Prüfung nach Massgabe drittschuetzender Normen.
 
 ### Variante 3: § 123 VwGO (einstweilige Anordnung)
 
@@ -52,7 +52,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 - **Anordnungsanspruch** — materieller Anspruch (§ 920 II ZPO analog), glaubhaft zu machen (§ 920 II ZPO, § 294 ZPO).
 - **Anordnungsgrund** — Eilbeduerftigkeit, wesentliche Nachteile drohen.
 - **Sicherungsanordnung** § 123 I 1 VwGO (Erhalt status quo) vs. **Regelungsanordnung** § 123 I 2 VwGO.
-- **Vorwegnahme der Hauptsache** ausnahmsweise zulaessig bei drohenden irreversiblen Nachteilen und hoher Erfolgsaussicht in der Hauptsache.
+- **Vorwegnahme der Hauptsache** ausnahmsweise zulässig bei drohenden irreversiblen Nachteilen und hoher Erfolgsaussicht in der Hauptsache.
 
 ## Praxisfallen
 

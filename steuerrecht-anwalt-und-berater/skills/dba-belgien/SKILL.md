@@ -15,17 +15,17 @@ description: "DBA Deutschland Belgien aktuelle Fassung. Anwendungsfall Eupen Mal
 
 ## Kernsachverhalt
 
-Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, Malmedy, St. Vith) und ihre besondere Pendler-Konstellation. Praxisrelevant sind Lohneinkuenfte, Beteiligungs- und Lizenzeinkuenfte, sowie die Holdingaktivitaeten belgischer Gesellschaften (DBI-Regelung in Belgien als Aequivalent zur deutschen Schachtelprivilegierung).
+Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, Malmedy, St. Vith) und ihre besondere Pendler-Konstellation. Praxisrelevant sind Lohneinkuenfte, Beteiligungs- und Lizenzeinkuenfte, sowie die Holdingaktivitaeten belgischer Gesellschaften (DBI-Regelung in Belgien als Äquivalent zur deutschen Schachtelprivilegierung).
 
 ## Kaltstart-Rueckfragen
 
 1. Welcher Wohnsitzstaat, welche Einkunftsart?
 2. Arbeitnehmer mit belgischem Wohnsitz oder deutsch-belgische Doppel-Ansaessigkeit?
 3. Tage-Zaehlung 183-Tage-Regelung?
-4. Bei Beteiligung: Hoehe, Holding-Substanz?
+4. Bei Beteiligung: Höhe, Holding-Substanz?
 5. Bauausfuehrung welcher Dauer?
 6. Liegt belgische Ansaessigkeitsbescheinigung vor (Form 276)?
-7. Pension aus belgischer Pensionskasse? Oeffentlich oder privat?
+7. Pension aus belgischer Pensionskasse? Öffentlich oder privat?
 8. MLI-Anpassungen relevant?
 
 ## Rechtlicher Rahmen
@@ -35,12 +35,12 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 - **DBA Deutschland-Belgien vom 11.04.1967** (BGBl. 1969 II S. 17/18), Zusatzabkommen 05.11.2002 (BGBl. 2003 II S. 1616), Aenderungsprotokoll 21.01.2010 (BGBl. 2010 II S. 1279).
 - **OECD-MA 2017** als Auslegungshilfe.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: Deutschland und Belgien sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
+- **MLI**: Deutschland und Belgien sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 
 - Aktuelle BFH-Rechtsprechung zu DBA-Belgien in freier amtlicher Quelle abrufen.
-- BMF-Schreiben zu DBA Belgien — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zu DBA Belgien — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Land-spezifisches
 
@@ -56,7 +56,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 ### Aktive Einkuenfte
 
 - Loehne (Art. 15): 183-Tage-Regel.
-- Achtung: Es gab in den 1960er-DBA für Belgien eine **echte Grenzgaengerregelung** in den Grenzbezirken (Aachen, Eupen, Malmedy). Diese wurde durch Aenderungsprotokolle abgeschafft und durch eine Sonderregelung in den Grenzgemeinden ersetzt — aktuellen Protokoll-Stand im konsolidierten DBA-Text pruefen.
+- Achtung: Es gab in den 1960er-DBA für Belgien eine **echte Grenzgaengerregelung** in den Grenzbezirken (Aachen, Eupen, Malmedy). Diese wurde durch Aenderungsprotokolle abgeschafft und durch eine Sonderregelung in den Grenzgemeinden ersetzt — aktuellen Protokoll-Stand im konsolidierten DBA-Text prüfen.
 
 ### Passive Einkuenfte
 
@@ -71,7 +71,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 ### Besonderheiten
 
-- **Pensionen**: Sonderregelung in DBA, **konkret pruefen**.
+- **Pensionen**: Sonderregelung in DBA, **konkret prüfen**.
 - **Sportler**: gesonderte Art. 17 — Quellensteuer beim Auftrittsort.
 - **EU-Bedienstete**: Privileg des Protokolls 7 EUV bzw. EU-Bedienstetengesetz; Wohnsitz vor Dienstantritt zaehlt fiktiv weiter — § 14 EU-BeamtenStG.
 
@@ -80,14 +80,14 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 ### Phase 1 — DBA-Anwendbarkeit
 1. Anwendbares DBA und Protokollstand.
 
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 1. Bei EU-Beamten: Sonderfiktion beachten.
 
 ### Phase 3 — Einkunftsart einordnen
 1. Lohn Pension Beteiligung.
 
 ### Phase 4 — Verteilungs- und Methodenartikel
-1. 183-Tage-Pruefung; Quellensteuer-Hoechstsatz.
+1. 183-Tage-Prüfung; Quellensteuer-Hoechstsatz.
 
 ### Phase 5 — Erstattung / Erklaerung
 1. BZSt-Antrag bei Beteiligungseinkuenften.
@@ -96,16 +96,16 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 ## Strategie und Praxis-Tipps
 
 - DBA-Belgien war fruehe Generation; Begriffe entsprechen nicht in allen Punkten dem OECD-MA 2017 — Protokolle vollstaendig durchgehen.
-- Belgische DBI (Definitief Belaste Inkomsten) ist nationales Aequivalent zur Schachtelprivilegierung — Verhaeltnis zu deutscher § 8b KStG-Befreiung beachten.
-- Pensionen Art. 18 DBA-Belgien: Spezialregelung in einigen Fallgruppen vom OECD-Standard abweichend — aktuellen DBA-Text und BMF-Schreiben pruefen.
-- 183-Tage-Regelung: Kalenderjahr oder 12-Monatszeitraum — DBA-Text konkret pruefen, weicht historisch ab.
+- Belgische DBI (Definitief Belaste Inkomsten) ist nationales Äquivalent zur Schachtelprivilegierung — Verhaeltnis zu deutscher § 8b KStG-Befreiung beachten.
+- Pensionen Art. 18 DBA-Belgien: Spezialregelung in einigen Fallgruppen vom OECD-Standard abweichend — aktuellen DBA-Text und BMF-Schreiben prüfen.
+- 183-Tage-Regelung: Kalenderjahr oder 12-Monatszeitraum — DBA-Text konkret prüfen, weicht historisch ab.
 - Bruessel-EU-Beamte: Wohnsitzfiktion erhaelt deutsche Steueransaessigkeit; deutsche Steuerpflicht greift weiter, EU-Bezuege sind frei nach EU-Protokoll.
 
 ## Praktiker-Tipps der alten Hasen
 
 ### Erstattungsverfahren belgische Vorsteuer (Roerende Voorheffing / Precompte Mobilier)
 
-- **Zuständigkeit**: belgische Erstattung durch **Service Public Federal Finances** (FOD/SPF Finances), Centre de Perception/Inningscentrum. Aktuelle Zuständigkeit auf **finance.belgium.be** pruefen.
+- **Zuständigkeit**: belgische Erstattung durch **Service Public Federal Finances** (FOD/SPF Finances), Centre de Perception/Inningscentrum. Aktuelle Zuständigkeit auf **finance.belgium.be** prüfen.
 - **Antragsformulare**: belgische Formulare **276 Div.** (Antrag Erstattung Mobiliar-Steuer für Auslaender) bzw. Schachtel-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf finance.belgium.be zu verifizieren.
 - **Frist**: nach belgischem Steuerrecht regelmaessig **fuenf Jahre** ab dem Steuerjahr — vergleichsweise grosszuegig.
 - **Bearbeitungsdauer**: 6-24 Monate; bei strittigen Faellen oft Jahre.
@@ -117,24 +117,24 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 ### Sprachen-Falle
 
-- **DBA-Text DE/FR/NL** dreisprachig — die franzoesische und niederlaendische Fassung sind gleichberechtigt verbindlich. Bei Auslegungsstreit alle drei Fassungen pruefen.
-- Belgischer Bescheid je nach Region in FR (Wallonien, Bruessel), NL (Flandern) oder DE (Eupen-Malmedy) — Sprache der Korrespondenz pruefen.
+- **DBA-Text DE/FR/NL** dreisprachig — die franzoesische und niederlaendische Fassung sind gleichberechtigt verbindlich. Bei Auslegungsstreit alle drei Fassungen prüfen.
+- Belgischer Bescheid je nach Region in FR (Wallonien, Bruessel), NL (Flandern) oder DE (Eupen-Malmedy) — Sprache der Korrespondenz prüfen.
 
 ## Trade-off-Tabelle
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Schachteldividende belgische SA an DE-Mutter ueber DBA vs. EU-MTRL | DBA Art. 10 (5/15 Prozent) | EU-MTRL § 43b EStG: 0 Prozent bei mind. 10 Prozent Beteiligung und 12 Monate | § 43b EStG immer vorzugswuerdig — antragsweise an belgische Quelle |
+| Schachteldividende belgische SA an DE-Mutter über DBA vs. EU-MTRL | DBA Art. 10 (5/15 Prozent) | EU-MTRL § 43b EStG: 0 Prozent bei mind. 10 Prozent Beteiligung und 12 Monate | § 43b EStG immer vorzugswuerdig — antragsweise an belgische Quelle |
 | EU-Beamten-Bezuege (Protokoll 7 EUV) vs. private Einkuenfte | EU-Bezuege steuerfrei in DE und BE | private Einkuenfte (z.B. Vermietung Wohnung Bruessel) regulaer | klare Trennung in Steuererklaerung — Doppelbescheinigung von EU-Institution |
 | Sportler-/Kuenstlerauftritt in BE vs. Tournee-Strukturierung | Quellenstaat BE besteuert (Sondersystem) | Holding-Struktur "Loan-Out-Company" | je nach Honorarvolumen — Substanztest zwingend |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
 - **Sondersystem für Sportler/Kuenstler**: Belgien hat eigenes System für auftretende Kuenstler/Sportler (haeufig 18 Prozent Pauschalsteuer); DBA Art. 17 sieht Quellenstaat-Besteuerung vor — bei Tournees genau dokumentieren.
 - **EU-Beamten-Konstellation**: deutscher EU-Beamter mit Wohnsitz Bruessel — § 14 EU-BeamtenStG iVm Protokoll 7 EUV bewirkt **Wohnsitzfiktion** Deutschland; trotz physischem Aufenthalt BE bleibt deutsche Steueransaessigkeit erhalten. EU-Gehalt steuerfrei in beiden Staaten.
-- **Eupen-Malmedy-Pendler**: deutschsprachige Gemeinschaft Belgiens; klassische Grenzgaengerregelung der 1960er-Generation wurde durch Aenderungsprotokolle ersetzt — aktuellen Stand pruefen.
+- **Eupen-Malmedy-Pendler**: deutschsprachige Gemeinschaft Belgiens; klassische Grenzgaengerregelung der 1960er-Generation wurde durch Aenderungsprotokolle ersetzt — aktuellen Stand prüfen.
 - **DBI-Mismatch**: belgische Holding mit deutscher Quelle — belgische DBI gewaehrt Schachtelbefreiung im Empfaengerstaat; § 8b KStG-Befreiung in DE; bei Hybriden § 4k EStG.
-- **183-Tage-Zaehlung**: aelteres DBA-Belgien definiert ggf. abweichend (Kalenderjahr vs. 12-Monatszeitraum) — sorgfaeltig pruefen.
+- **183-Tage-Zaehlung**: aelteres DBA-Belgien definiert ggf. abweichend (Kalenderjahr vs. 12-Monatszeitraum) — sorgfaeltig prüfen.
 
 ## Berechnungsbeispiel — Schachteldividende BE-SA an DE-Holding
 
@@ -142,7 +142,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 >
 > Schritt 1: EU-MTRL (§ 43b EStG) vorrangig: 0 Prozent belgische Mobiliarsteuer — vorab Freistellungs-Bescheinigung an die belgische Quelle.
 >
-> Schritt 2: Ohne Freistellung: 30 Prozent belgische Mobiliarsteuer (Roerende Voorheffing/Precompte Mobilier nationaler Standardsatz) = 180.000 EUR; Erstattung von 25 Prozent (Differenz zum DBA-Schachtel 5 Prozent) ueber Formular 276 Div. an SPF Finances.
+> Schritt 2: Ohne Freistellung: 30 Prozent belgische Mobiliarsteuer (Roerende Voorheffing/Precompte Mobilier nationaler Standardsatz) = 180.000 EUR; Erstattung von 25 Prozent (Differenz zum DBA-Schachtel 5 Prozent) über Formular 276 Div. an SPF Finances.
 >
 > Schritt 3: In DE: § 8b KStG-Befreiung 95 Prozent, 5 Prozent fiktive nichtabziehbare BA; verbleibende belgische Quellensteuer (sofern nicht 0) auf deutsche KSt teilweise anrechenbar.
 >
@@ -162,6 +162,6 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Belgien 11.04.1967 (BGBl. 1969 II S. 17/18), Zusatzabk. 05.11.2002 (BGBl. 2003 II S. 1616), Aend.-Prot. 21.01.2010 (BGBl. 2010 II S. 1279). MLI-Notifications beim OECD-Portal pruefen. Aktuelle Quellensteuer-Saetze und Pensionsregelung im konsolidierten DBA-Text pruefen.
+Stand: 05/2026. DBA-Belgien 11.04.1967 (BGBl. 1969 II S. 17/18), Zusatzabk. 05.11.2002 (BGBl. 2003 II S. 1616), Aend.-Prot. 21.01.2010 (BGBl. 2010 II S. 1279). MLI-Notifications beim OECD-Portal prüfen. Aktuelle Quellensteuer-Saetze und Pensionsregelung im konsolidierten DBA-Text prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 3 belegt (BGBl. 1969 II S. 17/18 bestaetigt; BGBl. 2003 II S. 1616 bestaetigt; Aend.-Prot. 21.01.2010 BGBl. 2010 II S. 1279 bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

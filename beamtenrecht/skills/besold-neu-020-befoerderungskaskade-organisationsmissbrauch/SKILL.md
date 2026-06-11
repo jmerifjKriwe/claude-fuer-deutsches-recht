@@ -31,7 +31,7 @@ description: "Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Tea
 - Akteneinsicht in Beurteilungen.
 - Antrag auf Vorlage der Beförderungsentscheidungen.
 
-## Red-Team-Pruefung
+## Red-Team-Prüfung
 
 1. Wer wurde wann befoerdert?
 2. Wer hat profitiert?
@@ -47,4 +47,4 @@ description: "Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Tea
 
 1. Beförderungssequenz auffaellig?
 2. Beurteilungen konsistent?
-3. Klage moeglich?
+3. Klage möglich?

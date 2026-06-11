@@ -7,7 +7,7 @@ description: "Einstiegs- und Prüfungslinie für AGB Prüfung Kaltstart: sortier
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Agb Pruefung Kaltstart** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Agb Recht Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Agb Prüfung Kaltstart** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Agb Recht Prüfer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -42,7 +42,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 1. **Vorrang Individualabrede § 305b BGB**: BGH staendige Rspr.; bei Spannung zwischen AGB und Individualabrede setzt sich Individualabrede durch.
 2. **Ueberraschende Klauseln § 305c BGB**: BGH legt strengen Massstab an; objektiv-typisierter Massstab.
 3. **Unklarheitenregel § 305c Abs. 2 BGB**: bei Auslegungsspielraum zu Lasten des Verwenders.
-4. **Inhaltskontrolle § 307 BGB**: Generalklausel; immer Pruefung anhand des Transparenzgebots § 307 Abs. 1 Satz 2 BGB.
+4. **Inhaltskontrolle § 307 BGB**: Generalklausel; immer Prüfung anhand des Transparenzgebots § 307 Abs. 1 Satz 2 BGB.
 5. **Konkretisierung § 308/309 BGB**: B2C Spezialnormen.
 
 ### Aktuelle Schwerpunktthemen 2024/2025

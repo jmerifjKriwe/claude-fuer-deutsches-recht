@@ -118,9 +118,9 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welche Sprachen: Deutsch, Englisch, oder weitere Jurisdiktionen (FR, NL, PL)?
 2. Governing Language: Welche Sprachfassung ist verbindlich bei Widerspruechen?
 3. Notarieller Beglaubigungsbedarf: Notarielle Uebersetzung erforderlich (z.B. für ausl. Handelsregister)?
-4. Welche Terminologie-Konventionen: Deutsche Rechtsbegriffe, englisches Common-Law-Aequivalent, oder neutrale Begriffe?
-5. Wer prueft Uebersetzung: zugelassener Dolmetscher, Kanzlei, Mutterhaus?
-6. Wann muessen Dokumente vorliegen: Signing-Termin mit internationalem Notar?
+4. Welche Terminologie-Konventionen: Deutsche Rechtsbegriffe, englisches Common-Law-Äquivalent, oder neutrale Begriffe?
+5. Wer prüft Uebersetzung: zugelassener Dolmetscher, Kanzlei, Mutterhaus?
+6. Wann müssen Dokumente vorliegen: Signing-Termin mit internationalem Notar?
 
 ## Zentrale Normen
 
@@ -128,7 +128,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Art. 10 ff. EGBGB** — Internationales Privatrecht; Vertragsstatut; welche Rechtsordnung und Sprache gilt
 - **Art. 3 I Rom-I-VO (EG 593/2008)** — freie Rechtswahl; auch Sprachenwahl im internationalen Vertrag
 - **§ 189 ZPO** — Vorlage von Urkunden in Originalsprache; Uebersetzung als Anlage
-- **§ 30 BeurkG** — notarielle Urkunden muessen in Deutschland in deutscher Sprache errichtet werden; Zweisprachigkeit moeglich (§ 5 BeurkG)
+- **§ 30 BeurkG** — notarielle Urkunden müssen in Deutschland in deutscher Sprache errichtet werden; Zweisprachigkeit möglich (§ 5 BeurkG)
 
 ## Aktuelle Rechtsprechung
 
@@ -136,7 +136,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Terminologie-Mapping: Deutsch / Englisch
 
-| Deutscher Begriff | Englische Entsprechung (DE-Recht-Bezug) | Common Law-Aequivalent |
+| Deutscher Begriff | Englische Entsprechung (DE-Recht-Bezug) | Common Law-Äquivalent |
 |---|---|---|
 | Gesellschaft mit beschraenkter Haftung (GmbH) | limited liability company (GmbH) | private limited company (Ltd.) [UK] |
 | Aktiengesellschaft (AG) | stock corporation (AG) | public limited company (plc) [UK] |
@@ -159,13 +159,13 @@ Gegenformulierung (Kaeufer bevorzugt English):
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Sprachanforderungen klaeren** — Governing Language, Uebersetzungsbedarf, Notarpflicht
+1. **Sprachanforderungen klären** — Governing Language, Uebersetzungsbedarf, Notarpflicht
 2. **Erstfassung erstellen** — immer in Mutterrechtssprache; dann Uebersetzung
 3. **Terminologie-Check** — kritische Rechtsbegriffe einheitlich uebersetzen
-4. **Vier-Augen-Pruefung** — muttersprachlicher Anwalt oder Dolmetscher mit Rechtskenntnissen
+4. **Vier-Augen-Prüfung** — muttersprachlicher Anwalt oder Dolmetscher mit Rechtskenntnissen
 5. **Konsistenzcheck** — alle Definitionen in beiden Sprachfassungen identisch
 6. **Governing Language definieren** — explizite Klausel einfuegen
-7. **Beglaubigung pruefen** — wenn auslaendisches Register: vereidigter Dolmetscher erforderlich
+7. **Beglaubigung prüfen** — wenn auslaendisches Register: vereidigter Dolmetscher erforderlich
 
 ## Output-Template Zweisprachige Vollmacht (Ausschnitt)
 
@@ -200,7 +200,7 @@ purposes only. In case of doubt, the German version shall prevail.
 - Keine Governing-Language-Klausel → Auslegungsstreit bei Widerspruechen zwischen Sprachfassungen
 - Terminologie inkonsistent (z.B. Aufsichtsrat mal supervisory board, mal board of directors) → Auslegungsrisiko
 - Eigene Kanzlei-Uebersetzung für ausl. Handelsregister → nicht verwendbar ohne beeidigten Dolmetscher
-- Zeitdruck: Uebersetzung ohne angemessene Pruefung → Fehler in bindenden Dokumenten
+- Zeitdruck: Uebersetzung ohne angemessene Prüfung → Fehler in bindenden Dokumenten
 
 ## Quellen
 

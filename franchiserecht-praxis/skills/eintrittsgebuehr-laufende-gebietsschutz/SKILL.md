@@ -47,7 +47,7 @@ Ein Franchisenehmer bezweifelt die Rechtmässigkeit der Gebührenstruktur: Die E
 
 ## Fallstricke
 
-- Marketingfondsbeiträge werden als Gegenleistung für konkrete Werbeleistungen dargestellt, obwohl kein Anspruch auf bestimmte Massnahmen besteht.
+- Marketingfondsbeiträge werden als Gegenleistung für konkrete Werbeleistungen dargestellt, obwohl kein Anspruch auf bestimmte Maßnahmen besteht.
 - Eintrittsgebühren werden als Schulungs- und Ausbildungskosten verbucht, obwohl sie faktisch eine Lizenzgebühr sind.
 - Royalty-Klauseln fehlt eine Definition des massgeblichen Umsatzbegriffs; Streit über Erstattungen, Rabatte und Steuern.
 - Sonderumlagen für Systemanpassungen werden ohne vertragliche Grundlage erhoben.

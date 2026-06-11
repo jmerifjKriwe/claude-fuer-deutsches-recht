@@ -27,7 +27,7 @@ In vielen Verfahren entscheidet, was die Aerzte sagen. Sie brauchen gute Atteste
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Befundbericht**: Aerztlicher Bericht ueber Untersuchung und Ergebnis.
+- **Befundbericht**: Aerztlicher Bericht über Untersuchung und Ergebnis.
 - **Attest**: Schriftliche aerztliche Bescheinigung.
 - **ICD-Code**: Diagnose-Code (z.B. F33.2 für Depression).
 - **AU-Bescheinigung**: Arbeitsunfaehigkeits-Bescheinigung.
@@ -118,12 +118,12 @@ Bitten Sie um Befundkopie (gratis oder geringe Kopiergebuehr).
 - Wenn keine Reaktion: das Gericht kann den Arzt zur Befundauskunft auffordern (§ 103 SGG).
 - Sie geben dafür Adresse und Schweigepflichtsentbindung.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Aktualitaet**: Alte Atteste (2 Jahre und mehr) wirken schwach. Holen Sie aktuelle.
 - **Konkrete Funktionsbeschreibung**: "Kann nur 1 Stunde sitzen" ist konkret. "Hat Schmerzen" ist allgemein.
 - **Datenschutz**: Bei sensiblen Diagnosen (Psychiatrie, HIV) ueberlegen, was wirklich noetig ist.
-- **Eigene Kosten** moeglich: Atteste kosten 25 bis 75 EUR pro Bericht; bei PKH erstattbar.
+- **Eigene Kosten** möglich: Atteste kosten 25 bis 75 EUR pro Bericht; bei PKH erstattbar.
 
 ## Typische Fehler
 
@@ -134,4 +134,4 @@ Bitten Sie um Befundkopie (gratis oder geringe Kopiergebuehr).
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern, koennen aber Honorar verlangen.
+Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte müssen liefern, können aber Honorar verlangen.

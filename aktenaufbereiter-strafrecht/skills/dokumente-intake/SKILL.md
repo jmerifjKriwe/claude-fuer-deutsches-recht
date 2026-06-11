@@ -7,7 +7,7 @@ description: "Dokumentenintake für Strafrechtliche Aktenaufbereitung: sortiert 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Aktenaufbereiter Strafrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Aktenaufbereiter Strafrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -27,14 +27,14 @@ Dieser Dokumenten-Intake für **Aktenaufbereiter Strafrecht** ordnet Anlagen, Re
 
 - `aktenaufbereiter-erstpruefung-und-mandatsziel` — Aktenaufbereiter Erstpruefung und Mandatsziel
 - `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
-- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Uebersicht Aktenvorblatt
+- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Übersicht Aktenvorblatt
 - `aktenlektuere-fristennotiz-und-naechster-schritt` — Aktenlektuere Fristennotiz und Naechster Schritt
 - `aktenvorblatt-erstellen` — Aktenvorblatt Erstellen
 - `aktenvorblatt-schriftsatz-brief-und-memo-bausteine` — Aktenvorblatt Schriftsatz Brief und Memo Bausteine
 - `anklageschrift-zerlegen` — Anklageschrift Zerlegen
 - `aussageanalyse-aussagepsychologie` — Aussageanalyse Aussagepsychologie
 - `beweismittel-katalog-beweisverwertungsverbote` — Beweismittel Katalog Beweisverwertungsverbote
-- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Pruefen
+- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Prüfen
 - `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
 - `beziehungsmatrix-personen-taten` — Beziehungsmatrix Personen Taten
 - `chronologie-compliance-dokumentation-und-akte` — Chronologie Compliance Dokumentation und Akte

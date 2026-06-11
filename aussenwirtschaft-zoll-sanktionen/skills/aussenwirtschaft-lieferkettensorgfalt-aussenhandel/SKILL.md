@@ -21,7 +21,7 @@ description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach Lk
 
 ## Erste Schritte
 
-1. LkSG-Pflichtenzeitplan pruefen: Ab wann anwendbar (Mitarbeiterzahl) für das Unternehmen?
+1. LkSG-Pflichtenzeitplan prüfen: Ab wann anwendbar (Mitarbeiterzahl) für das Unternehmen?
 2. Risikobranchen und Hochrisikolaender für Import-Lieferkette identifizieren.
 3. Abstracted Due Diligence: direkte Lieferanten bewerten (Tier 1); Tier-2-Priorierung.
 4. Praezisierte Risikoanalyse bei Hochrisikobranchen (Textil, Elektronik, Rohstoffe).
@@ -30,7 +30,7 @@ description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach Lk
 
 ## Rechtsrahmen
 
-- **LkSG §§ 3-10**: Sorgfaltspflichten, Risikoanalyse, Massnahmen und Berichtspflicht.
+- **LkSG §§ 3-10**: Sorgfaltspflichten, Risikoanalyse, Maßnahmen und Berichtspflicht.
 - **EU-CSDDD (2024/1760)**: EU-weite Sorgfaltspflichten ab Umsetzungsfrist.
 - **VO (EU) 2017/821**: Konfliktmineralien-Verordnung für bestimmte Erze.
 - **§ 24 LkSG**: Bussgeldbewehrung bei Verstoss gegen Sorgfaltspflichten.
@@ -50,7 +50,7 @@ description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach Lk
 - LkSG und Exportkontroll-KYC werden unabgestimmt parallel betrieben.
 - Tier-2-Lieferanten werden pauschal ignoriert; Hochrisiko-Positionen dort.
 - Berichtspflicht wird als Checklist-Uebung behandelt; inhaltliche Substanz fehlt.
-- CSDDD-Anforderungen ueber LkSG hinaus werden unterschaetzt.
+- CSDDD-Anforderungen über LkSG hinaus werden unterschaetzt.
 
 ## Schnittstellen zu anderen Skills
 

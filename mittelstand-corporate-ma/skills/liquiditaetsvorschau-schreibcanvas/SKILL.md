@@ -114,12 +114,12 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Liquiditaetsvorschau für Mittelstand erstellen | Vorschau nach Schema; Schriftsatz unten |
-| Variante A — Kurzfristige Engpaesse 4-Wochen-Vorschau | Kurzfrist-Vorschau als Subset; Kreditlinien pruefen |
+| Variante A — Kurzfristige Engpaesse 4-Wochen-Vorschau | Kurzfrist-Vorschau als Subset; Kreditlinien prüfen |
 | Variante B — Mandant will Banken Vorschau zeigen | Banken-freundliche Darstellung; Stresstest ergaenzen |
 | Variante C — Saisonales Unternehmen Schwankungen normal | Saisonalitaets-Hinweis in Vorschau einbauen |
 
@@ -171,7 +171,7 @@ bitten wir Sie, uns unverzüglich telefonisch zu kontaktieren.
 [Kanzlei, Datum, Unterschrift]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

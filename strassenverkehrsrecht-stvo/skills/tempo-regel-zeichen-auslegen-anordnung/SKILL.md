@@ -3,7 +3,7 @@ name: tempo-regel-zeichen-auslegen-anordnung
 description: "StVO: Tempo 30: Regel prüfen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Tempo 30 Regel Pruefen
+# Tempo 30 Regel Prüfen
 
 ## Arbeitsweg
 

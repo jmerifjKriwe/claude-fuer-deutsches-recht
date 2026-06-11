@@ -3,7 +3,7 @@ name: gemeindestrasse-baulast-pruefen
 description: "Gemeindestraße: Baulast prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Gemeindestrasse Baulast Pruefen
+# Gemeindestrasse Baulast Prüfen
 
 ## Arbeitsweg
 

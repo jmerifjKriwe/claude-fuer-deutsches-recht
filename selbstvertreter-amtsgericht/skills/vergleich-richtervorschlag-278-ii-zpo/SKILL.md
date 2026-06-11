@@ -39,7 +39,7 @@ Typische Vergleichs-Vorschlaege:
 - Kosten gegeneinander aufgehoben.
 - Ratenzahlung.
 
-### Schritt 2 — Vorteile für Sie als Klaeger
+### Schritt 2 — Vorteile für Sie als Kläger
 
 - Sicheres Ergebnis (kein Niederlage-Risiko).
 - Schnelles Ende.
@@ -49,16 +49,16 @@ Typische Vergleichs-Vorschlaege:
 ### Schritt 3 — Vorteile für Sie als Beklagter
 
 - Reduzierung der Forderung.
-- Ratenzahlung moeglich.
+- Ratenzahlung möglich.
 - Kein VU.
 - Geringere Gesamtkosten.
 
-### Schritt 4 — Pruefen Sie das Angebot
+### Schritt 4 — Prüfen Sie das Angebot
 
 Vor Annahme:
 
-- Streiten Sie wirklich gewinnen koennen? Wenn ja, vielleicht ablehnen.
-- Streiten Sie verlieren koennen? Wenn ja, Vergleich oft vorteilhaft.
+- Streiten Sie wirklich gewinnen können? Wenn ja, vielleicht ablehnen.
+- Streiten Sie verlieren können? Wenn ja, Vergleich oft vorteilhaft.
 - Was sind die Kosten bei Vergleich vs. weiterem Verfahren?
 
 Skill `kostenrisiko-streitwert-berechnen-gkg`.
@@ -73,7 +73,7 @@ Vor Termin definieren (Skill `terminvorbereitung-checkliste`):
 
 ### Schritt 6 — Verhandlung im Termin
 
-Sie koennen Gegenvorschlag machen:
+Sie können Gegenvorschlag machen:
 
 ```
 "Herr Vorsitzender, ich kann dem
@@ -104,22 +104,22 @@ Beide Parteien stimmen muendlich zu. Protokoll wird vorgelesen oder vorgegeben (
 
 ### Schritt 8 — Erfuellung des Vergleichs
 
-Vergleich ist Vollstreckungstitel (§ 794 I Nr. 1 ZPO). Bei Nicht-Erfuellung koennen Sie vollstrecken — wie aus Urteil.
+Vergleich ist Vollstreckungstitel (§ 794 I Nr. 1 ZPO). Bei Nicht-Erfuellung können Sie vollstrecken — wie aus Urteil.
 
 ### Schritt 9 — Schriftlicher Vergleich
 
-§ 278 VI ZPO: Parteien koennen schriftlich vergleichen, ohne Termin. Vergleichs-Vorschlag eines Vorsitzenden, beide Seiten muessen zustimmen.
+§ 278 VI ZPO: Parteien können schriftlich vergleichen, ohne Termin. Vergleichs-Vorschlag eines Vorsitzenden, beide Seiten müssen zustimmen.
 
 ### Schritt 10 — Widerruf?
 
-Vergleich ist grundsaetzlich bindend. Anfechtung nur in Ausnahmefaellen (Irrtum, arglistige Taeuschung — §§ 119, 123 BGB). In der Regel: nicht widerrufbar.
+Vergleich ist grundsätzlich bindend. Anfechtung nur in Ausnahmefaellen (Irrtum, arglistige Taeuschung — §§ 119, 123 BGB). In der Regel: nicht widerrufbar.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Vergleich ist Endgueltig** — keine Reue.
 - **Erledigungsklausel** beachten: alle Forderungen erledigt.
 - **Kosten-Regelung** klar.
-- **Vollstreckung-Wirkung**: bei Nicht-Erfuellung koennen Sie sofort vollstrecken.
+- **Vollstreckung-Wirkung**: bei Nicht-Erfuellung können Sie sofort vollstrecken.
 
 ## Typische Fehler
 

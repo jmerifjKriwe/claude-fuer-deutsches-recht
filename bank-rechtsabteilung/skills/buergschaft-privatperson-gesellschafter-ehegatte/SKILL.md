@@ -29,12 +29,12 @@ description: "Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Ba
 - Ehegatte buergt für Kredit des anderen Ehegatten oder seines Unternehmens.
 - **BGH XI ZR 56/93** (19.01.1999) zur Sittenwidrigkeit bei "krasser Vermoegensueberforderung".
 - Voraussetzungen:
- - Buergin/Buerge hat kein nennenswertes Einkommen / Vermoegen.
+ - Buergin/Buerge hat kein nennenswertes Einkommen / Vermögen.
  - Buergschaft uebersteigt Pfaendungsmoeglichkeit drastisch.
  - Buergin emotional verbunden mit Hauptschuldner.
 
 ### Drittbuergschaft (z. B. Eltern für Kinder)
-- Aehnliche Pruefung wie Ehegatte.
+- Aehnliche Prüfung wie Ehegatte.
 
 ## Sittenwidrigkeit § 138 BGB
 

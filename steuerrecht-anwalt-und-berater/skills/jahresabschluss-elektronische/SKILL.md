@@ -13,7 +13,7 @@ description: "E-Bilanz § 5b EStG elektronische Übermittlung. Anwendungsfall Bi
 
 ## Kernsachverhalt
 
-§ 5b EStG verpflichtet alle Bilanzierer zur elektronischen Uebermittlung der Steuerbilanz an das Finanzamt (E-Bilanz). Die Uebermittlung erfolgt im XBRL-Format auf Basis der jaehrlich vom BMF veroeffentlichten Kerntaxonomie (BMF-Taxonomie, abrufbar ueber esteuer.de) und wird ueber das ERiC-Modul der Finanzverwaltung uebertragen (in DATEV: integrierte ERiC-Schnittstelle, in Addison/Sage separates ERiC-Plugin). Frist: parallel zur Steuererklaerung (Festsetzungsverjaehrung beachten, ggf. § 109 AO Verlaengerung). Bei Mandanten mit Handelsbilanz und Steuerbilanz uebermittelt der StB regelmaessig die Handelsbilanz nebst Ueberleitungsrechnung; die "Echte-Steuerbilanz"-Uebermittlung ist Wahlrecht.
+§ 5b EStG verpflichtet alle Bilanzierer zur elektronischen Uebermittlung der Steuerbilanz an das Finanzamt (E-Bilanz). Die Uebermittlung erfolgt im XBRL-Format auf Basis der jaehrlich vom BMF veroeffentlichten Kerntaxonomie (BMF-Taxonomie, abrufbar über esteuer.de) und wird über das ERiC-Modul der Finanzverwaltung uebertragen (in DATEV: integrierte ERiC-Schnittstelle, in Addison/Sage separates ERiC-Plugin). Frist: parallel zur Steuererklaerung (Festsetzungsverjaehrung beachten, ggf. § 109 AO Verlaengerung). Bei Mandanten mit Handelsbilanz und Steuerbilanz uebermittelt der StB regelmaessig die Handelsbilanz nebst Ueberleitungsrechnung; die "Echte-Steuerbilanz"-Uebermittlung ist Wahlrecht.
 
 ## Kaltstart-Rueckfragen
 
@@ -41,12 +41,12 @@ description: "E-Bilanz § 5b EStG elektronische Übermittlung. Anwendungsfall Bi
 ### Verwaltungsanweisungen
 
 - BMF-Schreiben vom 28.09.2011, IV C 6 - S 2133-b/11/10009 zur erstmaligen E-Bilanz-Einfuehrung (Anwendungszeitpunkte und Mindestumfang).
-- BMF-Schreiben zur jaehrlichen Aktualisierung der Taxonomie (zuletzt veroeffentlichte Fassung ueber esteuer.de bzw. BMF-Newsletter pruefen).
+- BMF-Schreiben zur jaehrlichen Aktualisierung der Taxonomie (zuletzt veroeffentlichte Fassung über esteuer.de bzw. BMF-Newsletter prüfen).
 - Anwendungsfragen siehe AEAO zu § 5b EStG (Anwendungserlass zur Abgabenordnung in jeweils gueltiger Fassung).
 
 ## Workflow
 
-### Phase 1 — Pflicht-Pruefung
+### Phase 1 — Pflicht-Prüfung
 
 - Bilanzierer nach § 5 EStG: E-Bilanz Pflicht.
 - EUER-Steuerpflichtige (§ 4 Abs. 3 EStG): keine E-Bilanz, Anlage EUER.
@@ -61,19 +61,19 @@ description: "E-Bilanz § 5b EStG elektronische Übermittlung. Anwendungsfall Bi
 ### Phase 3 — Konten-Zuordnung
 
 - Standardkontenrahmen SKR 03 / SKR 04 (DATEV) bzw. IKR sind mit Standard-Mapping zur Kerntaxonomie ausgestattet; konkrete Mapping-Pflege siehe SKR-aktuelle Fassung.
-- Individuelle Konten erfordern manuelle Zuordnung zur Taxonomie-Position; Pruefen vor Versand zwingend.
-- In DATEV Kanzlei-Rechnungswesen erfolgt die E-Bilanz-Erstellung typischerweise ueber das Modul "E-Bilanz" mit eigenem Pruefprotokoll (genaue Programmpfade in der aktuellen DATEV-Programmversion ggf. abweichend).
+- Individuelle Konten erfordern manuelle Zuordnung zur Taxonomie-Position; Prüfen vor Versand zwingend.
+- In DATEV Kanzlei-Rechnungswesen erfolgt die E-Bilanz-Erstellung typischerweise über das Modul "E-Bilanz" mit eigenem Pruefprotokoll (genaue Programmpfade in der aktuellen DATEV-Programmversion ggf. abweichend).
 
 ### Phase 4 — Uebermittlung
 
 - Auswertung im StB-Programm generiert eine XBRL-Datei (Endung .xbrl bzw. eingebettet in das XBRL-Paket).
-- Versand an die Finanzverwaltung erfolgt ueber das ERiC-Modul (ELSTER Rich Client) mit Authentifizierungszertifikat (in der Regel das Berater-/Organisations-Zertifikat im ELSTER-Online-Portal).
+- Versand an die Finanzverwaltung erfolgt über das ERiC-Modul (ELSTER Rich Client) mit Authentifizierungszertifikat (in der Regel das Berater-/Organisations-Zertifikat im ELSTER-Online-Portal).
 - Vor Echt-Versand: Plausibilitaetspruefung im ERiC durchlaufen; Pruefprotokoll dokumentieren.
 - Nach Versand: Uebermittlungsprotokoll (Transferticket-ID) speichern; Ablage in der Mandantenakte (Pflicht zur Aufbewahrung der Versandquittung).
 
 ### Phase 5 — Steuerbilanz-Anteil
 
-- Bei Mandanten mit Handelsbilanz und separater Steuerbilanz: beide moeglich.
+- Bei Mandanten mit Handelsbilanz und separater Steuerbilanz: beide möglich.
 - Standardfall: Handelsbilanz mit Ueberleitungsrechnung.
 - Steuerliche Wahlrechte hier ausgeuebt.
 
@@ -98,4 +98,4 @@ Stand: 05/2026.
 - AO §§ 140, 141.
 - BMF-Schreiben vom 28.09.2011 (IV C 6 - S 2133-b/11/10009) sowie Folgeschreiben.
 - AEAO zu § 5b EStG.
-- Verifikations-Hinweis: aktuelle Taxonomie-Version 2026 und Folgejahre ueber www.esteuer.de bzw. BMF-Newsletter pruefen.
+- Verifikations-Hinweis: aktuelle Taxonomie-Version 2026 und Folgejahre über www.esteuer.de bzw. BMF-Newsletter prüfen.

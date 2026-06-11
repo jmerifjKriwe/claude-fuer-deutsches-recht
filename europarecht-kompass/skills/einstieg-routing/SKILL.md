@@ -21,7 +21,7 @@ Dieser Einstieg routet **Europarecht Kompass** vom ersten Sachverhalt zu Rollen,
 - `eu-rechtsquellen-vorlageweiche` — EU Rechtsquellen Vorlageweiche
 - `eur-anrufung-state-beihilfen-vergaben` — EUR Anrufung State Beihilfen Vergaben
 - `eur-kommissionsverfahren-art-258-spezial` — EUR Kommissionsverfahren ART 258 Spezial
-- `eur-mandant-uebersicht-zustaendigkeiten` — EUR Mandant Uebersicht Zustaendigkeiten
+- `eur-mandant-uebersicht-zustaendigkeiten` — EUR Mandant Übersicht Zustaendigkeiten
 - `eur-state-aid-notifikation-spezial` — EUR State AID Notifikation Spezial
 - `europarecht-beihilfen-vergaben` — Europarecht Beihilfen Vergaben
 - `dokumente-intake` — Dokumente Intake

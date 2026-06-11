@@ -1,6 +1,6 @@
-# Official Source Check fuer Corporate/M&A
+# Official Source Check für Corporate/M&A
 
-| Thema | Primaerquelle fuer Live-Check | Was pruefen? |
+| Thema | Primaerquelle für Live-Check | Was prüfen? |
 | --- | --- | --- |
 | Umwandlung | Gesetze im Internet / UmwG | Form, Verfahren, Register, Fristen, Gläubigerschutz |
 | Umwandlungssteuer | Gesetze im Internet / UmwStG | Buchwertfortfuehrung, Sperrfristen, Verlustvortraege |

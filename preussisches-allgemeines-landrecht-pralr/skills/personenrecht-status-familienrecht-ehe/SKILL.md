@@ -37,7 +37,7 @@ description: "PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband
 - **ALR I 1 §§ 13-14**: Lebendgeburt erforderlich für Rechtsfaehigkeit; "Schrei oder ander Lebenszeichen" Anforderung.
 - **ALR I 1 §§ 25-30**: Verschollenheit; nach 80. Lebensjahr Todvermutung mit Verschollensregel (vor Zitat verifizieren).
 - **ALR I 1 §§ 50-70**: Stand als rechtlicher Begriff; Verweis auf die staendischen Titel ALR II 7-9.
-- **ALR I 4 §§ 1 ff.**: Geschaeftsfaehigkeit; Minderjaehrige bis 14 voellig geschaeftsunfaehig, bis 25 beschraenkt.
+- **ALR I 4 §§ 1 ff.**: Geschaeftsfaehigkeit; Minderjaehrige bis 14 völlig geschaeftsunfaehig, bis 25 beschraenkt.
 
 ### Subsumtionsbeispiel: Erbfaehigkeit eines Nasciturus
 Sachverhalt: Schwangere Witwe; Kind wird tot geboren; Erbschaft des verstorbenen Vaters.
@@ -45,7 +45,7 @@ ALR-Loesung: ALR I 1 §§ 13-14 — Lebendgeburt erforderlich; Totgeborenes hat 
 
 ### Subsumtionsbeispiel: Adelsfuehrung
 Sachverhalt: Familie behauptet Adelszugehoerigkeit.
-ALR-Loesung: ALR II 9 §§ — Pruefung des Adelsbriefs; Adelsfuehrung nur bei Nachweis. Heute: Art. 109 III WRV / Art. 123 I GG, Adel nur als Namensbestandteil.
+ALR-Loesung: ALR II 9 §§ — Prüfung des Adelsbriefs; Adelsfuehrung nur bei Nachweis. Heute: Art. 109 III WRV / Art. 123 I GG, Adel nur als Namensbestandteil.
 
 ### Heutige Fortwirkung
 - § 1 BGB hat ALR I 1 § 1 abgeloest — Rechtsfaehigkeit beginnt mit Vollendung der Geburt.

@@ -14,7 +14,7 @@ description: "Franchise: Warenbezugsbindung und VBE-Verordnung: Skill klaert die
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Franchise: Warenbezugsbindung und VBE-Verordnung. Skill klaert die kartellrechtliche Pruefung von Warenbezugspflichten im Franchise Vertikal-Block-Exemption-VO (EU) 2022/720 Marktanteilsschwelle Quotenbindung sowie 'Single Branding'. Liefert Pruefraster.
+**Fokus:** Franchise: Warenbezugsbindung und VBE-Verordnung. Skill klaert die kartellrechtliche Prüfung von Warenbezugspflichten im Franchise Vertikal-Block-Exemption-VO (EU) 2022/720 Marktanteilsschwelle Quotenbindung sowie 'Single Branding'. Liefert Pruefraster.
 
 ### Franchise Warenbezugsbindung Vbe
 
@@ -33,7 +33,7 @@ description: "Franchise: Warenbezugsbindung und VBE-Verordnung: Skill klaert die
 - Nach 5 Jahren ist die Befreiung ausgenommen.
 
 ### Quotenbindung
-- "80-Prozent-Regel": Bezugsanteil bis 80 Prozent unterliegt vereinfachter Pruefung.
+- "80-Prozent-Regel": Bezugsanteil bis 80 Prozent unterliegt vereinfachter Prüfung.
 
 ### Postvertragliche Konkurrenzklausel
 - Maximal 1 Jahr.
@@ -43,7 +43,7 @@ description: "Franchise: Warenbezugsbindung und VBE-Verordnung: Skill klaert die
 
 ### Internet-Vertrieb
 - Vollverbot des Online-Vertriebs ist Hardcore.
-- Selektives Vertriebssystem zulaessig mit qualitativen Kriterien.
+- Selektives Vertriebssystem zulässig mit qualitativen Kriterien.
 
 ### Information Exchange
 - Austausch sensibler Daten zwischen Franchisegeber und Franchisenehmer kartellrechtlich kritisch.

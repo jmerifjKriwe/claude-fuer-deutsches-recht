@@ -3,7 +3,7 @@ name: schweinehaltung-schutzbedarf-pruefen
 description: "Schweinehaltung: Schutzbedarf prüfen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Schweinehaltung Schutzbedarf Pruefen
+# Schweinehaltung Schutzbedarf Prüfen
 
 ## Arbeitsweg
 

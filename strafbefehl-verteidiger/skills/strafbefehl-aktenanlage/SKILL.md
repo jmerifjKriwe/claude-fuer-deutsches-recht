@@ -68,7 +68,7 @@ Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und
  - Revisionsbegründung
 ```
 
-## Fristen-Uebersicht — Template
+## Fristen-Übersicht — Template
 
 | Frist | Rechtsgrundlage | Datum | Erledigt |
 |-------|----------------|-------|---------|
@@ -85,7 +85,7 @@ Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und
 |-----|-------------|-----|----------|-------------|--------|
 | 1 | Zeuge [Name] | Zeuge | Bl. [X] | [Thema] | auswerten |
 | 2 | Polizeibericht | Urkunde | Bl. [X] | Tathergang | auswerten |
-| 3 | Messprotokoll | Urkunde | Bl. [X] | Geschwindigkeit | kritisch pruefen |
+| 3 | Messprotokoll | Urkunde | Bl. [X] | Geschwindigkeit | kritisch prüfen |
 
 ## Zentrale Normen
 

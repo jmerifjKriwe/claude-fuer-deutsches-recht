@@ -37,23 +37,23 @@ Wer **anspruchsbegruendend** Tatsachen behauptet, beweist sie.
 
 Beispiel:
 
-- Klaeger: Anspruch auf Kaufpreis → muss Kaufvertrag, Lieferung, Faelligkeit, Nicht-Zahlung beweisen.
+- Kläger: Anspruch auf Kaufpreis → muss Kaufvertrag, Lieferung, Faelligkeit, Nicht-Zahlung beweisen.
 - Beklagter: Anspruch besteht nicht wegen Erfuellung (= anspruchsvernichtend) → Beklagter beweist Erfuellung (Zahlungs-Beleg).
 
 ### Schritt 2 — Praesumtive Beweislast je Anspruchsgrund
 
 § 433 II BGB (Kaufpreis):
 
-- Klaeger beweist: Vertrag, Faelligkeit.
+- Kläger beweist: Vertrag, Faelligkeit.
 - Beklagter beweist: Erfuellung, Mangel, Aufrechnung, Verjährung.
 
 § 823 I BGB (Delikt):
 
-- Klaeger beweist: Verletzung, Handlung, Kausalitaet, Rechtswidrigkeit, Verschulden, Schaden.
+- Kläger beweist: Verletzung, Handlung, Kausalitaet, Rechtswidrigkeit, Verschulden, Schaden.
 
 § 812 BGB (Bereicherung):
 
-- Klaeger beweist: Bereicherung, ohne Rechtsgrund.
+- Kläger beweist: Bereicherung, ohne Rechtsgrund.
 
 ### Schritt 3 — Beweislast-Umkehr durch Sondernorm
 
@@ -71,13 +71,13 @@ Bei typischen Geschehensablaeufen kann das Gericht von Erfahrungssatzen ausgehen
 
 Beispiel: Auffahrunfall → Anscheinsbeweis für Verschulden des Auffahrenden.
 
-Sie als Klaeger profitieren — der Beklagte muss den Anschein erschuettern.
+Sie als Kläger profitieren — der Beklagte muss den Anschein erschuettern.
 
 ### Schritt 5 — Sekundaere Darlegungslast
 
 In Faellen, wo eine Partei keinen Zugang zu Tatsachen hat, kann das Gericht von der gegnerischen Partei substantiierten Vortrag verlangen, obwohl sie nicht beweislastpflichtig ist.
 
-Beispiel: Klaeger behauptet, eine Mahnung geliefert. Beklagter sagt: "habe nichts erhalten". Beklagter muss substantiiert vortragen, was bei ihm im Briefkasten lag — sonst gilt Klaegers Behauptung.
+Beispiel: Kläger behauptet, eine Mahnung geliefert. Beklagter sagt: "habe nichts erhalten". Beklagter muss substantiiert vortragen, was bei ihm im Briefkasten lag — sonst gilt Klaegers Behauptung.
 
 Skill `substantiiertes-bestreiten-138-iv-zpo`.
 
@@ -90,7 +90,7 @@ Wenn Sie direkten Beweis nicht haben, sammeln Sie **Hilfstatsachen**:
 - Email-Wechsel mit indirekten Hinweisen.
 - Schweigen der Gegenseite zu einem konkreten Punkt.
 
-Indizien zusammen koennen Beweis-Wert haben.
+Indizien zusammen können Beweis-Wert haben.
 
 ### Schritt 7 — Beweis-Mass
 
@@ -102,18 +102,18 @@ Sicherheit bei 100 % nicht erforderlich; "vernuenftiger Zweifel" reicht.
 
 Wenn das Gericht nicht ueberzeugt ist, verliert die beweispflichtige Partei (= non liquet zulasten der beweispflichtigen Partei).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Wer behauptet, beweist** — fast immer.
-- **Beweislast-Umkehr** in bestimmten Normen pruefen.
+- **Beweislast-Umkehr** in bestimmten Normen prüfen.
 - **Anscheinsbeweis** kann helfen.
 - **Indizien-Sammlung** lohnt sich bei schwacher direkter Beweis-Lage.
 
 ## Typische Fehler
 
-- "Der Beklagte muss beweisen, dass ich nicht zahlte." → Falsch, der Klaeger beweist Nicht-Zahlung.
+- "Der Beklagte muss beweisen, dass ich nicht zahlte." → Falsch, der Kläger beweist Nicht-Zahlung.
 - "Bei Schadensersatz muss der Beklagte alles beweisen." → Nur bei Beweislast-Umkehr (z. B. § 280 BGB).
-- "Indizien zaehlen nicht." → Doch, kumulativ koennen sie Ueberzeugung tragen.
+- "Indizien zaehlen nicht." → Doch, kumulativ können sie Ueberzeugung tragen.
 
 ## Quellen und Aktualitaet
 

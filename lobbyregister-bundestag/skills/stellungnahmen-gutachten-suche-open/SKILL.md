@@ -25,11 +25,11 @@ description: "Prüft Bereitstellungspflicht für grundlegende Stellungnahmen ode
 1. Wurde ein Dokument an Bundestags- oder Regierungsadressaten gegeben?
 2. Ist es grundlegend oder nur Begleitkommunikation?
 3. In welchem Quartal wurde es versandt?
-4. Wie wird nach dem Upload geprueft, dass Dokument, Regelungsvorhaben und Version oeffentlich richtig erscheinen?
+4. Wie wird nach dem Upload geprueft, dass Dokument, Regelungsvorhaben und Version öffentlich richtig erscheinen?
 
 ## API-Nachweis nach Upload
 
-Nach dem Portal-Upload soll der Skill eine Nachkontrolle anlegen: öffentlichen Eintrag per API abrufen, `statements`, `regulatoryProjects`, Version, `sourceDate`, Detailseite und PDF sichern und gegen Versanddatum, Empfaengerkreis, Regelungsvorhaben und Schwärzungsvermerk pruefen. Die API prueft nur den veroeffentlichten Datenstand; sie ersetzt den Portal-Upload nicht.
+Nach dem Portal-Upload soll der Skill eine Nachkontrolle anlegen: öffentlichen Eintrag per API abrufen, `statements`, `regulatoryProjects`, Version, `sourceDate`, Detailseite und PDF sichern und gegen Versanddatum, Empfaengerkreis, Regelungsvorhaben und Schwärzungsvermerk prüfen. Die API prüft nur den veroeffentlichten Datenstand; sie ersetzt den Portal-Upload nicht.
 
 ## Quellenanker
 

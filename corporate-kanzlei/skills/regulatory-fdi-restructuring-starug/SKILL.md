@@ -120,7 +120,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Triage — klaere vor Beginn
 
 1. Umsatzschwellen erreicht? → Bundeskartellamt (§§ 35 ff. GWB) oder EU-Kommission (Art. 1 FKVO)?
-2. Auslaendischer Erwerber aus Nicht-EU-Land? → AWG/AWV-Investitionspruefung pruefen
+2. Auslaendischer Erwerber aus Nicht-EU-Land? → AWG/AWV-Investitionspruefung prüfen
 3. Branche: Ruestung, Verteidigung, Kritische Infrastruktur, Medien, Gesundheit, Cloud? → SektSchV oder besondere Pruefpflichten
 4. Timeline: Vollzugsverbot (Standstill Obligation) bis Freigabe; Gunst-Jumping-Risiko?
 5. Mehrere Jurisdiktionen (USA HSR Act, UK NSI Act, China SAMR)? → Multijurisdiktioneller Koordinationsbedarf
@@ -171,7 +171,7 @@ Meldefrist: 2 Monate nach Vertragsschluss. Pruefdauer: 4 Monate (verlaengerbar).
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Schwellentest** — Umsatzzahlen beider Parteien errechnen; GWB/FKVO/Drittlaender-Schwellen pruefen
+1. **Schwellentest** — Umsatzzahlen beider Parteien errechnen; GWB/FKVO/Drittlaender-Schwellen prüfen
 2. **FDI-Check** — Nationalitaet des Erwerbers; Sektor der Zielgesellschaft; AWV-Schwellen
 3. **Timeline festlegen** — Anmeldezeitpunkt (post-Signing); Pruefdauer Phase I (4 Wochen GWB; 25 Werktage FKVO)
 4. **Gun-Jumping-Protokoll** — Informationsaustausch beschraenken bis Freigabe; Clean Team wenn noetig
@@ -232,7 +232,7 @@ Datum: [DATUM]
 - FDI-Meldefrist verpasst (2 Monate nach Vertragsschluss) → BMWK kann nachtraegliche Untersagung erwaegen
 - Phase-II-Risiko unterschaetzt → Closing verzoegert sich 6-18 Monate
 - Drittland-Anmeldungen (USA, China) vergessen → Separates Vollzugsverbot in diesen Ländern
-- SektSchV-Pruefung bei Ruestungsunternehmen vergessen → Genehmigungspflicht verpasst
+- SektSchV-Prüfung bei Ruestungsunternehmen vergessen → Genehmigungspflicht verpasst
 
 ## Quellen
 

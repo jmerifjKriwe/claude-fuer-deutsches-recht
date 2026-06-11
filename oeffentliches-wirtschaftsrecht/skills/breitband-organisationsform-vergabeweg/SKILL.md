@@ -3,7 +3,7 @@ name: breitband-organisationsform-vergabeweg
 description: "Breitband: Organisationsform prüfen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Breitband Organisationsform Pruefen
+# Breitband Organisationsform Prüfen
 
 ## Arbeitsweg
 

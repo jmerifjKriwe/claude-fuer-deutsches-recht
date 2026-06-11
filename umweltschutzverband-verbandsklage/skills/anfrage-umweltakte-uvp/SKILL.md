@@ -3,7 +3,7 @@ name: anfrage-umweltakte-uvp
 description: "Umweltschutzverband Verbandsklage: UIG-Anfrage für Umweltakte. UIG-Anfrage für Umweltakte im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
 ---
 
-# Uig Anfrage Fuer Umweltakte
+# Uig Anfrage Für Umweltakte
 
 ## Arbeitsweg
 

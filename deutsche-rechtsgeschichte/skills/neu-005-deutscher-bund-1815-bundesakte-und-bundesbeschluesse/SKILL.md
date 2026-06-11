@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -40,11 +40,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Bundesakte und Bundesbeschluesse
 
 - Bundesversammlung (eigentlich Gesandtenkongress) erlaesst **Bundesbeschluesse**.
-- Beschluesse muessen von Mitgliedstaaten in Landesrecht umgesetzt werden.
+- Beschlüsse müssen von Mitgliedstaaten in Landesrecht umgesetzt werden.
 
-## Wichtige Beschluesse
+## Wichtige Beschlüsse
 
-- **Karlsbader Beschluesse 20. September 1819**: Repressionsgesetze gegen Burschenschaften, Pressekontrolle, Universitaetsgesetz.
+- **Karlsbader Beschlüsse 20. September 1819**: Repressionsgesetze gegen Burschenschaften, Pressekontrolle, Universitaetsgesetz.
 - **Wiener Schlussakte 15. Mai 1820**: Schlussakt der Ministerialkonferenzen; Verfassungsgarantien und monarchisches Prinzip (Art. 57 WSA).
 - **Sechs Artikel vom 28. Juni 1832** und **Zehn Artikel vom 5. Juli 1832**: Beschraenkung der konstitutionellen Bewegung (sogenannte Bundesbeschluesse gegen den Konstitutionalismus).
 
@@ -63,7 +63,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Subsumtionsbeispiel: Burschenschaftsverbot 1819
 
 Studenten der Universitaet Jena gruenden Burschenschaft.
-- Bundesrecht: Karlsbader Beschluesse — Verbot.
+- Bundesrecht: Karlsbader Beschlüsse — Verbot.
 - Sachsen-Weimar setzt durch Landesgesetz um.
 
 ## Heutige Bedeutung

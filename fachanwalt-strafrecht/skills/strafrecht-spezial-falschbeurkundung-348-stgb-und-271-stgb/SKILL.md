@@ -63,12 +63,12 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer öffentlichen Behörde inne
 
 ## Praktikertipps Verteidigung
 
-- **Rechtserheblichkeit pruefen.** Nicht jede Tatsache in einer Urkunde ist rechtserheblich. Nebenangaben (z. B. Beruf, Adresse zur Information) sind oft nicht erfasst.
-- **Beweiskraft der Urkunde pruefen.** Hat die Urkunde Beweiskraft "für und gegen jedermann" (Paragraph 415 ZPO)? Wenn nur "für den Beschluss" — keine öffentliche Urkunde im Sinne von Paragraph 348 StGB.
-- **Vorsatzausschluss durch Beratung.** Bei komplexen Beurkundungsfragen (z. B. Auslandssachverhalt) kann Vorsatz ueber Falschheit fehlen.
+- **Rechtserheblichkeit prüfen.** Nicht jede Tatsache in einer Urkunde ist rechtserheblich. Nebenangaben (z. B. Beruf, Adresse zur Information) sind oft nicht erfasst.
+- **Beweiskraft der Urkunde prüfen.** Hat die Urkunde Beweiskraft "für und gegen jedermann" (Paragraph 415 ZPO)? Wenn nur "für den Beschluss" — keine öffentliche Urkunde im Sinne von Paragraph 348 StGB.
+- **Vorsatzausschluss durch Beratung.** Bei komplexen Beurkundungsfragen (z. B. Auslandssachverhalt) kann Vorsatz über Falschheit fehlen.
 - **Paragraph 271 StGB nur bei aktivem Veranlassen.** Wenn der Amtstraeger selbst Fehler macht und Mandant nicht aktiv getaeuscht hat — Paragraph 271 StGB nicht erfuellt.
-- **Konkurrenz zu Paragraph 267 StGB Urkundenfaelschung pruefen.** Faelschung **echter** Urkunde ist Paragraph 267 StGB; Beurkundung **falschen Inhalts** ist Paragraph 348 / 271 StGB. Wichtige Abgrenzung.
-- **Scheinehe-Verteidigung.** Bei Scheinehe-Vorwurf nach Paragraph 271 StGB pruefen, ob wirklich Eheabsicht fehlte oder ob die Ehe nur "wenig herzlich" begonnen wurde.
+- **Konkurrenz zu Paragraph 267 StGB Urkundenfaelschung prüfen.** Faelschung **echter** Urkunde ist Paragraph 267 StGB; Beurkundung **falschen Inhalts** ist Paragraph 348 / 271 StGB. Wichtige Abgrenzung.
+- **Scheinehe-Verteidigung.** Bei Scheinehe-Vorwurf nach Paragraph 271 StGB prüfen, ob wirklich Eheabsicht fehlte oder ob die Ehe nur "wenig herzlich" begonnen wurde.
 
 ## Trade-off-Matrix
 
@@ -79,19 +79,19 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer öffentlichen Behörde inne
 ## Konkurrenzen
 
 - **Paragraph 348 StGB und Paragraph 267 StGB Urkundenfaelschung.** Spezialitaet — Faelschung **echter** Urkunde ist Paragraph 267 StGB; Beurkundung **falschen Inhalts** ist Paragraph 348 StGB.
-- **Paragraph 271 StGB und Paragraph 267 StGB.** Tatmehrheit moeglich.
+- **Paragraph 271 StGB und Paragraph 267 StGB.** Tatmehrheit möglich.
 - **Paragraph 271 StGB und Paragraph 263 StGB Betrug.** Tateinheit, wenn neben falscher Beurkundung Vermoegensschaden eintritt.
 - **Paragraph 271 StGB und Paragraph 95 AufenthG.** Konkurrenz bei Scheinehe-Erschleichung von Aufenthaltsrecht.
-- **Paragraph 271 StGB und Paragraph 145d StGB Vortaeuschen.** Tatmehrheit moeglich.
+- **Paragraph 271 StGB und Paragraph 145d StGB Vortaeuschen.** Tatmehrheit möglich.
 
 ## Strafzumessung und Folgen
 
 - **Strafrahmen Paragraph 348 Abs 1 StGB:** Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
 - **Strafrahmen Paragraph 271 Abs 1 StGB:** Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 - **Strafrahmen Paragraph 271 Abs 2 StGB schwerer Fall:** Freiheitsstrafe von 3 Monaten bis zu 5 Jahren bei Bereicherungsabsicht.
-- **Disziplinarrechtliche Folgen** für Amtstraeger; Entfernung aus dem Dienst moeglich.
-- **Berufsverbot Paragraph 70 StGB** moeglich.
-- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
+- **Disziplinarrechtliche Folgen** für Amtstraeger; Entfernung aus dem Dienst möglich.
+- **Berufsverbot Paragraph 70 StGB** möglich.
+- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
 - Bei Auslaender: Ausweisungsrisiko bei Aufenthaltserschleichung.
 
 ## Mustertexte
@@ -100,7 +100,7 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer öffentlichen Behörde inne
 
 **Schriftsatz-Snippet (Scheinehe-Bestreiten):** "Mein Mandant und seine Ehefrau haben am DD.MM.JJJJ unter Anwesenheit beider Familien geheiratet. Eine Scheinehe lag nicht vor. Die spaetere Trennung im Mai JJJJ ist auf persönliche Differenzen zurueckzufuehren und stellt kein Indiz für eine zur Zeit der Eheschliessung fehlende Eheabsicht dar."
 
-**Einlassungs-Snippet:** "Ich habe gegenueber dem Standesbeamten am DD.MM.JJJJ angegeben, dass ich am 12.05.1985 geboren wurde. Mein tatsaechliches Geburtsdatum laut Geburtsregister meines Heimatlandes lautet 12.05.1986. Ich habe dieses Datum erst spaeter durch Vergleich mit meiner Geburtsurkunde bemerkt. Eine vorsaetzliche Falschangabe lag nicht vor."
+**Einlassungs-Snippet:** "Ich habe gegenueber dem Standesbeamten am DD.MM.JJJJ angegeben, dass ich am 12.05.1985 geboren wurde. Mein tatsaechliches Geburtsdatum laut Geburtsregister meines Heimatlandes lautet 12.05.1986. Ich habe dieses Datum erst später durch Vergleich mit meiner Geburtsurkunde bemerkt. Eine vorsaetzliche Falschangabe lag nicht vor."
 
 ## Quellen Stand 06/2026
 

@@ -37,7 +37,7 @@ Im IP-Strafrecht herrschen einige Konstanten:
 
 - **Antragsdelikt** (Grundtatbestaende). Ausnahmen: Gewerbsmaessigkeit / Bandenmaessigkeit fuehren in Paragraph 108a UrhG und Paragraph 143a MarkenG zum Offizialdelikt.
 - **Privatklageweg Paragraph 374 StPO** in den meisten Faellen eroeffnet.
-- **Adhaesionsverfahren Paragraph 403 StPO** moeglich (Schadensersatz im Strafverfahren).
+- **Adhaesionsverfahren Paragraph 403 StPO** möglich (Schadensersatz im Strafverfahren).
 - **Parallel zivilrechtliche Verletzungsverfahren** vor LG (Patentkammer, Markenkammer, Urheberkammer) und einstweilige Verfuegung Paragraph 935 ZPO.
 - **Vorsatzerfordernis**, mindestens dolus eventualis; Fahrlaessigkeit nicht strafbar.
 
@@ -63,9 +63,9 @@ Privatklage Paragraph 374 ff. StPO:
 
 ## Praktikertipps der Verteidigung
 
-- **Antragsfrist als erste Verteidigungslinie.** Sofort pruefen: Wann genau hat das Vertretungsorgan des Rechteinhabers tatsaechlich Kenntnis erlangt? Kommunikation interner Berichtsketten dokumentieren lassen; oft erfolgte Kenntnis frueher als die foermliche Strafanzeige. Bei verspaeteter Antragstellung: Antrag auf Einstellung Paragraph 170 Abs 2 StPO mangels Verfolgungsvoraussetzung.
+- **Antragsfrist als erste Verteidigungslinie.** Sofort prüfen: Wann genau hat das Vertretungsorgan des Rechteinhabers tatsaechlich Kenntnis erlangt? Kommunikation interner Berichtsketten dokumentieren lassen; oft erfolgte Kenntnis frueher als die foermliche Strafanzeige. Bei verspaeteter Antragstellung: Antrag auf Einstellung Paragraph 170 Abs 2 StPO mangels Verfolgungsvoraussetzung.
 - **Vergleichs- und Antragsruecknahmestrategie.** Bei eindeutiger Beweislage frueh Kontakt zum Rechteinhaber suchen; Lizenzgebuehrenanalogie als Schadensersatz anbieten; Antragsruecknahme Paragraph 77d StGB vereinbaren. Wirkung: Verfahrenseinstellung, kein BZRG-Eintrag, kein Vorstrafenrisiko.
-- **Verbotsirrtum Paragraph 17 StGB.** Bei rechtlich unklaren Konstellationen (Streaming aus illegaler Quelle, Reimport-Erschoepfung, Privatgebrauchsausnahme TPM) Verbotsirrtum pruefen. Bei vermeidbarem Verbotsirrtum Strafmilderung Paragraph 49 Abs 1 StGB.
+- **Verbotsirrtum Paragraph 17 StGB.** Bei rechtlich unklaren Konstellationen (Streaming aus illegaler Quelle, Reimport-Erschoepfung, Privatgebrauchsausnahme TPM) Verbotsirrtum prüfen. Bei vermeidbarem Verbotsirrtum Strafmilderung Paragraph 49 Abs 1 StGB.
 - **Vorsatz erschuettern.** Vor Abmahnung ist Vorsatz oft nicht eindeutig; nach Abmahnung regelmaessig zu bejahen. Mandant sollte nach Abmahnung sofort Vertrieb stoppen, Lager raeumen, Liefer- und Vertragskette dokumentieren.
 - **Erschoepfungseinwand.** Bei Reimport aus EWR-Staat: Beweis der EU-Erstinverkehrbringung mit Zustimmung des Rechteinhabers. Rechnungen, Lieferscheine, Zollunterlagen sammeln.
 - **Privatgebrauchsausnahme (Paragraph 108b Abs 2 UrhG, Paragraph 53 UrhG).** Bei Einzelkopien ohne Verbreitung greifen Schranken.
@@ -77,7 +77,7 @@ Privatklage Paragraph 374 ff. StPO:
 
 | Pfad A vollumfaengliches Bestreiten | Pfad B Verstaendigung Paragraph 257c StPO | Pfad C Vergleich + Antragsruecknahme | Empfehlung |
 | --- | --- | --- | --- |
-| Hohe Verteidigungskosten; Risiko Sachverstaendigengutachten; lange HV | Strafmasszusage; Gestaendnis; Strafmilderung durch Paragraph 46a StGB / Schadensausgleich; ggf. Bewaehrung | Wenn moeglich: Antragsruecknahme Paragraph 77d StGB nach Vergleich; Verfahrenseinstellung Paragraph 170 Abs 2 StPO ohne Vorstrafe | C ist immer der erste Versuch bei Antragsdelikten. B bei Offizialdelikten (gewerblich / bandenmaessig). A bei zweifelhaftem Schutz, klarer Erschoepfung oder erkennbarer Antragsfristverpassung. |
+| Hohe Verteidigungskosten; Risiko Sachverstaendigengutachten; lange HV | Strafmasszusage; Gestaendnis; Strafmilderung durch Paragraph 46a StGB / Schadensausgleich; ggf. Bewaehrung | Wenn möglich: Antragsruecknahme Paragraph 77d StGB nach Vergleich; Verfahrenseinstellung Paragraph 170 Abs 2 StPO ohne Vorstrafe | C ist immer der erste Versuch bei Antragsdelikten. B bei Offizialdelikten (gewerblich / bandenmaessig). A bei zweifelhaftem Schutz, klarer Erschoepfung oder erkennbarer Antragsfristverpassung. |
 
 Adhaesionsantrag Paragraph 403 StPO: Rechteinhaber kann Schadensersatz im Strafverfahren geltend machen; Verteidigung sollte Verweisung an Zivilgericht Paragraph 406 Abs 1 S 3 StPO beantragen, wenn Schadenshoehe komplex.
 
@@ -86,7 +86,7 @@ Verstaendigung Paragraph 257c StPO: Im IP-Strafrecht in der Praxis ueblich; Mand
 ## Konkurrenzen
 
 - IP-Straftatbestaende stehen ueberwiegend in **Tateinheit** Paragraph 52 StGB (z. B. Marken- und Urheberrechtsverletzung an gleichen Produkten; Design- und Patentverletzung am gleichen Bauteil).
-- **Paragraph 263 StGB Betrug** ist regelmaessig parallel zu pruefen, wenn Originalitaet vorgespiegelt wurde.
+- **Paragraph 263 StGB Betrug** ist regelmaessig parallel zu prüfen, wenn Originalitaet vorgespiegelt wurde.
 - **Paragraph 261 StGB Geldwaesche** bei Erloesen aus gewerblichem IP-Vertrieb.
 - **Steuerstraftaten** (Paragraphen 370 ff. AO) wegen nichtangegebener Umsaetze aus Counterfeit-Vertrieb.
 
@@ -104,11 +104,11 @@ Einziehung Paragraph 74 StGB (Tatobjekte: Counterfeit-Ware, Pressformen, Datentr
 
 ## Mustertexte
 
-**Standardisiertes Vergleichsangebot:** "Im Wege des Vergleichs erkennt mein Mandant Schadensersatz an die X AG in Hoehe von EUR Y (entspricht der angemessenen Lizenzgebuehrenanalogie) an. Die X AG verpflichtet sich, den Strafantrag gemaess Paragraph 77d StGB unverzueglich zurueckzunehmen. Beide Parteien vereinbaren wechselseitige Stillschweigeverpflichtungen. Eine etwaige zivilrechtliche Unterlassungsverpflichtung gemaess vorausgegangener Abmahnung bleibt unberuehrt; mein Mandant erkennt die strafbewehrte Unterlassungsverpflichtung im Anhang als Bestandteil dieses Vergleichs an."
+**Standardisiertes Vergleichsangebot:** "Im Wege des Vergleichs erkennt mein Mandant Schadensersatz an die X AG in Höhe von EUR Y (entspricht der angemessenen Lizenzgebuehrenanalogie) an. Die X AG verpflichtet sich, den Strafantrag gemäß Paragraph 77d StGB unverzueglich zurueckzunehmen. Beide Parteien vereinbaren wechselseitige Stillschweigeverpflichtungen. Eine etwaige zivilrechtliche Unterlassungsverpflichtung gemäß vorausgegangener Abmahnung bleibt unberuehrt; mein Mandant erkennt die strafbewehrte Unterlassungsverpflichtung im Anhang als Bestandteil dieses Vergleichs an."
 
 **Antrag auf Einstellung wegen verspaeteten Strafantrags:** "Ich beantrage, das Ermittlungsverfahren gegen meinen Mandanten nach Paragraph 170 Abs 2 StPO einzustellen. Der Strafantrag der X AG vom DD.MM.JJJJ ist verspaetet. Die X AG hat ausweislich des Schreibens vom DD.MM.JJJJ (Anlage 1, internes Memorandum X) bereits am DD.MM.JJJJ Kenntnis von Tat und Taeter erlangt. Die Frist von drei Monaten nach Paragraph 77b StGB ist am DD.MM.JJJJ abgelaufen; der Strafantrag wurde erst am DD.MM.JJJJ und damit nach Fristablauf gestellt. Die Verfolgungsvoraussetzung fehlt."
 
-**Schutzschrift mit Erschoepfungseinwand:** "Mein Mandant hat die streitgegenstaendliche Ware ueber den autorisierten Haendler X in einem EWR-Mitgliedstaat erworben (Anlage 1, Rechnung mit MWSt-Ausweis; Anlage 2, Lieferschein mit EU-Herkunftserklaerung). Es liegt Erschoepfung nach Paragraph 24 MarkenG vor; eine Markenverletzung scheidet aus. Hilfsweise wird Beweis durch Vernehmung des Zeugen X (Geschaeftsfuehrer der Haendlerfirma) angeboten."
+**Schutzschrift mit Erschoepfungseinwand:** "Mein Mandant hat die streitgegenstaendliche Ware über den autorisierten Haendler X in einem EWR-Mitgliedstaat erworben (Anlage 1, Rechnung mit MWSt-Ausweis; Anlage 2, Lieferschein mit EU-Herkunftserklaerung). Es liegt Erschoepfung nach Paragraph 24 MarkenG vor; eine Markenverletzung scheidet aus. Hilfsweise wird Beweis durch Vernehmung des Zeugen X (Geschaeftsfuehrer der Haendlerfirma) angeboten."
 
 ## Quellen Stand 06/2026
 

@@ -21,7 +21,7 @@ description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruen
 
 - Sie bereiten den Schlussvortrag vor und brauchen ein Geruest für die Strafzumessungsargumentation.
 - Sie schreiben oder reviewen einen Strafzumessungsabschnitt in einem Urteilsentwurf.
-- Sie pruefen eine Strafzumessungsruege: Welche Tatsachen sind uebersehen, welche unzulaessig gewertet?
+- Sie prüfen eine Strafzumessungsruege: Welche Tatsachen sind uebersehen, welche unzulaessig gewertet?
 
 ## Rechtliche Grundlagen
 
@@ -32,7 +32,7 @@ description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruen
 
 ## Strafzumessungs-Grundsatz
 
-Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld** oder die zu erwartenden **Wirkungen für das kuenftige Leben** beeinflusst. Reines Charakter-Urteil ueber den Taeter ohne Tatbezug ist unzulaessig.
+Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld** oder die zu erwartenden **Wirkungen für das kuenftige Leben** beeinflusst. Reines Charakter-Urteil über den Taeter ohne Tatbezug ist unzulaessig.
 
 ## Katalog-Aufschluesselung
 
@@ -44,7 +44,7 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 
 ### 2. Gesinnung und Tatwille
 
-- Was sagt die Tat ueber die innere Haltung? Hoehe der kriminellen Energie?
+- Was sagt die Tat über die innere Haltung? Höhe der kriminellen Energie?
 - Plan oder Spontantat? Lange Tatvorbereitung deutet auf hoehere Energie hin.
 
 ### 3. Mass der Pflichtwidrigkeit
@@ -57,18 +57,18 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 
 - Brutalitaet, Dauer, Demuetigung, Mitwirkung mehrerer.
 - Tatfolgen: Schadenshoehe, Dauerschaeden, Verletzungstiefe, psychische Folgen beim Opfer.
-- Aber: **Doppelverwertungsverbot** beachten — Folgen, die schon Tatbestandsmerkmal sind, duerfen nicht erneut schaerfend wirken.
+- Aber: **Doppelverwertungsverbot** beachten — Folgen, die schon Tatbestandsmerkmal sind, dürfen nicht erneut schaerfend wirken.
 
 ### 5. Vorleben
 
 - Vorstrafen (BZRG-Auszug, beachten Tilgung §§ 46 ff. BZRG); je einschlaegiger und juenger, desto gewichtiger.
-- **Schweigen ueber das Vorleben** darf nicht schaerfend gewertet werden.
+- **Schweigen über das Vorleben** darf nicht schaerfend gewertet werden.
 - Erziehung, soziale Sozialisation, Lebensbruch (Drogen, Krankheit).
 
 ### 6. Persoenliche und wirtschaftliche Verhaeltnisse
 
 - Familie, Beruf, Verschuldung, Suchtkrankheit, psychische Erkrankung.
-- Auslaenderrechtliche Folgen (Ausweisung, § 53 ff. AufenthG): von der st. Rspr. nur insoweit beachtlich, als sie ueber das gesetzlich Vorgesehene hinausgehen.
+- Auslaenderrechtliche Folgen (Ausweisung, § 53 ff. AufenthG): von der st. Rspr. nur insoweit beachtlich, als sie über das gesetzlich Vorgesehene hinausgehen.
 - Berufsverbot, Approbationsentzug, beamtenrechtliche Disziplinarfolgen.
 
 ### 7. Nachtatverhalten
@@ -82,10 +82,10 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 ## Schritt-für-Schritt-Anleitung
 
 1. **Tatsachenmaterial sammeln**: Akte, Anhörung, Sozialbericht, BZRG-Auszug, Einkommensdaten.
-2. **Katalog durchgehen**: Jede der sieben Gruppen pruefen; nur substantiierte Tatsachen.
+2. **Katalog durchgehen**: Jede der sieben Gruppen prüfen; nur substantiierte Tatsachen.
 3. **Gewichtung**: Pro Gruppe Pluspunkte (zugunsten) und Minuspunkte (zulasten) explizit machen.
 4. **Sondernormen**: § 46a StGB (TOA), § 46b StGB (Aufklaerungshilfe), § 17 StGB (Verbotsirrtum), §§ 20, 21 StGB (Schuldminderung).
-5. **Doppelverwertungs-Pruefung**: Welche Tatsache ist schon Tatbestandsmerkmal?
+5. **Doppelverwertungs-Prüfung**: Welche Tatsache ist schon Tatbestandsmerkmal?
 6. **Zusammenfuegen**: Gesamtbild aus Schuld + Praevention im Schuldrahmen.
 
 ## Beispielformulierungen für Verteidigung
@@ -97,15 +97,15 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 
 ## Beispielformulierungen für Anklage
 
-- "Die Tat zeichnet sich durch ein hohes Mass an krimineller Energie aus; der Angeklagte hat ueber Monate hinweg geplant."
-- "Die Geschaedigte leidet unter posttraumatischer Belastungsstoerung; die Tatfolgen sind ueber das Tatbestandsmerkmal der Koerperverletzung hinaus erheblich."
+- "Die Tat zeichnet sich durch ein hohes Mass an krimineller Energie aus; der Angeklagte hat über Monate hinweg geplant."
+- "Die Geschaedigte leidet unter posttraumatischer Belastungsstoerung; die Tatfolgen sind über das Tatbestandsmerkmal der Koerperverletzung hinaus erheblich."
 - "Die Tat ist von menschenverachtenden Beweggruenden iSv § 46 Abs. 2 Satz 2 StGB getragen."
 - "Der Angeklagte hat in der Hauptverhandlung die Geschaedigte als unglaubwuerdig bezeichnet und damit die psychischen Tatfolgen vertieft."
 
 ## Typische Fehler
 
 - Schweigen schaerfend gewertet. Verstoss gegen § 261 StPO i.V.m. Selbstbelastungsfreiheit.
-- Vorstrafen ohne Pruefung der **Tilgungsreife** verwertet. Verstoss gegen § 51 BZRG.
+- Vorstrafen ohne Prüfung der **Tilgungsreife** verwertet. Verstoss gegen § 51 BZRG.
 - Lange Verfahrensdauer nicht kompensiert. Verstoss gegen Art. 6 EMRK.
 - Auslaenderrechtliche Standard-Folgen schaerfend bei Auslaender verwertet (faktischer Sondervorwurf). Verstoss gegen Gleichheitsgrundsatz.
 - Verschulden des Verteidigers / Anwalts dem Mandanten zugerechnet.

@@ -46,14 +46,14 @@ Bei Datenuebermittlung in Drittlaender:
 **A. Auftragsverarbeitung-Klausel:**
 > "$ 18 Datenschutz.
 > (1) Soweit der Lizenzgeber im Rahmen dieses Vertrages personenbezogene Daten des Lizenznehmers im Auftrag verarbeitet, schliessen die Parteien einen Auftragsverarbeitungsvertrag (AVV) gem. Art. 28 DSGVO ab (**Anlage D**).
-> (2) Der Lizenzgeber verpflichtet sich, technische und organisatorische Massnahmen nach Art. 32 DSGVO einzuhalten.
+> (2) Der Lizenzgeber verpflichtet sich, technische und organisatorische Maßnahmen nach Art. 32 DSGVO einzuhalten.
 > (3) Der Lizenzgeber wird bei Anfragen von Aufsichtsbehoerden oder bei Datenpannen den Lizenznehmer unverzueglich informieren."
 
 **B. Drittlandstransfer:**
 > "(4) Eine Uebermittlung personenbezogener Daten in Drittlaender erfolgt nur auf der Grundlage eines Angemessenheitsbeschlusses, der Standard-Vertragsklauseln (SCC 2021/914) oder anderer geeigneter Garantien nach Art. 46 DSGVO."
 
 **C. Joint Controllership:**
-> "Sofern die Parteien gemeinsam ueber Zwecke und Mittel der Verarbeitung entscheiden, gilt zwischen ihnen die in **Anlage E** beigefuegte Joint-Controllership-Vereinbarung gem. Art. 26 DSGVO."
+> "Sofern die Parteien gemeinsam über Zwecke und Mittel der Verarbeitung entscheiden, gilt zwischen ihnen die in **Anlage E** beigefuegte Joint-Controllership-Vereinbarung gem. Art. 26 DSGVO."
 
 **D. Bei Kunden-Daten-Lizenz (z. B. CRM-Daten als Asset):**
 > "Die Uebermittlung personenbezogener Daten von Endkunden des Lizenzgebers an den Lizenznehmer erfolgt auf Grundlage des berechtigten Interesses (Art. 6 I lit. f DSGVO). Die Endkunden werden gem. Art. 14 DSGVO informiert; ihnen wird eine 30-Tage-Widerspruchsfrist eingeraeumt. Bei Widerspruch werden die jeweiligen Datensaetze binnen 7 Werktagen vom Lizenznehmer geloescht."

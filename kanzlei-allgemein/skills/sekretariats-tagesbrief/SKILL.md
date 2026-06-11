@@ -14,7 +14,7 @@ description: "Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Fuer welchen Tag und welche Kanzlei wird der Tagesbrief erstellt?
+1. Für welchen Tag und welche Kanzlei wird der Tagesbrief erstellt?
 2. Welche Fristen (heute, morgen, diese Woche) sind aus dem Fristenbuch zu uebernaehmen?
 3. Gibt es besondere Eingaenge vom Vortag (Klageschriften, Urteile, Bescheide), die besondere Aufmerksamkeit erfordern?
 4. Sind Geburtstage, Feiertage oder Abwesenheiten zu beachten, die die Tagesplanung beeinflussen?

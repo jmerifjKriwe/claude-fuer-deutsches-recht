@@ -16,14 +16,14 @@ description: "Abgrenzung der Rollen Exporteur, Ausfuehrer und Zollanmelder nach 
 ## Mandantenfall
 
 - Spediteur stellt Ausfuhranmeldung in eigenem Namen; Exporteur-Haftung unklar.
-- Konzerntochter unterschreibt Genehmigung, Lieferung laeuft ueber Mutter; Zurechnung problematisch.
+- Konzerntochter unterschreibt Genehmigung, Lieferung laeuft über Mutter; Zurechnung problematisch.
 - Zollagent hat Vollmacht, macht aber Fehler in Anmeldung; wer haftet?
 
 ## Erste Schritte
 
-1. Vertragsstruktur analysieren: Wer ist Eigentuemer der Ware beim Ausfuhrmoment?
+1. Vertragsstruktur analysieren: Wer ist Eigentümer der Ware beim Ausfuhrmoment?
 2. UZK-Definitionen anwenden: Exporteur nach UZK-DA, Ausfuehrer, Zollanmelder trennen.
-3. Vollmachtsdokument pruefen: direkte oder indirekte Vertretung; Haftungsfolgen beachten.
+3. Vollmachtsdokument prüfen: direkte oder indirekte Vertretung; Haftungsfolgen beachten.
 4. Genehmigungspflicht dem richtigen Rechtssubjekt zuordnen (Inhaber der Exportgenehmigung).
 5. Haftungsverteilung vertraglich regeln (Spediteurvertrag, ICP-Vertrag mit Zollagenten).
 6. Rollenmatrix dokumentieren und im ICP hinterlegen.
@@ -48,9 +48,9 @@ description: "Abgrenzung der Rollen Exporteur, Ausfuehrer und Zollanmelder nach 
 ## Typische Fallstricke
 
 - Indirekte Vertretung stellt Zollagenten als Ausfuehrer in die Haftung, wird aber oft nicht erkannt.
-- Genehmigung auf falschen Rechtstraeger ausgestellt, Lieferung laeuft ueber anderen.
+- Genehmigung auf falschen Rechtstraeger ausgestellt, Lieferung laeuft über anderen.
 - Sammelausfuhren erfordern klare Zuordnung jeder Position zu einem Ausfuehrer.
-- BAFA-Pruefung fragt nach tatsaechlichem Ausfuehrer, nicht nach Anmelder.
+- BAFA-Prüfung fragt nach tatsaechlichem Ausfuehrer, nicht nach Anmelder.
 
 ## Schnittstellen zu anderen Skills
 

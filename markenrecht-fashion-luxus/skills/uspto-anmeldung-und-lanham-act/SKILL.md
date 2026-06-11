@@ -166,6 +166,6 @@ Bevor die TEAS-Anmeldung eingereicht wird, klaere:
 
 > **KP Permanent Make-Up, Inc. v. Lasting Impression I, Inc., 543 U.S. 111 (2004):** Eine Fair-Use-Einrede unter § 33(b)(4) Lanham Act steht dem Beklagten zur Verfuegung, auch wenn eine gewisse Likelihood of Confusion besteht; für das Anmeldungsverfahren bedeutet dies, dass deskriptive Terme trotz Registrierung durch Dritte fair benutzbar bleiben.
 
-> **Qualitex Co. v. Jacobson Products Co., 514 U.S. 159 (1995):** Farben koennen als Marken eingetragen werden, wenn sie durch Benutzung Secondary Meaning erworben haben; der Supreme Court bestatigte, dass Lanham Act keine kategorischen Ausschluesse für nicht-traditionelle Markenarten kennt.
+> **Qualitex Co. v. Jacobson Products Co., 514 U.S. 159 (1995):** Farben können als Marken eingetragen werden, wenn sie durch Benutzung Secondary Meaning erworben haben; der Supreme Court bestatigte, dass Lanham Act keine kategorischen Ausschluesse für nicht-traditionelle Markenarten kennt.
 
 > **In re Nett Designs Inc., 236 F.3d 1339 (Fed. Cir. 2001):** Ein Zeichen ist "merely descriptive" nach § 2(e)(1) Lanham Act, wenn es eine Eigenschaft oder Qualitaet der Waren unmittelbar beschreibt; bei Phantasiewoertern im Luxusbereich ist die Beschreibungsschranke in der Regel kein Hindernis, solange keine offensichtliche laudatory Bedeutung vorliegt.

@@ -3,7 +3,7 @@ name: aussenwirtschaft-catch-all-pruefung
 description: "Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht für nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meld..."
 ---
 
-# Catch-All-Pruefung: Genehmigungspflicht für nicht-gelistete Gueter
+# Catch-All-Prüfung: Genehmigungspflicht für nicht-gelistete Gueter
 
 ## Arbeitsweg
 
@@ -22,10 +22,10 @@ description: "Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflic
 ## Erste Schritte
 
 1. Catch-All-Ausloeser bestimmen: positive Kenntnis (Art. 4 Abs. 1 VO 2021/821) oder Information durch BAFA (Art. 4 Abs. 2).
-2. Gueter und Technologie beschreiben; auch nicht-gelistete Gueter koennen betroffen sein.
+2. Gueter und Technologie beschreiben; auch nicht-gelistete Gueter können betroffen sein.
 3. Endverwendungszweck und Endverwender ermitteln: militaer, WMD, Raketenprogramm, Embargoland?
 4. BAFA unverzueglich informieren falls Anhaltspunkte für kontrollpflichtige Endverwendung vorliegen.
-5. Lieferstopp (Stop-Ship) anordnen bis BAFA-Klaerung.
+5. Lieferstopp (Stop-Ship) anordnen bis BAFA-Klärung.
 6. Interne Dokumentation und Legal Hold für alle relevanten Unterlagen.
 
 ## Rechtsrahmen
@@ -42,7 +42,7 @@ description: "Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflic
 - [ ] Endverwender und Endverwendung vollstaendig ermittelt?
 - [ ] WMD-/Militaer-/Embargoland-Nexus ausgeschlossen oder dokumentiert?
 - [ ] BAFA informiert falls Catch-All-Anhaltspunkte bestehen?
-- [ ] Stop-Ship-Massnahme bei Catch-All-Risiko ausgeloest?
+- [ ] Stop-Ship-Maßnahme bei Catch-All-Risiko ausgeloest?
 - [ ] Dokumentation und Legal Hold eingerichtet?
 
 ## Typische Fallstricke

@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Aspha
 ## Spezialwissen
 
 Strassenbauarbeiten erfordern eine kontinuierliche Bauueberwachung des Asphaltmischguts, der Verdichtung und der Ebenheit.
-Die Bauueberwachung nach HOAI LPH 8 prueft Mischgutproben, Kernbohrungen und Ebenheitsmessung nach ZTV Asphalt-StB.
+Die Bauueberwachung nach HOAI LPH 8 prüft Mischgutproben, Kernbohrungen und Ebenheitsmessung nach ZTV Asphalt-StB.
 Eigenverantwortliche Ueberpruefung (EUe) durch Bauueberwacher erganzt Eignungspruefung und Kontrollpruefung des Auftragnehmers.
 
 ## Bauwerk und Auftrag

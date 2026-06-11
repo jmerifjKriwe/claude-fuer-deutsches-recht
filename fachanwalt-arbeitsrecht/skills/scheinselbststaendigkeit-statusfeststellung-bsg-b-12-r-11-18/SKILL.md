@@ -7,7 +7,7 @@ description: "Scheinselbststaendigkeit Statusfeststellung nach Paragraf 7a SGB I
 
 ## Einsatzlage
 
-IT-Freelancer arbeitet 18 Monate fuer einen Auftraggeber; DRV stellt Scheinselbststaendigkeit fest.
+IT-Freelancer arbeitet 18 Monate für einen Auftraggeber; DRV stellt Scheinselbststaendigkeit fest.
 
 ## Normenanker
 

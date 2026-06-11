@@ -30,7 +30,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 Buchstaben für fuenf Phasen:
 - Planning and Preparation: Aktenstudium, Lernziele, Vernehmungsplan.
 - Engage and Explain: Kontaktaufbau, Verfahrensaufklaerung, Belehrungen.
-- Account, Clarification, Challenge: freie Erzaehlung, gezielte Klaerung, Konfrontation mit Widerspruechen.
+- Account, Clarification, Challenge: freie Erzaehlung, gezielte Klärung, Konfrontation mit Widerspruechen.
 - Closure: Abschluss, Zusammenfassung, Anhörung.
 - Evaluate: Auswertung, Konsequenzen.
 
@@ -49,21 +49,21 @@ Empirisch belegter Mehrertrag an Information ohne erhoehte Falschangaben.
 **Methodische Risiken in der polizeilichen Vernehmungspraxis.**
 - Suggestive Fragestellung (Leitfrage, geschlossene Frage, Bewertung in der Frage).
 - Mehrfachfrage (mehrere Fragen in einer).
-- Wiederholungsfragen (Signal an Aussagende, ihre Antwort zu aendern).
+- Wiederholungsfragen (Signal an Aussagende, ihre Antwort zu ändern).
 - Druck und Drohung (Verfahrensrechtlich problematisch nach § 136a StPO).
 - Versprechungen (rechtlich verboten nach § 136a StPO).
 - Hinweise auf angebliche Beweise (auch wenn nicht vorhanden).
 - Lange Vernehmungsdauer ohne Pausen.
 - Vernehmung in der Nacht oder im Zustand der Erschoepfung.
 
-**§ 136a StPO.** Verbotene Vernehmungsmethoden: Misshandlung, Ermuedung, koerperlicher Eingriff, Verabreichung von Mitteln, Qualereien, Taeuschung, Hypnose, Drohung mit unzulaessigen Massnahmen, Versprechen unzulaessiger Vorteile. Aussagen unter Verletzung sind unverwertbar (Beweisverwertungsverbot, § 136a Abs. 3 StPO).
+**§ 136a StPO.** Verbotene Vernehmungsmethoden: Misshandlung, Ermuedung, koerperlicher Eingriff, Verabreichung von Mitteln, Qualereien, Taeuschung, Hypnose, Drohung mit unzulaessigen Maßnahmen, Versprechen unzulaessiger Vorteile. Aussagen unter Verletzung sind unverwertbar (Beweisverwertungsverbot, § 136a Abs. 3 StPO).
 
 ## Praktikertipps Verteidigung
 
 - **Vernehmungsprotokoll methodisch lesen.** Welcher Vernehmer? Welche Vorbereitung? Welche Belehrungen? Welche Fragetypen? Welche Dauer? Welche Pausen?
 - **Suggestive Elemente markieren.** Jede geschlossene Frage, jede Wiederholung, jeden Vorhalt von Beweismitteln dokumentieren.
-- **§ 136a-StPO-Verstoesse pruefen.** Drohung, Versprechung, Taeuschung, Ermuedung — bei substanziellem Anhaltspunkt sofort Beweisverwertungsverbot ruegen.
-- **Belehrung nach § 136 StPO pruefen.** Korrekte Belehrung (Schweigerecht, Verteidigerwahl) ist Voraussetzung der Verwertbarkeit. Mangelhafte Belehrung kann zum Beweisverwertungsverbot fuehren (BGH-Linie verifizieren).
+- **§ 136a-StPO-Verstoesse prüfen.** Drohung, Versprechung, Taeuschung, Ermuedung — bei substanziellem Anhaltspunkt sofort Beweisverwertungsverbot ruegen.
+- **Belehrung nach § 136 StPO prüfen.** Korrekte Belehrung (Schweigerecht, Verteidigerwahl) ist Voraussetzung der Verwertbarkeit. Mangelhafte Belehrung kann zum Beweisverwertungsverbot fuehren (BGH-Linie verifizieren).
 - **Aufzeichnungen anfordern.** Falls Bild- oder Tonaufzeichnung existiert, vollstaendig anfordern. Polizeiliche Vernehmungen werden zunehmend aufgezeichnet (siehe § 136 Abs. 4 StPO bei Tatvorwurf einer vorsaetzlichen Toetung).
 - **Vernehmungspsychologie als SV-Thema.** Bei kritischen Vernehmungen aussagepsychologisches Gutachten zur Aussagegenese beantragen.
 - **Eigene Mandantenvernehmung vorbereiten.** Mandanten gegen suggestive Vernehmung wappnen: bei Druck und Wiederholungsfragen Schweigerecht in Anspruch nehmen, Verteidigerhinzuziehung.

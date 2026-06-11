@@ -13,7 +13,7 @@ description: "Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wan
 
 ## Worum geht es?
 
-PKH bekommt nicht jeder. Sie muessen "hinreichende Erfolgsaussicht" haben. Diese Skill zeigt, was das bedeutet und wie Sie Ihre Chancen verbessern.
+PKH bekommt nicht jeder. Sie müssen "hinreichende Erfolgsaussicht" haben. Diese Skill zeigt, was das bedeutet und wie Sie Ihre Chancen verbessern.
 
 ## In einfacher Sprache
 
@@ -29,7 +29,7 @@ Damit Sie Prozesskostenhilfe bekommen, muss Ihre Klage Aussicht haben. Wenn das 
 
 - **Hinreichende Erfolgsaussicht**: Nicht-aussichtslose Klage. Erfolg wahrscheinlich oder zumindest plausibel.
 - **Mutwilligkeit**: Vernuenftiger Mensch wuerde nicht klagen.
-- **Summarische Pruefung**: Schnelle Pruefung der Aussicht (nicht volle Beweisaufnahme).
+- **Summarische Prüfung**: Schnelle Prüfung der Aussicht (nicht volle Beweisaufnahme).
 
 ## Rechtsgrundlagen
 
@@ -45,7 +45,7 @@ Damit Sie Prozesskostenhilfe bekommen, muss Ihre Klage Aussicht haben. Wenn das 
 - **Nicht klar aussichtslos**: Bei rechtlich oder tatsaechlich unklarer Lage reicht das schon.
 - **Beweisfragen**: Wenn ein Sachverstaendigen-Gutachten zwischen Erfolg und Misserfolg entscheidet, ist PKH oft bewilligt.
 
-### Schritt 2 — Klagebegruendung als Schluessel
+### Schritt 2 — Klagebegruendung als Schlüssel
 
 Eine gute Klagebegruendung ueberzeugt das Gericht von der Erfolgsaussicht. Achten Sie auf:
 
@@ -88,18 +88,18 @@ Niemals offen aggressiv schreiben — sachlich bleiben.
 - Aerztliche Atteste im Vorfeld einholen
 - Pflegeprotokolle fuehren
 - Klagebegruendung praezise machen
-- Argumente nach BSG-Linie pruefen
+- Argumente nach BSG-Linie prüfen
 
 ### Schritt 6 — Bei Ablehnung PKH
 
-- Beschwerde gegen PKH-Ablehnung moeglich.
+- Beschwerde gegen PKH-Ablehnung möglich.
 - Oder bessere Klagebegruendung nachschieben.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Klagebegruendung und PKH-Antrag zusammen einreichen**: Das Gericht muss beides pruefen.
+- **Klagebegruendung und PKH-Antrag zusammen einreichen**: Das Gericht muss beides prüfen.
 - **Beleg-Politik**: Jede Behauptung mit Beleg.
-- **BVerfG-Linie**: PKH-Anforderungen duerfen nicht zu hoch sein.
+- **BVerfG-Linie**: PKH-Anforderungen dürfen nicht zu hoch sein.
 
 ## Typische Fehler
 

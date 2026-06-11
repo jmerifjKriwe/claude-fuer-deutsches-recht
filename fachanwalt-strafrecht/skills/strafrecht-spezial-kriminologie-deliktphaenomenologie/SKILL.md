@@ -22,7 +22,7 @@ description: "Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebsta
 
 Die Erscheinungsformen von Kriminalitaet variieren stark zwischen Deliktstypen. Vermoegensdelikte folgen anderen Mustern als Gewaltdelikte, und beides ist erneut anders als Sexualdelikte. Diese phaenomenologischen Unterschiede haben Konsequenzen für die Beweisanforderungen, die Strafzumessungserwartung, die Rueckfallraten und die Verteidigungsstrategie. Eine pauschale "Strafverteidigung" gibt es nicht — Spezialisierung lohnt sich.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert eine kompakte Uebersicht der wichtigsten Deliktsgruppen mit ihren kriminologischen Eigenarten und den taktischen Konsequenzen.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert eine kompakte Übersicht der wichtigsten Deliktsgruppen mit ihren kriminologischen Eigenarten und den taktischen Konsequenzen.
 
 ## Methodische Grundlagen
 
@@ -43,7 +43,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 **Gewaltdelikte (Koerperverletzung, Raub, Toetung).**
 - Im Hellfeld haeufig, Aufklaerungsrate bei Toetungsdelikten hoch.
-- Taeterprofil: in der Mehrheit maennlich, jung, Tatort haeufig oeffentlich oder im Naehbereich.
+- Taeterprofil: in der Mehrheit maennlich, jung, Tatort haeufig öffentlich oder im Naehbereich.
 - Beweiskonstellation: oft Aussage-gegen-Aussage oder Tatortspuren.
 - Bei Toetungsdelikten Mordmerkmale (§ 211 StGB) zentraler Pruefpunkt.
 - Strafrahmen schwer: ab 5 Jahre bei Raub mit Waffen, lebenslang bei Mord.

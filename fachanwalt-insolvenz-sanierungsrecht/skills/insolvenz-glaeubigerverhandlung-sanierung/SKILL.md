@@ -154,11 +154,11 @@ Bevor losgelegt wird, klaere:
 
 1. **Lageanalyse:** Liquiditaetsstatus 3-Wochen und 13-Wochen-Forecast; Fortbestehensprognose § 19 Abs. 2 InsO; Sanierungskonzept auf IDW-S-6-Niveau vorbereiten, wenn Banken, Warenkreditversicherer oder Schluesselglaeubiger mittragen sollen.
 2. **Glaeubigerstruktur:** Rangtabelle erstellen: gesichert (§§ 49-51 InsO) → Masseforderungen → unsecured → Nachrang § 39 InsO; BATNA je Glaeubiger errechnen.
-3. **Vorverhandlung Schluessel-Glaeubiger:** Bank zuerst (groesstes Sicherheitenvolumen); Stillhalte-Vereinbarung 90 Tage; Term Sheet Vergleichsquoten.
+3. **Vorverhandlung Schlüssel-Glaeubiger:** Bank zuerst (groesstes Sicherheitenvolumen); Stillhalte-Vereinbarung 90 Tage; Term Sheet Vergleichsquoten.
 4. **Plan-Aufstellung:** StaRUG-Plan oder InsO-Plan; Klassenbildung; Vergleichsrechnung; Mehrheiten-Simulation.
 5. **Abstimmung und Bestaetigung:** Eroerungs- und Abstimmungstermin; § 25 StaRUG (75%) oder § 244 InsO (50% Kopf + Summe); Cramdown § 26 StaRUG / § 245 InsO.
 
-## Output-Template Verhandlungsnotiz Schluessel-Glaeubiger
+## Output-Template Verhandlungsnotiz Schlüssel-Glaeubiger
 
 **Adressat:** Intern (Handakte) — Tonfall: strukturiert-sachlich
 

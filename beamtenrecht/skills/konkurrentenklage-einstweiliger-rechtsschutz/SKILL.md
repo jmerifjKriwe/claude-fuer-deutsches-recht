@@ -15,12 +15,12 @@ description: "Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrente
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Bewerber im öffentlichen Dienst, die nach Mitteilung einer Auswahlentscheidung verhindern muessen, dass der Konkurrent ernannt wird. Sobald die Ernennung erfolgt ist, ist sie nach dem Grundsatz der Aemterstabilitaet in der Regel unangreifbar; daraus folgt die zentrale Bedeutung des einstweiligen Rechtsschutzes.
+Skill für Bewerber im öffentlichen Dienst, die nach Mitteilung einer Auswahlentscheidung verhindern müssen, dass der Konkurrent ernannt wird. Sobald die Ernennung erfolgt ist, ist sie nach dem Grundsatz der Aemterstabilitaet in der Regel unangreifbar; daraus folgt die zentrale Bedeutung des einstweiligen Rechtsschutzes.
 
 ## 2. Eingaben
 
-- Mitteilung des Dienstherrn ueber die Auswahlentscheidung samt Datum
-- Frist, bis zu der nach Mitteilung die Ernennung erfolgen kann (vorlaufzeit, in der Regel zwei Wochen — laenderspezifisch pruefen)
+- Mitteilung des Dienstherrn über die Auswahlentscheidung samt Datum
+- Frist, bis zu der nach Mitteilung die Ernennung erfolgen kann (vorlaufzeit, in der Regel zwei Wochen — laenderspezifisch prüfen)
 - Auswahlvermerk, dienstliche Beurteilung, Anforderungsprofil
 - Beurteilung der ausgewaehlten Konkurrentin oder des Konkurrenten (Akteneinsicht oder Auskunftsanspruch)
 - Statusamt und Besoldungsgruppe des Mandanten
@@ -32,7 +32,7 @@ Skill für Bewerber im öffentlichen Dienst, die nach Mitteilung einer Auswahlen
 - Antragsfrist: Eingang vor Ablauf der Mitteilungsfrist; in der Praxis sofort nach Erhalt der Konkurrentenmitteilung.
 
 ### b) Antrag
-- "Dem Antragsgegner wird im Wege der einstweiligen Anordnung untersagt, den ausgewaehlten Bewerber zu ernennen, bevor ueber die Bewerbung der Antragstellerin / des Antragstellers rechtsfehlerfrei und unter Beachtung der Rechtsauffassung des Gerichts erneut entschieden ist."
+- "Dem Antragsgegner wird im Wege der einstweiligen Anordnung untersagt, den ausgewaehlten Bewerber zu ernennen, bevor über die Bewerbung der Antragstellerin / des Antragstellers rechtsfehlerfrei und unter Beachtung der Rechtsauffassung des Gerichts erneut entschieden ist."
 - Hilfsweise: Sicherung des Bewerbungsverfahrensanspruchs durch Untersagung der Aushaendigung der Ernennungsurkunde.
 
 ### c) Anordnungsanspruch
@@ -46,7 +46,7 @@ Skill für Bewerber im öffentlichen Dienst, die nach Mitteilung einer Auswahlen
 - Akteneinsicht in eigene Personalakte (§ 110 BBG / § 50 BeamtStG i.V.m. LBG); Konkurrentenakte regelmaessig nur via Gericht.
 
 ### f) Beendigung des Eilverfahrens
-- Wird der Konkurrent gleichwohl ernannt, ist im Hauptsacheverfahren Klage auf Aufhebung / Schadensersatz / Bewerbungsverfahrensgarantie zu pruefen — Skill `schadensersatz-nichtbefoerderung`.
+- Wird der Konkurrent gleichwohl ernannt, ist im Hauptsacheverfahren Klage auf Aufhebung / Schadensersatz / Bewerbungsverfahrensgarantie zu prüfen — Skill `schadensersatz-nichtbefoerderung`.
 
 ## 4. Quellenpflicht
 

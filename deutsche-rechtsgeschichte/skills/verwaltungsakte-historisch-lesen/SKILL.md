@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Form
 
 ## Worum es geht
 
-Historische Verwaltungsakte (Konzessionen, Bescheide, Genehmigungen, Erlasse) sind wichtige Rechtsquellen. Sie unterscheiden sich von modernen Verwaltungsakten (VwVfG § 35) in Form, Sprache und Verbindlichkeit. Kanzleideutsch des 18./19. Jh. nutzt Formeln wie Inhaber dieses... oder Mit allerhoechster Genehmigung..., die keine modernen Entsprechungen haben. Historische Verwaltungsakte muessen quellenkritisch gelesen werden: (1) Ausstellungsbehoerde, (2) Empfaenger, (3) Rechtsgrundlage, (4) Tenor, (5) Bedingungen/Auflagen. Die heutige VwVfG-Systematik darf nicht unreflektiert auf historische Akte angewendet werden.
+Historische Verwaltungsakte (Konzessionen, Bescheide, Genehmigungen, Erlasse) sind wichtige Rechtsquellen. Sie unterscheiden sich von modernen Verwaltungsakten (VwVfG § 35) in Form, Sprache und Verbindlichkeit. Kanzleideutsch des 18./19. Jh. nutzt Formeln wie Inhaber dieses... oder Mit allerhoechster Genehmigung..., die keine modernen Entsprechungen haben. Historische Verwaltungsakte müssen quellenkritisch gelesen werden: (1) Ausstellungsbehoerde, (2) Empfaenger, (3) Rechtsgrundlage, (4) Tenor, (5) Bedingungen/Auflagen. Die heutige VwVfG-Systematik darf nicht unreflektiert auf historische Akte angewendet werden.
 
 ## Kernnormen / Kernquellen
 
@@ -34,7 +34,7 @@ Historische Verwaltungsakte (Konzessionen, Bescheide, Genehmigungen, Erlasse) si
 ## Typische Streitfragen / Forschungsfragen
 
 1. Ist ein historischer Verwaltungsakt nach VwVfG § 35 ein Verwaltungsakt?
-2. Historische Konzession: Begründet sie Rechte, die heute noch geltend gemacht werden koennen?
+2. Historische Konzession: Begründet sie Rechte, die heute noch geltend gemacht werden können?
 3. NS-Verwaltungsakte: Sind sie nach dem Kontrollratsrecht nichtig oder nur anfechtbar?
 4. Bestaendigkeit historischer Verwaltungsakte: Welche Verjaeahrungsfragen entstehen?
 5. Ausweisung historischer Gaststättenkonzessionen: Erblichkeit der Konzession?

@@ -3,7 +3,7 @@ name: klausur-pruefungsschema-kompakt
 description: "Kompaktes Klausur-Pruefungsschema fuer Verhaeltnismaessigkeit. Reihenfolge der Pruefung, typische Aufbauten in Klausur und Hausarbeit, Standardformulierungen, Tipps fuer Examen und Referendariat, Anti-Patterns die Punkte kosten."
 ---
 
-# Klausurschema Verhaeltnismaessigkeit — kompakt
+# Klausurschema Verhältnismäßigkeit — kompakt
 
 ## Zweck dieses Skills
 
@@ -59,25 +59,25 @@ E. Ergebnis
 
 ### Legitimer Zweck
 
-> "Mit der Massnahme verfolgt der Gesetzgeber den Zweck, [Zweck]. Dieser Zweck ist verfassungsrechtlich nicht ausgeschlossen und damit legitim."
+> "Mit der Maßnahme verfolgt der Gesetzgeber den Zweck, [Zweck]. Dieser Zweck ist verfassungsrechtlich nicht ausgeschlossen und damit legitim."
 
-Bei qualifiziertem Gesetzesvorbehalt: pruefen, ob der Zweck in der Schrankenklausel genannt ist (z. B. Art 11 II GG zaehlt genau auf).
+Bei qualifiziertem Gesetzesvorbehalt: prüfen, ob der Zweck in der Schrankenklausel genannt ist (z. B. Art 11 II GG zaehlt genau auf).
 
 ### Geeignetheit
 
-> "Die Massnahme ist geeignet, wenn sie den verfolgten Zweck zu foerdern vermag. Erforderlich ist nicht volle Zweckerreichung; ausreichend ist Foerderung."
+> "Die Maßnahme ist geeignet, wenn sie den verfolgten Zweck zu foerdern vermag. Erforderlich ist nicht volle Zweckerreichung; ausreichend ist Foerderung."
 
 Pruefraster: **Tatsachenebene** (foerdert empirisch?) — **Prognosenebene** (Einschaetzungsspielraum bei Unsicherheit).
 
 ### Erforderlichkeit
 
-> "Die Massnahme ist erforderlich, wenn kein milderes gleich effektives Mittel zur Verfuegung steht. Milder ist das Mittel, das die Grundrechte des Betroffenen weniger beeintraechtigt; gleich effektiv ist das Mittel, das den Zweck ebenso sicher erreicht."
+> "Die Maßnahme ist erforderlich, wenn kein milderes gleich effektives Mittel zur Verfuegung steht. Milder ist das Mittel, das die Grundrechte des Betroffenen weniger beeintraechtigt; gleich effektiv ist das Mittel, das den Zweck ebenso sicher erreicht."
 
 Pruefraster: **(1) Mildere Alternative benennen** — **(2) Effektivitaetsgleichwertigkeit zeigen** — **(3) Mehrkostenproblem** (wenn Alternativ-Mittel teurer, ist Erforderlichkeit nicht automatisch verletzt; aber wirtschaftliche Belange treten zurueck vor Grundrechten).
 
 ### Angemessenheit
 
-> "Die Massnahme ist angemessen, wenn die Schwere des Eingriffs nicht ausser Verhaeltnis zum Gewicht des Zwecks steht. Hier ist eine Abwaegung vorzunehmen."
+> "Die Maßnahme ist angemessen, wenn die Schwere des Eingriffs nicht ausser Verhaeltnis zum Gewicht des Zwecks steht. Hier ist eine Abwaegung vorzunehmen."
 
 Pruefraster nach Alexy (siehe `abwaegungsgesetz-und-gewichtsformel-alexy`):
 
@@ -90,11 +90,11 @@ Pruefraster nach Alexy (siehe `abwaegungsgesetz-und-gewichtsformel-alexy`):
 
 1. **Schranke vergessen.** Vor Stufe 1 muss immer die Schranke benannt sein. Bei vorbehaltlosen Grundrechten ist die Suche nach der verfassungsimmanenten Schranke selbst Punkte wert.
 2. **Zitiergebot uebersehen.** Art 19 I 2 GG ist eine eigenstaendige Pruefstufe — meist im Rahmen der Verfassungsmaessigkeit des Gesetzes. Wer es ueberspringt, verliert Punkte.
-3. **Wesensgehalt im Angemessenheits-Teil.** Falsch. Wesensgehalt ist absolute Grenze und gehoert vor die Vier-Stufen-Pruefung (oder als eigener Pruefpunkt).
-4. **Geeignetheit zu schnell verworfen.** Die Eingangshuerde ist niedrig. Wer eine Massnahme als ungeeignet abtut, ohne empirische Daten zu nennen, verliert Punkte.
+3. **Wesensgehalt im Angemessenheits-Teil.** Falsch. Wesensgehalt ist absolute Grenze und gehoert vor die Vier-Stufen-Prüfung (oder als eigener Pruefpunkt).
+4. **Geeignetheit zu schnell verworfen.** Die Eingangshuerde ist niedrig. Wer eine Maßnahme als ungeeignet abtut, ohne empirische Daten zu nennen, verliert Punkte.
 5. **Erforderlichkeit ohne Alternative.** Die Aussage „erforderlich" ohne Benennung einer milderen Alternative ist substanzlos.
 6. **Angemessenheit als blosses Schlagwort.** „Insgesamt angemessen" ist nicht subsumiert. Die Klausur verlangt mindestens drei Argumente pro Seite.
-7. **Rechtsvergleich falsch eingesetzt.** EuGH, EGMR, Suedafrika sind Argumentationsmaterial — kein Ersatz fuer deutsches Grundgesetz. Wer einen Oakes-Test statt einer Stufen-Pruefung schreibt, verliert massiv.
+7. **Rechtsvergleich falsch eingesetzt.** EuGH, EGMR, Suedafrika sind Argumentationsmaterial — kein Ersatz für deutsches Grundgesetz. Wer einen Oakes-Test statt einer Stufen-Prüfung schreibt, verliert massiv.
 
 ## Aufbau-Variante: Mehrere Grundrechte
 
@@ -102,9 +102,9 @@ Wenn mehrere Grundrechte betroffen sind, drei moegliche Aufbauten:
 
 | Aufbau | Wann sinnvoll |
 |---|---|
-| Pruefe nacheinander, am wichtigsten zuerst | wenn ein Grundrecht klar dominiert (z. B. Berufsfreiheit ueber allgemeine Handlungsfreiheit) |
+| Prüfe nacheinander, am wichtigsten zuerst | wenn ein Grundrecht klar dominiert (z. B. Berufsfreiheit über allgemeine Handlungsfreiheit) |
 | Vorrang spezieller Grundrechte | wenn ein spezielles Grundrecht (Art 12) einen allgemeinen Schutz (Art 2 I) verdraengt |
-| Gemeinsame Pruefung mit praktischer Konkordanz | wenn zwei Grundrechte gegeneinander stehen (Kunst vs. Persoenlichkeit) — siehe `praktische-konkordanz` |
+| Gemeinsame Prüfung mit praktischer Konkordanz | wenn zwei Grundrechte gegeneinander stehen (Kunst vs. Persoenlichkeit) — siehe `praktische-konkordanz` |
 
 ## Fallgruppen-Schnelltabelle
 
@@ -121,12 +121,12 @@ Wenn mehrere Grundrechte betroffen sind, drei moegliche Aufbauten:
 
 - **Rechtsvergleich** ist Pflichtteil. Ein Absatz mit EuGH (Art 52 I GRCh) oder EGMR (necessary in a democratic society) zeigt wissenschaftliche Reife.
 - **Theorie-Verankerung** (Alexy, Habermas, Barak) gibt Punkte.
-- **Streitstellen** muessen aufgegriffen werden — siehe `streitstellen-katalog-zwanzig-typische`.
+- **Streitstellen** müssen aufgegriffen werden — siehe `streitstellen-katalog-zwanzig-typische`.
 
 ## Anschluss
 
 - Schnelltest in 5 Minuten: `schnellpruefung-fuenfminuten-express`
-- Theorie der Pruefung: `theorie-alexy-prinzipientheorie`
+- Theorie der Prüfung: `theorie-alexy-prinzipientheorie`
 - Streitstellen: `streitstellen-katalog-zwanzig-typische`
 - Konkrete Faelle: `subsumtionshelfer-faelle-pattern`
 - Vollstaendige Methodik: `vierstufige-schranken-schranke`

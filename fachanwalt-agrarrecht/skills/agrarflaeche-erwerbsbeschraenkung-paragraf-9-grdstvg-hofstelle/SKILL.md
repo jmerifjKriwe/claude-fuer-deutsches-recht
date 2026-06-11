@@ -7,7 +7,7 @@ description: "Genehmigungspflicht Agrarflaechenverkauf an Investor mit Paragraf 
 
 ## Einsatzlage
 
-Eigentuemer E will 18 ha Acker an Investor I (kein Landwirt) fuer 1,4 Mio EUR verkaufen. Landwirtschaftsbehoerde versagt Genehmigung; Aufstockungsbetrieb B will vorrangig kaufen.
+Eigentümer E will 18 ha Acker an Investor I (kein Landwirt) für 1,4 Mio EUR verkaufen. Landwirtschaftsbehoerde versagt Genehmigung; Aufstockungsbetrieb B will vorrangig kaufen.
 
 ## Normenanker
 

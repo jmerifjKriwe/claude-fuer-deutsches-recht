@@ -13,11 +13,11 @@ description: "Strategie mit medizinischen Gutachten im SG-Verfahren. Wie laeuft 
 
 ## Worum geht es?
 
-In den meisten Sozialgerichts-Verfahren laeuft alles auf medizinische Gutachten hinaus. Wie Sie sich dabei verhalten, kann entscheiden ueber Erfolg oder Misserfolg.
+In den meisten Sozialgerichts-Verfahren laeuft alles auf medizinische Gutachten hinaus. Wie Sie sich dabei verhalten, kann entscheiden über Erfolg oder Misserfolg.
 
 ## In einfacher Sprache
 
-Das Gericht laesst Sie oft von Aerzten untersuchen. Diese Aerzte schreiben dann ein Gutachten. Davon haengt oft das Ergebnis ab. Wir helfen Ihnen, sich darauf vorzubereiten.
+Das Gericht lässt Sie oft von Aerzten untersuchen. Diese Aerzte schreiben dann ein Gutachten. Davon haengt oft das Ergebnis ab. Wir helfen Ihnen, sich darauf vorzubereiten.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -29,7 +29,7 @@ Das Gericht laesst Sie oft von Aerzten untersuchen. Diese Aerzte schreiben dann 
 
 - **Sachverstaendigen-Gutachten**: Schriftliches Gutachten eines Experten.
 - **Hauptgutachten**: Vom Gericht beauftragt (§ 103 SGG).
-- **Wahlgutachten**: Vom Klaeger beauftragt (§ 109 SGG).
+- **Wahlgutachten**: Vom Kläger beauftragt (§ 109 SGG).
 - **Aktenlagengutachten**: Gutachten ohne Untersuchung (nur nach Akte).
 - **Belastungstest**: Untersuchung der koerperlichen Belastbarkeit.
 
@@ -60,7 +60,7 @@ Wichtig:
 - **Nicht uebertreiben, nicht untertreiben.**
 - **Konkret bleiben**: "Beim Aufstehen aus dem Bett brauche ich 5 Minuten und muss mich festhalten."
 - **Begleitperson erlaubt**: Familienmitglied darf mitkommen.
-- **Notizen machen** ueber den Verlauf.
+- **Notizen machen** über den Verlauf.
 
 ### Schritt 3 — Was im Gutachten steht
 
@@ -74,7 +74,7 @@ Das Gutachten ist meist:
 
 ### Schritt 4 — Gutachten kritisch lesen
 
-Pruefen Sie:
+Prüfen Sie:
 
 - **Anamnese vollstaendig?** Ihre Aerzte, alle Diagnosen, OPs, Reha-Aufenthalte erwaehnt?
 - **Untersuchung gruendlich?** Wurde wirklich getestet, was bewertet wird?
@@ -105,7 +105,7 @@ Wenn das Gutachten gegen Sie ist:
 
 ### Schritt 6 — Gutachter-Auswahl beim Gericht
 
-Das Gericht waehlt den Gutachter. Manchmal koennen Sie Vorschlaege machen. Wenn Sie schlechte Erfahrungen mit einem Gutachter haben, koennen Sie Ablehnung wegen Befangenheit (§ 60 SGG i.V.m. § 42 ZPO) pruefen — aber sehr enger Massstab.
+Das Gericht waehlt den Gutachter. Manchmal können Sie Vorschlaege machen. Wenn Sie schlechte Erfahrungen mit einem Gutachter haben, können Sie Ablehnung wegen Befangenheit (§ 60 SGG i.V.m. § 42 ZPO) prüfen — aber sehr enger Massstab.
 
 ### Schritt 7 — Reha-Bericht als alternative
 
@@ -115,12 +115,12 @@ Wenn Sie kuerzlich eine Reha hatten:
 - Beachtet Diagnose UND Leistungsbeurteilung am Arbeitsmarkt.
 - Einreichen als Anlage.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Authentizitaet bei der Untersuchung**: Aerzte erkennen Uebertreibung. Aber ehrliche Schilderung ist Pflicht.
 - **Pflegeprotokoll** ist Gold bei Pflegestreitigkeiten.
 - **Reha-Bericht** ist Gold bei EM-Rente.
-- **§ 109 SGG** sorgfaeltig pruefen — Kostenrisiko 1500 bis 4000 EUR.
+- **§ 109 SGG** sorgfaeltig prüfen — Kostenrisiko 1500 bis 4000 EUR.
 
 ## Typische Fehler
 

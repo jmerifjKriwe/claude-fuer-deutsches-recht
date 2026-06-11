@@ -68,7 +68,7 @@ Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bi
 ## Aktuelle Rechtsprechung
 
 - BGH, Urt. v. 14.03.2025 – Az. V ZR 153/23 — Aufhebung des Zuschlags nach gutglaeubigem Erwerb und nachfolgendem Hausbau (Fall „Rangsdorf"); Ersteher verliert das Eigentum, kann sich aber auf ein Zurueckbehaltungsrecht wegen aufgewendeter Verwendungen berufen; § 816 BGB scheitert bei gutglaeubigem Erwerb der Grundschuld durch die finanzierende Bank. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.03.2025&Aktenzeichen=V+ZR+153/23 sowie BGH-Pressemitteilung Nr. 52/2025.
-- Weitere Linien des V. ZS zu §§ 79 ff. ZVG (Zuschlagsverfahren, Beschwerden) vor Verwendung ueber https://www.bundesgerichtshof.de und https://dejure.org pruefen.
+- Weitere Linien des V. ZS zu §§ 79 ff. ZVG (Zuschlagsverfahren, Beschwerden) vor Verwendung über https://www.bundesgerichtshof.de und https://dejure.org prüfen.
 
 ## Paragrafenkette Versteigerungsteilnahme
 

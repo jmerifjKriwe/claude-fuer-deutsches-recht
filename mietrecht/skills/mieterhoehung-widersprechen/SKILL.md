@@ -85,7 +85,7 @@ Erzeuge ein höflich-bestimmtes Schreiben mit:
 - **BGH 21.11.2012, VIII ZR 46/12**: Wirksamkeit des Mieterhoehungsverlangens; Mietspiegelauszug muss beigefuegt sein, wenn das Verlangen darauf gestuetzt wird; sonst formal unwirksam. Quelle: dejure.org/2012,38221.
 - **BGH 18.10.2017, VIII ZR 28/17**: Mieterhoehung auf Grundlage Sachverstaendigengutachten — Gutachten muss konkrete Vergleichswohnungen heranziehen, nicht nur Pauschalmietspiegel-Daten. Quelle: dejure.org/2017,40850.
 - **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel-Beschluss): Landesrechtlicher Mietendeckel verfassungswidrig (Bundesrecht abschliessend; §§ 556d ff. BGB Bundeskompetenz). Quelle: bundesverfassungsgericht.de / dejure.org/2021,7050.
-- **Gesetzeslage 2026:** Mietpreisbremse § 556d BGB durch Bundesgesetzgeber verlaengert; konkrete Geltungsdauer und Spannungs-Gebiets-Verordnungen der Länder vor Versand pruefen.
+- **Gesetzeslage 2026:** Mietpreisbremse § 556d BGB durch Bundesgesetzgeber verlaengert; konkrete Geltungsdauer und Spannungs-Gebiets-Verordnungen der Länder vor Versand prüfen.
 
 Vor Zitieren weiterer Aktenzeichen Live-Verifikation per dejure.org / bundesgerichtshof.de.
 

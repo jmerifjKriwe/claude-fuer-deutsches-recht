@@ -118,7 +118,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` | Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als… |
 | `integrierte-planung-guv-bilanz-cashflow` | Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB… |
 | `kennzahlenset-und-ampelsystem-starug-konform` | StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte für Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F.… |
-| `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` | IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Massnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-,… |
+| `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` | IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Maßnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-,… |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `paragraph-1-starug-pflichten-und-24-monats-horizont` | § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als… |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
@@ -132,7 +132,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Das Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) verpflichtet Geschaeftsfuehrer und Vorstande, ein Fruehwarnsystem mit 24-Monats-Horizont zu unterhalten (§ 1 StaRUG). Daneben trifft Rechtsberater (Steuerberater, Wirtschaftspruefer, Rechtsanwaelte) bei Anzeichen einer Unternehmenskrise eine eigenstaendige Hinweis- und Warnpflicht nach § 102 StaRUG.
 
-Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem und der Krisenstadien-Diagnose ueber Insolvenzantragspflicht und Fortbestehensprognose bis hin zur Restrukturierungsplan-Architektur, dem Cross-Class-Cram-Down und der Stabilisierungsanordnung. Zielgruppe sind Restrukturierungsberater, Steuerberater, Wirtschaftspruefer und Unternehmensjuristen.
+Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem und der Krisenstadien-Diagnose über Insolvenzantragspflicht und Fortbestehensprognose bis hin zur Restrukturierungsplan-Architektur, dem Cross-Class-Cram-Down und der Stabilisierungsanordnung. Zielgruppe sind Restrukturierungsberater, Steuerberater, Wirtschaftspruefer und Unternehmensjuristen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -145,9 +145,9 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 ## Fachbegriffe (kurz erklaert)
 
 - **Drohende Zahlungsunfaehigkeit** — Zugangsberechtigung zum StaRUG: Wahrscheinlichkeit, dass das Unternehmen kuenftig nicht mehr zahlen kann (§ 18 InsO), abzugrenzen von der aktuellen ZU nach § 17 InsO.
-- **Fortbestehensprognose** — zweistufige Pruefung nach IDW S 11 (Fortfuehrungswille + Fortfuehrungsfaehigkeit), die bei Ueberschuldung (§ 19 InsO) die Insolvenzantragspflicht ausloesen oder verhindern kann.
+- **Fortbestehensprognose** — zweistufige Prüfung nach IDW S 11 (Fortfuehrungswille + Fortfuehrungsfaehigkeit), die bei Ueberschuldung (§ 19 InsO) die Insolvenzantragspflicht ausloesen oder verhindern kann.
 - **Cram-Down** — gerichtliche Planbestaetigung gegen ablehnende Glaeubiger-Gruppen nach § 26 StaRUG (Cross-Class-Cram-Down).
-- **Shift of Fiduciary Duties** — Verschiebung der Treuepflichten vom Eigentuemer-Interesse zum Glaeubiger-Interesse bei drohender Insolvenz.
+- **Shift of Fiduciary Duties** — Verschiebung der Treuepflichten vom Eigentümer-Interesse zum Glaeubiger-Interesse bei drohender Insolvenz.
 - **Restrukturierungsbeauftragter** — vom Gericht bestellter Sachwalter nach § 73 StaRUG; Pflicht-Bestellung bei bestimmten Plantypen.
 - **DSCR** — Debt Service Coverage Ratio; einer der zentralen Krisenfruehindikator-KPIs.
 - **IDW S 6** — Standard des Instituts der Wirtschaftspruefer für Sanierungskonzepte.
@@ -167,10 +167,10 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Geschaeftsfuehrer/Vorstand, Rechtsberater, Glaeubiger oder Restrukturierungsberater?
+1. Mandantenkonstellation klären: Geschaeftsfuehrer/Vorstand, Rechtsberater, Glaeubiger oder Restrukturierungsberater?
 2. Phase des Mandats bestimmen: Fruehwarnung (Krisenstadium Eins bis Drei), drohende ZU/StaRUG-Zugangsberechtigung, Restrukturierungsplan oder Insolvenznaehe (§ 15a InsO)?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: § 15a InsO — maximale Antragsfrist drei Wochen bei ZU oder Ueberschuldung; kein Aufschub moeglich.
+4. Eilfristen prüfen: § 15a InsO — maximale Antragsfrist drei Wochen bei ZU oder Ueberschuldung; kein Aufschub möglich.
 5. Anschluss-Skill bestimmen: Nach Krisenstadium-Diagnose zu Liquiditaetsplanung und ggf. Warnbrief; bei StaRUG-Zugang zu Planarchitektur.
 
 ## Skill-Tour (was gibt es hier?)
@@ -179,7 +179,7 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - `fruehwarnsystem-architektur-zwei-jahres-horizont` — StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont, KPI-Kaskade und Eskalationsstufen aufbauen.
 - `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Dashboard-Template mit numerischen Schwellenwerten und gruen/gelb/rot-Ampel.
 - `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — IDW-S-6-Krisenstadien diagnostizieren und Massnahmenkorridore bestimmen.
-- `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — StaRUG-Zugangsberechtigung nach § 18 InsO pruefen und dokumentieren.
+- `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — StaRUG-Zugangsberechtigung nach § 18 InsO prüfen und dokumentieren.
 - `fortbestehensprognose-zweistufig` — Zweistufige Fortbestehensprognose nach IDW S 11 (Fortfuehrungswille + Faehigkeit) erstellen.
 - `integrierte-planung-guv-bilanz-cashflow` — Konsistentes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen.
 - `rollierende-liquiditaetsplanung-24-monate-template` — 24-Monats-Liquiditaets-Forecast mit woechentlicher Granularitaet und Stresstests.
@@ -207,7 +207,7 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 
 - Krisenstadien werden uebersprungen: Ohne Diagnose nach IDW S 6 fehlt die Grundlage für das Massnahmenkonzept; Gerichte und Glaeubigerausschuesse erwarten die Stadien-Einordnung.
 - Fruehwarnsystem nur auf dem Papier: § 1 StaRUG verlangt ein funktionierendes System, nicht nur ein Dokument; fehlende Protokolle belegen die Pflichtverletzung.
-- Warnbrief ohne Quittung: Ohne Empfangsbestaetigung laesst sich die Pflichterfuellung nach § 102 StaRUG im Haftungsprozess nicht beweisen.
+- Warnbrief ohne Quittung: Ohne Empfangsbestaetigung lässt sich die Pflichterfuellung nach § 102 StaRUG im Haftungsprozess nicht beweisen.
 - Liquiditaetsplanung zu grob: Monatliche Granularitaet genuegt für die naechsten drei Monate nicht; woechentliche Granularitaet ist Mindeststandard in der akuten Krise.
 - Cram-Down ohne Schlechterstellungsverbot-Nachweis beantragt: Das Gericht wird den Antrag zurueckweisen, wenn der Schlechterstellungstest nicht dokumentiert ist.
 

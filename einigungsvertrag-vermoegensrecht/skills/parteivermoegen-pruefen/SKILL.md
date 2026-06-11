@@ -3,7 +3,7 @@ name: parteivermoegen-pruefen
 description: "Einigungsvertrag und Vermögensrecht: Parteivermögen prüfen. Parteivermögen prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmer..."
 ---
 
-# Parteivermoegen Pruefen
+# Parteivermoegen Prüfen
 
 ## Arbeitsweg
 

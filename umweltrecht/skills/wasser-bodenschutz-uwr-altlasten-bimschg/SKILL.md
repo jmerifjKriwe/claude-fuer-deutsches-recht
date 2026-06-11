@@ -30,7 +30,7 @@ description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortun
 - **§ 10 WHG** — Erlaubnis (gebundene Entscheidung vs. Bewilligung)
 - **§ 12 WHG** — Versagungsgrundsaetze (schaedliche Gewaesserveraenderung)
 - **§ 57 WHG** — Direkteinleitung in Gewaesser (Abwasser; Erlaubnispflicht)
-- **§ 4 BBodSchG** — Verpflichtung zur Sanierung (Verursacher, Rechtsnachfolger, Eigentuemer)
+- **§ 4 BBodSchG** — Verpflichtung zur Sanierung (Verursacher, Rechtsnachfolger, Eigentümer)
 - **§ 9 BBodSchG** — Untersuchungsanordnung (orientierend, Detailuntersuchung)
 - **§ 10 BBodSchG** — Sanierungsanordnung
 - **§ 13 BBodSchG** — Sanierungsplan-Pflicht bei Altlasten
@@ -56,10 +56,10 @@ description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortun
 
 ### B) Bodenschutz: Altlast und Sanierung
 
-1. **Altlast-Feststellung pruefen**: Ist ein § 2 Abs. 5 BBodSchG-Altlast (Altlastenflaeche, Altstandort) festgestellt?
+1. **Altlast-Feststellung prüfen**: Ist ein § 2 Abs. 5 BBodSchG-Altlast (Altlastenflaeche, Altstandort) festgestellt?
 2. **Untersuchungsanordnung erhalten** (§ 9 BBodSchG): Historische Erkundung, Detailuntersuchung.
-3. **Sanierungsverantwortlicher bestimmen**: Verursacher, Rechtsnachfolger, Eigentuemer — in dieser Reihenfolge (§ 4 BBodSchG).
-4. **Sanierungsplan erstellen** (§ 13 BBodSchG): Technische Massnahmen, Zeitplan, Kosten-Schaetzung.
+3. **Sanierungsverantwortlicher bestimmen**: Verursacher, Rechtsnachfolger, Eigentümer — in dieser Reihenfolge (§ 4 BBodSchG).
+4. **Sanierungsplan erstellen** (§ 13 BBodSchG): Technische Maßnahmen, Zeitplan, Kosten-Schaetzung.
 5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. **Erstattungsanspruch geltend machen**: § 24 BBodSchG gegen Mitverantwortliche — Gesamtschuldner-Ausgleich; Verjaeahrung 10 Jahre.
 
@@ -78,13 +78,13 @@ Kontamination festgestellt?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Stellungnahme gegen Sanierungsanordnung Wasser-Boden | Stellungnahme nach Schema; Template unten |
 | Variante A — Sanierungsanordnung teilweise berechtigt | Teilaner-kenntnis der Anordnung; Umfang und Kosten verhandeln |
-| Variante B — Kausalitaet unklar mehrere Verursacher | Kausalitaets-Einwand; Miturheberschaft anderer Verursacher pruefen |
+| Variante B — Kausalitaet unklar mehrere Verursacher | Kausalitaets-Einwand; Miturheberschaft anderer Verursacher prüfen |
 | Variante C — Sanierungskosten wirtschaftlich existenzbedrohend | Verhaeltnismaessigkeitspruefung; Teilsanierung als Kompromiss anbieten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -124,7 +124,7 @@ Massnahmen bis [BETRAG] EUR.
 Anlagen: Gutachten Grundstueckswert, Historische Nutzungsnachweise, Vollmacht
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -147,7 +147,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Vertiefung: WRRL-Verschlechterungsverbot
 
-- Art. 4 Abs. 1 WRRL: Mitgliedstaaten muessen Verschlechterung des Zustands von Wasserkörpern verhindern.
+- Art. 4 Abs. 1 WRRL: Mitgliedstaaten müssen Verschlechterung des Zustands von Wasserkörpern verhindern.
 - BGH-Linie: OWG-Einleit-Erlaubnis muss WRRL-Konformitaet beachten; keine blosse formale Genehmigung.
 - Klimawandel-Folge: Sinkende Gewaesserspiegel erhoehen Einleit-Restriktionen für Industrie.
 

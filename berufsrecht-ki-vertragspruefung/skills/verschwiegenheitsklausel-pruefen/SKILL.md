@@ -120,6 +120,6 @@ Handlungsbedarf: [ERGAENZUNGSKLAUSEL / RUECKFRAGE]
 Task: Bundle 016 – Halluzinations-Reparatur
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Beanspruchtes Thema: Haftung Notar Geheimnisverrat § 18 BNotO; NJW-RR 2021, 145.
-Massnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
+Maßnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Frankfurt&Datum=17.11.2020&Aktenzeichen=8+U+25/20
 -->

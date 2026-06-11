@@ -13,7 +13,7 @@ description: "Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-
 
 ## Worum geht es?
 
-Ihre Klage hat Anlagen: Bescheid, Atteste, Briefe. Wenn diese unsortiert ankommen, wird Ihnen niemand folgen koennen. Diese Skill zeigt, wie Sie Anlagen ordentlich vorbereiten.
+Ihre Klage hat Anlagen: Bescheid, Atteste, Briefe. Wenn diese unsortiert ankommen, wird Ihnen niemand folgen können. Diese Skill zeigt, wie Sie Anlagen ordentlich vorbereiten.
 
 ## In einfacher Sprache
 
@@ -28,7 +28,7 @@ Sie haben viele Papiere als Beweis. Ordnen Sie diese. Nummerieren Sie sie. So fi
 
 - **Anlage**: Beilage zum Schriftsatz.
 - **Anlagenverzeichnis**: Liste aller Anlagen am Ende oder Anfang.
-- **K-Anlage / B-Anlage**: K für Klaeger, B für Beklagte.
+- **K-Anlage / B-Anlage**: K für Kläger, B für Beklagte.
 - **Konvolut**: Mehrere zusammen geheftete Dokumente.
 
 ## Rechtsgrundlagen
@@ -49,7 +49,7 @@ Nicht alles muss als Anlage rein. Nur das, was Ihren Vortrag belegt. Drei Katego
 
 ### Schritt 2 — Bezeichnung
 
-Bewaehrt: K1, K2, K3 für Klaeger-Anlagen. (Beklagte nutzt B1, B2 etc.)
+Bewaehrt: K1, K2, K3 für Kläger-Anlagen. (Beklagte nutzt B1, B2 etc.)
 
 Beispiele:
 
@@ -87,7 +87,7 @@ Oben rechts auf der ersten Seite jedes Dokuments handschriftlich oder mit Stempe
 
 ### Schritt 6 — Heften und vorbereiten
 
-- Locher-Loecher: nicht ueber die Schrift.
+- Locher-Loecher: nicht über die Schrift.
 - Klammern: am Rand oben links.
 - Konvolut: alle Anlagen zusammenhalten.
 
@@ -99,9 +99,9 @@ Originale behalten Sie. Senden Sie Kopien. Auf der Kopie: "Kopie" oder "Abschrif
 
 Wenn das Gericht ein Original braucht (z.B. Original-Vollmacht), wird es ausdruecklich angefordert.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Lesbarkeit**: Kopien muessen lesbar sein. Bei verblassten Originalen vorher digital korrigieren.
+- **Lesbarkeit**: Kopien müssen lesbar sein. Bei verblassten Originalen vorher digital korrigieren.
 - **Personenbezogene Daten**: Was nicht zum Streit gehoert, schwaerzen Sie (z.B. Geburtsdatum von Familienmitgliedern).
 - **Datenschutz**: Bei Arztberichten anderer Personen schwaerzen.
 - **Aktuelle Bezeichnung**: Wenn die Behörde umgewandelt wurde (z.B. MDK zu MD), kurz darauf hinweisen.
@@ -142,6 +142,6 @@ Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. Standard ist K- bzw. B-Bezeich
 
 ### Anwendung im Skill
 
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

@@ -110,7 +110,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Rechtsgrundlagen
 
 - §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: Voraussetzung drohende Zahlungsunfaehigkeit (§ 18 InsO); kein öffentliches Insolvenzverfahren; Planabstimmung mit Glaeubigern
-- §§ 217-269 InsO — Insolvenzplan: Sanierungs- oder Liquidationsplan; Glaeubigerzustimmung nach Klassen; Debt-Equity-Swap moeglich
+- §§ 217-269 InsO — Insolvenzplan: Sanierungs- oder Liquidationsplan; Glaeubigerzustimmung nach Klassen; Debt-Equity-Swap möglich
 - §§ 304-337 InsO — Insolvenzverwalter-gesteuerte Planvorbereitung; Abstimmung im Berichts- und Pruefungstermin
 - § 15a InsO — Antragspflicht: 3 Wochen bei Zahlungsunfaehigkeit, 6 Wochen bei Ueberschuldung; Verletzung: Strafbarkeit
 - § 15b InsO — Haftung für Zahlungen nach Insolvenzreife; Direktanspruch des Insolvenzverwalters
@@ -126,15 +126,15 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. **Insolvenztatbestand feststellen:** §§ 17-19 InsO prufen; 13-Wochen-Liquiditaetsplan erstellen; Antragspflicht-Frist notieren
 2. **Verfahrenswahl:** StaRUG (nur bei drohender Zahlungsunfaehigkeit, § 18 InsO) vs. Insolvenzplan (bei Zahlungsunfaehigkeit oder auf Antrag) vs. uebertragende Sanierung
 3. **Glaeubiger-Kategorisierung:** gesicherte Glaeubiger, ungesicherte Glaeubiger, nachrangige Glaeubiger, Anteilseigner — Klassen nach §§ 222-225 InsO bilden
-4. **Plan-Entwurf:** darstellender und gestaltender Teil (§ 219 InsO); Besserstellungsvergleich: Plan vs. Liquidation; Debt-Equity-Swap-Option pruefen
+4. **Plan-Entwurf:** darstellender und gestaltender Teil (§ 219 InsO); Besserstellungsvergleich: Plan vs. Liquidation; Debt-Equity-Swap-Option prüfen
 5. **Abstimmungsmanagement:** Glaeubigerzustimmung nach Klassen; ueberwindung dissenting minority (cramdown, § 245 InsO); Betriebsrat-Information
-6. **Insolvenzgericht-Interface:** Vorlage Plan beim Insolvenzgericht; Pruefungs- und Abstimmungstermin; Bestaetigung durch Gericht (§§ 248-253 InsO)
-7. **Steuer-Check:** § 8c KStG Verlustuntergang pruefen; Sanierungsklausel § 8c Abs. 1a KStG anwenden; Restrukturierungsertrag (§ 3a EStG)
+6. **Insolvenzgericht-Interface:** Vorlage Plan beim Insolvenzgericht; Prüfungs- und Abstimmungstermin; Bestaetigung durch Gericht (§§ 248-253 InsO)
+7. **Steuer-Check:** § 8c KStG Verlustuntergang prüfen; Sanierungsklausel § 8c Abs. 1a KStG anwenden; Restrukturierungsertrag (§ 3a EStG)
 8. **Post-Plan-Umsetzung:** Eigentumsuebergang, Neufinanzierung, Betriebsfortfuehrung dokumentieren
 
 ## Entscheidungsbaum
 
-- Nur drohende Zahlungsunfaehigkeit → StaRUG moeglich → kein öffentliches Verfahren; Vertraulichkeit
+- Nur drohende Zahlungsunfaehigkeit → StaRUG möglich → kein öffentliches Verfahren; Vertraulichkeit
 - Zahlungsunfaehigkeit bereits eingetreten → Antragspflicht § 15a InsO → Insolvenzantrag; ggf. InsO-Plan
 - Mehrheit der Glaeubiger zustimmt, einzelne blockieren → cramdown § 245 InsO → Gericht kann zustimmung ersetzen
 - Debt-Equity-Swap → § 225a InsO → Anteilseigner-Zustimmung nicht erforderlich bei Ueberschuldung

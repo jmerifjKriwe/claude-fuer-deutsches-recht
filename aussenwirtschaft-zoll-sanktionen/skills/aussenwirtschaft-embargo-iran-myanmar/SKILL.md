@@ -15,23 +15,23 @@ description: "EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU
 
 ## Mandantenfall
 
-- Maschinenbauer erhalt Anfrage für Lieferung von Pumpen nach Iran; sektorale Verbote pruefen.
-- Bank prueft Zahlung eines iranischen Unternehmens; Listentreffer nach VO 267/2012.
+- Maschinenbauer erhalt Anfrage für Lieferung von Pumpen nach Iran; sektorale Verbote prüfen.
+- Bank prüft Zahlung eines iranischen Unternehmens; Listentreffer nach VO 267/2012.
 - Technologie-KMU fragt, ob Software-Lieferung in den Iran nach EU-Recht erlaubt ist.
 
 ## Erste Schritte
 
-1. EU-Sanktionsliste Iran (VO 267/2012) und konsolidierte Finanzsanktionsliste pruefen.
-2. Guetersanktionen-Katalog (Dual-Use, militaer, Raketentechnologie, Nuklearguter) pruefen.
-3. Oel/Gas-Sektor-Embargo (Art. 8-9 VO 267/2012) bei Rohstoffbezug pruefen.
+1. EU-Sanktionsliste Iran (VO 267/2012) und konsolidierte Finanzsanktionsliste prüfen.
+2. Guetersanktionen-Katalog (Dual-Use, militaer, Raketentechnologie, Nuklearguter) prüfen.
+3. Oel/Gas-Sektor-Embargo (Art. 8-9 VO 267/2012) bei Rohstoffbezug prüfen.
 4. Catch-All für Gueter mit WMD/Raketenprogramm-Relevanz auswerten.
 5. US-Sanktionen (OFAC Iran-Programme) als Risiko-Mitpruefung für USD-Zahlungen.
 6. Stop-Ship und Eskalation bei Zweifeln; BAFA-Anfrage bei konkreter Unsicherheit.
 
 ## Rechtsrahmen
 
-- **VO (EU) 267/2012**: Restriktive Massnahmen gegen Iran (Nuklear).
-- **VO (EU) 359/2011**: Massnahmen wegen Verletzung der Menschenrechte Iran.
+- **VO (EU) 267/2012**: Restriktive Maßnahmen gegen Iran (Nuklear).
+- **VO (EU) 359/2011**: Maßnahmen wegen Verletzung der Menschenrechte Iran.
 - **AWG § 18 AWG**: Strafbarkeit bei Embargo-Verstoss.
 - **Art. 4 VO (EU) 2021/821**: Catch-All für WMD-Proliferationsverdacht.
 - **AWV § 9**: Nationale Genehmigungsfreiheitsmerkmale (Abgrenzung).
@@ -50,7 +50,7 @@ description: "EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU
 - Iran-Sanktionen sind besonders komplex wegen mehrerer EU-Verordnungen.
 - Catch-All trifft oft nicht-gelistete technische Gueter mit Dual-Use-Potenzial.
 - US-Extraterritorialer Sanktionsdruck auf EU-Unternehmen trotz unterschiedlichem EU-Recht.
-- Scheinbar zivilwirtschaftliche Endverwender koennen Frontgesellschaften sein.
+- Scheinbar zivilwirtschaftliche Endverwender können Frontgesellschaften sein.
 
 ## Schnittstellen zu anderen Skills
 

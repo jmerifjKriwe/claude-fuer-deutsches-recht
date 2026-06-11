@@ -7,7 +7,7 @@ description: "Hgb Einsichtsrecht Kommanditist Paragraf 166 Hgb BGH Ii Zr 31 21: 
 
 ## Einsatzlage
 
-Kommanditist verlangt Einsicht in Vertraege; Komplementaer verweigert.
+Kommanditist verlangt Einsicht in Verträge; Komplementaer verweigert.
 
 ## Normenanker
 
@@ -32,7 +32,7 @@ Kommanditist verlangt Einsicht in Vertraege; Komplementaer verweigert.
 
 ## Arbeitsergebnis
 
-Wichtige Gruende fuer Einsicht; bei Verdacht erweitert.
+Wichtige Gruende für Einsicht; bei Verdacht erweitert.
 
 ## Belege und Aktenlücken
 

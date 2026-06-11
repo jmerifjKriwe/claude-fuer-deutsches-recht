@@ -48,7 +48,7 @@ Der Fenstereinbau ist Schnittstelle zwischen Rohbau, Waermedaemmung und Dichtigk
 3. Innenabdichtung-Dichtheitspruefung: Locales Blower-Door einzelner Einbaupositionen, Leckage-Detektierung Foliensound mit Neopor-Stab
 4. Einbautiefe-Kontrolle: Fensterscheibenunterseite mindestens 50 mm hinter Bauteil-Aussenkante bei WDVS-Fassade
 5. Schallschutz-Einbauprotokoll: Glas-Zwischenscheibe Schallschutz-Klasse nach Bestellung, Rahmen-Akustik-Klasse, Einbau-Protokoll Nr je Einheit
-6. Schwellenlosigkeit barrierefreie Tueren: Hoehe unter 2 cm, Ablaufboden Querneigung 2 Prozent, Manoevrierflaeche 1.5 m x 1.5 m nach DIN 18040-1
+6. Schwellenlosigkeit barrierefreie Tueren: Höhe unter 2 cm, Ablaufboden Querneigung 2 Prozent, Manoevrierflaeche 1.5 m x 1.5 m nach DIN 18040-1
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -60,8 +60,8 @@ Der Fenstereinbau ist Schnittstelle zwischen Rohbau, Waermedaemmung und Dichtigk
 
 ## Meldungserstellung im ERP / SAP
 
-- SAP PM Meldungsart M2 Anschlussmangel Fenster: Equipment-Nr Fenster-ID z.B. F-3OG-SW-04, Schadenscode D007 Luftdichtheitsmangel, Massnahme Innenabdichtung nachbessern
-- SAP PS Netzplan: FENST-010 Einbaumass-Pruefung, FENST-020 Montage, FENST-030 Abdichtung Innen-Aussen, FENST-040 Blower-Door-Test, FENST-050 Abnahme
+- SAP PM Meldungsart M2 Anschlussmangel Fenster: Equipment-Nr Fenster-ID z.B. F-3OG-SW-04, Schadenscode D007 Luftdichtheitsmangel, Maßnahme Innenabdichtung nachbessern
+- SAP PS Netzplan: FENST-010 Einbaumass-Prüfung, FENST-020 Montage, FENST-030 Abdichtung Innen-Aussen, FENST-040 Blower-Door-Test, FENST-050 Abnahme
 - Nevaris Aufmass Fenster: Einzelposition je Fenstertyp, Flaeche Rohbaulichtes Mass, Vergleich Plan-Ist, Rechnungspruefung automatisch
 - Dalux Qualitaetscheckliste Fenster: Uw-Wert aus Lieferschein eingetragen, RAL-Einbaukategorie, Kompriband Bild, Innenabdichtung Bild
 - Workflow: Luftdichtigkeitsmangel Blower-Door, Leckage lokalisiert, Reparaturmassnahme, Nachpruefung lokales Blower-Door, Freigabe
@@ -70,12 +70,12 @@ Der Fenstereinbau ist Schnittstelle zwischen Rohbau, Waermedaemmung und Dichtigk
 
 - Kompriband zu eng eingebaut: Kein Vorverdichtungs-Spielraum, Schlagregen dringt bei 600 Pa-Druck ein
 - Fenster in Kalkputz eingeklebt statt Rahmendubel: Kalkputz zerbricht bei Windlast, Fenster nicht ausreichend befestigt nach EN 14592
-- Blower-Door-Test zu frueh ohne geschlossene Dampfsperre: n50 zu schlecht, kein Rueckschluss moeglich, Nachtest nach Fertigstellung Pflicht
-- Fehlende Einbaukategorie-Vereinbarung: RAL-Leitfaden Kategorie nicht vertraglich festgelegt, Leistungsstreit ueber Einbautiefe
+- Blower-Door-Test zu frueh ohne geschlossene Dampfsperre: n50 zu schlecht, kein Rueckschluss möglich, Nachtest nach Fertigstellung Pflicht
+- Fehlende Einbaukategorie-Vereinbarung: RAL-Leitfaden Kategorie nicht vertraglich festgelegt, Leistungsstreit über Einbautiefe
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

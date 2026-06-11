@@ -237,7 +237,7 @@ Jede Klauselaussage muss auf eine Norm oder Entscheidung gestützt sein. Pflicht
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen; keine stillen Ergänzungen aus dem Modellwissen ohne Hinweis.
 
-## Triage-Fragen vor IP-Klausel-Pruefung
+## Triage-Fragen vor IP-Klausel-Prüfung
 
 Bevor die Klauselanalyse beginnt, klaere:
 1. Handelt es sich um eine Nutzungsrechtseinraeumung (§ 31 UrhG) oder eine unzulaessige "Uebertragung des Urheberrechts" (§ 29 UrhG)?

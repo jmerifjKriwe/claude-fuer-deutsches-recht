@@ -29,7 +29,7 @@ Skill für Mandanten, die in einer Konkurrentenauswahl unterlegen waren, deren K
 ## 3. Ablauf / Checkliste
 
 ### a) Anspruchsgrundlage
-- Beamtenrechtlicher Schadensersatzanspruch — auf das Beamtenverhaeltnis als oeffentlich-rechtliches Schuldverhaeltnis gestuetzt. BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen (Gericht, Datum und Aktenzeichen vor Zitat frei prüfen).
+- Beamtenrechtlicher Schadensersatzanspruch — auf das Beamtenverhaeltnis als öffentlich-rechtliches Schuldverhaeltnis gestuetzt. BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen (Gericht, Datum und Aktenzeichen vor Zitat frei prüfen).
 
 ### b) Pflichtverletzung
 - Verletzung des Bewerbungsverfahrensanspruchs aus Art. 33 Abs. 2 GG. Pflicht zur ermessens- und beurteilungsfehlerfreien Entscheidung.
@@ -39,7 +39,7 @@ Skill für Mandanten, die in einer Konkurrentenauswahl unterlegen waren, deren K
 
 ### d) Schaden
 - Differenz zwischen erlangten und hypothetisch zustehenden Dienstbezuegen und Versorgungsansprueche.
-- Auch ideeller Schaden grundsaetzlich nicht erfasst.
+- Auch ideeller Schaden grundsätzlich nicht erfasst.
 
 ### e) Kausalitaet
 - "Hypothetische Auswahl" — der Mandant muss bei fehlerfreiem Verfahren in einen rechtmäßigen Auswahlvorgang einbezogen worden waeren und ueberwiegend wahrscheinlich ausgewaehlt worden sein. Bei mehreren gleichwertigen Konkurrenten kann die Kausalitaet entfallen.
@@ -48,7 +48,7 @@ Skill für Mandanten, die in einer Konkurrentenauswahl unterlegen waren, deren K
 - Wer einen offensichtlich aussichtsreichen Eilantrag nach § 123 VwGO unterlassen hat, kann sich nicht auf den Sekundaeranspruch berufen. Das BVerwG verlangt vorrangiges Bemuehen um den Primaeranspruch (ständige Rechtsprechung, konkret vor Zitat frei prüfen).
 
 ### g) Verjährung und Antragsfristen
-- Beamtenrechtliche Geltendmachung im Vorverfahren erforderlich. Verjährungsfrist nach BGB analog drei Jahre — Einzelheiten landesrechtlich pruefen.
+- Beamtenrechtliche Geltendmachung im Vorverfahren erforderlich. Verjährungsfrist nach BGB analog drei Jahre — Einzelheiten landesrechtlich prüfen.
 
 ## 4. Quellenpflicht
 

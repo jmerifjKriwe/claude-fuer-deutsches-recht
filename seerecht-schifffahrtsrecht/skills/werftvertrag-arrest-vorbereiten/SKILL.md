@@ -17,10 +17,10 @@ description: "Werftvertrag: Glaeubiger sichert Anspruch an Neubauprojekt unter W
 Ein Hypothekengläubiger will ein Neubauprojekt unter Werftvertrag arrestieren; Kredit ist ausgefallen. Ein Konnossementsinhaber hat Schadensansprüche und arretiert das Neubauprojekt unter Werftvertrag im Hafen. Ein Bergungsunternehmen sichert seinen Bergungslohnanspruch durch Arrest.
 
 ## Erste Schritte
-1. Seeforderung nach ISAC 1952 Art. 1 gegenueber Eigentuemer des Neubauprojekt unter Werftvertrag konkretisieren.
+1. Seeforderung nach ISAC 1952 Art. 1 gegenueber Eigentümer des Neubauprojekt unter Werftvertrag konkretisieren.
 2. Arrestgrund glaublhaft machen: {vessel} wird Hafen verlassen; Reeder insolvent.
 3. LG am Liegeplatz (ZPO § 919) als zuständiges Gericht bestimmen.
-4. Arrestbeschluss beantragen; ohne Anhörung des Gegners moeglich.
+4. Arrestbeschluss beantragen; ohne Anhörung des Gegners möglich.
 5. Vollziehung: Eintragung im Register (SchRegO § 67) binnen einem Monat.
 6. Freigabestrategie: LOU des P&I-Clubs oder Barzahlung als Alternative vorbereiten.
 

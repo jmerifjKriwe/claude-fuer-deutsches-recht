@@ -21,7 +21,7 @@ description: "Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberw
 
 ## Erste Schritte
 
-1. Warenklassifizierung: HS-/KN-Code und TARIC auf VuB-Eintraege pruefen.
+1. Warenklassifizierung: HS-/KN-Code und TARIC auf VuB-Eintraege prüfen.
 2. Relevante Behörde identifizieren: BLE (Lebensmittel) BZSt (Drogen) BAFA (Dual-Use/Embargo) BMUV (Umwelt) Kulturbehoerde.
 3. Genehmigung/Lizenz bei zuständiger Behörde vor Zollanmeldung beantragen.
 4. ATLAS-Zollanmeldung: VuB-Code eintragen und Dokument-Referenz hinterlegen.
@@ -43,13 +43,13 @@ description: "Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberw
 - [ ] Genehmigung/Lizenz vor Zollanmeldung beantragt und erhalten?
 - [ ] VuB-Code und Dokument-Referenz in ATLAS-Anmeldung eingetragen?
 - [ ] Begleitdokumentation vollstaendig bei Abfertigung vorhanden?
-- [ ] Zeitpuffer für VuB-Pruefung in Lieferplanung beruecksichtigt?
+- [ ] Zeitpuffer für VuB-Prüfung in Lieferplanung beruecksichtigt?
 
 ## Typische Fallstricke
 
-- VuB-Genehmigung nach Zollanmeldung nicht mehr moeglich; Vorab-Beantragung Pflicht.
+- VuB-Genehmigung nach Zollanmeldung nicht mehr möglich; Vorab-Beantragung Pflicht.
 - TARIC-VuB-Eintraege werden regelmaessig aktualisiert; Check vor jeder Sendung noetig.
-- Multiples VuB mehrerer Behörden bei ein und derselben Ware moeglich.
+- Multiples VuB mehrerer Behörden bei ein und derselben Ware möglich.
 - Zeitverzug bei Behörden-Genehmigungen kann Lieferketten erheblich stoeren.
 
 ## Schnittstellen zu anderen Skills

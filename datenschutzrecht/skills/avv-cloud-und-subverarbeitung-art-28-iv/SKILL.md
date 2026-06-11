@@ -12,14 +12,14 @@ Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerwe
 ## Wann dieses Modul hilft
 
 - SaaS-/Cloud-Anbieter wird beauftragt und nutzt selbst Hyperscaler-Infrastruktur (AWS, Azure, Google Cloud).
-- Es ist die Liste der Sub-AV zu pruefen oder zu erstellen.
+- Es ist die Liste der Sub-AV zu prüfen oder zu erstellen.
 - Eine Aufsichtsbehoerde fragt nach der Sub-AV-Kette und der Haftungsdurchleitung.
 - Ein Sub-AV im Drittland soll hinzugefuegt werden.
 
 ## Rechtlicher Rahmen
 
 - Art. 28 Abs. 2 Satz 1 DSGVO: Auftragsverarbeiter nimmt keinen weiteren Auftragsverarbeiter ohne vorherige gesonderte oder allgemeine schriftliche Genehmigung des Verantwortlichen in Anspruch.
-- Art. 28 Abs. 2 Satz 2 DSGVO: Bei allgemeiner Genehmigung Information ueber jede beabsichtigte Aenderung; Verantwortlicher hat Recht zum Einspruch.
+- Art. 28 Abs. 2 Satz 2 DSGVO: Bei allgemeiner Genehmigung Information über jede beabsichtigte Aenderung; Verantwortlicher hat Recht zum Einspruch.
 - Art. 28 Abs. 4 DSGVO: Sub-Auftragsverarbeiter unterliegt durch Vertrag oder anderes Rechtsinstrument den gleichen Datenschutzpflichten wie der Auftragsverarbeiter. Wenn er diese nicht erfuellt, haftet der primaere Auftragsverarbeiter weiter gegenueber dem Verantwortlichen.
 - Beschluss (EU) 2021/914 Klausel 9: Sub-AV-Mechanik im SCC-Kontext.
 
@@ -40,14 +40,14 @@ Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerwe
  | Allgemeine Genehmigung ohne Liste | Bequem | Nicht Art. 28 DSGVO-konform |
 
 3. **Informationspflicht und Einspruchsrecht.**
- - Frist Praxis: 30 Tage vor Wirksamwerden, mindestens aber so, dass Einspruch faktisch moeglich ist.
+ - Frist Praxis: 30 Tage vor Wirksamwerden, mindestens aber so, dass Einspruch faktisch möglich ist.
  - Einspruchsgrund: berechtigte Bedenken (Drittland, fehlende TOM, Wettbewerber, Aufsichtsbehoerde).
  - Folge: Auftragsverarbeiter sucht alternative Sub-AV, sonst ausserordentliche Kuendigung durch Verantwortlichen.
 
 4. **Haftungsdurchleitung.**
  - Vertraglich oder per Rechtsinstrument identische Pflichten beim Sub-AV.
  - Praxis: Back-to-Back-Vertrag oder Inkorporation des AVV als Anlage.
- - Beweisbarkeit: Auftragsverarbeiter muss die Sub-AV-Vertraege auf Verlangen vorlegen.
+ - Beweisbarkeit: Auftragsverarbeiter muss die Sub-AV-Verträge auf Verlangen vorlegen.
 
 5. **Drittlandbezug.**
  - Sub-AV im Drittland: zusaetzlich SCC Beschluss (EU) 2021/914 (Module C2P oder P2P, je nach Konstellation).
@@ -58,13 +58,13 @@ Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerwe
 
 Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 
-> "(1) Der Verantwortliche erteilt dem Auftragsverarbeiter die allgemeine Genehmigung im Sinne des Art. 28 Abs. 2 DSGVO, weitere Auftragsverarbeiter ('Sub-Auftragsverarbeiter') gemaess der als Anlage 3 beigefuegten Liste mit der Verarbeitung personenbezogener Daten zu beauftragen.
+> "(1) Der Verantwortliche erteilt dem Auftragsverarbeiter die allgemeine Genehmigung im Sinne des Art. 28 Abs. 2 DSGVO, weitere Auftragsverarbeiter ('Sub-Auftragsverarbeiter') gemäß der als Anlage 3 beigefuegten Liste mit der Verarbeitung personenbezogener Daten zu beauftragen.
 >
-> (2) Der Auftragsverarbeiter informiert den Verantwortlichen mindestens dreissig (30) Kalendertage vor Wirksamwerden ueber jede beabsichtigte Aenderung in Bezug auf die Hinzuziehung oder die Ersetzung von Sub-Auftragsverarbeitern.
+> (2) Der Auftragsverarbeiter informiert den Verantwortlichen mindestens dreissig (30) Kalendertage vor Wirksamwerden über jede beabsichtigte Aenderung in Bezug auf die Hinzuziehung oder die Ersetzung von Sub-Auftragsverarbeitern.
 >
-> (3) Der Verantwortliche kann der Aenderung innerhalb von dreissig (30) Kalendertagen nach Zugang der Information aus berechtigten Gruenden schriftlich widersprechen. Berechtigte Gruende liegen insbesondere vor bei Drittlandverarbeitung ohne ausreichende Schutzmassnahmen, bei unzureichenden technischen und organisatorischen Massnahmen oder bei einem Sub-Auftragsverarbeiter, der ein direkter Wettbewerber des Verantwortlichen ist.
+> (3) Der Verantwortliche kann der Aenderung innerhalb von dreissig (30) Kalendertagen nach Zugang der Information aus berechtigten Gruenden schriftlich widersprechen. Berechtigte Gruende liegen insbesondere vor bei Drittlandverarbeitung ohne ausreichende Schutzmassnahmen, bei unzureichenden technischen und organisatorischen Maßnahmen oder bei einem Sub-Auftragsverarbeiter, der ein direkter Wettbewerber des Verantwortlichen ist.
 >
-> (4) Im Fall eines berechtigten Widerspruchs, den der Auftragsverarbeiter nicht durch zumutbare technische oder organisatorische Massnahmen ausraeumen kann, ist der Verantwortliche zur ausserordentlichen Kuendigung des Hauptvertrags und dieses Auftragsverarbeitungsvertrags berechtigt.
+> (4) Im Fall eines berechtigten Widerspruchs, den der Auftragsverarbeiter nicht durch zumutbare technische oder organisatorische Maßnahmen ausraeumen kann, ist der Verantwortliche zur ausserordentlichen Kuendigung des Hauptvertrags und dieses Auftragsverarbeitungsvertrags berechtigt.
 >
 > (5) Der Auftragsverarbeiter schliesst mit jedem Sub-Auftragsverarbeiter einen Vertrag im Sinne des Art. 28 Abs. 4 DSGVO, der dem Sub-Auftragsverarbeiter im Wesentlichen die gleichen Datenschutzpflichten auferlegt wie sie in diesem Vertrag für den Auftragsverarbeiter festgelegt sind. Der Auftragsverarbeiter haftet gegenueber dem Verantwortlichen für die Erfuellung der Pflichten durch den Sub-Auftragsverarbeiter unveraendert weiter.
 >

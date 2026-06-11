@@ -147,7 +147,7 @@ Verifizierte Aktenzeichen mit offener Quelle (Volltext vor Versand aufrufen):
 2. Wurden zwei qualifizierte Mahnungen mit 4-Wochen-Abstand und SCHUFA-Hinweis versandt? → Fehler = rechtswidrig.
 3. Liegt der Eintrag mehr als 3 Jahre zurueck? → Loeschungspflicht nach § 31 BDSG.
 4. Besteht Restschuldbefreiung? → Pflicht zur Loeschung (BGH 2024).
-5. Gibt es konkrete Schaeden (Kreditablehnung, erhoehter Zinssatz)? → Art. 82 DSGVO Schadensersatz pruefen.
+5. Gibt es konkrete Schaeden (Kreditablehnung, erhoehter Zinssatz)? → Art. 82 DSGVO Schadensersatz prüfen.
 
 ### Erweiterte Leitsaetze (Stand Mai 2026)
 

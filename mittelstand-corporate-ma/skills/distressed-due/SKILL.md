@@ -125,7 +125,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 123 BGB — arglistige Taeusching durch aktives Verschweigen wesentlicher Umstaende; fuehrt zur Anfechtbarkeit
 - § 442 BGB — Kenntnis des Kaeufers vom Mangel schliesst Gewaehrleistungsansprueche aus; DD-Kenntnis kann zugerechnet werden
 - § 254 BGB — Mitverschulden: nicht genuegend aufmerksamer Kaeufer kann Ansprueche mindern
-- §§ 305-310 BGB — AGB-Kontrolle: General Disclosure-Klauseln in Standardvertraegen koennen einer AGB-Pruefung unterfallen
+- §§ 305-310 BGB — AGB-Kontrolle: General Disclosure-Klauseln in Standardvertraegen können einer AGB-Prüfung unterfallen
 
 ## Aktuelle Rechtsprechung
 
@@ -137,16 +137,16 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. **Datenraum-Mapping:** Dokumente nach Garantie-Kategorien zuordnen; Index erstellen (Ordner, Dokument, Datenraum-ID, Relevanz)
 3. **DD-Findings einarbeiten:** Red-Flag-Findings als Specific Disclosure formulieren; jedes wesentliche Finding muss disclosure-faehig sein oder als Freistellung behandelt werden
 4. **Vendor DD einbinden:** VDD-Bericht als Anlage zum Disclosure Letter; Kaeufer muss VDD-Report als General Disclosure anerkennen
-5. **Materiality-Scrape pruefen:** Wenn Materiality Scrape vereinbart: sichererstellen, dass alle Disclosures vollstaendig sind, da Scrape alle Materiality-Schwellen entfernt
+5. **Materiality-Scrape prüfen:** Wenn Materiality Scrape vereinbart: sichererstellen, dass alle Disclosures vollstaendig sind, da Scrape alle Materiality-Schwellen entfernt
 6. **Earn-Out-relevante Umstaende:** gesonderte Disclosure-Kategorie für Earn-Out-beeinflussende Umstaende erstellen
 7. **Disclosure Letter finalisieren:** formale Struktur (Intro, General Disclosures, Specific Disclosures je Garantie), Datum, Unterzeichnung; als SPA-Anlage beifuegen
-8. **Fair-Disclosure-Check:** Pruefung, ob alle wesentlichen Risiken klar und verstaendlich dargestellt sind (nicht nur durch Indexverweis)
+8. **Fair-Disclosure-Check:** Prüfung, ob alle wesentlichen Risiken klar und verstaendlich dargestellt sind (nicht nur durch Indexverweis)
 
 ## Entscheidungsbaum
 
 - General Disclosure gewuenscht → alle Datenraum-Dokumente qualifizieren → Kaeufer muss DD komplett durchfuehren
 - Specific Disclosure → je Garantie explizite Aufzaehlung → vollstaendiger als General Disclosure
-- Materiality Scrape vereinbart → alle Disclosures muessen 100 % vollstaendig sein → lueckenhafter Disclosure Letter gefaehrlicher
+- Materiality Scrape vereinbart → alle Disclosures müssen 100 % vollstaendig sein → lueckenhafter Disclosure Letter gefaehrlicher
 - Arglistiges Verschweigen → kein Haftungsausschluss durch Disclosure-Klausel → persönliche Haftung Geschaeftsfuehrer
 
 ## Output-Template: Disclosure Letter Gliederung

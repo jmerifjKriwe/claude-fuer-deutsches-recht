@@ -7,7 +7,7 @@ description: "Behoerdliches Haltungsverbot nach Paragraf 16a TierSchG mit BVerwG
 
 ## Einsatzlage
 
-Tierhalter T (kleines Schafbetrieb) erhaelt Haltungsverbot fuer alle Tierarten nach drei dokumentierten Maengeln (Klauenpflege, Unterstand, Tierarztversorgung). T will klagen.
+Tierhalter T (kleines Schafbetrieb) erhaelt Haltungsverbot für alle Tierarten nach drei dokumentierten Maengeln (Klauenpflege, Unterstand, Tierarztversorgung). T will klagen.
 
 ## Normenanker
 
@@ -33,8 +33,8 @@ Tierhalter T (kleines Schafbetrieb) erhaelt Haltungsverbot fuer alle Tierarten n
 
 ## Arbeitsergebnis
 
-1. Tatsachengrundlage pruefen: Welche Maengel zu welchem Zeitpunkt?
-2. Wiederholungsgefahr: Belege fuer Maengelbehebung sammeln.
+1. Tatsachengrundlage prüfen: Welche Maengel zu welchem Zeitpunkt?
+2. Wiederholungsgefahr: Belege für Maengelbehebung sammeln.
 3. Milderes Mittel: Auflagen statt Verbot (regelmaessige Kontrolle).
 4. Einschraenkung auf bestimmte Tierart als Vergleichsvorschlag.
 

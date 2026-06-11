@@ -17,13 +17,13 @@ description: "BAFA-Exportgenehmigungsverfahren für Dual-Use-Gueter und kontroll
 
 - Exporteur beantragt Einzelgenehmigung für Lieferung von Laseranlagen nach China; Bearbeitung laeuft seit 3 Monaten.
 - Unternehmen mit laufenden Lieferbeziehungen in Länder der Partnerliste moechte auf Sammelgenehmigung umstellen.
-- BAFA verweigert Genehmigung; Widerspruchsmoeglichkeit und Erfolgschancen pruefen.
+- BAFA verweigert Genehmigung; Widerspruchsmoeglichkeit und Erfolgschancen prüfen.
 
 ## Erste Schritte
 
-1. Genehmigungsart bestimmen: Einzel-, Sammel- oder Globalgenehmigung? Nullbescheid-Option pruefen.
-2. Antrag ueber ELAN-K2 vollstaendig einreichen (EUC, technische Beschreibung, Gueterlisten-Code).
-3. Bearbeitungsfristen nach AWG § 22 Abs. 1 kalkulieren; Untaetigkeitsklage bei Fristablauf pruefen.
+1. Genehmigungsart bestimmen: Einzel-, Sammel- oder Globalgenehmigung? Nullbescheid-Option prüfen.
+2. Antrag über ELAN-K2 vollstaendig einreichen (EUC, technische Beschreibung, Gueterlisten-Code).
+3. Bearbeitungsfristen nach AWG § 22 Abs. 1 kalkulieren; Untaetigkeitsklage bei Fristablauf prüfen.
 4. BAFA-Nachfragen schnell und vollstaendig beantworten; Fristverlaengerung beantragen wenn noetig.
 5. Genehmigungsauflagen im Betrieb umsetzen (Endverwender-Berichte, Wiederausfuhrverbote).
 6. Widerspruch formgerecht einlegen; Begrenztheit der Ermessens-Nachpruefung beachten.

@@ -15,7 +15,7 @@ description: "Bauueberwachung HOAI LPH 8 für elektrische Anlagen mit Fokus Erdu
 
 ## Spezialwissen
 
-Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teuersten Versicherungsrisiken im Gebaeude: Direkte Blitzeinschlaege koennen Millionenhaeden verursachen. Die Bauueberwachung in LPH 8 kontrolliert den Fundamenterder, alle Potentialausgleichsleiter und das aeussere Blitzschutzsystem und stellt sicher, dass die Messprotokolle vor Inbetriebnahme vorliegen.
+Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teuersten Versicherungsrisiken im Gebaeude: Direkte Blitzeinschlaege können Millionenhaeden verursachen. Die Bauueberwachung in LPH 8 kontrolliert den Fundamenterder, alle Potentialausgleichsleiter und das aeussere Blitzschutzsystem und stellt sicher, dass die Messprotokolle vor Inbetriebnahme vorliegen.
 
 ## Bauwerk und Auftrag
 
@@ -28,7 +28,7 @@ Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teue
 1. Fundamenterder Einbaukontrolle: Bandstahl 30 mm x 3.5 mm oder Runddraht 10 mm Cu, Verlegung nach DIN 18014 Abschnitt 5, 50 mm Betondeckung allseitig, Foto vor Betonage
 2. Trennungsabstand-Berechnung: Berechnung nach DIN EN 62305-3 Abschnitt 6.3, ki km und kc Parameter, Abstand Ableiterbahn zu Metallinstallation
 3. Ableiter-Befestigung: Rohrdubel oder Schellen alle 1 m an senkrechtem Ableiter, Rohrleitung Korrosionsschutz Klasse 2 nach DIN EN 62305-3
-4. Dachfangeinrichtung-Kontrolle: Maschenweite nach Schutzklasse I-IV, 10 x 10 m für LPL I, Fangstange Hoehe nach Schutzwinkel-Methode
+4. Dachfangeinrichtung-Kontrolle: Maschenweite nach Schutzklasse I-IV, 10 x 10 m für LPL I, Fangstange Höhe nach Schutzwinkel-Methode
 5. Potentialausgleich Innenschutz: PA-Schiene Hauptgebaeude, Anbindung alle metallischen Installationen, Querschnitt Cu 6 mm2 mindestens nach DIN VDE 0100-540
 6. SPD-Einbau Ueberspannungsschutz: Typ 1 Haupteinspeisung, Typ 2 Unterverteilungen, Koordination nach DIN EN 61643-11 Iimp und Uc
 
@@ -46,8 +46,8 @@ Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teue
 1. Fundamenterder-Sichtpruefung: Vor Betonage Foto Verlegung, Kreuzverbindungen geschweisst und abgenommen, Anschlussfahnen an Potentialausgleich sichtbar
 2. Messung Erdungswiderstand: Dreipolmethode nach DIN VDE 0100-610, Grenzwert kleiner 10 Ohm für TN-System, Protokoll Messgeraet Megger DET2/3
 3. Ableiterwiderstand-Messung: Leitungswiderstands-Messung je Ableiter kleiner 0.2 Ohm, Zaehlmessprotokoll alle Verbindungsstellen
-4. Trennungsabstand-Pruefung vor Ort: Bandmass zur naechsten metallischen Unterinstallation, Protokoll Mess-Ergebnis vs. Berechnung
-5. SPD-Pruefung: Fabrikat und Typ auf Lieferschein konform mit Planung, Anschlussquerschnitt nach Herstellervorschrift, Sicherungsschutz installiert
+4. Trennungsabstand-Prüfung vor Ort: Bandmass zur naechsten metallischen Unterinstallation, Protokoll Mess-Ergebnis vs. Berechnung
+5. SPD-Prüfung: Fabrikat und Typ auf Lieferschein konform mit Planung, Anschlussquerschnitt nach Herstellervorschrift, Sicherungsschutz installiert
 6. DGUV Pruefprotokoll: Erstpruefung nach DGUV Vorschrift 3 durch Elektrofachkraft, Protokoll Muster 4 mit allen Pruefpunkten und Freigabe
 
 ## Foto-, Video- und Dokumentenanalyse
@@ -60,7 +60,7 @@ Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teue
 
 ## Meldungserstellung im ERP / SAP
 
-- SAP PM Meldungsart M2 Erdungswiderstand groesser 10 Ohm: Equipment-Nr Erdungsanlage z.B. ERDE-GA-001, Schadenscode E005 Erdungsfehler, Massnahme Nacherdung Tiefenerder
+- SAP PM Meldungsart M2 Erdungswiderstand groesser 10 Ohm: Equipment-Nr Erdungsanlage z.B. ERDE-GA-001, Schadenscode E005 Erdungsfehler, Maßnahme Nacherdung Tiefenerder
 - SAP PS Netzplan Blitzschutz: FUNDERR-010 Fundamenterder, ABLEITER-020 Aeusseres System, IPASCHUTZ-030 Innenschutz PA, SPD-040 Ueberspannungsschutz, DGUV-ABNAHME-050
 - BIM360 MEP-Modell Elektroanlagen: Erdungsanlage-Bauteil-ID, Messwert als Attribut, Freigabe-Status farblich
 - Dalux Blitzschutz-Checkliste: Ableiterzahl, Maschenweite, Trennungsabstand-Nachweis, DGUV-Protokoll-Upload, Unterschrift Elektroplaner
@@ -75,7 +75,7 @@ Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teue
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

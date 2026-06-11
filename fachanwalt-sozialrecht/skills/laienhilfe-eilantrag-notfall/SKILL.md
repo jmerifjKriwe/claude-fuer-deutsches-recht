@@ -32,9 +32,9 @@ Dieser Skill erklaert **Eilantrag Notfall** so, dass auch Menschen ohne juristis
 
 ## Norm- und Praxisanker
 
-- Aufschiebende Wirkung Widerspruch / Klage: § 86a SGG – Widerspruch und Anfechtungsklage haben grundsaetzlich aufschiebende Wirkung; Ausnahmen § 86a Abs. 2 SGG (insbesondere Beitragsrecht, Vollziehungsanordnung).
+- Aufschiebende Wirkung Widerspruch / Klage: § 86a SGG – Widerspruch und Anfechtungsklage haben grundsätzlich aufschiebende Wirkung; Ausnahmen § 86a Abs. 2 SGG (insbesondere Beitragsrecht, Vollziehungsanordnung).
 - Anordnung der aufschiebenden Wirkung: § 86b Abs. 1 SGG – wenn aufschiebende Wirkung gesetzlich entfaellt.
-- Einstweilige Anordnung: § 86b Abs. 2 SGG – Anordnungsanspruch (Erfolgsaussicht in Hauptsache) und Anordnungsgrund (Eilbeduerftigkeit, Existenzminimum, drohender wesentlicher Nachteil). Bei Grundleistungen Buergergeld, Unterkunft, Krankenversicherungsschutz Folgenabwaegung pruefen.
+- Einstweilige Anordnung: § 86b Abs. 2 SGG – Anordnungsanspruch (Erfolgsaussicht in Hauptsache) und Anordnungsgrund (Eilbeduerftigkeit, Existenzminimum, drohender wesentlicher Nachteil). Bei Grundleistungen Buergergeld, Unterkunft, Krankenversicherungsschutz Folgenabwaegung prüfen.
 - Glaubhaftmachung: § 86b Abs. 2 S. 4 SGG iVm § 920 Abs. 2 ZPO; eidesstattliche Versicherung § 294 ZPO.
 - Praxis-Tipp: Eilantrag formal kurz, aber inhaltlich konkret: Tatsachen + Belege (Mietrueckstand, Kontoauszug, drohende Kuendigung, Attest) + konkreten Antrag. Bei Existenzgefaehrdung sofort parallel Widerspruch und Eilantrag einreichen. Bei Buergergeld § 41a SGB II vorläufige Bewilligung beantragen.
 

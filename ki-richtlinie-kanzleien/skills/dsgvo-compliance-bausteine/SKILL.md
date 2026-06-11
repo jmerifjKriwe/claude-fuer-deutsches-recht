@@ -59,7 +59,7 @@ Drittlandtransfer-Regelungen sind besonders anfällig für Änderungen (Schrems-
 - Art. 6 DSGVO — Rechtsgrundlagen der Verarbeitung
 - Art. 9 DSGVO — Besondere Kategorien personenbezogener Daten
 - Art. 28 DSGVO — Auftragsverarbeitung
-- Art. 32 DSGVO — Technische und organisatorische Massnahmen
+- Art. 32 DSGVO — Technische und organisatorische Maßnahmen
 - Art. 35 DSGVO — Datenschutz-Folgenabschaetzung
 
 ## Triage zu Beginn

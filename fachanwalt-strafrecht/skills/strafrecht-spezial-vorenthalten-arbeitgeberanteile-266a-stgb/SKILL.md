@@ -18,11 +18,11 @@ description: "Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB. Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermoegen. Faellligkeit am drittletzten Bankarbeitstag. Persoenliche Haftung des Geschaeftsfuehrers in der Krise. Abgrenzung zu Paragraph 15a InsO und Paragraph 283 StGB.
+**Fokus:** Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB. Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermögen. Faellligkeit am drittletzten Bankarbeitstag. Persoenliche Haftung des Geschaeftsfuehrers in der Krise. Abgrenzung zu Paragraph 15a InsO und Paragraph 283 StGB.
 
 ## Worum geht es konkret
 
-Paragraph 266a StGB ist die wichtigste praktische Strafnorm der Wirtschaftskrise. Anwendungsfall: GF einer GmbH zahlt die monatliche Sozialversicherungsabgabe an die Einzugsstelle nicht oder verspaetet ab, weil die Liquiditaet nicht reicht. Geschuetzt sind die **Arbeitnehmeranteile** zur Sozialversicherung (Krankenversicherung, Rentenversicherung, Pflegeversicherung, Arbeitslosenversicherung); der Arbeitgeberanteil ist in Absatz 2 als Steuerhinterziehung-Aequivalent geregelt.
+Paragraph 266a StGB ist die wichtigste praktische Strafnorm der Wirtschaftskrise. Anwendungsfall: GF einer GmbH zahlt die monatliche Sozialversicherungsabgabe an die Einzugsstelle nicht oder verspaetet ab, weil die Liquiditaet nicht reicht. Geschuetzt sind die **Arbeitnehmeranteile** zur Sozialversicherung (Krankenversicherung, Rentenversicherung, Pflegeversicherung, Arbeitslosenversicherung); der Arbeitgeberanteil ist in Absatz 2 als Steuerhinterziehung-Äquivalent geregelt.
 
 Die Norm wirkt unbarmherzig: Auch in der Krise vor Insolvenzantragstellung muss der GF die Sozialabgaben abfuehren - mit der Folge, dass er bei Krisenmanagement haftet. In der Konkurrenz zu Paragraph 15b InsO Zahlungsverbot herrscht ein normatives Dilemma, das die Rspr. zugunsten von Paragraph 266a StGB aufloest (BGH staendige Rspr.: Sozialabgaben sind privilegiert; Zahlung ist immer pflichtgemaess iSd Paragraph 15b Abs 2 Nr 1 InsO).
 
@@ -43,7 +43,7 @@ Voraussetzungen:
 
 Strafbar ist, wer als Arbeitgeber:
 
-- **Nr. 1**: durch unrichtige oder unvollstaendige Angaben gegenueber der Einzugsstelle ueber sozialversicherungsrechtlich erhebliche Tatsachen Beitraege des Arbeitgeberanteils vorenthaelt;
+- **Nr. 1**: durch unrichtige oder unvollstaendige Angaben gegenueber der Einzugsstelle über sozialversicherungsrechtlich erhebliche Tatsachen Beitraege des Arbeitgeberanteils vorenthaelt;
 - **Nr. 2**: trotz Verpflichtung diese Tatsachen pflichtwidrig nicht angibt.
 
 Schutzgut ist die korrekte Beitragsermittlung. Die Norm ist im Kern eine "Steuerhinterziehung" der Sozialversicherung.
@@ -86,7 +86,7 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 - Absatz 1, 2 vorsaetzlich: Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
 - Absatz 4 (besonders schwerer Fall): Freiheitsstrafe 6 Monate bis 10 Jahre - Regelbeispiel "in grossem Ausmass" (BGH-Schwelle ca. EUR 50.000 nach staendiger Rspr.).
 - Versuch nicht strafbar.
-- **Einziehung Paragraph 73 StGB**: bei Paragraph 266a StGB schwierig, weil "erlangtes" Vermoegen oft im Geschaeftsbetrieb steckt. Wertersatz nach Paragraph 73c StGB.
+- **Einziehung Paragraph 73 StGB**: bei Paragraph 266a StGB schwierig, weil "erlangtes" Vermögen oft im Geschaeftsbetrieb steckt. Wertersatz nach Paragraph 73c StGB.
 - **Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG**: 5 Jahre als GF.
 - **Zivilrechtlich**: Persoenliche Haftung des GF gegenueber Einzugsstelle aus Paragraph 823 Abs 2 BGB iVm Paragraph 266a StGB als Schutzgesetz (BGH staendige Rspr.).
 - BZRG-Eintrag.
@@ -95,7 +95,7 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 
 **Schutzschrift-Snippet:** "Mein Mandant hat die Beitraege zur Sozialversicherung für Maerz 2026 (Faelligkeit DD.MM.JJJJ) nachgezahlt (Anlage SS 1) und der Einzugsstelle die Beitragsabrechnung zugesandt (Anlage SS 2). Die Voraussetzungen der taetigen Reue nach Paragraph 266a Abs 6 StGB sind erfuellt; Strafbefreiung tritt ein."
 
-**Einlassungs-Snippet:** "Am drittletzten Bankarbeitstag im Maerz 2026 betrug der Saldo auf dem Geschaeftskonto EUR 2.500. Ich hatte zu diesem Zeitpunkt offene Lieferantenrechnungen ueber insgesamt EUR 35.000 und sah keine Moeglichkeit, die Sozialabgaben in Hoehe von EUR 18.000 abzufuehren. Ich habe sofort am DD.MM.JJJJ Insolvenzantrag gestellt."
+**Einlassungs-Snippet:** "Am drittletzten Bankarbeitstag im Maerz 2026 betrug der Saldo auf dem Geschaeftskonto EUR 2.500. Ich hatte zu diesem Zeitpunkt offene Lieferantenrechnungen über insgesamt EUR 35.000 und sah keine Moeglichkeit, die Sozialabgaben in Höhe von EUR 18.000 abzufuehren. Ich habe sofort am DD.MM.JJJJ Insolvenzantrag gestellt."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der Kontoauszuege der Y-Bank für den Zeitraum DD.MM.JJJJ bis DD.MM.JJJJ zu erheben zum Beweis der Tatsache, dass am drittletzten Bankarbeitstag im Maerz 2026 keine ausreichenden Mittel zur Abfuehrung der Sozialabgaben vorhanden waren."
 
@@ -107,6 +107,6 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 - Paragraph 823 Abs 2 BGB iVm Paragraph 266a StGB Schutzgesetz für Sozialversicherungstraeger.
 - Paragraph 78 Abs 3 Nr 4 StGB Verfolgungsverjaehrung 5 Jahre.
 - BGH staendige Rspr. zur Privilegierung der Sozialabgaben gegenueber Paragraph 15b InsO.
-- BGH staendige Rspr. zur Wertgrenze "grosses Ausmass" bei EUR 50.000.
+- BGH staendige Rspr. zur Wertgrenze "großes Ausmass" bei EUR 50.000.
 - BGH staendige Rspr. zur Strafbarkeit auch verspaeteter Zahlung.
 - BSG-Linie zur Beitragspflicht bei Scheinwerkvertraegen.

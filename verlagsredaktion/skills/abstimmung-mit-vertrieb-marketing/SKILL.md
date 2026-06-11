@@ -19,7 +19,7 @@ Vertrieb und Marketing brauchen vor dem Erscheinen eines Buches, eines Loseblatt
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn 6-9 Monate vor Erscheinen eines neuen Produkts, periodisch für Backlist-Pflege. Klaeren Sie:
+Sie brauchen ihn 6-9 Monate vor Erscheinen eines neuen Produkts, periodisch für Backlist-Pflege. Klären Sie:
 
 1. Welches Produkt (Buch, Loseblattwerk, Zeitschrift, Online-Kommentar)?
 2. Veroeffentlichungstermin?
@@ -62,7 +62,7 @@ Sie brauchen ihn 6-9 Monate vor Erscheinen eines neuen Produkts, periodisch für
 
 - "Ein Verlagsprodukt, das in einem Satz beschrieben werden kann, verkauft sich. Eines, das drei braucht, ist beratungsbeduerftig."
 - Vergleichstitel ehrlich nennen - Marketing erkennt sonst Schwachstellen erst nach Erscheinen.
-- Preisarchitektur fruh klaeren, sonst Schock beim Vertrieb.
+- Preisarchitektur fruh klären, sonst Schock beim Vertrieb.
 - Pressetext / Klappentext im Verlag mit Autorin abstimmen, nicht erst vor Druck zeigen.
 - Bei Online-Lizenz: Verlaengerungsmodell von Anfang an mitdenken.
 
@@ -94,7 +94,7 @@ Erscheinungsphasen:
 
 **Klappentext (Beispiel):**
 
-> Die BGH-Rechtsprechung 2025/2026 hat die Plattformhaftung grundlegend neu geordnet. Mueller liefert den ersten Praxiskommentar nach dieser Wende: alle relevanten Vorschriften, mit Streitstandsdarstellung, BGH- und EuGH-Linien, Vertragsmustern und Compliance-Hilfen. Fuer Anwaltschaft, Compliance und Rechtsabteilungen.
+> Die BGH-Rechtsprechung 2025/2026 hat die Plattformhaftung grundlegend neu geordnet. Mueller liefert den ersten Praxiskommentar nach dieser Wende: alle relevanten Vorschriften, mit Streitstandsdarstellung, BGH- und EuGH-Linien, Vertragsmustern und Compliance-Hilfen. Für Anwaltschaft, Compliance und Rechtsabteilungen.
 
 **Anschreiben an Marketing-Verantwortliche:**
 

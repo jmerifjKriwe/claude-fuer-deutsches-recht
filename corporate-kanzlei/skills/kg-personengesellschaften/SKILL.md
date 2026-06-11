@@ -114,7 +114,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - **§§ 105-177a HGB** — OHG, KG; Gesellschaftsvertrag; Ergebnisverteilung; Ausscheiden, Kluendigung
 - **§§ 161-177a HGB** — KG spezifisch; Kommanditist; beschraenkte Haftung (§ 171 HGB)
-- **§§ 705-740c BGB n.F. (MoPeG)** — GbR-Reform ab 01.01.2024; Rechtsfaehigkeit der GbR; Register moeglich
+- **§§ 705-740c BGB n.F. (MoPeG)** — GbR-Reform ab 01.01.2024; Rechtsfaehigkeit der GbR; Register möglich
 - **§ 15 EStG** — Mitunternehmerschaft; gewerbliche Einkuenfte; Sonderbetriebsvermoegen
 - **§ 24 UmwStG** — Einbringung in Personengesellschaft; Buchwertfortfuehrung
 - **§ 6 III EStG** — Unentgeltliche Uebertragung von Mitunternehmeranteilen; keine Aufdeckung stiller Reserven
@@ -127,9 +127,9 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 | Form | OHG/KG/GmbH & Co. KG | GbR (nach MoPeG) |
 |---|---|---|
-| Formpflicht | Keine gesetzliche Form; Ausnahmen in Gesellschaftsvertrag | Keine gesetzliche Form; Registereintragung GbR moeglich |
-| Zustimmung Mitgesellschafter | Grundsaetzlich alle Gesellschafter; Vinkulierungsklausel beachten | Nach Gesellschaftsvertrag |
-| Aufnahme ins Register | Handelsregister-Abteilung A | GbR-Register moeglich (freiwillig bis verpflichtend) |
+| Formpflicht | Keine gesetzliche Form; Ausnahmen in Gesellschaftsvertrag | Keine gesetzliche Form; Registereintragung GbR möglich |
+| Zustimmung Mitgesellschafter | Grundsätzlich alle Gesellschafter; Vinkulierungsklausel beachten | Nach Gesellschaftsvertrag |
+| Aufnahme ins Register | Handelsregister-Abteilung A | GbR-Register möglich (freiwillig bis verpflichtend) |
 | Steuerfolgen | § 6 III EStG; § 24 UmwStG | Wie bei KG; Transparenzprinzip |
 
 ## GmbH & Co. KG: Besonderheiten
@@ -143,7 +143,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Gesellschaftsvertrag analysieren** — Vinkulierungsklauseln; Abtretungsvoraussetzungen; Zustimmungserfordernisse
-2. **Steuerliche Struktur pruefen** — Mitunternehmerschaft; Sonderbetriebsvermoegen; Transparenzprinzip
+2. **Steuerliche Struktur prüfen** — Mitunternehmerschaft; Sonderbetriebsvermoegen; Transparenzprinzip
 3. **Haftungsanalyse** — Wer ist Komplementaer? Wie hoch sind Kommanditisten-Einlagen?
 4. **UBO-Identifizierung** — Treuhander-Strukturen; GwG-CDD bei KG-Transaktionen
 5. **Anteilsuebertragung gestalten** — Notarielle Beurkundung nur wenn Gesellschaftsvertrag es vorschreibt

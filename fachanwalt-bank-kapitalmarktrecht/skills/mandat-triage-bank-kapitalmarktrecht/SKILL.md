@@ -8,7 +8,7 @@ description: "Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturi
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Bank Kapitalmarktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Bank Kapitalmarktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -159,7 +159,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Vertiefung: Rechtsprechung und erweiterte Triage
 
-### Schluessel-Leitsaetze für Triage Bank-/Kapitalmarktrecht (Stand Mai 2026)
+### Schlüssel-Leitsaetze für Triage Bank-/Kapitalmarktrecht (Stand Mai 2026)
 
 Verifizierte Aktenzeichen mit offener Quelle:
 
@@ -188,7 +188,7 @@ Verifizierte Aktenzeichen mit offener Quelle:
 Ist die Verjaebrungsfrist bekannt?
 → NEIN: Datum der Beratung/Schaden + 3 Jahre = § 195 BGB; aber max. 10 Jahre ab Entstehung § 199 Abs. 3 BGB
 → JA und < 6 Monate: Ombudsmann-Antrag zur Hemmung SOFORT; parallel Klageschrift vorbereiten
-→ JA und > 10 Jahre: Verjaebrung eingetreten; Sonderfall Arglist § 199 Abs. 3 Nr. 2 BGB pruefen
+→ JA und > 10 Jahre: Verjaebrung eingetreten; Sonderfall Arglist § 199 Abs. 3 Nr. 2 BGB prüfen
 
 ### Output-Template Triage-Protokoll
 **Adressat:** Intern — Tonfall: schnell, strukturiert

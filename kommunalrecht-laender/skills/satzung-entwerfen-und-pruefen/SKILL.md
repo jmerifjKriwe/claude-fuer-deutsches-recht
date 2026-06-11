@@ -3,7 +3,7 @@ name: satzung-entwerfen-und-pruefen
 description: "Kommunalrecht der Länder: Satzung entwerfen und prüfen. Satzung entwerfen und prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
-# Satzung Entwerfen Und Pruefen
+# Satzung Entwerfen Und Prüfen
 
 ## Arbeitsweg
 
@@ -25,8 +25,8 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 74 Abs. 1 VwGO` — Klagefrist.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
 - `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live pruefen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht pruefen.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder

@@ -3,7 +3,7 @@ name: aussenwirtschaft-atlas-einfuhr-abgabenbescheid
 description: "Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr: Zollwert-Berechnung nach UZK Art. 69-76, Zollsatz-Anwendung und Abgabenberechnung (Zoll, EUSt). Verfahren der Einspruchseinlegung beim Hauptzollamt und Klage beim Finanzgericht. Identifiziert Fehler in Tarifierungsbescheiden und U..."
 ---
 
-# ATLAS-Einfuhr-Abgabenbescheid: Pruefen und Anfechten
+# ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten
 
 ## Arbeitsweg
 
@@ -15,15 +15,15 @@ description: "Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr:
 
 ## Mandantenfall
 
-- Importeur erhaelt Nachzollbescheid ueber abweichenden Zollwert (Lizenzgebuehren nicht einbezogen).
+- Importeur erhaelt Nachzollbescheid über abweichenden Zollwert (Lizenzgebuehren nicht einbezogen).
 - Zollbescheid wendet Antidumping-Zoll an, obwohl Ursprungszeugnis auf Praeferenzursprung verweist.
-- Pharma-Importeur streitet ueber die Einreihung im Zolltarif; Bescheid setzt falschen KN-Code.
+- Pharma-Importeur streitet über die Einreihung im Zolltarif; Bescheid setzt falschen KN-Code.
 
 ## Erste Schritte
 
 1. Abgabenbescheid vollstaendig lesen; Zollwert, KN-Code, angewendeter Zollsatz, Abgabenhoehe protokollieren.
-2. Zollwertberechnung nach Transaktionswert (Art. 70 UZK) oder Methoden-Kaskade pruefen.
-3. KN-Code gegenueber Warenbeschreibung und allgemeinen Einreihungsvorschriften (AEV) pruefen.
+2. Zollwertberechnung nach Transaktionswert (Art. 70 UZK) oder Methoden-Kaskade prüfen.
+3. KN-Code gegenueber Warenbeschreibung und allgemeinen Einreihungsvorschriften (AEV) prüfen.
 4. Einspruchsfrist beachten (§ 355 AO i.V.m. UZK Art. 44): in der Regel einen Monat nach Bekanntgabe.
 5. Einspruchsschriftsatz mit Rechtsanker (KN-AEV, UZK Art. 70 ff.) und Belegen aufbereiten.
 6. Gerichtliche Klage beim Finanzgericht vorbereiten falls Einspruch erfolglos.
@@ -43,11 +43,11 @@ description: "Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr:
 - [ ] Einspruchsfrist noch nicht abgelaufen?
 - [ ] Alle wertrelevanten Hinzurechnungen (Art. 71 UZK) korrekt beruecksichtigt?
 - [ ] Praeferenzstatus und Ursprung korrekt und belegt?
-- [ ] Antidumping-Massnahmen-Anwendung korrekt für konkreten Hersteller?
+- [ ] Antidumping-Maßnahmen-Anwendung korrekt für konkreten Hersteller?
 
 ## Typische Fallstricke
 
-- Lizenzgebuehren und Preisnachlaesse nach Verkauf koennen Zollwert aendern.
+- Lizenzgebuehren und Preisnachlaesse nach Verkauf können Zollwert ändern.
 - 1-Monats-Frist für Einspruch laeuft auch waehrend Betriebsurlaub; keine automatische Fristverlaehngerung.
 - Praeferenz-Ursprungszeugnis zu spaet beigebracht: Nachpruefungsverfahren verzoeggert Erstattung.
 - Finanzgericht akzeptiert nur Schriftsaetze mit vollstaendiger Beleg-Anlage.

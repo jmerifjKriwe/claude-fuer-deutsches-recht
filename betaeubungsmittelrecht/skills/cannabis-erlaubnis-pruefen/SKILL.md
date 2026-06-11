@@ -3,7 +3,7 @@ name: cannabis-erlaubnis-pruefen
 description: "Cannabis: Erlaubnis prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Cannabis Erlaubnis Pruefen
+# Cannabis Erlaubnis Prüfen
 
 ## Arbeitsweg
 

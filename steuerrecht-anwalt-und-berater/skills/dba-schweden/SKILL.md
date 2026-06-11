@@ -36,7 +36,7 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: Deutschland und Schweden haben das MLI unterzeichnet und ratifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
+- **MLI**: Deutschland und Schweden haben das MLI unterzeichnet und ratifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zum DBA-Schweden in freier amtlicher Quelle abrufen.
@@ -62,21 +62,21 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 - Anrechnung bei passiven Einkuenften.
 
 ### Besonderheiten
-- **Schwedische Beteiligungsgesellschaft** (naeringsbetingad aktie): nationales Aequivalent zur Schachtelprivilegierung.
+- **Schwedische Beteiligungsgesellschaft** (naeringsbetingad aktie): nationales Äquivalent zur Schachtelprivilegierung.
 - **Pensionen** Art. 18: schwedische ATP-Renten und Arbeitsmarktrente.
-- **Wegzugsbesteuerung**: Schweden EU-Mitglied — § 6 AStG-Stundung moeglich.
+- **Wegzugsbesteuerung**: Schweden EU-Mitglied — § 6 AStG-Stundung möglich.
 
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 ### Phase 3 — Einkunftsart einordnen
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
 
 ## Strategie und Praxis-Tipps
 
-- Schwedische Holding mit naeringsbetingad-Status: Sondersteuerregime für Beteiligungseinkuenfte — DBA-Berechtigung pruefen, EU-MTRL anwenden.
+- Schwedische Holding mit naeringsbetingad-Status: Sondersteuerregime für Beteiligungseinkuenfte — DBA-Berechtigung prüfen, EU-MTRL anwenden.
 - Skandinavisches Pensionssystem (ATP): Wohnsitzstaat-Prinzip ueberwiegend.
 - Bei Wegzug Schweden: Stundung § 6 AStG (EU-Mitglied).
 - Schweden-Bauauftraege: 12-Monatsfrist beachten.
@@ -89,21 +89,21 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 - **Lokaler Berater**: Bei schwedischer AB (Aktiebolag) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines schwedischen "skattekonsult" (Steuerberater); SE hat sehr digitalisierte Verwaltung und ausgepraegtes Naerings­betingad-System.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (SE seit 1995).
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
-- **Naeringsbetingad-Status (Beteiligungsgesellschaft) SE**: Schwedisches Sondersteuerregime für Beteiligungserloese — Veraeusserung von Anteilen schwedischer Gesellschaften steuerfrei bei naeringsbetingad-Qualifikation. Aequivalent zu § 8b KStG. Bei deutschen Investoren in SE-Holdings: doppelte Steuerbefreiung-Risiko, § 4k EStG-Pruefung.
+- **Naeringsbetingad-Status (Beteiligungsgesellschaft) SE**: Schwedisches Sondersteuerregime für Beteiligungserloese — Veraeusserung von Anteilen schwedischer Gesellschaften steuerfrei bei naeringsbetingad-Qualifikation. Äquivalent zu § 8b KStG. Bei deutschen Investoren in SE-Holdings: doppelte Steuerbefreiung-Risiko, § 4k EStG-Prüfung.
 - **Pension ATP/Tjaenstepension/Allgemeine Rente**: SE-Pensionssystem dreischichtig — Garantirente (Grundrente), Inkomstpension (einkommensabhaengig) und Tjaenstepension (Arbeitsplatzrente). DBA Art. 18 differenziert nach Quelle.
-- **Wegzug DE → SE**: § 6 AStG, SE ist EU — Stundung erleichtert; SE-Eingangsbesteuerung pruefen ("expatriate"-Regelung).
-- **Aenderungsprotokoll 2023/2024**: Anpassungen zur Bekaempfung von Hybridgestaltungen — vom Anwender mit konsolidiertem Text zu pruefen.
+- **Wegzug DE → SE**: § 6 AStG, SE ist EU — Stundung erleichtert; SE-Eingangsbesteuerung prüfen ("expatriate"-Regelung).
+- **Aenderungsprotokoll 2023/2024**: Anpassungen zur Bekaempfung von Hybridgestaltungen — vom Anwender mit konsolidiertem Text zu prüfen.
 - **MLI ratifiziert**: PPT-Klausel anwendbar.
 
 ## Trade-offs
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Schwedische Holding-AB mit naeringsbetingad-Status | SE-Holding steuerfreie Veraeusserung Anteile EU-Toechter (naeringsbetingad) | DE-Holding mit § 8b KStG-Befreiung 95 Prozent | bei reiner Holdingstruktur für EU-Toechter und Exit-Strategie SE oft vorteilhaft; aber § 4k EStG-Pruefung wegen doppelter Steuerbefreiung; PPT-Klausel pruefen |
+| Schwedische Holding-AB mit naeringsbetingad-Status | SE-Holding steuerfreie Veraeusserung Anteile EU-Toechter (naeringsbetingad) | DE-Holding mit § 8b KStG-Befreiung 95 Prozent | bei reiner Holdingstruktur für EU-Toechter und Exit-Strategie SE oft vorteilhaft; aber § 4k EStG-Prüfung wegen doppelter Steuerbefreiung; PPT-Klausel prüfen |
 | EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent Beteiligung | DBA-Schweden: 0 Prozent ab 10 Prozent Beteiligung | beide identisch; EU-MTRL als EU-Recht vorrangig (§ 43b EStG) |
-| Wegzug DE → SE im Ruhestand | SE-Steueransaessigkeit, schwedische Pensionsbesteuerung — oft moderate Belastung | DE-Steueransaessigkeit beibehalten, DBA klaert Doppelbesteuerung | bei Pensionaeren mit DRV: SE-Anziehung der Renten, in DE Anrechnung; Wegzug § 6 AStG bei Anteilen pruefen |
+| Wegzug DE → SE im Ruhestand | SE-Steueransaessigkeit, schwedische Pensionsbesteuerung — oft moderate Belastung | DE-Steueransaessigkeit beibehalten, DBA klaert Doppelbesteuerung | bei Pensionaeren mit DRV: SE-Anziehung der Renten, in DE Anrechnung; Wegzug § 6 AStG bei Anteilen prüfen |
 
 ## Berechnungsbeispiel
 
@@ -112,17 +112,17 @@ DE-Mutter haelt 100 Prozent an schwedischer AB; SE-Gewinn 300.000 EUR, SE-KSt 20
 - SE-QSt: 0 Prozent nach EU-MTRL (§ 43b EStG, ab 10 Prozent Schachtel).
 - DE: § 8b KStG zu 95 Prozent steuerfrei; 5 Prozent (11.910 EUR) fiktive nichtabziehbare BA, DE-KSt+SolZ rund 15,825 Prozent = 1.885 EUR plus GewSt rund 14 Prozent = 1.667 EUR. Gesamt DE rund 3.552 EUR.
 - Gesamtbelastung: SE-KSt 61.800 + DE 3.552 = 65.352 EUR auf 300.000 EUR = 21,8 Prozent.
-- Pillar-Two-Pruefung: SE-Belastung 20,6 Prozent ueber 15 Prozent — kein Top-Up.
+- Pillar-Two-Prüfung: SE-Belastung 20,6 Prozent über 15 Prozent — kein Top-Up.
 
-Bei Hauptanwendungsfall naeringsbetingad-Veraeusserung: SE-AB veraeussert Anteile an EU-Tochter steuerfrei; bei Liquidation und Ausschuettung an DE-Mutter: § 4k EStG pruefen (Verhinderung doppelter Nichtbesteuerung).
+Bei Hauptanwendungsfall naeringsbetingad-Veraeusserung: SE-AB veraeussert Anteile an EU-Tochter steuerfrei; bei Liquidation und Ausschuettung an DE-Mutter: § 4k EStG prüfen (Verhinderung doppelter Nichtbesteuerung).
 
 ## Mandatsablauf in der Praxis
 
 1. **Aufnahme**: Konstellation (Beteiligung Volvo/Ericsson, naeringsbetingad-Holding, Pendler, Pension ATP).
-2. **Strukturierung**: Bei Holding naeringsbetingad-Status und § 4k EStG-Pruefung; bei Pension Art. 18 Wohnsitzstaat vs. Kassenstaat.
+2. **Strukturierung**: Bei Holding naeringsbetingad-Status und § 4k EStG-Prüfung; bei Pension Art. 18 Wohnsitzstaat vs. Kassenstaat.
 3. **Antraege**: Ansaessigkeitsbescheinigung Skatteverket; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: SE-Erklaerung digital sehr ausgereift; DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive.
-5. **Audit-Vorbereitung**: SE-Pruefung digital effizient; DE-FA-Pruefung § 4k EStG bei naeringsbetingad und Aenderungsprotokoll 2023/2024.
+5. **Audit-Vorbereitung**: SE-Prüfung digital effizient; DE-FA-Prüfung § 4k EStG bei naeringsbetingad und Aenderungsprotokoll 2023/2024.
 
 ## Ausgabeformat für Mandanten-Memo Schweden
 
@@ -148,6 +148,6 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Schw
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Schweden 14.07.1992, in Kraft 13.10.1994 (BGBl. 1994 II S. 686). Aenderungsprotokoll: BGBl. 2023 II Nr. 307, in Kraft BGBl. 2024 II Nr. 66. MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
+Stand: 05/2026. DBA-Schweden 14.07.1992, in Kraft 13.10.1994 (BGBl. 1994 II S. 686). Aenderungsprotokoll: BGBl. 2023 II Nr. 307, in Kraft BGBl. 2024 II Nr. 66. MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

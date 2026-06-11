@@ -168,5 +168,5 @@ Bevor der Eilantrag gestellt wird, klaere:
 
 ---
 <!-- AUDIT 27.05.2026 | bundle_037 | task 1/5
-Massnahme: Beide Vorkommen (Belege-Liste und Aktuelle-Rechtsprechung-Block) geloescht.
+Maßnahme: Beide Vorkommen (Belege-Liste und Aktuelle-Rechtsprechung-Block) geloescht.
 -->

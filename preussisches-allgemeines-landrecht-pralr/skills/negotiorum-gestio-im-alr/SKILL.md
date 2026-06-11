@@ -12,7 +12,7 @@ description: "Geschaeftsfuehrung ohne Auftrag (negotiorum gestio) im ALR. Skill 
 
 ## Tatbestand
 
-- Geschaeftsfuehrer fuehrt fremdes Geschaeft ohne Auftrag.
+- Geschaeftsfuehrer fuehrt fremdes Geschäft ohne Auftrag.
 - Im Interesse und mutmasslich Willen des Geschaeftsherrn.
 - Mit Geschaeftsfuehrungswillen.
 
@@ -24,7 +24,7 @@ description: "Geschaeftsfuehrung ohne Auftrag (negotiorum gestio) im ALR. Skill 
 ## Sonderfaelle
 
 - Notgeschaeftsfuehrung (Rettung Hab und Gut bei Brand): ALR-Sondervorschriften.
-- Geschaeftsanmassung (eigener Vorteil aus fremdem Geschaeft): Herausgabepflicht.
+- Geschaeftsanmassung (eigener Vorteil aus fremdem Geschäft): Herausgabepflicht.
 
 ## Fortwirkung BGB
 
@@ -34,7 +34,7 @@ description: "Geschaeftsfuehrung ohne Auftrag (negotiorum gestio) im ALR. Skill 
 
 ## Pruefraster
 
-1. Fremdes Geschaeft?
+1. Fremdes Geschäft?
 2. Ohne Auftrag?
 3. Mutmasslicher Wille?
 4. Aufwendungen ersatzfaehig?

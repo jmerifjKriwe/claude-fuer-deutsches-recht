@@ -35,11 +35,11 @@ Das DBA-Litauen vom 22.07.1997 (BGBl. 1998 II S. 84) regelt das Verhaeltnis zum 
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: Deutschland und Litauen sind beide MLI-Unterzeichner. Ob das DBA-Litauen als gedecktes Steuerabkommen i.S.d. BEPS-MLI-Anwendungsgesetzes gilt, ist im aktuellen BMF-Schreiben zum Stand der DBA zu pruefen.
+- **MLI**: Deutschland und Litauen sind beide MLI-Unterzeichner. Ob das DBA-Litauen als gedecktes Steuerabkommen i.S.d. BEPS-MLI-Anwendungsgesetzes gilt, ist im aktuellen BMF-Schreiben zum Stand der DBA zu prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-Litauen sind selten; einschlaegig sind die allgemeinen BFH-Entscheidungen zu § 50d Abs. 3 EStG (Substanz) und Betriebsstaette (Hafen Klaipeda).
-- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL und § 50g EStG / ZinsLizenzRL: aktuellen Stand beim BMF pruefen.
+- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL und § 50g EStG / ZinsLizenzRL: aktuellen Stand beim BMF prüfen.
 
 ## Land-spezifisches
 
@@ -70,12 +70,12 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 4. Vermeidungsmethode — Anrechnung ueberwiegend.
 5. Innerstaatliche Umsetzung — § 34c EStG; § 50d Abs. 3 EStG bei Fintech-/Holding-Substanz; Pillar Two.
 
-BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbescheinigung der litauischen Valstybinė mokesčių inspekcija (VMI) als Anlage.
+BZSt-Verfahren: Freistellung/Erstattung § 50c EStG über BOP; Ansaessigkeitsbescheinigung der litauischen Valstybinė mokesčių inspekcija (VMI) als Anlage.
 
 ## Strategie und Praxis-Tipps
 
-- Fintech-Substanz: litauische E-Money-Lizenz erfordert physische Praesenz — Pruefung Treaty-Schutz.
-- Logistik Hafen Klaipeda: Betriebsstaette pruefen.
+- Fintech-Substanz: litauische E-Money-Lizenz erfordert physische Praesenz — Prüfung Treaty-Schutz.
+- Logistik Hafen Klaipeda: Betriebsstaette prüfen.
 - EU-MTRL bei Schachtel.
 - Pillar Two-Mindeststeuer bei niedrig besteuerten Holdings.
 
@@ -83,15 +83,15 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 - **Erstattungsverfahren LT → DE-Mandant**: Antrag bei VMI (Valstybinė mokesčių inspekcija); Online-Portal "Mano VMI" (vom Anwender mit aktuellem Stand des litauischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der VMI als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Litauisch. Englische Arbeitsfassungen kursieren — nicht authentisch.
-- **Lokaler Berater**: Bei litauischer UAB (Uždaroji akcinė bendrovė, GmbH-Aequivalent) oder Fintech-Lizenz-Gesellschaft empfiehlt sich Hinzuziehung eines litauischen "mokesčių konsultantas". LT ist Fintech-Hotspot — strenge Substanzanforderungen der Bank of Lithuania.
+- **Lokaler Berater**: Bei litauischer UAB (Uždaroji akcinė bendrovė, GmbH-Äquivalent) oder Fintech-Lizenz-Gesellschaft empfiehlt sich Hinzuziehung eines litauischen "mokesčių konsultantas". LT ist Fintech-Hotspot — strenge Substanzanforderungen der Bank of Lithuania.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (LT seit 2004).
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
-- **Fintech-Lizenzen LT (E-Money, Payment Institution)**: Litauen ist EU-Fintech-Hotspot mit ueber 200 lizenzierten Fintech-Unternehmen. Lizenz der Bank of Lithuania erfordert Substanz vor Ort (Geschaeftsfuehrer, Mitarbeiter, Compliance) — diese Substanz reicht regelmaessig auch für Treaty-Schutz § 50d Abs. 3 EStG.
-- **LT-KSt 15 Prozent (Stand 2025)**: knapp ueber AStG-Niedrigsteuerschwelle 15 Prozent — keine CFC-Probleme bei Standard-Kt. Kleine Gesellschaften (Mikrounternehmen) koennen reduzierte Saetze haben.
-- **Pillar Two seit 2024**: LT hat umgesetzt — Top-Up auf 15 Prozent für Konzerne ueber 750 Mio EUR Umsatz. Bei LT-Standard 15 Prozent regelmaessig kein Top-Up.
-- **Logistik Hafen Klaipeda**: bei langfristigen Logistik-/Speditionsaktivitaeten BS-Pruefung; insbesondere Lagerhaltung kann BS begruenden (Art. 5).
+- **Fintech-Lizenzen LT (E-Money, Payment Institution)**: Litauen ist EU-Fintech-Hotspot mit über 200 lizenzierten Fintech-Unternehmen. Lizenz der Bank of Lithuania erfordert Substanz vor Ort (Geschaeftsfuehrer, Mitarbeiter, Compliance) — diese Substanz reicht regelmaessig auch für Treaty-Schutz § 50d Abs. 3 EStG.
+- **LT-KSt 15 Prozent (Stand 2025)**: knapp über AStG-Niedrigsteuerschwelle 15 Prozent — keine CFC-Probleme bei Standard-Kt. Kleine Gesellschaften (Mikrounternehmen) können reduzierte Saetze haben.
+- **Pillar Two seit 2024**: LT hat umgesetzt — Top-Up auf 15 Prozent für Konzerne über 750 Mio EUR Umsatz. Bei LT-Standard 15 Prozent regelmaessig kein Top-Up.
+- **Logistik Hafen Klaipeda**: bei langfristigen Logistik-/Speditionsaktivitaeten BS-Prüfung; insbesondere Lagerhaltung kann BS begruenden (Art. 5).
 - **MLI**: vom Anwender mit BMF-Verzeichnis zu verifizieren.
 - **Estland und Lettland abweichend**: LT hat KEIN Distribution-Tax-System (anders als EE und LV); klassische KSt 15 Prozent.
 
@@ -99,10 +99,10 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Fintech-Gesellschaft LT direkt vs. via EU-Holding | LT-Direkt: Fintech-Lizenz Bank of Lithuania, 15 Prozent KSt | EU-Holding (z.B. NL, IE): Treaty-Network, ggf. komplexer | bei Fintech-Schwerpunkt LT-Direkt oft vorteilhaft; bei Konzernstrukturen Holding pruefen |
+| Fintech-Gesellschaft LT direkt vs. via EU-Holding | LT-Direkt: Fintech-Lizenz Bank of Lithuania, 15 Prozent KSt | EU-Holding (z.B. NL, IE): Treaty-Network, ggf. komplexer | bei Fintech-Schwerpunkt LT-Direkt oft vorteilhaft; bei Konzernstrukturen Holding prüfen |
 | EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent | DBA-LT: 5 Prozent ab 25 Prozent | EU-MTRL vorrangig |
 | Zinsen DBA 10 Prozent vs. EU-ZinsLizenzRL | DBA-LT: 10 Prozent QSt Zinsen | EU-ZinsLizenzRL: 0 Prozent bei verbundenen Unternehmen | EU-ZinsLizenzRL bei verbundenen Unternehmen ab 25 Prozent Beteiligung und 2 Jahre Halten |
-| Lizenzen gewerbliche Ausruestung 5 Prozent vs. andere 10 Prozent | DBA-LT differenziert: 5 Prozent industrielle Ausruestung, 10 Prozent andere Lizenzen | EU-ZinsLizenzRL: 0 Prozent bei Verbundenheit | EU-Recht vorrangig bei Verbundenheit; ansonsten Differenzierung bei DBA-Text genau pruefen |
+| Lizenzen gewerbliche Ausruestung 5 Prozent vs. andere 10 Prozent | DBA-LT differenziert: 5 Prozent industrielle Ausruestung, 10 Prozent andere Lizenzen | EU-ZinsLizenzRL: 0 Prozent bei Verbundenheit | EU-Recht vorrangig bei Verbundenheit; ansonsten Differenzierung bei DBA-Text genau prüfen |
 
 ## Berechnungsbeispiel
 
@@ -111,18 +111,18 @@ DE-Fintech-Konzern haelt 100 Prozent an litauischer UAB mit E-Money-Lizenz; LT-G
 - LT-QSt: 0 Prozent nach EU-MTRL (§ 43b EStG, ab 10 Prozent Schachtel).
 - DE: § 8b KStG zu 95 Prozent steuerfrei; 5 Prozent (21.250 EUR) fiktive nichtabziehbare BA, DE-KSt+SolZ rund 15,825 Prozent = 3.363 EUR plus GewSt rund 14 Prozent = 2.975 EUR. Gesamt DE rund 6.338 EUR.
 - Gesamtbelastung: LT-KSt 75.000 + DE 6.338 = 81.338 EUR auf 500.000 EUR = 16,3 Prozent.
-- Pillar-Two-Pruefung: LT-Belastung 15 Prozent — keine Top-Up.
-- CFC-Pruefung § 7 ff. AStG: LT-KSt 15 Prozent erfuellt AStG-Schwelle — keine CFC.
+- Pillar-Two-Prüfung: LT-Belastung 15 Prozent — keine Top-Up.
+- CFC-Prüfung § 7 ff. AStG: LT-KSt 15 Prozent erfuellt AStG-Schwelle — keine CFC.
 
 Bei Fintech-Substanz (regulatorisch zwingend) kein § 50d Abs. 3 EStG-Problem.
 
 ## Mandatsablauf in der Praxis
 
 1. **Aufnahme**: Konstellation (Mittelstand, Fintech mit E-Money-Lizenz, Logistik Hafen Klaipeda, UAB-Holding).
-2. **Strukturierung**: Bei Fintech regulatorische Substanz (Bank of Lithuania); bei Logistik BS-Pruefung; bei Holding § 50d Abs. 3 EStG.
+2. **Strukturierung**: Bei Fintech regulatorische Substanz (Bank of Lithuania); bei Logistik BS-Prüfung; bei Holding § 50d Abs. 3 EStG.
 3. **Antraege**: Ansaessigkeitsbescheinigung VMI; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: LT-Erklaerung jaehrlich; DE-Erklaerung mit Anrechnung.
-5. **Audit-Vorbereitung**: LT-Pruefer formal; DE-FA-Pruefung Fintech-Substanz und MLI-Anwendung.
+5. **Audit-Vorbereitung**: LT-Prüfer formal; DE-FA-Prüfung Fintech-Substanz und MLI-Anwendung.
 
 ## Ausgabeformat für Mandanten-Memo Litauen
 
@@ -148,6 +148,6 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Lita
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Litauen 22.07.1997, BGBl. 1998 II S. 84, in Kraft 28.12.1997. Dividenden 5/15%, Zinsen 10%, Lizenzen 5/10% (Industrieausruestung/andere). KSt Litauen 15%. MLI-Status: aktuellen BMF-DBA-Stand pruefen.
+Stand: 05/2026. DBA-Litauen 22.07.1997, BGBl. 1998 II S. 84, in Kraft 28.12.1997. Dividenden 5/15%, Zinsen 10%, Lizenzen 5/10% (Industrieausruestung/andere). KSt Litauen 15%. MLI-Status: aktuellen BMF-DBA-Stand prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1998 II S. 84 bestaetigt (BMF-Webseite, gesetze-im-internet.de); Art. 10 5/15% bestaetigt; Art. 11 10% bestaetigt; Art. 12 5/10% bestaetigt; KSt 15% bestaetigt (WKO); MLI allgemein gefasst; BMF-Datum allgemein gefasst -->

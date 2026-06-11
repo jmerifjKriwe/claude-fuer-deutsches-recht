@@ -13,7 +13,7 @@ description: "Überstunden Arbeitszeitkonto Stundenkonto Auszahlung. Anwendungsf
 
 ## Kernsachverhalt
 
-Ueberstunden koennen im Arbeitszeitkonto angesammelt und durch Freizeit oder Auszahlung abgebaut werden. Bei Auszahlung sind sie regulaerer Arbeitslohn (LSt-pflichtig, SV-pflichtig). Bei Auflosung (z.B. Beschaeftigungsende) erfolgt Abrechnung der noch offenen Stunden. Das Arbeitszeitkonto bedarf einer schriftlichen Vereinbarung (Arbeitsvertrag, Tarifvertrag, Betriebsvereinbarung) und sollte begrenzt sein (z.B. max. 120 Stunden Plus).
+Ueberstunden können im Arbeitszeitkonto angesammelt und durch Freizeit oder Auszahlung abgebaut werden. Bei Auszahlung sind sie regulaerer Arbeitslohn (LSt-pflichtig, SV-pflichtig). Bei Auflosung (z.B. Beschaeftigungsende) erfolgt Abrechnung der noch offenen Stunden. Das Arbeitszeitkonto bedarf einer schriftlichen Vereinbarung (Arbeitsvertrag, Tarifvertrag, Betriebsvereinbarung) und sollte begrenzt sein (z.B. max. 120 Stunden Plus).
 
 ## Kaltstart-Rueckfragen
 
@@ -78,7 +78,7 @@ Ueberstunden koennen im Arbeitszeitkonto angesammelt und durch Freizeit oder Aus
 
 - Ausgleich in Lohnform: regulaere LSt und SV.
 - Bei Aufloesung Konto (Beschaeftigungsende): einmalige Auszahlung als sonstiger Bezug; LSt nach § 39b Abs. 3 EStG.
-- Fuenftel-Regelung § 34 EStG für reine Ueberstundenauszahlung in der Regel NICHT anwendbar — beschraenkt auf Entschaedigungen (§ 24 Nr. 1 EStG) und Verguetungen für mehrjaehrige Taetigkeiten. Bei Ueberstundenauszahlung ueber mehrere Jahre kann § 34 Abs. 2 Nr. 4 EStG ausnahmsweise greifen — Einzelfallpruefung.
+- Fuenftel-Regelung § 34 EStG für reine Ueberstundenauszahlung in der Regel NICHT anwendbar — beschraenkt auf Entschaedigungen (§ 24 Nr. 1 EStG) und Verguetungen für mehrjaehrige Taetigkeiten. Bei Ueberstundenauszahlung über mehrere Jahre kann § 34 Abs. 2 Nr. 4 EStG ausnahmsweise greifen — Einzelfallpruefung.
 
 ### Phase 6 — Wertguthaben-Vereinbarung (§ 7c SGB IV)
 
@@ -90,7 +90,7 @@ Ueberstunden koennen im Arbeitszeitkonto angesammelt und durch Freizeit oder Aus
 
 - Schriftliche Vereinbarung Arbeitszeitkonto ist Standard — sonst Konflikt bei Beendigung.
 - Bei Auflosung Konto bei Beschaeftigungsende: Auszahlung im gleichen Monat als regulaerer Lohn (keine Fuenftel-Regelung, da nicht Entschaedigung).
-- Bei langer Krankheit waehrend Konto-Stand: AG-Anspruch auf Verrechnung mit Krankheits-Entgeltfortzahlung in der Regel nicht moeglich.
+- Bei langer Krankheit waehrend Konto-Stand: AG-Anspruch auf Verrechnung mit Krankheits-Entgeltfortzahlung in der Regel nicht möglich.
 - MiLoG-Aufzeichnung 2 Jahre Pflicht.
 - StBVV: Konto-Fuehrung in Lohnpauschale; bei komplexen Auszahlungen Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Arbeitszeitkonto-Modul mit Soll-/Ist-Vergleich.

@@ -16,15 +16,15 @@ description: "UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA
 ## Mandantenfall
 
 - Deutsches Unternehmen hat UK-Tochter; Transaktion unter EU-Sanktionen erlaubt aber OFSI-Lizenz noetig?
-- Zahlung soll ueber britische Barclays-Korrespondenzbank laufen; UK-OFSI-Liste pruefen.
+- Zahlung soll über britische Barclays-Korrespondenzbank laufen; UK-OFSI-Liste prüfen.
 - UK-Tochter fragt ob sie nach Brexit weiter mit sanktionierter Person handeln darf wenn EU-Lizenz vorliegt.
 
 ## Erste Schritte
 
-1. Relevanz UK-Recht pruefen: UK-Entitaet UK-Bank oder UK-Buerger beteiligt?
+1. Relevanz UK-Recht prüfen: UK-Entitaet UK-Bank oder UK-Buerger beteiligt?
 2. UK-Konsolidierte-Sanktionsliste (OFSI) abrufen und mit EU-Konsolidierter-Liste abgleichen.
 3. Divergenzen dokumentieren: Personen nur in EU oder nur in UK gelistet.
-4. OFSI-Lizenzmechanismus pruefen falls Transaktion benoetigt wird.
+4. OFSI-Lizenzmechanismus prüfen falls Transaktion benoetigt wird.
 5. SAMLA 2018 Strafandrohungen und OFSI-Enforcement-Praxis bewerten.
 6. Koordination zwischen EU- und UK-Compliance des Konzerns sicherstellen.
 
@@ -46,7 +46,7 @@ description: "UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA
 
 ## Typische Fallstricke
 
-- UK folgt EU-Sanktionen nach Brexit nicht automatisch; zeitliche Divergenzen moeglich.
+- UK folgt EU-Sanktionen nach Brexit nicht automatisch; zeitliche Divergenzen möglich.
 - OFSI-Enforcement ist aktiv und verhängt Geldstrafen unabhaengig von EU-Entscheidungen.
 - SAMLA ermoeglicht UK eigene Sanktionsregimes unabhaengig von EU.
 - UK-Tochter unterliegt SAMLA; EU-Genehmigung entbindet nicht von OFSI-Pflichten.

@@ -42,7 +42,7 @@ description: "Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert 
 ## Antrag
 
 - Bei der Bank: Umwandlung in P-Konto.
-- Bescheinigung der Beratungsstelle ueber Unterhaltslast.
+- Bescheinigung der Beratungsstelle über Unterhaltslast.
 - Vollstreckungsgericht bei besonderem Bedarf.
 
 ## Wechselwirkung Insolvenzverfahren

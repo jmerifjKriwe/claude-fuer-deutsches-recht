@@ -45,14 +45,14 @@ Glaubwuerdigkeit der Person ist nicht Gegenstand der aussagepsychologischen Meth
 
 **Methodische Konsequenz.** Eine Aussage einer "glaubwuerdigen" Person kann unglaubhaft sein (z. B. weil suggestiv kontaminiert). Eine Aussage einer "unglaubwuerdigen" Person (z. B. mit Vorstrafen) kann glaubhaft sein. Der Schluss vom persönlichen Eindruck der Zeugin auf die Wahrheit der Aussage ist methodisch unzulaessig.
 
-**Begriffsverwirrung in der Praxis.** Tatrichter und Staatsanwaelte verwenden die Begriffe oft unscharf. "Der Zeuge wirkte glaubwuerdig" ist eine Aussage ueber die Person, die methodisch wenig taugt. Sie ersetzt nicht die Wuerdigung der Aussage selbst.
+**Begriffsverwirrung in der Praxis.** Tatrichter und Staatsanwaelte verwenden die Begriffe oft unscharf. "Der Zeuge wirkte glaubwuerdig" ist eine Aussage über die Person, die methodisch wenig taugt. Sie ersetzt nicht die Wuerdigung der Aussage selbst.
 
 ## Praktikertipps Verteidigung
 
-- **Vermengung adressieren.** Wenn der Tatrichter oder die StA "die Zeugin wirkt glaubwuerdig" oder "die Zeugin ist glaubwuerdig" sagt, replizieren: "Das ist eine Aussage ueber die Person, nicht ueber die Aussage. Die methodisch entscheidende Frage ist die Glaubhaftigkeit der Aussage."
+- **Vermengung adressieren.** Wenn der Tatrichter oder die StA "die Zeugin wirkt glaubwuerdig" oder "die Zeugin ist glaubwuerdig" sagt, replizieren: "Das ist eine Aussage über die Person, nicht über die Aussage. Die methodisch entscheidende Frage ist die Glaubhaftigkeit der Aussage."
 - **Trennung im eigenen Sprachgebrauch sichern.** In Schriftsaetzen und Plaedoyer konsequent die richtigen Begriffe verwenden — und einleitend die Trennung kurz erklaeren.
-- **Glaubwuerdigkeitspruefung nicht zur Beweiswuerdigung machen.** Vorstrafen der Zeugin, Persoenlichkeitsstoerungen u. dgl. sind Hilfsindizien. Sie ersetzen die methodische Pruefung der Aussage selbst nicht.
-- **Im Revisionsangriff: Begriffsfehler des Tatrichters ruegen.** Wenn die Urteilsgruende sich im Wesentlichen auf den Eindruck der Zeugin stuetzen, ohne die Aussage methodisch zu pruefen, ist die Beweiswuerdigung luckenhaft.
+- **Glaubwuerdigkeitspruefung nicht zur Beweiswuerdigung machen.** Vorstrafen der Zeugin, Persoenlichkeitsstoerungen u. dgl. sind Hilfsindizien. Sie ersetzen die methodische Prüfung der Aussage selbst nicht.
+- **Im Revisionsangriff: Begriffsfehler des Tatrichters ruegen.** Wenn die Urteilsgruende sich im Wesentlichen auf den Eindruck der Zeugin stuetzen, ohne die Aussage methodisch zu prüfen, ist die Beweiswuerdigung luckenhaft.
 - **Glaubwuerdigkeit nicht ueberbewerten.** Auch wenn die Person der Zeugin "glaubwuerdig" wirkt — der Anschein traegt methodisch nicht.
 
 ## Trade-off-Matrix
@@ -66,15 +66,15 @@ Glaubwuerdigkeit der Person ist nicht Gegenstand der aussagepsychologischen Meth
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer trennen Sie die Begriffe explizit: "Es ist zu unterscheiden zwischen der Glaubwuerdigkeit der Person und der Glaubhaftigkeit der Aussage. Die Glaubwuerdigkeit der Zeugin steht hier ausdruecklich nicht in Frage. Sie ist eine ordentliche Person, ohne erkennbare Motivation zur Falschbeschuldigung. Aber das ist nicht die methodisch entscheidende Frage. Die Frage ist, ob die Aussage selbst die Anforderungen an die Glaubhaftigkeit erfuellt. Und hier zeigt die methodische Pruefung [Realkennzeichen / Konstanz / Aussagegenese], dass [Befund]."
+Im Plaedoyer trennen Sie die Begriffe explizit: "Es ist zu unterscheiden zwischen der Glaubwuerdigkeit der Person und der Glaubhaftigkeit der Aussage. Die Glaubwuerdigkeit der Zeugin steht hier ausdruecklich nicht in Frage. Sie ist eine ordentliche Person, ohne erkennbare Motivation zur Falschbeschuldigung. Aber das ist nicht die methodisch entscheidende Frage. Die Frage ist, ob die Aussage selbst die Anforderungen an die Glaubhaftigkeit erfuellt. Und hier zeigt die methodische Prüfung [Realkennzeichen / Konstanz / Aussagegenese], dass [Befund]."
 
 ## Mustertexte
 
 **Mustersatz für Schriftsatz:**
-"Die Anklageschrift fuehrt aus, die Zeugin sei glaubwuerdig. Hierzu ist methodisch klarzustellen: Glaubwuerdigkeit ist eine Eigenschaft der Person und ersetzt nicht die Pruefung der Glaubhaftigkeit der Aussage. Glaubhaftigkeit wird nach aussagepsychologischer Methodik anhand der Aussageentstehung, der Aussagekonstanz und der Realkennzeichen geprueft (vgl. BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164)."
+"Die Anklageschrift fuehrt aus, die Zeugin sei glaubwuerdig. Hierzu ist methodisch klarzustellen: Glaubwuerdigkeit ist eine Eigenschaft der Person und ersetzt nicht die Prüfung der Glaubhaftigkeit der Aussage. Glaubhaftigkeit wird nach aussagepsychologischer Methodik anhand der Aussageentstehung, der Aussagekonstanz und der Realkennzeichen geprueft (vgl. BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164)."
 
 **Mustersatz für Plaedoyer:**
-"Wenn das Gericht den Eindruck haben sollte, die Zeugin sei eine glaubwuerdige Person, ist dies nachvollziehbar. Es ist jedoch methodisch nicht das Pruefkriterium. Massgeblich ist die Glaubhaftigkeit der Aussage, und diese ist nach der Hypothesen-gegen-Hypothesen-Methode des BGH zu pruefen. Die Methode verlangt, dass alle plausiblen Alternativen ausgeschlossen werden — Suggestion, Falscherinnerung, Motivation. Diese Alternativen sind hier nicht ausgeschlossen. Damit ist die Verurteilung nicht zu tragen."
+"Wenn das Gericht den Eindruck haben sollte, die Zeugin sei eine glaubwuerdige Person, ist dies nachvollziehbar. Es ist jedoch methodisch nicht das Pruefkriterium. Massgeblich ist die Glaubhaftigkeit der Aussage, und diese ist nach der Hypothesen-gegen-Hypothesen-Methode des BGH zu prüfen. Die Methode verlangt, dass alle plausiblen Alternativen ausgeschlossen werden — Suggestion, Falscherinnerung, Motivation. Diese Alternativen sind hier nicht ausgeschlossen. Damit ist die Verurteilung nicht zu tragen."
 
 ## Quellen Stand 06/2026
 

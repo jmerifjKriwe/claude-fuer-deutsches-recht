@@ -345,7 +345,7 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 
 ## Paragrafenkette Insolvenzgeld
 
-§ 165 SGB III (Anspruchsvoraussetzungen) → § 166 SGB III (Hoehe) → § 167 SGB III (Vorfinanzierung) → § 168 SGB III (Erloesch-Gruende) → § 26 InsO (Abweisung mangels Masse als Insolvenzereignis) → § 113 InsO (Kuendigungsrecht des IV)
+§ 165 SGB III (Anspruchsvoraussetzungen) → § 166 SGB III (Höhe) → § 167 SGB III (Vorfinanzierung) → § 168 SGB III (Erloesch-Gruende) → § 26 InsO (Abweisung mangels Masse als Insolvenzereignis) → § 113 InsO (Kuendigungsrecht des IV)
 
 ## Triage — Insolvenzgeld
 

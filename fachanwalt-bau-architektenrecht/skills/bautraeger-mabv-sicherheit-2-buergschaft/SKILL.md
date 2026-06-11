@@ -20,7 +20,7 @@ description: "MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft: Ski
 
 ## Norm
 
-§ 2 MaBV (in Verbindung mit § 7 MaBV): Bautraeger kann statt Zahlung nach Baufortschritt (§ 3 MaBV) eine **Sicherheit** in Hoehe der gesamten Vertragssumme stellen. Erwerber zahlt dann gegen die Sicherheit.
+§ 2 MaBV (in Verbindung mit § 7 MaBV): Bautraeger kann statt Zahlung nach Baufortschritt (§ 3 MaBV) eine **Sicherheit** in Höhe der gesamten Vertragssumme stellen. Erwerber zahlt dann gegen die Sicherheit.
 
 ## Anforderungen Buergschaft
 
@@ -33,7 +33,7 @@ description: "MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft: Ski
 ## Bestaetigung
 
 - Originalbuergschaft an Erwerber ausgehaendigt.
-- Pruefen: Vollstaendigkeit Wortlaut Auszahlung.
+- Prüfen: Vollstaendigkeit Wortlaut Auszahlung.
 
 ## Verstoss
 
@@ -42,7 +42,7 @@ description: "MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft: Ski
 
 ## Praxistipp
 
-- Konkret pruefen: Wer ist Versicherer / Bank? Bonitaet?
+- Konkret prüfen: Wer ist Versicherer / Bank? Bonitaet?
 - Inkraftsetzung der Buergschaft mit Vertragsunterzeichnung.
 
 ## Pruefraster
@@ -50,5 +50,5 @@ description: "MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft: Ski
 1. Buergschaft vorhanden?
 2. Aussteller bonitaet?
 3. Wortlaut korrekt (selbstschuldnerisch unbedingt unbefristet)?
-4. Hoehe = Vertragssumme?
+4. Höhe = Vertragssumme?
 5. Vorlage an Erwerber?

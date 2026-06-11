@@ -12,7 +12,7 @@ Dieses Anschluss-Routing für **Immobilienrechtspraxis** wählt nach dem ersten 
 ## Fachlandkarte dieses Plugins
 
 - `betriebskostenabrechnung-erstellen-asset-management` — Betriebskostenabrechnung Erstellen Asset Management
-- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Pruefen Asset Management
+- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Prüfen Asset Management
 - `case-gegen-grundbuchanalyse` — Case Gegen Grundbuchanalyse
 - `case-management-grundbuchanalyse-immo` — Case Management Grundbuchanalyse Immo
 - `gegen-verhandlung-vergleich-und-eskalation` — Gegen Verhandlung Vergleich und Eskalation

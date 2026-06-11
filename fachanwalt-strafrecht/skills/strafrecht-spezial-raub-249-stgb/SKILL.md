@@ -20,7 +20,7 @@ description: "Raub nach § 249 StGB: Grundtatbestand. Wegnahme einer fremden bew
 
 ## Worum geht es
 
-§ 249 StGB ist der **Grundtatbestand des Raubes** – die Wegnahme einer fremden beweglichen Sache mit Gewalt oder Drohung. Der Raub ist ein zweiaktiges Delikt mit einer Gewaltanwendung **und** einer Wegnahme, die in einem **Finalzusammenhang** stehen muessen.
+§ 249 StGB ist der **Grundtatbestand des Raubes** – die Wegnahme einer fremden beweglichen Sache mit Gewalt oder Drohung. Der Raub ist ein zweiaktiges Delikt mit einer Gewaltanwendung **und** einer Wegnahme, die in einem **Finalzusammenhang** stehen müssen.
 
 Strafrahmen § 249 Abs. 1 StGB: Freiheitsstrafe nicht unter einem Jahr (bis 15 Jahre). Minder schwerer Fall § 249 Abs. 2 StGB: Freiheitsstrafe von sechs Monaten bis zu fuenf Jahren. Versuch ist strafbar (Verbrechen § 12 Abs. 1 StGB).
 
@@ -65,15 +65,15 @@ In der Praxis ist die Abgrenzung **Raub vs. raeuberische Erpressung (§§ 253, 2
 - **Zueignungsabsicht:** Wollte der Taeter die Sache dauerhaft behalten? Bei Wegnahme zur Bestrafung des Opfers oder zur Beweissicherung scheidet Zueignungsabsicht aus.
 - **Gewaltbegriff:** Bei Wegreissen einer Tasche aus der Hand des Opfers – nach staendiger BGH-Rechtsprechung Gewalt nur, wenn nennenswerter Widerstand zu ueberwinden ist (sonst Trickdiebstahl oder Handtaschenraub-Streit).
 - **§ 21 StGB:** Alkohol, Affekt, Drogen.
-- **Versuch:** Ruecktritt nach § 24 StGB pruefen.
+- **Versuch:** Ruecktritt nach § 24 StGB prüfen.
 - **§ 249 Abs. 2 StGB (minder schwerer Fall):** Bei geringen Werten, Erstmaligkeit, Geststaendnis.
 
 ## Trade-off-Matrix
 
 - **Schweigen vs. Aussage:** Bei strittigem Tatablauf kann Aussage des Beschuldigten Tatabschnitte und Finalzusammenhang erschuettern.
-- **Geststaendnis:** Strafmilderungsgrund. Bei Geststaendnis und Schadenswiedergutmachung Bewaehrung auch bei Strafe ueber einem Jahr denkbar (im minder schweren Fall).
+- **Geststaendnis:** Strafmilderungsgrund. Bei Geststaendnis und Schadenswiedergutmachung Bewaehrung auch bei Strafe über einem Jahr denkbar (im minder schweren Fall).
 - **Glaubwuerdigkeit:** Aussage gegen Aussage; Konsistenz der Aussage des Geschaedigten und Wahrnehmungslage zur Tat (Dunkelheit, Stress, Alkohol).
-- **Nebenklage:** § 395 StPO – Nebenklage durch Geschaedigte regelmaessig zulaessig.
+- **Nebenklage:** § 395 StPO – Nebenklage durch Geschaedigte regelmaessig zulässig.
 
 ## Konkurrenzen
 
@@ -91,7 +91,7 @@ In der Praxis ist die Abgrenzung **Raub vs. raeuberische Erpressung (§§ 253, 2
 - **Minder schwerer Fall § 249 Abs. 2 StGB:** Freiheitsstrafe von sechs Monaten bis zu fuenf Jahren.
 - **Versuch:** § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB. Strafrahmen drei Monate bis elf Jahre und drei Monate.
 - **§ 49 StGB:** Strafrahmenverschiebung bei § 21 StGB, § 46a StGB.
-- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsaetzlich moeglich (Abs. 2 oder Strafrahmenverschiebung).
+- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsätzlich möglich (Abs. 2 oder Strafrahmenverschiebung).
 - **§ 46 StGB:** Brutalitaet, Tatfolgen, Geststaendnis.
 
 ## Mustertexte

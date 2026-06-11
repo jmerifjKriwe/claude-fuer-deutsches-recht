@@ -3,7 +3,7 @@ name: bodenreformland-anspruchspfad-pruefen
 description: "Einigungsvertrag und Vermögensrecht: Bodenreformland: Anspruchspfad prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Bodenreformland Anspruchspfad Pruefen
+# Bodenreformland Anspruchspfad Prüfen
 
 ## Arbeitsweg
 

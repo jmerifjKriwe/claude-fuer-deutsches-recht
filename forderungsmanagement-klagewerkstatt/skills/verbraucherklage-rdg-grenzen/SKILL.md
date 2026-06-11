@@ -26,7 +26,7 @@ Wenn Glaeubiger ein gewerblicher Inkassodienstleister ist gelten besondere Grenz
 
 ## Inkassokosten bei Verbrauchern
 
-RDG 13c hat die Hoehe gedeckelt. Bei Forderungen bis 50 Euro maximal vierundzwanzig Komma drei Euro. Bei groesseren Forderungen Schwellen nach Streitwert. Pauschale 40 Euro BGB 288 Abs. 5 gilt nicht im Verhaeltnis zu Verbrauchern.
+RDG 13c hat die Höhe gedeckelt. Bei Forderungen bis 50 Euro maximal vierundzwanzig Komma drei Euro. Bei groesseren Forderungen Schwellen nach Streitwert. Pauschale 40 Euro BGB 288 Abs. 5 gilt nicht im Verhaeltnis zu Verbrauchern.
 
 ## AGB-Kontrolle in Verbrauchervertraegen
 
@@ -39,7 +39,7 @@ RDG 13c hat die Hoehe gedeckelt. Bei Forderungen bis 50 Euro maximal vierundzwan
 
 | Konstellation | Empfehlung |
 |---|---|
-| Inkasso ohne klare RDG-Registrierung | erst Klagefreigabe pruefen |
+| Inkasso ohne klare RDG-Registrierung | erst Klagefreigabe prüfen |
 | Verbraucher hat Schluessigkeit bestritten | Substanzpruefung vorm Mahnbescheid |
 | Schuldner ist Verbraucher mit Wohnsitzwechsel ins Ausland | Brüssel Ia VO Verbrauchergerichtsstand |
 

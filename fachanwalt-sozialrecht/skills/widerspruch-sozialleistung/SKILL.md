@@ -109,14 +109,14 @@ Das Postmodernisierungsgesetz (PostModG) hat die Bekanntgabefiktion von drei auf
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Widerspruch gegen Sozialleistungsbescheid | Widerspruchsschreiben mit Begruendungsankuendigung; Template unten |
 | Variante A — Mandant will sofortige Zahlung (kein langer Widerspruch) | Eilantrag § 86b SGG statt oder neben Widerspruch |
 | Variante B — Bestandskraeftiger Bescheid | § 44 SGB X Rücknahmeantrag statt Widerspruch |
-| Variante C — Verfahrensmangel (Anhörung fehlte) | Formeller Widerspruch wegen § 24 SGB X; materiell pruefen |
+| Variante C — Verfahrensmangel (Anhörung fehlte) | Formeller Widerspruch wegen § 24 SGB X; materiell prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -263,7 +263,7 @@ Mit freundlichen Grüßen
 [Fachanwalt/-anwältin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

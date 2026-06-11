@@ -25,7 +25,7 @@ description: "Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungs
 ## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Allgemeines und Wirtschaftsstrafrecht, in denen eine prozessuale Einigung sinnvoll erscheint.
-- Typische Konstellationen: Verstaendigung gemaess § 257c StPO, Einstellung gemaess § 153 oder § 153a StPO, Adhaesionsvergleich (§§ 403 bis 406c StPO), Taeter-Opfer-Ausgleich (§ 46a StGB), Schadenswiedergutmachung als Strafzumessungsfaktor.
+- Typische Konstellationen: Verstaendigung gemäß § 257c StPO, Einstellung gemäß § 153 oder § 153a StPO, Adhaesionsvergleich (§§ 403 bis 406c StPO), Taeter-Opfer-Ausgleich (§ 46a StGB), Schadenswiedergutmachung als Strafzumessungsfaktor.
 - Sowohl im Ermittlungsverfahren (Einstellung gegen Auflage durch StA) als auch im Zwischen- und Hauptverfahren (Verstaendigung mit Gericht und Staatsanwaltschaft).
 
 ## Vorbereitung der Verhandlung
@@ -55,33 +55,33 @@ Strafrechtsspezifische Interessen-Cluster:
 - Schadenswiedergutmachung / Zahlung an Verletzte oder gemeinnuetzige Einrichtung als Auflage bei § 153a StPO.
 - Beweisantraege als verfahrensoekonomischer Hebel (Erkenntnis: lange Beweisaufnahme oder Abkuerzung mit Strafmilderung).
 - Keine Druckdrohung mit Klage einreichen - das ist im Strafverfahren strukturell unzutreffend; die Anklage ist Sache der Staatsanwaltschaft, nicht des Verteidigers.
-- Strenge Grenzen aus § 257c StPO: keine Verstaendigung ueber Schuldspruch, keine punktgenaue Strafe sondern Strafrahmen, Belehrung gemaess § 257c Abs. 5 StPO.
+- Strenge Grenzen aus § 257c StPO: keine Verstaendigung über Schuldspruch, keine punktgenaue Strafe sondern Strafrahmen, Belehrung gemäß § 257c Abs. 5 StPO.
 
-## Ablauf einer Verstaendigung gemaess § 257c StPO
+## Ablauf einer Verstaendigung gemäß § 257c StPO
 
 ### Vorbereitung
 
 - Vorgespraech mit Gericht und Staatsanwaltschaft (§ 257b StPO) - bereits Inhalt und Verlauf werden in Hauptverhandlung mitgeteilt (§ 243 Abs. 4 StPO).
-- Protokoll- und Mitteilungspflicht beachten - sonst Verfahrensruege gemaess § 273 Abs. 1a StPO.
+- Protokoll- und Mitteilungspflicht beachten - sonst Verfahrensruege gemäß § 273 Abs. 1a StPO.
 - Mandantin oder Mandant umfassend belehren: Bindungswirkung, Wegfall der Bindung (§ 257c Abs. 4 StPO), Rechtsmittelverzicht ausgeschlossen (§ 302 Abs. 1 S. 2 StPO).
 
 ### Kernpunkte des Verstaendigungs-Vorschlags
 
 1. Geplanter Strafrahmen (Ober- und Untergrenze - keine Punktstrafe).
 2. Geplantes Gestaendnis (Inhalt und Reichweite, nicht erkaufbar).
-3. Sonstige Verfahrensschritte (Einstellung weiterer Tatvorwuerfe gemaess § 154 oder § 154a StPO, Beweisanregungen).
-4. Nebenfolgen (Einziehung, Berufsverbot, Fuehrerschein) - sind nicht primaer Gegenstand, koennen aber besprochen werden.
+3. Sonstige Verfahrensschritte (Einstellung weiterer Tatvorwuerfe gemäß § 154 oder § 154a StPO, Beweisanregungen).
+4. Nebenfolgen (Einziehung, Berufsverbot, Fuehrerschein) - sind nicht primaer Gegenstand, können aber besprochen werden.
 5. Rechtsfolgenausspruch: Bewaehrung, Geldstrafe, Tagessatzhoehe.
 
 ### Endspiel
 
 - Hauptverhandlung: Mitteilung der Vorgespraeche (§ 243 Abs. 4 StPO).
 - Vorschlag des Gerichts (§ 257c Abs. 3 StPO), Zustimmung Angeklagte/r + StA.
-- Belehrung gemaess § 257c Abs. 5 StPO durch Vorsitzende/n.
+- Belehrung gemäß § 257c Abs. 5 StPO durch Vorsitzende/n.
 - Gestaendnis, Beweisaufnahme im verbleibenden Umfang.
 - Urteil im verstaendigten Strafrahmen.
 
-## Einstellung gemaess § 153a StPO
+## Einstellung gemäß § 153a StPO
 
 ### Auflagen-Katalog (§ 153a Abs. 1 S. 2 StPO)
 
@@ -90,7 +90,7 @@ Strafrechtsspezifische Interessen-Cluster:
 - Gemeinnuetzige Leistungen.
 - Unterhaltspflichten erfuellen.
 - Teilnahme an sozialem Trainingskurs / Aufbauseminar / Verkehrsunterricht.
-- Bemuehung um TOA gemaess § 46a StGB.
+- Bemuehung um TOA gemäß § 46a StGB.
 
 ### Praxis
 
@@ -111,19 +111,19 @@ Strafrechtsspezifische Interessen-Cluster:
 
 ### Skript 1: Eroeffnung Verstaendigungs-Vorgespraech (§ 257b StPO)
 
-> Frau Vorsitzende, wir regen ein Vorgespraech gemaess § 257b StPO an. Mandantschaft waere bereit, ein qualifiziertes Gestaendnis zum Tatvorwurf gemaess § X StGB abzulegen. Aus unserer Sicht waere ein Strafrahmen zwischen Y und Z Tagessaetzen zu 30 Euro mit Bewaehrung sachgerecht. Wie sieht das Gericht den Strafrahmen?
+> Frau Vorsitzende, wir regen ein Vorgespraech gemäß § 257b StPO an. Mandantschaft waere bereit, ein qualifiziertes Gestaendnis zum Tatvorwurf gemäß § X StGB abzulegen. Aus unserer Sicht waere ein Strafrahmen zwischen Y und Z Tagessaetzen zu 30 Euro mit Bewaehrung sachgerecht. Wie sieht das Gericht den Strafrahmen?
 
 ### Skript 2: § 153a-Anregung im Ermittlungsverfahren
 
-> Sehr geehrte Frau Staatsanwaltschaft, mit Blick auf die geringe Schuld und das einmalige Versagen meiner Mandantschaft regen wir eine Einstellung gemaess § 153a Abs. 1 StPO gegen Zahlung von X Euro an die Staatskasse und Y Euro Schadenswiedergutmachung an die Verletzte an. Mandantschaft bestaetigt die Tat im Innenverhaeltnis, hat den Schaden vollstaendig kompensiert und besucht freiwillig einen Aufbauseminar.
+> Sehr geehrte Frau Staatsanwaltschaft, mit Blick auf die geringe Schuld und das einmalige Versagen meiner Mandantschaft regen wir eine Einstellung gemäß § 153a Abs. 1 StPO gegen Zahlung von X Euro an die Staatskasse und Y Euro Schadenswiedergutmachung an die Verletzte an. Mandantschaft bestaetigt die Tat im Innenverhaeltnis, hat den Schaden vollstaendig kompensiert und besucht freiwillig einen Aufbauseminar.
 
 ### Skript 3: Adhaesions-Vergleichsvorschlag
 
-> Wir bieten der Nebenklage eine Schmerzensgeldzahlung in Hoehe von X Euro an, zahlbar in vier Monatsraten ab Rechtskraft, im Gegenzug zur Zustimmung zur Verstaendigung gemaess § 257c StPO. Wir regen die Protokollierung als Vergleich gemaess § 405 StPO an.
+> Wir bieten der Nebenklage eine Schmerzensgeldzahlung in Höhe von X Euro an, zahlbar in vier Monatsraten ab Rechtskraft, im Gegenzug zur Zustimmung zur Verstaendigung gemäß § 257c StPO. Wir regen die Protokollierung als Vergleich gemäß § 405 StPO an.
 
 ### Skript 4: Ablehnungs-Signal bei unangemessenem Vorschlag
 
-> Wir koennen dem vorgeschlagenen Strafrahmen nicht zustimmen. Mandantschaft wird in der Hauptverhandlung Beweisantraege gemaess § 244 Abs. 3 StPO stellen, insbesondere zur Glaubhaftigkeit der Belastungszeugin und zur Schuldfaehigkeit. Wir gehen davon aus, dass das Gericht im Anschluss zu einer milderen Bewertung kommt.
+> Wir können dem vorgeschlagenen Strafrahmen nicht zustimmen. Mandantschaft wird in der Hauptverhandlung Beweisantraege gemäß § 244 Abs. 3 StPO stellen, insbesondere zur Glaubhaftigkeit der Belastungszeugin und zur Schuldfaehigkeit. Wir gehen davon aus, dass das Gericht im Anschluss zu einer milderen Bewertung kommt.
 
 ## Stoerfeuer und Antwort-Bausteine
 
@@ -134,7 +134,7 @@ Strafrechtsspezifische Interessen-Cluster:
 
 ## Grenzen der Absprache
 
-- Keine Verstaendigung ueber Schuldspruch (§ 257c Abs. 2 S. 3 StPO).
+- Keine Verstaendigung über Schuldspruch (§ 257c Abs. 2 S. 3 StPO).
 - Keine Punktstrafe (§ 257c Abs. 3 StPO - nur Strafrahmen).
 - Kein Rechtsmittelverzicht durch Verstaendigung (§ 302 Abs. 1 S. 2 StPO).
 - Wegfall der Bindung bei Aenderung der Sach- oder Rechtslage (§ 257c Abs. 4 StPO).
@@ -144,8 +144,8 @@ Strafrechtsspezifische Interessen-Cluster:
 ## Pflicht-Output
 
 1. **Verhandlungs-Memo** mit BATNA / WATNA, Verhandlungskorridor, Strategie.
-2. **Vorschlag-Entwurf** (Verstaendigungs-Skizze gemaess § 257c StPO oder § 153a-Anregung an StA).
-3. **Mandanten-Belehrung schriftlich** ueber Bindungswirkung, Wegfall und Rechtsmittelverzicht.
+2. **Vorschlag-Entwurf** (Verstaendigungs-Skizze gemäß § 257c StPO oder § 153a-Anregung an StA).
+3. **Mandanten-Belehrung schriftlich** über Bindungswirkung, Wegfall und Rechtsmittelverzicht.
 4. **Adhaesions-Memo** falls Nebenklage / Verletzte/r Anspruch geltend macht.
 5. **Auflagen-Erfuellungsplan** bei § 153a-Einstellung.
 
@@ -153,7 +153,7 @@ Strafrechtsspezifische Interessen-Cluster:
 
 - [ ] Akteneinsicht abgeschlossen
 - [ ] Beweismittel der Anklage durchgearbeitet
-- [ ] Mandantschaft hat ueber Verstaendigung und Folgen schriftlich belehrt
+- [ ] Mandantschaft hat über Verstaendigung und Folgen schriftlich belehrt
 - [ ] BATNA und WATNA stehen
 - [ ] Strafzumessungs-Recherche (BGH-Linie, Strafzumessungs-Kommentar) gemacht
 - [ ] Adhaesion / Nebenklage geprueft
@@ -164,7 +164,7 @@ Strafrechtsspezifische Interessen-Cluster:
 - `erstgespraech-mandatsannahme` (im selben Plugin) für Mandatsannahme und Erstprognose.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für Schriftsaetze, wenn Verstaendigung scheitert.
 - `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` (im selben Plugin) für die formale Verstaendigung.
-- `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) für Adhaesion und Vergleich gemaess § 405 StPO.
+- `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) für Adhaesion und Vergleich gemäß § 405 StPO.
 - `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) für Verhandlungen mit Nebenklage.
 
 ## Aktuelle Rechtsprechung Verstaendigung / Einigung

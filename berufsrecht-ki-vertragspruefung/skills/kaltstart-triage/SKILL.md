@@ -5,7 +5,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Berufsrecht KI Vertrags
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Berufsrecht Ki Vertragspruefung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Berufsrecht Ki Vertragspruefung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -120,32 +120,32 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `gutachten-erstellen` | Erstelle das zusammenfassende Vorprüfungs-Gutachten zum KI-Anbietervertrag. Aufbau Eingangsdaten Norm-Adapter Prüfpunkte Erforderlichkeit Verschwiegenheit Belehrung Subunternehmer Strafprozess TOM Drittstaat… |
 | `klauselvorschlaege` | Liefere konkrete Mustertexte für Vertragsklauseln mit dem KI-Anbieter. Bausteine Verschwiegenheit Belehrung §§ 203 204 StGB Subunternehmer no training Zero-Retention EU-Hosting Audit-Recht Löschkonzept Professional… |
 | `parallelnormen-andere-berufe` | Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende.… |
-| `rueckfragebrief-an-anbieter` | Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klaerung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und… |
+| `rueckfragebrief-an-anbieter` | Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klärung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und… |
 | `strafprozessuale-regelung-pruefen` | Prüfe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirkenden Personen Beschlagnahmeverbot für Mandatsdaten Widerspruchspflicht des Dienstleisters bei… |
 | `strafrechtliche-belehrung-pruefen` | Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstleisterregelung. Pflichtinhalte § 203 Absatz eins drei vier und sechs StGB und § 204 StGB.… |
 | `subunternehmer-regelung-pruefen` | Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste… |
-| `tom-und-zertifizierungen-pruefen` | Prüfe technische und organisatorische Massnahmen des KI-Anbieters und seine Zertifizierungen. Maßstab Art. 32 DS-GVO ISO 27001 BSI C5 (Cloud Computing Compliance Criteria Catalogue) SOC zwei Typ zwei TISAX. Zentral für… |
+| `tom-und-zertifizierungen-pruefen` | Prüfe technische und organisatorische Maßnahmen des KI-Anbieters und seine Zertifizierungen. Maßstab Art. 32 DS-GVO ISO 27001 BSI C5 (Cloud Computing Compliance Criteria Catalogue) SOC zwei Typ zwei TISAX. Zentral für… |
 | `verschwiegenheitsklausel-pruefen` | Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstleisterregelung (§§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (§ 126b… |
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt Anwälte, Steuerberater, Wirtschaftsprüfer, Patentanwälte und Notare bei der berufsrechtlichen und strafrechtlichen Pruefung von Verträgen mit privaten Legal-AI-Anbietern. Der Einsatz von KI-Diensten in Kanzleien unterliegt strengen berufsrechtlichen Vorgaben, insbesondere den Verschwiegenheitspflichten und den gesetzlichen Dienstleister-Regelungen der jeweiligen Berufsordnung.
+Dieses Plugin unterstuetzt Anwälte, Steuerberater, Wirtschaftsprüfer, Patentanwälte und Notare bei der berufsrechtlichen und strafrechtlichen Prüfung von Verträgen mit privaten Legal-AI-Anbietern. Der Einsatz von KI-Diensten in Kanzleien unterliegt strengen berufsrechtlichen Vorgaben, insbesondere den Verschwiegenheitspflichten und den gesetzlichen Dienstleister-Regelungen der jeweiligen Berufsordnung.
 
 Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen und der Pflicht, Mandatsdaten vor unberechtigtem Zugriff zu schuetzen. § 203 StGB stellt die unbefugte Offenbarung von Berufsgeheimnissen unter Strafe; die berufsrechtlichen Normen verpflichten Kanzleien, Dienstleister explizit zu belehren und vertraglich auf Verschwiegenheit zu verpflichten.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie prufen erstmals einen Vertrag mit einem KI-Anbieter und benoetigen einen strukturierten Pruefrahmen für Ihren Berufsstand.
-- Ein KI-Dienstleister hat seinen Server in den USA und Sie wollen pruefen, ob der US CLOUD Act oder FISA ein Risiko darstellt.
+- Ein KI-Dienstleister hat seinen Server in den USA und Sie wollen prüfen, ob der US CLOUD Act oder FISA ein Risiko darstellt.
 - Sie moechten einen Rueckfragebrief an den Anbieter schreiben, um fehlende Vertragsklauseln zu Verschwiegenheit, Subunternehmern und Datenloeschung nachzufordern.
 - Sie sollen ein zusammenfassendes Gutachten für die Kanzleifuehrung erstellen, bevor ein KI-Tool eingefuehrt wird.
-- Ihr Kanzleiteam nutzt bereits ein KI-Tool und Sie wollen rueckwirkend pruefen, ob alle berufsrechtlichen Anforderungen erfuellt sind.
+- Ihr Kanzleiteam nutzt bereits ein KI-Tool und Sie wollen rueckwirkend prüfen, ob alle berufsrechtlichen Anforderungen erfuellt sind.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **§ 203 StGB** — Strafvorschrift zum Schutz von Privatgeheimnissen; erfasst Berufsgeheimnisraeger wie Anwälte, Aerzte und Steuerberater.
 - **Dienstleister-Regelung** — Berufsgruppenspezifische Norm (z. B. § 43e BRAO), die Kanzleien verpflichtet, KI-Anbieter auf Verschwiegenheit zu verpflichten und zu belehren.
-- **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; laeuft parallel zur berufsrechtlichen Pruefung, ersetzt diese aber nicht.
+- **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; laeuft parallel zur berufsrechtlichen Prüfung, ersetzt diese aber nicht.
 - **No-Training-Klausel** — Vertragliche Zusage des Anbieters, Mandatsdaten nicht zum Trainieren von KI-Modellen zu verwenden.
 - **Zero-Retention** — Zusage, Daten nicht dauerhaft zu speichern; relevant für Loeschkonzept und Audit-Rechte.
 - **Cloud Act** — US-amerikanisches Gesetz, das US-Behörden Zugriff auf bei US-Unternehmen gespeicherte Daten ermoeglichen kann, auch wenn Server in der EU stehen.
@@ -162,46 +162,46 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 - § 203 Abs. 1 Abs. 3 Abs. 4 und Abs. 6 StGB — Verletzung von Privatgeheimnissen
 - § 204 StGB — Verwertung fremder Geheimnisse
 - Art. 28 DSGVO — Auftragsverarbeitung
-- Art. 32 DSGVO — Technisch-organisatorische Massnahmen
+- Art. 32 DSGVO — Technisch-organisatorische Maßnahmen
 - §§ 53a 97 StPO — Zeugnisverweigerungsrecht und Beschlagnahmeverbot
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Berufsstand und Anbieter im Kaltstart-Interview erfassen; Norm-Adapter bestimmen.
-2. Erforderlichkeit der Offenlegung von Mandatsdaten pruefen und dokumentieren.
+2. Erforderlichkeit der Offenlegung von Mandatsdaten prüfen und dokumentieren.
 3. Verschwiegenheitsklausel im Vertrag lokalisieren und bewerten.
-4. Subunternehmer-Regelung, strafrechtliche Belehrung und TOM pruefen.
+4. Subunternehmer-Regelung, strafrechtliche Belehrung und TOM prüfen.
 5. Drittstaat-Risiko (US CLOUD Act, Nicht-EU-Hosting) einschaetzen; ggf. Rueckfragebrief versenden und Gutachten erstellen.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `avv-grenzpruefung-datenschutz` — Pruefen ob AVV nach Art. 28 DSGVO die berufsrechtliche Pruefung ersetzt (tut er nicht).
+- `avv-grenzpruefung-datenschutz` — Prüfen ob AVV nach Art. 28 DSGVO die berufsrechtliche Prüfung ersetzt (tut er nicht).
 - `berufsrecht-ki-vertragspruefung-kaltstart-interview` — Berufsstand, Anbieter, Vertragsdokument und Normen erfassen; Norm-Adapter aktivieren.
-- `cloud-act-und-drittstaat-pruefen` — Auslandsbezug und Drittstaatrisiko (US CLOUD Act, FISA) pruefen; Professional Secrecy Addendum empfehlen.
-- `erforderlichkeit-dokumentieren` — Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenueber dem KI-Dienstleister pruefen und dokumentieren.
+- `cloud-act-und-drittstaat-pruefen` — Auslandsbezug und Drittstaatrisiko (US CLOUD Act, FISA) prüfen; Professional Secrecy Addendum empfehlen.
+- `erforderlichkeit-dokumentieren` — Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenueber dem KI-Dienstleister prüfen und dokumentieren.
 - `gutachten-erstellen` — Zusammenfassendes Berufsrechts-Gutachten zum KI-Anbietervertrag erstellen.
 - `klauselvorschlaege` — Mustertexte für Vertragsklauseln zu Verschwiegenheit, No-Training, Zero-Retention und Subunternehmern liefern.
 - `parallelnormen-andere-berufe` — Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger mit Mapping der Dienstleisterregelungen.
 - `rueckfragebrief-an-anbieter` — Strukturierten Rueckfragebrief an den KI-Anbieter zu offenen berufsrechtlichen Punkten erstellen.
-- `strafprozessuale-regelung-pruefen` — Strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO pruefen.
-- `strafrechtliche-belehrung-pruefen` — Belehrung des Dienstleisters ueber § 203 StGB im Vertrag pruefen.
-- `subunternehmer-regelung-pruefen` — Subunternehmerklausel auf Zustimmungsvorbehalt, Weiterverpflichtung und Belehrung pruefen.
-- `tom-und-zertifizierungen-pruefen` — TOM und Zertifizierungen des Anbieters (ISO 27001, BSI C5, SOC 2) pruefen.
+- `strafprozessuale-regelung-pruefen` — Strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO prüfen.
+- `strafrechtliche-belehrung-pruefen` — Belehrung des Dienstleisters über § 203 StGB im Vertrag prüfen.
+- `subunternehmer-regelung-pruefen` — Subunternehmerklausel auf Zustimmungsvorbehalt, Weiterverpflichtung und Belehrung prüfen.
+- `tom-und-zertifizierungen-pruefen` — TOM und Zertifizierungen des Anbieters (ISO 27001, BSI C5, SOC 2) prüfen.
 - `verschwiegenheitsklausel-pruefen` — Vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit lokalisieren und bewerten.
 
 ## Worauf besonders achten
 
 - **Berufsrecht und Datenschutzrecht laufen parallel**: Ein vorhandener AVV erfuellt nicht automatisch die berufsrechtlichen Anforderungen nach § 43e BRAO und den Parallelvorschriften.
-- **Textformerfordernis**: Die Verschwiegenheitspflicht muss nach § 43e Abs. 3 BRAO in Textform (§ 126b BGB) vereinbart werden; muendliche Zusagen genuegen nicht.
-- **Subunternehmer oft uebersehen**: Viele KI-Anbieter nutzen Sprachmodelle grosser US-Konzerne als Subunternehmer; diese muessen ebenfalls verpflichtet werden.
+- **Textformerfordernis**: Die Verschwiegenheitspflicht muss nach § 43e Abs. 3 BRAO in Textform (§ 126b BGB) vereinbart werden; muendliche Zusagen genügen nicht.
+- **Subunternehmer oft uebersehen**: Viele KI-Anbieter nutzen Sprachmodelle großer US-Konzerne als Subunternehmer; diese müssen ebenfalls verpflichtet werden.
 - **Drittstaatrisiko eigenstaendig bewerten**: EU-Sitz des Anbieters genuegt nicht, wenn Muttergesellschaft in den USA dem Cloud Act unterliegt.
 - **Strafrechtliche Konsequenzen**: Ein Verstoss gegen § 203 StGB ist eine Straftat, keine Ordnungswidrigkeit.
 
 ## Typische Fehler
 
-- Nur den AVV pruefen und berufsrechtliche Parallelvorschriften uebersehen.
-- Subunternehmerliste nicht anfordern; Anbieter setzt grosse Sprachmodelle ein, ohne dies offenzulegen.
-- Vertrag ohne No-Training-Zusage annehmen; Mandatsdaten koennen in KI-Training einfliessen.
+- Nur den AVV prüfen und berufsrechtliche Parallelvorschriften uebersehen.
+- Subunternehmerliste nicht anfordern; Anbieter setzt große Sprachmodelle ein, ohne dies offenzulegen.
+- Vertrag ohne No-Training-Zusage annehmen; Mandatsdaten können in KI-Training einfliessen.
 - Erforderlichkeit der Datenweitergabe nicht dokumentieren; interner Compliance-Vermerk fehlt.
 - US-Anbieter mit EU-Rechenzentrum als unbedenklich eingestuft, ohne Cloud-Act-Analyse.
 

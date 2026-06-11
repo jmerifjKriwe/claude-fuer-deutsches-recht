@@ -33,17 +33,17 @@ Skill für Mandanten, deren Dienstherr eine vorläufige Dienstenthebung und ggf.
 
 ### b) Verfahren
 - Dienstherr verfuegt die vorläufige Dienstenthebung.
-- Antrag nach § 63 BDG beim Verwaltungsgericht gegen die Massnahme moeglich.
+- Antrag nach § 63 BDG beim Verwaltungsgericht gegen die Maßnahme möglich.
 
 ### c) Einbehalt von Dienstbezuegen
 - Bis zur Haelfte der monatlichen Dienstbezuege; im Einzelfall bis zu Vollbetrag bei voraussichtlicher Entfernung.
 - Beruecksichtigung Unterhaltspflichten.
 
 ### d) Verhaeltnis zum Strafverfahren
-- Vorlaeufige Dienstenthebung ist unabhaengig vom Strafverfahren moeglich; Vorermittlungen und Beweisaufnahme im Strafverfahren beeinflussen aber die Prognose der Entfernung.
+- Vorlaeufige Dienstenthebung ist unabhaengig vom Strafverfahren möglich; Vorermittlungen und Beweisaufnahme im Strafverfahren beeinflussen aber die Prognose der Entfernung.
 
 ### e) Folgen für Bezuege und Beihilfe
-- Beihilfeberechtigung bleibt grundsaetzlich erhalten.
+- Beihilfeberechtigung bleibt grundsätzlich erhalten.
 - Versorgung wird nur bei rechtskraeftiger Entfernung aus dem Beamtenverhaeltnis beeinflusst.
 
 ## 4. Quellenpflicht
@@ -68,4 +68,4 @@ Skill für Mandanten, deren Dienstherr eine vorläufige Dienstenthebung und ggf.
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Polizeihauptkommissar, in Untersuchungshaft wegen Verdachts der Bestechlichkeit (§ 332 StGB). Dienstherr enthebt vom Dienst und behaelt 50 v. H. der Bezuege ein. Skill liefert Antrag § 63 BDG mit Hinweis auf Unterhaltspflichten und Pruefung der Prognose.
+Mandant Polizeihauptkommissar, in Untersuchungshaft wegen Verdachts der Bestechlichkeit (§ 332 StGB). Dienstherr enthebt vom Dienst und behaelt 50 v. H. der Bezuege ein. Skill liefert Antrag § 63 BDG mit Hinweis auf Unterhaltspflichten und Prüfung der Prognose.

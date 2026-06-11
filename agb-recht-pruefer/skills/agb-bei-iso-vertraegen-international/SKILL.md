@@ -7,7 +7,7 @@ description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-re
 
 ## Fachkern: Agb Bei Iso Vertraegen International
 
-- **Klauselproblem (Agb Bei Iso Vertraegen International):** AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-rechtliche Pruefung internationaler Vertragsmuster ICC FIDIC ISDA AIA und ihre Anpassung an deutsches Recht. Klaert die Wechselwirkung mit Rom-I und ordre public. Behandelt typische Klauseln zur Streitbeilegung Lieferung Zahlung.
+- **Klauselproblem (Agb Bei Iso Vertraegen International):** AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-rechtliche Prüfung internationaler Vertragsmuster ICC FIDIC ISDA AIA und ihre Anpassung an deutsches Recht. Klaert die Wechselwirkung mit Rom-I und ordre public. Behandelt typische Klauseln zur Streitbeilegung Lieferung Zahlung.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -20,7 +20,7 @@ description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-re
 - ISDA Master Agreement (Derivate).
 - AIA-Bedingungen (US-Bau).
 
-## AGB-Rechtliche Pruefung
+## AGB-Rechtliche Prüfung
 
 - Standardmuster sind AGB im Sinne § 305 BGB, soweit für Vielzahl von Vertraegen.
 - Spannungsverhaeltnis zwischen branchenueblicher Anwendbarkeit und deutscher AGB-Kontrolle.
@@ -72,6 +72,6 @@ description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-re
 
 ### Anwendung im Skill
 
-- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
+- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge prüfen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klären.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
-- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG prüfen; modifizierte UE statt voreiliger Unterzeichnung.

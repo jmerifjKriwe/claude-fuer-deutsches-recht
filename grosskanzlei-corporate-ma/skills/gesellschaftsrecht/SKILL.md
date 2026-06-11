@@ -106,7 +106,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welche Gesellschaftsformen sind beteiligt — GmbH, AG, KGaA, GmbH & Co. KG, SE?
 2. Liegt ein aktueller HR-Auszug (nicht aelter als 1 Woche) für Zielgesellschaft, Kaeufer und Verkaeufer vor?
 3. Stimmt die Gesellschafterliste im HR-Auszug mit der SPA-Parteistellung ueberein?
-4. Liegen die massgeblichen Beschluesse (Gesellschafterversammlung, AR-Beschluss, Hauptversammlungsbeschluss) für die Transaktion vor?
+4. Liegen die massgeblichen Beschlüsse (Gesellschafterversammlung, AR-Beschluss, Hauptversammlungsbeschluss) für die Transaktion vor?
 5. Sind Vertretungsbefugnisse (Einzelvertretung, Gesamtvertretung, Prokura) geklart und aktuell?
 6. Transparenzregister geprueft — stimmt der eingetragene wirtschaftlich Berechtigte mit Datenraum und Signing-Parteien ueberein?
 
@@ -115,7 +115,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 8 GmbHG — Inhalt der Handelsregisteranmeldung; Notarielle Beurkundungspflicht
 - § 10 GmbHG — Bekanntmachung im Handelsregister; Wirksamkeit nach Eintragung
 - § 15 Abs. 3 GmbHG — Abtretung von GmbH-Anteilen: notarielle Beurkundungspflicht; bei Verstoß Nichtigkeit
-- § 16 GmbHG — Legitimation des Gesellschafters: massgeblich ist Gesellschafterliste; gutglaeubiger Erwerb moeglich
+- § 16 GmbHG — Legitimation des Gesellschafters: massgeblich ist Gesellschafterliste; gutglaeubiger Erwerb möglich
 - § 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung: Einreichung durch Notar oder Geschaeftsfuehrer binnen eines Monats
 - § 76 AktG — Vertretungsmacht des Vorstands; Prokura §§ 48-53 HGB
 - § 19 GwG i.V.m. § 20 TranspRG — Transparenzregisterpflicht; Meldung des wirtschaftlich Berechtigten
@@ -129,18 +129,18 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **HR-Auszug abrufen:** aktuellen Handelsregisterauszug HRB/HRA für alle beteiligten Gesellschaften (nicht aelter als 1 Woche vor Signing); Abgleich mit SPA-Parteibezeichnungen
-2. **Gesellschafterliste pruefen:** Eintrag im HR mit Datenraum-Gesellschafterliste, SPA-Garantien und Transaktionsstruktur abgleichen; Divergenzen → Red Flag
-3. **Satzungscheck:** aktuell geltende Satzung im Datenraum; Genehmigungspflichten (Vinkulierung, Zustimmungsvorbehalte AR, § 111 Abs. 4 AktG) pruefen
-4. **Beschluesse pruefen:** alle für die Transaktion relevanten Beschluesse (Gesellschafterversammlungs-Protokoll, AR-Beschluss, Board-Resolution) auf Beschlussfaehigkeit, Mehrheitserfordernis und Form pruefen
-5. **Vertretungsmacht klaren:** Zeichnungsberechtigung, Prokura-Eintrag, In-sich-Geschaeft-Befreiung (§ 181 BGB), Gesamtvertretung
-6. **Transparenzregister:** wirtschaftlich Berechtigte gemaess § 3 GwG pruefen; Eintrag aktuell? Nach Closing-Meldepflicht innerhalb 2 Wochen (§ 20 TranspRG)
+2. **Gesellschafterliste prüfen:** Eintrag im HR mit Datenraum-Gesellschafterliste, SPA-Garantien und Transaktionsstruktur abgleichen; Divergenzen → Red Flag
+3. **Satzungscheck:** aktuell geltende Satzung im Datenraum; Genehmigungspflichten (Vinkulierung, Zustimmungsvorbehalte AR, § 111 Abs. 4 AktG) prüfen
+4. **Beschlüsse prüfen:** alle für die Transaktion relevanten Beschlüsse (Gesellschafterversammlungs-Protokoll, AR-Beschluss, Board-Resolution) auf Beschlussfaehigkeit, Mehrheitserfordernis und Form prüfen
+5. **Vertretungsmacht klaren:** Zeichnungsberechtigung, Prokura-Eintrag, In-sich-Geschäft-Befreiung (§ 181 BGB), Gesamtvertretung
+6. **Transparenzregister:** wirtschaftlich Berechtigte gemäß § 3 GwG prüfen; Eintrag aktuell? Nach Closing-Meldepflicht innerhalb 2 Wochen (§ 20 TranspRG)
 7. **Closing Deliverables ableiten:** Gesellschafterliste neu (§ 40 GmbHG), HR-Anmeldungen, Notartermin, Beglaubigungen
 8. **Corporate-Approval-Tabelle erstellen:** je Partei: Gremium, Beschlussdatum, Mehrheit, Form, Vollmacht
 
 ## Entscheidungsbaum
 
 - GmbH-Anteilsuebertragung → § 15 Abs. 3 GmbHG Notarpflicht → ohne Notar: nichtig
-- Vinkulierung in Satzung → Zustimmungspflicht pruefen → fehlt: Unwirksamkeit der Uebertragung
+- Vinkulierung in Satzung → Zustimmungspflicht prüfen → fehlt: Unwirksamkeit der Uebertragung
 - AR-Genehmigungsvorbehalt § 111 Abs. 4 AktG → Board Resolution ausreichend? → ggf. AR-Sonderbeschluss erforderlich
 - Transparenzregisterdivergenz → Meldepflicht § 20 TranspRG nach Closing → Frist 2 Wochen
 

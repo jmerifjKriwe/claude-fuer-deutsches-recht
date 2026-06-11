@@ -13,7 +13,7 @@ description: "Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Fina
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Geht es um Tatsachen die nicht weiter aufklaerbar sind — sonst keine tatsaechliche Verstaendigung zulaessig?
+1. Geht es um Tatsachen die nicht weiter aufklaerbar sind — sonst keine tatsaechliche Verstaendigung zulässig?
 2. Wer ist auf Behördenseite zuständig (Sachgebietsleiter oder Vorsteher)?
 3. Ist die Mandantenposition rechtlich durchsetzbar oder Schaetzungsrisiko hoch?
 4. Soll die Verstaendigung mit oder ohne Vorbehalt der Nachpruefung getroffen werden?
@@ -26,7 +26,7 @@ description: "Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Fina
 - **§ 162 AO** — Schaetzung von Besteuerungsgrundlagen.
 - **§ 201 AO** — Schlussbesprechung; haeufig Vehikel der Verstaendigung.
 - **§ 204 AO** — verbindliche Zusage; rechtsverbindliche Auspraegung.
-- **Bindungswirkung** — entwickelt durch Rechtsprechung; nur ueber gravierende Aenderungen aufhebbar.
+- **Bindungswirkung** — entwickelt durch Rechtsprechung; nur über gravierende Aenderungen aufhebbar.
 
 ## Aktuelle Rechtsprechung
 

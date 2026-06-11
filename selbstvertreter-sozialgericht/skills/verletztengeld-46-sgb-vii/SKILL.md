@@ -15,10 +15,10 @@ description: "Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzunge
 
 § 45 ff. SGB VII: Verletztengeld bei Arbeitsunfaehigkeit infolge eines Arbeitsunfalls oder einer Berufskrankheit.
 
-## Hoehe § 47 SGB VII
+## Höhe § 47 SGB VII
 
 - 80 Prozent des Regelarbeitsentgelts (Bruttoarbeitsentgelt mit Hinzuverdienst).
-- Hoehere Hoehe als Krankengeld (70 Prozent).
+- Hoehere Höhe als Krankengeld (70 Prozent).
 
 ## Beginn
 

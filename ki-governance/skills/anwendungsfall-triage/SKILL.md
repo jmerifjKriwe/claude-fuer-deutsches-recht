@@ -7,7 +7,7 @@ description: "Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Un
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Anwendungsfall Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Ki Governance** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Anwendungsfall Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Ki Governance** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -168,8 +168,8 @@ Betriebsrat einbeziehen; Offenlegung ggü. Bewerber:innen (Art. 13 DSGVO).
 ## Triage zu Beginn
 1. Was tut die KI genau — assistierend, augmentierend oder vollautomatisiert?
 2. Sind Betroffene schutzbeduertige Gruppen (Minderjaerige, Arbeitnehmer, Kreditnehmer)?
-3. Liegt eine Hochrisiko-Kategorie nach Anhang III KI-VO vor (Nr. 1-8 pruefen)?
-4. Ist eine vollautomatisierte Einzelentscheidung mit Rechtswirkung moeglich (Art. 22 DSGVO)?
+3. Liegt eine Hochrisiko-Kategorie nach Anhang III KI-VO vor (Nr. 1-8 prüfen)?
+4. Ist eine vollautomatisierte Einzelentscheidung mit Rechtswirkung möglich (Art. 22 DSGVO)?
 5. Besteht ein § 87 Abs. 1 Nr. 6 BetrVG-Mitbestimmungsrecht (Mitarbeiterbewertung)?
 
 ## Output-Template — Triage-Ergebnis KI-Anwendungsfall

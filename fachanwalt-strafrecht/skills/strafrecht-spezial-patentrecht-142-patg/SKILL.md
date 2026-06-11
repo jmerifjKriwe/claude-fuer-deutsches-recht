@@ -14,7 +14,7 @@ description: "Strafbarkeit der Patentverletzung Paragraph 142 PatG: Vorsaetzlich
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Strafbarkeit der Patentverletzung Paragraph 142 PatG. Vorsaetzliche Verletzung des Patentschutzes. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Qualifikation gewerbsmaessig bis 5 Jahre. Antragsdelikt. Praxis selten Strafverfahren typischerweise zivilrechtlich. Verteidigung Patentbestand Aequivalent Erschoepfung Vorsatz. Abgrenzung zu Gebrauchsmuster Paragraph 25 GebrMG.
+**Fokus:** Strafbarkeit der Patentverletzung Paragraph 142 PatG. Vorsaetzliche Verletzung des Patentschutzes. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Qualifikation gewerbsmaessig bis 5 Jahre. Antragsdelikt. Praxis selten Strafverfahren typischerweise zivilrechtlich. Verteidigung Patentbestand Äquivalent Erschoepfung Vorsatz. Abgrenzung zu Gebrauchsmuster Paragraph 25 GebrMG.
 
 ### Strafbarkeit der Patentverletzung nach Paragraph 142 PatG
 
@@ -49,7 +49,7 @@ Privatklageweg Paragraph 374 StPO ist nach hM bei Paragraph 142 PatG eroeffnet (
 ## Praktikertipps der Verteidigung
 
 - **Patentbestand-Angriff (Nichtigkeitsklage parallel).** Patentstrafverfahren ist nur tragfaehig, wenn das Patent **gueltig** ist. Strafrechtlich ist die Rechtskraft des Patents Vorfrage; Verteidigung kann Nichtigkeitsklage beim Bundespatentgericht erheben oder anregen. Das Strafverfahren ist regelmaessig auszusetzen Paragraph 154d StPO bis zur Entscheidung im Patentstreit. **Verifizieren** der konkreten Norm und Praxis.
-- **Schutzbereich (Anspruchsauslegung).** Patentanspruch bestimmt den Schutzbereich (Paragraph 14 PatG). Auslegung nach Sicht des Fachmanns. Verteidigung muss Sachverstaendigengutachten zur Auslegung beantragen. Insbesondere Aequivalent-Verletzung (Paragraph 9 PatG iVm Doppelidentitaet vs. aequivalente Ausfuehrungsform) muss klar abgegrenzt werden.
+- **Schutzbereich (Anspruchsauslegung).** Patentanspruch bestimmt den Schutzbereich (Paragraph 14 PatG). Auslegung nach Sicht des Fachmanns. Verteidigung muss Sachverstaendigengutachten zur Auslegung beantragen. Insbesondere Äquivalent-Verletzung (Paragraph 9 PatG iVm Doppelidentitaet vs. aequivalente Ausfuehrungsform) muss klar abgegrenzt werden.
 - **Erschoepfungseinwand.** Bei Reimport von patentgeschuetzten Erzeugnissen aus EWR-Land: Patentrecht ist erschoepft, sofern Patentinhaber das Inverkehrbringen im EWR autorisiert hat. Reimport aus Drittstaaten ist nicht erschoepft.
 - **Mittelbare Patentverletzung Paragraph 10 PatG.** Strafrechtlich erfasst. Bei Lieferung von Mitteln, die zur Patentverletzung geeignet und bestimmt sind, ist auch Mittler strafbar. Vorsatzpruefung restriktiv: Mittler muss wissen, dass Mittel bestimmt ist.
 - **Vorsatz erschuettern.** Patentinhaber muss meist Abmahnung mit Patentangabe zugestellt haben. Erst danach ist Vorsatz regelmaessig zu bejahen. Vor Abmahnung typischerweise nur fahrlaessig (strafrechtlich nicht erfasst).
@@ -65,10 +65,10 @@ Paragraph 153a StPO Einstellung gegen Auflage in der Praxis oft Ausweg, sofern k
 
 ## Konkurrenzen
 
-- **Paragraph 142 PatG und Paragraph 25 GebrMG.** Gebrauchsmuster ist eigene Schutzform; bei paralleler Gebrauchsmuster-Eintragung Tateinheit moeglich.
+- **Paragraph 142 PatG und Paragraph 25 GebrMG.** Gebrauchsmuster ist eigene Schutzform; bei paralleler Gebrauchsmuster-Eintragung Tateinheit möglich.
 - **Paragraph 142 PatG und Paragraph 143 MarkenG.** Bei kombinierter Verletzung (Patentprodukt mit Originalmarke gefaelscht) Tateinheit.
-- **Paragraph 142 PatG und Paragraph 23 GeschGehG.** Bei Verwertung gestohlener technischer Entwicklungen, die ein Patent realisieren, Tateinheit moeglich; Paragraph 23 GeschGehG schuetzt Geheimhaltungsinteresse, Paragraph 142 PatG das Patent.
-- **Paragraph 142 PatG und Paragraph 263 StGB.** Bei Vortaeuschen einer Lizenz Tateinheit moeglich.
+- **Paragraph 142 PatG und Paragraph 23 GeschGehG.** Bei Verwertung gestohlener technischer Entwicklungen, die ein Patent realisieren, Tateinheit möglich; Paragraph 23 GeschGehG schuetzt Geheimhaltungsinteresse, Paragraph 142 PatG das Patent.
+- **Paragraph 142 PatG und Paragraph 263 StGB.** Bei Vortaeuschen einer Lizenz Tateinheit möglich.
 
 ## Strafzumessung
 
@@ -82,9 +82,9 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Umsatz aus Verletzungshandlung, Scha
 
 ## Mustertexte
 
-**Strafantrag-Snippet:** "Namens und mit Vollmacht meiner Mandantin, der X AG als Inhaberin des deutschen Patents DE [12345] (Anlage K1), stelle ich gemaess Paragraph 142 Abs 4 PatG iVm Paragraph 158 StPO Strafantrag wegen vorsaetzlicher Patentverletzung nach Paragraph 142 Abs 1 PatG. Das Patent wurde am DD.MM.JJJJ erteilt; der Schutzumfang erfasst die streitgegenstaendlichen Erzeugnisse Y (Anlage K2 Sachverstaendigengutachten). Die Mandantin hat den Beschuldigten mit Schreiben vom DD.MM.JJJJ (Anlage K3) abgemahnt; trotz Abmahnung erfolgte fortgesetzte Verletzung. Kenntnis von Tat und Taeter wurde am DD.MM.JJJJ erlangt; die Frist nach Paragraph 77b StGB ist gewahrt."
+**Strafantrag-Snippet:** "Namens und mit Vollmacht meiner Mandantin, der X AG als Inhaberin des deutschen Patents DE [12345] (Anlage K1), stelle ich gemäß Paragraph 142 Abs 4 PatG iVm Paragraph 158 StPO Strafantrag wegen vorsaetzlicher Patentverletzung nach Paragraph 142 Abs 1 PatG. Das Patent wurde am DD.MM.JJJJ erteilt; der Schutzumfang erfasst die streitgegenstaendlichen Erzeugnisse Y (Anlage K2 Sachverstaendigengutachten). Die Mandantin hat den Beschuldigten mit Schreiben vom DD.MM.JJJJ (Anlage K3) abgemahnt; trotz Abmahnung erfolgte fortgesetzte Verletzung. Kenntnis von Tat und Taeter wurde am DD.MM.JJJJ erlangt; die Frist nach Paragraph 77b StGB ist gewahrt."
 
-**Schutzschrift-Snippet:** "Das streitgegenstaendliche Patent DE [12345] ist nach Auffassung meiner Mandantin nicht rechtsbestaendig. Ich habe daher am DD.MM.JJJJ vor dem Bundespatentgericht Nichtigkeitsklage gemaess Paragraph 81 PatG erhoben. Es wird beantragt, das Strafverfahren bis zur rechtskraeftigen Entscheidung im Nichtigkeitsverfahren auszusetzen (Paragraph 154d StPO; bitte konkrete Norm verifizieren). Hilfsweise: Der Schutzbereich des Patents erfasst nach Auslegung gemaess Paragraph 14 PatG nicht das von meinem Mandanten gefertigte Erzeugnis; die technische Loesung weicht in mehreren Merkmalen ab. Beweis: Sachverstaendigengutachten."
+**Schutzschrift-Snippet:** "Das streitgegenstaendliche Patent DE [12345] ist nach Auffassung meiner Mandantin nicht rechtsbestaendig. Ich habe daher am DD.MM.JJJJ vor dem Bundespatentgericht Nichtigkeitsklage gemäß Paragraph 81 PatG erhoben. Es wird beantragt, das Strafverfahren bis zur rechtskraeftigen Entscheidung im Nichtigkeitsverfahren auszusetzen (Paragraph 154d StPO; bitte konkrete Norm verifizieren). Hilfsweise: Der Schutzbereich des Patents erfasst nach Auslegung gemäß Paragraph 14 PatG nicht das von meinem Mandanten gefertigte Erzeugnis; die technische Loesung weicht in mehreren Merkmalen ab. Beweis: Sachverstaendigengutachten."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten eines Patentanwalts mit Schwerpunkt Maschinenbau einzuholen zum Beweis der Tatsache, dass die streitgegenstaendliche Maschine Z des Beschuldigten nicht in den Schutzbereich des Patents DE [12345] faellt, weil das Merkmal A des Patentanspruchs 1 nicht (auch nicht in aequivalenter Form) verwirklicht ist."
 

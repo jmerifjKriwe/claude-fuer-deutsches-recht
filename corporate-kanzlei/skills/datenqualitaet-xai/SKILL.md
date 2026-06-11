@@ -33,7 +33,7 @@ description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat
 
 ## Prüfmatrix Datenqualitätskontrolle
 
-| Dimension | Prüffrage | Ampel | Massnahme bei Rot |
+| Dimension | Prüffrage | Ampel | Maßnahme bei Rot |
 |---|---|---|---|
 | Quellenursprung | Stammt Datum aus Primärquelle (Register, Jahresabschluss) oder Sekundärquelle (Zusammenfassung, Managementvorlage)? | Grün/Gelb/Rot | Primärquelle einholen oder Vorbehalt dokumentieren |
 | Aktualität | Ist Datenstand nicht älter als [6 Monate]? Stichtag bekannt? | Grün/Gelb/Rot | Verkäuferbestätigung anfordern; Bringschuld in SPA |

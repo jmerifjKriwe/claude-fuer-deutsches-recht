@@ -33,7 +33,7 @@ Arbeitnehmer A erfaehrt erst spaet von Betriebsuebergang; Unterrichtungsschreibe
 
 ## Arbeitsergebnis
 
-Mangelhafte Unterrichtung haelt Widerspruchsfrist offen; Widerspruch auch nach Jahren moeglich.
+Mangelhafte Unterrichtung haelt Widerspruchsfrist offen; Widerspruch auch nach Jahren möglich.
 
 ## Belege und Aktenlücken
 

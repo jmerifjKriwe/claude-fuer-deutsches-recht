@@ -3,7 +3,7 @@ name: bautraeger-rangruecktritt-grundpfandrechte
 description: "Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung: Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie..."
 ---
 
-# Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung
+# Rangrücktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung
 
 
 ## Arbeitsweg
@@ -14,33 +14,33 @@ description: "Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflass
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung für Erwerberschutz. Liefert Pruefraster.
+**Fokus:** Rangrücktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu prüfen ist. Bedeutung für Erwerberschutz. Liefert Pruefraster.
 
-### Bautraeger Rangruecktritt Grundpfandrechte
+### Bautraeger Rangrücktritt Grundpfandrechte
 
 ## Hintergrund
 
-Bautraeger finanziert das Bauvorhaben oft ueber Bankenkredit. Die finanzierende Bank verlangt erstrangige Grundschuld.
+Bautraeger finanziert das Bauvorhaben oft über Bankenkredit. Die finanzierende Bank verlangt erstrangige Grundschuld.
 
 ## Problem
 
 - Bankgrundschuld typischerweise vor der Vormerkung eingetragen.
 - Bei Insolvenz wuerde Bank vor Erwerber bedient.
 
-## Loesung Rangruecktritt
+## Loesung Rangrücktritt
 
 - Bank tritt mit ihrer Grundschuld im Rang hinter die Vormerkung des Erwerbers.
 - Erwerber hat dann Rang 1.
 
-## Pruefung
+## Prüfung
 
-- Im Notarvertrag muss der Rangruecktritt zugesagt sein.
+- Im Notarvertrag muss der Rangrücktritt zugesagt sein.
 - Rangruecktrittserklaerung der Bank vorlegen.
 - Im Grundbuch nachvollziehen.
 
 ## Pruefraster
 
 1. Bestehende Grundpfandrechte?
-2. Rangruecktritt vereinbart?
+2. Rangrücktritt vereinbart?
 3. Bank hat Erklaerung abgegeben?
 4. Eintragung im Grundbuch nachgewiesen?

@@ -39,7 +39,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Sachliche Zuständigkeit GVG:**
  - **Strafrichter § 25 GVG:** Privatklagen § 374 StPO; allgemein bis Freiheitsstrafe 2 Jahre, sofern nicht hoeher beantragt.
  - **Schoeffengericht § 28 GVG:** bis Freiheitsstrafe 4 Jahre; alle Strafsachen, die nicht zu hoher Strafkammer oder Strafrichter gehoeren.
- - **Grosse Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
+ - **Große Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
  - **Schwurgericht § 74 II GVG:** Toetungsdelikte §§ 211 ff. StGB, Eingriff in Verkehr mit Todesfolge.
  - **Oberlandesgericht § 120 GVG:** Staatsschutzdelikte (Hochverrat, Landesverrat, Terror).
 - **Oertliche Zuständigkeit StPO:**
@@ -47,7 +47,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **§ 8 StPO:** Wohnsitz Beschuldigter.
  - **§ 9 StPO:** Ergreifungsort.
  - **§ 13 StPO:** Verbundene Verfahren.
-- **Fristen-Uebersicht (StPO):**
+- **Fristen-Übersicht (StPO):**
  - **Einspruch Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung.
  - **Berufung § 314 StPO: 1 Woche** ab Verkuendung; Begruendung optional.
  - **Revision § 341 StPO: 1 Woche** Einlegung + § 345 StPO **1 Monat** Begruendung ab Zustellung schriftliche Urteilsausfertigung.
@@ -61,6 +61,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Begruendungs-Pflicht** Revision (Sach- oder Verfahrensruege; § 344 II StPO Substantiierung Verfahrensruege).
 - **Rechtsweg:**
  - AG -> LG (Berufung § 312 StPO) -> OLG (Revision § 333 StPO bei LG-Urteil 1. Instanz oder Berufungsurteil).
- - **Sprungrevision § 335 StPO** moeglich (Sprung Berufung).
+ - **Sprungrevision § 335 StPO** möglich (Sprung Berufung).
  - **Wiederaufnahme § 359 StPO** bei neuen Tatsachen / Beweismitteln.
 - **EMRK Art. 6:** angemessene Verfahrensdauer als Korrektiv (Strafmilderung BGH-Linie).

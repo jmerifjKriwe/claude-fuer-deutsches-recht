@@ -13,7 +13,7 @@ description: "Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung 
 
 ## Kernsachverhalt
 
-Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsbereich (Midi-Job) sind seit 01.10.2022 dynamisch an den Mindestlohn gekoppelt: Minijob-Grenze = 130-faches des Mindestlohnstundenlohns (~10 Wochenstunden). Bei jeder MiLo-Anhebung steigt die Minijob-Grenze. Der Steuerberater muss zu jedem Stichtag pruefen, welcher Wert aktuell gilt — Dokumentation in der Mandantenakte ist Pflicht.
+Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsbereich (Midi-Job) sind seit 01.10.2022 dynamisch an den Mindestlohn gekoppelt: Minijob-Grenze = 130-faches des Mindestlohnstundenlohns (~10 Wochenstunden). Bei jeder MiLo-Anhebung steigt die Minijob-Grenze. Der Steuerberater muss zu jedem Stichtag prüfen, welcher Wert aktuell gilt — Dokumentation in der Mandantenakte ist Pflicht.
 
 ## Kaltstart-Rueckfragen
 
@@ -22,7 +22,7 @@ Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsber
 3. Liegt die Minijob-Grenze auf Basis der MiLo-Berechnung vor?
 4. Wann erfolgt die naechste MiLo-Anpassung (Mindestlohnkommission, Bundesregierung)?
 5. Welche Mandanten haben Minijobs in Grenzregion?
-6. Sind Mandanten ueber Anpassungs-Termin informiert?
+6. Sind Mandanten über Anpassungs-Termin informiert?
 7. Liegen DATEV-Updates ein?
 8. Welche Sondervergueteungen verschieben Jahres-Durchschnitt?
 
@@ -36,7 +36,7 @@ Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsber
 
 **MiLoG** — Mindestlohngesetz.
 
-**§ 1 MiLoG** — Mindestlohn-Hoehe.
+**§ 1 MiLoG** — Mindestlohn-Höhe.
 
 **§ 4 MiLoG** — Anpassung durch Mindestlohnkommission / Verordnung.
 
@@ -58,7 +58,7 @@ Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsber
 | 01.01.2026 | 13,90 (MiLoV5 v. 05.11.2025, BGBl. 2025 I Nr. 268; Berichtigung Nr. 312) | 603 (= 13,90 × 130 / 3 = 602,33, kfm. gerundet 603; Minijob-Zentrale) |
 | 01.01.2027 | 14,60 (MiLoV5, gleiche Verordnung) | 633 (= 14,60 × 130 / 3 = 632,67, kfm. gerundet 633; gegenpruefen bei Minijob-Zentrale) |
 
-(Werte jaehrlich pruefen — Bundesgesetzblatt, Mindestlohnkommission, Minijob-Zentrale, DATEV-Updates.)
+(Werte jaehrlich prüfen — Bundesgesetzblatt, Mindestlohnkommission, Minijob-Zentrale, DATEV-Updates.)
 
 ### Phase 2 — Berechnungsformel
 
@@ -66,7 +66,7 @@ Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsber
 - Bei MiLo 12,41 EUR: 12,41 x 130 / 3 = 537,77 — Rundung auf 538 EUR.
 - Bei MiLo 12,82 EUR (2025): 12,82 x 130 / 3 = 556,20 — Rundung auf 556 EUR (Minijob-Grenze 2025).
 - Bei MiLo 13,90 EUR (2026): 13,90 x 130 / 3 = 602,33 — Rundung auf 603 EUR (Minijob-Grenze 2026; bestaetigt durch Minijob-Zentrale; Jahresgrenze 7.236 EUR).
-- Bei MiLo 14,60 EUR (2027): 14,60 x 130 / 3 = 632,67 — Rundung voraussichtlich auf 633 EUR (Pruefung Minijob-Zentrale empfohlen).
+- Bei MiLo 14,60 EUR (2027): 14,60 x 130 / 3 = 632,67 — Rundung voraussichtlich auf 633 EUR (Prüfung Minijob-Zentrale empfohlen).
 
 ### Phase 3 — Uebergangsbereich
 
@@ -83,7 +83,7 @@ Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsber
 ### Phase 5 — DATEV-Update
 
 - DATEV LODAS / Lohn und Gehalt liefert mit Update zum 1. Januar neue Werte.
-- Manuell pruefen, ob Update eingespielt.
+- Manuell prüfen, ob Update eingespielt.
 - Bei abweichendem Wirtschaftsjahr: Stichtag des MiLo-Datums beachten.
 
 ### Phase 6 — Dokumentation
@@ -97,7 +97,7 @@ Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsber
 - Mandanten mit Minijobs sind besonders empfindlich gegenueber MiLo-Erhoehungen — proaktive Beratung.
 - Bei drohendem Ueberschreiten Stundenreduktion empfehlen ODER Wechsel in regulaeres Arbeitsverhaeltnis (mit voller SV-Pflicht).
 - Mindestlohn-Verstoss: § 21 MiLoG Bussgeld bis 500.000 EUR.
-- Bei wesentlicher MiLo-Anhebung Anpassung der Stundenloehne im Mandantenbetrieb pruefen.
+- Bei wesentlicher MiLo-Anhebung Anpassung der Stundenloehne im Mandantenbetrieb prüfen.
 - StBVV: Informationsschreiben in Mandantenkommunikations-Pauschale oder Zusatzauftrag.
 - DATEV-Tipp: DATEV-Update jaehrlich zum 1. Januar zwingend einspielen.
 

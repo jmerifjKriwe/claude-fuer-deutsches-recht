@@ -25,15 +25,15 @@ description: "Designlizenzen nach DesignG (frueher GeschmacksmusterG): $ 31 Desi
 ## Klausel-Bausteine (DE)
 
 **1. Lizenzgegenstand Design:**
-> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Recht ein, die in **Anlage A** aufgefuehrten eingetragenen Designs ("Lizenzdesigns") fuer die Erzeugnisse [Produkte] im Territorium [Territorium] zu nutzen."
+> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Recht ein, die in **Anlage A** aufgefuehrten eingetragenen Designs ("Lizenzdesigns") für die Erzeugnisse [Produkte] im Territorium [Territorium] zu nutzen."
 
 **2. Eintragungs-/Verlaengerungs-Pflicht:**
 > "Der Lizenzgeber traegt die Verlaengerungsgebuehren der Lizenzdesigns und sorgt dafuer, dass der Schutz waehrend der Laufzeit dieses Vertrages aufrechterhalten wird."
 
 **3. Verletzungen Dritter:**
-> "Der Lizenznehmer informiert den Lizenzgeber unverzueglich ueber Kenntnisnahme von Designverletzungen Dritter. Die Verfolgung erfolgt durch den Lizenzgeber; bei nicht-Verfolgung erhaelt der Lizenznehmer ein subsidiaeres Klagerecht."
+> "Der Lizenznehmer informiert den Lizenzgeber unverzueglich über Kenntnisnahme von Designverletzungen Dritter. Die Verfolgung erfolgt durch den Lizenzgeber; bei nicht-Verfolgung erhaelt der Lizenznehmer ein subsidiaeres Klagerecht."
 
 ## Anschluss
 
 - IP-Identifikation: `ip-identifikation-und-bestandsaufnahme`
-- Verguetung: `klausel-verguetung-pauschale-royalty-tiered`
+- Vergütung: `klausel-verguetung-pauschale-royalty-tiered`

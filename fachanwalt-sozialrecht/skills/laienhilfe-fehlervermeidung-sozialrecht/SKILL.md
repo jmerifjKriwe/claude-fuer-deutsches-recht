@@ -81,8 +81,8 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - Falsche Behörde adressiert - z. B. Berufsgenossenschaft statt Krankenkasse.
 - **Beweissicherung:**
  - Atteste vor Begutachtung; konkrete Funktionsbeschreibung statt Diagnosen.
- - Pflegetagebuch ueber 14 Tage bei Pflegegrad (§§ 14, 15 SGB XI).
- - Kontoauszuege ueber 3 Monate für Vermoegen § 12 SGB II / III.
+ - Pflegetagebuch über 14 Tage bei Pflegegrad (§§ 14, 15 SGB XI).
+ - Kontoauszuege über 3 Monate für Vermögen § 12 SGB II / III.
  - Schweigepflichtentbindung für Aerzte schriftlich.
  - Mietvertrag/Nebenkostenabrechnung bei KdU.
 - **Hauptklippe Mitwirkung § 60 SGB I:** Versaeumnis kann zu Versagung / Entziehung fuehren § 66 SGB I; immer fristgemaess Unterlagen einreichen oder Verlaengerungsantrag stellen.

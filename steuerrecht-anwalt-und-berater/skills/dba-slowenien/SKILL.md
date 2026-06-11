@@ -35,7 +35,7 @@ Das DBA-Slowenien vom 03.05.2006 (BGBl. 2006 II S. 1091) regelt das Verhaeltnis 
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: Deutschland und Slowenien sind MLI-Unterzeichner; MLI-Anwendung auf das DBA-Slowenien ab VZ 2021 (aktuellen Stand beim BMF pruefen).
+- **MLI**: Deutschland und Slowenien sind MLI-Unterzeichner; MLI-Anwendung auf das DBA-Slowenien ab VZ 2021 (aktuellen Stand beim BMF prüfen).
 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-Slowenien sind selten; einschlaegig sind die allgemeinen BFH-Entscheidungen zur Belegenheits-Besteuerung bei Auslandsimmobilien.
@@ -68,11 +68,11 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 4. Vermeidungsmethode — Anrechnung ueberwiegend.
 5. Innerstaatliche Umsetzung — § 34c EStG; MTRL/ZinsLizenzRL vorrangig bei Verbund EU; § 50d Abs. 3 EStG bei Holding.
 
-BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbescheinigung der slowenischen FURS (Finančna uprava) als Anlage.
+BZSt-Verfahren: Freistellung/Erstattung § 50c EStG über BOP; Ansaessigkeitsbescheinigung der slowenischen FURS (Finančna uprava) als Anlage.
 
 ## Strategie und Praxis-Tipps
 
-- Slowenische Holding mit operativem Schwerpunkt Adria-Region: Substanz pruefen.
+- Slowenische Holding mit operativem Schwerpunkt Adria-Region: Substanz prüfen.
 - Tourismusimmobilien: Belegenheit Slowenien.
 - EU-MTRL bei Schachtel vorrangig.
 - DBA OECD-MA-konform — wenige Sonderfaelle.
@@ -84,11 +84,11 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 - **Lokaler Berater**: Bei slowenischer d.o.o. mit deutschem Anteilseigner Hinzuziehung eines slowenischen "davčni svetovalec" (Steuerberater); SI hat strenge Verrechnungspreis-Dokumentationspflichten.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten.
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
-- **SI-KSt 22 Prozent (Stand 2025, vom Anwender mit aktuellem slowenischem Steuerrecht zu verifizieren)**: ueber AStG-Niedrigsteuerschwelle 15 Prozent — keine CFC-Probleme.
+- **SI-KSt 22 Prozent (Stand 2025, vom Anwender mit aktuellem slowenischem Steuerrecht zu verifizieren)**: über AStG-Niedrigsteuerschwelle 15 Prozent — keine CFC-Probleme.
 - **Tourismusimmobilien Adria-Kueste (Piran, Portoroz)**: HR-Konkurrenz bei Belegenheitsbesteuerung; bei Vermietung Anlage V-AUS in DE.
-- **Holding-Substanz § 50d Abs. 3 EStG**: SI-Holding nur für Adria-Tourismus ohne operatives Geschaeft — Substanz dokumentieren.
+- **Holding-Substanz § 50d Abs. 3 EStG**: SI-Holding nur für Adria-Tourismus ohne operatives Geschäft — Substanz dokumentieren.
 - **EU-Mitglied seit 2004, Euro seit 2007**: lange EU-Integration; alle EU-Richtlinien voll anwendbar.
 - **MLI ab VZ 2021**: PPT-Klausel anwendbar — Treaty-Shopping versagt.
 
@@ -98,11 +98,11 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 |---|---|---|---|
 | Dividenden-Schachtel 25 vs. 10 Prozent | DBA-SI: 5 Prozent ab 25 Prozent Beteiligung | EU-MTRL: 0 Prozent ab 10 Prozent | EU-MTRL vorrangig — § 43b EStG |
 | Lizenzgebuehr 5 Prozent DBA vs. 0 Prozent EU | DBA-SI: 5 Prozent SI-QSt | EU-ZinsLizenzRL: 0 Prozent bei Verbundenheit, 25 Prozent Beteiligung, 2 Jahre | EU-ZinsLizenzRL vorrangig bei verbundenen Unternehmen |
-| Adria-Tourismusimmobilie in SI vs. HR | SI: 22 Prozent KSt nach SI-Recht, ueber AStG-Schwelle | HR: niedrigere Pauschalsteuer für Vermietung, EU-Mitgliedschaft seit 2013 | bei reiner Tourismusimmobilie HR oft guenstiger; bei operativer Hotel-Holding SI wegen EU-Reife und Substanz pragmatischer |
+| Adria-Tourismusimmobilie in SI vs. HR | SI: 22 Prozent KSt nach SI-Recht, über AStG-Schwelle | HR: niedrigere Pauschalsteuer für Vermietung, EU-Mitgliedschaft seit 2013 | bei reiner Tourismusimmobilie HR oft guenstiger; bei operativer Hotel-Holding SI wegen EU-Reife und Substanz pragmatischer |
 
 ## Berechnungsbeispiel
 
-DE-GmbH bezieht Lizenzgebuehr 30.000 EUR aus slowenischer d.o.o. (verbundenes Unternehmen, 100 Prozent Beteiligung, seit ueber 2 Jahren):
+DE-GmbH bezieht Lizenzgebuehr 30.000 EUR aus slowenischer d.o.o. (verbundenes Unternehmen, 100 Prozent Beteiligung, seit über 2 Jahren):
 
 - Ohne EU-ZinsLizenzRL: SI-QSt 5 Prozent nach Art. 12 DBA = 1.500 EUR; DE-Anrechnung nach § 34c EStG.
 - Mit EU-ZinsLizenzRL (§ 50g EStG bei Mindestbeteiligung 25 Prozent, Mindesthaltedauer 2 Jahre): 0 Prozent SI-QSt nach BZSt-Freistellungsbescheinigung; in DE volle Versteuerung.
@@ -113,11 +113,11 @@ Variante mit EU-ZinsLizenzRL spart 1.500 EUR SI-QSt und vermeidet Anrechnungsver
 
 ## Mandatsablauf in der Praxis
 
-1. **Aufnahme**: Mandantengespraech zur Konstellation (operatives Geschaeft vs. Holding; Tourismus-Adria vs. Mittelstand).
-2. **Strukturierung**: Pruefung Bestandsstrukturen und ggf. Anpassung (POEM, Substanz, Verrechnungspreise).
+1. **Aufnahme**: Mandantengespraech zur Konstellation (operatives Geschäft vs. Holding; Tourismus-Adria vs. Mittelstand).
+2. **Strukturierung**: Prüfung Bestandsstrukturen und ggf. Anpassung (POEM, Substanz, Verrechnungspreise).
 3. **Antraege**: Ansaessigkeitsbescheinigung FURS und ggf. EU-MTRL/EU-ZinsLizenzRL-Freistellung beim BZSt.
 4. **Laufende Compliance**: jaehrliche Erklaerung SI und DE; bei Holding Substanzdokumentation.
-5. **Audit-Vorbereitung**: bei SI-Pruefung sorgfaeltige Verrechnungspreisdokumentation; bei DE-FA-Pruefung § 50d Abs. 3 EStG-Substanznachweis.
+5. **Audit-Vorbereitung**: bei SI-Prüfung sorgfaeltige Verrechnungspreisdokumentation; bei DE-FA-Prüfung § 50d Abs. 3 EStG-Substanznachweis.
 6. **Schlussbescheid**: SI-FA gewaehrt Erstattung; DE-FA setzt nachversteuerten Resteuerbetrag fest; Verstaendigungsverfahren bei Auslegungsdifferenzen.
 
 ## Ausgabeformat für Mandanten-Memo Slowenien
@@ -143,6 +143,6 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Slow
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Slowenien 03.05.2006, in Kraft 19.12.2006 (BGBl. 2006 II S. 1091). Dividenden 5/25% Schachtel, sonst 15 Prozent; Zinsen 5 Prozent, Lizenzen 5 Prozent. MLI-Anwendung ab VZ 2021. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+Stand: 05/2026. DBA-Slowenien 03.05.2006, in Kraft 19.12.2006 (BGBl. 2006 II S. 1091). Dividenden 5/25% Schachtel, sonst 15 Prozent; Zinsen 5 Prozent, Lizenzen 5 Prozent. MLI-Anwendung ab VZ 2021. Aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 5 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2006 II S. 1091; Inkrafttreten 19.12.2006; MLI-Status; Quellensteuer-Saetze), 0 gestrichen -->

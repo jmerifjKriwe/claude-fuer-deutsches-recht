@@ -22,9 +22,9 @@ Das JobRad / Dienstrad ist ein vom AG geleastes Fahrrad oder E-Bike, das dem AN 
 3. Welcher Leasing-Vertragspartner (JobRad, Lease-a-bike, Eurorad)?
 4. Welche Vertragslaufzeit (typisch 36 Monate)?
 5. Liegt Uebernahme-Option am Vertragsende vor (Restwert-Auswirkung)?
-6. Ist das Rad ein E-Bike (S-Pedelec ueber 25 km/h = Kraftfahrzeug-Behandlung)?
+6. Ist das Rad ein E-Bike (S-Pedelec über 25 km/h = Kraftfahrzeug-Behandlung)?
 7. Liegt Vereinbarung der Privatnutzung schriftlich vor?
-8. Welche Pruefung im Konzern bzgl. Lohnumwandlung-Pflicht?
+8. Welche Prüfung im Konzern bzgl. Lohnumwandlung-Pflicht?
 
 ## Rechtlicher Rahmen
 
@@ -62,7 +62,7 @@ Das JobRad / Dienstrad ist ein vom AG geleastes Fahrrad oder E-Bike, das dem AN 
 - Vertragspartner: Bank/Leasinggesellschaft.
 - AG-Leasingrate aus Brutto-Gehalt umgewandelt (typisch 50-100 EUR/Monat).
 - AN-Vorteil: Brutto-Reduktion mit Steuerersparnis.
-- Vertragsende: AN-Uebernahme moeglich; Restwert (typisch 10 Prozent) muss als Vorteil versteuert werden.
+- Vertragsende: AN-Uebernahme möglich; Restwert (typisch 10 Prozent) muss als Vorteil versteuert werden.
 
 ### Phase 4 — Sonderfall S-Pedelec
 
@@ -70,7 +70,7 @@ Das JobRad / Dienstrad ist ein vom AG geleastes Fahrrad oder E-Bike, das dem AN 
 - Sachbezugs-Berechnung wie Dienstwagen: 1 Prozent vom Bruttolistenpreis (bei rein elektrisch und Listenpreis bis 70.000 EUR ggf. 0,25 Prozent — vgl. `stb-lohn-dienstwagen-1-prozent-fahrtenbuch`).
 - Plus 0,03 Prozent Wohnung-Arbeit pro Entfernungskilometer (anders als bei klassischem JobRad/Pedelec bis 25 km/h).
 
-### Phase 5 — Pruefung Gehaltsumwandlung
+### Phase 5 — Prüfung Gehaltsumwandlung
 
 - Verzicht auf laufende Vergueteung schriftlich vereinbart.
 - Auswirkung auf Mindestlohn-Pflicht: Brutto-Lohn nach Umwandlung muss MiLo erreichen.

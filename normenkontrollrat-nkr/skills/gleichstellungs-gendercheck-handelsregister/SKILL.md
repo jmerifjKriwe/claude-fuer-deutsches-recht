@@ -15,7 +15,7 @@ description: "Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und §
 
 ## Worum geht es konkret
 
-Nach BGleiG und GGO ist bei Bundesregelungsvorhaben eine **gleichstellungspolitische Folgenabschaetzung** durchzufuehren. Sie prueft, ob das Vorhaben auf Frauen und Maenner unterschiedliche Auswirkungen hat. Der NKR prueft die methodische Konsistenz mit dem Erfuellungsaufwand.
+Nach BGleiG und GGO ist bei Bundesregelungsvorhaben eine **gleichstellungspolitische Folgenabschaetzung** durchzufuehren. Sie prüft, ob das Vorhaben auf Frauen und Maenner unterschiedliche Auswirkungen hat. Der NKR prüft die methodische Konsistenz mit dem Erfuellungsaufwand.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -60,7 +60,7 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 
 - Ergebnis der Gleichstellungspruefung in der Begruendung
 - Quellen / Statistiken belegen
-- Massnahmen zur Förderung der Gleichstellung, soweit moeglich
+- Maßnahmen zur Förderung der Gleichstellung, soweit möglich
 
 ### 5. Hinweis im NKR-Stellungnahme
 
@@ -74,7 +74,7 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 - Statistiken nicht aufbereitet
 - Differenzielle Wirkung wird verschleiert
 - Erfuellungsaufwand-Darstellung methodisch inkonsistent mit Gleichstellung
-- Massnahmen zur Förderung fehlen, obwohl moeglich
+- Maßnahmen zur Förderung fehlen, obwohl möglich
 
 ## Trade-off-Matrix
 
@@ -83,23 +83,23 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 | Geschlechterdifferenzierte Daten | vorhanden | fehlen |
 | Wirkungsanalyse | konkret | pauschal |
 | Foerdermassnahmen | vorgesehen | nicht thematisiert |
-| Begruendungstiefe | nachvollziehbar | Schein-Pruefung |
+| Begruendungstiefe | nachvollziehbar | Schein-Prüfung |
 | Konsistenz mit Erfuellungsaufwand | gewahrt | inkonsistent |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Das Vorhaben adressiert [Personengruppe]. Die ressortseitige gleichstellungspolitische Folgenabschaetzung kommt zum Ergebnis, dass [Aussage]. Der NKR haelt die Darstellung für methodisch tragfaehig."
 - "Der NKR weist darauf hin, dass die Auswirkungen des Vorhabens auf Frauen und Maenner in der Begruendung nur qualitativ dargestellt sind. Eine geschlechterdifferenzierte Datengrundlage waere wuenschenswert."
-- "Der NKR sieht im Vorhaben keine erkennbar gleichstellungspolitisch relevanten Aspekte; die ressortseitige Pruefung gemaess § 2 GGO ist nachvollziehbar dokumentiert."
-- "Die geschlechterdifferenzierte Folgenabschaetzung ist nicht Gegenstand der Pruefung des NKR im engeren Sinne; soweit sie für die Konsistenz der Folgenabschaetzung relevant ist, wird sie kommentiert."
+- "Der NKR sieht im Vorhaben keine erkennbar gleichstellungspolitisch relevanten Aspekte; die ressortseitige Prüfung gemäß § 2 GGO ist nachvollziehbar dokumentiert."
+- "Die geschlechterdifferenzierte Folgenabschaetzung ist nicht Gegenstand der Prüfung des NKR im engeren Sinne; soweit sie für die Konsistenz der Folgenabschaetzung relevant ist, wird sie kommentiert."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
 - "Keine geschlechterdifferenzierten Auswirkungen erkennbar" als Pauschalformulierung
-- Pruefung nicht dokumentiert
+- Prüfung nicht dokumentiert
 - Statistiken nicht beigebracht
 - Unterschiedliche Betroffenheit nicht thematisiert
-- Foerdermassnahmen nicht erwogen, obwohl moeglich
+- Foerdermassnahmen nicht erwogen, obwohl möglich
 
 ## Quellen Stand 06/2026
 
@@ -110,4 +110,4 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 - EU Gleichstellungsstrategie (jeweils aktuelle Fortschreibung)
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.bmfsfj.de](https://www.bmfsfj.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.bmfsfj.de](https://www.bmfsfj.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

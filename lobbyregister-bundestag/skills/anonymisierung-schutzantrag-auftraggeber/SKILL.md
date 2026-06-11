@@ -24,7 +24,7 @@ description: "Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Int
 
 1. Welche Person oder Angabe soll nicht veroeffentlicht werden?
 2. Welche konkrete Gefahr oder Altfall-Konstellation liegt vor?
-3. Welche Nachweise koennen die Schutzbeduerftigkeit tragen?
+3. Welche Nachweise können die Schutzbeduerftigkeit tragen?
 
 ## Schutzantrag § 4 LobbyRG — Rechtsrahmen
 

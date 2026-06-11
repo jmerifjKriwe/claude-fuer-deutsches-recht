@@ -3,7 +3,7 @@ name: aussenwirtschaft-sanktionen-embargos
 description: "Ueberblick und Triage ueber EU-Sanktionen und Embargos: Russland (VO 833/2014 und 269/2014), Iran (VO 267/2012), Belarus (VO 765/2006), Nordkorea, Myanmar, Syrien. Bereitstellungsverbote, Sektorensanktionen, Finanzsanktionen und Reisebeschraenkungen. Output: Sanktionslage-Uebersicht und Erstbewer..."
 ---
 
-# EU-Sanktionen und Embargos: Triage und Sanktionslage-Uebersicht
+# EU-Sanktionen und Embargos: Triage und Sanktionslage-Übersicht
 
 ## Arbeitsweg
 
@@ -22,9 +22,9 @@ description: "Ueberblick und Triage ueber EU-Sanktionen und Embargos: Russland (
 ## Erste Schritte
 
 1. Sanktionsregime identifizieren: Land/Region, Rechtsgrundlage, Verordnung.
-2. EU-Finanzsanktionsliste (FSAP) und ggf. nationale Listen auf Parteien pruefen.
-3. Guetersanktionen pruefen: HS/KN-Code gegen Listen der relevanten Verordnung.
-4. Sektorsanktionen pruefen: Energie, Finanzsektor, Transport, Dienstleistungen.
+2. EU-Finanzsanktionsliste (FSAP) und ggf. nationale Listen auf Parteien prüfen.
+3. Guetersanktionen prüfen: HS/KN-Code gegen Listen der relevanten Verordnung.
+4. Sektorsanktionen prüfen: Energie, Finanzsektor, Transport, Dienstleistungen.
 5. Ausnahmen und Ausnahmegenehmigungen sichten: humanitaere Ausnahme, Altvertraege.
 6. Sanktionslage mit Datum protokollieren; Verordnung konsultiert.
 
@@ -50,7 +50,7 @@ description: "Ueberblick und Triage ueber EU-Sanktionen und Embargos: Russland (
 - Sanktionspakete werden haufig aktualisiert; immer konsolidierte Fassung auf EUR-Lex nutzen.
 - Ausnahmen sind eng gefasst; humanitaere Ausnahme gilt nicht pauschal.
 - Guetersanktionen und Personensanktionen laufen parallel und unabhaengig voneinander.
-- Keine veraltete Sanktionslage annehmen; Listing-Datum und Delistings pruefen.
+- Keine veraltete Sanktionslage annehmen; Listing-Datum und Delistings prüfen.
 
 ## Schnittstellen zu anderen Skills
 

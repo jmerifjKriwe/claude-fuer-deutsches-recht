@@ -3,7 +3,7 @@ name: vergleich-und-austritt-pruefen
 description: "Verbraucherschutzverband Durchsetzung: Vergleich und Austritt prüfen. Vergleich und Austritt prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
-# Vergleich Und Austritt Pruefen
+# Vergleich Und Austritt Prüfen
 
 ## Arbeitsweg
 

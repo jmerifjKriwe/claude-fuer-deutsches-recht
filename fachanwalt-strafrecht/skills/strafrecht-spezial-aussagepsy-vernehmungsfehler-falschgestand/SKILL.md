@@ -20,7 +20,7 @@ description: "Falschgestaendnisse: Typologie nach Kassin (freiwillig, gefuegig-a
 
 ## Worum geht es
 
-Menschen gestehen Taten, die sie nicht begangen haben. Das ist nicht eine theoretische Moeglichkeit, sondern eine empirisch belegte Tatsache. Studien der US-amerikanischen Innocence Project-Bewegung dokumentieren, dass in einem signifikanten Anteil der durch DNA-Analyse aufgedeckten Fehlverurteilungen ein Gestaendnis des spaeter freigesprochenen Beschuldigten vorlag. Das Phaenomen ist auch in Deutschland anerkannt — wenn auch weniger erforscht — und betrifft typische Risikokonstellationen: lange Vernehmungen, suggestive Befragungstechnik, vulnerable Beschuldigte, psychische Belastung.
+Menschen gestehen Taten, die sie nicht begangen haben. Das ist nicht eine theoretische Moeglichkeit, sondern eine empirisch belegte Tatsache. Studien der US-amerikanischen Innocence Project-Bewegung dokumentieren, dass in einem signifikanten Anteil der durch DNA-Analyse aufgedeckten Fehlverurteilungen ein Gestaendnis des später freigesprochenen Beschuldigten vorlag. Das Phaenomen ist auch in Deutschland anerkannt — wenn auch weniger erforscht — und betrifft typische Risikokonstellationen: lange Vernehmungen, suggestive Befragungstechnik, vulnerable Beschuldigte, psychische Belastung.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die Typologie der Falschgestaendnisse, die Risikofaktoren und die Replik-Werkzeuge für Beweisverwertungsverbot und Plaedoyer.
 
@@ -47,7 +47,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Verstaendigungs- und Sprachhindernisse.
 
 **Indikatoren für ein Falschgestaendnis.**
-- Gestaendnis ohne Detailwissen ueber die Tat (Person wiederholt nur das, was die Vernehmung vorgelegt hat).
+- Gestaendnis ohne Detailwissen über die Tat (Person wiederholt nur das, was die Vernehmung vorgelegt hat).
 - Faktische Unrichtigkeit (das Gestaendnis enthaelt Details, die nicht zur Tat passen).
 - Widerruf des Gestaendnisses unmittelbar nach Ende der Vernehmungssituation.
 - Aussage erfolgte unter klar identifizierbaren Druckfaktoren.
@@ -56,13 +56,13 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 **Beweisrechtliche Folgen.**
 - Bei Verstoss gegen § 136a StPO: zwingendes Beweisverwertungsverbot.
 - Bei Vernehmungsmaengeln unterhalb dieser Schwelle: Beweiswuerdigung des Tatrichters; Verteidigung muss die methodischen Schwaechen darlegen.
-- Widerruf des Gestaendnisses: in der Hauptverhandlung moeglich, fuehrt aber nicht automatisch zur Aufhebung der Beweiswirkung — Tatrichter muss umfassend wuerdigen.
+- Widerruf des Gestaendnisses: in der Hauptverhandlung möglich, fuehrt aber nicht automatisch zur Aufhebung der Beweiswirkung — Tatrichter muss umfassend wuerdigen.
 
 ## Praktikertipps Verteidigung
 
-- **Bei Verdacht eines Falschgestaendnisses: methodische Pruefung.** Welche Vernehmungssituation? Welche Dauer? Welche Vulnerabilitaet? Welche Druckfaktoren? Welche Faktenkenntnis des Mandanten?
+- **Bei Verdacht eines Falschgestaendnisses: methodische Prüfung.** Welche Vernehmungssituation? Welche Dauer? Welche Vulnerabilitaet? Welche Druckfaktoren? Welche Faktenkenntnis des Mandanten?
 - **Akteneinsicht in vollstaendiges Vernehmungsprotokoll und Aufzeichnungen.** Wenn Bild- oder Tonaufzeichnung existiert, vollstaendig anfordern.
-- **Faktenkenntnis pruefen.** Hat der Mandant tatsaechlich Faktenwissen, das nur der Taeter haben kann (sogenannte tatortspezifische Details, nicht durch Vernehmung vorgelegt)? Oder beschraenkt sich das Gestaendnis auf bereits bekannte Sachverhalte?
+- **Faktenkenntnis prüfen.** Hat der Mandant tatsaechlich Faktenwissen, das nur der Taeter haben kann (sogenannte tatortspezifische Details, nicht durch Vernehmung vorgelegt)? Oder beschraenkt sich das Gestaendnis auf bereits bekannte Sachverhalte?
 - **Vulnerabilitaet dokumentieren.** Psychiatrische Befunde, Intelligenztests, Alter, Persoenlichkeitsdiagnostik.
 - **Widerruf des Gestaendnisses in der Hauptverhandlung.** Sorgfaeltig vorbereiten: Mandant erklaert konkret, unter welchen Umstaenden er gestanden hat und warum das Gestaendnis falsch war.
 - **Beweisantrag SV-Gutachten zur Aussagepsychologie des Falschgestaendnisses.** Bei substanziellen Anhaltspunkten geboten.

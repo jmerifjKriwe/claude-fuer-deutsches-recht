@@ -53,7 +53,7 @@ description: "De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest 
 ### EuGH-Linie (Teckal-Kriterien)
 
 - Kontrolle wie über eigene Dienststelle
-- Wesentliche Tätigkeit für Eigentuemer
+- Wesentliche Tätigkeit für Eigentümer
 - Keine Beteiligung privater Kapitals
 
 ### Prüfung § 108 GWB
@@ -145,13 +145,13 @@ Aktuelle OLG-Vergabesenat-Entscheidungen vor Ausgabe per olg-... bzw. openjur.de
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — De-facto-Vergabe Klage § 135 GWB | Feststellungsantrag VK; Template unten |
 | Variante A — Auftrag bereits vollstaendig abgewickelt | § 135 Abs. 2 GWB Antrag moegliche weise verfristet; Schadensersatz § 181 GWB |
-| Variante B — Inhouse-Ausnahme streitig | § 108 GWB Voraussetzungen pruefen; eigentuemlicher Sachverhalt |
+| Variante B — Inhouse-Ausnahme streitig | § 108 GWB Voraussetzungen prüfen; eigentuemlicher Sachverhalt |
 | Variante C — Unterhalb EU-Schwellenwert | Primaerechtsschutz; Haushaltsrecht statt GWB |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -161,7 +161,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Triage — Bevor losgelegt wird, klaere:
 
 1. Wurde Auftrag ohne jedes Vergabeverfahren erteilt?
-2. Liegt der Auftragswert ueber EU-Schwellenwert?
+2. Liegt der Auftragswert über EU-Schwellenwert?
 3. Bestand Auftraggeberpflicht zur Ausschreibung (kein Inhouse, kein In-state)?
 4. Wurde § 135 GWB Feststellungsantrag rechtzeitig gestellt (30 Tage nach Bekanntmachung, max. 6 Monate)?
 5. Alternativ: § 181 GWB Schadensersatz?
@@ -191,7 +191,7 @@ des Auftrags im Amtsblatt der EU gestellt. Hilfsweise binnen
 [Rechtsanwalt/-anwaeltin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -200,8 +200,8 @@ des Auftrags im Amtsblatt der EU gestellt. Hilfsweise binnen
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

@@ -14,7 +14,7 @@ description: "Zeiterfassung mit abrechenbaren Narrativen für Kanzlei-Mandate. A
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Fuer welche Akte und welchen Bearbeiter soll der Zeiteintrag erfasst werden?
+1. Für welche Akte und welchen Bearbeiter soll der Zeiteintrag erfasst werden?
 2. Ist die Taetigkeit nach RVG oder nach Stundensatz abrechenbar — oder intern (nicht abrechenbar)?
 3. Gibt es eine genaue Zeitangabe oder soll die Dauer aus dem Workflow-Verlauf geschaetzt werden?
 4. Soll der Eintrag sofort in die Rechnung oder erst in das interne Timesheet?

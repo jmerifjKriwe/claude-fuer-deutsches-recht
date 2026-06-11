@@ -20,7 +20,7 @@ Klassisches Beispiel: Polizeiliche Platzverweisung nach Paragraf 34 PolG NRW. Fi
 
 ## Moderner Eingriffsbegriff
 
-Jede dem Staat zurechenbare Beeintraechtigung. Entwickelt vom BVerfG vor allem fuer faktisch-mittelbare Eingriffe durch Informationshandeln und Subventionsentzug.
+Jede dem Staat zurechenbare Beeintraechtigung. Entwickelt vom BVerfG vor allem für faktisch-mittelbare Eingriffe durch Informationshandeln und Subventionsentzug.
 
 | Konstellation | BVerfG mit Schlagwort | Folge |
 | --- | --- | --- |
@@ -30,15 +30,15 @@ Jede dem Staat zurechenbare Beeintraechtigung. Entwickelt vom BVerfG vor allem f
 | Beeintraechtigung durch private Akteure auf staatliche Anstiftung | BVerfGE 90, 286 (Somalia-Einsatz) | Zurechnung als staatlicher Eingriff |
 | Sozialrechtliche Sanktion | BVerfGE 152, 68 (Hartz-IV-Sanktionen) | Eingriff in Art 1 I iVm Art 20 I GG, da Existenzminimum betroffen |
 
-## Pruefraster fuer den Eingriffsschritt
+## Pruefraster für den Eingriffsschritt
 
-1. Klassisches Eingriffsmuster pruefen.
-2. Wenn klassischer Eingriff verneint: moderner Eingriff pruefen (Zurechnung, Intensitaet, Finalitaet als Spiegelung).
+1. Klassisches Eingriffsmuster prüfen.
+2. Wenn klassischer Eingriff verneint: moderner Eingriff prüfen (Zurechnung, Intensitaet, Finalitaet als Spiegelung).
 3. Sonderfall **Schutzbereichsverkuerzung durch Dritte** mit staatlicher Mitwirkung: Drittwirkung nach BVerfGE 7, 198 (Lueth-Urteil) und BVerfGE 89, 214 (Buergschaft) ansprechen.
 
-## Eingriffsschwere als Vorausweis fuer die Stufen 3 und 4
+## Eingriffsschwere als Vorausweis für die Stufen 3 und 4
 
-Die Eingriffsschwere bestimmt mit, wie streng spaeter Erforderlichkeit und Angemessenheit gepruet werden:
+Die Eingriffsschwere bestimmt mit, wie streng später Erforderlichkeit und Angemessenheit gepruet werden:
 
 - **Bagatelle**: oft schon auf Geeignetheit/Erforderlichkeit grobe Vertretbarkeitskontrolle.
 - **Mittlerer Eingriff**: Standardpruefung mit Vertretbarkeitskontrolle.

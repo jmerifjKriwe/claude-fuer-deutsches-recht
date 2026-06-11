@@ -19,11 +19,11 @@ Bei Savigny noch nicht als eigenstaendiges Element gefuehrt — Savigny rechnete
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie streiten ueber die Reichweite einer Norm und der Wortlaut traegt nicht.
+- Sie streiten über die Reichweite einer Norm und der Wortlaut traegt nicht.
 - Sie wollen eine Norm extensiv oder restriktiv auslegen und brauchen eine Wertargumentation.
-- Sie pruefen Schutzzwecknormen iSd § 823 Abs. 2 BGB und brauchen den Schutzzweck.
+- Sie prüfen Schutzzwecknormen iSd § 823 Abs. 2 BGB und brauchen den Schutzzweck.
 - Sie wenden eine Generalklausel (§§ 138, 242 BGB) an und brauchen einen Zweckanker.
-- Sie pruefen die Voraussetzungen einer Analogie oder einer teleologischen Reduktion (siehe Skill `analogie-und-teleologische-reduktion`).
+- Sie prüfen die Voraussetzungen einer Analogie oder einer teleologischen Reduktion (siehe Skill `analogie-und-teleologische-reduktion`).
 
 ## Methodische Grundlage
 
@@ -48,9 +48,9 @@ BGH-Linie: vermittelnd, gestuetzt auf den "objektivierten Willen des Gesetzgeber
 
 **Beispiel § 437 BGB (Maengelrechte):** Telos: Schutz des Kaeufers vor mangelhaften Sachen, Erhaltung des aequivalenz-Verhaeltnisses bei Vertragsschluss. Die Rechte sind gestuft (Nacherfuellung als Vorrang, danach Ruecktritt, Minderung, Schadensersatz) — das ist eine teleologische Entscheidung des Gesetzgebers für Vertragsfortsetzung.
 
-**Beispiel § 823 Abs. 1 BGB (Schutzzweck):** Die Norm schuetzt absolute Rechtsgueter, nicht reine Vermoegensinteressen. Die Begrenzung auf absolute Rechte (Leben, Koerper, Gesundheit, Freiheit, Eigentum) ist eine teleologische Entscheidung: Reines Vermoegen waere ueberbordend zu schuetzen.
+**Beispiel § 823 Abs. 1 BGB (Schutzzweck):** Die Norm schuetzt absolute Rechtsgueter, nicht reine Vermoegensinteressen. Die Begrenzung auf absolute Rechte (Leben, Koerper, Gesundheit, Freiheit, Eigentum) ist eine teleologische Entscheidung: Reines Vermögen waere ueberbordend zu schuetzen.
 
-**Beispiel § 823 Abs. 2 BGB (Schutzgesetz):** Schutzgesetz ist nicht jede oeffentlich-rechtliche Norm, sondern nur solche, deren Schutzzweck individualschuetzend ist. Beispiel: § 263 StGB (Betrug) ist Schutzgesetz für das Vermoegen des Geschaedigten; § 21 StVG (Fahren ohne Fahrerlaubnis) ist nicht Schutzgesetz im klassischen Sinne für Dritte, weil der Schutzzweck primaer die öffentliche Ordnung erfasst.
+**Beispiel § 823 Abs. 2 BGB (Schutzgesetz):** Schutzgesetz ist nicht jede öffentlich-rechtliche Norm, sondern nur solche, deren Schutzzweck individualschuetzend ist. Beispiel: § 263 StGB (Betrug) ist Schutzgesetz für das Vermögen des Geschaedigten; § 21 StVG (Fahren ohne Fahrerlaubnis) ist nicht Schutzgesetz im klassischen Sinne für Dritte, weil der Schutzzweck primaer die öffentliche Ordnung erfasst.
 
 **Beispiel § 1004 BGB:** Beseitigungs- und Unterlassungsanspruch. Telos: praeventiver und kurativer Schutz des Eigentums. Aus dem Telos folgt die analoge Anwendung auf andere absolute Rechtsgueter (allgemeines Persoenlichkeitsrecht, Gewerbebetrieb).
 
@@ -60,19 +60,19 @@ BGH-Linie: vermittelnd, gestuetzt auf den "objektivierten Willen des Gesetzgeber
 
 1. **Norm und Tatbestandsmerkmal benennen.** Welches Merkmal genau ist teleologisch streitig?
 2. **Schutzzweck der Norm formulieren.** Wen oder was schuetzt die Norm? In welcher Weise?
-3. **Normzweck im Verbund mit anderen Normen pruefen.** Wie passt der Zweck in die Architektur?
-4. **Entstehungs- vs. Geltungstheorie pruefen.** Bei juengeren Reformen Materialien heranziehen; bei alten Normen objektive Funktion bestimmen.
+3. **Normzweck im Verbund mit anderen Normen prüfen.** Wie passt der Zweck in die Architektur?
+4. **Entstehungs- vs. Geltungstheorie prüfen.** Bei juengeren Reformen Materialien heranziehen; bei alten Normen objektive Funktion bestimmen.
 5. **Wertentscheidungen offenlegen.** Wenn die teleologische Auslegung an Verfassungswerte oder Unionsrecht zurueckgebunden ist, das ausdruecklich sagen.
-6. **Auslegungsergebnis pruefen.** Liegt das Ergebnis innerhalb der Wortlaut-Grenze? Wenn nein: Rechtsfortbildung (siehe Skill `analogie-und-teleologische-reduktion`).
+6. **Auslegungsergebnis prüfen.** Liegt das Ergebnis innerhalb der Wortlaut-Grenze? Wenn nein: Rechtsfortbildung (siehe Skill `analogie-und-teleologische-reduktion`).
 7. **Ergebnis im Schriftsatz oder Memo** mit dem Schutzzweck-Argument abschliessen.
 
 ## Typische Fehler / Kritik
 
-- **"Wunschauslegung" verkleidet als Telos.** Wer den gewuenschten Ausgang ueber eine ad-hoc-Zweckbehauptung erreicht, ohne den Normzweck systematisch zu begruenden, betreibt nicht Telos, sondern Ergebnisorientierung.
+- **"Wunschauslegung" verkleidet als Telos.** Wer den gewuenschten Ausgang über eine ad-hoc-Zweckbehauptung erreicht, ohne den Normzweck systematisch zu begruenden, betreibt nicht Telos, sondern Ergebnisorientierung.
 - **Schutzzweck ohne Schutzobjekt.** Vor jedem Schutzzweck-Argument muss klar sein: Wen schuetzt die Norm in welcher Weise?
-- **Wortlaut-Grenze ueberschreiten und nicht offen kennzeichnen.** Wer ueber den moeglichen Wortsinn hinaus teleologisch ausweitet, betreibt Rechtsfortbildung, nicht Auslegung.
+- **Wortlaut-Grenze ueberschreiten und nicht offen kennzeichnen.** Wer über den moeglichen Wortsinn hinaus teleologisch ausweitet, betreibt Rechtsfortbildung, nicht Auslegung.
 - **Telos ohne Verbindung zur Verfassung.** Schutzzwecknormen sind oft grundrechtlich vorgepraegt; wer das uebersieht, verliert das staerkere Argument.
-- **Telos ueber alles.** Auch der teleologische Kanon ist eines von vier Argumenten. Wenn Wortlaut, System und Historie alle in eine Richtung weisen und der Telos in die andere, traegt die Mehrheit — nicht eine einzelne Zweckbehauptung.
+- **Telos über alles.** Auch der teleologische Kanon ist eines von vier Argumenten. Wenn Wortlaut, System und Historie alle in eine Richtung weisen und der Telos in die andere, traegt die Mehrheit — nicht eine einzelne Zweckbehauptung.
 
 Kritik aus der Begriffsjurisprudenz (Puchta, Windscheid): Zweck ist beliebig; nur die Begriffe sind objektiv. Diese Kritik ist heute weitgehend ueberholt, behaelt aber den Hinweis auf die Notwendigkeit, den Zweck konkret zu begruenden.
 

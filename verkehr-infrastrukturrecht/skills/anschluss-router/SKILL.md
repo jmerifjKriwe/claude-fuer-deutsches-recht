@@ -118,20 +118,20 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `verkehr-infrastrukturrecht-sondernutzung` | Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW… |
 | `verkehr-infrastrukturrecht-strassenbahn` | Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39… |
 | `verkehr-infrastrukturrecht-verfahren` | Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO… |
-| `verkehr-infrastrukturrecht-verkehrsplanung` | Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht),… |
-| `verkehr-infrastrukturrecht-verkehrswende` | Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Förderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO… |
+| `verkehr-infrastrukturrecht-verkehrsplanung` | Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Maßnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht),… |
+| `verkehr-infrastrukturrecht-verkehrswende` | Verkehrswende-Maßnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Förderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO… |
 | `verkehr-infrastrukturrecht-wirtschaftsverkehr` | Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO… |
 
 ## Worum geht es?
 
-Das Plugin begleitet rechtliche Fragestellungen rund um Verkehrsplanung und Infrastrukturprojekte auf kommunaler und ueberregionaler Ebene. Es deckt das gesamte Spektrum vom Planfeststellungsverfahren für Strassenbau und Schienenstrecken ueber Ladeinfrastruktur für Elektromobilitaet bis hin zu Parkraumbewirtschaftung, Sondernutzung öffentlicher Strassenflaechen und Schulwegsicherheit ab.
+Das Plugin begleitet rechtliche Fragestellungen rund um Verkehrsplanung und Infrastrukturprojekte auf kommunaler und ueberregionaler Ebene. Es deckt das gesamte Spektrum vom Planfeststellungsverfahren für Strassenbau und Schienenstrecken über Ladeinfrastruktur für Elektromobilitaet bis hin zu Parkraumbewirtschaftung, Sondernutzung öffentlicher Strassenflaechen und Schulwegsicherheit ab.
 
 Zielgruppe sind Verwaltungsjuristen, Kommunalrechtler, Anwaelte von Verkehrstragern und OEPNV-Betreibern sowie Unternehmen, die Foerdergelder oder Vergabe-Auftraege im Infrastrukturbereich benoetigen. Das Plugin unterstuetzt sowohl die angreifende als auch die verteidigenden Seite bei Planfeststellung und Verwaltungsstreitverfahren.
 
 ## Wann brauchen Sie diese Skill?
 
 - Vorhabentraeger oder Behörde leitet ein Planfeststellungsverfahren für Strassenneubau, Schieneninfrastruktur oder OEPNV ein und braucht verfahrensrechtliche Begleitung.
-- Betreiber plant Ladepunkte für Elektrofahrzeuge und muss Netzanschluss, Förderungsantrag und Genehmigungsrecht klaeren.
+- Betreiber plant Ladepunkte für Elektrofahrzeuge und muss Netzanschluss, Förderungsantrag und Genehmigungsrecht klären.
 - Kommune fuehrt Bewohnerparkausweis oder Tempo-30-Zone ein und muss Rechtmaessigkeit und Anfechtungsrisiken beachten.
 - Unternehmen beantragt Sondernutzungserlaubnis für Aussengastronomie, Lieferzone oder Baustelle im öffentlichen Strassenraum.
 - OEPNV-Betreiber oder Gemeinde will Strassenbahnlinie errichten oder Konzession verteidigen.
@@ -140,10 +140,10 @@ Zielgruppe sind Verwaltungsjuristen, Kommunalrechtler, Anwaelte von Verkehrstrag
 
 - **Planfeststellung** — Foermliches Verwaltungsverfahren nach §§ 72 ff. VwVfG, das Bau und Betrieb von Infrastrukturanlagen konzentriert genehmigt und private Einwendungen ausschliessen kann.
 - **GVFG** — Gemeindeverkehrsfinanzierungsgesetz; Bundesfoerderung für kommunale Strassenbahnprojekte und OEPNV-Infrastruktur.
-- **Sondernutzung** — Nutzung öffentlicher Strassen, die ueber den Gemeingebrauch hinausgeht (z.B. Werbeanlagen, Aussengastronomie, Baustellenflaeche) und einer besonderen Erlaubnis bedarf.
+- **Sondernutzung** — Nutzung öffentlicher Strassen, die über den Gemeingebrauch hinausgeht (z.B. Werbeanlagen, Aussengastronomie, Baustellenflaeche) und einer besonderen Erlaubnis bedarf.
 - **Planungshoheit** — Kommunale Selbstverwaltungsrecht bei der Bauleit- und Verkehrsplanung (Art. 28 Abs. 2 GG).
 - **Konzession (PBefG)** — Genehmigung zum Betrieb von Strassenbahnlinien nach dem Personenbefoerderungsgesetz.
-- **Verkehrswende** — Stadtplanerische und rechtliche Massnahmen zur Förderung umweltfreundlicher Mobilitaet (Fussgaengerzonen, Radwege, Tempo-30-Zonen).
+- **Verkehrswende** — Stadtplanerische und rechtliche Maßnahmen zur Förderung umweltfreundlicher Mobilitaet (Fussgaengerzonen, Radwege, Tempo-30-Zonen).
 - **Schulwegsicherung** — Amtspflichten der Gemeinde und des Strassenverkehrsrechts zum Schutz von Schulkindern im Strassenverkehr; relevant für Amtshaftung.
 
 ## Rechtsgrundlagen
@@ -158,11 +158,11 @@ Zielgruppe sind Verwaltungsjuristen, Kommunalrechtler, Anwaelte von Verkehrstrag
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Vorhabentraeger, Behörde, Anlieger oder Verband?
+1. Mandantenkonstellation klären: Vorhabentraeger, Behörde, Anlieger oder Verband?
 2. Phase des Mandats bestimmen: Planungsphase, Genehmigungsverfahren, Foerderantrag oder Streitverfahren?
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: Widerspruchs- und Klagefrist gegen Planfeststellungsbeschluss (§ 74 VwVfG, §§ 70 74 VwGO).
-5. Anschluss-Skill bestimmen: Nach Genehmigungsverfahren ggf. Foerderantrag oder Vergabe pruefen.
+4. Eilfristen prüfen: Widerspruchs- und Klagefrist gegen Planfeststellungsbeschluss (§ 74 VwVfG, §§ 70 74 VwGO).
+5. Anschluss-Skill bestimmen: Nach Genehmigungsverfahren ggf. Foerderantrag oder Vergabe prüfen.
 
 ## Skill-Tour (was gibt es hier?)
 
@@ -173,7 +173,7 @@ Zielgruppe sind Verwaltungsjuristen, Kommunalrechtler, Anwaelte von Verkehrstrag
 - `verkehr-infrastrukturrecht-parkraumbewirtschaftung` — Bewohnerparkausweis, Abschleppanordnungen und kommunale Parkraummassnahmen rechtssicher gestalten und anfechten.
 - `verkehr-infrastrukturrecht-foerderung-vergabe` — GVFG-Foerderantrag und Vergabeverfahren für Infrastrukturprojekte begleiten.
 - `verkehr-infrastrukturrecht-sondernutzung` — Sondernutzungserlaubnis für Aussengastronomie, Werbeanlagen und Baustellenflaechen beantragen und anfechten.
-- `verkehr-infrastrukturrecht-schulwegsicherheit` — Schulwegsicherung rechtlich verbessern; Amtshaftungsansprueche pruefen und geltend machen.
+- `verkehr-infrastrukturrecht-schulwegsicherheit` — Schulwegsicherung rechtlich verbessern; Amtshaftungsansprueche prüfen und geltend machen.
 - `verkehr-infrastrukturrecht-verkehrsplanung` — Strassenverkehrs- und Radverkehrsplanung rechtlich begleiten; Beteiligungspflichten und Abwaegungsfehler.
 - `verkehr-infrastrukturrecht-verkehrswende` — Fussgaengerzonen, Tempo-30-Zonen und Radverkehrsfoerderung rechtssicher gestalten.
 - `verkehr-infrastrukturrecht-verfahren` — Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten.
@@ -183,9 +183,9 @@ Zielgruppe sind Verwaltungsjuristen, Kommunalrechtler, Anwaelte von Verkehrstrag
 
 - Planfeststellungsbeschluesse werden bestandskraeftig, wenn keine rechtzeitige Klage erhoben wird; Klagefrist beachten (§ 74 Abs. 1 VwVfG i.V.m. VwGO).
 - Einwendungsausschluss (§ 73 Abs. 4 VwVfG): Wer im Anhörungsverfahren keine Einwendungen erhebt, verliert Klagebefugnis für diese Punkte.
-- GVFG-Foerderantraege erfordern fruehzeitige Abstimmung mit Behörden; spaetere Aenderungen am Vorhaben koennen Foerderausschluss ausloesen.
+- GVFG-Foerderantraege erfordern fruehzeitige Abstimmung mit Behörden; spaetere Aenderungen am Vorhaben können Foerderausschluss ausloesen.
 - Vergaberechtliche Anforderungen gelten ab definierten Schwellenwerten (EU-Schwellenwerte nach VgV); Unterschwellenverfahren unterliegen den Landesvergabeordnungen.
-- Verkehrswende-Massnahmen (Sperrungen, Geschwindigkeitsbeschraenkungen) muessen auf § 45 StVO gestuetzt sein; fehlerhafte Begruendung macht Anordnung angreifbar.
+- Verkehrswende-Maßnahmen (Sperrungen, Geschwindigkeitsbeschraenkungen) müssen auf § 45 StVO gestuetzt sein; fehlerhafte Begruendung macht Anordnung angreifbar.
 
 ## Typische Fehler
 
@@ -199,7 +199,7 @@ Zielgruppe sind Verwaltungsjuristen, Kommunalrechtler, Anwaelte von Verkehrstrag
 
 - Stand: 05/2026
 - VwVfG, FStrG, PBefG, StVO, GVFG in aktuell geltender Fassung
-- EU-Schwellenwerte nach VgV/SektVO gemaess aktueller EU-Kommissions-Verordnung
+- EU-Schwellenwerte nach VgV/SektVO gemäß aktueller EU-Kommissions-Verordnung
 
 ## Normen und Rechtsprechung
 

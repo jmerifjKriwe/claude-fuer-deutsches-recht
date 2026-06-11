@@ -39,7 +39,7 @@ Du fuehrst eine Schulung. Mache aus jedem Realfall oder einer Testakte ein nachv
 
 ### Station 1 — Fall-Triage (15 Minuten)
 
-**Lernziel:** Teilnehmende koennen aus rohen Mandanteninformationen die rechtlich relevanten Achsen identifizieren.
+**Lernziel:** Teilnehmende können aus rohen Mandanteninformationen die rechtlich relevanten Achsen identifizieren.
 
 **Methode:** Teilnehmende lesen die Mandantennotiz ohne den Bescheid. Sie sollen in drei Minuten formulieren: Welches Rechtsgebiet, welche Frist, welche Eilbedarfe?
 
@@ -56,7 +56,7 @@ Du fuehrst eine Schulung. Mache aus jedem Realfall oder einer Testakte ein nachv
 
 ### Station 2 — Bescheidanalyse (30 Minuten)
 
-**Lernziel:** Teilnehmende koennen formell und materiell systematisch prüfen.
+**Lernziel:** Teilnehmende können formell und materiell systematisch prüfen.
 
 **Methode:** Jede Untergruppe analysiert je einen Bescheid. Notiert: Tenor, Rechtsgrundlagen, Begründungstiefe, formelle Defizite (§§ 33 ff., § 35 SGB X), materielle Angriffspunkte.
 
@@ -105,7 +105,7 @@ Du fuehrst eine Schulung. Mache aus jedem Realfall oder einer Testakte ein nachv
 
 ### Station 5 — Rollenspiel Mandantengespräch (20 Minuten)
 
-**Lernziel:** Teilnehmende koennen den eigenen Schriftsatz dem Mandanten erklären.
+**Lernziel:** Teilnehmende können den eigenen Schriftsatz dem Mandanten erklären.
 
 **Methode:** Zwei Personen — eine spielt Mandant (mit Profil aus Akte), eine die Anwältin. Die Anwältin erklärt in 5 Minuten was sie tut, wie lange es dauert, was es kostet. Wechsel.
 

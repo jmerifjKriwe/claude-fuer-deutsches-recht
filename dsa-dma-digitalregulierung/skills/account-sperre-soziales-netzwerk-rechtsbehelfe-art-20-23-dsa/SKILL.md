@@ -110,10 +110,10 @@ Bei Sperrgrund "illegal content" prüfen, ob tatsächlich Straftatbestand erfül
 
 ## Faktische Updates (Stand 05/2026)
 
-- **DSA — vollumfaenglich anwendbar:** DSA-Pflichten sind seit dem 17.02.2024 verbindlich. Art. 20-23 DSA (interne Beschwerde, ADR, vetted flaggers, Massnahmen gegen Missbrauch) gelten für alle Online-Plattformen und Hosting-Dienste.
+- **DSA — vollumfaenglich anwendbar:** DSA-Pflichten sind seit dem 17.02.2024 verbindlich. Art. 20-23 DSA (interne Beschwerde, ADR, vetted flaggers, Maßnahmen gegen Missbrauch) gelten für alle Online-Plattformen und Hosting-Dienste.
 - **DDG (Digitale-Dienste-Gesetz):** Das deutsche DDG ist 14.05.2024 in Kraft getreten (BGBl 2024 I Nr. 149); enthaelt nationale Durchfuehrungsbestimmungen, Bestimmung der BNetzA als DSC, Sanktionsregime, Klagebefugnisse, Verbraucher- und Datenschutz-Schnittstellen. Quelle: bgbl.de, bundesnetzagentur.de.
-- **ADR-Stellen Art. 21 DSA:** Liste der von der BNetzA zertifizierten Streitbeilegungsstellen live ueber bundesnetzagentur.de pruefen.
-- **BGH-Linie zu Account-Sperren:** Aktuelle Rechtsprechung zur AGB-Kontrolle der Sperr-Klauseln (BGH III. ZS) live ueber dejure.org pruefen. DSA ergaenzt die BGH-Linie (insb. zu Verfahrenspflichten, Begruendungstiefe, Art. 14 Abs. 4 DSA).
+- **ADR-Stellen Art. 21 DSA:** Liste der von der BNetzA zertifizierten Streitbeilegungsstellen live über bundesnetzagentur.de prüfen.
+- **BGH-Linie zu Account-Sperren:** Aktuelle Rechtsprechung zur AGB-Kontrolle der Sperr-Klauseln (BGH III. ZS) live über dejure.org prüfen. DSA ergaenzt die BGH-Linie (insb. zu Verfahrenspflichten, Begruendungstiefe, Art. 14 Abs. 4 DSA).
 - **Schnittstelle MStV / TDDDG:** Bei medienrechtlich relevanten Plattformen zusaetzlich § 18, § 19 MStV (Medien­staats­vertrag) beachten.
 
 ## Triage zu Beginn
@@ -126,7 +126,7 @@ Bei Sperrgrund "illegal content" prüfen, ob tatsächlich Straftatbestand erfül
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -163,7 +163,7 @@ Antrag: Wiederherstellung des Accounts / Inhalts unverzüglich
 Streitwert: [BETRAG EUR]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

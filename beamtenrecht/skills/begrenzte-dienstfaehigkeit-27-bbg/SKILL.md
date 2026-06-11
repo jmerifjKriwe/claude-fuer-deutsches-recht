@@ -7,7 +7,7 @@ description: "Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 Be
 
 ## Arbeitsbereich
 
-Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhaeltnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Pruefung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Pruefraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhaeltnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Prüfung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Pruefraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -32,12 +32,12 @@ Skill für Beamte, deren Dienstfaehigkeit eingeschraenkt, aber nicht vollstaendi
 
 ### a) Voraussetzungen § 27 BBG
 - Beamter ist nicht vollstaendig dienstunfaehig.
-- Restliche Dienstleistung ist mit mindestens 50 v. H. der Arbeitszeit moeglich.
-- Andersweitige Verwendung im Sinne § 26 Abs. 2 BBG ist zu pruefen.
+- Restliche Dienstleistung ist mit mindestens 50 v. H. der Arbeitszeit möglich.
+- Andersweitige Verwendung im Sinne § 26 Abs. 2 BBG ist zu prüfen.
 
 ### b) Verhaeltnis zu § 26 BBG
 - § 27 BBG ist die mildere Maszahme; Vorrang vor Versetzung in den Ruhestand.
-- Dienstherr ist verpflichtet, die Moeglichkeit der begrenzten Dienstfaehigkeit zu pruefen.
+- Dienstherr ist verpflichtet, die Moeglichkeit der begrenzten Dienstfaehigkeit zu prüfen.
 
 ### c) Bezuege
 - Bezuege werden anteilig der herabgesetzten Arbeitszeit gezahlt; ggf. Ausgleichszahlung nach den landesrechtlichen Vorschriften.
@@ -66,7 +66,7 @@ Skill für Beamte, deren Dienstfaehigkeit eingeschraenkt, aber nicht vollstaendi
 
 - § 45 BBG (begrenzte Dienstfaehigkeit Bund); § 27 BeamtStG i.V.m. Landesrecht.
 - § 44 BBG (Dienstunfaehigkeit) als Vergleichsmassstab; § 6 BeamtVG (anteilige Ruhegehaltfaehigkeit).
-- Vorrang der milderen Massnahme: anderweitige Verwendung und begrenzte Dienstfaehigkeit vor Ruhestandsversetzung.
+- Vorrang der milderen Maßnahme: anderweitige Verwendung und begrenzte Dienstfaehigkeit vor Ruhestandsversetzung.
 - BVerwG zur begrenzten Dienstfaehigkeit und zur Pruefungspflicht anderweitiger Verwendung — Datum und Az vor Zitat live verifizieren.
 
 ## 7. Beispiel (Kurzfassung)

@@ -33,16 +33,16 @@ Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB 
 - **PpUGV** in der jeweils aktuellen Fassung; jaehrlich angepasst.
 - **KHEntgG § 8 Abs. 4** Sanktionen bei Verstoss.
 - **InEK-Vorgaben** zur Datenmeldung (Quartalsmeldung).
-- **Pflegepersonalbemessung (PPR 2.0)** ergaenzt PpUGV, ueber § 137k SGB V derzeit in Konkretisierung.
+- **Pflegepersonalbemessung (PPR 2.0)** ergaenzt PpUGV, über § 137k SGB V derzeit in Konkretisierung.
 - **TVoeD/Tarifrecht** Personalplanung und Ueberlastungsanzeigen.
 
 ## / Schritt für Schritt
 1. **Pflegesensitive Bereiche identifizieren:** PpUGV-Anlage, Stationsschluessel.
 2. **Quote berechnen:** Pflegekraefte (examiniert + Helfer mit Anrechnung) gegen Patienten je Schicht.
-3. **Meldungen pruefen:** Quartalsweise InEK-Meldung; Korrekturmoeglichkeiten beachten.
+3. **Meldungen prüfen:** Quartalsweise InEK-Meldung; Korrekturmoeglichkeiten beachten.
 4. **Sanktion vermeiden:** Bei Untergrenzverletzung Ueberlastungsanzeigen, Personalpoolnutzung, Verlegungen.
-5. **Strukturpruefung vorbereiten:** MD-Pruefung kann PpUGV-Daten heranziehen.
-6. **Ausnahmen pruefen:** Notfall (Bereitschaftsdienst, kurzfristige Erkrankung), Genehmigungstatbestaende.
+5. **Strukturpruefung vorbereiten:** MD-Prüfung kann PpUGV-Daten heranziehen.
+6. **Ausnahmen prüfen:** Notfall (Bereitschaftsdienst, kurzfristige Erkrankung), Genehmigungstatbestaende.
 
 ## Trade-off-Matrix
 
@@ -57,12 +57,12 @@ Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB 
 - PpUGV-Bereiche werden schrittweise erweitert; Live-Check g-ba.de und gkv-spitzenverband.de.
 - Pflegepool, Leiharbeit anrechnen nur, wenn examiniert und im Stationsplan.
 - PPR 2.0 (§ 137k SGB V) wird Pflegepersonalbemessung erweitern (Live-Check Konkretisierung).
-- Ueberlastungsanzeigen rechtssicher dokumentieren — Beweismittel bei MD-Pruefung.
+- Ueberlastungsanzeigen rechtssicher dokumentieren — Beweismittel bei MD-Prüfung.
 - Bei wiederholten Verstoessen droht Landesaufsicht (§§ … LKHG).
 
 ## Mustertexte
 **Internes Memo zur Quote-Auswertung:**
-> Pflegesensitive Bereiche der Klinik nach PpUGV: 1. Intensivstation (Erwachsene): Tagschicht Quote 1:2,5 ueberschritten (gefordert 1:2). 2. Geriatrie: 1:10 im Sollbereich. Massnahmen: 1. … 2. … Meldung InEK [Datum].
+> Pflegesensitive Bereiche der Klinik nach PpUGV: 1. Intensivstation (Erwachsene): Tagschicht Quote 1:2,5 ueberschritten (gefordert 1:2). 2. Geriatrie: 1:10 im Sollbereich. Maßnahmen: 1. … 2. … Meldung InEK [Datum].
 
 **Antwortschreiben auf MD-Strukturpruefung:**
 > Die PpUGV-Quote in der Periode [Quartal] ist nachweislich eingehalten, mit Ausnahme von Tagen … (Begruendung, Verlegungen, Ueberlastungsanzeigen). Anlagen: Dienstplanauszug, Personalmeldung InEK.

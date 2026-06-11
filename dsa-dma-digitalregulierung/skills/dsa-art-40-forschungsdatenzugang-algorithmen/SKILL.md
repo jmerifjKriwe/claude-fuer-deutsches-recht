@@ -100,10 +100,10 @@ Algorithmen-Untersuchung kann zugleich als Erforschung eines KI-Systems im Sinne
 
 ## Faktische Updates (Stand 05/2026)
 
-- **Delegierte VO (EU) 2024/2987 — Forschungsdatenzugang:** Die delegierte Verordnung zum Forschungsdatenzugang regelt Antragsverfahren, sichere Datenraeume und technische Bedingungen. Stand und Anwendungsbeginn live ueber eur-lex.europa.eu pruefen.
-- **DSC in Deutschland (BNetzA):** Antraege auf Forscher-Status nach Art. 40 Abs. 8 DSA werden in Deutschland ueber die BNetzA als DSC eingereicht. Verfahren und ggf. erforderliche Anlagen live ueber bundesnetzagentur.de pruefen.
+- **Delegierte VO (EU) 2024/2987 — Forschungsdatenzugang:** Die delegierte Verordnung zum Forschungsdatenzugang regelt Antragsverfahren, sichere Datenraeume und technische Bedingungen. Stand und Anwendungsbeginn live über eur-lex.europa.eu prüfen.
+- **DSC in Deutschland (BNetzA):** Antraege auf Forscher-Status nach Art. 40 Abs. 8 DSA werden in Deutschland über die BNetzA als DSC eingereicht. Verfahren und ggf. erforderliche Anlagen live über bundesnetzagentur.de prüfen.
 - **EDMO:** European Digital Media Observatory bleibt zentraler Ansprechpartner für Forscher im Bereich Desinformation und Plattformforschung. Quelle: edmo.eu.
-- **DSGVO-Schnittstelle:** Bei personenbezogenen Daten zusaetzlich Art. 6 / Art. 89 DSGVO pruefen; Pseudonymisierung / Anonymisierung als milderes Mittel.
+- **DSGVO-Schnittstelle:** Bei personenbezogenen Daten zusaetzlich Art. 6 / Art. 89 DSGVO prüfen; Pseudonymisierung / Anonymisierung als milderes Mittel.
 
 ## Zentrale Normen (Paragrafenkette)
 

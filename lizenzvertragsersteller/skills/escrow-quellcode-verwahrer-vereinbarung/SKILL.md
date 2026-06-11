@@ -30,7 +30,7 @@ Lizenznehmer macht sich von der Software des Lizenzgebers abhaengig. Bei Ausfall
 | **Build-Anweisungen** | Wie wird aus Source Code ein Build erstellt? Konfigurationsdateien, Build-Scripts |
 | **Dependencies-Liste** | OSS und proprietaere Abhaengigkeiten mit Versionen |
 | **Dokumentation** | Architektur-Diagramme, API-Docs, Datenbank-Schema |
-| **Schluessel/Credentials** | (falls fuer Build noetig) |
+| **Schlüssel/Credentials** | (falls für Build noetig) |
 | **Test-Suiten** | Automatisierte Tests + Erwartete Ergebnisse |
 
 ## Release-Trigger
@@ -75,7 +75,7 @@ Siehe vertiefend: `insolvenz-fortbestand-paragraf-103-inso-lizenz`.
 >
 > (2) Der Lizenzgeber aktualisiert die Hinterlegung mindestens vierteljaehrlich.
 >
-> (3) Der Verwahrer gibt die Hinterlegung an den Lizenznehmer heraus, wenn einer der folgenden Trigger eintritt: (a) Eroeffnung eines Insolvenzverfahrens ueber das Vermoegen des Lizenzgebers; (b) Wartungsausfall ueber mehr als 90 zusammenhaengende Tage trotz schriftlicher Mahnung; (c) endgueltige Geschaeftsaufgabe des Lizenzgebers.
+> (3) Der Verwahrer gibt die Hinterlegung an den Lizenznehmer heraus, wenn einer der folgenden Trigger eintritt: (a) Eroeffnung eines Insolvenzverfahrens über das Vermögen des Lizenzgebers; (b) Wartungsausfall über mehr als 90 zusammenhaengende Tage trotz schriftlicher Mahnung; (c) endgueltige Geschaeftsaufgabe des Lizenzgebers.
 >
 > (4) Mit Herausgabe erwirbt der Lizenznehmer das Recht, den Source Code zu nutzen, zu modifizieren und zur Wartung der Lizenzsoftware einzusetzen. Eine Weitergabe an Dritte ist ausgeschlossen.
 >

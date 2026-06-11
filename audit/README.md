@@ -1,6 +1,6 @@
 # Audit-Verzeichnis
 
-Dieses Verzeichnis dokumentiert Halluzinations-Audits ueber alle Aktenzeichen
+Dieses Verzeichnis dokumentiert Halluzinations-Audits über alle Aktenzeichen
 in den SKILL.md-Dateien des Repos.
 
 ## Wellen
@@ -41,9 +41,9 @@ in den SKILL.md-Dateien des Repos.
 Der hohe WRONG_TOPIC-Anteil zeigt: das Aktenzeichen existiert, aber
 die im Skill behauptete Aussage trifft nicht auf das tatsaechliche Urteil zu.
 Typische Muster sind falsche Senate (z.B. IX ZR statt VIII ZR), falsche
-Jahrgaenge oder voellig andere Themen unter identischem AZ.
+Jahrgaenge oder völlig andere Themen unter identischem AZ.
 
-Diese Faelle muessen in einer Folge-Welle (Welle 3 — Reparatur) systematisch
+Diese Faelle müssen in einer Folge-Welle (Welle 3 — Reparatur) systematisch
 bereinigt werden: betroffene Skill-Stellen entweder ersatzlos streichen
 oder durch verifizierte AZ ersetzen.
 
@@ -52,7 +52,7 @@ nur ohne juris-/Beck-Zugang nicht abschliessend gegengeprueft werden.
 
 ## Folgeschritte
 
-1. Welle 3 — Reparatur: 976 Problemfaelle systematisch fixen – erledigt in v24.1.0 (Strip ueber `strip_az.py`)
+1. Welle 3 — Reparatur: 976 Problemfaelle systematisch fixen – erledigt in v24.1.0 (Strip über `strip_az.py`)
 2. Optional: 893 UNVERIFIABLE mit juris/Beck-Zugang nachpruefen
 3. CI-Hook etablieren, der neue AZ-Aufnahmen gegen dejure-API gegenprueft
 
@@ -71,7 +71,7 @@ aus den betroffenen SKILL.md entfernt. Strategie:
 
 ## Welle 4 — References-Audit (29.05.2026)
 
-Pruefung der Markdown-Verweise auf `references/`-Dateien:
+Prüfung der Markdown-Verweise auf `references/`-Dateien:
 
 - 115 References-Dateien gesamt
 - 29 davon werden mindestens einmal verlinkt
@@ -123,4 +123,4 @@ Dieses Filter ergab 7 sichere Loeschkandidaten. Alle 7 waren jedoch
 bereits durch Welle 3 (v24.1.0) aus den Skills verschwunden –
 Welle 6 hat netto null weitere Zeilen entfernt, liefert aber eine
 konsolidierte Klassifikation aller 893 ursprueglichen UNVERIFIABLE-AZ
-fuer kuenftige Reparaturwellen.
+für kuenftige Reparaturwellen.

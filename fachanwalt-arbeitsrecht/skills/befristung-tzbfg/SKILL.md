@@ -41,7 +41,7 @@ description: "Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arb
 - **Sachgrundlos:** § 14 Abs. 2 TzBfG — bis zu zwei Jahre, höchstens dreimalige Verlängerung in dieser Zeit.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Befristungskontrollklage:** § 17 TzBfG — drei Wochen nach vereinbartem Ende; Versäumung führt zur Fiktion der Wirksamkeit (§ 17 S. 2 iVm § 7 KSchG).
-- **Neueinstellung Älterer:** § 14 Abs. 3 TzBfG — sachgrundlose Befristung bis fünf Jahre, wenn der Arbeitnehmer bei Beginn des befristeten Arbeitsverhältnisses das 52. Lebensjahr vollendet hat **und** unmittelbar vor Beginn des Arbeitsverhältnisses **mindestens vier Monate** beschäftigungslos war (§ 138 SGB III), Transferkurzarbeitergeld bezog oder an einer Maßnahme nach SGB II/III teilgenommen hat. Mehrfachverlaengerung innerhalb der Gesamtdauer von fünf Jahren zulaessig.
+- **Neueinstellung Älterer:** § 14 Abs. 3 TzBfG — sachgrundlose Befristung bis fünf Jahre, wenn der Arbeitnehmer bei Beginn des befristeten Arbeitsverhältnisses das 52. Lebensjahr vollendet hat **und** unmittelbar vor Beginn des Arbeitsverhältnisses **mindestens vier Monate** beschäftigungslos war (§ 138 SGB III), Transferkurzarbeitergeld bezog oder an einer Maßnahme nach SGB II/III teilgenommen hat. Mehrfachverlaengerung innerhalb der Gesamtdauer von fünf Jahren zulässig.
 - **Wissenschaftszeitvertragsgesetz (WissZeitVG):** Sondergesetz für Wissenschaft.
 
 ## Sachgründe (§ 14 Abs. 1 S. 2 TzBfG)
@@ -116,7 +116,7 @@ Rechtliche Bewertung:
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
 - **BAG, Urteil vom 18.06.2025 - 7 AZR 50/24**: § 14 Abs. 2 TzBfG ist uneingeschraenkt auf Betriebsratsmitglieder anwendbar; eine teleologische Reduktion zur Begruenstigung von Betriebsratsmitgliedern findet nicht statt. Verweigert der Arbeitgeber dem befristet beschaeftigten Betriebsratsmitglied jedoch wegen des Mandats einen Folgevertrag, hat das Mitglied einen Schadensersatzanspruch gerichtet auf Abschluss des verweigerten Folgevertrags (§ 78 BetrVG i.V.m. § 280 BGB). Quelle: dejure.org / luther-lawfirm.com Newsroom; vor Schriftsatzverwendung Volltextpruefung empfohlen.
-- Hinweis: Aeltere Leitentscheidungen zur sachgrundlosen Befristung (z.B. BVerfG, Beschl. vom 06.06.2018 - 1 BvL 7/14 u.a., zur Verfassungsmaessigkeit des Vorbeschaeftigungsverbots; BAG-Folgerechtsprechung) bleiben massgeblich; Aktenzeichen vor Zitat ueber dejure.org / openjur.de verifizieren.
+- Hinweis: Aeltere Leitentscheidungen zur sachgrundlosen Befristung (z.B. BVerfG, Beschl. vom 06.06.2018 - 1 BvL 7/14 u.a., zur Verfassungsmaessigkeit des Vorbeschaeftigungsverbots; BAG-Folgerechtsprechung) bleiben massgeblich; Aktenzeichen vor Zitat über dejure.org / openjur.de verifizieren.
 
 ## Paragrafenkette
 

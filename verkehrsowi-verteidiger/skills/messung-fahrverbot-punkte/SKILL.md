@@ -32,7 +32,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 ## Messung / Punkte / Fahrverbot Bausteine
 - **Punkte FAER § 4 StVG (seit Reform 2014):**
  - 1 Punkt: leichtere Verstoesse (z. B. Tempoueberschreitung 21-30 km/h innerorts).
- - 2 Punkte: schwerere Verstoesse mit Fahrverbot (z. B. ueber 30 km/h innerorts mit Fahrverbot).
+ - 2 Punkte: schwerere Verstoesse mit Fahrverbot (z. B. über 30 km/h innerorts mit Fahrverbot).
  - 3 Punkte: Straftaten und besonders schwere OWi (z. B. § 316 StGB Trunkenheit, Unfallflucht).
  - **4-5 Punkte:** Ermahnung; **6-7 Punkte:** Verwarnung mit Aufbauseminar-Hinweis; **8 Punkte:** Entziehung Fahrerlaubnis (zwingend, § 4 V StVG).
  - **Punkteabbau:** freiwilliges Fahreignungsseminar bei 1-5 Punkten = 1 Punkt Reduktion (nur einmal in 5 Jahren).
@@ -43,8 +43,8 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
  - Berufskraftfahrer (Existenzgefahr).
  - Pflege Angehoeriger.
  - Wesentlicher Verlust soziale Bindungen.
- - **Kompensation moeglich:** Erhoehung Geldbusse um 50-100 % (BGH-Linie zur tatschuldangemessenen Kompensation).
-- **Messung Standard-Pruefung:**
+ - **Kompensation möglich:** Erhoehung Geldbusse um 50-100 % (BGH-Linie zur tatschuldangemessenen Kompensation).
+- **Messung Standard-Prüfung:**
  - **Eichschein** Geraet im Tatzeitraum?
  - **Bedienerschein** mit Schulungsnachweis?
  - **Toleranzwerte abgezogen?** (Geschwindigkeit: 3 km/h bis 100 km/h, 3 % darueber; Abstand: 10 %).

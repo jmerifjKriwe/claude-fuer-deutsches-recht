@@ -19,7 +19,7 @@ Die Dokumentenanalyse ist das Rueckgrat des Nachweises ordnungsgemaesser Bau-aus
 
 ## Bauwerk und Auftrag
 
-- Industriehalle Stuttgart 18.000 qm: 4.200 Lieferscheine Stahl und Beton, 280 Schweissprotokolle, Aufmass 38 Positionen, Schlussrechnung 8.2 Mio. EUR Pruefung
+- Industriehalle Stuttgart 18.000 qm: 4.200 Lieferscheine Stahl und Beton, 280 Schweissprotokolle, Aufmass 38 Positionen, Schlussrechnung 8.2 Mio. EUR Prüfung
 - Brueckenbau B31 Freiburg: 960 Betonchargen-Protokolle, Spannstahlzertifikate, komplexes Aufmass Betonmengen nach DIN 18331 Regelfall 4
 - Klaeranlage Muenchen Erweiterung: 1.200 Seiten Ausfuehrungsdokumentationen, ISYBAU-Export, As-Built GIS-Abgabe
 
@@ -30,12 +30,12 @@ Die Dokumentenanalyse ist das Rueckgrat des Nachweises ordnungsgemaesser Bau-aus
 3. Aufmass-Vorbereitung: Leistungspositionen aus Leistungsverzeichnis extrahieren, Aufmassregel je Position nach VOB/C bestimmen, Aufmassblatt vorbereiten
 4. Feldaufmass Digital-Tachymeter: Leica TS16 mit Feldbuch-Software iCON field, Direktimport in RIB iTWO, Genauigkeit 3 mm auf 100 m
 5. Mengenabgleich Plan-Ist: CAD-Volumen aus Revit oder ArchiCAD als Soll, gemessenes Aufmass als Ist, Abweichungsanalyse je Position, Toleranz +-3 Prozent
-6. Schlussrechnungs-Pruefung: Mengen LV-Positionen abgleichen, Einheitspreise gegen Vertrag, Nachtraeage geprueft, Gesamtsumme Freigabe nach VOB/B § 16
+6. Schlussrechnungs-Prüfung: Mengen LV-Positionen abgleichen, Einheitspreise gegen Vertrag, Nachtraeage geprueft, Gesamtsumme Freigabe nach VOB/B § 16
 
 ## Normen und Rechtsrahmen
 
 - § 650p BGB, § 650q BGB: Architekten- und Ingenieurvertrag, Rechnungspruefungspflicht LPH 8
-- HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Pruefung und Genehmigung von Unterlagen, Rechnungspruefung
+- HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Prüfung und Genehmigung von Unterlagen, Rechnungspruefung
 - VOB/C DIN 18299 Aufmassregeln: Allgemeine Regelungen alle Gewerke, masgeblich für Mengen- und Abrechnung
 - DIN EN 10204:2005-01 Metallische Erzeugnisse Arten von Pruefbescheinigungen: Werksbescheinigung 3.1 und 3.2, Konformitaetsbescheinigung 2.1 und 2.2
 - VOB/B § 14 Abrechnung und § 16 Zahlung: Abschlagsrechnungen, Prueffristen 21 Tage, Einwendungen, Schlussrechnung
@@ -60,7 +60,7 @@ Die Dokumentenanalyse ist das Rueckgrat des Nachweises ordnungsgemaesser Bau-aus
 
 ## Meldungserstellung im ERP / SAP
 
-- SAP PM Meldungsart M2 fehlende Werksbescheinigung: Equipment-Nr Bauteil, Schadenscode D020 Guetenachweis fehlt, Massnahme Nachlieferung Zertifikat T+5
+- SAP PM Meldungsart M2 fehlende Werksbescheinigung: Equipment-Nr Bauteil, Schadenscode D020 Guetenachweis fehlt, Maßnahme Nachlieferung Zertifikat T+5
 - SAP PS Rechnungspruefung: Abschlagsrechnung-Modul, Mengen aus iTWO importiert, Preisabgleich LV, Freigabe Projektleiter digital
 - SAP FI Zahlung: Nach Freigabe SAP PS Rechnungspruefung automatisch Zahlungsvorschlag FI-AP, Zahlungsziel VOB/B § 16 Abs. 3 30 Tage
 - BIM360 Document Management: Alle Pruefprotokolle versioniert, Zugriffsmatrix Bauherr Planer AN, Pruefstatus nach Revisionsliste
@@ -68,14 +68,14 @@ Die Dokumentenanalyse ist das Rueckgrat des Nachweises ordnungsgemaesser Bau-aus
 
 ## Typische Fallstricke
 
-- Fehlende Werksbescheinigung 3.1: Nachlieferung moeglich aber zeitaufwaendig, bei Serienfehlern Rueckgabe Charge erforderlich
+- Fehlende Werksbescheinigung 3.1: Nachlieferung möglich aber zeitaufwaendig, bei Serienfehlern Rueckgabe Charge erforderlich
 - Aufmass nach veralteter Plan-Revision: Aenderungsplanung nicht beruecksichtigt, falsche Mengen in Abrechnung
-- Mengenabgleich zu spaet: Erst bei Schlussrechnung aufgefallen, kein Zugriff mehr auf Details, Streit ueber Mengen
+- Mengenabgleich zu spaet: Erst bei Schlussrechnung aufgefallen, kein Zugriff mehr auf Details, Streit über Mengen
 - Digitalisierungsfehler OCR: Chargen-Nr falsch erkannt, manuelle Kontrolle Pflicht besonders bei handschriftlichen Dokumenten
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

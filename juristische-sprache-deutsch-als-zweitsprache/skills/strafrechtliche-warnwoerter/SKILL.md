@@ -15,7 +15,7 @@ description: "Hilft bei Strafrechtliche Warnwoerter für Menschen mit Deutsch al
 
 ## Warnwoerter mit hoher Tragweite
 - **Beschuldigter**: gegen Sie wird ermittelt. Sie haben das Recht zu schweigen (§ 136 Abs. 1 StPO) und einen Anwalt hinzuzuziehen.
-- **Vernehmung als Beschuldigter**: vor jeder Vernehmung muss die Belehrung nach § 136 StPO erfolgen. Sie muessen NICHT aussagen.
+- **Vernehmung als Beschuldigter**: vor jeder Vernehmung muss die Belehrung nach § 136 StPO erfolgen. Sie müssen NICHT aussagen.
 - **Anhörung Bussgeldverfahren**: § 55 OWiG; Schweigen ist erlaubt.
 - **Gestaendnis**: ist im Verfahren bindend, kann zu Verurteilung fuehren.
 - **Einlassung**: jede Aussage zur Sache ist eine Einlassung.

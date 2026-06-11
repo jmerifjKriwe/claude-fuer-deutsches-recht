@@ -48,7 +48,7 @@ Voraussetzungen:
 
 ### Anwendungsbeispiele aus BGH-Linie
 
-- **Schwarze Kassen**: Selbst geheime Konten ohne aktuelle Vermoegensminderung koennen Schaden darstellen, wenn der Mittelabfluss ausserhalb der ordentlichen Buchung erfolgt.
+- **Schwarze Kassen**: Selbst geheime Konten ohne aktuelle Vermoegensminderung können Schaden darstellen, wenn der Mittelabfluss ausserhalb der ordentlichen Buchung erfolgt.
 - **Risikokredite**: Wertberichtigung als Schaden anerkannt, aber konkret zu beziffern.
 - **Anlageentscheidungen**: Bei Investitionen in Hochrisiko-Anlagen (Subprime, Derivate) ist die Bewertung der Risiken zentral.
 
@@ -58,10 +58,10 @@ Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH sta
 
 ## Praktikertipps der alten Hasen
 
-- **Schadensbeziffrung in der Anklage pruefen.** Wenn die Anklageschrift den Schaden nur abstrakt benennt ("erheblicher Vermoegensverlust"), Antrag auf Praezisierung. Ohne konkrete Bezifferung verletzt das Verfahren das Bestimmtheitsgebot.
+- **Schadensbeziffrung in der Anklage prüfen.** Wenn die Anklageschrift den Schaden nur abstrakt benennt ("erheblicher Vermoegensverlust"), Antrag auf Praezisierung. Ohne konkrete Bezifferung verletzt das Verfahren das Bestimmtheitsgebot.
 - **Sachverstaendiger einholen.** Bei Risikogeschaeften ist Wirtschaftspruefer-Gutachten unverzichtbar. Methodendiskussion (IDW S 6, IDW PS 800) bestimmt das Ergebnis.
 - **Wertberichtigungs-Argument.** Verteidigung argumentiert: Wertberichtigung in der Bilanz war im Tatzeitpunkt zu hoch. Mit ex ante-Sicht (Marktbedingungen, Zinslage, Sicherheiten) realistischer Wertansatz.
-- **Spiegelbild-Vorteil.** Risikogeschaeft hat oft Vorteile (Erhaltung des Kunden, Zinsgewinn, strategische Position). Saldierung pruefen (BGH staendige Rspr.).
+- **Spiegelbild-Vorteil.** Risikogeschaeft hat oft Vorteile (Erhaltung des Kunden, Zinsgewinn, strategische Position). Saldierung prüfen (BGH staendige Rspr.).
 - **Vorsatz-Verteidigung.** Bei Komplexgeschaeften (Derivate, Subprime) ist subjektive Erfassung des Risikos schwer beweisbar. Verteidigung: Mandant hat das Risiko unterschaetzt; kein Eventualvorsatz.
 - **Verfassungsbeschwerde.** Wenn das Urteil den Schaden nicht hinreichend beziffert, Verfassungsbeschwerde aussichtsreich. BVerfG-Linie ist Maxime.
 
@@ -79,14 +79,14 @@ Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH sta
 
 ## Strafzumessung und Folgen
 
-- Schwellenwerte für **Regelbeispiel "grosses Ausmass"** (Paragraph 263 Abs 3 Satz 2 Nr 2 StGB iVm Paragraph 266 Abs 2 StGB): BGH ca. EUR 50.000.
+- Schwellenwerte für **Regelbeispiel "großes Ausmass"** (Paragraph 263 Abs 3 Satz 2 Nr 2 StGB iVm Paragraph 266 Abs 2 StGB): BGH ca. EUR 50.000.
 - **Wertersatz nach Paragraph 73c StGB** auf konkret bezifferten Schaden.
 - **Einziehung bei Gefaehrdung**: schwierig, weil keine effektive Vermoegensminderung vorliegt. BGH-Linie: Wertersatz nur, wenn Schaden konkret eingetreten oder einziehbarer Vermoegensvorteil entstanden.
 - **Bewaehrung Paragraph 56 StGB**: Bei verfassungsrechtlich unsicherer Bezifferung oft Bewaehrungsfaehigkeit erhalten.
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Die Anklage beziffert den Schaden mit EUR Y. Diese Bezifferung beruht auf einer pauschalen 50-Prozent-Wertberichtigung des gewaehrten Kredits. Konkrete bilanzielle Begruendung fehlt. Im Sinne des BVerfG-Beschlusses vom 23.06.2010 (2 BvR 2559/08) ist der Schaden konkret und nachweisbar zu beziffern. Pauschale Risikozuschlaege genuegen dem Bestimmtheitsgebot des Paragraph 103 Abs 2 GG nicht."
+**Schutzschrift-Snippet:** "Die Anklage beziffert den Schaden mit EUR Y. Diese Bezifferung beruht auf einer pauschalen 50-Prozent-Wertberichtigung des gewaehrten Kredits. Konkrete bilanzielle Begruendung fehlt. Im Sinne des BVerfG-Beschlusses vom 23.06.2010 (2 BvR 2559/08) ist der Schaden konkret und nachweisbar zu beziffern. Pauschale Risikozuschlaege genügen dem Bestimmtheitsgebot des Paragraph 103 Abs 2 GG nicht."
 
 **Einlassungs-Snippet:** "Ich habe den Kredit gewaehrt im Vertrauen darauf, dass die Sicherheiten Y und Z werthaltig sind. Eine vollstaendige Wertberichtigung haette ich im Zeitpunkt der Vergabe als ueberzogen abgelehnt; meine Einschaetzung war ein Risiko von hoechstens 15 Prozent."
 

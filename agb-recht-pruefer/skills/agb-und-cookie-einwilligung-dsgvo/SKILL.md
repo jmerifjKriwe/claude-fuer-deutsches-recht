@@ -26,7 +26,7 @@ description: "AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill kl
 
 ### Tracking-Cookies
 - Aktive Einwilligung erforderlich.
-- "Akzeptieren" und "Ablehnen" muessen gleichwertig prominent sein.
+- "Akzeptieren" und "Ablehnen" müssen gleichwertig prominent sein.
 - BGH I ZR 7/16 (Cookie-Einwilligung): Vorabauswahl mit Haekchen unwirksam.
 
 ### Dark Patterns

@@ -18,9 +18,9 @@ Ein Investor kauft ein Gechartertes Seeschiff unter Charterparty; Risiken aus Al
 
 ## Erste Schritte
 1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für Gechartertes Seeschiff unter Charterparty.
-2. Lastenuebergang pruefen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
-3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan pruefen.
-4. Zertifikatsstatus klaeren: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
+2. Lastenuebergang prüfen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
+3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan prüfen.
+4. Zertifikatsstatus klären: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
 5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
 6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
 

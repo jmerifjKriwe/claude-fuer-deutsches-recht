@@ -3,7 +3,7 @@ name: kokain-therapiepfad-pruefen
 description: "Kokain: Therapiepfad prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Kokain Therapiepfad Pruefen
+# Kokain Therapiepfad Prüfen
 
 ## Arbeitsweg
 

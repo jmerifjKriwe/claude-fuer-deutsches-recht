@@ -13,7 +13,7 @@ description: "Zeitvergleich Vorjahr in der BWA grafisch und tabellarisch. Anwend
 
 ## Kernsachverhalt
 
-Tabellen sind sachlich richtig, aber visuell muehsam. Fuer das Mandantengespraech und das Bankreporting empfiehlt sich die grafische Aufbereitung des Vorjahresvergleichs: Liniendiagramme für Umsatz und Ergebnis ueber 12 Monate, Balkengrafik für kumulierte Werte, Heatmap für monatliche Abweichungen. Der Steuerberater nutzt die DATEV-/Addison-Grafik-Module oder exportiert die Daten in eine Excel-/PowerPoint-Vorlage.
+Tabellen sind sachlich richtig, aber visuell muehsam. Für das Mandantengespraech und das Bankreporting empfiehlt sich die grafische Aufbereitung des Vorjahresvergleichs: Liniendiagramme für Umsatz und Ergebnis über 12 Monate, Balkengrafik für kumulierte Werte, Heatmap für monatliche Abweichungen. Der Steuerberater nutzt die DATEV-/Addison-Grafik-Module oder exportiert die Daten in eine Excel-/PowerPoint-Vorlage.
 
 ## Kaltstart-Rueckfragen
 
@@ -84,7 +84,7 @@ Tabellen sind sachlich richtig, aber visuell muehsam. Fuer das Mandantengespraec
 
 - Jede Grafik mit 2-3 Saetzen erlaeutern.
 - Auf wesentliche Auffaelligkeiten hinweisen.
-- Klar formulieren: "Im Marz Berichtsjahr lag der Umsatz rund 15 Prozent ueber Vorjahresmonat, im April rund 8 Prozent unter Vorjahresmonat."
+- Klar formulieren: "Im Marz Berichtsjahr lag der Umsatz rund 15 Prozent über Vorjahresmonat, im April rund 8 Prozent unter Vorjahresmonat."
 
 ### Phase 5 — Layout-Standardisierung
 

@@ -129,4 +129,4 @@ Bevor die Hörmarke eingereicht wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EUIPO Examiners, Entsch. v. 15.03.2022 — EUTM 018xxx (Harfen-Arpeggio, vertraulich):** Ein Fünf-Ton-Arpeggio auf der Harfe in einer ungewoehnlichen Molltonart ist bei Vorlage einer professionellen MP3-Aufnahme und einer praezisen Notenschrift grundsaetzlich eintragungsfaehig für Mode- und Einzelhandelsdienstleistungen (Klassen 25 und 35).
+> **EUIPO Examiners, Entsch. v. 15.03.2022 — EUTM 018xxx (Harfen-Arpeggio, vertraulich):** Ein Fünf-Ton-Arpeggio auf der Harfe in einer ungewoehnlichen Molltonart ist bei Vorlage einer professionellen MP3-Aufnahme und einer praezisen Notenschrift grundsätzlich eintragungsfaehig für Mode- und Einzelhandelsdienstleistungen (Klassen 25 und 35).

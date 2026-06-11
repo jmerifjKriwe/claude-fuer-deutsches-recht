@@ -7,7 +7,7 @@ description: "Dokumentenintake für Immobilienrechtspraxis: sortiert Notarvertra
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Immobilienrechtspraxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Immobilienrechtspraxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -26,7 +26,7 @@ Dieser Dokumenten-Intake für **Immobilienrechtspraxis** ordnet Anlagen, Registe
 ## Fachlandkarte dieses Plugins
 
 - `betriebskostenabrechnung-erstellen-asset-management` — Betriebskostenabrechnung Erstellen Asset Management
-- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Pruefen Asset Management
+- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Prüfen Asset Management
 - `case-gegen-grundbuchanalyse` — Case Gegen Grundbuchanalyse
 - `case-management-grundbuchanalyse-immo` — Case Management Grundbuchanalyse Immo
 - `gegen-verhandlung-vergleich-und-eskalation` — Gegen Verhandlung Vergleich und Eskalation

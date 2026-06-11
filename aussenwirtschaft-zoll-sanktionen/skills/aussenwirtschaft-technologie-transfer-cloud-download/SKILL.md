@@ -21,15 +21,15 @@ Exportkontrolle für Technologietransfer durch Cloud-Dienste und Downloads: Gene
 
 - Ingenieur gibt Kollegen in Iran Fernzugriff auf CAD-Dateien für Dual-Use-Maschine.
 - Unternehmen stellt Software-Update für gelistetes Produkt zum Download auf öffentlichem Server bereit.
-- Forschungsinstitut teilt technische Dokumentation ueber Cloud-Plattform mit Partnern in Russland.
+- Forschungsinstitut teilt technische Dokumentation über Cloud-Plattform mit Partnern in Russland.
 
 ## Erste Schritte
 
 1. Art des Transfers bestimmen: Fernzugriff, Download, E-Mail-Anhang oder Cloud-Storage.
-2. Technologie klassifizieren: Dual-Use-Code pruefen (VO 2021/821 Anhang I Anmerkung zu Technologie).
+2. Technologie klassifizieren: Dual-Use-Code prüfen (VO 2021/821 Anhang I Anmerkung zu Technologie).
 3. Empfaenger und Bestimmungsland identifizieren; Sanktions- und Embargocheck.
-4. Genehmigungspflicht nach Art. 2 Nr. 2 (Ausfuhr) und Technologie-Anmerkung pruefen.
-5. Zugangssteuerung pruefen: Wer hat tatsaechlich Zugriff auf Cloud-Ordner?
+4. Genehmigungspflicht nach Art. 2 Nr. 2 (Ausfuhr) und Technologie-Anmerkung prüfen.
+5. Zugangssteuerung prüfen: Wer hat tatsaechlich Zugriff auf Cloud-Ordner?
 6. Zugangssteuerungskonzept mit Länder-Blacklist und Nutzer-Verifizierung dokumentieren.
 
 ## Rechtsrahmen

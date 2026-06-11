@@ -103,13 +103,13 @@ description: "Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Abl
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Aufenthaltstitel-Pruefung | Pruef-Protokoll; Template unten |
-| Variante A — Aufenthalts-Aenderung durch Familienstand | Abgeleitetes Aufenthaltsrecht pruefen; Familiennachzug |
-| Variante B — Niederlassungserlaubnis angestrebt | § 9 AufenthG Voraussetzungen pruefen; Sprachkenntnisse |
+| Standard — Aufenthaltstitel-Prüfung | Pruef-Protokoll; Template unten |
+| Variante A — Aufenthalts-Aenderung durch Familienstand | Abgeleitetes Aufenthaltsrecht prüfen; Familiennachzug |
+| Variante B — Niederlassungserlaubnis angestrebt | § 9 AufenthG Voraussetzungen prüfen; Sprachkenntnisse |
 | Variante C — Aufenthaltsrecht durch EU-Freizuegigkeit | FreizuegG/EU statt AufenthG; andere Rechtslage |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -229,7 +229,7 @@ Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

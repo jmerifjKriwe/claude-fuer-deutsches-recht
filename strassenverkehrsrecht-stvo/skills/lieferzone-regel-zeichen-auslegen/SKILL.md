@@ -3,7 +3,7 @@ name: lieferzone-regel-zeichen-auslegen
 description: "StVO: Lieferzone: Regel prüfen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Lieferzone Regel Pruefen
+# Lieferzone Regel Prüfen
 
 ## Arbeitsweg
 

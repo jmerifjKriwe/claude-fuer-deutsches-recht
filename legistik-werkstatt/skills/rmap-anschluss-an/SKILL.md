@@ -15,11 +15,11 @@ description: "Brueckenskill: Wie verzahnt sich die Rulemap-Arbeit mit der uebrig
 
 ## Kern der Methode
 
-Die Rulemap-Skills bilden eine eigene Subkette; sie werden nach der Ressort- und Sachfeld-Klaerung in das Werkstatt-eingehaengt. Die Quercheckskills (verfassungsmaessigkeit; europarechtskonformitaet) wirken weiter; die rmap-Skills liefern zusaetzlich die maschinenlesbare Fassung.
+Die Rulemap-Skills bilden eine eigene Subkette; sie werden nach der Ressort- und Sachfeld-Klärung in das Werkstatt-eingehaengt. Die Quercheckskills (verfassungsmaessigkeit; europarechtskonformitaet) wirken weiter; die rmap-Skills liefern zusaetzlich die maschinenlesbare Fassung.
 
 ## Pruefpunkte
 
-Pruefen: ist die Werkstattkette vollstaendig durchlaufen? Sind Querprueferei und Rulemap-Erstellung sauber verzahnt? Liegt am Ende ein Aktenstand mit Text- und Logikfassung der Norm vor?
+Prüfen: ist die Werkstattkette vollstaendig durchlaufen? Sind Querprueferei und Rulemap-Erstellung sauber verzahnt? Liegt am Ende ein Aktenstand mit Text- und Logikfassung der Norm vor?
 
 ## Normenanker
 
@@ -40,7 +40,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Abgrenzung
 
-Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Pruefung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
+Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Prüfung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
 
 ## Quellen Stand 06/2026
 

@@ -28,7 +28,7 @@ Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates für Anfaenger und Prof
 
 ## Zentrale Normen
 - § 43 BRAO — Sorgfaltspflicht: Qualitaetssicherung als Grundpflicht vor jedem Ausgang
-- § 130 ZPO — Inhalt von Schriftsaetzen: Antraege und Begruendung muessen vollstaendig sein
+- § 130 ZPO — Inhalt von Schriftsaetzen: Antraege und Begruendung müssen vollstaendig sein
 - § 253 Abs. 2 ZPO — Klageschrift: Vollstaendigkeitspflicht bei Antraegen und Tatsachen
 - § 51 BRAO — Haftung bei erkennbar lueckenhaftem oder fehlerhaftem Schriftsatz
 

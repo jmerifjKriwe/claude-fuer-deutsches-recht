@@ -17,7 +17,7 @@ description: "Aufbau und Auditierung eines Internal Compliance Programme (ICP) n
 
 - Mittelstaendischer Exporteur muss ICP als Voraussetzung für Globalausfuhrgenehmigung nachweisen.
 - BAFA-Aussenpruefung beanstandet fehlendes ICP; Unternehmen hat 6 Monate zur Abhilfe.
-- Konzern integriert neue Akquisition; ICP-Standards muessen harmonisiert und ausgerollt werden.
+- Konzern integriert neue Akquisition; ICP-Standards müssen harmonisiert und ausgerollt werden.
 
 ## Erste Schritte
 

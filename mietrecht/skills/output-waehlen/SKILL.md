@@ -13,7 +13,7 @@ Diese Output-Weiche für **Mietrecht** entscheidet, ob Memo, Antrag, Schriftsatz
 
 - `amtlichen-amtsgericht-sonderfall` — Amtlichen Amtsgericht Sonderfall
 - `amtsgericht-sonderfall-und-edge-case` — Amtsgericht Sonderfall und Edge Case
-- `ausschliesslich-dokumentenmatrix-und-lueckenliste` — Ausschliesslich Dokumentenmatrix und Lueckenliste
+- `ausschliesslich-dokumentenmatrix-und-lueckenliste` — Ausschließlich Dokumentenmatrix und Lueckenliste
 - `betriebskostenabrechnung-belege-und-formelpruefer` — Betriebskostenabrechnung Belege und Formelpruefer
 - `bundesland-datenerhebung-grossstadt` — Bundesland Datenerhebung Grossstadt
 - `datenerhebung-zahlen-schwellen-und-berechnung` — Datenerhebung Zahlen Schwellen und Berechnung

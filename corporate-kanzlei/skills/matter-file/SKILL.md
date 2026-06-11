@@ -167,7 +167,7 @@ ROOT
 2. **Grundstruktur anlegen** — Unterordner wie oben; Zugriffsebenen festlegen
 3. **Compliance-Docs ablegen** — Conflict Check, GwG-CDD, NDA als erstes
 4. **Versions-Disziplin einhalten** — Dokumente nie ueberschreiben; v1, v2, FINAL, EXECUTION
-5. **Zugriffsrechte pruefen** — Need-to-know; Insider-Mitglieder bekommen nur ihre Unterordner
+5. **Zugriffsrechte prüfen** — Need-to-know; Insider-Mitglieder bekommen nur ihre Unterordner
 6. **Fristen-Kalender einpflegen** — Warranty-Verjährung; Aufbewahrungsfristen; Organschaft-Fristen
 7. **Archivierung post-Closing** — GoBD-konform; revisionssicher; 10 Jahre Aufbewahrung
 
@@ -197,7 +197,7 @@ VERTRAULICH — MANDATSGEHEIMNIS (§ 43a BRAO)
 - Akte ohne Versions-Disziplin → Unterschiede zwischen FINAL und EXECUTION unklar; Signing-Risiko
 - Aufbewahrungsfrist unterschaetzt → § 199 BGB Warranty-Verjährung; nach 2-3 Jahren bereits Ansprueche
 - Zugriffsrechte nicht gesetzt → Insider-Log-Verletzung; Vertraulichkeitsbruch
-- GoBD-Archivierung nicht revisionssicher → steuerliche Pruefung scheitert
+- GoBD-Archivierung nicht revisionssicher → steuerliche Prüfung scheitert
 
 ## Quellen
 

@@ -20,7 +20,7 @@ description: "Koerperverletzung nach § 223 StGB Grundtatbestand: Praxisleitfade
 
 ## Worum geht es
 
-§ 223 StGB ist der **Grundtatbestand der vorsaetzlichen Koerperverletzung** und der haeufigste Tatbestand in der strafrechtlichen Praxis. Strafrahmen: Freiheitsstrafe bis zu fuenf Jahren oder Geldstrafe. Versuch ist strafbar (§ 223 Abs. 2 StGB). Die Strafverfolgung setzt grundsaetzlich einen Strafantrag voraus (§ 230 StGB), es sei denn die Staatsanwaltschaft bejaht das besondere öffentliche Interesse.
+§ 223 StGB ist der **Grundtatbestand der vorsaetzlichen Koerperverletzung** und der haeufigste Tatbestand in der strafrechtlichen Praxis. Strafrahmen: Freiheitsstrafe bis zu fuenf Jahren oder Geldstrafe. Versuch ist strafbar (§ 223 Abs. 2 StGB). Die Strafverfolgung setzt grundsätzlich einen Strafantrag voraus (§ 230 StGB), es sei denn die Staatsanwaltschaft bejaht das besondere öffentliche Interesse.
 
 In der Praxis ist § 223 StGB Einstiegsnorm für eine Vielzahl von Konstellationen: Streit unter Familienangehoerigen, Schlaegereien, Schul- und Vereinskonflikte, Behandlungsfehler, sportliche Koerperkontakte.
 
@@ -30,11 +30,11 @@ In der Praxis ist § 223 StGB Einstiegsnorm für eine Vielzahl von Konstellation
 
 **Koerperliche Misshandlung:** Jede uebel und unangemessene Behandlung, die das koerperliche Wohlbefinden oder die koerperliche Unversehrtheit nicht nur unerheblich beeintraechtigt. Beispiele: Schlaege, Tritte, Stossen, Festhalten, Schneiden der Haare, Bespucken (streitig), Anbohren des Trommelfells.
 
-**Gesundheitsschaedigung:** Hervorrufen oder Steigern eines pathologischen Zustands, gleichgueltig ob koerperlich oder psychisch. Beispiele: Krankheit, Infektion, Schmerz, psychischer Schock, HIV-Infektion. **Psychische Beeintraechtigungen** koennen ausreichen, wenn sie pathologischen Charakter haben (Depression, PTBS).
+**Gesundheitsschaedigung:** Hervorrufen oder Steigern eines pathologischen Zustands, gleichgueltig ob koerperlich oder psychisch. Beispiele: Krankheit, Infektion, Schmerz, psychischer Schock, HIV-Infektion. **Psychische Beeintraechtigungen** können ausreichen, wenn sie pathologischen Charakter haben (Depression, PTBS).
 
 **Beide Varianten alternativ:** Es genuegt eine der beiden Tatbestandsalternativen.
 
-**Subjektiver Tatbestand:** Vorsatz; dolus eventualis genuegt. Bei Verletzungsvorsatz erforderlich, dass der Taeter den Eintritt einer der beiden Folgen für moeglich haelt und billigend in Kauf nimmt.
+**Subjektiver Tatbestand:** Vorsatz; dolus eventualis genuegt. Bei Verletzungsvorsatz erforderlich, dass der Taeter den Eintritt einer der beiden Folgen für möglich haelt und billigend in Kauf nimmt.
 
 **Rechtswidrigkeit:** Notwehr (§ 32 StGB), rechtfertigender Notstand (§ 34 StGB), Einwilligung (§ 228 StGB), elterliches Erziehungsrecht (§ 1631 Abs. 2 BGB – gewaltfreie Erziehung; koerperliche Bestrafung verboten), Berufsausuebung der Aerzte (Einwilligung).
 
@@ -48,7 +48,7 @@ In der Praxis ist § 223 StGB Einstiegsnorm für eine Vielzahl von Konstellation
 
 **Psychische Folgen:** Mobbing kann § 223 StGB erfuellen, wenn pathologische Folgen (Depression, PTBS, Schlafstoerungen) eintreten und Vorsatz nachweisbar ist.
 
-**Garantenstellung beim Unterlassen (§ 13 StGB):** Eltern muessen Kinder vor Misshandlung schuetzen; Pflegekraefte muessen Schuetzlinge versorgen.
+**Garantenstellung beim Unterlassen (§ 13 StGB):** Eltern müssen Kinder vor Misshandlung schuetzen; Pflegekraefte müssen Schuetzlinge versorgen.
 
 **HIV-Infektion:** Eine HIV-positive Person, die ungeschuetzten Geschlechtsverkehr ohne Aufklaerung hat, erfuellt nach staendiger BGH-Rechtsprechung § 223 StGB (ggf. § 224 StGB).
 
@@ -56,12 +56,12 @@ In der Praxis ist § 223 StGB Einstiegsnorm für eine Vielzahl von Konstellation
 
 ## Praktikertipps der Verteidigung
 
-- **Strafantrag pruefen (§ 230 StGB):** Liegt ein wirksamer Strafantrag vor? Bei Frist-Verstreichen kann Verfahren eingestellt werden, wenn kein öffentliches Interesse vorliegt.
-- **§ 153, § 153a StPO:** Bei einfacher Koerperverletzung haeufig Einstellung gegen Auflagen moeglich, insb. bei Erstmaligkeit.
-- **Notwehr (§ 32 StGB):** Erforderlichkeit und Gebotenheit pruefen; Vor- und Nachtatverhalten.
+- **Strafantrag prüfen (§ 230 StGB):** Liegt ein wirksamer Strafantrag vor? Bei Frist-Verstreichen kann Verfahren eingestellt werden, wenn kein öffentliches Interesse vorliegt.
+- **§ 153, § 153a StPO:** Bei einfacher Koerperverletzung haeufig Einstellung gegen Auflagen möglich, insb. bei Erstmaligkeit.
+- **Notwehr (§ 32 StGB):** Erforderlichkeit und Gebotenheit prüfen; Vor- und Nachtatverhalten.
 - **Einwilligung (§ 228 StGB):** Bei Sport, einvernehmlichen sexuellen Praktiken, BDSM, Initiationsritualen. Sittenwidrigkeitsgrenze bei Lebensgefahr.
-- **Behandlungsfehler:** Aerztliche Heileingriffe sind nach staendiger BGH-Rechtsprechung tatbestandlich Koerperverletzung; Rechtfertigung ueber Einwilligung. Verteidigung: Aufklaerung dokumentieren.
-- **Versuch:** § 223 Abs. 2 StGB. Bei misslungener Tat Ruecktritt § 24 StGB pruefen.
+- **Behandlungsfehler:** Aerztliche Heileingriffe sind nach staendiger BGH-Rechtsprechung tatbestandlich Koerperverletzung; Rechtfertigung über Einwilligung. Verteidigung: Aufklaerung dokumentieren.
+- **Versuch:** § 223 Abs. 2 StGB. Bei misslungener Tat Ruecktritt § 24 StGB prüfen.
 - **§ 46a StGB / TOA:** Bei einfacher Koerperverletzung haeufig Strafrahmenmilderung iVm § 49 Abs. 1 StGB.
 
 ## Trade-off-Matrix
@@ -85,10 +85,10 @@ In der Praxis ist § 223 StGB Einstiegsnorm für eine Vielzahl von Konstellation
 ## Strafzumessung
 
 - **Strafrahmen § 223 Abs. 1 StGB:** Geldstrafe oder Freiheitsstrafe bis zu fuenf Jahren.
-- **Versuch:** § 223 Abs. 2 StGB strafbar; Strafrahmenverschiebung § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB moeglich.
+- **Versuch:** § 223 Abs. 2 StGB strafbar; Strafrahmenverschiebung § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB möglich.
 - **§ 46 StGB:** Strafzumessungstatsachen – Verletzungsschwere, Tatfolgen, Vorgeschichte, Geststaendnis, Reue.
 - **§ 46a StGB / TOA:** Strafrahmenverschiebung oder Absehen von Strafe bei geringer Strafe (bis ein Jahr Freiheitsstrafe oder bis 360 Tagessaetzen Geldstrafe).
-- **Bewaehrung (§ 56 StGB):** Bei Geldstrafen sowieso; bei Freiheitsstrafe bis zu zwei Jahren grundsaetzlich moeglich.
+- **Bewaehrung (§ 56 StGB):** Bei Geldstrafen sowieso; bei Freiheitsstrafe bis zu zwei Jahren grundsätzlich möglich.
 - **§§ 153, 153a StPO:** Bei Erstmaligkeit, einfacher Koerperverletzung, Schadenswiedergutmachung haeufig Einstellungspraxis.
 
 ## Mustertexte
@@ -97,7 +97,7 @@ In der Praxis ist § 223 StGB Einstiegsnorm für eine Vielzahl von Konstellation
 > Der Angeklagte raeumt ein, dem Geschaedigten in der Tatnacht eine Ohrfeige gegeben zu haben. Vorausgegangen war ein verbaler Streit, im Verlauf dessen der Geschaedigte den Angeklagten mehrfach gestossen und beleidigt hat. Der Angeklagte hat sich gegen die fortgesetzten Stoesse gewehrt und dabei die Ohrfeige gegeben. Er beruft sich auf Notwehr nach § 32 StGB.
 
 **Antrag auf Einstellung nach § 153a StPO:**
-> Es wird beantragt, das Verfahren gemaess § 153a Abs. 1 StPO einzustellen. Der Beschuldigte ist nicht vorbestraft, die Verletzung ist von geringer Schwere, der Beschuldigte ist zur Wiedergutmachung sowie zur Zahlung einer Geldauflage in Hoehe von ... EUR an die ... bereit.
+> Es wird beantragt, das Verfahren gemäß § 153a Abs. 1 StPO einzustellen. Der Beschuldigte ist nicht vorbestraft, die Verletzung ist von geringer Schwere, der Beschuldigte ist zur Wiedergutmachung sowie zur Zahlung einer Geldauflage in Höhe von ... EUR an die ... bereit.
 
 **Plaedoyer-Snippet (Verteidigung):**
 > Die Beweisaufnahme hat ergeben, dass der Angeklagte in einer Konfliktlage gehandelt hat, in der er sich zumindest subjektiv angegriffen sah. Der notwendige Verletzungsvorsatz ist nicht zweifelsfrei belegt. Bei verbleibenden Zweifeln waere das Verfahren mindestens nach § 153 StPO einzustellen.

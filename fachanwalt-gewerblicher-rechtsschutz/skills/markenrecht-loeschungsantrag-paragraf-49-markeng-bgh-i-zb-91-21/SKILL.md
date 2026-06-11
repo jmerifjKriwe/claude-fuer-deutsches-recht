@@ -33,7 +33,7 @@ Markeninhaber benutzt Marke seit 6 Jahren nicht; Loeschungsantrag durch Wettbewe
 
 ## Arbeitsergebnis
 
-5 Jahre Nichtbenutzung; ernsthafte Benutzung pruefen.
+5 Jahre Nichtbenutzung; ernsthafte Benutzung prüfen.
 
 ## Belege und Aktenlücken
 

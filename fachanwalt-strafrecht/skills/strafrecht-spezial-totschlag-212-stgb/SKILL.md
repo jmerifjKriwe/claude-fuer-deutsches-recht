@@ -32,15 +32,15 @@ In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** 
 
 **Objektiver Tatbestand:** Toetung eines anderen Menschen. Tatobjekt ist ein lebender Mensch ab Geburt (vollstaendige Trennung vom Mutterleib) bis Hirntod. Schutzobjekt im Mutterleib ist der Embryo / Fetus nach §§ 218 ff. StGB.
 
-**Kausalitaet:** Aequivalenztheorie und objektive Zurechnung. Insbesondere bei Mehrfachursachen, retter- oder selbstgefaehrdetem Verhalten des Opfers Zurechnung im Einzelfall pruefen.
+**Kausalitaet:** Aequivalenztheorie und objektive Zurechnung. Insbesondere bei Mehrfachursachen, retter- oder selbstgefaehrdetem Verhalten des Opfers Zurechnung im Einzelfall prüfen.
 
 **Subjektiver Tatbestand:** Toetungsvorsatz. Vorsatzformen:
 
 - **Dolus directus 1. Grades (Absicht):** Toetung ist das Tatziel.
 - **Dolus directus 2. Grades (Wissentlichkeit):** Toetung ist als sichere Folge erkannt.
-- **Dolus eventualis (bedingter Vorsatz):** Taeter haelt Toetung für moeglich und nimmt sie billigend in Kauf.
+- **Dolus eventualis (bedingter Vorsatz):** Taeter haelt Toetung für möglich und nimmt sie billigend in Kauf.
 
-**Hemmschwellentheorie:** Die staendige BGH-Rechtsprechung nimmt bei vorsaetzlicher Toetung eine besondere Hemmschwelle an. Dolus eventualis ist nur bei eindeutigen objektiven Tatumstaenden zu bejahen. Die Tatumstaende muessen so beschaffen sein, dass der Taeter den Tod als naheliegend erkennt und sich gleichwohl mit ihm abfindet.
+**Hemmschwellentheorie:** Die staendige BGH-Rechtsprechung nimmt bei vorsaetzlicher Toetung eine besondere Hemmschwelle an. Dolus eventualis ist nur bei eindeutigen objektiven Tatumstaenden zu bejahen. Die Tatumstaende müssen so beschaffen sein, dass der Taeter den Tod als naheliegend erkennt und sich gleichwohl mit ihm abfindet.
 
 **Abgrenzung Vorsatz / Fahrlaessigkeit:** Bei bewusster Fahrlaessigkeit erkennt der Taeter die Moeglichkeit des Erfolges, vertraut aber pflichtwidrig darauf, dass er nicht eintritt. Bei dolus eventualis findet er sich mit dem Erfolg ab.
 
@@ -48,22 +48,22 @@ In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** 
 
 **Mensch:** Lebewesen ab Geburt. Geburtsbeginn ist nach staendiger BGH-Rechtsprechung der Beginn der Eroeffnungswehen.
 
-**Toetungshandlung:** Jedes auf den Tod gerichtete Verhalten. Auch durch Unterlassen (§ 13 StGB) moeglich, wenn Garantenstellung besteht (Eltern, Lebenspartner, vorausgegangenes Tun).
+**Toetungshandlung:** Jedes auf den Tod gerichtete Verhalten. Auch durch Unterlassen (§ 13 StGB) möglich, wenn Garantenstellung besteht (Eltern, Lebenspartner, vorausgegangenes Tun).
 
 **Mittelbare Toetung:** § 25 Abs. 1 Var. 2 StGB; der Taeter benutzt einen Dritten, der nicht volldeliktisch handelt (Notwehr, Kind, Geisteskranker).
 
-**Versuch:** § 22 StGB – unmittelbares Ansetzen zur Tatbestandsverwirklichung. Strafbarkeit folgt aus § 23 Abs. 1 StGB iVm § 12 Abs. 1 StGB (Verbrechen). Strafmilderung nach § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB moeglich. Ruecktritt § 24 StGB.
+**Versuch:** § 22 StGB – unmittelbares Ansetzen zur Tatbestandsverwirklichung. Strafbarkeit folgt aus § 23 Abs. 1 StGB iVm § 12 Abs. 1 StGB (Verbrechen). Strafmilderung nach § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB möglich. Ruecktritt § 24 StGB.
 
 **Besonders schwerer Fall (§ 212 Abs. 2 StGB):** Lebenslange Freiheitsstrafe, wenn die Tat in ihrer Bewertung dem Mord nahekommt, ohne dass ein Mordmerkmal voll erfuellt ist (selten in der Praxis; staendige BGH-Linie restriktiv).
 
 ## Praktikertipps der Verteidigung
 
 - **Vorsatzverteidigung:** Bei Schlaegen, Tritten, Stuerzen die konkrete Risikobewertung des Taeters in den Mittelpunkt stellen. Hemmschwellentheorie der staendigen BGH-Rechtsprechung nutzen – dolus eventualis erfordert hohe objektive Indizien.
-- **§ 21 StGB:** Alkohol, Affekt, Persoenlichkeitsstoerung, BAK-Berechnung pruefen. Bei BAK ueber 2,0 Promille zur Tatzeit ist § 21 StGB regelmaessig zu pruefen, bei ueber 3,0 Promille § 20 StGB. Sachverstaendigengutachten zwingend.
+- **§ 21 StGB:** Alkohol, Affekt, Persoenlichkeitsstoerung, BAK-Berechnung prüfen. Bei BAK über 2,0 Promille zur Tatzeit ist § 21 StGB regelmaessig zu prüfen, bei über 3,0 Promille § 20 StGB. Sachverstaendigengutachten zwingend.
 - **§ 213 StGB:** Bei Provokation durch das Opfer (schwere Beleidigung, koerperliche Misshandlung) Strafrahmen ein bis zehn Jahre Freiheitsstrafe. Eigenstaendiger Pruefungspunkt.
-- **Notwehr (§ 32 StGB):** Bei Konfliktsituationen vollstaendige Notwehrlage und Notwehrhandlung pruefen. Notwehrexzess § 33 StGB als Auffanglinie.
+- **Notwehr (§ 32 StGB):** Bei Konfliktsituationen vollstaendige Notwehrlage und Notwehrhandlung prüfen. Notwehrexzess § 33 StGB als Auffanglinie.
 - **Affekttat:** Tiefgreifende Bewusstseinsstoerung nach § 20 / § 21 StGB; Sachverstaendigengutachten.
-- **Versuchsverteidigung:** Bei Ruecktrittsmoeglichkeit (§ 24 StGB) genau pruefen, ob unbeendeter oder beendeter Versuch vorlag und ob der Taeter die Tatausfuehrung freiwillig aufgegeben hat.
+- **Versuchsverteidigung:** Bei Ruecktrittsmoeglichkeit (§ 24 StGB) genau prüfen, ob unbeendeter oder beendeter Versuch vorlag und ob der Taeter die Tatausfuehrung freiwillig aufgegeben hat.
 
 ## Trade-off-Matrix
 

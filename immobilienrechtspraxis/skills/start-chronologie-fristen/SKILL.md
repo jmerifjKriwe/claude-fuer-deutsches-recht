@@ -110,25 +110,25 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `case-management` | Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen, Dokumente im Überblick. Normen: WEG, §§ 535 ff. 873 ff. BGB, GrEStG. Prüfraster: Fristenliste, offene Anträge, Dokumentenstruktur. Output:… |
-| `grundbuchanalyse` | Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Prüfraster: Abteilung I bis III, Widersprueche, Rangverhältnisse,… |
+| `grundbuchanalyse` | Grundbuchauszug analysieren: Eigentümer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Prüfraster: Abteilung I bis III, Widersprueche, Rangverhältnisse,… |
 | `mieteranfragen-bearbeitung` | Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kündigung. Normen: §§ 535 536 556 573 BGB, WEG. Prüfraster: Anfragetyp, Rechtsgrundlage, Fristen, Handlungspflichten. Output:… |
 | `projekt-arbeitsweise` | Projektmethodik für Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Prüfraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan… |
 | `sachverhaltsermittlung` | Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhältnisse, Vertragshistorie, Beweismittel. Normen: §§ 873 ff. BGB, GBO, WEG. Prüfraster: Grundbuch, Kaufvertrag, Mietvertrag, Beweismittelkatalog.… |
-| `vertragserstellung-musterbasiert` | Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: §§ 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Prüfraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis.… |
-| `vertragspruefung-playbook` | Immobilienrechtliche Vertraege nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und… |
+| `vertragserstellung-musterbasiert` | Immobilienrechtliche Verträge auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: §§ 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Prüfraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis.… |
+| `vertragspruefung-playbook` | Immobilienrechtliche Verträge nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und… |
 
 ## Worum geht es?
 
-Das Plugin unterstuetzt immobilienrechtliche Rechtsabteilungen bei der taeglich anfallenden Vertragsarbeit, der Grundbuch- und Sachverhaltsanalyse sowie der Verwaltung von Miet- und WEG-Mandaten. Es verbindet musterbasierte Vertragserstellung mit einem strukturierten Pruefungs-Playbook und integriert den gesetzlichen Rahmen aus BGB, WEG, GBO und GrEStG.
+Das Plugin unterstuetzt immobilienrechtliche Rechtsabteilungen bei der taeglich anfallenden Vertragsarbeit, der Grundbuch- und Sachverhaltsanalyse sowie der Verwaltung von Miet- und WEG-Mandaten. Es verbindet musterbasierte Vertragserstellung mit einem strukturierten Prüfungs-Playbook und integriert den gesetzlichen Rahmen aus BGB, WEG, GBO und GrEStG.
 
-Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte mit mehreren Beteiligten und langer Laufzeit koordinieren muessen. Das Plugin setzt auf eine projektartige Arbeitsweise, die Fristen, Dokumente und Beteiligte in einer Gesamtschau haelt.
+Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte mit mehreren Beteiligten und langer Laufzeit koordinieren müssen. Das Plugin setzt auf eine projektartige Arbeitsweise, die Fristen, Dokumente und Beteiligte in einer Gesamtschau haelt.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie starten ein neues Immobilienrechtsmandat und muessen Eigentumsverhaeltnisse, Grundbuchbelastungen und Vertragshistorie systematisch erfassen.
-- Sie wollen einen Kaufvertrag, Mietvertrag oder WEG-Beschluss auf Musterbasis erstellen oder nach einem Playbook auf Risiken pruefen.
+- Sie starten ein neues Immobilienrechtsmandat und müssen Eigentumsverhaeltnisse, Grundbuchbelastungen und Vertragshistorie systematisch erfassen.
+- Sie wollen einen Kaufvertrag, Mietvertrag oder WEG-Beschluss auf Musterbasis erstellen oder nach einem Playbook auf Risiken prüfen.
 - Ein Mieter oder WEG-Eigentumer stellt eine Anfrage zu Instandsetzung, Betriebskosten oder Kuendigung.
-- Sie muessen mehrere Beteiligte, Fristen und Meilensteine in einem komplexen Immobilienprojekt steuern.
+- Sie müssen mehrere Beteiligte, Fristen und Meilensteine in einem komplexen Immobilienprojekt steuern.
 - Sie benoetigen einen Sachverhalts-Ermittlungsbericht als Grundlage für die rechtliche Bewertung.
 
 ## Fachbegriffe (kurz erklaert)
@@ -138,7 +138,7 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 - **WEG** — Wohnungseigentumsgesetz; regelt die Gemeinschaft der Wohnungseigentuemer, Beschlusse und Verwaltung.
 - **Dienstbarkeit** — Beschraenkung des Eigentuemers zugunsten Dritter (z. B. Wegerecht, Niesbrauch) nach §§ 1018 ff. BGB.
 - **GrEStG** — Grunderwerbsteuergesetz; regelt Steuertatbestand beim Eigentumsubergang.
-- **Notarerfordernis** — Formpflicht: Kaufvertraege ueber Grundstuecke beduerften nach § 311b BGB notarieller Beurkundung.
+- **Notarerfordernis** — Formpflicht: Kaufvertraege über Grundstuecke beduerften nach § 311b BGB notarieller Beurkundung.
 - **Playbook** — Standardisierter Pruefkatalog der Rechtsabteilung mit Risikoklauseln und Ampelbewertung.
 - **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; relevant beim KI-Einsatz in der Mandatsbearbeitung.
 
@@ -156,36 +156,36 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren (Kaeufer, Verkaeufer, Vermieter, WEG-Verwalter, Rechtsabteilung).
+1. Mandantenkonstellation klären (Kaeufer, Verkaeufer, Vermieter, WEG-Verwalter, Rechtsabteilung).
 2. Phase des Mandats bestimmen (Sachverhaltsaufnahme, Vertragserstellung, Vertragspruefung, laufende Verwaltung, Streitfall).
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Fristen pruefen (Kaufvertragsfrist, Kuendigungsfristen, GrESt-Zahlungsfristen).
+4. Fristen prüfen (Kaufvertragsfrist, Kuendigungsfristen, GrESt-Zahlungsfristen).
 5. Bei Projekten mit mehreren Beteiligten: Projektplan anlegen und Case Management aktivieren.
 
 ## Skill-Tour (was gibt es hier?)
 
 - `case-management` — Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen und Dokumente im Ueberblick.
-- `grundbuchanalyse` — Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten und Rangverhaeltnisse.
+- `grundbuchanalyse` — Grundbuchauszug analysieren: Eigentümer, Belastungen, Grundschulden, Dienstbarkeiten und Rangverhaeltnisse.
 - `mieteranfragen-bearbeitung` — Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kuendigung.
 - `projekt-arbeitsweise` — Projektmethodik für Immobilienrechtsprojekte mit mehreren Beteiligten, Meilensteinen und Dokumentenstruktur.
 - `sachverhaltsermittlung` — Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhaeltnisse, Vertragshistorie, Beweismittel.
-- `vertragserstellung-musterbasiert` — Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss.
-- `vertragspruefung-playbook` — Immobilienrechtliche Vertraege nach standardisiertem Playbook pruefen: Kaufvertrag, Grundschuld, WEG.
+- `vertragserstellung-musterbasiert` — Immobilienrechtliche Verträge auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss.
+- `vertragspruefung-playbook` — Immobilienrechtliche Verträge nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG.
 
 ## Worauf besonders achten
 
-- **Formzwang**: Kaufvertraege ueber Grundstuecke beduerften notarieller Beurkundung (§ 311b BGB); Formmangel fuehrt zu Nichtigkeit des gesamten Vertrages.
-- **Grundbuchstand vor Vertragsschluss pruefen**: Nicht eingetragene Belastungen und Widersprueche koennen Eigentumsuebergang erschweren.
-- **WEG-Beschluesse**: Nicht ordnungsgemaesse Einberufung oder fehlende Mehrheiten fuehren zur Anfechtbarkeit; Fristen nach § 45 WEG beachten.
+- **Formzwang**: Kaufvertraege über Grundstuecke beduerften notarieller Beurkundung (§ 311b BGB); Formmangel fuehrt zu Nichtigkeit des gesamten Vertrages.
+- **Grundbuchstand vor Vertragsschluss prüfen**: Nicht eingetragene Belastungen und Widersprueche können Eigentumsuebergang erschweren.
+- **WEG-Beschlüsse**: Nicht ordnungsgemaesse Einberufung oder fehlende Mehrheiten fuehren zur Anfechtbarkeit; Fristen nach § 45 WEG beachten.
 - **GrEStG-Grunderwerbsteuer**: Zahlungsfrist nach § 15 GrEStG; Unbedenklichkeitsbescheinigung Voraussetzung für Grundbucheintragung.
-- **AVV beim KI-Einsatz**: Mandatsdaten duerfen nur in KI-Systeme eingegeben werden, wenn ein datenschutzkonformer AVV vorliegt.
+- **AVV beim KI-Einsatz**: Mandatsdaten dürfen nur in KI-Systeme eingegeben werden, wenn ein datenschutzkonformer AVV vorliegt.
 
 ## Typische Fehler
 
-- Mustervertrag ohne Anpassung an Sachverhalt verwenden: fehlende Sondervereinbarungen zu Moebeln, Inventar oder Baumangeln fuehren spaeter zu Streit.
-- Grundbuch-Abt. III (Grundschulden) nicht vollstaendig pruefen: ueberraschende Belastungen koernen Kaufpreis und Finanzierung gefaehrden.
+- Mustervertrag ohne Anpassung an Sachverhalt verwenden: fehlende Sondervereinbarungen zu Moebeln, Inventar oder Baumangeln fuehren später zu Streit.
+- Grundbuch-Abt. III (Grundschulden) nicht vollstaendig prüfen: ueberraschende Belastungen koernen Kaufpreis und Finanzierung gefaehrden.
 - Kuendigungsfristen nach § 573c BGB verwechseln mit Kuendigungsgruenden nach § 573 BGB.
-- WEG-Beschluesse ohne Protokollpruefung uebernehmen: Fehler in der Abstimmung sind nicht immer offensichtlich.
+- WEG-Beschlüsse ohne Protokollpruefung uebernehmen: Fehler in der Abstimmung sind nicht immer offensichtlich.
 - Sachverhaltsermittlung und rechtliche Bewertung vermischen: Tatsachen erst vollstaendig erfassen, dann bewerten.
 
 ## Quellen und Aktualitaet

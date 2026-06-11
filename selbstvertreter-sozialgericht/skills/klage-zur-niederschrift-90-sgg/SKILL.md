@@ -13,11 +13,11 @@ description: "Klage auf der Geschäftsstelle des SG diktieren § 90 SGG. Wer kan
 
 ## Worum geht es?
 
-Sie wollen klagen, aber das Schreiben faellt Ihnen schwer. Vielleicht koennen Sie nicht so gut lesen oder schreiben. Vielleicht reichen Ihre Worte nicht. Diese Skill zeigt: Sie koennen ans Sozialgericht gehen und die Klage diktieren. Ein Mitarbeiter schreibt es auf.
+Sie wollen klagen, aber das Schreiben faellt Ihnen schwer. Vielleicht können Sie nicht so gut lesen oder schreiben. Vielleicht reichen Ihre Worte nicht. Diese Skill zeigt: Sie können ans Sozialgericht gehen und die Klage diktieren. Ein Mitarbeiter schreibt es auf.
 
 ## In einfacher Sprache
 
-Sie koennen Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schreibt für Sie. Sie unterschreiben. Fertig. Das kostet nichts.
+Sie können Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schreibt für Sie. Sie unterschreiben. Fertig. Das kostet nichts.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -35,7 +35,7 @@ Sie koennen Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schre
 ## Rechtsgrundlagen
 
 - **§ 90 SGG** — Klage schriftlich oder zur Niederschrift.
-- **§ 91 SGG** — Niederschrift bei einem anderen Gericht moeglich.
+- **§ 91 SGG** — Niederschrift bei einem anderen Gericht möglich.
 
 ## Schritt-für-Schritt-Anleitung
 
@@ -86,20 +86,20 @@ Sie bekommen eine Kopie der Niederschrift. Aufheben! Das ist Ihr Beweis.
 - Behörde erwidert.
 - Verfahren laeuft.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Klagebegruendung kann nachgereicht werden**: Bei der Niederschrift muessen Sie nicht alle Details liefern. Erst Klage einreichen, Frist sichern; Begruendung folgt schriftlich.
+- **Klagebegruendung kann nachgereicht werden**: Bei der Niederschrift müssen Sie nicht alle Details liefern. Erst Klage einreichen, Frist sichern; Begruendung folgt schriftlich.
 - **Mitarbeiter sind freundlich**: Auf den Geschaeftsstellen arbeiten Personen, die genau dafür da sind, Buergern zu helfen.
-- **Sprache**: Wenn Sie Deutsch nicht gut sprechen: Dolmetscher kann moeglich sein (siehe `dolmetscher-beim-sozialgericht-laien`). Vorher anfragen.
-- **Begleitperson**: Sie duerfen jemanden mitnehmen. Familienmitglied, Freund, Sozialberater.
+- **Sprache**: Wenn Sie Deutsch nicht gut sprechen: Dolmetscher kann möglich sein (siehe `dolmetscher-beim-sozialgericht-laien`). Vorher anfragen.
+- **Begleitperson**: Sie dürfen jemanden mitnehmen. Familienmitglied, Freund, Sozialberater.
 
 ## Typische Fehler
 
-- Ohne Bescheid kommen → nicht moeglich, ohne Bescheid keine Klage
+- Ohne Bescheid kommen → nicht möglich, ohne Bescheid keine Klage
 - Frist verpasst, weil "ich gehe naechste Woche hin" → Termin sofort
 - Beim Vorlesen nicht zugehoert → wichtig: Protokoll muss stimmen
 - Original-Bescheid abgegeben → immer nur Kopie
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 90 SGG aktuell. Oeffnungszeiten variieren je SG; bitte direkt vorab anrufen oder auf der Website pruefen (www.sozialgerichtsbarkeit.de).
+Stand: 05/2026. § 90 SGG aktuell. Oeffnungszeiten variieren je SG; bitte direkt vorab anrufen oder auf der Website prüfen (www.sozialgerichtsbarkeit.de).

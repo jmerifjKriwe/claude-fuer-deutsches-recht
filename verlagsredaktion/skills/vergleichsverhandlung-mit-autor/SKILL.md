@@ -31,11 +31,11 @@ Ein Honorarstreit, eine Vorschuss-Rueckforderung, ein Anpassungsverlangen nach U
 
 - BGB § 779 - Vergleich; nur wirksam, wenn beide Parteien wechselseitig nachgeben.
 - ZPO §§ 278, 794 Abs. 1 Nr. 1 - gerichtlicher Vergleich, Vollstreckungstitel; ausserhalb der Streitsache als reine Privatvereinbarung.
-- UrhG § 32, 32a - Verguetung und Anpassungsanspruch; nicht durch Vergleich vollstaendig abdingbar.
+- UrhG § 32, 32a - Vergütung und Anpassungsanspruch; nicht durch Vergleich vollstaendig abdingbar.
 - UrhG § 79b - bei Ueberlassung von Nutzungsrechten; pauschale Abgeltung mit Einschraenkungen.
-- BGB §§ 145 ff. - Angebot und Annahme; Schweigen ist grundsaetzlich keine Annahme.
+- BGB §§ 145 ff. - Angebot und Annahme; Schweigen ist grundsätzlich keine Annahme.
 - BGB §§ 305 ff. - AGB-Kontrolle bei vorformulierten Vergleichsklauseln gegenueber Verbraucher-Autoren.
-- DSGVO Art. 6, 17 - bei Vergleich ueber Loeschung personenbezogener Daten.
+- DSGVO Art. 6, 17 - bei Vergleich über Loeschung personenbezogener Daten.
 
 ## Praxisleitfaden / Schritt für Schritt
 
@@ -49,10 +49,10 @@ Ein Honorarstreit, eine Vorschuss-Rueckforderung, ein Anpassungsverlangen nach U
 
 ## Trade-off-Matrix
 
-| Aspekt | Frueher Vergleich | Spaeter Vergleich |
+| Aspekt | Frueher Vergleich | Später Vergleich |
 |---|---|---|
 | Kosten | Niedrig | Hoeher (Anwalts-/Gerichtskosten) |
-| Image | Diskret | Oeffentlich |
+| Image | Diskret | Öffentlich |
 | Beweislage | Offen | Verfestigt |
 | Verhandlungsmacht | Symmetrisch | Asymmetrisch (wer im Recht ist) |
 | Loesungsraum | Breit (auch Sachleistung) | Eng (Geld, Kosten) |
@@ -61,7 +61,7 @@ Ein Honorarstreit, eine Vorschuss-Rueckforderung, ein Anpassungsverlangen nach U
 
 - Vergleich nie "in der Hitze" abschliessen - mindestens 24 Stunden Bedenkzeit.
 - Sachleistung kann mehr wert sein als Geld (Buchanzeige, Festschriftsbeitrag, Nachfolgekommentar).
-- Bei Anwaltsbeteiligung des Autors: Auch eigene Vertretung pruefen, sonst Schieflage.
+- Bei Anwaltsbeteiligung des Autors: Auch eigene Vertretung prüfen, sonst Schieflage.
 - Vergleichstext immer beidseitig unterschreiben lassen, nicht "stillschweigend gelebt".
 - Vertraulichkeit nur ausdruecklich; sonst kann der Autor die Konditionen weitererzaehlen.
 - "Sachen verhandeln, Personen schonen." Beziehung erhalten lohnt sich oft für Folgewerke.
@@ -143,7 +143,7 @@ Verlag Autor
 ## Typische Fehler / Pitfalls
 
 - Abgeltungsklausel zu weit gefasst - kann unwirksam sein (z. B. zukuenftige UrhG § 32a-Ansprueche).
-- Keine Zahlungsfrist im Vergleich - Streit ueber Faelligkeit.
+- Keine Zahlungsfrist im Vergleich - Streit über Faelligkeit.
 - Vergleich ohne Schriftform - bei Bestreiten kaum beweisbar.
 - Vertraulichkeitsklausel ohne Sanktion - faktisch wirkungslos.
 - Steuerliche Behandlung der Zahlung uebersehen (Schadensersatz, Honorar, Vergleichssumme).
@@ -153,6 +153,6 @@ Verlag Autor
 
 - BGB §§ 145 ff., 305 ff., 779 - Angebot, AGB-Kontrolle, Vergleich.
 - ZPO §§ 278, 794 - Vergleichsmoeglichkeit im Prozess, Vollstreckungstitel.
-- UrhG §§ 32, 32a, 79b - Verguetung, Anpassung, Nichtabdingbarkeit.
+- UrhG §§ 32, 32a, 79b - Vergütung, Anpassung, Nichtabdingbarkeit.
 - DSGVO Art. 6, 17 - bei Datenloeschung als Vergleichsleistung.
 - BGH-Rechtsprechung zur Reichweite von Abgeltungsklauseln (Volltexte unter bundesgerichtshof.de und dejure.org).

@@ -21,8 +21,8 @@ Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlast
 
 1. **Wer sind die Belastungszeugen?** — Polizeibeamte, Geschaedigte, Passanten, Sachverstaendige — unterschiedliche Erschuetterungsstrategien.
 2. **Haben die Zeugen fruehere Aussagen gemacht?** — Polizeivernehmung, Anhörung im OWi-Verfahren, andere Verfahren — Inkonsistenzen nutzen.
-3. **Zeugnisverweigerungsrecht vorhanden?** — § 52 StPO: Angehoerige; § 53 StPO: Berufsgeheimnisstraeger. Zeuge ueber Recht belehrt?
-4. **Aussage-Konstanz pruefen:** Sind Angaben in der Polizeiaussage identisch mit der HV-Aussage? Abweichungen sind Angriffspunkt.
+3. **Zeugnisverweigerungsrecht vorhanden?** — § 52 StPO: Angehoerige; § 53 StPO: Berufsgeheimnisstraeger. Zeuge über Recht belehrt?
+4. **Aussage-Konstanz prüfen:** Sind Angaben in der Polizeiaussage identisch mit der HV-Aussage? Abweichungen sind Angriffspunkt.
 5. **Schriftsatzzeugen:** Dokumentarische Beweise (Messprotokolle, Bericht der Polizei) als Ergaenzung zu Zeugenbefragung.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -32,8 +32,8 @@ Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlast
 - **§ 53 StPO** — Zeugnisverweigerungsrecht für Berufsgeheimnisstraeger (Aerzte, Anwaelte, etc.)
 - **§ 55 StPO** — Auskunftsverweigerungsrecht bei Selbstbelastung (nemo tenetur)
 - **§ 68 StPO** — Zeugenpflichten: erscheinen, Zeugnis ablegen (mit Ausnahmen)
-- **§ 68a StPO** — Fragen nach Vorstrafen des Zeugen zulaessig zur Glaubwuerdigkeitspruefung
-- **§ 240 StPO** — Fragerecht; alle Beteiligten koennen Fragen stellen
+- **§ 68a StPO** — Fragen nach Vorstrafen des Zeugen zulässig zur Glaubwuerdigkeitspruefung
+- **§ 240 StPO** — Fragerecht; alle Beteiligten können Fragen stellen
 - **§ 249 StPO** — Urkundenbeweis; Vorlesen von Dokumenten
 - **§ 254 StPO** — Verlesung von Protokollen richterlicher Vernehmung (Vorhalt)
 
@@ -72,13 +72,13 @@ Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlast
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Zeugen-Befragungsstrategie für Strafbefehl-Verfahren erstellen | Frageliste nach Schema; Template unten |
 | Variante A — Zeuge ist Belastungszeuge offensichtlich feindlich | Kurze konfrontative Befragung; kein ausfuehrliches Kreuzverhoer |
-| Variante B — Zeuge kennt Mandanten gut Entlastung moeglich | Entlastungszeuge foerdern; ausfuehrliche Befragung zu Gunsten |
+| Variante B — Zeuge kennt Mandanten gut Entlastung möglich | Entlastungszeuge foerdern; ausfuehrliche Befragung zu Gunsten |
 | Variante C — Zeuge verweigert Aussage zu erwarten | Befragungsstrategie für Aussageverweigerung vorbereiten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -99,7 +99,7 @@ Fragen:
 Erwartetes Ergebnis: [Entlastung / Erschuetterung / Vorhalt]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

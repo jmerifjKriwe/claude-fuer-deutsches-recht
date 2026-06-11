@@ -7,7 +7,7 @@ description: "Anschreiben Anrede und Form für Klage und sonstige Schriftsaetze 
 
 ## Worum geht es?
 
-Ein Gericht ist eine Behörde mit eigenen Konventionen. Sie muessen nicht juristisch formuliert schreiben — aber bestimmte Foermlichkeiten erhoehen Ihre Glaubwuerdigkeit und vermeiden Rueckfragen. Diese Skill zeigt die richtigen Anreden, Briefkopf-Elemente und uebliche Schlussformeln.
+Ein Gericht ist eine Behörde mit eigenen Konventionen. Sie müssen nicht juristisch formuliert schreiben — aber bestimmte Foermlichkeiten erhoehen Ihre Glaubwuerdigkeit und vermeiden Rueckfragen. Diese Skill zeigt die richtigen Anreden, Briefkopf-Elemente und uebliche Schlussformeln.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -132,7 +132,7 @@ Mit freundlichen Gruessen
 [Name in Druckbuchstaben]
 ```
 
-Bei elektronischer Einreichung ueber MJP: einfache Signatur reicht in Verbindung mit dem sicheren Uebermittlungsweg (§ 130a III ZPO).
+Bei elektronischer Einreichung über MJP: einfache Signatur reicht in Verbindung mit dem sicheren Uebermittlungsweg (§ 130a III ZPO).
 
 ### Schritt 9 — Anlagen
 
@@ -156,7 +156,7 @@ Verteiler:
 1 x Kopie zu meinen Akten
 ```
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sie-Form, Hoeflichkeitsform**.
 - **Keine Beschimpfungen**, auch bei berechtigter Empoerung.

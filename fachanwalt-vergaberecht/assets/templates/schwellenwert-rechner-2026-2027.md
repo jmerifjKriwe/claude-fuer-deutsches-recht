@@ -6,5 +6,5 @@
 | Auftragsart | Bau / Lieferleistung / Dienstleistung / soziale Dienste / Konzession |  |
 | Nettoauftragswert | ohne Umsatzsteuer, inkl. Optionen und Verlaengerungen |  |
 | Lose | Zusammenrechnung, Ausnahmen, Losstrategie |  |
-| Schwelle | offizielle EU-/nationale Quelle live pruefen |  |
+| Schwelle | offizielle EU-/nationale Quelle live prüfen |  |
 | Rechtsfolge | GWB/VgV/SektVO/KonzVgV/VSVgV oder UVgO/VOB/A 1 |  |

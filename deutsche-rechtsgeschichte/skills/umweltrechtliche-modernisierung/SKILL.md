@@ -27,7 +27,7 @@ Das moderne Umweltrecht ist ein Kind der zweiten Haelfte des 20. Jh. Zwar gab es
 
 ## Akteure und Institutionen
 
-- **Bundesministerium des Innern (bis 1986)**: Zustaendig für Umwelt im Kaiserreich
+- **Bundesministerium des Innern (bis 1986)**: Zuständig für Umwelt im Kaiserreich
 - **Bundesumweltministerium (BMU, seit 1986)**: Zentralbehoerde Umweltrecht
 - **Willy Brandt** (1913-1992): Politischer Initiator des deutschen Umweltrechts
 - **BVerwG**: Leitentscheidungen zum BImSchG, bverwg.de

@@ -45,7 +45,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Belehrung Beschuldigter § 136 StPO** in Vernehmungsprotokoll dokumentiert? Qualifizierte Belehrung bei Wiederholung?
  - **Beweismittelverzeichnis** vollstaendig - alle Zeugen, Urkunden, Sachverstaendigengutachten gelistet?
  - **Akteneinsicht § 147 StPO** vollstaendig erhalten? Bei Verweigerung gerichtliche Entscheidung § 147 V 2 StPO.
- - **Haftbefehl § 114 StPO** ordnungsgemaess: dringender Tatverdacht, Haftgrund, Tat, Beweismittel, Verhaeltnismaessigkeit?
+ - **Haftbefehl § 114 StPO** ordnungsgemaess: dringender Tatverdacht, Haftgrund, Tat, Beweismittel, Verhältnismäßigkeit?
  - **Durchsuchungsbeschluss § 105 StPO** ordnungsgemaess: Tatverdacht konkretisiert, zu suchende Beweismittel konkret, richterliche Anordnung (Ausnahme Gefahr im Verzug eng gefasst)?
  - **TKUe-Beschluss § 100a StPO** mit Katalogtatauflistung, Subsidiaritaet, Befristung?
 - **Nachforderungs-Schreiben Vorlage:**
@@ -59,4 +59,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Sachverstaendigengutachten (vollstaendig).
  ...
  ```
-- **Anschluss-Skills:** beweisverwertungsverbote, durchsuchungsbeschluss-pruefung, telefoneberwachung-pruefung.
+- **Anschluss-Skills:** beweisverwertungsverbote, durchsuchungsbeschluss-prüfung, telefoneberwachung-prüfung.

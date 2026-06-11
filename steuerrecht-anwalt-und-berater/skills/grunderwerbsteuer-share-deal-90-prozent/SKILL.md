@@ -38,13 +38,13 @@ description: "Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbes
 
 ### Leitentscheidungen und Folgeskills
 
-- **BFH, Beschluss vom 09.07.2025 — II B 13/25 (AdV)**: Ernstliche Zweifel an der Rechtmaessigkeit einer doppelten GrESt-Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG bei zeitlich getrenntem Signing und Closing eines GmbH-Anteilserwerbs. Volltext ueber BFH-Datenbank (STRE202520204).
+- **BFH, Beschluss vom 09.07.2025 — II B 13/25 (AdV)**: Ernstliche Zweifel an der Rechtmaessigkeit einer doppelten GrESt-Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG bei zeitlich getrenntem Signing und Closing eines GmbH-Anteilserwerbs. Volltext über BFH-Datenbank (STRE202520204).
 - **BFH, Beschluss vom 16.09.2025 — II B 23/25 (AdV)**: Keine automatische AdV gegen die Closing-Festsetzung selbst, wenn die rechtlichen Zweifel nur die zusätzliche Signing-Festsetzung betreffen. Zielbescheid sauber trennen.
-- **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** (sog. dritter Signing-Closing-Beschluss): Bestaetigt die Linie aus II B 13/25; doppelte GrESt-Festsetzung auf einheitlichen Lebenssachverhalt verstoesst gegen den Verhaeltnismaessigkeitsgrundsatz; gilt auch ohne Nachpruefungsvorbehalt nach § 164 AO. Volltext ueber BFH-Datenbank (STRE202520313).
-- **BFH, Urteil vom 21.05.2025 — II R 31/22**: Volltext ueber BFH-Datenbank (Pruefung im Einzelfall).
-- **BFH, Urteil vom 25.09.2024 — II R 2/22** und **II R 46/22** (Konzernklausel § 6a GrEStG): Volltext ueber BFH-Datenbank.
+- **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** (sog. dritter Signing-Closing-Beschluss): Bestaetigt die Linie aus II B 13/25; doppelte GrESt-Festsetzung auf einheitlichen Lebenssachverhalt verstoesst gegen den Verhaeltnismaessigkeitsgrundsatz; gilt auch ohne Nachpruefungsvorbehalt nach § 164 AO. Volltext über BFH-Datenbank (STRE202520313).
+- **BFH, Urteil vom 21.05.2025 — II R 31/22**: Volltext über BFH-Datenbank (Prüfung im Einzelfall).
+- **BFH, Urteil vom 25.09.2024 — II R 2/22** und **II R 46/22** (Konzernklausel § 6a GrEStG): Volltext über BFH-Datenbank.
 - Gleich lautende Erlasse der obersten Finanzbehörden der Länder vom 20.02.2026 zur Anwendung der Share-Deal-Regeln nach §§ 1 Abs. 2a und 2b GrEStG; sie ersetzen die Erlasse vom 10.05.2022 und sind als Verwaltungsauffassung zu kennzeichnen, nicht als Ersatz für BFH-Rechtsprechung.
-- Weitere Rechtsprechung: vor Zitierung ueber dejure.org / BFH-Datenbank verifizieren.
+- Weitere Rechtsprechung: vor Zitierung über dejure.org / BFH-Datenbank verifizieren.
 
 Bei Detailfragen danach gezielt laden:
 
@@ -172,7 +172,7 @@ und wird zusätzlich zum Kaufpreis fällig.
 | Bemessung über Kaufpreis statt Grundbesitzwert | falscher Bescheid → Einspruch | Bewertungsgutachten beibringen | korrekter Wert §138 BewG |
 | RETT-Blocker schwach gestaltet | wirtschaftliche Identität → § 1 Abs. 3a | Strukturüberprüfung | wirtschaftlich unabhängige Erwerber |
 | Bundesland-Steuersatz übersehen | Falsche Steuerprognose | Korrektur möglich | richtiger Hebesatz |
-| Signing/Closing-Trennung + Doppel-Festsetzung § 1 Abs. 2b + Abs. 3 | Doppelbesteuerung — AdV unter Berufung auf BFH II B 13/25, II B 47/25 sofort beantragen | Pruefung Verhaeltnismaessigkeit; Verzicht auf eine Festsetzung verhandeln | Einheitliche Festsetzung |
+| Signing/Closing-Trennung + Doppel-Festsetzung § 1 Abs. 2b + Abs. 3 | Doppelbesteuerung — AdV unter Berufung auf BFH II B 13/25, II B 47/25 sofort beantragen | Prüfung Verhältnismäßigkeit; Verzicht auf eine Festsetzung verhandeln | Einheitliche Festsetzung |
 
 ## Quellen und Updates
 

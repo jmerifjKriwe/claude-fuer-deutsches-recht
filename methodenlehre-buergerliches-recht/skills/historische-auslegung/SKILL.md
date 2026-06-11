@@ -19,11 +19,11 @@ In der Praxis ist die Historie haeufig nachgeordnet, weil Materialien lueckenhaf
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie pruefen eine Norm, die Teil einer dokumentierten Reform ist, und wollen die Gesetzgebergedanken kennen.
-- Sie streiten ueber die Reichweite eines neuen Tatbestandsmerkmals und brauchen die BT-Drucksache.
+- Sie prüfen eine Norm, die Teil einer dokumentierten Reform ist, und wollen die Gesetzgebergedanken kennen.
+- Sie streiten über die Reichweite eines neuen Tatbestandsmerkmals und brauchen die BT-Drucksache.
 - Sie argumentieren mit der ratio legis und wollen sie historisch absichern.
 - Sie streiten mit der Gegenseite darueber, ob ein bestimmter Fall vom Gesetzgeber bewusst nicht geregelt wurde.
-- Sie pruefen die Umsetzung einer EU-Richtlinie und wollen das Verhaeltnis Richtlinie / nationales Umsetzungsgesetz pruefen.
+- Sie prüfen die Umsetzung einer EU-Richtlinie und wollen das Verhaeltnis Richtlinie / nationales Umsetzungsgesetz prüfen.
 
 ## Methodische Grundlage
 
@@ -57,12 +57,12 @@ Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich 
 ## Schritt-für-Schritt
 
 1. **Norm-Genese ermitteln.** Wann ist die Norm gefasst worden? Welche Reform? Welche EU-Richtlinie?
-2. **Materialien beschaffen.** Bundestags-Drucksachen ueber `dipbt.bundestag.de`; ueber das Dokumentations- und Informationssystem für Parlamentarische Vorgaenge.
+2. **Materialien beschaffen.** Bundestags-Drucksachen über `dipbt.bundestag.de`; über das Dokumentations- und Informationssystem für Parlamentarische Vorgaenge.
 3. **Massgebliche Drucksachen identifizieren.** Regierungsentwurf, Beschlussempfehlung, Plenardebatte.
 4. **Relevante Passagen extrahieren.** Wortgenaue Zitate, mit Drucksachen-Nummer und Seite.
 5. **Subjektive Position formulieren.** Was wollte der Gesetzgeber?
 6. **Objektive Position formulieren.** Was tragen die Materialien für den heutigen Anwendungsfall?
-7. **Bindungsstaerke pruefen.** Junge Reform, klarer Gesetzgeberwillen, dokumentierte Debatte: stark. Alte Norm, abweichende Gesellschaft, lueckenhafte Quellen: schwach.
+7. **Bindungsstaerke prüfen.** Junge Reform, klarer Gesetzgeberwillen, dokumentierte Debatte: stark. Alte Norm, abweichende Gesellschaft, lueckenhafte Quellen: schwach.
 8. **Ergebnis dokumentieren** mit Beleg. Bei jedem Materialien-Zitat genaue BT-Drs. mit Seite.
 
 ## Typische Fehler / Kritik
@@ -70,17 +70,17 @@ Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich 
 - **Materialien-Behauptungen ohne Beleg.** Wer "der Gesetzgeber wollte" schreibt, muss die Drucksache nennen. Behauptungen ohne BT-Drs.-Beleg sind unverwertbar.
 - **Einzelmeinung aus der Anhörung verallgemeinern.** Eine Sachverstaendigen-Aussage in einer Bundestags-Anhörung ist nicht der Wille des Gesetzgebers; sie ist ein Argument im Gesetzgebungsprozess.
 - **Subjektive Theorie verabsolutieren.** Der historische Gesetzgeberwille kann von der heutigen Wirklichkeit ueberholt sein. Reine Subjektivitaet versperrt die Anpassung des Rechts an neue Lebensverhaeltnisse.
-- **Objektive Theorie ohne Bezug.** Wer rein "objektiv" auslegt, ohne die Historie zu pruefen, verliert die Bindung an den demokratisch legitimierten Gesetzgeber.
-- **Historie bei sehr alten Normen ueberstrapazieren.** § 242 BGB existiert seit 1900; die Reichstagskommission hatte ihn als Programmsatz für Treu und Glauben; die Anwendung im Arbeitsrecht oder im Verbrauchsschutz ist heute weit ueber die historische Vorstellung hinausgewachsen.
+- **Objektive Theorie ohne Bezug.** Wer rein "objektiv" auslegt, ohne die Historie zu prüfen, verliert die Bindung an den demokratisch legitimierten Gesetzgeber.
+- **Historie bei sehr alten Normen ueberstrapazieren.** § 242 BGB existiert seit 1900; die Reichstagskommission hatte ihn als Programmsatz für Treu und Glauben; die Anwendung im Arbeitsrecht oder im Verbrauchsschutz ist heute weit über die historische Vorstellung hinausgewachsen.
 
 ## Quellen und Stand 05/2026
 
 - Friedrich Carl von Savigny, System des heutigen Roemischen Rechts, Band 1, Berlin 1840, § 33.
 - Karl Larenz, Methodenlehre der Rechtswissenschaft, 1960.
 - Keine Literatur- oder Autorennamen aus Modellwissen als tragende Quelle verwenden; bei Bedarf nur vom Nutzer bereitgestellte oder live verifizierte Quellen heranziehen.
-- Bundestags-Drucksachen ueber `dipbt.bundestag.de`.
+- Bundestags-Drucksachen über `dipbt.bundestag.de`.
 - BT-Drs. 14/6040 — Schuldrechtsmodernisierung.
 - §§ 241, 280, 311, 312 ff. BGB (gesetze-im-internet.de).
 - `references/methodik-buergerliches-recht.md` im Repo.
 
-Stand: Mai 2026. BT-Drucksachen vor Verwendung in Schriftsaetzen immer im Original pruefen.
+Stand: Mai 2026. BT-Drucksachen vor Verwendung in Schriftsaetzen immer im Original prüfen.

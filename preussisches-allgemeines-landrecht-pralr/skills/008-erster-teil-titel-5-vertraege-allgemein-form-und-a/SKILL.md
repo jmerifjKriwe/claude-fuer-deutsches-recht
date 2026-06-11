@@ -3,7 +3,7 @@ name: 008-erster-teil-titel-5-vertraege-allgemein-form-und-a
 description: "PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
-# Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A
+# Pralr Erster Teil Titel 5 Verträge Allgemein Form Und A
 
 ## Arbeitsweg
 
@@ -17,7 +17,7 @@ description: "PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung:
 
 - **ALR I 5 §§ 1-50**: Vertragsschluss durch Konsens.
 - **ALR I 5 §§ 100-200**: Formerfordernisse.
-- **ALR I 5 §§ 250-300**: Auslegung der Vertraege (bona fides).
+- **ALR I 5 §§ 250-300**: Auslegung der Verträge (bona fides).
 
 ## Form
 

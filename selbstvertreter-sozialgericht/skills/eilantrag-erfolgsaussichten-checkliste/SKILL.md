@@ -13,16 +13,16 @@ description: "Checkliste zur Beurteilung Ihrer Eilantrags-Chancen vor dem Sozial
 
 ## Worum geht es?
 
-Nicht jeder Eilantrag hat Erfolg. Diese Skill ist eine Checkliste, mit der Sie vorab pruefen koennen, wie gut Ihre Aussichten sind. Wenn die Antworten ungeklaert sind, holen Sie sich Hilfe.
+Nicht jeder Eilantrag hat Erfolg. Diese Skill ist eine Checkliste, mit der Sie vorab prüfen können, wie gut Ihre Aussichten sind. Wenn die Antworten ungeklaert sind, holen Sie sich Hilfe.
 
 ## In einfacher Sprache
 
-Bevor Sie das Sozialgericht anrufen, pruefen Sie Ihre Chancen. Gibt es ein Recht? Brennt es wirklich? Haben Sie Beweise? Wir gehen die Punkte mit Ihnen durch.
+Bevor Sie das Sozialgericht anrufen, prüfen Sie Ihre Chancen. Gibt es ein Recht? Brennt es wirklich? Haben Sie Beweise? Wir gehen die Punkte mit Ihnen durch.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie ueberlegen einen Eilantrag und sind unsicher.
-- Sie wollen vorher pruefen, was Sie noch brauchen.
+- Sie wollen vorher prüfen, was Sie noch brauchen.
 - Sie wollen Ihre Chancen einschaetzen.
 
 ## Fachbegriffe (kurz erklaert)
@@ -41,7 +41,7 @@ Bevor Sie das Sozialgericht anrufen, pruefen Sie Ihre Chancen. Gibt es ein Recht
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen: Habe ich Anordnungsanspruch?
+### Schritt 1 — Prüfen: Habe ich Anordnungsanspruch?
 
 Fragen Sie:
 
@@ -53,7 +53,7 @@ Fragen Sie:
 
 Wenn 3 von 5 mit Ja: Anordnungsanspruch wahrscheinlich.
 
-### Schritt 2 — Pruefen: Habe ich Anordnungsgrund?
+### Schritt 2 — Prüfen: Habe ich Anordnungsgrund?
 
 Fragen:
 
@@ -94,7 +94,7 @@ Brauchen:
 
 **Geringe Erfolgschance:**
 
-- Allgemeiner Streit ueber Anspruch ohne konkrete Notlage
+- Allgemeiner Streit über Anspruch ohne konkrete Notlage
 - Eilantrag erst Monate nach Bescheid (kein Anordnungsgrund mehr)
 - Komplexer Sachverhalt ohne Belege
 - Bereits laufende Hauptsache mit Aussicht
@@ -109,9 +109,9 @@ Wenn schwierig: Anwalt mit Beratungshilfe (siehe `beratungshilfe-vor-widerspruch
 
 ### Schritt 6 — Realistisch bleiben
 
-Auch ein erfolgreicher Eilantrag ist nur eine VORLAEUFIGE Regelung. Sie muessen die Hauptsache (Widerspruch / Klage) weiterfuehren. Wenn Sie dort scheitern, kann das Geld zurueckgefordert werden.
+Auch ein erfolgreicher Eilantrag ist nur eine VORLAEUFIGE Regelung. Sie müssen die Hauptsache (Widerspruch / Klage) weiterfuehren. Wenn Sie dort scheitern, kann das Geld zurueckgefordert werden.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Anordnungsgrund ist meist der Engpass**: Behörden haben oft Recht im Anspruch, aber das Gericht sieht keine akute Notlage.
 - **Konkrete Beweise sind Gold**: Kontoauszug, aerztliches Attest, Mahnungen — nichts Abstraktes.
@@ -127,4 +127,4 @@ Auch ein erfolgreicher Eilantrag ist nur eine VORLAEUFIGE Regelung. Sie muessen 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. BVerfG-Linie zum Eilrechtsschutz unveraendert. Pruefen Sie im konkreten Fall mit Beratungsstelle.
+Stand: 05/2026. BVerfG-Linie zum Eilrechtsschutz unveraendert. Prüfen Sie im konkreten Fall mit Beratungsstelle.

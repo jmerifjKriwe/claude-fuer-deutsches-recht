@@ -104,44 +104,44 @@ Automatisch generierte Komplett-Liste aller 118 Skills in diesem Plugin. Beschre
 | --- | --- |
 | `72-stunden-sprint` | Wahlkampfrecht Praxis: die letzten 72 Stunden vor Wahl, Debatte oder Krise planen im Wahlkampfrecht. |
 | `ad-library-transparenz` | Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen im Wahlkampfrecht. |
-| `agenturvertrag-compliance` | Wahlkampfrecht Praxis: Agentur-, Media- und Beratungsvertraege im Wahlkampf pruefen im Wahlkampfrecht. |
+| `agenturvertrag-compliance` | Wahlkampfrecht Praxis: Agentur-, Media- und Beratungsvertraege im Wahlkampf prüfen im Wahlkampfrecht. |
 | `aktenplan-beweisarchiv-amtstraeger` | Wahlkampfrecht Praxis: Kampagnenakte so strukturieren, dass sie später prüfbar bleibt im Wahlkampfrecht. |
-| `amtstraeger-ressourcen` | Wahlkampfrecht Praxis: Auftritte von Regierungsmitgliedern, Buergermeistern und Abgeordneten pruefen im Wahlkampfrecht. |
+| `amtstraeger-ressourcen` | Wahlkampfrecht Praxis: Auftritte von Regierungsmitgliedern, Buergermeistern und Abgeordneten prüfen im Wahlkampfrecht. |
 | `angriff-auf-wahlleitung-vermeiden` | Wahlkampfrecht Praxis: Kritik an Wahlorganisation ohne Vertrauenszerstoerung formulieren im Wahlkampfrecht. |
-| `arbeitsrecht-kampagnenteam` | Wahlkampfrecht Praxis: Beschaeftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf pruefen im Wahlkampfrecht. |
+| `arbeitsrecht-kampagnenteam` | Wahlkampfrecht Praxis: Beschaeftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf prüfen im Wahlkampfrecht. |
 | `archivierung-screenshots` | Wahlkampfrecht Praxis: digitale Beweise für schnelle Praxis sichern im Wahlkampfrecht. |
 | `asymmetrische-demobilisierung` | Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren im Wahlkampfrecht. |
 | `barrierefreie-und-mehrsprachige-information` | Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen im Wahlkampfrecht. |
 | `barrierefreiheit-und-inklusion` | Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen im Wahlkampfrecht. |
 | `bots-und-inauthentisches-verhalten` | Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden im Wahlkampfrecht. |
-| `briefkasten-flyer` | Wahlkampfrecht Praxis: Flyer- und Briefkastenaktionen pruefen im Wahlkampfrecht. |
-| `briefwahlkommunikation` | Wahlkampfrecht Praxis: Kommunikation ueber Briefwahl ohne Irrefuehrung pruefen im Wahlkampfrecht. |
+| `briefkasten-flyer` | Wahlkampfrecht Praxis: Flyer- und Briefkastenaktionen prüfen im Wahlkampfrecht. |
+| `briefwahlkommunikation` | Wahlkampfrecht Praxis: Kommunikation über Briefwahl ohne Irrefuehrung prüfen im Wahlkampfrecht. |
 | `buergerdialog-schwierige-fragen` | Wahlkampfrecht Praxis: Buergerdialoge mit unangenehmen, aber legitimen Fragen vorbereiten im Wahlkampfrecht. |
 | `bundesstrategie-architektur` | Wahlkampfrecht Praxis: Bundeswahlkampf als rechtlich sauberes Operating Model bauen im Wahlkampfrecht. |
 | `community-management` | Wahlkampfrecht Praxis: Community Manager für Kommentare, Beleidigungen und Fragen briefen im Wahlkampfrecht. |
 | `compliance-schulung-vorstand` | Wahlkampfrecht Praxis: kurze Compliance-Schulung für Vorstand und Kampagnenteam erstellen im Wahlkampfrecht. |
 | `cybersicherheit-kampagne` | Wahlkampfrecht Praxis: Kampagnen-IT gegen Accountuebernahmen und Leaks sichern im Wahlkampfrecht. |
-| `datenschutz-folgenabschaetzung-politische-daten` | Wahlkampfrecht Praxis: pruefen, ob politische Datenverarbeitung eine DSFA braucht im Wahlkampfrecht. |
+| `datenschutz-folgenabschaetzung-politische-daten` | Wahlkampfrecht Praxis: prüfen, ob politische Datenverarbeitung eine DSFA braucht im Wahlkampfrecht. |
 | `debattenvorbereitung` | Wahlkampfrecht Praxis: Kandidierende auf Debatte, Townhall oder TV-Runde vorbereiten im Wahlkampfrecht. |
-| `deepfake-und-ki-kennzeichnung` | Wahlkampfrecht Praxis: KI-generierte Inhalte, Deepfakes und synthetische Stimmen pruefen im Wahlkampfrecht. |
+| `deepfake-und-ki-kennzeichnung` | Wahlkampfrecht Praxis: KI-generierte Inhalte, Deepfakes und synthetische Stimmen prüfen im Wahlkampfrecht. |
 | `desinformation-monitoring` | Wahlkampfrecht Praxis: Desinformation und Manipulationsnarrative monitoren im Wahlkampfrecht. |
 | `ebenen-wahlart-ehrenamtliche` | Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden im Wahlkampfrecht. |
 | `ehrenamtliche-schulen` | Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen im Wahlkampfrecht. |
-| `eu-2024-900-politische-werbung` | Wahlkampfrecht Praxis: politische Werbung nach EU-Verordnung 2024/900 pruefen im Wahlkampfrecht. |
+| `eu-2024-900-politische-werbung` | Wahlkampfrecht Praxis: politische Werbung nach EU-Verordnung 2024/900 prüfen im Wahlkampfrecht. |
 | `faktencheck-gegenrede` | Wahlkampfrecht Praxis: sachliche Gegenrede gegen falsche Wahlkampfnarrative erstellen im Wahlkampfrecht. |
 | `flooding-gegenrede-statt-muell` | Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren im Wahlkampfrecht. |
 | `foreign-interference-foto-wahlraum` | Wahlkampfrecht Praxis: Anzeichen auslaendischer Einflussnahme bewerten im Wahlkampfrecht. |
-| `foto-im-wahlraum-und-stimmzettel` | Wahlkampfrecht Praxis: Selfies, Stimmzettelfotos und Wahlgeheimnisrisiken pruefen im Wahlkampfrecht. |
+| `foto-im-wahlraum-und-stimmzettel` | Wahlkampfrecht Praxis: Selfies, Stimmzettelfotos und Wahlgeheimnisrisiken prüfen im Wahlkampfrecht. |
 | `fraktion-partei-trennung` | Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber trennen im Wahlkampfrecht. |
-| `freiwillige-und-aufwandsersatz` | Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile für Helfer pruefen im Wahlkampfrecht. |
+| `freiwillige-und-aufwandsersatz` | Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile für Helfer prüfen im Wahlkampfrecht. |
 | `fremdplakate-nicht-anruehren` | Wahlkampfrecht Praxis: Teams briefen, fremde Plakate weder abzuhaengen noch zu ueberkleben im Wahlkampfrecht. |
-| `gegnerkritik-meinungsfreiheit` | Wahlkampfrecht Praxis: scharfe Kritik an Gegnern ohne Beleidigungs- oder Falschtatsachenrisiko pruefen im Wahlkampfrecht. |
-| `gewerkschaften-verbaende-kirchen` | Wahlkampfrecht Praxis: Zusammenarbeit mit Verbaenden, Gewerkschaften, Kirchen und Initiativen pruefen im Wahlkampfrecht. |
-| `giveaways-waehlerbestechung` | Wahlkampfrecht Praxis: Geschenke, Gewinnspiele, Essen, Getraenke und Rabatte im Wahlkampf pruefen im Wahlkampfrecht. |
-| `grossspenden-sofortmeldung` | Wahlkampfrecht Praxis: Grossspenden ueber der aktuellen Sofortmeldeschwelle pruefen im Wahlkampfrecht. |
-| `hausrecht-privatraeume` | Wahlkampfrecht Praxis: Wahlkampftermine in privaten Hallen, Vereinen und Betrieben pruefen im Wahlkampfrecht. |
+| `gegnerkritik-meinungsfreiheit` | Wahlkampfrecht Praxis: scharfe Kritik an Gegnern ohne Beleidigungs- oder Falschtatsachenrisiko prüfen im Wahlkampfrecht. |
+| `gewerkschaften-verbaende-kirchen` | Wahlkampfrecht Praxis: Zusammenarbeit mit Verbaenden, Gewerkschaften, Kirchen und Initiativen prüfen im Wahlkampfrecht. |
+| `giveaways-waehlerbestechung` | Wahlkampfrecht Praxis: Geschenke, Gewinnspiele, Essen, Getraenke und Rabatte im Wahlkampf prüfen im Wahlkampfrecht. |
+| `grossspenden-sofortmeldung` | Wahlkampfrecht Praxis: Grossspenden über der aktuellen Sofortmeldeschwelle prüfen im Wahlkampfrecht. |
+| `hausrecht-privatraeume` | Wahlkampfrecht Praxis: Wahlkampftermine in privaten Hallen, Vereinen und Betrieben prüfen im Wahlkampfrecht. |
 | `haustuerwahlkampf-influencer` | Wahlkampfrecht Praxis: Haustuerwahlkampf rechtlich und praktisch sauber machen im Wahlkampfrecht. |
-| `influencer-und-unterstuetzer` | Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen pruefen im Wahlkampfrecht. |
+| `influencer-und-unterstuetzer` | Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen prüfen im Wahlkampfrecht. |
 | `infostand-sondernutzung` | Wahlkampfrecht Praxis: Infostaende auf öffentlichen Flaechen planen im Wahlkampfrecht. |
 | `interne-chatdisziplin` | Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zur Brandquelle werden im Wahlkampfrecht. |
 | `kaltstart-routing` | Wahlkampfrecht Praxis: Kaltstart für jede Wahlkampflage mit Routing zu Recht, Strategie, Digital, Plakatierung, Finanzen oder Krise. |
@@ -159,16 +159,16 @@ Automatisch generierte Komplett-Liste aller 118 Skills in diesem Plugin. Beschre
 | `landeslisten-direktkandidaten` | Wahlkampfrecht Praxis: Landeslisten, Kreiswahlvorschlaege und Direktkandidaturen ordnen im Wahlkampfrecht. |
 | `landesrecht-plakatierung-livecheck` | Wahlkampfrecht Praxis: Livecheck von Landes- und Kommunalrecht bei Plakatierung erzwingen im Wahlkampfrecht. |
 | `landeswahlkampf-lagekarte` | Wahlkampfrecht Praxis: Landtagswahlkampf mit Landesrecht, Kreisverbaenden und lokalen Behörden strukturieren im Wahlkampfrecht. |
-| `lautsprecher-fahrzeug` | Wahlkampfrecht Praxis: Lautsprecherwagen und mobile Wahlwerbung pruefen im Wahlkampfrecht. |
+| `lautsprecher-fahrzeug` | Wahlkampfrecht Praxis: Lautsprecherwagen und mobile Wahlwerbung prüfen im Wahlkampfrecht. |
 | `leak-und-hack-notfall` | Wahlkampfrecht Praxis: auf Leaks, Hacks und veroeffentlichte interne Dokumente reagieren im Wahlkampfrecht. |
-| `lokale-buendnisse-marken-fremdlogos` | Wahlkampfrecht Praxis: lokale Buendnisse, Listenverbindungen und Unterstuetzungserklaerungen pruefen im Wahlkampfrecht. |
-| `marken-und-fremdlogos` | Wahlkampfrecht Praxis: fremde Marken, Unternehmenslogos und Behördenanmutung pruefen im Wahlkampfrecht. |
-| `memes-satire-risiko` | Wahlkampfrecht Praxis: Memes, Satire und Bildmontagen pruefen im Wahlkampfrecht. |
+| `lokale-buendnisse-marken-fremdlogos` | Wahlkampfrecht Praxis: lokale Buendnisse, Listenverbindungen und Unterstuetzungserklaerungen prüfen im Wahlkampfrecht. |
+| `marken-und-fremdlogos` | Wahlkampfrecht Praxis: fremde Marken, Unternehmenslogos und Behördenanmutung prüfen im Wahlkampfrecht. |
+| `memes-satire-risiko` | Wahlkampfrecht Praxis: Memes, Satire und Bildmontagen prüfen im Wahlkampfrecht. |
 | `message-house-authentizitaet` | Wahlkampfrecht Praxis: Message House entwickeln, das Kandidierende nicht kuenstlich verbiegt im Wahlkampfrecht. |
-| `minderjaehrige-und-fotos` | Wahlkampfrecht Praxis: Bilder, Schulformate und Daten Minderjaehriger pruefen im Wahlkampfrecht. |
+| `minderjaehrige-und-fotos` | Wahlkampfrecht Praxis: Bilder, Schulformate und Daten Minderjaehriger prüfen im Wahlkampfrecht. |
 | `nachwahl-evaluation-negative` | Wahlkampfrecht Praxis: Nachwahl-Evaluation ohne Selbstbetrug erstellen im Wahlkampfrecht. |
-| `negative-campaigning-grenzen` | Wahlkampfrecht Praxis: Negative Campaigning auf Wahrheit, Fairness und Wirkung pruefen im Wahlkampfrecht. |
-| `newsletter-messenger-sms` | Wahlkampfrecht Praxis: Newsletter, WhatsApp, Telegram, Signal und SMS-Wahlkampf pruefen im Wahlkampfrecht. |
+| `negative-campaigning-grenzen` | Wahlkampfrecht Praxis: Negative Campaigning auf Wahrheit, Fairness und Wirkung prüfen im Wahlkampfrecht. |
+| `newsletter-messenger-sms` | Wahlkampfrecht Praxis: Newsletter, WhatsApp, Telegram, Signal und SMS-Wahlkampf prüfen im Wahlkampfrecht. |
 | `oeffentliche-einrichtungen-nutzung` | Wahlkampfrecht Praxis: Nutzung öffentlicher Einrichtungen für Wahlkampf prüfen im Wahlkampfrecht. |
 | `opposition-research-compliance` | Wahlkampfrecht Praxis: Opposition Research rechtlich und ethisch begrenzen im Wahlkampfrecht. |
 | `ordner-sicherheit-parteieigenschaft` | Wahlkampfrecht Praxis: Ordner, Security und Deeskalation bei Wahlkampfterminen organisieren im Wahlkampfrecht. |
@@ -188,37 +188,37 @@ Automatisch generierte Komplett-Liste aller 118 Skills in diesem Plugin. Beschre
 | `rumor-control-center` | Wahlkampfrecht Praxis: Geruechtekontrolle für Teams und Kandidierende einrichten im Wahlkampfrecht. |
 | `satellitenkampagne-durch` | Wahlkampfrecht Praxis: Satellitenkampagne eines Vereins oder Dritten auf Zurechnung und Spendenrecht prüfen im Wahlkampfrecht. |
 | `schlachtenplan-ethik-und-taktik` | Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln im Wahlkampfrecht. |
-| `schulen-und-jugendformate` | Wahlkampfrecht Praxis: Wahlkampfauftritte an Schulen, Jugendforen und Bildungseinrichtungen pruefen im Wahlkampfrecht. |
+| `schulen-und-jugendformate` | Wahlkampfrecht Praxis: Wahlkampfauftritte an Schulen, Jugendforen und Bildungseinrichtungen prüfen im Wahlkampfrecht. |
 | `sicherheitslage-kandidierende` | Wahlkampfrecht Praxis: Schutzkonzept für Kandidierende und Wahlkampfteams erstellen im Wahlkampfrecht. |
 | `social-media-redaktionsplan` | Wahlkampfrecht Praxis: rechtssicheren Redaktionsplan für Social Media bauen im Wahlkampfrecht. |
-| `spendenannahme-sponsoring` | Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen im Wahlkampfrecht. |
-| `sponsoring-parteienrecht` | Wahlkampfrecht Praxis: Sponsoring, Anzeigen, Messestaende und geldwerte Vorteile pruefen im Wahlkampfrecht. |
+| `spendenannahme-sponsoring` | Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme prüfen im Wahlkampfrecht. |
+| `sponsoring-parteienrecht` | Wahlkampfrecht Praxis: Sponsoring, Anzeigen, Messestaende und geldwerte Vorteile prüfen im Wahlkampfrecht. |
 | `sprachregelung-schnellkarte` | Wahlkampfrecht Praxis: Sprachregelungen für Kandidierende, Presse und Ehrenamt erstellen im Wahlkampfrecht. |
 | `staatliche-neutralitaet` | Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Einrichtungen prüfen im Wahlkampfrecht. |
 | `taegliches-briefing` | Wahlkampfrecht Praxis: taegliches Lagebriefing für Spitze, Stab und Kreisverbaende erstellen im Wahlkampfrecht. |
-| `targeting-dsgvo-tracking-pixel` | Wahlkampfrecht Praxis: Targeting und Zustellung politischer Werbung datenschutzrechtlich pruefen im Wahlkampfrecht. |
-| `tracking-pixel-cookies` | Wahlkampfrecht Praxis: Kampagnenwebsite, Pixel, Conversiontracking und Cookies pruefen im Wahlkampfrecht. |
-| `ueberkleben-sachbeschaedigung` | Wahlkampfrecht Praxis: Ueberkleben, Beschmieren oder Entfernen fremder Plakate pruefen im Wahlkampfrecht. |
+| `targeting-dsgvo-tracking-pixel` | Wahlkampfrecht Praxis: Targeting und Zustellung politischer Werbung datenschutzrechtlich prüfen im Wahlkampfrecht. |
+| `tracking-pixel-cookies` | Wahlkampfrecht Praxis: Kampagnenwebsite, Pixel, Conversiontracking und Cookies prüfen im Wahlkampfrecht. |
+| `ueberkleben-sachbeschaedigung` | Wahlkampfrecht Praxis: Ueberkleben, Beschmieren oder Entfernen fremder Plakate prüfen im Wahlkampfrecht. |
 | `umfragen-und-prognosen` | Wahlkampfrecht Praxis: Umfragen, Projektionen und interne Trackings richtig verwenden im Wahlkampfrecht. |
 | `umgang-mit-provokateuren` | Wahlkampfrecht Praxis: Umgang mit Provokateuren bei Veranstaltungen und Strassenwahlkampf planen im Wahlkampfrecht. |
-| `unterstuetzungsunterschriften` | Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften pruefen im Wahlkampfrecht. |
-| `urheberrecht-musik-bilder-clips` | Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung pruefen im Wahlkampfrecht. |
+| `unterstuetzungsunterschriften` | Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften prüfen im Wahlkampfrecht. |
+| `urheberrecht-musik-bilder-clips` | Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung prüfen im Wahlkampfrecht. |
 | `veranstaltungslogistik` | Wahlkampfrecht Praxis: Kundgebung, Saalveranstaltung oder Marktplatztermin planen im Wahlkampfrecht. |
-| `vereine-unterstuetzer-dritte` | Wahlkampfrecht Praxis: Unterstuetzung durch Vereine, Initiativen und Drittkampagnen pruefen im Wahlkampfrecht. |
+| `vereine-unterstuetzer-dritte` | Wahlkampfrecht Praxis: Unterstuetzung durch Vereine, Initiativen und Drittkampagnen prüfen im Wahlkampfrecht. |
 | `versammlungsrecht-schnittstelle` | Wahlkampfrecht Praxis: politische Kundgebungen ins Versammlungsrecht routen im Wahlkampfrecht. |
 | `viraler-clip-waehlerdaten-listen` | Wahlkampfrecht Praxis: auf unguenstigen viralen Clip ohne Panik reagieren im Wahlkampfrecht. |
-| `waehlerdaten-und-listen` | Wahlkampfrecht Praxis: Waehler-, Mitglieder-, Interessenten- und Volunteerlisten pruefen im Wahlkampfrecht. |
+| `waehlerdaten-und-listen` | Wahlkampfrecht Praxis: Waehler-, Mitglieder-, Interessenten- und Volunteerlisten prüfen im Wahlkampfrecht. |
 | `wahl-o-mat-und-thesen` | Wahlkampfrecht Praxis: Antworten auf Wahl-O-Mat- oder Kandidatencheck-Thesen koordinieren im Wahlkampfrecht. |
 | `wahlbeobachtung-und-wahltag` | Wahlkampfrecht Praxis: Wahlbeobachtung ohne Eingriff in Wahlhandlung briefen im Wahlkampfrecht. |
 | `wahlkampf-in-vereinen-und-betrieben` | Wahlkampfrecht Praxis: Wahlkampf in Vereinen, Betrieben und halböffentlichen Räumen prüfen im Wahlkampfrecht. |
 | `wahlkampfkosten-budget-wahlprogramm` | Wahlkampfrecht Praxis: Budget, Kostenstellen und Rechenschaftslogik bauen im Wahlkampfrecht. |
-| `wahlprogramm-und-faktencheck` | Wahlkampfrecht Praxis: Wahlprogramm und Kurzforderungen auf belegbare Tatsachenbasis pruefen im Wahlkampfrecht. |
+| `wahlprogramm-und-faktencheck` | Wahlkampfrecht Praxis: Wahlprogramm und Kurzforderungen auf belegbare Tatsachenbasis prüfen im Wahlkampfrecht. |
 | `wahlpruefung-nachwahl` | Wahlkampfrecht Praxis: Wahlpruefung und Einspruch nach Wahlfehlern vorbereiten im Wahlkampfrecht. |
-| `wahlraum-propagandaverbot` | Wahlkampfrecht Praxis: Wahlwerbung am Wahltag im und am Wahlgebaeude pruefen im Wahlkampfrecht. |
+| `wahlraum-propagandaverbot` | Wahlkampfrecht Praxis: Wahlwerbung am Wahltag im und am Wahlgebaeude prüfen im Wahlkampfrecht. |
 | `wahlstraftaten-stgb` | Wahlkampfrecht Praxis: Wahlstraftaten und strafrechtliche Nebenrisiken routen im Wahlkampfrecht. |
 | `wahltag-war` | Wahlkampfrecht Praxis: Krisenkarte für Wahlsonntag erstellen im Wahlkampfrecht. |
-| `wahlverfahren-falschinfo` | Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten im Wahlkampfrecht. |
-| `wahlvorschlaege-fristen` | Wahlkampfrecht Praxis: Wahlvorschlaege, Beteiligungsanzeige und Fristen pruefen im Wahlkampfrecht. |
+| `wahlverfahren-falschinfo` | Wahlkampfrecht Praxis: Falschinformationen über Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten im Wahlkampfrecht. |
+| `wahlvorschlaege-fristen` | Wahlkampfrecht Praxis: Wahlvorschlaege, Beteiligungsanzeige und Fristen prüfen im Wahlkampfrecht. |
 | `war-room-betriebsmodell` | Wahlkampfrecht Praxis: Wahlkampfzentrale mit Entscheidungswegen, Freigaben und Eskalation aufsetzen im Wahlkampfrecht. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

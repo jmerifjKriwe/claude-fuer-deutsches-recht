@@ -3,7 +3,7 @@ name: cannabis-stoff-pruefen
 description: "Cannabis: Stoff prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Cannabis Stoff Pruefen
+# Cannabis Stoff Prüfen
 
 ## Arbeitsweg
 

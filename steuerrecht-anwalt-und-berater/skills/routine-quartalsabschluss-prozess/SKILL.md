@@ -32,7 +32,7 @@ Der Quartalsabschluss ist ein vertiefter Monatsabschluss: ueblicherweise mit vol
 
 **§§ 238, 252 HGB** — Buchfuehrungs- und Bewertungsgrundsaetze.
 
-**§ 18 UStG** — USt-VA (vierteljaehrlich moeglich bei kleineren Mandanten).
+**§ 18 UStG** — USt-VA (vierteljaehrlich möglich bei kleineren Mandanten).
 
 **§ 33 StBerG** — StB-Aufgabenkreis.
 
@@ -82,18 +82,18 @@ WOCHE 5: REPORTING UND GESPRAECH
 - USt-Voranmeldung quartalsweise.
 - Steuervorauszahlungen anpassen (Antrag § 37 EStG).
 - Investitionsabzugsbetrag § 7g EStG.
-- Sonderabschreibung pruefen.
+- Sonderabschreibung prüfen.
 
 ### Phase 5 — Sonderfall Konzern
 
 - Konsolidierungs-Daten an Mutter.
-- IFRS-Reporting separat moeglich.
+- IFRS-Reporting separat möglich.
 - Konzernbericht zeitnah.
 
 ### Phase 6 — Wiedervorlage Folgequartal
 
 - Naechster Termin im Kalender.
-- Massnahmen-Liste aus Gespraech.
+- Maßnahmen-Liste aus Gespraech.
 - Strategie-Themen kontrollieren.
 
 ## Strategie und Praxis-Tipps

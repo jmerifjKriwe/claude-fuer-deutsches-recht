@@ -3,7 +3,7 @@ name: schlachthof-kosten-klaeren
 description: "Schlachthof: Kosten klären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Schlachthof Kosten Klaeren
+# Schlachthof Kosten Klären
 
 ## Arbeitsweg
 

@@ -11,7 +11,7 @@ Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben da
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie koennen nicht selbst zum Gericht.
+- Sie können nicht selbst zum Gericht.
 - Sie ueberlegen, ob Sie das Schreiben durch jemanden anderen einreichen lassen.
 - Eine wichtige Frist droht.
 
@@ -53,22 +53,22 @@ Nach BVerfG-Linie:
 - **Ueberwachung** und Instruktion in eigener Verantwortung.
 - **Zeitpuffer** einplanen — kein "auf-den-letzten-Druecker"-Versand.
 
-Wenn der Bote krank wird, vergisst, falsch ablaedt — Folge: Sie versaeumen die Frist und koennen nicht aufholen.
+Wenn der Bote krank wird, vergisst, falsch ablaedt — Folge: Sie versaeumen die Frist und können nicht aufholen.
 
-### Schritt 3 — Wann ist Wiedereinsetzung moeglich?
+### Schritt 3 — Wann ist Wiedereinsetzung möglich?
 
 § 233 ZPO: Wenn Sie **ohne Verschulden** die Frist versaeumt haben.
 
 BGH-Linie zum Boten:
 
-- Wenn Sie den Boten sorgfaeltig ausgewaehlt und genau instruiert haben (Adresse, Zeit, Wegabschnitt), kann Wiedereinsetzung moeglich sein.
+- Wenn Sie den Boten sorgfaeltig ausgewaehlt und genau instruiert haben (Adresse, Zeit, Wegabschnitt), kann Wiedereinsetzung möglich sein.
 - Wenn Sie aber wussten, dass es knapp wird, und keinen Zeitpuffer hatten — kein Wiedereinsetzung.
 
 In der Praxis: Es ist sehr schwierig, Wiedereinsetzung bei Bote-Versaeumnis zu bekommen. Verlassen Sie sich nicht darauf.
 
-### Schritt 4 — Was tun, wenn moeglich?
+### Schritt 4 — Was tun, wenn möglich?
 
-- **Selbst einreichen**: Wenn moeglich, selbst gehen oder selbst posten.
+- **Selbst einreichen**: Wenn möglich, selbst gehen oder selbst posten.
 - **Elektronisch**: MJP funktioniert von zuhause, ohne Bote. Skill `einreichung-mein-justizpostfach-mjp-2024`.
 - **Einschreiben mit Rueckschein**: Kein "Bote", weil Post offiziell uebermittelt.
 - **Fax**: Beweis durch Sendebericht. Skill `einreichung-fax-und-grenzen`.
@@ -82,9 +82,9 @@ In der Praxis: Es ist sehr schwierig, Wiedereinsetzung bei Bote-Versaeumnis zu b
 
 ### Schritt 6 — Was nicht zaehlt
 
-- "Ich habe gesagt, er soll heute hin." — Reicht nicht. Sie muessen pruefen, ob er es getan hat.
+- "Ich habe gesagt, er soll heute hin." — Reicht nicht. Sie müssen prüfen, ob er es getan hat.
 - "Die Post ist verloren gegangen." — Tragisch, aber Risiko bei Ihnen.
-- "Ich war krank." — Sie haetten einen Boten oder Dritten beauftragen muessen.
+- "Ich war krank." — Sie haetten einen Boten oder Dritten beauftragen müssen.
 
 ### Schritt 7 — Bei Versaeumnis: Wiedereinsetzungs-Antrag
 
@@ -96,7 +96,7 @@ Wenn doch passiert:
 
 Erfolgsquote eher gering, aber: probieren, wenn nichts anderes geht. Skill `wiedereinsetzung-frist-233-zpo`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Eigenverantwortung**: BVerfG hat klargestellt — Sie tragen das Risiko.
 - **Zeitpuffer**: 2-3 Tage Reserve vor Fristablauf einplanen.

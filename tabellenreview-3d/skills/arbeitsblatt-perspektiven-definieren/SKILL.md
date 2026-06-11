@@ -8,11 +8,11 @@ description: "Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview defini
 ## Triage zu Beginn
 
 1. Wie viele Perspektiven sind erforderlich? (Recht / Steuer / Wirtschaft / Datenschutz / IT)
-2. Muss jede Perspektive von einem anderen Pruefer verantwortet werden?
+2. Muss jede Perspektive von einem anderen Prüfer verantwortet werden?
 3. Gibt es GwG-Compliance-Anforderungen? → Separate Compliance-Perspektive (LkSG / GwG / IDW PS 980)
 4. Ist ein M&A-Closing-Datum bekannt? → Fristen der Arbeitsblaetter entsprechend konfigurieren
 
-## Rechtliche Grundlagen für Pruefer-Perspektiven
+## Rechtliche Grundlagen für Prüfer-Perspektiven
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

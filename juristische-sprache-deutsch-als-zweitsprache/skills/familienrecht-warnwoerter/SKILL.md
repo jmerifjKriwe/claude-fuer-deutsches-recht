@@ -27,7 +27,7 @@ description: "Hilft bei Familienrecht Warnwoerter für Menschen mit Deutsch als 
 - **"Einvernehmliche Scheidung"**: bedeutet nicht: ohne Anwalt; Antragsteller braucht Anwalt (§ 114 FamFG).
 
 ## Vor jeder Unterschrift / Erklaerung
-- Bin ich mir der Tragweite bewusst (Unterhalt, Vermoegen, Sorge)?
+- Bin ich mir der Tragweite bewusst (Unterhalt, Vermögen, Sorge)?
 - Habe ich Anspruch auf Verfahrenskostenhilfe (§§ 76 ff. FamFG)?
 - Wurde ich vor Gericht in der Muttersprache angehoert? Dolmetscher (§ 185 GVG).
 

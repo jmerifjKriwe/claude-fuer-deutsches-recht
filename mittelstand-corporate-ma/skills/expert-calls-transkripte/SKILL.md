@@ -151,7 +151,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Rechtsgrundlagen
 
 - §§ 17-18 GeschGehG — Vertraulichkeit in Expert Calls: Informationen sind Geschäftsgeheimnisse; Grundlage muss NDA sein
-- Art. 7, 10 MAR — Expert Calls mit Management boersennotierter Zielgesellschaft: koennen Insiderinformationen uebertragen; Expert muss auf MAR-Pflichten hingewiesen werden
+- Art. 7, 10 MAR — Expert Calls mit Management boersennotierter Zielgesellschaft: können Insiderinformationen uebertragen; Expert muss auf MAR-Pflichten hingewiesen werden
 - § 101 UrhG — Transkription: urheberrechtliche Fragen bei automatisierter Transkription
 - §§ 201 StGB — unbefugte Tonbandaufnahmen im Gespraech sind strafbar; Einwilligung aller Teilnehmer erforderlich
 
@@ -161,10 +161,10 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Einwilligung sichern:** alle Teilnehmer muessen Aufzeichnung genehmigen; bei boersennotierten Gesellschaften: MAR-Hinweis
+1. **Einwilligung sichern:** alle Teilnehmer müssen Aufzeichnung genehmigen; bei boersennotierten Gesellschaften: MAR-Hinweis
 2. **Expert Call vorbereiten:** Frageliste, Due-Diligence-Scope, Vertraulichkeitsstufe
 3. **Transkription und Zusammenfassung:** Key Statements extrahieren; Material-Statements für SPA-Garantien oder Disclosure kennzeichnen
-4. **Insiderliste pruefen:** bei boersennotiertem Zielobjekt: Teilnehmer in Insiderliste (Art. 18 MAR) eintragen
+4. **Insiderliste prüfen:** bei boersennotiertem Zielobjekt: Teilnehmer in Insiderliste (Art. 18 MAR) eintragen
 5. **Integration in DD-Report:** Key Findings aus Expert Call in Workstream-Findings einpflegen
 
 ## Rote Schwellen

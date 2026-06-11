@@ -43,10 +43,10 @@ description: "Fachanwalt Arbeitsrecht Bem Verfahren: ordnet Normen, Nutzerangabe
 
 ### BAG-Linie
 
-- **BAG, Urteil vom 20.11.2014 - 2 AZR 755/13**: Der Arbeitgeber traegt die Initiativlast zur Durchfuehrung des BEM (§ 167 Abs. 2 SGB IX); er muss den Arbeitnehmer ueber Ziele, Art und Umfang der zu erhebenden Daten unterrichten. Quelle: dejure.org-Vernetzung BAG 20.11.2014 - 2 AZR 755/13.
-- **BAG, Urteil vom 10.12.2009 - 2 AZR 400/08**: BEM ist zwar keine formelle Wirksamkeitsvoraussetzung der Kuendigung, aber faktisch entscheidend; Arbeitgeber ohne BEM hat erhebliche Darlegungslast, dass auch ein BEM die Kuendigung nicht haette verhindern koennen. Quelle: dejure.org-Vernetzung BAG 10.12.2009 - 2 AZR 400/08.
-- **BAG, Urteil vom 18.11.2021 - 2 AZR 138/21**: Auch nach abgeschlossenem BEM ist grundsaetzlich ein erneutes BEM durchzufuehren, wenn der Arbeitnehmer innerhalb eines Jahres wieder mehr als 6 Wochen arbeitsunfaehig war. Quelle: dejure.org-Vernetzung.
-- **BAG, Urteil vom 15.12.2022 - 2 AZR 162/22**: Die Zustimmung des Integrationsamts zur krankheitsbedingten Kuendigung schwerbehinderter Menschen entbindet den Arbeitgeber nicht von der BEM-Pflicht; sie begruendet auch keine Vermutung, dass ein BEM die Kuendigung nicht haette verhindern koennen. Quelle: dejure.org-Vernetzung BAG 15.12.2022 - 2 AZR 162/22.
+- **BAG, Urteil vom 20.11.2014 - 2 AZR 755/13**: Der Arbeitgeber traegt die Initiativlast zur Durchfuehrung des BEM (§ 167 Abs. 2 SGB IX); er muss den Arbeitnehmer über Ziele, Art und Umfang der zu erhebenden Daten unterrichten. Quelle: dejure.org-Vernetzung BAG 20.11.2014 - 2 AZR 755/13.
+- **BAG, Urteil vom 10.12.2009 - 2 AZR 400/08**: BEM ist zwar keine formelle Wirksamkeitsvoraussetzung der Kuendigung, aber faktisch entscheidend; Arbeitgeber ohne BEM hat erhebliche Darlegungslast, dass auch ein BEM die Kuendigung nicht haette verhindern können. Quelle: dejure.org-Vernetzung BAG 10.12.2009 - 2 AZR 400/08.
+- **BAG, Urteil vom 18.11.2021 - 2 AZR 138/21**: Auch nach abgeschlossenem BEM ist grundsätzlich ein erneutes BEM durchzufuehren, wenn der Arbeitnehmer innerhalb eines Jahres wieder mehr als 6 Wochen arbeitsunfaehig war. Quelle: dejure.org-Vernetzung.
+- **BAG, Urteil vom 15.12.2022 - 2 AZR 162/22**: Die Zustimmung des Integrationsamts zur krankheitsbedingten Kuendigung schwerbehinderter Menschen entbindet den Arbeitgeber nicht von der BEM-Pflicht; sie begruendet auch keine Vermutung, dass ein BEM die Kuendigung nicht haette verhindern können. Quelle: dejure.org-Vernetzung BAG 15.12.2022 - 2 AZR 162/22.
 
 ### Konsequenz
 
@@ -150,7 +150,7 @@ Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 - BAG, 10.12.2009 - 2 AZR 400/08: Konkretisierung der Darlegungslast bei fehlendem BEM. Quelle: dejure.org-Vernetzung.
 - BAG, 18.11.2021 - 2 AZR 138/21: Erneutes BEM bei > 6 Wochen AU im Folgejahr. Quelle: dejure.org-Vernetzung.
 - BAG, 15.12.2022 - 2 AZR 162/22: Integrationsamtszustimmung entbindet nicht von BEM-Pflicht; keine Vermutung gegen Verhinderbarkeit. Quelle: dejure.org-Vernetzung.
-- Aktuellere Rechtsprechung (Q4/2025 - Q2/2026) zur BEM-Substantiierung in offenen Quellen vor Schriftsatzverwendung pruefen.
+- Aktuellere Rechtsprechung (Q4/2025 - Q2/2026) zur BEM-Substantiierung in offenen Quellen vor Schriftsatzverwendung prüfen.
 
 ## Paragrafenkette
 

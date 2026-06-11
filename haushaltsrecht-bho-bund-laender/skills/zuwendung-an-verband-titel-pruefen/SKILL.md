@@ -3,7 +3,7 @@ name: zuwendung-an-verband-titel-pruefen
 description: "Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Zuwendung An Verband Titel Pruefen
+# Zuwendung An Verband Titel Prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Titel p
 
 ## Normenanker
 
-Arbeitsfokus: **Zuwendung An Verband Titel Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Zuwendung An Verband Titel Prüfen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 23 BHO` — Zuwendungen.
 - `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.

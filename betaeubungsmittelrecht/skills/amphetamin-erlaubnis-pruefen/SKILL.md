@@ -3,7 +3,7 @@ name: amphetamin-erlaubnis-pruefen
 description: "Amphetamin: Erlaubnis prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Amphetamin Erlaubnis Pruefen
+# Amphetamin Erlaubnis Prüfen
 
 ## Arbeitsweg
 
