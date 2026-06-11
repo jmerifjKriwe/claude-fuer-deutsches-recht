@@ -134,7 +134,7 @@ Quelle auffindbar ist; keine BeckRS-/juris-Blindzitate.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 80 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -155,6 +155,10 @@ Automatisch generierte Komplett-Liste aller 80 Skills in diesem Plugin. Beschrei
 | `bverfg-polizeirecht-gefahrenprognose` | Polizeiliche und sicherheitsrechtliche Massnahmen mit BVerfG-Rechtsprechung pruefen: legitimer Sicherheitszweck, Gefahrenschwelle, Prognosebasis, Bestimmtheit, Richtervorbehalt und verfahrensrechtliche Sicherungen. |
 | `bverfg-uebermassverbot-dogmatiklinie` | Uebermassverbot als BVerfG-Dogmatiklinie von Berufsfreiheit ueber Sicherheitsrecht bis Klima: vier Stufen, Kontrolldichte, Einschaetzungspraerogative und absolute Grenzen ohne rechtsgeschichtliche Abschweifung. |
 | `daenemark-proportionalitetsprincip` | Daenische Verhaeltnismaessigkeitsdogmatik mit Proportionalitetsprincip im Forvaltningsret und im Politilov 2004 als Eignung Noedvendighed Proportionalitet i snaever forstand. Mit Hoejesteret als Verfassungsgericht ohne formelle Normenkon... |
+| `drittwirkung-grundrechte-mittelbar` | Mittelbare Drittwirkung der Grundrechte im Privatrecht. Grundrechte wirken nicht unmittelbar zwischen Privaten sondern strahlen ueber die Generalklauseln Paragraphen 138 242 826 BGB in das Zivilrecht ein. Erlaeutert Lueth-Linie objektive... |
+| `drittwirkung-praxischeck-zivilrecht` | Praktischer Pruefkatalog fuer Drittwirkung im Zivilrecht. Behandelt die wichtigsten Einbruchstellen Paragraph 138 BGB Paragraph 242 BGB Paragraph 826 BGB Paragraph 307 BGB sowie die Leitlinien aus Buergschaft Handelsvertreter Chefarztkue... |
+| `drittwirkung-stadionverbot-bundesverfassungsgericht` | Stadionverbot-Entscheidung BVerfGE 148 267 als seltenes Beispiel einer eingriffsaehnlichen Drittwirkung. Wo Private faktisch oeffentliche Funktionen wahrnehmen und einen monopolartigen Zugang gewaehren strahlen Grundrechte besonders star... |
+| `drittwirkung-unionsgrundrechte-charta` | Horizontale Wirkung der Unionsgrundrechte aus der Charta der Grundrechte und der unionsrechtlichen Diskriminierungsverbote. Erlaeutert EuGH-Linie Mangold Kuecuekdeveci Egenberger Bauer und IR zur Drittwirkung im Anwendungsbereich des Uni... |
 | `egmr-emrk-verhaeltnismaessigkeit` | Verhaeltnismaessigkeitspruefung des Europaeischen Gerichtshofs fuer Menschenrechte nach Art 8 bis 11 EMRK und Art 1 ZP 1 mit den drei Stufen prescribed by law legitimate aim necessary in a democratic society. Mit margin of appreciation p... |
 | `eigentum-art-14-inhalts-schranken-enteignung` | Art. 14 GG verhaeltnismaessig pruefen: Inhalts- und Schrankenbestimmung, Enteignung, Ausgleichspflichten, Eigentumsbindung, Atomausstieg-Linie und Abgrenzung zu Berufsfreiheit und Gleichheit. |
 | `eilrechtsschutz-folgenabwaegung-paragraf-32-bverfgg` | Einstweiliger Rechtsschutz und Folgenabwaegung im Verfassungsrecht: § 32 BVerfGG, schwere Nachteile, drohende Gewalt, Gemeinwohlgrund, offener Ausgang der Hauptsache und irreparable Grundrechtsfolgen. |
@@ -194,6 +198,7 @@ Automatisch generierte Komplett-Liste aller 80 Skills in diesem Plugin. Beschrei
 | `schnellpruefung-fuenfminuten-express` | Express-Verhaeltnismaessigkeitspruefung in fuenf Minuten: 12-Punkte-Checkliste mit Sofort-Ergebnis fuer Klausur, Schriftsatz oder Mandantenmeeting. Schnelltriage fuer Schutzbereich, Schranke, Zitiergebot, vier Stufen, Wesensgehalt; mit E... |
 | `schranke-vorbehaltlos-verfassungsimmanent` | Spezial-Pruefraster fuer vorbehaltlose Grundrechte: Eingriffe nur ueber verfassungsimmanente Schranken, dh kollidierende Verfassungsgueter mit Rang. Anwendung praktischer Konkordanz, BVerfG-Linien Kruzifix, Mephisto, Reiten im Walde, Bro... |
 | `schutzbereich-eingriff-rechtfertigung` | Dreischritt Schutzbereich Eingriff Rechtfertigung als Pruefungsaufbau vor der eigentlichen Verhaeltnismaessigkeitspruefung. Erklaert wie sich klassischer und moderner Eingriffsbegriff unterscheiden und wo die Schranken-Schranke ansetzt. |
+| `schutzpflichtdimension-grundrechte` | Schutzpflichtdimension der Grundrechte als zweite Saeule neben der Abwehrfunktion. Behandelt insbesondere die Schutzpflicht aus Art. 3 Abs. 3 Satz 2 GG bei Behinderung wie sie im Triage-Beschluss des BVerfG vom 16.12.2021 anerkannt wurde... |
 | `schwangerschaftsabbruch-bverfge-39-1` | BVerfGE Band 39 Seite 1 vom 25.02.1975 als Schutzpflicht- und Untermass-Leitentscheidung: wann der Staat nicht nur Eingriffe begrenzen, sondern Grundrechte durch hinreichenden Schutz wirksam sichern muss. |
 | `section-36-vs-deutsche-schranken-schranke` | Direkter Vergleich Section 36 SA-Verfassung gegen deutsche Vier-Stufen-Schranken-Schranke. Mit Gegenueberstellung der Pruefungsschritte gemeinsamen Wurzeln Unterschieden bei Wesensgehalt Schutzpflichten und mit Empfehlungen wann welche M... |
 | `spanien-juicio-proporcionalidad` | Spanische Verhaeltnismaessigkeitsdogmatik des Tribunal Constitucional mit dem juicio de proporcionalidad in drei Stufen Idoneidad Necesidad Proporcionalidad en sentido estricto seit STC 66/1995 und STC 207/1996 unter Art 53 I CE und Art... |

@@ -1,6 +1,6 @@
 # verkehr-infrastrukturrecht
 
-**54 Skills** · Stand `v293.0.0`
+**54 Skills** · Stand `v300.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehr-infrastrukturrecht/README.md)
