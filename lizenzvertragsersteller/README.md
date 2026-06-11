@@ -106,3 +106,47 @@ Konvention: siehe `references/quellenhygiene.md`, `references/zitierweise.md`, `
 ## Lizenz
 
 Apache-2.0 OR MIT — Auswahl beim Empfaenger.
+
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Ueberblick
+
+Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `datenschutz-dsgvo-im-lizenzvertrag` | DSGVO im Lizenzvertrag: Auftragsverarbeitung Art. 28 DSGVO; Kundendaten als Lizenz-Inhalt; Drittlands-Uebermittlungen Art. 44 ff. DSGVO; SCCs Schrems II Folgen; Joint Controllership Art. 26 DSGVO bei Cross-License. |
+| `einstieg-routing` | Anwalts-Dashboard fuer den Lizenzvertragsersteller: Sofort-Triage (IP-Typ, Parteien, Sprache, Rechtswahl), Risiko-Ampel, Anschluss-Skill-Router, Norm-Radar, Leitentscheidungs-Anker; maximal eine Rueckfrage. |
+| `escrow-quellcode-verwahrer-vereinbarung` | Source-Code-Escrow-Vereinbarung: drei-Parteien-Vertrag Lizenzgeber - Lizenznehmer - Escrow-Agent; Hinterlegungsumfang; Release-Trigger (Insolvenz, Wartungsausfall); Aktualisierungspflicht; bekannte Escrow-Anbieter; insolvenzfeste Gestalt... |
+| `exportkontrolle-dual-use-eu-2021-821` | Exportkontrolle bei Lizenzvertraegen: VO (EU) 2021/821 (Dual-Use); AWG / AWV; Embargo-/Sanktions-Listen; Technologie-Transfer als genehmigungspflichtige Ausfuhr; Cloud-Lizenzen mit Cross-Border-Datenzugriff. |
+| `insolvenz-fortbestand-paragraf-103-inso-lizenz` | Insolvenzfestigkeit von Lizenzen $ 103 InsO: Wahlrecht des Verwalters, BGH-Linie zur Lizenz-Behandlung bei Lizenzgeber-Insolvenz; Sicherungslizenz; Escrow als praktische Loesung; Vertragsklauseln zur Vermeidung der Wahl. |
+| `ip-identifikation-und-bestandsaufnahme` | IP-Identifikation und Bestandsaufnahme fuer Lizenzvertraege: Schutzrechtsregister-Auszug, Klassifikation nach Typ (Urheber Patent Marke Design Gebrauchsmuster Geschaeftsgeheimnis), Belastungen, Erfindervergutung, Lizenzhistorie, IP-Inven... |
+| `kartellrecht-tt-gvo-eu-316-2014` | Kartellrecht im Lizenzvertrag: TT-GVO VO (EU) 316/2014 Technologietransfer-Gruppenfreistellung; Marktanteilsschwellen 20 / 30 Prozent; Kernbeschraenkungen Art. 4; nicht-freigestellte Beschraenkungen Art. 5; Schranken bei vertikalen Vertr... |
+| `klausel-exklusivitaet-sole-non-exclusive` | Exklusivitaetsklauseln: ausschliessliche Lizenz (mit / ohne Selbstnutzung Lizenzgeber), Sole License, einfache Lizenz, Most-Favoured-Customer-Klauseln; kartellrechtliche Schranken TT-GVO. |
+| `klausel-haftung-gewaehrleistung-indemnification` | Haftungs- und Gewaehrleistungsklauseln im Lizenzvertrag: Inhaberschaftsgarantie, Patent-Marketability, IP-Infringement-Indemnification, Haftungshoechstgrenzen, Ausschluesse fuer Vorsatz und grobe Fahrlaessigkeit, Drittansprueche. |
+| `klausel-lizenzgegenstand-und-anlage-ip-liste` | Klausel Lizenzgegenstand mit Anlage A (IP-Liste): pro IP-Typ Identifikation, Schutzrechtsregister-Nummern, Schutzgebiete, Lebensdauer, Belastungen; mit Praezisierungstechniken (Patente per Anspruch, Marken per Nizza-Klasse, Software per... |
+| `klausel-lizenzumfang-territorium-zeit-feld` | Lizenzumfang-Klausel: territorial (Schutzgebiete), zeitlich (Laufzeit, Beendigung), Anwendungsfeld (Field of Use). Mit Beispielklauseln fuer enge und weite Fassungen, Zweckuebertragungstheorie $ 31 V UrhG. |
+| `klausel-mindestlizenzen-meldungen-audit` | Mindestlizenzen, Reporting, Audit-Recht: Berichtspflichten quartalsweise, jaehrliche Pruefer-Audit, Strafzinsen bei Verzug, Beschraenkung Audit-Frequenz. Mit Mustertext und Eskalationsstufen. |
+| `klausel-rechtswahl-gerichtsstand-schiedsklausel` | Rechtswahl-, Gerichtsstands- und Schiedsklauseln im Lizenzvertrag: Rom-I-VO Art. 4, deutsches Recht, Schweizer Recht, English Law, NY Law; ICC, DIS, LCIA, Stockholm Schiedsklauseln; Mediation-Vorschaltung. |
+| `klausel-unterlizenzen-sublicensing` | Sublizenz-Klauseln $ 35 UrhG: Zustimmung des Lizenzgebers, Konzern-Sublizenzen ohne Zustimmung, Sub-Royalty-Beteiligung, Kettendurchgriff, Haftungskette bei Sub-Lizenznehmer-Versagen. |
+| `klausel-verbesserungen-grant-back` | Grant-Back-Klauseln fuer Verbesserungen und Weiterentwicklungen: Pflichtmeldung; nicht-ausschliessliches vs. ausschliessliches Grant-Back; Field-of-Use-Trennung; kartellrechtliche Grenzen TT-GVO Art. 5. |
+| `klausel-verguetung-pauschale-royalty-tiered` | Verguetungsmodelle: Pauschale (Lump Sum), Running Royalty (Stueck / Umsatz / Gewinn), Tiered Royalties (sinkende Raten mit steigendem Umsatz), Mindestlizenzgebuehren, Front Loaded Payments. Mit Rechen-Beispielen. |
+| `klausel-vertragsdauer-kuendigung-rueckwirkung` | Vertragsdauer-Klauseln: feste Laufzeit, unbefristet mit Kuendigung, Verlaengerungsautomatik (Roll-over), ordentliche und ausserordentliche Kuendigung, Folgen Beendigung (Rueckgabe, Vertraulichkeit ueberhang, Lizenz-Nachwirkung). |
+| `klausel-vertraulichkeit-und-nda-interimsphase` | Vertraulichkeitsklausel im Lizenzvertrag sowie NDA fuer Interimsphase vor Vertragsschluss: Definition vertraulicher Informationen, Ausnahmen (oeffentlich, schon bekannt), Dauer (5 Jahre nach Vertragsende), Beweislast, Rueckgabepflicht, v... |
+| `lizenz-gebrauchsmuster-gebrmg` | Gebrauchsmusterlizenzen nach GebrMG: kleine Schwester des Patents, ohne Pruefverfahren; Schutzdauer 10 Jahre; eintragungsbeduerftiges Recht; Erfindungshoehe geringer als Patent; Zweigutachten-Strategie (parallel zu Patent). |
+| `lizenz-geschaeftsgeheimnis-knowhow-geschgehg` | Lizenz von Geschaeftsgeheimnissen und Know-how nach GeschGehG: $$ 1-12 GeschGehG; Schutzmassnahmen $ 2 Nr. 1b; Reverse Engineering $ 3; Sphaeren-Trennung; Know-how-Lizenz mit Vertraulichkeitsklauseln und Sanktionsregelungen. |
+| `lizenz-geschmacksmuster-design-designg` | Designlizenzen nach DesignG (frueher GeschmacksmusterG): $ 31 DesignG Uebertragung und Lizenz; Eintragung DPMA/EUIPO; Schutzdauer max 25 Jahre; EU-Gemeinschaftsgeschmacksmuster GGV 6/2002; nicht eingetragenes Gemeinschaftsgeschmacksmuste... |
+| `lizenz-marke-markeng` | Markenrechtslizenzen nach MarkenG $ 30: Qualitaetskontrolle, Bezeichnungspflicht, Eintragungspflicht im DPMA-Register $ 30 III, Erloeschen nicht-genutzter Marken $ 26, EU-Marken EUIPO. Mit Klauselbausteinen Qualitaetskontrolle. |
+| `lizenz-patent-patg` | Patentlizenzen nach PatG und EPUe: $$ 9 und 15 PatG Lizenz; Erfinderbenennung $ 63 PatG; ArbnErfG Arbeitnehmererfindergesetz; Zwangslizenz $ 24 PatG; Patent-Pool und FRAND-Lizenz; TT-GVO als Kartellfreistellung. |
+| `lizenz-urheberrecht-und-software-urhg` | Urheberrechts- und Software-Lizenzen nach UrhG: $ 31 ff. UrhG einfache und ausschliessliche Nutzungsrechte, $ 32 angemessene Verguetung, $ 32a Bestseller-Klausel, $ 69a-g UrhG Computerprogramme, $ 137l UrhG unbekannte Nutzungsarten. Mit... |
+| `mandat-intake-und-konfliktpruefung` | Mandatsannahme fuer Lizenzvertragsersteller: Konfliktcheck (mehrseitige Vertretung im IP-Verkehr ist Standardrisiko), Mandantenbasisdaten, Ziel- und Eilfristanalyse, Vorvertragspruefung (NDA, LOI, MOU), Dokumenten-Intake-Liste. |
+| `output-vertrag-deutsch-fertigentwurf` | Output: vollstaendiger Lizenzvertragsentwurf in deutscher Sprache. Praeambel; 19 Paragraphen; Anlagen A-E; Unterschriftenseite. Aus den Klausel-Bausteinen zusammengestellt; modular je nach IP-Typ und Konstellation. |
+| `output-vertrag-englisch-fertigentwurf` | Output: vollstaendiger Lizenzvertrag in englischer Sprache (Licence Agreement). Standard-Klauseln in English Law / German-Law-Variante; Royalty / Sublicensing / Indemnification / Governing Law / Arbitration. Bilingual-faehig. |
+| `output-zweisprachig-bilingual-deutsch-englisch` | Output: zweisprachiger Lizenzvertrag mit Massgeb-Sprache. Side-by-side DE/EN; Massgeb-Klausel bei Divergenz; sprachliche Sorgfalt; Glossar; Vorteile und Risiken bilingualer Gestaltung. |
+| `parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer` | Rollenmatrix fuer Lizenzvertraege: Lizenzgeber, Lizenznehmer, Sicherheitengeber, Sicherheitennehmer, Verwahrer (Source-Code-Escrow), Konzernlizenzen, Cross-License. Mit Klaerungs-Checkliste pro Rolle. |
+| `sicherungslizenz-pfandrecht-an-immaterialguetern` | Sicherungslizenz und Pfandrecht an Immaterialguetern: Verpfaendung von Patenten/Marken nach $$ 1273 ff. BGB analog; Sicherungsabtretung; aufschiebend bedingte Lizenz; Verwertung im Sicherungsfall; Eintragungsfaehigkeit DPMA. |
+| `steuern-quellensteuer-und-dba-lizenz` | Steuern und Quellensteuer im Lizenzvertrag: $ 49 EStG Quellensteuer auf Royalties 15 Prozent; DBA-Reduktion (z. B. 0 Prozent DE-USA mit Antrag); EU-Zinsen-Lizenzgebuehren-Richtlinie; Umsatzsteuer auf Lizenzen; Gross-up-Klauseln. |
+| `transaktionsstruktur-visualisieren-ascii` | ASCII-Visualisierung der Lizenztransaktion: Parteien als Boxen, Lizenzflows als Pfeile, Sicherheiten und Escrow-Wege. Pro Konstellation (Einfach, Cross-License, Konzern, Pool, mit Sicherheiten) ein Schema. |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->
