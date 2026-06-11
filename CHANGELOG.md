@@ -1,3 +1,37 @@
+# v300.0.0 — Eval-Harness nach Harvey-LAB-Vorbild
+
+## Neue Werkzeuge
+
+- `scripts/run-eval.py` — Execution Harness fuer Plugin × Testakte-Bewertung. Liest pro Testakte `rubric.yaml` mit Pass/Fail-Checks und schreibt All-Pass-Score nach Harvey-LAB-Vorbild. Pruefungstypen: `file_exists`, `text_contains`, `regex_match`, `file_count`, `human_review`. CLI-Optionen: `--report` (MD-Report nach `EVAL_RESULTS.md`), `--json-out` (JSON-Snapshot), `--label` (Modellname).
+- `scripts/compare-eval-runs.py` — Modell-zu-Modell-Vergleichs-Dashboard. Erzeugt aus zwei oder mehr JSON-Snapshots eine Side-by-Side-Tabelle mit Delta-Spalte (Opus 4.7 vs. 4.8 vs. Haiku 4.5 etc.).
+- `scripts/llm-judge-eval.py` — LLM-Judge-Skelett mit Anthropic-SDK-Anbindung. Faellt ohne API-Key auf Dry-Run mit ausgegebenem Prompt zurueck. Bewertet einzelne Skill-Outputs gegen freie-Form Pass/Fail-Kriterien.
+
+## Neue Dokumentation
+
+- `docs/benchmark.md` — Methodik-Doku mit Schnellstart, Rubric-Format, Verhaeltnis zu Harvey LAB.
+
+## Rubrics (Proof-of-Concept fuer 5 Testakten)
+
+- `testakten/insolvenz-asset-deal-chaincortex-ai-berlin/rubric.yaml` (12 Checks)
+- `testakten/ma-asset-deal-medtech-volkenrath-darmstadt/rubric.yaml` (8 Checks)
+- `testakten/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum/rubric.yaml` (7 Checks)
+- `testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/rubric.yaml` (6 Checks)
+- `testakten/betreuung-hildegard-sauer/rubric.yaml` (5 Checks)
+
+Eval-Baseline-Run: **5/5 Akten All-Pass** (38 Checks gesamt, 0 Failures).
+
+## Versions-Bump
+
+- 213 plugin.json + marketplace.json + README + ASSET_INDEX + CHANGELOG auf v300.0.0.
+
+## Validatoren
+
+- `validate-plugin-structure.mjs` OK
+- `validate-yaml-frontmatter.py` 0 Fehler, 0 Warnungen
+- `run-eval.py` 5/5 All-Pass
+
+---
+
 # v293.0.0 — Qualitätsoffensive Rechtsprechungs-Anker und Arbeitszeugnis-Prüfer-Integration
 
 ## Neue Referenzen
