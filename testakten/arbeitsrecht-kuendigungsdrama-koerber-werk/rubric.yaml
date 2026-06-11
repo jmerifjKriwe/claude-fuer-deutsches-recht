@@ -1,0 +1,36 @@
+name: "Arbeitsrecht Kuendigungsdrama Koerber"
+plugin: "fachanwalt-arbeitsrecht"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "README mit Sachverhalt vorhanden"
+    path: "README.md"
+
+  - id: r02-gesamt-pdf
+    check_type: file_exists
+    description: "Gesamt-PDF gebaut"
+    path: "gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf"
+
+  - id: r03-erstgespraech
+    check_type: file_exists
+    description: "Erstgespraechs-Notiz vorhanden"
+    path: "01_erstgespraech_mandantennotiz.md"
+
+  - id: r04-kschg-3-wochen-frist
+    check_type: regex_match
+    description: "Kuendigungsschutzklage-3-Wochen-Frist / $ 4 KSchG sichtbar"
+    path: "README.md"
+    pattern: "(3-Wochen|drei.{0,3}Wochen|.{0,3} 4 KSchG|Klagefrist)"
+
+  - id: r05-betriebsrat-erwaehnt
+    check_type: regex_match
+    description: "Betriebsrat erwaehnt (BR-Anhoerung $ 102 BetrVG)"
+    path: "README.md"
+    pattern: "(Betriebsrat|BR-Anh|102 BetrVG)"
+
+  - id: r06-mind-1-anlage-attached
+    check_type: file_count
+    description: "mindestens 1 Anlage (eml/docx/xlsx/pdf/jpg)"
+    glob: "*/*.*"
+    min: 1
