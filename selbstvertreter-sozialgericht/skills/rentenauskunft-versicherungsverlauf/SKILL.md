@@ -3,7 +3,7 @@ name: rentenauskunft-versicherungsverlauf
 description: "Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster."
 ---
 
-# Rentenauskunft Und Versicherungsverlauf Pruefen
+# Rentenauskunft Und Versicherungsverlauf Prüfen
 
 ## Fachlicher Anker
 
@@ -51,8 +51,8 @@ description: "Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wi
 
 ## Wichtig
 
-- Vor Rentenantrag Konto klaeren — Beitraege zaehlen!
-- Bei Witwenrente Verlauf des Verstorbenen pruefen.
+- Vor Rentenantrag Konto klären — Beitraege zaehlen!
+- Bei Witwenrente Verlauf des Verstorbenen prüfen.
 
 ## Pruefraster
 

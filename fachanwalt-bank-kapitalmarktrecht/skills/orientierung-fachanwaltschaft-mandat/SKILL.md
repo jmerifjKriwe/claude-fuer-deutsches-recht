@@ -78,7 +78,7 @@ description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder 
 
 ## Vertiefung: Rechtsprechung und aktuelle Linien (Stand Mai 2026)
 
-### Schluessel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht (jeweils Volltext in offener Quelle prüfen)
+### Schlüssel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht (jeweils Volltext in offener Quelle prüfen)
 
 - **BGH XI ZR 22/24** v. 20.5.2025 — Vorfälligkeitsentschädigung Immobiliendarlehen: intransparente AGB-Klausel führt zum Verlust des VFE-Anspruchs. Quelle: juris.bundesgerichtshof.de
 - **BGH XI ZR 133/24** v. 21.10.2025 — Referenzzins für Zinsanpassungen in Praemiensparvertraegen (Folgeentscheidung). Quelle: bundesgerichtshof.de PM Nr. 225/2025

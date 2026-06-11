@@ -19,7 +19,7 @@ Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrech
 
 ## 1. Zweck und Anwendungsfall
 
-Skill zur Pruefung der Voraussetzungen einer Richteranklage. Anwendung sehr selten, aber relevant für Verfahrensbeteiligte, die einen Bundesrichter wegen schwerwiegender Pflichtverstoesse aus dem Amt entfernt sehen wollen, oder für den betroffenen Richter zur Verteidigung.
+Skill zur Prüfung der Voraussetzungen einer Richteranklage. Anwendung sehr selten, aber relevant für Verfahrensbeteiligte, die einen Bundesrichter wegen schwerwiegender Pflichtverstoesse aus dem Amt entfernt sehen wollen, oder für den betroffenen Richter zur Verteidigung.
 
 ## 2. Eingaben
 
@@ -41,11 +41,11 @@ Skill zur Pruefung der Voraussetzungen einer Richteranklage. Anwendung sehr selt
 - Verfahren vor dem BVerfG (Senatsentscheidung).
 
 ### d) Bewertung
-- Die Hoehe der Schwelle ist hoch; in der Praxis selten erfuellt. Disziplinarmassnahmen treten daneben.
+- Die Höhe der Schwelle ist hoch; in der Praxis selten erfuellt. Disziplinarmassnahmen treten daneben.
 
 ### e) Verteidigung
 - Geltendmachung der Garantie der richterlichen Unabhaengigkeit Art. 97 GG.
-- Pruefung des Tatbestands der Amtsverletzung.
+- Prüfung des Tatbestands der Amtsverletzung.
 
 ## 4. Quellenpflicht
 
@@ -69,4 +69,4 @@ Skill zur Pruefung der Voraussetzungen einer Richteranklage. Anwendung sehr selt
 
 ## 7. Beispiel (Kurzfassung)
 
-Hypothetisch: Bundesrichter aeussert sich oeffentlich gegen die Geltung des Grundgesetzes. Skill liefert Pruefraster der Voraussetzungen einer Richteranklage und der parallelen disziplinarrechtlichen Schritte.
+Hypothetisch: Bundesrichter aeussert sich öffentlich gegen die Geltung des Grundgesetzes. Skill liefert Pruefraster der Voraussetzungen einer Richteranklage und der parallelen disziplinarrechtlichen Schritte.

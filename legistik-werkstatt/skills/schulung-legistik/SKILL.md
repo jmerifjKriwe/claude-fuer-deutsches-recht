@@ -9,7 +9,7 @@ description: "Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektr
 
 ## Lernziele
 
-Nach Abschluss der Schulung koennen die Teilnehmenden:
+Nach Abschluss der Schulung können die Teilnehmenden:
 
 1. **Auftragsaufnahme** - eine politische Vorgabe in operationalisierbare Regelungsziele übersetzen
 2. **Norm-Routing** - die richtige Norm-Ebene wählen

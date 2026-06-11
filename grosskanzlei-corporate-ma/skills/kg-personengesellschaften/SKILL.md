@@ -127,9 +127,9 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 161-177 HGB — KG: Kommanditistenhaftung bis zur Hoehe der Einlage; Haftung erneut auflebt nach Rueckgewaehr (§ 172 Abs. 4 HGB)
+- §§ 161-177 HGB — KG: Kommanditistenhaftung bis zur Höhe der Einlage; Haftung erneut auflebt nach Rueckgewaehr (§ 172 Abs. 4 HGB)
 - §§ 171-172 HGB — Haftung des Kommanditisten: nur bis zur Einlage; haftet erneut, wenn Einlage herabgesetzt oder zurueckgezahlt wird
-- § 706 BGB n.F. (MoPeG) — Gesellschaftsregister für GbR; Eintragungspflicht ab 01.01.2024; Grundstuckserwerb nur als eingetragene GbR (eGbR) moeglich
+- § 706 BGB n.F. (MoPeG) — Gesellschaftsregister für GbR; Eintragungspflicht ab 01.01.2024; Grundstuckserwerb nur als eingetragene GbR (eGbR) möglich
 - §§ 705-740 BGB n.F. (MoPeG) — modernisiertes Personengesellschaftsrecht ab 01.01.2024
 - § 124 KAGB — Investmentkommanditgesellschaft (InvKG): Sonderform für Fondsvehikel; Aufsicht BaFin
 - §§ 1 Abs. 3, 48 ff. HGB — Prokura und Handelsvollmacht: massgeblich für Vertretung in der KG
@@ -141,10 +141,10 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Rechtsform und Gesellschaftsvertrag pruefen:** aktueller HR-Auszug HRA, Gesellschaftsvertrag, Kommanditistenliste
-2. **Haftungslage klaren:** Hafteinlage vs. tatsaechlich geleistete Einlage; Einlagenrueckgewaehr-Pruefung (§ 172 Abs. 4 HGB) für alle relevanten Zahlungen der letzten 5 Jahre
+1. **Rechtsform und Gesellschaftsvertrag prüfen:** aktueller HR-Auszug HRA, Gesellschaftsvertrag, Kommanditistenliste
+2. **Haftungslage klaren:** Hafteinlage vs. tatsaechlich geleistete Einlage; Einlagenrueckgewaehr-Prüfung (§ 172 Abs. 4 HGB) für alle relevanten Zahlungen der letzten 5 Jahre
 3. **Vertretungsmacht feststellen:** Komplementaer (in GmbH & Co. KG: GmbH-Geschaftsfuehrer); Prokura; Gesamtvertretung?
-4. **Kommanditistenwechsel (falls vorgesehen):** Abtretungsvertrag, HR-Anmeldung, Gesellschaftsvertrag-Zustimmungspflicht pruefen
+4. **Kommanditistenwechsel (falls vorgesehen):** Abtretungsvertrag, HR-Anmeldung, Gesellschaftsvertrag-Zustimmungspflicht prüfen
 5. **MoPeG-Compliance:** GbR-Register geprueft? Bei Grundstucksbesitz: Eintragung als eGbR erforderlich (§ 706 BGB n.F.)
 6. **Fondsvehikel (§ 124 KAGB):** BaFin-Genehmigung, Anlagebedingungen, KAGB-Compliance
 7. **Stimmrechts- und Abstimmungsregeln:** Mehrheitserfordernisse im Gesellschaftsvertrag; Stimmrechtsausschluss bei Interessenkonflikten; Protokoll
@@ -184,7 +184,7 @@ REGISTER
 
 ## Rote Schwellen
 
-- Einlagenrueckgewaehr ohne Pruefung: Aussenhaftung des Kommanditisten unerkannt
+- Einlagenrueckgewaehr ohne Prüfung: Aussenhaftung des Kommanditisten unerkannt
 - Vertretungsmacht unklar: Signing-Vollmacht angreifbar
 - MoPeG-Eintragungspflicht versaeumt: Grundstueckserwerb scheitert
 

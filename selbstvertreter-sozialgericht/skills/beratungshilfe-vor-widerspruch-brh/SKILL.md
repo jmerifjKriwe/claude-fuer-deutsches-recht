@@ -13,15 +13,15 @@ description: "Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Wide
 
 ## Worum geht es?
 
-Bevor Sie Widerspruch oder Klage einlegen, koennen Sie sich von einem Anwalt beraten lassen. Wenn Sie wenig Geld haben, gibt es Beratungshilfe: der Staat zahlt fast alles, Sie nur 15 EUR Eigenanteil. Diese Skill zeigt, wie Sie den Berechtigungsschein bekommen.
+Bevor Sie Widerspruch oder Klage einlegen, können Sie sich von einem Anwalt beraten lassen. Wenn Sie wenig Geld haben, gibt es Beratungshilfe: der Staat zahlt fast alles, Sie nur 15 EUR Eigenanteil. Diese Skill zeigt, wie Sie den Berechtigungsschein bekommen.
 
 ## In einfacher Sprache
 
-Sie wollen vor dem Widerspruch einen Anwalt fragen. Das geht fast gratis. Sie zahlen nur 15 Euro. Den Rest zahlt der Staat. Sie muessen einen Schein beim Amtsgericht holen.
+Sie wollen vor dem Widerspruch einen Anwalt fragen. Das geht fast gratis. Sie zahlen nur 15 Euro. Den Rest zahlt der Staat. Sie müssen einen Schein beim Amtsgericht holen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie sind unsicher, ob Sie einen Widerspruch / Klage formulieren koennen.
+- Sie sind unsicher, ob Sie einen Widerspruch / Klage formulieren können.
 - Sie wollen vor Frist-Ablauf von Anwalt beraten werden.
 - Sie haben wenig Einkommen.
 
@@ -46,14 +46,14 @@ Das **Amtsgericht** (nicht das Sozialgericht!) ist zuständig. Speziell die Rech
 
 Adresse: www.justiz.de → Amtsgericht in Ihrer Stadt.
 
-Sie koennen den Schein:
+Sie können den Schein:
 
 - **Persoenlich** auf der Geschaeftsstelle abholen (mit Ausweis und Belegen)
 - **Schriftlich** per Antrag holen
 
 ### Schritt 2 — Voraussetzungen
 
-- Wirtschaftliche Lage: aehnlich wie Buergergeld-Berechtigung.
+- Wirtschaftliche Lage: ähnlich wie Buergergeld-Berechtigung.
 - Keine andere zumutbare Hilfe (z.B. Rechtsschutz-Versicherung).
 - Mutwilligkeit nicht erkennbar.
 
@@ -94,10 +94,10 @@ Nicht jeder Anwalt nimmt Beratungshilfe-Mandate. Vorher anrufen.
 
 Beratungshilfe ist VOR dem Gerichtsverfahren. Im laufenden Verfahren brauchen Sie PKH (siehe `pkh-vor-sozialgericht-73a-sgg`).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Manchmal kein Schein noetig**: Sie koennen auch direkt zum Anwalt; dieser stellt dann nachtraeglich den Antrag. Anwalt fragen.
-- **Mehrfache Beratungshilfe in einer Sache**: meist nur einmal pro Streitgegenstand. Bei Folgefragen pruefen.
+- **Manchmal kein Schein noetig**: Sie können auch direkt zum Anwalt; dieser stellt dann nachtraeglich den Antrag. Anwalt fragen.
+- **Mehrfache Beratungshilfe in einer Sache**: meist nur einmal pro Streitgegenstand. Bei Folgefragen prüfen.
 - **Familiengruende**: Bei familienrechtlichen Themen aussagen, ob das mit Sozialrecht zusammenhaengt.
 
 ## Typische Fehler
@@ -108,4 +108,4 @@ Beratungshilfe ist VOR dem Gerichtsverfahren. Im laufenden Verfahren brauchen Si
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. BerHG aktuell. Eigenanteil seit Jahren 15 EUR. Pruefen Sie aktuellen Stand auf www.justiz.de.
+Stand: 05/2026. BerHG aktuell. Eigenanteil seit Jahren 15 EUR. Prüfen Sie aktuellen Stand auf www.justiz.de.

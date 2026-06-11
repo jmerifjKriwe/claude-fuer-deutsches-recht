@@ -36,14 +36,14 @@ description: "Output- und Streit-Skill für B2B Harte Fassung: macht aus der AGB
 ### Wichtige Sonderbereiche
 - **Haftungsausschluss**: § 309 Nr. 7a, 7b BGB strahlen in den B2B-Bereich aus. Insbesondere Ausschluss der Haftung für Vorsatz und grobe Fahrlaessigkeit ist in B2B unwirksam.
 - **Gewaehrleistungsausschluss**: Vollausschluss für Mangelhaftung in B2B regelmaessig unwirksam.
-- **Vertragsstrafe**: Pauschalierter Schadensersatz in AGB nur wirksam, wenn die Hoehe nicht ausser Verhaeltnis steht.
+- **Vertragsstrafe**: Pauschalierter Schadensersatz in AGB nur wirksam, wenn die Höhe nicht ausser Verhaeltnis steht.
 
 ### Aushandeln im B2B
 - BGH zum Aushandeln in B2B: hohes Anforderungsniveau. Bloss "kommerzielle Reife" reicht nicht; tatsaechliches Verhandlungs- und Aenderungsangebot des Verwenders muss nachweisbar sein.
 
 ### Pruefraster
 1. Klausel im B2B oder B2C?
-2. § 309 BGB-Wertung als Indiz? — Pruefen.
+2. § 309 BGB-Wertung als Indiz? — Prüfen.
 3. § 307 BGB als Hauptmassstab.
 4. Aushandlung tatsaechlich erfolgt? — Beweislast Verwender.
 5. Branchengewohnheit/Handelsgebrauch beruecksichtigen.

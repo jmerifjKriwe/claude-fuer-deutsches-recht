@@ -19,9 +19,9 @@ Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen
 
 ## Triage zu Beginn
 1. Liegt ein frischer beA-Zugriff oder ein archivierter ZIP-Export vor?
-2. Welche Nachrichten muessen der Akte zugeordnet werden (Eingang und Ausgang)?
+2. Welche Nachrichten müssen der Akte zugeordnet werden (Eingang und Ausgang)?
 3. Gibt es Empfangsbekenntnisse (EB), die aktuell zur Entscheidung anstehen?
-4. Sind fristwahrende Dokumente dabei, die sofort ins Fristenbuch muessen?
+4. Sind fristwahrende Dokumente dabei, die sofort ins Fristenbuch müssen?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

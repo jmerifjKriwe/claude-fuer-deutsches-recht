@@ -133,7 +133,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 | Phase | Mustertextbaustein |
 |---|---|
-| DD-Phase | "Analyse der Vertragsdokumentation im Datenraum (Workstream: Wesentliche Vertraege); Pruefung Change-of-Control-Klauseln für 28 Vertraege; Red-Flag-Memo-Beitrag Corporate/Litigation" |
+| DD-Phase | "Analyse der Vertragsdokumentation im Datenraum (Workstream: Wesentliche Verträge); Prüfung Change-of-Control-Klauseln für 28 Verträge; Red-Flag-Memo-Beitrag Corporate/Litigation" |
 | SPA-Phase | "Verhandlung Haftungsklauseln §§ 8-11 SPA; Markup-Runde 3; Abstimmung W&I-Wording mit Underwriter-Beratern; interne Koordination mit Steuerberatern" |
 | Regulatory | "Vorbereitung und Einreichung Fusionskontrollantrag beim Bundeskartellamt; Beantwortung Ruckfragen Phase I (Schreiben vom [Datum]); Koordination mit Mandant und Investmentbank" |
 | Closing | "Vorbereitung Closing-Checkliste; Review aller Deliverables; Closing-Meeting Koordination; Notartermin Begleitung" |
@@ -141,7 +141,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Zeitererfassung nach Workstream** — taeglich; keine monatliche Nacherfassung
-2. **Narrative-Qualitaet pruefen** — mandantentaugliche Beschreibung; kein anwaltliches Privileg gefaehrden
+2. **Narrative-Qualitaet prüfen** — mandantentaugliche Beschreibung; kein anwaltliches Privileg gefaehrden
 3. **Budget-Tracking** — woechentlich; Warnung bei >80 % verbraucht
 4. **Phasenrechnung erstellen** — nach Signing, nach Closing, oder monatlich nach Vereinbarung
 5. **Review durch Kanzlei-Finance** — Konsistenz; E-Rechnung-Format; MwSt-Hinweis

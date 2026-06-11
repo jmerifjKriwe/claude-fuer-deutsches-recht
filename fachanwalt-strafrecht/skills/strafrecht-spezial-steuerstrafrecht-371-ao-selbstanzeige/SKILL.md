@@ -47,7 +47,7 @@ Wenn ein Sperrgrund vorliegt, ist Selbstanzeige unwirksam. Es bleibt nur die Str
 
 ### Absatz 2a Zuschlagspflicht
 
-Bei Verkuerzungsbetraegen zwischen **25.000 und 100.000 Euro je Tat** wird Strafbefreiung nur gegen Zahlung eines Zuschlags von **10 Prozent** des Verkuerzungsbetrages gewaehrt. Bei Betraegen zwischen 100.000 und 1 Mio Euro: 15 Prozent. Ueber 1 Mio Euro: 20 Prozent. Diese Zuschlaege gehen zugunsten des Fiskus.
+Bei Verkuerzungsbetraegen zwischen **25.000 und 100.000 Euro je Tat** wird Strafbefreiung nur gegen Zahlung eines Zuschlags von **10 Prozent** des Verkuerzungsbetrages gewaehrt. Bei Betraegen zwischen 100.000 und 1 Mio Euro: 15 Prozent. Über 1 Mio Euro: 20 Prozent. Diese Zuschlaege gehen zugunsten des Fiskus.
 
 ### Absatz 3 Zahlungsfrist
 
@@ -59,19 +59,19 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 
 ## Praktikertipps Verteidigung
 
-- **Frueh handeln — vor Tatentdeckung.** Sobald Mandant Anhaltspunkte für eine bevorstehende Pruefung oder Steuerfahndung hat: sofort Selbstanzeige. Jeder Tag zaehlt.
+- **Frueh handeln — vor Tatentdeckung.** Sobald Mandant Anhaltspunkte für eine bevorstehende Prüfung oder Steuerfahndung hat: sofort Selbstanzeige. Jeder Tag zaehlt.
 - **Vollstaendigkeit gruendlich vorbereiten.** Vor Abgabe alle Unterlagen sichten — Bankauszuege, Belege, Notizen. Lieber zwei Wochen Vorbereitung als unvollstaendige Anzeige.
-- **Zehn-Jahres-Rücksicht.** Verjährungsfristen exakt berechnen. Bei Tat unter Paragraph 370 Abs 3 AO (grosses Ausmass) gilt 15-jaehrige Steuerstrafverjaehrung.
+- **Zehn-Jahres-Rücksicht.** Verjährungsfristen exakt berechnen. Bei Tat unter Paragraph 370 Abs 3 AO (großes Ausmass) gilt 15-jaehrige Steuerstrafverjaehrung.
 - **Steuerberater oder Anwalt einbinden — von Anfang an.** Selbstanzeige durch Laien ist hochrisikobehaftet.
-- **Zuschlag rechtzeitig kalkulieren.** Bei Betraegen ab 25.000 Euro Zuschlag in Hoehe von 10 bis 20 Prozent zusaetzlich zur Mehrsteuer einplanen.
+- **Zuschlag rechtzeitig kalkulieren.** Bei Betraegen ab 25.000 Euro Zuschlag in Höhe von 10 bis 20 Prozent zusaetzlich zur Mehrsteuer einplanen.
 - **Mehrere Steuerpflichtige koordinieren.** Bei Ehegatten oder Bruder-/Schwester-Konstellationen Selbstanzeigen synchronisieren — sonst Sperrgrund Tatentdeckung droht.
 - **Kein "Stuetzweise" Anzeigen.** Trickle-Selbstanzeige (stueckweise) ist seit 2015 unwirksam.
 
 ## Trade-off-Matrix
 
-| Pfad A vollumfaengliche Selbstanzeige sofort | Pfad B Pruefung abwarten, Verteidigung in Verfahren | Empfehlung |
+| Pfad A vollumfaengliche Selbstanzeige sofort | Pfad B Prüfung abwarten, Verteidigung in Verfahren | Empfehlung |
 | --- | --- | --- |
-| Strafbefreiung bei korrekter Durchfuehrung; hohe Zahlungsbelastung sofort. | Risiko Strafverfahren; Verkuerzungsbetrag kann durch Anwaltsverteidigung evtl. reduziert werden; Vorsatzangriff moeglich. | Bei nachgewiesener Steuerhinterziehung Pfad A nahezu immer vorzuziehen. Bei knapper Beweislage und plausiblem Vorsatzeinwand kann Pfad B taktisch sinnvoll sein. |
+| Strafbefreiung bei korrekter Durchfuehrung; hohe Zahlungsbelastung sofort. | Risiko Strafverfahren; Verkuerzungsbetrag kann durch Anwaltsverteidigung evtl. reduziert werden; Vorsatzangriff möglich. | Bei nachgewiesener Steuerhinterziehung Pfad A nahezu immer vorzuziehen. Bei knapper Beweislage und plausiblem Vorsatzeinwand kann Pfad B taktisch sinnvoll sein. |
 
 ## Konkurrenzen
 
@@ -86,7 +86,7 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 - **Zuschlag nach Absatz 2a** bei Verkuerzungen ab 25.000 Euro.
 - **Bei Unwirksamkeit:** Strafmilderung nach Paragraph 46 StGB; in der Praxis oft Bewaehrung bei mittleren Verkuerzungen.
 - **Strafrahmen Paragraph 370 Abs 1 AO bei Unwirksamkeit:** Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
-- **Berufsverbot Paragraph 70 StGB** moeglich.
+- **Berufsverbot Paragraph 70 StGB** möglich.
 
 ## Mustertexte
 

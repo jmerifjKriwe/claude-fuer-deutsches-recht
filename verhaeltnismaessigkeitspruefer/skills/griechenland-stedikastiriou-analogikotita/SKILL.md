@@ -24,15 +24,15 @@ Pagos aus dem Rechtsstaatsprinzip und der EMRK gewonnen.
 ## Drei Stufen der Analogikotita
 
 Die Rechtsprechung des **Symvoulio tis Epikrateias (StE)** und des
-**Anotato Eidiko Dikastirio (AED)** prueft Eingriffsmassnahmen in
+**Anotato Eidiko Dikastirio (AED)** prüft Eingriffsmassnahmen in
 drei Stufen:
 
 1. **Katallilotita** (Geeignetheit): das Mittel ist zur Zielerreichung
    geeignet.
 2. **Anagkaiotita** (Erforderlichkeit): kein milderes gleich wirksames
    Mittel.
-3. **Stenh ennoia analogikotitas** (Verhaeltnismaessigkeit im engeren
-   Sinn): die Nachteile fuer den Betroffenen sind nicht ausser
+3. **Stenh ennoia analogikotitas** (Verhältnismäßigkeit im engeren
+   Sinn): die Nachteile für den Betroffenen sind nicht ausser
    Verhaeltnis zum Zweck.
 
 Leading cases:
@@ -46,10 +46,10 @@ Leading cases:
 
 ## Anotato Eidiko Dikastirio und Areios Pagos
 
-Das **AED** (Art 100 Syntagma) ist Sondergericht fuer Verfassungs- und
+Das **AED** (Art 100 Syntagma) ist Sondergericht für Verfassungs- und
 Verfassungsmaessigkeitsfragen. Der **Areios Pagos** (oberstes Zivil- und
-Strafgericht) prueft die Verhaeltnismaessigkeit ueber EMRK und EU-Charta.
-Der StE (Staatsrat) ist faktisch die zentrale Instanz fuer
+Strafgericht) prüft die Verhältnismäßigkeit über EMRK und EU-Charta.
+Der StE (Staatsrat) ist faktisch die zentrale Instanz für
 Verfassungs-Verhaeltnismaessigkeitsfragen.
 
 ## Wesensgehalt
@@ -57,7 +57,7 @@ Verfassungs-Verhaeltnismaessigkeitsfragen.
 Art 25 I 4 Syntagma enthaelt keinen expliziten Wesensgehaltsschutz wie
 Art 19 II GG. Die Rechtsprechung leitet einen Kerngehaltsschutz jedoch
 aus Art 2 I Syntagma (Wuerde des Menschen) und der EMRK ab. StE
-2192/2014 hat etwa fuer Beamtenbesoldung einen abwaegungsfesten
+2192/2014 hat etwa für Beamtenbesoldung einen abwaegungsfesten
 Kern (axioprepi diavioshs / Mindestlebensbedingungen) anerkannt.
 
 ## Strukturunterschiede
@@ -65,13 +65,13 @@ Kern (axioprepi diavioshs / Mindestlebensbedingungen) anerkannt.
 | Deutschland | Griechenland |
 | --- | --- |
 | Vier Stufen sequenziell | Drei Stufen Katallilotita Anagkaiotita Stenh ennoia |
-| Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt; Kerngehalt ueber Art 2 I Syntagma und EMRK |
-| Schutzbereich-Eingriff-Rechtfertigung getrennt | Pruefung ueber Art 25 I 4 Syntagma |
+| Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt; Kerngehalt über Art 2 I Syntagma und EMRK |
+| Schutzbereich-Eingriff-Rechtfertigung getrennt | Prüfung über Art 25 I 4 Syntagma |
 | Einschaetzungspraerogative national | Diakritiki evcheria tou nomotheti, eng bei Eingriffen |
 | Praktische Konkordanz | Stathmisi agathon kai dikaiomaton |
-| Untermassverbot ausgepraegt | Ypochreosi positivis prostasias nach Art 2, 5 Syntagma |
+| Untermassverbot ausgeprägt | Ypochreosi positivis prostasias nach Art 2, 5 Syntagma |
 
-## Bedeutung fuer den Pruefer
+## Bedeutung für den Prüfer
 
 Bei griechischen Bezuegen:
 
@@ -84,7 +84,7 @@ Bei griechischen Bezuegen:
 
 ## Live-Recherche-Disclaimer
 
-Entscheidungen vor Zitierung verifizieren ueber das offizielle Portal
+Entscheidungen vor Zitierung verifizieren über das offizielle Portal
 des Symvoulio tis Epikrateias (adjustice gr / ste gr). Volltexte auch
 in Themis und Theoria kai Praxis Dioikitikou Dikaiou (ThPDD).
 Aktenzeichen Nummer/Jahr; Olomeleia (Plenum) oder Tmema (Senat)

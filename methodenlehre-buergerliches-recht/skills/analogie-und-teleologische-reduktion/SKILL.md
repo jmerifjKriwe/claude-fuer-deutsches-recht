@@ -22,11 +22,11 @@ Rechtsfortbildung ist im deutschen Zivilrecht ein vom BGH stetig genutztes Werkz
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie pruefen einen Fall, der vom Wortlaut der einschlaegigen Norm nicht erfasst ist, aber wertungsmaessig dort hingehoeren sollte.
-- Sie pruefen umgekehrt einen Fall, den der Wortlaut erfasst, der aber wertungsmaessig nicht erfasst sein sollte.
+- Sie prüfen einen Fall, der vom Wortlaut der einschlaegigen Norm nicht erfasst ist, aber wertungsmaessig dort hingehoeren sollte.
+- Sie prüfen umgekehrt einen Fall, den der Wortlaut erfasst, der aber wertungsmaessig nicht erfasst sein sollte.
 - Sie argumentieren mit Drittschadensliquidation, Vertrag mit Schutzwirkung zugunsten Dritter, c.i.c. (vor § 311 Abs. 2 BGB), pVV (vor § 280 BGB).
-- Sie diskutieren mit der Gegenseite ueber den Anwendungsbereich eines spezialgesetzlichen Schutzes (z. B. Mieter-, Verbraucher-, Arbeitnehmerschutz).
-- Sie pruefen die Reichweite einer Sonderregelung gegen ihren scheinbar weiten Wortlaut.
+- Sie diskutieren mit der Gegenseite über den Anwendungsbereich eines spezialgesetzlichen Schutzes (z. B. Mieter-, Verbraucher-, Arbeitnehmerschutz).
+- Sie prüfen die Reichweite einer Sonderregelung gegen ihren scheinbar weiten Wortlaut.
 
 ## Methodische Grundlage
 
@@ -55,14 +55,14 @@ Rechtsfortbildung ist im deutschen Zivilrecht ein vom BGH stetig genutztes Werkz
 
 - **§ 906 Abs. 2 S. 2 BGB analog** — nachbarrechtlicher Ausgleichsanspruch wird vom BGH analog auf andere stoerende Einwirkungen angewandt (vgl. BGH stRspr.).
 - **Vertrag mit Schutzwirkung zugunsten Dritter** — richterliche Rechtsfortbildung auf Grundlage des § 328 BGB. Erstreckung von Schutzpflichten auf bestimmungsgemaess am Vertrag teilhabende Dritte.
-- **Drittschadensliquidation** — Schaden eines Dritten kann ueber den Anspruch eines anderen liquidiert werden, wo Schadensverlagerungen den Schaediger ungerechtfertigt entlasten wuerden.
+- **Drittschadensliquidation** — Schaden eines Dritten kann über den Anspruch eines anderen liquidiert werden, wo Schadensverlagerungen den Schaediger ungerechtfertigt entlasten wuerden.
 - **§ 1004 BGB analog** — Beseitigungs- und Unterlassungsanspruch wird auf andere absolute Rechtsgueter analog angewandt (allgemeines Persoenlichkeitsrecht, eingerichteter und ausgeuebter Gewerbebetrieb).
 - **Culpa in contrahendo** — Vor Schuldrechtsmodernisierung 2002 als Rechtsfortbildung anerkannt; seit 2002 in § 311 Abs. 2 BGB kodifiziert.
 
 **Beispiele teleologische Reduktion:**
 
 - **§ 181 BGB (Insichgeschaeft)** — Wortlaut erfasst auch Faelle, in denen der Vertretene durch das Insichgeschaeft nur Vorteile erlangt. Hier reduziert die Rechtsprechung den Anwendungsbereich teleologisch.
-- **§ 932 BGB (gutglaeubiger Erwerb)** — Der Wortlaut erfasst auch das ueber-uebergeber-Erwerbsverhaeltnis; bei bestimmten Konstellationen wird teleologisch reduziert.
+- **§ 932 BGB (gutglaeubiger Erwerb)** — Der Wortlaut erfasst auch das über-uebergeber-Erwerbsverhaeltnis; bei bestimmten Konstellationen wird teleologisch reduziert.
 - **Verjährungsnormen bei rechtsmissbraeuchlicher Berufung** — § 242 BGB als methodisches Korrektiv, das funktional teleologische Reduktion einer Verjährungseinrede bewirkt.
 
 **Verbot der Analogie:**
@@ -72,24 +72,24 @@ Rechtsfortbildung ist im deutschen Zivilrecht ein vom BGH stetig genutztes Werkz
 - **Ordnungswidrigkeiten** — § 3 OWiG.
 - **Eingriffsverwaltung** — restriktive Auslegung, Analogie zulasten des Buergers nur bei klarer planwidriger Luecke.
 
-Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten Privater sind moeglich, soweit die Voraussetzungen erfuellt sind.
+Im **Zivilrecht** ist Analogie grundsätzlich zulässig. Auch Analogien zulasten Privater sind möglich, soweit die Voraussetzungen erfuellt sind.
 
 ## Schritt-für-Schritt
 
-**Fuer die Analogie:**
+**Für die Analogie:**
 
 1. **Norm und Sachverhalt vergleichen.** Wortlaut deckt den Fall nicht ab.
 2. **Regelungsluecke nachweisen.** Keine andere Norm einschlaegig.
-3. **Planwidrigkeit pruefen.** Materialien: hat der Gesetzgeber den Fall bedacht und bewusst ausgelassen?
+3. **Planwidrigkeit prüfen.** Materialien: hat der Gesetzgeber den Fall bedacht und bewusst ausgelassen?
 4. **Vergleichbare Interessenlage darlegen.** Wesentliche Wertungsmerkmale identifizieren.
-5. **Rechtsfolge uebertragen.** Sinngemaess, nicht woertlich.
-6. **Analogieverbote pruefen.** Strafrecht, Steuerrecht, ggf. Eingriffsverwaltung.
+5. **Rechtsfolge uebertragen.** Sinngemäß, nicht woertlich.
+6. **Analogieverbote prüfen.** Strafrecht, Steuerrecht, ggf. Eingriffsverwaltung.
 
-**Fuer die teleologische Reduktion:**
+**Für die teleologische Reduktion:**
 
-1. **Wortlaut der Norm pruefen.** Er erfasst den Fall.
+1. **Wortlaut der Norm prüfen.** Er erfasst den Fall.
 2. **Telos formulieren.** Was will die Norm erreichen?
-3. **Telos-Reichweite pruefen.** Wird der konkrete Fall vom Telos erfasst?
+3. **Telos-Reichweite prüfen.** Wird der konkrete Fall vom Telos erfasst?
 4. **Verdeckte Luecke nachweisen.** Wenn ja, ist eine ungewollte Erfassung gegeben.
 5. **Reduktion durchfuehren.** Norm wird in dem Punkt nicht angewendet.
 6. **Wertungsoffenheit darlegen.** Die teleologische Reduktion ist offen zu kennzeichnen.
@@ -97,10 +97,10 @@ Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten
 ## Typische Fehler / Kritik
 
 - **Analogie ohne Planwidrigkeit.** Wenn der Gesetzgeber etwas bewusst nicht geregelt hat, fehlt die Voraussetzung. Beispiel: § 2287 BGB (boeswillige Schenkung beim Erbvertrag) wird nicht analog auf Schenkungen bei Erbeinsetzung im Testament angewandt — der Gesetzgeber hat die Differenzierung gesehen.
-- **Vergleichbare Interessenlage behauptet.** Nur weil zwei Faelle "irgendwie aehnlich" sind, ist die Wertungsidentitaet nicht nachgewiesen.
-- **Auslegung statt Analogie und umgekehrt.** Wer ueber den Wortlaut hinausgeht, betreibt Rechtsfortbildung, nicht Auslegung. Diese Unterscheidung sollte im Schriftsatz offen gemacht werden.
+- **Vergleichbare Interessenlage behauptet.** Nur weil zwei Faelle "irgendwie ähnlich" sind, ist die Wertungsidentitaet nicht nachgewiesen.
+- **Auslegung statt Analogie und umgekehrt.** Wer über den Wortlaut hinausgeht, betreibt Rechtsfortbildung, nicht Auslegung. Diese Unterscheidung sollte im Schriftsatz offen gemacht werden.
 - **Teleologische Reduktion ohne saubere Telos-Bestimmung.** Wenn der Telos nur unterstellt ist, fehlt die Grundlage.
-- **Analogie zulasten von Privaten ohne klare Begruendung.** Im Zivilrecht zulaessig, aber argumentationsbeduerftig.
+- **Analogie zulasten von Privaten ohne klare Begruendung.** Im Zivilrecht zulässig, aber argumentationsbeduerftig.
 - **Vermeintliche Analogie zur Umgehung der Wortlaut-Grenze.** Wer im Strafrecht oder Steuerrecht "analog" anwendet, verstoesst gegen Art. 103 Abs. 2 GG bzw. den Vorbehalt des Gesetzes.
 
 ## Quellen und Stand 05/2026

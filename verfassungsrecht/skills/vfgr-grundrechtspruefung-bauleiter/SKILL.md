@@ -23,16 +23,16 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster — Drei-Schritt der Grundrechtspruefung
 
-1. **Schutzbereich** — sachlich und persoenlich. Welches Grundrecht ist einschlaegig (Art. 1-19 GG)? Persoenlicher Schutzbereich (Deutsche/jedermann/juristische Personen Art. 19 III GG)? Sachlicher Schutzbereich nach BVerfG-Definition? Konkurrenzen pruefen (Spezialitaet, Idealkonkurrenz).
+1. **Schutzbereich** — sachlich und persoenlich. Welches Grundrecht ist einschlaegig (Art. 1-19 GG)? Persoenlicher Schutzbereich (Deutsche/jedermann/juristische Personen Art. 19 III GG)? Sachlicher Schutzbereich nach BVerfG-Definition? Konkurrenzen prüfen (Spezialitaet, Idealkonkurrenz).
 2. **Eingriff** — klassisch (final, unmittelbar, rechtsfoermig, mit Befehl und Zwang) oder modern (jede dem Staat zurechenbare nicht nur unwesentliche Beeintraechtigung). Schutzbereichsverkuerzung oder mittelbar-faktischer Eingriff?
 3. **Verfassungsrechtliche Rechtfertigung**
  - Schranke: Vorbehalt des Gesetzes, einfacher/qualifizierter Gesetzesvorbehalt, verfassungsimmanente Schranken bei vorbehaltlosen Grundrechten (Art. 4, 5 III GG).
- - Schranken-Schranke: Verhaeltnismaessigkeit (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit), Wesensgehalt Art. 19 II GG, Zitiergebot Art. 19 I 2 GG, Einzelfallverbot Art. 19 I 1 GG, Bestimmtheitsgebot.
+ - Schranken-Schranke: Verhältnismäßigkeit (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit), Wesensgehalt Art. 19 II GG, Zitiergebot Art. 19 I 2 GG, Einzelfallverbot Art. 19 I 1 GG, Bestimmtheitsgebot.
 
 ## Praxisfallen
 
@@ -41,7 +41,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 - Bei Art. 14 I GG: Inhalts- und Schrankenbestimmung vs. Enteignung sauber abgrenzen (BVerfGE 58, 300 — Nassauskiesung).
 - Bei Art. 3 I GG: Pruefungsmassstaeben (Willkuer vs. neue Formel) je nach Differenzierungsmerkmal.
 - Bei Art. 2 I GG: Subsidiaritaet (nur wenn kein spezielleres Grundrecht greift).
-- Drittwirkung: mittelbar ueber Generalklauseln (BVerfGE 7, 198 — Lueth).
+- Drittwirkung: mittelbar über Generalklauseln (BVerfGE 7, 198 — Lueth).
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.

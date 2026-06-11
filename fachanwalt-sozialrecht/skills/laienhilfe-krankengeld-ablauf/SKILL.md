@@ -66,13 +66,13 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
 ## Krankengeld / Ablauf - Themenspezifika
-- **Rechtsgrundlage:** §§ 44-51 SGB V; §§ 46 (Beginn / Ende), 47 (Hoehe), 48 (Hoechstdauer 78 Wochen wegen derselben Krankheit binnen 3 Jahre), 51 (Reha-/Rentenantragsaufforderung).
+- **Rechtsgrundlage:** §§ 44-51 SGB V; §§ 46 (Beginn / Ende), 47 (Höhe), 48 (Hoechstdauer 78 Wochen wegen derselben Krankheit binnen 3 Jahre), 51 (Reha-/Rentenantragsaufforderung).
 - **Beginn Krankengeld § 46 SGB V:**
  - Bei Krankenhausaufenthalt: ab Aufnahme.
  - Bei AU: ab Tag nach Feststellung AU (Achtung Aenderung seit 2020 - rueckwirkender Tag möglich); seit 2023 elektronische AU (eAU).
  - **Lueckenlose Krankschreibung** zwingend - **Verlust Krankengeldanspruch** bei Lueckentag (BSG-Linie staendige Rspr; bei Aerztewechsel insbesondere kritisch).
  - **Lueckenfueller-Frist:** AU-Folgebescheinigung muss spaetestens am Werktag nach Ende der vorherigen AU erfolgen.
-- **Hoehe Krankengeld § 47 SGB V:**
+- **Höhe Krankengeld § 47 SGB V:**
  - 70 % des Bruttoarbeitsentgelts, max. 90 % des Nettoarbeitsentgelts.
  - Hoechstrenze § 47 VI SGB V (Beitragsbemessungsgrenze).
  - Einmalzahlungen anrechnen § 23a SGB IV.
@@ -84,4 +84,4 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - **Nahtlosigkeitsregelung § 145 SGB III:** ALG bei Restleistungsfaehigkeit unter 15 h/Woche bis Rentenbescheid.
  - **EM-Rente § 43 SGB VI** bei dauerhafter Erwerbsminderung.
  - **Buergergeld** subsidiaer.
-- **Praxis-Tipp:** AU-Bescheinigungen immer am letzten Tag der AU verlaengern (besser einen Tag vorher); nie auf den Postweg verlassen; eAU bei Kasse pruefen lassen; Aerztewechsel mit aktueller Information vermeiden Lueckentage.
+- **Praxis-Tipp:** AU-Bescheinigungen immer am letzten Tag der AU verlaengern (besser einen Tag vorher); nie auf den Postweg verlassen; eAU bei Kasse prüfen lassen; Aerztewechsel mit aktueller Information vermeiden Lueckentage.

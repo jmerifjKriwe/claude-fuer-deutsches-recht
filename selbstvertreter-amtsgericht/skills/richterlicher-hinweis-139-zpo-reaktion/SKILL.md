@@ -36,7 +36,7 @@ Der Hinweis kann mehrere Formen haben:
 
 - "Das Gericht weist darauf hin, dass die Klage in Bezug auf die Verzugszinsen nicht hinreichend begruendet erscheint."
 - "Die vorgelegten Beweismittel zur Lieferung sind unzureichend."
-- "Es ist unklar, ob die Frist gemaess § 195 BGB verjaehrt ist."
+- "Es ist unklar, ob die Frist gemäß § 195 BGB verjaehrt ist."
 
 ### Schritt 2 — Was meint der Richter?
 
@@ -49,7 +49,7 @@ Hinweise sind im Allgemeinen freundlich gemeint. Der Richter zeigt Ihnen, dass:
 
 ### Schritt 3 — Reagieren — nicht trotzig sein
 
-Pruefen Sie konstruktiv:
+Prüfen Sie konstruktiv:
 
 - Hat der Richter recht?
 - Was haben Sie uebersehen?
@@ -82,7 +82,7 @@ Beweis: ...
 
 ### Schritt 5 — Im Termin reagieren
 
-Wenn Hinweis im Termin: Sofortige Reaktion sinnvoll. Sie koennen:
+Wenn Hinweis im Termin: Sofortige Reaktion sinnvoll. Sie können:
 
 - Mit Antrag auf Schriftsatznachlass um Bedenkzeit bitten.
 - Im Termin direkt antworten, wenn Sie vorbereitet sind.
@@ -96,7 +96,7 @@ Bei schriftlichem Hinweis setzt das Gericht meist eine Stellungnahme-Frist (i. d
 
 Wenn der Richter Hinweise gibt, ist das oft zu **Ihrem** Vorteil:
 
-- Sie koennen reagieren.
+- Sie können reagieren.
 - Vortrag ergaenzen.
 - Beweis liefern.
 
@@ -106,7 +106,7 @@ Ein Urteil, das ohne Hinweis ueberraschend gegen Sie ausfaellt, kann **angreifba
 
 Wenn ueberraschende Niederlage ohne Hinweis: Berufungs-Grund (Verfahrensfehler). Skill `berufung-amtsgericht-511-zpo`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Hinweis ernst nehmen**: Der Richter signalisiert Schwaeche im Vortrag.
 - **Frist einhalten**: Stellungnahme rechtzeitig.

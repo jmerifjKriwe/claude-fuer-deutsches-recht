@@ -5,7 +5,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Normenkontrolle Bauleit
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Normenkontrolle Bauleitplanung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Normenkontrolle Bauleitplanung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -137,21 +137,21 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin begleitet die Pruefung und Anfechtung von Bebauungsplaenen, Flaechennutzungsplaenen und oertlichen Bauvorschriften vor dem Bayerischen Verwaltungsgerichtshof (BayVGH) und den Oberverwaltungsgerichten (OVG) nach § 47 VwGO. Es deckt das Mandat aus der Perspektive des Antragstellers (Eigentuemer, Nachbar, Naturschutzverband) ab.
+Dieses Plugin begleitet die Prüfung und Anfechtung von Bebauungsplaenen, Flaechennutzungsplaenen und oertlichen Bauvorschriften vor dem Bayerischen Verwaltungsgerichtshof (BayVGH) und den Oberverwaltungsgerichten (OVG) nach § 47 VwGO. Es deckt das Mandat aus der Perspektive des Antragstellers (Eigentümer, Nachbar, Naturschutzverband) ab.
 
 Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antragsbefugnis, Jahresfrist), die Fehlertypen nach dem BauGB (Verfahrensfehler, Erforderlichkeit, Abwaegungsmangel, Fehler bei Festsetzungen), die Planerhaltungsregeln der §§ 214 und 215 BauGB sowie den Eilrechtsschutz nach § 47 Abs. 6 VwGO. Es ersetzt keine individuellen Vertretungshandlungen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Grundstueckseigentuemer oder Nachbar kommt mit einem neuen Bebauungsplan in die Kanzlei und fragt nach Moeglichkeiten.
-- Mandant hat eine Buergerversammlung besucht und moechte das Protokoll auf Vorfestlegungen pruefen lassen.
-- Sie muessen schnell beurteilen, ob die Jahresfrist des § 47 Abs. 2 VwGO noch laeuft.
+- Mandant hat eine Buergerversammlung besucht und moechte das Protokoll auf Vorfestlegungen prüfen lassen.
+- Sie müssen schnell beurteilen, ob die Jahresfrist des § 47 Abs. 2 VwGO noch laeuft.
 - Mandant moechte die Vollziehung eines gerade bekanntgemachten Bebauungsplans vorlaefig stoppen.
 - Naturschutzverband fragt, ob er gegen einen Plan mit unzureichender Artenschutzpruefung vorgehen kann.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Normenkontrolle (§ 47 VwGO)** — Abstraktes Kontrollinstrument; das OVG/VGH prueft die Rechtmaeßigkeit eines Bebauungsplans oder einer oertlichen Bauvorschrift auf Antrag.
+- **Normenkontrolle (§ 47 VwGO)** — Abstraktes Kontrollinstrument; das OVG/VGH prüft die Rechtmaeßigkeit eines Bebauungsplans oder einer oertlichen Bauvorschrift auf Antrag.
 - **Antragsbefugnis** — Nur wer in eigenen Rechten verletzt sein koennte, kann Antrag stellen (Moeglichkeitstheorie, § 47 Abs. 2 S. 1 VwGO).
 - **Jahresfrist** — Normenkontrollantrag muss innerhalb eines Jahres ab ortsuebl. Bekanntmachung gestellt werden (§ 47 Abs. 2 S. 1 VwGO).
 - **Abwaegungsgebot** — Die Gemeinde muss alle betroffenen Belange ermitteln, bewerten und gegeneinander abwaegen (§ 1 Abs. 7 BauGB); vier Fehlerstufen.
@@ -173,11 +173,11 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Erstgespraech und Mandatsannahme-Pruefung: Skill `mandat-erstgespraech-normenkontrolle`.
-2. Statthaftigkeit und Antragsbefugnis klaeren: `statthaftigkeit-47-vwgo` und `antragsbefugnis-eigentuemer-nachbar`.
+1. Erstgespraech und Mandatsannahme-Prüfung: Skill `mandat-erstgespraech-normenkontrolle`.
+2. Statthaftigkeit und Antragsbefugnis klären: `statthaftigkeit-47-vwgo` und `antragsbefugnis-eigentuemer-nachbar`.
 3. Jahresfrist berechnen: `jahresfrist-47-abs-2-vwgo`.
 4. Fehlersuche nach Prioritaet: Verfahrensfehler, Erforderlichkeit, Abwaegung, Festsetzungen.
-5. Eilantrag pruefen bei drohenden Genehmigungen: `einstweilige-anordnung-47-abs-6-vwgo`.
+5. Eilantrag prüfen bei drohenden Genehmigungen: `einstweilige-anordnung-47-abs-6-vwgo`.
 6. Normenkontrollantrag formulieren: `normenkontrollantrag-schriftsatz`.
 
 ## Skill-Tour (was gibt es hier?)
@@ -186,16 +186,16 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 - `mandat-erstgespraech-normenkontrolle` — Erstgespraech, Mandatsannahme-Empfehlung, vorläufige Erfolgsaussichten.
 - `statthaftigkeit-47-vwgo` — Statthaftigkeit der Normenkontrolle gegen Bebauungsplan, VEP, oertliche Bauvorschriften.
-- `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis für Eigentuemer, Nachbar, Verband.
+- `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis für Eigentümer, Nachbar, Verband.
 - `jahresfrist-47-abs-2-vwgo` — Jahresfrist berechnen, Fristbeginn, fehlerhafte Bekanntmachung.
 
 **Verfahrensfehler**
 
 - `aufstellungsbeschluss-bekanntmachung` — Fehler beim Aufstellungsbeschluss und der Bekanntmachung.
 - `beteiligung-frueh-foermlich` — Fehler in der fruehzeitigen und foermlichen Beteiligung.
-- `buergerversammlung-protokoll-audit` — Niederschrift der Buergerversammlung auf Vollstaendigkeit pruefen.
-- `umweltbericht-umweltpruefung` — Umweltpruefung und Umweltbericht auf Fehler pruefen.
-- `artenschutz-naturschutz-planung` — Artenschutzpruefung (saP), CEF-Massnahmen, FFH-Vertraeglichkeit.
+- `buergerversammlung-protokoll-audit` — Niederschrift der Buergerversammlung auf Vollstaendigkeit prüfen.
+- `umweltbericht-umweltpruefung` — Umweltpruefung und Umweltbericht auf Fehler prüfen.
+- `artenschutz-naturschutz-planung` — Artenschutzpruefung (saP), CEF-Maßnahmen, FFH-Vertraeglichkeit.
 
 **Materielle Fehler**
 
@@ -211,7 +211,7 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 **Spezialkonstellationen**
 
-- `vorhabenbezogener-bebauungsplan-12-baugb` — VEP-Pruefung für Vorhabentraeger und Drittbetroffene.
+- `vorhabenbezogener-bebauungsplan-12-baugb` — VEP-Prüfung für Vorhabentraeger und Drittbetroffene.
 - `veraenderungssperre-zurueckstellung-14-15-baugb` — Anfechtung und Entschaedigung bei Veraenderungssperre.
 - `stellplatzsatzung-bay-bauordnung` — Stellplatzsatzung nach Art. 47 BayBO und § 9 Abs. 1 Nr. 4 BauGB.
 
@@ -224,15 +224,15 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 ## Worauf besonders achten
 
 - **Jahresfrist ist absolut** — Ab ortsuebl. Bekanntmachung laeuft die Jahresfrist unabhaengig von Kenntnis; bei fehlerhafter Bekanntmachung beginnt sie nicht.
-- **Planerhaltung filtert viele Fehler** — Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; § 214 Abs. 1 BauGB und die Ruegefrist des § 215 BauGB muessen immer mitbeachtet werden.
+- **Planerhaltung filtert viele Fehler** — Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; § 214 Abs. 1 BauGB und die Ruegefrist des § 215 BauGB müssen immer mitbeachtet werden.
 - **Ergebnisfehler immer beachtlich** — Fehler bei der Festsetzung ausserhalb des Katalogs oder bei der Erforderlichkeit sind nicht heilbar und nicht ruegepflichtig.
 - **Teilunwirksamkeit beantragen** — Bei fehlerhaften Einzelfestsetzungen kann Teilunwirksamkeit Erfolg haben, selbst wenn der Gesamtplan sonst Bestand haelt.
 - **Eilantrag und Hauptsache koordinieren** — § 47 Abs. 6 VwGO setzt keinen vor dem Antrag in der Hauptsache voraus; Antragsbefugnis muss aber gegeben sein.
 
 ## Typische Fehler
 
-- Normenkontrolle gegen Flaechennutzungsplan beantragt, obwohl dieser grundsaetzlich nicht statthafter Gegenstand ist (Ausnahme: Konzentrationsflaechen).
-- Ruegefrist des § 215 BauGB versaeumnt; Verfahrensfehler koennen danach nicht mehr geltend gemacht werden.
+- Normenkontrolle gegen Flaechennutzungsplan beantragt, obwohl dieser grundsätzlich nicht statthafter Gegenstand ist (Ausnahme: Konzentrationsflaechen).
+- Ruegefrist des § 215 BauGB versaeumnt; Verfahrensfehler können danach nicht mehr geltend gemacht werden.
 - Naturschutzverband meldet sich ohne Verbandsklagebefugnis nach § 64 BNatSchG oder § 2 UmwRG.
 - Abwaegungsfehler-Argument wird auf Vorgangs- statt auf Ergebnis-Ebene gefuehrt; § 214 Abs. 3 BauGB filtert nur Vorgangsfehler.
 - Eilantrag nach § 47 Abs. 6 VwGO wird eingereicht, obwohl Bebauungsplan noch nicht in Kraft ist.

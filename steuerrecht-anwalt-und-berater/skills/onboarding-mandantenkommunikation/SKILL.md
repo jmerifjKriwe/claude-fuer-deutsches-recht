@@ -16,7 +16,7 @@ description: "Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — 
 1. Welche Handlungsalternativen bestehen und welche Mehr- oder Minder-Steuer ist mit jeder verbunden?
 2. Welches Steuerstrafrisiko ist erkennbar — muss zwingend auf § 371 AO und § 153 AO hingewiesen werden?
 3. Welche Fristen laufen — hat der Mandant verstanden dass Untaetigkeit zur Bestandskraft fuehrt?
-4. Wurde der Mandant ueber Honorarrahmen und Kostenrisiken aufgeklaert?
+4. Wurde der Mandant über Honorarrahmen und Kostenrisiken aufgeklaert?
 5. Wurde die Empfehlung schriftlich oder mit Aktenvermerk dokumentiert?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 

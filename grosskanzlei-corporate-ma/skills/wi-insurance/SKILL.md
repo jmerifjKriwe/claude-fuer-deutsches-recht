@@ -108,7 +108,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. Welche Garantien sollen versichert werden — alle Business Warranties, oder nur Title und Financial Statements?
 4. Ist ein Materiality Scrape vorgesehen — entfaellt die Materiality-Schwelle für Versicherungsansprueche?
 5. Wurden Synthetic Warranties vereinbart (warranties ohne SPA-Basis, nur für Versicherungszwecke)?
-6. Wurden DD-Tools mit KI-Unterstuetzung eingesetzt — Underwriter verlangen Transparenz ueber KI-basierte DD-Methodik?
+6. Wurden DD-Tools mit KI-Unterstuetzung eingesetzt — Underwriter verlangen Transparenz über KI-basierte DD-Methodik?
 
 ## Zentrale Rechtsgrundlagen
 

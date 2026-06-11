@@ -22,7 +22,7 @@ Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in
 | --- | --- | --- |
 | Deckungsklage Paragraf 100 Vvg | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-versicherungsrecht/deckungsklage-paragraf-100-vvg.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-versicherungsrecht/deckungsklage-paragraf-100-vvg.odt) |
 
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich pruefen und an konkreten Fall anpassen.*
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 
@@ -45,7 +45,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-## Anwalts-Dashboard fuer den Schnelleinstieg
+## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
 Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
@@ -124,7 +124,7 @@ Automatisch generierte Komplett-Liste aller 76 Skills in diesem Plugin. Beschrei
 | `output-waehlen` | Output-Wahl für Fachanwalt Versicherungsrecht: stimmt Adressat (Versicherungsnehmer, Versicherer, Geschädigter), Frist (§ 12 VVG Klagefrist) und Form auf den Zweck ab — typische Outputs: Deckungsklage, Schadensersatzklage, Ombudsmann-Ein... |
 | `private-dokumentenmatrix-und-lueckenliste` | Private: Dokumentenmatrix, Lückenliste und Nachforderung: Private: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `private-krankenversicherung-paragraf-203-vvg` | Private Krankenversicherung § 203 VVG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
-| `pruefen-formular-portal-und-einreichung` | Pruefen: Formular, Portal und Einreichungslogik: Pruefen: Formular, Portal und Einreichungslogik. |
+| `pruefen-formular-portal-und-einreichung` | Prüfen: Formular, Portal und Einreichungslogik: Prüfen: Formular, Portal und Einreichungslogik. |
 | `quellen-livecheck` | Quellen-Live-Check für Fachanwalt Versicherungsrecht: prüft Normen (VVG, PflVG, ZPO/Versicherungs-Streit) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgerichte und Quellenhygiene nach references/quellenhyg... |
 | `rechtsschutz-beweislast-und-darlegungslast` | Rechtsschutz: Beweislast, Darlegungslast und Substantiierung: Rechtsschutz: Beweislast, Darlegungslast und Substantiierung. |
 | `rechtsschutz-paragraf-3-arb` | Rechtsschutz § 3 arb: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |

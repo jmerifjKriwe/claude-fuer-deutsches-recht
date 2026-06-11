@@ -29,7 +29,7 @@ Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige
 
 1. Planpruefung Fassadenplan: Profilabmessungen, Ankerpunkte, Dichtsystem, thermische Trennung
 2. Betongueteprotokoll Skelett und Decken: C25/30 XC1, Bewehrungsabnahme vor Betonage je Abschnitt
-3. Fassadenankerpositionen im Rohbau: Lage nach Montagepluenen pruefen, Toleranz +/-5 mm einhalten
+3. Fassadenankerpositionen im Rohbau: Lage nach Montagepluenen prüfen, Toleranz +/-5 mm einhalten
 4. Doppelbodenmontage: Trittfestigkeit 3 kN/dm nach DIN EN 12825, Hoehenkonsistenz, Fugenversatz
 5. Heizungs-Kuehlungs-Deckenstrahlplatten: Druckpruefung 6 bar, Fuehleranschluss, Kondenswasserabfuhr
 6. Brandschutzabschalung Traeger F90: Schichtdicke nach Pruefprotokoll, Lueftungskanalabschottung EI 120
@@ -41,7 +41,7 @@ Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige
 - DIN EN 13830 Vorhangfassaden: Pruefanforderungen Schlagregendichtheit, Windlast, Einbruchhemmung
 - ETAG 002 Structural Sealant Glazing Systems: Anforderungen strukturelle Verglasung
 - VDI 3804 Raumlufttechnik Buerogebaeude: Planungsanforderungen Lueftung und Kuehldecke
-- DIN EN 12825 Doppelboden: Pruefung Belastbarkeit, Klassifizierung Lastklassen
+- DIN EN 12825 Doppelboden: Prüfung Belastbarkeit, Klassifizierung Lastklassen
 
 ## Prueferaster und Kontrollpunkte
 
@@ -56,7 +56,7 @@ Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige
 
 - BIM360 Coordination: Clash-Bericht Fassade vs. TGA vs. Rohbau, tagesaktuelle Konfliktliste
 - Dalux Field: Fassadenmangel mit Foto am IFC-Modell, Faelligkeitsdatum, Verantwortlicher Fassadenbauer
-- Pruefung Fassadenmodul-Werkszeugnis: Ug-Wert Glas, Uf-Wert Rahmen, Schallschutzklasse Rw
+- Prüfung Fassadenmodul-Werkszeugnis: Ug-Wert Glas, Uf-Wert Rahmen, Schallschutzklasse Rw
 - Drohnenflug DJI Mavic 3: Dachrandabschluss Fassade, Silikonfugen, Ankerkopfschutz ab Etage 3
 - Thermografie Flir T620 nach Inbetriebnahme Heizung: Waermebruecken Fassadenanker, Glasrandverbund
 
@@ -66,12 +66,12 @@ Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige
 - SAP PS Projektsystem: Netzplan Rohbau/Fassade/Innenausbau, Meilensteine Vorvermietungsstand, Kosten
 - SAP PM Equipment Fassadenanlage: Wartungsintervalle Silikonfugen alle 10 Jahre, Prueflisten
 - RIB iTWO: Massenabgleich Ausschreibung vs. Aufmass Fassadenflaeche, Nachtragsprotokoll Sondermasse
-- Dalux ERP-Export: Maengelreport je Mietereinheit für Vermieter und Hauptmieter-Pruefung vor Uebergabe
+- Dalux ERP-Export: Maengelreport je Mietereinheit für Vermieter und Hauptmieter-Prüfung vor Uebergabe
 
 ## Typische Fallstricke
 
 - Fassadentoleranz ueberschritten: Achsversatz ue5 mm, Statiker und Fassadenbauer einschalten
-- Kuehldecke undicht: Kondenswasserschaden an Doppelboden und Elektroinstallation, fruehzeitig pruefen
+- Kuehldecke undicht: Kondenswasserschaden an Doppelboden und Elektroinstallation, fruehzeitig prüfen
 - Strukturelle Verglasung ohne ETAG 002-Nachweis: Glashalterung nicht zugelassen, Nacharbeit
 - Brandschutzabschottung TGA vergessen: jede Deckensperre EI 90 erforderlich, Nutzungsuntersagung droht
 

@@ -21,10 +21,10 @@ Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren b
 Eine Bank bestellt eine Hypothek auf ein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
 
 ## Erste Schritte
-1. Eintragungsfaehigkeit des Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tenders pruefen; Eintragung im Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten bestaetigen.
+1. Eintragungsfaehigkeit des Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tenders prüfen; Eintragung im Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten bestaetigen.
 2. Sicherungsabrede aufsetzen: gesicherte Forderungen, Kuendigungsrechte, Cross-Default.
 3. Notarielle Hypothekenbestellungsurkunde nach SchRG §§ 8-18 erstellen.
-4. Vertretungsbefugnis des Eigentuemers pruefen; ggf. Handelsregisterauszug.
+4. Vertretungsbefugnis des Eigentuemers prüfen; ggf. Handelsregisterauszug.
 5. Eintragungsantrag beim {reg_type}-Gericht stellen; Rangstelle fruehzeitig reservieren.
 6. Eintragungsbestaetigung und ggf. Hypothekenbrief sichern; Sicherungsvertrag archivieren.
 

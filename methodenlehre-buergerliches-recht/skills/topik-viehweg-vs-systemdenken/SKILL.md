@@ -21,7 +21,7 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 
 - Sie wollen verstehen, warum juristische Praxis nicht so systematisch ist, wie die Methodenlehre suggeriert.
 - Sie argumentieren in einer offenen Rechtslage und brauchen ein methodisches Modell, das diese Offenheit ernstnimmt.
-- Sie pruefen die Konkretisierung von Generalklauseln (§§ 138, 242, 826 BGB) im konkreten Fall.
+- Sie prüfen die Konkretisierung von Generalklauseln (§§ 138, 242, 826 BGB) im konkreten Fall.
 - Sie schreiben einen Schriftsatz in einer methodisch unklaren Rechtslage und brauchen Argumentationstopoi.
 - Sie schulen Junior-Anwaelte darin, wie BGH-Argumentationen tatsaechlich gebaut sind (oft topisch, nicht systematisch).
 - Sie arbeiten im Schiedsverfahren, in dem Topik-Argumentation oft staerker wirkt als Lehrbuch-Dogmatik.
@@ -37,7 +37,7 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 **Kernthesen Viehwegs:**
 
 1. **Recht ist Problem-Denken.** Im konkreten Fall geht es nicht um Subsumtion unter ein geschlossenes System, sondern um Loesung eines Problems.
-2. **Topoi statt Axiome.** Juristische Argumente sind Topoi — etablierte Muster ("Treu und Glauben", "Vertrauensschutz", "Aequivalenz", "Verkehrserwartung").
+2. **Topoi statt Axiome.** Juristische Argumente sind Topoi — etablierte Muster ("Treu und Glauben", "Vertrauensschutz", "Äquivalenz", "Verkehrserwartung").
 3. **Diskurs statt Deduktion.** Wahrheit im Recht ist nicht abgeleitet, sondern im Diskurs konsentiert.
 4. **System ist sekundaer.** Systeme entstehen nachtraeglich als Ordnung der diskursiv gewonnenen Loesungen.
 
@@ -45,11 +45,11 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 
 - Treu und Glauben.
 - Verkehrssitte und Verkehrserwartung.
-- Aequivalenz von Leistung und Gegenleistung.
+- Äquivalenz von Leistung und Gegenleistung.
 - Schutz des Schwaecheren.
 - Vertrauensschutz und venire contra factum proprium.
 - Privatautonomie und Vertragsfreiheit.
-- Verhaeltnismaessigkeit.
+- Verhältnismäßigkeit.
 - Gerechtigkeit (iustitia commutativa, iustitia distributiva).
 
 ## Anwendung im deutschen Zivilrecht
@@ -62,7 +62,7 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 
 **Beispiel Schiedsverfahren:** In internationalen Schiedsverfahren (DIS, ICC, LCIA) treten Topoi-Argumente oft staerker hervor als das Lehrbuch-Schema. Schiedsrichter operieren mit allgemeinen Rechtsprinzipien, lex mercatoria, equity-Erwaegungen — alles topische Argumentationsformen.
 
-**Beispiel BGH-Rechtsprechung:** Eine Analyse einer beliebigen BGH-Begruendung zeigt: Der BGH fuehrt Wortlaut, System, Historie und Telos an, mischt aber laufend Topoi hinein. Aequivalenz, Verkehrserwartung, Schutz des Schwaecheren erscheinen als Argumente, ohne dass sie streng abgeleitet werden.
+**Beispiel BGH-Rechtsprechung:** Eine Analyse einer beliebigen BGH-Begruendung zeigt: Der BGH fuehrt Wortlaut, System, Historie und Telos an, mischt aber laufend Topoi hinein. Äquivalenz, Verkehrserwartung, Schutz des Schwaecheren erscheinen als Argumente, ohne dass sie streng abgeleitet werden.
 
 ## Schritt-für-Schritt
 
@@ -78,7 +78,7 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 - **Topik als Beliebigkeit.** Wer Topoi ohne dogmatische Verankerung verwendet, betreibt nicht Recht, sondern Rhetorik. Topik ergaenzt System, ersetzt es nicht.
 - **Topoi als Selbstbeleg.** "Es ware unbillig, wenn …" ist ohne weitere Begruendung kein juristisches Argument.
 - **System ignorieren.** Topik allein schafft keine Rechtssicherheit. Das deutsche Privatrecht braucht System UND Topoi.
-- **Wortlaut-Grenze missachten.** Topoi koennen nicht ueber den Wortlaut hinaus tragen — auch Topik bleibt an den Norm-Text gebunden.
+- **Wortlaut-Grenze missachten.** Topoi können nicht über den Wortlaut hinaus tragen — auch Topik bleibt an den Norm-Text gebunden.
 
 **Kritik von Claus-Wilhelm Canaris ("Systemdenken und Systembegriff in der Jurisprudenz" 1969):** Topik ist methodisch unzureichend, weil sie keine Rangordnung der Topoi liefert. Recht braucht Systemdenken, weil sonst die Bindung an den Gesetzgeber verloren geht.
 

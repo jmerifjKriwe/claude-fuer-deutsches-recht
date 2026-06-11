@@ -22,7 +22,7 @@ Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Ber
 1. **Welches Gericht hat verurteilt?** — Amtsgericht (Strafrichter): Berufung zum LG oder Revision zum OLG (§§ 312, 335 StPO); LG: nur Revision zum BGH.
 2. **Was soll angegriffen werden?** — Tatsachenfeststellung → Berufung; Rechtsfehler → Revision; Strafmass → wahlweise beides.
 3. **Frist:** Berufung und Revision: 1 Woche ab Urteilsverkuendung, schriftlich oder protokollarisch (§§ 314, 341 StPO).
-4. **Revision oder Berufung?** — Berufung ist neue Verhandlung in der Tatsache; Revision prueft nur Rechtsfehler. Sprung-Revision (§ 335 StPO) direkt vom AG zum OLG moeglich.
+4. **Revision oder Berufung?** — Berufung ist neue Verhandlung in der Tatsache; Revision prüft nur Rechtsfehler. Sprung-Revision (§ 335 StPO) direkt vom AG zum OLG möglich.
 5. **Beschraenkung auf Strafmass?** — Berufung kann auf Rechtsfolgen beschraenkt werden wenn Schuldfeststellung unstreitig ist.
 
 ## Zentrale Normen

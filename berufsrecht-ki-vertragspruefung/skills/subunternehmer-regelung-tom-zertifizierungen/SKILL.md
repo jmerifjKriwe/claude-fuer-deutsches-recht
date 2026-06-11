@@ -118,14 +118,14 @@ Der häufige Aufbau "Frontend-Anbieter — Azure-Mietservice für OpenAI-Modelle
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Subunternehmer-Klausel im KI-Vertrag pruefen | Pruefschema Art. 28 Abs. 2 DSGVO; Template unten |
+| Standard — Subunternehmer-Klausel im KI-Vertrag prüfen | Pruefschema Art. 28 Abs. 2 DSGVO; Template unten |
 | Variante A — Subunternehmer-Einsatz untersagt | Verbot klar kommunizieren; Vertragsanpassung empfehlen |
 | Variante B — Genehmigung liegt vor aber Klausel unklar | Klarstellungsformulierung einfordern; Anlage mit Subunternehmer-Liste |
-| Variante C — Subunternehmer ausserhalb EU | Drittlandstransfer-Pruefung zusaetzlich noetig (Art. 46 DSGVO) |
+| Variante C — Subunternehmer ausserhalb EU | Drittlandstransfer-Prüfung zusaetzlich noetig (Art. 46 DSGVO) |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -157,7 +157,7 @@ Ampel Subunternehmer-Regelung: GRUEN / GELB / ROT
 Luecken: [BESCHREIBUNG]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -7,7 +7,7 @@ description: "Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsst
 
 ## Worum geht es?
 
-Ein Urteil allein reicht **nicht** für Zwangsvollstreckung. Sie brauchen eine **Vollstreckungsklausel** (§ 724 ZPO) — eine Bescheinigung der Geschaeftsstelle, dass das Urteil vollstreckbar ist. Mit dieser Klausel koennen Sie zum Gerichtsvollzieher.
+Ein Urteil allein reicht **nicht** für Zwangsvollstreckung. Sie brauchen eine **Vollstreckungsklausel** (§ 724 ZPO) — eine Bescheinigung der Geschaeftsstelle, dass das Urteil vollstreckbar ist. Mit dieser Klausel können Sie zum Gerichtsvollzieher.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -34,7 +34,7 @@ Ein Urteil allein reicht **nicht** für Zwangsvollstreckung. Sie brauchen eine *
 
 Wenn das Urteil vorliegt und Gegnerseite nicht freiwillig erfuellt:
 
-- Bei vorläufiger Vollstreckbarkeit: Schon vor Rechtskraft moeglich.
+- Bei vorläufiger Vollstreckbarkeit: Schon vor Rechtskraft möglich.
 - Bei nicht vorläufiger Vollstreckbarkeit: erst nach Rechtskraft.
 
 ### Schritt 2 — Antrag stellen
@@ -66,7 +66,7 @@ Die Klausel ist gebuehrenfrei, wenn Sie sie binnen Frist von 6 Monaten nach Verk
 
 ### Schritt 4 — Erteilung der Klausel
 
-Die Geschaeftsstelle prueft und stellt aus:
+Die Geschaeftsstelle prüft und stellt aus:
 
 - Eine vollstreckbare Ausfertigung des Urteils.
 - Mit aufgedruckter Klausel ("Vorstehende Ausfertigung wird dem ... als Vollstreckungstitel erteilt").
@@ -84,7 +84,7 @@ Beispiele:
 
 ### Schritt 6 — Klausel-Zustellung
 
-§ 750 ZPO: Vor Vollstreckung muss die Klausel dem Schuldner **zugestellt** werden — i. d. R. ueber Gerichtsvollzieher.
+§ 750 ZPO: Vor Vollstreckung muss die Klausel dem Schuldner **zugestellt** werden — i. d. R. über Gerichtsvollzieher.
 
 Sie geben Gerichtsvollzieher Auftrag:
 
@@ -101,13 +101,13 @@ Vollstreckungs-Akt:
 - Lohnpfaendung.
 - Kontopfaendung.
 
-Skill `zwangsvollstreckung-querverweis-substitutionsagent` — Hier nur Querverweis. Fuer Details: Substitutionsagent.
+Skill `zwangsvollstreckung-querverweis-substitutionsagent` — Hier nur Querverweis. Für Details: Substitutionsagent.
 
 ### Schritt 8 — Zweite Klausel?
 
 Wenn die erste Klausel verloren / ausgegeben: zweite Klausel auf Antrag (§ 733 ZPO). Mit Begruendung warum erste nicht mehr verfuegbar.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Vollstreckungsklausel ist Pflicht**.
 - **Vor Vollstreckung an Schuldner zustellen** (§ 750 ZPO).

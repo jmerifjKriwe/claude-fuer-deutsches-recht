@@ -23,7 +23,7 @@ description: "Ausweis Betriebsergebnis vor und nach Zinsen Deckungsbeitragsstruk
 
 ## Kernsachverhalt
 
-Die Standard-BWA weist ein Betriebsergebnis nach Block-Logik aus. Fuer Steuerungszwecke ist aber die Deckungsbeitragsrechnung mit Stufenkonzept ergiebiger: Sie trennt variable von fixen Kosten und zeigt, ab welcher Umsatzhoehe das Unternehmen profitabel arbeitet. Der Steuerberater muss die Standard-BWA so umkonfigurieren oder ergaenzen, dass DB I, DB II und EBITDA/EBIT/EBT klar ablesbar sind. Insbesondere bei Industrie- und Handelsmandanten ist die Deckungsbeitragsstruktur Standard.
+Die Standard-BWA weist ein Betriebsergebnis nach Block-Logik aus. Für Steuerungszwecke ist aber die Deckungsbeitragsrechnung mit Stufenkonzept ergiebiger: Sie trennt variable von fixen Kosten und zeigt, ab welcher Umsatzhoehe das Unternehmen profitabel arbeitet. Der Steuerberater muss die Standard-BWA so umkonfigurieren oder ergaenzen, dass DB I, DB II und EBITDA/EBIT/EBT klar ablesbar sind. Insbesondere bei Industrie- und Handelsmandanten ist die Deckungsbeitragsstruktur Standard.
 
 ## Kaltstart-Rueckfragen
 
@@ -88,9 +88,9 @@ Umsatzerloese [Umsatz]
 
 ### Phase 3 — DATEV/Addison-Konfiguration
 
-- DATEV: BWA-Form 21 (Branchen-BWA) oder individuelle BWA-Form ueber Berater-Konfiguration. Klickpfad: Rechnungswesen → Stammdaten → Auswertungspakete → Eigene BWA-Form definieren.
+- DATEV: BWA-Form 21 (Branchen-BWA) oder individuelle BWA-Form über Berater-Konfiguration. Klickpfad: Rechnungswesen → Stammdaten → Auswertungspakete → Eigene BWA-Form definieren.
 - Addison: BWA-Definition mit eigenen Bloecken im Auswertungsmanager.
-- Kostenstellen-Zuordnung ueber DATEV-Kostenrechnung (Modul Kostenrechnung Classic/Comfort) oder Sachkontenmasken mit Kostenstellen-Feld.
+- Kostenstellen-Zuordnung über DATEV-Kostenrechnung (Modul Kostenrechnung Classic/Comfort) oder Sachkontenmasken mit Kostenstellen-Feld.
 
 ### Phase 4 — Break-even-Analyse
 
@@ -103,13 +103,13 @@ Umsatzerloese [Umsatz]
 
 - BWA mit Stufendeckung auf einer Seite.
 - Erlaeuterung Schwellenwerte: Break-even, Sicherheitsmarge.
-- Bei sinkendem DB I: Pruefung Wareneinsatz, Lieferantenkonditionen.
+- Bei sinkendem DB I: Prüfung Wareneinsatz, Lieferantenkonditionen.
 - Bei steigenden Fixkosten ohne Umsatzaequivalent: Fixkostenstruktur hinterfragen.
 
 ### Phase 6 — Quartalsgespraech mit Mandant
 
 - DB-Struktur erlaeutern, Mandant für die Stellschrauben sensibilisieren.
-- Massnahmen-Plan bei kritischer Marge: Preiserhoehung, Sortimentsbereinigung, Fixkostensenkung.
+- Maßnahmen-Plan bei kritischer Marge: Preiserhoehung, Sortimentsbereinigung, Fixkostensenkung.
 
 ## Strategie und Praxis-Tipps
 

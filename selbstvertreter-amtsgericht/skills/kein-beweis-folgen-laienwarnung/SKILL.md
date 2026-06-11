@@ -3,7 +3,7 @@ name: kein-beweis-folgen-laienwarnung
 description: "Warnung an Laien was passiert wenn ein Tatbestandsmerkmal nicht bewiesen werden kann. Beweislastniederlage Auswirkung auf das Urteil Gesamtkosten Strategien zur Reduktion des Beweis-Risikos vor Klage."
 ---
 
-# Was passiert, wenn Sie eine Tatsache **nicht** beweisen koennen?
+# Was passiert, wenn Sie eine Tatsache **nicht** beweisen können?
 
 ## Worum geht es?
 
@@ -39,7 +39,7 @@ Wenn das Gericht nach Beweisaufnahme **nicht ueberzeugt** ist, ob die Tatsache w
 - Das anspruchsbegruendende Tatbestandsmerkmal wird nicht festgestellt.
 - Anspruch scheitert.
 
-Beispiel: Sie klagen auf Kaufpreis. Klaeger muss beweisen, dass Vertrag geschlossen wurde. Zeuge ist unsicher, keine Urkunde. Gericht: "Vertrag nicht erwiesen" → Klage abgewiesen.
+Beispiel: Sie klagen auf Kaufpreis. Kläger muss beweisen, dass Vertrag geschlossen wurde. Zeuge ist unsicher, keine Urkunde. Gericht: "Vertrag nicht erwiesen" → Klage abgewiesen.
 
 ### Schritt 2 — Vor Klage: Beweis-Lage realistisch einschaetzen
 
@@ -55,7 +55,7 @@ Bei mehreren Merkmalen mit schwacher Beweis-Lage: Klage hat hohes Risiko.
 
 #### Indizien-Beweis
 
-Hilfstatsachen sammeln, die das Gericht ueberzeugen koennen:
+Hilfstatsachen sammeln, die das Gericht ueberzeugen können:
 
 - Schweigen der Gegenseite zu konkreter Aufforderung.
 - Verhaltensweisen (Zahlung von Teilbetrag = Anerkenntnis).
@@ -80,7 +80,7 @@ Wenn anwendbar: Sie profitieren — Gegenseite muss Anscheins-Beweis erschuetter
 
 Vor Klage: Versuchen, schriftliche Anerkenntnisse zu bekommen (auch teilweise). Skill `aussergerichtliche-mahnung-286-bgb`.
 
-### Schritt 4 — Beweislast-Umkehr pruefen
+### Schritt 4 — Beweislast-Umkehr prüfen
 
 Manche Sondernormen kehren Beweislast um. Skill `beweislast-grundregel-wer-was`.
 
@@ -109,13 +109,13 @@ Folge: Sie zahlen alle Kosten (Skill `kostenrisiko-streitwert-berechnen-gkg`).
 
 ### Schritt 8 — Konsequenz für Selbstvertreter
 
-Pruefen Sie vor Klage:
+Prüfen Sie vor Klage:
 
 - Was beweise ich womit?
 - Wo ist Reserve?
 - Wenn Beweis-Lage schwach: Vergleich, Mahnverfahren, oder Verzicht erwaegen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Non liquet kostet alles**: Klage + Kosten.
 - **Mehrere Beweise** pro Tatsache.
@@ -126,7 +126,7 @@ Pruefen Sie vor Klage:
 
 - "Ich klage, wir werden sehen." → Hohes Risiko.
 - "Ich verlasse mich auf einen Zeugen." → Zeuge kann ausfallen, Erinnerung lassen nach.
-- "Beweise spaeter im Termin." → Praeklusions-Gefahr.
+- "Beweise später im Termin." → Praeklusions-Gefahr.
 
 ## Quellen und Aktualitaet
 

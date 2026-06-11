@@ -176,5 +176,5 @@ prognose-zusammenfassung:
 ## Triage — Prognose-Ergebnis
 
 1. **Positiv (Prognose grueen)?** → Dokumentieren (IDW S 11 Vorlage), Wiedervorlage in 3 Monaten, Sanierungsbausteine weiterverfolgen.
-2. **Knapp positiv (mit Massnahmen)?** → Massnahmen konkretisieren und terminieren; Sicherheitsmarge pruefen.
-3. **Negativ?** → Sofort `wenn-prognose-negativ-naechste-schritte` ausfuehren; Anwalt einschalten; Antragspflicht pruefen.
+2. **Knapp positiv (mit Maßnahmen)?** → Maßnahmen konkretisieren und terminieren; Sicherheitsmarge prüfen.
+3. **Negativ?** → Sofort `wenn-prognose-negativ-naechste-schritte` ausfuehren; Anwalt einschalten; Antragspflicht prüfen.

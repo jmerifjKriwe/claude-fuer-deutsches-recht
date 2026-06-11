@@ -113,40 +113,40 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `formelle-verfassungsmaessigkeit` | Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG… |
 | `gesetzentwurf-gg-konformitaet-pruefen` | Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG… |
 | `gesetzgebungskompetenz-pruefen` | Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Prüfraster: ausschließliche konkurrierende Gesetzgebung Abweichungsgesetzgebung… |
-| `grundrechtspruefung` | Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Massnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff… |
+| `grundrechtspruefung` | Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Maßnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff… |
 | `verfassungsbeschwerde-entwurf` | Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Prüfraster:… |
-| `verfassungsrechtliche-pruefung` | Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien… |
-| `verhaeltnismaessigkeit` | Verhältnismäßigkeitsprüfung für staatliche Massnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit… |
+| `verfassungsrechtliche-pruefung` | Verfassungsrechtliche Prüfung einer Maßnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien… |
+| `verhaeltnismaessigkeit` | Verhältnismäßigkeitsprüfung für staatliche Maßnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit… |
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt Spezialkanzleien, Wissenschaftler und Rechtsanwaelte bei verfassungsrechtlichen Pruefungen nach dem Grundgesetz. Es deckt alle Kernbereiche ab: Gesetzgebungskompetenz (Art. 70-74 GG), formelle Verfassungsmaessigkeit, Grundrechtspruefung im Drei-Schritt, Verhaeltnismaessigkeitspruefung, Gesetzentwurfs-Pruefung auf GG-Konformitaet und Verfassungsbeschwerde-Formulierung nach §§ 90 ff. BVerfGG.
+Dieses Plugin unterstuetzt Spezialkanzleien, Wissenschaftler und Rechtsanwaelte bei verfassungsrechtlichen Pruefungen nach dem Grundgesetz. Es deckt alle Kernbereiche ab: Gesetzgebungskompetenz (Art. 70-74 GG), formelle Verfassungsmaessigkeit, Grundrechtspruefung im Drei-Schritt, Verhaeltnismaessigkeitspruefung, Gesetzentwurfs-Prüfung auf GG-Konformitaet und Verfassungsbeschwerde-Formulierung nach §§ 90 ff. BVerfGG.
 
 Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentscheidungen und empfiehlt bei aktuellen Fragen die Live-Recherche auf bundesverfassungsgericht.de.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie pruefen einen Gesetzentwurf auf Vereinbarkeit mit dem Grundgesetz vor Einleitung des Gesetzgebungsverfahrens.
+- Sie prüfen einen Gesetzentwurf auf Vereinbarkeit mit dem Grundgesetz vor Einleitung des Gesetzgebungsverfahrens.
 - Sie formulieren eine Verfassungsbeschwerde nach §§ 90 ff. BVerfGG und benoetigen strukturierte Zulassungs- und Begruendungsanforderungen.
-- Sie pruefen die Gesetzgebungskompetenz des Bundes oder eines Landes für ein konkretes Regelungsvorhaben.
-- Eine staatliche Massnahme beeintraechtigt Grundrechte und Sie benoetigen eine strukturierte Pruefung (Schutzbereich, Eingriff, Rechtfertigung).
+- Sie prüfen die Gesetzgebungskompetenz des Bundes oder eines Landes für ein konkretes Regelungsvorhaben.
+- Eine staatliche Maßnahme beeintraechtigt Grundrechte und Sie benoetigen eine strukturierte Prüfung (Schutzbereich, Eingriff, Rechtfertigung).
 - Sie benoetigen BVerfG-Rechtsprechung zu einer verfassungsrechtlichen Frage für einen Schriftsatz.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Schutzbereich** — Der sachliche und persönliche Bereich, den ein Grundrecht schuetzt; muss eroeffnet sein, bevor ein Eingriff geprueft wird.
-- **Eingriff** — Staatliche Massnahme, die in den Schutzbereich eines Grundrechts einwirkt; klassisch: unmittelbar, final, rechtsaktmaessig.
-- **Verhaeltnismaessigkeit** — Verfassungsrechtlicher Grundsatz: Massnahme muss legitimen Zweck verfolgen, geeignet, erforderlich und angemessen sein.
-- **Gesetzgebungskompetenz** — Grundsaetzlich bei den Ländern (Art. 70 GG); ausschliessliche Bundeskompetenzen Art. 73 GG; konkurrierende Bundeskompetenzen Art. 74 GG.
+- **Eingriff** — Staatliche Maßnahme, die in den Schutzbereich eines Grundrechts einwirkt; klassisch: unmittelbar, final, rechtsaktmaessig.
+- **Verhältnismäßigkeit** — Verfassungsrechtlicher Grundsatz: Maßnahme muss legitimen Zweck verfolgen, geeignet, erforderlich und angemessen sein.
+- **Gesetzgebungskompetenz** — Grundsätzlich bei den Ländern (Art. 70 GG); ausschliessliche Bundeskompetenzen Art. 73 GG; konkurrierende Bundeskompetenzen Art. 74 GG.
 - **Wesensgehalt** — Unantastbarer Kernbestand jedes Grundrechts; auch im Kriegszustand nicht einschraenkbar (Art. 19 Abs. 2 GG).
 - **Verfassungsbeschwerde** — Rechtsbehelfsmoeglichkeit für jede Person gegen Verletzung eines Grundrechts durch öffentliche Gewalt (Art. 93 Abs. 1 Nr. 4a GG).
-- **Normenkontrolle** — Abstrakte (Art. 93 Abs. 1 Nr. 2 GG) oder konkrete (Art. 100 GG) Pruefung von Gesetzen auf Verfassungskonformitaet.
+- **Normenkontrolle** — Abstrakte (Art. 93 Abs. 1 Nr. 2 GG) oder konkrete (Art. 100 GG) Prüfung von Gesetzen auf Verfassungskonformitaet.
 
 ## Rechtsgrundlagen
 
 - Art. 1-19 GG — Grundrechte
 - Art. 19 Abs. 2 GG — Wesensgehaltgarantie
-- Art. 20 Abs. 3 GG — Rechtsstaatsprinzip und Verhaeltnismaessigkeit
+- Art. 20 Abs. 3 GG — Rechtsstaatsprinzip und Verhältnismäßigkeit
 - Art. 70-74 GG — Gesetzgebungskompetenzen Bund und Länder
 - Art. 76-82 GG — Gesetzgebungsverfahren
 - Art. 93 GG — Zuständigkeit BVerfG
@@ -155,27 +155,27 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Pruefungsanlass (Gesetzentwurf, staatliche Massnahme, Verfassungsbeschwerde), Verfahrensstadium.
-2. Phase des Mandats bestimmen: Kompetenzpruefung, formelle Pruefung, Grundrechtspruefung, Verhaeltnismaessigkeit oder Beschwerde-Entwurf.
+1. Mandantenkonstellation klären: Pruefungsanlass (Gesetzentwurf, staatliche Maßnahme, Verfassungsbeschwerde), Verfahrensstadium.
+2. Phase des Mandats bestimmen: Kompetenzpruefung, formelle Prüfung, Grundrechtspruefung, Verhältnismäßigkeit oder Beschwerde-Entwurf.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: Verfassungsbeschwerde-Frist ein Monat ab Zustellung (§ 93 Abs. 1 BVerfGG) bzw. ein Jahr bei Gesetzesbeschwerden.
+4. Eilfristen prüfen: Verfassungsbeschwerde-Frist ein Monat ab Zustellung (§ 93 Abs. 1 BVerfGG) bzw. ein Jahr bei Gesetzesbeschwerden.
 5. Anschluss-Skill bestimmen: nach Grundrechtspruefung folgt Verhaeltnismaessigkeitspruefung; nach Gesamtpruefung ggf. Verfassungsbeschwerde-Entwurf.
 
 ## Skill-Tour (was gibt es hier?)
 
-**Umfassende Pruefung**
+**Umfassende Prüfung**
 
-- `verfassungsrechtliche-pruefung` — Umfassende Verfassungspruefung einer Massnahme oder Norm; Oberbegriff-Skill mit Verweis auf Spezialisten-Skills.
-- `gesetzentwurf-gg-konformitaet-pruefen` — Gesetzentwurf auf GG-Konformitaet pruefen vor Einleitung des Gesetzgebungsverfahrens.
+- `verfassungsrechtliche-pruefung` — Umfassende Verfassungspruefung einer Maßnahme oder Norm; Oberbegriff-Skill mit Verweis auf Spezialisten-Skills.
+- `gesetzentwurf-gg-konformitaet-pruefen` — Gesetzentwurf auf GG-Konformitaet prüfen vor Einleitung des Gesetzgebungsverfahrens.
 
-**Kompetenz und formelle Pruefung**
+**Kompetenz und formelle Prüfung**
 
-- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz des Bundes oder Landes: ausschliesslich, konkurrierend, Abweichungsgesetzgebung.
-- `formelle-verfassungsmaessigkeit` — Formelle Verfassungsmaessigkeit pruefen: Kompetenz, Verfahren (Art. 76-78 GG) und Ausfertigung (Art. 82 GG).
+- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz des Bundes oder Landes: ausschließlich, konkurrierend, Abweichungsgesetzgebung.
+- `formelle-verfassungsmaessigkeit` — Formelle Verfassungsmaessigkeit prüfen: Kompetenz, Verfahren (Art. 76-78 GG) und Ausfertigung (Art. 82 GG).
 
-**Grundrechte und Verhaeltnismaessigkeit**
+**Grundrechte und Verhältnismäßigkeit**
 
-- `grundrechtspruefung` — Grundrechtspruefung im Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung mit Wesensgehalt-Pruefung.
+- `grundrechtspruefung` — Grundrechtspruefung im Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung mit Wesensgehalt-Prüfung.
 - `verhaeltnismaessigkeit` — Verhaeltnismaessigkeitspruefung: legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit.
 
 **Verfassungsbeschwerde**
@@ -188,15 +188,15 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 
 ## Worauf besonders achten
 
-- **Rechtswegerschoepfung ist Voraussetzung für Verfassungsbeschwerde.** Vor Einlegung der Verfassungsbeschwerde muessen alle ordentlichen und verwaltungsgerichtlichen Rechtsbehelfe ausgeschoepft sein (§ 90 Abs. 2 BVerfGG).
+- **Rechtswegerschoepfung ist Voraussetzung für Verfassungsbeschwerde.** Vor Einlegung der Verfassungsbeschwerde müssen alle ordentlichen und verwaltungsgerichtlichen Rechtsbehelfe ausgeschoepft sein (§ 90 Abs. 2 BVerfGG).
 - **Einmonats-Frist laeuft ab Zustellung, nicht ab Kenntnis.** Verfassungsbeschwerde ist nach § 93 Abs. 1 BVerfGG an harte Fristen gebunden; keine Wiedereinsetzung ohne triftigen Grund.
 - **Schutzbereich und Eingriff sorgfaeltig trennen.** Haeufiger Fehler ist es, den Eingriff in der Schutzbereichspruefung zu behandeln; die Struktur des Drei-Schritt ist in Schriftsaetzen streng einzuhalten.
-- **Konkrete Normenkontrolle nur durch Gerichte.** Buerger und Behörden koennen keine Normenkontrolle nach Art. 100 GG beantragen; nur Gerichte koennen vorlegen.
+- **Konkrete Normenkontrolle nur durch Gerichte.** Buerger und Behörden können keine Normenkontrolle nach Art. 100 GG beantragen; nur Gerichte können vorlegen.
 - **Aktuelle BVerfG-Rechtsprechung immer live recherchieren.** Das Plugin verweist auf bundesverfassungsgericht.de; jedes Gebiet hat potentiell neuere Entscheidungen als der interne Wissensstand.
 
 ## Typische Fehler
 
-- Verhaeltnismaessigkeitspruefung wird ohne Herausarbeitung eines legitimen Zwecks begonnen; Pruefung ist dann unvollstaendig.
+- Verhaeltnismaessigkeitspruefung wird ohne Herausarbeitung eines legitimen Zwecks begonnen; Prüfung ist dann unvollstaendig.
 - Verfassungsbeschwerde wird eingereicht ohne Rechtswegerschoepfung; BVerfG nimmt sie nicht zur Entscheidung an.
 - Grundrechtspruefung vermischt Schutzbereich und Eingriff; strukturelles Problem im Schriftsatz.
 - Gesetzgebungskompetenz wird nur für den Bund geprueft ohne Sperrwirkung und Abweichungsgesetzgebung zu beachten.

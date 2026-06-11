@@ -37,7 +37,7 @@ Ein Franchisegeber setzt Mystery-Shopper ein, um die Qualitätseinhaltung seiner
 
 ## Prüfraster
 
-- Sind Mystery-Shopping-Massnahmen im Franchisevertrag oder Systemhandbuch vereinbart?
+- Sind Mystery-Shopping-Maßnahmen im Franchisevertrag oder Systemhandbuch vereinbart?
 - Werden personenbezogene Daten von Mitarbeitern erhoben und liegt eine Rechtsgrundlage nach Art. 6 DSGVO vor?
 - Erfüllt das Verfahren die Anforderungen an Beschäftigtendatenschutz nach § 26 BDSG?
 - Wird dem Franchisenehmer das Testergebnis mitgeteilt und Gelegenheit zur Gegendarstellung gewährt?

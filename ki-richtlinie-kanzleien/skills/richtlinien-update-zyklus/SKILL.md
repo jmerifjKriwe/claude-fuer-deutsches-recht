@@ -23,7 +23,7 @@ Art. 4 KI-VO: KI-Kompetenz muss auf dem aktuellen Stand gehalten werden — was 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -59,7 +59,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 **Baustein Kommunikationspflicht:**
 Über Änderungen der KI-Nutzungsrichtlinie werden alle Mitarbeitenden innerhalb von zwei Wochen nach dem Update informiert. Bei wesentlichen Änderungen (neue Verbote, neue Pflichten) ist eine Kurzschulung durchzuführen; die Teilnahme ist zu dokumentieren.
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

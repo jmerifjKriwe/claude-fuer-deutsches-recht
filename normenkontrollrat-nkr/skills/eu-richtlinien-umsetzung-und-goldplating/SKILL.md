@@ -7,12 +7,12 @@ description: "Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Be
 
 ## Worum geht es konkret
 
-Bei EU-Richtlinienumsetzung gilt das Prinzip der **1:1-Umsetzung** als Leitlinie der Bundesregierung. **Goldplating** (nationale Verschaerfung ueber EU-Vorgabe hinaus) erzeugt zusaetzlichen Erfuellungsaufwand und ist nur mit qualifizierter Begruendung zulaessig. Der NKR prueft das systematisch.
+Bei EU-Richtlinienumsetzung gilt das Prinzip der **1:1-Umsetzung** als Leitlinie der Bundesregierung. **Goldplating** (nationale Verschaerfung über EU-Vorgabe hinaus) erzeugt zusaetzlichen Erfuellungsaufwand und ist nur mit qualifizierter Begruendung zulässig. Der NKR prüft das systematisch.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben setzt eine EU-Richtlinie um
-- Vorhaben geht ueber die EU-Vorgabe hinaus
+- Vorhaben geht über die EU-Vorgabe hinaus
 - Mehrere Umsetzungsoptionen der Richtlinie vorhanden
 - Politische Diskussion um nationale Schutzinteressen
 
@@ -21,11 +21,11 @@ Rueckfrage nur wenn unklar: *"Welche Richtlinie wird umgesetzt? Welche Vorgabe i
 ## Rechtlicher und methodischer Rahmen
 
 - **Art. 288 AEUV** — Richtlinien und ihre Umsetzung
-- **Art. 5 EUV** — Subsidiaritaet und Verhaeltnismaessigkeit
+- **Art. 5 EUV** — Subsidiaritaet und Verhältnismäßigkeit
 - **Inter-Institutional Agreement on Better Law-Making 2016**
 - **Better Regulation Guidelines / Toolbox** der EU-Kommission
 - **NKRG** § 4
-- **Leitfaden BMI / NKR** — Goldplating-Pruefung
+- **Leitfaden BMI / NKR** — Goldplating-Prüfung
 - **One-in-one-out** — Ausnahme nur für 1:1-Umsetzung
 
 ## Definition Goldplating
@@ -33,7 +33,7 @@ Rueckfrage nur wenn unklar: *"Welche Richtlinie wird umgesetzt? Welche Vorgabe i
 Goldplating liegt vor, wenn:
 
 1. Eine Richtlinie umgesetzt wird,
-2. die nationale Regelung ueber die zwingenden EU-Vorgaben hinausgeht,
+2. die nationale Regelung über die zwingenden EU-Vorgaben hinausgeht,
 3. ohne dass die EU-Richtlinie die zusaetzliche nationale Verschaerfung ausdruecklich vorgibt,
 4. und ohne dass ein zwingender nationaler Sachgrund die Verschaerfung rechtfertigt.
 
@@ -78,7 +78,7 @@ Typische Erscheinungsformen:
 - 1:1-Anteil: ausgenommen
 - Goldplating-Anteil: bilanzpflichtig
 
-### 6. EU-Folgenabschaetzung pruefen
+### 6. EU-Folgenabschaetzung prüfen
 
 - Impact Assessment der EU-Kommission lesen
 - RSB-Opinion lesen
@@ -88,7 +88,7 @@ Typische Erscheinungsformen:
 
 - Goldplating ohne Begruendung
 - Goldplating ohne Delta-Berechnung
-- "Eine 1:1-Umsetzung war nicht moeglich" pauschal
+- "Eine 1:1-Umsetzung war nicht möglich" pauschal
 - Verschaerfung mit "deutschem Schutzniveau" ohne Konkretisierung
 - EU-Folgenabschaetzung nicht beruecksichtigt
 - Optionen der Richtlinie nicht geprueft
@@ -98,15 +98,15 @@ Typische Erscheinungsformen:
 | Umsetzungstyp | NKR-Bewertung |
 |---|---|
 | 1:1-Umsetzung | unproblematisch, OIOO-Ausnahme |
-| Goldplating mit zwingendem nationalen Sachgrund | begruendet zulaessig, Delta ausweisen |
+| Goldplating mit zwingendem nationalen Sachgrund | begruendet zulässig, Delta ausweisen |
 | Goldplating mit politischem Wunsch | NKR-Mahnung, OIOO-pflichtig |
 | Goldplating ohne Begruendung | NKR-Mahnung, OIOO-pflichtig |
 | Untererfuellung | Vertragsverletzungsverfahren-Risiko |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Das Vorhaben setzt die Richtlinie (EU) [Nummer] um. Der NKR begruesst die ressortseitige Pruefung der zwingenden und optionalen Vorgaben."
-- "Das Vorhaben geht in folgenden Punkten ueber die zwingenden EU-Vorgaben hinaus: [konkret 1, 2, 3]. Der NKR weist darauf hin, dass diese Verschaerfungen einen zusaetzlichen Erfuellungsaufwand von [Delta] verursachen, der nicht durch EU-Vorgaben gerechtfertigt ist."
+- "Das Vorhaben setzt die Richtlinie (EU) [Nummer] um. Der NKR begruesst die ressortseitige Prüfung der zwingenden und optionalen Vorgaben."
+- "Das Vorhaben geht in folgenden Punkten über die zwingenden EU-Vorgaben hinaus: [konkret 1, 2, 3]. Der NKR weist darauf hin, dass diese Verschaerfungen einen zusaetzlichen Erfuellungsaufwand von [Delta] verursachen, der nicht durch EU-Vorgaben gerechtfertigt ist."
 - "Der NKR bittet das Ressort, das Goldplating zu begruenden oder auf die 1:1-Umsetzung zurueckzukehren."
 - "Soweit die nationale Verschaerfung durch zwingende Sachgruende gerechtfertigt ist (Verbraucherschutz, Sicherheitsanforderungen), nimmt der NKR die ressortseitige Begruendung zur Kenntnis."
 
@@ -121,7 +121,7 @@ Typische Erscheinungsformen:
 ## Typische Fehler in Ressort-Entwuerfen
 
 - "Vorhaben dient der Umsetzung; nationale Verschaerfung nur formal"
-- "Bestehende deutsche Regelung wird beibehalten" ohne Goldplating-Pruefung
+- "Bestehende deutsche Regelung wird beibehalten" ohne Goldplating-Prüfung
 - "Vorbeugende Regelung" als Begruendung
 - Delta nicht beziffert
 - One-in-one-out pauschal als Ausnahme behauptet
@@ -135,4 +135,4 @@ Typische Erscheinungsformen:
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [ec.europa.eu/info/better-regulation](https://ec.europa.eu/info/law/better-regulation_en) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [ec.europa.eu/info/better-regulation](https://ec.europa.eu/info/law/better-regulation_en) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

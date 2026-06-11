@@ -3,7 +3,7 @@ name: pension-bav-liabilities
 description: "Pension und bAV Liabilities in M&A: prueft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Versorgungssysteme und SPA-Risikoallokation: Pension und bAV Liabilities in M&A: prueft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Verso..."
 ---
 
-# Pension und bAV Liabilities in M&A: prueft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Versorgungssysteme und SPA-Risikoallokation.
+# Pension und bAV Liabilities in M&A: prüft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Versorgungssysteme und SPA-Risikoallokation.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Pension und bAV Liabilities in M&A: prueft Pensionszusagen, CTA, P
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Pension und bAV Liabilities in M&A: prueft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Versorgungssysteme und SPA-Risikoallokation.
+**Fokus:** Pension und bAV Liabilities in M&A: prüft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Versorgungssysteme und SPA-Risikoallokation.
 
 ### Pension bAV Liabilities
 
@@ -47,9 +47,9 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 
 | Karte/Spalte | Inhalt | Status | Owner | Quelle | Naechster Schritt |
 | --- | --- | --- | --- | --- | --- |
-| Issue | Konkretes Thema oder Dokument | offen / in Pruefung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
+| Issue | Konkretes Thema oder Dokument | offen / in Prüfung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
 
-Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
+Für Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
 - Kurzbild für Partner oder Mandant.
@@ -59,7 +59,7 @@ Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Bef
 - Offene Punkte mit genauem Nachforderungswortlaut.
 
 ## Quality Gate
-Vor Ausgabe immer pruefen:
+Vor Ausgabe immer prüfen:
 
 - Ist die Partei-Perspektive klar?
 - Sind alle Fristen und Vollzugsrisiken markiert?

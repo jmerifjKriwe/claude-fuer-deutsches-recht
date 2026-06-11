@@ -7,7 +7,7 @@ description: "Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee u
 
 ## Worum geht es konkret
 
-Skill, der den vollstaendigen Lebenszyklus eines Bundesvorhabens entlang der NKR-Andockpunkte darstellt. Pflichtlektuere für jeden neuen NKR-Referenten und Pruefer.
+Skill, der den vollstaendigen Lebenszyklus eines Bundesvorhabens entlang der NKR-Andockpunkte darstellt. Pflichtlektuere für jeden neuen NKR-Referenten und Prüfer.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -45,8 +45,8 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 ### Phase 3 — Ressortabstimmung
 
 - BMJ-Rechtsfoermlichkeitspruefung
-- BMI-Pruefung Verwaltungstauglichkeit
-- BMF-Pruefung Haushaltsfolgen
+- BMI-Prüfung Verwaltungstauglichkeit
+- BMF-Prüfung Haushaltsfolgen
 - NKR ueberprueft ggf. nachgereichte Daten
 
 ### Phase 4 — Kabinettsbefassung
@@ -114,4 +114,4 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 - §§ 44, 45, 47, 62 GGO
 - §§ 70, 70a GO BT
 - Art. 76, 77, 82 GG
-- Live verifizieren ueber Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

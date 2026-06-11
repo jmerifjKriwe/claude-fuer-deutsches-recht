@@ -26,7 +26,7 @@ description: "Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeum
 - **§ 44 StPO** — Wiedereinsetzung in den vorigen Stand: kein Verschulden, Antrag binnen 1 Woche nach Kenntnis
 - **§ 45 StPO** — Form und Frist des Wiedereinsetzungsantrags: schriftlich oder protokollarisch, 1-Wochen-Frist
 - **§ 45 Abs. 2 Satz 2 StPO** — gleichzeitig mit Antrag muss die versaeumte Handlung (Einspruch) nachgeholt werden
-- **§ 46 StPO** — Entscheidung ueber den Antrag; Beschluss
+- **§ 46 StPO** — Entscheidung über den Antrag; Beschluss
 - **§ 180 ZPO** — Zustellungsfiktion bei Einwurf-Einschreiben
 - **§ 409 Abs. 1 Nr. 7 StPO** — fehlerhafte Belehrung = Frist laeuft nicht an; kein Wiedereinsetzungsbedarf
 

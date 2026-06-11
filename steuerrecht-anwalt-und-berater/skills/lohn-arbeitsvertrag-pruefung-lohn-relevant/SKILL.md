@@ -3,7 +3,7 @@ name: lohn-arbeitsvertrag-pruefung-lohn-relevant
 description: "Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermögenswirksame Leistungen. Methodik Prüfraster lohnsteuer- und sv-rechtlich relevante Klauseln. Output Prüfnotiz E"
 ---
 
-# Arbeitsvertrag aus lohnrelevanter Sicht pruefen
+# Arbeitsvertrag aus lohnrelevanter Sicht prüfen
 
 ## Arbeitsweg
 
@@ -23,7 +23,7 @@ description: "Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall On
 
 ## Kernsachverhalt
 
-Bevor ein Arbeitsvertrag in die Lohnabrechnung uebernommen wird, prueft der Steuerberater die lohn- und sv-rechtlich relevanten Klauseln: Gehalt brutto/netto, Mehrarbeitsregelung, Sachbezuege, Dienstwagen, JobRad, bAV, Vermoegenswirksame Leistungen, Sonderzahlungen, Befristung. Fehlerhafte Vertraege fuehren zu falscher Abrechnung oder steuerlichen Haftungsrisiken.
+Bevor ein Arbeitsvertrag in die Lohnabrechnung uebernommen wird, prüft der Steuerberater die lohn- und sv-rechtlich relevanten Klauseln: Gehalt brutto/netto, Mehrarbeitsregelung, Sachbezuege, Dienstwagen, JobRad, bAV, Vermoegenswirksame Leistungen, Sonderzahlungen, Befristung. Fehlerhafte Verträge fuehren zu falscher Abrechnung oder steuerlichen Haftungsrisiken.
 
 ## Kaltstart-Rueckfragen
 
@@ -103,7 +103,7 @@ Bevor ein Arbeitsvertrag in die Lohnabrechnung uebernommen wird, prueft der Steu
 
 ### Phase 5 — Sonderfaelle
 
-- Gesellschafter-Geschaeftsfuehrer: SV-Pflicht-Pruefung gesondert.
+- Gesellschafter-Geschaeftsfuehrer: SV-Pflicht-Prüfung gesondert.
 - Werkstudent: 20-Stunden-Woche-Grenze; SV-Sonderstatus.
 - Minijob: 538-EUR-Grenze (Stand 01.01.2024; bei MiLo-Anhebung dynamisch).
 - Aushilfskraft kurzfristig: max. 3 Monate oder 70 Arbeitstage pro Jahr.
@@ -128,7 +128,7 @@ Datum: [Datum]
 
 - Schriftliche Niederlegung nach § 2 NachweisG ist Pflicht des Arbeitgebers — bei Fehlen Bussgeld bis 2.000 EUR.
 - Sachbezuege immer schriftlich vereinbart, sonst LSt-Hinzurechnung.
-- bAV ueber Direktversicherung steuerlich vorteilhaft, aber Bindung an Versicherungsvertrag.
+- bAV über Direktversicherung steuerlich vorteilhaft, aber Bindung an Versicherungsvertrag.
 - StBVV: Vertragspruefung ist nicht in Lohnpauschale; gesonderter Auftrag oder Zeithonorar.
 - Bei strittigen Klauseln: Hinweis an Mandant, Anwalt einzuschalten (§ 5 RDG).
 
@@ -142,6 +142,6 @@ Stand: 05/2026.
 - NachweisG §§ 1, 2.
 - TzBfG § 14.
 - LStR; BMF zu Dienstwagen, JobRad.
-- Sachbezugswerte SvEV (Verpflegung, Unterkunft) werden jaehrlich angepasst; aktuelle Werte ueber BMAS/SvEV-Verordnung zum Jahreswechsel abrufen (Stand 2025: Verpflegung frei 313 EUR/Monat, Unterkunft 278 EUR/Monat).
+- Sachbezugswerte SvEV (Verpflegung, Unterkunft) werden jaehrlich angepasst; aktuelle Werte über BMAS/SvEV-Verordnung zum Jahreswechsel abrufen (Stand 2025: Verpflegung frei 313 EUR/Monat, Unterkunft 278 EUR/Monat).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (SvEV-Hinweis neu formuliert ohne Marker) -->

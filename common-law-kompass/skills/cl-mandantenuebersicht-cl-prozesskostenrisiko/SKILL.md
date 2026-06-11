@@ -19,7 +19,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## False-Friends-Liste (Common Law vs. deutsches Recht)
@@ -34,7 +34,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 | **Equity** | Kapital, Eigenkapital | Billigkeitsrechtsprechung mit eigenen Rechtsbehelfen (injunction, specific performance, rescission) |
 | **Specific performance** | Konkrete Leistung | Naturalerfuellungsanspruch — im Common Law Ausnahme, im deutschen Recht Regel (§ 241 I BGB) |
 | **Liquidated damages** | Liquidierter Schaden | Vertraglich vereinbarte Schadenspauschale; nur wirksam wenn "genuine pre-estimate of loss" (UK Cavendish v. Makdessi 2015) |
-| **Penalty** | Strafe | Unzulaessig im Common Law als nicht-genuine pre-estimate; in DE Vertragsstrafe §§ 339 ff. BGB zulaessig |
+| **Penalty** | Strafe | Unzulaessig im Common Law als nicht-genuine pre-estimate; in DE Vertragsstrafe §§ 339 ff. BGB zulässig |
 | **Tort** | Unrecht | Deliktsrecht ohne Generalklausel; einzelne torts (negligence, nuisance, defamation) — vgl. § 823 ff. BGB |
 | **Estoppel** | Sperre | Treu-und-Glauben-Konstrukt für Vertrauensschutz; vergleichbar § 242 BGB, aber technischer |
 | **Privity of contract** | Vertraulichkeit | Vertragsbindung nur für Parteien; UK seit 1999 Contracts (Rights of Third Parties) Act gelockert |
@@ -53,9 +53,9 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 ## Praxisfallen
 
 - **Choice-of-law** wird oft mit choice-of-forum verwechselt; trennen.
-- **Trust**-Strukturen im US/UK-Recht haben kein direktes Aequivalent in DE; § 1922 BGB Erbfolge greift anders.
+- **Trust**-Strukturen im US/UK-Recht haben kein direktes Äquivalent in DE; § 1922 BGB Erbfolge greift anders.
 - **At-will employment** in US-Staaten: deutsche Mandanten sind irritiert; Hinweis auf US-Realitaet.
-- **Anti-suit injunctions** UK gegen DE-Klagen — seit Brexit wieder moeglich; Vollstreckbarkeit in DE problematisch.
+- **Anti-suit injunctions** UK gegen DE-Klagen — seit Brexit wieder möglich; Vollstreckbarkeit in DE problematisch.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.

@@ -3,7 +3,7 @@ name: digitale-inhalte-widerruf-formulieren
 description: "Prüfer: Digitale Inhalte: Anspruch prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Digitale Inhalte Anspruch Pruefen
+# Digitale Inhalte Anspruch Prüfen
 
 ## Arbeitsweg
 

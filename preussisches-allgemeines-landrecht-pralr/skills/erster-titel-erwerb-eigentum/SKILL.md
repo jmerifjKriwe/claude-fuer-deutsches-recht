@@ -23,7 +23,7 @@ description: "PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgun
 
 - **Detentor**: bloss tatsaechlicher Innehaber (Verwahrer).
 - **Possessor**: rechtlicher Besitzer mit animus.
-- **Dominus**: Eigentuemer.
+- **Dominus**: Eigentümer.
 
 ## Schutzklagen
 
@@ -39,10 +39,10 @@ A wird die Pferdekutsche gestohlen; gelangt zu B.
 ## Heutige Fortwirkung
 
 - §§ 854-872 BGB Besitz.
-- §§ 985-1003 BGB Eigentuemer-Besitzer-Verhaeltnis.
+- §§ 985-1003 BGB Eigentümer-Besitzer-Verhaeltnis.
 
 ## Pruefraster
 
 1. Detentor oder Possessor?
 2. Possessorisch oder petitorisch?
-3. Vindikation moeglich?
+3. Vindikation möglich?

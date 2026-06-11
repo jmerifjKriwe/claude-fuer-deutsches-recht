@@ -16,7 +16,7 @@ description: "Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden 
 ## Triage zu Beginn
 1. Handelt es sich um eine Hausarbeit (immer Gutachtenstil) oder einen Schriftsatz (Urteilsstil)?
 2. Welcher Punkt ist streitig und erfordert volle Vier-Schritte-Subsumtion?
-3. Welche Punkte sind offensichtlich klar und duerfen im gedraengten Stil behandelt werden?
+3. Welche Punkte sind offensichtlich klar und dürfen im gedraengten Stil behandelt werden?
 4. Wurde der Obersatz hypothetisch formuliert ("koennte", "duerfte") oder verrät er schon das Ergebnis?
 
 ## Aktuelle Rechtsprechung und Methodik

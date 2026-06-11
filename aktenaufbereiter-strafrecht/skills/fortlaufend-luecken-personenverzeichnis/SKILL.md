@@ -36,11 +36,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **EuStA (Europaeische Staatsanwaltschaft - VO 2017/1939):** zuständig für Straftaten gegen EU-Finanzinteressen (Mehrwertsteuerbetrug, EU-Subventionsbetrug, Korruption, Geldwaesche bei EU-Bezug); deutsches Recht anwendbar mit EU-Verfahrensanpassungen.
 - **Europaeische Ermittlungsanordnung (EEA) RL 2014/41/EU:**
  - Vereinfachte Beweiserhebung in anderen EU-Mitgliedstaaten.
- - Anwendung statt klassische Rechtshilfe gemaess EuRhuebkAG.
- - Akteneinsicht in EU-Bezug-Verfahren auch bezueglich EEA-Aufnahmen.
+ - Anwendung statt klassische Rechtshilfe gemäß EuRhuebkAG.
+ - Akteneinsicht in EU-Bezug-Verfahren auch bezüglich EEA-Aufnahmen.
 - **Klassische Rechtshilfe (EuRhuebk, MLA-Abkommen):**
  - Vernehmungen im Ausland, Beweismittelbeschaffung.
- - DE-Behörden ueber Justizministerium / GenStA.
+ - DE-Behörden über Justizministerium / GenStA.
 - **Auslieferungsverfahren:**
  - **Europaeischer Haftbefehl (EuHbG / RB 2002/584/JI):** schneller Verfahren in EU.
  - **IRG für Drittstaaten:** klassische Auslieferung.
@@ -52,7 +52,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **EuGH Rsp. zu RL 2012/13/EU (Belehrungsrecht), RL 2013/48/EU (Anwaltszugang), RL 2016/343/EU (Unschuldsvermutung):** direkt anwendbar bei nationaler Lueckenfuellung; staendige Rspr.
 - **Schnittstellen-Checkliste:**
  - Gehoert Beschuldigter / Geschaedigter zu EU-Mitgliedstaat?
- - Wurden Beweismittel ueber EEA / Rechtshilfe beschafft?
+ - Wurden Beweismittel über EEA / Rechtshilfe beschafft?
  - Liegen Auslandsvorstrafen vor? (Auslandsvorstrafenbruecke RB 2008/675/JI).
  - Internationale Vorermittlungen Europol / Eurojust?
-- **Praxis-Tipp:** Bei Auslandsvorstrafen Auszug aus dem Ausland anfordern ueber Verbindungsbeamte; bei Drittstaaten ggf. Notwendigkeit Uebersetzung beglaubigter Form.
+- **Praxis-Tipp:** Bei Auslandsvorstrafen Auszug aus dem Ausland anfordern über Verbindungsbeamte; bei Drittstaaten ggf. Notwendigkeit Uebersetzung beglaubigter Form.

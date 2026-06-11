@@ -7,7 +7,7 @@ description: "Checkliste für die Vorbereitung der muendlichen Verhandlung. Akte
 
 ## Worum geht es?
 
-Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet das Gericht — oder wird Vergleich verhandelt. Gute Vorbereitung kann ueber Erfolg oder Misserfolg entscheiden. Diese Skill ist Ihre Checkliste.
+Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet das Gericht — oder wird Vergleich verhandelt. Gute Vorbereitung kann über Erfolg oder Misserfolg entscheiden. Diese Skill ist Ihre Checkliste.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -18,7 +18,7 @@ Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet d
 ## Fachbegriffe (kurz erklaert)
 
 - **Muendliche Verhandlung**: Hauptverhandlung im Zivilprozess.
-- **Schluessel-Argument**: Kernpunkt Ihrer Position.
+- **Schlüssel-Argument**: Kernpunkt Ihrer Position.
 - **Replikplan**: Vorbereitung auf gegnerische Argumente.
 
 ## Rechtsgrundlagen
@@ -31,13 +31,13 @@ Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet d
 
 ### Schritt 1 — 2 Wochen vor Termin
 
-- Akten ordnen: Klageschrift, Klageerwiderung, Replik, Duplik, evtl. Beweis-Beschluesse.
-- Pruefen, ob alle Beweisangebote im Schriftsatz stehen.
+- Akten ordnen: Klageschrift, Klageerwiderung, Replik, Duplik, evtl. Beweis-Beschlüsse.
+- Prüfen, ob alle Beweisangebote im Schriftsatz stehen.
 - Eigene Argumente strukturieren.
 
 ### Schritt 2 — 1 Woche vor Termin
 
-- Schluessel-Argumente in Stichworten notieren.
+- Schlüssel-Argumente in Stichworten notieren.
 - Wichtigste Beweise heraussuchen.
 - Originale der Urkunden bereitlegen.
 
@@ -56,7 +56,7 @@ Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet d
 - **Anfangs-Vorschlag für Vergleich** (falls eroeffnet).
 - **Schreibmaterial**.
 
-### Schritt 5 — Schluessel-Argumente vorbereiten
+### Schritt 5 — Schlüssel-Argumente vorbereiten
 
 Pro Klage-Punkt:
 
@@ -102,7 +102,7 @@ Bei Vergleich im Termin: nicht spontan entscheiden, sondern auf vorbereitete Spi
 
 Wenn Gericht persönliches Erscheinen anordnet:
 
-- Sie muessen selbst kommen.
+- Sie müssen selbst kommen.
 - Sie werden ggf. informatorisch befragt.
 - Bereiten Sie sich auf Fragen vor: "Wie war der Hergang? Warum haben Sie nicht gezahlt? Was ist Ihr Anliegen?"
 
@@ -118,11 +118,11 @@ Wenn Gericht persönliches Erscheinen anordnet:
 - Sie sind nicht "Angeklagter" — Sie sind Partei.
 - Hoeflich, sachlich, klar.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Anwesenheit pflichtschuldig** bei persönlichem Erscheinen.
 - **Originale dabei**.
-- **Eigene Schriftsaetze kennen**: Sie muessen wissen, was Sie geschrieben haben.
+- **Eigene Schriftsaetze kennen**: Sie müssen wissen, was Sie geschrieben haben.
 - **Vergleichs-Spielraum** vorab definieren.
 
 ## Typische Fehler

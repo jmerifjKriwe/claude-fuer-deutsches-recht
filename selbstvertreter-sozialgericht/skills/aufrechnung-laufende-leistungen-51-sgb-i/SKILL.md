@@ -13,12 +13,12 @@ description: "Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill
 
 ## Wann darf aufgerechnet werden
 
-§ 51 Abs. 1 SGB I: Aufrechnung mit Geldleistungsanspruch nur in Hoehe der Haelfte der laufenden Geldleistung, soweit die Aufrechnung nicht dazu fuehrt, dass der Berechtigte hilfebeduerftig wird.
+§ 51 Abs. 1 SGB I: Aufrechnung mit Geldleistungsanspruch nur in Höhe der Haelfte der laufenden Geldleistung, soweit die Aufrechnung nicht dazu fuehrt, dass der Berechtigte hilfebeduerftig wird.
 
 ## Voraussetzungen
 
 - Gegenforderung der Behörde aus Erstattung oder Schadensersatz.
-- Hoehe und Faelligkeit feststellbar.
+- Höhe und Faelligkeit feststellbar.
 
 ## Anhörungspflicht
 
@@ -33,7 +33,7 @@ description: "Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill
 ## Aufrechnung gegen Leistungen Dritter
 
 - Aufrechnung mit Krankengeld Buergergeld Rente: nur, soweit § 51 SGB I.
-- Aufrechnung mit Pflegegeld nicht zulaessig (Zweckbindung).
+- Aufrechnung mit Pflegegeld nicht zulässig (Zweckbindung).
 
 ## Pruefraster
 

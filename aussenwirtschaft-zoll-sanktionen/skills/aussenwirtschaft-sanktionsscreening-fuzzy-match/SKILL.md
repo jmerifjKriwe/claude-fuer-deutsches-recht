@@ -17,7 +17,7 @@ description: "Technische und rechtliche Anforderungen an Sanktionslistenscreenin
 
 - Screening-Tool gibt 80 False Positives pro Tag aus; Compliance-Kapazitaet ueberlastet; Optimierung.
 - Neues Screening-Tool wird implementiert; Validierung der Erkennungsleistung vor Go-Live.
-- BAFA-Pruefung beanstandet, dass Screening-Schwellenwert zu hoch gesetzt war und Treffer verpasst wurden.
+- BAFA-Prüfung beanstandet, dass Screening-Schwellenwert zu hoch gesetzt war und Treffer verpasst wurden.
 
 ## Erste Schritte
 

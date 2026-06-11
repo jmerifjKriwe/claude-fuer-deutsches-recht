@@ -3,7 +3,7 @@ name: ortsdurchfahrt-planrecht-pruefen
 description: "Ortsdurchfahrt: Planrecht prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Ortsdurchfahrt Planrecht Pruefen
+# Ortsdurchfahrt Planrecht Prüfen
 
 ## Arbeitsweg
 

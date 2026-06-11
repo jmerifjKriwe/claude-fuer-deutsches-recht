@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Kartellrecht und Ordoliberalismus. Kart
 
 ## Worum es geht
 
-Das Kartellrecht in Deutschland begann mit einem liberalen Verstaendnis: Das Reichsgericht erkannte in der Sachsische Holzstoff-Entscheidung 1897 Kartelle als zulaessig an. Das NS-Regime foerderte sogar Zwangskartelle. Die Ordoliberalen (Eucken, Boehm) kaempften nach 1945 für ein starkes Kartellverbot. Das GWB vom 27. Juli 1957 (BGBl. I 1957, 1081) schuf das erste effektive Kartellverbot, aber mit Ausnahmen und dem Missbrauchsprinzip statt Verbotsprinzip für Marktbeherrschung. Das EU-Kartellrecht (Art. 81, 82 EGV, heute Art. 101, 102 AEUV) praegt seit den 1960ern das deutsche Kartellrecht. Das Bundeskartellamt (gegr. 1958) setzt das GWB durch.
+Das Kartellrecht in Deutschland begann mit einem liberalen Verstaendnis: Das Reichsgericht erkannte in der Sachsische Holzstoff-Entscheidung 1897 Kartelle als zulässig an. Das NS-Regime foerderte sogar Zwangskartelle. Die Ordoliberalen (Eucken, Boehm) kaempften nach 1945 für ein starkes Kartellverbot. Das GWB vom 27. Juli 1957 (BGBl. I 1957, 1081) schuf das erste effektive Kartellverbot, aber mit Ausnahmen und dem Missbrauchsprinzip statt Verbotsprinzip für Marktbeherrschung. Das EU-Kartellrecht (Art. 81, 82 EGV, heute Art. 101, 102 AEUV) praegt seit den 1960ern das deutsche Kartellrecht. Das Bundeskartellamt (gegr. 1958) setzt das GWB durch.
 
 ## Kernnormen / Kernquellen
 

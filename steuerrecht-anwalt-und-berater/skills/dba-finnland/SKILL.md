@@ -37,7 +37,7 @@ Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 I
 - **OECD-MA 2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: Deutschland und Finnland haben das MLI unterzeichnet und ratifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
+- **MLI**: Deutschland und Finnland haben das MLI unterzeichnet und ratifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zum DBA-Finnland in freier amtlicher Quelle abrufen.
@@ -71,14 +71,14 @@ Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 I
 ### Phase 1 — DBA-Anwendbarkeit
 1. Anwendungszeitraum: DBA 1979 vs. DBA 2016 (Stichtag 01.01.2018).
 
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 ### Phase 3 — Einkunftsart einordnen
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
 
 ## Strategie und Praxis-Tipps
 
-- Wechsel von Freistellung zu Anrechnung beim Uebergang DBA 1979 → DBA 2016 — Altzeitraeume gesondert pruefen.
+- Wechsel von Freistellung zu Anrechnung beim Uebergang DBA 1979 → DBA 2016 — Altzeitraeume gesondert prüfen.
 - Finnische TyEL und KELA-Pensionen differenziert behandeln.
 - EU-MTRL geht DBA bei Schachtel vor.
 - Bei Sportlern Finnland-DE (Eishockey-Spieler): Art. 17 Auftrittsstaat.
@@ -87,14 +87,14 @@ Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 I
 
 - **Erstattungsverfahren FI → DE-Mandant**: Antrag bei Verohallinto (Steuerverwaltung Finnland); Online-Portal "OmaVero" (vom Anwender mit aktuellem Stand des finnischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung "Verotodistus" der Verohallinto als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Finnisch sowie Schwedisch (Finnland zweisprachig, Schwedisch zweite Amtssprache). Bei Auslegung kann englische Arbeitsfassung helfen, ist aber nicht authentisch.
-- **Lokaler Berater**: Bei finnischer Oy (Osakeyhtiö, AG/GmbH-Aequivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines finnischen Steuerberaters; FI hat sehr digitalisierte Verwaltung und hohe Auskunftsbereitschaft.
+- **Lokaler Berater**: Bei finnischer Oy (Osakeyhtiö, AG/GmbH-Äquivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines finnischen Steuerberaters; FI hat sehr digitalisierte Verwaltung und hohe Auskunftsbereitschaft.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (FI seit 1995).
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
 - **Wechsel Methodenartikel**: DBA 1979 hatte Freistellungsmethode (Art. 23 a.F.); DBA 2016 hat Anrechnung (Art. 22 n.F.). Bei VZ-uebergreifenden Sachverhalten Stichtagspruefung — der Wechsel zu Anrechnung verschlechtert i.d.R. die DE-Position bei aktiven Einkuenften.
-- **Finnische TyEL-Rente**: Arbeitsplatzrente, vergleichbar mit deutscher betrieblicher Altersversorgung. Behandlung nach DBA 2016 Art. 17 — gesetzliche Renten Wohnsitzstaat, Beamtenpension Kassenstaat. TyEL ist privatrechtlich organisiert, aber gesetzlich verpflichtend — Pruefer differenziert ggf.
-- **Aenderungsprotokoll 2020/2021**: Anpassungen, vom Anwender mit aktuellem konsolidierten Text zu pruefen.
+- **Finnische TyEL-Rente**: Arbeitsplatzrente, vergleichbar mit deutscher betrieblicher Altersversorgung. Behandlung nach DBA 2016 Art. 17 — gesetzliche Renten Wohnsitzstaat, Beamtenpension Kassenstaat. TyEL ist privatrechtlich organisiert, aber gesetzlich verpflichtend — Prüfer differenziert ggf.
+- **Aenderungsprotokoll 2020/2021**: Anpassungen, vom Anwender mit aktuellem konsolidierten Text zu prüfen.
 - **MLI**: Beide ratifiziert; PPT-Klausel anwendbar — Treaty-Shopping versagt.
 - **Sportler Eishockey/Wintersport**: Art. 17 Auftrittsstaat — bei finnischen Eishockey-Spielern in DE-Liga oder umgekehrt sorgfaeltige Vertragsauslegung; Promoter und Veranstalter haben oft eigene Quellensteuerpflichten.
 
@@ -104,7 +104,7 @@ Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 I
 |---|---|---|---|
 | Pension TyEL Wohnsitz DE | Wohnsitzstaat-Prinzip nach DBA 2016: DE besteuert | Nach DBA 1979 Altfaelle: ggf. Freistellung mit Progressionsvorbehalt | bei VZ ab 2018 neue DBA-Regel; Altzeitraeume gesondert |
 | Lizenzgebuehren DBA 0 Prozent vs. EU-ZinsLizenzRL | DBA 2016: 0 Prozent — direkt; keine Antragsprozedur | EU-ZinsLizenzRL: 0 Prozent ebenfalls bei Verbundenheit | DBA direkter; EU-ZinsLizenzRL ergaenzend nicht erforderlich |
-| FI-Holding 20 Prozent KSt vs. CFC | FI-KSt 20 Prozent — ueber AStG-Schwelle 15 Prozent | keine CFC-Hinzurechnung | FI-Holding unproblematisch CFC-rechtlich; aber Substanz § 50d Abs. 3 EStG bleibt |
+| FI-Holding 20 Prozent KSt vs. CFC | FI-KSt 20 Prozent — über AStG-Schwelle 15 Prozent | keine CFC-Hinzurechnung | FI-Holding unproblematisch CFC-rechtlich; aber Substanz § 50d Abs. 3 EStG bleibt |
 
 ## Berechnungsbeispiel
 
@@ -114,15 +114,15 @@ DE-Software-AG bezieht Lizenzgebuehr 80.000 EUR von finnischer Oy:
 - DE: Lizenzeinkunft in DE-Bilanz 80.000 EUR; KSt+SolZ rund 15,825 Prozent = 12.660 EUR plus GewSt rund 14 Prozent = 11.200 EUR. Gesamt DE rund 23.860 EUR.
 - Praxis: bei wiederkehrenden Lizenzzahlungen FI-Auftraggeber Ansaessigkeitsbescheinigung jaehrlich; ohne diese erfolgt zunaechst voller FI-Quellensteuerabzug 20 Prozent mit anschliessender Erstattung — Liquiditaetsnachteil.
 
-Bei Eishockey-Engagement Beispiel: Finnischer Eishockey-Spieler in DEL spielt 6 Monate für DE-Verein, 4 Monate in FI-Liga. DBA Art. 17 — Auftrittsstaat. DE besteuert die DE-Liga-Verguetung; FI besteuert die FI-Liga-Verguetung; § 50a EStG-Pruefung bei Vereinszahlungen.
+Bei Eishockey-Engagement Beispiel: Finnischer Eishockey-Spieler in DEL spielt 6 Monate für DE-Verein, 4 Monate in FI-Liga. DBA Art. 17 — Auftrittsstaat. DE besteuert die DE-Liga-Vergütung; FI besteuert die FI-Liga-Vergütung; § 50a EStG-Prüfung bei Vereinszahlungen.
 
 ## Mandatsablauf in der Praxis
 
 1. **Aufnahme**: Konstellation (IT-Beteiligung, Maschinenbau, Pension, Sportler).
-2. **Strukturierung**: VZ-Stichtag pruefen (DBA 1979 vs. DBA 2016); bei Pension TyEL vs. gesetzliche Rente; bei Sportlern Art. 17.
+2. **Strukturierung**: VZ-Stichtag prüfen (DBA 1979 vs. DBA 2016); bei Pension TyEL vs. gesetzliche Rente; bei Sportlern Art. 17.
 3. **Antraege**: Ansaessigkeitsbescheinigung Verohallinto; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: FI-Erklaerung jaehrlich; DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive (Altzeitraeume).
-5. **Audit-Vorbereitung**: FI-Pruefung digital effizient; DE-FA-Pruefung Methodenartikel-Wechsel und MLI-Anwendung.
+5. **Audit-Vorbereitung**: FI-Prüfung digital effizient; DE-FA-Prüfung Methodenartikel-Wechsel und MLI-Anwendung.
 
 ## Ausgabeformat für Mandanten-Memo Finnland
 
@@ -147,6 +147,6 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Finn
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Finnland 19.02.2016, in Kraft 16.11.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 466/467). Altes DBA 05.07.1979. Aenderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755). MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
+Stand: 05/2026. DBA-Finnland 19.02.2016, in Kraft 16.11.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 466/467). Altes DBA 05.07.1979. Aenderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755). MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

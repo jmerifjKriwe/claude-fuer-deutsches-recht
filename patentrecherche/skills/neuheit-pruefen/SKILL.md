@@ -91,7 +91,7 @@ Bevor die Neuheitspruefung beginnt, klaere:
 1. Ist der Prioritaetszeitpunkt klar (Anmeldetag oder Prioritaetsdatum aus frueherer Anmeldung)?
 2. Sind geheime aeltere Anmeldungen (§ 3 II PatG / Art. 54 III EPU) beruecksichtigt?
 3. Wurden alle relevanten CPC/IPC-Klassen für die Recherche eingesetzt?
-4. Handelt es sich um einen Hauptanspruch oder einen abhaengigen Anspruch (abhaengige Ansprueche koennen weniger Merkmale enthalten = leichter angreifbar)?
+4. Handelt es sich um einen Hauptanspruch oder einen abhaengigen Anspruch (abhaengige Ansprueche können weniger Merkmale enthalten = leichter angreifbar)?
 
 ## Aktuelle Rechtsprechung
 

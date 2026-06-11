@@ -34,7 +34,7 @@ absoluten Gewinner-Entscheidungen.
 1. Beide Gueter mit voller Reichweite ausloten.
 2. Konfliktpunkt praezise lokalisieren.
 3. Mildere Mittel suchen, die beide Gueter wirksam halten.
-4. Wenn keine schonende Loesung moeglich, an Schutzbereich- und
+4. Wenn keine schonende Loesung möglich, an Schutzbereich- und
    Eingriffsstrukturen rueckkoppeln.
 
 ## Beispiel Kruzifix
@@ -42,4 +42,4 @@ absoluten Gewinner-Entscheidungen.
 BVerfGE 93, 1 (Kruzifix): Anordnung des Anbringens eines Kruzifix in
 staatlichen Volksschulen verstiess gegen Glaubensfreiheit Art 4 I GG
 in Verbindung mit staatlichem Neutralitaetsgebot. Schonende Zuordnung
-moeglich durch Einzelfallpruefung, nicht durch generellen Anbringungszwang.
+möglich durch Einzelfallpruefung, nicht durch generellen Anbringungszwang.

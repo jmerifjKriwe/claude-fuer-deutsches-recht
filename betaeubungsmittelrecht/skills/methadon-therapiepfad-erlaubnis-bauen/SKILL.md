@@ -3,7 +3,7 @@ name: methadon-therapiepfad-erlaubnis-bauen
 description: "Methadon: Therapiepfad prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Methadon Therapiepfad Pruefen
+# Methadon Therapiepfad Prüfen
 
 ## Arbeitsweg
 

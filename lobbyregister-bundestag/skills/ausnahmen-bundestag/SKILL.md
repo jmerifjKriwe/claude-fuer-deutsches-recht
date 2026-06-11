@@ -23,7 +23,7 @@ description: "Prüft die Ausnahmen von der Registrierungspflicht bei Interessenv
 ## Leitfragen
 
 1. Geht es um persönliche Interessen, Petition, öffentliche Anhörung oder Ersuchen um Sachinformation?
-2. Ist das Anliegen ausschliesslich lokal?
+2. Ist das Anliegen ausschließlich lokal?
 3. Handelt eine Koerperschaft öffentlichen Rechts oder ein Sozialpartner?
 
 ## Ausnahmekatalog § 2 II LobbyRG (Bundestag)

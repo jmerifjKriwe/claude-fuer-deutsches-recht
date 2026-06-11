@@ -20,7 +20,7 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 ## Kaltstart-Rueckfragen
 
 1. Welche Konstellation: Bau-Entsendung, Pflege-Arbeitnehmer, IT, Holding?
-2. 183-Tage-Pruefung kalenderjaehrlich oder 12-Monatszeitraum?
+2. 183-Tage-Prüfung kalenderjaehrlich oder 12-Monatszeitraum?
 3. Bei Bauausfuehrung: Dauer und Umfang?
 4. Bei Beteiligungen: Schachtelhoehe? Mutter-Tochter-RL anwendbar?
 5. Bei Lizenz: technologische Lizenz, Software, Markenrecht?
@@ -64,21 +64,21 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 - Anrechnung bei passiven Einkuenften.
 
 ### Besonderheiten
-- **Subject-to-Tax-Klausel** im Protokoll — **konkret pruefen**.
-- **Entsendung Bau**: bei Bauausfuehrung ueber 12 Monate Betriebsstaette; sonst Loehne nach Art. 15.
+- **Subject-to-Tax-Klausel** im Protokoll — **konkret prüfen**.
+- **Entsendung Bau**: bei Bauausfuehrung über 12 Monate Betriebsstaette; sonst Loehne nach Art. 15.
 - **Pensionen** Art. 18: gesetzliche ZUS-Renten i.d.R. Wohnsitzstaat; bei öffentlichem Dienst Kassenstaat.
 
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 ### Phase 3 — Einkunftsart einordnen
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
 
 ## Strategie und Praxis-Tipps
 
-- Bei Pflege-Arbeitnehmern Polen (24h-Pflege in Deutschland): Wohnsitz-/Arbeitnehmerstatus dokumentieren — Pruefung Art. 15 und Sozialversicherung A1.
+- Bei Pflege-Arbeitnehmern Polen (24h-Pflege in Deutschland): Wohnsitz-/Arbeitnehmerstatus dokumentieren — Prüfung Art. 15 und Sozialversicherung A1.
 - Bei Bau-Entsendung: 12-Monatsfrist akribisch dokumentieren; Auftraege bei demselben Bauherrn ggf. zusammenrechnen.
 - EU-MTRL bei Schachtel: 0 Prozent guenstiger als DBA-Hoechstsatz.
 - Lizenzgebuehren-Quellensteuer 5 Prozent kann durch EU-ZinsLizenzRL bei verbundenem Unternehmen auf 0 Prozent reduziert werden.
@@ -91,11 +91,11 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 - **Lokaler Berater**: Bei polnischer Sp.z o.o. mit Niederlassung in DE und umgekehrt empfiehlt sich Hinzuziehung eines polnischen "doradca podatkowy" (zertifizierter Steuerberater) wegen polnischer Buchfuehrungspflichten und CIT-8-Erklaerung.
 - **Apostille**: PL-Behörden akzeptieren EU-Ansaessigkeitsbescheinigungen ohne Apostille; bei Notarurkunden im Schenkungs-/Erbfall ist Apostille (Haager Uebereinkommen) erforderlich.
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
 - **Sondersteuer 19 Prozent auf Liquidationen**: Bei Aufloesung einer polnischen Sp.z o.o. mit deutschem Anteilseigner faellt nach polnischem Recht regelmaessig eine Liquidationsteuer von 19 Prozent an, die DBA-rechtlich wie Dividendensubstitut zu behandeln ist (Art. 10) — konkrete Behandlung mit polnischem Berater abstimmen, da die polnische Verwaltung in der Praxis differenziert.
 - **EU-Pendler-Konstellation**: Polen kennt einen Sonderstatus für Grenzpendler (Werkbahnen, Wochenendpendler) — keine Grenzgaengerregelung im DBA-Polen, aber polnische Sozialversicherungspflicht oder DE-Sozialversicherungspflicht nach EU-VO 883/2004.
-- **Subject-to-Tax-Klausel im Protokoll**: § 50d Abs. 9 EStG kann bei Pensionseinkuenften mit Wohnsitz PL zum Rueckfall in die DE-Besteuerung fuehren — Pruefung anhand der polnischen ZUS-Rentenbescheinigung.
+- **Subject-to-Tax-Klausel im Protokoll**: § 50d Abs. 9 EStG kann bei Pensionseinkuenften mit Wohnsitz PL zum Rueckfall in die DE-Besteuerung fuehren — Prüfung anhand der polnischen ZUS-Rentenbescheinigung.
 - **Beteiligungsschwelle 10 Prozent**: Schachtel nach DBA bei direkter Beteiligung mindestens 10 Prozent (Art. 10 Abs. 2 Buchst. a); EU-MTRL setzt für 0-Prozent-Schachtel ebenfalls 10 Prozent voraus (§ 43b Abs. 2 EStG).
 
 ## Trade-offs
@@ -103,8 +103,8 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | QSt-Erstattung lokal vs. DE-Anrechnung Dividende | Antrag bei KAS auf Erstattung 15 → 5 Prozent oder 0 Prozent EU-MTRL | DE-Anrechnung nach § 34c EStG auf gesamte PL-QSt | Bei EU-Schachtel immer EU-MTRL-Befreiung; bei Streubesitz Wirtschaftlichkeitspruefung Erstattungsaufwand vs. Anrechnungs-Verlust |
-| Bau-Entsendung Dauer bei Annaeherung an 12 Monate | unter 12 Monaten: keine Betriebsstaette, Loehne Art. 15 nach 183-Tage-Pruefung | ueber 12 Monate: Betriebsstaette, polnische Lohnsteuerpflicht | bei Annaeherung an 12 Monate Werksvertraege nicht kuenstlich strecken — Pruefer rechnet zusammen bei Aktivitaeten desselben Bauherrn |
-| Wohnsitzwechsel DE → PL vor Veraeusserung | Veraeusserung als PL-Ansaessiger, ggf. PL-Steuer | Beibehaltung DE-Ansaessigkeit, DE-Besteuerung mit Anrechnung | Wegzugsbesteuerung § 6 AStG (PL ist EU — Stundung erleichtert) und PL-Eingangsbesteuerung zwingend vor Wegzug pruefen |
+| Bau-Entsendung Dauer bei Annaeherung an 12 Monate | unter 12 Monaten: keine Betriebsstaette, Loehne Art. 15 nach 183-Tage-Prüfung | über 12 Monate: Betriebsstaette, polnische Lohnsteuerpflicht | bei Annaeherung an 12 Monate Werksvertraege nicht kuenstlich strecken — Prüfer rechnet zusammen bei Aktivitaeten desselben Bauherrn |
+| Wohnsitzwechsel DE → PL vor Veraeusserung | Veraeusserung als PL-Ansaessiger, ggf. PL-Steuer | Beibehaltung DE-Ansaessigkeit, DE-Besteuerung mit Anrechnung | Wegzugsbesteuerung § 6 AStG (PL ist EU — Stundung erleichtert) und PL-Eingangsbesteuerung zwingend vor Wegzug prüfen |
 
 ## Berechnungsbeispiel
 
@@ -124,7 +124,7 @@ Bei Schachtel-Beteiligung 10 Prozent natuerlicher Person waere nach DBA der redu
 2. **Strukturierung**: Bei Bau-Entsendung 12-Monatsfrist; bei Pflege Werkvertrag-/AUe-Trennung und A1; bei Beteiligung EU-MTRL nutzen.
 3. **Antraege**: Ansaessigkeitsbescheinigung CFR-1 der Krajowa Administracja Skarbowa; A1-Bescheinigung Sozialversicherung; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: PL-Erklaerung jaehrlich (z.B. CIT-8 für Sp.z o.o.); DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive.
-5. **Audit-Vorbereitung**: PL-Pruefer formal und akribisch bei Verrechnungspreisen; DE-FA-Pruefung Subject-to-Tax und MLI-Anwendung ab VZ 2020.
+5. **Audit-Vorbereitung**: PL-Prüfer formal und akribisch bei Verrechnungspreisen; DE-FA-Prüfung Subject-to-Tax und MLI-Anwendung ab VZ 2020.
 
 ## Ausgabeformat für Mandanten-Memo Polen
 
@@ -150,6 +150,6 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-PL F
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Polen 14.05.2003, in Kraft 19.12.2004 (BGBl. 2004 II S. 1304). MLI-Anwendung ab VZ 2020. Quellensteuer-Saetze: Dividenden 5/15 Prozent, Zinsen 5 Prozent, Lizenzen 5 Prozent. 183-Tage-Zeitraum: 12-Monatszeitraum. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+Stand: 05/2026. DBA-Polen 14.05.2003, in Kraft 19.12.2004 (BGBl. 2004 II S. 1304). MLI-Anwendung ab VZ 2020. Quellensteuer-Saetze: Dividenden 5/15 Prozent, Zinsen 5 Prozent, Lizenzen 5 Prozent. 183-Tage-Zeitraum: 12-Monatszeitraum. Aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle, MLI-Status, Quellensteuer-Saetze, 12-Monatszeitraum), 2 gestrichen (BFH I R 86/13 betrifft Irland nicht Polen; BMF-Schreiben allgemein neu formuliert) -->

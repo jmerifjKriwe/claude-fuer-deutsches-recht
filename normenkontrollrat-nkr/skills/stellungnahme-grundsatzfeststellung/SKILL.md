@@ -40,7 +40,7 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 
 #### B) Mahnend-konstruktiv (haeufigster Fall)
 
-> Das Vorhaben sieht [Kurz-Inhalt] vor. Der NKR begruesst grundsaetzlich die Zielsetzung, da [Sachgrund]. Der NKR hat aber Bedenken zur konkreten Ausgestaltung, insbesondere im Hinblick auf [Hauptbedenken: Aufwand / Praktikabilitaet / Digital / KMU].
+> Das Vorhaben sieht [Kurz-Inhalt] vor. Der NKR begruesst grundsätzlich die Zielsetzung, da [Sachgrund]. Der NKR hat aber Bedenken zur konkreten Ausgestaltung, insbesondere im Hinblick auf [Hauptbedenken: Aufwand / Praktikabilitaet / Digital / KMU].
 
 #### C) Kritisch
 
@@ -64,7 +64,7 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 | Konstellation | Eingangsformulierung |
 |---|---|
 | Vollstaendig positiv | "begruesst" |
-| Ueberwiegend positiv | "begruesst grundsaetzlich" |
+| Ueberwiegend positiv | "begruesst grundsätzlich" |
 | Ambivalent | "nimmt zur Kenntnis" / "hat geprueft" |
 | Ueberwiegend kritisch | "hat Bedenken" |
 | Stark kritisch | "hat Zweifel" / "weist erhebliche Maengel auf" |
@@ -79,7 +79,7 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 
 ### Standardformeln Erforderlichkeit
 
-- "Der NKR begruesst grundsaetzlich die Zielsetzung, da [Sachgrund — z.B. die elektronische Erreichbarkeit der Gerichte gegenueber im Handelsregister eingetragenen Gesellschaften ein nachvollziehbares Regelungsbeduerfnis hat]."
+- "Der NKR begruesst grundsätzlich die Zielsetzung, da [Sachgrund — z.B. die elektronische Erreichbarkeit der Gerichte gegenueber im Handelsregister eingetragenen Gesellschaften ein nachvollziehbares Regelungsbeduerfnis hat]."
 - "Der NKR teilt die Einschaetzung der Ressorts, dass eine bundesweit einheitliche Regelung erforderlich ist."
 - "Der NKR hat Zweifel an der Erforderlichkeit, da [Sachgrund]."
 
@@ -91,7 +91,7 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 
 ### Vollbeispiel (Beispiel-Vorhaben elektronische Erreichbarkeit Handelsregister)
 
-> Das Vorhaben sieht vor, alle im Handelsregister eingetragenen Gesellschaften zu verpflichten, einen elektronischen Zustellungs-Kanal vorzuhalten und dessen Erreichbarkeit zu bestaetigen. Der NKR begruesst grundsaetzlich die Zielsetzung, da die elektronische Erreichbarkeit Verfahren beschleunigt und Justizkosten reduziert. Der NKR hat jedoch erhebliche Bedenken zur konkreten Ausgestaltung, insbesondere zur Frequenz der vorgesehenen Lebensbescheid-Pflicht, zur dezentralen Architektur und zum daraus resultierenden Erfuellungsaufwand für die Wirtschaft.
+> Das Vorhaben sieht vor, alle im Handelsregister eingetragenen Gesellschaften zu verpflichten, einen elektronischen Zustellungs-Kanal vorzuhalten und dessen Erreichbarkeit zu bestaetigen. Der NKR begruesst grundsätzlich die Zielsetzung, da die elektronische Erreichbarkeit Verfahren beschleunigt und Justizkosten reduziert. Der NKR hat jedoch erhebliche Bedenken zur konkreten Ausgestaltung, insbesondere zur Frequenz der vorgesehenen Lebensbescheid-Pflicht, zur dezentralen Architektur und zum daraus resultierenden Erfuellungsaufwand für die Wirtschaft.
 
 ## Typische Fehler in Stellungnahme-Entwuerfen
 
@@ -105,4 +105,4 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 6
 - §§ 45, 62 GGO
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Mustertexte und Praxisbeispiele
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

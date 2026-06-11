@@ -13,7 +13,7 @@ description: "Bestandskonten-Abstimmung zum Jahresabschluss. Anwendungsfall Endb
 
 ## Kernsachverhalt
 
-Vor dem JA-Endlauf muessen alle Bestandskonten (Klasse 0-3 SKR 03 bzw. entsprechende SKR-04-Konten) abgestimmt sein: Bank gegen Bankauszug, Kasse gegen Kassenbericht, Forderungen gegen Personenkonten, Anlagen gegen Anlagenspiegel, Eigenkapital gegen Gesellschaftervereinbarungen. Differenzen muessen aufgeklaert werden.
+Vor dem JA-Endlauf müssen alle Bestandskonten (Klasse 0-3 SKR 03 bzw. entsprechende SKR-04-Konten) abgestimmt sein: Bank gegen Bankauszug, Kasse gegen Kassenbericht, Forderungen gegen Personenkonten, Anlagen gegen Anlagenspiegel, Eigenkapital gegen Gesellschaftervereinbarungen. Differenzen müssen aufgeklaert werden.
 
 ## Kaltstart-Rueckfragen
 
@@ -34,7 +34,7 @@ Vor dem JA-Endlauf muessen alle Bestandskonten (Klasse 0-3 SKR 03 bzw. entsprech
 
 **§ 252 HGB** — Bewertungsgrundsaetze.
 
-**§ 253 HGB** — Bewertung Vermoegen.
+**§ 253 HGB** — Bewertung Vermögen.
 
 **§ 246 HGB** — Vollstaendigkeit.
 
@@ -64,11 +64,11 @@ Vor dem JA-Endlauf muessen alle Bestandskonten (Klasse 0-3 SKR 03 bzw. entsprech
 | Rueckstellungen | Bewertungsgrundlagen |
 | Eigenkapital | Gesellschaftervereinbarungen, Vorjahresvortrag |
 
-### Phase 2 — Differenzen klaeren
+### Phase 2 — Differenzen klären
 
 - Bei Hauptbuch-Nebenbuch-Differenzen: Personenkonto-Pflege.
 - Bei Bankabstimmungs-Differenzen: Cut-off-Buchungen.
-- Bei Vorraete-Differenzen: Inventur-Pruefung.
+- Bei Vorraete-Differenzen: Inventur-Prüfung.
 
 ### Phase 3 — Anpassungs-Buchungen
 
@@ -78,7 +78,7 @@ Vor dem JA-Endlauf muessen alle Bestandskonten (Klasse 0-3 SKR 03 bzw. entsprech
 
 ### Phase 4 — Werterhellung
 
-- Wesentliche Ereignisse zwischen Stichtag und Aufstellung pruefen.
+- Wesentliche Ereignisse zwischen Stichtag und Aufstellung prüfen.
 - Insolvenz-Antraege bei Schuldnern (Forderungsausfall-Risiko).
 - Wesentliche Vertragsabschluesse (Auswirkung auf Risiko/Rueckstellung).
 
@@ -96,10 +96,10 @@ Vor dem JA-Endlauf muessen alle Bestandskonten (Klasse 0-3 SKR 03 bzw. entsprech
 
 ## Strategie und Praxis-Tipps
 
-- Bestandskonten-Abstimmung ist Pflicht — nicht abgekuerzte Pruefung.
+- Bestandskonten-Abstimmung ist Pflicht — nicht abgekuerzte Prüfung.
 - Bei Pruefungspflicht: WP fordert Abstimmung formell.
 - Bei groesseren Mandanten: Saldenabstimmung mit Lieferanten/Kunden Standard.
-- Werterhellung-Pruefung kann erhebliche Auswirkungen haben.
+- Werterhellung-Prüfung kann erhebliche Auswirkungen haben.
 
 ## Quellen und Updates
 

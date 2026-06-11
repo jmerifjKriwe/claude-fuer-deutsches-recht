@@ -47,8 +47,8 @@ Die KI-Forschung zum Thema Bias entwickelt sich rasch weiter. Neue Erkenntnisse 
 - Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 KI-VO — Hochrisiko bei Bewerbungs-Screening, Personalauswahl und Beschäftigtenmanagement nach Zweckbestimmung
 
 ## Triage zu Beginn
-1. Fuer welchen Zweck wird das KI-System eingesetzt — Bewerberauswahl, Mandatszuordnung, Leistungsbewertung?
-2. Koennen Trainingsdaten historische Diskriminierungsmuster enthalten?
+1. Für welchen Zweck wird das KI-System eingesetzt — Bewerberauswahl, Mandatszuordnung, Leistungsbewertung?
+2. Können Trainingsdaten historische Diskriminierungsmuster enthalten?
 3. Sind schutzbeduerfte Gruppen nach AGG unverhältnismaessig betroffen?
 4. Wurde ein Bias-Test durchgefuehrt — und sind die Ergebnisse dokumentiert?
 5. Gibt es einen Widerspruchsmechanismus für Betroffene (Art. 22 Abs. 3 DSGVO)?

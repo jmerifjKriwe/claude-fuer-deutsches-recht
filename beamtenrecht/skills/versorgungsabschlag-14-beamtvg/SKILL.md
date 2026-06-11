@@ -15,7 +15,7 @@ description: "Skill zum Versorgungsabschlag bei vorzeitigem Eintritt in den Ruhe
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beamte, die einen Antragsruhestand vor Erreichen der Regelaltersgrenze pruefen oder die nach Ruhestandsversetzung den Versorgungsabschlag rechtlich angreifen wollen.
+Skill für Beamte, die einen Antragsruhestand vor Erreichen der Regelaltersgrenze prüfen oder die nach Ruhestandsversetzung den Versorgungsabschlag rechtlich angreifen wollen.
 
 ## 2. Eingaben
 
@@ -36,10 +36,10 @@ Skill für Beamte, die einen Antragsruhestand vor Erreichen der Regelaltersgrenz
 - Ruhestand wegen Dienstunfaehigkeit infolge Dienstunfall: kein Abschlag.
 
 ### c) Ausnahmen
-- Schwerbehindertenstatus mit Grad der Behinderung mindestens 50 ermoeglicht den abschlagsfreien Antragsruhestand mit Vollendung des 60. Lebensjahres (geltende Altersgrenzen pruefen).
+- Schwerbehindertenstatus mit Grad der Behinderung mindestens 50 ermoeglicht den abschlagsfreien Antragsruhestand mit Vollendung des 60. Lebensjahres (geltende Altersgrenzen prüfen).
 
 ### d) Verhaeltnis zur Altersteilzeit
-- Bei Blockmodellen der Altersteilzeit ist die Berechnung im Hinblick auf den Versorgungsabschlag besonders zu pruefen.
+- Bei Blockmodellen der Altersteilzeit ist die Berechnung im Hinblick auf den Versorgungsabschlag besonders zu prüfen.
 
 ### e) Rechtsschutz
 - Widerspruch gegen Versorgungsbescheid; Klage vor dem VG.
@@ -65,4 +65,4 @@ Skill für Beamte, die einen Antragsruhestand vor Erreichen der Regelaltersgrenz
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandantin 62 Jahre, Antragsruhestand zum Jahresende. Skill liefert Berechnung des Versorgungsabschlags und Hinweise auf Alternativen (Altersteilzeit Blockmodell, Pruefung Schwerbehinderung).
+Mandantin 62 Jahre, Antragsruhestand zum Jahresende. Skill liefert Berechnung des Versorgungsabschlags und Hinweise auf Alternativen (Altersteilzeit Blockmodell, Prüfung Schwerbehinderung).

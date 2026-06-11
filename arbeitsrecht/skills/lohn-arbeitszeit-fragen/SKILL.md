@@ -8,7 +8,7 @@ description: "Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG (Höchstarb
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Lohn Arbeitszeit Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Arbeitsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Lohn Arbeitszeit Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Arbeitsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -80,7 +80,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **01.01.2026: EUR 13,90 / Stunde** (Fuenfte Mindestlohnanpassungsverordnung)
 - 01.01.2027 (vorgesehen): EUR 14,60 / Stunde
 
-Anpassung durch Mindestlohnkommission gem. § 9 MiLoG; Umsetzung durch Verordnung des BMAS. Vor jedem Schriftsatz oder jeder Beratung aktuellen Wert in bundesregierung.de / bmas.de pruefen.
+Anpassung durch Mindestlohnkommission gem. § 9 MiLoG; Umsetzung durch Verordnung des BMAS. Vor jedem Schriftsatz oder jeder Beratung aktuellen Wert in bundesregierung.de / bmas.de prüfen.
 
 Hinweis: Die Minijob-Verdienstgrenze ist an den Mindestlohn gekoppelt; sie betraegt zum 01.01.2026 EUR 603 / Monat (Quelle: Deutsche Rentenversicherung Baden-Wuerttemberg, Pressemitteilung 22.12.2025).
 
@@ -144,7 +144,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Risiken / typische Fehler
 
-- **Aktualität des Mindestlohnsatzes** - Aktueller Wert: EUR 13,90 ab 01.01.2026 (Fuenfte Mindestlohnanpassungsverordnung); EUR 14,60 ab 01.01.2027 vorgesehen. Vor Ausgabe immer aktuellen Wert in bundesregierung.de / bmas.de pruefen.
-- **Tarifbindung ignoriert** - Branchentarifvertraege koennen hoehere Mindestloehne oder abweichende Arbeitszeiten vorsehen.
+- **Aktualität des Mindestlohnsatzes** - Aktueller Wert: EUR 13,90 ab 01.01.2026 (Fuenfte Mindestlohnanpassungsverordnung); EUR 14,60 ab 01.01.2027 vorgesehen. Vor Ausgabe immer aktuellen Wert in bundesregierung.de / bmas.de prüfen.
+- **Tarifbindung ignoriert** - Branchentarifvertraege können hoehere Mindestloehne oder abweichende Arbeitszeiten vorsehen.
 - **eAU-Umstellung uebersehen** - seit 01.01.2023 laeuft AU-Meldung digital; Arbeitgeber muss dies in HRIS-System abbilden.
-- **Arbeitszeiterfassungspflicht** - BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21 (Pflicht zur Arbeitszeiterfassung aus § 3 Abs. 2 Nr. 1 ArbSchG i.V.m. EuGH C-55/18 "CCOO"). Gesetzgeberische Konkretisierung im ArbZG noch ausstehend, Stand vor Ausgabe pruefen. Quelle: dejure.org-Vernetzung BAG 13.09.2022 - 1 ABR 22/21.
+- **Arbeitszeiterfassungspflicht** - BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21 (Pflicht zur Arbeitszeiterfassung aus § 3 Abs. 2 Nr. 1 ArbSchG i.V.m. EuGH C-55/18 "CCOO"). Gesetzgeberische Konkretisierung im ArbZG noch ausstehend, Stand vor Ausgabe prüfen. Quelle: dejure.org-Vernetzung BAG 13.09.2022 - 1 ABR 22/21.

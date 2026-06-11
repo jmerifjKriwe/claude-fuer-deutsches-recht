@@ -49,7 +49,7 @@ description: "Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 In
 
 ## Verteidigungsstrategien
 
-- Pruefen des Tatbestands.
+- Prüfen des Tatbestands.
 - Verschulden des Schuldners?
 - Geringfuegigkeit (Bagatellgrenze in einzelnen Faellen).
 - Glaeubiger-Stellungnahme einholen.

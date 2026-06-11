@@ -22,7 +22,7 @@ description: "Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Par
 
 ## Worum geht es
 
-Paragraph 106 UrhG ist der zentrale Straftatbestand des Urheberstrafrechts. Geschuetzt ist das ausschliessliche Verwertungsrecht des Urhebers (Paragraphen 15 ff. UrhG). Klassische Fallgruppen: Filesharing in Tauschboersen, Verkauf von Bootlegs auf Marktplaetzen, Streaming aus illegalen Quellen ueber Linkportale, Software-Raubkopien im Unternehmen, unerlaubte Uebernahme von Texten, Fotos oder Musikstuecken. Praktisch fast immer parallel zu zivilrechtlicher Abmahnung (Paragraphen 97, 97a UrhG); die Strafanzeige wird oft als Druckmittel im Zivilverfahren eingesetzt.
+Paragraph 106 UrhG ist der zentrale Straftatbestand des Urheberstrafrechts. Geschuetzt ist das ausschliessliche Verwertungsrecht des Urhebers (Paragraphen 15 ff. UrhG). Klassische Fallgruppen: Filesharing in Tauschboersen, Verkauf von Bootlegs auf Marktplaetzen, Streaming aus illegalen Quellen über Linkportale, Software-Raubkopien im Unternehmen, unerlaubte Uebernahme von Texten, Fotos oder Musikstuecken. Praktisch fast immer parallel zu zivilrechtlicher Abmahnung (Paragraphen 97, 97a UrhG); die Strafanzeige wird oft als Druckmittel im Zivilverfahren eingesetzt.
 
 Der Strafrahmen reicht bis drei Jahre Freiheitsstrafe oder Geldstrafe. Die gewerbsmäßige Begehung verlagert sich in Paragraph 108a UrhG (bis fuenf Jahre). Der Tatbestand ist Antragsdelikt nach Paragraph 109 UrhG, es sei denn, die Strafverfolgungsbehoerde bejaht ein besonderes öffentliches Interesse.
 
@@ -32,7 +32,7 @@ Tathandlungen sind Vervielfaeltigen, Verbreiten und öffentliche Wiedergabe eine
 
 - **Vervielfaeltigung** Paragraph 16 UrhG: jede koerperliche Festlegung. Erfasst auch das Speichern auf der Festplatte, auf USB-Stick, in der Cloud, auch jede Kopie im Arbeitsspeicher, sofern nicht durch Paragraph 44a UrhG (fluechtige technische Vervielfaeltigung) gedeckt.
 - **Verbreitung** Paragraph 17 UrhG: das Inverkehrbringen koerperlicher Werkstuecke. Hand-zu-Hand-Verkauf, Versand, Aushaendigung. Erschoepfungsgrundsatz bei rechtmaessig erstmalig in Verkehr gebrachten Werkstuecken im EWR.
-- **Oeffentliche Wiedergabe** Paragraph 19a UrhG (Bereitstellung im Netz): das Bereithalten in einem Tauschordner, das Hochladen auf eine Plattform, das Anbieten ueber Link.
+- **Oeffentliche Wiedergabe** Paragraph 19a UrhG (Bereitstellung im Netz): das Bereithalten in einem Tauschordner, das Hochladen auf eine Plattform, das Anbieten über Link.
 
 Tatobjekt ist ein urheberrechtlich geschuetztes Werk im Sinne von Paragraph 2 UrhG (persönliche geistige Schoepfung, Schoepfungshoehe). Geschuetzt sind auch Bearbeitungen (Paragraph 3 UrhG) und Sammelwerke (Paragraph 4 UrhG). Lichtbildwerke und Lichtbilder werden in Paragraph 72 UrhG eigenstaendig erfasst (verwandtes Schutzrecht; eigene Strafnorm Paragraph 108 UrhG, dort).
 
@@ -40,16 +40,16 @@ Subjektiv ist Vorsatz erforderlich, mindestens dolus eventualis. Der Vorsatz mus
 
 ## Strafantrag und Antragsbefugnis
 
-Die Tat wird grundsaetzlich nur auf Antrag verfolgt (Paragraph 109 UrhG). Ausnahme: Strafverfolgungsbehoerde bejaht ein besonderes öffentliches Interesse an der Strafverfolgung. Antragsberechtigt sind der Urheber, der ausschliessliche Lizenznehmer (umstritten, eher restriktiv) und der Erbe.
+Die Tat wird grundsätzlich nur auf Antrag verfolgt (Paragraph 109 UrhG). Ausnahme: Strafverfolgungsbehoerde bejaht ein besonderes öffentliches Interesse an der Strafverfolgung. Antragsberechtigt sind der Urheber, der ausschliessliche Lizenznehmer (umstritten, eher restriktiv) und der Erbe.
 
 Antragsfrist Paragraph 77b StGB: drei Monate ab Kenntnis von Tat und Taeter durch den Antragsberechtigten. Bei mehreren Antragsberechtigten genuegt der Antrag eines einzelnen. Die Frist beginnt mit positiver Kenntnis, nicht mit Kennensollen. Bei juristischen Personen ist auf die Kenntnis des nach aussen vertretungsberechtigten Organs abzustellen.
 
 ## Praktikertipps der Verteidigung
 
-- **Werkqualitaet bestreiten.** Vor allem bei kurzen Texten, einfachen Fotos, Standardgrafiken: Schoepfungshoehe pruefen. EuGH-Linie zur "eigenen geistigen Schoepfung" (Painer-Rechtsprechung) heranziehen, BGH staendige Rspr. zur Kleinen Muenze.
-- **Erschoepfungseinwand bei Hardware-Resell.** Wenn Mandant gebrauchte DVDs, Bluerays, Software-Datentraeger oder Buecher weiterverkauft hat: Paragraph 17 Abs 2 UrhG (Erschoepfung) greift, wenn das Stueck rechtmaessig im EWR in Verkehr gebracht wurde. UsedSoft-Rspr. EuGH zur Software-Erstkopie pruefen.
-- **Schranken pruefen.** Paragraph 51 UrhG Zitat, Paragraph 53 UrhG private Vervielfaeltigung, Paragraphen 60a ff. UrhG Wissenschaft und Bildung. Insbesondere Paragraph 53 Abs 1 UrhG schuetzt einzelne Kopien zum privaten Gebrauch, sofern die Vorlage nicht offensichtlich rechtswidrig war.
-- **Vorsatz erschuettern.** Bei Streaming gilt: vor EuGH-Urteil C-527/15 (Filmspeler) und EuGH C-610/15 (Stichting Brein) war die Rechtslage zur privaten Konsumkopie aus illegaler Quelle umstritten. Bei alten Sachverhalten oder bei juristisch ungeklaerter Lage Verbotsirrtum Paragraph 17 StGB pruefen.
+- **Werkqualitaet bestreiten.** Vor allem bei kurzen Texten, einfachen Fotos, Standardgrafiken: Schoepfungshoehe prüfen. EuGH-Linie zur "eigenen geistigen Schoepfung" (Painer-Rechtsprechung) heranziehen, BGH staendige Rspr. zur Kleinen Muenze.
+- **Erschoepfungseinwand bei Hardware-Resell.** Wenn Mandant gebrauchte DVDs, Bluerays, Software-Datentraeger oder Buecher weiterverkauft hat: Paragraph 17 Abs 2 UrhG (Erschoepfung) greift, wenn das Stueck rechtmaessig im EWR in Verkehr gebracht wurde. UsedSoft-Rspr. EuGH zur Software-Erstkopie prüfen.
+- **Schranken prüfen.** Paragraph 51 UrhG Zitat, Paragraph 53 UrhG private Vervielfaeltigung, Paragraphen 60a ff. UrhG Wissenschaft und Bildung. Insbesondere Paragraph 53 Abs 1 UrhG schuetzt einzelne Kopien zum privaten Gebrauch, sofern die Vorlage nicht offensichtlich rechtswidrig war.
+- **Vorsatz erschuettern.** Bei Streaming gilt: vor EuGH-Urteil C-527/15 (Filmspeler) und EuGH C-610/15 (Stichting Brein) war die Rechtslage zur privaten Konsumkopie aus illegaler Quelle umstritten. Bei alten Sachverhalten oder bei juristisch ungeklaerter Lage Verbotsirrtum Paragraph 17 StGB prüfen.
 - **Beweisproblem IP-Adresse.** Eine IP-Adresse identifiziert nur den Anschluss, nicht den Taeter. BGH staendige Rspr. zur sekundaeren Darlegungslast im Zivilverfahren (Filesharing-Linie) ist im Strafverfahren nicht uebertragbar; im Strafverfahren gilt Unschuldsvermutung.
 
 ## Trade-off-Matrix
@@ -63,9 +63,9 @@ Privatklage Paragraph 374 StPO: Paragraph 106 UrhG ist Privatklagedelikt. Staats
 ## Konkurrenzen
 
 - **Paragraph 106 UrhG und Paragraph 108a UrhG.** Gewerbsmaessigkeit verdraengt den Grundtatbestand (Spezialitaet).
-- **Paragraph 106 UrhG und Paragraph 263 StGB Betrug.** Bei taeuschendem Vertrieb von Raubkopien gegen Bezahlung Tateinheit moeglich.
+- **Paragraph 106 UrhG und Paragraph 263 StGB Betrug.** Bei taeuschendem Vertrieb von Raubkopien gegen Bezahlung Tateinheit möglich.
 - **Paragraph 106 UrhG und Paragraph 143 MarkenG.** Wenn Raubkopie mit Originalmarke vertrieben wird, Tateinheit zwischen Urheber- und Markenstrafrecht.
-- **Paragraph 106 UrhG und Paragraph 17 UWG aF / Paragraph 23 GeschGehG.** Bei Quellcode-Diebstahl Software pruefen.
+- **Paragraph 106 UrhG und Paragraph 17 UWG aF / Paragraph 23 GeschGehG.** Bei Quellcode-Diebstahl Software prüfen.
 
 ## Strafzumessung
 
@@ -73,20 +73,20 @@ Strafrahmen Paragraph 106 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldst
 
 - **Einziehung des Tatobjekts** Paragraph 74 StGB: Raubkopien, Datentraeger, Press- und Vervielfaeltigungsgeraete. Paragraph 110 UrhG ist Sondereinziehungsnorm für Werkstuecke und Vorrichtungen.
 - **Gewinnabschoepfung** Paragraph 73 StGB iVm Paragraph 73c StGB: Wertersatz des erlangten Etwas. Bei kommerziellem Vertrieb von Raubkopien wird der erlangte Umsatz abgeschoepft (Bruttoprinzip BGH staendige Rspr.).
-- **Berufsverbot** Paragraph 70 StGB bei gewerblicher Begehung als Hochladen-Dienstleister moeglich, in der Praxis selten.
+- **Berufsverbot** Paragraph 70 StGB bei gewerblicher Begehung als Hochladen-Dienstleister möglich, in der Praxis selten.
 
 ## Mustertexte
 
-**Strafantrag (Snippet):** "Namens und mit Vollmacht meiner Mandantin, der X GmbH als Inhaberin der ausschliesslichen Verwertungsrechte am Werk Y (Anlage K 1), stelle ich gemaess Paragraph 109 UrhG iVm Paragraph 158 StPO Strafantrag wegen unerlaubter Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Die Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt; die Frist nach Paragraph 77b StGB ist gewahrt. Antrag wird gestellt; ein besonderes öffentliches Interesse wird bejaht, da die Verbreitungshandlung ueber die Plattform Z eine Vielzahl von Nutzern erreicht hat (vgl. Logdaten Anlage K 2)."
+**Strafantrag (Snippet):** "Namens und mit Vollmacht meiner Mandantin, der X GmbH als Inhaberin der ausschliesslichen Verwertungsrechte am Werk Y (Anlage K 1), stelle ich gemäß Paragraph 109 UrhG iVm Paragraph 158 StPO Strafantrag wegen unerlaubter Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Die Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt; die Frist nach Paragraph 77b StGB ist gewahrt. Antrag wird gestellt; ein besonderes öffentliches Interesse wird bejaht, da die Verbreitungshandlung über die Plattform Z eine Vielzahl von Nutzern erreicht hat (vgl. Logdaten Anlage K 2)."
 
-**Schutzschrift-Snippet:** "Mein Mandant hat die ihm zur Last gelegte Datei am DD.MM.JJJJ ueber das Streamingportal Z konsumiert. Eine Vervielfaeltigung im Sinne von Paragraph 16 UrhG hat nicht stattgefunden, da nur fluechtige Speicherung im Sinne von Paragraph 44a UrhG erfolgte. Eine Bereitstellung im Sinne von Paragraph 19a UrhG ist mit dem reinen Streamingvorgang nicht verbunden; auf die EuGH-Rspr. zur Trennung von Stream und Upload wird verwiesen."
+**Schutzschrift-Snippet:** "Mein Mandant hat die ihm zur Last gelegte Datei am DD.MM.JJJJ über das Streamingportal Z konsumiert. Eine Vervielfaeltigung im Sinne von Paragraph 16 UrhG hat nicht stattgefunden, da nur fluechtige Speicherung im Sinne von Paragraph 44a UrhG erfolgte. Eine Bereitstellung im Sinne von Paragraph 19a UrhG ist mit dem reinen Streamingvorgang nicht verbunden; auf die EuGH-Rspr. zur Trennung von Stream und Upload wird verwiesen."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten einzuholen zum Beweis der Tatsache, dass die streitgegenstaendliche Grafik auf S. 3 der Anlage A1 keine persönliche geistige Schoepfung im Sinne von Paragraph 2 Abs 2 UrhG darstellt, sondern eine einfache geometrische Standardform."
 
 ## Verfahrensschritte im Mandat
 
-1. **Erstgespraech und Akteneinsicht.** Vollmacht, Schweigepflichtentbindung, Vermerk zur Beschuldigteneigenschaft, Antrag auf Akteneinsicht Paragraph 147 StPO. Klaeren, ob die Anzeige durch Rechteinhaber oder Zoll erstattet wurde.
-2. **Pruefung Strafantrag und Frist.** Paragraph 109 UrhG iVm Paragraph 77b StGB: Drei-Monats-Frist ab Kenntnis berechnen; bei Verspaetung Antrag auf Einstellung Paragraph 170 Abs 2 StPO.
+1. **Erstgespraech und Akteneinsicht.** Vollmacht, Schweigepflichtentbindung, Vermerk zur Beschuldigteneigenschaft, Antrag auf Akteneinsicht Paragraph 147 StPO. Klären, ob die Anzeige durch Rechteinhaber oder Zoll erstattet wurde.
+2. **Prüfung Strafantrag und Frist.** Paragraph 109 UrhG iVm Paragraph 77b StGB: Drei-Monats-Frist ab Kenntnis berechnen; bei Verspaetung Antrag auf Einstellung Paragraph 170 Abs 2 StPO.
 3. **Sachverhalt aufnehmen.** Datentraeger, Downloads, Verkaufslisten, IP-Adressen, Plattform-Logs. IT-Forensik parallel zur Beschlagnahme.
 4. **Schutzanalyse.** Werk- und Schoepfungshoehepruefung, Schrankenregelungen (Paragraphen 44a, 51, 53 UrhG), Erschoepfungseinwand.
 5. **Vergleichsgespraech mit Rechteinhaber.** Lizenzgebuehrenanalogie als Schadensbasis; Verpflichtung zur Antragsruecknahme Paragraph 77d StGB vereinbaren.

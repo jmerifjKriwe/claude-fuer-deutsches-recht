@@ -3,7 +3,7 @@ name: tiertransport-schutzbedarf-pruefen
 description: "Tiertransport: Schutzbedarf prüfen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Tiertransport Schutzbedarf Pruefen
+# Tiertransport Schutzbedarf Prüfen
 
 ## Arbeitsweg
 

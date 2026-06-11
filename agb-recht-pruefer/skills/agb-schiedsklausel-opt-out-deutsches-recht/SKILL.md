@@ -28,9 +28,9 @@ description: "Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie 
 - **Bruessel-Ia-VO (1215/2012)** Art. 25: Gerichtsstandsvereinbarungen mit Verbraucherbeschraenkungen Art. 19. Schiedsabreden sind ausgenommen (Art. 1 Abs. 2 Buchst. d), aber praktische Wechselwirkung.
 
 ### Schiedsklauseln in B2B
-- AGB-rechtlich grundsaetzlich zulaessig.
+- AGB-rechtlich grundsätzlich zulässig.
 - Inhaltskontrolle nach § 307 BGB: kein unangemessenes Hindernis für den Rechtsweg.
-- BGH-Linie seit BGHZ 199, 268 (Az im Digitalisat verifizieren): Schiedsklausel in B2B-AGB zulaessig, wenn Streitwert und Branchenuebung passen.
+- BGH-Linie seit BGHZ 199, 268 (Az im Digitalisat verifizieren): Schiedsklausel in B2B-AGB zulässig, wenn Streitwert und Branchenuebung passen.
 
 ### Anwendet das Schiedsgericht zwingend deutsches AGB-Recht?
 - Wenn deutsches Recht als Schiedsstatut gewaehlt: ja.

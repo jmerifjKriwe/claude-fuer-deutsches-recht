@@ -28,7 +28,7 @@ description: "Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Bea
 
 1. Widerspruch innerhalb 1 Monats nach Bezuegemitteilung.
 2. Bei Ablehnung: Klage VG.
-3. Aussetzung des Verfahrens und Vorlage BVerfG nach Art. 100 GG moeglich.
+3. Aussetzung des Verfahrens und Vorlage BVerfG nach Art. 100 GG möglich.
 
 ## BVerfG-Vorlage Art. 100 GG
 

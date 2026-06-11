@@ -14,23 +14,23 @@ description: "Kreuzfahrtschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Stre
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine Bank will nach Kreditausfall aus der Hypothek am Kreuzfahrtschiff oder grosses Fahrgastschiff vollstrecken. Mehrere Gläubiger streiten um den Versteigerungserlös des Kreuzfahrtschiff oder grosses Fahrgastschiff. Ein Reeder prüft, ob ein freiwilliger Verkauf günstiger ist als die Zwangsversteigerung.
+Eine Bank will nach Kreditausfall aus der Hypothek am Kreuzfahrtschiff oder großes Fahrgastschiff vollstrecken. Mehrere Gläubiger streiten um den Versteigerungserlös des Kreuzfahrtschiff oder großes Fahrgastschiff. Ein Reeder prüft, ob ein freiwilliger Verkauf günstiger ist als die Zwangsversteigerung.
 
 ## Erste Schritte
-1. Schiffswert des Kreuzfahrtschiff oder grosses Fahrgastschiff ermitteln: aktuelles Schätzgutachten beschaffen.
+1. Schiffswert des Kreuzfahrtschiff oder großes Fahrgastschiff ermitteln: aktuelles Schätzgutachten beschaffen.
 2. Glaeubigerrangfolge aufstellen: gesetzliche Vorrechte dann Hypotheken nach Rang.
 3. ZPO §§ 864-871 Zwangsversteigerung: Zeitaufwand; Kosten; erwarteter Erloes.
-4. Einvernehmlichen Verkauf pruefen: schneller und guenstiger wenn Reeder kooperiert.
+4. Einvernehmlichen Verkauf prüfen: schneller und guenstiger wenn Reeder kooperiert.
 5. Insolvenzantrag als taktisches Mittel: Arrests anderer Glaeubiger stoppen.
-6. Schiedsklausel im Kreditvertrag pruefen: London Arbitration oder deutsches Gericht?
+6. Schiedsklausel im Kreditvertrag prüfen: London Arbitration oder deutsches Gericht?
 
 ## Rechtsrahmen
 - ZPO §§ 864-871 Zwangsversteigerung; InsO §§ 49-51 Absonderung; HGB §§ 596-601 Vorrangrechte; SchRG §§ 59-74 Rang.
 
 ## Prüfraster
-- Uebersteigt Schiffswert des Kreuzfahrtschiff oder grosses Fahrgastschiff die Kreditvaluta?
+- Uebersteigt Schiffswert des Kreuzfahrtschiff oder großes Fahrgastschiff die Kreditvaluta?
 - Gibt es erstrangige Vorrechte die den Erloes aufzehren?
-- Ist einvernehmlicher Verkauf moeglich?
+- Ist einvernehmlicher Verkauf möglich?
 - Droht auslaendische Vollstreckung das deutsche Verfahren zu unterlaufen?
 - Ist Insolvenzantrag taktisch sinnvoll?
 

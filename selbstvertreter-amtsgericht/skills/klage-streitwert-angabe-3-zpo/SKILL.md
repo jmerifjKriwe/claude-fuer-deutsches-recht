@@ -7,7 +7,7 @@ description: "Berechnung und Angabe des Streitwerts in der Klage nach § 3 ZPO �
 
 ## Worum geht es?
 
-Der Streitwert ist der Geldwert des Streits. Er ist Basis für die Gerichtskosten und entscheidet ueber die sachliche Zuständigkeit (AG vs. LG). Sie muessen ihn in der Klage angeben (§ 253 III ZPO). Bei Geldforderung ist es einfach: der Forderungsbetrag. Bei anderen Klagen ist es teils Schaetzung.
+Der Streitwert ist der Geldwert des Streits. Er ist Basis für die Gerichtskosten und entscheidet über die sachliche Zuständigkeit (AG vs. LG). Sie müssen ihn in der Klage angeben (§ 253 III ZPO). Bei Geldforderung ist es einfach: der Forderungsbetrag. Bei anderen Klagen ist es teils Schaetzung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -39,7 +39,7 @@ Der Streitwert ist der Geldwert des Streits. Er ist Basis für die Gerichtskoste
 - **Mehrere Geldforderungen**: Addition § 5 ZPO.
 - **Wiederkehrende Leistungen** (Unterhalt, Rente, Mietzins): 3,5-facher Jahresbetrag § 9 ZPO.
 - **Herausgabe Sache**: Wert der Sache.
-- **Unterlassung**: Schaetzung des Klaeger-Interesses.
+- **Unterlassung**: Schaetzung des Kläger-Interesses.
 - **Mietsache (Wohnraum, Raeumung)**: § 41 GKG Jahresnettomiete.
 - **Feststellung**: typisch 80 % des positiven Anspruchswerts.
 
@@ -93,21 +93,21 @@ gemaess § 41 GKG)
 
 ### Schritt 5 — Vorlaeufige Angabe — endgueltige Festsetzung
 
-Sie geben einen plausiblen Streitwert vorlaeufig an. Das Gericht setzt am Ende des Verfahrens den Streitwert endgueltig fest (§ 63 GKG). Wenn Ihre Schaetzung zu niedrig war, koennen Sie Nachzahlung beim Gericht haben.
+Sie geben einen plausiblen Streitwert vorlaeufig an. Das Gericht setzt am Ende des Verfahrens den Streitwert endgueltig fest (§ 63 GKG). Wenn Ihre Schaetzung zu niedrig war, können Sie Nachzahlung beim Gericht haben.
 
 ### Schritt 6 — Nebenforderungen
 
 - Zinsen, Mahnkosten, Kosten — **bleiben** als Nebenforderung **ausserhalb** des Streitwerts (§ 4 ZPO).
-- Aber: in Gegenleistungs- oder Verzugschaden vermischt — Pruefung im Einzelfall.
+- Aber: in Gegenleistungs- oder Verzugschaden vermischt — Prüfung im Einzelfall.
 
-### Schritt 7 — Streit ueber Streitwert
+### Schritt 7 — Streit über Streitwert
 
-Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO). Sie koennen Beschwerde gegen Streitwert-Festsetzung einlegen (§ 68 GKG).
+Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO). Sie können Beschwerde gegen Streitwert-Festsetzung einlegen (§ 68 GKG).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Zuständigkeitsrelevant**: Streitwert entscheidet, ob AG oder LG.
-- **Wertgrenze § 23 Nr. 1 GVG**: 10.000 EUR seit 01.01.2026 (Anhebung von 5.000 EUR durch das Justizstandort-Staerkungsgesetz). Bei Klagen aus Uebergangszeit Stichtag pruefen.
+- **Wertgrenze § 23 Nr. 1 GVG**: 10.000 EUR seit 01.01.2026 (Anhebung von 5.000 EUR durch das Justizstandort-Staerkungsgesetz). Bei Klagen aus Uebergangszeit Stichtag prüfen.
 - **Mietsache § 41 GKG**: Bei Wohnraum-Streit nicht zaehlt der konkrete Streitbetrag, sondern Jahresnettomiete.
 - **Nebenforderungen** zaehlen nicht (Zinsen, Kosten — § 4 ZPO).
 
@@ -115,7 +115,7 @@ Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO).
 
 - "Streitwert ist meine Forderung + Zinsen." → Zinsen sind Nebenforderung, zaehlen **nicht**.
 - "Bei Raeumung ist Streitwert der Mietausstand." → Falsch. Bei Wohnraum-Raeumung Jahresnettomiete § 41 GKG.
-- "Streitwert weglassen, das Gericht berechnet." → Sie muessen ihn angeben (§ 253 III ZPO).
+- "Streitwert weglassen, das Gericht berechnet." → Sie müssen ihn angeben (§ 253 III ZPO).
 - "Streitwert zu niedrig angeben, um Gericht zu schmieren." → Funktioniert nicht; Gericht setzt unabhaengig fest.
 
 ## Quellen und Aktualitaet

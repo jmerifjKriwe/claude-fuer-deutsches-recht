@@ -15,16 +15,16 @@ description: "Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Ti
 
 ## Mandantenfall
 
-- Kunsthaendler moechte Elfenbein-Schnitzereien aus den 1960er Jahren importieren; CITES-Status klaeren.
+- Kunsthaendler moechte Elfenbein-Schnitzereien aus den 1960er Jahren importieren; CITES-Status klären.
 - Reptilienhaendler exportiert Terrarien-Tiere; welche CITES-Genehmigungen erforderlich?
-- Moebelhaendler bezieht Holz aus tropischen Ländern; CITES-Holzarten pruefen.
+- Moebelhaendler bezieht Holz aus tropischen Ländern; CITES-Holzarten prüfen.
 
 ## Erste Schritte
 
-1. Art und Anhang-Einstufung in CITES-Anhang A-D (VO 338/97) und CITES-Appendix I-III pruefen.
-2. Fuer Anhang A/B: Aus- und Einfuhrgenehmigung bei zuständiger Behörde beantragen (BfN/Landeslbehoerden).
-3. Fuer Anhang C: Exportbescheinigung des Herkunftslandes und Einfuhrnotifizierung.
-4. Fuer Pre-Convention-Objekte: Herkunftsnachweis vor CITES-Listierung (Art. 2 Abs. 2 VO 338/97).
+1. Art und Anhang-Einstufung in CITES-Anhang A-D (VO 338/97) und CITES-Appendix I-III prüfen.
+2. Für Anhang A/B: Aus- und Einfuhrgenehmigung bei zuständiger Behörde beantragen (BfN/Landeslbehoerden).
+3. Für Anhang C: Exportbescheinigung des Herkunftslandes und Einfuhrnotifizierung.
+4. Für Pre-Convention-Objekte: Herkunftsnachweis vor CITES-Listierung (Art. 2 Abs. 2 VO 338/97).
 5. Zollanmeldung mit CITES-Referenz und Genehmigungsnummer.
 6. Archivierung und Aufbewahrung aller CITES-Unterlagen (Lebensdauer des Exemplars).
 
@@ -47,9 +47,9 @@ description: "Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Ti
 
 ## Typische Fallstricke
 
-- CITES-Anhang-Einstufung aendert sich; Jahreslisten pruefen.
+- CITES-Anhang-Einstufung aendert sich; Jahreslisten prüfen.
 - Pre-Convention-Ausnahme ist eng; Beweislast liegt beim Importeur.
-- Illegale CITES-Waren koennen nicht nachtraeglich legalisiert werden.
+- Illegale CITES-Waren können nicht nachtraeglich legalisiert werden.
 - Zoll und Strafverfolgungsbehoerden kooperieren bei CITES-Kontrollen intensiv.
 
 ## Schnittstellen zu anderen Skills

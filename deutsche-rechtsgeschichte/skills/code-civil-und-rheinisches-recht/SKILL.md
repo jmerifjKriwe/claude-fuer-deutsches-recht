@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht
 
 ## Worum es geht
 
-Der Code Civil (CC) trat am 21. Maerz 1804 in Kraft und galt im linksrheinischen Deutschland (Rheinland, Teile von Westfalen) unter napoleonischer Herrschaft ab 1804/1809. Nach der Befreiung 1814/15 blieb der CC im Rheinland als rheinisches Recht in Kraft. Preussen beibehielt ihn im Rheinland bis 1900. Das rheinische Recht hatte eine eigene Gerichts- und Anwaltskultur (Cour d'appel, spaeter Appellationsgericht Koeln). Die Thibaut-Savigny-Kontroverse 1814 drehte sich auch um die Frage, ob ein gesamtdeutsches Gesetzbuch das CC-Modell imitieren sollte.
+Der Code Civil (CC) trat am 21. Maerz 1804 in Kraft und galt im linksrheinischen Deutschland (Rheinland, Teile von Westfalen) unter napoleonischer Herrschaft ab 1804/1809. Nach der Befreiung 1814/15 blieb der CC im Rheinland als rheinisches Recht in Kraft. Preussen beibehielt ihn im Rheinland bis 1900. Das rheinische Recht hatte eine eigene Gerichts- und Anwaltskultur (Cour d'appel, später Appellationsgericht Koeln). Die Thibaut-Savigny-Kontroverse 1814 drehte sich auch um die Frage, ob ein gesamtdeutsches Gesetzbuch das CC-Modell imitieren sollte.
 
 ## Kernnormen / Kernquellen
 
@@ -23,7 +23,7 @@ Der Code Civil (CC) trat am 21. Maerz 1804 in Kraft und galt im linksrheinischen
 - **Code Civil Art. 1382**: Deliktsrecht, Generalklausel der deliktischen Haftung
 - **Code Civil Art. 1134**: Pacta sunt servanda, Vertragsfreiheit
 - **Rheinisches Recht in Preussen**: Beibehaltung bis EGBGB-Uebergangsrecht 1900
-- **Thibaut, Ueber die Notwendigkeit eines allgemeinen buergerlichen Rechts** (1814): Kodifikationsforderung
+- **Thibaut, Über die Notwendigkeit eines allgemeinen buergerlichen Rechts** (1814): Kodifikationsforderung
 
 ## Akteure und Institutionen
 

@@ -13,12 +13,12 @@ description: "DSGVO Artikel 15 Auskunft zur Sozialakte. Skill erklaert das Ausku
 
 ## Anspruch
 
-Art. 15 DSGVO: Recht auf Auskunft ueber verarbeitete personenbezogene Daten.
+Art. 15 DSGVO: Recht auf Auskunft über verarbeitete personenbezogene Daten.
 
 ## Verhaeltnis zu § 25 SGB X
 
 - DSGVO und SGB X stehen parallel.
-- Versicherte koennen sich auf beide Anspruchsgrundlagen berufen.
+- Versicherte können sich auf beide Anspruchsgrundlagen berufen.
 
 ## Inhalt der Auskunft
 
@@ -36,7 +36,7 @@ Art. 15 DSGVO: Recht auf Auskunft ueber verarbeitete personenbezogene Daten.
 ## Kostenfreiheit
 
 - Erste Auskunft kostenfrei.
-- Bei wiederholten Auskuenften Kostenpauschale moeglich.
+- Bei wiederholten Auskuenften Kostenpauschale möglich.
 
 ## Beschwerde
 
@@ -46,11 +46,11 @@ Art. 15 DSGVO: Recht auf Auskunft ueber verarbeitete personenbezogene Daten.
 
 ## Vorlage
 
-"Hiermit beantrage ich nach Art. 15 DSGVO Auskunft ueber alle zu meiner Person verarbeiteten personenbezogenen Daten. Insbesondere bitte ich um Mitteilung der Datenkategorien, der Empfaenger, der Speicherdauer und der Herkunft. Hilfsweise beantrage ich Akteneinsicht nach § 25 SGB X."
+"Hiermit beantrage ich nach Art. 15 DSGVO Auskunft über alle zu meiner Person verarbeiteten personenbezogenen Daten. Insbesondere bitte ich um Mitteilung der Datenkategorien, der Empfaenger, der Speicherdauer und der Herkunft. Hilfsweise beantrage ich Akteneinsicht nach § 25 SGB X."
 
 ## Pruefraster
 
 1. Antrag formuliert?
 2. Frist gewahrt?
-3. Vollstaendigkeit der Auskunft pruefen?
+3. Vollstaendigkeit der Auskunft prüfen?
 4. Beschwerde an Aufsichtsbehoerde noetig?

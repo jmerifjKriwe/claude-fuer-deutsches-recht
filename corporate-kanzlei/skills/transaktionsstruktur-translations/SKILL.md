@@ -141,16 +141,16 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 | Kriterium | Share Deal | Asset Deal |
 |---|---|---|
-| Steuer (Kaeufer) | Keine Abschreibung auf erworbene Assets (nur GoF) | Neue AfA-Grundlage auf alle Wirtschaftsgueter; step-up moeglich |
+| Steuer (Kaeufer) | Keine Abschreibung auf erworbene Assets (nur GoF) | Neue AfA-Grundlage auf alle Wirtschaftsgueter; step-up möglich |
 | Steuer (Verkaefer) | Meist 95 % steuerbefreit (§ 8b KStG) | Vollstaendige Besteuerung des Veraeusserungsgewinns |
-| Verbindlichkeiten | Gehen mit ueber (bekannte und unbekannte) | Nur explizit vereinbarte Verbindlichkeiten gehen ueber |
-| Vertragsuebergang | Automatisch (mit CoC-Risiko) | Nur explizit uebergehende Vertraege (Zustimmung der Gegenpartei) |
+| Verbindlichkeiten | Gehen mit über (bekannte und unbekannte) | Nur explizit vereinbarte Verbindlichkeiten gehen über |
+| Vertragsuebergang | Automatisch (mit CoC-Risiko) | Nur explizit uebergehende Verträge (Zustimmung der Gegenpartei) |
 | Arbeitnehmer | Automatisch (kein § 613a) | § 613a BGB; Widerspruchsrecht; Betriebsrat |
 | Notar | Nur für GmbH-Anteile (§ 15 GmbHG) | Nur für Immobilien (§ 925 BGB) |
 | Haftungsrisiko | Hoher (unbekannte Altlasten) | Niedriger; nur uebernommene Verbindlichkeiten |
 | Ablauf | Einfacher; ein Uebertragungsvertrag | Komplexer; separate Uebertragung jedes Assets |
 
-## Holding-Interposition (Erwerb ueber Akquisitions-SPV)
+## Holding-Interposition (Erwerb über Akquisitions-SPV)
 
 Kaeufer gruendet Holdinggesellschaft (NewCo/SPV):
 1. **Vorteil:** Haftungsabschirmung; Finanzierungsstruktur trennen; spaetere Reorganisation vereinfacht
@@ -170,7 +170,7 @@ Bei Carve-Out wird ein Unternehmensteil aus einer Konzerngesellschaft herausgelo
 1. **Ziele definieren** — Haendler, Steuern, Haftung, Zukunftsstruktur der Unternehmensgruppe
 2. **Steuer-Primaeranalyse** — Share Deal vs. Asset Deal vs. Einbringung steuerlich bewerten; Steuerberater einbeziehen
 3. **Strukturvarianten entwickeln** — mindestens 2-3 Alternativen mit jeweiligen Vor-/Nachteilen
-4. **Regulatorische Pruefung** — Kartell, FDI, sektorspezifische Genehmigungen
+4. **Regulatorische Prüfung** — Kartell, FDI, sektorspezifische Genehmigungen
 5. **Minderheitsschutz** — Gesellschafterversammlungsbeschluesse; Zustimmungsvorbehalte
 6. **Zeitplan** — Umwandlungen brauchen Zeit (3-5 Monate); Transaktionsstruktur rechtzeitig festlegen
 7. **Board Paper erstellen** — BJR-Dokumentation für Strukturentscheidung; § 93 AktG

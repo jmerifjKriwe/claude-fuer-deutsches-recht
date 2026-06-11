@@ -37,11 +37,11 @@ Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser 
 - **MD-Strukturpruefung** zur Verifizierung der Stufenmerkmale.
 
 ## / Schritt für Schritt
-1. **Eingruppierung pruefen:** Welche Stufe gilt aktuell, welche soll gehalten/erreicht werden?
+1. **Eingruppierung prüfen:** Welche Stufe gilt aktuell, welche soll gehalten/erreicht werden?
 2. **Strukturmerkmale gegenrechnen:** Aerzte, Pflege, Geraete, 24/7-Bereitschaft, intensivmed. Anbindung.
 3. **MD-Bericht auswerten:** Welche Beanstandungen, welche Heilungsmoeglichkeiten?
 4. **Verguetungswirkung modellieren:** Zuschlag-/Abschlagshoehe je Stufe und je Fallpauschale.
-5. **Sicherstellungszuschlag pruefen:** Bedarfsplan, Erreichbarkeitsanalyse, Bevoelkerungsdichte.
+5. **Sicherstellungszuschlag prüfen:** Bedarfsplan, Erreichbarkeitsanalyse, Bevoelkerungsdichte.
 6. **Antrag/Widerspruch:** Stufenerhalt oder -anhebung; Sicherstellungs-Antrag an Land/GKV.
 
 ## Trade-off-Matrix
@@ -70,7 +70,7 @@ Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser 
 - Notfallstufe als reines Verguetungsthema lesen; sie ist primaer Strukturqualitaet.
 - Sicherstellungszuschlag mit Notfallstufenzuschlag verwechseln (unterschiedliche Rechtsgrundlagen).
 - Bei Stufenverlust Personaldisposition nicht anpassen — Kosten bleiben, Erloese sinken.
-- Strukturpruefung des MD nicht ernsthaft begleitet; spaeter Widerspruch erschwert.
+- Strukturpruefung des MD nicht ernsthaft begleitet; später Widerspruch erschwert.
 
 ## Quellen Stand 06/2026
 - SGB V § 136c.

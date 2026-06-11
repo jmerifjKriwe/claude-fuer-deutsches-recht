@@ -42,10 +42,10 @@ $ 3 GeschGehG: Reverse Engineering einer rechtmaessig erlangten Sache ist **erla
 ## Klausel-Bausteine (DE)
 
 **1. Lizenzgegenstand Geschaeftsgeheimnis:**
-> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das nicht-ausschliessliche, nicht-uebertragbare Recht ein, das in **Anlage A** bezeichnete Know-how ("Lizenz-Know-how") fuer die in **Anlage B** definierten Zwecke zu nutzen. Das Lizenz-Know-how umfasst die in Anlage A aufgefuehrten technischen Unterlagen, Daten, Prozessbeschreibungen und Quellcode-Auszuege."
+> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das nicht-ausschliessliche, nicht-uebertragbare Recht ein, das in **Anlage A** bezeichnete Know-how ("Lizenz-Know-how") für die in **Anlage B** definierten Zwecke zu nutzen. Das Lizenz-Know-how umfasst die in Anlage A aufgefuehrten technischen Unterlagen, Daten, Prozessbeschreibungen und Quellcode-Auszuege."
 
 **2. Vertraulichkeitspflicht:**
-> "Der Lizenznehmer verpflichtet sich, das Lizenz-Know-how mit der Sorgfalt eines ordentlichen Kaufmanns geheim zu halten. Insbesondere wird der Lizenznehmer (i) Zugriff auf das Need-to-Know-Prinzip beschraenken, (ii) Mitarbeitern und Beratern entsprechende Geheimhaltungsvereinbarungen auferlegen, (iii) das Lizenz-Know-how durch technische Massnahmen sichern und (iv) keine Kopien ausserhalb des Vertragsbereichs anfertigen."
+> "Der Lizenznehmer verpflichtet sich, das Lizenz-Know-how mit der Sorgfalt eines ordentlichen Kaufmanns geheim zu halten. Insbesondere wird der Lizenznehmer (i) Zugriff auf das Need-to-Know-Prinzip beschraenken, (ii) Mitarbeitern und Beratern entsprechende Geheimhaltungsvereinbarungen auferlegen, (iii) das Lizenz-Know-how durch technische Maßnahmen sichern und (iv) keine Kopien ausserhalb des Vertragsbereichs anfertigen."
 
 **3. Reverse-Engineering-Verbot:**
 > "Der Lizenznehmer wird das Lizenz-Know-how nicht reverse-engineeren, dekompilieren oder durch Analyse der Erscheinungsform Rueckschluesse auf seine Bestandteile ziehen. Dieses Verbot gilt im Sinne des $ 3 Abs. 2 GeschGehG."
@@ -55,5 +55,5 @@ $ 3 GeschGehG: Reverse Engineering einer rechtmaessig erlangten Sache ist **erla
 
 ## Anschluss
 
-- NDA fuer Vorvertrag: `klausel-vertraulichkeit-und-nda-interimsphase` (folgt)
+- NDA für Vorvertrag: `klausel-vertraulichkeit-und-nda-interimsphase` (folgt)
 - Insolvenz: `insolvenz-fortbestand-paragraf-103-inso-lizenz`

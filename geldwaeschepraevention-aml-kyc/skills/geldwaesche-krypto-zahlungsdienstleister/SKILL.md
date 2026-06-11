@@ -19,7 +19,7 @@ AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und Zahlungsdienstleiste
 
 ## Triage zu Beginn
 1. Handelt es sich um einen Kryptowertedienstleister, E-Geld-Institut oder regulaeren Zahlungsdienstleister?
-2. Welche Wallets oder Transaktionen sind betroffen; greift die Travel Rule (ueber 1.000 EUR)?
+2. Welche Wallets oder Transaktionen sind betroffen; greift die Travel Rule (über 1.000 EUR)?
 3. Gibt es Hinweise auf Mixer, Anonymisierungstools oder High-Risk-Wallets laut Blockchain-Analyse?
 4. Ist der VASP (Virtual Asset Service Provider) in der EU registriert oder aus einem Drittland?
 

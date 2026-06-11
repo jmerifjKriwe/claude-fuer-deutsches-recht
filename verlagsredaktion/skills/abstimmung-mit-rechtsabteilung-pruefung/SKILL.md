@@ -15,7 +15,7 @@ description: "Inhouse-Legal-Check vor Veroeffentlichung: strukturierte Abstimmun
 
 ## Worum geht es konkret
 
-Vor Drucklegung oder Onlineschaltung muss bei rechtssensiblen Beitraegen das Justiziariat des Verlags eingebunden werden. Das betrifft insbesondere: namentliche Berichte ueber Verfahrensbeteiligte, scharfe Urteilskritik, Praxisberichte mit Mandantenbezug, Beitraege zu Streitthemen mit grossen Marktteilnehmern, KI-erstellte Inhalte. Der Skill liefert einen Vorlagenpfad, der dem Justiziariat in 15 Minuten Pruefbarkeit verschafft.
+Vor Drucklegung oder Onlineschaltung muss bei rechtssensiblen Beitraegen das Justiziariat des Verlags eingebunden werden. Das betrifft insbesondere: namentliche Berichte über Verfahrensbeteiligte, scharfe Urteilskritik, Praxisberichte mit Mandantenbezug, Beitraege zu Streitthemen mit großen Marktteilnehmern, KI-erstellte Inhalte. Der Skill liefert einen Vorlagenpfad, der dem Justiziariat in 15 Minuten Pruefbarkeit verschafft.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -24,7 +24,7 @@ Vor Drucklegung oder Onlineschaltung muss bei rechtssensiblen Beitraegen das Jus
 3. Werden Aktenzeichen, Verfahrensdetails oder vertrauliche Sachverhalte verwendet?
 4. Liegen Bild- oder Tabellenrechte vor (Lizenz, Schoepfungshoehe, Public Domain)?
 5. Ist ein Faktencheck-Datum dokumentiert?
-6. Wird Wettbewerbsbezug (vergleichende Werbung, Aussagen ueber Konkurrenten) hergestellt?
+6. Wird Wettbewerbsbezug (vergleichende Werbung, Aussagen über Konkurrenten) hergestellt?
 7. Welche Frist gibt die Redaktion dem Justiziariat?
 
 ## Rechtlicher und sachlicher Rahmen
@@ -41,9 +41,9 @@ Vor Drucklegung oder Onlineschaltung muss bei rechtssensiblen Beitraegen das Jus
 ## Praxisleitfaden / Schritt für Schritt
 
 1. **Vorselektion durch Redaktion.** Ein Pruefkanon laeuft jedem Beitrag voraus. Bei "Ja" zu einem der folgenden Punkte: Justiziariat einschalten.
- - Namentliche Berichterstattung ueber lebende Personen mit kritischer Bewertung.
+ - Namentliche Berichterstattung über lebende Personen mit kritischer Bewertung.
  - Aktenzeichen aus laufenden Verfahren mit identifizierender Wirkung.
- - Behauptungen ueber konkrete Pflichtverletzungen, Unwirksamkeiten von AGB Dritter, Verstoesse gegen Berufsrecht.
+ - Behauptungen über konkrete Pflichtverletzungen, Unwirksamkeiten von AGB Dritter, Verstoesse gegen Berufsrecht.
  - Bildmaterial ohne klare Lizenz oder ohne Personenrechte.
  - Sponsored Content, Affiliate-Links, vergleichende Aussagen.
 2. **Pruefpaket schnueren.** Manuskriptfassung mit Stand, Quellenliste, ggf. Bildlizenzen, ggf. Anonymisierungsentscheidungen, gewuenschte Online- und Printtermine.
@@ -65,10 +65,10 @@ Vor Drucklegung oder Onlineschaltung muss bei rechtssensiblen Beitraegen das Jus
 ## Praxistipps der alten Redaktion
 
 - "Lieber einmal abgelehnt als dreimal abgemahnt." Schon ein Unterlassungsverfahren kostet mehr als zehn Pruefdurchgaenge.
-- Bei kritischen Personen: Anonymisierung pruefen (Initialen, Funktionsbeschreibung). Wenn Identifizierbarkeit zwingend für Aussage ist, soll Justiziariat das absegnen.
-- Bei laufenden Verfahren stets pruefen, ob § 353d StGB (verbotene Mitteilung) tangiert ist.
-- KI-Anteile am Beitrag separat kennzeichnen; Justiziariat braucht das für die Pruefung der Verantwortlichkeitskette.
-- Bei Druckaufsatz: Pruefung in Setzung-Fahnenform, nicht im Word-Manuskript; im Setzungsstand sieht man Layoutfolgen.
+- Bei kritischen Personen: Anonymisierung prüfen (Initialen, Funktionsbeschreibung). Wenn Identifizierbarkeit zwingend für Aussage ist, soll Justiziariat das absegnen.
+- Bei laufenden Verfahren stets prüfen, ob § 353d StGB (verbotene Mitteilung) tangiert ist.
+- KI-Anteile am Beitrag separat kennzeichnen; Justiziariat braucht das für die Prüfung der Verantwortlichkeitskette.
+- Bei Druckaufsatz: Prüfung in Setzung-Fahnenform, nicht im Word-Manuskript; im Setzungsstand sieht man Layoutfolgen.
 
 ## Mustertexte / Vorlagen
 
@@ -116,7 +116,7 @@ Unterschrift: [Name]
 
 ## Typische Fehler / Pitfalls
 
-- "Bitte freigeben" ohne konkrete Pruefpunkte - Pruefung wird oberflaechlich.
+- "Bitte freigeben" ohne konkrete Pruefpunkte - Prüfung wird oberflaechlich.
 - Freigabe mit Aenderung wird nicht in die Endfassung uebernommen - Haftungsfalle.
 - Pruefauftrag erst zur Drucknacht - Druck der Bewertung lastet auf Justiziariat.
 - Nachtraegliche Aenderungen am Beitrag nach Freigabe ohne erneute Vorlage - Freigabe entfaellt.
@@ -131,7 +131,7 @@ Unterschrift: [Name]
 - UWG §§ 6, 7 - vergleichende Werbung.
 - DSGVO Art. 6, 17, 85 - Datenverarbeitung, Loeschung, Medienprivileg.
 - DDG § 5 - Impressumspflicht; MStV § 18 - journalistische Sorgfalt.
-- BVerfG, st. Rspr. zur Abwaegung Meinungsfreiheit / Persoenlichkeitsrecht (Volltexte zur amtlichen Pruefung unter bundesverfassungsgericht.de).
+- BVerfG, st. Rspr. zur Abwaegung Meinungsfreiheit / Persoenlichkeitsrecht (Volltexte zur amtlichen Prüfung unter bundesverfassungsgericht.de).
 
 ## Normen und Rechtsprechung
 

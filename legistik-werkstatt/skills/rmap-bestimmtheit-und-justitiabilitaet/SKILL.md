@@ -18,7 +18,7 @@ Bestimmtheitsgebot (Art. 20 Abs. 3 GG und einschlaegige Spezialvorbehalte) verla
 
 ## Pruefpunkte
 
-Pruefen: bleibt der Beurteilungs- oder Ermessensspielraum der Verwaltung erhalten? Sind automatisierte Entscheidungen vor Gericht reproduzierbar? Greifen Datenschutz-Vorgaben (Art. 22 DSGVO; vollautomatisierte Entscheidung)?
+Prüfen: bleibt der Beurteilungs- oder Ermessensspielraum der Verwaltung erhalten? Sind automatisierte Entscheidungen vor Gericht reproduzierbar? Greifen Datenschutz-Vorgaben (Art. 22 DSGVO; vollautomatisierte Entscheidung)?
 
 ## Normenanker
 
@@ -37,7 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Abgrenzung
 
-Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Pruefung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
+Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Prüfung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
 
 ## Quellen Stand 06/2026
 

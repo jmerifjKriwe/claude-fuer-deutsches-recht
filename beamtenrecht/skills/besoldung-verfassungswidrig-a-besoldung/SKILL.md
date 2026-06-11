@@ -29,7 +29,7 @@ Skill für Beamte und Richter, die geltend machen wollen, dass ihre Besoldung in
 
 ### a) Mindestabstand zur Grundsicherung
 - Das BVerfG verlangt einen wirksamen Abstand zwischen der Besoldung der untersten Besoldungsgruppen und dem sozialhilferechtlichen Grundsicherungsniveau (gemessen am SGB II / SGB XII unter Beruecksichtigung von Regelbedarfen, Unterkunfts- und Heizkosten und Kinderbedarfen).
-- Faustregel: ca. 15 Prozent oberhalb des Grundsicherungsniveaus. Im Einzelfall pruefen.
+- Faustregel: ca. 15 Prozent oberhalb des Grundsicherungsniveaus. Im Einzelfall prüfen.
 
 ### b) Familienzuschlag für Mehrkinderfamilien
 - Familienzuschlag für das dritte und jedes weitere Kind hat eine zentrale Rolle. Bei zu niedrigem Zuschlag verstoesst die Besoldung gegen Art. 33 Abs. 5 GG — siehe Schwester-Skill `familienzuschlag-drittes-kind-bverfg`.

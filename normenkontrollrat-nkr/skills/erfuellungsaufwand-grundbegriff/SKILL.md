@@ -14,7 +14,7 @@ Erfuellungsaufwand ist der **zentrale Pruefgegenstand des NKR**. Der Begriff ist
 - Anfaengerschulung
 - Stellungnahme braucht den Grundbegriff im Aufschlag
 - Ressort verwechselt Erfuellungsaufwand mit Buerokratiekosten
-- Diskussion mit BMF / BRH ueber Abgrenzung
+- Diskussion mit BMF / BRH über Abgrenzung
 
 Keine Rueckfrage noetig.
 
@@ -34,7 +34,7 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 
 - Tatigkeiten zur Erfuellung einer Pflicht (Antraege, Anzeigen, Berichte, Bauten, Schulungen)
 - Anschaffungen (Geraete, Software, Material)
-- Dienstleistungen Dritter (Berater, Pruefer, Sachverstaendige)
+- Dienstleistungen Dritter (Berater, Prüfer, Sachverstaendige)
 - internen Prozesse (Schulung, Dokumentation, IT-Anpassung)
 
 ## Pruefraster / Schritt für Schritt
@@ -49,12 +49,12 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 5. **Pro-Fall-Aufwand** ermitteln
 6. **Fallzahl** ermitteln (jaehrlich)
 7. **Aufwand pro Jahr** berechnen = Fallzahl × Pro-Fall-Aufwand
-8. **Aggregation** ueber alle Adressatengruppen
+8. **Aggregation** über alle Adressatengruppen
 9. **Plausibilisierung** (Vergleich mit Referenzwerten)
 
 ## Abgrenzung zu benachbarten Kostenbegriffen
 
-| Begriff | Definition | Wer prueft? |
+| Begriff | Definition | Wer prüft? |
 |---|---|---|
 | Erfuellungsaufwand | Aufwand für Befolgung der Norm | NKR |
 | Buerokratiekosten | Teilmenge: nur Informationspflichten | NKR (historisch) |
@@ -81,8 +81,8 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der Erfuellungsaufwand bezeichnet gemaess Leitfaden BMI/NKR den gesamten messbaren Zeitaufwand und die Kosten, die durch Befolgung einer Vorschrift bei Buergern, Wirtschaft und Verwaltung entstehen."
-- "Das Vorhaben verursacht nach NKR-Schaetzung einen jaehrlichen Erfuellungsaufwand für die Wirtschaft in Hoehe von [X] Mio EUR sowie einen einmaligen Umstellungsaufwand von [Y] Mio EUR."
+- "Der Erfuellungsaufwand bezeichnet gemäß Leitfaden BMI/NKR den gesamten messbaren Zeitaufwand und die Kosten, die durch Befolgung einer Vorschrift bei Buergern, Wirtschaft und Verwaltung entstehen."
+- "Das Vorhaben verursacht nach NKR-Schaetzung einen jaehrlichen Erfuellungsaufwand für die Wirtschaft in Höhe von [X] Mio EUR sowie einen einmaligen Umstellungsaufwand von [Y] Mio EUR."
 - "Die Darstellung des Erfuellungsaufwands beschraenkt sich im Ressortentwurf auf Informationspflichten. Der NKR weist darauf hin, dass auch IT-Anpassungs- und Schulungskosten zum Erfuellungsaufwand gehoeren."
 
 ## Typische Fehler in Ressort-Entwuerfen
@@ -98,4 +98,4 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 - §§ 44, 45 GGO
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - Handbuch der Rechtsfoermlichkeit Teil C
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bmi.bund.de](https://www.bmi.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bmi.bund.de](https://www.bmi.bund.de)

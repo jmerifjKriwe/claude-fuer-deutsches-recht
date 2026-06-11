@@ -65,7 +65,7 @@ Kirchenbauaemter der Landeskirchen haben eigene Baulast-Regelungen und Pruefanfo
 - Dalux ERP-Export Kirchenbauamt: Schadensdokumentation als PDF-Sammelreport
 - PlanRadar Sanierungsprojekt: Status je Bauteil (Aufnahme/Behandlung/Abgeschlossen), Fortschritt
 - SAP PM Kirchenbauamt: Equipment Kirchengebaeude, Meldungsart M1 Schadensmeldung, Kostenstelle
-- Foerdermittel-Abrechnung: Ausgaben-Nachweise je Massnahme, DSD-Verwendungsnachweis
+- Foerdermittel-Abrechnung: Ausgaben-Nachweise je Maßnahme, DSD-Verwendungsnachweis
 - RIB iTWO: Aufmass Restaurierung nach Einheiten, Schlusskostenfeststellung je Foerdermassnahme
 
 ## Typische Fallstricke

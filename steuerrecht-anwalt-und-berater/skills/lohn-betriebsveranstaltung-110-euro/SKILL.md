@@ -38,25 +38,25 @@ Betriebsveranstaltungen (Sommerfest, Weihnachtsfeier, Betriebsausflug) sind Sach
 
 ### Verwaltungsanweisungen
 
-- BMF v. 14.10.2015 — Betriebsveranstaltung (IV C 5 - S 2332/15/10006; aktuelle ergaenzende BMF-Schreiben ueber BMF-Internet pruefen).
+- BMF v. 14.10.2015 — Betriebsveranstaltung (IV C 5 - S 2332/15/10006; aktuelle ergaenzende BMF-Schreiben über BMF-Internet prüfen).
 - LStR R 19.5.
 
-### Leitentscheidungen (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
+### Leitentscheidungen (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen)
 
-- **BFH, Urteil vom 27.03.2024 — VI R 5/22**: Eine Betriebsveranstaltung i.S.d. § 19 Abs. 1 S. 1 Nr. 1a S. 1 EStG kann auch dann vorliegen, wenn sie nicht allen Angehoerigen eines Betriebs oder Betriebsteils offensteht (Begriff der Betriebsveranstaltung weit). Der Begriff in § 40 Abs. 2 S. 1 Nr. 2 EStG entspricht der Legaldefinition § 19 Abs. 1 S. 1 Nr. 1a S. 1 EStG. Volltext ueber BFH-Datenbank (STRE202410082).
+- **BFH, Urteil vom 27.03.2024 — VI R 5/22**: Eine Betriebsveranstaltung i.S.d. § 19 Abs. 1 S. 1 Nr. 1a S. 1 EStG kann auch dann vorliegen, wenn sie nicht allen Angehoerigen eines Betriebs oder Betriebsteils offensteht (Begriff der Betriebsveranstaltung weit). Der Begriff in § 40 Abs. 2 S. 1 Nr. 2 EStG entspricht der Legaldefinition § 19 Abs. 1 S. 1 Nr. 1a S. 1 EStG. Volltext über BFH-Datenbank (STRE202410082).
 - **Reaktion des Gesetzgebers — Steueraenderungsgesetz 2025** (verkuendet 23.12.2025, in Kraft 01.01.2026): Klarstellung, dass die **Offenheit für alle Beschaeftigten** des Betriebs / Betriebsteils Voraussetzung der **Pauschalbesteuerung nach § 40 Abs. 2 S. 1 Nr. 2 EStG** ist (Reaktion auf BFH VI R 5/22). Der 110-EUR-Freibetrag bleibt unveraendert; ebenso die Begrenzung auf zwei Veranstaltungen pro Jahr.
-- BFH-Linie zur Aufteilung der Gesamtkosten auf alle teilnehmenden Personen (statt nur AN-Anzahl); aktuelle Entscheidungen vor Mandantengespraech in BFH-Datenbank / dejure.org pruefen.
+- BFH-Linie zur Aufteilung der Gesamtkosten auf alle teilnehmenden Personen (statt nur AN-Anzahl); aktuelle Entscheidungen vor Mandantengespraech in BFH-Datenbank / dejure.org prüfen.
 
 ## Workflow
 
 ### Phase 1 — Voraussetzungen
 
-| Voraussetzung | Pruefung |
+| Voraussetzung | Prüfung |
 |---|---|
 | Geselliger Charakter | Sommerfest, Weihnachtsfeier ja; Schulung nein |
 | Offen für alle AN (oder Teilgruppe wie Abteilung) | Ja |
 | Freiwillige Teilnahme | Ja |
-| Max. 2 Veranstaltungen pro Jahr begunstigt | Pruefung |
+| Max. 2 Veranstaltungen pro Jahr begunstigt | Prüfung |
 
 ### Phase 2 — Kostenermittlung
 
@@ -106,8 +106,8 @@ Gesamtkosten / Anzahl tatsaechlicher Teilnehmer = AN-Anteil
 - 110 EUR Freibetrag pro AN und pro Veranstaltung — bei 2 Veranstaltungen pro Jahr 220 EUR.
 - Bei 3. Veranstaltung im Jahr: keine Freibetrags-Anwendung mehr, voll steuerpflichtig.
 - "Geschlossene Teilnehmerkreise" (z.B. nur Vertrieb): keine Begunstigung.
-- Bei Catering und Getranken sorgfaeltige Belegerstellung — Pruefer fragt nach.
-- Geschenke an AN auf der Veranstaltung sind eingerechnet — Aufmerksamkeit 60 EUR pruefen.
+- Bei Catering und Getranken sorgfaeltige Belegerstellung — Prüfer fragt nach.
+- Geschenke an AN auf der Veranstaltung sind eingerechnet — Aufmerksamkeit 60 EUR prüfen.
 - StBVV: Sonderlohn-Berechnung; bei groesseren Veranstaltungen Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Betriebsveranstaltungs-Modul mit automatischer Pauschalierung.
 

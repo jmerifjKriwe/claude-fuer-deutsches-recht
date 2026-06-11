@@ -76,13 +76,13 @@ description: "Fachanwalt Insolvenz Krypto Verwertung: ordnet Normen, Nutzerangab
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Krypto-Assets in Insolvenz verwerten | Auskunfts-/Zwangsverfahren und Verwertungsstrategievermerk unten |
 | Variante A — Schuldner kooperiert freiwillig | Direktuebertragung Wallet; schnellere Verwertung |
-| Variante B — Kurs-Volatilitaet hoch | Verwertungszeitpunkt strategisch waehlen; Absicherung pruefen |
+| Variante B — Kurs-Volatilitaet hoch | Verwertungszeitpunkt strategisch waehlen; Absicherung prüfen |
 | Variante C — Multi-Sig mit Drittbeteiligung | Einstweilige Verfuegung-Baustein unten; Dritter muss kooperieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -164,7 +164,7 @@ IV. Steuerliche Folgen:
  Steuerberater [Name] einbinden; Vorauszahlung reservieren.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -248,8 +248,8 @@ Erzwingungshaft-Verfahren: Gerichtsgebühren gering (ca. 150–300 EUR); Hauptko
 
 Bevor losgelegt wird, klaere:
 
-1. **Art der Verwahrung?** Custodial (Exchange) → Aussonderungsrecht § 47 InsO pruefen (Treuhand vs. Darlehen AGB). Self-Custody → Private Keys sicherstellen § 97/98 InsO.
+1. **Art der Verwahrung?** Custodial (Exchange) → Aussonderungsrecht § 47 InsO prüfen (Treuhand vs. Darlehen AGB). Self-Custody → Private Keys sicherstellen § 97/98 InsO.
 2. **Volumina bekannt?** Forensische Blockchain-Analyse (Chainalysis/Elliptic) benoetigt?
 3. **Anfechtungsrisiko?** Krypto-Transfers in den letzten 4 Jahren vor Antrag → § 133 InsO.
-4. **Steuerliche Lage?** BMF-Schreiben 22.11.2024: Jahresfrist § 23 EStG — Haltezeit pruefen; bei Verkauf vor Jahresfrist Steuerpflicht als Masseverbindlichkeit § 55 InsO.
+4. **Steuerliche Lage?** BMF-Schreiben 22.11.2024: Jahresfrist § 23 EStG — Haltezeit prüfen; bei Verkauf vor Jahresfrist Steuerpflicht als Masseverbindlichkeit § 55 InsO.
 5. **Verjährung § 146 InsO?** Anfechtungsfristen für Krypto-Transfers laufen ab → sofort Inventur.

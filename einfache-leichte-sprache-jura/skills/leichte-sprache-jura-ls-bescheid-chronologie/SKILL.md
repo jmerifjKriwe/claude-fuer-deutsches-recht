@@ -117,9 +117,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Juristische Texte — Bescheide, Vertraege, Urteile, Merkblaetter — sind für viele Buergerinnen und Buerger schwer verstaendlich. Dieses Plugin unterstuetzt Kanzleien und Behörden dabei, solche Texte in Einfache Sprache (Zielniveau B1) oder Leichte Sprache (Zielniveau A2 gemaess BITV 2.0) zu uebertragen, ohne dabei Rechtsinhalt, Fristen oder Rechtswirkungen zu verlieren.
+Juristische Texte — Bescheide, Verträge, Urteile, Merkblaetter — sind für viele Buergerinnen und Buerger schwer verstaendlich. Dieses Plugin unterstuetzt Kanzleien und Behörden dabei, solche Texte in Einfache Sprache (Zielniveau B1) oder Leichte Sprache (Zielniveau A2 gemäß BITV 2.0) zu uebertragen, ohne dabei Rechtsinhalt, Fristen oder Rechtswirkungen zu verlieren.
 
-Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absicherung: Vereinfachungen muessen stets gegen das Original geprueft werden. Das Qualitaetsgate am Ende des Workflows sichert die Konformitaet vor Veroeffentlichung.
+Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absicherung: Vereinfachungen müssen stets gegen das Original geprueft werden. Das Qualitaetsgate am Ende des Workflows sichert die Konformitaet vor Veroeffentlichung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -127,14 +127,14 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 - Eine Kanzlei erklaert Mandanten verstaendlich, welche Rechte und Pflichten ein Vertrag begruendet.
 - Ein Unternehmen muss seine Datenschutzerklaerung barrierefrei gestalten (BITV 2.0, WCAG 2.1).
 - Ein Pflegeheim oder eine Sozialeinrichtung will Heimvertraege in Leichte Sprache uebersetzen.
-- Ein Verband prueft, ob sein oeffentlich zugaengliches Rechtsmerkblatt verstaendlich genug ist.
+- Ein Verband prüft, ob sein öffentlich zugaengliches Rechtsmerkblatt verstaendlich genug ist.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Einfache Sprache** — Schriftsprachliche Vereinfachung auf ca. Niveau B1 des Europaeischen Referenzrahmens; kurze Saetze, gebraeuchliche Woerter, aktive Formulierungen.
 - **Leichte Sprache** — Stark vereinfachte Sprache auf Niveau A2 nach BITV 2.0 und dem Regelwerk des Netzwerks Leichte Sprache; standardisierte Regeln zu Wortlaenge, Satzstruktur und Bildunterstuetzung.
 - **BITV 2.0** — Barrierefreie-Informationstechnik-Verordnung; verpflichtet öffentliche Stellen zur barrierefreien Gestaltung digitaler Angebote einschliesslich Leichter Sprache.
-- **Rechtsinhalt-Sicherung** — Pruefung, dass nach der Vereinfachung keine Rechte, Pflichten, Fristen oder Rechtsfolgen verloren gegangen sind.
+- **Rechtsinhalt-Sicherung** — Prüfung, dass nach der Vereinfachung keine Rechte, Pflichten, Fristen oder Rechtsfolgen verloren gegangen sind.
 - **Qualitaetsgate** — Abschlusspruefung vor Veroeffentlichung: Verstaendlichkeit, Gleichgewicht zum Original, Glossar-Konsistenz, Barrierefreiheit.
 - **Zielgruppe** — Definierte Personengruppe (z. B. Menschen mit Lernschwierigkeiten, Buerger ohne Rechtskenntnisse), nach der Schwierigkeitsgrad und Modus gewaehlt werden.
 
@@ -148,15 +148,15 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Wer ist die Zielgruppe des vereinfachten Textes?
+1. Mandantenkonstellation klären: Wer ist die Zielgruppe des vereinfachten Textes?
 2. Modus festlegen: Einfache Sprache (B1) oder Leichte Sprache (A2)?
 3. Rechtsinhalt erfassen: Alle relevanten Rechte, Pflichten, Fristen und Rechtsfolgen des Originaltexts sichern (Skill `elsj-juristische-sicherung`).
 4. Vereinfachung erstellen: Passenden Skill waehlen (`elsj-einfache-sprache` oder `elsj-leichte-sprache`).
-5. Qualitaetsgate durchlaufen: Fertige Fassung vor Veroeffentlichung pruefen (`elsj-qualitaetsgate`).
+5. Qualitaetsgate durchlaufen: Fertige Fassung vor Veroeffentlichung prüfen (`elsj-qualitaetsgate`).
 
 ## Skill-Tour (was gibt es hier?)
 
-- `elsj-kommandocenter` — Navigationszentrum: Zielgruppe und Modus klaeren, starten, alle Skills koordinieren.
+- `elsj-kommandocenter` — Navigationszentrum: Zielgruppe und Modus klären, starten, alle Skills koordinieren.
 - `elsj-einfache-sprache` — Juristischen Text auf Einfache Sprache Niveau B1 uebertragen für Buerger ohne Fachkenntnisse.
 - `elsj-leichte-sprache` — Juristischen Text auf Leichte Sprache Niveau A2 uebertragen für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen.
 - `elsj-juristische-sicherung` — Sicherstellt, dass kein Rechtsinhalt (Rechte, Pflichten, Fristen, Betraege, Rechtsfolgen) bei der Vereinfachung verloren geht.
@@ -165,10 +165,10 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 ## Worauf besonders achten
 
 - Einfache Sprache und Leichte Sprache sind verschiedene Standards mit unterschiedlichen Regelwerken — Modus am Anfang festlegen, nicht waehrend der Bearbeitung wechseln.
-- Kein Rechtsinhalt darf durch Vereinfachung verloren gehen: Fristen, Betraege und Rechtsfolgen muessen exakt erhalten bleiben.
-- Leichte Sprache erfordert typischerweise die Einbindung von Prueferinnen und Pruefern mit kognitiven Einschraenkungen — das Plugin kann nur den Text liefern, nicht die Pruefung ersetzen.
+- Kein Rechtsinhalt darf durch Vereinfachung verloren gehen: Fristen, Betraege und Rechtsfolgen müssen exakt erhalten bleiben.
+- Leichte Sprache erfordert typischerweise die Einbindung von Prueferinnen und Pruefern mit kognitiven Einschraenkungen — das Plugin kann nur den Text liefern, nicht die Prüfung ersetzen.
 - Bei Bescheiden und amtlichen Dokumenten gilt: Vereinfachungen sind Informationshilfen, kein rechtsverbindlicher Ersatz des Originaldokuments.
-- AGB-Vereinfachungen koennen auf Einbeziehungsfragen nach § 305 BGB wirken — rechtliche Wechselwirkungen bedenken.
+- AGB-Vereinfachungen können auf Einbeziehungsfragen nach § 305 BGB wirken — rechtliche Wechselwirkungen bedenken.
 
 ## Typische Fehler
 
@@ -180,9 +180,9 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 
 ## Querverweise
 
-- `datenschutzrecht` — DSGVO-Einwilligungen und Datenschutzerklaerungen muessen verstaendlich formuliert sein (Art. 7 Abs. 2 DSGVO).
+- `datenschutzrecht` — DSGVO-Einwilligungen und Datenschutzerklaerungen müssen verstaendlich formuliert sein (Art. 7 Abs. 2 DSGVO).
 - `vertragsrecht` — AGB-Einbeziehung nach § 305 BGB erfordert klare, verstaendliche Formulierungen.
-- `selbstvertreter-amtsgericht` — Buerger ohne Rechtskenntnisse koennen von vereinfachten Gerichtsdokumenten profitieren.
+- `selbstvertreter-amtsgericht` — Buerger ohne Rechtskenntnisse können von vereinfachten Gerichtsdokumenten profitieren.
 
 ## Quellen und Aktualitaet
 

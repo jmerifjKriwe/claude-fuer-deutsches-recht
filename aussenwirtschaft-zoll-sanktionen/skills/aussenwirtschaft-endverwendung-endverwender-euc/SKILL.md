@@ -3,7 +3,7 @@ name: aussenwirtschaft-endverwendung-endverwender-euc
 description: "Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizierung des tatsaechlichen Endverwenders, Pruefen des Endverwendungszwecks und Authentizitaet der Endverwendungserklaerung nach BAFA-Anforderungen und VO (EU) 2021/821. Besondere Risiken bei Staatsunternehmen, Forschungseinrichtungen un..."
 ---
 
-# Endverwender-Pruefung und EUC: Authentizitaet und Risikoeinschaetzung
+# Endverwender-Prüfung und EUC: Authentizitaet und Risikoeinschaetzung
 
 ## Arbeitsweg
 
@@ -16,12 +16,12 @@ description: "Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizieru
 ## Mandantenfall
 
 - Exporteur erhalt EUC von unbekannter Firma in Pakistan; Authentizitaet zweifelhaft.
-- BAFA fordert Nachweise ueber tatsaechlichen Endverwender; Lieferant hat nur Handelsgesellschaft angegeben.
-- Technologie-Transfer an staatliches Forschungsinstitut in sensitivem Land; EUC-Pruefung noetig.
+- BAFA fordert Nachweise über tatsaechlichen Endverwender; Lieferant hat nur Handelsgesellschaft angegeben.
+- Technologie-Transfer an staatliches Forschungsinstitut in sensitivem Land; EUC-Prüfung noetig.
 
 ## Erste Schritte
 
-1. EUC-Formular auf Vollstaendigkeit pruefen: Endverwender-Name und -Adresse, Verwendungszweck, Unterschrift und Firmenstempel.
+1. EUC-Formular auf Vollstaendigkeit prüfen: Endverwender-Name und -Adresse, Verwendungszweck, Unterschrift und Firmenstempel.
 2. Authentizitaetspruefung: Unternehmensregister, Web-Praesenz, Gegencheck mit Handelspartnern.
 3. Abgleich der EUC-Angaben mit technischer Spezifikation; plausibel für zivilen Verwendungszweck?
 4. Red Flags der BAFA-Checkliste abarbeiten: Staatsunternehmen, Ruestungsnaeehe, ungewoehnliche Spezifikation.
@@ -49,7 +49,7 @@ description: "Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizieru
 
 - Zwischenhaendler als angeblicher Endverwender reicht nicht; tatsaechliche Nutzung muss identifizierbar sein.
 - Staatlliche Forschungseinrichtungen in Hochrisikolaendern haben oft Dual-Use-Kapazitaeten.
-- EUC-Faelschungen durch Lieferanten nehmen zu; Gegenverifizierung ueber unabhaengige Kanaele noetig.
+- EUC-Faelschungen durch Lieferanten nehmen zu; Gegenverifizierung über unabhaengige Kanaele noetig.
 - Nachtraegliche EUC-Einholung nach Lieferung schutzt nicht vor Strafverfolgung.
 
 ## Schnittstellen zu anderen Skills

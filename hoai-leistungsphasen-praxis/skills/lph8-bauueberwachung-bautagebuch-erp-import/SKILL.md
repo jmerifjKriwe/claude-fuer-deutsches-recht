@@ -63,7 +63,7 @@ Das Bautagebuch ist das wichtigste Dokument der Bauueberwachung: Es beweist Witt
 - SAP PS Fortschritt: Transaktionscode CJ20N Projektstruktur, Vorgangs-Fortschritt je Bautagebuch-Import, automatische Terminkontrolle mit Soll-Termin
 - SAP PM Meldung bei Behinderung: Equipment-Nr Bauabschnitt, Meldungsart M2 Behinderung, Text VOB/B § 6 Behinderungsanzeige, Fotos und DWD-Protokoll als Anhang
 - SAP CO Projekt-Kostenauswertung: Tagesbericht-Stunden fliessen in CO-Kostentraeger, Soll-Ist Vergleich Personalkosten, Prognose Gesamtkosten
-- SAP FI Zahlungsfreigabe: Abschlagsrechnung nach Bautagebuch-Fortschritt automatisch vorgeschlagen, Pruefung und Freigabe Projektleiter
+- SAP FI Zahlungsfreigabe: Abschlagsrechnung nach Bautagebuch-Fortschritt automatisch vorgeschlagen, Prüfung und Freigabe Projektleiter
 - Workflow: Tagesbericht erstellt, Bauleiter Gegenpruefung und Signatur, Import SAP PS automatisch, Meilenstein aktiviert, SAP FI Zahlungsvorschlag generiert
 
 ## Typische Fallstricke
@@ -75,7 +75,7 @@ Das Bautagebuch ist das wichtigste Dokument der Bauueberwachung: Es beweist Witt
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

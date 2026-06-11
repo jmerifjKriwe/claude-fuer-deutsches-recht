@@ -20,8 +20,8 @@ description: "Einstellung gegen Auflage nach § 153a StPO. Zustimmungserforderni
 ## Wann brauchen Sie diese Skill?
 
 - Sie sondieren eine Einstellung mit Staatsanwaltschaft oder Gericht.
-- Sie pruefen, ob die Schwere der Schuld den Weg ueber § 153a StPO oeffnet oder versperrt.
-- Sie verhandeln die Hoehe der Geldauflage und vergleichen sie mit der drohenden Geldstrafe.
+- Sie prüfen, ob die Schwere der Schuld den Weg über § 153a StPO oeffnet oder versperrt.
+- Sie verhandeln die Höhe der Geldauflage und vergleichen sie mit der drohenden Geldstrafe.
 
 ## Rechtliche Grundlagen
 
@@ -43,7 +43,7 @@ description: "Einstellung gegen Auflage nach § 153a StPO. Zustimmungserforderni
 
 - Die Auflagenhoehe orientiert sich faktisch an der **drohenden Strafe**.
 - Daumenregel: Geldauflage entspricht ungefaehr der Geldstrafe, die bei Verurteilung gedroht haette.
-- Anrechnung von Geldauflage auf eine spaeter doch verhaengte Strafe nach § 153a Abs. 1 Satz 6 StPO (bei Wiederaufnahme).
+- Anrechnung von Geldauflage auf eine später doch verhaengte Strafe nach § 153a Abs. 1 Satz 6 StPO (bei Wiederaufnahme).
 
 ## Voraussetzungen
 
@@ -54,19 +54,19 @@ description: "Einstellung gegen Auflage nach § 153a StPO. Zustimmungserforderni
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
-1. **Eignung pruefen**:
+1. **Eignung prüfen**:
  - Vergehen? Strafdrohung max. 5 Jahre Freiheitsstrafe oder Geldstrafe (allgemein).
  - Schwere der Schuld vertretbar? Bei einschlaegigen Vorbelastungen oft schwierig.
 2. **Auflagenpaket** mit Mandant abstimmen:
  - Schadenswiedergutmachung: vorrangig.
- - Geldauflage: Hoehe realistisch (i.d.R. 500-15 000 EUR; bei Wirtschaftsstrafsachen hoeher).
+ - Geldauflage: Höhe realistisch (i.d.R. 500-15 000 EUR; bei Wirtschaftsstrafsachen hoeher).
  - Gemeinnuetzige Arbeit als Alternative.
- - TOA wenn moeglich.
+ - TOA wenn möglich.
 3. **Verhandlung** mit Staatsanwaltschaft / Gericht:
  - Schriftlicher Vorschlag mit konkretem Auflagenpaket.
  - Begruendung: warum öffentliches Interesse beseitigt ist.
  - Kompensation gegenueber drohender Strafe darstellen.
-4. **Belehrung** des Mandanten: Zustimmung wird mit Verbrauch der Strafklage ueber den **abgegrenzten Tatvorwurf** wirksam; keine spaetere Strafverfolgung dieses Vorwurfs.
+4. **Belehrung** des Mandanten: Zustimmung wird mit Verbrauch der Strafklage über den **abgegrenzten Tatvorwurf** wirksam; keine spaetere Strafverfolgung dieses Vorwurfs.
 5. **Erfuellungsnachweis** sichern: Zahlungsbeleg, Stundenkarte gemeinnuetzige Arbeit, TOA-Bestaetigung. Erfuellung innerhalb der gesetzten Frist (verlaengerbar nach § 153a Abs. 1 Satz 4 StPO).
 
 ## Schritt-für-Schritt-Anleitung (Anklage)
@@ -91,11 +91,11 @@ description: "Einstellung gegen Auflage nach § 153a StPO. Zustimmungserforderni
 | Sanktion | Geldstrafe / Bewaehrung | Auflage |
 | Vorstrafe | ja | nein |
 | Beschleunigung | ja | ja |
-| Hoehe Geld | Tagessatze x Zahl | i.d.R. aehnlich, oft etwas hoeher |
+| Höhe Geld | Tagessatze x Zahl | i.d.R. ähnlich, oft etwas hoeher |
 
 ## Typische Fehler
 
-- **Schwere der Schuld** uebersehen: Bei Wiederholungstaetern oder hoher Schadenshoehe ist § 153a STO oft nicht moeglich.
+- **Schwere der Schuld** uebersehen: Bei Wiederholungstaetern oder hoher Schadenshoehe ist § 153a STO oft nicht möglich.
 - **Auflagenerfuellung** versaeumt: Verfahren wird wiederaufgenommen.
 - **Zustimmung** vor Mandantenbelehrung: Unterschrift ohne Konsequenz-Verstaendnis.
 - **Auflagenhoehe** zu niedrig angesetzt: Staatsanwaltschaft / Gericht lehnen ab.

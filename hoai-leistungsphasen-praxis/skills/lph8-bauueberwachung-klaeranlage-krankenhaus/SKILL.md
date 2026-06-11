@@ -25,7 +25,7 @@ Klaerbecken zaehlen zu den am staerksten beanspruchten Stahlbetonbauwerken im ko
 
 ## Erste Schritte auf der Baustelle
 
-1. Betonmischungskonzept pruefen: WU-Beton WU-Richtlinie 2017, w/z-Wert kleiner 0.50, Zementgehalt mindestens 320 kg/m3, Dichtungskonzept Erlaeuterungsbericht vorhanden
+1. Betonmischungskonzept prüfen: WU-Beton WU-Richtlinie 2017, w/z-Wert kleiner 0.50, Zementgehalt mindestens 320 kg/m3, Dichtungskonzept Erlaeuterungsbericht vorhanden
 2. Schalung und Bewehrung Abnahme: Betondeckung 40 mm Innenseite, Fugenband-Lage Sohlplatte-Wand-Fuss kontrollieren, Fugenabstand max. 6 m
 3. Betonage Kontrollpruefung: Frischbetonproben je 50 m3, Konsistenz F2-F3, Kerntemperatur-Sensor bei Wanddicke groesser 400 mm
 4. Schalungsabnahme nach Ausschalen: Rissbreite Messlupe 0.2 mm, Protokollierung Ort und Breite je Riss
@@ -75,7 +75,7 @@ Klaerbecken zaehlen zu den am staerksten beanspruchten Stahlbetonbauwerken im ko
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

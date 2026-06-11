@@ -138,7 +138,7 @@ Bevor die Haendler-AGB finalisiert werden, klaere:
 1. Gibt es individuelle Haendlervertraege, die den AGB widersprechen (§ 305b BGB: Individualabrede geht vor)?
 2. Enthaelt die Plattformverbots-Klausel eine kartellrechtlich zulaessige Begruendung (Qualitaets-Schutz, kein pauschales Internetverbot)?
 3. Werden alle Marktanteile der Haendler geprueft — Freistellungsschwelle 30 % pro Haendler (Art. 2 Vertikal-GVO)?
-4. Ist die Vertragsstrafe-Kaskade verhaeltnismaessig (BGH-Pruefung § 343 BGB: Herabsetzung auf angemessenen Betrag)?
+4. Ist die Vertragsstrafe-Kaskade verhaeltnismaessig (BGH-Prüfung § 343 BGB: Herabsetzung auf angemessenen Betrag)?
 
 ## Aktuelle Rechtsprechung
 

@@ -19,7 +19,7 @@ description: "Krankenhaus-Dokumentation, Aufbewahrungsfristen und Beweislast: §
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsgrundlage (MD-Pruefung), Compliance-Schutz und im Streit oft die einzige Verteidigung. Aufbewahrungsfristen liegen zwischen 10 Jahren (Standard) und 30 Jahren (Strahlentherapie, Bluttransfusion), je nach Materie.
+Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsgrundlage (MD-Prüfung), Compliance-Schutz und im Streit oft die einzige Verteidigung. Aufbewahrungsfristen liegen zwischen 10 Jahren (Standard) und 30 Jahren (Strahlentherapie, Bluttransfusion), je nach Materie.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Doku-Pflicht ist betroffen (Aerztlich, Pflege, Aufklaerung, Strahlentherapie, Blut)?
@@ -41,7 +41,7 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 ## / Schritt für Schritt
 1. **Aktenklassen identifizieren:** Aerztlich, Pflege, Aufklaerung, Bildgebung, OP, Anaesthesie, Blut, Labor.
 2. **Aufbewahrungsfrist je Klasse:** Standard 10 Jahre, Roentgen/Strahlentherapie 30 Jahre, Blut 30 Jahre, Geburten 30 Jahre (haftungsrechtlich BGH).
-3. **Form pruefen:** Analog vs. digital, ePA-Anbindung, Manipulationssicherheit.
+3. **Form prüfen:** Analog vs. digital, ePA-Anbindung, Manipulationssicherheit.
 4. **Versionierung sichern:** Aenderungen § 630f Abs. 2 BGB nachvollziehbar.
 5. **Loeschplan nach Frist:** DSGVO-konforme Vernichtung.
 6. **Beweislastpruefung bei Streit:** Lueche zur Pflichtdoku → § 630h Abs. 3 BGB Beweislastumkehr.
@@ -54,8 +54,8 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 | Roentgen, Strahlentherapie | 30 Jahre (StrlSchV) | 30 Jahre |
 | Transfusion Blut | 30 Jahre (TFG) | 30 Jahre |
 | Geburten | empfohlen 30 Jahre | mind. bis Volljaehrigkeit + 3 Jahre |
-| Wahlleistungen, Vertraege | 6/10 Jahre (HGB/AO) | 10 Jahre |
-| Forschungsdaten (klinische Studie) | 10-25 Jahre (GCP) | je nach Pruefer |
+| Wahlleistungen, Verträge | 6/10 Jahre (HGB/AO) | 10 Jahre |
+| Forschungsdaten (klinische Studie) | 10-25 Jahre (GCP) | je nach Prüfer |
 
 ## Praxistipps
 - Lange Verjährungsfrist Behandlungsfehler (§ 199 BGB: 3 Jahre ab Kenntnis, Hoechstfrist 30 Jahre); deshalb Praxis 30 Jahre archivieren.
@@ -66,7 +66,7 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 
 ## Mustertexte
 **Internes Memo zur Aufbewahrungspflicht:**
-> Klassifizierung Krankenhausakten. Klasse A (allg. aerztlich): 30 Jahre. Klasse B (Roentgen, Strahlentherapie): 30 Jahre. Klasse C (Transfusion Blut): 30 Jahre. Klasse D (Geburten): 30 Jahre. Klasse E (Wahlleistungen/Vertraege): 10 Jahre. Verantwortlich: Archivleitung, Vertretung: …
+> Klassifizierung Krankenhausakten. Klasse A (allg. aerztlich): 30 Jahre. Klasse B (Roentgen, Strahlentherapie): 30 Jahre. Klasse C (Transfusion Blut): 30 Jahre. Klasse D (Geburten): 30 Jahre. Klasse E (Wahlleistungen/Verträge): 10 Jahre. Verantwortlich: Archivleitung, Vertretung: …
 
 **Verteidigung gegen Doku-Vorwurf:**
 > Die in der Klagebegruendung behauptete Dokumentationsluecke besteht nicht. Anlage A enthaelt den vollstaendigen Pflegebericht; Anlage B den Aerztlichen Verlauf; Anlage C die Aufklaerungsdokumentation. Eine Beweislastumkehr nach § 630h Abs. 3 BGB liegt nicht vor.
@@ -75,7 +75,7 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 - Aufbewahrung nur 10 Jahre — bei Spaetfaellen Beweisnot.
 - Digitale Akte ohne Manipulationssicherheit.
 - Aufklaerungsdokumente nicht in Patientenakte integriert.
-- Loeschen nach Frist ohne Pruefung etwa laufender Verfahren.
+- Loeschen nach Frist ohne Prüfung etwa laufender Verfahren.
 - Pflegedokumentation lueckenhaft — § 630h-Risiko.
 
 ## Quellen Stand 06/2026

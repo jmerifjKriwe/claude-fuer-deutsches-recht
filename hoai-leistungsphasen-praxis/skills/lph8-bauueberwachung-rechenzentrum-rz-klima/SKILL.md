@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise K
 ## Spezialwissen
 
 Rechenzentren der Tier-Klassen I bis IV nach Uptime Institute benoetigen ausfallsichere Infrastruktur.
-Die Bauueberwachung nach HOAI LPH 8 prueft Kuehlredundanz, Stromversorgungsredundanz und Brandschutz-Loeschanlagen.
+Die Bauueberwachung nach HOAI LPH 8 prüft Kuehlredundanz, Stromversorgungsredundanz und Brandschutz-Loeschanlagen.
 Messgroessen wie PUE (Power Usage Effectiveness) und DCIE werden durch korrekt installierte Messtechnik sichergestellt.
 
 ## Bauwerk und Auftrag
@@ -28,10 +28,10 @@ Messgroessen wie PUE (Power Usage Effectiveness) und DCIE werden durch korrekt i
 ## Erste Schritte auf der Baustelle
 
 1. Untergrundpruefung Traglast: Bodenbelastung Serverracks bis 12 kN/m, Bodenplatten-Nachweis Statik
-2. Doppelbodenmontage: Hoehe 60 cm für Kabeltrassen, Trittfestigkeit 4.5 kN nach EN 12825
+2. Doppelbodenmontage: Höhe 60 cm für Kabeltrassen, Trittfestigkeit 4.5 kN nach EN 12825
 3. Kuehlsystem Prazisionsklimatisierung: CRAC/CRAH Aufstellung, Kuehlwasserleitungen Druckpruefung
 4. USV-Anlage: Inbetriebnahme-Protokoll, Batterietestlauf 100 Prozent Last, Umschaltzeit kleiner 10 ms
-5. Gasloesch-System: Inert-Gas FM-200 oder Novec 1230, Aktivierungstest, Leckrate-Pruefung nach EN 15004
+5. Gasloesch-System: Inert-Gas FM-200 oder Novec 1230, Aktivierungstest, Leckrate-Prüfung nach EN 15004
 6. Physische Sicherheit: Zutrittskontrollsystem, Videoanlage, Mantraps, Kaefigabtrennungen Serverflaeche
 
 ## Normen und Rechtsrahmen
@@ -39,7 +39,7 @@ Messgroessen wie PUE (Power Usage Effectiveness) und DCIE werden durch korrekt i
 - HOAI 2021 § 34 Anlage 10 LPH 8 Grundleistungen
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
 - ASHRAE TC 9.9 Thermal Guidelines Data Centers: Zulassige Betriebstemperaturen Klasse A1-A4
-- DIN EN 15004-1 Gasloesch-Anlagen: Halogenkohlenwasserstoffe, Auslegung, Pruefung
+- DIN EN 15004-1 Gasloesch-Anlagen: Halogenkohlenwasserstoffe, Auslegung, Prüfung
 - DIN EN 50173 Informationstechnik: Anwendungsunabhaengige Kabelanlagen
 - EN ISO IEC 27001 IT-Sicherheitsmanagement: Anforderungen physische und umgebungsbezogene Sicherheit
 

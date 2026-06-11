@@ -23,7 +23,7 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 2. **EU-Schwellenwert ueberschritten?** — Vergabe: EU-weit ab 5.382.000 EUR (Bauleistungen 2024), 221.000 EUR (Liefer-/Dienstleistungen Kommunen), 143.000 EUR (Bundesbehörden) — beeinflusst welches Vergaberecht gilt.
 3. **Ruegefrist nach § 160 GWB beachtet?** — Ruege muss unverzueglich nach Erkennbarkeit des Verstosses bei dem Auftraggeber eingelegt werden; Praeklusion!
 4. **Zweckbindungsfrist?** — GVFG-gefoerderte Anlagen typischerweise 25 Jahre Zweckbindung; vorzeitige Aenderung erfordert Zustimmung.
-5. **Widerspruch gegen Zuwendungsbescheid?** — Nebenbestimmungen, Auflagen, Abruf-Fristen pruefen.
+5. **Widerspruch gegen Zuwendungsbescheid?** — Nebenbestimmungen, Auflagen, Abruf-Fristen prüfen.
 
 ## Zentrale Normen
 
@@ -42,7 +42,7 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 
 ## Schritt-für-Schritt-Vergabe
 
-1. **Schwellenwert pruefen:** EU-weite Ausschreibung oder national?
+1. **Schwellenwert prüfen:** EU-weite Ausschreibung oder national?
 2. **Vergabebekanntmachung analysieren:** Eignungskriterien, Zuschlagskriterien, Fristen.
 3. **Angebot oder Ruege?** — Wenn Ausschreibungsfehler erkennbar: Ruege sofort (§ 160 Abs. 3 GWB — "unverzueglich").
 4. **Zuschlag-Vorab-Information (§ 134 GWB):** 15 Tage Wartefrist vor Zuschlag.
@@ -51,8 +51,8 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 
 ## Schritt-für-Schritt-Förderung
 
-1. **Foerderantrag pruefen:** Vollstaendigkeit, Fristen, Nachweise.
-2. **Zuwendungsbescheid erhalten:** Nebenbestimmungen pruefen (Auflagen, Bedingungen, Widerrufsvorbehalt).
+1. **Foerderantrag prüfen:** Vollstaendigkeit, Fristen, Nachweise.
+2. **Zuwendungsbescheid erhalten:** Nebenbestimmungen prüfen (Auflagen, Bedingungen, Widerrufsvorbehalt).
 3. **Zweckbindungsfrist dokumentieren:** Foerdergegenstand definieren und schriftlich festhalten.
 4. **Verwendungsnachweis rechtzeitig einreichen:** GVFG-Fristen beachten.
 5. **Bei Rueckforderung:** Anhörung, Widerspruch, Verwaltungsgerichtsklage.

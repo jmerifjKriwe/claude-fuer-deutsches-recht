@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Eine rechtshistorische Timeline stellt die Entwicklung eines Rechtsproblems, Rechtsinstituts oder einer Norm in chronologischer Reihenfolge dar. Sie verbindet Normtexte, Gerichtsentscheidungen, Gesetzgebungsakte und Schluessel-Personen in einer uebersichtlichen Zeitleiste. Anforderungen: Jedes Element hat Datum, Bezeichnung, und Quellenangabe. Kritische Wendepunkte werden markiert. Kontinuitaeten und Brueche sind sichtbar. Klassische Timelines: BGB-Schuldrecht 1900-2022, Verfassungsgeschichte 1871-2024, Frauenwahlrecht 1848-1918. Timelines sind Visualisierungsinstrument und Gedankenstuetze.
+Eine rechtshistorische Timeline stellt die Entwicklung eines Rechtsproblems, Rechtsinstituts oder einer Norm in chronologischer Reihenfolge dar. Sie verbindet Normtexte, Gerichtsentscheidungen, Gesetzgebungsakte und Schlüssel-Personen in einer uebersichtlichen Zeitleiste. Anforderungen: Jedes Element hat Datum, Bezeichnung, und Quellenangabe. Kritische Wendepunkte werden markiert. Kontinuitaeten und Brueche sind sichtbar. Klassische Timelines: BGB-Schuldrecht 1900-2022, Verfassungsgeschichte 1871-2024, Frauenwahlrecht 1848-1918. Timelines sind Visualisierungsinstrument und Gedankenstuetze.
 
 ## Kernnormen / Kernquellen
 

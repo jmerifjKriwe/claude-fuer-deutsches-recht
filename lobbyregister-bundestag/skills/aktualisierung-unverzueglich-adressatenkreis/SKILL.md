@@ -25,7 +25,7 @@ description: "Steuert unverzuegliche Updates bei Stammdaten, Personen, Tätigkei
 1. Welche Angabe hat sich wann geaendert?
 2. Ist die Aenderung registerrelevant?
 3. Wer muss Text, Beleg und Freigabe liefern?
-4. Welche veroeffentlichten API-Felder muessen nach der Portalaktion kontrolliert werden?
+4. Welche veroeffentlichten API-Felder müssen nach der Portalaktion kontrolliert werden?
 
 ## API-Nachkontrolle
 
@@ -34,7 +34,7 @@ Nach einer Portalaktualisierung soll der Skill eine Wiedervorlage für den öffe
 1. Vorherige API-Antwort oder PDF-Version aus der Akte ziehen.
 2. Nach Veroeffentlichung `GET /registerentries/{registerNumber}?format=json` abrufen.
 3. Wenn die Version geaendert wurde, alte und neue Version gegenueberstellen.
-4. `lastUpdateDate`, `validFromDate`, `fiscalYearUpdate.updateMissing`, `refusedAnything`, Regelungsvorhaben, Stellungnahmen, Personen und Finanzdaten pruefen.
+4. `lastUpdateDate`, `validFromDate`, `fiscalYearUpdate.updateMissing`, `refusedAnything`, Regelungsvorhaben, Stellungnahmen, Personen und Finanzdaten prüfen.
 5. Abweichungen in `assets/templates/registerexport-diff.md` dokumentieren.
 
 ## Normen und Rechtsprechung

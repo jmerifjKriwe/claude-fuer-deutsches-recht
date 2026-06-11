@@ -33,7 +33,7 @@ Eine Patentfamilie existiert oder läuft.
 
 ### Strategische Bedeutung
 - Wenn die Patentanmeldung in der Prüfung stockt oder ein schneller Registertitel benötigt wird, kann das Gebrauchsmuster als ungeprüftes Schutzrecht parallel aufgebaut werden; den erfinderischen Schritt aber nicht als bloßes "Patent light" behandeln.
-- Auch waehrend laufender Patentpruefung als paralleles Schutzrecht moeglich (Doppelschutz § 25 PatG).
+- Auch waehrend laufender Patentpruefung als paralleles Schutzrecht möglich (Doppelschutz § 25 PatG).
 
 ### Voraussetzungen
 1. Existierende Patentanmeldung beim DPMA oder als europaeische Patentanmeldung benannt für DE.

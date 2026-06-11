@@ -13,7 +13,7 @@ description: "Dolmetscher beim SG nach § 185 GVG. Kostenfrei für Buerger mit S
 
 ## Worum geht es?
 
-Wenn Sie kein oder nur wenig Deutsch sprechen — oder gehoerlos sind — koennen Sie einen Dolmetscher bekommen. Auf Staatskosten. Diese Skill zeigt das.
+Wenn Sie kein oder nur wenig Deutsch sprechen — oder gehoerlos sind — können Sie einen Dolmetscher bekommen. Auf Staatskosten. Diese Skill zeigt das.
 
 ## In einfacher Sprache
 
@@ -41,7 +41,7 @@ Sie sprechen kein gutes Deutsch. Oder Sie sind gehoerlos. Sie haben Recht auf ei
 
 ### Schritt 1 — Antrag stellen
 
-So frueh wie moeglich beim SG:
+So frueh wie möglich beim SG:
 
 ```
 Sozialgericht [Ort] [Ort, Datum]
@@ -80,7 +80,7 @@ Schriftliche Uebersetzung des Urteils oder anderer Schriftstuecke ist eingeschra
 
 ### Schritt 6 — Selbst mitgebrachter Dolmetscher
 
-Manchmal moeglich (z.B. Familienmitglied), aber:
+Manchmal möglich (z.B. Familienmitglied), aber:
 
 - Muss neutral sein
 - Gericht entscheidet, ob das ausreicht
@@ -90,7 +90,7 @@ Manchmal moeglich (z.B. Familienmitglied), aber:
 
 Sagen Sie sofort: "Ich habe das nicht verstanden, bitte langsamer." Der Dolmetscher hilft dann.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sprache genau benennen** (Dialekt nennen, wenn relevant).
 - **Antrag fruehzeitig**: das Gericht muss Dolmetscher organisieren.

@@ -62,12 +62,12 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `ad-insiderliste` | Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation im Insiderrecht Compliance. |
 | `aktienr-anleiheemission` | Prueft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour DVO 2016/1052, Handelsverbote, Ad-hoc und Offenlegungspflichten im Insiderrecht Compliance. |
-| `analystencall` | Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Pruefung und Post-Call-Protokoll im Insiderrecht Compliance. |
+| `analystencall` | Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Prüfung und Post-Call-Protokoll im Insiderrecht Compliance. |
 | `anleiheemission` | Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte im Insiderrecht Compliance. |
 | `archivierung` | Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept im Insiderrecht Compliance. |
 | `aufschubentscheidung-market` | Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht im Insiderrecht Compliance. |
 | `aufsichtsratssonderpr` | Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht im Insiderrecht Compliance. |
-| `bankaufsichtliches-handeln` | Analysiert Insiderrecht bei bankaufsichtsrechtlichen Massnahmen (KWG, SSM): Vertraulichkeit, Ad-hoc-Pflicht und Koordination mit BaFin/EZB im Insiderrecht Compliance. |
+| `bankaufsichtliches-handeln` | Analysiert Insiderrecht bei bankaufsichtsrechtlichen Maßnahmen (KWG, SSM): Vertraulichkeit, Ad-hoc-Pflicht und Koordination mit BaFin/EZB im Insiderrecht Compliance. |
 | `berater-kanzlei-bank` | Prueft insiderrechtliche Pflichten externer Berater (Anwaelte, WPs, Banken): Insiderliste, Handelsverbot, Chinesische Mauern und Haftungsrisiken im Insiderrecht Compliance. |
 | `beraterdepot-employee` | Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten im Insiderrecht Compliance. |
 | `bernahmeangebot` | Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten im Insiderrecht Compliance. |
@@ -80,14 +80,14 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `directors-closed` | Prueft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen im Insiderrecht Compliance. |
 | `dividenden-nderung` | Prueft Insiderinformations-Entstehung bei Dividendenaenderungen: Vorstandsvorschlag, AR-Billigung, Kapitalmarktkonsensus-Abweichung und Ad-hoc-Pflicht im Insiderrecht Compliance. |
 | `dual-listed-issuer` | Koordiniert MAR-Pflichten für Dual-Listed-Emittenten: parallele Ad-hoc-Pflichten, Sprachfassungen, Zeitzonenkonflikte und multiple Regulatoren im Insiderrecht Compliance. |
-| `employee-rumor` | Bewertet Mitarbeiter-Geruechte ueber Insiderwissen: Klaerungspflichten des Compliance-Officers, Insiderlisten-Folgen und Eskalation im Insiderrecht Compliance. |
+| `employee-rumor` | Bewertet Mitarbeiter-Geruechte über Insiderwissen: Klaerungspflichten des Compliance-Officers, Insiderlisten-Folgen und Eskalation im Insiderrecht Compliance. |
 | `employee-schulung` | Prueft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten im Insiderrecht Compliance. |
 | `esg-lieferkettenereignis` | Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei ESG-Schockereignissen (Umweltvorfaelle, Governance-Skandale, Social-Misstaende) im Insiderrecht Compliance. |
 | `familienangeh-rige` | Prueft Handelsverbote und Meldepflichten für Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko im Insiderrecht Compliance. |
 | `gerichtsverfahren-sanktionen` | Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen im Insiderrecht Compliance. |
 | `guidance-analystencall` | Prueft wann ein Guidance-Update (Prognoseaenderung) zur Insiderinformation wird, koordiniert Ad-hoc und schreibt den Prognose-Passus im Insiderrecht Compliance. |
 | `handelsverbot-unlawful` | Prueft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von Absicht, analysiert Safe-Harbour-Ausnahmen und stellt Verteidigungsdokumentation sicher im Insiderrecht Compliance. |
-| `ins-055-incident-drill` | Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck: Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc... |
+| `ins-055-incident-drill` | Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck: Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc... |
 | `insiderinformation-zwischenschritte` | Prueft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz im Insiderrecht Compliance. |
 | `insiderliste-art18` | Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung im Insiderrecht Compliance. |
 | `insolvenzreife` | Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen im Insiderrecht Compliance. |
@@ -114,7 +114,7 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `vorstand-berater` | Prueft Insiderrecht-Pflichten von Vorstand und Aufsichtsrat: Wissenszurechnung, Geschaeftsordnungspflichten, AktG-Beziehung und Haftungsrisiken im Insiderrecht Compliance. |
 | `vorstandswechsel-dividenden` | Prueft Insiderrecht bei Vorstandswechseln: Zeitpunkt der Insiderinformation, Ad-hoc-Pflicht, Abberufung vs. Ruecktritt und Vertraulichkeitspflichten im Insiderrecht Compliance. |
 | `warenderivate` | Prueft Insiderrecht und Marktmanipulationsverbot für Warenderivate: MAR-Anwendungsbereich, Spot-Market-Verzahnung und REMIT für Energiemaerkte im Insiderrecht Compliance. |
-| `whistleblower-meldung` | Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgegennahme, Pruefung, Eskalation und MAR-Folgen im Insiderrecht Compliance. |
+| `whistleblower-meldung` | Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgegennahme, Prüfung, Eskalation und MAR-Folgen im Insiderrecht Compliance. |
 | `zwischenschritte-ma` | Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard für Zwischenschritte im Insiderrecht Compliance. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

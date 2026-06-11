@@ -69,8 +69,8 @@ Sachverhalt: Vergleich Ehegueterrecht.
 ### Heutige Fortwirkung
 - BGB ab 01.01.1900 vereinheitlicht.
 - Aber: Alteinraege im Grundbuch in der Rheinprovinz oft unterschiedlich strukturiert als in Brandenburg.
-- Erbfaelle vor 1900 nach Ortsrecht zu pruefen — bei alten Familienstreitigkeiten heute noch relevant.
+- Erbfaelle vor 1900 nach Ortsrecht zu prüfen — bei alten Familienstreitigkeiten heute noch relevant.
 
 ### Methodisch wichtig
-- Lokales Recht im 19. Jh. immer pruefen.
+- Lokales Recht im 19. Jh. immer prüfen.
 - ALR vs. Code civil vs. Gemeines Recht (Sachsen, sueddeutsche Staaten) je nach Ortsrecht.

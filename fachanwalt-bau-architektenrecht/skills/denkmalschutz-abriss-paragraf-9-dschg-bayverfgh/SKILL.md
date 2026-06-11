@@ -7,7 +7,7 @@ description: "Denkmalschutz Abriss Paragraf 9 Dschg Bayverfgh: fachanwaltlicher 
 
 ## Einsatzlage
 
-Eigentuemer will denkmalgeschuetztes Gebaeude abreissen; Behoerde verweigert Genehmigung.
+Eigentümer will denkmalgeschuetztes Gebaeude abreissen; Behoerde verweigert Genehmigung.
 
 ## Normenanker
 

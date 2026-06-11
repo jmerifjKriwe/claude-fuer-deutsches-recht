@@ -35,9 +35,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Zuechtigungsbefugnis (historisch-kritisch)
 
-- ALR II 5 §§ — eingeschraenkte Befugnis zur koerperlichen Massnahme.
+- ALR II 5 §§ — eingeschraenkte Befugnis zur koerperlichen Maßnahme.
 - Stoesse Schlaege Ohrfeigen waren rechtlich strittig.
-- Bei schwerwiegender Misshandlung Klage moeglich.
+- Bei schwerwiegender Misshandlung Klage möglich.
 
 ## Wichtig — historischer Kontext
 

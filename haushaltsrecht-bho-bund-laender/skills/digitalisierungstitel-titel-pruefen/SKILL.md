@@ -3,7 +3,7 @@ name: digitalisierungstitel-titel-pruefen
 description: "Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Digitalisierungstitel Titel Pruefen
+# Digitalisierungstitel Titel Prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Titel 
 
 ## Normenanker
 
-Arbeitsfokus: **Digitalisierungstitel Titel Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Digitalisierungstitel Titel Prüfen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
 - `§ 17 BHO` — Einzelveranschlagung.

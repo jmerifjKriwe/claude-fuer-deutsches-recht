@@ -29,10 +29,10 @@ Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht ers
 
 - **§ 411 Abs. 2 StPO** — Entbindung von Erscheinungspflicht: Gericht kann anordnen, Verteidiger kann allein handeln
 - **§ 412 StPO** — Verwerfung des Einspruchs: unentschuldigtes Ausbleiben → Einspruch gilt als zurueckgenommen; Beschluss
-- **§ 412 Satz 2 StPO** — Wiedereinsetzung moeglich wenn Ausbleiben entschuldigt
+- **§ 412 Satz 2 StPO** — Wiedereinsetzung möglich wenn Ausbleiben entschuldigt
 - **§ 44 StPO** — Wiedereinsetzung allgemein (s. separaten Skill)
 - **§ 231 StPO** — Unterbrechung bei Ausbleiben des Angeklagten (in der allgemeinen Hauptverhandlung; § 411 lex specialis)
-- **§ 213 StPO** — Terminbestimmung; Terminsverlegung moeglich
+- **§ 213 StPO** — Terminbestimmung; Terminsverlegung möglich
 
 ## Aktuelle Rechtsprechung
 
@@ -78,5 +78,5 @@ Mit freundlichen Gruessen [KANZLEI]
 
 - Entbindungsantrag vor dem Termin stellen, nicht am Terminstag.
 - Bei Verwerfung nach § 412 StPO: sofort Wiedereinsetzungsantrag (1-Woche-Frist § 45 StPO).
-- Mandant immer ueber Folgen des Nichterscheinens aufklaeren.
+- Mandant immer über Folgen des Nichterscheinens aufklaeren.
 - Anwaltliche Endkontrolle vor dem Termin.

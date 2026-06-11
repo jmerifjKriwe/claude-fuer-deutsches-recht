@@ -49,7 +49,7 @@ Sieben-Fragen-Diagnose:
 
 ## Mandantenfuehrung Schritt-für-Schritt
 
-1. **Zuerst: Quellenliste pruefen.** Die folgenden offiziellen Quellen sind massgeblich:
+1. **Zuerst: Quellenliste prüfen.** Die folgenden offiziellen Quellen sind massgeblich:
  - BfDI: bfdi.bund.de (Taetigkeitsberichte, Konsultationen, FAQ).
  - EDSA: edpb.europa.eu (Leitlinien, Stellungnahmen, koordinierte Aktionen).
  - EuGH: curia.europa.eu (Rechtsprechungsdatenbank).
@@ -104,7 +104,7 @@ Verifizierung: [Quelle, URL gespeichert in Akte].
 
 > Sehr geehrte Damen und Herren,
 >
-> in einer datenschutzrechtlichen Fragestellung [knapp] bitten wir um Mitteilung Ihrer aufsichtlichen Auffassung, soweit Sie informelle Auskuenfte erteilen koennen. Hintergrund ist [knapp]. Eine Verarbeitung des Sachverhalts findet [noch nicht / bereits seit Datum] statt. Wir verstehen, dass Ihre Auskunft keinen Verwaltungsakt darstellt.
+> in einer datenschutzrechtlichen Fragestellung [knapp] bitten wir um Mitteilung Ihrer aufsichtlichen Auffassung, soweit Sie informelle Auskuenfte erteilen können. Hintergrund ist [knapp]. Eine Verarbeitung des Sachverhalts findet [noch nicht / bereits seit Datum] statt. Wir verstehen, dass Ihre Auskunft keinen Verwaltungsakt darstellt.
 >
 > Mit freundlichen Gruessen
 
@@ -116,7 +116,7 @@ Verifizierung: [Quelle, URL gespeichert in Akte].
 - Landesaufsicht falsch zugeordnet (Bayerisches LDA für Privatbereich Bayern, Bayerischer Landesbeauftragter für öffentlichen Bereich Bayern — unterscheiden).
 - TDDDG (seit 14.05.2024) als TTDSG zitiert.
 
-**Was triggert die Aufsicht negativ?** Veraltete Zitate, EuGH-Az ohne Datum, Bezug auf Aufsichtspraxis anderer Länder ohne Pruefung.
+**Was triggert die Aufsicht negativ?** Veraltete Zitate, EuGH-Az ohne Datum, Bezug auf Aufsichtspraxis anderer Länder ohne Prüfung.
 
 ## Quellen Stand 06/2026
 

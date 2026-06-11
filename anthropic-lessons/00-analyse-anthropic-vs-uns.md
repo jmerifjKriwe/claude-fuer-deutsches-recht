@@ -6,13 +6,13 @@ nach Absprache, damit Codex' parallele Arbeit nicht ueberschrieben wird.
 
 **Quelle Anthropic-Repo:** https://github.com/anthropics/claude-for-legal
 
-**Wichtig:** Die Anthropic-Skills sind lang, weil sie fuer
+**Wichtig:** Die Anthropic-Skills sind lang, weil sie für
 US-Grosskanzleien/Inhouse-Counsel mit MCP-Anbindung (Westlaw, CourtListener,
 iManage, Slack) gebaut sind und ein Mandantenleben begleiten. **Nicht alle unserer
-Plugins haben diesen Kontext.** Welche Plugins fuer Anthropic-Tiefe geeignet sind
-und welche kurz bleiben muessen, steht in
+Plugins haben diesen Kontext.** Welche Plugins für Anthropic-Tiefe geeignet sind
+und welche kurz bleiben müssen, steht in
 `CODEX-SELEKTION-welche-skills-tief.md`. Die Pflicht-Sektionen aus
-`CODEX-INSTRUKTION-skill-tiefe-boost.md` gelten nur fuer Klasse A (Grosskanzlei,
+`CODEX-INSTRUKTION-skill-tiefe-boost.md` gelten nur für Klasse A (Grosskanzlei,
 MCP-anbindbar, mandatsbegleitend - rund 70 von 112 Plugins).
 
 ## Quantitativer Vergleich
@@ -45,12 +45,12 @@ anderen Skills lesen diese Datei VOR jeder Aktion.
 
 **Effekt:** Skills brauchen keine Kalt-Frage `Wer fragt? Welche Rolle?` -
 diese Information ist persistent. Antworten werden konsistent, weil
-Risikokalibrierung, Eskalationskette, Standardseite (Klaeger/Beklagter),
+Risikokalibrierung, Eskalationskette, Standardseite (Kläger/Beklagter),
 Erscheinungsort etc. einmal erfasst und immer geladen werden.
 
 Bei uns wird die Rolle in jedem Skill neu abgefragt. Das ist redundant.
 
-### 2. Shared `company-profile.md` ueber alle Plugins
+### 2. Shared `company-profile.md` über alle Plugins
 
 `references/company-profile-template.md` definiert Mandanten-/Kanzleidaten
 auf Marketplace-Ebene. Das **erste** Plugin-Setup schreibt diese Datei
@@ -59,7 +59,7 @@ Branche und Eskalationskette nur einmal eingeben.
 
 ### 3. `customize`-Skill pro Plugin
 
-Punktuelles Aendern eines Profil-Feldes ohne Cold-Start neu laufen lassen.
+Punktuelles Ändern eines Profil-Feldes ohne Cold-Start neu laufen lassen.
 Praktisch und schoen modular.
 
 ### 4. `matter-workspace` Konvention
@@ -77,8 +77,8 @@ Diese Konvention verbindet Skills sauber: `matter-intake` legt an,
 `chronology` schreibt fort, `matter-update` aktualisiert, `portfolio-status`
 liest aggregiert.
 
-Wir haben Testakten, aber **kein Schema fuer aktive Mandate**. Das ist
-fuer Mandanten weniger nuetzlich.
+Wir haben Testakten, aber **kein Schema für aktive Mandate**. Das ist
+für Mandanten weniger nuetzlich.
 
 ### 5. Agents (Subagents) mit definierten Tool-Scopes
 
@@ -100,7 +100,7 @@ Berechtigungen. Wir haben gar keine Agents.
 ### 6. Managed-Agent-Cookbooks
 
 Unter `managed-agent-cookbooks/<name>/` liegen `agent.yaml`-Konfigurationen
-fuer headless Hintergrund-Agenten. Sie verweisen auf dieselben Skills wie
+für headless Hintergrund-Agenten. Sie verweisen auf dieselben Skills wie
 das interaktive Plugin (`file: ../../litigation-legal/agents/docket-watcher.md`)
 - eine **einzige Quelle der Wahrheit**. Wir haben so etwas nicht.
 
@@ -111,15 +111,15 @@ Everlaw, TopCounsel, CourtListener, Trellis, Westlaw etc. Das macht
 Skills sofort tool-faehig - der Skill kann `mcp__courtlistener__search_opinion`
 aufrufen, wenn der User den Connector hat.
 
-Wir nutzen Connectors nur ueber den `pplx-cli` und haben keine
+Wir nutzen Connectors nur über den `pplx-cli` und haben keine
 Plugin-deklarierten MCP-Server. Da liegt erhebliches Potenzial.
 
-### 8. Side-Framing (Klaeger/Beklagter) durchgaengig
+### 8. Side-Framing (Kläger/Beklagter) durchgaengig
 
 Jedes Litigation-Skill liest `## Side` aus dem Practice-Profil und passt
 Vokabular und Tagging an:
 
-- Klaeger: 🔴 "establishes element", "starts SOL clock"
+- Kläger: 🔴 "establishes element", "starts SOL clock"
 - Beklagter: 🔴 "breaks element", "opens SOL defense"
 
 Wir kennzeichnen das **manchmal**, aber nicht systematisch.
@@ -131,9 +131,9 @@ fragen zuerst: "Sind diese Dokumente aus Disclosure/Discovery?" Dann
 Verweis auf CPR 31.22 (UK) / Rule 26(c) (US). Das ist **defensive
 Berufsrecht-Architektur**.
 
-Wir haben das gar nicht. Fuer deutsches Recht aequivalent:
+Wir haben das gar nicht. Für deutsches Recht äquivalent:
 
-- Akteneinsicht nach § 147 StPO: nur fuer Verteidigung verwendbar
+- Akteneinsicht nach § 147 StPO: nur für Verteidigung verwendbar
 - Akteneinsicht im Zivilprozess nach § 299 ZPO: zweckgebunden
 - DSGVO-Zweckbindung
 - Anwaltliche Schweigepflicht § 43a BRAO bei Drittakten
@@ -147,7 +147,7 @@ Jede zitierte Norm/Entscheidung wird mit Tool-Quelle markiert:
 ```
 
 So sieht der Anwalt sofort, was er nachpruefen muss. Wir haben nur die
-Konvention "dejure.org / openjur.de", aber **kein Tag-System** fuer
+Konvention "dejure.org / openjur.de", aber **kein Tag-System** für
 Konfidenz.
 
 ### 11. "What it does NOT do" Sektion am Skill-Ende
@@ -205,7 +205,7 @@ den Ablauf. Wir geben oft erst die Erklaerung und dann Schritte.
 
 2. **Kompakte einsteigerfreundliche Skills.** Unser Median ~4.500 Byte ist
    leichter zu lesen. Anthropic-Skills mit 30-49k Byte sind ueberwaeltigend
-   fuer Solo-Anwaelte.
+   für Solo-Anwaelte.
 
 3. **Testakten.** Wir haben echte deutschsprachige Mandantenakten als
    Sandboxes. Anthropic hat nichts vergleichbares.
@@ -223,7 +223,7 @@ den Ablauf. Wir geben oft erst die Erklaerung und dann Schritte.
 In Reihenfolge des erwarteten Nutzens:
 
 1. **`cold-start-interview` + Practice-Profile-CLAUDE.md pro Plugin**.
-   Reduziert Redundanz massiv. Solo-Anwaelte muessen ihre Daten einmal
+   Reduziert Redundanz massiv. Solo-Anwaelte müssen ihre Daten einmal
    eingeben, danach kennen alle Skills sie.
 
 2. **`matter-workspace` Konvention** mit `matters/<slug>/matter.md`,
@@ -231,7 +231,7 @@ In Reihenfolge des erwarteten Nutzens:
    echten Mandatsketten.
 
 3. **`agents/` mit Tool-Scope-Deklaration**. Wir koennten Scheduled Agents
-   fuer Frist-Watching, Rechtsprechungs-Monitoring, DSGVO-Beschwerde-Triage
+   für Frist-Watching, Rechtsprechungs-Monitoring, DSGVO-Beschwerde-Triage
    bauen.
 
 4. **"What this skill does NOT do" als Standardabschnitt**. Klare
@@ -260,11 +260,11 @@ Diese Branch enthaelt:
 
 - `00-analyse-anthropic-vs-uns.md` (diese Datei)
 - `01-vorschlag-cold-start-interview.md` - Prototyp eines Cold-Start-Skills
-  fuer **deutsches Recht** (am Beispiel fachanwalt-strafrecht)
-- `02-vorschlag-matter-workspace.md` - Konvention fuer aktive Mandate
-- `03-vorschlag-source-attribution-tags.md` - Tag-System fuer Quellenherkunft
-- `04-vorschlag-agents-skeleton.md` - Skeleton fuer einen Frist-Watcher-Agent
-- `05-vorschlag-not-do-section.md` - Standardabschnitt fuer Negativ-Abgrenzung
+  für **deutsches Recht** (am Beispiel fachanwalt-strafrecht)
+- `02-vorschlag-matter-workspace.md` - Konvention für aktive Mandate
+- `03-vorschlag-source-attribution-tags.md` - Tag-System für Quellenherkunft
+- `04-vorschlag-agents-skeleton.md` - Skeleton für einen Frist-Watcher-Agent
+- `05-vorschlag-not-do-section.md` - Standardabschnitt für Negativ-Abgrenzung
 
 Alle Vorschlaege sind **Skizzen**, nicht produktionsbereit. Sie werden erst
 nach Codex' Update-Welle mit dir gemeinsam in `main` ueberfuehrt.

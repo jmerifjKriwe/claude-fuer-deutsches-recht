@@ -12,7 +12,7 @@ description: "Patentlizenzen nach PatG und EPUe: $$ 9 und 15 PatG Lizenz; Erfind
 - $ 24 PatG - Zwangslizenz (oeffentliches Interesse; sehr selten)
 - $$ 33 ff. PatG - Anmeldung, Erteilungsverfahren DPMA
 - EPUe - Europaeisches Patentuebereinkommen; EPA-Patente
-- ArbnErfG - Arbeitnehmererfindergesetz; $ 9 Verguetung Erfinder
+- ArbnErfG - Arbeitnehmererfindergesetz; $ 9 Vergütung Erfinder
 - VO (EU) Nr. 316/2014 (TT-GVO) - Technologietransfer-Gruppenfreistellung
 
 ## Lizenzformen
@@ -29,7 +29,7 @@ description: "Patentlizenzen nach PatG und EPUe: $$ 9 und 15 PatG Lizenz; Erfind
 
 | Lizenzgeber | Lizenznehmer |
 |---|---|
-| Verteidigung des Patents (Einspruch, Nichtigkeitsverfahren) | Verguetung |
+| Verteidigung des Patents (Einspruch, Nichtigkeitsverfahren) | Vergütung |
 | Aufrechterhaltung (Jahresgebuehren) | Benutzungspflicht ggf. (Mindestlizenzen) |
 | Best-Knowledge-Garantie (Patent in Kraft, kein Drittrechtsstreit) | Meldepflichten (Stueckzahlen, Umsatz) |
 | Erstattungspflicht bei Rueckruf | Verteidigungs-Mitwirkung im Verletzungsstreit |
@@ -52,16 +52,16 @@ Bei Standardpatenten (z. B. Mobilfunk, Codec): FRAND-Pflicht (fair, reasonable, 
 ## Klausel-Bausteine (DE)
 
 **1. Lizenzgegenstand Patent:**
-> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das einfache, nicht ausschliessliche Recht ein, die in **Anlage A** bezeichneten Patente und Patentanmeldungen ("Lizenzpatente") fuer das Anwendungsfeld [Feld] im Territorium [Territorium] zu nutzen."
+> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das einfache, nicht ausschliessliche Recht ein, die in **Anlage A** bezeichneten Patente und Patentanmeldungen ("Lizenzpatente") für das Anwendungsfeld [Feld] im Territorium [Territorium] zu nutzen."
 
 **2. Lizenzgebuehren:**
-> "Der Lizenznehmer zahlt eine Running Royalty in Hoehe von [X] % des Nettoumsatzes mit Produkten, die unter mindestens einen Anspruch eines Lizenzpatents fallen ("Lizenzprodukte"), zuzueglich gesetzlicher Umsatzsteuer."
+> "Der Lizenznehmer zahlt eine Running Royalty in Höhe von [X] % des Nettoumsatzes mit Produkten, die unter mindestens einen Anspruch eines Lizenzpatents fallen ("Lizenzprodukte"), zuzueglich gesetzlicher Umsatzsteuer."
 
 **3. Erfindervergutung:**
 > "Der Lizenzgeber garantiert, dass alle Arbeitnehmererfindervergutungen nach $$ 9 ff. ArbnErfG hinsichtlich der Lizenzpatente vollstaendig abgegolten sind."
 
 **4. Verteidigung:**
-> "Der Lizenzgeber traegt die Aufrechterhaltungsgebuehren und fuehrt etwaige Nichtigkeitsklagen oder Einspruechen selbst. Der Lizenznehmer informiert den Lizenzgeber unverzueglich ueber Kenntnisnahme von Verletzungen Dritter."
+> "Der Lizenzgeber traegt die Aufrechterhaltungsgebuehren und fuehrt etwaige Nichtigkeitsklagen oder Einspruechen selbst. Der Lizenznehmer informiert den Lizenzgeber unverzueglich über Kenntnisnahme von Verletzungen Dritter."
 
 ## Anschluss
 

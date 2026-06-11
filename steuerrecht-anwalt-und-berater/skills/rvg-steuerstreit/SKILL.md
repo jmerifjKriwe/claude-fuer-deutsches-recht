@@ -17,7 +17,7 @@ description: "Vergueterungsskill für steuerrechtliche Mandate — Abgrenzung RV
 2. Welcher Streitwert oder Gegenstandswert ist anzusetzen?
 3. Geschaefts- Verfahrens- oder Terminsgebuehr — welche Phase?
 4. Soll Pauschalhonorar oder Stundenhonorar nach § 4 RVG vereinbart werden?
-5. Ist Erfolgshonorar § 4a RVG ausnahmsweise zulaessig?
+5. Ist Erfolgshonorar § 4a RVG ausnahmsweise zulässig?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen

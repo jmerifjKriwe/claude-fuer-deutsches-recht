@@ -157,7 +157,7 @@ Whitman Brennan Forsythe LLP
 
 Bevor die Opposition eingelegt wird, klaere:
 1. Laeuft die 30-Taege-Oppositionsfrist (ab PTO Official Gazette-Veroeffentlichung) noch — oder muss eine Extension beantragt werden?
-2. Ist klotzkette SA bereits im US-Markt taetig (Priority durch Section 44(d) oder Section 66(a) oder Use in Commerce)?
+2. Ist klotzkette SA bereits im US-Markt tätig (Priority durch Section 44(d) oder Section 66(a) oder Use in Commerce)?
 3. Welche Grounds of Opposition werden geltend gemacht — § 2(d) Likelihood of Confusion, Dilution, Priority?
 4. Gibt es Discovery-Risiken (interne klotzkette-Dokumente, die potentiell Fraud on the PTO zeigen koennten)?
 
@@ -165,6 +165,6 @@ Bevor die Opposition eingelegt wird, klaere:
 
 > **Carefirst of Maryland, Inc. v. FirstHealth of the Carolinas, Inc., 77 USPQ2d 1492 (TTAB 2005):** Im TTAB-Oppositionsverfahren tragt die opposierende Partei die Beweislast für Priority und Likelihood of Confusion; bloss beschreibende Common-Law-Marken begruenden keine ausreichende Priority.
 
-> **Coach Services, Inc. v. Triumph Learning LLC, 668 F.3d 1356 (Fed. Cir. 2012):** Der Bekanntheitsschutz nach § 43(c) Lanham Act (Federal Dilution) erfordert, dass die Marke "widely recognized by the general consuming public"; Nischen-Luxusmarken koennen diesen Standard schwer erfuellen, wenn kein substantieller US-Marktanteil besteht.
+> **Coach Services, Inc. v. Triumph Learning LLC, 668 F.3d 1356 (Fed. Cir. 2012):** Der Bekanntheitsschutz nach § 43(c) Lanham Act (Federal Dilution) erfordert, dass die Marke "widely recognized by the general consuming public"; Nischen-Luxusmarken können diesen Standard schwer erfuellen, wenn kein substantieller US-Marktanteil besteht.
 
 > **In re Bose Corp., 580 F.3d 1240 (Fed. Cir. 2009):** Fraud on the PTO erfordert nachgewiesene subjektive Taeuschungsabsicht; blosse Ungenauigkeiten im Benutzungsnachweis begruenden keinen Fraud, solange der Anmelder gutglaeubig an die Richtigkeit seiner Erklaerung glauben durfte.

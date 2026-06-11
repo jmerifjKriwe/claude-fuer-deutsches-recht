@@ -3,7 +3,7 @@ name: pruefumfang-was-standardkostenmodell-skm
 description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Stand"
 ---
 
-# NKR-Pruefumfang — was prueft der NKR nicht
+# NKR-Pruefumfang — was prüft der NKR nicht
 
 ## Arbeitsweg
 
@@ -25,7 +25,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 
 ## Rechtlicher und methodischer Rahmen
 
-- **§ 1 Abs. 1 NKRG** — Pruefung "auf die Darstellung des Erfuellungsaufwands"
+- **§ 1 Abs. 1 NKRG** — Prüfung "auf die Darstellung des Erfuellungsaufwands"
 - **§ 4 NKRG** — Pruefungsgegenstand: Erfuellungsaufwand und sein Methodik
 - **§ 6 NKRG** — Stellungnahme
 - **§ 44 GGO** — Gesetzesfolgenabschaetzung (umfasst mehr als nur Erfuellungsaufwand)
@@ -34,7 +34,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 
 ## Pruefraster / Schritt für Schritt
 
-### Der NKR prueft
+### Der NKR prüft
 
 1. **Erfuellungsaufwand** (Buerger, Wirtschaft, Verwaltung) — vollstaendig dargestellt?
 2. **Methodik** — Standardkostenmodell (SKM) korrekt angewandt?
@@ -47,7 +47,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 9. **Praktikabilitaet im Vollzug** — für Verwaltung leistbar?
 10. **Evaluierungsklausel / Befristung** — vorgesehen?
 
-### Der NKR prueft **nicht**
+### Der NKR prüft **nicht**
 
 1. **Politische Zielwahl** ("Soll diese Branche reguliert werden?")
 2. **Verfassungsmaessigkeit** — BMJ-Rechtsabteilung, ggf. BVerfG
@@ -62,13 +62,13 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
-- Ressort umgeht NKR durch Verschieben der Befassungspflicht (z.B. ueber parlamentarische Aenderung)
+- Ressort umgeht NKR durch Verschieben der Befassungspflicht (z.B. über parlamentarische Aenderung)
 - Ressort liefert "alibimaessig" Zahlen ohne Methodik
 - Ressort behauptet "kein Aufwand" ohne Plausibilisierung
 
 ## Trade-off-Matrix
 
-| Anliegen | NKR | Zustaendig stattdessen |
+| Anliegen | NKR | Zuständig stattdessen |
 |---|---|---|
 | Verfassungsmaessigkeit | nein | BMJ, BVerfG |
 | Bundeshaushalt | nein | BMF, BRH |
@@ -80,13 +80,13 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Die Pruefung des NKR ist gemaess § 4 NKRG auf die Darstellung des Erfuellungsaufwands beschraenkt. Eine Bewertung der ordnungspolitischen Zielsetzung erfolgt nicht."
-- "Hinweise zur Verfassungs- oder Europarechtskonformitaet sind nicht Gegenstand der NKR-Pruefung; insoweit verweist der NKR auf die zuständige Ressortpruefung."
-- "Der NKR begruesst grundsaetzlich die Zielsetzung des Vorhabens, beschraenkt seine Stellungnahme aber auf die methodischen Aspekte des Erfuellungsaufwands."
+- "Die Prüfung des NKR ist gemäß § 4 NKRG auf die Darstellung des Erfuellungsaufwands beschraenkt. Eine Bewertung der ordnungspolitischen Zielsetzung erfolgt nicht."
+- "Hinweise zur Verfassungs- oder Europarechtskonformitaet sind nicht Gegenstand der NKR-Prüfung; insoweit verweist der NKR auf die zuständige Ressortpruefung."
+- "Der NKR begruesst grundsätzlich die Zielsetzung des Vorhabens, beschraenkt seine Stellungnahme aber auf die methodischen Aspekte des Erfuellungsaufwands."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
-- "Der NKR hat das Vorhaben verfassungsrechtlich gepruft und nicht beanstandet" — falsch, NKR prueft das nicht
+- "Der NKR hat das Vorhaben verfassungsrechtlich gepruft und nicht beanstandet" — falsch, NKR prüft das nicht
 - "Der NKR hat die Wirtschaftlichkeit bestaetigt" — falsch, das ist BRH
 - "NKR-Beteiligung erfolgt nur bei wirtschaftspolitischen Vorhaben" — falsch, generelle Befassungspflicht bei Erfuellungsaufwand
 
@@ -96,4 +96,4 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 - §§ 44, 45 GGO
 - BHO §§ 7, 88, 114
 - Art. 93, 114 GG
-- Live verifizieren ueber Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

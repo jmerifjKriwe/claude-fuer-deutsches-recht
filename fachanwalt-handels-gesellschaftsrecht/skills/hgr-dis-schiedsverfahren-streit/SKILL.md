@@ -36,11 +36,11 @@ description: "Gesellschafter streiten und wollen Schiedsverfahren statt Klage od
 
 ## Rechtlicher Rahmen
 
-- **§§ 1025-1066 ZPO** — Schiedsgerichtsverfahren; siehe Modernisierungsvorhaben (BMJ-Referentenentwurf 01.02.2024, Diskontinuitaet Ende 20. WP, Stand pruefen): https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
+- **§§ 1025-1066 ZPO** — Schiedsgerichtsverfahren; siehe Modernisierungsvorhaben (BMJ-Referentenentwurf 01.02.2024, Diskontinuitaet Ende 20. WP, Stand prüfen): https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
 - **DIS-Schiedsgerichtsordnung 2018** (in Kraft seit 01.03.2018; weiterhin geltende Fassung): https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
 - **DIS Ergaenzende Regeln für beschleunigte Schiedsverfahren** und DIS-Mediationsordnung 2020: https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
 - **DIS-ERGeS** (Ergaenzende Regeln für gesellschaftsrechtliche Streitigkeiten 2018) — wichtig für Beschlussmaengelstreite in der Schiedsklausel.
-- BGH-Linie zur Schiedsfaehigkeit von Beschlussmaengelstreitigkeiten (vor Verwendung gegen offene Quelle pruefen):
+- BGH-Linie zur Schiedsfaehigkeit von Beschlussmaengelstreitigkeiten (vor Verwendung gegen offene Quelle prüfen):
  - "Schiedsfaehigkeit II" — BGH, Urt. v. 06.04.2009 — II ZR 255/08 (GmbH; Mindestanforderungen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.04.2009&Aktenzeichen=II+ZR+255/08
  - "Schiedsfaehigkeit III" — BGH, Beschl. v. 06.04.2017 — I ZB 23/16: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=I+ZB+23/16
  - "Schiedsfaehigkeit IV" — BGH, Beschl. v. 23.09.2021 — I ZB 13/21 (Personenhandelsgesellschaft, Anpassungsbedarf Schiedsklauseln): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.09.2021&Aktenzeichen=I+ZB+13/21

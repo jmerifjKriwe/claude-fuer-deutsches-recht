@@ -14,19 +14,19 @@ description: "BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothese
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, Unschuldsvermutung. Leiturteil BGH Urteil vom 30.07.1999 1 StR 618/98 (BGHSt 45 Seite 164). Methodische Replik gegen die StA-Behauptung der Zeuge luege. Fuer Strafverteidiger.
+**Fokus:** BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, Unschuldsvermutung. Leiturteil BGH Urteil vom 30.07.1999 1 StR 618/98 (BGHSt 45 Seite 164). Methodische Replik gegen die StA-Behauptung der Zeuge luege. Für Strafverteidiger.
 
 ### BGH-Grundsaetze zur aussagepsychologischen Begutachtung
 
 ## Worum geht es
 
-Wenn ein Strafverfahren wesentlich auf eine einzige Belastungszeugin oder einen einzigen Belastungszeugen gestuetzt ist (Aussage-gegen-Aussage-Konstellation), verlangt der BGH eine besonders sorgfaeltige Beweiswuerdigung. Die methodischen Massstaebe hierfür hat der BGH in seinem Leiturteil BGH, Urteil vom 30.07.1999, Az. 1 StR 618/98, BGHSt 45, 164, ausgeformt. Dieses Urteil ist die zentrale Grundlage saemtlicher aussagepsychologischer Sachverstaendigengutachten in Deutschland und definiert zugleich, was das Gericht selbst als Tatrichter zu pruefen hat, wenn es kein Gutachten einholt.
+Wenn ein Strafverfahren wesentlich auf eine einzige Belastungszeugin oder einen einzigen Belastungszeugen gestuetzt ist (Aussage-gegen-Aussage-Konstellation), verlangt der BGH eine besonders sorgfaeltige Beweiswuerdigung. Die methodischen Massstaebe hierfür hat der BGH in seinem Leiturteil BGH, Urteil vom 30.07.1999, Az. 1 StR 618/98, BGHSt 45, 164, ausgeformt. Dieses Urteil ist die zentrale Grundlage saemtlicher aussagepsychologischer Sachverstaendigengutachten in Deutschland und definiert zugleich, was das Gericht selbst als Tatrichter zu prüfen hat, wenn es kein Gutachten einholt.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger und liefert die methodischen Werkzeuge, mit denen sich die Staatsanwaltsbehauptung "der Zeuge luegt" oder umgekehrt "der Zeuge sagt die Wahrheit" sachlich auf den fachlichen Pruefstand stellen laesst.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger und liefert die methodischen Werkzeuge, mit denen sich die Staatsanwaltsbehauptung "der Zeuge luegt" oder umgekehrt "der Zeuge sagt die Wahrheit" sachlich auf den fachlichen Pruefstand stellen lässt.
 
 ## Methodische Grundlagen
 
-**Hypothesen-gegen-Hypothesen-Methode (HGH).** Die aussagepsychologische Begutachtung arbeitet nicht mit Wahrheitssuggestion, sondern mit dem Versuch, alternative Erklaerungshypothesen für das Zustandekommen der Aussage zu pruefen und nur dann zu verwerfen, wenn sie methodisch nicht haltbar sind.
+**Hypothesen-gegen-Hypothesen-Methode (HGH).** Die aussagepsychologische Begutachtung arbeitet nicht mit Wahrheitssuggestion, sondern mit dem Versuch, alternative Erklaerungshypothesen für das Zustandekommen der Aussage zu prüfen und nur dann zu verwerfen, wenn sie methodisch nicht haltbar sind.
 
 Hypothesen-System:
 - Wahrhypothese (H0 inhaltlich): Die Aussage beruht auf einem tatsaechlich erlebten Ereignis.
@@ -35,11 +35,11 @@ Hypothesen-System:
 - Irrtumshypothese (HI): Die Aussagende hat ein anderes Ereignis erlebt und ordnet es falsch zu (Personenverwechslung, Zeitverwechslung).
 - Phantasiehypothese (HP): Pseudoerinnerung, Konfabulation, dissoziative Inhalte.
 
-**Null-Hypothese.** Methodischer Ausgangspunkt ist die Annahme, die Aussage sei nicht erlebnisbasiert (Null-Hypothese). Sie wird nur verworfen, wenn alle plausiblen Alternativen ausgeschlossen oder zureichend unwahrscheinlich gemacht werden koennen. Das spiegelt die strafprozessuale Unschuldsvermutung methodisch wider: in dubio pro reo bedeutet aussagepsychologisch in dubio pro Null-Hypothese.
+**Null-Hypothese.** Methodischer Ausgangspunkt ist die Annahme, die Aussage sei nicht erlebnisbasiert (Null-Hypothese). Sie wird nur verworfen, wenn alle plausiblen Alternativen ausgeschlossen oder zureichend unwahrscheinlich gemacht werden können. Das spiegelt die strafprozessuale Unschuldsvermutung methodisch wider: in dubio pro reo bedeutet aussagepsychologisch in dubio pro Null-Hypothese.
 
 **Drei Pruefebenen nach BGH.** Erstens Aussagetuechtigkeit (kann die Person aussagen?), zweitens Aussagequalitaet (Realkennzeichen, Konstanz, Detailreichtum), drittens Aussagezuverlaessigkeit (Entstehung, Suggestion, Motivation).
 
-**Tatrichterpflicht.** Wenn die Verurteilung im Wesentlichen auf eine Aussage gestuetzt wird, hat der Tatrichter die Aussage in den Urteilsgruenden detailliert zu wuerdigen. Reine Floskeln (die Zeugin habe glaubhaft ausgesagt) genuegen nicht. Andernfalls Aufhebung in der Revision (BGH-Linie aus 1 StR 618/98 fortgefuehrt; konkrete Folge-Az. mit aktueller BGH-Linie verifizieren).
+**Tatrichterpflicht.** Wenn die Verurteilung im Wesentlichen auf eine Aussage gestuetzt wird, hat der Tatrichter die Aussage in den Urteilsgruenden detailliert zu wuerdigen. Reine Floskeln (die Zeugin habe glaubhaft ausgesagt) genügen nicht. Andernfalls Aufhebung in der Revision (BGH-Linie aus 1 StR 618/98 fortgefuehrt; konkrete Folge-Az. mit aktueller BGH-Linie verifizieren).
 
 ## Praktikertipps Verteidigung
 

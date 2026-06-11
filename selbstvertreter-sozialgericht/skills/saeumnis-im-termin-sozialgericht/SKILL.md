@@ -3,7 +3,7 @@ name: saeumnis-im-termin-sozialgericht
 description: "Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger."
 ---
 
-# Wenn Sie zum Termin nicht koennen oder es vergessen
+# Wenn Sie zum Termin nicht können oder es vergessen
 
 ## Fachlicher Anker
 
@@ -13,11 +13,11 @@ description: "Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen h
 
 ## Worum geht es?
 
-Sie koennen zum Termin nicht erscheinen — krank, beruflich verhindert, vergessen. Welche Folgen hat das? Wie koennen Sie reagieren? Diese Skill zeigt es.
+Sie können zum Termin nicht erscheinen — krank, beruflich verhindert, vergessen. Welche Folgen hat das? Wie können Sie reagieren? Diese Skill zeigt es.
 
 ## In einfacher Sprache
 
-Sie koennen zum Termin nicht kommen. Sagen Sie sofort Bescheid. Sonst kann das Gericht ohne Sie entscheiden.
+Sie können zum Termin nicht kommen. Sagen Sie sofort Bescheid. Sonst kann das Gericht ohne Sie entscheiden.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -28,7 +28,7 @@ Sie koennen zum Termin nicht kommen. Sagen Sie sofort Bescheid. Sonst kann das G
 ## Fachbegriffe (kurz erklaert)
 
 - **Saeumnis**: Nicht-Erscheinen im Termin.
-- **Entschuldigung**: Grund, warum Sie nicht koennen.
+- **Entschuldigung**: Grund, warum Sie nicht können.
 - **Verlegung**: Verschiebung des Termins.
 - **Versaeumnisverfahren**: Verfahren ohne Sie.
 
@@ -40,15 +40,15 @@ Sie koennen zum Termin nicht kommen. Sagen Sie sofort Bescheid. Sonst kann das G
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Vorab nicht koennen
+### Schritt 1 — Vorab nicht können
 
-Wenn Sie vor dem Termin merken, dass Sie nicht koennen:
+Wenn Sie vor dem Termin merken, dass Sie nicht können:
 
 **Sofort anrufen** bei der Geschaeftsstelle des SG. Sagen Sie:
 
 - Az
 - Datum / Zeit des Termins
-- Warum Sie nicht koennen
+- Warum Sie nicht können
 - Bitte um Verlegung
 
 **Schriftlich** zusaetzlich:
@@ -82,7 +82,7 @@ Das Gericht kann:
 
 - Termin vertagen
 - In Ihrer Abwesenheit verhandeln und entscheiden (§ 110 Abs. 1 S. 2 SGG)
-- Falls persönliches Erscheinen angeordnet war: Ordnungsgeld moeglich
+- Falls persönliches Erscheinen angeordnet war: Ordnungsgeld möglich
 
 In der Sozialgerichts-Praxis wird oft vertagt, wenn die Saeumnis erkennbar entschuldbar ist. Aber sicher ist das nicht.
 
@@ -96,7 +96,7 @@ Sofort handeln:
 
 ### Schritt 5 — Urteil in Ihrer Abwesenheit ergangen?
 
-Pruefen Sie das Urteil. Sie koennen:
+Prüfen Sie das Urteil. Sie können:
 
 - Berufung einlegen (1 Monat, siehe `berufung-lsg-144-sgg-wertgrenze-750`)
 - Nichts mehr tun, wenn Berufung aussichtslos
@@ -105,7 +105,7 @@ Pruefen Sie das Urteil. Sie koennen:
 
 Mehrfaches unentschuldigtes Versaeumnis kann zur Klagezuruecknahme-Fiktion fuehren oder dem Gericht den Eindruck geben, dass Sie kein Interesse haben. Vermeiden.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sofort melden**: nicht warten bis nach dem Termin.
 - **Schriftliche Bestaetigung der Verlegung** anfordern.

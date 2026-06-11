@@ -37,7 +37,7 @@ description: "Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft im B
 ## Konkurrenz
 
 - Wenn beide Eltern Beamte: nur ein Familienzuschlag pro Kind (Anrechnung).
-- Halbteilung moeglich nach Antrag.
+- Halbteilung möglich nach Antrag.
 
 ## Erhoehung ab drittem Kind
 

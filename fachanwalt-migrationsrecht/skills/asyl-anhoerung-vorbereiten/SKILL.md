@@ -103,12 +103,12 @@ description: "Asylsuchender muss zum BAMF zur Anhörung und Anwalt bereitet die 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Asyl-Anhörung vorbereiten | Anhörungsprotokoll und Checkliste; Template unten |
-| Variante A — Dublin-III-Uebertragung droht | Suspensivantrag; einstweilige Massnahme VG pruefen |
+| Variante A — Dublin-III-Uebertragung droht | Suspensivantrag; einstweilige Maßnahme VG prüfen |
 | Variante B — Vulnerable Person | Besondere Verfahrensgarantien Art. 24 VerfahrensRL; medizinisches Gutachten |
 | Variante C — Folgeantrag statt Erstantrag | § 71 AsylG neue Umstaende darlegen; Huerden beachten |
 
@@ -228,7 +228,7 @@ Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

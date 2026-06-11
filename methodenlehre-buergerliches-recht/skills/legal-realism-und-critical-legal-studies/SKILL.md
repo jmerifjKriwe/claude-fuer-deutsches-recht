@@ -40,7 +40,7 @@ Beide Stroemungen sind im deutschen Privatrecht keine herrschende Methode. Aber 
 - Sie wollen die ideologischen Voraussetzungen einer bestimmten Rechtsauslegung sichtbar machen.
 - Sie schreiben einen kritisch-wissenschaftlichen Beitrag oder eine Rechtsvergleichsstudie.
 - Sie unterrichten Rechtssoziologie oder Methodenlehre und wollen die Aussensicht einbringen.
-- Sie pruefen Spannungen zwischen formaler Methodenlehre und tatsaechlicher Rechtsprechungspraxis.
+- Sie prüfen Spannungen zwischen formaler Methodenlehre und tatsaechlicher Rechtsprechungspraxis.
 - Sie arbeiten in einem grenzueberschreitenden Mandat mit US-Bezug und brauchen das amerikanische Methodendenken.
 
 ## Methodische Grundlage
@@ -94,26 +94,26 @@ Kernsatz: "The prophecies of what the courts will do in fact, and nothing more p
 
 **Beispiel BGH-Rechtsprechung zur Schwarzarbeit (§ 134 BGB iVm SchwarzArbG):** Konsequente Nichtigkeit von Schwarzarbeitsvertraegen und Versagung von Bereicherungsansprueechen sind Wertentscheidung — zu Lasten beider Parteien, zugunsten staatlicher Steuer- und Sozialversicherungsinteressen. Legal Realism / CLS macht diese Wertentscheidung sichtbar.
 
-## Schritt-für-Schritt (als kritische Pruefung)
+## Schritt-für-Schritt (als kritische Prüfung)
 
 1. **Wertungen offenlegen.** Welche Wertungen stecken in der Auslegung, die als "selbstverstaendlich" erscheint?
-2. **Alternative Auslegungen pruefen.** Welche anderen Auslegungen waeren methodisch vertretbar?
+2. **Alternative Auslegungen prüfen.** Welche anderen Auslegungen waeren methodisch vertretbar?
 3. **Folgenanalyse.** Wer gewinnt durch die herrschende Auslegung, wer verliert?
 4. **Ideologische Voraussetzungen.** Welche gesellschaftlichen, oekonomischen oder kulturellen Interessen sind beruehrt?
 5. **Konstruktive Wendung.** Im Schriftsatz nicht abstrakt kritisieren, sondern alternative Argumente bereitstellen, die andere Wertungen transportieren.
 
 ## Typische Fehler / Kritik
 
-- **Legal Realism als Nihilismus.** Holmes wollte nicht die Norm abschaffen, sondern realistisch beschreiben, wie sie wirkt. Recht bleibt verbindlich; aber wir muessen ehrlich darueber sein, wie es entsteht.
+- **Legal Realism als Nihilismus.** Holmes wollte nicht die Norm abschaffen, sondern realistisch beschreiben, wie sie wirkt. Recht bleibt verbindlich; aber wir müssen ehrlich darueber sein, wie es entsteht.
 - **CLS als blosses Anklagen.** CLS-Kritik ist konstruktiv: Sie will alternative Rechtsmodelle anregen, nicht nur das bestehende dekonstruieren.
-- **Uebertragung 1:1.** Das US-Common-Law-System ist anders als das deutsche Kodifikationssystem. CLS-Argumente muessen uebersetzt werden.
+- **Uebertragung 1:1.** Das US-Common-Law-System ist anders als das deutsche Kodifikationssystem. CLS-Argumente müssen uebersetzt werden.
 - **CLS und Wertungsjurisprudenz verwechseln.** Wertungsjurisprudenz (Larenz, Canaris) sieht Wertungen als "objektiv" oder grundrechtlich gebunden; CLS sieht Wertungen als kontingent und machtgebunden.
 
-**Verteidigung der deutschen Tradition:** Die deutsche Wertungsjurisprudenz hat ueber die Grundrechtsbindung einen wertenden Rahmen, der nicht beliebig ist. Das BVerfG kontrolliert Auslegungen am Massstab des Grundgesetzes; das ist mehr als blosse Politik.
+**Verteidigung der deutschen Tradition:** Die deutsche Wertungsjurisprudenz hat über die Grundrechtsbindung einen wertenden Rahmen, der nicht beliebig ist. Das BVerfG kontrolliert Auslegungen am Massstab des Grundgesetzes; das ist mehr als blosse Politik.
 
-**Kritik aus der Diskurstheorie (Alexy):** CLS uebertreibt den Indeterminismus. Auch wenn Recht nicht streng determiniert ist, gibt es rationale Argumentationsstandards, die ueber Beliebigkeit hinausreichen.
+**Kritik aus der Diskurstheorie (Alexy):** CLS uebertreibt den Indeterminismus. Auch wenn Recht nicht streng determiniert ist, gibt es rationale Argumentationsstandards, die über Beliebigkeit hinausreichen.
 
-**Kritik aus der Systemtheorie (Luhmann):** CLS missversteht das Rechtssystem. Auch wenn das Recht von der Politik beeinflusst ist, bleibt es operativ geschlossen und prozessiert ueber den Code Recht/Unrecht — nicht direkt politisch.
+**Kritik aus der Systemtheorie (Luhmann):** CLS missversteht das Rechtssystem. Auch wenn das Recht von der Politik beeinflusst ist, bleibt es operativ geschlossen und prozessiert über den Code Recht/Unrecht — nicht direkt politisch.
 
 ## Vergleich mit deutscher Tradition
 

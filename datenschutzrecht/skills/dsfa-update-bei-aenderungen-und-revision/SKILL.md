@@ -18,8 +18,8 @@ description: "Aktualisierung einer DSFA bei wesentlichen Aenderungen der Verarbe
 
 ## Rechtlicher Rahmen
 
-- Art. 35 Abs. 11 DSGVO: Der Verantwortliche fuehrt erforderlichenfalls eine Ueberpruefung durch, um zu bewerten, ob die Verarbeitung gemaess der DSFA durchgefuehrt wird; dies gilt zumindest, wenn sich das mit den Verarbeitungsvorgaengen verbundene Risiko aendert.
-- Art. 5 Abs. 2 DSGVO Rechenschaftspflicht — Versionshistorie und Begruendung der Re-Pruefung.
+- Art. 35 Abs. 11 DSGVO: Der Verantwortliche fuehrt erforderlichenfalls eine Ueberpruefung durch, um zu bewerten, ob die Verarbeitung gemäß der DSFA durchgefuehrt wird; dies gilt zumindest, wenn sich das mit den Verarbeitungsvorgaengen verbundene Risiko aendert.
+- Art. 5 Abs. 2 DSGVO Rechenschaftspflicht — Versionshistorie und Begruendung der Re-Prüfung.
 - Art. 30 DSGVO Verarbeitungsverzeichnis — Aenderungen sind dort zu spiegeln.
 - EDSA-Leitlinien WP 248 rev.01.
 
@@ -33,8 +33,8 @@ description: "Aktualisierung einer DSFA bei wesentlichen Aenderungen der Verarbe
  - Neue Technologie
  - Neue Aufbewahrungsfrist (> 50 Prozent Verlaengerung)
  - Aufsichtsbehoerden- oder Rechtsprechungsaenderung
-3. **Risikoanalyse.** Erneute Risikoanalyse nach Methodik des urspruenglichen DSFA-Skills; Risikomatrix vor und nach erneuten Massnahmen.
-4. **Massnahmen.** Pruefung, ob bestehende Massnahmen ausreichen oder ergaenzt werden muessen.
+3. **Risikoanalyse.** Erneute Risikoanalyse nach Methodik des urspruenglichen DSFA-Skills; Risikomatrix vor und nach erneuten Maßnahmen.
+4. **Maßnahmen.** Prüfung, ob bestehende Maßnahmen ausreichen oder ergaenzt werden müssen.
 5. **Restrisiko.** Vergleich Restrisiko alt versus neu; ggf. neue Art. 36 Konsultation.
 6. **Konsultation / Genehmigung.** DSB-Anhörung, Freigabe und Versionierung; alte Versionen archivieren, nicht loeschen.
 

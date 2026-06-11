@@ -3,9 +3,9 @@ name: bmwe-aussenwirtschaft
 description: "Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.); Akteure (BMWE; BMI; AA; BMF; Bundeskanzleramt.); EU-Bezug (FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.); typische Legistik-Au"
 ---
 
-# Aussenwirtschaft und Investitionspruefung (BMWE)
+# Außenwirtschaft und Investitionspruefung (BMWE)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Außenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -30,7 +30,7 @@ Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; 
 
 FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.
 
-Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
+Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
 
 ## Typische Legistik-Aufgaben
 
@@ -38,11 +38,11 @@ Sektoren festlegen; Pruefverfahren; Untersagung oder Auflagen; Mitberatung im Bu
 
 Schrittfolge für den Normgeber:
 
-1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
+1. Sachverhalt und Regelungsziel in diesem Sachfeld prüfen
 2. Vorhandene Normen kartieren; Lueckenanalyse
 3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet pruefen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit pruefen
+4. Verfassungs- und Europarechtskonformitaet prüfen
+5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit prüfen
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
@@ -50,11 +50,11 @@ Schrittfolge für den Normgeber:
 
 Zeitknappheit; Geheimhaltung; Wechselbezug zur Ausfuhrkontrolle; Klage vor BVerwG.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 
-Arbeitsfokus: **Aussenwirtschaft und Investitionspruefung (BMWE)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Außenwirtschaft und Investitionspruefung (BMWE)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 20 Abs. 3 GG` — Gesetzesbindung.
 - `Art. 76 Abs. 1 GG` — Gesetzesinitiative.

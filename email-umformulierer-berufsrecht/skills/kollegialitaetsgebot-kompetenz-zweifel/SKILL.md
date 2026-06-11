@@ -24,9 +24,9 @@ E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kollegin
 Prüft Korrespondenz gezielt auf Einhaltung des anwaltlichen Kollegialitätsgebots nach § 25 BORA. Der kollegiale Umgang unter Rechtsanwälten ist nicht nur eine Frage des guten Tons, sondern eine berufsrechtliche Pflicht, deren Verletzung zu Rüge- oder Ahndungsverfahren führen kann.
 
 ## Triage zu Beginn
-1. Wer ist Adressat des Schreibens: Kollege direkt, Mandant ueber den Kollegen oder Gericht?
-2. Bezieht sich die Aeusserung auf fachliche Kritik (zulaessig) oder auf persönliche Eigenschaften (unzulaessig)?
-3. Ist die Aeusserung ueber den Kollegen notwendig für den sachlichen Inhalt des Schreibens?
+1. Wer ist Adressat des Schreibens: Kollege direkt, Mandant über den Kollegen oder Gericht?
+2. Bezieht sich die Aeusserung auf fachliche Kritik (zulässig) oder auf persönliche Eigenschaften (unzulaessig)?
+3. Ist die Aeusserung über den Kollegen notwendig für den sachlichen Inhalt des Schreibens?
 4. Hat die Gegenseite ihrerseits das Kollegialitaetsgebot verletzt — und verleitet das zur Erwiderung?
 
 ## Aktuelle Rechtsprechung

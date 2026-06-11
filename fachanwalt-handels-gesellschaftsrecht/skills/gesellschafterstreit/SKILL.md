@@ -52,7 +52,7 @@ description: "Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit: ordnet
 | § 34 GmbHG | Einziehung von Geschäftsanteilen mit oder ohne Zustimmung; Satzungserfordernis |
 | § 46 Nr. 8 GmbHG | Gesellschafterbeschluss zur Geltendmachung von Schadensersatzansprüchen gegen Geschäftsführer |
 | §§ 706 ff. BGB nF | MoPeG (BGBl. I 2021, 3436): seit 01.01.2024 in Kraft; eGbR im Gesellschaftsregister §§ 707 ff. BGB n.F.; rechtsfaehige GbR im Aussenverhaeltnis §§ 705 II, 720 BGB n.F. |
-| § 110 HGB n.F. | MoPeG-OHG: Beschluesse durch Mehrheitsentscheid grundsaetzlich zulaessig (Abkehr von einstimmig); Beschlussmaengelrecht §§ 110 ff. HGB n.F. (Anfechtungs-/Nichtigkeitsklage analog AktG, drei Monate Frist § 112 HGB n.F.) |
+| § 110 HGB n.F. | MoPeG-OHG: Beschlüsse durch Mehrheitsentscheid grundsätzlich zulässig (Abkehr von einstimmig); Beschlussmaengelrecht §§ 110 ff. HGB n.F. (Anfechtungs-/Nichtigkeitsklage analog AktG, drei Monate Frist § 112 HGB n.F.) |
 | § 117 HGB | Entziehung Geschäftsführungsbefugnis durch gerichtliche Entscheidung |
 | § 133 HGB | Ausschließungsklage OHG/KG aus wichtigem Grund |
 | § 138 BGB | Sittenwidrigkeit: freie Hinauskündigungsklausel unwirksam |
@@ -91,7 +91,7 @@ description: "Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit: ordnet
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -226,7 +226,7 @@ einer evident unangemessenen Unterbewertung führen.
 [Kanzlei, Fachanwalt/Fachanwältin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -295,8 +295,8 @@ Praktische Richtwert: EUR 15.000–250.000 je nach Bedeutung des Beschlusses.
 - § 246 AktG: https://www.gesetze-im-internet.de/aktg/__246.html
 - § 47 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__47.html
 - § 34 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__34.html
-- BGH II ZR 24/14 (Belegfundstelle vor Verwendung gegen offene Quelle pruefen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+24/14
-- BGH II ZR 343/16 (Belegfundstelle vor Verwendung gegen offene Quelle pruefen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+343/16
+- BGH II ZR 24/14 (Belegfundstelle vor Verwendung gegen offene Quelle prüfen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+24/14
+- BGH II ZR 343/16 (Belegfundstelle vor Verwendung gegen offene Quelle prüfen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+343/16
 - MoPeG (Gesetz zur Modernisierung des Personengesellschaftsrechts, BGBl. I 2021, 3436; in Kraft 01.01.2024); BGB §§ 705-740 n.F.: https://www.gesetze-im-internet.de/bgb/__705.html ; Gesellschaftsregister: https://www.gesetze-im-internet.de/bgb/__707.html
 - HGB §§ 110-115 n.F. (Beschlussmaengelrecht Personengesellschaften nach MoPeG; Anfechtungsfrist 3 Monate gem. § 112 HGB n.F., gegen die Gesellschaft gem. § 113 II HGB n.F.): https://www.gesetze-im-internet.de/hgb/__110.html
 - DiRUG (Gesetz zur Umsetzung der Digitalisierungsrichtlinie, BGBl. I 2021, 3338; Online-Beurkundung GmbH-Gruendung in Kraft 01.08.2022, erweitert auf Kapitalerhoehung/Satzungsaenderungen durch DiREG zum 01.08.2023): https://www.gesetze-im-internet.de/beurkg/__16a.html

@@ -7,7 +7,7 @@ description: "Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirkl
 
 ## Arbeitsbereich
 
-Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klaeren. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebührenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebührenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klären. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebührenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebührenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -114,7 +114,7 @@ Präzise Fragen z. B.:
 
 ### Aktuelle Rechtsprechung
 
-- **BFH, Urteil vom 03.07.2025 — IV R 6/23**: Bei gemeinsamem Antrag mehrerer Antragsteller (z.B. alle Gesellschafter einer GmbH) zu inhaltlich identischem Sachverhalt darf die Finanzbehoerde nur eine einzige Gebuehr nach § 89 Abs. 3 ff. AO erheben. Mitantragsteller haften als Gesamtschuldner. Volltext ueber BFH-Datenbank (STRE202520244). Relevant für die Antragsgestaltung bei mehreren Beteiligten.
+- **BFH, Urteil vom 03.07.2025 — IV R 6/23**: Bei gemeinsamem Antrag mehrerer Antragsteller (z.B. alle Gesellschafter einer GmbH) zu inhaltlich identischem Sachverhalt darf die Finanzbehoerde nur eine einzige Gebuehr nach § 89 Abs. 3 ff. AO erheben. Mitantragsteller haften als Gesamtschuldner. Volltext über BFH-Datenbank (STRE202520244). Relevant für die Antragsgestaltung bei mehreren Beteiligten.
 
 ## Workflow
 

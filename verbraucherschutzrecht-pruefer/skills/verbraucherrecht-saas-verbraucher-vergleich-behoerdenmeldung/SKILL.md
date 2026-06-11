@@ -3,7 +3,7 @@ name: verbraucherrecht-saas-verbraucher-vergleich-behoerdenmeldung
 description: "Prüfer: SaaS für Verbraucher: Vergleich vorschlagen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Saas Fuer Verbraucher Vergleich Vorsch
+# Saas Für Verbraucher Vergleich Vorsch
 
 ## Arbeitsweg
 

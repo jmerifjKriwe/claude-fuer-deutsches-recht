@@ -7,12 +7,12 @@ description: "Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO
 
 ## Worum geht es?
 
-Wenn Sie ein AG-Urteil für falsch halten, koennen Sie **Berufung** einlegen. Berufungsgericht ist das Landgericht (LG). Aber Achtung: Vor LG herrscht **Anwaltszwang** (§ 78 ZPO). Sie koennen die Berufung selbst einlegen (§ 78 III ZPO), aber **die Begruendung muss von einem Anwalt** kommen. Wenn Sie sich keinen leisten koennen: PKH pruefen.
+Wenn Sie ein AG-Urteil für falsch halten, können Sie **Berufung** einlegen. Berufungsgericht ist das Landgericht (LG). Aber Achtung: Vor LG herrscht **Anwaltszwang** (§ 78 ZPO). Sie können die Berufung selbst einlegen (§ 78 III ZPO), aber **die Begruendung muss von einem Anwalt** kommen. Wenn Sie sich keinen leisten können: PKH prüfen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben gegen AG-Urteil verloren oder teilverloren.
-- Sie wollen wissen, ob Berufung moeglich und sinnvoll.
+- Sie wollen wissen, ob Berufung möglich und sinnvoll.
 - Sie sind in Berufung gegangen und wollen wissen, was als naechstes kommt.
 
 ## Fachbegriffe (kurz erklaert)
@@ -32,24 +32,24 @@ Wenn Sie ein AG-Urteil für falsch halten, koennen Sie **Berufung** einlegen. Be
 - **§ 517 ZPO** — Berufungsfrist 1 Monat.
 - **§ 519 ZPO** — Berufungsschrift.
 - **§ 520 ZPO** — Berufungsbegruendung 2 Monate.
-- **§ 78 III ZPO** — Berufungs-Einlegung selbst moeglich, Begruendung mit Anwalt.
+- **§ 78 III ZPO** — Berufungs-Einlegung selbst möglich, Begruendung mit Anwalt.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Berufungs-Wertgrenze pruefen (Stand 2026)
+### Schritt 1 — Berufungs-Wertgrenze prüfen (Stand 2026)
 
-§ 511 II Nr. 1 ZPO (aktuelle Fassung): Sie muessen mit **mehr als 1.000 EUR** beschwert sein.
+§ 511 II Nr. 1 ZPO (aktuelle Fassung): Sie müssen mit **mehr als 1.000 EUR** beschwert sein.
 
 Beschwer = Differenz zwischen Ihrem Antrag und der Entscheidung.
 
 **Beispiele:**
 
-- Sie klagten 5.000 EUR, abgewiesen → Beschwer 5.000 EUR. Berufung moeglich (uebersteigt 1.000 EUR).
-- Sie klagten 1.500 EUR, abgewiesen → Beschwer 1.500 EUR. Berufung moeglich.
+- Sie klagten 5.000 EUR, abgewiesen → Beschwer 5.000 EUR. Berufung möglich (uebersteigt 1.000 EUR).
+- Sie klagten 1.500 EUR, abgewiesen → Beschwer 1.500 EUR. Berufung möglich.
 - Sie klagten 1.500 EUR, 700 EUR zugesprochen → Beschwer 800 EUR. **Keine** Berufung ohne Zulassung (unter 1.000 EUR).
 - Sie klagten 800 EUR, voll abgewiesen → Beschwer 800 EUR. **Keine** Berufung ohne Zulassung.
 
-**Hinweis zur Reform**: Die Wertgrenze wurde zum 01.01.2026 von 600 EUR auf 1.000 EUR angehoben (Justizstandort-Staerkungsgesetz vom 08.12.2025, BGBl. I Nr. 318). Fuer Altverfahren gilt **§ 47 EGZPO**: die alte Wertgrenze 600 EUR bleibt anwendbar, wenn (a) die anzufechtende Entscheidung bis einschliesslich 31.12.2025 verkuendet bzw. der Geschaeftsstelle uebergeben wurde, oder (b) die muendliche Verhandlung bis einschliesslich 31.12.2025 geschlossen war (bei schriftlichen Verfahren: bis dahin Schriftsatzfrist abgelaufen). Beispiel: AG-Urteil vom 18.11.2025, Beschwer 800 EUR → Berufung ist ohne Zulassung statthaft.
+**Hinweis zur Reform**: Die Wertgrenze wurde zum 01.01.2026 von 600 EUR auf 1.000 EUR angehoben (Justizstandort-Staerkungsgesetz vom 08.12.2025, BGBl. I Nr. 318). Für Altverfahren gilt **§ 47 EGZPO**: die alte Wertgrenze 600 EUR bleibt anwendbar, wenn (a) die anzufechtende Entscheidung bis einschliesslich 31.12.2025 verkuendet bzw. der Geschaeftsstelle uebergeben wurde, oder (b) die muendliche Verhandlung bis einschliesslich 31.12.2025 geschlossen war (bei schriftlichen Verfahren: bis dahin Schriftsatzfrist abgelaufen). Beispiel: AG-Urteil vom 18.11.2025, Beschwer 800 EUR → Berufung ist ohne Zulassung statthaft.
 
 ### Schritt 2 — Bei Beschwer bis 1.000 EUR: Zulassung im Urteil
 
@@ -72,7 +72,7 @@ Notfrist! Skill `rechtsmittelfrist-517-zpo`, `fristen-berechnen-187-188-bgb`.
 
 § 519 ZPO: Schriftsatz an das **Berufungsgericht (LG)**, nicht ans AG.
 
-Sie koennen die Einlegung selbst vornehmen (§ 78 III ZPO erlaubt es).
+Sie können die Einlegung selbst vornehmen (§ 78 III ZPO erlaubt es).
 
 Muster:
 
@@ -104,7 +104,7 @@ einen Rechtsanwalt eingereicht.
 
 § 520 ZPO: Berufungsbegruendung binnen 2 Monaten ab Zustellung des Urteils.
 
-**Wichtig**: Die Begruendung muss von einem Anwalt eingereicht werden (Anwaltszwang § 78 I ZPO). Sie selbst koennen sie **nicht** wirksam einreichen.
+**Wichtig**: Die Begruendung muss von einem Anwalt eingereicht werden (Anwaltszwang § 78 I ZPO). Sie selbst können sie **nicht** wirksam einreichen.
 
 ### Schritt 6 — Anwalt suchen
 
@@ -134,7 +134,7 @@ Anwalt formuliert:
 
 LG-Urteil kann mit **Revision zum BGH** angefochten werden — aber nur, wenn vom LG zugelassen (§ 543 ZPO). Sehr selten.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Beschwer mehr als 1.000 EUR**: Pflicht (es sei denn Zulassung).
 - **Anwaltszwang vor LG**: Begruendung nur durch Anwalt.
@@ -144,7 +144,7 @@ LG-Urteil kann mit **Revision zum BGH** angefochten werden — aber nur, wenn vo
 
 ## Typische Fehler
 
-- "Ich begruende Berufung selbst." → Vor LG nicht moeglich.
+- "Ich begruende Berufung selbst." → Vor LG nicht möglich.
 - "Ich warte mit Anwalt-Suche." → 2 Monate sind schnell weg.
 - "Beschwer unter 1.000 EUR — ich versuche es trotzdem." → Wird als unzulaessig verworfen.
 - "Das AG hat nicht zugelassen — ich lege Beschwerde beim LG ein." → Existiert nicht. Eine "Zulassungs-Beschwerde" gibt es in § 511 IV ZPO nicht.

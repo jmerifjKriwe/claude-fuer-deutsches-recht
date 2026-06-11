@@ -22,14 +22,14 @@ Diese Unterlagenprüfung für **Subsumtions Prüfer** benennt fehlende Dokumente
 - `europarecht-fristen-form-und-zustaendigkeit` — Europarecht Fristen Form und Zustaendigkeit
 - `falsche-wiese-warnung` — Falsche Wiese Warnung
 - `fehlerklasse-bgb-at-training` — Fehlerklasse BGB AT Training
-- `generalklauseln-pruefen` — Generalklauseln Pruefen
-- `grundrechte-pruefung-de-und-grch` — Grundrechte Pruefung DE und Grch
+- `generalklauseln-pruefen` — Generalklauseln Prüfen
+- `grundrechte-pruefung-de-und-grch` — Grundrechte Prüfung DE und Grch
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 
-- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Subsumtions Pruefer-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Subsumtions Prüfer-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
 - Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?

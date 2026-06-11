@@ -3,7 +3,7 @@ name: theorie-alexy-prinzipientheorie
 description: "Robert Alexys Prinzipientheorie als Theoriegrundlage der Verhaeltnismaessigkeitspruefung. Grundrechte als Optimierungsgebote, Abwaegungsgesetz, Gewichtsformel; Linie Rudolf Smend, Robert Alexy, Aharon Barak; Verhaeltnismaessigkeit als Strukturprinzip globaler Verfassungsgerichtsbarkeit."
 ---
 
-# Theorie der Grundrechte — Alexy und das Prinzip der Verhaeltnismaessigkeit
+# Theorie der Grundrechte — Alexy und das Prinzip der Verhältnismäßigkeit
 
 ## Zweck dieses Skills
 
@@ -29,19 +29,19 @@ Wirkungslinie: BVerfG zitiert Alexy selten ausdruecklich, uebernimmt aber Strukt
 
 ### 3. Barak — Proportionalitaet als Universalkonzept
 
-Aharon Barak, *Proportionality. Constitutional Rights and their Limitations* (2012). Praesident des israelischen Supreme Court a. D. Sammelt die Verhaeltnismaessigkeit als globales konstitutionelles Strukturprinzip: vom deutschen Apotheken-Urteil ueber den kanadischen Oakes-Test, den suedafrikanischen Section-36-Kanon, EuGH und EGMR bis zum Common-Law-Raum. Barak zeigt, dass die vierstufige Pruefung der heimliche Standard demokratischer Verfassungsgerichtsbarkeit geworden ist — gerade dort, wo eine kodifizierte Schrankenklausel fehlt.
+Aharon Barak, *Proportionality. Constitutional Rights and their Limitations* (2012). Praesident des israelischen Supreme Court a. D. Sammelt die Verhältnismäßigkeit als globales konstitutionelles Strukturprinzip: vom deutschen Apotheken-Urteil über den kanadischen Oakes-Test, den suedafrikanischen Section-36-Kanon, EuGH und EGMR bis zum Common-Law-Raum. Barak zeigt, dass die vierstufige Prüfung der heimliche Standard demokratischer Verfassungsgerichtsbarkeit geworden ist — gerade dort, wo eine kodifizierte Schrankenklausel fehlt.
 
-Wirkungslinie: Liefert Argumente, warum die deutsche Pruefung nicht „bloss deutsch" ist, sondern dem internationalen Konsens entspricht — wichtig fuer Rechtsvergleich und EuGH-/EGMR-Argumentation.
+Wirkungslinie: Liefert Argumente, warum die deutsche Prüfung nicht „bloss deutsch" ist, sondern dem internationalen Konsens entspricht — wichtig für Rechtsvergleich und EuGH-/EGMR-Argumentation.
 
-## Optimierungsgebot in der Pruefung
+## Optimierungsgebot in der Prüfung
 
-Wenn ein Grundrecht ein Optimierungsgebot ist, muss jede staatliche Massnahme:
+Wenn ein Grundrecht ein Optimierungsgebot ist, muss jede staatliche Maßnahme:
 
 1. **Den Grundrechtswert nicht weiter einschraenken, als noetig** — Erforderlichkeit.
 2. **Den Eingriff in Relation zum Gegenrecht setzen** — Angemessenheit.
 3. **Den Optimierungsspielraum ausnutzen** — das ist die Untermass-/Schutzpflicht-Dimension (siehe `untermassverbot-schutzpflicht-dimension`).
 
-## Drei Pruefungs-Saetze nach Alexy
+## Drei Prüfungs-Saetze nach Alexy
 
 | Saetzname | Inhalt | Auswirkung auf Stufe |
 | --- | --- | --- |

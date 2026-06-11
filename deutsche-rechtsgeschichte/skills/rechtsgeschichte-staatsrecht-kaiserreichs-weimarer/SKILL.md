@@ -38,7 +38,7 @@ Das Deutsche Reich (1871-1918) war ein Bundesstaat mit 25 Mitgliedsstaaten unter
 2. Laband-Positivismus: Hat die Formaljurisprudenz politische Kritik am Kaiserreich unterdrueckt?
 3. Dualismus Reichstag-Reichsregierung: Wie weit war der Reichstag wirklich eingeschraenkt?
 4. Wahlrecht: Allgemeines Maennerwahlrecht als liberal oder als Pfeiler des Kaiserreichs?
-5. Oktober-Reformen 1918: Hatten sie das Kaiserreich durch echten Parlamentarismus ersetzen koennen?
+5. Oktober-Reformen 1918: Hatten sie das Kaiserreich durch echten Parlamentarismus ersetzen können?
 
 ## Methodik
 

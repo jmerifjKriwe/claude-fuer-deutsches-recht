@@ -15,7 +15,7 @@ description: "Honorarvertragstemplates für juristische Werke: Standardvertrag A
 
 ## Worum geht es konkret
 
-Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentarvertrag, Herausgebervertrag, Loseblattvertrag. Der Skill systematisiert die Templates, listet die haeufigsten Verhandlungsabweichungen und prueft jede Abweichung gegen die Pflicht zur angemessenen Verguetung (UrhG § 32) sowie typische Streitpunkte aus der Vertragspraxis.
+Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentarvertrag, Herausgebervertrag, Loseblattvertrag. Der Skill systematisiert die Templates, listet die haeufigsten Verhandlungsabweichungen und prüft jede Abweichung gegen die Pflicht zur angemessenen Vergütung (UrhG § 32) sowie typische Streitpunkte aus der Vertragspraxis.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -31,8 +31,8 @@ Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentar
 
 - VerlG §§ 1-29 - Verlagsvertrag, Pflichten Verfasser und Verlag.
 - UrhG §§ 31, 31a - Einraeumung von Nutzungsrechten, unbekannte Nutzungsarten (Schriftform).
-- UrhG § 32 - angemessene Verguetung; § 32a Bestsellerklausel; § 32d Auskunftspflicht.
-- UrhG § 40a - Recht der anderweitigen Verwertung nach 10 Jahren bei pauschaler Verguetung.
+- UrhG § 32 - angemessene Vergütung; § 32a Bestsellerklausel; § 32d Auskunftspflicht.
+- UrhG § 40a - Recht der anderweitigen Verwertung nach 10 Jahren bei pauschaler Vergütung.
 - UrhG § 41 - Rueckruf wegen Nichtausuebung.
 - BGB §§ 305 ff. - AGB-Kontrolle bei vorformulierten Vertraegen, auch zwischen Unternehmern eingeschraenkt.
 - WissZeitVG-Bezug bei Hochschulautoren (Nebentaetigkeitsrecht, Dienstpflichten).
@@ -40,7 +40,7 @@ Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentar
 ## Praxisleitfaden / Schritt für Schritt
 
 1. **Template auswaehlen.** Nach Werktyp - falsche Vorlage erzeugt unsaubere Klauseln.
-2. **Pflichtklauseln pruefen.**
+2. **Pflichtklauseln prüfen.**
  - Werkbeschreibung (Titel, Umfang, Termine).
  - Honorar (Pauschale / Tantiemestaffel / Vorschuss).
  - Nutzungsrechte (raeumlich, zeitlich, inhaltlich, Sublizenz).
@@ -71,7 +71,7 @@ Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentar
 - Pauschalhonorar nur für Aufsaetze und kleine Werke; ab Lehrbuch Tantieme.
 - Nutzungsrechte einzeln benennen: Print, E-Book, Datenbank, Online-Kommentar, Hoerbuch, Uebersetzung, Bearbeitung.
 - Karenzklausel niemals laenger als zwei Jahre nach Vertragsende - sonst kartell- und berufsrechtlich problematisch.
-- Sublizenzgewinne (Datenbank-Eintrag) zumindest teilweise an Autorin auskehren - sonst spaeter § 32a.
+- Sublizenzgewinne (Datenbank-Eintrag) zumindest teilweise an Autorin auskehren - sonst später § 32a.
 - Bei Hochschullehrer: Nebentaetigkeitsregelung der Universitaet beachten, sonst hat der Dienstherr ein Wort mitzureden.
 - Co-Autoren-Werk: Kapitelplan und Verteilungsschluessel zwingend mitvereinbaren.
 
@@ -143,7 +143,7 @@ Justiziariat einbinden? [ja/nein]
 ## Quellen Stand 06/2026
 
 - VerlG §§ 1-29 - Pflichten der Vertragsparteien.
-- UrhG §§ 31, 31a, 32, 32a, 32d, 40a, 41 - Nutzungsrechte und Verguetung.
+- UrhG §§ 31, 31a, 32, 32a, 32d, 40a, 41 - Nutzungsrechte und Vergütung.
 - BGB §§ 305 ff. - AGB-Kontrolle.
 - Gemeinsame Verguetungsregeln (z. B. Boersenverein, Verband deutscher Schriftsteller); aktuelle Fassungen unter den Verbandsseiten.
 - BGH-Rechtsprechung zu § 32a UrhG (Volltexte unter bundesgerichtshof.de).

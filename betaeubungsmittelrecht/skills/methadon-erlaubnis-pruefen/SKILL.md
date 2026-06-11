@@ -3,7 +3,7 @@ name: methadon-erlaubnis-pruefen
 description: "Methadon: Erlaubnis prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Methadon Erlaubnis Pruefen
+# Methadon Erlaubnis Prüfen
 
 ## Arbeitsweg
 

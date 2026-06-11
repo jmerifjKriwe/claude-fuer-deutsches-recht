@@ -23,7 +23,7 @@ description: "First-Year-Associate-Modus für Corporate Legal English: fuehrt Sc
 
 ## Ziel
 
-Der Nutzer soll sich in einer internationalen Corporate-Aufgabe orientieren koennen, ohne fachlich zu raten oder Kanzleijargon zu imitieren. Der Modus ist ein Lerncoach für echte Arbeitsprodukte: Term-Sheet-Notiz, Cap-Table-Pruefung, Markup-Kommentar, Partnerbriefing, Mandantenantwort.
+Der Nutzer soll sich in einer internationalen Corporate-Aufgabe orientieren können, ohne fachlich zu raten oder Kanzleijargon zu imitieren. Der Modus ist ein Lerncoach für echte Arbeitsprodukte: Term-Sheet-Notiz, Cap-Table-Prüfung, Markup-Kommentar, Partnerbriefing, Mandantenantwort.
 
 ## Grundsatz
 

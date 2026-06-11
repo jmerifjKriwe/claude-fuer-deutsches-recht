@@ -41,8 +41,8 @@ description: "§ 137 Abs: 1 StPO als zentrales Schutzschild gegen den Vorwurf dy
 ## Argumentation gegen Sanktion
 
 - Vor § 138a StPO oder § 143a Abs. 2 Nr. 3 StPO immer auf § 137 Abs. 1 StPO als Massstab abstellen. Ausschluss ist ultima ratio.
-- Bei Sitzungspolizei (§ 176, § 177 GVG): Verteidiger ist nicht Adressat zwangsweiser Massnahmen. § 177 GVG sieht seit 1921 keine Zwangsmittel gegen Verteidiger vor.
-- Bei Drohung mit Strafanzeige § 258 StGB: pruefen ob bewusstes Schaffen falscher Tatsachenlage oder nur aggressives Argumentieren. Letzteres ist erlaubt.
+- Bei Sitzungspolizei (§ 176, § 177 GVG): Verteidiger ist nicht Adressat zwangsweiser Maßnahmen. § 177 GVG sieht seit 1921 keine Zwangsmittel gegen Verteidiger vor.
+- Bei Drohung mit Strafanzeige § 258 StGB: prüfen ob bewusstes Schaffen falscher Tatsachenlage oder nur aggressives Argumentieren. Letzteres ist erlaubt.
 
 ## Senatsdialog praktisch
 

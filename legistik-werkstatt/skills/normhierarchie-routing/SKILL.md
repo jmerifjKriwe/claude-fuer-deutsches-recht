@@ -27,7 +27,7 @@ Wenn ein Vorhaben nur eine politische Position, Prüfbitte oder Aufforderung an 
 
 ### A - Ist es überhaupt eine zu kodifizierende Materie?
 
-Wenn die politische Vorgabe nur Verwaltungspraxis aendern soll, reicht ein Erlass / eine Verwaltungsvorschrift. Kein Norm-Schritt noetig.
+Wenn die politische Vorgabe nur Verwaltungspraxis ändern soll, reicht ein Erlass / eine Verwaltungsvorschrift. Kein Norm-Schritt noetig.
 
 ### B - Wenn Gesetz: Bund oder Land?
 
@@ -49,7 +49,7 @@ Bei Landeszuständigkeit:
 
 ### D - Wenn Rechtsverordnung Bund: Gibt es Ermaechtigungsgrundlage Art. 80 GG?
 
-Prüfen mit Skill `verordnungsermaechtigung-art80`. Wenn keine ausreichende Ermaechtigung vorhanden: zunächst Gesetz aendern, um Ermaechtigung zu schaffen, dann VO erlassen.
+Prüfen mit Skill `verordnungsermaechtigung-art80`. Wenn keine ausreichende Ermaechtigung vorhanden: zunächst Gesetz ändern, um Ermaechtigung zu schaffen, dann VO erlassen.
 
 ### E - Wenn Satzung: Gibt es Satzungskompetenz?
 

@@ -15,11 +15,11 @@ description: "Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmat
 
 ## Worum geht es konkret
 
-Manchmal liefert eine Autorin den Sachverhalt eines geplanten Beitrags als E-Mail-Wechsel: Mandant - Anwalt - Behörde - Gericht. Daraus wird ein Praxisbericht, eine Anmerkung zu einer Behördenpraxis oder eine Fallanalyse. Sie muessen den Wust anonymisieren, chronologisieren, zitierbar machen und entscheiden, was tatsaechlich in den Druck soll.
+Manchmal liefert eine Autorin den Sachverhalt eines geplanten Beitrags als E-Mail-Wechsel: Mandant - Anwalt - Behörde - Gericht. Daraus wird ein Praxisbericht, eine Anmerkung zu einer Behördenpraxis oder eine Fallanalyse. Sie müssen den Wust anonymisieren, chronologisieren, zitierbar machen und entscheiden, was tatsaechlich in den Druck soll.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis für einen Verlagsbeitrag dienen sollen. Klaeren Sie:
+Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis für einen Verlagsbeitrag dienen sollen. Klären Sie:
 
 1. Liegt das Einverstaendnis aller Mailbeteiligten zur Verwertung vor?
 2. Mandantenname, Aktenzeichen, Behördenname - was muss anonymisiert werden?
@@ -29,18 +29,18 @@ Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis für einen Verlagsbeitrag d
 ## Material- bzw. Sachrahmen
 
 - .eml / .msg / .pst oder ausgedruckte Mails als PDF.
-- Anlagen (Bescheide, Vertraege).
+- Anlagen (Bescheide, Verträge).
 - Hinweise der Autorin zu Vertraulichkeit.
 - Bei Anwaltsmandaten: Mandantenfreigabe schriftlich.
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Vertraulichkeit klaeren.** Ohne schriftliche Freigabe der Mandantin oder anonymisierte Verwertung mit hinreichender Verfremdung: stop. § 43a Abs. 2 BRAO, § 203 StGB.
+1. **Vertraulichkeit klären.** Ohne schriftliche Freigabe der Mandantin oder anonymisierte Verwertung mit hinreichender Verfremdung: stop. § 43a Abs. 2 BRAO, § 203 StGB.
 2. **Chronologie aufbauen.** Mails nach Sendedatum sortieren. Bei verschachtelten Threads: jede Mail als eigenes Element.
 3. **Beteiligten-Tabelle.** Wer schreibt, wer empfaengt, welche Rolle? Pseudonymisieren (M = Mandantin, A = Anwalt, B = Behörde, Az.-Code).
 4. **Inhaltliche Verdichtung.** Mails sind oft 80 % Hoeflichkeitsfloskel - die 20 % Substanz extrahieren.
 5. **Wortlautzitate sparsam.** Wo eine Behördenformulierung tragend ist, woertlich zitieren mit Anonymisierung der Beteiligten.
-6. **Anlagen pruefen.** Bescheide, Vertraege - getrennt anonymisieren (Schwaerzungen sichtbar, nicht "weisse Flecken").
+6. **Anlagen prüfen.** Bescheide, Verträge - getrennt anonymisieren (Schwaerzungen sichtbar, nicht "weisse Flecken").
 7. **Sachverhalt formulieren.** Aus dem Konvolut einen klassischen Tatsachenabsatz im Beitragsstil bauen. Mails werden zur Belegunterlage, nicht zum Druckinhalt.
 
 ## Trade-off-Matrix

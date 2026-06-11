@@ -24,7 +24,7 @@ description: "Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienst
 
 ## Wahre Geschichte
 
-- Im 19. Jh. typische Streitigkeiten ueber Lohn ausstaendig, Misshandlung, Diebstahlsverdacht.
+- Im 19. Jh. typische Streitigkeiten über Lohn ausstaendig, Misshandlung, Diebstahlsverdacht.
 
 ## Pruefraster
 

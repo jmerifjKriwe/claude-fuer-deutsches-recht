@@ -5,7 +5,7 @@ description: "Spezial-Pruefraster fuer vorbehaltlose Grundrechte: Eingriffe nur 
 
 # Vorbehaltlose Grundrechte und verfassungsimmanente Schranken
 
-> Wenn ein Grundrecht **keinen** Schrankenvorbehalt hat, muessen kollidierende Verfassungsgueter herhalten. Das ist eine schmale Tuer, und das BVerfG geht hier sehr genau zu Werk.
+> Wenn ein Grundrecht **keinen** Schrankenvorbehalt hat, müssen kollidierende Verfassungsgueter herhalten. Das ist eine schmale Tuer, und das BVerfG geht hier sehr genau zu Werk.
 
 ## Welche Grundrechte sind vorbehaltlos?
 
@@ -29,15 +29,15 @@ description: "Spezial-Pruefraster fuer vorbehaltlose Grundrechte: Eingriffe nur 
 
 ## Methode: Praktische Konkordanz
 
-Verfassungsimmanente Schranken werden ueber die **praktische Konkordanz** aufgeloest. Beide Verfassungsgueter sollen moeglichst weitgehend zur Geltung kommen, ohne dass eines vollstaendig zurueckweicht (BVerfGE 93, 1 Kruzifix-Beschluss; BVerfGE 35, 366 Eindringen in Glaubensbekenntnis). Siehe `praktische-konkordanz`.
+Verfassungsimmanente Schranken werden über die **praktische Konkordanz** aufgeloest. Beide Verfassungsgueter sollen moeglichst weitgehend zur Geltung kommen, ohne dass eines vollstaendig zurueckweicht (BVerfGE 93, 1 Kruzifix-Beschluss; BVerfGE 35, 366 Eindringen in Glaubensbekenntnis). Siehe `praktische-konkordanz`.
 
 ## Pruefraster
 
 1. Vorbehaltlosigkeit feststellen.
 2. Kollidierendes Verfassungsgut benennen (Verfassungsrang, nicht blosser Gemeinwohlbelang).
-3. Gesetzliche Grundlage fuer die Konkretisierung suchen oder direkte Heranziehung der Verfassung pruefen.
+3. Gesetzliche Grundlage für die Konkretisierung suchen oder direkte Heranziehung der Verfassung prüfen.
 4. Konkordanz herstellen: schonendster Ausgleich, der beide Gueter wahrt.
-5. Absolute Grenzen pruefen (Menschenwuerde, Wesensgehalt, Existenzminimum).
+5. Absolute Grenzen prüfen (Menschenwuerde, Wesensgehalt, Existenzminimum).
 
 ## Quellen mit Schlagwort
 

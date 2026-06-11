@@ -79,7 +79,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 ### Pruefraster
 1. Art des Dienstes (Verkuendigungsnaehe)? — GrO 2022 Anlage.
 2. Loyalitaetsverstoss konkret? — GrO 2022 Art. 7-10.
-3. Kuendigung oder andere Massnahme verhaeltnismaessig? — EuGH Egenberger, BAG-Folgejudikate.
+3. Kuendigung oder andere Maßnahme verhaeltnismaessig? — EuGH Egenberger, BAG-Folgejudikate.
 4. MAVO-Beteiligung erfolgt? — § 30 ff. MAVO.
 5. Staatliches Antidiskriminierungsrecht (AGG, EU-Rahmen-RL) anwendbar? — Egenberger-Prueffolge.
 

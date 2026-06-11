@@ -22,12 +22,12 @@ description: "Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill
 - Hausbesuch in der Regel.
 - Modul 1 bis 6 nach Pflegestaerkungsgesetzen.
 
-### AU-Pruefung
+### AU-Prüfung
 - Bei laenger andauernder AU.
-- "Auf Heller und Pfennig" pruefen — kritisches Gutachten.
+- "Auf Heller und Pfennig" prüfen — kritisches Gutachten.
 
 ### Reha-Begutachtung
-- Notwendigkeit Reha pruefen.
+- Notwendigkeit Reha prüfen.
 
 ### Hilfsmittel-Begutachtung
 - Erforderlichkeit und Mehrkosten.

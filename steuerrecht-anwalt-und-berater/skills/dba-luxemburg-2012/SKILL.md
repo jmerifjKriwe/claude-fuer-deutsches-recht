@@ -35,7 +35,7 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 - **DBA Deutschland-Luxemburg vom 23.04.2012** (BGBl. 2012 II S. 1402/1403), in Kraft 30.09.2013 (BGBl. 2014 II S. 728), anwendbar ab 01.01.2014.
 - Aenderungsprotokoll vom 06.07.2023 (BGBl. 2023 II Nr. 334), in Kraft 29.12.2023 (BGBl. 2024 II Nr. 147), anwendbar ab 01.01.2024.
 - **OECD-MA 2010/2017**.
-- **MLI**: Deutschland und Luxemburg sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
+- **MLI**: Deutschland und Luxemburg sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal prüfen.
 - **§§ 50d Abs. 3, 34c, 32b EStG**, § 8 ff. AStG (Hinzurechnung).
 - **ATAD I/II** mit anti-hybrid Regelungen (§ 4k EStG, § 8b Abs. 1 Satz 3 KStG ergaenzend).
 - **BEPS** und PPT.
@@ -44,15 +44,15 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 
 - Aktuelle BFH-Rechtsprechung zur DBA-Berechtigung luxemburgischer Investmentfonds (SICAV) in freier amtlicher Quelle abrufen.
 - Aktuelle BFH-Rechtsprechung zur Substanz-Anforderung bei Holding-Gesellschaften in freier amtlicher Quelle abrufen.
-- BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG nach AbzStEntModG 2021 (BGBl. 2021 I S. 1259) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
-- BMF-Schreiben zu hybriden Gestaltungen § 4k EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG nach AbzStEntModG 2021 (BGBl. 2021 I S. 1259) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
+- BMF-Schreiben zu hybriden Gestaltungen § 4k EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit (Art. 4)
 
 - Tie-Breaker.
-- Luxemburgische SICAV / SICAR: nur teilweise DBA-berechtigt (Fonds-Spezialregelung); RAIF haeufig nicht abkommensberechtigt — **konkret DBA-Text pruefen**.
+- Luxemburgische SICAV / SICAR: nur teilweise DBA-berechtigt (Fonds-Spezialregelung); RAIF haeufig nicht abkommensberechtigt — **konkret DBA-Text prüfen**.
 
 ### Betriebsstaette (Art. 5)
 
@@ -80,7 +80,7 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 - **Substanztest** § 50d Abs. 3 EStG: bei Briefkasten-Holding kein Treaty-Schutz.
 - **PPT-Klausel**: durch MLI ergaenzt — Hauptzweck-Test.
 - **Hybrid-Regeln** § 4k EStG: Doppelnichtansatz, Doppelabzug verboten.
-- **Fonds-Berechtigung**: SICAV mit DBA-Schutz nur in engen Grenzen, RAIF haeufig ausgeschlossen — DBA-Text und aktuelles BMF-Schreiben pruefen.
+- **Fonds-Berechtigung**: SICAV mit DBA-Schutz nur in engen Grenzen, RAIF haeufig ausgeschlossen — DBA-Text und aktuelles BMF-Schreiben prüfen.
 - **Veraeusserung Anteile** (Art. 13): bei Immobilien-Holding Belegenheit (Real-Property-Holding-Klausel).
 
 ## Workflow
@@ -91,7 +91,7 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 
 ### Phase 2 — Ansaessigkeit
 1. Tie-Breaker.
-2. Fonds: separat pruefen.
+2. Fonds: separat prüfen.
 
 ### Phase 3 — Einkunftsart einordnen
 1. Holding: Dividenden, Zinsen, Lizenzen, Veraeusserungsgewinne.
@@ -112,16 +112,16 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 ## Strategie und Praxis-Tipps
 
 - Briefkasten-Soparfi ohne Personal scheitert seit AbzStEntModG-Reform 2021 regelmaessig am Substanztest — Personal-Investition aufbauen.
-- EU-MTRL geht DBA in der Regel vor (0 Prozent statt 5 Prozent Quellensteuer auf Schachteldividenden) — Wahlrecht zum Empfaengergunst pruefen.
+- EU-MTRL geht DBA in der Regel vor (0 Prozent statt 5 Prozent Quellensteuer auf Schachteldividenden) — Wahlrecht zum Empfaengergunst prüfen.
 - Hybrid-Mismatches durch § 4k EStG eingedaemmt — bei Konzernfinanzierungen Doppelabzug vermeiden.
 - Grenzgaenger Luxemburg (Saarland/Rheinland-Pfalz): keine "klassische" Grenzgaengerregelung; 183-Tage-Regelung gilt; **Konsultationsvereinbarung Home-Office** beachten.
-- Bei SICAV / RAIF: DBA-Berechtigung pruefen — andere Faelle Anlage zum DBA oder spezifische Folgevereinbarung.
+- Bei SICAV / RAIF: DBA-Berechtigung prüfen — andere Faelle Anlage zum DBA oder spezifische Folgevereinbarung.
 
 ## Praktiker-Tipps der alten Hasen
 
 ### Erstattungsverfahren luxemburgische Quellensteuer
 
-- **Zuständigkeit**: luxemburgische Erstattung durch **Administration des Contributions Directes (ACD)**, Bureau d'Imposition Societes/Non-Residents. Aktuelle Zuständigkeit auf **impotsdirects.public.lu** pruefen.
+- **Zuständigkeit**: luxemburgische Erstattung durch **Administration des Contributions Directes (ACD)**, Bureau d'Imposition Societes/Non-Residents. Aktuelle Zuständigkeit auf **impotsdirects.public.lu** prüfen.
 - **Antragsformulare**: luxemburgische Formulare zur Quellensteuererstattung bei Holding-Beteiligungen; bei Ausschuettung an EU-Mutter typischerweise vorab Freistellungs-Antrag — Bezeichnungen vom Anwender mit aktuellem Stand auf impotsdirects.public.lu zu verifizieren.
 - **Frist**: nach luxemburgischem Steuerrecht regelmaessig **fuenf Jahre** ab Steuerentrichtung.
 - **Bearbeitungsdauer ACD**: 6-18 Monate; Substanzpruefung bei Holding-Strukturen verlaengert.
@@ -142,12 +142,12 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| SOPARFI mit Substanz halten vs. aufgeben | Holding-Struktur mit Kosten 50-150 TEUR p.a. (Personal, Buero) | Aufloesung und Direkthaltung aus DE | bei Beteiligungsvolumen ueber 5 Mio. EUR und Verlustverwertung Substanz lohnend; bei kleineren Strukturen Aufloesung |
-| Schachteldividende ueber DBA Art. 10 (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent Quellensteuer in LU, anrechenbar in DE | 0 Prozent, vorab Freistellung an Quelle | § 43b EStG immer vorzugswuerdig |
+| SOPARFI mit Substanz halten vs. aufgeben | Holding-Struktur mit Kosten 50-150 TEUR p.a. (Personal, Buero) | Aufloesung und Direkthaltung aus DE | bei Beteiligungsvolumen über 5 Mio. EUR und Verlustverwertung Substanz lohnend; bei kleineren Strukturen Aufloesung |
+| Schachteldividende über DBA Art. 10 (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent Quellensteuer in LU, anrechenbar in DE | 0 Prozent, vorab Freistellung an Quelle | § 43b EStG immer vorzugswuerdig |
 | Home-Office Bagatelle 34 Tage einhalten vs. Aufteilung | komplette Besteuerung im Arbeitgeberstaat LU | Aufteilung Lohn auf LU/DE nach Arbeitstagen | bei stabil unter 34 Tagen Bagatelle vorteilhaft (volle LU-Besteuerung niedriger als deutsche progressive Anteilstabelle) |
 | Fonds-Vehikel SICAV vs. RAIF | SICAV teilweise DBA-berechtigt, regulierter Fonds (CSSF) | RAIF nicht reguliert, in der Regel **nicht** DBA-berechtigt | bei DBA-Schutz-Bedarf SICAV; bei pure Investorenvehikel RAIF |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
 - **Briefkasten-SOPARFI nach AbzStEntModG 2021**: § 50d Abs. 3 EStG strenger formuliert — selbst luxemburgische Beratungsfirma "kann" nicht mehr als Substanz gelten. Indizientabelle: eigenes Personal, eigene Geschaeftsraeume, eigene Entscheidungstraeger.
 - **Hybrid-Mismatch nach § 4k EStG**: luxemburgisches Funding-Vehikel (SARL) mit Hybrid-Element — Doppelabzug verboten.
@@ -177,6 +177,6 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Luxemburg 23.04.2012 (BGBl. 2012 II S. 1402/1403), in Kraft 30.09.2013 (BGBl. 2014 II S. 728), ab 01.01.2014. Aend.-Prot. 06.07.2023 (BGBl. 2023 II Nr. 334), in Kraft 29.12.2023 (BGBl. 2024 II Nr. 147), ab 01.01.2024. AbzStEntModG 2021 (BGBl. 2021 I S. 1259). § 4k EStG. MLI-Notifications beim OECD-Portal pruefen; aktuelle BMF-Schreiben zu Holding-Substanz und Hybriden im BMF-Veroeffentlichungsverzeichnis abrufen.
+Stand: 05/2026. DBA-Luxemburg 23.04.2012 (BGBl. 2012 II S. 1402/1403), in Kraft 30.09.2013 (BGBl. 2014 II S. 728), ab 01.01.2014. Aend.-Prot. 06.07.2023 (BGBl. 2023 II Nr. 334), in Kraft 29.12.2023 (BGBl. 2024 II Nr. 147), ab 01.01.2024. AbzStEntModG 2021 (BGBl. 2021 I S. 1259). § 4k EStG. MLI-Notifications beim OECD-Portal prüfen; aktuelle BMF-Schreiben zu Holding-Substanz und Hybriden im BMF-Veroeffentlichungsverzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 13 Marker aufgeloest: 5 belegt (BGBl. 2012 II S. 1402/1403 bestaetigt; BGBl. 2014 II S. 728 bestaetigt; Aend.-Prot. 06.07.2023 BGBl. 2023 II Nr. 334 bestaetigt; in Kraft 29.12.2023 BGBl. 2024 II Nr. 147 bestaetigt; AbzStEntModG BGBl. 2021 I S. 1259 bestaetigt), 8 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

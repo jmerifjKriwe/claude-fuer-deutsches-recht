@@ -130,14 +130,14 @@ Saldo zugunsten Mandant: EUR [Netto]
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Widerrufsjoker Immobiliendarlehen pruefen und geltend machen | Widerruf und Rueckabwicklung nach Template unten |
+| Standard — Widerrufsjoker Immobiliendarlehen prüfen und geltend machen | Widerruf und Rueckabwicklung nach Template unten |
 | Variante A — Zinsniveau inzwischen hoeher als bei Vertragsschluss | Widerruf wirtschaftlich nachteilig; Abwaegung mit Mandant |
 | Variante B — Bank ist einigungsbereit | Aussergerichtliche Rueckabwicklung suchen; schneller als Klage |
-| Variante C — Darlehen bereits abgeloest | Widerruf von abgeloestem Darlehen pruefen; Verjährung § 355 Abs. 3 S. 1 BGB |
+| Variante C — Darlehen bereits abgeloest | Widerruf von abgeloestem Darlehen prüfen; Verjährung § 355 Abs. 3 S. 1 BGB |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -194,7 +194,7 @@ Es wird beantragt:
 Streitwert: EUR [Nettovorteil des Widerrufs].
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

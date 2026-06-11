@@ -29,7 +29,7 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 2. **Haftungsbeschraenkung gewuenscht?** Reine KG: Komplementaer haftet unbeschraenkt; GmbH & Co. KG: Komplementaer-GmbH begrenzt die Haftung.
 3. **Freiberuflertaetigkeit?** KG / GmbH & Co. KG erzielt Gewerbesteuer; für Freiberufler PartG mbB besser.
 4. **Nachfolge oder Familienstruktur?** GmbH & Co. KG optimal für Uebergaben (steuerliche Vorteile § 6 Abs. 3 EStG).
-5. **Nur 1 Gruender?** Ein-Personen GmbH & Co. KG moeglich; einfachere GmbH oft praktikabler.
+5. **Nur 1 Gründer?** Ein-Personen GmbH & Co. KG möglich; einfachere GmbH oft praktikabler.
 6. **Zeitplan?** GmbH & Co. KG erfordert zuerst GmbH-Gruendung (4-8 Wochen) + KG-Eintragung (weitere 2-4 Wochen).
 
 ## Zentrale Normen
@@ -41,7 +41,7 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 - **§ 172 IV HGB** — Riickgewaehr einlagegelebter Betrage; Wiederaufleben Haftung
 - **§ 19 II HGB** — Pflicht-Namenszusatz "GmbH & Co. KG"
 - **§ 15 EStG** — Mitunternehmerschaft; Personengesellschaftsbesteuerung
-- **§ 15a EStG** — Verlustverrechnung Kommanditist bis zur Hoehe der Hafteinlage
+- **§ 15a EStG** — Verlustverrechnung Kommanditist bis zur Höhe der Hafteinlage
 
 ## Aktuelle Rechtsprechung
 
@@ -54,7 +54,7 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 | Haftung | Kommanditisten: Hafteinlage; GmbH: Gesellschaftsvermoegen | Gesellschaftsvermoegen |
 | Besteuerung | Transparent (§ 15 EStG); Gewerbesteuer auf KG-Ebene | KSt + GewSt auf GmbH-Ebene |
 | Gruendungsaufwand | Hoch: GmbH + KG | Mittel: GmbH |
-| Freiberufler | Ungeeignet (gewerblich) | Moeglich |
+| Freiberufler | Ungeeignet (gewerblich) | Möglich |
 | Nachfolge | Optimal (§ 6 Abs. 3 EStG) | Anteile abtretbar |
 | Buchfuehrung | Doppelte Buchfuehrung; GmbH + KG-Abschluss | Doppelte Buchfuehrung |
 
@@ -65,7 +65,7 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 3. **KG-Vertrag entwerfen:** Firma, Sitz, Gegenstand, Hafteinlagen, Gewinnverteilung, Geschaeftsfuehrung.
 4. **KG-Anmeldung HR:** Alle Gesellschafter; notarielle Beglaubigung; Anmeldung an das HR-Gericht.
 5. **Steuerliche Anmeldungen:** Finanzamt (Fragebogen § 138 AO); ELSTER; ggf. Gewerbeamt.
-6. **Sonderbetriebsvermoegen pruefen:** Ueberlassung von Wirtschaftsgutern durch Kommanditisten dokumentieren.
+6. **Sonderbetriebsvermoegen prüfen:** Ueberlassung von Wirtschaftsgutern durch Kommanditisten dokumentieren.
 7. **Gesellschafterliste KG:** Nicht beim HR wie bei GmbH; KG-Vertrag ist massgeblich.
 
 ## Output-Template: KG-Vertrag (Kernauszug)

@@ -25,7 +25,7 @@ Anwendung typischerweise vor und neben den Skills `konkurrentenklage-einstweilig
 - Auswahlvermerk / Beförderungsranking
 - Eigene letzte dienstliche Beurteilung des Mandanten
 - Beurteilung der ausgewaehlten Konkurrentin oder des Konkurrenten (soweit zugaenglich)
-- Mitteilung des Dienstherrn ueber die Auswahlentscheidung mit Frist
+- Mitteilung des Dienstherrn über die Auswahlentscheidung mit Frist
 - Auskunft, ob bereits Ernennung erfolgt ist (Ämterstabilitaet)
 
 ## 3. Ablauf / Checkliste
@@ -73,4 +73,4 @@ Anwendung typischerweise vor und neben den Skills `konkurrentenklage-einstweilig
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant ist Polizeihauptkommissar Besoldungsgruppe A11. Dienstposten A12 wird ausgeschrieben. Ranking ergibt 17 Bewerber. Mandant Rang 3 mit Gesamtnote "uebertrifft die Anforderungen". Rang 1 hat dieselbe Gesamtnote. Aufgabe: Pruefe Anforderungsprofil, Binnendifferenzierung, Auswahlvermerk; bereite Antrag auf einstweiligen Rechtsschutz nach § 123 VwGO vor.
+Mandant ist Polizeihauptkommissar Besoldungsgruppe A11. Dienstposten A12 wird ausgeschrieben. Ranking ergibt 17 Bewerber. Mandant Rang 3 mit Gesamtnote "uebertrifft die Anforderungen". Rang 1 hat dieselbe Gesamtnote. Aufgabe: Prüfe Anforderungsprofil, Binnendifferenzierung, Auswahlvermerk; bereite Antrag auf einstweiligen Rechtsschutz nach § 123 VwGO vor.

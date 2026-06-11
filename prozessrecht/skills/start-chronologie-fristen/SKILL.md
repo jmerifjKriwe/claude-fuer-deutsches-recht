@@ -120,7 +120,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `mahnschreiben-aufnahme` | Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: §§ 204 212 BGB, § 93 ZPO. Prüfraster: Fristenlauf, Anerkennungsrisiko, Reaktionsoptionen. Output:… |
 | `mahnschreiben-entwurf` | Vorgerichtliches Mahnschreiben entwerfen: Zahlungsaufforderung mit Frist und Klageankündigung. Normen: §§ 286 288 BGB, §§ 204 ff. BGB. Prüfraster: Verjaebrungshemmung, Verzugsbeginn, Schadensersatz, Klageandrohung.… |
 | `mahnschreiben-erhalten` | Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch, Zahlungsplan oder Verjaebrungsaufschub. Normen: §§ 286 287 BGB, §§ 203 204 BGB. Prüfraster: Forderungsprüfung, Verjaebrungsrisiko,… |
-| `mandat-aktualisierung` | Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen. Normen: §§ 233 ff. ZPO. Prüfraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes… |
+| `mandat-aktualisierung` | Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschlüsse, Fristen eintragen. Normen: §§ 233 ff. ZPO. Prüfraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes… |
 | `mandat-aufnahme` | Prozessmandat aufnehmen: Sachverhalt erfassen, Zuständigkeit prüfen, Klagekonzept skizzieren. Normen: §§ 253 261 ZPO, BRAO. Prüfraster: Sachverhaltserfassung, Anspruchsgrundlage, Zuständigkeit, Kosten-Risiko-Analyse.… |
 | `mandat-briefing` | Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen. Normen: §§ 373 ff. ZPO. Prüfraster: Beweislast, Zeugenvorbereitung, Verhandlungsstrategien. Output: Briefingdokument für… |
 | `mandat-schliessen` | Mandat nach Prozessabschluss formal schließen: Kostenfestsetzung, Archivierung, Mandanteninformation. Normen: §§ 103 ff. ZPO, RVG. Prüfraster: Kostenfestsetzungsantrag, Ergebnismitteilung, Handaktenfreigabe. Output:… |
@@ -138,13 +138,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Prozessrecht-Plugin unterstuetzt Anwaltskanzleien bei zivilprozessualen Mandaten nach der Zivilprozessordnung (ZPO): von der Mandatsaufnahme ueber Mahnschreiben, Mahnbescheid und Klageschrift bis zu Beweissicherung, einstweiliger Verfuegung, Vollstreckung und Rechtsmitteln. Zusaetzlich sind grundlegende Strafverteidigungsschritte für den Ersttermin sowie verkehrsunfallrechtliche Grundlagen abgedeckt.
+Das Prozessrecht-Plugin unterstuetzt Anwaltskanzleien bei zivilprozessualen Mandaten nach der Zivilprozessordnung (ZPO): von der Mandatsaufnahme über Mahnschreiben, Mahnbescheid und Klageschrift bis zu Beweissicherung, einstweiliger Verfuegung, Vollstreckung und Rechtsmitteln. Zusaetzlich sind grundlegende Strafverteidigungsschritte für den Ersttermin sowie verkehrsunfallrechtliche Grundlagen abgedeckt.
 
 Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, sowie an Anwaelte, die ein strukturiertes Mandats-Tracking und Fristverwaltung benoetigen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein neues Prozessmandat ist aufzunehmen: Sachverhalt klaeren, Zuständigkeit pruefen und Kosten-Risiko-Analyse vornehmen.
+- Ein neues Prozessmandat ist aufzunehmen: Sachverhalt klären, Zuständigkeit prüfen und Kosten-Risiko-Analyse vornehmen.
 - Eine Geldforderung soll schnell per Mahnbescheid geltend gemacht oder ein erhaltenes Mahnschreiben beantwortet werden.
 - Eine einstweilige Verfuegung zur Sicherung zivilrechtlicher Ansprueche ist zu beantragen.
 - Ein Urteil liegt vor und es soll vollstreckt werden (Pfaendung, Sachpfaendung, Forderungspfaendung).
@@ -154,7 +154,7 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 
 - **Streitwert** — der Geldwert des Streitgegenstands; bestimmt Gerichts- und Anwaltsgebuehren sowie die sachliche Zuständigkeit.
 - **Mahnbescheid** — gerichtliche Zahlungsaufforderung im schriftlichen Mahnverfahren (§§ 688 ff. ZPO); bei Widerspruch Uebergang zum streitigen Verfahren.
-- **Einstweilige Verfuegung** — vorläufige gerichtliche Massnahme zur Sicherung eines Anspruchs (§§ 935 ff. ZPO); Verfuegungsanspruch und Verfuegungsgrund erforderlich.
+- **Einstweilige Verfuegung** — vorläufige gerichtliche Maßnahme zur Sicherung eines Anspruchs (§§ 935 ff. ZPO); Verfuegungsanspruch und Verfuegungsgrund erforderlich.
 - **Beweissicherung** — selbstaendiges Beweisverfahren nach §§ 485 ff. ZPO; sichert Gutachten oder Tatsachen vor Klageerhebung.
 - **Vollstreckbarer Titel** — Grundlage für Zwangsvollstreckung (§ 704 ZPO); benoetigt Vollstreckungsklausel und Zustellungsnachweis.
 - **Vorlageanordnung** — gerichtliche Anordnung zur Vorlage von Urkunden durch Gegner oder Dritte (§ 142 ZPO).
@@ -173,10 +173,10 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Klaeger oder Beklagter? Zivilsache oder Strafsache? Eilbedarf?
+1. Mandantenkonstellation klären: Kläger oder Beklagter? Zivilsache oder Strafsache? Eilbedarf?
 2. Phase des Mandats bestimmen: Vorprozessual (Mahnschreiben, Mahnbescheid), Klagephase, Beweissicherung oder Vollstreckung?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: Verjaebrung (§§ 195 ff. BGB), Klageanmeldefristen, Widerspruchsfristen beim Mahnbescheid (zwei Wochen).
+4. Eilfristen prüfen: Verjaebrung (§§ 195 ff. BGB), Klageanmeldefristen, Widerspruchsfristen beim Mahnbescheid (zwei Wochen).
 5. Anschluss-Skill bestimmen: Nach Klageschrift ggf. einstweilige Verfuegung; nach Urteil Vollstreckungsauftrag.
 
 ## Skill-Tour (was gibt es hier?)
@@ -185,7 +185,7 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 - `prozessrecht-kaltstart-interview` — Erstinterview strukturiert durchfuehren: Sachverhalt, Klagebegehren, Fristen, Kostenrisiko.
 - `prozessrecht-mandat-arbeitsbereich` — Digitaler Arbeitsbereich: Dokumentenablage, Aufgabenverteilung, Fristentracking.
 - `prozessrecht-anpassen` — Strategie anpassen: Klageaenderung, Widerklage, Rücknahme (§§ 263 ff. ZPO).
-- `mandat-aktualisierung` — Laufendes Mandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen.
+- `mandat-aktualisierung` — Laufendes Mandat aktualisieren: neue Schriftsaetze, Beschlüsse, Fristen eintragen.
 - `portfolio-status` — Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahrensstand, naechste Schritte.
 - `mandat-briefing` — Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen.
 - `mandat-schliessen` — Mandat formal schliessen: Kostenfestsetzung, Archivierung, Mandanteninformation.
@@ -203,14 +203,14 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 - `schriftsatz-abschnitt` — Einzelne Abschnitte eines Schriftsatzes erstellen (Tatbestand, Begruendung, Beweisangebot).
 - `vollstreckung` — Zwangsvollstreckung einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung (§§ 704 ff. ZPO).
 - `zeuge-vorbereitung` — Zeugen für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsthemen.
-- `anwaltsgeheimnis-pruefung` — Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen pruefen.
+- `anwaltsgeheimnis-pruefung` — Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen.
 - `verkehrsunfall` — Verkehrsunfall-Mandat vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz.
 - `strafverteidigung-ersttermin` — Ersttermin in der Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, Optionen.
 
 ## Worauf besonders achten
 
 - **Anwaltszwang ab LG**: Vor dem Landgericht und hoeheren Instanzen gilt § 78 ZPO; nur vor dem Amtsgericht kann der Mandant ohne Anwalt auftreten.
-- **Verjaebrung laeuft gegen Klaeger**: Mahnschreiben hemmen Verjaebrung nicht; erst Klageschrift oder Mahnbescheid hemmen nach § 204 BGB.
+- **Verjaebrung laeuft gegen Kläger**: Mahnschreiben hemmen Verjaebrung nicht; erst Klageschrift oder Mahnbescheid hemmen nach § 204 BGB.
 - **Widerspruch beim Mahnbescheid in zwei Wochen**: Wer keinen Widerspruch einlegt, erhalt auf Antrag des Glaebigers einen Vollstreckungsbescheid.
 - **Glaubhaftmachung bei eV**: Ohne eidesstattliche Versicherung oder sonstige Glaubhaftmachung wird der Antrag auf einstweilige Verfuegung zurueckgewiesen.
 - **Kostenfestsetzungsantrag nicht vergessen**: Nach obsiegendem Urteil muss der Kostenfestsetzungsantrag gestellt werden; das Gericht tituliert Kosten nicht von Amts wegen.

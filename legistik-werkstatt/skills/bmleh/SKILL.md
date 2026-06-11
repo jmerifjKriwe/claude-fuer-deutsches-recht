@@ -140,7 +140,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `gesetzesentwurf-kabinett` | Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss… |
 | `gesetzgebungskompetenz-pruefen` | Gesetzgebungskompetenz nach Art. 70 bis 74 GG prüfen bevor Entwurf aufgesetzt wird. Anwendungsfall Referent oder Verband fragt ob Bund oder Land regelungsbefogt ist. Ausschließliche Bundeskompetenz Art. 71 i.V.m. 73… |
 | `goldplating-vermeiden` | Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den… |
-| `inkrafttreten-uebergangsrecht` | Inkrafttretens- und Übergangsregelung für Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Übergangsrecht muessen noch ergaenzt werden. Standardformel… |
+| `inkrafttreten-uebergangsrecht` | Inkrafttretens- und Übergangsregelung für Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Übergangsrecht müssen noch ergaenzt werden. Standardformel… |
 | `legistik-auftragsaufnahme` | Legistischen Auftrag strukturiert aufnehmen: Startbahn, Bundesland, Ressort, Fraktion, formalen Initiator, Adressaten, Eingriffstiefe, Dringlichkeit, Entwurfstyp und Beteiligte klären. |
 | `lesefassung-konsolidiert` | Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Aenderung aussieht ohne… |
 | `normenkartierung` | Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten… |
@@ -161,7 +161,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Die Legistik-Werkstatt ist ein Plugin für Referentinnen und Referenten in Bundesministerien und Landesministerien, für Bundestags- und Landtagsfraktionen, für Oppositionsarbeit, Ausschussarbeit, kommunale und kammerliche Normgeber, Verfassungsrechtlerinnen und Verfassungsrechtler sowie für fachlich zuliefernde Verbände. Sie hilft, Gesetzesentwürfe, Änderungsanträge, Entschließungsanträge, Rechtsverordnungen und Satzungen zu erstellen, zu prüfen und in den jeweils passenden Regierungs- oder Parlamentsprozess einzubringen.
 
-Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsaufnahme ueber den Referentenentwurf, die Ressortabstimmung, Verbandeanhoerungen, die Kabinettsreife, Synopsen und Lesefassungen bis zur XML-Paralleldarstellung. Es enthaelt ausserdem Quercheckmodule für Verfassungsmaessigkeit, Europarechtskonformitaet, Erfuellungsaufwand und Goldplating-Vermeidung.
+Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsaufnahme über den Referentenentwurf, die Ressortabstimmung, Verbandeanhoerungen, die Kabinettsreife, Synopsen und Lesefassungen bis zur XML-Paralleldarstellung. Es enthaelt ausserdem Quercheckmodule für Verfassungsmaessigkeit, Europarechtskonformitaet, Erfuellungsaufwand und Goldplating-Vermeidung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -170,7 +170,7 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - Eine Oppositionsfraktion braucht einen formal tragfähigen Antrag, Entschließungsantrag oder Alternativentwurf mit klarer Begründung und Angriffsfestigkeit.
 - Ein Landesministerium oder eine Landtagsfraktion arbeitet in einem bestimmten Bundesland und muss Landesverfassung, Landes-Geschäftsordnung, Landtagsverfahren und Verkündungsregeln sauber mitführen.
 - Eine Normenkontrollrats-Vorlage muss fristgerecht vorbereitet und mit einem KMU-Check versehen werden.
-- Ein Ministerium will einen bestehenden Entwurf auf Verfassungsmaessigkeit und Europarechtskonformitaet pruefen.
+- Ein Ministerium will einen bestehenden Entwurf auf Verfassungsmaessigkeit und Europarechtskonformitaet prüfen.
 - Eine Rechtsverordnung wird entworfen und die Verordnungsermaechtigung nach Art. 80 GG muss geprueft werden.
 - Nach Inkrafttreten soll eine konsolidierte Lesefassung des geaenderten Stammgesetzes erstellt werden.
 
@@ -178,10 +178,10 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 
 - **HdR** — Handbuch der Rechtsfoermlichkeit; Leitfaden des Bundesjustizministeriums für die Formulierung von Rechtstexten.
 - **GGO** — Gemeinsame Geschaeftsordnung der Bundesministerien; regelt Verfahren und Fristen für die Ressortabstimmung.
-- **NKR** — Nationaler Normenkontrollrat; unabhaengiges Gremium, das Erfuellungsaufwand und buerokratische Belastungen prueft.
+- **NKR** — Nationaler Normenkontrollrat; unabhaengiges Gremium, das Erfuellungsaufwand und buerokratische Belastungen prüft.
 - **Gesetzentwurf aus der Mitte** — Parlamentarische Gesetzesinitiative, die nicht von der Bundesregierung oder Landesregierung, sondern aus dem Parlament kommt; im Bund typischerweise durch eine Fraktion oder Abgeordnete in der erforderlichen Stärke.
 - **Formulierungshilfe** — Fachlicher Zuliefertext, häufig aus einem Ministerium, der formal als parlamentarische Vorlage, Änderungsantrag oder Ausschussfassung weiterverwendet werden kann; formaler Initiator und fachlicher Verfasser sind sauber zu trennen.
-- **Goldplating** — Ueberimplementierung von EU-Richtlinien: nationale Zusatzanforderungen ueber das EU-Mindestmass hinaus.
+- **Goldplating** — Ueberimplementierung von EU-Richtlinien: nationale Zusatzanforderungen über das EU-Mindestmass hinaus.
 - **Synopse** — Gegenueberststellung von bisherigem Recht, neuem Recht und Aenderungsbefehl in einer Dreispalten-Tabelle.
 - **LegalDocML** — Maschinenlesbares XML-Format für deutsche Rechtstexte; Standard des Bundesjustizministeriums.
 - **Normenkartierung** — Systematische Erfassung aller durch ein Vorhaben beruehrten Normen und ihrer Aenderungsbedarfe.
@@ -201,7 +201,7 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Startbahn klären: Bundesressort, Bundestag, Landesressort, Landtag oder sonstiger Normgeber.
-2. Legistischen Auftrag aufnehmen und Regelungsziele klaeren (`legistik-auftragsaufnahme`).
+2. Legistischen Auftrag aufnehmen und Regelungsziele klären (`legistik-auftragsaufnahme`).
 3. Normhierarchie und Kompetenzgrundlage bestimmen (`normhierarchie-routing`, `gesetzgebungskompetenz-pruefen`).
 4. Geeigneten Entwurfstyp auswaehlen: Referentenentwurf, Kabinettsentwurf, Gesetzentwurf aus der Mitte, Änderungsantrag, Antrag, Rechtsverordnung oder Satzung.
 5. Quercheck-Module nutzen: Verfassungsmaessigkeit, Europarecht, Goldplating, Erfuellungsaufwand, Rechtsförmlichkeit und parlamentarische Zulässigkeit.
@@ -211,21 +211,21 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 
 - `legistik-auftragsaufnahme` — Legistischen Auftrag strukturiert aufnehmen und in Regelungsziele umwandeln.
 - `normhierarchie-routing` — Richtige Startbahn und Normebene bestimmen: Regierung, Parlament, Gesetz, Verordnung, Satzung oder Antrag.
-- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz nach Art. 70-74 GG pruefen bevor Entwurf aufgesetzt wird.
-- `satzungskompetenz-pruefen` — Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts pruefen.
-- `verordnungsermaechtigung-art80` — Verordnungsermaechtigung nach Art. 80 Abs. 1 GG pruefen bevor Rechtsverordnung entworfen wird.
+- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz nach Art. 70-74 GG prüfen bevor Entwurf aufgesetzt wird.
+- `satzungskompetenz-pruefen` — Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts prüfen.
+- `verordnungsermaechtigung-art80` — Verordnungsermaechtigung nach Art. 80 Abs. 1 GG prüfen bevor Rechtsverordnung entworfen wird.
 - `referentenentwurf-bauen` — Vollstaendigen Referentenentwurf des Bundes oder Landes aufbauen.
 - `gesetzesentwurf-kabinett` — Kabinettsentwurf nach Ressortabstimmung aus dem Referentenentwurf erstellen.
 - `formulierungshilfe-bauen` — Formulierungshilfe, Änderungsantrag, Gesetzentwurf aus der Mitte, Entschließungsantrag oder Antrag für Bundestag und Landtage aufbauen.
 - `begruendung-allgemein-und-besonders` — Zweiteilige Begruendung zu Gesetzesentwurf oder Verordnung (Allgemeiner Teil, Besonderer Teil) verfassen.
 - `verfassungsmaessigkeit-quercheck` — Querschnittspruefung Verfassungsmaessigkeit eines Gesetzesentwurfs oder einer Verordnung.
-- `europarechtskonformitaet` — Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht pruefen.
+- `europarechtskonformitaet` — Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht prüfen.
 - `goldplating-vermeiden` — Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten.
 - `folgenabschaetzung-erfuellungsaufwand` — Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung ermitteln und darstellen.
 - `folgenabschaetzung-nachhaltigkeit` — Weitere Folgen und Nachhaltigkeitspruefung für Gesetzesentwurf erstellen.
 - `normenkontrollrat-kmu-check` — Vorlage an den NKR vorbereiten und KMU-Check durchfuehren.
 - `normenkartierung` — Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen.
-- `terminologie-konsistenz` — Terminologie-Konsistenz im legistischen Entwurf pruefen und Begriffstabelle aufbauen.
+- `terminologie-konsistenz` — Terminologie-Konsistenz im legistischen Entwurf prüfen und Begriffstabelle aufbauen.
 - `zirkelschluss-pruefen` — Zirkelschluesse und kreisfreie Verweisketten im legistischen Entwurf aufspueren.
 - `inkrafttreten-uebergangsrecht` — Inkrafttretens- und Uebergangsregelungen für Gesetze und Verordnungen formulieren.
 - `verbaendeanhoerung-ressortabstimmung` — Verbandeanhoerung und Ressortabstimmung nach GGO steuern und auswerten.
@@ -240,9 +240,9 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - Kompetenzgrundlage zuerst: Ohne geklarte Gesetzgebungskompetenz nach Art. 70 ff. GG darf kein Entwurf aufgesetzt werden.
 - Startbahn sauber halten: Ministerielle Fachzulieferung, formaler parlamentarischer Initiator und politischer Auftraggeber dürfen nicht vermischt werden.
 - Landesmodus ernst nehmen: Ohne Bundesland keine verlässliche Aussage zu Landesverfassung, Landtagsgeschäftsordnung, Kabinettsverfahren und Verkündung.
-- Goldplating ist politisch und juristisch heikel: Nationale Mehrbelastungen ueber EU-Mindestanforderungen hinaus muessen explizit begruendet werden.
+- Goldplating ist politisch und juristisch heikel: Nationale Mehrbelastungen über EU-Mindestanforderungen hinaus müssen explizit begruendet werden.
 - NKR-Fristen sind verbindlich: Vorlage muss mit vollstaendigen Erfuellungsaufwands-Angaben rechtzeitig erfolgen.
-- Terminologie-Konsistenz ist elementar: Verschiedene Begriffe für dasselbe Konzept koennen zu Auslegungsstreitigkeiten fuehren.
+- Terminologie-Konsistenz ist elementar: Verschiedene Begriffe für dasselbe Konzept können zu Auslegungsstreitigkeiten fuehren.
 - Uebergangsrecht nicht vergessen: Altfallregelungen und Bestandsschutz sichern Rechtsicherheit und vermeiden Verfassungsruegen.
 
 ## Typische Fehler
@@ -251,9 +251,9 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - Bundestags- oder Landtagsinitiative ohne klaren formalen Initiator: Der Text ist fachlich brauchbar, aber nicht einreichungsfähig.
 - Landesentwurf nach Bundes-Schablone: Landeszuständigkeiten, Zitierregeln, Verkündungsblatt oder Landtagsformat werden falsch.
 - Verordnungsermaechtigung zu unbestimmt: Art. 80 Abs. 1 GG verlangt Inhalt, Zweck und Ausmass — Blankoermaechtigung ist nichtig.
-- Goldplating unerkannt: Nationale Umsetzung geht ueber die Richtlinienpflichten hinaus, ohne dass dies im Entwurf kenntlich gemacht wird.
+- Goldplating unerkannt: Nationale Umsetzung geht über die Richtlinienpflichten hinaus, ohne dass dies im Entwurf kenntlich gemacht wird.
 - Synopse fehlt: Ressortabstimmung und parlamentarische Beratung werden durch fehlende Gegenueberststellung ernsthaft erschwert.
-- Inkrafttreten ohne Uebergangsrecht: Adressaten koennen sich nicht rechtzeitig auf neue Pflichten einstellen.
+- Inkrafttreten ohne Uebergangsrecht: Adressaten können sich nicht rechtzeitig auf neue Pflichten einstellen.
 
 ## Quellen und Aktualitaet
 

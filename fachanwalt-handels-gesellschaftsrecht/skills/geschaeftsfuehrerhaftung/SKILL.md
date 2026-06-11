@@ -120,12 +120,12 @@ Haftungslage:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — GF-Haftung pruefen und Klage vorbereiten | Pruefschema; Schriftsatzbausteine unten |
-| Variante A — Innenhaftung GmbH gegen GF | Klage-Baustein Innenhaftung unten; Entlastungsbeschluss pruefen |
+| Standard — GF-Haftung prüfen und Klage vorbereiten | Pruefschema; Schriftsatzbausteine unten |
+| Variante A — Innenhaftung GmbH gegen GF | Klage-Baustein Innenhaftung unten; Entlastungsbeschluss prüfen |
 | Variante B — Aussenhaeftung Glaeubiger gegen GF | § 64 GmbHG analog; unmittelbare Klage des Glaeeubigers |
 | Variante C — Steuerhaftung § 69 AO | Finanzbehorde parallel; privatrechtliche Klage koordinieren |
 
@@ -218,7 +218,7 @@ Die Gesellschafterversammlung beschließt mit [Stimmen für/gegen]:
 [Unterschriften Gesellschafter]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -291,5 +291,5 @@ Beispiel: Zahlungen nach Insolvenzreife EUR 200.000.
 - § 15a InsO: https://www.gesetze-im-internet.de/inso/__15a.html
 - § 15b InsO (rechtsformneutrales Zahlungsverbot seit SanInsFoG, BGBl. I 2020, 3256, in Kraft 01.01.2021; ersetzt § 64 GmbHG a.F. und § 92 II AktG a.F.): https://www.gesetze-im-internet.de/inso/__15b.html
 - BGH, Urt. v. 21.04.1997 — II ZR 175/95 (ARAG/Garmenbeck; BGHZ 135, 244): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.04.1997&Aktenzeichen=II+ZR+175/95
-- BGH II ZR 146/09 (Belegfundstelle vor Verwendung gegen offene Quelle pruefen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+146/09
+- BGH II ZR 146/09 (Belegfundstelle vor Verwendung gegen offene Quelle prüfen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+146/09
 - MoPeG (BGBl. I 2021, 3436; in Kraft 01.01.2024) Auswirkungen auf Personengesellschafts-Organhaftung: §§ 708, 709 BGB n.F. (Haftungsmaßstab Gesellschafter); §§ 110 ff. HGB n.F. (Beschlussmaengelrecht OHG/KG)

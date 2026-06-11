@@ -15,7 +15,7 @@ description: "Skill zum verfassungsrechtlichen Mindeststandard des Familienzusch
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beamte und Richter mit drei oder mehr unterhaltsberechtigten Kindern, die geltend machen, dass der Familienzuschlag und das Kindergeld die kindbezogenen Mehrbedarfe nicht in der vom BVerfG geforderten Hoehe abdecken.
+Skill für Beamte und Richter mit drei oder mehr unterhaltsberechtigten Kindern, die geltend machen, dass der Familienzuschlag und das Kindergeld die kindbezogenen Mehrbedarfe nicht in der vom BVerfG geforderten Höhe abdecken.
 
 ## 2. Eingaben
 

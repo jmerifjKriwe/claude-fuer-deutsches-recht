@@ -13,11 +13,11 @@ description: "Die Ladung zum SG-Termin verstehen. Was steht im Brief was tun was
 
 ## Worum geht es?
 
-Sie haben Klage erhoben. Jetzt kommt der Brief: Sie sind zur muendlichen Verhandlung geladen. Diese Skill zeigt, was Sie tun muessen und was Sie wissen sollten.
+Sie haben Klage erhoben. Jetzt kommt der Brief: Sie sind zur muendlichen Verhandlung geladen. Diese Skill zeigt, was Sie tun müssen und was Sie wissen sollten.
 
 ## In einfacher Sprache
 
-Sie haben einen Brief vom Sozialgericht bekommen. Es gibt einen Termin. Wir zeigen Ihnen, was Sie machen muessen.
+Sie haben einen Brief vom Sozialgericht bekommen. Es gibt einen Termin. Wir zeigen Ihnen, was Sie machen müssen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -54,7 +54,7 @@ Im Brief steht:
 
 ### Schritt 2 — Frueh planen
 
-- Anreise klaeren (Auto, Bahn, Bus)
+- Anreise klären (Auto, Bahn, Bus)
 - Anfahrt-Zeit grosszuegig bemessen (Stau, Parkplatz, Sicherheitskontrolle)
 - Sicherheits-Kontrolle am Eingang Zeit einkalkulieren
 - Mindestens 30 Minuten vor Termin im Saal sein
@@ -72,9 +72,9 @@ Im Brief steht:
 
 ### Schritt 4 — Kann ich mich vertreten lassen?
 
-Sie muessen nicht zwingend selbst kommen, ausser das Gericht hat ausdruecklich persönliche Anwesenheit angeordnet.
+Sie müssen nicht zwingend selbst kommen, ausser das Gericht hat ausdruecklich persönliche Anwesenheit angeordnet.
 
-Sie koennen:
+Sie können:
 
 - Anwalt nehmen (mit PKH)
 - Vertreter (Sozialverband VdK / SoVD)
@@ -82,7 +82,7 @@ Sie koennen:
 
 ### Schritt 5 — Verhinderung?
 
-Wenn Sie nicht koennen (Krankheit, wichtiger Termin):
+Wenn Sie nicht können (Krankheit, wichtiger Termin):
 
 - Sofort Gericht informieren (Telefon, Fax, MJP)
 - Schriftlich um Verlegung bitten
@@ -101,7 +101,7 @@ Wenn Sie nicht koennen (Krankheit, wichtiger Termin):
 - Nicht aengstlich
 - Das Gericht ist nicht der Feind
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Persoenliche Anwesenheitspflicht** beachten — wenn angeordnet, kommen Sie.
 - **Verlegungsantrag** rechtzeitig — nicht erst am Tag selbst.

@@ -16,7 +16,7 @@ description: "Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists 
 ## Mandantenfall
 
 - Konzern liefert Lizenzgebuehr an verbundene Markengesellschaft; Zollamt fordert Hinzurechnung zum Zollwert.
-- Importeur stellt Produktionswerkzeuge dem Auslandslieferanten unentgeltlich bei; Zollwert pruefen.
+- Importeur stellt Produktionswerkzeuge dem Auslandslieferanten unentgeltlich bei; Zollwert prüfen.
 - Markenlizenz für Wiederverkauf: Ist Lizenz als Verkaufsbedingung für Import zu qualifizieren?
 
 ## Erste Schritte
@@ -26,7 +26,7 @@ description: "Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists 
 3. Assists identifizieren: Welche Beistellungen (Werkzeuge Software Muster) erhaelt Lieferant unentgeltlich?
 4. Bewertung der Assists: Kosten der Herstellung oder Anschaffung anteilig kalkulieren.
 5. Hinzurechnungs-Kalkulation: Lizenz + Assists zum Transaktionswert addieren.
-6. Rueckwirkungs-Risiko quantifizieren: Bisher nicht hinzugerechnete Betraege und Nacherhebungsfristen pruefen.
+6. Rueckwirkungs-Risiko quantifizieren: Bisher nicht hinzugerechnete Betraege und Nacherhebungsfristen prüfen.
 
 ## Rechtsrahmen
 
@@ -48,7 +48,7 @@ description: "Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists 
 ## Typische Fallstricke
 
 - Lizenzgebuehren an Konzernmutter gelten fast immer als Verkaufsbedingung.
-- Markenlizenz für Weiterverkauf koennen ebenfalls hinzurechnungspflichtig sein.
+- Markenlizenz für Weiterverkauf können ebenfalls hinzurechnungspflichtig sein.
 - Assists werden haeufig vergessen; Konzerninterne Beistellungen besonders pruefanfaellig.
 - Nacherhebung rueckwirkend bis zu 10 Jahre bei arglistiger Verschweigung.
 

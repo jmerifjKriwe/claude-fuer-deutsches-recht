@@ -90,13 +90,13 @@ Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufungspflicht und 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Einberufung Pflichtversammlung § 49 Abs. 3 GmbHG | Einladungsschreiben nach Pruefschema; Template unten |
 | Variante A — Verlust behebbarer durch Kapitalerhoehung | Kapitalerhoehung vorbereiten; Versammlung als Beschlussgrundlage nutzen |
-| Variante B — Insolvenzreife parallel moegliche Antragspflicht | Insolvenz-Skill parallel pruefen; Antragspflicht § 15a InsO beachten |
+| Variante B — Insolvenzreife parallel moegliche Antragspflicht | Insolvenz-Skill parallel prüfen; Antragspflicht § 15a InsO beachten |
 | Variante C — Gesellschafter wollen keine Versammlung Kosten | Umlaufbeschluss statt Praesenzversammlung wenn Satzung erlaubt |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -143,7 +143,7 @@ Mit freundlichen Grüßen
 Geschäftsführer [Firmenname] GmbH
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

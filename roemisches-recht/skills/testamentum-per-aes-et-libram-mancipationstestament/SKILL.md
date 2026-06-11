@@ -21,7 +21,7 @@ description: "Testamentum per aes et libram: das mancipationstestament als klass
 ## Mancipationsritual
 
 - Beteiligte: testator, libripens (Waagehalter), 5 Zeugen, familiae emptor (Schein-Erbe), heres (eigentlicher Erbe).
-- Familiae emptor uebernimmt formal das Vermoegen mit dem Treuhandauftrag (fiducia), es dem Erben nach Tod des Testators zu uebertragen.
+- Familiae emptor uebernimmt formal das Vermögen mit dem Treuhandauftrag (fiducia), es dem Erben nach Tod des Testators zu uebertragen.
 
 ## Heredis institutio
 
@@ -35,7 +35,7 @@ description: "Testamentum per aes et libram: das mancipationstestament als klass
 ## Verdraengung
 
 - Praetorisches Tabula-Testament: 7 Zeugen siegeln das Testament; Nuncupatio entfaellt.
-- Justinian: Tabula-Testament mit 7 Zeugen, im Termin oder zerstreut moeglich.
+- Justinian: Tabula-Testament mit 7 Zeugen, im Termin oder zerstreut möglich.
 
 ## Vergleich zu modernem Recht
 

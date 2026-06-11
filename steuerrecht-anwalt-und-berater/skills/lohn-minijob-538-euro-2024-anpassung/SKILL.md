@@ -21,8 +21,8 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 2. Aktueller Bruttolohn pro Monat und im Jahresdurchschnitt?
 3. Ist die 538-EUR-Grenze (Stand 01.01.2024) eingehalten?
 4. Aktuell (Stand 2026): Mindestlohn 13,90 EUR/h, Minijob-Grenze 603 EUR/Monat (= 13,90 × 130 / 3 = 602,33, kfm. gerundet 603; MiLoV5 v. 05.11.2025, BGBl. 2025 I Nr. 268; Minijob-Zentrale). Ab 2027: MiLo 14,60 EUR/h, Grenze voraussichtlich 633 EUR/Monat (MiLoV5).
-5. Hat der AN bereits andere Minijobs (Mehrfachbeschaeftigung verboten ueber Grenze)?
-6. Hat der AN eine Hauptbeschaeftigung mit SV-Pflicht? (Dann zweiter Minijob noch moeglich.)
+5. Hat der AN bereits andere Minijobs (Mehrfachbeschaeftigung verboten über Grenze)?
+6. Hat der AN eine Hauptbeschaeftigung mit SV-Pflicht? (Dann zweiter Minijob noch möglich.)
 7. Hat der AN RV-Befreiung beantragt (Opt-out)?
 8. Welcher Pauschalsatz greift — 30 Prozent (gewerblich) oder 12 Prozent (Privathaushalt)?
 
@@ -56,7 +56,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 - Stand 01.01.2026: 603 EUR/Monat (MiLo 13,90 EUR; MiLoV5 vom 05.11.2025, BGBl. 2025 I Nr. 268; bestaetigt durch Minijob-Zentrale, Jahresgrenze 7.236 EUR).
 - Voraussichtlich 01.01.2027: 633 EUR/Monat (MiLo 14,60 EUR; MiLoV5).
 - Sonderzahlungen (Weihnachts-, Urlaubsgeld): bei regelmäßigem Anspruch JAHRES-Durchschnitt bilden, sonst Grenzverletzung.
-- Mehrfacher Minijob mehrerer AG: Summe pruefen.
+- Mehrfacher Minijob mehrerer AG: Summe prüfen.
 
 ### Phase 2 — Pauschalabgaben AG
 
@@ -67,20 +67,20 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 | Pauschalsteuer (LSt+KiSt+SolZ) | 2 Prozent | 2 Prozent |
 | U1 (Krankheit) | Satz je KK (Stand 2025 typisch 1,0-1,1 Prozent) | wie links |
 | U2 (Mutterschaft) | Satz je KK (Stand 2025 typisch 0,24 Prozent) | wie links |
-| Insolvenzgeld-Umlage | 0,06 Prozent (Stand 2024; Insolvenzgeldumlageverordnung pruefen) | — (Privathaushalt) |
+| Insolvenzgeld-Umlage | 0,06 Prozent (Stand 2024; Insolvenzgeldumlageverordnung prüfen) | — (Privathaushalt) |
 | Berufsgenossenschaft | Branchen-spezifisch | Haftpflichtversicherung Privathaushalt |
 
-(Saetze U1/U2 jaehrlich neu festgelegt; Krankenkassen-Satzungen pruefen.)
+(Saetze U1/U2 jaehrlich neu festgelegt; Krankenkassen-Satzungen prüfen.)
 
 **Zahlenbeispiel gewerblicher Minijob (Stand 01.01.2024, MiLo 12,41 EUR, Grenze 538 EUR):** Bruttolohn 500 EUR. AG-Pauschalabgaben ca. 30 Prozent + Umlagen — 15 Prozent RV (75 EUR) + 13 Prozent KV (65 EUR) + 2 Prozent LSt-Pauschale (10 EUR) + U1 + U2 + Insolvenzgeld-Umlage = rund 150-160 EUR. AN-Auszahlung 500 EUR netto, sofern AN von der RV-Pflicht befreit ist; sonst minus AN-RV-Differenzbetrag ca. 18 EUR (3,6 Prozent).
 
-**Typischer Buchungssatz (SKR03/SKR04):** Lohnaufwand Minijob (4128 SKR03 / 6028 SKR04) an Verbindlichkeiten Lohn/Knappschaft (1741 SKR03 / 3760 SKR04). AG-Pauschalabgaben als gesetzliche soziale Aufwendungen (4138 SKR03 / 6128 SKR04). Konkrete Kontennummern je Mandant pruefen.
+**Typischer Buchungssatz (SKR03/SKR04):** Lohnaufwand Minijob (4128 SKR03 / 6028 SKR04) an Verbindlichkeiten Lohn/Knappschaft (1741 SKR03 / 3760 SKR04). AG-Pauschalabgaben als gesetzliche soziale Aufwendungen (4138 SKR03 / 6128 SKR04). Konkrete Kontennummern je Mandant prüfen.
 
 ### Phase 3 — RV-Pflicht und Opt-out
 
 - Grundsatz: Minijob ist RV-pflichtig.
 - AN-Beitrag: Differenz zwischen 15 Prozent AG-Pauschale und vollem RV-Beitragssatz (Differenz ca. 3,6 Prozent).
-- Opt-out moeglich: AN beantragt schriftlich Befreiung von RV-Pflicht.
+- Opt-out möglich: AN beantragt schriftlich Befreiung von RV-Pflicht.
 - Antrag wirkt ab Beginn des Folgemonats; nicht ruecknahmemoeglich für den Minijob.
 
 ### Phase 4 — Anmeldung Minijob-Zentrale
@@ -98,18 +98,18 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 
 ### Phase 6 — Schwellen-Risiko
 
-- Aushilfen mit jahresweise variierendem Lohn: Jahresdurchschnitt pruefen.
+- Aushilfen mit jahresweise variierendem Lohn: Jahresdurchschnitt prüfen.
 - Bei voraussichtlicher Grenzueberschreitung: rechtzeitig SV-pflichtige Beschaeftigung statt Minijob.
 - Bei Grenzueberschreitung rueckwirkend: Nachforderung SV-Beitraege (AG- und AN-Anteil), § 28e SGB IV.
 
 ## Strategie und Praxis-Tipps
 
-- 538 EUR (Stand 01.01.2024) ist nicht statisch — bei MiLo-Erhoehung neue Grenze; jeweils zum Stichtag pruefen.
+- 538 EUR (Stand 01.01.2024) ist nicht statisch — bei MiLo-Erhoehung neue Grenze; jeweils zum Stichtag prüfen.
 - Bei wesentlichen Sonderzahlungen Auslegung als regelmaessig im Jahresdurchschnitt — sonst Grenzverletzung.
 - Opt-out RV nur bei verstanden vom AN — Nachteil: keine Anrechnung auf RV-Anwartschaft.
 - Mehrfache Minijobs: AG haftet nur für eigenen Minijob; AN-Pruefpflicht aber.
 - StBVV: Minijob in Lohnpauschale; komplexe Sonderfaelle (Sonderzahlungen) Zeithonorar.
-- DATEV-Tipp: DATEV LODAS Minijob-Konfiguration prueft automatisch Grenze; bei MiLo-Update jaehrlich anpassen.
+- DATEV-Tipp: DATEV LODAS Minijob-Konfiguration prüft automatisch Grenze; bei MiLo-Update jaehrlich anpassen.
 
 ## Quellen und Updates
 

@@ -3,7 +3,7 @@ name: esg-csrd-pruefung-organisationspflicht-und-p
 description: "Wirtschaftsprüfer: esg csrd pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
-# Wirtschaftsprüfer: esg csrd pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+# Wirtschaftsprüfer: esg csrd prüfung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Wirtschaftsprüfer: esg csrd pruefung - Organisationspflichten, Pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: esg csrd pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+## Konkreter Berufsrechtskern: Wirtschaftsprüfer: esg csrd prüfung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 - **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
 - **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
 - **Spezialspur:** Prüfungsauftrag, Unabhängigkeit, Prüfungsstandard, Wesentlichkeit und Dokumentation konkret festlegen.
@@ -21,7 +21,7 @@ description: "Wirtschaftsprüfer: esg csrd pruefung - Organisationspflichten, Pr
 
 ## Fallweichen dieser Speziallage
 
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
+1. Rolle, Ziel und Entscheidungsdruck klären.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
 3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
 4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.

@@ -14,7 +14,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
 - `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
 - `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
 - `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
 - `§ 49a BWahlG` — Ordnungswidrigkeiten.
 - `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Definiert, wer Geruechte prueft, wer antwortet und was nicht weitergeleitet wird.
+Definiert, wer Geruechte prüft, wer antwortet und was nicht weitergeleitet wird.
 
 ## Rechts- und Praxislogik
 

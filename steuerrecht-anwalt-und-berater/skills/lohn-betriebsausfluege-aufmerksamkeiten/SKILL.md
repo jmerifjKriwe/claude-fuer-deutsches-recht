@@ -43,7 +43,7 @@ Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines 
 
 ## Workflow
 
-### Phase 1 — Anlass-Pruefung
+### Phase 1 — Anlass-Prüfung
 
 | Anlass | Aufmerksamkeit |
 |---|---|
@@ -60,8 +60,8 @@ Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines 
 
 - 60 EUR brutto inkl. USt pro persönlichem Anlass.
 - Ueberschreitung: GESAMTE Zuwendung steuerpflichtig (Freigrenze, nicht Freibetrag).
-- Bei mehrfacher Aufmerksamkeit im Jahr: jede separat (z.B. Geburtstag + Hochzeit = beide bis 60 EUR moeglich).
-- Beispiel: Geschenkkorb für 55 EUR brutto zum Geburtstag = LSt- und SV-frei. Geschenkkorb für 65 EUR brutto = vollstaendig (alle 65 EUR) lohnsteuer- und beitragspflichtig; Pauschalierung § 37b EStG (30 Prozent) als AG-Option moeglich.
+- Bei mehrfacher Aufmerksamkeit im Jahr: jede separat (z.B. Geburtstag + Hochzeit = beide bis 60 EUR möglich).
+- Beispiel: Geschenkkorb für 55 EUR brutto zum Geburtstag = LSt- und SV-frei. Geschenkkorb für 65 EUR brutto = vollstaendig (alle 65 EUR) lohnsteuer- und beitragspflichtig; Pauschalierung § 37b EStG (30 Prozent) als AG-Option möglich.
 
 ### Phase 3 — Form der Zuwendung
 
@@ -84,7 +84,7 @@ Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines 
 ### Phase 6 — Bei Ueberschreitung
 
 - Voller Wert lohnsteuerpflichtig (Freigrenze, daher gesamte Zuwendung).
-- Pauschalierung § 37b EStG 30 Prozent (zzgl. SolZ und KiSt) durch AG moeglich; SV-Befreiung bei Pauschalierung im Anwendungsbereich des § 37b EStG (sofern "zusaetzlich zum Lohn") nach SvEV-Auslegung.
+- Pauschalierung § 37b EStG 30 Prozent (zzgl. SolZ und KiSt) durch AG möglich; SV-Befreiung bei Pauschalierung im Anwendungsbereich des § 37b EStG (sofern "zusaetzlich zum Lohn") nach SvEV-Auslegung.
 - Sonst regulaer SV-pflichtig.
 
 ## Strategie und Praxis-Tipps

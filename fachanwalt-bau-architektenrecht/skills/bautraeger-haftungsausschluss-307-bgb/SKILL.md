@@ -30,7 +30,7 @@ description: "Bautraeger-Haftungsausschluss und § 307 BGB: Skill klaert welche 
 
 ### Pauschaler Haftungsausschluss
 - "Wir haften nicht für Maengel, soweit sie nicht erkennbar waren."
-- Unwirksam — Maengelhaftung darf nicht ueber § 634 BGB hinausgehend ausgeschlossen werden.
+- Unwirksam — Maengelhaftung darf nicht über § 634 BGB hinausgehend ausgeschlossen werden.
 
 ### Maengelpauschalierung
 - "Bei Maengeln ist statt Beseitigung nur eine Pauschale zu zahlen."
@@ -48,7 +48,7 @@ description: "Bautraeger-Haftungsausschluss und § 307 BGB: Skill klaert welche 
 ## Wirksame Klauseln
 
 ### Haftungsbegrenzung auf Versicherungsdeckung
-- "Wir haften nur in Hoehe der Versicherungsdeckung." — meist unwirksam.
+- "Wir haften nur in Höhe der Versicherungsdeckung." — meist unwirksam.
 
 ### Begrenzung auf vertragstypische vorhersehbare Schaeden
 - Wirksam bei einfacher Fahrlaessigkeit.

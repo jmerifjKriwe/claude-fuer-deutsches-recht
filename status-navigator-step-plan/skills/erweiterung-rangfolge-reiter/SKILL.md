@@ -14,4 +14,4 @@ LausitzStorage Rangfolge: Senior-Darlehen NordCap (besichert durch Grundschulden
 ## Output-Module
 - Rangfolge-Reiter mit Spalten Instrument, Glaeubiger, Volumen, Sicherheit, Rang
 - Hinweis-Spalte mit Quellnachweis (welche Klausel begruendet den Rang)
-- Pflichthinweis auf anwaltliche Pruefung insolvenzrechtlicher Rangfragen
+- Pflichthinweis auf anwaltliche Prüfung insolvenzrechtlicher Rangfragen

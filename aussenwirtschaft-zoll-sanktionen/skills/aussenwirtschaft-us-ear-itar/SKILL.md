@@ -15,17 +15,17 @@ description: "US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export
 
 ## Mandantenfall
 
-- EU-Unternehmen reexportiert Software mit US-Komponenten in Drittland; de-minimis-Pruefung noetig.
+- EU-Unternehmen reexportiert Software mit US-Komponenten in Drittland; de-minimis-Prüfung noetig.
 - Ruestungsunternehmen erhalt ITAR-kontrollierte Technologie von US-Partner; Weitergabe an EU-Partner erlaubt?
 - Europaeischer Halbleiterhersteller nutzt US-Produktionsanlagen; Foreign-Direct-Product-Rule greift.
 
 ## Erste Schritte
 
 1. US-Ursprungsanteil des Produkts bestimmen: Technologie Software Ausruestung US-Herkunft?
-2. De-minimis-Schwelle pruefen (10 Prozent für CCL-Waren; 0 Prozent für Russland/China Militaer).
-3. Foreign-Direct-Product-Rule (FDPR) auf Relevanz pruefen bei US-Produktionsausruestung.
-4. ITAR-Anwendbarkeit pruefen: US-Ruestungsgueter nach USML; Reexport-Genehmigung noetig?
-5. ECCN-Klassifizierung des Produkts anhand CCL (Commerce Control List) pruefen.
+2. De-minimis-Schwelle prüfen (10 Prozent für CCL-Waren; 0 Prozent für Russland/China Militaer).
+3. Foreign-Direct-Product-Rule (FDPR) auf Relevanz prüfen bei US-Produktionsausruestung.
+4. ITAR-Anwendbarkeit prüfen: US-Ruestungsgueter nach USML; Reexport-Genehmigung noetig?
+5. ECCN-Klassifizierung des Produkts anhand CCL (Commerce Control List) prüfen.
 6. US-Touchpoint-Vermerk erstellen und klar als US-Risikomarker kennzeichnen.
 
 ## Rechtsrahmen
@@ -50,7 +50,7 @@ description: "US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export
 - FDPR greift auch bei EU-Produkten die mit US-Ausruestung hergestellt wurden.
 - De-minimis gilt nicht bei Gutern für Russland China Militaer; 0-Prozent-Schwelle beachten.
 - ITAR verbietet jede Weitergabe ohne spezifische US-Genehmigung; kein EU-Pendant akzeptabel.
-- US-Re-Export-Controls koennen EU-Sanktionsausnahmen unterlaufen.
+- US-Re-Export-Controls können EU-Sanktionsausnahmen unterlaufen.
 
 ## Schnittstellen zu anderen Skills
 

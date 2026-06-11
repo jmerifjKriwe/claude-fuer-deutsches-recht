@@ -1,10 +1,60 @@
+# v306.0.0 — Welle 2: Umlaut-Hygiene und Quellenhygiene-Anschluss
+
+## Umlaut-Sweep über das Repo
+
+`scripts/sweep-umlaut-welle-2.py`: deterministischer Skript-Lauf, der ASCII-Ersatzschreibungen (`ae`, `oe`, `ue`, `ss`) in einer kuratierten Wortliste durch korrekte Umlaute und scharfes s ersetzt. Aufbauend auf der Schutzlogik von `fix-umlaute-protected.py` (Frontmatter, Code-Blöcke, URLs, Hex-Hashes, Slug-Token); zusätzlich Schutz für lange Lowercase-Wörter (≥ 18 Zeichen, typisch Plugin-Slugs wie `verhaeltnismaessigkeitspruefer`).
+
+Erfasste Wortfamilien (Auszug, ca. 80 Mappings insgesamt):
+- `Pruefung`/`pruefen`/`Pruefer` → `Prüfung`/`prüfen`/`Prüfer`
+- `Verhaeltnismaessigkeit` → `Verhältnismäßigkeit`
+- `Massnahme` → `Maßnahme`
+- `ausschliesslich` → `ausschließlich`
+- `grundsaetzlich` → `grundsätzlich`
+- `gross`/`grosse`/`grosser` → `groß`/`große`/`großer`
+- `laesst` → `lässt`
+- `Klaeger`/`Klaerung`/`klaeren` → `Kläger`/`Klärung`/`klären`
+- `Schluessel` → `Schlüssel`
+- `Verguetung` → `Vergütung`
+- `Hoehe` → `Höhe`
+- `Aequivalenz` → `Äquivalenz`
+- `Erlaeuter` → `Erläuter`
+- `ausgepraegt` → `ausgeprägt`
+- (+ alle bereits in `fix-umlaute-protected.py` erfassten Wörter)
+
+Stand:
+- 6498 Dateien angefasst, ~29.371.710 Zeichen geändert.
+- 14 Dateien vom Sanity-Check als false-positive „CORRUPTION RISK" markiert und unverändert gelassen (z. B. „pflegebedürftig", „Prüfbedarf" — Hex-Verdacht durch Buchstabenkombination). Diese sind manuell oder durch verfeinerten Sanity-Check in Welle 3 adressierbar.
+- Eval-Harness: 204/204 All-Pass.
+- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen.
+- `validate-plugin-structure.mjs`: OK.
+
+## Rspr.-Anker-Vorlauf durch Codex (Direkt-Commit auf main, vor dieser Welle)
+
+Codex-Commit `9bb1bb9ce6` hat 59 Skills mit echten juristischen Korrekturen versehen — substanziell, nicht nur kosmetisch:
+- `§ 25 GebrMG` → `§ 5 Abs. 1 Satz 3 GebrMG` (Abzweigung)
+- `§ 23 GebrMG` → `§ 15 GebrMG` (Löschungsantrag)
+- `BGH X ZB 5/16` (Modellwissens-Az., nicht verifizierbar) → `BGH 20.06.2006 – X ZB 27/05 (Demonstrationsschrank)`
+- AGB-Abwerbe-Vertragsstrafe: pauschale Faustregel → differenzierte Prüfung nach `§ 9 Abs. 1 Nr. 3 AÜG` + Transparenzgebot `§ 307 Abs. 1 Satz 2 BGB`
+- BAG-Ausschlussfristen verifiziert: `BAG 28.09.2005 – 5 AZR 52/05`, `BAG 24.09.2015 – 5 AZR 278/14`
+- BAG-Zugang-WE verifiziert: `BAG 26.03.2015 – 2 AZR 483/14`, `BAG 22.03.2012 – 2 AZR 224/11`
+
+Workflow-Hinweis: Codex-Push war direkt auf `main` ohne PR und mit englischem Commit-Titel — Vorgang dokumentiert, aber Inhalt rechtlich korrekt.
+
+## Offen für Welle 3
+
+- 213 Skills mit verbleibendem „Az verifizieren"-Marker (Codex-Sweep adressierte 59 von 272).
+- Komposita-Stamm-Sweep (z. B. `Pruefungsschritt` → `Prüfungsschritt`): erfordert weichere Wortgrenzen mit erweiterter Heuristik gegen False Positives.
+- Description-Frontmatter-Felder: aktuell durch Frontmatter-Schutz unverändert, in Welle 3 mit feldspezifischem Skript angehbar.
+
+---
+
 # v305.0.0 — Welle: Spezial-Templates, VHP-Vertiefung, Megaprompt-Trim, Rubric-Feinschliff
 
 ## Drei Spezial-Templates (Hommage / experimentell)
 
-- `roemisch-katholisches-kirchenrecht`: **Supplicatio de dispensatione (c. 401 § 1 CIC)** — Bittschreiben in modernem Kirchenlatein zur Verlaengerung der bischoeflichen Amtszeit ueber das 75. Lebensjahr hinaus. Real verankert (CIC c. 401 § 1; motu proprio Ingravescentem aetatem 1970; Praedicate Evangelium 2022).
-- `roemisches-recht`: **Emptio venditio de amphoris vini Graeci** — Kaufvertrag in Cicero-Stil ueber 200 Amphoren Chios-Wein, Transport Piraeus → Neapolis (Puteoli) → Ostia, mit foenus nauticum als Seeversicherungs-Analog. Klassische Bausteine (D. 18, D. 21, D. 22) + Disclaimer "anachronistisch, kein historisches Dokument".
-- `preussisches-allgemeines-landrecht-pralr`: **Kauf-Contract ueber Rittergutsgrundstueck nach PrALR 1794** in Kanzleistil des 18. Jh. (I. Theil, 9. Titel + 11. Titel) — mit Auflassung, Sportel-Klausel, Justiz-Commissarius. Disclaimer "Hommage, kein reales Geschaeft".
+- `roemisch-katholisches-kirchenrecht`: **Supplicatio de dispensatione (c. 401 § 1 CIC)** — Bittschreiben in modernem Kirchenlatein zur Verlaengerung der bischoeflichen Amtszeit über das 75. Lebensjahr hinaus. Real verankert (CIC c. 401 § 1; motu proprio Ingravescentem aetatem 1970; Praedicate Evangelium 2022).
+- `roemisches-recht`: **Emptio venditio de amphoris vini Graeci** — Kaufvertrag in Cicero-Stil über 200 Amphoren Chios-Wein, Transport Piraeus → Neapolis (Puteoli) → Ostia, mit foenus nauticum als Seeversicherungs-Analog. Klassische Bausteine (D. 18, D. 21, D. 22) + Disclaimer "anachronistisch, kein historisches Dokument".
+- `preussisches-allgemeines-landrecht-pralr`: **Kauf-Contract über Rittergutsgrundstueck nach PrALR 1794** in Kanzleistil des 18. Jh. (I. Theil, 9. Titel + 11. Titel) — mit Auflassung, Sportel-Klausel, Justiz-Commissarius. Disclaimer "Hommage, kein reales Geschäft".
 
 ## Verhaeltnismaessigkeitspruefer — Vertiefung
 
@@ -67,7 +117,7 @@ Neu in dieser Welle (alle Markdown + ODT, Times Roman 11pt):
 
 ## Plugin-READMEs
 
-- 209 Plugin-READMEs erhalten eine neue Sektion **Experimentell: dieses Plugin auch ohne Claude Code** mit Direkt-Download-Links auf Megaprompt + (sofern vorhanden) Formatvorlagen. Idempotent ueber HTML-Marker.
+- 209 Plugin-READMEs erhalten eine neue Sektion **Experimentell: dieses Plugin auch ohne Claude Code** mit Direkt-Download-Links auf Megaprompt + (sofern vorhanden) Formatvorlagen. Idempotent über HTML-Marker.
 
 ## Versions-Bump
 
@@ -85,14 +135,14 @@ Neu in dieser Welle (alle Markdown + ODT, Times Roman 11pt):
 ## Vollausbau Eval-Harness
 
 - **204/204 Testakten** haben jetzt eine `rubric.yaml` (vorher 5).
-- Neuer `scripts/generate-default-rubrics.py` — erzeugt fuer jede Testakte ohne bestehende Rubric eine Baseline (file_exists README, file_exists gesamt-pdf, file_count >= 1 MD-Aktenstueck, plus human_review-Platzhalter zur sukzessiven Verfeinerung).
+- Neuer `scripts/generate-default-rubrics.py` — erzeugt für jede Testakte ohne bestehende Rubric eine Baseline (file_exists README, file_exists gesamt-pdf, file_count >= 1 MD-Aktenstueck, plus human_review-Platzhalter zur sukzessiven Verfeinerung).
 - 5 hand-gepflegte Rubrics mit fachspezifischen Pass/Fail-Checks bleiben (ChainCortex, MedTech-Volkenrath, Meinhardt, Koerber, Sauer).
 - Baseline-Eval-Run: **204/204 All-Pass, 0 Failures**.
 
-## Portable Eval-Harness fuer Fremd-Repos
+## Portable Eval-Harness für Fremd-Repos
 
-- Neues Verzeichnis `docs/portable-eval-harness/` mit Drop-In-Anleitung fuer beliebige Legal-AI-Repos.
-- Kopierfertige `rubric.yaml`-Beispiele fuer:
+- Neues Verzeichnis `docs/portable-eval-harness/` mit Drop-In-Anleitung für beliebige Legal-AI-Repos.
+- Kopierfertige `rubric.yaml`-Beispiele für:
   - **arbeitszeugnispruefer-skill** — Pruefkorpus als Testakten, mit BAG-Az.-Pattern und Ampel-Symbol-Check.
   - **vorlagen-fuer-recht** — Vertragsentwurf als Testakte mit Klausel-Checks ($ 613a, Rechtswahl, anwaltliche Endpruefung).
 
@@ -111,7 +161,7 @@ Neu in dieser Welle (alle Markdown + ODT, Times Roman 11pt):
 
 ## Neue Werkzeuge
 
-- `scripts/run-eval.py` — Execution Harness fuer Plugin × Testakte-Bewertung. Liest pro Testakte `rubric.yaml` mit Pass/Fail-Checks und schreibt All-Pass-Score nach Harvey-LAB-Vorbild. Pruefungstypen: `file_exists`, `text_contains`, `regex_match`, `file_count`, `human_review`. CLI-Optionen: `--report` (MD-Report nach `EVAL_RESULTS.md`), `--json-out` (JSON-Snapshot), `--label` (Modellname).
+- `scripts/run-eval.py` — Execution Harness für Plugin × Testakte-Bewertung. Liest pro Testakte `rubric.yaml` mit Pass/Fail-Checks und schreibt All-Pass-Score nach Harvey-LAB-Vorbild. Pruefungstypen: `file_exists`, `text_contains`, `regex_match`, `file_count`, `human_review`. CLI-Optionen: `--report` (MD-Report nach `EVAL_RESULTS.md`), `--json-out` (JSON-Snapshot), `--label` (Modellname).
 - `scripts/compare-eval-runs.py` — Modell-zu-Modell-Vergleichs-Dashboard. Erzeugt aus zwei oder mehr JSON-Snapshots eine Side-by-Side-Tabelle mit Delta-Spalte (Opus 4.7 vs. 4.8 vs. Haiku 4.5 etc.).
 - `scripts/llm-judge-eval.py` — LLM-Judge-Skelett mit Anthropic-SDK-Anbindung. Faellt ohne API-Key auf Dry-Run mit ausgegebenem Prompt zurueck. Bewertet einzelne Skill-Outputs gegen freie-Form Pass/Fail-Kriterien.
 
@@ -119,7 +169,7 @@ Neu in dieser Welle (alle Markdown + ODT, Times Roman 11pt):
 
 - `docs/benchmark.md` — Methodik-Doku mit Schnellstart, Rubric-Format, Verhaeltnis zu Harvey LAB.
 
-## Rubrics (Proof-of-Concept fuer 5 Testakten)
+## Rubrics (Proof-of-Concept für 5 Testakten)
 
 - `testakten/insolvenz-asset-deal-chaincortex-ai-berlin/rubric.yaml` (12 Checks)
 - `testakten/ma-asset-deal-medtech-volkenrath-darmstadt/rubric.yaml` (8 Checks)
@@ -190,17 +240,17 @@ Eval-Baseline-Run: **5/5 Akten All-Pass** (38 Checks gesamt, 0 Failures).
 ## Skills
 
 - **verhaeltnismaessigkeitspruefer**: zwölf neue rechtsvergleichende Skills, Plugin wächst von 49 auf 61 Skills. Gruppe „Rechtsvergleich“ jetzt 20 Skills für 17 Rechtsordnungen.
-  - `frankreich-controle-proportionnalite` — CE Triple Test seit CE Ass 28 mai 1971 Ville Nouvelle Est (Lebon 409), Adequation/Necessite/Proportionnalite stricto sensu, Conseil constitutionnel ueber Conciliation und QPC-Verfahren Art 61-1 Verfassung, Plein contentieux Police mit Controle minimum/normal/maximum.
-  - `italien-ragionevolezza-proporzionalita` — Corte costituzionale Ragionevolezza ueber Art 3 Cost als Idoneita/Necessita/Proporzionalita; Bilanciamento dei principi, nucleo essenziale, principi supremi (Sent 1146/1988); Leading cases 1130/1988, 220/1995, 85/2013 ILVA, 242/2019 Cappato; EMRK ueber Sent 348/349/2007 als norme interposte.
+  - `frankreich-controle-proportionnalite` — CE Triple Test seit CE Ass 28 mai 1971 Ville Nouvelle Est (Lebon 409), Adequation/Necessite/Proportionnalite stricto sensu, Conseil constitutionnel über Conciliation und QPC-Verfahren Art 61-1 Verfassung, Plein contentieux Police mit Controle minimum/normal/maximum.
+  - `italien-ragionevolezza-proporzionalita` — Corte costituzionale Ragionevolezza über Art 3 Cost als Idoneita/Necessita/Proporzionalita; Bilanciamento dei principi, nucleo essenziale, principi supremi (Sent 1146/1988); Leading cases 1130/1988, 220/1995, 85/2013 ILVA, 242/2019 Cappato; EMRK über Sent 348/349/2007 als norme interposte.
   - `spanien-juicio-proporcionalidad` — Tribunal Constitucional STC 66/1995 und STC 207/1996, Idoneidad/Necesidad/Proporcionalidad en sentido estricto; Contenido esencial Art 53 I CE, reserva de ley organica Art 81 CE; STC 49/1999 (Telefoonintervention), STC 14/2003.
   - `niederlande-evenredigheidsbeginsel` — Art 3 4 lid 2 Awb seit ABRvS 2 februari 2022 (Maxis en Praxis ECLI:NL:RVS:2022:285), Geschiktheid/Noodzakelijkheid/Evenwichtigheid mit variabler toetsingsintensiteit; Toetsingsverbod Art 120 Gw; EVRM und Charta als dominanter Massstab.
-  - `belgien-redelijkheid-evenredigheid` — Grondwettelijk Hof ueber Art 10 11 GW als Einfallstor; objectief en redelijk verantwoord; arrests 23/89, 39/91, 116/2017, 96/2018; Raad van State / Conseil d Etat redelijkheidstoets; Bevoegdheidsoverschrijding als Foederalismus-Pruefung.
+  - `belgien-redelijkheid-evenredigheid` — Grondwettelijk Hof über Art 10 11 GW als Einfallstor; objectief en redelijk verantwoord; arrests 23/89, 39/91, 116/2017, 96/2018; Raad van State / Conseil d Etat redelijkheidstoets; Bevoegdheidsoverschrijding als Foederalismus-Prüfung.
   - `oesterreich-vfgh-verhaeltnismaessigkeit` — VfGH Sachlichkeitsgebot Art 7 B-VG mit Eignung/Erforderlichkeit/Adaequanz; EMRK im Verfassungsrang (BGBl 59/1964); VfSlg 11.853/1988, 12.485/1990, 20.397/2020 COVID; Funktionsschutz als Wesensgehalts-Pendant.
   - `luxemburg-cour-constitutionnelle-proportionnalite` — Cour constitutionnelle Triple Test Adequation/Necessite/Proportionnalite, Arrets 17/2003, 23/2004, 109/2014, 132/2017; Verfassungsreform 2023; Cour administrative und Cour superieure de justice als Parallelbahnen.
   - `daenemark-proportionalitetsprincip` — Politilov § 2 Nr 6, Retsplejelov § 783, Udlaendingelov; Egnethed/Noedvendighed/Proportionalitet i snaever forstand; Hoejesteret U 1996.234 H (Tvind), U 2013.1916 H; EMRK-Inkorporationsgesetz Nr 285/1992.
   - `polen-tk-zasada-proporcjonalnosci` — Trybunal Konstytucyjny Art 31 III Konstytucji RP mit Gesetzesvorbehalt, demokratischer Notwendigkeit, legitimen Zielen und Istota wolnosci i praw; Przydatnosc/Koniecznosc/Proporcjonalnosc; K 11/94, K 12/03, K 23/11; Praxis nach 2015 kritisch.
-  - `tschechien-us-zasada-primerenosti` — Ustavni soud Pl US 4/94 als methodische Verankerung; Vhodnost/Potrebnost/Primerenost v uzsim smyslu; Pl US 24/10 (Vorratsdatenspeicherung); Test racionalniho zakladu fuer Sozialrechte (Pl US 61/04); Podstata a smysl Art 4 IV LZPS.
-  - `griechenland-stedikastiriou-analogikotita` — Art 25 I 4 Syntagma seit Verfassungsreform 2001 als kodifizierte Verhaeltnismaessigkeit; Katallilotita/Anagkaiotita/Stenh ennoia analogikotitas; StE Olomeleia 668/2012 (Memorandum) und 2192/2014 (Beamtenbesoldung).
+  - `tschechien-us-zasada-primerenosti` — Ustavni soud Pl US 4/94 als methodische Verankerung; Vhodnost/Potrebnost/Primerenost v uzsim smyslu; Pl US 24/10 (Vorratsdatenspeicherung); Test racionalniho zakladu für Sozialrechte (Pl US 61/04); Podstata a smysl Art 4 IV LZPS.
+  - `griechenland-stedikastiriou-analogikotita` — Art 25 I 4 Syntagma seit Verfassungsreform 2001 als kodifizierte Verhältnismäßigkeit; Katallilotita/Anagkaiotita/Stenh ennoia analogikotitas; StE Olomeleia 668/2012 (Memorandum) und 2192/2014 (Beamtenbesoldung).
   - `irland-supreme-court-proportionality` — Heaney v Ireland [1994] 3 IR 593 / [1996] 1 IR 580 als Oakes-Rezeption: Rational connection/Minimal impairment/Proportionate effect; Unenumerated rights Art 40 3 1 Constitution; Damache v DPP [2012] IESC 11; Friends of the Irish Environment [2020] IESC 49.
 - Plugin-README, plugin.json, marketplace.json, ASSET_INDEX, Top-Level-README und Skill-Index synchronisiert (20852 Skills, Stand v292.0.0).
 
@@ -215,7 +265,7 @@ Eval-Baseline-Run: **5/5 Akten All-Pass** (38 Checks gesamt, 0 Failures).
 
 - **verhaeltnismaessigkeitspruefer**: fünf neue rechtsvergleichende Skills, Plugin wächst von 44 auf 49 Skills. Neue Gruppe „Rechtsvergleich (8)" deckt jetzt fünf Rechtsordnungen ab.
   - `kanada-oakes-test-uebersicht` — R v Oakes [1986] 1 SCR 103 unter Section 1 Charter, vier Prongs (pressing and substantial objective, rational connection, minimal impairment, proportionality of effects), prescribed by law mit Sunday-Times-/Pharmaceutical-Society-Linie, Kontrolldichte-Wandel über Edwards Books, Irwin Toy, RJR-MacDonald, Hutterian Brethren, Notwithstanding Clause Section 33.
-  - `kanada-oakes-fallmatrix` — Fallmatrix Oakes, Edwards Books, Irwin Toy, RJR-MacDonald, Hutterian Brethren, Bedford 2013, Carter 2015 jeweils auf tragenden Prong gespiegelt; Übersetzungstabelle Oakes-Prong vs. deutsche Stufe; Section-7-Sonderkategorien (overbreadth, arbitrariness, gross disproportionality).
+  - `kanada-oakes-fallmatrix` — Fallmatrix Oakes, Edwards Books, Irwin Toy, RJR-MacDonald, Hutterian Brethren, Bedford 2013, Carter 2015 jeweils auf tragenden Prong gespiegelt; Übersetzungstabelle Oakes-Prong vs. deutsche Stufe; Section-7-Sonderkategorien (overbreadth, arbitrariness, groß disproportionality).
   - `egmr-emrk-verhaeltnismaessigkeit` — Drei-Stufen-Test der Art 8–11 II EMRK: prescribed by law / legitimate aim / necessary in a democratic society, pressing social need, least restrictive means, fair balance; margin of appreciation eng vs. weit (Dudgeon, Von Hannover, Handyside, Sahin, S.A.S.); Rezeption im deutschen Recht über BVerfGE 111, 307 (Görgülü) und BVerfGE 128, 326 (Sicherungsverwahrung).
   - `eugh-cjeu-verhaeltnismaessigkeit` — Art 52 I GRCh mit Wesensgehalt als eigenständiger Vorabausschluss; Leitentscheidungen Digital Rights Ireland (C-293/12), Schrems I & II (C-362/14, C-311/18), Tele2 Sverige (C-203/15), La Quadrature du Net (C-511/18), Commissioner v Dwyer (C-140/20), H K v Prokuratuur (C-746/18); Verhältnis zum allgemeinen Verhältnismäßigkeitsgrundsatz und Art 52 III GRCh.
   - `usa-tiers-of-scrutiny` — Strict / Intermediate / Rational Basis Review mit Compelling Interest, Narrow Tailoring, Substantial Relation; Korematsu/Trump v Hawaii, Adarand, Grutter, SFFA v Harvard, Craig v Boren, VMI, Reed v Town of Gilbert, Williamson v Lee Optical, Romer/Cleburne (Rational Basis with Bite); Substantive Due Process von Lochner über Roe/Casey/Dobbs bis Obergefell, Glucksberg-Test; DeShaney-Schutzpflichtgrenze.
@@ -384,18 +434,18 @@ Die Testakten-Gesamt-PDFs beginnen jetzt direkt mit dem ersten exportierten Akte
 
 ## Schwerpunkt
 
-Reine Pflege- und Konsistenzversion nach dem v239-Release. Alle 15 Befunde aus dem internen Audit wurden abgearbeitet, ohne dass sich Skill-Inhalte oder Plugin-Strukturen aendern. Counts und Stand-Angaben sind durchgaengig auf 212 Plugins / 18.549 Skills / 203 Testakten konsolidiert.
+Reine Pflege- und Konsistenzversion nach dem v239-Release. Alle 15 Befunde aus dem internen Audit wurden abgearbeitet, ohne dass sich Skill-Inhalte oder Plugin-Strukturen ändern. Counts und Stand-Angaben sind durchgaengig auf 212 Plugins / 18.549 Skills / 203 Testakten konsolidiert.
 
 ## Aenderungen im Einzelnen
 
 - **YAML-Description-Cleanup** in 14 Verhaeltnismaessigkeitspruefer-Skills: Doppel-Bandzahl entfernt (`BVerfGE 7 Band 7 Seite 198` -> `BVerfGE Band 7 Seite 198`), Umlaute/ss in YAML-descriptions vereinheitlicht zu ASCII (ae/oe/ue/ss). Body-Texte unveraendert.
 - **Plugin-README** `verhaeltnismaessigkeitspruefer/README.md` auf alle 44 Skills mit sieben Gruppen ausgebaut (Methodik 8, Vor-Trias plus Schranken 4, absolute Grenzen 3, Kontrolldichte 5, BVerfG-Leitentscheidungen 10, Rechtsvergleich 3, Dogmatiklinien 4, Praxis 7) und Plugin-Titel mit ss-Schreibung auf ss-Schreibung umgestellt.
-- **marketplace.json** description fuer `verhaeltnismaessigkeitspruefer` mit der plugin.json-Description synchronisiert (jetzt 44 Skills statt vorher noch 31). plugin.json fuer `status-navigator-step-plan` um "mit 35 Skills" ergaenzt, damit marketplace und plugin uebereinstimmen.
+- **marketplace.json** description für `verhaeltnismaessigkeitspruefer` mit der plugin.json-Description synchronisiert (jetzt 44 Skills statt vorher noch 31). plugin.json für `status-navigator-step-plan` um "mit 35 Skills" ergaenzt, damit marketplace und plugin uebereinstimmen.
 - **TESTBERICHT.md** Arbeitsstand-Beschreibung auf v239 aktualisiert (alter LausitzStorage-Text raus), Skill-Count von 18.536 auf 18.549 korrigiert.
-- **README.md** Skill-Count auf 18.549, Plugin-Tabellen-Description fuer `verhaeltnismaessigkeitspruefer` um v239-Themen erweitert.
+- **README.md** Skill-Count auf 18.549, Plugin-Tabellen-Description für `verhaeltnismaessigkeitspruefer` um v239-Themen erweitert.
 - **Padlet-Skill** `padlet-vier-stufen-tafel/SKILL.md` description-Style an die uebrigen 43 Skills im Plugin angeglichen (keine Quotes mehr, Doppelpunkt vor Beispielen vermieden, damit YAML-Plain-Scalar-Regel eingehalten wird).
 - **BVerfG-Schlagwort-Feintuning** in drei Body-Stellen ohne Klammer-Schlagwort: `untermassverbot-schutzpflicht-dimension` (Lueth-Urteil), `vorpruefung-schranke-finden` (G10-Gesetz), `absolute-grenze-menschenwuerde-art-1-i-gg` (Schubhaft).
-- **audiovisuelle-leitentscheidungen-sammlung** mit Permalink-Disziplin: Permalinks zu BVerfG-Pressemitteilungen fuer Klimaschutz-Beschluss und Bundesnotbremse-Beschluss eingefuegt, aeltere Leitentscheidungen ohne audiovisuelles Material explizit als ohne Mediathek-Permalink gekennzeichnet.
+- **audiovisuelle-leitentscheidungen-sammlung** mit Permalink-Disziplin: Permalinks zu BVerfG-Pressemitteilungen für Klimaschutz-Beschluss und Bundesnotbremse-Beschluss eingefuegt, aeltere Leitentscheidungen ohne audiovisuelles Material explizit als ohne Mediathek-Permalink gekennzeichnet.
 - **schutzbereich-eingriff-rechtfertigung/SKILL.md** mit Cross-Reference auf die drei Vor-Trias-Skills (`vorpruefung-schutzbereich-eroeffnet`, `vorpruefung-eingriff-klassisch-modern`, `vorpruefung-schranke-finden`) versehen, damit Detailtiefe und Gesamtschau klar zugeordnet sind.
 - **Versions-Bump** 239 -> 240 in 212 plugin.json + marketplace.json + 5 Top-Dokumenten (README, TESTBERICHT, ASSET_INDEX, SKILLS, CHANGELOG) und 212 skills-index-Detailseiten.
 
@@ -440,7 +490,7 @@ Spaltenstruktur mit Ampelfarben gruen/gelb/rot, ASCII-Vorschau als Begleitung.
 
 ### Clip-Club geht in Pension
 
-Der Arbeitstitel "Clip-Club" war eine unjuristische Anlehnung an Klipp-Klapp. Der Skill heisst jetzt `audiovisuelle-leitentscheidungen-sammlung` und arbeitet als kuratiertes Lehrmaterial-Verzeichnis mit Aktenzeichen, BVerfGE-Fundstelle inkl. Schlagwort, Datum, Medium, Quelle/Permalink, Zeitstempel, Stufenverortung und Folgewirkung. Quellen ausschliesslich BVerfG-Mediathek, ARD/ZDF/Phoenix und Open-Access-Hochschulvorlesungen. Urheberrechts-Hinweise zu § 51 UrhG.
+Der Arbeitstitel "Clip-Club" war eine unjuristische Anlehnung an Klipp-Klapp. Der Skill heisst jetzt `audiovisuelle-leitentscheidungen-sammlung` und arbeitet als kuratiertes Lehrmaterial-Verzeichnis mit Aktenzeichen, BVerfGE-Fundstelle inkl. Schlagwort, Datum, Medium, Quelle/Permalink, Zeitstempel, Stufenverortung und Folgewirkung. Quellen ausschließlich BVerfG-Mediathek, ARD/ZDF/Phoenix und Open-Access-Hochschulvorlesungen. Urheberrechts-Hinweise zu § 51 UrhG.
 
 ### BVerfG-Schlagwort-Konvention
 
@@ -480,8 +530,8 @@ Die Testakte `status-navigator-batteriespeicher-jaenschwalde-peitz` ist um zehn 
 ### Operative Originale
 
 - `41_epc_anzahlungsrechnung_sungrow.md` — EPC-Anzahlungsrechnung Sungrow Deutschland 18 Mio EUR aus Tranche 2 (Bezugsrechnung SDE-2025-09-LSS200-A1) mit Advance Payment Bond Bank of China BOC-FRA-2025-09-187.
-- `42_zugangsbestaetigung_anlage_4_stadtwerke_cottbus.md` — Stadtwerke Cottbus uebergeben die fehlende Anlage 4 zum Konsortialvertrag (24-seitiger Investorenrechte-Katalog) mit Haftungsfreistellung 25.000 EUR fuer die Fehlheftung; Drawstop-Punkt (iii) damit geheilt.
-- `43_forensik_protokoll_cap_table_v2.md` — IT-Forensik Inkubator-IT Cottbus belegt, dass Cap-Table V2 in 18.247 Mailpostfacher- und 8.412 Dateianhangs-Pruefungen niemals in der Außenkommunikation verwendet wurde — Entlastung Bauernfeind fuer die Abberufungs-Versammlung.
+- `42_zugangsbestaetigung_anlage_4_stadtwerke_cottbus.md` — Stadtwerke Cottbus uebergeben die fehlende Anlage 4 zum Konsortialvertrag (24-seitiger Investorenrechte-Katalog) mit Haftungsfreistellung 25.000 EUR für die Fehlheftung; Drawstop-Punkt (iii) damit geheilt.
+- `43_forensik_protokoll_cap_table_v2.md` — IT-Forensik Inkubator-IT Cottbus belegt, dass Cap-Table V2 in 18.247 Mailpostfacher- und 8.412 Dateianhangs-Pruefungen niemals in der Außenkommunikation verwendet wurde — Entlastung Bauernfeind für die Abberufungs-Versammlung.
 
 ## Inhaltliche Verzahnung
 
@@ -511,7 +561,7 @@ Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
   - `27_handelsregisterauszug_lausitzstorage_und_leag_immobilien.md` — HRB 11842 Cottbus (LEAG Immobilien GmbH) und HRB 12217 Cottbus (LausitzStorage GmbH) mit § 177 BGB-Belegen zur schwebenden Unwirksamkeit der Reparaturvereinbarung NordCap-Niederee.
   - `28_mandatsvollmacht_lausitzstorage_pohlmann.md` — Vollmacht der LausitzStorage GmbH auf RAin Dr. Friederike Hesselmann-Sauerbruch, Sozietaet Pohlmann und Pohlmann.
   - `29_aktennotiz_telefonat_nordcap_reparaturverhandlung.md` — Aktennotiz Verhandlung mit NordCap-Geschaeftsfuehrer Niederee zur Reparaturkostenuebernahme der Pufferspeicher-Steuerung.
-  - `30_zugangsbeweis_einschreiben_drawstop_post.md` — Einwurf-Einschreiben RM 4118 7325 8 DE als Zugangsnachweis gemaess § 130 BGB.
+  - `30_zugangsbeweis_einschreiben_drawstop_post.md` — Einwurf-Einschreiben RM 4118 7325 8 DE als Zugangsnachweis gemäß § 130 BGB.
   - `31_rvg_zwischenrechnung_pohlmann.md` — RVG-Zwischenrechnung bei Streitwert 11,9 Mio EUR, 1,3-Gebuehr plus Auslagen plus USt, Endbetrag 41.488,28 EUR.
   - `32_klarstellungsschreiben_leag_pacht_genehmigungsregime.md` — Klarstellung gegenueber LEAG zum Pacht-Genehmigungsregime mit Frist 23.06.2026.
   - `33_step_plan_v2_aenderungslog_und_ampelfortschritt.md` — Step-Plan v2 Aenderungslog mit rot 10 auf 3 reduziert.
@@ -576,7 +626,7 @@ Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 ## Counts
 
 - 210 Plugins -> **212 Plugins** (+2: status-navigator-step-plan, verhaeltnismaessigkeitspruefer).
-- 18.240 Skills -> **18.549 Skills** (+296 netto: +35 Status-Navigator + 31 Verhaeltnismaessigkeit + 230 Fachanwalt-Norm-Skills, zuzueglich Politur/Korrekturzaehler aus der Zwischenpflege).
+- 18.240 Skills -> **18.549 Skills** (+296 netto: +35 Status-Navigator + 31 Verhältnismäßigkeit + 230 Fachanwalt-Norm-Skills, zuzueglich Politur/Korrekturzaehler aus der Zwischenpflege).
 - 201 Testakten -> **203 Testakten** (+2: status-navigator-batteriespeicher-jaenschwalde-peitz aus v230-Vorbereitung + neue Polizei-Akte).
 
 ## Validation
@@ -591,11 +641,11 @@ Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 
 - **Grammatik-Fix nach Codex-Polish v216:** 13.346 SKILL.md-Dateien mit grammatischen Folgefehlern der `Prueffeld -> Pruefungslinie`-Substitution korrigiert. Insgesamt rund 13.300 Sprachstellen geheilt: `dieses Pruefungslinie -> diese Pruefungslinie` (~12.993), `Dieser Pruefungslinie -> Diese Pruefungslinie`, `beim sachtragenden -> bei der sachtragenden`, `konkret Pruefungslinie -> konkrete Pruefungslinie`, `in das tragende -> in die tragende`, `zum richtigen -> zur richtigen`, `Passenden -> Passende`.
 - **Truncation-Fix V4:** 80 Skill-Slugs mit abgeschnittenen Endungen rekonstruiert.
-  - `-un` (Tail-Drop nach `-und`) entfernt fuer 30+ Skills.
-  - `-red` -> `-red-team-korrektur` fuer 14 Skills.
+  - `-un` (Tail-Drop nach `-und`) entfernt für 30+ Skills.
+  - `-red` -> `-red-team-korrektur` für 14 Skills.
   - `-sta` -> `-staatsanwaeltinnen` (StA-Plugin) bzw. `-staatshaftung` (Weltraumrecht).
   - `-fak` -> `-faktenmatrix`, `-ve` -> `-verhaeltnismaessigkeit`.
-  - Hardcoded Fixes fuer Spezialfaelle (gesellschafterstreit, rechnungskorrektur etc.).
+  - Hardcoded Fixes für Spezialfaelle (gesellschafterstreit, rechnungskorrektur etc.).
 - **Aspekt-Suffix-Sweep:** 7 Skills mit doppeldeutigen Aspekt-Suffixen `-re/-or/-ka/-2/-3/-4` auf sprechende Vollform gebracht (z. B. `-rechtsprechungscheck`, `-organisationspflicht`, `-kaltstart`, `-kammerantwort`). Slug-Laengen-Limit 64 Zeichen beachtet, wo noetig Kurzform (z. B. `-orgapflicht`, `-rspr-check`).
 - **marktmac/energie-Renames:** 5 Slugs aus bundesnetzagentur-verfahren rekonstruiert (`-marktmacht-...`, `-unbundling-...`, `-messstellenbetrieb-...`).
 - **Doppel-Skill-Renames:** `interessenkollision-ehegatten-gesellschafter-*` und `honorarabhaengigkeit-non-audit-services-*` auf sprechende Suffixe gebracht.
@@ -611,7 +661,7 @@ Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 
 - Slug-Laengen alle <=64 Zeichen (Validator-Regel).
 - Keine ungueltigen Zeichen in Slugs (nur `[a-z0-9-]`).
-- Frontmatter `name` = Verzeichnis-Slug fuer alle 18240 Skills.
+- Frontmatter `name` = Verzeichnis-Slug für alle 18240 Skills.
 - Keine Stub-Skills mehr (Min ~1300 Bytes).
 
 ## Konsistenz
@@ -632,7 +682,7 @@ Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 
 ## Schwerpunkt
 
-- Repo-weiter Qualitaets-Sweep ueber alle 210 Plugins in zwei Phasen.
+- Repo-weiter Qualitaets-Sweep über alle 210 Plugins in zwei Phasen.
   - Phase 1: ~1100 Slug-Renames durch Entfernung generischer Plugin-Praefixe (spezial-, neu-, anwaelte-, notare-, insol-, handelsrecht-int-, notariat-, anw-, fa-, fa-stu-, fa-arb-, fa-fam- u. a.) repo-weit, mit Konflikt-Behandlung (8 Boilerplate-Duplikate geloescht).
   - Phase 2: berufsrecht-wirtschaftspruefer (145), berufsrecht-steuerberater (142), berufsrecht-patentanwaelte (136) entpraefixt; 3 Konflikt-Duplikate geloescht.
   - Insgesamt ~2400 Skills umbenannt, 32 Boilerplate-Skills entfernt.
@@ -665,7 +715,7 @@ Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 ## Qualitaetsbild
 
 - Validator gruen.
-- Repo-weiter Praefix-Scan: 0 verbleibende generische Kurz-Praefixe ueber 30 Prozent Plugin-Anteil; nur drei semantische Sub-Domaenen-Praefixe (lph-, bess-, plan-) bestehen bewusst weiter.
+- Repo-weiter Praefix-Scan: 0 verbleibende generische Kurz-Praefixe über 30 Prozent Plugin-Anteil; nur drei semantische Sub-Domaenen-Praefixe (lph-, bess-, plan-) bestehen bewusst weiter.
 - 210 Plugins / 18272 Skills / 201 Testakten.
 - SKILLS.md, skills-index/, ASSET_INDEX.md, TESTBERICHT.md, README.md, testakten/README.md auf v215.0.0.
 
@@ -896,9 +946,9 @@ Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 ## Schwerpunkt
 
 - `fachanwalt-vergaberecht` von 54 auf 83 Skills erweitert.
-- Neue Workbench-Skills fuer Vergabe-OS, Schwellenwerte 2026/2027, Vergabeakte, Auftragswert/Losbildung, Verfahrenswahl, Markterkundung, Leistungsbeschreibung, Eignung, Bieterfragen, Angebotsoeffnung, Aufklaerung/Nachforderung, Wertungsmatrix, ungewoehnlich niedrige Angebote, Paragraph 134/135 GWB, Paragraph 132 GWB, Rahmenvereinbarungen, Unterschwellenrechtsschutz, Foerdermittel, Wettbewerbsregister, VK-/OLG-Strategie, Padlet-Canvas, KI-/Cloud-Beschaffung, Nachhaltigkeit und Resilienz ergaenzt.
+- Neue Workbench-Skills für Vergabe-OS, Schwellenwerte 2026/2027, Vergabeakte, Auftragswert/Losbildung, Verfahrenswahl, Markterkundung, Leistungsbeschreibung, Eignung, Bieterfragen, Angebotsoeffnung, Aufklaerung/Nachforderung, Wertungsmatrix, ungewoehnlich niedrige Angebote, Paragraph 134/135 GWB, Paragraph 132 GWB, Rahmenvereinbarungen, Unterschwellenrechtsschutz, Foerdermittel, Wettbewerbsregister, VK-/OLG-Strategie, Padlet-Canvas, KI-/Cloud-Beschaffung, Nachhaltigkeit und Resilienz ergaenzt.
 - Alle Vergaberecht-Skills mit v61.2.2-Workbench-Boost gehaertet: Rollen-/Fristen-/Schwellenwert-Gate, Anfaengererklaerung, Padlet-/Tabellenpflicht bei komplexen Faellen, Auftraggeber-Dokumentationslogik und Bieter-Ruege-/Kausalitaetslogik.
-- Fuenf neue Templates fuer Master-Padlet, Schwellenwert-Rechner, Wertungsmatrix, Ruege/VK-Powerdraft und Vergabeakte-Lueckenliste plus Quellen-/Aktualitaetsgate ergaenzt.
+- Fuenf neue Templates für Master-Padlet, Schwellenwert-Rechner, Wertungsmatrix, Ruege/VK-Powerdraft und Vergabeakte-Lueckenliste plus Quellen-/Aktualitaetsgate ergaenzt.
 - Mit dem v61.2.1-Remote-Nachzug zusammengefuehrt; Gesamtbestand jetzt 132 Plugins, 9517 Skills, 142 Testakten.
 
 ## Checks
@@ -1349,14 +1399,14 @@ Vertiefende Erweiterung des `fachanwalt-vergaberecht`-Plugins um 12 neue Spezial
 
 # v52.3.0 — Außenwirtschaft, Sozialrecht-Laienhilfe und bessere Einstiege
 
-Sammelrelease mit neuen und vertieften Skills fuer Aussenwirtschaft, Sozialrecht, juristische Sprachhilfe und juristische Arbeitsmethodik.
+Sammelrelease mit neuen und vertieften Skills für Außenwirtschaft, Sozialrecht, juristische Sprachhilfe und juristische Arbeitsmethodik.
 
 ## Neue und erweiterte Skills
 
 - `aussenwirtschaft-zoll-sanktionen` auf 100 Skills erweitert: Exportkontrolle, Embargos, Sanktionen, BAFA, Zoll/TARIC, CBAM, AWV, Screening, Audit-Trail und Ermittlungs-/Selbstkorrekturworkflows.
 - `fachanwalt-sozialrecht` um 50 laienverstaendliche Skills erweitert: Bescheide, Widerspruch, Eilantrag, Pflegegrad, GdB, Krankenkasse, Buergergeld, EM-Rente, Gutachten, Fristen und Fehlervermeidung.
-- Neues Plugin `juristische-sprache-deutsch-als-zweitsprache` mit 50 Skills fuer Juristendeutsch, Bescheide, Fristen, Formulare, Gerichtstermine, eigene Formulierungen und respektvolle Sprachhilfe.
-- Bessere Einstiege in `arbeitsrecht` und `arbeitszeugnis-analyse`: neue Problem-sortieren-Skills fuer unsortierte Anfragen und Dokument-Uploads.
+- Neues Plugin `juristische-sprache-deutsch-als-zweitsprache` mit 50 Skills für Juristendeutsch, Bescheide, Fristen, Formulare, Gerichtstermine, eigene Formulierungen und respektvolle Sprachhilfe.
+- Bessere Einstiege in `arbeitsrecht` und `arbeitszeugnis-analyse`: neue Problem-sortieren-Skills für unsortierte Anfragen und Dokument-Uploads.
 - Querschnittliche Arbeitsmethodik ergaenzt: KI-Arbeitsauftrag-Briefing, Entwurfscheck/Aktenabgleich/Red Team, prozessuale Argumentationsverbesserung und WEG-TOP-Generator.
 
 ## Release-Stand
@@ -1521,11 +1571,11 @@ Aus PR #160 in der vorigen Session (auf v51 zurückgemerged; hier in Kontext geh
 
 # v51.4.0 — Sofort-Download-Box in jedem Plugin-README
 
-User-Beschwerde: "beim Word-Plugin ist im README nicht direkt der Link zum Download des Plugins. Es soll bei jedem Plugin-README sofort das Plugin als ZIP-File und dann auch immer die Testakte als ZIP und als PDF herunterladbar sein." Bisher gab es zwar in jedem Plugin-README einen Plugin-ZIP-Link, beim Word-Plugin aber erst weit unten in der Installation-Sektion. Das ist jetzt fuer alle 110 Plugins einheitlich oben.
+User-Beschwerde: "beim Word-Plugin ist im README nicht direkt der Link zum Download des Plugins. Es soll bei jedem Plugin-README sofort das Plugin als ZIP-File und dann auch immer die Testakte als ZIP und als PDF herunterladbar sein." Bisher gab es zwar in jedem Plugin-README einen Plugin-ZIP-Link, beim Word-Plugin aber erst weit unten in der Installation-Sektion. Das ist jetzt für alle 110 Plugins einheitlich oben.
 
 ## Aenderungen
 
-- Neues Skript `scripts/inject-plugin-sofort-download-section.py`: fuegt in jede `<plugin>/README.md` direkt nach dem H1 (ganz oben) eine `## ⬇️ Sofort-Downloads`-Sektion ein mit (a) Plugin-ZIP-Direktdownload, (b) je zugeordneter Testakte ein Gesamt-PDF-Link und ein Akten-ZIP-Link. Idempotent ueber HTML-Marker `plugin-sofort-download-section`. Akten-Zuordnung wird wie schon bei `inject-plugin-testakten-section.py` aus den Backtick-Referenzen in `testakten/<slug>/README.md` abgeleitet.
+- Neues Skript `scripts/inject-plugin-sofort-download-section.py`: fuegt in jede `<plugin>/README.md` direkt nach dem H1 (ganz oben) eine `## ⬇️ Sofort-Downloads`-Sektion ein mit (a) Plugin-ZIP-Direktdownload, (b) je zugeordneter Testakte ein Gesamt-PDF-Link und ein Akten-ZIP-Link. Idempotent über HTML-Marker `plugin-sofort-download-section`. Akten-Zuordnung wird wie schon bei `inject-plugin-testakten-section.py` aus den Backtick-Referenzen in `testakten/<slug>/README.md` abgeleitet.
 - Skript ausgefuehrt: 110 von 110 Plugin-READMEs aktualisiert. Plugin-ZIP-Link steht jetzt in **jedem** Plugin-README sofort sichtbar unter dem Titel, vor allem anderen Inhalt.
 - `marketplace.json` Version `51.3.0` -> `51.4.0`.
 - `SKILLS.md` und `skills-index/` regeneriert (Versionsstring v51.4.0; Skill-Zahl 2682/110 unveraendert).
@@ -1552,14 +1602,14 @@ User-Wunsch: Wirklich alle Luecken im Testakten-Bestand schliessen. Pro bisher u
 
 ## Aenderungen
 
-- **64 neue Testakten** in 11 Wellen angelegt, je 38 Aktenstuecke (22 nummerierte MD plus 3 DOCX plus 2 XLSX plus 4 EML plus 2 PDF plus 3 JPG plus Gesamt-PDF) plus README. Quellen ausschliesslich aus dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de und amtlichen Behoerden-URLs; keine BeckRS-Modellzitate, kein anwalt24.de.
+- **64 neue Testakten** in 11 Wellen angelegt, je 38 Aktenstuecke (22 nummerierte MD plus 3 DOCX plus 2 XLSX plus 4 EML plus 2 PDF plus 3 JPG plus Gesamt-PDF) plus README. Quellen ausschließlich aus dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de und amtlichen Behoerden-URLs; keine BeckRS-Modellzitate, kein anwalt24.de.
 - **Testakten-Bestand 63 -> 127** (siehe `testakten/README.md`).
-- **ASSET_INDEX.md** aktualisiert: 108 Plugin-ZIPs plus 127 Fallakten-ZIPs plus 4 Standalone-Assets = **239 Release-Assets** fuer `v51.2.0` und `latest`.
-- Welle-Themen: Welle 1-7 (Arbeitsrecht, Familie, Erbe, Insolvenz, Bau, IT-Recht, Strafrecht); Welle 8 (KI-Governance, KI-VO, Mandantenanfragen, MundA, Methodenlehre, Mietrecht); Welle 9 (Share-Deal, NDA, Normenkontrolle, FTO-Recherche, Produkthaftung, Zivilprozess BGH-Revision); Welle 10 (Rechtsberatungsstelle, BaFin-Regulatorik, Steuerrecht/Selbstanzeige, Strafzumessung, Subsumtions-Pruefer, Tabellenreview); Welle 11 (Richter-Urteilsbau, Verfassungsrecht, VerkehrsOWi, Drafting-Werkstatt, Zitierweise, Zwangsvollstreckung).
+- **ASSET_INDEX.md** aktualisiert: 108 Plugin-ZIPs plus 127 Fallakten-ZIPs plus 4 Standalone-Assets = **239 Release-Assets** für `v51.2.0` und `latest`.
+- Welle-Themen: Welle 1-7 (Arbeitsrecht, Familie, Erbe, Insolvenz, Bau, IT-Recht, Strafrecht); Welle 8 (KI-Governance, KI-VO, Mandantenanfragen, MundA, Methodenlehre, Mietrecht); Welle 9 (Share-Deal, NDA, Normenkontrolle, FTO-Recherche, Produkthaftung, Zivilprozess BGH-Revision); Welle 10 (Rechtsberatungsstelle, BaFin-Regulatorik, Steuerrecht/Selbstanzeige, Strafzumessung, Subsumtions-Prüfer, Tabellenreview); Welle 11 (Richter-Urteilsbau, Verfassungsrecht, VerkehrsOWi, Drafting-Werkstatt, Zitierweise, Zwangsvollstreckung).
 - **Validatoren gruen:** `validate-plugin-structure.mjs`, `validate-yaml-frontmatter.py`, `validate-testakten-gesamt-pdf.py` (127 Testakten).
 - **Plugin-READMEs:** `inject-plugin-testakten-section.py` automatisiert die Demonstrationsakten-Tabelle in jedem Plugin-README; 75 Plugins haben jetzt eine eigene Demonstrationsakte.
 - **Gesamt-PDFs:** Pro Akte ein automatisch gebautes Gesamt-PDF (Skript `build-testakte-gesamt-pdf.py`, breite Tabellen >12 Spalten fallen sequentiell zurueck), oben im Akten-README verlinkt.
-- Pattern fuer Testakten festgehalten: kein YAML-Frontmatter; 38 Dateien plus README; Plot mit 5-8 individualisierten Konfliktstraengen; konsistente Beteiligten- und Aktenzeichen-Liste; ASCII in Commit-Messages und in `description` (Dezimalkommas nur im Body, nicht in der Description).
+- Pattern für Testakten festgehalten: kein YAML-Frontmatter; 38 Dateien plus README; Plot mit 5-8 individualisierten Konfliktstraengen; konsistente Beteiligten- und Aktenzeichen-Liste; ASCII in Commit-Messages und in `description` (Dezimalkommas nur im Body, nicht in der Description).
 - Marketplace-Version `51.1.0` -> `51.2.0`; Generator regeneriert SKILLS.md und skills-index/; Plugins/Skills unveraendert (110/2682).
 
 # v51.1.0 — DFG/Forschungszulage Workflow-Boost
@@ -1810,11 +1860,11 @@ Validatoren grün: validate-plugin-structure OK, validate-testakten-gesamt-pdf 6
 
 # v50.4.0 — SKILLS.md aufgeteilt + Mega-ZIP-Download prominent oben
 
-User-Meldung: Die SKILLS.md liess sich auf github.com kaum oeffnen, weil sie 2 MB gross war und 2617 Tabellenzeilen enthielt -- GitHubs Markdown-Renderer hat die Seite endlos neu geladen oder gar nicht angezeigt. GitHubs offizielles Renderer-Limit liegt bei ca. 512 KB.
+User-Meldung: Die SKILLS.md liess sich auf github.com kaum oeffnen, weil sie 2 MB groß war und 2617 Tabellenzeilen enthielt -- GitHubs Markdown-Renderer hat die Seite endlos neu geladen oder gar nicht angezeigt. GitHubs offizielles Renderer-Limit liegt bei ca. 512 KB.
 
 ## Aenderungen
 
-- **SKILLS.md aufgeteilt:** Die Hauptseite ist jetzt nur noch ca. 27 KB gross und enthaelt lediglich den Hinweisblock, die Download-Buttons und die Plugin-Schnellzugriffstabelle. Pro Plugin gibt es eine eigene Detailseite unter `skills-index/<plugin>.md` mit der vollstaendigen Skill-Tabelle und allen Download-Links. Auch die groesste Detailseite (`steuerrecht-anwalt-und-berater.md`, 161 KB) bleibt deutlich unter GitHubs Renderer-Limit.
+- **SKILLS.md aufgeteilt:** Die Hauptseite ist jetzt nur noch ca. 27 KB groß und enthaelt lediglich den Hinweisblock, die Download-Buttons und die Plugin-Schnellzugriffstabelle. Pro Plugin gibt es eine eigene Detailseite unter `skills-index/<plugin>.md` mit der vollstaendigen Skill-Tabelle und allen Download-Links. Auch die groesste Detailseite (`steuerrecht-anwalt-und-berater.md`, 161 KB) bleibt deutlich unter GitHubs Renderer-Limit.
 - **Mega-ZIP-Download prominent oben:** Direkt unter dem Titel von SKILLS.md gibt es jetzt einen Block `## ⬇️ Alle Skills auf einmal herunterladen` mit zwei Optionen:
   - `alle-plugins-megazip.zip` (~11 MB): nur die {n} Plugin-Skills
   - `alles-komplettpaket.zip` (~80 MB): Plugins + Testakten + Uebersichten
@@ -1833,12 +1883,12 @@ Validatoren gruen.
 
 # v50.3.0 — SKILLS.md vollautomatisch generieren mit Download-Links
 
-User-Wunsch: Die Skill-Gesamtuebersicht (`SKILLS.md`) soll oben prominent erklaeren, dass die Skills nichts weiter als grosse Markdown-Prompts sind und in jedem Chatbot per Copy-Paste funktionieren. Pro Skill ein Direkt-Download (Markdown + Raw), pro Plugin ein ZIP-Download-Button. Garantie: jeder neue Skill landet automatisch in der Uebersicht.
+User-Wunsch: Die Skill-Gesamtuebersicht (`SKILLS.md`) soll oben prominent erklaeren, dass die Skills nichts weiter als große Markdown-Prompts sind und in jedem Chatbot per Copy-Paste funktionieren. Pro Skill ein Direkt-Download (Markdown + Raw), pro Plugin ein ZIP-Download-Button. Garantie: jeder neue Skill landet automatisch in der Übersicht.
 
 ## Aenderungen
 
 - Neues Skript `scripts/generate-skills-md.py`: liest Plugin-Reihenfolge aus `marketplace.json`, scannt alle `<plugin>/skills/<skill>/SKILL.md`, liest die `description` aus dem YAML-Frontmatter und schreibt `SKILLS.md` neu. **Idempotent und vollstaendig** -- jeder neu angelegte Skill taucht beim naechsten Lauf automatisch auf.
-- `SKILLS.md` hat jetzt oben einen Hinweisblock **"Worum es hier geht: alles nur grosse Prompts"** mit Schritt-fuer-Schritt-Anleitung fuer Nutzerinnen von ChatGPT, Mistral, Gemini, DeepSeek, Le Chat usw.
+- `SKILLS.md` hat jetzt oben einen Hinweisblock **"Worum es hier geht: alles nur große Prompts"** mit Schritt-für-Schritt-Anleitung für Nutzerinnen von ChatGPT, Mistral, Gemini, DeepSeek, Le Chat usw.
 - Pro Plugin: Link auf die Plugin-README und ein **ZIP-Download-Link** auf das Release-Asset (`releases/latest/download/<plugin>.zip`, vorhandenes Artefakt aus `release-plugin-zips.yml`).
 - Pro Skill: Spalte **Download** mit `[Markdown]`-Link (github.com/blob/main) und `[Raw .md]`-Link (raw.githubusercontent.com), beide direkt klickbar im Browser.
 - Stand: 2617 Skills in 107 Plugins, jetzt vollstaendig in SKILLS.md verlinkt.
@@ -1852,7 +1902,7 @@ Validatoren gruen.
 
 ---
 
-# v50.2.0 — Gesamt-PDF fuer jede Testakte (doppelt gemoppelt)
+# v50.2.0 — Gesamt-PDF für jede Testakte (doppelt gemoppelt)
 
 User-Wunsch: Jede Testakte soll im ZIP-Release zusaetzlich ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken enthalten. So liegt jede Akte sowohl in Einzelformaten (MD, DOCX, XLSX, EML, PDF) als auch in einer 'doppelt gemoppelten' Druckfassung vor.
 
@@ -1862,7 +1912,7 @@ User-Wunsch: Jede Testakte soll im ZIP-Release zusaetzlich ein einziges, durchsu
   - Cover (H1-Titel, Slug, Auszug aus Sachverhalt/Kurzbild/Worum/Zweck/Szenario/Idee/Mandant/Verfahrenseckdaten/...),
   - Inhaltsverzeichnis,
   - Seitenzahlen,
-  - Trennblaettern fuer Original-PDF-Anhaenge (Layout per pypdf erhalten).
+  - Trennblaettern für Original-PDF-Anhaenge (Layout per pypdf erhalten).
   Sehr lange Tabellenzellen (>1.200 Zeichen, z.B. bilingualer Wandeldarlehensvertrag) werden in eine sequentielle Absatzdarstellung umgewandelt, damit ReportLab nicht ueberlauft.
 - Neues Skript `scripts/inject-gesamt-pdf-section.py` ergaenzt jede Testakte-README idempotent (HTML-Marker) um einen Block `## 📕 Gesamt-PDF (alles in einer Datei)` direkt unter dem H1 (also noch vor dem Direkt-Download).
 - 63 von 63 Testakten haben jetzt `testakten/<name>/gesamt-pdf/<name>_gesamt.pdf`. Die Datei landet automatisch im Release-ZIP `testakte-<name>.zip` (siehe `.github/workflows/release-plugin-zips.yml`).
@@ -1871,7 +1921,7 @@ User-Wunsch: Jede Testakte soll im ZIP-Release zusaetzlich ein einziges, durchsu
 ## Versionen
 
 - Marketplace top-level 50.1.1 -> 50.2.0
-- Plugin-Versionen unveraendert (nur Testakten-Inhalte und Hilfsskripte aendern sich; keine Plugin-Manifeste)
+- Plugin-Versionen unveraendert (nur Testakten-Inhalte und Hilfsskripte ändern sich; keine Plugin-Manifeste)
 
 Validatoren gruen: validate-plugin-structure OK, validate-yaml-frontmatter 0/0, welle5-komma-check 0 Treffer.
 
@@ -1917,7 +1967,7 @@ Die Testakte `testakten/nachbarschaftsstreit-horrorfall-rosengarten/` ist um all
 - `docx/`: Anwaltsschreiben Kessler, Aufforderungsschreiben-Entwurf Albers, Vergleichsentwurf
 - `pdfs/`: Baumgutachten, Bauamt-Zustaendigkeitsbescheid, Vermessungsskizze
 - `scan-whatsapp/`: visuell gerenderter Handy-Screenshot-Scan als PDF
-- `gesamt-pdf/`: alles in einem Gesamtdokument mit Cover, Inhaltsverzeichnis, Seitenzahlen und Trennblaettern fuer die externen PDF-Anhaenge
+- `gesamt-pdf/`: alles in einem Gesamtdokument mit Cover, Inhaltsverzeichnis, Seitenzahlen und Trennblaettern für die externen PDF-Anhaenge
 - neue MD-Stuecke `13_zeugenliste_und_anwohner.md` und `14_telefonprotokolle_kanzlei.md` mit Anwohnern, Handwerkern, Behoerdenkontakten und sechs Telefonprotokollen aus dem Kanzleisystem
 - README der Testakte komplett neu strukturiert: Gesamt-PDF prominent oben, Format-Sektionen mit allen Dateilinks, Beteiligten-Block, Vorfuehrpfad
 
@@ -1938,9 +1988,9 @@ Validatoren gruen: validate-plugin-structure OK, validate-yaml-frontmatter 0/0, 
 - README, SKILLS.md, Testakten-README und ASSET_INDEX auf 107 Plugins, 2617 Skills, 63 Testakten und 174 Release-Assets nachgezogen.
 - Keine fachlichen Inhalte geändert; der Release markiert den konsolidierten v49.2-Stand als nächste Hauptversion.
 
-# v49.2.0 — Skill-Uebersicht in allen 107 Plugin-READMEs vollstaendig
+# v49.2.0 — Skill-Übersicht in allen 107 Plugin-READMEs vollstaendig
 
-Sanity-Check ergab: in 96 von 107 Plugin-READMEs fehlten Skills in der jeweiligen Uebersicht. In den meisten Faellen war es nur der `allgemein`-Triage-Skill; bei steuerrecht-anwalt-und-berater, selbstvertreter-amtsgericht, arbeitsrecht und 18 fachanwalt-Plugins fehlten erhebliche Bloecke.
+Sanity-Check ergab: in 96 von 107 Plugin-READMEs fehlten Skills in der jeweiligen Übersicht. In den meisten Faellen war es nur der `allgemein`-Triage-Skill; bei steuerrecht-anwalt-und-berater, selbstvertreter-amtsgericht, arbeitsrecht und 18 fachanwalt-Plugins fehlten erhebliche Bloecke.
 
 ## Aenderungen
 
@@ -1950,7 +2000,7 @@ Sanity-Check ergab: in 96 von 107 Plugin-READMEs fehlten Skills in der jeweilige
 
 ## Versionen
 
-Plugin-Versionen bleiben unveraendert (49.0.0 bzw. 49.1.0 fuer methodenlehre/mietrecht). Es haben sich nur READMEs geaendert, kein SKILL.md, keine plugin.json, keine references oder assets. Der Repo-Tag `v49.2.0` markiert den Sweep auf Repo-Ebene.
+Plugin-Versionen bleiben unveraendert (49.0.0 bzw. 49.1.0 für methodenlehre/mietrecht). Es haben sich nur READMEs geaendert, kein SKILL.md, keine plugin.json, keine references oder assets. Der Repo-Tag `v49.2.0` markiert den Sweep auf Repo-Ebene.
 
 Validatoren gruen: validate-plugin-structure OK, validate-yaml-frontmatter 0/0, welle5-komma-check 0 Treffer.
 
@@ -2003,7 +2053,7 @@ Das Plugin `methodenlehre-buergerliches-recht` wurde an drei Stellen verbessert;
 
 - Neue Begruendung der Anspruchsgrundlagen-Reihenfolge (Speziellere vor Allgemeineren, rechtsgeschaeftliche Bindung vor gesetzlichen Schuldverhaeltnissen, etc.).
 - Drei konkrete Praxisbeispiele zur Gewichtung der Auslegungskanones (§ 199 Abs. 1 BGB, § 138 Abs. 2 BGB, §§ 651a ff. BGB Pauschalreise).
-- Erweiterter Abschnitt zu Rechtsfortbildung mit vier klassischen BGH-Argumentationsmustern (Vertrag mit Schutzwirkung, Drittschadensliquidation, c.i.c. vor 2002, Verwirkung/Treuwidrigkeit ueber § 242 BGB).
+- Erweiterter Abschnitt zu Rechtsfortbildung mit vier klassischen BGH-Argumentationsmustern (Vertrag mit Schutzwirkung, Drittschadensliquidation, c.i.c. vor 2002, Verwirkung/Treuwidrigkeit über § 242 BGB).
 - Neuer Hinweis zu typischen Fehlanwendungen von Generalklauseln als Erstargument.
 - Verbotsliste um Punkt "keine ergebnisorientierte Rueckwaerts-Subsumtion" erweitert.
 - Selbstpruefungs-Checkliste um Rechtsfortbildungs-Frage erweitert.
@@ -2022,8 +2072,8 @@ Das Plugin `methodenlehre-buergerliches-recht` wurde an drei Stellen verbessert;
 
 Reaktion auf zwei P2-Badges aus dem Codex-Review zu PR #142:
 
-- **§ 343 BGB qualifiziert auf Kaufleute (§ 348 HGB):** Die fruehere Aussage "Im B2B kein § 343 BGB-Schutz" war zu pauschal. Der Ausschluss der richterlichen Herabsetzung greift nach § 348 HGB nur, wenn ein Kaufmann die Vertragsstrafe im Betrieb seines Handelsgewerbes verspricht. Fuer Freiberufler, nicht-gewerbliche GbRs und Unternehmer ohne Kaufmannseigenschaft bleibt § 343 BGB anwendbar. Wurde sauber qualifiziert.
-- **Falsche BGH-Zitate ersetzt:** BGH I ZR 17/05 (Pralinenform II) ist Markenrecht und keine Best-Efforts-/§ 242-Entscheidung. BGH VIII ZR 244/97 betrifft Leasing-AGB und nicht die Einheitstheorie. Beide entfernt. Neu: BGH II ZR 155/85 (14.04.1986) und BGH VIII ZR 329/99 (27.06.2001, NJW 2002, 142) zur Reichweite des Beurkundungserfordernisses nach § 15 Abs. 4 GmbHG. Die Best-Efforts-Auslegung wird nun dogmatisch ueber § 242 BGB hergeleitet, ohne unpassende Einzelfallzitate. AGB-B2B-Quelle ersetzt durch BGH VII ZR 58/14 (22.10.2015).
+- **§ 343 BGB qualifiziert auf Kaufleute (§ 348 HGB):** Die fruehere Aussage "Im B2B kein § 343 BGB-Schutz" war zu pauschal. Der Ausschluss der richterlichen Herabsetzung greift nach § 348 HGB nur, wenn ein Kaufmann die Vertragsstrafe im Betrieb seines Handelsgewerbes verspricht. Für Freiberufler, nicht-gewerbliche GbRs und Unternehmer ohne Kaufmannseigenschaft bleibt § 343 BGB anwendbar. Wurde sauber qualifiziert.
+- **Falsche BGH-Zitate ersetzt:** BGH I ZR 17/05 (Pralinenform II) ist Markenrecht und keine Best-Efforts-/§ 242-Entscheidung. BGH VIII ZR 244/97 betrifft Leasing-AGB und nicht die Einheitstheorie. Beide entfernt. Neu: BGH II ZR 155/85 (14.04.1986) und BGH VIII ZR 329/99 (27.06.2001, NJW 2002, 142) zur Reichweite des Beurkundungserfordernisses nach § 15 Abs. 4 GmbHG. Die Best-Efforts-Auslegung wird nun dogmatisch über § 242 BGB hergeleitet, ohne unpassende Einzelfallzitate. AGB-B2B-Quelle ersetzt durch BGH VII ZR 58/14 (22.10.2015).
 
 ## Plugin-Version
 
@@ -2031,12 +2081,12 @@ Reaktion auf zwei P2-Badges aus dem Codex-Review zu PR #142:
 
 # v47.1.0 — Plugin gesellschaftsrecht-legal-english: zwei neue Grundlagen-Skills
 
-Reaktion auf den Hinweis aus der Praxis (LinkedIn-Diskussion vom 29.05.2026), dass M&A-Anwaelte regelmaessig Basics aus BGB AT, Schuldrecht AT und Kapitalaufbringungsrecht uebersehen, weil sie M&A fuer reines Vertragsrecht halten. Gerade in Zeiten breiter KI-Nutzung bleibt das Grundlagenwissen entscheidend, damit Ergebnisse richtig interpretiert werden.
+Reaktion auf den Hinweis aus der Praxis (LinkedIn-Diskussion vom 29.05.2026), dass M&A-Anwaelte regelmaessig Basics aus BGB AT, Schuldrecht AT und Kapitalaufbringungsrecht uebersehen, weil sie M&A für reines Vertragsrecht halten. Gerade in Zeiten breiter KI-Nutzung bleibt das Grundlagenwissen entscheidend, damit Ergebnisse richtig interpretiert werden.
 
 Zwei neue Skills im Plugin `gesellschaftsrecht-legal-english`:
 
-- **`verdeckte-sacheinlage`**: erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG. Anrechnungsloesung seit MoMiG, Vorbelastungshaftung, Pruefraster mit sieben Schritten, typische M&A-Fallen (Cash-In-Series-A plus Akquisition, Wandeldarlehen, Verrechnungsabreden, Sale-and-lease-back, Beraterhonorar an Investor), klare Heilungswege.
-- **`bgb-at-schuldrecht-at-im-ma`**: macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanzierungs- und SHA-Vertraegen unter deutschem Recht stillschweigend mitlaufen. Zehnstufiges Pruefraster: Form und Einheitstheorie § 15 Abs. 4 GmbHG, Stellvertretung §§ 164 ff. und § 181 BGB, Bedingungseintritt und -vereitelung § 162 BGB, AGB-Kontrolle §§ 305 ff. und § 307 BGB auch im B2B, Treu und Glauben § 242 BGB fuer reasonable-/best-efforts, Anfechtung §§ 119, 123 BGB und Sperre des § 444 BGB. Konkrete Falleinordnungen mit Heilungswegen.
+- **`verdeckte-sacheinlage`**: erkennt und prüft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG. Anrechnungsloesung seit MoMiG, Vorbelastungshaftung, Pruefraster mit sieben Schritten, typische M&A-Fallen (Cash-In-Series-A plus Akquisition, Wandeldarlehen, Verrechnungsabreden, Sale-and-lease-back, Beraterhonorar an Investor), klare Heilungswege.
+- **`bgb-at-schuldrecht-at-im-ma`**: macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanzierungs- und SHA-Vertraegen unter deutschem Recht stillschweigend mitlaufen. Zehnstufiges Pruefraster: Form und Einheitstheorie § 15 Abs. 4 GmbHG, Stellvertretung §§ 164 ff. und § 181 BGB, Bedingungseintritt und -vereitelung § 162 BGB, AGB-Kontrolle §§ 305 ff. und § 307 BGB auch im B2B, Treu und Glauben § 242 BGB für reasonable-/best-efforts, Anfechtung §§ 119, 123 BGB und Sperre des § 444 BGB. Konkrete Falleinordnungen mit Heilungswegen.
 
 Beide Skills sind in der Fuehrungsmatrix des `allgemein`-Routing-Skills erfasst, damit Nutzer mit Aussagen wie "Wir machen Vertragsrecht, BGB AT ist egal" oder "Bareinlage und gleichzeitig Erwerb vom Gesellschafter" direkt auf die richtige Stelle geroutet werden.
 
@@ -2109,12 +2159,12 @@ Folgefix nach v44.0.0. Drei Dinge:
 
 ## Restliche Textentlehrungen
 
-- `00-deal-personen-und-zeitleiste.md`: Abschnitt "Was die Akte testet" umbenannt in "Aktenschwerpunkte fuer die kommende Verhandlung", inhaltlich auf das Mandat statt auf den Lernzweck formuliert.
+- `00-deal-personen-und-zeitleiste.md`: Abschnitt "Was die Akte testet" umbenannt in "Aktenschwerpunkte für die kommende Verhandlung", inhaltlich auf das Mandat statt auf den Lernzweck formuliert.
 - `06-associate-arbeitsstand.md`: Lead-Absatz von "dem Nachwuchs zeigen, wie eine Partnerin Anfaengertexte umarbeitet — sachlich, hart, lehrreich" auf "Adelheid von Westarp hat am 21.05.2026 vormittags Anmerkungen am Rand vermerkt" geaendert.
 - `14-board-und-consent-matters-mapping-de-en.md`: Abschnitt "Lernziel" in "Ausgangspunkt" umbenannt.
 - `chats/01-slack-comet-moth-cap-table.md`: Kopfblock "Auszug aus dem internen Slack-Channel" durch realistische Channel-/Teilnehmer-/Zeitstempel-Angaben ersetzt.
 
-## Konsequenzen fuer README und Plugin-README
+## Konsequenzen für README und Plugin-README
 
 - Testakten-`README.md`: Aktenbestand-Tabelle aktualisiert (neue Dateinamen `01-partnerauftrag-emails`, `11-investor-counsel-markup-emails`, `11n-westarp-randnotiz-zum-entwurf`, `18-cap-table-und-waterfall.xlsx`). Hinweise auf chats/DOCX/PDF ergaenzt.
 - Plugin-`README.md`: Excel-Dateiname aktualisiert; Demo-Material-Sektion um chats/ ergaenzt.
@@ -2124,13 +2174,13 @@ Folgefix nach v44.0.0. Drei Dinge:
 - `node scripts/validate-plugin-structure.mjs` — OK
 - `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
 - `python3 /tmp/welle5_komma_check.py` — 0 Treffer
-- Volltextsuche `lehr|fiktiv|didakt|training|quiz|rookie|lernziel|simul|cheatsheet|musterloesung` ueber alle PDFs/DOCX/XLSX — 0 echte Treffer (nur juristischer Fachbegriff "Zweckuebertragungslehre" verbleibt).
+- Volltextsuche `lehr|fiktiv|didakt|training|quiz|rookie|lernziel|simul|cheatsheet|musterloesung` über alle PDFs/DOCX/XLSX — 0 echte Treffer (nur juristischer Fachbegriff "Zweckuebertragungslehre" verbleibt).
 
 ---
 
 # v44.0.0 — Testakte Frankfurt-Startup entlehrmaterialisiert: echte Akte statt Lehrkompendium
 
-Die Frankfurt-Startup-Testakte wird zu einer realistischen Mandatsakte umgebaut. Alle didaktischen Marker ("fiktive Lehrakte", "Aehnlichkeiten zu realen Transaktionen sind nicht beabsichtigt", "Lehrmaterial") sowie alle formalen Lehrhilfen (Cheat-Sheets, Glossare, Fehlerkataloge, Index-Beipackzettel) sind entfernt. Was bleibt, ist das bluehende Leben einer Series-A-Mandatsakte der Kanzlei Hagemann & Westarp fuer die Kometenfalter Systems GmbH.
+Die Frankfurt-Startup-Testakte wird zu einer realistischen Mandatsakte umgebaut. Alle didaktischen Marker ("fiktive Lehrakte", "Aehnlichkeiten zu realen Transaktionen sind nicht beabsichtigt", "Lehrmaterial") sowie alle formalen Lehrhilfen (Cheat-Sheets, Glossare, Fehlerkataloge, Index-Beipackzettel) sind entfernt. Was bleibt, ist das bluehende Leben einer Series-A-Mandatsakte der Kanzlei Hagemann & Westarp für die Kometenfalter Systems GmbH.
 
 ## Entlehrmaterialisierung
 
@@ -2176,9 +2226,9 @@ Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` komplett neu geren
 
 ## Plugin-Spotlight
 
-- `gesellschaftsrecht-legal-english/.claude-plugin/plugin.json`: `description` auf "Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English fuer Big-Law-Anfaenger…" umgestellt, `version` auf `43.0.0` gebumpt. Slug `gesellschaftsrecht-legal-english` BLEIBT (kein Rename).
+- `gesellschaftsrecht-legal-english/.claude-plugin/plugin.json`: `description` auf "Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English für Big-Law-Anfaenger…" umgestellt, `version` auf `43.0.0` gebumpt. Slug `gesellschaftsrecht-legal-english` BLEIBT (kein Rename).
 - `gesellschaftsrecht-legal-english/README.md`: Titel auf "Didaktisches Gesellschaftsrecht — English Business Terms". Testakten-Beschreibung um DOCX/PDF/EML/Chats erweitert.
-- `.claude-plugin/marketplace.json`: Eintrag fuer `gesellschaftsrecht-legal-english` an die neue description angepasst und auf `43.0.0` synchronisiert.
+- `.claude-plugin/marketplace.json`: Eintrag für `gesellschaftsrecht-legal-english` an die neue description angepasst und auf `43.0.0` synchronisiert.
 
 ## Qualitaetssicherung
 
@@ -2242,8 +2292,8 @@ Zwei Codex-Findings zur Testakte `testakten/weg-hausverwaltung-hohenzollernhof/1
 
 ## Findings
 
-- **§ 3 vs. § 5/§ 7 — Primaerdaten von Berechnungsfeldern trennen.** Das Beanstandungsschreiben fuehrte `gebaeudespezifischer Wert in kg CO2/m2/a` und `Einstufung in die Anlage zu § 5` als angeblich vom Gaslieferanten nach § 3 CO2KostAufG zu uebermittelnde Angaben auf. Tatsaechlich kennt der Lieferant weder die relevante Wohnflaeche noch die resultierende § 5-Stufe; § 3 Abs. 1 Nr. 1-5 schuldet nur (1) Brennstoffemissionen in kg CO2, (2) CO2-Preisbestandteil in EUR, (3) heizwertbezogener Emissionsfaktor in kg CO2/kWh, (4) Energiegehalt in kWh, (5) Hinweis auf Erstattungsansprueche §§ 6 Abs. 2, 8 Abs. 2. `gebaeudespezifischer Wert` und `Einstufung` sind § 5/§ 7-Berechnungen des Vermieters. Klarstellung im Datenpflichten-Abschnitt, im Beanstandungsschreiben und im Hinweis fuer die Verwalterin eingebaut.
-- **§ 8 CO2KostAufG — Stufenmodell fuer Nichtwohngebaeude 2025 noch nicht operativ.** Der frueher Abschnitt schrieb `ab 01.01.2025 auch Nichtwohngebaeude im Stufenmodell`. § 8 Abs. 4 sieht aber nur vor, dass die haelftige Aufteilung im Jahr 2025 abgeloest werden soll; ein operatives Stufenmodell fuer Nichtwohngebaeude ist im Gesetzestext noch nicht enthalten. Bis zur Einfuehrung der Tabelle gilt nach § 8 Abs. 1 weiterhin **50/50** (Vereinbarungen ueber mehr als 50 % Mieteranteil unwirksam). Korrigiert in der Anwendungsbereichs-Beschreibung und im Berechnungsabschnitt.
+- **§ 3 vs. § 5/§ 7 — Primaerdaten von Berechnungsfeldern trennen.** Das Beanstandungsschreiben fuehrte `gebaeudespezifischer Wert in kg CO2/m2/a` und `Einstufung in die Anlage zu § 5` als angeblich vom Gaslieferanten nach § 3 CO2KostAufG zu uebermittelnde Angaben auf. Tatsaechlich kennt der Lieferant weder die relevante Wohnflaeche noch die resultierende § 5-Stufe; § 3 Abs. 1 Nr. 1-5 schuldet nur (1) Brennstoffemissionen in kg CO2, (2) CO2-Preisbestandteil in EUR, (3) heizwertbezogener Emissionsfaktor in kg CO2/kWh, (4) Energiegehalt in kWh, (5) Hinweis auf Erstattungsansprueche §§ 6 Abs. 2, 8 Abs. 2. `gebaeudespezifischer Wert` und `Einstufung` sind § 5/§ 7-Berechnungen des Vermieters. Klarstellung im Datenpflichten-Abschnitt, im Beanstandungsschreiben und im Hinweis für die Verwalterin eingebaut.
+- **§ 8 CO2KostAufG — Stufenmodell für Nichtwohngebaeude 2025 noch nicht operativ.** Der frueher Abschnitt schrieb `ab 01.01.2025 auch Nichtwohngebaeude im Stufenmodell`. § 8 Abs. 4 sieht aber nur vor, dass die haelftige Aufteilung im Jahr 2025 abgeloest werden soll; ein operatives Stufenmodell für Nichtwohngebaeude ist im Gesetzestext noch nicht enthalten. Bis zur Einfuehrung der Tabelle gilt nach § 8 Abs. 1 weiterhin **50/50** (Vereinbarungen über mehr als 50 % Mieteranteil unwirksam). Korrigiert in der Anwendungsbereichs-Beschreibung und im Berechnungsabschnitt.
 
 Quelle (verifiziert): https://www.gesetze-im-internet.de/co2kostaufg/__3.html, https://www.gesetze-im-internet.de/co2kostaufg/__8.html
 
@@ -2288,7 +2338,7 @@ Drei Codex-Findings zur Testakte `11-co2kostaufg-aufteilungspruefung.md` aus dem
 
 - **Datenpflichten-Basis korrigiert**: `§ 2 Abs. 2 CO2KostAufG` war falsche Anspruchsgrundlage — § 2 regelt nur den Anwendungsbereich. Datenpflichten differenziert nach § 3 (Lieferanteninformation an den Bezieher = WEG/Verwalter), § 5 (Stufentabelle/Anlage), § 6 (Begrenzung Umlagefähigkeit/Erstattungsanspruch Mieter), § 7 Abs. 3 und 4 (Vermieter-Abrechnungspflicht gegenüber Mieter), § 8 (Nichtwohngebäude). Praxis-Klarstellung: die WEG-Jahresabrechnung muss die CO2-Datenfelder selbst **nicht** ausweisen; die Verwalterin muss die § 3-Lieferantendaten an die vermietenden Eigentümer **weiterreichen**, damit diese ihrer § 7-Pflicht nachkommen können.
 - **Stufe-5-Anteile entreversed**: Das Beanstandungsschreiben hatte "60 % Vermieter / 40 % Mieter" — die Stufentabelle weist Stufe 5 (27–32 kg CO2/m2/a) korrekt mit **60 % Mieter / 40 % Vermieter** aus. Korrigiert.
-- **Endempfehlung konsistent**: Der Schlussabschnitt "Hinweis fuer Verwalterin" empfahl noch die Anwendung des Stufenmodells in der WEG-Heizkostenabrechnung — widersprach der neuen WEG-Analyse. Korrigiert: WEG-interne Verteilung nach HeizkostenV (70/30) bleibt unverändert; Stufenmodell **nicht** in der WEG-Abrechnung; stattdessen separate Anlage "CO2-Lieferantendaten nach § 3 CO2KostAufG" zur Jahresabrechnung. Anfechtungs-Praxisempfehlung entsprechend nachgezogen.
+- **Endempfehlung konsistent**: Der Schlussabschnitt "Hinweis für Verwalterin" empfahl noch die Anwendung des Stufenmodells in der WEG-Heizkostenabrechnung — widersprach der neuen WEG-Analyse. Korrigiert: WEG-interne Verteilung nach HeizkostenV (70/30) bleibt unverändert; Stufenmodell **nicht** in der WEG-Abrechnung; stattdessen separate Anlage "CO2-Lieferantendaten nach § 3 CO2KostAufG" zur Jahresabrechnung. Anfechtungs-Praxisempfehlung entsprechend nachgezogen.
 
 ## Plugin-Versionsbumps
 
@@ -2348,7 +2398,7 @@ Sechs Codex-Review-Findings aus dem v35-PR systematisch behoben:
 # v35.0.0 — Agio-Dogmatik in drei Plugins, Codex-Round-2-Fixes, Umlaut-Hygiene Testakte
 
 - **Codex-Round-2-Fixes in `testakten/gesellschaftsrecht-legal-english-frankfurt-startup/`.** Der `§ 14 GmbHG`-Anker für Sonderrechte/Vorzugsanteile wurde in den Dateien `06-associate-arbeitsstand.md` und `07-erwarteter-output-ohne-musterloesung.md` durch den korrekten Anker `Satzungsautonomie + § 35 BGB analog` ersetzt; gestützt auf ständige Rechtsprechung (BGHZ 123, 15; BGH II ZR 89/79 = LM BGB § 35 Nr. 4; OLG Nürnberg 12 U 813/99). § 14 GmbHG (Einlagepflicht/Nennbetrag) wird explizit als Nicht-Anker markiert. In `02-cap-table-und-gesellschafterliste.md` wurde der irreführende Verweis auf eine angebliche Subscription-Liste in Datei 03 Ziff. 2 berichtigt — die 4,8/0,4-Aufteilung steht in Datei 02 selbst (CFO-Slack-Thread vom 28.05.2026); Datei 03 Ziff. 2 verlangt nur eine Lead-Mindestquote von 75 Prozent.
-- **Umlaut-Hygiene Testakte.** Sämtliche deutschen Wörter in der Testakte wurden auf korrekte Umlaute (ä/ö/ü/ß) umgestellt. Wortgrenzen-basiertes Ersetzungsskript mit expliziter Wörterliste; englische Termini (gross proceeds, business, issued, less, loss, passu, Voss, Stein, Goetheplatz, ...) bleiben unangetastet. 17 Dateien geändert.
+- **Umlaut-Hygiene Testakte.** Sämtliche deutschen Wörter in der Testakte wurden auf korrekte Umlaute (ä/ö/ü/ß) umgestellt. Wortgrenzen-basiertes Ersetzungsskript mit expliziter Wörterliste; englische Termini (groß proceeds, business, issued, less, loss, passu, Voss, Stein, Goetheplatz, ...) bleiben unangetastet. 17 Dateien geändert.
 - **Agio-Dogmatik in drei Plugins.** Echtes/korporatives vs. unechtes/schuldrechtliches Agio bei der GmbH; § 3 Abs. 2 GmbHG mit Dauerwirkung auch bei Kapitalerhöhung; Differenzierung nach Fälligkeit (Fall 1 keine Satzungsaufnahme erforderlich, Fall 2 Eintragungshindernis bei Nichtaufnahme); Sachagio im Rahmen des qualifizierten Anteilstauschs § 21 UmwStG; § 272 Abs. 2 Nr. 1 vs. Nr. 4 HGB; § 27 KStG steuerliches Einlagekonto. Rechtsprechung verifiziert: BGH II ZR 216/06; BGH BGHZ 80, 129; BGH BGHZ 71, 40 (Kali+Salz); BFH I R 53/08; BFH IX R 12/22.
   - **Neuer Skill `gesellschaftsrecht/skills/agio-und-kapitalruecklage`** mit voller Dogmatik, Praxismuster-Formulierungen, US-Term-Sheet-Übersetzung und Anfängerfehler-Katalog.
   - **Neuer Skill `corporate-kanzlei/skills/corporate-kanzlei-agio-und-kapitalerhoehungsstruktur`** mit Schnittstellen-Management (Notar, Steuerberater, Investor Counsel, CFO), Strukturierungsentscheidungen und Streitpunkten in der Praxis.
@@ -2388,8 +2438,8 @@ Sechs Codex-Review-Findings aus dem v35-PR systematisch behoben:
 - **Corporate Legal English Testakte massiv ausgebaut.** `testakten/gesellschaftsrecht-legal-english-frankfurt-startup/` von 7 auf 16 Dateien erweitert. Neue Dateien: `00-deal-personen-und-zeitleiste.md` (Cast, Zeitleiste, fiktive Eckdaten), `08-glossar-deutsch-englisch-fallstricke.md` (zwoelf Begriffspaare mit typischen Missverstaendnissen), `09-anfaengerfehler-katalog-mit-partner-rotstift.md` (fuenf Fehlerklassen mit Vorher/Nachher), `10-wandeldarlehen-tante-ermelind.md` (vollstaendiger Convertible Loan mit Discount 20 Prozent, Cap 10 Mio. EUR, 8 Prozent PIK), `11-investor-counsel-markup-roundtrip.md` (Markup-Email Brackenmuir & Quint LLP, interne Sortierung, 02:14-Uhr-Antwort), `12-notar-checkliste-und-handelsregisterlogik.md` (Notariat Schwartz, § 5 BeurkG, Einheitsdoktrin, § 40 GmbHG), `13-side-letter-und-information-rights.md` (Stahlauge Seed Side Letter, Northbridge Series A Side Letter), `14-board-und-consent-matters-mapping-de-en.md` (zehn Reserved Matters mit DE-Umsetzung), `15-closing-checkliste-cp.md` (30 CPs, Gap-Analyse, Post-Closing). Bestandsdateien 01 bis 07 substantiell ausgebaut (Term Sheet jetzt mit vollstaendigem Definitions-Set, SHA-Synopse Seed/Series A, DD-Index mit Datenraumstruktur, Associate-Notiz mit Partner-Rotstift, Pruefraster 100 Punkte).
 - **README der Testakte neu strukturiert** mit Lernpfaden A (Begriffsdisziplin, 2 Stunden), B (Mandatsanalyse, 4 Stunden), C (Vertiefung, 4 bis 6 Stunden) und D (Mandantenkommunikation, 1 bis 2 Stunden).
 - **Plugin-Versionsbump.** `gesellschaftsrecht-legal-english` von 24.1.0 auf 25.0.0 in `<plugin>/.claude-plugin/plugin.json` und `.claude-plugin/marketplace.json`.
-- **Codex-PR-Klarstellung Direktwirkung EU-Lohntransparenzrichtlinie** in `fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich/SKILL.md`. Praxishinweis: vertikale Direktwirkung gegenueber oeffentlichen Arbeitgebern (Van Duyn 41/74, Becker 8/81, Marshall 152/84) ab 07.06.2026, horizontale Direktwirkung gegenueber privaten Arbeitgebern grundsaetzlich ausgeschlossen (Marshall 152/84, Dansk Industri C-441/14); richtlinienkonforme Auslegung (Marleasing C-106/89) und Francovich-Staatshaftung (C-6/90, C-9/90) bleiben.
-- **Codex-PR-Klarstellung BVerfG 1 BvR 183/25** in `mietrecht/skills/mietspiegel-quellen/SKILL.md`. Der Nichtannahmebeschluss vom 08.01.2026 betrifft die 2020er Verlaengerung der Mietpreisbremse (§ 556d BGB in der Fassung vom 19.03.2020) und die Berliner Mietenbegrenzungsverordnung vom 19.05.2020, nicht das Verlaengerungsgesetz vom 17.07.2025 (BGBl. 2025 I Nr. 163, Geltung bis 31.12.2029). Verfassungsgerichtliche Pruefung der 2025er Verlaengerung steht noch aus.
+- **Codex-PR-Klarstellung Direktwirkung EU-Lohntransparenzrichtlinie** in `fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich/SKILL.md`. Praxishinweis: vertikale Direktwirkung gegenueber oeffentlichen Arbeitgebern (Van Duyn 41/74, Becker 8/81, Marshall 152/84) ab 07.06.2026, horizontale Direktwirkung gegenueber privaten Arbeitgebern grundsätzlich ausgeschlossen (Marshall 152/84, Dansk Industri C-441/14); richtlinienkonforme Auslegung (Marleasing C-106/89) und Francovich-Staatshaftung (C-6/90, C-9/90) bleiben.
+- **Codex-PR-Klarstellung BVerfG 1 BvR 183/25** in `mietrecht/skills/mietspiegel-quellen/SKILL.md`. Der Nichtannahmebeschluss vom 08.01.2026 betrifft die 2020er Verlaengerung der Mietpreisbremse (§ 556d BGB in der Fassung vom 19.03.2020) und die Berliner Mietenbegrenzungsverordnung vom 19.05.2020, nicht das Verlaengerungsgesetz vom 17.07.2025 (BGBl. 2025 I Nr. 163, Geltung bis 31.12.2029). Verfassungsgerichtliche Prüfung der 2025er Verlaengerung steht noch aus.
 
 ## Qualitätssicherung
 
@@ -2421,11 +2471,11 @@ Sechs Codex-Review-Findings aus dem v35-PR systematisch behoben:
 # v24.2.0 — References-Einzelfix und UNVERIFIABLE-Online-Check
 
 - **Welle 5 — References-Einzelfix.** Die 16 in v24.1.0 noch offenen toten `references/`-Verweise einzeln durchgegangen. 14 waren falsch-positiv (Aufloesungspfade, ASCII-Tree-Beispiele, generierte Skills). 1 echter Bug gefixt: `produktrecht/skills/produktrecht-kaltstart-interview` verwies auf `references/launch-pruefung-framework-de.md`, korrigiert auf den realen Pfad `produktrecht/skills/launch-pruefung/references/seven-category-framework.md`. 2 Laufzeit-Cache-Verweise (`kanzlei-builder-hub`: `registry-cache.json`, `surfaced.json`) durch leere `references/`-Verzeichnisse mit `README.md`-Hinweis dokumentiert.
-- **Welle 6 — UNVERIFIABLE-Online-Check.** Die 893 in Welle 2 als UNVERIFIABLE markierten Aktenzeichen wurden online gegen dejure.org, BGH-/BAG-/BFH-/BSG-Datenbanken, Curia, openJur und Landesjustizportale geprueft (20 parallele Batches a ~45 AZ). Ergebnis: 148 rehabilitiert, 621 in Schnellrunde nicht auffindbar, 30 widerspruechlich, 94 uebersprungen. Konservative Strip-Strategie (Welle-1-NOT_FOUND + Original-Audit-Negativ-Marker, ohne positive Hinweise) lieferte 7 sichere Loeschkandidaten – alle bereits durch v24.1.0 entfernt. Welle 6 entfernt netto keine weiteren Zeilen, liefert aber die konsolidierte Klassifikation in `audit/welle2_unverifiable_audit_2026-05-29.json` und die 20 Roh-Batches in `audit/unverifiable_batches/` als Grundlage fuer kuenftige Reparaturwellen.
+- **Welle 6 — UNVERIFIABLE-Online-Check.** Die 893 in Welle 2 als UNVERIFIABLE markierten Aktenzeichen wurden online gegen dejure.org, BGH-/BAG-/BFH-/BSG-Datenbanken, Curia, openJur und Landesjustizportale geprueft (20 parallele Batches a ~45 AZ). Ergebnis: 148 rehabilitiert, 621 in Schnellrunde nicht auffindbar, 30 widerspruechlich, 94 uebersprungen. Konservative Strip-Strategie (Welle-1-NOT_FOUND + Original-Audit-Negativ-Marker, ohne positive Hinweise) lieferte 7 sichere Loeschkandidaten – alle bereits durch v24.1.0 entfernt. Welle 6 entfernt netto keine weiteren Zeilen, liefert aber die konsolidierte Klassifikation in `audit/welle2_unverifiable_audit_2026-05-29.json` und die 20 Roh-Batches in `audit/unverifiable_batches/` als Grundlage für kuenftige Reparaturwellen.
 - **Audit-Bericht erweitert.** `audit/README.md` enthaelt jetzt sechs Wellen mit Methodik und Befunden.
 - **Versionsbump.** Alle 103 Plugins (inkl. neuer `meinungspruefer`), Marketplace-Top-Level und alle Marketplace-Plugin-Eintraege einheitlich auf `24.2.0`.
-- **Neues Plugin `meinungspruefer`** mit 36 Skills zur Pruefung von Aeusserungen nach einfachem Recht, Verfassungsrecht, Europarecht und Rechtsvergleich: Meinung/Tatsache, Beleidigung, ueble Nachrede, Verleumdung, § 188 StGB, § 193 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR-/EuGH-Rechtsprechung, OLG-/KG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Arbeitsplatz, Schule und kommunale Machtkritik. Rechtsprechungsbank mit frei pruefbaren Quellen und ohne BeckRS-/Kommentar-/Aufsatz-Blindzitate.
-- Neue Testakte **`meinungspruefer-grenzfaelle-alltag`** mit X-Post zum kommunalen Bauprojekt, LinkedIn-Pinocchio, Kantinenaeusserung ueber Zahlen, Elternchat, Buergermeister-"Lackaffe", Abmahnung, polizeilicher Anhoerung, Belegmappe und USA-Vergleichsnotiz.
+- **Neues Plugin `meinungspruefer`** mit 36 Skills zur Prüfung von Aeusserungen nach einfachem Recht, Verfassungsrecht, Europarecht und Rechtsvergleich: Meinung/Tatsache, Beleidigung, ueble Nachrede, Verleumdung, § 188 StGB, § 193 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR-/EuGH-Rechtsprechung, OLG-/KG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Arbeitsplatz, Schule und kommunale Machtkritik. Rechtsprechungsbank mit frei pruefbaren Quellen und ohne BeckRS-/Kommentar-/Aufsatz-Blindzitate.
+- Neue Testakte **`meinungspruefer-grenzfaelle-alltag`** mit X-Post zum kommunalen Bauprojekt, LinkedIn-Pinocchio, Kantinenaeusserung über Zahlen, Elternchat, Buergermeister-"Lackaffe", Abmahnung, polizeilicher Anhoerung, Belegmappe und USA-Vergleichsnotiz.
 
 ## Qualitätssicherung
 
@@ -2441,7 +2491,7 @@ Sechs Codex-Review-Findings aus dem v35-PR systematisch behoben:
 - **Welle 4 — References-Konsistenz.** 17 tote Markdown-Verweise auf `references/`-Dateien identifiziert; einer (`rechtsberatungsstelle/.../pruef-warteschlange.yaml` → `review-queue.yaml`) gefixt. Die restlichen 16 sind in `audit/references_audit_2026-05-29.json` dokumentiert.
 - **Konversationsstil-Update.** `CLAUDE.md` und alle 102 `<plugin>/skills/allgemein/SKILL.md` erhalten einen verbindlichen Block: erste Antwort konzis, hoechstens eine unverzichtbare Rueckfrage, dann schnell zur Dokumentenproduktion. Ausfuehrlich nur bei echter Subsumtion, Tabellen, Risikoanalysen oder Schriftsatz-/Memo-Text. Allgemein-Skills sind Einstieg, nicht Vorlesung.
 - **Frontmatter-Konvention geschaerft.** `CLAUDE.md` listet jetzt die verbotenen Frontmatter-Felder explizit (`triggers`, `when_to_use`, `language`, `rechtsgebiet`, `license`, `argument-hint`, `user-invocable`, `allowed_tools`, `tools`, `model`, `adapted_from`, `version`, `related_skills`).
-- **LG Aachen 10 O 306/25 (Urteil vom 27.05.2026) als Leitentscheidung aufgenommen** in: `bgb-at-pruefer/.../kauf-im-internet-und-auktionen`, `bgb-at-pruefer/.../gesetzesverbot-sittenwidrigkeit-paragraphen-134-138`, `vertragsrecht/.../vertragspruefung`, `produktrecht/.../feature-risikobewertung`. Inhalt: Button-Beschriftung "Wette abgeben" beim Online-Gluecksspiel genuegt nicht § 312j Abs. 3 BGB; endgueltige Unwirksamkeit nach Abs. 4; Rueckabwicklung nach § 812 BGB unabhaengig von Lizenz. Quellenhinweis: offizieller Volltext zum Aufnahmezeitpunkt noch nicht oeffentlich; Aufnahme erfolgte auf Basis Pressehinweis Gamesright GmbH / rightmart, 28.05.2026.
+- **LG Aachen 10 O 306/25 (Urteil vom 27.05.2026) als Leitentscheidung aufgenommen** in: `bgb-at-pruefer/.../kauf-im-internet-und-auktionen`, `bgb-at-pruefer/.../gesetzesverbot-sittenwidrigkeit-paragraphen-134-138`, `vertragsrecht/.../vertragspruefung`, `produktrecht/.../feature-risikobewertung`. Inhalt: Button-Beschriftung "Wette abgeben" beim Online-Gluecksspiel genuegt nicht § 312j Abs. 3 BGB; endgueltige Unwirksamkeit nach Abs. 4; Rueckabwicklung nach § 812 BGB unabhaengig von Lizenz. Quellenhinweis: offizieller Volltext zum Aufnahmezeitpunkt noch nicht öffentlich; Aufnahme erfolgte auf Basis Pressehinweis Gamesright GmbH / rightmart, 28.05.2026.
 - **Audit-JSON-Fix bewahrt.** Zwei unescapte Quotes (Z. 425, 7661) aus dem Vollaudit-JSON sind gefixt (bereits in v24.0.0 als Commit `5b0676ef` gepusht).
 
 ## Qualitätssicherung
@@ -2679,11 +2729,11 @@ Version 15 buendelt die nachgelieferten Perplexity-/Klar-Ausbauten mit dem neuen
 
 ## Neue und stark ausgebaute Inhalte
 
-- **`lobbyregister-bundestag` neu:** 50 gefuehrte Skills fuer Registrierungspflicht, Ausnahmen, Portal-Eingabeplan, Finanzdaten, Regelungsvorhaben, Stellungnahmen/Gutachten, Verhaltenskodex, Aktualisierung, Bussgeldrisiken, RfS-Kommunikation und Revisionsspur.
+- **`lobbyregister-bundestag` neu:** 50 gefuehrte Skills für Registrierungspflicht, Ausnahmen, Portal-Eingabeplan, Finanzdaten, Regelungsvorhaben, Stellungnahmen/Gutachten, Verhaltenskodex, Aktualisierung, Bussgeldrisiken, RfS-Kommunikation und Revisionsspur.
 - **Open Data/API V2 im Lobbyregister:** eigene Referenz, API-Abfrageplan, JSON-Mapping, Registerexport-Diff und Monitoringplan. Die API wird bewusst als lesende Kontrollschicht gefuehrt; Registrierung und Aktualisierung bleiben Portalhandlungen.
 - **Drei Lobbyregister-Testakten:** Dublin-Bank mit Frankfurter Zweigniederlassung und Doppelregistrierungsproblem, Public-Affairs-Agentur Wasserstoff, Bürgerinitiative Waldmoor. Alle drei enthalten API-/Export-Diff-Artefakte.
 - **Selbstvertreter-Plugins:** Amtsgericht und Sozialgericht sind auf `main` integriert und in die Marketplace-/Release-Struktur aufgenommen.
-- **Steuerberater-Werkzeuge:** `steuerrecht-anwalt-und-berater` enthaelt die neuen StB-Skills fuer BWA, SuSa, Lohn, Jahresabschluss, DBA, Mandantenkommunikation und Software-/Portalroutinen.
+- **Steuerberater-Werkzeuge:** `steuerrecht-anwalt-und-berater` enthaelt die neuen StB-Skills für BWA, SuSa, Lohn, Jahresabschluss, DBA, Mandantenkommunikation und Software-/Portalroutinen.
 - **Audit-Fixes:** Halluzinations- und Aktenzeichen-Reparaturwellen aus den v14.2.x Hotfixes sind mitenthalten.
 
 ## Release-Stand
@@ -2698,21 +2748,21 @@ Version 15 buendelt die nachgelieferten Perplexity-/Klar-Ausbauten mit dem neuen
 - `node scripts/validate-plugin-structure.mjs`
 - `git diff --check`
 - JSON-Parsing der neuen Lobbyregister-Testakten
-- Release-ZIP-Validierung ueber `scripts/validate-release-zips.py` im Build/Workflow
+- Release-ZIP-Validierung über `scripts/validate-release-zips.py` im Build/Workflow
 
 ---
 
-# v14.2.0 — Vollumfaenglicher Wissensboost ueber alle 1800+ Skills
+# v14.2.0 — Vollumfaenglicher Wissensboost über alle 1800+ Skills
 
-Inhaltlicher Tiefenboost ueber alle 97 Plugins und ueber 1800 Skills. Jeder bearbeitete Skill bekommt eine konkrete Triage zum Mandatseinstieg, eine vollstaendige Paragrafenkette mit Wortlaut der zentralen Tatbestandsmerkmale, zwei bis vier aktuelle Leitsatz-Zitate aus BVerfG BGH BAG BFH BSG BVerwG EuGH oder OLG mit Aktenzeichen und Fundstelle, Hinweise auf die zentrale Kommentarliteratur des Rechtsgebiets, einen Schritt-fuer-Schritt-Workflow und ein passendes Output-Template fuer Schriftsatz Bescheid Beschluss oder Mandantenbrief. Strukturelle Bereinigung Plugin sozialrecht-kanzlei vollstaendig nach fachanwalt-sozialrecht uebernommen und alte Light-Touch-Selbstbezeichnung entfernt.
+Inhaltlicher Tiefenboost über alle 97 Plugins und über 1800 Skills. Jeder bearbeitete Skill bekommt eine konkrete Triage zum Mandatseinstieg, eine vollstaendige Paragrafenkette mit Wortlaut der zentralen Tatbestandsmerkmale, zwei bis vier aktuelle Leitsatz-Zitate aus BVerfG BGH BAG BFH BSG BVerwG EuGH oder OLG mit Aktenzeichen und Fundstelle, Hinweise auf die zentrale Kommentarliteratur des Rechtsgebiets, einen Schritt-für-Schritt-Workflow und ein passendes Output-Template für Schriftsatz Bescheid Beschluss oder Mandantenbrief. Strukturelle Bereinigung Plugin sozialrecht-kanzlei vollstaendig nach fachanwalt-sozialrecht uebernommen und alte Light-Touch-Selbstbezeichnung entfernt.
 
 ## Was sich pro geboostetem Skill geaendert hat
 
-- **Triage zum Einstieg** — fuenf bis sieben konkrete Vorabfragen mit Begruendung warum sie zu klaeren sind
+- **Triage zum Einstieg** — fuenf bis sieben konkrete Vorabfragen mit Begruendung warum sie zu klären sind
 - **Zentrale Normen mit Wortlaut** — Paragrafenkette mit kursivem Tatbestandsmerkmal nicht nur Paragrafennummer
 - **Aktuelle Rechtsprechung** — zwei bis vier Leitsaetze BVerfG BGH BAG BFH BSG BVerwG EuGH OLG mit Aktenzeichen Fundstelle Randnummer Paraphrase
-- **Kommentarliteratur** — die ein bis drei einschlaegigen Standardkommentare fuer das Rechtsgebiet
-- **Workflow in Schritten** — von Aktenanlage ueber Substantiierung bis Versand
+- **Kommentarliteratur** — die ein bis drei einschlaegigen Standardkommentare für das Rechtsgebiet
+- **Workflow in Schritten** — von Aktenanlage über Substantiierung bis Versand
 - **Output-Template mit Platzhaltern** — Schriftsatz Bescheid Beschluss Klage Mandantenbrief
 - **Rote Schwellen und Eskalationskriterien** — wann Fall an Fachanwalt oder Notar abgegeben gehoert
 - **Verzicht auf Boilerplate** — keine generischen Phrasen mehr keine Wiederholungen
@@ -2743,14 +2793,14 @@ Kommentar-, Handbuch- und Aufsatzfundstellen werden nicht aus Modellwissen erzeu
 ## Strukturelle Bereinigung
 
 - **Plugin sozialrecht-kanzlei** wurde vollstaendig in **fachanwalt-sozialrecht** ueberfuehrt. 20 Skills wurden verschoben vier doppelt vorhandene Themen wurden gemergt. Das Fachanwalt-Plugin enthaelt jetzt sowohl die Fachanwalt-Rechtsprechungstiefe als auch die volle Kanzleioperative — Bescheidanalyse Akteneinsicht Anlagen Eilantrag Hilfsmittel Pflegegrad Fristenbuch und PKH.
-- **Light-Touch-Selbstbezeichnung entfernt** in 51 Files. Plugins fuer Fachanwaltschaft sind nicht laenger Light-Touch sondern vollumfaenglich.
+- **Light-Touch-Selbstbezeichnung entfernt** in 51 Files. Plugins für Fachanwaltschaft sind nicht laenger Light-Touch sondern vollumfaenglich.
 - **SKILLS.md** mit funktionierenden GitHub-Anker-Links und Zwei-Spalten-Tabelle pro Plugin direkt verlinkt zur SKILL.md.
 
 ## Qualitaetssicherung
 
 - Validator `node scripts/validate-plugin-structure.mjs` final OK
 - Komma-Sweep in plugin.json und SKILL.md Frontmatter `description:` ueberall ohne Komma zwischen Ziffern
-- Cyrillic-Confusables-Sweep ueber alle bearbeiteten Files clean
+- Cyrillic-Confusables-Sweep über alle bearbeiteten Files clean
 - Keine verbotenen Frontmatter-Felder (triggers when_to_use language rechtsgebiet license argument-hint user-invocable allowed_tools tools model adapted_from)
 - Keine XML-Brackets in description-Feldern
 - YAML-Quoting bei descriptions mit Doppelpunkt-Konstrukten korrekt
@@ -2758,10 +2808,10 @@ Kommentar-, Handbuch- und Aufsatzfundstellen werden nicht aus Modellwissen erzeu
 ## Versionsstand nach v14.2.0
 
 - 97 Plugins
-- Ueber 1800 boostfaehige Skills bearbeitet (44 Skills waren bereits auf v14.1-Niveau und wurden ohne weitere Aenderung uebernommen)
+- Über 1800 boostfaehige Skills bearbeitet (44 Skills waren bereits auf v14.1-Niveau und wurden ohne weitere Aenderung uebernommen)
 - alle plugin.json und marketplace.json auf version `14.2.0`
 
-# v14.1.0 — Grosser Inhalts-Boost (145 Top-Skills auf dreifache Tiefe)
+# v14.1.0 — Großer Inhalts-Boost (145 Top-Skills auf dreifache Tiefe)
 
 Inhaltliche Verdreifachung der 145 fachlich wichtigsten Skills in allen 24 Fachanwalt-Plugins sowie in `steuerrecht-anwalt-und-berater` und den fuenf Corporate-Plugins (`corporate-kanzlei`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `gesellschaftsrecht`, `gesellschaftsgruender`). Generische Boilerplate-Skills (Erstgespraech, Vergleichsverhandlung, Mandantenkommunikation) sind aus dem Boost ausgenommen — der Fokus liegt auf der fachlichen Substanz.
 
@@ -2810,11 +2860,11 @@ Zwei alte Validator-Fehler in nicht-geboosteten Skills (Komma-in-Zahlen-Pattern 
 
 # v14.0.0 — Frischer Major-Release
 
-Frischer Sammelrelease ueber alle 98 Plugins. Der Versionssprung von 12.x auf 14.0 markiert das Ende des 12er-Inkrement-Zyklus und buendelt den aktuellen Stand der Skill-Familie als einheitliches Major-Release.
+Frischer Sammelrelease über alle 98 Plugins. Der Versionssprung von 12.x auf 14.0 markiert das Ende des 12er-Inkrement-Zyklus und buendelt den aktuellen Stand der Skill-Familie als einheitliches Major-Release.
 
 ## Bug-Hunt Immobilienrechtspraxis
 
-Der Immobilien-Plugin-Schwerpunkt dieses Releases ist eine systematische Bug-Pruefung. Geprueft wurden Frontmatter-Felder, Description-Laengen, verbotene Pattern (Komma in Zahlen), verbotene Frontmatter-Keys, Cross-References, kaputte Markdown-Links und Mischformen aus Umlauten und ASCII-Aequivalenten.
+Der Immobilien-Plugin-Schwerpunkt dieses Releases ist eine systematische Bug-Prüfung. Geprueft wurden Frontmatter-Felder, Description-Laengen, verbotene Pattern (Komma in Zahlen), verbotene Frontmatter-Keys, Cross-References, kaputte Markdown-Links und Mischformen aus Umlauten und ASCII-Aequivalenten.
 
 - Inkonsistente Schreibweise `Buerogeb\u00e4ude` (ASCII-Mix mit Umlaut) zu `B\u00fcrogeb\u00e4ude` korrigiert (`projekt-arbeitsweise`).
 - Cross-Reference auf `memorandums-ersteller` validiert (Plugin existiert im Marketplace, Verweis bleibt).
@@ -2843,7 +2893,7 @@ Drei kuerzlich entschiedene BAG-Urteile, die die Arbeitnehmerseite spuerbar stae
 
 - `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich` — Anwaltsperspektive auf 8 AZR 300/24: Kaltstart-Rueckfragen, Klagebaustein Equal Pay, typische Arbeitgeber-Verteidigung und Reaktion.
 - `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` — Anwaltsperspektive auf 9 AZR 104/24: empfohlene Vergleichsformulierung, Klausel-Verbote, Nachforderungsmoeglichkeit bei bereits geschlossenem Pauschalvergleich.
-- `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` — Anwaltsperspektive auf 5 AZR 108/25: Strategie fuer Beschaeftigungsanspruch oder Verhandlungsmasse, Schriftsatzbaustein, Annahmeverzugsfolgen.
+- `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` — Anwaltsperspektive auf 5 AZR 108/25: Strategie für Beschaeftigungsanspruch oder Verhandlungsmasse, Schriftsatzbaustein, Annahmeverzugsfolgen.
 
 ## Plugin-Metadaten
 
@@ -2855,13 +2905,13 @@ Drei kuerzlich entschiedene BAG-Urteile, die die Arbeitnehmerseite spuerbar stae
 
 # v12.5.0 — Arbeitszeugnis-Analyse: Vollstaendiger Mandatsablauf
 
-Schliesst den Mandatsworkflow im `arbeitszeugnis-analyse` Plugin: vom Erstkontakt mit dem Mandanten ueber den Ergebnisbericht bis zum Aufforderungsschreiben an den Arbeitgeber. Das Plugin deckt damit nicht nur die Analyse des Zeugnistextes ab, sondern den gesamten Anwaltsworkflow von der Mandatsannahme bis zum Berichtigungsverlangen.
+Schliesst den Mandatsworkflow im `arbeitszeugnis-analyse` Plugin: vom Erstkontakt mit dem Mandanten über den Ergebnisbericht bis zum Aufforderungsschreiben an den Arbeitgeber. Das Plugin deckt damit nicht nur die Analyse des Zeugnistextes ab, sondern den gesamten Anwaltsworkflow von der Mandatsannahme bis zum Berichtigungsverlangen.
 
 ## Neue Skills (drei)
 
-- `erstgespraech-und-mandatsannahme` — Eingangsbestaetigung mit Dank fuer das uebersandte Zeugnis, strukturierte Anforderungsliste fuer fehlende Unterlagen (Arbeitsvertrag, Aenderungsvereinbarungen, Vorzeugnisse, Kuendigungsschreiben, Abmahnungen, Fehlzeitenuebersicht, Lohnabrechnungen), Erstgespraech-Leitfaden in fuenf Bloecken (Sachverhalt, Ziel, Vergleichsbereitschaft, rechtliche Erstinformation, Vereinbarung), Pruefliste vor Mandatsannahme.
-- `mandantenbericht-zeugnisanalyse` — Schriftlicher Ergebnisbericht an den Arbeitnehmer in sieben Abschnitten: Gesamtnote, Befund pro Themenbereich, kritische Einzelstellen mit Wortlaut, rechtliche Einordnung, Erfolgsaussichten in drei Stufen, drei Handlungsoptionen (Akzeptanz, Berichtigungsverlangen, Klage) mit Kosten-Nutzen-Abwaegung, klare Empfehlung. Verstaendliche Sprache fuer den juristischen Laien.
-- `aufforderungsschreiben-arbeitgeber` — Aussergerichtliches Berichtigungsverlangen mit acht Bausteinen: Mandatsanzeige, Bezugnahme auf das Zeugnis, Rechtsgrundlage Paragraf 109 GewO, Beanstandungen pro Streitstelle (Wortlaut alt, Wortlaut neu, Begruendung mit BAG-Rechtsprechung und Geheimcode-Hinweis), Schlussformel-Pruefung, kalendermaessige Fristsetzung, Klageandrohung, Kostenfolge. Hoeflich-bestimmter Ton ohne Drohgebaerden. Vollstaendiger Mustertext mit Beispielen.
+- `erstgespraech-und-mandatsannahme` — Eingangsbestaetigung mit Dank für das uebersandte Zeugnis, strukturierte Anforderungsliste für fehlende Unterlagen (Arbeitsvertrag, Aenderungsvereinbarungen, Vorzeugnisse, Kuendigungsschreiben, Abmahnungen, Fehlzeitenuebersicht, Lohnabrechnungen), Erstgespraech-Leitfaden in fuenf Bloecken (Sachverhalt, Ziel, Vergleichsbereitschaft, rechtliche Erstinformation, Vereinbarung), Pruefliste vor Mandatsannahme.
+- `mandantenbericht-zeugnisanalyse` — Schriftlicher Ergebnisbericht an den Arbeitnehmer in sieben Abschnitten: Gesamtnote, Befund pro Themenbereich, kritische Einzelstellen mit Wortlaut, rechtliche Einordnung, Erfolgsaussichten in drei Stufen, drei Handlungsoptionen (Akzeptanz, Berichtigungsverlangen, Klage) mit Kosten-Nutzen-Abwaegung, klare Empfehlung. Verstaendliche Sprache für den juristischen Laien.
+- `aufforderungsschreiben-arbeitgeber` — Aussergerichtliches Berichtigungsverlangen mit acht Bausteinen: Mandatsanzeige, Bezugnahme auf das Zeugnis, Rechtsgrundlage Paragraf 109 GewO, Beanstandungen pro Streitstelle (Wortlaut alt, Wortlaut neu, Begruendung mit BAG-Rechtsprechung und Geheimcode-Hinweis), Schlussformel-Prüfung, kalendermaessige Fristsetzung, Klageandrohung, Kostenfolge. Hoeflich-bestimmter Ton ohne Drohgebaerden. Vollstaendiger Mustertext mit Beispielen.
 
 ## Plugin-Metadaten
 
@@ -2873,13 +2923,13 @@ Schliesst den Mandatsworkflow im `arbeitszeugnis-analyse` Plugin: vom Erstkontak
 
 # v12.4.0 — Arbeitszeugnis-Analyse: Sprachhebel, Codeworte, Klagestrategie
 
-Vertiefung des `arbeitszeugnis-analyse` Plugins um drei spezialisierte Sprach- und Recht-Skills: feingranularer Steigerungsadverbien-Katalog, vollstaendiger Katalog negativer Codeworte fuer sensible Themen sowie eine durchgaengige Klagestrategie zur Zeugnisberichtigung von der ausserprozessualen Rueckforderung bis zum vollstreckbaren Tenor.
+Vertiefung des `arbeitszeugnis-analyse` Plugins um drei spezialisierte Sprach- und Recht-Skills: feingranularer Steigerungsadverbien-Katalog, vollstaendiger Katalog negativer Codeworte für sensible Themen sowie eine durchgaengige Klagestrategie zur Zeugnisberichtigung von der ausserprozessualen Rueckforderung bis zum vollstreckbaren Tenor.
 
 ## Neue Skills (drei)
 
 - `steigerungsadverbien-katalog` — Vier-Klassen-Matrix der Adverbien mit Notenwirkung: echte Steigerer (stets, jederzeit, immer), Schein-Steigerer mit Risiko (sehr, ausserordentlich nur in Kombination), Abschwaecher (im Allgemeinen, weitgehend, meist) und negative Verstaerker (nie, kaum, kein einziges Mal). Notenkalibrierung jeder Klasse, sodass die satzweise Bewertung das richtige Gewicht erhaelt.
 - `negative-codeworte-katalog` — Tabuthemen-Katalog mit den verdeckten Anspielungen auf Alkohol, Krankheit, Diebstahl/Untreue, Konflikt mit Vorgesetzten, mangelnde Loyalitaet, Betriebsratstaetigkeit, sexuelle Verfehlungen, Mitlaeufertum sowie systematischen Auslassungssignalen. Jede Kategorie mit den typischen Formulierungen und dem rechtlich gebotenen Tenor.
-- `klage-strategie-zeugnisberichtigung` — Vollstaendige prozessuale Linie: aussergerichtliches Berichtigungsverlangen, Klageantrag mit Tenor (vollstreckbar gemaess Paragraf 888 ZPO), Beweislastverteilung (Note ab Drei: Arbeitnehmer; oberhalb der Drei: Arbeitgeber), Streitwertberechnung, Verjaehrung/Verwirkung und prozesstaktische Empfehlungen.
+- `klage-strategie-zeugnisberichtigung` — Vollstaendige prozessuale Linie: aussergerichtliches Berichtigungsverlangen, Klageantrag mit Tenor (vollstreckbar gemäß Paragraf 888 ZPO), Beweislastverteilung (Note ab Drei: Arbeitnehmer; oberhalb der Drei: Arbeitgeber), Streitwertberechnung, Verjaehrung/Verwirkung und prozesstaktische Empfehlungen.
 
 ## Geaenderte Skills
 
@@ -2901,8 +2951,8 @@ Spezialisierter Ausbau des `arbeitszeugnis-analyse` Plugins um die Erkennung des
 ## Neue Skills (drei)
 
 - **`bereichs-drift-detektor`** — Erkennt Drift innerhalb derselben acht Themenbereiche (Fachkenntnisse, Lernbereitschaft, strategisches Denken, Arbeitsweise, Engagement, Innovation, Arbeitsergebnis, Sozialverhalten). Spreizung zwei Stufen = Rot, eine Stufe = Orange. Drift in weichen Bereichen (Lernen, Innovation, Sozialverhalten) wird gesondert geflaggt.
-- **`satzweise-notenmatrix`** — Bewertet jeden notenrelevanten Satz mit Schulnote von eins bis fuenf. Festes Raster: Steigerungsadverb plus Superlativ = 1, eins davon = 2, Grundaussage = 3, Einschraenkung oder "bemueht" = 4, Distanzformel = 5. Tabellarisches Ausgabeformat mit Themenbereich pro Satz — Datenbasis fuer Drift-Detektor und Gesamtnoten-Aggregation.
-- **`muster-arbeitszeugnis-gemischte-noten`** — Vollstaendiges anonymisiertes Schulungszeugnis mit Schaufenster-Pattern. Zeigt 1er- und 3er-Saetze gemischt, vollstaendige Satz-fuer-Satz-Notenmatrix, Bereichs-Drift-Analyse und gewichtete Gesamtnote mit Drift-Penalty.
+- **`satzweise-notenmatrix`** — Bewertet jeden notenrelevanten Satz mit Schulnote von eins bis fuenf. Festes Raster: Steigerungsadverb plus Superlativ = 1, eins davon = 2, Grundaussage = 3, Einschraenkung oder "bemueht" = 4, Distanzformel = 5. Tabellarisches Ausgabeformat mit Themenbereich pro Satz — Datenbasis für Drift-Detektor und Gesamtnoten-Aggregation.
+- **`muster-arbeitszeugnis-gemischte-noten`** — Vollstaendiges anonymisiertes Schulungszeugnis mit Schaufenster-Pattern. Zeigt 1er- und 3er-Saetze gemischt, vollstaendige Satz-für-Satz-Notenmatrix, Bereichs-Drift-Analyse und gewichtete Gesamtnote mit Drift-Penalty.
 
 ## Updates
 
@@ -2967,7 +3017,7 @@ Alle 98 Plugins und `marketplace.json` auf v12.3.0.
 ### Major-Feature: 4 neue Skills im Plugin `fachanwalt-strafrecht`
 
 - `fachanwalt-strafrecht-nebenklage-opfervertretung` — Nebenklagebefugnis § 395 StPO, Anschluss § 396 StPO, Opferanwaltsbeiordnung § 397a StPO, Akteneinsicht § 406e StPO, psychosoziale Prozessbegleitung § 406g StPO, RVG VV Nr. 4124 ff.
-- `fachanwalt-strafrecht-zeugenbeistand` — Beistand gemaess § 68b StPO, Pruefung § 55 StPO Selbstbelastung, §§ 52-53 StPO Zeugnisverweigerung, Adressanonymisierung § 68 Abs. 2/3 StPO, Whistleblower-Konstellation.
+- `fachanwalt-strafrecht-zeugenbeistand` — Beistand gemäß § 68b StPO, Prüfung § 55 StPO Selbstbelastung, §§ 52-53 StPO Zeugnisverweigerung, Adressanonymisierung § 68 Abs. 2/3 StPO, Whistleblower-Konstellation.
 - `fachanwalt-strafrecht-adhaesionsverfahren` — zivilrechtliche Anspruche im Strafverfahren §§ 403-406c StPO, Antrag § 404 StPO, Vergleich § 405 StPO als Vollstreckungstitel, Grundurteil § 406 StPO, RVG VV Nr. 4143-4147.
 - `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` — Insolvenzantrag StA / Finanzamt gegen Angeklagte, Doppelspur Strafverfahren-Insolvenzverfahren, Vermoegensabschoepfung §§ 73 ff. StGB und Beschlagnahme §§ 111b ff. StPO, § 111i StPO, Schweigerecht vs. § 97 InsO.
 
@@ -2986,7 +3036,7 @@ Drei Skills im Plugin `fachanwalt-strafrecht` enthielten zivilrechtliche Reste a
 - Slash-Command-Verweise in `tests/smoke-tests.md` und `kanzlei-cowork-kaltstart-interview` von `/kanzlei-cowork:` auf `/kanzlei-allgemein:` umgestellt.
 - `tests/smoke-tests.md`: Abschnitt-Header von `## kanzlei-cowork (rechnungserstellung-rvg)` auf `## kanzlei-allgemein (rechnungserstellung-rvg)` umgestellt.
 - `kanzlei-allgemein/.claude-plugin/plugin.json`: Keyword `kanzlei-cowork` aus Liste entfernt (Migrations-Hinweis in README/CHANGELOG bleibt).
-- Workflow-Validator-Fixes aus v11.0.0-Schluss: `README.md` ohne toten Link `./kanzlei-cowork`; `testakten/README.md` mit allen 46 Akten (vorher 44), inkl. zwei neuer Tabellen-Zeilen und ZIP-Eintraege fuer `dsa-dma-bayrische-baustube-meissner` und `sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger`.
+- Workflow-Validator-Fixes aus v11.0.0-Schluss: `README.md` ohne toten Link `./kanzlei-cowork`; `testakten/README.md` mit allen 46 Akten (vorher 44), inkl. zwei neuer Tabellen-Zeilen und ZIP-Eintraege für `dsa-dma-bayrische-baustube-meissner` und `sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger`.
 
 ### Repo-Stand v12.0.0
 
@@ -3034,7 +3084,7 @@ Neuer Skill in `schriftform-und-textform-bgb`:
 
 ### Maklerskill BGH I ZR 202/25 — voll ueberarbeitet
 
-`maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25` komplett neu geschrieben mit 4 verifizierten Leitsaetzen: E-Mail-Austausch erfuellt Textform auch auf getrennten Datentraegern; konkludenter Abschluss moeglich; Erklaerungsende muss erkennbar sein; Bereicherungsanspruch des Maklers gesperrt bei Textformverstoss. Falsche Lehrsaetze der Vorversion ersetzt.
+`maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25` komplett neu geschrieben mit 4 verifizierten Leitsaetzen: E-Mail-Austausch erfuellt Textform auch auf getrennten Datentraegern; konkludenter Abschluss möglich; Erklaerungsende muss erkennbar sein; Bereicherungsanspruch des Maklers gesperrt bei Textformverstoss. Falsche Lehrsaetze der Vorversion ersetzt.
 
 ### KI-Vorwurf bei Sachverstaendigengutachten
 

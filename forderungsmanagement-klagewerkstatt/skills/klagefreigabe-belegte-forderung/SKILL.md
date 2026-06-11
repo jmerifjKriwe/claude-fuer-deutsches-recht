@@ -9,7 +9,7 @@ Bevor Klage eingereicht wird durchlaeuft die Forderung ein Pflicht-Pruefraster. 
 
 ## Pflicht-Raster
 
-| Punkt | Pruefung | Pass-Kriterium |
+| Punkt | Prüfung | Pass-Kriterium |
 |---|---|---|
 | 1 Bestehen | Anspruchsgrundlage benennbar Vertrag oder Gesetz | Ja Norm benannt |
 | 2 Faelligkeit | Datum Faelligkeit ermittelt | Ja Datum |
@@ -21,7 +21,7 @@ Bevor Klage eingereicht wird durchlaeuft die Forderung ein Pflicht-Pruefraster. 
 | 8 Aussicht | rechtlich begruendet | hoch oder mittel |
 | 9 Mandantenfreigabe | Mandant kennt Kostenrisiko zugestimmt | ja schriftlich |
 
-## Pruefung Aktenvermerk
+## Prüfung Aktenvermerk
 
 ```
 Klagefreigabe Forderungssache [Schuldner] - Akte [...]

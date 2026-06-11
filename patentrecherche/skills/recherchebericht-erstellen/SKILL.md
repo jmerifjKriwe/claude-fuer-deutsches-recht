@@ -150,7 +150,7 @@ Markdown-Datei `recherchebericht_<aktenzeichen>_<datum>.md` im Arbeitsverzeichni
 ## Triage-Fragen vor Recherchebericht-Erstellung
 
 Bevor der Bericht formatiert wird, klaere:
-1. Sind alle Rechercheergeb-nisse aus den vorangegangenen Skills (neuheit-pruefen, erfinderische-taetigkeit, FTO) vollstaendig?
+1. Sind alle Rechercheergeb-nisse aus den vorangegangenen Skills (neuheit-prüfen, erfinderische-taetigkeit, FTO) vollstaendig?
 2. Ist der Adressat des Berichts identifiziert (Mandant, Patentanwalt, Gericht)?
 3. Sind alle drei Disclaimer-Bloecke im Bericht enthalten (Deckblatt, Methodik, Abschluss)?
 4. Ist der Stichtag der Recherche im Dateinamen und im Bericht korrekt vermerkt?
@@ -161,4 +161,4 @@ Bevor der Bericht formatiert wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **DPMA, Bekanntmachung 2022 (Verwertungsberichte):** Im Zusammenhang mit Patentbewertungen und Recherchen für IP-Portfoliokauf erwartet das DPMA vollstaendige Angaben ueber bekannte Wettbewerber-Rechte; ein Bericht, der bekannte Kollisionspunkte nicht nennt, kann als unvollstaendige Auskunft und Berufspflichtverletzung angesehen werden.
+> **DPMA, Bekanntmachung 2022 (Verwertungsberichte):** Im Zusammenhang mit Patentbewertungen und Recherchen für IP-Portfoliokauf erwartet das DPMA vollstaendige Angaben über bekannte Wettbewerber-Rechte; ein Bericht, der bekannte Kollisionspunkte nicht nennt, kann als unvollstaendige Auskunft und Berufspflichtverletzung angesehen werden.

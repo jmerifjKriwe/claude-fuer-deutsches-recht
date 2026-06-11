@@ -17,10 +17,10 @@ Praxis: Verwalter waehlen typischerweise Erfuellungsverweigerung, wenn das IP an
 
 | Entscheidung | Tragende Aussage |
 |---|---|
-| BGH IX ZR 161/05 (2007) | Wahlrecht $ 103 InsO gilt auch fuer Lizenzvertraege, nicht nur Kaufvertraege - live verifizieren |
+| BGH IX ZR 161/05 (2007) | Wahlrecht $ 103 InsO gilt auch für Lizenzvertraege, nicht nur Kaufvertraege - live verifizieren |
 | BGH IX ZR 220/09 (2012) | Bei dinglich uebertragener Lizenz kein Wahlrecht (keine gegenseitige Pflicht mehr offen) |
 
-→ Wer dinglich uebertragene Lizenz mit Voraussetzungen fuer Bestaendigkeit gestaltet, schuetzt den Lizenznehmer.
+→ Wer dinglich uebertragene Lizenz mit Voraussetzungen für Bestaendigkeit gestaltet, schuetzt den Lizenznehmer.
 
 ## Gestaltungsmoeglichkeiten
 
@@ -44,13 +44,13 @@ Bank gibt Lizenz als Sicherheit; im Insolvenzfall verwertet die Bank die Sicherh
 
 > **$ 16 Insolvenzfestigkeit.**
 >
-> (1) Die Parteien sind sich einig, dass die in diesem Vertrag eingeraeumten Nutzungsrechte als dinglich uebertragen gelten, soweit dies nach deutschem Recht zulaessig ist.
+> (1) Die Parteien sind sich einig, dass die in diesem Vertrag eingeraeumten Nutzungsrechte als dinglich uebertragen gelten, soweit dies nach deutschem Recht zulässig ist.
 >
-> (2) Sollte ein Insolvenzverfahren ueber das Vermoegen des Lizenzgebers eroeffnet werden, gilt die Hinterlegung beim Escrow-Agent gemaess $ 14 als Sicherungsmittel im Sinne der $$ 50, 51 InsO. Der Lizenznehmer ist berechtigt, die hinterlegten Materialien zu nutzen, soweit zur Wartung und Fortfuehrung des Lizenzbetriebs erforderlich, ohne dass dies einer Erfuellungswahl nach $ 103 InsO bedarf.
+> (2) Sollte ein Insolvenzverfahren über das Vermögen des Lizenzgebers eroeffnet werden, gilt die Hinterlegung beim Escrow-Agent gemäß $ 14 als Sicherungsmittel im Sinne der $$ 50, 51 InsO. Der Lizenznehmer ist berechtigt, die hinterlegten Materialien zu nutzen, soweit zur Wartung und Fortfuehrung des Lizenzbetriebs erforderlich, ohne dass dies einer Erfuellungswahl nach $ 103 InsO bedarf.
 >
-> (3) Bereits gezahlte Lizenzgebuehren fuer den vereinbarten Lizenzzeitraum stehen dem Lizenznehmer als bedingt erworbene Nutzungsrechte zu und unterliegen nicht dem Wahlrecht des Insolvenzverwalters.
+> (3) Bereits gezahlte Lizenzgebuehren für den vereinbarten Lizenzzeitraum stehen dem Lizenznehmer als bedingt erworbene Nutzungsrechte zu und unterliegen nicht dem Wahlrecht des Insolvenzverwalters.
 >
-> (4) Sofern Absatz 1 bis 3 rechtlich nicht durchgreifen, vereinbaren die Parteien eine Sicherungsabtretung des Lizenzgegenstands an [Sicherheitennehmer] gemaess separater Sicherungsabrede.
+> (4) Sofern Absatz 1 bis 3 rechtlich nicht durchgreifen, vereinbaren die Parteien eine Sicherungsabtretung des Lizenzgegenstands an [Sicherheitennehmer] gemäß separater Sicherungsabrede.
 
 ## Hinweise
 

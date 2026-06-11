@@ -3,27 +3,27 @@ name: saeumnis-im-termin-330-zpo
 description: "Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO. Wenn Sie nicht erscheinen oder nicht verhandeln Folgen Versaeumnisurteil Einspruch und Wiedereinsetzung bei unverschuldetem Versaeumnis."
 ---
 
-# Saeumnis im Termin: Konsequenzen und was Sie tun koennen
+# Saeumnis im Termin: Konsequenzen und was Sie tun können
 
 ## Worum geht es?
 
-Wenn Sie im Termin nicht erscheinen oder erscheinen und nicht verhandeln, sind Sie **saeumig**. Konsequenz: Gegnerin kann Versaeumnisurteil beantragen. Sie verlieren — und zwar ohne dass das Gericht in der Sache prueft. Aber: Einspruch ist moeglich. Diese Skill warnt vor Saeumnis und zeigt Reaktionen.
+Wenn Sie im Termin nicht erscheinen oder erscheinen und nicht verhandeln, sind Sie **saeumig**. Konsequenz: Gegnerin kann Versaeumnisurteil beantragen. Sie verlieren — und zwar ohne dass das Gericht in der Sache prüft. Aber: Einspruch ist möglich. Diese Skill warnt vor Saeumnis und zeigt Reaktionen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie koennen am Termin nicht erscheinen.
+- Sie können am Termin nicht erscheinen.
 - Sie sind im Termin und ueberlegen, vorzeitig zu gehen.
 - Sie haben einen Termin verpasst.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Saeumnis**: Nicht-Erscheinen oder Nicht-Verhandeln im Termin.
-- **Versaeumnisurteil (VU)**: Urteil ohne sachliche Pruefung.
+- **Versaeumnisurteil (VU)**: Urteil ohne sachliche Prüfung.
 - **Einspruch**: Rechtsmittel gegen VU, bringt Verfahren zurueck.
 
 ## Rechtsgrundlagen
 
-- **§ 330 ZPO** — VU gegen Klaeger bei Saeumnis.
+- **§ 330 ZPO** — VU gegen Kläger bei Saeumnis.
 - **§ 331 ZPO** — VU gegen Beklagten bei Saeumnis.
 - **§ 333 ZPO** — Saeumnis durch Nicht-Verhandeln.
 - **§ 338 ZPO** — Einspruch.
@@ -41,9 +41,9 @@ Wenn Sie im Termin nicht erscheinen oder erscheinen und nicht verhandeln, sind S
 
 #### Saeumis des Beklagten (§ 331 ZPO):
 
-- Klaeger stellt Antrag auf VU.
-- Gericht prueft Schluessigkeit der Klage; bei Schluessigkeit: VU.
-- Bei Unschluessigkeit: Klageabweisung (gegen Klaeger).
+- Kläger stellt Antrag auf VU.
+- Gericht prüft Schluessigkeit der Klage; bei Schluessigkeit: VU.
+- Bei Unschluessigkeit: Klageabweisung (gegen Kläger).
 
 #### Saeumnis des Klaegers (§ 330 ZPO):
 
@@ -116,9 +116,9 @@ Wenn 2 Wochen vorbei und Sie unverschuldet die Frist versaeumt haben: Wiedereins
 
 Sehr seltener Erfolg — bessere Strategie: rechtzeitig Einspruch.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **VU sofort vollstreckbar**: Klaeger kann pfaenden.
+- **VU sofort vollstreckbar**: Kläger kann pfaenden.
 - **2-Wochen-Frist** für Einspruch.
 - **Zweites VU nach Einspruch**: Definitive Niederlage.
 - **Krankheit attestieren**: Bei Termin-Verlegungs-Antrag.

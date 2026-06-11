@@ -13,11 +13,11 @@ description: "Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozia
 
 ## Worum geht es?
 
-Vor dem Sozialgericht muessen Sie nicht alles selbst beweisen. Das Gericht hat die Pflicht, von Amts wegen zu ermitteln. Es zieht Akten bei, holt Gutachten ein, fragt Aerzte. Diese Skill zeigt, was das für Sie konkret bedeutet.
+Vor dem Sozialgericht müssen Sie nicht alles selbst beweisen. Das Gericht hat die Pflicht, von Amts wegen zu ermitteln. Es zieht Akten bei, holt Gutachten ein, fragt Aerzte. Diese Skill zeigt, was das für Sie konkret bedeutet.
 
 ## In einfacher Sprache
 
-Das Gericht hilft Ihnen. Es sucht selbst nach der Wahrheit. Sie muessen nicht alles allein beweisen. Aber Sie sollten dem Gericht zeigen, wo es suchen muss.
+Das Gericht hilft Ihnen. Es sucht selbst nach der Wahrheit. Sie müssen nicht alles allein beweisen. Aber Sie sollten dem Gericht zeigen, wo es suchen muss.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -29,7 +29,7 @@ Das Gericht hilft Ihnen. Es sucht selbst nach der Wahrheit. Sie muessen nicht al
 
 - **Amtsermittlung**: Das Gericht muss von sich aus die Wahrheit erforschen.
 - **Untersuchungsgrundsatz**: Anderer Begriff für Amtsermittlung.
-- **Mitwirkungspflicht**: Sie muessen mitmachen, aber nicht alles alleine beweisen.
+- **Mitwirkungspflicht**: Sie müssen mitmachen, aber nicht alles alleine beweisen.
 - **Sachverstaendigen-Gutachten**: Bewertung durch einen Experten (Arzt, Gutachter).
 
 ## Rechtsgrundlagen
@@ -54,7 +54,7 @@ Das Gericht:
 
 ### Schritt 2 — Was Sie tun sollten
 
-Das Gericht hilft, aber Sie muessen den Anfangspunkt liefern:
+Das Gericht hilft, aber Sie müssen den Anfangspunkt liefern:
 
 - Klar benennen, welche Aerzte, Krankenhaeuser, Reha-Kliniken Sie behandelt haben (Namen und Adressen).
 - Eigene Unterlagen mitschicken (Atteste, Kontoauszuege).
@@ -95,7 +95,7 @@ Das Gericht ist nicht Hellseher. Wenn Sie wissen, dass es einen wichtigen Beweis
 
 ### Schritt 6 — Bei Beweisen widersprechen
 
-Wenn ein eingeholtes Gutachten falsch ist, koennen Sie:
+Wenn ein eingeholtes Gutachten falsch ist, können Sie:
 
 - Schriftlich widersprechen mit aerztlichem Gegen-Attest
 - Eigenes Gutachten nach § 109 SGG beantragen
@@ -105,11 +105,11 @@ Siehe `widerspruch-gegen-gutachten-laien`.
 
 ### Schritt 7 — Mitwirkungspflicht
 
-Sie muessen mitmachen. Wenn das Gericht zu Untersuchungen bittet, gehen Sie hin. Wenn Sie ohne Grund nicht erscheinen, kann das Verfahren zu Ihren Lasten ausgehen.
+Sie müssen mitmachen. Wenn das Gericht zu Untersuchungen bittet, gehen Sie hin. Wenn Sie ohne Grund nicht erscheinen, kann das Verfahren zu Ihren Lasten ausgehen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Amtsermittlung ist Ihre groesste Hilfe als Laie**: Sie muessen nicht alles selbst beweisen.
+- **Amtsermittlung ist Ihre groesste Hilfe als Laie**: Sie müssen nicht alles selbst beweisen.
 - **Listen Sie alle Aerzte auf**: vergessen Sie keinen Facharzt.
 - **Schweigepflichtsentbindung mit Klage einreichen**: das spart Wochen.
 - **Antworten Sie schnell** auf Hinweise des Gerichts.
@@ -150,6 +150,6 @@ Stand: 05/2026. § 103 SGG ist das Herz des Sozialgerichtsverfahrens. Stark Laie
 
 ### Anwendung im Skill
 
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

@@ -3,7 +3,7 @@ name: ladezone-regel-pruefen
 description: "StVO: Ladezone: Regel prüfen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Ladezone Regel Pruefen
+# Ladezone Regel Prüfen
 
 ## Arbeitsweg
 

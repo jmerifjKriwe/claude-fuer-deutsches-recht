@@ -19,7 +19,7 @@ Sechs Schritte des Rulemap Builders nach dem Modell der Rulemapping-Group: Captu
 
 ## Pruefpunkte
 
-Pruefen: ist jede Entscheidungspfad-Variante abgedeckt? Sind Ausnahmen explizit modelliert und nicht implizit? Liegt die Verantwortung für die Logik beim Normgeber oder beim IT-Dienstleister?
+Prüfen: ist jede Entscheidungspfad-Variante abgedeckt? Sind Ausnahmen explizit modelliert und nicht implizit? Liegt die Verantwortung für die Logik beim Normgeber oder beim IT-Dienstleister?
 
 ## Normenanker
 
@@ -40,7 +40,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Abgrenzung
 
-Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Pruefung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
+Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Prüfung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
 
 ## Quellen Stand 06/2026
 

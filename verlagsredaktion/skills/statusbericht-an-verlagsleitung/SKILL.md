@@ -28,14 +28,14 @@ Verlagsleitung verlangt einen klaren, kurzen Bericht, der die Ampel zeigt: laeuf
 
 ## Rechtlicher und sachlicher Rahmen
 
-- Innenkommunikation, keine veroeffentlichungsfaehige Form noetig, aber: arbeitsrechtliche Folgen moeglich (z. B. Zielerreichung, Bonus, Disziplinarisches).
+- Innenkommunikation, keine veroeffentlichungsfaehige Form noetig, aber: arbeitsrechtliche Folgen möglich (z. B. Zielerreichung, Bonus, Disziplinarisches).
 - Bei kapitalmarktorientierten Verlagen Beachtung der Ad-hoc-Publizitaet (Art. 17 MAR) bei wirtschaftlich relevanten Ereignissen.
 - Mitbestimmung des Betriebsrats bei personalrelevanten Konsequenzen (§ 87 BetrVG).
 - Datenschutz: Klarnamen von Autorinnen und Autoren nur, wenn dienstlich erforderlich (Art. 6 DSGVO).
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Empfaengerkreis festlegen.** Verteiler so eng wie moeglich. CC bewusst, nicht aus Hoeflichkeit.
+1. **Empfaengerkreis festlegen.** Verteiler so eng wie möglich. CC bewusst, nicht aus Hoeflichkeit.
 2. **Stichtag fixieren.** Alle Zahlen auf denselben Tag normieren.
 3. **Format waehlen.** Ein-Seiter mit Ampel, oder Slide-Deck bei Konferenz. Niemals lange Fliesstexte.
 4. **Ampel setzen.** Gruen = im Plan, Gelb = beobachten, Rot = Entscheidung der Leitung noetig.
@@ -54,7 +54,7 @@ Verlagsleitung verlangt einen klaren, kurzen Bericht, der die Ampel zeigt: laeuf
 
 ## Praxistipps der alten Redaktion
 
-- "Wer die Ampel schoenfaerbt, bezahlt zweimal" - lieber jetzt rot, als spaeter ueberrascht werden.
+- "Wer die Ampel schoenfaerbt, bezahlt zweimal" - lieber jetzt rot, als später ueberrascht werden.
 - Zahlen immer mit Vergleich (Vorjahr, Plan, Vormonat). Nackte Zahlen sind wertlos.
 - Bei Eskalation kein E-Mail-Schwall - kurzer Bericht, dann Telefon, dann Termin.
 - Manuskriptverzug niemals verschweigen; die Leitung erfaehrt es spaetestens beim Druckereitermin.
@@ -121,6 +121,6 @@ Mit freundlichen Gruessen
 ## Quellen Stand 06/2026
 
 - Art. 17 MAR (Marktmissbrauchsverordnung) - Ad-hoc-Publizitaet.
-- §§ 87, 99 BetrVG - Mitbestimmung bei personellen Massnahmen.
+- §§ 87, 99 BetrVG - Mitbestimmung bei personellen Maßnahmen.
 - Art. 6 DSGVO - Rechtsgrundlage interner Datenverarbeitung.
 - Verlagsinterne Reportingrichtlinien (Berichtspflicht Programmleitung an Geschaeftsfuehrung) - Kanzlei- bzw. Verlagsspezifisch.

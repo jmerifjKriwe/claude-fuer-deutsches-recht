@@ -29,7 +29,7 @@ Das Jobcenter zahlt nichts mehr. Sie haben kein Geld zum Leben. Gehen Sie schnel
 ## Fachbegriffe (kurz erklaert)
 
 - **Bedarfsgemeinschaft**: Personen, die zusammen leben und Buergergeld bekommen.
-- **Regelbedarf**: Pauschal-Betrag für Lebenshaltung (2024: 563 EUR für Alleinstehende, kann sich aendern).
+- **Regelbedarf**: Pauschal-Betrag für Lebenshaltung (2024: 563 EUR für Alleinstehende, kann sich ändern).
 - **Kosten der Unterkunft (KdU)**: Miete und Nebenkosten, die das Jobcenter zahlt.
 - **Sanktion**: Kuerzung wegen Pflichtverletzung (§ 31 SGB II).
 - **Existenzminimum**: Was Sie zum Leben brauchen, gesichert durch das Grundgesetz.
@@ -140,10 +140,10 @@ Sehr wichtig — das Gericht braucht das für die Glaubhaftmachung. Erklaeren Si
 
 Das SG hat einen Eilantragsdezernenten. Anruf ist erlaubt. Sagen Sie: "Mein Eilantrag liegt vor seit [Datum]. Mein Existenzminimum ist akut bedroht."
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sanktionen:** Aktuelle Grenzen und Folgen nur nach Prüfung von Gesetzesstand, Behördenpraxis und verifizierter Rechtsprechung darstellen.
-- **Schonvermoegen** seit Buergergeld-Reform 2023 erweitert: in der Karenzzeit 40.000 EUR für den ersten und 15.000 EUR für weitere Personen — pruefen Sie aktuelle Werte.
+- **Schonvermoegen** seit Buergergeld-Reform 2023 erweitert: in der Karenzzeit 40.000 EUR für den ersten und 15.000 EUR für weitere Personen — prüfen Sie aktuelle Werte.
 - **Vorlaeufige Bewilligung**: Wenn Anspruch nicht klar ist, kann das SG vorläufige Zahlung anordnen. Das ist auch ein Erfolg.
 - **Mitwirkungspflichten** nicht ignorieren: Termine wahrnehmen, Unterlagen einreichen. Sonst verschlechtert sich Ihre Lage.
 

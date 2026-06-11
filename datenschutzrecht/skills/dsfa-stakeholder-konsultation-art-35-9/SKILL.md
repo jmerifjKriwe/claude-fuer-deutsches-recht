@@ -25,7 +25,7 @@ description: "Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs
 1. **Verarbeitungsbeschreibung.** Welche Verarbeitung? Welche Betroffenenkreise? Gibt es etablierte Vertretungen (Betriebsrat, Patientenvertretung, Verbraucherverbaende)?
 2. **Verhaeltnismaessigkeitspruefung.** Ist eine Konsultation angemessen (Art. 35 Abs. 9 verlangt nur soweit angemessen)? Faktoren: Eingriffstiefe, Anzahl Betroffener, Erkennbarkeit der Verarbeitung, Existenz strukturierter Vertretung.
 3. **Risikoanalyse.** Risiken bei Konsultation: Geheimhaltungsinteressen, Wettbewerb, Sicherheitsrisiken. Risiken ohne Konsultation: Reputationsverlust, Aufsichtsanstoss, Akzeptanzproblem.
-4. **Massnahmen / Form der Konsultation.**
+4. **Maßnahmen / Form der Konsultation.**
  - Schriftliche Konsultation des Betriebsrats mit Beschreibung der Verarbeitung
  - Umfrage unter Betroffenenstichprobe
  - Workshop oder Diskussionsrunde

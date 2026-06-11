@@ -13,11 +13,11 @@ description: "EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pfl
 
 ## Worum geht es?
 
-Sie koennen wegen Krankheit nicht mehr richtig arbeiten. Sie haben EM-Rente beantragt — und die DRV hat abgelehnt. Diese Skill zeigt, wie Sie Widerspruch und Klage fuehren.
+Sie können wegen Krankheit nicht mehr richtig arbeiten. Sie haben EM-Rente beantragt — und die DRV hat abgelehnt. Diese Skill zeigt, wie Sie Widerspruch und Klage fuehren.
 
 ## In einfacher Sprache
 
-Sie koennen nicht mehr arbeiten. Sie wollten Rente wegen Krankheit. Die Rentenversicherung hat Nein gesagt. Wir zeigen Ihnen den Weg.
+Sie können nicht mehr arbeiten. Sie wollten Rente wegen Krankheit. Die Rentenversicherung hat Nein gesagt. Wir zeigen Ihnen den Weg.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -44,7 +44,7 @@ Sie koennen nicht mehr arbeiten. Sie wollten Rente wegen Krankheit. Die Rentenve
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Voraussetzungen pruefen
+### Schritt 1 — Voraussetzungen prüfen
 
 **Versicherungsrechtliche Voraussetzungen** (§ 43 Abs. 1 Nr. 2-3 SGB VI):
 
@@ -60,7 +60,7 @@ Wenn nicht erfuellt: keine EM-Rente — ausser Sonderregeln (z.B. § 53 SGB VI S
 
 ### Schritt 2 — Versicherungsverlauf anfordern
 
-Bei der DRV per Anfrage. Pruefen Sie:
+Bei der DRV per Anfrage. Prüfen Sie:
 
 - Liegen 5 Jahre Wartezeit vor?
 - Liegen 3 Jahre Pflichtbeitraege in den letzten 5 Jahren vor?
@@ -131,12 +131,12 @@ Wenn Widerspruch erfolglos: kombinierte Anfechtungs- und Verpflichtungsklage (si
 
 ### Schritt 7 — Beim Berufsschutz argumentieren
 
-Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Pruefen Sie genau die Definition Ihres "bisherigen Berufs" — qualifizierte Berufstaetigkeit.
+Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Prüfen Sie genau die Definition Ihres "bisherigen Berufs" — qualifizierte Berufstaetigkeit.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Versicherungsverlauf zwingend pruefen** — wenn die Voraussetzungen nicht erfuellt sind, ist EM-Rente nicht moeglich.
-- **Befristete EM-Rente** § 102 SGB VI: meist 3 Jahre, Verlaengerung moeglich.
+- **Versicherungsverlauf zwingend prüfen** — wenn die Voraussetzungen nicht erfuellt sind, ist EM-Rente nicht möglich.
+- **Befristete EM-Rente** § 102 SGB VI: meist 3 Jahre, Verlaengerung möglich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Krankengeld-Ende** als Trigger: oft erfolgt EM-Antrag erst nach Aussteuerung.
 

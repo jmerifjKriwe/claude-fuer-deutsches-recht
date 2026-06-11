@@ -30,7 +30,7 @@ description: "Substantiierter Schriftsatzkern für Nachprüfungsantrag VK, Sofor
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit prüfen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -96,7 +96,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
-8. Vier-Augen-Pruefung durch Sozius oder Senior-Anwaeltin?
+8. Vier-Augen-Prüfung durch Sozius oder Senior-Anwaeltin?
 
 ## Rechtsprechungs-Werkzeugkasten
 
@@ -151,7 +151,7 @@ Typische Antraege in Vergaberecht (Oberschwellen- und Unterschwellenvergabe) (Na
 
 - Form: "Beweis: Aussage der Zeugin Name, ladungsfaehige Anschrift, zum Beweisthema (konkret in einem Satz)."
 - Mehrere Zeuginnen zum gleichen Thema: Indiziengeruest staerken.
-- Keine Beweisermittlung ueber Zeugnis - das Beweisthema muss konkret sein.
+- Keine Beweisermittlung über Zeugnis - das Beweisthema muss konkret sein.
 
 ### Sachverstaendigenbeweis
 
@@ -177,14 +177,14 @@ Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegne
 
 - PDF/A-2 oder PDF/A-3, mit eingebetteten Schriften.
 - Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
-- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand ueber beA (sicherer Uebermittlungsweg).
+- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
 - Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
 - 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Aenderungen im Vollstreckungsbereich; in Vergaberecht (Oberschwellen- und Unterschwellenvergabe) ggf. spezifische ERV-Pflichten beachten.
 
 ## Schriftsatz-Stil
 
 - Aktiv, kurze Saetze, klare Subsumtion.
-- Keine Floskeln ("Die Klage ist zulaessig und begruendet" als Ueberschrift, aber dann substantiieren).
+- Keine Floskeln ("Die Klage ist zulässig und begruendet" als Ueberschrift, aber dann substantiieren).
 - Mandanten- und Beweismittel-Zitate woertlich, in Anfuehrungszeichen, mit Anlage-Verweis.
 - Keine Gefuehlsausbrueche - sachlich auch bei provokanter Gegenseite.
 
@@ -216,7 +216,7 @@ Vor Versand:
 4. Zuschlag bereits erteilt? → Feststellung Unwirksamkeit § 135 GWB oder Schadensersatz § 181 GWB
 5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Schluessel-Leitsaetze Schriftsatz Vergaberecht
+### Schlüssel-Leitsaetze Schriftsatz Vergaberecht
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -224,15 +224,15 @@ Vor Versand:
 - §§ 160-163 GWB — Nachpruefungsantrag Vergabekammer
 - § 171 GWB — Sofortige Beschwerde OLG
 - § 181 GWB — Schadensersatzklage
-- § 169 GWB — Vorabentscheidung / einstweilige Massnahmen
+- § 169 GWB — Vorabentscheidung / einstweilige Maßnahmen
 - § 135 GWB — Unwirksamkeit Zuschlag
 
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

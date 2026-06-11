@@ -18,7 +18,7 @@ description: "Grundrecht auf Gewaehrleistung eines menschenwuerdigen Existenzmin
 Kernaussagen:
 1. Art 1 I iVm Art 20 I GG gewaehrt **ein einklagbares Recht** auf Sicherung des menschenwuerdigen Existenzminimums.
 2. Der Gesetzgeber muss die Leistungen **transparent und nachvollziehbar** ermitteln (Verfahrensgrundrecht).
-3. Pauschalierungen und Schaetzungen sind moeglich, aber methodisch begruendungspflichtig.
+3. Pauschalierungen und Schaetzungen sind möglich, aber methodisch begruendungspflichtig.
 4. Eine Unterschreitung des Existenzminimums ist mit der Wuerde nicht vereinbar.
 
 ## Weiterentwicklungen
@@ -38,9 +38,9 @@ Kernaussagen:
 4. Sanktionen oder Ausschluesse: wie wirken sie auf die Bedarfsdeckung?
 5. Verfahrensrechtliche Sicherungen: Bestimmtheit, Begruendungspflicht, Transparenz?
 
-## Verhaeltnis zu Verhaeltnismaessigkeit
+## Verhaeltnis zu Verhältnismäßigkeit
 
-Die Pruefung Stufe 1 bis 4 entfaellt nicht voellig, aber Stufe 4 wird durch das Existenzminimum **absolut begrenzt**: wo das Existenzminimum unterschritten wuerde, scheitert die Massnahme bereits hier.
+Die Prüfung Stufe 1 bis 4 entfaellt nicht völlig, aber Stufe 4 wird durch das Existenzminimum **absolut begrenzt**: wo das Existenzminimum unterschritten wuerde, scheitert die Maßnahme bereits hier.
 
 ## Quellen mit Schlagwort
 

@@ -51,7 +51,7 @@ Schadensersatz nach abgeschlossenem Vergabeverfahren geltend machen oder abwehre
 | Reisekosten Verhandlung | ja | ja |
 | Anwaltskosten Ruege/VK | ja, soweit nicht Kostenerstattung | ja |
 | Entgangener Gewinn | nein | ja (Deckungsbeitrag) |
-| Folgeauftraege | nein | grundsaetzlich nein (zu spekulativ) |
+| Folgeauftraege | nein | grundsätzlich nein (zu spekulativ) |
 
 ## Echte-Chance-Doktrin
 BGH-Linie (z. B. X ZR 100/04, X ZR 174/09): Positives Interesse nur, wenn Bieter im rechtmäßigen Verfahren mit hinreichender Wahrscheinlichkeit Zuschlag erhalten haette. Echte Chance = > 50 Prozent.
@@ -67,15 +67,15 @@ Konsequenz für die Klageschrift:
 
 ## Verfahren
 - Zuständigkeit: Landgericht (oder Amtsgericht bei niedrigem Streitwert) am Sitz des Auftraggebers, ZPO-Klage.
-- Beweislast: Bieter trifft Beweislast für Pflichtverletzung, Kausalitaet, Hoehe; bei festgestellter Rechtsverletzung durch VK/OLG: Indizwirkung.
-- Streitwert: Hoehe des geltend gemachten Schadens.
+- Beweislast: Bieter trifft Beweislast für Pflichtverletzung, Kausalitaet, Höhe; bei festgestellter Rechtsverletzung durch VK/OLG: Indizwirkung.
+- Streitwert: Höhe des geltend gemachten Schadens.
 
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

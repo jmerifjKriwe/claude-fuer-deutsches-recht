@@ -18,7 +18,7 @@ Dieser Einstieg routet **Insolvenzverwaltung** vom ersten Sachverhalt zu Rollen,
 - `cross-iv-eigenverwaltung` — Cross IV Eigenverwaltung
 - `eigenverwaltung-sachwaltung` — Eigenverwaltung Sachwaltung
 - `eroeffnungsgutachten-iv` — Eroeffnungsgutachten IV
-- `forderungsanmeldung-pruefung` — Forderungsanmeldung Pruefung
+- `forderungsanmeldung-pruefung` — Forderungsanmeldung Prüfung
 - `idw-iv` — IDW IV
 - `insolvenzverwalter-fristen-form-und-zustaendigkeit` — Insolvenzverwalter Fristen Form und Zustaendigkeit
 - `insolvenzverwaltungs-erstpruefung-und-mandatsziel` — Insolvenzverwaltungs Erstpruefung und Mandatsziel

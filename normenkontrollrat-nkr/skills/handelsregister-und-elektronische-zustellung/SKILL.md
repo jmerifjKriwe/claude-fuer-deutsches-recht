@@ -22,7 +22,7 @@ Vorhaben mit Bezug auf das Handelsregister und elektronische Zustellungswege geh
 - Vorhaben aendert HGB / Handelsregister-Vorschriften
 - Vorhaben sieht elektronische Zustellung an Gesellschaften vor
 - Vorhaben adressiert auslaendische Gesellschaften mit deutscher Zweigniederlassung
-- Fallzahlen-Pruefung mit Bezug auf Anzahl Gesellschaften
+- Fallzahlen-Prüfung mit Bezug auf Anzahl Gesellschaften
 
 Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle eingetragenen Gesellschaften, nur Kapitalgesellschaften, nur GmbH?"*
 
@@ -38,9 +38,9 @@ Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle einge
 - **OZG** in der jeweils geltenden Fassung
 - **NKRG** § 4, **GGO** §§ 44, 45
 
-## Fallzahlen-Orientierung (Stand 06/2026, vom Anwender zu pruefen)
+## Fallzahlen-Orientierung (Stand 06/2026, vom Anwender zu prüfen)
 
-- Eingetragene Gesellschaften gesamt: rund 1,8 Mio (Statistisches Bundesamt, Unternehmensregister; vom Anwender mit aktueller Zahl zu pruefen)
+- Eingetragene Gesellschaften gesamt: rund 1,8 Mio (Statistisches Bundesamt, Unternehmensregister; vom Anwender mit aktueller Zahl zu prüfen)
 - GmbH: dominantes Segment (groesste Einzelmenge)
 - AG, KGaA, OHG, KG, e.K.: jeweils kleinere Segmente
 - Auslaendische Gesellschaften mit deutscher Zweigniederlassung: kleinere Teilmenge
@@ -111,10 +111,10 @@ Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle einge
 
 - "Das Vorhaben betrifft alle im Handelsregister eingetragenen Gesellschaften (rund 1,8 Mio nach Unternehmensregister Statistisches Bundesamt) sowie auslaendische Gesellschaften mit deutscher Zweigniederlassung."
 - "Der NKR begruesst die Zielsetzung, die elektronische Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften zu verbessern und damit Verfahren zu beschleunigen."
-- "Der NKR weist darauf hin, dass die vorgesehene dezentrale Architektur einen erheblichen Mehraufwand für die Wirtschaft und die Verwaltung verursacht. Eine zentrale Loesung ueber das Handelsregistergericht im Sinne des Once-Only-Prinzips waere praktikabler."
+- "Der NKR weist darauf hin, dass die vorgesehene dezentrale Architektur einen erheblichen Mehraufwand für die Wirtschaft und die Verwaltung verursacht. Eine zentrale Loesung über das Handelsregistergericht im Sinne des Once-Only-Prinzips waere praktikabler."
 - "Die vorgesehene monatliche Lebensbescheid-Pflicht ist aus Sicht des NKR unverhaeltnismaessig. Eine jaehrliche Bestaetigung mit ereignisorientierter Nachmeldepflicht erreicht das Regelungsziel mit deutlich geringerem Erfuellungsaufwand."
 - "Der NKR empfiehlt, das vorgesehene Verfahren mit dem OZG-Portalverbund, dem beA-System und der EUDI-Wallet zu verknuepfen und die Standards XOEV und FIM anzuwenden."
-- "Der NKR empfiehlt, für auslaendische Gesellschaften mit deutscher Zweigniederlassung den Anschluss an das Business Registers Interconnection System (BRIS) zu pruefen, anstatt einen separaten Inlandsvertreter zu fordern."
+- "Der NKR empfiehlt, für auslaendische Gesellschaften mit deutscher Zweigniederlassung den Anschluss an das Business Registers Interconnection System (BRIS) zu prüfen, anstatt einen separaten Inlandsvertreter zu fordern."
 
 ### Spezielle Aufwandsberechnung (Beispiel ElErrHandRegG)
 
@@ -154,4 +154,4 @@ Ersparnis: rund **240 Mio EUR jaehrlich**.
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - Statistisches Bundesamt — Unternehmensregister
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.destatis.de](https://www.destatis.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundesjustizportal.de](https://www.handelsregister.de)
+- Live verifizieren über [www.destatis.de](https://www.destatis.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundesjustizportal.de](https://www.handelsregister.de)

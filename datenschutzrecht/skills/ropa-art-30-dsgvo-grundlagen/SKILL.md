@@ -25,13 +25,13 @@ Pflichtinhalte:
 4. Kategorien von Empfaengern, denen offengelegt wurde oder noch offengelegt wird.
 5. Drittlandtransfer: Empfaengerland und Dokumentation geeigneter Garantien (Art. 46 Abs. 2 DSGVO).
 6. Vorgesehene Loeschfristen für die verschiedenen Datenkategorien.
-7. Allgemeine Beschreibung der technischen und organisatorischen Massnahmen (TOMs) gemaess Art. 32 Abs. 1 DSGVO.
+7. Allgemeine Beschreibung der technischen und organisatorischen Maßnahmen (TOMs) gemäß Art. 32 Abs. 1 DSGVO.
 
 ### Art. 30 Abs. 2 DSGVO – Verzeichnis des Auftragsverarbeiters (Processor)
 
 Pflichtinhalte:
 
-1. Name und Kontaktdaten des Auftragsverarbeiters und jedes Verantwortlichen, für den er taetig ist, ggf. Vertreter und DSB.
+1. Name und Kontaktdaten des Auftragsverarbeiters und jedes Verantwortlichen, für den er tätig ist, ggf. Vertreter und DSB.
 2. Kategorien der im Auftrag jedes Verantwortlichen durchgefuehrten Verarbeitungen.
 3. Drittlandtransfer: Empfaengerland und geeignete Garantien.
 4. Allgemeine Beschreibung der TOMs (Art. 32 Abs. 1 DSGVO).
@@ -46,17 +46,17 @@ Auf Anforderung der Aufsichtsbehoerde vorzulegen.
 
 ### Art. 30 Abs. 5 DSGVO – Ausnahme für KMU
 
-Unternehmen oder Einrichtungen mit weniger als 250 Mitarbeitern sind grundsaetzlich befreit, **es sei denn**:
+Unternehmen oder Einrichtungen mit weniger als 250 Mitarbeitern sind grundsätzlich befreit, **es sei denn**:
 
 - die Verarbeitung birgt ein Risiko für Rechte und Freiheiten;
 - die Verarbeitung erfolgt nicht nur gelegentlich;
-- die Verarbeitung umfasst besondere Datenkategorien (Art. 9 DSGVO) oder Daten ueber strafrechtliche Verurteilungen (Art. 10 DSGVO).
+- die Verarbeitung umfasst besondere Datenkategorien (Art. 9 DSGVO) oder Daten über strafrechtliche Verurteilungen (Art. 10 DSGVO).
 
 In der Praxis: praktisch jede Kanzlei, jede Arztpraxis, jedes HR-System eines Mittelstaendlers erfuellt mindestens einen Ausnahmegrund. Die KMU-Ausnahme ist daher weitgehend Theorie.
 
 ### § 70 BDSG – RoPA für Bundesbehoerden
 
-Fuer Bundesbehoerden im Anwendungsbereich der JI-Richtlinie (Polizei und Justiz) gilt § 70 BDSG mit eigenen Mindestinhalten.
+Für Bundesbehoerden im Anwendungsbereich der JI-Richtlinie (Polizei und Justiz) gilt § 70 BDSG mit eigenen Mindestinhalten.
 
 ## Ablauf / Checkliste
 
@@ -66,7 +66,7 @@ Fuer Bundesbehoerden im Anwendungsbereich der JI-Richtlinie (Polizei und Justiz)
 4. **Mindestinhalte erfassen:** je nach Rolle 7 (Controller) oder 4 (Processor) Felder.
 5. **Drittlandtransfer:** separate Spalte; Verweis auf SCC, BCR, DPF, Angemessenheitsbeschluss.
 6. **Loeschfristen:** konkrete Fristen, nicht "nach gesetzlichen Vorgaben".
-7. **TOM-Referenz:** Verweis auf TOM-Konzept; nicht jede Massnahme im RoPA wiederholen.
+7. **TOM-Referenz:** Verweis auf TOM-Konzept; nicht jede Maßnahme im RoPA wiederholen.
 8. **Versionierung:** Datierte Snapshots für Audit-Trail.
 9. **Review-Zyklus:** jaehrlich oder bei wesentlicher Aenderung.
 

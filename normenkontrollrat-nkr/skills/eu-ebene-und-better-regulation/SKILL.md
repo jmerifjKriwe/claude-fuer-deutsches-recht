@@ -7,7 +7,7 @@ description: "Verortet den NKR im europaeischen Better-Regulation-Kontext. Stell
 
 ## Worum geht es konkret
 
-EU-Rechtsakte sind ein hoher Anteil des deutschen Rechtssetzungsaufkommens. Der NKR prueft zwar nicht das EU-Recht selbst, aber dessen **Umsetzung in deutsches Recht** und insbesondere mit Blick auf **Goldplating**, also nationale Ergaenzungen ueber das EU-Minimum hinaus.
+EU-Rechtsakte sind ein hoher Anteil des deutschen Rechtssetzungsaufkommens. Der NKR prüft zwar nicht das EU-Recht selbst, aber dessen **Umsetzung in deutsches Recht** und insbesondere mit Blick auf **Goldplating**, also nationale Ergaenzungen über das EU-Minimum hinaus.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -21,7 +21,7 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 ## Rechtlicher und methodischer Rahmen
 
 - **Art. 288 AEUV** — Rechtsakte der Union
-- **Art. 5 EUV** — Subsidiaritaet und Verhaeltnismaessigkeit
+- **Art. 5 EUV** — Subsidiaritaet und Verhältnismäßigkeit
 - **Inter-Institutional Agreement on Better Law-Making 2016**
 - **Better Regulation Guidelines / Toolbox** der EU-Kommission
 - **Regulatory Scrutiny Board (RSB)** der EU-Kommission — funktionales Pendant zum NKR
@@ -56,9 +56,9 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 
 - **Goldplating ohne sachlichen Grund** — automatische Mahnung
 - EU-Datenbasis nicht herangezogen
-- "Eine Eins-zu-eins-Umsetzung war nicht moeglich" ohne Begruendung
+- "Eine Eins-zu-eins-Umsetzung war nicht möglich" ohne Begruendung
 - Verschaerfung gegenueber EU-Niveau ohne Erfuellungsaufwand-Delta-Berechnung
-- Keine Pruefung der Optionen, die die Richtlinie laesst
+- Keine Prüfung der Optionen, die die Richtlinie lässt
 
 ## Trade-off-Matrix
 
@@ -66,20 +66,20 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 |---|---|
 | 1:1-Umsetzung mit Verweisen auf RL-Text | regelmaessig unproblematisch |
 | 1:1-Umsetzung mit eigenstaendiger Rechtssprache | unproblematisch |
-| Goldplating mit nationalem Schutzinteresse | begruendet zulaessig, Delta dokumentieren |
+| Goldplating mit nationalem Schutzinteresse | begruendet zulässig, Delta dokumentieren |
 | Goldplating ohne Begruendung | NKR-Mahnung |
 | Untererfuellung | Vertragsverletzungsverfahren-Risiko |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Das Vorhaben setzt die Richtlinie (EU) [Nummer] um. Die EU-Folgenabschaetzung weist Erfuellungsaufwand in Hoehe von [X] Mio EUR aus."
-- "Das Vorhaben geht ueber die zwingenden Vorgaben der Richtlinie hinaus, indem es [konkret]. Der NKR weist darauf hin, dass dies einen zusaetzlichen Erfuellungsaufwand von [Delta] verursacht und bittet um Begruendung der nationalen Verschaerfung."
-- "Der NKR begruesst die ressortseitige Pruefung der Optionen nach Art. [X] der Richtlinie und die transparente Darstellung des Goldplating-Verzichts."
+- "Das Vorhaben setzt die Richtlinie (EU) [Nummer] um. Die EU-Folgenabschaetzung weist Erfuellungsaufwand in Höhe von [X] Mio EUR aus."
+- "Das Vorhaben geht über die zwingenden Vorgaben der Richtlinie hinaus, indem es [konkret]. Der NKR weist darauf hin, dass dies einen zusaetzlichen Erfuellungsaufwand von [Delta] verursacht und bittet um Begruendung der nationalen Verschaerfung."
+- "Der NKR begruesst die ressortseitige Prüfung der Optionen nach Art. [X] der Richtlinie und die transparente Darstellung des Goldplating-Verzichts."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
 - Goldplating ohne Erwaehnung
-- "Die Richtlinie laesst keinen Spielraum" — pauschal, ohne Pruefung
+- "Die Richtlinie lässt keinen Spielraum" — pauschal, ohne Prüfung
 - EU-Folgenabschaetzung nicht in deutsche Begruendung uebernommen
 - Eigene Methodik abweichend von Better-Regulation-Toolbox ohne Begruendung
 
@@ -90,4 +90,4 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 - Better Regulation Guidelines der EU-Kommission (SWD-Reihe, jeweils aktuelle Ausgabe)
 - NKRG vom 14.08.2006 § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [ec.europa.eu/info/better-regulation](https://ec.europa.eu/info/law/better-regulation_en) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [ec.europa.eu/info/better-regulation](https://ec.europa.eu/info/law/better-regulation_en) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

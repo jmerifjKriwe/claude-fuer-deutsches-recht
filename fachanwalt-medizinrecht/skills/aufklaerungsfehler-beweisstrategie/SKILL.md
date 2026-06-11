@@ -66,13 +66,13 @@ description: "Aufklaerungsfehler Beweisstrategie: ordnet Normen, Nutzerangaben, 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Aufklaerungsfehler Beweisstrategie | Beweissicherungs-Protokoll; Template unten |
 | Variante A — Mandant will Vergleich | Gutachterkommission / Schlichtung statt Klage; Skill gutachterkommission |
-| Variante B — Kein Aufklaerungsfehler feststellbar | Behandlungsfehler pruefen; anderes Skill |
+| Variante B — Kein Aufklaerungsfehler feststellbar | Behandlungsfehler prüfen; anderes Skill |
 | Variante C — Strafanzeige geplant | Koordination Straf- und Zivilverfahren; Akteneinsicht § 406e StPO |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -163,7 +163,7 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

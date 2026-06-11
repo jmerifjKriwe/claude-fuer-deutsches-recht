@@ -22,7 +22,7 @@ description: "Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren 
 
 1. **Eigene Kenntnis des Verstosses** — wann? (Selbstwiderlegungsfrist: max. 4 Wochen ab Kenntnis)
 2. **Wettbewerbs-Verstoss:** Irreführende Werbung (§ 5 UWG), vergleichende Werbung (§ 6 UWG), Belaestigung (§ 7 UWG), Rechtsbruch (§ 3a UWG), Mitbewerberschutz (§ 4 UWG)?
-3. **Aktivlegitimation** gemaess § 8 Abs. 3 UWG: Mitbewerber, qualifizierter Wirtschaftsverband, Kammer?
+3. **Aktivlegitimation** gemäß § 8 Abs. 3 UWG: Mitbewerber, qualifizierter Wirtschaftsverband, Kammer?
 4. **Abmahnung versandt?** Ohne Abmahnung: Kostenrisiko bei sofortigem Verfuegungsantrag (§ 13 Abs. 3 UWG).
 5. **Schutzschrift hinterlegt** (Verteidigung)? Wenn ja: muendliche Verhandlung wahrscheinlich.
 6. **Missbrauch pruefe** (§ 8c UWG): Serienabmahner-Check vor jedem Antrag.
@@ -169,11 +169,11 @@ ANLAGEN: K1 [Screenshot], K2 [Kaufbeleg], K3 [Eidesstattliche Versicherung]
 
 ## Vertiefung: Vertragsstrafe bei UWG-Verstoss
 
-| Verstosstypus | Uebliche Hoehe | Grundlage |
+| Verstosstypus | Uebliche Höhe | Grundlage |
 |---------------|---------------|---------|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Irreführende Werbung klein | 5.001-10.000 EUR | Hamburger Brauch |
-| Irreführende Werbung gross | 15.000-30.000 EUR | Bekanntheitsgrad |
+| Irreführende Werbung groß | 15.000-30.000 EUR | Bekanntheitsgrad |
 | Wiederholungsverstoß | mind. Verdoppelung | § 339 BGB Angemessenheit |
 
 ## Cross-Refs

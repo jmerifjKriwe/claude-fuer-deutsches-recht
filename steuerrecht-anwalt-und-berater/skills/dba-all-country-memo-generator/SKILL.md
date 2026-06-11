@@ -39,9 +39,9 @@ Baue bei Bedarf Varianten:
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **DBA-Text vor Memo-Endfassung beschaffen**: ueber bundesfinanzministerium.de (Bereich Internationales Steuerrecht / Liste der DBA) — jede DBA-Seite enthaelt PDF-Link zum Gesetzes-Text inklusive Protokolle. Ohne Originaltext kein finalisiertes Memo.
-- **MLI-Status pro Vertragsstaat pruefen**: OECD-MLI-Matching-Database (oecd.org) zeigt, ob beide Staaten kongruent notifiziert/reserviert haben. Wirksamkeitsdatum pro Norm separat.
-- **BZSt-Formularkatalog**: für das Verfahren ueber bzst.de / BOP — Antragsformulare nach Einkunftsart strukturiert (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen, KEINE erfundenen Formularnummern).
+- **DBA-Text vor Memo-Endfassung beschaffen**: über bundesfinanzministerium.de (Bereich Internationales Steuerrecht / Liste der DBA) — jede DBA-Seite enthaelt PDF-Link zum Gesetzes-Text inklusive Protokolle. Ohne Originaltext kein finalisiertes Memo.
+- **MLI-Status pro Vertragsstaat prüfen**: OECD-MLI-Matching-Database (oecd.org) zeigt, ob beide Staaten kongruent notifiziert/reserviert haben. Wirksamkeitsdatum pro Norm separat.
+- **BZSt-Formularkatalog**: für das Verfahren über bzst.de / BOP — Antragsformulare nach Einkunftsart strukturiert (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen, KEINE erfundenen Formularnummern).
 - **Ansaessigkeitsbescheinigung des betroffenen Heimatstaats** im Memo als Pflicht-Anlage benennen.
 - **Q1-Antragsfenster** beim BZSt nutzen (Januar bis Maerz) — kuerzere Bearbeitungszeiten.
 - **Apostille oder Konsularbeglaubigung** bei Drittstaaten (USA, VAE, Singapur, Australien) — Vorlaufzeit 6-10 Wochen einplanen.
@@ -56,7 +56,7 @@ Baue bei Bedarf Varianten:
 | EU-RL (MTRL/ZinsLizenzRL) vs. DBA | EU-RL 0 Prozent bei Verbundenheit | DBA-Hoechstsatz | EU-RL vorrangig, wenn Voraussetzungen erfuellt |
 | Substanz aufbauen vs. Direktbezug | Holding mit Substanz aufbauen | direkter Bezug | § 50d Abs. 3 EStG bedenken; Substanz nur bei wirtschaftlicher Notwendigkeit |
 
-## Was Reviewer/Pruefer triggert (generisch)
+## Was Reviewer/Prüfer triggert (generisch)
 
 - **DBA-Fundstelle nicht zitiert** oder falsche BGBl-Stelle.
 - **MLI-Status nicht erwaehnt** — auch bei US-DBA (USA haben MLI nicht ratifiziert) gehoert das ins Memo.

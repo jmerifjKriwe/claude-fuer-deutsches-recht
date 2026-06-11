@@ -19,7 +19,7 @@ Ein Fachaufsatz hat einen bestimmten Stilraum: Gutachten- oder Urteilsstil, klar
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
+Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klären Sie:
 
 1. Welche Stilebene für welches Format (Aufsatz: knapper Sachstil; Anmerkung: zugespitzt; Editorial: persoenlich)?
 2. Hausregel für Tonalitaet (NJW: knapp und sachlich; ZIP: pointiert; JuS: didaktisch zugaenglich)?
@@ -41,7 +41,7 @@ Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
  - KI-typische Phrasen ("in der Regel", "es ist hervorzuheben", "diesbezueglich", "im Hinblick auf", "letztendlich").
  - Floskeln ("an dieser Stelle sei darauf hingewiesen", "wie eingangs erwaehnt").
  - Modalitaets-Schwaeche ("man koennte sagen", "es waere denkbar").
-4. **Ironie und Sarkasmus pruefen.** In Fachzeitschriften selten zulaessig; in Editorials oder Glossen erlaubt.
+4. **Ironie und Sarkasmus prüfen.** In Fachzeitschriften selten zulässig; in Editorials oder Glossen erlaubt.
 5. **Eigene Stilbrueche durch Lektoratseingriffe.** Wo das Lektorat eingegriffen hat, kann es selber Stilbrueche verursacht haben.
 6. **KI-Verdacht.** Bei gleichfoermigen Absatzrhythmen, fehlenden Pinpoints, generischen Aussagen markieren.
 7. **Befund-Brief** an Autorin mit Vorschlaegen.
@@ -57,9 +57,9 @@ Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
 ## Praxistipps der alten Redaktion
 
 - "Wenn der Stilbruch im Editorial steht, kann das gewollt sein. Wenn er im Mittelteil eines Aufsatzes steht, ist es ein Bruch."
-- KI-Floskeln sind auch ohne KI moeglich - aber wenn 5 davon auf einer Seite stehen, lohnt sich die Nachfrage.
+- KI-Floskeln sind auch ohne KI möglich - aber wenn 5 davon auf einer Seite stehen, lohnt sich die Nachfrage.
 - Marketingsprache ("innovative Loesung") aus Mandantenpraesentationen rutscht oft in Praxisaufsaetze - markieren.
-- Bei Autorinnen aus der anderen Sprache (Englisch erst, dann Deutsch) Anglizismen pruefen.
+- Bei Autorinnen aus der anderen Sprache (Englisch erst, dann Deutsch) Anglizismen prüfen.
 
 ## Mustertexte / Vorlagen
 

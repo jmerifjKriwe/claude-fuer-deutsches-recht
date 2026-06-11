@@ -120,8 +120,8 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 ### Vergütungs-Streit mit Netzbetreiber
 
 - Anlagenzulassung erfolgt aber Vergütung verweigert
-- BGH-EnVR-Senat: laufende Rechtsprechung zum Anlagenbegriff und zur Verguetung — vor Ausgabe Aktenzeichen ueber bundesgerichtshof.de verifizieren
-- Klärung Streit ueber Schiedsverfahren bei der BNetzA (§ 81 EEG) oder Klage Zivilgericht
+- BGH-EnVR-Senat: laufende Rechtsprechung zum Anlagenbegriff und zur Vergütung — vor Ausgabe Aktenzeichen über bundesgerichtshof.de verifizieren
+- Klärung Streit über Schiedsverfahren bei der BNetzA (§ 81 EEG) oder Klage Zivilgericht
 
 ### Bei nicht-rechtzeitiger MaStR-Eintragung
 
@@ -216,8 +216,8 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 ## Aktuelle Rechtsprechung & Leitsätze (Stand 05/2026)
 
 - **EuGH 28.03.2019, C-405/16 P (PreussenElektra-Nachfolge / EEG 2012)**: EEG-Umlage stellt keine staatliche Beihilfe i.S.v. Art. 107 AEUV dar (in Vorlaeufer-Konstellation); Aenderung gegenueber Kommissions-Auffassung. Quelle: curia.europa.eu (CELEX 62016CJ0405).
-- **BGH 05.07.2022, EnVR 41/20**: Anlagenbegriff EEG; Abgrenzung zwischen mehreren Anlagen am selben Standort. Quelle: bundesgerichtshof.de — Pressemitteilung BGH 99/2022. Vor Zitieren der Detailfragen Aktenzeichen ueber bundesgerichtshof.de verifizieren.
-- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Pruefung (saP). Quelle: bverwg.de.
+- **BGH 05.07.2022, EnVR 41/20**: Anlagenbegriff EEG; Abgrenzung zwischen mehreren Anlagen am selben Standort. Quelle: bundesgerichtshof.de — Pressemitteilung BGH 99/2022. Vor Zitieren der Detailfragen Aktenzeichen über bundesgerichtshof.de verifizieren.
+- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Prüfung (saP). Quelle: bverwg.de.
 - **EuGH 27.04.2023, C-217/22 (Aktiengesellschaft Yarpa)**: Auslegung der EE-Richtlinie 2018/2001 (RED II) — Foerderfaehigkeit. Quelle: curia.europa.eu.
 - **Gesetzeslage 05/2026:**
  - EEG 2023 (BGBl. I 2022 S. 1237, mehrfach geaendert)
@@ -226,13 +226,13 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
  - KWKG 2023 — Verlaengerung Förderung bis 2030 (Wasserstoff-Pflicht ab 10 MW)
  - GEG 2024 (BGBl. I 2023 S. 280) — Heizungsgesetz, 65-Prozent-EE-Pflicht ab 2024 in Neubaugebieten
  - RED III — RL (EU) 2023/2413; Frist Umsetzung 21.05.2025; Beschleunigungsgebiete ab 21.02.2026 verpflichtend
- - BNetzA-Festlegungen Ausschreibungs-Hoechstwerte 2025/2026 ueber bundesnetzagentur.de aktuell pruefen
+ - BNetzA-Festlegungen Ausschreibungs-Hoechstwerte 2025/2026 über bundesnetzagentur.de aktuell prüfen
 
-Konkrete Aktenzeichen vor Ausgabe ueber bundesgerichtshof.de / bverwg.de / curia.europa.eu mit Datum verifizieren.
+Konkrete Aktenzeichen vor Ausgabe über bundesgerichtshof.de / bverwg.de / curia.europa.eu mit Datum verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
-§ 19 EEG (Marktpraemie) — § 20 EEG (Direktvermarktung) — § 21 EEG (feste Einspeise-Verguetung) — § 23b EEG (Repowering) — § 33 EEG (MaStR-Eintragungspflicht) — § 4 BImSchG (Genehmigungspflicht) — § 35 BauGB (Privilegierung Aussenbereich) — § 44 BNatSchG (Zugriffsverbote Artenschutz)
+§ 19 EEG (Marktpraemie) — § 20 EEG (Direktvermarktung) — § 21 EEG (feste Einspeise-Vergütung) — § 23b EEG (Repowering) — § 33 EEG (MaStR-Eintragungspflicht) — § 4 BImSchG (Genehmigungspflicht) — § 35 BauGB (Privilegierung Aussenbereich) — § 44 BNatSchG (Zugriffsverbote Artenschutz)
 
 ## Verzahnung
 

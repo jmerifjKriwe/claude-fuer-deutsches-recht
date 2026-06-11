@@ -37,7 +37,7 @@ description: "EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen w
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
 
-## Triage vor Pruefung Effektivitaetsgrundsatz
+## Triage vor Prüfung Effektivitaetsgrundsatz
 
 Bevor losgelegt wird, klaere:
 1. Macht der Mandant ein EU-Recht vor einem nationalen Gericht geltend?

@@ -24,7 +24,7 @@ description: "Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft,
 
 1. Welche Branchen, Politikfelder oder Rechtsgebiete sind betroffen?
 2. Welche EU-, Bundes- oder Ministerialvorhaben sind relevant?
-3. Welche Bereiche muessen bei Aenderung unverzueglich aktualisiert werden?
+3. Welche Bereiche müssen bei Aenderung unverzueglich aktualisiert werden?
 
 ## Quellenanker
 

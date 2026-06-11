@@ -3,7 +3,7 @@ name: medizinalcannabis-stoff-pruefen
 description: "Medizinalcannabis: Stoff prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Medizinalcannabis Stoff Pruefen
+# Medizinalcannabis Stoff Prüfen
 
 ## Arbeitsweg
 

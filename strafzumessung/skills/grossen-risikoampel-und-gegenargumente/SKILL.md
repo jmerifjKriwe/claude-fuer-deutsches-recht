@@ -3,7 +3,7 @@ name: grossen-risikoampel-und-gegenargumente
 description: "Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Strafzumessung."
 ---
 
-# Grossen: Risikoampel, Gegenargumente und Verteidigungslinien
+# Großen: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im St
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Grossen: Risikoampel, Gegenargumente und Verteidigungslinien
+## Spezialwissen: Großen: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 
 ## Fallweichen
@@ -27,7 +27,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Grossen** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Großen** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
@@ -35,8 +35,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Strafzumessung-Risikoampel / Gegenargumente Bausteine
 - **Risikoampel Strafmass:**
  - **Rot:**
- - Mindeststrafe nach Strafrahmen droht; keine Bewaehrung moeglich.
- - Einschlaegige Vorstrafen (insb. einschlaegiges Vergehen ueber 6 Monate).
+ - Mindeststrafe nach Strafrahmen droht; keine Bewaehrung möglich.
+ - Einschlaegige Vorstrafen (insb. einschlaegiges Vergehen über 6 Monate).
  - Tat in Bewaehrungszeit (Widerrufsrisiko § 56f StGB).
  - Schadenshoehe Regelbeispiel-Schwelle.
  - Mehrfachverurteilung -> Gesamtstrafe § 55 StGB.
@@ -44,16 +44,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Erstverurteilung mit moeglicher Bewaehrung § 56 StGB.
  - Schadenswiedergutmachung teilweise.
  - Therapie / TOA § 46a StGB im Gang.
- - Sozialprognose grundsaetzlich positiv aber unklare Akteurslage.
+ - Sozialprognose grundsätzlich positiv aber unklare Akteurslage.
  - **Gruen:**
  - Erstverurteilung mit Bewaehrung.
  - TOA / Wiedergutmachung erfolgt.
  - Verstaendigung § 257c StPO mit Korridor abgesichert.
  - Einstellungs-Aussicht §§ 153, 153a StPO.
 - **Gegenargumente zu typischen Strafzumessungs-Argumenten der StA:**
- - **"einschlaegige Vorstrafen":** Tilgungsreife pruefen § 51 BZRG (Verwertungsverbot); zeitlich abgegrenzt; nicht-einschlaegig?
- - **"hoher Schaden":** Realquote pruefen (z. B. bei Versicherungsbetrug Schaden = Versicherungsleistung, nicht behaupteter Wert).
- - **"professioneller Vorgehen":** Subsumtion Regelbeispiel pruefen; oft nur Indizwirkung.
+ - **"einschlaegige Vorstrafen":** Tilgungsreife prüfen § 51 BZRG (Verwertungsverbot); zeitlich abgegrenzt; nicht-einschlaegig?
+ - **"hoher Schaden":** Realquote prüfen (z. B. bei Versicherungsbetrug Schaden = Versicherungsleistung, nicht behaupteter Wert).
+ - **"professioneller Vorgehen":** Subsumtion Regelbeispiel prüfen; oft nur Indizwirkung.
  - **"Tatfolgen": Konkrete Schaedenhoehe ermitteln; immaterielle Folgen objektivieren.
  - **"keine Schadenswiedergutmachung":** Versuche dokumentieren; TOA-Anbieten; ggf. Schadensregulierung in Aussicht stellen.
 - **Verteidigungslinien Strafmilderung:**
@@ -64,7 +64,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - § 56 StGB Bewaehrungspraxis.
  - § 60 StGB Absehen von Strafe (klein-Schaden, Reue, gesundheitliche Folgen).
  - Verfahrensdauer-Kompensation (BGH-Vollstreckungsloesung).
-- **Massregeln pruefen:** § 44 StGB Fahrverbot, § 69 StGB Entziehung Fahrerlaubnis, § 70 StGB Berufsverbot, §§ 63, 64 StGB Unterbringung Psychiatrie / Entziehungsanstalt.
+- **Massregeln prüfen:** § 44 StGB Fahrverbot, § 69 StGB Entziehung Fahrerlaubnis, § 70 StGB Berufsverbot, §§ 63, 64 StGB Unterbringung Psychiatrie / Entziehungsanstalt.
 
 ## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe
 

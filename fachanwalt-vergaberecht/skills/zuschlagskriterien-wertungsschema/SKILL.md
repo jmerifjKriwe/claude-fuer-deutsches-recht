@@ -28,19 +28,19 @@ description: "Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbei
 
 ## Pruefraster Wertungskriterien
 ### 1. Auftragsbezug § 127 Abs. 3 GWB
-Kriterium muss mit dem Auftragsgegenstand in Verbindung stehen. Soziale, oekologische, innovative Aspekte sind zulaessig, wenn auftragsbezogen.
+Kriterium muss mit dem Auftragsgegenstand in Verbindung stehen. Soziale, oekologische, innovative Aspekte sind zulässig, wenn auftragsbezogen.
 
 ### 2. Diskriminierungsverbot § 97 Abs. 2 GWB
-Keine versteckte Bieterauswahl ueber technische Spezifikationen oder Referenzen, die nur ein bestimmter Bieter erfuellen kann.
+Keine versteckte Bieterauswahl über technische Spezifikationen oder Referenzen, die nur ein bestimmter Bieter erfuellen kann.
 
 ### 3. Transparenz § 127 Abs. 5 GWB
-Kriterien und Gewichtung in Bekanntmachung oder Auftragsunterlagen. Unterkriterien und Gewichtung muessen spaetestens mit Aufforderung zur Angebotsabgabe offengelegt sein (EuGH C-532/06 Lianakis; OLG Duesseldorf VII-Verg 39/15).
+Kriterien und Gewichtung in Bekanntmachung oder Auftragsunterlagen. Unterkriterien und Gewichtung müssen spaetestens mit Aufforderung zur Angebotsabgabe offengelegt sein (EuGH C-532/06 Lianakis; OLG Duesseldorf VII-Verg 39/15).
 
 ### 4. Gewichtung
-Prozentuale Gewichtung oder Bandbreite zulaessig. Reine Verbalbewertung ohne Gewichtung ist regelmaessig vergaberechtswidrig (BGH X ZR 80/16).
+Prozentuale Gewichtung oder Bandbreite zulässig. Reine Verbalbewertung ohne Gewichtung ist regelmaessig vergaberechtswidrig (BGH X ZR 80/16).
 
 ### 5. Preis-Leistungs-Relation
-Reine Preisvergabe nur in Ausnahmefaellen (§ 58 Abs. 2 VgV: bei standardisierten Leistungen). Sonst wirtschaftlichstes Angebot ueber Nutzwertanalyse oder einfache Richtwertmethode (UFAB).
+Reine Preisvergabe nur in Ausnahmefaellen (§ 58 Abs. 2 VgV: bei standardisierten Leistungen). Sonst wirtschaftlichstes Angebot über Nutzwertanalyse oder einfache Richtwertmethode (UFAB).
 
 ### 6. Lebenszykluskosten § 59 VgV
 Anschaffung, Nutzung, Wartung, Entsorgung. Methodische Anforderungen: Daten transparent, Berechnung nachvollziehbar.
@@ -74,8 +74,8 @@ Tabelle: Kriterium | Gewicht (%) | Unterkriterien | Bewertungsmassstab | Maximal
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

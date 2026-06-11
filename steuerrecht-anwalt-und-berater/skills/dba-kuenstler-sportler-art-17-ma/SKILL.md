@@ -15,15 +15,15 @@ description: "Kuenstler und Sportler nach Art. 17 OECD-MA mit Auftrittsstaat-Bes
 
 ## Kernsachverhalt
 
-Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Einkuenfte aus persoenlich ausgeuebten kuenstlerischen oder sportlichen Taetigkeiten werden grundsaetzlich im **Auftrittsstaat** besteuert, unabhaengig von Ansaessigkeit und 183-Tage-Regel. Dies gilt auch für Zahlungen an dazwischengeschaltete Gesellschaften (Anti-"Star-Company"-Klausel). Praxisrelevant für Musiker, Schauspieler, Sportler, Sprecher, ggf. Influencer.
+Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Einkuenfte aus persoenlich ausgeuebten kuenstlerischen oder sportlichen Taetigkeiten werden grundsätzlich im **Auftrittsstaat** besteuert, unabhaengig von Ansaessigkeit und 183-Tage-Regel. Dies gilt auch für Zahlungen an dazwischengeschaltete Gesellschaften (Anti-"Star-Company"-Klausel). Praxisrelevant für Musiker, Schauspieler, Sportler, Sprecher, ggf. Influencer.
 
 ## Kaltstart-Rueckfragen
 
 1. Welche Art Auftritt: Konzert, Sportwettkampf, Theater, TV-Show, Film, Online-Stream?
 2. Auftrittsstaat: in welchem Staat wird die Leistung erbracht?
 3. Vergueterschuldner: Veranstalter? Star-Company?
-4. Hoehe Verguetung?
-5. Wurde Quellensteuer einbehalten? Hoehe?
+4. Höhe Vergütung?
+5. Wurde Quellensteuer einbehalten? Höhe?
 6. Ist eine Star-Company zwischengeschaltet?
 7. Wohnsitz- und Steueransaessigkeit des Kuenstlers/Sportlers?
 8. BZSt-Antrag bereits gestellt oder Erstattung erforderlich?
@@ -35,12 +35,12 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 - **§ 50a EStG** — Steuerabzug bei beschraenkt Steuerpflichtigen Auftritten in Deutschland.
 - **§ 50c EStG** — Erstattung/Freistellung BZSt.
 - **§ 50d Abs. 3 EStG** — Anti-Treaty-Shopping für Star-Companies.
-- Konkrete DBA-Artikel: in den meisten deutschen DBA Art. 17 (Sondervorschrift); manchmal niedrigere Schwelle (z.B. 11.000 EUR Bagatellklausel) — konkret im DBA-Text pruefen.
+- Konkrete DBA-Artikel: in den meisten deutschen DBA Art. 17 (Sondervorschrift); manchmal niedrigere Schwelle (z.B. 11.000 EUR Bagatellklausel) — konkret im DBA-Text prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zu § 50a-Steuerabzug bei Kuenstlern in freier amtlicher Quelle abrufen.
 - Aktuelle BFH-Rechtsprechung zu Star-Company-Konstellationen in freier amtlicher Quelle abrufen.
-- BMF-Schreiben zu § 50a EStG-Anwendung — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zu § 50a EStG-Anwendung — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Anwendungsvoraussetzungen
 
@@ -59,20 +59,20 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 - Verhindert Abschirmung durch Holding.
 
 ### Befreiungen
-- **Kulturaustausch**: einige DBA Befreiung bei oeffentlich-rechtlich gefoerderten Auftritten — **konkret pruefen**.
+- **Kulturaustausch**: einige DBA Befreiung bei öffentlich-rechtlich gefoerderten Auftritten — **konkret prüfen**.
 - **Bagatellklauseln** in einigen DBA (z.B. USA-Klausel 20.000 USD/Jahr).
 
 ## Workflow
 
-### Phase 1 — Konstellation klaeren
+### Phase 1 — Konstellation klären
 ### Phase 2 — Auftrittsstaat-Quellensteuer
 1. Steuerabzug § 50a EStG bei Auftritten in DE.
 2. Auslaendische Quellensteuer bei Auftritten dort.
 
-### Phase 3 — Star-Company pruefen
+### Phase 3 — Star-Company prüfen
 1. Wenn Gesellschaft zwischengeschaltet: Art. 17 Abs. 2 anwenden.
 
-### Phase 4 — BZSt-Antrag bei Empfang deutscher Verguetung
+### Phase 4 — BZSt-Antrag bei Empfang deutscher Vergütung
 1. Freistellungsbescheinigung vorab.
 2. Erstattung nachher.
 3. Ansaessigkeitsbescheinigung.
@@ -85,22 +85,22 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 
 ## Strategie und Praxis-Tipps
 
-- § 50a-Steuerabzug ist eine Bringschuld des Vergueterschuldners (Veranstalter) — Pruefung der Einbehaltspflichten.
-- Nettobesteuerung (mit Werbungskosten) statt Bruttobesteuerung lohnt sich oft — Wahlrecht pruefen.
+- § 50a-Steuerabzug ist eine Bringschuld des Vergueterschuldners (Veranstalter) — Prüfung der Einbehaltspflichten.
+- Nettobesteuerung (mit Werbungskosten) statt Bruttobesteuerung lohnt sich oft — Wahlrecht prüfen.
 - Star-Company-Konstellation: § 50d Abs. 3 EStG-Substanztest haeufig kritisch.
 - Streaming/Influencer: Auslegungsstreit, ob persönlicher Auftritt iSd Art. 17 — Verstaendigungsverfahren denkbar.
 - USA-DBA bei Sportlern: Bagatellklausel 20.000 USD/Jahr — wichtig für Amateure.
 - BZSt-Bearbeitungsdauer: lange Frist — Freistellungsbescheinigung vorab beantragen.
-- Werbeeinnahmen vom Auftritt trennen: koennen unter Art. 12 (Lizenz) oder Art. 7 (Unternehmensgewinn) fallen.
+- Werbeeinnahmen vom Auftritt trennen: können unter Art. 12 (Lizenz) oder Art. 7 (Unternehmensgewinn) fallen.
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **§ 50a-Anmeldung des Veranstalters**: vierteljaehrliche Anmeldung ueber BZSt-Online-Portal BOP (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen). Anmeldung auch bei Freistellungsbescheinigung erforderlich.
+- **§ 50a-Anmeldung des Veranstalters**: vierteljaehrliche Anmeldung über BZSt-Online-Portal BOP (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen). Anmeldung auch bei Freistellungsbescheinigung erforderlich.
 - **Freistellungsbescheinigung BZSt vor Auftritt**: bei wiederkehrenden Tourneen oder mehreren Auftritten in DE — gilt bis zu drei Jahre. Vom Anwender mit aktuellem BZSt-Formularkatalog abzugleichen.
 - **Ansaessigkeitsbescheinigung des Heimatstaats**: IRS Form 6166 (US-Kuenstler), HMRC (UK-Bands), franzoesische Attestation de Residence Fiscale — Bearbeitung 4-8 Wochen, oft auch waehrend Tournee parallel.
 - **Werbungskosten / Betriebsausgaben sammeln**: Nettoabzug § 50a Abs. 3 EStG nur, wenn vorab nachgewiesen — Sammlung Hotel, Reise, Gage Crew, Equipment-Miete, Booking-Agency-Provision. Pauschalisierungs-Trick scheitert in Praxis.
-- **Bagatellklauseln im konkreten DBA pruefen**: viele DBA enthalten Befreiungen bei Kulturaustausch (öffentliche Förderung) oder Schwellenwerten. Bei US-Auftritten von DE-Kuenstlern: DBA-USA Art. 17 mit Bagatellklausel beachten (Schwelle vom Anwender mit aktuellem DBA-Text zu verifizieren).
-- **Star-Company-Substanzdokumentation**: bei zwischengeschalteter Production Company stets Personal, Buero, Geschaeftstaetigkeit dokumentieren — Pruefer praesumieren ohne Substanz Durchgriff auf Kuenstler.
+- **Bagatellklauseln im konkreten DBA prüfen**: viele DBA enthalten Befreiungen bei Kulturaustausch (öffentliche Förderung) oder Schwellenwerten. Bei US-Auftritten von DE-Kuenstlern: DBA-USA Art. 17 mit Bagatellklausel beachten (Schwelle vom Anwender mit aktuellem DBA-Text zu verifizieren).
+- **Star-Company-Substanzdokumentation**: bei zwischengeschalteter Production Company stets Personal, Buero, Geschaeftstaetigkeit dokumentieren — Prüfer praesumieren ohne Substanz Durchgriff auf Kuenstler.
 - **Q1-Antragsfenster** beim BZSt für Erstattungen — kuerzere Bearbeitung.
 
 ## Trade-off-Tabelle
@@ -111,15 +111,15 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 | Direktvertrag Kuenstler vs. Star-Company | Veranstalter zahlt direkt an Kuenstler | Zahlung an zwischengeschaltete Gesellschaft | bei klarer Substanz Pfad B (Konzern); bei Briefkasten droht § 50d Abs. 3 EStG-Ablehnung |
 | Auftrittsstaat-Quellensteuer hinnehmen vs. anfechten | Anrechnung § 34c EStG im Wohnsitzstaat | MAP bei strittiger Auslegung | bei klaren DBA-Anwendungen Anrechnung; bei strittiger Qualifikation (Streaming) MAP |
 | Veranstalter haftet vs. Vertragsklausel | Kuenstler-Vertrag uebernimmt Steuerlast | Veranstalter traegt § 50a-Einbehalt | Vertragsklausel "Brutto" vs. "Netto" — sauber regeln, sonst Haftungsfalle |
-| Online-Streaming als Auftritt vs. Lizenz | Art. 17 (persönlicher Auftritt) | Art. 12 (Lizenz Aufnahme) | bei reiner Streaming ohne physische Praesenz: Art. 17 strittig — vorsorglich Art. 12 oder Art. 7 pruefen |
+| Online-Streaming als Auftritt vs. Lizenz | Art. 17 (persönlicher Auftritt) | Art. 12 (Lizenz Aufnahme) | bei reiner Streaming ohne physische Praesenz: Art. 17 strittig — vorsorglich Art. 12 oder Art. 7 prüfen |
 
-## Was Reviewer/Pruefer triggert
+## Was Reviewer/Prüfer triggert
 
 - **§ 50a-Anmeldung des Veranstalters fehlt** — Vergueterschuldner-Haftung § 50a Abs. 5 EStG.
-- **Star-Company-Substanz nur behauptet** — Pruefer verlangt Beleg Personal, Mietvertrag, Stammbuch.
+- **Star-Company-Substanz nur behauptet** — Prüfer verlangt Beleg Personal, Mietvertrag, Stammbuch.
 - **Werbeeinnahmen mit Auftrittsgage vermischt** — Art. 12 (Lizenz) oder Art. 7 (Unternehmensgewinn) gesondert qualifizieren.
 - **Bagatellklauseln des DBA uebersehen** — für Amateursportler bei US-Auftritten oder europaeischen Tourneen relevant.
-- **Brutto-Netto-Klausel im Vertrag unklar** — Streit zwischen Veranstalter und Kuenstler ueber wirtschaftliche Belastung.
+- **Brutto-Netto-Klausel im Vertrag unklar** — Streit zwischen Veranstalter und Kuenstler über wirtschaftliche Belastung.
 - **Werbungskostennachweis fehlt** bei Nettobesteuerung.
 - **Ansaessigkeitsbescheinigung des Auslandskuenstlers fehlt** — BZSt verweigert Freistellung.
 - **§ 50d Abs. 3 EStG-Substanztest fehlt** bei Star-Company.
@@ -133,14 +133,14 @@ Sachverhalt: US-Band tritt in DE bei drei Konzerten auf. Gage 300.000 EUR brutto
 | Gage | 300.000 EUR | 300.000 EUR |
 | Werbungskosten | nicht abziehbar | 150.000 EUR |
 | Bemessungsgrundlage | 300.000 EUR | 150.000 EUR |
-| § 50a EStG-Satz | 15 Prozent (bei "geringen" Verguetungen pauschal 15 Prozent; Schwelle und Detail nach § 50a EStG in der jeweils geltenden Fassung pruefen) | 30 Prozent (Spitzensatz bei Nettoabzug) |
+| § 50a EStG-Satz | 15 Prozent (bei "geringen" Verguetungen pauschal 15 Prozent; Schwelle und Detail nach § 50a EStG in der jeweils geltenden Fassung prüfen) | 30 Prozent (Spitzensatz bei Nettoabzug) |
 | Steuer | 45.000 EUR (15 Prozent von 300.000) | 45.000 EUR (30 Prozent von 150.000) |
 | Soli (5,5 Prozent der Steuer) | 2.475 EUR | 2.475 EUR |
 | Effektive Belastung | 47.475 EUR | 47.475 EUR |
 
-(**Werte sind Beispiel — § 50a EStG-Satz und Bemessungsgrundlage konkret nach der jeweils geltenden Fassung pruefen; Nettoabzug verlangt vorherigen Antrag und Belegnachweis; § 50a Abs. 2-4 EStG-Spezifika beachten.**)
+(**Werte sind Beispiel — § 50a EStG-Satz und Bemessungsgrundlage konkret nach der jeweils geltenden Fassung prüfen; Nettoabzug verlangt vorherigen Antrag und Belegnachweis; § 50a Abs. 2-4 EStG-Spezifika beachten.**)
 
-## Star-Company-Pruefung (Mustertabelle)
+## Star-Company-Prüfung (Mustertabelle)
 
 | Pruefpunkt | Befund Mandant | Status |
 |---|---|---|
@@ -148,7 +148,7 @@ Sachverhalt: US-Band tritt in DE bei drei Konzerten auf. Gage 300.000 EUR brutto
 | Geschaeftsraeume | [Mietvertrag/Anschrift] | [eigen/fremd] |
 | Geschaeftstaetigkeit | [Vermarktung/Booking/Management] | [eigenstaendig/durchgereicht] |
 | Wirtschaftliche Vernuenftigkeit | [Konzerngeschichte/Vor-DBA-Status] | [plausibel/Steuergrund] |
-| Empfaenger der Verguetung | [Star-Company/Kuenstler-Person] | [identisch wirtschaftlich?] |
+| Empfaenger der Vergütung | [Star-Company/Kuenstler-Person] | [identisch wirtschaftlich?] |
 | § 50d Abs. 3 EStG-Test | [Substanz nachgewiesen?] | [bestanden/scheitert] |
 
 ## Quellen und Updates

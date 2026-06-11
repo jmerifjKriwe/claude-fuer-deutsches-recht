@@ -27,7 +27,7 @@ description: "Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpas
 ## Triage zu Beginn
 1. Welcher Abschnitt des Profils soll angepasst werden: Semesterwechsel, Fachbereich, Prüfungsgates, Anleiter-Kontakt oder Gesetzesaenderung?
 2. Hat sich die Rechtsgrundlage der Beratungsstelle geaendert (z.B. neues RDG, neue Kooperationsvereinbarung)?
-3. Sind neue Studierende aufgenommen worden, die in die CLAUDE.md eingetragen werden muessen?
+3. Sind neue Studierende aufgenommen worden, die in die CLAUDE.md eingetragen werden müssen?
 4. Soll gleichzeitig ein Fachbereichsleitfaden angepasst werden oder nur das Hauptprofil?
 
 ## Aktuelle Rechtsprechung
@@ -37,7 +37,7 @@ description: "Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpas
 - § 6 Abs. 2 Nr. 2 RDG — Anleitungsstruktur muss aktuell und wirksam sein; Semesterwechsel erfordert Profil-Update
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: bei Aenderung des Verarbeitungsumfangs zu aktualisieren
 - §§ 43, 43a BRAO — Berufspflichten des Anleiters: kontinuierliche Aktualitaet der Organisationsunterlagen
-- § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studierenden neue Verschwiegenheitsvereinbarungen pruefen
+- § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studierenden neue Verschwiegenheitsvereinbarungen prüfen
 
 ## Häufige Anpassungsszenarien
 

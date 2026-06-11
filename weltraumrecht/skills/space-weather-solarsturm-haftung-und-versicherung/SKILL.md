@@ -27,18 +27,18 @@ description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche
 - **Carrington-Ereignis 1859** geschaetzte G5+ — historisches Maximum.
 - **Quebec-Blackout 13.03.1989** G5 — Hydro-Quebec-Netz 9 Std. ausgefallen, 6 Mio. Menschen ohne Strom.
 - **Halloween-Storms Oktober/November 2003** G5 — Satellitenausfall (z. B. ADEOS-2), GPS-Drift, Luftfahrtumleitungen.
-- **Gannon Storm Mai 2024** G5 — starke Aurora bis ins Mittelmeer; Starlink reduzierte Hoehe, mehrere kommerzielle Satelliten temporaer ausser Betrieb.
+- **Gannon Storm Mai 2024** G5 — starke Aurora bis ins Mittelmeer; Starlink reduzierte Höhe, mehrere kommerzielle Satelliten temporaer ausser Betrieb.
 
 ## Vertrags- und Versicherungsrecht
 
-- **Force-Majeure-Klauseln**: hauptstreit, ob Solarsturm als hoehere Gewalt qualifiziert. Argumente pro: nicht beherrschbar, nicht versicherbar im Vollumfang. Argumente contra: vorhersehbar via NOAA SWPC und ESA SSA mit Vorlauf bis zu 72 Stunden, Mitigation moeglich (Safe-Mode, Bahnkorrektur, Stromnetzdrosselung).
+- **Force-Majeure-Klauseln**: hauptstreit, ob Solarsturm als hoehere Gewalt qualifiziert. Argumente pro: nicht beherrschbar, nicht versicherbar im Vollumfang. Argumente contra: vorhersehbar via NOAA SWPC und ESA SSA mit Vorlauf bis zu 72 Stunden, Mitigation möglich (Safe-Mode, Bahnkorrektur, Stromnetzdrosselung).
 - **Versicherungsklauseln**: Lloyd's LMA5390 (TLI) und Folgevarianten beinhalten Naturereignisse als Deckungsfall, schliessen aber "wilful misconduct" und unzureichende Mitigation aus. Bei Solarsturm idR Deckung wenn Warnung vom Betreiber befolgt wurde.
 - **Cyber-vs-Naturklauseln**: Klare Trennung; geomagnetisch induzierte Stromschwankungen sind Naturereignisse, kein Cyber-Vorfall.
 - **Sublimits**: oft 25-50 Mio. Euro für geomagnetisch induzierte Schaeden je Versicherer-Einheit.
 
 ## KRITIS und NIS2
 
-- **§ 8a BSIG**: Betreiber Kritischer Infrastrukturen Energie und Telekommunikation muessen Vorkehrungen gegen Space Weather als Naturgefahr treffen (Stellungnahme BSI 2022, Az im Digitalisat verifizieren).
+- **§ 8a BSIG**: Betreiber Kritischer Infrastrukturen Energie und Telekommunikation müssen Vorkehrungen gegen Space Weather als Naturgefahr treffen (Stellungnahme BSI 2022, Az im Digitalisat verifizieren).
 - **NIS2-Richtlinie**: Risikomanagement umfasst geophysikalische Ereignisse; Vorfallmeldung bei betrieblicher Stoerung.
 - **EnWG § 11**: Pflicht der Netzbetreiber zur Aufrechterhaltung; spezifische Vorgaben der BNetzA zur Reservehaltung gegen geomagnetisch induzierte Stroeme (GIC) live verifizieren.
 

@@ -31,7 +31,7 @@ Ein erfolgreicher Aufsatz oder ein neues Buch wird zum Webinar ausgebaut: 60-90 
 
 - BRAO § 43a Abs. 6 in Verbindung mit FAO § 15 - Fortbildungspflicht und Bescheinigung 15 Stunden pro Jahr im Fachgebiet.
 - UrhG §§ 15, 19a - Verwertungsrechte; Webinarvortrag als unkoerperliche Wiedergabe.
-- UrhG § 32 - angemessene Verguetung; Festhonorar oder Beteiligung am Verkaufserloes der Aufzeichnung.
+- UrhG § 32 - angemessene Vergütung; Festhonorar oder Beteiligung am Verkaufserloes der Aufzeichnung.
 - KUG §§ 22, 23 - Bildnisrecht des Referenten und der Teilnehmenden bei Aufzeichnung.
 - DSGVO Art. 6, 13, 28 - Rechtsgrundlage, Informationspflichten, Auftragsverarbeitung mit Plattform.
 - TDDDG / TTDSG § 25 - Einwilligung für Cookies und Trackingpixel.
@@ -54,7 +54,7 @@ Ein erfolgreicher Aufsatz oder ein neues Buch wird zum Webinar ausgebaut: 60-90 
 
 | Aspekt | Kostenpflichtig | Kostenfrei (Lead-Magnet) |
 |---|---|---|
-| Umsatz | Direkt | Indirekt ueber Buchverkauf |
+| Umsatz | Direkt | Indirekt über Buchverkauf |
 | Teilnehmerzahl | Niedriger, qualifizierter | Hoeher, gemischter |
 | FAO-Anerkennung | Erfordert | Optional |
 | Marketingwirkung | Mittel | Hoch |
@@ -64,11 +64,11 @@ Ein erfolgreicher Aufsatz oder ein neues Buch wird zum Webinar ausgebaut: 60-90 
 
 - FAO-Anerkennung ist Verkaufsargument; ohne sie sind viele Anwaeltinnen zurueckhaltend.
 - Maximum 90 Minuten plus Q&A; danach sinkt die Konzentration.
-- Folien spaetestens 24 Stunden vor Termin pruefen.
+- Folien spaetestens 24 Stunden vor Termin prüfen.
 - Vorab-Mail mit Login-Link und Hinweis "Bitte 10 Minuten vor Start einwaehlen".
 - Aufzeichnung nur mit ausdruecklicher Einwilligung des Autors und Teilnehmender; Chat ggf. aus der Aufnahme ausschliessen.
 - Folien-PDF nach dem Webinar als Bonus; erhoeht Buchkauf-Conversion.
-- Bei Aufzeichnungs-Verkauf separate Verguetung an Autor.
+- Bei Aufzeichnungs-Verkauf separate Vergütung an Autor.
 - Bei Bezahlteilnahme: Buchpreisbindung beachten, Webinarpreis ist frei.
 
 ## Mustertexte / Vorlagen
@@ -166,7 +166,7 @@ Fortbildung anerkannt.
 ## Quellen Stand 06/2026
 
 - BRAO § 43a Abs. 6; FAO § 15 - Fortbildungspflicht und -nachweis.
-- UrhG §§ 15, 19a, 32 - Verwertungsrechte und Verguetung.
+- UrhG §§ 15, 19a, 32 - Verwertungsrechte und Vergütung.
 - KUG §§ 22, 23 - Bildnisrecht.
 - DSGVO Art. 6, 13, 28 - Rechtsgrundlage, Information, Auftragsverarbeitung.
 - TDDDG § 25 - Einwilligung bei Cookies.

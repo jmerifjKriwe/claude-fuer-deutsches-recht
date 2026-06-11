@@ -74,14 +74,14 @@ description: "UWG-Abmahnung prüfen versenden oder auf Eingang reagieren: § 8 U
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — UWG-Abmahnung aussprechen oder empfangen | Abmahnungs-Vollmuster und ggf. eAVV-Antrag unten |
 | Variante A — Abmahnung ist missbraeuchlich (§ 8c UWG) | Widerspruchsbaustein unten; kein UE unterzeichnen |
 | Variante B — Mandant moechte selbst abmahnen | Abmahnungs-Vollmuster unten; Streitwert sorgfaeltig berechnen |
-| Variante C — einstweilige Verfuegung noetig | eAVV-Antrag unten; Dringlichkeit pruefen |
+| Variante C — einstweilige Verfuegung noetig | eAVV-Antrag unten; Dringlichkeit prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -204,7 +204,7 @@ und auf Ersatz unserer Abwehrkosten zu erheben.
 [Kanzlei, Datum]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -3,7 +3,7 @@ name: hafenvertiefung-beteiligung-pruefen
 description: "Umweltschutzverband Verbandsklage: Hafenvertiefung: Beteiligung prüfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Hafenvertiefung Beteiligung Pruefen
+# Hafenvertiefung Beteiligung Prüfen
 
 ## Arbeitsweg
 

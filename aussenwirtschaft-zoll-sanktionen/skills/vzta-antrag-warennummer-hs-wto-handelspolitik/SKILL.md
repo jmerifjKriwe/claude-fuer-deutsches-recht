@@ -22,11 +22,11 @@ description: "Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff: Antrags
 ## Erste Schritte
 
 1. Ware vollstaendig technisch beschreiben: Zusammensetzung Funktion Verwendungszweck Herstellungsverfahren.
-2. Muster oder Fotos beilegen soweit moeglich und sinnvoll.
+2. Muster oder Fotos beilegen soweit möglich und sinnvoll.
 3. Warennummer-Vorschlag nach KN/TARIC mit Begruendung (Allgemeine Vorschriften AV 1-6) formulieren.
 4. Antragsformular ZOLLV (Formular 0336) vollstaendig ausfuellen.
 5. Antrag beim BILDUNGSZENTRUM der Bundesfinanzverwaltung oder Hauptzollamt einreichen.
-6. Bindungswirkung pruefen: vZTA gilt EU-weit 3 Jahre; Rechtschutz gegen ablehnenden Bescheid kennen.
+6. Bindungswirkung prüfen: vZTA gilt EU-weit 3 Jahre; Rechtschutz gegen ablehnenden Bescheid kennen.
 
 ## Rechtsrahmen
 

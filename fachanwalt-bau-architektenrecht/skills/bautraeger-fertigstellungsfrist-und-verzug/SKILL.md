@@ -42,5 +42,5 @@ description: "Bautraeger Fertigstellungsfrist und Verzug: Skill klaert die Verei
 
 1. Fertigstellungsfrist konkret?
 2. Vertragsstrafe vereinbart?
-3. Hoehe der Vertragsstrafe angemessen?
+3. Höhe der Vertragsstrafe angemessen?
 4. Bei Verzug: Mahnungs- und Klagestrategie?

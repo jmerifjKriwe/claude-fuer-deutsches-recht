@@ -27,7 +27,7 @@ description: "Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwe
 ### Build Guide: Anleitungsgeführter Fachbereichsleitfaden
 
 ## Triage zu Beginn
-1. Fuer welchen Fachbereich soll der Leitfaden erstellt werden (Mietrecht, Sozialrecht, Aufenthaltsrecht, Strafrecht)?
+1. Für welchen Fachbereich soll der Leitfaden erstellt werden (Mietrecht, Sozialrecht, Aufenthaltsrecht, Strafrecht)?
 2. Welche Paedagogikhaltung soll der Leitfaden vorgeben: ausfuehren, anleiten oder lehren?
 3. Gibt es einen bestehenden Leitfaden, der ueberarbeitet werden soll, oder wird er neu erstellt?
 4. Welche spezifischen Prüfungsgates und RDG-Grenzen sollen für diesen Fachbereich konfiguriert werden?
@@ -39,7 +39,7 @@ description: "Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwe
 - § 6 Abs. 2 Nr. 2 RDG — Erlaubnisfreie Rechtsberatung in Beratungsstellen unter Anleitung eines Volljuristen; Leitfaden konfiguriert den Anleitungsrahmen
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des anleitenden Anwalts: gilt auch für Leitfaden-Inhalte und Mandatsdaten
 - § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende) erfordert vertragliche Absicherung der Verschwiegenheit
-- § 43a Abs. 4 BRAO i.V.m. § 3 BORA — Interessenkonflikt-Regeln muessen im Leitfaden für jeden Fachbereich verankert sein
+- § 43a Abs. 4 BRAO i.V.m. § 3 BORA — Interessenkonflikt-Regeln müssen im Leitfaden für jeden Fachbereich verankert sein
 
 ## Berufsrechtlicher Rahmen
 

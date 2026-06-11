@@ -129,16 +129,16 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin deckt die strategische und rechtliche Beratung zur betrieblichen Altersversorgung (bAV) in Konzernen ab. Es reicht von der Wahl und dem Vergleich der fuenf Durchfuehrungswege ueber die Strukturierung von CTAs und Pension Buyouts bis hin zur internationalen Harmonisierung von Versorgungssystemen in multinationalen Konzernen.
+Das Plugin deckt die strategische und rechtliche Beratung zur betrieblichen Altersversorgung (bAV) in Konzernen ab. Es reicht von der Wahl und dem Vergleich der fuenf Durchfuehrungswege über die Strukturierung von CTAs und Pension Buyouts bis hin zur internationalen Harmonisierung von Versorgungssystemen in multinationalen Konzernen.
 
 Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssicheren Gestaltung, Anpassung oder Aufloesung von Betriebsrenten beauftragt sind. Besondere Relevanz hat die Drei-Stufen-Theorie des BAG bei Eingriffen in bereits erdiente Anwartschaften sowie die Mitbestimmungsrechte des Betriebsrats. Im M-und-A-Kontext sind Haftungsuebergang und Due Diligence von Altsystemen zentrale Themen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Ein Konzern moechte seine bAV-Landschaft nach einer Fusion oder Akquisition harmonisieren und bestehende Altsysteme analysieren.
-- Sie beraten zu einem Pension Buyout und muessen Voraussetzungen, Versicherungsloesungen und Bilanzauswirkungen strukturieren.
+- Sie beraten zu einem Pension Buyout und müssen Voraussetzungen, Versicherungsloesungen und Bilanzauswirkungen strukturieren.
 - Betriebsrat und Arbeitgeber verhandeln eine neue Versorgungsordnung und benoetigen einen rechtssicheren Entwurf.
-- Expatriates sind in internationalen Konzernen taetig und Pensionsluecken sowie Totalisierungsabkommen muessen analysiert werden.
+- Expatriates sind in internationalen Konzernen tätig und Pensionsluecken sowie Totalisierungsabkommen müssen analysiert werden.
 - Ein US- oder Japan-Konzern moechte seine europaeischen bAV-Strukturen mit lokalen Anforderungen und IORP-II in Einklang bringen.
 
 ## Fachbegriffe (kurz erklaert)
@@ -148,7 +148,7 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 - **Drei-Stufen-Theorie** — BAG-Rechtsprechung zum Schutz erdienter Anwartschaften: Je groesser der Eingriff, desto hoeher die Anforderungen an die Rechtfertigung.
 - **PSV** — Pensionssicherungsverein; gesetzlicher Insolvenzschutzmechanismus für bestimmte bAV-Durchfuehrungswege.
 - **Pension Buyout** — Uebertragung von Pensionsverpflichtungen auf einen Versicherer oder ein CTA zur Bilanzbereinigung (De-Risking).
-- **IORP-II** — EU-Richtlinie ueber Taetigkeiten und Beaufsichtigung von Einrichtungen der betrieblichen Altersversorgung.
+- **IORP-II** — EU-Richtlinie über Taetigkeiten und Beaufsichtigung von Einrichtungen der betrieblichen Altersversorgung.
 - **Unverfallbarkeit** — Gesetzlicher Schutz erdienter Anwartschaften: Nach Ablauf der Unverfallbarkeitsfrist bleiben Ansprueche auch bei Arbeitgeberwechsel erhalten (§ 1b BetrAVG).
 - **§ 6a EStG** — Steuerliche Regelung zur Passivierung von Pensionsrueckstellungen bei Direktzusagen.
 
@@ -176,7 +176,7 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 1. Konzernstruktur und bAV-Ist-Stand erfassen (Durchfuehrungswege, Länder, Beschaeftigtenzahl).
 2. Handlungsanlass bestimmen (Neueinfuehrung, Harmonisierung nach M-und-A, Eingriff in Anwartschaften, Buyout).
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Mitbestimmungsrechtliche Anforderungen pruefen (Betriebsrat, Einigungsstelle).
+4. Mitbestimmungsrechtliche Anforderungen prüfen (Betriebsrat, Einigungsstelle).
 5. Steuerliche und bilanzielle Auswirkungen abstimmen (§ 6a EStG, IFRS IAS 19).
 
 ## Skill-Tour (was gibt es hier?)
@@ -203,17 +203,17 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 
 - **Drei-Stufen-Theorie strikt anwenden**: Eingriffe in bereits erdiente Anwartschaften scheitern regelmaessig an der BAG-Rechtsprechung, wenn keine sachlichen Gruende vorliegen.
 - **Mitbestimmung nicht vergessen**: Die Einfuehrung und wesentliche Aenderung von bAV-Systemen ist mitbestimmungspflichtig nach § 87 Abs. 1 Nr. 8 BetrVG.
-- **IFRS und steuerliche Bilanzierung abstimmen**: IFRS IAS 19 und § 6a EStG folgen unterschiedlichen Bewertungslogiken; Discrepanzen koennen zu Ueberraschungen fuehren.
+- **IFRS und steuerliche Bilanzierung abstimmen**: IFRS IAS 19 und § 6a EStG folgen unterschiedlichen Bewertungslogiken; Discrepanzen können zu Ueberraschungen fuehren.
 - **Drittlandrisiko bei internationalen Datenflows**: bAV-Daten von Expatriates oder ausländischen Konzerngesellschaften fallen unter DSGVO Art. 44 ff.
 - **PSV-Pflicht nicht uebersehen**: Nicht alle Durchfuehrungswege sind PSV-pflichtig; Fehler bei der Einordnung fuehren zu Haftungsluecken.
 
 ## Typische Fehler
 
-- Betriebsvereinbarung ohne Mitbestimmungsverfahren aendern; fuehrt zu Unwirksamkeit und Einigungsstellenverfahren.
+- Betriebsvereinbarung ohne Mitbestimmungsverfahren ändern; fuehrt zu Unwirksamkeit und Einigungsstellenverfahren.
 - CTA-Struktur aufbauen ohne IFRS-Saldierungsguachten; IFRS-Bilanzerleichterung tritt nicht ein.
 - Beim M-und-A-Deal bAV-Haftung im Asset-Deal uebersehen; Erwerber tritt automatisch in bestehende Versorgungspflichten ein.
-- Expatriate-Pensionsplanung ohne Pruefung der Totalisierungsabkommen; doppelte Sozialversicherungspflicht entstehen.
-- Historische Altsysteme ohne Due Diligence fortfuehren; ungedeckte Verpflichtungen koennen Bilanzen signifikant belasten.
+- Expatriate-Pensionsplanung ohne Prüfung der Totalisierungsabkommen; doppelte Sozialversicherungspflicht entstehen.
+- Historische Altsysteme ohne Due Diligence fortfuehren; ungedeckte Verpflichtungen können Bilanzen signifikant belasten.
 
 ## Quellen und Aktualitaet
 

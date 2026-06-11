@@ -26,14 +26,14 @@ description: "Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbed
 ### § 21 Abs. 5 SGB II — kostenaufwendige Ernaehrung
 - Bei medizinisch notwendiger besonderer Ernaehrung.
 - Aerztliches Attest.
-- Hoehe nach Empfehlungen Deutscher Verein.
+- Höhe nach Empfehlungen Deutscher Verein.
 
 ### § 21 Abs. 6 SGB II — unabweisbarer laufender besonderer Bedarf
 - Atypischer, dauerhafter und unabweisbarer Mehrbedarf, der vom Regelbedarf nicht erfasst ist.
 - Beispiele: Hygiene bei chronischer Krankheit, besondere Pflegebedarfe, regelmäßige Reisen zu Verwandten in besonderen Konstellationen.
 
 ### § 21 Abs. 7 SGB II — Warmwassererzeugung dezentral
-- Bei Warmwassererzeugung ueber dezentrale elektrische Geraete (Durchlauferhitzer Boiler).
+- Bei Warmwassererzeugung über dezentrale elektrische Geraete (Durchlauferhitzer Boiler).
 - Pauschale nach Personenzahl im Haushalt.
 
 ### Hinweis Erstausstattung
@@ -44,5 +44,5 @@ description: "Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbed
 1. Welcher Mehrbedarf?
 2. Voraussetzungen erfuellt?
 3. Aerztliches Attest noetig?
-4. Hoehe richtig?
+4. Höhe richtig?
 5. Antrag separat zu stellen?

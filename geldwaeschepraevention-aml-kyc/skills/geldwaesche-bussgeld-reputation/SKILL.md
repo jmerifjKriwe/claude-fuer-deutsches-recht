@@ -16,7 +16,7 @@ description: "Strukturierung von Bußgeldriskien Geschäftsleiterhaftung und Rep
 ## Triage zu Beginn
 1. Liegt ein BaFin-Bußgeldverfahren, eine Staatsanwaltschaftliche Ermittlung oder eine Presseanfrage vor?
 2. Wer ist verantwortliche Person: Geldwäschebeauftragter, Geschaeftsfuehrer oder Verwaltungsrat?
-3. Welche Remediation-Massnahmen wurden bereits eingeleitet?
+3. Welche Remediation-Maßnahmen wurden bereits eingeleitet?
 4. Gibt es eine externe Kommunikations- oder PR-Strategie für den Reputationsschaden?
 
 ## Aktuelle Rechtsprechung und Behördenpraxis
@@ -24,7 +24,7 @@ description: "Strukturierung von Bußgeldriskien Geschäftsleiterhaftung und Rep
 
 ## Zentrale Normen
 - § 56 GwG — Bußgeldtatbestaende (bis 5 Mio. EUR oder 10 % des Jahresumsatzes bei Kreditinstituten)
-- § 57 GwG — Veroeffentlichung von Massnahmen (Naming and Shaming)
+- § 57 GwG — Veroeffentlichung von Maßnahmen (Naming and Shaming)
 - § 30 OWiG — Verbandsgeldbusse
 - § 130 OWiG — Aufsichtspflichtverletzung durch Geschaeftsleiter
 

@@ -19,7 +19,7 @@ description: "Schiedsstellenverfahren nach § 18a KHG / § 13 KHEntgG: Antragste
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostentraeger ueber Budget, Pflegesatz, Vorhalte- oder Pflegebudget nicht einigen. Sie ist paritaetisch besetzt; ihre Entscheidung ist Verwaltungsakt mit Klagerecht zum VG.
+Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostentraeger über Budget, Pflegesatz, Vorhalte- oder Pflegebudget nicht einigen. Sie ist paritaetisch besetzt; ihre Entscheidung ist Verwaltungsakt mit Klagerecht zum VG.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Sind Budgetverhandlungen gescheitert? Schriftliche Scheitenserklaerung vorhanden?
@@ -42,7 +42,7 @@ Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostent
 3. **Sachverhalt aufbereiten:** AEB, L-Datensatz, Pflegebudget, Vorhalteanteil, Vergleichsdaten, MD-Beanstandungen.
 4. **Antrag formulieren:** Konkrete Werte (Erloesbudget, Pflegesatz, Vorhaltequote, Veraenderungsrate).
 5. **Verhandlung vor Schiedsstelle:** Vortrag, Beweis, Plaedoyer; Sitzungsprotokoll.
-6. **Entscheidung pruefen:** Begruendung, Plausibilitaet, Beurteilungsspielraum.
+6. **Entscheidung prüfen:** Begruendung, Plausibilitaet, Beurteilungsspielraum.
 7. **Klage zum VG** (§ 18a Abs. 4 KHG): 1 Monat; ggf. einstweiliger Rechtsschutz.
 
 ## Trade-off-Matrix
@@ -50,12 +50,12 @@ Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostent
 | Lage | Strategie | Effekt |
 |---|---|---|
 | begrenzter Streit, gute Datengrundlage | Schiedsstelle anrufen, schnelle Loesung | Planungssicherheit |
-| breite Datenlage strittig | Sachverstaendigengutachten | tiefe Pruefung, hoehere Kosten |
+| breite Datenlage strittig | Sachverstaendigengutachten | tiefe Prüfung, hoehere Kosten |
 | Klage nach Entscheidung | hoehere Pruefdichte VG | Verfahrensdauer |
 | Vergleich vor Entscheidung | Risikominderung | Kompromiss noetig |
 
 ## Praxistipps
-- Schiedsstelle hat **Beurteilungsspielraum** (BVerwG): VG prueft eingeschraenkt — Fokus auf Verfahrensfehler, Sachverhaltsfeststellung, Ermessensgrenze.
+- Schiedsstelle hat **Beurteilungsspielraum** (BVerwG): VG prüft eingeschraenkt — Fokus auf Verfahrensfehler, Sachverhaltsfeststellung, Ermessensgrenze.
 - Vergleichbarkeit mit anderen Kliniken (Benchmark) ist oft das wirksamste Argument.
 - Vorhalteanteil und Pflegebudget separat verhandeln; keine "Mischung".
 - Termin der Schiedsstelle gut vorbereiten — Schriftsatz vor Termin oft entscheidend.
@@ -63,10 +63,10 @@ Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostent
 
 ## Mustertexte
 **Schiedsantrag (Skizze):**
-> An die Schiedsstelle nach § 18a KHG für das Land [Name]. Antragstellerin: [Krankenhaus]. Antragsgegnerin: [Kostentraeger]. Antraege: 1. Festsetzung Erloesbudget 2026 auf [EUR]. 2. Vorhalteanteil [%] je LG. 3. Veraenderungsrate gemaess GKV-Spitzenverband. Begruendung … Anlagen: AEB, L-Datensatz, MD-Berichte, Casemix.
+> An die Schiedsstelle nach § 18a KHG für das Land [Name]. Antragstellerin: [Krankenhaus]. Antragsgegnerin: [Kostentraeger]. Antraege: 1. Festsetzung Erloesbudget 2026 auf [EUR]. 2. Vorhalteanteil [%] je LG. 3. Veraenderungsrate gemäß GKV-Spitzenverband. Begruendung … Anlagen: AEB, L-Datensatz, MD-Berichte, Casemix.
 
 **Klage VG nach Schiedsspruch:**
-> Anfechtungsklage gemaess § 18a Abs. 4 KHG. Klageantrag: Entscheidung der Schiedsstelle vom [Datum] aufzuheben; hilfsweise Verpflichtung zur Neufestsetzung. Begruendung: 1. Beurteilungsfehler bei … 2. Verfahrensfehler … 3. Ermessensueberschreitung …
+> Anfechtungsklage gemäß § 18a Abs. 4 KHG. Klageantrag: Entscheidung der Schiedsstelle vom [Datum] aufzuheben; hilfsweise Verpflichtung zur Neufestsetzung. Begruendung: 1. Beurteilungsfehler bei … 2. Verfahrensfehler … 3. Ermessensueberschreitung …
 
 ## Typische Fehler
 - Antrag ohne konkrete Wertangaben — Schiedsstelle entscheidet nicht in Luft.

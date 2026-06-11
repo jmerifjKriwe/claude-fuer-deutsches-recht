@@ -29,7 +29,7 @@ Die Behörde hat schon Ja gesagt. Aber das Geld kommt nicht. Oder das Hilfsmitte
 
 - **Leistungsklage**: Klage direkt auf eine Handlung der Behörde.
 - **Schlichte Geldleistung**: Konkreter Geldbetrag, der gezahlt werden muss.
-- **Vollstreckung**: Wenn auch nach Urteil nicht gezahlt wird, koennen Sie das Geld eintreiben.
+- **Vollstreckung**: Wenn auch nach Urteil nicht gezahlt wird, können Sie das Geld eintreiben.
 
 ## Rechtsgrundlagen
 
@@ -39,9 +39,9 @@ Die Behörde hat schon Ja gesagt. Aber das Geld kommt nicht. Oder das Hilfsmitte
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Leistungsklage passt
+### Schritt 1 — Prüfen, ob Leistungsklage passt
 
-Leistungsklage ohne Vorverfahren ist moeglich, wenn:
+Leistungsklage ohne Vorverfahren ist möglich, wenn:
 
 - Es keinen ablehnenden Verwaltungsakt mehr gibt (Anspruch ist klar).
 - Es um schlichte Zahlung geht (Bewilligung schon erfolgt).
@@ -99,9 +99,9 @@ Wie alle Klagen: schriftlich, Fax, MJP, oder zur Niederschrift.
 
 ### Schritt 4 — Bei Erfolg Vollstreckung
 
-Wenn die Behörde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199 SGG). Selten noetig, weil Behörden meistens dann zahlen.
+Wenn die Behörde auch nach Urteil nicht zahlt, können Sie vollstrecken (§ 199 SGG). Selten noetig, weil Behörden meistens dann zahlen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Wenn doch noch ein Ablehnungsbescheid existiert**: Leistungsklage allein nicht ausreichend, dann Anfechtungs- und Leistungsklage.
 - **Verzugszinsen**: Bei Sozialleistungen gibt es regelmaessig Verzinsung nach § 44 SGB I (4 % p.a. ab dem 7. Monat nach Antragsmonat).
@@ -115,4 +115,4 @@ Wenn die Behörde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 54 Abs. 5 SGG aktuell. Verzinsung § 44 SGB I — pruefen.
+Stand: 05/2026. § 54 Abs. 5 SGG aktuell. Verzinsung § 44 SGB I — prüfen.

@@ -13,7 +13,7 @@ description: "Arbeitgeber- und Arbeitnehmer-Anteile in der SV. Anwendungsfall Ve
 
 ## Kernsachverhalt
 
-Die SV-Beitraege werden grundsaetzlich paritaetisch zwischen AG und AN aufgeteilt. Es gibt aber Sonderregelungen: PV-Kinderlosenzuschlag (AN allein), U1/U2-Umlagen (AG allein), Insolvenzgeld-Umlage (AG allein), Berufsgenossenschaft (AG allein), Sachsen-PV-Sonderregelung. Der Steuerberater konfiguriert die Aufteilung im DATEV LODAS / Lohn und Gehalt korrekt.
+Die SV-Beitraege werden grundsätzlich paritaetisch zwischen AG und AN aufgeteilt. Es gibt aber Sonderregelungen: PV-Kinderlosenzuschlag (AN allein), U1/U2-Umlagen (AG allein), Insolvenzgeld-Umlage (AG allein), Berufsgenossenschaft (AG allein), Sachsen-PV-Sonderregelung. Der Steuerberater konfiguriert die Aufteilung im DATEV LODAS / Lohn und Gehalt korrekt.
 
 ## Kaltstart-Rueckfragen
 
@@ -55,33 +55,33 @@ Die SV-Beitraege werden grundsaetzlich paritaetisch zwischen AG und AN aufgeteil
 | KV allgemein | 7,3 Prozent | 7,3 Prozent |
 | KV-Zusatzbeitrag (KK-individuell) | halftig (paritaetisch seit 01.01.2019) | halftig |
 | PV (allgemein, ausserhalb Sachsen) | halftig | halftig |
-| PV-Zuschlag Kinderlose ab Vollendung des 23. Lj. | 0 | 0,6 Prozent allein zu Lasten AN (Stand 2025; § 55 Abs. 3 SGB XI i.d.F. PflegeunterstuetzungsG gueltig seit 01.07.2023; jaehrlich ueber GKV-Spitzenverband pruefen) |
-| PV-Abschlag mit Kindern (PUEG ab 01.07.2023) | nicht beruehrt | gestaffelter Abschlag für AN je Kind ab 2. Kind (0,25 Prozent/Kind), bis maximal 5 Kinder (max. 1,0 Prozent Abschlag); § 55 Abs. 3 SGB XI (Stand 2025; bei kuenftigen Anpassungen GKV-Spitzenverband pruefen) |
+| PV-Zuschlag Kinderlose ab Vollendung des 23. Lj. | 0 | 0,6 Prozent allein zu Lasten AN (Stand 2025; § 55 Abs. 3 SGB XI i.d.F. PflegeunterstuetzungsG gueltig seit 01.07.2023; jaehrlich über GKV-Spitzenverband prüfen) |
+| PV-Abschlag mit Kindern (PUEG ab 01.07.2023) | nicht beruehrt | gestaffelter Abschlag für AN je Kind ab 2. Kind (0,25 Prozent/Kind), bis maximal 5 Kinder (max. 1,0 Prozent Abschlag); § 55 Abs. 3 SGB XI (Stand 2025; bei kuenftigen Anpassungen GKV-Spitzenverband prüfen) |
 | PV Sachsen (Buss- und Bettag) | typisch geringer AG-Anteil; AN traegt zusaetzliche 0,5 Prozent (§ 58 Abs. 3 SGB XI) | typisch hoeherer AN-Anteil |
-| RV | 9,3 Prozent | 9,3 Prozent (gesamt 18,6 Prozent — Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen) |
-| AV | 1,3 Prozent je Seite (gesamt 2,6 Prozent — Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen) | wie AG |
+| RV | 9,3 Prozent | 9,3 Prozent (gesamt 18,6 Prozent — Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen) |
+| AV | 1,3 Prozent je Seite (gesamt 2,6 Prozent — Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen) | wie AG |
 | U1 (Kleinunternehmer bis 30 AN) | voll AG | 0 |
 | U2 (Mutterschaft, alle AG) | voll AG | 0 |
 | Insolvenzgeld-Umlage | voll AG | 0 |
 | Berufsgenossenschaft | voll AG | 0 |
 
-(Saemtliche Beitragssaetze Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel ueber DRV, BMAS, GKV-Spitzenverband sowie KK-individuelle Zusatzbeitragssatzungen pruefen.)
+(Saemtliche Beitragssaetze Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel über DRV, BMAS, GKV-Spitzenverband sowie KK-individuelle Zusatzbeitragssatzungen prüfen.)
 
 ### Phase 2 — PV-Kinderlosenzuschlag
 
-- AN ohne Kinder ab 23 Jahre: zusaetzlicher Anteil 0,6 Prozent (Stand 2025, § 55 Abs. 3 SGB XI; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen).
+- AN ohne Kinder ab 23 Jahre: zusaetzlicher Anteil 0,6 Prozent (Stand 2025, § 55 Abs. 3 SGB XI; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen).
 - AN mit Kindern: Abschlag oder Wegfall des Zuschlags.
 - Bei mehreren Kindern: gestaffelter Abschlag (Reform 2023 nachgelagert).
 
 ### Phase 3 — Sachsen-PV-Sonderregelung
 
 - Sachsen-PV: AN-Anteil hoeher als AG-Anteil (anders als anderswo).
-- DATEV LODAS-Stammdaten: Bundesland-Schluessel "Sachsen".
+- DATEV LODAS-Stammdaten: Bundesland-Schlüssel "Sachsen".
 
 ### Phase 4 — KV-Zusatzbeitragssatz
 
 - Jede Krankenkasse erhebt individuellen Zusatzbeitrag.
-- Standard-Zusatzbeitragssatz (BMAS-Statistik) durchschnittlich 2,5 Prozent (Stand 2025; Wert 2026 ueber GKV-Spitzenverband pruefen — KK-individuell).
+- Standard-Zusatzbeitragssatz (BMAS-Statistik) durchschnittlich 2,5 Prozent (Stand 2025; Wert 2026 über GKV-Spitzenverband prüfen — KK-individuell).
 - Bei KK-Wechsel: Umstellung im Lohn-Programm.
 
 ### Phase 5 — Umlagen U1/U2
@@ -92,7 +92,7 @@ Die SV-Beitraege werden grundsaetzlich paritaetisch zwischen AG und AN aufgeteil
 
 ### Phase 6 — DATEV LODAS-Konfiguration
 
-- Mandantenstammdaten: Bundesland, BG-Schluessel, U1-Pflicht.
+- Mandantenstammdaten: Bundesland, BG-Schlüssel, U1-Pflicht.
 - AN-Stammdaten: Kinderlosen-Status, KK-Wahl.
 - Automatische Berechnung der Anteile.
 
@@ -113,7 +113,7 @@ Stand: 05/2026.
 - SGB III §§ 346, 358.
 - SGB XI §§ 55, 58.
 - AAG.
-- Beitragssaetze Stand 2025: RV 18,6 Prozent, AV 2,6 Prozent, KV allgemein 14,6 Prozent + KK-Zusatzbeitrag (durchschnittlich 2,5 Prozent), PV 3,6 Prozent (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen).
-- PV-Kinderlosenzuschlag 2025: 0,6 Prozent (§ 55 Abs. 3 SGB XI; Sozialversicherungs-Rechengroessenverordnung 2026 pruefen).
+- Beitragssaetze Stand 2025: RV 18,6 Prozent, AV 2,6 Prozent, KV allgemein 14,6 Prozent + KK-Zusatzbeitrag (durchschnittlich 2,5 Prozent), PV 3,6 Prozent (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen).
+- PV-Kinderlosenzuschlag 2025: 0,6 Prozent (§ 55 Abs. 3 SGB XI; Sozialversicherungs-Rechengroessenverordnung 2026 prüfen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 7 bestaetigt (Fundstelle/Datum), 2 ersetzt (neu formuliert ohne Marker) -->

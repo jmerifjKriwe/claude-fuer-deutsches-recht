@@ -98,14 +98,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — BWA SuSa und Bilanz pruefend | Pruefung nach Schema; Schriftsatz unten |
+| Standard — BWA SuSa und Bilanz pruefend | Prüfung nach Schema; Schriftsatz unten |
 | Variante A — Nur BWA vorhanden keine Bilanz | BWA-Teilpruefung; Bilanzanforderung nachfragen |
 | Variante B — Krisensignale erkennbar Warnschreiben noetig | Warnschreiben-Skill parallel einsetzen |
-| Variante C — Pruefung nur zur Jahresabschlusspruefung | Teilpruefung; Jahresabschluss-Fokus setzen |
+| Variante C — Prüfung nur zur Jahresabschlusspruefung | Teilpruefung; Jahresabschluss-Fokus setzen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -184,7 +184,7 @@ Mit freundlichen Grüßen
 [StB]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

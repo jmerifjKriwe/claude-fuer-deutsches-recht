@@ -65,30 +65,30 @@ Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle N
 
 ## Tatbestandsmerkmale konkret
 
-**Sexuelle Handlung:** § 184h Nr. 1 StGB: von einigem Gewicht hinsichtlich des in § 177 StGB geschuetzten Rechtsguts (sexueller Bezug; nicht nur fluechtige Beruehrung). Auch ueber Bekleidung, ohne Eindringen.
+**Sexuelle Handlung:** § 184h Nr. 1 StGB: von einigem Gewicht hinsichtlich des in § 177 StGB geschuetzten Rechtsguts (sexueller Bezug; nicht nur fluechtige Beruehrung). Auch über Bekleidung, ohne Eindringen.
 
 **Erkennbarer entgegenstehender Wille:** Aeusserung des Opfers, die für einen objektiven Dritten als Ablehnung erkennbar ist. Verbale Ablehnung, Kopfschuetteln, Wegdrehen, Schubsen. **Keine Erforderlichkeit von Widerstand mehr** seit Reform 2016.
 
-**Subjektiver Tatbestand:** Vorsatz hinsichtlich der sexuellen Handlung und hinsichtlich des entgegenstehenden Willens. Tatbestandsirrtum nach § 16 StGB moeglich.
+**Subjektiver Tatbestand:** Vorsatz hinsichtlich der sexuellen Handlung und hinsichtlich des entgegenstehenden Willens. Tatbestandsirrtum nach § 16 StGB möglich.
 
 ## Praktikertipps der Verteidigung
 
-- **Anwendbares Recht pruefen:** Tatzeitpunkt entscheidet (§ 2 Abs. 1 StGB). Vor 10.11.2016: § 177 StGB a.F.; ab dann: § 177 StGB n.F.
+- **Anwendbares Recht prüfen:** Tatzeitpunkt entscheidet (§ 2 Abs. 1 StGB). Vor 10.11.2016: § 177 StGB a.F.; ab dann: § 177 StGB n.F.
 - **Erkennbarkeit des entgegenstehenden Willens:** Bei nicht eindeutiger Aeusserung kann Tatbestandsirrtum (§ 16 StGB) vorliegen. Verteidigung muss diesen Punkt strukturiert herausarbeiten – ohne in Opferverdaechtigung zu verfallen.
 - **Aussage gegen Aussage:** Klassische Konstellation. **Glaubwuerdigkeitspruefung nach staendiger BGH-Rechtsprechung:** Nullhypothese – Aussage wird ohne Vorannahme analysiert; Realkennzeichen (Detailreichtum, Konstanz, Kompliziertheit, ungewoehnliche Einzelheiten) sprechen für Glaubhaftigkeit. **Aussagepsychologisches Sachverstaendigengutachten** bei Komplexfaellen.
-- **Forensische Spuren:** DNA, Verletzungsspuren, Tatortspuren. Auch fehlende Spuren koennen aussagekraeftig sein.
+- **Forensische Spuren:** DNA, Verletzungsspuren, Tatortspuren. Auch fehlende Spuren können aussagekraeftig sein.
 - **Vorbeziehung:** Bei vorbestehender Beziehung Indizienlage komplexer; Verteidigung muss die konkrete Tatdynamik darstellen.
-- **§ 184h StGB Erheblichkeit:** Bei Bagatell-Handlungen Eingang in § 184i StGB sexuelle Belaestigung pruefen (geringerer Strafrahmen).
+- **§ 184h StGB Erheblichkeit:** Bei Bagatell-Handlungen Eingang in § 184i StGB sexuelle Belaestigung prüfen (geringerer Strafrahmen).
 - **§ 184i StGB Sexuelle Belaestigung:** Bei nur kurzer koerperlicher Beruehrung Auffangtatbestand; Strafrahmen Geldstrafe oder Freiheitsstrafe bis zu zwei Jahren.
 - **§ 21 StGB:** Bei Alkohol, Drogen, Persoenlichkeitsstoerung.
 
 ## Trade-off-Matrix
 
-- **Schweigen vs. Aussage:** Bei Aussage gegen Aussage Konsequenz der Aussagestrategie genau abwaegen. Standard zu Beginn: Schweigen. Spaeter ggf. Teileinlassung zum aeusseren Sachverhalt, wenn dadurch die Erkennbarkeit erschuettert wird.
+- **Schweigen vs. Aussage:** Bei Aussage gegen Aussage Konsequenz der Aussagestrategie genau abwaegen. Standard zu Beginn: Schweigen. Später ggf. Teileinlassung zum aeusseren Sachverhalt, wenn dadurch die Erkennbarkeit erschuettert wird.
 - **Geststaendnis:** Bei eindeutigem objektivem Befund Strafmilderungsgrund.
 - **Glaubwuerdigkeit:** BGH staendige Rspr. zur Nullhypothese und zu Realkennzeichen; aussagepsychologisches Gutachten bei Bedarf.
 - **§ 46a StGB / TOA:** Bei Sexualdelikten heikel; Opferschutz beachten.
-- **Nebenklage:** § 395 Abs. 1 Nr. 1 StPO – Nebenklage durch Geschaedigte zulaessig; Beistand nach § 397a StPO regelmaessig auf Antrag.
+- **Nebenklage:** § 395 Abs. 1 Nr. 1 StPO – Nebenklage durch Geschaedigte zulässig; Beistand nach § 397a StPO regelmaessig auf Antrag.
 
 ## Konkurrenzen
 
@@ -97,8 +97,8 @@ Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle N
 - **§ 176 StGB:** Bei Kindern unter 14 Jahren vorrangig.
 - **§ 184h StGB sexuelle Handlung:** Begriffsdefinition.
 - **§ 184i StGB sexuelle Belaestigung:** Auffangtatbestand.
-- **§§ 223, 224 StGB:** Tateinheit moeglich; oft durch § 177 Abs. 7, Abs. 8 StGB verdraengt.
-- **§ 239 StGB:** Tateinheit moeglich.
+- **§§ 223, 224 StGB:** Tateinheit möglich; oft durch § 177 Abs. 7, Abs. 8 StGB verdraengt.
+- **§ 239 StGB:** Tateinheit möglich.
 
 ## Strafzumessung
 
@@ -110,9 +110,9 @@ Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle N
 - **Minder schwerer Fall Abs. 9:** Strafrahmenverschiebung.
 - **Versuch:** Strafbar.
 - **§ 46 StGB:** Strafzumessungstatsachen.
-- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsaetzlich moeglich – bei Vergewaltigung selten.
-- **Sicherungsverwahrung:** § 66 StGB pruefen.
-- **Fuehrungsaufsicht:** § 68 StGB pruefen.
+- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsätzlich möglich – bei Vergewaltigung selten.
+- **Sicherungsverwahrung:** § 66 StGB prüfen.
+- **Fuehrungsaufsicht:** § 68 StGB prüfen.
 
 ## Mustertexte
 

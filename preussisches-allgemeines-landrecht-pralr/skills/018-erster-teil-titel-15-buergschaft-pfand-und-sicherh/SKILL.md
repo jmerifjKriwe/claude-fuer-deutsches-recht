@@ -17,7 +17,7 @@ description: "PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten: pr
 
 - **ALR I 14**: Buergschaft (fideiussio).
 - **ALR I 20**: Pfand (pignus / hypotheca).
-- **ALR I 14 §§**: SC Velleianum-aequivalent (Frauen-Intercessio).
+- **ALR I 14 §§**: SC Velleianum-äquivalent (Frauen-Intercessio).
 
 ## Buergschaft
 

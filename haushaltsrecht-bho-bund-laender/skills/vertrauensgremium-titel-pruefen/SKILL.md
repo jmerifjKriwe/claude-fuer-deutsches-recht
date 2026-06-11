@@ -3,7 +3,7 @@ name: vertrauensgremium-titel-pruefen
 description: "Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Vertrauensgremium Titel Pruefen
+# Vertrauensgremium Titel Prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Titel prü
 
 ## Normenanker
 
-Arbeitsfokus: **Vertrauensgremium Titel Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Vertrauensgremium Titel Prüfen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
 - `§ 17 BHO` — Einzelveranschlagung.

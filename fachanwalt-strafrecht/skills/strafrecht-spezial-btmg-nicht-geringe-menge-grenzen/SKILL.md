@@ -39,7 +39,7 @@ Massgeblich ist die Wirkstoffmenge des reinen Wirkstoffs (Hydrochlorid, Base, fr
 
 ## Mengen und Schwellen
 
-Faustregeln BGH-Linie (Werte aus staendiger Rspr.; bei jedem konkreten Fall die aktuelle BGH-Linie verifizieren — die Schwellen koennen sich durch neue Entscheidungen verschieben):
+Faustregeln BGH-Linie (Werte aus staendiger Rspr.; bei jedem konkreten Fall die aktuelle BGH-Linie verifizieren — die Schwellen können sich durch neue Entscheidungen verschieben):
 
 | Stoff | Bezugsgroesse | Nicht geringe Menge | Konsumeinheiten ca. |
 |---|---|---|---|
@@ -53,7 +53,7 @@ Faustregeln BGH-Linie (Werte aus staendiger Rspr.; bei jedem konkreten Fall die 
 | Cannabis nach KCanG | THC | BGH-Linie KCanG verifizieren | abhaengig vom Wirkstoffgehalt |
 | Psilocybin (Pilze) | Psilocybin | 1.2 g Psilocybin | ca. 120 KE |
 | Tilidin / Buprenorphin | Wirkstoffbase | im Einzelfall mit BGH verifizieren | |
-| GHB / GBL | GHB | nicht etabliert; "geringe Menge" einzeln pruefen | |
+| GHB / GBL | GHB | nicht etabliert; "geringe Menge" einzeln prüfen | |
 
 **Berechnungsformel:**
 
@@ -65,7 +65,7 @@ Beispiel: 100 g Kokain, Wirkstoffgehalt 60 Prozent KHC = 60 g KHC = 12-fache nic
 - 1 bis 3-fache: untere Strafrahmen-Haelfte
 - 3 bis 10-fache: mittlere Strafzumessung
 - 10 bis 100-fache: oberer Strafrahmen, oft auch § 30a BtMG zusaetzlich
-- ueber 100-fache: in der Regel hoher Strafrahmen, § 30 / § 30a BtMG
+- über 100-fache: in der Regel hoher Strafrahmen, § 30 / § 30a BtMG
 
 ## Praktikertipps der Verteidigung
 
@@ -84,7 +84,7 @@ Beispiel: 100 g Kokain, Wirkstoffgehalt 60 Prozent KHC = 60 g KHC = 12-fache nic
 | Mehrere Pakete getrennt | Vorsatzfrage | Erfordert Plausibilitaet (zeitliche, raeumliche Trennung) |
 | Eigenkonsum-Verteidigung | Strafmilderung | Bei mehrfacher nicht geringer Menge schwer plausibel |
 | Aufklaerungshilfe § 31 BtMG | Strafrahmenverschiebung | Belastung Dritter |
-| Minder schwerer Fall | Bewaehrung wieder moeglich | Voraussetzungen restriktiv |
+| Minder schwerer Fall | Bewaehrung wieder möglich | Voraussetzungen restriktiv |
 
 ## Konkurrenzen
 

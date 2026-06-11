@@ -144,7 +144,7 @@ Wenn der Status stille Reserven enthält (Skill `bilanzieller-status-aufnehmen`)
 Bevor losgelegt wird, klaere:
 
 1. **Konsistenz-Test:** Passt Umsatzwachstum zu Personalkosten und Material? (Umsatz +10% ohne Personal-Aufstockung bei Vollauslastung → inkonsistent)
-2. **Vergangenheits-Abgleich:** Welche Wachstumsraten wurden in den letzten 3 Jahren tatsaechlich erreicht? Neue Annahmen muessen daraus ableitbar sein.
+2. **Vergangenheits-Abgleich:** Welche Wachstumsraten wurden in den letzten 3 Jahren tatsaechlich erreicht? Neue Annahmen müssen daraus ableitbar sein.
 3. **Sensitivity-Test:** Welche Annahme ist am kritischsten? Was passiert wenn Haupt-Kunden 20% weniger abnimmt?
 4. **Worst-Case-Szenario:** Prognose auch bei pessimistischsten Annahmen noch positiv?
 

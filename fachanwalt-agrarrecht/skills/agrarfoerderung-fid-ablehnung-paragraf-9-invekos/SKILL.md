@@ -7,7 +7,7 @@ description: "Ablehnung der Direktzahlung wegen fehlerhafter Feldstueckabgrenzun
 
 ## Einsatzlage
 
-Landwirt L beantragt Direktzahlung fuer 87,6 ha. Beanstandung der Landwirtschaftskammer: Feldstueck FID-188-4711 sei nur 0,42 ha statt 0,48 ha; Sanktionsabschlag 3 Prozent auf gesamte Beihilfe.
+Landwirt L beantragt Direktzahlung für 87,6 ha. Beanstandung der Landwirtschaftskammer: Feldstueck FID-188-4711 sei nur 0,42 ha statt 0,48 ha; Sanktionsabschlag 3 Prozent auf gesamte Beihilfe.
 
 ## Normenanker
 
@@ -37,7 +37,7 @@ Landwirt L beantragt Direktzahlung fuer 87,6 ha. Beanstandung der Landwirtschaft
 ## Arbeitsergebnis
 
 1. Eigene Vermessung mit GNSS-Gestuetzte Geraete oder anerkannter Vermesser.
-2. Anmerkungen zur Methode der Behoerden-Vermessung (Geometriedrift moeglich).
+2. Anmerkungen zur Methode der Behoerden-Vermessung (Geometriedrift möglich).
 3. Antrag auf erneute Kontrolle nach Paragraf 11 InVeKoSV.
 4. Widerspruch binnen 1 Monat ab Bescheid.
 

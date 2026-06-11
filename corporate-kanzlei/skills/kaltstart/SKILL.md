@@ -7,7 +7,7 @@ description: "Kaltstart Corporate-Kanzlei: Strukturiert den Einstieg in ein neue
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Corporate Kanzlei** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Corporate Kanzlei** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -124,7 +124,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Was ist die Transaktion? (M&A Share Deal, Asset Deal, Squeeze-Out, IPO, Restrukturierung)
 2. Wer ist unser Mandant? (Kaeufer / Verkaefer / Target-Management / Finanzinvestor)
 3. Was ist die Zielgesellschaft? (Rechtsform, Sitz, Branche, Jahresumsatz-Groessenordnung)
-4. Gibt es bekannte Konflikte? (§ 43a BRAO — sofort pruefen)
+4. Gibt es bekannte Konflikte? (§ 43a BRAO — sofort prüfen)
 5. Sind Insiderinformationen im Spiel? (Art. 18 MAR — Insider-Log anlegen)
 6. Was wird als naechstes erwartet? (NDA, IRL, Kick-Off-Meeting, Regulatory-Check)
 

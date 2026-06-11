@@ -50,7 +50,7 @@ Chronologisch neutral ohne Wertung. Verben im Praesens (Die Klägerin behauptet 
 | Rechtsschutzbedürfnis | allgemeines Erfordernis |
 | Anderweitige Rechtshaengigkeit | Paragraf 261 Absatz 3 Nummer 1 ZPO |
 
-Ergebnis: zulaessig oder nicht.
+Ergebnis: zulässig oder nicht.
 
 ### 4. Schlüssigkeitsstation - Klägervortrag
 
@@ -137,7 +137,7 @@ Für jede Variante: Hauptsache-Tenor Kosten vorläufige Vollstreckbarkeit.
 
 Die Relation muss am Ende eindeutig sagen:
 
-1. Die Klage ist **zulaessig** (oder nicht).
+1. Die Klage ist **zulässig** (oder nicht).
 2. Die Klage ist **schlüssig** (oder nicht).
 3. Die Beklagte hat **erhebliche Einwendungen** vorgetragen (oder nicht).
 4. Streitig und beweisbedürftig sind: ...

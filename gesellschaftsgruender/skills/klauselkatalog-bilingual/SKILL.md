@@ -350,7 +350,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 >
 > (3) The Company may waive the non-compete in writing within one month after termination. From the time of waiver, the compensation shall cease.
 >
-> (4) In case of breach, liquidated damages of 3 gross monthly salaries per breach plus damages.
+> (4) In case of breach, liquidated damages of 3 groß monthly salaries per breach plus damages.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

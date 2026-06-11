@@ -23,7 +23,7 @@ Ein Franchisesystem nutzt ein zentrales CRM-System, in das alle Franchisenehmer 
 2. Verantwortlichkeit bestimmen: Franchisegeber als alleiniger Verantwortlicher, Franchisenehmer als alleiniger Verantwortlicher oder gemeinsame Verantwortlichkeit nach Art. 26 DSGVO?
 3. Vertragliche Grundlagen prüfen: Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO oder Vereinbarung über gemeinsame Verantwortlichkeit nach Art. 26 DSGVO?
 4. Datenschutzerklärungen aller Touchpoints prüfen: Website, Kassenbon, App, Treueprogramm.
-5. Technisch-organisatorische Massnahmen (TOMs) nach Art. 32 DSGVO bewerten.
+5. Technisch-organisatorische Maßnahmen (TOMs) nach Art. 32 DSGVO bewerten.
 6. Auskunfts-, Lösch- und Portabilitätsanfragen: Klären, wer für Betroffenenanfragen zuständig ist.
 
 ## Rechtsrahmen
@@ -31,7 +31,7 @@ Ein Franchisesystem nutzt ein zentrales CRM-System, in das alle Franchisenehmer 
 - Art. 4 Nr. 7 DSGVO: Definition Verantwortlicher
 - Art. 26 DSGVO: Gemeinsame Verantwortlichkeit (Joint Controllership)
 - Art. 28 DSGVO: Auftragsverarbeitung
-- Art. 32 DSGVO: Technisch-organisatorische Massnahmen
+- Art. 32 DSGVO: Technisch-organisatorische Maßnahmen
 - Art. 83 DSGVO: Bussgeldrahmen (bis 4 % des weltweiten Jahresumsatzes)
 - §§ 38 ff. BDSG: Aufsichtsbehörden und nationale Ergänzungen
 

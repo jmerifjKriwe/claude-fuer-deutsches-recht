@@ -13,7 +13,7 @@ description: "Praxispruefung der Steuerbefreiung für innergemeinschaftliche Lie
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Hat der Erwerber gueltige USt-IdNr aus einem anderen Mitgliedstaat (VIES-Pruefung)?
+1. Hat der Erwerber gueltige USt-IdNr aus einem anderen Mitgliedstaat (VIES-Prüfung)?
 2. Liegt eine Gelangensbestaetigung oder ein Alternativnachweis nach § 17a UStDV vor?
 3. Wurde die Lieferung in der Zusammenfassenden Meldung § 18a UStG zutreffend gemeldet?
 4. Reihengeschaeft — wem wird die warenbewegte Lieferung zugeordnet?

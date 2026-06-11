@@ -67,11 +67,11 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## Beitragsbescheid Krankenkasse - Themenspezifika
 - **Rechtsgrundlage:** §§ 240, 241 SGB V (Beitragsbemessung freiwillig Versicherte); § 226 SGB V (Pflichtversicherte); § 232a SGB V (Bezieher Buergergeld); §§ 226-228 SGB V (Beitragspflichtige Einnahmen).
-- **Mindestbeitragsbemessungsgrundlage** freiwillig Versicherte regelmaessig 1/90 monatliche Bezugsgroesse - **jaehrlich anzupassen**, daher live pruefen (BMG-Bekanntmachung).
+- **Mindestbeitragsbemessungsgrundlage** freiwillig Versicherte regelmaessig 1/90 monatliche Bezugsgroesse - **jaehrlich anzupassen**, daher live prüfen (BMG-Bekanntmachung).
 - **Hauptberuflich Selbststaendige § 240 IV SGB V:** Mindestbeitrag oder Einkommen nach letztem Steuerbescheid; vorläufige Festsetzung.
 - **Bezieher Buergergeld § 232a SGB V:** vereinfachte Beitragsbemessung Mindestbeitrag; Buergergeld-Bescheid genuegt regelmaessig für Nachweis.
 - **Rentner § 237 SGB V:** Beitrag aus Rente, Versorgungsbezuegen, Arbeitseinkommen (in der Krankenversicherung Pflicht KVdR) und sonstigen Einkuenften (freiwillige); freiwillige Mitgliedschaft Vorrang vor KVdR-Prufung.
 - **Einkommensueberpruefung:** Beitragsbescheid stuetzt sich auf Einkommensteuerbescheid; bei abweichendem aktuellen Einkommen Antrag auf Anpassung mit Belegen (Gewinn- und Verlustrechnung, Lohnabrechnungen, BWA).
 - **Verjährung:** Beitragsforderung § 25 SGB IV regelmaessig 4 Jahre (vorsaetzlich 30 Jahre).
 - **Saeumniszuschlag § 24 SGB IV:** 1 % pro Monat.
-- **Praxis-Tipp:** Bei Existenzbedrohung Stundung § 76 II SGB IV beantragen; ggf. Erlass § 76 II Nr. 3 SGB IV in haerteren Faellen. Bei freiwilliger Mitgliedschaft pruefen, ob Wechsel in Familienversicherung § 10 SGB V moeglich (Einkommensgrenze 535 EUR/Monat bzw. 556 EUR Minijob).
+- **Praxis-Tipp:** Bei Existenzbedrohung Stundung § 76 II SGB IV beantragen; ggf. Erlass § 76 II Nr. 3 SGB IV in haerteren Faellen. Bei freiwilliger Mitgliedschaft prüfen, ob Wechsel in Familienversicherung § 10 SGB V möglich (Einkommensgrenze 535 EUR/Monat bzw. 556 EUR Minijob).

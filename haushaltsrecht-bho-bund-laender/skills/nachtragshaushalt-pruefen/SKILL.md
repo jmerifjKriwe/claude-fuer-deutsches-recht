@@ -3,7 +3,7 @@ name: nachtragshaushalt-pruefen
 description: "Haushaltsrecht BHO Bund und Länder: Nachtragshaushalt prüfen. Nachtragshaushalt prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkma..."
 ---
 
-# Nachtragshaushalt Pruefen
+# Nachtragshaushalt Prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Nachtragshaushalt prüfen. Na
 
 ## Normenanker
 
-Arbeitsfokus: **Nachtragshaushalt Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Nachtragshaushalt Prüfen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 109 Abs. 3 GG` — Haushaltsdisziplin.
 - `Art. 110 Abs. 1 GG` — Haushaltsplan.

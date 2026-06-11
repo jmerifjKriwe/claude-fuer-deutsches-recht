@@ -46,7 +46,7 @@ Russland hat mit Verbalnote vom 08.08.2023 die Anwendung der Art. 5 bis 22 und 2
 
 - **BMF-Schreiben vom 15.01.2024** (GZ IV B 2 - S 1301/21/10048 :003) — konsolidierter Stand der Doppelbesteuerungsabkommen zum 01.01.2024.
 - **Zweite Verordnung zur Aenderung der Steueroasen-Abwehrverordnung vom 20.12.2023** (BGBl. 2023 I Nr. 375) — Aufnahme Russlands in die StAbwV-Liste.
-- Folgeschreiben des BMF zu Anwendungshinweisen sind moeglich; aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+- Folgeschreiben des BMF zu Anwendungshinweisen sind möglich; aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
 
 ## Land-spezifisches
 
@@ -56,14 +56,14 @@ Nach der russischen Verbalnote vom 08.08.2023 sind von russischer Seite die Arti
 
 | DBA-Vorschrift | Materie | Folge der Suspendierung |
 |---|---|---|
-| Art. 7 | Unternehmensgewinne | Pruefung im Einzelfall; keine reflexartige Anwendung |
+| Art. 7 | Unternehmensgewinne | Prüfung im Einzelfall; keine reflexartige Anwendung |
 | Art. 10 | Dividenden | DBA-Quellensteuerermaessigung suspendiert; deutsche Seite voller Steuerabzug nach § 43 ff. EStG (Kapitalertragsteuer 25 Prozent zzgl. Solidaritaetszuschlag); russische Seite erhebt Quellensteuer nach russischem Steuerrecht (allgemeiner Satz 15 Prozent für Nichtansaessige, Stand 2024) ohne DBA-Begrenzung |
 | Art. 11 | Zinsen | analoge Suspendierung |
 | Art. 12 | Lizenzgebuehren | analoge Suspendierung |
 | Art. 13 | Veraeusserungsgewinne | DBA-Schutz teilweise weg |
 | Art. 23 | Methodenartikel | Freistellung mit Progressionsvorbehalt eingeschraenkt; Anrechnungsmethode nach § 34c EStG vorrangig |
 
-Die genaue Liste der suspendierten Artikel ergibt sich aus dem Wortlaut der russischen Verbalnote vom 08.08.2023; die deutsche Seite zieht hieraus die Konsequenzen ueber die StAbwV-Listung und § 1 Abs. 3 StAbwG (Steueroasen-Abwehr-Rechtsfolgen).
+Die genaue Liste der suspendierten Artikel ergibt sich aus dem Wortlaut der russischen Verbalnote vom 08.08.2023; die deutsche Seite zieht hieraus die Konsequenzen über die StAbwV-Listung und § 1 Abs. 3 StAbwG (Steueroasen-Abwehr-Rechtsfolgen).
 
 ### Was bleibt anwendbar
 
@@ -85,12 +85,12 @@ Die genaue Liste der suspendierten Artikel ergibt sich aus dem Wortlaut der russ
 
 ## Workflow
 
-### Phase 1 — Anwendungszeitraum klaeren
+### Phase 1 — Anwendungszeitraum klären
 1. Vor russischer Verbalnote 08.08.2023: altes DBA in vollem Umfang anwendbar.
-2. Zwischen 08.08.2023 (russische Suspendierung) und 01.01.2024 (Wirkung der deutschen StAbwG-Gegenmassnahme und konsolidierter BMF-Stand): einseitige russische Suspendierung; deutsche Quellensteuerentlastung formal noch moeglich, aber praktische Probleme bei Erstattung und gegenseitiger Anwendung.
-3. Ab 01.01.2024: vollstaendige Beachtung der Suspendierungslage; § 34c EStG-Anrechnung statt DBA-Freistellung; StAbwG-Rechtsfolgen pruefen.
+2. Zwischen 08.08.2023 (russische Suspendierung) und 01.01.2024 (Wirkung der deutschen StAbwG-Gegenmassnahme und konsolidierter BMF-Stand): einseitige russische Suspendierung; deutsche Quellensteuerentlastung formal noch möglich, aber praktische Probleme bei Erstattung und gegenseitiger Anwendung.
+3. Ab 01.01.2024: vollstaendige Beachtung der Suspendierungslage; § 34c EStG-Anrechnung statt DBA-Freistellung; StAbwG-Rechtsfolgen prüfen.
 
-### Phase 2 — Konstellation pruefen
+### Phase 2 — Konstellation prüfen
 1. Welche Einkunftsart betroffen?
 2. Sanktionsstatus der Beteiligten?
 
@@ -99,50 +99,50 @@ Die genaue Liste der suspendierten Artikel ergibt sich aus dem Wortlaut der russ
 2. § 34c-Nachweise organisieren — russische Steuerbescheide.
 
 ### Phase 4 — Sanktions-Compliance
-1. Pruefung Konsolidierte Sanktionsliste (EU, US OFAC).
-2. Pruefung Aussenwirtschaftsrecht.
-3. Pruefung Devisenkontrolle Russland.
+1. Prüfung Konsolidierte Sanktionsliste (EU, US OFAC).
+2. Prüfung Aussenwirtschaftsrecht.
+3. Prüfung Devisenkontrolle Russland.
 
 ### Phase 5 — Mandanten beraten
 1. Memo zu Doppelbesteuerung und Mitigation.
 2. Empfehlung bzgl. Geschaeftsbeziehung Russland.
-3. Pruefung Wegzugsmoeglichkeiten russischer Mandanten.
+3. Prüfung Wegzugsmoeglichkeiten russischer Mandanten.
 
 ### Phase 6 — Verstaendigungsverfahren
-1. MAP bleibt formal moeglich — praktisch erschwert.
+1. MAP bleibt formal möglich — praktisch erschwert.
 
 ## Strategie und Praxis-Tipps
 
-- Suspendierung gilt für Vorgaenge ab dem 01.01.2024 in voller Reichweite (konsolidierter BMF-Stand 15.01.2024 und Wirkung der StAbwV-Listung); Altvorgaenge bis 07.08.2023 haben vollen DBA-Schutz; Uebergangszeitraum 08.08.2023 bis 31.12.2023 sorgfaeltig pruefen.
+- Suspendierung gilt für Vorgaenge ab dem 01.01.2024 in voller Reichweite (konsolidierter BMF-Stand 15.01.2024 und Wirkung der StAbwV-Listung); Altvorgaenge bis 07.08.2023 haben vollen DBA-Schutz; Uebergangszeitraum 08.08.2023 bis 31.12.2023 sorgfaeltig prüfen.
 - § 34c EStG-Anrechnung erfordert Nachweis russischer Steuer — wegen Sanktionen schwierig zu beschaffen.
 - Beweisanforderungen lockern bei Sanktionsbetroffenheit nicht — § 90 Abs. 2 AO erhoehte Mitwirkungspflicht im Ausland-Bezug.
-- Sanktions-Compliance frueh pruefen: EU-Sanktionsverordnungen, OFAC SDN-Liste, Sanktionen gegen Personen und Branchen.
-- Devisenkontrollen Russland: Zahlungen an deutsche Glaeubiger nur ueber Sonderkonten — Sanktionsbruch droht.
-- **Belarus**: Das DBA Deutschland-Belarus vom 30.09.2005 ist mit Wirkung zum 01.01.2025 vollstaendig ausgesetzt (BGBl. 2025 II Nr. 6; Notifizierung an Belarus am 30.12.2024; Teilaussetzung einzelner Vorschriften bereits ab 01.06.2024). Paralleles Vorgehen wie bei Russland; aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
-- Bei Wegzug russischer Mandanten in Drittlaender: neue DBA-Konstellation, Pruefung erforderlich.
-- Empfehlung: bestehende Russland-Strukturen auf wirtschaftliche und sanktionsrechtliche Tragfaehigkeit pruefen.
+- Sanktions-Compliance frueh prüfen: EU-Sanktionsverordnungen, OFAC SDN-Liste, Sanktionen gegen Personen und Branchen.
+- Devisenkontrollen Russland: Zahlungen an deutsche Glaeubiger nur über Sonderkonten — Sanktionsbruch droht.
+- **Belarus**: Das DBA Deutschland-Belarus vom 30.09.2005 ist mit Wirkung zum 01.01.2025 vollstaendig ausgesetzt (BGBl. 2025 II Nr. 6; Notifizierung an Belarus am 30.12.2024; Teilaussetzung einzelner Vorschriften bereits ab 01.06.2024). Paralleles Vorgehen wie bei Russland; aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
+- Bei Wegzug russischer Mandanten in Drittlaender: neue DBA-Konstellation, Prüfung erforderlich.
+- Empfehlung: bestehende Russland-Strukturen auf wirtschaftliche und sanktionsrechtliche Tragfaehigkeit prüfen.
 
 ## Praktiker-Tipps der alten Hasen
 
 - **Erstattungsverfahren RU → DE-Mandant — derzeit blockiert**: Antraege bei der russischen Foederalen Steuerverwaltung (FNS, Federalnaja nalogowaja sluschba) sind wegen der Suspendierung praktisch ohne Erfolgsaussicht. Online-Portal "Lichnyj kabinet nalogoplatelschika" (vom Anwender mit aktuellem Stand zu verifizieren) ist für Auslaender nur eingeschraenkt nutzbar.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Russisch. Konsolidierte Textfassung mit Aenderungen beim BMF.
 - **Lokaler Berater**: Bei russlandbezogenen Mandaten zwingend sanktionsrechtliche Vorpruefung; russische Steuerberater mit DE-Kontakten zunehmend eingeschraenkt durch EU-Sanktionspakete (Verbot bestimmter Dienstleistungen an russische Mandanten — vom Anwender mit aktueller EU-Sanktions-Verordnung zu verifizieren).
-- **Apostille**: ZWINGEND bei Drittstaat Russland; aber Haager Uebereinkommen praktisch durch politische Lage erschwert. Konsularische Beglaubigung ueber deutsche diplomatische Vertretung kaum verfuegbar — Apostille direkt in Russland zuständige Behörde Justizministerium.
+- **Apostille**: ZWINGEND bei Drittstaat Russland; aber Haager Uebereinkommen praktisch durch politische Lage erschwert. Konsularische Beglaubigung über deutsche diplomatische Vertretung kaum verfuegbar — Apostille direkt in Russland zuständige Behörde Justizministerium.
 - **Sanktions-Compliance hat Vorrang vor steuerlicher Optimierung**: bei jeder russlandbezogenen Transaktion EU-Sanktionsverordnung 833/2014 ff. und OFAC SDN-Liste konsultieren.
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
-- **Russische Sondersteuern**: Russische Staatsfinanzen 2024 / 2025 durch Krieg belastet; Sondersteuern auf Kapital ("Windfall Tax") auf grosse Unternehmen 10 Prozent vom Gewinn-Plus (vom Anwender mit aktuellem russischem Steuerrecht zu verifizieren).
+- **Russische Sondersteuern**: Russische Staatsfinanzen 2024 / 2025 durch Krieg belastet; Sondersteuern auf Kapital ("Windfall Tax") auf große Unternehmen 10 Prozent vom Gewinn-Plus (vom Anwender mit aktuellem russischem Steuerrecht zu verifizieren).
 - **Anrechnungsverlust bei Sanktionen**: Russische QSt-Bescheinigung als Anrechnungsgrundlage nach § 34c EStG erforderlich — kriegsbedingt nicht beschaffbar. § 34c Abs. 2 EStG-Abzugsverfahren (Abzug als BA) als Notfall-Option.
-- **Wohnsitzwechsel russischer Mandanten**: bei "Russenwegzug" in EU-Mitgliedstaaten oder in Drittlaender (Tuerkei, VAE, Israel) — neue DBA-Konstellation, Tie-Breaker pruefen; Mittelpunkt Lebensinteressen oft weiter in Russland trotz Aufenthalt im Drittstaat.
-- **Sonderkonten Typ-C (Russland)**: russische Auflagen verlangen Zahlungen an "unfreundliche Auslaender" ueber Sonderkonten der Zentralbank — Auszahlung blockiert.
+- **Wohnsitzwechsel russischer Mandanten**: bei "Russenwegzug" in EU-Mitgliedstaaten oder in Drittlaender (Tuerkei, VAE, Israel) — neue DBA-Konstellation, Tie-Breaker prüfen; Mittelpunkt Lebensinteressen oft weiter in Russland trotz Aufenthalt im Drittstaat.
+- **Sonderkonten Typ-C (Russland)**: russische Auflagen verlangen Zahlungen an "unfreundliche Auslaender" über Sonderkonten der Zentralbank — Auszahlung blockiert.
 - **DBA-Verfassungsfragen**: einseitige Suspendierung durch Russland ist voelkerrechtlich umstritten — Wiener Vertragsrechtskonvention; Deutschland reagiert mit StAbwG-Listung statt formaler Kuendigung. Bei Mandantenfragen zur Rechtmaessigkeit: öffentliche BMF-Position und EU-Sanktionspakete maßgeblich.
 
 ## Trade-offs
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Russland-Engagement fortfuehren vs. Exit | Fortfuehrung mit DBA-Suspendierung: § 34c EStG-Anrechnung, hoehere Steuerbelastung, Sanktionsrisiken | Exit/Verkauf: Wegzugsbesteuerung, oft Wertverluste durch Devisenkontrollen | bei kleineren Engagements oft Exit empfehlenswert; bei grossen Werten Pruefung sanktionsrechtlicher Compliance und steuerlicher Optimierung des Exits — anwaltliche Begleitung erforderlich |
+| Russland-Engagement fortfuehren vs. Exit | Fortfuehrung mit DBA-Suspendierung: § 34c EStG-Anrechnung, hoehere Steuerbelastung, Sanktionsrisiken | Exit/Verkauf: Wegzugsbesteuerung, oft Wertverluste durch Devisenkontrollen | bei kleineren Engagements oft Exit empfehlenswert; bei großen Werten Prüfung sanktionsrechtlicher Compliance und steuerlicher Optimierung des Exits — anwaltliche Begleitung erforderlich |
 | § 34c Anrechnung vs. Abzug | Anrechnung: Verrechnung russische Steuer mit deutscher Steuer, Per-Country-Limitation Russland | Abzug nach § 34c Abs. 2 EStG als Werbungskosten/BA | bei Nachweisproblemen russischer Steuer (Sanktionen!) Abzugsverfahren ggf. einzige praktikable Option; bei klarem Nachweis Anrechnung guenstiger |
 | Wegzug russischer Mandant in EU-Mitgliedstaat | EU-Wegzug: neue DBA, oft EU-MTRL — sauberer Steuerbruch | Wegzug in Drittland (TR, AE): keine EU-Rechte | EU-Mitgliedstaaten klar bevorzugt für geordnete steuerliche Neuordnung |
 
@@ -152,13 +152,13 @@ DE-Investor haelt 100 Prozent an russischer OOO; Gewinn 2024 200.000 EUR. Aussch
 
 - Vor Suspendierung (Stand 31.12.2023): RU-QSt nach DBA Art. 10 — 5 Prozent bei Schachtelhoehe = 7.500 EUR; DE-Abgeltungsteuer 26,375 Prozent = 39.563 EUR; Anrechnung RU-QSt — Resteuer DE 32.063 EUR. Gesamtbelastung 39.563 EUR.
 - Nach Suspendierung (ab 01.01.2024): RU-QSt nach russischem Recht 15 Prozent (nationaler Standardsatz für Nichtansaessige) = 22.500 EUR; DE-Abgeltungsteuer 39.563 EUR; § 34c EStG-Anrechnung der RU-QSt nach Per-Country-Limitation — Resteuer DE 17.063 EUR. Gesamtbelastung 39.563 EUR (sofern RU-QSt nachweisbar; falls nicht: voll DE-Steuer 39.563 EUR plus RU-QSt 22.500 EUR = 62.063 EUR Anrechnungsverlust).
-- Praxisproblem 2025/2026: Devisenkontrolle Russland blockiert Auszahlung der Dividende — Mandant hat fiktiven Steuerbescheid, aber kein Geld. Pruefung Forderungsabschreibung und § 34c EStG-Folgejahresanrechnung.
+- Praxisproblem 2025/2026: Devisenkontrolle Russland blockiert Auszahlung der Dividende — Mandant hat fiktiven Steuerbescheid, aber kein Geld. Prüfung Forderungsabschreibung und § 34c EStG-Folgejahresanrechnung.
 
-Sanktions-Compliance: vor jeder Transaktion EU-Sanktionsverordnung 833/2014 und Folgeverordnungen sowie OFAC SDN-Liste pruefen; bei Sanktionsbetroffenheit gewerberechtliches Verbot und strafrechtliche Folgen (§§ 17, 18 AWG).
+Sanktions-Compliance: vor jeder Transaktion EU-Sanktionsverordnung 833/2014 und Folgeverordnungen sowie OFAC SDN-Liste prüfen; bei Sanktionsbetroffenheit gewerberechtliches Verbot und strafrechtliche Folgen (§§ 17, 18 AWG).
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Russland 29.05.1996 (BGBl. 1996 II S. 2710). Russische Verbalnote 08.08.2023 (Suspendierung Art. 5 bis 22 und 24, Protokoll-Nrn. 2 bis 7). § 1 Abs. 3 Satz 2 StAbwG (BGBl. 2021 I S. 2056). StAbwV (BGBl. 2021 I S. 5236) i.d.F. der Zweiten Aenderungsverordnung vom 20.12.2023 (BGBl. 2023 I Nr. 375). BMF-Schreiben vom 15.01.2024 (GZ IV B 2 - S 1301/21/10048 :003), Stand DBA zum 01.01.2024, abrufbar unter bundesfinanzministerium.de. Belarus-Suspendierung 2024 analog. EU-Sanktionen 833/2014 ff. — **aktuelle Fassung pruefen**. Aktueller Stand 2026 im BMF-DBA-Verzeichnis pruefen.
+Stand: 05/2026. DBA-Russland 29.05.1996 (BGBl. 1996 II S. 2710). Russische Verbalnote 08.08.2023 (Suspendierung Art. 5 bis 22 und 24, Protokoll-Nrn. 2 bis 7). § 1 Abs. 3 Satz 2 StAbwG (BGBl. 2021 I S. 2056). StAbwV (BGBl. 2021 I S. 5236) i.d.F. der Zweiten Aenderungsverordnung vom 20.12.2023 (BGBl. 2023 I Nr. 375). BMF-Schreiben vom 15.01.2024 (GZ IV B 2 - S 1301/21/10048 :003), Stand DBA zum 01.01.2024, abrufbar unter bundesfinanzministerium.de. Belarus-Suspendierung 2024 analog. EU-Sanktionen 833/2014 ff. — **aktuelle Fassung prüfen**. Aktueller Stand 2026 im BMF-DBA-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 5b | BMF-Datum korrigiert: nicht 18.12.2023 sondern 15.01.2024 GZ IV B 2 - S 1301/21/10048 :003; Wirkung 01.01.2024 statt 30.12.2023; russische Verbalnote 08.08.2023 und § 1 Abs. 3 Satz 2 StAbwG ergaenzt -->
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 3 geprueft und bestaetigt (MLI-Status Russland; russischer Quellensteuersatz 15 Prozent; Belarus-Vollaussetzung BGBl. 2025 II Nr. 6), 0 gestrichen -->

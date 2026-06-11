@@ -20,7 +20,7 @@ description: "Aussetzung nach § 221 StGB: Konkretes Gefaehrdungsdelikt. Versetz
 
 ## Worum geht es
 
-§ 221 StGB ist ein **konkretes Gefaehrdungsdelikt** zum Schutz von Leben und Gesundheit. Der Taeter versetzt das Opfer in eine hilflose Lage oder laesst das Opfer in einer solchen Lage im Stich, wodurch es in die Gefahr des Todes oder einer schweren Gesundheitsschaedigung geraet.
+§ 221 StGB ist ein **konkretes Gefaehrdungsdelikt** zum Schutz von Leben und Gesundheit. Der Taeter versetzt das Opfer in eine hilflose Lage oder lässt das Opfer in einer solchen Lage im Stich, wodurch es in die Gefahr des Todes oder einer schweren Gesundheitsschaedigung geraet.
 
 Strafrahmen:
 
@@ -37,7 +37,7 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 
 **1. Versetzen in hilflose Lage:** Aktive Handlung, durch die das Opfer in eine Lage geraet, in der es sich nicht selbst helfen kann.
 
-**2. Imstichlassen in hilfloser Lage:** Passive Variante (Unterlassen). Voraussetzung: Pflicht zur Obhut, zum Beistand oder Garantenstellung iSd § 13 StGB. Der Taeter laesst das Opfer in einer bereits bestehenden hilflosen Lage zurueck.
+**2. Imstichlassen in hilfloser Lage:** Passive Variante (Unterlassen). Voraussetzung: Pflicht zur Obhut, zum Beistand oder Garantenstellung iSd § 13 StGB. Der Taeter lässt das Opfer in einer bereits bestehenden hilflosen Lage zurueck.
 
 **Hilflose Lage:** Zustand, in dem das Opfer nicht in der Lage ist, sich aus eigener Kraft den Gefahren zu entziehen oder fremde Hilfe zu beschaffen. Klein- und Kleinstkinder, schwer kranke oder verletzte Personen, stark intoxikierte Personen.
 
@@ -71,10 +71,10 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 
 ## Praktikertipps der Verteidigung
 
-- **Hilflosigkeit pruefen:** War das Opfer in der konkreten Lage wirklich hilflos? Bei volljaehrigen, leicht alkoholisierten Personen kann Hilflosigkeit fehlen.
-- **Konkrete Gefahr:** Sachverstaendiger zur tatsaechlichen Gefahrenlage; Pruefung, ob die Gefahr im Rechtssinne konkret war.
-- **Garantenstellung:** Bei Unterlassungsvariante genaue Pruefung. Ohne Garantenstellung scheidet § 221 StGB in der Variante Imstichlassen aus; nur § 323c StGB (unterlassene Hilfeleistung) bleibt.
-- **Subjektive Voraussehbarkeit:** Bei Erfolgsqualifikation Abs. 3 pruefen, ob der Tod für den Taeter konkret voraussehbar war.
+- **Hilflosigkeit prüfen:** War das Opfer in der konkreten Lage wirklich hilflos? Bei volljaehrigen, leicht alkoholisierten Personen kann Hilflosigkeit fehlen.
+- **Konkrete Gefahr:** Sachverstaendiger zur tatsaechlichen Gefahrenlage; Prüfung, ob die Gefahr im Rechtssinne konkret war.
+- **Garantenstellung:** Bei Unterlassungsvariante genaue Prüfung. Ohne Garantenstellung scheidet § 221 StGB in der Variante Imstichlassen aus; nur § 323c StGB (unterlassene Hilfeleistung) bleibt.
+- **Subjektive Voraussehbarkeit:** Bei Erfolgsqualifikation Abs. 3 prüfen, ob der Tod für den Taeter konkret voraussehbar war.
 - **Minder schwerer Fall § 221 Abs. 4 StGB:** Bei besonderen Tatumstaenden (Eigenueberforderung, Unbedarftheit, Geststaendnis).
 
 ## Trade-off-Matrix
@@ -82,14 +82,14 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 - **Schweigen vs. Aussage:** Bei strittiger Garantenstellung oder Hilflosigkeit kann Aussage zum Vorgeschehen helfen.
 - **Geststaendnis und TOA:** Bei Vernachlaessigung von Schutzbefohlenen oft Strafmilderungsweg.
 - **Glaubwuerdigkeit:** Bei "Aussage gegen Aussage" zur Hilflosigkeit Beweisaufnahme zu medizinischer Lage des Opfers.
-- **Nebenklage:** § 395 Abs. 1 Nr. 3 StPO – bei Aussetzung mit Folgen Nebenklage moeglich.
+- **Nebenklage:** § 395 Abs. 1 Nr. 3 StPO – bei Aussetzung mit Folgen Nebenklage möglich.
 
 ## Konkurrenzen
 
 - **§§ 211, 212 StGB:** Bei Toetungsvorsatz vorrangig (Aussetzung als Toetungshandlung).
 - **§ 222 StGB:** Bei fehlendem Vorsatz – fahrlaessige Toetung.
-- **§§ 223, 224 StGB:** Bei tatsaechlicher Verletzung – Tateinheit moeglich.
-- **§ 225 StGB:** Bei Schutzbefohlenen Tateinheit moeglich; § 225 StGB schuetzt umfassender (Quaelen, Misshandeln).
+- **§§ 223, 224 StGB:** Bei tatsaechlicher Verletzung – Tateinheit möglich.
+- **§ 225 StGB:** Bei Schutzbefohlenen Tateinheit möglich; § 225 StGB schuetzt umfassender (Quaelen, Misshandeln).
 - **§ 227 StGB:** Bei Todesfolge der Koerperverletzung – Tateinheit oder Spezialitaet streitig.
 - **§ 323c StGB:** Bei fehlender Garantenstellung – unterlassene Hilfeleistung als Auffangtatbestand.
 - **§ 171 StGB:** Verletzung Fuersorgepflicht – allgemein.
@@ -101,7 +101,7 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 - **Strafrahmen § 221 Abs. 3 StGB:** Nicht unter drei Jahren (bis 15 Jahre).
 - **Minder schwerer Fall § 221 Abs. 4 StGB:** Strafrahmen 3 Monate bis 5 Jahre bzw. 1 Jahr bis 10 Jahre.
 - **§ 49 StGB:** Strafrahmenverschiebung bei vertypten Milderungsgruenden.
-- **Bewaehrung:** Bei Strafe bis zu zwei Jahren grundsaetzlich moeglich (Abs. 1, ggf. Abs. 4).
+- **Bewaehrung:** Bei Strafe bis zu zwei Jahren grundsätzlich möglich (Abs. 1, ggf. Abs. 4).
 
 ## Mustertexte
 

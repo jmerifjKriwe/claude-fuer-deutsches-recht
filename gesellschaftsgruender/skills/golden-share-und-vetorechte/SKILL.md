@@ -25,22 +25,22 @@ description: "Golden Shares und Vetorechte in GmbH oder AG satzungsmäßig absic
 
 Klaere vor Gestaltung von Vetorechten:
 
-1. **Wessen Schutz?** Gruender gegen Investoren, Investor gegen Gruender, Familie gegen Nachfolger-Generation?
-2. **Umfang des Vetorechts?** Voller Block (alle Beschluesse) oder selektive Themen (Restrukturierung, Satzungsaenderung, Verkauf)?
-3. **Personenbezogen oder anteilsbezogen?** Personenbezogenes Vetorecht erlischt bei Anteilsabtretung; anteilsbezogenes geht mit dem Anteil ueber.
+1. **Wessen Schutz?** Gründer gegen Investoren, Investor gegen Gründer, Familie gegen Nachfolger-Generation?
+2. **Umfang des Vetorechts?** Voller Block (alle Beschlüsse) oder selektive Themen (Restrukturierung, Satzungsaenderung, Verkauf)?
+3. **Personenbezogen oder anteilsbezogen?** Personenbezogenes Vetorecht erlischt bei Anteilsabtretung; anteilsbezogenes geht mit dem Anteil über.
 4. **Insolvenzantragspflicht bekannt?** § 15a InsO: Pflicht des GF antragzustellen unabhaengig von Golden Share — Vetorecht entbindet GF NICHT.
-5. **Sitzverteilung im Beirat?** Gruender-Schutz kann auch ueber Beirats-Veto statt Golden Share strukturiert werden.
-6. **Handelsregister-Publikation?** Satzungsklausel wird mit Satzung beim HR hinterlegt; oeffentlich.
+5. **Sitzverteilung im Beirat?** Gründer-Schutz kann auch über Beirats-Veto statt Golden Share strukturiert werden.
+6. **Handelsregister-Publikation?** Satzungsklausel wird mit Satzung beim HR hinterlegt; öffentlich.
 
 ## Zentrale Normen
 
 - **§ 3 II GmbHG** — Satzungsautonomie; Sonderrechte und Vorzugsklassen zulässig
-- **§ 47 GmbHG** — Beschlussfassung; Mehrheitsprinzip; Abweichung durch Satzung moeglich
+- **§ 47 GmbHG** — Beschlussfassung; Mehrheitsprinzip; Abweichung durch Satzung möglich
 - **§ 47 IV GmbHG** — Stimmverbot bei Eigen-Interesse; gilt auch für Vetorechts-Inhaber
 - **§ 15a InsO** — Insolvenzantragspflicht des GF; wird durch Gesellschafter-Veto nicht beseitigt
 - **§ 31 StaRUG** — Antrag auf Restrukturierungsverfahren; freiwillig; Veto-Klausel hier wirksam
 - **§§ 133, 157 BGB** — Auslegung von Satzungs-Vetoklauseln bei Streit
-- **§ 138 BGB** — Sittenwidrigkeit: Veto ueber alle Beschluesse kann nichtig sein
+- **§ 138 BGB** — Sittenwidrigkeit: Veto über alle Beschlüsse kann nichtig sein
 
 ## Aktuelle Rechtsprechung
 
@@ -50,7 +50,7 @@ Klaere vor Gestaltung von Vetorechten:
 
 | Schritt | Frage | Norm | Ergebnis |
 |---|---|---|---|
-| 1 | Personenbezogen oder anteilsbezogen? | § 15 GmbHG | Bei Anteilsabtretung: erlischt oder geht ueber? |
+| 1 | Personenbezogen oder anteilsbezogen? | § 15 GmbHG | Bei Anteilsabtretung: erlischt oder geht über? |
 | 2 | Umfang sachlich begrenzt? | § 138 BGB | Kein Pauschal-Veto; selektive Themen |
 | 3 | Stimmverbot bei Eigeninteresse beachtet? | § 47 IV GmbHG | Veto-Inhaber bei Eigen-Sache: kein Stimmrecht |
 | 4 | Insolvenzantragspflicht gecheckt? | § 15a InsO | GF muss bei Insolvenzreife stellen; Veto greift nicht |
@@ -60,13 +60,13 @@ Klaere vor Gestaltung von Vetorechten:
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Schutzinteresse definieren:** Wen schuetzen wir (Gruender, Investor, Familie) und wovor?
+1. **Schutzinteresse definieren:** Wen schuetzen wir (Gründer, Investor, Familie) und wovor?
 2. **Katalog der Veto-Themen festlegen:** Selektiv; maximal 5-8 klar definierte Anlaesse.
 3. **Satzungs-Klausel entwerfen:** Personenbezogen vs. anteilsbezogen; Erloesch-Klausel formulieren.
 4. **§ 15a InsO-Warnung einbauen:** Explizit im Vertrag und Erlaeuterungsprotokoll dokumentieren, dass Insolvenzantragspflicht des GF unberuehrt bleibt.
 5. **SHA-Stimmverpflichtung** als schuldrechtliche Ergaenzung: für Faelle, die satzungsmaessig nicht erfasst sind.
 6. **Notar-Beurkundung** der Satzungsaenderung (bei Verankerung in Satzung).
-7. **Monitoring:** Jaehrliche Pruefung ob Veto-Klausel noch zum Unternehmens-Stadium passt.
+7. **Monitoring:** Jaehrliche Prüfung ob Veto-Klausel noch zum Unternehmens-Stadium passt.
 
 ## Output-Template: Satzungs-Klausel Golden Share
 
@@ -107,9 +107,9 @@ erheben.
 ## Rote Schwellen
 
 - Veto in der Insolvenzsituation: GF MUSS nach § 15a InsO stellen; Veto schuetzt GF nicht vor Strafbarkeit
-- Pauschal-Veto ueber alle Beschluesse: Nichtigkeit nach § 138 BGB moeglich (OLG Frankfurt 2021)
+- Pauschal-Veto über alle Beschlüsse: Nichtigkeit nach § 138 BGB möglich (OLG Frankfurt 2021)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Personenbezogenes Veto bei Erbfall: pruefen ob Erben das Vetorecht erben sollen oder es erloeschen soll
+- Personenbezogenes Veto bei Erbfall: prüfen ob Erben das Vetorecht erben sollen oder es erloeschen soll
 
 ## Quellen und Vertiefung
 

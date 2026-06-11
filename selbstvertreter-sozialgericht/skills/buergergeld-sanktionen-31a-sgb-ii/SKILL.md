@@ -16,28 +16,28 @@ description: "Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sankti
 ### Pflichtverletzung § 31 SGB II
 - Eingliederungsvereinbarung nicht erfuellt.
 - Arbeitsangebot nicht angenommen.
-- Massnahmen nicht angetreten.
+- Maßnahmen nicht angetreten.
 
 ### Meldeversaeumnis § 32 SGB II
 - Termin nicht eingehalten.
 
 ## Sanktionshoehe nach aktueller Gesetzeslage
 
-- Regelminderung gestuft: erste Pflichtverletzung 10 v. H. für einen Monat, weitere Verletzungen 20 v. H. bzw. 30 v. H. — die genauen Dauerregelungen sind nach den Reformen 2023/2024 differenziert und nicht mehr pauschal "3 Monate" bei jeder Stufe. Aktuellen Wortlaut § 31a SGB II vor Anwendung pruefen.
-- § 31a Abs. 7 SGB II: vollstaendiger Wegfall des Regelbedarfs in der Sonderkonstellation der bewussten Verweigerung einer zumutbaren Arbeit ("Totalentzug") trotz BVerfG 1 BvL 7/16 zulaessig, weil eng begrenzt und mit Mitwirkungsobliegenheit verknuepft — vor Anwendung im Mandat live verifizieren.
-- BVerfG 1 BvL 7/16 vom 05.11.2019 verbietet nur generelle Sanktionen ueber 30 v. H. und 100-v.-H.-Totalentzug. Im engen Sonderbereich des Abs. 7 hat der Gesetzgeber das Instrument unter strengen Voraussetzungen reaktiviert.
+- Regelminderung gestuft: erste Pflichtverletzung 10 v. H. für einen Monat, weitere Verletzungen 20 v. H. bzw. 30 v. H. — die genauen Dauerregelungen sind nach den Reformen 2023/2024 differenziert und nicht mehr pauschal "3 Monate" bei jeder Stufe. Aktuellen Wortlaut § 31a SGB II vor Anwendung prüfen.
+- § 31a Abs. 7 SGB II: vollstaendiger Wegfall des Regelbedarfs in der Sonderkonstellation der bewussten Verweigerung einer zumutbaren Arbeit ("Totalentzug") trotz BVerfG 1 BvL 7/16 zulässig, weil eng begrenzt und mit Mitwirkungsobliegenheit verknuepft — vor Anwendung im Mandat live verifizieren.
+- BVerfG 1 BvL 7/16 vom 05.11.2019 verbietet nur generelle Sanktionen über 30 v. H. und 100-v.-H.-Totalentzug. Im engen Sonderbereich des Abs. 7 hat der Gesetzgeber das Instrument unter strengen Voraussetzungen reaktiviert.
 
 ## BVerfG-Linie
 
-- BVerfG Beschluss vom 05.11.2019 (Az 1 BvL 7/16): Sanktionen ueber 30 Prozent verfassungswidrig.
+- BVerfG Beschluss vom 05.11.2019 (Az 1 BvL 7/16): Sanktionen über 30 Prozent verfassungswidrig.
 - Gesetzgeber hat 2023 reagiert.
 
 ## Verteidigung
 
-1. Anhörung pruefen — war sie ordnungsgemaess?
+1. Anhörung prüfen — war sie ordnungsgemaess?
 2. Sanktionsgrund war ueberhaupt einschlaegig?
 3. Wichtiger Grund (§ 31 Abs. 1 Satz 2 SGB II)?
-4. Verhaeltnismaessigkeit?
+4. Verhältnismäßigkeit?
 5. Mehrfachsanktion?
 
 ## Pruefraster

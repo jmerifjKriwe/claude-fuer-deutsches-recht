@@ -71,6 +71,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Pflichtversicherungszeit:** 5 Jahre allgemeine Wartezeit + 3 Jahre Beitragszeit in den letzten 5 Jahren vor Eintritt der EM (§ 43 I Nr. 2 SGB VI).
 - **Gutachten kritisch lesen:** Befundtatsachen vs. Schlussfolgerung trennen; Diagnose ist nicht gleich Leistungseinschraenkung; Plausibilitaetscheck Schmerzaussage vs. taegliches Aktivitaetsniveau; Berucksichtigung psychischer Komorbiditaeten; "Konsensus zur sozialmedizinischen Beurteilung" der DRV verwenden.
 - **Eigene Beweismittel:** Behandelnde Aerzte mit Schweigepflichtentbindung kontaktieren; Befundberichte Hausarzt/Facharzt/Klinik anfordern; ggf. Reha-Entlassungsbericht beilegen.
-- **§ 109 SGG**: Recht auf Wahl-Sachverstaendigen im Klageverfahren - Kostentragungspflicht (auch bei Erfolg moeglich), aber strategisch wichtig.
+- **§ 109 SGG**: Recht auf Wahl-Sachverstaendigen im Klageverfahren - Kostentragungspflicht (auch bei Erfolg möglich), aber strategisch wichtig.
 - **Verfahrensschritte:** Antrag DRV - Gutachten (oft MEDPROOF/MD); Bescheid; Widerspruch 1 Monat § 84 SGG; Klage 1 Monat § 87 SGG; ggf. Berufung LSG.
 - **Praxis-Tipp:** Antrag auf medizinische Reha (§ 15 SGB VI) wird oft vorgeschaltet; "Reha vor Rente"-Grundsatz § 9 SGB VI.

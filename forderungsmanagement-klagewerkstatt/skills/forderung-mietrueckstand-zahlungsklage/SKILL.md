@@ -20,9 +20,9 @@ Zwei Wege: reine Zahlungsklage auf rueckstaendige Miete oder kombinierte Zahlung
 ## Verzug bei Mietzahlung
 
 - Wohnraum Faelligkeit kalendermaessig (§ 556b BGB) → **Verzug ohne Mahnung** (§ 286 Abs. 2 Nr. 1 BGB).
-- Geschaeftsraum: Vertrag pruefen, sonst Mahnung erforderlich.
+- Geschaeftsraum: Vertrag prüfen, sonst Mahnung erforderlich.
 
-Verzugszinsen B2C: 5 Prozentpunkte ueber Basiszinssatz (§ 288 Abs. 1 BGB).
+Verzugszinsen B2C: 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
 
 ## Ausserordentliche Kuendigung § 543 BGB
 
@@ -30,11 +30,11 @@ Verzugszinsen B2C: 5 Prozentpunkte ueber Basiszinssatz (§ 288 Abs. 1 BGB).
 | Voraussetzung | Inhalt |
 |---|---|
 | a) Mietrueckstand 2 Termine fortlaufend + erheblich | aus 2 Monaten |
-| b) Mietrueckstand erheblich (= mehr als eine Monatsmiete) | Hoehe ueber eine Monatsmiete |
+| b) Mietrueckstand erheblich (= mehr als eine Monatsmiete) | Höhe über eine Monatsmiete |
 | Erheblich bei lfd. Vertraegen | mind. **2 Monatsmieten** in Rueckstand |
 
 **§ 569 Abs. 3 BGB Sonderregel Wohnraum**:
-- Nr. 1: kumuliert mit Folgemonat erheblich, wenn ueber Monatsmiete.
+- Nr. 1: kumuliert mit Folgemonat erheblich, wenn über Monatsmiete.
 - **Nr. 2 Schonfristzahlung**: Kuendigung wird **unwirksam**, wenn Vermieter innerhalb von 2 Monaten nach Rechtshaengigkeit Raeumungsklage befriedigt wird ODER öffentliche Stelle Befriedigung erklaert.
 
 **Achtung: Schonfristzahlung gilt nur einmal in 2 Jahren** (§ 569 Abs. 3 Nr. 2 S. 2 BGB).
@@ -84,12 +84,12 @@ Es wird beantragt:
 |---|---|---|
 | Zahlungsklage | Hauptforderung | § 3 ZPO |
 | Raeumungsklage Wohnraum | Jahresmiete (Nettomiete x 12) | § 41 Abs. 2 GKG |
-| Raeumungsklage Geschaeft | Jahresmiete | § 41 Abs. 2 GKG |
+| Raeumungsklage Geschäft | Jahresmiete | § 41 Abs. 2 GKG |
 | Kombi | Addition (§ 5 ZPO) |  |
 
 ## Sachliche und oertliche Zuständigkeit
 
-- Wohnraummiete: **ausschliesslich** AG (§ 23 Nr. 2a GVG), unabhaengig vom Streitwert.
+- Wohnraummiete: **ausschließlich** AG (§ 23 Nr. 2a GVG), unabhaengig vom Streitwert.
 - Oertlich: ausschliesslicher Gerichtsstand der belegenen Sache (§ 29a ZPO).
 
 ## Beweismittel-Standardliste

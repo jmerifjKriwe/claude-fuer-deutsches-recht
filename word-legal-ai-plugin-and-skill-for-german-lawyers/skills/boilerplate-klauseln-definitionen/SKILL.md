@@ -26,7 +26,7 @@ Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirks
 
 ## Rechtlicher und methodischer Rahmen
 
-- § 38 ZPO: Gerichtsstandsvereinbarung. Nur unter Kaufleuten oder mit Auslandsbezug zulaessig.
+- § 38 ZPO: Gerichtsstandsvereinbarung. Nur unter Kaufleuten oder mit Auslandsbezug zulässig.
 - Rom-I-VO: Verordnung (EG) Nr. 593/2008. Rechtswahl bei vertraglichen Schuldverhaeltnissen.
 - § 126 BGB, § 127 BGB: Schriftform und gewillkuerte Schriftform.
 - § 139 BGB: Teilnichtigkeit. Salvatorische Klausel als Modifikation der gesetzlichen Folge.
@@ -34,7 +34,7 @@ Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirks
 
 ## Ablauf / Checkliste
 
-1. **Klauselbedarf pruefen.** Im B2C-AGB sind viele Boilerplate-Klauseln unwirksam. Pruefen Sie pro Klausel.
+1. **Klauselbedarf prüfen.** Im B2C-AGB sind viele Boilerplate-Klauseln unwirksam. Prüfen Sie pro Klausel.
 2. **Klauseltyp waehlen.** Individualabrede oder AGB.
 3. **Mustertext anpassen.** Pauschalmuster sind Ausgangspunkt, kein Endpunkt.
 4. **AGB-Risiko bewerten.** Ist die Klausel im B2B noch wirksam? Im B2C oft nicht.
@@ -44,7 +44,7 @@ Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirks
 
 **Voraussetzung:** Modifikation des § 139 BGB (Gesamtnichtigkeit als Default). Praxisrelevant in nahezu jedem Vertrag.
 
-**AGB-Risiko:** Im B2B nach BGH grundsaetzlich wirksam, aber nicht als Generalheilmittel. Sie kehrt nicht die Darlegungslast um; im Streit muss die Partei, die sich auf Teilnichtigkeit beruft, die Auslegung tragen.
+**AGB-Risiko:** Im B2B nach BGH grundsätzlich wirksam, aber nicht als Generalheilmittel. Sie kehrt nicht die Darlegungslast um; im Streit muss die Partei, die sich auf Teilnichtigkeit beruft, die Auslegung tragen.
 
 **Mustertext (Individualvertrag, B2B):**
 
@@ -59,7 +59,7 @@ Entsprechendes gilt für den Fall, dass dieser Vertrag eine Luecke enthaelt.
 
 ### Klausel 2: Schriftformklausel (§ 126 BGB)
 
-**Voraussetzung:** Gewillkuerte Schriftform nach § 127 BGB. Vorsicht: doppelte Schriftformklausel im B2B grundsaetzlich wirksam (Aenderung dieser Klausel selbst nur in Schriftform), im B2C nach AGB-Recht angreifbar.
+**Voraussetzung:** Gewillkuerte Schriftform nach § 127 BGB. Vorsicht: doppelte Schriftformklausel im B2B grundsätzlich wirksam (Aenderung dieser Klausel selbst nur in Schriftform), im B2C nach AGB-Recht angreifbar.
 
 **Mustertext (Doppelte Schriftform, B2B):**
 
@@ -69,11 +69,11 @@ Dies gilt auch für die Aufhebung dieser Schriftformklausel selbst.
 Muendliche Nebenabreden bestehen nicht.
 ```
 
-**Hinweis:** Der BGH hat in mehreren Entscheidungen klargestellt, dass eine doppelte Schriftformklausel in AGB die mittels Individualabrede vorgenommene Aenderung nicht ausschliessen kann. Vor Verwendung im B2C aktuelle BGH-Rspr. pruefen.
+**Hinweis:** Der BGH hat in mehreren Entscheidungen klargestellt, dass eine doppelte Schriftformklausel in AGB die mittels Individualabrede vorgenommene Aenderung nicht ausschliessen kann. Vor Verwendung im B2C aktuelle BGH-Rspr. prüfen.
 
 ### Klausel 3: Gerichtsstandsvereinbarung (§ 38 ZPO)
 
-**Voraussetzung:** Beide Parteien Kaufleute, juristische Personen des öffentlichen Rechts oder oeffentlich-rechtliche Sondervermoegen (§ 38 Abs. 1 ZPO), oder Auslandsbezug. Im B2C unzulaessig (§ 38 Abs. 2, Abs. 3 ZPO).
+**Voraussetzung:** Beide Parteien Kaufleute, juristische Personen des öffentlichen Rechts oder öffentlich-rechtliche Sondervermoegen (§ 38 Abs. 1 ZPO), oder Auslandsbezug. Im B2C unzulaessig (§ 38 Abs. 2, Abs. 3 ZPO).
 
 **Mustertext (B2B):**
 
@@ -166,4 +166,4 @@ Erfuellungsort für Lieferung und Zahlung ist der Sitz des Lieferanten.
 
 - § 139 BGB, § 126 BGB, § 127 BGB, § 269 BGB, § 399 BGB, § 354a HGB. gesetze-im-internet.de.
 - § 38 ZPO; Rom-I-VO (Verordnung (EG) Nr. 593/2008). eur-lex.europa.eu.
-- BGH-Rspr. zu salvatorischer Klausel und doppelter Schriftformklausel: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
+- BGH-Rspr. zu salvatorischer Klausel und doppelter Schriftformklausel: vom Nutzer mit konkretem Aktenzeichen über bundesgerichtshof.de zu verifizieren.

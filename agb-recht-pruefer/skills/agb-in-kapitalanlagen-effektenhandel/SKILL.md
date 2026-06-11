@@ -24,7 +24,7 @@ description: "AGB im Kapitalanlage- und Effektenhandel. Skill klaert die AGB-rec
 - Geeignetheitserklaerung schriftlich.
 - AGB dürfen Beratungs-/Dokumentationspflichten nicht durch pauschale "Kunde entscheidet allein"-Formeln entleeren.
 
-### Beratungsfreies Geschaeft
+### Beratungsfreies Geschäft
 - Sondervorschriften für Execution-Only.
 - Product Governance, Zielmarkt, Warnhinweise und Kenntnisse/Erfahrungen sauber vom Beratungsverzicht trennen.
 

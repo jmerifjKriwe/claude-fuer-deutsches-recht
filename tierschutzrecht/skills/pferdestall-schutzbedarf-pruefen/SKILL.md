@@ -3,7 +3,7 @@ name: pferdestall-schutzbedarf-pruefen
 description: "Pferdestall: Schutzbedarf prüfen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Pferdestall Schutzbedarf Pruefen
+# Pferdestall Schutzbedarf Prüfen
 
 ## Arbeitsweg
 

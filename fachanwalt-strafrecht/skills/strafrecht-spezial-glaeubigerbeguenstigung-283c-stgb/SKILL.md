@@ -47,10 +47,10 @@ Wieder: Eintritt der Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag.
 
 ## Praktikertipps der alten Hasen
 
-- **Kongruenz pruefen.** Inkongruenz ist Voraussetzung. War die Forderung faellig? War sie in genau dieser Art und zu genau dieser Zeit geschuldet? Mit Vertraegen und AGB belegen.
+- **Kongruenz prüfen.** Inkongruenz ist Voraussetzung. War die Forderung faellig? War sie in genau dieser Art und zu genau dieser Zeit geschuldet? Mit Vertraegen und AGB belegen.
 - **Bargeschaeftsausnahme Paragraph 142 InsO als Indiz.** Wenn die Leistung Zug-um-Zug gegen gleichwertige Gegenleistung erbracht wurde, dann liegt kein klassischer Tatbeitrag zum Vermoegensabzug vor. Strafrechtlich nicht 1:1 uebertragbar, aber Indiz gegen Beguenstigungsabsicht.
 - **Sanierungsversuch als Rechtfertigung.** Wenn der GF mit der Zahlung einen wesentlichen Lieferanten erhalten wollte, um die Sanierung zu ermoeglichen, fehlt die Beguenstigungsabsicht (es ging um Unternehmenserhalt, nicht um Glaeubigerselektion).
-- **Liquiditaetsstatus zum Tattag.** Ohne sauberen Liquiditaetsstatus laesst sich Zahlungsunfaehigkeit oft nicht beweisen. Verteidigung sollte den Status rekonstruieren und Cashflow-Reserven dokumentieren.
+- **Liquiditaetsstatus zum Tattag.** Ohne sauberen Liquiditaetsstatus lässt sich Zahlungsunfaehigkeit oft nicht beweisen. Verteidigung sollte den Status rekonstruieren und Cashflow-Reserven dokumentieren.
 - **Selbstbeguenstigung.** Wenn der GF an sich selbst zahlt (Gehalt, Tilgung Gesellschafterdarlehen), Paragraph 39 InsO Nachrang beachten; oft auch Paragraph 266 StGB Untreue.
 
 ## Trade-off-Matrix
@@ -62,7 +62,7 @@ Wieder: Eintritt der Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag.
 ## Konkurrenzen
 
 - **Paragraph 283c StGB hinter Paragraph 283 StGB.** Wenn die Beguenstigung gleichzeitig Beiseiteschaffen iSv Paragraph 283 Abs 1 Nr 1 StGB ist (z. B. an Verwandten), geht 283 StGB als schwereres Delikt vor.
-- **Paragraph 283c StGB neben Paragraph 266 StGB Untreue.** Bei Selbstbeguenstigung ueber den GF kann Untreue parallel verwirklicht sein (Vermoegensbetreuungspflicht gegenueber GmbH verletzt).
+- **Paragraph 283c StGB neben Paragraph 266 StGB Untreue.** Bei Selbstbeguenstigung über den GF kann Untreue parallel verwirklicht sein (Vermoegensbetreuungspflicht gegenueber GmbH verletzt).
 - **Paragraph 283c StGB neben Paragraph 15b InsO Zahlungsverbot.** Strafrechtlich kein Verstoss gegen Paragraph 15b InsO, aber der zivilrechtliche Erstattungsanspruch gegen den GF kann Indiz für die Beguenstigung sein.
 - **Paragraph 283c StGB und Paragraph 130, 131 InsO.** Anfechtungstatbestaende sind nicht deckungsgleich mit Strafbarkeit, aber stark indiziell.
 
@@ -72,7 +72,7 @@ Wieder: Eintritt der Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag.
 - Versuch milder nach Paragraph 23 Abs 2, Paragraph 49 Abs 1 StGB.
 - **Einziehung Paragraph 73 StGB**: gegenueber dem begünstigten Glaeubiger. Wertersatz Paragraph 73c StGB.
 - **Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG**: 5 Jahre als GF.
-- BZRG-Eintrag bei Geldstrafe ueber 90 Tagessaetzen.
+- BZRG-Eintrag bei Geldstrafe über 90 Tagessaetzen.
 - Parallele zivilrechtliche Haftung gegenueber dem Insolvenzverwalter aus Paragraph 130 ff. InsO und Paragraph 826 BGB.
 
 ## Mustertexte

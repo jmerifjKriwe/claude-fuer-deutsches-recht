@@ -20,7 +20,7 @@ Das DBA wurde urspruenglich mit der CSSR am 19.12.1980 abgeschlossen (BGBl. 1982
 ## Kaltstart-Rueckfragen
 
 1. Konstellation: Arbeitnehmer, Entsendung, Bau, Beteiligung?
-2. 183-Tage-Pruefung Kalenderjahr oder 12-Monatszeitraum?
+2. 183-Tage-Prüfung Kalenderjahr oder 12-Monatszeitraum?
 3. Bauausfuehrung welcher Dauer?
 4. Beteiligungshoehe und Schachtelvoraussetzungen?
 5. Lizenzart?
@@ -54,7 +54,7 @@ Das DBA wurde urspruenglich mit der CSSR am 19.12.1980 abgeschlossen (BGBl. 1982
 
 ### Passive Einkuenfte
 - **Dividenden** (Art. 10): 5 Prozent bei direkter Beteiligung von mindestens 25 Prozent am Kapital; 15 Prozent in allen anderen Faellen. EU-MTRL Schachtel 0 Prozent.
-- **Zinsen** (Art. 11): ausschliesslich im Ansaessigkeitsstaat des Nutzungsberechtigten steuerpflichtig (0 Prozent Quellensteuer im Quellenstaat).
+- **Zinsen** (Art. 11): ausschließlich im Ansaessigkeitsstaat des Nutzungsberechtigten steuerpflichtig (0 Prozent Quellensteuer im Quellenstaat).
 - **Lizenzgebuehren** (Art. 12): 5 Prozent des Bruttobetrags im Quellenstaat. EU-ZinsLizenzRL (§ 50g EStG) bei verbundenen Unternehmen 0 Prozent.
 
 ### Vermeidungs-Methode
@@ -69,7 +69,7 @@ Das DBA wurde urspruenglich mit der CSSR am 19.12.1980 abgeschlossen (BGBl. 1982
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 ### Phase 3 — Einkunftsart einordnen
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
@@ -77,30 +77,30 @@ Das DBA wurde urspruenglich mit der CSSR am 19.12.1980 abgeschlossen (BGBl. 1982
 ## Strategie und Praxis-Tipps
 
 - Aelteres DBA-CSSR (1980): bei strittiger Auslegung Verstaendigungsverfahren oder EU-DBA-SBG.
-- EU-MTRL und EU-ZinsLizenzRL gehen DBA in der Regel vor — Empfaengergunst-Pruefung.
-- Bei Automotive-Entsendung: 183-Tage-Pruefung detailliert; Bauausfuehrung-Schwelle bei Werkbau pruefen.
+- EU-MTRL und EU-ZinsLizenzRL gehen DBA in der Regel vor — Empfaengergunst-Prüfung.
+- Bei Automotive-Entsendung: 183-Tage-Prüfung detailliert; Bauausfuehrung-Schwelle bei Werkbau prüfen.
 - Bei Holding-Konstruktion Tschechien-Deutschland: § 50d Abs. 3 EStG-Substanztest.
 - Bei Pensionen aus Tschechien: Wohnsitzstaat-Prinzip ueberwiegend; öffentlicher Dienst Kassenstaat.
 
 ## Praktiker-Tipps der alten Hasen
 
 - **Erstattungsverfahren CZ → DE-Mandant**: Antrag bei der Finanční správa (Generální finanční ředitelství), Online-Portal "MOJE daně" (vom Anwender mit aktuellem Stand des tschechischen Online-Portals zu verifizieren). Antragsformular für Ansaessigkeitsbescheinigung der Finanční správa erforderlich.
-- **Sprache des DBA**: Authentische Textfassungen Deutsch und Tschechisch; das DBA-CSSR von 1980 wurde damals in Deutsch und Tschechoslowakisch verfasst — heutige Textfassungen muessen mit der originalen authentischen Fassung abgeglichen werden.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Tschechisch; das DBA-CSSR von 1980 wurde damals in Deutsch und Tschechoslowakisch verfasst — heutige Textfassungen müssen mit der originalen authentischen Fassung abgeglichen werden.
 - **Lokaler Berater**: Bei tschechischer s.r.o. oder a.s. mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines tschechischen "daňový poradce" (zertifizierter Steuerberater) wegen der EET-Pflicht (Elektronische Erfassung der Umsaetze) und der CIT-Erklaerung Daňové přiznání k dani z příjmů právnických osob.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten für Steuerverwaltungsdokumente; bei Erbschaftsfaellen mit notariellen Urkunden Apostille (Haager Uebereinkommen) ueblich.
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
-- **Sozialversicherungs-Doppelbesteuerung**: Tschechien erhebt hohe Sozialversicherungsbeitraege (Arbeitgeber rund 33,8 Prozent, Arbeitnehmer rund 11 Prozent — Stand nach polnisch/tschechischer Praxis im Einzelfall pruefen). Diese sind durch das DBA NICHT erfasst — EU-VO 883/2004 (Sozialversicherungs-Koordinierung) loest mit A1-Bescheinigung. Bei Werkvertraegen Sub-CZ/DE: Pruefer triggert oft auf fehlende A1.
-- **183-Tage im 12-Monatszeitraum**: DBA-CSSR 1980 verwendet Kalenderjahr für 183-Tage-Pruefung — anders als modernere DBA mit 12-Monatszeitraum. Bei kalenderjahrueberlappenden Entsendungen sorgfaeltig zaehlen.
-- **§ 50d Abs. 3 EStG-Substanz**: CZ-Holdings ohne operatives Geschaeft loesen Anti-Treaty-Shopping aus — kein Erstattungsanspruch der einbehaltenen Quellensteuer ohne nachgewiesene wirtschaftliche Substanz.
-- **CZ-KSt 21 Prozent ab 2024**: Tschechische KSt 2023 noch 19 Prozent, ab 2024 21 Prozent (vom Anwender mit aktuellem tschechischem Steuerrecht zu verifizieren) — knapp ueber AStG-Niedrigsteuerschwelle 15 Prozent.
+- **Sozialversicherungs-Doppelbesteuerung**: Tschechien erhebt hohe Sozialversicherungsbeitraege (Arbeitgeber rund 33,8 Prozent, Arbeitnehmer rund 11 Prozent — Stand nach polnisch/tschechischer Praxis im Einzelfall prüfen). Diese sind durch das DBA NICHT erfasst — EU-VO 883/2004 (Sozialversicherungs-Koordinierung) loest mit A1-Bescheinigung. Bei Werkvertraegen Sub-CZ/DE: Prüfer triggert oft auf fehlende A1.
+- **183-Tage im 12-Monatszeitraum**: DBA-CSSR 1980 verwendet Kalenderjahr für 183-Tage-Prüfung — anders als modernere DBA mit 12-Monatszeitraum. Bei kalenderjahrueberlappenden Entsendungen sorgfaeltig zaehlen.
+- **§ 50d Abs. 3 EStG-Substanz**: CZ-Holdings ohne operatives Geschäft loesen Anti-Treaty-Shopping aus — kein Erstattungsanspruch der einbehaltenen Quellensteuer ohne nachgewiesene wirtschaftliche Substanz.
+- **CZ-KSt 21 Prozent ab 2024**: Tschechische KSt 2023 noch 19 Prozent, ab 2024 21 Prozent (vom Anwender mit aktuellem tschechischem Steuerrecht zu verifizieren) — knapp über AStG-Niedrigsteuerschwelle 15 Prozent.
 
 ## Trade-offs
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Werksvertrag vs. Arbeitnehmerueberlassung | Werksvertrag CZ-Unternehmen liefert Werk in DE: keine 183-Tage-Falle, aber Bau-BS bei langer Aktivitaet | AUe nach AUeG: tschechische Arbeitnehmer in DE Lohnsteuerpflicht | bei langfristigem Industrieauftrag oft Werkvertrag mit BS-Anschluss vorteilhaft; bei kurzfristiger Spitzenabdeckung AUe — aber AUeG-Erlaubnis pruefen |
+| Werksvertrag vs. Arbeitnehmerueberlassung | Werksvertrag CZ-Unternehmen liefert Werk in DE: keine 183-Tage-Falle, aber Bau-BS bei langer Aktivitaet | AUe nach AUeG: tschechische Arbeitnehmer in DE Lohnsteuerpflicht | bei langfristigem Industrieauftrag oft Werkvertrag mit BS-Anschluss vorteilhaft; bei kurzfristiger Spitzenabdeckung AUe — aber AUeG-Erlaubnis prüfen |
 | Schachtel-Beteiligung 25 vs. 10 Prozent | DBA-CSSR: Schachtel 25 Prozent für 5-Prozent-DBA-Satz | EU-MTRL: bereits 10 Prozent für 0-Prozent-Freistellung | EU-MTRL ist regelmaessig vorteilhafter — § 43b EStG hat Vorrang |
 | Pension Wohnsitz CZ mit DRV-Bezug | DRV-Auszahlung an DE-Konto, Wohnsitz CZ: Wohnsitzstaat-Prinzip | DE-Beamtenpension: Kassenstaat | bei DRV-Gesetzesrente Wohnsitzstaat CZ besteuert; bei Beamtenversorgung DE — sauber differenzieren |
 
@@ -119,7 +119,7 @@ Bei nicht verbundenen Unternehmen bleibt die DBA-QSt 5 Prozent; in der Praxis lo
 2. **Strukturierung**: Bei Werkvertraegen vs. AUe trennscharfe Vertragsgestaltung; bei Bau-Aktivitaeten 12-Monatsfrist; bei Holding Substanz.
 3. **Antraege**: Ansaessigkeitsbescheinigung Finanční správa; A1-Bescheinigung Sozialversicherung; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: CZ-Buchfuehrung mit EET; DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive Einkuenfte.
-5. **Audit-Vorbereitung**: CZ-Pruefung Verrechnungspreis-Dokumentation; DE-FA-Pruefung § 50d Abs. 3 EStG-Substanz und MLI-Anwendung ab 01.01.2026.
+5. **Audit-Vorbereitung**: CZ-Prüfung Verrechnungspreis-Dokumentation; DE-FA-Prüfung § 50d Abs. 3 EStG-Substanz und MLI-Anwendung ab 01.01.2026.
 
 ## Ausgabeformat für Mandanten-Memo Tschechien
 
@@ -144,6 +144,6 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-CSSR
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-CSSR 19.12.1980 (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung für Tschechien per Bekanntmachung BGBl. 1993 II S. 762. MLI ab 01.01.2026. Dividenden 5/15 Prozent, Zinsen 0 Prozent (nur Ansaessigkeitsstaat), Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+Stand: 05/2026. DBA-CSSR 19.12.1980 (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung für Tschechien per Bekanntmachung BGBl. 1993 II S. 762. MLI ab 01.01.2026. Dividenden 5/15 Prozent, Zinsen 0 Prozent (nur Ansaessigkeitsstaat), Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 9 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 1022; Fortgeltung Bekanntmachung 1993; MLI 01.01.2026; Quellensteuer-Saetze; Bauausfuehrung 12 Monate), 1 gestrichen (BFH I R 38/12 betrifft nicht Tschechien) -->

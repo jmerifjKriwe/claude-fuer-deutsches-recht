@@ -29,7 +29,7 @@ Plant und dokumentiert wiederkehrende Kanzlei-Routinen als sichere automatisiert
 ## Zentrale Normen
 - Art. 6 DSGVO — Rechtsgrundlage für automatisierte Datenverarbeitung in der Kanzlei
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei Einsatz externer Dienstleister
-- Art. 32 DSGVO — Technisch-organisatorische Massnahmen für sichere Automation
+- Art. 32 DSGVO — Technisch-organisatorische Maßnahmen für sichere Automation
 - § 43 BRAO — Berufsrechtliche Pflichten bei Einsatz technischer Hilfsmittel
 
 ## Typische Routinen

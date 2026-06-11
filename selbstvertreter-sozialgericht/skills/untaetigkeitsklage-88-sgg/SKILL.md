@@ -17,7 +17,7 @@ Sie haben einen Antrag gestellt oder Widerspruch eingelegt. Und dann passiert ni
 
 ## In einfacher Sprache
 
-Sie haben einen Antrag gestellt. Die Behörde tut nichts. Nach langer Zeit koennen Sie zum Gericht. Das Gericht zwingt die Behörde, endlich zu antworten.
+Sie haben einen Antrag gestellt. Die Behörde tut nichts. Nach langer Zeit können Sie zum Gericht. Das Gericht zwingt die Behörde, endlich zu antworten.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -39,12 +39,12 @@ Sie haben einen Antrag gestellt. Die Behörde tut nichts. Nach langer Zeit koenn
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Fristen pruefen
+### Schritt 1 — Fristen prüfen
 
 - **Antrag bei Behörde**: 6 Monate seit Antragsdatum
 - **Widerspruch**: 3 Monate seit Widerspruchsdatum
 
-Erst nach Ablauf koennen Sie klagen.
+Erst nach Ablauf können Sie klagen.
 
 ### Schritt 2 — Vorab schriftliche Erinnerung
 
@@ -125,10 +125,10 @@ Drei Moeglichkeiten:
 
 Wichtig: Das Gericht entscheidet nur, DASS die Behörde entscheiden muss — nicht WIE. Wenn die Behörde dann negativ entscheidet, brauchen Sie wieder Widerspruch und ggf. neue Klage.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Fristen sind streng**: 6 / 3 Monate. Vorher ist Klage unzulaessig.
-- **Sachgrund**: Pruefen Sie, ob die Behörde auf Unterlagen wartet, die Sie noch nicht eingereicht haben. Wenn ja: schnell nachreichen.
+- **Sachgrund**: Prüfen Sie, ob die Behörde auf Unterlagen wartet, die Sie noch nicht eingereicht haben. Wenn ja: schnell nachreichen.
 - **Nicht Aufgeben**: Untaetigkeit-Klage ist meist erfolgreich und kostenfrei.
 
 ## Typische Fehler

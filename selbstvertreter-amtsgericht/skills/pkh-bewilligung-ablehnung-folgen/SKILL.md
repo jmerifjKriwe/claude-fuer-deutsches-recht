@@ -7,19 +7,19 @@ description: "Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten Beiord
 
 ## Worum geht es?
 
-Nach Ihrem PKH-Antrag entscheidet das Gericht durch Beschluss. Wenn bewilligt, koennen Sie ohne (oder mit reduzierten) Kosten klagen. Wenn abgelehnt: Sie tragen die Kosten selbst oder koennen die Beschwerde einlegen. Diese Skill erklaert, was die Bewilligung praktisch heisst und was Sie bei Ablehnung tun koennen.
+Nach Ihrem PKH-Antrag entscheidet das Gericht durch Beschluss. Wenn bewilligt, können Sie ohne (oder mit reduzierten) Kosten klagen. Wenn abgelehnt: Sie tragen die Kosten selbst oder können die Beschwerde einlegen. Diese Skill erklaert, was die Bewilligung praktisch heisst und was Sie bei Ablehnung tun können.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben PKH beantragt und auf Antwort warten.
 - Sie haben einen PKH-Beschluss bekommen.
-- Sie wurden abgelehnt und wollen Beschwerde pruefen.
+- Sie wurden abgelehnt und wollen Beschwerde prüfen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **PKH-Beschluss**: Schriftliche Entscheidung des Gerichts ueber den PKH-Antrag.
+- **PKH-Beschluss**: Schriftliche Entscheidung des Gerichts über den PKH-Antrag.
 - **Beiordnung**: Zuweisung eines konkreten Anwalts auf Staatskosten.
-- **Sofortige Beschwerde**: Rechtsmittel gegen bestimmte Beschluesse (§ 127 II ZPO).
+- **Sofortige Beschwerde**: Rechtsmittel gegen bestimmte Beschlüsse (§ 127 II ZPO).
 
 ## Rechtsgrundlagen
 
@@ -50,14 +50,14 @@ Der PKH-Beschluss enthaelt:
 ### Schritt 3 — Bewilligung mit Raten
 
 - Sie zahlen monatliche Raten an die Gerichtskasse.
-- Hoehe richtet sich nach Ihrer Einkommens-Lage (Tabelle § 115 II ZPO).
+- Höhe richtet sich nach Ihrer Einkommens-Lage (Tabelle § 115 II ZPO).
 - Bis zu 48 Monaten.
 
 Skill `pkh-ratenzahlung-bewilligung`.
 
 ### Schritt 4 — Beiordnung Anwalt
 
-§ 121 II ZPO: Wenn die Sache nicht einfach gelagert ist und Sie nicht selbst vertreten koennen, wird Anwalt beigeordnet. Bei AG ist Anwaltszwang nicht zwingend — Beiordnung also nicht zwingend.
+§ 121 II ZPO: Wenn die Sache nicht einfach gelagert ist und Sie nicht selbst vertreten können, wird Anwalt beigeordnet. Bei AG ist Anwaltszwang nicht zwingend — Beiordnung also nicht zwingend.
 
 Wenn Sie einen bestimmten Anwalt wollen: Beiordnung beantragen unter Nennung des Namens. Anwalt muss zustimmen.
 
@@ -89,7 +89,7 @@ Ergaenzungs-Schriftsatz mit klarstellenden Vortrag und Beweis nachreichen. Manch
 
 ### Schritt 8 — Wenn Beschwerde scheitert
 
-Sie tragen die Kosten selbst. Sie koennen trotzdem klagen — aber dann mit vollem Risiko.
+Sie tragen die Kosten selbst. Sie können trotzdem klagen — aber dann mit vollem Risiko.
 
 Alternativen:
 
@@ -107,7 +107,7 @@ Alternativen:
 
 Folge: Sie zahlen rueckwirkend.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Beschwerde-Frist 2 Wochen**: Pflicht.
 - **Aenderungs-Meldung § 120a**: Wenn sich Einkommen erheblich aendert.

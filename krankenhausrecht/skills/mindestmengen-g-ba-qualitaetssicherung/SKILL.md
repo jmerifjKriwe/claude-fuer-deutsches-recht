@@ -19,7 +19,7 @@ description: "Mindestmengen nach § 136b SGB V und G-BA-Mm-R: Prognoseverfahren,
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Fruehgeborene < 1250 g, Lebertransplantation, Stammzelltransplantation) verlangt § 136b SGB V Mindestmengen pro Standort und Jahr. Bei Unterschreiten gilt grundsaetzlich ein Erbringungsverbot.
+Für bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Fruehgeborene < 1250 g, Lebertransplantation, Stammzelltransplantation) verlangt § 136b SGB V Mindestmengen pro Standort und Jahr. Bei Unterschreiten gilt grundsätzlich ein Erbringungsverbot.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welcher Mindestmengen-Tatbestand betrifft die Klinik (OPS-Liste der G-BA-Mm-R)?
@@ -31,16 +31,16 @@ Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Frue
 - **SGB V § 136b Abs. 1 Nr. 2** Mindestmengen-Festlegung durch G-BA.
 - **G-BA Mindestmengenregelungen (Mm-R)** in der jeweils aktuellen Fassung.
 - **SGB V § 137 Abs. 3** Datenmeldung an Land/G-BA.
-- **Landeskrankenhausgesetze** Pruefung der Prognose durch Landesbehoerde.
-- **G-BA-Beschluesse** zu Aufnahme/Streichung von Mindestmengen-Tatbestaenden.
-- **BVerfG** zu Berufsausuebungsfreiheit und Mindestmengen (Verhaeltnismaessigkeit).
+- **Landeskrankenhausgesetze** Prüfung der Prognose durch Landesbehoerde.
+- **G-BA-Beschlüsse** zu Aufnahme/Streichung von Mindestmengen-Tatbestaenden.
+- **BVerfG** zu Berufsausuebungsfreiheit und Mindestmengen (Verhältnismäßigkeit).
 
 ## / Schritt für Schritt
 1. **Mindestmengen-Tatbestand identifizieren:** OPS-Liste Mm-R Anlage.
 2. **Vorjahresmengen ausweisen:** § 137 SGB V-Meldung.
 3. **Prognose für Folgejahr erstellen:** Plausibilitaet, Versorgungsbedarf, Personalplanung.
-4. **Negativfeststellung pruefen:** Landesbehoerde stellt fest, ob Prognose haltbar.
-5. **Ausnahmetatbestand pruefen:** Sicherstellung, Versorgungsluecke, atypische Lage.
+4. **Negativfeststellung prüfen:** Landesbehoerde stellt fest, ob Prognose haltbar.
+5. **Ausnahmetatbestand prüfen:** Sicherstellung, Versorgungsluecke, atypische Lage.
 6. **Rechtsschutz:** Widerspruch/Klage gegen Negativfeststellung; einstweiliger Rechtsschutz.
 
 ## Trade-off-Matrix
@@ -48,14 +48,14 @@ Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Frue
 | Lage | Strategie | Folge |
 |---|---|---|
 | Mindestmenge knapp erfuellt | Prognose plausibel begruenden | Fortfuehrung |
-| Mindestmenge nicht erreicht | Ausnahme beantragen (Sicherstellung) | aufschiebende Wirkung pruefen |
+| Mindestmenge nicht erreicht | Ausnahme beantragen (Sicherstellung) | aufschiebende Wirkung prüfen |
 | Mehrere Standorte | Konzentrierung an Hauptstandort | Strukturkosten reduziert |
 | dauerhafte Unterschreitung | LG abgeben | Konzentration auf andere LG |
 
 ## Praxistipps
 - Prognose ist keine bloße Schaetzung; sie braucht eine plausible Anknuepfung an Vorjahre, Personalbestand und Versorgungsauftrag.
 - Erbringungsverbot greift in Regel zum Folgejahr; einstweiliger Rechtsschutz § 80 Abs. 5 VwGO zum Verwaltungsgericht.
-- Ausnahmen sind eng auszulegen (BSG; BVerfG: Mm sind verfassungsrechtlich grundsaetzlich zulaessig).
+- Ausnahmen sind eng auszulegen (BSG; BVerfG: Mm sind verfassungsrechtlich grundsätzlich zulässig).
 - Mindestmengen wirken parallel zu LG-Strukturmerkmalen; LG kann ohne Mm-Tatbestand nicht ausgehoehlt werden.
 
 ## Mustertexte

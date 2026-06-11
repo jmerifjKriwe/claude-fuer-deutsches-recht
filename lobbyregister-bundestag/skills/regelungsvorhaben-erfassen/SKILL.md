@@ -25,11 +25,11 @@ description: "Erfasst konkrete aktuelle, geplante oder angestrebte Regelungsvorh
 1. Welche rechtliche Regelung soll eingefuehrt, geaendert, beibehalten oder verhindert werden?
 2. Gibt es Referentenentwurf, Drucksache oder bekannte Initiative?
 3. Wann steht die erste Kontaktaufnahme dazu bevor?
-4. Wie soll das Vorhaben spaeter im öffentlichen JSON/API-Export wiedergefunden werden?
+4. Wie soll das Vorhaben später im öffentlichen JSON/API-Export wiedergefunden werden?
 
 ## API-Suchfaehigkeit
 
-Formuliere Regelungsvorhaben so, dass sie sowohl im Portal als auch spaeter in API/API-Export nachvollziehbar sind: sprechender Titel, Bezug zu Gesetz, Verordnung oder politischer Initiative, keine zu breiten Sammelbegriffe, konsistente Schreibweisen. Fuer Monitoring Suchbegriffe, Varianten und erwartete JSON-Felder `regulatoryProjects` und `statements` notieren.
+Formuliere Regelungsvorhaben so, dass sie sowohl im Portal als auch später in API/API-Export nachvollziehbar sind: sprechender Titel, Bezug zu Gesetz, Verordnung oder politischer Initiative, keine zu breiten Sammelbegriffe, konsistente Schreibweisen. Für Monitoring Suchbegriffe, Varianten und erwartete JSON-Felder `regulatoryProjects` und `statements` notieren.
 
 ## Quellenanker
 

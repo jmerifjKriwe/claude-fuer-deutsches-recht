@@ -20,7 +20,7 @@ Gesellschafter haftet auf Erbringung der **gezeichneten Einlage**, soweit nicht 
 |---|---|---|
 | Ausstehende Einlage | § 19 Abs. 1 GmbHG | Anspruch GmbH auf Volleinzahlung |
 | Differenz Sacheinlage / Bewertung | § 9 Abs. 1 GmbHG | Differenzhaftung in Geld |
-| Verdeckte Sacheinlage | § 19 Abs. 4 GmbHG (seit MoMiG 2008) | bei Anrechnung: Wert pruefen |
+| Verdeckte Sacheinlage | § 19 Abs. 4 GmbHG (seit MoMiG 2008) | bei Anrechnung: Wert prüfen |
 | Hin- und Herzahlung | § 19 Abs. 5 GmbHG | bestehende Forderung der GmbH |
 
 Klage: GmbH (in Insolvenz: Insolvenzverwalter) klagt gegen Gesellschafter.
@@ -29,7 +29,7 @@ Klage: GmbH (in Insolvenz: Insolvenzverwalter) klagt gegen Gesellschafter.
 
 | Voraussetzung | Folge |
 |---|---|
-| Auszahlung an Gesellschafter | Pruefung § 30 GmbHG (Stammkapital-Auszehrung) |
+| Auszahlung an Gesellschafter | Prüfung § 30 GmbHG (Stammkapital-Auszehrung) |
 | Verstoss gegen Kapitalerhaltung | Rückforderungsanspruch GmbH |
 | Verjährung | 10 Jahre § 31 Abs. 5 GmbHG |
 
@@ -38,13 +38,13 @@ Wirtschaftlicher Hintergrund: GmbH darf bei drohendem Unterschreiten des Stammka
 ### 3. Existenzvernichtender Eingriff (Haftung wegen § 826 BGB)
 
 **BGH II ZR 256/02 Trihotel** und **II ZR 3/04 Bremer Vulkan**:
-- Gesellschafter haftet **deliktisch nach § 826 BGB**, wenn er der GmbH planmaessig betriebsnotwendiges Vermoegen entzieht und damit die Existenz der GmbH gefaehrdet.
+- Gesellschafter haftet **deliktisch nach § 826 BGB**, wenn er der GmbH planmaessig betriebsnotwendiges Vermögen entzieht und damit die Existenz der GmbH gefaehrdet.
 - Schadensersatz an die GmbH (nicht direkt an Glaeubiger).
 - In der Insolvenz: Anspruch des Insolvenzverwalters; ohne Insolvenz Pfaendung des Anspruchs der GmbH.
 
 ### 4. Materielle Unterkapitalisierung
 
-BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur ueber § 826 BGB / existenzvernichtenden Eingriff.
+BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur über § 826 BGB / existenzvernichtenden Eingriff.
 
 ### 5. Sittenwidrige vorsaetzliche Schaedigung § 826 BGB
 
@@ -52,7 +52,7 @@ Wenn Gesellschafter direkt den Glaeubiger taeuscht (Bonitaetstaeuschung, Eingehu
 
 ### 6. Persoenliche Buergschaft, Schuldbeitritt, Garantie
 
-Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Pruefung Form (§ 766 BGB Schriftform Buergschaft, ausser kaufmaennische Buergschaft § 350 HGB).
+Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Prüfung Form (§ 766 BGB Schriftform Buergschaft, ausser kaufmaennische Buergschaft § 350 HGB).
 
 ### 7. Haftung Geschaeftsfuehrer (nicht Gesellschafter, aber oft personenidentisch)
 

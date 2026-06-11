@@ -166,7 +166,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Knowledge-Standard pruefen:** SPA-Klausel analysieren; "Best Knowledge" vs. "Actual Knowledge" vs. "Constructive Knowledge"
+1. **Knowledge-Standard prüfen:** SPA-Klausel analysieren; "Best Knowledge" vs. "Actual Knowledge" vs. "Constructive Knowledge"
 2. **Disclosure-Konzept validieren:** General Disclosure oder Specific? Datenraum-Index vollstaendig?
 3. **KI-DD-Transparenz:** Methodik der KI-gestuetzten DD dokumentieren; Human-in-the-loop-Protokoll für Underwriter und Gegenseite
 4. **Known Unknowns kartieren:** Umstaende, die bekannt aber noch ungeklart sind; Disclosure-Kategorie erstellen

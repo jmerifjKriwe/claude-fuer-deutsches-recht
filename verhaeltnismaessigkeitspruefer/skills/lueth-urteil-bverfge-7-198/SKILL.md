@@ -31,11 +31,11 @@ Paragraf 138 BGB, Paragraf 242 BGB in das Privatrecht aus.
 
 ### 3. Abwaegungsmodell
 Bei Konflikt zwischen Grundrecht und privatem Schutzgut ist **abzuwaegen**;
-Verhaeltnismaessigkeit als Methodik dringt ins Privatrecht ein.
+Verhältnismäßigkeit als Methodik dringt ins Privatrecht ein.
 
-## Bedeutung fuer den Verhaeltnismaessigkeitspruefer
+## Bedeutung für den Verhaeltnismaessigkeitspruefer
 
-Lueth oeffnete die Verhaeltnismaessigkeitspruefung fuer das Zivilrecht.
+Lueth oeffnete die Verhaeltnismaessigkeitspruefung für das Zivilrecht.
 Heute ist die Abwaegung in nahezu jedem persoenlichkeitsrechtlichen
 Konflikt das zentrale Werkzeug, etwa bei:
 - Bildberichterstattung gegen Persoenlichkeitsrecht.

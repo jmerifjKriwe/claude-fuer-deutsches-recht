@@ -17,7 +17,7 @@ description: "Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff 
 
 1. Liegt ein Eingriff in Natur und Landschaft vor (§ 14 BNatSchG)?
 2. Befindet sich das Vorhaben im oder in der Naehe eines FFH-/Vogelschutz-Gebiets?
-3. Koennen besonders/streng geschuetzte Arten betroffen sein (§ 44 BNatSchG)?
+3. Können besonders/streng geschuetzte Arten betroffen sein (§ 44 BNatSchG)?
 4. Ist ein naturschutzrechtlicher Fachbeitrag (saP, FFH-VS) erforderlich?
 5. Wer ist Mandant — Vorhabentraeger oder klagender Umweltverband?
 6. Liegt bestandskraeftige Genehmigung vor oder laeuft Verfahren?
@@ -45,14 +45,14 @@ description: "Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff 
 
 1. **Screening**: Lage in FFH-/VS-Gebiet oder signifikante Naehe? LANA-Hinweise zur Erheblichkeit.
 2. **saP in Auftrag geben**: Spezieller artenschutzrechtlicher Fachbeitrag; Begehungen Fruehling und Herbst; Zielarten (Feldvogel, Fledermaus, Reptilien) kartieren.
-3. **FFH-Vertraeglichkeitspruefung**: Screening-Stufe (erhebliche Beeintraechtigung moeglich?) → Hauptpruefung (alle Wirkpfade; Mafsnahmen zur Schadensbegrenzung).
+3. **FFH-Vertraeglichkeitspruefung**: Screening-Stufe (erhebliche Beeintraechtigung möglich?) → Hauptpruefung (alle Wirkpfade; Mafsnahmen zur Schadensbegrenzung).
 4. **Ausnahme § 45 BNatSchG beantragen** (wenn Verbotstatbestand nicht vermeidbar): Oeffentliches Interesse, keine Alternativen, Ausgleich durch vorgezogene Ausgleichsmafsnahmen (CEF-Mafsnahmen).
 5. **Eingriffsregelung § 15 BNatSchG**: Gruenplan mit Ausgleichsflaechen; Verhaeltnis Eingriff/Ausgleich 1:1 bis 1:3.
 6. **Dokumentation**: Bestandteil des Genehmigungsantrags; Aktualisierung bei laenger als 2 Jahre zurueckliegenden Kartierungen.
 
 ### B) Umweltverband: Verbandsklage
 
-1. **Klagebefugnis pruefen**: UmwRG-Anerkennung BUND, NABU, DUH; § 2 UmwRG kein Selbstbetroffenheitserfordernis.
+1. **Klagebefugnis prüfen**: UmwRG-Anerkennung BUND, NABU, DUH; § 2 UmwRG kein Selbstbetroffenheitserfordernis.
 2. **Ruege im Verwaltungsverfahren**: Pflicht zur Beteiligung; Unterlassen fuehrt zu Praeklusion im Klageverfahren (§ 5 UmwRG).
 3. **Angriffspunkte**: Fehlerhafte saP, unzureichende FFH-VS, Artenschutz-Ausnahme nicht gerechtfertigt.
 4. **Eilantrag § 80a VwGO**: Bei vollziehbarer Genehmigung sofort stellen.
@@ -104,7 +104,7 @@ vorgelegt und ausgelegt werden.
 
 ## Vertiefung: CEF-Mafsnahmen
 
-- CEF = Continuous Ecological Functionality; muessen vor Eingriff wirksam sein.
+- CEF = Continuous Ecological Functionality; müssen vor Eingriff wirksam sein.
 - Typische CEF: Nisthilfen, alternative Bruthabitate, Amphibien-Leitwaende.
 - Monitoring-Pflicht: Regelmäßige Kontrolle Wirksamkeit; bei Versagen: Anordnung Nachbesserung.
 

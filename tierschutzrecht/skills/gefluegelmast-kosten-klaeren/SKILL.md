@@ -3,7 +3,7 @@ name: gefluegelmast-kosten-klaeren
 description: "Geflügelmast: Kosten klären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Gefluegelmast Kosten Klaeren
+# Gefluegelmast Kosten Klären
 
 ## Arbeitsweg
 

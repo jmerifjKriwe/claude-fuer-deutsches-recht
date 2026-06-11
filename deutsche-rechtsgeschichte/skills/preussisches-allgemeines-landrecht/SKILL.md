@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -45,7 +45,7 @@ Das Allgemeine Landrecht für die Preussischen Staaten (ALR) trat am 1. Juni 179
 
 ## Akteure und Institutionen
 
-- **Friedrich II. (der Grosse)** (1712-1786): Politischer Initiator des ALR
+- **Friedrich II. (der Große)** (1712-1786): Politischer Initiator des ALR
 - **Samuel von Cocceji** (1679-1755): Erster Konzipient unter Friedrich II.
 - **Carl Gottlieb Svarez** (1746-1798): Hauptredaktor des ALR
 - **Johann Heinrich Casimir von Carmer** (1720-1801): Justizminister und Auftraggeber Svarez'

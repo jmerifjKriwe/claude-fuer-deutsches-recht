@@ -18,17 +18,17 @@ description: "Art. 5 GG verhaeltnismaessig pruefen: Wechselwirkungslehre, allgem
 ## Entscheidungsanker
 
 - BVerfG, Urteil vom 15.01.1958, 1 BvR 400/51, BVerfGE 7, 198 (Lueth): allgemeine Gesetze sind im Lichte der Meinungsfreiheit auszulegen; Wechselwirkungslehre.
-- BVerfG, Beschluss vom 04.11.2009, 1 BvR 2150/08, BVerfGE 124, 300 (Wunsiedel): § 130 Abs. 4 StGB als eng begruendeter Sonderfall nicht allgemeiner Gesetze; keine Freikarte fuer beliebiges Sonderrecht gegen missliebige Meinung.
+- BVerfG, Beschluss vom 04.11.2009, 1 BvR 2150/08, BVerfGE 124, 300 (Wunsiedel): § 130 Abs. 4 StGB als eng begruendeter Sonderfall nicht allgemeiner Gesetze; keine Freikarte für beliebiges Sonderrecht gegen missliebige Meinung.
 
 ## Frei pruefbare Quellen
 
 - Wunsiedel, 04.11.2009, 1 BvR 2150/08: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/11/rs20091104_1bvr215008.html`
-- Lueth in der amtlichen BVerfGE-Uebersicht: `https://www.bundesverfassungsgericht.de/DE/Entscheidungen/EntscheidungenAusDerAmtlichenSammlung/_functions/akkordeon_band1-9.html`
+- Lueth in der amtlichen BVerfGE-Übersicht: `https://www.bundesverfassungsgericht.de/DE/Entscheidungen/EntscheidungenAusDerAmtlichenSammlung/_functions/akkordeon_band1-9.html`
 - Art. 5 GG: `https://www.gesetze-im-internet.de/gg/art_5.html`
 
 ## Arbeitsauftrag
 
-Pruefe Meinungsfaelle nicht als rohe Abwaegung "gefällt/gefällt nicht". Entscheidend ist:
+Prüfe Meinungsfaelle nicht als rohe Abwaegung "gefällt/gefällt nicht". Entscheidend ist:
 
 1. Meinung oder Tatsache?
 2. Schutzbereich weit eroeffnet?
@@ -41,7 +41,7 @@ Pruefe Meinungsfaelle nicht als rohe Abwaegung "gefällt/gefällt nicht". Entsch
 | Stufe | Art.-5-spezifische Frage |
 | --- | --- |
 | Legitimer Zweck | Ehrschutz, Jugendschutz, oeffentlicher Frieden, Menschenwuerdeschutz, Schutz demokratischer Ordnung. |
-| Geeignetheit | Vermindert die Sanktion/Untersagung die konkrete Gefahr fuer das Schutzgut? |
+| Geeignetheit | Vermindert die Sanktion/Untersagung die konkrete Gefahr für das Schutzgut? |
 | Erforderlichkeit | Reicht Gegendarstellung, Unterlassung enger Fassung, Kontextualisierung, mildere Sanktion? |
 | Angemessenheit | Darf die Auseinandersetzung hart sein? Wie schwer ist die Sanktion gegen Rede? Gibt es chilling effect? |
 
@@ -49,11 +49,11 @@ Pruefe Meinungsfaelle nicht als rohe Abwaegung "gefällt/gefällt nicht". Entsch
 
 - Nicht "beleidigend" mit "ungeschuetzt" verwechseln.
 - Nicht aus Wunsiedel ein allgemeines Sonderrechtsmodell bauen.
-- Nicht nur den Wortlaut isolieren; Anlass, Publikum, Vorlauf, Reaktionslage und Debattenbeitrag pruefen.
+- Nicht nur den Wortlaut isolieren; Anlass, Publikum, Vorlauf, Reaktionslage und Debattenbeitrag prüfen.
 - Bei Strafnormen immer Schuld, Bestimmtheit und grundrechtskonforme Auslegung mitdenken.
 
 ## Output
 
 - Wechselwirkungs-Matrix.
 - Kurzvotum "Schranke traegt / traegt nicht".
-- Formulierung fuer Schriftsatz: enge Auslegung der Eingriffsnorm im Lichte von Art. 5 GG.
+- Formulierung für Schriftsatz: enge Auslegung der Eingriffsnorm im Lichte von Art. 5 GG.

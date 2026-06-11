@@ -134,7 +134,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt Jurastudenten und Referendare bei allen Phasen der juristischen Ausbildung: von der Einuebung des Gutachtenstils und der Subsumtion ueber die Methodenlehre in allen drei Hauptrechtsgebieten bis hin zur strukturierten Examensvorbereitung. Es orientiert sich an der AG-Tradition (Arbeitsgemeinschaft) und an den Anforderungen des Ersten und Zweiten Staatsexamens in deutschen Bundeslaendern.
+Dieses Plugin unterstuetzt Jurastudenten und Referendare bei allen Phasen der juristischen Ausbildung: von der Einuebung des Gutachtenstils und der Subsumtion über die Methodenlehre in allen drei Hauptrechtsgebieten bis hin zur strukturierten Examensvorbereitung. Es orientiert sich an der AG-Tradition (Arbeitsgemeinschaft) und an den Anforderungen des Ersten und Zweiten Staatsexamens in deutschen Bundeslaendern.
 
 Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Lernassistent: interaktive Uebungen, Feedback zu Gutachten, Karteikarten, Lernplaene und Pruefungsgespraeche stehen im Vordergrund.
 
@@ -142,7 +142,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 
 - Sie bereiten sich auf eine Klausur oder das Erste Staatsexamen vor und benoetigen strukturierte Uebungsaufgaben mit Feedback.
 - Sie wollen den Gutachtenstil, die Subsumtion oder die juristische Methodenlehre gezielt trainieren.
-- Sie muessen einen Lernplan für die Examensvorbereitung erstellen und nach Schwaechen gewichten.
+- Sie müssen einen Lernplan für die Examensvorbereitung erstellen und nach Schwaechen gewichten.
 - Sie bereiten sich auf ein Pruefungsgespraeach oder eine AG-Diskussion vor und wollen moegliche Dozentenfragen antizipieren.
 - Sie suchen Loesungsschemata für Zivilrecht, Strafrecht oder öffentliches Recht als Orientierungsrahmen für die Klausurbearbeitung.
 
@@ -153,7 +153,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 - **Subsumtion** — Einordnung des Sachverhalts unter die Definition eines Tatbestandsmerkmals.
 - **Loesungsschema** — Strukturierter Pruefungsaufbau für ein Rechtsgebiet (z.B. Anspruchspruefungsschema BGB, Verbrechensaufbau StGB).
 - **AG** — Arbeitsgemeinschaft; Kleingruppenveranstaltung im Jurastudium mit Sokrates-Methode und Fallbearbeitung.
-- **JPA** — Justizpruefungsamt; prueft das Erste Staatsexamen (Erste Juristische Pruefung).
+- **JPA** — Justizpruefungsamt; prüft das Erste Staatsexamen (Erste Juristische Prüfung).
 - **Repetitorium** — Kommerzielle Vorbereitungskurse für das Erste oder Zweite Staatsexamen (z.B. Alpmann, Hemmer, Kaiser).
 
 ## Rechtsgrundlagen
@@ -168,7 +168,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Welche Ausbildungsphase (Studium, Repetitorium, Referendariat, Zweites Staatsexamen), welches Bundesland, welche Schwerpunkte.
+1. Mandantenkonstellation klären: Welche Ausbildungsphase (Studium, Repetitorium, Referendariat, Zweites Staatsexamen), welches Bundesland, welche Schwerpunkte.
 2. Phase des Mandats bestimmen: Konfiguration, Lernplanung, Uebung, Klausurtraining oder Pruefungsgespraeach.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
 4. Lernprofil konfigurieren mit `jurastudium-kaltstart-interview` wenn Plugin erstmals genutzt wird.
@@ -179,7 +179,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 **Konfiguration**
 
 - `jurastudium-kaltstart-interview` — Ersteinrichtung: Lernprofil, Semester, Bundesland, Pruefungsziel und Lernstil aufnehmen.
-- `jurastudium-anpassen` — Lernprofil aktualisieren: Lernstil aendern, Schwerpunkte anpassen, Bundesland wechseln.
+- `jurastudium-anpassen` — Lernprofil aktualisieren: Lernstil ändern, Schwerpunkte anpassen, Bundesland wechseln.
 
 **Lernplanung**
 
@@ -212,7 +212,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 - `methodenlehre-grundlagen` — Juristische Methodenlehre: Wortlaut, Systematik, Historie, Telos, Analogie, teleologische Reduktion.
 - `methodenlehre-zivilrecht` — Zivilrechtliche Methodenlehre: AGL-Reihenfolge, Willenserklaerungs-Auslegung, AGB-Auslegung.
 - `methodenlehre-strafrecht` — Strafrechtliche Methodenlehre: dreistufiger Verbrechensaufbau, Konkurrenzlehre, Analogieverbot.
-- `methodenlehre-öffentliches-recht` — Oeffentlich-rechtliche Methodenlehre: Grundrechtspruefung, Verhaeltnismaessigkeit, Ermessen, Klageart.
+- `methodenlehre-öffentliches-recht` — Öffentlich-rechtliche Methodenlehre: Grundrechtspruefung, Verhältnismäßigkeit, Ermessen, Klageart.
 
 **Loesungsschemata und Rechtsgeschichte**
 
@@ -222,7 +222,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 ## Worauf besonders achten
 
 - **Lernprofil zu Beginn konfigurieren.** Skill `jurastudium-kaltstart-interview` muss vor anderen Skills ausgefuehrt werden; ohne Bundesland und Pruefungsziel sind Empfehlungen unscharf.
-- **Schemata sind keine Dogmatik.** Loesungsschemata koennen das Verstaendnis unterstuetzen, sind aber nie zwingend; Abweichungen und Kontroversen erkennen.
+- **Schemata sind keine Dogmatik.** Loesungsschemata können das Verstaendnis unterstuetzen, sind aber nie zwingend; Abweichungen und Kontroversen erkennen.
 - **Zeitmanagement in der Klausur.** Ein haeufiger Fehler ist Ueberschreiten der Zeit im Oberteil; Skill `gutachten-uebung` simuliert Zeitlimit.
 - **Bundesland-Varianten beachten.** JAG-Anforderungen und zugelassene Hilfsmittel variieren; Prognosen und Lernplaene immer bundesland-spezifisch konfigurieren.
 - **Subsumtionsspruenge erkennen.** Das Plugin gibt aktiv Pushback, wenn Definition und Sachverhalt uebersprungen werden.
@@ -233,7 +233,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 - Definitionen werden aus dem Kopf formuliert statt aus herrschender Meinung und Rechtsprechung abgeleitet.
 - Einreden und Gegenansprueche werden nicht geprueft; Subsumtion endet bei der anspruchsbegruendenden Norm.
 - Zeitlimit wird nicht simuliert; in der echten Klausur fehlt Zeit für spaetere Punkte.
-- Rechtsgeschichte und Methodenlehre werden als prueflungsirrelevant abgetan; beide koennen im Staatsexamen gefragt werden.
+- Rechtsgeschichte und Methodenlehre werden als prueflungsirrelevant abgetan; beide können im Staatsexamen gefragt werden.
 
 ## Quellen und Aktualitaet
 

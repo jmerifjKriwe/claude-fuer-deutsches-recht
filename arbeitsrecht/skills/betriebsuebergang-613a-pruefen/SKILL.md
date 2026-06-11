@@ -151,14 +151,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Arbeitnehmer will Betriebsuebergang anfechten | Widerspruchserklaerung nach § 613a Abs. 6 BGB; Template unten |
-| Variante A — Arbeitnehmer will beim neuen Betriebsinhaber bleiben | Uebergang hinnehmen; nur Konditionen-Pruefung sicherstellen |
+| Variante A — Arbeitnehmer will beim neuen Betriebsinhaber bleiben | Uebergang hinnehmen; nur Konditionen-Prüfung sicherstellen |
 | Variante B — Betriebsuebergang rechtlich zweifelhaft | Feststellungsklage vorbereiten; Uebergang bestreiten |
-| Variante C — Insolvenz des alten Inhabers | § 613a Abs. 1 S. 4 BGB Sonderregelung pruefen; kurzfristige Handlung empfohlen |
+| Variante C — Insolvenz des alten Inhabers | § 613a Abs. 1 S. 4 BGB Sonderregelung prüfen; kurzfristige Handlung empfohlen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -198,7 +198,7 @@ Handlungsempfehlungen:
  2. ...
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

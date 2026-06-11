@@ -108,7 +108,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. GmbH oder AG? (Verfahren unterschiedlich; AG braucht AR-Beschluss und HV bei Satzungsaenderung)
 3. Notar: Erforderlich für notarielle Beurkundung und Anmeldung (§ 8 I GmbHG)?
 4. Eintragungspflichtige und freiwillige Eintragungen unterscheiden?
-5. Fristen: Manche Aenderungen muessen unverzueglich (§ 39 I GmbHG) angemeldet werden.
+5. Fristen: Manche Aenderungen müssen unverzueglich (§ 39 I GmbHG) angemeldet werden.
 6. Auslaendische Gesellschafter: Apostille, Legalisation, Uebersetzung von Vollmachten?
 
 ## Zentrale Normen
@@ -127,7 +127,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Anmelde-Checkliste: GF-Wechsel (GmbH)
 
-1. Gesellschafterversammlungs-Beschluss ueber Abberufung altes GF / Bestellung neues GF
+1. Gesellschafterversammlungs-Beschluss über Abberufung altes GF / Bestellung neues GF
 2. Ggf. Annahme der Bestellung durch neuen GF
 3. Nicht-Vorliegen von Bestellungshindernissen (§ 6 II GmbHG: keine Vorstrafe wegen Wirtschaftsdelikten)
 4. Notarielle Anmeldung durch neuen GF (oder Notar in Vollmacht)
@@ -152,7 +152,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 5. **Handelsregisteranmeldung** — elektronisch durch Notar (ERV; § 12 HGB)
 6. **Eintragungsfrist monitoring** — Registergericht: 4-8 Wochen; Erinnerung nach 3 Wochen
 7. **HR-Auszug post-Eintragung** — aktuellen Auszug einholen; in Closing-Bible ablegen
-8. **Folgehandlungen** — Bank informieren; interne Systeme aktualisieren; Transparenzregister pruefen
+8. **Folgehandlungen** — Bank informieren; interne Systeme aktualisieren; Transparenzregister prüfen
 
 ## Output-Template HR-Anmeldungsschreiben (Vorlage Notar)
 
@@ -193,7 +193,7 @@ Notariell beglaubigte Unterschrift des neuen GF (Anlage)
 
 - Anmeldung durch nicht mehr amtierenden GF → Zurueckweisung durch Registergericht
 - Satzungsaenderung ohne notarielle Beurkundung → § 53 II GmbHG; Nichtigkeit des Beschlusses
-- Gesellschafterliste nicht aktualisiert nach Anteilsuebertragung → gutglaeubiger Erwerb durch Dritten moeglich
+- Gesellschafterliste nicht aktualisiert nach Anteilsuebertragung → gutglaeubiger Erwerb durch Dritten möglich
 - Auslaendische Vollmacht ohne Apostille → Registergericht akzeptiert nicht
 - Frist für Anmeldung verpasst → Ordnungswidrigkeitengeld (§ 79 GmbHG); Zwangsgeld
 

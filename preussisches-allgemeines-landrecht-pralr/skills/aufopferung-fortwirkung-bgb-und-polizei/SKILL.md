@@ -32,7 +32,7 @@ description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polize
 ## Typische heutige Faelle
 
 - Verletzung eines Unbeteiligten beim polizeilichen Einsatz (Schussschaden Polizeischaden).
-- Vermoegensentzug durch hoheitliche Massnahme.
+- Vermoegensentzug durch hoheitliche Maßnahme.
 - Frueh-Impfungsfaelle vor sozialer Entschaedigung — heute SGB XIV.
 
 ## Abgrenzung Art. 14 III GG

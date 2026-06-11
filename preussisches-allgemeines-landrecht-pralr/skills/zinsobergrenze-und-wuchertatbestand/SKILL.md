@@ -33,7 +33,7 @@ description: "Zinsobergrenze und Wuchertatbestand im ALR. Skill behandelt die hi
 
 - BGB § 138 Abs. 2 BGB — Wucher-Sittenwidrigkeit.
 - § 291 StGB Wucherstrafrecht.
-- BGH-Linie: Zinssatz mehr als doppelt ueber dem marktueblichen Satz indiziert Wucher.
+- BGH-Linie: Zinssatz mehr als doppelt über dem marktueblichen Satz indiziert Wucher.
 
 ## Pruefraster
 

@@ -14,7 +14,7 @@ description: "Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO: S
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO. Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermoegens- und Schuldenliste ueber die Quotenberechnung bis zur formalen Vorlage an die Glaeubiger. Behandelt Pflicht zur Beilage Bescheinigung der geeigneten Stelle / des geeigneten Beraters. Liefert Vorlagenstruktur und Pruefraster.
+**Fokus:** Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO. Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermoegens- und Schuldenliste über die Quotenberechnung bis zur formalen Vorlage an die Glaeubiger. Behandelt Pflicht zur Beilage Bescheinigung der geeigneten Stelle / des geeigneten Beraters. Liefert Vorlagenstruktur und Pruefraster.
 
 ### Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
 
@@ -47,7 +47,7 @@ description: "Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO: S
 
 ### Schritt 3: Vergleichsvorschlag
 - Form: Schriftlich.
-- Inhalt: Hoehe der Quote, Zahlungsmodalitaet (Einmalzahlung, Monatsraten), Laufzeit (max. 6-Monate Plan), Restschuldbefreiung.
+- Inhalt: Höhe der Quote, Zahlungsmodalitaet (Einmalzahlung, Monatsraten), Laufzeit (max. 6-Monate Plan), Restschuldbefreiung.
 
 ### Schritt 4: Beilagen
 - Bescheinigung der geeigneten Stelle (anerkannte Schuldnerberatungsstelle, Rechtsanwalt, Steuerberater).

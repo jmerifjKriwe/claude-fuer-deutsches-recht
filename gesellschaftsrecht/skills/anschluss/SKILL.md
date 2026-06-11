@@ -147,7 +147,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 - Sie beraten eine GmbH bei Beschlussfassung, Geschaeftsfuehrer-Haftung oder Gesellschafterstreit.
 - Sie begleiten eine M&A-Transaktion auf der Rechtspruefungsseite (Due Diligence, Q&A, Datenraum, Closing Checklist).
-- Sie muessen Handelsregisteranmeldungen vorbereiten (Geschaeftsfuehrerwechsel, Prokura, Sitzverlegung, Kapitalmanahmen).
+- Sie müssen Handelsregisteranmeldungen vorbereiten (Geschaeftsfuehrerwechsel, Prokura, Sitzverlegung, Kapitalmanahmen).
 - Sie verwalten gesellschaftsrechtliche Compliance-Fristen (Jahresabschluss, Transparenzregister, Bilanzpublizitaet).
 - Ein Gesellschafterstreit droht oder eine Patt-Situation ist eingetreten und Sie benoetigen eine Konfliktstrategie.
 
@@ -157,16 +157,16 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 - **Drag-Along** — Mitnahmerecht: Mehrheitsgesellschafter kann Minderheitsgesellschafter zum Verkauf zwingen.
 - **Tag-Along** — Mitveraeuserungsrecht: Minderheitsgesellschafter kann beim Verkauf mitziehen.
 - **Closing Checklist** — Checkliste aller bis zum Vollzug einer Transaktion zu erfuellenden Bedingungen und Handlungen.
-- **Umlaufbeschluss** — Gesellschafterbeschluss ohne Versammlung; bei GmbH nach § 48 Abs. 2 GmbHG zulaessig mit Zustimmung aller Gesellschafter.
+- **Umlaufbeschluss** — Gesellschafterbeschluss ohne Versammlung; bei GmbH nach § 48 Abs. 2 GmbHG zulässig mit Zustimmung aller Gesellschafter.
 - **Prokura** — Umfassende Handlungsvollmacht nach §§ 48 ff. HGB; bedarf der Handelsregistereintragung.
 - **Change of Control** — Klausel in Vertraegen, die bei Wechsel der Gesellschafterstruktur besondere Rechte (z.B. Kuendigung) ausloest.
 
 ## Rechtsgrundlagen
 
 - §§ 35-43 GmbHG — Geschaeftsfuehrung und Haftung
-- §§ 46-49 GmbHG — Gesellschafterversammlung und Beschluesse
+- §§ 46-49 GmbHG — Gesellschafterversammlung und Beschlüsse
 - §§ 93 ff. AktG — Vorstandshaftung, Business Judgment Rule
-- §§ 107 ff. AktG — Aufsichtsrat (Protokoll, Beschluesse)
+- §§ 107 ff. AktG — Aufsichtsrat (Protokoll, Beschlüsse)
 - §§ 241, 246 AktG — Nichtigkeits- und Anfechtungsklage (analog GmbH)
 - §§ 12 ff. HGB — Handelsregister und Registeranmeldung
 - §§ 48 ff. HGB — Prokura
@@ -176,10 +176,10 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Gesellschaftsform, Mandantenrolle (Gesellschafter, GF, Aufsichtsrat, Kaeufer, Investor), Sachgebiet.
+1. Mandantenkonstellation klären: Gesellschaftsform, Mandantenrolle (Gesellschafter, GF, Aufsichtsrat, Kaeufer, Investor), Sachgebiet.
 2. Phase des Mandats bestimmen: Governance, Transaktion (DD, Closing), Streit oder Compliance.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: Insolvenzantragspflicht § 15a InsO, Anfechtungsklagefrist § 246 AktG analog (ein Monat), WEG-Klagefrist.
+4. Eilfristen prüfen: Insolvenzantragspflicht § 15a InsO, Anfechtungsklagefrist § 246 AktG analog (ein Monat), WEG-Klagefrist.
 5. Anschluss-Skill bestimmen: nach Due-Diligence-Extraktion folgt Deal-Team-Briefing und Closing Checklist.
 
 ## Skill-Tour (was gibt es hier?)
@@ -193,7 +193,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 **Gesellschafterbeschluesse und Governance**
 
-- `gesellschafterbeschluss` — Erstellung, Pruefung und Anfechtung von Gesellschafterbeschluessen in GmbH und AG.
+- `gesellschafterbeschluss` — Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH und AG.
 - `schriftliche-beschlussfassung` — Umlaufbeschluesse im Hausstil mit Stimmverboten und Mehrheitserfordernissen.
 - `aufsichtsrat-protokoll` — Protokolle von Vorstandssitzungen, Aufsichtsratssitzungen und GV im Hausformat.
 
@@ -207,7 +207,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 - `dd-findings-extraktion` — Extraktion von DD-Issues aus Datenraum-Dokumenten nach Hauskategorien und Wesentlichkeitsschwellen.
 - `dealteam-zusammenfassung` — Gestaffelte Deal-Briefings für GF, Deal-Lead und Arbeitsteam aus DD-Findings.
 - `vollzugs-checkliste` — Vollzugscheckliste für M&A-Transaktionen: kritischer Pfad, CPs, Tage bis Closing.
-- `wesentliche-vertraege-anlage` — Verzeichnis wesentlicher Vertraege (Material Contracts Schedule) aus DD-Erkenntnissen.
+- `wesentliche-vertraege-anlage` — Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus DD-Erkenntnissen.
 - `ki-werkzeug-uebergabe` — KI-Tool-Uebergabe für Massenvertragsprüfungen an Luminance oder Kira.
 - `tabellenpruefung` — Tabellarisches Vertragsreview als Prompt-Matrix pro Dokument und Datenpunkt.
 
@@ -223,9 +223,9 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 ## Worauf besonders achten
 
-- **Anfechtungsfrist beachten.** Die Analogie zu § 246 AktG für GmbH-Beschluesse setzt typischerweise eine einmonatige Klagefrist; nach laengerer Zeit droht Verwirkung.
-- **Insolvenzantragspflicht parallel pruefen.** Sobald der GF Insolvenzanzeichen erkennt, laeuft die Antragspflicht nach § 15a InsO; sofort an `fortbestehensprognose`-Plugin verweisen.
-- **Change-of-Control-Klauseln in DD.** Bei M&A-Due-Diligence muessen alle wesentlichen Vertraege auf Change-of-Control-Klauseln durchleuchtet werden; Closing kann sonst scheitern.
+- **Anfechtungsfrist beachten.** Die Analogie zu § 246 AktG für GmbH-Beschlüsse setzt typischerweise eine einmonatige Klagefrist; nach laengerer Zeit droht Verwirkung.
+- **Insolvenzantragspflicht parallel prüfen.** Sobald der GF Insolvenzanzeichen erkennt, laeuft die Antragspflicht nach § 15a InsO; sofort an `fortbestehensprognose`-Plugin verweisen.
+- **Change-of-Control-Klauseln in DD.** Bei M&A-Due-Diligence müssen alle wesentlichen Verträge auf Change-of-Control-Klauseln durchleuchtet werden; Closing kann sonst scheitern.
 - **Umlaufbeschluss erfordert Einstimmigkeit.** Bei GmbH muss jeder Gesellschafter zustimmen (§ 48 Abs. 2 GmbHG); fehlende Stimmen machen Beschluss unwirksam.
 - **Transparenzregister und Gesellschafterliste aktuell halten.** Jede Aenderung der Gesellschafterstruktur loest eine Meldepflicht aus (§ 20 GwG).
 

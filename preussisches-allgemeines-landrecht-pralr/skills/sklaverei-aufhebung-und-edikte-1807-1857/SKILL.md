@@ -62,4 +62,4 @@ Beide Institute werden umgangssprachlich vermengt, sind rechtshistorisch aber zu
 1. Welche Norm welcher Epoche?
 2. Sklaverei oder Erbuntertaenigkeit (begriffliche Trennung!)?
 3. Welches Folge-Edikt einschlaegig?
-4. Heutige Aequivalenz?
+4. Heutige Äquivalenz?

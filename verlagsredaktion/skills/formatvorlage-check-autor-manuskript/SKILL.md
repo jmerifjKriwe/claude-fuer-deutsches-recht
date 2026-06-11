@@ -15,11 +15,11 @@ description: "Prueft strikt die Einhaltung der Verlagsformatvorlage in Autorenma
 
 ## Worum geht es konkret
 
-Verlage haben Formatvorlagen (DOCX-Templates, LaTeX-Klassen, Schreibrichtlinien). Autorinnen halten sich selten daran. Der Format-Check ist die erste Pruefung nach Manuskripteingang: Stimmen Absatzformate, Ueberschriftenhierarchie, Fussnotenstil, Zitiernormen mit der Verlagsvorlage ueberein? Sie zeigen die Abweichungen, statt sie still zu korrigieren - sonst verlernt die Autorin nie.
+Verlage haben Formatvorlagen (DOCX-Templates, LaTeX-Klassen, Schreibrichtlinien). Autorinnen halten sich selten daran. Der Format-Check ist die erste Prüfung nach Manuskripteingang: Stimmen Absatzformate, Ueberschriftenhierarchie, Fussnotenstil, Zitiernormen mit der Verlagsvorlage ueberein? Sie zeigen die Abweichungen, statt sie still zu korrigieren - sonst verlernt die Autorin nie.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klaeren Sie:
+Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klären Sie:
 
 1. Welches Verlagsformat (NJW-Manuskriptrichtlinien, JuS-Vorlage, hauseigener LaTeX-Stil)?
 2. Hat die Autorin die Richtlinien bekommen (mit Datum)?
@@ -88,7 +88,7 @@ Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klaeren Sie:
 
 - Befund-Tabelle ohne Prioritaeten - Autorin liest 50 Punkte und uebersieht die 5 wichtigen.
 - Stille Korrektur ohne Hinweis - Autorin lernt nicht.
-- Manuskriptrichtlinien nicht verlinkt - Autorin weiss nicht, wonach sie pruefen soll.
+- Manuskriptrichtlinien nicht verlinkt - Autorin weiss nicht, wonach sie prüfen soll.
 - LaTeX-Manuskript ohne Probekompilation freigegeben.
 - Zitiernorm-Check vergessen - landet erst in der Fahnenpruefung als Drama.
 

@@ -34,14 +34,14 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 4. Aussagetuechtigkeitspruefung (kognitiv, sprachlich, emotional).
 5. Aussageinhaltsanalyse — CBCA mit allen 19 Kriterien nach Steller/Koehnken.
 6. Konstanzanalyse (alle Aussagezeitpunkte tabellarisch, Konstanz und Inkonstanz benannt).
-7. Aussagegenese-Pruefung (Erstaussage-Kontext, Suggestionsfaktoren, Mehrfachvernehmung, Therapie, soziale Einfluesse).
+7. Aussagegenese-Prüfung (Erstaussage-Kontext, Suggestionsfaktoren, Mehrfachvernehmung, Therapie, soziale Einfluesse).
 8. Hypothesenpruefung (Wahrhypothese, Luegen-, Suggestions-, Irrtums-, Phantasiehypothese — jede explizit aufgefuehrt, geprueft, mit Begruendung verworfen oder offengehalten).
 9. Gesamtwuerdigung (methodische Gesamtbewertung, keine Ja-Nein-Frage zur Wahrheit, sondern eine Wahrscheinlichkeits- oder Plausibilitaetsaussage).
 10. Quellenverzeichnis und Methodik.
 
 **Methodische Mindestanforderungen (Negativliste).**
 - Kein Gutachten ohne Akteneinsicht.
-- Kein Gutachten ausschliesslich auf Eindruck.
+- Kein Gutachten ausschließlich auf Eindruck.
 - Kein Gutachten unter Auslassung der Hypothesen-gegen-Hypothesen-Methode.
 - Kein Gutachten durch behandelnde Therapeutin / behandelnden Therapeuten der Zeugin.
 - Kein Gutachten ohne explizite CBCA.
@@ -54,11 +54,11 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Praktikertipps Verteidigung
 
-- **Pruefraster systematisch abklopfen.** Jeden der 10 Aufbaupunkte pruefen. Fehlt einer, ist das Gutachten methodisch luckenhaft.
-- **CBCA-Vollstaendigkeit pruefen.** Sind alle 19 Kriterien adressiert? Welche werden bejaht, welche verneint, welche werden uebergangen?
-- **Hypothesen einzeln pruefen.** Sind alle Hypothesen explizit benannt? Wird die Verwerfung methodisch begruendet oder pauschal? Eine bloss erwaehnte Hypothese, die nicht geprueft wird, ist methodisch nicht widerlegt.
-- **Aussagegenese pruefen.** Welche Erstaussagen liegen vor? Welche Suggestionsfaktoren werden diskutiert? Welche werden uebergangen?
-- **Qualifikation der Gutachterin pruefen.** Forensische Erfahrung mit aussagepsychologischer Methodik? Frueherer Behandlerkontakt? Naehe zur Belastungszeugin?
+- **Pruefraster systematisch abklopfen.** Jeden der 10 Aufbaupunkte prüfen. Fehlt einer, ist das Gutachten methodisch luckenhaft.
+- **CBCA-Vollstaendigkeit prüfen.** Sind alle 19 Kriterien adressiert? Welche werden bejaht, welche verneint, welche werden uebergangen?
+- **Hypothesen einzeln prüfen.** Sind alle Hypothesen explizit benannt? Wird die Verwerfung methodisch begruendet oder pauschal? Eine bloss erwaehnte Hypothese, die nicht geprueft wird, ist methodisch nicht widerlegt.
+- **Aussagegenese prüfen.** Welche Erstaussagen liegen vor? Welche Suggestionsfaktoren werden diskutiert? Welche werden uebergangen?
+- **Qualifikation der Gutachterin prüfen.** Forensische Erfahrung mit aussagepsychologischer Methodik? Frueherer Behandlerkontakt? Naehe zur Belastungszeugin?
 - **Schwachstellen-Anhörung.** Falls Gutachten substanzielle Maengel hat: Beweisantrag auf Anhörung der Sachverstaendigen mit konkreten Fragenkatalog, ggf. Antrag auf Gegen-Sachverstaendige.
 
 ## Trade-off-Matrix

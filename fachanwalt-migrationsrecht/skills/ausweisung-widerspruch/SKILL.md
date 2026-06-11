@@ -174,14 +174,14 @@ description: "Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Kl
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Ausweisung Widerspruch | Widerspruchsschreiben; Template unten |
-| Variante A — Ausweisung sofort vollziehbar | Eilantrag § 80 Abs. 5 VwGO; Abschiebestopp pruefen |
+| Variante A — Ausweisung sofort vollziehbar | Eilantrag § 80 Abs. 5 VwGO; Abschiebestopp prüfen |
 | Variante B — EU-Buerger ausgewiesen | FreizuegG/EU Schutz Art. 28 FreizuegRL; hoehere Huerden |
-| Variante C — Straftatbestand als Ausweisungsgrund | Proportionalitaet EMRK Art. 8 pruefen; EGMR-Rechtsprechung |
+| Variante C — Straftatbestand als Ausweisungsgrund | Proportionalitaet EMRK Art. 8 prüfen; EGMR-Rechtsprechung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -240,7 +240,7 @@ Eilantrag nach § 80 Abs. 5 VwGO beim VG [ORT] eingereicht.
 [RA-NAME]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

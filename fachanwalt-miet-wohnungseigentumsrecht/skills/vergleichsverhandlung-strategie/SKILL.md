@@ -68,7 +68,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ### Konzessionsphase
 
 - In kleinen, begruendeten Schritten nachgeben.
-- Jede Konzession an Gegenleistung knuepfen ("Wenn Sie X, dann koennen wir Y").
+- Jede Konzession an Gegenleistung knuepfen ("Wenn Sie X, dann können wir Y").
 - Konzessionsmuster nicht linear (sonst extrapolierbar) sondern abnehmend.
 
 ### Endspiel
@@ -101,7 +101,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ## Risiken und Stolpersteine im Wohnraum-, Gewerberaum- und WEG-Recht
 
-- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> §§ 535 ff. BGB und ESt-/USt-Regeln pruefen.
+- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> §§ 535 ff. BGB und ESt-/USt-Regeln prüfen.
 - Vollmacht: Mandantin muss zustimmen, anwaltliche Vergleichsbefugnis muss in Vollmacht expliziert sein.
 - Vollstreckbarkeit: aussergerichtlicher Vergleich ohne notarielle Form/Anwaltsvergleich ist kein Vollstreckungstitel.
 - Verzicht zu weit gefasst: pauschale Abgeltungsklausel kann eigene Ansprueche unbeabsichtigt mit erfassen.
@@ -119,11 +119,11 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 1: Eroeffnung mit Ankerwert
 
-> "Wir haben die Sache durchgerechnet. Auf Basis von §§ 535 ff. BGB und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, ueber eine Pauschalsumme zu sprechen, die die Sache abschliesst."
+> "Wir haben die Sache durchgerechnet. Auf Basis von §§ 535 ff. BGB und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, über eine Pauschalsumme zu sprechen, die die Sache abschliesst."
 
 ### Skript 2: Begruendete Konzession
 
-> "Wir koennen Z Euro nachgeben, wenn Sie im Gegenzug die Klausel A streichen und einer Vertraulichkeitsvereinbarung zustimmen. Andernfalls bleiben wir bei der urspruenglichen Position."
+> "Wir können Z Euro nachgeben, wenn Sie im Gegenzug die Klausel A streichen und einer Vertraulichkeitsvereinbarung zustimmen. Andernfalls bleiben wir bei der urspruenglichen Position."
 
 ### Skript 3: Abschluss-Frage
 
@@ -131,11 +131,11 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 4: Walk-Away-Signal
 
-> "Wir haben hier eine klare Linie. Wenn Sie nicht ueber die 35.000 Euro hinauskommen, werden wir Klage einreichen und sehen, wie das Gericht entscheidet."
+> "Wir haben hier eine klare Linie. Wenn Sie nicht über die 35.000 Euro hinauskommen, werden wir Klage einreichen und sehen, wie das Gericht entscheidet."
 
 ## Stoerfeuer und Antwort-Bausteine
 
-- **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
+- **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir können Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
 - **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjährung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
 - **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
 
@@ -144,7 +144,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 Im Bereich Wohnraum-, Gewerberaum- und WEG-Recht oft uebersehen:
 
 - Vergleichszahlung als Schadensersatz (in der Regel keine USt, EStG je nach Art).
-- Vergleich ueber Lohn-/Gehaltsanspruch -> Lohnsteuer- und SV-Abzug pruefen.
+- Vergleich über Lohn-/Gehaltsanspruch -> Lohnsteuer- und SV-Abzug prüfen.
 - Vergleichszahlung als Anwaltshonorar -> ggf. USt.
 - Erbrechtliche Abfindung -> ggf. ErbStG.
 - Hinweis im Vergleich: "Die steuerliche Behandlung ist nicht Gegenstand dieser Vereinbarung und obliegt der eigenen Steuerberatung der Parteien."
@@ -178,13 +178,13 @@ Klassische Stolperfalle in Wohnraum-, Gewerberaum- und WEG-Recht:
 
 ## Aktuelle Rechtsprechung Vergleichsverhandlung Miet-/WEG-Recht (Stand 05/2026)
 
-BATNA- und ZOPA-relevante BGH-Eckpunkte (Volltext jeweils ueber bundesgerichtshof.de bzw. dejure.org pruefen):
+BATNA- und ZOPA-relevante BGH-Eckpunkte (Volltext jeweils über bundesgerichtshof.de bzw. dejure.org prüfen):
 
-- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23: Eigenbedarf bei Umbau-/Verkauf moeglich — Vermieter-BATNA staerker.
+- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23: Eigenbedarf bei Umbau-/Verkauf möglich — Vermieter-BATNA staerker.
 - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: bei Haerteklausel (§ 574 BGB) wegen Krankheit/Alter muss Tatgericht voll aufklaeren — Mieter-BATNA staerker bei substantieller medizinischer Lage.
-- BGH, Urt. v. 17.12.2025 – VIII ZR 56/25: spaetere Mietsenkung im laufenden Mietverhaeltnis nicht ueber Mietpreisbremse angreifbar — Hebel für Vermieter, einvernehmliche Senkung als Settlement-Element zu nutzen.
+- BGH, Urt. v. 17.12.2025 – VIII ZR 56/25: spaetere Mietsenkung im laufenden Mietverhaeltnis nicht über Mietpreisbremse angreifbar — Hebel für Vermieter, einvernehmliche Senkung als Settlement-Element zu nutzen.
 - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23: Untervermietungs-Gewinngrenze — Untervermieter-Mieter-BATNA schwaecher bei Profitabsicht.
-- BGH, Urt. v. 14.02.2025 – V ZR 236/23: WEG-Kostenverteilung erfordert sachlichen Grund bei erstmaliger Belastung — Verhandlungsraum für betroffene Eigentuemer.
+- BGH, Urt. v. 14.02.2025 – V ZR 236/23: WEG-Kostenverteilung erfordert sachlichen Grund bei erstmaliger Belastung — Verhandlungsraum für betroffene Eigentümer.
 
 ## Paragrafenkette Vergleich Miet-/WEG-Recht
 

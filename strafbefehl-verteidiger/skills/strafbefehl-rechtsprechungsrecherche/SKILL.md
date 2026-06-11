@@ -69,7 +69,7 @@ Vorbemerkung: Die unten genannten Fundstellen stammen aus geschlossenen Verlagsp
 ### § 407/409 StPO — Zulaessigkeit und Inhalt
 - Recherche-Anker: Verbrechen schliesst Strafbefehl aus (Nichtigkeit) — in dejure.org "§ 407 StPO Verbrechen Nichtigkeit" suchen
 - Recherche-Anker: Freiheitsstrafe ohne Bewaehrung unzulaessig — in dejure.org "§ 407 Abs. 2 StPO Freiheitsstrafe Bewaehrung" suchen
-- Recherche-Anker: Tatbeschreibung muss Art. 103 Abs. 2 GG genuegen — in dejure.org "§ 409 StPO Tatbeschreibung Bestimmtheit" suchen
+- Recherche-Anker: Tatbeschreibung muss Art. 103 Abs. 2 GG genügen — in dejure.org "§ 409 StPO Tatbeschreibung Bestimmtheit" suchen
 
 ### § 410 StPO — Einspruch und Frist
 - Recherche-Anker: Zustellungsfiktion § 180 ZPO im Strafbefehlsverfahren — in dejure.org "§ 410 StPO § 180 ZPO Zustellungsfiktion" suchen

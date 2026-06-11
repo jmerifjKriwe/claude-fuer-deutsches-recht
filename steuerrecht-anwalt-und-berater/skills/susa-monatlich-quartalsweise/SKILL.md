@@ -13,7 +13,7 @@ description: "Periodische SuSa-Erstellung monatlich oder quartalsweise. Anwendun
 
 ## Kernsachverhalt
 
-Wie haeufig die SuSa erstellt wird, haengt von Belegvolumen, Mandantengroesse und steuerlichen Pflichten ab. USt-pflichtige Mandanten mit monatlicher Voranmeldung brauchen monatliche SuSa als Grundlage. Kleinmandanten ohne monatliche USt-VA koennen quartalsweise oder halbjaehrlich erstellt werden. Der Steuerberater legt die Periodizitaet im Mandantenstamm fest und richtet entsprechende Auswertungslaeufe ein.
+Wie haeufig die SuSa erstellt wird, haengt von Belegvolumen, Mandantengroesse und steuerlichen Pflichten ab. USt-pflichtige Mandanten mit monatlicher Voranmeldung brauchen monatliche SuSa als Grundlage. Kleinmandanten ohne monatliche USt-VA können quartalsweise oder halbjaehrlich erstellt werden. Der Steuerberater legt die Periodizitaet im Mandantenstamm fest und richtet entsprechende Auswertungslaeufe ein.
 
 ## Kaltstart-Rueckfragen
 
@@ -22,9 +22,9 @@ Wie haeufig die SuSa erstellt wird, haengt von Belegvolumen, Mandantengroesse un
 3. Welche externen Verpflichtungen — Bank-Reporting, Investor-Reporting, Konzern-Reporting?
 4. Welche Mandantenwuensche (oft monatliche BWA = monatliche SuSa)?
 5. Welche Buchhaltungs-Kapazitaet in der Kanzlei?
-6. Welche Sondersituation — Krise, Sanierung, Pruefung?
+6. Welche Sondersituation — Krise, Sanierung, Prüfung?
 7. Welche Wirtschaftsjahr-Konfiguration (Kalender vs. abweichend)?
-8. Welche Dokumentationspflicht (intern, Pruefer, Mandant)?
+8. Welche Dokumentationspflicht (intern, Prüfer, Mandant)?
 
 ## Rechtlicher Rahmen
 

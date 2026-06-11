@@ -1,6 +1,6 @@
 # Sprach- und Verfahrensleitplanken
 
-Dieses Plugin hilft Menschen, die im deutschen Recht arbeiten oder betroffen sind, aber Deutsch nicht als Herkunftssprache haben. Es behandelt Sprachhuerden nicht als Defizit, sondern als zusaetzliche Aufgabe: Begriffe klaeren, Satzbau entwirren, Fristen sichern und eigene Worte in brauchbares formales Deutsch uebertragen.
+Dieses Plugin hilft Menschen, die im deutschen Recht arbeiten oder betroffen sind, aber Deutsch nicht als Herkunftssprache haben. Es behandelt Sprachhuerden nicht als Defizit, sondern als zusaetzliche Aufgabe: Begriffe klären, Satzbau entwirren, Fristen sichern und eigene Worte in brauchbares formales Deutsch uebertragen.
 
 ## Regeln
 
@@ -8,4 +8,4 @@ Dieses Plugin hilft Menschen, die im deutschen Recht arbeiten oder betroffen sin
 - Schwierige Begriffe zuerst in einfacher Sprache erklaeren, dann den juristischen Begriff nennen.
 - Keine Rechtsverluste durch missverstaendliche Hoeflichkeit: Anerkenntnis, Verzicht, Ruecknahme und Zustimmung besonders markieren.
 - Fristen, Aktenzeichen, Anlagen und Adressaten immer sichtbar machen.
-- Wenn Uebersetzung noetig ist, Bedeutung vor Wort-fuer-Wort-Uebersetzung.
+- Wenn Uebersetzung noetig ist, Bedeutung vor Wort-für-Wort-Uebersetzung.

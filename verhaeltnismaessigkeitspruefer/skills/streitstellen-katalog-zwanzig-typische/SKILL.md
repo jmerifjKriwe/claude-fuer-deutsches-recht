@@ -14,15 +14,15 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 | | Argument |
 |---|---|
 | **Absolut** | Art 19 II GG zieht eine unueberschreitbare Grenze; Wuerde-Bezug der Grundrechte |
-| **Relativ (Alexy)** | Wesensgehalt ist Ergebnis der Verhaeltnismaessigkeitspruefung; was die Pruefung haelt, wahrt auch den Wesensgehalt |
-| **Folgerung** | BVerfG seit Luftsicherheitsgesetz (BVerfGE 115, 118) wieder absolut; klausurmaessig absolut pruefen |
+| **Relativ (Alexy)** | Wesensgehalt ist Ergebnis der Verhaeltnismaessigkeitspruefung; was die Prüfung haelt, wahrt auch den Wesensgehalt |
+| **Folgerung** | BVerfG seit Luftsicherheitsgesetz (BVerfGE 115, 118) wieder absolut; klausurmaessig absolut prüfen |
 
 ## 2. Drei-Stufen-Lehre Art 12 GG — noch zeitgemaess?
 
 | | Argument |
 |---|---|
 | **Pro** | Strukturanker; differenziert nach Eingriffstiefe |
-| **Contra** | BVerfG schaerft Stufenuebergaenge weich; sukzessive Aufloesung in die allgemeine Vier-Stufen-Pruefung |
+| **Contra** | BVerfG schaerft Stufenuebergaenge weich; sukzessive Aufloesung in die allgemeine Vier-Stufen-Prüfung |
 | **Folgerung** | In der Klausur weiter anwenden, aber Stufenuebergaenge nicht ueberbewerten |
 
 ## 3. Eingriffsbegriff — klassisch oder modern?
@@ -38,7 +38,7 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 | | Argument |
 |---|---|
 | **Ex ante** | Beurteilung nach Erkenntnislage zum Erlasszeitpunkt; schuetzt Gesetzgeber-Prognose |
-| **Ex post** | Korrektur bei spaeter widerlegter Eignung; Pflicht zur Beobachtung und Nachbesserung |
+| **Ex post** | Korrektur bei später widerlegter Eignung; Pflicht zur Beobachtung und Nachbesserung |
 | **Folgerung** | BVerfG kombiniert: ex ante bei Prognose, ex post Beobachtungs- und Nachbesserungspflicht (Beobachtungspflicht) |
 
 ## 5. Erforderlichkeit — Kostengleichheit beim milderen Mittel?
@@ -62,7 +62,7 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 | | Argument |
 |---|---|
 | **Weit** | Schutzbereich grosszuegig oeffnen, Verfeinerung auf Schranken-Ebene |
-| **Eng** | Schutzbereich praezise abgrenzen, weniger Schranken-Pruefung |
+| **Eng** | Schutzbereich praezise abgrenzen, weniger Schranken-Prüfung |
 | **Folgerung** | h. M. weit; Filterung auf Schranken-Ebene |
 
 ## 8. Verfassungsimmanente Schranke — was zaehlt?
@@ -77,7 +77,7 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 
 | | Argument |
 |---|---|
-| **Spezial** | Nur fuer Meinungsfreiheit, BVerfGE 7, 198 |
+| **Spezial** | Nur für Meinungsfreiheit, BVerfGE 7, 198 |
 | **Allgemein** | Strukturanaloge Anwendung bei anderen vorbehaltlich/qualifiziert geschuetzten Grundrechten |
 | **Folgerung** | Methodisch allgemein (Lueth-Linie); siehe `meinungsfreiheit-wechselwirkungslehre-wunsiedel` |
 
@@ -85,9 +85,9 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 
 | | Argument |
 |---|---|
-| **Symmetrisch zum Uebermassverbot** | Vier-Stufen-Pruefung auch gegen Untaetigkeit |
+| **Symmetrisch zum Uebermassverbot** | Vier-Stufen-Prüfung auch gegen Untaetigkeit |
 | **Asymmetrisch** | Untermass nur evidente Unwirksamkeit |
-| **Folgerung** | Klimabeschluss verschaerft Untermass; in dynamischen Bereichen nach Symmetrie pruefen |
+| **Folgerung** | Klimabeschluss verschaerft Untermass; in dynamischen Bereichen nach Symmetrie prüfen |
 
 ## 11. Einschaetzungsspraerogative — wie weit reicht sie?
 
@@ -101,15 +101,15 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 
 | | Argument |
 |---|---|
-| **Methodische Vorbedingung** | Praktische Konkordanz pruefen, bevor Vier-Stufen greifen |
+| **Methodische Vorbedingung** | Praktische Konkordanz prüfen, bevor Vier-Stufen greifen |
 | **Bestandteil der Stufe 4** | Konkordanz ist nur ein Aspekt der Angemessenheit |
-| **Folgerung** | Beide Sichten zulaessig; klausurmaessig sauber trennen |
+| **Folgerung** | Beide Sichten zulässig; klausurmaessig sauber trennen |
 
-## 13. Grundrechtsverzicht — zulaessig?
+## 13. Grundrechtsverzicht — zulässig?
 
 | | Argument |
 |---|---|
-| **Zulaessig bei Disponibilitaet** | Eigentum, Berufsfreiheit, Versammlungsfreiheit (bei freiwilligem Verzicht) |
+| **Zulässig bei Disponibilitaet** | Eigentum, Berufsfreiheit, Versammlungsfreiheit (bei freiwilligem Verzicht) |
 | **Unzulaessig bei Wuerde-/Kernbereich** | Wuerde, Kernbereich der Privatsphaere |
 | **Folgerung** | Differenzieren nach Schutzgut |
 
@@ -119,14 +119,14 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 |---|---|
 | **Streng** | Jede grundrechtsrelevante Frage muss der Gesetzgeber selbst regeln |
 | **Pragmatisch** | Verordnungsermaechtigungen ausreichend, wenn Rahmen bestimmt |
-| **Folgerung** | BVerfG verschaerft seit Numerus-Clausus-Linie; klausurmaessig pruefen, ob Parlamentsvorbehalt einschlaegig |
+| **Folgerung** | BVerfG verschaerft seit Numerus-Clausus-Linie; klausurmaessig prüfen, ob Parlamentsvorbehalt einschlaegig |
 
-## 15. Verhaeltnismaessigkeit von Strafen
+## 15. Verhältnismäßigkeit von Strafen
 
 | | Argument |
 |---|---|
 | **Vollstaendig anwendbar** | Vier-Stufen auf Strafhoehe |
-| **Modifiziert** | Schuldgrundsatz hat Vorrang; Verhaeltnismaessigkeit als Korrektiv |
+| **Modifiziert** | Schuldgrundsatz hat Vorrang; Verhältnismäßigkeit als Korrektiv |
 | **Folgerung** | Schuld-/Tatangemessenheit als Stufen-2-3-Bezug; Stufe 4 als Schuldhoehenkontrolle |
 
 ## 16. Drittwirkung im Privatrecht
@@ -161,13 +161,13 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 | **Solange-Logik** | Identitaetsvorbehalt, BVerfGE 73, 339 (Solange II) |
 | **Folgerung** | Solange-II-Linie + Honeywell + BVerfGE 152, 152 (Recht auf Vergessen II); im Anwendungsbereich Unionsrecht: GRCh als unmittelbarer Massstab |
 
-## 20. Verhaeltnismaessigkeit als globales Strukturprinzip
+## 20. Verhältnismäßigkeit als globales Strukturprinzip
 
 | | Argument |
 |---|---|
-| **Ja (Barak)** | Vierstufige Pruefung in Kanada, Suedafrika, EuGH, EGMR, Indien, Israel |
+| **Ja (Barak)** | Vierstufige Prüfung in Kanada, Suedafrika, EuGH, EGMR, Indien, Israel |
 | **Nein** | Im U.S.-Recht abweichende Tiers-of-Scrutiny-Logik |
-| **Folgerung** | Konvergenz mit Ausnahmen; Argument fuer Vergleichbarkeit, nicht fuer Universaluebernahme |
+| **Folgerung** | Konvergenz mit Ausnahmen; Argument für Vergleichbarkeit, nicht für Universaluebernahme |
 
 ## Anschluss
 

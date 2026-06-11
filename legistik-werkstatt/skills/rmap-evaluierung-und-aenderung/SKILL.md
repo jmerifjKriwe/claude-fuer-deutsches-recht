@@ -19,7 +19,7 @@ Rulemaps werden im Builder per No-Code gepflegt; Aenderungen sind versionierbar 
 
 ## Pruefpunkte
 
-Pruefen: ist jede Aenderung rueckverfolgbar? Bleibt der parlamentarische Vorbehalt gewahrt? Wird die Norm trotz Modellpflege materiell richtig gehalten?
+Prüfen: ist jede Aenderung rueckverfolgbar? Bleibt der parlamentarische Vorbehalt gewahrt? Wird die Norm trotz Modellpflege materiell richtig gehalten?
 
 ## Normenanker
 
@@ -40,7 +40,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Abgrenzung
 
-Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Pruefung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
+Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Prüfung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
 
 ## Quellen Stand 06/2026
 

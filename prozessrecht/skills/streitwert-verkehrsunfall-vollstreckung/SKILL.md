@@ -74,8 +74,8 @@ Quellen:
 
 ### Leitentscheidungen
 
-- Streitwertbemessung bei Feststellungsantraegen neben Leistungsantraegen: kein Mehrwert, wenn Feststellungsantrag wirtschaftlich in Leistungsantrag aufgeht. Aktenzeichen vor Schriftsatzverwendung ueber https://dejure.org pruefen.
-- Streitwertbemessung im Unterlassungsrechtsstreit: bei Kerntheorie-Reichweite ist der wirtschaftliche Wert des Verbots massgeblich, nicht nur der konkret angegriffene Verletzungsfall. Aktenzeichen ueber https://dejure.org und https://openjur.de verifizieren.
+- Streitwertbemessung bei Feststellungsantraegen neben Leistungsantraegen: kein Mehrwert, wenn Feststellungsantrag wirtschaftlich in Leistungsantrag aufgeht. Aktenzeichen vor Schriftsatzverwendung über https://dejure.org prüfen.
+- Streitwertbemessung im Unterlassungsrechtsstreit: bei Kerntheorie-Reichweite ist der wirtschaftliche Wert des Verbots massgeblich, nicht nur der konkret angegriffene Verletzungsfall. Aktenzeichen über https://dejure.org und https://openjur.de verifizieren.
 
 ### Quellenregel
 

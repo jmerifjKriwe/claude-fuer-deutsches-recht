@@ -18,7 +18,7 @@ Reiter 4 folgt der Excel-Vorlage. Spalten:
 | Erforderliches Dokument | aus Reiter 3 uebernommen |
 | Schritte zur Beschaffung (in Reihenfolge) | nummeriert 1. 2. 3. ... |
 | Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag) | Klausel oder Paragraph |
-| Unterzeichnet von | die Personen, die zeichnen muessen |
+| Unterzeichnet von | die Personen, die zeichnen müssen |
 | Versendet an | Empfaenger, ggfs mit Sendeweg (Bote, Einschreiben, Notar, HR) |
 
 ## Anwendungsbeispiel
@@ -32,14 +32,14 @@ Beispiele:
   unterzeichnet.
 
 ## Output-Module
-- Tabelleneintraege fuer Reiter 4
+- Tabelleneintraege für Reiter 4
 - Reihenfolge-Visualisierung als Gantt-aehnliche Liste (Datumsspalte
   optional)
 - Verantwortlichkeiten-Liste pro Person
-- Eingangsstapel fuer optionale Reiter (Fristen, Beteiligte)
+- Eingangsstapel für optionale Reiter (Fristen, Beteiligte)
 
 ## Grenzen
-- **Workflow ist Vorschlag, kein Anwaltsplan.** Anwaeltliche Pruefung der
+- **Workflow ist Vorschlag, kein Anwaltsplan.** Anwaeltliche Prüfung der
   Rechtsgrundlagen-Spalte erforderlich.
 - **Versendungswege sind Vorschlag.** Tatsaechlicher Zugangsweg muss
   haendisch abgesichert werden.

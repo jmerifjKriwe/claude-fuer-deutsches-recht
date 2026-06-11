@@ -14,7 +14,7 @@ description: "Methodisches Pruefungsschema für jedes steuerliche Mandat — vom
 ## Triage — kläre vor der Bearbeitung
 
 1. Sachverhalt: Wer hat wann was wem gegenueber wie erklaert oder gezahlt?
-2. Beweismittel: Welche Belege Vertraege Konten Buchungsbelege liegen vor?
+2. Beweismittel: Welche Belege Verträge Konten Buchungsbelege liegen vor?
 3. Welche Steuerart und welcher Veranlagungszeitraum sind betroffen?
 4. Welche Rechtsfolge will der Mandant erreichen (Steuerminderung Stundung Erlass Vergleich)?
 5. Gibt es konkurrierende Rechtsquellen (EU-Recht DBA Verwaltungsvorschriften)?

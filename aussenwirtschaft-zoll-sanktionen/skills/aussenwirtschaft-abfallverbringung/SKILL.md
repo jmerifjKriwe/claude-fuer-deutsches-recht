@@ -21,7 +21,7 @@ description: "Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013
 
 ## Erste Schritte
 
-1. AVV-Abfallschluessel und Abfallart bestimmen; Einstufung in Gruene/Gelbe/Rote Liste (Anhaenge VO 1013/2006) pruefen.
+1. AVV-Abfallschluessel und Abfallart bestimmen; Einstufung in Gruene/Gelbe/Rote Liste (Anhaenge VO 1013/2006) prüfen.
 2. Bestimmungsland identifizieren: OECD-Mitglied, Nicht-OECD, Basler-Konvention-Vertragspartei oder Verbot?
 3. Notifizierungspflicht feststellen (Art. 3 ff. VO 1013/2006); bei gruener Liste vereinfachtes Verfahren?
 4. Begleitformular (Anhang VII) oder Notifizierungsdokument (Anhang IA/IB) aufbereiten.
@@ -48,7 +48,7 @@ description: "Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013
 
 ## Typische Fallstricke
 
-- Fehlklassifizierung als Produkt statt Abfall: Zollamt und Umweltamt pruefen unabhaengig voneinander.
+- Fehlklassifizierung als Produkt statt Abfall: Zollamt und Umweltamt prüfen unabhaengig voneinander.
 - Fehlende oder verspaetete Empfaengerbestaetigung fuehrt zu Vollzugsdefizit und Bussgelddruck.
 - Kein Notifizierungsverfahren für gemischte Fraktionen ohne separate AVV-Einstufung jeder Fraktion.
 - Gruene-Liste-Ausfuhr in Nicht-OECD ohne Zustimmung ist formell verboten (VO 1418/2007 Anlage).

@@ -15,7 +15,7 @@ description: "Skill zur Versorgungslastenteilung bei Dienstherrenwechsel nach §
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Konstellationen, in denen ein Beamter den Dienstherrn wechselt (Bund nach Land, Land nach Land, Hochschule nach Ministerium, Wechsel in den EU-Dienst) und die Frage zu klaeren ist, wie die spaeteren Versorgungsleistungen zwischen den beteiligten Dienstherren aufzuteilen sind.
+Skill für Konstellationen, in denen ein Beamter den Dienstherrn wechselt (Bund nach Land, Land nach Land, Hochschule nach Ministerium, Wechsel in den EU-Dienst) und die Frage zu klären ist, wie die spaeteren Versorgungsleistungen zwischen den beteiligten Dienstherren aufzuteilen sind.
 
 ## 2. Eingaben
 
@@ -32,11 +32,11 @@ Skill für Konstellationen, in denen ein Beamter den Dienstherrn wechselt (Bund 
 - § 107b BeamtVG für Faelle, die nicht vom Staatsvertrag erfasst sind (z. B. mittelbare Verwaltung).
 
 ### b) Berechnung
-- Abfindung in Hoehe eines Vielfachen der Bezuege im Zeitpunkt des Wechsels, multipliziert mit den Dienstjahren beim abgebenden Dienstherrn.
+- Abfindung in Höhe eines Vielfachen der Bezuege im Zeitpunkt des Wechsels, multipliziert mit den Dienstjahren beim abgebenden Dienstherrn.
 - Faktor und Bemessungsgrundlage nach dem Staatsvertrag oder § 107b BeamtVG.
 
 ### c) Konstellation Hochschule -> Ministerium
-- Wechsel in mittelbare Verwaltung oft komplexer; pruefen, ob Hochschule eigener Dienstherr ist.
+- Wechsel in mittelbare Verwaltung oft komplexer; prüfen, ob Hochschule eigener Dienstherr ist.
 
 ### d) Auslandsverwendung und EU
 - Bei Wechsel in den EU-Dienst gilt das EU-Beamtenstatut; Vordienstzeiten werden in der Regel als Pensionskapital transferiert.

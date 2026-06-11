@@ -3,7 +3,7 @@ name: fitnessstudio-sammelfaehigkeit-pruefen
 description: "Verbraucherschutzverband Durchsetzung: Fitnessstudio: Sammelfähigkeit prüfen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Fitnessstudio Sammelfaehigkeit Pruefen
+# Fitnessstudio Sammelfaehigkeit Prüfen
 
 ## Arbeitsweg
 

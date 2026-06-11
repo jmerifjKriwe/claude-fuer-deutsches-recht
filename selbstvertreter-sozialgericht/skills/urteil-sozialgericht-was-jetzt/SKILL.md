@@ -13,11 +13,11 @@ description: "Sie haben das Urteil des SG bekommen. Was bedeutet das was sind di
 
 ## Worum geht es?
 
-Der lange Weg ist beendet. Sie haben das Urteil. Diese Skill zeigt, was es bedeutet und was Sie tun koennen.
+Der lange Weg ist beendet. Sie haben das Urteil. Diese Skill zeigt, was es bedeutet und was Sie tun können.
 
 ## In einfacher Sprache
 
-Sie haben das Urteil bekommen. Gewonnen, verloren oder teils. Wir helfen Ihnen zu verstehen, was es bedeutet — und was Sie noch tun koennen.
+Sie haben das Urteil bekommen. Gewonnen, verloren oder teils. Wir helfen Ihnen zu verstehen, was es bedeutet — und was Sie noch tun können.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -29,7 +29,7 @@ Sie haben das Urteil bekommen. Gewonnen, verloren oder teils. Wir helfen Ihnen z
 - **Urteil**: Entscheidung des Gerichts.
 - **Tenor**: Kern-Entscheidung (am Anfang des Urteils).
 - **Entscheidungsgruende**: Warum das Gericht so entschieden hat.
-- **Rechtsmittelbelehrung**: Information am Ende ueber Berufung etc.
+- **Rechtsmittelbelehrung**: Information am Ende über Berufung etc.
 - **Berufung**: Rechtsmittel zum LSG.
 - **Rechtskraft**: Urteil ist nicht mehr anfechtbar.
 
@@ -61,22 +61,22 @@ Beispiele:
 ### Schritt 3 — Bei Sieg
 
 - **Auf Geld warten**: Die Beklagte muss umsetzen.
-- **Pruefen, dass auch tatsaechlich gezahlt wird**: nach 4 bis 8 Wochen Erinnerung.
-- **Bei Verzoegerung**: Vollstreckung pruefen (sehr selten noetig).
+- **Prüfen, dass auch tatsaechlich gezahlt wird**: nach 4 bis 8 Wochen Erinnerung.
+- **Bei Verzoegerung**: Vollstreckung prüfen (sehr selten noetig).
 - **Aufwendungsersatz** beantragen, falls noch nicht im Urteil (§ 193 SGG).
 
 ### Schritt 4 — Bei Niederlage
 
-Pruefen:
+Prüfen:
 
-- **Rechtsmittelbelehrung**: Berufung moeglich oder nur Nichtzulassungsbeschwerde?
+- **Rechtsmittelbelehrung**: Berufung möglich oder nur Nichtzulassungsbeschwerde?
 - **Frist**: 1 Monat ab Zustellung
-- **Wert**: Berufung zum LSG nur, wenn Wert ueber 750 EUR oder laufende Leistungen für mehr als 1 Jahr (§ 144 SGG)
+- **Wert**: Berufung zum LSG nur, wenn Wert über 750 EUR oder laufende Leistungen für mehr als 1 Jahr (§ 144 SGG)
 - **Aussichten**: Wie wahrscheinlich Erfolg?
 
 ### Schritt 5 — Berufung ueberlegen
 
-Wenn Wertgrenze gewahrt (Wert ueber 750 EUR oder Laufzeit ueber 1 Jahr): Berufung ohne Zulassung moeglich.
+Wenn Wertgrenze gewahrt (Wert über 750 EUR oder Laufzeit über 1 Jahr): Berufung ohne Zulassung möglich.
 
 Sonst: Nichtzulassungsbeschwerde (Verfahrensfehler, grundsaetzliche Bedeutung).
 
@@ -84,8 +84,8 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 
 ### Schritt 6 — Bei Teil-Sieg
 
-- Pruefen, ob die verlorenen Teile lohnend zu klagen sind.
-- Berufung nur für Teile moeglich, wenn Wertgrenze gehalten.
+- Prüfen, ob die verlorenen Teile lohnend zu klagen sind.
+- Berufung nur für Teile möglich, wenn Wertgrenze gehalten.
 
 ### Schritt 7 — Bei vollem Sieg
 
@@ -93,7 +93,7 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 - Eventuell Aufwendungsersatz-Antrag noch praezisieren.
 - Sich freuen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Rechtsmittelfrist 1 Monat** — wieder eng.
 - **Wertgrenze § 144 SGG**: 750 EUR oder laufende Leistungen für mehr als 1 Jahr.
@@ -102,7 +102,7 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 
 ## Typische Fehler
 
-- Urteil nicht gelesen, weil "Niederlage" geahnt → genau pruefen, ob noch was geht
+- Urteil nicht gelesen, weil "Niederlage" geahnt → genau prüfen, ob noch was geht
 - Berufungsfrist verpasst → wieder Wiedereinsetzung schwer
 - Bei Sieg kein Aufwendungs-Ersatz beantragt → § 193 SGG nutzen
 - Auf Auszahlung gewartet ohne nachzufragen → Erinnerung schicken

@@ -3,7 +3,7 @@ name: bussgeld-einspruch-pruefen
 description: "Bussgeld Einspruch Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Bussgeld Einspruch Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belas..."
 ---
 
-# Bussgeld Einspruch Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+# Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Bussgeld Einspruch Pruefen: ordnet Normen, Nutzerangaben, Fristen,
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bussgeld Einspruch Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+**Fokus:** Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Bußgeldbescheid prüfen und Einspruch
 
@@ -101,13 +101,13 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Mandant will Einspruch gegen Bussgeldbescheid pruefend | Pruefung auf Formfehler + Einspruchsschriftsatz; Template unten |
+| Standard — Mandant will Einspruch gegen Bussgeldbescheid pruefend | Prüfung auf Formfehler + Einspruchsschriftsatz; Template unten |
 | Variante A — Bussgeldbescheid akzeptieren guenstiger als Prozess | Keine weiteren Schritte; Bussgeldbescheid akzeptieren |
-| Variante B — Fahrverbot droht Haertefall moeglich | Haertefall-Argumentation vorbereiten; Absehen vom Fahrverbot beantragen |
+| Variante B — Fahrverbot droht Haertefall möglich | Haertefall-Argumentation vorbereiten; Absehen vom Fahrverbot beantragen |
 | Variante C — Messverfahren angreifbar Sachverstaendiger sinnvoll | Einspruch + Antrag auf Sachverstaendigen-Gutachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -242,7 +242,7 @@ die Geldbuße gemäß § 4 Abs. 4 BKatV auf das Dreifache
 [EUR X] zu erhöhen.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

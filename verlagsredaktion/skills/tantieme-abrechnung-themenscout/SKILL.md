@@ -29,9 +29,9 @@ Autorinnen und Autoren juristischer Werke erhalten typischerweise eine Beteiligu
 
 ## Rechtlicher und sachlicher Rahmen
 
-- UrhG § 32 - angemessene Verguetung; Pflicht zur Anpassung bei Unangemessenheit.
+- UrhG § 32 - angemessene Vergütung; Pflicht zur Anpassung bei Unangemessenheit.
 - UrhG § 32a - sogenannte "Bestsellerklausel"; Anpassungsanspruch bei auffaelligem Missverhaeltnis.
-- UrhG § 32d - jaehrliche Auskunftspflicht des Verlags ueber Umfang der Nutzung und erzielte Ertraege.
+- UrhG § 32d - jaehrliche Auskunftspflicht des Verlags über Umfang der Nutzung und erzielte Ertraege.
 - UrhG § 32e - Auskunft auch von Lizenznehmer in der Lizenzkette.
 - VerlG §§ 25, 26 - Abrechnung und Rechenschaftslegung im Verlagsverhaeltnis.
 - BGB § 259 - Pflicht zur ordnungsgemaessen Rechenschaftslegung mit geordneter Aufstellung.
@@ -39,14 +39,14 @@ Autorinnen und Autoren juristischer Werke erhalten typischerweise eine Beteiligu
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Stichtag setzen.** Standard 31.12., Abrechnung bis 30.06. des Folgejahres (vertraglich pruefen).
+1. **Stichtag setzen.** Standard 31.12., Abrechnung bis 30.06. des Folgejahres (vertraglich prüfen).
 2. **Datenbasis ziehen.** Verkaufszahlen, Retouren, Mengenrabatte, Frei- und Belegexemplare, Online-Nutzung (Klicks, Aufrufe nach Vertragsdefinition).
 3. **Nettoladenpreis / Nettoumsatz korrekt rechnen.** Buchpreisbindung beachten; Rabatte und Buchhaendlerkonditionen anhand der Verlagskalkulation.
 4. **Vorschuss verrechnen.** Tantieme wird gegen offenen Vorschuss verrechnet, danach Auszahlung.
-5. **Verteilung mehrerer Autoren.** Nach vereinbartem Schluessel (Seitenanteil, Kapitelzuordnung, gleichmaessig).
-6. **Steuerliche Behandlung.** Honorar = Verguetung für Rechteeinraeumung; 7 Prozent UStG-Satz (§ 12 Abs. 2 Nr. 7 lit. c UStG). KSK-Meldung nicht vergessen.
+5. **Verteilung mehrerer Autoren.** Nach vereinbartem Schlüssel (Seitenanteil, Kapitelzuordnung, gleichmaessig).
+6. **Steuerliche Behandlung.** Honorar = Vergütung für Rechteeinraeumung; 7 Prozent UStG-Satz (§ 12 Abs. 2 Nr. 7 lit. c UStG). KSK-Meldung nicht vergessen.
 7. **Abrechnungsdokument erstellen.** Tabelle pro Werk, kumulierter Stand, Auszahlungsbetrag.
-8. **Auskunftsschreiben gemaess UrhG § 32d.** Bei Verlangen auch Detailaufstellung Lizenzeinnahmen.
+8. **Auskunftsschreiben gemäß UrhG § 32d.** Bei Verlangen auch Detailaufstellung Lizenzeinnahmen.
 9. **Versand und Frist zur Beanstandung.** Standard 30 Tage; sonst gilt Abrechnung als anerkannt (nur bei vertraglicher Klausel).
 
 ## Trade-off-Matrix
@@ -62,7 +62,7 @@ Autorinnen und Autoren juristischer Werke erhalten typischerweise eine Beteiligu
 
 - Erlaeuternder Begleittext beugt Rueckfragen vor; pro Werk eine Zeile zum Vertrieb (z. B. "Auflage 8 ausverkauft Q3, Auflage 9 ausgeliefert Q4").
 - Frei- und Werbeexemplare separat ausweisen, sonst Argwohn.
-- Bei E-Book/Datenbank: Nutzungseinheiten (Aufrufe, Volltextabrufe) vertraglich definieren; sonst Streit ueber Bezugsgroesse.
+- Bei E-Book/Datenbank: Nutzungseinheiten (Aufrufe, Volltextabrufe) vertraglich definieren; sonst Streit über Bezugsgroesse.
 - Bei Loseblatt: Abonnementbestand zum Stichtag, nicht reine Verkaufszahl.
 - Reklamationen aus den letzten 3 Jahren in CRM dokumentieren; Muster erkennbar.
 - Bei hohem Anstieg eines Werks proaktiv Auskunft anbieten - sonst kommt der Anwalt mit § 32a.
@@ -135,15 +135,15 @@ Mit freundlichen Gruessen
 - Retouren nicht ausgewiesen - Differenz zur Marktstatistik faellt auf.
 - Verteilung bei Co-Autoren nicht dokumentiert - jaehrlicher Streit.
 - Frei- und Pflichtexemplare in Verkaufszahlen versteckt.
-- Tantieme verrechnet, aber keine Klarheit ueber Vorschussstand - Vertrauensbruch.
+- Tantieme verrechnet, aber keine Klarheit über Vorschussstand - Vertrauensbruch.
 - UrhG § 32d-Pflicht ignoriert - kann zu Auskunftsklage fuehren.
 - KSK-Meldung der Tantieme vergessen.
 
 ## Quellen Stand 06/2026
 
-- UrhG §§ 32, 32a, 32d, 32e - Verguetung und Auskunftspflichten.
+- UrhG §§ 32, 32a, 32d, 32e - Vergütung und Auskunftspflichten.
 - VerlG §§ 25, 26 - Rechenschaft und Abrechnung.
 - BGB §§ 259, 273 - Rechenschaftslegung, Zurueckbehaltungsrecht.
 - UStG § 12 Abs. 2 Nr. 7 lit. c - ermaessigter Steuersatz für Rechteeinraeumung.
 - KSVG - Abgabepflicht; aktueller Satz unter kuenstlersozialkasse.de.
-- BGH-Rechtsprechung zu § 32a UrhG (Volltexte zur amtlichen Pruefung unter bundesgerichtshof.de und dejure.org).
+- BGH-Rechtsprechung zu § 32a UrhG (Volltexte zur amtlichen Prüfung unter bundesgerichtshof.de und dejure.org).

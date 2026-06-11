@@ -11,7 +11,7 @@ Zwei Datenfundamente der SKM-Rechnung sind **Zeitwerte** (wie lange dauert eine 
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Stellungnahme prueft Datengrundlage
+- Stellungnahme prüft Datengrundlage
 - Ressort gibt Zeitwerte ohne Quelle an
 - Fallzahlenermittlung scheint zu hoch oder zu niedrig
 - Suchen einer offiziellen Quelle
@@ -34,7 +34,7 @@ Standardtaetigkeiten mit Zeitwerten (Beispiel-Strukturierung):
 | Information beschaffen / lesen | 5-10 min | 15-30 min | 45-90 min |
 | Antrag ausfuellen / Bericht erstellen | 10-20 min | 30-60 min | 90-180 min |
 | Daten verarbeiten | 10-20 min | 30-60 min | 90-240 min |
-| Pruefen / Plausibilisieren | 5-15 min | 20-40 min | 60-120 min |
+| Prüfen / Plausibilisieren | 5-15 min | 20-40 min | 60-120 min |
 | Versand / Einreichung | 2-5 min | 5-15 min | 20-40 min |
 | Archivierung | 2-5 min | 5-10 min | 10-20 min |
 
@@ -74,7 +74,7 @@ Die konkreten Saetze sind aus der jeweils aktuellen DESTATIS-Tabelle und Leitfad
 5. **Fallzahl** aus Statistik (mit Jahresangabe und Quellenpfad)
 6. **Bandbreite** ausweisen bei Unsicherheit
 7. **Quelle** dokumentieren (Vermerk in der Stellungnahme oder Anlage)
-8. **Aktualitaet** pruefen (Statistikjahr vs. Bezugsjahr)
+8. **Aktualitaet** prüfen (Statistikjahr vs. Bezugsjahr)
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
@@ -107,7 +107,7 @@ Die konkreten Saetze sind aus der jeweils aktuellen DESTATIS-Tabelle und Leitfad
 
 - Zeitwerte ohne Tabellenverweis
 - "Erfahrungswerte" ohne Quellenangabe
-- Komplexitaetsstufe pauschal mittel ohne Pruefung
+- Komplexitaetsstufe pauschal mittel ohne Prüfung
 - Lohnsatz "ca. 30 EUR" ohne Differenzierung
 - Fallzahlen aus Pressemeldungen statt Statistik
 
@@ -118,4 +118,4 @@ Die konkreten Saetze sind aus der jeweils aktuellen DESTATIS-Tabelle und Leitfad
 - DESTATIS Unternehmensregister (jeweils aktuelle Ausgabe)
 - DESTATIS Personalstandstatistik (jeweils aktuelle Ausgabe)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.destatis.de](https://www.destatis.de) und [www.bmi.bund.de](https://www.bmi.bund.de)
+- Live verifizieren über [www.destatis.de](https://www.destatis.de) und [www.bmi.bund.de](https://www.bmi.bund.de)

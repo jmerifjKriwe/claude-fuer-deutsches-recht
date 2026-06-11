@@ -15,11 +15,11 @@ description: "Formuliert Autoren-Rueckmeldungen kollegial und praezise: trennt k
 
 ## Worum geht es konkret
 
-Eine Rueckmeldung an eine Autorin entscheidet ueber die naechste Manuskriptqualitaet und ueber die Beziehung. Schlecht formuliert ist sie patronisierend, unklar, ueberfordernd. Gut formuliert ist sie ein Arbeitsauftrag: was muss zwingend geaendert werden (Stop), was sollte (wuenschenswert), was bleibt als Anregung. Dieser Skill ist die Vorlage für kollegial-praezise Rueckmeldungen.
+Eine Rueckmeldung an eine Autorin entscheidet über die naechste Manuskriptqualitaet und über die Beziehung. Schlecht formuliert ist sie patronisierend, unklar, ueberfordernd. Gut formuliert ist sie ein Arbeitsauftrag: was muss zwingend geaendert werden (Stop), was sollte (wuenschenswert), was bleibt als Anregung. Dieser Skill ist die Vorlage für kollegial-praezise Rueckmeldungen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil, Aussagensicherheit) eine Befund-Rueckmeldung an die Autorin geben. Klaeren Sie:
+Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil, Aussagensicherheit) eine Befund-Rueckmeldung an die Autorin geben. Klären Sie:
 
 1. Verhaeltnis zur Autorin (langjaehrig, neu, schwierig)?
 2. Frist für die Ueberarbeitung?
@@ -42,7 +42,7 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
  - Dank für das Manuskript, kurzes Statement zum Inhalt (was traegt!).
  - Befund-Aufbau in drei Bloecken: Stops zuerst, dann Wuensche, dann Anregungen.
  - Frist mit Datum.
- - Angebot zur Klaerung (Telefon, Mail, Termin).
+ - Angebot zur Klärung (Telefon, Mail, Termin).
 3. **Tonalitaet.** Sie-Form, kollegial, kein Praedigtton. Kritik in der Sache, nicht an der Person.
 4. **Konkretheit.** Pro Befund: Stelle (Seite, Zeile, Fn.), Befund in einem Satz, Vorschlag in einem Satz.
 5. **Frist realistisch.** Bei vielen Befunden: 2-4 Wochen. Bei wenigen: 1 Woche.
@@ -52,7 +52,7 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 
 | Pfad | A: Mail mit Befundtabelle als Anlage | B: Komplette Rueckmeldung im Mailtext | Empfehlung |
 |------|---------------------------------------|----------------------------------------|------------|
-| Uebersicht | hoch | mittel | A bei vielen Befunden |
+| Übersicht | hoch | mittel | A bei vielen Befunden |
 | Lesbarkeit Mail | hoch | gering | A im Regelfall |
 | Aufwand | mittel | gering | A bei substanziellen Pruefungen |
 
@@ -70,9 +70,9 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 
 > Sehr geehrte Frau Dr. Mueller,
 >
-> vielen Dank für Ihr Manuskript "[Titel]", das uns am 02.06.2026 erreicht hat. Wir freuen uns ueber den geplanten Beitrag und insbesondere ueber Ihre praezise Auseinandersetzung mit der EuGH-Linie zur Plattformhaftung.
+> vielen Dank für Ihr Manuskript "[Titel]", das uns am 02.06.2026 erreicht hat. Wir freuen uns über den geplanten Beitrag und insbesondere über Ihre praezise Auseinandersetzung mit der EuGH-Linie zur Plattformhaftung.
 >
-> Nach Format-, Zitier-, Stil- und Inhalts-Pruefung haben wir folgende Befunde:
+> Nach Format-, Zitier-, Stil- und Inhalts-Prüfung haben wir folgende Befunde:
 >
 > **Stops (zwingend, vor Annahme zu behoeben):**
 > 1. Fussnote 17: BGH-Zitat ohne Az. - bitte ergaenzen.
@@ -96,7 +96,7 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 | Kategorie | Wirkung | Beispiele |
 |-----------|---------|-----------|
 | Stop | Druck ausgeschlossen | fehlende Az., Mandantenname, Tatsachenbehauptung ohne Beleg |
-| Wuenschenswert | Druck moeglich, Qualitaetseinbusse | Stoerwoerter, Synonyme, Inkonsistenzen |
+| Wuenschenswert | Druck möglich, Qualitaetseinbusse | Stoerwoerter, Synonyme, Inkonsistenzen |
 | Anregung | bessere Fassung | zusaetzliche Belege, weiterfuehrende Hinweise |
 
 ## Typische Fehler / Pitfalls

@@ -22,10 +22,10 @@ description: "US-OFAC-Sanktionsregime für deutsche und EU-Unternehmen: SDN List
 ## Erste Schritte
 
 1. US-Nexus feststellen: USD-Transaktion, US-Technologie (EAR/ITAR), US-Person/Unternehmen beteiligt?
-2. SDN-Liste und SSI-Liste (OFAC) auf alle Transaktionsparteien pruefen.
-3. Sektoral sanctions (SSI) pruefen: welche Finanzierungsformen sind für SSI-Personen verboten?
+2. SDN-Liste und SSI-Liste (OFAC) auf alle Transaktionsparteien prüfen.
+3. Sektoral sanctions (SSI) prüfen: welche Finanzierungsformen sind für SSI-Personen verboten?
 4. Secondary-sanctions-Risiko bewerten: Exposure für Drittland-Unternehmen.
-5. EU-Blocking-Statute VO 2271/96 pruefen: gilt es für den Sachverhalt? Pflicht zur Befolgung des US-Verbots?
+5. EU-Blocking-Statute VO 2271/96 prüfen: gilt es für den Sachverhalt? Pflicht zur Befolgung des US-Verbots?
 6. Handlungsempfehlung: Transaktion fortsetzen, anpassen oder abbrechen; Kommunikationsstrategie.
 
 ## Rechtsrahmen

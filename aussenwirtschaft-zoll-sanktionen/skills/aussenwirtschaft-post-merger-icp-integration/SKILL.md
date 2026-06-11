@@ -23,8 +23,8 @@ description: "Integration des Internal Compliance Programme nach M&A: Harmonisie
 
 1. ICP-Gap-Analyse zwischen Kaeufer-Standard und Zielunternehmen durchfuehren.
 2. Kritische Luecken identifizieren: fehlende Gueterklassifizierungen, kein Sanktionsscreening, kein Ausfuhrverantwortlicher.
-3. BAFA ueber relevante Aenderungen (Inhaberwechsel, Umstrukturierung) informieren; Genehmigungsuebertragung pruefen.
-4. Integrationsplan mit Meilensteinen: sofortige Massnahmen, 3 Monate, 6 Monate.
+3. BAFA über relevante Aenderungen (Inhaberwechsel, Umstrukturierung) informieren; Genehmigungsuebertragung prüfen.
+4. Integrationsplan mit Meilensteinen: sofortige Maßnahmen, 3 Monate, 6 Monate.
 5. Schulungsrollout für alle exportkontrollrelevanten Mitarbeiter des Zielunternehmens planen.
 6. Gemeinsames ICP-Handbuch verabschieden und System-Integration (ERP, Screening-Tool) vorantreiben.
 
@@ -39,7 +39,7 @@ description: "Integration des Internal Compliance Programme nach M&A: Harmonisie
 ## Pruef-Raster
 
 - [ ] ICP-Gap-Analyse vollstaendig durchgefuehrt?
-- [ ] BAFA ueber Inhaberwechsel und Genehmigungsaenderungen informiert?
+- [ ] BAFA über Inhaberwechsel und Genehmigungsaenderungen informiert?
 - [ ] Kritische Sofortmassnahmen innerhalb erster 30 Tage eingeleitet?
 - [ ] Schulungsplan für neue Mitarbeiter konkret terminiert?
 - [ ] Integrationsplan mit Meilensteinen und Verantwortlichen verabschiedet?

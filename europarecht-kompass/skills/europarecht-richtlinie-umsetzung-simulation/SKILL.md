@@ -59,7 +59,7 @@ Bevor losgelegt wird, klaere:
 ## Output-Template: Umsetzungspruefung Richtlinie
 
 **Adressat:** Kanzlei-intern
-**Tonfall:** Analytisch; Fristen pruefen
+**Tonfall:** Analytisch; Fristen prüfen
 
 ```
 RICHTLINIENUMSETZUNGS-PRUEFUNG

@@ -129,7 +129,7 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -176,7 +176,7 @@ Mit freundlichen Grüßen
 Rechtsanwalt / Rechtsanwältin
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -380,7 +380,7 @@ Abgeschlossen: [NEIN / JA — TT.MM.JJJJ; archiviert]
 ## Rote Schwellen
 
 - **GwG-Identifizierung fehlt** — strafrechtliches Risiko für Rechtsanwalt (§§ 10 ff. GwG); vor Weiterarbeit nachholen.
-- **Interessenkonflikt nicht geprueft** — Verstoß gegen § 43a Abs. 4 BRAO; Mandat unverzueglich auf Konflikt pruefen.
+- **Interessenkonflikt nicht geprueft** — Verstoß gegen § 43a Abs. 4 BRAO; Mandat unverzueglich auf Konflikt prüfen.
 - **Anwaltliche Verschwiegenheit: Dateien aus anderem Mandat im Workspace** — § 43a Abs. 2 BRAO, § 203 StGB; sofort entfernen; Fehler dokumentieren.
 - **Handakten-Aufbewahrungsfrist § 50 BRAO** — mind. 5 Jahre nach Mandat-Abschluss; Loeschung erst nach Ablauf.
 - **Frist im Mandat ohne Wiedervorlage** — Haftungsrisiko; jede Frist sofort im Kalender mit Vorlauf-WV verankern.

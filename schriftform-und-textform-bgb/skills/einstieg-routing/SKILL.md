@@ -23,7 +23,7 @@ Dieser Einstieg routet **Schriftform Und Textform Bgb** vom ersten Sachverhalt z
 - `elektronische-paragraph-formerfordernisse` — Elektronische Paragraph Formerfordernisse
 - `empfangsbeduerftiger-international` — Empfangsbeduerftiger International
 - `empfangsbeduerftiger-international-schnittstellen` — Empfangsbeduerftiger International Schnittstellen
-- `form-checker-fuer-vertrag-oder-willenserklaerung` — Form Checker Fuer Vertrag Oder Willenserklaerung
+- `form-checker-fuer-vertrag-oder-willenserklaerung` — Form Checker Für Vertrag Oder Willenserklaerung
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake
 

@@ -42,9 +42,9 @@ description: "Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam: ordnet
 
 Leitentscheidung: BAG, Urteil vom 25.03.2026 - 5 AZR 108/25 (Wirksamkeit einer Freistellungsklausel; Widerruf der Dienstwagennutzung).
 
-Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmäßige) Klausel, die diesen ohne weitere Voraussetzungen berechtigt, den Arbeitnehmer nach Ausspruch einer Kuendigung bis zum Ablauf der Kuendigungsfrist von der Arbeitsleistung unter Fortzahlung der Verguetung freizustellen, ist nach § 307 Abs. 1 Satz 1 BGB unwirksam. Der verfassungsrechtlich geschuetzte Beschaeftigungsanspruch des Arbeitnehmers ueberwiegt das pauschale Freistellungsinteresse. Eine Freistellung verlangt einen konkreten Anlasstatbestand (z.B. Geheimhaltungs-, Konkurrenz- oder Vertrauensschutz) und Interessenabwaegung im Einzelfall.
+Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmäßige) Klausel, die diesen ohne weitere Voraussetzungen berechtigt, den Arbeitnehmer nach Ausspruch einer Kuendigung bis zum Ablauf der Kuendigungsfrist von der Arbeitsleistung unter Fortzahlung der Vergütung freizustellen, ist nach § 307 Abs. 1 Satz 1 BGB unwirksam. Der verfassungsrechtlich geschuetzte Beschaeftigungsanspruch des Arbeitnehmers ueberwiegt das pauschale Freistellungsinteresse. Eine Freistellung verlangt einen konkreten Anlasstatbestand (z.B. Geheimhaltungs-, Konkurrenz- oder Vertrauensschutz) und Interessenabwaegung im Einzelfall.
 
-Offene Quelle: dejure.org, Vernetzung BAG 25.03.2026 - 5 AZR 108/25; BAG-Pressemitteilung "Wirksamkeit einer Freistellungsklausel - Widerruf der Dienstwagennutzung". Status: Volltext zum Stand der Bearbeitung noch nicht voll veroeffentlicht - vor Schriftsatzverwendung Volltext pruefen.
+Offene Quelle: dejure.org, Vernetzung BAG 25.03.2026 - 5 AZR 108/25; BAG-Pressemitteilung "Wirksamkeit einer Freistellungsklausel - Widerruf der Dienstwagennutzung". Status: Volltext zum Stand der Bearbeitung noch nicht voll veroeffentlicht - vor Schriftsatzverwendung Volltext prüfen.
 
 Der Beschäftigungsanspruch des Arbeitnehmers darf nur mit verifizierter Rechtsprechung begründet werden. Vor einer Ausgabe ist zu prüfen, welche Entscheidung die tragende Aussage wirklich trägt und ob sie für Freistellung nach Kündigung, AGB-Kontrolle und Annahmeverzug passt.
 
@@ -98,7 +98,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -157,7 +157,7 @@ verzug. Die Vergütung für den Annahmeverzugszeitraum
 berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

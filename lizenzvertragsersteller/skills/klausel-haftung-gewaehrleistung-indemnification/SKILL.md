@@ -17,7 +17,7 @@ Lizenzgeber garantiert, dass:
 
 > "$ 8 Garantien des Lizenzgebers.
 > (1) Der Lizenzgeber garantiert, dass er alleiniger Inhaber des Lizenzgegenstands ist (mit Ausnahme der in **Anlage A** gekennzeichneten Mitinhaberschaften).
-> (2) Der Lizenzgegenstand ist frei von Rechten Dritter, soweit dem Lizenzgeber nach pflichtgemaesser Pruefung bekannt.
+> (2) Der Lizenzgegenstand ist frei von Rechten Dritter, soweit dem Lizenzgeber nach pflichtgemaesser Prüfung bekannt.
 > (3) Keine Drittrechts-Klage oder Loeschungsverfahren ist anhaengig."
 
 ### B. IP-Infringement-Indemnification
@@ -31,7 +31,7 @@ Was passiert, wenn ein Dritter die Nutzung des Lizenzgegenstands durch den Lizen
 Bei B2B-Vertraegen ueblich:
 
 > "$ 9 Haftungsbeschraenkungen.
-> (1) Die Haftung des Lizenzgebers fuer einfache Fahrlaessigkeit ist je Vertragsjahr auf einen Betrag in Hoehe der im jeweiligen Vertragsjahr gezahlten Lizenzgebuehren begrenzt; insgesamt jedoch nicht weniger als [Betrag] EUR.
+> (1) Die Haftung des Lizenzgebers für einfache Fahrlaessigkeit ist je Vertragsjahr auf einen Betrag in Höhe der im jeweiligen Vertragsjahr gezahlten Lizenzgebuehren begrenzt; insgesamt jedoch nicht weniger als [Betrag] EUR.
 > (2) Mittelbare Schaeden, Folgeschaeden, entgangener Gewinn und reine Vermoegensschaeden sind ausgeschlossen.
 > (3) Diese Beschraenkungen gelten nicht bei Vorsatz, grober Fahrlaessigkeit, der Verletzung von Leben, Koerper oder Gesundheit sowie bei Verletzung wesentlicher Vertragspflichten ("Kardinalpflichten")."
 
@@ -41,7 +41,7 @@ Bei Patentlizenzen kommt hinzu: Was bei Patent-Nichtigerklaerung?
 - Lizenznehmer hat Anspruch auf Erstattung gezahlter Lizenzgebuehren? → meist nicht (Risikoteilung).
 - Empfehlung: ausdrueckliche Risikozuweisung.
 
-> "Sofern ein Lizenzpatent durch rechtskraeftiges Urteil nichtig erklaert wird, endet die Lizenz fuer dieses Patent mit dem Tag der Rechtskraft. Bereits gezahlte Lizenzgebuehren werden nicht erstattet."
+> "Sofern ein Lizenzpatent durch rechtskraeftiges Urteil nichtig erklaert wird, endet die Lizenz für dieses Patent mit dem Tag der Rechtskraft. Bereits gezahlte Lizenzgebuehren werden nicht erstattet."
 
 ## Spezialfall Software Bug-Indemnification
 

@@ -7,7 +7,7 @@ description: "Art. 4 KI-VO als praktisches Schulungs- und Nachweissystem: Rollen
 
 ## Normanker
 
-- Art. 4 KI-VO: Anbieter und Betreiber muessen KI-Kompetenz sicherstellen.
+- Art. 4 KI-VO: Anbieter und Betreiber müssen KI-Kompetenz sicherstellen.
 - Art. 3 Nr. 1, 3, 4, 63 KI-VO: KI-System, Anbieter, Betreiber, GPAI.
 - Art. 6, Art. 26, Art. 27, Art. 50 KI-VO: Folgepflichten je nach Einsatz.
 - DSGVO, Geheimnisschutz, Urheberrecht und Berufsrecht nur als Schnittstellen markieren, nicht vermischen.
@@ -19,7 +19,7 @@ Frage knapp:
 1. Welche KI-Werkzeuge werden genutzt: freier Chatbot, Enterprise-Chat, Fachsoftware, Recruiting, Kredit, Medizin, Justiz, Verwaltung, Entwickler-Tool?
 2. Wer nutzt sie: Vorstand, Legal, HR, Vertrieb, Produkt, IT, Support, Auszubildende, Externe?
 3. Gibt es Anhang-III-Naehe: Personal, Bildung, Kredit, Justiz, Migration, Strafverfolgung, kritische Infrastruktur, Biometrie?
-4. Welche Daten duerfen hinein und welche nie: personenbezogene Daten, Mandatsgeheimnisse, Betriebsgeheimnisse, Quellcode, Gesundheitsdaten?
+4. Welche Daten dürfen hinein und welche nie: personenbezogene Daten, Mandatsgeheimnisse, Betriebsgeheimnisse, Quellcode, Gesundheitsdaten?
 5. Welche Nachweise existieren: Policy, Teilnahmeprotokoll, Rollenkonzept, Test, Freigabe, Incident-Log?
 
 ## Kompetenzmatrix
@@ -59,6 +59,6 @@ Erzeuge eine Tabelle:
 
 ### Anwendung im Skill
 
-- KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
+- KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten prüfen.
 - Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
 - GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.

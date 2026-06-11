@@ -48,10 +48,10 @@ description: "Anlagen zur Baubeschreibung beim Bautraegervertrag: Skill listet t
 
 ### Anlage fehlt
 - Vertrag ist unklar.
-- Erwerber kann nicht pruefen, was er kauft.
+- Erwerber kann nicht prüfen, was er kauft.
 
 ### Anlage veraltet
-- Aktualisierungsklausel pruefen.
+- Aktualisierungsklausel prüfen.
 
 ### Anlage nicht zur Beurkundung mit ausgehaendigt
 - Notarverletzung.

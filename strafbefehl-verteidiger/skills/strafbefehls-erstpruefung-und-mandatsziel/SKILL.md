@@ -7,7 +7,7 @@ description: "Strafbefehls: Erstprüfung, Rollenklärung und Mandatsziel."
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Strafbefehls Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Strafbefehl Verteidiger** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Strafbefehls Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Strafbefehl Verteidiger** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -50,19 +50,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## Strafbefehls-Erstpruefung Bausteine
-- **Zustellung re-pruefen:** Postzustellungsurkunde § 37 StPO i.V.m. §§ 166 ff. ZPO; bei Ersatzzustellung Heilung § 189 ZPO; Datum verbindlich für Beginn 2-Wochen-Frist § 410 StPO.
+- **Zustellung re-prüfen:** Postzustellungsurkunde § 37 StPO i.V.m. §§ 166 ff. ZPO; bei Ersatzzustellung Heilung § 189 ZPO; Datum verbindlich für Beginn 2-Wochen-Frist § 410 StPO.
 - **Verteidigerbestellung § 137 StPO** sofort; bei Freiheitsstrafe Strafbefehl Pflichtverteidigerbestellung § 408b StPO.
 - **Mandantenziel matrix:**
- - **Schuldspruch bestritten** -> Vollumfaenglicher Einspruch + Hauptverhandlung; Akteneinsicht § 147 StPO Beweismittel pruefen.
+ - **Schuldspruch bestritten** -> Vollumfaenglicher Einspruch + Hauptverhandlung; Akteneinsicht § 147 StPO Beweismittel prüfen.
  - **Strafmass-Reduktion** -> Beschraenkter Einspruch § 410 II StPO auf Rechtsfolgenausspruch.
  - **Nebenfolgen-Reduktion** (Fahrverbot) -> Einspruch auf Fahrverbot ggf. mit Antrag Erhoehung Geldstrafe als Kompensation.
  - **Einstellung anstreben** -> §§ 153, 153a StPO mit Auflagen.
  - **Akzeptanz** -> Wenn Strafmass im Rahmen, kein Eintrag-Risiko, Hauptverhandlung wuerde Beweise gegen Mandant erbringen.
-- **BZRG-Eintrag-Risiko** § 32 BZRG: ab 90 TS / Freiheitsstrafe Eintragung Fuehrungszeugnis; Konsequenzen Berufslaufbahn pruefen.
+- **BZRG-Eintrag-Risiko** § 32 BZRG: ab 90 TS / Freiheitsstrafe Eintragung Fuehrungszeugnis; Konsequenzen Berufslaufbahn prüfen.
 - **Berufliche / disziplinarrechtliche Auswirkungen:**
  - Beamte: Disziplinarrecht, Anzeigepflicht; ab Geldstrafe ueblich Verfahren.
  - Aerzte / Anwaelte / Steuerberater / Apotheker: Berufsaufsicht.
  - Lehrer / Polizisten: Schulaufsicht / Disziplinarverfahren.
  - Fuehrungspositionen Wirtschaft: Reputation.
-- **Erfolgsaussicht-Prognose** vor Einspruch: Beweislage objektiv pruefen; Strafrahmen Hauptverhandlung; Kostenrisiko bei Verurteilung; Best-Case / Worst-Case.
+- **Erfolgsaussicht-Prognose** vor Einspruch: Beweislage objektiv prüfen; Strafrahmen Hauptverhandlung; Kostenrisiko bei Verurteilung; Best-Case / Worst-Case.
 - **Anschluss-Skills:** Strafbefehl-Dokumentenmatrix; Einspruchsentscheidung; Verteidigerstrategie.

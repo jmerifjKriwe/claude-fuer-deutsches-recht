@@ -13,7 +13,7 @@ description: "Commercial Contracts Due Diligence: Prüft wesentliche Vertraege i
 
 ## Fachkern: Due Diligence — Commercial Contracts
 
-- **Corporate-Aufgabe (Due Diligence — Commercial Contracts):** Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps.
+- **Corporate-Aufgabe (Due Diligence — Commercial Contracts):** Prüft wesentliche Verträge im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps.
 - **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
 - **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
 - **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
@@ -108,7 +108,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welche Vertragstypen sind relevant: Kunden-, Lieferanten-, JV-, Lizenz-, Finanzierungsvertraege?
 2. Gibt es eine Definition von "wesentlichen Vertraegen" im Process Letter?
 3. Change-of-Control: Wurden Parteien bereits informiert oder soll Vertraulichkeit gewahrt werden?
-4. Welche Laufzeiten und Vertragsvolumina rechtfertigen vertiefte Pruefung?
+4. Welche Laufzeiten und Vertragsvolumina rechtfertigen vertiefte Prüfung?
 5. Sind auslaendische Vertragspartner involviert (Governing Law, Jurisdiktion)?
 
 ## Zentrale Anspruchsgrundlagen & Normen
@@ -129,11 +129,11 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 | Klausel | Pruefungsinhalt | Hauptrisiko | Handlungsempfehlung |
 |---|---|---|---|
-| Change of Control | Schwelle (Kapital, Stimmrechte, Kontrolle), Kuendigungs-/Anpassungsrecht | Kuendigung wesentlicher Vertraege post-Closing | Consent einholen pre-Signing; SPA-CoC-Rep |
-| Exklusivitaet | Dauer, Gegenstand, Ausnahmen, Folgen bei Verletzung | Marktabschottung; Konkurrentenausschluss | Wettbewerbsrechtliche Pruefung; Laufzeitbegrenzung |
+| Change of Control | Schwelle (Kapital, Stimmrechte, Kontrolle), Kuendigungs-/Anpassungsrecht | Kuendigung wesentlicher Verträge post-Closing | Consent einholen pre-Signing; SPA-CoC-Rep |
+| Exklusivitaet | Dauer, Gegenstand, Ausnahmen, Folgen bei Verletzung | Marktabschottung; Konkurrentenausschluss | Wettbewerbsrechtliche Prüfung; Laufzeitbegrenzung |
 | Haftungsgrenzen | Cap als % des Jahresvolumens; Ausnahmen; Schadenstypen | Unterversicherung wesentlicher Schaden | Ggf. Neuverhandlung post-Closing; Insurance |
 | Kuendigungsrechte | Ordentlich, ausserordentlich, bei Insolvenz | Kundenverlust; Lieferantenwechsel | Separate Rep; Consent-Vereinbarung |
-| Wettbewerbsverbote | Laufzeit, Breitengrad, Entschaedigung | §§ 74 ff. HGB; § 138 BGB; GWB | Gueltigkeit pruefen; ggf. anpassen |
+| Wettbewerbsverbote | Laufzeit, Breitengrad, Entschaedigung | §§ 74 ff. HGB; § 138 BGB; GWB | Gueltigkeit prüfen; ggf. anpassen |
 | IP-Lizenzen | Umfang, Sublizenzierungsrecht, Open Source | IP-Verlust bei CoC oder Insolvenz | Source Code Escrow; IP Assignment |
 | Abtretungsverbote | Zustimmungserfordernis bei Abtretung oder Verpfaendung | Finanzierungs-Securitization gehemmt | Consent; vertragliche Liberalisierung |
 | Geheimhaltung | Laufzeit, Ausnahmen, Vertragsstrafe | Post-Closing Know-How-Schutz | Erfuellung sicherstellen |
@@ -141,13 +141,13 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Material Contracts Liste erstellen** — aus DD-IRL, Jahresabschluss-Anhang, Management-Input; Schwellenwert definieren (z.B. >100 TEUR Jahresvolumen oder strategisch wesentlich)
-2. **Vertraege klassifizieren** — Kunde, Lieferant, Finanzierung, Lizenz, JV, Miet, Arbeitsrecht, Sonstige
-3. **CoC-Klausel-Scan** — alle wesentlichen Vertraege auf Change-of-Control-Klauseln untersuchen; Konsent-Erfordernis dokumentieren
+2. **Verträge klassifizieren** — Kunde, Lieferant, Finanzierung, Lizenz, JV, Miet, Arbeitsrecht, Sonstige
+3. **CoC-Klausel-Scan** — alle wesentlichen Verträge auf Change-of-Control-Klauseln untersuchen; Konsent-Erfordernis dokumentieren
 4. **Kuendigungsrechts-Analyse** — ordentlich und ausserordentlich; verbleibende Laufzeiten; Kuendigungsfristen
 5. **Haftungslimits abgleichen** — mit Unternehmensrisikoprofil und W&I-Deckungsgrenzen
-6. **Wettbewerbsverbote pruefen** — Gueltigkeit nach §§ 74 ff. HGB und § 138 BGB; GWB-Konformitaet
+6. **Wettbewerbsverbote prüfen** — Gueltigkeit nach §§ 74 ff. HGB und § 138 BGB; GWB-Konformitaet
 7. **Contract Summary erstellen** — pro wesentlichem Vertrag: Parteien, Laufzeit, Volumen, CoC, Kuendigung, Kernrisiken
-8. **Empfehlung für SPA** — welche Vertraege brauchen Consents, spezifische Reps, Indemnities oder Closing Conditions?
+8. **Empfehlung für SPA** — welche Verträge brauchen Consents, spezifische Reps, Indemnities oder Closing Conditions?
 
 ## Entscheidungsbaum: Consent erforderlich?
 
@@ -200,7 +200,7 @@ EMPFEHLUNG: [Consent einholen bis [Datum] / Disclosure / Indemnity]
 
 ## Vertiefung: Open Source Software-Risiken (IP/IT-Workstream)
 
-Lizenzvertraege für Software koennen Open-Source-Copyleft-Pflichten enthalten (GPL, LGPL). Im DD pruefen: (a) Welche Open-Source-Bestandteile sind im Produkt; (b) Welche Lizenzpflichten bestehen (Quelltextoffenlegung); (c) Enthaelt Lizenz Termination-Right bei GPL-Verletzung. Risiko: Wichtigstes Produkt muss Open Source veroeffentlicht werden.
+Lizenzvertraege für Software können Open-Source-Copyleft-Pflichten enthalten (GPL, LGPL). Im DD prüfen: (a) Welche Open-Source-Bestandteile sind im Produkt; (b) Welche Lizenzpflichten bestehen (Quelltextoffenlegung); (c) Enthaelt Lizenz Termination-Right bei GPL-Verletzung. Risiko: Wichtigstes Produkt muss Open Source veroeffentlicht werden.
 
 ## Quellen
 

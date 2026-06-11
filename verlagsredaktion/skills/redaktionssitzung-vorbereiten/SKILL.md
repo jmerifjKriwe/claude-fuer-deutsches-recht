@@ -19,11 +19,11 @@ Eine Redaktionssitzung in einem juristischen Fachverlag ist nicht "Brainstorming
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn eine Sitzung in den naechsten 1-7 Tagen ansteht. Klaeren Sie:
+Sie brauchen ihn, wenn eine Sitzung in den naechsten 1-7 Tagen ansteht. Klären Sie:
 
 1. Welche Art Sitzung (Heftsitzung, Jahresplanung, Sondersitzung wegen Krisenthema)?
 2. Wer nimmt teil (Schriftleitung, Verlag, externe Beiraete)?
-3. Welche Entscheidungen muessen heute fallen (nicht "kann auch naechste Woche")?
+3. Welche Entscheidungen müssen heute fallen (nicht "kann auch naechste Woche")?
 4. Welche Themen / Manuskripte liegen bereits vor?
 
 ## Material- bzw. Sachrahmen
@@ -95,8 +95,8 @@ Frist Druckfreigabe: 29.07.2026
 ## Typische Fehler / Pitfalls
 
 - Agenda ohne Entscheidungswuensche - Sitzung wird zur Plauderrunde.
-- TOPs ohne Owner/Frist - Beschluesse verpuffen.
-- Kein Vorabversand der Materialien - keine vorbereitete Diskussion moeglich.
+- TOPs ohne Owner/Frist - Beschlüsse verpuffen.
+- Kein Vorabversand der Materialien - keine vorbereitete Diskussion möglich.
 - Endlose Themen-Brainstorming ohne Priorisierung.
 - Protokoll nicht innerhalb 24h - alle vergessen, was beschlossen wurde.
 

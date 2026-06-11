@@ -22,7 +22,7 @@ description: "Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgle
 
 ## Auslandszuschlag
 
-- Hoehe: nach Dienstort und Zone (A bis Z).
+- Höhe: nach Dienstort und Zone (A bis Z).
 - Berechnung: Zuschlag-Tabelle BMI.
 - Anpassung mehrmals jaehrlich.
 

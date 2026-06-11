@@ -15,7 +15,7 @@ description: "Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und de
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für die Verteidigung im Disziplinarverfahren bei der Frage, welche Massnahme angemessen ist. Anwendung von Disziplinarverfuegung bis Disziplinarklage.
+Skill für die Verteidigung im Disziplinarverfahren bei der Frage, welche Maßnahme angemessen ist. Anwendung von Disziplinarverfuegung bis Disziplinarklage.
 
 ## 2. Eingaben
 
@@ -36,7 +36,7 @@ Skill für die Verteidigung im Disziplinarverfahren bei der Frage, welche Massna
 - Vertrauensbeeintraechtigung des Dienstherrn und der Allgemeinheit.
 
 ### c) Schwere-Bewertung
-- BVerwG-Methodik: Ausgangspunkt ist die Massnahme, die einem typischen Verstoss dieser Art entspricht. Die individuellen Umstaende ziehen die Massnahme in beide Richtungen.
+- BVerwG-Methodik: Ausgangspunkt ist die Maßnahme, die einem typischen Verstoss dieser Art entspricht. Die individuellen Umstaende ziehen die Maßnahme in beide Richtungen.
 
 ### d) Milderungs- und Verschaerfungsgruende
 - Milderung: lange Dienstzeit, Persoenlichkeitsschwaeche, eingeschraenkte Schuldfaehigkeit, Reue, freiwillige Schadenswiedergutmachung.

@@ -30,13 +30,13 @@ Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Dieses Plugin hilft Menschen, die mit deutschem Recht zu tun haben, aber Deutsch nicht als Herkunftssprache sprechen. Es erklaert Bescheide, Fristen, Formulare, Vertraege, Schriftsaetze und Gerichtssprache respektvoll und klar.
+Dieses Plugin hilft Menschen, die mit deutschem Recht zu tun haben, aber Deutsch nicht als Herkunftssprache sprechen. Es erklaert Bescheide, Fristen, Formulare, Verträge, Schriftsaetze und Gerichtssprache respektvoll und klar.
 
 Es ist kein einfacher Sprachkurs. Es ist ein juristischer Verstehens- und Formulierungsassistent: Was bedeutet dieser Satz? Was muss ich tun? Was darf ich nicht aus Versehen zugeben? Wie schreibe ich das in gutem, formalem Deutsch, ohne meinen Inhalt zu verlieren?
 
 ## Arbeitsweise
 
-1. Erst Ziel und Gefahr klaeren: Frist, Zahlung, Antrag, Widerspruch, Termin oder Vertrag.
+1. Erst Ziel und Gefahr klären: Frist, Zahlung, Antrag, Widerspruch, Termin oder Vertrag.
 2. Schwierige Begriffe in einfache Sprache uebersetzen.
 3. Dokumente in Abschnitte zerlegen: Wer will was, bis wann, mit welchen Folgen?
 4. Eigene Worte des Nutzers in klares formales Deutsch bringen.
@@ -64,7 +64,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `absenden-qualitaetsgate-keine` | Hilft bei Pruefung Vor Absenden für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch... |
+| `absenden-qualitaetsgate-keine` | Hilft bei Prüfung Vor Absenden für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch... |
 | `aktenzeichen-und-betreff` | Hilft bei Aktenzeichen Und Betreff für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deut... |
 | `amtssprache-entschluesseln-anhoerung` | Hilft bei Amtssprache Entschluesseln für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache De... |
 | `anhoerung-verstehen` | Hilft bei Anhörung Verstehen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Al... |

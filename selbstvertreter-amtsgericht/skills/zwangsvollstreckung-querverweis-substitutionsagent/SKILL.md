@@ -14,13 +14,13 @@ description: "Querverweis zum Substitutionsagenten für die Zwangsvollstreckung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Querverweis zum Substitutionsagenten für die Zwangsvollstreckung nach Urteil. Dieses Plugin behandelt die Vollstreckung nicht inhaltlich. Hinweis welche Schritte als naechstes anstehen und welche Tools dabei helfen koennen.
+**Fokus:** Querverweis zum Substitutionsagenten für die Zwangsvollstreckung nach Urteil. Dieses Plugin behandelt die Vollstreckung nicht inhaltlich. Hinweis welche Schritte als naechstes anstehen und welche Tools dabei helfen können.
 
 ### Zwangsvollstreckung: Nutzen Sie den Substitutionsagenten
 
 ## Worum geht es?
 
-Wenn Sie das Urteil gewonnen haben und der Schuldner nicht freiwillig zahlt, beginnt die **Zwangsvollstreckung**. Das ist ein eigenes Rechtsgebiet mit eigenen Regeln, eigenen Antrags-Formen und eigener Strategie. **Dieses Plugin behandelt die Vollstreckung NICHT inhaltlich.** Fuer die Vollstreckung gibt es einen separaten Substitutionsagenten — ziehen Sie ihn dann hinzu.
+Wenn Sie das Urteil gewonnen haben und der Schuldner nicht freiwillig zahlt, beginnt die **Zwangsvollstreckung**. Das ist ein eigenes Rechtsgebiet mit eigenen Regeln, eigenen Antrags-Formen und eigener Strategie. **Dieses Plugin behandelt die Vollstreckung NICHT inhaltlich.** Für die Vollstreckung gibt es einen separaten Substitutionsagenten — ziehen Sie ihn dann hinzu.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -50,12 +50,12 @@ Mit:
 
 - Vollstreckungs-Klausel (Skill `vollstreckungsklausel-724-zpo`).
 - Vollstreckbare Ausfertigung des Urteils.
-- Kenntnis ueber Vermoegen des Schuldners (Bank, Arbeitgeber, Immobilie).
+- Kenntnis über Vermögen des Schuldners (Bank, Arbeitgeber, Immobilie).
 
 ### Schritt 2 — Bonitaets-Check Schuldner
 
-- Schuldnerverzeichnis pruefen (kostenfrei einsehbar).
-- Vermoegens-Auskunft (§ 802c ZPO) beantragen — Schuldner muss Vermoegen offenlegen.
+- Schuldnerverzeichnis prüfen (kostenfrei einsehbar).
+- Vermoegens-Auskunft (§ 802c ZPO) beantragen — Schuldner muss Vermögen offenlegen.
 
 ### Schritt 3 — Vollstreckungs-Wege
 
@@ -70,7 +70,7 @@ Welcher Weg ist optimal? Haengt von Schuldner-Verhaeltnissen ab.
 
 ### Schritt 4 — Hier nur Hinweis: Ziehen Sie den Substitutionsagenten
 
-Fuer Details:
+Für Details:
 
 - Wie Sie Antraege formulieren.
 - Welche Pfaendungs-Strategie wann sinnvoll.
@@ -81,9 +81,9 @@ Fuer Details:
 
 ### Schritt 5 — Erste Schritte
 
-Falls Sie sofort starten muessen:
+Falls Sie sofort starten müssen:
 
-- Gerichtsvollzieher Ihres Wohnorts kontaktieren (Adresse ueber justiz.de).
+- Gerichtsvollzieher Ihres Wohnorts kontaktieren (Adresse über justiz.de).
 - Vollstreckungs-Akt einreichen.
 - Auftrag erteilen.
 
@@ -95,7 +95,7 @@ Aber: Strategische Planung ist wichtig — und dafür der Substitutionsagent.
 - Bei Lohn-/Kontopfaendung Beschluss-Gebuehr.
 - Bei Zwangsversteigerung erhebliche Kosten.
 
-Schuldner traegt am Ende — wenn Vermoegen da ist.
+Schuldner traegt am Ende — wenn Vermögen da ist.
 
 ### Schritt 7 — Geduld
 
@@ -110,21 +110,21 @@ Vollstreckung ist langsam:
 Wenn Vollstreckung erfolglos:
 
 - Schuldner-Verzeichnis-Eintrag.
-- Spaeter erneuter Vollstreckungs-Versuch moeglich.
+- Später erneuter Vollstreckungs-Versuch möglich.
 - Forderung bleibt 30 Jahre vollstreckbar nach Rechtskraft.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Hier nur Querverweis** — Substitutionsagent für Vollstreckung nutzen.
 - **Klausel und Zustellung** vor Vollstreckung Pflicht.
-- **Bonitaet** pruefen.
+- **Bonitaet** prüfen.
 
 ## Typische Fehler
 
-- "Vollstrecken ohne Plan." → Strategie ueber Substitutionsagent.
+- "Vollstrecken ohne Plan." → Strategie über Substitutionsagent.
 - "Schuldner hat nichts — egal." → Schuldnerverzeichnis-Eintrag erlangen.
 - "Nach 5 Jahren Forderung vergessen." → 30 Jahre vollstreckbar.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Querverweis-Skill. Fuer Details Substitutionsagent.
+Stand: 05/2026. Querverweis-Skill. Für Details Substitutionsagent.

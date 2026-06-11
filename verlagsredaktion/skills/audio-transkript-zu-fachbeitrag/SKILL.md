@@ -15,14 +15,14 @@ description: "Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zi
 
 ## Worum geht es konkret
 
-Eine Autorin liefert nicht ein Manuskript, sondern eine Audiodatei: Mitschnitt einer Tagung, ein freies Diktat, ein Telefon-Brainstorming mit einem Co-Autor. Sie muessen daraus einen abgabefaehigen Fachbeitrag machen - ohne dass die muendliche Rohfassung im Druck als Geschwaetz wirkt.
+Eine Autorin liefert nicht ein Manuskript, sondern eine Audiodatei: Mitschnitt einer Tagung, ein freies Diktat, ein Telefon-Brainstorming mit einem Co-Autor. Sie müssen daraus einen abgabefaehigen Fachbeitrag machen - ohne dass die muendliche Rohfassung im Druck als Geschwaetz wirkt.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn Audio + Verschriftlichungsauftrag vorliegen. Klaeren Sie zu Beginn nur:
+Sie brauchen ihn, wenn Audio + Verschriftlichungsauftrag vorliegen. Klären Sie zu Beginn nur:
 
 1. Welche Zielzeitschrift / welcher Sammelband, welche Hoechstlaenge?
-2. Liegt das Transkript schon vor oder muessen Sie transkribieren?
+2. Liegt das Transkript schon vor oder müssen Sie transkribieren?
 3. Ist die Autorin mit Bearbeitung einverstanden ("Aut. Ueberarbeitung erforderlich" - Schriftform)?
 4. Datenschutz: enthaelt die Aufnahme Drittstimmen, Mandantendaten, Zwischenrufe?
 
@@ -35,8 +35,8 @@ Sie brauchen ihn, wenn Audio + Verschriftlichungsauftrag vorliegen. Klaeren Sie 
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Einverstaendnis sichern.** Ohne schriftliche Freigabe keine Bearbeitung; bei Drittstimmen (Diskussion!) Anonymisierung pruefen.
-2. **Transkription.** Wortgetreu in einem ersten Durchgang, Zeitstempel alle 30 Sekunden. Bei lizenziertem Whisper / Audiotrans-Tool: AVV pruefen.
+1. **Einverstaendnis sichern.** Ohne schriftliche Freigabe keine Bearbeitung; bei Drittstimmen (Diskussion!) Anonymisierung prüfen.
+2. **Transkription.** Wortgetreu in einem ersten Durchgang, Zeitstempel alle 30 Sekunden. Bei lizenziertem Whisper / Audiotrans-Tool: AVV prüfen.
 3. **Sinnabschnitte bilden.** Audio ist linear, Text braucht Hierarchie. Drei bis fuenf Sinnabschnitte als Gliederungsgeruest.
 4. **Mundartliches kuerzen.** "Aehs", Wiederholungen, "wie ich vorhin schon sagte" raus. Sie-Ansprache des Publikums in indirekte Rede.
 5. **Quellen rekonstruieren.** Muendliche Halb-Zitate ("der Bundesgerichtshof hat ja vor ein paar Jahren entschieden") als Recherche-Auftrag an die Autorin zurueck.
@@ -56,7 +56,7 @@ Sie brauchen ihn, wenn Audio + Verschriftlichungsauftrag vorliegen. Klaeren Sie 
 - "Vortraege wirken im Druck immer 30 % laenger als beim Zuhoeren. Kuerzen Sie hart."
 - Schreiben Sie sich beim ersten Hoeren die Hauptthesen auf eine Seite - das ist Ihre Gliederung.
 - Quellen, die im Vortrag nur halb genannt wurden, niemals selber ergaenzen, immer ruecksprechen - die Autorin haftet, nicht der Verlag.
-- Wenn das Audio Zwischenrufe oder Fragen enthaelt, klaeren Sie, ob diese in den Druck sollen (dann anonymisieren) oder herausfallen.
+- Wenn das Audio Zwischenrufe oder Fragen enthaelt, klären Sie, ob diese in den Druck sollen (dann anonymisieren) oder herausfallen.
 
 ## Mustertexte / Vorlagen
 
@@ -88,7 +88,7 @@ Quellen-Lueckenliste:
 ## Quellen Stand 06/2026
 
 - UrhG §§ 31 ff., § 51, § 63, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
-- KUG § 22 für Persoenlichkeitsrecht (sinngemaess auch für Stimme zu beachten), [https://www.gesetze-im-internet.de/kunsturhg/](https://www.gesetze-im-internet.de/kunsturhg/).
+- KUG § 22 für Persoenlichkeitsrecht (sinngemäß auch für Stimme zu beachten), [https://www.gesetze-im-internet.de/kunsturhg/](https://www.gesetze-im-internet.de/kunsturhg/).
 - DSGVO Art. 6 bei personenbezogenen Daten in der Aufnahme.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, für Pinpoint-Disziplin.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023, zum Aufbau von Fachaufsaetzen.

@@ -7,20 +7,20 @@ description: "Den Tatbestand einer Anspruchsnorm in einzelne Merkmale zerlegen. 
 
 ## Worum geht es?
 
-Jede Anspruchsnorm hat **Tatbestandsmerkmale** — das sind die Voraussetzungen, die erfuellt sein muessen, damit die Rechtsfolge eintritt. Sie muessen **jedes Merkmal** vortragen und im Streitfall **beweisen** koennen. Wer ein Merkmal nicht beweist, verliert. Diese Skill zeigt, wie Sie eine Norm zerlegen und systematisch pruefen.
+Jede Anspruchsnorm hat **Tatbestandsmerkmale** — das sind die Voraussetzungen, die erfuellt sein müssen, damit die Rechtsfolge eintritt. Sie müssen **jedes Merkmal** vortragen und im Streitfall **beweisen** können. Wer ein Merkmal nicht beweist, verliert. Diese Skill zeigt, wie Sie eine Norm zerlegen und systematisch prüfen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie haben eine Anspruchsgrundlage identifiziert und wollen wissen, was Sie beweisen muessen.
+- Sie haben eine Anspruchsgrundlage identifiziert und wollen wissen, was Sie beweisen müssen.
 - Sie sind unsicher, ob Ihr Sachvortrag vollstaendig ist.
-- Sie haben einen Schriftsatz und wollen pruefen, ob alle Merkmale vorgetragen sind.
+- Sie haben einen Schriftsatz und wollen prüfen, ob alle Merkmale vorgetragen sind.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Tatbestand**: Die Voraussetzungen einer Norm, an deren Erfuellung die Rechtsfolge anknuepft.
 - **Tatbestandsmerkmal**: Einzelner Bestandteil des Tatbestands.
 - **Rechtsfolge**: Was die Norm anordnet, wenn der Tatbestand erfuellt ist.
-- **Subsumtion**: Die Pruefung, ob ein konkreter Sachverhalt unter ein Tatbestandsmerkmal faellt.
+- **Subsumtion**: Die Prüfung, ob ein konkreter Sachverhalt unter ein Tatbestandsmerkmal faellt.
 
 ## Rechtsgrundlagen
 
@@ -55,7 +55,7 @@ Pro Norm: Was muss ich behaupten und beweisen?
 
 Beispiel § 433 II BGB (Kaufpreisanspruch):
 
-- (1) Kaufvertrag (Einigung ueber Sache und Preis).
+- (1) Kaufvertrag (Einigung über Sache und Preis).
 - (2) Faelligkeit.
 - (3) Keine Erfuellung (Nichtzahlung).
 
@@ -87,7 +87,7 @@ Pro Tatsache: Mit was beweisen Sie?
 - Technisch: Sachverstaendiger.
 - Sache: Augenschein.
 
-### Schritt 6 — Pruefen, ob vollstaendig
+### Schritt 6 — Prüfen, ob vollstaendig
 
 Wenn ein Merkmal **nicht** belegt ist:
 
@@ -97,9 +97,9 @@ Wenn ein Merkmal **nicht** belegt ist:
 
 Beispiel: Sie behaupten Kauf, aber haben kein Schriftliches. Tat existiert. Sie brauchen Zeugen.
 
-### Schritt 7 — Beweislast pruefen
+### Schritt 7 — Beweislast prüfen
 
-Im Allgemeinen: Klaeger beweist anspruchsbegruendend, Beklagter beweist anspruchshindernd, -vernichtend, -hemmend.
+Im Allgemeinen: Kläger beweist anspruchsbegruendend, Beklagter beweist anspruchshindernd, -vernichtend, -hemmend.
 
 Beispiel § 280 I 2 BGB: "Dies gilt nicht, wenn der Schuldner die Pflichtverletzung nicht zu vertreten hat" → Beweislast-Umkehr. Beklagter (Schuldner) muss beweisen, dass er nicht zu vertreten hat. Skill `beweislast-grundregel-wer-was`.
 
@@ -114,26 +114,26 @@ Tatbestand:
 
 Sie als Geschaedigter beweisen Schaden, Betrieb, Kausalitaet. Halter (Beklagter) muss "hoehere Gewalt" beweisen (selten erfolgreich).
 
-### Schritt 9 — Was, wenn Sie ein Merkmal nicht koennen?
+### Schritt 9 — Was, wenn Sie ein Merkmal nicht können?
 
-- Pruefen Sie Indizien (Beweismittel zu Hilfstatsache).
-- Pruefen Sie Beweisanzeichen (Anscheinsbeweis).
-- Pruefen Sie Beweislast-Umkehr in Sondernormen.
+- Prüfen Sie Indizien (Beweismittel zu Hilfstatsache).
+- Prüfen Sie Beweisanzeichen (Anscheinsbeweis).
+- Prüfen Sie Beweislast-Umkehr in Sondernormen.
 
 Bei wirklich fehlendem Beweis: Anspruch scheitert. Skill `kein-beweis-folgen-laienwarnung`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Jedes Merkmal zaehlt** — auch das "kleinste" Merkmal kann den Prozess kippen.
 - **Beweismittel pro Merkmal** — nicht nur ein Beweis für alles.
-- **Beweislast pruefen**: Wer beweist?
+- **Beweislast prüfen**: Wer beweist?
 - **Indizien sammeln**: Bei schlechter Beweis-Lage Hilfstatsachen sammeln.
 
 ## Typische Fehler
 
 - "Ich beschreibe nur den Konflikt." → Tatbestandsmerkmale fehlen.
 - "Ich sage, der hat den Vertrag gebrochen." → Welcher? Welche Pflicht? Welche Verletzung?
-- "Beweise hat das Gericht selbst." → Sie muessen sie anbieten.
+- "Beweise hat das Gericht selbst." → Sie müssen sie anbieten.
 
 ## Quellen und Aktualitaet
 

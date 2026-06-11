@@ -23,7 +23,7 @@ description: "Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar na
 
 ## Fachkern: Post-Closing-Integration (PMI)
 
-- **Corporate-Aufgabe (Post-Closing-Integration (PMI)):** Unmittelbar nach Closing muessen Handelsregister, Vertraege, Organ-Strukturen und Steuereinheiten angepasst werden.
+- **Corporate-Aufgabe (Post-Closing-Integration (PMI)):** Unmittelbar nach Closing müssen Handelsregister, Verträge, Organ-Strukturen und Steuereinheiten angepasst werden.
 - **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
 - **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
 - **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
@@ -118,7 +118,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welche Handelsregister-Aenderungen sind erforderlich (neuer GF, Firmenname, Sitzverlegung)?
 2. Organschaft geplant? (Beherrschungs- und Gewinnabfuehrungsvertrag nach §§ 291 ff. AktG, steuerlich §§ 14 ff. KStG)
 3. § 613a BGB: Wurden Arbeitnehmer ordnungsgemaess informiert? Widerspruchsfristen beachtet?
-4. Change-of-Control-Vertraege: Wurden alle Consents fristgemaess eingeholt?
+4. Change-of-Control-Verträge: Wurden alle Consents fristgemaess eingeholt?
 5. Transition Services Agreement (TSA): Welche Dienstleistungen werden weiter bezogen/geliefert?
 6. D&O und andere Versicherungen: Runoff-Policy für altes Management; neue Police für neue Eigentuemerstruktur?
 7. Brandkarte: Umfirmierung, neues CI, IT-Systeme migrieren — Zeitplan?
@@ -137,12 +137,12 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Post-Closing-Aktionsplan: Priorisierte Massnahmen
+## Post-Closing-Aktionsplan: Priorisierte Maßnahmen
 
 ### Sofort (bis 2 Wochen post-Closing)
-- [ ] Handelsregister-Anmeldung (neuer GF, ggf. Firmenname) → Notar beauftragt; Frist pruefen
+- [ ] Handelsregister-Anmeldung (neuer GF, ggf. Firmenname) → Notar beauftragt; Frist prüfen
 - [ ] § 613a-Information an Arbeitnehmer (wenn Betriebsuebergang) → Musterbrief vorbereiten; individuell zustellen; Datum dokumentieren
-- [ ] Konten und Unterschriftsberechtigungen aendern → Bank informieren; neue SEPA-Mandate
+- [ ] Konten und Unterschriftsberechtigungen ändern → Bank informieren; neue SEPA-Mandate
 - [ ] Steuernummern / USt-ID umschreiben oder neu beantragen
 - [ ] Versicherungen anpassen: D&O, Betriebshaftpflicht; Runoff-Policy altes Management
 
@@ -166,20 +166,20 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Steuerliche Wirkung ab dem Wirtschaftsjahr, in dem die Eintragung im HR erfolgt
 
 ### Unternehmensvertrag (§§ 291-310 AktG)
-- Fuer AG/KGaA: Beherrschungsvertrag (Weisungsrecht der Mutter); Gewinnabfuehrungsvertrag (Gewinnabfuehrung an Mutter)
+- Für AG/KGaA: Beherrschungsvertrag (Weisungsrecht der Mutter); Gewinnabfuehrungsvertrag (Gewinnabfuehrung an Mutter)
 - HV-Beschluss mit 3/4-Mehrheit beider Gesellschaften; Minderheitsschutz: Ausgleich und Abfindung (§§ 304-305 AktG)
-- Fuer GmbH: kein gesetzliches Erfordernis für HV-Beschluss, aber Notarpflicht und Eintragung empfohlen
+- Für GmbH: kein gesetzliches Erfordernis für HV-Beschluss, aber Notarpflicht und Eintragung empfohlen
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Post-Closing Checklist abarbeiten** — tagesgenau; Owner für jede Massnahme
+1. **Post-Closing Checklist abarbeiten** — tagesgenau; Owner für jede Maßnahme
 2. **HR-Anmeldungen** — Notar beauftragen; Begleitunterlagen vorbereiten (Gesellschafterbeschluesse)
 3. **§ 613a-Information** — Unterrichtungsschreiben ausfertigen; individuell an jeden Arbeitnehmer; Datum beweissicher dokumentieren
 4. **CoC-Consents bestaetigend dokumentieren** — Schriftbestaetigung der Vertragspartner einholen
 5. **TSA-Management** — Leistungsverzeichnis; Abnahme-Protokoll; Exit-Meilensteine
 6. **Organschaft einrichten** — GAV-Entwurf; notariell beurkunden; HR-Anmeldung; steuerliche Beantragung
 7. **IT-Migration** — Datenbestands-Uebertragung; DSGVO-Datenschutz; AVV-Anpassung
-8. **Abschluss-PMI-Bericht** — Status aller Massnahmen; Abweichungen dokumentieren; Closing-Bible erganzen
+8. **Abschluss-PMI-Bericht** — Status aller Maßnahmen; Abweichungen dokumentieren; Closing-Bible erganzen
 
 ## Output-Template § 613a Informationsschreiben
 
@@ -214,7 +214,7 @@ Mit freundlichen Gruessen
 
 ## Rote Schwellen
 
-- § 613a-Information vergessen oder unvollstaendig → Widerspruchsfrist laeuft nie ab; spaetere Widersprueche moeglich
+- § 613a-Information vergessen oder unvollstaendig → Widerspruchsfrist laeuft nie ab; spaetere Widersprueche möglich
 - Organschaft-GAV unter 5 Jahre → rueckwirkende Steuerpflicht; erhebliche Nachzahlungen
 - CoC-Consents nicht dokumentiert → Vertragskuendigungen post-Closing unbemerkt
 - TSA ohne Exit-Plan → dauerhafte Abhaengigkeit von altem Konzern

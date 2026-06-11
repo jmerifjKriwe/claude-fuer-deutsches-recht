@@ -7,7 +7,7 @@ description: "Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einb
 
 ## Arbeitsbereich
 
-Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht möglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach 
 
 ## Worum geht es?
 
-Wenn eine nachtraegliche Gesamtstrafenbildung nach § 55 StGB **nicht** moeglich ist — typischerweise weil die fruehere Strafe bereits vollstreckt, verjaehrt oder erlassen ist (auch nach abgelaufener Bewaehrung) —, kann der **Haerteausgleich** als nicht-kodifiziertes, von der staendigen Rechtsprechung entwickeltes Instrument zum Tragen kommen. Er gleicht die zufaelligen Nachteile aus, die durch die getrennte Aburteilung entstehen.
+Wenn eine nachtraegliche Gesamtstrafenbildung nach § 55 StGB **nicht** möglich ist — typischerweise weil die fruehere Strafe bereits vollstreckt, verjaehrt oder erlassen ist (auch nach abgelaufener Bewaehrung) —, kann der **Haerteausgleich** als nicht-kodifiziertes, von der staendigen Rechtsprechung entwickeltes Instrument zum Tragen kommen. Er gleicht die zufaelligen Nachteile aus, die durch die getrennte Aburteilung entstehen.
 
 **BGH-staendige Linie**: Der Schutzzweck des § 55 StGB darf nicht durch verfahrenstechnische Zufaelle (Reihenfolge der Verurteilungen, Tempo der Vollstreckung, Ausland) entwertet werden. Wenn eine Einbeziehung an einem ausserhalb der Schuld liegenden Umstand scheitert, ist ein Strafabschlag zu gewaehren. **Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.**
 
@@ -27,8 +27,8 @@ Wenn eine nachtraegliche Gesamtstrafenbildung nach § 55 StGB **nicht** moeglich
 
 - Mandant ist bereits einmal verurteilt; die fruehere Strafe wurde mittlerweile vollstreckt oder die Bewaehrung ist erlassen worden.
 - Eine weitere Tat des Mandanten, die er **vor** der frueheren Verurteilung begangen hat, wird nun abgeurteilt.
-- Sie pruefen ein Urteil, das die Sondersituation uebersehen hat.
-- Auslandsstrafen liegen vor und koennen nicht einbezogen werden.
+- Sie prüfen ein Urteil, das die Sondersituation uebersehen hat.
+- Auslandsstrafen liegen vor und können nicht einbezogen werden.
 
 ## Rechtliche Grundlagen
 
@@ -59,7 +59,7 @@ Auslandsstrafen werden grundsätzlich **nicht** in eine nachträgliche Gesamtstr
 
 Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
 
-## Hoehe und Form des Haerteausgleichs
+## Höhe und Form des Haerteausgleichs
 
 - **Kein** starres Berechnungsschema.
 - **Orientierung**: Was waere die Gesamtstrafe gewesen, wenn beide Taten in einem Verfahren abgeurteilt worden waeren?
@@ -68,9 +68,9 @@ Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
-1. **Vorverurteilungen** und Status pruefen: BZRG-Auszug, Vollstreckungsakte, Bewaehrungsentscheidungen.
-2. **Zaesur-Pruefung**: Wurde die abzuurteilende Tat **vor** der frueheren Verurteilung begangen?
-3. **Einbeziehung pruefen** (§ 55 StGB):
+1. **Vorverurteilungen** und Status prüfen: BZRG-Auszug, Vollstreckungsakte, Bewaehrungsentscheidungen.
+2. **Zaesur-Prüfung**: Wurde die abzuurteilende Tat **vor** der frueheren Verurteilung begangen?
+3. **Einbeziehung prüfen** (§ 55 StGB):
  - Ist die fruehere Strafe noch offen? Dann § 55 StGB; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
  - Ist sie schon vollstreckt / erlassen / verjaehrt? Dann **Haerteausgleich**.
 4. **Antrag** in der Hauptverhandlung oder im Schriftsatz:
@@ -85,7 +85,7 @@ Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
  zu einer wesentlich niedrigeren Gesamtstrafe gefuehrt.
  ```
 
-5. **Hoehe** des Haerteausgleichs vortragen:
+5. **Höhe** des Haerteausgleichs vortragen:
  - Hypothetische Gesamtstrafe bei gemeinsamer Aburteilung berechnen.
  - Differenz zwischen dieser hypothetischen Gesamtstrafe und der jetzt zu erwartenden kumulierten Strafenlast.
  - Strafabschlag konkret beantragen (z.B. "Strafabschlag von [X] Monaten" oder "Reduktion der zu verhaengenden Strafe um etwa [X] %").
@@ -104,11 +104,11 @@ Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
 
 ### Bewaehrungswiderruf-Drohung
 
-Wenn die fruehere Strafe noch in Bewaehrung laeuft, ist die Einbeziehung nach § 55 StGB zumeist guenstiger als ein Bewaehrungswiderruf (§ 56f StGB) + getrennte neue Strafe. Verteidiger pruefen, welcher Weg wirtschaftlich besser ist; vgl. `bewaehrungswiderruf-56f-stgb`.
+Wenn die fruehere Strafe noch in Bewaehrung laeuft, ist die Einbeziehung nach § 55 StGB zumeist guenstiger als ein Bewaehrungswiderruf (§ 56f StGB) + getrennte neue Strafe. Verteidiger prüfen, welcher Weg wirtschaftlich besser ist; vgl. `bewaehrungswiderruf-56f-stgb`.
 
 ### Mehrere Zaesuren
 
-Bei mehreren Vorverurteilungen ist sorgfaeltig zu pruefen, welche Strafen einbeziehbar sind und welche nicht — und ob für die nicht einbeziehbaren ein Haerteausgleich vorzunehmen ist.
+Bei mehreren Vorverurteilungen ist sorgfaeltig zu prüfen, welche Strafen einbeziehbar sind und welche nicht — und ob für die nicht einbeziehbaren ein Haerteausgleich vorzunehmen ist.
 
 ### Geldstrafe schon gezahlt
 
@@ -134,7 +134,7 @@ Haerteausgleich.
 ## Typische Fehler
 
 - **Haerteausgleich uebersehen**: revisionsrechtlich relevanter Strafzumessungsmangel.
-- **Hoehe pauschal**: Das Gericht muss die hypothetische Gesamtstrafe und die Differenz nachvollziehbar machen.
+- **Höhe pauschal**: Das Gericht muss die hypothetische Gesamtstrafe und die Differenz nachvollziehbar machen.
 - **Verwechslung mit § 55 StGB**: Haerteausgleich ist subsidiaer; vorrangig ist die Einbeziehung nach § 55 StGB.
 - **§ 55 StGB-Voraussetzungen** nicht systematisch geprueft: zuerst Zaesur, dann Status der frueheren Strafe.
 - **Bewaehrungsstrafe** als "erlassen" angesehen, obwohl die Bewaehrung noch laeuft.
@@ -142,7 +142,7 @@ Haerteausgleich.
 
 ## Quellen-Recherche-Hinweis
 
-Die BGH-Rspr. zum Haerteausgleich bei nicht moeglicher Einbeziehung nach § 55 StGB ist umfangreich und gefestigt; Leitentscheidungen finden sich beispielsweise in BGHSt-Bestaenden zur Gesamtstrafenbildung. **Vor Zitat im Schriftsatz immer Aktenzeichen in dejure.org oder openjur.de verifizieren**, da konkrete Az nicht aus Modellwissen uebernommen werden duerfen (vgl. Quellenregel `references/zitierweise.md`).
+Die BGH-Rspr. zum Haerteausgleich bei nicht moeglicher Einbeziehung nach § 55 StGB ist umfangreich und gefestigt; Leitentscheidungen finden sich beispielsweise in BGHSt-Bestaenden zur Gesamtstrafenbildung. **Vor Zitat im Schriftsatz immer Aktenzeichen in dejure.org oder openjur.de verifizieren**, da konkrete Az nicht aus Modellwissen uebernommen werden dürfen (vgl. Quellenregel `references/zitierweise.md`).
 
 ## Quellen und Stand 05/2026
 

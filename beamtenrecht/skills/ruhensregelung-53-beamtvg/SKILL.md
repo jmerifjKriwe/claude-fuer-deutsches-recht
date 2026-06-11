@@ -15,20 +15,20 @@ description: "Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkom
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher Hoehe Versorgungsbezuege gekuerzt werden, wenn der Versorgungsempfaenger Einkommen aus selbststaendiger oder nichtselbststaendiger Erwerbstaetigkeit erzielt.
+Skill für Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher Höhe Versorgungsbezuege gekuerzt werden, wenn der Versorgungsempfaenger Einkommen aus selbststaendiger oder nichtselbststaendiger Erwerbstaetigkeit erzielt.
 
 ## 2. Eingaben
 
 - Ruhestandsbescheid und Versorgungsbezuegemitteilung
 - Datum Eintritt in den Ruhestand (regulaerer Ruhestand vor Regelaltersgrenze, Ruhestand wegen Dienstunfaehigkeit)
-- Art und Hoehe des Erwerbseinkommens
+- Art und Höhe des Erwerbseinkommens
 - Datum des Beginns des Erwerbseinkommens
 - Arbeitgeber im öffentlichen Dienst oder Privatwirtschaft
 
 ## 3. Ablauf / Checkliste
 
 ### a) Grundprinzip
-- Versorgungsbezuege werden bis zur Hoehe einer Hoechstgrenze geschmaelert, wenn der Versorgungsempfaenger Erwerbs- oder Erwerbsersatzeinkommen bezieht.
+- Versorgungsbezuege werden bis zur Höhe einer Hoechstgrenze geschmaelert, wenn der Versorgungsempfaenger Erwerbs- oder Erwerbsersatzeinkommen bezieht.
 
 ### b) Hoechstgrenze
 - Hoechstgrenze typischerweise die ruhegehaltfaehigen Dienstbezuege zum Zeitpunkt des Eintritts in den Ruhestand. Bei Dienstunfaehigkeitsruhestand vor Regelaltersgrenze gelten besondere Grenzen.
@@ -40,7 +40,7 @@ Skill für Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher
 - Einkommen aus Beschaeftigung im öffentlichen Dienst wird in vollem Umfang angerechnet (§ 53 BeamtVG zusammen mit § 56).
 
 ### e) Endgueltige Berechnung
-- Nach Erreichen der Regelaltersgrenze entfaellt die Anrechnung weitgehend (Ausnahmen pruefen).
+- Nach Erreichen der Regelaltersgrenze entfaellt die Anrechnung weitgehend (Ausnahmen prüfen).
 - Beginn und Ende der Hinzuverdienstphase exakt dokumentieren.
 
 ## 4. Quellenpflicht
@@ -52,7 +52,7 @@ Skill für Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher
 ## 5. Ausgabeformat
 
 - Tabelle "Monat — Bezuege Brutto — Erwerbseinkommen — Hoechstgrenze — Ruhensbetrag — Auszahlung".
-- Beratungsschreiben für Mandanten zur Entscheidung ueber Aufnahme einer Erwerbstaetigkeit.
+- Beratungsschreiben für Mandanten zur Entscheidung über Aufnahme einer Erwerbstaetigkeit.
 
 ## 6. Verifizierte Quellenanker
 

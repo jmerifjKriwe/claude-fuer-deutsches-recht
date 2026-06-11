@@ -21,11 +21,11 @@ Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Ab
 
 - Fleischimporteur moechte Rindfleiisch aus Uruguay zu Vorzugszollsatz importieren; TRQ-Zuteilung beantragt.
 - Stahleinfuhr aus Drittlaendern; Safeguard-Kontingent fast erschoepft; kritisches Kontingent-Management.
-- Textilinporteur stellt fest, dass Kontingent für bevorzugte Lieferung nicht ausgeschoepft ist; Uebertragung moeglich?
+- Textilinporteur stellt fest, dass Kontingent für bevorzugte Lieferung nicht ausgeschoepft ist; Uebertragung möglich?
 
 ## Erste Schritte
 
-1. TARIC-Datenbank auf Kontingente für betroffene Waren und Ursprungslaender pruefen.
+1. TARIC-Datenbank auf Kontingente für betroffene Waren und Ursprungslaender prüfen.
 2. Kontingentart bestimmen: autonom, praeferenziell, TRQ aus Handelsabkommen.
 3. Kontingentlizenzen bei der zustendigen Stelle beantragen (z.B. BLE für Agrar-TRQ).
 4. Kontingenterschoepfung und kritischen Status in TARIC kontinuierlich monitoring.

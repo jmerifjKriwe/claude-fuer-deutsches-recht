@@ -134,7 +134,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Triage
 
-1. Was ist die Deal-Komplexitaet — Gross-Transaktion (Cross-border, Multi-Jurisdiktion) oder Standard-M&A?
+1. Was ist die Deal-Komplexitaet — Groß-Transaktion (Cross-border, Multi-Jurisdiktion) oder Standard-M&A?
 2. Welche Workstreams sind zu besetzen — Corporate, Steuer, Arbeitsrecht, IP, Real Estate, Regulatory, Finance?
 3. Welche Kapazitaeten sind intern verfuegbar — Senior Associate, Associate, Partner?
 4. Sind externe Co-Counsel oder lokale Kanzleien für andere Jurisdiktionen erforderlich?
@@ -144,7 +144,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - § 43a BRAO — Interessenkonflikt innerhalb des Deal-Teams: jeder Teamanwalt muss conflicts-geprueft sein
 - §§ 10, 11 GwG — GwG-Pflichten gelten für alle eingebundenen Berufsträger; Teamleiter traegt Gesamtverantwortung
-- § 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten vertragliche Vereinbarung ueber Abrechnungsmodalitaeten; schriftliche Basis empfohlen
+- § 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten vertragliche Vereinbarung über Abrechnungsmodalitaeten; schriftliche Basis empfohlen
 
 ## Aktuelle Rechtsprechung
 
@@ -153,7 +153,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Schritt-für-Schritt-Workflow
 
 1. **Workstream-Matrix erstellen:** je Workstream: Leader, Reviewer, Associate, Deadline
-2. **Kapazitaetspruefung:** interne Verfuegbarkeit pruefen; bei Engpass: Co-Counsel-Einbindung
+2. **Kapazitaetspruefung:** interne Verfuegbarkeit prüfen; bei Engpass: Co-Counsel-Einbindung
 3. **Conflicts-Check für gesamtes Team:** § 43a BRAO; alle Teamanwaltseintragungen im Conflicts-System
 4. **Eskalationswege definieren:** wer entscheidet bei Red Flag, Deal-Breaker, Media-Anfragen?
 5. **Honorarstruktur abstimmen:** Budget-Tracking, weekly Status, Kunden-Reporting

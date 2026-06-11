@@ -67,7 +67,7 @@ Auswirkung auf Verfahrensergebnis: [...]
 ## Leitentscheidungen Weitere Marktdefinition
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Weiter Markt Wearables; Substitution zwischen Smart-Watch und Fitness-Band trotz Unterschiede moeglich.
+- EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Weiter Markt Wearables; Substitution zwischen Smart-Watch und Fitness-Band trotz Unterschiede möglich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Standardformulierung für Schriftsatz
@@ -106,5 +106,5 @@ Wenn nationale Marktdefinition angegriffen werden soll:
 ### Anwendung im Skill
 
 - Marktabgrenzung nach SSNIP-Test sauber durchfuehren; Bekanntmachung der Kommission 2024/C berücksichtigen.
-- Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie pruefen.
+- Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie prüfen.
 - § 19a GWB-Verfahren sind eigenstaendig vom Marktmissbrauch nach § 19 GWB; Befugnisse und Rechtsfolgen unterscheiden.

@@ -36,10 +36,10 @@ Ein Gebrauchsmuster soll angemeldet werden.
 
 ### Gebühren (DPMA-Gebührentarif live verifizieren)
 - Anmeldegebuehr.
-- Aufrechterhaltungsgebuehren mit ansteigender Hoehe (3., 6., 8. Jahr).
+- Aufrechterhaltungsgebuehren mit ansteigender Höhe (3., 6., 8. Jahr).
 
 ### Eintragung
-- DPMA prueft **nur formell** (§ 8 GebrMG).
+- DPMA prüft **nur formell** (§ 8 GebrMG).
 - Eintragung erfolgt typischerweise binnen 2-6 Monaten.
 - Veroeffentlichung im Patentblatt.
 

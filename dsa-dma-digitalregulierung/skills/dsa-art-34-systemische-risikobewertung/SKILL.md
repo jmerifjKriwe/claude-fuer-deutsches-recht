@@ -7,7 +7,7 @@ description: "Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchf
 
 ## Arbeitsbereich
 
-Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte, Grundrechte, zivilgesellschaftlicher Diskurs/Wahlen, Minderjaerigenschutz/Gesundheit). Prüfraster: Risikoidentifikation je Kategorie, Methodik, Berichtspflicht, Audit-Schnittstelle Art. 37 DSA. Output Risikobewertungs-Template, Methodenbeschreibung, Audit-Vorbereitung. Abgrenzung: VLOP-Einordnung vorher siehe dsa-vlop-vlose-einordnung-und-pflichten; Forschungsdatenzugang siehe dsa-art-40-forschungsdatenzugang-algorithmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Große Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte, Grundrechte, zivilgesellschaftlicher Diskurs/Wahlen, Minderjaerigenschutz/Gesundheit). Prüfraster: Risikoidentifikation je Kategorie, Methodik, Berichtspflicht, Audit-Schnittstelle Art. 37 DSA. Output Risikobewertungs-Template, Methodenbeschreibung, Audit-Vorbereitung. Abgrenzung: VLOP-Einordnung vorher siehe dsa-vlop-vlose-einordnung-und-pflichten; Forschungsdatenzugang siehe dsa-art-40-forschungsdatenzugang-algorithmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -105,10 +105,10 @@ Nicht-abschließender Katalog möglicher Maßnahmen:
 
 ## Faktische Updates (Stand 05/2026)
 
-- **Risikobewertungs-Reports:** Die ersten Risikobewertungs-Reports nach Art. 34 DSA (mit Verzoegerung wegen vierjaehriger Designation und Audit-Methodik-Entwicklung) wurden von VLOPs veroeffentlicht. Stand und Reports live ueber digital-strategy.ec.europa.eu sowie VLOP-Transparency-Center pruefen.
+- **Risikobewertungs-Reports:** Die ersten Risikobewertungs-Reports nach Art. 34 DSA (mit Verzoegerung wegen vierjaehriger Designation und Audit-Methodik-Entwicklung) wurden von VLOPs veroeffentlicht. Stand und Reports live über digital-strategy.ec.europa.eu sowie VLOP-Transparency-Center prüfen.
 - **Schnittstelle KI-VO:** Bei KI-Systemen, die in VLOP-Empfehlungssystemen, Inhaltsmoderation oder Werbeauslieferung eingesetzt werden, ueberlagern sich DSA-Risikobewertung (Art. 34) und KI-VO-Risikomanagement (Art. 9). Bei Anhang-III-Hochrisiko-Systemen integrierte Bewertung dokumentieren.
-- **Art. 36 DSA Krisenmechanismus:** Aktivierungs- und Anwendungspraxis der Kommission live ueber digital-strategy.ec.europa.eu pruefen (z.B. Wahlperioden, Konflikte).
-- **EuG-Verfahren zu Risikobewertung:** Mehrere VLOPs greifen Kommissions-Auskunftsverlangen / Aufsichtsmassnahmen an. Live ueber curia.europa.eu pruefen.
+- **Art. 36 DSA Krisenmechanismus:** Aktivierungs- und Anwendungspraxis der Kommission live über digital-strategy.ec.europa.eu prüfen (z.B. Wahlperioden, Konflikte).
+- **EuG-Verfahren zu Risikobewertung:** Mehrere VLOPs greifen Kommissions-Auskunftsverlangen / Aufsichtsmassnahmen an. Live über curia.europa.eu prüfen.
 
 ## Zentrale Normen (Paragrafenkette)
 

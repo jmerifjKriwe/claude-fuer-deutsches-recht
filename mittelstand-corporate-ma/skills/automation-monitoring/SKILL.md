@@ -146,7 +146,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ### Zentrale Normen
 - § 43a BRAO — anwaltliche Pflichten: vollstaendige Mandatsfuehrung; Sorgfaltspflichten gelten auch für automatisierte Prozesse
 - §§ 675, 280 BGB — Beraterhaftung bei Pflichtverletzung; gilt auch für Organisation und Monitoring
-- § 49b BRAO — Honorarvereinbarung: Abrechnungsmodalitaeten muessen transparent und schriftlich vereinbart sein
+- § 49b BRAO — Honorarvereinbarung: Abrechnungsmodalitaeten müssen transparent und schriftlich vereinbart sein
 - §§ 93, 116 AktG; § 43 GmbHG — Business Judgment Rule: Entscheidung auf ausreichender Informationsgrundlage; Dokumentationspflicht
 
 ### Leitsaetze

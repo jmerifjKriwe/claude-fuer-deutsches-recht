@@ -14,7 +14,7 @@ description: "SaaS-Vertrag mit AVV nach Art: 28 DSGVO und Transfer Impact Assess
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** SaaS-Vertrag mit AVV nach Art. 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-für-Schritt für Bundle-Erstellung. EuGH C-311/18 Schrems II EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework Durchfuehrungsbeschluss 2023/1795 vom 10.07.2023. EDSA Empfehlungen 01/2020 Version 2.0. Mustertexte für Bundle-Anlage und TIA-Skeleton. Abgrenzung: keine reine AVV-Pruefung (avv-art-28-mindestinhalte-checkliste) keine Cloud-Due-Diligence (it-recht-cloud-vertrag-datenschutz-due-diligence).
+**Fokus:** SaaS-Vertrag mit AVV nach Art. 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-für-Schritt für Bundle-Erstellung. EuGH C-311/18 Schrems II EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework Durchfuehrungsbeschluss 2023/1795 vom 10.07.2023. EDSA Empfehlungen 01/2020 Version 2.0. Mustertexte für Bundle-Anlage und TIA-Skeleton. Abgrenzung: keine reine AVV-Prüfung (avv-art-28-mindestinhalte-checkliste) keine Cloud-Due-Diligence (it-recht-cloud-vertrag-datenschutz-due-diligence).
 
 ### IT-Recht — SaaS mit AVV und TIA als Bundle
 
@@ -39,7 +39,7 @@ Sieben-Fragen-Diagnose:
 - **Art. 44 DSGVO** Allgemeines Prinzip Drittlandstransfer.
 - **Art. 45 DSGVO** Angemessenheitsbeschluss; EU-US Data Privacy Framework Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023.
 - **Art. 46 DSGVO** SCC 2021/914.
-- **EuGH C-311/18 Schrems II** (Urteil 16.07.2020): SCC nur ausreichend mit zusaetzlichen Massnahmen, wenn Drittlandrecht keinen vergleichbaren Schutz bietet.
+- **EuGH C-311/18 Schrems II** (Urteil 16.07.2020): SCC nur ausreichend mit zusaetzlichen Maßnahmen, wenn Drittlandrecht keinen vergleichbaren Schutz bietet.
 - **EDSA Empfehlungen 01/2020** Version 2.0 (angenommen 18.06.2021): Sechs-Schritte-Methodik für TIA.
 - **EDSA Empfehlungen 02/2020** (Version 2.0 angenommen 18.06.2021): Europaeische wesentliche Garantien.
 - **FISA 702 USA** (50 USC 1881a) und Executive Order 12333.
@@ -48,12 +48,12 @@ Sieben-Fragen-Diagnose:
 ## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst: Mapping.** Welche SaaS-Dienste mit welchen Datenkategorien laufen?
-2. **Als zweites: DPF-Pruefung.** Auf dataprivacyframework.gov pruefen, ob der konkrete Anbieter zertifiziert ist. Wenn ja: Angemessenheitsbeschluss reicht; SCC als Backup empfohlen.
-3. **Als drittes: AVV pruefen.** Mindestinhalte Art. 28 III.
+2. **Als zweites: DPF-Prüfung.** Auf dataprivacyframework.gov prüfen, ob der konkrete Anbieter zertifiziert ist. Wenn ja: Angemessenheitsbeschluss reicht; SCC als Backup empfohlen.
+3. **Als drittes: AVV prüfen.** Mindestinhalte Art. 28 III.
 4. **Als viertes: SCC abschliessen.** Auch wenn DPF zertifiziert, als Backup im Bundle Modul 2 (Verantwortlicher zu Auftragsverarbeiter) oder Modul 3 (Auftragsverarbeiter zu Auftragsverarbeiter) — je nach Rolle.
-5. **Als fuenftes: TIA durchfuehren.** Sechs Schritte EDSA: (1) Datenfluss kennen, (2) Tool wahlen, (3) Drittlandsrecht pruefen, (4) Zusatzmassnahmen pruefen, (5) Verfahrensschritte, (6) Re-Evaluierung.
+5. **Als fuenftes: TIA durchfuehren.** Sechs Schritte EDSA: (1) Datenfluss kennen, (2) Tool wahlen, (3) Drittlandsrecht prüfen, (4) Zusatzmassnahmen prüfen, (5) Verfahrensschritte, (6) Re-Evaluierung.
 6. **Als sechstes: Zusatzmassnahmen.** Verschluesselung Customer Managed Key, Pseudonymisierung, vertragliche Garantien.
-7. **NICHT** ausschliesslich auf DPF vertrauen — Schrems III ist anhaengig (EuGH C-589/22 Latombe). Backup SCC empfohlen.
+7. **NICHT** ausschließlich auf DPF vertrauen — Schrems III ist anhaengig (EuGH C-589/22 Latombe). Backup SCC empfohlen.
 
 ## Trade-off-Matrix
 
@@ -95,7 +95,7 @@ Anlage 6: Zertifizierungen (DPF-Listung, ISO 27001, SOC 2)
 >
 > Schritt 3 — Drittlandrecht
 > - Einschlaegige Ueberwachungsgesetze: [FISA 702 / EO 12333 / nationales Sicherheitsrecht]
-> - Anbieter konkret betroffen: [Pruefung]
+> - Anbieter konkret betroffen: [Prüfung]
 > - EDSA Empfehlungen 02/2020 europaeische wesentliche Garantien erfuellt: [ja / nein / teilweise]
 >
 > Schritt 4 — Zusatzmassnahmen
@@ -108,7 +108,7 @@ Anlage 6: Zertifizierungen (DPF-Listung, ISO 27001, SOC 2)
 > - Verantwortlicher: [Person]
 >
 > Schritt 6 — Re-Evaluierung
-> - Naechste Pruefung: [Datum, mindestens jaehrlich]
+> - Naechste Prüfung: [Datum, mindestens jaehrlich]
 > - Trigger für Sofortpruefung: [neue EuGH-Entscheidung, neuer DPF-Status, Anbieterwechsel]
 
 ### Klausel "DPF und SCC kombiniert"

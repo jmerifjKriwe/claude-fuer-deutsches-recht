@@ -22,11 +22,11 @@ description: "Hilft bei Auslaenderrecht Warnwoerter für Menschen mit Deutsch al
 - **Verzicht auf Anhörungsrecht** im Asylverfahren: Nie verzichten -- Anhörung ist Kernstueck (§ 25 AsylG).
 - **Folgeantrag**: nur unter engen Voraussetzungen (§ 71 AsylG); Beratung nutzen.
 - **Mitwirkungspflicht (§ 15 AsylG / § 82 AufenthG)**: aktive Mitwirkung an Identitaetsklaerung, Reisepass besorgen.
-- **"freiwillige Ausreise"**: zaehlt im Verfahren als Verzicht auf Aufenthalt; Folgen pruefen.
+- **"freiwillige Ausreise"**: zaehlt im Verfahren als Verzicht auf Aufenthalt; Folgen prüfen.
 - **Eingangsdatum Bescheid**: ist Beginn der Klagefrist (§ 74 AsylG: 1 oder 2 Wochen; bei AufenthG: 1 Monat § 74 VwGO).
 
 ## Vor jeder Unterschrift / Erklaerung
-- Habe ich Anspruch auf einen kostenlosen Anwalt? Bei VG-Klage Prozesskostenhilfe pruefen.
+- Habe ich Anspruch auf einen kostenlosen Anwalt? Bei VG-Klage Prozesskostenhilfe prüfen.
 - Habe ich das Dokument verstanden? Recht auf Dolmetscher im Asylverfahren (§ 17 AsylG).
 - Frist im Bescheid genau markieren. Klagefrist nicht verstreichen lassen.
 - Beratung bei Caritas, Diakonie, Fluechtlingsrat, Verfahrensberatung.

@@ -19,11 +19,11 @@ description: "Klage gegen Budgetbescheid (Land) oder Schiedsstellenentscheidung:
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Sozialgericht (SGB-V-Bezug) oder Verwaltungsgericht (KHG-Bezug) angefochten werden. Die Rechtswegabgrenzung haengt vom Streitgegenstand ab. Klagearten und Fristen sind unterschiedlich.
+Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen können vor dem Sozialgericht (SGB-V-Bezug) oder Verwaltungsgericht (KHG-Bezug) angefochten werden. Die Rechtswegabgrenzung haengt vom Streitgegenstand ab. Klagearten und Fristen sind unterschiedlich.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Liegt Budgetbescheid (Landesplanungsbehoerde) oder Schiedsstellenentscheidung (§ 18a KHG) vor?
-- Welcher Streitgegenstand: Erloesbudget, Pflegesatz, Verguetung, Versorgungsauftrag?
+- Welcher Streitgegenstand: Erloesbudget, Pflegesatz, Vergütung, Versorgungsauftrag?
 - Ist Frist (1 Monat) eingehalten?
 - Welche Klageart (Anfechtung, Leistung, Feststellung, Verpflichtung)?
 - Eilbeduerftigkeit gegeben (Liquiditaet, Sofortvollzug)?
@@ -40,12 +40,12 @@ Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Soz
 1. **Streitgegenstand klassifizieren:** Verguetungsstreit ↔ Strukturstreit; SGB V ↔ KHG.
 2. **Rechtsweg bestimmen:**
  - Schiedsstellenentscheidung nach KHG → Verwaltungsgericht (§ 18a Abs. 4 KHG).
- - Verguetung im Einzelfall (Abrechnungsstreit) → Sozialgericht.
+ - Vergütung im Einzelfall (Abrechnungsstreit) → Sozialgericht.
  - Versorgungsauftrag § 109 SGB V → Sozialgericht.
-3. **Klageart pruefen:** Anfechtung, Feststellung, Leistung, Verpflichtung.
+3. **Klageart prüfen:** Anfechtung, Feststellung, Leistung, Verpflichtung.
 4. **Frist sichern:** 1 Monat ab Zustellung (§ 70 VwGO/§ 87 SGG).
-5. **Eilbeduerftigkeit pruefen:** § 80 Abs. 5 VwGO / § 86b SGG.
-6. **Begruendung:** Sachverhaltsfeststellung, Ermessen, Verhaeltnismaessigkeit, Verfahrensfehler, materielle Bewertung.
+5. **Eilbeduerftigkeit prüfen:** § 80 Abs. 5 VwGO / § 86b SGG.
+6. **Begruendung:** Sachverhaltsfeststellung, Ermessen, Verhältnismäßigkeit, Verfahrensfehler, materielle Bewertung.
 
 ## Trade-off-Matrix
 
@@ -59,7 +59,7 @@ Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Soz
 
 ## Praxistipps
 - Schiedsstellenentscheidung ist VA mit Klagerecht beim VG (§ 18a Abs. 4 KHG); kein Vorverfahren.
-- Bei Mischsachverhalten (Verguetung + Struktur) kann Streit auf beide Gerichtsbarkeiten verteilt sein — Doppelklage pruefen.
+- Bei Mischsachverhalten (Vergütung + Struktur) kann Streit auf beide Gerichtsbarkeiten verteilt sein — Doppelklage prüfen.
 - Einstweiliger Rechtsschutz: § 80 Abs. 5 VwGO bei Sofortvollzug; § 86b SGG bei sozialgerichtlichem Eilfall.
 - Klagebegruendung muss Sachverhaltsfeststellung des Bescheids konkret angreifen — nicht nur Ergebnis.
 - BVerwG/BSG haben staend. Rspr. zur Schiedsstellenkontrolle: nur eingeschraenkte Pruefdichte (Beurteilungsspielraum).

@@ -36,17 +36,17 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: Deutschland und Malta haben das MLI ratifiziert; DBA-DE-MT gilt MLI-modifiziert (PPT-Klausel wirksam ab 01.01.2025, MLI-Anwendungsgesetz 2024). Aktuellen Synthesetext im BMF-Verzeichnis pruefen.
+- **MLI**: Deutschland und Malta haben das MLI ratifiziert; DBA-DE-MT gilt MLI-modifiziert (PPT-Klausel wirksam ab 01.01.2025, MLI-Anwendungsgesetz 2024). Aktuellen Synthesetext im BMF-Verzeichnis prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zu Malta-Holdings und § 50d Abs. 3 EStG in freier amtlicher Quelle abrufen.
-- Aktuelle BMF-Schreiben zum Malta-Refund-System im BMF-Schreiben-Verzeichnis pruefen.
+- Aktuelle BMF-Schreiben zum Malta-Refund-System im BMF-Schreiben-Verzeichnis prüfen.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit (Art. 4)
 - OECD-Tie-Breaker.
-- Maltesisches "domicile and residence"-System: pruefen, ob volle DBA-Ansaessigkeit.
+- Maltesisches "domicile and residence"-System: prüfen, ob volle DBA-Ansaessigkeit.
 
 ### Betriebsstaette
 - Bauausfuehrung **12 Monate**.
@@ -65,14 +65,14 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 ### Besonderheiten
 - **Maltesisches Refund-System**: Bei Ausschuettung aus maltesischer Tochter erhaelt Empfaenger 6/7 der gezahlten KSt refundiert — effektive Belastung sehr niedrig.
 - **CFC** § 7 ff. AStG: bei passiven Einkuenften und niedriger effektiver Steuer; AStG-Niedrigsteuerschwelle ab VZ 2024 auf 15 Prozent abgesenkt (Mindestbesteuerungsumsetzungsgesetz 21.12.2023).
-- **REIT-Strukturen Malta**: Sonderbesteuerung Vermietungseinkuenfte nach maltesischem Recht — konkrete DBA-Berechtigung und Substanzanforderungen im Einzelfall pruefen.
+- **REIT-Strukturen Malta**: Sonderbesteuerung Vermietungseinkuenfte nach maltesischem Recht — konkrete DBA-Berechtigung und Substanzanforderungen im Einzelfall prüfen.
 - **Online-Glueckspiel-Lizenzen**: Substanz-Praxis und MGA-Lizenz.
 - **Pillar Two**: ab 2024 Top-Up-Tax bei effektiv unter 15 Prozent.
 
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-### Phase 2 — Ansaessigkeit klaeren (domicile vs. residence)
+### Phase 2 — Ansaessigkeit klären (domicile vs. residence)
 ### Phase 3 — Einkunftsart einordnen
 ### Phase 4 — Substanztest § 50d Abs. 3 EStG
 ### Phase 5 — CFC § 7 ff. AStG
@@ -81,9 +81,9 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 
 ## Strategie und Praxis-Tipps
 
-- Malta-Refund-System (6/7-Rueckerstattung): effektive KSt ca. 5 Prozent — § 8 AStG-Niedrigsteuerschwelle (ab VZ 2024: 15 Prozent) pruefen.
+- Malta-Refund-System (6/7-Rueckerstattung): effektive KSt ca. 5 Prozent — § 8 AStG-Niedrigsteuerschwelle (ab VZ 2024: 15 Prozent) prüfen.
 - Bei Online-Glueckspiel: Lizenz, Personal, Substanz dokumentieren.
-- REIT-Strukturen Malta: oft Sonderbesteuerung — DBA-Berechtigung pruefen.
+- REIT-Strukturen Malta: oft Sonderbesteuerung — DBA-Berechtigung prüfen.
 - Pillar Two: Top-Up-Tax kann effektiv die Malta-Vorteile auffressen.
 - EU-MTRL bei Schachtel: 0 Prozent vorrangig.
 - PPT (Hauptzweck-Test) nach MLI: Hauptmotiv der Malta-Struktur muss legitim sein.
@@ -92,7 +92,7 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 
 ### Erstattungsverfahren maltesische Quellensteuer
 
-- **Zuständigkeit**: maltesische **Office of the Commissioner for Revenue (CFR)** (frueher Inland Revenue Department/Maltese Tax Authorities). Aktuelle Zuständigkeit auf **cfr.gov.mt** pruefen.
+- **Zuständigkeit**: maltesische **Office of the Commissioner for Revenue (CFR)** (frueher Inland Revenue Department/Maltese Tax Authorities). Aktuelle Zuständigkeit auf **cfr.gov.mt** prüfen.
 - **Antragsformulare**: maltesische DBA-Formulare; insbesondere für das Refund-System speziell mit Refund Application Forms — **konkrete Formularnummern vom Anwender mit aktuellem Stand auf cfr.gov.mt zu verifizieren**.
 - **Frist**: nach maltesischem Income Tax Management Act regelmaessig **fuenf Jahre**.
 - **Bearbeitungsdauer CFR**: 6-18 Monate.
@@ -112,18 +112,18 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Malta-Refund-System (effektiv 5 Prozent) vs. Aufgabe der Struktur nach Pillar Two | sehr niedrige effektive KSt, aber Top-Up-Tax 10 Prozent (Differenz 15-5) | DE-Direktstruktur mit voller KSt+GewSt | Pillar Two macht Malta-Vorteil weitgehend zunichte — nur bei Liquiditaetsvorteil/Latenz noch relevant |
-| Schachteldividende MT-Ltd an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | Malta erhebt **0 Prozent national** Quellensteuer auf Dividenden | DBA-Hoechstsatz greift praktisch nicht | regelmaessig 0 Prozent — keine Erstattung erforderlich |
-| Online-Glueckspiel ueber MT-Lizenz (MGA) vs. DE-Standort | MGA-Lizenz weltweit anerkannt; niedrige effektive KSt | DE: GluestV2021, strenge Lizenzpflicht | Geschaeftsmodell-Entscheidung mit erheblichen regulatorischen und steuerlichen Folgen |
-| CFC § 7 AStG vs. aktive Geschaeftstaetigkeit | bei passiven Einkuenften Hinzurechnung in DE | bei Aktiv-Katalog § 8 AStG keine Hinzurechnung | Aktiv-Katalog strikt pruefen |
+| Schachteldividende MT-Ltd an DE-Mutter über DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | Malta erhebt **0 Prozent national** Quellensteuer auf Dividenden | DBA-Hoechstsatz greift praktisch nicht | regelmaessig 0 Prozent — keine Erstattung erforderlich |
+| Online-Glueckspiel über MT-Lizenz (MGA) vs. DE-Standort | MGA-Lizenz weltweit anerkannt; niedrige effektive KSt | DE: GluestV2021, strenge Lizenzpflicht | Geschaeftsmodell-Entscheidung mit erheblichen regulatorischen und steuerlichen Folgen |
+| CFC § 7 AStG vs. aktive Geschaeftstaetigkeit | bei passiven Einkuenften Hinzurechnung in DE | bei Aktiv-Katalog § 8 AStG keine Hinzurechnung | Aktiv-Katalog strikt prüfen |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
-- **Malta-Refund-System** (6/7-Rueckerstattung): Bei Ausschuettung erhaelt der Empfaenger 6/7 der gezahlten KSt refundiert — effektiv ca. 5 Prozent verbleibende Belastung. **CFC § 7 AStG bei AStG-Niedrigsteuerschwelle 15 Prozent ab VZ 2024 zu pruefen**.
+- **Malta-Refund-System** (6/7-Rueckerstattung): Bei Ausschuettung erhaelt der Empfaenger 6/7 der gezahlten KSt refundiert — effektiv ca. 5 Prozent verbleibende Belastung. **CFC § 7 AStG bei AStG-Niedrigsteuerschwelle 15 Prozent ab VZ 2024 zu prüfen**.
 - **AStG-Niedrigsteuerschwelle ab VZ 2024 = 15 Prozent**: Mandanten-Memos vor 2024 mit 25-Prozent-Schwelle aktualisieren.
 - **Pillar Two ab 01.01.2024**: Malta-effektivsteuersatz 5 Prozent unter 15 Prozent — Top-Up-Tax 10 Prozent erforderlich; entweder QDMTT in MT oder IIR in DE.
 - **Online-Glueckspiel-MGA-Lizenz**: substanzielle Lizenz mit Personal-Erfordernissen; § 50d Abs. 3 EStG-Substanztest gleichwohl Pflicht.
-- **REIT-Strukturen Malta**: maltesische REIT-Sonderbesteuerung — DBA-Berechtigung pruefen.
-- **Schifffahrt Tonnage-Tax**: maltesisches Tonnage-System — Geschaeftsleitung pruefen.
+- **REIT-Strukturen Malta**: maltesische REIT-Sonderbesteuerung — DBA-Berechtigung prüfen.
+- **Schifffahrt Tonnage-Tax**: maltesisches Tonnage-System — Geschaeftsleitung prüfen.
 - **PPT (MLI ab 01.01.2025)**: Hauptzweck der Malta-Struktur darf nicht steuerlich motiviert sein.
 
 ## Berechnungsbeispiel — Malta-Refund-System nach Pillar Two

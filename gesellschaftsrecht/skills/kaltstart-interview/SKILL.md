@@ -7,7 +7,7 @@ description: "Ersteinrichtungs-Interview für das gesellschaftsrechtliche Praxis
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Gesellschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gesellschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -34,7 +34,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Triage zu Beginn
 
-Vor dem Kaltstart-Interview klaeren:
+Vor dem Kaltstart-Interview klären:
 
 1. **Profil bereits vorhanden?** CLAUDE.md lesen: vollstaendig befuellt? Falls ja: `--redo` oder `--modul [name]` verwenden, kein Neustart.
 2. **Aufruf-Flag?** `--neues-mandat` (nur Transaktionskontext), `--modul ma/aufsichtsrat/kapitalmarkt/gesellschaften` (nur ein Modul), `--integrationen-pruefen` (nur Integrationen), `--redo` (Vollneustart).

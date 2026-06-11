@@ -3,7 +3,7 @@ name: aussagensicherheit-buchprojekt-bauleiter
 description: "Prueft im Manuskript jede tragende Aussage darauf ob sie so im Druck stehen darf: Belegtiefe Ehrenschutz Datenschutz Berufsrecht und Aussagewahrheit im Verlagsredaktion."
 ---
 
-# Aussagensicherheits-Pruefung ("darf das so im Druck?")
+# Aussagensicherheits-Prüfung ("darf das so im Druck?")
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Eine Aussage in einem Fachaufsatz oder einer Anmerkung kann juristisch problemat
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen mit erkennbarem Fall (Mandantenbezug), Beitraegen ueber konkret benannte Personen oder Institutionen. Klaeren Sie:
+Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen mit erkennbarem Fall (Mandantenbezug), Beitraegen über konkret benannte Personen oder Institutionen. Klären Sie:
 
 1. Werden konkrete Personen / Institutionen / Mandanten genannt?
 2. Hat die Autorin ein Mandantenmandat selbst gefuehrt - dann § 43a BRAO?
@@ -41,9 +41,9 @@ Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen
  - Tatsachenbehauptungen (vs. Wertungen).
  - Anschuldigungen / Vorwuerfe.
  - Datenschutz-relevante Angaben.
-2. **Belegtiefe pruefen.** Jede Tatsachenbehauptung mit Beleg? Wertungen als solche erkennbar?
+2. **Belegtiefe prüfen.** Jede Tatsachenbehauptung mit Beleg? Wertungen als solche erkennbar?
 3. **Ehrenschutz / Persoenlichkeitsrecht** (§§ 823, 1004 BGB, Art. 1 i.V.m. Art. 2 I GG): Werden Beteiligte ungerechtfertigt herabgesetzt?
-4. **Mandantenschutz** (§ 43a Abs. 2 BRAO, § 203 StGB): Anonymisierung ausreichend? Schreibt die Autorin ueber einen eigenen Fall? Mandantenfreigabe?
+4. **Mandantenschutz** (§ 43a Abs. 2 BRAO, § 203 StGB): Anonymisierung ausreichend? Schreibt die Autorin über einen eigenen Fall? Mandantenfreigabe?
 5. **DSGVO** (Art. 6, Art. 9): personenbezogene Daten? Rechtsgrundlage?
 6. **Berufsstandkritik.** Sachlich, mit Belegen? Oder polemisch ohne Grundlage?
 7. **Wahrheits- / Wahrhaftigkeitsbeleg.** Tatsachenbehauptung muss erweislich wahr oder hinreichend recherchiert sein.
@@ -59,7 +59,7 @@ Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen
 
 ## Praxistipps der alten Redaktion
 
-- "Schreibt die Autorin ueber einen eigenen Mandantenfall? Immer Mandantenfreigabe schriftlich, immer Anonymisierungspruefung."
+- "Schreibt die Autorin über einen eigenen Mandantenfall? Immer Mandantenfreigabe schriftlich, immer Anonymisierungspruefung."
 - Personenkritik an Richtern: nur sachlich, nur mit Beleg, niemals ad personam.
 - Anschuldigungen ("XY hat falsch entschieden") brauchen Belege, wo das Falsche liegt.
 - Bei DSGVO-Themen: Datenschutzbeauftragte / Datenschutzbeauftragten des Verlages frueh einbinden.
@@ -69,7 +69,7 @@ Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen
 
 **Risiko-Befundtabelle:**
 
-| Stelle | Risikoart | Befund | Massnahme |
+| Stelle | Risikoart | Befund | Maßnahme |
 |--------|-----------|--------|-----------|
 | S. 3 | Mandantenbezug | "Mein Mandant hatte ..." - Anonymisierung duenn | Mandantenfreigabe einholen, ggf. Anonymisierung verstaerken |
 | S. 7 | Ehrenschutz Richter | "Der Vorsitzende hat erkennbar parteiisch verhandelt" - Behauptung ohne Beleg | Beleg verlangen oder Wertung zurueckziehen |

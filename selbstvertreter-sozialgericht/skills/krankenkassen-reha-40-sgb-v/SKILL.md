@@ -24,12 +24,12 @@ description: "Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Vo
 ## Formen
 
 ### Ambulante Reha
-- 4-6 Stunden tgl. ueber 3 Wochen.
+- 4-6 Stunden tgl. über 3 Wochen.
 - Wohnortnah.
 
 ### Stationaere Reha
 - Klinikaufenthalt.
-- 3 Wochen, Verlaengerung moeglich.
+- 3 Wochen, Verlaengerung möglich.
 
 ### Mutter-Vater-Kind-Kur § 41 SGB V
 - 3 Wochen Klinikaufenthalt mit Kindbetreuung.
@@ -42,7 +42,7 @@ description: "Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Vo
 
 - Krankenkasse: bei akuter Erkrankungsfolge.
 - Rentenversicherung: bei drohender Erwerbsminderung (Pflicht der DRV § 11 SGB VI).
-- "Reha vor Rente" — DRV prueft Reha vor EM-Rente.
+- "Reha vor Rente" — DRV prüft Reha vor EM-Rente.
 
 ## Wahlrecht § 8 SGB IX
 
@@ -54,4 +54,4 @@ description: "Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Vo
 2. Reha-Bedarf belegbar?
 3. Welcher Traeger zuständig?
 4. Wahlrecht beachtet?
-5. AHB-Anschluss moeglich?
+5. AHB-Anschluss möglich?

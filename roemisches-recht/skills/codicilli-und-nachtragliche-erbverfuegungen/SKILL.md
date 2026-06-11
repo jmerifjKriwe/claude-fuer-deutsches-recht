@@ -29,7 +29,7 @@ description: "Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen 
 
 - Legate.
 - Fideikommisse.
-- Bestimmungen ueber Manumissionen.
+- Bestimmungen über Manumissionen.
 - Keine heredis institutio (das war dem Testament vorbehalten).
 
 ## Folge
@@ -46,4 +46,4 @@ description: "Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen 
 
 1. Codicilli vorhanden?
 2. Bezug zum Testament?
-3. Inhalt zulaessig?
+3. Inhalt zulässig?

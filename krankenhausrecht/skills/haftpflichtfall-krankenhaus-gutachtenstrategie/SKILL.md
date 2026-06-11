@@ -19,7 +19,7 @@ description: "Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsf
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die fruehe Strategie ueber den Ausgang: Aktensicherung, interne Aufarbeitung, Gutachten, Versicherungsanzeige, Aerztekammer-Schiedsstelle, Sozial-/Zivilgericht.
+Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die fruehe Strategie über den Ausgang: Aktensicherung, interne Aufarbeitung, Gutachten, Versicherungsanzeige, Aerztekammer-Schiedsstelle, Sozial-/Zivilgericht.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Liegt schriftlicher Vorwurf vor (Patient, Anwalt, Versicherung, Strafanzeige)?
@@ -40,10 +40,10 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 1. **Akte sichern:** Vollstaendige Patientenakte mit Pflege-, OP-, Anaesthesieprotokoll und Aufklaerung; Versionierung, Manipulationssicherung.
 2. **Versicherung informieren:** Schadensmeldung unverzueglich; Obliegenheiten beachten.
 3. **Interne Aufarbeitung:** Critical Incident Reporting (CIRS), Ursachenanalyse, Lessons Learned (ohne Schuldzuweisung gegen Aufklaerungseffekt).
-4. **Externes Gutachten:** Frueh ueber Versicherung oder unabhaengig anfordern; Gutachterauswahl wichtig.
-5. **Stellungnahme zum Vorwurf:** Sachverhalt, Doku, Begruendung; Gegendarstellung wenn moeglich.
+4. **Externes Gutachten:** Frueh über Versicherung oder unabhaengig anfordern; Gutachterauswahl wichtig.
+5. **Stellungnahme zum Vorwurf:** Sachverhalt, Doku, Begruendung; Gegendarstellung wenn möglich.
 6. **Aerztekammer-Schiedsstelle:** Vermittlungsverfahren, oft kostenlos; Hemmung Verjährung.
-7. **Klage Zivilgericht:** Sachverstaendigenbeweis; Beweislast und § 630h-Risiken pruefen.
+7. **Klage Zivilgericht:** Sachverstaendigenbeweis; Beweislast und § 630h-Risiken prüfen.
 
 ## Trade-off-Matrix
 
@@ -51,13 +51,13 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 |---|---|---|
 | Aerztekammer-Schiedsstelle | guenstig, schnell, vertraulich | nicht bindend |
 | Direktverhandlung Patient/Anwalt | flexibel | Risiko vorschneller Anerkennung |
-| Klage Zivilgericht | bindende Klaerung | Verfahrensdauer, Kosten |
+| Klage Zivilgericht | bindende Klärung | Verfahrensdauer, Kosten |
 | Strafverfahren | unabwendbar bei Anzeige | mediale Wirkung |
 | Versicherungsweg | externe Steuerung | Eigenverteidigung eingeschraenkt |
 
 ## Praxistipps
 - BGH (staend. Rspr.) lehnt vorschnelle Anerkennung ab; CIRS-Bericht ist kein Schuldanerkenntnis.
-- § 630h BGB: Dokumentationsluecke vermutet "nicht durchgefuehrt" — Doku-Vollstaendigkeit ist Schluessel.
+- § 630h BGB: Dokumentationsluecke vermutet "nicht durchgefuehrt" — Doku-Vollstaendigkeit ist Schlüssel.
 - Aerztekammer-Schiedsstelle hemmt Verjährung (§ 204 Abs. 1 Nr. 4 BGB).
 - Eigene Gutachter sorgfaeltig auswaehlen — Reputation und Fachrichtung passend.
 - Strafverfahren parallel zum Zivilverfahren erfordert Koordination; Schweigerechte beachten.
@@ -73,7 +73,7 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 - Patientenakte unvollstaendig oder nicht versioniert.
 - Versicherung verspaetet informiert — Obliegenheitsverletzung.
 - Vorschnelle Anerkennung im Direktgespraech mit Patient.
-- Gutachter ohne Pruefung der Reputation/Fachrichtung.
+- Gutachter ohne Prüfung der Reputation/Fachrichtung.
 - Strafrechtliche Aspekte ignoriert (Schweigerecht, Beschuldigtenrechte).
 
 ## Quellen Stand 06/2026

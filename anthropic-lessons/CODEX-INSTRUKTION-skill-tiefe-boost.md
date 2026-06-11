@@ -11,7 +11,7 @@ Rechtsprechung, Workflowschritten und Negativ-Abgrenzungen.
 `CODEX-SELEKTION-welche-skills-tief.md` (selbe Ordner). Dort steht, **welche**
 Plugins/Skills auf Anthropic-Tiefe gehoeren (Klasse A - rund 70 Plugins,
 Grosskanzlei/Inhouse-Counsel/MCP-anbindbar/mandatsbegleitend), welche nur einen
-Teilausbau bekommen (Klasse B) und welche **kurz bleiben muessen** (Klasse C -
+Teilausbau bekommen (Klasse B) und welche **kurz bleiben müssen** (Klasse C -
 Verbraucher-Selbsthilfe, Tool-Skills, Studium). Wende die untenstehenden
 Pflicht-Sektionen NUR auf Klasse A in voller Tiefe an.
 
@@ -21,7 +21,7 @@ Schau dir gerne selbst nochmal an, wie Anthropic seine Skills strukturiert -
 vor allem `litigation-discovery/skills/`, `transactional-ma/skills/`,
 `legal-research/skills/`, `cold-start-interview/`, `customize/`,
 `matter-workspace/` und `managed-agent-cookbooks/`. Das ist der Massstab.
-**Anthropic schreibt fuer US-Grosskanzleien und Inhouse-Counsel mit
+**Anthropic schreibt für US-Grosskanzleien und Inhouse-Counsel mit
 MCP-Anbindung an Westlaw, CourtListener, iManage, Slack und Mandanten, die
 ein Skill ein ganzes Mandantenleben begleitet** - daher die Laenge. Wir uebernehmen
 das Modell nur dort, wo dieser Kontext bei uns passt.
@@ -47,7 +47,7 @@ abgelehnt.
    `name`, `description`. Verboten: `triggers`, `when_to_use`, `language`,
    `rechtsgebiet`, `license`, `argument-hint`, `user-invocable`,
    `allowed_tools`, `tools`, `model`, `adapted_from`, `version`,
-   `related_skills`. (Wir koennen `argument-hint` spaeter freischalten, aber
+   `related_skills`. (Wir können `argument-hint` später freischalten, aber
    nicht in diesem Batch.)
 
 3. **`description` <= 1024 Zeichen, ASCII-kompatibel.**
@@ -148,11 +148,11 @@ Optional, wenn rechtsgebietsbedingt sinnvoll:
 - Jeder Schritt: knapp, aktiv formuliert, mit konkreter Aktion und konkretem
   Output.
 - Beispiel-Stil:
-  > 4. Frist berechnen. Pruefe Zustellungsdatum, Wochenende, Feiertag. Wenn
+  > 4. Frist berechnen. Prüfe Zustellungsdatum, Wochenende, Feiertag. Wenn
   >    ein Tag fehlt: Hinweis "Zustellung unklar - im Bundeszentralregister
   >    oder beim Mandanten nachfragen." Schreibe Frist im Format YYYY-MM-DD.
-- Bei mehreren Faellen: Unterpunkte 4.1, 4.2 (z.B. fuer Klaeger- vs Beklagten-
-  Seite, fuer Verbraucher vs Unternehmer, fuer Eilfall vs Standardfall).
+- Bei mehreren Faellen: Unterpunkte 4.1, 4.2 (z.B. für Kläger- vs Beklagten-
+  Seite, für Verbraucher vs Unternehmer, für Eilfall vs Standardfall).
 
 **`## Pruefraster im Gutachtenstil`** (1500-3000 Zeichen)
 - Obersatz / Definition / Subsumtion / Zwischenergebnis pro Tatbestandsmerkmal.
@@ -259,14 +259,14 @@ Pro Rechtsgebiet ein Cheat-Sheet, was hineingehoert.
 - **Normen:** BGB Buecher 4 + 5, FamFG, VersAusglG, GNotKG.
 - **Pflicht-Rechtsprechung:** BGH zu Pflichtteil, Versorgungsausgleich,
   Zugewinnausgleich; OLG-Rspr zum Umgang.
-- **Verfahrensbesonderheit:** Beteiligten-Logik FamFG statt Klaeger-/Beklagten-
+- **Verfahrensbesonderheit:** Beteiligten-Logik FamFG statt Kläger-/Beklagten-
   Schema.
 
 ### 2.6 Verwaltungs- / Verfassungsrecht
 
 - **Normen:** VwVfG, VwGO, BVerfGG, GG.
 - **Pflicht-Rechtsprechung:** BVerwG, BVerfG-Leitentscheidungen
-  (Verhaeltnismaessigkeit, Bestimmtheit).
+  (Verhältnismäßigkeit, Bestimmtheit).
 - **EU-Bezug:** EuGH C-Az zu Grundrechtecharta, Vorlagepflicht Art. 267 AEUV.
 
 ### 2.7 Datenschutz / IT / KI
@@ -312,7 +312,7 @@ Pro Rechtsgebiet ein Cheat-Sheet, was hineingehoert.
 
 ### 2.12 Wenn das Rechtsgebiet thematisch nicht eindeutig ist
 
-Pruefe den Plugin-Namen. Wenn unklar:
+Prüfe den Plugin-Namen. Wenn unklar:
 1. Lies die ersten 50 Zeichen der Plugin-`.claude-plugin/plugin.json`-
    `description`.
 2. Lies 3 zufaellige Skills aus dem gleichen Plugin.
@@ -325,7 +325,7 @@ Pruefe den Plugin-Namen. Wenn unklar:
 
 ### 3.1 Batching-Strategie
 
-3670 Skills sind zu viel fuer einen einzigen Boost-Lauf. Codex arbeitet in
+3670 Skills sind zu viel für einen einzigen Boost-Lauf. Codex arbeitet in
 **Plugin-Batches**:
 
 - **Eine PR = ein Batch von 5-10 thematisch verwandten Plugins** (~100-200
@@ -334,7 +334,7 @@ Pruefe den Plugin-Namen. Wenn unklar:
 - Jede PR bekommt eigenen Branch `codex-skillboost-<thema>-batch-N`.
 
 Empfohlene Reihenfolge (von einfach nach komplex, damit fruehe Batches als
-Muster fuer spaetere dienen):
+Muster für spaetere dienen):
 
 1. Methodik/Studi-Plugins (jurastudium, hausarbeitenmacher, methodenlehre,
    zitierweise-deutsches-recht)
@@ -350,7 +350,7 @@ Muster fuer spaetere dienen):
 11. Wirtschaftsrecht / Gesellschaftsrecht / Bank
 12. Methodik-und-Office-Skills (NDA-Abgleich, Vertragsausfueller etc.)
 
-### 3.2 Pro Skill - Schritt-fuer-Schritt-Algorithmus fuer Codex
+### 3.2 Pro Skill - Schritt-für-Schritt-Algorithmus für Codex
 
 ```
 fuer plugin in batch:
@@ -767,7 +767,7 @@ expliziter Negativ-Abgrenzung.
 - **Wenn ein Plugin keine sinnvollen Pflicht-Sektionen erlaubt** (z.B.
   reine Tool-Skills): Boost auf ~6000-8000 Zeichen, Sektionen sinnvoll
   reduzieren, in PR-Body begruenden.
-- **Wenn die rechtliche Recherche fuer den Skill scheitert** (Codex hat
+- **Wenn die rechtliche Recherche für den Skill scheitert** (Codex hat
   keine Datenbank-Zugriff): GENERISCHE Zitate stehen lassen, NIE erfinden.
   Lieber "BGH-Rechtsprechung zur Vorsatzanfechtung" als ein erfundenes
   Az.
@@ -776,14 +776,14 @@ expliziter Negativ-Abgrenzung.
 
 ## 8. Abschluss-Checks von Tom
 
-Tom prueft pro PR:
+Tom prüft pro PR:
 
 - Stichproben-Lesen von 5-10 zufaelligen Skills aus dem Batch.
 - Validatoren-Status.
 - Lange-Verteilung Diagramm.
 - Keine offensichtlichen Halluzinationen bei Aktenzeichen.
 - Keine BeckRS-Allein-Zitate.
-- Hand-Off-Verweise pruefen (Plugin/Skill existieren).
+- Hand-Off-Verweise prüfen (Plugin/Skill existieren).
 - Negativ-Abgrenzung pro Stichprobe nicht generisch.
 
 Erst nach Freigabe: Merge.

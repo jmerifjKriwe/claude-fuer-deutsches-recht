@@ -33,7 +33,7 @@ description: "Master-Routing für Lobbyregister-Mandate: Pflichtcheck, Registrie
 | Unklar, ob LobbyRG ueberhaupt greift | `interessenvertretung-begriff` |
 | Kontaktperson oder Stelle unklar | `adressatenkreis-bundestag-bundesregierung` |
 | Registrierungspflicht fraglich | `registrierungspflicht-schwellen` |
-| Ausnahme moeglich | `ausnahmen-bundestag` oder `ausnahmen-bundesregierung` |
+| Ausnahme möglich | `ausnahmen-bundestag` oder `ausnahmen-bundesregierung` |
 | Neue Registrierung | `erstregistrierung-ausfuellen` |
 | Bestehender Eintrag mit Aenderung | `aktualisierung-unverzueglich` |
 | Jahrespruefung | `geschaeftsjahresaktualisierung` |

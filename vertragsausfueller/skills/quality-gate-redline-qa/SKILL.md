@@ -179,7 +179,7 @@ Empfehlung: Go / Go mit Warnungen / No-go
 
 ## 7) Typische Fehler beim Quality-Gate
 
-1. **Platzhalter im Footer übersehen.** Pruefe explizit auch Kopf-/Fußzeilen.
+1. **Platzhalter im Footer übersehen.** Prüfe explizit auch Kopf-/Fußzeilen.
 2. **Anlagen-Verzeichnis unvollständig.** Bei AGB-Bezug ist auch die Empfangsbestätigung Anlage.
 3. **Track Changes ohne Bestätigung.** Klassischer Compliance-Fehler.
 4. **Mwst.-Klausel übersehen** (B2C: Brutto, B2B: Netto + Mwst.).

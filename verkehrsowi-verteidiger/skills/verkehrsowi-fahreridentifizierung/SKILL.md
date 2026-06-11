@@ -18,7 +18,7 @@ description: "Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen:
 1. **Ist der Betroffene eindeutig auf dem Messfoto identifizierbar?** — Qualitaet des Fotos entscheidend; unklares Foto = Angriffspunkt.
 2. **Hat der Betroffene sich bereits als Fahrer identifiziert?** — Anhörungsbogen, Polizeivermerk, sonstige Aussagen.
 3. **Ist die Halter-Auskunft (§ 31a StVG) bereits ergangen?** — Halter muss Auskunft geben; Fahrernennung ist freiwillig.
-4. **Ist eine Fahrtenbuchauflage drohendes Thema?** — § 31a StVG: wenn Fahrer nicht ermittelt werden kann, kann Halter Fahrtenbuch fuehren muessen.
+4. **Ist eine Fahrtenbuchauflage drohendes Thema?** — § 31a StVG: wenn Fahrer nicht ermittelt werden kann, kann Halter Fahrtenbuch fuehren müssen.
 5. **Biometrischer Vergleich noetig?** — Sachverstaendiger wenn Foto-Identifikation streitig und für das Gericht nicht offenkundig.
 
 ## Zentrale Normen

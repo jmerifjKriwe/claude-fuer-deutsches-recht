@@ -41,7 +41,7 @@ Skill für richterliche Beförderungsverfahren, in denen die Beteiligung des Pra
 - Bei Wahl von Richtern für Bundesgerichte tritt der Richterwahlausschuss neben den Praesidialrat (Art. 95 Abs. 2 GG i.V.m. RiWG); Skill `richterwahlausschuss-bund-riwahlg` (sofern angelegt, hier nicht eigenstaendig vorhanden).
 
 ### e) Verfahren
-- Pruefung der Beteiligung im Einzelfall.
+- Prüfung der Beteiligung im Einzelfall.
 - Im Konkurrentenstreit Anordnungsanspruch wegen Verfahrensfehlern.
 
 ## 4. Quellenpflicht

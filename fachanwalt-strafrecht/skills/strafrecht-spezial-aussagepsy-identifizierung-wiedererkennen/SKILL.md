@@ -32,7 +32,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Stress-Effekt: Hoher Stress reduziert die Enkodierqualitaet.
 - Unconscious transference: Ein vertrautes Gesicht aus einem anderen Kontext wird faelschlich als Taeter wiedererkannt.
 - Post-event-Information: Hinweise nach der Tat (Medienbilder, Hinweise der Polizei) verformen das Erinnerungsbild.
-- Confidence-Accuracy: Die Sicherheit der Zeugin korreliert nur schwach mit der Richtigkeit; sehr sichere Zeuginnen koennen voellig falsch liegen.
+- Confidence-Accuracy: Die Sicherheit der Zeugin korreliert nur schwach mit der Richtigkeit; sehr sichere Zeuginnen können völlig falsch liegen.
 
 **Methodische Standards der Wahllichtbildvorlage (Forschungslage, generisch).**
 - Sequenzielle Vorlage (Bilder einzeln) ist genauer als simultane Vorlage (alle Bilder gleichzeitig).
@@ -47,9 +47,9 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Praktikertipps Verteidigung
 
-- **Beobachtungsbedingungen pruefen.** Tatzeit (Tag, Nacht), Beleuchtung, Distanz, Beobachtungsdauer in Sekunden, Bewegung, Stress, Waffe. Jede konkrete Bedingung dokumentieren.
-- **Latenz pruefen.** Zwischen Tat und erster Identifizierung. Je laenger, desto schwaecher.
-- **Lichtbildvorlage methodisch pruefen.** Wie viele Bilder? Sequenziell oder simultan? Doppelblind? Wie war Zusammensetzung? Wie waren die Anweisungen? Wie war die Sicherheit der Zeugin (woertlich)?
+- **Beobachtungsbedingungen prüfen.** Tatzeit (Tag, Nacht), Beleuchtung, Distanz, Beobachtungsdauer in Sekunden, Bewegung, Stress, Waffe. Jede konkrete Bedingung dokumentieren.
+- **Latenz prüfen.** Zwischen Tat und erster Identifizierung. Je laenger, desto schwaecher.
+- **Lichtbildvorlage methodisch prüfen.** Wie viele Bilder? Sequenziell oder simultan? Doppelblind? Wie war Zusammensetzung? Wie waren die Anweisungen? Wie war die Sicherheit der Zeugin (woertlich)?
 - **Cross-race-effect adressieren.** Wenn Zeugin und Mandant verschiedener ethnischer Herkunft: empirisch dokumentierter Schwachpunkt.
 - **Post-event-Kontamination ermitteln.** Hat die Zeugin Medienberichte gesehen? Lichtbilder im Internet? Hinweise der Polizei? Gespraeche mit anderen Zeugen?
 - **In dubio bei Identifizierung als Einzelbeweis.** Wenn die Verurteilung im Wesentlichen auf einer Wiedererkennens-Aussage beruht, ohne weitere objektive Beweise (DNA, Fingerabdruck, Tatortspuren), ist Restzweifel oft naheliegend.
@@ -61,12 +61,12 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 |---|---|---|
 | SV-Gutachten zur Identifizierung beantragen | Methodisch fundiert | Aufwand, Zeitverzug |
 | Methodenkritik im Plaedoyer | Schlanker | Setzt Methodenkenntnis voraus |
-| Mandant in Hauptverhandlung dem Wiedererkennen aussetzen | Direkte Pruefung | Risiko der Bestaetigung |
+| Mandant in Hauptverhandlung dem Wiedererkennen aussetzen | Direkte Prüfung | Risiko der Bestaetigung |
 | Tatortrekonstruktion (Sicht, Licht) | Konkret, faktennah | Aufwand, ggf. neutrale Befunde |
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer arbeiten Sie strukturiert: "Die Wiedererkennens-Aussage der Zeugin ist der einzige direkte Belastungsbeweis. Sie ist aus empirischer Sicht eine der unsichersten Beweisformen ueberhaupt. Im vorliegenden Fall kommen folgende Risikofaktoren zusammen: Beobachtungszeit unter [X] Sekunden, Nacht, schlechte Beleuchtung, Distanz von [Meter], Bewaffnung des Taeters mit moeglichem weapon focus, Cross-race-Bedingung, Latenz von [Zeitraum] zwischen Tat und Identifizierung, suboptimale Lichtbildvorlage [konkret]. Jeder dieser Faktoren senkt die Wahrscheinlichkeit einer korrekten Identifizierung. Zusammen genuegen sie nicht für die richterliche Ueberzeugung."
+Im Plaedoyer arbeiten Sie strukturiert: "Die Wiedererkennens-Aussage der Zeugin ist der einzige direkte Belastungsbeweis. Sie ist aus empirischer Sicht eine der unsichersten Beweisformen ueberhaupt. Im vorliegenden Fall kommen folgende Risikofaktoren zusammen: Beobachtungszeit unter [X] Sekunden, Nacht, schlechte Beleuchtung, Distanz von [Meter], Bewaffnung des Taeters mit moeglichem weapon focus, Cross-race-Bedingung, Latenz von [Zeitraum] zwischen Tat und Identifizierung, suboptimale Lichtbildvorlage [konkret]. Jeder dieser Faktoren senkt die Wahrscheinlichkeit einer korrekten Identifizierung. Zusammen genügen sie nicht für die richterliche Ueberzeugung."
 
 ## Mustertexte
 

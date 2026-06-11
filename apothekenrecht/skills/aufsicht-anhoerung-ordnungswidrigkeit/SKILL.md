@@ -20,7 +20,7 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Au
 
 ## Worum geht es konkret
 
-Landesaufsichtsbehörden (Regierungspräsidium, Landesamt für Gesundheit, Apothekerkammer) führen Apothekenrevisionen durch und leiten bei Beanstandungen Anhörungs- oder Ordnungswidrigkeitenverfahren ein. Verstösse gegen ApoG, ApBetrO, AMG, BtMG sind teils OWi (§ 97 AMG, § 32 BtMG, § 25 ApoG), teils strafbewehrt. Anhörung nach § 28 VwVfG geht jeder belastenden Massnahme voraus. Ziel des Skills: strukturierte Verteidigung.
+Landesaufsichtsbehörden (Regierungspräsidium, Landesamt für Gesundheit, Apothekerkammer) führen Apothekenrevisionen durch und leiten bei Beanstandungen Anhörungs- oder Ordnungswidrigkeitenverfahren ein. Verstösse gegen ApoG, ApBetrO, AMG, BtMG sind teils OWi (§ 97 AMG, § 32 BtMG, § 25 ApoG), teils strafbewehrt. Anhörung nach § 28 VwVfG geht jeder belastenden Maßnahme voraus. Ziel des Skills: strukturierte Verteidigung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -61,7 +61,7 @@ Eingaben:
 4. **Stellungnahme strukturieren:**
  - Sachverhalt aus eigener Sicht klarstellen.
  - Rechtliche Würdigung (Tatbestand erfüllt? Rechtfertigung? Schuld?)
- - Verhältnismässigkeit der angedrohten Massnahme.
+ - Verhältnismässigkeit der angedrohten Maßnahme.
  - Kooperationsbereitschaft und Abhilfemassnahmen darlegen.
 5. **Beweisangebote:** Zeugen (Mitarbeiter), Urkunden (SOP, QM-Handbuch), ggf. Sachverständige.
 6. **Sofortvollzug:** Sofort Antrag auf Wiederherstellung der aufschiebenden Wirkung nach § 80 Abs. 5 VwGO ans VG.
@@ -90,7 +90,7 @@ Eingaben:
 ## Mustertexte
 
 ### Stellungnahme zur Anhörung (Auszug)
-"Sehr geehrte Damen und Herren, mit Schreiben vom [Datum] (Az [...]) wurden uns folgende Vorhalte gemacht: 1. [Vorhalt 1]; 2. [Vorhalt 2]; 3. [Vorhalt 3]. Hierzu nehmen wir nach Akteneinsicht wie folgt Stellung: Zu 1.: [Sachverhalt klarstellen, Belege beilegen, ggf. Plausibilitätsprüfung-Dokumentation vorzeigen]. Zu 2.: [Tatbestand fehlt, da ...]. Zu 3.: [Erkannter Mangel ist behoben durch [Massnahme]; SOP wurde am [Datum] aktualisiert, Schulung am [Datum] erfolgt]. Eine Wiederholung ist nicht zu erwarten. Wir bitten von einer Sanktion abzusehen oder diese auf das mildeste Mittel zu beschränken (§ 17 OWiG)."
+"Sehr geehrte Damen und Herren, mit Schreiben vom [Datum] (Az [...]) wurden uns folgende Vorhalte gemacht: 1. [Vorhalt 1]; 2. [Vorhalt 2]; 3. [Vorhalt 3]. Hierzu nehmen wir nach Akteneinsicht wie folgt Stellung: Zu 1.: [Sachverhalt klarstellen, Belege beilegen, ggf. Plausibilitätsprüfung-Dokumentation vorzeigen]. Zu 2.: [Tatbestand fehlt, da ...]. Zu 3.: [Erkannter Mangel ist behoben durch [Maßnahme]; SOP wurde am [Datum] aktualisiert, Schulung am [Datum] erfolgt]. Eine Wiederholung ist nicht zu erwarten. Wir bitten von einer Sanktion abzusehen oder diese auf das mildeste Mittel zu beschränken (§ 17 OWiG)."
 
 ### Einspruch gegen OWi-Bescheid (Auszug)
 "Gegen den Bussgeldbescheid vom [Datum] (Az [...]) lege ich form- und fristgerecht Einspruch ein. Begründung: 1. Der Tatbestand ist nicht erfüllt, da [...]. 2. Hilfsweise: Die festgesetzte Geldbusse ist unverhältnismässig (§ 17 OWiG). Erstmaliger Verstoss, geringer Schaden, sofortige Abhilfe (Anlage [Nr.]). Ich beantrage Aufhebung des Bescheides, hilfsweise Reduzierung der Geldbusse auf einen angemessenen Betrag."

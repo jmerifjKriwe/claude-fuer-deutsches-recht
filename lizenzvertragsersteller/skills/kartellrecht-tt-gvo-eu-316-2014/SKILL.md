@@ -14,7 +14,7 @@ description: "Kartellrecht im Lizenzvertrag: TT-GVO VO (EU) 316/2014 Technologie
 
 ## Anwendbarkeit
 
-TT-GVO gilt fuer **Technologietransfer-Vereinbarungen**: Lizenzvertraege, die Patente, Know-how, Designs oder Software (im Zusammenhang mit Patenten/Know-how) zum Gegenstand haben.
+TT-GVO gilt für **Technologietransfer-Vereinbarungen**: Lizenzvertraege, die Patente, Know-how, Designs oder Software (im Zusammenhang mit Patenten/Know-how) zum Gegenstand haben.
 
 → Kombinierte Lizenz Patent + Know-how + Marke: TT-GVO greift.
 → Reine Marken-/Urheberrechts-Lizenzen: Vertikal-GVO statt TT-GVO.
@@ -26,7 +26,7 @@ TT-GVO gilt fuer **Technologietransfer-Vereinbarungen**: Lizenzvertraege, die Pa
 | **Wettbewerber** (gleiche relevante Maerkte) | gemeinsam ≤ 20 % |
 | **Nicht-Wettbewerber** (vertikal) | jeweils ≤ 30 % |
 
-Bei Ueberschreiten: Einzelfall-Pruefung nach Art. 101 III AEUV; keine automatische Freistellung.
+Bei Ueberschreiten: Einzelfall-Prüfung nach Art. 101 III AEUV; keine automatische Freistellung.
 
 ## Kernbeschraenkungen Art. 4 TT-GVO ("Schwarze Liste")
 
@@ -34,10 +34,10 @@ Bei diesen Klauseln entfaellt die Freistellung **vollstaendig**:
 
 | Klausel | Verbot |
 |---|---|
-| Preisbindung Lizenznehmer | Preise fuer Lizenzprodukte vorgeschrieben |
+| Preisbindung Lizenznehmer | Preise für Lizenzprodukte vorgeschrieben |
 | Quotenbeschraenkung Lizenznehmer | Mengenbeschraenkung (mit Sonderregeln) |
 | Beschraenkung passive Verkaeufe | Lizenznehmer darf nicht auf unaufgefordert Bestellungen reagieren |
-| Marktaufteilung Wettbewerber | Markt aufteilen (mit Ausnahmen fuer exklusive Lizenz) |
+| Marktaufteilung Wettbewerber | Markt aufteilen (mit Ausnahmen für exklusive Lizenz) |
 
 ## Nicht freigestellte Beschraenkungen Art. 5 TT-GVO ("Graue Liste")
 
@@ -62,11 +62,11 @@ Diese Klauseln verlieren die Freistellung, **andere Vertragsteile bleiben** frei
 **A. Compliance-Bestaetigung:**
 > "Die Parteien sind sich einig, dass dieser Vertrag in Uebereinstimmung mit der TT-GVO (VO (EU) Nr. 316/2014) gestaltet ist. Sollte einzelne Klauseln gegen Art. 4 oder 5 TT-GVO verstossen, vereinbaren die Parteien deren Anpassung, ohne die Wirksamkeit der uebrigen Klauseln zu beruehren ($ 139 BGB)."
 
-**B. Non-Challenge mit Kuendigungsrecht (sicherer Ersatz fuer Verbot):**
+**B. Non-Challenge mit Kuendigungsrecht (sicherer Ersatz für Verbot):**
 > "Sollte der Lizenznehmer die Gueltigkeit eines Lizenzschutzrechts angreifen, ist der Lizenzgeber zur ausserordentlichen Kuendigung berechtigt."
 
 **C. Aktives vs. passives Gebietsschutz:**
-> "Der Lizenznehmer wird in einem ihm zugewiesenen exklusiven Gebiet aktive Verkaeufe nicht anbieten. Passive Verkaeufe (Reaktion auf unaufgeforderte Anfragen) bleiben jederzeit zulaessig."
+> "Der Lizenznehmer wird in einem ihm zugewiesenen exklusiven Gebiet aktive Verkaeufe nicht anbieten. Passive Verkaeufe (Reaktion auf unaufgeforderte Anfragen) bleiben jederzeit zulässig."
 
 ## Anschluss
 

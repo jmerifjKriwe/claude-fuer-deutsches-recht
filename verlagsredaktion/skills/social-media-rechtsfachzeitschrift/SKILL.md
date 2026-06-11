@@ -29,7 +29,7 @@ Verlage juristischer Fachzeitschriften bauen Social-Media-Praesenz auf, um Aufsa
 
 ## Rechtlicher und sachlicher Rahmen
 
-- DDG § 5 - Impressumspflicht auch für Social-Media-Profile (Verweis ueber Bio-Link genuegt nach Verwaltungspraxis bei Plattformen mit Zeichenbeschraenkung).
+- DDG § 5 - Impressumspflicht auch für Social-Media-Profile (Verweis über Bio-Link genuegt nach Verwaltungspraxis bei Plattformen mit Zeichenbeschraenkung).
 - MStV § 18 - journalistische Sorgfalt für Telemedien mit journalistisch-redaktioneller Praegung.
 - UWG §§ 5a Abs. 4, 6 - Werbekennzeichnungspflicht; "Werbung", "Anzeige" oder vergleichbar bei kommerzieller Kommunikation.
 - UrhG §§ 51, 51a - Zitatrecht; bei Zitat-Karten Umfang und Kontext beachten.
@@ -55,7 +55,7 @@ Verlage juristischer Fachzeitschriften bauen Social-Media-Praesenz auf, um Aufsa
 | Reichweite Anwaltschaft | Sehr hoch | Niedrig |
 | Reichweite Wissenschaft | Mittel | Hoch (wachsend) |
 | Algorithmus-Risiko | Hoch | Niedrig (chronologisch) |
-| Bezahlte Reichweite | Sinnvoll | Nicht moeglich |
+| Bezahlte Reichweite | Sinnvoll | Nicht möglich |
 | Datenschutz | Bedenklich | Eher unproblematisch |
 
 ## Praxistipps der alten Redaktion
@@ -122,7 +122,7 @@ Pressekontakt: [Link]
 - Zitat-Karten mit Coverabbildung ohne Layout-Rechte freigegeben.
 - Bei BGH-Entscheidung Az. und Datum vergessen - keine Verifizierbarkeit.
 - Hashtag-Wuestenei: 20 Hashtags wirken wie SEO-Spam.
-- Personenfoto des Autors ohne KUG-Pruefung gepostet.
+- Personenfoto des Autors ohne KUG-Prüfung gepostet.
 - Bei Influencer-Kooperation kein Vertrag, keine Werbekennzeichnung - Bussgeld.
 
 ## Quellen Stand 06/2026

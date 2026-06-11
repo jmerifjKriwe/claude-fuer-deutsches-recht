@@ -13,7 +13,7 @@ description: "BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandan
 
 ## Kernsachverhalt
 
-BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Buchhaltungsloesungen für Mandanten, die ihre Buchfuehrung weitgehend selbst betreiben. Sie bieten Beleg-Scan, Bank-Abruf, automatische Buchungs-Vorschlaege. Der Steuerberater erhaelt Daten ueber DATEV-Export oder andere Schnittstellen. Vorteil: Mandant traegt einen Teil der Arbeit; Nachteil: Daten-Qualitaet variabel.
+BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Buchhaltungsloesungen für Mandanten, die ihre Buchfuehrung weitgehend selbst betreiben. Sie bieten Beleg-Scan, Bank-Abruf, automatische Buchungs-Vorschlaege. Der Steuerberater erhaelt Daten über DATEV-Export oder andere Schnittstellen. Vorteil: Mandant traegt einen Teil der Arbeit; Nachteil: Daten-Qualitaet variabel.
 
 ## Kaltstart-Rueckfragen
 
@@ -41,8 +41,8 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 ### Phase 2 — Schnittstelle zu DATEV
 
 - DATEV-Buchungsstapel-Export aus der Cloud im DATEV-CSV-Format (sog. "ASCII-Format" bzw. neuer "Belege Online"-Schnittstelle).
-- Import in DATEV Kanzlei-Rechnungswesen ueber `Datei → Datenuebernahme → Buchungsstapel` (konkrete Programmpfade in der aktuellen DATEV-Programmversion ggf. abweichend).
-- Plausibilitaetspruefung der Buchungen (Konten-Mapping, USt-Schluessel, Belegverknuepfung).
+- Import in DATEV Kanzlei-Rechnungswesen über `Datei → Datenuebernahme → Buchungsstapel` (konkrete Programmpfade in der aktuellen DATEV-Programmversion ggf. abweichend).
+- Plausibilitaetspruefung der Buchungen (Konten-Mapping, USt-Schlüssel, Belegverknuepfung).
 
 ### Phase 3 — Mandanten-Setup
 
@@ -53,7 +53,7 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 ### Phase 4 — Buchungsfreigabe
 
 - Mandant bucht (oder Cloud schlaegt vor).
-- StB prueft und freigibt.
+- StB prüft und freigibt.
 - Bei Fehlern Korrektur.
 
 ### Phase 5 — Auswertung
@@ -71,10 +71,10 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 ## Strategie und Praxis-Tipps
 
 - Cloud-Tools sind Effizienzhebel, wenn Mandant disziplinarisch arbeitet.
-- Datenqualitaet schwankend — StB-Pruefung bleibt Pflicht.
-- DSGVO-Compliance staendig pruefen.
+- Datenqualitaet schwankend — StB-Prüfung bleibt Pflicht.
+- DSGVO-Compliance staendig prüfen.
 - Honorar oft niedriger bei Cloud-betreibenden Mandanten (Buchungs-Anteil reduziert).
-- StBVV: Honorarmodell anpassen (Pauschal niedriger, Pruefung Stunden).
+- StBVV: Honorarmodell anpassen (Pauschal niedriger, Prüfung Stunden).
 
 ## Quellen und Updates
 

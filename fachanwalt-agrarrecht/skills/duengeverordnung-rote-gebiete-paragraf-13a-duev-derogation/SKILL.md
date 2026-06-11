@@ -33,9 +33,9 @@ Milchviehbetrieb M in Niedersachsen liegt im "roten Gebiet" Cloppenburg. Stickst
 ## Arbeitsergebnis
 
 1. Eigene Naehrstoffvergleichsrechnung nach Anlage 5 DueV.
-2. Wenn ueber 170 kg N/ha: Pruefe Mengenstrombilanzverordnung.
+2. Wenn über 170 kg N/ha: Prüfe Mengenstrombilanzverordnung.
 3. Derogationsantrag bei Landwirtschaftskammer Niedersachsen.
-4. Bei Sanktionsbescheid: Pruefe Verhaeltnismaessigkeit bei einmaliger Ueberschreitung.
+4. Bei Sanktionsbescheid: Prüfe Verhältnismäßigkeit bei einmaliger Ueberschreitung.
 
 ## Belege und Aktenlücken
 

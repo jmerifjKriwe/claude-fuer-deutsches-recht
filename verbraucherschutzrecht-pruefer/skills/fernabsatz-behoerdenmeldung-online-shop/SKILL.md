@@ -3,7 +3,7 @@ name: fernabsatz-behoerdenmeldung-online-shop
 description: "Prüfer: Fernabsatz: Behördenmeldung prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Fernabsatz Behördenmeldung Pruefen
+# Fernabsatz Behördenmeldung Prüfen
 
 ## Arbeitsweg
 

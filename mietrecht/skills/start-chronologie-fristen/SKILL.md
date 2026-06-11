@@ -121,7 +121,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `klageentwurf-amtsgericht` | Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine… |
 | `lage-und-ausstattung-erheben` | Strukturierte Datenerhebung für die Einordnung in den Mietspiegel — Adresse Baujahr Wohnflaeche Bad Kueche Heizung Wohnungsausstattung Gebaeudeausstattung. Erfasst alle Merkmale die in qualifizierten Mietspiegeln als… |
 | `mahnung-zahlungsverzug-mieter` | Vermietersicht — verfasse Mahnung und ggf. fristlose Kündigung bei Zahlungsverzug des Mieters. Prüfroutine deckt Verzug nach § 286 BGB Fälligkeit der Miete (§ 556b Abs. 1 BGB) Mahnschreiben Aufrechnungsverbot fristlose… |
-| `mandat-triage-mietrecht` | Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentuemer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kündigung Mieterhoehung Mietminderung… |
+| `mandat-triage-mietrecht` | Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentümer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kündigung Mieterhoehung Mietminderung… |
 | `mieteranfragen-beantworten` | Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietminderung Mangelanzeige Modernisierungsankündigung Schoenheitsreparaturen Hausordnung Kaution… |
 | `mieterhoehung-pruefen-widersprechen` | Mietersicht — prüfe ein Mieterhoehungsverlangen nach ortsueblicher Vergleichsmiete (§§ 558 ff. BGB) auf Form Frist Kappungsgrenze Begründung und entwirf bei Bedarf eine Zustimmungsverweigerung oder Teilzustimmung.… |
 | `mieterhoehungsverlangen-erstellen` | Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete (§ 558a BGB) in Textform mit ordnungsgemäßer Begründung (Mietspiegel Sachverständigengutachten oder drei Vergleichswohnungen).… |
@@ -138,13 +138,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Dieses Plugin unterstuetzt Mieter, Vermieter, Hausverwaltungen und deren Anwaelte bei allen praxisrelevanten Fragen des deutschen Mietrechts. Es deckt Wohnraummiete und Gewerberaummiete ab: Mieterhoehungsverlangen, Mietsenkungsverlangen nach Mietpreisbremse, Nebenkostenpruefung, Kuendigungsrecht (Eigenbedarf, Zahlungsverzug), Kautionsrueckforderung, WEG-Beschlussanfechtung und Klageentwurf zum Amtsgericht.
 
-Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen für Bundeslaender, Top- und Universitaetsstaedte. Es werden ausschliesslich amtliche Quellen verwendet; keine Schaetzdaten oder Onlineportale.
+Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen für Bundeslaender, Top- und Universitaetsstaedte. Es werden ausschließlich amtliche Quellen verwendet; keine Schaetzdaten oder Onlineportale.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie sind Vermieter und wollen ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete erstellen.
-- Sie sind Mieter und haben ein Mieterhoehungsverlangen erhalten und wollen pruefen, ob Sie Widerspruch einlegen koennen.
-- Sie pruefen eine Betriebskostenabrechnung auf Formfehler, Umlagefaehigkeit und rechnerische Richtigkeit.
+- Sie sind Mieter und haben ein Mieterhoehungsverlangen erhalten und wollen prüfen, ob Sie Widerspruch einlegen können.
+- Sie prüfen eine Betriebskostenabrechnung auf Formfehler, Umlagefaehigkeit und rechnerische Richtigkeit.
 - Sie benoetigen als Vermieter ein Kuendigungsschreiben wegen Eigenbedarfs oder Zahlungsverzugs.
 - Sie wollen eine Beschlussanfechtungsklage gegen einen WEG-Beschluss vorbereiten.
 
@@ -173,10 +173,10 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Vermieter oder Mieter, Wohnraum oder Gewerbe, Bestandsmiete oder Neuabschluss.
+1. Mandantenkonstellation klären: Vermieter oder Mieter, Wohnraum oder Gewerbe, Bestandsmiete oder Neuabschluss.
 2. Phase des Mandats bestimmen: Mieterhoehung, Nebenkostenstreit, Kuendigung, Kaution, WEG oder Klage.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: WEG-Anfechtungsklage (§ 45 WEG: ein Monat), Kuendigungsfristen (§ 573c BGB), Mieterhoehungs-Zustimmungsfrist (zwei Monate § 558b BGB).
+4. Eilfristen prüfen: WEG-Anfechtungsklage (§ 45 WEG: ein Monat), Kuendigungsfristen (§ 573c BGB), Mieterhoehungs-Zustimmungsfrist (zwei Monate § 558b BGB).
 5. Anschluss-Skill bestimmen: nach Mietspiegel-Ermittlung typischerweise Mieterhoehungsverlangen oder Widerspruch; nach Kuendigung ggf. Klageentwurf.
 
 ## Skill-Tour (was gibt es hier?)
@@ -196,14 +196,14 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 
 **Mieterhoehung (Mieter)**
 
-- `mieterhoehung-pruefen-widersprechen` — Mieterhoehungsverlangen auf Form, Frist, Kappungsgrenze und Begruendung pruefen; Widerspruchs- oder Teilzustimmungs-Entwurf.
+- `mieterhoehung-pruefen-widersprechen` — Mieterhoehungsverlangen auf Form, Frist, Kappungsgrenze und Begruendung prüfen; Widerspruchs- oder Teilzustimmungs-Entwurf.
 - `mietpreisueberhoehung-wistrg-1954-mietwucher` — überhöhte Wohnraummiete dreistufig auf Mietpreisbremse, § 5 WiStrG 1954 und § 291 StGB prüfen.
 - `mietsenkungsverlangen` — Miete auf Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 und § 291 StGB prüfen; qualifizierte Rüge erstellen.
 
 **Nebenkostenabrechnung**
 
 - `nebenkostenabrechnung-erstellen` — Rechtssichere Betriebskostenabrechnung für Vermieter nach § 556 BGB und BetrKV.
-- `nebenkostenabrechnung-pruefen` — Betriebskostenabrechnung auf Frist, Form, Umlagefaehigkeit, Verteilerschluessel und HeizkostenV pruefen.
+- `nebenkostenabrechnung-pruefen` — Betriebskostenabrechnung auf Frist, Form, Umlagefaehigkeit, Verteilerschluessel und HeizkostenV prüfen.
 
 **Kuendigung**
 
@@ -225,8 +225,8 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 
 ## Worauf besonders achten
 
-- **Ausschliesslich amtliche Mietspiegel verwenden.** Das Plugin nutzt nur offiziell anerkannte Quellen; Onlineportale sind keine zulaessige Begruendung für Mieterhoehungsverlangen.
-- **Kappungsgrenze gilt relativ zum letzten Mieterhoehungsverlangen.** Dreijahresfrist und prozentuale Grenze sind getrennt zu pruefen; Kappungsgrenze in Spannungsgebieten 15 % nach Landesrecht.
+- **Ausschließlich amtliche Mietspiegel verwenden.** Das Plugin nutzt nur offiziell anerkannte Quellen; Onlineportale sind keine zulaessige Begruendung für Mieterhoehungsverlangen.
+- **Kappungsgrenze gilt relativ zum letzten Mieterhoehungsverlangen.** Dreijahresfrist und prozentuale Grenze sind getrennt zu prüfen; Kappungsgrenze in Spannungsgebieten 15 % nach Landesrecht.
 - **Kuendigungsbegruendung bei Eigenbedarf muss konkret sein.** Zu abstrakte Begruendungen fuehren zur Unwirksamkeit der Kuendigung; Skill `eigenbedarfskuendigung-erstellen` sichert den Mindestinhalt.
 - **WEG-Anfechtungsfrist laeuft hart.** Ein Monat nach Beschlussfassung (§ 45 WEG); danach nur noch Nichtigkeitsklage bei gravierenden Maengeln.
 - **Nebenkostenabrechnung muss innerhalb von 12 Monaten zugehen.** Spaeterer Zugang fuehrt zur Unwirksamkeit der Abrechnung und Verlust von Nachzahlungsanspruechen.
@@ -236,7 +236,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 - Mieterhoehungsverlangen wird ohne ordnungsgemaesse Begruendung versandt; Mieter kann Zustimmung verweigern und Klage ist unbegrendet.
 - Fristlose Kuendigung wird ausgesprochen ohne hilfsweise ordentliche Kuendigung; hilfsweise Kuendigung sichert Rueckfall ab.
 - Betriebskostenabrechnung enthaelt nicht umlagefaehige Positionen (z.B. Verwaltungskosten); Mieter kann Rueckforderung geltend machen.
-- Mietkaution wird nicht getrennt vom Vermoegen des Vermieters angelegt; bei Insolvenz des Vermieters geht Mieter leer aus.
+- Mietkaution wird nicht getrennt vom Vermögen des Vermieters angelegt; bei Insolvenz des Vermieters geht Mieter leer aus.
 - WEG-Anfechtungsfrist wird verpasst; nur Nichtigkeitsklage bei sehr schweren Maengeln verbleibt als Option.
 
 ## Quellen und Aktualitaet

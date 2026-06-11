@@ -34,14 +34,14 @@ Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz
 - **KHEntgG** Vorhalteverguetung (ab 2027 vollwirksam), § 5 KHEntgG, Konvergenzphase.
 - **SGB V** §§ 135a, 136-137 (Qualitaet), § 39 (stationaere Versorgung), § 109 (Versorgungsauftrag).
 - **Landeskrankenhausgesetze** weisen Leistungsgruppen zu, ggf. mit Ausnahmen (Sicherstellung, Kooperation).
-- **G-BA-Beschluesse** zu Strukturmerkmalen, Mindestmengen, Personalanforderungen.
+- **G-BA-Beschlüsse** zu Strukturmerkmalen, Mindestmengen, Personalanforderungen.
 
 ## / Schritt für Schritt
-1. **Rolle und Akteur klaeren:** Geschaeftsfuehrung, Aerztlicher Direktor, Traeger, Land, Kasse, Patient?
+1. **Rolle und Akteur klären:** Geschaeftsfuehrung, Aerztlicher Direktor, Traeger, Land, Kasse, Patient?
 2. **Reform-Schicht identifizieren:**
  - **Plan-Ebene** (Land vergibt LG) → Skill `landeskrankenhausplan-aufnahme-herausnahme-aenderung`.
  - **Strukturqualitaet** (Personal, Geraete, Vorhaltung) → Skill `leistungsgruppen-und-qualitaetskriterien-reformlogik`.
- - **Vorhaltebudget** (Verguetung, Konvergenz) → Skill `vorhalteverguetung-leistungsgruppen-krankenhausreform`.
+ - **Vorhaltebudget** (Vergütung, Konvergenz) → Skill `vorhalteverguetung-leistungsgruppen-krankenhausreform`.
  - **Mindestmengen, Sicherstellung, Level Ii** → entsprechende Skills.
 3. **Fristen sichern:** Anhörungen vor LG-Entscheidung, Widerspruchs-/Klagefristen 1 Monat (§ 70 VwGO).
 4. **Dokumente einsammeln:** Versorgungsauftrag (alt), LG-Bescheid (neu), Strukturnachweise, Personalmeldungen.
@@ -57,10 +57,10 @@ Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz
 | Sicherstellungszuschlag beantragen | Finanzierungslueckenschluss | Politisch, befristet | duenn besiedelt, Versorgungsluecke |
 
 ## Praxistipps
-- Reform ist Bund-Länder-Koproduktion: Bundesgesetz gibt Raster, Land vergibt LG konkret. Beide Ebenen pruefen.
+- Reform ist Bund-Länder-Koproduktion: Bundesgesetz gibt Raster, Land vergibt LG konkret. Beide Ebenen prüfen.
 - Vorhalteverguetung greift wirksam erst ab 2027 (Konvergenz 2025-2026), DRG-Anteil sinkt schrittweise.
-- Transformationsfonds (50 Mrd. EUR ueber 10 Jahre) — Antragslogik beachten, Kofinanzierung Land Pflicht.
-- Versorgungsauftrag und LG-Profil sind nicht deckungsgleich; bei Diskrepanz frueh klaeren.
+- Transformationsfonds (50 Mrd. EUR über 10 Jahre) — Antragslogik beachten, Kofinanzierung Land Pflicht.
+- Versorgungsauftrag und LG-Profil sind nicht deckungsgleich; bei Diskrepanz frueh klären.
 
 ## Mustertexte
 **Anhörungs-Antwort an Landesplanungsbehoerde:**
@@ -69,12 +69,12 @@ Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz
 ## Typische Fehler
 - LG-Logik mit DRG-Abrechnung verwechseln; LG ist Plan-, DRG ist Verguetungsschicht.
 - Vorhaltefinanzierung als sofort verfuegbar annehmen (Konvergenz!).
-- Strukturqualitaet ohne G-BA-Beschluesse pruefen; G-BA ist Quelle.
+- Strukturqualitaet ohne G-BA-Beschlüsse prüfen; G-BA ist Quelle.
 - Frist zur Anhörung verpassen — danach gilt Bescheid als wirksam zugestellt.
 
 ## Quellen Stand 06/2026
 - KHVVG (12.12.2024); KHG, KHEntgG, SGB V in der seit 01/2025 geltenden Fassung.
 - BMG-Leistungsgruppen-Liste (Live-Check: bundesgesundheitsministerium.de).
-- G-BA-Beschluesse zu Mindestmengen und Strukturqualitaet (Live-Check: g-ba.de).
+- G-BA-Beschlüsse zu Mindestmengen und Strukturqualitaet (Live-Check: g-ba.de).
 - Landeskrankenhausplaene der Länder (Live-Check Landesministerium).
 - BSG, staend. Rspr. zum Versorgungsauftrag (§ 109 SGB V).

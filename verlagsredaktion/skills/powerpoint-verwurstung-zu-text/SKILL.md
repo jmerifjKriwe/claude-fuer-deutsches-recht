@@ -19,7 +19,7 @@ Der haeufige Fall: Ein Autor liefert "den Vortrag" als .pptx mit 60 Folien, drei
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn .pptx als einzige Quelle vorliegt. Klaeren Sie:
+Sie brauchen ihn, wenn .pptx als einzige Quelle vorliegt. Klären Sie:
 
 1. Gibt es eine Audio-Aufzeichnung des Vortrags zusaetzlich (dann zuerst transkribieren)?
 2. Hat der Autor Notizen in den Notizenseiten gespeichert (oft unsichtbare Goldgrube)?
@@ -38,7 +38,7 @@ Sie brauchen ihn, wenn .pptx als einzige Quelle vorliegt. Klaeren Sie:
 1. **Notizenseiten zuerst.** Oft steckt dort der Volltext oder die Stichworte des Vortragenden. PowerPoint -> Datei -> Exportieren als Handzettel mit Notizen oder Pandoc.
 2. **Gliederung extrahieren.** Folien-Titel als Gliederungsskelett. Erste Diagnose: passt die Reihenfolge für Fliesstext?
 3. **Bullets in Fliesstext aufloesen.** Jeder Bullet wird ein Satz oder Halbsatz, nicht ein Aufzaehlungspunkt. Wo Bullets keinen Inhalt tragen, Autor fragen.
-4. **Grafiken pruefen.** Stammen sie vom Autor (Eigenproduktion mit Quellangabe) oder aus Drittquellen? Bei Drittgrafiken sofort Rechtecheck.
+4. **Grafiken prüfen.** Stammen sie vom Autor (Eigenproduktion mit Quellangabe) oder aus Drittquellen? Bei Drittgrafiken sofort Rechtecheck.
 5. **Quellenangabe rekonstruieren.** PPT enthaelt selten Pinpoints. Pinpoint-Auftrag an Autor zurueckspielen.
 6. **Schluss und Einleitung schreiben.** Vortraege beginnen oft mit "Vielen Dank für die Einladung", enden mit "Vielen Dank für Ihre Aufmerksamkeit". Beides streichen, durch echte Einleitung und Ergebnis ersetzen.
 7. **Erste Schriftfassung an Autor.** Markieren, wo Sie aus eigener Kompositionsleistung formuliert haben, damit der Autor freigeben kann.

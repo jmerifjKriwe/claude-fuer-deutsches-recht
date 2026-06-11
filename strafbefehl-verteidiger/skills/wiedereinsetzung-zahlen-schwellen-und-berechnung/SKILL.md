@@ -68,4 +68,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  Mit diesem Antrag wird die versaeumte Handlung (Einspruch gegen Strafbefehl, Anlage 3)
  nachgeholt.
  ```
-- **Praxis-Tipp:** Bei Zustellungsdefekten **Heilung § 189 ZPO** pruefen (Zustellung gilt zum tatsaechlichen Zugangsdatum als bewirkt - was die ggf. spaetere Fristberechnung beeinflusst).
+- **Praxis-Tipp:** Bei Zustellungsdefekten **Heilung § 189 ZPO** prüfen (Zustellung gilt zum tatsaechlichen Zugangsdatum als bewirkt - was die ggf. spaetere Fristberechnung beeinflusst).

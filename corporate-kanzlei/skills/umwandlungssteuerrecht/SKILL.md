@@ -110,7 +110,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. Buchwertfortfuehrung gewuenscht (§§ 11, 20, 24 UmwStG)? Dann Antrag noetig.
 4. Auslandsbezug: EU/EWR oder Drittland → § 1 IV UmwStG-Beschraenkungen?
 5. Verlustvortraege bei der uebertragenden Gesellschaft? → § 12 III UmwStG; § 8c KStG Risiko?
-6. Grundstuecke im uebergehenden Vermoegen? → GrESt-Befreiung pruefbar (§ 6a GrEStG)?
+6. Grundstuecke im uebergehenden Vermögen? → GrESt-Befreiung pruefbar (§ 6a GrEStG)?
 7. Umwandlung innerhalb Konzern oder mit Dritten?
 
 ## Zentrale Normen
@@ -130,7 +130,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Steuerneutralitaet: Voraussetzungen der Buchwertfortfuehrung
 
-| Voraussetzung | Rechtsgrundlage | Pruefung |
+| Voraussetzung | Rechtsgrundlage | Prüfung |
 |---|---|---|
 | Antrag auf Buchwertfortfuehrung | §§ 11 I, 20 II, 24 II UmwStG | Antrag vor Abgabe Steuererklaerung; spaetestens mit Steuerklaerung für Uebertragungsjahr |
 | Uebertragende Gesellschaft EU/EWR | § 1 II, IV UmwStG | Drittland-Umwandlungen ausgeschlossen |
@@ -153,13 +153,13 @@ Das Konzernprivileg befreit Umstrukturierungen im Konzern von der GrESt, wenn:
 2. Vorbehaltefrist: 5 Jahre vor der Umwandlung bestehende Beteiligung
 3. Nachbehaltefrist: 5 Jahre Beteiligung nach der Umwandlung
 
-Praxisproblem: Konzernumstrukturierungen koennen GrESt-Befreiung durch spaetere Anteilsveraeusserungen innerhalb der Nachbehaltefrist verlieren.
+Praxisproblem: Konzernumstrukturierungen können GrESt-Befreiung durch spaetere Anteilsveraeusserungen innerhalb der Nachbehaltefrist verlieren.
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Strukturplanung mit Steuerberater** — Umwandlungsart und Steueroptimierung abstimmen; LOI/Term Sheet pruefen
-2. **Buchwertfortfuehrungsantrag vorbereiten** — Form und Inhalt gemaess §§ 11, 20, 24 UmwStG
-3. **Verlustvortraege pruefen** — § 8c KStG Risiko bei Anteilsaenderungen; Sanierungsklausel?
+1. **Strukturplanung mit Steuerberater** — Umwandlungsart und Steueroptimierung abstimmen; LOI/Term Sheet prüfen
+2. **Buchwertfortfuehrungsantrag vorbereiten** — Form und Inhalt gemäß §§ 11, 20, 24 UmwStG
+3. **Verlustvortraege prüfen** — § 8c KStG Risiko bei Anteilsaenderungen; Sanierungsklausel?
 4. **GrESt-Analyse** — § 6a GrEStG Konzernprivileg; Vorbehalte- und Nachbehaltefrist-Kalender
 5. **Entstrickungsrisiko ausschliessen** — deutsches Besteuerungsrecht bleibt erhalten?
 6. **Steuererklaerung für Uebertragungsjahr** — Antrag auf Buchwert bis Abgabe stellen
@@ -209,7 +209,7 @@ OFFENE PUNKTE
 - Sperrfrist-Verletzung ohne vorherige Steueranalyse → rueckwirkende Besteuerung 7 Jahre
 - § 6a GrEStG-Nachbehaltsfrist unterschaetzt → unerwartete GrESt-Zahlung
 - § 8c KStG-Risiko nicht erkannt → Verlustvortraege weg; hoehere Steuerlast
-- Auslandsumwandlung ohne EWR-Bezug → keine Steuerneutralitaet moeglich
+- Auslandsumwandlung ohne EWR-Bezug → keine Steuerneutralitaet möglich
 
 ## Quellen
 

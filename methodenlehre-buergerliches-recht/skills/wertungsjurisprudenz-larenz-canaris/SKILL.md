@@ -22,7 +22,7 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 - Sie wollen die heute herrschende Methode verstehen, mit der Gerichte und Kommentarliteratur arbeiten.
 - Sie argumentieren mit Schutzzwecken, Wertentscheidungen, Systemkonsistenz und Grundrechtsbindung.
-- Sie pruefen Generalklauseln und brauchen eine theoretisch tragfaehige Konkretisierungslehre.
+- Sie prüfen Generalklauseln und brauchen eine theoretisch tragfaehige Konkretisierungslehre.
 - Sie unterrichten Methodenlehre oder schulen Junior-Anwaelte.
 - Sie wollen die Spannung zwischen Begriffsjurisprudenz und moderner Wertungsjurisprudenz im konkreten Fall sichtbar machen.
 
@@ -43,31 +43,31 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 ## Anwendung im deutschen Zivilrecht
 
-**Beispiel § 138 BGB:** Wertungsjuristische Konkretisierung der Sittenwidrigkeit ueber objektive Wertungen — nicht "Volksempfinden", sondern Grundrechte (BVerfGE 89, 214 — Buergschaft) und das Wertesystem des BGB (Aequivalenz, Vertragsgerechtigkeit, Schutz des Schwaecheren).
+**Beispiel § 138 BGB:** Wertungsjuristische Konkretisierung der Sittenwidrigkeit über objektive Wertungen — nicht "Volksempfinden", sondern Grundrechte (BVerfGE 89, 214 — Buergschaft) und das Wertesystem des BGB (Äquivalenz, Vertragsgerechtigkeit, Schutz des Schwaecheren).
 
 **Beispiel § 242 BGB:** Treu und Glauben als wertende Generalklausel, konkretisiert durch Fallgruppen (rechtsmissbraeuchliches Verhalten, venire contra factum proprium, dolo agit, Schikaneverbot). Die Fallgruppen-Bildung ist wertungsjuristisches Verfahren.
 
 **Beispiel Vertrag mit Schutzwirkung zugunsten Dritter:** Richterliche Rechtsfortbildung, die nicht aus Begriffen abgeleitet, sondern aus Wertungen begruendet wird. Wertung: Vertraglicher Schutz darf nicht beim formellen Vertragspartner enden, wenn Dritte bestimmungsgemaess in den Vertrag hineinragen (z. B. Familienmitglieder bei Mietvertrag, Beschaeftigte des Werkbestellers).
 
-**Beispiel Anspruchskonkurrenz:** Verhaeltnis von vertraglichen, deliktischen und bereicherungsrechtlichen Anspruechen wird wertungsjuristisch geordnet. Beispiel: § 437 BGB als spezialgesetzliche Maengelhaftung verdraengt nicht voellig die deliktische Haftung — der Aequivalenzschutz aus Vertrag ist anderes als der Integritaetsschutz aus Delikt.
+**Beispiel Anspruchskonkurrenz:** Verhaeltnis von vertraglichen, deliktischen und bereicherungsrechtlichen Anspruechen wird wertungsjuristisch geordnet. Beispiel: § 437 BGB als spezialgesetzliche Maengelhaftung verdraengt nicht völlig die deliktische Haftung — der Aequivalenzschutz aus Vertrag ist anderes als der Integritaetsschutz aus Delikt.
 
-**Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** Die Generalklausel des § 307 BGB (unangemessene Benachteiligung) ist wertungsjuristisches Kernstueck — Konkretisierung erfolgt durch dispositives Recht als Leitbild, durch Aequivalenz-Gedanken und durch Grundrechte (insbesondere bei B2C im Lichte der Klausel-RL 93/13/EWG).
+**Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** Die Generalklausel des § 307 BGB (unangemessene Benachteiligung) ist wertungsjuristisches Kernstueck — Konkretisierung erfolgt durch dispositives Recht als Leitbild, durch Äquivalenz-Gedanken und durch Grundrechte (insbesondere bei B2C im Lichte der Klausel-RL 93/13/EWG).
 
 ## Schritt-für-Schritt
 
 1. **Wertung der Norm formulieren.** Was schuetzt die Norm? Welches Interesse wertet sie hoeher? Welche Verfassungsentscheidung steht dahinter?
-2. **System-Wertung pruefen.** Wie passt die Norm in die Wertordnung des BGB-Abschnitts und ins Gesamtsystem?
-3. **Grundrechtsbindung pruefen.** Welche Grundrechte sind im Privatrechtsverhaeltnis betroffen? Mittelbare Drittwirkung beachten.
-4. **Unionsrechtliche Wertungen pruefen.** Welche Richtlinien-Wertungen sind einschlaegig?
-5. **Vergleichsfaelle pruefen.** Wie hat die Rechtsprechung den Wertungskonflikt gewichtet (Fallgruppen)?
+2. **System-Wertung prüfen.** Wie passt die Norm in die Wertordnung des BGB-Abschnitts und ins Gesamtsystem?
+3. **Grundrechtsbindung prüfen.** Welche Grundrechte sind im Privatrechtsverhaeltnis betroffen? Mittelbare Drittwirkung beachten.
+4. **Unionsrechtliche Wertungen prüfen.** Welche Richtlinien-Wertungen sind einschlaegig?
+5. **Vergleichsfaelle prüfen.** Wie hat die Rechtsprechung den Wertungskonflikt gewichtet (Fallgruppen)?
 6. **Eigene Wertung formulieren** und im Schriftsatz oder Memo systematisch ankerbar machen.
-7. **Begriffliche Konsistenz pruefen.** Wertung darf die Begriffsstruktur nicht unsachlich sprengen — sonst verlierst du Rechtssicherheit.
+7. **Begriffliche Konsistenz prüfen.** Wertung darf die Begriffsstruktur nicht unsachlich sprengen — sonst verlierst du Rechtssicherheit.
 
 ## Typische Fehler / Kritik
 
-- **Wertung statt Subsumtion.** Wertungsjurisprudenz ersetzt nicht den Wortlaut, sondern fuellt ihn aus. Wer ueber den Wortlaut hinaus argumentiert, betreibt Rechtsfortbildung.
+- **Wertung statt Subsumtion.** Wertungsjurisprudenz ersetzt nicht den Wortlaut, sondern fuellt ihn aus. Wer über den Wortlaut hinaus argumentiert, betreibt Rechtsfortbildung.
 - **Subjektive Wuensche als "objektive Wertung" verkauft.** Die Wertung muss am Norm-Telos, am System und an der Verfassung verankert sein, nicht am Wunschergebnis.
-- **Grundrechte direkt im Privatrechtsstreit anwenden.** Mittelbare Drittwirkung wirkt **ueber** Generalklauseln, nicht direkt (Ausnahmen: BVerfG-Entscheidungen zu Stadion-Verbot etc.).
+- **Grundrechte direkt im Privatrechtsstreit anwenden.** Mittelbare Drittwirkung wirkt **über** Generalklauseln, nicht direkt (Ausnahmen: BVerfG-Entscheidungen zu Stadion-Verbot etc.).
 - **System ueberbetonen.** Auch das System ist nicht geschlossen — durch Unionsrecht und Grundrechte ist es offen. Wer rein systemimmanent argumentiert, verliert die Mehrebenenordnung.
 
 **Kritik aus der Topik (Viehweg):** Wertungsjurisprudenz unterstellt einen Konsens darueber, was die "richtige Wertung" ist. In Wahrheit wird die Wertung im juristischen Diskurs ausgehandelt — Topoi statt System (siehe Skill `topik-viehweg-vs-systemdenken`).

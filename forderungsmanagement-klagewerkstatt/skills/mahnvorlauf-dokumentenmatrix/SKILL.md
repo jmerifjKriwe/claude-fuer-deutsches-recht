@@ -5,7 +5,7 @@ description: "Dokumentiert den aussergerichtlichen Mahnvorlauf in einer Matrix v
 
 # Mahnvorlauf Dokumentenmatrix
 
-Der Mahnvorlauf entscheidet ueber Verzugsbeginn und ueber Erstattung der Inkassokosten.
+Der Mahnvorlauf entscheidet über Verzugsbeginn und über Erstattung der Inkassokosten.
 
 ## Matrix-Vorlage
 

@@ -21,11 +21,11 @@ description: "Zollerlass und -erstattung für Rueckwaren nach UZK Art. 203 und V
 
 ## Erste Schritte
 
-1. Rueckware-Voraussetzungen pruefen: EU-Ursprungsstatus, Dreijahrsfrist (mit Ausnahmen), keine Bearbeitung im Ausland.
+1. Rueckware-Voraussetzungen prüfen: EU-Ursprungsstatus, Dreijahrsfrist (mit Ausnahmen), keine Bearbeitung im Ausland.
 2. Identitaetsnachweis zusammenstellen: Ausfuhranmeldung, Seriennummern, Warenmerkmale.
-3. Bearbeitung im Ausland pruefen: einfache Konservierung ist erlaubt; Reparatur fuehrt zu passiver Veredelung.
+3. Bearbeitung im Ausland prüfen: einfache Konservierung ist erlaubt; Reparatur fuehrt zu passiver Veredelung.
 4. Verfahrenscode 6321 in ATLAS-Einfuhranmeldung verwenden.
-5. Eventuelle Erstattungspflicht auf Exportland-MwSt pruefen.
+5. Eventuelle Erstattungspflicht auf Exportland-MwSt prüfen.
 6. Bei abgelaufener Dreijahrsfrist: Verlaengerungsantrag beim Hauptzollamt stellen.
 
 ## Rechtsrahmen
@@ -47,7 +47,7 @@ description: "Zollerlass und -erstattung für Rueckwaren nach UZK Art. 203 und V
 
 ## Typische Fallstricke
 
-- Dreijahrsfrist abgelaufen ohne Antragsstellung; nachtraegliche Verlaengerung moeglich aber aufwendig.
+- Dreijahrsfrist abgelaufen ohne Antragsstellung; nachtraegliche Verlaengerung möglich aber aufwendig.
 - Reparatur im Ausland macht Ware zur passiven Veredelung, nicht zur Rueckware.
 - Fehlender Identitaetsnachweis; urspruengliche Ausfuhranmeldung nicht mehr auffindbar.
 - Rueckwaren-Verfahren ausgeschlossen bei Ware, die im EU-Ausland zollrechtlich in Frei-Verkehr gesetzt war.

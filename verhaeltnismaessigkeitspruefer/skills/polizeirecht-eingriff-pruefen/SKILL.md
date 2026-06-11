@@ -3,11 +3,11 @@ name: polizeirecht-eingriff-pruefen
 description: Polizeirechtlicher Eingriff durch die vier Stufen der Verhaeltnismaessigkeit pruefen mit Standardmuster Polizeiverfuegung. Mit Gefahrenprognose Stoererhaftung Anscheinsstoerer und Hinweisen zur Einschaetzungspraerogative der Polizeibehoerde.
 ---
 
-# Polizeirecht Eingriff Pruefen
+# Polizeirecht Eingriff Prüfen
 
 ## Pruefungsaufbau Polizeiverfuegung
 
-> Wenn die Massnahme eine Versammlung betrifft, zuerst `versammlungsfreiheit-brokdorf-auflagen-verbot` zuschalten. Art. 8 GG veraendert die Gewichtung: Die Behoerde muss nicht nur Gefahren abwehren, sondern die Versammlung moeglich machen, solange milde Auflagen reichen.
+> Wenn die Maßnahme eine Versammlung betrifft, zuerst `versammlungsfreiheit-brokdorf-auflagen-verbot` zuschalten. Art. 8 GG veraendert die Gewichtung: Die Behoerde muss nicht nur Gefahren abwehren, sondern die Versammlung möglich machen, solange milde Auflagen reichen.
 
 ## Normenanker
 
@@ -16,14 +16,14 @@ description: Polizeirechtlicher Eingriff durch die vier Stufen der Verhaeltnisma
 - Art. 13 GG: Wohnungseingriffe bei Betreten, Durchsuchung, technischer Ueberwachung.
 - Art. 14 GG: Eigentum bei Sicherstellung, Beschlagnahme, Nutzungsuntersagung.
 - Art. 19 Abs. 4 GG: effektiver Rechtsschutz.
-- Art. 20 Abs. 3 GG: Gesetzesbindung und Verhaeltnismaessigkeit.
+- Art. 20 Abs. 3 GG: Gesetzesbindung und Verhältnismäßigkeit.
 - Polizeigesetz des Landes: Generalklausel, Standardmassnahme, Verantwortlichkeit, unmittelbarer Zwang.
 - § 80 Abs. 5 VwGO, § 123 VwGO: Eilrechtsschutz gegen polizeiliche Verfuegung.
 
 ## Entscheidungsanker
 
 - BVerfG, Beschluss vom 14.05.1985, 1 BvR 233/81, 1 BvR 341/81, BVerfGE 69, 315 (Brokdorf): konkrete Gefahrenprognose und versammlungsfreundliche Steuerung.
-- BVerfG, Beschluss vom 04.04.2006, 1 BvR 518/02, BVerfGE 115, 320 (Rasterfahndung): diffuse Bedrohungslage reicht fuer tiefen Streueingriff nicht.
+- BVerfG, Beschluss vom 04.04.2006, 1 BvR 518/02, BVerfGE 115, 320 (Rasterfahndung): diffuse Bedrohungslage reicht für tiefen Streueingriff nicht.
 - BVerfG, Urteil vom 27.02.2008, 1 BvR 370/07, 1 BvR 595/07, BVerfGE 120, 274 (Online-Durchsuchung): hohe Eingriffsschwellen und Verfahrenssicherungen bei heimlichen IT-Eingriffen.
 
 Vor der Verhaeltnismaessigkeitspruefung pruefe:
@@ -33,23 +33,23 @@ Vor der Verhaeltnismaessigkeitspruefung pruefe:
    Putativgefahr).
 4. **Adressat** (Verhaltensstoerer, Zustandsstoerer,
    Nichtstoerer, Anscheinsstoerer).
-5. **Verhaeltnismaessigkeit** als materielle Rechtmaessigkeit.
+5. **Verhältnismäßigkeit** als materielle Rechtmaessigkeit.
 
 ## Vier Stufen im Polizeikontext
 
 ### Stufe 1: Legitimer Zweck
-Im Polizeirecht: **Abwehr einer Gefahr** fuer oeffentliche Sicherheit
+Im Polizeirecht: **Abwehr einer Gefahr** für oeffentliche Sicherheit
 oder Ordnung. Reine Zweckbehauptungen ohne tragfähige Gefahrenschwelle und Prognosebasis reichen nicht.
 
 ### Stufe 2: Geeignetheit
-Foerdert die Massnahme die Gefahrenabwehr? In Eilsituationen genuegt
+Foerdert die Maßnahme die Gefahrenabwehr? In Eilsituationen genuegt
 **vertretbare ex-ante Prognose**.
 
 ### Stufe 3: Erforderlichkeit
-Mildere Mittel pruefen:
+Mildere Mittel prüfen:
 - Verwarnung statt Verfuegung
 - Auflage statt Verbot
-- Befristete statt unbefristete Massnahme
+- Befristete statt unbefristete Maßnahme
 - Stoererauswahl: Verhaltensstoerer vor Zustandsstoerer vor Nichtstoerer
 - Sachstoerung statt Personenstoerung
 
@@ -66,7 +66,7 @@ Wertungsfragen:
 **Anscheinsgefahr und Putativgefahr**: Bei Anscheinsgefahr (objektiv ex
 ante eine Gefahr erkennbar) bleibt der Eingriff verhaeltnismaessig;
 bei Putativgefahr (subjektive Fehleinschaetzung des Beamten) kann
-Verhaeltnismaessigkeit scheitern und Entschaedigung folgen.
+Verhältnismäßigkeit scheitern und Entschaedigung folgen.
 
 **Nichtstoererinanspruchnahme**: Nur subsidiaer, bei drohendem
 schweren Schaden, mit Vorrang der Verhaltens- und Zustandsstoerer
@@ -80,7 +80,7 @@ Verschuldensbeitraege zu beruecksichtigen.
 
 - ASCII-Pruefraster mit Stoeretypologie und vier Stufen.
 - Padlet-Tafel mit Gefahrenprognose Stoererhaftung Eingriffsstufen.
-- Begruendungsentwurf fuer die Polizeiverfuegung.
+- Begruendungsentwurf für die Polizeiverfuegung.
 
 ## Klassischer Klausur-Aufhaenger
 

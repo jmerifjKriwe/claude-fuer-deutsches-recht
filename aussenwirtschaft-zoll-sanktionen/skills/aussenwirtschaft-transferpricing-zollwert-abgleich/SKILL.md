@@ -21,10 +21,10 @@ description: "Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (
 
 ## Erste Schritte
 
-1. Verrechnungspreisdokumentation (Masterfile Localfile) auf Relevanz für Zollwert pruefen.
-2. Transaktionswert nach UZK Art. 70 Pruefung: Gibt es Preisbeeinflussung durch Verhaeltnis (Art. 70 Abs. 3)?
-3. Preisanpassungen und True-Ups: retroaktive Zollwertkorrektur und Nachanmeldungspflicht pruefen.
-4. APA-Vereinbarung auf Zollwert-Kompatibilitaet pruefen; WTO Valuation Agreement Art. 1.
+1. Verrechnungspreisdokumentation (Masterfile Localfile) auf Relevanz für Zollwert prüfen.
+2. Transaktionswert nach UZK Art. 70 Prüfung: Gibt es Preisbeeinflussung durch Verhaeltnis (Art. 70 Abs. 3)?
+3. Preisanpassungen und True-Ups: retroaktive Zollwertkorrektur und Nachanmeldungspflicht prüfen.
+4. APA-Vereinbarung auf Zollwert-Kompatibilitaet prüfen; WTO Valuation Agreement Art. 1.
 5. Alternativmethoden nach UZK Art. 74 wenn Transaktionswert abgelehnt wird.
 6. Risikobewertung: Zollnacherhebung und moegliche Zinsen/Bussgelder dokumentieren.
 
@@ -49,8 +49,8 @@ description: "Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (
 
 - Nachtraegliche Preisminderungen erhoehen den Zollwert nicht; Nachtragsanmeldung bei Erhoehungen Pflicht.
 - APAs mit Finanzbehorden binden Zollbehoerden nicht automatisch.
-- Lizenzgebuehren und Royalties koennen den Zollwert erhoehen (UZK Art. 71 Abs. 1 lit. c).
-- Konzernmutter-Verrechnungspreise muessen Armlaengenprinzip erfuellen um Transaktionswert zu stuetzen.
+- Lizenzgebuehren und Royalties können den Zollwert erhoehen (UZK Art. 71 Abs. 1 lit. c).
+- Konzernmutter-Verrechnungspreise müssen Armlaengenprinzip erfuellen um Transaktionswert zu stuetzen.
 
 ## Schnittstellen zu anderen Skills
 

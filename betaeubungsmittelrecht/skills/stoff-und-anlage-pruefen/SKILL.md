@@ -3,7 +3,7 @@ name: stoff-und-anlage-pruefen
 description: "Betäubungsmittelrecht: Stoff und Anlage prüfen. Stoff und Anlage prüfen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
 ---
 
-# Stoff Und Anlage Pruefen
+# Stoff Und Anlage Prüfen
 
 ## Arbeitsweg
 

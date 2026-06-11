@@ -51,14 +51,14 @@ description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnis
 |---|---|
 | ueberwiegend | Ausnahmen mitgedacht, Note 3 bis 4 |
 | weitgehend | Ausnahmen mitgedacht, Note 3 bis 4 |
-| grundsaetzlich | Ausnahmen mitgedacht, Note 3 bis 4 |
+| grundsätzlich | Ausnahmen mitgedacht, Note 3 bis 4 |
 
 ### Starke Negativsteigerer (Note 4 bis 5)
 
 | Adverb | Wirkung |
 |---|---|
 | im Wesentlichen | Erhebliche Maengel, Note 4 |
-| im Grossen und Ganzen | Erhebliche Maengel, Note 4 |
+| im Großen und Ganzen | Erhebliche Maengel, Note 4 |
 | bei guten Tagen | Schwankende Leistung, Note 4 bis 5 |
 
 ### Frequenzadverbien

@@ -3,7 +3,7 @@ name: belegtransfer-datev-unternehmen-online
 description: "Belegtransfer DATEV Unternehmen Online. Anwendungsfall systematischer Belegfluss Mandant zu StB Beleg-Scan App Mailpostfach Bank-Anbindung. Methodik Konfiguration Workflow. Output Belegfluss-Standard."
 ---
 
-# Belegtransfer ueber DATEV Unternehmen Online
+# Belegtransfer über DATEV Unternehmen Online
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "Belegtransfer DATEV Unternehmen Online. Anwendungsfall systematisc
 
 ## Kernsachverhalt
 
-DATEV Unternehmen Online (DUO) ist die Standardplattform für Belegtransfer zwischen Mandant und StB. Mandant erfasst Belege ueber Smartphone-App, Scanner oder Mailpostfach; StB greift in DATEV Kanzlei-Rechnungswesen direkt zu. Dieser Skill konkretisiert den Belegfluss und die Standard-Workflow-Konfiguration.
+DATEV Unternehmen Online (DUO) ist die Standardplattform für Belegtransfer zwischen Mandant und StB. Mandant erfasst Belege über Smartphone-App, Scanner oder Mailpostfach; StB greift in DATEV Kanzlei-Rechnungswesen direkt zu. Dieser Skill konkretisiert den Belegfluss und die Standard-Workflow-Konfiguration.
 
 ## Kaltstart-Rueckfragen
 
@@ -46,22 +46,22 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform für Belegtransfer zwis
 
 ### Phase 3 — Buchungs-Vorschlag
 
-- DATEV "Belege Online" / Belegcockpit zeigt Beleg-Bild und Buchungsvorschlag (Konto, USt-Schluessel, Buchungstext) nebeneinander an.
-- Sachbearbeiter prueft den Vorschlag, korrigiert ggf. die Kontierung und gibt frei.
-- Bei manueller Klaerung wird die Mandantenanfrage ueber das DUO-Postfach gestellt (revisionssichere Dokumentation).
+- DATEV "Belege Online" / Belegcockpit zeigt Beleg-Bild und Buchungsvorschlag (Konto, USt-Schlüssel, Buchungstext) nebeneinander an.
+- Sachbearbeiter prüft den Vorschlag, korrigiert ggf. die Kontierung und gibt frei.
+- Bei manueller Klärung wird die Mandantenanfrage über das DUO-Postfach gestellt (revisionssichere Dokumentation).
 - Konkrete Menue-Pfade in der aktuellen DATEV-Programmversion ggf. abweichend.
 
 ### Phase 4 — Bank-Anbindung
 
-- Bank-Online ueber PSD2.
+- Bank-Online über PSD2.
 - Bankbewegungen automatisch.
-- Zuordnung zu Belegen ueber Verwendungszweck.
+- Zuordnung zu Belegen über Verwendungszweck.
 
 ### Phase 5 — eRechnungs-Empfang
 
 - DUO mit eRechnungs-Postfach.
 - XRechnung/ZUGFeRD-Auswertung.
-- Automatische Verbuchung moeglich.
+- Automatische Verbuchung möglich.
 
 ### Phase 6 — Archivierung
 
@@ -73,7 +73,7 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform für Belegtransfer zwis
 
 - DUO + DATEV Upload Online = Killer-Kombination für effizienten Belegfluss.
 - OCR-Qualitaet variabel — Kontrolle durch Sachbearbeiter bleibt Pflicht.
-- Bei vielen kleinen Belegen: Mandant taeglich scannen, Sachbearbeiter woechentlich pruefen.
+- Bei vielen kleinen Belegen: Mandant taeglich scannen, Sachbearbeiter woechentlich prüfen.
 - Bei eRechnungs-Empfang: Automatisierung Hebel.
 - DATEV-Tipp: DATEV Upload Online mit GoBD-konformer Mandanten-Schulung.
 
@@ -83,7 +83,7 @@ Stand: 05/2026.
 
 - AO §§ 146, 147.
 - BMF v. 28.11.2019 zu GoBD.
-- DATEV Unternehmen Online und "Belege Online" Dokumentation (aktuelle Version pruefen).
+- DATEV Unternehmen Online und "Belege Online" Dokumentation (aktuelle Version prüfen).
 - Verifikations-Hinweis: konkrete Programmpfade und Modul-Bezeichnungen ggf. abweichend in aktueller DATEV-Version.
 
 ## Normen und Rechtsprechung

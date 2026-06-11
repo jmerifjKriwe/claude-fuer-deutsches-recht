@@ -3,7 +3,7 @@ name: deckungsfaehigkeit-pruefen
 description: "Haushaltsrecht BHO Bund und Länder: Deckungsfähigkeit prüfen. Deckungsfähigkeit prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkma..."
 ---
 
-# Deckungsfaehigkeit Pruefen
+# Deckungsfaehigkeit Prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Deckungsfähigkeit prüfen. D
 
 ## Normenanker
 
-Arbeitsfokus: **Deckungsfaehigkeit Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Deckungsfaehigkeit Prüfen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
 - `§ 17 BHO` — Einzelveranschlagung.

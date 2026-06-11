@@ -28,7 +28,7 @@ description: "Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anla
 - **§ 3 Abs. 5a BImSchG** — Stoerfall-Definition (unkontrolliertes Ereignis, erhebliche Gefahr)
 - **§ 7 Abs. 1 Nr. 5 BImSchG** — Anforderungen an Anlagen Sicherheitsbericht
 - **§ 16 BImSchV (12. BImSchV)** — Sicherheitsbericht Pflichtinhalt (Gefahrenquellen, Schutz-/Notfallkonzept)
-- **§ 17 BImSchV** — Bericht nach Stoerfall (Untersuchungspflicht, Massnahmen)
+- **§ 17 BImSchV** — Bericht nach Stoerfall (Untersuchungspflicht, Maßnahmen)
 - **§ 19 BImSchV** — Stoerfallanzeige bei Behörde (unverzueglich)
 - **§ 20 BImSchV** — Unterrichtung Oeffentlichkeit (Angaben Anlagen-Website)
 - **Art. 13 Seveso-III-Richtlinie (2012/18/EU)** — Sicherheitsabstaende Raumordnung
@@ -44,13 +44,13 @@ description: "Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anla
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-### A) Praeventive Compliance-Pruefung
+### A) Praeventive Compliance-Prüfung
 
-1. **Stoerfall-Relevanz pruefen**: Mengen gefaehrlicher Stoffe nach Anhang I 12. BImSchV — Spalte 1 oder 2.
+1. **Stoerfall-Relevanz prüfen**: Mengen gefaehrlicher Stoffe nach Anhang I 12. BImSchV — Spalte 1 oder 2.
 2. **Sicherheitskonzept Grundpflichten**: § 8 12. BImSchV — schriftliches Konzept Verhuetung Stoerfaelle.
 3. **Sicherheitsbericht Erweiterte Pflichten**: § 16 12. BImSchV — Inhalt: Stoffe, Anlage, Risiken, Notfallplanung; Prueflauf alle 5 Jahre.
 4. **Anzeige/Genehmigung**: § 4 BImSchG, § 9 12. BImSchV — Behörde informieren vor Betriebsbeginn.
-5. **Sicherheitsabstand pruefen**: KAS-18-Leitfaden BG Chemie; Abstand zu schutzbeduerftigen Gebieten ermitteln.
+5. **Sicherheitsabstand prüfen**: KAS-18-Leitfaden BG Chemie; Abstand zu schutzbeduerftigen Gebieten ermitteln.
 6. **Notfallplan**: § 10 12. BImSchV — interner Alarm- und Notfallplan; externe Information an Behörde.
 7. **Unterrichtung Oeffentlichkeit**: § 20 12. BImSchV — Anlage-Website Sicherheitsinformationen.
 
@@ -77,12 +77,12 @@ Stoff in Anhang I 12. BImSchV?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Stellungnahme nach Storfallmeldung erstellen | Stellungnahme nach Schema; Template unten |
-| Variante A — Stoeranfall noch laufend keine Stellungnahme moeglich | Krisenkommunikation zuerst; Stellungnahme nach Abschluss |
+| Variante A — Stoeranfall noch laufend keine Stellungnahme möglich | Krisenkommunikation zuerst; Stellungnahme nach Abschluss |
 | Variante B — Stoeranfall ohne Schaden nur formale Meldepflicht | Minimale Meldung; Stellungnahme kurzgefasst |
 | Variante C — Behörde droht Betriebsuntersagung | Dringlichkeit erhoehen; Stellungnahme mit Massnahmenplan |
 
@@ -125,7 +125,7 @@ Wir legen bis zum [DATUM] einen vollstaendigen Untersuchungsbericht vor.
 Anlagen: Lageplan, Stofffliessschema, Messprotokoll
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -144,7 +144,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Sicherheitsbericht | NEIN | JA | § 16 12. BImSchV |
 | Notfallplan intern | JA | JA | § 10 Abs. 1 |
 | Extern. Notfallplan Behörde | NEIN | JA | § 10 Abs. 2 |
-| Dominoeffekt-Pruefung | NEIN | JA | § 14 12. BImSchV |
+| Dominoeffekt-Prüfung | NEIN | JA | § 14 12. BImSchV |
 | Oeffentlichkeits-Information | NEIN | JA | § 20 12. BImSchV |
 | Sicherheitsabstand | JA | JA | § 50 BImSchG |
 

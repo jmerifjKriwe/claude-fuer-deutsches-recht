@@ -13,7 +13,7 @@ description: "Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwen
 
 ## Kernsachverhalt
 
-Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb arbeiten. Sie sind in der KV/PV/AV beitragsfrei (Werkstudentenprivileg), aber RV-pflichtig. Voraussetzung: max. 20 Wochenstunden waehrend der Vorlesungszeit; in der vorlesungsfreien Zeit auch mehr. Pruefung sorgfaeltig — bei Verlust des Werkstudent-Status nachtraegliche SV-Beitragspflicht.
+Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb arbeiten. Sie sind in der KV/PV/AV beitragsfrei (Werkstudentenprivileg), aber RV-pflichtig. Voraussetzung: max. 20 Wochenstunden waehrend der Vorlesungszeit; in der vorlesungsfreien Zeit auch mehr. Prüfung sorgfaeltig — bei Verlust des Werkstudent-Status nachtraegliche SV-Beitragspflicht.
 
 ## Kaltstart-Rueckfragen
 
@@ -49,7 +49,7 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 
 ## Workflow
 
-### Phase 1 — Werkstudent-Status pruefen
+### Phase 1 — Werkstudent-Status prüfen
 
 | Kriterium | Erfuellt? |
 |---|---|
@@ -62,34 +62,34 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 ### Phase 2 — Arbeitszeitpruefung
 
 - Vorlesungszeit: max. 20 Wochenstunden.
-- Vorlesungsfreie Zeit (Semesterferien): mehr als 20 Stunden moeglich.
-- Mehrfach-Werkstudent: Summe der Stunden ueber alle AG ist massgeblich.
-- 26-Wochen-Regel: Eine Ueberschreitung der 20-Wochen-Stunden-Grenze bleibt unschaedlich, wenn sie ueberwiegend in vorlesungsfreien Zeitraeumen liegt und im 52-Wochen-Zeitraum nicht mehr als 26 Wochen umfasst (st. Spitzenverbands-Rundschreiben; bei Aenderung der DEUEV-Grundsaetze pruefen).
+- Vorlesungsfreie Zeit (Semesterferien): mehr als 20 Stunden möglich.
+- Mehrfach-Werkstudent: Summe der Stunden über alle AG ist massgeblich.
+- 26-Wochen-Regel: Eine Ueberschreitung der 20-Wochen-Stunden-Grenze bleibt unschaedlich, wenn sie ueberwiegend in vorlesungsfreien Zeitraeumen liegt und im 52-Wochen-Zeitraum nicht mehr als 26 Wochen umfasst (st. Spitzenverbands-Rundschreiben; bei Aenderung der DEUEV-Grundsaetze prüfen).
 - Bei dauerhafter Ueberschreitung der 20 Wochenstunden in der Vorlesungszeit: Werkstudenten-Status weg, voll SV-pflichtig.
 
 ### Phase 3 — SV-Beitraege
 
 | Zweig | Werkstudent |
 |---|---|
-| KV | Beitragsfrei aus der Beschaeftigung; eigene KV-Pflicht ueber Familienversicherung (bis Vollendung 25. Lj., § 10 SGB V) oder studentische KV (§ 5 Abs. 1 Nr. 9 SGB V) |
+| KV | Beitragsfrei aus der Beschaeftigung; eigene KV-Pflicht über Familienversicherung (bis Vollendung 25. Lj., § 10 SGB V) oder studentische KV (§ 5 Abs. 1 Nr. 9 SGB V) |
 | PV | Beitragsfrei |
 | AV | Beitragsfrei |
 | RV | Pflicht (voller Beitrag; im Uebergangsbereich nach § 20 Abs. 2 SGB IV gemindert, sofern Brutto in den Midi-Job-Bereich faellt) |
 
 **Zahlenbeispiel:** Werkstudent mit Brutto 900 EUR/Monat (im Uebergangsbereich). RV-AG 9,3 Prozent von 900 EUR = 83,70 EUR; AN-Anteil im Uebergangsbereich gemindert (Faktor F — vgl. `stb-lohn-midi-job-uebergangsbereich-2000-euro`). KV/PV/AV null. LSt nach Steuerklasse (typisch StKl 1, im Regelfall keine LSt unterhalb Grundfreibetrag).
 
-### Phase 4 — Anmeldung und Pruefung
+### Phase 4 — Anmeldung und Prüfung
 
 - Immatrikulationsbescheinigung jaehrlich aktualisieren (am besten zu Semesterbeginn).
-- SV-Anmeldung mit Personengruppen-Schluessel 106 (Werkstudent; DEUEV-Schluesselverzeichnis ITSG Stand 2025, unveraendert; bei DEUEV-Aenderung ITSG-Schluesselverzeichnis pruefen).
-- Bei Verlust Werkstudent-Status: Personengruppen-Schluessel auf 101 (regulaer) wechseln; Beitragsgruppen-Schluessel anpassen.
+- SV-Anmeldung mit Personengruppen-Schlüssel 106 (Werkstudent; DEUEV-Schluesselverzeichnis ITSG Stand 2025, unveraendert; bei DEUEV-Aenderung ITSG-Schluesselverzeichnis prüfen).
+- Bei Verlust Werkstudent-Status: Personengruppen-Schlüssel auf 101 (regulaer) wechseln; Beitragsgruppen-Schlüssel anpassen.
 
 ### Phase 5 — Sonderfaelle
 
 - Promovierende: kein Werkstudent (Master abgeschlossen). Ausnahme: vergebene Doktoranden-Stipendien.
 - Teilzeitstudenten: Werkstudent-Status zweifelhaft; Einzelfallpruefung.
 - Sprach- und Aufbaustudiengaenge: in der Regel Werkstudent.
-- Auslandsstudierende: bei deutscher Sozialversicherungspflicht (z.B. EU-Buerger mit deutscher Wohnung) Werkstudent moeglich.
+- Auslandsstudierende: bei deutscher Sozialversicherungspflicht (z.B. EU-Buerger mit deutscher Wohnung) Werkstudent möglich.
 
 ### Phase 6 — Dokumentation
 
@@ -101,7 +101,7 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 
 - 20-Stunden-Regel strikt — bei systematischem Ueberschreiten Status verloren.
 - Bei Ueberschreitung waehrend Semesterferien akzeptabel; in Vorlesungszeit kritisch.
-- Bei Wechsel Master in Promotion: Status faellt weg, Umstellung Personengruppen-Schluessel.
+- Bei Wechsel Master in Promotion: Status faellt weg, Umstellung Personengruppen-Schlüssel.
 - Bei Studienabschluss waehrend Beschaeftigung: Status faellt zum Tag des Abschlusses weg.
 - StBVV: in Lohnpauschale; Statuspruefung bei Sonderfaellen Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Werkstudent-Personengruppe automatisch; Immatrikulations-Wiedervorlage zu Semesterbeginn.
@@ -116,4 +116,4 @@ Stand: 05/2026.
 - BAfoeG § 16.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (DEUEV-Schluessel 106 unveraendert), 1 ersetzt (26-Wochen-Regel Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (DEUEV-Schlüssel 106 unveraendert), 1 ersetzt (26-Wochen-Regel Pruefhinweis ohne Marker) -->

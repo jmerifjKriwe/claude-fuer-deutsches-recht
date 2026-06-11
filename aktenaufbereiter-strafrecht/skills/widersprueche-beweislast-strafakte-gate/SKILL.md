@@ -46,7 +46,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Beweiswuerdigungsmaengel sind Revisionsgrund § 337 StPO.
 - **Widerspruchspruefung Aussagen:**
  - **Aussagepsychologische Analyse** (Realkennzeichen vs. Phantasie-Indikatoren).
- - **Konstanz** ueber mehrere Vernehmungen.
+ - **Konstanz** über mehrere Vernehmungen.
  - **Detailtiefe** (Quantum / Qualitaet konkreter Wahrnehmungselemente).
  - **Aussageentstehung** (suggestive Befragung, Sekundaer-Erinnerung).
 - **Beweisantraege § 244 StPO** zur Widerlegung:
@@ -55,5 +55,5 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Hilfsbeweisantraege:** für Eventualfall Verurteilung.
 - **Praxis-Tipp:**
  - Widerspruchsmatrix mit Aussage 1 | Aussage 2 | objektiv beweise | Widerspruch | Verteidigungsansatz.
- - Pruefung ob Beweisverwertungsverbote auch ohne Widerspruch zu beruecksichtigen sind (rechtsstaatliche Eingriffsintensitaet; BGH-Linie).
+ - Prüfung ob Beweisverwertungsverbote auch ohne Widerspruch zu beruecksichtigen sind (rechtsstaatliche Eingriffsintensitaet; BGH-Linie).
  - **§ 257 StPO Widerspruch** in Hauptverhandlung gegen Beweisverwertung Belehrungsmaengel-Beweise.

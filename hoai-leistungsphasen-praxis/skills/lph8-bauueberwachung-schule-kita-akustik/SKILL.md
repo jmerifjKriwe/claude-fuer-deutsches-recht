@@ -16,8 +16,8 @@ description: "Bauueberwachung nach HOAI LPH 8 für Schulen und Kinderbetreuungse
 ## Spezialwissen
 
 Schulen und Kindertageseinrichtungen sind Sonderbauten mit speziellen akustischen und barrierefreien Anforderungen.
-Die Bauueberwachung nach HOAI LPH 8 prueft Raumakustik, Schallschutz, Tageslichtquotienten und Brandschutzkonzept.
-Akustische Maanahmen (Akustikdecken, Wandpaneele) muessen vor Verkleidung auf korrekte Montage geprueft werden.
+Die Bauueberwachung nach HOAI LPH 8 prüft Raumakustik, Schallschutz, Tageslichtquotienten und Brandschutzkonzept.
+Akustische Maanahmen (Akustikdecken, Wandpaneele) müssen vor Verkleidung auf korrekte Montage geprueft werden.
 
 ## Bauwerk und Auftrag
 
@@ -41,7 +41,7 @@ Akustische Maanahmen (Akustikdecken, Wandpaneele) muessen vor Verkleidung auf ko
 - DIN 18041 Hoersamkeit in kleinen bis mittelgrossen Raeumen: Nachhallzeit, Raumgeometrie
 - DIN 4109-1 Schallschutz im Hochbau: Anforderungen Schulgebaeude Schallschutzklasse III
 - DIN EN 12464-1 Beleuchtung von Arbeitstaettenplaetzen: Beleuchtungsstaerke Lux, Gleichmaessigkeit
-- DIN 18040-1 Barrierefreies Bauen: oeffentlich zugaengliche Gebaeude, Schulen
+- DIN 18040-1 Barrierefreies Bauen: öffentlich zugaengliche Gebaeude, Schulen
 
 ## Prueferaster und Kontrollpunkte
 

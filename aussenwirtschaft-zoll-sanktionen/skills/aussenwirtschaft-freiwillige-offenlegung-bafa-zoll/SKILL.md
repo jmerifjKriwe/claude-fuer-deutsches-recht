@@ -23,8 +23,8 @@ description: "Strategische und operative Vorbereitung einer freiwilligen Selbsta
 
 1. Sachverhalt vollstaendig intern aufklaeren und sichern (Legal Hold) bevor Offenlegung.
 2. Strafbarkeit und Ordnungswidrigkeitenrisiko für jede Handlung bewerten.
-3. Zeitpunkt pruefen: Noch vor Behordenerkenntnis oder bereits im Ermittlungsverfahren?
-4. Anzeigeinhalte formulieren: Sachverhalt, Ausmass, betroffene Personen, Massnahmen.
+3. Zeitpunkt prüfen: Noch vor Behordenerkenntnis oder bereits im Ermittlungsverfahren?
+4. Anzeigeinhalte formulieren: Sachverhalt, Ausmass, betroffene Personen, Maßnahmen.
 5. Koordination mit Strafverteidiger; keine Selbstbelastung einzelner Mitarbeiter ohne Schutzkonzept.
 6. Korrekturmassnahmen und ICP-Verbesserungen als Anlage beifuegen.
 
@@ -42,13 +42,13 @@ description: "Strategische und operative Vorbereitung einer freiwilligen Selbsta
 - [ ] Behordenerkenntnis noch nicht eingetreten?
 - [ ] Strafbarkeit einzelner Personen bewertet, Schutzkonzept vorhanden?
 - [ ] Anzeigeninhalt vollstaendig (Sachverhalt, Ausmass, Betroffene)?
-- [ ] Korrektur- und ICP-Massnahmen formuliert?
+- [ ] Korrektur- und ICP-Maßnahmen formuliert?
 - [ ] Abgestimmte Kommunikationsstrategie (intern/extern) bereit?
 
 ## Typische Fallstricke
 
 - Unvollstaendige Offenlegung ist schlimmer als keine Offenlegung; alles oder nichts.
-- Mitarbeiter muessen gesondert beraten und geschuetzt werden (kein Selbstbelastungszwang).
+- Mitarbeiter müssen gesondert beraten und geschuetzt werden (kein Selbstbelastungszwang).
 - Bei laufenden Ermittlungen ist Offenlegung nur im Rahmen der Verteidigungsstrategie sinnvoll.
 - Nachtraegliche Korrekturen in ATLAS-Systemen sind moeglicher Beweis; nur mit Behördenabstimmung.
 

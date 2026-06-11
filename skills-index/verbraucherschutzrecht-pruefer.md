@@ -1,4 +1,4 @@
-# verbraucherschutzrecht-pruefer
+# verbraucherschutzrecht-prüfer
 
 **112 Skills** · Stand `v300.0.0`
 

@@ -5,7 +5,7 @@ description: "Dokumentenintake fuer Forderungsakten: liest eine vorhandene Ordne
 
 # Dokumente Intake
 
-Eingang einer Forderungssache ohne saubere Aktenstruktur fuehrt zwei Wochen spaeter zum Belegchaos. Dieser Skill normiert die Aufnahme, aber ohne den Nutzer mit Fragen zu erschlagen: erst Dokumente auswerten, dann Luecken fragen.
+Eingang einer Forderungssache ohne saubere Aktenstruktur fuehrt zwei Wochen später zum Belegchaos. Dieser Skill normiert die Aufnahme, aber ohne den Nutzer mit Fragen zu erschlagen: erst Dokumente auswerten, dann Luecken fragen.
 
 ## Ordner zuerst auslesen
 

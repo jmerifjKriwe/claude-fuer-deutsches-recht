@@ -23,7 +23,7 @@ Die Summen- und Saldenliste (SuSa) ist die periodengerecht aufbereitete Auflistu
 4. Welche Filter — Konten ohne Saldo ausblenden, nur bestimmte Klassen?
 5. Welche Vergleichsspalten — Vormonat, kumuliert, Vorjahr?
 6. Welche Ausgabeform — Bildschirm, PDF, Excel-Export?
-7. Wird die SuSa intern oder extern verwendet (Pruefer, Bank)?
+7. Wird die SuSa intern oder extern verwendet (Prüfer, Bank)?
 8. Welche Sondereffekte sind zu kennzeichnen?
 
 ## Rechtlicher Rahmen
@@ -107,12 +107,12 @@ Konto Bezeichnung Soll-Summe Haben-Summe Saldo Soll Saldo Haben
 - SuSa als PDF mit Mandantenkopf.
 - Excel-Export für Sachbearbeiter (optional).
 - Archivierung GoBD-konform 10 Jahre.
-- Versand an Mandant ueber DATEV Unternehmen Online oder verschluesseltes Portal.
+- Versand an Mandant über DATEV Unternehmen Online oder verschluesseltes Portal.
 
 ## Strategie und Praxis-Tipps
 
 - SuSa ist NICHT direkt für den Mandanten — meist interne Auswertung; bei externem Bedarf BWA bevorzugen.
-- Externer Pruefer (Wirtschaftspruefer, Aussenprueferin Finanzamt) bekommt SuSa direkt.
+- Externer Prüfer (Wirtschaftspruefer, Aussenprueferin Finanzamt) bekommt SuSa direkt.
 - Pruefsumme Soll = Haben ist Grundpruefung; Abweichung = Fehler im System (selten, aber kommt vor).
 - Bei Mandanten mit grossem Belegvolumen: SuSa kann mehrere Hundert Konten umfassen — Filter und Sortierung wichtig.
 - StBVV: SuSa-Erstellung pauschaliert in der Buchfuehrungspauschale.

@@ -22,7 +22,7 @@ Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhal
 1. **Ist eine Verstaendigung im Strafbefehlsverfahren sinnvoll?** — Strafbefehlsverfahren ist ungeeignet für komplexe Deals; einfacher: § 153a-Antrag oder direkter Strafmass-Einspruch mit Gestaendnis.
 2. **Liegt Gestaendnisbereitschaft des Mandanten vor?** — Verstaendigung setzt nach BGH ein Gestaendnis voraus (§ 257c Abs. 2 StPO).
 3. **Was ist das Ziel?** — Geldstrafe statt Bewaehrungsstrafe? Fahrverbot-Vermeidung? Einstellung nach § 153a? Klares Ziel formulieren.
-4. **Ist die Staatsanwaltschaft kontaktierbar?** — Fruehzeitige informelle Sondierung vor foermlicher Verstaendigungsanfrage ist zulaessig.
+4. **Ist die Staatsanwaltschaft kontaktierbar?** — Fruehzeitige informelle Sondierung vor foermlicher Verstaendigungsanfrage ist zulässig.
 5. **Sind Mitbeschuldigte betroffen?** — Verstaendigung darf nur das eigene Verfahren betreffen.
 
 ## Zentrale Normen
@@ -39,7 +39,7 @@ Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhal
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
 - BGH 20.11.2025 — 4 StR 232/25 (4. Strafsenat): TOA § 46a Nr. 1 StGB setzt einen friedensstiftenden kommunikativen Prozess voraus; bloße Zahlung an das Opfer reicht für Strafmilderung nicht aus. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
-- BVerfG-Rahmen (Stand-by) zu § 257c StPO: Maßstab weiterhin BVerfG 19.03.2013 — 2 BvR 2628/10, 2 BvR 2155/11, 2 BvR 2883/10 (Verstaendigungs-Urteil); Aktualisierungen vor Ausgabe in dejure.org / bverfg.de pruefen. Offene Fundstelle Verstaendigungs-Urteil: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+BvR+2628/10
+- BVerfG-Rahmen (Stand-by) zu § 257c StPO: Maßstab weiterhin BVerfG 19.03.2013 — 2 BvR 2628/10, 2 BvR 2155/11, 2 BvR 2883/10 (Verstaendigungs-Urteil); Aktualisierungen vor Ausgabe in dejure.org / bverfg.de prüfen. Offene Fundstelle Verstaendigungs-Urteil: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+BvR+2628/10
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Anwendung des § 257c StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 257c StPO Strafbefehl" durchführen.
 
 ## Abgrenzung: Wann welches Instrument?
@@ -49,7 +49,7 @@ Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhal
 | § 153 StPO | Bagatelldelikt, keine Vorstrafe, geringer Schaden | Keine Auflage, kein Eintrag |
 | § 153a StPO | Mittelgraes Delikt, Zahlungsbereitschaft | Kein Strafregister (Tilgung), flexibel |
 | § 257c StPO | Schweres Delikt, Hauptverhandlung notwendig | Strafmass-Sicherheit, Verfahrensabkuerzung |
-| § 46a StGB + Gestaendnis | Geschaedigter vorhanden, Wiedergutmachung moeglich | Erhebliche Strafmilderung, kann Bewaehrung ermoeglichen |
+| § 46a StGB + Gestaendnis | Geschaedigter vorhanden, Wiedergutmachung möglich | Erhebliche Strafmilderung, kann Bewaehrung ermoeglichen |
 
 ## Schritt-für-Schritt-Workflow
 

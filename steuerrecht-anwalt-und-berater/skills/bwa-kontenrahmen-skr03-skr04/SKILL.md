@@ -18,12 +18,12 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 ## Kaltstart-Rueckfragen
 
 1. Welche Mandantenstruktur — Industrie, Handel, Dienstleistung, Freiberufler, Holding?
-2. Welche Rechtsform und Groessenklasse (§ 267 HGB) — Kleinst-, Klein-, mittelgrosse oder grosse Kapitalgesellschaft?
+2. Welche Rechtsform und Groessenklasse (§ 267 HGB) — Kleinst-, Klein-, mittelgrosse oder große Kapitalgesellschaft?
 3. Welche Mandanten in der Kanzlei nutzen bereits welchen SKR? (Konsistenz im Kanzleibetrieb.)
 4. Wird der Mandant bilanziert oder erfolgt EUER nach § 4 Abs. 3 EStG?
 5. Welche Schnittstellen sind vorgesehen — DATEV Unternehmen Online, BuchhaltungsButler, sevDesk, Lexware?
 6. Welches Lohnprogramm liefert Personalkosten-Buchungen — DATEV LODAS, Lohn und Gehalt, externer Provider?
-7. Welche Berichts- und Reporting-Anforderungen — Konzernanforderung, internationale Eigentuemer mit UKV-Wunsch?
+7. Welche Berichts- und Reporting-Anforderungen — Konzernanforderung, internationale Eigentümer mit UKV-Wunsch?
 8. Plant der Mandant einen Branchenvergleich (DATEV Branchenbericht) — Vergleichbarkeit setzt Kontenrahmen voraus.
 
 ## Rechtlicher Rahmen
@@ -42,15 +42,15 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 
 - DATEV-Kontenrahmen-Dokumentation (jaehrliche Updates).
 - IDW RS HFA 38 — Gliederungsgrundsaetze nach HGB.
-- BMF v. 28.09.2011 (BStBl I 2011, 855) — E-Bilanz-Taxonomie; jaehrliche Anpassung durch BMF-Schreiben. Aktuelle Version ist die Taxonomie 6.9 (BMF-Schreiben April 2025, verpflichtend für WJ ab 01.01.2026); aktuelle Fassung ueber esteuer.de abrufbar.
+- BMF v. 28.09.2011 (BStBl I 2011, 855) — E-Bilanz-Taxonomie; jaehrliche Anpassung durch BMF-Schreiben. Aktuelle Version ist die Taxonomie 6.9 (BMF-Schreiben April 2025, verpflichtend für WJ ab 01.01.2026); aktuelle Fassung über esteuer.de abrufbar.
 
 ## Workflow
 
 ### Phase 1 — Bestandsaufnahme
 
-- Aktuelle Buchhaltung des Mandanten sichten — welcher Kontenrahmen wird derzeit genutzt? Bei Mandantenwechsel: Vorberaterkontenrahmen pruefen.
+- Aktuelle Buchhaltung des Mandanten sichten — welcher Kontenrahmen wird derzeit genutzt? Bei Mandantenwechsel: Vorberaterkontenrahmen prüfen.
 - Branche und Geschaeftsmodell erfassen; bei produzierendem Gewerbe SKR 03 ueblich, bei dienstleistenden GmbH zunehmend SKR 04.
-- Anforderungen externer Stakeholder pruefen (Banken, Konzern-Mutter, Wirtschaftspruefer).
+- Anforderungen externer Stakeholder prüfen (Banken, Konzern-Mutter, Wirtschaftspruefer).
 
 ### Phase 2 — Entscheidung treffen
 
@@ -58,7 +58,7 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 |---|---|---|
 | Sortierung | Prozessorientiert (Beschaffung, Produktion, Absatz) | Abschlussorientiert (Bilanz und GuV nach HGB-Gliederung) |
 | Branche | Industrie, Handwerk, traditioneller Handel | Dienstleistung, Holding, freie Berufe, kapitalmarkt-naher Mittelstand |
-| GuV-Form | GKV (typisch) | UKV (typisch), aber auch GKV moeglich |
+| GuV-Form | GKV (typisch) | UKV (typisch), aber auch GKV möglich |
 | E-Bilanz | Voll unterstuetzt | Voll unterstuetzt (Brueckenkonten differierend) |
 | Internationale Vergleichbarkeit | Geringer | Hoeher (Naehe zu IFRS-Strukturen) |
 
@@ -68,21 +68,21 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 - Wechsel bestehender Mandanten: Nur zum Jahreswechsel, mit Eroeffnungsbilanz-Umbuchung. Wechsel waehrend des Jahres vermeidet § 252 Abs. 1 Nr. 6 HGB.
 - Stammkontenliste mit individuellen Konten ergaenzen (Branchen-Sachkonten, Gesellschafterkonten).
 
-### Phase 4 — Schnittstellen pruefen
+### Phase 4 — Schnittstellen prüfen
 
 - Lohnbuchhaltungs-Schnittstelle (DATEV-Buchungsbelege) — Kontenrahmen muss matchen.
-- BWA-Konfiguration (Form 01, 11, 21) — die Standard-Forms sind für beide SKR vorbereitet, aber individualisierte Forms muessen angepasst werden.
+- BWA-Konfiguration (Form 01, 11, 21) — die Standard-Forms sind für beide SKR vorbereitet, aber individualisierte Forms müssen angepasst werden.
 - Branchenvergleich DATEV BBE — nur für Standard-SKR und Standard-Konten zuverlaessig.
 
 ### Phase 5 — Kommunikation an Mandanten
 
-- Bei Wechsel: Mandant ueber Periode der Umstellung informieren; Auswirkungen auf BWA-Vorjahresvergleich erklaeren.
+- Bei Wechsel: Mandant über Periode der Umstellung informieren; Auswirkungen auf BWA-Vorjahresvergleich erklaeren.
 - Bei Erst-Einrichtung: kurze schriftliche Begruendung der Wahl in Mandantenakte.
 
 ## Strategie und Praxis-Tipps
 
 - Mandanten mit Wachstumsabsicht und kapitalmarkt-naher Ausrichtung tendieren zu SKR 04; mittelstaendische Industriebetriebe bleiben oft bei SKR 03.
-- Innerhalb der Kanzlei moeglichst konsistent — Mandantensachbearbeiter koennen sonst nicht effizient wechseln.
+- Innerhalb der Kanzlei moeglichst konsistent — Mandantensachbearbeiter können sonst nicht effizient wechseln.
 - DATEV-BBE-Branchenvergleich liefert die besten Daten für SKR 03 mit Standardkonten; bei SKR 04 ist die Datenbasis duenner.
 - Honorar für Kontenrahmen-Wechsel separat im Zusatzauftrag aufnehmen (StBVV §§ 33, 35), nicht in der laufenden Buchhaltung.
 - Bei Holding-Strukturen mit verschiedenen Tochtergesellschaften: gleicher Kontenrahmen in allen Einheiten erleichtert Konsolidierung.

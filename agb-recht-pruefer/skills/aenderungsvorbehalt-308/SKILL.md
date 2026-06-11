@@ -45,7 +45,7 @@ description: "Norm- und Dogmatik-Skill für Änderungsvorbehalt 308: prüft die 
 
 ### Update-Klauseln neu (§ 327f BGB)
 - Seit 01.01.2022 in Kraft: § 327f BGB regelt die Aktualisierungspflicht für digitale Produkte. AGB-Klauseln, die diese Pflicht unterlaufen, sind unwirksam.
-- BGH-Folgejudikate sind im Aufbau; Pruefung Az live verifizieren.
+- BGH-Folgejudikate sind im Aufbau; Prüfung Az live verifizieren.
 
 ### Weitere relevante AGB-Klauseln § 308 BGB
 - Nr. 1: Annahmefrist und Leistungsfrist.
@@ -85,9 +85,9 @@ description: "Norm- und Dogmatik-Skill für Änderungsvorbehalt 308: prüft die 
 
 ### Anwendung im Skill
 
-- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
+- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge prüfen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klären.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
-- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG prüfen; modifizierte UE statt voreiliger Unterzeichnung.
 
 ## Quellenanker
 

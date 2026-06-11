@@ -19,7 +19,7 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 
 ## Bauwerk und Auftrag
 
-- Pharmafabrik Frankfurt Reinraumausbau: 3.200 PM-Meldungen ueber 24 Monate Bauzeit, Equipment-Baum 850 Positionen, SAP S/4HANA EAM, Bausumme 28 Mio. EUR
+- Pharmafabrik Frankfurt Reinraumausbau: 3.200 PM-Meldungen über 24 Monate Bauzeit, Equipment-Baum 850 Positionen, SAP S/4HANA EAM, Bausumme 28 Mio. EUR
 - Logistikzentrum Dortmund: SAP PM Integration mit PlanRadar REST-API, automatische Meldungserstellung aus mobiler App, 680 Meldungen
 - Klaeranlage Bielefeld: SAP PM mit DIN EN 13306-Schadenscodes für Instandhaltungsplanung nach Abnahme, Uebergabe an Betriebsabteilung
 
@@ -38,17 +38,17 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 - HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Aufstellen und Ueberwachen Maengelliste, Abnahme
 - VOB/B § 13 Maengelansprueche: Fristen Maengelbeseitigung, Selbstvornahme, Minderung, Schadensersatz, Verjährungsfristen 4 Jahre
 - DIN EN 13306:2018-02 Instandhaltung: Begriffe Schaden, Mangel, Ausfall, Schadensklassen für SAP-PM-Codierung
-- DIN 31051:2012-09 Grundlagen der Instandhaltung: Zustandsbeurteilung, Schadensanalyse, Massnahmen
+- DIN 31051:2012-09 Grundlagen der Instandhaltung: Zustandsbeurteilung, Schadensanalyse, Maßnahmen
 - SAP S/4HANA Enterprise Asset Management: Meldungstypen, Auftragsarten, Funktionsort-Struktur, Schnittstellen
 
 ## Prueferaster und Kontrollpunkte
 
 1. Meldungsfeld-Vollstaendigkeit: Equipment-Nr, Meldungsart, Meldungsdatum, Kurzbeschreibung, Schadenscode, Ursachencode, Prioritaet, Kostenstelle, Foto-Anhang
 2. Faelligkeits-Kontrolle: Taeglich Auswertung offene Meldungen nach Faelligkeit, Eskalation bei Ueberschreitung Prio-1 an Projektleitung
-3. Massnahmen-Protokoll: Jede Massnahme im PM-Auftrag dokumentiert, Ausfuehrender, Datum, Stunden, Materialien, Abschlussfreigabe Bauueberwacher
+3. Maßnahmen-Protokoll: Jede Maßnahme im PM-Auftrag dokumentiert, Ausfuehrender, Datum, Stunden, Materialien, Abschlussfreigabe Bauueberwacher
 4. AN-Stellungnahme Frist: VOB/B § 13 Abs. 5 Frist zur Mangelbeseitigung angemessen, Erinnerung automatisch via SAP-T-3 Tage
 5. Foto-Pflicht: Mindestens 3 Fotos je Meldung Ueberblick-Detail-Kontext, Aufnahmedatum kongruent zum Meldungsdatum
-6. Abschluss-Pruefung: Nachkontrolle Bauueberwacher nach Mangelbeseitigung, Foto Abschluss, technische Meldung SAP PM Status E0004
+6. Abschluss-Prüfung: Nachkontrolle Bauueberwacher nach Mangelbeseitigung, Foto Abschluss, technische Meldung SAP PM Status E0004
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -75,7 +75,7 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

@@ -15,7 +15,7 @@ description: "DBA Deutschland Irland 2011. Anwendungsfall IT- und Pharma-Holding
 
 ## Kernsachverhalt
 
-Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regelt die steuerliche Behandlung im Verhaeltnis zum EU-Mitglied Irland, das niedrige Koerperschaftsteuer (12,5 Prozent) bietet und Sitz vieler Holding-Strukturen ist (Apple, Google, Pfizer, viele Pharma- und IT-Konzerne). Praxisrelevant sind Lizenzeinkuenfte, Beteiligungs- und Zinsmodelle und die Pruefung von Substanz nach § 50d Abs. 3 EStG.
+Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regelt die steuerliche Behandlung im Verhaeltnis zum EU-Mitglied Irland, das niedrige Koerperschaftsteuer (12,5 Prozent) bietet und Sitz vieler Holding-Strukturen ist (Apple, Google, Pfizer, viele Pharma- und IT-Konzerne). Praxisrelevant sind Lizenzeinkuenfte, Beteiligungs- und Zinsmodelle und die Prüfung von Substanz nach § 50d Abs. 3 EStG.
 
 ## Kaltstart-Rueckfragen
 
@@ -36,18 +36,18 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 - **OECD-MA 2010**.
 - **§§ 34c, 32b, 50d EStG**, § 8 ff. AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: Deutschland und Irland haben das MLI unterzeichnet und ratifiziert; DBA-DE-IE gilt MLI-modifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
+- **MLI**: Deutschland und Irland haben das MLI unterzeichnet und ratifiziert; DBA-DE-IE gilt MLI-modifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis prüfen.
 - **§ 4k EStG** anti-hybrid.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zu Irland-Holdings und Lizenzstrukturen (§ 50d Abs. 3 EStG, § 4k EStG) in freier amtlicher Quelle abrufen.
-- BMF-Schreiben zu Irland und Substanzanforderungen: aktuellen Stand im BMF-Schreiben-Verzeichnis pruefen.
+- BMF-Schreiben zu Irland und Substanzanforderungen: aktuellen Stand im BMF-Schreiben-Verzeichnis prüfen.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit (Art. 4)
 - OECD-Tie-Breaker.
-- Irische Tochterunternehmen mit POEM Deutschland: Doppelansaessigkeit moeglich.
+- Irische Tochterunternehmen mit POEM Deutschland: Doppelansaessigkeit möglich.
 
 ### Betriebsstaette (Art. 5)
 - Bauausfuehrung **12 Monate**.
@@ -66,7 +66,7 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 - Freistellung bei aktiven Einkuenften mit Aktivitaetsklausel.
 
 ### Besonderheiten
-- **Substanztest** § 50d Abs. 3 EStG: zentrale Pruefung bei Irland-Holdings.
+- **Substanztest** § 50d Abs. 3 EStG: zentrale Prüfung bei Irland-Holdings.
 - **CFC** § 7 ff. AStG: AStG-Niedrigsteuerschwelle durch das Mindestbesteuerungsumsetzungsgesetz vom 21.12.2023 ab VZ 2024 auf 15 Prozent abgesenkt (vorher 25 Prozent). Irische KSt 12,5 Prozent liegt daher ab 2024 unter der Niedrigsteuer-Schwelle.
 - **Hybrid-Mismatches**: § 4k EStG erfasst Irland-Konstellationen.
 - **GloBE / Pillar Two**: ab 01.01.2024 Mindeststeuer 15 Prozent — verschiebt Irland-Vorteil.
@@ -74,7 +74,7 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 ### Phase 3 — Einkunftsart einordnen
 ### Phase 4 — Substanztest § 50d Abs. 3 EStG
 ### Phase 5 — CFC § 7 ff. AStG
@@ -87,13 +87,13 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 - "Double Irish" wurde ab 2015 schrittweise abgeschafft; "Cross-Charge" und Lizenzgestaltungen prufen.
 - Pillar Two (Mindeststeuer 15 Prozent) gilt seit 01.01.2024 — Irland muss aufstocken oder Strukturen erlauben deutsche Top-Up-Tax.
 - § 4k EStG verhindert Doppelnichtansatz / Doppelabzug.
-- CFC § 7 ff. AStG bei passiven niedrig besteuerten Einkuenften — Pruefung obligatorisch.
+- CFC § 7 ff. AStG bei passiven niedrig besteuerten Einkuenften — Prüfung obligatorisch.
 
 ## Praktiker-Tipps der alten Hasen
 
 ### Erstattungsverfahren irische Quellensteuer
 
-- **Zuständigkeit**: irische Erstattung durch **Revenue Commissioners**, International Claims Section. Aktuelle Zuständigkeit auf **revenue.ie** pruefen.
+- **Zuständigkeit**: irische Erstattung durch **Revenue Commissioners**, International Claims Section. Aktuelle Zuständigkeit auf **revenue.ie** prüfen.
 - **Antragsformulare**: irische DBA-Antragsformulare; in der Praxis verbreitet "Form IC-Form" / DT-Forms — **konkrete Formularnummern und Bezeichnungen vom Anwender mit aktuellem Stand auf revenue.ie zu verifizieren**.
 - **Frist**: nach irischem Tax Consolidation Act regelmaessig **vier Jahre** ab Steuerjahr-Ende.
 - **Bearbeitungsdauer Revenue**: 6-18 Monate.
@@ -112,17 +112,17 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Irland-Holding mit IP-Lizenzen vs. Verlagerung nach DE | irische KSt 12,5 Prozent; ab 2024 Pillar Two Top-Up zu 15 Prozent; § 4j EStG-Lizenzschranke beim Empfaenger DE pruefen | DE-Holding mit voller KSt 15 Prozent + GewSt | bei stabilem Geschaeftsbetrieb in IE Substanz vorhalten; bei reinen Lizenz-Vehikeln Verlagerung |
-| Schachteldividende IE-Ltd an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt; Erstattung Revenue | 0 Prozent via Freistellung vorab | EU-MTRL vorzugswuerdig |
-| Lizenzgebuehr aus DE an IE-Tochter (Cross-Charge) vs. interne Verrechnung | DBA 0 Prozent für Lizenz; aber § 4j EStG-Lizenzschranke beim deutschen Zahler pruefen (Versagung des BA-Abzugs bei niedriger Besteuerung beim Empfaenger) | interne Verrechnung ohne Lizenz | § 4j EStG erfasst irische IP-Box-Strukturen mit Substanzdefizit; bei Nexus-konformer Forschung in IE unschaedlich |
-| CFC § 7 AStG bei niedriger Besteuerung (12,5 Prozent unter 15-Prozent-Schwelle ab 2024) | Hinzurechnungsbesteuerung in DE | bei aktivem Geschaeftsbetrieb keine Hinzurechnung | Aktiv-Katalog § 8 AStG strikt pruefen |
+| Irland-Holding mit IP-Lizenzen vs. Verlagerung nach DE | irische KSt 12,5 Prozent; ab 2024 Pillar Two Top-Up zu 15 Prozent; § 4j EStG-Lizenzschranke beim Empfaenger DE prüfen | DE-Holding mit voller KSt 15 Prozent + GewSt | bei stabilem Geschaeftsbetrieb in IE Substanz vorhalten; bei reinen Lizenz-Vehikeln Verlagerung |
+| Schachteldividende IE-Ltd an DE-Mutter über DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt; Erstattung Revenue | 0 Prozent via Freistellung vorab | EU-MTRL vorzugswuerdig |
+| Lizenzgebuehr aus DE an IE-Tochter (Cross-Charge) vs. interne Verrechnung | DBA 0 Prozent für Lizenz; aber § 4j EStG-Lizenzschranke beim deutschen Zahler prüfen (Versagung des BA-Abzugs bei niedriger Besteuerung beim Empfaenger) | interne Verrechnung ohne Lizenz | § 4j EStG erfasst irische IP-Box-Strukturen mit Substanzdefizit; bei Nexus-konformer Forschung in IE unschaedlich |
+| CFC § 7 AStG bei niedriger Besteuerung (12,5 Prozent unter 15-Prozent-Schwelle ab 2024) | Hinzurechnungsbesteuerung in DE | bei aktivem Geschaeftsbetrieb keine Hinzurechnung | Aktiv-Katalog § 8 AStG strikt prüfen |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
-- **AStG-Niedrigsteuerschwelle ab VZ 2024 = 15 Prozent**: irische KSt 12,5 Prozent liegt darunter. **CFC-Hinzurechnung bei passiven Einkuenften zwingend pruefen**. Mandanten-Memos vor 2024 mit 25-Prozent-Schwelle aktualisieren!
+- **AStG-Niedrigsteuerschwelle ab VZ 2024 = 15 Prozent**: irische KSt 12,5 Prozent liegt darunter. **CFC-Hinzurechnung bei passiven Einkuenften zwingend prüfen**. Mandanten-Memos vor 2024 mit 25-Prozent-Schwelle aktualisieren!
 - **§ 4j EStG-Lizenzschranke**: deutsche Lizenzgebuehr-Zahlungen an irische Empfaenger mit IP-Box-Vorzugsbesteuerung — Abzugsbeschraenkung beim deutschen Zahler; Nexus-Approach prufen.
 - **Pillar Two ab 2024**: irische Tochtergesellschaften mit effektiv 12,5 Prozent — Top-Up auf 15 Prozent durch QDMTT in IE oder IIR in DE.
-- **"Double Irish" Altstrukturen**: vor 2020 weit verbreitet, ab 2015 Phase-Out; in laufenden Mandanten-Memos pruefen, ob Altstrukturen noch existieren.
+- **"Double Irish" Altstrukturen**: vor 2020 weit verbreitet, ab 2015 Phase-Out; in laufenden Mandanten-Memos prüfen, ob Altstrukturen noch existieren.
 - **§ 50d Abs. 3 EStG-Substanztest**: irische Briefkasten-Holdings ohne Personal scheitern — voller Substanz-Aufbau in IE inkl. Personal, Buero, Entscheidungstraegerneutsch.
 
 ## Berechnungsbeispiel — Schachteldividende IE-Ltd an DE-Holding (mit Substanz)
@@ -135,7 +135,7 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 >
 > Schritt 3: § 50d Abs. 3 EStG-Substanztest: bei vollem Geschaeftsbetrieb in IE Treaty-Schutz; bei Briefkasten Versagung der Begunstigung.
 >
-> Schritt 4: Pillar Two: bei Gesamteffektivsteuer in IE unter 15 Prozent ggf. Top-Up; bei aktivem operativem Geschaeft regelmaessig substantial-activity-Carve-Out anwendbar.
+> Schritt 4: Pillar Two: bei Gesamteffektivsteuer in IE unter 15 Prozent ggf. Top-Up; bei aktivem operativem Geschäft regelmaessig substantial-activity-Carve-Out anwendbar.
 
 ## Berechnungsbeispiel — Lizenzgebuehr DE-Konzernmutter an IE-IP-Tochter
 

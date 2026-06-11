@@ -65,8 +65,8 @@ Keine Eintragungs-Barriere vorhanden?
 |------------|-------------|-------|
 | Markenanmeldung DPMA | Recherche, Klassenauswahl, Antrag | Keine gesetzliche Frist, aber fruehzeitig |
 | Widerspruch gegen Marke | Frist-Check, Zeichenvergleich, Schriftsatz | 3 Monate ab Veroeffentlichung § 42 MarkenG |
-| UWG-Abmahnung reaktiv | Formanalyse, Missbrauch pruefen, mod. UE | ueblicherweise 7-14 Tage Reaktionsfrist |
-| Einstweilige Verfuegung | Dringlichkeit pruefen, Glaubhaftmachung | 4 Wochen Selbstwiderlegungsfrist |
+| UWG-Abmahnung reaktiv | Formanalyse, Missbrauch prüfen, mod. UE | ueblicherweise 7-14 Tage Reaktionsfrist |
+| Einstweilige Verfuegung | Dringlichkeit prüfen, Glaubhaftmachung | 4 Wochen Selbstwiderlegungsfrist |
 | Designverletzungsklage | SdT-Recherche, Neuheits-Eigenarts-Test | Verjährung 3 Jahre §§ 195, 199 BGB |
 | Patent-Nichtigkeitsklage | StdT-Recherche, BPatG, Nebenintervention | Keine Frist, aber Verletzungsverfahren dringt |
 

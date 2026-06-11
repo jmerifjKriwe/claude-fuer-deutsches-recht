@@ -74,7 +74,7 @@ Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
 
 ## Aufbau
 
-1. **Obersatz**: "Die Klage ist zulaessig, aber nur teilweise begründet."
+1. **Obersatz**: "Die Klage ist zulässig, aber nur teilweise begründet."
 2. **Zulässigkeit**: kurz; nur die problematischen Punkte ausführlich.
 3. **Begründetheit** - pro Anspruchsgrundlage:
  - Anspruchsgrundlage benennen

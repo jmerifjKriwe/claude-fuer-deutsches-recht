@@ -54,14 +54,14 @@ description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfe
 
 ### BGH-Rechtsprechung (verifizierte Eckpunkte, Stand 05/2026)
 
-Belegt ueber bundesgerichtshof.de und dejure.org:
+Belegt über bundesgerichtshof.de und dejure.org:
 
 - **BGH, Beschl. v. 07.11.2024 – V ZB 6/24** — Anfechtungsklaeger hat Erkundigungsobliegenheit bei Zustellungsverzoegerung des Gerichts; im Regelfall innerhalb eines Jahres nach Ablauf der Monatsfrist § 45 Satz 1 WEG.
 - **BGH, Urt. v. 14.02.2025 – V ZR 236/23** und **V ZR 128/23** — Beschlusskompetenz für Aenderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG; erstmalige Belastung mit Kosten nur bei sachlichem Grund; Beschlusskompetenz erfasst auch Erhaltungsruecklage. PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 - **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG; Vorbefassung erfordert nur Beschlussantrag in der Versammlung, keine Pflicht zur Vorlage weiterer Informationen/Gutachten.
-- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Klimaanlage als bauliche Veraenderung; Pruefung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand unmittelbarer Auswirkungen.
+- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Klimaanlage als bauliche Veraenderung; Prüfung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand unmittelbarer Auswirkungen.
 
-Weitere Rechtsprechung vor Zitierung im Schriftsatz live ueber dejure.org/openjur.de verifizieren.
+Weitere Rechtsprechung vor Zitierung im Schriftsatz live über dejure.org/openjur.de verifizieren.
 
 ## Prüfschema
 
@@ -82,7 +82,7 @@ Weitere Rechtsprechung vor Zitierung im Schriftsatz live ueber dejure.org/openju
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -184,7 +184,7 @@ nichtig festzustellen.
 [Unterschrift]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -249,6 +249,6 @@ nichtig festzustellen.
  - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
  - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / bauliche Veraenderung)
-- Weitere Rechtsprechung vor Verwendung live ueber dejure.org/openjur.de/bundesgerichtshof.de pruefen.
+- Weitere Rechtsprechung vor Verwendung live über dejure.org/openjur.de/bundesgerichtshof.de prüfen.
 - Bärmann WEG-Kommentar, aktuelle Aufl.
 - Hügel/Elzer WEG, aktuelle Aufl.

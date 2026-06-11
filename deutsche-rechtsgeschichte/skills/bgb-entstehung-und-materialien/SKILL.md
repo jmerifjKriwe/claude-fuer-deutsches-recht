@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Die Entstehung des BGB erstreckte sich ueber 26 Jahre (1874-1900). Die Erste Kommission (1874-1888) erarbeitete den Ersten Entwurf, der als zu pandektistisch und weltfremd kritisiert wurde (Gierke, Menger). Die Zweite Kommission (1890-1895) ueberarbeitete ihn. Die Materialien (Motive und Protokolle) wurden von Benno Mugdan in sechs Baenden zusammengefasst (Mugdan, Die gesamten Materialien zum BGB, 1899). Die Materialien sind die wichtigste Quelle für die historische Auslegung des BGB. Das BGB trat am 1. Januar 1900 in Kraft (RGBl. 1896, 195).
+Die Entstehung des BGB erstreckte sich über 26 Jahre (1874-1900). Die Erste Kommission (1874-1888) erarbeitete den Ersten Entwurf, der als zu pandektistisch und weltfremd kritisiert wurde (Gierke, Menger). Die Zweite Kommission (1890-1895) ueberarbeitete ihn. Die Materialien (Motive und Protokolle) wurden von Benno Mugdan in sechs Baenden zusammengefasst (Mugdan, Die gesamten Materialien zum BGB, 1899). Die Materialien sind die wichtigste Quelle für die historische Auslegung des BGB. Das BGB trat am 1. Januar 1900 in Kraft (RGBl. 1896, 195).
 
 ## Kernnormen / Kernquellen
 

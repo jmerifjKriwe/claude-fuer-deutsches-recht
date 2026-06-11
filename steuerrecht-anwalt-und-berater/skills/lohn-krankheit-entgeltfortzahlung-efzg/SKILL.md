@@ -13,16 +13,16 @@ description: "Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfal
 
 ## Kernsachverhalt
 
-Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortzahlung — der AG zahlt den vollen Lohn weiter. Nach 6 Wochen zahlt die Krankenkasse Krankengeld. Kleinbetriebe (bis 30 AN) koennen Erstattung U1-Umlage bei der Krankenkasse beantragen. Seit 2023 ist die elektronische Arbeitsunfaehigkeitsbescheinigung (eAU) verpflichtend — der AG ruft die AU-Daten direkt bei der Krankenkasse ab.
+Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortzahlung — der AG zahlt den vollen Lohn weiter. Nach 6 Wochen zahlt die Krankenkasse Krankengeld. Kleinbetriebe (bis 30 AN) können Erstattung U1-Umlage bei der Krankenkasse beantragen. Seit 2023 ist die elektronische Arbeitsunfaehigkeitsbescheinigung (eAU) verpflichtend — der AG ruft die AU-Daten direkt bei der Krankenkasse ab.
 
 ## Kaltstart-Rueckfragen
 
 1. Hat der AN mind. 4 Wochen Beschaeftigung im Betrieb (Voraussetzung Entgeltfortzahlung)?
 2. Liegt eAU vor (Abruf bei Krankenkasse)?
 3. Welche Krankheitstage in der laufenden 12-Monats-Periode bereits angerechnet?
-4. Bei chronischer Krankheit mit wiederholten Krankheitsphasen: Pruefung "Fortsetzungskrankheit"?
+4. Bei chronischer Krankheit mit wiederholten Krankheitsphasen: Prüfung "Fortsetzungskrankheit"?
 5. AG-Groesse für U1-Umlage-Pflicht?
-6. Bei Krankheit ueber 6 Wochen: Krankengeld-Beginn ueber Krankenkasse?
+6. Bei Krankheit über 6 Wochen: Krankengeld-Beginn über Krankenkasse?
 7. Welche Lohnart wird fortgezahlt (Grundgehalt, Zuschlaege)?
 8. Lag Arbeitsunfall vor (BG-Leistungen)?
 
@@ -34,7 +34,7 @@ Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortza
 
 **§ 3 EFZG** — 6-Wochen-Anspruch.
 
-**§ 4 EFZG** — Hoehe Entgeltfortzahlung (100 Prozent).
+**§ 4 EFZG** — Höhe Entgeltfortzahlung (100 Prozent).
 
 **§ 5 EFZG** — Anzeige- und Nachweispflicht.
 
@@ -55,7 +55,7 @@ Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortza
 
 ### Phase 1 — Anspruchspruefung
 
-| Voraussetzung | Pruefung |
+| Voraussetzung | Prüfung |
 |---|---|
 | Arbeitsverhaeltnis | Besteht |
 | Mind. 4 Wochen Wartezeit | Erfuellt |
@@ -65,8 +65,8 @@ Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortza
 ### Phase 2 — eAU-Verfahren
 
 - § 109 SGB IV i.V.m. § 5 Abs. 1a EFZG: ab 01.01.2023 verpflichtende Abruf-Pflicht des AG (gesetzlich Versicherte); Pilotphase 2022.
-- AN informiert AG ueber Krankheit telefonisch oder per Mail (eigene Pflicht aus § 5 Abs. 1 EFZG bleibt: unverzuegliche Mitteilung der Arbeitsunfaehigkeit und voraussichtlichen Dauer).
-- AG ruft eAU-Daten ueber Krankenkasse ab; in DATEV LODAS unter Mitarbeiterstamm → Krankmeldung → eAU-Abruf.
+- AN informiert AG über Krankheit telefonisch oder per Mail (eigene Pflicht aus § 5 Abs. 1 EFZG bleibt: unverzuegliche Mitteilung der Arbeitsunfaehigkeit und voraussichtlichen Dauer).
+- AG ruft eAU-Daten über Krankenkasse ab; in DATEV LODAS unter Mitarbeiterstamm → Krankmeldung → eAU-Abruf.
 - AN muss nicht mehr "gelbe Bescheinigung" persoenlich abgeben.
 - Ausnahme: privat versicherte AN — kein eAU; weiterhin Papier-Bescheinigung.
 
@@ -74,8 +74,8 @@ Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortza
 
 - 100 Prozent des durchschnittlichen Brutto-Arbeitsentgelts.
 - Bemessungsbasis: regelmäßige Arbeitsleistung.
-- Schwankende Verguetung: Durchschnittsberechnung 13 Wochen.
-- Mehrarbeit, Schichtzuschlaege: einbezogen, soweit zur regelmäßigen Verguetung.
+- Schwankende Vergütung: Durchschnittsberechnung 13 Wochen.
+- Mehrarbeit, Schichtzuschlaege: einbezogen, soweit zur regelmäßigen Vergütung.
 
 ### Phase 4 — 6-Wochen-Grenze und Fortsetzung
 
@@ -85,7 +85,7 @@ Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortza
 
 ### Phase 5 — U1-Umlage Erstattung
 
-- AG-Pruefung: Kleinunternehmer bis 30 AN (U1).
+- AG-Prüfung: Kleinunternehmer bis 30 AN (U1).
 - AG zahlt monatliche Umlage (Prozentsatz auf Bruttolohnsumme).
 - Bei Krankheit: 80 Prozent (Kostenerstattung) durch Krankenkasse, Antrag durch AG.
 - Bei Mutterschaft (U2): Erstattung 100 Prozent unabhaengig Betriebsgroesse.
@@ -94,13 +94,13 @@ Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortza
 
 - Krankenkasse zahlt Krankengeld direkt an AN.
 - AG ist beendet aus der Lohnabrechnung (Unterbrechungsmeldung Grund 51).
-- Bei langer Krankheit (ueber 78 Wochen): Rente wegen Erwerbsminderung pruefen.
+- Bei langer Krankheit (über 78 Wochen): Rente wegen Erwerbsminderung prüfen.
 
 ## Strategie und Praxis-Tipps
 
 - eAU ist seit 2023 Standard — AG-Belastung reduziert (kein Papierabruf mehr).
 - U1-Umlage-Erstattung lohnt sich nur bis 30 AN (Kostendeckung 80 Prozent).
-- Bei wiederholten Krankheiten gleicher Diagnose Fortsetzungskrankheit-Pruefung.
+- Bei wiederholten Krankheiten gleicher Diagnose Fortsetzungskrankheit-Prüfung.
 - Bei Konflikt Krankheit-Echtheit: AG kann nach BAG arbeitsrechtlich agieren.
 - StBVV: Krankheits-Abrechnung in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS eAU-Schnittstelle einrichten; automatischer Krankheits-Lohn.

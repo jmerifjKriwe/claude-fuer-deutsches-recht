@@ -116,7 +116,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Triage ADR-Verfahren
 
 Bevor losgelegt wird, klaere:
-1. Mandant Verbraucher oder Unternehmer? → Verbraucher: VSBG Schlichtung moeglich; Unternehmer: nur wenn Bank-AGB Schiedsklausel.
+1. Mandant Verbraucher oder Unternehmer? → Verbraucher: VSBG Schlichtung möglich; Unternehmer: nur wenn Bank-AGB Schiedsklausel.
 2. Welche Bank? → Zustaendige Schlichtungsstelle (private Bank/Sparkasse/Volksbank) identifizieren.
 3. Streitwert-Limit der Schlichtungsstelle erreicht? → Spruch bindend bis 10.000 EUR (private Banken).
 4. Laeuft Verjaebrung bald ab? → Hemmungs-Berechnung § 204 BGB; Ombudsmann SOFORT beauftragen.
@@ -125,7 +125,7 @@ Bevor losgelegt wird, klaere:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -171,7 +171,7 @@ Anlagen:
 
 [Rechtsanwalt/-anwaeltin für [NAME MANDANT]]
 ```
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

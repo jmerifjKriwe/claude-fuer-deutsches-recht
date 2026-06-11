@@ -13,7 +13,7 @@ Bei vielen Vorhaben gibt es keine harten Fallzahlen aus Statistik. Trotzdem muss
 
 - Keine direkte Statistik zur Pflicht-Adressatengruppe
 - Neue Pflicht ohne historische Datenbasis
-- Hohe Unsicherheit ueber tatsaechliche Inanspruchnahme
+- Hohe Unsicherheit über tatsaechliche Inanspruchnahme
 - Dunkelziffer-Problematik (z.B. faktische Nicht-Befolgung)
 
 Rueckfrage nur wenn unklar: *"Was ist Ihre beste Annaeherung — und in welcher Bandbreite koennten Sie sich vorstellen?"*
@@ -40,11 +40,11 @@ Rueckfrage nur wenn unklar: *"Was ist Ihre beste Annaeherung — und in welcher 
 
 ### Top-down
 
-Aggregierter Wert (z.B. Anzahl Unternehmen) wird heruntergebrochen auf relevante Teilmenge (z.B. nur GmbHs ueber Schwellenwert).
+Aggregierter Wert (z.B. Anzahl Unternehmen) wird heruntergebrochen auf relevante Teilmenge (z.B. nur GmbHs über Schwellenwert).
 
 ### Bottom-up
 
-Einzelfaelle werden hochgerechnet ueber typische Verteilung.
+Einzelfaelle werden hochgerechnet über typische Verteilung.
 
 ### Analoge Vorhaben
 
@@ -103,4 +103,4 @@ Aus Pilotphase oder einer ersten kleinen Stichprobe hochrechnen.
 - OECD Standard Cost Model Manual Sensitivity Analysis
 - EU Better Regulation Toolbox Tool 25
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

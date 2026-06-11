@@ -115,7 +115,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - **§§ 311 II, 241 II BGB** — Q&A-Antworten binden vorvertraglich; falsche Antworten = c.i.c.-Haftung
 - **§ 444 BGB** — Arglist kann durch Q&A-Antworten nicht ausgeschlossen werden; vollstaendige Offenlegung noetig
-- **Art. 18 MAR** — bei borsennotierten Zielgesellschaften: Q&A koennen Insider-Infos enthalten; nur autorisierte Personen duerfen antworten
+- **Art. 18 MAR** — bei borsennotierten Zielgesellschaften: Q&A können Insider-Infos enthalten; nur autorisierte Personen dürfen antworten
 - **§ 17 UWG** — Geschaeftsgeheimnis; manche Fragen zielen auf vertrauliche Informationen ab
 
 ## Aktuelle Rechtsprechung
@@ -130,7 +130,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 | Eingang bestaetigten | Quittung und Pruefdatum | Verkaefer-PMO | Sofort |
 | Zustaendigen bestimmen | Wer beantwortet diese Frage: Legal, Tax, Management? | PMO | 24h |
 | Antwort entwerfen | Entwurf durch Zustaendigen | Workstream-Lead | 48-72h |
-| Review | Kanzlei oder Partner prueft Antwort; vollstaendig? Haftungsrisiko? | Partner | 24h |
+| Review | Kanzlei oder Partner prüft Antwort; vollstaendig? Haftungsrisiko? | Partner | 24h |
 | Freigabe Mandant | Bei heiklen Fragen: Mandant gibt frei | Management | 24h |
 | Antwort hochladen | Im DR-System; dokumentiert | PMO | Sofort nach Freigabe |
 | Q&A-Log aktualisieren | Frage, Datum, Antwort, Bearbeiter protokollieren | PMO | Sofort |
@@ -178,7 +178,7 @@ DURCHSCHNITTLICHE ANTWORTZEIT: [Tage]
 
 ## Rote Schwellen
 
-- Unvollstaendige Antwort auf Litigation-Frage → § 444 BGB; kein Haftungsausschluss moeglich
+- Unvollstaendige Antwort auf Litigation-Frage → § 444 BGB; kein Haftungsausschluss möglich
 - Unterschiedliche Antworten an verschiedene Bieter → Diskriminierungsvorwurf; Vertrauensschutz gestort
 - Q&A-Log nicht archiviert → kein Beweis für Kaeufer-Kenntnis im Streitfall
 - Insider-Informationen im Q&A ohne MAR-Kontrolle → Art. 14 MAR; BaFin-Risiko

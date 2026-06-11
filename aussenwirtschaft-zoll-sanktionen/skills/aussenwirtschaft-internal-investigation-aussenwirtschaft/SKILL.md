@@ -50,8 +50,8 @@ description: "Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll-
 
 - Legal Hold zu spaet eingeleitet; Beweise ueberschrieben oder Datenschutzloeschfristen abgelaufen.
 - Interne Mitarbeiter untersuchen sich selbst; Interessenkonflikt.
-- Investigation-Berichte ohne Anwaltsprivileg koennen von Behörden beschlagnahmt werden.
-- Mitarbeiter ohne Belehrung ueber Aussageverweigerungsrecht befragt; spaetere Verwertungsprobleme.
+- Investigation-Berichte ohne Anwaltsprivileg können von Behörden beschlagnahmt werden.
+- Mitarbeiter ohne Belehrung über Aussageverweigerungsrecht befragt; spaetere Verwertungsprobleme.
 
 ## Schnittstellen zu anderen Skills
 

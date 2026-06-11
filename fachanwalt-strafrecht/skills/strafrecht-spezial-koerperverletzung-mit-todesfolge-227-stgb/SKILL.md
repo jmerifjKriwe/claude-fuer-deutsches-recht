@@ -47,33 +47,33 @@ In der Praxis ist § 227 StGB das **Verteidigungsziel** bei Anklage wegen Totsch
 
 - **Klassisch:** Das Opfer stirbt an den unmittelbaren Folgen der Verletzung (innere Blutung, Hirntrauma).
 - **Streitig:** Das Opfer flieht und kommt dabei ums Leben (Sturz aus dem Fenster) – Zurechnung bei voraussehbarer Fluchtreaktion.
-- **Streitig:** Das Opfer waehlt eine nicht angezeigte medizinische Massnahme. Bei freier Eigenverantwortung kann Zurechnung entfallen.
+- **Streitig:** Das Opfer waehlt eine nicht angezeigte medizinische Maßnahme. Bei freier Eigenverantwortung kann Zurechnung entfallen.
 - **Streitig:** Suizid nach Tat – Zurechnung nur bei sehr engem psychischem Zusammenhang.
 
-**Subjektive Voraussehbarkeit:** Bei Vorerkrankungen des Opfers, die der Taeter nicht kannte, ist subjektive Voraussehbarkeit zu pruefen.
+**Subjektive Voraussehbarkeit:** Bei Vorerkrankungen des Opfers, die der Taeter nicht kannte, ist subjektive Voraussehbarkeit zu prüfen.
 
 ## Praktikertipps der Verteidigung
 
-- **Toetungsvorsatz pruefen:** Wenn die Anklage § 212 StGB vorwirft, mit der staendigen BGH-Rechtsprechung zur Hemmschwellentheorie arbeiten. Bei verbleibenden Zweifeln am Toetungsvorsatz bleibt § 227 StGB als Sicherheitsnetz.
+- **Toetungsvorsatz prüfen:** Wenn die Anklage § 212 StGB vorwirft, mit der staendigen BGH-Rechtsprechung zur Hemmschwellentheorie arbeiten. Bei verbleibenden Zweifeln am Toetungsvorsatz bleibt § 227 StGB als Sicherheitsnetz.
 - **Tatbestandsspezifischen Zurechnungszusammenhang erschuettern:** Bei atypischen Kausalverlaufen Sachverstaendige (Rechtsmediziner) zur Erforschung des konkreten Todesmechanismus.
 - **Voraussehbarkeit:** Bei dem Taeter nicht bekannten Vorerkrankungen des Opfers (Herzerkrankung, Aneurysma) subjektive Voraussehbarkeit erschuettern.
 - **Minder schwerer Fall § 227 Abs. 2 StGB:** Bei Geststaendnis, Erstmaligkeit, geringen Tatumstaenden Strafrahmen ein bis zehn Jahre.
 - **§ 21 StGB:** Bei Alkohol, Affekt fakultative Strafrahmenverschiebung.
-- **Notwehr / § 33 StGB:** Bei Konfliktlagen pruefen.
+- **Notwehr / § 33 StGB:** Bei Konfliktlagen prüfen.
 
 ## Trade-off-Matrix
 
 - **Schweigen vs. Aussage:** Bei strittigem Toetungsvorsatz Aussage zur eigenen Risikobewertung wichtig – Hemmschwellentheorie hilft. Risiko: bei nicht ueberzeugender Aussage kann die Kammer den Toetungsvorsatz bejahen.
 - **Geststaendnis:** Bei eindeutigem objektivem Befund Geststaendnis hinsichtlich Koerperverletzung. Konzentration auf Zurechnungszusammenhang und Voraussehbarkeit des Todes.
 - **Glaubwuerdigkeit:** Konsistenz der Aussage mit objektiven Befunden, BGH-Linie staendig.
-- **Nebenklage:** § 395 Abs. 1 Nr. 1 StPO – Nebenklage durch Hinterbliebene zulaessig.
+- **Nebenklage:** § 395 Abs. 1 Nr. 1 StPO – Nebenklage durch Hinterbliebene zulässig.
 
 ## Konkurrenzen
 
 - **§§ 211, 212 StGB:** Bei Toetungsvorsatz vorrangig (Verdraengung).
 - **§ 222 StGB:** Bei fehlendem Vorsatz auch hinsichtlich der Koerperverletzung – fahrlaessige Toetung.
 - **§§ 223, 224, 226 StGB:** Werden durch § 227 StGB verdraengt im Wege der Spezialitaet (staendige BGH-Linie).
-- **§ 225 StGB:** Bei Misshandlung Schutzbefohlener Tateinheit moeglich.
+- **§ 225 StGB:** Bei Misshandlung Schutzbefohlener Tateinheit möglich.
 - **§ 251 StGB:** Bei Raub mit Todesfolge vorrangig.
 - **§ 178 StGB:** Bei sexueller Noetigung mit Todesfolge.
 
@@ -83,7 +83,7 @@ In der Praxis ist § 227 StGB das **Verteidigungsziel** bei Anklage wegen Totsch
 - **Minder schwerer Fall § 227 Abs. 2 StGB:** Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
 - **§ 49 StGB:** Strafrahmenverschiebung bei § 21 StGB, § 46a StGB, § 23 Abs. 2 StGB.
 - **§ 46a StGB / TOA:** Bei Erfolgsqualifikation Tod oft nur Strafrahmenverschiebung, kein Absehen von Strafe.
-- **Bewaehrung:** Bei Mindeststrafe drei Jahre kommt Bewaehrung nicht in Betracht. Im minder schweren Fall (ein bis zehn Jahre) bei Strafe bis zwei Jahren grundsaetzlich denkbar.
+- **Bewaehrung:** Bei Mindeststrafe drei Jahre kommt Bewaehrung nicht in Betracht. Im minder schweren Fall (ein bis zehn Jahre) bei Strafe bis zwei Jahren grundsätzlich denkbar.
 - **§ 46 StGB Strafzumessung:** Brutalitaet, Tatdauer, Tatumstaende, Verhalten nach der Tat.
 
 ## Mustertexte

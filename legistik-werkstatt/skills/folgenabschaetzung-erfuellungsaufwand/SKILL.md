@@ -64,7 +64,7 @@ Wenn KMU betroffen: Prüfung Verhältnismaessigkeit. Ggf. Schwellenwerte einfüh
 
 ## Zentrale Normen (Paragrafenkette)
 
-§§ 44a, 62 GGO (Erfuellungsaufwand-Berechnung, Folgenabschaetzung) — §§ 1-4 SKMBericht (Statistisches Bundesamt, Standardkosten-Modell) — Art. 5 Abs. 4 EUV (EU-Verhaeltnismaessigkeit) — § 39a VwVfG (Vorwegbegruendung bei Massenverfahren)
+§§ 44a, 62 GGO (Erfuellungsaufwand-Berechnung, Folgenabschaetzung) — §§ 1-4 SKMBericht (Statistisches Bundesamt, Standardkosten-Modell) — Art. 5 Abs. 4 EUV (EU-Verhältnismäßigkeit) — § 39a VwVfG (Vorwegbegruendung bei Massenverfahren)
 
 ## Ausgabe
 

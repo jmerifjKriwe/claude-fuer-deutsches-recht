@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Datenschutz und informationelle Selbstb
 
 ## Worum es geht
 
-Das Datenschutzrecht hat im 20. Jh. in Deutschland besondere Entwicklungen genommen. Das erste Bundesdatenschutzgesetz (BDSG 1977, BGBl. I 1977, 201) schuf einen fruehen gesetzlichen Rahmen. Das Volkszaehlungsurteil des BVerfG (BVerfGE 65, 1, 1983) leitete aus Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG ein Grundrecht auf informationelle Selbstbestimmung ab: Jeder hat das Recht, grundsaetzlich selbst ueber die Preisgabe und Verwendung seiner personenbezogenen Daten zu entscheiden. Die DSGVO 2018 (VO EU 2016/679) schuf ein europaweit einheitliches Datenschutzrecht und ersetzte national das BDSG weitgehend.
+Das Datenschutzrecht hat im 20. Jh. in Deutschland besondere Entwicklungen genommen. Das erste Bundesdatenschutzgesetz (BDSG 1977, BGBl. I 1977, 201) schuf einen fruehen gesetzlichen Rahmen. Das Volkszaehlungsurteil des BVerfG (BVerfGE 65, 1, 1983) leitete aus Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG ein Grundrecht auf informationelle Selbstbestimmung ab: Jeder hat das Recht, grundsätzlich selbst über die Preisgabe und Verwendung seiner personenbezogenen Daten zu entscheiden. Die DSGVO 2018 (VO EU 2016/679) schuf ein europaweit einheitliches Datenschutzrecht und ersetzte national das BDSG weitgehend.
 
 ## Kernnormen / Kernquellen
 

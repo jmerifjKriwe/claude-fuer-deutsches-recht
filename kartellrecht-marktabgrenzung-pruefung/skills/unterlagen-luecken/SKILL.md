@@ -11,7 +11,7 @@ Diese Unterlagenprüfung für **Kartellrecht Marktabgrenzung Prüfung** benennt 
 
 ## Fachlandkarte dieses Plugins
 
-- `1-gwb-kartellverbot-nationale-pruefung` — 1 GWB Kartellverbot Nationale Pruefung
+- `1-gwb-kartellverbot-nationale-pruefung` — 1 GWB Kartellverbot Nationale Prüfung
 - `19a-gwb-relative-abuse-economic` — 19A GWB Relative Abuse Economic
 - `abuse-of-economic-dependence` — Abuse OF Economic Dependence
 - `aeuv-behoerden-gericht-und-registerweg` — Aeuv Behoerden Gericht und Registerweg
@@ -29,7 +29,7 @@ Diese Unterlagenprüfung für **Kartellrecht Marktabgrenzung Prüfung** benennt 
 
 ## Arbeitsweg
 
-- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Kartellrecht Marktabgrenzung Pruefung-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Kartellrecht Marktabgrenzung Prüfung-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
 - Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?

@@ -3,7 +3,7 @@ name: investitionslinie-titel-umschichtung
 description: "Haushaltsrecht BHO Bund und Länder: Investitionslinie: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Investitionslinie Titel Pruefen
+# Investitionslinie Titel Prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Investitionslinie: Titel prü
 
 ## Normenanker
 
-Arbeitsfokus: **Investitionslinie Titel Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Investitionslinie Titel Prüfen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
 - `§ 17 BHO` — Einzelveranschlagung.

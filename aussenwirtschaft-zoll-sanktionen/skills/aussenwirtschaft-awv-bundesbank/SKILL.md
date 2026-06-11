@@ -15,17 +15,17 @@ description: "Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bu
 
 ## Mandantenfall
 
-- Unternehmen erhalt Zahlungen aus dem Ausland ueber 12.500 EUR und weiss nicht, ob Z4-Meldung noetig.
+- Unternehmen erhalt Zahlungen aus dem Ausland über 12.500 EUR und weiss nicht, ob Z4-Meldung noetig.
 - Bank fragt nach korrektem Formular für Wertpapierkaeufe eines Kunden aus Drittstaaten.
-- Exporteur zahlungsabwicklung ueber Auslandsbank; interessen Compliancepruefung aller Meldepflichten.
+- Exporteur zahlungsabwicklung über Auslandsbank; interessen Compliancepruefung aller Meldepflichten.
 
 ## Erste Schritte
 
 1. Art der Transaktion bestimmen: Zahlung, Wertpapiergeschaeft, Direktinvestition oder Kapitalverkehr.
-2. Schwellenwert pruefen: >= 12.500 EUR loest in vielen Faellen Meldepflicht aus (§ 67 AWV).
+2. Schwellenwert prüfen: >= 12.500 EUR loest in vielen Faellen Meldepflicht aus (§ 67 AWV).
 3. Zustaendiges Z-Formular auswaehlen (Z1 allg. Zahlung, Z4 Direktinvestitionen, Z10 Wertpapiere etc.).
 4. Fristen beachten: in der Regel 7. Werktag des Folgemonats.
-5. Formulare digital ueber Bundesbank ExtraNet einreichen.
+5. Formulare digital über Bundesbank ExtraNet einreichen.
 6. Archivierung der Meldungsbestaetigung.
 
 ## Rechtsrahmen
@@ -41,16 +41,16 @@ description: "Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bu
 - [ ] Transaktion >= 12.500 EUR und meldepflichtig?
 - [ ] Richtiges Z-Formular ausgewaehlt?
 - [ ] Fristen (7. Werktag Folgemonat) eingehalten?
-- [ ] Meldung digital ueber Bundesbank ExtraNet eingereicht?
+- [ ] Meldung digital über Bundesbank ExtraNet eingereicht?
 - [ ] Archivierungsbeleg gesichert?
 - [ ] Jaehrliche Bestandsmeldungen separat geprueft?
 
 ## Typische Fallstricke
 
-- Meldepflicht gilt auch bei Zahlungen ueber auslaendische Banken (wenn Inlaender zahlender Teil).
+- Meldepflicht gilt auch bei Zahlungen über auslaendische Banken (wenn Inlaender zahlender Teil).
 - Formular-Auswahl abhaengig von Transaktionsart; falsches Formular fuehrt zu Nachbearbeitungsauflage.
 - Direktinvestitions-Transaktionen fallen unter eigene Z4/Z5-Meldepflicht; nicht vergessen.
-- Netting und Verrechnungskonten koennen Meldeschwelle kuenstlich unterschreiten; Aggregationsregel beachten.
+- Netting und Verrechnungskonten können Meldeschwelle kuenstlich unterschreiten; Aggregationsregel beachten.
 
 ## Schnittstellen zu anderen Skills
 

@@ -24,16 +24,16 @@ description: "Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit R
 
 - § 253 Abs. 2 ZPO: Pflichtbestandteile der Klageschrift.
 - § 130 ZPO: Allgemeiner Schriftsatz-Inhalt.
-- § 311b BGB: Beurkundungspflicht für bestimmte Vertraege (Grundstueck, GmbH-Geschaeftsanteile).
+- § 311b BGB: Beurkundungspflicht für bestimmte Verträge (Grundstueck, GmbH-Geschaeftsanteile).
 - § 126 BGB, § 126a BGB, § 126b BGB: Schriftform, elektronische Form, Textform.
-- § 305 Abs. 1 BGB: AGB-Begriff. Vertraege mit AGB-Anteil brauchen zusaetzliche Strukturelemente.
+- § 305 Abs. 1 BGB: AGB-Begriff. Verträge mit AGB-Anteil brauchen zusaetzliche Strukturelemente.
 
 ## Ablauf / Checkliste
 
 1. **Dokumenttyp wahlen.** Vertrag, Klage, Klageerwiderung, AGB, Memo, Anwaltsschreiben.
 2. **Standardstruktur waehlen.** Siehe Tabellen unten.
 3. **Anpassen.** Streichen Sie nicht benoetigte Bloecke, ergaenzen Sie Sonderkapitel.
-4. **Nummerierung festlegen.** § (Paragraph) oder Ziffer. M&A-Vertraege ueblich mit Ziffern, BGB-Vertraege ueblich mit Paragraphen.
+4. **Nummerierung festlegen.** § (Paragraph) oder Ziffer. M&A-Verträge ueblich mit Ziffern, BGB-Verträge ueblich mit Paragraphen.
 5. **Inhaltsverzeichnis und Gliederung pragmatisch prüfen.** Bei längeren Dokumenten eine lesbare Übersicht vorsehen; technische Word-Automatisierung ist nicht Gegenstand dieses Skills.
 6. **Querverweise vorbereiten.** Siehe `verweis-und-querverweis-technik`.
 
@@ -47,7 +47,7 @@ description: "Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit R
 | Vertragsgegenstand | Hauptleistungspflicht in einer Klausel | nein |
 | Hauptleistungspflichten | Pflichten der Parteien im Detail | nein |
 | Nebenpflichten | Mitwirkung, Information, Schutz | je nach Vertragstyp |
-| Verguetung | Hoehe, Faelligkeit, Zahlweise, Verzug | nein, wenn entgeltlich |
+| Vergütung | Höhe, Faelligkeit, Zahlweise, Verzug | nein, wenn entgeltlich |
 | Maengelhaftung | Pflichten bei Mangel, Fristen, Rechte | je nach Vertragstyp |
 | Haftung | Begrenzung, Ausschluss, Versicherung | siehe `haftungsausschluss-und-haftungsbegrenzung` |
 | Geheimhaltung | NDA-Baustein oder Verweis auf NDA | je nach Mandat |

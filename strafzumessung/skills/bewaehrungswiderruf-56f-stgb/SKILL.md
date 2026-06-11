@@ -15,7 +15,7 @@ description: "Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Wide
 
 ## Worum geht es?
 
-§ 56f StGB regelt den Widerruf der Strafaussetzung zur Bewaehrung. Tritt eine Bewaehrungsverletzung ein, drohen Widerruf und Vollstreckung der ausgesetzten Strafe. Bevor das Gericht widerruft, muss es **andere, weniger einschneidende Massnahmen** pruefen (§ 56f Abs. 2 StGB).
+§ 56f StGB regelt den Widerruf der Strafaussetzung zur Bewaehrung. Tritt eine Bewaehrungsverletzung ein, drohen Widerruf und Vollstreckung der ausgesetzten Strafe. Bevor das Gericht widerruft, muss es **andere, weniger einschneidende Maßnahmen** prüfen (§ 56f Abs. 2 StGB).
 
 ## Wann brauchen Sie diese Skill?
 
@@ -34,7 +34,7 @@ Das Gericht widerruft die Aussetzung, wenn der Verurteilte:
 - gegen **Weisungen** groeblich oder beharrlich verstoesst oder sich der Aufsicht und Leitung des Bewaehrungshelfers beharrlich entzieht und dadurch Anlass zur Besorgnis gibt, dass er erneut Straftaten begehen wird (Nr. 2);
 - gegen **Auflagen** groeblich oder beharrlich verstoesst (Nr. 3).
 
-### § 56f Abs. 2 StGB — Mildere Massnahmen
+### § 56f Abs. 2 StGB — Mildere Maßnahmen
 
 Das Gericht sieht von dem Widerruf ab, wenn es ausreicht,
 
@@ -47,15 +47,15 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
 
 ### Verfahren
 
-- **§ 453 StPO** — Beschlussverfahren ueber Strafaussetzung und Widerruf.
+- **§ 453 StPO** — Beschlussverfahren über Strafaussetzung und Widerruf.
 - **§ 453 Abs. 1 Satz 4 StPO** — Verurteilter ist **anzuhoeren**.
 - **§ 453 Abs. 2 StPO** — Sofortige Beschwerde innerhalb einer Woche (§ 311 Abs. 2 StPO).
 
 ## Strafzumessungs-Grundsatz Widerruf
 
 - **Verhaeltnismaessigkeitspruefung** ist Pflicht (§ 56f Abs. 2 StGB).
-- Eine Verurteilung wegen einer neuen Straftat allein begruendet nicht zwingend den Widerruf; das Gericht muss pruefen, ob die Sozialprognose unverwertbar enttaeuscht ist.
-- Bei **Verfehlung unter der Erheblichkeitsschwelle** ist mildere Massnahme (Auflagen-Erhoehung, Verlaengerung) Pflicht.
+- Eine Verurteilung wegen einer neuen Straftat allein begruendet nicht zwingend den Widerruf; das Gericht muss prüfen, ob die Sozialprognose unverwertbar enttaeuscht ist.
+- Bei **Verfehlung unter der Erheblichkeitsschwelle** ist mildere Maßnahme (Auflagen-Erhoehung, Verlaengerung) Pflicht.
 
 ## Widerrufsgruende im Detail
 
@@ -63,7 +63,7 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
 
 - Rechtskraeftige Verurteilung **erforderlich** (str.; st. Rspr. erforderlich, vgl. die juengere Linie; Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren).
 - Auch eine **Bewaehrungszeit ueberschreitende** Tat kann Widerrufsgrund sein, wenn sie waehrend der Bewaehrungszeit begangen wurde (BGH st. Rspr.; Aktenzeichen verifizieren).
-- Tat im Zustand verminderter Schuldfaehigkeit (§ 21 StGB) oder Bagatelle kann mildernde Massnahme nahelegen.
+- Tat im Zustand verminderter Schuldfaehigkeit (§ 21 StGB) oder Bagatelle kann mildernde Maßnahme nahelegen.
 
 ### Weisungs-Verstoss (Nr. 2)
 
@@ -73,13 +73,13 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
 ### Auflagen-Verstoss (Nr. 3)
 
 - Geldauflage nicht gezahlt: bei Zahlungsunfaehigkeit ist Widerruf unverhaeltnismaessig.
-- Gemeinnuetzige Arbeit nicht geleistet: Pruefung von Hinderungsgruenden.
+- Gemeinnuetzige Arbeit nicht geleistet: Prüfung von Hinderungsgruenden.
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Akteneinsicht** § 147 StPO in die Bewaehrungsakte (Bewaehrungshelfer-Berichte, vorhaltliche Schreiben).
-2. **Tatsachenstand klaeren**: Welche konkreten Verstoesse werden vorgeworfen? Gibt es Belege?
-3. **Mildere Massnahmen** offensiv anbieten:
+2. **Tatsachenstand klären**: Welche konkreten Verstoesse werden vorgeworfen? Gibt es Belege?
+3. **Mildere Maßnahmen** offensiv anbieten:
  - Auflagenerfuellung nachholen.
  - Bewaehrungszeit-Verlaengerung.
  - Therapieteilnahme aufnehmen.
@@ -89,18 +89,18 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
  - Schriftliche Stellungnahme einreichen.
  - Beleg für aktuelle Lebenssituation.
 5. **Sofortige Beschwerde** nach § 453 Abs. 2 StPO i.V.m. § 311 StPO innerhalb einer **Woche** ab Zustellung.
-6. **Bei zweiter Verurteilung** in der Bewaehrungszeit: Pruefung, ob Gesamtstrafenbildung (§ 55 StGB) anstelle eines Widerrufs sinnvoll ist; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
+6. **Bei zweiter Verurteilung** in der Bewaehrungszeit: Prüfung, ob Gesamtstrafenbildung (§ 55 StGB) anstelle eines Widerrufs sinnvoll ist; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
 
 ## Anhörungstermin — typische Strategie
 
 - Schriftliche Eingabe vor dem Termin (Aktuelle Sozialdaten, Therapienachweis, Quittungen).
 - Mandant erscheint persoenlich und aeussert sich klar zur eigenen Situation.
-- Konkrete mildere Massnahme vorschlagen — das Gericht muss sie ausdruecklich erwaegen (§ 56f Abs. 2 StGB).
+- Konkrete mildere Maßnahme vorschlagen — das Gericht muss sie ausdruecklich erwaegen (§ 56f Abs. 2 StGB).
 
 ## Typische Fehler
 
-- **Anhörung versaeumt** oder rein formal abgewickelt: Verfahrensruege moeglich.
-- **Mildere Massnahmen** wurden nicht gepruegt — Pflicht des Gerichts; Beschluss-Begruendung pruefen.
+- **Anhörung versaeumt** oder rein formal abgewickelt: Verfahrensruege möglich.
+- **Mildere Maßnahmen** wurden nicht gepruegt — Pflicht des Gerichts; Beschluss-Begruendung prüfen.
 - **Frist** der sofortigen Beschwerde versaeumt (1 Woche).
 - **Geldauflage**-Verstoss bei nachgewiesener Zahlungsunfaehigkeit: Widerruf unverhaeltnismaessig.
 - **Neue Tat** in der Bewaehrungszeit noch nicht rechtskraeftig: Widerruf zumeist verfrueht.

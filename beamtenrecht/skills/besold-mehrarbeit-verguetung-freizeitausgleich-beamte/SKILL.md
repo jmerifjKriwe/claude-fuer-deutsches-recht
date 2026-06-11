@@ -3,7 +3,7 @@ name: besold-mehrarbeit-verguetung-freizeitausgleich-beamte
 description: "Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Beamtenrecht."
 ---
 
-# Besold Mehrarbeit Verguetung Freizeitausgleich Beamte
+# Besold Mehrarbeit Vergütung Freizeitausgleich Beamte
 
 ## Arbeitsweg
 
@@ -28,9 +28,9 @@ description: "Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Be
 ## Vorrang Freizeitausgleich
 
 - Mehrarbeit ist primaer durch entsprechende Dienstbefreiung auszugleichen.
-- Erst wenn das nicht moeglich: Geldausgleich.
+- Erst wenn das nicht möglich: Geldausgleich.
 
-## Verguetung
+## Vergütung
 
 - MAVergV setzt Stundensaetze fest.
 - Nach Besoldungsgruppe gestaffelt.
@@ -44,6 +44,6 @@ description: "Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Be
 ## Pruefraster
 
 1. Mehrarbeit angeordnet?
-2. Freizeitausgleich moeglich?
-3. Andernfalls Verguetung?
+2. Freizeitausgleich möglich?
+3. Andernfalls Vergütung?
 4. Arbeitszeitgrenzen eingehalten?

@@ -70,7 +70,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Angemessenheitspruefung** (BSG-Linie staendige Rspr.): Schluessiges Konzept der Kommune zu (a) Wohnflaeche (1 Person regelmaessig 50 qm, plus 15 qm je weitere Person), (b) Bruttokaltmiete (Kommunal-Mietspiegel; Vergleichswohnungen) und (c) Heizung (Heizspiegel der jeweiligen Kommune).
 - **Kosten-Senkungs-Aufforderung § 22 I 3 SGB II:** Behörde muss konkret und schriftlich auffordern; Frist regelmaessig 6 Monate; Senkungsbemuehungen dokumentieren.
 - **Bedarf bei unangemessen hoher Miete:** zunaechst tatsaechliche Miete uebernommen, dann nur noch angemessene; "Schluessiges Konzept" der Behörde ist Voraussetzung - fehlt es, gilt Wohngeldgesetz-Tabelle plus 10 % als Hilfsmassstab (BSG).
-- **Heizkosten:** tatsaechliche bis Grenze "extreme Atypik"; bei sehr hohem Verbrauch Pruefung Energiesparpotenzial.
+- **Heizkosten:** tatsaechliche bis Grenze "extreme Atypik"; bei sehr hohem Verbrauch Prüfung Energiesparpotenzial.
 - **Strom:** im Regelbedarf enthalten - keine separate Uebernahme (Ausnahme Warmwasser durch Heizung).
 - **Nebenkostenabrechnung:** Erstattung Nachzahlung als KdU im Monat des Zuflusses; Guthaben mindert KdU im Folgemonat.
 - **Eilrechtsschutz § 86b II SGG:** bei drohender Wohnungsloskeit zwingend; Anordnungsanspruch (KdU-Anspruch) und Anordnungsgrund (Raeumungsklage / Kuendigung) glaubhaft machen.

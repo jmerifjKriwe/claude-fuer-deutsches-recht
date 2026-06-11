@@ -21,8 +21,8 @@ Wohngeld und Sozialhilfe sind nicht das Gleiche. Wohngeld geht ans Verwaltungsge
 
 ## Wann brauchen Sie diese Skill?
 
-- Streit ueber Wohngeld-Hoehe.
-- Streit ueber Sozialhilfe-Bewilligung.
+- Streit über Wohngeld-Höhe.
+- Streit über Sozialhilfe-Bewilligung.
 - Sie wissen nicht, welches Gericht zuständig ist.
 
 ## Fachbegriffe (kurz erklaert)
@@ -34,7 +34,7 @@ Wohngeld und Sozialhilfe sind nicht das Gleiche. Wohngeld geht ans Verwaltungsge
 
 ## Rechtsgrundlagen
 
-- **Wohngeldgesetz (WoGG)** — Anspruch und Hoehe.
+- **Wohngeldgesetz (WoGG)** — Anspruch und Höhe.
 - **§ 7 SGB II** — Buergergeld.
 - **§ 41 SGB XII** — Grundsicherung im Alter / bei dauerhafter EM.
 - **§ 51 SGG** — Sozialgerichts-Zuständigkeit.
@@ -56,17 +56,17 @@ Wohngeld und Sozialhilfe sind nicht das Gleiche. Wohngeld geht ans Verwaltungsge
 - **Wohngeld**: Wenn Sie genug Geld zum Leben haben, aber die Miete zu hoch ist.
 - **Buergergeld + KdU**: Wenn Sie auch Geld für den Lebensunterhalt brauchen.
 
-In manchen Faellen koennen Sie wahlen — Wohngeld ist oft attraktiver, weil ohne Vermoegens-Pruefung wie bei Buergergeld.
+In manchen Faellen können Sie wahlen — Wohngeld ist oft attraktiver, weil ohne Vermoegens-Prüfung wie bei Buergergeld.
 
 ### Schritt 3 — Wohngeld-Streit
 
-Bei Streit ueber Wohngeld:
+Bei Streit über Wohngeld:
 
 - Widerspruch (an die Wohngeldbehoerde)
 - Falls Widerspruch in den jeweiligen Bundeslaendern noch erforderlich (variiert)
 - Klage am **Verwaltungsgericht** (NICHT am Sozialgericht!)
 
-**Achtung**: Vor dem VG fallen Gerichtskosten an. Anders als SG. PKH moeglich.
+**Achtung**: Vor dem VG fallen Gerichtskosten an. Anders als SG. PKH möglich.
 
 ### Schritt 4 — Sozialhilfe-Streit
 
@@ -75,23 +75,23 @@ Bei Streit um Sozialhilfe / Grundsicherung:
 - Widerspruch (Sozialamt)
 - Klage am **Sozialgericht** (kostenfrei nach § 183 SGG)
 
-### Schritt 5 — Im Zweifel beide pruefen
+### Schritt 5 — Im Zweifel beide prüfen
 
 Wenn Sie nicht sicher sind, ob Sie Wohngeld oder Sozialhilfe / Buergergeld brauchen:
 
 - Antrag bei beiden Behörden
 - § 16 SGB I sichert Frist: ein Antrag gilt für alle
-- Behörden klaeren intern
+- Behörden klären intern
 
 ### Schritt 6 — Folge: Falsche Klage
 
 Wenn Sie eine Wohngeld-Klage ans SG schicken: das SG verweist ans VG (§ 17a GVG analog). Aber Sie verlieren Zeit.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Wohngeld geht ans Verwaltungsgericht**, nicht ans SG.
-- **Wohngeld-Reform 2023 (Wohngeld-Plus)**: deutlich erhoeht. Pruefen Sie aktuellen Stand.
-- **Mehrfach beantragen**: bei mehreren moeglichen Leistungen pruefen Sie alle.
+- **Wohngeld-Reform 2023 (Wohngeld-Plus)**: deutlich erhoeht. Prüfen Sie aktuellen Stand.
+- **Mehrfach beantragen**: bei mehreren moeglichen Leistungen prüfen Sie alle.
 
 ## Typische Fehler
 
@@ -101,4 +101,4 @@ Wenn Sie eine Wohngeld-Klage ans SG schicken: das SG verweist ans VG (§ 17a GVG
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Wohngeld-Reform 2023 (Wohngeld-Plus) erweiterte Berechtigte. Pruefen Sie aktuelle Werte unter www.bmwsb.bund.de.
+Stand: 05/2026. Wohngeld-Reform 2023 (Wohngeld-Plus) erweiterte Berechtigte. Prüfen Sie aktuelle Werte unter www.bmwsb.bund.de.

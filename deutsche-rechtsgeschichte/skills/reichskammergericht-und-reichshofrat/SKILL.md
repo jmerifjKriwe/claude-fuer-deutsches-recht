@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,18 +32,18 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Das Reichskammergericht (RKG) wurde 1495 auf dem Wormser Reichstag gegründet (RKGOrdnung 1495, RGBl. 1495 [Neue Sammlung]). Es war das erste staendige zentrale Reichsgericht und schrieb die Anwendung des gemeinen Rechts (roemisch-kanonisches Recht) vor. 1527 nach Speyer verlegt, blieb es bis 1806 taetig. Der Reichshofrat (1497/1559) war das kaiserliche Konkurrenzgericht in Wien mit anderer Zusammensetzung und weniger strenger Bindung an das gelehrte Recht. Beide Gerichte bildeten die Spitze der Reichsgerichtsbarkeit. Die Besetzung des RKG (Haefte Reichsstaende, Haefte kaiserliche Ernennung) spiegelte die reichsstaendische Verfassung wider.
+Das Reichskammergericht (RKG) wurde 1495 auf dem Wormser Reichstag gegründet (RKGOrdnung 1495, RGBl. 1495 [Neue Sammlung]). Es war das erste staendige zentrale Reichsgericht und schrieb die Anwendung des gemeinen Rechts (roemisch-kanonisches Recht) vor. 1527 nach Speyer verlegt, blieb es bis 1806 tätig. Der Reichshofrat (1497/1559) war das kaiserliche Konkurrenzgericht in Wien mit anderer Zusammensetzung und weniger strenger Bindung an das gelehrte Recht. Beide Gerichte bildeten die Spitze der Reichsgerichtsbarkeit. Die Besetzung des RKG (Haefte Reichsstaende, Haefte kaiserliche Ernennung) spiegelte die reichsstaendische Verfassung wider.
 
 ## Kernnormen / Kernquellen
 
 - **Reichskammergerichtsordnung 1495**: Gruendungsdokument und Verfahrensordnung
-- **Jungster Reichsabschluss 1654**: Letzte grosse RKG-Reform
+- **Jungster Reichsabschluss 1654**: Letzte große RKG-Reform
 - **Kammerzielerordnung**: Finanzierung des RKG durch Reichsstaedte und Reichsstaende
 - **Wahlkapitulationen** (ab 1519): Sicherung der RKG-Existenz durch Kaiserwahl-Bedingungen
 
 ## Akteure und Institutionen
 
-- **Maximilian I.** (1459-1519): Gruender des RKG 1495
+- **Maximilian I.** (1459-1519): Gründer des RKG 1495
 - **Kameralrichter** (Praesidenten und Beisitzer): Richterliches Kollegium des RKG
 - **Prokuratoren und Advokaten am RKG**: Rechtsanwaltschaft vor dem Reichsgericht
 - **Ferdinand I.** (1503-1564): Ausbau des Reichshofrats

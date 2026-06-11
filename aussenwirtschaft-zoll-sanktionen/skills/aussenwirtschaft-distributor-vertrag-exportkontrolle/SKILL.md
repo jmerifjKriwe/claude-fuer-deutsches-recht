@@ -16,21 +16,21 @@ description: "Exportkontrollklauseln in Distributor- und Handelsvertretervertrae
 ## Mandantenfall
 
 - Exporteur schliesst Distributionsvertrag mit Haendler in den VAE; Re-Export-Risiken vertraglich absichern.
-- Konzern prueft Bestandsvertraege mit Distributoren auf Russland-No-Russia-Clause-Konformitaet.
+- Konzern prüft Bestandsvertraege mit Distributoren auf Russland-No-Russia-Clause-Konformitaet.
 - KMU moechte vertragliche Handhabe um Distributor bei Verdacht auf Sanktionsumgehung zu korrekt.
 
 ## Erste Schritte
 
 1. Risikoprofil des Distributors und der Ziellaender ermitteln.
-2. Pflicht zur No-Russia-Clause pruefen (Art. 12g VO 833/2014) für relevante Gueterkategorien.
+2. Pflicht zur No-Russia-Clause prüfen (Art. 12g VO 833/2014) für relevante Gueterkategorien.
 3. Exportkontroll-Klauseln entwerfen: Re-Export-Verbot, Endverwender-Pflicht, Screeningpflicht, Audit-Recht.
 4. Gerichtsstand und anwendbares Recht mit Blick auf Durchsetzbarkeit der Exportkontroll-Pflichten waehlen.
 5. Vertragspartner bei Widerstand aufklaeren: Haftungsrisiken für den Distributor selbst.
-6. Bestandsvertraege auf fehlende Klauseln pruefen und Nachtragsvereinbarungen vorbereiten.
+6. Bestandsvertraege auf fehlende Klauseln prüfen und Nachtragsvereinbarungen vorbereiten.
 
 ## Rechtsrahmen
 
-- **Art. 12g VO (EU) 833/2014**: Pflichtklausel in Vertraegen ueber bestimmte Gueter.
+- **Art. 12g VO (EU) 833/2014**: Pflichtklausel in Vertraegen über bestimmte Gueter.
 - **AWG §§ 17-18**: Haftung des Exporteurs bei Kenntnis der Weiterlieferung.
 - **Art. 9 VO (EU) 2021/821**: Vertragliche Compliance-Pflichten im Rahmen von ICP.
 - **§ 242 BGB**: Treu und Glauben als Auslegungsmassstab für Exportkontrollklauseln.
@@ -47,7 +47,7 @@ description: "Exportkontrollklauseln in Distributor- und Handelsvertretervertrae
 
 ## Typische Fallstricke
 
-- Zu allgemeine Formulierungen ('comply with all applicable laws') genuegen für Art. 12g VO 833/2014 nicht.
+- Zu allgemeine Formulierungen ('comply with all applicable laws') genügen für Art. 12g VO 833/2014 nicht.
 - Fehlende Audit-Rechte verhindern effektive Ueberwachung.
 - Ohne Ruecktrittsrecht bei Sanktionsverstoessen bleibt Exporteur in der Haftung.
 - Englische Klauselsprache kann bei auslaendischem Gericht anders ausgelegt werden.

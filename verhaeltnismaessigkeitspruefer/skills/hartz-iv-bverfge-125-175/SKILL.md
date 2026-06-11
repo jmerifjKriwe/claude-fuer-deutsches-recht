@@ -8,7 +8,7 @@ description: Hartz-IV-Urteil BVerfGE Band 125 Seite 175 vom 09.02.2010 als Grund
 ## Sachverhalt
 
 Berechnung der Regelleistungen nach SGB II war methodisch intransparent
-und beruhte teilweise auf Schaetzungen. Klaeger ruegten Hoehe als
+und beruhte teilweise auf Schaetzungen. Kläger ruegten Höhe als
 verfassungswidrig.
 
 ## Entscheidung
@@ -27,17 +27,17 @@ soziokulturelle Teilhabe.
 
 ## Drei Pruefdimensionen
 
-1. **Hoehe** ausreichend?
+1. **Höhe** ausreichend?
 2. **Methode** der Berechnung transparent und nachvollziehbar?
 3. **Verfahren** der Fortschreibung gesichert?
 
-## Bedeutung fuer Verhaeltnismaessigkeit
+## Bedeutung für Verhältnismäßigkeit
 
 Das Existenzminimum ist eine **absolute Untergrenze**: Sanktionen,
 Kuerzungen oder Leistungsausschluesse, die diese Grenze beruehren,
 sind ohne weitere Abwaegung verfassungswidrig.
 
-BVerfGE 132, 134 (Asylbewerberleistungen): gleicher Massstab fuer
+BVerfGE 132, 134 (Asylbewerberleistungen): gleicher Massstab für
 Asylbewerberleistungsgesetz.
 BVerfGE 152, 68 (Sanktionen SGB II): Sanktionen nach SGB II teilweise
 verfassungswidrig wegen ueberproportionaler Kuerzung.
@@ -45,7 +45,7 @@ verfassungswidrig wegen ueberproportionaler Kuerzung.
 ## Klausurrelevanz
 
 Wenn Sozialleistungen gekuerzt oder versagt werden, pruefe nicht
-nur Verhaeltnismaessigkeit, sondern auch:
+nur Verhältnismäßigkeit, sondern auch:
 - ob die absolute Untergrenze des Existenzminimums beruehrt ist.
 - ob die Berechnungsmethodik nachvollziehbar ist.
 - ob Fortschreibung gesichert ist.

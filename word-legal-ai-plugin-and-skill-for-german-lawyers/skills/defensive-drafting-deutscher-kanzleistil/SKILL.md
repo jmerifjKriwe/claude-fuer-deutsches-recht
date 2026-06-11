@@ -31,14 +31,14 @@ description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwo
 
 ### Falle 1: Kaschierte Haftungsfreistellung
 
-**Rote-Flaggen-Wortliste:** "Schadensersatz nur bei Vorsatz", "Haftung ist auf den vertragstypischen Schaden begrenzt", "indirekte Folgeschaeden sind ausgeschlossen", "Mangelfolgeschaeden sind ausgeschlossen", "Haftung der Hoehe nach begrenzt auf den Auftragswert".
+**Rote-Flaggen-Wortliste:** "Schadensersatz nur bei Vorsatz", "Haftung ist auf den vertragstypischen Schaden begrenzt", "indirekte Folgeschaeden sind ausgeschlossen", "Mangelfolgeschaeden sind ausgeschlossen", "Haftung der Höhe nach begrenzt auf den Auftragswert".
 
 **Wirkung:** Begrenzt die Haftung des Vertragspartners auf einen Teil seines Verschuldens. In AGB regelmaessig unwirksam nach § 309 Nr. 7 BGB; im Individualvertrag wirksam.
 
 **Verteidigung:**
-- Pruefen, ob Klausel in AGB: dann oft § 309 Nr. 7 BGB einschlaegig.
+- Prüfen, ob Klausel in AGB: dann oft § 309 Nr. 7 BGB einschlaegig.
 - Ausnahmen einfuegen: "Die Haftungsbegrenzung gilt nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit, für Schaeden aus vorsaetzlicher oder grob fahrlaessiger Pflichtverletzung und für Schaeden aus der Verletzung wesentlicher Vertragspflichten (Kardinalpflichten)."
-- Hoehe an Versicherungssumme koppeln statt an Auftragswert.
+- Höhe an Versicherungssumme koppeln statt an Auftragswert.
 
 ### Falle 2: Verschobene Beweislast
 
@@ -54,7 +54,7 @@ description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwo
 
 **Wirkung:** Belastet den Mandanten mit hohen Reisekosten und unbekannter Gerichtsbarkeit. Im B2C oft unwirksam nach § 38 ZPO, im B2B regelmaessig wirksam.
 
-**Verteidigung:** Wechselseitig: Klaeger klagt am Sitz des Beklagten. Oder neutraler dritter Gerichtsstand (z. B. Frankfurt am Main).
+**Verteidigung:** Wechselseitig: Kläger klagt am Sitz des Beklagten. Oder neutraler dritter Gerichtsstand (z. B. Frankfurt am Main).
 
 ### Falle 4: Unfairer Aenderungsvorbehalt
 
@@ -72,7 +72,7 @@ description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwo
 
 **Rote-Flaggen-Wortliste:** "Maengelansprueche verjaehren in zwoelf Monaten ab Lieferung", "Ansprueche verjaehren spaetestens nach einem Jahr".
 
-**Wirkung:** Verkuerzt die regulaere Verjährung von zwei Jahren (§ 438 BGB) oder fuenf Jahren (Bauwerk). In B2C nichtig bei Neuware (§ 476 II BGB neu); in B2B grundsaetzlich zulaessig, in AGB Pruefung nach § 307 BGB.
+**Wirkung:** Verkuerzt die regulaere Verjährung von zwei Jahren (§ 438 BGB) oder fuenf Jahren (Bauwerk). In B2C nichtig bei Neuware (§ 476 II BGB neu); in B2B grundsätzlich zulässig, in AGB Prüfung nach § 307 BGB.
 
 **Verteidigung:** Verjährungsregelung auf gesetzliches Mass zurueckfuehren. Bei Software und IT-Werken auf zwei Jahre. Bei Bauwerken auf fuenf Jahre.
 

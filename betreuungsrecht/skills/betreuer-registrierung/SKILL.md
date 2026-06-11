@@ -147,7 +147,7 @@ Laufende Aufsicht: Stammbehörde nach §§ 25, 26 BtOG.
 
 ## VII. Rechtsanwalt als Berufsbetreuer
 
-Berufsbegleitende Tätigkeit als Berufsbetreuer ist berufsrechtlich grundsaetzlich zulässig (§ 7 BRAO im Umkehrschluss), bedarf aber der **Anzeige bei der zuständigen Rechtsanwaltskammer**.
+Berufsbegleitende Tätigkeit als Berufsbetreuer ist berufsrechtlich grundsätzlich zulässig (§ 7 BRAO im Umkehrschluss), bedarf aber der **Anzeige bei der zuständigen Rechtsanwaltskammer**.
 
 Steuerlich: nicht klassischer Katalogberuf des § 18 EStG, in der Praxis aber regelmäßig entsprechend behandelt; im Zweifel mit Steuerberater prüfen.
 

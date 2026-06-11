@@ -114,7 +114,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Normen & Fristen
 
 - **§§ 35-43 GWB** — Fusionskontrolle; Phase I 4-6 Wochen; Phase II bis 5 Monate
-- **§ 56 AWV** — FDI-Pruefung; Anmeldefrist 2 Monate nach Vertragsschluss; Pruefdauer 4 Monate
+- **§ 56 AWV** — FDI-Prüfung; Anmeldefrist 2 Monate nach Vertragsschluss; Pruefdauer 4 Monate
 - **§§ 158, 162 BGB** — Closing Conditions; Fristen und Bedingungen; treuwidrige Verhinderung
 - **§ 41 GWB** — Vollzugsverbot; gun jumping; Bussgeld bis 10 % Weltumsatz
 - **Art. 7 FKVO** — EU-Vollzugsverbot
@@ -140,7 +140,7 @@ Ein Steps Plan listet alle Aktionen zur vollstaendigen Transaktionsdurchfuehrung
 | 9 | FDI-Anmeldung | Kaeufer / Legal | Signing | [Datum] |
 | 10 | CP-Tracking und Monitoring | PMO | Laufend | Bis Closing |
 | 11 | Closing | Notar, Parteien | Alle CPs erfuellt | [Datum] |
-| 12 | Post-Closing-Massnahmen | PMO, Recht, Tax | Closing | [Datum] |
+| 12 | Post-Closing-Maßnahmen | PMO, Recht, Tax | Closing | [Datum] |
 
 ## Weekly-Status-Report Vorlage
 
@@ -186,7 +186,7 @@ Erstellt von: [PMO-Lead]
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Kickoff-Meeting** — alle Workstream-Leads; Steps Plan erstellen; Rollen klaeren
+1. **Kickoff-Meeting** — alle Workstream-Leads; Steps Plan erstellen; Rollen klären
 2. **Steps Plan finalisieren** — Abhaengigkeiten kartieren; kritischer Pfad identifizieren
 3. **Wochentakt** — Weekly-Call; Status-Update; Risiken; Entscheidungen
 4. **CP-Tracker fuehren** — taeglich aktualisieren; Ampelstatus; Eskalation

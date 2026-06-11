@@ -13,7 +13,7 @@ description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. A
 
 ## Kernsachverhalt
 
-Kurzarbeit ist die voruebergehende Reduzierung der regelmäßigen Arbeitszeit aus wirtschaftlichen Gruenden. Der AG meldet Kurzarbeit bei der Bundesagentur für Arbeit (BA) an; der AN erhaelt anteilig den Lohn vom AG plus KUG von der BA. KUG wird ueber AG abgerechnet (Erstattungsverfahren). Das KUG selbst ist steuerfrei, unterliegt aber dem Progressionsvorbehalt (§ 32b EStG) — wirkt also auf den Steuersatz der uebrigen Einkuenfte.
+Kurzarbeit ist die voruebergehende Reduzierung der regelmäßigen Arbeitszeit aus wirtschaftlichen Gruenden. Der AG meldet Kurzarbeit bei der Bundesagentur für Arbeit (BA) an; der AN erhaelt anteilig den Lohn vom AG plus KUG von der BA. KUG wird über AG abgerechnet (Erstattungsverfahren). Das KUG selbst ist steuerfrei, unterliegt aber dem Progressionsvorbehalt (§ 32b EStG) — wirkt also auf den Steuersatz der uebrigen Einkuenfte.
 
 ## Kaltstart-Rueckfragen
 
@@ -49,7 +49,7 @@ Kurzarbeit ist die voruebergehende Reduzierung der regelmäßigen Arbeitszeit au
 
 ### Phase 1 — Voraussetzungen
 
-| Voraussetzung | Pruefung |
+| Voraussetzung | Prüfung |
 |---|---|
 | Erheblicher Arbeitsausfall | Mind. 10 Prozent der AN mit > 10 Prozent Entgeltausfall |
 | Voruebergehender Charakter | Erwartung Erholung |
@@ -58,9 +58,9 @@ Kurzarbeit ist die voruebergehende Reduzierung der regelmäßigen Arbeitszeit au
 
 ### Phase 2 — Anzeige BA
 
-- Form ueber BA-Arbeitgeberservice.
+- Form über BA-Arbeitgeberservice.
 - Spaetestens Ende des Anspruchsmonats.
-- BA-Pruefung der Voraussetzungen; Bescheid.
+- BA-Prüfung der Voraussetzungen; Bescheid.
 
 ### Phase 3 — Berechnung KUG
 
@@ -69,8 +69,8 @@ Kurzarbeit ist die voruebergehende Reduzierung der regelmäßigen Arbeitszeit au
 - Pauschalierte Nettoentgeltdifferenz = Differenz fiktives Netto-Sollentgelt minus Netto-Istentgelt nach KUG-Tabelle der BA.
 - KUG ohne Kind: 60 Prozent der Nettoentgeltdifferenz.
 - KUG mit Kind (mindestens ein Kind nach ELStAM oder zumindest aus Kinderfreibetrag erkennbar): 67 Prozent der Nettoentgeltdifferenz.
-- BBG-Grenze: Sollentgelt nur bis BBG RV; ab 2025 bundeseinheitlich 8.050 EUR/Monat (96.600 EUR/Jahr; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen).
-- Pandemie-Sonderaufstockungen (auf 70/77 Prozent ab 4. Monat, 80/87 Prozent ab 7. Monat) sind regulaer ausgelaufen — Anwendung nur bei Sonderverordnung; Stand 2026 pruefen.
+- BBG-Grenze: Sollentgelt nur bis BBG RV; ab 2025 bundeseinheitlich 8.050 EUR/Monat (96.600 EUR/Jahr; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen).
+- Pandemie-Sonderaufstockungen (auf 70/77 Prozent ab 4. Monat, 80/87 Prozent ab 7. Monat) sind regulaer ausgelaufen — Anwendung nur bei Sonderverordnung; Stand 2026 prüfen.
 
 ### Phase 4 — Lohnabrechnung
 
@@ -83,8 +83,8 @@ Kurzarbeit ist die voruebergehende Reduzierung der regelmäßigen Arbeitszeit au
 
 - KUG wird im AN-Steuerbescheid in den Progressionsvorbehalt § 32b Abs. 1 Satz 1 Nr. 1 lit. a EStG einbezogen.
 - Hoehere Steuerklassifikation auf die uebrigen Einkuenfte.
-- AN bekommt LSt-Bescheinigung mit "KUG" (in der Regel Zeile 15 — bei LSt-Bescheinigungsmuster-Aenderungen BMF-Schreiben pruefen).
-- Bei Bezug von Lohnersatzleistungen ueber 410 EUR im Kalenderjahr: Veranlagungspflicht des AN gemaess § 46 Abs. 2 Nr. 1 EStG; Steuererklaerung zwingend.
+- AN bekommt LSt-Bescheinigung mit "KUG" (in der Regel Zeile 15 — bei LSt-Bescheinigungsmuster-Aenderungen BMF-Schreiben prüfen).
+- Bei Bezug von Lohnersatzleistungen über 410 EUR im Kalenderjahr: Veranlagungspflicht des AN gemäß § 46 Abs. 2 Nr. 1 EStG; Steuererklaerung zwingend.
 
 ### Phase 6 — Pflichten AG
 
@@ -96,8 +96,8 @@ Kurzarbeit ist die voruebergehende Reduzierung der regelmäßigen Arbeitszeit au
 ## Strategie und Praxis-Tipps
 
 - Anzeige fristgerecht (Ende Anspruchsmonat) — Verspaetung schliesst Anspruch aus.
-- Urlaubsabbau und Arbeitszeitkonto-Abbau zuerst sind grundsaetzlich Pflicht.
-- AN-Information ueber Progressionsvorbehalt — Steuernachzahlung in der Veranlagung moeglich.
+- Urlaubsabbau und Arbeitszeitkonto-Abbau zuerst sind grundsätzlich Pflicht.
+- AN-Information über Progressionsvorbehalt — Steuernachzahlung in der Veranlagung möglich.
 - SV-Beitraege wurden in Pandemiezeit teilweise vom AG erlassen — Sonderregelungen 2020-2022 abgelaufen.
 - StBVV: Kurzarbeit-Abrechnung Sondertaetigkeit, Zeithonorar.
 - DATEV-Tipp: DATEV LODAS KUG-Modul mit BA-Schnittstelle.

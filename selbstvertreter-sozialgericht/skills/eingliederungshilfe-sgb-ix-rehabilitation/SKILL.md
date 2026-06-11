@@ -13,7 +13,7 @@ description: "Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistunge
 
 ## Eingliederungshilfe — Wer ist zuständig
 
-- Land/Kommune ueber das jeweilige Land (Sozialamt Bezirksregierung).
+- Land/Kommune über das jeweilige Land (Sozialamt Bezirksregierung).
 - Spezialisierte Traeger für Komplexleistungen.
 
 ## Reha-Traeger nach § 6 SGB IX

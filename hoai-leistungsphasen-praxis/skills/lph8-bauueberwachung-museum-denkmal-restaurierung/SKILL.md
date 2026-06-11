@@ -49,7 +49,7 @@ Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spe
 2. Rissmonitoring: Gipsmarken oder Glasstaebe mit Datum anbringen, woechentliche Ablesung, Protokoll
 3. Naturstein-Reinigungsergebnis: pH-Wert nach Behandlung, Farbabgleich mit Fotodokumentation
 4. Gewoelbe-Injektionsprotokoll: Einpressdruck, Menge je Bohrloch, Verarbeitungsszeit
-5. Reversibilitaet der Massnahmen: Keine dauerhaften Verklebungen ohne Behördenzustimmung
+5. Reversibilitaet der Maßnahmen: Keine dauerhaften Verklebungen ohne Behördenzustimmung
 6. Foerdermittel-Dokumentation: Ausgaben-Nachweise je Baumassnahme, Fotos Vorher-Nachher je Bauteil
 
 ## Foto-, Video- und Dokumentenanalyse
@@ -58,7 +58,7 @@ Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spe
 - PlanRadar Restaurierung: Mangel-Ticket, Verantwortlicher Restaurator, Faelligkeitsdatum
 - Resistograph-Bohrprotokoll Holztragwerk: Bohrkern-Widerstandsverlauf, Faeulenisolierung, Bauteilnummer
 - 3D-Scan Fassade mit Matterport: Schadens-Overlay, Massdarstellung Gewoelbeverformung
-- Denkmalbehoerden-Stempel-Protokolle: Zustimmungsschreiben je Massnahme archivieren und verknuepfen
+- Denkmalbehoerden-Stempel-Protokolle: Zustimmungsschreiben je Maßnahme archivieren und verknuepfen
 
 ## Meldungserstellung im ERP / SAP
 

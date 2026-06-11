@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -37,7 +37,7 @@ Die Juristenausbildung in Deutschland ist historisch gewachsen. Das mittelalterl
 ## Kernnormen / Kernquellen
 
 - **DRiG § 5 (BGBl. I 1961, 713)**: Befahigung zum Richteramt, Zweiexamens-System
-- **DRiG §§ 5-7**: Erste Pruefung, Vorbereitungsdienst, Zweite Pruefung
+- **DRiG §§ 5-7**: Erste Prüfung, Vorbereitungsdienst, Zweite Prüfung
 - **JAG der Länder** (z. B. NRW JAG 2003): Einzelheiten der Juristenausbildung
 - **Erste Verordnung zur Durchfuehrung des Berufsbeamtengesetzes 1933 (RGBl. I 1933, 245)**: Judenausschluss aus Staatsdienst und damit aus juristischen Staatsberufen
 

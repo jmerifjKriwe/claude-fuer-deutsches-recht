@@ -1,23 +1,23 @@
 # Eval-Results
 
-Stand: 2026-06-11T06:52:15Z
+Stand: 2026-06-11T22:06:40Z
 
-- Testakten gesamt: **204**
+- Testakten gesamt: **206**
 - mit Rubric: **204**
-- All-Pass (alle Checks bestanden, ohne human_review): **188**
+- All-Pass (alle Checks bestanden, ohne human_review): **204**
 
 ## Detail pro Akte (nur Akten mit Rubric)
 
 | Akte | Status | passed | failed | skipped |
 | --- | --- | --- | --- | --- |
-| `aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen` | PASS | 3 | 0 | 1 |
+| `aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen` | PASS | 7 | 0 | 1 |
 | `anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig` | PASS | 3 | 0 | 1 |
 | `anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler` | PASS | 3 | 0 | 1 |
 | `arbeitsrecht-kuendigungsdrama-koerber-werk` | PASS | 6 | 0 | 0 |
-| `arbeitszeugnis-analyse-bluehendes-leben` | FAIL | 2 | 1 | 1 |
+| `arbeitszeugnis-analyse-bluehendes-leben` | PASS | 3 | 0 | 1 |
 | `arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum` | PASS | 7 | 0 | 0 |
-| `aussenwirtschaft-zoll-sanktionen-globalmaschinen` | FAIL | 2 | 1 | 1 |
-| `bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart` | PASS | 3 | 0 | 1 |
+| `aussenwirtschaft-zoll-sanktionen-globalmaschinen` | PASS | 3 | 0 | 1 |
+| `bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart` | PASS | 6 | 0 | 1 |
 | `batteriespeicher-brandenburg-berlin-resilienz` | PASS | 3 | 0 | 1 |
 | `bav-strategie-konzern-meissner-rheinwerk-ag` | PASS | 3 | 0 | 1 |
 | `beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung` | PASS | 3 | 0 | 1 |
@@ -25,9 +25,9 @@ Stand: 2026-06-11T06:52:15Z
 | `beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei` | PASS | 3 | 0 | 1 |
 | `beamtenrecht-richterlaufbahn-besoldung-mondsee` | PASS | 3 | 0 | 1 |
 | `beamtenrecht-schulleitung-hannover-konkurrentenstreit` | PASS | 3 | 0 | 1 |
-| `bebauungsplan-augsburg-bahnhofsareal` | FAIL | 2 | 1 | 1 |
+| `bebauungsplan-augsburg-bahnhofsareal` | PASS | 5 | 0 | 1 |
 | `befristungskontrollklage-vogt-stadtwerke` | PASS | 3 | 0 | 1 |
-| `beispielakte-edelholz-berlin` | FAIL | 2 | 1 | 1 |
+| `beispielakte-edelholz-berlin` | PASS | 3 | 0 | 1 |
 | `bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn` | PASS | 3 | 0 | 1 |
 | `berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch` | PASS | 3 | 0 | 1 |
 | `betaeubungsmittelrecht-apotheke-substitution-festival` | PASS | 3 | 0 | 1 |
@@ -39,7 +39,7 @@ Stand: 2026-06-11T06:52:15Z
 | `bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt` | PASS | 3 | 0 | 1 |
 | `bgb-bt-smart-kuehlschrank-digital-repair-koeln` | PASS | 3 | 0 | 1 |
 | `bu-deckungsklage-pflegekraft-vogelweide-aachen` | PASS | 3 | 0 | 1 |
-| `bvg-widerspruchsstelle-abschleppen-mobg` | FAIL | 2 | 1 | 1 |
+| `bvg-widerspruchsstelle-abschleppen-mobg` | PASS | 3 | 0 | 1 |
 | `cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt` | PASS | 3 | 0 | 1 |
 | `common-law-kompass-crossborder-contract` | PASS | 3 | 0 | 1 |
 | `cyber-vorfall-ransomware-frischetrans-mainz` | PASS | 3 | 0 | 1 |
@@ -56,7 +56,7 @@ Stand: 2026-06-11T06:52:15Z
 | `eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt` | PASS | 3 | 0 | 1 |
 | `einfache-leichte-sprache-jura-mandantenbrief` | PASS | 3 | 0 | 1 |
 | `einigungsvertrag-treuhand-mauergrundstueck-lindenau` | PASS | 3 | 0 | 1 |
-| `energierecht-stadtwerke-quartier` | FAIL | 2 | 1 | 1 |
+| `energierecht-stadtwerke-quartier` | PASS | 3 | 0 | 1 |
 | `erbbaurecht-erbbauzins-heimfall-lindenwerder-2026` | PASS | 3 | 0 | 1 |
 | `erbstreit-krypto-multisig-edelmann-stuttgart` | PASS | 3 | 0 | 1 |
 | `eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle` | PASS | 3 | 0 | 1 |
@@ -71,13 +71,13 @@ Stand: 2026-06-11T06:52:15Z
 | `franchiserecht-systemgastronomie-expansion-streit` | PASS | 3 | 0 | 1 |
 | `fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter` | PASS | 3 | 0 | 1 |
 | `gebrauchsmusterrecht-schnellverschluss-sensorhalter` | PASS | 3 | 0 | 1 |
-| `geldwaesche-aml-kyc-musterholding` | FAIL | 2 | 1 | 1 |
+| `geldwaesche-aml-kyc-musterholding` | PASS | 3 | 0 | 1 |
 | `gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn` | PASS | 3 | 0 | 1 |
 | `gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll` | PASS | 3 | 0 | 1 |
 | `gesellschaftsgruender-streit-roeschen-tech` | PASS | 3 | 0 | 1 |
 | `gesellschaftsrecht-legal-english-frankfurt-startup` | PASS | 3 | 0 | 1 |
 | `grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln` | PASS | 3 | 0 | 1 |
-| `grosskanzlei-corporate-ma-datenraum` | FAIL | 2 | 1 | 1 |
+| `grosskanzlei-corporate-ma-datenraum` | PASS | 3 | 0 | 1 |
 | `grundbuchamt-briefgrundschuld-wegerecht-altenau-2026` | PASS | 3 | 0 | 1 |
 | `grunderwerbsteuer-sharedeal-closing-waldkrone` | PASS | 3 | 0 | 1 |
 | `grundsteuer-rosenwinkel-bescheidkette` | PASS | 3 | 0 | 1 |
@@ -90,7 +90,7 @@ Stand: 2026-06-11T06:52:15Z
 | `hinweisgeberschutz-nda-meldekanal-waldkrone` | PASS | 3 | 0 | 1 |
 | `hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026` | PASS | 3 | 0 | 1 |
 | `hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen` | PASS | 3 | 0 | 1 |
-| `influencer-recht-creator-sachleistungen-steuer-werbung` | FAIL | 2 | 1 | 1 |
+| `influencer-recht-creator-sachleistungen-steuer-werbung` | PASS | 3 | 0 | 1 |
 | `informationsfreiheit-presseauskunft-klinikdaten-hafenstadt` | PASS | 3 | 0 | 1 |
 | `inkasso-zahlungsklage-modefuchs` | PASS | 3 | 0 | 1 |
 | `insiderrecht-meridian-medtech-ad-hoc-ma-leak` | PASS | 3 | 0 | 1 |
@@ -104,7 +104,7 @@ Stand: 2026-06-11T06:52:15Z
 | `it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung` | PASS | 3 | 0 | 1 |
 | `jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027` | PASS | 3 | 0 | 1 |
 | `jveg-zeugin-berger-lg-tuebingen` | PASS | 3 | 0 | 1 |
-| `kanzlei-allgemein-alltag` | FAIL | 2 | 1 | 1 |
+| `kanzlei-allgemein-alltag` | PASS | 3 | 0 | 1 |
 | `kanzlei-management-falkenried-partnerkreis-q2-2026` | PASS | 3 | 0 | 1 |
 | `kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen` | PASS | 3 | 0 | 1 |
 | `kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen` | PASS | 3 | 0 | 1 |
@@ -116,18 +116,18 @@ Stand: 2026-06-11T06:52:15Z
 | `ki-vo-konformitaetsbescheinigung-bewerberpilot` | PASS | 3 | 0 | 1 |
 | `kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente` | PASS | 3 | 0 | 1 |
 | `kommunalrecht-rathaus-morgenfurt-buergerentscheid-haushalt` | PASS | 3 | 0 | 1 |
-| `krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel` | FAIL | 2 | 1 | 1 |
+| `krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel` | PASS | 3 | 0 | 1 |
 | `kriegsdienstverweigerung-gewissensantrag-berlin-2026` | PASS | 3 | 0 | 1 |
 | `krisenfrueherkennung-starug-vier-varianten` | PASS | 3 | 0 | 1 |
 | `kuendigungsschutzklage-weber-techlogix` | PASS | 3 | 0 | 1 |
 | `leasingrecht-maschinenfleet-restwert-insolvenz` | PASS | 3 | 0 | 1 |
-| `legistik-pflichtpostfach` | FAIL | 2 | 1 | 1 |
+| `legistik-pflichtpostfach` | PASS | 3 | 0 | 1 |
 | `lobbyregister-buergerinitiative-waldmoor` | PASS | 3 | 0 | 1 |
 | `lobbyregister-dublin-bank-frankfurt-branch` | PASS | 3 | 0 | 1 |
 | `lobbyregister-public-affairs-agentur-wasserstoff` | PASS | 3 | 0 | 1 |
 | `longcovid-erwerbsminderung-feldermann-leipzig` | PASS | 3 | 0 | 1 |
 | `luftrecht-airline-insolvenz-flugzeugpfand-flughafen` | PASS | 3 | 0 | 1 |
-| `lumen-studios-insolvenz-strafverfahren` | PASS | 3 | 0 | 1 |
+| `lumen-studios-insolvenz-strafverfahren` | PASS | 5 | 0 | 1 |
 | `ma-asset-deal-medtech-volkenrath-darmstadt` | PASS | 8 | 0 | 0 |
 | `mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026` | PASS | 3 | 0 | 1 |
 | `mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech` | PASS | 3 | 0 | 1 |
@@ -159,7 +159,7 @@ Stand: 2026-06-11T06:52:15Z
 | `roemisches-recht-kauf-besitz-erbschaft-pergamentfall` | PASS | 3 | 0 | 1 |
 | `sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger` | PASS | 3 | 0 | 1 |
 | `sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub` | PASS | 3 | 0 | 1 |
-| `sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026` | PASS | 3 | 0 | 1 |
+| `sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026` | PASS | 5 | 0 | 1 |
 | `sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026` | PASS | 3 | 0 | 1 |
 | `sanierungsgewinn-starug-plan-windenergie-pellbach-2026` | PASS | 3 | 0 | 1 |
 | `scheidung-trennungsdrama-wagenknecht-luetzelberg` | PASS | 3 | 0 | 1 |
@@ -171,10 +171,10 @@ Stand: 2026-06-11T06:52:15Z
 | `selbstvertreter-sozialgericht-heizkosten-eilantrag` | PASS | 3 | 0 | 1 |
 | `share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge` | PASS | 3 | 0 | 1 |
 | `softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen` | PASS | 3 | 0 | 1 |
-| `solis-vision-x-smartglasses` | FAIL | 2 | 1 | 1 |
+| `solis-vision-x-smartglasses` | PASS | 3 | 0 | 1 |
 | `solo-selbststaendige-designstudio-luise-falkensee-2026` | PASS | 3 | 0 | 1 |
 | `sozialrecht-rollstuhl-tannenberg` | PASS | 3 | 0 | 1 |
-| `starug-schutzschirm-grossbach-druckguss-erfurt` | PASS | 3 | 0 | 1 |
+| `starug-schutzschirm-grossbach-druckguss-erfurt` | PASS | 5 | 0 | 1 |
 | `status-navigator-batteriespeicher-jaenschwalde-peitz` | PASS | 3 | 0 | 1 |
 | `statusfeststellung-drv-musikschule-gf-freelancer-klingenhain` | PASS | 3 | 0 | 1 |
 | `strafbefehl-ladendiebstahl-fahrerflucht` | PASS | 3 | 0 | 1 |
@@ -184,7 +184,7 @@ Stand: 2026-06-11T06:52:15Z
 | `subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann` | PASS | 3 | 0 | 1 |
 | `tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck` | PASS | 3 | 0 | 1 |
 | `tierschutzrecht-veterinaeramt-pferdehof-auenwiese` | PASS | 3 | 0 | 1 |
-| `umweltrecht-industrieanlage-genehmigung` | FAIL | 2 | 1 | 1 |
+| `umweltrecht-industrieanlage-genehmigung` | PASS | 3 | 0 | 1 |
 | `umweltschutzverband-windpark-moorbach-umwrg` | PASS | 3 | 0 | 1 |
 | `urheberrecht-musik-ki-songstreit-auerbach` | PASS | 3 | 0 | 1 |
 | `urteilsbau-zivilkammer-leipzig-werklohn-radarwarner-relation-mit-beweiswuerdigung-und-urteil` | PASS | 3 | 0 | 1 |
@@ -193,14 +193,14 @@ Stand: 2026-06-11T06:52:15Z
 | `verbraucherschutzrecht-smartmeter-abo-plattform` | PASS | 3 | 0 | 1 |
 | `verbraucherschutzverband-abo-falle-sammelklage` | PASS | 3 | 0 | 1 |
 | `verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg` | PASS | 3 | 0 | 1 |
-| `verkehr-infrastrukturrecht-strassenbahn-ladezonen` | FAIL | 2 | 1 | 1 |
+| `verkehr-infrastrukturrecht-strassenbahn-ladezonen` | PASS | 3 | 0 | 1 |
 | `verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof` | PASS | 3 | 0 | 1 |
 | `verkehrsowi-rotlicht-tempo` | PASS | 3 | 0 | 1 |
 | `verkehrsunfall-quotenstreit-tannenbruck-a45` | PASS | 3 | 0 | 1 |
 | `verlagsrecht-buchpreisbindung-fachverlag-lilienfeld` | PASS | 3 | 0 | 1 |
 | `verlagsredaktion-morgenlage-fachverlag` | PASS | 3 | 0 | 1 |
 | `vertragsausfueller-bsag-kiosk-huckelriede` | PASS | 3 | 0 | 1 |
-| `vollstreckungsmappe-mueller-sparkasse-niederrhein` | FAIL | 2 | 1 | 1 |
+| `vollstreckungsmappe-mueller-sparkasse-niederrhein` | PASS | 3 | 0 | 1 |
 | `wahlkampfrecht-landtagswahl-morgenstadt-2026` | PASS | 3 | 0 | 1 |
 | `wandeldarlehen-beispielcase` | PASS | 3 | 0 | 1 |
 | `weg-hausverwaltung-hohenzollernhof` | PASS | 3 | 0 | 1 |
@@ -215,21 +215,3 @@ Stand: 2026-06-11T06:52:15Z
 | `zwangsverwaltung-zvg-versteigerung-eppendorf-altbau` | PASS | 3 | 0 | 1 |
 | `zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde` | PASS | 3 | 0 | 1 |
 
-## Fehlende Checks
-
-- `arbeitszeugnis-analyse-bluehendes-leben` :: `r03-mindestens-3-aktenstuecke` (file_count): only 2 files matching *.md (need 3)
-- `aussenwirtschaft-zoll-sanktionen-globalmaschinen` :: `r03-mindestens-3-aktenstuecke` (file_count): only 1 files matching *.md (need 3)
-- `bebauungsplan-augsburg-bahnhofsareal` :: `r03-mindestens-3-aktenstuecke` (file_count): only 1 files matching *.md (need 3)
-- `beispielakte-edelholz-berlin` :: `r03-mindestens-3-aktenstuecke` (file_count): only 2 files matching *.md (need 3)
-- `bvg-widerspruchsstelle-abschleppen-mobg` :: `r03-mindestens-3-aktenstuecke` (file_count): only 2 files matching *.md (need 3)
-- `energierecht-stadtwerke-quartier` :: `r03-mindestens-3-aktenstuecke` (file_count): only 1 files matching *.md (need 3)
-- `geldwaesche-aml-kyc-musterholding` :: `r03-mindestens-3-aktenstuecke` (file_count): only 1 files matching *.md (need 3)
-- `grosskanzlei-corporate-ma-datenraum` :: `r03-mindestens-3-aktenstuecke` (file_count): only 1 files matching *.md (need 3)
-- `influencer-recht-creator-sachleistungen-steuer-werbung` :: `r03-mindestens-3-aktenstuecke` (file_count): only 2 files matching *.md (need 3)
-- `kanzlei-allgemein-alltag` :: `r03-mindestens-3-aktenstuecke` (file_count): only 1 files matching *.md (need 3)
-- `krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel` :: `r03-mindestens-3-aktenstuecke` (file_count): only 2 files matching *.md (need 3)
-- `legistik-pflichtpostfach` :: `r03-mindestens-3-aktenstuecke` (file_count): only 2 files matching *.md (need 3)
-- `solis-vision-x-smartglasses` :: `r03-mindestens-3-aktenstuecke` (file_count): only 1 files matching *.md (need 3)
-- `umweltrecht-industrieanlage-genehmigung` :: `r03-mindestens-3-aktenstuecke` (file_count): only 1 files matching *.md (need 3)
-- `verkehr-infrastrukturrecht-strassenbahn-ladezonen` :: `r03-mindestens-3-aktenstuecke` (file_count): only 1 files matching *.md (need 3)
-- `vollstreckungsmappe-mueller-sparkasse-niederrhein` :: `r03-mindestens-3-aktenstuecke` (file_count): only 2 files matching *.md (need 3)

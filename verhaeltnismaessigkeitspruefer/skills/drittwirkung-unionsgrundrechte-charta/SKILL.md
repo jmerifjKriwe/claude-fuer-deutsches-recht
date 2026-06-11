@@ -7,13 +7,13 @@ description: Horizontale Wirkung der Unionsgrundrechte aus der Charta der Grundr
 
 ## Zweck dieses Skills
 
-Im Unionsrecht ist die Drittwirkung der Grundrechte teilweise weiter ausgepraegt als im deutschen Verfassungsrecht. Der EuGH hat fuer bestimmte Charta-Normen eine **unmittelbare horizontale Wirkung** anerkannt. Verhaeltnismaessigkeit folgt der Schranke des Art. 52 Abs. 1 GRCh und wirkt auch im Verhaeltnis zwischen Privaten. Dieser Skill ordnet die Linie und zeigt wo Charta-Normen direkt zwischen Privaten greifen.
+Im Unionsrecht ist die Drittwirkung der Grundrechte teilweise weiter ausgeprägt als im deutschen Verfassungsrecht. Der EuGH hat für bestimmte Charta-Normen eine **unmittelbare horizontale Wirkung** anerkannt. Verhältnismäßigkeit folgt der Schranke des Art. 52 Abs. 1 GRCh und wirkt auch im Verhaeltnis zwischen Privaten. Dieser Skill ordnet die Linie und zeigt wo Charta-Normen direkt zwischen Privaten greifen.
 
 ## Charta der Grundrechte — Anwendungsbereich
 
 ### Art. 51 GRCh
 
-Die Charta gilt fuer die Organe der Union und fuer die Mitgliedstaaten **bei der Durchfuehrung des Unionsrechts**. Im rein nationalen Anwendungsbereich greift die Charta nicht — dort gelten die Grundgesetz-Rechte.
+Die Charta gilt für die Organe der Union und für die Mitgliedstaaten **bei der Durchfuehrung des Unionsrechts**. Im rein nationalen Anwendungsbereich greift die Charta nicht — dort gelten die Grundgesetz-Rechte.
 
 ### Art. 52 Abs. 1 GRCh — Schranke
 
@@ -23,7 +23,7 @@ Jede Einschraenkung eines Charta-Rechts muss
 - einem von der Union anerkannten Gemeinwohlziel oder dem Schutz von Rechten Dritter dienen
 - **verhaeltnismaessig** sein.
 
-Verhaeltnismaessigkeit ist hier ausdruecklich kodifizierter Pruefungsmassstab.
+Verhältnismäßigkeit ist hier ausdruecklich kodifizierter Pruefungsmassstab.
 
 ## Horizontale Wirkung — EuGH-Linie
 
@@ -46,26 +46,26 @@ Die horizontale Wirkung erfordert
 - einen Anwendungsbereich des Unionsrechts also Durchfuehrung von Unionsrecht
 - die Unmoeglichkeit einer richtlinienkonformen Auslegung des nationalen Rechts.
 
-## Verhaeltnismaessigkeit nach Art. 52 Abs. 1 GRCh
+## Verhältnismäßigkeit nach Art. 52 Abs. 1 GRCh
 
 ### Pruefungsschema horizontal
 
 1. **Anwendungsbereich der Charta** bejaht.
 2. **Charta-Recht** mit horizontaler Wirkung identifiziert.
-3. **Einschraenkung** durch die nationale Norm oder die private Massnahme festgestellt.
+3. **Einschraenkung** durch die nationale Norm oder die private Maßnahme festgestellt.
 4. **Schrankenpruefung Art. 52 Abs. 1 GRCh**
-   - gesetzlich vorgesehen — fuer private Massnahmen reicht eine vertragliche oder verbandsrechtliche Grundlage.
+   - gesetzlich vorgesehen — für private Maßnahmen reicht eine vertragliche oder verbandsrechtliche Grundlage.
    - Wesensgehalt geachtet — keine voellige Aushoehlung des Kerngehalts.
    - legitimes Ziel des Gemeinwohls oder Schutz Dritter.
    - geeignet erforderlich angemessen.
 
 ### Unterschied zur deutschen Drittwirkung
 
-Im deutschen Verfassungsrecht ist Drittwirkung **mittelbar** ueber Generalklauseln. Im Unionsrecht kann die Wirkung **unmittelbar** sein wenn die Charta-Norm hinreichend bestimmt ist. Die Verhaeltnismaessigkeitspruefung ist dadurch im Unionsrecht systemnaher angeordnet.
+Im deutschen Verfassungsrecht ist Drittwirkung **mittelbar** über Generalklauseln. Im Unionsrecht kann die Wirkung **unmittelbar** sein wenn die Charta-Norm hinreichend bestimmt ist. Die Verhaeltnismaessigkeitspruefung ist dadurch im Unionsrecht systemnaher angeordnet.
 
 ## Verhaeltnis zur deutschen Grundrechtsordnung
 
-- BVerfGE 152 152 Recht auf Vergessen II — soweit ein Sachverhalt vom Unionsrecht determiniert ist pruefen deutsche Gerichte am Massstab der Charta.
+- BVerfGE 152 152 Recht auf Vergessen II — soweit ein Sachverhalt vom Unionsrecht determiniert ist prüfen deutsche Gerichte am Massstab der Charta.
 - BVerfGE 152 216 Recht auf Vergessen I — soweit Spielraum verbleibt am Massstab des Grundgesetzes.
 - Trennlinie folgt Solange-II-Linie und Art. 23 Abs. 1 GG.
 
@@ -84,8 +84,8 @@ Im deutschen Verfassungsrecht ist Drittwirkung **mittelbar** ueber Generalklause
 ## Fallstricke
 
 - **Charta-Anwendungsbereich vorschnell bejahen** — sie greift nur bei Durchfuehrung des Unionsrechts. Ohne unionsrechtlichen Bezug bleibt das Grundgesetz Massstab.
-- **Horizontale Wirkung pauschal annehmen** — nur bestimmte Charta-Normen sind hinreichend bestimmt fuer horizontale Wirkung. Andere wirken nur ueber Richtlinienauslegung.
-- **Verhaeltnismaessigkeit nach deutscher Dogmatik pruefen** — Art. 52 Abs. 1 GRCh hat eigene Pruefungsstruktur einschliesslich Wesensgehaltspruefung.
+- **Horizontale Wirkung pauschal annehmen** — nur bestimmte Charta-Normen sind hinreichend bestimmt für horizontale Wirkung. Andere wirken nur über Richtlinienauslegung.
+- **Verhältnismäßigkeit nach deutscher Dogmatik prüfen** — Art. 52 Abs. 1 GRCh hat eigene Pruefungsstruktur einschliesslich Wesensgehaltspruefung.
 - **Trennlinie Recht auf Vergessen verwechseln** — die Aufteilung zwischen Charta und Grundgesetz folgt der Determinierung durch Unionsrecht nicht der prozessualen Anrufung.
 - **Richtlinienkonforme Auslegung uebersehen** — bevor die Charta-Norm horizontal angewendet wird ist der Versuch richtlinienkonformer Auslegung vorrangig.
 

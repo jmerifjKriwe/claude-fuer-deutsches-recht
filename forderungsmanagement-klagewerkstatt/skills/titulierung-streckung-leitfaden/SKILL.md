@@ -25,7 +25,7 @@ Vorteile
 
 - spaerend Klage Gerichtskosten und Anwaltsgebuehren
 - sofort vollstreckbar
-- klarer Tilgungsplan moeglich
+- klarer Tilgungsplan möglich
 
 Nachteile
 

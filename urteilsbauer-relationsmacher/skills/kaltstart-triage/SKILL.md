@@ -5,7 +5,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Urteilsbauer Relationsm
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Urteilsbauer Relationsmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Urteilsbauer Relationsmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -116,7 +116,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `aktenintake-zivil` | Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswürdigung), § 139 ZPO (richterliche… |
 | `anspruchsgrundlagen-pruefen` | Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz lösen. Normen: §§ 433 ff., 280 ff., 812 ff., 823 ff. BGB; HGB; CISG; GmbHG; StVG; ProdHG; IPR… |
 | `berufungsfest-pruefen` | Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr.… |
-| `beschluss-bauen-zpo` | Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Prüfraster: Unterschied… |
+| `beschluss-bauen-zpo` | Zivilrechtliche Beschlüsse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Prüfraster: Unterschied… |
 | `beweisbeschluss-vorbereiten` | Beweisbeschluss nach § 359 ZPO vorbereiten: Richter bestimmt Beweisaufnahme nach muendlicher Verhandlung. Normen: § 359 ZPO (Inhalt Beweisbeschluss), § 286 ZPO (Beweislast), §§ 373 ff. ZPO (Zeugen), §§ 402 ff. ZPO… |
 | `beweiswuerdigung-mit-richter-input` | Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO… |
 | `cisg-pruefen` | UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art.… |
@@ -140,13 +140,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin ist eine Urteils- und Beschluss-Werkstatt für Richter, Referendare und Rechtspfleger. Es begleitet den vollstaendigen vom Aktenintake ueber die Relation (Entscheidungsunterlage) bis zum fertigen Urteil als DOCX-Dokument im offiziellen Gerichtslayout. Das Plugin stuetzt die Pruefung von Zulaessigkeit, Anspruchsgrundlagen, Beweiswuerdigung und Kostenentscheidung sowie Rechtsmittelbelehrung.
+Das Plugin ist eine Urteils- und Beschluss-Werkstatt für Richter, Referendare und Rechtspfleger. Es begleitet den vollstaendigen vom Aktenintake über die Relation (Entscheidungsunterlage) bis zum fertigen Urteil als DOCX-Dokument im offiziellen Gerichtslayout. Das Plugin stuetzt die Prüfung von Zulaessigkeit, Anspruchsgrundlagen, Beweiswuerdigung und Kostenentscheidung sowie Rechtsmittelbelehrung.
 
 Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), internationales Privatrecht (IPR), CISG-Sachverhalte, kollidierende AGB und die vorläufige Vollstreckbarkeit ab. Ausbildungsmodule unterstuetzen Referendare bei der Vollrelation nach Schulstandard.
 
 ## Wann brauchen Sie diese Skill?
 
-- Richter hat neue Zivilakte und will Ueberblick gewinnen, Verfahrensstand klaeren und Anspruchsgrundlagen identifizieren.
+- Richter hat neue Zivilakte und will Ueberblick gewinnen, Verfahrensstand klären und Anspruchsgrundlagen identifizieren.
 - Referendar oder Assessorkandidat erstellt Relation oder Vollrelation für Examensvorbereitung.
 - Richter muss Beweiswuerdigung nach § 286 ZPO verschriftlichen und dafür gegliederten Abschnitt in den Entscheidungsgruenden erzeugen.
 - Gericht erstellt Beschluss (PKH, Streitwert, Hinweis nach § 139 ZPO) oder Versaumnisurteil.
@@ -157,10 +157,10 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - **Relation** — Richterliche Entscheidungsunterlage; strukturierte Zusammenfassung von Sach- und Streitstand, Beweisaufnahme und rechtlicher Wuerdigung.
 - **Tatbestand (§ 313 Abs. 2 ZPO)** — Pflichtbestandteil des Urteils; sachliche Darstellung des Parteivorbringens ohne Wertung.
 - **Entscheidungsgruende (§ 313 Abs. 3 ZPO)** — Rechtliche und tatsaechliche Begruendung des Tenors.
-- **Tenor** — Urteilsausspruch; entscheidet ueber Hauptsache, Kosten und vorläufige Vollstreckbarkeit.
+- **Tenor** — Urteilsausspruch; entscheidet über Hauptsache, Kosten und vorläufige Vollstreckbarkeit.
 - **Beweiswuerdigung (§ 286 ZPO)** — Freie Wuerdigung des Ergebnisses der Beweisaufnahme; Kernaufgabe des Gerichts.
-- **Vollrelation** — Ausfuehrliche Relation nach Schulstandard für Referendars- und Assessor-Pruefung.
-- **FamFG** — Gesetz ueber das Verfahren in Familiensachen; regelt Beschlussverfahren in Familiengericht-Sachen.
+- **Vollrelation** — Ausfuehrliche Relation nach Schulstandard für Referendars- und Assessor-Prüfung.
+- **FamFG** — Gesetz über das Verfahren in Familiensachen; regelt Beschlussverfahren in Familiengericht-Sachen.
 - **CISG** — UN-Kaufrecht (Convention on Contracts for the International Sale of Goods); gilt für grenzueberschreitende Kaufvertraege zwischen Unternehmern aus Vertragsstaaten.
 
 ## Rechtsgrundlagen
@@ -179,7 +179,7 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Aktenintake: Akte einlesen, Verfahrensstand und Sachverhalt strukturieren.
-2. Zulaessigkeit pruefen: Gerichtliche Zuständigkeit, Rechtsschutzinteresse, Prozessvoraussetzungen.
+2. Zulaessigkeit prüfen: Gerichtliche Zuständigkeit, Rechtsschutzinteresse, Prozessvoraussetzungen.
 3. Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bestimmen.
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
 5. Tenor, Tatbestand, Entscheidungsgruende, Kostenentscheidung und Rechtsmittelbelehrung nacheinander oder geblockt erstellen.
@@ -187,7 +187,7 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 ## Skill-Tour (was gibt es hier?)
 
 - `aktenintake-zivil` — Eingehende Zivilakte strukturieren und Ueberblick gewinnen.
-- `zulaessigkeit-pruefen` — Zulaessigkeit der Zivilklage systematisch pruefen: Zuständigkeit, Prozessfaehigkeit, Rechtsschutzinteresse.
+- `zulaessigkeit-pruefen` — Zulaessigkeit der Zivilklage systematisch prüfen: Zuständigkeit, Prozessfaehigkeit, Rechtsschutzinteresse.
 - `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bei Anspruchskonkurrenz bestimmen.
 - `relation-zivil` — Zivilrechtliche Relation nach klassischer Relationstechnik erstellen (Kurz- oder Langfassung).
 - `vollrelation-langfassung` — Vollstaendige Relation im Schulstandard für Referendar- und Assessorpruefung.
@@ -199,15 +199,15 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - `kostenentscheidung-bauen` — Kostenentscheidung nach §§ 91 ff. ZPO erstellen und Kostenquote bestimmen.
 - `vorläufige-vollstreckbarkeit` — Richtige Anordnung zur vorläufigen Vollstreckbarkeit nach §§ 708 ff. ZPO bestimmen.
 - `rechtsmittelbelehrung-zivil` — Rechtsmittelbelehrung nach §§ 232 ff. 511 ff. 567 ff. ZPO korrekt formulieren.
-- `beschluss-bauen-zpo` — Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, § 139 ZPO-Hinweis, Kostenfestsetzung.
-- `berufungsfest-pruefen` — Fertiges Urteil gegen haeufigste Aufhebungsgruende selbst pruefen.
-- `revisionsfest-pruefen` — Revision-Zulassung und absolute Revisionsgruende nach § 547 ZPO pruefen.
+- `beschluss-bauen-zpo` — Zivilrechtliche Beschlüsse erstellen: PKH, Streitwert, § 139 ZPO-Hinweis, Kostenfestsetzung.
+- `berufungsfest-pruefen` — Fertiges Urteil gegen haeufigste Aufhebungsgruende selbst prüfen.
+- `revisionsfest-pruefen` — Revision-Zulassung und absolute Revisionsgruende nach § 547 ZPO prüfen.
 - `familienrichter-spezifika` — FamFG-Besonderheiten für Beschluss statt Urteil; Familiengericht-spezifische Normen.
-- `cisg-pruefen` — UN-Kaufrecht auf Anwendbarkeit und Eingreifen pruefen.
+- `cisg-pruefen` — UN-Kaufrecht auf Anwendbarkeit und Eingreifen prüfen.
 - `internationales-privatrecht` — Anwendbares Recht bei grenzueberschreitenden Sachverhalten bestimmen (Rom I, Rom II).
-- `incoterms-und-gefahruebergang` — Incoterms-Klausel und Gefahruebergang in internationalem Kaufvertrag pruefen.
+- `incoterms-und-gefahruebergang` — Incoterms-Klausel und Gefahruebergang in internationalem Kaufvertrag prüfen.
 - `kollidierende-agb-pruefen` — Battle of the Forms bei beiderseitigen AGB im B2B-Verkehr loesen.
-- `dsgvo-rechtswidriges-produkt` — Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit pruefen.
+- `dsgvo-rechtswidriges-produkt` — Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen.
 - `dokumente-rendern-urteil-docx` — Fertiges Urteil als DOCX im offiziellen Gerichtslayout rendern.
 - `schulung-urteilsbauer` — Schulungs-Trainerleitfaden für Ausbilder von Proberichtern und Referendaren.
 
@@ -217,13 +217,13 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - Tenor muss vollstreckbar sein: Ein unklarer oder unbestimmter Tenor fuehrt zur Aufhebung in der Berufung.
 - Rechtsmittelbelehrung muss nach Urteilsart (Berufung, Revision, Beschwerde) differenzieren; Fehler fuehren zur Fristerstreckung.
 - Vollrelation im Schulstandard folgt strikter Gliederungsreihenfolge; Abweichungen werdenstark benotet.
-- IPR-Pruefung muss vor CISG und nationaler Anspruchspruefung erfolgen; falscher Pruefungsrahmen ist Revisionsfehler.
+- IPR-Prüfung muss vor CISG und nationaler Anspruchspruefung erfolgen; falscher Pruefungsrahmen ist Revisionsfehler.
 
 ## Typische Fehler
 
-- Tenor ohne Zinslauf: Verzugszinsen muessen Ausgangsbetrag, Zinssatz und Startdatum enthalten; fehlende Angaben sind vollstreckungsrechtlich problematisch.
+- Tenor ohne Zinslauf: Verzugszinsen müssen Ausgangsbetrag, Zinssatz und Startdatum enthalten; fehlende Angaben sind vollstreckungsrechtlich problematisch.
 - Tatbestand mit kopierten Schriftsatzpassagen: Unbearbeitete Uebernahme ohne Zusammenfassung ist nicht tatbestandsgemaess.
-- Kostenentscheidung vergessen: Urteil ohne Kostenentscheidung ist unvollstaendig; nachholen nur in Ergaenzungsurteil moeglich.
+- Kostenentscheidung vergessen: Urteil ohne Kostenentscheidung ist unvollstaendig; nachholen nur in Ergaenzungsurteil möglich.
 - Hinweispflicht nach § 139 ZPO nicht dokumentiert: Fehlendes Protokoll eines wesentlichen Hinweises ist absolute Berufungsruege.
 - FamFG-Beschluss als Urteil erlassen: In Familiensachen ist Urteil unzulaessig; nur Beschluss nach FamFG.
 

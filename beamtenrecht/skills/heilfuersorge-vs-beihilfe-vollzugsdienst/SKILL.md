@@ -31,7 +31,7 @@ Skill für Beamte in der Heilfürsorge (Bundespolizei, Bundeswehr, Justizvollzug
 - Beihilfe: Erstattungssystem nach den Beihilfeverordnungen; ergaenzt private Krankenversicherung.
 
 ### b) Wahlleistungen
-- Heilfürsorge umfasst grundsaetzlich keine Wahlleistungen (Einbett oder Chefarztbehandlung); Erstattung im Einzelfall nur, wenn medizinisch notwendig.
+- Heilfürsorge umfasst grundsätzlich keine Wahlleistungen (Einbett oder Chefarztbehandlung); Erstattung im Einzelfall nur, wenn medizinisch notwendig.
 
 ### c) Sehhilfen Zahnersatz Heilpraktiker
 - Erstattung enger als in der Beihilfe; Sondervorschriften in den Heilfürsorgeerlassen.

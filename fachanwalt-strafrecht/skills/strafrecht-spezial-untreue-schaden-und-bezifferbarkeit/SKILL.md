@@ -39,11 +39,11 @@ Wichtig: Das Modell verlangt **konkrete, bilanziell pruefbare Werte**, nicht abs
 ### Schadensbegriff
 
 - **Definitiver Schaden**: konkrete Vermoegensminderung. Beispiel: Bargeldentnahme aus der Kasse - EUR 10.000 weg, Schaden 10.000.
-- **Schadensgleiche Vermoegensgefaehrdung**: Vermoegen ist noch da, aber durch konkrete Gefaehrdung (insolvenzgefaehrdete Forderung, abgewertete Sicherheit) wertberichtigt. BVerfG verlangt: nachweisbare wirtschaftliche Bezifferung, kein pauschaler Risikozuschlag.
+- **Schadensgleiche Vermoegensgefaehrdung**: Vermögen ist noch da, aber durch konkrete Gefaehrdung (insolvenzgefaehrdete Forderung, abgewertete Sicherheit) wertberichtigt. BVerfG verlangt: nachweisbare wirtschaftliche Bezifferung, kein pauschaler Risikozuschlag.
 
 ### Vorsatz auf Schadenshoehe
 
-Der Vorsatz muss die *Hoehe* des Schadens nicht im Detail erfassen, wohl aber die Schaedigung als solche. Bei evidentem Risiko spricht BGH-Linie von Eventualvorsatz; Verteidigung muss zeigen, dass Mandant die Risikohoehe nicht erkannt hat.
+Der Vorsatz muss die *Höhe* des Schadens nicht im Detail erfassen, wohl aber die Schaedigung als solche. Bei evidentem Risiko spricht BGH-Linie von Eventualvorsatz; Verteidigung muss zeigen, dass Mandant die Risikohoehe nicht erkannt hat.
 
 ### Aufrechnungsregel des "Spiegelbild"-Vorteils
 
@@ -55,11 +55,11 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 
 ## Praktikertipps der alten Hasen
 
-- **Sachverstaendigengutachten in der Akte pruefen.** Hat der Gutachter konkrete Bilanzansaetze gewaehlt? Welche Bewertungsmethode (Liquidationswert, Fortfuehrungswert, Marktwert)? BGH-Linie verlangt sachgerechte Methode.
+- **Sachverstaendigengutachten in der Akte prüfen.** Hat der Gutachter konkrete Bilanzansaetze gewaehlt? Welche Bewertungsmethode (Liquidationswert, Fortfuehrungswert, Marktwert)? BGH-Linie verlangt sachgerechte Methode.
 - **Gegengutachten einholen.** Bei sechsstelligen Schadenssummen lohnt sich eigener Sachverstaendiger. Argument: Bilanzansatz war zu niedrig, Wertberichtigung uebertrieben.
 - **Spiegelbild-Vorteil sammeln.** Folgegeschaefte, vermiedene Verluste, Reputation - alles dokumentieren. BGH staendige Rspr. zur "Vorteilskompensation" bei wirtschaftlichem Zusammenhang.
-- **Schadenshoehe in Vorsatz angreifen.** Bei komplexen Finanzgeschaeften (Derivate, Subprime, Sale-Lease-Back) kann der GF die Risikohoehe ueberschaetzt oder unterschaetzt haben. Verbotsirrtum oder Tatbestandsirrtum pruefen.
-- **Verfassungsbeschwerde vorbereiten.** Wenn das Urteil den Schaden nur pauschal beziffert ("erheblicher Schaden in sechsstelliger Hoehe"), ist Revisionsruege und ggf. Verfassungsbeschwerde aussichtsreich.
+- **Schadenshoehe in Vorsatz angreifen.** Bei komplexen Finanzgeschaeften (Derivate, Subprime, Sale-Lease-Back) kann der GF die Risikohoehe ueberschaetzt oder unterschaetzt haben. Verbotsirrtum oder Tatbestandsirrtum prüfen.
+- **Verfassungsbeschwerde vorbereiten.** Wenn das Urteil den Schaden nur pauschal beziffert ("erheblicher Schaden in sechsstelliger Höhe"), ist Revisionsruege und ggf. Verfassungsbeschwerde aussichtsreich.
 
 ## Trade-off-Matrix
 
@@ -70,12 +70,12 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 ## Konkurrenzen
 
 - **Schaden im Untreue-Kontext und Paragraph 263 StGB Betrug.** Beim Betrug ist der Schaden objektiviert (Eingehungsschaden, Erfuellungsschaden). Bei Untreue Vermoegensbilanz-Methode. Wenn Vermoegensschaedigung sowohl Betrug als auch Untreue erfuellt: Tateinheit.
-- **Schaden im Untreue-Kontext und Paragraph 283 StGB.** Schaden bei Bankrott ist Schaedigung der Glaeubigergesamtheit, bei Untreue Schaedigung des Vermoegensinhabers. Doppelschaden moeglich.
+- **Schaden im Untreue-Kontext und Paragraph 283 StGB.** Schaden bei Bankrott ist Schaedigung der Glaeubigergesamtheit, bei Untreue Schaedigung des Vermoegensinhabers. Doppelschaden möglich.
 - **Schaden im Untreue-Kontext und Paragraph 73 StGB Einziehung.** Schadenshoehe und einzuziehendes "Erlangtes" sind nicht identisch (BGH staendige Rspr.); getrennt feststellen.
 
 ## Strafzumessung und Folgen
 
-- **Regelbeispiel Paragraph 263 Abs 3 Satz 2 Nr 2 StGB** (via Paragraph 266 Abs 2 StGB): Vermoegensverlust grossen Ausmasses. Schwelle BGH bei EUR 50.000 angesetzt (BGH staendige Rspr.).
+- **Regelbeispiel Paragraph 263 Abs 3 Satz 2 Nr 2 StGB** (via Paragraph 266 Abs 2 StGB): Vermoegensverlust großen Ausmasses. Schwelle BGH bei EUR 50.000 angesetzt (BGH staendige Rspr.).
 - **Mindeststrafe ab Regelbeispiel** 6 Monate, hoechstens 10 Jahre.
 - Bei Schaden unter EUR 50.000 verbleibt es bei Strafrahmen Paragraph 266 Abs 1 StGB (bis 5 Jahre).
 - **Wiedergutmachung** Paragraph 46 StGB strafmildernd, ggf. Paragraph 46a StGB Taeter-Opfer-Ausgleich.
@@ -94,7 +94,7 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 - Paragraph 266 StGB im Wortlaut (gesetze-im-internet.de).
 - BVerfG 23.06.2010 - 2 BvR 2559/08 (Bestimmtheitsgebot bei Untreue; Bezifferbarkeit der Vermoegensgefaehrdung).
 - BGH staendige Rspr. zum BGH-Stufenmodell der Schadensberechnung.
-- BGH staendige Rspr. zur Wertgrenze "grosses Ausmass" bei EUR 50.000 in Wirtschaftsstraftaten.
+- BGH staendige Rspr. zur Wertgrenze "großes Ausmass" bei EUR 50.000 in Wirtschaftsstraftaten.
 - BGH staendige Rspr. zur Vorteilskompensation bei wirtschaftlichem Zusammenhang.
 - IDW S 6-Standards zur Unternehmensbewertung.
 - IDW PS 800-Standards zur Schadensbewertung im Strafverfahren.

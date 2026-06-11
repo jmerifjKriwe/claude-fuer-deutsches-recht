@@ -32,7 +32,7 @@ Skill für Hinterbliebene eines verstorbenen Beamten oder Ruhestandsbeamten. Kla
 - Mindestehedauer: in der Regel ein Jahr, sonst Vermutung der Versorgungsehe. Widerlegbar.
 - Heiratsklauseln: Bei Heirat nach Eintritt in den Ruhestand und nach Vollendung des 65. Lebensjahres Versagung oder Kuerzung.
 
-### b) Hoehe
+### b) Höhe
 - 55 v. H. des Ruhegehalts, das der Verstorbene erhalten hat oder bei Dienstunfaehigkeit erhalten haette; ggf. erhoehter Satz bei Altfaellen.
 
 ### c) Waisengeld

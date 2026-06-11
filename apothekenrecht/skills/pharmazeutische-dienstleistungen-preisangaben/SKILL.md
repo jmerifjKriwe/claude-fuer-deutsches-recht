@@ -81,7 +81,7 @@ Eingaben:
 "Ich, [Name, Geb.-Datum], willige ein, dass die Apotheke [Name] eine pharmazeutische Dienstleistung (Polymedikationsanalyse) für mich erbringt. Die Apotheke darf hierzu meine Gesundheitsdaten (verordnete Arzneimittel, Vorerkrankungen, Allergien) erheben und verarbeiten (Art. 9 Abs. 2 lit. a DSGVO). Die Daten werden für die Dauer von drei Jahren aufbewahrt. Eine Übermittlung an meinen Hausarzt erfolgt [ja/nein] mit meiner Einwilligung. Ich kann meine Einwilligung jederzeit widerrufen."
 
 ### Abschlussprotokoll Polymedikationsanalyse (Auszug)
-"Datum / Apotheker:in: [...] / Patient: [Name, Geb.-Datum] / Versicherung: [Kasse, Nr.] / Erfasste Arzneimittel: [Liste mit Wirkstoff, Stärke, Dosierung] / Auffälligkeiten: 1. Interaktion [Wirkstoff A + B]; 2. Dosierungsfehler [...]; 3. fehlende Anwendungsinformation [...] / Empfehlung: [Konkrete Massnahmen] / Übermittlung Hausarzt: [ja/nein] / Patientenkopie: [ja, Empfangsbestätigung]"
+"Datum / Apotheker:in: [...] / Patient: [Name, Geb.-Datum] / Versicherung: [Kasse, Nr.] / Erfasste Arzneimittel: [Liste mit Wirkstoff, Stärke, Dosierung] / Auffälligkeiten: 1. Interaktion [Wirkstoff A + B]; 2. Dosierungsfehler [...]; 3. fehlende Anwendungsinformation [...] / Empfehlung: [Konkrete Maßnahmen] / Übermittlung Hausarzt: [ja/nein] / Patientenkopie: [ja, Empfangsbestätigung]"
 
 ## Typische Fehler
 

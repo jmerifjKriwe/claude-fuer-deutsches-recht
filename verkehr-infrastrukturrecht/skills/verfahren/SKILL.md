@@ -50,10 +50,10 @@ Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vor
 
 1. **Bescheid analysieren:** Art des Verwaltungsakts, Begruendung, Rechtsbehelfsbelehrung, Zustellungsdatum
 2. **Frist berechnen:** Widerspruchsfrist 1 Monat ab Bekanntgabe (§ 70 VwGO); wenn keine Belehrung: 1 Jahr (§ 58 II VwGO)
-3. **Sofortvollzug pruefen:** Verkehrszeichen vollziehbar kraft Gesetzes (§ 80 II Nr. 2 VwGO) — bei konkretem Vollzugsschaden Eilantrag § 80 V VwGO
+3. **Sofortvollzug prüfen:** Verkehrszeichen vollziehbar kraft Gesetzes (§ 80 II Nr. 2 VwGO) — bei konkretem Vollzugsschaden Eilantrag § 80 V VwGO
 4. **Widerspruch einlegen:** Schriftlich bei Ausgangsbehorde; aufschiebende Wirkung beachten
 5. **Akteneinsicht beantragen:** § 29 VwVfG bei Widerspruchsbehoerde; vollstaendige Verfahrensakte anfordern
-6. **Widerspruchsbegruendung:** Formelle Fehler (Anhörung §§ 28, 45 VwVfG) + materielle Fehler (Ermessen, Verhaeltnismaessigkeit)
+6. **Widerspruchsbegruendung:** Formelle Fehler (Anhörung §§ 28, 45 VwVfG) + materielle Fehler (Ermessen, Verhältnismäßigkeit)
 7. **Klagefrist sichern:** 1 Monat nach Zustellung Widerspruchsbescheid (§ 74 VwGO) im Kalender
 8. **Eilantrag wenn noetig:** § 80 V VwGO beim VG; Interessenabwaegung, Glaubhaftmachung
 9. **Klage beim VG:** Anfechtungsklage § 42 VwGO; Verpflichtungsklage bei abgelehnter Genehmigung
@@ -78,12 +78,12 @@ Obsiegen/Unterliegen
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Widerspruch im Verkehrs-Infrastrukturrechts-Verfahren | Widerspruch nach Schema; Template unten |
-| Variante A — Widerspruchsverfahren ausgeschlossen direkte Klage | Klagefrist pruefen; direkt zum Verwaltungsgericht |
+| Variante A — Widerspruchsverfahren ausgeschlossen direkte Klage | Klagefrist prüfen; direkt zum Verwaltungsgericht |
 | Variante B — Behörde zeigt Kooperationsbereitschaft | Informelles Gespraech zuerst; Widerspruch nur bei Ablehnung |
 | Variante C — Mandant will Verfahren verzoegern taktisch | Vollstaendiger Widerspruch mit allen Gruenden; Zeit gewinnen |
 
@@ -129,7 +129,7 @@ Mit freundlichen Gruessen
 [UNTERSCHRIFT]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -143,7 +143,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Harte Leitplanken
 
 - Frist IMMER sofort sichern — Versaeumnis fuehrt zu Bestandskraft (§ 70 VwGO)
-- Sofortvollzug bei Verkehrszeichen automatisch: Eilantrag § 80 V VwGO pruefen
+- Sofortvollzug bei Verkehrszeichen automatisch: Eilantrag § 80 V VwGO prüfen
 - Akteneinsicht vor Begruendungseinreichung anfordern
 - Keine pauschalen Ermessensfehler — konkrete Sachverhaltsbindung nachweisen
 - Unterschied Anfechtungsklage (aufheben) vs. Verpflichtungsklage (genehmigen) klarhalten

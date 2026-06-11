@@ -65,8 +65,8 @@ Verstöße gegen Art. 50 KI-VO können mit Bußgeldern bis zu 15 Mio EUR oder dr
 
 ## Faktische Updates (Stand 05/2026)
 
-- **02.08.2026 — Anwendung Art. 50 KI-VO:** Die Transparenzpflichten nach Art. 50 KI-VO werden ab dem 02.08.2026 verbindlich (Art. 113 lit. c KI-VO). Anbieter und Betreiber muessen Kennzeichnungs- und Hinweissysteme bis zu diesem Stichtag implementiert haben.
-- **C2PA-Standards / maschinenlesbare Kennzeichnung:** Fuer die maschinenlesbare Kennzeichnung von Deepfakes / synthetischen Inhalten (Art. 50 Abs. 2 KI-VO) sind harmonisierte Normen in Vorbereitung (CEN/CENELEC). C2PA Content Credentials gilt als de-facto-Standard, ist aber noch nicht harmonisiert. Stand live pruefen.
+- **02.08.2026 — Anwendung Art. 50 KI-VO:** Die Transparenzpflichten nach Art. 50 KI-VO werden ab dem 02.08.2026 verbindlich (Art. 113 lit. c KI-VO). Anbieter und Betreiber müssen Kennzeichnungs- und Hinweissysteme bis zu diesem Stichtag implementiert haben.
+- **C2PA-Standards / maschinenlesbare Kennzeichnung:** Für die maschinenlesbare Kennzeichnung von Deepfakes / synthetischen Inhalten (Art. 50 Abs. 2 KI-VO) sind harmonisierte Normen in Vorbereitung (CEN/CENELEC). C2PA Content Credentials gilt als de-facto-Standard, ist aber noch nicht harmonisiert. Stand live prüfen.
 - **Schnittstelle zu UrhG, UWG, MStV:** Bei Deepfakes / Persoenlichkeitsbild beachten: § 22 KUG, § 823 BGB i.V.m. § 1004 BGB analog, §§ 5/5a UWG (Irrefuehrung), § 5 Abs. 6 MStV (medienrechtliche Kennzeichnungspflicht). KI-VO ergaenzt, ersetzt diese Vorschriften nicht.
 
 ---
@@ -88,10 +88,10 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
 
 ## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — BEGRENZTES RISIKO ART 50 TRANSPARENZPFLICHTEN
 [DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]

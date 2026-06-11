@@ -35,7 +35,7 @@ description: "WEG-Erstverwalter-Bestellung beim Bautraegervertrag: Skill klaert 
 ## WEG-Reform 2020
 
 - Erste Eigentuemerversammlung muss innerhalb von 6 Monaten nach Bezugsfertigkeit der Wohnung einberufen werden.
-- Eigentuemer koennen Verwalter abberufen.
+- Eigentümer können Verwalter abberufen.
 
 ## Problemklauseln
 
@@ -46,5 +46,5 @@ description: "WEG-Erstverwalter-Bestellung beim Bautraegervertrag: Skill klaert 
 
 1. Erstverwalter bestellt?
 2. Dauer max. 3 Jahre?
-3. Abberufungsrecht der Eigentuemer?
+3. Abberufungsrecht der Eigentümer?
 4. Verbundenheit Bautraeger-Verwalter?

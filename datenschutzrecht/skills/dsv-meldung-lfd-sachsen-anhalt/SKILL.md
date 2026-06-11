@@ -76,7 +76,7 @@ Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informa
 
 **III. Welche Gegenmassnahmen wurden ergriffen oder werden vorgeschlagen?**
 - Bereits eingeleitete und geplante Gegenmassnahmen zur Schadensminderung und zur kuenftigen Verhinderung.
-- Vorbestehende technische und organisatorische Massnahmen sowie Begruendung, weswegen sie nicht ausgereicht haben.
+- Vorbestehende technische und organisatorische Maßnahmen sowie Begruendung, weswegen sie nicht ausgereicht haben.
 - Information der Betroffenen ja/nein; wie und wann; welche Empfehlungen; bei nein Begruendung zu Art. 34 DSGVO.
 
 **IV. Sonstige Mitteilungen an die Aufsichtsbehoerde**
@@ -86,7 +86,7 @@ Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informa
 
 **V. Dokumente**
 - Forensischer Untersuchungsbericht.
-- Auflistung der technischen und organisatorischen Massnahmen.
+- Auflistung der technischen und organisatorischen Maßnahmen.
 - Muster Benachrichtigungsschreiben Art. 34 DSGVO.
 - Schluesselmaterial (PGP).
 

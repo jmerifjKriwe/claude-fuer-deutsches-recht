@@ -13,14 +13,14 @@ description: "Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen mona
 
 ## Kernsachverhalt
 
-Drei Umlagen lasten ausschliesslich auf dem AG (AN-Anteil null):
+Drei Umlagen lasten ausschließlich auf dem AG (AN-Anteil null):
 - **U1** (Aufwendungsausgleich Krankheit): Erstattung Entgeltfortzahlung im Krankheitsfall; Pflicht für Kleinunternehmer bis 30 AN; Erstattung 80 Prozent.
 - **U2** (Aufwendungsausgleich Mutterschaft): Erstattung Mutterschutzlohn und AG-Zuschuss Mutterschaftsgeld; Pflicht aller AG; Erstattung 100 Prozent.
 - **Insolvenzgeld-Umlage**: Beitrag zur Finanzierung des Insolvenzgeldes; Pflicht aller AG (Ausnahme Privathaushalte).
 
 ## Kaltstart-Rueckfragen
 
-1. Mitarbeiterzahl im Mandantenbetrieb (U1-Pflicht-Pruefung)?
+1. Mitarbeiterzahl im Mandantenbetrieb (U1-Pflicht-Prüfung)?
 2. Welche Krankenkassen vertreten (Beitragssatz U1 KK-individuell)?
 3. Welche AN sind in Erstattungsbasis einbezogen (Vollzeit, Teilzeit, Minijob)?
 4. Wann letzte Erstattungs-Antraege gestellt?
@@ -50,10 +50,10 @@ Drei Umlagen lasten ausschliesslich auf dem AG (AN-Anteil null):
 
 ## Workflow
 
-### Phase 1 — U1-Pflicht-Pruefung
+### Phase 1 — U1-Pflicht-Prüfung
 
 - AG mit max. 30 AN ist U1-pflichtig.
-- Pruefung jaehrlich zum 1. Januar (Berechnung Durchschnitt Vorjahr).
+- Prüfung jaehrlich zum 1. Januar (Berechnung Durchschnitt Vorjahr).
 - Minijobs werden mit Faktor 0,75 angerechnet.
 - Pflicht-Wechsel mit naechstem Kalenderjahr.
 
@@ -63,20 +63,20 @@ Drei Umlagen lasten ausschliesslich auf dem AG (AN-Anteil null):
 - Bemessungsgrundlage U1/U2: rentenversicherungspflichtiges Brutto bis zur BBG der RV (§ 7 AAG).
 - U1 Satz: KK-individuell (variiert nach KK-Satzung); typisch 1,0-3,0 Prozent.
 - U2 Satz: KK-individuell; typisch 0,2-0,5 Prozent.
-- Insolvenzgeld-Umlage: bundeseinheitlich, festgesetzt durch Insolvenzgeldumlageverordnung; 2024: 0,06 Prozent; 2025: 0,06 Prozent (unveraendert; Insolvenzgeldumlageverordnung 2026 zum Jahreswechsel pruefen).
+- Insolvenzgeld-Umlage: bundeseinheitlich, festgesetzt durch Insolvenzgeldumlageverordnung; 2024: 0,06 Prozent; 2025: 0,06 Prozent (unveraendert; Insolvenzgeldumlageverordnung 2026 zum Jahreswechsel prüfen).
 
 ### Phase 3 — Erstattungsantraege
 
 - U1 bei Krankheit: AG zahlt Entgeltfortzahlung weiter; beantragt Erstattung 80 Prozent bei KK.
 - U2 bei Mutterschaft: AG zahlt Zuschuss zum Mutterschaftsgeld; beantragt Erstattung 100 Prozent bei KK.
-- Antrag: ueber sv.net oder DAKOTA.
+- Antrag: über sv.net oder DAKOTA.
 - Frist: 3 Monate nach Beendigung des Ereignisses (KK-Satzung).
 
 ### Phase 4 — Insolvenzgeld-Umlage
 
-- Bundeseinheitlich; 2025: 0,06 Prozent (Insolvenzgeldumlageverordnung; Satz 2026 zum Jahreswechsel pruefen).
+- Bundeseinheitlich; 2025: 0,06 Prozent (Insolvenzgeldumlageverordnung; Satz 2026 zum Jahreswechsel prüfen).
 - Faellig zusammen mit SV-Beitragsnachweis.
-- Wird ueber die Krankenkassen eingezogen.
+- Wird über die Krankenkassen eingezogen.
 
 ### Phase 5 — Buchung im Hauptbuch
 
@@ -87,16 +87,16 @@ Drei Umlagen lasten ausschliesslich auf dem AG (AN-Anteil null):
 ### Phase 6 — Dokumentation
 
 - Erstattungsantraege archivieren.
-- KK-Bescheide ueber Erstattung.
+- KK-Bescheide über Erstattung.
 - Beleg im Lohnordner.
 
 ## Strategie und Praxis-Tipps
 
-- U1-Pflicht-Pruefung jaehrlich zum 1. Januar — nicht vergessen.
+- U1-Pflicht-Prüfung jaehrlich zum 1. Januar — nicht vergessen.
 - U2 ist UNABHAENGIG von Betriebsgroesse Pflicht.
 - Insolvenzgeld-Umlage entfaellt für Privathaushalte (Privathaushalts-Minijob).
 - Erstattungsantraege rechtzeitig stellen — Frist max. 4 Jahre.
-- Bei wechselnder Mitarbeiterzahl ueber 30: U1-Wechsel zum Jahreswechsel.
+- Bei wechselnder Mitarbeiterzahl über 30: U1-Wechsel zum Jahreswechsel.
 - StBVV: in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS Umlage-Konfiguration mit jaehrlicher Pflicht-Aktualisierung.
 
@@ -108,6 +108,6 @@ Stand: 05/2026.
 - SGB III §§ 165, 358.
 - KK-Satzungen.
 - BMAS Rundschreiben.
-- Insolvenzgeld-Umlage 2025: 0,06 Prozent; Insolvenzgeldumlageverordnung 2026 pruefen.
+- Insolvenzgeld-Umlage 2025: 0,06 Prozent; Insolvenzgeldumlageverordnung 2026 prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (Insolvenzgeld-Umlage 2025 0,06% eingesetzt), 1 ersetzt (Pruefhinweis ohne Marker) -->

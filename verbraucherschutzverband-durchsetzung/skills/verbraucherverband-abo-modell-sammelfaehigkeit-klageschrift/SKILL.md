@@ -3,7 +3,7 @@ name: verbraucherverband-abo-modell-sammelfaehigkeit-klageschrift
 description: "Verbraucherschutzverband Durchsetzung: Abo-Modell: Sammelfähigkeit prüfen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Abo Modell Sammelfaehigkeit Pruefen
+# Abo Modell Sammelfaehigkeit Prüfen
 
 ## Arbeitsweg
 

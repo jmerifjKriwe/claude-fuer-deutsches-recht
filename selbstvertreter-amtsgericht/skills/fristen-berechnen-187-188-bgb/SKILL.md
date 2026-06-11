@@ -33,7 +33,7 @@ Fristen sind das groesste Risiko für Selbstvertreter. Eine verpasste Frist kann
 
 ### Schritt 1 — Fristausloesendes Ereignis
 
-Pruefen Sie, was die Frist ausgeloest hat:
+Prüfen Sie, was die Frist ausgeloest hat:
 
 - Zustellung eines Schriftstuecks (= Tag der Zustellung).
 - Erlass eines Beschlusses.
@@ -110,10 +110,10 @@ Bei elektronischer Einreichung: Datum/Uhrzeit der Speicherung im Empfangs-Geraet
 
 In der Praxis: 2-3 Tage Reserve einplanen. Bote/Post-Verspaetung tragen Sie als Risiko.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Fristbeginn am Tag NACH dem Ereignis**.
-- **Notfristen koennen NICHT verlaengert werden**.
+- **Notfristen können NICHT verlaengert werden**.
 - **§ 193 BGB**: Wochenende/Feiertag verschiebt Fristende.
 - **24:00 Uhr** ist Frist-Ende.
 

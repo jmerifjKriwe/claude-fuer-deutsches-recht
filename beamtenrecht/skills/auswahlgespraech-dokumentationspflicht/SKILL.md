@@ -37,11 +37,11 @@ Skill für Bewerber, die im Auswahlverfahren ein strukturiertes Auswahlgespraech
 - Wechsel der Kommissionsbesetzung waehrend des Verfahrens fuehrt regelmaessig zu Verfahrensfehler.
 
 ### c) Dokumentationspflicht
-- Wesentliche Aussagen sind so zu dokumentieren, dass eine gerichtliche Kontrolle moeglich ist. Reine Punkthebel ohne Begruendung genuegen nicht.
+- Wesentliche Aussagen sind so zu dokumentieren, dass eine gerichtliche Kontrolle möglich ist. Reine Punkthebel ohne Begruendung genügen nicht.
 - Die Dokumentation muss im Auswahlvermerk verarbeitet werden.
 
 ### d) Befangenheit
-- Mitwirkung eines mit dem ausgewaehlten Konkurrenten in besonderer Naehe stehenden Kommissionsmitglieds (z. B. langjaeriger Vorgesetzter) ist zu pruefen; § 21 VwVfG entsprechend.
+- Mitwirkung eines mit dem ausgewaehlten Konkurrenten in besonderer Naehe stehenden Kommissionsmitglieds (z. B. langjaeriger Vorgesetzter) ist zu prüfen; § 21 VwVfG entsprechend.
 - Nichtbestellung einer Schwerbehindertenvertretung oder Gleichstellungsbeauftragten, wenn Pflichtteilnahme bestand, ist Verfahrensfehler.
 
 ### e) Beweislast

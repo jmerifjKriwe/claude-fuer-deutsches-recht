@@ -14,13 +14,13 @@ description: "Kreuzfahrtschiff: Glaeubiger sichert Anspruch an Kreuzfahrtschiff 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Ein Hypothekengläubiger will ein Kreuzfahrtschiff oder grosses Fahrgastschiff arrestieren; Kredit ist ausgefallen. Ein Konnossementsinhaber hat Schadensansprüche und arretiert das Kreuzfahrtschiff oder grosses Fahrgastschiff im Hafen. Ein Bergungsunternehmen sichert seinen Bergungslohnanspruch durch Arrest.
+Ein Hypothekengläubiger will ein Kreuzfahrtschiff oder großes Fahrgastschiff arrestieren; Kredit ist ausgefallen. Ein Konnossementsinhaber hat Schadensansprüche und arretiert das Kreuzfahrtschiff oder großes Fahrgastschiff im Hafen. Ein Bergungsunternehmen sichert seinen Bergungslohnanspruch durch Arrest.
 
 ## Erste Schritte
-1. Seeforderung nach ISAC 1952 Art. 1 gegenueber Eigentuemer des Kreuzfahrtschiff oder grosses Fahrgastschiff konkretisieren.
+1. Seeforderung nach ISAC 1952 Art. 1 gegenueber Eigentümer des Kreuzfahrtschiff oder großes Fahrgastschiff konkretisieren.
 2. Arrestgrund glaublhaft machen: {vessel} wird Hafen verlassen; Reeder insolvent.
 3. LG am Liegeplatz (ZPO § 919) als zuständiges Gericht bestimmen.
-4. Arrestbeschluss beantragen; ohne Anhörung des Gegners moeglich.
+4. Arrestbeschluss beantragen; ohne Anhörung des Gegners möglich.
 5. Vollziehung: Eintragung im Register (SchRegO § 67) binnen einem Monat.
 6. Freigabestrategie: LOU des P&I-Clubs oder Barzahlung als Alternative vorbereiten.
 
@@ -29,7 +29,7 @@ Ein Hypothekengläubiger will ein Kreuzfahrtschiff oder grosses Fahrgastschiff a
 
 ## Prüfraster
 - Ist die Forderung eine Seeforderung nach ISAC 1952 Art. 1?
-- Liegt das Kreuzfahrtschiff oder grosses Fahrgastschiff im Hafen und kann es noch abgefangen werden?
+- Liegt das Kreuzfahrtschiff oder großes Fahrgastschiff im Hafen und kann es noch abgefangen werden?
 - Ist der Arrestgrund (Fluchtgefahr) konkret dargelegt?
 - Ist die Vollziehungsfrist von 1 Monat realistisch einzuhalten?
 - Besteht Risiko des ZPO § 945-Schadensersatzes bei unberechtigtem Arrest?

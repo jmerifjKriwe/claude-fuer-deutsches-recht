@@ -80,14 +80,14 @@ description: "Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-E
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Software-Mangel geltend machen | Mangelruege; Template unten |
 | Variante A — Mandant will weiter mit Anbieter arbeiten | Nacherfuellung § 439 BGB bevorzugen; Klage als letztes Mittel |
-| Variante B — SLA-Verletzung statt Mangel | Vertragsstrafe pruefen; anderes Skill |
-| Variante C — Open-Source-Komponenten betroffen | Lizenz-Compliance pruefen; Schadensersatz nach allg. Delikt |
+| Variante B — SLA-Verletzung statt Mangel | Vertragsstrafe prüfen; anderes Skill |
+| Variante C — Open-Source-Komponenten betroffen | Lizenz-Compliance prüfen; Schadensersatz nach allg. Delikt |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -158,7 +158,7 @@ gemaess Kostenvoranschlag (Anlage K4) EUR ____.
 [Unterschrift]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -234,10 +234,10 @@ gemaess Kostenvoranschlag (Anlage K4) EUR ____.
 ## Triage zu Beginn
 1. Welcher Vertragstyp liegt vor — Kauf, Werkvertrag, SaaS-Miete, Digitale Produkte B2C (§§ 327 ff. BGB)?
 2. Wann war Lieferung / Abnahme — laeuft Verjährungsfrist (2 Jahre Kauf/Werk, 3 Jahre SaaS)?
-3. Wurde eine Mangelruege erhoben — bei kaufmaennischem Geschaeft § 377 HGB unverzueglich?
+3. Wurde eine Mangelruege erhoben — bei kaufmaennischem Geschäft § 377 HGB unverzueglich?
 4. Wie viele Nachbesserungsversuche gab es — Zweiversuchsregel § 440 Satz 2 BGB erfuellt?
 5. Liegt eine Open-Source-Komponente vor — welche Lizenz (GPL, AGPL, MIT, Apache)?
-6. Ist die Sicherheitsluecke datenschutzrelevant — parallel DSGVO-Meldepflicht Art. 33 pruefen?
+6. Ist die Sicherheitsluecke datenschutzrelevant — parallel DSGVO-Meldepflicht Art. 33 prüfen?
 
 ## Output-Template — Mangelruege mit Fristsetzung
 **Adressat:** Verkaeuer / Auftragnehmer — Tonfall: sachlich-juristisch

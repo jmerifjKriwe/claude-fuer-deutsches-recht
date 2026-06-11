@@ -18,7 +18,7 @@ description: "Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die histo
 
 ## Konstitutivprinzip
 
-- Eigentum geht erst mit Eintragung ueber (entgegen roemischem Recht der traditio).
+- Eigentum geht erst mit Eintragung über (entgegen roemischem Recht der traditio).
 
 ## Aufflassung
 

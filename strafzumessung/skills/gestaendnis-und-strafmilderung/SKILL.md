@@ -21,7 +21,7 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
 
 - Sie beraten den Mandanten, ob er sich einlassen oder gestehen soll.
 - Sie bereiten den Schlussvortrag vor und stellen den Strafmilderungsgrund heraus.
-- Sie pruefen, ob das Gericht das Gestaendnis ausreichend gewichtet hat.
+- Sie prüfen, ob das Gericht das Gestaendnis ausreichend gewichtet hat.
 
 ## Rechtliche Grundlagen
 
@@ -86,7 +86,7 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Mandantengespraech**: Beweislage und Risiko ohne Gestaendnis besprechen.
-2. **Beweislage** pruefen:
+2. **Beweislage** prüfen:
  - Belastungszeugen, Geschaedigtenaussage, Sachbeweise.
  - Eigene Verteidigungs-Hebel (Aussagepsychologie, Aussage gegen Aussage).
 3. **Entscheidung**: Schweigen, Bestreiten, Teil-Gestaendnis, vollstaendiges Gestaendnis.
@@ -105,7 +105,7 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
 ## Wechselwirkung mit § 46a StGB (TOA)
 
 - Gestaendnis + TOA: starke Kombination.
-- Bei Strafe nicht ueber 1 Jahr Absehen von Strafe nach § 46a StGB moeglich.
+- Bei Strafe nicht über 1 Jahr Absehen von Strafe nach § 46a StGB möglich.
 - Reine Schadenswiedergutmachung ohne kommunikativen Prozess reicht nicht (BGH 4 StR 232/25 vom 20.11.2025); Gestaendnis kann den kommunikativen Prozess stuetzen.
 
 ## Wechselwirkung mit Verstaendigung

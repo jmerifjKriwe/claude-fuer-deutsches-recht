@@ -22,7 +22,7 @@ Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in
 | --- | --- | --- |
 | Erbscheinantrag Paragraf 2353 Bgb | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-erbrecht/erbscheinantrag-paragraf-2353-bgb.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-erbrecht/erbscheinantrag-paragraf-2353-bgb.odt) |
 
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich pruefen und an konkreten Fall anpassen.*
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 
@@ -44,7 +44,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-## Anwalts-Dashboard fuer den Schnelleinstieg
+## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
 Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
@@ -101,7 +101,7 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `erb-erstgespraech-checkliste` | Erstgespraechs-Checkliste Erbrecht: Familienverhaeltnisse, vorhandene Testamente, Nachlassbestand, Schulden, internationaler Bezug, Pflichtteilsberechtigte, Streitlage: Erstgespraechs-Checkliste Erbrecht: Familienverhaeltnisse, vorhanden... |
 | `erb-internationales-erbrecht-spezial` | Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als Anknuepfungspunkt, Rechtswahl, Europaeisches Nachlasszeugnis ENZ: Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als A... |
 | `erb-nachlassinventar-erstellung` | Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Beteiligungen, Hausrat), Passiva (Schulden, Pflichtteile, Vermaechtnisse), Stichtagsbewertung, Sicherung des Nachlasses: Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Bete... |
-| `erb-pflichtteilsanspruch-berechnung-spezial` | Spezialfall Pflichtteilsberechnung detailliert: § 2303 BGB, Hoehe Pflichtteil = halbe gesetzliche Erbquote, Pflichtteilsergaenzungsanspruch § 2325 BGB für Schenkungen 10-Jahres-Frist mit Abschmelzung: Spezialfall Pflichtteilsberechnung d... |
+| `erb-pflichtteilsanspruch-berechnung-spezial` | Spezialfall Pflichtteilsberechnung detailliert: § 2303 BGB, Höhe Pflichtteil = halbe gesetzliche Erbquote, Pflichtteilsergaenzungsanspruch § 2325 BGB für Schenkungen 10-Jahres-Frist mit Abschmelzung: Spezialfall Pflichtteilsberechnung d... |
 | `erb-testamentsformen-grundzuege` | Testamentsformen Grundzuege: eigenhaendiges Testament § 2247 BGB, öffentliches Testament § 2232 BGB, Nottestament § 2249 BGB, Berliner Testament § 2269 BGB: Testamentsformen Grundzuege: eigenhaendiges Testament § 2247 BGB, öffentliches T... |
 | `erb-unternehmensnachfolge-spezial` | Spezialfall Unternehmensnachfolge: Vorab-Nachfolgeklauseln in Gesellschaftsvertrag, Pflichtteilsverzicht durch Erben, Stiftungsloesung, Verschonungsregelung §§ 13a / 13b / 19a ErbStG, Nachversteuerung Behaltensfrist: Spezialfall Unterneh... |
 | `erbauseinandersetzung-textbausteine` | Erbauseinandersetzung: Schriftsatz-, Brief- und Memo-Bausteine im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nu... |

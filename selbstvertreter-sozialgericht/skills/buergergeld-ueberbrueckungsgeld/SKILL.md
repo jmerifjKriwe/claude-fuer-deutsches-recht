@@ -36,7 +36,7 @@ Haftentlassener hat unmittelbar nach Entlassung Anspruch auf Existenzsicherung.
 
 - Jobcenter zuständig bei Erwerbsfaehigkeit.
 - Sozialamt bei Erwerbsunfaehigkeit.
-- Wenn Wohnsitz unklar: oertliche Zuständigkeit nach § 36 SGB II klaeren.
+- Wenn Wohnsitz unklar: oertliche Zuständigkeit nach § 36 SGB II klären.
 
 ## Pruefraster
 

@@ -22,7 +22,7 @@ description: "Hilft bei Zivilprozess Warnwoerter für Menschen mit Deutsch als Z
 - **Erfuellungsversprechen / Schuldanerkenntnis**: bindet Sie auch ohne Klage.
 - **Klageruecknahme**: § 269 ZPO; nicht ohne Beratung.
 - **Vergleich (§ 779 BGB)**: vertraglich bindend; oft unwiderruflich.
-- **Vorlaeufige Vollstreckbarkeit**: Urteil kann sofort vollstreckt werden (§§ 708 ff. ZPO); Sicherheitsleistung pruefen.
+- **Vorlaeufige Vollstreckbarkeit**: Urteil kann sofort vollstreckt werden (§§ 708 ff. ZPO); Sicherheitsleistung prüfen.
 - **Sofortige Beschwerde (§ 567 ZPO)**: binnen 2 Wochen.
 - **Berufung (§ 511 ZPO)**: binnen 1 Monat; Begruendung binnen 2 Monaten (§ 520 ZPO).
 - **Zwangsvollstreckung**: kommt durch Gerichtsvollzieher; Pfaendungsfreigrenzen § 850c ZPO.

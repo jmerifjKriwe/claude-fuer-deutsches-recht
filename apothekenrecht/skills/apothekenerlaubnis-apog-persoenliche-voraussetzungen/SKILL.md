@@ -20,7 +20,7 @@ description: "Apothekenerlaubnis ApoG persönliche Voraussetzungen: prüft die e
 
 ## Worum geht es konkret
 
-Erlaubnis zum Betrieb einer Apotheke nach §§ 1, 2 ApoG. Die Erlaubnis ist personengebunden, nicht übertragbar und an konkret bezeichnete Räume gebunden. Geprüft werden in diesem Skill ausschliesslich die **persönlichen** (subjektiven) Voraussetzungen des Apothekenleiters; sachliche Voraussetzungen (Räume, Ausstattung) sind im Skill `raeume-ausstattung-rezeptur-defektur-labor` abgebildet.
+Erlaubnis zum Betrieb einer Apotheke nach §§ 1, 2 ApoG. Die Erlaubnis ist personengebunden, nicht übertragbar und an konkret bezeichnete Räume gebunden. Geprüft werden in diesem Skill ausschließlich die **persönlichen** (subjektiven) Voraussetzungen des Apothekenleiters; sachliche Voraussetzungen (Räume, Ausstattung) sind im Skill `raeume-ausstattung-rezeptur-defektur-labor` abgebildet.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

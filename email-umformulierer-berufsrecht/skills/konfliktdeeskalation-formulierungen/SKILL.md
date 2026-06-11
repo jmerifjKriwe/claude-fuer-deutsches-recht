@@ -13,7 +13,7 @@ Dieser Skill stellt eine kuratierte Sammlung deeskalierender Formulierungsbauste
 
 ## Triage zu Beginn
 1. Auf welcher Konfliktebene befindet sich die Situation: sachlich, emotional oder eskaliert?
-2. Will die eigene Seite deeskalieren oder hat sie berechtigte Interessen, die klar formuliert werden muessen?
+2. Will die eigene Seite deeskalieren oder hat sie berechtigte Interessen, die klar formuliert werden müssen?
 3. Steht ein Gerichtsverfahren kurz bevor oder gibt es noch Raum für aussergerichtliche Einigung?
 4. Wer ist der Adressat der deeskalierenden Formulierung: Kollege, Mandant, Gegner oder Gericht?
 

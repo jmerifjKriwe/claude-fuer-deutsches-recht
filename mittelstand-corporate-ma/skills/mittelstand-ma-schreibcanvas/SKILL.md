@@ -146,8 +146,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Adressatenorientierung: Gericht (formell, Zitierweise AktG/GmbHG), Mandant (erklaerend), Gegenseite (praezise, ggf. konfrontativ)
 
 ### Zentrale Normen
-- § 43a BRAO — Sorgfaltspflicht: anwaltliches Schreiben muss vollstaendig und korrekt sein; Fehler koennen Haftung ausloesen
-- §§ 130, 133, 157 BGB — Auslegung und Zugang von Erklaerungen: Schriften muessen klar und verstaendlich sein; Auslegungsrisiken minimieren
+- § 43a BRAO — Sorgfaltspflicht: anwaltliches Schreiben muss vollstaendig und korrekt sein; Fehler können Haftung ausloesen
+- §§ 130, 133, 157 BGB — Auslegung und Zugang von Erklaerungen: Schriften müssen klar und verstaendlich sein; Auslegungsrisiken minimieren
 
 ### Leitsaetze
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

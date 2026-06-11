@@ -17,7 +17,7 @@ Seit 2020 sind Video-Verhandlungen am SG ueblicher. Wer schwer mobil ist oder we
 
 ## In einfacher Sprache
 
-Sie muessen nicht immer ins Gericht fahren. Sie koennen auch per Video teilnehmen. Von zu Hause. Wir helfen Ihnen mit der Technik.
+Sie müssen nicht immer ins Gericht fahren. Sie können auch per Video teilnehmen. Von zu Hause. Wir helfen Ihnen mit der Technik.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -28,7 +28,7 @@ Sie muessen nicht immer ins Gericht fahren. Sie koennen auch per Video teilnehme
 ## Fachbegriffe (kurz erklaert)
 
 - **Video-Verhandlung**: Termin per Videokonferenz.
-- **Stationsraum / -punkt**: Manchmal moeglich, bei naeherem Gericht teilzunehmen.
+- **Stationsraum / -punkt**: Manchmal möglich, bei naeherem Gericht teilzunehmen.
 - **Echtzeit-Uebertragung**: Bild und Ton live ohne Verzoegerung.
 
 ## Rechtsgrundlagen
@@ -57,7 +57,7 @@ Begruendung:
 Mit freundlichen Gruessen
 ```
 
-### Schritt 2 — Technik klaeren
+### Schritt 2 — Technik klären
 
 - Computer oder Tablet mit Kamera und Mikrofon
 - Schnelle Internet-Verbindung
@@ -87,9 +87,9 @@ Mit freundlichen Gruessen
 ### Schritt 6 — Nach dem Termin
 
 - Protokoll wird zugestellt
-- Pruefen
+- Prüfen
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Antrag rechtzeitig** stellen (mind. 2 Wochen vor Termin).
 - **Technik vorher testen**.

@@ -28,27 +28,27 @@ description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, 
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **DBA-Text live ueber bundesfinanzministerium.de**: jeder Drittstaaten-DBA wird im PDF-Format gehalten; ohne Originaltext kein finalisiertes Memo.
+- **DBA-Text live über bundesfinanzministerium.de**: jeder Drittstaaten-DBA wird im PDF-Format gehalten; ohne Originaltext kein finalisiertes Memo.
 - **MLI-Wirkung bei Drittstaaten**: nicht alle Drittstaaten haben MLI ratifiziert (USA nicht; Indien, China, Australien ja — vom Anwender mit aktuellem OECD-Verzeichnis abzugleichen). Wirksamkeitsdatum pro Staat und pro Norm separat.
-- **Ansaessigkeitsbescheinigungen Drittstaaten**: USA IRS Form 6166 (ueber Form 8802, 6-8 Wochen); UK HMRC Certificate (4-6 Wochen); CH ESTV-Bescheinigung; Israel ITA-Bescheinigung. Bei VAE: Ministry of Finance Tax Residency Certificate.
+- **Ansaessigkeitsbescheinigungen Drittstaaten**: USA IRS Form 6166 (über Form 8802, 6-8 Wochen); UK HMRC Certificate (4-6 Wochen); CH ESTV-Bescheinigung; Israel ITA-Bescheinigung. Bei VAE: Ministry of Finance Tax Residency Certificate.
 - **Apostille / Konsularbeglaubigung**: USA, Australien, viele lateinamerikanische und afrikanische Staaten — Vorlaufzeit 6-10 Wochen.
-- **Brexit-Spezifika UK**: keine MTRL und keine ZinsLizenzRL mehr — DBA-Hoechstsatz greift; Pension Protection unter UK-DBA pruefen.
+- **Brexit-Spezifika UK**: keine MTRL und keine ZinsLizenzRL mehr — DBA-Hoechstsatz greift; Pension Protection unter UK-DBA prüfen.
 - **Russland-Suspendierung 30.12.2023**: keine BZSt-Entlastung; siehe `stb-dba-russland-suspendierung-2024`.
 - **VAE**: kein DBA seit Kuendigung 31.12.2021 — nationales Recht beider Seiten allein.
-- **Iran / Belarus / Nordkorea / Syrien**: Sanktionsrechtliche Pruefung BAFA + EU-Sanktions-Listen vor jeder steuerlichen Beratung.
+- **Iran / Belarus / Nordkorea / Syrien**: Sanktionsrechtliche Prüfung BAFA + EU-Sanktions-Listen vor jeder steuerlichen Beratung.
 - **Hong Kong / Singapur**: eigene DBA seit 2013/2004 — nicht das CN-DBA anwendbar.
-- **Taiwan**: kein "DBA" im klassischen Sinne, sondern Steuervereinbarung 2011 — eigene Pruefung notwendig.
+- **Taiwan**: kein "DBA" im klassischen Sinne, sondern Steuervereinbarung 2011 — eigene Prüfung notwendig.
 
 ## Trade-off-Tabelle
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Aktuelles DBA (z.B. UK 2010) vs. Fortwirkungs-Altabkommen | aktuelles DBA, MLI-modifiziert | Altabkommen (z.B. UdSSR-DBA für ehemalige UdSSR-Staaten) | bei Mandat Klarheit ueber zeitliche Anwendung schaffen |
+| Aktuelles DBA (z.B. UK 2010) vs. Fortwirkungs-Altabkommen | aktuelles DBA, MLI-modifiziert | Altabkommen (z.B. UdSSR-DBA für ehemalige UdSSR-Staaten) | bei Mandat Klarheit über zeitliche Anwendung schaffen |
 | Direkter Bezug Drittstaat vs. EU-Zwischengesellschaft | Direktbezug — DBA-Hoechstsatz | EU-Holding mit MTRL/ZinsLizenzRL | bei Substanz Pfad B; bei reiner Steuergestaltung scheitert an § 50d Abs. 3 EStG |
 | Anrechnung § 34c EStG vs. MAP | unilateral nach DE-Erklaerung | bilateral bei Streitfaellen | bei klarem DBA-Anspruch Pfad A; bei strittiger Qualifikation MAP |
-| Sanktionsrecht hinnehmen vs. Beratung verweigern | technische Steuerberatung trotz Sanktionsfolgen | Mandatsablehnung wegen Sanktionsrisiko | bei Iran/Belarus/Russland: erst Sanktionsrecht klaeren (BAFA, OFAC) |
+| Sanktionsrecht hinnehmen vs. Beratung verweigern | technische Steuerberatung trotz Sanktionsfolgen | Mandatsablehnung wegen Sanktionsrisiko | bei Iran/Belarus/Russland: erst Sanktionsrecht klären (BAFA, OFAC) |
 
-## Was Reviewer/Pruefer triggert
+## Was Reviewer/Prüfer triggert
 
 - **Falsches DBA zitiert**: bei Hongkong nicht das CN-DBA; bei Taiwan kein DBA, sondern Steuervereinbarung.
 - **Fortwirkungs-Altabkommen uebersehen** bei Nachfolgestaaten der UdSSR oder Jugoslawiens.
@@ -62,10 +62,10 @@ description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, 
 ## Regionale Pruef-Checklisten
 
 ### USA / Kanada
-- LOB-Klausel pruefen (DBA-USA Art. 28; DBA-Kanada Art. 28).
+- LOB-Klausel prüfen (DBA-USA Art. 28; DBA-Kanada Art. 28).
 - US-LLC: Qualifikationskonflikt (transparent in DE? — BMF 26.09.2014); Kanada LLP / Lim. Partnership.
 - Pension Protection: IRA, 401(k), RRSP, RRIF — DBA-USA Protokoll 2006 Art. 18A.
-- Stock Options/RSU: Vesting ueber mehrere Jahre, Aufteilung Lohnsteuer Tagesproporz.
+- Stock Options/RSU: Vesting über mehrere Jahre, Aufteilung Lohnsteuer Tagesproporz.
 - Branch Profits Tax (USA): zusaetzliche Steuer auf BS-Gewinn.
 
 ### Schweiz
@@ -76,14 +76,14 @@ description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, 
 ### UK
 - Brexit: keine MTRL/ZinsLizenzRL.
 - LLP/Partnership: Qualifikationskonflikt.
-- Non-Domiciled / Remittance Basis: deutsche Sicht — auslaendische Einkuenfte in UK nur bei Remittance besteuert; § 50d Abs. 9 EStG-Pruefung.
-- Pension: UK-DBA 2010 Sonderregelungen pruefen.
+- Non-Domiciled / Remittance Basis: deutsche Sicht — auslaendische Einkuenfte in UK nur bei Remittance besteuert; § 50d Abs. 9 EStG-Prüfung.
+- Pension: UK-DBA 2010 Sonderregelungen prüfen.
 
 ### Asien (China, Japan, Korea, Indien)
-- Service-PE-Tatbestand pruefen (China/Indien: 6 Monate / 183 Tage Service auch ohne feste Einrichtung).
+- Service-PE-Tatbestand prüfen (China/Indien: 6 Monate / 183 Tage Service auch ohne feste Einrichtung).
 - Entsendung: 183-Tage-Regel + lokale Sozialversicherungspflicht.
 - Quellensteuer-Entlastung Indien: oft kompliziertes Verfahren mit lokalen Steuerbescheinigungen.
-- Equalisation Levy Indien: Sonderlogik bei Digital Services — eigene Pruefung.
+- Equalisation Levy Indien: Sonderlogik bei Digital Services — eigene Prüfung.
 
 ### Lateinamerika
 - Quellensteuer auf technische Dienstleistungen: oft Sonderlogik (Brasilien, Argentinien, Mexiko).
@@ -96,8 +96,8 @@ description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, 
 - Sicherheits-/Exportkontrolle als Nebenthema (BAFA).
 
 ### UdSSR / Jugoslawien-Fortgeltung
-- Staatennachfolge im Einzelfall pruefen.
-- Bosnien-Herzegowina, Nordmazedonien, Kosovo: Fortgeltung Jugoslawien-DBA pruefen.
+- Staatennachfolge im Einzelfall prüfen.
+- Bosnien-Herzegowina, Nordmazedonien, Kosovo: Fortgeltung Jugoslawien-DBA prüfen.
 - Belarus, Kasachstan, Usbekistan, Aserbaidschan: eigene DBA oder UdSSR-Fortgeltung.
 
 ## Mustertabelle Regionenpfad
@@ -108,15 +108,15 @@ description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, 
 | Kanada | DBA-Kanada 2001 | LLP/RRSP/RRIF; Branch Profits | `stb-dba-kanada-2001` |
 | UK | DBA-UK 2010 | Brexit, kein MTRL/ZinsLizenzRL; Non-Dom | `stb-dba-grossbritannien-2010` |
 | Schweiz | DBA-CH | Grenzgaenger Art. 15a; Verwaltungsrat Art. 16 | `stb-dba-schweiz`, `stb-dba-grenzgaenger-schweiz-60-tage-rueckkehr` |
-| China | DBA-China | Service-PE 6 Monate | live pruefen |
-| Indien | DBA-Indien | Service-PE, Equalisation Levy, Software-Lizenz | live pruefen |
-| Japan/Korea | DBA-Japan / DBA-Korea | Entsendung, lokale Sozialversicherung | live pruefen |
-| Australien | DBA-Australien | Pension/Superannuation | live pruefen |
+| China | DBA-China | Service-PE 6 Monate | live prüfen |
+| Indien | DBA-Indien | Service-PE, Equalisation Levy, Software-Lizenz | live prüfen |
+| Japan/Korea | DBA-Japan / DBA-Korea | Entsendung, lokale Sozialversicherung | live prüfen |
+| Australien | DBA-Australien | Pension/Superannuation | live prüfen |
 | Israel | DBA-Israel 2014 | Aliyah, Olim-Status | `stb-dba-israel-2014` |
 | Tuerkei | DBA-Tuerkei 2011 | Kassenstaat Renten | `stb-dba-tuerkei-2011` |
-| Brasilien | DBA-Brasilien | Treaty Override, Service als Lizenz | live pruefen |
+| Brasilien | DBA-Brasilien | Treaty Override, Service als Lizenz | live prüfen |
 | Russland | DBA suspendiert 30.12.2023 | keine Entlastung | `stb-dba-russland-suspendierung-2024` |
-| VAE | DBA ausser Kraft seit 01.01.2022 | nationales Recht | live pruefen, kein DBA-Schutz |
+| VAE | DBA ausser Kraft seit 01.01.2022 | nationales Recht | live prüfen, kein DBA-Schutz |
 
 ## Drittstaat-Belegliste
 

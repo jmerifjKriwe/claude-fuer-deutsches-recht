@@ -19,7 +19,7 @@ Jeder substantiierte Schriftsatz besteht aus etwa zwoelf Modulen. Dieser Skill h
 | Anspruchsgrund gesetzlich | Tatbestandsmerkmale Norm | je Anspruch |
 | Faelligkeit | Datum Faelligkeit aus Vertrag oder Gesetz | BGB 271 |
 | Verzug | Mahnung oder kalendarische Bestimmung | BGB 286 Abs. 1 oder Abs. 2 |
-| Zinsen | Beginn Hoehe Norm | BGB 288 |
+| Zinsen | Beginn Höhe Norm | BGB 288 |
 | Verzugsschaden Pauschale | 40 Euro bei B2B Hauptforderung | BGB 288 Abs. 5 |
 | Mahn- und Rechtsverfolgungskosten | Datum Rechnung Belege | BGB 280 BGB 286 |
 | Beweis | Zeuge Urkunde Sachverstaendiger Parteivernehmung | ZPO 373 ff |
@@ -49,7 +49,7 @@ Paragraph 286 Absatz 1 BGB.
 
 ## Substantiierungspflicht
 
-ZPO 138 Abs. 1 verlangt vollstaendigen und der Wahrheit gemaess Vortrag. Pauschales Bestreiten reicht beim Beklagten nicht ZPO 138 Abs. 2. Klaeger muss anspruchsbegruendende Tatsachen konkret darlegen mit Datum Ort Personen Belegen.
+ZPO 138 Abs. 1 verlangt vollstaendigen und der Wahrheit gemäß Vortrag. Pauschales Bestreiten reicht beim Beklagten nicht ZPO 138 Abs. 2. Kläger muss anspruchsbegruendende Tatsachen konkret darlegen mit Datum Ort Personen Belegen.
 
 ## Norm-Pinpoints
 

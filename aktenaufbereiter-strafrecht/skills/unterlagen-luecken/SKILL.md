@@ -13,14 +13,14 @@ Diese Unterlagenprüfung für **Aktenaufbereiter Strafrecht** benennt fehlende D
 
 - `aktenaufbereiter-erstpruefung-und-mandatsziel` — Aktenaufbereiter Erstpruefung und Mandatsziel
 - `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
-- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Uebersicht Aktenvorblatt
+- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Übersicht Aktenvorblatt
 - `aktenlektuere-fristennotiz-und-naechster-schritt` — Aktenlektuere Fristennotiz und Naechster Schritt
 - `aktenvorblatt-erstellen` — Aktenvorblatt Erstellen
 - `aktenvorblatt-schriftsatz-brief-und-memo-bausteine` — Aktenvorblatt Schriftsatz Brief und Memo Bausteine
 - `anklageschrift-zerlegen` — Anklageschrift Zerlegen
 - `aussageanalyse-aussagepsychologie` — Aussageanalyse Aussagepsychologie
 - `beweismittel-katalog-beweisverwertungsverbote` — Beweismittel Katalog Beweisverwertungsverbote
-- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Pruefen
+- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Prüfen
 - `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
 - `beziehungsmatrix-personen-taten` — Beziehungsmatrix Personen Taten
 - `chronologie-compliance-dokumentation-und-akte` — Chronologie Compliance Dokumentation und Akte

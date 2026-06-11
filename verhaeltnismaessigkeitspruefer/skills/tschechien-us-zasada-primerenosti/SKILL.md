@@ -11,12 +11,12 @@ Tschechien hat seine Grundrechte in der **Listina zakladnich prav a
 svobod (LZPS)** verankert. Sie ist Verfassungsrang (Art 3 und Art 112
 Ustavy) und neben der Ustava CR von 1992 zentraler Pruefungsmassstab.
 
-- **Art 4 IV LZPS**: Beschraenkungen muessen den Wesensgehalt
+- **Art 4 IV LZPS**: Beschraenkungen müssen den Wesensgehalt
   (podstata a smysl) wahren.
 - **Art 1 LZPS**: Grundrechte sind unveraeusserlich, unverletzbar und
   unverjaehrbar.
 
-Die Pruefung erfolgt ueber den **Ustavni soud Ceske republiky**
+Die Prüfung erfolgt über den **Ustavni soud Ceske republiky**
 (Verfassungsgericht, Sitz Brno).
 
 ## Drei Stufen des Ustavni soud
@@ -29,12 +29,12 @@ soud die **zasada primerenosti** als Drei-Stufen-Test eingefuehrt:
 2. **Potrebnost / hledisko potrebnosti**: kein milderes gleich wirksames
    Mittel.
 3. **Primerenost v uzsim smyslu / hledisko obecne primerenosti**:
-   die Vorteile fuer das Allgemeinwohl ueberwiegen nicht die Belastung
+   die Vorteile für das Allgemeinwohl ueberwiegen nicht die Belastung
    des Betroffenen.
 
 Bestaetigt in:
 
-- Pl US 4/95 (Steuerrecht und Verhaeltnismaessigkeit),
+- Pl US 4/95 (Steuerrecht und Verhältnismäßigkeit),
 - Pl US 41/02 (Berufsausuebung),
 - Pl US 24/10 (Vorratsdatenspeicherung; tschechische Parallele zu
   Digital Rights Ireland),
@@ -46,7 +46,7 @@ Bestaetigt in:
 Bei **Sozial- und Wirtschaftsrechten** (Art 26 ff LZPS) wendet der
 Ustavni soud einen schwaecheren **Test racionalniho zakladu** an
 (rational basis), analog zur US-amerikanischen rational basis review.
-Leading case: Pl US 61/04. Dort prueft das Gericht nur, ob die
+Leading case: Pl US 61/04. Dort prüft das Gericht nur, ob die
 gesetzliche Regelung nicht offensichtlich unsachlich oder willkuerlich
 ist.
 
@@ -70,12 +70,12 @@ EuGH-Urteil.
 | --- | --- |
 | Vier Stufen sequenziell | Drei Stufen Vhodnost Potrebnost Primerenost v uzsim smyslu |
 | Wesensgehalt Art 19 II GG | Podstata a smysl Art 4 IV LZPS |
-| Schutzbereich-Eingriff-Rechtfertigung getrennt | Integrierte Pruefung |
+| Schutzbereich-Eingriff-Rechtfertigung getrennt | Integrierte Prüfung |
 | Einschaetzungspraerogative national | Prostor uvazeni zakonodarce, eng bei Eingriffsrechten |
 | Praktische Konkordanz | Pomerovani / Wazenie |
-| Untermassverbot ausgepraegt | Pozitivni povinnost staatu nach Art 6, 7 LZPS |
+| Untermassverbot ausgeprägt | Pozitivni povinnost staatu nach Art 6, 7 LZPS |
 
-## Bedeutung fuer den Pruefer
+## Bedeutung für den Prüfer
 
 Bei tschechischen Bezuegen:
 
@@ -88,6 +88,6 @@ Bei tschechischen Bezuegen:
 
 ## Live-Recherche-Disclaimer
 
-Entscheidungen vor Zitierung verifizieren ueber usoud cz / nalus usoud
+Entscheidungen vor Zitierung verifizieren über usoud cz / nalus usoud
 cz. Aktenzeichen Pl US (Plenum), I US, II US, III US, IV US (Senat),
 gefolgt von Nummer / Jahr. Sammlungs-Zitierung Sb US Band/Nummer.

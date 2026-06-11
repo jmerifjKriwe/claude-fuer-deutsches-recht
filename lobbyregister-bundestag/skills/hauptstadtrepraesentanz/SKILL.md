@@ -24,7 +24,7 @@ description: "Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesr
 
 1. Gibt es ein Buero in Berlin oder Umgebung?
 2. Wird von dort Interessenvertretung betrieben?
-3. Welche Kontaktdaten duerfen und muessen veroeffentlicht werden?
+3. Welche Kontaktdaten dürfen und müssen veroeffentlicht werden?
 
 ## Quellenanker
 

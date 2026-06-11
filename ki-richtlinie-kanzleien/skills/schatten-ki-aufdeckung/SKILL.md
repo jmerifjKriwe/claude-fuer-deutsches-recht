@@ -45,8 +45,8 @@ Mit zunehmender Verbreitung von KI-Funktionen in alltäglichen Arbeitstools (MS 
 
 ## Triage zu Beginn
 1. Gibt es Hinweise auf nicht freigegebene KI-Tools im Einsatz — Browser-Erweiterungen, private Accounts?
-2. Wurden Mitarbeiter ueber Schatten-KI-Risiken und das Privat-Account-Verbot informiert?
-3. Gibt es technische Massnahmen zur Unterbindung (URL-Filter, Geraetemanagemement)?
+2. Wurden Mitarbeiter über Schatten-KI-Risiken und das Privat-Account-Verbot informiert?
+3. Gibt es technische Maßnahmen zur Unterbindung (URL-Filter, Geraetemanagemement)?
 4. Wie wird Schatten-KI-Nutzung erkannt — technisch oder durch Selbstmeldung?
 5. Welche arbeitsrechtlichen Konsequenzen drohen bei Verstoss?
 

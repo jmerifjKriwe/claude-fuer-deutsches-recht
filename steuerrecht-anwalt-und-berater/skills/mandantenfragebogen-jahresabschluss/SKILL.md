@@ -23,7 +23,7 @@ Zum Jahresabschluss muss der Mandant zahlreiche Informationen liefern, die nicht
 4. Welche Forderungen sind strittig (Einzelwertberichtigung)?
 5. Welche Rueckstellungen (Garantie, Prozesskosten, Tantieme)?
 6. Inventur durchgefuehrt? Bestaende dokumentiert?
-7. Wesentliche Vertraege seit Stichtag (Werterhellung)?
+7. Wesentliche Verträge seit Stichtag (Werterhellung)?
 8. Liquiditaetsplan Folgejahr?
 
 ## Rechtlicher Rahmen
@@ -113,18 +113,18 @@ Unterschrift Mandant: [...]
 - Frist zur Beantwortung: 2-3 Wochen.
 - Auf Fristen-Konsistenz mit Jahresabschluss-Termin achten.
 
-### Phase 3 — Ruecklauf-Pruefung
+### Phase 3 — Ruecklauf-Prüfung
 
-- Vollstaendigkeit pruefen.
+- Vollstaendigkeit prüfen.
 - Bei Unklarheiten: Nachfrage telefonisch.
 - Bei wesentlichen Sondervorgaengen: persönliches Gespraech.
 
 ### Phase 4 — Konsistenzpruefung
 
 - Antworten Mandant mit laufender Buchfuehrung abgleichen.
-- Bei Widersprueche: Klaerung mit Mandant.
+- Bei Widersprueche: Klärung mit Mandant.
 
-### Phase 5 — Massnahmen ableiten
+### Phase 5 — Maßnahmen ableiten
 
 - Aussergewoehnliche Bilanzpositionen vorbereiten.
 - Rueckstellungen quantifizieren.

@@ -19,13 +19,13 @@ Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsg
 
 ## Worum geht es?
 
-§ 49 StGB enthaelt die **technische** Anleitung, wie der Strafrahmen verschoben wird, wenn das Gesetz auf die Milderung verweist. **Abs. 1** ist eine **zwingende** Milderung mit konkret bestimmten Bezugsgroessen. **Abs. 2** ist eine **fakultative** Milderung; sie laesst es zu, die Strafe bis zum gesetzlichen Mindestmass abzusenken oder statt Freiheitsstrafe auf Geldstrafe zu erkennen.
+§ 49 StGB enthaelt die **technische** Anleitung, wie der Strafrahmen verschoben wird, wenn das Gesetz auf die Milderung verweist. **Abs. 1** ist eine **zwingende** Milderung mit konkret bestimmten Bezugsgroessen. **Abs. 2** ist eine **fakultative** Milderung; sie lässt es zu, die Strafe bis zum gesetzlichen Mindestmass abzusenken oder statt Freiheitsstrafe auf Geldstrafe zu erkennen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie pruefen, ob ein Tatbestandsmerkmal oder eine Strafrechtsfigur § 49 StGB ausloest (Versuch, Beihilfe, § 28 Abs. 1 StGB, § 21 StGB, § 17 StGB, § 46a StGB).
+- Sie prüfen, ob ein Tatbestandsmerkmal oder eine Strafrechtsfigur § 49 StGB ausloest (Versuch, Beihilfe, § 28 Abs. 1 StGB, § 21 StGB, § 17 StGB, § 46a StGB).
 - Sie bestimmen den konkreten Strafrahmen vor der eigentlichen Zumessung.
-- Sie pruefen ein Urteil revisionsmaessig auf richtige Anwendung des § 49 StGB.
+- Sie prüfen ein Urteil revisionsmaessig auf richtige Anwendung des § 49 StGB.
 
 ## Rechtliche Grundlagen
 
@@ -52,7 +52,7 @@ Das Gericht kann nach pflichtgemaessem Ermessen die Strafe **bis zum gesetzliche
 - **§ 28 Abs. 1 StGB** — Bei fehlenden strafbegruendenden persönlichen Merkmalen des Teilnehmers Milderung nach § 49 Abs. 1 StGB.
 - **§ 17 Satz 2 StGB** — Vermeidbarer Verbotsirrtum: Milderung **kann** nach § 49 Abs. 1 StGB erfolgen.
 - **§ 21 StGB** — Verminderte Schuldfaehigkeit: Milderung **kann** nach § 49 Abs. 1 StGB.
-- **§ 46a StGB** — TOA oder Schadenswiedergutmachung: Strafmilderung nach § 49 Abs. 1 StGB **oder** bei Strafe nicht ueber 1 Jahr **Absehen von Strafe**; vgl. `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung`.
+- **§ 46a StGB** — TOA oder Schadenswiedergutmachung: Strafmilderung nach § 49 Abs. 1 StGB **oder** bei Strafe nicht über 1 Jahr **Absehen von Strafe**; vgl. `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung`.
 - **§ 46b StGB** — Aufklaerungshilfe (Kronzeugenregelung): kann nach § 49 Abs. 1 StGB gemildert oder bei Mindeststrafe unter 3 Jahren Absehen von Strafe.
 - **§ 35 Abs. 2 StGB** — Vermeidbarer entschuldigender Notstand: Milderung nach § 49 Abs. 1 StGB.
 
@@ -101,7 +101,7 @@ Das Gericht kann nach pflichtgemaessem Ermessen die Strafe **bis zum gesetzliche
 - **Milderung uebersehen**: Beihilfe nach § 27 Abs. 2 StGB ist **zwingend**.
 - **Mehrere Milderungen** falsch verkettet: jede Milderung wird auf das Ergebnis der vorigen angewendet.
 - **§ 49 Abs. 2 statt Abs. 1** verwendet, obwohl Norm Abs. 1 vorschreibt.
-- **§ 46a StGB** ohne Pruefung, ob Strafrahmen "nicht ueber 1 Jahr" auch für den **konkret** drohenden Bereich gilt (siehe Fachmodul).
+- **§ 46a StGB** ohne Prüfung, ob Strafrahmen "nicht über 1 Jahr" auch für den **konkret** drohenden Bereich gilt (siehe Fachmodul).
 
 ## Querverweise
 

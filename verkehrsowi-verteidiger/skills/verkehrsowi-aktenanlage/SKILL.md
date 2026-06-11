@@ -71,7 +71,7 @@ Akte im Verkehrs-OWi-Mandat anlegen und strukturieren: Neues Mandat Bußgeldbesc
  - Rechtsbeschwerde
 ```
 
-## Fristen-Uebersicht OWi
+## Fristen-Übersicht OWi
 
 | Frist | Rechtsgrundlage | Datum | Erledigt |
 |-------|----------------|-------|---------|

@@ -23,7 +23,7 @@ Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwalt
 2. **Deliktart:** Strassenverkehrsdelikt (§§ 316, 315c, 142 StGB), Betrug, Koerperverletung, Diebstahl — beeinflusst welche Bestandteile der Akte kritisch sind.
 3. **Liegt eine Vollmacht des Mandanten vor?** — Ohne Vollmacht keine Akteneinsicht (§ 147 Abs. 1 StPO: dem Verteidiger steht Akteneinsicht zu).
 4. **Digitale oder Papierakte?** — eAkte: elektronische Uebersendung nach § 32f StPO; Papierakte: physische Uebersendung oder Einsicht in der Geschaeftsstelle.
-5. **Vollstaendigkeit pruefen:** Bussgeldheft, Messprotokoll, Schulungsnachweis, Befundbericht — bei Verkehrsdelikten besonders wichtig.
+5. **Vollstaendigkeit prüfen:** Bussgeldheft, Messprotokoll, Schulungsnachweis, Befundbericht — bei Verkehrsdelikten besonders wichtig.
 
 ## Zentrale Normen
 
@@ -45,7 +45,7 @@ Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwalt
 
 1. **Vollmacht sichern** — ohne Vollmacht kein Anspruch.
 2. **Akteneinsichtsgesuch stellen** bei der Staatsanwaltschaft (Ermittlungsverfahren) oder Amtsgericht (nach Anklage/Strafbefehl-Erlass); Inhalt: Aktenzeichen, Mandantenname, Vollmacht, Bitte um Uebersendung aller Aktenbestandteile einschliesslich Beiakten.
-3. **Vollstaendigkeit pruefen bei Eingang:** Inhaltsverzeichnis vorhanden? Fehlende Teile sofort ruegen.
+3. **Vollstaendigkeit prüfen bei Eingang:** Inhaltsverzeichnis vorhanden? Fehlende Teile sofort ruegen.
 4. **Bei Verkehrsdelikten:** Messakte, Eichschein, Bedienungsanleitung, Schulungsnachweis, Rohmessdaten gesondert anfordern.
 5. **Bei Versagung:** Rechtsbehelf nach § 147 Abs. 5 StPO beim Ermittlungsrichter (§ 162 StPO).
 6. **Aktenexzerpt und Beweismittelverzeichnis anlegen** — Grundlage für Einlassung und Beweisantraege.
@@ -83,6 +83,6 @@ Mit kollegialen Gruessen
 ## Harte Leitplanken
 
 - Akteneinsicht nie ohne Vollmacht beantragen.
-- Rohmessdaten bei Geschwindigkeitsmessungen grundsaetzlich mitverlangen.
+- Rohmessdaten bei Geschwindigkeitsmessungen grundsätzlich mitverlangen.
 - Bei Versagung sofort Rechtsbehelf nach § 147 Abs. 5 StPO — Einspruchsfrist laeuft unabhaengig davon.
 - Anwaltliche Endkontrolle bei jedem Schritt.

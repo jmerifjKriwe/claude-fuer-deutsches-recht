@@ -17,13 +17,13 @@ Wer beim Amtsgericht oder Landgericht klagt, muss Gerichtsgebuehren zahlen. Beim
 
 ## In einfacher Sprache
 
-Das Sozialgericht kostet Sie nichts. Auch wenn Sie verlieren. Sie zahlen keine Gerichtsgebuehren. Anwaltskosten koennen sein. Aber das Verfahren selbst ist gratis.
+Das Sozialgericht kostet Sie nichts. Auch wenn Sie verlieren. Sie zahlen keine Gerichtsgebuehren. Anwaltskosten können sein. Aber das Verfahren selbst ist gratis.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie ueberlegen zu klagen, haben aber Geldsorgen.
 - Sie fragen sich, was im schlimmsten Fall passiert.
-- Sie wollen wissen, ob Sie Auslagen erstatten muessen.
+- Sie wollen wissen, ob Sie Auslagen erstatten müssen.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -41,7 +41,7 @@ Das Sozialgericht kostet Sie nichts. Auch wenn Sie verlieren. Sie zahlen keine G
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Sie kostenfrei sind
+### Schritt 1 — Prüfen, ob Sie kostenfrei sind
 
 Kostenfrei ist:
 
@@ -69,7 +69,7 @@ Nicht kostenfrei ist:
 - **Eigener Anwalt** (wenn Sie freiwillig einen nehmen). Aber: bei Erfolg erstattet (§ 193 SGG, siehe `anwaltskosten-bei-erfolg-erstattung`).
 - **Eigenes Gutachten nach § 109 SGG**: Sie waehlen selbst einen Arzt. Die Kosten zahlen Sie zunaechst selbst. Bei Erfolg kann das Gericht die Kosten der Staatskasse auferlegen.
 - **Fahrtkosten zu Gerichtsterminen** (selten erstattet, siehe `fahrtkosten-zeugen-pkh-erstattung`).
-- **Mutwilligkeit** (§ 192 SGG): Wenn Sie offensichtlich aussichtslos und schikanoes klagen, kann das Gericht Ihnen Kosten auferlegen. Sehr selten, aber moeglich.
+- **Mutwilligkeit** (§ 192 SGG): Wenn Sie offensichtlich aussichtslos und schikanoes klagen, kann das Gericht Ihnen Kosten auferlegen. Sehr selten, aber möglich.
 
 ### Schritt 4 — Bei Erfolg
 
@@ -79,11 +79,11 @@ Wenn Sie gewinnen, muss die unterliegende Behörde Ihnen die notwendigen ausserg
 - Fahrtkosten zum Termin
 - Porto und Kopien (in einer pauschalen Auslagenpauschale)
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **§ 109-Gutachten ist die Ausnahme**: Wenn Sie ein eigenes medizinisches Gutachten beantragen, tragen Sie zunaechst die Kosten. Pruefen Sie das gut (siehe `sachverstaendigen-wahlrecht-109-sgg`).
+- **§ 109-Gutachten ist die Ausnahme**: Wenn Sie ein eigenes medizinisches Gutachten beantragen, tragen Sie zunaechst die Kosten. Prüfen Sie das gut (siehe `sachverstaendigen-wahlrecht-109-sgg`).
 - **Mutwilligkeit § 192 SGG**: Bleiben Sie sachlich. Wer Klagen sinnlos haeuft, kann verurteilt werden, die Gerichtskosten zu zahlen.
-- **Arbeitgeber zahlen**: Wenn Sie selbstaendig sind und gegen die Krankenkasse klagen (z.B. wegen Pflichtversicherung), pruefen Sie, ob Sie als Arbeitgeber gelten.
+- **Arbeitgeber zahlen**: Wenn Sie selbstaendig sind und gegen die Krankenkasse klagen (z.B. wegen Pflichtversicherung), prüfen Sie, ob Sie als Arbeitgeber gelten.
 
 ## Typische Fehler
 
@@ -93,4 +93,4 @@ Wenn Sie gewinnen, muss die unterliegende Behörde Ihnen die notwendigen ausserg
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 183 SGG ist Kernschutz der sozialen Gerichtsbarkeit. Pruefen Sie im Zweifel mit Ihrem Sozialverband.
+Stand: 05/2026. § 183 SGG ist Kernschutz der sozialen Gerichtsbarkeit. Prüfen Sie im Zweifel mit Ihrem Sozialverband.

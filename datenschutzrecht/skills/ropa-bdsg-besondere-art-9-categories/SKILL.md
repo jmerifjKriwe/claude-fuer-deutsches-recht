@@ -7,7 +7,7 @@ description: "RoPA-Besonderheiten bei besonderen Datenkategorien nach Art. 9 DSG
 
 ## Zweck
 
-Behandelt die erhoehten Dokumentationsanforderungen im Verzeichnis von Verarbeitungstaetigkeiten bei besonderen Datenkategorien nach Art. 9 DSGVO (sensitive Daten), Beschaeftigtendaten nach § 26 BDSG und Daten ueber strafrechtliche Verurteilungen oder Straftaten nach Art. 10 DSGVO. Solche Verarbeitungen brechen die KMU-Ausnahme nach Art. 30 Abs. 5 DSGVO und ziehen ueblicherweise eine DSFA-Pflicht (Art. 35 DSGVO) nach sich.
+Behandelt die erhoehten Dokumentationsanforderungen im Verzeichnis von Verarbeitungstaetigkeiten bei besonderen Datenkategorien nach Art. 9 DSGVO (sensitive Daten), Beschaeftigtendaten nach § 26 BDSG und Daten über strafrechtliche Verurteilungen oder Straftaten nach Art. 10 DSGVO. Solche Verarbeitungen brechen die KMU-Ausnahme nach Art. 30 Abs. 5 DSGVO und ziehen ueblicherweise eine DSFA-Pflicht (Art. 35 DSGVO) nach sich.
 
 ## Wann dieses Modul hilft
 
@@ -35,7 +35,7 @@ Verarbeitung ist verboten, soweit sie ergibt:
 
 ### Art. 9 Abs. 2 DSGVO – Ausnahmen
 
-Verarbeitung zulaessig u. a. bei: ausdruecklicher Einwilligung (lit. a), Arbeitsrecht und Sozialrecht (lit. b), lebenswichtigem Interesse (lit. c), Vereinen und Religionsgemeinschaften (lit. d), oeffentlich gemachten Daten (lit. e), Rechtsanspruechen (lit. f), erhebliches öffentliches Interesse (lit. g), Gesundheits- und Sozialfürsorge (lit. h), öffentliche Gesundheit (lit. i), Archiv-/Forschungs-/Statistikzwecke (lit. j).
+Verarbeitung zulässig u. a. bei: ausdruecklicher Einwilligung (lit. a), Arbeitsrecht und Sozialrecht (lit. b), lebenswichtigem Interesse (lit. c), Vereinen und Religionsgemeinschaften (lit. d), öffentlich gemachten Daten (lit. e), Rechtsanspruechen (lit. f), erhebliches öffentliches Interesse (lit. g), Gesundheits- und Sozialfürsorge (lit. h), öffentliche Gesundheit (lit. i), Archiv-/Forschungs-/Statistikzwecke (lit. j).
 
 ### § 26 BDSG – Beschaeftigtendaten
 
@@ -43,19 +43,19 @@ Verarbeitung zulaessig u. a. bei: ausdruecklicher Einwilligung (lit. a), Arbeits
 
 ### § 22 BDSG
 
-§ 22 BDSG regelt die Verarbeitung besonderer Datenkategorien zu im öffentlichen Interesse liegenden Zwecken, für Beschaeftigungszwecke, für praeventive Medizin u. a.; § 22 Abs. 2 BDSG verlangt **spezifische TOMs**, die im RoPA dokumentiert werden muessen.
+§ 22 BDSG regelt die Verarbeitung besonderer Datenkategorien zu im öffentlichen Interesse liegenden Zwecken, für Beschaeftigungszwecke, für praeventive Medizin u. a.; § 22 Abs. 2 BDSG verlangt **spezifische TOMs**, die im RoPA dokumentiert werden müssen.
 
 ### Art. 10 DSGVO
 
-Daten ueber strafrechtliche Verurteilungen und Straftaten duerfen nur unter behoerdlicher Aufsicht oder aufgrund nationalen Rechts verarbeitet werden.
+Daten über strafrechtliche Verurteilungen und Straftaten dürfen nur unter behoerdlicher Aufsicht oder aufgrund nationalen Rechts verarbeitet werden.
 
 ## Ablauf / Checkliste
 
-1. **Identifikation:** Welche der oben genannten Kategorien faellt an? Pruefe sowohl direkte Erhebung als auch Rueckschluss (z. B. Fotos koennen ethnische oder gesundheitliche Hinweise enthalten).
+1. **Identifikation:** Welche der oben genannten Kategorien faellt an? Prüfe sowohl direkte Erhebung als auch Rueckschluss (z. B. Fotos können ethnische oder gesundheitliche Hinweise enthalten).
 2. **Rechtsgrundlage:** Doppelte Rechtsgrundlage erforderlich – Art. 6 Abs. 1 DSGVO **und** Art. 9 Abs. 2 DSGVO bzw. § 26 oder § 22 BDSG.
 3. **Erforderlichkeit:** strenger Massstab; pruefe Alternativen (Pseudonymisierung, Aggregation).
-4. **DSFA-Pruefung:** Art. 35 Abs. 3 lit. b DSGVO – DSFA in der Regel obligatorisch bei umfangreicher Verarbeitung besonderer Kategorien.
-5. **TOMs:** § 22 Abs. 2 BDSG fordert spezifische Massnahmen (Pseudonymisierung, Zugriffsbeschraenkung, Auditing, Schulung).
+4. **DSFA-Prüfung:** Art. 35 Abs. 3 lit. b DSGVO – DSFA in der Regel obligatorisch bei umfangreicher Verarbeitung besonderer Kategorien.
+5. **TOMs:** § 22 Abs. 2 BDSG fordert spezifische Maßnahmen (Pseudonymisierung, Zugriffsbeschraenkung, Auditing, Schulung).
 6. **RoPA-Eintrag:** zusaetzliche Spalte oder Markierung "Art. 9 DSGVO" mit Verweis auf Rechtsgrundlage und DSFA.
 7. **Loeschfristen:** restriktiv; Gesundheitsdaten oft 10 Jahre (§ 630f Abs. 3 BGB Patientenakte), aber nicht laenger.
 
@@ -91,4 +91,4 @@ Zusatzhinweis: "Diese Verarbeitung beinhaltet besondere Kategorien personenbezog
 - BGB § 630f (Patientenakte).
 - EStG § 39 (Lohnsteuermerkmale).
 - EDSA: Leitlinien 03/2019 zur Verarbeitung personenbezogener Daten durch Videoeinrichtungen (Version 2.0 vom 29.01.2020).
-- BVerfG, Beschluss vom 11.11.2020 – 1 BvR 3214/15 (Antiterrordatei-Folgeentscheidung) – bei Anpassung des § 22 BDSG sinngemaess beachten; vor Zitierung amtliche Fundstelle pruefen.
+- BVerfG, Beschluss vom 11.11.2020 – 1 BvR 3214/15 (Antiterrordatei-Folgeentscheidung) – bei Anpassung des § 22 BDSG sinngemäß beachten; vor Zitierung amtliche Fundstelle prüfen.

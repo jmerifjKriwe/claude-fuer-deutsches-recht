@@ -50,7 +50,7 @@ description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maeng
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---------|-------------|-------|-------------|--------|
-| BGH | VII ZR 49/15 | 25.02.2016 | Bautraegervertrag: Abnahme-Klausel in AGB, die einen vom Bautraeger bestimmten Sachverstaendigen ueber die Abnahme entscheiden laesst, ist nach §§ 307, 309 Nr. 8 BGB unwirksam (Erwerberschutz) | dejure.org/2016,3146 / NJW 2016, 1572 |
+| BGH | VII ZR 49/15 | 25.02.2016 | Bautraegervertrag: Abnahme-Klausel in AGB, die einen vom Bautraeger bestimmten Sachverstaendigen über die Abnahme entscheiden lässt, ist nach §§ 307, 309 Nr. 8 BGB unwirksam (Erwerberschutz) | dejure.org/2016,3146 / NJW 2016, 1572 |
 | BGH | VII ZR 25/13 | 30.04.2014 | Konkludente Abnahme: Ingebrauchnahme + Restzahlung + Ablauf angemessener Pruefzeit (regelmaessig 6 Monate) deuten auf Abnahme hin | dejure.org/2014,7990 |
 | BGH | VII ZR 46/17 | 22.02.2018 | Aufgabe der fiktiven Schadensberechnung nach Mangelbeseitigungskosten | dejure.org/2018,2890 |
 
@@ -135,13 +135,13 @@ Weitere Entscheidungen vor Verwendung per dejure.org / BGH-Webseite verifizieren
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Abnahme mit Maengelvorbehalten erklaeren | Abnahmeprotokoll-Vorlage und Fristsetzung unten |
 | Variante A — Abnahme soll ganz verweigert werden (wesentliche Maengel) | Abnahme-Verweigerungsschreiben; Template weiter unten nutzen |
-| Variante B — fiktive Abnahme bereits eingetreten | Fiktionswirkung pruefen § 640 Abs. 2 BGB; Vorbehalt nachholen wenn moeglich |
+| Variante B — fiktive Abnahme bereits eingetreten | Fiktionswirkung prüfen § 640 Abs. 2 BGB; Vorbehalt nachholen wenn möglich |
 | Variante C — Auftraggeber will Preis einbehalten | Maengeleinbehalt und Vorbehalts-Erklaerung kombinieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -265,7 +265,7 @@ wesentlichen Mängel möglich.
 [Auftraggeber]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

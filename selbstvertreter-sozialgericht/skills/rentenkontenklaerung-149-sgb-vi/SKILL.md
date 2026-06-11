@@ -49,8 +49,8 @@ description: "Rentenkontenklaerung nach § 149 SGB VI. Skill leitet durch das Ve
 
 ## Wichtige Fristen
 
-- Sobald moeglich vor Rentenantrag.
-- Nach 30 Jahren wird DRV Beitragszeiten aus Ostzeit nicht mehr klaeren.
+- Sobald möglich vor Rentenantrag.
+- Nach 30 Jahren wird DRV Beitragszeiten aus Ostzeit nicht mehr klären.
 
 ## Pruefraster
 
@@ -58,4 +58,4 @@ description: "Rentenkontenklaerung nach § 149 SGB VI. Skill leitet durch das Ve
 2. Vollstaendiger Versicherungsverlauf eingegangen?
 3. Lueckhe identifiziert?
 4. Belege gesammelt?
-5. Bescheid pruefen?
+5. Bescheid prüfen?

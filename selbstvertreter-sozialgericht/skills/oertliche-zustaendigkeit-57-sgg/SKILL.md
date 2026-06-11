@@ -40,14 +40,14 @@ Es gibt viele Sozialgerichte. Das richtige ist meistens dort, wo Sie wohnen. Wir
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Ihren Wohnort pruefen
+### Schritt 1 — Ihren Wohnort prüfen
 
 Wo wohnen Sie? Bei welchem SG das ist, sehen Sie hier:
 
 - www.sozialgerichtsbarkeit.de — Liste aller SG
 - Geben Sie den Namen Ihrer Stadt ein.
 
-### Schritt 2 — Sonderregeln pruefen
+### Schritt 2 — Sonderregeln prüfen
 
 - **Auslandswohnsitz**: Bei Wohnsitz im Ausland gilt der letzte Wohnsitz in Deutschland. Wenn nie in Deutschland gewohnt: Sitz der beklagten Behörde.
 - **Berufsgenossenschaft (SGB VII)**: SG am Sitz der BG (also z.B. Berufsgenossenschaft Rohstoffe und Chemische Industrie in Heidelberg).
@@ -68,7 +68,7 @@ Wenn Sie umgezogen sind, ist der neue Wohnort entscheidend, sofern Klage noch ni
 
 Kein Problem: § 98 SGG i.V.m. § 17a GVG. Das angeschriebene Gericht verweist Ihren Fall ans richtige. Die Frist bleibt gewahrt — wichtig!
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Verweisung kostet Zeit.** Direkt richtig adressieren spart Wochen.
 - **Adresse aus dem Bescheid** uebernehmen, nicht aus dem Briefkopf der Behörde. Manche Behörden bearbeiten zentral, aber Ihr SG richtet sich nach Ihrem Wohnort.
@@ -77,7 +77,7 @@ Kein Problem: § 98 SGG i.V.m. § 17a GVG. Das angeschriebene Gericht verweist I
 
 - SG der Behörde gewaehlt → falsch, wenn Sie woanders wohnen
 - Klage ans LSG geschickt → erste Instanz ist immer SG
-- Mehrere SG-Adressen verwechselt → www.sozialgerichtsbarkeit.de pruefen
+- Mehrere SG-Adressen verwechselt → www.sozialgerichtsbarkeit.de prüfen
 
 ## Quellen und Aktualitaet
 

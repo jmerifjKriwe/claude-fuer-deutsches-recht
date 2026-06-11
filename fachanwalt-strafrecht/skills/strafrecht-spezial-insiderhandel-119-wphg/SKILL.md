@@ -41,11 +41,11 @@ Spezial-Mandat: Anklage Insiderhandel. Praxistypisch: Vorstand / Aufsichtsrat ta
 
 ### Art. 7 MAR Insiderinformation
 
-Praezise Information, die nicht oeffentlich bekannt ist, sich auf einen Emittenten oder Finanzinstrument bezieht und im Falle ihrer Veroeffentlichung geeignet waere, den Kurs erheblich zu beeinflussen.
+Praezise Information, die nicht öffentlich bekannt ist, sich auf einen Emittenten oder Finanzinstrument bezieht und im Falle ihrer Veroeffentlichung geeignet waere, den Kurs erheblich zu beeinflussen.
 
 - **Praezise Information.** Hinreichend konkretisierte Tatsachen.
 - **Erhebliche Kursrelevanz.** Verstaendiger Anleger wuerde sie in seine Entscheidung einbeziehen.
-- **Nicht oeffentlich bekannt.** Erst nach Adhoc-Veroeffentlichung "public".
+- **Nicht öffentlich bekannt.** Erst nach Adhoc-Veroeffentlichung "public".
 
 ### Art. 8 MAR Insidergeschaeft
 
@@ -72,10 +72,10 @@ Verbinder zur strafrechtlichen Sanktion. Strafrahmen: Freiheitsstrafe bis fuenf 
 ## Praktikertipps Verteidigung
 
 - **Insiderqualitaet angreifen.** War Information tatsaechlich praezise und erheblich kursrelevant? Bei vagen Geruechten, allgemeinen Markteinschaetzungen oder bereits "halb-öffentlichen" Vorgaengen Streit.
-- **Kausalitaet bestreiten.** Hat Mandant die Information tatsaechlich "verwendet" oder beruhte das Geschaeft auf eigener Analyse / Standard-Investmentstrategie?
-- **Safe Harbour** Art. 9 MAR pruefen: Trading Plans nach Art. 9 Abs. 3 MAR (vor Erlangung der Insiderinformation festgelegte Handelsregeln) entlasten.
+- **Kausalitaet bestreiten.** Hat Mandant die Information tatsaechlich "verwendet" oder beruhte das Geschäft auf eigener Analyse / Standard-Investmentstrategie?
+- **Safe Harbour** Art. 9 MAR prüfen: Trading Plans nach Art. 9 Abs. 3 MAR (vor Erlangung der Insiderinformation festgelegte Handelsregeln) entlasten.
 - **Buy-Back-Programme** Art. 5 MAR: Eigene Aktienrueckkaeufe nach festgelegtem Programm entlasten.
-- **Adhoc-Aufschub** Art. 17 Abs. 4 MAR: Aufschiebung der Adhoc-Mitteilung pruefen — Bewertung der Insiderqualitaet anders bei berechtigtem Aufschub.
+- **Adhoc-Aufschub** Art. 17 Abs. 4 MAR: Aufschiebung der Adhoc-Mitteilung prüfen — Bewertung der Insiderqualitaet anders bei berechtigtem Aufschub.
 - **Verstaendigung § 257c StPO** bei Compliance-Faellen ueblich.
 
 ## Trade-off-Matrix
@@ -91,8 +91,8 @@ Verbinder zur strafrechtlichen Sanktion. Strafrahmen: Freiheitsstrafe bis fuenf 
 
 ## Konkurrenzen
 
-- **§ 119 WpHG / § 120 WpHG Marktmanipulation.** Bei Kombination (z. B. Insiderhandel und Kursmanipulation) Tateinheit moeglich.
-- **§ 119 WpHG / § 264a StGB Kapitalanlagebetrug.** Bei Wertpapierprospekten Tateinheit moeglich.
+- **§ 119 WpHG / § 120 WpHG Marktmanipulation.** Bei Kombination (z. B. Insiderhandel und Kursmanipulation) Tateinheit möglich.
+- **§ 119 WpHG / § 264a StGB Kapitalanlagebetrug.** Bei Wertpapierprospekten Tateinheit möglich.
 - **§ 119 WpHG / § 263 StGB.** Bei Vermoegensschaedigung Dritter eher fern, da Marktdelikt.
 - **§ 119 WpHG / § 266 StGB Untreue.** Bei Verletzung Vermoegensbetreuungspflicht gegen Mandanten (Asset Manager, Investmentbank).
 - **§ 119 WpHG / § 261 StGB Geldwaesche.** Nach Reform 2021.
@@ -101,7 +101,7 @@ Verbinder zur strafrechtlichen Sanktion. Strafrahmen: Freiheitsstrafe bis fuenf 
 ## Strafzumessung und Folgen
 
 - **Strafrahmen** § 119 Abs. 3 WpHG Freiheitsstrafe bis fuenf Jahre oder Geldstrafe.
-- **§ 119 Abs. 6 WpHG** besonders schwere Faelle ein bis zehn Jahre (Bandenmaessig, Gewinn grossen Ausmasses, fortgesetzte Begehung).
+- **§ 119 Abs. 6 WpHG** besonders schwere Faelle ein bis zehn Jahre (Bandenmaessig, Gewinn großen Ausmasses, fortgesetzte Begehung).
 - **§ 46 StGB** Gewinnhoehe, Tatdauer, Vorstrafen.
 - **Einziehung § 73 StGB** Kursgewinn (Differenz zum hypothetischen Marktpreis).
 - **Berufsverbot § 70 StGB** insbes. bei Wertpapierdienstleistern und Vorstaenden.
@@ -113,7 +113,7 @@ Verbinder zur strafrechtlichen Sanktion. Strafrahmen: Freiheitsstrafe bis fuenf 
 
 ### Bestreiten Insiderqualitaet
 
-"Eine Insiderinformation im Sinne von Art. 7 MAR lag zum Zeitpunkt des streitgegenstaendlichen Geschaefts am [Datum] nicht vor. Die in der Anklage genannte Information ueber [...] war zum genannten Zeitpunkt nicht hinreichend praezise, da [...]. Hilfsweise wird die Kursrelevanz bestritten: Eine erhebliche Beeinflussung des Marktwertes durch Bekanntwerden der fraglichen Tatsache war nicht zu erwarten; der nach Adhoc-Veroeffentlichung am [Datum] eingetretene Kurseffekt von 0.4 Prozent unterhalb der Marktvolatilitaet der gleichen Periode."
+"Eine Insiderinformation im Sinne von Art. 7 MAR lag zum Zeitpunkt des streitgegenstaendlichen Geschaefts am [Datum] nicht vor. Die in der Anklage genannte Information über [...] war zum genannten Zeitpunkt nicht hinreichend praezise, da [...]. Hilfsweise wird die Kursrelevanz bestritten: Eine erhebliche Beeinflussung des Marktwertes durch Bekanntwerden der fraglichen Tatsache war nicht zu erwarten; der nach Adhoc-Veroeffentlichung am [Datum] eingetretene Kurseffekt von 0.4 Prozent unterhalb der Marktvolatilitaet der gleichen Periode."
 
 ### Safe Harbour Art. 9 MAR Trading-Plan
 

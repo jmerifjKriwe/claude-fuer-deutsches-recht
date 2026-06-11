@@ -24,7 +24,7 @@ description: "Bestimmt Unterzeichner, Leitungsperson, vertretungsberechtigte Per
 
 1. Welche Rechtsform liegt vor?
 2. Wer ist Leitungsperson oder vertretungsberechtigt?
-3. Welche interne Pruefung muss vor Unterschrift dokumentiert sein?
+3. Welche interne Prüfung muss vor Unterschrift dokumentiert sein?
 
 ## Quellenanker
 

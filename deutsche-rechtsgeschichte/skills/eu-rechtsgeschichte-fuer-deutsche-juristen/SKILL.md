@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -37,7 +37,7 @@ Die europaeische Rechtsgeschichte beginnt für Deutschland mit dem EGKS-Vertrag 
 ## Kernnormen / Kernquellen
 
 - **EGKS-Vertrag 1951 (BGBl. II 1952, 447)**: Montan-Union, erster supranationaler Vertrag
-- **EWG-Vertrag 1957 (BGBl. II 1957, 753)**: Roemische Vertraege, Grundlage des Binnenmarkts
+- **EWG-Vertrag 1957 (BGBl. II 1957, 753)**: Roemische Verträge, Grundlage des Binnenmarkts
 - **Maastricht-Vertrag 1992 (BGBl. II 1992, 1253)**: Unionsgruendung, drei Saeulen
 - **Lissabon-Vertrag 2007 (BGBl. II 2008, 1039)**: AEUV, EUV, GRC rechtsverbindlich
 - **EuGH Rs. 26/62 van Gend en Loos (1963)**: Unmittelbare Wirkung

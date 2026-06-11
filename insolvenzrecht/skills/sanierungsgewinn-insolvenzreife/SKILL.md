@@ -23,9 +23,9 @@ description: "Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungser
 
 ## Worum geht es
 
-Wenn der Insolvenzplan Forderungsverzichte vorsieht und der bestaetigte Plan rechtskraeftig wird, ist die Bilanz des Schuldners (Steuerbilanz, Handelsbilanz, ggf. IFRS) entsprechend anzupassen. Der bilanzielle Vorgang entscheidet ueber:
+Wenn der Insolvenzplan Forderungsverzichte vorsieht und der bestaetigte Plan rechtskraeftig wird, ist die Bilanz des Schuldners (Steuerbilanz, Handelsbilanz, ggf. IFRS) entsprechend anzupassen. Der bilanzielle Vorgang entscheidet über:
 
-- die Hoehe des Sanierungsertrags,
+- die Höhe des Sanierungsertrags,
 - die latenten Steuern,
 - die Behandlung stiller Reserven,
 - die Haftung des Verwalters für die korrekte Buchung (Paragraph 60 InsO).
@@ -35,12 +35,12 @@ Dieser Skill arbeitet die Buchung Schritt für Schritt und liefert Pruefvermerke
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan ist bestaetigt; Bilanz für das Sanierungsjahr aufzustellen.
-- Wirtschaftspruefer fragt im Vorfeld der Pruefung an, welche Buchungen anstehen.
+- Wirtschaftspruefer fragt im Vorfeld der Prüfung an, welche Buchungen anstehen.
 - IV will sich gegen den Vorwurf einer Massehaftungsverletzung absichern.
 
 Kaltstart-Fragen:
 
-1. Welche Forderungen wurden im Plan verzichtet (Liste, Hoehe, Glaeubiger)?
+1. Welche Forderungen wurden im Plan verzichtet (Liste, Höhe, Glaeubiger)?
 2. Welche werthaltigen Forderungen wurden umgewandelt (DES)?
 3. Wie hoch sind die stillen Reserven der Schuldnerin?
 4. Wurde Buchwertfortfuehrung oder Bewertungsanpassung beschlossen?
@@ -50,7 +50,7 @@ Kaltstart-Fragen:
 
 - Paragraphen 246, 252, 266, 272 HGB.
 - Paragraph 5 EStG, insbesondere Massgeblichkeit Paragraph 5 Absatz 1 EStG.
-- Paragraph 5 Absatz 2a EStG — Passivierungsverbot bei qualifiziertem Rangruecktritt.
+- Paragraph 5 Absatz 2a EStG — Passivierungsverbot bei qualifiziertem Rangrücktritt.
 - Paragraph 3a EStG — Sanierungsertrag steuerlich.
 - Paragraph 60 InsO — Haftung IV.
 - Paragraph 55 InsO — Masseverbindlichkeiten.
@@ -60,7 +60,7 @@ Kaltstart-Fragen:
 1. **Bestandsaufnahme** aller im Plan adressierten Verbindlichkeiten.
 2. **Buchungssystematik festlegen** je Verzichtsart (siehe `insol-sanierungsgewinn-verzicht-bilanz-im-plan`).
 3. **Stille Reserven**: separat dokumentieren; keine Vermengung mit Sanierungsertrag.
-4. **Latente Steuern**: pruefen, ob durch den Verzicht und die Nutzung der Verlustvortraege ein latenter Steuereffekt entsteht.
+4. **Latente Steuern**: prüfen, ob durch den Verzicht und die Nutzung der Verlustvortraege ein latenter Steuereffekt entsteht.
 5. **Belege für Massehaftungsbefreiung sammeln.** Plan, Bestaetigungsbeschluss, Werthaltigkeitsgutachten, StB-Schreiben, Glaeubigerausschuss-Beschluss.
 6. **Bilanz-Pruefvermerk** mit ausweisbarem Sanierungsertrag.
 7. **Steuererklaerung** mit Paragraph 3a EStG-Antrag und Paragraph 7b GewStG-Antrag.
@@ -71,16 +71,16 @@ Kaltstart-Fragen:
 |---|---|---|
 | Buchwertfortfuehrung Aktiva | stille Reserven verbleiben | spaetere Veraeusserungs-/Auflassungsgewinne hoeher |
 | Bewertungsanpassung (Stand Sanierung) | stille Reserven werden aufgedeckt | sofortige Gewinnrealisierung; kein Sanierungsertrag |
-| Erfolgswirksamer Sanierungsertrag (Verzicht) | Eigenkapital steigt; Sanierungsertrag entsteht | Paragraph 3a EStG-Pruefung; Restbetrag ggf. steuerbar |
+| Erfolgswirksamer Sanierungsertrag (Verzicht) | Eigenkapital steigt; Sanierungsertrag entsteht | Paragraph 3a EStG-Prüfung; Restbetrag ggf. steuerbar |
 | Kapitalruecklage (Gesellschafter-Verzicht werthaltig) | kein Sanierungsertrag | Werthaltigkeitspruefung pflichtig |
-| Auflosung Verbindlichkeit nach Rangruecktritt Paragraph 5 Absatz 2a EStG | spaetere Auflosung kann Ertrag erzeugen | Klausel-Gestaltung kritisch |
-| IFRS-Sicht (IFRS 9, IAS 32) | abweichend von HGB moeglich | Konzern-Bilanzierung zu pruefen |
+| Auflosung Verbindlichkeit nach Rangrücktritt Paragraph 5 Absatz 2a EStG | spaetere Auflosung kann Ertrag erzeugen | Klausel-Gestaltung kritisch |
+| IFRS-Sicht (IFRS 9, IAS 32) | abweichend von HGB möglich | Konzern-Bilanzierung zu prüfen |
 
 ## Praxistipps der alten Hasen
 
 1. **Buchwertfortfuehrung ist Regel im Plan.** Wer aufdeckt, riskiert zusaetzliche Steuern, die nicht von Paragraph 3a EStG getragen werden.
 2. **Latente Steuern bei Verlustvortrag-Verbrauch.** Werden Verlustvortraege durch Sanierungsertrag aufgezehrt (Paragraph 3a Absatz 3 EStG), entfallen aktive latente Steuern, die ggf. zuvor bilanziert waren — als Aufwand zu erfassen.
-3. **Werthaltigkeitsgutachten pro Gesellschafterforderung** dokumentieren. Pauschale Annahmen halten der FA-Pruefung nicht stand.
+3. **Werthaltigkeitsgutachten pro Gesellschafterforderung** dokumentieren. Pauschale Annahmen halten der FA-Prüfung nicht stand.
 4. **Stille Reserven listen.** Eine Tabelle stille Reserven (Aktiva-Position, Buchwert, gemeiner Wert, Differenz) gehoert in jede Sanierungsakte.
 5. **Wirtschaftspruefer fruehzeitig einbinden.** Bei pruefungspflichtigen Unternehmen ist eine "Aha"-Reaktion des WP im Pruefungstermin der falsche Zeitpunkt.
 6. **HGB versus Steuerbilanz dokumentieren.** Ueberleitungsrechnung Paragraph 5b EStG sauber halten.

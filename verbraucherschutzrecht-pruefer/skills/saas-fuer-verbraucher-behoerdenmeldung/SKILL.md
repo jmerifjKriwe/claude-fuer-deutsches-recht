@@ -3,7 +3,7 @@ name: saas-fuer-verbraucher-behoerdenmeldung
 description: "Prüfer: SaaS für Verbraucher: Behördenmeldung prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Saas Fuer Verbraucher Behördenmeldung
+# Saas Für Verbraucher Behördenmeldung
 
 ## Arbeitsweg
 

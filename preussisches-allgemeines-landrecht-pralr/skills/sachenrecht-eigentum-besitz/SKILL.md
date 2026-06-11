@@ -25,7 +25,7 @@ description: "PrALR: Eigentum, Besitz, dingliche Rechte, Nutzungen, Nachbarrecht
 ## Meat on the Bone — Konkreter ALR-Stoff
 
 ### Schluesselparagraphen
-- **ALR I 8 § 1**: "Eigenthuemer heisst derjenige, welcher befugt ist, ueber die Substanz einer Sache, oder eines Rechts, mit Ausschliessung Anderer, aus eigener Macht, durch sich selbst oder einen Dritten, zu verfuegen."
+- **ALR I 8 § 1**: "Eigenthuemer heisst derjenige, welcher befugt ist, über die Substanz einer Sache, oder eines Rechts, mit Ausschliessung Anderer, aus eigener Macht, durch sich selbst oder einen Dritten, zu verfuegen."
 - **ALR I 8 §§ 26-50**: Schranken — Aufopferung für Gemeinwohl, Notrechte Dritter.
 - **ALR I 9 §§ 1-100**: Besitz; corpus + animus aus roemischer Tradition; mittelbarer Besitz uebergeben.
 - **ALR I 10**: Grundeigentum; Aufflassung vor Behörde plus Eintragung im Hypothekenbuch.
@@ -34,11 +34,11 @@ description: "PrALR: Eigentum, Besitz, dingliche Rechte, Nutzungen, Nachbarrecht
 
 ### Subsumtionsbeispiel: Vindikation gestohlener Kuh
 Sachverhalt: Bauer A; Kuh gestohlen; bei Bauer B in einem anderen Dorf entdeckt; B hat sie redlich auf dem Markt gekauft.
-ALR-Loesung: ALR I 9 — A bleibt Eigentuemer; Markterwerb in Treu und Glauben schuetzt B nicht voll bei Verlust (anders als § 935 BGB heute Gutglaeubigkeitsausschluss bei gestohlenen Sachen). A kann vindizieren; B muss Kuh herausgeben; Mehrkosten der Aufzucht ersatzfaehig nach ALR I 9 §§.
+ALR-Loesung: ALR I 9 — A bleibt Eigentümer; Markterwerb in Treu und Glauben schuetzt B nicht voll bei Verlust (anders als § 935 BGB heute Gutglaeubigkeitsausschluss bei gestohlenen Sachen). A kann vindizieren; B muss Kuh herausgeben; Mehrkosten der Aufzucht ersatzfaehig nach ALR I 9 §§.
 
 ### Subsumtionsbeispiel: Hutungsrecht in Brandenburg 1880
-Sachverhalt: Dorfgemeinschaft hat seit Generationen Hutungsrecht (Weiderecht) auf Adelsgut; Eigentuemer will Recht aufheben.
-ALR-Loesung: ALR I 21 — Hutungsrecht als Dienstbarkeit; Ablösung gegen Entschaedigung nach Gemeinheitsteilungsordnung 1821 und Ablösungsordnung 1850 moeglich. Wert der Servitut wird in Geld umgerechnet.
+Sachverhalt: Dorfgemeinschaft hat seit Generationen Hutungsrecht (Weiderecht) auf Adelsgut; Eigentümer will Recht aufheben.
+ALR-Loesung: ALR I 21 — Hutungsrecht als Dienstbarkeit; Ablösung gegen Entschaedigung nach Gemeinheitsteilungsordnung 1821 und Ablösungsordnung 1850 möglich. Wert der Servitut wird in Geld umgerechnet.
 
 ### Heutige Fortwirkung
 - § 903 BGB (Eigentumsdefinition) — fast wortlich aus ALR I 8 § 1.

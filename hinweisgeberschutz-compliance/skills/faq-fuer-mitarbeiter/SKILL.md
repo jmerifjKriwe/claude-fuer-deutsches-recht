@@ -3,7 +3,7 @@ name: faq-fuer-mitarbeiter
 description: "Schreibt verständliche Mitarbeiter-FAQ im Hinweisgeberschutz Compliance."
 ---
 
-# FAQ Fuer Mitarbeiter
+# FAQ Für Mitarbeiter
 
 ## Arbeitsweg
 

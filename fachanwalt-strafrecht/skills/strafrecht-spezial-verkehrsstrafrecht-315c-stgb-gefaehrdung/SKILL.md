@@ -28,7 +28,7 @@ Anwendungsfaelle: Lkw-Fahrer mit 1.2 Promille verursacht Beinaheunfall an Ampel;
 
 Voraussetzung ist Fahruntuechtigkeit im Sinne von Paragraph 316 StGB:
 
-- **Absolute Fahruntuechtigkeit ab 1.1 Promille Blutalkoholkonzentration** (gefestigte Rspr. seit 1990). Kein Gegenbeweis moeglich.
+- **Absolute Fahruntuechtigkeit ab 1.1 Promille Blutalkoholkonzentration** (gefestigte Rspr. seit 1990). Kein Gegenbeweis möglich.
 - **Relative Fahruntuechtigkeit ab 0.3 Promille** mit Ausfallerscheinungen (Schlangenlinien, Bremsverhalten, Reaktion).
 - Bei Drogen: keine starre Promillegrenze; Wirkstoffnachweis plus Ausfallerscheinungen erforderlich.
 
@@ -46,7 +46,7 @@ Auch der nuechterne Fahrer macht sich strafbar bei grob verkehrswidrigem und rue
 
 ### Konkrete Gefahr
 
-Konkrete Gefahr setzt eine Situation voraus, in der nur noch der Zufall den Schadenseintritt verhindert hat (Beinaheunfall). Der Verteidiger muss pruefen: Lag wirklich ein Beinaheunfall vor? Reichte der Abstand? Welche Reaktionsmoeglichkeit hatte der Geschaedigte? "Schreckmoment" allein genuegt nicht.
+Konkrete Gefahr setzt eine Situation voraus, in der nur noch der Zufall den Schadenseintritt verhindert hat (Beinaheunfall). Der Verteidiger muss prüfen: Lag wirklich ein Beinaheunfall vor? Reichte der Abstand? Welche Reaktionsmoeglichkeit hatte der Geschaedigte? "Schreckmoment" allein genuegt nicht.
 
 ### Subjektiver Tatbestand
 
@@ -60,9 +60,9 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 
 - **Gefahrnaehe rekonstruieren.** Lichtbilder, Bremsspuren, Zeugenaussagen. Polizeibericht enthaelt oft pauschale Wertungen; substantiierte Rekonstruktion kann den Beinaheunfall zur "blossen Behinderung" entkraeften.
 - **Rücksichtslosigkeit bestreiten.** Subjektives Merkmal; der Mandant darf nicht "gleichgueltig gegen die Verkehrsbelange anderer" gehandelt haben. Plausible Erklaerung (Konzentrationsmangel, Sekundenschlaf, Notfall) entkraeftet.
-- **Promille-Verteidigung bei Alkoholfall.** Bei Werten knapp ueber 1.1 Promille Messzeitpunkt klaeren; Rueckrechnung BAK auf Tatzeit; Sicherheitsabschlaege. Bei Wert unter 1.1 Promille relative Fahruntuechtigkeit nur mit Ausfallerscheinungen — diese muessen substantiiert dokumentiert sein.
-- **Schwelle "bedeutender Wert" pruefen.** Bei kleinen Schaeden (unter 750 Euro) kann der Tatbestand entfallen — dann nur Paragraph 316 StGB oder OWi nach Paragraph 24a StVG.
-- **Fahrerlaubnis verteidigen.** Schon das Verfahren fuehrt regelmaessig zur vorläufigen Entziehung nach Paragraph 111a StPO. Antrag auf Aussetzung der Vollziehung pruefen, wenn Gefahrnaehe oder Vorsatz wackelig.
+- **Promille-Verteidigung bei Alkoholfall.** Bei Werten knapp über 1.1 Promille Messzeitpunkt klären; Rueckrechnung BAK auf Tatzeit; Sicherheitsabschlaege. Bei Wert unter 1.1 Promille relative Fahruntuechtigkeit nur mit Ausfallerscheinungen — diese müssen substantiiert dokumentiert sein.
+- **Schwelle "bedeutender Wert" prüfen.** Bei kleinen Schaeden (unter 750 Euro) kann der Tatbestand entfallen — dann nur Paragraph 316 StGB oder OWi nach Paragraph 24a StVG.
+- **Fahrerlaubnis verteidigen.** Schon das Verfahren fuehrt regelmaessig zur vorläufigen Entziehung nach Paragraph 111a StPO. Antrag auf Aussetzung der Vollziehung prüfen, wenn Gefahrnaehe oder Vorsatz wackelig.
 
 ## Trade-off-Matrix
 
@@ -73,25 +73,25 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 ## Konkurrenzen
 
 - **Paragraph 315c StGB und Paragraph 316 StGB.** Paragraph 316 StGB tritt als abstraktes Gefaehrdungsdelikt subsidiaer zurueck, wenn Paragraph 315c Abs 1 Nr 1 Buchstabe a verwirklicht ist.
-- **Paragraph 315c StGB und Paragraph 142 StGB unerlaubtes Entfernen vom Unfallort.** Tatmehrheit moeglich, wenn nach der Gefaehrdungstat noch Wartepflicht verletzt wird.
+- **Paragraph 315c StGB und Paragraph 142 StGB unerlaubtes Entfernen vom Unfallort.** Tatmehrheit möglich, wenn nach der Gefaehrdungstat noch Wartepflicht verletzt wird.
 - **Paragraph 315c StGB und Paragraph 222 StGB fahrlaessige Toetung.** Tateinheit, wenn die konkrete Gefahr in Toetung umschlaegt.
-- **Paragraph 315c StGB und Paragraph 240 StGB Noetigung.** Tateinheit moeglich bei aggressivem Drangsalieren mit Fahrzeug.
-- **Paragraph 315c StGB und Paragraph 315d StGB Rennen.** Tateinheit moeglich, aber Paragraph 315d StGB hat eigenen Strafrahmen.
+- **Paragraph 315c StGB und Paragraph 240 StGB Noetigung.** Tateinheit möglich bei aggressivem Drangsalieren mit Fahrzeug.
+- **Paragraph 315c StGB und Paragraph 315d StGB Rennen.** Tateinheit möglich, aber Paragraph 315d StGB hat eigenen Strafrahmen.
 
 ## Strafzumessung und Folgen
 
 - **Strafrahmen Absatz 1:** Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
 - **Strafrahmen Absatz 3:** Freiheitsstrafe bis 2 Jahre oder Geldstrafe.
-- **Regelfahrverbot Paragraph 44 StGB** oder Entziehung der Fahrerlaubnis nach Paragraph 69 StGB. Sperrfrist Paragraph 69a StGB grundsaetzlich 6 Monate bis 5 Jahre.
+- **Regelfahrverbot Paragraph 44 StGB** oder Entziehung der Fahrerlaubnis nach Paragraph 69 StGB. Sperrfrist Paragraph 69a StGB grundsätzlich 6 Monate bis 5 Jahre.
 - **Punkte Flensburg:** 3 Punkte bei Verurteilung.
-- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
+- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
 - Wiederholungsfall: Regelmaessig Entzug auch dann, wenn Tat eher mild.
 
 ## Mustertexte
 
 **Schriftsatz-Snippet (Beinaheunfall bestreiten):** "Eine konkrete Gefahr im Sinne von Paragraph 315c Abs 1 StGB lag nicht vor. Der Zeuge X hat ausgesagt, er habe sein Fahrzeug ohne Vollbremsung lediglich um 10 km/h verlangsamt. Der Abstand zum Fahrzeug meines Mandanten habe stets mindestens 8 Meter betragen. Damit fehlt es an einem Beinaheunfall."
 
-**Antrag auf Aufhebung der vorläufigen Entziehung Paragraph 111a StPO:** "Es wird beantragt, den Beschluss vom DD.MM.JJJJ ueber die vorläufige Entziehung der Fahrerlaubnis aufzuheben. Es bestehen nicht mehr dringende Gruende für die Annahme, dass die Fahrerlaubnis entzogen wird, weil ..."
+**Antrag auf Aufhebung der vorläufigen Entziehung Paragraph 111a StPO:** "Es wird beantragt, den Beschluss vom DD.MM.JJJJ über die vorläufige Entziehung der Fahrerlaubnis aufzuheben. Es bestehen nicht mehr dringende Gruende für die Annahme, dass die Fahrerlaubnis entzogen wird, weil ..."
 
 **Einlassungs-Snippet:** "Ich habe das Stoppschild uebersehen, weil meine Aufmerksamkeit kurzzeitig von einem Wespenstich abgelenkt war. Ich habe das andere Fahrzeug sofort gesehen und gebremst; eine Gefaehrdung war für mich subjektiv nicht erkennbar."
 

@@ -21,15 +21,15 @@ Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht
 
 ## Wann brauchen Sie diese Skill?
 
-- Streit ueber Mitgliedschaft in einer Krankenkasse.
-- Streit ueber Versicherungspflicht (ja oder nein).
-- Streit ueber Anerkennung eines Arbeitsunfalls als solcher (BG).
+- Streit über Mitgliedschaft in einer Krankenkasse.
+- Streit über Versicherungspflicht (ja oder nein).
+- Streit über Anerkennung eines Arbeitsunfalls als solcher (BG).
 - Streit, ob eine bestimmte Taetigkeit selbststaendig oder abhaengig ist.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Rechtsverhaeltnis**: Beziehung zwischen Ihnen und der Behörde mit rechtlichen Folgen.
-- **Berechtigtes Interesse**: Sie muessen ein konkretes Interesse an der Feststellung haben.
+- **Berechtigtes Interesse**: Sie müssen ein konkretes Interesse an der Feststellung haben.
 - **Subsidiaritaet**: Feststellungsklage nur, wenn andere Klagearten nicht reichen.
 
 ## Rechtsgrundlagen
@@ -40,12 +40,12 @@ Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Feststellungsklage richtig ist
+### Schritt 1 — Prüfen, ob Feststellungsklage richtig ist
 
 Wenn ein Verwaltungsakt vorliegt: meistens Anfechtungs- oder Verpflichtungsklage besser. Feststellungsklage nur, wenn:
 
 - keine andere Klageart greift
-- Sie wirklich nur die Rechtslage klaeren wollen
+- Sie wirklich nur die Rechtslage klären wollen
 - berechtigtes Interesse besteht
 
 ### Schritt 2 — Klageschrift
@@ -97,15 +97,15 @@ Anlagen:
 
 ### Schritt 3 — Berechtigtes Interesse darlegen
 
-Sie muessen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
+Sie müssen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
 
 - Klarheit für kuenftige Antraege
 - Vermeidung von Schadensersatz-Streit
 - Klarheit für berufliche Entscheidung
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Subsidiaritaet**: Wenn Anfechtungs- oder Verpflichtungsklage moeglich ist, ist Feststellungsklage unzulaessig.
+- **Subsidiaritaet**: Wenn Anfechtungs- oder Verpflichtungsklage möglich ist, ist Feststellungsklage unzulaessig.
 - **Konkrete Frage**: "Wie viel Geld bekomme ich" ist keine Feststellung; "Bin ich versicherungspflichtig" ist eine.
 
 ## Typische Fehler

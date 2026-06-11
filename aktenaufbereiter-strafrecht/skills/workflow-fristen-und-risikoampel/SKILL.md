@@ -28,9 +28,9 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Strafrechts-Fristen-Speziallage
-- **Akteneinsicht § 147 StPO:** Antrag jederzeit moeglich, aber Aktenausgabe an Verteidiger erst nach Abschluss der Ermittlungen (§ 147 II StPO) regelmaessig durchsetzbar. Bei Verweigerung: Antrag auf gerichtliche Entscheidung § 147 V 2 StPO.
+- **Akteneinsicht § 147 StPO:** Antrag jederzeit möglich, aber Aktenausgabe an Verteidiger erst nach Abschluss der Ermittlungen (§ 147 II StPO) regelmaessig durchsetzbar. Bei Verweigerung: Antrag auf gerichtliche Entscheidung § 147 V 2 StPO.
 - **Einspruch gegen Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung; Wiedereinsetzung § 44 StPO bei unverschuldeter Versaeumung.
 - **Revision §§ 341, 345 StPO:** 1 Woche Einlegung ab Verkuendung, 1 Monat Begruendung ab Zustellung des schriftlichen Urteils.
-- **U-Haft-Pruefung § 121 StPO:** automatische Haftpruefung durch OLG nach 6 Monaten.
+- **U-Haft-Prüfung § 121 StPO:** automatische Haftpruefung durch OLG nach 6 Monaten.
 - **Verjährung §§ 78 ff. StGB:** chronologisch markieren; § 78c StGB Unterbrechungshandlungen, § 78b StGB Ruhen.
 - Risikoampel: Rot bei Verlust unwiderruflicher Rechte (Einspruch, Revision, Haftbeschwerde nach § 117 StPO), Gelb bei Beweisproblemen, Gruen bei dokumentierter Mandantenruecksprache.

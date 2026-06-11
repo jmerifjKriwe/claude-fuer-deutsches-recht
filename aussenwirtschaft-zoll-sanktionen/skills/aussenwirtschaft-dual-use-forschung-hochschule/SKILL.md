@@ -16,22 +16,22 @@ description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Prue
 ## Mandantenfall
 
 - Universitaet kooperiert mit chinesischem Forschungsinstitut; Frage, ob Datenuebertragung genehmigungspflichtig.
-- Doktorand aus Iran erhalt Zugang zu Laboren und Geraeten; Dual-Use-Compliance pruefen.
-- Professor moechte Konferenzbeitrag ueber Laserparameter veröffentlichen; Dual-Use-Relevanz?
+- Doktorand aus Iran erhalt Zugang zu Laboren und Geraeten; Dual-Use-Compliance prüfen.
+- Professor moechte Konferenzbeitrag über Laserparameter veröffentlichen; Dual-Use-Relevanz?
 
 ## Erste Schritte
 
-1. Forschungsgegenstand und Technologie auf Dual-Use-Listeneintrag pruefen (Anhang I VO 2021/821).
-2. Ausnahme für Grundlagenforschung (Art. 2 Nr. 9 VO 2021/821) und oeffentlich zugaengliche Info pruefen.
+1. Forschungsgegenstand und Technologie auf Dual-Use-Listeneintrag prüfen (Anhang I VO 2021/821).
+2. Ausnahme für Grundlagenforschung (Art. 2 Nr. 9 VO 2021/821) und öffentlich zugaengliche Info prüfen.
 3. Wissenstransfer an auslaendische Beteiligte als 'Verbringung' oder 'Ausfuhr' einordnen.
-4. Endverwender-Pruefung für Auslandsstudierende und Kooperationspartner.
+4. Endverwender-Prüfung für Auslandsstudierende und Kooperationspartner.
 5. Genehmigung bei BAFA beantragen falls kein Ausnahmetatbestand greift.
-6. Hochschulleitung und Forschungsfoerderer ueber Compliance-Anforderungen informieren.
+6. Hochschulleitung und Forschungsfoerderer über Compliance-Anforderungen informieren.
 
 ## Rechtsrahmen
 
 - **Art. 2 Nr. 9 VO (EU) 2021/821**: Ausnahme für Grundlagenforschung.
-- **Art. 26 Abs. 1 lit. a VO (EU) 2021/821**: Ausnahme für oeffentlich zugaengliche Information.
+- **Art. 26 Abs. 1 lit. a VO (EU) 2021/821**: Ausnahme für öffentlich zugaengliche Information.
 - **AWG §§ 8, 18**: Genehmigungspflicht und Strafbarkeit bei Wissenstransfer.
 - **§ 9 AWV**: Genehmigungsfreie Ausfuhren (Grenzen im akademischen Bereich).
 - **VO (EU) 2021/821 Anhang I Kategorie 5**: Telekommunikation/Informationssicherheit.
@@ -40,7 +40,7 @@ description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Prue
 
 - [ ] Technologie im Dual-Use-Anhang I gelistet?
 - [ ] Grundlagenforschungs-Ausnahme sachlich anwendbar?
-- [ ] Publikation nicht bereits vor Genehmigung oeffentlich zugaenglich?
+- [ ] Publikation nicht bereits vor Genehmigung öffentlich zugaenglich?
 - [ ] Endverwender auslaendischer Partner geprueft?
 - [ ] Catch-All für nicht-gelistete sensitive Technologien geprueft?
 - [ ] Hochschulleitung und Compliance-Stelle informiert?
@@ -50,7 +50,7 @@ description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Prue
 - Technische Ausbildung (Hands-on-Training) faellt nicht unter Grundlagenforschungs-Ausnahme.
 - Gemeinsame Publikation vor BAFA-Freigabe kann rechtswidrige Technologiuebertragung darstellen.
 - Fernzugriff auf IT-Systeme mit sensitiver Software gilt als Ausfuhr.
-- Kooperationsvertraege sichern keine Compliance; individuelle Pruefung jeder Datenuebertragung noetig.
+- Kooperationsvertraege sichern keine Compliance; individuelle Prüfung jeder Datenuebertragung noetig.
 
 ## Schnittstellen zu anderen Skills
 

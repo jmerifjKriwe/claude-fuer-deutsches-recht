@@ -71,7 +71,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Verstaendigung § 257c StPO i.V.m. § 71 OWiG.
 - **Kostenhinweis RVG OWi:**
  - VV 5100 (Grundgebuehr), 5103 (Verfahrensgebuehr Verteidiger im OWi-Verfahren), 5109 (Verfahrensgebuehr Einspruchsverfahren), 5110-5115 (Terminsgebuehr).
- - Bei Rechtsschutzversicherung: Wartezeit pruefen; Selbstbeteiligung; Strafrechtsschutz nur ohne Vorsatz.
+ - Bei Rechtsschutzversicherung: Wartezeit prüfen; Selbstbeteiligung; Strafrechtsschutz nur ohne Vorsatz.
 - **Mandantenfreigabe schriftlich** für alle Entscheidungen: Einspruch / Rücknahme / Beschraenkung / Vertretung / Verstaendigung.
 
 ## Qualitätsanker: Messdaten, Messakte und faires Verfahren

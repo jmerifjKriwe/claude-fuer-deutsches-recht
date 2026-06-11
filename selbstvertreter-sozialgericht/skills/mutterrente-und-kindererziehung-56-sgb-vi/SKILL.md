@@ -26,7 +26,7 @@ description: "Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill er
 ### Ab 1992
 - 3 Jahre Erziehungszeit (= 3 Beitragsjahre).
 
-## Hoehe
+## Höhe
 
 - Pro Erziehungsjahr: 1 Entgeltpunkt (ca. 39 Euro Monatsrente West 2024 — verifizieren).
 - Mutterrente I/II hat zusaetzliche Entgeltpunkte für Vor-1992-Kinder.
@@ -34,7 +34,7 @@ description: "Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill er
 ## Aufteilung zwischen Eltern
 
 - Grundsatz: ueberwiegende Erziehung.
-- Antrag auf andere Aufteilung moeglich (z. B. Vater statt Mutter).
+- Antrag auf andere Aufteilung möglich (z. B. Vater statt Mutter).
 
 ## Beruecksichtigungszeit § 57 SGB VI
 

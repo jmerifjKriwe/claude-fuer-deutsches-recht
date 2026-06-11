@@ -7,18 +7,18 @@ description: "Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO. Klaer
 
 ## Zweck / Purpose
 
-Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO unterfaellt und damit ein Auftragsverarbeitungsvertrag (AVV / Data Processing Agreement, DPA) abzuschliessen ist. Purpose (EN): Determine whether a contractual relationship triggers Art. 28 GDPR data processing on behalf of a controller and therefore requires a DPA.
+Strukturierte Prüfung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO unterfaellt und damit ein Auftragsverarbeitungsvertrag (AVV / Data Processing Agreement, DPA) abzuschliessen ist. Purpose (EN): Determine whether a contractual relationship triggers Art. 28 GDPR data processing on behalf of a controller and therefore requires a DPA.
 
 ## Wann dieses Modul hilft
 
 - Mandant bezieht einen IT-/Cloud-/SaaS-Dienst und ist unsicher, ob AVV erforderlich ist.
-- Mandant ist Anbieter und prueft, ob er als Auftragsverarbeiter einzustufen ist.
+- Mandant ist Anbieter und prüft, ob er als Auftragsverarbeiter einzustufen ist.
 - Es bestehen Zweifel, ob nicht stattdessen Art. 26 DSGVO (gemeinsame Verantwortlichkeit) oder eine eigenstaendige Verantwortlichkeit (Funktionsuebertragung, separate Verantwortliche) vorliegt.
 - Eine Aufsichtsbehoerde fragt nach Rollenzuordnung im Verarbeitungsverzeichnis (Art. 30 DSGVO).
 
 ## Rechtlicher Rahmen
 
-- Art. 4 Nr. 7 DSGVO: Verantwortlicher entscheidet ueber Zwecke und Mittel.
+- Art. 4 Nr. 7 DSGVO: Verantwortlicher entscheidet über Zwecke und Mittel.
 - Art. 4 Nr. 8 DSGVO: Auftragsverarbeiter verarbeitet im Auftrag des Verantwortlichen.
 - Art. 28 Abs. 1 DSGVO: Auswahl nur solcher Auftragsverarbeiter, die hinreichende Garantien bieten.
 - Art. 28 Abs. 3 DSGVO: AVV in Schriftform oder elektronisch; Mindestinhalte lit. a bis h.
@@ -31,7 +31,7 @@ Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftr
 
 1. **Sachverhalt erfassen.**
  - Welche personenbezogenen Daten werden verarbeitet?
- - Welcher Akteur entscheidet ueber Zweck (Wozu?) und Mittel (Wie?)?
+ - Welcher Akteur entscheidet über Zweck (Wozu?) und Mittel (Wie?)?
  - Gibt es Weisungsmoeglichkeiten und Weisungsrechte?
  - Welchen wirtschaftlichen Vorteil zieht jeder Akteur aus der Verarbeitung?
 
@@ -47,7 +47,7 @@ Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftr
 
 3. **Negativabgrenzung.**
  - **Funktionsuebertragung:** Bei Berufsgeheimnistraegern (Steuerberater, Rechtsanwaelte, Aerzte), Inkassodienstleistern und Wirtschaftspruefern ist die Rollenzuordnung wegen § 203 StGB und § 43a Abs. 2 BRAO besonders kritisch (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
- - **Gemeinsame Verantwortlichkeit (Art. 26 DSGVO):** Wenn beide Akteure gemeinsam ueber Zwecke und Mittel entscheiden – EuGH C-210/16 Wirtschaftsakademie, EuGH C-40/17 Fashion ID, EuGH C-25/17 Zeugen Jehovas.
+ - **Gemeinsame Verantwortlichkeit (Art. 26 DSGVO):** Wenn beide Akteure gemeinsam über Zwecke und Mittel entscheiden – EuGH C-210/16 Wirtschaftsakademie, EuGH C-40/17 Fashion ID, EuGH C-25/17 Zeugen Jehovas.
  - **Getrennte Verantwortlichkeit:** Wenn jeder Akteur dieselben Daten für eigene Zwecke mit eigener Rechtsgrundlage verarbeitet.
 
 4. **Rechtsfolge feststellen.**
@@ -63,7 +63,7 @@ Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftr
 
 Praeambel-Klausel für einen AVV nach Art. 28 DSGVO:
 
-> "Der Auftraggeber (im Folgenden 'Verantwortlicher' im Sinne des Art. 4 Nr. 7 DSGVO) beauftragt den Auftragnehmer (im Folgenden 'Auftragsverarbeiter' im Sinne des Art. 4 Nr. 8 DSGVO) mit der Verarbeitung personenbezogener Daten im Auftrag und nach Weisung des Verantwortlichen. Gegenstand, Dauer, Art und Zweck der Verarbeitung, die Art der personenbezogenen Daten sowie die Kategorien betroffener Personen sind in Anlage 1 abschliessend beschrieben. Der Auftragsverarbeiter verarbeitet die personenbezogenen Daten ausschliesslich auf dokumentierte Weisung des Verantwortlichen, soweit nicht eine Verarbeitungspflicht nach Unionsrecht oder dem Recht der Mitgliedstaaten besteht; in diesem Fall teilt der Auftragsverarbeiter dem Verantwortlichen diese rechtliche Verpflichtung vor der Verarbeitung mit, sofern das betreffende Recht eine solche Mitteilung nicht wegen eines wichtigen öffentlichen Interesses verbietet."
+> "Der Auftraggeber (im Folgenden 'Verantwortlicher' im Sinne des Art. 4 Nr. 7 DSGVO) beauftragt den Auftragnehmer (im Folgenden 'Auftragsverarbeiter' im Sinne des Art. 4 Nr. 8 DSGVO) mit der Verarbeitung personenbezogener Daten im Auftrag und nach Weisung des Verantwortlichen. Gegenstand, Dauer, Art und Zweck der Verarbeitung, die Art der personenbezogenen Daten sowie die Kategorien betroffener Personen sind in Anlage 1 abschliessend beschrieben. Der Auftragsverarbeiter verarbeitet die personenbezogenen Daten ausschließlich auf dokumentierte Weisung des Verantwortlichen, soweit nicht eine Verarbeitungspflicht nach Unionsrecht oder dem Recht der Mitgliedstaaten besteht; in diesem Fall teilt der Auftragsverarbeiter dem Verantwortlichen diese rechtliche Verpflichtung vor der Verarbeitung mit, sofern das betreffende Recht eine solche Mitteilung nicht wegen eines wichtigen öffentlichen Interesses verbietet."
 
 ## Typische Drafting-Fehler
 
@@ -77,8 +77,8 @@ Praeambel-Klausel für einen AVV nach Art. 28 DSGVO:
 
 - DSGVO Art. 4 Nr. 7, Nr. 8, Art. 28, Art. 29.
 - BDSG § 62.
-- EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021); abrufbar ueber edpb.europa.eu.
-- EuGH C-25/17 (Zeugen Jehovas) – verifiziertes Aktenzeichen; Volltext ueber curia.europa.eu pruefen.
+- EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021); abrufbar über edpb.europa.eu.
+- EuGH C-25/17 (Zeugen Jehovas) – verifiziertes Aktenzeichen; Volltext über curia.europa.eu prüfen.
 - EuGH C-210/16 (Wirtschaftsakademie / Fanpages) – Aktenzeichen verifiziert.
 - EuGH C-40/17 (Fashion ID) – Aktenzeichen verifiziert.
 - Verbindlich zur Zitierweise: `../../../references/zitierweise.md`.

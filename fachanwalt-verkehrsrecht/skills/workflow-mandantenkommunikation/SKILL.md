@@ -37,8 +37,8 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
  - **Strafrecht:** Schweigerecht § 136 StPO; bei Trunkenheitsfahrt § 316 StGB nach Akteneinsicht; vorläufige Entziehung Fuehrerschein § 111a StPO.
  - **FeV:** MPU - Beratung Vorbereitungskurs, Abstinenznachweis (Haaranalyse, Urinkontrollen); Wiedererteilungsantrag rechtzeitig vor Ablauf Sperre § 20 FeV.
  - **Versicherung:** Anzeigeobliegenheit § 30 VVG; Schadensmeldung vollstaendig; Quotenregelung bei Eigenverschulden.
-- **Berufliche Auswirkungen** stets explizit ansprechen: Berufskraftfahrer, Aussendienst, Pendler, Aerzte/Anwaelte (BZRG-Eintrag bei Verurteilung); Kammerpflicht-Meldungen pruefen.
-- **Versicherungsrechtliche Beratung:** ggf. Erhoehung KH-Beitrag (Schadenfreiheitsrabatt), Insassenversicherung, Rechtsschutz pruefen (Selbstbeteiligung, Vorvertrag, Wartezeit).
+- **Berufliche Auswirkungen** stets explizit ansprechen: Berufskraftfahrer, Außendienst, Pendler, Aerzte/Anwaelte (BZRG-Eintrag bei Verurteilung); Kammerpflicht-Meldungen prüfen.
+- **Versicherungsrechtliche Beratung:** ggf. Erhoehung KH-Beitrag (Schadenfreiheitsrabatt), Insassenversicherung, Rechtsschutz prüfen (Selbstbeteiligung, Vorvertrag, Wartezeit).
 - **Kostenhinweis RVG:** Verkehrsstrafsachen / Bussgeld: VV 4100 ff. RVG; Hauptverhandlungstermin auch Sonderkosten; Rechtsschutzversicherung Deckungszusage einholen.
 - **Mandantenfreigabe schriftlich** für: Einspruchsruecknahme, Vergleich mit Versicherer, Strafrechtliche Deals § 257c StPO, MPU-Antritt.
-- **Pflicht-Hinweise:** kein Schweigen gegenueber Polizei am Unfallort verpflichtend ueber Pflichtangaben (Name, Adresse, Kfz-Daten); aber keine Aussage zur Schuldfrage; Schweigerecht im Strafverfahren.
+- **Pflicht-Hinweise:** kein Schweigen gegenueber Polizei am Unfallort verpflichtend über Pflichtangaben (Name, Adresse, Kfz-Daten); aber keine Aussage zur Schuldfrage; Schweigerecht im Strafverfahren.

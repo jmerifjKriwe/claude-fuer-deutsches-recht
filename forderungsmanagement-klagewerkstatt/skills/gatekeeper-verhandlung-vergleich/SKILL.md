@@ -12,7 +12,7 @@ Vor jedem Vergleichsgespraech braucht es ein klares Mandatsmandat mit Untergrenz
 | Punkt | Inhalt |
 |---|---|
 | Mandanten-Untergrenze Hauptsumme | Mindestbetrag absolut |
-| Mandanten-Untergrenze Zinsen | Verzicht moeglich oder nicht |
+| Mandanten-Untergrenze Zinsen | Verzicht möglich oder nicht |
 | Ratenzahlungsbereitschaft | maximale Laufzeit |
 | Sicherheitserfordernis | Buergschaft Sicherungsuebereignung notarielle Unterwerfung |
 | Verzichtsklausel | Vergleich umfasst alle Anspruche |
@@ -29,7 +29,7 @@ Vor jedem Vergleichsgespraech braucht es ein klares Mandatsmandat mit Untergrenz
 
 ## Aufrechnung beruecksichtigen
 
-Wenn Beklagte Gegenforderungen behauptet pruefen ob Aufrechnungserklaerung BGB 387 ff schon erfolgt ist und ob sich Hauptforderung tatsaechlich reduziert.
+Wenn Beklagte Gegenforderungen behauptet prüfen ob Aufrechnungserklaerung BGB 387 ff schon erfolgt ist und ob sich Hauptforderung tatsaechlich reduziert.
 
 ## Muster Vergleich
 

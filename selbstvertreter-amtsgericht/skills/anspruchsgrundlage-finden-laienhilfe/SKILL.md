@@ -13,7 +13,7 @@ Jede Klage braucht eine **Anspruchsgrundlage** — eine Norm im BGB oder Spezial
 
 - Sie wissen, **was** Sie wollen (Geld, Lieferung, Unterlassung), aber nicht **warum** rechtlich.
 - Sie sollen den Anspruch in der Klageschrift "benennen".
-- Sie wollen pruefen, welche Tatsachen Sie vortragen muessen.
+- Sie wollen prüfen, welche Tatsachen Sie vortragen müssen.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -40,7 +40,7 @@ Jede Klage braucht eine **Anspruchsgrundlage** — eine Norm im BGB oder Spezial
 
 ### Schritt 1 — Pruefungsreihenfolge merken
 
-Nach der Methodik des deutschen Zivilrechts pruefen Sie:
+Nach der Methodik des deutschen Zivilrechts prüfen Sie:
 
 1. **Vertrag** (primaere und sekundaere Ansprueche)
 2. **c.i.c.** (Vertragsanbahnung)
@@ -49,9 +49,9 @@ Nach der Methodik des deutschen Zivilrechts pruefen Sie:
 5. **Delikt** (§ 823 ff.)
 6. **Bereicherung** (§ 812 ff.)
 
-Diese Reihenfolge ist nicht zwingend, aber didaktisch hilfreich. Bei Konkurrenzen koennen mehrere Anspruchsgrundlagen nebeneinander stehen — Sie nennen dann alle.
+Diese Reihenfolge ist nicht zwingend, aber didaktisch hilfreich. Bei Konkurrenzen können mehrere Anspruchsgrundlagen nebeneinander stehen — Sie nennen dann alle.
 
-### Schritt 2 — Vertrag pruefen
+### Schritt 2 — Vertrag prüfen
 
 Haben Sie mit der Gegenseite einen **Vertrag** geschlossen?
 
@@ -63,13 +63,13 @@ Haben Sie mit der Gegenseite einen **Vertrag** geschlossen?
 
 Wenn ja, ist der Primaeranspruch oft der Vertragsanspruch (z. B. Kaufpreis, Lohn). Sekundaeranspruch bei Verletzung: § 280 BGB.
 
-### Schritt 3 — c.i.c. pruefen
+### Schritt 3 — c.i.c. prüfen
 
 Wenn der Vertrag nicht zustande gekommen ist, aber die Gegenseite Sie waehrend der Anbahnung verletzt hat (z. B. falsche Auskunft), dann **culpa in contrahendo** (§ 311 II i. V. m. § 280 BGB).
 
 ### Schritt 4 — Dingliche Ansprueche
 
-Wenn Sie **Eigentuemer** einer Sache sind, die ein anderer besitzt: § 985 BGB Herausgabeanspruch. Beispiel: Geliehene Werkzeuge, die nicht zurueckgegeben werden.
+Wenn Sie **Eigentümer** einer Sache sind, die ein anderer besitzt: § 985 BGB Herausgabeanspruch. Beispiel: Geliehene Werkzeuge, die nicht zurueckgegeben werden.
 
 ### Schritt 5 — Delikt
 
@@ -114,17 +114,17 @@ Beispiel 5: "Mein Vermieter macht keine Reparatur, Wasser tropft."
 - Mietvertrag § 535 I 2 BGB (Mangelbeseitigung).
 - Mietminderung § 536 BGB.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Mehrere Anspruchsgrundlagen sind Regel, nicht Ausnahme**. Bei Verkehrsunfall greifen § 823 BGB **und** § 7 StVG **und** § 18 StVG nebeneinander.
 - **Vertrag schlaegt Delikt** — wenn ein Vertrag besteht, sind die vertraglichen Regelungen meist guenstiger für Sie.
-- **Verjährung pruefen**: Manche Sondergesetze haben kuerzere Fristen.
+- **Verjährung prüfen**: Manche Sondergesetze haben kuerzere Fristen.
 
 ## Typische Fehler
 
 - "Ich klage 'auf Gerechtigkeit'." → Kein Anspruch. Sie brauchen eine konkrete Norm.
-- "Ich nehme nur eine Anspruchsgrundlage." → Lieber mehrere pruefen — falls eine scheitert, traegt die andere.
-- "Ich behaupte einfach, es waere ein Vertrag gewesen." → Sie muessen die Tatsachen vortragen, aus denen der Vertrag folgt (Angebot, Annahme).
+- "Ich nehme nur eine Anspruchsgrundlage." → Lieber mehrere prüfen — falls eine scheitert, traegt die andere.
+- "Ich behaupte einfach, es waere ein Vertrag gewesen." → Sie müssen die Tatsachen vortragen, aus denen der Vertrag folgt (Angebot, Annahme).
 
 ## Quellen und Aktualitaet
 

@@ -26,7 +26,7 @@ description: "Toetung auf Verlangen nach § 216 StGB: Privilegierter Tatbestand 
 
 § 216 StGB ist die zentrale **Privilegierung** der vorsaetzlichen Toetung: Wenn der Taeter durch ein **ausdrueckliches und ernstliches Verlangen des Getoeteten** zur Toetung bestimmt worden ist, gilt ein Strafrahmen von sechs Monaten bis zu fuenf Jahren Freiheitsstrafe; in minder schweren Faellen sogar weniger.
 
-Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der Mitleidstoetung. Die Abgrenzung zur straflosen **Beihilfe zum Suizid** ist die zentrale Auslegungsfrage. § 217 StGB (geschaeftsmäßige Förderung der Selbsttoetung) wurde durch das BVerfG mit Urteil vom 26.02.2020 für nichtig erklaert; die Suizidassistenz ist seit 2020 grundsaetzlich straflos. Eine Neuregelung steht bislang aus.
+Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der Mitleidstoetung. Die Abgrenzung zur straflosen **Beihilfe zum Suizid** ist die zentrale Auslegungsfrage. § 217 StGB (geschaeftsmäßige Förderung der Selbsttoetung) wurde durch das BVerfG mit Urteil vom 26.02.2020 für nichtig erklaert; die Suizidassistenz ist seit 2020 grundsätzlich straflos. Eine Neuregelung steht bislang aus.
 
 ## Tatbestand und Auslegung
 
@@ -38,16 +38,16 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 
 **Ausdruecklich:** Das Verlangen muss erkennbar geaeussert sein. Schweigen oder konkludentes Verhalten reicht nicht. Schriftform oder Patientenverfuegung iSd § 1827 BGB (ehemals § 1901a BGB a.F.) kann ausreichend sein.
 
-**Ernstlich:** Frei verantwortliche, dauerhafte und auf Toetung gerichtete Willensentschliessung. Das Opfer muss die Bedeutung erfassen und die Konsequenzen abwaegen koennen. Kein Affekt, kein voruebergehender Schwaechezustand. **BGH staendige Rspr.:** Bei psychischer Erkrankung, Depression oder Drogenintoxikation Zweifel an der Ernstlichkeit; restriktive Pruefung.
+**Ernstlich:** Frei verantwortliche, dauerhafte und auf Toetung gerichtete Willensentschliessung. Das Opfer muss die Bedeutung erfassen und die Konsequenzen abwaegen können. Kein Affekt, kein voruebergehender Schwaechezustand. **BGH staendige Rspr.:** Bei psychischer Erkrankung, Depression oder Drogenintoxikation Zweifel an der Ernstlichkeit; restriktive Prüfung.
 
 **Bestimmt:** Das Verlangen muss handlungsmotivierend für den Taeter gewesen sein. Wenn der Taeter aus anderen Gruenden (Habgier, Hass) toetet und das Verlangen nur Anlass war, scheidet § 216 StGB aus.
 
 ## Tatbestandsmerkmale konkret
 
-**Abgrenzung zur Beihilfe zum Suizid:** Der Suizid ist im deutschen Recht straflos; folglich ist auch die Beihilfe straflos. Entscheidendes Abgrenzungskriterium ist nach staendiger BGH-Rechtsprechung die **Tatherrschaft ueber das unmittelbare Toetungsgeschehen**.
+**Abgrenzung zur Beihilfe zum Suizid:** Der Suizid ist im deutschen Recht straflos; folglich ist auch die Beihilfe straflos. Entscheidendes Abgrenzungskriterium ist nach staendiger BGH-Rechtsprechung die **Tatherrschaft über das unmittelbare Toetungsgeschehen**.
 
-- **Suizid:** Das Opfer hat die Tatherrschaft ueber den letzten lebensvernichtenden Akt. Beispiel: Patient nimmt selbst die Tabletten ein. Der Helfer ist straflos.
-- **§ 216 StGB:** Der Taeter hat die Tatherrschaft ueber den letzten Akt. Beispiel: Arzt setzt die Spritze.
+- **Suizid:** Das Opfer hat die Tatherrschaft über den letzten lebensvernichtenden Akt. Beispiel: Patient nimmt selbst die Tabletten ein. Der Helfer ist straflos.
+- **§ 216 StGB:** Der Taeter hat die Tatherrschaft über den letzten Akt. Beispiel: Arzt setzt die Spritze.
 
 **Mitleidstoetung:** Die Toetung eines schwer leidenden Menschen ohne dessen Verlangen erfuellt § 212 StGB, ggf. § 213 StGB. Nicht § 216 StGB.
 
@@ -56,7 +56,7 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 - **Aktive direkte Sterbehilfe:** § 216 StGB (oder § 212 StGB, wenn kein Verlangen). Strafbar.
 - **Aktive indirekte Sterbehilfe (Schmerzbehandlung mit Risiko der Lebensverkuerzung):** Bei medizinischer Indikation und Einwilligung des Patienten straflos.
 - **Passive Sterbehilfe (Behandlungsabbruch):** Bei mutmasslichem oder erklaertem Willen des Patienten straflos (BGH staendige Rspr., Sterbehilfe-Entscheidung des 2. Strafsenats; live verifizieren).
-- **Assistierter Suizid (Verschaffen, Ueberlassen):** Grundsaetzlich straflos seit BVerfG-Urteil vom 26.02.2020 zu § 217 StGB; Aerzte haftpflichtrechtlich und berufsrechtlich pruefen.
+- **Assistierter Suizid (Verschaffen, Ueberlassen):** Grundsätzlich straflos seit BVerfG-Urteil vom 26.02.2020 zu § 217 StGB; Aerzte haftpflichtrechtlich und berufsrechtlich prüfen.
 
 **Versuch:** § 216 Abs. 2 StGB – Versuch ist strafbar.
 
@@ -64,8 +64,8 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 
 - **Beweis des ernstlichen Verlangens:** Schriftliche Erklaerung, Patientenverfuegung, Audio-/Video-Aufzeichnung, Zeugenaussagen. Ohne dokumentiertes Verlangen droht § 212 StGB.
 - **Sachverstaendigengutachten zur freien Willensbildung:** Bei schwerer Erkrankung, Schmerz, Depression Zweifel an der Ernstlichkeit ausraeumen.
-- **Tatherrschaft pruefen:** Bei Sterbehilfe genau dokumentieren, wer den letzten Akt ausgefuehrt hat. Bei Suizid (Opfer fuehrt Akt aus) Straflosigkeit moeglich.
-- **Patientenverfuegung pruefen:** § 1827 BGB; bei passiver Sterbehilfe relevant.
+- **Tatherrschaft prüfen:** Bei Sterbehilfe genau dokumentieren, wer den letzten Akt ausgefuehrt hat. Bei Suizid (Opfer fuehrt Akt aus) Straflosigkeit möglich.
+- **Patientenverfuegung prüfen:** § 1827 BGB; bei passiver Sterbehilfe relevant.
 - **Notstand (§ 34 StGB):** In extremen Konstellationen denkbar, aber sehr restriktiv (Lebensgueterabwaegung).
 - **Schuldfaehigkeit:** Bei Pflegekraeften, Familienangehoerigen kann massive emotionale Belastung § 21 StGB begruenden.
 
@@ -87,10 +87,10 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 ## Strafzumessung
 
 - **Strafrahmen § 216 Abs. 1 StGB:** Freiheitsstrafe von sechs Monaten bis zu fuenf Jahren.
-- **Versuch (§ 216 Abs. 2 StGB):** Strafbar; § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB Strafrahmenverschiebung moeglich.
-- **Geldstrafe:** Nicht moeglich (Mindeststrafe sechs Monate Freiheitsstrafe).
-- **Bewaehrung (§ 56 StGB):** Bei Strafe bis zu zwei Jahren moeglich. In der Praxis bei vollem Geststaendnis und dokumentiertem Verlangen regelmaessig Bewaehrung.
-- **§ 46a StGB / TOA:** Bei vollendeter Tat schwierig; gegenueber Angehoerigen pruefen.
+- **Versuch (§ 216 Abs. 2 StGB):** Strafbar; § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB Strafrahmenverschiebung möglich.
+- **Geldstrafe:** Nicht möglich (Mindeststrafe sechs Monate Freiheitsstrafe).
+- **Bewaehrung (§ 56 StGB):** Bei Strafe bis zu zwei Jahren möglich. In der Praxis bei vollem Geststaendnis und dokumentiertem Verlangen regelmaessig Bewaehrung.
+- **§ 46a StGB / TOA:** Bei vollendeter Tat schwierig; gegenueber Angehoerigen prüfen.
 
 ## Mustertexte
 

@@ -7,7 +7,7 @@ description: "Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der m
 
 ## Worum geht es?
 
-Wer ein einsetzbares Einkommen hat, das aber nicht hoch genug für Selbstzahlung ist, bekommt PKH mit Ratenzahlung. Das Gericht setzt eine monatliche Rate fest, die Sie an die Gerichtskasse zahlen. Bis maximal 48 Monate. Diese Skill zeigt, wie die Rate berechnet wird und was Sie tun koennen, wenn sich die Einkommens-Lage aendert.
+Wer ein einsetzbares Einkommen hat, das aber nicht hoch genug für Selbstzahlung ist, bekommt PKH mit Ratenzahlung. Das Gericht setzt eine monatliche Rate fest, die Sie an die Gerichtskasse zahlen. Bis maximal 48 Monate. Diese Skill zeigt, wie die Rate berechnet wird und was Sie tun können, wenn sich die Einkommens-Lage aendert.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -45,7 +45,7 @@ Tabelle § 115 II ZPO (gerundete Hoehen — aktuelle Tabelle verifizieren):
 - Einsetzbares Einkommen 51-100 EUR: Rate 30 EUR.
 - ... usw. bis Maximum.
 
-Aktuelle Tabelle verifizieren ueber justiz.de oder PKH-Rechner.
+Aktuelle Tabelle verifizieren über justiz.de oder PKH-Rechner.
 
 ### Schritt 3 — Laufzeit
 
@@ -61,7 +61,7 @@ Wenn Verfahrenskosten frueher abgedeckt: Raten enden frueher.
 
 ### Schritt 5 — Aenderung der Einkommens-Lage
 
-§ 120a ZPO: Wenn sich Ihre Einkommens-/Vermoegens-Lage **erheblich** aendert, muessen Sie das melden.
+§ 120a ZPO: Wenn sich Ihre Einkommens-/Vermoegens-Lage **erheblich** aendert, müssen Sie das melden.
 
 - Einkommens-**Verbesserung**: Rate wird ggf. erhoeht.
 - Einkommens-**Verschlechterung**: Auf Antrag Rate verringert oder ausgesetzt.
@@ -78,9 +78,9 @@ Wenn Sie gewinnen, traegt der Beklagte die Kosten. Sie bekommen ggf. Ihren Raten
 
 ### Schritt 8 — Vorzeitige Tilgung
 
-Sie koennen die Raten vorzeitig komplett zahlen — entlastet Sie laufend.
+Sie können die Raten vorzeitig komplett zahlen — entlastet Sie laufend.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Meldepflicht**: Wenn Sie Einkommens-Aenderung nicht melden, kann PKH rueckwirkend aufgehoben werden (§ 124 ZPO).
 - **Tabelle aktualisieren**: Verifizieren Sie die aktuelle PKH-Tabelle.
@@ -94,4 +94,4 @@ Sie koennen die Raten vorzeitig komplett zahlen — entlastet Sie laufend.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 120 ZPO unveraendert. Aktuelle PKH-Raten-Tabelle ueber justiz.de verifizieren.
+Stand: 05/2026. § 120 ZPO unveraendert. Aktuelle PKH-Raten-Tabelle über justiz.de verifizieren.

@@ -48,5 +48,5 @@ Diese Vorlage uebersetzt interne Registerdaten in eine JSON-nahe Arbeitsstruktur
 
 - Freigabefaehiges Portal-Mapping:
 - Noch offene Felder:
-- Nach Veroeffentlichung per API zu pruefen:
+- Nach Veroeffentlichung per API zu prüfen:
 - Naechste Portalaktion:

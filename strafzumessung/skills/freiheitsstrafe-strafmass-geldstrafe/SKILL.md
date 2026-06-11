@@ -3,11 +3,11 @@ name: freiheitsstrafe-strafmass-geldstrafe
 description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Ant..."
 ---
 
-# Freiheitsstrafe — Strafmass pruefen
+# Freiheitsstrafe — Strafmass prüfen
 
 ## Arbeitsbereich
 
-Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen prüfen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,19 +19,19 @@ Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen prue
 
 ## Worum geht es?
 
-Sobald feststeht, dass Freiheitsstrafe verhaengt wird, ist innerhalb des konkreten Strafrahmens die **Hoehe** zu bestimmen. Grundlage ist § 46 StGB. § 38 StGB regelt die zeitige Freiheitsstrafe (1 Monat bis 15 Jahre), § 39 StGB die Bemessung (Monate, Jahre und Monate). Die Hoehe entscheidet ueber Bewaehrungsfaehigkeit (§§ 56, 57 StGB).
+Sobald feststeht, dass Freiheitsstrafe verhaengt wird, ist innerhalb des konkreten Strafrahmens die **Höhe** zu bestimmen. Grundlage ist § 46 StGB. § 38 StGB regelt die zeitige Freiheitsstrafe (1 Monat bis 15 Jahre), § 39 StGB die Bemessung (Monate, Jahre und Monate). Die Höhe entscheidet über Bewaehrungsfaehigkeit (§§ 56, 57 StGB).
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie verteidigen in der Hauptverhandlung und plaedieren auf konkrete Strafhoehe.
-- Sie pruefen den Strafantrag der Staatsanwaltschaft auf Angemessenheit.
+- Sie prüfen den Strafantrag der Staatsanwaltschaft auf Angemessenheit.
 - Sie sondieren eine Verstaendigung; Strafrahmen-Untergrenze und -Obergrenze bilden den Handlungsspielraum.
-- Sie schreiben die Strafzumessung im Urteil oder pruefen sie revisionsmaessig.
+- Sie schreiben die Strafzumessung im Urteil oder prüfen sie revisionsmaessig.
 
 ## Rechtliche Grundlagen
 
 - **§ 38 StGB** — Zeitige Freiheitsstrafe 1 Monat bis 15 Jahre; lebenslang.
-- **§ 39 StGB** — Bemessung: bis 1 Jahr in vollen Wochen und Monaten; ueber 1 Jahr in Jahren und Monaten.
+- **§ 39 StGB** — Bemessung: bis 1 Jahr in vollen Wochen und Monaten; über 1 Jahr in Jahren und Monaten.
 - **§ 46 StGB** — Grundsatz; vgl. `paragraph-46-stgb-grundsatz-strafzumessung`.
 - **§ 47 StGB** — Vorrang Geldstrafe bei kurzer Freiheitsstrafe; vgl. `geldstrafe-vs-freiheitsstrafe-47-stgb`.
 - **§ 56 StGB** — Aussetzung zur Bewaehrung; vgl. `bewaehrung-56-stgb-positive-sozialprognose`.
@@ -43,8 +43,8 @@ Sobald feststeht, dass Freiheitsstrafe verhaengt wird, ist innerhalb des konkret
 - **Spielraum schuldangemessener Strafe**: Ober- und Untergrenze; innerhalb davon nach Praevention bemessen.
 - **Wechselwirkung Strafhoehe und Bewaehrung**:
  - Bis 1 Jahr: Bewaehrung Regelfall bei positiver Sozialprognose (§ 56 Abs. 1 StGB).
- - 1 bis 2 Jahre: Bewaehrung moeglich, aber nur bei besonderen Umstaenden (§ 56 Abs. 2 StGB).
- - Ueber 2 Jahre: keine Bewaehrung mehr.
+ - 1 bis 2 Jahre: Bewaehrung möglich, aber nur bei besonderen Umstaenden (§ 56 Abs. 2 StGB).
+ - Über 2 Jahre: keine Bewaehrung mehr.
 - Verteidigung achtet darauf, ob ein Strafmass moeglichst unter 2 Jahre (und idealerweise unter 1 Jahr) liegt.
 
 ## Schritt-für-Schritt-Anleitung
@@ -52,9 +52,9 @@ Sobald feststeht, dass Freiheitsstrafe verhaengt wird, ist innerhalb des konkret
 1. **Konkreten Strafrahmen** feststellen (vgl. `strafrahmen-und-strafzumessungsstufen`).
 2. **Schuldrahmen-Spielraum** bilden: untere und obere Grenze schuldangemessener Strafe.
 3. **Strafzumessungstatsachen** aus § 46 Abs. 2 StGB sammeln und gewichten (vgl. `strafzumessungs-tatsachen-46-ii-stgb`).
-4. **Strafmilderungsgruende** pruefen: §§ 46a, 17, 21, 23 Abs. 2, 27 Abs. 2, 28 Abs. 1, 49 StGB.
+4. **Strafmilderungsgruende** prüfen: §§ 46a, 17, 21, 23 Abs. 2, 27 Abs. 2, 28 Abs. 1, 49 StGB.
 5. **Bewaehrungsperspektive** im Blick: Wenn 1-Jahres- oder 2-Jahres-Schwelle in Reichweite, Argumente entsprechend ausrichten.
-6. **Lange Verfahrensdauer** als Kompensationsfaktor pruefen (Art. 6 EMRK; Vollstreckungsmodell der st. Rspr.).
+6. **Lange Verfahrensdauer** als Kompensationsfaktor prüfen (Art. 6 EMRK; Vollstreckungsmodell der st. Rspr.).
 7. **Anrechnung** U-Haft / Auslieferungshaft nach § 51 StGB; vgl. `freiheitsstrafe-ohne-bewaehrung-vollstreckung`.
 
 ## Faustwerte (orientierend, kein Praejudiz)
@@ -87,12 +87,12 @@ Diese Werte ersetzen **keinen** Einzelfall; sie zeigen, wo regional, gerichtsbez
 - Antragstrafe darf nicht hinter der Schuld zurueckbleiben.
 - Bei Bewaehrungsantrag konkret Vortrag zur Sozialprognose.
 - Bei keinem Bewaehrungsantrag konkret zu den negativen Prognosefaktoren.
-- Strafzumessungsrichtlinien der Landes-Justizverwaltungen koennen orientieren (siehe je nach Bundesland; nicht bindend).
+- Strafzumessungsrichtlinien der Landes-Justizverwaltungen können orientieren (siehe je nach Bundesland; nicht bindend).
 
 ## Typische Fehler
 
 - **Schuldrahmen-Begruendung fehlt**: Urteil nennt nur den konkret verhaengten Wert ohne Bandbreite; revisionsanfaellig.
-- **Bewaehrungsschwelle** uebersehen: Strafhoehe knapp ueber 2 Jahren ohne Begruendung der Schwere; Verteidigung sollte vor Urteilsverkuendung punktgenau argumentieren.
+- **Bewaehrungsschwelle** uebersehen: Strafhoehe knapp über 2 Jahren ohne Begruendung der Schwere; Verteidigung sollte vor Urteilsverkuendung punktgenau argumentieren.
 - **Lange Verfahrensdauer** nicht kompensiert.
 - **U-Haft-Anrechnung** in der Urteilsformel uebersehen (§ 51 StGB).
 - **Doppelverwertung** Tatbestandsmerkmale.

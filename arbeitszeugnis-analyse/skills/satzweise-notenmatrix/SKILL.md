@@ -26,7 +26,7 @@ description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Sc
 
 ## Beispiele
 
-**Beispiel 1 – Note 1:** "verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches ueber aeusserst profundes Fachwissen" → Steigerungsadverb "aeusserst", Maximalbereichsangabe "auch in Randbereichen", Superlativ "profundes". Themenbereich Fachkenntnisse.
+**Beispiel 1 – Note 1:** "verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches über aeusserst profundes Fachwissen" → Steigerungsadverb "aeusserst", Maximalbereichsangabe "auch in Randbereichen", Superlativ "profundes". Themenbereich Fachkenntnisse.
 
 **Beispiel 2 – Note 3:** "nahm in eigener Initiative regelmaessig erfolgreich an internen und externen Weiterbildungsseminaren teil" → kein Steigerungsadverb, kein Superlativ ("regelmaessig" ist Haeufigkeit, kein Steigerer). Themenbereich Lernbereitschaft.
 
@@ -34,7 +34,7 @@ description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Sc
 
 **Beispiel 4 – Note 3:** "war Neuem gegenueber aufgeschlossen, fand gute neue Ideen und innovative Ansaetze" → "gute" statt "hervorragende", kein Steigerungsadverb, Verb "fand" statt "entwickelte". Themenbereich Innovation.
 
-**Beispiel 5 – Note 1:** "Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" → Steigerer "stets sehr weit", expliziter Vergleich "ueber unseren Anforderungen". Themenbereich Arbeitsergebnis.
+**Beispiel 5 – Note 1:** "Arbeitsergebnisse lagen stets sehr weit über unseren Anforderungen" → Steigerer "stets sehr weit", expliziter Vergleich "über unseren Anforderungen". Themenbereich Arbeitsergebnis.
 
 **Beispiel 6 – Note 3:** "war ein geschaetzter Ansprechpartner, sein persönliches Verhalten war einwandfrei" → "geschaetzt" ohne Steigerung, "einwandfrei" ohne "stets". Themenbereich Sozialverhalten.
 

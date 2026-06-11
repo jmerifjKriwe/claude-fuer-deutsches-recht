@@ -3,7 +3,7 @@ name: entfristung-elektronische-signatur-vorsicht
 description: "Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht: echte qualifizierte..."
 ---
 
-# Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht
+# Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genügen nicht
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Elektronische Signaturen und Befristungsabreden: einfache Signatur
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht; echte qualifizierte elektronische Signatur nach § 126a BGB kann die Schriftform ersetzen. Prüft DocuSign Adobe Sign HelloSign Zertifikate, beide Parteien, Timing, Zugang und Rechtsfolge § 16 Satz 1 TzBfG.
+**Fokus:** Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genügen nicht; echte qualifizierte elektronische Signatur nach § 126a BGB kann die Schriftform ersetzen. Prüft DocuSign Adobe Sign HelloSign Zertifikate, beide Parteien, Timing, Zugang und Rechtsfolge § 16 Satz 1 TzBfG.
 
 ### Vorsicht: Elektronische Signaturen bei Befristungsabreden
 

@@ -22,7 +22,7 @@ description: "Geführter Gesamtmit 50-Skill-Routing: Pflicht, Datenraum, Portal,
 
 ## Leitfragen
 
-1. Soll das System nur pruefen oder auch eine Registrierungsmappe erzeugen?
+1. Soll das System nur prüfen oder auch eine Registrierungsmappe erzeugen?
 2. Welche Daten fehlen noch?
 3. Wer gibt den Eintrag final frei?
 
@@ -40,7 +40,7 @@ description: "Geführter Gesamtmit 50-Skill-Routing: Pflicht, Datenraum, Portal,
 
 - Stop, wenn der Pflichtgrund unklar ist und eine Registrierungspflicht realistisch sein kann.
 - Stop, wenn Pflichtfelder auf Schaetzungen ohne Verantwortliche beruhen.
-- Stop, wenn Finanzdaten nicht auf ein Geschaeftsjahr und eine Methode zurueckgefuehrt werden koennen.
+- Stop, wenn Finanzdaten nicht auf ein Geschaeftsjahr und eine Methode zurueckgefuehrt werden können.
 - Stop, wenn die Freigabeperson nicht zur Rechtsform passt.
 - Stop, wenn ein Regelungsvorhaben bereits kontaktrelevant ist, aber im Register noch fehlt.
 - Stop, wenn die Nutzerin eine API-Einreichung erwartet, obwohl nur ein lesender Zugriff auf öffentliche Registerdaten dokumentiert ist.

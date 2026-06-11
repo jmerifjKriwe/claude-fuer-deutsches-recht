@@ -12,7 +12,7 @@ Diese Unterlagenprüfung für **Wandeldarlehen Lebenszyklus** benennt fehlende D
 ## Fachlandkarte dieses Plugins
 
 - `begleitet-erstpruefung-und-mandatsziel` — Begleitet Erstpruefung und Mandatsziel
-- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis Pruefung
+- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis Prüfung
 - `beurkundungspruefung-quellenkarte-check` — Beurkundungspruefung Quellenkarte Check
 - `bilingual-einsprachig` — Bilingual Einsprachig
 - `bilinguale-vertragserstellung` — Bilinguale Vertragserstellung

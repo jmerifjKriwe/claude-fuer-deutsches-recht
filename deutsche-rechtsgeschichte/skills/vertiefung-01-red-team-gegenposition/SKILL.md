@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte Vertiefung: Red-Team-Gegenposition zu ei
 
 ## Worum es geht
 
-Das Red-Team-Verfahren ist die systematische Herausforderung einer rechtshistorischen These. Es prueft: (1) Ist die Quellengrundlage tragfaehig? (2) Liegt ein Anachronismus vor? (3) Gibt es Gegenquellen oder Gegenpositionen in der Forschung? (4) Ist die Periodisierung korrekt? (5) Wird Kontinuitaet behauptet, wo tatsaechlich ein Bruch vorliegt? Im rechtshistorischen Kontext sind typische Red-Team-Angriffspunkte: ueberzogene Teleologie (Geschichte war so, weil es so kommen musste), Hagiographie (Savigny als unfehlbarer Wissenschaftler), Verdammungsmuster (NS-Recht ohne Differenzierung), und Modernisierungsnarrativ (jede spaetere Epoche ist fortschrittlicher als die fruehere).
+Das Red-Team-Verfahren ist die systematische Herausforderung einer rechtshistorischen These. Es prüft: (1) Ist die Quellengrundlage tragfaehig? (2) Liegt ein Anachronismus vor? (3) Gibt es Gegenquellen oder Gegenpositionen in der Forschung? (4) Ist die Periodisierung korrekt? (5) Wird Kontinuitaet behauptet, wo tatsaechlich ein Bruch vorliegt? Im rechtshistorischen Kontext sind typische Red-Team-Angriffspunkte: ueberzogene Teleologie (Geschichte war so, weil es so kommen musste), Hagiographie (Savigny als unfehlbarer Wissenschaftler), Verdammungsmuster (NS-Recht ohne Differenzierung), und Modernisierungsnarrativ (jede spaetere Epoche ist fortschrittlicher als die fruehere).
 
 ## Kernnormen / Kernquellen
 
@@ -47,7 +47,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.

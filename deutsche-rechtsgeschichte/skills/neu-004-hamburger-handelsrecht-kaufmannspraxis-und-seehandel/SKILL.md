@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -40,14 +40,14 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 - **Hamburger Stadtrecht 1605** (gedruckt) — wesentliche Privatrechts- und Handelsregeln.
 - **Wechselordnung Hamburg 1711, 1786** — Vorlaeufer der Allgemeinen Deutschen Wechselordnung 1848.
-- **Seerecht** Hamburg: Beruehmt für die Pruefung von Schiffsschaeden, Havarie und Pirate-Faellen.
+- **Seerecht** Hamburg: Beruehmt für die Prüfung von Schiffsschaeden, Havarie und Pirate-Faellen.
 - **Boersengericht**: spezielle Gerichtsbarkeit für Boersenstreitigkeiten.
 - **Versicherungsrecht**: Hamburg fuehrend in der Praxis (London und Amsterdam parallel).
 
 ## Internationale Bezuege
 
 - Lloyds-Style Risikoteilung.
-- Bottomry-Vertraege ("Bodmerei") als seerechtliches Sicherungsmittel.
+- Bottomry-Verträge ("Bodmerei") als seerechtliches Sicherungsmittel.
 - Maklerbestellung durch Senat.
 
 ## Wege zur Reichsvereinheitlichung
@@ -65,6 +65,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Subsumtionsbeispiel: Generalhavarie 1820
 
-Schiff aus Hamburg im Sturm; Teil der Ladung ueber Bord geworfen.
+Schiff aus Hamburg im Sturm; Teil der Ladung über Bord geworfen.
 - Hamburger Recht: Lex Rhodia in Praxis uebernommen; anteilige Schadenstragung.
 - Heute: York-Antwerp Rules + HGB §§ 588 ff. (Reform 2013).

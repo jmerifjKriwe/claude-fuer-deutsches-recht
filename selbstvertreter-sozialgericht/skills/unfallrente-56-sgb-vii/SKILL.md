@@ -13,7 +13,7 @@ description: "Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen M
 
 ## Anspruch § 56 SGB VII
 
-Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbeitsunfall, BK) eine MdE von mindestens 20 Prozent ueber 26 Wochen hinaus erleidet.
+Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbeitsunfall, BK) eine MdE von mindestens 20 Prozent über 26 Wochen hinaus erleidet.
 
 ## Minderung der Erwerbsfaehigkeit (MdE)
 
@@ -24,7 +24,7 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 ## MdE-Tabellen
 
 - BG-Bundesvereinigung Tabellen für typische Schadensbilder.
-- Bei Streit individuell zu pruefen.
+- Bei Streit individuell zu prüfen.
 
 ## Berechnung
 
@@ -34,11 +34,11 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 
 ## Stuetzfunktion
 
-- Mehrere Arbeitsunfaelle mit MdE unter 20 Prozent koennen zusammen Anspruch begruenden.
+- Mehrere Arbeitsunfaelle mit MdE unter 20 Prozent können zusammen Anspruch begruenden.
 
 ## Verhaeltnis zur EM-Rente
 
-- Beide Rentensystem koennen nebeneinander bestehen.
+- Beide Rentensystem können nebeneinander bestehen.
 - Anrechnung im jeweiligen Systen.
 
 ## Befristung

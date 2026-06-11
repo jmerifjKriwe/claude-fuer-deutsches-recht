@@ -122,7 +122,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - §§ 29-39 WpUEG — Pflichtangebot: ab Erwerb von 30 % der Stimmrechte; Angebotspreis mindestens Durchschnittskurs der letzten 3 Monate
 - §§ 10-14 WpUEG — Angebotsunterlagen: Pflichtinhalt, BaFin-Gestattung, Fristen; Stellungnahme des Vorstands
-- Art. 7, 17 MAR — Insiderinformation und Ad-hoc-Mitteilung: Definition Insiderinformation; Aufschub bis zu Klaerung unter engen Bedingungen (Art. 17 Abs. 4 MAR); Insiderliste (Art. 18 MAR)
+- Art. 7, 17 MAR — Insiderinformation und Ad-hoc-Mitteilung: Definition Insiderinformation; Aufschub bis zu Klärung unter engen Bedingungen (Art. 17 Abs. 4 MAR); Insiderliste (Art. 18 MAR)
 - §§ 33-47 WpHG — Stimmrechtsmitteilungen: Meldeschwellen 3 %, 5 %, 10 %, 15 %, 20 %, 25 %, 30 %, 50 %, 75 %
 - §§ 327a-327f AktG — Squeeze-out: ab 95 % Anteil; Abfindungspflicht; Spruchverfahren
 
@@ -138,20 +138,20 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. **Insiderinformations-Check:** existiert eine Insiderinformation? (Art. 7 MAR) — M&A-Verhandlungen sind typischerweise Insiderinformationen ab dem Zeitpunkt konkreter Vereinbarungen
 2. **Ad-hoc-Meldung planen:** Zeitpunkt bestimmen; Aufschub nach Art. 17 Abs. 4 MAR dokumentieren; BaFin-Notifikation bei Aufschub
 3. **Insiderliste fuehren:** alle Personen mit Kenntnis der Insiderinformation (Art. 18 MAR); DSGVO-konforme Aufbewahrung; BaFin-Anfrage vorbereiten
-4. **Stimmrechtsmitteilungen pruefen:** §§ 33 ff. WpHG-Schwellen; bei Schwellenuebergang: Meldepflicht innerhalb von 4 Handelstagen
+4. **Stimmrechtsmitteilungen prüfen:** §§ 33 ff. WpHG-Schwellen; bei Schwellenuebergang: Meldepflicht innerhalb von 4 Handelstagen
 5. **WpUEG-Pflichten:** Pflichtangebot ab 30 % Stimmrechte; Angebotsunterlage BaFin-Gestattung; Stellungnahme Vorstand und AR
-6. **Marktgerueicht-Protokoll:** bei Marktgerueicht: sofortige Ad-hoc-Pruefung; ggf. Bestaetigung oder Dementi; Kommunikationsprotokoll
+6. **Marktgerueicht-Protokoll:** bei Marktgerueicht: sofortige Ad-hoc-Prüfung; ggf. Bestaetigung oder Dementi; Kommunikationsprotokoll
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — MAR-Insiderlisten-Eintrag für Mittelstand-M-and-A | Insiderlisten-Eintrag nach Schema; Template unten |
 | Variante A — Keine Boersennotiertung keine MAR-Pflicht | Nur interne Dokumentation; keine MAR-Veroeffentlichung |
 | Variante B — Transaktion noch nicht entschieden | Fruehzeitige Insiderliste anlegen; Insiderinformation noch unklar |
-| Variante C — Kleine Transaktion unter Schwellenwert | Vereinfachte Dokumentation; formale MAR-Pflichten pruefen |
+| Variante C — Kleine Transaktion unter Schwellenwert | Vereinfachte Dokumentation; formale MAR-Pflichten prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -175,7 +175,7 @@ AD-HOC-AUFSCHUB:
  BaFin-Notifikation: [ ] Ausstehend [ ] Erfolgt am [DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -211,6 +211,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 <!-- AUDIT 27.05.2026
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Massnahme: Beschreibung korrigiert auf tatsaechlichen Inhalt: Kapitalanleger-Musterverfahren Daimler/Geltl; Insiderinformation bei gestrecktem Geschehensablauf, § 13 WpHG / Art. 7 MAR; Fundstelle NZG 2013, 708 (nicht 785).
+Maßnahme: Beschreibung korrigiert auf tatsaechlichen Inhalt: Kapitalanleger-Musterverfahren Daimler/Geltl; Insiderinformation bei gestrecktem Geschehensablauf, § 13 WpHG / Art. 7 MAR; Fundstelle NZG 2013, 708 (nicht 785).
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.04.2013&Aktenzeichen=II+ZB+7%2F09
 -->

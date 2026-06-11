@@ -20,7 +20,7 @@ description: "Jugendliche Zeugen (Alter 14 bis 18 sowie Heranwachsende): Entwick
 
 ## Worum geht es
 
-Jugendliche Zeugen (etwa 14 bis 17 Jahre alt) und Heranwachsende (18 bis 20) liegen aussagepsychologisch zwischen den klar geregelten Kategorien des kindlichen und des erwachsenen Zeugen. Sie verfuegen ueber weitgehend ausgebildete sprachliche und kognitive Faehigkeiten, sind aber besonders in Identitaetsbildung, Peergroup-Orientierung, Loyalitaetskonflikten und emotionaler Regulation. Diese Spezifika beeinflussen Aussagebereitschaft und Aussageinhalt — und werden in der Praxis oft unterschaetzt.
+Jugendliche Zeugen (etwa 14 bis 17 Jahre alt) und Heranwachsende (18 bis 20) liegen aussagepsychologisch zwischen den klar geregelten Kategorien des kindlichen und des erwachsenen Zeugen. Sie verfuegen über weitgehend ausgebildete sprachliche und kognitive Faehigkeiten, sind aber besonders in Identitaetsbildung, Peergroup-Orientierung, Loyalitaetskonflikten und emotionaler Regulation. Diese Spezifika beeinflussen Aussagebereitschaft und Aussageinhalt — und werden in der Praxis oft unterschaetzt.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die entwicklungspsychologischen Grundlagen, die typischen Fehlerquellen und das Replik-Werkzeug für Verfahren mit jugendlichen Belastungszeugen.
 
@@ -30,7 +30,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Praefrontaler Cortex (zuständig für Impulskontrolle, Risikobewertung, Konsequenzbedenken) reift bis etwa zum 25. Lebensjahr.
 - Emotional regulationsfaehig, aber unter Stress eingeschraenkt.
 - Identitaetsbildung mit starker Peergroup-Orientierung.
-- Loyalitaetskonflikte (Eltern, Freundeskreis, Partner) ausgepraegt.
+- Loyalitaetskonflikte (Eltern, Freundeskreis, Partner) ausgeprägt.
 - Sexualitaet und Sexualbeziehungen werden mit Unsicherheit, Scham und Ambivalenz erlebt.
 - Risikobereitschaft und Realitaetstest schwanken.
 
@@ -45,22 +45,22 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 **Suggestibilitaet.** Jugendliche sind weniger suggestibel als Kinder, aber empfindlicher als Erwachsene. Besonders gegenueber Autoritaetspersonen (Polizei, Schule, Therapeuten). Wiederholungsfragen werden besonders haeufig als Korrekturaufforderung interpretiert.
 
 **Belastungsfaktoren in der Vernehmung.**
-- Unbekannte Vernehmungssituation, Unsicherheit ueber Konsequenzen.
+- Unbekannte Vernehmungssituation, Unsicherheit über Konsequenzen.
 - Anwesenheit (oder fehlende Anwesenheit) der Eltern.
 - Sprachliche Hemmungen bei Sexualthemen.
 - Stress bis hin zu dissoziativen Reaktionen.
 - Loyalitaetskonflikt zwischen Wahrheit und sozialem Druck.
 
-**Heranwachsende.** Ab 18 Jahre strafrechtlich grundsaetzlich Erwachsene, koennen aber im JGG-Verfahren mit Jugendstrafrecht behandelt werden (§ 105 JGG). Aussagepsychologisch oft noch jugendnahes Profil.
+**Heranwachsende.** Ab 18 Jahre strafrechtlich grundsätzlich Erwachsene, können aber im JGG-Verfahren mit Jugendstrafrecht behandelt werden (§ 105 JGG). Aussagepsychologisch oft noch jugendnahes Profil.
 
 ## Praktikertipps Verteidigung
 
 - **Vernehmungssituation kritisch lesen.** Wer war anwesend? Wer hat die Anzeige initiiert? Welche Latenz? Welche Vorbesprechungen?
-- **Loyalitaets- und Schutzkonstellationen pruefen.** Wer steht hinter der Zeugin? Gibt es einen Konflikt mit dem Mandanten? Wem koennte die Belastung nutzen?
-- **Peer-Einfluss dokumentieren.** Chatverlaeufe, Social-Media-Aktivitaet, Freundeskreis. Wer hat mit der Zeugin ueber den Vorwurf gesprochen?
+- **Loyalitaets- und Schutzkonstellationen prüfen.** Wer steht hinter der Zeugin? Gibt es einen Konflikt mit dem Mandanten? Wem koennte die Belastung nutzen?
+- **Peer-Einfluss dokumentieren.** Chatverlaeufe, Social-Media-Aktivitaet, Freundeskreis. Wer hat mit der Zeugin über den Vorwurf gesprochen?
 - **Sexualgrauzonen aufzeigen.** Bei Sexualdelikten mit jugendlichen Zeugen: Konsens-Frage, Mehrdeutigkeiten, Beziehungsdynamik dokumentieren.
 - **Schulische und familiaere Vorgeschichte beruecksichtigen.** Schulische Probleme, Streit mit Eltern, Trennung der Eltern — alle als motivationale Faktoren denkbar.
-- **§ 58a StPO und § 247a StPO nutzen.** Auch bei jugendlichen Zeugen audiovisuelle Vernehmung praefer. Wenn moeglich, in Hauptverhandlung Wiederholung vermeiden, um sekundaerer Viktimisierung vorzubeugen.
+- **§ 58a StPO und § 247a StPO nutzen.** Auch bei jugendlichen Zeugen audiovisuelle Vernehmung praefer. Wenn möglich, in Hauptverhandlung Wiederholung vermeiden, um sekundaerer Viktimisierung vorzubeugen.
 - **Hilfsbeweisantrag SV-Gutachten.** Bei substanziellen Anhaltspunkten geboten. Entwicklungspsychologische Kompetenz erforderlich.
 
 ## Trade-off-Matrix
@@ -82,7 +82,7 @@ Im Plaedoyer differenziert und respektvoll: "Die Zeugin ist 16 Jahre alt. Sie is
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten unter besonderer Beruecksichtigung der entwicklungspsychologischen Besonderheiten Jugendlicher zur Aussage der Zeugin [Name], geboren am [Datum], einzuholen. Schwerpunkte: Aussagebereitschaft im Kontext der Loyalitaetslage; Suggestibilitaet gegenueber Autoritaetspersonen; Stresseinfluss in den Vernehmungssituationen am [Daten]; Peer-Einfluss durch [konkret]; Familienkonflikt durch [konkret]."
 
 **Mustersatz für Plaedoyer:**
-"Eine jugendliche Zeugin ist nicht unglaubwuerdig — und sie ist auch nicht automatisch glaubhaft. Sie ist in einer Lebensphase, in der die Aussage von mehr als nur dem Erlebnis abhaengt: Loyalitaeten zur Familie, zum Freundeskreis, zur Partnerschaft; Sexualgrauzonen mit Unsicherheit; Stress unter Vernehmung. Diese Faktoren erfordern eine sorgfaeltige aussagepsychologische Pruefung. Eine Eindrucksbewertung genuegt nicht."
+"Eine jugendliche Zeugin ist nicht unglaubwuerdig — und sie ist auch nicht automatisch glaubhaft. Sie ist in einer Lebensphase, in der die Aussage von mehr als nur dem Erlebnis abhaengt: Loyalitaeten zur Familie, zum Freundeskreis, zur Partnerschaft; Sexualgrauzonen mit Unsicherheit; Stress unter Vernehmung. Diese Faktoren erfordern eine sorgfaeltige aussagepsychologische Prüfung. Eine Eindrucksbewertung genuegt nicht."
 
 ## Quellen Stand 06/2026
 

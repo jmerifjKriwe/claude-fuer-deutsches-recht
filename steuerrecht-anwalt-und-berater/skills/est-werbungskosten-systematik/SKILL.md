@@ -14,7 +14,7 @@ description: "Systematische Pruefung der Abzugsfaehigkeit von Aufwendungen — v
 ## Triage — kläre vor der Bearbeitung
 
 1. Ist die Aufwendung beruflich oder privat veranlasst (Veranlassungsprinzip § 9 § 4 Abs. 4 EStG)?
-2. Liegt gemischte Veranlassung vor — Aufteilung nach objektivem Massstab moeglich?
+2. Liegt gemischte Veranlassung vor — Aufteilung nach objektivem Massstab möglich?
 3. Greift Abzugsverbot § 12 Nr. 1 EStG (Lebensfuehrungsaufwendungen) oder § 4 Abs. 5 EStG (Bewirtung Geschenke)?
 4. Aktuelle Beleglage — Nachweis sicher dokumentiert?
 5. Sonderfall haeusliches Arbeitszimmer § 4 Abs. 5 Nr. 6b EStG bzw. Homeoffice-Pauschale § 4 Abs. 5 Nr. 6c EStG?

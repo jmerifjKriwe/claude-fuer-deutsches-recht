@@ -78,9 +78,9 @@ Objekttabelle und ein einheitliches Risikoschema.
 | §§ 873, 877, 885 BGB | Grundbucheintragung als Entstehungsvoraussetzung dinglicher Rechte |
 | §§ 892, 893 BGB | Oeffentlicher Glaube des Grundbuchs — gutglaeubiger Erwerb |
 | § 883 BGB | Auflassungsvormerkung — schuetzt Eigentuemsverschaffungsanspruch |
-| § 1113 ff. BGB | Hypothek und Grundschuld — Unterschied pruefen |
+| § 1113 ff. BGB | Hypothek und Grundschuld — Unterschied prüfen |
 | § 1192 BGB | Briefgrundschuld — Loeschungsbewilligung + Grundschuldbrief erforderlich |
-| §§ 24 ff. BauGB | Gemeindliches Vorkaufsrecht — Ausnahmen pruefen |
+| §§ 24 ff. BauGB | Gemeindliches Vorkaufsrecht — Ausnahmen prüfen |
 | § 144 BauGB | Sanierungsvermerk — Genehmigungspflicht saemtlicher Verfuegungen |
 | § 2113 BGB | Nacherbenvermerk — eingeschraenkte Verfuegungsbefugnis des Vorerben |
 | GBO | Grundbuchordnung — Verfahren und Eintragungsvoraussetzungen |
@@ -90,13 +90,13 @@ Objekttabelle und ein einheitliches Risikoschema.
 - **BGH 15.04.2021, V ZB 175/20**: Grundbucheintragung — Bewilligung muss bestimmten Inhalt aufweisen; bei Auflassungsvormerkung Konkretisierung des gesicherten Anspruchs erforderlich. Quelle: dejure.org/2021,14528.
 - **BGH 17.09.2021, V ZR 12/21**: WEMoG-Reform; Bauliche Veraenderungen § 20 WEG; Folgen für Grundbucheintragungen bei Sondernutzungsrechten. Quelle: dejure.org/2021,30989.
 - **BGH 25.02.2016, V ZR 244/14**: Loeschungsfaehiges Grundpfandrecht — Voraussetzungen § 1183 BGB. Quelle: dejure.org/2016,5478.
-- **BGH 07.07.2022, V ZB 21/22**: Notarielle Beurkundungsbefugnis ueber Grundstuecksgeschaefte gem. § 311b BGB. Quelle: dejure.org/2022,18504.
+- **BGH 07.07.2022, V ZB 21/22**: Notarielle Beurkundungsbefugnis über Grundstuecksgeschaefte gem. § 311b BGB. Quelle: dejure.org/2022,18504.
 
 Konkrete Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifizieren.
 
 ## — Schritt für Schritt
 
-1. **Grundbuchauszuege anfordern** — aktuell (ggf. amtliches Datumsstempel pruefen); bei Portfolio: Grundbuchamts-CSV abrufen
+1. **Grundbuchauszuege anfordern** — aktuell (ggf. amtliches Datumsstempel prüfen); bei Portfolio: Grundbuchamts-CSV abrufen
 2. **Abt. I — Eigentuemerkette** — Luecken im Eigentumsuebergang? Erbfolgenachweis (Erbschein/Erbvertrag) aktuell?
 3. **Abt. II — Lasten und Beschraenkungen** — Vorkaufsrechte, Dienstbarkeiten, Nacherbenvermerk, Sanierungsvermerk?
 4. **Abt. III — Grundpfandrechte** — Brief- oder Buchgrundschuld? Loeschungsbewilligung beschaffbar? Zession geprueft?
@@ -112,7 +112,7 @@ Konkrete Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifi
 
 ## Grenzen
 
-Der Skill ersetzt nicht die Pruefung durch einen Immobilienjuristen.
+Der Skill ersetzt nicht die Prüfung durch einen Immobilienjuristen.
 Er liefert Vorstrukturierung und Risiko-Heatmap, damit der Mensch
 seine Zeit dort einsetzt, wo es wirklich brennt.
 

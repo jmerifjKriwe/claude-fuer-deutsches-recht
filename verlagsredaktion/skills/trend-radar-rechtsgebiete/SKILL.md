@@ -19,7 +19,7 @@ Anders als der Themenscout (der einzelne Entscheidungen scannt) sucht der Trend-
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn für Programm- und Produktstrategie: neue Reihen, neue Zeitschriften, neue Loseblattwerke, neue Online-Kommentare. Klaeren Sie:
+Sie brauchen ihn für Programm- und Produktstrategie: neue Reihen, neue Zeitschriften, neue Loseblattwerke, neue Online-Kommentare. Klären Sie:
 
 1. Welcher Beobachtungszeitraum (rolling 24 Monate Standard)?
 2. Welche Rechtsgebiete im Scope (selektiv oder Vollscan)?
@@ -40,7 +40,7 @@ Sie brauchen ihn für Programm- und Produktstrategie: neue Reihen, neue Zeitschr
 2. **Quellenfaecher pro Cluster.** Pro Cluster: 4-6 zentrale Quellen, freie Tickerlinks, Verbandsstimmen.
 3. **Quartalsweise Sichtung.** Pro Cluster ein einseitiger Quartalsbericht: was war, wohin laeuft es, naechste Wegmarken.
 4. **Querverbindungen.** Welche zwei Cluster kreuzen sich (z. B. KI im Steuerrecht)? Querhinweise im Memo.
-5. **Programm-Konsequenzen.** Pro Cluster: welche Verlagsprodukte koennen reagieren (neuer Aufsatz, neue Online-Kommentar-Ressource, neue Reihe)?
+5. **Programm-Konsequenzen.** Pro Cluster: welche Verlagsprodukte können reagieren (neuer Aufsatz, neue Online-Kommentar-Ressource, neue Reihe)?
 6. **Briefing für Verlagsleitung** mit klarer Empfehlung "weiterbeobachten" / "Aufbau eigener Reihe" / "in bestehende Reihe integrieren".
 
 ## Trade-off-Matrix

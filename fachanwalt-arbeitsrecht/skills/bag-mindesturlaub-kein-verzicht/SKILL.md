@@ -43,7 +43,7 @@ Tragende Aussage: Im laufenden Arbeitsverhaeltnis ist ein Verzicht auf den geset
 
 Offene Quelle: dejure.org, Vernetzung BAG 03.06.2025 - 9 AZR 104/24; BAG-Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich".
 
-Erst mit Beendigung des Arbeitsverhaeltnisses entsteht der Anspruch auf Urlaubsabgeltung in Geld (Paragraf 7 Absatz 4 BUrlG). Dieser ist als reiner Geldanspruch dispositiv und kann grundsaetzlich vergleichsweise erledigt werden — allerdings nur mit klarer, konkret bezifferter Klausel.
+Erst mit Beendigung des Arbeitsverhaeltnisses entsteht der Anspruch auf Urlaubsabgeltung in Geld (Paragraf 7 Absatz 4 BUrlG). Dieser ist als reiner Geldanspruch dispositiv und kann grundsätzlich vergleichsweise erledigt werden — allerdings nur mit klarer, konkret bezifferter Klausel.
 
 ## Konsequenz für Vergleiche und Aufhebungsvertraege
 
@@ -56,20 +56,20 @@ Die saubere Vergleichsformulierung trennt drei Schichten:
 
 ## Pruefschema
 
-| Schritt | Pruefung |
+| Schritt | Prüfung |
 | --- | --- |
-| 1 | Hoehe Mindesturlaub feststellen |
+| 1 | Höhe Mindesturlaub feststellen |
 | 2 | Bereits genommene Urlaubstage abziehen |
 | 3 | Resturlaubsanspruch ermitteln |
 | 4 | Verfallspruefung Paragraf 7 Absatz 3 BUrlG mit Hinweispflicht des Arbeitgebers |
-| 5 | Krankheit und Uebertragungsfrist pruefen |
-| 6 | Vergleichsformulierung pruefen: Mindesturlaub gesondert ausgewiesen |
+| 5 | Krankheit und Uebertragungsfrist prüfen |
+| 6 | Vergleichsformulierung prüfen: Mindesturlaub gesondert ausgewiesen |
 | 7 | Bei Aufhebungsvertrag: Freistellung in natura oder Geldabgeltung klar geregelt |
-| 8 | Bei bereits geschlossenem Vergleich mit Pauschalklausel: Nachforderung moeglich |
+| 8 | Bei bereits geschlossenem Vergleich mit Pauschalklausel: Nachforderung möglich |
 
 ## Empfohlene Vergleichsformulierung
 
-Die Parteien sind sich darueber einig, dass das Arbeitsverhaeltnis zum [Datum] endet. Bis zum Beendigungstermin ist die Klaegerin unwiderruflich von der Arbeitsleistung freigestellt. Saemtliche Urlaubsansprueche, einschliesslich des gesetzlichen Mindesturlaubs nach Paragraf 3 BUrlG sowie des vertraglichen Mehrurlaubs, werden waehrend der Freistellung in natura gewaehrt und sind damit erfuellt. Sollten Urlaubsansprueche aufgrund von Arbeitsunfaehigkeit nicht in natura gewaehrt werden koennen, werden diese zum Beendigungstermin als Urlaubsabgeltung nach Paragraf 7 Absatz 4 BUrlG in Hoehe von brutto [Betrag] Euro ausgezahlt.
+Die Parteien sind sich darueber einig, dass das Arbeitsverhaeltnis zum [Datum] endet. Bis zum Beendigungstermin ist die Klaegerin unwiderruflich von der Arbeitsleistung freigestellt. Saemtliche Urlaubsansprueche, einschliesslich des gesetzlichen Mindesturlaubs nach Paragraf 3 BUrlG sowie des vertraglichen Mehrurlaubs, werden waehrend der Freistellung in natura gewaehrt und sind damit erfuellt. Sollten Urlaubsansprueche aufgrund von Arbeitsunfaehigkeit nicht in natura gewaehrt werden können, werden diese zum Beendigungstermin als Urlaubsabgeltung nach Paragraf 7 Absatz 4 BUrlG in Höhe von brutto [Betrag] Euro ausgezahlt.
 
 ## Klausel-Verbote
 

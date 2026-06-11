@@ -114,7 +114,7 @@ IV. VERAENDERUNG FINANZMITTELFONDS [X]
 
 - Endsaldo Finanzmittelfonds = Bilanzposten "Liquide Mittel" zum Endstichtag? (Mussmatch sein.)
 - Vergleich Vorjahr: aussergewoehnliche Veraenderungen kenntlich machen.
-- Zusammenwirken mit Bewegungsbilanz pruefen.
+- Zusammenwirken mit Bewegungsbilanz prüfen.
 
 ### Phase 6 — Erlaeuterung und Versand
 

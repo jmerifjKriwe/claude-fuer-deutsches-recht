@@ -63,7 +63,7 @@ Ein Franchisegeber möchte das gesamte System umbenennen (Rebranding), die Marke
 
 ## Vertiefung
 
-Rebranding-Massnahmen, die das gesamte Franchisesystem betreffen, sind eine erhebliche Herausforderung für die Systemkohärenz. Der BGH hat klargestellt, dass der Franchisegeber das System weiterentwickeln darf und muss; er darf aber die wirtschaftliche Existenzgrundlage des Franchisenehmers nicht einseitig verändern.
+Rebranding-Maßnahmen, die das gesamte Franchisesystem betreffen, sind eine erhebliche Herausforderung für die Systemkohärenz. Der BGH hat klargestellt, dass der Franchisegeber das System weiterentwickeln darf und muss; er darf aber die wirtschaftliche Existenzgrundlage des Franchisenehmers nicht einseitig verändern.
 
 Die Grenze zwischen zulässiger Systemevolution und unzulässigem einseitigem Leistungsänderungsrecht nach § 308 Nr. 4 BGB wird von Gerichten im Einzelfall bestimmt. Entscheidende Faktoren sind: Ausmass der Änderung, sachliche Begründung, Übergangsfrist und finanzielle Beteiligung des Franchisegebers an den Umbaukosten.
 

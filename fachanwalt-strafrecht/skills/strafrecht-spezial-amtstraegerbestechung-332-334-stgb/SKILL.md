@@ -37,7 +37,7 @@ Abgrenzung zu §§ 331 / 333 StGB (Vorteilsannahme / Vorteilsgewaehrung — kein
 
 ### § 332 Abs. 1 StGB Bestechlichkeit (Nehmer)
 
-Wer als **Amtstraeger, Europaeischer Amtstraeger oder für den öffentlichen Dienst besonders Verpflichteter** einen Vorteil für sich oder einen Dritten **als Gegenleistung dafür fordert, sich versprechen laesst oder annimmt, dass er eine Diensthandlung vorgenommen hat oder kuenftig vornehme** und dadurch **seine Dienstpflichten verletzt hat oder verletzen wuerde**.
+Wer als **Amtstraeger, Europaeischer Amtstraeger oder für den öffentlichen Dienst besonders Verpflichteter** einen Vorteil für sich oder einen Dritten **als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er eine Diensthandlung vorgenommen hat oder kuenftig vornehme** und dadurch **seine Dienstpflichten verletzt hat oder verletzen wuerde**.
 
 ### § 332 Abs. 2 StGB Bestechlichkeit Richter
 
@@ -51,7 +51,7 @@ Spiegelbildlich zu § 332 StGB.
 
 - **Pflichtwidrige Diensthandlung.** Verstoss gegen Dienstvorschriften, Gesetze, ermessensbeschraenkende Vorgaben.
 - **Unrechtsvereinbarung.** Direkter Bezug Vorteil ↔ Diensthandlung.
-- **Auch bei pflichtgemaessen, aber ermessensbeeinflussten Handlungen** kann Pflichtwidrigkeit vorliegen, wenn der Amtstraeger sich von sachfremden Erwaegungen leiten laesst (BGH staendige Rspr.).
+- **Auch bei pflichtgemaessen, aber ermessensbeeinflussten Handlungen** kann Pflichtwidrigkeit vorliegen, wenn der Amtstraeger sich von sachfremden Erwaegungen leiten lässt (BGH staendige Rspr.).
 - **Versuchsstrafbarkeit** §§ 332 Abs. 1 Satz 2, 334 Abs. 1 Satz 2 StGB ausdruecklich.
 
 ### Strafrahmen
@@ -60,7 +60,7 @@ Spiegelbildlich zu § 332 StGB.
 - § 332 Abs. 2 StGB: Richter — ein bis zehn Jahre.
 - § 334 Abs. 1 StGB: drei Monate bis fuenf Jahre.
 - § 334 Abs. 2 StGB: bei Richter — sechs Monate bis fuenf Jahre.
-- **§ 335 StGB besonders schwere Faelle:** Ein bis zehn Jahre. Regelbeispiele: Vorteil grossen Ausmasses (i. d. R. ab ca. 50.000 EUR), fortgesetzte Begehung, Bandenmaessig.
+- **§ 335 StGB besonders schwere Faelle:** Ein bis zehn Jahre. Regelbeispiele: Vorteil großen Ausmasses (i. d. R. ab ca. 50.000 EUR), fortgesetzte Begehung, Bandenmaessig.
 
 ## Praktikertipps Verteidigung
 
@@ -69,7 +69,7 @@ Spiegelbildlich zu § 332 StGB.
 - **Amtstraegereigenschaft.** Bei freien Beratern, Aussenbeamten, kommunalen Mandatstraegern Streit (BGH zum Amtstraegerbegriff § 11 StGB). Aktenzeichen vor Verwendung verifizieren.
 - **Vorsatz angreifen.** Bei komplexer Behördenstruktur kann der Geber die Pflichtwidrigkeit nicht erkennen.
 - **Aufklaerungshilfe § 46b StGB.** Bei Komplex-Korruption oft erhebliche Strafmilderung.
-- **Verstaendigung § 257c StPO** mit Bewaehrung bei Erstdelikt moeglich, wenn vollstaendige Wiedergutmachung.
+- **Verstaendigung § 257c StPO** mit Bewaehrung bei Erstdelikt möglich, wenn vollstaendige Wiedergutmachung.
 
 ## Trade-off-Matrix
 
@@ -95,7 +95,7 @@ Spiegelbildlich zu § 332 StGB.
 
 - **Strafrahmen** §§ 332 Abs. 1, 334 Abs. 1 sechs Monate bis fuenf Jahre / drei Monate bis fuenf Jahre.
 - **§ 335 StGB** besonders schwere Faelle ein bis zehn Jahre.
-- **§ 46 StGB** Hoehe Vorteil, Wettbewerbsschaden, öffentliches Interesse, Wiedergutmachung.
+- **§ 46 StGB** Höhe Vorteil, Wettbewerbsschaden, öffentliches Interesse, Wiedergutmachung.
 - **Einziehung § 73 StGB** zwingend (Vorteilsgegenstand sowie der durch die Diensthandlung erlangte Vermoegensvorteil).
 - **§ 73d StGB erweiterte Einziehung** bei Strukturen.
 - **Berufsverbot § 70 StGB / Dienstentfernung § 13 BDG**.
@@ -116,7 +116,7 @@ Spiegelbildlich zu § 332 StGB.
 
 ### Aufklaerungshilfe § 46b StGB
 
-"Der Mandant ist bereit, im Wege der Aufklaerungshilfe gemaess § 46b StGB umfassend ueber die Korruptionsstrukturen im [Behörde] auszusagen. Er hat insbesondere Kenntnis ueber die Rolle der Personen [Namen] und kann zur Aufklaerung folgender weiterer Taten beitragen: [...]. Es wird eine Strafmilderung nach § 49 Abs. 1 StGB beantragt."
+"Der Mandant ist bereit, im Wege der Aufklaerungshilfe gemäß § 46b StGB umfassend über die Korruptionsstrukturen im [Behörde] auszusagen. Er hat insbesondere Kenntnis über die Rolle der Personen [Namen] und kann zur Aufklaerung folgender weiterer Taten beitragen: [...]. Es wird eine Strafmilderung nach § 49 Abs. 1 StGB beantragt."
 
 ## Quellen Stand 06/2026
 

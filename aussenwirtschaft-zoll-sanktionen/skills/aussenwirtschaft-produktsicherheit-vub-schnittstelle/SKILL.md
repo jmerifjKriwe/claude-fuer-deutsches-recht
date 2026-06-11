@@ -22,10 +22,10 @@ description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verbote
 ## Erste Schritte
 
 1. Produktkategorie identifizieren und anwendbare EU-Richtlinien/Verordnungen bestimmen (LVD, EMV, SpielzeugRL).
-2. CE-Kennzeichnungspflicht pruefen und Konformitaetserklarung vollstaendig?
-3. RAPEX-Datenbank auf Warnmeldungen für Produkt und Modell pruefen.
+2. CE-Kennzeichnungspflicht prüfen und Konformitaetserklarung vollstaendig?
+3. RAPEX-Datenbank auf Warnmeldungen für Produkt und Modell prüfen.
 4. Technische Dokumentation und Pruefberichte vorbereiten.
-5. Zollstellen-VuB-Codes in TARIC für Produktkategorie pruefen.
+5. Zollstellen-VuB-Codes in TARIC für Produktkategorie prüfen.
 6. Bei Aufhaltung: Rechtsmittel und Schnellpruefverfahren koordinieren.
 
 ## Rechtsrahmen
@@ -47,7 +47,7 @@ description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verbote
 
 ## Typische Fallstricke
 
-- CE-Faelschungen aus Drittlaendern; Zollamt und Marktueberwaechungsbehoerde pruefen auf Echtheit.
+- CE-Faelschungen aus Drittlaendern; Zollamt und Marktueberwaechungsbehoerde prüfen auf Echtheit.
 - RAPEX-Meldung loest automatische verstaerkte Kontrolle aus; Importeur nicht immer informiert.
 - Technische Dokumentation nur auf Chinesisch; Zollstelle verlangt deutsche Uebersetzung.
 - Spielzeug-Einzel-Spezifikationen wurden seit Produktionsstart geaendert; Konformitaetserklarung nicht aktualisiert.

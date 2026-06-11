@@ -32,29 +32,29 @@ Das Einfuehrungsgesetz zum KCanG enthaelt eine "Amnestie-Regelung" (Art. 313 EGS
 
 **Grundsatz § 2 Abs. 3 StGB — milderes Gesetz:** Wenn das zur Tatzeit geltende Gesetz mildert worden ist, ist das mildeste anzuwenden. KCanG ist gegenueber BtMG bei reinem Eigenkonsum-Cannabis das mildere Gesetz.
 
-**Phase 1 — Laufende Ermittlungen bei Cannabis-Eigenkonsum:** Bei Tatzeit vor 01.04.2024, aber nicht abgeschlossenem Verfahren: § 2 Abs. 3 StGB. Wenn Cannabis-Menge nach KCanG straflos waere, Einstellung gemaess § 170 Abs. 2 StPO.
+**Phase 1 — Laufende Ermittlungen bei Cannabis-Eigenkonsum:** Bei Tatzeit vor 01.04.2024, aber nicht abgeschlossenem Verfahren: § 2 Abs. 3 StGB. Wenn Cannabis-Menge nach KCanG straflos waere, Einstellung gemäß § 170 Abs. 2 StPO.
 
 **Phase 2 — Anhaengige Strafverfahren mit Anklage/Hauptverhandlung:** Anklage bezieht sich auf altes Recht. Im Urteil ist KCanG als milderes Gesetz anzuwenden. Bei vollstaendiger Straflosigkeit: Freispruch.
 
 **Phase 3 — Rechtskraeftige Verurteilungen:** Art. 313 EGStGB (Amnestie-Regelung, mit aktueller Fassung verifizieren) — Erlass der Strafe oder Aufhebung des Urteils, soweit die Tat nach KCanG nicht mehr strafbar waere.
 
-**Phase 4 — Tilgung Bundeszentralregister:** Bei vollstaendiger Straflosigkeit nach KCanG: Antrag auf Tilgung gemaess § 51 BZRG; bei Teilstraflosigkeit erfolgt Anpassung.
+**Phase 4 — Tilgung Bundeszentralregister:** Bei vollstaendiger Straflosigkeit nach KCanG: Antrag auf Tilgung gemäß § 51 BZRG; bei Teilstraflosigkeit erfolgt Anpassung.
 
 ## Mengen und Schwellen
 
 | Tatzeit | Aktuelle Cannabis-Menge | Folge |
 |---|---|---|
-| vor 01.04.2024 | bis 25 g oeffentlich / 50 g Wohnung / 3 Pflanzen | Straflos nach KCanG; § 2 Abs. 3 StGB; ggf. Amnestie |
-| vor 01.04.2024 | ueber 25/50 g, unterhalb nicht geringer Menge | Milderer Strafrahmen § 34 KCanG; Anwendung als milderes Gesetz |
+| vor 01.04.2024 | bis 25 g öffentlich / 50 g Wohnung / 3 Pflanzen | Straflos nach KCanG; § 2 Abs. 3 StGB; ggf. Amnestie |
+| vor 01.04.2024 | über 25/50 g, unterhalb nicht geringer Menge | Milderer Strafrahmen § 34 KCanG; Anwendung als milderes Gesetz |
 | vor 01.04.2024 | nicht geringe Menge nach altem BtMG | § 34 Abs. 3 / § 35 KCanG je nach Schwere; ggf. Strafmilderung |
-| Tatzeit 01.04.2024 oder spaeter | KCanG | KCanG direkt |
+| Tatzeit 01.04.2024 oder später | KCanG | KCanG direkt |
 
 ## Praktikertipps der Verteidigung
 
 - **Laufendes Verfahren — Antrag § 170 Abs. 2 StPO:** Bei Cannabis-Eigenkonsum unterhalb der KCanG-Schwellen sofort Einstellung beantragen.
 - **Anhaengige Anklage — Antrag KCanG-Anwendung:** Bei Hauptverhandlung Strafrahmen nach KCanG vortragen.
-- **Rechtskraeftige Verurteilung — Amnestie-Antrag:** Antrag auf Erlass der Strafe oder Aufhebung des Urteils nach Art. 313 EGStGB (mit aktueller Norm verifizieren). Zustaendig: Vollstreckungsbehoerde / urteilsgebende Gericht.
-- **Mehrere Strafen:** Bei Gesamtstrafe pruefen, ob einzelne Einzelstrafen entfallen oder zu mindern sind. Gesamtstrafe nach § 55 StGB neu zu bilden.
+- **Rechtskraeftige Verurteilung — Amnestie-Antrag:** Antrag auf Erlass der Strafe oder Aufhebung des Urteils nach Art. 313 EGStGB (mit aktueller Norm verifizieren). Zuständig: Vollstreckungsbehoerde / urteilsgebende Gericht.
+- **Mehrere Strafen:** Bei Gesamtstrafe prüfen, ob einzelne Einzelstrafen entfallen oder zu mindern sind. Gesamtstrafe nach § 55 StGB neu zu bilden.
 - **BZRG-Tilgung:** Wenn die Tat nach KCanG nicht mehr strafbar, Antrag auf Tilgung im Bundeszentralregister (§ 51 BZRG analog/spezialgesetzlich; aktuelle Regelung verifizieren).
 - **Wiederaufnahme:** § 359 StPO ggf. anwendbar (Wiederaufnahmegrund Gesetzesaenderung umstritten — für KCanG existiert die spezielle Amnestieregelung, die § 359 StPO als Verfahren ersetzt).
 
@@ -83,12 +83,12 @@ Das Einfuehrungsgesetz zum KCanG enthaelt eine "Amnestie-Regelung" (Art. 313 EGS
 ## Mustertexte
 
 **Antrag § 170 Abs. 2 StPO bei Cannabis-Altfall:**
-"In dem Ermittlungsverfahren gegen meinen Mandanten wegen Verstosses gegen das BtMG (Tatzeit: [Datum vor 01.04.2024]) beantrage ich Einstellung des Verfahrens gemaess § 170 Abs. 2 StPO.
+"In dem Ermittlungsverfahren gegen meinen Mandanten wegen Verstosses gegen das BtMG (Tatzeit: [Datum vor 01.04.2024]) beantrage ich Einstellung des Verfahrens gemäß § 170 Abs. 2 StPO.
 
-Begruendung: Die meinem Mandanten zur Last gelegte Tat — Besitz von [X] g Cannabis zum Eigenverbrauch — ist nach dem am 01.04.2024 in Kraft getretenen Konsumcannabisgesetz (KCanG) nicht mehr strafbar. Gemaess § 2 Abs. 3 StGB ist das mildere Gesetz, das KCanG, anzuwenden. Die Menge liegt unterhalb der Schwelle des § 3 Abs. 1 Nr. 1 KCanG (25 g im öffentlichen Raum)."
+Begruendung: Die meinem Mandanten zur Last gelegte Tat — Besitz von [X] g Cannabis zum Eigenverbrauch — ist nach dem am 01.04.2024 in Kraft getretenen Konsumcannabisgesetz (KCanG) nicht mehr strafbar. Gemäß § 2 Abs. 3 StGB ist das mildere Gesetz, das KCanG, anzuwenden. Die Menge liegt unterhalb der Schwelle des § 3 Abs. 1 Nr. 1 KCanG (25 g im öffentlichen Raum)."
 
 **Antrag Amnestie/Erlass der Strafe (rechtskraeftiges Urteil):**
-"In der rechtskraeftigen Strafsache gegen meinen Mandanten (Urteil [Gericht] vom [Datum], Az. [X]) beantrage ich den Erlass der Strafe gemaess Art. 313 EGStGB (Amnestieregelung KCanG; mit aktueller Fassung verifizieren).
+"In der rechtskraeftigen Strafsache gegen meinen Mandanten (Urteil [Gericht] vom [Datum], Az. [X]) beantrage ich den Erlass der Strafe gemäß Art. 313 EGStGB (Amnestieregelung KCanG; mit aktueller Fassung verifizieren).
 
 Die abgeurteilte Tat — [Beschreibung Cannabis-Tat] — ist nach dem am 01.04.2024 in Kraft getretenen KCanG nicht mehr strafbar bzw. mit milderem Strafrahmen versehen.
 

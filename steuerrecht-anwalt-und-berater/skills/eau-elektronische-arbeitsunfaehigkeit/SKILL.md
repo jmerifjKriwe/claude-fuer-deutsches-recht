@@ -13,7 +13,7 @@ description: "eAU elektronische Arbeitsunfähigkeitsbescheinigung seit 2023. Anw
 
 ## Kernsachverhalt
 
-Seit 01.01.2023 (mit Uebergangsphase) ist die elektronische Arbeitsunfaehigkeitsbescheinigung (eAU) verpflichtend. AN informiert AG ueber Krankheit; AG ruft eAU-Daten bei der Krankenkasse ueber Schnittstelle ab. Die "gelbe Bescheinigung" auf Papier entfaellt. Voraussetzungen: AG-System mit eAU-Schnittstelle, AN mit GKV (PKV-Versicherte aktuell nicht im eAU-Verfahren).
+Seit 01.01.2023 (mit Uebergangsphase) ist die elektronische Arbeitsunfaehigkeitsbescheinigung (eAU) verpflichtend. AN informiert AG über Krankheit; AG ruft eAU-Daten bei der Krankenkasse über Schnittstelle ab. Die "gelbe Bescheinigung" auf Papier entfaellt. Voraussetzungen: AG-System mit eAU-Schnittstelle, AN mit GKV (PKV-Versicherte aktuell nicht im eAU-Verfahren).
 
 ## Kaltstart-Rueckfragen
 
@@ -49,7 +49,7 @@ Seit 01.01.2023 (mit Uebergangsphase) ist die elektronische Arbeitsunfaehigkeits
 
 - Schnittstelle im Lohnprogramm einrichten (DATEV LODAS / Lohn und Gehalt, Sage HR, eGecko, sage Lohn). Konkrete Programmpfade je Lohnprogramm-Version in der Programm-Onlinehilfe oder Dokumentation nachschlagen.
 - ITSG-Zertifikat erforderlich (Sicherheitszertifikat für SV-Datenuebermittlung); Verlaengerung jaehrlich.
-- Anmeldung des AG zum eAU-Abrufverfahren ueber den GKV-Datenaustausch-Standard (Verfahren der GKV-Spitzenverbaende auf Basis § 109 SGB IV); konkrete technische Konfiguration in der Lohnprogramm-Dokumentation pruefen.
+- Anmeldung des AG zum eAU-Abrufverfahren über den GKV-Datenaustausch-Standard (Verfahren der GKV-Spitzenverbaende auf Basis § 109 SGB IV); konkrete technische Konfiguration in der Lohnprogramm-Dokumentation prüfen.
 
 ### Phase 2 — Krankmeldungs-Prozess
 
@@ -68,8 +68,8 @@ Lohnabrechnung mit Entgeltfortzahlung-Anteil
 ### Phase 3 — Datenrueckmeldung
 
 - Krankenkasse liefert: Anfangs- und Enddatum der AU, fortdauernd ja/nein.
-- Hinweis: Diagnose-Codes werden seit der eAU-Reform regelmaessig **nicht** mehr an den AG uebermittelt (Datenschutz-Aspekt); konkrete Daten-Felder gemaess GKV-Datenuebermittlungs-Standard pruefen.
-- AG-Pflicht: AU-Zeiten in Lohnabrechnung integrieren, Entgeltfortzahlung gemaess § 3 EFZG (bis 6 Wochen).
+- Hinweis: Diagnose-Codes werden seit der eAU-Reform regelmaessig **nicht** mehr an den AG uebermittelt (Datenschutz-Aspekt); konkrete Daten-Felder gemäß GKV-Datenuebermittlungs-Standard prüfen.
+- AG-Pflicht: AU-Zeiten in Lohnabrechnung integrieren, Entgeltfortzahlung gemäß § 3 EFZG (bis 6 Wochen).
 
 ### Phase 4 — Fallback-Verfahren
 
@@ -78,7 +78,7 @@ Lohnabrechnung mit Entgeltfortzahlung-Anteil
 
 ### Phase 5 — Datenschutz
 
-- Im eAU-Verfahren erhaelt der AG nach geltender Praxis grundsaetzlich nur AU-Beginn, AU-Ende und Information ueber Folgebescheinigung — Diagnose-Codes verbleiben bei der Krankenkasse (DSGVO-konform).
+- Im eAU-Verfahren erhaelt der AG nach geltender Praxis grundsätzlich nur AU-Beginn, AU-Ende und Information über Folgebescheinigung — Diagnose-Codes verbleiben bei der Krankenkasse (DSGVO-konform).
 - AG unterliegt Geheimhaltungspflicht hinsichtlich aller AU-bezogenen Daten.
 - Keine Weitergabe an Dritte (Ausnahme: gesetzliche Meldungen).
 

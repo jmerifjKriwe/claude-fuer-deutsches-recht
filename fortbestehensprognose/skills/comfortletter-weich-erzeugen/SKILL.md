@@ -99,11 +99,11 @@ Mit freundlichen Grüßen
 
 ## Paragrafenkette Comfortletter
 
-§ 19 Abs. 2 S. 2 InsO (Passivierungsverbot nur für qualifizierten Rangruecktritt) → § 311 BGB (vorvertragliche Haftung aus Comfortletter) → § 241 Abs. 2 BGB (Schutzpflichten) → § 43 GmbHG (Haftung der Konzernmutter)
+§ 19 Abs. 2 S. 2 InsO (Passivierungsverbot nur für qualifizierten Rangrücktritt) → § 311 BGB (vorvertragliche Haftung aus Comfortletter) → § 241 Abs. 2 BGB (Schutzpflichten) → § 43 GmbHG (Haftung der Konzernmutter)
 
 ## Triage — Comfortletter vs. Patronatserklaerung
 
 1. **Zweck?** Bankgespraech, Fortbestehensprognose oder echte rechtliche Sicherung? → Banken akzeptieren oft Comfortletter; Prognose benoetigt harte Patronatserklaerung.
 2. **Rechtsbindungswillen?** Comfortletter = keine Rechtsbindung; Patronatserklaerung = verbindlich.
-3. **Formulierung?** Vage Formulierungen ("werden unterstuetzen") koennen trotzdem Haftung ausloesen.
-4. **Alternative?** Ersetze Comfortletter durch qualifizierten Rangruecktritt oder harte Patronatserklaerung wenn Fortbestehensprognose abgesichert werden soll.
+3. **Formulierung?** Vage Formulierungen ("werden unterstuetzen") können trotzdem Haftung ausloesen.
+4. **Alternative?** Ersetze Comfortletter durch qualifizierten Rangrücktritt oder harte Patronatserklaerung wenn Fortbestehensprognose abgesichert werden soll.

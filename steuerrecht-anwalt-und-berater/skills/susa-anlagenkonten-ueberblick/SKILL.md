@@ -13,7 +13,7 @@ description: "Anlagenbuchhaltung in der SuSa Anlagenkonten Klasse 0 SKR 03 immat
 
 ## Kernsachverhalt
 
-Anlagenkonten der Klasse 0 (SKR 03) bzw. 0xxx-1xxx (SKR 04) zeigen die Buchwerte des Anlagevermoegens: immaterielle WG, Sachanlagen, Finanzanlagen. Die SuSa enthaelt nur die Saldenstaende; die Detailinformation steckt im Anlagenspiegel (Anlagenverzeichnis). Hauptbuch und Anlagenspiegel muessen abgestimmt sein. Der Steuerberater stellt diese Konsistenz monatlich oder mindestens quartalsweise sicher.
+Anlagenkonten der Klasse 0 (SKR 03) bzw. 0xxx-1xxx (SKR 04) zeigen die Buchwerte des Anlagevermoegens: immaterielle WG, Sachanlagen, Finanzanlagen. Die SuSa enthaelt nur die Saldenstaende; die Detailinformation steckt im Anlagenspiegel (Anlagenverzeichnis). Hauptbuch und Anlagenspiegel müssen abgestimmt sein. Der Steuerberater stellt diese Konsistenz monatlich oder mindestens quartalsweise sicher.
 
 ## Kaltstart-Rueckfragen
 
@@ -94,19 +94,19 @@ Buero-Ausstattung 15.000 6.000 9.000 — — 1.500 7.500
 ### Phase 5 — Sonder-AfA und § 6b EStG
 
 - § 7g EStG: Sonderabschreibung für KMU bis 40 % (für Anschaffungen ab 01.01.2024), IAB bis 50 %; Gewinngrenze 200.000 EUR im Vorjahr (§ 7g Abs. 6 EStG, stabile Rechtslage seit JStG 2020).
-- § 7b EStG: Sonderabschreibung Wohnungsneubau (befristete Förderung; aktuelle Geltungsdauer Stand 2026 pruefen).
+- § 7b EStG: Sonderabschreibung Wohnungsneubau (befristete Förderung; aktuelle Geltungsdauer Stand 2026 prüfen).
 - § 6b EStG Ruecklage: bei Veraeusserung Grund und Boden, Gebaeude — Uebertragung auf Reinvestitionen.
 
 ### Phase 6 — Reporting
 
 - Anlagenspiegel als Anhang zum Jahresabschluss.
-- Monatliche Anlagen-Uebersicht in Quartalsberichten.
+- Monatliche Anlagen-Übersicht in Quartalsberichten.
 - Bei groesseren Investitionen: Beratung zu IAB § 7g EStG.
 
 ## Strategie und Praxis-Tipps
 
 - Anlagenspiegel und Hauptbuch sollten quartalsweise abgestimmt werden.
-- GWG-Pool optional (§ 6 Abs. 2a EStG) — bietet Vereinfachung mit Sammelposten-Abschreibung ueber fuenf Jahre.
+- GWG-Pool optional (§ 6 Abs. 2a EStG) — bietet Vereinfachung mit Sammelposten-Abschreibung über fuenf Jahre.
 - Beim Investitionsabzugsbetrag nach § 7g EStG: Quote 50 Prozent vorab abziehbar, Hoechstbetrag 200.000 EUR; Gewinngrenze 200.000 EUR (stabile Rechtslage seit JStG 2020, § 7g Abs. 1 EStG).
 - Sonderabschreibungen § 7b EStG: befristet für Bauantraege nach 31.12.2022 und vor 01.10.2029 (EH-40-Standard Pflicht); aktiv bis 2029.
 - StBVV: Anlagenbuchhaltung als separater Auftrag oder in Buchfuehrungspauschale.

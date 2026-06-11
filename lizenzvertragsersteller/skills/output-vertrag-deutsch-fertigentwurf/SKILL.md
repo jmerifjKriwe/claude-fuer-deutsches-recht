@@ -11,7 +11,7 @@ description: "Output: vollstaendiger Lizenzvertragsentwurf in deutscher Sprache.
 2. Pro Klausel den passenden Baustein-Skill aufrufen.
 3. Vertrag aus dem unten stehenden Geruest zusammensetzen.
 4. Anlagen A-E aus den entsprechenden Skills einfuegen.
-5. Pruefen mit Self-Test (unten).
+5. Prüfen mit Self-Test (unten).
 
 ## Vertragsgeruest
 
@@ -87,11 +87,11 @@ ANLAGEN
 
 ## Pruefroutine vor Unterschrift
 
-| Pruefpunkt | Pruefung |
+| Pruefpunkt | Prüfung |
 |---|---|
 | Parteien | HR-Auszug aktuell? Vertretungsbefugnis nachgewiesen? |
 | Anlage A | Alle IP-Reg.-Nr. live verifiziert? |
-| Verguetung | Bezugsgroessen definiert? Steuern beruecksichtigt? |
+| Vergütung | Bezugsgroessen definiert? Steuern beruecksichtigt? |
 | Rechtswahl | Schiedsklausel klar? Sprache des Verfahrens? |
 | Insolvenz | Escrow geregelt? Sicherungsabtretung? |
 | Compliance | DSGVO-AVV unterschrieben? Sanktionsprueffung dokumentiert? |

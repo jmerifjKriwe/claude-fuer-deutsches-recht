@@ -7,7 +7,7 @@ description: "Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassna
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dsfa Typische Fehler Bei Erstpruefung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dsfa Typische Fehler Bei Erstpruefung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -25,7 +25,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Bei Audit einer bestehenden DSFA
 - In der Schulung neuer DSB oder Datenschutz-Koordinatoren
 - Bei Aufsichtsanfrage zur Plausibilisierung einer durchgefuehrten DSFA
-- Bei Re-Pruefung nach Art. 35 Abs. 11 DSGVO
+- Bei Re-Prüfung nach Art. 35 Abs. 11 DSGVO
 
 ## Rechtlicher Rahmen
 
@@ -38,7 +38,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ### 1. Triage-Phase
 
-- Trigger-Pruefung ohne dokumentierten Vermerk; nur muendlich. Gegenmassnahme: Triage-Vermerk gemaess Skill dsfa-art-35-dsgvo-trigger-und-anwendungsbereich.
+- Trigger-Prüfung ohne dokumentierten Vermerk; nur muendlich. Gegenmassnahme: Triage-Vermerk gemäß Skill dsfa-art-35-dsgvo-trigger-und-anwendungsbereich.
 - Nur Art. 35 Abs. 3 DSGVO geprueft, Generalklausel Abs. 1 uebersehen. Gegenmassnahme: Doppelblick auf Generalklausel und Regelbeispiele.
 - Blacklist der eigenen Landesbehoerde uebersehen. Gegenmassnahme: Skill dsfa-bfdi-und-laender-blacklist.
 - EDSA-Kriterien nicht durchgepruft. Gegenmassnahme: Skill dsfa-edpb-leitlinien-9-19-anwendung.
@@ -46,13 +46,13 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 ### 2. Beschreibung der Verarbeitung
 
 - Beschreibung floskelhaft, ohne Datenfluss. Gegenmassnahme: Datenflussdiagramm und konkrete Empfaengeraufzaehlung.
-- Drittlandbezug uebersehen, weil EU-Hosting. Gegenmassnahme: Zugriffsbefugnis pruefen, Skill dsfa-für-internationale-datentransfers.
+- Drittlandbezug uebersehen, weil EU-Hosting. Gegenmassnahme: Zugriffsbefugnis prüfen, Skill dsfa-für-internationale-datentransfers.
 - Sub-Auftragsverarbeiter nicht gelistet. Gegenmassnahme: vollstaendige AVV-Kette.
 - Aufbewahrungsfristen pauschal. Gegenmassnahme: Loeschkonzept beifuegen.
 
-### 3. Verhaeltnismaessigkeit
+### 3. Verhältnismäßigkeit
 
-- Verhaeltnismaessigkeitspruefung wird auf Rechtsgrundlage reduziert. Gegenmassnahme: Datenminimierung, Zweckbindung und Speicherbegrenzung separat pruefen.
+- Verhaeltnismaessigkeitspruefung wird auf Rechtsgrundlage reduziert. Gegenmassnahme: Datenminimierung, Zweckbindung und Speicherbegrenzung separat prüfen.
 - Mildere Mittel nicht erwogen. Gegenmassnahme: Alternativ-Optionen explizit dokumentieren und verwerfen.
 - Betroffenenrechte nicht beschrieben. Gegenmassnahme: Pro Recht eine Zeile, wie es operativ umgesetzt wird.
 
@@ -61,12 +61,12 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Risiko nur für Vertraulichkeit untersucht. Gegenmassnahme: alle Schutzziele SDM durchgehen.
 - Wahrscheinlichkeit ohne Bedrohungsmodell. Gegenmassnahme: Bedrohungsannahmen explizit machen.
 - Schadenschwere aus Sicht des Verantwortlichen statt Betroffener. Gegenmassnahme: Erwaegungsgrund 75 DSGVO als Massstab.
-- Risikomatrix bleibt für Massnahmen-Spalte leer. Gegenmassnahme: Pro Risiko mindestens eine Massnahme zuordnen.
+- Risikomatrix bleibt für Maßnahmen-Spalte leer. Gegenmassnahme: Pro Risiko mindestens eine Maßnahme zuordnen.
 
-### 5. Massnahmen
+### 5. Maßnahmen
 
-- TOM-Konzept fehlt oder ist generisch. Gegenmassnahme: konkrete Massnahmen mit Verantwortlichen und Fristen.
-- Vertragliche Massnahmen (AVV, SCC) nicht referenziert. Gegenmassnahme: Verweis auf konkrete Vertragsversion und Datum.
+- TOM-Konzept fehlt oder ist generisch. Gegenmassnahme: konkrete Maßnahmen mit Verantwortlichen und Fristen.
+- Vertragliche Maßnahmen (AVV, SCC) nicht referenziert. Gegenmassnahme: Verweis auf konkrete Vertragsversion und Datum.
 - KI-Spezifika fehlen. Gegenmassnahme: Skill dsfa-für-ki-systeme-schnittstelle-art-26-kivo.
 - Stand der Technik nicht begruendet. Gegenmassnahme: BSI- oder ENISA-Referenz beifuegen.
 

@@ -13,7 +13,7 @@ description: "Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jae
 
 ## Kernsachverhalt
 
-§ 240 HGB verpflichtet zur jaehrlichen Inventur (koerperliche Bestandsaufnahme) zum Bilanzstichtag. Bei Handel und Industrie ist der Warenbestand wesentliche Bilanzposition. Vereinfachungen moeglich: permanente Inventur, Stichprobeninventur, vor- oder nachverlegte Inventur. Bewertung zum Niederstwertprinzip (§ 253 HGB).
+§ 240 HGB verpflichtet zur jaehrlichen Inventur (koerperliche Bestandsaufnahme) zum Bilanzstichtag. Bei Handel und Industrie ist der Warenbestand wesentliche Bilanzposition. Vereinfachungen möglich: permanente Inventur, Stichprobeninventur, vor- oder nachverlegte Inventur. Bewertung zum Niederstwertprinzip (§ 253 HGB).
 
 ## Kaltstart-Rueckfragen
 
@@ -76,7 +76,7 @@ description: "Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jae
 
 | Methode | Charakter | Steuerbilanz |
 |---|---|---|
-| FIFO (First in, first out) | Aelteste Bestaende zuerst | Steuerbilanz nicht zwingend zulaessig |
+| FIFO (First in, first out) | Aelteste Bestaende zuerst | Steuerbilanz nicht zwingend zulässig |
 | LIFO (Last in, first out) | Neueste Bestaende zuerst | Steuerbilanz unter § 6 Abs. 1 Nr. 2a EStG |
 | Gleitender Mittelpreis | Durchschnitt | Steuerbilanz akzeptiert |
 | Einzelbewertung | Konkret pro Stueck | Massgeblich |
@@ -95,7 +95,7 @@ description: "Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jae
 
 ## Strategie und Praxis-Tipps
 
-- Inventur ist Pflicht — nicht abgekuerzte Pruefung.
+- Inventur ist Pflicht — nicht abgekuerzte Prüfung.
 - Bei Handel und Industrie Inventur-Tag oft am 31. Dezember (Geschaeftsruhe).
 - LIFO steuerlich nur unter Voraussetzungen — aber bei Inflation Steuerstundungs-Vorteil.
 - Niederstwertprinzip ist Vorsichtsprinzip — bei zweifelhaften Bestaenden abschreiben.

@@ -3,7 +3,7 @@ name: it-recht-cloud-vertrag-datenschutz-due-diligence
 description: "Datenschutz-Due-Diligence für Cloud-Vertraege: Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster für Art..."
 ---
 
-# Datenschutz-Due-Diligence für Cloud-Vertraege
+# Datenschutz-Due-Diligence für Cloud-Verträge
 
 
 ## Arbeitsweg
@@ -14,13 +14,13 @@ description: "Datenschutz-Due-Diligence für Cloud-Vertraege: Sieben-Fragen-Diag
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Datenschutz-Due-Diligence für Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster für Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-für-Schritt für Pre-Contract-Pruefung und laufende Compliance. Mustertexte für Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle).
+**Fokus:** Datenschutz-Due-Diligence für Cloud-Verträge. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster für Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-für-Schritt für Pre-Contract-Prüfung und laufende Compliance. Mustertexte für Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle).
 
 ### IT-Recht — Cloud-Vertrag mit Datenschutz-Due-Diligence
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen den Skill vor Abschluss oder bei Audit laufender Cloud-Vertraege, insbesondere bei Hyperscaler-Vertraegen (AWS, Microsoft Azure, Google Cloud), bei spezialisierten SaaS-Loesungen oder bei privaten Cloud-Loesungen.
+Sie brauchen den Skill vor Abschluss oder bei Audit laufender Cloud-Verträge, insbesondere bei Hyperscaler-Vertraegen (AWS, Microsoft Azure, Google Cloud), bei spezialisierten SaaS-Loesungen oder bei privaten Cloud-Loesungen.
 
 Sieben-Fragen-Diagnose:
 
@@ -41,30 +41,30 @@ Sieben-Fragen-Diagnose:
 - **Art. 46 DSGVO** Standardvertragsklauseln 2021/914.
 - **Art. 49 DSGVO** Ausnahmen, restriktiv auszulegen (EDSA Leitlinie 2/2018 von 25.05.2018).
 - **EuGH C-311/18 Schrems II** (Urteil 16.07.2020).
-- **EDSA Empfehlungen 01/2020** (Version 2.0 angenommen 18.06.2021) zu zusaetzlichen Massnahmen.
+- **EDSA Empfehlungen 01/2020** (Version 2.0 angenommen 18.06.2021) zu zusaetzlichen Maßnahmen.
 - **BSI C5** (Cloud Computing Compliance Criteria Catalogue).
 - **NIS-2 Richtlinie (EU) 2022/2555** und nationale Umsetzung in Deutschland.
 - **§§ 535 ff BGB** (Cloud regelmaessig Mietvertrag oder Dienstvertrag, Einzelfallpruefung).
 
 ## Mandantenfuehrung Schritt-für-Schritt
 
-1. **Zuerst: Inventur.** Welche Cloud-Dienste sind im Mandantenhaus eingesetzt? Schatten-IT pruefen.
+1. **Zuerst: Inventur.** Welche Cloud-Dienste sind im Mandantenhaus eingesetzt? Schatten-IT prüfen.
 2. **Als zweites: Datenmapping.** Welche Datenkategorien laufen in welchem Cloud-Dienst?
-3. **Als drittes: AVV-Pruefung.** Mindestinhalte Art. 28 III liegen vor? Anbieter-AVV (z. B. AWS DPA, Microsoft DPA, Google DPA) Mandantenseitig kommentieren — viele AVV der Hyperscaler sind nicht verhandelbar, dann Restrisiko dokumentieren.
-4. **Als viertes: TOM-Pruefung.** Anbieter-Whitepaper, ISO 27001 Bericht, BSI C5 Testat, SOC 2 Bericht. Stand der Technik Art. 32 DSGVO.
+3. **Als drittes: AVV-Prüfung.** Mindestinhalte Art. 28 III liegen vor? Anbieter-AVV (z. B. AWS DPA, Microsoft DPA, Google DPA) Mandantenseitig kommentieren — viele AVV der Hyperscaler sind nicht verhandelbar, dann Restrisiko dokumentieren.
+4. **Als viertes: TOM-Prüfung.** Anbieter-Whitepaper, ISO 27001 Bericht, BSI C5 Testat, SOC 2 Bericht. Stand der Technik Art. 32 DSGVO.
 5. **Als fuenftes: Drittlandstransfer.** Region einstellbar? Zertifizierung nach EU-US Data Privacy Framework vorhanden? SCC 2021/914 zusaetzlich? TIA durchgefuehrt?
 6. **Als sechstes: Exit-Klausel.** Datenrueckgabe in strukturiertem Format, Loeschnachweis, Mindestaufbewahrung bei Anbieter?
 7. **NICHT** auf Marketing-Aussagen vertrauen ("Servers in Germany") — vertragliche Verankerung notwendig.
 
 ## Trade-off-Matrix
 
-| Konstellation | Risiko | Massnahme |
+| Konstellation | Risiko | Maßnahme |
 |---|---|---|
-| US-Hyperscaler ohne DPF-Zertifizierung | hoch (Schrems II) | EU-SCC + TIA + zusaetzliche Massnahmen Verschluesselung |
+| US-Hyperscaler ohne DPF-Zertifizierung | hoch (Schrems II) | EU-SCC + TIA + zusaetzliche Maßnahmen Verschluesselung |
 | US-Hyperscaler mit DPF-Zertifizierung | mittel | DPF + EU-SCC als Backup + TIA |
-| EU-Region mit US-Mutter | mittel | Pruefung CLOUD Act Risiko, TIA |
+| EU-Region mit US-Mutter | mittel | Prüfung CLOUD Act Risiko, TIA |
 | Private Cloud in EU | gering | Standard-AVV reicht oft |
-| Schweizer Anbieter | mittel | Schweiz hat Angemessenheitsbeschluss; Bezug pruefen |
+| Schweizer Anbieter | mittel | Schweiz hat Angemessenheitsbeschluss; Bezug prüfen |
 
 ## Mustertexte
 
@@ -92,8 +92,8 @@ Empfehlung: [Abschluss / Nachverhandlung / Ablehnung]
 > 1. Mandantenanlass und Untersuchungsgegenstand.
 > 2. Cloud-Dienst und Vertragslage.
 > 3. Datenschutzrechtliche Rolle (Verantwortlicher, Auftragsverarbeiter).
-> 4. AVV-Pruefung (Art. 28 III Mindestinhalte).
-> 5. TOM-Pruefung (Anbieter-Belege).
+> 4. AVV-Prüfung (Art. 28 III Mindestinhalte).
+> 5. TOM-Prüfung (Anbieter-Belege).
 > 6. Drittlandstransfer (Mechanismus, TIA).
 > 7. Subprozessoren.
 > 8. Zertifizierungen.
@@ -107,7 +107,7 @@ Empfehlung: [Abschluss / Nachverhandlung / Ablehnung]
 >
 > wir bedanken uns für Ihre AVV-Anlage [Version, Datum]. Im Rahmen der Due Diligence ergibt sich folgender Nachverhandlungsbedarf:
 >
-> 1. Audit-Recht nach Art. 28 Abs. 3 lit. h DSGVO: Konkretisierung der Bedingungen (Vorankuendigungsfrist, Pruefer, Kosten).
+> 1. Audit-Recht nach Art. 28 Abs. 3 lit. h DSGVO: Konkretisierung der Bedingungen (Vorankuendigungsfrist, Prüfer, Kosten).
 > 2. Subprozessoren: Konkrete Liste mit Sitzlaendern und Funktion.
 > 3. Loeschnachweis nach Vertragsende.
 > 4. TIA: Bitte um Uebermittlung der Transfer Impact Assessment.

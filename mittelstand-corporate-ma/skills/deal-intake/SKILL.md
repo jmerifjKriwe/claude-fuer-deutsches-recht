@@ -7,7 +7,7 @@ description: "Deal-Intake: Strukturiert neue Transaktionsmandate aus E-Mail, Tea
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Deal Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Mittelstand Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Deal Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Mittelstand Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -159,16 +159,16 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Wer sind Verkaeufer und Kaeufer — natuerliche Person, GmbH, AG, ausl. Gesellschaft?
 2. Was ist das Kaufobjekt — GmbH-Anteile, AG-Aktien, Asset-Portfolio, Immobilien, IP?
 3. Welcher Transaktionsstatus — erster Kontakt, NDA, Term Sheet, LOI, fortgeschrittene Verhandlung?
-4. Gibt es Insiderinformationen — boersennotierte Zielgesellschaft → MAR-Pflichten sofort pruefen
+4. Gibt es Insiderinformationen — boersennotierte Zielgesellschaft → MAR-Pflichten sofort prüfen
 5. Welches Budget und welcher Zeitplan sind angegeben?
 
 ## Zentrale Rechtsgrundlagen
 
-- § 43a Abs. 4 BRAO — Interessenkonfliktpruefung vor Mandatsannahme; Pflicht zur Conflicts-Pruefung
+- § 43a Abs. 4 BRAO — Interessenkonfliktpruefung vor Mandatsannahme; Pflicht zur Conflicts-Prüfung
 - §§ 10, 11 GwG — Sorgfaltspflichten bei Mandatsannahme; Identifizierung aller Parteien und wirtschaftlich Berechtigter
 - Art. 7, 17 MAR — bei boersennotierter Zielgesellschaft: Insiderinformation und Ad-hoc-Pflicht sofort beachten
 - §§ 17-18 GeschGehG — Vertraulichkeitspflicht; NDA muss vor Informationsaustausch vorliegen
-- § 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten auch Erfolgshonorar nach RVG moeglich; schriftliche Vereinbarung empfohlen
+- § 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten auch Erfolgshonorar nach RVG möglich; schriftliche Vereinbarung empfohlen
 
 ## Aktuelle Rechtsprechung
 
@@ -179,13 +179,13 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. **Parteien extrahieren:** Verkaeufer, Kaeufer, Zielgesellschaft, Intermediar, Finanzier — volle Bezeichnung, Sitz, HR-Nummer
 2. **Conflicts-Check ausfuehren:** § 43a BRAO; GwG-Screening (Sanktionen, PEP)
 3. **Mandatsinformation erfassen:** Deal-Typ, Wert, Zeitplan, Vertraulichkeitsstufe, Partner-Zuordnung
-4. **NDA-Status pruefen:** NDA unterzeichnet? Falls nicht: Einleitung vor weiterem Informationsaustausch
-5. **Insiderinformations-Check:** boersennotiert → MAR-Insiderliste einleiten; Ad-hoc-Pruefung
+4. **NDA-Status prüfen:** NDA unterzeichnet? Falls nicht: Einleitung vor weiterem Informationsaustausch
+5. **Insiderinformations-Check:** boersennotiert → MAR-Insiderliste einleiten; Ad-hoc-Prüfung
 6. **Deal-Karte erstellen:** Phase, Rolle, Owner, Frist, Risiko, naechste Aktion, Freigabegrad
 7. **Aktenanlage und Mandatsvereinbarung:** Aktenzeichen vergeben; Honorarvereinbarung (§ 49b BRAO)
 
 ## Rote Schwellen
 
-- Keine Conflicts-Pruefung vor Mandatsannahme: § 43a BRAO, Haftung
+- Keine Conflicts-Prüfung vor Mandatsannahme: § 43a BRAO, Haftung
 - GwG-Sorgfaltspflichten verletzt: Bussgeld
 - Insiderinformation ohne MAR-Protokoll: aufsichtsrechtliche Konsequenzen

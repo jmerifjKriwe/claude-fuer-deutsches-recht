@@ -146,7 +146,7 @@ Anwendungsdatum: [Datum] | Betrifft uns als: [Anbieter/Betreiber/beides]
 2. Ist das Regime bereits in Kraft oder nur angekuendigt — welches Anwendungsdatum?
 3. Betrifft das Regime die Rolle als Anbieter oder Betreiber (Art. 3 KI-VO-Unterscheidung)?
 4. Welche Anwendungsfaelle aus dem Register sind potenziell lueckenhaft?
-5. Gibt es bereits Massnahmen oder laufende Compliance-Projekte — Delta zum Status quo ermitteln?
+5. Gibt es bereits Maßnahmen oder laufende Compliance-Projekte — Delta zum Status quo ermitteln?
 
 ## Output-Template — Lueckenanalyse KI-Regulierung
 **Adressat:** Compliance- / Rechts-Team — Tonfall: sachlich, priorisiert

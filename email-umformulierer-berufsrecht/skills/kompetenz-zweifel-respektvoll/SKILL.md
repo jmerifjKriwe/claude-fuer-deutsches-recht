@@ -13,7 +13,7 @@ Dieser Skill hilft dabei, fachliche Kritik oder Zweifel an der Kompetenz eines A
 
 ## Triage zu Beginn
 1. Bezieht sich die Fachkritik auf ein konkretes Dokument/Ergebnis (Sachkritik) oder auf die Person (Personenabwertung)?
-2. Wer ist der Adressat: Kollege direkt, eigener Mandant ueber den Kollegen oder Gericht?
+2. Wer ist der Adressat: Kollege direkt, eigener Mandant über den Kollegen oder Gericht?
 3. Gibt es einschlaeige Rechtsprechung oder Normen, auf die die Sachkritik gestuetzt werden kann?
 4. Ist die Aeusserung notwendig für den Inhalt des Schreibens oder kann sie weggelassen werden?
 

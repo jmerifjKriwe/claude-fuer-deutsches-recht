@@ -15,11 +15,11 @@ description: "Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und 
 
 ## Worum geht es konkret
 
-Eine Fachzeitschrift lebt davon, fruehzeitig die Themen zu sehen, ueber die in 4-12 Wochen alle reden werden. Der Themenscout-Skill systematisiert diese Frueherkennung: Welche BGH-Vorlagebeschluesse koennen Sprengkraft entwickeln? Welche EuGH-Schlussantraege deuten auf Rechtsprechungsaenderungen? Welches BMF-Schreiben aendert die Beraterpraxis?
+Eine Fachzeitschrift lebt davon, fruehzeitig die Themen zu sehen, über die in 4-12 Wochen alle reden werden. Der Themenscout-Skill systematisiert diese Frueherkennung: Welche BGH-Vorlagebeschluesse können Sprengkraft entwickeln? Welche EuGH-Schlussantraege deuten auf Rechtsprechungsaenderungen? Welches BMF-Schreiben aendert die Beraterpraxis?
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn für die periodische Themenfindung (woechentlich / monatlich) oder bei punktueller Frage "was sollte ins Heft 09/2026?". Klaeren Sie:
+Sie brauchen ihn für die periodische Themenfindung (woechentlich / monatlich) oder bei punktueller Frage "was sollte ins Heft 09/2026?". Klären Sie:
 
 1. Welches Rechtsgebiet / welche Zeitschriften (NJW Allgemein, NZA Arbeitsrecht, ZIP Insolvenz, BB Wirtschaft)?
 2. Welcher Zeithorizont (4 Wochen Aufmacher, 12 Wochen Quartalsplanung)?
@@ -93,7 +93,7 @@ Quellen-URL: https://www.bundesgerichtshof.de/...
 - BGH-Vorlagebeschluesse uebersehen, weil sie nicht in der Hauptpressemitteilung sind.
 - EuGH-Schlussantraege als "noch nicht relevant" abgetan - 70 % werden uebernommen.
 - Gesetzgebungsverfahren in Ausschussberatung uebersehen.
-- Trendlinien aus drei Entscheidungen falsch hochgerechnet, ohne Senatsbesetzung zu pruefen.
+- Trendlinien aus drei Entscheidungen falsch hochgerechnet, ohne Senatsbesetzung zu prüfen.
 - Eigene Watchlist nicht aktualisiert - alter Stand wirkt blamabel.
 
 ## Quellen Stand 06/2026

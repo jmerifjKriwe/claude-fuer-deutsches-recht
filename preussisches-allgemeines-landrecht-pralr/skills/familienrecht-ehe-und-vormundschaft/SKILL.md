@@ -36,7 +36,7 @@ description: "PrALR: Ehe, Elterngewalt, Vormundschaft, Familiengerichtlichkeit u
 Sachverhalt: Ehemann betrueben mit Magd, Ehebruch nachgewiesen.
 ALR-Loesung: ALR II 1 §§ 670-680 — Scheidung gewaehrt; schuldiger Mann verliert Anspruch auf gemeinsame Wohnung; Frau erhaelt Unterhalt nach ihrem Stand. Vermoegenstrennung nach ALR II 1 §§ 205 ff. Kinder bleiben in vaeterlicher Gewalt nur wenn unschuldig.
 
-### Subsumtionsbeispiel: Vormundschaft für Minderjaehrigen mit Vermoegen
+### Subsumtionsbeispiel: Vormundschaft für Minderjaehrigen mit Vermögen
 Sachverhalt: Waisen 12 Jahre mit Erbschaft 10000 Taler.
 ALR-Loesung: ALR II 18 — Vormund bestellt durch das Vormundschaftsgericht; Pflicht zur jaehrlichen Rechnungslegung; ALR II 18 §§ — Eigengeschaefte des Vormunds mit dem Muendelvermoegen verboten; bei Verlust Schadenshaftung.
 

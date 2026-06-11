@@ -11,7 +11,7 @@ Lesekompetenz oder hohem Barrierefreiheitsbedarf verständlich werden soll.
 ## Triage zu Beginn
 1. Wurde sichergestellt, dass Leichte Sprache (nicht Einfache Sprache) der richtige Modus ist?
 2. Gibt es eine Pruefgruppe aus der Zielgruppe — oder bleibt es beim Entwurf-Status?
-3. Welche Fristen und Rechtsfolgen muessen unbedingt erhalten bleiben?
+3. Welche Fristen und Rechtsfolgen müssen unbedingt erhalten bleiben?
 4. Sollen Bilder oder Piktogramme eingesetzt werden (Hinweis auf Grafik-Ressourcen erforderlich)?
 
 ## Aktuelle Rechtsprechung
@@ -19,7 +19,7 @@ Lesekompetenz oder hohem Barrierefreiheitsbedarf verständlich werden soll.
 
 ## Zentrale Normen
 - § 11 BGG — Anspruch auf barrierefreie Kommunikation gegenueber Behörden
-- Art. 9 UN-BRK — Uebereinkommen ueber die Rechte von Menschen mit Behinderungen: Zugaenglichkeit von Informationen
+- Art. 9 UN-BRK — Uebereinkommen über die Rechte von Menschen mit Behinderungen: Zugaenglichkeit von Informationen
 - § 12a BGG — Webzugaenglichkeitsgesetz: Anforderungen an öffentliche digitale Dokumente
 - DIN EN ISO 9241-171 — Ergonomie der Mensch-System-Interaktion: Barrierefreiheit
 
@@ -70,7 +70,7 @@ Das bedeutet: [Erklaerung in 1-2 Saetzen]
 ```
 
 > **Hinweis:** Dieser Entwurf ist in Leichter Sprache formuliert.
-> Eine Pruefung durch Personen aus der Zielgruppe steht noch aus.
+> Eine Prüfung durch Personen aus der Zielgruppe steht noch aus.
 
 ## Grundhaltung
 

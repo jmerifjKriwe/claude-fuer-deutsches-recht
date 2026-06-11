@@ -38,13 +38,13 @@ Das DBA-Tuerkei vom 19.09.2011 (BGBl. 2012 II S. 526, in Kraft 01.08.2012, anwen
 
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zu DBA-Tuerkei (Pensionen, Doppelansaessigkeit) in freier amtlicher Quelle abrufen.
-- Aktuelle BMF-Schreiben zur Anwendung des DBA-Tuerkei im BMF-Schreiben-Verzeichnis pruefen.
+- Aktuelle BMF-Schreiben zur Anwendung des DBA-Tuerkei im BMF-Schreiben-Verzeichnis prüfen.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit (Art. 4)
 - OECD-Tie-Breaker.
-- Tuerkische Diaspora: oft doppelte Ansaessigkeit — Mittelpunkt Lebensinteressen pruefen (Familie, Vermoegen).
+- Tuerkische Diaspora: oft doppelte Ansaessigkeit — Mittelpunkt Lebensinteressen prüfen (Familie, Vermögen).
 
 ### Betriebsstaette (Art. 5)
 - Bauausfuehrung in der Neufassung 2011: **12 Monate** (Art. 5 DBA-Tuerkei 2011). Konkrete Klausel aus DBA-Text entnehmen; in aelteren tuerkischen DBA-Fassungen war die Schwelle kuerzer.
@@ -66,26 +66,26 @@ Das DBA-Tuerkei vom 19.09.2011 (BGBl. 2012 II S. 526, in Kraft 01.08.2012, anwen
 - **Pensionen** Art. 18: gesetzliche Renten ueberwiegend Wohnsitzstaat-Prinzip; Beamtenpensionen Kassenstaat. Konkrete Pensionsklausel aus DBA-Text Art. 18/19 entnehmen.
 - **Subject-to-Tax-Klausel** im DBA (Art. 27) — bei Nichtbesteuerung im Wohnsitzstaat Rueckfall auf Quellenstaat.
 - **Beteiligungshoehe Schachtel**: 25 Prozent-Schwelle (Art. 10 DBA-Tuerkei 2011).
-- **Tuerkische Diaspora-Konstellation**: Doppelansaessigkeit haeufig — sorgfaeltige Tie-Breaker-Pruefung.
-- **Kein MLI**: Da die Tuerkei das MLI nicht ratifiziert hat, ist das DBA-DE-TR nicht durch PPT oder andere MLI-Massnahmen modifiziert.
+- **Tuerkische Diaspora-Konstellation**: Doppelansaessigkeit haeufig — sorgfaeltige Tie-Breaker-Prüfung.
+- **Kein MLI**: Da die Tuerkei das MLI nicht ratifiziert hat, ist das DBA-DE-TR nicht durch PPT oder andere MLI-Maßnahmen modifiziert.
 
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
 1. Anwendungszeitraum: altes DBA 1985 bis 2010, neues DBA 2011 ab 2011/2012.
 
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 1. Tie-Breaker, Diaspora-Konstellation.
 
 ### Phase 3 — Einkunftsart einordnen
 1. Bei Pension: gesetzliche oder Beamte?
 
 ### Phase 4 — Verteilungs- und Methodenartikel
-1. Quellensteuer-Hoechstsatz pruefen.
+1. Quellensteuer-Hoechstsatz prüfen.
 2. Anrechnung vs. Freistellung.
 
 ### Phase 5 — Subject-to-Tax
-1. § 50d Abs. 9 EStG pruefen.
+1. § 50d Abs. 9 EStG prüfen.
 
 ### Phase 6 — Erstattung / Erklaerung
 1. BZSt-Antrag bei Beteiligungen.
@@ -96,47 +96,47 @@ Das DBA-Tuerkei vom 19.09.2011 (BGBl. 2012 II S. 526, in Kraft 01.08.2012, anwen
 - Tuerkische Diaspora: Tie-Breaker oft Familie/Wohnsitz Deutschland trotz Wochenend-Aufenthalte in der Tuerkei — sauber dokumentieren.
 - Pensionen Wohnsitz Tuerkei: tuerkische Quellensteuer beachten, Anrechnung nach § 34c EStG.
 - Bau-Aktivitaeten Tuerkei: Bauausfuehrungs-Schwelle strikt aus dem DBA-Text Art. 5 entnehmen (DBA 2011: 12 Monate; altes DBA 1985: abweichend).
-- Subject-to-Tax: bei "Wuestenkoenig"-Konstellationen pruefen.
-- Schenkungs- und Erbschaftsteuer DBA-Tuerkei gesondert pruefen.
+- Subject-to-Tax: bei "Wuestenkoenig"-Konstellationen prüfen.
+- Schenkungs- und Erbschaftsteuer DBA-Tuerkei gesondert prüfen.
 - MLI nicht anwendbar — kein PPT durch MLI; nationales Missbrauchsrecht (§ 42 AO, § 50d Abs. 3 EStG) massgeblich.
 
 ## Praktiker-Tipps der alten Hasen
 
 - **Erstattungsverfahren TR → DE-Mandant**: Antrag bei GİB (Gelir İdaresi Başkanlığı, Praesidialamt für Einnahmen); Online-Portal "İnteraktif Vergi Dairesi" (vom Anwender mit aktuellem Stand des tuerkischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der GİB als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Tuerkisch sowie Englisch (DBA-Tuerkei 2011 als modernes DBA trilingual; englischer Text als Pivot in der Praxis nuetzlich).
-- **Lokaler Berater**: Bei tuerkischen A.S. (Anonim Şirketi, AG) oder Ltd. Ş. (Limited Şirketi, GmbH-Aequivalent) sowie Erbfaellen mit Tuerkei-Bezug zwingend lokalen tuerkischen "yeminli mali müşavir" (vereidigter Steuerberater) hinzuziehen — TR hat sehr formale Pruefungspraxis und stark wechselnde Steuergesetzgebung.
+- **Lokaler Berater**: Bei tuerkischen A.S. (Anonim Şirketi, AG) oder Ltd. Ş. (Limited Şirketi, GmbH-Äquivalent) sowie Erbfaellen mit Tuerkei-Bezug zwingend lokalen tuerkischen "yeminli mali müşavir" (vereidigter Steuerberater) hinzuziehen — TR hat sehr formale Pruefungspraxis und stark wechselnde Steuergesetzgebung.
 - **Apostille**: ZWINGEND bei Drittstaat Tuerkei; Haager Uebereinkommen anwendbar (TR ist Vertragsstaat). Bei Notarurkunden und Steuerbescheinigungen Apostille der tuerkischen Bezirksverwaltung (Kaymakamlık).
 
 ## Aktualitaetshinweise Wechselkurse und Steuerpolitik-Volatilitaet
 
-- **Tuerkische Lira-Volatilitaet**: Die TRY hat erhebliche Wertschwankungen gegenueber EUR — bei Umrechnungen Bundesbank-EZB-Wechselkurs am Stichtag verwenden (§ 1 Abs. 2 EStG, AEAO zu § 175). Bei lang laufenden Mandaten regelmaessig pruefen.
+- **Tuerkische Lira-Volatilitaet**: Die TRY hat erhebliche Wertschwankungen gegenueber EUR — bei Umrechnungen Bundesbank-EZB-Wechselkurs am Stichtag verwenden (§ 1 Abs. 2 EStG, AEAO zu § 175). Bei lang laufenden Mandaten regelmaessig prüfen.
 - **Tuerkische Inflation und Hyperinflations-Bilanzierung**: TR hat 2022 die Schwelle für Hyperinflations-Bilanzierung (IAS 29) erreicht — bei Konzernabschluessen DE-Mutter mit TR-Tochter spezielle Bilanzierungsregeln. DBA betrifft nur Einkommensteuer, nicht Bilanzierung.
-- **Tuerkische Steuerpolitik volatil**: KSt-Saetze haben sich 2022/2023/2024 mehrfach geaendert (allgemein 25 Prozent, Bankensektor 30 Prozent — vom Anwender mit aktuellem TR-Steuerrecht zu verifizieren). Sondersteuern auf Vermoegen ("Servet vergisi") in Diskussion.
-- **Tuerkische Diaspora und Familienverhaeltnisse**: Bei mehr als 6,5 Mio Personen mit TR-Bezug in DE (Migrationshintergrund Tuerkei) sind Familienverhaeltnisse zentral für Tie-Breaker — Pruefer triggert auf Indizien.
+- **Tuerkische Steuerpolitik volatil**: KSt-Saetze haben sich 2022/2023/2024 mehrfach geaendert (allgemein 25 Prozent, Bankensektor 30 Prozent — vom Anwender mit aktuellem TR-Steuerrecht zu verifizieren). Sondersteuern auf Vermögen ("Servet vergisi") in Diskussion.
+- **Tuerkische Diaspora und Familienverhaeltnisse**: Bei mehr als 6,5 Mio Personen mit TR-Bezug in DE (Migrationshintergrund Tuerkei) sind Familienverhaeltnisse zentral für Tie-Breaker — Prüfer triggert auf Indizien.
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
-- **Diaspora-Doppelansaessigkeit**: Klassische Konstellation — Wohnsitz DE, Familie DE, aber Sommerhaus, Bankkonten, Grundbesitz und Familienangehoerige in TR. Tie-Breaker oft DE (Mittelpunkt Lebensinteressen wirtschaftlich und sozial), aber Indizienlage sorgfaeltig pruefen.
+- **Diaspora-Doppelansaessigkeit**: Klassische Konstellation — Wohnsitz DE, Familie DE, aber Sommerhaus, Bankkonten, Grundbesitz und Familienangehoerige in TR. Tie-Breaker oft DE (Mittelpunkt Lebensinteressen wirtschaftlich und sozial), aber Indizienlage sorgfaeltig prüfen.
 - **Pension TR Wohnsitz mit DRV-Anspruch**: deutsche DRV-Auslandsrente an TR-Wohnsitz; Wohnsitzstaat-Prinzip nach Art. 18 DBA-TR — TR besteuert, DE nicht. Bei Beamtenpension Kassenstaat-Prinzip — DE besteuert.
 - **"Wuestenkoenig"-Konstellation**: deutsche Pensionaere mit Wohnsitz Antalya/Alanya — Subject-to-Tax § 50d Abs. 9 EStG bei Nicht-Besteuerung durch TR.
 - **Subject-to-Tax-Klausel Art. 27 DBA-TR 2011**: bei Nichtbesteuerung im Wohnsitzstaat Rueckfall — wichtig für Riester-Rente, Lebensversicherungs-Auszahlungen.
 - **Erbschaftsteuer-DBA Tuerkei**: separates DBA Schenkung/Erbschaft — vom Anwender mit aktuellem BMF zu verifizieren.
-- **Bau-Subunternehmer aus TR in DE**: 183-Tage-Pruefung Art. 15; AUeG-Erlaubnis bei AUe.
+- **Bau-Subunternehmer aus TR in DE**: 183-Tage-Prüfung Art. 15; AUeG-Erlaubnis bei AUe.
 
 ## Trade-offs
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Wohnsitzwechsel DE → TR im Ruhestand | TR-Wohnsitz: Wohnsitzstaat-Besteuerung Rente, oft niedrigerer Steuersatz | DE-Wohnsitz behalten | bei Pensionaeren TR-Wegzug oft attraktiv, aber: Auslandskrankenversicherung, Aufenthaltsrechte, Familienbande pruefen; bei Beamtenpension keine Steueroptimierung (Kassenstaat) |
+| Wohnsitzwechsel DE → TR im Ruhestand | TR-Wohnsitz: Wohnsitzstaat-Besteuerung Rente, oft niedrigerer Steuersatz | DE-Wohnsitz behalten | bei Pensionaeren TR-Wegzug oft attraktiv, aber: Auslandskrankenversicherung, Aufenthaltsrechte, Familienbande prüfen; bei Beamtenpension keine Steueroptimierung (Kassenstaat) |
 | Tuerkische Beteiligung direkt vs. via DE-Holding | Direkt: DBA-Hoechstsatz Dividenden 15 Prozent Streubesitz | Via DE-Holding mit § 8b KStG: 95 Prozent steuerfrei in DE | bei Schachtel TR-Beteiligung 25 Prozent: Dividende DBA 5 Prozent; bei Streubesitz und KapGes als Empfaenger: DE-Holding-Strukturierung oft vorteilhaft |
-| Schenkungs-/Erbschaftsteuer DBA-TR | DBA Schenkung/Erbschaft pruefen | nationales Recht beide Staaten | bei grossen Erbfaellen mit TR-Bezug DBA Schenkung/Erbschaft anwenden — Steueroasen-Gefahr bei TR vermeiden |
+| Schenkungs-/Erbschaftsteuer DBA-TR | DBA Schenkung/Erbschaft prüfen | nationales Recht beide Staaten | bei großen Erbfaellen mit TR-Bezug DBA Schenkung/Erbschaft anwenden — Steueroasen-Gefahr bei TR vermeiden |
 
 ## Berechnungsbeispiel
 
 Tuerkischer Diaspora-Mandant mit Wohnsitz DE (Familie, Beruf) und Sommerhaus in Bodrum; veraeussert das Sommerhaus 2025 nach 8 Jahren Haltedauer für 400.000 EUR Erloes (Anschaffung 250.000 EUR vor 8 Jahren):
 
 - DBA Art. 13 DBA-TR: Belegenheitsstaat TR — Tuerkei besteuert Veraeusserungsgewinn.
-- TR-Besteuerung: nach tuerkischem Recht Veraeusserungsgewinn 150.000 EUR; bei Haltedauer ueber 5 Jahre regelmaessig steuerfrei (vom Anwender mit aktuellem TR-Steuerrecht zu verifizieren).
+- TR-Besteuerung: nach tuerkischem Recht Veraeusserungsgewinn 150.000 EUR; bei Haltedauer über 5 Jahre regelmaessig steuerfrei (vom Anwender mit aktuellem TR-Steuerrecht zu verifizieren).
 - DE-Besteuerung als unbeschraenkt Steuerpflichtiger: nach DBA Freistellung mit Progressionsvorbehalt (§ 32b EStG); aber wegen Belegenheits-Vorrang TR-Vorrang.
 - Wechselkursrisiko: bei Verkauf in TRY und Rueckkauf in EUR Wechselkursgewinn/-verlust separat steuerlich; nicht im DBA geregelt.
 - Praxis: Veraeusserung von TR-Immobilien wegen Lira-Volatilitaet riskant — Mandanten oft mit USD/EUR-Wertschwund konfrontiert.

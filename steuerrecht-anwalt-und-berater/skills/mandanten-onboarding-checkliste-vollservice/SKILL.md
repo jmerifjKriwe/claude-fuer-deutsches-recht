@@ -125,19 +125,19 @@ H. ESKALATION
 
 ### Phase 3 — Risikoanalyse
 
-- Krisensignale-Pruefung (Eigenkapital, SV-Rueckstaende).
+- Krisensignale-Prüfung (Eigenkapital, SV-Rueckstaende).
 - Steuerliche Auffaelligkeiten (laufende BP, anhaengige Einspruchsverfahren).
-- Vor-Pruefung der Stammdaten.
+- Vor-Prüfung der Stammdaten.
 
 ### Phase 4 — Mandanten-Information
 
-- Erstgespraech mit Mandant ueber Prozesse.
+- Erstgespraech mit Mandant über Prozesse.
 - DATEV Unternehmen Online Einfuehrung.
 - Belegabgabe-Routine erlaeutern.
 
 ### Phase 5 — DSGVO-Compliance
 
-- Datenschutzhinweise gemaess Art. 13 DSGVO.
+- Datenschutzhinweise gemäß Art. 13 DSGVO.
 - AVV mit allen Auftragsverarbeitern.
 - Sicherheits-Vorkehrungen (verschluesselte Datenuebertragung).
 

@@ -17,7 +17,7 @@ description: "Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill be
 
 - Einl. §§ 74-75 — Aufopferung als zentrale Norm.
 - Eigene Haftung des Staates für rechtmäßige Eingriffe.
-- Fuer rechtswidrige Eingriffe nur unzureichende Regelung.
+- Für rechtswidrige Eingriffe nur unzureichende Regelung.
 
 ## Friedrich II. und Justizreform
 

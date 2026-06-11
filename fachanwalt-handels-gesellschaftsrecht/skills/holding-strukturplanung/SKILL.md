@@ -127,14 +127,14 @@ Aufschub; Zinseffekt auf EUR 2.258.000 über 5–10 Jahre
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Holding-Struktur planen | Struktur-Varianten-Vergleich; Anteilsuebertragungsvertrag unten |
 | Variante A — Exit-Optimierung im Vordergrund | § 8b KStG-Vorteil berechnen; Holding prioritaer empfehlen |
 | Variante B — Haftungsschutz vorrangig | Operative Risiken in Tochter-GmbH halten; Holding schirmt ab |
-| Variante C — Erbschaft / Unternehmensnachfolge | Familienpool-Holding und Niesbrauchsvorbehalt pruefen |
+| Variante C — Erbschaft / Unternehmensnachfolge | Familienpool-Holding und Niesbrauchsvorbehalt prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -214,7 +214,7 @@ Kosten ca.:
 - Anwaltshonorar: EUR 5.000–30.000 je Komplexität
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

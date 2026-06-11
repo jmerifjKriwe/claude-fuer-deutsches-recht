@@ -14,7 +14,7 @@ Diese Unterlagenprüfung für **Fluggastrechte** benennt fehlende Dokumente, str
 - `abtretung-an-fluggastportal-spezial` — Abtretung AN Fluggastportal Spezial
 - `airline-bonitaet-und-vollstreckung` — Airline Bonitaet und Vollstreckung
 - `airline-standardausreden-annullierung` — Airline Standardausreden Annullierung
-- `airline-standardausreden-pruefen` — Airline Standardausreden Pruefen
+- `airline-standardausreden-pruefen` — Airline Standardausreden Prüfen
 - `anlagen-bauen` — Anlagen Bauen
 - `annullierung-oder-verspaetung-einordnen` — Annullierung Oder Verspaetung Einordnen
 - `annullierung-schriftsatz-brief-memo-bausteine` — Annullierung Schriftsatz Brief Memo Bausteine

@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -62,4 +62,4 @@ Das Deutsche Kaiserreich hatte von 1884/85 bis 1919 Kolonien in Afrika, dem Pazi
 - Schutzgebietsgesetz 1886: RGBl. 1886, 75 via ALEX/OeNB
 - Versailler Vertrag: BGBl. 1919, 687 via ALEX/OeNB; documentArchiv.de
 - Voelkermordkonvention: BGBl. II 1954, 730; eur-lex.europa.eu für EU-Aspekte
-- Sekundaerliteratur: Juergen Zimmerer, Deutsche Herrschaft ueber Afrikaner (2001)
+- Sekundaerliteratur: Juergen Zimmerer, Deutsche Herrschaft über Afrikaner (2001)

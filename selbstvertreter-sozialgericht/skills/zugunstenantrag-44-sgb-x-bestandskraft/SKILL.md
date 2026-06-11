@@ -27,7 +27,7 @@ Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen 
 
 ## Frist
 
-- Antrag jederzeit moeglich.
+- Antrag jederzeit möglich.
 - Rueckwirkung der Leistung: bis zu 4 Jahre vor Antragstellung.
 
 ## Verhaeltnis zum Widerspruch

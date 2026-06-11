@@ -30,7 +30,7 @@ description: "Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eil
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit prüfen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -96,7 +96,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
-8. Vier-Augen-Pruefung durch Sozius oder Senior-Anwaeltin?
+8. Vier-Augen-Prüfung durch Sozius oder Senior-Anwaeltin?
 
 ## Rechtsprechungs-Werkzeugkasten
 
@@ -151,7 +151,7 @@ Typische Antraege in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht (Klage VG
 
 - Form: "Beweis: Aussage der Zeugin Name, ladungsfaehige Anschrift, zum Beweisthema (konkret in einem Satz)."
 - Mehrere Zeuginnen zum gleichen Thema: Indiziengeruest staerken.
-- Keine Beweisermittlung ueber Zeugnis - das Beweisthema muss konkret sein.
+- Keine Beweisermittlung über Zeugnis - das Beweisthema muss konkret sein.
 
 ### Sachverstaendigenbeweis
 
@@ -177,14 +177,14 @@ Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegne
 
 - PDF/A-2 oder PDF/A-3, mit eingebetteten Schriften.
 - Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
-- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand ueber beA (sicherer Uebermittlungsweg).
+- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
 - Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
 - 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Aenderungen im Vollstreckungsbereich; in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht ggf. spezifische ERV-Pflichten beachten.
 
 ## Schriftsatz-Stil
 
 - Aktiv, kurze Saetze, klare Subsumtion.
-- Keine Floskeln ("Die Klage ist zulaessig und begruendet" als Ueberschrift, aber dann substantiieren).
+- Keine Floskeln ("Die Klage ist zulässig und begruendet" als Ueberschrift, aber dann substantiieren).
 - Mandanten- und Beweismittel-Zitate woertlich, in Anfuehrungszeichen, mit Anlage-Verweis.
 - Keine Gefuehlsausbrueche - sachlich auch bei provokanter Gegenseite.
 
@@ -237,7 +237,7 @@ Bevor losgelegt wird, klaere:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -298,7 +298,7 @@ IV. BEWEISANGEBOTE
 [RA-NAME]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

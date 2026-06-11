@@ -159,7 +159,7 @@ description: "Insolvenz des Bautraegers: Ansprüche des Erwerbers, Schutzrechte,
 - BGH 27.10.2011, IX ZR 11/11 — Wahlrecht § 103 InsO (dejure.org/2011,30144)
 - BGH 26.04.2018, IX ZR 238/17 — Insolvenzanfechtung § 133 InsO (dejure.org/2018,11260)
 
-MaBV (Makler- und Bautraegerverordnung) — aktuell §§ 3-7 MaBV, vor Anwendung Stand des BMJ-Bundesanzeigers pruefen.
+MaBV (Makler- und Bautraegerverordnung) — aktuell §§ 3-7 MaBV, vor Anwendung Stand des BMJ-Bundesanzeigers prüfen.
 
 ## Fristen-Sofort-Check bei Bautraeger-Insolvenz
 

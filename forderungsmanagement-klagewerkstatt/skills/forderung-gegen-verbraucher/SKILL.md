@@ -13,7 +13,7 @@ Verbraucher (§ 13 BGB) geniessen erhebliche Schutzrechte. Die Verfolgung der Fo
 |---|---|
 | Natuerliche Person | ja |
 | Zwecke nicht ueberwiegend gewerblich/selbstaendig | ja |
-| Doppelnutzung | Schwerpunkt-Pruefung; im Zweifel Verbraucher (BGH VIII ZR 7/02) |
+| Doppelnutzung | Schwerpunkt-Prüfung; im Zweifel Verbraucher (BGH VIII ZR 7/02) |
 | Vereine | grds. Verbraucher, wenn nicht gewerblich |
 | Existenzgruender | nicht Verbraucher (BGH VIII ZR 219/00) |
 
@@ -31,7 +31,7 @@ Bei vorformulierten Vertragsbedingungen gegenueber Verbraucher gilt erhoehte Kon
 | § 309 BGB | Verbotene Klauseln ohne Wertungsmoeglichkeit |
 
 **Beispiele unwirksamer Klauseln**:
-- Pauschalierte Mahnkosten ueber 2,50 EUR (§ 309 Nr. 5 BGB).
+- Pauschalierte Mahnkosten über 2,50 EUR (§ 309 Nr. 5 BGB).
 - Pauschalierter Schadensersatz unangemessen (§ 309 Nr. 5 BGB).
 - Aufrechnungsverbot ausser unbestrittene Forderung (§ 309 Nr. 3 BGB).
 - Gerichtsstandsvereinbarung B2C im voraus (§ 38 Abs. 2 ZPO).
@@ -65,17 +65,17 @@ Bei vorformulierten Vertragsbedingungen gegenueber Verbraucher gilt erhoehte Kon
 
 | Schuldner | Zinssatz |
 |---|---|
-| Verbraucher | 5 Prozentpunkte ueber Basiszinssatz (§ 288 Abs. 1 BGB) |
+| Verbraucher | 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB) |
 | Pauschale 40 EUR | gilt NICHT bei Verbraucher (nur B2B) |
-| Vertragliche Hoehe | nur soweit nicht sittenwidrig (§ 138 BGB), AGB-Kontrolle |
+| Vertragliche Höhe | nur soweit nicht sittenwidrig (§ 138 BGB), AGB-Kontrolle |
 
 ## Gerichtsstand bei Verbraucher
 
 | Klagerichtung | Gerichtsstand |
 |---|---|
-| Klage gegen Verbraucher | Wohnsitz Verbraucher (§ 29c Abs. 1 S. 1 ZPO ausschliesslich bei Haustuer-Geschaeft / Verbraucherdarlehen) |
+| Klage gegen Verbraucher | Wohnsitz Verbraucher (§ 29c Abs. 1 S. 1 ZPO ausschließlich bei Haustuer-Geschäft / Verbraucherdarlehen) |
 | Klage durch Verbraucher | sein Wohnsitz |
-| Vereinbarung im voraus | nur eng zulaessig § 38 Abs. 2 ZPO |
+| Vereinbarung im voraus | nur eng zulässig § 38 Abs. 2 ZPO |
 | Fernabsatz | allgemeiner Gerichtsstand Verbraucher |
 
 EU-Bezug: Bruessel Ia Art. 17-19 – Klage gegen Verbraucher **nur am Wohnsitz Verbraucher**, ausser am Wohnsitz vereinbart und nach Entstehen Streit.
@@ -107,12 +107,12 @@ Sonderregeln seit 2018:
 
 ## Klage Strategie
 
-1. **Rechnung pruefen**: Hinweis 30-Tage-Verzug nach § 286 Abs. 3 BGB enthalten?
-2. **AGB pruefen**: Klauseln wirksam nach §§ 305 ff. BGB?
-3. **Widerrufsbelehrung**: bei Fernabsatz/Haustuer korrekt? Bei Fehler: Widerruf moeglich.
+1. **Rechnung prüfen**: Hinweis 30-Tage-Verzug nach § 286 Abs. 3 BGB enthalten?
+2. **AGB prüfen**: Klauseln wirksam nach §§ 305 ff. BGB?
+3. **Widerrufsbelehrung**: bei Fernabsatz/Haustuer korrekt? Bei Fehler: Widerruf möglich.
 4. **Gerichtsstand**: Klage am Wohnsitz Verbraucher.
 5. **Streitwert**: i.d.R. AG (unter 10.000 EUR).
-6. **Verzugszinsen**: 5 Prozentpunkte ueber Basiszinssatz, KEINE 40-EUR-Pauschale.
+6. **Verzugszinsen**: 5 Prozentpunkte über Basiszinssatz, KEINE 40-EUR-Pauschale.
 7. **Mahn-/Inkassokosten**: nur erforderlich und verhaeltnismaessig.
 
 ## Klageantrag-Muster
@@ -132,9 +132,9 @@ Es wird beantragt:
 ## Typische Fehler
 
 - Vereinbarter Gerichtsstand bei Verbraucher → § 38 Abs. 2 ZPO unwirksam.
-- Pauschale 40 EUR gegen Verbraucher beantragt – nicht zulaessig.
-- AGB-Pauschalen ueber 2,50 EUR für Mahnungen – § 309 Nr. 5 BGB.
-- Widerrufsbelehrung fehlt / fehlerhaft → Widerruf noch moeglich nach Klageerhebung.
+- Pauschale 40 EUR gegen Verbraucher beantragt – nicht zulässig.
+- AGB-Pauschalen über 2,50 EUR für Mahnungen – § 309 Nr. 5 BGB.
+- Widerrufsbelehrung fehlt / fehlerhaft → Widerruf noch möglich nach Klageerhebung.
 - 30-Tage-Verzug ohne Hinweis in Rechnung angenommen.
 
 ## Quellen

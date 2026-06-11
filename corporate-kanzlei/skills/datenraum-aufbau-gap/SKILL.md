@@ -247,7 +247,7 @@ Separate NDA unterzeichnet: [Ja]
 - Personenbezogene Daten ohne AVV (Art. 28 DSGVO) im Datenraum → DSGVO-Bussgeld bis 20 Mio. EUR
 - Keine Protokollierung wer was heruntergeladen → kein Nachweis Kaeufer-Kenntnis bei Disclosure-Streit
 - Sensible HR-Daten ohne Clean-Room-Schutz → Datenschutzverletzung; Betriebsrat-Mitbestimmung
-- Dokumente ohne Datum und Version → Unklarheit ueber Stand der Information beim Signing
+- Dokumente ohne Datum und Version → Unklarheit über Stand der Information beim Signing
 - Q&A-Antworten nicht archiviert → keine Beweisgrundlage bei spaeterem Warranty-Streit
 
 ## Quellen

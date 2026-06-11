@@ -29,7 +29,7 @@ Klaere vor Erstellung der Geschaeftsordnung:
 2. **Investor-Beteiligung?** SHA-Berichtspflichten und Zustimmungskataloge aus dem SHA in Geschaeftsordnung spiegeln.
 3. **Beirat vorhanden?** Beirats-Zustimmungsvorbehalte mit GF-Katalog koordinieren.
 4. **Erlassende Stelle?** Gesellschafterversammlung (empfohlen, § 46 Nr. 6 GmbHG) oder Geschaeftsfuehrer selbst? Aenderbarkeit unterscheidet sich.
-5. **Schwellenwerte?** Fuer Zustimmungspflichtige Geschaefte: am Umsatz und Bilanzsumme orientieren; zu hohe Schwellen sind wirkungslos.
+5. **Schwellenwerte?** Für Zustimmungspflichtige Geschaefte: am Umsatz und Bilanzsumme orientieren; zu hohe Schwellen sind wirkungslos.
 
 ## Zentrale Normen
 
@@ -124,7 +124,7 @@ Mehrheit (§ 46 Nr. 6 GmbHG).
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Patt ohne Mechanismus bei 2 GF: Gesellschaft handlungsunfaehig; GV-Einberufung nach § 49 GmbHG
-- Keine Eskalationsregel: GF koennen wichtige Entscheidungen blocken -> teure Streitigkeiten
+- Keine Eskalationsregel: GF können wichtige Entscheidungen blocken -> teure Streitigkeiten
 - Zu hohe Schwellen: Geschaeftsordnung faktisch leer; Kontrollzweck nicht erfullt
 
 ## Quellen und Vertiefung

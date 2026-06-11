@@ -3,7 +3,7 @@ name: bundesstrasse-kostenlast-pruefen
 description: "Bundesstraße: Kostenlast prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Bundesstrasse Kostenlast Pruefen
+# Bundesstrasse Kostenlast Prüfen
 
 ## Arbeitsweg
 

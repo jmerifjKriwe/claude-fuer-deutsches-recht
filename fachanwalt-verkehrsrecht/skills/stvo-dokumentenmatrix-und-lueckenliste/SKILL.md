@@ -69,4 +69,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  Diese Angaben sind erforderlich, um die ordnungsgemaesse Durchfuehrung der Messung
  fair-trial-konform pruefen zu koennen (BVerfG, staendige Rspr. zur Akteneinsicht).
  ```
-- **Strategie:** Bei vollstaendiger Akte Pruefung gegen PTB-Bauartzulassung; ggf. Sachverstaendigengutachten beantragen § 244 StPO i.V.m. § 71 OWiG.
+- **Strategie:** Bei vollstaendiger Akte Prüfung gegen PTB-Bauartzulassung; ggf. Sachverstaendigengutachten beantragen § 244 StPO i.V.m. § 71 OWiG.

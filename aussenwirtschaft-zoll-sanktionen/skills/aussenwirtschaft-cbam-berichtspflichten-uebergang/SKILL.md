@@ -22,7 +22,7 @@ description: "CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO 
 ## Erste Schritte
 
 1. CBAM-pflichtige Waren identifizieren (Anhang I VO 2023/956): Zement, Aluminium, Eisen/Stahl, Duenger, Elektrizitaet, Wasserstoff.
-2. KN-Codes je Warenkategorie pruefen.
+2. KN-Codes je Warenkategorie prüfen.
 3. Eingebettete Emissionen ermitteln: Lieferantendaten oder EU-Standardwerte (Durchfuehrungs-VO).
 4. Quartalsbericht in CBAM-Transitional-Registry der EU-Kommission einstellen.
 5. Fristen: Bericht bis zum Ende des Monats nach Quartalsende.
@@ -48,7 +48,7 @@ description: "CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO 
 ## Typische Fallstricke
 
 - Standardwerte sind hoeher als tatsaechliche Emissionen; Lieferantendaten vermindern CBAM-Pflicht.
-- Quartalsberichte koennen nachgebessert werden, aber Fristversaeumnis loest Bussgeld aus.
+- Quartalsberichte können nachgebessert werden, aber Fristversaeumnis loest Bussgeld aus.
 - CBAM gilt nicht für alle Länder gleich; EWR und bestimmte Länder ausgenommen.
 - Mischlieferungen erfordern getrennte Emissionsermittlung je Warenart.
 

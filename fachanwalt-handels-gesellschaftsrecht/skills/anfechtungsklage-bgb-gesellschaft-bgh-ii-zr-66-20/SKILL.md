@@ -31,7 +31,7 @@ Gesellschafter wird durch Beschluss benachteiligt; Anfechtung Frist Monat.
 
 ## Arbeitsergebnis
 
-Monatsfrist; analog AktG; Beschluss formell und materiell pruefen.
+Monatsfrist; analog AktG; Beschluss formell und materiell prüfen.
 
 ## Belege und Aktenlücken
 

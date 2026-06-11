@@ -53,7 +53,7 @@ Der formale Jahresabschluss (Bilanz + GuV + Anhang + ggf. Lagebericht) ist juris
 ### Standards
 
 - IDW PS 480 — Erstellungsgrundsaetze.
-- IDW PS 305 — Pruefung Risikofrueherkennung.
+- IDW PS 305 — Prüfung Risikofrueherkennung.
 - DRS 17 — Lage-Bericht-Standards.
 - DStV-Praxisleitfaden Mandantenkommunikation.
 
@@ -114,7 +114,7 @@ V. MEHRJAHRES-TREND (3-5 Jahre)
 
 ### Phase 4 — Mehrjahres-Visualisierung
 
-- Liniendiagramm Umsatz und Ergebnis ueber 5 Jahre.
+- Liniendiagramm Umsatz und Ergebnis über 5 Jahre.
 - Balken Eigenkapital-Entwicklung.
 - Heatmap Quartals-Ergebnisse (16 Quartale).
 

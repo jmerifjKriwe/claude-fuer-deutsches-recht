@@ -59,20 +59,20 @@ Sehr geehrte Frau [Name],
 
 nach Sichtung Ihres Zeugnisses vom [Datum] und der uns uebersandten Unterlagen ergibt unsere Analyse das folgende Bild.
 
-Gesamtbewertung: Note befriedigend bis ausreichend (zwischen drei und vier auf der Skala eins bis fuenf). Diese Bewertung ist deutlich schlechter als die formale Zufriedenheitsformel vermuten laesst. Grund ist die in mehreren Themenbereichen auftretende Drift: einzelne Saetze formulieren Spitzenleistung, die unmittelbar benachbarten Saetze zum selben Thema halten dagegen und ziehen die Bewertung herab.
+Gesamtbewertung: Note befriedigend bis ausreichend (zwischen drei und vier auf der Skala eins bis fuenf). Diese Bewertung ist deutlich schlechter als die formale Zufriedenheitsformel vermuten lässt. Grund ist die in mehreren Themenbereichen auftretende Drift: einzelne Saetze formulieren Spitzenleistung, die unmittelbar benachbarten Saetze zum selben Thema halten dagegen und ziehen die Bewertung herab.
 
 Kritisch sind insbesondere folgende Stellen:
 
 - Schlussformel ohne Bedauern und ohne Dankesformel (Signalpunkt, rechtlich gesondert zu prüfen)
 - Wendung "bemuehte sich" im Bereich Arbeitsweise
 - Auslassung der Aussage zur Vorgesetztenbeurteilung trotz Fuehrungsverantwortung
-- Steigerungsadverb "im Grossen und Ganzen" in der Gesamtzufriedenheit
+- Steigerungsadverb "im Großen und Ganzen" in der Gesamtzufriedenheit
 
 Diese Befunde werden am Maßstab des Paragraf 109 GewO und nur mit live verifizierter Rechtsprechung eingeordnet.
 
 ## Anschluss
 
-Stimmt der Mandant der Option B oder C zu, wird das Aufforderungsschreiben an den Arbeitgeber ueber den Skill `aufforderungsschreiben-arbeitgeber` erstellt. Bei Option C tritt zusaetzlich der Skill `klage-strategie-zeugnisberichtigung` in Kraft.
+Stimmt der Mandant der Option B oder C zu, wird das Aufforderungsschreiben an den Arbeitgeber über den Skill `aufforderungsschreiben-arbeitgeber` erstellt. Bei Option C tritt zusaetzlich der Skill `klage-strategie-zeugnisberichtigung` in Kraft.
 
 ## Qualitaetskriterien
 

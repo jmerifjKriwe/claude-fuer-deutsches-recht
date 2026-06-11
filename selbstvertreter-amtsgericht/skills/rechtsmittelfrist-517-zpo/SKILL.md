@@ -7,7 +7,7 @@ description: "Rechtsmittelfrist 1 Monat nach § 517 ZPO. Beginn mit Zustellung d
 
 ## Worum geht es?
 
-Die Berufungsfrist betraegt 1 Monat ab Zustellung des vollstaendigen schriftlichen Urteils. Sie ist eine **Notfrist** — keine Verlaengerung moeglich. Wenn Sie die Frist versaeumen, ist das Urteil rechtskraeftig und kann nicht mehr angegriffen werden. Diese Skill warnt vor der Frist und zeigt Berechnung.
+Die Berufungsfrist betraegt 1 Monat ab Zustellung des vollstaendigen schriftlichen Urteils. Sie ist eine **Notfrist** — keine Verlaengerung möglich. Wenn Sie die Frist versaeumen, ist das Urteil rechtskraeftig und kann nicht mehr angegriffen werden. Diese Skill warnt vor der Frist und zeigt Berechnung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -68,7 +68,7 @@ In Ihrem Fristen-Buch (Skill `fristen-buch-fuehren-laien`):
 
 ### Schritt 5 — Berufung rechtzeitig einlegen
 
-Innerhalb der Frist schriftlich (oder elektronisch ueber MJP) an das **Landgericht** (nicht ans AG).
+Innerhalb der Frist schriftlich (oder elektronisch über MJP) an das **Landgericht** (nicht ans AG).
 
 Skill `berufung-amtsgericht-511-zpo`.
 
@@ -80,7 +80,7 @@ Bei Eile: Selbst-Einreichung der Berufungsschrift (§ 78 III ZPO erlaubt es). Be
 
 Wichtig: Begruendungs-Frist laeuft ab **Zustellung**, **nicht** ab Einlegung der Berufung. Wenn Sie also 4 Wochen mit Berufung warten, haben Sie nur 4 Wochen für Begruendung.
 
-Verlaengerung der Begruendungs-Frist moeglich nach § 520 II 3 ZPO (auf Antrag, durch Vorsitzenden).
+Verlaengerung der Begruendungs-Frist möglich nach § 520 II 3 ZPO (auf Antrag, durch Vorsitzenden).
 
 ### Schritt 7 — Bei Versaeumnis
 
@@ -92,20 +92,20 @@ Wenn Berufungsfrist versaeumt:
 
 ### Schritt 8 — Wenn unsicher
 
-Bei Unsicherheit lieber **eher** Berufung einlegen als zu spaet. Sie koennen die Berufung spaeter zuruecknehmen, wenn Sie sich anders entscheiden.
+Bei Unsicherheit lieber **eher** Berufung einlegen als zu spaet. Sie können die Berufung später zuruecknehmen, wenn Sie sich anders entscheiden.
 
-Bei Selbst-Einlegung muessen Sie aber bedenken: ohne Anwalt für Begruendung droht trotzdem Verwerfung.
+Bei Selbst-Einlegung müssen Sie aber bedenken: ohne Anwalt für Begruendung droht trotzdem Verwerfung.
 
 ### Schritt 9 — PKH parallel
 
-Wenn Sie sich Berufung nicht leisten koennen:
+Wenn Sie sich Berufung nicht leisten können:
 
 - PKH-Antrag innerhalb der Berufungsfrist stellen.
 - PKH-Antrag hemmt die Frist (BGH).
 
 Skill `prozesskostenhilfe-pkh-114-zpo`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Notfrist 1 Monat** — keine Verlaengerung.
 - **Beginn mit Zustellung**, nicht Verkuendung.
@@ -115,7 +115,7 @@ Skill `prozesskostenhilfe-pkh-114-zpo`.
 ## Typische Fehler
 
 - "Frist beginnt mit Verkuendung." → Falsch — mit Zustellung.
-- "Verlaengerung der Berufungsfrist." → Nicht moeglich.
+- "Verlaengerung der Berufungsfrist." → Nicht möglich.
 - "Ich begruende, wenn ich Zeit habe." → Begruendungs-Frist 2 Monate parallel.
 
 ## Quellen und Aktualitaet

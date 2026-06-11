@@ -32,7 +32,7 @@ Grosseltern wollen Umgang mit Enkel; Eltern verweigern.
 
 ## Arbeitsergebnis
 
-Pruefung Kindeswohl; Bindung Belastung Konflikt der Eltern.
+Prüfung Kindeswohl; Bindung Belastung Konflikt der Eltern.
 
 ## Belege und Aktenlücken
 

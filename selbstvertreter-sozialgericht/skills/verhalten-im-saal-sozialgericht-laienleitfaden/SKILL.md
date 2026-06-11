@@ -57,7 +57,7 @@ Im Sitzungssaal gibt es Regeln. Aufstehen wenn der Richter kommt. Hoeflich sein.
 
 ### Schritt 1 — Vor dem Saal
 
-- Termin und Saalnummer auf der Ladung pruefen
+- Termin und Saalnummer auf der Ladung prüfen
 - Vor dem Saal warten, bis aufgerufen
 - Personalausweis bereithalten
 - Akten-Mappe griffbereit
@@ -65,7 +65,7 @@ Im Sitzungssaal gibt es Regeln. Aufstehen wenn der Richter kommt. Hoeflich sein.
 ### Schritt 2 — Wenn Sie aufgerufen werden
 
 - Den Saal betreten
-- Auf den Platz für "Klaeger" / "Antragsteller" gehen (links oder rechts vom Richtertisch — wird angesagt)
+- Auf den Platz für "Kläger" / "Antragsteller" gehen (links oder rechts vom Richtertisch — wird angesagt)
 - Vor dem Richtertisch: leichtes Kopfnicken zur Begruessung
 
 ### Schritt 3 — Wenn die Richter eintreten
@@ -93,7 +93,7 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 
 - Zuhoeren, nicht unterbrechen
 - Notizen machen
-- Wenn etwas unklar: ruhig nachfragen "Verzeihen Sie, koennen Sie das wiederholen?"
+- Wenn etwas unklar: ruhig nachfragen "Verzeihen Sie, können Sie das wiederholen?"
 
 ### Schritt 7 — Wenn Sie sprechen
 
@@ -101,11 +101,11 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 - Ruhig und langsam sprechen
 - "Frau Vorsitzende" oder "Herr Vorsitzender" als Anrede
 - Bei Antworten: konkret, ehrlich, kurz
-- Bei Unsicherheit: "Ich weiss das nicht" oder "Das muesste ich erst pruefen"
+- Bei Unsicherheit: "Ich weiss das nicht" oder "Das muesste ich erst prüfen"
 
 ### Schritt 8 — Bei Fragen der Behörden-Vertreterin / des Behörden-Vertreters
 
-- Auch sie / er ist Partei. Sie muessen nicht alles beantworten.
+- Auch sie / er ist Partei. Sie müssen nicht alles beantworten.
 - Bei provokanten Fragen: ruhig bleiben.
 
 ### Schritt 9 — Verbote
@@ -124,10 +124,10 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 - Notizen mitnehmen
 - Bei Bedarf den Protokollfuehrer fragen, was im Protokoll steht
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Hoeflich, aber selbstbewusst**: Sie haben Recht, sich zu wehren.
-- **Pausen sind okay**: Sie duerfen kurz ueberlegen.
+- **Pausen sind okay**: Sie dürfen kurz ueberlegen.
 - **Begleitperson** darf im Zuschauer-Bereich sitzen, sich nicht in die Verhandlung einmischen.
 
 ## Typische Fehler

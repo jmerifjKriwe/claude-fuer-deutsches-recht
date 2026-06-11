@@ -27,8 +27,8 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 ## Methodische Grundlagen
 
 **Aussagetuechtigkeit.** Bezieht sich auf die kognitiv-emotionale Faehigkeit zur Aussage. Pruefdimensionen:
-- Wahrnehmung: Hat die Person das Geschehen unter den konkreten Umstaenden (Sicht, Beleuchtung, Distanz, Aufmerksamkeit) wahrnehmen koennen?
-- Speicherung: Verfuegt die Person ueber ein hinreichendes Gedaechtnis (keine schwere Gedaechtnisstoerung, kein Alkohol- oder Drogeneinfluss zur Tatzeit, kein medizinisches Hindernis)?
+- Wahrnehmung: Hat die Person das Geschehen unter den konkreten Umstaenden (Sicht, Beleuchtung, Distanz, Aufmerksamkeit) wahrnehmen können?
+- Speicherung: Verfuegt die Person über ein hinreichendes Gedaechtnis (keine schwere Gedaechtnisstoerung, kein Alkohol- oder Drogeneinfluss zur Tatzeit, kein medizinisches Hindernis)?
 - Abruf: Kann die Person die gespeicherten Inhalte zu einem spaeteren Zeitpunkt reproduzieren?
 - Kommunikation: Kann die Person das Erinnerte sprachlich verstaendlich wiedergeben (kein Sprachhindernis, keine zu schwere kognitive Beeintraechtigung)?
 
@@ -42,13 +42,13 @@ Aussagetuechtigkeit kann durch psychische Erkrankung, Demenz, schwere Persoenlic
 
 Aussagebereitschaft ist nicht gleichbedeutend mit Falschaussage. Eine ehrliche, glaubhafte Aussage kann mit starker Motivation zur Aussage einhergehen. Umgekehrt: eine Person ohne erkennbares Motiv kann dennoch suggestiv kontaminiert sein.
 
-**Methodische Reihenfolge nach BGH (1 StR 618/98).** Zuerst Aussagetuechtigkeit (Stufe 1), dann Aussageinhalt und Aussageentstehung (Stufe 2), dann Aussagezuverlaessigkeit unter Hypothesen-gegen-Hypothesen-Methode (Stufe 3). Wer die Aussagetuechtigkeit nicht prueft, hat methodisch unzulaenglich gewuerdigt.
+**Methodische Reihenfolge nach BGH (1 StR 618/98).** Zuerst Aussagetuechtigkeit (Stufe 1), dann Aussageinhalt und Aussageentstehung (Stufe 2), dann Aussagezuverlaessigkeit unter Hypothesen-gegen-Hypothesen-Methode (Stufe 3). Wer die Aussagetuechtigkeit nicht prüft, hat methodisch unzulaenglich gewuerdigt.
 
 ## Praktikertipps Verteidigung
 
-- **Aussagetuechtigkeit aktiv adressieren.** Nicht erst in der Hauptverhandlung. Schon im Ermittlungsverfahren bei der Einlassung anregen, dass im Vorhinein zu pruefen ist.
+- **Aussagetuechtigkeit aktiv adressieren.** Nicht erst in der Hauptverhandlung. Schon im Ermittlungsverfahren bei der Einlassung anregen, dass im Vorhinein zu prüfen ist.
 - **Indikatoren für beschraenkte Aussagetuechtigkeit dokumentieren.** Psychische Vorbehandlung, Medikation, Drogen oder Alkohol zur Tatzeit, neurologische Erkrankungen, traumatische Vorgeschichte mit Folgen, schwere Persoenlichkeitsstoerung, dissoziative Phaenomene, Intelligenzminderung.
-- **Akteneinsicht in medizinische Unterlagen.** Mit Schweigepflichtsentbindung der Zeugin oder ueber Beweisantrag (§ 244 StPO).
+- **Akteneinsicht in medizinische Unterlagen.** Mit Schweigepflichtsentbindung der Zeugin oder über Beweisantrag (§ 244 StPO).
 - **Motivlage offenlegen.** Wer hat etwas zu gewinnen oder zu verlieren? Sorgerechtsstreit dokumentieren, Trennungs- und Scheidungsverfahren, finanzielle Anspruechee (Adhaesion, Schmerzensgeld, Verletztenrente, OEG).
 - **Hilfsbeweisantrag SV-Gutachten zur Aussagetuechtigkeit.** Bei substanziellen Anhaltspunkten geboten. Anders als das Glaubhaftigkeitsgutachten kann das Tuechtigkeitsgutachten auch von einem Psychiater oder Neurologen erstellt werden, je nach Fragestellung.
 - **Bei Trauma differenziert vorgehen.** Trauma kann sowohl die Aussagetuechtigkeit beeintraechtigen (dissoziative Erinnerungslucken, intrusive Verzerrungen) als auch die Aussagebereitschaft erhoehen (Aufdeckungsbeduerfnis). Methodisch sorgfaeltig trennen.
@@ -64,19 +64,19 @@ Aussagebereitschaft ist nicht gleichbedeutend mit Falschaussage. Eine ehrliche, 
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer trennen Sie methodisch: "Vor der Pruefung der Glaubhaftigkeit der Aussage steht die Pruefung der Aussagetuechtigkeit. Diese ist hier zweifelhaft, weil [konkret: schwere psychische Vorerkrankung mit Dissoziationsneigung; Drogenkonsum zur Tatzeit; Demenz; etc.]. Zudem ist die Aussagebereitschaft nicht neutral, sondern motivational gefaerbt durch [konkret: laufendes Sorgerechtsverfahren; Anspruchsgrundlage für Schmerzensgeld; Familiendruck]. Beides ist im Rahmen der Beweiswuerdigung zu beruecksichtigen."
+Im Plaedoyer trennen Sie methodisch: "Vor der Prüfung der Glaubhaftigkeit der Aussage steht die Prüfung der Aussagetuechtigkeit. Diese ist hier zweifelhaft, weil [konkret: schwere psychische Vorerkrankung mit Dissoziationsneigung; Drogenkonsum zur Tatzeit; Demenz; etc.]. Zudem ist die Aussagebereitschaft nicht neutral, sondern motivational gefaerbt durch [konkret: laufendes Sorgerechtsverfahren; Anspruchsgrundlage für Schmerzensgeld; Familiendruck]. Beides ist im Rahmen der Beweiswuerdigung zu beruecksichtigen."
 
 ## Mustertexte
 
 **Hilfsbeweisantrag Aussagetuechtigkeitsgutachten:**
-"Hilfsweise wird beantragt, ein psychiatrisches Sachverstaendigengutachten zur Aussagetuechtigkeit der Zeugin [Name] einzuholen. Konkrete Anhaltspunkte: Aerztliche Behandlung in [Klinik] seit [Datum] wegen [Diagnose]; ausweislich der Behandlungsunterlagen dissoziative Phaenomene und Gedaechtnisluecken; Medikation [Wirkstoff] in Dosierung [X]. Das Gericht verfuegt nicht ueber die fachliche Kompetenz, ohne sachverstaendige Hilfe ueber die Aussagetuechtigkeit zu entscheiden."
+"Hilfsweise wird beantragt, ein psychiatrisches Sachverstaendigengutachten zur Aussagetuechtigkeit der Zeugin [Name] einzuholen. Konkrete Anhaltspunkte: Aerztliche Behandlung in [Klinik] seit [Datum] wegen [Diagnose]; ausweislich der Behandlungsunterlagen dissoziative Phaenomene und Gedaechtnisluecken; Medikation [Wirkstoff] in Dosierung [X]. Das Gericht verfuegt nicht über die fachliche Kompetenz, ohne sachverstaendige Hilfe über die Aussagetuechtigkeit zu entscheiden."
 
 **Mustersatz für Plaedoyer:**
-"Es ist methodisch nicht ausreichend, die Aussage einer Zeugin auf Realkennzeichen und Konstanz zu pruefen, wenn die vorgeschaltete Frage der Aussagetuechtigkeit nicht geklaert ist. Im vorliegenden Fall ist die Aussagetuechtigkeit substanziell zweifelhaft. [Begruendung]. Bevor das Gericht ueber die Glaubhaftigkeit befindet, muss die Tuechtigkeit geklaert sein. Andernfalls baut die Beweiswuerdigung auf einem nicht tragfaehigen Fundament."
+"Es ist methodisch nicht ausreichend, die Aussage einer Zeugin auf Realkennzeichen und Konstanz zu prüfen, wenn die vorgeschaltete Frage der Aussagetuechtigkeit nicht geklaert ist. Im vorliegenden Fall ist die Aussagetuechtigkeit substanziell zweifelhaft. [Begruendung]. Bevor das Gericht über die Glaubhaftigkeit befindet, muss die Tuechtigkeit geklaert sein. Andernfalls baut die Beweiswuerdigung auf einem nicht tragfaehigen Fundament."
 
 ## Quellen Stand 06/2026
 
-- BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (dreistufige Pruefung: Aussagetuechtigkeit, Aussagequalitaet, Aussagezuverlaessigkeit).
+- BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (dreistufige Prüfung: Aussagetuechtigkeit, Aussagequalitaet, Aussagezuverlaessigkeit).
 - BGH staendige Rechtsprechung zur Aussagetuechtigkeit als Vorfrage der Beweiswuerdigung (Folge-Aktenzeichen mit aktueller BGH-Linie verifizieren).
 - Volbert, R., zur Differenzierung Aussagetuechtigkeit und Aussagebereitschaft (Lehrbuch-Bezug, generisch).
 - Methodik siehe `references/methodik-buergerliches-recht.md` (entsprechend).

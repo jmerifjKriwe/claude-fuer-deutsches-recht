@@ -31,12 +31,12 @@ description: "PrALR: Kirchenrecht, Schule, Religion, Gemeinde und staatliche Auf
 - **ALR II 12 §§ 1 ff.**: Schulgeld; allgemeine Schulpflicht; Lehrerstellung als öffentliches Amt.
 
 ### Subsumtionsbeispiel: Religioese Mischehe 1840
-Sachverhalt: Katholische Frau, evangelischer Mann; Streit ueber Konfession der Kinder.
-ALR-Loesung: ALR II 11 — Religionsmischehen erlaubt; Konfession der Kinder folgt grundsaetzlich der Konfession des Vaters; Sondervereinbarungen moeglich. Heute: Religionsmuendigkeitsgesetz 1921 (mit 14 Jahren Selbstbestimmung).
+Sachverhalt: Katholische Frau, evangelischer Mann; Streit über Konfession der Kinder.
+ALR-Loesung: ALR II 11 — Religionsmischehen erlaubt; Konfession der Kinder folgt grundsätzlich der Konfession des Vaters; Sondervereinbarungen möglich. Heute: Religionsmuendigkeitsgesetz 1921 (mit 14 Jahren Selbstbestimmung).
 
 ### Subsumtionsbeispiel: Allgemeine Schulpflicht 1830
 Sachverhalt: Bauernfamilie schickt Kinder nicht zur Schule.
-ALR-Loesung: ALR II 12 — Schulpflicht; Sanktionen ueber Polizei. Heute durchgehend Schulgesetze der Länder mit Schulpflicht (Art. 7 GG).
+ALR-Loesung: ALR II 12 — Schulpflicht; Sanktionen über Polizei. Heute durchgehend Schulgesetze der Länder mit Schulpflicht (Art. 7 GG).
 
 ### Heutige Fortwirkung
 - Art. 4 GG Religionsfreiheit (statt aufgeklaerte Privilegierung).

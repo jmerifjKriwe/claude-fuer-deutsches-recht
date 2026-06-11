@@ -3,7 +3,7 @@ name: lohn-lohnsteuer-anmeldung-elster
 description: "Elektronische Lohnsteuer-Anmeldung über ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Übermittlung. Methodik Daten aus Lohnabrechnung ELSTER-Formular Prüfen Senden. Output ELSTER-Quittung."
 ---
 
-# Lohnsteuer-Anmeldung ueber ELSTER
+# Lohnsteuer-Anmeldung über ELSTER
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "Elektronische Lohnsteuer-Anmeldung über ELSTER. Anwendungsfall mo
 
 ## Kernsachverhalt
 
-Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermittelt — Pflicht seit Jahren. Der Steuerberater nutzt entweder DATEV-ELSTER-Modul oder ELSTER-Online direkt. Die Anmeldung enthaelt: LSt, KiSt, SolZ, ggf. pauschalierte Loehne. Frist: 10. des Folgemonats (monatlich) bzw. 10. des dem Quartal folgenden Monats (vierteljaehrlich).
+Die Lohnsteuer-Anmeldung wird elektronisch über ELSTER an das Finanzamt uebermittelt — Pflicht seit Jahren. Der Steuerberater nutzt entweder DATEV-ELSTER-Modul oder ELSTER-Online direkt. Die Anmeldung enthaelt: LSt, KiSt, SolZ, ggf. pauschalierte Loehne. Frist: 10. des Folgemonats (monatlich) bzw. 10. des dem Quartal folgenden Monats (vierteljaehrlich).
 
 ## Kaltstart-Rueckfragen
 
@@ -54,9 +54,9 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 - Bruttoloehne aller AN.
 - LSt insgesamt.
 - KiSt insgesamt (Konfession der einzelnen AN).
-- SolZ insgesamt (SolZ entfaellt für Lohnsteuerpflichtige unterhalb der Freigrenze § 3 Abs. 3 SolZG seit 01.01.2021; ab 2025 Freigrenze 18.130 EUR ESt (Einzel) / 36.260 EUR (Zusammenveranlagung); Milderungszone bis Voll-SolZ; aktuelle Grenzen ueber SolZG-Fassung pruefen).
+- SolZ insgesamt (SolZ entfaellt für Lohnsteuerpflichtige unterhalb der Freigrenze § 3 Abs. 3 SolZG seit 01.01.2021; ab 2025 Freigrenze 18.130 EUR ESt (Einzel) / 36.260 EUR (Zusammenveranlagung); Milderungszone bis Voll-SolZ; aktuelle Grenzen über SolZG-Fassung prüfen).
 - Pauschal versteuerte Betraege (§ 40 Abs. 1 / Abs. 2 EStG, § 40a EStG, § 37b EStG).
-- KSt-Pauschalierung Aushilfen (§ 40a EStG): 25 Prozent (kurzfristig) oder 2 Prozent (Minijob, geht direkt an Knappschaft, nicht ueber LSt-Anmeldung).
+- KSt-Pauschalierung Aushilfen (§ 40a EStG): 25 Prozent (kurzfristig) oder 2 Prozent (Minijob, geht direkt an Knappschaft, nicht über LSt-Anmeldung).
 
 ### Phase 2 — ELSTER-Formular
 
@@ -71,7 +71,7 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 | Pauschal versteuerte Betraege | § 40, § 40a, § 37b |
 | Erstattungsantraege | Lohnsteuer-Ueberzahlung |
 
-### Phase 3 — Pruefung vor Senden
+### Phase 3 — Prüfung vor Senden
 
 - Plausibilitaet Bruttolohnsumme mit BWA/SuSa (Konto 4120/4130 SKR 03).
 - LSt-Summe plausibel zur Bruttolohnsumme (ca. 15-25 Prozent je nach Steuerklassen-Mix).
@@ -79,7 +79,7 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 
 ### Phase 4 — Sendung und Quittung
 
-- ELSTER-Senden ueber DATEV LODAS Schnittstelle oder ELSTER-Online.
+- ELSTER-Senden über DATEV LODAS Schnittstelle oder ELSTER-Online.
 - Sendebestaetigung mit Transaktions-Nummer archivieren.
 - FA-Bescheid abwarten (in der Regel automatische Verarbeitung, kein gesonderter Bescheid).
 
@@ -92,15 +92,15 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 
 ### Phase 6 — Korrekturen
 
-- Bei spaeter erkanntem Fehler: Berichtigung § 153 AO.
+- Bei später erkanntem Fehler: Berichtigung § 153 AO.
 - Berichtigte Anmeldung mit Vermerk "Berichtigung".
 - Bei wesentlicher Steuerverkuerzung: ggf. Selbstanzeige § 371 AO.
 
 ## Strategie und Praxis-Tipps
 
 - Frist 10. des Folgemonats hart — bei wiederholten Verspaetungen Verspaetungszuschlag.
-- Pauschalierungs-Optionen pruefen (Minijob 2 Prozent vs. reguläre Lohnsteuer).
-- Bei Sondervergueteungen Fuenftel-Regelung § 34 EStG pruefen.
+- Pauschalierungs-Optionen prüfen (Minijob 2 Prozent vs. reguläre Lohnsteuer).
+- Bei Sondervergueteungen Fuenftel-Regelung § 34 EStG prüfen.
 - Bei Mehrfachbeschaeftigung des AN: Steuerklasse 6 für Folge-AG.
 - StBVV: ELSTER-Anmeldung in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS hat direkte ELSTER-Schnittstelle; bei Sicherheits-Zertifikaten regelmäßige Erneuerung.
@@ -113,6 +113,6 @@ Stand: 05/2026.
 - AO §§ 152, 153, 240, 371.
 - BMF zu ELSTER-Verfahren.
 - LStR.
-- SolZ-Freigrenze 2025: 18.130 EUR ESt (Einzel); Milderungszone § 3 Abs. 3 SolZG; aktuelle Freigrenze jaehrlich pruefen (SolZG).
+- SolZ-Freigrenze 2025: 18.130 EUR ESt (Einzel); Milderungszone § 3 Abs. 3 SolZG; aktuelle Freigrenze jaehrlich prüfen (SolZG).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SolZ-Freigrenze 2025 eingesetzt) -->

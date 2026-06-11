@@ -59,12 +59,12 @@ Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klä
 
 ### BGH-Linie (verifizierte Eckpunkte, Stand 05/2026)
 
-Belegt ueber bundesgerichtshof.de bzw. dejure.org:
+Belegt über bundesgerichtshof.de bzw. dejure.org:
 
-- **BGH, Urt. v. 05.12.2018 – VIII ZR 271/17 und VIII ZR 67/18** — Die blosse Gefahr der Schimmelbildung wegen einer aelteren, beim Bau aber zulaessigen Bauweise (Waermebruecken) ist kein Mangel der Mietwohnung; entscheidend ist das beim Errichtungszeitpunkt geltende Bauregelwerk. Beide Aktenzeichen ueber dejure.org auffindbar.
+- **BGH, Urt. v. 05.12.2018 – VIII ZR 271/17 und VIII ZR 67/18** — Die blosse Gefahr der Schimmelbildung wegen einer aelteren, beim Bau aber zulaessigen Bauweise (Waermebruecken) ist kein Mangel der Mietwohnung; entscheidend ist das beim Errichtungszeitpunkt geltende Bauregelwerk. Beide Aktenzeichen über dejure.org auffindbar.
 - Bestehender, tatsaechlich aufgetretener Schimmel ist hingegen ein Mangel iSv § 536 BGB — Beweislastverteilung nach gefestigter Rechtsprechung: Mieter weist Mangel nach, Vermieter muss substantiell Verursachung aus seiner Sphaere ausschliessen, anschliessend kann Mieter Bauphysik (Sachverstaendigengutachten) beweisen.
 
-Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/2026 vor Zitierung live ueber dejure.org/openjur.de pruefen.
+Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/2026 vor Zitierung live über dejure.org/openjur.de prüfen.
 
 ## 3) Minderungs-Höhe
 
@@ -179,7 +179,7 @@ Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/
 
 - BGH, Urt. v. 05.12.2018 – VIII ZR 271/17 und VIII ZR 67/18: keine Mietminderung bei blosser Schimmelgefahr wegen zeitgemaesser Bauweise (Waermebruecken in Altbau); Mangelbegriff ist anhand der zur Errichtungszeit geltenden technischen Regelwerke zu bestimmen.
 - BGH, Urt. v. 27.05.2020 – VIII ZR 45/19: zur Reichweite des Mieter-Einsichtsrechts in Belege für die Betriebskostenabrechnung (Originale; Belege auch für Zahlungsfluss).
-- Aktuelle 2025/2026-Entscheidungen zu Schimmel/Minderung vor Zitierung live ueber dejure.org/openjur.de/bundesgerichtshof.de verifizieren.
+- Aktuelle 2025/2026-Entscheidungen zu Schimmel/Minderung vor Zitierung live über dejure.org/openjur.de/bundesgerichtshof.de verifizieren.
 
 ## Anschluss
 

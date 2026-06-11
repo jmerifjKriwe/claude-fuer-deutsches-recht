@@ -159,9 +159,9 @@ Eine **weiche** Patronatserklärung (Comfortletter, "Best Effort"-Erklärung) ge
 
 § 19 Abs. 2 InsO (Fortbestehensprognose — externe Unternehmenssiherung) → § 311 BGB (Schuldrechtlicher Vertrag Patronatserklaerung) → § 241 Abs. 2 BGB (Schutzpflichten) → § 765 BGB analog (Buergschaft-Aspekte)
 
-## Triage — Patronatserklaerung-Pruefung
+## Triage — Patronatserklaerung-Prüfung
 
 1. **Hard oder soft?** Harte externe Patronatserklaerung = klagbarer Anspruch; weiche = kein Status-Effekt.
 2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Unwiderruflich?** Widerrufliche Erklaerung reicht nicht für Ueberschuldungsstatus.
-4. **Patron bonitaer?** Aktuelle Bonitats-Pruefung des Patrons erforderlich.
+4. **Patron bonitaer?** Aktuelle Bonitats-Prüfung des Patrons erforderlich.

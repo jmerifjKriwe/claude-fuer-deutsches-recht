@@ -3,7 +3,7 @@ name: saas-fuer-verbraucher-beschwerde-schre
 description: "Prüfer: SaaS für Verbraucher: Beschwerde schreiben im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Saas Fuer Verbraucher Beschwerde Schre
+# Saas Für Verbraucher Beschwerde Schre
 
 ## Arbeitsweg
 

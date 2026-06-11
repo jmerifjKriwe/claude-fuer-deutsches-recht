@@ -7,7 +7,7 @@ description: "Beratungshilfe vor Klageerhebung. Beratungshilfegesetz BerHG ermö
 
 ## Worum geht es?
 
-Bevor Sie klagen, kann ein Anwaltsgespraech viel klaeren: Habe ich Erfolgsaussichten? Wie formuliere ich den Antrag? Welche Beweise? Wenn Sie beduerftig sind, koennen Sie **Beratungshilfe** nach dem Beratungshilfegesetz (BerHG) bekommen — der Anwalt wird vom Staat bezahlt, Sie zahlen nur eine Schutzgebuehr von 15 EUR.
+Bevor Sie klagen, kann ein Anwaltsgespraech viel klären: Habe ich Erfolgsaussichten? Wie formuliere ich den Antrag? Welche Beweise? Wenn Sie beduerftig sind, können Sie **Beratungshilfe** nach dem Beratungshilfegesetz (BerHG) bekommen — der Anwalt wird vom Staat bezahlt, Sie zahlen nur eine Schutzgebuehr von 15 EUR.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -31,9 +31,9 @@ Bevor Sie klagen, kann ein Anwaltsgespraech viel klaeren: Habe ich Erfolgsaussic
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Voraussetzungen pruefen
+### Schritt 1 — Voraussetzungen prüfen
 
-- Beduerftigkeit (aehnlich PKH).
+- Beduerftigkeit (ähnlich PKH).
 - Keine anderweitige Beratungsmoeglichkeit (z. B. nicht durch Mitgliedschaft in Mieterverein etc.).
 - Rechtsangelegenheit nicht mutwillig.
 
@@ -59,7 +59,7 @@ Sie bekommen einen Berechtigungsschein, mit dem Sie zum Anwalt gehen.
 
 - Schein vorlegen.
 - 15 EUR Schutzgebuehr zahlen (oder Anwalt schreibt Rechnung).
-- Beratung erhalten — Anwalt erklaert, formuliert, prueft.
+- Beratung erhalten — Anwalt erklaert, formuliert, prüft.
 
 Der Anwalt rechnet seine Gebuehr direkt mit dem Staat ab.
 
@@ -67,24 +67,24 @@ Der Anwalt rechnet seine Gebuehr direkt mit dem Staat ab.
 
 - Beratungsgespraech.
 - Schriftverkehr mit Gegenseite (Mahnung, Reklamation).
-- Pruefung von Vertraegen.
+- Prüfung von Vertraegen.
 - Entwurf von Schriftstuecken (Kuendigung etc.).
 
 ### Schritt 6 — Was sie NICHT abdeckt
 
 - Klageerhebung (dafür PKH).
 - Vertretung im Prozess (PKH).
-- Verfahren vor Verwaltungsbehoerden in mehreren Bundeslaendern ausgeschlossen (Pruefen!).
+- Verfahren vor Verwaltungsbehoerden in mehreren Bundeslaendern ausgeschlossen (Prüfen!).
 
 ### Schritt 7 — Uebergang zu PKH
 
-Wenn nach Beratung klar wird: Sie muessen klagen — beantragen Sie PKH (Skill `prozesskostenhilfe-pkh-114-zpo`). Beratungshilfe und PKH sind unterschiedliche Förderungen.
+Wenn nach Beratung klar wird: Sie müssen klagen — beantragen Sie PKH (Skill `prozesskostenhilfe-pkh-114-zpo`). Beratungshilfe und PKH sind unterschiedliche Förderungen.
 
 ### Schritt 8 — Welche Anwaelte?
 
 Jeder Anwalt darf Beratungshilfe-Mandate annehmen — er muss aber **nicht**. Manche Anwaelte lehnen wegen niedriger Gebühren ab. Suchen Sie ggf. mehrere.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Beratungshilfe vor Klage**, PKH **für Klage**. Verwechseln nicht.
 - **15 EUR Schutzgebuehr** ist obligatorisch (auch für Beduerftige).
@@ -94,7 +94,7 @@ Jeder Anwalt darf Beratungshilfe-Mandate annehmen — er muss aber **nicht**. Ma
 ## Typische Fehler
 
 - "Beratungshilfe deckt Klage." → Nein, für Klage PKH.
-- "Ich muss zuerst einen Anwalt nehmen." → Sie koennen auch direkt zum AG für Schein.
+- "Ich muss zuerst einen Anwalt nehmen." → Sie können auch direkt zum AG für Schein.
 - "Beratungshilfe ist kostenlos." → 15 EUR Schutzgebuehr.
 
 ## Quellen und Aktualitaet

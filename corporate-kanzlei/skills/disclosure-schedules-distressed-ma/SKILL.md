@@ -128,7 +128,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Normen
 
-- **§ 444 BGB** — bei arglistigem Verschweigen keine Haftungsfreizeichnung moeglich; Disclosure heilt nur bei vollstaendiger Offenbarung
+- **§ 444 BGB** — bei arglistigem Verschweigen keine Haftungsfreizeichnung möglich; Disclosure heilt nur bei vollstaendiger Offenbarung
 - **§ 311 II BGB** — vorvertragliche Aufklaerungspflicht; c.i.c.-Haftung bei wesentlichen verhohlenen Umstaenden
 - **§ 442 BGB** — Kaeufer-Kenntnis schliesst Mangel-Haftung aus; Anti-Sandbagging schraenkt das ein
 - **§ 453 BGB** — Anteilskauf; Gewaehrleistungsregime beim Anteilskauf
@@ -168,10 +168,10 @@ Allgemeine Offenlegung aller Datenraum-Dokumente als Disclosure — nur wirksam 
 
 1. **Warranty-Katalog analysieren** — jede Warranty des SPA einer Disclosure-Kategorie zuordnen
 2. **Disclosure-Koordinator benennen** — Ansprechpartner auf Verkaefer-Seite für jede Kategorie
-3. **Faktensammlung** — Datenraum-Dokumente systematisch auf disclosure-relevante Informationen pruefen
+3. **Faktensammlung** — Datenraum-Dokumente systematisch auf disclosure-relevante Informationen prüfen
 4. **Interne Anhörung** — Management, Finance, Legal, HR, Compliance abfragen
 5. **Entwurf Disclosure Letter** — konkrete Beschreibungen; keine allgemeinen Verweise auf Datenraum
-6. **Pruefung § 444 BGB** — bekannte Arglist-Risiken vollstaendig erfassen; kein Weglassen
+6. **Prüfung § 444 BGB** — bekannte Arglist-Risiken vollstaendig erfassen; kein Weglassen
 7. **Verhandlung mit Kaeufer** — manche Disclosures fuehren zu Nachverhandlung des SPA; Preisminderung oder Indemnity
 8. **Bring-Down bei Closing** — wenn neues Ereignis zwischen Signing und Closing aufgetreten: Closing Disclosure anpassen
 9. **Archivierung** — Disclosure Letter als Signatur-Anlage zum SPA; versioniert archivieren
@@ -229,7 +229,7 @@ nach vernaenftiger Nachforschung.
 - Bekannte Arglist-Risiken nicht offenbart → § 444 BGB; keine Haftungsfreizeichnung
 - Allgemeiner Verweis auf Datenraum statt konkreter Disclosure → OLG Frankfurt: keine wirksame Disclosure
 - Bring-Down-Disclosure bei Closing vergessen → Warranty-Verletzung für Ereignisse zwischen Signing und Closing
-- Materiality-Schwelle zu hoch gesetzt → kleinere Risiken nicht offenbart; spaeter Streit
+- Materiality-Schwelle zu hoch gesetzt → kleinere Risiken nicht offenbart; später Streit
 - Anti-Sandbagging falsch ausgelegt → Kaeufer-Kenntnis schliesst Ansprueche nicht aus wenn vertraglich so vereinbart
 
 ## Quellen

@@ -14,11 +14,11 @@ description: "Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss: Skill
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss. Skill klaert was Erwerber selbst pruefen koennen Handelsregister Bonitaetsauskuenfte Referenzen aktuelle Schlagzeilen sowie Warnsignale. Liefert Pruefliste.
+**Fokus:** Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss. Skill klaert was Erwerber selbst prüfen können Handelsregister Bonitaetsauskuenfte Referenzen aktuelle Schlagzeilen sowie Warnsignale. Liefert Pruefliste.
 
 ### Bautraeger Eigenkapital Ueberpruefung Vor Vertrag
 
-## Was pruefen
+## Was prüfen
 
 ### Handelsregisterauszug
 - Aktualitaet der Eintragung.

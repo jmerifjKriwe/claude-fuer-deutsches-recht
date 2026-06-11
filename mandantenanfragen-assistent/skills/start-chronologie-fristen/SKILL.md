@@ -157,10 +157,10 @@ Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, beruf
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Ist die Anfrage eine echte Neuanfrage, eine Folgekommunikation oder Spam?
+1. Mandantenkonstellation klären: Ist die Anfrage eine echte Neuanfrage, eine Folgekommunikation oder Spam?
 2. Phase des Mandats bestimmen: Erstkontakt (kein Mandat), vor Mandatsannahme (Konfliktcheck noetig) oder laufendes Mandat?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: Dringlichkeits-Check auf Signalwoerter (Hauptverhandlung, Kuendigungsfrist, Zwangsvollstreckung).
+4. Eilfristen prüfen: Dringlichkeits-Check auf Signalwoerter (Hauptverhandlung, Kuendigungsfrist, Zwangsvollstreckung).
 5. Anschluss-Skill bestimmen: Nach Erstantwort ggf. Folgekorrespondenz-Vorbereitung und CRM-Eintrag.
 
 ## Skill-Tour (was gibt es hier?)
@@ -186,13 +186,13 @@ Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, beruf
 - **Anrede prazise uebernehmen**: Fehler bei akademischen Titeln (Dr., Prof.) oder Doppelnamen sind der haeufigste Grund für unprofessionellen Ersteindruck.
 - **DSGVO-Pflichten beim Transkriptionsservice**: Ohne Einwilligung und Datenschutzhinweis ist die Transkription eines Telefonats nicht rechtsgemaess; die Einwilligung muss für den konkreten Zweck erteilt werden.
 - **Interessenkonflikt-Zeitpunkt**: Der Check muss vor jeder Terminvergabe erfolgen — nicht erst bei Mandatsannahme.
-- **Schweigepflicht gilt nicht ab Erstanfrage**: Sekretariatsmitarbeiter muessen wissen, dass die Verschwiegenheitspflicht erst nach Mandatsbeginn gilt, vorher aber allgemeine Diskretionspflichten bestehen.
+- **Schweigepflicht gilt nicht ab Erstanfrage**: Sekretariatsmitarbeiter müssen wissen, dass die Verschwiegenheitspflicht erst nach Mandatsbeginn gilt, vorher aber allgemeine Diskretionspflichten bestehen.
 
 ## Typische Fehler
 
-- Erstantwort enthaelt bereits inhaltliche Einschaetzungen zum Sachverhalt: Der Anwalt ist dann moeglicherweise beratend taetig ohne Verguetungsanspruch und mit Haftungsrisiko.
+- Erstantwort enthaelt bereits inhaltliche Einschaetzungen zum Sachverhalt: Der Anwalt ist dann moeglicherweise beratend tätig ohne Verguetungsanspruch und mit Haftungsrisiko.
 - Interessenkonflikt-Check wird uebersprungen: Bei spaeterer Entdeckung muss das Mandat niedergelegt werden; Reputations- und Haftungsschaden.
-- DSGVO-Einwilligung für Transkription fehlt: Datenschutzrechtliche Abmahnung oder Busgeld moeglich.
+- DSGVO-Einwilligung für Transkription fehlt: Datenschutzrechtliche Abmahnung oder Busgeld möglich.
 - Spam nicht erkannt: Massen-Anfragen und 419-Scams binden Kanzlei-Ressourcen ohne jeden Nutzen.
 - Mehrsprachige Anfragen auf Deutsch beantwortet: Mandant fuehl sich nicht abgeholt; Kanzlei verliert potenzielle Mandate.
 

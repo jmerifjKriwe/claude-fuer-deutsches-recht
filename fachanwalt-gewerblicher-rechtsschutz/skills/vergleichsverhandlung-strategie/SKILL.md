@@ -169,11 +169,11 @@ dieses Anwaltsvergleichs nach § 796a ZPO durch das [GERICHT].
 
 ### Eroeffnung mit Ankerwert
 
-> "Wir haben die Sache durchgerechnet. Auf Basis der BGH-Rechtsprechung zur Lizenzanalogie kommen wir auf [BETRAG] EUR. Wir sind bereit, ueber eine Pauschalsumme zu sprechen."
+> "Wir haben die Sache durchgerechnet. Auf Basis der BGH-Rechtsprechung zur Lizenzanalogie kommen wir auf [BETRAG] EUR. Wir sind bereit, über eine Pauschalsumme zu sprechen."
 
 ### Konzession mit Gegenleistung
 
-> "Wir koennen [BETRAG] nachgeben, wenn Sie im Gegenzug die Anti-Hammer-Klausel akzeptieren und die Vertragsstrafe auf [BETRAG] reduzieren."
+> "Wir können [BETRAG] nachgeben, wenn Sie im Gegenzug die Anti-Hammer-Klausel akzeptieren und die Vertragsstrafe auf [BETRAG] reduzieren."
 
 ### Walk-Away-Signal
 

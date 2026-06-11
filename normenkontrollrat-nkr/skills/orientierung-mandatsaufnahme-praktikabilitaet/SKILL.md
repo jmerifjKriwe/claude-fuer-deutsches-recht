@@ -21,7 +21,7 @@ Ziel: in zwei Minuten wissen, welche der 36 anderen Skills.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Anwendungsfall: Sekretariat hat einen Vorgang weitergeleitet, der NKR-Pruefung erfordert.
+Anwendungsfall: Sekretariat hat einen Vorgang weitergeleitet, der NKR-Prüfung erfordert.
 
 Eine einzige Rueckfrage:
 
@@ -32,7 +32,7 @@ Sind die drei Angaben vorhanden, sofort die Pruefskizze (siehe Ausgabeformat).
 ## Rechtlicher und methodischer Rahmen
 
 - **NKRG** vom 14.08.2006 (BGBl. I S. 1866) in der jeweils geltenden Fassung
-- **§§ 44, 45 GGO** (Pruefung der Gesetzesfolgen, Erfuellungsaufwand-Darstellung)
+- **§§ 44, 45 GGO** (Prüfung der Gesetzesfolgen, Erfuellungsaufwand-Darstellung)
 - **Handbuch der Rechtsfoermlichkeit (HdR)** als Drafting-Grundlage
 - **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR)
 
@@ -41,11 +41,11 @@ Sind die drei Angaben vorhanden, sofort die Pruefskizze (siehe Ausgabeformat).
 1. **Eingang triagieren**: Welcher Vorhabenstyp? Was ist die NKR-Befassungspflicht (§ 4 NKRG)?
 2. **Federfuehrendes Ressort identifizieren**: BMJ / BMI / BMF / BMWK etc.
 3. **Pruefumfang bestimmen** (Skill `nkr-pruefumfang-was-prueft-der-nkr-nicht`):
- - Pruefen: Methodik und Vollstaendigkeit der Erfuellungsaufwand-Darstellung, Nachvollziehbarkeit, Praktikabilitaet, Digitaltauglichkeit
- - **Nicht** pruefen: politische Zweckmaessigkeit oder Zielwahl
+ - Prüfen: Methodik und Vollstaendigkeit der Erfuellungsaufwand-Darstellung, Nachvollziehbarkeit, Praktikabilitaet, Digitaltauglichkeit
+ - **Nicht** prüfen: politische Zweckmaessigkeit oder Zielwahl
 4. **Phase im Verfahrensgang** (Skill `nkr-verfahrensgang-referentenentwurf-bis-bundestag`):
  - Referentenentwurf vor Ressortabstimmung / vor Kabinett / Formulierungshilfe / parlamentarische Aenderung
-5. **Frist klaeren**: Standardfrist nach NKRG / GGO; bei Eilbeduerftigkeit gekuerzte Frist
+5. **Frist klären**: Standardfrist nach NKRG / GGO; bei Eilbeduerftigkeit gekuerzte Frist
 6. **Cluster waehlen**:
  - Erfuellungsaufwand-Berechnung -> Cluster B
  - Pruefraster anwenden -> Cluster C
@@ -76,7 +76,7 @@ Sind die drei Angaben vorhanden, sofort die Pruefskizze (siehe Ausgabeformat).
 
 Erst-Antwort an Sekretariat (intern):
 
-> "Vorhaben **[Titel]** des **[Ressort]** vom **[Datum]**, Frist **[TT.MM.JJJJ]**. Pruefpfad: Eingangstriage -> Erfuellungsaufwand-Berechnung -> Pruefraster -> Stellungnahme. Spezialthemen: [Digital / EU / KMU / Vollzug]. Federfuehrung in der Pruefung: [Referent/in]. Erster Stellungnahme-Entwurf bis [Datum]."
+> "Vorhaben **[Titel]** des **[Ressort]** vom **[Datum]**, Frist **[TT.MM.JJJJ]**. Pruefpfad: Eingangstriage -> Erfuellungsaufwand-Berechnung -> Pruefraster -> Stellungnahme. Spezialthemen: [Digital / EU / KMU / Vollzug]. Federfuehrung in der Prüfung: [Referent/in]. Erster Stellungnahme-Entwurf bis [Datum]."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
@@ -93,4 +93,4 @@ Erst-Antwort an Sekretariat (intern):
 - Handbuch der Rechtsfoermlichkeit (HdR) in der jeweils geltenden Fassung
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

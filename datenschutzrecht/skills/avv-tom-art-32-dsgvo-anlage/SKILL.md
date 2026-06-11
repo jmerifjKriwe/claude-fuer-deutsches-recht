@@ -7,19 +7,19 @@ description: "TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung d
 
 ## Zweck / Purpose
 
-Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahmen des Auftragsverarbeiters gemaess Art. 32 DSGVO und Art. 28 Abs. 3 lit. c DSGVO. Purpose (EN): German-language TOM annex to a DPA under Article 32 GDPR.
+Strukturierte Anlage zum AVV mit den technischen und organisatorischen Maßnahmen des Auftragsverarbeiters gemäß Art. 32 DSGVO und Art. 28 Abs. 3 lit. c DSGVO. Purpose (EN): German-language TOM annex to a DPA under Article 32 GDPR.
 
 ## Wann dieses Modul hilft
 
-- TOM-Anlage zum AVV ist zu erstellen, zu pruefen oder zu aktualisieren.
+- TOM-Anlage zum AVV ist zu erstellen, zu prüfen oder zu aktualisieren.
 - Aufsichtsbehoerde fordert Nachweis der TOM.
-- Nach Datenpanne ist die TOM-Anlage auf Aktualitaet zu pruefen.
+- Nach Datenpanne ist die TOM-Anlage auf Aktualitaet zu prüfen.
 - Bei Aenderung der Verarbeitung ist die TOM-Anlage anzupassen.
 
 ## Rechtlicher Rahmen
 
 - Art. 32 Abs. 1 DSGVO: Geeignete TOM unter Beruecksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstaende und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos.
-- Art. 32 Abs. 1 lit. a bis d DSGVO: Pseudonymisierung und Verschluesselung, Vertraulichkeit, Integritaet, Verfuegbarkeit, Belastbarkeit, Wiederherstellbarkeit, regelmäßige Pruefung.
+- Art. 32 Abs. 1 lit. a bis d DSGVO: Pseudonymisierung und Verschluesselung, Vertraulichkeit, Integritaet, Verfuegbarkeit, Belastbarkeit, Wiederherstellbarkeit, regelmäßige Prüfung.
 - Art. 25 DSGVO: Datenschutz durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
 - Art. 28 Abs. 3 lit. c DSGVO: TOM als Pflichtklausel im AVV.
 
@@ -41,9 +41,9 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahme
  | Verfuegbarkeit | Backup, RPO/RTO, Notfallplan, geo-redundante Speicherung |
  | Belastbarkeit | DDoS-Schutz, Lastverteilung, Failover-Verfahren |
  | Wiederherstellbarkeit | Backup-Tests, dokumentierte Wiederherstellungsverfahren |
- | Regelmäßige Pruefung | jaehrliche TOM-Audits, Penetrationstests, Vulnerability Scans |
+ | Regelmäßige Prüfung | jaehrliche TOM-Audits, Penetrationstests, Vulnerability Scans |
 
-3. **Organisatorische Massnahmen.**
+3. **Organisatorische Maßnahmen.**
  - Datenschutzbeauftragter, Datenschutzschulungen (jaehrlich), Vertraulichkeitsverpflichtungen, IT-Sicherheits-Richtlinie, Incident-Response-Plan, Need-to-Know-Prinzip, Berechtigungsverwaltung, Joiner-Mover-Leaver-Prozess.
 
 4. **Zertifikate und Standards.**
@@ -54,7 +54,7 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahme
  - PCI-DSS (Zahlungsverkehr).
 
 5. **Sub-AV-Konsistenz.**
- - Sub-AV muessen mindestens dasselbe TOM-Niveau einhalten.
+ - Sub-AV müssen mindestens dasselbe TOM-Niveau einhalten.
  - Vertragliche Durchleitung (Art. 28 Abs. 4 DSGVO).
 
 ## Mustertext / Template
@@ -126,7 +126,7 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 
 ## Typische Drafting-Fehler
 
-- TOM-Anlage als Marketingbroschuere statt konkreter Massnahmen.
+- TOM-Anlage als Marketingbroschuere statt konkreter Maßnahmen.
 - Pauschalformulierungen ("nach Stand der Technik") ohne konkrete Beschreibung.
 - Keine Aktualisierung seit Vertragsschluss.
 - Pseudonymisierung als Pflicht uebergangen, obwohl Art. 32 Abs. 1 lit. a DSGVO sie explizit benennt.

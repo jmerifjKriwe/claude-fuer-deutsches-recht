@@ -7,7 +7,7 @@ description: "Trennt den engen Begriff Buerokratiekosten von dem umfassenderen B
 
 ## Worum geht es konkret
 
-Bis 2011 prueftes der NKR nur **Buerokratiekosten** (eng: Informationspflichten). Mit Erweiterung der Aufgaben prueft er seit 2011 den umfassenderen **Erfuellungsaufwand**. Die Begriffe werden in der Praxis weiter durcheinandergeworfen.
+Bis 2011 prueftes der NKR nur **Buerokratiekosten** (eng: Informationspflichten). Mit Erweiterung der Aufgaben prüft er seit 2011 den umfassenderen **Erfuellungsaufwand**. Die Begriffe werden in der Praxis weiter durcheinandergeworfen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -32,14 +32,14 @@ Keine Rueckfrage noetig.
 
 - **Inhalt**: nur Aufwand aus **Informationspflichten** (Mitteilung, Bericht, Anzeige, Statistik)
 - **Beispiele**: Berichtspflicht nach AWV, statistische Meldung, Steuererklaerung-Anhang, Geschaeftsbericht
-- **Bewertung**: ueber SKM
+- **Bewertung**: über SKM
 - **Bedeutung historisch**: Ursprung der NKR-Methodik (2006), heute Teil-Konzept
 
 ### Erfuellungsaufwand (umfassender Begriff)
 
 - **Inhalt**: gesamter Aufwand zur Befolgung der Norm
 - **Beispiele**: Buerokratiekosten **plus** Anschaffungen, IT-Anpassungen, bauliche Pflichten, Schulungen, Compliance-Prozesse, Verwaltungsaufwand
-- **Bewertung**: ueber SKM (erweitert um Sachkosten und externe Dienstleistungen)
+- **Bewertung**: über SKM (erweitert um Sachkosten und externe Dienstleistungen)
 - **Bedeutung heute**: Standard-Pruefgegenstand des NKR seit 2011
 
 ## Vergleichstabelle
@@ -50,13 +50,13 @@ Keine Rueckfrage noetig.
 | Beispiele | Bericht, Anzeige, Statistik | + IT-Investitionen, Schulung, bauliche Pflicht |
 | Bewertung | SKM-Standard | SKM erweitert |
 | Adressaten | meist Wirtschaft | Buerger, Wirtschaft, Verwaltung |
-| Pruefer | NKR (historisch) | NKR (seit 2011) |
+| Prüfer | NKR (historisch) | NKR (seit 2011) |
 | Berichtswesen | "Buerokratiekosten-Index" | "Erfuellungsaufwand-Saldo" |
 | One-in-one-out | bilanziert | bilanziert (laufender Aufwand) |
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
-- Ressort prueft nur Buerokratiekosten und uebersieht IT- / Schulungs-Anteil
+- Ressort prüft nur Buerokratiekosten und uebersieht IT- / Schulungs-Anteil
 - Begriffsverwechslung fuehrt zu Unterschaetzung des Aufwands
 - Verweis auf "alten" Bericht ohne Anpassung an erweiterten Begriff
 
@@ -70,7 +70,7 @@ Keine Rueckfrage noetig.
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der Erfuellungsaufwand umfasst gemaess Leitfaden BMI/NKR mehr als die Buerokratiekosten im engeren Sinne und schliesst Sachkosten und externe Dienstleistungen ein."
+- "Der Erfuellungsaufwand umfasst gemäß Leitfaden BMI/NKR mehr als die Buerokratiekosten im engeren Sinne und schliesst Sachkosten und externe Dienstleistungen ein."
 - "Der NKR weist darauf hin, dass die Ressortdarstellung nur die Informationspflichten quantifiziert; der Erfuellungsaufwand einschliesslich IT-Anpassung und Schulung wurde nicht ermittelt."
 - "Davon entfallen [X] Mio EUR auf Buerokratiekosten im engeren Sinne (Informationspflichten) und [Y] Mio EUR auf weiteren Erfuellungsaufwand."
 
@@ -87,4 +87,4 @@ Keine Rueckfrage noetig.
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - EU Better Regulation Toolbox (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

@@ -14,7 +14,7 @@ description: "Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat. Anwendungsfall Cyberangriff ist entdeckt und IT-rechtliche Meldepflichten sowie Beweissicherung muessen binnen Stunden eingeleitet werden. Normen Art. 33 DSGVO 72-Stunden-Meldung Datenpanne Art. 34 DSGVO Betroffeneninformation NIS2UmsuCG § 32 BSIG n.F. §§ 202a 303b StGB. Prüfraster Sofort-Eindaemmung Forensik-Sicherung DSGVO-Meldepflicht NIS-2-Fruehwarnung 24 Stunden Strafanzeige Cybersecurity-Versicherer Beweiskette. Output Sofortmassnahmen-Protokoll mit 72-Stunden-Plan Meldungsformulierung und Chain-of-Custody-Dokumentation. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-datenschutz-folgenabschaetzung.
+**Fokus:** Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat. Anwendungsfall Cyberangriff ist entdeckt und IT-rechtliche Meldepflichten sowie Beweissicherung müssen binnen Stunden eingeleitet werden. Normen Art. 33 DSGVO 72-Stunden-Meldung Datenpanne Art. 34 DSGVO Betroffeneninformation NIS2UmsuCG § 32 BSIG n.F. §§ 202a 303b StGB. Prüfraster Sofort-Eindaemmung Forensik-Sicherung DSGVO-Meldepflicht NIS-2-Fruehwarnung 24 Stunden Strafanzeige Cybersecurity-Versicherer Beweiskette. Output Sofortmassnahmen-Protokoll mit 72-Stunden-Plan Meldungsformulierung und Chain-of-Custody-Dokumentation. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-datenschutz-folgenabschaetzung.
 
 ### Cyber-Incident-Response 72 Stunden
 
@@ -89,7 +89,7 @@ description: "Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltr
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -175,7 +175,7 @@ Auftragsverarbeiter: [Forensik-Dienstleister]
  gesichert und lueckenlos protokolliert.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -254,13 +254,13 @@ Auftragsverarbeiter: [Forensik-Dienstleister]
 
 ## Faktische Updates (Stand 05/2026)
 
-- **NIS-2-UmsuCG (Umsetzungsgesetz):** Das NIS-2-Umsetzungs- und Cybersicherheitsstaerkungsgesetz setzt die NIS-2-Richtlinie (EU) 2022/2555 in deutsches Recht um. Stand des Inkrafttretens (urspruenglich Frist 17.10.2024, verzoegert in Deutschland) ueber bgbl.de / BMI live pruefen. Bei Verzoegerung: ggf. Direktwirkung der Richtlinie gegenueber dem Staat (vertikale Direktwirkung), nicht gegenueber Privaten.
+- **NIS-2-UmsuCG (Umsetzungsgesetz):** Das NIS-2-Umsetzungs- und Cybersicherheitsstaerkungsgesetz setzt die NIS-2-Richtlinie (EU) 2022/2555 in deutsches Recht um. Stand des Inkrafttretens (urspruenglich Frist 17.10.2024, verzoegert in Deutschland) über bgbl.de / BMI live prüfen. Bei Verzoegerung: ggf. Direktwirkung der Richtlinie gegenueber dem Staat (vertikale Direktwirkung), nicht gegenueber Privaten.
 - **§ 32 BSIG n. F. — Meldefristen:** Drei-Stufen-Meldung: 24 h Fruehwarnung (early warning), 72 h vollstaendige Vorfallsmeldung (incident notification), 1 Monat Abschlussbericht (final report). Quelle: bsi.bund.de, BSIG (BGBl 2025).
-- **NIS-2-Adressatenkreis:** Wesentliche (essential) und wichtige (important) Einrichtungen nach Anhang I und II der Richtlinie. Size-cap-Rule (mittlere/grosse Unternehmen) plus sektorale Ausnahmen. Sektoren: Energie, Verkehr, Bankwesen, Finanzmarktinfrastruktur, Gesundheit, Trinkwasser, Abwasser, digitale Infrastruktur, IKT-Dienstleistungs-Management, Oeffentliche Verwaltung, Raumfahrt; wichtig: Post/Kurier, Abfall, Chemie, Lebensmittel, Industrie, Anbieter digitaler Dienste, Forschung.
-- **CRA — Cyber Resilience Act:** VO (EU) 2024/2847 (Cyber Resilience Act) ergaenzt mit Produktsicherheits-Anforderungen für Produkte mit digitalen Elementen. Hauptpflichten gestaffelt ab 2026/2027. Vor Beratung Stand pruefen ueber eur-lex.europa.eu.
+- **NIS-2-Adressatenkreis:** Wesentliche (essential) und wichtige (important) Einrichtungen nach Anhang I und II der Richtlinie. Size-cap-Rule (mittlere/große Unternehmen) plus sektorale Ausnahmen. Sektoren: Energie, Verkehr, Bankwesen, Finanzmarktinfrastruktur, Gesundheit, Trinkwasser, Abwasser, digitale Infrastruktur, IKT-Dienstleistungs-Management, Oeffentliche Verwaltung, Raumfahrt; wichtig: Post/Kurier, Abfall, Chemie, Lebensmittel, Industrie, Anbieter digitaler Dienste, Forschung.
+- **CRA — Cyber Resilience Act:** VO (EU) 2024/2847 (Cyber Resilience Act) ergaenzt mit Produktsicherheits-Anforderungen für Produkte mit digitalen Elementen. Hauptpflichten gestaffelt ab 2026/2027. Vor Beratung Stand prüfen über eur-lex.europa.eu.
 - **DORA — Digital Operational Resilience Act:** VO (EU) 2022/2554 (DORA) ist seit 17.01.2025 anwendbar für Finanzunternehmen; Cyber-Vorfallsmeldungen an BaFin nach ITSV-DORA bei Schnittstelle zu DSGVO-Meldung beachten.
-- **Art. 82 DSGVO — Schadensersatz:** EuGH-Linie zum immateriellen Schadensersatz bei Datenpannen (Kontrollverlust kann genuegen, aber keine Pauschalierung). Konkrete Aktenzeichen live ueber curia.europa.eu pruefen.
-- **OFAC-Sanktionen / EU-Sanktionen bei Loesegeld:** Bei Loesegeld-Zahlung an sanktionierte Tätergruppen drohen Verstoesse gegen EU-Verordnungen (z.B. VO 269/2014 Russland, VO 833/2014) sowie US-OFAC-Sanktionen. Vor jeder Zahlung Sanktionsliste pruefen. Quellen: sanctionsmap.eu, ofac.treasury.gov.
+- **Art. 82 DSGVO — Schadensersatz:** EuGH-Linie zum immateriellen Schadensersatz bei Datenpannen (Kontrollverlust kann genügen, aber keine Pauschalierung). Konkrete Aktenzeichen live über curia.europa.eu prüfen.
+- **OFAC-Sanktionen / EU-Sanktionen bei Loesegeld:** Bei Loesegeld-Zahlung an sanktionierte Tätergruppen drohen Verstoesse gegen EU-Verordnungen (z.B. VO 269/2014 Russland, VO 833/2014) sowie US-OFAC-Sanktionen. Vor jeder Zahlung Sanktionsliste prüfen. Quellen: sanctionsmap.eu, ofac.treasury.gov.
 
 ## Output-Template — DSGVO-Meldung Art. 33
 **Adressat:** Zustaendige Datenschutz-Aufsichtsbehoerde — Tonfall: sachlich-berichtend

@@ -92,12 +92,12 @@ Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreit
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — CMR-Haftung pruefen und geltend machen | CMR-Schreiben; Template unten |
-| Variante A — Haftungshoechstbetrag bereits erreicht | Qualifiziertes Verschulden CMR Art. 29 pruefen; unbegrenzte Haftung |
+| Standard — CMR-Haftung prüfen und geltend machen | CMR-Schreiben; Template unten |
+| Variante A — Haftungshoechstbetrag bereits erreicht | Qualifiziertes Verschulden CMR Art. 29 prüfen; unbegrenzte Haftung |
 | Variante B — Mehrere Frachtfuehrer (Durchfrachtvertrag) | Regressweg CMR Art. 34 ff. bestimmen |
 | Variante C — Schaden nach Uebergabe an Empfaenger | Ablieferungszeitpunkt CMR Art. 17; Ruegefristen beachten |
 
@@ -223,7 +223,7 @@ Art. 34); [A] muss Regress gegen [C] nehmen (Art. 37 CMR).
 Hilfsweise Klage auch gegen [C].
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

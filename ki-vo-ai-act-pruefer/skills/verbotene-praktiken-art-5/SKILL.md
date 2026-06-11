@@ -87,8 +87,8 @@ description: "Unternehmen prüft ob ein KI-Einsatz in den Bereich der absolut ve
 ## Faktische Updates (Stand 05/2026)
 
 - **02.02.2025 — Anwendung Art. 5 KI-VO:** Die acht verbotenen Praktiken sind seit dem 02.02.2025 verbindlich. Quelle: VO (EU) 2024/1689, Art. 113 lit. a — eur-lex.europa.eu/eli/reg/2024/1689/oj.
-- **Kommissions-Leitlinien zu Art. 5:** Die EU-Kommission hat Anfang 2025 Leitlinien zu Art. 5 KI-VO veroeffentlicht, die die Tatbestandsmerkmale für Anwender konkretisieren (u.a. Begriff "subliminale Technik", "Vulnerabilitaetsausnutzung", Abgrenzung zu zulaessigem Profiling). Stand und aktuelle Fassung live pruefen ueber digital-strategy.ec.europa.eu/en/policies/ai-act.
-- **02.08.2025 — Sanktionen wirksam:** Art. 99 KI-VO ist seit dem 02.08.2025 vollumfaenglich anwendbar; Marktueberwachungsbehoerden in den Mitgliedstaaten koennen Bussgeldverfahren einleiten.
+- **Kommissions-Leitlinien zu Art. 5:** Die EU-Kommission hat Anfang 2025 Leitlinien zu Art. 5 KI-VO veroeffentlicht, die die Tatbestandsmerkmale für Anwender konkretisieren (u.a. Begriff "subliminale Technik", "Vulnerabilitaetsausnutzung", Abgrenzung zu zulaessigem Profiling). Stand und aktuelle Fassung live prüfen über digital-strategy.ec.europa.eu/en/policies/ai-act.
+- **02.08.2025 — Sanktionen wirksam:** Art. 99 KI-VO ist seit dem 02.08.2025 vollumfaenglich anwendbar; Marktueberwachungsbehoerden in den Mitgliedstaaten können Bussgeldverfahren einleiten.
 
 ---
 
@@ -115,8 +115,8 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 4. Sind biometrische Daten oder Emotionserkennung beteiligt (lit. f, g, h)?
 5. Gibt es Ausnahmen nach Art. 5 Abs. 2-8 KI-VO (Echtzeit-RBI in Ausnahmefaellen)?
 
-## Output-Template — Verbotene-Praktiken-Pruefung
-**Adressat:** Pruefer / Rechtsberater — Tonfall: entscheidungsbaum-strukturiert
+## Output-Template — Verbotene-Praktiken-Prüfung
+**Adressat:** Prüfer / Rechtsberater — Tonfall: entscheidungsbaum-strukturiert
 ```
 VERBOTENE-PRAKTIKEN-PRUEFUNG ART. 5 KI-VO
 [DATUM] — System: [SYSTEMNAME]

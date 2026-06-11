@@ -17,7 +17,7 @@ description: "Sondernutzung öffentlicher Strassenflaechen beantragen und anfech
 
 1. **Bundesstrasse oder Gemeindestrasse?** — Bundesstrasse: § 8 FStrG; Gemeindestrasse: § 16 StrWG (je nach Bundesland); unterschiedliche Zuständigkeiten.
 2. **Art der Sondernutzung?** — Ladesaeule, Aussengastro, Warenauslage, Baustelleneinrichtung, Werbetafel, Kiosk.
-3. **Liegt schon eine Genehmigung vor?** — Widerrufsvorbehalt pruefen; Gebühren; Auflagen.
+3. **Liegt schon eine Genehmigung vor?** — Widerrufsvorbehalt prüfen; Gebühren; Auflagen.
 4. **Wurde abgelehnt?** — Zustaendige Behörde, Versagungsgruende, Ermessen?
 5. **Zeitliche Dringlichkeit?** — Einstweiliger Rechtsschutz (§ 80a VwGO) bei drohender Vollzugshandlung.
 
@@ -38,13 +38,13 @@ description: "Sondernutzung öffentlicher Strassenflaechen beantragen und anfech
 
 1. **Sondernutzungsart und Strassenkategorie bestimmen** → zuständige Behörde.
 2. **Antrag stellen:** Nutzungsart, Dauer, Flaeche, Zweck; Lageskizze.
-3. **Auflagen beim Erhalt der Erlaubnis pruefen:** Verkehrssicherungspflicht, Haftung, Gebühren.
-4. **Widerrufsvorbehalt dokumentieren:** Bei laengerfristiger Investition (Ladesaeule) Bestandsschutz-Frage klaeren.
+3. **Auflagen beim Erhalt der Erlaubnis prüfen:** Verkehrssicherungspflicht, Haftung, Gebühren.
+4. **Widerrufsvorbehalt dokumentieren:** Bei laengerfristiger Investition (Ladesaeule) Bestandsschutz-Frage klären.
 5. **Bei Ablehnung:** Widerspruch (1 Monat, § 70 VwGO) → Verpflichtungsklage VG.
 
 ## Harte Leitplanken
 
 - Sondernutzungserlaubnis ist widerruflich — Investitionen sorgfaeltig planen.
-- Gebühren muessen verhaeltnismaessig sein — bei exzessiven Gebühren Widerspruch.
-- Gleichbehandlung pruefen: Erlaubt die Gemeinde anderen Nutzern dasselbe?
+- Gebühren müssen verhaeltnismaessig sein — bei exzessiven Gebühren Widerspruch.
+- Gleichbehandlung prüfen: Erlaubt die Gemeinde anderen Nutzern dasselbe?
 - Anwaltliche Endkontrolle bei Antraegen und Widerspruechen.

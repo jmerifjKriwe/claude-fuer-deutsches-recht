@@ -3,7 +3,7 @@ name: signing-closing-conditions
 description: "Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden: Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transak..."
 ---
 
-# Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden
+# Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing müssen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Trans
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, § 179a AktG Hauptversammlungsvorbehalt, §§ 35 ff. GWB Kartellfreigabe. Prüfraster alle CPs identifiziert und zugeordnet, Ordinary-Course-Covenants überwacht, Bring-down-Condition aktuell, Funds Flow koordiniert. Output CP-Tracker mit Owner Frist Status und Closing-Checkliste. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Closing-Bible für Archivierung.
+**Fokus:** Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing müssen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, § 179a AktG Hauptversammlungsvorbehalt, §§ 35 ff. GWB Kartellfreigabe. Prüfraster alle CPs identifiziert und zugeordnet, Ordinary-Course-Covenants überwacht, Bring-down-Condition aktuell, Funds Flow koordiniert. Output CP-Tracker mit Owner Frist Status und Closing-Checkliste. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Closing-Bible für Archivierung.
 
 ### Signing, Closing und Conditions Precedent
 
@@ -117,11 +117,11 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Triage — klaere vor Signing
 
-1. Welche Conditions Precedent sind im SPA vereinbart — Regulatorisch (Kartell, FDI), Gesellschaftsrechtlich (Beschluesse, Genehmigungen), W&I-Deckungsbestaetigung?
+1. Welche Conditions Precedent sind im SPA vereinbart — Regulatorisch (Kartell, FDI), Gesellschaftsrechtlich (Beschlüsse, Genehmigungen), W&I-Deckungsbestaetigung?
 2. Welche Ordinary Course Covenants gelten zwischen Signing und Closing — Veraeußerungsverbote, Investitionskoerbe, Personalaenderungen?
 3. Wer ist verpflichtet, jede CP zu erfullen — Kaeufer, Verkaeufer, Zielgesellschaft? Welche Frist gilt?
-4. Was ist das Longstop Date — Datum, bis zu dem alle CPs erfullt sein muessen, andernfalls Ruecktrittsrecht?
-5. Welche Bring-down-Bedingung gilt — sind alle Garantien beim Closing noch zutreffend (Material Adverse Change-Pruefung)?
+4. Was ist das Longstop Date — Datum, bis zu dem alle CPs erfullt sein müssen, andernfalls Ruecktrittsrecht?
+5. Welche Bring-down-Bedingung gilt — sind alle Garantien beim Closing noch zutreffend (Material Adverse Change-Prüfung)?
 6. Welcher Notar/Treuhander begleitet das Signing und das Closing?
 
 ## Zentrale Rechtsgrundlagen
@@ -144,7 +144,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. **CP-Register anlegen:** alle CPs aus SPA extrahieren; je CP: Owner, Faelligkeit, Nachweis (Behördenbescheid, Beschluss, Zertifikat), Eskalationsstufe
 2. **Kartell- und FDI-Timeline:** bei Fusionskontrollpflicht §§ 35 ff. GWB: Filing-Datum plus 4 Wochen (Phase I) oder Phase-II-Risiko einkalkulieren; FDI § 55 AWV: 2-4 Monate
 3. **Ordinary Course Covenants ueberwachen:** wochentliche Kontrolle Veraeusserungsverbote, Investitionskoerbe, wesentliche Vertragsaenderungen, Personalentscheidungen
-4. **Bring-down-Check:** Tage vor Closing alle SPA-Garantien gegen Ist-Zustand pruefen; MAC-Pruefung; eventuelle Closing-Verweigerung dokumentieren
+4. **Bring-down-Check:** Tage vor Closing alle SPA-Garantien gegen Ist-Zustand prüfen; MAC-Prüfung; eventuelle Closing-Verweigerung dokumentieren
 5. **Closing Deliverables vorbereiten:** Gesellschafterliste, Vollmachten, Organschaftsbeschluesse, Bankbestaetigung, W&I-Deckungszusage, Funds Flow Statement
 6. **Funds Flow koordinieren:** Kaufpreis, Auszahlungsanweisung, Bankfreigaben, Escrow; Timing: T-0 Überweisungsnachweis vor Closing-Vollzug
 7. **Closing-Ablauf durchfuhren:** Zug-um-Zug (§ 322 BGB analog) — Dokumente gegen Kaufpreiszahlung; Notar oder Treuhander als Closing Agent
@@ -154,7 +154,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Kartell-CP → GWB-Filing erforderlich → Vollzugsverbot bis Freigabe → Gun Jumping vermeiden
 - FDI-CP → § 55 AWV → Genehmigung abwarten → bei Verstoß: Nichtigkeit des Vollzugs
-- Bring-down scheitert → MAC ausgeloest → Kaeufer hat Ruecktrittsrecht → Pruefung und Dokumentation sofort
+- Bring-down scheitert → MAC ausgeloest → Kaeufer hat Ruecktrittsrecht → Prüfung und Dokumentation sofort
 - Longstop Date erreicht ohne CP → Ruecktrittsrecht → Frist 2 Wochen für Ruecktrittserklaerung (§ 349 BGB)
 
 ## Output-Template: CP-Tracker

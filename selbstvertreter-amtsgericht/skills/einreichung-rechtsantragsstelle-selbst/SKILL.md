@@ -7,7 +7,7 @@ description: "Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koen
 
 ## Worum geht es?
 
-Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantragstelle" oder "Geschaeftsstelle für Rechtsantraege" genannt). Dort koennen Sie als Buerger **muendlich** Klagen aufnehmen lassen, Antraege stellen und sich formal beraten. Das ist kostenlos und insbesondere für Selbstvertreter sehr nuetzlich, wenn Sie unsicher sind, wie ein Schriftsatz auszusehen hat.
+Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantragstelle" oder "Geschaeftsstelle für Rechtsantraege" genannt). Dort können Sie als Buerger **muendlich** Klagen aufnehmen lassen, Antraege stellen und sich formal beraten. Das ist kostenlos und insbesondere für Selbstvertreter sehr nuetzlich, wenn Sie unsicher sind, wie ein Schriftsatz auszusehen hat.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -33,18 +33,18 @@ Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantr
 
 - Aufnahme einer Klage zu Protokoll (§ 496 ZPO) — kostenlos.
 - Hilfe bei Antraegen (Mahnbescheid, PKH-Antrag, Vollstreckungs-Antraege).
-- Pruefung formaler Anforderungen (Adressen, Streitwert, Antrag).
-- Informationen ueber Zuständigkeit und Verfahren.
+- Prüfung formaler Anforderungen (Adressen, Streitwert, Antrag).
+- Informationen über Zuständigkeit und Verfahren.
 
 ### Schritt 2 — Was sie NICHT macht
 
-- **Keine inhaltliche Rechtsberatung**: Mitarbeiter koennen nicht beurteilen, ob Ihr Anspruch besteht.
+- **Keine inhaltliche Rechtsberatung**: Mitarbeiter können nicht beurteilen, ob Ihr Anspruch besteht.
 - **Keine Strategie-Beratung**: Was am sinnvollsten zu tun ist, mit welchem Antrag, mit welchen Hilfsantraegen — das beraet ein Anwalt.
-- **Keine Vertretung im Termin**: Sie muessen selbst erscheinen.
+- **Keine Vertretung im Termin**: Sie müssen selbst erscheinen.
 
 ### Schritt 3 — Wann hingehen?
 
-- Termin oder offene Sprechzeiten klaeren (Webseite Amtsgericht).
+- Termin oder offene Sprechzeiten klären (Webseite Amtsgericht).
 - Manche AG haben durchgehende Sprechzeiten, andere nach Termin.
 
 ### Schritt 4 — Was mitbringen?
@@ -58,7 +58,7 @@ Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantr
 
 Sie tragen muendlich vor; ein Justizmitarbeiter haelt es schriftlich fest. Sie unterzeichnen das Protokoll. Das ist eine vollwertige Klageschrift.
 
-Vorteil: Sie muessen nicht selbst formulieren.
+Vorteil: Sie müssen nicht selbst formulieren.
 
 Nachteil: Mitarbeiter wird Sie auf Wesentliches reduzieren und nicht jede Nuance Ihrer Sicht spiegeln. Daher: Notizen mitbringen, klare Fakten kennen.
 
@@ -80,7 +80,7 @@ Beim Rechtspfleger (eigene Stelle am AG, oft im Bereich Rechtsantragsstelle):
 
 Detailliert beim separaten Substitutionsagenten.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Vorbereitung**: Wenn Sie unstrukturiert kommen, dauert es laenger oder Mitarbeiter winken ab.
 - **Mitarbeiter sind Justizmitarbeiter, nicht Anwaelte**: Keine inhaltliche Beratung.
@@ -88,10 +88,10 @@ Detailliert beim separaten Substitutionsagenten.
 
 ## Typische Fehler
 
-- "Ich gehe ohne Unterlagen hin." → Mitarbeiter koennen ohne Daten/Belege nichts ordentlich aufnehmen.
-- "Ich erwarte Rechtsberatung." → Gibt es nicht. Fuer Beratung Anwalt oder Beratungshilfe.
+- "Ich gehe ohne Unterlagen hin." → Mitarbeiter können ohne Daten/Belege nichts ordentlich aufnehmen.
+- "Ich erwarte Rechtsberatung." → Gibt es nicht. Für Beratung Anwalt oder Beratungshilfe.
 - "Ich gehe direkt vor Termin ohne Anmeldung." → Manche AG nur nach Termin.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 496 ZPO unveraendert. Rechtsantragsstellen bei den meisten AG vorhanden — vor Besuch Sprechzeiten klaeren.
+Stand: 05/2026. § 496 ZPO unveraendert. Rechtsantragsstellen bei den meisten AG vorhanden — vor Besuch Sprechzeiten klären.

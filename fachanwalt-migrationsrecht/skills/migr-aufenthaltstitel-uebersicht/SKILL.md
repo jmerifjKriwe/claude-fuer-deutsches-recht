@@ -3,7 +3,7 @@ name: migr-aufenthaltstitel-uebersicht
 description: "Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU: Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis,..."
 ---
 
-# Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU
+# Übersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU
 
 
 ## Arbeitsweg
@@ -14,9 +14,9 @@ description: "Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis,
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU. Pro Titel Anspruchsvoraussetzungen, Zuständigkeit, typische Versagungsgruende.
+**Fokus:** Übersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU. Pro Titel Anspruchsvoraussetzungen, Zuständigkeit, typische Versagungsgruende.
 
-### Migr: Aufenthaltstitel-Uebersicht
+### Migr: Aufenthaltstitel-Übersicht
 
 ## Einstieg
 Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
@@ -24,16 +24,16 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Aufenthaltstitel-Uebersicht (§ 4 I 2 AufenthG)
+## Aufenthaltstitel-Übersicht (§ 4 I 2 AufenthG)
 
 ### 1. Visum
 
 - **Schengen-Visum** Typ C (kurzer Aufenthalt bis 90 Tage / 180 Tage); EU-VO 810/2009 Visakodex.
 - **Nationales Visum** Typ D § 6 III AufenthG (laengerer Aufenthalt zu Studienzweck, Familiennachzug, Erwerbstaetigkeit).
-- Zuständigkeit: Auslandsvertretung; Verpflichtungserklaerung § 68 AufenthG durch Dritten moeglich.
+- Zuständigkeit: Auslandsvertretung; Verpflichtungserklaerung § 68 AufenthG durch Dritten möglich.
 
 ### 2. Aufenthaltserlaubnis (befristet, § 7 AufenthG)
 
@@ -73,7 +73,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 - **Visumumgehung**: § 5 II AufenthG; Heilungsmoeglichkeit bei Anspruch auf Erteilung (§ 5 II 2 AufenthG).
 - **Bestandskraft Versagung**: Klagefrist § 74 VwGO ein Monat nach Bekanntgabe.
 - **Aufenthaltserlaubnis vs. Fiktionsbescheinigung** § 81 IV AufenthG: rechtzeitige Verlaengerung sichert Status; verspaeteter Antrag = Statusverlust.
-- **Aenderung Aufenthaltszweck** § 7 AufenthG: nicht immer moeglich; manchmal Ausreise und Neueinreise mit Visum noetig.
+- **Aenderung Aufenthaltszweck** § 7 AufenthG: nicht immer möglich; manchmal Ausreise und Neueinreise mit Visum noetig.
 - **EU-Buerger und Familienangehoerige** Freizuegigkeit § 2 FreizuegG/EU; nicht AufenthG.
 - **Tuerkische Arbeitnehmer** Sonderrechte aus ARB 1/80.
 

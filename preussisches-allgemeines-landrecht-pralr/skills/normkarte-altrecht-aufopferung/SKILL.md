@@ -34,16 +34,16 @@ description: "PrALR: Normkarte Altrecht in heutiger Akte: prüft konkret die ein
 
 1. Datum des Rechtsgeschaefts feststellen.
 2. Anwendbares Recht ermitteln (ALR, Code civil, Gemeines Recht).
-3. EGBGB Art. 184 / 218 pruefen.
+3. EGBGB Art. 184 / 218 prüfen.
 4. Heutige Ablöse-/Bereinigungsmoeglichkeiten.
 
 ## Sachenrechtsbereinigungsgesetz 1994
 
-- Fuer Ostdeutschland.
+- Für Ostdeutschland.
 - Ablöse von Bodenreformland und Altrechten.
 
 ## Pruefraster
 
 1. Wann begruendet?
 2. Welches Recht?
-3. Heute Ablöse moeglich?
+3. Heute Ablöse möglich?

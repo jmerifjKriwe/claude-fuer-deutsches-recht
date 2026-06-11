@@ -15,7 +15,7 @@ Diese Output-Weiche für **Verlagsredaktion** entscheidet, ob Memo, Antrag, Schr
 - `abstimmung-lektorat-produktion-satz` — Abstimmung Lektorat Produktion Satz
 - `abstimmung-mit-autor-feedback-kanal` — Abstimmung mit Autor Feedback Kanal
 - `abstimmung-mit-produktion-satz-druck` — Abstimmung mit Produktion Satz Druck
-- `abstimmung-mit-rechtsabteilung-pruefung` — Abstimmung mit Rechtsabteilung Pruefung
+- `abstimmung-mit-rechtsabteilung-pruefung` — Abstimmung mit Rechtsabteilung Prüfung
 - `abstimmung-mit-vertrieb-marketing` — Abstimmung mit Vertrieb Marketing
 - `ai-einsatz-transparenz-datenschutz` — AI Einsatz Transparenz Datenschutz
 - `audio-transkript-zu-fachbeitrag` — Audio Transkript zu Fachbeitrag

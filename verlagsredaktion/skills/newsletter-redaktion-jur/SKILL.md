@@ -45,7 +45,7 @@ Der Verlag betreibt einen oder mehrere Newsletter (Anwaltsbrief, Steuerletter, U
 5. **Impressum integrieren.** Im Footer jedes Newsletters, mit V. i. S. d. P., Anschrift, Vertretung.
 6. **Abmeldelink** in jeder Ausgabe; Abmeldung mit einem Klick (BGH-Praxis).
 7. **Werbekennzeichnung.** Anzeigen sichtbar als "Anzeige" markieren.
-8. **Versand und Tracking.** Bei Tracking-Pixeln Einwilligung pruefen, alternativ trackingfrei versenden.
+8. **Versand und Tracking.** Bei Tracking-Pixeln Einwilligung prüfen, alternativ trackingfrei versenden.
 9. **Erfolgsmessung.** Open Rate, Klickrate, Abmeldequote; Abmeldequote > 1 Prozent ist Warnzeichen.
 
 ## Trade-off-Matrix
@@ -60,7 +60,7 @@ Der Verlag betreibt einen oder mehrere Newsletter (Anwaltsbrief, Steuerletter, U
 
 ## Praxistipps der alten Redaktion
 
-- Betreffzeile entscheidet ueber Open Rate; max. 50 Zeichen, konkret.
+- Betreffzeile entscheidet über Open Rate; max. 50 Zeichen, konkret.
 - Verzicht auf Personalisierung "Liebe Frau Mueller" wirkt seriaeser als Standard.
 - Pflichtangaben Impressum nie im Bild verstecken (Spamfilter).
 - Bestaetigungsmail des Double-opt-in beweissicher loggen (IP, Datum).

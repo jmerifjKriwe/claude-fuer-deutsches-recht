@@ -33,7 +33,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 ## Leitentscheidung
 
 - BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (Kein wirksamer Verzicht auf den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis durch Prozessvergleich; § 13 Abs. 1 Satz 3 BUrlG i.V.m. RL 2003/88/EG).
-- Tragende Aussage: Eine Vereinbarung in einem gerichtlichen Vergleich, wonach der gesetzliche Mindesturlaub "in natura gewaehrt" gilt, ist nichtig, soweit der Arbeitnehmer den Urlaub waehrend des laufenden Arbeitsverhaeltnisses (insbesondere bei Arbeitsunfaehigkeit) nicht tatsaechlich nehmen kann. Erst mit Beendigung des Arbeitsverhaeltnisses entsteht der Urlaubsabgeltungsanspruch nach § 7 Abs. 4 BUrlG und ist dann grundsaetzlich dispositiv.
+- Tragende Aussage: Eine Vereinbarung in einem gerichtlichen Vergleich, wonach der gesetzliche Mindesturlaub "in natura gewaehrt" gilt, ist nichtig, soweit der Arbeitnehmer den Urlaub waehrend des laufenden Arbeitsverhaeltnisses (insbesondere bei Arbeitsunfaehigkeit) nicht tatsaechlich nehmen kann. Erst mit Beendigung des Arbeitsverhaeltnisses entsteht der Urlaubsabgeltungsanspruch nach § 7 Abs. 4 BUrlG und ist dann grundsätzlich dispositiv.
 - Offene Quelle: dejure.org, Vernetzung BAG 03.06.2025 - 9 AZR 104/24; BAG-Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich".
 - Vorinstanz: LAG (laut Drittberichten, Verifizierung in dejure-Vernetzung sinnvoll).
 

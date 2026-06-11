@@ -15,7 +15,7 @@ description: "Bewertung von Grundvermoegen für Zwecke der Erbschaft- und Schenk
 
 1. Welches Verfahren wendet das Finanzamt an (Vergleich Ertrag Sachwert)?
 2. Welche Bodenrichtwert- und Bewertungsparameter werden zugrunde gelegt?
-3. Liegt ein zeitnahes qualifiziertes Gutachten eines oeffentlich bestellten Sachverstaendigen vor?
+3. Liegt ein zeitnahes qualifiziertes Gutachten eines öffentlich bestellten Sachverstaendigen vor?
 4. Wurde der Antrag § 198 BewG mit Nachweis des niedrigeren gemeinen Werts gestellt?
 5. Gibt es verfassungsrechtliche Bedenken gegen die Bewertung nach BewG nF?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)

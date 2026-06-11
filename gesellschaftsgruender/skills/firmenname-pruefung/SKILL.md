@@ -26,10 +26,10 @@ description: "Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Diff
 Klaere mindestens 2 Wochen vor Notar-Termin:
 
 1. **3-5 Wunsch-Firmen bereit?** Immer Alternativen vorbereiten; Plan A kann beanstandet werden.
-2. **Branchenbezeichnung im Namen?** Pruefen ob Zulassung erforderlich (Bank: BaFin; Steuer: StBerG; Rechts: RAK).
-3. **Personenname im Firmennamen?** Eigener Name: unproblematisch; fremder Name: Berechtigung pruefen (§ 12 BGB).
+2. **Branchenbezeichnung im Namen?** Prüfen ob Zulassung erforderlich (Bank: BaFin; Steuer: StBerG; Rechts: RAK).
+3. **Personenname im Firmennamen?** Eigener Name: unproblematisch; fremder Name: Berechtigung prüfen (§ 12 BGB).
 4. **Marken-Relevanz?** Bei Startup oder Brand mit Aussenauftritt: DPMA/EUIPO-Recherche vor Eintragung.
-5. **Internationale Aktivitaet?** Bedeutung des Namens in Zielmaerkten pruefen; schwer aussprechbare Namen vermeiden.
+5. **Internationale Aktivitaet?** Bedeutung des Namens in Zielmaerkten prüfen; schwer aussprechbare Namen vermeiden.
 6. **Domain bereits gesichert?** Domain VOR Notar-Termin sichern; nachtraeglich oft nicht mehr verfuegbar.
 
 ## Zentrale Normen
@@ -48,7 +48,7 @@ Klaere mindestens 2 Wochen vor Notar-Termin:
 
 ## Prüfschema: Firmennamen-Check
 
-| Schritt | Pruefung | Stelle | Ergebnis |
+| Schritt | Prüfung | Stelle | Ergebnis |
 |---|---|---|---|
 | 1 | Handelsregister-Suche bundesweit | gemeinsam.handelsregister.de | Konflikt? Wenn ja, Name anpassen |
 | 2 | IHK-Firmenvorpruefung beantragt | Oertliche IHK | Bescheinigung erhalten? |
@@ -66,12 +66,12 @@ Klaere mindestens 2 Wochen vor Notar-Termin:
 ## Schritt-für-Schritt-Workflow
 
 1. **T-14 (2 Wochen vor Notar):** 3-5 Wunsch-Namen listen; HR-Suche nationwide; DPMA-Stichprobe.
-2. **T-10:** IHK-Vorpruefung beantragen (oft binnen 2-5 Werktagen); Domain-Verfuegbarkeit pruefen.
+2. **T-10:** IHK-Vorpruefung beantragen (oft binnen 2-5 Werktagen); Domain-Verfuegbarkeit prüfen.
 3. **T-7:** IHK-Bescheinigung liegt vor; Domain bei Verfuegbarkeit SOFORT sichern; ggf. Marken-Anmeldung einleiten.
 4. **T-3:** Alle Alternativen bereit halten; Marken-Recherche abgeschlossen.
 5. **T (Notar-Termin):** Beurkundung mit gewaehltem Namen; IHK-Bescheinigung dem Notar vorlegen.
-6. **T+5 bis T+14 (HR-Pruefung):** HR-Gericht prueft; bei Beanstandung: Satzungsaenderung und erneute Beurkundung (Kosten ca. 300-600 EUR).
-7. **Nach Eintragung:** Marken-Anmeldung auf Gesellschaft umschreiben (falls zuvor auf Gruender angemeldet).
+6. **T+5 bis T+14 (HR-Prüfung):** HR-Gericht prüft; bei Beanstandung: Satzungsaenderung und erneute Beurkundung (Kosten ca. 300-600 EUR).
+7. **Nach Eintragung:** Marken-Anmeldung auf Gesellschaft umschreiben (falls zuvor auf Gründer angemeldet).
 
 ## Output-Template: Firmenname-Pruefprotokoll
 
@@ -125,4 +125,4 @@ Naechste Schritte:
 
 - `gesellschaftsgruender-gmbh-vorbereitung` — Firmenname als Baustein der Vorbereitung
 - `gesellschaftsgruender-notar-vorbereitung` — IHK-Bescheinigung vorlegen
-- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Pruefung durch Registergericht
+- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Prüfung durch Registergericht

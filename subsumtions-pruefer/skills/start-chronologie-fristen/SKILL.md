@@ -3,7 +3,7 @@ name: start-chronologie-fristen
 description: "Einstieg, Schnelltriage und Fallrouting im Subsumtions Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständi..."
 ---
 
-# Subsumtions-Pruefer — Allgemein
+# Subsumtions-Prüfer — Allgemein
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Subsumtions Pruefer-Plu
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Subsumtions Pruefer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Subsumtions Prüfer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
 **Plugin-Fokus:** Interaktiver Subsumtions-für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
 
@@ -130,7 +130,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `output-juristisch-gestochen-de` | Erzeugt Ausgaben im juristischen Schriftsatzstil auf Deutsch: Antrag-Begründung-Beweismittel-Struktur, Subsumtionsdarstellung im Vier-Schritt, Zitierweise nach BGH-Standard, Rubrum, Tenor. Für Schriftsaetze,… |
 | `output-memo-und-mandantenbrief` | Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo für interne Nutzung mit juristischer Tiefe; Mandantenbrief für Betroffene in verstaendlicher… |
 | `output-pruefungsdokument-mit-warnhinweisen` | Erzeugt das vollständige Prüfungsdokument mit Pflicht-Kopfhinweis: kein Rechtsgutachten, kein Rechtsrat, nur mechanische Prüfung anhand Nutzerangaben. Enthaelt alle Warnhinweise an markanten Stellen des Dokuments und… |
-| `rechtsfolge-bestimmen` | Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt… |
+| `rechtsfolge-bestimmen` | Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Höhe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt… |
 | `rechtsprechung-recherche-strategie` | Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur,… |
 | `subsumtion-obersatz-definition-untersatz-ergebnis` | Führt die klassische juristische Vier-Schritt-Subsumtion durch: Obersatz (Norm und Rechtsfolge), Definition (TBM-Inhalt aus h.M./Rspr.), Untersatz (Sachverhalt unter Definition), Ergebnis (TBM erfuellt… |
 | `triage-rechtsfrage-oder-norm` | Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rückfragen und leitet zum passenden naechsten Skill… |
@@ -144,15 +144,15 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Dieses Plugin fuehrt Juristen, Referendare und rechtlich Interessierte durch den klassischen juristischen Pruefungsaufbau: Tatbestandsmerkmale werden systematisch zerlegt, jede Norm wird im Vier-Schritt (Obersatz — Definition — Untersatz — Ergebnis) durchlaufen, Einreden und Rechtsfolgen werden getrennt erarbeitet. Das Plugin deckt deutsches Recht (BGB, HGB, StGB, ZPO, VwGO, GG und zahlreiche Nebengesetze) sowie Europarecht (AEUV, EUV, GRCh, EU-Verordnungen, Richtlinien) ab.
 
-Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf freier Rechtsberatung. Alle Ausgaben enthalten einen Pflicht-Disclaimer, der auf die Grenzen automatisierter Pruefung hinweist.
+Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf freier Rechtsberatung. Alle Ausgaben enthalten einen Pflicht-Disclaimer, der auf die Grenzen automatisierter Prüfung hinweist.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben einen konkreten Lebenssachverhalt und wollen wissen, welche Normen einschlaegig sein koennten.
 - Sie wollen eine Norm systematisch in ihre Tatbestandsmerkmale zerlegen und Schritt für Schritt subsumieren.
-- Sie muessen Beweislast, Einreden oder Verjährung pruefen und suchen eine strukturierte Abarbeitungshilfe.
+- Sie müssen Beweislast, Einreden oder Verjährung prüfen und suchen eine strukturierte Abarbeitungshilfe.
 - Sie benoetigen eine Ausgabe für einen Schriftsatz, ein Memo oder einen Mandantenbrief in verschiedenen Sprachstilen.
-- Sie wollen eine Rechtsfrage mit EU-Bezug klaeren und pruefen, ob ein Vorabentscheidungsersuchen in Betracht kommt.
+- Sie wollen eine Rechtsfrage mit EU-Bezug klären und prüfen, ob ein Vorabentscheidungsersuchen in Betracht kommt.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -160,7 +160,7 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - **Subsumtion** — Der gedankliche Vorgang, bei dem der Sachverhalt unter die Definition des TBM eingeordnet wird.
 - **Obersatz** — Erster Schritt der Vier-Schritt-Subsumtion; nennt die Norm und die daran geknuepfte Rechtsfolge.
 - **Anspruchskonkurrenz** — Mehrere Normen begruenden nebeneinander denselben Anspruch; jede wird selbstaendig geprueft.
-- **Sekundaere Darlegungslast** — Erleichterung der Beweislast der beweispflichtigen Partei, wenn die andere Partei Tatsachen aus ihrem Bereich klaeren koennte.
+- **Sekundaere Darlegungslast** — Erleichterung der Beweislast der beweispflichtigen Partei, wenn die andere Partei Tatsachen aus ihrem Bereich klären koennte.
 - **Anwendungsvorrang** — Europarecht geht im Kollisionsfall nationalem Recht vor; nationales Recht wird verdraengt, nicht nichtig.
 - **Vorabentscheidungsverfahren** — Verfahren nach Art. 267 AEUV: nationale Gerichte legen dem EuGH Auslegungsfragen des Unionsrechts vor.
 
@@ -177,10 +177,10 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Handelt es sich um eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung?
+1. Mandantenkonstellation klären: Handelt es sich um eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung?
 2. Phase des Mandats bestimmen: Normensuche, Tatbestandsanalyse, Subsumtion, Rechtsfolge oder Output-Erstellung.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: Verjährungsfristen (§ 195 BGB), prozessuale Notfristen.
+4. Eilfristen prüfen: Verjährungsfristen (§ 195 BGB), prozessuale Notfristen.
 5. Anschluss-Skill bestimmen: nach Subsumtion typischerweise Rechtsfolge bestimmen und dann Output-Skill auswaehlen.
 
 ## Skill-Tour (was gibt es hier?)
@@ -219,7 +219,7 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 
 - `gegen-tbm-und-einreden-pruefen` — Prueft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden.
 - `konkurrenzen-anspruchsgrundlagen` — Klaert Anspruchskonkurrenz, Spezialitaet, Subsidiaritaet und Verhaeltnis Vertrags- zu Deliktsrecht.
-- `rechtsfolge-bestimmen` — Bestimmt Anspruchsinhalt, Hoehe, Tenor und Nebenforderungen nach erfolgreicher Subsumtion.
+- `rechtsfolge-bestimmen` — Bestimmt Anspruchsinhalt, Höhe, Tenor und Nebenforderungen nach erfolgreicher Subsumtion.
 
 **Output und Recherche**
 
@@ -238,17 +238,17 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 
 ## Worauf besonders achten
 
-- **Disclaimer ist Pflicht.** Alle Ausgaben enthalten den Hinweis, dass es sich um mechanische Pruefung handelt, kein Rechtsgutachten und kein Rechtsrat.
-- **Normen koennen veraendert sein.** Immer Skill `norm-historie-und-aenderungen` konsultieren, wenn der Geltungszeitpunkt unklar ist.
+- **Disclaimer ist Pflicht.** Alle Ausgaben enthalten den Hinweis, dass es sich um mechanische Prüfung handelt, kein Rechtsgutachten und kein Rechtsrat.
+- **Normen können veraendert sein.** Immer Skill `norm-historie-und-aenderungen` konsultieren, wenn der Geltungszeitpunkt unklar ist.
 - **Generalklauseln und unbestimmte Rechtsbegriffe sind fehleranfaellig.** Automatisierte Subsumtion bei § 242 BGB und aehnlichen Normen immer mit Vorbehalt behandeln.
-- **Anspruchskonkurrenz nicht vergessen.** Mehrere Anspruchsgrundlagen koennen nebeneinander greifen; jede separat pruefen.
+- **Anspruchskonkurrenz nicht vergessen.** Mehrere Anspruchsgrundlagen können nebeneinander greifen; jede separat prüfen.
 - **Vorabentscheidungspflicht letzter Instanz.** Bei EU-Rechtsfragen vor dem BGH oder BVerwG besteht ggf. Vorlagepflicht; Skill `eu-vorabentscheidung-pruefen` einschalten.
 
 ## Typische Fehler
 
 - Sachverhalt wird direkt unter Normen subsumiert ohne vorherige Zerlegung in TBM; fuehrt zu Subsumtionsspruengen.
 - Einreden und Einwendungen werden vergessen; geprueft wird nur die anspruchsbegruendende Seite.
-- Verjährung wird als gegeben angenommen ohne Pruefung von Hemmungstatbestaenden (§§ 203 ff. BGB).
+- Verjährung wird als gegeben angenommen ohne Prüfung von Hemmungstatbestaenden (§§ 203 ff. BGB).
 - Deutsches Recht wird angewendet obwohl Unionsrecht Anwendungsvorrang hat; Skill `de-eu-recht-abgrenzung` hilft.
 - Output wird ohne Pflicht-Disclaimer weitergegeben; das koennte als Rechtsberatung missverstanden werden.
 

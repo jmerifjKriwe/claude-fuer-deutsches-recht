@@ -21,7 +21,7 @@ description: "Meldepflichten für Direktinvestitionen und Beteiligungserwerbe na
 
 ## Erste Schritte
 
-1. Beteiligungsschwelle pruefen: ab 10 % direkte Beteiligung AWV-meldepflichtig (§ 56 AWV).
+1. Beteiligungsschwelle prüfen: ab 10 % direkte Beteiligung AWV-meldepflichtig (§ 56 AWV).
 2. Meldepflichtige Transaktionen identifizieren: Erwerb, Erhoehung, Veraeusserung von Beteiligungen.
 3. Z4/Z5-Meldeformular der Bundesbank auswaehlen und vollstaendig ausfuellen.
 4. Fristen beachten: Meldung innerhalb 3 Monate nach Jahresabschluss (Bestandsmeldung) oder unmittelbar (Transaktionsmeldung).
@@ -47,7 +47,7 @@ description: "Meldepflichten für Direktinvestitionen und Beteiligungserwerbe na
 
 ## Typische Fallstricke
 
-- Indirekter Beteiligungserwerb ueber Zwischenholding loest ebenfalls Meldepflicht aus.
+- Indirekter Beteiligungserwerb über Zwischenholding loest ebenfalls Meldepflicht aus.
 - Jahresbestandsmeldung wird vergessen weil nur Transaktionsmeldung bekannt.
 - Doppelte Meldepflicht bei AWV und BMWK-Investitionspruefung wird nicht erkannt.
 - Falsche Formulare fuehren zu Fristversaeumnis.

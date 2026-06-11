@@ -15,7 +15,7 @@ description: "Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -
 
 ## Spezialwissen
 
-Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung: Zu wenige Beplankungslagen, fehlende Brandschutzabschottung an Leitungsdurchfuehrungen oder falsche Unterkonstruktion machen die Wand wirkungslos. Die Bauueberwachung in LPH 8 kontrolliert jede Montage-Phase, prueft Zulassungsdokumente für das eingesetzte System und stellt sicher, dass Brandschutzbehoerde und Sachverstaendige alle erforderlichen Nachweise erhalten.
+Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung: Zu wenige Beplankungslagen, fehlende Brandschutzabschottung an Leitungsdurchfuehrungen oder falsche Unterkonstruktion machen die Wand wirkungslos. Die Bauueberwachung in LPH 8 kontrolliert jede Montage-Phase, prüft Zulassungsdokumente für das eingesetzte System und stellt sicher, dass Brandschutzbehoerde und Sachverstaendige alle erforderlichen Nachweise erhalten.
 
 ## Bauwerk und Auftrag
 
@@ -25,9 +25,9 @@ Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung
 
 ## Erste Schritte auf der Baustelle
 
-1. Systemzulassung-Pruefung: DIBt-Zulassung oder ETA-Zulassungsnummer für eingesetztes Knauf oder Rigips System, Montageanleitung auf Baustelle vorhanden
+1. Systemzulassung-Prüfung: DIBt-Zulassung oder ETA-Zulassungsnummer für eingesetztes Knauf oder Rigips System, Montageanleitung auf Baustelle vorhanden
 2. Unterkonstruktion-Kontrolle: UW-Profil-Abstand am Boden und Decke nach Zulassung, max. 600 mm Achsabstand CW-Staender, Stosstelle UW-Profil mit Klebeband abgedichtet
-3. Beplankungslagen-Pruefung: Plattenfoermige Anordnung Stoss auf Staender, Versatz horizontaler Stoesse 400 mm, Plattentyp RF oder RFI nach Brandschutz-Anforderung
+3. Beplankungslagen-Prüfung: Plattenfoermige Anordnung Stoss auf Staender, Versatz horizontaler Stoesse 400 mm, Plattentyp RF oder RFI nach Brandschutz-Anforderung
 4. Verbindungsmittel: Schraubenabstand Randbereich 150 mm, Feld 250 mm, Schraubenlaenge min. 25 mm, kein Einreissen des Plattenpapiers
 5. Fugen-Schaumabdichtung: Anschlussfuge Wand-Boden-Decke mit Brandschutzmasse Hilti CP 606 oder Tremco SL1 gefuellt, Fuge kleiner 5 mm vor Verfuellung
 6. Abschottung Leitungsdurchfuehrungen: Rohrmanschetten Hilti CFS-C oder Rockwool Conlit 150 für Installationsrohre, jede Durchfuehrung einzeln dokumentiert
@@ -71,11 +71,11 @@ Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung
 - Falsche Platte verbaut: Rote RF-Platten für F-Klasse verwechselt mit normalen Gipskarton GKB, kein Brandschutz ohne RF
 - Abschottung nach Leitungsmontage vergessen: Nachtraegliche Abschottung erfordert Wandoeffnung und Neuverputz, kostenintensiv
 - Falsches System: Zulassung für CW 75 gilt nicht automatisch für CW 50, Systemwechsel ohne neue Zulassung unzulaessig
-- Fehlende BSV-Abnahme vor Verputz: Nachtraegliche Pruefung unmoeglich, Zwangsweise Dokumentation durch Bohrung oder Rissoemission
+- Fehlende BSV-Abnahme vor Verputz: Nachtraegliche Prüfung unmoeglich, Zwangsweise Dokumentation durch Bohrung oder Rissoemission
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

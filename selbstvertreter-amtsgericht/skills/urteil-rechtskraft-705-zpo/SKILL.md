@@ -7,18 +7,18 @@ description: "Rechtskraft des Urteils nach § 705 ZPO. Wann ist ein Urteil recht
 
 ## Worum geht es?
 
-Ein Urteil ist erst dann **endgueltig**, wenn es **rechtskraeftig** ist. Davor ist es zwar wirksam (vorlaeufig vollstreckbar), aber kann durch Rechtsmittel noch geaendert werden. Rechtskraft hat zwei Dimensionen: **formell** (keine Anfechtung mehr moeglich) und **materiell** (Sache ist entschieden).
+Ein Urteil ist erst dann **endgueltig**, wenn es **rechtskraeftig** ist. Davor ist es zwar wirksam (vorlaeufig vollstreckbar), aber kann durch Rechtsmittel noch geaendert werden. Rechtskraft hat zwei Dimensionen: **formell** (keine Anfechtung mehr möglich) und **materiell** (Sache ist entschieden).
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie wollen wissen, wann das Urteil endgueltig ist.
 - Sie planen Vollstreckung.
-- Sie ueberlegen, ob Sie nochmal klagen koennen.
+- Sie ueberlegen, ob Sie nochmal klagen können.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Formelle Rechtskraft**: Urteil kann nicht mehr mit ordentlichen Rechtsmitteln angefochten werden.
-- **Materielle Rechtskraft**: Sache ist endgueltig entschieden — keine erneute Klage zwischen den Parteien moeglich.
+- **Materielle Rechtskraft**: Sache ist endgueltig entschieden — keine erneute Klage zwischen den Parteien möglich.
 - **Vorlaeufige Vollstreckbarkeit**: Urteil kann vor Rechtskraft vollstreckt werden.
 
 ## Rechtsgrundlagen
@@ -40,18 +40,18 @@ Ein Urteil ist erst dann **endgueltig**, wenn es **rechtskraeftig** ist. Davor i
 
 Auch vor Rechtskraft kann das Urteil schon Wirkungen entfalten:
 
-- **Vorlaeufige Vollstreckbarkeit** (§ 708 ZPO): Bei AG-Urteilen i. d. R. von Amts wegen erklaert. Sie koennen sofort pfaenden, ohne Sicherheitsleistung.
-- Wenn Berufung erfolgreich: Schadensersatz für ungerechtfertigte Vollstreckung moeglich (§ 717 II ZPO).
+- **Vorlaeufige Vollstreckbarkeit** (§ 708 ZPO): Bei AG-Urteilen i. d. R. von Amts wegen erklaert. Sie können sofort pfaenden, ohne Sicherheitsleistung.
+- Wenn Berufung erfolgreich: Schadensersatz für ungerechtfertigte Vollstreckung möglich (§ 717 II ZPO).
 
 ### Schritt 3 — Rechtskraft-Vermerk
 
-Nach Eintritt der Rechtskraft koennen Sie beim Gericht den **Rechtskraft-Vermerk** beantragen — eine Bescheinigung, dass das Urteil rechtskraeftig ist. Das brauchen Sie für manche Vollstreckungs-Akte oder zur Vorlage bei Behörden.
+Nach Eintritt der Rechtskraft können Sie beim Gericht den **Rechtskraft-Vermerk** beantragen — eine Bescheinigung, dass das Urteil rechtskraeftig ist. Das brauchen Sie für manche Vollstreckungs-Akte oder zur Vorlage bei Behörden.
 
 ### Schritt 4 — Materielle Rechtskraft
 
-§ 322 ZPO: Urteil ist zwischen den Parteien ueber den entschiedenen Streitgegenstand bindend. Sie koennen nicht erneut klagen.
+§ 322 ZPO: Urteil ist zwischen den Parteien über den entschiedenen Streitgegenstand bindend. Sie können nicht erneut klagen.
 
-Beispiel: Klage auf 1.500 EUR abgewiesen → keine neue Klage moeglich. Aber: Wenn neue Anspruchsgrundlage / anderer Streitgegenstand: ggf. doch.
+Beispiel: Klage auf 1.500 EUR abgewiesen → keine neue Klage möglich. Aber: Wenn neue Anspruchsgrundlage / anderer Streitgegenstand: ggf. doch.
 
 ### Schritt 5 — Vollstreckungs-Schritte
 
@@ -62,7 +62,7 @@ Mit rechtskraeftigem (oder vorlaeufig vollstreckbarem) Urteil:
 
 ### Schritt 6 — Vollstreckung waehrend Berufung
 
-§ 719 ZPO: Beklagter kann **Vollstreckungs-Aussetzung** beantragen, wenn er Berufung einlegt. Pruefung durch Berufungsgericht.
+§ 719 ZPO: Beklagter kann **Vollstreckungs-Aussetzung** beantragen, wenn er Berufung einlegt. Prüfung durch Berufungsgericht.
 
 Sicherheits-Leistung: bei nicht-Aussetzung kann das Berufungsgericht die Vollstreckung gegen Sicherheits-Leistung gestatten.
 
@@ -77,7 +77,7 @@ Wenn LG das AG-Urteil aufhebt:
 
 Bei Verwerfung oder Zurueckweisung der Berufung wird das AG-Urteil rechtskraeftig.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Vorlaeufige Vollstreckbarkeit** vor Rechtskraft.
 - **Rechtskraft erst nach Ablauf Berufungsfrist**.

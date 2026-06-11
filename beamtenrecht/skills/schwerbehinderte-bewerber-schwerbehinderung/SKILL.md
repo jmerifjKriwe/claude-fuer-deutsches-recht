@@ -23,14 +23,14 @@ Skill für schwerbehinderte oder gleichgestellte Bewerber im öffentlichen Diens
 - Datum der Bewerbung
 - Stellenausschreibung
 - Akteneinsicht (Auswahlvermerk)
-- Information ueber Beteiligung der Schwerbehindertenvertretung
+- Information über Beteiligung der Schwerbehindertenvertretung
 - Absageschreiben
 
 ## 3. Ablauf / Checkliste
 
 ### a) Einladungspflicht
-- § 165 Satz 3 SGB IX: Oeffentliche Arbeitgeber muessen schwerbehinderte Bewerber zum Vorstellungsgespraech einladen, es sei denn, die fachliche Eignung fehlt offensichtlich. "Offensichtlich" eng auszulegen.
-- Bei Konzentrationsbewerbungen ueber zentrale Stellen sind die Pflichten nicht gemindert.
+- § 165 Satz 3 SGB IX: Oeffentliche Arbeitgeber müssen schwerbehinderte Bewerber zum Vorstellungsgespraech einladen, es sei denn, die fachliche Eignung fehlt offensichtlich. "Offensichtlich" eng auszulegen.
+- Bei Konzentrationsbewerbungen über zentrale Stellen sind die Pflichten nicht gemindert.
 
 ### b) Interne Besetzung
 - § 165 Sätze 1 und 2 SGB IX: vor externer Ausschreibung Pruefpflicht, ob die Stelle intern mit schwerbehinderten Personen besetzt werden kann (Vermittlungsvorschlag der Bundesagentur für Arbeit; interner Aufruf).

@@ -45,7 +45,7 @@ Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; LDSG Baden-Württemberg.
 ## Behördenstammdaten LfDI BW
 
 - Name: Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg
-- Anschrift: Heilbronner Straße 35; 70191 Stuttgart (stufenloser Zugang ueber Rampe; Navigationsadresse Räpplenstraße 2; 70191 Stuttgart; Umzug zum 22.12.2025)
+- Anschrift: Heilbronner Straße 35; 70191 Stuttgart (stufenloser Zugang über Rampe; Navigationsadresse Räpplenstraße 2; 70191 Stuttgart; Umzug zum 22.12.2025)
 - Kontakt: poststelle@lfdi.bwl.de; Telefon 0711 615541-0
 - Online-Meldeformular: baden-wuerttemberg.datenschutz.de — Online-Meldeformular
 - Sondernorm: LDSG Baden-Württemberg
@@ -76,7 +76,7 @@ Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informa
 
 **III. Welche Gegenmassnahmen wurden ergriffen oder werden vorgeschlagen?**
 - Bereits eingeleitete und geplante Gegenmassnahmen zur Schadensminderung und zur kuenftigen Verhinderung.
-- Vorbestehende technische und organisatorische Massnahmen sowie Begruendung, weswegen sie nicht ausgereicht haben.
+- Vorbestehende technische und organisatorische Maßnahmen sowie Begruendung, weswegen sie nicht ausgereicht haben.
 - Information der Betroffenen ja/nein; wie und wann; welche Empfehlungen; bei nein Begruendung zu Art. 34 DSGVO.
 
 **IV. Sonstige Mitteilungen an die Aufsichtsbehoerde**
@@ -86,7 +86,7 @@ Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informa
 
 **V. Dokumente**
 - Forensischer Untersuchungsbericht.
-- Auflistung der technischen und organisatorischen Massnahmen.
+- Auflistung der technischen und organisatorischen Maßnahmen.
 - Muster Benachrichtigungsschreiben Art. 34 DSGVO.
 - Schluesselmaterial (PGP).
 

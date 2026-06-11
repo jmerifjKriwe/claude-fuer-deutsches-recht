@@ -52,7 +52,7 @@ Beweis Kontoauszug Anlage K 6.
 
 | Form | Wirkung |
 |---|---|
-| Substantiiertes Bestreiten | Klaeger trifft Beweislast voll |
+| Substantiiertes Bestreiten | Kläger trifft Beweislast voll |
 | Pauschales Bestreiten unzulaessig | gilt als zugestanden ZPO 138 Abs. 3 |
 | Nichtwissen ZPO 138 Abs. 4 | nur bei Tatsachen ausserhalb eigener Wahrnehmung |
 

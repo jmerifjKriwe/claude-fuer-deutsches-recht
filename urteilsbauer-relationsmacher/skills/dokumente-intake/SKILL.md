@@ -7,7 +7,7 @@ description: "Dokumentenintake für Urteilsbauer/Relationsmacher: sortiert Klage
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Urteilsbauer Relationsmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Urteilsbauer Relationsmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -29,9 +29,9 @@ Dieser Dokumenten-Intake für **Urteilsbauer Relationsmacher** ordnet Anlagen, R
 - `aktenintake-zivil` — Aktenintake Zivil
 - `amts-aktenintake-zivil-anspruchsgrundlagen` — Amts Aktenintake Zivil Anspruchsgrundlagen
 - `amts-fristen-form-zustaendigkeit` — Amts Fristen Form Zustaendigkeit
-- `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen Pruefen
+- `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen Prüfen
 - `berufungsfest-beschluss-bauen-beweisbeschluss` — Berufungsfest Beschluss Bauen Beweisbeschluss
-- `berufungsfest-pruefen` — Berufungsfest Pruefen
+- `berufungsfest-pruefen` — Berufungsfest Prüfen
 - `beschluss-bauen-zpo` — Beschluss Bauen ZPO
 - `beschluss-tatbestand-beweis-und-belege` — Beschluss Tatbestand Beweis und Belege
 - `beschluss-tatbestandsmerkmale` — Beschluss Tatbestandsmerkmale

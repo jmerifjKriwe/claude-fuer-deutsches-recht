@@ -14,7 +14,7 @@ Dieser Einstieg routet **Prozessrecht** vom ersten Sachverhalt zu Rollen, Friste
 - `amtlicher-zpo-proz-bauleiter-eilverfahren` — Amtlicher ZPO Proz Bauleiter Eilverfahren
 - `anspruchstabelle-beweislast` — Anspruchstabelle Beweislast
 - `anspruchstabelle-gegenseite-interessen` — Anspruchstabelle Gegenseite Interessen
-- `anwaltsgeheimnis-pruefung` — Anwaltsgeheimnis Pruefung
+- `anwaltsgeheimnis-pruefung` — Anwaltsgeheimnis Prüfung
 - `argumentationsverbesserung-red-team` — Argumentationsverbesserung RED Team
 - `beweissicherung-einstweilige-verfuegung` — Beweissicherung Einstweilige Verfuegung
 - `chronologie` — Chronologie

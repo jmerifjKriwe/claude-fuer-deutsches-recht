@@ -18,7 +18,7 @@ Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Ueber welchen Versandweg soll der Schriftsatz eingereicht werden: sUW (persönliches Versenden des Inhabers) oder qeS (qualifizierte elektronische Signatur)?
+1. Über welchen Versandweg soll der Schriftsatz eingereicht werden: sUW (persönliches Versenden des Inhabers) oder qeS (qualifizierte elektronische Signatur)?
 2. Liegt eine beA-Versandquittung oder Eingangsbestaetigung vor, die die Fristwahrung belegt?
 3. Gibt es Anzeichen für eine beA-Stoerung oder technische Uebermittlungspanne (§ 130a Abs. 6 ZPO Wiedereinsetzung)?
 4. Muss ein elektronisches Empfangsbekenntnis (EB) erteilt werden?

@@ -25,7 +25,7 @@ Vergleichszeitraum: rueckblickend 15 Jahre. Schwellenwert: jeweils 5 Prozent Abw
 
 1. **Tariflohnvergleich öffentlicher Dienst**: Entwicklung der Besoldung im Vergleich zu TVoeD bzw. TV-L für vergleichbare Beschaeftigte.
 2. **Nominallohnindex** aller Beschaeftigten in Deutschland (Statistisches Bundesamt - Index der Nominalloehne und Bruttoverdienste).
-3. **Verbraucherpreisindex** (VPI Statistisches Bundesamt - Pruefung des Reallohnverlustes).
+3. **Verbraucherpreisindex** (VPI Statistisches Bundesamt - Prüfung des Reallohnverlustes).
 4. **Systeminterner Besoldungsvergleich** (Abstand zwischen Besoldungsgruppen und Erfahrungsstufen; zusaetzlich Mindestabstandsgebot 15 Prozent zur sozialhilferechtlichen Grundsicherung für vierkoepfige Familie A 4 Endstufe nach BVerfGE 155 Rn 1).
 5. **Quervergleich zwischen Bund und Ländern** (Besoldung des in Frage stehenden Landes im Vergleich zu Bund und anderen Ländern).
 

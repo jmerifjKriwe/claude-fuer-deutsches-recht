@@ -34,7 +34,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafzumessungstatsachen / Verhandlung Bausteine
 - **Verstaendigung § 257c StPO Eckpunkte:**
- - **Inhalt zulaessig:** Strafrahmen-Korridor (Unter- und Obergrenze).
+ - **Inhalt zulässig:** Strafrahmen-Korridor (Unter- und Obergrenze).
  - **Inhalt unzulaessig:** Schuldspruch verzichtbar; Massregeln § 257c II 3 StPO.
  - **Belehrung § 257c V StPO** als Wirksamkeitsvoraussetzung; Wegfall der Bindung bei neuen erheblichen Umstaenden.
  - **Geschaeftsgrundlage** regelmaessig Gestaendnis Angeklagter; aber Beweisaufnahme nicht ersparbar (BGH-Linie).

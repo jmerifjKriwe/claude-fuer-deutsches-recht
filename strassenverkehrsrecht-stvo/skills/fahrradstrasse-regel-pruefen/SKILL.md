@@ -3,7 +3,7 @@ name: fahrradstrasse-regel-pruefen
 description: "StVO: Fahrradstraße: Regel prüfen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Fahrradstrasse Regel Pruefen
+# Fahrradstrasse Regel Prüfen
 
 ## Arbeitsweg
 

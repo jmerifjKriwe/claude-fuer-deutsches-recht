@@ -3,7 +3,7 @@ name: wasserentnahme-beteiligung-einwendung
 description: "Umweltschutzverband Verbandsklage: Wasserentnahme: Beteiligung prüfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Wasserentnahme Beteiligung Pruefen
+# Wasserentnahme Beteiligung Prüfen
 
 ## Arbeitsweg
 

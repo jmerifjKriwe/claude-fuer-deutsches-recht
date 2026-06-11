@@ -354,12 +354,12 @@ BGH-Linie (vor Ausgabe konkrete Entscheidung über offene Quelle prüfen):
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Vorsatzanfechtung § 133 InsO pruefen und Anfechtungsschreiben erstellen | Anfechtungsschreiben nach Pruefschema; Template unten |
-| Variante A — Anfechtungsfrist 10 Jahre abgelaufen | Andere Anfechtungsgrundlagen pruefen §§ 129 ff InsO |
+| Standard — Vorsatzanfechtung § 133 InsO prüfen und Anfechtungsschreiben erstellen | Anfechtungsschreiben nach Pruefschema; Template unten |
+| Variante A — Anfechtungsfrist 10 Jahre abgelaufen | Andere Anfechtungsgrundlagen prüfen §§ 129 ff InsO |
 | Variante B — Anfektungsgegner zahlungsunfaehig | Wirtschaftlichkeitspruefung der Anfechtung; ggf. verzichten |
 | Variante C — Glaeubigeranfechtung nach AnfG ausserhalb Insolvenz | AnfG als Alternative wenn Insolvenz noch nicht eroeffnet |
 
@@ -425,7 +425,7 @@ Nach fruchtlosem Ablauf dieser Frist werde ich Klage erheben.
 [UNTERSCHRIFT INSOLVENZVERWALTER]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

@@ -15,7 +15,7 @@ description: "Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksam
 
 ## Worum geht es konkret
 
-Der NKR wirkt nicht nur durch die schriftliche Stellungnahme, sondern auch oeffentlich ueber Jahresbericht, Pressemitteilungen, Hintergrundgespraeche, Bilanz-Konferenz. Dieser Skill koordiniert die kommunikative Verstaerkung einzelner Stellungnahmen.
+Der NKR wirkt nicht nur durch die schriftliche Stellungnahme, sondern auch öffentlich über Jahresbericht, Pressemitteilungen, Hintergrundgespraeche, Bilanz-Konferenz. Dieser Skill koordiniert die kommunikative Verstaerkung einzelner Stellungnahmen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -115,7 +115,7 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 >
 > Der ausgewiesene jaehrliche Erfuellungsaufwand für die Wirtschaft betraegt rund 320 Mio Euro. Wesentlicher Treiber ist die monatliche Lebensbescheid-Pflicht für rund 1,8 Mio Gesellschaften. Eine jaehrliche Bestaetigung mit ereignisorientierter Nachmeldung wuerde den Erfuellungsaufwand auf rund 80 Mio Euro reduzieren.
 >
-> Der NKR empfiehlt ausserdem eine zentrale Loesung ueber das Handelsregistergericht (Once-Only-Prinzip), den Verzicht auf parallele technische Standards und die Aufnahme einer Evaluationsklausel mit Frist drei Jahre.
+> Der NKR empfiehlt ausserdem eine zentrale Loesung über das Handelsregistergericht (Once-Only-Prinzip), den Verzicht auf parallele technische Standards und die Aufnahme einer Evaluationsklausel mit Frist drei Jahre.
 >
 > Die Stellungnahme im Wortlaut: [URL]
 > Kontakt: NKR-Sekretariat, [Telefon], [E-Mail]
@@ -133,7 +133,7 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 
 - Politische Bewertung in Pressemitteilung
 - Personalisierung (Namen von Ressort-Referaten)
-- Spekulation ueber politische Motive
+- Spekulation über politische Motive
 - Pressehinweis ohne abgestimmte Stellungnahme
 
 ## Quellen Stand 06/2026
@@ -142,4 +142,4 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 - §§ 5, 6 GGO
 - NKR-Geschaeftsordnung (intern)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

@@ -33,7 +33,7 @@ description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt
 2. **Register waehlen.** Tabelle unten konsultieren.
 3. **Anrede festlegen.** "Sehr geehrte Frau ...", "Sehr geehrter Herr ...", "Sehr geehrtes Gericht", "Sehr geehrte Damen und Herren".
 4. **Empfehlung am Ende.** Mandantenbrief und Gegenseitenbrief enthalten Handlungsempfehlung oder Frist.
-5. **Sachlichkeitsfilter.** Streichen Sie Adjektive ohne Funktion ("voellig unverstaendlich", "schlichtweg falsch", "offenkundig").
+5. **Sachlichkeitsfilter.** Streichen Sie Adjektive ohne Funktion ("völlig unverstaendlich", "schlichtweg falsch", "offenkundig").
 6. **Frist immer beziffert.** "kurzfristig" wird zu "bis zum Datum".
 
 ### Tabelle Adressat zu Register
@@ -76,7 +76,7 @@ description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt
 - **Behördenbrief mit Wertungen.** Verwaltung mag kuehle Sachlichkeit.
 - **Memo ohne Kurzantwort.** Gutachtenstil ohne Ergebnissatz ist unlesbar.
 - **Gegenseitenbrief ohne Frist.** Ohne Frist keine Verzugswirkung.
-- **Bratwurst-Saetze.** Saetze ueber drei Zeilen sind nur in der Hauptbegruendung eines Schriftsatzes vertretbar, und auch dort selten.
+- **Bratwurst-Saetze.** Saetze über drei Zeilen sind nur in der Hauptbegruendung eines Schriftsatzes vertretbar, und auch dort selten.
 
 ## Beispiel
 

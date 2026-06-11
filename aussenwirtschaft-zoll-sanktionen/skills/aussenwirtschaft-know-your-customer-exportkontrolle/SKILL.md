@@ -24,13 +24,13 @@ description: "KYC-Prozess für Exportkontrollzwecke: Kundenidentifizierung, Endv
 1. Kundenidentitaet vollstaendig verifizieren: Firmenname, Handelsregisternummer, Adresse, UBO.
 2. Sanktionslistenscreening aller Parteien und verbundener Unternehmen.
 3. Red-Flag-Analyse: Bestellmuster, Mengen, Verwendungszweck, Zahlungsmodalitaeten.
-4. Endverwender-Erklaerung oder EUC anfordern und auf Plausibilitaet pruefen.
+4. Endverwender-Erklaerung oder EUC anfordern und auf Plausibilitaet prüfen.
 5. Offene Quellen recherchieren: BAFA-Informationen, US-Denied-Persons-List, Presseberichte.
 6. KYC-Kundenprofil erstellen und Entscheidung mit Beleglage dokumentieren.
 
 ## Rechtsrahmen
 
-- **Art. 4 VO (EU) 2021/821**: Catch-All bei Kenntnislagen bezueglich militaerischer Endverwendung.
+- **Art. 4 VO (EU) 2021/821**: Catch-All bei Kenntnislagen bezüglich militaerischer Endverwendung.
 - **BAFA-Merkblatt Red Flags**: Anzeichen für Umgehungsversuche.
 - **§ 18 AWG**: Strafbarkeit auch bei leichtfertiger Unkenntnis von Risiken.
 - **§ 10 GwG**: KYC-Pflichten (gleichzeitig relevant für Sanktions-Compliance).
@@ -47,7 +47,7 @@ description: "KYC-Prozess für Exportkontrollzwecke: Kundenidentifizierung, Endv
 
 ## Typische Fallstricke
 
-- Stammkunden werden seltener neu gescreent; Situation kann sich aendern.
+- Stammkunden werden seltener neu gescreent; Situation kann sich ändern.
 - Red Flags einzeln unbedenklich, zusammen signifikant (Gesamtbild).
 - UAE, Tuerkei, Armenien als bekannte Umgehungslaender erfordern erhoehte Sorgfalt.
 - EUC-Formulierung 'Eigenbedarf' ohne Angabe des konkreten Verwendungszwecks ist unzureichend.

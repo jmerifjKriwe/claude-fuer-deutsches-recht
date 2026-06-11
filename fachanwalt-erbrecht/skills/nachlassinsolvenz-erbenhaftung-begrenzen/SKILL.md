@@ -198,11 +198,11 @@ Schlägt der überlebende Ehegatte die Erbschaft aus:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Erbenhaftung begrenzen | Instrumente 1-6 sequenziell pruefen; Schriftsatzbausteine unten |
+| Standard — Erbenhaftung begrenzen | Instrumente 1-6 sequenziell prüfen; Schriftsatzbausteine unten |
 | Variante A — Uebersch-Uldung des Nachlasses klar | Ausschlagung § 1944 BGB priorisieren; Frist 6 Wochen |
 | Variante B — Nachlasswert unklar | Inventar § 1994 BGB aufnehmen; Haftungsbeschraenkung sichern |
 | Variante C — mehrere Glaeubiger draengen | Nachlassverwaltung oder Nachlassinsolvenz als Gesamtloesung |
@@ -256,7 +256,7 @@ Saldo: EUR [-Z]
 [Unterschrift Erbe]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

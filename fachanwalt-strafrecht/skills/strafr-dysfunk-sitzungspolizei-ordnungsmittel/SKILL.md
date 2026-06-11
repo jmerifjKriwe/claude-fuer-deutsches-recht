@@ -14,7 +14,7 @@ description: "Sitzungspolizei §§ 176 ff: GVG und Ordnungsmittel § 178 GVG sou
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Sitzungspolizei §§ 176 ff. GVG und Ordnungsmittel § 178 GVG souveraen navigieren. Verteidiger als Verfahrenssubjekt grundsaetzlich nicht Adressat zwangsweiser Massnahmen § 177 GVG seit 1921. Wortentzug Sitzungsausschluss und Ordnungsmittel als rechtliche Werkzeuge des Gerichts mit Voraussetzungen. Verteidigungsverhalten in Grenzsituationen Mandantenkommunikation Dokumentation Revisionsabsicherung.
+**Fokus:** Sitzungspolizei §§ 176 ff. GVG und Ordnungsmittel § 178 GVG souveraen navigieren. Verteidiger als Verfahrenssubjekt grundsätzlich nicht Adressat zwangsweiser Maßnahmen § 177 GVG seit 1921. Wortentzug Sitzungsausschluss und Ordnungsmittel als rechtliche Werkzeuge des Gerichts mit Voraussetzungen. Verteidigungsverhalten in Grenzsituationen Mandantenkommunikation Dokumentation Revisionsabsicherung.
 
 ### Sitzungspolizei und Ordnungsmittel sicher navigieren
 
@@ -27,7 +27,7 @@ description: "Sitzungspolizei §§ 176 ff: GVG und Ordnungsmittel § 178 GVG sou
 
 ## Norminhalt
 
-- § 176 GVG: Aufrechterhaltung der Ordnung in der Sitzung durch Vorsitzenden. Wortentzug ist zulaessig wenn andere Mittel erschoepft.
+- § 176 GVG: Aufrechterhaltung der Ordnung in der Sitzung durch Vorsitzenden. Wortentzug ist zulässig wenn andere Mittel erschoepft.
 - § 177 GVG: Sitzungsausschluss bei Stoerung. Nach historischer Linie seit 1921 keine Zwangsmittel gegen Verteidiger.
 - § 178 GVG: Ordnungsgeld bei Ungebuehr.
 - § 138a StPO als spezifisches Instrument für Wahlverteidiger-Ausschluss.
@@ -35,7 +35,7 @@ description: "Sitzungspolizei §§ 176 ff: GVG und Ordnungsmittel § 178 GVG sou
 ## Verteidigerstellung
 
 - Verteidiger ist Verfahrenssubjekt, nicht Verfahrensgegenstand.
-- Reaktion auf Anordnung: ruhig zur Kenntnis nehmen, schriftlich beanstanden, Protokoll pruefen.
+- Reaktion auf Anordnung: ruhig zur Kenntnis nehmen, schriftlich beanstanden, Protokoll prüfen.
 - Bei Wortentzug: schriftliche Erklaerung § 257 Abs. 2 StPO oder schriftliche Form § 257a StPO einsetzen.
 
 ## Reformkontext
@@ -45,7 +45,7 @@ description: "Sitzungspolizei §§ 176 ff: GVG und Ordnungsmittel § 178 GVG sou
 
 ## Mandantenkommunikation
 
-- Bei Sitzungsunterbrechung Mandant informieren, dass dies eine Massnahme des Gerichts ist und die Verteidigungsstrategie davon nicht gestoppt wird.
+- Bei Sitzungsunterbrechung Mandant informieren, dass dies eine Maßnahme des Gerichts ist und die Verteidigungsstrategie davon nicht gestoppt wird.
 - Kurze Aktennotiz für den Mandanten.
 
 ## Pitfalls

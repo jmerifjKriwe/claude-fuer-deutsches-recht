@@ -33,7 +33,7 @@ Paragraph 108b Abs 1 UrhG erfasst:
 
 "Wirksame technische Schutzmassnahme" nach Paragraph 95a Abs 2 UrhG: Vorrichtung, die im normalen Betrieb dazu bestimmt ist, geschuetzte Werke vor nicht autorisierten Handlungen zu schuetzen. CSS-DVD-Schutz, AACS-Bluray-Schutz, DRM bei iTunes oder Spotify, Steam-Aktivierung, Online-Lizenzcheck bei Adobe Creative Cloud: jeweils anerkannt.
 
-Praxiswichtig: Paragraph 108b Abs 2 UrhG enthaelt eine **Privatgebrauchsausnahme**. Eine Tat nach Absatz 1 Nr 1 ist nicht strafbar, wenn die Umgehung allein zum eigenen privaten Gebrauch erfolgt. Strafbar bleibt jedoch immer die Tat nach Nr 2 (Entfernung der Rechtewahrnehmungs-Informationen). Auch der gewerbliche Vertrieb von Umgehungswerkzeugen ist ueber Paragraph 108b Abs 3 UrhG (Qualifikation) erfasst, obwohl der zivilrechtliche Aspekt in Paragraph 95a Abs 3 UrhG (Verbot der Werkzeuge) eigenstaendig geregelt ist.
+Praxiswichtig: Paragraph 108b Abs 2 UrhG enthaelt eine **Privatgebrauchsausnahme**. Eine Tat nach Absatz 1 Nr 1 ist nicht strafbar, wenn die Umgehung allein zum eigenen privaten Gebrauch erfolgt. Strafbar bleibt jedoch immer die Tat nach Nr 2 (Entfernung der Rechtewahrnehmungs-Informationen). Auch der gewerbliche Vertrieb von Umgehungswerkzeugen ist über Paragraph 108b Abs 3 UrhG (Qualifikation) erfasst, obwohl der zivilrechtliche Aspekt in Paragraph 95a Abs 3 UrhG (Verbot der Werkzeuge) eigenstaendig geregelt ist.
 
 Subjektiv Vorsatz, mindestens dolus eventualis. Bei wirksamer technischer Schutzmassnahme ist regelmaessig erkennbar, dass eine Umgehung erfolgt; Vorsatz ergibt sich dann aus der bewussten Anwendung des Umgehungswerkzeugs.
 
@@ -46,24 +46,24 @@ Bei gewerblicher Tatbegehung Paragraph 108b Abs 3 UrhG bleibt es nach hM beim An
 ## Praktikertipps der Verteidigung
 
 - **Privatgebrauchsausnahme Paragraph 108b Abs 2 UrhG.** Wenn Mandant das DVD-Kopierschutzsystem nur für eine eigene Backupkopie umgangen hat, ist Paragraph 108b Abs 1 Nr 1 UrhG nicht erfuellt. Wichtig: Ausnahme gilt nur für Nr 1, nicht für Nr 2 (Entfernung der RMI bleibt strafbar).
-- **Wirksamkeit der Schutzmassnahme bestreiten.** Schutzmassnahme muss "wirksam" sein. Eine triviale Massnahme (z. B. einfacher Hinweis ohne technische Sperre) ist nicht wirksam. Auch eine Schutzmassnahme, die durch Routineoperation umgangen wird (z. B. nur ein vergessenes Default-Passwort), kann Wirksamkeit verlieren.
-- **Bestimmungserfordernis.** Schutzmassnahme muss "im normalen Betrieb dazu bestimmt" sein. Massnahmen, die primaer anderen Zwecken dienen (Datenintegritaet, Kompatibilitaet) und nur akzessorisch Schutzfunktionen haben, koennten ausser Reichweite liegen.
+- **Wirksamkeit der Schutzmassnahme bestreiten.** Schutzmassnahme muss "wirksam" sein. Eine triviale Maßnahme (z. B. einfacher Hinweis ohne technische Sperre) ist nicht wirksam. Auch eine Schutzmassnahme, die durch Routineoperation umgangen wird (z. B. nur ein vergessenes Default-Passwort), kann Wirksamkeit verlieren.
+- **Bestimmungserfordernis.** Schutzmassnahme muss "im normalen Betrieb dazu bestimmt" sein. Maßnahmen, die primaer anderen Zwecken dienen (Datenintegritaet, Kompatibilitaet) und nur akzessorisch Schutzfunktionen haben, koennten ausser Reichweite liegen.
 - **Vorsatz bei Werkzeugen.** Bei Verwendung eines im Internet frei zugaenglichen Crackers (z. B. open-source Tool) kann der Vorsatz hinsichtlich der Wirksamkeit der Schutzmassnahme erschuettert sein, wenn der Mandant es als legales Backup-Werkzeug angesehen hat.
-- **Werkzeugherstellung nach Paragraph 95a Abs 3 UrhG.** Strafrechtlich nur ueber Paragraph 108b Abs 3 UrhG bei gewerblicher Tatbegehung relevant; Verkauf von Bypass-Software in einem reinen Hobby-Forum koennte unterhalb der Gewerbsmaessigkeitsschwelle bleiben.
+- **Werkzeugherstellung nach Paragraph 95a Abs 3 UrhG.** Strafrechtlich nur über Paragraph 108b Abs 3 UrhG bei gewerblicher Tatbegehung relevant; Verkauf von Bypass-Software in einem reinen Hobby-Forum koennte unterhalb der Gewerbsmaessigkeitsschwelle bleiben.
 
 ## Trade-off-Matrix
 
 | Pfad A Privatgebrauch-Verteidigung | Pfad B Geringe Schuld Paragraph 153 StPO | Empfehlung |
 | --- | --- | --- |
-| Privatgebrauchsausnahme Paragraph 108b Abs 2 UrhG einwenden; nur dann tragfaehig, wenn Tat ausschliesslich privat und keine Verbreitung erfolgte | Bei geringer Tatfolge Einstellung nach Paragraph 153 oder 153a StPO durch StA anregen; ggf. Geldauflage an Berechtigten | Bei klaren Privatgebrauchs-Faellen: Pfad A. Wenn Privatgebrauchsausnahme nicht greift (Verbreitung erfolgte) und Tatfolge gering: Pfad B. Bei gewerblichem Vertrieb von Umgehungswerkzeugen: vollumfaengliche Verteidigung. |
+| Privatgebrauchsausnahme Paragraph 108b Abs 2 UrhG einwenden; nur dann tragfaehig, wenn Tat ausschließlich privat und keine Verbreitung erfolgte | Bei geringer Tatfolge Einstellung nach Paragraph 153 oder 153a StPO durch StA anregen; ggf. Geldauflage an Berechtigten | Bei klaren Privatgebrauchs-Faellen: Pfad A. Wenn Privatgebrauchsausnahme nicht greift (Verbreitung erfolgte) und Tatfolge gering: Pfad B. Bei gewerblichem Vertrieb von Umgehungswerkzeugen: vollumfaengliche Verteidigung. |
 
 Praxistipp: Bei der Tat einer einzelnen Umgehung ohne Verbreitung ist die Privatgebrauchsausnahme das wichtigste Verteidigungsargument; sie ist bisher seit Einfuehrung 2003 in der Praxis eher selten in der Rechtsprechung aufgegriffen worden, was Anlass für sorgfaeltige Live-Verifikation der aktuellen Linie ist.
 
 ## Konkurrenzen
 
-- **Paragraph 108b UrhG und Paragraph 106 UrhG.** Wenn nach Umgehung auch Vervielfaeltigung erfolgt, Tateinheit moeglich. Paragraph 108b ist nicht subsidiaer.
-- **Paragraph 108b UrhG und Paragraph 202a StGB Ausspaehen von Daten.** Bei Umgehung einer Verschluesselung, die zugleich Datenzugang sperrt, Tateinheit moeglich.
-- **Paragraph 108b UrhG und Paragraph 23 GeschGehG.** Bei Cracking einer Firmensoftware mit Quellcode-Zugang Tateinheit pruefen.
+- **Paragraph 108b UrhG und Paragraph 106 UrhG.** Wenn nach Umgehung auch Vervielfaeltigung erfolgt, Tateinheit möglich. Paragraph 108b ist nicht subsidiaer.
+- **Paragraph 108b UrhG und Paragraph 202a StGB Ausspaehen von Daten.** Bei Umgehung einer Verschluesselung, die zugleich Datenzugang sperrt, Tateinheit möglich.
+- **Paragraph 108b UrhG und Paragraph 23 GeschGehG.** Bei Cracking einer Firmensoftware mit Quellcode-Zugang Tateinheit prüfen.
 
 ## Strafzumessung
 
@@ -74,7 +74,7 @@ Strafrahmen Paragraph 108b Abs 1 UrhG: Freiheitsstrafe bis ein Jahr oder Geldstr
 
 ## Mustertexte
 
-**Schutzschrift-Snippet (Privatgebrauchsausnahme):** "Mein Mandant hat den Kopierschutz der streitgegenstaendlichen DVD ausschliesslich zur Erstellung einer privaten Sicherheitskopie umgangen. Eine Verbreitung, Veroeffentlichung oder Weitergabe an Dritte ist nicht erfolgt. Die Privatgebrauchsausnahme nach Paragraph 108b Abs 2 UrhG greift; eine Strafbarkeit nach Paragraph 108b Abs 1 Nr 1 UrhG scheidet aus. Eine Tat nach Nr 2 ist nicht ersichtlich, da Rechtewahrnehmungs-Informationen weder entfernt noch veraendert wurden."
+**Schutzschrift-Snippet (Privatgebrauchsausnahme):** "Mein Mandant hat den Kopierschutz der streitgegenstaendlichen DVD ausschließlich zur Erstellung einer privaten Sicherheitskopie umgangen. Eine Verbreitung, Veroeffentlichung oder Weitergabe an Dritte ist nicht erfolgt. Die Privatgebrauchsausnahme nach Paragraph 108b Abs 2 UrhG greift; eine Strafbarkeit nach Paragraph 108b Abs 1 Nr 1 UrhG scheidet aus. Eine Tat nach Nr 2 ist nicht ersichtlich, da Rechtewahrnehmungs-Informationen weder entfernt noch veraendert wurden."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten einzuholen zum Beweis der Tatsache, dass der streitgegenstaendliche Kopierschutz CSS in der hier vorliegenden Konfiguration durch Standard-Konsumentensoftware ohne Spezialkenntnisse umgangen werden kann, so dass die Wirksamkeit der technischen Schutzmassnahme nach Paragraph 95a Abs 2 UrhG nicht gegeben ist."
 
@@ -82,11 +82,11 @@ Strafrahmen Paragraph 108b Abs 1 UrhG: Freiheitsstrafe bis ein Jahr oder Geldstr
 
 ## Verfahrensschritte im Mandat
 
-1. **Erstgespraech und Akteneinsicht.** Beschuldigtenstatus klaeren; Schweigen Paragraph 136 StPO; Akteneinsicht Paragraph 147 StPO.
-2. **Strafantrag pruefen.** Paragraph 109 UrhG iVm Paragraph 77b StGB; Dreimonatsfrist.
-3. **Wirksamkeit der TPM angreifen.** Technisches Sachverstaendigengutachten zur Wirksamkeit der Schutzmassnahme; bei trivialer Massnahme entfaellt Tatbestand.
-4. **Privatgebrauchsausnahme Paragraph 108b Abs 2 UrhG** belegen: Nachweis ausschliesslich privater Nutzung; keine Verbreitung.
-5. **Vorsatzpruefung.** Bei frei zugaenglichen Tools Verbotsirrtum Paragraph 17 StGB pruefen.
+1. **Erstgespraech und Akteneinsicht.** Beschuldigtenstatus klären; Schweigen Paragraph 136 StPO; Akteneinsicht Paragraph 147 StPO.
+2. **Strafantrag prüfen.** Paragraph 109 UrhG iVm Paragraph 77b StGB; Dreimonatsfrist.
+3. **Wirksamkeit der TPM angreifen.** Technisches Sachverstaendigengutachten zur Wirksamkeit der Schutzmassnahme; bei trivialer Maßnahme entfaellt Tatbestand.
+4. **Privatgebrauchsausnahme Paragraph 108b Abs 2 UrhG** belegen: Nachweis ausschließlich privater Nutzung; keine Verbreitung.
+5. **Vorsatzpruefung.** Bei frei zugaenglichen Tools Verbotsirrtum Paragraph 17 StGB prüfen.
 6. **Vergleich mit Rechteinhaber** und Antragsruecknahme Paragraph 77d StGB; Lizenzgebuehrenanalogie.
 7. **Verstaendigung Paragraph 257c StPO** bei kommerzieller Tat und kooperativer Mandantenseite.
 8. **Hauptverhandlung** mit IT-Sachverstaendigem.
@@ -99,4 +99,4 @@ Strafrahmen Paragraph 108b Abs 1 UrhG: Freiheitsstrafe bis ein Jahr oder Geldstr
 - Paragraph 202a StGB Ausspaehen von Daten (Konkurrenz).
 - BGH staendige Rspr. zur Wirksamkeit technischer Schutzmassnahmen (zivilrechtliche Auslegung in Paragraph 95a UrhG); EuGH C-355/12 Nintendo zur Auslegung der TPM-Wirksamkeit (Datum und Rn vor Verwendung verifizieren).
 - Paragraphen 73, 73c, 74 StGB Einziehung; Paragraph 110 UrhG Sondereinziehung.
-- Anmerkung: Strafrechtliche Rspr. zu Paragraph 108b UrhG ist in der Praxis duenn; vor Verwendung in einem Schriftsatz aktuelle Datenbank pruefen.
+- Anmerkung: Strafrechtliche Rspr. zu Paragraph 108b UrhG ist in der Praxis duenn; vor Verwendung in einem Schriftsatz aktuelle Datenbank prüfen.

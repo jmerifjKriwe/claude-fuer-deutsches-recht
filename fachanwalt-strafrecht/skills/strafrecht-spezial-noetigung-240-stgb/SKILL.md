@@ -77,8 +77,8 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 - **§ 249 StGB:** Wenn zur Wegnahme – vorrangig.
 - **§ 253 StGB:** Bei Vermoegensverfuegung – vorrangig.
 - **§ 177 StGB:** Bei sexueller Handlung – vorrangig (§ 177 Abs. 5 StGB als spezielle Noetigung).
-- **§ 238 StGB Nachstellung:** Tateinheit moeglich.
-- **§ 241 StGB Bedrohung:** Tateinheit moeglich.
+- **§ 238 StGB Nachstellung:** Tateinheit möglich.
+- **§ 241 StGB Bedrohung:** Tateinheit möglich.
 - **§§ 223, 224 StGB Koerperverletzung:** Tateinheit oder Verdraengung im Einzelfall.
 - **§§ 105, 106 StGB:** Noetigung von Verfassungsorganen.
 - **§§ 113, 114 StGB:** Widerstand gegen Vollstreckungsbeamte – vorrangig bei Diensthandlungen.
@@ -89,7 +89,7 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 - **Strafrahmen § 240 Abs. 4 StGB:** Freiheitsstrafe von sechs Monaten bis zu fuenf Jahren.
 - **Versuch:** § 240 Abs. 3 StGB strafbar; § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB.
 - **§ 46a StGB / TOA:** Strafrahmenverschiebung oder Absehen von Strafe.
-- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsaetzlich moeglich.
+- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsätzlich möglich.
 - **§§ 153, 153a StPO:** Bei Erstmaligkeit und Geringfuegigkeit haeufig Einstellung.
 
 ## Mustertexte
@@ -101,7 +101,7 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 > Nach der staendigen Rechtsprechung des BVerfG (Sitzblockaden-Entscheidung 1995) ist das blosse Sitzen auf der Strasse ohne koerperliche Einwirkung auf den ersten Fahrer keine Gewalt iSd § 240 StGB. Die Anklage trifft den Angeklagten nur im Verhaeltnis zu den nachfolgenden Fahrzeugen, die durch das vor ihnen stehende erste Fahrzeug physisch blockiert wurden. Im Verhaeltnis zum ersten Fahrer scheidet § 240 StGB aus.
 
 **Antrag § 153a StPO:**
-> Es wird beantragt, das Verfahren gemaess § 153a Abs. 1 StPO einzustellen. Der Angeklagte ist nicht vorbestraft, die Tat ist von geringer Schwere und der Angeklagte ist zur Zahlung einer Geldauflage in Hoehe von ... EUR an die Staatskasse / die genannte gemeinnuetzige Einrichtung bereit.
+> Es wird beantragt, das Verfahren gemäß § 153a Abs. 1 StPO einzustellen. Der Angeklagte ist nicht vorbestraft, die Tat ist von geringer Schwere und der Angeklagte ist zur Zahlung einer Geldauflage in Höhe von ... EUR an die Staatskasse / die genannte gemeinnuetzige Einrichtung bereit.
 
 ## Quellen Stand 06/2026
 

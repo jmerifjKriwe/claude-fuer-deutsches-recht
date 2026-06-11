@@ -22,7 +22,7 @@ Dieser Skill vermittelt konkrete Techniken zur Entschärfung persönlicher Angri
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: persönliche Angriffe unzulaessig
-- § 185 StGB — Beleidigung: persönliche Angriffe koennen strafbar sein
+- § 185 StGB — Beleidigung: persönliche Angriffe können strafbar sein
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht: Schadenersatz bei Persoenlichkeitsverletzung
 - § 1004 BGB — Unterlassungsanspruch bei andauernden persönlichen Angriffen
 

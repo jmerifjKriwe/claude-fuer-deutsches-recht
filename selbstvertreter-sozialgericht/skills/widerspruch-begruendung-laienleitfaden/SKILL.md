@@ -13,11 +13,11 @@ description: "Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsach
 
 ## Worum geht es?
 
-Den Widerspruch einlegen ist einfach. Aber Sie muessen ihn auch begruenden — sonst wird er fast immer abgelehnt. Diese Skill zeigt Ihnen, wie Sie Ihre Argumente klar und ueberzeugend aufschreiben.
+Den Widerspruch einlegen ist einfach. Aber Sie müssen ihn auch begruenden — sonst wird er fast immer abgelehnt. Diese Skill zeigt Ihnen, wie Sie Ihre Argumente klar und ueberzeugend aufschreiben.
 
 ## In einfacher Sprache
 
-Sie haben Widerspruch eingelegt. Jetzt muessen Sie sagen warum. Erklaeren Sie Ihre Situation. Bringen Sie Beweise. Wir zeigen Ihnen, wie das geht.
+Sie haben Widerspruch eingelegt. Jetzt müssen Sie sagen warum. Erklaeren Sie Ihre Situation. Bringen Sie Beweise. Wir zeigen Ihnen, wie das geht.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -36,7 +36,7 @@ Sie haben Widerspruch eingelegt. Jetzt muessen Sie sagen warum. Erklaeren Sie Ih
 ## Rechtsgrundlagen
 
 - **§ 84 Abs. 2 SGG** — Begruendung des Widerspruchs (nicht zwingend, aber sehr empfohlen).
-- **§ 24 SGB X** — Anhörung; Sie duerfen sich zu allem aeussern.
+- **§ 24 SGB X** — Anhörung; Sie dürfen sich zu allem aeussern.
 - **§ 25 SGB X** — Akteneinsicht.
 - **§ 20 SGB X** — Untersuchungsgrundsatz auch im Vorverfahren.
 
@@ -44,7 +44,7 @@ Sie haben Widerspruch eingelegt. Jetzt muessen Sie sagen warum. Erklaeren Sie Ih
 
 ### Schritt 1 — Akteneinsicht beantragen
 
-Lesen Sie zuerst, was die Behörde ueber Sie hat. Beantragen Sie Akteneinsicht (§ 25 SGB X). Mustertext:
+Lesen Sie zuerst, was die Behörde über Sie hat. Beantragen Sie Akteneinsicht (§ 25 SGB X). Mustertext:
 
 ```
 Ich beantrage Akteneinsicht in die Sie betreffenden Verwaltungsakten nach § 25 SGB X. Bitte uebersenden Sie mir die Akte oder geben Sie einen Termin zur Einsicht in Ihren Raeumen.
@@ -91,7 +91,7 @@ IV. Beweismittel
 
 ### Schritt 5 — Konkrete Beispiele für typische Themen
 
-**Pflegegrad zu niedrig**: "Die Pflegekasse hat mit dem MD-Gutachten vom [Datum] Pflegegrad 2 festgestellt. Tatsaechlich brauche ich Hilfe bei [...]. Beigefuegt ist ein Pflegeprotokoll meiner Tochter ueber 14 Tage, das zeigt, dass ich taeglich ueber 90 Minuten Hilfe brauche. Damit liegt Pflegegrad 3 vor."
+**Pflegegrad zu niedrig**: "Die Pflegekasse hat mit dem MD-Gutachten vom [Datum] Pflegegrad 2 festgestellt. Tatsaechlich brauche ich Hilfe bei [...]. Beigefuegt ist ein Pflegeprotokoll meiner Tochter über 14 Tage, das zeigt, dass ich taeglich über 90 Minuten Hilfe brauche. Damit liegt Pflegegrad 3 vor."
 
 **Buergergeld-Sanktion**: "Das Jobcenter hat 30 % Sanktion verhaengt wegen versaeumten Termins. Tatsaechlich war ich erkrankt. Beigefuegt ist die Arbeitsunfaehigkeitsbescheinigung vom [Datum]. Ein wichtiger Grund i.S.v. § 31 Abs. 1 S. 2 SGB II liegt vor."
 
@@ -113,7 +113,7 @@ Nummerieren Sie die Anlagen: Anlage 1, Anlage 2 etc.
 
 Per Einschreiben mit Rueckschein oder persoenlich gegen Empfangsbestaetigung.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Tatsachen statt Meinungen**: "Ich kann nicht mehr arbeiten" ist eine Meinung. "Mein Hausarzt bescheinigt am [Datum]: weniger als 3 Stunden Belastbarkeit" ist eine Tatsache mit Beweis.
 - **Konkret werden**: Nicht "ich brauche Hilfe", sondern "ich brauche taeglich 90 Minuten Hilfe beim Waschen und Anziehen, dazu 30 Minuten bei der Nahrungszubereitung".

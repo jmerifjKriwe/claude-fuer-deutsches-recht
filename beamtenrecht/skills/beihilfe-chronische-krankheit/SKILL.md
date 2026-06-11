@@ -27,20 +27,20 @@ Skill für Beihilfeberechtigte mit schwerer chronischer Krankheit, die wegen hoh
 ## 3. Ablauf / Checkliste
 
 ### a) Definition schwerwiegend chronisch krank
-- Definition orientiert sich an der Chroniker-Richtlinie des Gemeinsamen Bundesausschusses: regelmäßige Behandlung wegen derselben Krankheit ueber mindestens ein Jahr, mindestens einmal pro Quartal, mit bestimmten Schweregradkriterien.
+- Definition orientiert sich an der Chroniker-Richtlinie des Gemeinsamen Bundesausschusses: regelmäßige Behandlung wegen derselben Krankheit über mindestens ein Jahr, mindestens einmal pro Quartal, mit bestimmten Schweregradkriterien.
 
 ### b) Befreiung von Eigenbehalten
 - Reduzierung der Belastungsgrenze auf 1 v. H. der jaehrlichen Bruttoeinkuenfte (statt 2 v. H.).
 - Antrag bei der Beihilfestelle, jaehrlich.
 
 ### c) Beihilfefaehigkeit von Therapien
-- Pruefung der Beihilfefaehigkeit von Heilbehandlungen, Heilmitteln, Hilfsmitteln, Verbrauchsmaterialien (z. B. Blutzuckermessgeraete, CGM-Sensoren).
+- Prüfung der Beihilfefaehigkeit von Heilbehandlungen, Heilmitteln, Hilfsmitteln, Verbrauchsmaterialien (z. B. Blutzuckermessgeraete, CGM-Sensoren).
 
 ### d) Pflegegrad
 - Bei Eintritt von Pflegebeduerftigkeit Antrag auf Beihilfe zu Pflege nach den Beihilfeverordnungen i.V.m. SGB XI.
 
 ### e) Verhaeltnis zur PKV
-- PKV und Beihilfe sind aufeinander abzustimmen; Versicherungsbedingungen der PKV pruefen.
+- PKV und Beihilfe sind aufeinander abzustimmen; Versicherungsbedingungen der PKV prüfen.
 
 ## 4. Quellenpflicht
 
@@ -62,4 +62,4 @@ Skill für Beihilfeberechtigte mit schwerer chronischer Krankheit, die wegen hoh
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandantin Multiple Sklerose, monatliche Immunmodulatoren, Krankengymnastik, Hilfsmittel. Skill liefert Antrag auf Befreiung von Eigenbehalten und Pruefung der Beihilfefaehigkeit des Spezialmedikaments.
+Mandantin Multiple Sklerose, monatliche Immunmodulatoren, Krankengymnastik, Hilfsmittel. Skill liefert Antrag auf Befreiung von Eigenbehalten und Prüfung der Beihilfefaehigkeit des Spezialmedikaments.

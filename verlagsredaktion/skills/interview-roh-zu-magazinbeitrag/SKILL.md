@@ -19,12 +19,12 @@ Aus einer Stunde Tonbandgespraech mit einer Bundesrichterin oder einem Strafvert
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- oder Online-Interview werden soll. Klaeren Sie:
+Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- oder Online-Interview werden soll. Klären Sie:
 
 1. Vollstaendiges Wortprotokoll oder gekuerzte Mitschrift?
 2. Welche Zielzeitschrift / welches Magazin, welche Hoechstlaenge?
 3. Ist Autorisierung mit der Interviewten vereinbart (Standard im seriösen Fachjournalismus)?
-4. Brisante Aussagen, die spaeter zurueckgenommen werden koennten?
+4. Brisante Aussagen, die später zurueckgenommen werden koennten?
 
 ## Material- bzw. Sachrahmen
 
@@ -38,10 +38,10 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 1. **Hoechstlaenge fixieren.** Magazin oft 8.000-15.000 Zeichen. Das diktiert die Zahl der Fragen (selten mehr als 7-10).
 2. **Hauptthesen sortieren.** Welche 3-5 Kernaussagen tragen das Interview? Alles drumherum dient diesen Thesen.
 3. **Frageblock neu konstruieren.** Originalfragen umformulieren, neue Fragen einfuegen, wenn die Antwort thematisch logisch dazu gehoert. Reihenfolge oft umstellen.
-4. **Antworten glaetten.** "Aehs", Doppelungen, Selbstkorrekturen raus. Lange Saetze verkuerzen, ohne Bedeutung zu aendern.
-5. **Brisante Passagen markieren.** Wo eine Aussage spaeter Kritik ausloesen koennte: Interviewter ausdruecklich auf diese Passage hinweisen vor Autorisierung.
+4. **Antworten glaetten.** "Aehs", Doppelungen, Selbstkorrekturen raus. Lange Saetze verkuerzen, ohne Bedeutung zu ändern.
+5. **Brisante Passagen markieren.** Wo eine Aussage später Kritik ausloesen koennte: Interviewter ausdruecklich auf diese Passage hinweisen vor Autorisierung.
 6. **Autorisierungsfassung.** Mit deutlichem Hinweis "Bitte autorisieren - Aenderungen bitte als Track-Changes" an Interviewte schicken.
-7. **Nach Autorisierung**: Aenderungen pruefen. Bei substantieller Aenderung ("ich habe das nie so gesagt") Originaltonbeleg pruefen, Ruecksprache.
+7. **Nach Autorisierung**: Aenderungen prüfen. Bei substantieller Aenderung ("ich habe das nie so gesagt") Originaltonbeleg prüfen, Ruecksprache.
 8. **Bildmaterial einplanen.** Portrait (Rechte!), ggf. zwei kleine Statementkaesten.
 
 ## Trade-off-Matrix

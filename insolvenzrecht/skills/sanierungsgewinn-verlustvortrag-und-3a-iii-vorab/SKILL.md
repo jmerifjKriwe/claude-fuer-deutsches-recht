@@ -3,7 +3,7 @@ name: sanierungsgewinn-verlustvortrag-und-3a-iii-vorab
 description: "Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-für-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag a..."
 ---
 
-# Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab pruefen
+# Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab prüfen
 
 ## Arbeitsweg
 
@@ -67,8 +67,8 @@ Die Verrechnungslogik laeuft in drei Stufen. Die folgende Tabelle zeigt das Grun
 **Ergebnis-Szenarien:**
 
 - **Szenario A (Verlustvortraege schlucken alles):** Restsanierungsertrag = 0 EUR. Materiell entfaellt jede Steuerlast aus dem Verzicht; der formelle Antrag bleibt sinnvoll zur Rechtssicherheit, ist materiell aber entbehrlich.
-- **Szenario B (Teilabsorption):** Restsanierungsertrag groesser 0. Die vier Voraussetzungen Paragraph 3a Absatz 2 EStG muessen den verbleibenden Betrag steuerfrei stellen; sonst Erlass nach Paragraph 227 AO oder Stundung Paragraph 222 AO pruefen.
-- **Szenario C (kein Verlustvortrag):** Voller Sanierungsertrag muss ueber Paragraph 3a EStG getragen werden. Hier ist die Vier-Voraussetzungs-Pruefung **vital**.
+- **Szenario B (Teilabsorption):** Restsanierungsertrag groesser 0. Die vier Voraussetzungen Paragraph 3a Absatz 2 EStG müssen den verbleibenden Betrag steuerfrei stellen; sonst Erlass nach Paragraph 227 AO oder Stundung Paragraph 222 AO prüfen.
+- **Szenario C (kein Verlustvortrag):** Voller Sanierungsertrag muss über Paragraph 3a EStG getragen werden. Hier ist die Vier-Voraussetzungs-Prüfung **vital**.
 
 ## Trade-off-Matrix
 
@@ -82,20 +82,20 @@ Die Verrechnungslogik laeuft in drei Stufen. Die folgende Tabelle zeigt das Grun
 
 ## Praxistipps der alten Hasen
 
-1. **Erst die Bescheide, dann die Modellrechnung.** Verlustvortraege sind oft mit Vorbehalt der Nachpruefung festgestellt. Wer mit Wunschzahlen rechnet, wird in der Plan-Pruefung zerlegt.
+1. **Erst die Bescheide, dann die Modellrechnung.** Verlustvortraege sind oft mit Vorbehalt der Nachpruefung festgestellt. Wer mit Wunschzahlen rechnet, wird in der Plan-Prüfung zerlegt.
 2. **Die zwei Welten KSt und GewSt getrennt fuehren.** Paragraph 7b GewStG kennt eigene Verrechnungsmechaniken; die KSt-Tabelle eins zu eins zu uebernehmen ist falsch.
 3. **Mindestbesteuerung Paragraph 10d Absatz 2 EStG entfaellt** beim Sanierungsertrag in der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG — das ist eine der wichtigsten Erleichterungen. Trotzdem dokumentieren.
 4. **Gesellschafter-Verzicht** ist nicht zwingend Sanierungsertrag. Wenn der Gesellschafter aus gesellschaftsrechtlicher Veranlassung verzichtet, ist der Verzicht eine Einlage (verdeckte Kapitalzufuehrung), kein Sanierungsertrag — die Modellrechnung muss diese Trennung leisten.
 5. **Stille Reserven sind kein Sanierungsertrag.** Bei Aufdeckung im Plan entstehen Veraeusserungsgewinne, die regulaer steuerpflichtig sind. Trennung schon im Modell auseinanderhalten.
-6. **Zinsschranke Paragraph 4h EStG / Paragraph 8a KStG** kann durch den Verzicht wieder Aktualitaet bekommen, weil Zinsvortraege ggf. zu Lasten des Sanierungsertrags genutzt werden — pruefen.
+6. **Zinsschranke Paragraph 4h EStG / Paragraph 8a KStG** kann durch den Verzicht wieder Aktualitaet bekommen, weil Zinsvortraege ggf. zu Lasten des Sanierungsertrags genutzt werden — prüfen.
 
 ## Mustertexte / Berechnungsbeispiele
 
-**Beispiel 1 — Szenario A:** GmbH, KSt-Verlustvortrag 8.000.000 EUR. Sanierungsertrag aus Plan 5.000.000 EUR. Stufe 1: 5.000.000. Stufe 2a Sanierungskosten 200.000. Stufe 2b KSt-Verlustvortrag verbraucht in Hoehe von 4.800.000. Restsanierungsertrag: 0. Verbleibender KSt-Verlustvortrag nach Sanierung: 3.200.000. **Materiell keine Steuer** aus dem Verzicht.
+**Beispiel 1 — Szenario A:** GmbH, KSt-Verlustvortrag 8.000.000 EUR. Sanierungsertrag aus Plan 5.000.000 EUR. Stufe 1: 5.000.000. Stufe 2a Sanierungskosten 200.000. Stufe 2b KSt-Verlustvortrag verbraucht in Höhe von 4.800.000. Restsanierungsertrag: 0. Verbleibender KSt-Verlustvortrag nach Sanierung: 3.200.000. **Materiell keine Steuer** aus dem Verzicht.
 
 **Beispiel 2 — Szenario B:** GmbH, KSt-Verlustvortrag 1.500.000 EUR. Sanierungsertrag 5.000.000. Stufe 2a Sanierungskosten 200.000. Stufe 2b Verlustvortrag verbraucht: 1.500.000. Restsanierungsertrag: 3.300.000. Dieser Restbetrag ist nach Paragraph 3a Absatz 1 EStG steuerfrei, wenn die vier Voraussetzungen Paragraph 3a Absatz 2 EStG erfuellt sind. Andernfalls: Steuer rund 0,8 bis 1,0 Mio. EUR (KSt plus GewSt) — für den Plan in der Regel toedlich.
 
-**Beispiel 3 — Szenario C:** GmbH, kein Verlustvortrag (junges Unternehmen mit hohem Forderungsverzicht). Sanierungsertrag 2.000.000. Stufe 2a Sanierungskosten 100.000. Restsanierungsertrag: 1.900.000. Nur Paragraph 3a Absatz 1 EStG schuetzt — die vier Voraussetzungen muessen wasserdicht dokumentiert sein.
+**Beispiel 3 — Szenario C:** GmbH, kein Verlustvortrag (junges Unternehmen mit hohem Forderungsverzicht). Sanierungsertrag 2.000.000. Stufe 2a Sanierungskosten 100.000. Restsanierungsertrag: 1.900.000. Nur Paragraph 3a Absatz 1 EStG schuetzt — die vier Voraussetzungen müssen wasserdicht dokumentiert sein.
 
 **Excel-Spalten-Layout (kanzleitauglich):**
 
@@ -129,6 +129,6 @@ Zeile 6: = Restsanierungsertrag
 - Paragraph 10d EStG, `gesetze-im-internet.de/estg/__10d.html`.
 - Paragraph 8 KStG, `gesetze-im-internet.de/kstg_1977/__8.html`.
 - Paragraph 7b GewStG, `gesetze-im-internet.de/gewstg/__7b.html`.
-- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung und Grenzen des steuerfreien Sanierungsgewinns. Verifikation ueber `dejure.org` und NWB-Datenbank.
+- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung und Grenzen des steuerfreien Sanierungsgewinns. Verifikation über `dejure.org` und NWB-Datenbank.
 - FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation mit nachrangigem Gesellschafterdarlehen; mit dem Erloeschen der GmbH erloeschen Verbindlichkeiten **und** Verlustvortraege, der rechentheoretisch entstehende Gewinn ist mangels Koerperschaftsteuersubjekt nicht festsetzbar. Wichtige Abgrenzung zum hier geregelten Sanierungspfad.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

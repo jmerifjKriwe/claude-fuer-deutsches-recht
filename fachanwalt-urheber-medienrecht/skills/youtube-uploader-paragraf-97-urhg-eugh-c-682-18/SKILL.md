@@ -7,7 +7,7 @@ description: "Youtube Uploader Paragraf 97 Urhg EuGH C 682 18: fachanwaltlicher 
 
 ## Einsatzlage
 
-Plattform haftet fuer Nutzer-Uploads urheberrechtswidrig?
+Plattform haftet für Nutzer-Uploads urheberrechtswidrig?
 
 ## Normenanker
 

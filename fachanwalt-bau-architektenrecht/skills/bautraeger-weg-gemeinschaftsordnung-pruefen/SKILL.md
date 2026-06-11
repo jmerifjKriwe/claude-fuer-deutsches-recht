@@ -3,7 +3,7 @@ name: bautraeger-weg-gemeinschaftsordnung-pruefen
 description: "WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen: Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Aenderung. Liefert Pruefraster."
 ---
 
-# WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen
+# WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen
 
 
 ## Arbeitsweg
@@ -14,9 +14,9 @@ description: "WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen: Skill kla
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen. Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Aenderung. Liefert Pruefraster.
+**Fokus:** WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen. Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Aenderung. Liefert Pruefraster.
 
-### Bautraeger Weg Gemeinschaftsordnung Pruefen
+### Bautraeger Weg Gemeinschaftsordnung Prüfen
 
 ## Norm
 
@@ -29,7 +29,7 @@ description: "WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen: Skill kla
 - Stimmrechte in der Eigentuemerversammlung.
 - Sonderzahlungen.
 
-## Pruefen
+## Prüfen
 
 ### Hausordnung
 - Realistisch?
@@ -45,7 +45,7 @@ description: "WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen: Skill kla
 ## Nachtraegliche Aenderung
 
 - Erfordert idR Einstimmigkeit oder qualifizierte Mehrheit.
-- Schutz davor, dass Bautraeger spaeter alles aendert.
+- Schutz davor, dass Bautraeger später alles aendert.
 
 ## Pruefraster
 

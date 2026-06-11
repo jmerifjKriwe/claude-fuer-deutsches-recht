@@ -3,7 +3,7 @@ name: legitimer-zweck-pruefung
 description: Stufe 1 der Verhaeltnismaessigkeit legitimer Zweck mit Pruefraster fuer einfachen qualifizierten und verfassungsimmanenten Vorbehalt. Mit Negativliste verbotener Zwecke und Beispielen wann ein Zweck vorgeschoben ist.
 ---
 
-# Legitimer Zweck Pruefung
+# Legitimer Zweck Prüfung
 
 ## Was ist legitim?
 
@@ -22,11 +22,11 @@ Jeder vernuenftige Gemeinwohlzweck genuegt. Beispiele:
 
 ### Qualifizierter Gesetzesvorbehalt
 Nur die in der Schranke ausdruecklich genannten Zwecke.
-- Art 11 II GG: nur ausreichende Lebensgrundlage, drohende Gefahr fuer Bestand
+- Art 11 II GG: nur ausreichende Lebensgrundlage, drohende Gefahr für Bestand
   oder freiheitliche demokratische Grundordnung, Seuchengefahr usw.
-- Art 13 III GG: dringende Gefahren fuer Bestand, freiheitliche demokratische
+- Art 13 III GG: dringende Gefahren für Bestand, freiheitliche demokratische
   Grundordnung oder Leben.
-- Art 8 II GG: nur fuer Versammlungen unter freiem Himmel.
+- Art 8 II GG: nur für Versammlungen unter freiem Himmel.
 
 ### Verfassungsimmanente Schranken
 Nur Verfassungsgueter mit Verfassungsrang.

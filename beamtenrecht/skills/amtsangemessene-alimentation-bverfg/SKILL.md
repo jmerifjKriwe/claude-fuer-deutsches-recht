@@ -15,7 +15,7 @@ description: "Skill zur Pruefung der amtsangemessenen Alimentation der Beamten R
 
 ## 1. Zweck und Anwendungsfall
 
-Skill zur Pruefung, ob die Besoldung eines Beamten oder Richters dem Grundsatz der amtsangemessenen Alimentation aus Art. 33 Abs. 5 GG entspricht. Anwendung beim Widerspruch gegen die monatliche Besoldungsmitteilung mit dem Ziel der verfassungsgerichtlichen Vorlage durch das VG nach Art. 100 Abs. 1 GG.
+Skill zur Prüfung, ob die Besoldung eines Beamten oder Richters dem Grundsatz der amtsangemessenen Alimentation aus Art. 33 Abs. 5 GG entspricht. Anwendung beim Widerspruch gegen die monatliche Besoldungsmitteilung mit dem Ziel der verfassungsgerichtlichen Vorlage durch das VG nach Art. 100 Abs. 1 GG.
 
 ## 2. Eingaben
 
@@ -29,7 +29,7 @@ Skill zur Pruefung, ob die Besoldung eines Beamten oder Richters dem Grundsatz d
 ## 3. Ablauf / Checkliste
 
 ### a) Erste Stufe — Pruefkriterien
-- Das BVerfG hat in seiner staendigen Rechtsprechung mehrere Indikatoren etabliert, die im Zusammenwirken eine Vermutung der Unteralimentation begruenden koennen. Genannt werden u. a. Tarifentwicklung im öffentlichen Dienst, Verbraucherpreisindex, Vergleich zur Grundsicherung, Abstand zur naechstniedrigeren Besoldungsgruppe, Familienzuschlag für das dritte und jedes weitere Kind.
+- Das BVerfG hat in seiner staendigen Rechtsprechung mehrere Indikatoren etabliert, die im Zusammenwirken eine Vermutung der Unteralimentation begruenden können. Genannt werden u. a. Tarifentwicklung im öffentlichen Dienst, Verbraucherpreisindex, Vergleich zur Grundsicherung, Abstand zur naechstniedrigeren Besoldungsgruppe, Familienzuschlag für das dritte und jedes weitere Kind.
 
 ### b) Zweite Stufe — Gesamtbetrachtung
 - Auf der zweiten Stufe ist eine Gesamtbetrachtung anzustellen, die auch qualitative Aspekte (Statusrelevanz, Mindestabstand zur Grundsicherung, Hergebrachte Grundsaetze) einbezieht.
@@ -42,12 +42,12 @@ Skill zur Pruefung, ob die Besoldung eines Beamten oder Richters dem Grundsatz d
 - Klage zum VG; Aussetzung des Verfahrens und Vorlage an das BVerfG nach Art. 100 Abs. 1 GG, wenn das VG von der Verfassungswidrigkeit ueberzeugt ist.
 
 ### e) Foederalismusreform 2006
-- Die Besoldung der Landes- und Kommunalbeamten ist seit der Foederalismusreform Sache der Länder. Daraus folgen unterschiedliche Anpassungspfade. Verfassungswidrigkeit ist landesspezifisch zu pruefen.
+- Die Besoldung der Landes- und Kommunalbeamten ist seit der Foederalismusreform Sache der Länder. Daraus folgen unterschiedliche Anpassungspfade. Verfassungswidrigkeit ist landesspezifisch zu prüfen.
 
 ## 4. Quellenpflicht
 
 - Normen: Art. 33 Abs. 5, Art. 100 Abs. 1 GG; BBesG; Landesbesoldungsgesetze.
-- Rspr.: BVerfG zur amtsangemessenen Alimentation (Leitentscheidungen zu R-Besoldung und A-Besoldung) — Quellenanker unten; konkrete Entscheidung in amtlicher oder freier Quelle prüfen (verbreitet zitierte Entscheidungen mit Aktenzeichen wie "2 BvL 17/09" oder "2 BvL 4/18" im konkreten Mandat in amtlicher Quelle pruefen).
+- Rspr.: BVerfG zur amtsangemessenen Alimentation (Leitentscheidungen zu R-Besoldung und A-Besoldung) — Quellenanker unten; konkrete Entscheidung in amtlicher oder freier Quelle prüfen (verbreitet zitierte Entscheidungen mit Aktenzeichen wie "2 BvL 17/09" oder "2 BvL 4/18" im konkreten Mandat in amtlicher Quelle prüfen).
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat

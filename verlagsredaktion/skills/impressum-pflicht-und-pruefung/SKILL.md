@@ -3,7 +3,7 @@ name: impressum-pflicht-und-pruefung
 description: "Impressumspflicht und Pruefung im Verlag: DDG § 5, MStV § 18 V. i. S. d. P., Anforderungen Print/Online/Newsletter/Social-Media-Profile, Mustertexte und Pruefcheckliste im Verlagsredaktion."
 ---
 
-# Impressums-Pflicht und Pruefung
+# Impressums-Pflicht und Prüfung
 
 ## Arbeitsweg
 
@@ -52,11 +52,11 @@ Jedes Verlagsprodukt mit eigener öffentlicher Wirkung braucht ein Impressum: Pr
 5. **Plattformspezifika.**
  - Print-Heft: Impressum auf Seite 2 oder Innentitel.
  - Buch: Impressum mit ISBN, Verlagsanschrift, Druckerei.
- - Online: ueber alle Seiten erreichbar (Footer).
+ - Online: über alle Seiten erreichbar (Footer).
  - Newsletter: Footer jeder Ausgabe.
  - Social Media: Bio-Link oder eigenes Impressums-Tab.
 6. **Datenschutzerklaerung** separat halten; nicht im Impressum aufgehen lassen.
-7. **Regelmäßige Pruefung** halbjaehrlich (Vertretungswechsel, Anschrift, USt-ID).
+7. **Regelmäßige Prüfung** halbjaehrlich (Vertretungswechsel, Anschrift, USt-ID).
 
 ## Trade-off-Matrix
 

@@ -3,7 +3,7 @@ name: marketplace-anspruch-pruefen
 description: "Prüfer: Marketplace: Anspruch prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Marketplace Anspruch Pruefen
+# Marketplace Anspruch Prüfen
 
 ## Arbeitsweg
 

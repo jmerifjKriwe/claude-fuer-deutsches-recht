@@ -29,7 +29,7 @@ Dieser Skill arbeitet die Pflichten und die Verteidigung heraus. Adressat: Verwa
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Verwalter steht im Verdacht, Sanierungsertrag-Steuern in voller Hoehe an das Finanzamt zahlen zu muessen, weil Antraege versaeumt wurden.
+- Verwalter steht im Verdacht, Sanierungsertrag-Steuern in voller Höhe an das Finanzamt zahlen zu müssen, weil Antraege versaeumt wurden.
 - Glaeubigerausschuss ueberlegt, eine Pflichtverletzung anzunehmen.
 - Verwalter will praeventiv die eigene Aktenlage absichern.
 
@@ -59,25 +59,25 @@ Kaltstart-Fragen:
 | Steuerlichen Berater einbinden | StB des Schuldners aktivieren, ggf. eigenen StB beauftragen | Mandatsschreiben |
 | Verlustvortrag-Modellrechnung | Paragraph 3a Absatz 3 EStG rechnen | Excel-Modell in der Akte |
 | Vier Voraussetzungen dokumentieren | Sanierungsbeduerftigkeit, -faehigkeit, -eignung, -absicht | Anlagen zum darstellenden Teil |
-| Vorabauskunft pruefen | Paragraph 89 AO ab gewisser Volumenschwelle | Aktenvermerk Pruefung |
+| Vorabauskunft prüfen | Paragraph 89 AO ab gewisser Volumenschwelle | Aktenvermerk Prüfung |
 | Antrag in Steuererklaerung | Mit Erklaerung des Sanierungsjahres | Erklaerungs-Kopie |
 | Paragraph 7b GewStG-Parallel | Eigenstaendiger Antrag | Erklaerung GewSt |
-| Plan-Text steuerlich pruefen | Darstellender Teil enthaelt die Vier-Voraussetzungs-Belege | Plan-Entwurf |
+| Plan-Text steuerlich prüfen | Darstellender Teil enthaelt die Vier-Voraussetzungs-Belege | Plan-Entwurf |
 
 ## / Schritt für Schritt
 
 1. **Pflichtverletzung qualifizieren.** Welcher Schritt wurde versaeumt? War er pflichtgemaess geschuldet?
-2. **Verschulden pruefen.** Paragraph 60 InsO verlangt Verschulden. Der Verwalter haftet **nicht** für jeden Fehler, sondern für schuldhafte Pflichtverletzung. Bei komplexen Steuerthemen ist die Hinzuziehung eines StB regelmaessig pflichtgemaess; die Auslagerung allein entlastet aber nicht.
+2. **Verschulden prüfen.** Paragraph 60 InsO verlangt Verschulden. Der Verwalter haftet **nicht** für jeden Fehler, sondern für schuldhafte Pflichtverletzung. Bei komplexen Steuerthemen ist die Hinzuziehung eines StB regelmaessig pflichtgemaess; die Auslagerung allein entlastet aber nicht.
 3. **Schaden berechnen.** Mehr-Steuer = Schaden. Aber Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG durchspielen: wenn Verlustvortraege ohnehin den Ertrag aufgezehrt haetten, ist der Schaden null oder gering.
-4. **Kausalitaet pruefen.** Auch ohne den versaeumten Antrag haette das FA ggf. anders entschieden — Beweislast und Vermutungs-Regeln.
-5. **Versicherungsdeckung pruefen.** Die IV-Berufshaftpflicht deckt typischerweise auch Steuerthemen, sofern der Verwalter sie nicht grob fahrlaessig versaeumt hat.
+4. **Kausalitaet prüfen.** Auch ohne den versaeumten Antrag haette das FA ggf. anders entschieden — Beweislast und Vermutungs-Regeln.
+5. **Versicherungsdeckung prüfen.** Die IV-Berufshaftpflicht deckt typischerweise auch Steuerthemen, sofern der Verwalter sie nicht grob fahrlaessig versaeumt hat.
 6. **Verteidigung aufbauen.** Akten, externe StB-Empfehlungen, Plausibilitaetspruefungen.
 
 ## Trade-off-Matrix Pflichten / Verteidigung
 
 | Verteidigung des IV | Stand sicher? | Stand schwach? |
 |---|---|---|
-| Externer StB war beauftragt | bei rechtzeitiger Hinzuziehung sehr stark | bei spaeter oder ungeeigneter Auswahl schwach |
+| Externer StB war beauftragt | bei rechtzeitiger Hinzuziehung sehr stark | bei später oder ungeeigneter Auswahl schwach |
 | Vorabauskunft beantragt | sehr stark | wenn ueberhaupt nicht erwogen, schwach |
 | Vier Voraussetzungen dokumentiert | sehr stark | wenn Plan-Text duenn, schwach |
 | Verrechnungsreihenfolge gerechnet | sehr stark | wenn Modellrechnung fehlt, schwach |
@@ -184,5 +184,5 @@ Beweis: Anlagen 1-12.
 - Paragraphen 56, 58, 92 InsO, `gesetze-im-internet.de/inso/`.
 - Paragraphen 69, 89, 251 AO, `gesetze-im-internet.de/ao_1977/`.
 - Paragraph 3a EStG, Paragraph 7b GewStG.
-- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25. Verifikation ueber `dejure.org`.
+- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25. Verifikation über `dejure.org`.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

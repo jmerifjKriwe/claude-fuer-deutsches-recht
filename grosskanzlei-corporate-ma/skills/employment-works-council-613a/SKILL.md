@@ -3,7 +3,7 @@ name: employment-works-council-613a
 description: "Employment, Works Council und Betriebsuebergang Skill: prueft Arbeitnehmer, Betriebsrat, Mitbestimmung, § 613a BGB, Retention, Bonus, Change of Control und Restrukturierung: Employment, Works Council und Betriebsuebergang Skill: prueft Arbeitnehmer, Betrie..."
 ---
 
-# Employment, Works Council und Betriebsuebergang Skill: prueft Arbeitnehmer, Betriebsrat, Mitbestimmung, § 613a BGB, Retention, Bonus, Change of Control und Restrukturierung.
+# Employment, Works Council und Betriebsuebergang Skill: prüft Arbeitnehmer, Betriebsrat, Mitbestimmung, § 613a BGB, Retention, Bonus, Change of Control und Restrukturierung.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Employment, Works Council und Betriebsuebergang Skill: prueft Arbe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Employment, Works Council und Betriebsuebergang Skill: prueft Arbeitnehmer, Betriebsrat, Mitbestimmung, § 613a BGB, Retention, Bonus, Change of Control und Restrukturierung.
+**Fokus:** Employment, Works Council und Betriebsuebergang Skill: prüft Arbeitnehmer, Betriebsrat, Mitbestimmung, § 613a BGB, Retention, Bonus, Change of Control und Restrukturierung.
 
 ### Employment Works Council 613a
 
@@ -38,7 +38,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 | --- | --- |
 | Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschaeftsfuehrung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
 | Phase | Screening, NDA, Term Sheet, Datenraum, DD, SPA/APA, Signing, Closing, PMI, Streit oder Post-Mortem. |
-| Material | Mitarbeiterliste, Betriebsrat, Tarif/BR-Vereinbarungen, Pensions, Transaktionsstruktur, geplante Massnahmen. |
+| Material | Mitarbeiterliste, Betriebsrat, Tarif/BR-Vereinbarungen, Pensions, Transaktionsstruktur, geplante Maßnahmen. |
 | Frist | Signing, Closing, Q&A, Filing, Board, Beurkundung, Angebotsfrist, CP-Deadline oder keine Eile erkennbar. |
 | Ziel-Output | Employment-DD-Report, Beteiligungsfahrplan, 613a-Check, SPA-Klauseln und Kommunikationsplan. |
 
@@ -47,9 +47,9 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 
 | Karte/Spalte | Inhalt | Status | Owner | Quelle | Naechster Schritt |
 | --- | --- | --- | --- | --- | --- |
-| Issue | Konkretes Thema oder Dokument | offen / in Pruefung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
+| Issue | Konkretes Thema oder Dokument | offen / in Prüfung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
 
-Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
+Für Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
 - Kurzbild für Partner oder Mandant.
@@ -59,7 +59,7 @@ Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Bef
 - Offene Punkte mit genauem Nachforderungswortlaut.
 
 ## Quality Gate
-Vor Ausgabe immer pruefen:
+Vor Ausgabe immer prüfen:
 
 - Ist die Partei-Perspektive klar?
 - Sind alle Fristen und Vollzugsrisiken markiert?

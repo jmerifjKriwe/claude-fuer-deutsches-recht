@@ -20,7 +20,7 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 
 ## Rechtlicher und methodischer Rahmen
 
-- **§ 1 NKRG** — Einsetzung beim Bundesministerium der Justiz (BMJ) gemaess § 1 Abs. 1 Satz 1 NKRG; unabhaengig nach § 1 Abs. 1 Satz 2 NKRG; Aufgabe der Unterstuetzung der Bundesregierung folgt aus § 1 Abs. 2 NKRG
+- **§ 1 NKRG** — Einsetzung beim Bundesministerium der Justiz (BMJ) gemäß § 1 Abs. 1 Satz 1 NKRG; unabhaengig nach § 1 Abs. 1 Satz 2 NKRG; Aufgabe der Unterstuetzung der Bundesregierung folgt aus § 1 Abs. 2 NKRG
 - **§ 3 NKRG** — Sekretariat (Geschaeftsstelle) des NKR ist beim BMJ angesiedelt (§ 3 Abs. 9); Rechtsaufsicht beim BMJ (§ 3 Abs. 8); das den Vorsitz fuehrende Mitglied wird vom BMJ bestimmt (§ 3 Abs. 4)
 - **§ 5 NKRG** — Auskunfts- und Akteneinsichtsrecht
 - **§ 62 GGO** — Pflicht zur NKR-Befassung
@@ -79,7 +79,7 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 
 Nachforderungsschreiben:
 
-> "Sehr geehrte Damen und Herren, für die Pruefung des Vorhabens benoetigen wir gemaess § 5 NKRG ergaenzende Angaben zu Fallzahlen und Bearbeitungszeit der vorgesehenen Pflicht nach [Paragraf]. Wir bitten um Uebersendung bis [Datum]."
+> "Sehr geehrte Damen und Herren, für die Prüfung des Vorhabens benoetigen wir gemäß § 5 NKRG ergaenzende Angaben zu Fallzahlen und Bearbeitungszeit der vorgesehenen Pflicht nach [Paragraf]. Wir bitten um Uebersendung bis [Datum]."
 
 In der Stellungnahme:
 
@@ -99,4 +99,4 @@ In der Stellungnahme:
 - §§ 22, 23, 47, 62 GGO
 - Geschaeftsordnung des NKR (intern)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

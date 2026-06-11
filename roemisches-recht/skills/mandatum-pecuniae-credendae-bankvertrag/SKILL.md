@@ -29,7 +29,7 @@ description: "Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemisch
 - Im Verhaeltnis A-B: mandatum (Auftrag mit Aufwendungsersatz).
 - Im Verhaeltnis B-C: regulaeres mutuum (Darlehen).
 
-## Funktionale Aequivalenz zur Buergschaft
+## Funktionale Äquivalenz zur Buergschaft
 
 - Wirtschaftlich Buergschaftsersatz.
 - Vorteil: A behielt die Stellung des Auftraggebers, kein Buergenprivilegien-System.

@@ -23,12 +23,12 @@ description: "Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag: Skill l
 ### Notarkosten
 - Beurkundung Bautraegervertrag.
 - Vollzugsmassnahmen Auflassung Vormerkung.
-- Hoehe: nach GNotKG, Verhaeltnis zum Vertragswert (typisch 1.5 % der Vertragssumme insgesamt).
+- Höhe: nach GNotKG, Verhaeltnis zum Vertragswert (typisch 1.5 % der Vertragssumme insgesamt).
 
 ### Grundbuchgebuehren
 - Eintragung Vormerkung.
 - Eintragung Auflassung.
-- Hoehe: nach GNotKG.
+- Höhe: nach GNotKG.
 
 ### Grunderwerbsteuer
 - Je nach Bundesland 3.5 - 6.5 Prozent.

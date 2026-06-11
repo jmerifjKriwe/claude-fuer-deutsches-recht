@@ -25,25 +25,25 @@ description: "Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-P
 
 Behandelt die in der Beratungspraxis hochkonfliktraechtige Frage:
 
-> **Wie sind Verbindlichkeiten — insbesondere nachrangige Gesellschafterdarlehen — in der Liquidationsbilanz einer GmbH steuerlich zu behandeln, wenn die Glaeubigerin sie weder einklagt noch erlaesst, sondern „stehen laesst"?**
+> **Wie sind Verbindlichkeiten — insbesondere nachrangige Gesellschafterdarlehen — in der Liquidationsbilanz einer GmbH steuerlich zu behandeln, wenn die Glaeubigerin sie weder einklagt noch erlaesst, sondern „stehen lässt"?**
 
-Die Frage entscheidet darueber, ob in der Liquidationsphase (und vor allem zum Loeschungszeitpunkt) ein steuerpflichtiger Sanierungsertrag entsteht — und damit ueber den Erfolg einer Liquidation, in der die GmbH wenig Verlustvortrag, aber hohe Gesellschafterdarlehen hat.
+Die Frage entscheidet darueber, ob in der Liquidationsphase (und vor allem zum Loeschungszeitpunkt) ein steuerpflichtiger Sanierungsertrag entsteht — und damit über den Erfolg einer Liquidation, in der die GmbH wenig Verlustvortrag, aber hohe Gesellschafterdarlehen hat.
 
 Adressat: Steuerberater und Sanierungsanwaelte, die eine solvente GmbH-Liquidation mit hohem Gesellschafter- oder Drittglaeubiger-Darlehen begleiten.
 
 ## 2. Eingaben (Kaltstart-Fragen)
 
 1. **Verbindlichkeit:** Wer ist Glaeubiger (Drittglaeubiger, Gesellschafterin, verbundenes Unternehmen)? Nominalbetrag, Faelligkeit, Zinslast?
-2. **Vertragliche Lage:** Liegt ein einfacher oder qualifizierter Rangruecktritt vor? Wie ist der Tilgungsvorbehalt formuliert (a) nur aus kuenftigen Gewinnen / Liquidationsueberschuss, b) auch aus sonstigem freien Vermoegen)?
+2. **Vertragliche Lage:** Liegt ein einfacher oder qualifizierter Rangrücktritt vor? Wie ist der Tilgungsvorbehalt formuliert (a) nur aus kuenftigen Gewinnen / Liquidationsueberschuss, b) auch aus sonstigem freien Vermögen)?
 3. **Liquidationsstand:** Wann wurde die Aufloesung beschlossen? Wann beginnt das Sperrjahr? Wann ist Loeschung im Handelsregister geplant?
 4. **Erfuellungswahrscheinlichkeit:** Wird die Forderung mit an Sicherheit grenzender Wahrscheinlichkeit nicht erfuellt — oder ist eine teilweise Erfuellung aus Liquidationsueberschuss noch denkbar?
 5. **Mandantenwunsch:** Will der Gesellschafter ausdruecklich verzichten (§ 397 BGB), oder soll die Forderung bis zum Erloeschen der GmbH passiviert bleiben?
 6. **Verlustvortraege:** Bestehen KSt- und GewSt-Verlustvortraege? Wie hoch?
-7. **Gestaltungsalternativen:** Liquidation, Insolvenz (auch Eigenverwaltung), Verschmelzung, Hin- und Herzahlen ueber Einlage § 272 Abs. 2 Nr. 4 HGB?
+7. **Gestaltungsalternativen:** Liquidation, Insolvenz (auch Eigenverwaltung), Verschmelzung, Hin- und Herzahlen über Einlage § 272 Abs. 2 Nr. 4 HGB?
 
 ## 3. Ablauf — Drei-Phasen-Analyse
 
-Die Pruefung erfolgt in drei strikt zu trennenden Phasen.
+Die Prüfung erfolgt in drei strikt zu trennenden Phasen.
 
 ### Phase 1: Passivierung **dem Grunde nach**
 
@@ -57,12 +57,12 @@ Die Pruefung erfolgt in drei strikt zu trennenden Phasen.
 
 Maszgebliche Leitentscheidung: **BFH, Urteil v. 30.11.2011 — I R 100/10, DStR 2012, 450.** Dort hat der BFH klargestellt, dass eine Verbindlichkeit nur zu passivieren ist, wenn sie die Schuldnerin auch wirtschaftlich belastet. Allein die rechtliche Existenz reicht nicht; fehlt die wirtschaftliche Belastung, ist die Verbindlichkeit gewinnwirksam aufzuloesen.
 
-#### 3.2 Spezialfall qualifizierter Rangruecktritt
+#### 3.2 Spezialfall qualifizierter Rangrücktritt
 
-- Bei qualifiziertem Rangruecktritt mit Tilgungsvorbehalt **ausschliesslich aus zukuenftigen Gewinnen oder Liquidationsueberschuss**: **§ 5 Abs. 2a EStG** greift, Passivierungsverbot (BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279).
-- Bei qualifiziertem Rangruecktritt **mit zusaetzlichem Tilgungsvorbehalt aus sonstigem freien Vermoegen**: § 5 Abs. 2a EStG **greift nicht**, Passivierungspflicht bleibt bestehen. Die Tilgung ist denklogisch nicht ausschliesslich an die Erzielung zukuenftiger Gewinne gebunden.
+- Bei qualifiziertem Rangrücktritt mit Tilgungsvorbehalt **ausschließlich aus zukuenftigen Gewinnen oder Liquidationsueberschuss**: **§ 5 Abs. 2a EStG** greift, Passivierungsverbot (BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279).
+- Bei qualifiziertem Rangrücktritt **mit zusaetzlichem Tilgungsvorbehalt aus sonstigem freien Vermögen**: § 5 Abs. 2a EStG **greift nicht**, Passivierungspflicht bleibt bestehen. Die Tilgung ist denklogisch nicht ausschließlich an die Erzielung zukuenftiger Gewinne gebunden.
 
-Die Gestaltungsleitlinie der Beratungspraxis lautet daher: **„Tilgungsvorbehalt aus freiem Vermoegen"** in die Rangruecktrittsvereinbarung aufnehmen, um § 5 Abs. 2a EStG zu vermeiden.
+Die Gestaltungsleitlinie der Beratungspraxis lautet daher: **„Tilgungsvorbehalt aus freiem Vermögen"** in die Rangruecktrittsvereinbarung aufnehmen, um § 5 Abs. 2a EStG zu vermeiden.
 
 #### 3.3 Liquidationsbeschluss allein kein Verzicht
 
@@ -73,12 +73,12 @@ Die Gestaltungsleitlinie der Beratungspraxis lautet daher: **„Tilgungsvorbehal
 
 Solange (i) ein wirksamer schuldrechtlicher Verpflichtungsinhalt besteht, (ii) die Verbindlichkeit nicht ausdruecklich erlassen wurde und (iii) eine wirtschaftliche Belastung nicht endgueltig entfaellt, ist die Verbindlichkeit **passivierungspflichtig**.
 
-### Phase 2: Passivierung **der Hoehe nach**
+### Phase 2: Passivierung **der Höhe nach**
 
 #### 3.5 Bewertungsmaszstab
 
-- Hoehe: **Nennwert** für Darlehensschulden (**§ 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG**).
-- Bei nachrangigen Darlehen erfolgt **keine** Abzinsung wegen Nachrang oder Rangruecktritt — die nachrangige Verbindlichkeit wird grundsaetzlich mit dem Nennwert ausgewiesen.
+- Höhe: **Nennwert** für Darlehensschulden (**§ 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG**).
+- Bei nachrangigen Darlehen erfolgt **keine** Abzinsung wegen Nachrang oder Rangrücktritt — die nachrangige Verbindlichkeit wird grundsätzlich mit dem Nennwert ausgewiesen.
 - Eine Abwertung („Teilwert" der Verbindlichkeit unter Nennwert) kommt steuerlich nicht in Betracht — der Steuerpflichtige soll die Verbindlichkeit nicht durch die Hintertuer ausbuchen.
 
 #### 3.6 Streitstand „wirtschaftliche Belastung" in der Liquidation
@@ -102,14 +102,14 @@ Die zentrale Streitfrage in der Literatur und vor den Finanzgerichten lautet: **
 
 ##### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**, Tz. 1.2 bis 1.4: Verbindlichkeit grundsaetzlich passiviert bis Erloeschen; Einzelfallpruefung, ob ausnahmsweise gewinnwirksame Ausbuchung vor Loeschung geboten ist. Vorgaengerverfuegung in **DStR 2019, 560**.
+- **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**, Tz. 1.2 bis 1.4: Verbindlichkeit grundsätzlich passiviert bis Erloeschen; Einzelfallpruefung, ob ausnahmsweise gewinnwirksame Ausbuchung vor Loeschung geboten ist. Vorgaengerverfuegung in **DStR 2019, 560**.
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014 (aktualisiert 22.09.2017), DB 2017, 2580**: differenzierende Sichtweise insbesondere für Insolvenz.
 
 ##### Rechtsprechung
 
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (Os. 7): „Die Verbindlichkeit ist bis zum Abschluss der Liquidation, d.h. bis zur Loeschung im Handelsregister als Verbindlichkeit auszuweisen."
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** (nachgehend zu FG Koeln 13 K 3006/11), Ls. 3: „Die Rechtsauffassung, in der Liquidationsschlussbilanz sei eine verbliebene Verbindlichkeit gegenueber einem Gesellschafter mangels wirtschaftlicher Belastung nicht zu passivieren, ist nicht evident rechtsfehlerhaft." — Streitstand bewusst offen gelassen.
-- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** (umgekehrter Fall): Forderung der Gesellschaft gegen Gesellschafter bleibt waehrend der Liquidation grundsaetzlich bestehen.
+- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** (umgekehrter Fall): Forderung der Gesellschaft gegen Gesellschafter bleibt waehrend der Liquidation grundsätzlich bestehen.
 - **FG Muenster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264** (rechtskraeftig): Streitfrage „diskussionswuerdig", im Einzelfall nicht entscheidungserheblich.
 
 #### 3.7 Zwischenergebnis Phase 2
@@ -149,7 +149,7 @@ Dies ist die **Schluesselargumentationsfigur** für die Liquidationspraxis: Wenn
 #### 3.12 Subjektive Steuerpflicht endet erst mit Vollbeendigung
 
 - Die subjektive Koerperschaftsteuerpflicht endet **erst** mit tatsaechlicher und rechtsgueltiger Beendigung der Liquidation.
-- Voraussetzungen: kein verwertbares Vermoegen mehr, keine steuerlichen Pflichten mehr zu erfuellen, kein offenes Verwaltungs- oder Gerichtsverfahren.
+- Voraussetzungen: kein verwertbares Vermögen mehr, keine steuerlichen Pflichten mehr zu erfuellen, kein offenes Verwaltungs- oder Gerichtsverfahren.
 - Solange auch nur eine offene Steuerklaerung oder ein offener Streit besteht, bleibt die GmbH Steuersubjekt — und ein etwa entstehender Sanierungsertrag waere zu versteuern.
 
 ## 4. Wechselwirkung Loeschungsverfahren
@@ -168,12 +168,12 @@ Dies ist die **Schluesselargumentationsfigur** für die Liquidationspraxis: Wenn
 - **OLG Celle, Beschl. v. 17.10.2018 — 9 W 80/18, ZIP 2018, 2222**.
 - **KG, Beschl. v. 22.07.2019 — 22 W 29/18, NZG 2019, 1294**.
 
-### 4.3 Wann ist die Loeschung trotzdem moeglich?
+### 4.3 Wann ist die Loeschung trotzdem möglich?
 
 - **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20**: Vollzugsreife bei eingestelltem Geschaeftsbetrieb trotz offener Steuernachforderungen.
 - **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**: Vermoegenslosigkeit nicht durch theoretische Festsetzungsfrist-Aenderung gehindert.
 
-**Praxisleitlinie:** Vor Anmeldung Loeschung mit FA klaeren, ob offene Steuererklaerungen oder Erstattungsaussichten bestehen. Bei reinen Nachforderungen ohne Erstattungsaussicht in der Regel Eintragung moeglich.
+**Praxisleitlinie:** Vor Anmeldung Loeschung mit FA klären, ob offene Steuererklaerungen oder Erstattungsaussichten bestehen. Bei reinen Nachforderungen ohne Erstattungsaussicht in der Regel Eintragung möglich.
 
 ## 5. Wechselwirkung Mindestbesteuerung / Definitiveffekt
 
@@ -188,14 +188,14 @@ Falls die Verbindlichkeit doch vor Loeschung gewinnwirksam ausgebucht wird (etwa
 
 ### 5.3 Verfassungsrechtliches Argument (Art. 3 Abs. 1 GG)
 
-- Verluste aus der Vergangenheit sollten in voller Hoehe abzugsfaehig sein — anders entstehen unzulaessige Definitiveffekte.
+- Verluste aus der Vergangenheit sollten in voller Höhe abzugsfaehig sein — anders entstehen unzulaessige Definitiveffekte.
 - Konsequenz: Bei Liquidations-Konstellation Einspruch gegen KSt-Festsetzung und Ruhen-Antrag stellen, bis BVerfG 2 BvL 19/14 entschieden ist.
 
 ## 6. Gestaltungsalternativen
 
 ### 6.1 Liquidation belassen, Verbindlichkeit stehen lassen
 
-- **Vorzug:** Bei sauberem Tilgungsvorbehalt aus freiem Vermoegen kein § 5 Abs. 2a EStG; bei Erloeschen kein Steuersubjekt mehr (FG Koeln 13 K 3006/11).
+- **Vorzug:** Bei sauberem Tilgungsvorbehalt aus freiem Vermögen kein § 5 Abs. 2a EStG; bei Erloeschen kein Steuersubjekt mehr (FG Koeln 13 K 3006/11).
 - **Risiko:** FA kann die Auffassung vertreten, die Verbindlichkeit sei schon vor Loeschung auszubuchen. Sicherung: **Verbindliche Auskunft § 89 AO**.
 
 ### 6.2 Insolvenz (auch Eigenverwaltung § 270 InsO)
@@ -206,9 +206,9 @@ Falls die Verbindlichkeit doch vor Loeschung gewinnwirksam ausgebucht wird (etwa
 ### 6.3 Verschmelzung mit Konfusion
 
 - **Up-stream, down-stream, side-stream**: Bei Verschmelzung mit der Gesellschafter-Glaeubigerin entstehen Forderung und Schuld bei einer Person — Konfusion.
-- **Verlustvortrag des uebertragenden Rechtstraegers geht NICHT ueber** (§ 12 Abs. 3 Hs. 2 i.V.m. § 4 Abs. 2 Satz 2 UmwStG).
-- **§ 8c KStG-Risiko**, ggf. § 8c Abs. 4 / § 8d KStG-Klauseln pruefen.
-- **§ 42 AO**: kein Gestaltungsmissbrauch bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum (alte Rechtslage Streitjahr 2008): **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580.** Fuer Umwandlungen ab 06.06.2013 gilt aber **§ 2 Abs. 4 Saetze 3 ff. UmwStG**.
+- **Verlustvortrag des uebertragenden Rechtstraegers geht NICHT über** (§ 12 Abs. 3 Hs. 2 i.V.m. § 4 Abs. 2 Satz 2 UmwStG).
+- **§ 8c KStG-Risiko**, ggf. § 8c Abs. 4 / § 8d KStG-Klauseln prüfen.
+- **§ 42 AO**: kein Gestaltungsmissbrauch bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum (alte Rechtslage Streitjahr 2008): **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580.** Für Umwandlungen ab 06.06.2013 gilt aber **§ 2 Abs. 4 Saetze 3 ff. UmwStG**.
 
 ### 6.4 Hin- und Herzahlen / Einlage in freie Kapitalruecklage
 
@@ -301,12 +301,12 @@ Anlagen:
 
 ### Beispiel 1: Strassburger Handelshof GmbH i.L. (solvente Liquidation)
 
-- Gesellschafterdarlehen 2,4 Mio EUR, qualifizierter Rangruecktritt mit Tilgungsvorbehalt auch aus freiem Vermoegen.
+- Gesellschafterdarlehen 2,4 Mio EUR, qualifizierter Rangrücktritt mit Tilgungsvorbehalt auch aus freiem Vermögen.
 - Liquidationsbeschluss 15.04.2026; Bekanntmachung 28.04.2026; Sperrjahr bis fruehestens 28.04.2027.
 - **Phase 1:** Verbindlichkeit passivierungspflichtig (§ 5 Abs. 2a EStG nicht einschlaegig).
 - **Phase 2:** Nennwert 2,4 Mio EUR; FG-Koeln-Linie traegt Passivierung bis Loeschung.
 - **Phase 3:** Mit Loeschung Wegfall; Gewinn mangels Subjekt nicht festsetzbar.
-- **Empfehlung:** Verbindliche Auskunft FA Berlin-Charlottenburg, Wortlautpruefung Rangruecktritt, Loeschungsverfahren mit FA abstimmen.
+- **Empfehlung:** Verbindliche Auskunft FA Berlin-Charlottenburg, Wortlautpruefung Rangrücktritt, Loeschungsverfahren mit FA abstimmen.
 
 ### Beispiel 2: Insolvenzplan-Fall (Grossbach Druckguss)
 
@@ -316,17 +316,17 @@ Anlagen:
 ### Beispiel 3: Verschmelzung statt Liquidation
 
 - Gesellschafterin verschmilzt mit Tochter — Konfusion.
-- Verlustvortrag geht **nicht** ueber; § 8c KStG-Risiko zu pruefen.
-- § 42 AO grundsaetzlich nicht einschlaegig (BFH I R 2/18) — aber § 2 Abs. 4 UmwStG für Umwandlungen ab 06.06.2013 beachten.
+- Verlustvortrag geht **nicht** über; § 8c KStG-Risiko zu prüfen.
+- § 42 AO grundsätzlich nicht einschlaegig (BFH I R 2/18) — aber § 2 Abs. 4 UmwStG für Umwandlungen ab 06.06.2013 beachten.
 
 ## 10. Typische Fehler
 
-1. **§ 5 Abs. 2a EStG uebersehen** — Rangruecktritt nur „Tilgung aus zukuenftigen Gewinnen" formuliert: zwingt zur Ausbuchung vor Loeschung, Sanierungsertrag steuerpflichtig (sofern § 3a EStG nicht greift).
+1. **§ 5 Abs. 2a EStG uebersehen** — Rangrücktritt nur „Tilgung aus zukuenftigen Gewinnen" formuliert: zwingt zur Ausbuchung vor Loeschung, Sanierungsertrag steuerpflichtig (sofern § 3a EStG nicht greift).
 2. **Liquidationsbeschluss als Verzicht behandelt** — OFD-Frankfurt-Linie ignoriert; FA bucht Verbindlichkeit aus, Ertrag entsteht; Berater haftet.
 3. **Verbindliche Auskunft nicht eingeholt** — bei sechsstelliger Steuerlast lohnt sich die § 89-AO-Gebuehr immer.
 4. **Loeschung beantragt mit offener Steuererklaerung** — Registergericht haelt zurueck (OLG Jena, OLG Hamm); Mandant verliert Zeit.
 5. **Mindestbesteuerungs-Einspruch unterlassen** — Definitiveffekt unerklaert; Verlustvortraege verfallen ungenutzt.
-6. **Verschmelzungsweg ohne § 8c-Pruefung** — Verlustvortrag faellt weg, Konfusionsgewinn entsteht voll steuerpflichtig.
+6. **Verschmelzungsweg ohne § 8c-Prüfung** — Verlustvortrag faellt weg, Konfusionsgewinn entsteht voll steuerpflichtig.
 7. **„Hin- und Herzahlen" ohne Prufung § 42 AO** — FG Duesseldorf 7 K 101/18 F sieht Gestaltungsmissbrauch; Revision BFH I R 11/22.
 
 ## 11. Querverweise
@@ -348,7 +348,7 @@ Andere Plugins:
 
 ### Rechtsprechung
 
-- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt.
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangrücktritt.
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung.
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — nachgehend zu FG Koeln 13 K 3006/11, Streitstand nicht evident rechtsfehlerhaft.
 - **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall: Forderung Gesellschaft gegen Gesellschafter.

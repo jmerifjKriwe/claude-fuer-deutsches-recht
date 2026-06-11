@@ -18,7 +18,7 @@ description: "Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB: Warte
 
 ## Worum geht es
 
-Paragraph 142 StGB sanktioniert das **unerlaubte Entfernen vom Unfallort** (haeufig umgangssprachlich "Fahrerflucht" — der Tatbestand selbst heisst aber "unerlaubtes Entfernen vom Unfallort"). Geschuetztes Rechtsgut: privates Feststellungsinteresse der Beteiligten und Geschaedigten an der Klaerung von Personalien, Schadenshergang und Versicherungsverhaeltnis. Es ist also kein Strassenverkehrsschutzdelikt, sondern ein Vermoegens- und Beweissicherungsdelikt.
+Paragraph 142 StGB sanktioniert das **unerlaubte Entfernen vom Unfallort** (haeufig umgangssprachlich "Fahrerflucht" — der Tatbestand selbst heisst aber "unerlaubtes Entfernen vom Unfallort"). Geschuetztes Rechtsgut: privates Feststellungsinteresse der Beteiligten und Geschaedigten an der Klärung von Personalien, Schadenshergang und Versicherungsverhaeltnis. Es ist also kein Strassenverkehrsschutzdelikt, sondern ein Vermoegens- und Beweissicherungsdelikt.
 
 Anwendungsfaelle: Parkrempler auf Parkplatz; Streifkollision mit Auto; Anfahren eines abgestellten Fahrzeugs; Sturz eines Fussgaengers nach Streifkontakt — Fahrer faehrt weiter, ohne Personalien anzugeben oder Wartepflicht zu erfuellen.
 
@@ -38,7 +38,7 @@ Strafbar ist, wer sich entfernt, nachdem er eine "nach den Umstaenden angemessen
 
 ### Absatz 2 nachtraegliches Entfernen
 
-Strafbar ist, wer sich nach Ablauf der Wartefrist berechtigt oder entschuldigt vom Unfallort entfernt hat, aber dann die unverzuegliche Nachholobliegenheit nach Absatz 3 nicht erfuellt. Auch Personenbeteiligte, die zunaechst am Unfallort waren, koennen unter Absatz 2 fallen.
+Strafbar ist, wer sich nach Ablauf der Wartefrist berechtigt oder entschuldigt vom Unfallort entfernt hat, aber dann die unverzuegliche Nachholobliegenheit nach Absatz 3 nicht erfuellt. Auch Personenbeteiligte, die zunaechst am Unfallort waren, können unter Absatz 2 fallen.
 
 ### Absatz 3 Nachholobliegenheit
 
@@ -46,26 +46,26 @@ Wer berechtigt oder entschuldigt das Entfernen vorgenommen hat, muss die Festste
 
 ### Absatz 4 taetige Reue
 
-Wenn der Taeter binnen 24 Stunden nach einem Unfall ausserhalb des fliessenden Verkehrs mit ausschliesslich nicht bedeutendem Sachschaden die Feststellungen freiwillig ermoeglicht, kann das Gericht von Strafe absehen oder die Strafe mildern. "Nicht bedeutender Sachschaden" liegt nach gefestigter Rspr. der OLGs regelmaessig bei einer Wertgrenze um 1500 Euro (uneinheitlich, OLG je nach Region 1300 bis 1500 Euro).
+Wenn der Taeter binnen 24 Stunden nach einem Unfall ausserhalb des fliessenden Verkehrs mit ausschließlich nicht bedeutendem Sachschaden die Feststellungen freiwillig ermoeglicht, kann das Gericht von Strafe absehen oder die Strafe mildern. "Nicht bedeutender Sachschaden" liegt nach gefestigter Rspr. der OLGs regelmaessig bei einer Wertgrenze um 1500 Euro (uneinheitlich, OLG je nach Region 1300 bis 1500 Euro).
 
 ### Subjektiver Tatbestand
 
-Vorsatz bezueglich aller objektiven Merkmale: Unfall, Schaden, Wartepflicht. Verteidiger pruefen oft "Unfall nicht bemerkt": kann den Vorsatz ausschliessen, wenn substantiiert dargelegt (z. B. lauter LKW-Motor, Radio laut, kleiner Streifkontakt nicht spuerbar).
+Vorsatz bezüglich aller objektiven Merkmale: Unfall, Schaden, Wartepflicht. Verteidiger prüfen oft "Unfall nicht bemerkt": kann den Vorsatz ausschliessen, wenn substantiiert dargelegt (z. B. lauter LKW-Motor, Radio laut, kleiner Streifkontakt nicht spuerbar).
 
 ## Praktikertipps Verteidigung
 
 - **Unfall nicht bemerkt — primaere Verteidigungslinie.** Insbesondere bei Lkw, lauten Fahrzeugen oder geringen Kraftuebertragungen. Sachverstaendigengutachten kann belegen, dass Kollision unter Hoerschwelle blieb.
-- **Schadenshoehe pruefen.** Liegt der Schaden unter der Bagatellschwelle, ist schon der Unfallbegriff nicht erfuellt. Kostenvoranschlag der Werkstatt — kritisch ueberpruefen, ob Werte aufgepumpt sind.
+- **Schadenshoehe prüfen.** Liegt der Schaden unter der Bagatellschwelle, ist schon der Unfallbegriff nicht erfuellt. Kostenvoranschlag der Werkstatt — kritisch ueberpruefen, ob Werte aufgepumpt sind.
 - **Wartepflicht erfuellt — Bestreiten als Pfad B.** Mandant hat gewartet, Zeugen waren keine da — Anwesenheit am Unfallort dokumentiert (Standort-Daten, Kassenbon Tankstelle).
 - **Nachholobliegenheit Absatz 3 nach 24 Stunden.** Nachweis Anruf bei Polizei oder Schadensmitteilung an Halter. Wenn unverzueglich gehandelt: Absatz 4 taetige Reue.
-- **Im OLG-Bezirk Bagatellgrenze klaeren.** OLG Hamm, OLG Stuttgart, OLG Bremen vertreten teils unterschiedliche Wertgrenzen.
-- **Vorsicht: Fahrerlaubnisentzug regelmaessig.** Schon Tatverdacht fuehrt zu vorläufigem Entzug Paragraph 111a StPO bei Schaden ueber 1500 Euro.
+- **Im OLG-Bezirk Bagatellgrenze klären.** OLG Hamm, OLG Stuttgart, OLG Bremen vertreten teils unterschiedliche Wertgrenzen.
+- **Vorsicht: Fahrerlaubnisentzug regelmaessig.** Schon Tatverdacht fuehrt zu vorläufigem Entzug Paragraph 111a StPO bei Schaden über 1500 Euro.
 
 ## Trade-off-Matrix
 
 | Pfad A vollumfaengliches Bestreiten ("nicht bemerkt") | Pfad B Gestaendnis, taetige Reue Absatz 4 | Empfehlung |
 | --- | --- | --- |
-| Nur tragfaehig bei nachvollziehbarer Unfall-Wahrnehmungs-Problematik; sonst riskant. | Mandant meldet sich unverzueglich; bei Sachschaden unter Bagatellgrenze auch Wegfall der Strafbarkeit. | Wenn Schaden eindeutig spuerbar und ueber Bagatellgrenze: Pfad B oft sinnvoller; rettet oft Fahrerlaubnis. |
+| Nur tragfaehig bei nachvollziehbarer Unfall-Wahrnehmungs-Problematik; sonst riskant. | Mandant meldet sich unverzueglich; bei Sachschaden unter Bagatellgrenze auch Wegfall der Strafbarkeit. | Wenn Schaden eindeutig spuerbar und über Bagatellgrenze: Pfad B oft sinnvoller; rettet oft Fahrerlaubnis. |
 
 ## Konkurrenzen
 
@@ -78,10 +78,10 @@ Vorsatz bezueglich aller objektiven Merkmale: Unfall, Schaden, Wartepflicht. Ver
 
 - **Strafrahmen Absatz 1 und 2:** Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 - **Geldstrafenpraxis:** bei Erstauffaelligen 20 bis 40 Tagessaetze (Bagatell), 60 bis 90 Tagessaetze bei groesseren Schaeden oder Personenschaden.
-- **Regelvermutung Paragraph 69 Abs 2 Nr 3 StGB** bei Schaden ueber 1500 Euro oder Personenschaden — Fahrerlaubnisentzug zumeist regelmaessig.
+- **Regelvermutung Paragraph 69 Abs 2 Nr 3 StGB** bei Schaden über 1500 Euro oder Personenschaden — Fahrerlaubnisentzug zumeist regelmaessig.
 - **Sperrfrist Paragraph 69a StGB** in der Praxis 6 bis 12 Monate.
 - **Punkte Flensburg:** 2 bis 3 Punkte je nach Schwere.
-- BZRG-Eintrag bei Geldstrafe ueber 90 Tagessaetzen oder Freiheitsstrafe.
+- BZRG-Eintrag bei Geldstrafe über 90 Tagessaetzen oder Freiheitsstrafe.
 - Versicherungsregress: Kasko-Versicherer kann nach Paragraph 28 VVG bis 5000 Euro regressieren.
 
 ## Mustertexte
@@ -90,14 +90,14 @@ Vorsatz bezueglich aller objektiven Merkmale: Unfall, Schaden, Wartepflicht. Ver
 
 **Schriftsatz-Snippet (taetige Reue):** "Mein Mandant hat sich am DD.MM.JJJJ binnen weniger Stunden nach dem Vorfall freiwillig bei der Polizei gemeldet (Anlage VR 1) und alle erforderlichen Feststellungen ermoeglicht. Damit liegen die Voraussetzungen einer taetigen Reue nach Paragraph 142 Abs 4 StGB vor."
 
-**Antrag auf Bagatellschadenfeststellung:** "Es wird beantragt, ein Sachverstaendigengutachten ueber die tatsaechliche Schadenshoehe einzuholen. Der vom Anzeigeerstatter eingereichte Kostenvoranschlag in Hoehe von 1.800 Euro enthaelt zahlreiche nicht durch die Streifkollision verursachte Schaeden."
+**Antrag auf Bagatellschadenfeststellung:** "Es wird beantragt, ein Sachverstaendigengutachten über die tatsaechliche Schadenshoehe einzuholen. Der vom Anzeigeerstatter eingereichte Kostenvoranschlag in Höhe von 1.800 Euro enthaelt zahlreiche nicht durch die Streifkollision verursachte Schaeden."
 
 ## Quellen Stand 06/2026
 
 - Paragraph 142 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
 - Paragraph 69 StGB Entziehung Fahrerlaubnis; Paragraph 69a StGB Sperre; Regelvermutung Paragraph 69 Abs 2 Nr 3.
 - Paragraph 111a StPO vorläufige Entziehung.
-- OLG-Rspr. zur Bagatellschwelle und zur Schwelle des "nicht bedeutenden Sachschadens" — uneinheitlich; nur ueber freie Quellen verifizieren.
+- OLG-Rspr. zur Bagatellschwelle und zur Schwelle des "nicht bedeutenden Sachschadens" — uneinheitlich; nur über freie Quellen verifizieren.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 - BGH staendige Rspr. zum Unfallbegriff und zum Vorsatzerfordernis.
 - Paragraph 28 VVG Versicherungsregress.

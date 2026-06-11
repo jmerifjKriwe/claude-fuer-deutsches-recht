@@ -7,7 +7,7 @@ description: "Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleie
 
 ## Arbeitsbereich
 
-Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklärung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis. Prüfraster Verschwiegenheits- und § 43e-Erklärung, Training-Opt-out, Löschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung. Output Musterklausel-Sammlung für IT-Vertrag mit KI-Dienstleister. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Dienstleister-Due-Diligence. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Musterklauseln für IT-Verträge mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklärung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis. Prüfraster Verschwiegenheits- und § 43e-Erklärung, Training-Opt-out, Löschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung. Output Musterklausel-Sammlung für IT-Vertrag mit KI-Dienstleister. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Dienstleister-Due-Diligence. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -76,7 +76,7 @@ Musterklauseln sind bei jeder wesentlichen Änderung der berufsrechtlichen oder 
 ## Triage zu Beginn
 1. Handelt es sich um AGB oder Individualvereinbarung (§ 305 Abs. 1 BGB)?
 2. Welche Risikoklasse hat das KI-System — bestimmt Art. 25 KI-VO Verantwortlichkeit?
-3. Sind Haftungsbeschraenkungen im Vertrag wirksam — § 307 BGB-Pruefung?
+3. Sind Haftungsbeschraenkungen im Vertrag wirksam — § 307 BGB-Prüfung?
 4. Enthalten die Klauseln Regelungen zu Training auf Eingabedaten?
 5. Sind AVV-Pflichten nach Art. 28 DSGVO in den IT-Vertrag integriert?
 

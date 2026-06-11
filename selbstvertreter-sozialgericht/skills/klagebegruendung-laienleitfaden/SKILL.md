@@ -17,7 +17,7 @@ Sie haben die Klage eingelegt — Frist gesichert. Jetzt brauchen Sie eine Begru
 
 ## In einfacher Sprache
 
-Sie haben geklagt. Jetzt muessen Sie sagen warum. Was ist passiert. Was wollen Sie. Welche Beweise haben Sie. Wir helfen Ihnen, das auf Papier zu bringen.
+Sie haben geklagt. Jetzt müssen Sie sagen warum. Was ist passiert. Was wollen Sie. Welche Beweise haben Sie. Wir helfen Ihnen, das auf Papier zu bringen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -46,7 +46,7 @@ Sie haben geklagt. Jetzt muessen Sie sagen warum. Was ist passiert. Was wollen S
 Bewaehrt:
 
 1. Sachverhalt (kurz: was war, was ist)
-2. Klaeger-Standpunkt (warum die Behörde Unrecht hat)
+2. Kläger-Standpunkt (warum die Behörde Unrecht hat)
 3. Antraege (konkret)
 4. Beweisangebot / Beweisantraege
 5. Anlagenverzeichnis
@@ -76,7 +76,7 @@ Mit Widerspruchsbescheid vom 12.7.2026 wies die Beklagte den Widerspruch zurueck
 Ich bin 1972 geboren, 53 Jahre alt, gelernte [Beruf]. Seit 2022 leide ich an [Diagnosen]. Mein Hausarzt Dr. [Name] und Facharzt Dr. [Name] attestieren mir ein Leistungsvermoegen von unter 3 Stunden taeglich.
 ```
 
-### Schritt 3 — Klaeger-Standpunkt schreiben
+### Schritt 3 — Kläger-Standpunkt schreiben
 
 Hier zerlegen Sie die Argumente der Behörde. Bewaehrte Struktur:
 
@@ -152,13 +152,13 @@ K7: Widerspruch vom 15.5.2026
 K8: Widerspruchsbescheid vom 12.7.2026
 ```
 
-Bezeichnen Sie die Anlagen mit K (Klaeger) — siehe `anlagen-bezeichnen-und-sortieren-sozialgericht`.
+Bezeichnen Sie die Anlagen mit K (Kläger) — siehe `anlagen-bezeichnen-und-sortieren-sozialgericht`.
 
 ### Schritt 7 — Umfang
 
 Faustregel: 3 bis 8 Seiten reichen meist. Lieber kurz und praezise als lang und umstaendlich.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Tatsachen statt Floskeln**: konkret, mit Datum, Name, Quelle.
 - **Was die Behörde sagt — was Sie dagegen sagen**: Punkt für Punkt entgegnen.

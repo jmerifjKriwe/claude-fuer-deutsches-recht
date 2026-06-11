@@ -22,7 +22,7 @@ description: "Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemisc
 - Erwartete Gegenleistung blieb aus.
 
 ### Condictio ob iniustam causam
-- Zuwendung wegen sittenwidrigem Geschaeft.
+- Zuwendung wegen sittenwidrigem Geschäft.
 
 ## Fortwirkung BGB
 

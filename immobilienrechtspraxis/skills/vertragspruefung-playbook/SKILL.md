@@ -82,9 +82,9 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 - "Property-Management-Vertrag ist gekommen. Was muss vor Unterschrift
  geändert werden, gemessen an unseren Mindeststandards?"
 
-## Aktuelle Rechtsprechung — Leitsaetze für Playbook-Pruefung (Stand 05/2026, verifiziert dejure.org)
+## Aktuelle Rechtsprechung — Leitsaetze für Playbook-Prüfung (Stand 05/2026, verifiziert dejure.org)
 
-- **BGH 24.06.2020, VIII ZR 219/19** (Schriftform Gewerbemietvertrag § 550 BGB): Wahrung der Schriftform setzt voraus, dass alle wesentlichen Vertragsbedingungen aus einer Urkunde hervorgehen; bei Verweis auf Anlagen muessen diese koerperlich mit der Urkunde verbunden oder eindeutig in Bezug genommen sein. Quelle: dejure.org/2020,17128.
+- **BGH 24.06.2020, VIII ZR 219/19** (Schriftform Gewerbemietvertrag § 550 BGB): Wahrung der Schriftform setzt voraus, dass alle wesentlichen Vertragsbedingungen aus einer Urkunde hervorgehen; bei Verweis auf Anlagen müssen diese koerperlich mit der Urkunde verbunden oder eindeutig in Bezug genommen sein. Quelle: dejure.org/2020,17128.
 - **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel): Landesgesetzliche Mietpreisregelung verfassungswidrig; für Neuvermietung bleiben deshalb die bundesrechtlichen Regeln der §§ 556d ff. BGB und die jeweils wirksame Landesverordnung zur Mietpreisbremse getrennt zu prüfen. Quelle: bundesverfassungsgericht.de.
 - **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel-Beschluss): Landesgesetzliche Mietpreisregelung verfassungswidrig (Bundesrecht abschliessend). Quelle: bundesverfassungsgericht.de.
 - **BGH 18.03.2020, VIII ZR 64/19** — Maengel bei Wohnraummiete als Mietminderungsgrund. Quelle: dejure.org/2020,4895.
@@ -102,6 +102,6 @@ Konkrete weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.d
 ## Integration mit Projekten und Agenten
 
 Der Skill ist so gebaut, dass er in einem Projekt-Ordner mit fixiertem
-Playbook und Vertragstyp laeuft. Ein Agent kann auf eingehende Vertraege
-auf einem Watch-Ordner reagieren und automatisch die Pruefung anstossen.
+Playbook und Vertragstyp laeuft. Ein Agent kann auf eingehende Verträge
+auf einem Watch-Ordner reagieren und automatisch die Prüfung anstossen.
 Siehe Skill `projekt-arbeitsweise`.

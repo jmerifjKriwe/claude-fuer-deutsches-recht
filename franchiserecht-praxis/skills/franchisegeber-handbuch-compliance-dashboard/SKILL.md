@@ -33,7 +33,7 @@ Ein Franchisegeber mit wachsendem Netzwerk (20 bis 100 oder mehr Franchisenehmer
 - § 314 BGB: Kündigungsrecht als ultimatives Compliance-Mittel
 - Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht bei der Verarbeitung personenbezogener Daten im Dashboard
 - §§ 10 und 24 LkSG: Berichtspflichten für Lieferkettenrisiken im Franchisesystem
-- § 91 Abs. 2 AktG analog: Früherkennungssystem für Risiken (für grosse Franchisegeber)
+- § 91 Abs. 2 AktG analog: Früherkennungssystem für Risiken (für große Franchisegeber)
 
 ## Prüfraster
 
@@ -63,7 +63,7 @@ Ein Franchisegeber mit wachsendem Netzwerk (20 bis 100 oder mehr Franchisenehmer
 
 ## Vertiefung
 
-Ein Compliance-Management-System (CMS) ist für grosse Franchisesysteme nicht nur rechtlich sinnvoll, sondern kann im Haftungsfall entlastend wirken: Wenn der Franchisegeber nachweist, dass er ein funktionierendes CMS betrieben hat und die Verletzung trotzdem stattfand, kann dies sein Verschulden mindern.
+Ein Compliance-Management-System (CMS) ist für große Franchisesysteme nicht nur rechtlich sinnvoll, sondern kann im Haftungsfall entlastend wirken: Wenn der Franchisegeber nachweist, dass er ein funktionierendes CMS betrieben hat und die Verletzung trotzdem stattfand, kann dies sein Verschulden mindern.
 
 Der IDW-Standard PS 980 (Grundsätze ordnungsgemässer Prüfung von Compliance-Management-Systemen) bietet einen Referenzrahmen für die Gestaltung von CMS-Prüfungen, der auch auf Franchise-Compliance-Dashboards angewendet werden kann.
 

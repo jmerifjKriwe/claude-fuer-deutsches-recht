@@ -20,8 +20,8 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 ## Wann brauchen Sie diese Skill?
 
 - Sie arbeiten mit dem Allgemeinen Teil des BGB und wollen die dogmatische Tiefenstruktur verstehen.
-- Sie pruefen Stellvertretungs-, Verfuegungs- oder Bedingungsfragen — alle pandektistisch durchgepraegt.
-- Sie diskutieren mit der Gegenseite ueber "richtige Konstruktion" oder dogmatische Konsistenz.
+- Sie prüfen Stellvertretungs-, Verfuegungs- oder Bedingungsfragen — alle pandektistisch durchgepraegt.
+- Sie diskutieren mit der Gegenseite über "richtige Konstruktion" oder dogmatische Konsistenz.
 - Sie wollen einordnen, warum eine bestimmte BGH-Linie historisch noch begriffsjuristisch argumentiert.
 - Sie wollen die Spannung zwischen Begriff und Wertung in einem konkreten Fall darstellen.
 
@@ -65,14 +65,14 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 
 **Beispiel Abstraktionsprinzip:** Der Kaufvertrag (§ 433 BGB) und die Eigentumsuebertragung (§ 929 BGB) sind zwei voneinander unabhaengige Rechtsgeschaefte. Wirksamkeit der Verfuegung haengt nicht von der Wirksamkeit der Verpflichtung ab. Diese Trennung ist begriffsjuristische Konstruktion — sie ist nicht teleologisch zwingend, sondern eine bewusste dogmatische Entscheidung.
 
-**Beispiel Anspruch:** Windscheids Anspruchsbegriff (Anspruch = Recht, von einem anderen ein Tun oder Unterlassen zu verlangen) ist Grundlage von § 194 Abs. 1 BGB. Anspruchsgrundlagen-Pruefung ist begriffsjuristische Erbschaft.
+**Beispiel Anspruch:** Windscheids Anspruchsbegriff (Anspruch = Recht, von einem anderen ein Tun oder Unterlassen zu verlangen) ist Grundlage von § 194 Abs. 1 BGB. Anspruchsgrundlagen-Prüfung ist begriffsjuristische Erbschaft.
 
 ## Schritt-für-Schritt
 
 1. **Begriffsstruktur identifizieren.** Welche dogmatischen Begriffe sind im Spiel?
 2. **Begriffspyramide nachvollziehen.** Welcher Oberbegriff erfasst den Fall?
 3. **Subsumtion durchfuehren.** Erfuellen die Sachverhaltselemente die Begriffsmerkmale?
-4. **Wertungsdimension pruefen.** Reicht die Begriffslogik, oder muss Wertung einspringen (Generalklausel, Verfassung, Telos)?
+4. **Wertungsdimension prüfen.** Reicht die Begriffslogik, oder muss Wertung einspringen (Generalklausel, Verfassung, Telos)?
 5. **Begriffsjuristisches Argument im Schriftsatz** offen kennzeichnen ("dogmatisch") — und nicht so tun, als sei Wertung darin nicht enthalten.
 6. **Spannung mit Wertungsargumenten** auflegen, wo sie sichtbar wird.
 

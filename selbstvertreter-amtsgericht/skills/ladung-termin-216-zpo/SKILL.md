@@ -7,13 +7,13 @@ description: "Termin-Ladung nach § 216 ZPO. Inhalt der Ladung Datum Uhrzeit Ort
 
 ## Worum geht es?
 
-Wenn das Gericht muendliche Verhandlung anberaumt, erhalten Sie eine **Ladung** nach § 216 ZPO. Diese enthaelt Datum, Uhrzeit, Sitzungssaal und wichtige Hinweise. Pruefen Sie die Ladung sorgfaeltig — bei Fehlern oder Unklarheiten Geschaeftsstelle anrufen.
+Wenn das Gericht muendliche Verhandlung anberaumt, erhalten Sie eine **Ladung** nach § 216 ZPO. Diese enthaelt Datum, Uhrzeit, Sitzungssaal und wichtige Hinweise. Prüfen Sie die Ladung sorgfaeltig — bei Fehlern oder Unklarheiten Geschaeftsstelle anrufen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben eine Ladung bekommen.
 - Sie wissen nicht, was die Hinweise bedeuten.
-- Sie wollen pruefen, ob Sie der richtige Adressat sind.
+- Sie wollen prüfen, ob Sie der richtige Adressat sind.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -30,28 +30,28 @@ Wenn das Gericht muendliche Verhandlung anberaumt, erhalten Sie eine **Ladung** 
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Ladung pruefen
+### Schritt 1 — Ladung prüfen
 
-Inhaltlich pruefen:
+Inhaltlich prüfen:
 
 - **Datum und Uhrzeit** des Termins.
 - **Ort** (Gerichts-Adresse).
 - **Sitzungssaal** (im Gerichtsgebaeude).
 - **Aktenzeichen**.
-- **Sache** ("[Klaeger] ./. [Beklagter] wegen ...").
+- **Sache** ("[Kläger] ./. [Beklagter] wegen ...").
 - **Anwesenheits-Pflicht** Hinweis.
 
 ### Schritt 2 — Ladungsfrist
 
 § 217 ZPO: Mindestens **1 Woche** vor Termin. Bei Eile auch kuerzer (§ 226 ZPO Abkuerzung).
 
-Wenn Sie kuerzer geladen werden: pruefen Sie, ob Sondersituation vorliegt.
+Wenn Sie kuerzer geladen werden: prüfen Sie, ob Sondersituation vorliegt.
 
 ### Schritt 3 — Hinweise verstehen
 
 Typische Hinweise:
 
-- "Persoenliches Erscheinen angeordnet" (§ 141 ZPO): Sie muessen kommen, koennen sich nicht vertreten lassen.
+- "Persoenliches Erscheinen angeordnet" (§ 141 ZPO): Sie müssen kommen, können sich nicht vertreten lassen.
 - "Bei Saeumnis kann auf Antrag Versaeumnisurteil ergehen."
 - "Mitzubringende Unterlagen": z. B. Original-Vertrag.
 
@@ -63,7 +63,7 @@ Typische Hinweise:
 
 ### Schritt 5 — Krankheits-Fall
 
-Wenn Sie nicht koennen wegen Krankheit:
+Wenn Sie nicht können wegen Krankheit:
 
 - Sofort beim Gericht melden.
 - Aerztliches Attest (mit Behandlungsdiagnose).
@@ -85,13 +85,13 @@ Originale der Urkunden, die Sie als Anlagen eingereicht haben — bei Zweifel da
 
 ### Schritt 8 — Akten-Einsicht vorab
 
-Sie koennen vor dem Termin Akten einsehen. Antrag an die Geschaeftsstelle, Termin vereinbaren.
+Sie können vor dem Termin Akten einsehen. Antrag an die Geschaeftsstelle, Termin vereinbaren.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Pflicht zum Erscheinen**: Saeumnis kann zu Versaeumnisurteil fuehren.
 - **Mitgebrachte Originale** bei Bedarf.
-- **Frist 1 Woche** Ladung — pruefen.
+- **Frist 1 Woche** Ladung — prüfen.
 - **Verlegung** nur in begruendetem Ausnahmefall.
 
 ## Typische Fehler

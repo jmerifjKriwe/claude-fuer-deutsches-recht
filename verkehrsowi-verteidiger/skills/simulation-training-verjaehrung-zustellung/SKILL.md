@@ -16,11 +16,11 @@ description: "Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahr
 ## Uebungsszenario 1: Geschwindigkeitsverstos
 
 **Sachverhalt (simuliert):**
-Max Mustermann, wohnhaft in Musterstadt, erhielt am 15.03.2024 einen Bussgeldbescheid ueber 120 EUR und 1 Punkt. Er soll am 01.02.2024 auf der B27 in Musterstadt mit 64 km/h bei erlaubten 50 km/h gefahren sein. Messgeraet: ESO ES 3.0. Zustellung: 15.03.2024 per Einwurf-Einschreiben.
+Max Mustermann, wohnhaft in Musterstadt, erhielt am 15.03.2024 einen Bussgeldbescheid über 120 EUR und 1 Punkt. Er soll am 01.02.2024 auf der B27 in Musterstadt mit 64 km/h bei erlaubten 50 km/h gefahren sein. Messgeraet: ESO ES 3.0. Zustellung: 15.03.2024 per Einwurf-Einschreiben.
 
 **Aufgaben:**
 1. Einspruchsfrist berechnen: Zustellung 15.03.2024 + 14 Tage = 29.03.2024
-2. Toleranzabzug pruefen: Gemessen 64 km/h; Abzug 3 km/h → vorwerfbar 61 km/h; Ueberschreitung 11 km/h → 120 EUR und 1 Punkt korrekt nach BKatV?
+2. Toleranzabzug prüfen: Gemessen 64 km/h; Abzug 3 km/h → vorwerfbar 61 km/h; Ueberschreitung 11 km/h → 120 EUR und 1 Punkt korrekt nach BKatV?
 3. Messakte-Inhalt anfordern: Eichschein, Protokoll, Schulung, Rohmessdaten
 4. Einspruchsschreiben formulieren
 
@@ -37,7 +37,7 @@ Lena Beispiel erhielt einen Bussgeldbescheid: qualifiziertes Rotlicht (> 1 Sekun
 
 **Aufgaben:**
 1. Beweislage analysieren: Wie wurde die Rotphasendauer von > 1 Sekunde festgestellt?
-2. Angriffspunkt: Polizeibeamten koennen Sekunden nicht exakt schaetzen
+2. Angriffspunkt: Polizeibeamten können Sekunden nicht exakt schaetzen
 3. Sachverstaendigenantrag formulieren für Rotphasendauer-Messung
 4. Haertefall-Argumentation prufen (Lena ist Krankenpflegerin, benoetigt Auto)
 
@@ -66,7 +66,7 @@ Karl Probefall, Bussgeld 100 EUR, 1 Punkt. Polizeibeamter sah ihn an einer roten
 
 **Hauptverhandlung (Simulation):**
 Polizeibeamter sagt aus: "Ich sah das Fahrzeug mit 80 km/h und sicher mehr als eine Sekunde bei Rot."
-→ Frage: "Koennen Sie mir erklaeren wie Sie exakt eine Sekunde messen konnten?"
+→ Frage: "Können Sie mir erklaeren wie Sie exakt eine Sekunde messen konnten?"
 
 ## Harte Leitplanken
 

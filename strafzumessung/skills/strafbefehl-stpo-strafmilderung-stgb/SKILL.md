@@ -23,9 +23,9 @@ Der Strafbefehl ist ein **schriftliches** Verfahren ohne Hauptverhandlung. Die S
 
 ## Wann brauchen Sie diese Skill?
 
-- Mandant hat einen Strafbefehl erhalten und Sie pruefen die Strafzumessung.
+- Mandant hat einen Strafbefehl erhalten und Sie prüfen die Strafzumessung.
 - Sie ueberlegen, ob ein beschraenkter Einspruch auf Rechtsfolgen sinnvoll ist.
-- Sie pruefen die Tagessatzfestsetzung gegen den Mandanteneinkommensstand.
+- Sie prüfen die Tagessatzfestsetzung gegen den Mandanteneinkommensstand.
 
 ## Rechtliche Grundlagen
 
@@ -33,7 +33,7 @@ Der Strafbefehl ist ein **schriftliches** Verfahren ohne Hauptverhandlung. Die S
 - **§ 407 Abs. 2 StPO** — Sanktionskatalog:
  - Nr. 1: Geldstrafe, Verwarnung mit Strafvorbehalt, Fahrverbot, Entziehung der Fahrerlaubnis, Sperre für Fahrerlaubniserteilung, Einziehung, Vernichtung, Unbrauchbarmachung, Bekanntmachung, Geldbusse.
  - Nr. 2: Freiheitsstrafe bis 1 Jahr **mit Bewaehrung und nur mit Verteidiger**.
-- **§ 408 StPO** — Erlass durch Richter; Pruefung des hinreichenden Tatverdachts.
+- **§ 408 StPO** — Erlass durch Richter; Prüfung des hinreichenden Tatverdachts.
 - **§ 410 Abs. 1 StPO** — Einspruchsfrist 2 Wochen ab Zustellung.
 - **§ 410 Abs. 2 StPO** — Beschraenkung des Einspruchs auf Rechtsfolgen; Schuldspruch wird rechtskraeftig.
 - **§§ 40-43 StGB** — Geldstrafe.
@@ -49,16 +49,16 @@ Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenomme
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
-1. **Strafbefehl pruefen**:
+1. **Strafbefehl prüfen**:
  - Welche Tatbestaende, welcher Strafrahmen?
  - Welche Anzahl Tagessaetze? Welcher Tagessatz?
  - Gibt es Fahrverbot, Einziehung, Nebenfolgen?
-2. **Strafzumessung pruefen**:
+2. **Strafzumessung prüfen**:
  - **Tagessatzanzahl**: Ist die Schuldkomponente realistisch? Vgl. `geldstrafe-tagessatzanzahl-bestimmen`.
  - **Tagessatzhoehe**: Stimmt die Einkommensschaetzung? Vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`.
  - **§ 47 StGB**: Wenn Freiheitsstrafe verhaengt, sind die "besonderen Umstaende" begruendet?
-3. **Beschraenkter Einspruch** (§ 410 Abs. 2 StPO): Schuldspruch wird rechtskraeftig; nur Rechtsfolgen werden in der Hauptverhandlung verhandelt. **Vorsicht**: BZRG-Eintrag bleibt; berufsrechtliche Folgen pruefen.
-4. **Unbeschraenkter Einspruch**: Schuldspruch wird mitverhandelt; auch Freispruch moeglich.
+3. **Beschraenkter Einspruch** (§ 410 Abs. 2 StPO): Schuldspruch wird rechtskraeftig; nur Rechtsfolgen werden in der Hauptverhandlung verhandelt. **Vorsicht**: BZRG-Eintrag bleibt; berufsrechtliche Folgen prüfen.
+4. **Unbeschraenkter Einspruch**: Schuldspruch wird mitverhandelt; auch Freispruch möglich.
 5. **Strafmilderungsangebote** vorbereiten:
  - TOA / Schadenswiedergutmachung (§ 46a StGB).
  - Einkommensnachweise für realistische Tagessatzhoehe.
@@ -77,7 +77,7 @@ Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenomme
 - Voraussetzungen Bewaehrung (§ 56 StGB): Sozialprognose positiv.
 - Wenn Sozialprognose fragwuerdig: **Einspruch zwingend**, sonst rechtskraeftige Verurteilung.
 
-## Beschraenkter Einspruch — strategische Pruefung
+## Beschraenkter Einspruch — strategische Prüfung
 
 | Vorteil | Nachteil |
 |---|---|
@@ -95,10 +95,10 @@ Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenomme
 ## Typische Fehler
 
 - **Einspruchsfrist verpennt** (2 Wochen, § 410 StPO).
-- **Beschraenkter Einspruch** ohne BZRG-Pruefung gewaehlt — Folgewirkungen unterschaetzt.
+- **Beschraenkter Einspruch** ohne BZRG-Prüfung gewaehlt — Folgewirkungen unterschaetzt.
 - **Tagessatzhoehe** akzeptiert ohne Einkommensnachweise.
 - **Strafmilderungsgruende** in der Strafbefehlspruefung uebersehen.
-- **Freiheitsstrafe ohne Verteidiger** im Strafbefehl: Anhaltspunkt für Pflichtverteidigung pruefen (§ 140 StPO).
+- **Freiheitsstrafe ohne Verteidiger** im Strafbefehl: Anhaltspunkt für Pflichtverteidigung prüfen (§ 140 StPO).
 
 ## Quellen und Stand 05/2026
 

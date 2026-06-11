@@ -5,7 +5,7 @@ description: "Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter 
 
 # Beweiswürdigung mit haendischem Richter-Input
 
-Die Beweiswürdigung ist Kernkompetenz der Richterin oder des Richters. Sie laesst sich nicht automatisieren - aber strukturieren.
+Die Beweiswürdigung ist Kernkompetenz der Richterin oder des Richters. Sie lässt sich nicht automatisieren - aber strukturieren.
 
 ## Triage zu Beginn
 

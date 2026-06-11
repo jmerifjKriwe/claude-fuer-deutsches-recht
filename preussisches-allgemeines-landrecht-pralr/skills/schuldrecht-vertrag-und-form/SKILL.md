@@ -25,7 +25,7 @@ description: "PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit un
 ## Meat on the Bone — Konkreter ALR-Stoff
 
 ### Schluesselparagraphen
-- **ALR I 5 §§ 1-100**: Vertraege allgemein; Vertragsschluss durch Konsens.
+- **ALR I 5 §§ 1-100**: Verträge allgemein; Vertragsschluss durch Konsens.
 - **ALR I 5 §§ 100-200**: Formerfordernisse; bei hoeheren Werten Schriftform; bei Grundstueckskauf gerichtliche Verlautbarung.
 - **ALR I 5 §§ 250-300**: Erfuellung, Verzug, Unmoeglichkeit; Verschuldenstufen dolus, culpa lata, culpa levis, culpa levissima.
 - **ALR I 5 §§ 400-500**: Wegfall der Geschaeftsgrundlage (clausula rebus sic stantibus) ansatzweise.

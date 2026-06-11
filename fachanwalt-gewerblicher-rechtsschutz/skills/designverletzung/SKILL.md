@@ -73,14 +73,14 @@ description: "Geschmacksmuster- oder Designverletzung prüfen und Ansprüche dur
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Designverletzung geltend machen | Klageschrift-Antragsskizze und eAVV unten |
 | Variante A — Mandant will erst aussergerichtlich | Abmahnung mit Unterlassungserklaerung; Klage als Backup |
 | Variante B — Online-Plattform als Verletzungsort | Notice-and-Action Art. 16 DSA; schneller Weg |
-| Variante C — Gegenseite bestreitet Schutzbereich des Designs | Nichtigkeitsantrag beim DPMA pruefen; Verteidigung vorbereiten |
+| Variante C — Gegenseite bestreitet Schutzbereich des Designs | Nichtigkeitsantrag beim DPMA prüfen; Verteidigung vorbereiten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -214,7 +214,7 @@ den Rechteinhabern autorisiert sind.
 [Kontaktdaten, Datum, Unterschrift]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

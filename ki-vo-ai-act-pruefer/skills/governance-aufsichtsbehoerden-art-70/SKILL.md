@@ -75,24 +75,24 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Governance und Aufsichtsbehoerden-Anforderungen Art. 70 KI-VO pruefen | Pruefergebnis nach Schema; Template unten |
+| Standard — Governance und Aufsichtsbehoerden-Anforderungen Art. 70 KI-VO prüfen | Pruefergebnis nach Schema; Template unten |
 | Variante A — Behörde hat bereits Anfrage gestellt | Antwort-Vorlage statt Pruefprotokoll; Fristen beachten |
 | Variante B — System kein Hochrisiko keine Art. 70 Pflicht | Kurzdokumentation der Nicht-Anwendbarkeit |
-| Variante C — Mehrere Jurisdiktionen EU und national | Separate Pruefung pro Mitgliedstaat; Koordination erforderlich |
+| Variante C — Mehrere Jurisdiktionen EU und national | Separate Prüfung pro Mitgliedstaat; Koordination erforderlich |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — GOVERNANCE AUFSICHTSBEHOERDEN ART 70
 [DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
@@ -111,7 +111,7 @@ Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

@@ -28,7 +28,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## OWi-Fristen-Speziallage
-- **Anhörungsbogen / Zeugenfragebogen** keine Einspruchsfrist, aber Schweigerecht des Betroffenen § 55 OWiG / § 136 I 2 StPO via § 46 OWiG; Halterauskunftspflicht § 31a StVZO trotzdem moeglich.
+- **Anhörungsbogen / Zeugenfragebogen** keine Einspruchsfrist, aber Schweigerecht des Betroffenen § 55 OWiG / § 136 I 2 StPO via § 46 OWiG; Halterauskunftspflicht § 31a StVZO trotzdem möglich.
 - **§ 67 OWiG: 2 Wochen Einspruch** gegen Bussgeldbescheid ab Zustellung; § 50 OWiG.
 - **Rechtsbeschwerde §§ 79, 80 OWiG: 1 Woche Einlegung, 1 Monat Begruendung** ab Zustellung des Urteils.
 - **Verjährung Verkehrs-OWi § 26 III StVG: 3 Monate** ab Tat bis Erlass Bussgeldbescheid; danach 6 Monate bis Verkuendung Urteil 1. Instanz; Unterbrechung § 33 OWiG (Anhörung, Bussgeldbescheid).

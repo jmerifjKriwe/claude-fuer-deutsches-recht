@@ -114,12 +114,12 @@ Das verwaltungsgerichtliche Eilrechtsschutzrecht ist zweigeteilt: § 80 Abs. 5 V
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Einstweiliger Rechtsschutz nach VwGO beantragen | Eilantragsschriftsatz nach Pruefschema; Template unten |
-| Variante A — Interessenabwaegung spricht gegen Erfolg | Folgenabwaegung statt summarischer Pruefung in den Vordergrund |
+| Variante A — Interessenabwaegung spricht gegen Erfolg | Folgenabwaegung statt summarischer Prüfung in den Vordergrund |
 | Variante B — Behörde wuerde Vollziehung freiwillig aussetzen | Anfrage bei Behörde zuerst; Gericht nur wenn Behörde ablehnt |
 | Variante C — Eilrechtsschutz erfolglos war Hauptsache laeuft | Hauptsacheklage parallel weiter fuehren |
 
@@ -270,7 +270,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 Es wird beantragt, die aufschiebende Wirkung wiederherzustellen.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

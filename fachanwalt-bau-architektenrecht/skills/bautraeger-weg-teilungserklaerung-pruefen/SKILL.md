@@ -3,7 +3,7 @@ name: bautraeger-weg-teilungserklaerung-pruefen
 description: "WEG-Teilungserklaerung beim Bautraegervertrag pruefen: Skill klaert was in der Teilungserklaerung steht (Sondereigentum Gemeinschaftseigentum) wie sie gepruef wird und welche Klauseln problematisch sind..."
 ---
 
-# WEG-Teilungserklaerung beim Bautraegervertrag pruefen
+# WEG-Teilungserklaerung beim Bautraegervertrag prüfen
 
 
 ## Arbeitsweg
@@ -14,9 +14,9 @@ description: "WEG-Teilungserklaerung beim Bautraegervertrag pruefen: Skill klaer
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** WEG-Teilungserklaerung beim Bautraegervertrag pruefen. Skill klaert was in der Teilungserklaerung steht (Sondereigentum Gemeinschaftseigentum) wie sie gepruef wird und welche Klauseln problematisch sind. Liefert Pruefraster.
+**Fokus:** WEG-Teilungserklaerung beim Bautraegervertrag prüfen. Skill klaert was in der Teilungserklaerung steht (Sondereigentum Gemeinschaftseigentum) wie sie gepruef wird und welche Klauseln problematisch sind. Liefert Pruefraster.
 
-### Bautraeger Weg Teilungserklaerung Pruefen
+### Bautraeger Weg Teilungserklaerung Prüfen
 
 ## Norm
 
@@ -29,7 +29,7 @@ description: "WEG-Teilungserklaerung beim Bautraegervertrag pruefen: Skill klaer
 - Gemeinschaftseigentum (Treppenhaus Dach Heizung).
 - Sondernutzungsrechte (Garten Stellplatz Kellerraum).
 
-## Pruefung
+## Prüfung
 
 ### Sondereigentum klar abgegrenzt?
 - Innenausbau Trennwaende waende.

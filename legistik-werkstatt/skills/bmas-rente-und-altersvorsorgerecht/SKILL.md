@@ -22,7 +22,7 @@ Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verw
 
 ## Akteure und Aufsicht
 
-DRV Bund; Aufsicht ueber Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).
+DRV Bund; Aufsicht über Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).
 
 Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
@@ -30,7 +30,7 @@ Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; 
 
 VO 883/2004; PEPP-VO.
 
-Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
+Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
 
 ## Typische Legistik-Aufgaben
 
@@ -38,11 +38,11 @@ Rentenformel; Versicherungsfremde Leistungen; betriebliche und private Altersvor
 
 Schrittfolge für den Normgeber:
 
-1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
+1. Sachverhalt und Regelungsziel in diesem Sachfeld prüfen
 2. Vorhandene Normen kartieren; Lueckenanalyse
 3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet pruefen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit pruefen
+4. Verfassungs- und Europarechtskonformitaet prüfen
+5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit prüfen
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
@@ -50,7 +50,7 @@ Schrittfolge für den Normgeber:
 
 Generationenvertrag; Beitragssatzstabilitaet; Riester-Misere; Erwerbsminderung.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

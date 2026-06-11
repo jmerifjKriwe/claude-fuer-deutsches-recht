@@ -54,15 +54,15 @@ Skill für Beihilfeberechtigte, denen die Beihilfestelle bei der Erstattung hoch
 ## 5. Ausgabeformat
 
 - Widerspruchsschrift mit medizinischer Begruendung.
-- Antrag auf Erstattung in voller Hoehe.
+- Antrag auf Erstattung in voller Höhe.
 
 ## 6. Verifizierte Quellenanker
 
 - BBhV insbesondere Anlage 6 (Hilfsmittel und Festbetraege); landesrechtliche Beihilfeverordnungen mit eigenen Hilfsmittelverzeichnissen.
 - Festbetragsregelung als Regelgrenze; medizinische Notwendigkeit als Massstab für beihilfefaehige Mehrkosten.
-- BVerwG zur Beihilfefaehigkeit hochwertiger Hilfsmittel und zur Pruefung medizinischer Notwendigkeit — Datum und Az vor Zitat live verifizieren.
+- BVerwG zur Beihilfefaehigkeit hochwertiger Hilfsmittel und zur Prüfung medizinischer Notwendigkeit — Datum und Az vor Zitat live verifizieren.
 - Hilfsmittelrichtlinie des G-BA und einschlaegige HNO- und audiologische Leitlinien als Begruendungsgrundlage.
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant beidseitige Schwerhoerigkeit; HNO empfiehlt Geraet mit Bluetooth und Spezialakustik für Berufstaetigkeit als Richter (Verhandlung in grossen Saelen). Kostenvoranschlag 5.800 Euro, Festbetrag 1.500 Euro. Skill liefert Widerspruch mit Begruendung der Mehrkosten als medizinisch notwendig.
+Mandant beidseitige Schwerhoerigkeit; HNO empfiehlt Geraet mit Bluetooth und Spezialakustik für Berufstaetigkeit als Richter (Verhandlung in großen Saelen). Kostenvoranschlag 5.800 Euro, Festbetrag 1.500 Euro. Skill liefert Widerspruch mit Begruendung der Mehrkosten als medizinisch notwendig.

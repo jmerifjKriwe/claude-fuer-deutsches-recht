@@ -32,7 +32,7 @@ description: "Erwerbsminderungsrente medizinische Feststellung. Skill klaert die
 
 ## Reha vor Rente
 
-§ 9 SGB VI: DRV pruef zuerst Reha. EM-Rente nur, wenn Reha nicht moeglich oder erfolglos.
+§ 9 SGB VI: DRV pruef zuerst Reha. EM-Rente nur, wenn Reha nicht möglich oder erfolglos.
 
 ## Zugangsfaktor
 

@@ -13,7 +13,7 @@ description: "Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere L
 
 ## Kernsachverhalt
 
-Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bruttolohnermittlung, LSt-Berechnung (Steuerklasse, KiFB, KKB), KiSt, SolZ, pauschalierte Loehne, SV-Beitraege, Auszahlung netto, Buchung im Hauptbuch, Anmeldung LSt beim FA. Der Steuerberater erledigt das mit DATEV LODAS oder Lohn und Gehalt — aber die fachliche Pruefung bleibt seine Verantwortung.
+Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bruttolohnermittlung, LSt-Berechnung (Steuerklasse, KiFB, KKB), KiSt, SolZ, pauschalierte Loehne, SV-Beitraege, Auszahlung netto, Buchung im Hauptbuch, Anmeldung LSt beim FA. Der Steuerberater erledigt das mit DATEV LODAS oder Lohn und Gehalt — aber die fachliche Prüfung bleibt seine Verantwortung.
 
 ## Kaltstart-Rueckfragen
 
@@ -71,7 +71,7 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 - Mehrarbeit, Ueberstunden, Schichtzuschlaege.
 - Sonn-/Feiertag-/Nachtzuschlaege § 3b EStG (LSt-frei und SV-frei in bestimmten Grenzen).
 - Sondervergueteungen: 13. Monatsgehalt, Tantieme, Sonderzahlung.
-- Sachbezuege (Verpflegung, Unterkunft mit SvEV-Werten; jaehrlich ueber BMAS-SvEV-Verordnung aktualisiert; Stand 2025: Verpflegung frei 313 EUR/Monat, Unterkunft 278 EUR/Monat).
+- Sachbezuege (Verpflegung, Unterkunft mit SvEV-Werten; jaehrlich über BMAS-SvEV-Verordnung aktualisiert; Stand 2025: Verpflegung frei 313 EUR/Monat, Unterkunft 278 EUR/Monat).
 
 ### Phase 3 — Lohnsteuer-Berechnung
 
@@ -80,14 +80,14 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 - Pauschalierung Aushilfen (§ 40a EStG): 2 Prozent (Minijob) oder 25 Prozent (kurzfristig).
 - Pauschalierung Sachzuwendungen (§ 37b EStG): 30 Prozent (mit Zuschlag).
 - KiSt nach AN-Konfession.
-- SolZ (Stand 2025): entfaellt für den Grossteil der AN seit 01.01.2021 (Freigrenze § 3 SolZG; ab 2025 18.130 EUR ESt Einzel); Milderungszone bis Voll-SolZ; aktuelle Grenzen ueber SolZG-Fassung pruefen.
+- SolZ (Stand 2025): entfaellt für den Grossteil der AN seit 01.01.2021 (Freigrenze § 3 SolZG; ab 2025 18.130 EUR ESt Einzel); Milderungszone bis Voll-SolZ; aktuelle Grenzen über SolZG-Fassung prüfen.
 
 ### Phase 4 — SV-Beitraege
 
-- Beitragsbemessungsgrenzen (BBG) Stand 2025 (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen):
+- Beitragsbemessungsgrenzen (BBG) Stand 2025 (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen):
  - RV/AV: ab 2025 bundeseinheitlich 8.050 EUR/Monat (96.600 EUR/Jahr; West-Ost-Angleichung zum 01.01.2025 abgeschlossen).
  - KV/PV (bundeseinheitlich): 5.512,50 EUR/Monat (66.150 EUR/Jahr); JAEG abweichend.
-- Beitragssaetze Stand 2025: RV 18,6 Prozent, AV 2,6 Prozent, KV allgemein 14,6 Prozent + KK-Zusatzbeitrag (durchschnittlich 2,5 Prozent), PV 3,6 Prozent + Kinderlosenzuschlag 0,6 Prozent; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen.
+- Beitragssaetze Stand 2025: RV 18,6 Prozent, AV 2,6 Prozent, KV allgemein 14,6 Prozent + KK-Zusatzbeitrag (durchschnittlich 2,5 Prozent), PV 3,6 Prozent + Kinderlosenzuschlag 0,6 Prozent; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen.
 - Zusatzbeitrag KV individuell je Kasse.
 - Beitragsverteilung AG-/AN-Anteile (jeweils ca. halftig; Ausnahmen PV-Kinderlose, Insolvenzgeld-Umlage).
 
@@ -101,11 +101,11 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
  - Bei Auszahlung Netto: 3790 SKR04 an Bank (1800 SKR04 / 1200 SKR03).
  - Abfuehrung LSt: 3740 SKR04 an Bank.
  - Abfuehrung SV: 3760 SKR04 an Bank.
-- Konten-Nr je nach Kontenplan und DATEV-Mandantenkonfiguration; bei Abweichungen Mandantenstammdaten pruefen.
+- Konten-Nr je nach Kontenplan und DATEV-Mandantenkonfiguration; bei Abweichungen Mandantenstammdaten prüfen.
 
 ### Phase 6 — Anmeldung Lohnsteuer
 
-- LSt-Anmeldung beim FA ueber ELSTER bis 10. des Folgemonats.
+- LSt-Anmeldung beim FA über ELSTER bis 10. des Folgemonats.
 - LSt-Faelligkeit: 10. des Folgemonats; Sofortverfuegung Saeumniszuschlag § 240 AO.
 - KiSt parallel angemeldet.
 - SolZ ggf. parallel.
@@ -113,9 +113,9 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 ## Strategie und Praxis-Tipps
 
 - Frist 10. des Folgemonats für LSt-Anmeldung — bei Verspaetung Verspaetungszuschlag.
-- BBG und Beitragssaetze: Stand 2025 (RV-BBG 96.600 EUR, KV-BBG 66.150 EUR; Beitragssaetze RV 18,6%, AV 2,6%, KV 14,6%+Zusatz, PV 3,6%+Kinderlos); Sozialversicherungs-Rechengroessenverordnung 2026 jaehrlich pruefen.
+- BBG und Beitragssaetze: Stand 2025 (RV-BBG 96.600 EUR, KV-BBG 66.150 EUR; Beitragssaetze RV 18,6%, AV 2,6%, KV 14,6%+Zusatz, PV 3,6%+Kinderlos); Sozialversicherungs-Rechengroessenverordnung 2026 jaehrlich prüfen.
 - Bei pauschal versteuerten Loehnen (Minijob 2 Prozent): Buchung separat.
-- Sonn-/Feiertag-/Nacht-Zuschlaege § 3b EStG nur LSt- und SV-frei in bestimmten Grenzen; ueber die Grenze normal versteuert/verbeitragt.
+- Sonn-/Feiertag-/Nacht-Zuschlaege § 3b EStG nur LSt- und SV-frei in bestimmten Grenzen; über die Grenze normal versteuert/verbeitragt.
 - StBVV: Monatsabschluss in Lohnpauschale; Sondertaetigkeiten (Mehrarbeit-Berechnung mit komplexer Schichten-Logik) Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Monatsabschluss-Pruefliste vor Anmeldung; Plausibilitaetspruefung Bruttolohnsumme.
 
@@ -126,7 +126,7 @@ Stand: 05/2026.
 - EStG §§ 3, 3b, 8, 19, 38, 39b, 40, 40a, 41a; LStR.
 - SGB IV §§ 14, 28d, 28e.
 - LStDV.
-- BBG 2025: RV 96.600 EUR, KV/PV 66.150 EUR; Beitragssaetze 2025: RV 18,6%, AV 2,6%, KV 14,6%+Zusatz, PV 3,6%+Kinderlos 0,6% (Sozialversicherungs-Rechengroessenverordnung 2026 pruefen).
+- BBG 2025: RV 96.600 EUR, KV/PV 66.150 EUR; Beitragssaetze 2025: RV 18,6%, AV 2,6%, KV 14,6%+Zusatz, PV 3,6%+Kinderlos 0,6% (Sozialversicherungs-Rechengroessenverordnung 2026 prüfen).
 - SvEV-Sachbezugswerte 2025: Verpflegung 313 EUR/Monat, Unterkunft 278 EUR/Monat (jaehrlich durch BMAS angepasst).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 6 bestaetigt (BBG/Beitragssaetze 2025 eingesetzt), 2 ersetzt (Pruefhinweise ohne Marker) -->

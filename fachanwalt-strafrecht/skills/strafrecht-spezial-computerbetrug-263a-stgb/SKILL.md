@@ -20,7 +20,7 @@ description: "Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manip
 
 ## Worum geht es
 
-Spezial-Mandat: Vorwurf Computerbetrug. Praxistypisch: Missbrauch Online-Banking nach Phishing, unberechtigte Abhebung mit fremder EC-Karte und PIN, Skimming, Manipulation von Geldautomaten, Crypto-Wallet-Drainage nach Diebstahl Private Key, manipulierte Wett- oder Casinosoftware, Software-Bot-Order auf Marktplaetzen. Strafrahmen wie Betrug (bis fuenf Jahre); Qualifikationen analog § 263 Abs. 3-5 StGB ueber § 263a Abs. 2 StGB.
+Spezial-Mandat: Vorwurf Computerbetrug. Praxistypisch: Missbrauch Online-Banking nach Phishing, unberechtigte Abhebung mit fremder EC-Karte und PIN, Skimming, Manipulation von Geldautomaten, Crypto-Wallet-Drainage nach Diebstahl Private Key, manipulierte Wett- oder Casinosoftware, Software-Bot-Order auf Marktplaetzen. Strafrahmen wie Betrug (bis fuenf Jahre); Qualifikationen analog § 263 Abs. 3-5 StGB über § 263a Abs. 2 StGB.
 
 ## Eingaben
 
@@ -54,11 +54,11 @@ Spezial-Mandat: Vorwurf Computerbetrug. Praxistypisch: Missbrauch Online-Banking
 
 ## Praktikertipps Verteidigung
 
-- **Datenherkunft pruefen.** Wenn Daten legitim erlangt wurden (Mandant hatte Vollmacht), entfaellt "unbefugte Verwendung". Auch innerfamiliaere Konstellationen pruefen.
-- **Vorsatz angreifen.** Bei Geldwaeschern, die nur Zugriffsdaten weitergeben, fehlt oft die direkte Bereicherungsabsicht — Pruefung Beihilfe § 27 StGB statt Mittaeterschaft.
-- **Schaden pruefen.** Bei Krypto-Drainage: Wechselkurs zum Tatzeitpunkt. Bei Bot-Order: Marktentwicklung beachten.
-- **Beweisverwertung.** Verwertbarkeit Cloud-Daten, Smartphone-Asservat, IP-Logs (Vorratsdatenspeicherung BVerfG-Rspr.); Beweisverwertungsverbot pruefen.
-- **Verstaendigung** bei Massentaten ueber Pauschal-Abrede.
+- **Datenherkunft prüfen.** Wenn Daten legitim erlangt wurden (Mandant hatte Vollmacht), entfaellt "unbefugte Verwendung". Auch innerfamiliaere Konstellationen prüfen.
+- **Vorsatz angreifen.** Bei Geldwaeschern, die nur Zugriffsdaten weitergeben, fehlt oft die direkte Bereicherungsabsicht — Prüfung Beihilfe § 27 StGB statt Mittaeterschaft.
+- **Schaden prüfen.** Bei Krypto-Drainage: Wechselkurs zum Tatzeitpunkt. Bei Bot-Order: Marktentwicklung beachten.
+- **Beweisverwertung.** Verwertbarkeit Cloud-Daten, Smartphone-Asservat, IP-Logs (Vorratsdatenspeicherung BVerfG-Rspr.); Beweisverwertungsverbot prüfen.
+- **Verstaendigung** bei Massentaten über Pauschal-Abrede.
 
 ## Trade-off-Matrix
 
@@ -92,7 +92,7 @@ Spezial-Mandat: Vorwurf Computerbetrug. Praxistypisch: Missbrauch Online-Banking
 
 ### Antrag Beweisverwertungsverbot
 
-"Der durch die Auswertung des sichergestellten Smartphones vom [Datum] erlangte Datenbestand unterliegt einem Verwertungsverbot. Die Durchsuchungs- und Beschlagnahmeanordnung des [Gericht] vom [Datum], Az. [...], stuetzt sich auf einen Verdacht, der unter Verstoss gegen § 102 StPO nicht hinreichend konkretisiert war. Hilfsweise wird die Verwertung der WhatsApp-Inhalte gemaess § 100d Abs. 2 StPO ausgeschlossen."
+"Der durch die Auswertung des sichergestellten Smartphones vom [Datum] erlangte Datenbestand unterliegt einem Verwertungsverbot. Die Durchsuchungs- und Beschlagnahmeanordnung des [Gericht] vom [Datum], Az. [...], stuetzt sich auf einen Verdacht, der unter Verstoss gegen § 102 StPO nicht hinreichend konkretisiert war. Hilfsweise wird die Verwertung der WhatsApp-Inhalte gemäß § 100d Abs. 2 StPO ausgeschlossen."
 
 ### Bestreiten Bereicherungsabsicht
 

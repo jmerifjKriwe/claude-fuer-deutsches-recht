@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. V
 
 ## Worum es geht
 
-Der epochenuebergreifende Fallvergleich ist eine Kerntechnik der Rechtsgeschichte. Er prueft, wie dasselbe Sachproblem (z. B. Eigentumsschutz, Vertragsfreiheit, staatliche Strafgewalt) in verschiedenen Epochen geloest wurde. Dafür braucht es: (1) eine invariante Fallkonstellation, (2) die einschlaegige Norm jeder Epoche, (3) die Loesungsstruktur, (4) den Vergleich der Ergebnisse. Klassische Vergleichsachsen: Sachsenspiegel / gemeines Recht / ALR / BGB / GG; oder WRV / GG für Grundrechte; oder DDR-ZGB / BGB-West für Eigentumsrecht.
+Der epochenuebergreifende Fallvergleich ist eine Kerntechnik der Rechtsgeschichte. Er prüft, wie dasselbe Sachproblem (z. B. Eigentumsschutz, Vertragsfreiheit, staatliche Strafgewalt) in verschiedenen Epochen geloest wurde. Dafür braucht es: (1) eine invariante Fallkonstellation, (2) die einschlaegige Norm jeder Epoche, (3) die Loesungsstruktur, (4) den Vergleich der Ergebnisse. Klassische Vergleichsachsen: Sachsenspiegel / gemeines Recht / ALR / BGB / GG; oder WRV / GG für Grundrechte; oder DDR-ZGB / BGB-West für Eigentumsrecht.
 
 ## Kernnormen / Kernquellen
 

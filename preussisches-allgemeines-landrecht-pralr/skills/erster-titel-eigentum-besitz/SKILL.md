@@ -26,7 +26,7 @@ Anders als BGB unterscheidet ALR nicht so streng zwischen koerperlichen Sachen u
 ## Subsumtionsbeispiel: Verkauf einer Forderung 1850
 
 A verkauft B seine Forderung gegen C.
-- **ALR**: Forderungsverkauf moeglich, da Forderung "Sache" iSd ALR I 2.
+- **ALR**: Forderungsverkauf möglich, da Forderung "Sache" iSd ALR I 2.
 - **BGB**: Forderung ist Recht; § 398 BGB Abtretung erforderlich.
 
 ## Heutige Fortwirkung

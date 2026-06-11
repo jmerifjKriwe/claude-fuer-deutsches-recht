@@ -37,9 +37,9 @@ description: "Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang 
 - Frist: 2 Wochen nach Wegfall des Hindernisses.
 
 ### Allgemeine Feststellungsklage § 256 ZPO
-- Bei Zweifel ueber Zugang: parallel zur § 4-KSchG-Klage Antrag auf Feststellung, dass Arbeitsverhaeltnis fortbesteht.
+- Bei Zweifel über Zugang: parallel zur § 4-KSchG-Klage Antrag auf Feststellung, dass Arbeitsverhaeltnis fortbesteht.
 
-## Streit ueber Zugang im Prozess
+## Streit über Zugang im Prozess
 
 - Wenn Arbeitgeber Zugang behauptet, Arbeitnehmer bestreitet:
 - Beweislast Arbeitgeber.

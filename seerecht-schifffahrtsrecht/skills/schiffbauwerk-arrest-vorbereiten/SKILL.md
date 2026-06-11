@@ -17,10 +17,10 @@ description: "Schiffbauwerk: Glaeubiger sichert Anspruch an Schiff im Bau (Schif
 Ein Hypothekengläubiger will ein Schiff im Bau (Schiffbauwerk) arrestieren; Kredit ist ausgefallen. Ein Konnossementsinhaber hat Schadensansprüche und arretiert das Schiff im Bau (Schiffbauwerk) im Hafen. Ein Bergungsunternehmen sichert seinen Bergungslohnanspruch durch Arrest.
 
 ## Erste Schritte
-1. Seeforderung nach ISAC 1952 Art. 1 gegenueber Eigentuemer des Schiff im Bau (Schiffbauwerk) konkretisieren.
+1. Seeforderung nach ISAC 1952 Art. 1 gegenueber Eigentümer des Schiff im Bau (Schiffbauwerk) konkretisieren.
 2. Arrestgrund glaublhaft machen: {vessel} wird Hafen verlassen; Reeder insolvent.
 3. LG am Liegeplatz (ZPO § 919) als zuständiges Gericht bestimmen.
-4. Arrestbeschluss beantragen; ohne Anhörung des Gegners moeglich.
+4. Arrestbeschluss beantragen; ohne Anhörung des Gegners möglich.
 5. Vollziehung: Eintragung im Register (SchRegO § 67) binnen einem Monat.
 6. Freigabestrategie: LOU des P&I-Clubs oder Barzahlung als Alternative vorbereiten.
 

@@ -15,18 +15,18 @@ description: "Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasi
 
 ## Mandantenfall
 
-- Bank erhalt Zahlungsauftrag aus UAE mit unklaren UBO-Angaben; Fragestellung Sanktions-Treffer moeglich?
+- Bank erhalt Zahlungsauftrag aus UAE mit unklaren UBO-Angaben; Fragestellung Sanktions-Treffer möglich?
 - Handelsunternehmen onboardet neuen Kunden aus der Tuerkei; interne KYC-Abteilung fordert enhanced due diligence.
-- Finanzdienstleister prueft, ob Russe mit Oligarchen-Nahbeziehung unter Art. 2 VO 269/2014 faellt.
+- Finanzdienstleister prüft, ob Russe mit Oligarchen-Nahbeziehung unter Art. 2 VO 269/2014 faellt.
 
 ## Erste Schritte
 
-1. Identifizierungspflicht ausloesen: Ist Geschaeftsbeziehung gemaess §§ 10 GwG begruendet?
+1. Identifizierungspflicht ausloesen: Ist Geschaeftsbeziehung gemäß §§ 10 GwG begruendet?
 2. UBO-Ermittlung nach § 3 GwG und Art. 3 Nr. 6 4. EU-GwRL (AMLD4): Eigentums- und Kontrollstrukturen bis zum natuerllichen Endbegünstigten aufloesen.
 3. Sanktionsscreening in konsolidierter EU-Finanzsanktionsliste (OFAC, UK-HMT optional ergaenzend).
-4. PEP-Status pruefen (§ 1 Abs. 12 GwG) und erweiterte Sorgfaltspflichten aktivieren.
+4. PEP-Status prüfen (§ 1 Abs. 12 GwG) und erweiterte Sorgfaltspflichten aktivieren.
 5. Risikobewertung nach geldwaescherechtlicher Risikoanalyse erstellen.
-6. Entscheidung: Kundenbeziehung freigeben, einschraenken oder ablehnen; Meldung an FIU pruefen.
+6. Entscheidung: Kundenbeziehung freigeben, einschraenken oder ablehnen; Meldung an FIU prüfen.
 
 ## Rechtsrahmen
 
@@ -42,15 +42,15 @@ description: "Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasi
 - [ ] Sanktionsscreening mit Trefferprotokoll durchgefuehrt?
 - [ ] PEP-Status und Hochrisikoindikatoren bewertet?
 - [ ] Abweichende/unklare Angaben des Kunden dokumentiert?
-- [ ] Risikoklasse korrekt eingestuft und Massnahmen angemessen?
+- [ ] Risikoklasse korrekt eingestuft und Maßnahmen angemessen?
 - [ ] Meldepflicht an FIU geprueft?
 
 ## Typische Fallstricke
 
-- Indirektes Eigentum ueber Offshore-Strukturen wird unterschaetzt; nur direkte Anteilseigner pruefen reicht nicht.
+- Indirektes Eigentum über Offshore-Strukturen wird unterschaetzt; nur direkte Anteilseigner prüfen reicht nicht.
 - 'Fuzzy Match' bei abweichender Schreibweise des Namens fuehrt zu Nichtentdeckung.
 - PEP-Status laeuft nach Amt-Ende weiter (mindestens 12 Monate); kein automatischer Wegfall.
-- Sanktions- und GwG-Pruefung werden organisatorisch getrennt durchgefuehrt und kommunizieren nicht.
+- Sanktions- und GwG-Prüfung werden organisatorisch getrennt durchgefuehrt und kommunizieren nicht.
 
 ## Schnittstellen zu anderen Skills
 

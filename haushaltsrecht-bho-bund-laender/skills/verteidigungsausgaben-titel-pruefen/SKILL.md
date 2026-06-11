@@ -3,7 +3,7 @@ name: verteidigungsausgaben-titel-pruefen
 description: "Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Verteidigungsausgaben Titel Pruefen
+# Verteidigungsausgaben Titel Prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Titel 
 
 ## Normenanker
 
-Arbeitsfokus: **Verteidigungsausgaben Titel Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Verteidigungsausgaben Titel Prüfen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
 - `§ 17 BHO` — Einzelveranschlagung.

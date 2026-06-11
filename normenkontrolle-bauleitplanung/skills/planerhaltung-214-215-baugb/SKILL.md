@@ -180,12 +180,12 @@ Kläre nach Mandatsübernahme:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Fehler-Ruege nach § 215 BauGB fristwahrend stellen | Ruegeschreiben nach Schema; Template unten |
-| Variante A — Frist nach § 215 Abs. 1 BauGB bereits abgelaufen | Verfahrensfehler-Heilung pruefen; keine Ruege mehr moeglich |
+| Variante A — Frist nach § 215 Abs. 1 BauGB bereits abgelaufen | Verfahrensfehler-Heilung prüfen; keine Ruege mehr möglich |
 | Variante B — Fehler nicht ruegefahig weil Materialfehler | § 214 Abs. 1 BauGB Verfahrensfehler vs Materialfehler abgrenzen |
 | Variante C — Plan noch nicht in Kraft getreten Ruege praematuer | Abwarten; Ruege erst nach Bekanntmachung des Plans |
 
@@ -227,7 +227,7 @@ Akten- und Begründungsmaterial zugänglich wird.
 [UNTERSCHRIFT]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

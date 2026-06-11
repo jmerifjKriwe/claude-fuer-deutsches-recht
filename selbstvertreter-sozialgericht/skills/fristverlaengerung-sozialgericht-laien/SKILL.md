@@ -13,11 +13,11 @@ description: "Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind
 
 ## Worum geht es?
 
-Manche Fristen koennen Sie verlaengern lassen. Andere nicht. Diese Skill zeigt den Unterschied und gibt einen Mustertext.
+Manche Fristen können Sie verlaengern lassen. Andere nicht. Diese Skill zeigt den Unterschied und gibt einen Mustertext.
 
 ## In einfacher Sprache
 
-Manche Fristen koennen Sie verlaengern. Andere nicht. Wir zeigen Ihnen, welche und wie.
+Manche Fristen können Sie verlaengern. Andere nicht. Wir zeigen Ihnen, welche und wie.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -40,7 +40,7 @@ Manche Fristen koennen Sie verlaengern. Andere nicht. Wir zeigen Ihnen, welche u
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, welche Frist es ist
+### Schritt 1 — Prüfen, welche Frist es ist
 
 **Nicht verlaengerbar**:
 
@@ -49,7 +49,7 @@ Manche Fristen koennen Sie verlaengern. Andere nicht. Wir zeigen Ihnen, welche u
 - Berufungsfrist 1 Monat (§ 151 SGG)
 - Revisionsfrist 1 Monat (§ 164 SGG)
 
-→ Nur Wiedereinsetzung moeglich (siehe `wiedereinsetzung-frist-67-sgg`).
+→ Nur Wiedereinsetzung möglich (siehe `wiedereinsetzung-frist-67-sgg`).
 
 **Oft verlaengerbar**:
 
@@ -94,9 +94,9 @@ Wenn das Gericht ohne Antwort die alte Frist nicht verlaengert hat: rechtzeitig 
 
 Eine zweite oder dritte Verlaengerung wird strenger geprueft. Begruenden Sie gut.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Bei gesetzlichen Fristen ist nichts moeglich** — nur Wiedereinsetzung.
+- **Bei gesetzlichen Fristen ist nichts möglich** — nur Wiedereinsetzung.
 - **Stellungnahmefristen** sind in der Regel verlaengerbar.
 - **Begruendung wichtig**: nicht "ich brauche mehr Zeit", sondern "Ich warte auf [...] bis [...]".
 

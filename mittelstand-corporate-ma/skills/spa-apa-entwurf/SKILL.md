@@ -30,21 +30,21 @@ description: "SPA/APA-Entwurf: Kaufvertragsentwuerfe für Share Deal und Asset D
 1. Share Deal (GmbH-Anteile nach § 15 GmbHG; AG-Aktien) oder Asset Deal (§§ 433 ff. BGB mit spezifischen Abtretungsvereinbarungen)?
 2. Welches Recht gilt — deutsches Recht, englisches Recht, oder Mischstatut?
 3. Was ist die Kaufpreisstruktur — Locked Box, Completion Accounts, Earn-Out, Vendor Loan, Roll-over?
-4. Welche wesentlichen DD-Findings muessen als SPA-Risiken adressiert werden — Red Flags, Material Adverse Issues?
+4. Welche wesentlichen DD-Findings müssen als SPA-Risiken adressiert werden — Red Flags, Material Adverse Issues?
 5. Ist W&I-Versicherung vorgesehen — wenn ja: Sell-Side Disclosure Letter, Materiality Scrapes, Synthetic Warranties?
 6. Welche Conditions Precedent sind zu erwaarten — Kartellrecht, FDI, Sondergenehmigungen?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Rechtsgrundlagen
 
-- § 433 BGB — Kaufvertrag als Grundlage; Gewaehrleistungsrecht nach §§ 437 ff. BGB ist abdingbar (bei B2B vollstaendige Abbedingung moeglich)
+- § 433 BGB — Kaufvertrag als Grundlage; Gewaehrleistungsrecht nach §§ 437 ff. BGB ist abdingbar (bei B2B vollstaendige Abbedingung möglich)
 - § 15 Abs. 3 GmbHG — notarielle Beurkundungspflicht für GmbH-Anteilsuebertragung; Formverstoß fuehrt zur Nichtigkeit
 - § 311b BGB — notarielle Beurkundung bei Grundstueckseinschluss im Asset Deal
 - § 613a BGB — Betriebsuebergang beim Asset Deal: zwingend; Information der Arbeitnehmer
 - § 443 BGB — Selbstaendige Garantie: verschuldensunabhaengige Einstandspflicht; Haftung auf das Erfuellungsinteresse
 - § 254 BGB — Mitverschulden: Kaeuferwissen schraenkt Garantieansprueche ein; Aufdeckung in DD mindert Schaden
 - §§ 195, 199 BGB — Verjährung: regelmaessig 3 Jahre; vertragliche Verkuerzung auf 18 oder 24 Monate ueblich; Steuergarantien: Steuerveranlagungszeitraum plus 3 Monate
-- §§ 305-310 BGB — AGB-Kontrolle bei Verwendung von Standardvertraegen: gilt auch im B2B-Bereich; ungewoehnliche Klauseln muessen hervorgehoben werden
+- §§ 305-310 BGB — AGB-Kontrolle bei Verwendung von Standardvertraegen: gilt auch im B2B-Bereich; ungewoehnliche Klauseln müssen hervorgehoben werden
 
 ## Aktuelle Rechtsprechung
 
@@ -66,13 +66,13 @@ description: "SPA/APA-Entwurf: Kaufvertragsentwuerfe für Share Deal und Asset D
 ## Entscheidungsbaum
 
 - Share Deal GmbH → § 15 Abs. 3 GmbHG → Notar zwingend → ohne Notar: Nichtigkeit
-- Asset Deal → § 613a BGB → Betriebsuebergang → Arbeitnehmerinfo zwingend → bei Unterlassung: alle gehen ueber
+- Asset Deal → § 613a BGB → Betriebsuebergang → Arbeitnehmerinfo zwingend → bei Unterlassung: alle gehen über
 - W&I vorgesehen → Sell-Side Disclosure Letter → Materiality Scrape → Synthetic Warranties Kataolog
-- MAC ausgeloest → Pruefen ob bilateraler Einzelrisiko oder Marktentwicklung → Carve-out greift?
+- MAC ausgeloest → Prüfen ob bilateraler Einzelrisiko oder Marktentwicklung → Carve-out greift?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -119,7 +119,7 @@ ANLAGEN:
  Anlage 4.5 — Disclosure Letter
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

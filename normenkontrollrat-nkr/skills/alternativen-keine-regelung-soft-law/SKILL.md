@@ -3,7 +3,7 @@ name: alternativen-keine-regelung-soft-law
 description: "Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem"
 ---
 
-# NKR-Alternativen-Pruefung — Verzicht, Soft-Law, Vollzug
+# NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug
 
 ## Worum geht es konkret
 
@@ -11,7 +11,7 @@ Nach der Erforderlichkeit ist die **Alternativenpruefung** der zweite Pflichtsch
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Pruefung jeder Stellungnahme
+- Prüfung jeder Stellungnahme
 - Ressortentwurf zeigt nur "die" eine Loesung
 - Alternative "keine Regelung" wurde gar nicht erwogen
 - Spezifischer Fall: Regelung ist erforderlich, aber konkrete Ausgestaltung kritisch
@@ -35,7 +35,7 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 4. **Freiwillige Selbstverpflichtung der Branche** (z.B. Branchencodex, Verbandsregelwerk)
 5. **Gesetzliche Regelung** mit minimal noetiger Eingriffstiefe
 
-### Pro Stufe pruefen
+### Pro Stufe prüfen
 
 - Erwarteter Nutzen
 - Erfuellungsaufwand (geschaetzt)
@@ -46,7 +46,7 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
 - Alternative "Verzicht" wurde gar nicht erwogen
-- Soft-Law-Alternative nicht erwogen, obwohl moeglich
+- Soft-Law-Alternative nicht erwogen, obwohl möglich
 - Begruendung der Verwerfung pauschal ("Selbstregulierung hat nicht funktioniert")
 - Keine Aufwand-Schaetzung für Alternativen
 - Nur eine Variante des Eingriffs untersucht (kein Vergleich milderer Eingriffstiefen)
@@ -63,10 +63,10 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der NKR weist darauf hin, dass eine Alternativenpruefung gemaess § 44 Abs. 1 Nr. 4 GGO unvollstaendig ist. Insbesondere ist nicht erkennbar, ob eine [Alternative: Branchenvereinbarung / Soft-Law / Vollzugsverbesserung] geprueft wurde."
-- "Der NKR begruesst die ressortseitige Pruefung der Alternativen und die transparente Darstellung der Gruende für die Wahl der gesetzlichen Regelung."
+- "Der NKR weist darauf hin, dass eine Alternativenpruefung gemäß § 44 Abs. 1 Nr. 4 GGO unvollstaendig ist. Insbesondere ist nicht erkennbar, ob eine [Alternative: Branchenvereinbarung / Soft-Law / Vollzugsverbesserung] geprueft wurde."
+- "Der NKR begruesst die ressortseitige Prüfung der Alternativen und die transparente Darstellung der Gruende für die Wahl der gesetzlichen Regelung."
 - "Aus Sicht des NKR ist die Wahl der Eingriffstiefe (gesetzliche Pflicht statt Empfehlung) verhaeltnismaessig, weil [Gruende]."
-- "Eine mildere Alternative waere [Konkretisierung]. Der NKR empfiehlt, diese Alternative im weiteren Verfahren zu pruefen."
+- "Eine mildere Alternative waere [Konkretisierung]. Der NKR empfiehlt, diese Alternative im weiteren Verfahren zu prüfen."
 
 ### Tabelle zur Alternativenuebersicht (Standard)
 
@@ -93,7 +93,7 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - Better Regulation Guidelines der EU-Kommission (jeweils aktuelle Ausgabe)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
 
 ## Normen und Rechtsprechung
 

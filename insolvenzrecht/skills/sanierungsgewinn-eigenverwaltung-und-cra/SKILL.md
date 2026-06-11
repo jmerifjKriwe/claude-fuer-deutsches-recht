@@ -25,7 +25,7 @@ description: "Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum 
 
 Bei der Eigenverwaltung (Paragraph 270 ff. InsO) bleibt die Geschaeftsleitung der Schuldnerin im Amt; ein Sachwalter ueberwacht. Die Verantwortung für den Steuerteil bleibt also bei der Schuldnergesellschaft selbst — sie muss die Modellrechnung Paragraph 3a Absatz 3 EStG aufstellen, die vier Voraussetzungen dokumentieren und die Antraege stellen. Der Sachwalter ist nicht "Steuerberater der Masse", sondern Aufsicht.
 
-In groesseren Verfahren wird oft ein CRO (Chief Restructuring Officer) bestellt. Der CRO ist faktisch die operative Spitze für die Sanierung und entscheidet ueber den Steuerteil mit. Sein Haftungsstatus haengt von der vertraglichen Konstruktion ab — meist Vorstand/Geschaeftsfuehrer, manchmal nur Berater.
+In groesseren Verfahren wird oft ein CRO (Chief Restructuring Officer) bestellt. Der CRO ist faktisch die operative Spitze für die Sanierung und entscheidet über den Steuerteil mit. Sein Haftungsstatus haengt von der vertraglichen Konstruktion ab — meist Vorstand/Geschaeftsfuehrer, manchmal nur Berater.
 
 Ordnet die Rollen und gibt Praxistipps. Adressat: Geschaeftsfuehrer in Eigenverwaltung, CRO, Sachwalter, StB.
 
@@ -68,8 +68,8 @@ Kaltstart-Fragen:
 
 ## / Schritt für Schritt
 
-1. **Rolle und Verantwortlichkeit klaeren.** Wer entscheidet, wer berichtet, wer haftet?
-2. **CRO-Vertrag pruefen.** Insbesondere: Vertretungsmacht, Haftungs-Cap, Versicherungsdeckung.
+1. **Rolle und Verantwortlichkeit klären.** Wer entscheidet, wer berichtet, wer haftet?
+2. **CRO-Vertrag prüfen.** Insbesondere: Vertretungsmacht, Haftungs-Cap, Versicherungsdeckung.
 3. **Steuerteil delegieren.** StB des Schuldners aktiv halten; CRO/GF in der Verantwortung.
 4. **Pflichten gegenueber Sachwalter.** Sachwalter regelmaessig informieren — er muss die Aufsicht ausuebbar haben.
 5. **Plan-Entwurf abstimmen.** Steuerteil mit StB durchgehen; Voraussetzungs-Belege bereitstellen.
@@ -93,8 +93,8 @@ Kaltstart-Fragen:
 1. **CRO-Vertrag klar fassen.** Wenn der CRO als Vorstand bestellt ist, haftet er wie ein Vorstand. Wenn er nur Berater ist, kann er nicht in der Vertretung handeln — und die GF haftet vollumfaenglich.
 2. **Steuerteil schriftlich an StB delegieren.** Aktennotiz mit klarer Aufgabenverteilung: Modellrechnung, Voraussetzungs-Dokumentation, Antrag.
 3. **Sachwalter ist nicht IV.** Wer als GF unterstellt, der Sachwalter "kuemmere sich" um den Steuerteil, hat das Verfahren falsch verstanden.
-4. **Schutzschirm Paragraph 270d InsO** verschafft Zeit, aber laesst die Steuerpflichten unberuehrt.
-5. **D-und-O-Versicherung pruefen.** Im Eigenverwaltungsverfahren ist die D-und-O-Deckung haeufig die letzte Schutzlinie der GF. Versicherung frueh informieren.
+4. **Schutzschirm Paragraph 270d InsO** verschafft Zeit, aber lässt die Steuerpflichten unberuehrt.
+5. **D-und-O-Versicherung prüfen.** Im Eigenverwaltungsverfahren ist die D-und-O-Deckung haeufig die letzte Schutzlinie der GF. Versicherung frueh informieren.
 
 ## Mustertexte / Berechnungsbeispiele
 

@@ -7,12 +7,12 @@ description: "Urheberrechts- und Software-Lizenzen nach UrhG: $ 31 ff. UrhG einf
 
 ## Normenanker
 
-- $ 31 UrhG - Einraeumung von Nutzungsrechten (einfach vs. ausschliesslich)
-- $ 31a UhG - Vertraege ueber unbekannte Nutzungsarten
-- $ 32 UrhG - angemessene Verguetung (Anspruch des Urhebers)
-- $ 32a UrhG - weitere Beteiligung des Urhebers (Bestseller-Klausel; $ 32a Abs. 2 fuer Dritte)
+- $ 31 UrhG - Einraeumung von Nutzungsrechten (einfach vs. ausschließlich)
+- $ 31a UhG - Verträge über unbekannte Nutzungsarten
+- $ 32 UrhG - angemessene Vergütung (Anspruch des Urhebers)
+- $ 32a UrhG - weitere Beteiligung des Urhebers (Bestseller-Klausel; $ 32a Abs. 2 für Dritte)
 - $ 35 UrhG - Einraeumung weiterer Nutzungsrechte (Sub-Lizenz)
-- $ 40 UrhG - Vertraege ueber kuenftige Werke
+- $ 40 UrhG - Verträge über kuenftige Werke
 - $ 41 UrhG - Rueckrufsrecht wegen Nichtausuebung
 - $ 42 UrhG - Rueckrufsrecht wegen gewandelter Ueberzeugung
 - $$ 69a-g UrhG - Schutz von Computerprogrammen (Sonderrecht)
@@ -29,8 +29,8 @@ description: "Urheberrechts- und Software-Lizenzen nach UrhG: $ 31 ff. UrhG einf
 
 ## Pflichten und Schranken
 
-- **Zweckuebertragungstheorie ($ 31 Abs. 5 UrhG):** Im Zweifel nur die Rechte, die fuer den Vertragszweck erforderlich sind. → Im Vertrag konkrete Nutzungsarten aufzaehlen.
-- **Angemessenheits-Korrektur ($ 32 UrhG):** Urheber hat Anspruch auf nachtraegliche Anpassung der Verguetung; nicht abdingbar (zwingend).
+- **Zweckuebertragungstheorie ($ 31 Abs. 5 UrhG):** Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Im Vertrag konkrete Nutzungsarten aufzaehlen.
+- **Angemessenheits-Korrektur ($ 32 UrhG):** Urheber hat Anspruch auf nachtraegliche Anpassung der Vergütung; nicht abdingbar (zwingend).
 - **Bestsellerparagraf ($ 32a UrhG):** Bei auffaelligem Missverhaeltnis nachtraeglicher Korrekturanspruch; auch gegen Lizenznehmer-Sub-Lizenznehmer in der Kette.
 
 ## Software-Spezifika ($$ 69a-g UrhG)
@@ -53,23 +53,23 @@ description: "Urheberrechts- und Software-Lizenzen nach UrhG: $ 31 ff. UrhG einf
 
 ## Open-Source-Compliance
 
-Pruefen vor Vertragsschluss:
+Prüfen vor Vertragsschluss:
 - Open-Source-Bill-of-Materials (OSS-BOM): welche Komponenten sind im Stack?
 - Copyleft-Risiken: GPL, AGPL → Quellcode-Offenlegungspflicht?
-- LGPL: dynamisches Linking unproblematisch fuer Distribution.
+- LGPL: dynamisches Linking unproblematisch für Distribution.
 - MIT/Apache-2.0: zulaessige Mischung.
 - Lizenzkompatibilitaet $ 69c UrhG; bei GPL-Verstoss: Loeschung der OSS-Komponente vor Distribution.
 
 ## Klausel-Bausteine (DE)
 
 **1. Lizenzgegenstand:**
-> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Nutzungsrecht an der in **Anlage A** bezeichneten Software ("Lizenzgegenstand") fuer die in **Anlage B** definierten Nutzungsarten ein."
+> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Nutzungsrecht an der in **Anlage A** bezeichneten Software ("Lizenzgegenstand") für die in **Anlage B** definierten Nutzungsarten ein."
 
 **2. Nutzungsarten:**
 > "Die Lizenz umfasst die Vervielfaeltigung im Sinne des $ 69c Nr. 1 UrhG, die bestimmungsgemaesse Benutzung im Sinne des $ 69d Abs. 1 UrhG sowie [Verbreitung / Bearbeitung / oeffentliche Wiedergabe]."
 
-**3. Verguetung:**
-> "Die Verguetung betraegt [Pauschale / Running Royalty in Hoehe von X % des Nettoumsatzes]. Die Parteien bestaetigen, dass die Verguetung im Sinne des $ 32 UrhG angemessen ist."
+**3. Vergütung:**
+> "Die Vergütung betraegt [Pauschale / Running Royalty in Höhe von X % des Nettoumsatzes]. Die Parteien bestaetigen, dass die Vergütung im Sinne des $ 32 UrhG angemessen ist."
 
 ## Anschluss
 

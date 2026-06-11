@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -53,7 +53,7 @@ Das kanonische Recht (kirchliches Recht) hatte für das Eherecht bis ins 19. Jah
 
 1. Konsens- vs. Vollzugstheorie der Ehe: Wann entstand nach kanonischem Recht eine gueltige Ehe?
 2. Tametsi und konfessionelle Mischehen: Welches Recht galt?
-3. Zivilehe 1874: Kulturkampf-Massnahme oder sakulare Modernisierung?
+3. Zivilehe 1874: Kulturkampf-Maßnahme oder sakulare Modernisierung?
 4. BGB und kirchliches Eherecht: Welche Reste des kanonischen Rechts blieben im BGB?
 5. CIC 1917 und BGB 1900: Konvergenzen und Divergenzen im Eherecht
 

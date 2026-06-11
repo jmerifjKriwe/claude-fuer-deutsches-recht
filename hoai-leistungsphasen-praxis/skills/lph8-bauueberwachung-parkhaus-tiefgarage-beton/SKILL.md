@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Parkhaeuser und Tiefgaragen �
 ## Spezialwissen
 
 Parkhaeuser und Tiefgaragen sind extremen Chloridbelastungen durch Tausalz ausgesetzt.
-Die Bauueberwachung nach HOAI LPH 8 prueft chloridbestaendigen Beton, Abdichtung und Fugenkonstruktionen.
+Die Bauueberwachung nach HOAI LPH 8 prüft chloridbestaendigen Beton, Abdichtung und Fugenkonstruktionen.
 Tiefgaragen erfordern zudem CO-Abzugsanlage nach VDI 2053 und Brandschutzabschnitte nach Gebaeudehoehe.
 
 ## Bauwerk und Auftrag
@@ -30,7 +30,7 @@ Tiefgaragen erfordern zudem CO-Abzugsanlage nach VDI 2053 und Brandschutzabschni
 1. Betonguete Decken und Waende: C30/37 XD3 Chlorid-Expositionsklasse, Betondeckung min. 4 cm
 2. Abdichtung Parkdecks: Fluessig-Kunststoffabdichtung nach DIN 18532, Schichtdicke nach Hersteller
 3. Fugen: Fugenprofil Edelstahl oder EPDM-Bandeinlage, Dehnweg min. 20 mm, Montageprotokoll
-4. CO-Entlueftungsanlage: VDI 2053, Volumenstrom-Pruefung, CO-Messsensor je Zone, Schwellenwert 30 ppm
+4. CO-Entlueftungsanlage: VDI 2053, Volumenstrom-Prüfung, CO-Messsensor je Zone, Schwellenwert 30 ppm
 5. Brandschutz: Sprinkler oder Rauchabzug je Parkebene nach DIN 18232, Fluchtwegsicherung
 6. Weisse Wanne Tiefgarage: WU-Beton C25/30 WU nach DAfStb-Richtlinie, Rissbreite max. 0.2 mm
 

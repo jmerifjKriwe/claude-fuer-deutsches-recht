@@ -149,7 +149,7 @@ Nach Brexit mussten UK-Schutze neu beantragt werden (UKIPO). Subsequent Designat
 
 Bevor die internationale Registrierung beantragt wird, klaere:
 1. Ist die Basismarke eingetragen (nicht nur angemeldet) und unangreifbar für die naechsten 5 Jahre (Central Attack Period)?
-2. Sind die Ziellaender alle Madrid-Protokoll-Mitglieder (WIPO-Liste pruefen)?
+2. Sind die Ziellaender alle Madrid-Protokoll-Mitglieder (WIPO-Liste prüfen)?
 3. Ist das Warenverzeichnis der Basismarke mit den Ziellaendern kompatibel (insb. USA: SOU-Erfordernis)?
 4. Gibt es eine Section 66(a)-Designation für die USA — und ist US-Gebrauch belegt oder geplant?
 
@@ -159,4 +159,4 @@ Bevor die internationale Registrierung beantragt wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EUIPO BoA, Entsch. v. 23.05.2018 — R 1511/2017-5 (Transformation Madrid):** Bei Central Attack und anschliessender Transformation gemaess Art. 9quinquies PMMA bleibt der urspruengliche IR-Anmeldetag als Prioritaetsdatum erhalten; die Transformation ist fristgebunden (3 Monate nach IR-Streichung) und erfordert aktives Handeln des Rechteinhabers.
+> **EUIPO BoA, Entsch. v. 23.05.2018 — R 1511/2017-5 (Transformation Madrid):** Bei Central Attack und anschliessender Transformation gemäß Art. 9quinquies PMMA bleibt der urspruengliche IR-Anmeldetag als Prioritaetsdatum erhalten; die Transformation ist fristgebunden (3 Monate nach IR-Streichung) und erfordert aktives Handeln des Rechteinhabers.

@@ -5,7 +5,7 @@ description: "Verfassungsrechtliche Bestimmtheits- und Normklarheitsanforderunge
 
 # Bestimmtheit und Normklarheit
 
-> Eingriffsgesetze muessen so klar sein, dass Buerger ihr Verhalten an ihnen ausrichten und Gerichte sie rechtssicher anwenden koennen. Diese Anforderung ist Vorfrage jeder Verhaeltnismaessigkeitspruefung.
+> Eingriffsgesetze müssen so klar sein, dass Buerger ihr Verhalten an ihnen ausrichten und Gerichte sie rechtssicher anwenden können. Diese Anforderung ist Vorfrage jeder Verhaeltnismaessigkeitspruefung.
 
 ## Dogmatische Verortung
 
@@ -15,7 +15,7 @@ description: "Verfassungsrechtliche Bestimmtheits- und Normklarheitsanforderunge
 
 ## Drei Anforderungen
 
-1. **Tatbestandsbestimmtheit** – Eingriffsvoraussetzungen muessen erkennbar sein.
+1. **Tatbestandsbestimmtheit** – Eingriffsvoraussetzungen müssen erkennbar sein.
 2. **Eingriffsbestimmtheit** – Reichweite des Eingriffs (Wer? Wofuer? Wie lange? Welche Daten?).
 3. **Normklarheit** – Aufbau und Sprache der Norm so, dass sie verstaendlich ist.
 

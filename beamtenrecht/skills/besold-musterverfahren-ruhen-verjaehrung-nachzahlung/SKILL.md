@@ -15,7 +15,7 @@ description: "Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung im Bea
 
 ## Hintergrund
 
-Bei verfassungswidriger Besoldung gibt es Musterverfahren am BVerfG. Andere Beamte koennen sich anschliessen.
+Bei verfassungswidriger Besoldung gibt es Musterverfahren am BVerfG. Andere Beamte können sich anschliessen.
 
 ## Mustererfahren-Anschluss
 

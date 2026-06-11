@@ -59,7 +59,7 @@ Automatisierungs-Tools für die Anonymisierung entwickeln sich rasch weiter. Die
 ## Triage zu Beginn
 1. Handelt es sich um echte Anonymisierung oder nur Pseudonymisierung — besteht ein Zuordnungsschluessel?
 2. Welche Datenkategorien sind betroffen — besondere Kategorien nach Art. 9 DSGVO?
-3. Ist ein Re-Identifikationsrisiko durch Kombination verbleibender Merkmale (Branche, Ort, Umstaende) moeglich?
+3. Ist ein Re-Identifikationsrisiko durch Kombination verbleibender Merkmale (Branche, Ort, Umstaende) möglich?
 4. Wird das Dokument in einem KI-System mit Training verarbeitet — besteht Risiko des Modell-Memorizings?
 5. Ist der Anonymisierungsprozess dokumentiert und vieraugengeprueft?
 

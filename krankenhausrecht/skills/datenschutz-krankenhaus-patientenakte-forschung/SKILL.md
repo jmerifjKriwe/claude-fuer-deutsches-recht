@@ -41,9 +41,9 @@ Patientendaten sind besonders schutzwuerdig (Art. 9 DSGVO Gesundheitsdaten). Im 
 1. **Rechtsgrundlage je Verarbeitung:** Art. 6/9 DSGVO; Behandlung Art. 9 Abs. 2 lit. h; Forschung Art. 9 Abs. 2 lit. j + § 27 BDSG; Abrechnung gesetzliche Pflicht.
 2. **Patienteninformation Art. 13/14 DSGVO:** Verstaendlich, schriftlich, für jeden Hauptzweck.
 3. **Einwilligungen separat:** Behandlung (gesetzlich nicht erforderlich), Forschung (i. d. R. erforderlich), Werbung/Sekundaerzweck.
-4. **AVV bei Auftragsverarbeitung** (Cloud, IT, KI-Anbieter): Inhalt § 28 DSGVO; technische und organisatorische Massnahmen.
+4. **AVV bei Auftragsverarbeitung** (Cloud, IT, KI-Anbieter): Inhalt § 28 DSGVO; technische und organisatorische Maßnahmen.
 5. **Patientenakte/Einsichtsrecht:** §§ 630g BGB, Art. 15 DSGVO; unverzueglich, ggf. Gebuehr für Kopien.
-6. **Forschungsprojekt:** Konzept, Ethikkommission, DSGVO-Pruefung, Pseudonymisierung/Anonymisierung.
+6. **Forschungsprojekt:** Konzept, Ethikkommission, DSGVO-Prüfung, Pseudonymisierung/Anonymisierung.
 7. **Datenpanne:** Innerhalb 72h Meldung Aufsicht (Art. 33), bei hohem Risiko Betroffene informieren (Art. 34).
 
 ## Trade-off-Matrix
@@ -51,7 +51,7 @@ Patientendaten sind besonders schutzwuerdig (Art. 9 DSGVO Gesundheitsdaten). Im 
 | Vorhaben | Rechtsgrundlage | Risiko |
 |---|---|---|
 | Behandlung | Art. 9 Abs. 2 lit. h DSGVO | niedrig, Information noetig |
-| Abrechnung | gesetzliche Pflicht | Sozialdatenschutz pruefen |
+| Abrechnung | gesetzliche Pflicht | Sozialdatenschutz prüfen |
 | Qualitaetssicherung | Art. 9 Abs. 2 lit. h/i | Pseudonymisierung empfohlen |
 | Forschung | Einwilligung / § 27 BDSG | Ethikkommission, DSFA |
 | KI-Diagnose | Art. 6/9, ggf. DSFA | sektorale Risiken |
@@ -70,7 +70,7 @@ Patientendaten sind besonders schutzwuerdig (Art. 9 DSGVO Gesundheitsdaten). Im 
 > Verantwortlich: [Klinik]. Zwecke: Behandlung, Abrechnung, Qualitaetssicherung. Rechtsgrundlagen: Art. 9 Abs. 2 lit. h DSGVO; gesetzliche Pflichten. Empfaenger: Kassen, MD, Aufsichtsbehoerden. Rechte: Auskunft, Berichtigung, Loeschung (eingeschraenkt), Beschwerde. Datenschutzbeauftragter: …
 
 **Datenpanne-Meldung (Skizze):**
-> An Landesdatenschutzbeauftragten. Wir melden gemaess Art. 33 DSGVO eine Datenpanne. Ereignis: [Datum/Zeit]. Betroffene: [Anzahl]. Daten: [Kategorien]. Ursache: …. Massnahmen: …. Ansprechpartner: …
+> An Landesdatenschutzbeauftragten. Wir melden gemäß Art. 33 DSGVO eine Datenpanne. Ereignis: [Datum/Zeit]. Betroffene: [Anzahl]. Daten: [Kategorien]. Ursache: …. Maßnahmen: …. Ansprechpartner: …
 
 ## Typische Fehler
 - AVV fehlt oder ist unvollstaendig.

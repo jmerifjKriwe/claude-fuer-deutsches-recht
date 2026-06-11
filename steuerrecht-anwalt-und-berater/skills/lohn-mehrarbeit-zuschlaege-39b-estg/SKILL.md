@@ -73,7 +73,7 @@ Wenn tariflich oder einzelvertraglich hoehere Zuschlaege vereinbart sind, bleibt
 - Sonntag: 0:00-24:00 Uhr.
 - Feiertag: gesetzlicher Feiertag, oft Landesrecht.
 - Nacht: 20:00-6:00 Uhr (steuerlich); ArbZG sieht 23:00-6:00 Uhr.
-- Bei Schichten ueber Mitternacht: Trennung nach Schichtanteilen.
+- Bei Schichten über Mitternacht: Trennung nach Schichtanteilen.
 
 ### Phase 4 — Dokumentation
 
@@ -87,18 +87,18 @@ Wenn tariflich oder einzelvertraglich hoehere Zuschlaege vereinbart sind, bleibt
 - Schichtcode in DATEV LODAS hinterlegen.
 - Automatische Zuschlag-Berechnung.
 - LSt-Freiheit und SV-Freiheit automatisch berechnet.
-- Pruefung: Plausibilitaet bei hohen Zuschlagsanteilen (>50 Prozent des Lohns).
+- Prüfung: Plausibilitaet bei hohen Zuschlagsanteilen (>50 Prozent des Lohns).
 
 ### Phase 6 — Steuerliche Risiken
 
 - Bei Ueberschreitung der Hoechstsaetze: Nachversteuerung.
 - Bei fehlender Dokumentation: gesamter Zuschlag steuerpflichtig.
-- Bei Pruefung durch Lohnsteuer-Aussenpruefer: Stichproben.
+- Bei Prüfung durch Lohnsteuer-Aussenpruefer: Stichproben.
 
 ## Strategie und Praxis-Tipps
 
 - § 3b EStG ist generoes — bis zu 50 Prozent Sonntagszuschlag steuer- und SV-frei.
-- Bei tarifgebundenen Branchen hoehere Saetze moeglich, aber nur bis Hoechstsatz steuerfrei.
+- Bei tarifgebundenen Branchen hoehere Saetze möglich, aber nur bis Hoechstsatz steuerfrei.
 - Bei Nachtarbeit zusaetzlich ArbZG-Pflichten (Pausen, Gesundheitsuntersuchung).
 - Grundlohn-Grenze 50 EUR/Stunde für Topverdiener relevant.
 - StBVV: in Lohnpauschale; komplexe Schichten Zeithonorar.

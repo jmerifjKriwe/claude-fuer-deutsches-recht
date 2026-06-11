@@ -52,7 +52,7 @@ description: "Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheits
 - **BGH 08.10.2020, VII ZR 26/20**: Auftraggeber kann bei Mangel auch dann den zur Mangelbeseitigung erforderlichen Betrag als Vorschuss verlangen, wenn die Mangelbeseitigung nicht durchgefuehrt wird; spaetere Abrechnungspflicht. Quelle: dejure.org/2020,30144
 - **BGH 19.01.2017, VII ZR 301/13** (gemeinsamer Senat zur kaufrechtlichen Anspruchsmehrheit): Klargestellt, dass Werkvertragsrecht eigenstaendige Mangel-Systematik beibehaelt. Quelle: dejure.org/2017,1071
 
-Weitere Entscheidungen vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit Aktenzeichen verifizieren.
+Weitere Entscheidungen vor Ausgabe über dejure.org / bundesgerichtshof.de mit Aktenzeichen verifizieren.
 
 ## Prüfschema — Mängelrecht (Schritt für Schritt)
 
@@ -143,11 +143,11 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Werkmangel pruefen und Rechte sichern | Mangelruegeschreiben nach Template unten |
+| Standard — Werkmangel prüfen und Rechte sichern | Mangelruegeschreiben nach Template unten |
 | Variante A — Nacherfuellung bereits gescheitert | Sekundaerrechte (Minderung/Schadensersatz) geltend machen |
 | Variante B — Selbstvornahme § 637 BGB noetig | Kostenvorschussklage sofort; Fristsetzung sorgfaeltig |
 | Variante C — Architekt ebenfalls verantwortlich | Gesamtschuldnerklage gegen AN und Architekt kombinieren |
@@ -200,7 +200,7 @@ Mit freundlichen Grüßen
 [KANZLEI]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -225,4 +225,4 @@ Mit freundlichen Grüßen
 <!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
 <!-- VII ZR 17/02 (behauptet 18.07.2002, NJW 2003, 200): NOT_FOUND auf dejure.org — ersetzt durch VII ZR 181/00 (09.01.2003, NJW 2003, 1188), verifiziert auf dejure.org -->
 <!-- VII ZR 119/10 (behauptet NJW 2013, 1670, Thema: Selbstvornahme): WRONG_TOPIC — real: Nachbesserungsverlangen vor Abnahme / Art der Maengelbeseitigung, NJW 2013, 1528, verifiziert auf dejure.org/2013,7541 — korrigiert -->
-<!-- UPDATE 05/2026: BGH VII ZR 46/17 (22.02.2018), VII ZR 26/20 (08.10.2020), VII ZR 301/13 (19.01.2017) ergaenzt — alle verifiziert ueber dejure.org / BGHZ 218,1 -->
+<!-- UPDATE 05/2026: BGH VII ZR 46/17 (22.02.2018), VII ZR 26/20 (08.10.2020), VII ZR 301/13 (19.01.2017) ergaenzt — alle verifiziert über dejure.org / BGHZ 218,1 -->

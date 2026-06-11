@@ -9,7 +9,7 @@ Schnelles Erkenntnisverfahren für Geldforderungen, die durch Urkunden belegt si
 
 ## Anwendungsbereich § 592 ZPO
 
-Klage auf Zahlung einer **bestimmten Geldsumme** oder Sicherheitsleistung, wenn alle anspruchsbegruendenden Tatsachen durch **Urkunden** bewiesen werden koennen.
+Klage auf Zahlung einer **bestimmten Geldsumme** oder Sicherheitsleistung, wenn alle anspruchsbegruendenden Tatsachen durch **Urkunden** bewiesen werden können.
 
 | Geeignete Forderungstypen | Begruendung |
 |---|---|
@@ -17,7 +17,7 @@ Klage auf Zahlung einer **bestimmten Geldsumme** oder Sicherheitsleistung, wenn 
 | Scheckforderung | Urkunde direkt |
 | Schuldschein, abstraktes Schuldanerkenntnis | Urkundsbeweis komplett |
 | Notarielle Schuldverpflichtung | Urkundsbeweis komplett |
-| Mietforderung mit unterzeichnetem Mietvertrag | Vertrag + Kontoauszug genuegen |
+| Mietforderung mit unterzeichnetem Mietvertrag | Vertrag + Kontoauszug genügen |
 | Werkvertrag mit unterschriebenem Abnahmeprotokoll | wenn Abnahme urkundlich + Rechnung |
 | Darlehensrueckforderung | Darlehensvertrag + Kontoauszug |
 | Kaufpreisforderung mit unterzeichneter Auftragsbestaetigung | wenn keine Mengenstreitigkeit |
@@ -25,7 +25,7 @@ Klage auf Zahlung einer **bestimmten Geldsumme** oder Sicherheitsleistung, wenn 
 **Ungeeignet:**
 - Schadensersatzansprueche (Beweis durch Zeugen).
 - Werklohn mit Maengelruege (Maengel mit Zeugen/Sachverstaendigen).
-- Streit ueber Vertragsschluss/Vertretungsmacht ohne urkundlichen Nachweis.
+- Streit über Vertragsschluss/Vertretungsmacht ohne urkundlichen Nachweis.
 
 ## Pflichtinhalte Klageschrift § 593 ZPO
 
@@ -44,7 +44,7 @@ nebst Zinsen ... aus dem Wechsel vom 15.02.2026 zu zahlen.
 
 ## Beweismittel-Beschraenkung § 595 ZPO
 
-| Klaeger | Beklagter |
+| Kläger | Beklagter |
 |---|---|
 | Urkundsbeweise | Urkundsbeweise |
 | Parteivernehmung § 445 ZPO | Parteivernehmung § 445 ZPO |
@@ -54,10 +54,10 @@ nebst Zinsen ... aus dem Wechsel vom 15.02.2026 zu zahlen.
 
 ## Vorbehaltsurteil § 599 ZPO
 
-Wenn Klaeger durchdringt, ergeht **Vorbehaltsurteil**:
+Wenn Kläger durchdringt, ergeht **Vorbehaltsurteil**:
 - Beklagter wird zur Zahlung verurteilt.
 - Vorbehalt: Bekl. kann seine Rechte im Nachverfahren geltend machen.
-- **Vorlaeufig vollstreckbar ohne Sicherheit** (§ 708 Nr. 4 ZPO) → grosser Vorteil.
+- **Vorlaeufig vollstreckbar ohne Sicherheit** (§ 708 Nr. 4 ZPO) → großer Vorteil.
 
 ## Nachverfahren § 600 ZPO
 
@@ -77,11 +77,11 @@ Wenn Klaeger durchdringt, ergeht **Vorbehaltsurteil**:
 | Klare Urkundslage | Beweisstreit durch Zeugen |
 | Forderung > AG-Grenze und LG-Verfahren ohnehin | Geringer Streitwert, MB billiger |
 | Vorlaeufige Vollstreckung wichtig | Vergleichsfaehigkeit erwartet |
-| B2B-Geschaeft mit unterschriebenem Vertrag | Verbrauchersache mit AGB-Streit |
+| B2B-Geschäft mit unterschriebenem Vertrag | Verbrauchersache mit AGB-Streit |
 
 ## Wahlrecht des Klaegers § 596 ZPO
 
-Klaeger kann **jederzeit** vom Urkundenprozess in Regelverfahren wechseln (Klagebezeichnung weglassen). Beklagter hat das Wahlrecht **nicht** (nur Nachverfahren beantragen).
+Kläger kann **jederzeit** vom Urkundenprozess in Regelverfahren wechseln (Klagebezeichnung weglassen). Beklagter hat das Wahlrecht **nicht** (nur Nachverfahren beantragen).
 
 ## Zuständigkeit
 
@@ -93,7 +93,7 @@ Wie normale Zahlungsklage:
 
 | Kriterium | Urkundenprozess | Mahnverfahren |
 |---|---|---|
-| Beweismittel-Pruefung | ja, Urkunden | nein, formal |
+| Beweismittel-Prüfung | ja, Urkunden | nein, formal |
 | Bei Bestreiten | Vorbehaltsurteil + Nachverfahren | Streitiges Verfahren |
 | Geschwindigkeit | sehr schnell | sehr schnell ohne Widerspruch |
 | Anwaltszwang LG | ja | nein |

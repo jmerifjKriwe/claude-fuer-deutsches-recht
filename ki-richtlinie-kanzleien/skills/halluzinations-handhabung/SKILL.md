@@ -23,13 +23,13 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Halluzinations-Pruefprotokoll für KI-Output erstellen | Pruefprotokoll nach Schema; Template unten |
 | Variante A — Halluzination in bereits versandtem Dokument | Fehlerkorrektur-Protokoll; Mandant sofort informieren |
-| Variante B — Pruefung nicht moeglich keine Originalquellen | Quellenangaben-Luecke dokumentieren; Vorbehalt in Dokument |
+| Variante B — Prüfung nicht möglich keine Originalquellen | Quellenangaben-Luecke dokumentieren; Vorbehalt in Dokument |
 | Variante C — Routinemäßige Qualitaetssicherung kein Einzelfall | Systematisches Pruefverfahren einrichten; Checkliste standardisieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -45,7 +45,7 @@ Schriftsätze, die unter wesentlicher Mitwirkung von KI-Systemen erstellt wurden
 **Baustein Dokumentationsprotokoll:**
 Für jeden Schriftsatz oder jede Beratungsunterlage, bei der KI-Systeme wesentlich mitgewirkt haben, wird ein Prüfprotokoll angelegt mit folgenden Angaben: Datum der Prüfung, Name der prüfenden Person, geprüfte Fundstellen und Verifikationsquelle, Ergebnis der Prüfung.
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

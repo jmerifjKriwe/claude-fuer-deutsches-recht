@@ -22,9 +22,9 @@ description: "Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sa
 ## Erste Schritte
 
 1. Legal-Hold-Anordnung formulieren und an IT, Compliance, Archiv und betroffene Abteilungen senden.
-2. Datenkategorien definieren: ATLAS-Daten, ERP-Exportmodule, E-Mails, Vertraege, EUC, Sanktionsscreening-Logs.
+2. Datenkategorien definieren: ATLAS-Daten, ERP-Exportmodule, E-Mails, Verträge, EUC, Sanktionsscreening-Logs.
 3. Technische Sicherungsmassnahmen einrichten: Backup-Stopp für relevante Datenbereiche.
-4. DSGVO-Rechtsgrundlage für Datensicherung pruefen (Art. 6 Abs. 1 lit. c für gesetzliche Pflicht).
+4. DSGVO-Rechtsgrundlage für Datensicherung prüfen (Art. 6 Abs. 1 lit. c für gesetzliche Pflicht).
 5. Bei US-eDiscovery: Datenschutzkonforme Transfer-Grundlage beachten (SCCs, DSGVO Art. 49).
 6. Protokollierung der gesicherten Datenbestaende mit Hash-Werten für Integritaetssicherung.
 

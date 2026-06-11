@@ -14,7 +14,7 @@ description: "Pruefung und Verteidigung einer umsatzsteuerlichen Organschaft —
 ## Triage — kläre vor der Bearbeitung
 
 1. Sind alle drei Eingliederungsmerkmale (finanziell wirtschaftlich organisatorisch) erfuellt?
-2. Wer ist Organtraeger nach aktueller EuGH-Rechtsprechung — Personengesellschaft moeglich?
+2. Wer ist Organtraeger nach aktueller EuGH-Rechtsprechung — Personengesellschaft möglich?
 3. Welche Umsaetze sind Innenumsaetze und damit nicht steuerbar?
 4. Folgen einer (Drohenden) Insolvenz der Organgesellschaft — Beendigung der Organschaft?
 5. Haftung Organtraeger § 73 AO für Steuern der Organgesellschaft?

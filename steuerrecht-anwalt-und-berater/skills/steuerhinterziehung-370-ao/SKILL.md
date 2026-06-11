@@ -13,7 +13,7 @@ description: "Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerv
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Welcher Tatbestand des § 370 Abs. 1 AO wird vorgeworfen (unrichtige Angaben Unterlassen pflichtwidrige Angabe ueber Verwendung steuerlich erheblicher Belege)?
+1. Welcher Tatbestand des § 370 Abs. 1 AO wird vorgeworfen (unrichtige Angaben Unterlassen pflichtwidrige Angabe über Verwendung steuerlich erheblicher Belege)?
 2. Ist Vorsatz (dolus eventualis genuegt) hinreichend belegt?
 3. Wurde Steuer verkuerzt oder nicht gerechtfertigter Vorteil erlangt?
 4. Liegt ein besonders schwerer Fall § 370 Abs. 3 AO vor (Sechs-Stellen-Verkuerzung Bandenmaessig Verschleierung)?

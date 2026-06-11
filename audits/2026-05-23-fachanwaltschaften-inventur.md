@@ -16,7 +16,7 @@
   - fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft
   - fachanwalt-bank-kapitalmarktrecht-kreditkuendigung
   - fachanwalt-bank-kapitalmarktrecht-schufa-eintrag
-  - anlageberatungsfehler-pruefen
+  - anlageberatungsfehler-prüfen
   - mandat-triage-bank-kapitalmarktrecht
   - widerrufsjoker-immobiliendarlehen
 ## fachanwalt-bau-architektenrecht
@@ -92,7 +92,7 @@
   - fachanwalt-migrationsrecht-aufenthaltstitel-antrag
   - fachanwalt-migrationsrecht-abschiebungsabwehr
   - fachanwalt-migrationsrecht-einbuergerung
-  - aufenthaltstitel-pruefung
+  - aufenthaltstitel-prüfung
   - mandat-triage-migrationsrecht
   - asyl-anhoerung-vorbereiten
 ## fachanwalt-sozialrecht
@@ -126,7 +126,7 @@
   - fachanwalt-transport-speditionsrecht-cmr-haftung
   - fachanwalt-transport-speditionsrecht-ladungsschaden
   - fachanwalt-transport-speditionsrecht-lieferverzug
-  - frachtfuehrerhaftung-pruefen
+  - frachtfuehrerhaftung-prüfen
   - mandat-triage-transport-speditionsrecht
   - reklamationsschreiben-cmr-hgb
 ## fachanwalt-urheber-medienrecht
@@ -154,7 +154,7 @@
   - unfall-haftungsquote-berechnen
   - bussgeld-einspruch-pruefen
 ## fachanwalt-versicherungsrecht
-  - deckungsanfrage-pruefen
+  - deckungsanfrage-prüfen
   - fachanwalt-versicherungsrecht-orientierung
   - fachanwalt-versicherungsrecht-leistungsablehnung-pruefen
   - fachanwalt-versicherungsrecht-deckungsklage

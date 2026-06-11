@@ -9,7 +9,7 @@ description: Stufe 3 der Verhaeltnismaessigkeit Erforderlichkeit als Suche nach 
 
 Das Mittel ist **erforderlich**, wenn es kein milderes Mittel gibt,
 das den Zweck mit **gleicher Effektivitaet** erreicht. Beide Bedingungen
-muessen kumulativ erfuellt sein.
+müssen kumulativ erfuellt sein.
 
 ## Pruefraster
 
@@ -28,7 +28,7 @@ effektiv als ein Verbot, schliesst das Verbot deshalb nicht aus.
 
 ## Milderes Mittel
 
-Beispiele fuer milderes Mittel:
+Beispiele für milderes Mittel:
 - Erlaubnisvorbehalt statt Verbot.
 - Beratungsregel statt Sanktion.
 - Anzeigepflicht statt Genehmigungspflicht.

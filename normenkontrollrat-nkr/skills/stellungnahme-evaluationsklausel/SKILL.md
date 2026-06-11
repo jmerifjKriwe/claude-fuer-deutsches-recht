@@ -71,7 +71,7 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 
 ### Argumentationsbausteine
 
-- "Eine Evaluierungsklausel ist angesichts der Hoehe des Erfuellungsaufwands und der Wirksamkeitsunsicherheit aus Sicht des NKR geboten."
+- "Eine Evaluierungsklausel ist angesichts der Höhe des Erfuellungsaufwands und der Wirksamkeitsunsicherheit aus Sicht des NKR geboten."
 - "Die Evaluierung soll insbesondere belegen, ob die [angenommene] Fallzahl und der [angenommene] Erfuellungsaufwand tatsaechlich erreicht werden."
 - "Die Indikatoren sollen so gewaehlt sein, dass eine spaetere Anpassung des Gesetzes auf einer methodisch tragfaehigen Datengrundlage erfolgen kann."
 
@@ -79,7 +79,7 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 
 > *§ [X] Evaluierung*
 >
-> *(1) Das Bundesministerium [Federfuehrer] berichtet dem Deutschen Bundestag bis zum [TT.MM.JJJJ] ueber die Anwendung und Wirksamkeit dieses Gesetzes.*
+> *(1) Das Bundesministerium [Federfuehrer] berichtet dem Deutschen Bundestag bis zum [TT.MM.JJJJ] über die Anwendung und Wirksamkeit dieses Gesetzes.*
 >
 > *(2) Der Bericht enthaelt insbesondere Aussagen zu*
 > *1. der tatsaechlichen Fallzahl der nach diesem Gesetz Verpflichteten,*
@@ -104,4 +104,4 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 - Konzept zur Evaluierung neuer Regelungsvorhaben der Bundesregierung (jeweils aktuelle Fassung)
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

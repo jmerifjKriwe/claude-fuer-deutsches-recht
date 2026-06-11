@@ -3,7 +3,7 @@ name: migr-fachkraefteeinwanderung-praxis
 description: "Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung: Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Erstaufen..."
 ---
 
-# Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung
+# Fachkraefteeinwanderung in der Praxis: Schritte vom Visum über Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Er
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung. Pruefraster und typische Stolpersteine.
+**Fokus:** Fachkraefteeinwanderung in der Praxis: Schritte vom Visum über Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung. Pruefraster und typische Stolpersteine.
 
 ### Migr: Fachkraefte-Praxis
 
@@ -27,7 +27,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
@@ -36,7 +36,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext

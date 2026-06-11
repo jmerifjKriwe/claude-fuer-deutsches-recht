@@ -129,11 +129,11 @@ Wenn ein Gutachter erscheint:
 
 - Frueh aufstehen
 - Bequem anziehen, aber ordentlich
-- Verpflegung (Sozialgerichts-Verfahren koennen lange dauern)
+- Verpflegung (Sozialgerichts-Verfahren können lange dauern)
 - Wasserflasche
 - Notebook / Papier für Notizen waehrend Termin
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Ehrlichkeit**: Falsche Angaben werden bemerkt und schaden Ihrer Glaubwuerdigkeit.
 - **Konkretheit**: "Ich brauche taeglich 90 Minuten Hilfe" ist konkret.

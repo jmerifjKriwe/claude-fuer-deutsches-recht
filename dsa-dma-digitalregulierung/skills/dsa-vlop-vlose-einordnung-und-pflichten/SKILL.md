@@ -7,7 +7,7 @@ description: "VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchma
 
 ## Arbeitsbereich
 
-VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation Kommission), Art. 24 Abs. 3 (Meldepflicht halbjaeehrlich), Art. 34-43 (Pflichtenkatalog: Risikobewertung, Audits, Compliance-Funktion, Transparenz, Werbung, Empfehlungssysteme, Forschungsdatenzugang, Krisenmechanismus). Prüfraster: 45 Mio. monatlich aktive Nutzer Schwelle, Meldepflicht, Pflichtenkatalog je Art. Output Designation-Prüfschema, Compliance-Roadmap. Abgrenzung: Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste; Art. 34 Risikobewertung siehe dsa-art-34-systemische-risikobewertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+VLOP (sehr große Online-Plattform) oder VLOSE (sehr große Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation Kommission), Art. 24 Abs. 3 (Meldepflicht halbjaeehrlich), Art. 34-43 (Pflichtenkatalog: Risikobewertung, Audits, Compliance-Funktion, Transparenz, Werbung, Empfehlungssysteme, Forschungsdatenzugang, Krisenmechanismus). Prüfraster: 45 Mio. monatlich aktive Nutzer Schwelle, Meldepflicht, Pflichtenkatalog je Art. Output Designation-Prüfschema, Compliance-Roadmap. Abgrenzung: Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste; Art. 34 Risikobewertung siehe dsa-art-34-systemische-risikobewertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -89,11 +89,11 @@ Stand 2026: bereits designiert sind u.a. mehrere große soziale Netzwerke, Video
 
 ## Faktische Updates (Stand 05/2026)
 
-- **VLOP/VLOSE-Designation-Liste der Kommission:** Aktuelle Liste der designierten sehr grossen Online-Plattformen / Suchmaschinen live ueber digital-strategy.ec.europa.eu/en/policies/dsa-very-large-online-platforms-and-search-engines pruefen. Stand 2026: mehrere Tranchen designiert (soziale Netzwerke, Marktplaetze, Videoplattformen, App-Stores, Suchmaschinen, Pornoportale, Reiseplattformen).
-- **Art. 40 DSA — Forschungsdatenzugang:** Delegierter Rechtsakt zum Forschungsdatenzugang (Art. 40 Abs. 13 DSA) ist im Verfahren / in Kraft (live pruefen ueber eur-lex.europa.eu). Vetted-researcher-Verfahren wird vom Digital Services Coordinator (DSC) am Sitzstaat administriert.
-- **Art. 37 DSA — Audits:** Delegierte VO (EU) 2023/2832 ueber unabhaengige Audits ist anwendbar; Auditoren benoetigen fachliche Kompetenz, Unabhaengigkeit, ethische Standards. Audit-Methodik ISA / IFAC-Anlehnung empfohlen.
-- **EuG- und EuGH-Linie zu DSA-Designation:** Mehrere VLOPs haben gegen die Designation und gegen die Aufsichtsgebuehr Klage beim EuG erhoben (Art. 263 AEUV). Konkrete Aktenzeichen und Verfahrensstand live pruefen ueber curia.europa.eu (Suche "DSA" / "VLOP").
-- **DSA-Sanktionen:** Erste Bussgeldentscheidungen der Kommission gegen VLOPs sind moeglich; Verfahren live ueber digital-strategy.ec.europa.eu sowie EU-Amtsblatt pruefen.
+- **VLOP/VLOSE-Designation-Liste der Kommission:** Aktuelle Liste der designierten sehr großen Online-Plattformen / Suchmaschinen live über digital-strategy.ec.europa.eu/en/policies/dsa-very-large-online-platforms-and-search-engines prüfen. Stand 2026: mehrere Tranchen designiert (soziale Netzwerke, Marktplaetze, Videoplattformen, App-Stores, Suchmaschinen, Pornoportale, Reiseplattformen).
+- **Art. 40 DSA — Forschungsdatenzugang:** Delegierter Rechtsakt zum Forschungsdatenzugang (Art. 40 Abs. 13 DSA) ist im Verfahren / in Kraft (live prüfen über eur-lex.europa.eu). Vetted-researcher-Verfahren wird vom Digital Services Coordinator (DSC) am Sitzstaat administriert.
+- **Art. 37 DSA — Audits:** Delegierte VO (EU) 2023/2832 über unabhaengige Audits ist anwendbar; Auditoren benoetigen fachliche Kompetenz, Unabhaengigkeit, ethische Standards. Audit-Methodik ISA / IFAC-Anlehnung empfohlen.
+- **EuG- und EuGH-Linie zu DSA-Designation:** Mehrere VLOPs haben gegen die Designation und gegen die Aufsichtsgebuehr Klage beim EuG erhoben (Art. 263 AEUV). Konkrete Aktenzeichen und Verfahrensstand live prüfen über curia.europa.eu (Suche "DSA" / "VLOP").
+- **DSA-Sanktionen:** Erste Bussgeldentscheidungen der Kommission gegen VLOPs sind möglich; Verfahren live über digital-strategy.ec.europa.eu sowie EU-Amtsblatt prüfen.
 - **DSC in Deutschland:** Federfuehrend ist die Bundesnetzagentur (Digital Services Coordinator) nach DDG (Digitale-Dienste-Gesetz), Koordinierungsmechanismen mit BfDI, KJM, Landesmedienanstalten geregelt. Quelle: bundesnetzagentur.de.
 
 ## Zentrale Normen (Paragrafenkette)

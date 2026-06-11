@@ -46,14 +46,14 @@ Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begl
 - **BVerwG 09.02.2017, 7 A 2.15** (Elbvertiefung): Anforderungen an FFH-Vertraeglichkeitspruefung. Quelle: bverwg.de.
 - **EuGH 28.05.2020, C-535/18** (IL u.a.): UVP-Richtlinie 2011/92/EU; öffentliche Beteiligung; sektoraler Schutz. Quelle: curia.europa.eu.
 
-**Gesetzeslage 2026:** LNG-Beschleunigungsgesetz und Planungsbeschleunigungsgesetze (Genehmigungsbeschleunigungsgesetz Energie BGBl. I 2023 S. 1565); Wind-an-Land-Gesetz (BGBl. I 2022 S. 1353); Solarpaket I (BGBl. I 2024). Vor Mandatsanwendung aktuellen Stand pruefen.
+**Gesetzeslage 2026:** LNG-Beschleunigungsgesetz und Planungsbeschleunigungsgesetze (Genehmigungsbeschleunigungsgesetz Energie BGBl. I 2023 S. 1565); Wind-an-Land-Gesetz (BGBl. I 2022 S. 1353); Solarpaket I (BGBl. I 2024). Vor Mandatsanwendung aktuellen Stand prüfen.
 
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-1. **Mandantenrolle klaeren:** Vorhabentraeger, Betroffener, Verband — unterschiedliche Rechte und Pflichten.
-2. **Fristen pruefen:** Auslegungsfrist (§ 73 Abs. 2 VwVfG); Einwendungsfrist 6 Wochen (§ 73 Abs. 4 VwVfG).
+1. **Mandantenrolle klären:** Vorhabentraeger, Betroffener, Verband — unterschiedliche Rechte und Pflichten.
+2. **Fristen prüfen:** Auslegungsfrist (§ 73 Abs. 2 VwVfG); Einwendungsfrist 6 Wochen (§ 73 Abs. 4 VwVfG).
 3. **Einwendung formulieren:** Konkrete betroffene Belange (Laerm, Eigentumseingriff, Wertminderung, Artenschutz); ohne Praeklusion riskieren.
 4. **Eroerrterungstermin vorbereiten:** § 73 Abs. 6 VwVfG; muendliche Vertiefung der Einwendungen.
 5. **Planfeststellungsbeschluss erhalten und prufen:** Abwaegungsfehler? Nebenbestimmungen korrekt?
@@ -76,12 +76,12 @@ Planfeststellungsbeschluss erlassen?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Einwendungsschreiben gegen Planfeststellungsbeschluss | Einwendung nach Schema; Template unten |
-| Variante A — Einwendungsfrist bereits abgelaufen Praeklusion | Nachholung der Einwendung nicht moeglich; andere Rechtsmittel pruefen |
+| Variante A — Einwendungsfrist bereits abgelaufen Praeklusion | Nachholung der Einwendung nicht möglich; andere Rechtsmittel prüfen |
 | Variante B — Mandant ist Traeger öffentlicher Belange | Einwendung als ToEB; anderes Gewicht und Verfahren |
 | Variante C — Planfeststellung hat UVP-Fehler | UVP-Fehler-Ruege als staerkster Angriffspunkt |
 
@@ -112,7 +112,7 @@ Wir beantragen: [Planänderung / Auflagen / Entschaedigung].
 [NAME] [DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -126,6 +126,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Harte Leitplanken
 
 - Einwendungsfrist 6 Wochen streng beachten — Praeklusion ist absolut.
-- Einwendungen muessen konkret und auf eigene Betroffenheit bezogen sein.
+- Einwendungen müssen konkret und auf eigene Betroffenheit bezogen sein.
 - Klagebefugnis nach § 42 Abs. 2 VwGO muss sorgfaeltig begruendet werden.
 - Anwaltliche Endkontrolle bei allen Fristen und Einwendungen.

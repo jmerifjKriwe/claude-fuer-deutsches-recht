@@ -20,7 +20,7 @@ description: "Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnun
 
 ## Mindestabstandsschwelle
 
-- 15 Prozent ueber dem Existenzminimum-Niveau einer **vierkoepfigen Familie** (zwei Erwachsene, zwei Kinder) auf Besoldungsstufe A 4 / Endstufe.
+- 15 Prozent über dem Existenzminimum-Niveau einer **vierkoepfigen Familie** (zwei Erwachsene, zwei Kinder) auf Besoldungsstufe A 4 / Endstufe.
 
 ## Berechnung Existenzminimum
 

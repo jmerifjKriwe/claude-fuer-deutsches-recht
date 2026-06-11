@@ -110,11 +110,11 @@ MITTELVERWENDUNG:
 - Ausschuettung an Gesellschafter
 ```
 
-### Phase 5 — Saldo und Pruefung
+### Phase 5 — Saldo und Prüfung
 
 - Saldo Mittelherkunft minus Mittelverwendung = Veraenderung liquide Mittel.
 - Gegencheck: Veraenderung Bank-Konten in SuSa muss matchen.
-- Differenz zeigt Fehler in der Aufstellung — pruefen.
+- Differenz zeigt Fehler in der Aufstellung — prüfen.
 
 ### Phase 6 — Erlaeuterung und Versand
 
@@ -128,7 +128,7 @@ MITTELVERWENDUNG:
 - Banken erwarten bei groesseren Kreditengagements regelmaessig eine Bewegungsbilanz oder direkt eine Kapitalflussrechnung.
 - Bei Sanierungsmandaten ist die Bewegungsbilanz Pflichtbestandteil neben dem Liquiditaetsplan.
 - Praxis-Tipp: Die Bewegungsbilanz wird ueblicherweise halbjaehrlich erstellt und nicht monatlich, da der Aufstellungsaufwand bei kuerzerem Intervall den Steuerungsnutzen uebersteigt.
-- StBVV: Diese Sonderauswertung wird ueber Zeithonorar oder Pauschalvereinbarung gesondert abgerechnet.
+- StBVV: Diese Sonderauswertung wird über Zeithonorar oder Pauschalvereinbarung gesondert abgerechnet.
 - DATEV-Tipp: Das DATEV-Bilanzbericht-/BAB-Modul automatisiert die Bewegungsbilanz aus zwei SuSa-Stichtagen (Klickpfad: Rechnungswesen → Auswertungen → Bewegungsbilanz oder Bilanzanalyse-Auswertungspaket).
 
 ## Quellen und Updates

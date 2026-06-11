@@ -7,18 +7,18 @@ description: "Berechnung des Kostenrisikos bei Klage vor Amtsgericht. Gerichtsko
 
 ## Worum geht es?
 
-Klage ist nicht kostenlos. Sie zahlen einen Vorschuss an das Gericht; im Verlustfall traegt der Verlierer alle Kosten. Diese Skill zeigt Ihnen, mit welchen Kosten Sie rechnen muessen und wie Sie das Risiko abschaetzen. Wichtig: Die Zahlen aendern sich periodisch — verifizieren Sie die **aktuelle** Tabelle.
+Klage ist nicht kostenlos. Sie zahlen einen Vorschuss an das Gericht; im Verlustfall traegt der Verlierer alle Kosten. Diese Skill zeigt Ihnen, mit welchen Kosten Sie rechnen müssen und wie Sie das Risiko abschaetzen. Wichtig: Die Zahlen ändern sich periodisch — verifizieren Sie die **aktuelle** Tabelle.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wollen vor Klage wissen, was Sie zahlen muessen.
+- Sie wollen vor Klage wissen, was Sie zahlen müssen.
 - Sie wollen das Risiko des Niederlagefalls abschaetzen.
 - Sie ueberlegen Vergleich vs. weiterer Prozess.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Streitwert**: Geldwert des Streits — Basis für alle Kosten.
-- **Gerichtsgebuehr**: Gebuehr, die das Gericht erhebt; Hoehe nach GKG-Tabelle.
+- **Gerichtsgebuehr**: Gebuehr, die das Gericht erhebt; Höhe nach GKG-Tabelle.
 - **Anwaltskosten**: Gebühren des Anwalts nach RVG (Rechtsanwaltsvergütungsgesetz).
 - **Auslagen**: Tatsaechlich entstandene Kosten (Sachverstaendiger, Reisekosten, Porto).
 
@@ -49,7 +49,7 @@ Gerichtsgebuehren = Verfahrensgebuehr 3,0 (im Klageverfahren). Bei Anwendung der
 - Streitwert bis 3.000 EUR: 1,0 ca. 108 EUR → 3,0 ca. 324 EUR.
 - Streitwert bis 5.000 EUR: 1,0 ca. 161 EUR → 3,0 ca. 483 EUR.
 
-**Werte aktualisieren** — die letzte GKG-Aenderung verifizieren in amtliche/freie Quellen oder lizenzierte Datenbanken oder ueber das Justizportal.
+**Werte aktualisieren** — die letzte GKG-Aenderung verifizieren in amtliche/freie Quellen oder lizenzierte Datenbanken oder über das Justizportal.
 
 Bei Vergleich: Verfahrensgebuehr reduziert sich auf 1,0 (statt 3,0). Erheblicher Anreiz, sich zu vergleichen.
 
@@ -64,14 +64,14 @@ Wenn die Gegenseite einen Anwalt einsetzt, zahlt der Verlierer die Anwaltskosten
 
 Beispiel Streitwert 3.000 EUR: Anwaltskosten ca. 750-850 EUR brutto Gegenseite. Bei 5.000 EUR ca. 1.200 EUR.
 
-Sie als Selbstvertreter haben keine eigenen Anwaltskosten — aber Sie koennen vom Gegner auch keinen Anwaltskosten-Ersatz fordern (Sie hatten ja keine).
+Sie als Selbstvertreter haben keine eigenen Anwaltskosten — aber Sie können vom Gegner auch keinen Anwaltskosten-Ersatz fordern (Sie hatten ja keine).
 
 ### Schritt 4 — Sachverstaendiger?
 
-Wenn ein Sachverstaendiger erforderlich ist (z. B. Kfz-Schaden-Hoehe):
+Wenn ein Sachverstaendiger erforderlich ist (z. B. Kfz-Schaden-Höhe):
 
-- Vorschuss vom Antragsteller (i. d. R. Klaeger) — § 17 GKG.
-- Hoehe je nach Gutachten 500-3.000 EUR.
+- Vorschuss vom Antragsteller (i. d. R. Kläger) — § 17 GKG.
+- Höhe je nach Gutachten 500-3.000 EUR.
 - Nach Urteil von Verlierer zu tragen.
 
 ### Schritt 5 — Zeugenkosten
@@ -81,7 +81,7 @@ Wenn ein Sachverstaendiger erforderlich ist (z. B. Kfz-Schaden-Hoehe):
 
 ### Schritt 6 — Gesamtrechnung
 
-Beispiel: Sie klagen ueber 3.000 EUR.
+Beispiel: Sie klagen über 3.000 EUR.
 
 - Gerichtsgebuehren 324 EUR (Vorschuss).
 - Bei Sachverstaendigen-Bedarf: +1.000 EUR Vorschuss.
@@ -101,20 +101,20 @@ In den meisten Faellen ist Vergleich finanziell besser als das Risiko des Streit
 
 ### Schritt 8 — Bei Erfolg: Kostenfestsetzung
 
-Wenn Sie gewinnen, koennen Sie die verausgabten Kosten von der Gegenseite festsetzen lassen. Skill `kostenfestsetzung-103-104-zpo`.
+Wenn Sie gewinnen, können Sie die verausgabten Kosten von der Gegenseite festsetzen lassen. Skill `kostenfestsetzung-103-104-zpo`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **GKG-Tabelle aktualisieren**: Die Beispiel-Zahlen oben sind Orientierungs-Werte. Verifizieren Sie ueber aktuelle GKG-Anlage 1.
-- **PKH-Antrag pruefen**: Wenn Sie sich Klage nicht leisten koennen, gibt es Prozesskostenhilfe. Skill `prozesskostenhilfe-pkh-114-zpo`.
-- **Teilklage erwaegen**: Wenn Streitwert hoch und Beweislage unsicher, koennen Sie Teilbetrag klagen — geringere Kosten, weniger Risiko. Aber: weitere Klage spaeter teurer, Verjährungs-Effekt.
+- **GKG-Tabelle aktualisieren**: Die Beispiel-Zahlen oben sind Orientierungs-Werte. Verifizieren Sie über aktuelle GKG-Anlage 1.
+- **PKH-Antrag prüfen**: Wenn Sie sich Klage nicht leisten können, gibt es Prozesskostenhilfe. Skill `prozesskostenhilfe-pkh-114-zpo`.
+- **Teilklage erwaegen**: Wenn Streitwert hoch und Beweislage unsicher, können Sie Teilbetrag klagen — geringere Kosten, weniger Risiko. Aber: weitere Klage später teurer, Verjährungs-Effekt.
 
 ## Typische Fehler
 
-- "Klage ist kostenlos, ich zahle erst bei Niederlage." → Vorschuss muessen Sie sofort zahlen. Ohne Vorschuss kein Zustellungs-Verfahren.
+- "Klage ist kostenlos, ich zahle erst bei Niederlage." → Vorschuss müssen Sie sofort zahlen. Ohne Vorschuss kein Zustellungs-Verfahren.
 - "Ich brauche keinen Anwalt, also kein Risiko." → Doch — Gegenseite hat Anwalt, dessen Kosten zahlen Sie bei Niederlage.
 - "Sachverstaendigen-Vorschuss spaere ich mir." → Ohne Vorschuss kein Sachverstaendigen-Beweis. Beweisantrag laeuft ins Leere.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. GKG- und RVG-Tabellen periodisch angepasst — Werte vor Klage verifizieren ueber justiz.de oder juris.
+Stand: 05/2026. GKG- und RVG-Tabellen periodisch angepasst — Werte vor Klage verifizieren über justiz.de oder juris.

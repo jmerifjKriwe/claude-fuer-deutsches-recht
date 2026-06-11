@@ -19,7 +19,7 @@ Die amtliche deutsche Rechtschreibung wird vom Rat für deutsche Rechtschreibung
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn als Endkorrekturlauf vor dem Druck und als Grundsatzlauf nach inhaltlichem Lektorat. Klaeren Sie:
+Sie brauchen ihn als Endkorrekturlauf vor dem Druck und als Grundsatzlauf nach inhaltlichem Lektorat. Klären Sie:
 
 1. Welcher Rechtschreibstand (Duden 29. Aufl. 2024 ist aktuell)?
 2. Hausregel-Abweichungen (z. B. Hausschreibung "Bundesgerichtshof" vs. "BGH" bei Erstnennung)?
@@ -44,11 +44,11 @@ Sie brauchen ihn als Endkorrekturlauf vor dem Druck und als Grundsatzlauf nach i
 3. **Eigennamen.** BGH, BVerfG, FG, OVG, EuGH - immer mit Punkt? Mit Bindestrich? Mit Leerzeichen? Hausregel.
 4. **Latinismen und Anglizismen.** "in dubio pro reo" kursiv? "Compliance" mit grossem oder kleinem C im Fliesstext?
 5. **Konsistenz quer durchs Manuskript.** Wenn S. 3 "KI-Regulierung", dann nicht S. 12 "KI Regulierung".
-6. **Stop-Liste.** Bei laengeren Manuskripten: Liste der typischerweise problematischen Begriffe systematisch pruefen.
+6. **Stop-Liste.** Bei laengeren Manuskripten: Liste der typischerweise problematischen Begriffe systematisch prüfen.
 
 ## Trade-off-Matrix
 
-| Pfad | A: Tool-Pruefung + manuelle Stichprobe | B: Vollstaendige manuelle Durchsicht | Empfehlung |
+| Pfad | A: Tool-Prüfung + manuelle Stichprobe | B: Vollstaendige manuelle Durchsicht | Empfehlung |
 |------|----------------------------------------|--------------------------------------|------------|
 | Aufwand | gering | hoch | A im Regelfall |
 | Fehlerquote | mittel | gering | B bei Aufmacher/Festschrift |
@@ -58,7 +58,7 @@ Sie brauchen ihn als Endkorrekturlauf vor dem Druck und als Grundsatzlauf nach i
 
 - "dass / das ist die haeufigste Fehlerquelle in juristischen Texten - immer eigens darauf achten."
 - Bindestrich-Komposita: "EU-Recht" mit Bindestrich, "EU-Recht-Studium" mit zwei.
-- Bei "Verfasserin" (mit ß) vs. "Verfasser": Reform hat hier ß als ss erhalten - vorsichtshalber pruefen.
+- Bei "Verfasserin" (mit ß) vs. "Verfasser": Reform hat hier ß als ss erhalten - vorsichtshalber prüfen.
 - Sonderzeichen vom Verlag vorgegeben: § mit geschuetztem Leerzeichen davor (sonst Umbruch zwischen § und Norm), Auslassungspunkte als ein Zeichen.
 - Bei Hausregel "Bundesgerichtshof bei Erstnennung, danach BGH" konsequent.
 

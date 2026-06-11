@@ -34,14 +34,14 @@ description: "Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertra
 - **AOP-Katalog (Anlage 1 AOP-Vertrag)** mit Kontextfaktoren.
 - **SGB V § 115f** Hybrid-DRG für haeufige Eingriffe (Schnittstelle ambulant/stationaer).
 - **BMV-AE** und KV-Abrechnungsregeln (HVM, EBM).
-- **MD-Pruefung § 275c SGB V** und § 17c KHG zur Fehlbelegungspruefung.
+- **MD-Prüfung § 275c SGB V** und § 17c KHG zur Fehlbelegungspruefung.
 
 ## / Schritt für Schritt
 1. **Eingriff im AOP-Katalog identifizieren:** OPS-Code abgleichen.
-2. **Kontextfaktoren pruefen:** Sind Schweregrad-/Risiko-Konstellationen erfuellt, die stationaeren Aufenthalt rechtfertigen?
+2. **Kontextfaktoren prüfen:** Sind Schweregrad-/Risiko-Konstellationen erfuellt, die stationaeren Aufenthalt rechtfertigen?
 3. **Abrechnungsweg waehlen:** AOP (KV) oder Hybrid-DRG (Kasse direkt) oder stationaer (Kasse, DRG).
 4. **Dokumentation sichern:** OP-Bericht, Anaesthesie-Protokoll, Verlaufsbeobachtung, Entlassbrief.
-5. **MD-Pruefung antizipieren:** Fehlbelegung wuerde stationaeren Erloes zur AOP-Pauschale reduzieren.
+5. **MD-Prüfung antizipieren:** Fehlbelegung wuerde stationaeren Erloes zur AOP-Pauschale reduzieren.
 6. **Abrechnung:** KV (Quartalsabrechnung) oder Hybrid-DRG (direkt).
 
 ## Trade-off-Matrix
@@ -49,27 +49,27 @@ description: "Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertra
 | Konstellation | Empfohlene Schiene | Risiko |
 |---|---|---|
 | reiner Routineeingriff, gesunder Patient | AOP/Hybrid-DRG | bei Hybrid-DRG groesserer Erloes |
-| Komorbiditaet, hohes Alter, Pflegegrad | stationaer | MD-Pruefung droht trotzdem |
-| Notfall ueber Aufnahmediagnostik | stationaer | Dokumentation Begruendung wichtig |
+| Komorbiditaet, hohes Alter, Pflegegrad | stationaer | MD-Prüfung droht trotzdem |
+| Notfall über Aufnahmediagnostik | stationaer | Dokumentation Begruendung wichtig |
 | Patient lehnt ambulante Versorgung ab | dokumentieren, ggf. stationaer | sozialer Kontextfaktor |
 
 ## Praxistipps
 - AOP-Katalog 2023 hat Kontextfaktoren neu eingefuehrt — sie machen die Abgrenzung lebbar.
 - Hybrid-DRG (§ 115f SGB V) ist seit 2024 für einen wachsenden Katalog scharf gestellt; einheitlicher Festbetrag.
 - Personalmeldung an InEK auch für ambulante Eingriffe relevant (Strukturpruefung).
-- Bei MD-Pruefung "primaere Fehlbelegung" droht Abschlag auf AOP-Pauschale; Begruendung Kontextfaktor sichern.
+- Bei MD-Prüfung "primaere Fehlbelegung" droht Abschlag auf AOP-Pauschale; Begruendung Kontextfaktor sichern.
 - KV-Honorar-HVM kann Pauschalierungen, Quoten und Begrenzungen vorsehen.
 
 ## Mustertexte
 **Dokumentationspflicht-Hinweis intern:**
-> Bei jedem AOP-Eingriff sind Kontextfaktoren zwingend zu dokumentieren: 1. BMI, 2. ASA-Klassifikation, 3. Komorbiditaet (Liste), 4. Pflegegrad, 5. soziale Lage (Begruendung), 6. Risikoanaesthesie. Bei stationaerer Indikation: Begruendung zwingend, sonst MD-Pruefung droht.
+> Bei jedem AOP-Eingriff sind Kontextfaktoren zwingend zu dokumentieren: 1. BMI, 2. ASA-Klassifikation, 3. Komorbiditaet (Liste), 4. Pflegegrad, 5. soziale Lage (Begruendung), 6. Risikoanaesthesie. Bei stationaerer Indikation: Begruendung zwingend, sonst MD-Prüfung droht.
 
 **Widerspruch gegen MD-Fehlbelegung:**
 > Die MD-Stellungnahme verkennt die Kontextfaktoren nach AOP-Katalog 2023. Vorliegend lag [Faktor] dokumentiert vor. Die stationaere Behandlung war indiziert. Anlagen: Aerztliche Doku, Pflegebericht.
 
 ## Typische Fehler
 - AOP-Katalog 2023 nicht aktualisiert; Kontextfaktoren ignoriert.
-- Hybrid-DRG-Faelle ueber AOP abgerechnet (falsch — Hybrid-DRG hat eigenen Weg).
+- Hybrid-DRG-Faelle über AOP abgerechnet (falsch — Hybrid-DRG hat eigenen Weg).
 - Stationaere Aufnahme ohne dokumentierte Begruendung — MD-Risiko.
 - KV-Abrechnung nicht in Budgetbetrachtung beruecksichtigt.
 

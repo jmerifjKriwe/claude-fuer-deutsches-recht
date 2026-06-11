@@ -5,13 +5,13 @@ description: "Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabe
 
 # Forderung gegen insolventen Schuldner
 
-Wenn ueber das Vermoegen des Schuldners ein Insolvenzverfahren eroeffnet ist, gelten ausschliesslich die Regeln der InsO. Klage und Vollstreckung sind grundsaetzlich gesperrt.
+Wenn über das Vermögen des Schuldners ein Insolvenzverfahren eroeffnet ist, gelten ausschließlich die Regeln der InsO. Klage und Vollstreckung sind grundsätzlich gesperrt.
 
 ## Insolvenzeroeffnung – Wirkungen
 
 | Wirkung | Norm |
 |---|---|
-| Verwaltungs-/Verfuegungsbefugnis geht auf Verwalter ueber | § 80 InsO |
+| Verwaltungs-/Verfuegungsbefugnis geht auf Verwalter über | § 80 InsO |
 | Anhaengige Prozesse werden unterbrochen | § 240 ZPO |
 | Vollstreckung unzulaessig | § 89 InsO |
 | Sicherungen 1 Monat vor Eroeffnung unwirksam | § 88 InsO |
@@ -36,8 +36,8 @@ Bei Eroeffnungsbeschluss: Verwalter benannt, Anmeldefrist gesetzt (typisch 6-8 W
 | Rang | normal, nachrangig, vorrangig |
 | Bei Vorzugsrecht | Anmeldung mit Hinweis Sicherungsrecht (§ 174 Abs. 3) |
 
-**Frist:** Anmeldefrist im Eroeffnungsbeschluss. Verspaetete Anmeldung moeglich (§ 177 InsO), aber **erhebliche Nachteile**:
-- Spaeter Pruefungstermin → Kosten § 187 InsO.
+**Frist:** Anmeldefrist im Eroeffnungsbeschluss. Verspaetete Anmeldung möglich (§ 177 InsO), aber **erhebliche Nachteile**:
+- Später Pruefungstermin → Kosten § 187 InsO.
 - Schlussverteilung schon ausgekehrt → kein Anteil mehr.
 
 ## Anmeldungs-Formular Muster
@@ -120,13 +120,13 @@ Forderung wird Insolvenzforderung. Nach Restschuldbefreiung erlischt der Anspruc
 
 ## Klage waehrend Insolvenz?
 
-| Konstellation | Klage zulaessig? |
+| Konstellation | Klage zulässig? |
 |---|---|
 | Vor Eroeffnung anhaengige Klage | unterbrochen § 240 ZPO, Aufnahme durch Verwalter |
 | Nach Anmeldung Forderung im Pruefungstermin bestritten | Klage auf Feststellung § 180 InsO |
 | Klage gegen Insolvenzverwalter persoenlich | nur Schadensersatz § 60 InsO |
-| Klage gegen Schuldner persoenlich nach Aufhebung | wieder zulaessig |
-| Gegen Gesellschafter (parallel) | bleibt zulaessig (siehe Skill GmbH-Gesellschafter) |
+| Klage gegen Schuldner persoenlich nach Aufhebung | wieder zulässig |
+| Gegen Gesellschafter (parallel) | bleibt zulässig (siehe Skill GmbH-Gesellschafter) |
 
 ## Bestrittene Forderung – Feststellungsklage § 180 InsO
 

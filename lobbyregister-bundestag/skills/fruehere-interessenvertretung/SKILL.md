@@ -24,7 +24,7 @@ description: "Führt durch Anzeige, dass keine registrierungspflichtige Interess
 
 1. Wurde die Interessenvertretung dauerhaft eingestellt?
 2. Welche Auftraege, Vorhaben und Kontakte laufen noch aus?
-3. Welche Dokumente muessen archiviert werden?
+3. Welche Dokumente müssen archiviert werden?
 
 ## Quellenanker
 

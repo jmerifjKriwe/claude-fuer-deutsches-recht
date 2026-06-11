@@ -3,7 +3,7 @@ name: gerichtsstand-und-rechtswahl-pruefen
 description: "Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtspre..."
 ---
 
-# Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+# Gerichtsstand Und Rechtswahl Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+**Fokus:** Gerichtsstand Und Rechtswahl Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ## Mandantenfragen beim Kaltstart
 
@@ -76,12 +76,12 @@ description: "Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Gerichtsstand und Rechtswahl pruefen/formulieren | Gutachten Bruessel Ia / Rom I; Template unten |
-| Variante A — Kein Vertrag vorhanden | Deliktisches Anknuepfung nach Rom II Art. 4 ff. pruefen |
+| Standard — Gerichtsstand und Rechtswahl prüfen/formulieren | Gutachten Bruessel Ia / Rom I; Template unten |
+| Variante A — Kein Vertrag vorhanden | Deliktisches Anknuepfung nach Rom II Art. 4 ff. prüfen |
 | Variante B — Schiedsklausel im Vertrag | Bruessel Ia nicht anwendbar; §§ 1025 ff. ZPO einschlaegig |
 | Variante C — Drittstaaten ohne Bruessel Ia | Hague Judgments Convention / nationales IPR; HAVÜ 2019 |
 
@@ -159,7 +159,7 @@ sowie die Bescheinigung nach Art. 53 Brüssel Ia (Anlage 1).
 Wir beantragen: Zwangsvollstreckung aus diesem Titel anzuordnen.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -243,7 +243,7 @@ Vollstreckung § 328 ZPO (Nicht-EU): Anerkennungsklage erforderlich; volle Geric
 
 ### Triage — Bevor losgelegt wird, klaere:
 
-1. Gibt es Gerichtsstandsklausel im Vertrag (Art. 25 Bruessel Ia)? → Schriftform, ausschliesslich?
+1. Gibt es Gerichtsstandsklausel im Vertrag (Art. 25 Bruessel Ia)? → Schriftform, ausschließlich?
 2. Haben beide Parteien EU-Sitz? → Bruessel Ia; sonst: nationales IPR oder Hague Convention
 3. Wurde Schiedsklausel vereinbart? → §§ 1025 ff. ZPO; nicht Bruessel Ia
 4. Verbraucher oder Arbeitnehmer beteiligt? → Art. 17-22 Bruessel Ia Schutzgerichtsstand

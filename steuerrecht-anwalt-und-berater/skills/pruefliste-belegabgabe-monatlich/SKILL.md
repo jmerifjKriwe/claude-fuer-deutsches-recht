@@ -13,7 +13,7 @@ description: "Prüfliste monatliche Belegabgabe. Anwendungsfall standardisierte 
 
 ## Kernsachverhalt
 
-Die Belegabgabe-Disziplin des Mandanten ist Erfolgsfaktor der Monatsabschluss-Routine. Fehlt ein Beleg, verzoegert sich die BWA, die USt-VA wird ungenau, der Jahresabschluss bekommt Probleme. Der Steuerberater fuehrt eine Pruefliste, prueft die Vollstaendigkeit eingegangener Belege und mahnt bei Verzoegerungen. Bei wiederholten Verspaetungen Honoraranknuepfung oder Eskalation.
+Die Belegabgabe-Disziplin des Mandanten ist Erfolgsfaktor der Monatsabschluss-Routine. Fehlt ein Beleg, verzoegert sich die BWA, die USt-VA wird ungenau, der Jahresabschluss bekommt Probleme. Der Steuerberater fuehrt eine Pruefliste, prüft die Vollstaendigkeit eingegangener Belege und mahnt bei Verzoegerungen. Bei wiederholten Verspaetungen Honoraranknuepfung oder Eskalation.
 
 ## Kaltstart-Rueckfragen
 
@@ -97,7 +97,7 @@ Mahnstand: [keine / 1. / 2. Mahnung]
 
 - Mandant uebermittelt Belege.
 - Sachbearbeiter laed in DATEV.
-- Vollstaendigkeit pruefen (Bank-Cut-off: alle Buchungen bis Monatsende erfasst; Lohnbuchungen aus dem Lohnprogramm mit gleicher Periode synchron).
+- Vollstaendigkeit prüfen (Bank-Cut-off: alle Buchungen bis Monatsende erfasst; Lohnbuchungen aus dem Lohnprogramm mit gleicher Periode synchron).
 
 ### Phase 3 — Mahnung bei Verspaetung
 
@@ -108,8 +108,8 @@ Mahnstand: [keine / 1. / 2. Mahnung]
 
 ### Phase 4 — Belege für wiederkehrende Vorgaenge
 
-- Miet-, Pacht-, Leasing-Vertraege als Stamm-Dokumente einmalig erfassen (jaehrliche Anpassung pruefen).
-- Versicherungs-Bescheide jaehrlich (Pruefung Versicherungssumme, Beitragsanpassung).
+- Miet-, Pacht-, Leasing-Verträge als Stamm-Dokumente einmalig erfassen (jaehrliche Anpassung prüfen).
+- Versicherungs-Bescheide jaehrlich (Prüfung Versicherungssumme, Beitragsanpassung).
 - Dauerauftraege für Strom, Heizung, Wasser, Telekommunikation (Buchung als wiederkehrend); Jahresabrechnungen separat erfassen.
 
 ### Phase 5 — Bei Verlust eines Beleges

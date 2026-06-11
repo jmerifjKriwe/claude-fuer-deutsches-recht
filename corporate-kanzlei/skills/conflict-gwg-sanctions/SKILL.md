@@ -147,7 +147,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Nordkorea (EG 2017/1509):** umfassende Sanktionen
 
 ### Konsequenz bei Treffer
-→ Mandatsannahme ablehnen. Bestehendes Mandat: Niederlegung pruefen. Verdachtsmeldung an FIU (§ 43 GwG).
+→ Mandatsannahme ablehnen. Bestehendes Mandat: Niederlegung prüfen. Verdachtsmeldung an FIU (§ 43 GwG).
 
 ## Schritt-für-Schritt-Workflow
 
@@ -155,12 +155,12 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. **Konflikt-System abfragen** — alle Namen im internen Konfliktsystem; unklare Treffer an Senior Partner
 3. **GwG-CDD starten** — Identifizierungsdokumente einholen; UBO-Erklaerung unterschreiben lassen
 4. **Sanktions-Screening** — alle Personen und Gesellschaften gegen EU/OFAC/UN-Listen; Datum dokumentieren
-5. **PEP-Pruefung** — relevante Personen durch PEP-Datenbank; bei Treffer: erhoehte Sorgfalt
-6. **Länder-Risiko bewerten** — Hochrisikolaender nach FATF; verstaerkte Pruefung
-7. **Mittelherkunft klaeren** — Finanzierungsstruktur; keine unerklarlichen Barmittel
+5. **PEP-Prüfung** — relevante Personen durch PEP-Datenbank; bei Treffer: erhoehte Sorgfalt
+6. **Länder-Risiko bewerten** — Hochrisikolaender nach FATF; verstaerkte Prüfung
+7. **Mittelherkunft klären** — Finanzierungsstruktur; keine unerklarlichen Barmittel
 8. **Entscheidung** — Mandatsannahme / Enhanced Due Diligence / Ablehnung
 9. **Dokumentation** — CDD-Bogen abschliessen; Aktennotiz; Freigabe durch Partner
-10. **Laufendes Monitoring** — Sanktionslisten aendern sich; Neubewertung bei Eskalation
+10. **Laufendes Monitoring** — Sanktionslisten ändern sich; Neubewertung bei Eskalation
 
 ## Entscheidungsbaum: Mandatsannahme oder Ablehnung?
 
@@ -227,7 +227,7 @@ Freigabe durch: [PARTNER-NAME], [DATUM]
 - GwG-CDD nicht vor Mandatsannahme → § 10 GwG; Bussgeld bis 5 Mio. EUR oder 10 % Jahresumsatz
 - PEP ohne erhoehte Sorgfalt → § 12 GwG-Pflichtverletzung
 - Interessenkollision nicht erkannt → § 43a BRAO; Schadensersatz; berufsrechtliche Konsequenzen
-- Verdachtsmeldepflicht nicht beachtet → § 261 StGB Beihilfe zur Geldwaesche moeglich
+- Verdachtsmeldepflicht nicht beachtet → § 261 StGB Beihilfe zur Geldwaesche möglich
 
 ## Quellen
 

@@ -118,14 +118,14 @@ description: "Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen st
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — GAP-Sammelantrag pruefen und unterstuetzen | Pruefschema GLOEEZ-Standards; Schriftsatzbaustein Widerspruch unten |
+| Standard — GAP-Sammelantrag prüfen und unterstuetzen | Pruefschema GLOEEZ-Standards; Schriftsatzbaustein Widerspruch unten |
 | Variante A — Widerspruch gegen Bescheid noetig | Schriftsatzbaustein unten; Frist 1 Monat ab Bekanntgabe |
 | Variante B — erstmaliger Antrag ohne Vorjahr-Erfahrung | Vollstaendiges Checklistenprogramm; keine Elemente weglassen |
-| Variante C — Sanktionsbescheid nach GLOEEZ-Verstoss | Stufige Argumentation; Verhaeltnismaessigkeit pruefen |
+| Variante C — Sanktionsbescheid nach GLOEEZ-Verstoss | Stufige Argumentation; Verhältnismäßigkeit prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -171,7 +171,7 @@ Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 [Rechtsanwalt/-anwaeltin, Fachanwalt für Agrarrecht]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

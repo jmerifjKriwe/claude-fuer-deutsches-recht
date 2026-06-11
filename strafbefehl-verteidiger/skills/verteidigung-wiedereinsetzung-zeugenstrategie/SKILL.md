@@ -37,10 +37,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Verteidigung-Tatbestand-Beweisbausteine im Strafbefehl
 - **Strafbefehl-typische Tatvorwuerfe und Pruefkette:**
- - **§ 263 StGB Betrug:** Taeuschung + Irrtum + Vermoegensverfuegung + Schaden + Stoffgleichheit + Vorsatz + Bereicherungsabsicht. Pruefen: kausaler Irrtum? Vermoegensschaden vorliegend?
- - **§ 242 StGB Diebstahl:** Wegnahme + fremde bewegliche Sache + Bruch des Gewahrsams + Vorsatz + Zueignungsabsicht. Pruefen: tatsaechliche Wegnahme oder noch im Geltungsbereich Geschaedigter?
- - **§ 316 StGB Trunkenheit:** Fahren im Strassenverkehr + Fahruntuechtigkeit (absolut ab 1,1 Promille / relativ ab 0,3 Promille mit Ausfallerscheinungen) + Vorsatz / Fahrlaessigkeit. Pruefen: BAK-Wert / Atemalkoholwert plausibel, Methodik korrekt?
- - **§ 142 StGB Unfallflucht:** Verkehrsunfall + Beteiligung + Sich-Entfernen vor angemessener Wartezeit + Vorsatz. Pruefen: Unfall im Rechtssinn (auch Bagatellschaden)? Wartezeit zumutbar gewesen?
+ - **§ 263 StGB Betrug:** Taeuschung + Irrtum + Vermoegensverfuegung + Schaden + Stoffgleichheit + Vorsatz + Bereicherungsabsicht. Prüfen: kausaler Irrtum? Vermoegensschaden vorliegend?
+ - **§ 242 StGB Diebstahl:** Wegnahme + fremde bewegliche Sache + Bruch des Gewahrsams + Vorsatz + Zueignungsabsicht. Prüfen: tatsaechliche Wegnahme oder noch im Geltungsbereich Geschaedigter?
+ - **§ 316 StGB Trunkenheit:** Fahren im Strassenverkehr + Fahruntuechtigkeit (absolut ab 1,1 Promille / relativ ab 0,3 Promille mit Ausfallerscheinungen) + Vorsatz / Fahrlaessigkeit. Prüfen: BAK-Wert / Atemalkoholwert plausibel, Methodik korrekt?
+ - **§ 142 StGB Unfallflucht:** Verkehrsunfall + Beteiligung + Sich-Entfernen vor angemessener Wartezeit + Vorsatz. Prüfen: Unfall im Rechtssinn (auch Bagatellschaden)? Wartezeit zumutbar gewesen?
  - **§ 240 StGB Noetigung:** Gewalt / Drohung mit empfindlichem Uebel + Erzwingen einer Handlung/Duldung/Unterlassung + Verwerflichkeit + Vorsatz.
  - **§ 263a StGB Computerbetrug:** EDV-Eingabe / -Verfahren + Vermoegensschaedigung + Bereicherungsabsicht.
 - **Beweis-Lueckenliste pro Tatvorwurf:**
@@ -53,6 +53,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Tatbestand nicht erfuellt** (Lueckenliste oben).
  - **Rechtswidrigkeit ausgeschlossen** (Notwehr § 32 StGB, Notstand § 34 StGB, Einwilligung).
  - **Schuld ausgeschlossen** (Verbotsirrtum § 17 StGB, §§ 20, 21 StGB).
- - **Strafmilderung** ueber §§ 46a, 49 StGB.
+ - **Strafmilderung** über §§ 46a, 49 StGB.
 - **Beweisantraege § 244 StPO** wenn nicht-aussagende Zeugen / Sachverstaendige benoetigt; Hilfsbeweisantraege für Hauptverhandlung vorbereiten.
 - **Verfahrensruegen** bei Verstoss gegen § 136 StPO (Belehrung), § 136a StPO (verbotene Methoden), § 252 StPO (Sperrwirkung Zeugnisverweigerung).

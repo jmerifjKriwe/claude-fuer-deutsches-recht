@@ -5,7 +5,7 @@ description: "Rollen- und Mandatszielpruefung nach Aktenlekture: leitet Mandant,
 
 # Erstpruefung Rollen und Mandatsziel
 
-Vor jeder Recherche oder Klagevorbereitung muss klar sein, wer wen mit welchem Ziel beauftragt. Die Klaerung erfolgt aber nicht durch ein starres Interview. Wenn die Akte schon Unterlagen enthaelt, wird die Rolle zuerst aus den Unterlagen rekonstruiert.
+Vor jeder Recherche oder Klagevorbereitung muss klar sein, wer wen mit welchem Ziel beauftragt. Die Klärung erfolgt aber nicht durch ein starres Interview. Wenn die Akte schon Unterlagen enthaelt, wird die Rolle zuerst aus den Unterlagen rekonstruiert.
 
 ## Aktenbasierte Rollenrekonstruktion
 
@@ -36,9 +36,9 @@ Erst danach werden Luecken erfragt. Keine Einstiegsfrage nach "Wer sind Sie?", w
 | Sofort alles vollstrecken | Mindestens ein Titel ist erforderlich Mahnbescheid Urteil oder notarielle Urkunde |
 | Schuldner soll Strafe bezahlen | Zivilforderung kennt keine Strafe nur Zinsen und Verzugsschaden |
 | Schnelle Loesung in zwei Wochen | Mahnbescheid achtwoechige Widerspruchsfrist Klage drei bis zwoelf Monate |
-| Hauptsache er zahlt | Vergleich mit Ratenzahlung pruefen vor Klage |
+| Hauptsache er zahlt | Vergleich mit Ratenzahlung prüfen vor Klage |
 
-## Honorarbasis klaeren
+## Honorarbasis klären
 
 | Konstellation | RVG Norm |
 |---|---|

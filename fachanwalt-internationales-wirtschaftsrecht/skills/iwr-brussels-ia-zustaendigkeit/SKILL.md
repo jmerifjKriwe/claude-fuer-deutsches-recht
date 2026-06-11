@@ -137,8 +137,8 @@ description: "Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagte
 
 - Nicht Bruessel-Ia (VO (EU) Nr. 1215/2012: https://eur-lex.europa.eu/eli/reg/2012/1215)
 - Nationales IZPR (§§ 12 ff. ZPO bei DE): https://www.gesetze-im-internet.de/zpo/__12.html
-- **Haager Uebereinkommen ueber Gerichtsstandsvereinbarungen 2005** (HGUe; EU-Vertragsstaat seit 01.10.2015): https://www.hcch.net/en/instruments/conventions/full-text/?cid=98
-- **HAVUe 2019** (Haager Uebereinkommen ueber die Anerkennung und Vollstreckung auslaendischer Urteile in Zivil- und Handelssachen; EU-Beitritt 29.08.2022; in Kraft für EU + Ukraine seit 01.09.2023; Daenemark nicht gebunden gem. Art. 27 HAVUe): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137
+- **Haager Uebereinkommen über Gerichtsstandsvereinbarungen 2005** (HGUe; EU-Vertragsstaat seit 01.10.2015): https://www.hcch.net/en/instruments/conventions/full-text/?cid=98
+- **HAVUe 2019** (Haager Uebereinkommen über die Anerkennung und Vollstreckung auslaendischer Urteile in Zivil- und Handelssachen; EU-Beitritt 29.08.2022; in Kraft für EU + Ukraine seit 01.09.2023; Daenemark nicht gebunden gem. Art. 27 HAVUe): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137
 - Brexit-Folge: UK seit 01.01.2021 nicht mehr Bruessel-Ia-Vertragsstaat; UK hat HAVUe am 12.01.2024 unterzeichnet und am 27.06.2024 ratifiziert; in Kraft für UK seit 01.07.2025: https://www.hcch.net/en/news-archive/details/?varevent=1085
 
 ## 11) Typische Fehler

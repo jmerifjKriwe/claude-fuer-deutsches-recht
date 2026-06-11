@@ -30,10 +30,10 @@ Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspas
 
 | Kontext | Abschlussformel |
 |---|---|
-| Streitig, sachlich | "Fuer Ruckfragen stehe ich zur Verfügung. Mit freundlichen Gruessen" |
+| Streitig, sachlich | "Für Ruckfragen stehe ich zur Verfügung. Mit freundlichen Gruessen" |
 | Laufendes Mandat | "Ich freue mich auf Ihre Rueckmeldung. Mit freundlichen Gruessen" |
 | Kooperativ, einigungsorientiert | "Im Sinne einer einvernehmlichen Loesung freue ich mich auf Ihre Nachricht. Mit kollegialen Gruessen" |
-| Foermlich, Behörde | "Fuer Rueckfragen stehe ich jederzeit zur Verfuegung. Hochachtungsvoll" |
+| Foermlich, Behörde | "Für Rueckfragen stehe ich jederzeit zur Verfuegung. Hochachtungsvoll" |
 
 ## Funktion des Abschlusses
 

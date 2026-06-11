@@ -9,8 +9,8 @@ Dieses Fachmodul vor jeder Herausgabe.
 
 ## Triage zu Beginn
 1. In welchem Modus wurde der Text erstellt: Einfache Sprache oder Leichte Sprache?
-2. Fuer welche Zielgruppe und welches Medium ist der Text bestimmt?
-3. Gibt es bekannte Risikostellen (Fristen, Wahlrechte, Ausnahmen), die besonders geprueft werden muessen?
+2. Für welche Zielgruppe und welches Medium ist der Text bestimmt?
+3. Gibt es bekannte Risikostellen (Fristen, Wahlrechte, Ausnahmen), die besonders geprueft werden müssen?
 4. Liegt ein Pruefgruppen-Protokoll vor oder soll das Gate nur einen Entwurfs-Check durchfuehren?
 
 ## Aktuelle Rechtsprechung

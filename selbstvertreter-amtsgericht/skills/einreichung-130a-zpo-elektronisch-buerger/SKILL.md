@@ -7,7 +7,7 @@ description: "Elektronische Einreichung nach § 130a ZPO für Buerger. Sichere �
 
 ## Worum geht es?
 
-Eine elektronische Einreichung kann Schriftformersatz sein — aber nur unter bestimmten Voraussetzungen. § 130a ZPO regelt das. Fuer Buerger ist die Hauptvariante Mein Justizpostfach (MJP). Diese Skill ordnet die elektronische Einreichung allgemein ein und zeigt die Unterschiede zwischen den Wegen.
+Eine elektronische Einreichung kann Schriftformersatz sein — aber nur unter bestimmten Voraussetzungen. § 130a ZPO regelt das. Für Buerger ist die Hauptvariante Mein Justizpostfach (MJP). Diese Skill ordnet die elektronische Einreichung allgemein ein und zeigt die Unterschiede zwischen den Wegen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -23,22 +23,22 @@ Eine elektronische Einreichung kann Schriftformersatz sein — aber nur unter be
 
 ## Rechtsgrundlagen
 
-- **§ 130a ZPO** — Elektronisches Dokument; einreichungsfaehig wenn signiert (qeS) oder ueber sicheren Uebermittlungsweg + einfache Signatur.
+- **§ 130a ZPO** — Elektronisches Dokument; einreichungsfaehig wenn signiert (qeS) oder über sicheren Uebermittlungsweg + einfache Signatur.
 - **§ 130a IV ZPO** — Eingangsbestaetigung.
 - **§ 130a V ZPO** — Wirkung des Eingangs.
 - **§ 130b ZPO** — Form der gerichtlichen Entscheidungen.
-- **§ 174 ZPO** — Zustellung an Anwaelte ueber beA.
+- **§ 174 ZPO** — Zustellung an Anwaelte über beA.
 
 ## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche elektronischen Wege gibt es?
 
-Fuer Buerger:
+Für Buerger:
 
 1. **Mein Justizpostfach (MJP)** — empfohlen. Skill `einreichung-mein-justizpostfach-mjp-2024`.
 2. **EGVP-Buergerkonto** — aelter, weiter verfuegbar.
 3. **De-Mail** (mit Absender-Bestaetigt) — schmaler Anwendungsbereich.
-4. **qeS + Email** — selten, aber moeglich, wenn das Gericht eine Adresse veroeffentlicht.
+4. **qeS + Email** — selten, aber möglich, wenn das Gericht eine Adresse veroeffentlicht.
 
 ### Schritt 2 — Email ohne qeS reicht NICHT
 
@@ -59,7 +59,7 @@ Bei MJP-Versand:
 - Einfache Signatur (Name unter PDF) genuegt.
 - Voraussetzung: MJP mit BundID Niveau "hoch".
 
-### Schritt 5 — Eingangsbestaetigung pruefen
+### Schritt 5 — Eingangsbestaetigung prüfen
 
 § 130a IV ZPO: Gericht muss Eingang bestaetigen.
 
@@ -83,14 +83,14 @@ Wenn die Uebermittlung versagt:
 
 ### Schritt 8 — Pflicht oder Wahl?
 
-§ 130d ZPO verpflichtet **Anwaelte und Behörden** zur elektronischen Einreichung. Buerger sind **nicht** verpflichtet — koennen weiter Papier. Aber elektronisch ist praktisch oft besser.
+§ 130d ZPO verpflichtet **Anwaelte und Behörden** zur elektronischen Einreichung. Buerger sind **nicht** verpflichtet — können weiter Papier. Aber elektronisch ist praktisch oft besser.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Email allein reicht nicht**. Ausnahme: Email mit qeS und an veroeffentlichte Adresse.
 - **Bestaetigung speichern**. Bei Frist-Streitigkeit ist sie Ihr Beweis.
 - **Niveau "hoch" der BundID** ist Kern.
-- **Datei-Format**: PDF/A. Andere Formate koennen abgelehnt werden.
+- **Datei-Format**: PDF/A. Andere Formate können abgelehnt werden.
 
 ## Typische Fehler
 

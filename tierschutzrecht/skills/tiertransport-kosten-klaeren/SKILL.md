@@ -3,7 +3,7 @@ name: tiertransport-kosten-klaeren
 description: "Tiertransport: Kosten klären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Tiertransport Kosten Klaeren
+# Tiertransport Kosten Klären
 
 ## Arbeitsweg
 

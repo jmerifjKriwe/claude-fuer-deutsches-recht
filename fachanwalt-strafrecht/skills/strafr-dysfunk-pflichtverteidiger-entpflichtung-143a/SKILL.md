@@ -42,9 +42,9 @@ description: "Entpflichtung des Pflichtverteidigers nach § 143a Abs: 2 StPO ins
 
 - Schriftliche Stellungnahme. Tatsachenlage zur Zusammenarbeit dokumentieren.
 - Schriftliche Bestaetigung des Mandanten beiziehen, dass er an der Verteidigung festhalten will.
-- Bei Beschluss: sofortige Beschwerde § 142 Abs. 7 StPO oder § 304 StPO pruefen.
+- Bei Beschluss: sofortige Beschwerde § 142 Abs. 7 StPO oder § 304 StPO prüfen.
 
 ## Pitfalls
 
-- Wenn das Verhaeltnis tatsaechlich zerruettet ist, im Interesse des Mandanten ehrlich pruefen und ggf einer geordneten Mandatsbeendigung Vorrang geben.
+- Wenn das Verhaeltnis tatsaechlich zerruettet ist, im Interesse des Mandanten ehrlich prüfen und ggf einer geordneten Mandatsbeendigung Vorrang geben.
 - Pflichtverteidigerwechsel nicht als persönliche Niederlage werten.

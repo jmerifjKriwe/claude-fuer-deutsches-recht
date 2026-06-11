@@ -40,8 +40,8 @@ description: "Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepfl
 
 ## Schritt-für-Schritt-Workflow
 
-1. **TEHG-Pflicht pruefen**: Anlage 1 TEHG — Taetigkeitskategorie, Schwellenwert (z.B. Feuerungsanlage > 20 MW thermisch).
-2. **Genehmigungs-/Monitoring-Antrag**: § 4 TEHG-Genehmigung + Monitoring-Plan gemaess MVO/DEHSt.
+1. **TEHG-Pflicht prüfen**: Anlage 1 TEHG — Taetigkeitskategorie, Schwellenwert (z.B. Feuerungsanlage > 20 MW thermisch).
+2. **Genehmigungs-/Monitoring-Antrag**: § 4 TEHG-Genehmigung + Monitoring-Plan gemäß MVO/DEHSt.
 3. **Zuteilungsantrag** (Phase 4: bis 31.05.2019 gestellt; laufende Anpassung bei Kapazitaetsaenderung): ZuV 2020-Benchmarks bestimmen; Baseline-Daten (2014-2018) einreichen.
 4. **Jaehrliches Monitoring**: Emissionen messen/berechnen, von akkreditiertem Pruefstelle verifizieren lassen.
 5. **Emissionsbericht 31. Maerz**: DEHSt-Einreichung.

@@ -144,7 +144,7 @@ Nach dem Call:
 ## Schritt-für-Schritt-Workflow
 
 1. **Expert identifizieren** — via Expert-Network (GLG, Guidepoint, Glenbrook) oder eigenes Netzwerk
-2. **Compliance-Vorpruefung** — aktuelle Insider-Status pruefen; ex-Mitarbeiter: § 17 UWG-Abgrenzung
+2. **Compliance-Vorpruefung** — aktuelle Insider-Status prüfen; ex-Mitarbeiter: § 17 UWG-Abgrenzung
 3. **Call-Vorbereitung** — Fragenkatalog; Themen-Scope; Grenzen definieren
 4. **NDA/Expert-Protokoll** — Einwilligung schriftlich; Aufnahme-Einwilligung
 5. **Call durchfuehren** — strukturiert; Protokoll; bei Insider-Alarm: Unterbrechung

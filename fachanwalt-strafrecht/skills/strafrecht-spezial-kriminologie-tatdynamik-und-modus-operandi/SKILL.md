@@ -62,9 +62,9 @@ Indikatoren für Plantat:
 **Modus operandi.** Wiederkehrende Tatmuster eines Taeters (Tatortauswahl, Annaeherungsweise, Mitfuehren bestimmter Werkzeuge, Tatsequenz, Opferauswahl). Bei Serientaeter-Verdacht wesentlich; bei Einzeltaten weniger relevant.
 
 **Bedeutung für das Strafrecht.**
-- Vorsatzformen (§ 15 StGB): Direktvorsatz, dolus directus zweiten Grades, dolus eventualis — laesst sich aus Tatdynamik konkretisieren.
+- Vorsatzformen (§ 15 StGB): Direktvorsatz, dolus directus zweiten Grades, dolus eventualis — lässt sich aus Tatdynamik konkretisieren.
 - Niedrige Beweggruende (§ 211 StGB): Tatmotivation aus der Tatdynamik ableitbar.
-- Heimtuecke (§ 211 StGB): Tatdynamik der Annaeherung entscheidet ueber Arglosigkeit des Opfers.
+- Heimtuecke (§ 211 StGB): Tatdynamik der Annaeherung entscheidet über Arglosigkeit des Opfers.
 - Affekt (§§ 20, 21 StGB): Affektaufbau und Affektdurchbruch sind aus der Tatdynamik abzuleiten.
 - Strafzumessung (§ 46 StGB): Tatmotive, Tatbild, Nachtatverhalten gehen ein.
 
@@ -73,7 +73,7 @@ Indikatoren für Plantat:
 - **Tatdynamik akribisch rekonstruieren.** Akteninhalt strukturiert nach Vortat, Tat, Nachtat ordnen. Zeitachse erstellen. Provokationen und Auseinandersetzungen vor der Tat sichtbar machen.
 - **Affektbeweis fuehren.** Bei Toetungsdelikten ist die Bewertung als Affekttat strafrahmenrelevant. Affekt-SV-Gutachten ist Standardinstrument. Indikatoren wie hohe Emotionalitaet, Spontaneitaet, Affektbruch dokumentieren.
 - **Plan-Indikatoren entkraeften.** Wenn die StA Plan oder Heimtuecke unterstellt: gegenargumentieren, warum die Indikatoren der Tatdynamik (Spontaneitaet, fehlende Vorbereitung) eher gegen Plan sprechen.
-- **Nachtatverhalten differenziert wuerdigen.** Selbstanzeige, Hilfsmassnahmen am Opfer, Reue koennen strafmildernd sein (§ 46 Abs. 2 StGB) und sind klassische Affektindikatoren.
+- **Nachtatverhalten differenziert wuerdigen.** Selbstanzeige, Hilfsmassnahmen am Opfer, Reue können strafmildernd sein (§ 46 Abs. 2 StGB) und sind klassische Affektindikatoren.
 - **Tatortbild beruecksichtigen.** Polizeiliche Tatortarbeit, Spurenbild, Rekonstruktionsgutachten heranziehen.
 - **Drogen- und Alkoholeinfluss.** Wenn zur Tat alkoholisiert oder unter Drogeneinfluss: Promille-Bestimmung, ggf. § 21 StGB-Begutachtung (Steuerungsfaehigkeit).
 
@@ -81,14 +81,14 @@ Indikatoren für Plantat:
 
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
-| Affekt-SV-Gutachten beantragen | Strafmilderung moeglich (§ 21 StGB) | Risiko der Bestaetigung des Vorsatzes |
+| Affekt-SV-Gutachten beantragen | Strafmilderung möglich (§ 21 StGB) | Risiko der Bestaetigung des Vorsatzes |
 | Tatortrekonstruktion durch SV | Konkret, faktennah | Aufwand, ggf. neutrale Befunde |
 | Tatdynamik im Plaedoyer | Strukturell, ueberzeugend | Setzt sorgfaeltige Aktenarbeit voraus |
 | Modus-operandi-Vergleich zu Vortaten | Bei Serien-Verdacht stark | Bei Einzeltat irrelevant |
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer arbeiten Sie strukturiert: "Die Tatdynamik laesst sich aus den Akten in drei Phasen rekonstruieren. Vortat: anhaltende Auseinandersetzung zwischen den Beteiligten ueber mehrere Stunden, dokumentiert durch Zeugenaussagen der Frau X, Herrn Y, Bl. [Z]. Tat: spontane Handlung ohne Vorbereitung, Tatwerkzeug zufaellig vorhanden, Tatbild zerfasert. Nachtat: Mandant blieb am Tatort, alarmierte selbst die Polizei, leistete Erste Hilfe. Dieses Tatbild traegt die Anklage wegen heimtueckischer Toetung nicht. Es ist das Bild einer affektgetragenen Spontantat."
+Im Plaedoyer arbeiten Sie strukturiert: "Die Tatdynamik lässt sich aus den Akten in drei Phasen rekonstruieren. Vortat: anhaltende Auseinandersetzung zwischen den Beteiligten über mehrere Stunden, dokumentiert durch Zeugenaussagen der Frau X, Herrn Y, Bl. [Z]. Tat: spontane Handlung ohne Vorbereitung, Tatwerkzeug zufaellig vorhanden, Tatbild zerfasert. Nachtat: Mandant blieb am Tatort, alarmierte selbst die Polizei, leistete Erste Hilfe. Dieses Tatbild traegt die Anklage wegen heimtueckischer Toetung nicht. Es ist das Bild einer affektgetragenen Spontantat."
 
 ## Mustertexte
 

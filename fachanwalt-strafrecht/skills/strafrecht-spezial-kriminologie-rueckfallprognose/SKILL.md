@@ -20,7 +20,7 @@ description: "Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HC
 
 ## Worum geht es
 
-Wo immer das Gericht ueber Sanktion und Lockerung entscheidet — Bewaehrungsentscheidung nach § 56 StGB, Aussetzung des Strafrests nach § 57 StGB, Anordnung der Sicherungsverwahrung nach § 66 StGB, Anordnung und Fortdauer des Massregelvollzugs nach §§ 63, 64 StGB — wird eine kriminalprognostische Einschaetzung getroffen. In schweren Faellen wird sie auf ein psychiatrisch-psychologisches Sachverstaendigengutachten gestuetzt, das mit operationalisierten Prognoseverfahren arbeitet.
+Wo immer das Gericht über Sanktion und Lockerung entscheidet — Bewaehrungsentscheidung nach § 56 StGB, Aussetzung des Strafrests nach § 57 StGB, Anordnung der Sicherungsverwahrung nach § 66 StGB, Anordnung und Fortdauer des Massregelvollzugs nach §§ 63, 64 StGB — wird eine kriminalprognostische Einschaetzung getroffen. In schweren Faellen wird sie auf ein psychiatrisch-psychologisches Sachverstaendigengutachten gestuetzt, das mit operationalisierten Prognoseverfahren arbeitet.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die Kenntnis der drei dominierenden Verfahren (PCL-R, HCR-20, FOTRES), ihre methodischen Grundlagen und ihre Schwachstellen.
 
@@ -57,12 +57,12 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Praktikertipps Verteidigung
 
-- **Verfahrenauswahl pruefen.** Wurde das richtige Verfahren angewandt? PCL-R allein ist für Massregelvollzug nicht ausreichend; HCR-20 oder FOTRES sollten in Gewaltkontexten herangezogen werden; Static-99R für Sexualdelikte.
+- **Verfahrenauswahl prüfen.** Wurde das richtige Verfahren angewandt? PCL-R allein ist für Massregelvollzug nicht ausreichend; HCR-20 oder FOTRES sollten in Gewaltkontexten herangezogen werden; Static-99R für Sexualdelikte.
 - **Statische vs. dynamische Faktoren.** Statische Faktoren (Vorstrafen, Alter bei Erstdelikt) sind nicht veraenderbar. Dynamische Faktoren (Behandlungserfolg, soziale Situation) sind veraenderbar. Argumentation fokussieren auf positive Veraenderung in dynamischen Faktoren.
-- **Punktwerte sind keine Schicksale.** Ein hoher PCL-R-Wert bedeutet nicht definitive Rueckfallneigung, sondern statistische Mehrwahrscheinlichkeit. Individuelle Schutzfaktoren koennen das Risiko reduzieren.
+- **Punktwerte sind keine Schicksale.** Ein hoher PCL-R-Wert bedeutet nicht definitive Rueckfallneigung, sondern statistische Mehrwahrscheinlichkeit. Individuelle Schutzfaktoren können das Risiko reduzieren.
 - **Mandant systematisch coachen für Exploration.** Ohne Wahrheitsverpflichtungs-Geste, aber mit klarer Selbstkenntnis und Auseinandersetzung mit der Tat. Bagatellisierung und Schuldverleugnung sind in den Verfahren stark prognostisch ungunstig.
 - **Therapiebereitschaft dokumentieren.** Erfolgreich abgeschlossene oder laufende Therapie ist in HCR-20 und FOTRES positiver dynamischer Faktor.
-- **Auf Vollstaendigkeit der Aktenlage pruefen.** Wenn der Gutachter nur einen Teil der Akte gesehen hat oder positive Entwicklungen ausgelassen wurden, ist das Gutachten methodisch luckenhaft.
+- **Auf Vollstaendigkeit der Aktenlage prüfen.** Wenn der Gutachter nur einen Teil der Akte gesehen hat oder positive Entwicklungen ausgelassen wurden, ist das Gutachten methodisch luckenhaft.
 
 ## Trade-off-Matrix
 
@@ -75,15 +75,15 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer methodisch argumentieren: "Das vorgelegte Prognosegutachten arbeitet ausschliesslich mit statischen Faktoren der ersten Generation. Statische Faktoren wie Vorstrafen und Alter bei Erstdelikt sind nicht veraenderbar. Sie blenden aber die kriminologisch wichtigste Frage aus: Hat sich das Risikoprofil des Probanden veraendert? Mein Mandant hat seit der Inhaftierung [konkrete therapeutische Massnahme] erfolgreich durchlaufen, hat in der Sozialarbeit gezeigt [Belege], hat eine Bezugsperson [Name]. Diese dynamischen Faktoren sind im Gutachten nicht hinreichend gewuerdigt. Die Prognose ist daher methodisch unvollstaendig."
+Im Plaedoyer methodisch argumentieren: "Das vorgelegte Prognosegutachten arbeitet ausschließlich mit statischen Faktoren der ersten Generation. Statische Faktoren wie Vorstrafen und Alter bei Erstdelikt sind nicht veraenderbar. Sie blenden aber die kriminologisch wichtigste Frage aus: Hat sich das Risikoprofil des Probanden veraendert? Mein Mandant hat seit der Inhaftierung [konkrete therapeutische Maßnahme] erfolgreich durchlaufen, hat in der Sozialarbeit gezeigt [Belege], hat eine Bezugsperson [Name]. Diese dynamischen Faktoren sind im Gutachten nicht hinreichend gewuerdigt. Die Prognose ist daher methodisch unvollstaendig."
 
 ## Mustertexte
 
 **Beweisantrag Gegen-Prognosegutachten:**
-"Es wird beantragt, ein weiteres kriminalprognostisches Sachverstaendigengutachten unter Anwendung des HCR-20 und FOTRES einzuholen. Das bisher vorgelegte Gutachten der Sachverstaendigen [Name] vom [Datum] genuegt den methodischen Anforderungen nicht. Konkret: [a] Es wird ausschliesslich mit PCL-R gearbeitet; dynamische Risikofaktoren sind nicht erfasst. [b] Die positiven Behandlungsverlaeufe seit [Datum] werden nicht beruecksichtigt. [c] Die soziale Aufnahmesituation nach Entlassung wird nicht geprueft."
+"Es wird beantragt, ein weiteres kriminalprognostisches Sachverstaendigengutachten unter Anwendung des HCR-20 und FOTRES einzuholen. Das bisher vorgelegte Gutachten der Sachverstaendigen [Name] vom [Datum] genuegt den methodischen Anforderungen nicht. Konkret: [a] Es wird ausschließlich mit PCL-R gearbeitet; dynamische Risikofaktoren sind nicht erfasst. [b] Die positiven Behandlungsverlaeufe seit [Datum] werden nicht beruecksichtigt. [c] Die soziale Aufnahmesituation nach Entlassung wird nicht geprueft."
 
 **Mustersatz für Bewaehrung nach Strafvollzug:**
-"Die kriminalprognostische Beurteilung des Mandanten ist guenstig. Statische Faktoren (Vorstrafen) sind unveraenderlich, sie sind aber nicht das ganze Bild. Die dynamischen Faktoren — Therapiefortschritt in [Massnahme], Aufnahme bei [Bezugsperson], Beschaeftigungsperspektive bei [Arbeitgeber] — zeigen eine deutliche Risikoreduktion. Eine Aussetzung des Strafrestes nach § 57 StGB ist verantwortbar."
+"Die kriminalprognostische Beurteilung des Mandanten ist guenstig. Statische Faktoren (Vorstrafen) sind unveraenderlich, sie sind aber nicht das ganze Bild. Die dynamischen Faktoren — Therapiefortschritt in [Maßnahme], Aufnahme bei [Bezugsperson], Beschaeftigungsperspektive bei [Arbeitgeber] — zeigen eine deutliche Risikoreduktion. Eine Aussetzung des Strafrestes nach § 57 StGB ist verantwortbar."
 
 ## Quellen Stand 06/2026
 

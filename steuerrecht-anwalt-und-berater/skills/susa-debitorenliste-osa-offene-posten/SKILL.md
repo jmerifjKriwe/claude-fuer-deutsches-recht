@@ -13,7 +13,7 @@ description: "Debitoren-Saldenliste und Offene-Posten-Auswertung OPOS. Anwendung
 
 ## Kernsachverhalt
 
-Die Debitoren-Saldenliste zeigt alle Forderungen gegen Kunden mit Saldo, Faelligkeit und Status. Die OPOS-Auswertung ist Standardinstrument für Mahnwesen, Bilanzvorbereitung und Liquiditaetsplanung. Der Steuerberater erstellt sie monatlich (oder mit BWA-Frequenz), prueft die Werthaltigkeit grosser Posten und gibt Hinweise auf Forderungsausfall-Risiken.
+Die Debitoren-Saldenliste zeigt alle Forderungen gegen Kunden mit Saldo, Faelligkeit und Status. Die OPOS-Auswertung ist Standardinstrument für Mahnwesen, Bilanzvorbereitung und Liquiditaetsplanung. Der Steuerberater erstellt sie monatlich (oder mit BWA-Frequenz), prüft die Werthaltigkeit großer Posten und gibt Hinweise auf Forderungsausfall-Risiken.
 
 ## Kaltstart-Rueckfragen
 
@@ -42,7 +42,7 @@ Die Debitoren-Saldenliste zeigt alle Forderungen gegen Kunden mit Saldo, Faellig
 
 ### Standards
 
-- BMF zu Forderungsbewertung: massgeblich sind §§ 252, 253 HGB und § 6 Abs. 1 Nr. 2 EStG; aktuelle BMF-Schreiben zur Einzel- und Pauschalwertberichtigung ueber bundesfinanzministerium.de abrufbar.
+- BMF zu Forderungsbewertung: massgeblich sind §§ 252, 253 HGB und § 6 Abs. 1 Nr. 2 EStG; aktuelle BMF-Schreiben zur Einzel- und Pauschalwertberichtigung über bundesfinanzministerium.de abrufbar.
 - IDW PS 480.
 - DATEV OPOS-Modul.
 
@@ -76,8 +76,8 @@ SUMME [X]
 | Nicht faellig (0-30 Tage) | [X Prozent] | Normalbestand |
 | 31-60 Tage faellig | [Y Prozent] | Erinnerung versenden |
 | 61-90 Tage faellig | [Z Prozent] | Mahnung 1./2. Stufe |
-| Ueber 90 Tage | [A Prozent] | Anwalt einschalten |
-| Ueber 180 Tage | [B Prozent] | Einzelwertberichtigung |
+| Über 90 Tage | [A Prozent] | Anwalt einschalten |
+| Über 180 Tage | [B Prozent] | Einzelwertberichtigung |
 
 ### Phase 4 — Bewertung
 
@@ -88,7 +88,7 @@ SUMME [X]
 ### Phase 5 — Mahnwesen
 
 - Aufbau-Mahnstufen: Zahlungserinnerung (kostenfrei), 1. Mahnung (15 EUR), 2. Mahnung (20 EUR), Anwalt (gerichtlich).
-- Mahnbeschuldigung ueber DATEV-Mahnmodul oder externes Inkasso.
+- Mahnbeschuldigung über DATEV-Mahnmodul oder externes Inkasso.
 - Bei groesseren Forderungen: Anwalt mit Klage beauftragen.
 
 ### Phase 6 — Reporting an Mandant
@@ -96,13 +96,13 @@ SUMME [X]
 - OPOS-Auszug monatlich an Mandant.
 - Hinweis auf Top-Schuldner und Verdaechtige.
 - Empfehlungen zum Mahnwesen.
-- Bei drohendem grossen Forderungsausfall: Liquiditaets-Eskalation.
+- Bei drohendem großen Forderungsausfall: Liquiditaets-Eskalation.
 
 ## Strategie und Praxis-Tipps
 
 - Bei Bilanzstichtag detaillierte Forderungsbewertung — Einzel- und Pauschalwertberichtigung dokumentieren.
-- Top-Schuldner mit groesseren Forderungen einzeln pruefen (z.B. Top-10).
-- Bei Forderungsausfall-Risiko ueber 10 Prozent der Bilanzsumme: Hinweispflicht § 102 StaRUG ausgeloest.
+- Top-Schuldner mit groesseren Forderungen einzeln prüfen (z.B. Top-10).
+- Bei Forderungsausfall-Risiko über 10 Prozent der Bilanzsumme: Hinweispflicht § 102 StaRUG ausgeloest.
 - Mahnwesen frueh ansetzen — je laenger gewartet wird, desto schwieriger ist Durchsetzung.
 - StBVV: OPOS in Buchfuehrungspauschale; separates Mahnwesen-Honorar.
 - DATEV-Tipp: DATEV-OPOS-Auswertung mit Faelligkeitsstaffeln und Mahn-Bewegungs-Eingabe.

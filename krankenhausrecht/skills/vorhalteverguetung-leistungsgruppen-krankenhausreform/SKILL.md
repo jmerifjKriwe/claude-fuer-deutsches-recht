@@ -40,7 +40,7 @@ Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendig
 1. **LG-Zuweisung dokumentieren:** Welche LG hat die Klinik? Welche Mengen sind erbracht?
 2. **Vorhalteanteil je LG berechnen:** Bundesweit normierter Anteil x Casemix-Volumen der Klinik.
 3. **Konvergenzpfad anwenden:** 2025: 0 %, 2026: 20 % (Schaetzung, abhaengig von KHVVG-Konkretisierungen), 2027: 60 %.
-4. **DRG-Restanteil pruefen:** DRG bleibt für den verbleibenden Anteil; weiterhin Casemix-relevant.
+4. **DRG-Restanteil prüfen:** DRG bleibt für den verbleibenden Anteil; weiterhin Casemix-relevant.
 5. **Budget-Auswirkungen modellieren:** Vorher/Nachher-Vergleich pro LG; Liquiditaetseffekt.
 6. **AEB anpassen:** Vorhalteanteile in Budgetvereinbarung gesondert ausweisen.
 
@@ -65,7 +65,7 @@ Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendig
 > Vorhalteanteil 2026 je LG (Anlage 5): LG 14 Allgemeine Innere: Casemix-Volumen 12.500, Vorhalteanteil 20 % entspricht … EUR. LG 27: … LG 33: … Summe Vorhalte: … EUR.
 
 **Schreiben an Kasse zur Konvergenz:**
-> In der Budgetverhandlung 2026 ist nach KHEntgG der Vorhalteanteil gesondert auszuweisen. Wir haben die Berechnung gemaess BMG-Hinweis vom [Datum] vorgenommen. Anlage: Vorhalteanteil-Matrix.
+> In der Budgetverhandlung 2026 ist nach KHEntgG der Vorhalteanteil gesondert auszuweisen. Wir haben die Berechnung gemäß BMG-Hinweis vom [Datum] vorgenommen. Anlage: Vorhalteanteil-Matrix.
 
 ## Typische Fehler
 - Vorhalteanteil mit Mengenausgleich verwechseln; Vorhalt ist mengenunabhaengig.

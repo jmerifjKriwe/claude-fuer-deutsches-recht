@@ -3,7 +3,7 @@ name: widmung-und-einziehung-pruefen
 description: "Straßenrecht und Infrastruktur: Widmung und Einziehung prüfen. Widmung und Einziehung prüfen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsme..."
 ---
 
-# Widmung Und Einziehung Pruefen
+# Widmung Und Einziehung Prüfen
 
 ## Arbeitsweg
 

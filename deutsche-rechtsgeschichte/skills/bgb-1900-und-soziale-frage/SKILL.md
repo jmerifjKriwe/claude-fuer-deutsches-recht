@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik 
 
 ## Worum es geht
 
-Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne die realen Machtungleichgewichte zu beruecksichtigen. Anton Mengers Das buergerliche Recht und die besitzlosen Volksklassen (1890) analysierte dies scharf: Das BGB schuetze Eigentuemer und Kreditgeber, nicht Mieter und Arbeitnehmer. Otto von Gierke kritisierte den fehlenden deutschen Genossenschaftsgeist. Die soziale Luecke wurde durch Sondergesetze gefuellt: Gewerbegerichtsgesetz 1890, BGB-Ergaenzungen durch Arbeitnehmerrecht, Mieterschutz im Ersten Weltkrieg. Die Rechtsprechung nutzte BGB § 242 (Treu und Glauben) als Korrektiv. Das 20. Jh. brachte schliesslich Arbeitnehmerschutzrecht (BetrVG, KSchG), Mieterschutz (BGB §§ 535 ff.), und Verbraucherschutz.
+Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne die realen Machtungleichgewichte zu beruecksichtigen. Anton Mengers Das buergerliche Recht und die besitzlosen Volksklassen (1890) analysierte dies scharf: Das BGB schuetze Eigentümer und Kreditgeber, nicht Mieter und Arbeitnehmer. Otto von Gierke kritisierte den fehlenden deutschen Genossenschaftsgeist. Die soziale Luecke wurde durch Sondergesetze gefuellt: Gewerbegerichtsgesetz 1890, BGB-Ergaenzungen durch Arbeitnehmerrecht, Mieterschutz im Ersten Weltkrieg. Die Rechtsprechung nutzte BGB § 242 (Treu und Glauben) als Korrektiv. Das 20. Jh. brachte schliesslich Arbeitnehmerschutzrecht (BetrVG, KSchG), Mieterschutz (BGB §§ 535 ff.), und Verbraucherschutz.
 
 ## Kernnormen / Kernquellen
 
@@ -38,7 +38,7 @@ Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne di
 2. § 242 BGB: Hat das RG damit die sozialen Luecken sinnvoll geschlossen?
 3. Mieterschutz: Warum erst 1917? War Krieg als Anlass notwendig?
 4. BetrVG 1952/1972: Welcher Teil der Sozialkritik ist ins Gesetz eingegangen?
-5. Verbraucherschutz ab 1970er: Laesst sich das als Fortsetzung der Menger-Forderungen lesen?
+5. Verbraucherschutz ab 1970er: Lässt sich das als Fortsetzung der Menger-Forderungen lesen?
 
 ## Methodik
 

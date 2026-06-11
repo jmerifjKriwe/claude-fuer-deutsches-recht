@@ -26,7 +26,7 @@ Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltn
 - Liegt schriftliche Einwilligung vor, mit ausreichender Aufklaerung?
 - Wurde die Patientenakte vollstaendig gefuehrt und aufbewahrt?
 - Wird Einsichtsrecht (§ 630g) verlangt — durch Patient, Erben, Anwalt?
-- Drohen Haftpflicht-Mandat, Strafverfahren, MD-Pruefung?
+- Drohen Haftpflicht-Mandat, Strafverfahren, MD-Prüfung?
 
 ## Rechtlicher Rahmen
 - **BGB §§ 630a-630h** Behandlungsvertrag, Aufklaerung, Dokumentation, Beweislast.
@@ -37,10 +37,10 @@ Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltn
 - **StGB §§ 223 ff., 203** Strafbarkeit Koerperverletzung ohne wirksame Einwilligung; Schweigepflicht.
 
 ## / Schritt für Schritt
-1. **Behandlungsvertrag klaeren:** Wer ist Vertragspartner (Krankenhaus, Wahlarzt, Belegarzt)?
-2. **Aufklaerungspflicht pruefen:** Diagnose, Risiken, Alternativen, wirtschaftliche Aufklaerung; Zeitpunkt (ausreichender Vorlauf).
+1. **Behandlungsvertrag klären:** Wer ist Vertragspartner (Krankenhaus, Wahlarzt, Belegarzt)?
+2. **Aufklaerungspflicht prüfen:** Diagnose, Risiken, Alternativen, wirtschaftliche Aufklaerung; Zeitpunkt (ausreichender Vorlauf).
 3. **Einwilligung verifizieren:** Schriftform empfohlen, dokumentierte Eigenentscheidung, Einwilligungsfaehigkeit.
-4. **Dokumentation pruefen:** Vollstaendigkeit, Authentizitaet, Aufbewahrung 10 Jahre (§ 630f Abs. 3).
+4. **Dokumentation prüfen:** Vollstaendigkeit, Authentizitaet, Aufbewahrung 10 Jahre (§ 630f Abs. 3).
 5. **Einsichtsbegehren beantworten:** Frist unverzueglich (§ 630g), Auskunftsbereich.
 6. **Haftungsfrage strukturieren:** § 630h Beweislastumkehr bei groben Behandlungs-/Aufklaerungsfehlern, voll beherrschbarem Risiko, unterlassener Befunderhebung.
 
@@ -49,7 +49,7 @@ Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltn
 | Risikofall | Reaktion | Folge |
 |---|---|---|
 | Patient verlangt Einsicht | unverzueglich Akte herausgeben | Vertrauen, Vorbereitung Klage |
-| Patient klagt Behandlungsfehler | Akte sichern, Gutachten | Haftung pruefen |
+| Patient klagt Behandlungsfehler | Akte sichern, Gutachten | Haftung prüfen |
 | Aufklaerungsluecke | Dokumentation nachvollziehen | bei grober Luecke § 630h Beweislast |
 | MDK pruegt Doku | mit Pflegeprozessbericht ergaenzen | Strukturqualitaet sichern |
 
@@ -65,7 +65,7 @@ Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltn
 > Datum, Patient, Diagnose: …, geplante Behandlung: …, Risiken: …, Alternativen: …, wirtschaftliche Aufklaerung (Wahlleistung): …, Aerztl. Aufklaerer (Name, Facharzt), Patient hat Fragen gestellt: …, Einwilligung: ja/nein, Unterschriften.
 
 **Antwort auf Einsichtsbegehren:**
-> Sehr geehrte/r [Patient/Anwalt], wir haben Ihr Einsichtsbegehren erhalten. Die vollstaendige Patientenakte wird Ihnen [Datum] uebermittelt. Bei Loeschungs- und Geheimhaltungswuenschen Dritter (Pflegende, andere Patienten) sind Schwaerzungen moeglich. Gebührenhinweis: …
+> Sehr geehrte/r [Patient/Anwalt], wir haben Ihr Einsichtsbegehren erhalten. Die vollstaendige Patientenakte wird Ihnen [Datum] uebermittelt. Bei Loeschungs- und Geheimhaltungswuenschen Dritter (Pflegende, andere Patienten) sind Schwaerzungen möglich. Gebührenhinweis: …
 
 ## Typische Fehler
 - Wirtschaftliche Aufklaerung Wahlleistung nicht dokumentiert — § 17 Abs. 2 KHEntgG-Vertrag unwirksam.

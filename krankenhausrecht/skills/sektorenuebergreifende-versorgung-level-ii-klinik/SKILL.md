@@ -34,11 +34,11 @@ Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenueber
 - **SGB V §§ 115b, 115f, 116, 116a, 116b, 140a** Ambulant am Krankenhaus, Hybrid-DRG, Spezialaerztliche Versorgung, Selektivvertraege.
 - **Landeskrankenhausgesetze** Plansetzung und Strukturmerkmale.
 - **MVZ-Recht § 95 SGB V** Medizinische Versorgungszentren.
-- **G-BA-Beschluesse** zu sektorenuebergreifenden Versorgungsformen.
+- **G-BA-Beschlüsse** zu sektorenuebergreifenden Versorgungsformen.
 
 ## / Schritt für Schritt
 1. **Versorgungsmodell entwerfen:** Welche Leistungen ambulant, welche kurzstationaer, welche stationaer?
-2. **Strukturmerkmale pruefen:** Personal (Aerzte/Pflege 24/7 oder erweitert), Geraete, OP, Notfallaufnahme.
+2. **Strukturmerkmale prüfen:** Personal (Aerzte/Pflege 24/7 oder erweitert), Geraete, OP, Notfallaufnahme.
 3. **Kooperationsmodelle:** MVZ-Anbindung, Praxen, Telemedizin, Rettungsdienst-Kooperation.
 4. **Verguetungspfade:** AOP (KV), Hybrid-DRG (Kasse), DRG (Kasse), Selektivvertraege (§ 140a SGB V).
 5. **Antrag auf Plan-Einstufung Level Ii:** Konzept, Bedarfsbegruendung, Strukturqualitaetsnachweise, Kooperationsvertraege.
@@ -59,7 +59,7 @@ Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenueber
 - Hybrid-DRG-Katalog ist die wirtschaftliche Achse; Personal/Geraete für haeufige Hybrid-DRG-Eingriffe vorhalten.
 - Kooperationsvertraege schriftlich, mit Steuerungsstruktur und Vertretungsregeln.
 - Transformationsfonds (50 Mrd. EUR) ist die wichtigste Foerderquelle für Level-Ii-Umbau.
-- Bei Reduzierung von vollstationaerer Versorgung Personalplan und betriebsuebergangsrechtliche Fragen pruefen.
+- Bei Reduzierung von vollstationaerer Versorgung Personalplan und betriebsuebergangsrechtliche Fragen prüfen.
 
 ## Mustertexte
 **Konzept Level Ii (Skizze):**
@@ -79,5 +79,5 @@ Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenueber
 - KHG § 6a, KHEntgG, SGB V §§ 115b, 115f, 116, 140a.
 - KHVVG (12.12.2024).
 - BMG-Konkretisierung Level Ii (Live-Check bundesgesundheitsministerium.de).
-- G-BA-Beschluesse zu sektorenuebergreifender Versorgung (Live-Check g-ba.de).
+- G-BA-Beschlüsse zu sektorenuebergreifender Versorgung (Live-Check g-ba.de).
 - BSG, staend. Rspr. zum Versorgungsauftrag.

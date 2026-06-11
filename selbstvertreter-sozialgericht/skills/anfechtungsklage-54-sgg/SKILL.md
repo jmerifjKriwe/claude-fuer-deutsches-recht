@@ -41,13 +41,13 @@ Sie haben einen Bescheid, der Sie belastet. Zum Beispiel eine Sanktion. Sie woll
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob es ein Verwaltungsakt ist
+### Schritt 1 — Prüfen, ob es ein Verwaltungsakt ist
 
 Anfechtungsklage geht nur gegen Verwaltungsakte (offizielle Entscheidungen der Behörde). Briefe ohne Regelung sind keine VA, dagegen keine Anfechtung.
 
 ### Schritt 2 — Vorverfahren beruecksichtigen
 
-Sie muessen zuerst Widerspruch eingelegt haben (§ 78 SGG). Erst nach Widerspruchsbescheid Klage moeglich.
+Sie müssen zuerst Widerspruch eingelegt haben (§ 78 SGG). Erst nach Widerspruchsbescheid Klage möglich.
 
 ### Schritt 3 — Klageschrift aufsetzen
 
@@ -110,12 +110,12 @@ Beklagte ist die Behörde, deren Bescheid Sie angreifen — nicht der einzelne S
 
 ### Schritt 6 — Wenn der Bescheid mehrere Teile hat
 
-Sie koennen alle Teile angreifen, einen Teil, oder einen einzelnen Punkt. Klare Formulierung des Antrags ist wichtig.
+Sie können alle Teile angreifen, einen Teil, oder einen einzelnen Punkt. Klare Formulierung des Antrags ist wichtig.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Klagefrist 1 Monat** ab Bekanntgabe des Widerspruchsbescheids. Vier-Tage-Fiktion.
-- **Beschwer noetig**: Sie muessen tatsaechlich von dem Bescheid betroffen sein. Ein abstraktes Interesse reicht nicht.
+- **Beschwer noetig**: Sie müssen tatsaechlich von dem Bescheid betroffen sein. Ein abstraktes Interesse reicht nicht.
 - **Auch ohne perfekte Begruendung Klage einlegen** und Frist sichern; Begruendung kann nachgereicht werden.
 
 ## Typische Fehler
@@ -154,6 +154,6 @@ Stand: 05/2026. § 54 SGG aktuell. SG hat Hinweis- und Aufklaerungspflicht (§ 1
 
 ### Anwendung im Skill
 
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

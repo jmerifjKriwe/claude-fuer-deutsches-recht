@@ -15,7 +15,7 @@ description: "Nullbescheid und Auskunfts-Zollanmeldung (AZG): Verfahren zur verb
 
 ## Mandantenfall
 
-- Exporteur ist unsicher ob Maschine mit bestimmten Parametern unter Dual-Use-Gueterliste faellt; Nullbescheid-Option pruefen.
+- Exporteur ist unsicher ob Maschine mit bestimmten Parametern unter Dual-Use-Gueterliste faellt; Nullbescheid-Option prüfen.
 - Unternehmen moechte sichere Dokumentationsbasis vor Export in Dual-Use-Grauzone.
 - Zollagent benoetigt Beleg für ATLAS, dass Ware nicht genehmigungspflichtig ist.
 
@@ -26,7 +26,7 @@ description: "Nullbescheid und Auskunfts-Zollanmeldung (AZG): Verfahren zur verb
 3. Nullbescheid-Antrag an BAFA stellen (formloser Antrag mit vollstaendiger Sachverhaltsdarstellung).
 4. BAFA-Entscheidung (Bestaetigungs- oder Genehmigungspflichtigkeitsbescheid) abwarten.
 5. Positive Entscheidung (Nullbescheid) archivieren; für nachfolgende Ausfuhren als Beleg nutzen.
-6. Aenderungen in Warenbeschreibung oder Verwendungszweck koennen Nullbescheid ungueltig machen.
+6. Aenderungen in Warenbeschreibung oder Verwendungszweck können Nullbescheid ungueltig machen.
 
 ## Rechtsrahmen
 

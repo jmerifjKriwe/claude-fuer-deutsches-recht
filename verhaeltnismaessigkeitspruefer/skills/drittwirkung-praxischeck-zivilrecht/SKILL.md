@@ -3,11 +3,11 @@ name: drittwirkung-praxischeck-zivilrecht
 description: Praktischer Pruefkatalog fuer Drittwirkung im Zivilrecht. Behandelt die wichtigsten Einbruchstellen Paragraph 138 BGB Paragraph 242 BGB Paragraph 826 BGB Paragraph 307 BGB sowie die Leitlinien aus Buergschaft Handelsvertreter Chefarztkuendigung und Plattformausschluss. Zeigt wie Verhaeltnismaessigkeit ueber die mittelbare Drittwirkung in AGB-Kontrolle Vertragsfreiheit und Kuendigung wirkt und wo die Drittwirkung trotz Diskussionswert abzulehnen ist.
 ---
 
-# Drittwirkung im Zivilrecht — Praxischeck mit Verhaeltnismaessigkeit
+# Drittwirkung im Zivilrecht — Praxischeck mit Verhältnismäßigkeit
 
 ## Zweck dieses Skills
 
-Drittwirkung ist im Zivilrecht keine Theorie sondern alltaegliche Auslegungsarbeit. Welche Generalklausel? Welche Grundrechtspositionen? Wie weit darf Verhaeltnismaessigkeit die Vertragsfreiheit durchdringen? Dieser Skill bietet einen Pruefkatalog fuer die typischen Konstellationen und macht zugleich deutlich wo Drittwirkung diskutiert aber im Ergebnis abzulehnen ist.
+Drittwirkung ist im Zivilrecht keine Theorie sondern alltaegliche Auslegungsarbeit. Welche Generalklausel? Welche Grundrechtspositionen? Wie weit darf Verhältnismäßigkeit die Vertragsfreiheit durchdringen? Dieser Skill bietet einen Pruefkatalog für die typischen Konstellationen und macht zugleich deutlich wo Drittwirkung diskutiert aber im Ergebnis abzulehnen ist.
 
 ## Einbruchstellen — Welche Norm traegt die Drittwirkung
 
@@ -20,7 +20,7 @@ Drittwirkung ist im Zivilrecht keine Theorie sondern alltaegliche Auslegungsarbe
 ### Paragraph 242 BGB Treu und Glauben
 
 - Inhaltskontrolle vertraglicher Klauseln.
-- Treuwidrige Ausuebung von Gestaltungsrechten.
+- Treuwidrige Ausübung von Gestaltungsrechten.
 - Kuendigung gegen die guten Sitten oder gegen das Verbot der Diskriminierung.
 
 ### Paragraph 826 BGB sittenwidrige vorsaetzliche Schaedigung
@@ -31,34 +31,34 @@ Drittwirkung ist im Zivilrecht keine Theorie sondern alltaegliche Auslegungsarbe
 ### Paragraph 307 BGB AGB-Inhaltskontrolle
 
 - Institutionalisierte Drittwirkung — Verbraucherschutz durch Verhaeltnismaessigkeitskontrolle.
-- Klauseln muessen den Vertragspartner nicht unangemessen benachteiligen.
+- Klauseln müssen den Vertragspartner nicht unangemessen benachteiligen.
 
 ### Paragraph 315 BGB Bestimmung nach billigem Ermessen
 
 - Plattform-Sperrungen und Kontoschliessungen.
 - Bestimmung von Leistung oder Preis durch eine Partei.
 
-## Typische Konstellationen mit Verhaeltnismaessigkeit
+## Typische Konstellationen mit Verhältnismäßigkeit
 
 ### Buergschaft naher Angehoeriger
 
-Pruefung am Massstab des Paragraphen 138 BGB unter Beruecksichtigung der Privatautonomie der Bank und der Vertragsfreiheit der buergenden Person. Verhaeltnismaessigkeit fragt: Steht die uebernommene Haftung in einem angemessenen Verhaeltnis zur wirtschaftlichen Leistungsfaehigkeit und zum Naheverhaeltnis.
+Prüfung am Massstab des Paragraphen 138 BGB unter Beruecksichtigung der Privatautonomie der Bank und der Vertragsfreiheit der buergenden Person. Verhältnismäßigkeit fragt: Steht die uebernommene Haftung in einem angemessenen Verhaeltnis zur wirtschaftlichen Leistungsfaehigkeit und zum Naheverhaeltnis.
 
 ### Wettbewerbsverbote nach Vertragsende
 
-Pruefung am Massstab von Paragraph 138 BGB und Paragraph 74a HGB. Verhaeltnismaessigkeit: Schutzbeduerftiges Interesse des frueheren Vertragspartners gegen Berufsfreiheit der gebundenen Person. Maximalfristen und gegenstaendliche und raeumliche Begrenzung sind Erforderlichkeitsfragen.
+Prüfung am Massstab von Paragraph 138 BGB und Paragraph 74a HGB. Verhältnismäßigkeit: Schutzbeduerftiges Interesse des frueheren Vertragspartners gegen Berufsfreiheit der gebundenen Person. Maximalfristen und gegenstaendliche und raeumliche Begrenzung sind Erforderlichkeitsfragen.
 
 ### Kuendigung durch kirchliche Arbeitgeber
 
-Chefarzt-Entscheidung BVerfGE 137 273 und EuGH-Folgesachen IR und Egenberger. Verhaeltnismaessigkeit: Selbstbestimmungsrecht der Religionsgesellschaft gegen Gleichbehandlungsanspruch und Privatleben.
+Chefarzt-Entscheidung BVerfGE 137 273 und EuGH-Folgesachen IR und Egenberger. Verhältnismäßigkeit: Selbstbestimmungsrecht der Religionsgesellschaft gegen Gleichbehandlungsanspruch und Privatleben.
 
 ### Plattformausschluss
 
-Facebook-Entscheidungen des BGH. Verhaeltnismaessigkeit der AGB-basierten Sperrentscheidung. Anforderungen an Anhoerung Begruendung Befristung und milderes Mittel.
+Facebook-Entscheidungen des BGH. Verhältnismäßigkeit der AGB-basierten Sperrentscheidung. Anforderungen an Anhoerung Begruendung Befristung und milderes Mittel.
 
 ### Hausverbote und Stadionverbote
 
-BVerfGE 148 267. Eingriffsaehnliche Drittwirkung bei oeffentlicher Funktion. Verhaeltnismaessigkeit pruefbar.
+BVerfGE 148 267. Eingriffsaehnliche Drittwirkung bei oeffentlicher Funktion. Verhältnismäßigkeit pruefbar.
 
 ## Wo Drittwirkung im Ergebnis abzulehnen ist
 
@@ -74,7 +74,7 @@ Hier ist die Verhaeltnismaessigkeitspruefung im Ergebnis kurz: Eingriff in die P
 ## Pruefungsschema
 
 1. **Privatrechtliche Rechtsbeziehung** identifizieren.
-2. **Asymmetrie oder oeffentliche Funktion** pruefen.
+2. **Asymmetrie oder oeffentliche Funktion** prüfen.
 3. **Einschlaegige Generalklausel** als Einbruchstelle.
 4. **Grundrechtspositionen beider Seiten** benennen.
 5. **Praktische Konkordanz** als Auslegungsziel.
@@ -98,10 +98,10 @@ Hier ist die Verhaeltnismaessigkeitspruefung im Ergebnis kurz: Eingriff in die P
 
 - **Generalklausel nicht ausweisen** — ohne benannte Generalklausel kein dogmatischer Anker.
 - **Privatautonomie als Reststandard behandeln** — sie ist eigenes Grundrecht aus Art. 2 Abs. 1 GG.
-- **Eingriffsaehnliche Pruefung pauschal anwenden** — sie braucht die monopolartige oder oeffentliche Funktionsstellung.
-- **Verhaeltnismaessigkeit zu staatsnah pruefen** — die Vier-Stufen-Pruefung muss an das Privatrechtsverhaeltnis angepasst werden.
+- **Eingriffsaehnliche Prüfung pauschal anwenden** — sie braucht die monopolartige oder oeffentliche Funktionsstellung.
+- **Verhältnismäßigkeit zu staatsnah prüfen** — die Vier-Stufen-Prüfung muss an das Privatrechtsverhaeltnis angepasst werden.
 - **Schutzpflichtdimension uebersehen** — wo der Staat schuetzen muss greift auch das Untermassverbot in die Beziehung hinein.
-- **Praktische Konkordanz nicht herstellen** — beide Grundrechtspositionen sind so weit wie moeglich zu schonen.
+- **Praktische Konkordanz nicht herstellen** — beide Grundrechtspositionen sind so weit wie möglich zu schonen.
 
 ## Verwandte Skills
 

@@ -42,7 +42,7 @@ Erfasst sind Abfallentsorgungsanlagen, Anlagen zur Wasserentsorgung und andere g
 
 ### "Anlage" — funktionaler Begriff
 
-Anlage ist jede orts­feste oder ortsbewegliche Einrichtung mit funktionellem Zusammenhang. Nicht nur Industrieanlagen, sondern auch Klaeranlagen, Tanklager, grosse Heizanlagen. Massgeblich ist die immissionsschutzrechtliche Anlagenverordnung (4. BImSchV).
+Anlage ist jede orts­feste oder ortsbewegliche Einrichtung mit funktionellem Zusammenhang. Nicht nur Industrieanlagen, sondern auch Klaeranlagen, Tanklager, große Heizanlagen. Massgeblich ist die immissionsschutzrechtliche Anlagenverordnung (4. BImSchV).
 
 ### "Wesentliche Abweichung"
 
@@ -59,7 +59,7 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 ## Praktikertipps Verteidigung
 
 - **Genehmigungslage gruendlich rekonstruieren.** Kopien aller Bescheide, Aenderungsgenehmigungen, Nebenbestimmungen. Verfahrensakten der Genehmigungsbehoerde anfordern.
-- **Genehmigungsbeduerftigkeit pruefen.** Liegt die Anlage im Anwendungsbereich der 4. BImSchV? Werden Schwellenwerte (z. B. Durchsatz, Behaeltergroesse) ueberschritten? Bei Schwellenwertueberschreitung muss neue Genehmigung beantragt werden.
+- **Genehmigungsbeduerftigkeit prüfen.** Liegt die Anlage im Anwendungsbereich der 4. BImSchV? Werden Schwellenwerte (z. B. Durchsatz, Behaeltergroesse) ueberschritten? Bei Schwellenwertueberschreitung muss neue Genehmigung beantragt werden.
 - **Wesentliche Abweichung bestreiten.** Substantiierte Darstellung, dass die Umstellung Umweltbelange nicht betraf. Sachverstaendigengutachten zur Immissionssituation vor und nach Umstellung.
 - **Verbotsirrtum.** Bei komplexen technischen Anlagen oft schwierige Abgrenzung zwischen genehmigungsbeduerftiger Aenderung und blossem Austausch. Beratung durch Umweltgutachter dokumentieren.
 - **Stilllegungsanordnung der Behörde abwarten.** Wenn die Behörde von Aufsichtsmoeglichkeiten Gebrauch macht, kann das Vertrauen geschuetzt sein.
@@ -74,7 +74,7 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 ## Konkurrenzen
 
 - **Paragraph 327 StGB und Paragraph 324 StGB.** Tateinheit, wenn aus unzulaessig betriebener Anlage Gewaesser verunreinigt wird.
-- **Paragraph 327 StGB und Paragraph 325 StGB Luftverunreinigung.** Tateinheit moeglich.
+- **Paragraph 327 StGB und Paragraph 325 StGB Luftverunreinigung.** Tateinheit möglich.
 - **Paragraph 327 StGB und Paragraph 326 StGB.** Tatmehrheit; Paragraph 326 StGB betrifft den Abfallumgang, Paragraph 327 StGB den Anlagenbetrieb.
 - **Paragraph 327 StGB und Paragraph 62 BImSchG OWi.** Subsidiaritaet der OWi.
 
@@ -85,8 +85,8 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 - **Einziehung Paragraph 73 StGB** des durch unerlaubten Betrieb erlangten Vorteils (z. B. ersparte Auflagen).
 - **Behoerdliche Anordnungen:** Stilllegungsanordnung Paragraph 20 BImSchG; Untersagungsverfuegung; Anordnung von Sanierungspflichten.
 - **Verbandsgeldbusse Paragraph 30 OWiG.**
-- **Berufsverbot Paragraph 70 StGB** moeglich bei Anlagenbetreiber.
-- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
+- **Berufsverbot Paragraph 70 StGB** möglich bei Anlagenbetreiber.
+- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
 
 ## Mustertexte
 

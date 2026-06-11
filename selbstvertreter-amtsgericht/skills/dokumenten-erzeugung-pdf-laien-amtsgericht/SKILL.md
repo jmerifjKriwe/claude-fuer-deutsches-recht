@@ -7,12 +7,12 @@ description: "PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am Amtsge
 
 ## Worum geht es?
 
-Das Gericht erwartet heute fast immer **PDF-Dateien**. Diese Skill zeigt Ihnen, wie Sie aus Word, LibreOffice, gescannten Papieren oder Smartphone-Fotos saubere PDFs machen, die das Gericht und die Gegenseite gut lesen koennen.
+Das Gericht erwartet heute fast immer **PDF-Dateien**. Diese Skill zeigt Ihnen, wie Sie aus Word, LibreOffice, gescannten Papieren oder Smartphone-Fotos saubere PDFs machen, die das Gericht und die Gegenseite gut lesen können.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben Ihre Klage am Computer geschrieben und brauchen ein PDF daraus.
-- Sie haben Papier-Dokumente (Vertraege, Briefe) und muessen sie einscannen.
+- Sie haben Papier-Dokumente (Verträge, Briefe) und müssen sie einscannen.
 - Sie wollen mehrere PDFs zu einem zusammenfuegen.
 - Sie wollen ein PDF kleiner machen, weil das Justizpostfach es ablehnt.
 
@@ -32,15 +32,15 @@ Schriftart Times New Roman oder Arial, 12pt, Zeilenabstand 1,5. Siehe `anlagen-f
 
 **In Word:**
 - Datei → Exportieren → PDF/XPS-Dokument erstellen → "Veröffentlichen".
-- Dateityp: **PDF/A** (wenn moeglich).
+- Dateityp: **PDF/A** (wenn möglich).
 
 **In LibreOffice:**
 - Datei → Exportieren als → Direkt als PDF exportieren.
 - Reiter "Allgemein" → Haken bei "PDF/A-1a" oder "PDF/A-2b".
 
-### Schritt 3 — PDF pruefen
+### Schritt 3 — PDF prüfen
 
-Oeffnen Sie das fertige PDF und scrollen Sie es durch. Pruefen Sie:
+Oeffnen Sie das fertige PDF und scrollen Sie es durch. Prüfen Sie:
 
 - Sind alle Seiten da?
 - Ist die Formatierung erhalten?
@@ -70,7 +70,7 @@ Diese Apps richten das Dokument automatisch gerade aus und entfernen Schatten.
 - Legen Sie das Dokument auf einen flachen Untergrund mit gutem Licht.
 - Vermeiden Sie Schatten und Reflektionen.
 - Fotografieren Sie senkrecht von oben.
-- Pruefen Sie das Ergebnis: Ist alles lesbar?
+- Prüfen Sie das Ergebnis: Ist alles lesbar?
 
 ### Schritt 3 — OCR (Texterkennung) aktivieren
 
@@ -94,7 +94,7 @@ Wenn Sie z.B. die Klageschrift und das Anlagenverzeichnis in einer Datei haben w
 
 ## PDF komprimieren
 
-Mein Justizpostfach hat eine **Obergrenze von rd. 60 MB pro Einreichung**. Wenn Ihr PDF groesser ist, muessen Sie es komprimieren.
+Mein Justizpostfach hat eine **Obergrenze von rd. 60 MB pro Einreichung**. Wenn Ihr PDF groesser ist, müssen Sie es komprimieren.
 
 **Kostenlose Tools:**
 - **PDF24** (kostenlos): "PDF verkleinern".
@@ -105,7 +105,7 @@ Mein Justizpostfach hat eine **Obergrenze von rd. 60 MB pro Einreichung**. Wenn 
 - PDF in das Tool laden.
 - Komprimierungs-Stufe waehlen (z.B. "mittel" oder "klein").
 - Das Tool gibt ein kleineres PDF aus.
-- Pruefen Sie: ist es noch lesbar?
+- Prüfen Sie: ist es noch lesbar?
 
 ## Dateinamen-Konvention
 
@@ -124,19 +124,19 @@ Das Datum am Anfang sorgt für chronologische Sortierung. Der Inhalt im Namen hi
 - Umlaute im Dateinamen (manche Systeme stolpern: "Anlage_Kuendigung.pdf" statt "Anlage_Kündigung.pdf")
 - Sonderzeichen (kein "&", "/", "%", ":")
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **PDF/A bevorzugen** für Klageschrift und eigene Schriftsaetze (Archiv-Format).
-- **Lesbarkeit pruefen** vor dem Absenden.
+- **Lesbarkeit prüfen** vor dem Absenden.
 - **Datenschutz** bei Online-Tools: lokale Programme nutzen, wenn sensible Daten dabei sind.
-- **Dateigroesse**: Wenn ueber 60 MB → komprimieren.
-- **OCR**: Bei gescannten Dokumenten immer Texterkennung aktivieren, wenn moeglich.
+- **Dateigroesse**: Wenn über 60 MB → komprimieren.
+- **OCR**: Bei gescannten Dokumenten immer Texterkennung aktivieren, wenn möglich.
 
 ## Typische Fehler
 
 - **Fehler:** PDF wird per Foto aus dem Schraegwinkel gemacht, Text ist verzerrt. → **So vermeiden:** Scanner-App nutzen (richtet automatisch aus).
 - **Fehler:** Word-Datei eingereicht statt PDF. → **So vermeiden:** Vor dem Absenden immer als PDF exportieren.
-- **Fehler:** PDF ist 200 MB gross, MJP weigert sich. → **So vermeiden:** Komprimieren oder in mehrere Einreichungen aufteilen.
+- **Fehler:** PDF ist 200 MB groß, MJP weigert sich. → **So vermeiden:** Komprimieren oder in mehrere Einreichungen aufteilen.
 - **Fehler:** Klageschrift und Anlagen in einem riesigen PDF — Gericht muss alles durchscrollen. → **So vermeiden:** Klageschrift = ein PDF, jede Anlage = ein eigenes PDF.
 
 ## Quellen und Aktualitaet

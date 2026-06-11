@@ -28,7 +28,7 @@ Nicht kriminalisieren, sondern sauber klären: Was ist Autor:innenleistung, was 
 
 ## Schneller Arbeitsmodus
 
-- Erst klaeren: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
+- Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
 - Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autor:innenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
 - Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Pruefliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autor:innen.
 
@@ -39,10 +39,10 @@ Nicht kriminalisieren, sondern sauber klären: Was ist Autor:innenleistung, was 
 - Gibt es genau die naechsten Schritte mit Owner, Frist und Eskalation?
 
 ## Urheber- und zitatrechtliche Anker
-- **Zitatrecht (§ 51 UrhG):** zulaessig für den Zweck des Zitats, mit Quellenangabe (§ 63 UrhG); Beispiele: Grosszitat im wissenschaftlichen Werk; Kleinzitat im laufenden Text.
+- **Zitatrecht (§ 51 UrhG):** zulässig für den Zweck des Zitats, mit Quellenangabe (§ 63 UrhG); Beispiele: Grosszitat im wissenschaftlichen Werk; Kleinzitat im laufenden Text.
 - **Kein Schutz reiner Tatsachen:** Aussage "Der BGH hat am ... entschieden, dass ..." ist urheberrechtlich frei; konkrete Formulierung der Leitsaetze ist es regelmaessig auch, aber Sicherheits-Praxis: zitieren.
 - **Amtliche Werke (§ 5 UrhG):** Gesetze, Verordnungen, Urteile sind nicht urheberrechtlich geschuetzt -- Wiedergabe frei, aber bei Bearbeitungen (etwa Kommentar-Auszuege) Rechte des Bearbeiters beachten.
-- **KI-Text-Risiko:** Erzeugnisse generativer KI haben keinen klaren Urheberschutz, koennen aber unlautere Wettbewerbsbedingungen ausloesen (§ 4 UWG Nachahmung) und ggf. Trainingsdatenfragen offenlegen.
+- **KI-Text-Risiko:** Erzeugnisse generativer KI haben keinen klaren Urheberschutz, können aber unlautere Wettbewerbsbedingungen ausloesen (§ 4 UWG Nachahmung) und ggf. Trainingsdatenfragen offenlegen.
 - **Bildrechte:** Verwendung von Personenabbildungen nach §§ 22, 23 KUG; gestockfotografische Inhalte mit Lizenzkette nachweisen.
 - **Plagiats-Folgen wissenschaftlich:** wissenschaftliche Reputationsschaeden; verlagsseitige Vertragsstrafen; Schadensersatz Verlag.
 

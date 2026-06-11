@@ -60,7 +60,7 @@ Die Kontextanalyse sollte bei wesentlichen Änderungen der Kanzleistruktur (Fusi
 - § 26 BDSG — Beschaeftigtendatenschutz (bei Mitarbeiter-KI)
 
 ## Triage zu Beginn
-1. Wie gross ist die Kanzlei — Einzelanwalt, Boutique (2-10 RA), Mittelgross (11-50), Gross (50+)?
+1. Wie groß ist die Kanzlei — Einzelanwalt, Boutique (2-10 RA), Mittelgross (11-50), Groß (50+)?
 2. Welche Rechtsgebiete werden betrieben — IT-Recht, Datenschutz, Strafrecht, Familienrecht?
 3. Gibt es Inhouse-/Syndikus-Anwaelte — gelten andere Compliance-Anforderungen?
 4. Sind internationale Mandate vorhanden — welche Drittland-Jurisdiktionen?

@@ -21,18 +21,18 @@ description: "Empirische Datenlage zur Strafverteidigungspraxis als Argument geg
 ## Kaltstart-Rueckfragen
 
 1. Wird die Dysfunktionalitaet als Einzelfall (eigene Verteidigung) oder als Systembefund (Reformbedarf) erhoben?
-2. Ist die Auseinandersetzung intern (im Verfahren) oder oeffentlich (Pressekommentar, Editorial, Berufspolitik)?
+2. Ist die Auseinandersetzung intern (im Verfahren) oder öffentlich (Pressekommentar, Editorial, Berufspolitik)?
 3. Welche Datenbasis stellt der Vorwurf in den Raum?
 
 ## Strukturen der Empirie (vor Verwendung verifizieren)
 
 - **Strafkammerberichte OLG**: Erhebungen u. a. OLG Celle Strafkammerbericht 2017. Anteil Verfahren mit Befangenheitsantraegen und mit hoher Beweisantragszahl liegt im niedrigen einstelligen Prozentbereich.
 - **Diplomarbeiten Strafverfahrensrecht**: empirische Auswertung BGH-Revisionsentscheidungen mit Senatsschelten zeigt: in keinem nachvollziehbar dokumentierten Fall vollstaendiger Nachweis von Rechtsmissbrauch. In wenigen Faellen nur einzelne Indizien.
-- **StPO-Reformkommission BMJ (eingerichtet 2025)**: Beratung u. a. ueber § 244 Abs. 3 StPO und § 138a StPO. Abschlussbericht angekuendigt.
+- **StPO-Reformkommission BMJ (eingerichtet 2025)**: Beratung u. a. über § 244 Abs. 3 StPO und § 138a StPO. Abschlussbericht angekuendigt.
 
 ## Strategischer Einsatz
 
-- Schriftsatz: Pauschalvorwurf sei empirisch nicht belegt. Beweislast liegt bei dem, der Massnahmen begruendet.
+- Schriftsatz: Pauschalvorwurf sei empirisch nicht belegt. Beweislast liegt bei dem, der Maßnahmen begruendet.
 - Senatsdialog: kurz auf das Missverhaeltnis zwischen Vorwurf und Datenlage hinweisen.
 - Berufspolitik: Argumente gegen pauschale Reformforderungen.
 

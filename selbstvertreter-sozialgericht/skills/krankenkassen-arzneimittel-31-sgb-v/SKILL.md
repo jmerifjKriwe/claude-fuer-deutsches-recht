@@ -19,7 +19,7 @@ description: "Krankenkassen-Arzneimittel nach § 31 SGB V. Skill klaert die Arzn
 
 - Bagatellarzneimittel (§ 34 Abs. 1 SGB V).
 - Lifestyle-Arzneimittel (Anlage III AM-RL).
-- Apothekenpflichtige Arzneimittel ohne Verschreibungspflicht — grundsaetzlich Eigenleistung.
+- Apothekenpflichtige Arzneimittel ohne Verschreibungspflicht — grundsätzlich Eigenleistung.
 
 ## Festbetraege
 

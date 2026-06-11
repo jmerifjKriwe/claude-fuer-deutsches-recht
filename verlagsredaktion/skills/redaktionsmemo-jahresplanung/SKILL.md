@@ -19,7 +19,7 @@ Einmal jaehrlich plant die Schriftleitung einer juristischen Fachzeitschrift das
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn jaehrlich (typisch September/Oktober für das Folgejahr) oder bei Strategiewechseln. Klaeren Sie:
+Sie brauchen ihn jaehrlich (typisch September/Oktober für das Folgejahr) oder bei Strategiewechseln. Klären Sie:
 
 1. Welche Zeitschrift, welche Zielgruppe, welcher Heftumfang pro Ausgabe?
 2. Welcher Heftrhythmus (woechentlich NJW, monatlich JuS, vierteljaehrlich)?
@@ -60,7 +60,7 @@ Sie brauchen ihn jaehrlich (typisch September/Oktober für das Folgejahr) oder b
 ## Praxistipps der alten Redaktion
 
 - "Eine Jahresplanung, die zum Jahresende noch zu 80 % steht, war zu defensiv. Eine, die nur zu 30 % steht, war zu naiv. 50-60 % ist ein gutes Mass."
-- Festschriften und Jubilaeen Jahre im voraus planen - Autorinnen muessen frueh angefragt werden.
+- Festschriften und Jubilaeen Jahre im voraus planen - Autorinnen müssen frueh angefragt werden.
 - Quartalsschwerpunkte funktionieren nur, wenn Aufmacher und Beibeitraege kohaerent sind.
 - Marketing in den Planungsprozess einbinden - aber nicht entscheidungstragend (Marketing folgt Inhalten, nicht umgekehrt).
 

@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Industrieanlagen mit komplexe
 ## Spezialwissen
 
 Industrieanlagen mit Gasen, Druckluft, Prozesswasser und Ex-Bereichen erfordern vertiefte Fachkunde und Abnahmepruefungen.
-Die Bauueberwachung nach HOAI LPH 8 koordiniert Bau- und Anlagengewerke und prueft Druckprueflisten, ATEX-Zonenpluene und Inbetriebnahme-Protokolle.
+Die Bauueberwachung nach HOAI LPH 8 koordiniert Bau- und Anlagengewerke und prüft Druckprueflisten, ATEX-Zonenpluene und Inbetriebnahme-Protokolle.
 SAP PM Enterprise Asset Management (EAM) wird bei Industriebetreibern zur Anlageninventarisierung und Maengelverfolgung genutzt.
 
 ## Bauwerk und Auftrag
@@ -70,7 +70,7 @@ SAP PM Enterprise Asset Management (EAM) wird bei Industriebetreibern zur Anlage
 
 ## Typische Fallstricke
 
-- ATEX-Zone ohne zugelassene Betriebsmittel: Zundgefahr, behordliche Betriebsstilllegung moeglich
+- ATEX-Zone ohne zugelassene Betriebsmittel: Zundgefahr, behordliche Betriebsstilllegung möglich
 - Druckbehaelter ohne PED-Abnahme: TUeV verweigert Inbetriebnahme, Baustop bis Konformitaet hergestellt
 - Rohrleitung ohne Druckpruefprotokoll: Undichtigkeiten erst im Betrieb sichtbar, Produktionsstop
 - Potentialausgleich Ex-Bereich vergessen: statische Aufladung bei Schuettgut-Foerderanlagen gefaehrlich

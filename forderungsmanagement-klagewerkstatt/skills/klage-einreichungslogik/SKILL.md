@@ -9,9 +9,9 @@ Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die
 
 ## Einreichungs-Checkliste
 
-| Punkt | Pruefung | Norm |
+| Punkt | Prüfung | Norm |
 |---|---|---|
-| Sachliche Zuständigkeit | Streitwert ueber zehntausend Euro LG sonst AG | GVG 23 Nr. 1 GVG 71 |
+| Sachliche Zuständigkeit | Streitwert über zehntausend Euro LG sonst AG | GVG 23 Nr. 1 GVG 71 |
 | Oertliche Zuständigkeit | Wohnsitz Beklagter Erfuellungsort Verbrauchergerichtsstand | ZPO 12 13 29 29c |
 | Streitwertangabe | konkrete Eurozahl im Schriftsatz | GKG 39 |
 | beA-Pflicht | Rechtsanwalt muss elektronisch einreichen | ZPO 130d |
@@ -23,7 +23,7 @@ Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die
 
 ## beA-Pflicht ZPO 130d
 
-Seit 1.1.2022 muessen Rechtsanwaeltinnen Schriftsaetze elektronisch einreichen. Verstoss fuehrt zu Unwirksamkeit. Ausnahme nur bei voruebergehender technischer Stoerung mit Glaubhaftmachung ZPO 130d Satz 2 und Satz 3.
+Seit 1.1.2022 müssen Rechtsanwaeltinnen Schriftsaetze elektronisch einreichen. Verstoss fuehrt zu Unwirksamkeit. Ausnahme nur bei voruebergehender technischer Stoerung mit Glaubhaftmachung ZPO 130d Satz 2 und Satz 3.
 
 ## Gerichtskostenvorschuss
 

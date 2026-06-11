@@ -108,14 +108,14 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. Ist der Zielmarkt in einem sensiblen Sektor — Verteidigung, kritische Infrastruktur, Energie, Telekommunikation, Medien, Technologie?
 4. Kommt ein FDI-Screening nach § 55 ff. AWV in Betracht — ist der Erwerber eine nichteuropaeische Gesellschaft oder hat nichteuropaeische Eigentuermer?
 5. Sind Filings in mehreren Jurisdiktionen erforderlich — USA (HSR Act), UK (CMA), China (SAMR), weitere?
-6. Liegen Konzentrationseffekte vor, die eine fusionskontrollrechtliche Pruefung in Phase II erfordern koennen?
+6. Liegen Konzentrationseffekte vor, die eine fusionskontrollrechtliche Prüfung in Phase II erfordern können?
 
 ## Zentrale Rechtsgrundlagen
 
 - §§ 35-44 GWB — Zusammenschlusskontrolle: Aufgreifschwellen, Anmeldepflicht, Phase I (1 Monat), Phase II (4 Monate), Vollzugsverbot
 - §§ 54-56 GWB — Ministererlaubnis; Nebenbestimmungen; sog. "second chance" nach Untersagung durch BKartA
 - Art. 1-4 FKVO (EU-Fusionskontrollverordnung 139/2004) — EU-Fusionskontrolle: Schwellen, Vollzugsverbot Art. 7
-- §§ 55-62 AWV — Investitionspruefung: sektorspezifische Pruefung (§ 55 AWV: kritische Infrastruktur u.a.); sektoruebergreifende Pruefung (§ 60 AWV: ab 25 % aus Drittstaaten); Meldepflicht; Genehmigungsvorbehalt
+- §§ 55-62 AWV — Investitionspruefung: sektorspezifische Prüfung (§ 55 AWV: kritische Infrastruktur u.a.); sektoruebergreifende Prüfung (§ 60 AWV: ab 25 % aus Drittstaaten); Meldepflicht; Genehmigungsvorbehalt
 - § 4 Abs. 2 AWG — Untersagungsmacht des BMWi bei Bedrohung der öffentlichen Ordnung oder Sicherheit
 - Art. 3 EU-FDI-Screening-VO 2019/452 — Koordinierungsrahmen für nationale FDI-Screenings innerhalb der EU
 
@@ -129,7 +129,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. **Umsatz-Screening:** weltweit und in Deutschland (GWB), in der EU (FKVO), in USA, UK, China — Schwellenwerte der Parteien zusammenstellen
 2. **Freigabe-Landkarte erstellen:** je Jurisdiktion: Schwelle erreicht? Filing erforderlich? Zeitplan (Phase I / II)?
 3. **Gun Jumping-Protokoll:** Clean Team einrichten, Information Barriers, erlaubter Informationsaustausch vor Freigabe dokumentieren
-4. **FDI-Pruefung:** § 55 AWV sektorbezogen vs. § 60 AWV sektorubergreifend pruefen; Erwerber-Herkunft feststellen; Meldepflicht-Fristen
+4. **FDI-Prüfung:** § 55 AWV sektorbezogen vs. § 60 AWV sektorubergreifend prüfen; Erwerber-Herkunft feststellen; Meldepflicht-Fristen
 5. **Filing-Vorbereitung:** Zusammenschlusserklaerung für BKartA/Kommission; Kontakte zu Behörden aufnehmen; Remedies-Szenarien vordenken
 6. **Zeitplan in CP-Tracker einbauen:** Filing-Datum, Phase-I-Ablauf, Phase-II-Risiko; Longstop-Date anpassen
 7. **Vollzugsverbot einhalten:** bis Freigabe kein wirtschaftlicher Einfluss des Erwerbers; Information Barriers; Gun Jumping-Protokoll
@@ -138,7 +138,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Schwelle GWB § 35 erreicht → Filing BKartA → Phase I 1 Monat → Phase II Risiko? → ggf. 4 Monate
 - EU-Schwelle FKVO Art. 1 erreicht → Kommission zuständig (one-stop-shop) → keine nationalen Filings
-- Erwerber ausserhalb EU mit >25 % Anteil → § 60 AWV FDI-Pruefung → ggf. Genehmigungsvorbehalt; BMWi
+- Erwerber ausserhalb EU mit >25 % Anteil → § 60 AWV FDI-Prüfung → ggf. Genehmigungsvorbehalt; BMWi
 - Sektor Verteidigung/kritische Infra → § 55 AWV → strenges sektorbezogenes Screening
 
 ## Output-Template: Freigabe-Landkarte
@@ -164,7 +164,7 @@ CLEAN TEAM: [ ] eingerichtet — Information Barriers aktiv
 
 - Filing unterlassen trotz Pflicht: Bussgeldhaftung (§ 81 GWB: bis 1 Mio. EUR; Art. 14 FKVO: bis 10 % Konzernumsatz)
 - Gun Jumping (Vollzug vor Freigabe): zivilrechtliche Nichtigkeit; Bussgeld; Rueckabwicklung
-- FDI-Screening nicht erkannt: Untersagung nach Closing moeglich; Behördenzwang zur Entflechtung
+- FDI-Screening nicht erkannt: Untersagung nach Closing möglich; Behördenzwang zur Entflechtung
 
 ## Standardausgabe
 

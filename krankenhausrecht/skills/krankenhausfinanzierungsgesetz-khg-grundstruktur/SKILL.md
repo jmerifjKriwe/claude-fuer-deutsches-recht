@@ -39,10 +39,10 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 - **SGB V § 108, 109** Zulassung von Krankenhaeusern als GKV-Versorger.
 
 ## / Schritt für Schritt
-1. **Status klaeren:** Plan, Hochschul, Vertrag (§ 108 SGB V), Sicherstellung?
-2. **Relevante KHG-Norm identifizieren:** Plan/§ 6, Förderung/§ 9, Verguetung/§ 17 ff.
+1. **Status klären:** Plan, Hochschul, Vertrag (§ 108 SGB V), Sicherstellung?
+2. **Relevante KHG-Norm identifizieren:** Plan/§ 6, Förderung/§ 9, Vergütung/§ 17 ff.
 3. **Bund-/Landesebene trennen:** KHG Bundesrecht; Landeskrankenhausgesetze konkretisieren.
-4. **KHVVG-Auswirkung pruefen:** Welche Aenderung greift bereits, was ist Konvergenz?
+4. **KHVVG-Auswirkung prüfen:** Welche Aenderung greift bereits, was ist Konvergenz?
 5. **Output formen:** Memo, Stellungnahme, Antrag, Klagebegruendung.
 
 ## Trade-off-Matrix
@@ -52,7 +52,7 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 | Plankrankenhaus | Investitionsfoerderung, Versorgungsauftrag | Strukturvorgaben, LG-Bindung |
 | Hochschulklinik | Sonderfinanzierung Forschung/Lehre | hohe Anforderungen, Landesgesetz |
 | Vertragsklinik § 108 Nr. 3 | flexible Versorgungsausrichtung | keine Investitionsfoerderung |
-| Sicherstellungshaus | Zuschlaege § 17b Abs. 1a KHEntgG | besondere Pruefung Bedarf |
+| Sicherstellungshaus | Zuschlaege § 17b Abs. 1a KHEntgG | besondere Prüfung Bedarf |
 
 ## Praxistipps
 - KHG ist Bund, Landeskrankenhausgesetz konkretisiert; bei Konflikt: Bundesrecht bricht Landesrecht nur, wo abschliessend geregelt.
@@ -62,10 +62,10 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 
 ## Mustertexte
 **Aufnahmeantrag in den Krankenhausplan:**
-> An [zuständige Behörde]. Wir beantragen die Aufnahme der Klinik [Name] in den Krankenhausplan des Landes [Land] gemaess § 6 KHG i. V. m. § … LKHG. Beigefuegt: Bedarfsbegruendung, Strukturqualitaetsnachweis, LG-Profil, Wirtschaftlichkeitsdarstellung.
+> An [zuständige Behörde]. Wir beantragen die Aufnahme der Klinik [Name] in den Krankenhausplan des Landes [Land] gemäß § 6 KHG i. V. m. § … LKHG. Beigefuegt: Bedarfsbegruendung, Strukturqualitaetsnachweis, LG-Profil, Wirtschaftlichkeitsdarstellung.
 
 ## Typische Fehler
-- KHG ohne Bezug zu Landeskrankenhausgesetz pruefen — Foerderdetails dort.
+- KHG ohne Bezug zu Landeskrankenhausgesetz prüfen — Foerderdetails dort.
 - Plankrankenhausstatus mit GKV-Versorgungsvertrag verwechseln (§ 108 SGB V).
 - KHVVG-Aenderungen nicht in laufende Foerderbescheide einarbeiten.
 

@@ -7,13 +7,13 @@ description: "Mit Akten und Anlagen optimal in die muendliche Verhandlung vor de
 
 ## Worum geht es?
 
-Sie haben eine Klage eingereicht oder eine Klageerwiderung geschrieben. Jetzt kommt der Termin im Gerichtssaal (oder per Video). Diese Skill zeigt, **wie Sie Ihre Akten so vorbereiten, dass Sie im Termin nichts suchen muessen** und auf jede Frage des Richters die richtige Anlage in der Hand haben.
+Sie haben eine Klage eingereicht oder eine Klageerwiderung geschrieben. Jetzt kommt der Termin im Gerichtssaal (oder per Video). Diese Skill zeigt, **wie Sie Ihre Akten so vorbereiten, dass Sie im Termin nichts suchen müssen** und auf jede Frage des Richters die richtige Anlage in der Hand haben.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben eine Ladung zum Termin bekommen.
 - Sie haben mehrere Anlagen und Schriftsaetze.
-- Sie wollen sich nicht im Termin blamieren, weil Sie etwas suchen muessen.
+- Sie wollen sich nicht im Termin blamieren, weil Sie etwas suchen müssen.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -37,7 +37,7 @@ Besorgen Sie einen Ordner (Schnell-Hefter oder Ringordner). Erstellen Sie Trennl
 - **Tab "Replik"**
 - **Tab "Termin-Notizen"** (leerer Block)
 
-Schreiben Sie auf die Trennlasche **gross und lesbar** den Tab-Namen.
+Schreiben Sie auf die Trennlasche **groß und lesbar** den Tab-Namen.
 
 ### Schritt 2 — Stichwort-Liste erstellen
 
@@ -100,9 +100,9 @@ Legen Sie einen leeren Block oder Notizblock in die letzte Trennlasche. Im Termi
 - Wasser-Flasche
 - Kugelschreiber + Reserve-Stift
 
-### Schritt 6 — Anlagen-Reiter koennen Lebensretter sein
+### Schritt 6 — Anlagen-Reiter können Lebensretter sein
 
-Beschriften Sie jede Trennlasche so gross, dass Sie sie aus 30 cm Entfernung lesen koennen. So koennen Sie im Termin schnell zur richtigen Stelle blaettern, ohne lange zu suchen.
+Beschriften Sie jede Trennlasche so groß, dass Sie sie aus 30 cm Entfernung lesen können. So können Sie im Termin schnell zur richtigen Stelle blaettern, ohne lange zu suchen.
 
 ## Bei Video-Verhandlung (§ 128a ZPO)
 
@@ -110,12 +110,12 @@ Wenn der Termin als Video stattfindet, brauchen Sie:
 
 - Computer/Tablet mit Webcam und Mikrofon.
 - Ruhigen Raum.
-- **Akten-Ordner offen neben dem Geraet** — Sie koennen waehrend des Videos kurz reinschauen.
+- **Akten-Ordner offen neben dem Geraet** — Sie können waehrend des Videos kurz reinschauen.
 - **Zweites Geraet (z.B. Tablet)** mit den wichtigsten PDFs offen — als Backup, wenn Sie schnell etwas zeigen sollen.
 - Stabile Internet-Verbindung.
-- Personalausweis für Identitaets-Pruefung griffbereit.
+- Personalausweis für Identitaets-Prüfung griffbereit.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Vor dem Termin durchblaettern**: Die Akten den Tag vor dem Termin noch einmal durchgehen. So sind Sie sicher, wo was steht.
 - **Frueh erscheinen**: 30 Min. vor Termin im Gericht sein (Sicherheits-Kontrolle, Saal suchen, anmelden).

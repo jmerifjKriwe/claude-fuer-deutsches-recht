@@ -3,7 +3,7 @@ name: projektfoerderung-titel-pruefen
 description: "Haushaltsrecht BHO Bund und Länder: Projektförderung: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Projektfoerderung Titel Pruefen
+# Projektfoerderung Titel Prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Projektförderung: Titel prü
 
 ## Normenanker
 
-Arbeitsfokus: **Projektfoerderung Titel Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Projektfoerderung Titel Prüfen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 23 BHO` — Zuwendungen.
 - `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.

@@ -3,7 +3,7 @@ name: entwerfen-oder-pruefen-router
 description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Pruefen Router; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
-# Entwerfen Oder Pruefen Router
+# Entwerfen Oder Prüfen Router
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Entwerfen Oder Pruefen Router
+## Fachkern: Entwerfen Oder Prüfen Router
 - **Normen-/Quellenanker:** BGB/AGB-Recht, GeschGehG, DSGVO, HinSchG, ArbR, Kartellrecht, Exportkontrolle, IP-Rechte und prozessuale Herausgabepflichten.
 - **Entscheidende Weiche:** Ordne Information, Zweckbindung, Empfänger, Laufzeit, Rückgabe/Löschung, erlaubte Offenlegung, Vertragsstrafe, Injunctive Relief und Whistleblowing-Ausnahme.
 

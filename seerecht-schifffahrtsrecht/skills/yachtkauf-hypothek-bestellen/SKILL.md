@@ -21,10 +21,10 @@ Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus beste
 Eine Bank bestellt eine Hypothek auf ein Segel- oder Motorjacht als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Segel- oder Motorjacht als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
 
 ## Erste Schritte
-1. Eintragungsfaehigkeit des Segel- oder Motorjachts pruefen; Eintragung im Seeschiffsregister oder Kleinfahrzeugregister bestaetigen.
+1. Eintragungsfaehigkeit des Segel- oder Motorjachts prüfen; Eintragung im Seeschiffsregister oder Kleinfahrzeugregister bestaetigen.
 2. Sicherungsabrede aufsetzen: gesicherte Forderungen, Kuendigungsrechte, Cross-Default.
 3. Notarielle Hypothekenbestellungsurkunde nach SchRG §§ 8-18 erstellen.
-4. Vertretungsbefugnis des Eigentuemers pruefen; ggf. Handelsregisterauszug.
+4. Vertretungsbefugnis des Eigentuemers prüfen; ggf. Handelsregisterauszug.
 5. Eintragungsantrag beim {reg_type}-Gericht stellen; Rangstelle fruehzeitig reservieren.
 6. Eintragungsbestaetigung und ggf. Hypothekenbrief sichern; Sicherungsvertrag archivieren.
 

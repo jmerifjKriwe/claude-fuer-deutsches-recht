@@ -30,7 +30,7 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 1. Hat der Mandant Aufforderung von Destatis/Landesamt erhalten?
 2. Welche Statistik wird angefordert (Quartal, 4-Jahres, anlassbezogen)?
 3. Wieviele AN sind im Berichtszeitraum?
-4. Welche Lohndaten muessen geliefert werden?
+4. Welche Lohndaten müssen geliefert werden?
 5. Welche Sondervergueteungen sind einzubeziehen?
 6. Welche Form der Uebermittlung (Online-Portal, Excel)?
 7. Welche Frist?
@@ -46,7 +46,7 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 
 **§ 15 BStatG** — Auskunftspflicht der Befragten.
 
-**§ 16 BStatG** — Geheimhaltung der Einzelangaben (BStatG-Fassung 2016 BGBl. I S. 2006; Paragraphennummerierung bei Gesetzesnovellierung ueber aktuelle BStatG-Fassung auf gesetze-im-internet.de pruefen).
+**§ 16 BStatG** — Geheimhaltung der Einzelangaben (BStatG-Fassung 2016 BGBl. I S. 2006; Paragraphennummerierung bei Gesetzesnovellierung über aktuelle BStatG-Fassung auf gesetze-im-internet.de prüfen).
 
 ### Verwaltungsanweisungen
 
@@ -55,7 +55,7 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 
 ## Workflow
 
-### Phase 1 — Aufforderungs-Pruefung
+### Phase 1 — Aufforderungs-Prüfung
 
 - Liegt schriftliche Aufforderung mit Az vor?
 - Welche Frist?
@@ -68,7 +68,7 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 | Verdiensterhebung Quartal | Bruttolohnsumme, Stunden, AN-Zahl je Lohngruppe | 4-6 Wochen nach Quartalsende |
 | Verdienststrukturerhebung 4 Jahre | Individuelle AN-Daten (anonymisiert) | Festgelegt |
 | Statistik Berufsgenossenschaften | Lohnsummen, Arbeitsunfaelle | Jaehrlich |
-| Bundesagentur-Statistik | Beschaeftigungsdaten ueber DEUEV | Laufend |
+| Bundesagentur-Statistik | Beschaeftigungsdaten über DEUEV | Laufend |
 
 ### Phase 3 — Uebermittlung
 
@@ -80,14 +80,14 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 ### Phase 4 — Datenschutz
 
 - Daten werden anonymisiert ausgewertet.
-- Keine Personalisierung in Statistik moeglich.
+- Keine Personalisierung in Statistik möglich.
 - Geheimhaltungspflicht beachten.
 
 ### Phase 5 — Bei Verspaetung
 
 - Mahnung mit Frist.
 - Bei wiederholter Nichtmeldung: Bussgeld bis 5.000 EUR.
-- Schaetzung der Werte durch Destatis moeglich.
+- Schaetzung der Werte durch Destatis möglich.
 
 ### Phase 6 — Dokumentation
 
@@ -99,8 +99,8 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 
 - Aufforderungen rechtzeitig erkennen — wenn beim Mandanten landet, oft uebersehen.
 - Bei wiederkehrenden Statistiken (Verdiensterhebung Quartal): Dauer-Wiedervorlage.
-- DATEV-LODAS Datenexport oft direkt zur Statistik-Vorlage moeglich.
-- Bei sehr kleinen Mandanten (wenig AN): Befreiung von der Stichprobe pruefen.
+- DATEV-LODAS Datenexport oft direkt zur Statistik-Vorlage möglich.
+- Bei sehr kleinen Mandanten (wenig AN): Befreiung von der Stichprobe prüfen.
 - StBVV: Statistik-Meldung als Sonderauftrag (Zeithonorar).
 - DATEV-Tipp: DATEV LODAS Statistik-Schnittstelle nutzen.
 
@@ -108,7 +108,7 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 
 Stand: 05/2026.
 
-- BStatG §§ 15, 16 (Fassung 2016, BGBl. I S. 2006; bei Gesetzesaenderung aktuelle Fassung auf gesetze-im-internet.de pruefen).
+- BStatG §§ 15, 16 (Fassung 2016, BGBl. I S. 2006; bei Gesetzesaenderung aktuelle Fassung auf gesetze-im-internet.de prüfen).
 
 - VerdStatG.
 - Destatis-IDEV-Portal.

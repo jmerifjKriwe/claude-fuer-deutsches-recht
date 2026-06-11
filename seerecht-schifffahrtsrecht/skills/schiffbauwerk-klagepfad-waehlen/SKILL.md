@@ -20,9 +20,9 @@ Eine Bank will nach Kreditausfall aus der Hypothek am Schiff im Bau (Schiffbauwe
 1. Schiffswert des Schiff im Bau (Schiffbauwerk) ermitteln: aktuelles Schätzgutachten beschaffen.
 2. Glaeubigerrangfolge aufstellen: gesetzliche Vorrechte dann Hypotheken nach Rang.
 3. ZPO §§ 864-871 Zwangsversteigerung: Zeitaufwand; Kosten; erwarteter Erloes.
-4. Einvernehmlichen Verkauf pruefen: schneller und guenstiger wenn Reeder kooperiert.
+4. Einvernehmlichen Verkauf prüfen: schneller und guenstiger wenn Reeder kooperiert.
 5. Insolvenzantrag als taktisches Mittel: Arrests anderer Glaeubiger stoppen.
-6. Schiedsklausel im Kreditvertrag pruefen: London Arbitration oder deutsches Gericht?
+6. Schiedsklausel im Kreditvertrag prüfen: London Arbitration oder deutsches Gericht?
 
 ## Rechtsrahmen
 - ZPO §§ 864-871 Zwangsversteigerung; InsO §§ 49-51 Absonderung; HGB §§ 596-601 Vorrangrechte; SchRG §§ 59-74 Rang.
@@ -30,7 +30,7 @@ Eine Bank will nach Kreditausfall aus der Hypothek am Schiff im Bau (Schiffbauwe
 ## Prüfraster
 - Uebersteigt Schiffswert des Schiff im Bau (Schiffbauwerk) die Kreditvaluta?
 - Gibt es erstrangige Vorrechte die den Erloes aufzehren?
-- Ist einvernehmlicher Verkauf moeglich?
+- Ist einvernehmlicher Verkauf möglich?
 - Droht auslaendische Vollstreckung das deutsche Verfahren zu unterlaufen?
 - Ist Insolvenzantrag taktisch sinnvoll?
 

@@ -23,13 +23,13 @@ Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Manda
 2. **Neue Eintragung droht?** — Nach Bussgeldbescheid oder Verurteilung: wann wird eingetragen?
 3. **Wie viele Punkte nach neuer Eintragung?** — Warnstufen nach § 4 Abs. 5 StVG: bei 4 Punkten Ermahnung, bei 6 Punkten Verwarnung, bei 8 Punkten Entzug.
 4. **Tilgungsfristen laufen?** — § 65 StVG: Punktetilgung nach Ablauf der Tilgungsfrist (2,5 oder 10 Jahre je nach Eintragungsart).
-5. **Freiwilliger Kurs moeglich?** — Nach § 4 Abs. 7 StVG: bei Punkt-Level 1-5 kann Kurs 1 Punkt reduzieren.
+5. **Freiwilliger Kurs möglich?** — Nach § 4 Abs. 7 StVG: bei Punkt-Level 1-5 kann Kurs 1 Punkt reduzieren.
 
 ## Zentrale Normen
 
 - **§ 4 StVG** — Fahreignungs-Bewertungssystem: Eintragungen, Warnstufen, Konsequenzen
-- **§ 4 Abs. 5 StVG** — Stufensystem: 1-3 Punkte (keine Massnahme), 4-5 Punkte (Ermahnung), 6-7 Punkte (Verwarnung), 8+ Punkte (Entziehung)
-- **§ 4 Abs. 7 StVG** — Freiwilliger Kurs: 1 Punkt-Reduktion moeglich bei <= 5 Punkten
+- **§ 4 Abs. 5 StVG** — Stufensystem: 1-3 Punkte (keine Maßnahme), 4-5 Punkte (Ermahnung), 6-7 Punkte (Verwarnung), 8+ Punkte (Entziehung)
+- **§ 4 Abs. 7 StVG** — Freiwilliger Kurs: 1 Punkt-Reduktion möglich bei <= 5 Punkten
 - **§ 30 StVG** — Recht auf Auskunft aus dem FAER
 - **§ 65 StVG** — Tilgungsfristen: Grundregel 2,5 Jahre; Ausnahme (z.B. Straftaten mit Entziehung) 10 Jahre
 - **§ 66 StVG** — Tilgungshemmung bei neuer Eintragung innerhalb der Tilgungsfrist
@@ -65,14 +65,14 @@ Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Manda
 
 1. **FAER-Auskunft beantragen** (§ 30 StVG) — Mandant beim KBA Flensburg (Kraftfahrtbundesamt).
 2. **Punktestand berechnen** nach neuer Eintragung.
-3. **Tilgungsfristen pruefen:** Laufen alte Eintragungen demnachst aus?
-4. **Kursoption pruefen:** <= 5 Punkte → freiwilliger Kurs nach § 4 Abs. 7 StVG.
-5. **MPU-Risiko pruefen:** Bei Alkohol- oder Drogendelikten koennen Behörden MPU anordnen.
+3. **Tilgungsfristen prüfen:** Laufen alte Eintragungen demnachst aus?
+4. **Kursoption prüfen:** <= 5 Punkte → freiwilliger Kurs nach § 4 Abs. 7 StVG.
+5. **MPU-Risiko prüfen:** Bei Alkohol- oder Drogendelikten können Behörden MPU anordnen.
 6. **Verwaltungsrechtlichen Weg einschlagen** bei unberechtigter Eintragung (Widerspruch, VG-Klage).
 
 ## Harte Leitplanken
 
-- Punkte koennen nicht "verhandelt" werden — Eintragung ist automatisch nach Rechtskraft.
+- Punkte können nicht "verhandelt" werden — Eintragung ist automatisch nach Rechtskraft.
 - Tilgungshemmung durch neue Eintragung beachten.
 - Freiwilliger Kurs nur bei <= 5 Punkten wirksam.
 - Anwaltliche Endkontrolle bei Kursempfehlung und Verwaltungsrechtsstrategie.

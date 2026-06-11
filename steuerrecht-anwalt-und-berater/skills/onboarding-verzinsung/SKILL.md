@@ -26,7 +26,7 @@ description: "Systematik aller Steuerzinsen — Nachzahlungs- und Erstattungszin
 - **§ 234 AO** — Stundungszinsen.
 - **§ 235 AO** — Hinterziehungszinsen.
 - **§ 237 AO** — Aussetzungszinsen.
-- **§ 238 AO** — Hoehe und Berechnung der Zinsen.
+- **§ 238 AO** — Höhe und Berechnung der Zinsen.
 - **§ 239 AO** — Festsetzung der Zinsen.
 - **§ 240 AO** — Saeumniszuschlaege.
 - **§ 227 AO** — Erlass aus Billigkeitsgruenden.

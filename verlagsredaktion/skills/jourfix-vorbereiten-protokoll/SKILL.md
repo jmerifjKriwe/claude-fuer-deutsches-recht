@@ -15,16 +15,16 @@ description: "Bereitet einen Jourfixe der Verlagsredaktion vor: knappe Agenda St
 
 ## Worum geht es konkret
 
-Der Jourfixe (woechentlich oder vierzehntaeglich) ist der Routinetermin der Verlagsredaktion: 30-60 Min, Status aller laufenden Manuskripte, naechste Schritte, Eskalationen. Anders als die Heftsitzung (`verl-redaktionssitzung-vorbereiten`) entscheidet er nicht ueber Themenarchitektur, sondern ueber Tagesgeschaeft. Dieser Skill ist Vorbereitung und Protokoll.
+Der Jourfixe (woechentlich oder vierzehntaeglich) ist der Routinetermin der Verlagsredaktion: 30-60 Min, Status aller laufenden Manuskripte, naechste Schritte, Eskalationen. Anders als die Heftsitzung (`verl-redaktionssitzung-vorbereiten`) entscheidet er nicht über Themenarchitektur, sondern über Tagesgeschaeft. Dieser Skill ist Vorbereitung und Protokoll.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn für jeden Jourfixe. Klaeren Sie vorab:
+Sie brauchen ihn für jeden Jourfixe. Klären Sie vorab:
 
 1. Welche Teilnehmer (Lektorat, Schriftleitung, Produktion)?
 2. Welche Dauer (30 oder 60 Min)?
 3. Welche laufenden Manuskripte stehen zur Statusabfrage?
-4. Welche Eskalationen muessen heute entschieden werden?
+4. Welche Eskalationen müssen heute entschieden werden?
 
 ## Material- bzw. Sachrahmen
 
@@ -39,7 +39,7 @@ Sie brauchen ihn für jeden Jourfixe. Klaeren Sie vorab:
 3. **Pre-Read.** Statusliste 24 h vorab an alle. Vorab-Kommentare einsammeln.
 4. **Moderation.** Strikt zeitlich. Wenn ein TOP nicht entschieden werden kann, parken.
 5. **Protokoll** innerhalb 24 Stunden. Beschluss mit Owner und Frist; Diskussion nur sehr knapp.
-6. **Nachverfolgung.** Beschluesse als Tickets / Aufgaben anlegen.
+6. **Nachverfolgung.** Beschlüsse als Tickets / Aufgaben anlegen.
 7. **Bei wiederkehrenden Themen** Standardloesung definieren (z. B. Lieferverzug -> Standardanschreiben).
 
 ## Trade-off-Matrix
@@ -53,7 +53,7 @@ Sie brauchen ihn für jeden Jourfixe. Klaeren Sie vorab:
 ## Praxistipps der alten Redaktion
 
 - "Ein Jourfix ohne Pre-Read-Statusliste ist 30 Min Geplauder. Mit Pre-Read 30 Min Entscheidungen."
-- Beschluesse ohne Owner und Frist sind Wuensche, keine Entscheidungen.
+- Beschlüsse ohne Owner und Frist sind Wuensche, keine Entscheidungen.
 - Wenn ein Eskalationspunkt zweimal hintereinander verschoben wird, gehoert er an einen besseren Entscheider (oben).
 - Wiederkehrende Themen sind Hinweis auf fehlendes Standardverfahren - Standard definieren und ablegen.
 - Protokoll im Verlagsworkspace ablegen, nicht in Mail-Anhaengen.
@@ -102,7 +102,7 @@ Naechster Jourfix: 19.06.2026, 10:00.
 ## Typische Fehler / Pitfalls
 
 - Keine Pre-Read-Statusliste - Sitzung wird zur Statusabfrage.
-- Beschluesse ohne Owner / Frist.
+- Beschlüsse ohne Owner / Frist.
 - Eskalation immer weiter geparkt - nichts entschieden.
 - Protokoll erst nach Tagen - alle vergessen.
 - Wiederkehrende Themen ohne Standardloesung.

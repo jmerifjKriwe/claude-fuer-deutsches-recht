@@ -19,7 +19,7 @@ Ein Podcast ist Quelle eines Beitrags - entweder weil der Autor selbst Podcast-I
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast als Hauptquelle verwertet werden soll. Klaeren Sie:
+Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast als Hauptquelle verwertet werden soll. Klären Sie:
 
 1. Eigener Podcast (Selbstverwertung) oder Fremdpodcast (Zitatschranke)?
 2. Liegt das Transkript vor oder muss es erstellt werden?
@@ -35,8 +35,8 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Quellnachweis vollstaendig sichern.** Podcast-Titel, Folge, Datum, Plattform, URL, Zeitstempel der zitierten Aussage. URL stabil? RSS-Feed-Eintrag archivieren (z. B. Wayback Machine), weil Podcasts geloescht werden koennen.
-2. **Zitatschranke § 51 UrhG pruefen** bei Fremdpodcast: Zitat dient einem inhaltlichen Bezug, nicht der Ausschmueckung; Umfang ist auf das Belegnoetige beschraenkt.
+1. **Quellnachweis vollstaendig sichern.** Podcast-Titel, Folge, Datum, Plattform, URL, Zeitstempel der zitierten Aussage. URL stabil? RSS-Feed-Eintrag archivieren (z. B. Wayback Machine), weil Podcasts geloescht werden können.
+2. **Zitatschranke § 51 UrhG prüfen** bei Fremdpodcast: Zitat dient einem inhaltlichen Bezug, nicht der Ausschmueckung; Umfang ist auf das Belegnoetige beschraenkt.
 3. **Transkriptauszug** als Fussnotenbeleg, woertlich, mit Zeitstempel.
 4. **Sprecher-Identifikation.** Bei mehreren Stimmen genau zuordnen; bei Gaesten Funktion benennen (z. B. "Vors. RiBGH a.D.").
 5. **Inhaltliche Verarbeitung.** Aussage einordnen, nicht uebernehmen. Podcast-Aussagen sind oft pointiert; im Aufsatz muss die Aussage rechtsdogmatisch eingebettet werden.

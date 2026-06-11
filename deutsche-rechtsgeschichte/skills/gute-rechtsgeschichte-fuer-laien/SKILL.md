@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,11 +32,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Rechtsgeschichte für Nicht-Juristen erfordert eine andere Sprache und Struktur als Facharbeit. Kernaufgabe: komplexe historische Rechtsinstitute in zugaenglicher Sprache erklaeren, ohne Praezision zu opfern. Das bedeutet: Fremdwoerter erklaeren (Pandektistik = Systematisierung des roemischen Rechts durch Kommentatoren), Epochen mit anschaulichen Ankerpunkten benennen (Sachsenspiegel = erster grosser Rechtstext in Mitteldeutsch), und Gegenwartsrelevanz herstellen (Warum praegt das BGB 1900 bis heute unser Vertragsrecht?).
+Rechtsgeschichte für Nicht-Juristen erfordert eine andere Sprache und Struktur als Facharbeit. Kernaufgabe: komplexe historische Rechtsinstitute in zugaenglicher Sprache erklaeren, ohne Praezision zu opfern. Das bedeutet: Fremdwoerter erklaeren (Pandektistik = Systematisierung des roemischen Rechts durch Kommentatoren), Epochen mit anschaulichen Ankerpunkten benennen (Sachsenspiegel = erster großer Rechtstext in Mitteldeutsch), und Gegenwartsrelevanz herstellen (Warum praegt das BGB 1900 bis heute unser Vertragsrecht?).
 
 ## Kernnormen / Kernquellen
 
-- **Sachsenspiegel** (ca. 1220-1235): Erster grosser Rechtstext in niederdeutscher Volkssprache
+- **Sachsenspiegel** (ca. 1220-1235): Erster großer Rechtstext in niederdeutscher Volkssprache
 - **BGB 1900**: 2385 Paragraphen, gepraegt von Pandektistik und Vertragsliberalismus
 - **WRV 1919**: Erste demokratische Gesamtverfassung, aber gescheitert
 - **GG 1949 Art. 1-19**: Grundrechtskatalog als Reaktion auf NS-Unrecht

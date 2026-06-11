@@ -3,11 +3,11 @@ name: drittwirkung-grundrechte-mittelbar
 description: Mittelbare Drittwirkung der Grundrechte im Privatrecht. Grundrechte wirken nicht unmittelbar zwischen Privaten sondern strahlen ueber die Generalklauseln Paragraphen 138 242 826 BGB in das Zivilrecht ein. Erlaeutert Lueth-Linie objektive Wertordnung Ausstrahlungswirkung und wie Verhaeltnismaessigkeit als Abwaegungsmassstab zwischen kollidierenden Grundrechten privater Parteien zum Tragen kommt. Grenzen der Drittwirkung und Verhaeltnis zur Privatautonomie.
 ---
 
-# Mittelbare Drittwirkung — Grundrechte im Privatrecht durch Verhaeltnismaessigkeit
+# Mittelbare Drittwirkung — Grundrechte im Privatrecht durch Verhältnismäßigkeit
 
 ## Zweck dieses Skills
 
-Grundrechte binden nach Art. 1 Abs. 3 GG den Staat. Sie wirken aber auch in das Privatrecht hinein — nicht unmittelbar als Anspruchsgrundlage zwischen Privaten sondern mittelbar ueber die Auslegung von Generalklauseln und unbestimmten Rechtsbegriffen. Verhaeltnismaessigkeit ist dabei kein staatsgerichteter Eingriffsmassstab mehr sondern Abwaegungsmassstab zwischen kollidierenden Grundrechten privater Parteien. Dieser Skill ordnet die Dogmatik und zeigt wie die Pruefung konkret laeuft.
+Grundrechte binden nach Art. 1 Abs. 3 GG den Staat. Sie wirken aber auch in das Privatrecht hinein — nicht unmittelbar als Anspruchsgrundlage zwischen Privaten sondern mittelbar über die Auslegung von Generalklauseln und unbestimmten Rechtsbegriffen. Verhältnismäßigkeit ist dabei kein staatsgerichteter Eingriffsmassstab mehr sondern Abwaegungsmassstab zwischen kollidierenden Grundrechten privater Parteien. Dieser Skill ordnet die Dogmatik und zeigt wie die Prüfung konkret laeuft.
 
 ## Dogmatische Grundlage
 
@@ -32,18 +32,18 @@ Grundrechte wirken nicht direkt sondern durch das einfachrechtliche Vehikel:
 2. **Grundrechtspositionen beider Seiten benennen** — keine einseitige Sicht.
 3. **Einbruchstelle bestimmen** — Generalklausel oder unbestimmter Rechtsbegriff im Normprogramm.
 4. **Praktische Konkordanz herstellen** — schonender Ausgleich beider Grundrechte.
-5. **Verhaeltnismaessigkeit der Auslegung** — die gewaehlte Auslegung darf keinen unverhaeltnismaessigen Eingriff in eines der Grundrechte bewirken.
+5. **Verhältnismäßigkeit der Auslegung** — die gewaehlte Auslegung darf keinen unverhaeltnismaessigen Eingriff in eines der Grundrechte bewirken.
 
-## Verhaeltnismaessigkeit als Abwaegungsinstrument
+## Verhältnismäßigkeit als Abwaegungsinstrument
 
-Die klassische Vier-Stufen-Pruefung passt nicht unveraendert weil hier nicht Staat gegen Buerger steht. Adaptiert wird:
+Die klassische Vier-Stufen-Prüfung passt nicht unveraendert weil hier nicht Staat gegen Buerger steht. Adaptiert wird:
 
 1. **Legitimer Zweck der einfachrechtlichen Auslegung** — meist Schutz der Gegenpartei oder eines Gemeinwohlbelangs.
-2. **Geeignetheit** — die gewaehlte Auslegung muss den Schutzzweck erreichen koennen.
+2. **Geeignetheit** — die gewaehlte Auslegung muss den Schutzzweck erreichen können.
 3. **Erforderlichkeit** — eine grundrechtsschonendere Auslegung darf nicht gleich geeignet zur Verfuegung stehen.
 4. **Angemessenheit** — die Gewichte der beiderseitigen Grundrechtspositionen sind in einen schonenden Ausgleich zu bringen. Faktoren: Eingriffstiefe Sozialbezug strukturelle Unterlegenheit einer Partei.
 
-Im Ergebnis ist Verhaeltnismaessigkeit hier kein Schranken-Schranke-Mechanismus sondern Optimierungsregel im Sinne der Prinzipientheorie.
+Im Ergebnis ist Verhältnismäßigkeit hier kein Schranken-Schranke-Mechanismus sondern Optimierungsregel im Sinne der Prinzipientheorie.
 
 ## Strukturelle Unterlegenheit
 
@@ -62,16 +62,16 @@ In diesen Konstellationen kann die Verhaeltnismaessigkeitspruefung zu einer fakt
 - BVerfGE 89 214 — Buergschaft naher Angehoeriger
 - BVerfGE 103 89 — Eheverzicht und Sittenwidrigkeit
 - BVerfGE 137 273 — Chefarzt der katholischen Krankenhaustraegerschaft
-- BVerfGE 148 267 — Stadionverbot als verstaerkte mittelbare Drittwirkung ueber zivilrechtliche Generalklauseln (kein Wechsel zur unmittelbaren Grundrechtsbindung Privater; Pflicht zur Beachtung der Grundrechte als Werteordnung). Vertiefung im Spezial-Skill drittwirkung-stadionverbot-bundesverfassungsgericht.
+- BVerfGE 148 267 — Stadionverbot als verstaerkte mittelbare Drittwirkung über zivilrechtliche Generalklauseln (kein Wechsel zur unmittelbaren Grundrechtsbindung Privater; Pflicht zur Beachtung der Grundrechte als Werteordnung). Vertiefung im Spezial-Skill drittwirkung-stadionverbot-bundesverfassungsgericht.
 - BVerfGE 152 152 — Recht auf Vergessen II und Charta-Wirkung
 
 ## Fallstricke
 
-- **Unmittelbare Drittwirkung pauschal annehmen** — sie ist die Ausnahme. Regel ist die mittelbare Wirkung ueber Generalklauseln.
+- **Unmittelbare Drittwirkung pauschal annehmen** — sie ist die Ausnahme. Regel ist die mittelbare Wirkung über Generalklauseln.
 - **Nur eine Seite betrachten** — Drittwirkung ist beidseitig. Privatautonomie der Gegenseite ist eigenes Grundrecht aus Art. 2 Abs. 1 GG.
-- **Verhaeltnismaessigkeit unveraendert anwenden** — die Vier-Stufen-Pruefung muss zur Abwaegung zwischen zwei Grundrechtstraegern modifiziert werden.
+- **Verhältnismäßigkeit unveraendert anwenden** — die Vier-Stufen-Prüfung muss zur Abwaegung zwischen zwei Grundrechtstraegern modifiziert werden.
 - **Generalklausel nicht benennen** — die Einbruchstelle muss konkret in der Norm liegen. Ohne Generalklausel keine mittelbare Drittwirkung.
-- **Schutzpflichtdimension uebergehen** — wo der Staat schuetzen muss aktiviert sich auch das Untermassverbot. Beide Dimensionen koennen zusammenwirken.
+- **Schutzpflichtdimension uebergehen** — wo der Staat schuetzen muss aktiviert sich auch das Untermassverbot. Beide Dimensionen können zusammenwirken.
 
 ## Verwandte Skills
 

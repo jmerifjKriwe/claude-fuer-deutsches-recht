@@ -7,7 +7,7 @@ description: "Geschaeftsgeheimnis Schutz Gehg BGH I Zb 117 19: fachanwaltlicher 
 
 ## Einsatzlage
 
-Ehemaliger Mitarbeiter nimmt Kundenliste mit; Streit ueber Geschaeftsgeheimnis.
+Ehemaliger Mitarbeiter nimmt Kundenliste mit; Streit über Geschaeftsgeheimnis.
 
 ## Normenanker
 

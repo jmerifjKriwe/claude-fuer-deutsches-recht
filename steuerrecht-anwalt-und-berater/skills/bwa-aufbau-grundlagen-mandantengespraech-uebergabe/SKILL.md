@@ -34,7 +34,7 @@ Die Betriebswirtschaftliche Auswertung (BWA) ist das zentrale unterjaehrige Steu
 5. Welche Periodenabgrenzungen sind vorgesehen — laufende Abgrenzungen (RAP) monatlich, vereinfacht jaehrlich oder gar nicht?
 6. Sind die Personalkosten brutto oder mit Arbeitgeberanteilen erfasst? Liegen Daten aus dem Lohnprogramm zeitnah vor?
 7. Ist eine kalkulatorische Position vorgesehen (kalkulatorischer Unternehmerlohn, kalkulatorischer Mietzins)?
-8. Welche Empfaengerformatierung wuenscht der Mandant — knappe Uebersicht, ausfuehrliche BWA, mit Grafiken?
+8. Welche Empfaengerformatierung wuenscht der Mandant — knappe Übersicht, ausfuehrliche BWA, mit Grafiken?
 
 ## Rechtlicher Rahmen
 
@@ -56,20 +56,20 @@ Die Betriebswirtschaftliche Auswertung (BWA) ist das zentrale unterjaehrige Steu
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BFH-Rechtsprechung zur periodengerechten Zuordnung von Aufwand und Ertrag: massgeblich sind die allgemeinen Grundsaetze des § 252 HGB und die EStG-Periodenregelungen; konkrete BFH-Aktenzeichen zur Periodenabgrenzung in amtliche/freie Quellen oder lizenzierte Datenbanken unter den Suchbegriffen "Periodenabgrenzung Betriebsausgaben" abrufbar.
-- BMF-Schreiben zu GoBD: massgeblich ist das BMF-Schreiben v. 28.11.2019, BStBl I 2019, 1269; etwaige Aktualisierungen ueber bundesfinanzministerium.de pruefen.
+- BMF-Schreiben zu GoBD: massgeblich ist das BMF-Schreiben v. 28.11.2019, BStBl I 2019, 1269; etwaige Aktualisierungen über bundesfinanzministerium.de prüfen.
 - IDW PS 480 — Grundsaetze für die Erstellung von Jahresabschluessen (analog für hochwertige BWA-Erstellung).
 
 Aktenzeichen und Fundstellen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken gegenpruefen.
 
 ## Workflow
 
-### Phase 1 — Datenbasis pruefen
+### Phase 1 — Datenbasis prüfen
 
-- Vollstaendigkeit der Buchungen pruefen: Bank-Kontoauszuege bis zum Stichtag verbucht, Kassenbuch abgestimmt, OPOS-Listen Debitor und Kreditor aktualisiert.
+- Vollstaendigkeit der Buchungen prüfen: Bank-Kontoauszuege bis zum Stichtag verbucht, Kassenbuch abgestimmt, OPOS-Listen Debitor und Kreditor aktualisiert.
 - Vorlaeufige Sachkontenverteilung im Verrechnungskonto (z. B. SKR 03 Konto 1590/1599 bzw. SKR 04 Konto 1370/1379 — DATEV-Kontenrahmen aktuelle Fassung heranziehen) auf Null stellen oder klar dokumentieren.
 - Lohnbuchungen aus dem Lohnprogramm uebernommen? Sozialversicherungs-Beitragsschulden zum Auswertungsstichtag erfasst (Konto SKR 03 1742 bzw. SKR 04 3740 für Verbindlichkeiten SV)?
 - Belege chronologisch und vollstaendig verbucht; Cut-off-Datum festlegen (z. B. 5. Werktag des Folgemonats).
-- DATEV-Klickpfad zur Pruefung: Rechnungswesen → Stammdaten → Buchungsstapel → Stapelverarbeitung → noch nicht festgeschriebene Buchungen vor BWA festschreiben.
+- DATEV-Klickpfad zur Prüfung: Rechnungswesen → Stammdaten → Buchungsstapel → Stapelverarbeitung → noch nicht festgeschriebene Buchungen vor BWA festschreiben.
 
 ### Phase 2 — Periodenabgrenzungen
 
@@ -90,10 +90,10 @@ Die Standardgliederung in fuenf Bloecken (Kontennummern typische SKR-Bereiche, i
 
 ### Phase 4 — Plausibilisierung
 
-- Umsatzerloese gegen Vorjahres-Monatsumsatz pruefen: Abweichung mehr als 20 Prozent (Daumenregel) inhaltlich klaeren.
+- Umsatzerloese gegen Vorjahres-Monatsumsatz prüfen: Abweichung mehr als 20 Prozent (Daumenregel) inhaltlich klären.
 - Materialquote (Materialeinsatz im Verhaeltnis zum Umsatz): branchentypisch ca. 30-50 Prozent in der Industrie, ca. 60-80 Prozent im Handel, ca. 0-20 Prozent bei Dienstleistung. Konkrete Branchenwerte aus DATEV-BBE-Branchenvergleich abrufen (BBE-Datenstand typischerweise 1-2 Jahre Zeitverzug).
 - Personalquote (Personalkosten zu Umsatz): bei Dienstleistung typisch ca. 35-55 Prozent (Branchenrichtwert, Verifikation in BBE Branchenkennzahlen empfohlen).
-- Ergebnis vor Steuern auf Konsistenz zur Summen- und Saldenliste pruefen — Endsaldo der Erfolgskonten muss mit BWA uebereinstimmen.
+- Ergebnis vor Steuern auf Konsistenz zur Summen- und Saldenliste prüfen — Endsaldo der Erfolgskonten muss mit BWA uebereinstimmen.
 
 ### Phase 5 — BWA-Ausgabe und Erlaeuterung
 
@@ -113,7 +113,7 @@ Die Standardgliederung in fuenf Bloecken (Kontennummern typische SKR-Bereiche, i
 - Mandant fruehzeitig auf typische Sondereffekte hinweisen (Sonderabschreibung, Investitionsabzugsbetrag § 7g EStG, Sonderzahlungen).
 - Honorar nach StBVV § 33 (Buchfuehrung) und § 35 (Lohnbuchfuehrung) abrechnen, Zusatzleistung BWA-Auswertung gesondert.
 - Bei wiederholten Buchungsfehlern Mandanten-Belegabgabe disziplinieren — Checkliste an Mandanten verteilen.
-- Bei Krisensignalen aus BWA: Querverweis zu stb-bwa-sus-bilanz-pruefung und Hinweispflicht § 102 StaRUG pruefen.
+- Bei Krisensignalen aus BWA: Querverweis zu stb-bwa-sus-bilanz-pruefung und Hinweispflicht § 102 StaRUG prüfen.
 
 ## Quellen und Updates
 
@@ -122,10 +122,10 @@ Stand: 05/2026.
 - HGB §§ 238, 240, 252, 257.
 - EStG § 5b (E-Bilanz).
 - AO § 147 (Aufbewahrung).
-- BMF-Schreiben zu GoBD (massgeblich: BMF v. 28.11.2019, BStBl I 2019, 1269; etwaige Folgeschreiben ueber bundesfinanzministerium.de abrufen).
+- BMF-Schreiben zu GoBD (massgeblich: BMF v. 28.11.2019, BStBl I 2019, 1269; etwaige Folgeschreiben über bundesfinanzministerium.de abrufen).
 - DATEV Standard-BWA Form 01.
 - StBerG §§ 1, 33, 57 Abs. 3.
-- Verifikations-Hinweis: Bei Reformen des Kontenrahmens (DATEV-Updates jaehrlich) Aktualisierung der BWA-Konfiguration pruefen. Aktenzeichen vor Mandantenversand in amtliche/freie Quellen oder lizenzierte Datenbanken gegenpruefen.
+- Verifikations-Hinweis: Bei Reformen des Kontenrahmens (DATEV-Updates jaehrlich) Aktualisierung der BWA-Konfiguration prüfen. Aktenzeichen vor Mandantenversand in amtliche/freie Quellen oder lizenzierte Datenbanken gegenpruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 1 bestaetigt (GoBD-Fundstelle BMF 28.11.2019 bestaetigt), 4 ersetzt (Formulierungen ohne Marker neu gefasst) -->
 

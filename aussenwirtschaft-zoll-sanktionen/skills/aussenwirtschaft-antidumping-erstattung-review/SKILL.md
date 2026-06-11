@@ -19,16 +19,16 @@ Erstattung zu viel gezahlter Antidumping-Zoelle und Auslosung von Revisionsverfa
 
 ## Mandantenfall
 
-- Importeur hat in den letzten drei Jahren Antidumping-Zoelle gezahlt; moechte pruefen, ob tatsaechliches Dumping nachgewiesen wurde.
+- Importeur hat in den letzten drei Jahren Antidumping-Zoelle gezahlt; moechte prüfen, ob tatsaechliches Dumping nachgewiesen wurde.
 - Hersteller in China hat Dumping-Marge signifikant reduziert; Lieferant moechte Review-Antrag stellen.
-- Massnahme gegen bestimmten Warenwert laeuft in 12 Monaten aus; Frage nach Sunset-Review und Auswirkungen.
+- Maßnahme gegen bestimmten Warenwert laeuft in 12 Monaten aus; Frage nach Sunset-Review und Auswirkungen.
 
 ## Erste Schritte
 
-1. Pruefen ob Erstattungsantrag nach Art. 11 Abs. 8 VO 2016/1036 in Frage kommt (Zoll bezahlt, Exportpreis gestiegen).
+1. Prüfen ob Erstattungsantrag nach Art. 11 Abs. 8 VO 2016/1036 in Frage kommt (Zoll bezahlt, Exportpreis gestiegen).
 2. Antrag auf Erstattung beim Hauptzollamt (DE) und koordiniert mit EU-Kommission einreichen.
 3. Interim-Review-Antrag (Art. 11 Abs. 3) bei geaenderter Dumping-Situation des Exporteurs.
-4. Sunset-Review-Antrag (Art. 11 Abs. 2) bei Auslauf der Massnahme vorbereiten.
+4. Sunset-Review-Antrag (Art. 11 Abs. 2) bei Auslauf der Maßnahme vorbereiten.
 5. Preisvergleich und Dumping-Margin-Dokumentation für Review aufbereiten.
 6. Fristen beachten: Erstattungsantrag innerhalb 6 Monate nach Zollzahlung.
 
@@ -52,7 +52,7 @@ Erstattung zu viel gezahlter Antidumping-Zoelle und Auslosung von Revisionsverfa
 ## Typische Fallstricke
 
 - Erstattungsantrag muss koordiniert mit Hauptzollamt und Kommission gestellt werden.
-- Sunset-Review-Antrag hat strenge Fristen; bei Versaeumnis bleiben Massnahmen automatisch in Kraft.
+- Sunset-Review-Antrag hat strenge Fristen; bei Versaeumnis bleiben Maßnahmen automatisch in Kraft.
 - Beweislast für gesunkenem Exportpreis liegt beim Importeur; unzureichende Dokumentation fuehrt zu Ablehnung.
 - Preisverpflichtungsbruch des Exporteurs kann Erstattungsantrag gefaehrden.
 

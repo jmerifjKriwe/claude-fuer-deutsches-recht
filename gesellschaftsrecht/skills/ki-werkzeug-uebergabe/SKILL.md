@@ -28,7 +28,7 @@ description: "KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder 
 
 ## Triage zu Beginn
 
-Vor der Tool-Ubergabe klaeren:
+Vor der Tool-Ubergabe klären:
 
 1. **Volumen:** Wie viele Dokumente sind im Datenraum? (< 50: manuelle Prüfung effizienter; 50-200: bedingt sinnvoll; > 200: KI-Tool empfohlen)
 2. **Tool vorhanden?** Ist Luminance, Kira oder ein vergleichbares Tool bereits im Praxisprofil konfiguriert? Welches Vertrauensniveau ist eingestellt?
@@ -255,7 +255,7 @@ Empfehlung: [ERGEBNIS DIREKT UEBERNEHMEN / NACHPRUEFUNG ERFORDERLICH FUER ROT-FI
 - **Kein AVV (Art. 28 DSGVO) vor Datenweitergabe** — Bussgeldhaftung; Weitergabe sofort stoppen bis AVV vorliegt.
 - **KI-Vertrauensniveau "vollstaendige Neuprüfung" und kein QA-Budget** — KI-Tool liefert nur Screening; alle Findings sind manuell zu verifizieren bevor Garantien abgegeben werden.
 - **Gesellschaftsvertraege / Side Letters in Batch** — ungeeignet für Bulk-Extraktion; sofort aus Charge herausnehmen und manuell prüfen.
-- **Abtretungsverbote nicht klassifiziert** — Haftungsrisiko bei Garantien; § 354a HGB-Prüfung für Kaufleute-Vertraege immer separat durchfuehren.
+- **Abtretungsverbote nicht klassifiziert** — Haftungsrisiko bei Garantien; § 354a HGB-Prüfung für Kaufleute-Verträge immer separat durchfuehren.
 
 ## Beispiel
 

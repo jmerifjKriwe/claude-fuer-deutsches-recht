@@ -13,7 +13,7 @@ description: "Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der
 
 ## Anwendungsfall
 
-Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Verhaeltnisse aendern sich — Einkommen Bedarfsgemeinschaft Erwerbsfaehigkeit. Behörde hebt den Dauerverwaltungsakt mit § 48 SGB X auf.
+Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Verhaeltnisse ändern sich — Einkommen Bedarfsgemeinschaft Erwerbsfaehigkeit. Behörde hebt den Dauerverwaltungsakt mit § 48 SGB X auf.
 
 ## Voraussetzungen § 48 Abs. 1 SGB X
 
@@ -24,7 +24,7 @@ Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Ver
 
 § 48 Abs. 1 Satz 2 SGB X — nur unter engen Voraussetzungen:
 - Vorteil ist gewaehrt worden ohne dass Anspruch bestand und der Beguenstigte hat dies erkannt oder grob fahrlaessig nicht erkannt.
-- Aenderung beruht auf Einkommen oder Vermoegen.
+- Aenderung beruht auf Einkommen oder Vermögen.
 - Aenderung war von Bescheid abhaengig.
 
 ## Vertrauensschutz § 48 Abs. 1 Satz 2 SGB X iVm § 45 SGB X
@@ -35,9 +35,9 @@ Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Ver
 ## Was tun
 
 - Bescheid genau lesen: Welche Aenderung wird behauptet?
-- Tatsachen pruefen: Ist die Aenderung wirklich eingetreten und wesentlich?
+- Tatsachen prüfen: Ist die Aenderung wirklich eingetreten und wesentlich?
 - Frist: § 48 Abs. 4 SGB X iVm § 45 Abs. 4 Satz 2 SGB X — 1 Jahr nach Kenntnis der Tatsachen.
-- Widerspruch: Vertrauensschutz, Geringfuegigkeit, falsche Berechnung pruefen.
+- Widerspruch: Vertrauensschutz, Geringfuegigkeit, falsche Berechnung prüfen.
 
 ## Pruefraster
 

@@ -72,7 +72,7 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 - Personliche Meinungen statt NKR-Position
 - Ueberlange Eingangsaussage
 - Auf Fragen ohne sicheres Wissen "raten"
-- Spekulation ueber Ressortmotive
+- Spekulation über Ressortmotive
 
 ## Trade-off-Matrix
 
@@ -96,7 +96,7 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 >
 > Erstens. Die monatliche Lebensbescheid-Pflicht erzeugt unverhaeltnismäßigen Erfuellungsaufwand. Bei rund 1,8 Mio im Handelsregister eingetragenen Gesellschaften und einem ausgewiesenen Aufwand von rund 180 Euro pro Jahr und Gesellschaft betraegt der Erfuellungsaufwand für die Wirtschaft rund 320 Mio Euro jaehrlich. Eine jaehrliche Bestaetigung mit ereignisorientierter Pflicht-Nachmeldung wuerde den Aufwand auf rund 80 Mio Euro reduzieren.
 >
-> Zweitens. Der Entwurf sieht drei parallele technische Standards vor. Der NKR empfiehlt, sich auf eine zentrale Loesung ueber das Handelsregistergericht zu konzentrieren, die das Once-Only-Prinzip umsetzt.
+> Zweitens. Der Entwurf sieht drei parallele technische Standards vor. Der NKR empfiehlt, sich auf eine zentrale Loesung über das Handelsregistergericht zu konzentrieren, die das Once-Only-Prinzip umsetzt.
 >
 > Drittens. Eine Evaluierungsklausel fehlt. Bei einem Vorhaben dieser Groessenordnung empfiehlt der NKR eine Frist von drei Jahren mit klaren Indikatoren.
 >
@@ -107,12 +107,12 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 ### Schluss-Bausteine
 
 - "Der NKR bietet an, im Rahmen einer Folge-Stellungnahme zu konkretisierten Aenderungsantraegen erneut Stellung zu nehmen."
-- "Fuer Rueckfragen steht das Sekretariat des NKR jederzeit zur Verfuegung."
+- "Für Rueckfragen steht das Sekretariat des NKR jederzeit zur Verfuegung."
 
 ## Typische Fehler in Anhörungen
 
 - Politische Bewertung statt methodischer Position
-- Spekulationen ueber andere Anhörungsgaeste
+- Spekulationen über andere Anhörungsgaeste
 - Folien mit zu viel Text
 - Kein klares Bild der Hauptempfehlungen
 - Auf Fragen unklar oder weitschweifig antworten
@@ -122,4 +122,4 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 6
 - GO BT §§ 70 ff.
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Praxis der Anhörungen
-- Live verifizieren ueber [www.bundestag.de](https://www.bundestag.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.bundestag.de](https://www.bundestag.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

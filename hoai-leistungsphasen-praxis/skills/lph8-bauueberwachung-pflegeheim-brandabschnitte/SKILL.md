@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Pflegeheime und Seniorenresid
 ## Spezialwissen
 
 Pflegeheime sind Sonderbauten nach LBO mit erhoehten Anforderungen an Fluchtwegsicherung und Brandschutz.
-Die Bauueberwachung nach HOAI LPH 8 prueft Brandabschnittsgrenzen, Rauchschutztueren, Pflegezimmer-Barrierefreiheit und Schallschutz.
+Die Bauueberwachung nach HOAI LPH 8 prüft Brandabschnittsgrenzen, Rauchschutztueren, Pflegezimmer-Barrierefreiheit und Schallschutz.
 Besonderen Schwerpunkt bilden Flucht- und Rettungswege für Menschen mit eingeschraenkter Mobilitaet.
 
 ## Bauwerk und Auftrag
@@ -50,7 +50,7 @@ Besonderen Schwerpunkt bilden Flucht- und Rettungswege für Menschen mit eingesc
 3. Barrierefreie Sanitaeranlage: Bewegungsflaeche, Haltegriffe nach DIN 18040-2, Bodenablauf 72 mm
 4. Brandmeldeanlage: Melderquote je Raum nach DIN 14675, Aufschaltung auf Feuerwehr, Pruefliste
 5. Schallschutz Pflegezimmer: Trennwaende Rw min. 47 dB, Trittschall LE max. 46 dB nach DIN 4109
-6. Aufzug Liegebett: Kabinenmasse, Spiegel, Bedienfeld Hoehe, Tuerbreite 1.10 m laut DIN EN 81-70
+6. Aufzug Liegebett: Kabinenmasse, Spiegel, Bedienfeld Höhe, Tuerbreite 1.10 m laut DIN EN 81-70
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -73,7 +73,7 @@ Besonderen Schwerpunkt bilden Flucht- und Rettungswege für Menschen mit eingesc
 - Brandschutztuer ohne Zulassung: Z-6.20 oder ETA fehlt, Baupruefbehoerde verweigert Abnahme
 - Flurbreite unterschritten: Nachtraegliche Verbreiterung im Rohbau sehr teuer
 - Brandmeldernetz lueckenhaft: fehlende Melder in Abstellraeumen oder Nebenflaechen
-- Barrierefreiheit-Massnahme vergessen: nachtraeglich teure Umbauten, Betriebsgenehmigung gefaehrdet
+- Barrierefreiheit-Maßnahme vergessen: nachtraeglich teure Umbauten, Betriebsgenehmigung gefaehrdet
 
 ## Quellen
 

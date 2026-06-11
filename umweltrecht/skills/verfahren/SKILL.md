@@ -19,7 +19,7 @@ Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widers
 
 ## Triage — klaere Verfahrenskontext
 
-1. Wer ist Klaeger/Antragsteller — Betreiber, Nachbar oder Umweltverband?
+1. Wer ist Kläger/Antragsteller — Betreiber, Nachbar oder Umweltverband?
 2. Liegt Bescheid/Genehmigung vor oder geht es um Normenkontrolle (§ 47 VwGO)?
 3. Ist Verfahren BImSchG-Genehmigung (VG), Planfeststellung (OVG/BVerwG) oder Rechtsetzung?
 4. Besteht Eilbedarf (vollziehbare Genehmigung, bevorstehende Baumafsnahme)?
@@ -52,12 +52,12 @@ Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widers
 
 ### A) Anfechtungsklage (Dritter gegen Genehmigung)
 
-1. **Klagebefugnis pruefen**: § 42 Abs. 2 VwGO — drittschuetzende Norm (§ 5 Abs. 1 Nr. 1 BImSchG, TA-Laerm)?
+1. **Klagebefugnis prüfen**: § 42 Abs. 2 VwGO — drittschuetzende Norm (§ 5 Abs. 1 Nr. 1 BImSchG, TA-Laerm)?
 2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Klagefrist**: § 74 Abs. 1 VwGO — 1 Monat ab Bekanntgabe; bei Auslegung § 10 BImSchG: 2 Wochen nach Auslegungsende (§ 10 Abs. 8 BImSchG beachten).
 4. **Eilantrag § 80a**: Sofort wenn Genehmigung vollziehbar und Bauarbeitten drohen.
 5. **Klageschrift**: Klageantrag, Sachverhalt, rechtliche Begruendung mit Leitsaetzen.
-6. **Verbandsklage**: UmwRG-Anerkennung pruefen; § 4 UmwRG Verfahrensfehler als eigenstaendiger Aufhebungsgrund.
+6. **Verbandsklage**: UmwRG-Anerkennung prüfen; § 4 UmwRG Verfahrensfehler als eigenstaendiger Aufhebungsgrund.
 
 ### B) Verpflichtungsklage (Betreiber auf Genehmigung)
 
@@ -82,14 +82,14 @@ Liegt ein belastender VA vor?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Klage gegen BImSchG-Genehmigung | Klageschrift nach Schema; Template unten |
-| Variante A — Genehmigung auf Antrag von Mandant Verteidigung noetig | Verteidigungsposition als Beigeladener; Klageschrift ist Klaeger-Template |
+| Variante A — Genehmigung auf Antrag von Mandant Verteidigung noetig | Verteidigungsposition als Beigeladener; Klageschrift ist Kläger-Template |
 | Variante B — Nur bestimmte Auflagen anfechtbar nicht Gesamtgenehmigung | Teilklage; nur Auflagen angreifen |
-| Variante C — Normenkontrolle als staerkerer Angriffspunkt | Normenkontrolle § 47 VwGO pruefen; oft wirkungsvoller als Einzelklage |
+| Variante C — Normenkontrolle als staerkerer Angriffspunkt | Normenkontrolle § 47 VwGO prüfen; oft wirkungsvoller als Einzelklage |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -139,7 +139,7 @@ III. Begruendung
 Anlagen: Eigentumsnachweise, Schall-Gegengutachten, Lageplan
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -164,8 +164,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - EuGH hat deutsche Praeklusion § 5 UmwRG für unionsrechtswidrig erklaert soweit sie den gerichtlichen Zugang Einzelner beschraenkt.
-- Praxis: Gericht prueft Einwendungen auch wenn im Verwaltungsverfahren nicht erhoben — Chance für Klaeger.
-- Aber: VG prueft Opportunitaet im Einzelfall; konservativere OVG-Linie partiell erhalten.
+- Praxis: Gericht prüft Einwendungen auch wenn im Verwaltungsverfahren nicht erhoben — Chance für Kläger.
+- Aber: VG prüft Opportunitaet im Einzelfall; konservativere OVG-Linie partiell erhalten.
 
 ## Anschluss-Skills
 

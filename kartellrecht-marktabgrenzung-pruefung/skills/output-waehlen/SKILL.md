@@ -11,7 +11,7 @@ Diese Output-Weiche für **Kartellrecht Marktabgrenzung Prüfung** entscheidet, 
 
 ## Fachlandkarte dieses Plugins
 
-- `1-gwb-kartellverbot-nationale-pruefung` — 1 GWB Kartellverbot Nationale Pruefung
+- `1-gwb-kartellverbot-nationale-pruefung` — 1 GWB Kartellverbot Nationale Prüfung
 - `19a-gwb-relative-abuse-economic` — 19A GWB Relative Abuse Economic
 - `abuse-of-economic-dependence` — Abuse OF Economic Dependence
 - `aeuv-behoerden-gericht-und-registerweg` — Aeuv Behoerden Gericht und Registerweg
@@ -30,7 +30,7 @@ Diese Output-Weiche für **Kartellrecht Marktabgrenzung Prüfung** entscheidet, 
 ## Arbeitsweg
 
 - Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
-- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Kartellrecht Marktabgrenzung Pruefung (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) einarbeiten.
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Kartellrecht Marktabgrenzung Prüfung (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) einarbeiten.
 - Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.

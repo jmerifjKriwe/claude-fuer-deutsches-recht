@@ -73,13 +73,13 @@ Informationsbegehren
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Informationsantrag nach UIG stellen | Antrag nach Schema; Template unten |
 | Variante A — Antrag wurde bereits abgelehnt Widerspruch noetig | Widerspruchstemplate verwenden statt Erstantrag |
-| Variante B — IFG statt UIG anzuwenden Verwaltungsinformation | IFG-Variante; Abgrenzung UIG-IFG klaeren |
+| Variante B — IFG statt UIG anzuwenden Verwaltungsinformation | IFG-Variante; Abgrenzung UIG-IFG klären |
 | Variante C — Information eilig Behörde soll priorisieren | Dringlichkeitsvermerk in Antrag aufnehmen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -115,7 +115,7 @@ Gemaess § 4 Abs. 1 UIG bitte ich um Bescheidung binnen eines Monats.
 [NAME], [DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -156,7 +156,7 @@ Wir beantragen, den Ablehnungsbescheid aufzuheben und die Informationen herauszu
 ## Vertiefung: Aktive Informationspflicht § 10 UIG
 
 - Behörden sollen Umweltinformationen von allgemeinem Interesse aktiv ins Netz stellen.
-- Emissionsdaten, Genehmigungen, UVP-Berichte grundsaetzlich oeffentlich.
+- Emissionsdaten, Genehmigungen, UVP-Berichte grundsätzlich öffentlich.
 - Verstoss gegen aktive Veroeffentlichungspflicht: Ruege durch UIG-Antrag + Klage.
 
 ## Fristen-Ueberblick

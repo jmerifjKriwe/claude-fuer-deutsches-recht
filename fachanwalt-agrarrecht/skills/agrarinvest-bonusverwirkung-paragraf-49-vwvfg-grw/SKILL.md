@@ -7,7 +7,7 @@ description: "Bonusverwirkung bei Agrarinvest-Foerderung durch verspaetete Verwe
 
 ## Einsatzlage
 
-Landwirt L erhielt 280.000 EUR Investitionsfoerderung fuer Milchviehstall. Foerderbedingung: Erstmilchlieferung binnen 24 Monaten. Tatsaechlich erst nach 27 Monaten. Foerderbehoerde droht Rueckforderung von 100 Prozent.
+Landwirt L erhielt 280.000 EUR Investitionsfoerderung für Milchviehstall. Foerderbedingung: Erstmilchlieferung binnen 24 Monaten. Tatsaechlich erst nach 27 Monaten. Foerderbehoerde droht Rueckforderung von 100 Prozent.
 
 ## Normenanker
 
@@ -33,7 +33,7 @@ Landwirt L erhielt 280.000 EUR Investitionsfoerderung fuer Milchviehstall. Foerd
 
 ## Arbeitsergebnis
 
-1. Bagatellgrenze pruefen (3 Monate Ueberschreitung von 24 Monaten = 12,5 Prozent, knapp).
+1. Bagatellgrenze prüfen (3 Monate Ueberschreitung von 24 Monaten = 12,5 Prozent, knapp).
 2. Verlaengerungsantrag nachreichen mit Begruendung (Lieferengpaesse).
 3. Anhoerung Paragraf 28 VwVfG einfordern.
 4. Hilfsweise: Anteilige Rueckforderung statt 100 Prozent.

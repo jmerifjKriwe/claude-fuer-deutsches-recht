@@ -15,12 +15,12 @@ Bei Streitwerten **bis 1.000 EUR** (Stand 2026) kann das Amtsgericht das Verfahr
 
 - Ihr Streitwert ist niedrig (bis 1.000 EUR).
 - Sie wollen wissen, wie das vereinfachte Verfahren laeuft.
-- Sie wollen pruefen, ob Sie muendliche Verhandlung beantragen sollten.
+- Sie wollen prüfen, ob Sie muendliche Verhandlung beantragen sollten.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Vereinfachtes Verfahren**: Verfahrensart mit reduzierten Foermlichkeiten.
-- **Billiges Ermessen**: Gericht entscheidet ueber Verfahrensgestaltung nach eigener Einschaetzung.
+- **Billiges Ermessen**: Gericht entscheidet über Verfahrensgestaltung nach eigener Einschaetzung.
 - **Schriftliches Verfahren**: Keine muendliche Verhandlung, Entscheidung nach Aktenlage.
 - **Antrag auf muendliche Verhandlung**: Recht der Partei, eine muendliche Verhandlung zu erzwingen (§ 495a S. 2 ZPO).
 
@@ -32,7 +32,7 @@ Bei Streitwerten **bis 1.000 EUR** (Stand 2026) kann das Amtsgericht das Verfahr
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Streitwert bis 1.000 EUR
+### Schritt 1 — Prüfen, ob Streitwert bis 1.000 EUR
 
 Bezogen auf Hauptforderung ohne Nebenforderungen (§ 4 ZPO). Zinsen, Mahnkosten zaehlen nicht mit.
 
@@ -62,7 +62,7 @@ In der Praxis: oft entscheidet das Gericht **nach Schriftsatz-Wechsel**, ohne mu
 
 ### Schritt 4 — Nachteile / Risiken
 
-- Keine muendliche Verhandlung bedeutet: Sie koennen Ihre Sache nicht persoenlich darstellen.
+- Keine muendliche Verhandlung bedeutet: Sie können Ihre Sache nicht persoenlich darstellen.
 - Beweisaufnahme reduziert: oft keine Zeugen-Vernehmung im vereinfachten Verfahren.
 - Wenn Sie subtile Sachverhalts-Punkte haben, die im Schriftsatz schwer erklaerbar sind: muendliche Verhandlung sinnvoll.
 
@@ -95,22 +95,22 @@ Bestehen Sie, wenn:
 
 - Zeugen-Beweis erforderlich.
 - Komplexer Sachverhalt.
-- Vergleichs-Verhandlung gewuenscht (im Termin oft moeglich).
+- Vergleichs-Verhandlung gewuenscht (im Termin oft möglich).
 - Sie das Gericht persoenlich ueberzeugen wollen.
 
 ### Schritt 8 — Beweisaufnahme im vereinfachten Verfahren
 
-Theoretisch moeglich, aber selten. Wenn Beweis-Notwendigkeit besteht, beantragt das Gericht meist regulaere Beweisaufnahme oder wechselt ins Normalverfahren.
+Theoretisch möglich, aber selten. Wenn Beweis-Notwendigkeit besteht, beantragt das Gericht meist regulaere Beweisaufnahme oder wechselt ins Normalverfahren.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Wertgrenze 1.000 EUR** seit 01.01.2026 (vorher 600 EUR). Bei Altklagen, die vor dem Stichtag anhaengig wurden, ggf. Uebergangsregelung pruefen.
+- **Wertgrenze 1.000 EUR** seit 01.01.2026 (vorher 600 EUR). Bei Altklagen, die vor dem Stichtag anhaengig wurden, ggf. Uebergangsregelung prüfen.
 - **Antragsrecht auf muendliche Verhandlung** ist Garantiestueck — nutzen Sie es, wenn Sie es brauchen.
 - **Vergleichschance**: Im Termin oft besser als rein schriftlich.
 
 ## Typische Fehler
 
-- "Vereinfachtes Verfahren ist meine einzige Option." → Sie koennen muendliche Verhandlung beantragen.
+- "Vereinfachtes Verfahren ist meine einzige Option." → Sie können muendliche Verhandlung beantragen.
 - "Keine muendliche Verhandlung heisst, mein Fall wird abgewiesen." → Nein, Gericht entscheidet trotzdem in der Sache.
 - "Ich brauche keine Anwesenheit." → Im vereinfachten Verfahren oft nicht erforderlich. Aber wenn Termin: pflichtschuldig erscheinen.
 - "Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR.

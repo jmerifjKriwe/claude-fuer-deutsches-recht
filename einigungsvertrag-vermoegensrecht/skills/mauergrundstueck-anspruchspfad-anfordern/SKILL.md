@@ -3,7 +3,7 @@ name: mauergrundstueck-anspruchspfad-anfordern
 description: "Einigungsvertrag und Vermögensrecht: Mauergrundstück: Anspruchspfad prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Mauergrundstueck Anspruchspfad Pruefen
+# Mauergrundstueck Anspruchspfad Prüfen
 
 ## Arbeitsweg
 

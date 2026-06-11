@@ -139,7 +139,7 @@ description: "Esg Greenwashing Csrd: ordnet Normen, Nutzerangaben, Fristen, Bele
  - Bio-basiert
  - Recycelt
 
-**BGH 27.06.2024, I ZR 98/23** (Katjes „klimaneutral"): Werbung mit dem Schlagwort „klimaneutral" ist mehrdeutig; nur zulaessig, wenn entweder die zugrundeliegende Reduktion oder Kompensation in der Werbung selbst (nicht ueber externen Link) erlaeutert wird. Wettbewerbsverstoss nach § 5 UWG bei pauschaler Verwendung. Quelle: bundesgerichtshof.de — Pressemitteilung 144/2024 / dejure.org/2024,15820.
+**BGH 27.06.2024, I ZR 98/23** (Katjes „klimaneutral"): Werbung mit dem Schlagwort „klimaneutral" ist mehrdeutig; nur zulässig, wenn entweder die zugrundeliegende Reduktion oder Kompensation in der Werbung selbst (nicht über externen Link) erlaeutert wird. Wettbewerbsverstoss nach § 5 UWG bei pauschaler Verwendung. Quelle: bundesgerichtshof.de — Pressemitteilung 144/2024 / dejure.org/2024,15820.
 
 - **Mehrdeutige Aussage** "klimaneutral"
 - **Pflicht zur Substantiierung** im Werbe-Kontext

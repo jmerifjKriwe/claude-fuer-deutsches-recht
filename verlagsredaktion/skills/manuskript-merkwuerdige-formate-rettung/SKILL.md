@@ -19,7 +19,7 @@ Autorinnen und Autoren liefern selten in der Form, die der Verlag braucht. Diese
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn Sie das Manuskript geoeffnet haben und sehen: kaputte Anfuehrungszeichen, gemischte Bullet-Stile, eingefrorene Tabellen, "smart quotes" im Quelltext, Word-Felder mit fehlenden Verweisen oder offenkundige LLM-Artefakte (Drei-Strich-Listen, Halbsatzbruch nach jedem zweiten Absatz). Klaeren Sie kurz:
+Sie brauchen ihn, wenn Sie das Manuskript geoeffnet haben und sehen: kaputte Anfuehrungszeichen, gemischte Bullet-Stile, eingefrorene Tabellen, "smart quotes" im Quelltext, Word-Felder mit fehlenden Verweisen oder offenkundige LLM-Artefakte (Drei-Strich-Listen, Halbsatzbruch nach jedem zweiten Absatz). Klären Sie kurz:
 
 1. Welches Quellformat liegt vor (.doc, .docx, .odt, .md, .tex, .rtf, .pdf, gemischt)?
 2. Welches Zielformat braucht die Produktion (Verlags-DOCX-Vorlage, InDesign-XML, LaTeX-Klasse, XML-Auszeichnung für Online-Kommentar)?
@@ -39,7 +39,7 @@ Sie brauchen ihn, wenn Sie das Manuskript geoeffnet haben und sehen: kaputte Anf
 3. **Pipeline waehlen** (siehe Trade-off-Matrix).
 4. **Erste Bereinigung**: doppelte Leerzeichen, harte Zeilenumbrueche im Fliesstext, falsche Anfuehrungszeichen, geschuetzte Leerzeichen vor Paragraphenzeichen (`§ 433 BGB` mit U+00A0).
 5. **Strukturmarkierung**: Absatzformate auf Verlagsvorlage (`Standard`, `Ueberschrift 1-3`, `Fussnotentext`, `Zitat`).
-6. **Fussnoten und Felder pruefen**: keine Word-Felder mit fehlendem Bezug, keine zerschossenen `\ref`. Bei LaTeX in DOCX: BibTeX-Quellen separat sichern.
+6. **Fussnoten und Felder prüfen**: keine Word-Felder mit fehlendem Bezug, keine zerschossenen `\ref`. Bei LaTeX in DOCX: BibTeX-Quellen separat sichern.
 7. **KI-Artefakte markieren**: gleichfoermige Absatzlaenge, fehlende konkrete Pinpoints, generische Formulierungen wie "in der Literatur wird vertreten" ohne Quelle. Markieren, nicht still loeschen.
 8. **Auslieferung**: Arbeitsdatei + Logfile der Konvertierung an Lektorat. Im Logfile festhalten, welche Schritte automatisiert, welche manuell waren.
 
@@ -55,7 +55,7 @@ Sie brauchen ihn, wenn Sie das Manuskript geoeffnet haben und sehen: kaputte Anf
 ## Praxistipps der alten Redaktion
 
 - "Word97-Files immer zuerst neu speichern lassen - es spart eine Stunde Suche nach kaputten Feldern."
-- Bei LaTeX-Mix immer pruefen, ob im Quelltext `\footnote{}` oder `\cite{}` zerschossen wurde - Suche nach `\cite{??}`.
+- Bei LaTeX-Mix immer prüfen, ob im Quelltext `\footnote{}` oder `\cite{}` zerschossen wurde - Suche nach `\cite{??}`.
 - KI-Manuskripte erkennt man oft am gleichfoermigen Absatzrhythmus und an fehlenden Randnummern bei zitierter Rspr. Markieren mit `[KI-Verdacht: Quelle pruefen]`.
 - Bei verschluesselten oder passwortgeschuetzten PDFs niemals raten - Autor anrufen.
 
@@ -92,7 +92,7 @@ Output: Mueller-Aufsatz_v2-clean.docx
 - Originaldatei ueberschrieben - Versionsstand weg.
 - Automatische Korrektur loescht stillschweigend Sonderzeichen (z. B. `§`, `Â§` durch Encoding-Mix).
 - KI-Stellen unkommentiert uebernommen - Quellenpflicht verletzt.
-- PDF-Konvertierung mit OCR ohne Pruefung - falsche Zahlen in Aktenzeichen.
+- PDF-Konvertierung mit OCR ohne Prüfung - falsche Zahlen in Aktenzeichen.
 - Track-Changes vom Autor verworfen statt aufgeloest.
 
 ## Quellen Stand 06/2026
@@ -100,4 +100,4 @@ Output: Mueller-Aufsatz_v2-clean.docx
 - Pandoc User Guide, [https://pandoc.org/MANUAL.html](https://pandoc.org/MANUAL.html) (Stand: laufend).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024, Kapitel "Anfuehrungszeichen, Bindestrich, Sonderzeichen".
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, S. 23 ff. zur Konsistenz bei Pinpoints.
-- UrhG, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/) - Hinweis: bei Uebernahme fremder Tabellen / Grafiken aus PDF stets §§ 51, 63 UrhG pruefen.
+- UrhG, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/) - Hinweis: bei Uebernahme fremder Tabellen / Grafiken aus PDF stets §§ 51, 63 UrhG prüfen.

@@ -16,7 +16,7 @@ description: "Strategie der Schenkungsplanung unter Beruecksichtigung der Zehnja
 1. Welcher Steuerklasse gehoert der Beschenkte an § 15 ErbStG?
 2. Welcher Freibetrag steht zur Verfuegung § 16 ErbStG?
 3. Wann erfolgte die letzte Schenkung — beginnt eine neue Zehnjahresperiode?
-4. Soll Kettenschenkung ueber Ehegatten erfolgen — Missbrauchsverbot § 42 AO im Blick?
+4. Soll Kettenschenkung über Ehegatten erfolgen — Missbrauchsverbot § 42 AO im Blick?
 5. Wird Steuer unmittelbar oder mittelbar uebernommen?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 

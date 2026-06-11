@@ -114,7 +114,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `common-law-client-explainer` | Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklärung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schließen US-Vertrag ab. Prüfraster Verstaendlichkeit… |
 | `common-law-contract-formation-consideration` | Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster… |
 | `common-law-false-friends-scanner` | Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere… |
-| `common-law-governing-law-jurisdiction` | Vertragsparteien muessen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit für grenzüberschreitenden Vertrag klaeren. UK US oder deutsches Recht. Prüfraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option… |
+| `common-law-governing-law-jurisdiction` | Vertragsparteien müssen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit für grenzüberschreitenden Vertrag klären. UK US oder deutsches Recht. Prüfraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option… |
 | `common-law-humor-coach` | Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit… |
 | `common-law-interpretation-precedent` | Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster… |
 | `common-law-kommandocenter` | Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Prüfraster Jurisdiktion-Identifikation… |
@@ -130,21 +130,21 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt deutsche Wirtschaftsjuristen beim Umgang mit englischem und US-amerikanischem Recht: Vertragsverhandlungen, bilinguale Drafting-Reviews, Jurisdiction-Auswahl, Common-Law-Konzepte (Consideration, Suretyship, Indemnity, UCC) und Prozessverfahren (Discovery, Pleadings). Es hilft, haeufige False-Friends zu erkennen, Klauseltypen korrekt einzuordnen und Mandanten verstaendlich ueber Common-Law-Risiken zu informieren.
+Dieses Plugin unterstuetzt deutsche Wirtschaftsjuristen beim Umgang mit englischem und US-amerikanischem Recht: Vertragsverhandlungen, bilinguale Drafting-Reviews, Jurisdiction-Auswahl, Common-Law-Konzepte (Consideration, Suretyship, Indemnity, UCC) und Prozessverfahren (Discovery, Pleadings). Es hilft, haeufige False-Friends zu erkennen, Klauseltypen korrekt einzuordnen und Mandanten verstaendlich über Common-Law-Risiken zu informieren.
 
 Das Plugin ersetzt keine anwaltliche Zulassung im UK oder US-Recht, gibt aber strukturierte Orientierungshilfe und deckt die praxisrelevantesten Schnittstellen zwischen deutschem Recht und Common Law ab.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie verhandeln einen SPA, APA, NDA oder Commercial Agreement mit einer UK- oder US-Gegenpartei und muessen Klauseln korrekt einordnen.
+- Sie verhandeln einen SPA, APA, NDA oder Commercial Agreement mit einer UK- oder US-Gegenpartei und müssen Klauseln korrekt einordnen.
 - Sie oder Ihr Mandant lesen ein englisches Gerichtsurteil und verstehen die Praezedenz-Logik nicht.
 - Sie suchen einen bilingualen Vertragstext auf Bedeutungsdrift, Rangfolge-Konflikte und Definitions-Inkonsistenzen.
-- Sie wollen Mandanten ueber Common-Law-Risiken informieren und benoetigen eine verstaendliche Erklaerung.
-- Sie draften einen Vertrag für eine UK- oder US-Gegenpartei und muessen den richtigen Drafting-Stil waehlen.
+- Sie wollen Mandanten über Common-Law-Risiken informieren und benoetigen eine verstaendliche Erklaerung.
+- Sie draften einen Vertrag für eine UK- oder US-Gegenpartei und müssen den richtigen Drafting-Stil waehlen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Consideration** — Im Common Law Grundvoraussetzung für einen bindenden Vertrag; beide Seiten muessen etwas versprechen oder leisten.
+- **Consideration** — Im Common Law Grundvoraussetzung für einen bindenden Vertrag; beide Seiten müssen etwas versprechen oder leisten.
 - **Deed** — Formvertrag im Common Law; erfordert Schriftform, Unterzeichnung und Uebergabe (delivery); benoetigt keine Consideration.
 - **Indemnity** — Erstattungsversprechen; eigenstaendige Zahlungspflicht unabhaengig davon, ob der Hauptschuldner zahlt; nahezu § 311 BGB-fremd.
 - **Guarantee** — Buergschaftsaehnlich akzessorisch; der Garant haftet nur wenn der Hauptschuldner nicht leistet.
@@ -163,10 +163,10 @@ Das Plugin ersetzt keine anwaltliche Zulassung im UK oder US-Recht, gibt aber st
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: UK-Recht, US-Recht (welcher Staat) oder bilinguale Situation; Vertragstyp und Gegenpartei.
+1. Mandantenkonstellation klären: UK-Recht, US-Recht (welcher Staat) oder bilinguale Situation; Vertragstyp und Gegenpartei.
 2. Phase des Mandats bestimmen: Vertragsschluss, Drafting/Review, Verhandlung, Litigation/Discovery oder Mandanten-Erklaerung.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: Limitation Periods (UK: Contracts Act 1980: sechs Jahre), Statute of Limitations (US: variiert nach Staat).
+4. Eilfristen prüfen: Limitation Periods (UK: Contracts Act 1980: sechs Jahre), Statute of Limitations (US: variiert nach Staat).
 5. Anschluss-Skill bestimmen: nach False-Friends-Scan folgt typischerweise bilinguales Review oder Klauselkorrektur.
 
 ## Skill-Tour (was gibt es hier?)
@@ -174,7 +174,7 @@ Das Plugin ersetzt keine anwaltliche Zulassung im UK oder US-Recht, gibt aber st
 **Einstieg und Navigation**
 
 - `common-law-kommandocenter` — Schnellstart für Common-Law-Mandate; Jurisdiktionscheck und Routing zum passenden Einzel-Skill.
-- `common-law-quality-gate` — Fertig erstelltes Common-Law-Arbeitsprodukt auf Jurisdiktion, Normen-Aktualitaet und False Friends pruefen.
+- `common-law-quality-gate` — Fertig erstelltes Common-Law-Arbeitsprodukt auf Jurisdiktion, Normen-Aktualitaet und False Friends prüfen.
 
 **Sprachhilfen und False Friends**
 
@@ -189,7 +189,7 @@ Das Plugin ersetzt keine anwaltliche Zulassung im UK oder US-Recht, gibt aber st
 - `common-law-surety-guarantee-indemnity` — Unterscheidung zwischen Buesch-aft (guarantee) und eigenstaendiger Erstattungspflicht (indemnity).
 - `common-law-ucc-sales-goods` — Warenkaufvertraege nach UCC Art. 2 (US) und Sale of Goods Act (UK).
 - `common-law-remedies-damages-equity` — Rechtsfolgen bei Vertragsverletzung: damages, specific performance, injunction, rescission.
-- `common-law-governing-law-jurisdiction` — Rechtswahlklausel, Gerichtsstand und Schiedsverfahren für grenzueberschreitende Vertraege.
+- `common-law-governing-law-jurisdiction` — Rechtswahlklausel, Gerichtsstand und Schiedsverfahren für grenzueberschreitende Verträge.
 
 **Drafting und Review**
 
@@ -209,10 +209,10 @@ Das Plugin ersetzt keine anwaltliche Zulassung im UK oder US-Recht, gibt aber st
 
 ## Worauf besonders achten
 
-- **Jurisdiktion vor allem anderen klaeren.** UK (England/Wales, Schottland, Nordirland) und US (welcher Bundesstaat) haben unterschiedliche Regelungen; kein generisches Common-Law.
-- **Consideration-Pruefung bei jedem Vertrag.** Ohne Consideration ist ein Common-Law-Vertrag nicht bindend, es sei denn er ist als Deed ausgefuehrt.
+- **Jurisdiktion vor allem anderen klären.** UK (England/Wales, Schottland, Nordirland) und US (welcher Bundesstaat) haben unterschiedliche Regelungen; kein generisches Common-Law.
+- **Consideration-Prüfung bei jedem Vertrag.** Ohne Consideration ist ein Common-Law-Vertrag nicht bindend, es sei denn er ist als Deed ausgefuehrt.
 - **Indemnity ist kein Schadensersatz.** Eine Indemnity-Klausel begrenzt Rechtsbehelfe auf Erstattung; Vergleich mit deutschem § 311 BGB fuehrt in die Irre.
-- **Bilinguale Vertraege koennen Widersprueche erzeugen.** Prioritaet einer Sprachfassung muss explizit geregelt sein; Skill `common-law-bilingual-contract-review` schon bei Erstellung einsetzen.
+- **Bilinguale Verträge können Widersprueche erzeugen.** Prioritaet einer Sprachfassung muss explizit geregelt sein; Skill `common-law-bilingual-contract-review` schon bei Erstellung einsetzen.
 - **Discovery ist deutlich umfangreicher als deutsches Beweisrecht.** US-Mandanten unterschaetzen haeufig die Kosten und den Umfang; Skill `common-law-litigation-discovery` für fruehe Aufklaerung.
 
 ## Typische Fehler

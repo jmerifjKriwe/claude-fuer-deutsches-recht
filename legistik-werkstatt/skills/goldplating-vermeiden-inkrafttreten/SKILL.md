@@ -39,7 +39,7 @@ Was muss die RL mindestens umgesetzt werden?
 
 ### Schritt 2 - Kann-Anteil ermitteln
 
-Welche Optionen laesst die RL? Welche Oeffnungsklauseln?
+Welche Optionen lässt die RL? Welche Oeffnungsklauseln?
 
 ### Schritt 3 - Nationaler Entwurf - was geht darüber hinaus?
 
@@ -65,7 +65,7 @@ Bei vollharmonisierenden Richtlinien (z.B. Verbraucherrechte-RL 2011/83) ist Gol
 
 ## Zentrale Normen (Paragrafenkette)
 
-§ 62 Abs. 2 GGO (Goldplating-Vermeidungsgebot) — Art. 288 AEUV (Richtlinien-Regelungs-Spielraum) — §§ 1-3 GoldplatingV (Bundesregierung 2012, Berichtspflicht) — Art. 5 EUV (Verhaeltnismaessigkeit, Subsidiaritaet)
+§ 62 Abs. 2 GGO (Goldplating-Vermeidungsgebot) — Art. 288 AEUV (Richtlinien-Regelungs-Spielraum) — §§ 1-3 GoldplatingV (Bundesregierung 2012, Berichtspflicht) — Art. 5 EUV (Verhältnismäßigkeit, Subsidiaritaet)
 
 ## Ausgabe
 

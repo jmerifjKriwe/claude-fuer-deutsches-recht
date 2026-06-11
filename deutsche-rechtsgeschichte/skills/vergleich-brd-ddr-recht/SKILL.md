@@ -29,7 +29,7 @@ Zwischen 1949 und 1990 entwickelten sich in Deutschland zwei parallele Rechtssys
 - **BRD-Gesetzgeber und BVerfG**: Westdeutsches Recht
 - **DDR-Volkskammer und Oberstes Gericht**: Ostdeutsches Recht
 - **Einigungsvertrag 1990**: Rechtsueberleitung nach Wiedervereinigung
-- **BVerfG nach 1990**: Pruefung DDR-Recht-Reste
+- **BVerfG nach 1990**: Prüfung DDR-Recht-Reste
 
 ## Typische Streitfragen / Forschungsfragen
 

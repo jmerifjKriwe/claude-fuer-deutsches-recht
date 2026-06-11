@@ -50,7 +50,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Gerichts-Portale:**
  - **beA / EGVP** für Anwaltskommunikation (im Strafrecht § 32a StPO freiwillig).
  - **Vollstreckungsstelle StA:** Schriftverkehr per Post / Fax / E-Mail.
- - **BZRG-Auszug** ueber Bundeszentralregister, online beantragbar.
+ - **BZRG-Auszug** über Bundeszentralregister, online beantragbar.
 - **Standardvorlage Strafmass-Antrag (Pladoyer-Schluss):**
  ```
  Antraege der Verteidigung:

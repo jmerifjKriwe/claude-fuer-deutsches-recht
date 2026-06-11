@@ -229,11 +229,11 @@ Relevante Normen und Rspr.:
 - GeschGehG (in Kraft seit 26.04.2019; Umsetzung Richtlinie (EU) 2016/943): https://www.gesetze-im-internet.de/geschgehg/
 - § 2 Nr. 1 GeschGehG – Definition Geschaeftsgeheimnis; Angemessenheitsprinzip (Schutzmassnahmen-Erfordernis)
 - §§ 16-20 GeschGehG (prozessualer Geheimnisschutz)
-- **§ 273a ZPO** (Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025): Erstreckung des prozessualen Geheimnisschutzes ueber den GeschGehG-Streit hinaus auf alle Zivilverfahren; Antrag jeder Partei moeglich; Ordnungsgeld bis 100.000 EUR bei Verstoss; § 6a ArbGG für Arbeitsgerichtsverfahren. https://www.gesetze-im-internet.de/zpo/__273a.html — Praxisfolge: NDA-Mechanik kann durch das prozessuale Schutzregime ergaenzt werden.
+- **§ 273a ZPO** (Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025): Erstreckung des prozessualen Geheimnisschutzes über den GeschGehG-Streit hinaus auf alle Zivilverfahren; Antrag jeder Partei möglich; Ordnungsgeld bis 100.000 EUR bei Verstoss; § 6a ArbGG für Arbeitsgerichtsverfahren. https://www.gesetze-im-internet.de/zpo/__273a.html — Praxisfolge: NDA-Mechanik kann durch das prozessuale Schutzregime ergaenzt werden.
 - § 241 Abs. 2 BGB – Schutzpflichten im Schuldverhaeltnis
 - § 307 BGB – AGB-Inhaltskontrolle (bei vorformulierten Klauseln)
 - § 339 BGB – Vertragsstrafe; § 343 BGB – richterliche Herabsetzung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kommentare:
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 2 GeschGehG Rn. 5 ff.

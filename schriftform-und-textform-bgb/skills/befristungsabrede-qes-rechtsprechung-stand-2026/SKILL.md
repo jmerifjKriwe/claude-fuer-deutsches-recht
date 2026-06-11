@@ -55,7 +55,7 @@ Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach 
 
 ### Hinweis zum Vierten Buerokratieentlastungsgesetz (BEG IV)
 
-Mit dem Vierten Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024) wurde § 14 Abs. 4 TzBfG mit Wirkung ab 01.01.2025 dahin ergaenzt, dass die Befristungsabrede grundsaetzlich in Textform abgeschlossen werden kann, sofern kein Tarifvertrag entgegensteht. Fuer das Schriftformerfordernis bei Befristungen vor 2025 sowie für Faelle, in denen das Tarifrecht weiterhin Schriftform verlangt, bleibt die qES-Rechtsprechung relevant. Quelle: https://www.gvw.com/aktuelles/blog/detail/buerokratieentlastungsgesetz-beschlossen-weg-frei-für-digitale-arbeitsvertraege
+Mit dem Vierten Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024) wurde § 14 Abs. 4 TzBfG mit Wirkung ab 01.01.2025 dahin ergaenzt, dass die Befristungsabrede grundsätzlich in Textform abgeschlossen werden kann, sofern kein Tarifvertrag entgegensteht. Für das Schriftformerfordernis bei Befristungen vor 2025 sowie für Faelle, in denen das Tarifrecht weiterhin Schriftform verlangt, bleibt die qES-Rechtsprechung relevant. Quelle: https://www.gvw.com/aktuelles/blog/detail/buerokratieentlastungsgesetz-beschlossen-weg-frei-für-digitale-arbeitsvertraege
 
 ### Was bedeutet das praktisch?
 

@@ -3,7 +3,7 @@ name: amphetamin-therapiepfad-pruefen
 description: "Amphetamin: Therapiepfad prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Amphetamin Therapiepfad Pruefen
+# Amphetamin Therapiepfad Prüfen
 
 ## Arbeitsweg
 

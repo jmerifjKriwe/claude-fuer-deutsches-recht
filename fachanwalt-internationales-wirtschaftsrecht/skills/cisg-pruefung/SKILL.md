@@ -3,7 +3,7 @@ name: cisg-pruefung
 description: "Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet Normen, Nutzerangaben,..."
 ---
 
-# Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+# Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+**Fokus:** Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ## Mandantenfragen beim Kaltstart
 
@@ -80,14 +80,14 @@ description: "Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — CISG-Maengelhaftung geltend machen | CISG-Gutachten + Ruegeschreiben Art. 39 CISG; Template unten |
 | Variante A — Mandant will schnellen Ausgleich | Aussergerichtliche Einigung mit Preisminderung Art. 50 CISG statt Schiedsklage |
-| Variante B — CISG ausgeschlossen im Vertrag | Nationales Recht pruefen (§§ 434 ff. BGB o.ae.); anderes Skill einsetzen |
-| Variante C — Ruegefrist verpasst | Art. 40 CISG-Ausnahme (Arglist) pruefen; sonst Schadensbegrenzung |
+| Variante B — CISG ausgeschlossen im Vertrag | Nationales Recht prüfen (§§ 434 ff. BGB o.ae.); anderes Skill einsetzen |
+| Variante C — Ruegefrist verpasst | Art. 40 CISG-Ausnahme (Arglist) prüfen; sonst Schadensbegrenzung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -178,7 +178,7 @@ Die Haftung auf Schadensersatz ist daher ausgeschlossen. Rücktrittsrechte nach
 Art. 49 CISG bleiben unberührt.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -251,7 +251,7 @@ Anwaltsgebühren: RVG 1.3 VG + 1.2 TG; bei intl. Schiedsverfahren Zeithonorar 30
 - Aktueller Vertragsstaaten-Stand (12/2024: 97 Staaten; Ruanda seit 01.10.2024) — Liste: https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/status
 - UNCITRAL CLOUT-Datenbank (Case Law on UNCITRAL Texts): https://uncitral.un.org/en/case_law
 - Pace-CISG-Database: https://iicl.law.pace.edu/cisg/cisg
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Literatur (Schlechtriem/Schwenzer, Brunner/Gottlieb etc.): nur mit Nutzerquelle oder lizenziertem Live-Zugriff zitieren (Quellenregel).
 
 ## Vertiefung: Triage und Output-Template CISG

@@ -10,7 +10,7 @@ Dieses Fachmodul vor und nach jeder Übertragung.
 ## Triage zu Beginn
 1. Welche Fristen kommen im Originaltext vor — Datum, Fristbeginn, Fristende, Folgen?
 2. Welche Pflichten (Muss-Handlungen) und welche Rechte (Kann-Optionen) sind enthalten?
-3. Gibt es Ausnahmen oder Vorbehalte, die praktisch wichtig sein koennen?
+3. Gibt es Ausnahmen oder Vorbehalte, die praktisch wichtig sein können?
 4. Sind rechtliche Unsicherheiten oder offene Pruefungen im Originaltext erkennbar?
 
 ## Aktuelle Rechtsprechung

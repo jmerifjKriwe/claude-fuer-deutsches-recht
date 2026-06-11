@@ -253,13 +253,13 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Rechtsformwahl für Gruender empfehlen | Rechtsformvergleich nach Pruefschema; Empfehlungstemplate unten |
+| Standard — Rechtsformwahl für Gründer empfehlen | Rechtsformvergleich nach Pruefschema; Empfehlungstemplate unten |
 | Variante A — Mandant will sofort gruenden ohne viel Kapital | UG als kostenguenstige Variante bevor GmbH |
-| Variante B — Auslaendische Gruender internationaler Kontext | SE oder Limited als Alternative; Steuerrecht beachten |
+| Variante B — Auslaendische Gründer internationaler Kontext | SE oder Limited als Alternative; Steuerrecht beachten |
 | Variante C — Nur für ein Projekt keine Dauerhaftigkeit | GbR oder GmbH Co KG für Zweckgesellschaft |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -352,7 +352,7 @@ Die Gründer erstatten gemäß § 5 Abs. 4 GmbHG den folgenden Sachgründungsber
 [Gründer / Geschäftsführer]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

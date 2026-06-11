@@ -15,7 +15,7 @@ description: "Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Vorau
 
 § 44 SGB V: Versicherte erhalten Krankengeld wenn Krankheit sie arbeitsunfaehig macht und die Krankheit durch Aerztin oder Arzt festgestellt wurde.
 
-## Hoehe
+## Höhe
 
 - 70 Prozent des regelmäßigen Bruttoarbeitsentgelts.
 - Maximal 90 Prozent des Nettoarbeitsentgelts.
@@ -37,7 +37,7 @@ description: "Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Vorau
 - Aussteuerung.
 - Beendigung der Mitgliedschaft.
 
-## Streit ueber Arbeitsunfaehigkeit
+## Streit über Arbeitsunfaehigkeit
 
 - MD-Stellungnahme — oft mit Diskrepanz zu behandelndem Arzt.
 - Widerspruch gegen Krankengeldablehnung innerhalb eines Monats.
@@ -51,7 +51,7 @@ description: "Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Vorau
 ## Pruefraster
 
 1. AU-Bescheinigung lueckenlos?
-2. Hoehe des Bruttoeinkommens?
+2. Höhe des Bruttoeinkommens?
 3. Beginn der 78-Wochen-Frist?
 4. Blockfrist erschoepft?
 5. MD-Stellungnahme widersprochen?

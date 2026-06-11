@@ -49,8 +49,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **OLG:** Rechtsbeschwerde §§ 79, 80 OWiG; Revision Strafrecht; Berufung Zivilrecht.
 - **Register-Wege:**
  - **FAER (Fahreignungsregister) § 30 StVG:** Punktestand-Abfrage online unter kba.de; Selbstauskunft kostenfrei.
- - **BZR / Fuehrungszeugnis:** Bundeszentralregister § 30 BZRG; Auskunft Buergerinnen ueber online-Antrag.
+ - **BZR / Fuehrungszeugnis:** Bundeszentralregister § 30 BZRG; Auskunft Buergerinnen über online-Antrag.
  - **VZR (Verkehrszentralregister):** in FAER aufgegangen (seit Reform 2014).
  - **ZFER (Zentrales Fahrerlaubnisregister):** § 33 StVG.
  - **ZBV (Zentralregister Bauartzulassungen):** PTB - Messgeraete-Zulassungen verifizierbar.
-- **Praxis-Tipp:** Vor jedem Mandantentermin Halterauskunft KBA und Punktestand-Abfrage; bei Verkehrsstrafsachen BZRG-Auszug; bei Unfall Halter-/Versicherungsauskunft ueber GDV-Online-System (HISP).
+- **Praxis-Tipp:** Vor jedem Mandantentermin Halterauskunft KBA und Punktestand-Abfrage; bei Verkehrsstrafsachen BZRG-Auszug; bei Unfall Halter-/Versicherungsauskunft über GDV-Online-System (HISP).

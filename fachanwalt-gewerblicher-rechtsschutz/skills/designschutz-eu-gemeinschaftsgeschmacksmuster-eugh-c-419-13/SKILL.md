@@ -7,7 +7,7 @@ description: "Designschutz EU Gemeinschaftsgeschmacksmuster EuGH C 419 13: facha
 
 ## Einsatzlage
 
-Konkurrent kopiert Sitzbezug-Design; Streit ueber Schutzumfang.
+Konkurrent kopiert Sitzbezug-Design; Streit über Schutzumfang.
 
 ## Normenanker
 

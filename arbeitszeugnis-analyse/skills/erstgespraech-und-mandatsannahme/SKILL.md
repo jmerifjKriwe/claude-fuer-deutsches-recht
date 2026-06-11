@@ -19,7 +19,7 @@ Wichtig ist der Hinweis, dass die Bewertung erst nach Sichtung aller Unterlagen 
 
 ## Anforderungsliste der Unterlagen
 
-Die folgende Liste ist abschliessend strukturiert und sollte vollstaendig angefordert werden. Lueckenhafte Akten fuehren spaeter zu Beweisproblemen.
+Die folgende Liste ist abschliessend strukturiert und sollte vollstaendig angefordert werden. Lueckenhafte Akten fuehren später zu Beweisproblemen.
 
 | Unterlage | Zweck |
 | --- | --- |
@@ -29,12 +29,12 @@ Die folgende Liste ist abschliessend strukturiert und sollte vollstaendig angefo
 | Vorzeugnisse (Zwischenzeugnis, Beurteilungen) | Vergleichsmassstab, Sperrwirkung der besseren Vorbewertung |
 | Kuendigungsschreiben, Aufhebungsvertrag | Beendigungsgrund, Schlussformel-Erwartung |
 | Abmahnungen | Belastbarkeit des Verhaltens-Themas, Risikoeinschaetzung |
-| Krankheitstage- und Fehlzeitenuebersicht | Pruefung von Krankheits-Codeworten und langer Fehlzeit |
+| Krankheitstage- und Fehlzeitenuebersicht | Prüfung von Krankheits-Codeworten und langer Fehlzeit |
 | Schriftwechsel zum Zeugnis | Bisherige aussergerichtliche Korrespondenz, Berichtigungsverlangen |
 | Lohnabrechnungen der letzten drei Monate | Streitwertberechnung (Monatsbruttogehalt) |
 | Eigene Aufgabenliste des Mandanten | Abgleich mit dem Zeugnistext, fehlende Aufgaben |
 
-Bei besonderen Konstellationen kommen weitere Unterlagen hinzu: Schwerbehindertenausweis (Sonderkuendigungsschutz), Elternzeit-Bescheinigungen (Sperrzeit-Pruefung), Betriebsratstaetigkeit (Diskriminierungsrisiko), Pflegezeit, Mutterschutz.
+Bei besonderen Konstellationen kommen weitere Unterlagen hinzu: Schwerbehindertenausweis (Sonderkuendigungsschutz), Elternzeit-Bescheinigungen (Sperrzeit-Prüfung), Betriebsratstaetigkeit (Diskriminierungsrisiko), Pflegezeit, Mutterschutz.
 
 ## Erstgespraech-Leitfaden
 
@@ -44,9 +44,9 @@ Der erste Block ist die Sachverhaltsaufnahme. Eckdaten der Beschaeftigung (Begin
 
 Der zweite Block ist die Zielklaerung. Will der Mandant ein besseres Zeugnis, eine bestimmte Note, eine bestimmte Schlussformel, eine konkrete Taetigkeitsbeschreibung oder die Entfernung bestimmter Passagen. Auch der Zeitdruck wird erfragt: Steht ein Vorstellungsgespraech an, ist Eile geboten.
 
-Der dritte Block ist die Vergleichsbereitschaft. Ist der Mandant bereit, eine Note zwischen seiner Wunschnote und der erhaltenen Note zu akzeptieren. Ist er bereit, auf eine Schlussformel-Wendung zu verzichten, wenn dafür die Notenstufe stimmt. Diese Vorabklaerung erspart spaeter unnoetige Schriftsatzwechsel.
+Der dritte Block ist die Vergleichsbereitschaft. Ist der Mandant bereit, eine Note zwischen seiner Wunschnote und der erhaltenen Note zu akzeptieren. Ist er bereit, auf eine Schlussformel-Wendung zu verzichten, wenn dafür die Notenstufe stimmt. Diese Vorabklaerung erspart später unnoetige Schriftsatzwechsel.
 
-Der vierte Block ist die rechtliche Erstinformation. Der Mandant wird ueber den Anspruch nach Paragraf 109 GewO, die Beweislastregel (Note ab Drei: Arbeitnehmer, oberhalb der Drei: Arbeitgeber), die Verjährung und das Risiko der Verwirkung aufgeklaert. Ohne diese Aufklaerung ist eine wirksame Mandatsbeauftragung nicht moeglich.
+Der vierte Block ist die rechtliche Erstinformation. Der Mandant wird über den Anspruch nach Paragraf 109 GewO, die Beweislastregel (Note ab Drei: Arbeitnehmer, oberhalb der Drei: Arbeitgeber), die Verjährung und das Risiko der Verwirkung aufgeklaert. Ohne diese Aufklaerung ist eine wirksame Mandatsbeauftragung nicht möglich.
 
 Der fuenfte Block ist die Vereinbarung. Vergueterung (RVG oder Stundensatz), Kostenvorschuss, Rechtsschutzversicherung, Vollmacht und Mandatsumfang werden schriftlich festgehalten.
 
@@ -56,14 +56,14 @@ Sehr geehrter Herr [Name],
 
 vielen Dank für Ihre Beauftragung und die uebersandten Unterlagen. Wir haben Ihr Arbeitszeugnis vom [Datum] erhalten und werden eine detaillierte Ampelanalyse durchfuehren.
 
-Damit wir die Bewertung rechtssicher vornehmen und die Erfolgsaussichten eines Berichtigungsverlangens beurteilen koennen, benoetigen wir noch die folgenden Unterlagen:
+Damit wir die Bewertung rechtssicher vornehmen und die Erfolgsaussichten eines Berichtigungsverlangens beurteilen können, benoetigen wir noch die folgenden Unterlagen:
 
 - Arbeitsvertrag nebst allen Aenderungsvereinbarungen
 - Stellenbeschreibung oder schriftliche Aufgabenuebersicht
 - gegebenenfalls vorhandene Zwischenzeugnisse und Beurteilungen
 - Kuendigungsschreiben oder Aufhebungsvertrag
 - gegebenenfalls erteilte Abmahnungen
-- Uebersicht ueber Krankheits- und Fehlzeiten im letzten Beschaeftigungsjahr
+- Übersicht über Krankheits- und Fehlzeiten im letzten Beschaeftigungsjahr
 - bisheriger Schriftwechsel zum Zeugnis
 - Lohnabrechnungen der letzten drei Monate
 
@@ -74,11 +74,11 @@ Mit freundlichen Gruessen
 
 ## Pruefliste vor Mandatsannahme
 
-Vor der formellen Annahme prueft die Kanzlei drei Punkte. Erstens den Interessenkonflikt: Vertritt die Kanzlei den frueheren Arbeitgeber oder einen verbundenen Konzern, ist das Mandat zu versagen. Zweitens die Verjährung: Liegt das Zeugnisdatum mehr als drei Jahre zurueck, ist die Erfolgsaussicht ohne besondere Umstaende gering. Drittens die Werthaltigkeit: Bei einer reinen Schlussformel-Diskussion ohne wirtschaftliche Bedeutung sollte der Mandant ueber das Kostenrisiko offen aufgeklaert werden.
+Vor der formellen Annahme prüft die Kanzlei drei Punkte. Erstens den Interessenkonflikt: Vertritt die Kanzlei den frueheren Arbeitgeber oder einen verbundenen Konzern, ist das Mandat zu versagen. Zweitens die Verjährung: Liegt das Zeugnisdatum mehr als drei Jahre zurueck, ist die Erfolgsaussicht ohne besondere Umstaende gering. Drittens die Werthaltigkeit: Bei einer reinen Schlussformel-Diskussion ohne wirtschaftliche Bedeutung sollte der Mandant über das Kostenrisiko offen aufgeklaert werden.
 
 ## Anschluss an die weiteren Skills
 
-Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift-Erkennung und rechtlichen Bewertung. Das Ergebnis fliesst in den Skill `mandantenbericht-zeugnisanalyse`. Die Aufforderung an den Arbeitgeber wird ueber den Skill `aufforderungsschreiben-arbeitgeber` erstellt, der weitere Verfahrensweg ueber `klage-strategie-zeugnisberichtigung`.
+Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift-Erkennung und rechtlichen Bewertung. Das Ergebnis fliesst in den Skill `mandantenbericht-zeugnisanalyse`. Die Aufforderung an den Arbeitgeber wird über den Skill `aufforderungsschreiben-arbeitgeber` erstellt, der weitere Verfahrensweg über `klage-strategie-zeugnisberichtigung`.
 
 ## Rechtliche Einordnung und Normen
 

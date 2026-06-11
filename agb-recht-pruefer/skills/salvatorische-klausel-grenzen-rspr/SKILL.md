@@ -20,8 +20,8 @@ description: "Salvatorische Klausel: Grenzen und Wirkung. Skill klaert die BGH-L
 ## BGH-Linie
 
 - BGH XII ZR 110/06: Salvatorische Klausel kann in B2B-AGB wirksam sein.
-- In B2C grundsaetzlich problematisch: kein "Reparieren" durch Klausel auf Kosten des Verbrauchers.
-- "Geltungserhaltende Reduktion" ist im AGB-Recht grundsaetzlich unzulaessig — BGH staendige Rspr. seit BGHZ 100, 360.
+- In B2C grundsätzlich problematisch: kein "Reparieren" durch Klausel auf Kosten des Verbrauchers.
+- "Geltungserhaltende Reduktion" ist im AGB-Recht grundsätzlich unzulaessig — BGH staendige Rspr. seit BGHZ 100, 360.
 
 ## Wirkung im B2B
 
@@ -37,12 +37,12 @@ description: "Salvatorische Klausel: Grenzen und Wirkung. Skill klaert die BGH-L
 ## Blue-Pencil-Test
 
 - Wenn die Klausel durch Streichung eindeutig in einen wirksamen Restbestand zerfaellt, bleibt der Rest wirksam.
-- Beispiel: Klausel "Kuendigungsfrist 4 Wochen, jedoch nicht weniger als 14 Tage" — Streichung der Restriktion moeglich.
+- Beispiel: Klausel "Kuendigungsfrist 4 Wochen, jedoch nicht weniger als 14 Tage" — Streichung der Restriktion möglich.
 
 ## Pruefraster
 
 1. AGB-Klausel oder Individualabrede?
 2. Welche Bestimmung ist unwirksam?
 3. Salvatorische Klausel vorhanden?
-4. Blue-Pencil-Test moeglich?
-5. Geltungserhaltende Reduktion zulaessig?
+4. Blue-Pencil-Test möglich?
+5. Geltungserhaltende Reduktion zulässig?

@@ -15,42 +15,42 @@ description: "WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext für Impo
 
 ## Mandantenfall
 
-- Importeur fragt nach Rechtmaeßigkeit neuer EU-Antidumping-Massnahme und WTO-Streitbeilegungsoptionen.
-- Exporteur in Drittland ist von EU-Ausgleichszoll betroffen; WTO-rechtliche Einwendungen pruefen.
+- Importeur fragt nach Rechtmaeßigkeit neuer EU-Antidumping-Maßnahme und WTO-Streitbeilegungsoptionen.
+- Exporteur in Drittland ist von EU-Ausgleichszoll betroffen; WTO-rechtliche Einwendungen prüfen.
 - Unternehmen moechte in EU-Schutzmassnahme-Untersuchung als interessierte Partei auftreten.
 
 ## Erste Schritte
 
-1. Massnahme identifizieren: Antidumping Ausgleichszoll oder Schutzmasnahme? EU-Amtsblatt und TARIC pruefen.
+1. Maßnahme identifizieren: Antidumping Ausgleichszoll oder Schutzmasnahme? EU-Amtsblatt und TARIC prüfen.
 2. WTO-Rechtsgrundlage bestimmen: ADA SCM-Abkommen oder SG-Abkommen.
-3. Unternehmensbeteiligung: Als Einfulirer Exporteur oder Produzent von der Massnahme betroffen?
+3. Unternehmensbeteiligung: Als Einfulirer Exporteur oder Produzent von der Maßnahme betroffen?
 4. Verfahrensrechte in EU-Untersuchung: Fragebogen Auskunftspflicht Akteneinsicht Anhörung.
-5. WTO-Streitbeilegung: Nur Staatsebene moeglich; nationales Unternehmen kann nur Regierung um Klage bitten.
-6. Risikoradar erstellen: Laufende WTO-Streitverfahren gegen EU und potenzielle Massnahmen.
+5. WTO-Streitbeilegung: Nur Staatsebene möglich; nationales Unternehmen kann nur Regierung um Klage bitten.
+6. Risikoradar erstellen: Laufende WTO-Streitverfahren gegen EU und potenzielle Maßnahmen.
 
 ## Rechtsrahmen
 
 - **GATT Art. VI**: Antidumping und Ausgleichszoelle.
 - **GATT Art. XIX**: Schutzmasnahmenklausel (Safeguards).
-- **WTO-Antidumping-Abkommen (ADA)**: Verfahrens- und Substanzregeln für AD-Massnahmen.
+- **WTO-Antidumping-Abkommen (ADA)**: Verfahrens- und Substanzregeln für AD-Maßnahmen.
 - **VO (EU) 2016/1036 (EU-AD-GVO)**: EU-Antidumpingverfahren.
 - **VO (EU) 2015/478 (EU-SG-VO)**: EU-Schutzmasnahmenverfahren.
 
 ## Pruef-Raster
 
-- [ ] Massnahmen-Art korrekt identifiziert (AD/AS/SG)?
+- [ ] Maßnahmen-Art korrekt identifiziert (AD/AS/SG)?
 - [ ] WTO-Rechtsgrundlage geprueft?
 - [ ] Unternehmen als interessierte Partei im EU-Verfahren angemeldet?
 - [ ] Fragebogen-Antwort fristgerecht und vollstaendig eingereicht?
 - [ ] WTO-Streitbeilegungsoptionen auf Regierungsebene bewertet?
-- [ ] Handelspolitisches Risikoradar für kuenftige Massnahmen erstellt?
+- [ ] Handelspolitisches Risikoradar für kuenftige Maßnahmen erstellt?
 
 ## Typische Fallstricke
 
 - Fristen für Fragebogen-Einreichung in EU-Verfahren sind kurz; Verpaessung schliesst von Verfahren aus.
 - WTO-Streitbeilegung nur durch Staaten; Unternehmen haben keinen direkten Klagezugang.
-- Schutzmassnahmen und Antidumping-Zoelle koennen kumulativ auf dieselbe Ware angewendet werden.
-- Circumvention-Ermittlungen koennen Massnahmen auf Drittland-Exporteure ausdehnen.
+- Schutzmassnahmen und Antidumping-Zoelle können kumulativ auf dieselbe Ware angewendet werden.
+- Circumvention-Ermittlungen können Maßnahmen auf Drittland-Exporteure ausdehnen.
 
 ## Schnittstellen zu anderen Skills
 

@@ -35,12 +35,12 @@ description: "Befangenheitsantrag nach § 24 StPO zielgenau formulieren ohne sic
 ## Trennschaerfe
 
 - Kein Befangenheitsantrag bei nur unguenstiger Verfahrensleitung oder negativer Beweiswuerdigung im Sitzungsverlauf.
-- Befangenheit erfordert eine ueber die Sache hinausgehende Voreinstellung. Pauschale Senatskritik traegt keinen Antrag.
+- Befangenheit erfordert eine über die Sache hinausgehende Voreinstellung. Pauschale Senatskritik traegt keinen Antrag.
 
 ## Folgen der Unzulaessigkeitsentscheidung
 
-- § 26a StPO Verwerfung als unzulaessig: nur bei voellig untauglicher Begruendung oder Verschleppungsabsicht. Wenn Kammer diese Norm anwendet: pruefen ob Tatbestand wirklich passt. Sonst Revisionsruege.
-- § 27 StPO: Entscheidung ueber den Antrag wird ohne den abgelehnten Richter getroffen. Logisch: das Gericht entscheidet ueber die Sache, nicht der Betroffene selbst.
+- § 26a StPO Verwerfung als unzulaessig: nur bei völlig untauglicher Begruendung oder Verschleppungsabsicht. Wenn Kammer diese Norm anwendet: prüfen ob Tatbestand wirklich passt. Sonst Revisionsruege.
+- § 27 StPO: Entscheidung über den Antrag wird ohne den abgelehnten Richter getroffen. Logisch: das Gericht entscheidet über die Sache, nicht der Betroffene selbst.
 
 ## Selektion
 

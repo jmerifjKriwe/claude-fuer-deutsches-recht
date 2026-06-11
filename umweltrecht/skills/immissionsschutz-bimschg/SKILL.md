@@ -21,7 +21,7 @@ Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nac
 
 1. Welche Anlage (Typ, installierte Leistung, Emissionspotenzial) — Spalte 1 oder 2 der 4. BImSchV?
 2. Formelles (§ 10 BImSchG, mit Oeffentlichkeitsbeteiligung) oder vereinfachtes Verfahren (§ 19 BImSchG)?
-3. Ist eine UVP-Pflicht gemaess UVPG-Anlage 1 ausgeloest?
+3. Ist eine UVP-Pflicht gemäß UVPG-Anlage 1 ausgeloest?
 4. Wer ist Mandant — Betreiber/Investor oder klagender Dritter (Nachbar, Umweltverband)?
 5. Liegt ein Ausgangsbescheid vor oder steht Antrag am Anfang?
 6. Welche Fristen laufen (Widerspruch § 70 VwGO, Klage § 74 VwGO je 1 Monat)?
@@ -43,13 +43,13 @@ Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nac
 
 ## Leitentscheidungen (Stand 05/2026, verifiziert bverwg.de / curia.europa.eu)
 
-- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Pruefung (saP). Quelle: bverwg.de.
+- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Prüfung (saP). Quelle: bverwg.de.
 - **BVerwG 18.07.2019, 7 C 26.17**: UVP-Vorpruefung; Aufhebung nur bei kausalen Verfahrensmaengeln. Quelle: bverwg.de.
 - **BVerwG 28.11.2017, 7 A 17.12**: TA Laerm als antizipiertes Sachverstaendigengutachten — bindet Behörde nicht bei abweichenden Erkenntnissen im Einzelfall. Quelle: bverwg.de.
 - **EuGH 15.10.2009, C-263/08 (Djurgården)**: Beteiligungsrechte und Aarhus-Konvention; Begriff „betroffene Oeffentlichkeit". Quelle: curia.europa.eu.
 - **EuGH 16.04.2015, C-570/13 (Gruber)**: Klagebefugnis Drittbetroffener auch ohne foermliche Beteiligung am Verfahren. Quelle: curia.europa.eu.
 
-Konkrete Aktenzeichen weiterer Entscheidungen (insb. OVG / VGH) vor Ausgabe ueber bverwg.de bzw. landesrecht-[bundesland].de verifizieren.
+Konkrete Aktenzeichen weiterer Entscheidungen (insb. OVG / VGH) vor Ausgabe über bverwg.de bzw. landesrecht-[bundesland].de verifizieren.
 
 ## Schritt-für-Schritt-Workflow
 
@@ -62,12 +62,12 @@ Konkrete Aktenzeichen weiterer Entscheidungen (insb. OVG / VGH) vor Ausgabe uebe
 3. **Antragsunterlagen zusammenstellen**: § 4 9. BImSchV — Erlauterungsbericht, Immissionsprognosen (Schall, Staub, Luft), Lageplaeane, Betriebsbeschreibung, Sicherheitsbericht bei Stoerfallanlage.
 4. **Behörde benennen**: Genehmigungsbehoerde (Landes-Immissionsschutzbeh.), beteiligte Fachbehoerden (Wasserbeh., Naturschutz, Arbeitsschutz).
 5. **Oeffentlichkeitsbeteiligung**: Auslegung 1 Monat; Einwendungsfrist; Eroerterungstermin.
-6. **Bescheid pruefen**: Nebenbestimmungen angreifen wenn unverhaltsnismassig (§ 12 BImSchG).
+6. **Bescheid prüfen**: Nebenbestimmungen angreifen wenn unverhaltsnismassig (§ 12 BImSchG).
 7. **Vollzug sichern**: Nebenbestimmungen erfuellen, Betrieb anzeigen, Emissionsberichte.
 
 ### B) Nachbar-/Dritter-Perspektive: Drittanfechtung
 
-1. **Drittschutz pruefen**: § 5 Abs. 1 Nr. 1 BImSchG (Schutz vor schaedlichen Umwelteinwirkungen), TA-Laerm, TA-Luft-Richtwerte; Eigentumsverletzung benennen.
+1. **Drittschutz prüfen**: § 5 Abs. 1 Nr. 1 BImSchG (Schutz vor schaedlichen Umwelteinwirkungen), TA-Laerm, TA-Luft-Richtwerte; Eigentumsverletzung benennen.
 2. **Klagebefugnis**: Analogie § 42 Abs. 2 VwGO; Betroffenheit in eigenen Rechten.
 3. **Frist**: 1 Monat nach Bekanntgabe Genehmigung (Widerspruch, soweit Widerspruchsverfahren erhalten, ansonsten direkt Klage VG).
 4. **Eilantrag**: § 80a Abs. 3, § 80 Abs. 5 VwGO bei bereits vollziehbarer Genehmigung.
@@ -89,12 +89,12 @@ Liegt ein BImSchG-Bescheid vor?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Widerspruch oder Klage gegen Drittanfechtung BImSchG | Klage-Schriftsatz nach Schema; Template unten |
-| Variante A — Genehmigung noch nicht bestandskraeftig Einwendung moeglich | Einwendung im Verfahren zuerst; Klage erst nach Abschluss |
+| Variante A — Genehmigung noch nicht bestandskraeftig Einwendung möglich | Einwendung im Verfahren zuerst; Klage erst nach Abschluss |
 | Variante B — Mandant will nur bestimmte Auflagen anfechten | Teilanfechtung nur der belastenden Nebenbestimmungen |
 | Variante C — Drittanfechtung Nachbar klagt gegen Genehmigung | Beiladungsantrag stellen; Verteidigung der Genehmigung |
 
@@ -132,7 +132,7 @@ Die Genehmigung verletzt drittschuetzende Normen (§ 5 Abs. 1 Nr. 1 BImSchG):
 Anlagen: Eigentumsnachweis, Schallgutachten-Gegengutachten, Lageplan
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -157,8 +157,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - **TA-Laerm-Anwendung**: Zu optimistische Ausbreitung, fehlende Impulshaltigkeit, Tageszeit-Staffelung fehlt → Gegengutachten beauftragen.
 - **Kumulation**: Andere vorhandene Anlagen als Vorbelastung nicht beruecksichtigt.
-- **Praeventions-Gebot**: Nebenbestimmungen statt Ablehnung — Verhaeltnismaessigkeit pruefen.
-- BVerwG 17.12.2020, 4 C 5.19 — saP-Pruefung Wind (bverwg.de); BVerwG 18.07.2019, 7 C 26.17 — UVP-Vorpruefung (bverwg.de); EuGH C-243/15 / C-664/15 — Aarhus-Klagebefugnis Umweltverband (curia.europa.eu).
+- **Praeventions-Gebot**: Nebenbestimmungen statt Ablehnung — Verhältnismäßigkeit prüfen.
+- BVerwG 17.12.2020, 4 C 5.19 — saP-Prüfung Wind (bverwg.de); BVerwG 18.07.2019, 7 C 26.17 — UVP-Vorpruefung (bverwg.de); EuGH C-243/15 / C-664/15 — Aarhus-Klagebefugnis Umweltverband (curia.europa.eu).
 
 ## Anschluss-Skills
 

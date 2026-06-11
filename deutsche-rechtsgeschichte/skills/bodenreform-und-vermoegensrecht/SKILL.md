@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Die Bodenreform in der Sowjetischen Besatzungszone (SBZ) 1945-49 enteignete Gutsbesitzer ueber 100 Hektar sowie aktive Nationalsozialisten entschaedigungslos. Ca. 3,3 Millionen Hektar wurden umverteilt. Die Gemeinsame Erklaerung der BRD- und DDR-Regierungen vom 15. Juni 1990 (Teil des Einigungsvertrags) schloss Restitution für die Bodenreform-Enteignungen von 1945-49 aus. Das BVerfG bestaetigte dies in BVerfGE 84, 90 (1991) und BVerfGE 94, 12 (1996): Die Eigentumsgarantie des GG galt für diese Enteignungen nicht, da sie unter alliierter Besatzungshoheit stattfanden.
+Die Bodenreform in der Sowjetischen Besatzungszone (SBZ) 1945-49 enteignete Gutsbesitzer über 100 Hektar sowie aktive Nationalsozialisten entschaedigungslos. Ca. 3,3 Millionen Hektar wurden umverteilt. Die Gemeinsame Erklaerung der BRD- und DDR-Regierungen vom 15. Juni 1990 (Teil des Einigungsvertrags) schloss Restitution für die Bodenreform-Enteignungen von 1945-49 aus. Das BVerfG bestaetigte dies in BVerfGE 84, 90 (1991) und BVerfGE 94, 12 (1996): Die Eigentumsgarantie des GG galt für diese Enteignungen nicht, da sie unter alliierter Besatzungshoheit stattfanden.
 
 ## Kernnormen / Kernquellen
 

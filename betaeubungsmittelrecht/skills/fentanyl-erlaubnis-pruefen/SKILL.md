@@ -3,7 +3,7 @@ name: fentanyl-erlaubnis-pruefen
 description: "Fentanyl: Erlaubnis prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Fentanyl Erlaubnis Pruefen
+# Fentanyl Erlaubnis Prüfen
 
 ## Arbeitsweg
 

@@ -1,21 +1,21 @@
 # Lobbyregister Bundestag - Leitplanken
 
-Stand: 27.05.2026. Dieses Plugin arbeitet mit offiziellen Bundestags- und Gesetzesquellen und markiert unklare Punkte als Pruefbedarf. Es ersetzt keine rechtliche Pruefung durch verantwortliche Berufstraegerinnen oder Compliance-Verantwortliche.
+Stand: 27.05.2026. Dieses Plugin arbeitet mit offiziellen Bundestags- und Gesetzesquellen und markiert unklare Punkte als Pruefbedarf. Es ersetzt keine rechtliche Prüfung durch verantwortliche Berufstraegerinnen oder Compliance-Verantwortliche.
 
 ## Kernlogik
 
-1. Interessenvertretung pruefen: Kontaktaufnahme zur unmittelbaren oder mittelbaren Einflussnahme auf Willensbildung oder Entscheidung.
-2. Adressat pruefen: Bundestag, Mitglieder, Organe, Fraktionen, Gruppen, Mitarbeitende oder Bundesregierung einschliesslich der im LobbyRG genannten Leitungsebenen.
-3. Registrierungspflicht pruefen: Schwellen nach § 2 Abs. 1 LobbyRG und Ausnahmen nach § 2 Abs. 2 oder Abs. 3 LobbyRG.
+1. Interessenvertretung prüfen: Kontaktaufnahme zur unmittelbaren oder mittelbaren Einflussnahme auf Willensbildung oder Entscheidung.
+2. Adressat prüfen: Bundestag, Mitglieder, Organe, Fraktionen, Gruppen, Mitarbeitende oder Bundesregierung einschliesslich der im LobbyRG genannten Leitungsebenen.
+3. Registrierungspflicht prüfen: Schwellen nach § 2 Abs. 1 LobbyRG und Ausnahmen nach § 2 Abs. 2 oder Abs. 3 LobbyRG.
 4. Registerdaten vorbereiten: Stammdaten, Personen, Drehtuerangaben, Taetigkeit, Bereiche, Vorhaben, Auftraege, Finanzdaten und Dokumente.
 5. Freigabe sichern: Richtigkeit und Vollstaendigkeit bestaetigen, bei Organisationen durch eine geeignete Leitungsperson oder vertretungsberechtigte Person.
-6. Laufende Pflege: unverzuegliche Updates, Quartalsupload fuer Stellungnahmen/Gutachten, Finanzdaten nach Geschaeftsjahr und Jahresaktualisierung.
-7. Open-Data-Kontrolle: nach Veroeffentlichung den oeffentlichen Registereintrag per API/API-Export gegen die interne Freigabeakte pruefen.
+6. Laufende Pflege: unverzuegliche Updates, Quartalsupload für Stellungnahmen/Gutachten, Finanzdaten nach Geschaeftsjahr und Jahresaktualisierung.
+7. Open-Data-Kontrolle: nach Veroeffentlichung den oeffentlichen Registereintrag per API/API-Export gegen die interne Freigabeakte prüfen.
 8. Kontaktverhalten: Offenheit, Transparenz, Ehrlichkeit, Integritaet, Identitaet, Anliegen und Auftraggeber offenlegen.
 
 ## Pflichtquellen
 
-- [Lobbyregister FAQ fuer Interessenvertreter](https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572)
+- [Lobbyregister FAQ für Interessenvertreter](https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572)
 - [Lobbyregister A-Z](https://www.lobbyregister.bundestag.de/informationen-und-hilfe/lobbyregister-a-z-863568)
 - [Handbuch zur Eintragung Version 2.0](https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch)
 - [LobbyRG bei gesetze-im-internet](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html)
@@ -30,7 +30,7 @@ Stand: 27.05.2026. Dieses Plugin arbeitet mit offiziellen Bundestags- und Gesetz
 
 ## Open Data und API
 
-Die offizielle API V2 ermoeglicht einen umfassenden **lesenden** Zugriff auf oeffentliche Registerinhalte. Das Plugin verwendet sie fuer Suche, Registernummernabfrage, Versionsvergleich, Statistik, Dublettenmonitoring und Nachkontrolle eigener Portalangaben. Die API darf nicht als Einreichungsweg fuer Erstregistrierung, Aktualisierung, Bestaetigung oder Stellungnahmen-Upload dargestellt werden.
+Die offizielle API V2 ermoeglicht einen umfassenden **lesenden** Zugriff auf oeffentliche Registerinhalte. Das Plugin verwendet sie für Suche, Registernummernabfrage, Versionsvergleich, Statistik, Dublettenmonitoring und Nachkontrolle eigener Portalangaben. Die API darf nicht als Einreichungsweg für Erstregistrierung, Aktualisierung, Bestaetigung oder Stellungnahmen-Upload dargestellt werden.
 
 Arbeitsregel:
 
@@ -50,5 +50,5 @@ Technische Details: [open-data-api-v2.md](open-data-api-v2.md).
 - Regelungsvorhaben sind konkret genug und mit Kontaktstart/Updatepflicht verknuepft.
 - Stellungnahmen und Gutachten haben Versanddatum, Empfaengerkreis, Regelungsvorhaben und Quartalsfrist.
 - Portaltexte sind nicht irrefuehrend, nicht zu knapp und nicht breiter als die belegten Tatsachen.
-- Verhaltenskodex und Offenlegungssaetze sind fuer Erstkontakte vorbereitet.
+- Verhaltenskodex und Offenlegungssaetze sind für Erstkontakte vorbereitet.
 - API-Diffs trennen Portalpflicht, oeffentlichen Datenstand und technische Schemaeffekte.

@@ -14,11 +14,11 @@ description: "Verweisungen (statisch; dynamisch; Rueckverweisung) und Ausnahmen 
 
 ## Kern der Methode
 
-Statische Verweisungen werden direkt aufgeloest. Dynamische Verweisungen (auf jeweils gueltige Fassung) sind als Verweisknoten mit Versionspflege umzusetzen. Rueckverweisungen sind als Schleifenpfade explizit zu markieren und auf Endlichkeit zu pruefen. Ausnahmen sind eigene Pfade; keine versteckten Negationen in Tatbestandsknoten.
+Statische Verweisungen werden direkt aufgeloest. Dynamische Verweisungen (auf jeweils gueltige Fassung) sind als Verweisknoten mit Versionspflege umzusetzen. Rueckverweisungen sind als Schleifenpfade explizit zu markieren und auf Endlichkeit zu prüfen. Ausnahmen sind eigene Pfade; keine versteckten Negationen in Tatbestandsknoten.
 
 ## Pruefpunkte
 
-Pruefen: gibt es zirkulaere Verweisungen? Welche EU-Vorgaben sind zu verlinken? Sind Ausnahmen verhaeltnismaessig zugeschnitten? Stehen Ausnahmen im Einklang mit Gleichheitssatz und Bestimmtheitsgebot?
+Prüfen: gibt es zirkulaere Verweisungen? Welche EU-Vorgaben sind zu verlinken? Sind Ausnahmen verhaeltnismaessig zugeschnitten? Stehen Ausnahmen im Einklang mit Gleichheitssatz und Bestimmtheitsgebot?
 
 ## Normenanker
 
@@ -39,7 +39,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Abgrenzung
 
-Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Pruefung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
+Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Prüfung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
 
 ## Quellen Stand 06/2026
 

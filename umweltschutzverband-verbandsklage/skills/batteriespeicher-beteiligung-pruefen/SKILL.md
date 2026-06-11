@@ -3,7 +3,7 @@ name: batteriespeicher-beteiligung-pruefen
 description: "Umweltschutzverband Verbandsklage: Batteriespeicher: Beteiligung prüfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Batteriespeicher Beteiligung Pruefen
+# Batteriespeicher Beteiligung Prüfen
 
 ## Arbeitsweg
 

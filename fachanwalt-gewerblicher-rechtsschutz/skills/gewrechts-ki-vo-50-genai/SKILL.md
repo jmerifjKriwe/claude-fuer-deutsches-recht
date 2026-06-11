@@ -133,13 +133,13 @@ Interne Richtlinie:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — KI-VO Art. 50 Compliance für GenAI sicherstellen | Drei-Phasen-Workflow; Schriftsatzbausteine unten |
-| Variante A — Mandant ist nur Nutzer kein Anbieter | Reduzierte Pflichten; Art. 50 Abs. 4 GenAI-Kennzeichnung pruefen |
-| Variante B — Hochrisiko-KI zusaetzlich betroffen | Art. 9-16 KI-VO zusaetzlich pruefen; Konformitaetsbewertung noetig |
+| Variante A — Mandant ist nur Nutzer kein Anbieter | Reduzierte Pflichten; Art. 50 Abs. 4 GenAI-Kennzeichnung prüfen |
+| Variante B — Hochrisiko-KI zusaetzlich betroffen | Art. 9-16 KI-VO zusaetzlich prüfen; Konformitaetsbewertung noetig |
 | Variante C — DeepFake-Generierung des Mandanten | Besonderes Risiko Art. 50 Abs. 2 und 3; Kennzeichnungspflicht strikt |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -167,7 +167,7 @@ S. 2 KI-VO offensichtlich künstlerischen oder satirischen Zwecken dienen.
 [Ort, Datum, Unterschrift]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

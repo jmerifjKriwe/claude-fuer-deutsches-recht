@@ -7,12 +7,12 @@ description: "Mandatsannahme fuer Lizenzvertragsersteller: Konfliktcheck (mehrse
 
 ## Pruefraster
 
-| Punkt | Pruefung | Belege |
+| Punkt | Prüfung | Belege |
 | --- | --- | --- |
 | Konfliktcheck | Vertretung Gegenseite, Vorbefassung Konzern, Vertretung Wettbewerber im selben Technologiefeld | Kanzleidatenbank, $ 43a BRAO, $ 3 BORA |
 | Mandantenbasisdaten | Firma/Anschrift, HRB, gesetzliche Vertreter, UBO | HR-Auszug, Beneficial-Ownership-Register |
-| Mandatsumfang | Vertragsentwurf (Lizenzgeber/-nehmer/Cross), Pruefung Vertrag der Gegenseite, Begleitung Verhandlung, Insolvenzberatung | Mandatsmail |
-| Zielsetzung | Was soll erreicht werden? Geld, Marktzugang, Insolvenzschutz, Cross-License-Patentaustausch | Klaerung im Erstgespraech |
+| Mandatsumfang | Vertragsentwurf (Lizenzgeber/-nehmer/Cross), Prüfung Vertrag der Gegenseite, Begleitung Verhandlung, Insolvenzberatung | Mandatsmail |
+| Zielsetzung | Was soll erreicht werden? Geld, Marktzugang, Insolvenzschutz, Cross-License-Patentaustausch | Klärung im Erstgespraech |
 | Eilfristen | NDA-Verfallsdatum, MOU-Bindungsfristen, Vertragsschlussabsicht | Aktenlage |
 | Vorvertraege | NDA, LOI, MOU, Heads of Terms - schon unterschrieben? | Akten |
 

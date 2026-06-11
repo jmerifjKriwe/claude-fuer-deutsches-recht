@@ -78,13 +78,13 @@ description: "Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan: ordnet
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Restrukturierungsplan einleiten | StaRUG-Verfahren nach § 29 StaRUG; Template unten |
-| Variante A — Schuldner will aussergerichtliche Einigung | Sanierungs-Moderationsverfahren vor Planverfahren pruefen (§§ 94 ff. StaRUG) |
-| Variante B — Glaeubiger blockieren Plan | Obstruktionsverbot § 26 StaRUG pruefen; Gruppenbildung optimieren |
+| Variante A — Schuldner will aussergerichtliche Einigung | Sanierungs-Moderationsverfahren vor Planverfahren prüfen (§§ 94 ff. StaRUG) |
+| Variante B — Glaeubiger blockieren Plan | Obstruktionsverbot § 26 StaRUG prüfen; Gruppenbildung optimieren |
 | Variante C — Insolvenznaehe kritisch | Insolvenzantrag ggf. vorzuziehen wenn StaRUG-Fristen nicht haltbar |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -148,7 +148,7 @@ IV. Antrag
 Das Gericht möge den Restrukturierungsplan bestätigen.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

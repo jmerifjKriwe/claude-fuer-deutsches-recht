@@ -37,14 +37,14 @@ Strafrahmen:
 **Tathandlungen:**
 
 1. **Entfuehrung:** Verbringung des Opfers aus seinem Lebensumfeld an einen anderen Ort.
-2. **Sich-Bemaechtigen:** Erlangung der physischen Herrschaft ueber das Opfer ohne notwendige Ortsveraenderung (Festhalten, Fesseln).
+2. **Sich-Bemaechtigen:** Erlangung der physischen Herrschaft über das Opfer ohne notwendige Ortsveraenderung (Festhalten, Fesseln).
 
 **Subjektiver Tatbestand:**
 
 - Vorsatz hinsichtlich Entfuehrung / Bemaechtigung.
 - **Erpressungs- bzw. Noetigungsabsicht** (Absichtsmerkmal, dolus directus 1. Grades).
 
-**Dreiecksstruktur – BGH-Restriktion bei Zwei-Personen-Verhaeltnis:** Die staendige BGH-Rechtsprechung hat das Tatbestandserfordernis entwickelt, dass bei klassischen Zwei-Personen-Verhaeltnissen (Taeter und Opfer sind identisch mit Erpressern und Genoetigtem) §§ 239a, 239b StGB **restriktiv** anzuwenden sind. Erforderlich ist, dass der Taeter die Bemaechtigungslage und die nachfolgende Erpressungs-/Noetigungslage gedanklich trennt und das Opfer ueber einen nicht nur unerheblichen Zeitraum in der Gewalt halten will. Bloss kurzes Festhalten zur sofortigen Noetigung erfuellt §§ 239a, 239b StGB nicht – dann nur § 240 StGB / § 253 StGB.
+**Dreiecksstruktur – BGH-Restriktion bei Zwei-Personen-Verhaeltnis:** Die staendige BGH-Rechtsprechung hat das Tatbestandserfordernis entwickelt, dass bei klassischen Zwei-Personen-Verhaeltnissen (Taeter und Opfer sind identisch mit Erpressern und Genoetigtem) §§ 239a, 239b StGB **restriktiv** anzuwenden sind. Erforderlich ist, dass der Taeter die Bemaechtigungslage und die nachfolgende Erpressungs-/Noetigungslage gedanklich trennt und das Opfer über einen nicht nur unerheblichen Zeitraum in der Gewalt halten will. Bloss kurzes Festhalten zur sofortigen Noetigung erfuellt §§ 239a, 239b StGB nicht – dann nur § 240 StGB / § 253 StGB.
 
 ## Tatbestandsmerkmale konkret
 
@@ -60,25 +60,25 @@ Strafrahmen:
 
 ## Praktikertipps der Verteidigung
 
-- **Stabilisierungserfordernis pruefen:** Bei kurzen Bemaechtigungslagen (Sekunden bis wenige Minuten) Zweipersonen-Restriktion der staendigen BGH-Rechtsprechung pruefen. Wenn nur kurz und im Tatablauf ohne Stabilisierung – nicht §§ 239a, 239b StGB.
+- **Stabilisierungserfordernis prüfen:** Bei kurzen Bemaechtigungslagen (Sekunden bis wenige Minuten) Zweipersonen-Restriktion der staendigen BGH-Rechtsprechung prüfen. Wenn nur kurz und im Tatablauf ohne Stabilisierung – nicht §§ 239a, 239b StGB.
 - **Abgrenzung zur einfachen Noetigung / Erpressung:** Bei klassischer Erpressung mit Drohung gegen das Opfer selbst keine §§ 239a, 239b StGB; nur § 253 StGB oder § 240 StGB.
-- **Erpressungs- / Noetigungsabsicht:** Dolus directus 1. Grades erforderlich. Bei zweifelhafter Absichtsrichtung Verteidigung moeglich.
-- **Taetige Reue § 239a Abs. 4 / § 239b Abs. 2 StGB:** Wenn der Taeter freiwillig das Opfer in seinen Lebenskreis zurueckgelangen laesst und auf die erstrebte Leistung verzichtet, fakultative Strafrahmenverschiebung iVm § 49 StGB.
+- **Erpressungs- / Noetigungsabsicht:** Dolus directus 1. Grades erforderlich. Bei zweifelhafter Absichtsrichtung Verteidigung möglich.
+- **Taetige Reue § 239a Abs. 4 / § 239b Abs. 2 StGB:** Wenn der Taeter freiwillig das Opfer in seinen Lebenskreis zurueckgelangen lässt und auf die erstrebte Leistung verzichtet, fakultative Strafrahmenverschiebung iVm § 49 StGB.
 - **Minder schwerer Fall:** Bei geringen Tatumstaenden, Erstmaligkeit, schneller Aufgabe.
 
 ## Trade-off-Matrix
 
 - **Schweigen vs. Aussage:** Bei strittiger Stabilisierungslage und Absicht kann Aussage helfen. Risiko: bei nicht ueberzeugender Aussage bestaetigt die Kammer die Absicht.
-- **Geststaendnis:** Strafmilderungsgrund. § 46b StGB pruefen.
+- **Geststaendnis:** Strafmilderungsgrund. § 46b StGB prüfen.
 - **§ 46b StGB:** Aufklaerungs- und Praeventionshilfe bei Bandentaten.
 - **Glaubwuerdigkeit:** Aussagen der Geschaedigten zur Dauer und Art der Bemaechtigung.
-- **Nebenklage:** § 395 Abs. 1 Nr. 2 StPO – Nebenklage durch Geschaedigte zulaessig.
+- **Nebenklage:** § 395 Abs. 1 Nr. 2 StPO – Nebenklage durch Geschaedigte zulässig.
 
 ## Konkurrenzen
 
 - **§ 253 StGB Erpressung; § 240 StGB Noetigung:** Verdraengt durch §§ 239a, 239b StGB, soweit die Tatbestandsmerkmale erfuellt sind.
-- **§ 239 StGB Freiheitsberaubung:** Tateinheit moeglich; oft durch §§ 239a, 239b StGB verdraengt.
-- **§§ 249, 250 StGB:** Tateinheit moeglich, wenn parallele Raubhandlung.
+- **§ 239 StGB Freiheitsberaubung:** Tateinheit möglich; oft durch §§ 239a, 239b StGB verdraengt.
+- **§§ 249, 250 StGB:** Tateinheit möglich, wenn parallele Raubhandlung.
 - **§§ 211, 212 StGB:** Bei Toetungsvorsatz.
 - **§ 251 StGB iVm §§ 239a, 239b StGB:** Bei Todesfolge.
 - **§ 232a StGB Menschenhandel:** Bei sexuell motiviertem oder ausbeuterischem Bezug.
@@ -91,7 +91,7 @@ Strafrahmen:
 - **Taetige Reue Abs. 4 (§ 239a) / Abs. 2 Satz 2 (§ 239b):** Strafrahmenverschiebung iVm § 49 Abs. 1 StGB; Strafrahmen sechs Monate bis elf Jahre und drei Monate.
 - **§ 49 StGB:** Strafrahmenverschiebung.
 - **§ 46b StGB:** Aufklaerungs- und Praeventionshilfe.
-- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsaetzlich moeglich (minder schwerer Fall + Strafrahmenverschiebung).
+- **Bewaehrung:** Bei Strafe bis zwei Jahren grundsätzlich möglich (minder schwerer Fall + Strafrahmenverschiebung).
 
 ## Mustertexte
 
@@ -99,7 +99,7 @@ Strafrahmen:
 > Der Angeklagte raeumt ein, den Geschaedigten kurzzeitig festgehalten zu haben, um eine Forderung zu erlangen. Die Bemaechtigungslage dauerte etwa eine Minute. Eine darueber hinausgehende Stabilisierung der Lage war nicht beabsichtigt. Der Tatbestand des § 239a StGB ist nach staendiger BGH-Rechtsprechung bei klassischen Zwei-Personen-Verhaeltnissen ohne Stabilisierungsabsicht nicht erfuellt.
 
 **Plaedoyer-Snippet:**
-> Die Beweisaufnahme hat ergeben, dass die Bemaechtigungslage nur sekundenkurz war und ausschliesslich der unmittelbaren Erlangung des Geldbetrages diente. Eine Trennung zwischen Bemaechtigungslage und Erpressungslage iSd staendigen BGH-Rechtsprechung zur Zwei-Personen-Restriktion liegt nicht vor. Es bleibt der Schuldspruch wegen § 253 StGB in Tateinheit mit § 240 StGB.
+> Die Beweisaufnahme hat ergeben, dass die Bemaechtigungslage nur sekundenkurz war und ausschließlich der unmittelbaren Erlangung des Geldbetrages diente. Eine Trennung zwischen Bemaechtigungslage und Erpressungslage iSd staendigen BGH-Rechtsprechung zur Zwei-Personen-Restriktion liegt nicht vor. Es bleibt der Schuldspruch wegen § 253 StGB in Tateinheit mit § 240 StGB.
 
 **Antrag taetige Reue:**
 > Es wird die Anwendung des § 239a Abs. 4 StGB beantragt. Der Angeklagte hat das Opfer aus eigenem Antrieb freigelassen und auf die erstrebte Leistung verzichtet. Damit liegen die Voraussetzungen der taetigen Reue mit Strafrahmenverschiebung nach § 49 Abs. 1 StGB vor.

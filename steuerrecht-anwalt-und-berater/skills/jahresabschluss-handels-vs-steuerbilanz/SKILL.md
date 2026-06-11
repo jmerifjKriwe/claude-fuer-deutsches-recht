@@ -20,7 +20,7 @@ Das Massgeblichkeitsprinzip (§ 5 EStG) verbindet Handels- und Steuerbilanz: die
 1. Wird Steuerbilanz separat oder als Ueberleitung erstellt?
 2. Welche Abweichungen sind erkennbar?
 3. Welche Wahlrechte will Mandant nutzen?
-4. Welche Sonder-AfA-Optionen pruefen?
+4. Welche Sonder-AfA-Optionen prüfen?
 5. Welche Rueckstellungen-Differenzen?
 6. Welche IAB-Bilanzierung (§ 7g EStG)?
 7. Welche Anpassungen E-Bilanz erforderlich?
@@ -51,7 +51,7 @@ Das Massgeblichkeitsprinzip (§ 5 EStG) verbindet Handels- und Steuerbilanz: die
 
 ## Workflow
 
-### Phase 1 — Massgeblichkeits-Pruefung
+### Phase 1 — Massgeblichkeits-Prüfung
 
 | Bewertung | Handelsbilanz (HGB) | Steuerbilanz (EStG) |
 |---|---|---|
@@ -92,7 +92,7 @@ JAHRESERGEBNIS HANDELSBILANZ [X]
 
 - § 5b EStG: elektronische Uebermittlung an FA.
 - Taxonomie-Standard: aktuelle Version 6.9 (BMF-Schreiben April 2025, verpflichtend für WJ ab 01.01.2026), abrufbar unter esteuer.de.
-- Ueber DATEV-E-Bilanz-Modul.
+- Über DATEV-E-Bilanz-Modul.
 
 ### Phase 6 — Mandantenkommunikation
 
@@ -104,7 +104,7 @@ JAHRESERGEBNIS HANDELSBILANZ [X]
 
 - Bei kleinen Mandanten oft Einheitsbilanz (Steuerbilanz = Handelsbilanz mit Wahlrechten gleichgesetzt).
 - Bei groesseren Mandanten zunehmend separate Steuerbilanz.
-- IAB § 7g EStG ist gestaltungsstark — bei Investitionen pruefen.
+- IAB § 7g EStG ist gestaltungsstark — bei Investitionen prüfen.
 - Bei Pensionsrueckstellungen erhebliche Differenzen — Mandant erklaeren.
 - E-Bilanz-Taxonomie jaehrlich anpassen.
 

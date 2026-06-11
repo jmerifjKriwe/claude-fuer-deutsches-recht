@@ -3,7 +3,7 @@ name: tunnel-kostenlast-pruefen
 description: "Tunnel: Kostenlast prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Tunnel Kostenlast Pruefen
+# Tunnel Kostenlast Prüfen
 
 ## Arbeitsweg
 

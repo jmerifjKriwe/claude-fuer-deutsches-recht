@@ -3,11 +3,11 @@ name: agg-systematik-und-verhaeltnismaessigkeit
 description: Allgemeines Gleichbehandlungsgesetz als einfachrechtliche Umsetzung der Unionsrichtlinien zum Diskriminierungsschutz. Erklaert Schutzbereich nach Paragraph 1 AGG Anwendungsbereich nach Paragraph 2 AGG Diskriminierungsformen nach Paragraph 3 AGG sowie die zentralen Rechtfertigungsnormen Paragraph 8 und Paragraph 10 AGG im Arbeitsrecht und Paragraph 20 AGG im Zivilrecht. Verhaeltnismaessigkeit ist hier eingebauter Pruefungsmassstab innerhalb der Rechtfertigung.
 ---
 
-# AGG-Systematik und Verhaeltnismaessigkeit als Rechtfertigung
+# AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung
 
 ## Zweck dieses Skills
 
-Das AGG ist die einfachrechtliche Brueckennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art. 3 Abs. 3 GG und den Unionsrichtlinien zur Gleichbehandlung. Verhaeltnismaessigkeit taucht im AGG nicht als selbstaendiger Pruefungsschritt auf sondern als integrierter Massstab in den Rechtfertigungstatbestaenden. Dieser Skill ordnet die Systematik und zeigt wo Verhaeltnismaessigkeit zu pruefen ist.
+Das AGG ist die einfachrechtliche Brueckennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art. 3 Abs. 3 GG und den Unionsrichtlinien zur Gleichbehandlung. Verhältnismäßigkeit taucht im AGG nicht als selbstaendiger Pruefungsschritt auf sondern als integrierter Massstab in den Rechtfertigungstatbestaenden. Dieser Skill ordnet die Systematik und zeigt wo Verhältnismäßigkeit zu prüfen ist.
 
 ## Aufbau des AGG
 
@@ -17,7 +17,7 @@ Verbot der Benachteiligung wegen Rasse oder ethnischer Herkunft Geschlecht Relig
 
 ### Paragraph 2 AGG — Anwendungsbereich
 
-Sachlich: Zugang zu Beschaeftigung beruflicher Aufstieg Arbeitsbedingungen Mitgliedschaft in Berufsverbaenden Sozialschutz und Bildung. Zivilrechtlicher Teil in den Paragraphen 19 bis 21 AGG fuer Massengeschaefte und privatrechtliche Versicherungen.
+Sachlich: Zugang zu Beschaeftigung beruflicher Aufstieg Arbeitsbedingungen Mitgliedschaft in Berufsverbaenden Sozialschutz und Bildung. Zivilrechtlicher Teil in den Paragraphen 19 bis 21 AGG für Massengeschaefte und privatrechtliche Versicherungen.
 
 ### Paragraph 3 AGG — Diskriminierungsformen
 
@@ -31,27 +31,27 @@ Sachlich: Zugang zu Beschaeftigung beruflicher Aufstieg Arbeitsbedingungen Mitgl
 
 ### Paragraph 8 AGG — wesentliche und entscheidende berufliche Anforderung
 
-Unterschiedliche Behandlung wegen eines Merkmals nach Paragraph 1 AGG ist zulaessig wenn das Merkmal eine **wesentliche und entscheidende berufliche Anforderung** darstellt **der Zweck rechtmaessig** ist und die Anforderung **angemessen** ist.
+Unterschiedliche Behandlung wegen eines Merkmals nach Paragraph 1 AGG ist zulässig wenn das Merkmal eine **wesentliche und entscheidende berufliche Anforderung** darstellt **der Zweck rechtmaessig** ist und die Anforderung **angemessen** ist.
 
 Pruefungsschritte:
 1. Berufliche Anforderung im konkreten Taetigkeitsbild benennen.
 2. Wesentlichkeit und Entscheidungserheblichkeit der Anforderung darlegen.
 3. Rechtmaessiger Zweck der Anforderung.
-4. Angemessenheit als Verhaeltnismaessigkeit im engeren Sinn.
+4. Angemessenheit als Verhältnismäßigkeit im engeren Sinn.
 
 ### Paragraph 10 AGG — zulaessige Ungleichbehandlung wegen Alters
 
-Sondernorm fuer das Merkmal Alter. Rechtfertigung wenn die Ungleichbehandlung **objektiv und angemessen** ist und durch ein **legitimes Ziel** gerechtfertigt wird sowie die Mittel zur Erreichung des Ziels **angemessen und erforderlich** sind. Die Aufzaehlung in den Saetzen 3 enthaelt Regelbeispiele die nicht abschliessend sind.
+Sondernorm für das Merkmal Alter. Rechtfertigung wenn die Ungleichbehandlung **objektiv und angemessen** ist und durch ein **legitimes Ziel** gerechtfertigt wird sowie die Mittel zur Erreichung des Ziels **angemessen und erforderlich** sind. Die Aufzaehlung in den Saetzen 3 enthaelt Regelbeispiele die nicht abschliessend sind.
 
-Hier sind alle vier Stufen der Verhaeltnismaessigkeit explizit benannt: legitimes Ziel Geeignetheit Erforderlichkeit Angemessenheit.
+Hier sind alle vier Stufen der Verhältnismäßigkeit explizit benannt: legitimes Ziel Geeignetheit Erforderlichkeit Angemessenheit.
 
 ## Rechtfertigung im Zivilrecht
 
 ### Paragraph 20 AGG
 
-Im Anwendungsbereich der zivilrechtlichen Diskriminierungsverbote nach den Paragraphen 19 bis 21 AGG ist eine unterschiedliche Behandlung zulaessig wenn fuer sie ein **sachlicher Grund** vorliegt. Absatz 1 zaehlt Regelbeispiele auf: Vermeidung von Gefahren Schutz der Intimsphaere Gewaehrung besonderer Vorteile bei fehlendem Gleichbehandlungsinteresse Religionsfreiheit.
+Im Anwendungsbereich der zivilrechtlichen Diskriminierungsverbote nach den Paragraphen 19 bis 21 AGG ist eine unterschiedliche Behandlung zulässig wenn für sie ein **sachlicher Grund** vorliegt. Absatz 1 zaehlt Regelbeispiele auf: Vermeidung von Gefahren Schutz der Intimsphaere Gewaehrung besonderer Vorteile bei fehlendem Gleichbehandlungsinteresse Religionsfreiheit.
 
-Pruefungsdichte: schwaecher als bei Paragraph 8 AGG. Sachlicher Grund reicht aber Verhaeltnismaessigkeit wirkt als Korrektiv ueber das Angemessenheitselement.
+Pruefungsdichte: schwaecher als bei Paragraph 8 AGG. Sachlicher Grund reicht aber Verhältnismäßigkeit wirkt als Korrektiv über das Angemessenheitselement.
 
 ## Verhaeltnis zu Verfassungsrecht und Unionsrecht
 
@@ -70,11 +70,11 @@ Pruefungsdichte: schwaecher als bei Paragraph 8 AGG. Sachlicher Grund reicht abe
 
 ## Fallstricke
 
-- **Verhaeltnismaessigkeit als externen Schritt suchen** — sie ist in den Rechtfertigungsnormen eingebettet und nicht separat zu pruefen.
-- **Paragraph 8 und Paragraph 10 AGG verwechseln** — Paragraph 8 ist allgemein fuer alle Merkmale Paragraph 10 nur fuer Alter mit eigenstaendiger Dogmatik.
-- **Pauschale Rechtfertigung** — fuer jede einzelne Massnahme ist die Anforderung im konkreten Stellenprofil zu begruenden.
+- **Verhältnismäßigkeit als externen Schritt suchen** — sie ist in den Rechtfertigungsnormen eingebettet und nicht separat zu prüfen.
+- **Paragraph 8 und Paragraph 10 AGG verwechseln** — Paragraph 8 ist allgemein für alle Merkmale Paragraph 10 nur für Alter mit eigenstaendiger Dogmatik.
+- **Pauschale Rechtfertigung** — für jede einzelne Maßnahme ist die Anforderung im konkreten Stellenprofil zu begruenden.
 - **Belastete Beweissituation ignorieren** — Paragraph 22 AGG verlagert die Beweislast bei Indizien auf die Arbeitgeberseite.
-- **Zivilrechtlichen Teil unterschaetzen** — Massengeschaefte und privatrechtliche Versicherungen sind voll erfasst und Verstoesse koennen Beseitigung und Schadensersatz ausloesen.
+- **Zivilrechtlichen Teil unterschaetzen** — Massengeschaefte und privatrechtliche Versicherungen sind voll erfasst und Verstoesse können Beseitigung und Schadensersatz ausloesen.
 
 ## Verwandte Skills
 

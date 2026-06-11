@@ -15,13 +15,13 @@ description: "Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abga
 
 ## Mandantenfall
 
-- Stahlimporteur plant 2026 weiterhin grosse Mengen aus Nicht-EU-Ländern einzufuehren; CBAM-Kosten kalkulieren.
-- Aluminium-Importeur fragt, ob Vorleistungsemissionen in Drittland abgezogen werden koennen.
-- Elektrizitaetsimporteur aus Schweiz prueft CBAM-Relevanz nach Ende der Uebergangsphase.
+- Stahlimporteur plant 2026 weiterhin große Mengen aus Nicht-EU-Ländern einzufuehren; CBAM-Kosten kalkulieren.
+- Aluminium-Importeur fragt, ob Vorleistungsemissionen in Drittland abgezogen werden können.
+- Elektrizitaetsimporteur aus Schweiz prüft CBAM-Relevanz nach Ende der Uebergangsphase.
 
 ## Erste Schritte
 
-1. CBAM-pflichtige Waren nach Anhang I VO 2023/956 und KN-Code pruefen.
+1. CBAM-pflichtige Waren nach Anhang I VO 2023/956 und KN-Code prüfen.
 2. Eingebettete Emissionen je Tonne Ware ermitteln (Lieferantendaten oder Standardwerte).
 3. Anzahl der erforderlichen CBAM-Zertifikate berechnen: Emissionen - angerechnetes Drittland-CO2-Preis.
 4. CBAM-Zertifikatspreis (CO2-Preis EU-ETS aktuell) für Kostenschaetzung ansetzen.
@@ -47,7 +47,7 @@ description: "Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abga
 
 ## Typische Fallstricke
 
-- Standardwerte koennen hoeher sein als tatsaechliche Emissionen; Lieferantendaten einholen.
+- Standardwerte können hoeher sein als tatsaechliche Emissionen; Lieferantendaten einholen.
 - CBAM und Antidumping/Safeguards sind kumulativ anwendbar; Gesamtkosten summieren.
 - Drittland-CO2-Preis muss tatsaechlich entrichtet worden sein; Scheinzahlungen nicht anerkannt.
 - CBAM-Zertifikatspreis schwankt mit EU-ETS; Kalkulation regelmaessig aktualisieren.

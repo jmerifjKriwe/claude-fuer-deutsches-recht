@@ -34,7 +34,7 @@ description: "Vergaberechtliche Ruege nach § 160 Abs: 3 GWB vor Zuschlag erhebe
 - § 160 Abs. 3 Satz 1 Nr. 3 GWB: erkennbare Verstöße aus Vergabeunterlagen bis Ablauf Angebotsfrist.
 - § 160 Abs. 3 Satz 1 Nr. 4 GWB: 15 Kalendertage Antragsfrist nach Zurückweisung der Rüge.
 - Inhaltsanforderungen: konkrete Bezeichnung des Verstoßes, Begründung, betroffene Norm; Beweismittel sollen genannt werden.
-- Verifizierte Eckentscheidungen (curia.europa.eu): EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergaben; EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeit; EuGH 21.12.2023, C-66/22 (Infraestruturas) — Wettbewerbsverstoss. Vor Ausgabe konkrete OLG-Vergabesenat-Entscheidungen ueber olg-... bzw. openjur.de verifizieren.
+- Verifizierte Eckentscheidungen (curia.europa.eu): EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergaben; EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhältnismäßigkeit; EuGH 21.12.2023, C-66/22 (Infraestruturas) — Wettbewerbsverstoss. Vor Ausgabe konkrete OLG-Vergabesenat-Entscheidungen über olg-... bzw. openjur.de verifizieren.
 - Rüge keine Formvorgabe — Textform ausreichend, Schriftform empfohlen für Dokumentation.
 
 ## Beweislast und Frist
@@ -149,7 +149,7 @@ Schritt 5: Zuschlag erteilt?
 - § 160 Abs. 3 GWB — Ruegefristen
 - § 134 GWB — Informationspflicht/Stillhaltefrist
 - § 135 GWB — Unwirksamkeit Zuschlag
-- § 169 GWB — Vorabentscheidung / einstweilige Massnahmen
+- § 169 GWB — Vorabentscheidung / einstweilige Maßnahmen
 - § 181 GWB — Schadensersatz
 
 ### Quellenregel
@@ -160,8 +160,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

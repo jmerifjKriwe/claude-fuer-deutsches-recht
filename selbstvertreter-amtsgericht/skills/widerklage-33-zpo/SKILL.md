@@ -3,21 +3,21 @@ name: widerklage-33-zpo
 description: "Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zuständigkeit Kostenrisiko Vorteile gegenüber reiner Aufrechnung. Wann lohnt die Widerklage und welcher Antrag ist zu stellen."
 ---
 
-# Widerklage: Eigener Angriff gegen den Klaeger
+# Widerklage: Eigener Angriff gegen den Kläger
 
 ## Worum geht es?
 
-Wenn Sie nicht nur die Klage abwehren wollen, sondern auch eigene Anspruechre gegen den Klaeger durchsetzen wollen, koennen Sie **Widerklage** nach § 33 ZPO erheben. Das ist eine Klage **im laufenden Verfahren**, die das gleiche Gericht und die gleiche Aktenfuhrung nutzt. Vorteil: keine separate Klage, weniger Kosten. Nachteil: Wenn Sie Widerklage verlieren, zahlen Sie deren Kosten.
+Wenn Sie nicht nur die Klage abwehren wollen, sondern auch eigene Anspruechre gegen den Kläger durchsetzen wollen, können Sie **Widerklage** nach § 33 ZPO erheben. Das ist eine Klage **im laufenden Verfahren**, die das gleiche Gericht und die gleiche Aktenfuhrung nutzt. Vorteil: keine separate Klage, weniger Kosten. Nachteil: Wenn Sie Widerklage verlieren, zahlen Sie deren Kosten.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie sind verklagt und haben selbst Forderung gegen den Klaeger.
+- Sie sind verklagt und haben selbst Forderung gegen den Kläger.
 - Sie wollen mehr als nur abwehren — Sie wollen Schadensersatz oder eigene Geldforderung.
 - Sie sind unsicher, ob Aufrechnung oder Widerklage besser ist.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Widerklage**: Klage des Beklagten gegen den Klaeger im selben Verfahren.
+- **Widerklage**: Klage des Beklagten gegen den Kläger im selben Verfahren.
 - **Konnexitaet**: Zusammenhang zwischen Klage und Widerklage.
 - **Aktivforderung**: Forderung des Klaegers.
 - **Wider-Forderung**: Forderung des Beklagten als Widerklaeger.
@@ -29,12 +29,12 @@ Wenn Sie nicht nur die Klage abwehren wollen, sondern auch eigene Anspruechre ge
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Voraussetzungen pruefen
+### Schritt 1 — Voraussetzungen prüfen
 
 § 33 ZPO setzt voraus:
 
 - **Konnexitaet**: Die Wider-Forderung steht in rechtlichem Zusammenhang mit der Klage-Forderung oder
-- Es handelt sich um eine **Aufrechnungs-Forderung** (= Sie haetten ohnehin Aufrechnung erklaeren koennen).
+- Es handelt sich um eine **Aufrechnungs-Forderung** (= Sie haetten ohnehin Aufrechnung erklaeren können).
 
 In der Praxis sehr weit ausgelegt — fast immer konnex, wenn aus derselben Vertragsbeziehung.
 
@@ -45,10 +45,10 @@ In der Praxis sehr weit ausgelegt — fast immer konnex, wenn aus derselben Vert
 
 ### Schritt 3 — Widerklage statt Aufrechnung — wann?
 
-- **Aufrechnung**: Macht Klageforderung in der Hoehe Ihrer Forderung kaputt. Sie bekommen aber kein eigenes Urteil ueber den Ueberhang.
-- **Widerklage**: Sie bekommen Urteil ueber Ihre Forderung. Wenn diese hoeher als Klageforderung, bekommen Sie den Ueberhang.
+- **Aufrechnung**: Macht Klageforderung in der Höhe Ihrer Forderung kaputt. Sie bekommen aber kein eigenes Urteil über den Ueberhang.
+- **Widerklage**: Sie bekommen Urteil über Ihre Forderung. Wenn diese hoeher als Klageforderung, bekommen Sie den Ueberhang.
 
-Beispiel: Klage ueber 1.000 EUR. Sie haben Gegenforderung 1.800 EUR.
+Beispiel: Klage über 1.000 EUR. Sie haben Gegenforderung 1.800 EUR.
 
 - Aufrechnung: Klage abgewiesen; Sie haben weiterhin 800 EUR offen — separate Klage noetig.
 - Widerklage: Klage abgewiesen + Sie bekommen 800 EUR zugesprochen.
@@ -60,7 +60,7 @@ Streitwert Widerklage wird in Streitwert addiert (§ 45 GKG). Beispiele:
 - Klage 1.000 EUR + Widerklage 1.800 EUR = Streitwert 2.800 EUR.
 - Gerichtsgebuehren steigen.
 
-Vorteil: Bei Erfolg der Widerklage zahlt Klaeger die Mehrkosten.
+Vorteil: Bei Erfolg der Widerklage zahlt Kläger die Mehrkosten.
 
 ### Schritt 5 — Widerklage formulieren
 
@@ -118,7 +118,7 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 - Wenn Sie eigenen Titel wollen.
 - Wenn Konnexitaet klar.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Zuständigkeitspruefung**: AG bleibt zuständig bei konnexer Widerklage.
 - **Streitwert addiert** sich (§ 45 GKG) — Kosten beachten.

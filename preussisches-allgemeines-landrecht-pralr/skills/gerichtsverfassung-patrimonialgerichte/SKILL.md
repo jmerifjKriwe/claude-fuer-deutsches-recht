@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Gerichtsstruktur
 
 ### Patrimonialgerichte
-- Adelige Gutsherren hatten eigene Gerichtsbarkeit ueber ihre Bauern.
+- Adelige Gutsherren hatten eigene Gerichtsbarkeit über ihre Bauern.
 - Historisch typisch in der Mark Brandenburg, Hinterpommern, Schlesien.
 - Aufgehoben 1849.
 

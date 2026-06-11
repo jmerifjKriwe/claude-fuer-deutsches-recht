@@ -19,15 +19,15 @@ Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmen
 
 ## Triage zu Beginn
 1. Welche Behörde hat sich gemeldet: BaFin, FIU, Staatsanwaltschaft, Landesaufsicht oder Zoll?
-2. Welche Art von Verfahren: Auskunftsersuchen, Vor-Ort-Pruefung, Massnahmenbescheid oder Strafverfahren?
+2. Welche Art von Verfahren: Auskunftsersuchen, Vor-Ort-Prüfung, Massnahmenbescheid oder Strafverfahren?
 3. Gibt es bereits gesetzte Fristen und welches ist die naechste Handlungsfrist?
-4. Welche internen Dokumente muessen für die Behördenantwort gesichert werden?
+4. Welche internen Dokumente müssen für die Behördenantwort gesichert werden?
 
 ## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 51 GwG — Massnahmen der Aufsichtsbehoerden (BaFin und Länderbehoerden)
+- § 51 GwG — Maßnahmen der Aufsichtsbehoerden (BaFin und Länderbehoerden)
 - § 44 GwG — Kooperationspflicht mit FIU; Auskunftspflichten
 - § 56 GwG — Bußgeldtatbestaende
 - §§ 68, 69 VwGO — Widerspruchsverfahren und Anfechtungsklage bei Massnahmenbescheiden

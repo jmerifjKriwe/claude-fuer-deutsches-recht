@@ -7,25 +7,25 @@ description: "Antrag auf Prozesskostenhilfe nach § 114 ZPO. Voraussetzungen Bed
 
 ## Worum geht es?
 
-Wenn Sie sich Klage und Gerichtskosten nicht leisten koennen, gibt es **Prozesskostenhilfe (PKH)** nach §§ 114 ff. ZPO. Der Staat uebernimmt dann ganz oder teilweise die Gerichtskosten und ggf. die Anwaltskosten. PKH wird auf Antrag gewaehrt und an drei Voraussetzungen geknuepft: Sie sind beduerftig, die Klage hat hinreichende Erfolgsaussicht, sie ist nicht mutwillig.
+Wenn Sie sich Klage und Gerichtskosten nicht leisten können, gibt es **Prozesskostenhilfe (PKH)** nach §§ 114 ff. ZPO. Der Staat uebernimmt dann ganz oder teilweise die Gerichtskosten und ggf. die Anwaltskosten. PKH wird auf Antrag gewaehrt und an drei Voraussetzungen geknuepft: Sie sind beduerftig, die Klage hat hinreichende Erfolgsaussicht, sie ist nicht mutwillig.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wollen klagen, koennen den Vorschuss aber nicht zahlen.
+- Sie wollen klagen, können den Vorschuss aber nicht zahlen.
 - Sie wurden verklagt und brauchen Verteidigungs-Hilfe.
-- Sie wollen die Voraussetzungen pruefen.
+- Sie wollen die Voraussetzungen prüfen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Prozesskostenhilfe (PKH)**: Sozialleistung im Zivilprozess, die Gerichts- und Anwaltskosten ganz oder teilweise traegt.
-- **Beduerftigkeit**: Wirtschaftliche Lage, in der Sie die Kosten nicht oder nur teilweise aufbringen koennen.
-- **Erfolgsaussicht**: Wenn die Klage bei summarischer Pruefung berechtigt erscheint.
+- **Beduerftigkeit**: Wirtschaftliche Lage, in der Sie die Kosten nicht oder nur teilweise aufbringen können.
+- **Erfolgsaussicht**: Wenn die Klage bei summarischer Prüfung berechtigt erscheint.
 - **Mutwilligkeit**: Klage, die ein verstaendiger nicht-PKH-Beduerftiger nicht erheben wuerde.
 
 ## Rechtsgrundlagen
 
 - **§ 114 I ZPO** — Voraussetzungen PKH.
-- **§ 115 ZPO** — Einkommen, einzusetzendes Vermoegen.
+- **§ 115 ZPO** — Einkommen, einzusetzendes Vermögen.
 - **§ 117 ZPO** — Antragsform.
 - **§ 118 ZPO** — Anhörung Gegner.
 - **§ 120 ZPO** — Ratenzahlung.
@@ -34,12 +34,12 @@ Wenn Sie sich Klage und Gerichtskosten nicht leisten koennen, gibt es **Prozessk
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Voraussetzungen pruefen
+### Schritt 1 — Voraussetzungen prüfen
 
-Drei Bedingungen muessen erfuellt sein (§ 114 I ZPO):
+Drei Bedingungen müssen erfuellt sein (§ 114 I ZPO):
 
-1. **Beduerftigkeit**: Sie koennen die Kosten nicht oder nur in Raten aufbringen.
-2. **Erfolgsaussicht**: Ihre Klage hat bei summarischer Pruefung Aussicht auf Erfolg.
+1. **Beduerftigkeit**: Sie können die Kosten nicht oder nur in Raten aufbringen.
+2. **Erfolgsaussicht**: Ihre Klage hat bei summarischer Prüfung Aussicht auf Erfolg.
 3. **Keine Mutwilligkeit**: Eine vermoegende Partei wuerde die Klage gleichermassen erheben.
 
 Wenn ein Punkt fehlt, scheitert PKH.
@@ -50,7 +50,7 @@ Wenn ein Punkt fehlt, scheitert PKH.
 
 - Nettoeinkommen (Lohn, Selbstaendigkeit, Sozialleistungen).
 - Minus Freibetraege für Sie selbst, Partner, Kinder.
-- Minus Mietkosten in angemessener Hoehe.
+- Minus Mietkosten in angemessener Höhe.
 - Minus weitere Abzuege (Versicherungen, Werbungskosten).
 
 = Einsetzbares Einkommen. Wenn das Ergebnis null oder negativ: PKH ohne Raten.
@@ -59,20 +59,20 @@ Wenn positiv: PKH mit Ratenzahlung.
 
 Faustregel (sehr grob): Wer Buergergeld bekommt, kriegt PKH ohne Raten. Mit mittlerem Einkommen Ratenzahlung. Mit hoeherem Einkommen kein PKH.
 
-### Schritt 3 — Vermoegen anrechnen
+### Schritt 3 — Vermögen anrechnen
 
 § 115 III ZPO: Schonvermoegen. Auto, Hausrat, kleines Sparbuch bleiben.
 
-Wenn Sie groesseres Bargeld, Wertpapiere, Immobilie haben: Anrechnung. Sie muessen das einsetzen, bevor PKH.
+Wenn Sie groesseres Bargeld, Wertpapiere, Immobilie haben: Anrechnung. Sie müssen das einsetzen, bevor PKH.
 
 ### Schritt 4 — Antragsformular
 
-Das amtliche Formular "Erklaerung ueber die persönlichen und wirtschaftlichen Verhaeltnisse" ist Pflicht. Verfuegbar online und in der Rechtsantragsstelle. Sie fuellen aus:
+Das amtliche Formular "Erklaerung über die persönlichen und wirtschaftlichen Verhaeltnisse" ist Pflicht. Verfuegbar online und in der Rechtsantragsstelle. Sie fuellen aus:
 
 - Persoenliche Daten.
 - Familienstand, Unterhaltspflichten.
 - Einkommen aller Art.
-- Vermoegen.
+- Vermögen.
 - Mietkosten und sonstige laufende Kosten.
 
 ### Schritt 5 — Belege
@@ -89,18 +89,18 @@ Anzufuegen:
 
 Variante A: PKH-Antrag **zusammen mit der Klage** einreichen.
 
-Variante B: Vorab PKH-Antrag (z. B. wenn Sie nur klaeren wollen, ob PKH bewilligt wird, bevor Sie Klage einreichen).
+Variante B: Vorab PKH-Antrag (z. B. wenn Sie nur klären wollen, ob PKH bewilligt wird, bevor Sie Klage einreichen).
 
 Bei Selbstvertretung Sie reichen ein:
 
 - Klage-Entwurf (auch wenn Sie sie noch nicht "richtig" eingereicht haben).
 - PKH-Antrag mit Belegen.
 
-### Schritt 7 — Pruefung und Entscheidung
+### Schritt 7 — Prüfung und Entscheidung
 
-Gericht prueft:
+Gericht prüft:
 
-- Erfolgsaussicht: kurze summarische Pruefung.
+- Erfolgsaussicht: kurze summarische Prüfung.
 - Beduerftigkeit: Belege.
 - Mutwilligkeit: nur in seltenen Faellen relevant.
 
@@ -112,7 +112,7 @@ Entscheidung per Beschluss (= keine muendliche Verhandlung).
 - Bei Beiordnung eines Anwalts (§ 121 ZPO): Anwalt bekommt seine Gebuehr vom Staat.
 - Bei Niederlage: Sie tragen die Kosten der Gegenseite trotzdem (PKH deckt nur **Ihre** Kosten ab) — § 123 ZPO.
 
-### Schritt 9 — Anwaltsbeiordnung pruefen
+### Schritt 9 — Anwaltsbeiordnung prüfen
 
 Auch wenn vor AG kein Anwaltszwang besteht, kann Anwalt beigeordnet werden (§ 121 II ZPO), wenn:
 
@@ -121,7 +121,7 @@ Auch wenn vor AG kein Anwaltszwang besteht, kann Anwalt beigeordnet werden (§ 1
 
 In Praxis selten bewilligt — meist nur bei komplexen Faellen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Belege vollstaendig**: Unvollstaendige Antraege werden zurueckgewiesen.
 - **Wahrheitspflicht** beim PKH-Antrag — falsche Angaben sind Betrug.
@@ -136,4 +136,4 @@ In Praxis selten bewilligt — meist nur bei komplexen Faellen.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. §§ 114 ff. ZPO unveraendert. PKH-Freibetraege jaehrlich angepasst — aktuelle Hoehen ueber Justizportal verifizieren.
+Stand: 05/2026. §§ 114 ff. ZPO unveraendert. PKH-Freibetraege jaehrlich angepasst — aktuelle Hoehen über Justizportal verifizieren.

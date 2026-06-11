@@ -25,7 +25,7 @@ description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wan
 ## Wann beantragen
 
 - Sofort nach Anhörung oder Widerspruchseinlegung.
-- Im laufenden Antragsverfahren ueberall moeglich.
+- Im laufenden Antragsverfahren ueberall möglich.
 
 ## Wo beantragen
 
@@ -41,7 +41,7 @@ description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wan
 
 - DSGVO Art. 15 gibt zusaetzliches Auskunftsrecht.
 - DSGVO ist nicht durch § 25 SGB X verdraengt.
-- Bei Streit ueber Akteninhalt beide Anspruchsgrundlagen geltend machen.
+- Bei Streit über Akteninhalt beide Anspruchsgrundlagen geltend machen.
 
 ## Vorlage
 
@@ -79,6 +79,6 @@ description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wan
 
 ### Anwendung im Skill
 
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

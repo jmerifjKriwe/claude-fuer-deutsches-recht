@@ -3,11 +3,11 @@ name: oeffentlich-privat-partnerschaft
 description: "Oeffentlich Privat Partnerschaft: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
 ---
 
-# Oeffentlich Privat Partnerschaft
+# Öffentlich Privat Partnerschaft
 
 ## Worum es geht
 
-Prüfe **Oeffentlich Privat Partnerschaft** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Öffentlich Privat Partnerschaft** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

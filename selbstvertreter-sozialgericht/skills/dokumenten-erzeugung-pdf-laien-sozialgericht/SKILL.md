@@ -13,11 +13,11 @@ description: "PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scan
 
 ## Worum geht es?
 
-Fuer MJP (Mein Justizpostfach) brauchen Sie PDFs. Auch Mails und viele Behörden wollen PDFs. Diese Skill zeigt, wie Sie PDFs erstellen — auch ohne teure Software.
+Für MJP (Mein Justizpostfach) brauchen Sie PDFs. Auch Mails und viele Behörden wollen PDFs. Diese Skill zeigt, wie Sie PDFs erstellen — auch ohne teure Software.
 
 ## In einfacher Sprache
 
-PDF ist ein Datei-Format. Damit koennen Sie Dokumente sicher versenden. Auch ohne dass jemand sie veraendert. Wir zeigen Ihnen, wie Sie PDFs machen.
+PDF ist ein Datei-Format. Damit können Sie Dokumente sicher versenden. Auch ohne dass jemand sie veraendert. Wir zeigen Ihnen, wie Sie PDFs machen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -77,11 +77,11 @@ Wenn Sie die Klage am Computer schreiben:
 
 ### Schritt 3 — Mehrere Seiten zusammenfuehren
 
-In Adobe Scan und Microsoft Lens koennen Sie mehrere Seiten in EIN PDF einscannen. Druecken Sie nach jedem Bild "Weiter" und nicht "Speichern". Erst am Ende speichern.
+In Adobe Scan und Microsoft Lens können Sie mehrere Seiten in EIN PDF einscannen. Druecken Sie nach jedem Bild "Weiter" und nicht "Speichern". Erst am Ende speichern.
 
 Online: smallpdf.com hat ein Tool "PDF zusammenfuehren".
 
-### Schritt 4 — Pruefen, was im PDF steht
+### Schritt 4 — Prüfen, was im PDF steht
 
 - Oeffnen Sie das PDF.
 - Sind alle Seiten dabei?
@@ -90,11 +90,11 @@ Online: smallpdf.com hat ein Tool "PDF zusammenfuehren".
 
 Wenn nicht: neu machen.
 
-### Schritt 5 — Dateigroesse pruefen
+### Schritt 5 — Dateigroesse prüfen
 
 - Klicken Sie mit rechter Maus → Eigenschaften → Groesse.
 - Pro Datei nicht mehr als ca. 20 MB (MJP-Limit beachten).
-- Zu gross? Mit smallpdf.com "PDF komprimieren".
+- Zu groß? Mit smallpdf.com "PDF komprimieren".
 
 ### Schritt 6 — Datei sinnvoll benennen
 
@@ -113,18 +113,18 @@ Speichern Sie alle Klage-PDFs in einem Ordner. Sortieren Sie alphabetisch:
 - K3-Hausarzt.pdf
 - usw.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Lesbarkeit**: dunkler Text auf hellem Hintergrund. Bei alten Belegen kann es kritisch werden.
 - **Foto-Qualitaet**: gerade halten, ausreichend Licht, Schatten vermeiden.
 - **Privates schwaerzen**: Was nicht zum Streit gehoert, vorher schwaerzen (z.B. Geburtsdaten Familienmitglieder).
-- **Sicheres Tool**: smallpdf, ilovepdf, Adobe Scan sind grundsaetzlich vertrauenswuerdig.
+- **Sicheres Tool**: smallpdf, ilovepdf, Adobe Scan sind grundsätzlich vertrauenswuerdig.
 
 ## Typische Fehler
 
 - Foto schief → Dokument nochmal scannen
 - Text unscharf → besseres Licht, gerades Halten
-- Datei zu gross → komprimieren
+- Datei zu groß → komprimieren
 - Privates nicht geschwaerzt → Datenschutz beachten
 
 ## Quellen und Aktualitaet

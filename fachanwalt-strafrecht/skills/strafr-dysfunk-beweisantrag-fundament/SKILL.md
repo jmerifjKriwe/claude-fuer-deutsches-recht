@@ -14,7 +14,7 @@ description: "Beweisantrag so begruenden dass er gegen den Verschleppungs- oder 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Beweisantrag so begruenden dass er gegen den Verschleppungs- oder Missbrauchsvorwurf immun ist. Klare Beweisbehauptung. Konkretes Beweismittel mit Adresse oder Belegstelle. Sachzusammenhang in einem Satz. Erkennbarer Bezug zur Aufklaerungspflicht § 244 Abs. 2 StPO und zur konkreten Beweiswuerdigung. Anlage von Originalunterlagen wenn moeglich. Praktische Mustertexte für Schriftsatz und Sitzungsprotokoll.
+**Fokus:** Beweisantrag so begruenden dass er gegen den Verschleppungs- oder Missbrauchsvorwurf immun ist. Klare Beweisbehauptung. Konkretes Beweismittel mit Adresse oder Belegstelle. Sachzusammenhang in einem Satz. Erkennbarer Bezug zur Aufklaerungspflicht § 244 Abs. 2 StPO und zur konkreten Beweiswuerdigung. Anlage von Originalunterlagen wenn möglich. Praktische Mustertexte für Schriftsatz und Sitzungsprotokoll.
 
 ### Beweisantrag mit unangreifbarem Fundament
 
@@ -46,7 +46,7 @@ das konkrete Aussageverhalten / die Beweiskette / die Glaubhaftigkeitspruefung v
 
 ## Wann Wahrunterstellung akzeptieren
 
-- Wenn die Behauptung tatsaechlich entlastend wirken kann ohne ueber Detailfragen entschieden werden zu muessen.
+- Wenn die Behauptung tatsaechlich entlastend wirken kann ohne über Detailfragen entschieden werden zu müssen.
 - Bei reinen Indizientatsachen oft sinnvoll.
 - Nicht akzeptieren wenn die Wahrunterstellung die konkrete Beweiswuerdigung verfehlt (zentrale Glaubhaftigkeitsfrage).
 

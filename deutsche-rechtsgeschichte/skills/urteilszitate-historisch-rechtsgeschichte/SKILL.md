@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Historische Urteilszitate muessen anders verifiziert werden als heutige. Das Reichsgericht (RG, 1879-1945) veroffentlichte Entscheidungen in RGZ (Zivilsachen) und RGSt (Strafsachen); historische Baende sind in grossen Jurabibliotheken oder als Digitalisate zugaenglich. Der Volksgerichtshof (1934-1945) hatte keine regulaere Entscheidungssammlung; VGH-Urteile sind im Bundesarchiv (Bestand R 3018). Das RKG (1495-1806) hat keine Entscheidungssammlung; Kameralakten in Landesarchiven. Moderne Gerichte (BVerfG, BGH, BVerwG, BAG) sind auf bverfg.de, bgh.de, bverwg.de frei zugaenglich. Altere BVerfGE-Baende sind gedruckt in Jurabibliotheken.
+Historische Urteilszitate müssen anders verifiziert werden als heutige. Das Reichsgericht (RG, 1879-1945) veroffentlichte Entscheidungen in RGZ (Zivilsachen) und RGSt (Strafsachen); historische Baende sind in großen Jurabibliotheken oder als Digitalisate zugaenglich. Der Volksgerichtshof (1934-1945) hatte keine regulaere Entscheidungssammlung; VGH-Urteile sind im Bundesarchiv (Bestand R 3018). Das RKG (1495-1806) hat keine Entscheidungssammlung; Kameralakten in Landesarchiven. Moderne Gerichte (BVerfG, BGH, BVerwG, BAG) sind auf bverfg.de, bgh.de, bverwg.de frei zugaenglich. Altere BVerfGE-Baende sind gedruckt in Jurabibliotheken.
 
 ## Kernnormen / Kernquellen
 
@@ -53,7 +53,7 @@ Historische Urteilszitate muessen anders verifiziert werden als heutige. Das Rei
 
 1. RG-Entscheidungen: Wie zuverlässig sind alte Druckausgaben?
 2. Nicht publizierte VGH-Entscheidungen: Wie zugaenglich sind Bundesarchiv-Bestaende?
-3. Historische Entscheidungen und heutige Kommentare: Wie prueft man Kommentarverweis auf RGZ?
+3. Historische Entscheidungen und heutige Kommentare: Wie prüft man Kommentarverweis auf RGZ?
 4. Online-Datenbanken (Beck, Juris): Enthalten sie alle BVerfGE vollstaendig?
 5. Digitalisierung historischer Gerichtsentscheidungen: Welche Archive sind schon online?
 

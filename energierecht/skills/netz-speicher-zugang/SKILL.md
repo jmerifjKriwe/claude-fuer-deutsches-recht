@@ -122,7 +122,7 @@ description: "Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher p
 ### Verfassungsrechtliche Probleme
 
 - EuGH 02.09.2021, C-718/18: Unabhaengigkeit BNetzA als Regulierungsbehoerde; nationaler Gesetzgeber darf die Tarif-Festlegungskompetenz nicht beschraenken (curia.europa.eu).
-- BNetzA-Festlegungen zu Anwendungs-Modalitaeten: aktuelle Festlegungs-Aktenzeichen vor Ausgabe ueber bundesnetzagentur.de pruefen
+- BNetzA-Festlegungen zu Anwendungs-Modalitaeten: aktuelle Festlegungs-Aktenzeichen vor Ausgabe über bundesnetzagentur.de prüfen
 
 ### Streit-Konstellation
 
@@ -191,7 +191,7 @@ description: "Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher p
 ### EuGH-Linie (verifiziert curia.europa.eu)
 
 - EuGH 02.09.2021, C-718/18 — Unabhaengigkeit der Regulierungsbehoerde BNetzA; Tarif-Festlegung Strom und Gas
-- Weitere EuGH-Entscheidungen zur Diskriminierungsfreiheit beim Netzzugang vor Ausgabe konkret ueber curia.europa.eu verifizieren
+- Weitere EuGH-Entscheidungen zur Diskriminierungsfreiheit beim Netzzugang vor Ausgabe konkret über curia.europa.eu verifizieren
 
 ## Schritt 8 — Streit-Strategie
 
@@ -248,7 +248,7 @@ Konkrete Beschwerdeentscheidungen vor Ausgabe per olg-duesseldorf.nrw.de / bunde
 - NAV / NDAV
 - MaStRV § 5
 - BNetzA-Beschlüsse BK4 / BK6 / BK8 / BK9 — bundesnetzagentur.de
-- BGH EnVR-Linien — vor Ausgabe konkretes Aktenzeichen ueber bundesgerichtshof.de verifizieren
+- BGH EnVR-Linien — vor Ausgabe konkretes Aktenzeichen über bundesgerichtshof.de verifizieren
 - OLG Düsseldorf VI-3 Kart-Verfahren — olg-duesseldorf.nrw.de
 - EuGH 02.09.2021, C-718/18 — Unabhaengigkeit BNetzA als Regulierungsbehoerde (curia.europa.eu)
 - EU REMIT 1227/2011

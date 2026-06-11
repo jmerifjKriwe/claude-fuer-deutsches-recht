@@ -110,12 +110,12 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Beschlussmangel im BR-Verfahren heilen | Variante A-D Strategische Triage unten; Schriftsatzbausteine |
-| Variante A — Heilung moeglich (Variantenweg B/C) | Heilungsweg bevorzugen; erneuter Beschluss |
+| Variante A — Heilung möglich (Variantenweg B/C) | Heilungsweg bevorzugen; erneuter Beschluss |
 | Variante B — Mangel wirkt auf Kuendigung durch | Unwirksamkeit der Kuendigung ruegen; Template-Baustein nutzen |
 | Variante C — Mandant zahlt Anwaltskosten (Var. D) | Freistellungsantrag; Beschlussverfahren einleiten |
 
@@ -194,7 +194,7 @@ Begründung:
 □ Falls Mangel erkennbar: Heilungssitzung sofort anberaumen
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

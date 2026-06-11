@@ -7,7 +7,7 @@ description: "Klausel Lizenzgegenstand mit Anlage A (IP-Liste): pro IP-Typ Ident
 
 ## Funktion
 
-Praezision schlaegt Generalformulierung. Wer den Lizenzgegenstand vage haelt ("alle IP, die der Lizenzgeber besitzt"), riskiert spaeter Streit ueber Zugehoerigkeit.
+Praezision schlaegt Generalformulierung. Wer den Lizenzgegenstand vage haelt ("alle IP, die der Lizenzgeber besitzt"), riskiert später Streit über Zugehoerigkeit.
 
 ## Praezisierungstechniken pro IP-Typ
 
@@ -62,7 +62,7 @@ A.4 Know-how
 ## Pruefroutine vor Vertragsschluss
 
 1. Schutzrechtsregister live abfragen (DPMA, EUIPO, EPA)
-2. Whois fuer Domains
+2. Whois für Domains
 3. Repository-Hash bei Software (z. B. `git log -1 --pretty="%H"`)
 4. Anlage-Hash bei Know-how (SHA-256 der Dokumentensammlung)
 5. Belastungen pro Schutzrecht eintragen

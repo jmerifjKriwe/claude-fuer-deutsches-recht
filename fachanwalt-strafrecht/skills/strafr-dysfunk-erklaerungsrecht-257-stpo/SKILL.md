@@ -35,7 +35,7 @@ description: "Erklaerungsrecht § 257 Abs: 2 StPO und schriftliche Form § 257a 
 
 - Kurze, konkrete Wuerdigung. Was hat die Zeugenaussage gezeigt. Welche Indizien folgen daraus oder eben nicht.
 - Bezug zu konkreten Aussagedetails. Nicht: Aussage sei unglaubwuerdig. Sondern: Bezug auf konkreten Widerspruch zur frueheren Aussage Aktenseite XX.
-- Keine Beleidigung, keine Wertung ueber den Richter.
+- Keine Beleidigung, keine Wertung über den Richter.
 
 ## Mustertext (Auszug)
 

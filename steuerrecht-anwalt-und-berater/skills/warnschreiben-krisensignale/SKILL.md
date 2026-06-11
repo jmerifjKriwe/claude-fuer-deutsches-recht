@@ -101,12 +101,12 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Warnschreiben bei Krisensignalen erstellen | Warnschreiben nach Schema; Template unten |
-| Variante A — Krisensignale noch schwach praevention moeglich | Fruehwarnung-Schreiben statt Krisenwarnung; milderen Ton waehlen |
+| Variante A — Krisensignale noch schwach praevention möglich | Fruehwarnung-Schreiben statt Krisenwarnung; milderen Ton waehlen |
 | Variante B — Insolvenzreife bereits eingetreten | Warnschreiben mit Hinweis auf § 15a InsO; Insolvenz-Skill parallel |
 | Variante C — Mandant will kein Warnschreiben Dokumentation intern | Internes Vermerk statt ausgehendem Schreiben; Haftungsschutz trotzdem |
 
@@ -261,7 +261,7 @@ Unterschrift StB: _________________
 Datum: ___________________________
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

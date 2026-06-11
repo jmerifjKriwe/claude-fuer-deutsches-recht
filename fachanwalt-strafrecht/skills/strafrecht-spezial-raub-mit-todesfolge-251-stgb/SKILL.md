@@ -37,13 +37,13 @@ Praktisch ist § 251 StGB das **Verteidigungsziel** bei Anklage wegen Mordes aus
 
 **Tatbestandsspezifischer Gefahrenzusammenhang:** Der Tod muss aus der spezifischen Raubgefahr resultieren. **Streitig:** Tod tritt bei der **Wegnahme** ein (klassische Konstellation – z. B. Opfer stirbt durch Wuergen); Tod tritt nach der Tat ein (Sturz, Schock, Vorerkrankung des Opfers).
 
-**Wer kann Opfer sein:** Tatopfer ist nicht zwingend das Beraubungsopfer. Auch Dritte (z. B. dazwischengehender Passant, Polizeibeamter, Mittaeter) koennen Tatopfer sein, wenn der Tod aus der spezifischen Raubgefahr resultiert.
+**Wer kann Opfer sein:** Tatopfer ist nicht zwingend das Beraubungsopfer. Auch Dritte (z. B. dazwischengehender Passant, Polizeibeamter, Mittaeter) können Tatopfer sein, wenn der Tod aus der spezifischen Raubgefahr resultiert.
 
 ## Tatbestandsmerkmale konkret
 
 **Leichtfertigkeit:** Vorwerfbar erheblich erhoehter Verschuldensgrad. Bei massiver koerperlicher Gewalteinwirkung gegen Kopf, Hals, Brustkorb des Opfers regelmaessig leichtfertig. Bei leichten Schlaegen, die einen unerwarteten Tod ausloesen, eher zweifelhaft.
 
-**Tod als Folge:** Kausalkette muss den Tod als spezifische Folge der Raubgefahr enthalten. Bei atypischen Verlaufen (Opfer flieht und springt vor ein Auto; Opfer stirbt spaeter an Suizid wegen PTBS) – Zurechnung einzelfall- und sachverstaendigenabhaengig.
+**Tod als Folge:** Kausalkette muss den Tod als spezifische Folge der Raubgefahr enthalten. Bei atypischen Verlaufen (Opfer flieht und springt vor ein Auto; Opfer stirbt später an Suizid wegen PTBS) – Zurechnung einzelfall- und sachverstaendigenabhaengig.
 
 **Vor / waehrend / nach der Wegnahme:** Der Tod muss **bei** der Tat eingetreten sein. Nach staendiger BGH-Rechtsprechung umfasst dies die gesamte Raubhandlung einschliesslich der Beendigungsphase (Sicherung der Beute). Nach Abschluss der Beendigung scheidet § 251 StGB aus.
 
@@ -51,23 +51,23 @@ Praktisch ist § 251 StGB das **Verteidigungsziel** bei Anklage wegen Mordes aus
 
 ## Praktikertipps der Verteidigung
 
-- **Toetungsvorsatz pruefen:** Wenn die Anklage Mord wegen Habgier (§ 211 StGB) lautet, mit Hemmschwellentheorie der staendigen BGH-Rechtsprechung arbeiten. Bei verbleibenden Zweifeln am Toetungsvorsatz bleibt § 251 StGB.
+- **Toetungsvorsatz prüfen:** Wenn die Anklage Mord wegen Habgier (§ 211 StGB) lautet, mit Hemmschwellentheorie der staendigen BGH-Rechtsprechung arbeiten. Bei verbleibenden Zweifeln am Toetungsvorsatz bleibt § 251 StGB.
 - **Leichtfertigkeit erschuettern:** Bei moderater Gewaltanwendung und Vorerkrankung des Opfers (Herzerkrankung, Aneurysma) Sachverstaendigenbeweis zum konkreten Todesmechanismus.
 - **Tatbestandsspezifischer Gefahrenzusammenhang:** Wenn der Tod ausserhalb der Raubgefahr eintritt (Suizid, Drittangriff, Verkehrsunfall auf der Flucht) Zurechnung erschuettern.
 - **Mittaeter-Exzess:** Bei Mittaeterschaft, wenn ein Mittaeter exzessiv toetet, andere Mittaeter entlasten.
 - **§ 21 StGB:** Alkohol, Drogen, Affekt.
-- **§ 251 StGB nicht milderbar:** Bei Versuch (§ 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB) Strafrahmenverschiebung pruefen.
+- **§ 251 StGB nicht milderbar:** Bei Versuch (§ 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB) Strafrahmenverschiebung prüfen.
 
 ## Trade-off-Matrix
 
 - **Schweigen vs. Aussage:** Bei strittigem Toetungsvorsatz und Anklage wegen Mordes Aussage zur Risikobewertung wichtig. Hemmschwellentheorie hilft.
 - **Geststaendnis:** Bei eindeutigem objektivem Befund Geststaendnis zum Raub. Konzentration auf Leichtfertigkeit und Zurechnung.
-- **§ 46b StGB:** Bei Bandentaten Kronzeugenregelung pruefen.
-- **Nebenklage:** § 395 Abs. 1 Nr. 1 StPO – Nebenklage durch Hinterbliebene zulaessig.
+- **§ 46b StGB:** Bei Bandentaten Kronzeugenregelung prüfen.
+- **Nebenklage:** § 395 Abs. 1 Nr. 1 StPO – Nebenklage durch Hinterbliebene zulässig.
 
 ## Konkurrenzen
 
-- **§§ 211, 212 StGB:** Bei Toetungsvorsatz vorrangig. **Achtung:** Bei Toetungsvorsatz und Mordmerkmal Habgier nach staendiger BGH-Rechtsprechung Tateinheit zwischen § 211 StGB und § 251 StGB moeglich; § 251 StGB tritt nicht zwangslaeufig zurueck.
+- **§§ 211, 212 StGB:** Bei Toetungsvorsatz vorrangig. **Achtung:** Bei Toetungsvorsatz und Mordmerkmal Habgier nach staendiger BGH-Rechtsprechung Tateinheit zwischen § 211 StGB und § 251 StGB möglich; § 251 StGB tritt nicht zwangslaeufig zurueck.
 - **§ 250 StGB:** Im Wege der Spezialitaet durch § 251 StGB verdraengt.
 - **§§ 227, 226 StGB:** Verdraengt durch § 251 StGB.
 - **§§ 253, 255 StGB iVm § 251 StGB:** Bei raeuberischer Erpressung mit Todesfolge eigenstaendige Variante.
@@ -79,13 +79,13 @@ Praktisch ist § 251 StGB das **Verteidigungsziel** bei Anklage wegen Mordes aus
 - **Besondere Schwere der Schuld:** § 57a Abs. 1 Satz 1 Nr. 2 StGB iVm § 211 StGB-Konstellation – nicht direkt auf § 251 StGB anwendbar; aber bei Tateinheit mit § 211 StGB relevant.
 - **§ 49 StGB:** Strafrahmenverschiebung bei vertypten Milderungsgruenden (§ 21 StGB, § 46a StGB).
 - **§ 46b StGB:** Aufklaerungs- und Praeventionshilfe.
-- **Versuch:** § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB Strafrahmenverschiebung moeglich.
+- **Versuch:** § 23 Abs. 2 StGB iVm § 49 Abs. 1 StGB Strafrahmenverschiebung möglich.
 - **§ 46 StGB:** Brutalitaet, Tatablauf, Geststaendnis, Reue.
 
 ## Mustertexte
 
 **Einlassung (Auszug):**
-> Der Angeklagte raeumt ein, den Raub begangen zu haben. Er hat den Geschaedigten am Tatort niedergeschlagen und Bargeld in Hoehe von ... EUR an sich genommen. Er hat den Geschaedigten weder getoetet noch toeten wollen. Der Tod des Geschaedigten ist nach den vorliegenden Gutachten Folge einer Embolie aufgrund einer bereits vorbestehenden Thrombose, die durch den Schlag ausgeloest wurde, dem Angeklagten aber subjektiv unvorhersehbar war.
+> Der Angeklagte raeumt ein, den Raub begangen zu haben. Er hat den Geschaedigten am Tatort niedergeschlagen und Bargeld in Höhe von ... EUR an sich genommen. Er hat den Geschaedigten weder getoetet noch toeten wollen. Der Tod des Geschaedigten ist nach den vorliegenden Gutachten Folge einer Embolie aufgrund einer bereits vorbestehenden Thrombose, die durch den Schlag ausgeloest wurde, dem Angeklagten aber subjektiv unvorhersehbar war.
 
 **Plaedoyer-Snippet:**
 > Die Hemmschwellentheorie der staendigen BGH-Rechtsprechung beim Toetungsvorsatz greift. Die Beweisaufnahme hat ergeben, dass der Angeklagte den Tod des Geschaedigten weder gewollt noch billigend in Kauf genommen hat. § 211 StGB scheidet aus. Es bleibt der Schuldspruch wegen § 251 StGB.

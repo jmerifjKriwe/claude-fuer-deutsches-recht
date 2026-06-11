@@ -15,12 +15,12 @@ Wesensgehalt ist das, was nach umfassender Verhaeltnismaessigkeitspruefung **ueb
 ### Subjektiv-absolute Lesart
 Wesensgehalt ist ein **harter Kernbereich** jedes Grundrechts, der jeder Abwaegung entzogen ist. So vom BVerfG vor allem in den Fallgruppen Wohnungsueberwachung, Telekommunikationsueberwachung, Lauschangriff und Online-Durchsuchung verwendet.
 
-- BVerfGE 109, 279 (Grosser Lauschangriff): Wohnungsueberwachung muss Kernbereichsschutz gewaehrleisten.
+- BVerfGE 109, 279 (Großer Lauschangriff): Wohnungsueberwachung muss Kernbereichsschutz gewaehrleisten.
 - BVerfGE 113, 348 (Praeventive Telekommunikationsueberwachung Niedersachsen): Kernbereichsschutz im Vorfeld.
 - BVerfGE 120, 274 (Online-Durchsuchung): Kernbereich des Computer-Grundrechts, Loeschungspflicht.
 - BVerfGE 141, 220 (BKAG-Urteil): Kernbereichsschutz in der Online-Aufklaerung.
 
-## Beispiele fuer den Kernbereich
+## Beispiele für den Kernbereich
 
 | Grundrecht | Kernbereich |
 | --- | --- |
@@ -38,14 +38,14 @@ Wesensgehalt ist ein **harter Kernbereich** jedes Grundrechts, der jeder Abwaegu
 
 ## Methodische Folge
 
-Wenn der Wesensgehalt verletzt ist, scheitert die Massnahme an dieser Stelle. Der Schritt liegt **vor** der Stufe 4 (Angemessenheit) als absoluter Massstab.
+Wenn der Wesensgehalt verletzt ist, scheitert die Maßnahme an dieser Stelle. Der Schritt liegt **vor** der Stufe 4 (Angemessenheit) als absoluter Massstab.
 
 ## Quellen mit Schlagwort
 
 - BVerfGE 7, 377 (Apotheken-Urteil, Stufenlehre)
 - BVerfGE 30, 173 (Mephisto-Beschluss, Kunstfreiheit)
 - BVerfGE 100, 226 (Denkmalschutz, Privatnuetzigkeit)
-- BVerfGE 109, 279 (Grosser Lauschangriff, Kernbereichsschutz)
+- BVerfGE 109, 279 (Großer Lauschangriff, Kernbereichsschutz)
 - BVerfGE 113, 348 (Praeventive TK-Ueberwachung Niedersachsen)
 - BVerfGE 115, 118 (Luftsicherheitsgesetz)
 - BVerfGE 120, 274 (Online-Durchsuchung, Kernbereichsschutz)

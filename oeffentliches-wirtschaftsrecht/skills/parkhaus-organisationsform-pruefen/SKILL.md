@@ -3,7 +3,7 @@ name: parkhaus-organisationsform-pruefen
 description: "Parkhaus: Organisationsform prüfen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Parkhaus Organisationsform Pruefen
+# Parkhaus Organisationsform Prüfen
 
 ## Arbeitsweg
 

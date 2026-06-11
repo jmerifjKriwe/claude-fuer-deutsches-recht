@@ -15,14 +15,14 @@ description: "Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung B
 
 ## Worum geht es konkret
 
-Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Angabe mit Rufschaden, unzutreffender Tatsachenbericht ueber einen Verfahrensbeteiligten, fehlerhafte Rechtsanwendung, die in der Praxis Schaden anrichtet. Der Skill schluesselt drei Ebenen auf: (1) tatsaechliche Rueckholaktion, (2) Richtigstellung und (3) Schadensbegrenzung; mit Eskalationsplan und Mustertexten.
+Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Angabe mit Rufschaden, unzutreffender Tatsachenbericht über einen Verfahrensbeteiligten, fehlerhafte Rechtsanwendung, die in der Praxis Schaden anrichtet. Der Skill schluesselt drei Ebenen auf: (1) tatsaechliche Rueckholaktion, (2) Richtigstellung und (3) Schadensbegrenzung; mit Eskalationsplan und Mustertexten.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welcher Fehlertyp (falsche Tatsache, fehlerhafte Norm, Persoenlichkeitsverletzung, Plagiat, Bildrechtsverletzung)?
 2. Welcher Mediumtyp (Heft im Versand, Heft im Buchhandel, Online-Datenbank, Loseblattlieferung)?
 3. Wie weit ist die Verbreitung (Versand, Eingang Abonnenten, Indexierung Datenbank)?
-4. Wer hat den Fehler gemeldet (Autor, Leser, Betroffener, Justiziariat, KI-Pruefung)?
+4. Wer hat den Fehler gemeldet (Autor, Leser, Betroffener, Justiziariat, KI-Prüfung)?
 5. Sind bereits Abmahnungen / Aufforderungen eingegangen?
 6. Welche Schadensgefahr ist erkennbar (Kreditschaedigung, Praxis-Fehlanwendung)?
 7. Gibt es eine Frist (Abmahnfrist, Wiederholungsgefahr)?
@@ -37,14 +37,14 @@ Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Anga
 - DDG § 8 - Anspruch auf Sperrung bei Rechtsverletzung am geistigen Eigentum: Anspruch besteht nur gegen Diensteanbieter, die einen digitalen Dienst erbringen, der darin besteht, von einem Nutzer bereitgestellte Informationen in einem Kommunikationsnetz zu uebermitteln oder den Zugang zu einem Kommunikationsnetz zu vermitteln (§ 8 Abs. 1 DDG; reine Durchleitungs-/Zugangsdienste - nicht Hosting, Datenbankanbieter oder sonstige Diensteanbieter ausserhalb von Mere Conduit). Sperrung muss zumutbar und verhaeltnismaessig sein; Kostenerstattung nur bei vorsaetzlichem Zusammenwirken. Verpflichtungen zur Entfernung oder Sperrung nach allgemeinen Gesetzen auf Grund gerichtlicher oder behoerdlicher Anordnungen bleiben unberuehrt (§ 8 Abs. 4 DDG). Gegen Hosting- und Datenbankanbieter (juris, beck-online) richten sich Ansprueche stattdessen aus DSA Art. 6 i.V.m. den allgemeinen Gesetzen (Beseitigung, Unterlassung).
 - Hinweis: Das TMG ist seit Mai 2024 durch DDG plus DSA abgeloest.
 - UWG §§ 5, 5a - Irrefuehrung; bei Werbeaussagen relevant.
-- Aeusserungsrecht: BVerfG-Rechtsprechung zu Werturteil vs. Tatsachenbehauptung (zu pruefen unter bundesverfassungsgericht.de).
+- Aeusserungsrecht: BVerfG-Rechtsprechung zu Werturteil vs. Tatsachenbehauptung (zu prüfen unter bundesverfassungsgericht.de).
 - BGB § 314 - Kuendigung aus wichtigem Grund (bei Aufnahmevertrag mit Autor).
 
 ## Praxisleitfaden / Schritt für Schritt
 
 1. **Lage erfassen.** Welches Heft / welche ISBN / welcher Online-Stand? Wer hat was wann gemeldet?
-2. **Schwellenwert pruefen.**
- - Stufe A: Tippfehler ohne Rufwirkung - keine Massnahme, Korrektur in der naechsten Auflage.
+2. **Schwellenwert prüfen.**
+ - Stufe A: Tippfehler ohne Rufwirkung - keine Maßnahme, Korrektur in der naechsten Auflage.
  - Stufe B: Sachfehler mit Praxiswirkung - Richtigstellung online und in der naechsten Heftausgabe.
  - Stufe C: Persoenlichkeits- oder Kreditverletzung - sofortige Beseitigung online; ggf. Heftrueckruf.
  - Stufe D: Strafrechtsrelevant (Beleidigung, Verleumdung, Volksverhetzung) - Sofortmassnahme und Justiziariatseinbindung.
@@ -52,10 +52,10 @@ Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Anga
  - Online: Beitrag depublizieren oder mit korrigierter Fassung ersetzen; Datenbankanbieter informieren (juris, beck-online).
  - Print: Versand stoppen, Buchhandel benachrichtigen, Remissionsangebot.
  - Loseblatt: Austauschblatt mit Hinweis für Abonnenten.
-4. **Kommunikation.** An Betroffene, an Autor, an Abonnenten, an Pressevertreter (wenn der Fehler bereits oeffentlich ist).
-5. **Schadensabwehr.** Versicherung pruefen (Verlagshaftpflicht, Vermoegensschadenhaftpflicht); Justiziariat einbinden.
-6. **Dokumentation.** Chronologie, Beschluesse, Mailverkehr, Pressemitteilungen archivieren.
-7. **Lernschleife.** Pruefen, ob Lektorat / Justiziariat den Fehler vor Erscheinen haette erkennen muessen.
+4. **Kommunikation.** An Betroffene, an Autor, an Abonnenten, an Pressevertreter (wenn der Fehler bereits öffentlich ist).
+5. **Schadensabwehr.** Versicherung prüfen (Verlagshaftpflicht, Vermoegensschadenhaftpflicht); Justiziariat einbinden.
+6. **Dokumentation.** Chronologie, Beschlüsse, Mailverkehr, Pressemitteilungen archivieren.
+7. **Lernschleife.** Prüfen, ob Lektorat / Justiziariat den Fehler vor Erscheinen haette erkennen müssen.
 
 ## Trade-off-Matrix
 
@@ -152,7 +152,7 @@ Mit freundlichen Gruessen
 
 - Beitrag online geloescht ohne Hinweisseite - Verlinkungen ins Leere.
 - Datenbankanbieter nicht informiert - Beitrag bleibt online.
-- Rueckruf-Aktion ohne Pressemitteilung wird trotzdem oeffentlich - schlechte Optik.
+- Rueckruf-Aktion ohne Pressemitteilung wird trotzdem öffentlich - schlechte Optik.
 - Versicherung zu spaet informiert - Deckung weg.
 - Keine Dokumentation - bei spaeterer Klage Beweisnot.
 - Korrekturversion enthaelt neue Fehler - Doppelschaden.

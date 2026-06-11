@@ -15,7 +15,7 @@ description: "Skill zu Erschwerniszulagen für Polizei Justizvollzug Feuerwehr B
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beamte im Vollzugsdienst (Polizei, Justizvollzug, Feuerwehr, Zoll) und Soldaten, die Anspruch auf Erschwerniszulagen geltend machen wollen. Anwendung bei strittiger Hoehe oder Verweigerung der Zulage durch den Dienstherrn.
+Skill für Beamte im Vollzugsdienst (Polizei, Justizvollzug, Feuerwehr, Zoll) und Soldaten, die Anspruch auf Erschwerniszulagen geltend machen wollen. Anwendung bei strittiger Höhe oder Verweigerung der Zulage durch den Dienstherrn.
 
 ## 2. Eingaben
 
@@ -37,10 +37,10 @@ Skill für Beamte im Vollzugsdienst (Polizei, Justizvollzug, Feuerwehr, Zoll) un
 - Dienst zwischen 20 oder 21 Uhr und 6 oder 7 Uhr (je nach Vorschrift). Erfasst werden nur die Nachtstunden.
 
 ### d) Krankheit und Urlaub
-- Bei Krankheit und Urlaub Zulagen grundsaetzlich weiterzuzahlen, soweit sie pauschal bemessen sind; bei stundengenauer Bemessung Ausgleich nach EuGH-Rechtsprechung zur Urlaubsverguetung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Bei Krankheit und Urlaub Zulagen grundsätzlich weiterzuzahlen, soweit sie pauschal bemessen sind; bei stundengenauer Bemessung Ausgleich nach EuGH-Rechtsprechung zur Urlaubsverguetung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 
-### e) Verguetung Mehrarbeit Sonderdienste
-- Verhaeltnis Erschwerniszulage zu Mehrarbeitsverguetung (§ 88 BBG) klaeren; siehe Schwester-Skill `mehrarbeitsverguetung-88-bbg`.
+### e) Vergütung Mehrarbeit Sonderdienste
+- Verhaeltnis Erschwerniszulage zu Mehrarbeitsverguetung (§ 88 BBG) klären; siehe Schwester-Skill `mehrarbeitsverguetung-88-bbg`.
 
 ## 4. Quellenpflicht
 

@@ -7,7 +7,7 @@ description: "Duplik als Beklagten-Antwort auf die Klaeger-Replik. Letzter Schri
 
 ## Worum geht es?
 
-Nach Replik des Klaegers haben Sie als Beklagter Gelegenheit zur **Duplik**. Das ist Ihre letzte gross Reaktion vor dem Termin. Sie reagieren auf den ergaenzenden Klaeger-Vortrag und ergaenzen Ihre eigenen Vortraege. Diese Skill zeigt das Vorgehen.
+Nach Replik des Klaegers haben Sie als Beklagter Gelegenheit zur **Duplik**. Das ist Ihre letzte groß Reaktion vor dem Termin. Sie reagieren auf den ergaenzenden Kläger-Vortrag und ergaenzen Ihre eigenen Vortraege. Diese Skill zeigt das Vorgehen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -28,7 +28,7 @@ Nach Replik des Klaegers haben Sie als Beklagter Gelegenheit zur **Duplik**. Das
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Replik pruefen
+### Schritt 1 — Replik prüfen
 
 Lesen Sie die Replik:
 
@@ -38,7 +38,7 @@ Lesen Sie die Replik:
 
 ### Schritt 2 — Reaktion strukturieren
 
-Pro Klaeger-Punkt:
+Pro Kläger-Punkt:
 
 - Akzeptieren Sie? Dann nichts zu sagen.
 - Bestreiten Sie? Wie?
@@ -75,9 +75,9 @@ Die mit der Klageerwiderung gestellten
 Antraege werden aufrecht erhalten.
 ```
 
-### Schritt 4 — Auf Klaeger-Beweisangebote reagieren
+### Schritt 4 — Auf Kläger-Beweisangebote reagieren
 
-Wenn Klaeger Zeugen benannt hat, die ihn entlasten — Sie koennen Gegenbeweis anbieten:
+Wenn Kläger Zeugen benannt hat, die ihn entlasten — Sie können Gegenbeweis anbieten:
 
 ```
 Gegenbeweis: Zeugnis Frau Y,
@@ -90,7 +90,7 @@ Buero und wuerde es bezeugen koennen.
 
 ### Schritt 5 — Einreden vertiefen
 
-Wenn Klaeger gegen Ihre Verjährungs-Einrede argumentiert (z. B. Hemmung durch Verhandlungen behauptet), wieder fundiert antworten:
+Wenn Kläger gegen Ihre Verjährungs-Einrede argumentiert (z. B. Hemmung durch Verhandlungen behauptet), wieder fundiert antworten:
 
 - Hemmung mit Beleg bestreiten.
 - Konkrete Zeitraeume bestimmen.
@@ -111,21 +111,21 @@ Verjährungs-Einrede aufrecht.
 
 ### Schritt 7 — Letzter Schriftsatz vor Termin
 
-Die Duplik ist oft der **letzte gross Schriftsatz** vor dem Termin. Im Termin koennen Sie zwar noch sprechen, aber neue Tatsachen sollten vorab schriftlich angekuendigt sein.
+Die Duplik ist oft der **letzte groß Schriftsatz** vor dem Termin. Im Termin können Sie zwar noch sprechen, aber neue Tatsachen sollten vorab schriftlich angekuendigt sein.
 
 ### Schritt 8 — Frist beachten
 
-Gericht setzt Duplik-Frist. Verlaengerung moeglich (Skill `fristverlaengerung-antrag-225-zpo`).
+Gericht setzt Duplik-Frist. Verlaengerung möglich (Skill `fristverlaengerung-antrag-225-zpo`).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Praeklusion § 296 ZPO**: Spaete Argumente koennen verworfen werden.
-- **Auf alle wesentlichen Klaeger-Punkte reagieren**.
+- **Praeklusion § 296 ZPO**: Spaete Argumente können verworfen werden.
+- **Auf alle wesentlichen Kläger-Punkte reagieren**.
 - **Auf Beweisangebote des Klaegers reagieren** (ggf. Gegenbeweis).
 
 ## Typische Fehler
 
-- "Duplik ist optional, ich lasse weg." → Bei substantiellem Klaeger-Vortrag riskant.
+- "Duplik ist optional, ich lasse weg." → Bei substantiellem Kläger-Vortrag riskant.
 - "Im Termin werde ich alles sagen." → Schriftliche Vorlage erwartet.
 
 ## Quellen und Aktualitaet

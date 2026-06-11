@@ -1,6 +1,6 @@
 # Quellen- und Aktualitaetsgate Vergaberecht
 
-Dieses Plugin soll vor tragenden Aussagen zu Schwellenwerten, Rechtswegen, Formularen und Rechtsprechung aktuelle Quellen pruefen.
+Dieses Plugin soll vor tragenden Aussagen zu Schwellenwerten, Rechtswegen, Formularen und Rechtsprechung aktuelle Quellen prüfen.
 
 Primaere Quellenpfade:
 

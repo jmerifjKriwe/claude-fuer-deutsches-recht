@@ -16,10 +16,10 @@ description: "Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit i
 ## Norm
 
 - **§ 4 BeamtVG**: Wartezeit (5 Jahre Pflichtbeitragszeit).
-- **§ 14 BeamtVG**: Hoehe des Ruhegehalts.
+- **§ 14 BeamtVG**: Höhe des Ruhegehalts.
 - **§ 6 BeamtVG**: Ruhegehaltfaehige Dienstzeit.
 
-## Hoehe
+## Höhe
 
 - **Hoechstruhegehalt**: 71,75 Prozent der letzten ruhegehaltfaehigen Dienstbezuege.
 - **Mindestversorgung**: nach § 14 Abs. 4 BeamtVG.
@@ -45,5 +45,5 @@ description: "Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit i
 
 1. Wartezeit erfuellt?
 2. Welche Dienstzeit?
-3. Hoehe?
+3. Höhe?
 4. Abschlag?

@@ -3,7 +3,7 @@ name: interessenkollision-beratung-interne
 description: "Wirtschaftsprüfer: interessenkollision beratung und pruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
-# Wirtschaftsprüfer: interessenkollision beratung und pruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
+# Wirtschaftsprüfer: interessenkollision beratung und prüfung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Wirtschaftsprüfer: interessenkollision beratung und pruefung - Re
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: interessenkollision beratung und pruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
+## Konkreter Berufsrechtskern: Wirtschaftsprüfer: interessenkollision beratung und prüfung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 - **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
 - **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
 - **Spezialspur:** Kollision in Mandat, Sozietät, Vorbefassung, wirtschaftlichem Eigeninteresse und Informationszugang zerlegen.
@@ -22,7 +22,7 @@ description: "Wirtschaftsprüfer: interessenkollision beratung und pruefung - Re
 
 ## Fallweichen dieser Speziallage
 
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
+1. Rolle, Ziel und Entscheidungsdruck klären.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
 3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
 4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.

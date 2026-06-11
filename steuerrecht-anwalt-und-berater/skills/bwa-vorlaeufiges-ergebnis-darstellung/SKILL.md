@@ -13,7 +13,7 @@ description: "Darstellung vorläufiges Ergebnis in Quartals- und Halbjahres-BWA.
 
 ## Kernsachverhalt
 
-Unterjaehrige BWA sind per Definition vorlaeufig: Periodenabgrenzungen sind noch nicht final, Bestaende werden geschaetzt, Abschreibungen ggf. erst zum Jahresende angepasst. Der Steuerberater muss diese Vorlaeufigkeit explizit kennzeichnen, damit der Mandant das Ergebnis nicht ueberbewertet. Anders als der Jahresabschluss enthaelt die BWA Schaetzwerte, die spaeter korrigiert werden. Ein Quartals- oder Halbjahres-Ergebnis braucht einen Vorlaeufigkeitsvermerk, eine Aufstellung der Schaetzungen und ggf. ein Confidence Interval.
+Unterjaehrige BWA sind per Definition vorlaeufig: Periodenabgrenzungen sind noch nicht final, Bestaende werden geschaetzt, Abschreibungen ggf. erst zum Jahresende angepasst. Der Steuerberater muss diese Vorlaeufigkeit explizit kennzeichnen, damit der Mandant das Ergebnis nicht ueberbewertet. Anders als der Jahresabschluss enthaelt die BWA Schaetzwerte, die später korrigiert werden. Ein Quartals- oder Halbjahres-Ergebnis braucht einen Vorlaeufigkeitsvermerk, eine Aufstellung der Schaetzungen und ggf. ein Confidence Interval.
 
 ## Kaltstart-Rueckfragen
 
@@ -65,7 +65,7 @@ Unterjaehrige BWA sind per Definition vorlaeufig: Periodenabgrenzungen sind noch
 
 - Jede Schaetzungsposition mit Methode, Quelle und Zeitstempel dokumentieren.
 - Bei wesentlichen Schaetzungen (Bestand) interne Stichprobe (Auswertung Lagerverwaltung).
-- Schaetzungen muessen periodisch konsistent sein (keine Glaettung "nach Bedarf").
+- Schaetzungen müssen periodisch konsistent sein (keine Glaettung "nach Bedarf").
 
 ### Phase 3 — BWA-Ausgabe mit Vorlaeufigkeitsvermerk
 
@@ -101,7 +101,7 @@ Freigegeben: [Berufstraeger]
 ### Phase 6 — Krisen-Eskalation
 
 - Bei drohenden Verlusten oder negativem Eigenkapital: Eskalation an Berufstraeger.
-- Querverweis stb-bwa-sus-bilanz-pruefung und § 102 StaRUG-Pruefung.
+- Querverweis stb-bwa-sus-bilanz-pruefung und § 102 StaRUG-Prüfung.
 
 ## Strategie und Praxis-Tipps
 

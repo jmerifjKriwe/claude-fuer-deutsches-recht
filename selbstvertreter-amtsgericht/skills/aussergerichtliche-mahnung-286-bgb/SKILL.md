@@ -13,27 +13,27 @@ Vor Klage sollten Sie den Schuldner schriftlich auffordern zu zahlen. Das nennt 
 
 - Sie wollen eine Forderung einziehen.
 - Sie wollen Verzugszinsen geltend machen.
-- Sie ueberlegen, wann genau Sie klagen muessen.
+- Sie ueberlegen, wann genau Sie klagen müssen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Mahnung**: Eindeutige Aufforderung zur Leistung mit Fristsetzung.
 - **Verzug**: Verzoegerte Leistung trotz Faelligkeit und Mahnung (oder Entbehrlichkeit, § 286 II BGB).
 - **Verzugszinsen**: Zinsen, die der Schuldner ab Verzug schuldet.
-- **Mahngebuehr**: Kostenpauschale für Mahnungen (umstrittene Hoehe; vertraglich evtl. wirksam).
+- **Mahngebuehr**: Kostenpauschale für Mahnungen (umstrittene Höhe; vertraglich evtl. wirksam).
 
 ## Rechtsgrundlagen
 
 - **§ 286 I BGB** — Verzug nach Mahnung.
 - **§ 286 II BGB** — Mahnung entbehrlich (Termin, Selbst, ernsthafte Erfuellungsverweigerung).
 - **§ 286 III BGB** — 30 Tage nach Rechnungs-Zugang im Geschaeftsverkehr.
-- **§ 288 BGB** — Verzugszinsen (Verbraucher 5 % ueber Basiszins, Unternehmer 9 %).
+- **§ 288 BGB** — Verzugszinsen (Verbraucher 5 % über Basiszins, Unternehmer 9 %).
 - **§ 288 V BGB** — Pauschale 40 EUR im Geschaeftsverkehr.
 - **§ 280 II BGB** — Schadensersatz wegen Verzug.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Mahnung entbehrlich
+### Schritt 1 — Prüfen, ob Mahnung entbehrlich
 
 § 286 II BGB: Mahnung entbehrlich, wenn:
 
@@ -43,7 +43,7 @@ Vor Klage sollten Sie den Schuldner schriftlich auffordern zu zahlen. Das nennt 
 - Bei besonderen Gruenden (Treu und Glauben).
 - Im Geschaeftsverkehr 30 Tage nach Rechnungs-Zugang (§ 286 III BGB).
 
-Wenn entbehrlich: Sie koennen direkt klagen oder mahnen-fest verzugsrechtlich. Wenn nicht: mahnen Sie.
+Wenn entbehrlich: Sie können direkt klagen oder mahnen-fest verzugsrechtlich. Wenn nicht: mahnen Sie.
 
 ### Schritt 2 — Mahnung formulieren
 
@@ -83,10 +83,10 @@ Mit freundlichen Gruessen
 - **Einschreiben mit Rueckschein**: Beweis für Zugang.
 - **Einschreiben Einwurf**: Etwas guenstiger.
 - **Brief mit Postzustellungsurkunde** (selten privat).
-- **Email**: rechtlich moeglich, aber Zugangs-Beweis schwieriger. Speichern Sie versendete Email und ggf. Lesebestaetigung.
+- **Email**: rechtlich möglich, aber Zugangs-Beweis schwieriger. Speichern Sie versendete Email und ggf. Lesebestaetigung.
 - **Persoenliche Uebergabe gegen Empfangsquittung**: Beweis durch Quittung.
 
-**Beweis-Tipp**: Bewahren Sie Sendungs-Beleg/Einschreibe-Beleg auf. Im Streitfall muessen Sie den Zugang beweisen.
+**Beweis-Tipp**: Bewahren Sie Sendungs-Beleg/Einschreibe-Beleg auf. Im Streitfall müssen Sie den Zugang beweisen.
 
 ### Schritt 4 — Frist setzen
 
@@ -101,20 +101,20 @@ Rechtlich reicht **eine** Mahnung für den Verzug. Mehrere Mahnungen sind eher p
 - Bei Mahnung: Ab Zugang der Mahnung (= Ablauf der gesetzten Frist).
 - Bei Mahnung entbehrlich: Ab Faelligkeit / 30 Tage nach Rechnung im Geschaeftsverkehr.
 
-Hoehe:
+Höhe:
 
-- Verbraucher: 5 % ueber Basiszinssatz.
-- Unternehmer: 9 % ueber Basiszinssatz.
+- Verbraucher: 5 % über Basiszinssatz.
+- Unternehmer: 9 % über Basiszinssatz.
 
-Basiszinssatz wird halbjaehrlich von der Bundesbank festgesetzt. Aktuelle Hoehe verifizieren.
+Basiszinssatz wird halbjaehrlich von der Bundesbank festgesetzt. Aktuelle Höhe verifizieren.
 
 ### Schritt 7 — Verzugsschaden
 
-Sie koennen ueber Zinsen hinaus weitere Schaeden geltend machen (z. B. Mahngebuehr, Anwaltskosten bei Mahnschreiben durch Anwalt, Kreditkosten). Bei Mahnung in Eigenregie ohne Anwalt sind Anwaltskosten nicht ersatzfaehig — Sie hatten ja keine.
+Sie können über Zinsen hinaus weitere Schaeden geltend machen (z. B. Mahngebuehr, Anwaltskosten bei Mahnschreiben durch Anwalt, Kreditkosten). Bei Mahnung in Eigenregie ohne Anwalt sind Anwaltskosten nicht ersatzfaehig — Sie hatten ja keine.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Zugang beweisen**: Sie muessen darlegen, dass der Schuldner die Mahnung erhalten hat. Einschreiben mit Rueckschein ist sicherster Beweis.
+- **Zugang beweisen**: Sie müssen darlegen, dass der Schuldner die Mahnung erhalten hat. Einschreiben mit Rueckschein ist sicherster Beweis.
 - **Faelligkeit voraussetzen**: Eine Mahnung vor Faelligkeit ist wirkungslos.
 - **Im Geschaeftsverkehr**: § 286 III BGB greift ab Tag 31 nach Rechnungs-Zugang auch ohne Mahnung — wenn auf der Rechnung darauf hingewiesen wird.
 - **Mahngebuehr-Pauschale 40 EUR**: Nur im Geschaeftsverkehr unter Unternehmern (§ 288 V BGB).
@@ -122,7 +122,7 @@ Sie koennen ueber Zinsen hinaus weitere Schaeden geltend machen (z. B. Mahngebue
 ## Typische Fehler
 
 - "Ich habe doch schon mehrmals angerufen." → Telefon-Mahnung ist beweisrechtlich schwierig.
-- "Mahnung per WhatsApp reicht." → Rechtlich moeglich, aber Zugangs-Beweis problematisch.
+- "Mahnung per WhatsApp reicht." → Rechtlich möglich, aber Zugangs-Beweis problematisch.
 - "Ich klage direkt." → Geht, aber dann keine Verzugszinsen und ggf. Klage-Kosten allein.
 - "Mahnen mit 3 Tagen Frist." → In der Regel zu kurz und unangemessen.
 

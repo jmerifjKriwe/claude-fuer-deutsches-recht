@@ -27,7 +27,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster Rom I (vertragliche Schuldverhaeltnisse)
@@ -39,21 +39,21 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 
 ### 2. Rechtswahl Art. 3 Rom I
 
-- Ausdrueckliche oder konkludente Rechtswahl moeglich, für Gesamtvertrag oder Teile (depecage Art. 3 I 3).
+- Ausdrueckliche oder konkludente Rechtswahl möglich, für Gesamtvertrag oder Teile (depecage Art. 3 I 3).
 - Aenderung der Rechtswahl Art. 3 II.
 - Schutz vor reinen Binnensachverhalten Art. 3 III (zwingende Vorschriften des Sachstaats bleiben anwendbar).
 - Innergemeinschaftlicher Sachverhalt + Wahl drittstaatlichen Rechts: zwingendes Unionsrecht (Art. 3 IV).
 
 ### 3. Mangels Rechtswahl Art. 4 Rom I
 
-- Acht typisierte Vertraege Art. 4 I (Kauf -> Verkaeufer; Dienstleistung -> Dienstleister; Grundstueck -> Lex rei sitae; etc.).
+- Acht typisierte Verträge Art. 4 I (Kauf -> Verkaeufer; Dienstleistung -> Dienstleister; Grundstueck -> Lex rei sitae; etc.).
 - Wenn nicht typisiert: charakteristische Leistung Art. 4 II.
 - Ausweichklausel Art. 4 III (offensichtlich engere Verbindung).
 
 ### 4. Sondernormen
 
 - **Befoerderungsvertraege** Art. 5.
-- **Verbrauchervertraege** Art. 6: gewoehnlicher Aufenthalt des Verbrauchers, soweit Unternehmer Taetigkeit dorthin ausrichtet; Rechtswahl moeglich, aber zwingender Verbraucherschutz greift weiter.
+- **Verbrauchervertraege** Art. 6: gewoehnlicher Aufenthalt des Verbrauchers, soweit Unternehmer Taetigkeit dorthin ausrichtet; Rechtswahl möglich, aber zwingender Verbraucherschutz greift weiter.
 - **Versicherungsvertraege** Art. 7.
 - **Individualarbeitsvertraege** Art. 8: gewoehnlicher Arbeitsort; zwingender AN-Schutz bei Rechtswahl.
 
@@ -93,16 +93,16 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 
 ### 4. Rechtswahl Art. 14 Rom II
 
-- Grundsaetzlich nach Schadenseintritt; bei kommerzieller Taetigkeit auch vorher.
+- Grundsätzlich nach Schadenseintritt; bei kommerzieller Taetigkeit auch vorher.
 - Verbraucher- und AN-Schutz bleiben.
 
 ## Pruefraster für den Skill
 
 1. **Sachverhalt fixieren** — Wer, was, wo, welcher Auslandsbezug?
-2. **Anwendbarkeit Rom I/II** pruefen.
-3. **Rechtswahl** existiert? Wenn ja: Wirksamkeit pruefen.
+2. **Anwendbarkeit Rom I/II** prüfen.
+3. **Rechtswahl** existiert? Wenn ja: Wirksamkeit prüfen.
 4. **Objektive Anknuepfung** als Fallback.
-5. **Eingriffsnormen** der lex fori pruefen.
+5. **Eingriffsnormen** der lex fori prüfen.
 6. **Ordre public** als letztes Sieb.
 
 ## Praxisfallen

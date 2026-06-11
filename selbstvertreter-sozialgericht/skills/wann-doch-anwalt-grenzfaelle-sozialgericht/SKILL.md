@@ -49,7 +49,7 @@ Warum Anwalt: kann sicher mit Atteste-Argumenten umgehen, § 109 SGG strategisch
 
 Wann: Krankengeld + Buergergeld + EM-Rente + Reha — alles gleichzeitig im Streit.
 
-Warum Anwalt: Uebersicht ueber Wechselwirkungen, mehrere Verfahren parallel fuehren.
+Warum Anwalt: Übersicht über Wechselwirkungen, mehrere Verfahren parallel fuehren.
 
 ### Konstellation 3 — Berufung beim LSG
 
@@ -71,7 +71,7 @@ Warum Anwalt: Verfassungsrechtliche Argumente, Praezedenzfaelle.
 
 ### Konstellation 6 — Sanktion und Existenz
 
-Wann: Hohe Sanktionen ueber laengere Zeit.
+Wann: Hohe Sanktionen über laengere Zeit.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -115,7 +115,7 @@ Bei Amtsgericht (siehe `beratungshilfe-vor-widerspruch-brh`).
 - Atteste, Belege, Unterlagen weiterleiten
 - Termine wahrnehmen
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sozialverbaende sind oft die guenstigste Loesung**: 5 bis 10 EUR Monatsbeitrag für komplette Vertretung.
 - **PKH beantragen** wenn Sie wenig Geld haben.

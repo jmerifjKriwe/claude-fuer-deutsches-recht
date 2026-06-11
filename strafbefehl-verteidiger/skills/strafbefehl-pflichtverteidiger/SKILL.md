@@ -21,7 +21,7 @@ Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendi
 
 1. **Liegt ein Fall notwendiger Verteidigung vor?** — § 140 Abs. 1 StPO: Hauptverhandlung vor LG oder Schwurgericht; Freiheitsstrafe > 1 Jahr droht; § 140 Abs. 2 StPO: erhebliche Schwierigkeit der Sach- oder Rechtslage; Unfaehigkeit zur Selbstverteidigung.
 2. **Ist der Mandant mittellos?** — Beiordnung ist unabhaengig von Mittellosigkeit (§ 140 StPO), aber bei Eigenantrag nach § 140 Abs. 2 StPO sollte Beduerfftigkeit ergaenzend dargelegt werden.
-3. **Hat der Mandant einen Wunschverteidiger?** — Mandant hat Recht auf Wahlverteidiger; wenn dieser nicht erschwinglich, Beiordnung des Wunschverteidigers als Pflichtverteidiger nach § 142 Abs. 5 StPO moeglich.
+3. **Hat der Mandant einen Wunschverteidiger?** — Mandant hat Recht auf Wahlverteidiger; wenn dieser nicht erschwinglich, Beiordnung des Wunschverteidigers als Pflichtverteidiger nach § 142 Abs. 5 StPO möglich.
 4. **Ist die Beiordnung bereits beantragt?** — Antrag kann von Staatsanwalt, Gericht oder Beschuldigtem gestellt werden (§ 141 Abs. 1 StPO).
 5. **Bestellung im laufenden Strafbefehlsverfahren?** — Nach Einspruch gilt ab Hauptverhandlung die Pflichtverteidiger-Pflicht wenn Freiheitsstrafe mit Bewaehrung im Raum steht.
 
@@ -36,7 +36,7 @@ Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendi
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Geltungsgrundlagen: § 140 StPO i. d. F. nach RL (EU) 2016/1919 (PKH-Richtlinie Strafverfahren), umgesetzt seit Dezember 2019, weiterhin maßgeblich; Aktualisierungen vor Ausgabe in dejure.org / openjur.de pruefen.
+- Geltungsgrundlagen: § 140 StPO i. d. F. nach RL (EU) 2016/1919 (PKH-Richtlinie Strafverfahren), umgesetzt seit Dezember 2019, weiterhin maßgeblich; Aktualisierungen vor Ausgabe in dejure.org / openjur.de prüfen.
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur notwendigen Verteidigung im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 140 StPO Strafbefehl" durchführen.
 
 ## Entscheidungsbaum Pflichtverteidiger-Bestellung

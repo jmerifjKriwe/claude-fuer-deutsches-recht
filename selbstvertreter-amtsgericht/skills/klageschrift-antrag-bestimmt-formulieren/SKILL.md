@@ -29,7 +29,7 @@ Der Klageantrag ist das **Herzstueck** Ihrer Klage. Er bestimmt, was das Gericht
 - **§ 256 ZPO** — Feststellungsklage.
 - **§ 254 ZPO** — Stufenklage.
 - **§ 261 III Nr. 2 ZPO** — Streitgegenstand-Definition.
-- **§ 308 ZPO** — Gericht entscheidet nicht ueber mehr als beantragt.
+- **§ 308 ZPO** — Gericht entscheidet nicht über mehr als beantragt.
 
 ## Schritt-für-Schritt-Anleitung
 
@@ -55,8 +55,8 @@ Der Beklagte wird verurteilt, an den Klaeger
 
 Konkrete Beispiele:
 
-- "Der Beklagte wird verurteilt, an die Klaegerin 2.450,50 EUR nebst Zinsen in Hoehe von 5 Prozentpunkten ueber dem Basiszinssatz seit 1.5.2025 zu zahlen."
-- "Der Beklagte wird verurteilt, an den Klaeger 1.200 EUR Zug um Zug gegen Rueckgabe des Sofas zu zahlen."
+- "Der Beklagte wird verurteilt, an die Klaegerin 2.450,50 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 1.5.2025 zu zahlen."
+- "Der Beklagte wird verurteilt, an den Kläger 1.200 EUR Zug um Zug gegen Rueckgabe des Sofas zu zahlen."
 
 ### Schritt 3 — Herausgabe-Antrag
 
@@ -69,7 +69,7 @@ Der Beklagte wird verurteilt, dem Klaeger
 
 Konkretes Beispiel:
 
-- "Der Beklagte wird verurteilt, dem Klaeger das in seinem Besitz befindliche Notebook der Marke X, Modell Y, Seriennummer Z, herauszugeben."
+- "Der Beklagte wird verurteilt, dem Kläger das in seinem Besitz befindliche Notebook der Marke X, Modell Y, Seriennummer Z, herauszugeben."
 
 Bezeichnung muss so eindeutig sein, dass der Gerichtsvollzieher die Sache identifizieren kann.
 
@@ -89,7 +89,7 @@ zu 6 Monaten angedroht.
 
 Konkretes Beispiel:
 
-- "Der Beklagte wird verurteilt, es zu unterlassen, in seinem Garten ueber 22 Uhr Musik in einer Lautstaerke von mehr als 60 Dezibel abzuspielen."
+- "Der Beklagte wird verurteilt, es zu unterlassen, in seinem Garten über 22 Uhr Musik in einer Lautstaerke von mehr als 60 Dezibel abzuspielen."
 
 ### Schritt 5 — Feststellungs-Antrag
 
@@ -101,7 +101,7 @@ Es wird festgestellt, dass [Rechtsverhaeltnis].
 
 Konkretes Beispiel:
 
-- "Es wird festgestellt, dass die Forderung des Beklagten aus Rechnung Nr. 123 vom 5.3.2025 in Hoehe von 2.000 EUR nicht besteht."
+- "Es wird festgestellt, dass die Forderung des Beklagten aus Rechnung Nr. 123 vom 5.3.2025 in Höhe von 2.000 EUR nicht besteht."
 
 Voraussetzung: Feststellungs-Interesse (§ 256 ZPO).
 
@@ -117,7 +117,7 @@ Hilfsweise: Der Beklagte wird verurteilt, ...
 
 Beispiel:
 
-- "Hilfsweise (für den Fall, dass der Hauptantrag nicht durchdringt): Der Beklagte wird verurteilt, an den Klaeger 1.000 EUR zu zahlen."
+- "Hilfsweise (für den Fall, dass der Hauptantrag nicht durchdringt): Der Beklagte wird verurteilt, an den Kläger 1.000 EUR zu zahlen."
 
 ### Schritt 7 — Kostenantrag
 
@@ -152,13 +152,13 @@ Antraege:
  erklaert.
 ```
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Konkretheit**: "Schadensersatz" reicht nicht — Sie muessen den Betrag nennen.
+- **Konkretheit**: "Schadensersatz" reicht nicht — Sie müssen den Betrag nennen.
 - **Identitaet der Sache**: Bei Herausgabe so genau, dass eindeutig identifizierbar.
 - **Zinsbeginn**: Immer Datum nennen (Verzug, Klageeinreichung etc.).
 - **Mehrere Streitgegenstaende**: Wenn Sie mehrere Ansprueche geltend machen, jeden Antrag separat formulieren.
-- **§ 308 ZPO**: Gericht entscheidet nur ueber das Beantragte. Wenn Sie 5.000 EUR beantragen und 6.000 EUR zustehen wuerden, bekommen Sie nur 5.000 EUR.
+- **§ 308 ZPO**: Gericht entscheidet nur über das Beantragte. Wenn Sie 5.000 EUR beantragen und 6.000 EUR zustehen wuerden, bekommen Sie nur 5.000 EUR.
 
 ## Typische Fehler
 

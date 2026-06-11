@@ -55,7 +55,7 @@ ALR I 6 ist die Heimat des Delikts- und Schadensersatzrechts vor dem BGB. Es kom
 
 ### Heutige Fortwirkung
 - BGB §§ 823 ff. haben die ALR-Vorschriften abgeloest.
-- Verschuldensstufen wirken im modernen Privatrecht und im Schweizer Obligationenrecht (Schweiz ist hier ALR-naeher als BGB).
+- Verschuldensstufen wirken im modernen Privatrecht und im Schweizer Obligationenrecht (Schweiz ist hier ALR-näher als BGB).
 - Tierhalterhaftung (§ 833 BGB) ist konzeptionell der ALR-Tierhalterhaftung verwandt, aber ohne deren Kasuistik.
 
 ### Beruehmte Faelle / Personen

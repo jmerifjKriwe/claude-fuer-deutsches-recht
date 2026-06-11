@@ -147,11 +147,11 @@ In deutschen SPA-Formulierungen wird MAC häufig als "wesentliche nachteilige Ve
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Vollzug einer gesellschaftsrechtlichen Transaktion pruefen | Vollzugscheckliste nach Schema; Template unten |
+| Standard — Vollzug einer gesellschaftsrechtlichen Transaktion prüfen | Vollzugscheckliste nach Schema; Template unten |
 | Variante A — Transaktion nur teilweise vollzogen Restpflichten | Restpflichtenprotokoll erstellen; Nachvollzug koordinieren |
 | Variante B — Closing bedingungen noch offen Conditions Precedent | CPs separat listen; Vollzug erst nach CPs-Erfuellung |
 | Variante C — Nachlaufende Pflichten Meldefrist Kartellrecht | Post-Closing-Checkliste als Ergaenzung |
@@ -474,10 +474,10 @@ Eskalation an: [PERSON / GREMIUM]
 ## Rote Schwellen
 
 - **Fusionskontrollanmeldung nicht eingereicht, Closing-Datum in < 4 Wochen** — Vollzugsverbot § 41 GWB; unverzueglich anmelden; Pre-Filing-Gespraeche starten.
-- **FDI-Screeningpflicht unklar und kein freiwilliger Antrag** — nachtraegliche Untersagung moeglich (§ 62 AWV); Rechtsabteilung BMWK konsultieren.
+- **FDI-Screeningpflicht unklar und kein freiwilliger Antrag** — nachtraegliche Untersagung möglich (§ 62 AWV); Rechtsabteilung BMWK konsultieren.
 - **AR-Zustimmung fehlt und Closing morgen** — Vollzug ohne Zustimmung kann § 179a AktG-Analogiefehler ausloesen; Sondersitzung AR einberufen.
 - **Notar nicht gebucht, Closing in < 2 Wochen** — § 15 Abs. 3, 4 GmbHG: Beurkundungspflicht; Notare haben Vorlaufzeiten; sofort buchen.
-- **MAC-Klausel-Ausloesungsrisiko erkannt** — Vertragsdefinition analysieren; ggf. Kaufpreisanpassung verhandeln; § 313 BGB subsidiaer pruefen.
+- **MAC-Klausel-Ausloesungsrisiko erkannt** — Vertragsdefinition analysieren; ggf. Kaufpreisanpassung verhandeln; § 313 BGB subsidiaer prüfen.
 
 ## Was dieser Skill nicht tut
 

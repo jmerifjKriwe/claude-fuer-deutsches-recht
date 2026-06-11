@@ -15,12 +15,12 @@ description: "Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur 
 
 Recht entsteht im modernen Verfassungsstaat nicht nur durch den staatlichen Gesetzgeber. Der Begriff "Rechtspluralismus" beschreibt die empirische Tatsache, dass mehrere normative Ordnungen nebeneinander oder uebereinander gelten — staatlich, supranational, transnational, regional, kommunal, beruflich, religioes, gesellschaftlich.
 
-Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-Recht, Bundesrecht, Landesrecht, Kommunalrecht, Selbstverwaltungsrecht (Handwerk, IHK, Anwaltskammern), transnationale Normen (lex mercatoria, INCOTERMS, CISG), private Regelwerke (DIN, VOB, FIDIC).
+Für das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-Recht, Bundesrecht, Landesrecht, Kommunalrecht, Selbstverwaltungsrecht (Handwerk, IHK, Anwaltskammern), transnationale Normen (lex mercatoria, INCOTERMS, CISG), private Regelwerke (DIN, VOB, FIDIC).
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie pruefen ein Sachverhalt, in dem mehrere Rechtsordnungen kollidieren koennten.
-- Sie streiten ueber die Anwendbarkeit von Unionsrecht, internationalen Konventionen oder privaten Regelwerken.
+- Sie prüfen ein Sachverhalt, in dem mehrere Rechtsordnungen kollidieren koennten.
+- Sie streiten über die Anwendbarkeit von Unionsrecht, internationalen Konventionen oder privaten Regelwerken.
 - Sie arbeiten in einem grenzueberschreitenden Sachverhalt (Verbraucher-IPR, Unternehmensvertraege, Bauvertraege).
 - Sie wollen die Mehrebenenstruktur im Schriftsatz sichtbar machen, um den Bundesrechts-Tunnelblick zu vermeiden.
 - Sie unterrichten Rechtsvergleichung oder europaeisches Privatrecht.
@@ -35,7 +35,7 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 - Gunther Teubner, "Globale Bukowina: Zur Emergenz eines transnationalen Rechtspluralismus", in: Rechtshistorisches Journal 1996. Teubner uebertraegt die Pluralismus-Theorie auf die Globalisierung und beschreibt die "lex mercatoria" als transnationales Recht.
 - Andreas Fischer-Lescano / Gunther Teubner, "Regime-Kollisionen: Zur Fragmentierung des globalen Rechts", 2006.
 
-**Kernthese:** Recht ist nicht identisch mit Staatsrecht. Mehrere Rechtsordnungen koennen gleichzeitig auf denselben Sachverhalt zugreifen — mit unterschiedlichen Loesungen.
+**Kernthese:** Recht ist nicht identisch mit Staatsrecht. Mehrere Rechtsordnungen können gleichzeitig auf denselben Sachverhalt zugreifen — mit unterschiedlichen Loesungen.
 
 **Strukturelemente des Mehrebenen-Systems Deutschland:**
 
@@ -60,20 +60,20 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 **Beispiel DSGVO:** Verordnung mit unmittelbarer Geltung. § 1004 BGB analog und Art. 82 DSGVO stehen nebeneinander; der Schadensbegriff wird autonom-unionsrechtlich ausgelegt, nicht nach §§ 249 ff. BGB.
 
-**Beispiel kommunale Bauordnung:** Im Streit ueber Nachbarrecht koennen kommunale Satzungen (Bebauungsplan) ueber Landesbauordnung neben § 906 BGB stehen.
+**Beispiel kommunale Bauordnung:** Im Streit über Nachbarrecht können kommunale Satzungen (Bebauungsplan) über Landesbauordnung neben § 906 BGB stehen.
 
 ## Schritt-für-Schritt
 
 1. **Sachverhalt vorlegen.** Welche Akteure, welche Orte, welche Rechtsbereiche?
-2. **Anwendbares Recht pruefen.** IPR-Analyse: Rom-I-VO, Rom-II-VO, HUEbk, autonome Anknuepfungen.
+2. **Anwendbares Recht prüfen.** IPR-Analyse: Rom-I-VO, Rom-II-VO, HUEbk, autonome Anknuepfungen.
 3. **Mehrebenenstruktur identifizieren.** Welche Normen koennten parallel greifen — staatlich, supranational, transnational, privat?
-4. **Vorrangregeln pruefen.** Unionsrecht vor nationalem Recht (Art. 4 Abs. 3 EUV; Costa/ENEL). Spezialgesetze vor allgemeinen Gesetzen. Internationale Konventionen nach Ratifikation.
-5. **Wertungskonflikte pruefen.** Welche Rechtsordnung wertet wie? Wo entsteht Spannung?
+4. **Vorrangregeln prüfen.** Unionsrecht vor nationalem Recht (Art. 4 Abs. 3 EUV; Costa/ENEL). Spezialgesetze vor allgemeinen Gesetzen. Internationale Konventionen nach Ratifikation.
+5. **Wertungskonflikte prüfen.** Welche Rechtsordnung wertet wie? Wo entsteht Spannung?
 6. **Mandatsstrategie formulieren.** Welcher Ebene und welcher Norm-Argumentation folgt das Mandat?
 
 ## Typische Fehler / Kritik
 
-- **Nur BGB.** Wer in Mandaten mit grenzueberschreitendem oder unionsrechtlichem Bezug nur das BGB prueft, uebersieht oft das vorrangig anwendbare Recht.
+- **Nur BGB.** Wer in Mandaten mit grenzueberschreitendem oder unionsrechtlichem Bezug nur das BGB prüft, uebersieht oft das vorrangig anwendbare Recht.
 - **CISG vergessen.** Bei B2B-Warenkauf mit Auslandsbezug ist CISG Standard — nicht das BGB.
 - **DSGVO mit § 823 BGB lesen.** Art. 82 DSGVO ist autonom; BGB-Schadensbegriff ist nicht direkt anwendbar.
 - **Private Regelwerke unterschaetzen.** DIN-Normen sind nicht Gesetz, aber sie wirken als Konkretisierung der Verkehrserwartung (§ 242 BGB) und der Mangelhaftigkeit (§ 434 BGB).

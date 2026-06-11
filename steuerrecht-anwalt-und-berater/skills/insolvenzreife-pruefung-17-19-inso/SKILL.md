@@ -116,12 +116,12 @@ Der Steueranwalt ist typischerweise der erste Berater, der erkennt, dass seine M
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Insolvenzreife pruefend im steuerrechtlichen Kontext | Insolvenzreife-Pruefung nach Schema; Schriftsatz unten |
-| Variante A — Steuerschulden dominieren Insolvenzgrund | Stundungsantrag FA parallel; Insolvenzantrag vermeiden wenn moeglich |
+| Standard — Insolvenzreife pruefend im steuerrechtlichen Kontext | Insolvenzreife-Prüfung nach Schema; Schriftsatz unten |
+| Variante A — Steuerschulden dominieren Insolvenzgrund | Stundungsantrag FA parallel; Insolvenzantrag vermeiden wenn möglich |
 | Variante B — Insolvenzreife durch Betriebspruefungs-Nachforderung | Rechtsmittel gegen Steuerbescheid parallel; Insolvenz aufschieben |
 | Variante C — Steuerpflichtiger will Betrieb aufgeben | Geordnete Abwicklung statt Insolvenz; Steuerpflichten beachten |
 
@@ -274,7 +274,7 @@ Unterschrift RA: ___________________
 Datum: ___________________________
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

@@ -38,12 +38,12 @@ Replik: Detailreichtum ist eines von 19 CBCA-Kriterien nach Steller/Koehnken und
 Replik: Konstanz indiziert nicht zwingend Erlebnisbasiertheit. Eine durch mehrfache Wiederholung verfestigte Aussage (Skripteffekt) ist hochkonstant — und kann dennoch nicht erlebnisbasiert sein. Konstanz allein traegt nicht.
 
 **StA: "Die Inkonstanzen sind traumatypisch."**
-Replik: Inkonstanzen koennen traumatypisch sein, koennen aber auch Anzeichen rekonstruktiver Erinnerungsformung sein. Die Differenzierung erfordert aussagepsychologische Sachverstaendigenpruefung; eine pauschale Trauma-Erklaerung ersetzt diese Pruefung nicht. Eine PTBS-Symptomatik beweist zudem nicht die behauptete Tatsache als Stressor.
+Replik: Inkonstanzen können traumatypisch sein, können aber auch Anzeichen rekonstruktiver Erinnerungsformung sein. Die Differenzierung erfordert aussagepsychologische Sachverstaendigenpruefung; eine pauschale Trauma-Erklaerung ersetzt diese Prüfung nicht. Eine PTBS-Symptomatik beweist zudem nicht die behauptete Tatsache als Stressor.
 
 **StA: "Die Zeugin hat kein Motiv zur Falschbeschuldigung."**
 Replik: Falschaussage erfordert nicht zwingend ein bewusstes Motiv. Suggestion und Falscherinnerung entstehen ohne instrumentelles Motiv. Eine subjektiv ueberzeugte und ehrliche Zeugin kann eine objektiv falsche Aussage machen. Motiv-Argumente adressieren die Luegen-, nicht die Suggestionshypothese.
 
-**StA: "Die Zeugin hat sich erst Jahre spaeter offenbart, was für Trauma spricht."**
+**StA: "Die Zeugin hat sich erst Jahre später offenbart, was für Trauma spricht."**
 Replik: Lange Latenz kann auch das Suggestionsrisiko erhoehen (mehr Gelegenheit zur Kontamination, mehr therapeutische Aufdeckung, mehr soziale Konstruktion). Latenz allein indiziert weder Erlebnis noch Falschaussage.
 
 **StA: "Der Angeklagte hat in der Vernehmung ausweichend reagiert."**
@@ -83,10 +83,10 @@ Im Plaedoyer arbeiten Sie strukturiert in zwei Schritten: erstens die StA-Argume
 ## Mustertexte
 
 **Mustersatz für Plaedoyer-Einleitung:**
-"Die Anklageschrift fuehrt aus, die Zeugin habe glaubwuerdig ausgesagt, ihre Aussage sei detailreich, konstant und traumatypisch. Bitte verzeihen Sie, dass ich an dieser Stelle methodisch eingreife: Glaubwuerdigkeit der Person ist nicht das aussagepsychologische Pruefkriterium. Detailreichtum allein ist nicht hinreichend. Konstanz kann auch Skripteffekt sein. Und Trauma-Symptome beweisen den Stressor nicht, sondern nur die Reaktion. Massgeblich ist nach der staendigen Rechtsprechung des BGH (1 StR 618/98) die methodische Pruefung der Aussage nach der Hypothesen-gegen-Hypothesen-Methode."
+"Die Anklageschrift fuehrt aus, die Zeugin habe glaubwuerdig ausgesagt, ihre Aussage sei detailreich, konstant und traumatypisch. Bitte verzeihen Sie, dass ich an dieser Stelle methodisch eingreife: Glaubwuerdigkeit der Person ist nicht das aussagepsychologische Pruefkriterium. Detailreichtum allein ist nicht hinreichend. Konstanz kann auch Skripteffekt sein. Und Trauma-Symptome beweisen den Stressor nicht, sondern nur die Reaktion. Massgeblich ist nach der staendigen Rechtsprechung des BGH (1 StR 618/98) die methodische Prüfung der Aussage nach der Hypothesen-gegen-Hypothesen-Methode."
 
 **Mustersatz für Plaedoyer-Schluss:**
-"Die methodische Pruefung der Aussage nach der Rechtsprechung des BGH ergibt: Die Wahrhypothese ist nicht mit hinreichender Sicherheit gestuetzt. Die Suggestionshypothese — aufgrund der dokumentierten Mehrfachvernehmungen, der therapeutischen Aufdeckung, der sozialen Kontextualisierung — bleibt eine ernstzunehmende Alternative. Die Null-Hypothese ist nicht widerlegt. Damit greift in dubio pro reo. Mein Mandant ist freizusprechen."
+"Die methodische Prüfung der Aussage nach der Rechtsprechung des BGH ergibt: Die Wahrhypothese ist nicht mit hinreichender Sicherheit gestuetzt. Die Suggestionshypothese — aufgrund der dokumentierten Mehrfachvernehmungen, der therapeutischen Aufdeckung, der sozialen Kontextualisierung — bleibt eine ernstzunehmende Alternative. Die Null-Hypothese ist nicht widerlegt. Damit greift in dubio pro reo. Mein Mandant ist freizusprechen."
 
 ## Quellen Stand 06/2026
 

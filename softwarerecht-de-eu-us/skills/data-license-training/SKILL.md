@@ -15,7 +15,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 69d UrhG` — bestimmungsgemaesse Benutzung.
 - `§ 69e UrhG` — Dekompilierung.
 - `§ 31 UrhG` — Einraeumung von Nutzungsrechten.
-- `§ 32 UrhG` — angemessene Verguetung.
+- `§ 32 UrhG` — angemessene Vergütung.
 - `§ 305 BGB` — AGB-Einbeziehung.
 - `§ 307 Abs. 1 BGB` — AGB-Inhaltskontrolle.
 - `Art. 5 Abs. 1 DSGVO` — Datenschutz bei Softwarebetrieb.

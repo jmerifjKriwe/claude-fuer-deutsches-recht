@@ -41,12 +41,12 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
  | Multilateraler AVV | Alle Konzerngesellschaften unterzeichnen gemeinsam | Wenige Gesellschaften, hohe Datenkritikalitaet |
  | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter für Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
 
-3. **Rollenmix klaeren.**
+3. **Rollenmix klären.**
  - Mutter als Auftragsverarbeiterin der Toechter setzt voraus, dass die Mutter weisungsgebunden ist.
  - Wenn die Mutter eigenstaendige Konzernzwecke verfolgt (Konzernsteuerung, Reporting), liegt regelmaessig Art. 26 DSGVO oder eigene Verantwortlichkeit vor.
  - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: weite Auslegung gemeinsamer Verantwortlichkeit.
 
-4. **Drittlandbezug pruefen.**
+4. **Drittlandbezug prüfen.**
  - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 für jede Konzerngesellschaft im Drittland.
  - DPF nur für US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
 
@@ -61,7 +61,7 @@ Konzern-AVV-Klauseln (Auszug):
 
 > "Praeambel
 >
-> Diese Vereinbarung wird zwischen dem Auftragsverarbeiter und [Muttergesellschaft] als koordinierender Konzerngesellschaft geschlossen. Weitere Konzerngesellschaften im Sinne des § 15 AktG koennen dieser Vereinbarung durch Unterzeichnung der Beitrittsanlage (Anlage 5) beitreten. Mit Wirkung der Beitrittsanlage ist die beitretende Konzerngesellschaft Verantwortliche im Sinne dieser Vereinbarung; ihre Rechte und Pflichten richten sich nach den Bestimmungen dieser Vereinbarung.
+> Diese Vereinbarung wird zwischen dem Auftragsverarbeiter und [Muttergesellschaft] als koordinierender Konzerngesellschaft geschlossen. Weitere Konzerngesellschaften im Sinne des § 15 AktG können dieser Vereinbarung durch Unterzeichnung der Beitrittsanlage (Anlage 5) beitreten. Mit Wirkung der Beitrittsanlage ist die beitretende Konzerngesellschaft Verantwortliche im Sinne dieser Vereinbarung; ihre Rechte und Pflichten richten sich nach den Bestimmungen dieser Vereinbarung.
 >
 > § 1 Verarbeitungstaetigkeiten
 >
@@ -69,7 +69,7 @@ Konzern-AVV-Klauseln (Auszug):
 >
 > § 2 Weisungsrechte und Weisungsregister
 >
-> Jede Konzerngesellschaft erteilt Weisungen ausschliesslich für die sie betreffenden Verarbeitungen. Konzernweit gueltige Weisungen werden vom Konzern-Datenschutzbeauftragten dokumentiert. Der Auftragsverarbeiter fuehrt für jede Konzerngesellschaft ein eigenes Weisungsregister.
+> Jede Konzerngesellschaft erteilt Weisungen ausschließlich für die sie betreffenden Verarbeitungen. Konzernweit gueltige Weisungen werden vom Konzern-Datenschutzbeauftragten dokumentiert. Der Auftragsverarbeiter fuehrt für jede Konzerngesellschaft ein eigenes Weisungsregister.
 >
 > § 3 Konzerngesamtleitung und Kommunikation
 >
@@ -92,7 +92,7 @@ Konzern-AVV-Klauseln (Auszug):
 
 - DSGVO Art. 28, Art. 26, Art. 47 sowie ErwGr. 36 und 48.
 - BDSG § 26.
-- EuGH C-498/16 (Wirtschaftsakademie) – verifiziert; Volltext ueber curia.europa.eu.
+- EuGH C-498/16 (Wirtschaftsakademie) – verifiziert; Volltext über curia.europa.eu.
 - EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021).
 - EU-Kommission Beschluss (EU) 2021/914 mit Docking Clause (Klausel 7).
 - Zitierweise: `../../../references/zitierweise.md`.

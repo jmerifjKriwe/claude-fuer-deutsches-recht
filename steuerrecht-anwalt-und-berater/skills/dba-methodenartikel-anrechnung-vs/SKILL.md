@@ -15,7 +15,7 @@ description: "Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl
 
 ## Kernsachverhalt
 
-Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird die im Ausland besteuerte Einkunft im Wohnsitzstaat behandelt? Deutsche DBA verwenden ueberwiegend die Freistellungsmethode mit Progressionsvorbehalt (Art. 23A MA), in bestimmten Faellen die Anrechnungsmethode (Art. 23B MA). Daneben greifen nationale Rueckfallklauseln (§ 50d Abs. 8, 9 EStG) und der Switch-Over (§ 20 Abs. 2 AStG). Führe durch die Methoden-Pruefung und liefert das Berechnungsschema.
+Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird die im Ausland besteuerte Einkunft im Wohnsitzstaat behandelt? Deutsche DBA verwenden ueberwiegend die Freistellungsmethode mit Progressionsvorbehalt (Art. 23A MA), in bestimmten Faellen die Anrechnungsmethode (Art. 23B MA). Daneben greifen nationale Rueckfallklauseln (§ 50d Abs. 8, 9 EStG) und der Switch-Over (§ 20 Abs. 2 AStG). Führe durch die Methoden-Prüfung und liefert das Berechnungsschema.
 
 ## Kaltstart-Rueckfragen
 
@@ -26,7 +26,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 5. Greift § 50d Abs. 9 EStG (Subject-to-Tax-Klausel mit Rueckfall) wegen Nichtbesteuerung im Quellenstaat?
 6. Greift § 20 Abs. 2 AStG (Switch-Over bei niedrig besteuerter Betriebsstaette)?
 7. Wurden Nachweise der ausländischen Besteuerung (Steuerbescheid, Quellensteuerbescheinigung, BZSt-Formulare) eingereicht?
-8. Liegen begleitende deutsche Anlagen (Anlage AUS, Anlage N-AUS) bereits vor oder muessen sie erstellt werden?
+8. Liegen begleitende deutsche Anlagen (Anlage AUS, Anlage N-AUS) bereits vor oder müssen sie erstellt werden?
 
 ## Rechtlicher Rahmen
 
@@ -40,7 +40,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 - **§ 50d Abs. 8 EStG** — Subject-to-Tax bei Arbeitseinkuenften.
 - **§ 50d Abs. 9 EStG** — generelle Subject-to-Tax-Klausel mit Wechsel zur Anrechnung.
 - **§ 50d Abs. 10 EStG** — Klarstellung Sondervergaben Personengesellschafter.
-- **§ 20 Abs. 2 AStG** — Switch-Over bei niedrig besteuerter passiver Betriebsstaette (Steuersatz unter 25 Prozent; nach AStG-Reform 2022 gilt weiterhin die 25-Prozent-Niedrigsteuer-Schwelle gemaess § 8 Abs. 5 AStG n.F. — aktuellen BMF-Stand im Einzelfall pruefen).
+- **§ 20 Abs. 2 AStG** — Switch-Over bei niedrig besteuerter passiver Betriebsstaette (Steuersatz unter 25 Prozent; nach AStG-Reform 2022 gilt weiterhin die 25-Prozent-Niedrigsteuer-Schwelle gemäß § 8 Abs. 5 AStG n.F. — aktuellen BMF-Stand im Einzelfall prüfen).
 - **§ 7 ff. AStG** — Hinzurechnungsbesteuerung als verwandtes Instrument.
 - **§ 26 KStG** — Anrechnung im KStG-Bereich.
 
@@ -49,8 +49,8 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 - Aktuelle BFH-Rechtsprechung zu Aktivitaetsklauseln in freier amtlicher Quelle abrufen.
 - Aktuelle BFH-Rechtsprechung zu Subject-to-Tax-Klauseln in freier amtlicher Quelle abrufen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BMF-Schreiben zur Anwendung des § 34c EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
-- BMF-Schreiben zur Anrechnungsmethode und Per-Country-Limitation — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zur Anwendung des § 34c EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
+- BMF-Schreiben zur Anrechnungsmethode und Per-Country-Limitation — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Land-spezifisches
 
@@ -59,7 +59,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 - Auslaendische Einkunft wird in Deutschland von der Steuerbemessungsgrundlage ausgenommen.
 - Aufgrund § 32b EStG erhoeht sie aber den durchschnittlichen Steuersatz auf das verbleibende inlaendische Einkommen.
 - Wirkt sich nur aus, wenn andere inlaendische Einkuenfte existieren.
-- Voraussetzung haeufig: Aktivitaetsklausel (echtes Geschaeft im Ausland).
+- Voraussetzung haeufig: Aktivitaetsklausel (echtes Geschäft im Ausland).
 - Anlage AUS / Anlage N-AUS dient der Erfassung.
 
 ### Anrechnungsmethode
@@ -74,11 +74,11 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 - Viele aeltere DBA setzen für Freistellung Aktivitaeten voraus (z.B. produzierendes Gewerbe, Handel, Bank-/Versicherungsgeschaeft).
 - Reine Verwaltungstaetigkeiten (Holding, Vermoegensverwaltung) fallen in die Anrechnung.
-- Klauseltexte variieren stark — DBA-Text und Protokoll im Einzelfall konkret pruefen.
+- Klauseltexte variieren stark — DBA-Text und Protokoll im Einzelfall konkret prüfen.
 
 ### Subject-to-Tax-Klauseln
 
-- DBA-interne Subject-to-Tax (z.B. DBA-Italien Art. 24, DBA-Oesterreich Protokoll) — **konkret im DBA pruefen**.
+- DBA-interne Subject-to-Tax (z.B. DBA-Italien Art. 24, DBA-Oesterreich Protokoll) — **konkret im DBA prüfen**.
 - Nationale Subject-to-Tax § 50d Abs. 8, 9 EStG ueberlagert.
 - Folge: Wechsel von Freistellung zu Anrechnung, wenn der andere Staat sein Besteuerungsrecht nicht ausuebt.
 
@@ -86,23 +86,23 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 - Anwendbar bei ausländischen Betriebsstaetten.
 - Voraussetzung: passive Einkuenfte und niedrige Besteuerung.
-- AStG-Reform 2022: Niedrigsteuer-Schwelle betraegt weiterhin 25 Prozent gemaess § 8 Abs. 5 AStG n.F. — aktuellen Anwendungserlass im Einzelfall pruefen.
+- AStG-Reform 2022: Niedrigsteuer-Schwelle betraegt weiterhin 25 Prozent gemäß § 8 Abs. 5 AStG n.F. — aktuellen Anwendungserlass im Einzelfall prüfen.
 
 ## Workflow
 
 ### Phase 1 — DBA-Methode bestimmen
 
-1. Methodenartikel im konkreten DBA pruefen (Freistellung oder Anrechnung).
-2. Aktivitaetsklausel pruefen.
-3. Subject-to-Tax-Klausel im DBA pruefen.
+1. Methodenartikel im konkreten DBA prüfen (Freistellung oder Anrechnung).
+2. Aktivitaetsklausel prüfen.
+3. Subject-to-Tax-Klausel im DBA prüfen.
 
-### Phase 2 — Nationale Rueckfallklauseln pruefen
+### Phase 2 — Nationale Rueckfallklauseln prüfen
 
 1. § 50d Abs. 8 EStG (Arbeitnehmer): Besteuerungsnachweis vorgelegt?
 2. § 50d Abs. 9 EStG (allgemein): Wurde im Ausland tatsaechlich besteuert? Konflikt durch unterschiedliche Qualifikation?
 3. § 50d Abs. 10 EStG (Personengesellschafter): Sondervergueten korrekt zugeordnet?
 
-### Phase 3 — Switch-Over pruefen
+### Phase 3 — Switch-Over prüfen
 
 1. Betriebsstaetten-Einkuenfte?
 2. Passive Einkuenfte iSd § 8 Abs. 1 AStG?
@@ -111,7 +111,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 ### Phase 4 — Berechnung
 
 1. Bei Freistellung: Progressionsvorbehalt § 32b EStG berechnen (Hinzurechnung zur Bemessungsgrundlage, dann Durchschnittssteuersatz für inlaendisches Einkommen).
-2. Bei Anrechnung: Per-Country-Limitation pruefen — auslaendische Steuer nur bis zur deutschen Steuer auf diese Einkuenfte anrechenbar.
+2. Bei Anrechnung: Per-Country-Limitation prüfen — auslaendische Steuer nur bis zur deutschen Steuer auf diese Einkuenfte anrechenbar.
 3. Anlage AUS (private und betriebliche auslaendische Einkuenfte) bzw. N-AUS (Arbeitnehmer) ausfuellen.
 
 ### Phase 5 — Dokumentation
@@ -124,7 +124,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 - Wahlrecht § 34c Abs. 2 EStG (Abzug statt Anrechnung) ist immer dann sinnvoll, wenn die deutsche Steuer auf die Einkunft zu gering für volle Anrechnung waere (negatives Hochrechnungsergebnis).
 - Bei mehreren Quellenstaaten: Per-Country-Limitation getrennt pro Land berechnen, nicht aggregieren.
-- Subject-to-Tax-Klauseln ueberraschen oft bei Beteiligten passiver Einkuenfte (z.B. Lizenz an Steueroase) — frueh pruefen.
+- Subject-to-Tax-Klauseln ueberraschen oft bei Beteiligten passiver Einkuenfte (z.B. Lizenz an Steueroase) — frueh prüfen.
 - AStG-Reform 2022 hat Niedrigsteuerschwelle geaendert — **bei jedem konkreten Fall aktuelle Schwelle prufen**.
 - Bei kombinierten Konstellationen (DBA-Freistellung plus Hinzurechnung § 7 ff. AStG): Doppelbesteuerung droht — Switch-Over-Argumentation.
 
@@ -134,7 +134,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 - **Umrechnungskurs Tag der Steuerentstehung**: Anlage AUS verlangt EZB-Referenzkurs am Tag der Steuerentstehung — Beleg aus dem EZB-Archiv mitliefern (statistical data warehouse, sdw.ecb.europa.eu).
 - **Anlage AUS und Anlage N-AUS NICHT verwechseln**: AUS für Kapitaleinkuenfte und gewerbliche/Betriebs-Auslandseinkuenfte; N-AUS für Lohneinkuenfte. Falsches Formular fuehrt zur Komplett-Ablehnung der Anrechnung im Erstprueflauf.
 - **Per-Country-Limitation getrennt pro Staat berechnen**: nicht aggregiert. Bei drei Quellenstaaten drei Berechnungen. FA gibt Bescheid sonst mit Nachfrageauftrag zurueck.
-- **§ 50d Abs. 9 Satz 1 Nr. 1 vs. Nr. 2 EStG sauber abgrenzen**: Nr. 1 (Qualifikationskonflikt) und Nr. 2 (Subject-to-Tax in dubio) haben unterschiedliche Voraussetzungen. Pruefer schreiben Memo, wenn nur "§ 50d Abs. 9 EStG" pauschal zitiert wird.
+- **§ 50d Abs. 9 Satz 1 Nr. 1 vs. Nr. 2 EStG sauber abgrenzen**: Nr. 1 (Qualifikationskonflikt) und Nr. 2 (Subject-to-Tax in dubio) haben unterschiedliche Voraussetzungen. Prüfer schreiben Memo, wenn nur "§ 50d Abs. 9 EStG" pauschal zitiert wird.
 
 ## Trade-off-Tabelle
 
@@ -143,10 +143,10 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 | Freistellung mit Progression vs. Anrechnung | Auslandseinkuenfte unter Progressionsvorbehalt, deutsche Steuer auf Inland | Auslandseinkuenfte ins Welteinkommen, dann Anrechnung | bei aktiven Auslandseinkuenften und hoher dortiger Besteuerung Freistellung; bei niedriger dortiger Besteuerung oft Anrechnung gleich oder besser |
 | Anrechnung § 34c Abs. 1 vs. Abzug § 34c Abs. 2 EStG | Anrechnung — direkte Verrechnung mit deutscher Steuer | Abzug — auslaendische Steuer als Betriebsausgabe/Werbungskosten | Abzug nur, wenn deutsche Steuer auf Auslandseinkuenfte 0 oder gering — sonst immer Anrechnung |
 | Pauschalierung § 34c Abs. 5 EStG vs. Einzelfallanrechnung | 25-Prozent-Pauschale auf bestimmte Auslandseinkuenfte | konkrete Anrechnung nach Bescheid | Pauschale nur in BMF-Liste; konkrete Anrechnung regelmaessig vorteilhaft |
-| § 50d Abs. 9 EStG akzeptieren vs. anfechten | Switch zu Anrechnung hinnehmen | Klage gegen Wechsel, Verstaendigungsverfahren | bei strittiger Qualifikationsfrage anfechten — BFH hat Subject-to-Tax-Klauseln mehrfach restriktiv ausgelegt (laufende Rspr. live pruefen) |
-| Per-Country-Limitation umgehen via Holding | Mehrere Quellenstaaten ueber EU-Holding buendeln | direkter Bezug, individuelle Per-Country-Limitation | bei reiner Optimierung scheitert Pfad A an § 50d Abs. 3 EStG-Substanzpruefung |
+| § 50d Abs. 9 EStG akzeptieren vs. anfechten | Switch zu Anrechnung hinnehmen | Klage gegen Wechsel, Verstaendigungsverfahren | bei strittiger Qualifikationsfrage anfechten — BFH hat Subject-to-Tax-Klauseln mehrfach restriktiv ausgelegt (laufende Rspr. live prüfen) |
+| Per-Country-Limitation umgehen via Holding | Mehrere Quellenstaaten über EU-Holding buendeln | direkter Bezug, individuelle Per-Country-Limitation | bei reiner Optimierung scheitert Pfad A an § 50d Abs. 3 EStG-Substanzpruefung |
 
-## Was Reviewer/Pruefer triggert
+## Was Reviewer/Prüfer triggert
 
 - **Freistellung beantragt, obwohl DBA Anrechnung vorschreibt**: bei USA-DBA, Schweiz-DBA grundsaetzliche Anrechnungsmethode — Memo, das Freistellung argumentiert, faellt im Erstcheck.
 - **Aktivitaetsklausel ignoriert**: Holding/Vermoegensverwaltung als "Unternehmensgewinn" deklariert, ohne dass die Aktivitaetsklausel des DBA erfuellt ist — Freistellung wird verweigert, Switch zur Anrechnung.
@@ -162,7 +162,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 |---|---|---|---|
 | 1. DBA-Methode (DBA-Artikel 23A/B) | DBA-Text | [Freistellung/Anrechnung] | Grundregel |
 | 2. Aktivitaetsklausel | DBA-Protokoll | [erfuellt/nicht erfuellt] | wenn nicht erfuellt: Anrechnung statt Freistellung |
-| 3. DBA-interne Subject-to-Tax | DBA-Text | [greift/greift nicht] | Pruefung Besteuerung im anderen Staat |
+| 3. DBA-interne Subject-to-Tax | DBA-Text | [greift/greift nicht] | Prüfung Besteuerung im anderen Staat |
 | 4. § 50d Abs. 8 EStG (Arbeitnehmer) | EStG | [Nachweis liegt vor/fehlt] | wenn fehlt: Rueckfall zur Anrechnung |
 | 5. § 50d Abs. 9 EStG (allgemein) | EStG | [Qualifikationskonflikt / Subject-to-Tax] | wenn ja: Anrechnung |
 | 6. § 50d Abs. 10 EStG (Personengesellschafter) | EStG | [Sondervergueten] | gesonderte Zuordnung |
@@ -187,7 +187,7 @@ Sachverhalt: Mandant in DE (unbeschraenkt steuerpflichtig), bezieht aus Land X (
 | Anrechnungsbetrag (Minimum aus beiden) | 15.000 EUR |
 | Verbleibende deutsche Steuer | 39.000 EUR |
 
-(**Werte sind Beispiel — konkrete Tarif § 32a EStG 2026, Soli, Kirchensteuer einzeln pruefen.**)
+(**Werte sind Beispiel — konkrete Tarif § 32a EStG 2026, Soli, Kirchensteuer einzeln prüfen.**)
 
 ## Detailliertes Berechnungsbeispiel (Freistellung)
 

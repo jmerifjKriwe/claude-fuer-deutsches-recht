@@ -15,7 +15,7 @@ description: "Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellu
 
 ## Worum geht es konkret
 
-Leitsatz des NKR: *"Wenn nicht noetig, dann nicht regeln."* Bevor methodische Aufwandsberechnung kommt, prueft der NKR systematisch, **ob die Regelung ueberhaupt erforderlich ist**.
+Leitsatz des NKR: *"Wenn nicht noetig, dann nicht regeln."* Bevor methodische Aufwandsberechnung kommt, prüft der NKR systematisch, **ob die Regelung ueberhaupt erforderlich ist**.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -28,7 +28,7 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 
 ## Rechtlicher und methodischer Rahmen
 
-- **§ 44 Abs. 1 GGO** — Pruefung der Notwendigkeit (Gesetzesfolgenabschaetzung)
+- **§ 44 Abs. 1 GGO** — Prüfung der Notwendigkeit (Gesetzesfolgenabschaetzung)
 - **NKRG** § 4
 - **Leitfaden BMI / NKR** — Erforderlichkeitspruefung als methodischer Vorstadium
 - **HdR** Teil A.III — Begruendungspflichten
@@ -83,13 +83,13 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 |---|---|
 | Konkretes belegtes Problem | weiter zu Alternativenpruefung |
 | Problem belegt, Wirksamkeit unklar | Befristung / Evaluierung empfehlen |
-| Problem unklar | Verzicht oder Klaerung |
+| Problem unklar | Verzicht oder Klärung |
 | Bestehende Regelung greift | Verzicht oder Reform statt Neuvorhaben |
-| Marktloesung moeglich | Soft-Law-Alternative pruefen |
+| Marktloesung möglich | Soft-Law-Alternative prüfen |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der NKR begruesst grundsaetzlich das Ziel des Vorhabens, [Zielsetzung]. Das Vorhaben adressiert ein nachvollziehbares Regelungsbeduerfnis."
+- "Der NKR begruesst grundsätzlich das Ziel des Vorhabens, [Zielsetzung]. Das Vorhaben adressiert ein nachvollziehbares Regelungsbeduerfnis."
 - "Der NKR weist darauf hin, dass die Begruendung der Erforderlichkeit nicht hinreichend belegt ist. Insbesondere fehlen Daten zum tatsaechlichen Umfang des Problems und zur Wirksamkeit der bestehenden Regelung in [Norm]."
 - "Der NKR hat Zweifel an der Erforderlichkeit, da das adressierte Problem auch durch [Alternative: konsequenten Vollzug bestehender Regelung / Selbstregulierung / Marktloesung] adressiert werden koennte."
 - "Aus Sicht des NKR ist das Vorhaben dem Grunde nach erforderlich; die konkrete Ausgestaltung wirft jedoch im Hinblick auf den Erfuellungsaufwand Bedenken auf."
@@ -109,4 +109,4 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - Handbuch der Rechtsfoermlichkeit Teil A.III
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

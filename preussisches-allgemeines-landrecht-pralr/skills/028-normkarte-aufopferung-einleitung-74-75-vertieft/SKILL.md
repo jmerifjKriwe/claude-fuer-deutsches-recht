@@ -43,11 +43,11 @@ description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft: prüft kon
 ## Konkreter ALR-Stoff: Aufopferungsanspruch Einl. §§ 74, 75 ALR
 
 ### Wortlaut der Schluesselnormen
-- **Einl. § 74 ALR** "Die einzelnen Rechte und Vortheile der Mitglieder des Staats muessen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
+- **Einl. § 74 ALR** "Die einzelnen Rechte und Vortheile der Mitglieder des Staats müssen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
 - **Einl. § 75 ALR** "Dagegen ist der Staat denjenigen, welcher seine besondren Rechte und Vortheile dem Wohle des gemeinen Wesens aufzuopfern genoethigt wird, zu entschaedigen verbunden."
 
 ### Dogmatische Bedeutung
-Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundlage des allgemeinen Aufopferungsanspruchs im deutschen Recht. Sie unterscheiden zwischen der Pflicht des Buergers, sich dem Gemeinwohl zu beugen, und dem korrespondierenden Anspruch auf Entschaedigung. Aus dieser Asymmetrie ist der heute lebende Aufopferungsanspruch entstanden, der vom BGH ueber das gesamte 20. Jahrhundert hinweg ausdifferenziert wurde.
+Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundlage des allgemeinen Aufopferungsanspruchs im deutschen Recht. Sie unterscheiden zwischen der Pflicht des Buergers, sich dem Gemeinwohl zu beugen, und dem korrespondierenden Anspruch auf Entschaedigung. Aus dieser Asymmetrie ist der heute lebende Aufopferungsanspruch entstanden, der vom BGH über das gesamte 20. Jahrhundert hinweg ausdifferenziert wurde.
 
 ### Heutige Anwendungsfaelle
 - **Polizeischaden gegen Unbeteiligte** (Geschossschaden im Streifeneinsatz, Sturz im Festnahmevorgang ohne Eigenanteil): Klage gegen den Hoheitstraeger auf der Grundlage des allgemeinen Aufopferungsanspruchs. Heute teils kodifiziert in den Polizei- und Ordnungsgesetzen der Länder, daneben fortgesetzt als ungeschriebenes Institut.

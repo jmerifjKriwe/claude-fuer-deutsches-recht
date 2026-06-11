@@ -55,8 +55,8 @@ Dient der Prüfung und Durchführung der Betriebsratsanhörung nach § 102 BetrV
 ### Leitentscheidungen (BGH-Stil)
 
 - **Inhalt der Anhörungsmitteilung / subjektive Determinierung:**
- BAG, Urteil vom 27.02.1997 - 2 AZR 302/96: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; auch dem AG bekannte, für den AN guenstige Umstaende sind grundsaetzlich mitzuteilen. Quelle: dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96.
- BAG, Urteil vom 05.02.1998 - 2 AZR 227/97: Praezisierung der subjektiven Determinierung; objektiv relevante Umstaende duerfen nicht zurueckgehalten werden. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 27.02.1997 - 2 AZR 302/96: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; auch dem AG bekannte, für den AN guenstige Umstaende sind grundsätzlich mitzuteilen. Quelle: dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96.
+ BAG, Urteil vom 05.02.1998 - 2 AZR 227/97: Praezisierung der subjektiven Determinierung; objektiv relevante Umstaende dürfen nicht zurueckgehalten werden. Quelle: dejure.org-Vernetzung.
 
 - **Fristbeginn / Vollstaendigkeit der Unterlagen:**
  BAG, Urteil vom 10.10.2002 - 2 AZR 472/01: Bei Nachreichung relevanter Informationen beginnt die Stellungnahmefrist neu. Quelle: dejure.org-Vernetzung.
@@ -65,7 +65,7 @@ Dient der Prüfung und Durchführung der Betriebsratsanhörung nach § 102 BetrV
  Hier weitere Rechtsprechung zur § 102 Abs. 5 BetrVG-Weiterbeschaeftigung vor Schriftsatzverwendung in dejure.org / openjur.de / bundesarbeitsgericht.de verifizieren.
 
 - **Nachschieben von Kuendigungsgruenden:**
- Standardrechtsprechung: Nachschieben grundsaetzlich nur für Kuendigungsgruende, die im Zeitpunkt der Anhörung bereits objektiv vorlagen und dem Arbeitgeber bekannt waren - vor Zitat konkretes BAG-Aktenzeichen in dejure.org verifizieren.
+ Standardrechtsprechung: Nachschieben grundsätzlich nur für Kuendigungsgruende, die im Zeitpunkt der Anhörung bereits objektiv vorlagen und dem Arbeitgeber bekannt waren - vor Zitat konkretes BAG-Aktenzeichen in dejure.org verifizieren.
 
 ### Quellenregel
 

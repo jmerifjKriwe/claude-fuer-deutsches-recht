@@ -13,7 +13,7 @@ description: "Aktueller Mindestlohn 2026 Anpassung. Anwendungsfall Prüfung des 
 
 ## Kernsachverhalt
 
-Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung der Mindestlohnkommission, durch Verordnung der Bundesregierung oder durch Gesetz. Stand 01.01.2024: 12,41 EUR. Stand 01.01.2025: 12,82 EUR (Vierte Verordnung zur Anpassung der Hoehe des Mindestlohns, MiLoV4). **Stand 01.01.2026: 13,90 EUR**, **Stand 01.01.2027: 14,60 EUR** (Fuenfte Verordnung zur Anpassung der Hoehe des Mindestlohns — MiLoV5 — vom 05.11.2025, BGBl. 2025 I Nr. 268, ausgegeben 07.11.2025; Berichtigung BGBl. 2025 I Nr. 312). Die Empfehlung der Mindestlohnkommission stammt vom 27.06.2025; das Kabinett hat sie Ende Oktober 2025 angenommen. Der Mindestlohn betrifft direkt Mini-/Midi-Job-Grenzen, viele Arbeitsvertraege und MiLoG-Aufzeichnungspflichten.
+Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung der Mindestlohnkommission, durch Verordnung der Bundesregierung oder durch Gesetz. Stand 01.01.2024: 12,41 EUR. Stand 01.01.2025: 12,82 EUR (Vierte Verordnung zur Anpassung der Höhe des Mindestlohns, MiLoV4). **Stand 01.01.2026: 13,90 EUR**, **Stand 01.01.2027: 14,60 EUR** (Fuenfte Verordnung zur Anpassung der Höhe des Mindestlohns — MiLoV5 — vom 05.11.2025, BGBl. 2025 I Nr. 268, ausgegeben 07.11.2025; Berichtigung BGBl. 2025 I Nr. 312). Die Empfehlung der Mindestlohnkommission stammt vom 27.06.2025; das Kabinett hat sie Ende Oktober 2025 angenommen. Der Mindestlohn betrifft direkt Mini-/Midi-Job-Grenzen, viele Arbeitsvertraege und MiLoG-Aufzeichnungspflichten.
 
 ## Kaltstart-Rueckfragen
 
@@ -69,7 +69,7 @@ Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung d
 
 - Bundesgesetzblatt (BGBl.) — Mindestlohn-Verordnungen.
 - Mindestlohnkommission (mindestlohn-kommission.de) — Empfehlungen.
-- BMAS-Pressemitteilungen und Beschluesse.
+- BMAS-Pressemitteilungen und Beschlüsse.
 - DATEV-Programm-Updates (jaehrlich zum 1. Januar; DATEV LODAS → Stamm → Lohnsteuer / Beitragssaetze).
 - Aktuelle Mindestlohn-Verordnung 2026 zwingend nachschlagen — Mindestlohnkommission tagt im Zwei-Jahres-Rhythmus (juenste Empfehlung typisch im Sommer des Vorjahres).
 
@@ -90,7 +90,7 @@ Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung d
 
 - Bei jedem MiLo-Update Mandanten-Rundbrief.
 - Konkrete Auswirkung auf Mandantenbetrieb berechnen.
-- Empfehlung: Stundenloehne anpassen, Mini-/Midi-Grenzen pruefen.
+- Empfehlung: Stundenloehne anpassen, Mini-/Midi-Grenzen prüfen.
 
 ### Phase 6 — Risiken bei Nicht-Einhaltung
 
@@ -103,8 +103,8 @@ Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung d
 - MiLo-Updates jaehrlich zum 1. Januar zwingend einspielen.
 - Bei wesentlichen Anhebungen Mandanten proaktiv informieren.
 - Minijob-Grenze automatisch mit MiLo-Anhebung — Mandanten zu Sondervergueteungen beraten.
-- Bei tariflich gebundenen Branchen tarifvertraglichen Mindestlohn pruefen.
-- StBVV: Information ueber Anpassungen in Mandantenkommunikations-Pauschale.
+- Bei tariflich gebundenen Branchen tarifvertraglichen Mindestlohn prüfen.
+- StBVV: Information über Anpassungen in Mandantenkommunikations-Pauschale.
 - DATEV-Tipp: DATEV-Update mit neuem MiLo zum 1. Januar einspielen.
 
 ## Quellen und Updates

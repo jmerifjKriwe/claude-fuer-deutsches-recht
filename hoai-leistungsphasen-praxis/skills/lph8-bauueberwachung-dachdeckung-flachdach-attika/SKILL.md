@@ -30,7 +30,7 @@ Flachdachkonstruktionen sind besonders fehleranfaellig: Mangelhafte Dampfsperren
 3. Daemmung Verlegepruefung: Stossversetzte Verlegung 2-lagig, Fugen versetzt 250 mm, Stufe am Attikaanschluss für Spritzwasserschutz
 4. Abdichtungslage Verlegepruefung: Querstoss Nahtbreite 100 mm, Laengsstoss 80 mm, Vollverklebung oder Heissverschweissung kontrolliert, Nahtfestigkeit Schraelschnitt-Test
 5. Attikaabdeckung Blechanschluss: Aluminium oder Zinkblech, Klemmleiste Einstand 40 mm, Stosslaenge versetzt, Dehnungsfuge alle 1.5 m Abdeckung, Winddichtheit
-6. Notablauf-Kontrolle: Einlaufkorb freigelegt, Lage Tiefpunkt korrekt, Durchfluss-Querschnitt DN 70 mindestens, Dachwasser-Notablauf zusaetzlich 30 cm ueber Dachhaut
+6. Notablauf-Kontrolle: Einlaufkorb freigelegt, Lage Tiefpunkt korrekt, Durchfluss-Querschnitt DN 70 mindestens, Dachwasser-Notablauf zusaetzlich 30 cm über Dachhaut
 
 ## Normen und Rechtsrahmen
 
@@ -75,7 +75,7 @@ Flachdachkonstruktionen sind besonders fehleranfaellig: Mangelhafte Dampfsperren
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

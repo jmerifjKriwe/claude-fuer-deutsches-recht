@@ -60,7 +60,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ### Konzessionsphase
 
 - In kleinen, begruendeten Schritten nachgeben.
-- Jede Konzession an Gegenleistung knuepfen ("Wenn Sie X, dann koennen wir Y").
+- Jede Konzession an Gegenleistung knuepfen ("Wenn Sie X, dann können wir Y").
 - Konzessionsmuster nicht linear (sonst extrapolierbar) sondern abnehmend.
 
 ### Endspiel
@@ -93,7 +93,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ## Risiken und Stolpersteine im Privates Baurecht, Architekten- und Ingenieurrecht
 
-- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> §§ 631 ff. BGB und ESt-/USt-Regeln pruefen.
+- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> §§ 631 ff. BGB und ESt-/USt-Regeln prüfen.
 - Vollmacht: Mandantin muss zustimmen, anwaltliche Vergleichsbefugnis muss in Vollmacht expliziert sein.
 - Vollstreckbarkeit: aussergerichtlicher Vergleich ohne notarielle Form/Anwaltsvergleich ist kein Vollstreckungstitel.
 - Verzicht zu weit gefasst: pauschale Abgeltungsklausel kann eigene Ansprueche unbeabsichtigt mit erfassen.
@@ -111,11 +111,11 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 1: Eroeffnung mit Ankerwert
 
-> "Wir haben die Sache durchgerechnet. Auf Basis von §§ 631 ff. BGB und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, ueber eine Pauschalsumme zu sprechen, die die Sache abschliesst."
+> "Wir haben die Sache durchgerechnet. Auf Basis von §§ 631 ff. BGB und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, über eine Pauschalsumme zu sprechen, die die Sache abschliesst."
 
 ### Skript 2: Begruendete Konzession
 
-> "Wir koennen Z Euro nachgeben, wenn Sie im Gegenzug die Klausel A streichen und einer Vertraulichkeitsvereinbarung zustimmen. Andernfalls bleiben wir bei der urspruenglichen Position."
+> "Wir können Z Euro nachgeben, wenn Sie im Gegenzug die Klausel A streichen und einer Vertraulichkeitsvereinbarung zustimmen. Andernfalls bleiben wir bei der urspruenglichen Position."
 
 ### Skript 3: Abschluss-Frage
 
@@ -123,11 +123,11 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 4: Walk-Away-Signal
 
-> "Wir haben hier eine klare Linie. Wenn Sie nicht ueber die 35.000 Euro hinauskommen, werden wir Klage einreichen und sehen, wie das Gericht entscheidet."
+> "Wir haben hier eine klare Linie. Wenn Sie nicht über die 35.000 Euro hinauskommen, werden wir Klage einreichen und sehen, wie das Gericht entscheidet."
 
 ## Stoerfeuer und Antwort-Bausteine
 
-- **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
+- **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir können Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
 - **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjährung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
 - **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
 
@@ -136,7 +136,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 Im Bereich Privates Baurecht, Architekten- und Ingenieurrecht oft uebersehen:
 
 - Vergleichszahlung als Schadensersatz (in der Regel keine USt, EStG je nach Art).
-- Vergleich ueber Lohn-/Gehaltsanspruch -> Lohnsteuer- und SV-Abzug pruefen.
+- Vergleich über Lohn-/Gehaltsanspruch -> Lohnsteuer- und SV-Abzug prüfen.
 - Vergleichszahlung als Anwaltshonorar -> ggf. USt.
 - Erbrechtliche Abfindung -> ggf. ErbStG.
 - Hinweis im Vergleich: "Die steuerliche Behandlung ist nicht Gegenstand dieser Vereinbarung und obliegt der eigenen Steuerberatung der Parteien."
@@ -216,7 +216,7 @@ Geprueft: 3 Rechtsprechungsnachweise in "Aktuelle Rechtsprechung Vergleichsverha
 Befund:
 - BGH VII ZR 257/03 (BGHZ 161, 241): GELOESCHT. Echtes Thema laut dejure.org/2004,327: Anwendung von Werkvertragsrecht auf Altbausanierung, Unwirksamkeit formularmassiger Gewaehrleistungsausschluesse (kein Bezug zu Prozessvergleich oder § 123 BGB).
 - BGH VII ZR 100/97 (BGHZ 137, 153): GELOESCHT. Echtes Thema laut dejure.org/1997,1214: Klageaenderung durch Uebergang von Kostenvorschuss- zu Schadensersatzanspruch, Zulaessigkeit der Berufung (kein Bezug zu Vergleich oder Auftragnehmer-Verzicht).
-- BGH VII ZR 35/07 (NJW 2009, 289): GELOESCHT. Echtes Thema laut dejure.org/2008,328: Haftung des Architekten für unrichtige Bautenstandsberichte gemaess § 328 BGB (kein Bezug zu Abgeltungsklausel oder Mangelfolgeschaeden).
+- BGH VII ZR 35/07 (NJW 2009, 289): GELOESCHT. Echtes Thema laut dejure.org/2008,328: Haftung des Architekten für unrichtige Bautenstandsberichte gemäß § 328 BGB (kein Bezug zu Abgeltungsklausel oder Mangelfolgeschaeden).
 Ersatz: BGH VII ZR 48/12 (21.11.2013, NJW 2014, 394, BauR 2014, 578) eingefuegt. Verifiziert auf dejure.org/2013,35506. Echtes Thema: Prozessvergleich im Werkvertrag, Unwirksamkeit, Verfahrensfortsetzung, verzichtbare prozessuale Ruege.
 Frontmatter unveraendert. Keine Komma-Zahlen in description. Kein Kyrillisch.
 -->

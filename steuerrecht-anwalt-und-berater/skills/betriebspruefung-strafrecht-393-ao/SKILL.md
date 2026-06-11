@@ -14,7 +14,7 @@ description: "Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstr
 ## Triage — kläre vor der Bearbeitung
 
 1. Liegt bereits eine Einleitung des Strafverfahrens nach § 397 AO vor?
-2. Wurde der Mandant gemaess § 393 Abs. 1 S. 4 AO belehrt?
+2. Wurde der Mandant gemäß § 393 Abs. 1 S. 4 AO belehrt?
 3. Welche Mitwirkung ist im Besteuerungsverfahren noch zumutbar — Schweigerecht im Strafverfahren?
 4. Liegt ein Verwertungsverbot § 393 Abs. 2 AO für Selbstbelastungsangaben vor?
 5. Ist eine tatsaechliche Verstaendigung trotz Strafverfahren sinnvoll?

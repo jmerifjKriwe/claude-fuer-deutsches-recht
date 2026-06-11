@@ -13,7 +13,7 @@ description: "Betriebsuebersicht als ergaenzende Auswertung zur BWA. Anwendungsf
 
 ## Kernsachverhalt
 
-Die Standard-BWA fasst Konten in funf Bloecken zusammen. Fuer detaillierte Analysen reicht das nicht — der Mandant will wissen, woraus sich "sonstige betriebliche Aufwendungen" zusammensetzen oder welche Erloeskonten beigetragen haben. Die Betriebsuebersicht ist die Kontenliste mit Salden, Vorjahresvergleich und ggf. Plan-Werten. Sie ergaenzt die BWA und ist Standard bei groesseren Mandanten und im Steuerberater-Buero zur internen Analyse.
+Die Standard-BWA fasst Konten in funf Bloecken zusammen. Für detaillierte Analysen reicht das nicht — der Mandant will wissen, woraus sich "sonstige betriebliche Aufwendungen" zusammensetzen oder welche Erloeskonten beigetragen haben. Die Betriebsuebersicht ist die Kontenliste mit Salden, Vorjahresvergleich und ggf. Plan-Werten. Sie ergaenzt die BWA und ist Standard bei groesseren Mandanten und im Steuerberater-Buero zur internen Analyse.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,8 +23,8 @@ Die Standard-BWA fasst Konten in funf Bloecken zusammen. Fuer detaillierte Analy
 4. Welche Sortierung — Saldenhoehe, Kontenrahmen, alphabetisch?
 5. Welche Schwellenwerte — Konten mit Saldo unter X EUR ausblenden?
 6. Liegen Sachkontenbezeichnungen aktuell vor (Stammdaten aktualisieren)?
-7. Wird die Uebersicht intern oder extern (Mandant, Bank, Investor) genutzt?
-8. Welche Konten muessen vertraulich gefuehrt werden (z.B. GF-Bezuege)?
+7. Wird die Übersicht intern oder extern (Mandant, Bank, Investor) genutzt?
+8. Welche Konten müssen vertraulich gefuehrt werden (z.B. GF-Bezuege)?
 
 ## Rechtlicher Rahmen
 
@@ -47,8 +47,8 @@ Die Standard-BWA fasst Konten in funf Bloecken zusammen. Fuer detaillierte Analy
 
 | Form | Verwendung |
 |---|---|
-| Reine Kontenliste | Interne Stichprobe, Sachbearbeiter-Pruefung |
-| Strukturierte Betriebsuebersicht | Mandant, Berufstraeger-Pruefung |
+| Reine Kontenliste | Interne Stichprobe, Sachbearbeiter-Prüfung |
+| Strukturierte Betriebsuebersicht | Mandant, Berufstraeger-Prüfung |
 | Branchen-Betriebsuebersicht | Branchen-Vergleich (BBE) |
 | Erweiterte Betriebsuebersicht | Bank-/Investor-Reporting |
 
@@ -125,15 +125,15 @@ ERGEBNIS NACH STEUERN [X]
 
 - Als PDF gemeinsam mit BWA.
 - Ablage in Mandantenakte mit Versanddatum.
-- Mandanten-Portal-Download moeglich.
+- Mandanten-Portal-Download möglich.
 
 ## Strategie und Praxis-Tipps
 
 - Betriebsuebersicht ist Pflicht bei Mittelstand und Konzern-Reporting.
 - Bei KMU: optional, mandantenabhaengig anbieten.
 - Vertrauliche Konten klar markieren oder in geschuetzten Bereich auslagern.
-- Bei Wechsel des Kontenrahmens Vorjahresvergleich nicht moeglich ohne Brueckenposten.
-- DATEV-Tipp: Standard-Betriebsuebersicht 21 oder individuelle Konfiguration ueber Berater-Stammdaten.
+- Bei Wechsel des Kontenrahmens Vorjahresvergleich nicht möglich ohne Brueckenposten.
+- DATEV-Tipp: Standard-Betriebsuebersicht 21 oder individuelle Konfiguration über Berater-Stammdaten.
 - StBVV: Standardform pauschaliert, individuelle Konfiguration als Zeithonorar.
 
 ## Quellen und Updates

@@ -118,14 +118,14 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Insolvenzreife im M-and-A-Kontext pruefen | Insolvenzreife-Pruefung nach Schema; Schriftsatz unten |
+| Standard — Insolvenzreife im M-and-A-Kontext prüfen | Insolvenzreife-Prüfung nach Schema; Schriftsatz unten |
 | Variante A — Insolvenzreife klar Antragspflicht besteht | Direkt zu Antragspflicht-Skill; kein Gutachten noetig |
-| Variante B — Insolvenzreife noch nicht erreicht Sanierung moeglich | Sanierungs-Szenario nach StaRUG pruefen |
-| Variante C — Kreditgeber will Einblick in Lage | Bankengespraech-Dokumentation statt interner Pruefung |
+| Variante B — Insolvenzreife noch nicht erreicht Sanierung möglich | Sanierungs-Szenario nach StaRUG prüfen |
+| Variante C — Kreditgeber will Einblick in Lage | Bankengespraech-Dokumentation statt interner Prüfung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -199,7 +199,7 @@ DEAL-AUSWIRKUNGEN:
  > EUR [X] leisten. § 15b InsO-Risiko ist unabhängig davon zu beachten.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -244,4 +244,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - § 43 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__43.html
 - § 1 StaRUG (Pflicht zur Krisenfrueherkennung seit 01.01.2021): https://www.gesetze-im-internet.de/starug/__1.html
 - IDW S 11 (Beurteilung Insolvenzeroeffnungsgruende): https://www.idw.de/idw/idw-verlautbarungen
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

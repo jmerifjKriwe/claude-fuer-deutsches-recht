@@ -14,7 +14,7 @@ Diese Unterlagenprüfung für **Prozessrecht** benennt fehlende Dokumente, strei
 - `amtlicher-zpo-proz-bauleiter-eilverfahren` — Amtlicher ZPO Proz Bauleiter Eilverfahren
 - `anspruchstabelle-beweislast` — Anspruchstabelle Beweislast
 - `anspruchstabelle-gegenseite-interessen` — Anspruchstabelle Gegenseite Interessen
-- `anwaltsgeheimnis-pruefung` — Anwaltsgeheimnis Pruefung
+- `anwaltsgeheimnis-pruefung` — Anwaltsgeheimnis Prüfung
 - `argumentationsverbesserung-red-team` — Argumentationsverbesserung RED Team
 - `beweissicherung-einstweilige-verfuegung` — Beweissicherung Einstweilige Verfuegung
 - `chronologie` — Chronologie

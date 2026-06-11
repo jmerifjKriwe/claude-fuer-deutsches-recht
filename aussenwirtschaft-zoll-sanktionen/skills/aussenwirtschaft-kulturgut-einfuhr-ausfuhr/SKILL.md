@@ -22,10 +22,10 @@ description: "Rechtliche Anforderungen bei grenzueberschreitender Bewegung von K
 ## Erste Schritte
 
 1. Kulturgut-Kategorie und Ursprungsland bestimmen.
-2. Schwellenwerte VO (EU) 2019/880 pruefen: Alter und Wert der Ware.
-3. Importlizenzverpflichtung und Erklaerung des Importeurs pruefen.
+2. Schwellenwerte VO (EU) 2019/880 prüfen: Alter und Wert der Ware.
+3. Importlizenzverpflichtung und Erklaerung des Importeurs prüfen.
 4. Sorgfaltspflicht: Provenienzrecherche und Dokumentation der legalen Ausfuhr aus Ursprungsland.
-5. Nationales Ausfuhrverbot nach KGSG (nationales Kulturgut) pruefen.
+5. Nationales Ausfuhrverbot nach KGSG (nationales Kulturgut) prüfen.
 6. Einfuhr-/Ausfuhranmeldung mit korrektem HS-Code und TARIC-Besonderheiten.
 
 ## Rechtsrahmen
@@ -48,9 +48,9 @@ description: "Rechtliche Anforderungen bei grenzueberschreitender Bewegung von K
 ## Typische Fallstricke
 
 - Fehlen von Ausfuhrdokumenten aus Ursprungsland loest Sorgfaltspflicht-Verletzung aus.
-- Kunstwerke von Fluchtgut-Listungen ('Haus der Kunst' u.a.) koennen Beschlagnahme-Risiko tragen.
+- Kunstwerke von Fluchtgut-Listungen ('Haus der Kunst' u.a.) können Beschlagnahme-Risiko tragen.
 - UNESCO-Verdachtslaender (Irak, Syrien, Libyen) erfordern erhoehte Due Diligence.
-- Schwellenwerte nach VO (EU) 2019/880 aendern sich bei Erweiterung der Kategorien.
+- Schwellenwerte nach VO (EU) 2019/880 ändern sich bei Erweiterung der Kategorien.
 
 ## Schnittstellen zu anderen Skills
 

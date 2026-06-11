@@ -3,7 +3,7 @@ name: bewohnerparken-regel-pruefen
 description: "StVO: Bewohnerparken: Regel prüfen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Bewohnerparken Regel Pruefen
+# Bewohnerparken Regel Prüfen
 
 ## Arbeitsweg
 

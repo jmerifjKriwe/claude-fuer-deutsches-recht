@@ -3,7 +3,7 @@ name: landesstrasse-baulast-pruefen
 description: "Landesstraße: Baulast prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Landesstrasse Baulast Pruefen
+# Landesstrasse Baulast Prüfen
 
 ## Arbeitsweg
 

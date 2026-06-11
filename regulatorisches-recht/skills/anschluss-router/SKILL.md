@@ -130,7 +130,7 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein Finanzunternehmen muss pruefen, ob ein neues Geschaeftsmodell einer BaFin-Erlaubnis nach KWG oder ZAG bedarf.
+- Ein Finanzunternehmen muss prüfen, ob ein neues Geschaeftsmodell einer BaFin-Erlaubnis nach KWG oder ZAG bedarf.
 - Eine Kanzlei bereitet eine Stellungnahme zu einem neuen Regulierungsvorhaben vor.
 - Ein Unternehmen will interne Compliance-Richtlinien nach DORA, MaRisk oder WpHG aktualisieren.
 - Ein Inkassounternehmen fragt, ob seine Taetigkeiten unter das RDG fallen.
@@ -159,17 +159,17 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Branche, Regulierungsrahmen und konkretes Rechtsproblem bestimmen.
+1. Mandantenkonstellation klären: Branche, Regulierungsrahmen und konkretes Rechtsproblem bestimmen.
 2. Mandat strukturieren und Arbeitsbereich abgrenzen (Skill `regulatorisches-recht-kaltstart-interview` oder `regulatorisches-recht-mandat-arbeitsbereich`).
 3. Passenden Fachskill auswaehlen (z. B. DORA, Inkasso, Richtlinien, Lueckenanalyse).
-4. Eilfristen und Meldepflichten pruefen (Aufsichtsfristen koennen kurz sein).
+4. Eilfristen und Meldepflichten prüfen (Aufsichtsfristen können kurz sein).
 5. Anschluss-Skill bestimmen (z. B. Richtlinie anpassen oder Stellungnahme verfassen).
 
 ## Skill-Tour (was gibt es hier?)
 
 - `aufsichts-feed-monitor` — Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifizieren.
-- `dora-ikt-vertragspruefung` — IKT-Drittanbietervertraege auf DORA-Konformitaet pruefen für Finanzunternehmen, die digitale Dienstleistungen einkaufen.
-- `inkasso-rdg` — Inkasso- und Rechtsdienstleistungserlaubnis nach RDG pruefen, wenn gewerbliche Forderungseinziehung betrieben wird.
+- `dora-ikt-vertragspruefung` — IKT-Drittanbietervertraege auf DORA-Konformitaet prüfen für Finanzunternehmen, die digitale Dienstleistungen einkaufen.
+- `inkasso-rdg` — Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen, wenn gewerbliche Forderungseinziehung betrieben wird.
 - `luecken` — Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren (KWG, WpHG, DORA, VAG, GwG).
 - `luecken-aufzeiger` — Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen.
 - `regulatorisches-recht-anpassen` — Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen.
@@ -178,19 +178,19 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 - `richtlinien-neufassung` — Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen.
 - `richtlinien-vergleich` — Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen.
 - `stellungnahmen` — Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen.
-- `ustva` — Umsatzsteuervoranmeldung im regulatorischen Kontext pruefen für Finanzunternehmen oder regulierte Entitaeten mit USt-Fragen.
+- `ustva` — Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen für Finanzunternehmen oder regulierte Entitaeten mit USt-Fragen.
 
 ## Worauf besonders achten
 
-- Regulatorische Pflichten aendern sich haeufig: EBA-Guidelines, BaFin-Rundschreiben und neue EU-Verordnungen koennen Bestandsregelungen kurzfristig ueberlagern.
-- KWG und ZAG-Erlaubnisse sind vorgelagert — kein Geschaeft ohne Erlaubnis starten.
-- DORA gilt ab 17.01.2025 für alle in Art. 2 DORA genannten Finanzentitaeten; IKT-Drittanbietervertraege muessen nachgeruestet werden.
+- Regulatorische Pflichten ändern sich haeufig: EBA-Guidelines, BaFin-Rundschreiben und neue EU-Verordnungen können Bestandsregelungen kurzfristig ueberlagern.
+- KWG und ZAG-Erlaubnisse sind vorgelagert — kein Geschäft ohne Erlaubnis starten.
+- DORA gilt ab 17.01.2025 für alle in Art. 2 DORA genannten Finanzentitaeten; IKT-Drittanbietervertraege müssen nachgeruestet werden.
 - Inkasso-Taetigkeiten ohne RDG-Registrierung sind strafbewehrt (§ 20 RDG).
-- Sektorspezifische Normen (EnWG, TKG) haben eigene Aufsichtsstrukturen (BNetzA) neben BaFin — Zustaeindigkeit immer klaeren.
+- Sektorspezifische Normen (EnWG, TKG) haben eigene Aufsichtsstrukturen (BNetzA) neben BaFin — Zustaeindigkeit immer klären.
 
 ## Typische Fehler
 
-- Erlaubnispflicht nach KWG oder ZAG uebersehen: Neue Geschaeftsmodelle (z. B. Krypto, Buy-now-pay-later) werden ohne Vorab-Pruefung gestartet.
+- Erlaubnispflicht nach KWG oder ZAG uebersehen: Neue Geschaeftsmodelle (z. B. Krypto, Buy-now-pay-later) werden ohne Vorab-Prüfung gestartet.
 - DORA nur als IT-Thema behandelt: Vertragliche Anforderungen an IKT-Drittanbieter werden von der Rechtsabteilung nicht koordiniert.
 - Luecken in Compliance-Richtlinien nach Gesetzesaenderungen nicht nachgepflegt: Alte MaRisk-Version oder veraltete GwG-Interna bleiben im Einsatz.
 - Fristen für Stellungnahmen zu Konsultationsverfahren verpasst: Europ. Behörden (EBA, ESMA) setzen kurze Fristen.

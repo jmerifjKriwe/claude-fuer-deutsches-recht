@@ -41,7 +41,7 @@ oder
 
 - Keine Abnahme erfolgt.
 - Verjährungsfrist startet nicht.
-- Verguetung nicht faellig.
+- Vergütung nicht faellig.
 
 ## Pruefraster
 

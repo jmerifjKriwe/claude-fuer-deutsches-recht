@@ -14,7 +14,7 @@ description: "Kreuzfahrtschiff: Schadensereignis an Kreuzfahrtschiff oder grosse
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Ein Kreuzfahrtschiff oder grosses Fahrgastschiff erleidet Kollisionsschäden; P&I-Club und H&M-Versicherer werden koordiniert informiert. Ein Reeder verzögert die Schadensmeldung; Versicherer beruft sich auf VVG § 28 Obliegenheitsverletzung. Eine Bank aktiviert MII-Police nach Totalverlust eines hypothekenbelasteten Kreuzfahrtschiff oder grosses Fahrgastschiff.
+Ein Kreuzfahrtschiff oder großes Fahrgastschiff erleidet Kollisionsschäden; P&I-Club und H&M-Versicherer werden koordiniert informiert. Ein Reeder verzögert die Schadensmeldung; Versicherer beruft sich auf VVG § 28 Obliegenheitsverletzung. Eine Bank aktiviert MII-Police nach Totalverlust eines hypothekenbelasteten Kreuzfahrtschiff oder großes Fahrgastschiff.
 
 ## Erste Schritte
 1. P&I-Club sofort informieren; Korrespondenten vor Ort aktivieren.

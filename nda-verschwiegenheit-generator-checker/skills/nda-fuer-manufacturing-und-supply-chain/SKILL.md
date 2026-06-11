@@ -3,7 +3,7 @@ name: nda-fuer-manufacturing-und-supply-chain
 description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Manufacturing Und Supply Chain; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
-# NDA Fuer Manufacturing Und Supply Chain
+# NDA Für Manufacturing Und Supply Chain
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: NDA Fuer Manufacturing Und Supply Chain
+## Fachkern: NDA Für Manufacturing Und Supply Chain
 - **Normen-/Quellenanker:** BGB/AGB-Recht, GeschGehG, DSGVO, HinSchG, ArbR, Kartellrecht, Exportkontrolle, IP-Rechte und prozessuale Herausgabepflichten.
 - **Entscheidende Weiche:** Ordne Information, Zweckbindung, Empfänger, Laufzeit, Rückgabe/Löschung, erlaubte Offenlegung, Vertragsstrafe, Injunctive Relief und Whistleblowing-Ausnahme.
 

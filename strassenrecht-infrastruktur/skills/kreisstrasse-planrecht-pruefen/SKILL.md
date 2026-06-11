@@ -3,7 +3,7 @@ name: kreisstrasse-planrecht-pruefen
 description: "Kreisstraße: Planrecht prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Kreisstrasse Planrecht Pruefen
+# Kreisstrasse Planrecht Prüfen
 
 ## Arbeitsweg
 

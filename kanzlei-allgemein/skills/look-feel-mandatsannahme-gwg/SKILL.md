@@ -14,7 +14,7 @@ description: "Gestaltet Ausgaben des Kanzlei-Allgemein-Plugins hochwertig ruhig 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Fuer welchen Kanzlei-soll die Ausgabe gestaltet werden: Schriftsatz, Rechnung, Dashboard, Mandantenbrief?
+1. Für welchen Kanzlei-soll die Ausgabe gestaltet werden: Schriftsatz, Rechnung, Dashboard, Mandantenbrief?
 2. Wird die Ausgabe in Claude Cowork oder in einem anderen System angezeigt (Markdown-Grenzen beachten)?
 3. Sollen Ampelstatus, Statuskarten oder Tabellenansichten eingesetzt werden?
 4. Ist der Empfaenger der Ausgabe ein Anwalt, ein Sekretariat oder ein Mandant?
@@ -24,9 +24,9 @@ description: "Gestaltet Ausgaben des Kanzlei-Allgemein-Plugins hochwertig ruhig 
 
 ## Zentrale Normen
 - § 43 BRAO — Sorgfaltspflicht: umfasst auch klare und verstaendliche Kommunikation
-- § 2 BORA — Gewissenhaftigkeit: Kanzlei-Ausgaben muessen korrekt und klar sein
+- § 2 BORA — Gewissenhaftigkeit: Kanzlei-Ausgaben müssen korrekt und klar sein
 - § 133 BGB — Auslegung: Unklarheiten in Kanzleischreiben gehen zu Lasten des Verfassers
-- Art. 5 Abs. 1 DSGVO — Transparenz: Informationen an Mandanten muessen klar und verstaendlich sein
+- Art. 5 Abs. 1 DSGVO — Transparenz: Informationen an Mandanten müssen klar und verstaendlich sein
 
 ## Designprinzipien
 

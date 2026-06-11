@@ -40,7 +40,7 @@ Skill für Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitlic
 - Massgeblich ist die "rechtlich wesentliche Mitursache" (BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen).
 
 ### d) Beweislast
-- Grundsaetzlich Beweislast beim Beamten; an die Glaubhaftmachung des Unfallhergangs sind im Eilrechtsschutz keine ueberhoehten Anforderungen zu stellen.
+- Grundsätzlich Beweislast beim Beamten; an die Glaubhaftmachung des Unfallhergangs sind im Eilrechtsschutz keine ueberhoehten Anforderungen zu stellen.
 
 ### e) Folgen der Anerkennung
 - Unfallfürsorge: Unfallruhegehalt, Heilverfahrenskosten, Pflegezulage, Unterhaltsbeitrag, einmalige Unfallentschaedigung — Skill `unfallruhegehalt-36-beamtvg`.
@@ -65,4 +65,4 @@ Skill für Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitlic
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandantin Lehrerin stuerzt im Klassenzimmer; zunaechst nur Hautabschuerfung, drei Jahre spaeter Bandscheibenschaden mit gutachterlich nachgewiesener Mitursache. Skill liefert Spaetfolgenmeldung innerhalb der Zehn-Jahres-Frist mit Kausalitaetsbegruendung.
+Mandantin Lehrerin stuerzt im Klassenzimmer; zunaechst nur Hautabschuerfung, drei Jahre später Bandscheibenschaden mit gutachterlich nachgewiesener Mitursache. Skill liefert Spaetfolgenmeldung innerhalb der Zehn-Jahres-Frist mit Kausalitaetsbegruendung.

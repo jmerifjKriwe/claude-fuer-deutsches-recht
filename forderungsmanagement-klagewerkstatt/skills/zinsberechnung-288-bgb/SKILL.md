@@ -11,8 +11,8 @@ Konkrete Berechnung von Verzugszinsen und der Pauschale nach § 288 BGB für den
 
 | Schuldner | Zinssatz | Norm |
 |---|---|---|
-| Verbraucher (B2C) | 5 Prozentpunkte ueber Basiszinssatz | § 288 Abs. 1 Satz 2 BGB |
-| Unternehmer (B2B) | 9 Prozentpunkte ueber Basiszinssatz | § 288 Abs. 2 BGB |
+| Verbraucher (B2C) | 5 Prozentpunkte über Basiszinssatz | § 288 Abs. 1 Satz 2 BGB |
+| Unternehmer (B2B) | 9 Prozentpunkte über Basiszinssatz | § 288 Abs. 2 BGB |
 | Entgeltforderungen B2B Pauschale | 40 EUR | § 288 Abs. 5 BGB |
 | Prozesszinsen bei Klagezustellung | 5 / 9 Prozentpunkte | § 291 BGB i.V.m. § 288 BGB |
 | Vertragliche Zinsen ab Faelligkeit (B2B) | Faelligkeitszinsen 5 % | § 353 HGB |
@@ -32,7 +32,7 @@ Halbjaehrliche Anpassung durch Deutsche Bundesbank (jeweils zum 01.01. und 01.07
 | 01.01.2023 - 30.06.2023 | 1,62 % |
 | 01.07.2016 - 30.06.2022 | -0,88 % |
 
-Aktueller Basiszinssatz beim Glaeubiger pruefen: [bundesbank.de/basiszinssatz](https://www.bundesbank.de/de/bundesbank/organisation/agb-und-regelungen/basiszinssatz-607820)
+Aktueller Basiszinssatz beim Glaeubiger prüfen: [bundesbank.de/basiszinssatz](https://www.bundesbank.de/de/bundesbank/organisation/agb-und-regelungen/basiszinssatz-607820)
 
 ## Verzugseintritt § 286 BGB
 
@@ -62,7 +62,7 @@ Tage * Forderungsbetrag * (Basiszins + Aufschlag) / 36500
 - Verzugszinssatz: 1,27 + 9 = 10,27 %
 - Zinsen: 183 * 5000 * 0,1027 / 365 = 257,46 EUR
 
-Bei Periodenwechsel (z.B. ueber den 01.07. hinaus): Aufteilen und separat rechnen.
+Bei Periodenwechsel (z.B. über den 01.07. hinaus): Aufteilen und separat rechnen.
 
 ## Verzugspauschale § 288 Abs. 5 BGB
 
@@ -80,7 +80,7 @@ Glaeubiger kann hoehere Verzugszinsen nach anderem Rechtsgrund verlangen (z.B. v
 - Erste Mahnung kostet **nichts** (selbst Verzug auslosend).
 - Folgemahnungen: Schadensersatz für tatsaechliche Kosten (Porto, Material).
 - Pauschale 2,50 EUR pro Mahnung in der Praxis akzeptiert (LG Berlin 32 O 188/95).
-- Inkassokosten nur in Hoehe einer 1,3 Geschaeftsgebuehr eines Rechtsanwalts (§ 4 Abs. 5 RDGEG).
+- Inkassokosten nur in Höhe einer 1,3 Geschaeftsgebuehr eines Rechtsanwalts (§ 4 Abs. 5 RDGEG).
 
 ## Klageantrag-Formulierung
 

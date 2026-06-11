@@ -15,11 +15,11 @@ description: "Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert,
 
 ## Worum geht es konkret
 
-Ein Fussnotenapparat eines mittellangen Aufsatzes hat zwischen 30 und 200 Fussnoten. Autorinnen produzieren ihn oft inkrementell, mit Wiederholungen, Bezugsbruechen und uneinheitlichen Formaten. Die Konsolidierung macht aus dem Apparat ein konsistentes System: dedupliziert, gleiche Zitate identisch, Wiederholungen sauber referenziert, Reihenfolge gemaess Hausnorm, Pinpoints geprueft.
+Ein Fussnotenapparat eines mittellangen Aufsatzes hat zwischen 30 und 200 Fussnoten. Autorinnen produzieren ihn oft inkrementell, mit Wiederholungen, Bezugsbruechen und uneinheitlichen Formaten. Die Konsolidierung macht aus dem Apparat ein konsistentes System: dedupliziert, gleiche Zitate identisch, Wiederholungen sauber referenziert, Reihenfolge gemäß Hausnorm, Pinpoints geprueft.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn nach der Zitierweise-Pruefung, vor dem Druck. Klaeren Sie:
+Sie brauchen ihn nach der Zitierweise-Prüfung, vor dem Druck. Klären Sie:
 
 1. Wie umfangreich der Apparat (Fussnotenzahl)?
 2. Welche Quellenarten dominieren (Rspr.-lastig, kommentar-lastig, internationalrechtlich)?
@@ -37,10 +37,10 @@ Sie brauchen ihn nach der Zitierweise-Pruefung, vor dem Druck. Klaeren Sie:
 1. **Fundstelleninventar.** Jede Fussnote in Tabelle: Fn., Quelle, Pinpoint, Status.
 2. **Deduplikation.** Identische Vollzitate suchen. Erstes Vorkommen Volltext, weitere als "aaO Fn. X" oder "ders. (Fn. X)".
 3. **Vereinheitlichung der Zitierweise.** Innerhalb einer Quellenart immer gleicher Stil.
-4. **Pinpoint-Pruefung.** Az., Rn., Seite plausibel? Bei Live-Zugriff einzeln; ohne Zugriff markieren.
+4. **Pinpoint-Prüfung.** Az., Rn., Seite plausibel? Bei Live-Zugriff einzeln; ohne Zugriff markieren.
 5. **Reihenfolge in Fussnoten mit Sammelzitaten.** Rspr. vor Lit., neueste zuerst, innerhalb der Lit. alphabetisch.
 6. **Online-Zitate.** Abrufdatum ergaenzen. Bei kritischen Links: Wayback-Archiv.
-7. **Fussnoten-Logik.** "Vgl.", "siehe", "naeher dazu" konsistent verwenden.
+7. **Fussnoten-Logik.** "Vgl.", "siehe", "näher dazu" konsistent verwenden.
 8. **Schluss-Apparat.** Bibliographie / Literaturverzeichnis bei Sammelband oder Lehrbuch konsolidieren.
 
 ## Trade-off-Matrix
@@ -69,7 +69,7 @@ Sie brauchen ihn nach der Zitierweise-Pruefung, vor dem Druck. Klaeren Sie:
 | 17 | Rspr. | aaO (Fn. 12) Rn. 23 | 12 | OK |
 | 38 | Rspr. | BGH, Urt. v. 12.05.2026 - I ZR 12/24, NJW 2026, 1234 Rn. 17 | 12 | Stop: doppelte Vollzitate |
 | 41 | Kommentar | Bearbeiter, in: MueKo BGB, 9. Aufl. 2024, § 433 Rn. 12 | - | OK |
-| 49 | Aufsatz | Canaris JZ 2019, 547 (549) | - | Pinpoint pruefen |
+| 49 | Aufsatz | Canaris JZ 2019, 547 (549) | - | Pinpoint prüfen |
 
 **aaO-Regel-Vorschlag (Hausnorm-Beispiel):**
 

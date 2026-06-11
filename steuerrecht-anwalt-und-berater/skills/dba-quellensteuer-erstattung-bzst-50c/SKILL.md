@@ -15,14 +15,14 @@ description: "Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt fü
 
 ## Kernsachverhalt
 
-Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) muessen bei Zahlungen ins Ausland Quellensteuer einbehalten und an das Finanzamt bzw. das BZSt abfuehren (§§ 43 ff. EStG, § 50a EStG, § 50c EStG). Im Geltungsbereich eines DBA hat der auslaendische Empfaenger das Recht auf Entlastung — vorab (Freistellungsbescheinigung) oder rueckwirkend (Erstattungsantrag). Führe durch das BZSt-Verfahren und beachtet Anti-Missbrauchsregelungen § 50d Abs. 3 EStG und § 50j EStG.
+Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) müssen bei Zahlungen ins Ausland Quellensteuer einbehalten und an das Finanzamt bzw. das BZSt abfuehren (§§ 43 ff. EStG, § 50a EStG, § 50c EStG). Im Geltungsbereich eines DBA hat der auslaendische Empfaenger das Recht auf Entlastung — vorab (Freistellungsbescheinigung) oder rueckwirkend (Erstattungsantrag). Führe durch das BZSt-Verfahren und beachtet Anti-Missbrauchsregelungen § 50d Abs. 3 EStG und § 50j EStG.
 
 ## Kaltstart-Rueckfragen
 
 1. Welche Einkunftsart liegt vor (Dividenden, Zinsen, Lizenzen, Verguetungen Kuenstler/Sportler/Aufsichtsraete)?
 2. Wer ist Vergueterschuldner (deutsche Gesellschaft), wer Vergueterglaeubiger (auslaendische Person)?
 3. In welchem Land ist der Glaeubiger ansaessig — DBA-Partner?
-4. Welcher DBA-Hoechstsatz Quellensteuer gilt (5/10/15 Prozent bei Dividenden, 0/10 bei Zinsen, 0/5/10 bei Lizenzen — konkret im DBA-Text pruefen)?
+4. Welcher DBA-Hoechstsatz Quellensteuer gilt (5/10/15 Prozent bei Dividenden, 0/10 bei Zinsen, 0/5/10 bei Lizenzen — konkret im DBA-Text prüfen)?
 5. Anwendbarkeit MTRL/EU-ZinsLizenzRL bei EU-Konzernverbund?
 6. Liegt Substanz vor (§ 50d Abs. 3 EStG-Vorpruefung — Anti-Treaty-Shopping)?
 7. Soll Freistellungsbescheinigung vor Zahlung oder Erstattung nach Einbehalt beantragt werden?
@@ -44,10 +44,10 @@ Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) 
 ### Leitentscheidungen und BMF-Schreiben
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Folge: § 50d Abs. 3 EStG mit Wirkung 2021 neu gefasst durch AbzStEntModG (BGBl. 2021 I S. 1259) — aktuellen Stand der Folgeregelungen im BMF-Veroeffentlichungsverzeichnis pruefen.
+- Folge: § 50d Abs. 3 EStG mit Wirkung 2021 neu gefasst durch AbzStEntModG (BGBl. 2021 I S. 1259) — aktuellen Stand der Folgeregelungen im BMF-Veroeffentlichungsverzeichnis prüfen.
 - Aktuelle BFH-Rechtsprechung zu Voraussetzungen der Freistellungsbescheinigung in freier amtlicher Quelle abrufen.
-- BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
-- BMF-Schreiben zu § 50j EStG (Cum-Cum) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
+- BMF-Schreiben zu § 50j EStG (Cum-Cum) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Land-spezifisches
 
@@ -74,16 +74,16 @@ Die BZSt-Antragsformulare sind nach Einkunftsart und Bezugsland strukturiert; da
 - **Auslaendische Ansaessigkeitsbescheinigung** der Heimatfinanzbehoerde des Glaeubigers als Anlage (z.B. IRS Form 6166 bei US-Empfaengern; HMRC-Bescheinigung bei UK; CFR-1 bei Polen; CRA-Bescheinigung bei Kanada).
 - **Doppelbesteuerungs-Erklaerung** bei Schachteldividenden (§ 43b EStG / Mutter-Tochter-Richtlinie) — separat.
 
-Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-Online-Portal (bzst.de/BOP) abrufen — keine Formularnummer aus diesem Skill ohne Quellenpruefung in Mandanten-Antraege uebernehmen**.
+Die konkreten Formularnummern ändern sich periodisch; **stets über das BZSt-Online-Portal (bzst.de/BOP) abrufen — keine Formularnummer aus diesem Skill ohne Quellenpruefung in Mandanten-Antraege uebernehmen**.
 
 ### Verfahrensschritte konkretisiert
 
-1. Glaeubiger laesst Ansaessigkeitsbescheinigung der Heimatfinanzbehoerde ausstellen.
-2. Glaeubiger oder dessen Bevollmaechtigter fuellt das einschlaegige BZSt-Formular ueber BOP aus.
+1. Glaeubiger lässt Ansaessigkeitsbescheinigung der Heimatfinanzbehoerde ausstellen.
+2. Glaeubiger oder dessen Bevollmaechtigter fuellt das einschlaegige BZSt-Formular über BOP aus.
 3. Anlagen: Ansaessigkeitsbescheinigung, Quellensteuerbescheinigung (Kapitalertragsteuer-Bescheinigung des Schuldners), ggf. Substanzdokumentation (§ 50d Abs. 3 EStG-Test).
 4. Bei Lizenz- oder Kuenstler/Sportler-Faellen zusaetzlich: Vertrag, Verguetungsabrechnung.
-5. Einreichung digital ueber BOP oder ausnahmsweise postalisch.
-6. Bearbeitungsdauer: typ. 6 bis 24 Monate (Stand 05/2026 — aktuelle Dauer ueber BZSt-Newsletter pruefen).
+5. Einreichung digital über BOP oder ausnahmsweise postalisch.
+6. Bearbeitungsdauer: typ. 6 bis 24 Monate (Stand 05/2026 — aktuelle Dauer über BZSt-Newsletter prüfen).
 7. Bescheid; bei Ablehnung Einspruch innerhalb eines Monats.
 8. Klagebefugnis vor Finanzgericht Koeln (oertlich zuständig für BZSt-Streitigkeiten).
 
@@ -109,7 +109,7 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 2. Welche Einkunftsart, welcher Hoechstsatz?
 3. Greift EU-MTRL/ZinsLizenzRL? Verhaeltnis zum DBA: in der Regel guenstiger.
 
-### Phase 2 — Anti-Missbrauch pruefen
+### Phase 2 — Anti-Missbrauch prüfen
 
 1. § 50d Abs. 3 EStG-Substanztest dokumentieren (Personal, Buero, Geschaeftsbetrieb, Geschaeftsentscheidungen).
 2. § 50j EStG-Haltefrist bei Dividenden.
@@ -119,7 +119,7 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 
 1. Formularauswahl und Datenkomplettierung.
 2. Ansaessigkeitsbescheinigung der Auslandsbehoerde.
-3. Anlage Steuerbescheid Heimatstaat, ggf. Vertraege.
+3. Anlage Steuerbescheid Heimatstaat, ggf. Verträge.
 4. Einreichung BOP-Portal oder postalisch.
 
 ### Phase 4 — Bearbeitung und Folgeverfahren
@@ -140,20 +140,20 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 - Antragsbearbeitungsdauer BZSt aktuell hoch (12-24 Monate) — Cashflow-Auswirkung beim Glaeubiger bedenken; Freistellungsbescheinigung vor Zahlung ist deutlich effizienter als Erstattung.
 - Bei Konzernholdings: Substanz aufbauen (Personal, Buero, Investitionsentscheidungen) — Stammbuch der Geschaeftsfuehrungssitzungen.
 - Erstattungsfrist § 50c Abs. 3 EStG: vier Jahre nach Ablauf Entstehungsjahr — frueh fristen.
-- Bei Cum-Cum-Konstellationen: § 50j EStG-Pruefung am Kalender, nicht erst bei Antragstellung.
-- EuGH-Rechtsprechung zu § 50d Abs. 3 EStG: bei abgelehnten Altantraegen Wiederaufnahme pruefen.
+- Bei Cum-Cum-Konstellationen: § 50j EStG-Prüfung am Kalender, nicht erst bei Antragstellung.
+- EuGH-Rechtsprechung zu § 50d Abs. 3 EStG: bei abgelehnten Altantraegen Wiederaufnahme prüfen.
 - Im Verhaeltnis EU: Mutter-Tochter-Richtlinie (§ 43b EStG) regelmaessig guenstiger als DBA (0 Prozent Quellensteuer auf Dividenden bei 10-Prozent-Beteiligung und Mindesthaltedauer).
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
 - **Q1-Antragsfenster (Januar bis Maerz)** beim BZSt nutzen: in der Praxis kuerzere Bearbeitungszeit als im Q4. Daten frueh sammeln, Antrag pre-Q1 vorbereiten.
-- **BOP-Online-Portal** ist Standardweg — postalisch nur ausnahmsweise. BOP-Zugang vorab beantragen (4-6 Wochen Vorlauf, Authentifizierung ueber ELSTER oder ZertifikatePool).
-- **Ansaessigkeitsbescheinigung des Heimat-FA**: Bearbeitung in vielen Auslandsstaaten 4-8 Wochen (USA: IRS Form 6166 ueber Form 8802 — 6-8 Wochen; UK: HMRC Certificate of Residence — 4-6 Wochen; Polen: CFR-1 — variabel). Vorab beschaffen — ohne diese kein BZSt-Antrag.
+- **BOP-Online-Portal** ist Standardweg — postalisch nur ausnahmsweise. BOP-Zugang vorab beantragen (4-6 Wochen Vorlauf, Authentifizierung über ELSTER oder ZertifikatePool).
+- **Ansaessigkeitsbescheinigung des Heimat-FA**: Bearbeitung in vielen Auslandsstaaten 4-8 Wochen (USA: IRS Form 6166 über Form 8802 — 6-8 Wochen; UK: HMRC Certificate of Residence — 4-6 Wochen; Polen: CFR-1 — variabel). Vorab beschaffen — ohne diese kein BZSt-Antrag.
 - **Originalbelege Lieferung**: Steuerbescheinigung des deutschen Schuldners (Kapitalertragsteuer-Bescheinigung; Lohnsteuerabzugsbescheinigung) im Original an BZSt; Ansaessigkeitsbescheinigung als beglaubigte Kopie genuegt.
 - **Apostille / Konsularbeglaubigung** bei Drittstaaten (USA: Apostille auf Form 6166; Australien, VAE: Konsularstempel) — Vorlaufzeit 6-10 Wochen einplanen.
-- **Standardformulare aus dem BZSt-Online-Portal (BOP)**: das BOP listet nach Einkunftsart geordnete Antragsformulare; konkrete Bezeichnungen und Formularnummern aendern sich periodisch — vom Anwender vor jeder Antragstellung mit aktuellem BOP-Verzeichnis abgleichen. KEINE Formularnummern aus diesem Skill ohne aktuelle Verifikation in den Mandantenantrag uebernehmen.
+- **Standardformulare aus dem BZSt-Online-Portal (BOP)**: das BOP listet nach Einkunftsart geordnete Antragsformulare; konkrete Bezeichnungen und Formularnummern ändern sich periodisch — vom Anwender vor jeder Antragstellung mit aktuellem BOP-Verzeichnis abgleichen. KEINE Formularnummern aus diesem Skill ohne aktuelle Verifikation in den Mandantenantrag uebernehmen.
 - **Substanzdokumentation aufbauen, bevor Antrag gestellt wird**: Stammbuch Geschaeftsfuehrungssitzungen mit Datum, Ort, Teilnehmer, Beschluessen; Personalliste mit Aufgaben; Mietvertrag und Foto Buero; Telefonliste; Bankvollmachten.
-- **Einspruchsfrist 1 Monat**: bei Ablehnung digital ueber BOP einlegen — keine Verzoegerung durch Postversand.
+- **Einspruchsfrist 1 Monat**: bei Ablehnung digital über BOP einlegen — keine Verzoegerung durch Postversand.
 - **FG Koeln zuständig** für BZSt-Streitigkeiten — eigene Kammer für Internationales Steuerrecht.
 
 ## Trade-off-Tabelle
@@ -165,14 +165,14 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 | Substanz aufbauen vs. Briefkasten-Holding | Personal, Buero, Geschaeftstaetigkeit, Investitionsentscheidungen | Briefkasten / Treuhandverwaltung | bei wesentlichen Erstattungsvolumina Substanz |
 | Einspruch vs. Klage | Verwaltungsverfahren beim BZSt, dann FG Koeln | Direkt Klage bei FG Koeln nach Einspruchsablehnung | erst Einspruch, dann Klage — sonst Unzulaessigkeit |
 | BZSt-Erstattung vs. MAP (Art. 25 MA) | unilateral beim BZSt | bilaterale Verstaendigung zwischen Finanzbehoerden | bei klarem DBA-Anspruch Pfad A; bei strittiger Qualifikation Pfad B |
-| Cum-Cum hinnehmen vs. vermeiden | Halten ueber Stichtag; Risiko § 50j EStG-Sanktion | Verkauf vor Stichtag oder 45/91-Tage-Compliance | immer Pfad B — Sanktionen drakonisch |
+| Cum-Cum hinnehmen vs. vermeiden | Halten über Stichtag; Risiko § 50j EStG-Sanktion | Verkauf vor Stichtag oder 45/91-Tage-Compliance | immer Pfad B — Sanktionen drakonisch |
 
-## Was Reviewer/Pruefer triggert
+## Was Reviewer/Prüfer triggert
 
 - **Falsche BZSt-Antragsformular-Bezeichnung** oder veraltete Formularnummer.
-- **Ansaessigkeitsbescheinigung veraltet** (ueber ein Jahr alt, für das betreffende Veranlagungsjahr nicht gueltig).
-- **§ 50d Abs. 3 EStG-Substanz nur behauptet, nicht dokumentiert** — Pruefer verlangt Personalliste, Foto Buero, Stammbuch.
-- **§ 50j EStG-Cum-Cum-Frist nicht eingehalten** — Pruefer prueft Stichtagsbuch.
+- **Ansaessigkeitsbescheinigung veraltet** (über ein Jahr alt, für das betreffende Veranlagungsjahr nicht gueltig).
+- **§ 50d Abs. 3 EStG-Substanz nur behauptet, nicht dokumentiert** — Prüfer verlangt Personalliste, Foto Buero, Stammbuch.
+- **§ 50j EStG-Cum-Cum-Frist nicht eingehalten** — Prüfer prüft Stichtagsbuch.
 - **Steuerbescheinigung des deutschen Schuldners fehlt** oder ist unvollstaendig.
 - **Doppelbeantragung (BZSt + MAP)** ohne Begruendung des Bedarfs.
 - **Antrag der falschen Person** (z.B. nicht der wirtschaftliche Beneficial Owner).
@@ -189,7 +189,7 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 | 4 | Steuerbescheinigung des deutschen Schuldners (KapErtSt-Bescheinigung) einholen | 1-2 Wochen |
 | 5 | Substanzdokumentation aufbauen | laufend |
 | 6 | Antrag im BOP digital ausfuellen | 1-2 Tage |
-| 7 | Anlagen hochladen (Bescheinigungen, Vertraege, Substanz) | mit Schritt 6 |
+| 7 | Anlagen hochladen (Bescheinigungen, Verträge, Substanz) | mit Schritt 6 |
 | 8 | Antrag absenden | sofort |
 | 9 | BZSt-Bearbeitung | 6-24 Monate |
 | 10 | Rueckfragen fristgerecht beantworten | ad hoc |
@@ -206,7 +206,7 @@ Sachverhalt: US-Mutter haelt 60 Prozent an deutscher GmbH. Dividende 200.000 EUR
 | Dividende brutto | 200.000 EUR |
 | Deutscher KapErtSt-Einbehalt nat. Recht (26,375 Prozent) | 52.750 EUR |
 | Empfang US-Mutter nach Einbehalt | 147.250 EUR |
-| DBA-Schachtelsatz USA (5 Prozent bei < 80 Prozent Beteiligung; konkret im DBA pruefen) | 10.000 EUR |
+| DBA-Schachtelsatz USA (5 Prozent bei < 80 Prozent Beteiligung; konkret im DBA prüfen) | 10.000 EUR |
 | Erstattungsanspruch beim BZSt | 52.750 - 10.000 = 42.750 EUR |
 | Bei 80 Prozent Beteiligung waere: 0 Prozent Quellensteuer | Erstattung waere 52.750 EUR |
 | Frist § 50c Abs. 3 EStG | 4 Jahre nach Ablauf Entstehungsjahr |

@@ -20,7 +20,7 @@ description: "Trunkenheit im Verkehr nach Paragraph 316 StGB: Abstraktes Gefaehr
 
 Paragraph 316 StGB sanktioniert das Fuehren eines Fahrzeugs im fahruntuechtigen Zustand — auch ohne dass es zu einem Beinaheunfall oder einer konkreten Gefahr kommt. Anders als Paragraph 315c StGB ist Paragraph 316 StGB **abstraktes Gefaehrdungsdelikt**: bereits die Teilnahme am Strassenverkehr im fahruntuechtigen Zustand ist strafbar. Geschuetztes Rechtsgut: Sicherheit des Strassenverkehrs.
 
-Anwendungsfaelle: nach Geburtstagsfeier mit 1.4 Promille zur naechsten Bar fahren, ohne Vorfall; nach Cannabiskonsum im Strassenverkehr mit Ausfallerscheinungen; E-Scooter-Fahrer mit 1.1 Promille (Anwendung umstritten, BGH-Pruefung).
+Anwendungsfaelle: nach Geburtstagsfeier mit 1.4 Promille zur naechsten Bar fahren, ohne Vorfall; nach Cannabiskonsum im Strassenverkehr mit Ausfallerscheinungen; E-Scooter-Fahrer mit 1.1 Promille (Anwendung umstritten, BGH-Prüfung).
 
 ## Tatbestand und Auslegung
 
@@ -30,11 +30,11 @@ Erfasst sind alle Fahrzeuge im Strassenverkehr, einschliesslich E-Scooter, Mofas
 
 ### Absolute Fahruntuechtigkeit ab 1.1 Promille
 
-Bei einer Blutalkoholkonzentration von 1.1 Promille oder mehr ist die Fahruntuechtigkeit unwiderleglich vermutet (BGH staendige Rspr. seit 1990). Es ist kein Gegenbeweis durch Alkoholgewoehnung oder Leistungstest moeglich. Die Grenze für Fahrradfahrer liegt bei 1.6 Promille.
+Bei einer Blutalkoholkonzentration von 1.1 Promille oder mehr ist die Fahruntuechtigkeit unwiderleglich vermutet (BGH staendige Rspr. seit 1990). Es ist kein Gegenbeweis durch Alkoholgewoehnung oder Leistungstest möglich. Die Grenze für Fahrradfahrer liegt bei 1.6 Promille.
 
 ### Relative Fahruntuechtigkeit ab 0.3 Promille
 
-Bei Werten von 0.3 bis unter 1.1 Promille ist Fahruntuechtigkeit nur bei Hinzutreten von Ausfallerscheinungen anzunehmen (Schlangenlinien, Unfall, Bremsverhalten, Verhalten bei Kontrolle). Ausfallerscheinungen muessen durch Polizeibericht oder Zeugen substantiiert sein.
+Bei Werten von 0.3 bis unter 1.1 Promille ist Fahruntuechtigkeit nur bei Hinzutreten von Ausfallerscheinungen anzunehmen (Schlangenlinien, Unfall, Bremsverhalten, Verhalten bei Kontrolle). Ausfallerscheinungen müssen durch Polizeibericht oder Zeugen substantiiert sein.
 
 ### Drogen
 
@@ -50,23 +50,23 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 
 ## Praktikertipps Verteidigung
 
-- **Promille-Wert kritisch pruefen.** Atemalkohol-Voranzeige ist nicht beweiserheblich; Blutprobe ist ausschlaggebend. Messmethode (Headspace-Gaschromatographie + ADH-Methode) ueberpruefen. Doppelmessung erforderlich.
+- **Promille-Wert kritisch prüfen.** Atemalkohol-Voranzeige ist nicht beweiserheblich; Blutprobe ist ausschlaggebend. Messmethode (Headspace-Gaschromatographie + ADH-Methode) ueberpruefen. Doppelmessung erforderlich.
 - **Rueckrechnung auf Tatzeit.** BAK steigt nach Konsum noch an (Resorptionsphase bis 60 Minuten); Rueckrechnung vom Messzeitpunkt zur Tatzeit ist erforderlich. Faustregel: 0.1 Promille pro Stunde Abbau, dazu Sicherheitszuschlag.
 - **Nachtrunk-Einrede.** Mandant hat nach der Fahrt getrunken? Detailrekonstruktion mit Zeugen, Belegen, Trinkmenge.
-- **Begleitschuetzungen — Trinkende.** Der Aufnahmezeitpunkt vor und nach der Fahrt klaeren; falls Anhaltspunkte für "verfaelschende Begleiterscheinungen" (Mundalkohol-Restwert, Medikamenteneinnahme) bestehen.
-- **Vorsatz angreifen.** Bei knappem Wert ueber 1.1 Promille: Mandant haette wirklich erkennen muessen, dass er fahruntuechtig ist? Bei "Restalkohol am Morgen" oft nur Fahrlaessigkeit nach Absatz 2.
-- **Berufstaetigkeit als Argument gegen Sperrfrist.** Kein Argument gegen Schuldspruch, aber gegen Hoehe der Sperrfrist nach Paragraph 69a StGB.
+- **Begleitschuetzungen — Trinkende.** Der Aufnahmezeitpunkt vor und nach der Fahrt klären; falls Anhaltspunkte für "verfaelschende Begleiterscheinungen" (Mundalkohol-Restwert, Medikamenteneinnahme) bestehen.
+- **Vorsatz angreifen.** Bei knappem Wert über 1.1 Promille: Mandant haette wirklich erkennen müssen, dass er fahruntuechtig ist? Bei "Restalkohol am Morgen" oft nur Fahrlaessigkeit nach Absatz 2.
+- **Berufstaetigkeit als Argument gegen Sperrfrist.** Kein Argument gegen Schuldspruch, aber gegen Höhe der Sperrfrist nach Paragraph 69a StGB.
 
 ## Trade-off-Matrix
 
 | Pfad A Bestreiten Fahruntuechtigkeit | Pfad B Gestaendnis, Bestreiten Vorsatz, Antrag auf Absatz 2 | Empfehlung |
 | --- | --- | --- |
-| Bei Promille klar ueber 1.1 schwer zu fuehren; Messung selten erfolgreich angreifbar. | Vorsatz-Bestreitung greift bei knappem Wert oder Restalkohol-Konstellation; Strafmilderung erheblich. | Bei Wert deutlich ueber 1.1 (z. B. 1.4) Pfad B oft kontraproduktiv; bei Wert knapp ueber Grenze (z. B. 1.12) Pfad B sinnvoll. |
+| Bei Promille klar über 1.1 schwer zu fuehren; Messung selten erfolgreich angreifbar. | Vorsatz-Bestreitung greift bei knappem Wert oder Restalkohol-Konstellation; Strafmilderung erheblich. | Bei Wert deutlich über 1.1 (z. B. 1.4) Pfad B oft kontraproduktiv; bei Wert knapp über Grenze (z. B. 1.12) Pfad B sinnvoll. |
 
 ## Konkurrenzen
 
 - **Paragraph 316 StGB tritt zurueck hinter Paragraph 315c Abs 1 Nr 1 Buchstabe a StGB.** Wenn konkrete Gefahr eingetreten ist, ist Paragraph 315c StGB einschlaegig.
-- **Paragraph 316 StGB und Paragraph 142 StGB unerlaubtes Entfernen vom Unfallort.** Tatmehrheit moeglich.
+- **Paragraph 316 StGB und Paragraph 142 StGB unerlaubtes Entfernen vom Unfallort.** Tatmehrheit möglich.
 - **Paragraph 316 StGB und Paragraph 24a StVG.** Paragraph 24a StVG ist OWi (Alkohol ab 0.5 Promille ohne Fahruntuechtigkeit); Paragraph 316 StGB ist Strafrecht. Subsidiaritaet der OWi.
 - **Paragraph 316 StGB und Paragraph 323a StGB Vollrauschtat.** Sehr selten; wenn Mandant im Vollrausch fuhr und in diesem Zustand andere Tat begeht.
 
@@ -79,13 +79,13 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 - **Sperrfrist Paragraph 69a StGB** in der Praxis 9 bis 12 Monate (Ersttat), 12 bis 24 Monate (Wiederholungsfall).
 - **MPU-Pflicht** bei Werten ab 1.6 Promille oder bei Wiederholung.
 - **Punkte:** 3 Punkte Flensburg.
-- BZRG-Eintrag bei Geldstrafe ueber 90 Tagessaetzen oder Freiheitsstrafe.
+- BZRG-Eintrag bei Geldstrafe über 90 Tagessaetzen oder Freiheitsstrafe.
 
 ## Mustertexte
 
-**Einlassungs-Snippet (Restalkohol-Konstellation):** "Ich habe am Vorabend bis ca. 23 Uhr Alkohol getrunken und bin um 9 Uhr morgens zur Arbeit gefahren. Ich war subjektiv ueberzeugt, ausgenuechtert zu sein. Dass meine BAK noch 1.15 Promille betrug, habe ich nicht erkennen koennen."
+**Einlassungs-Snippet (Restalkohol-Konstellation):** "Ich habe am Vorabend bis ca. 23 Uhr Alkohol getrunken und bin um 9 Uhr morgens zur Arbeit gefahren. Ich war subjektiv ueberzeugt, ausgenuechtert zu sein. Dass meine BAK noch 1.15 Promille betrug, habe ich nicht erkennen können."
 
-**Schriftsatz-Snippet (Rueckrechnung beanstanden):** "Die im Polizeibericht angesetzte Rueckrechnung von 0.2 Promille pro Stunde ist unzutreffend. Bei aufsteigender Resorptionsphase ist eine Rueckrechnung nach BGH staendige Rspr. nicht zulaessig. Es ist nicht ausgeschlossen, dass die BAK zur Tatzeit unter 1.1 Promille lag."
+**Schriftsatz-Snippet (Rueckrechnung beanstanden):** "Die im Polizeibericht angesetzte Rueckrechnung von 0.2 Promille pro Stunde ist unzutreffend. Bei aufsteigender Resorptionsphase ist eine Rueckrechnung nach BGH staendige Rspr. nicht zulässig. Es ist nicht ausgeschlossen, dass die BAK zur Tatzeit unter 1.1 Promille lag."
 
 **Antrag auf Wiederzulassung zur Eignungspruefung nach 6 Monaten Sperre:** "Es wird beantragt, die Sperrfrist nach Paragraph 69a Abs 7 StGB vorzeitig aufzuheben, da die Eignung zur Fuehrung von Kraftfahrzeugen wieder hergestellt ist. Es liegt ein verkehrspsychologisches Gutachten vom DD.MM.JJJJ vor."
 

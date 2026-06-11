@@ -113,7 +113,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Normen
 
-- **Art. 17 MAR** — Ad-hoc-Publizitaet; kursrelevante Informationen sofort; Aufschub moeglich
+- **Art. 17 MAR** — Ad-hoc-Publizitaet; kursrelevante Informationen sofort; Aufschub möglich
 - **Art. 18 MAR** — Insider-Liste; alle Personen mit Zugang zu Insiderinformationen; aktuell halten
 - **Art. 14 MAR** — Insiderhandelsverbot; Weitergabe verboten; kein Trading auf Basis Insiderinfo
 - **§§ 1, 19 GWB** — kartellrechtliche Verbote; Informationsaustausch zwischen Wettbewerbern vor Freigabe
@@ -124,7 +124,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BKartA, Entscheidung B2-141/18 — Gun Jumping: Kaeufer-Verkaefer hatten vor Kartellfreigabe Informationen ueber Preise und Kunden ausgetauscht; Bussgeld; Clean Team nachtraeglich eingerichtet
+- BKartA, Entscheidung B2-141/18 — Gun Jumping: Kaeufer-Verkaefer hatten vor Kartellfreigabe Informationen über Preise und Kunden ausgetauscht; Bussgeld; Clean Team nachtraeglich eingerichtet
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Insider-Management: Kategorien und Regeln
@@ -137,8 +137,8 @@ Alle Personen die Zugang zu Insiderinformationen der Zielgesellschaft haben:
 
 Pflichten:
 - Sofort in Insider-Liste aufnehmen (Datum, Funktion, Zugangsground)
-- Schriftliche Belehrung ueber Insider-Pflichten (Unterschrift)
-- Liste bei BaFin-Anfrage sofort vorlegen koennen
+- Schriftliche Belehrung über Insider-Pflichten (Unterschrift)
+- Liste bei BaFin-Anfrage sofort vorlegen können
 
 ### Kartellrechtliche Firewall (Clean Team)
 
@@ -154,17 +154,17 @@ Bei Wettbewerber-Transaktionen:
 Bei widersprechenden Mandaten in derselben Kanzlei:
 - Verschiedene Teams; keine gemeinsamen Akten
 - Separate IT-Verzeichnisse; Zugangssperren
-- Keine Kommunikation ueber mandatsrelevante Informationen
+- Keine Kommunikation über mandatsrelevante Informationen
 - Schriftlicher Firewall-Beschluss
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Insider-Status bestimmen** — borsennotierte Gesellschaft; Kursrelevanz-Pruefung
+1. **Insider-Status bestimmen** — borsennotierte Gesellschaft; Kursrelevanz-Prüfung
 2. **Insider-Liste anlegen** — alle Teammitglieder; Datum des Zugangs; Belehrung
 3. **Clean-Room einrichten** — bei Wettbewerber-Transaktionen; § 1 GWB Abgrenzung
 4. **Firewall in Kanzlei** — bei parallelen widersprechenden Mandaten
 5. **Need-to-know-Regeln definieren** — wer bekommt welche Informationen; Protokoll
-6. **Ad-hoc-Moeglichkeit staendig pruefen** — Signing = sofortige Ad-hoc; kein Aufschub mehr
+6. **Ad-hoc-Moeglichkeit staendig prüfen** — Signing = sofortige Ad-hoc; kein Aufschub mehr
 7. **Insider-Liste beim Closing archivieren** — vollstaendig; mit Datum und Unterschriften
 
 ## Output-Template Insider-Belehrung

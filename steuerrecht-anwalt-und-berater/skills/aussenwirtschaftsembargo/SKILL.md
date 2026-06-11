@@ -17,7 +17,7 @@ description: "Pruefung der Einhaltung des Aussenwirtschaftsrechts in Mandantenst
 2. Wer ist Endempfaenger und wo ist der Verwendungsort?
 3. Liegt eine EU-Sanktion gegen Person Schiff Land oder Sektor vor?
 4. Ist eine Genehmigung erforderlich und wurde sie eingeholt?
-5. Drohstrafrechtlich § 17 § 18 AWG; Compliance-Massnahmen umgesetzt?
+5. Drohstrafrechtlich § 17 § 18 AWG; Compliance-Maßnahmen umgesetzt?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen

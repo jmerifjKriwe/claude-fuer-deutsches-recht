@@ -16,11 +16,11 @@ Edge-Cases die das Standardverfahren stoppen.
 | Schuldner unter Betreuung | Vertretung durch Betreuer Klage gegen Betreuer in seiner Stellvertreterrolle | BGB 1814 ff |
 | Schuldner Minderjaehrige | Eltern als gesetzliche Vertreter | BGB 1626 1629 |
 | Schuldner GmbH ohne Geschaeftsfuehrer | Notbestellung BGB 29 oder Bestellung Notgeschaeftsfuehrer GmbHG 35 |
-| Schuldner Auslandsanschrift | Brüssel Ia EuMVVO Pruefung | VO 1215/2012 |
+| Schuldner Auslandsanschrift | Brüssel Ia EuMVVO Prüfung | VO 1215/2012 |
 | Schuldner BGB-Gesellschaft GbR | Klage gegen Gesellschaft und Gesellschafter samt Haftung BGB 720 723 |
 | Forderung gegen Verein | Klage gegen e V Vorstand | BGB 26 |
 | Insolvente Privatperson | Tabellenanmeldung InsO 174 oder Restschuldbefreiung beachten | InsO 286 ff |
-| Forderung gegen Behörde | Pruefung Rechtsweg | GVG 13 VwGO 40 |
+| Forderung gegen Behörde | Prüfung Rechtsweg | GVG 13 VwGO 40 |
 
 ## Oeffentliche Zustellung ZPO 185
 
@@ -28,7 +28,7 @@ Voraussetzung ist dass Aufenthalt unbekannt und Wohnsitz nicht zu ermitteln. Ant
 
 ## Nachlass-Konstellation
 
-Bei verstorbenem Schuldner pruefen ob Nachlass werthaltig. Klage gegen Erben BGB 1967 mit Haftung beschraenkt nach BGB 1990 wenn Nachlass unzureichend. Nachlasspflegschaft beantragen falls Erben unbekannt BGB 1961.
+Bei verstorbenem Schuldner prüfen ob Nachlass werthaltig. Klage gegen Erben BGB 1967 mit Haftung beschraenkt nach BGB 1990 wenn Nachlass unzureichend. Nachlasspflegschaft beantragen falls Erben unbekannt BGB 1961.
 
 ## Norm-Pinpoints
 

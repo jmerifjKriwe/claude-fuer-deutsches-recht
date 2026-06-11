@@ -156,11 +156,11 @@ Veräußerungserlös (Marktpreis bei Verkauf)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Krypto-Nachlass aufklaeren und verwerten | Konstellations-Pruefung A-D; Schriftsatzbausteine unten |
+| Standard — Krypto-Nachlass aufklaeren und verwerten | Konstellations-Prüfung A-D; Schriftsatzbausteine unten |
 | Variante A — Seed-Phrase unauffindbar | Professioneller Wallet-Recovery-Dienstleister; einstweilige Sicherung |
 | Variante B — Exchange kooperationsunwillig | § 97 InsO-Anfrage-Analogie; ggf. einstweilige Verfuegung |
 | Variante C — Streit zwischen Miterben | Auseinandersetzungsklage; Verwertungsstrategie-Vermerk als Basis |
@@ -229,7 +229,7 @@ Verfügungsgrund: Dringende Gefahr durch drohende technische
 Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

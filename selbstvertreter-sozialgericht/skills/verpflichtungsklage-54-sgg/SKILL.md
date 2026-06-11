@@ -42,7 +42,7 @@ Sie haben etwas beantragt. Die Behörde hat Nein gesagt. Sie wollen, dass das Ge
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, was Sie wollen
+### Schritt 1 — Prüfen, was Sie wollen
 
 Konkret: Welche Leistung mit welchem Beginn?
 
@@ -126,7 +126,7 @@ Anlagen:
 
 ### Schritt 4 — Antrag auf eigenes Gutachten
 
-Bei medizinisch unsicheren Faellen koennen Sie nach § 109 SGG einen eigenen Gutachter benennen. Achtung: Sie tragen die Kosten zunaechst selbst.
+Bei medizinisch unsicheren Faellen können Sie nach § 109 SGG einen eigenen Gutachter benennen. Achtung: Sie tragen die Kosten zunaechst selbst.
 
 Siehe `sachverstaendigen-wahlrecht-109-sgg`.
 
@@ -142,17 +142,17 @@ Wie Anfechtungsklage: schriftlich, per Fax, MJP oder zur Niederschrift.
 - Termin zur muendlichen Verhandlung.
 - Urteil.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Genauer Antrag**: "EM-Rente in voller Hoehe ab Antragstellung [Datum]". Nicht nur "Ich will Rente".
-- **Versicherungsrechtliche Voraussetzungen**: Vor jedem EM-Rente-Streit muessen Sie pruefen, ob Wartezeit (5 Jahre) und Pflichtbeitragsdichte (3 von 5) erfuellt sind. Wenn nicht: keine Chance, ausser Ausnahme.
+- **Genauer Antrag**: "EM-Rente in voller Höhe ab Antragstellung [Datum]". Nicht nur "Ich will Rente".
+- **Versicherungsrechtliche Voraussetzungen**: Vor jedem EM-Rente-Streit müssen Sie prüfen, ob Wartezeit (5 Jahre) und Pflichtbeitragsdichte (3 von 5) erfuellt sind. Wenn nicht: keine Chance, ausser Ausnahme.
 - **Berufsschutz** § 240 SGB VI nur für Jahrgaenge vor 02.01.1961.
 
 ## Typische Fehler
 
 - "Ich will mehr Geld" ohne konkrete Bezugnahme auf Leistung → Antrag konkret formulieren
 - Keine medizinischen Belege → Atteste sammeln
-- Versicherungsrechtliche Voraussetzungen vergessen → Versicherungsverlauf pruefen
+- Versicherungsrechtliche Voraussetzungen vergessen → Versicherungsverlauf prüfen
 - Nicht beachtet, dass auch Anfechtung mit drin sein muss → kombinierter Antrag
 
 ## Quellen und Aktualitaet

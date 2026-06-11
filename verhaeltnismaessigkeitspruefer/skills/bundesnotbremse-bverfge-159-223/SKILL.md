@@ -15,9 +15,9 @@ ueberschritt. Mehr als 7000 Verfassungsbeschwerden.
 ## Entscheidung
 
 Senat 1 BVerfG, Beschluss 19.11.2021, 1 BvR 781/21 ua, BVerfGE 159, 223 (Bundesnotbremse).
-Bundesnotbremse verfassungsgemaess. Verhaeltnismaessigkeitspruefung Stufe fuer Stufe.
+Bundesnotbremse verfassungsgemaess. Verhaeltnismaessigkeitspruefung Stufe für Stufe.
 
-## Stufenweise Pruefung
+## Stufenweise Prüfung
 
 ### Stufe 1: Legitimer Zweck
 Schutz von Leben Gesundheit und Funktionsfaehigkeit des Gesundheitssystems.
@@ -29,7 +29,7 @@ Beschraenkung von Kontakten foerdert die Reduktion von Infektionsketten.
 Geeignet.
 
 ### Stufe 3: Erforderlichkeit
-Mildere Mittel (Bitten Empfehlungen begrenzte regionale Massnahmen) waeren
+Mildere Mittel (Bitten Empfehlungen begrenzte regionale Maßnahmen) waeren
 **nicht gleich effektiv**, weil sie keine flaechendeckende Kontaktreduktion
 sicherstellten. Erforderlich.
 
@@ -41,12 +41,12 @@ Aussetzungsklausel**. Angemessen.
 
 ## Bedeutung
 
-- Erste vollstaendige BVerfG-Pruefung von Pandemie-Massnahmen.
+- Erste vollstaendige BVerfG-Prüfung von Pandemie-Maßnahmen.
 - Bekraeftigung der Einschaetzungspraerogative bei dynamischen Krisen.
 - Befristung Ausnahmen Schwellenwerte als Verhaeltnismaessigkeitsstuetzen.
 - Recht auf Selbstgefaehrdung tritt zurueck bei Drittgefaehrdung.
 
-## Implikation fuer den Pruefer
+## Implikation für den Prüfer
 
 Bei dynamischen Gefahrenlagen:
 - bestaetige Geeignetheit bei vertretbarer Prognose.

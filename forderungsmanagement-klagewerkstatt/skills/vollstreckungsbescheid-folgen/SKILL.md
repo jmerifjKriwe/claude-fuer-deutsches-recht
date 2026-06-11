@@ -17,7 +17,7 @@ Der Vollstreckungsbescheid (VB) ist das Endprodukt des gerichtlichen Mahnverfahr
 | Antragsfrist | binnen 6 Monaten nach Mahnbescheid-Zustellung (§ 701 ZPO) |
 | Anschluss-Kosten | Glaeubiger zahlt zusaetzliche Gerichtsgebuehr 0,5 |
 
-**Ablauf der 6-Monats-Frist:** Mahnbescheid verliert Wirkung; neuer Mahnbescheid moeglich (mit erneuter Verjährungshemmung § 204 BGB).
+**Ablauf der 6-Monats-Frist:** Mahnbescheid verliert Wirkung; neuer Mahnbescheid möglich (mit erneuter Verjährungshemmung § 204 BGB).
 
 ## Wirkungen des Vollstreckungsbescheids
 
@@ -71,11 +71,11 @@ Vor Erlass: nochmalige Belehrung (§ 692 Abs. 1 Nr. 5 ZPO bei MB, gilt fort).
 - Antrag VB **nicht** zu spaet stellen – sonst neue Hemmung erforderlich.
 - VB sofort vollstrecken (insbesondere Konto-/Lohnpfaendung), Vermoegensauskunft beantragen.
 - Bei verspaetetem Einspruch: VB wirksam.
-- VB ist **keine Sachentscheidung** – bei spaeterem Streit ueber Anspruch nur Vollstreckungsabwehrklage § 767 ZPO.
+- VB ist **keine Sachentscheidung** – bei spaeterem Streit über Anspruch nur Vollstreckungsabwehrklage § 767 ZPO.
 
 ## Vollstreckungsabwehrklage § 767 ZPO
 
-Schuldner kann Einwendungen geltend machen, die **nach Schluss der muendlichen Verhandlung** entstanden sind (z.B. Erfuellung nach VB-Erlass). Bei rein praeklusiven Einwendungen (bereits vor MB-Zustellung): nicht zulaessig (§ 767 Abs. 2 ZPO).
+Schuldner kann Einwendungen geltend machen, die **nach Schluss der muendlichen Verhandlung** entstanden sind (z.B. Erfuellung nach VB-Erlass). Bei rein praeklusiven Einwendungen (bereits vor MB-Zustellung): nicht zulässig (§ 767 Abs. 2 ZPO).
 
 ## Konkurrenz Klage vs. VB-Strategie
 
@@ -99,7 +99,7 @@ Bei erfolgloser Vermoegensauskunft Eintrag im zentralen Schuldnerverzeichnis (on
 - Kein Antrag Vollstreckungsklausel → Zwangsvollstreckung scheitert.
 - Vollstreckungsabwehrklage Praeklusion uebersehen.
 - Schuldnerverzeichnis nicht recherchiert vor neuer Forderung.
-- Bei VB-Einspruch keine fristgerechte Anspruchsbegruendung → Saeumnisurteil gegen Klaeger.
+- Bei VB-Einspruch keine fristgerechte Anspruchsbegruendung → Saeumnisurteil gegen Kläger.
 
 ## Quellen
 - ZPO § 699 [gesetze-im-internet.de/zpo/__699.html](https://www.gesetze-im-internet.de/zpo/__699.html)

@@ -25,12 +25,12 @@ diese Insassen zum Schutz anderer. Die getoeteten Insassen werden zur
 "Verfuegungsmasse" einer Rettungsabwaegung. Das verletzt die Menschenwuerde
 Art 1 I GG, die jegliche Saldierung Mensch gegen Mensch ausschliesst.
 
-## Konsequenz fuer Verhaeltnismaessigkeit
+## Konsequenz für Verhältnismäßigkeit
 
-- Vor der vierten Stufe (Angemessenheit) **bricht** die Pruefung,
+- Vor der vierten Stufe (Angemessenheit) **bricht** die Prüfung,
   wenn die Menschenwuerde beruehrt ist.
 - Menschenwuerde ist **unverfuegbar** und nicht abwaegungsfaehig.
-- Das gleiche gilt fuer den **Wesensgehalt** Art 19 II GG und das
+- Das gleiche gilt für den **Wesensgehalt** Art 19 II GG und das
   **Existenzminimum** (BVerfGE 125, 175 (Hartz IV)).
 
 ## Abwaegungsverbot
@@ -40,9 +40,9 @@ vereinbar, vorsaetzlich die Toetung der unschuldigen, an dem Geschehen
 unbeteiligten Insassen eines verunglueckten Luftfahrzeugs zur Rettung
 anderer Menschen ... zu erlauben."
 
-## Bedeutung fuer den Pruefer
+## Bedeutung für den Prüfer
 
-Vor jeder vierten Stufe der Verhaeltnismaessigkeit pruefe absolute
+Vor jeder vierten Stufe der Verhältnismäßigkeit pruefe absolute
 Grenzen:
 - Menschenwuerde Art 1 I GG
 - Wesensgehalt Art 19 II GG
@@ -53,5 +53,5 @@ Grenzen:
 ## Folgewirkung
 
 - BVerfGE 132, 1 (Bundeswehreinsatz im Innern): Bundeswehreinsatz im Innern unter
-  engen Voraussetzungen moeglich, aber niemals mit spezifisch
+  engen Voraussetzungen möglich, aber niemals mit spezifisch
   militaerischen Mitteln gegen unbeteiligte Zivilpersonen.

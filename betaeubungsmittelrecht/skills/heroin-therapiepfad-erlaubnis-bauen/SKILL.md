@@ -3,7 +3,7 @@ name: heroin-therapiepfad-erlaubnis-bauen
 description: "Heroin: Therapiepfad prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Heroin Therapiepfad Pruefen
+# Heroin Therapiepfad Prüfen
 
 ## Arbeitsweg
 

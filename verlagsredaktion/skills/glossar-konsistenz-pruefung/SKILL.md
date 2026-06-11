@@ -3,7 +3,7 @@ name: glossar-konsistenz-pruefung
 description: "Prueft Glossar und Begriffskonsistenz quer durch Reihen Loseblattwerke und Online-Kommentare: Lemma-Stamm Definitionen Synonyme Querverweise im Verlagsredaktion."
 ---
 
-# Glossar- und Konsistenz-Pruefung
+# Glossar- und Konsistenz-Prüfung
 
 ## Arbeitsweg
 
@@ -15,11 +15,11 @@ description: "Prueft Glossar und Begriffskonsistenz quer durch Reihen Loseblattw
 
 ## Worum geht es konkret
 
-Bei Kommentaren, Lehrbuechern, Loseblattwerken, Online-Kommentaren und Reihen ist die Begriffskonsistenz quer durch Werke und Auflagen wichtig. Ein Glossar oder Stichwortverzeichnis muss intern stimmig sein, Definitionen muessen bei Mehrfachverwendung identisch oder kompatibel sein, Querverweise muessen funktionieren. Dieser Skill ist die Konsistenzpruefung.
+Bei Kommentaren, Lehrbuechern, Loseblattwerken, Online-Kommentaren und Reihen ist die Begriffskonsistenz quer durch Werke und Auflagen wichtig. Ein Glossar oder Stichwortverzeichnis muss intern stimmig sein, Definitionen müssen bei Mehrfachverwendung identisch oder kompatibel sein, Querverweise müssen funktionieren. Dieser Skill ist die Konsistenzpruefung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn besonders bei mehrbaendigen Werken, Loseblattwerken (Ergaenzungslieferungen!) und Online-Kommentaren. Klaeren Sie:
+Sie brauchen ihn besonders bei mehrbaendigen Werken, Loseblattwerken (Ergaenzungslieferungen!) und Online-Kommentaren. Klären Sie:
 
 1. Welche Werkebene (Aufsatz, Buch, Reihe, Kommentar mit mehreren Bearbeitern)?
 2. Liegt ein verbindliches Glossar vor oder muss eines aufgebaut werden?
@@ -40,16 +40,16 @@ Sie brauchen ihn besonders bei mehrbaendigen Werken, Loseblattwerken (Ergaenzung
 3. **Synonyme markieren.** "Plattformbetreiber" / "Plattformanbieter" - waehlen Sie einen, kennzeichnen Sie den anderen als Synonym.
 4. **Querverweispruefung.** Verweisen Lemmata aufeinander? Funktionieren die Verweise?
 5. **Bei Mehrbearbeiterwerken** zwischen Bearbeitern abgleichen. Bei abweichenden Definitionen: Ruecksprache.
-6. **Stichwortverzeichnis pruefen.** Vollstaendig? Konsistent zur Definition? Verweis auf Hauptlemma vorhanden?
+6. **Stichwortverzeichnis prüfen.** Vollstaendig? Konsistent zur Definition? Verweis auf Hauptlemma vorhanden?
 7. **Bei Online-Kommentaren** Versionsstand des Glossars dokumentieren.
 8. **Befund-Bericht** an Bearbeiter / Herausgeber.
 
 ## Trade-off-Matrix
 
-| Pfad | A: Strenge Glossar-Pflege ueber Auflagen | B: Pro-Auflage-Pflege | Empfehlung |
+| Pfad | A: Strenge Glossar-Pflege über Auflagen | B: Pro-Auflage-Pflege | Empfehlung |
 |------|------------------------------------------|------------------------|------------|
 | Aufwand | hoch | mittel | A bei Loseblattwerk |
-| Konsistenz ueber Zeit | hoch | mittel bis gering | A bei Kommentaren |
+| Konsistenz über Zeit | hoch | mittel bis gering | A bei Kommentaren |
 | Bearbeitende-Freiheit | gering | hoch | B bei Sammelband mit unabhaengigen Beitraegen |
 
 ## Praxistipps der alten Redaktion
@@ -67,7 +67,7 @@ Sie brauchen ihn besonders bei mehrbaendigen Werken, Loseblattwerken (Ergaenzung
 | Begriff | Definition | Verwendung | Bearbeiter | Synonyme | Querverweise | Status |
 |---------|------------|------------|------------|----------|--------------|--------|
 | Plattformbetreiber | "Wer eine Plattform betreibt iSv § XX" | S. 3, 12, 24, 47 | Mueller, Schmidt | Plattformanbieter | Lemma 4.7 | OK |
-| Plattformanbieter | (synonym) | S. 18 | Lehmann | Plattformbetreiber | siehe Lemma 4.7 | Synonym-Auflosung pruefen |
+| Plattformanbieter | (synonym) | S. 18 | Lehmann | Plattformbetreiber | siehe Lemma 4.7 | Synonym-Auflosung prüfen |
 
 **Anschreiben an Mitbearbeiter:**
 

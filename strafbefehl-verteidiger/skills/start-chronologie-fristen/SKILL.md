@@ -134,14 +134,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Das Strafbefehlsverfahren nach §§ 407 ff. StPO ermoeglicht es dem Amtsgericht, Vergehen ohne Hauptverhandlung durch schriftlichen Beschluss (Strafbefehl) zu ahnden. Der Strafbefehl ergeht auf Antrag der Staatsanwaltschaft und wird rechtskraeftig, wenn der Beschuldigte nicht innerhalb von zwei Wochen ab Zustellung Einspruch einlegt (§ 410 StPO). Diese Frist ist eine absolute Ausschlussfrist.
 
-Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von der Fristensicherung und Akteneinsicht ueber die Inhaltspruefung, Einlassungsstrategie und Tagessatz-Berechnung bis hin zur Hauptverhandlung, Verstaendigung und zu Rechtsmitteln nach einem Urteil.
+Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von der Fristensicherung und Akteneinsicht über die Inhaltspruefung, Einlassungsstrategie und Tagessatz-Berechnung bis hin zur Hauptverhandlung, Verstaendigung und zu Rechtsmitteln nach einem Urteil.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein Mandant hat einen Strafbefehl erhalten und Sie muessen sofort die Einspruchsfrist berechnen und sichern.
-- Sie pruefen, ob der Strafbefehl Pflichtinhalt nach § 409 StPO enthaelt und ob Nichtigkeitsgruende vorliegen.
-- Sie berechnen die Hoehe der Geldstrafe (Tagessatz x Anzahl) und wollen sie anfechten oder den Tagessatz korrigieren.
-- Der Mandant kann zur Hauptverhandlung nicht erscheinen und Sie muessen einen Entbindungsantrag nach § 411 Abs. 2 StPO stellen.
+- Ein Mandant hat einen Strafbefehl erhalten und Sie müssen sofort die Einspruchsfrist berechnen und sichern.
+- Sie prüfen, ob der Strafbefehl Pflichtinhalt nach § 409 StPO enthaelt und ob Nichtigkeitsgruende vorliegen.
+- Sie berechnen die Höhe der Geldstrafe (Tagessatz x Anzahl) und wollen sie anfechten oder den Tagessatz korrigieren.
+- Der Mandant kann zur Hauptverhandlung nicht erscheinen und Sie müssen einen Entbindungsantrag nach § 411 Abs. 2 StPO stellen.
 - Nach der Hauptverhandlung soll Berufung oder Revision eingelegt werden.
 
 ## Fachbegriffe (kurz erklaert)
@@ -149,7 +149,7 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - **Strafbefehl** — schriftlicher Beschluss des Amtsgerichts auf Antrag der Staatsanwaltschaft; ersetzt die Hauptverhandlung bei Vergehen mit bestimmten Rechtsfolgen (§ 407 Abs. 2 StPO).
 - **Einspruch** — Rechtsmittel gegen den Strafbefehl; fuehrt zur Anberaumung einer Hauptverhandlung (§§ 410 f. StPO); Frist zwei Wochen ab Zustellung.
 - **Beschraenkter Einspruch** — Einspruch nur gegen die Rechtsfolgen; der Schuldspruch wird rechtskraeftig (§ 410 Abs. 2 StPO).
-- **Tagessatz** — Einheit der Geldstrafe; Hoehe richtet sich nach Nettoeinkommen des Taeters (ein Dreissigstel des monatlichen Nettoeinkommens, § 40 StGB).
+- **Tagessatz** — Einheit der Geldstrafe; Höhe richtet sich nach Nettoeinkommen des Taeters (ein Dreissigstel des monatlichen Nettoeinkommens, § 40 StGB).
 - **Pflichtverteidiger** — vom Gericht beigeordneter Verteidiger bei notwendiger Verteidigung nach § 140 StPO.
 - **Wiedereinsetzung** — Wiederherstellung einer versaeumten Einspruchsfrist bei fehlendem Verschulden (§ 44 StPO).
 - **Verstaendigung** — Absprache nach § 257c StPO; bindend für das Gericht bei Gestaendnis und Zustimmung aller Beteiligten.
@@ -169,10 +169,10 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Ist der Strafbefehl bereits zugegangen? Wann genau?
+1. Mandantenkonstellation klären: Ist der Strafbefehl bereits zugegangen? Wann genau?
 2. Phase des Mandats bestimmen: Vor Einspruchsfrist-Ablauf (sofortige Fristensicherung), nach Einspruch (Strategie), Hauptverhandlung oder Urteil?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: § 410 StPO — zwei Wochen ab Zustellung; keine Verlaengerung moeglich ausser Wiedereinsetzung nach § 44 StPO.
+4. Eilfristen prüfen: § 410 StPO — zwei Wochen ab Zustellung; keine Verlaengerung möglich ausser Wiedereinsetzung nach § 44 StPO.
 5. Anschluss-Skill bestimmen: Nach Einspruch zu Akteneinsicht, dann Beweis- und Einlassungsstrategie, dann Hauptverhandlung.
 
 ## Skill-Tour (was gibt es hier?)
@@ -180,11 +180,11 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - `strafbefehl-kommandocenter` — Einstieg und Ampel-Schnelldiagnose: kritische Fristen und offene Handlungsfelder auf einen Blick.
 - `strafbefehl-aktenanlage` — Neue Mandatsakte mit Fristen, Vollmacht und Beweismittelverzeichnis anlegen.
 - `strafbefehl-fristen-einspruch` — Einspruchsfrist nach § 410 StPO berechnen und Einspruchsentwurf erstellen.
-- `strafbefehl-inhalt-409-pruefung` — Strafbefehl auf Pflichtinhalt nach § 409 StPO und Nichtigkeitsgruende pruefen.
-- `strafbefehl-zulaessigkeit-407` — Zulaessigkeitsvoraussetzungen (nur Vergehen, Sanktionskatalog, Zuständigkeit) pruefen.
-- `strafbefehl-akteneinsicht-147` — Akteneinsicht nach § 147 StPO beantragen und Versagungsgruende pruefen.
+- `strafbefehl-inhalt-409-pruefung` — Strafbefehl auf Pflichtinhalt nach § 409 StPO und Nichtigkeitsgruende prüfen.
+- `strafbefehl-zulaessigkeit-407` — Zulaessigkeitsvoraussetzungen (nur Vergehen, Sanktionskatalog, Zuständigkeit) prüfen.
+- `strafbefehl-akteneinsicht-147` — Akteneinsicht nach § 147 StPO beantragen und Versagungsgruende prüfen.
 - `strafbefehl-tagessaetze-geldstrafe` — Tagessatzhoehe und Geldstrafe nach §§ 40 ff. StGB berechnen und anfechten.
-- `strafbefehl-nebenfolgen-fahrerlaubnis` — Fahrerlaubnisentzug (§ 69 StGB) und Fahrverbot (§ 44 StGB) pruefen und haertere Folgen abwenden.
+- `strafbefehl-nebenfolgen-fahrerlaubnis` — Fahrerlaubnisentzug (§ 69 StGB) und Fahrverbot (§ 44 StGB) prüfen und haertere Folgen abwenden.
 - `strafbefehl-einspruch-beschraenkung` — Beschraenkten Einspruch auf Rechtsfolgen nach § 410 Abs. 2 StPO taktisch einsetzen.
 - `strafbefehl-beweis-und-einlassung` — Beweispruefung und Einlassungsstrategie (Schweigen vs. Gestaendnis vs. Bestreiten).
 - `strafbefehl-pflichtverteidiger` — Pflichtverteidigerbestellung nach § 140 StPO beantragen.
@@ -196,12 +196,12 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - `strafbefehl-zeugen-befragungsstrategie` — Belastungszeugen erschuettern und Entlastungszeugen foerdern in der Hauptverhandlung.
 - `strafbefehl-rechtsprechungsrecherche` — BGH- und OLG-Rechtsprechung zu §§ 407-412 StPO für Schriftsaetze recherchieren.
 - `strafbefehl-rechtsmittel-nach-urteil` — Berufung (§ 312 StPO) und Revision (§ 333 StPO) nach Urteil in der Hauptverhandlung.
-- `strafbefehl-quality-gate` — Abschluss-Pruefung vor Einspruch-Versand, vor Hauptverhandlung oder nach Urteil.
+- `strafbefehl-quality-gate` — Abschluss-Prüfung vor Einspruch-Versand, vor Hauptverhandlung oder nach Urteil.
 
 ## Worauf besonders achten
 
 - **Zwei-Wochen-Frist ist absolut**: Die Einspruchsfrist nach § 410 StPO laeuft auch dann, wenn der Mandant von dem Strafbefehl erst nach ein paar Tagen erfahren hat; Zustellungsfiktion nach § 418 ZPO i.V.m. § 37 StPO beachten.
-- **Zustellungsfiktion pruefen**: Bei Ersatzzustellung oder Niederlegung laeuft die Frist moeglicherweise schon, ohne dass der Mandant den Bescheid gelesen hat; Wiedereinsetzung nach § 44 StPO nur bei fehlendem Verschulden.
+- **Zustellungsfiktion prüfen**: Bei Ersatzzustellung oder Niederlegung laeuft die Frist moeglicherweise schon, ohne dass der Mandant den Bescheid gelesen hat; Wiedereinsetzung nach § 44 StPO nur bei fehlendem Verschulden.
 - **Beschraenkter Einspruch macht Schuldspruch rechtskraeftig**: Wer nur gegen die Rechtsfolgen vorgeht, gibt den Freispruch dauerhaft auf.
 - **Tagessatz-Festsetzung des Gerichts angreifbar**: Gerichte schaetzen haeufig, wenn keine Einkommensnachweise vorliegen; dieser Schaetzung kann mit konkreten Belegen entgegengetreten werden.
 - **Pflichtverteidiger sichert Verfahrensrechte**: In Faellen mit notwendiger Verteidigung (§ 140 StPO) ist der Antrag sofort zu stellen, da spaetere Bestellung Versaeumnisse nicht heilt.

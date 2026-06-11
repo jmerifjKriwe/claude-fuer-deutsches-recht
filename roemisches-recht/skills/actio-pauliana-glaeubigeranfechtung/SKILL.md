@@ -14,15 +14,15 @@ description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckg
 ## Tatbestand
 
 ### Eventus damni
-- Vermoegensminderung des Schuldners durch das angefochtene Geschaeft.
-- Schuldner ist insolvent oder wird durch das Geschaeft insolvent.
+- Vermoegensminderung des Schuldners durch das angefochtene Geschäft.
+- Schuldner ist insolvent oder wird durch das Geschäft insolvent.
 
 ### Consilium fraudis (subjektiv Schuldnerseite)
 - Schuldner handelte in Glaeubigerschaedigungsabsicht oder zumindest mit positivem Wissen um seine Insolvenz und der Konsequenz für die Glaeubiger.
 - Bewusstsein der Schaedigung genuegt; Absicht nicht erforderlich (Ulpian D. 42.8.1).
 
 ### Scientia oder conscientia fraudis (Drittseite)
-- Bei entgeltlichen Geschaeften muss der Dritte das consilium fraudis des Schuldners kennen oder bei Sorgfalt erkennen koennen.
+- Bei entgeltlichen Geschaeften muss der Dritte das consilium fraudis des Schuldners kennen oder bei Sorgfalt erkennen können.
 - Bei unentgeltlichen Geschaeften (Schenkung) entfaellt das Erfordernis — der unentgeltliche Erwerber wird ohne Wissen erfasst.
 
 ## Klagebefugte
@@ -39,7 +39,7 @@ description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckg
 
 - Restitution: der Dritte muss das Erlangte zurueckgeben.
 - Bei Untergang ggf. Wertersatz.
-- Bei Mehrfachverfuegungen Verfolgung der Kette moeglich.
+- Bei Mehrfachverfuegungen Verfolgung der Kette möglich.
 
 ## Vergleich zum modernen Recht
 
@@ -62,7 +62,7 @@ description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckg
 
 1. Eventus damni vorhanden?
 2. Consilium fraudis nachweisbar?
-3. Scientia des Dritten (oder unentgeltliches Geschaeft)?
+3. Scientia des Dritten (oder unentgeltliches Geschäft)?
 4. Klageberechtigung?
 5. Annus utilis nicht abgelaufen?
 6. Quellenmatrix D. 42.8 erstellen.

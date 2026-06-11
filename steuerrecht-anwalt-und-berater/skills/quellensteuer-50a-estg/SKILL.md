@@ -13,8 +13,8 @@ description: "Praxisbearbeitung des Quellensteuerabzugs nach § 50a EStG — Tat
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Ist der Glaeubiger der Verguetung beschraenkt steuerpflichtig nach § 49 EStG?
-2. Faellt die Verguetung unter § 50a Abs. 1 EStG (Darbietungen Verwertung Lizenz Aufsichtsrat)?
+1. Ist der Glaeubiger der Vergütung beschraenkt steuerpflichtig nach § 49 EStG?
+2. Faellt die Vergütung unter § 50a Abs. 1 EStG (Darbietungen Verwertung Lizenz Aufsichtsrat)?
 3. Ist Bruttoabzug einschlaegig oder kann Nettoabzug 30 Prozent gewaehlt werden?
 4. Liegt eine Freistellungsbescheinigung BZSt vor — wenn nicht kann sie nachtraeglich beantragt werden?
 5. Greift ein DBA mit Erstattungsanspruch nach § 50c EStG?

@@ -3,12 +3,12 @@ name: strafrecht-strafzumessung-verhaeltnismaessigkeit
 description: Strafzumessung Paragraf 46 StGB als anwendungsfall der Verhaeltnismaessigkeit mit Strafrahmen Tatschuld Praevention und Pruefung wann die Strafhoehe unverhaeltnismaessig ist. Mit Hinweisen auf BVerfG-Rechtsprechung zu strafrechtlichen Eingriffen.
 ---
 
-# Strafrecht Strafzumessung Verhaeltnismaessigkeit
+# Strafrecht Strafzumessung Verhältnismäßigkeit
 
 ## Paragraf 46 StGB als Verhaeltnismaessigkeitsanker
 
-Paragraf 46 I StGB: "Die Schuld des Taeters ist Grundlage fuer die Zumessung
-der Strafe. Die Wirkungen, die von der Strafe fuer das kuenftige Leben des
+Paragraf 46 I StGB: "Die Schuld des Taeters ist Grundlage für die Zumessung
+der Strafe. Die Wirkungen, die von der Strafe für das kuenftige Leben des
 Taeters in der Gesellschaft zu erwarten sind, sind zu beruecksichtigen."
 
 Damit verbindet das Gesetz den **Schuldgrundsatz** (retrospektiv) mit der
@@ -27,7 +27,7 @@ Strafzwecke nach herrschender Vereinigungstheorie:
 Foerdert die Strafe einen dieser Zwecke?
 
 ### Stufe 3: Erforderlichkeit
-Mildere Strafen pruefen:
+Mildere Strafen prüfen:
 - Geldstrafe statt Freiheitsstrafe.
 - Bewaehrung statt Vollzug.
 - Verwarnung mit Strafvorbehalt Paragraf 59 StGB.
@@ -42,16 +42,16 @@ Nachtatverhalten; Verfahrensdauer Paragraf 46 II StGB.
 
 - BVerfGE 45 187 Lebenslange Freiheitsstrafe: lebenslang ist nur
   verfassungsmaessig, wenn realistische Aussetzungschance besteht.
-- BVerfGE 109 133 Sicherungsverwahrung I: Verhaeltnismaessigkeit
+- BVerfGE 109 133 Sicherungsverwahrung I: Verhältnismäßigkeit
   der praeventiven Sicherung.
 - BVerfGE 128 326 Sicherungsverwahrung II: im menschenrechtlichen Anschlusskontext
-  intensivere Pruefung.
+  intensivere Prüfung.
 - BVerfGE 128 282 Therapieunterbringung.
 
 ## Praxis-Hilfen
 
 - Wenn das Gericht die Strafe oberhalb des Mittelmasses verhaengt,
-  muessen die Strafzumessungsgruende dies tragen koennen.
+  müssen die Strafzumessungsgruende dies tragen können.
 - Bei Tater-Opfer-Ausgleich Paragraf 46a StGB obligatorische Strafrahmen-
   verschiebung.
 - Lange Verfahrensdauer als Strafmilderungsgrund.

@@ -19,12 +19,12 @@ Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StP
 
 ## Worum geht es?
 
-Das Strafurteil muss die **bestimmenden** Strafzumessungsgruende in seinen Gruenden mitteilen (§ 267 Abs. 3 Satz 1 StPO). Diese Begruendung ist Voraussetzung für die revisionsrechtliche Pruefung der Strafzumessung. Bei Versagung der Bewaehrung sind die Gruende ausdruecklich darzulegen (§ 267 Abs. 3 Satz 4 StPO).
+Das Strafurteil muss die **bestimmenden** Strafzumessungsgruende in seinen Gruenden mitteilen (§ 267 Abs. 3 Satz 1 StPO). Diese Begruendung ist Voraussetzung für die revisionsrechtliche Prüfung der Strafzumessung. Bei Versagung der Bewaehrung sind die Gruende ausdruecklich darzulegen (§ 267 Abs. 3 Satz 4 StPO).
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie schreiben einen Urteilsentwurf als Richter oder Berichterstatter.
-- Sie pruefen ein Urteil revisionsmaessig auf Strafzumessungsfehler.
+- Sie prüfen ein Urteil revisionsmaessig auf Strafzumessungsfehler.
 - Sie reviewen die Strafzumessungsbegruendung im Ausbildungs- oder Qualitaetskontext.
 
 ## Rechtliche Grundlagen
@@ -43,7 +43,7 @@ Die Begruendung muss:
 - den **Strafrahmen** angeben (Grundtatbestand, Modifikation durch Regelbeispiel oder minder schweren Fall, § 49-Milderung);
 - die **bestimmenden** Strafzumessungstatsachen (§ 46 Abs. 2 StGB) nennen;
 - die **Abwaegung** zwischen strafmildernden und strafschaerfenden Faktoren erkennbar machen;
-- bei **Geldstrafe** die Tagessatzanzahl und -hoehe getrennt begruenden (§ 267 Abs. 3 Satz 2 StPO);
+- bei **Geldstrafe** die Tagessatzanzahl und -höhe getrennt begruenden (§ 267 Abs. 3 Satz 2 StPO);
 - bei **Versagung der Bewaehrung** die negative Sozialprognose oder andere Gruende darlegen (§ 267 Abs. 3 Satz 4 StPO);
 - bei **Verstaendigung** Inhalt und Belehrung mitteilen (§ 267 Abs. 3 Satz 5 StPO).
 
@@ -95,7 +95,7 @@ III. Strafzumessung
 
 ### Doppelverwertung (§ 46 Abs. 3 StGB)
 
-- Tatbestandsmerkmale duerfen nicht erneut strafschaerfend angefuehrt werden.
+- Tatbestandsmerkmale dürfen nicht erneut strafschaerfend angefuehrt werden.
 - Z.B. bei § 224 Abs. 1 Nr. 2 StGB darf das Tatmittel "Messer" nicht erneut schaerfen.
 
 ### Schweigen strafschaerfend
@@ -104,23 +104,23 @@ III. Strafzumessung
 
 ### Praevention vor Schuld
 
-- Die Strafe darf nicht aus generalpraeventiven Gruenden ueber den Schuldrahmen hinaus erhoeht werden.
+- Die Strafe darf nicht aus generalpraeventiven Gruenden über den Schuldrahmen hinaus erhoeht werden.
 
 ### Bewaehrungsversagung ohne Begruendung
 
-- § 267 Abs. 3 Satz 4 StPO: bei Versagung Bewaehrung muessen die Gruende mitgeteilt werden.
+- § 267 Abs. 3 Satz 4 StPO: bei Versagung Bewaehrung müssen die Gruende mitgeteilt werden.
 
 ### Strafrahmen nicht angegeben
 
-- Konkreter Strafrahmen muss benannt werden, sonst kann das Revisionsgericht die Schuldangemessenheit nicht pruefen.
+- Konkreter Strafrahmen muss benannt werden, sonst kann das Revisionsgericht die Schuldangemessenheit nicht prüfen.
 
 ### Verstaendigung ohne Mitteilung
 
-- § 267 Abs. 3 Satz 5 StPO und § 273 Abs. 1a StPO: Inhalt und Belehrung muessen mitgeteilt werden.
+- § 267 Abs. 3 Satz 5 StPO und § 273 Abs. 1a StPO: Inhalt und Belehrung müssen mitgeteilt werden.
 
 ### Tagessatzhoehe ohne Begruendung
 
-- § 267 Abs. 3 Satz 2 StPO: Tagessatzanzahl und -hoehe getrennt darstellen.
+- § 267 Abs. 3 Satz 2 StPO: Tagessatzanzahl und -höhe getrennt darstellen.
 
 ### Lange Verfahrensdauer
 
@@ -129,8 +129,8 @@ III. Strafzumessung
 ## Schritt-für-Schritt-Anleitung (Verteidigung / Revisionsruege)
 
 1. **Urteilsgruende** durchlesen, Strafzumessungsteil markieren.
-2. **Strafrahmen-Pruefung**: Hat das Gericht den richtigen Strafrahmen angegeben?
-3. **§ 46 Abs. 2 StGB Pruefung**: Sind die bestimmenden Strafzumessungstatsachen genannt?
+2. **Strafrahmen-Prüfung**: Hat das Gericht den richtigen Strafrahmen angegeben?
+3. **§ 46 Abs. 2 StGB Prüfung**: Sind die bestimmenden Strafzumessungstatsachen genannt?
 4. **§ 46 Abs. 3 StGB**: Doppelverwertung?
 5. **Schweigen**: Wird es strafschaerfend gewertet?
 6. **Bewaehrung**: Ist die Versagung begruendet?

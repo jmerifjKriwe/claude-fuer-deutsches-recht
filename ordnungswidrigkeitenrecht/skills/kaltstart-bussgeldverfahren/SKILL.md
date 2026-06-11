@@ -7,7 +7,7 @@ description: "Ordnungswidrigkeitenrecht: Kaltstart Bußgeldverfahren. Kaltstart 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Bussgeldverfahren** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Ordnungswidrigkeitenrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Bussgeldverfahren** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Ordnungswidrigkeitenrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -26,7 +26,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
 - `§ 8 OWiG` — Begehen durch Unterlassen.
 - `§ 9 OWiG` — Handeln für einen anderen.
-- `§ 17 OWiG` — Hoehe der Geldbusse.
+- `§ 17 OWiG` — Höhe der Geldbusse.
 - `§ 30 OWiG` — Verbandsgeldbusse.
 - `§ 31 OWiG` — Verjährung.
 - `§ 47 OWiG` — Opportunitaetsprinzip.

@@ -38,7 +38,7 @@ Skill für Beamte, die sich am Arbeitsplatz dauerhaft schikaniert sehen und Schu
 ### c) Beweislast
 - Beamter muss Indizien für Mobbingmuster vortragen; bei substantiierter Darlegung Beweiserleichterung. Verstoss gegen Fuersorgepflicht ergibt sich aus Unterlassen des Dienstherrn.
 
-### d) Massnahmen
+### d) Maßnahmen
 - Antrag auf Versetzung des Mobbers oder eigene Versetzung.
 - Anzeige bei Personalstelle oder Gleichstellungsbeauftragten.
 - Beschwerde nach § 13 AGG bei diskriminierungsbezogenem Mobbing.

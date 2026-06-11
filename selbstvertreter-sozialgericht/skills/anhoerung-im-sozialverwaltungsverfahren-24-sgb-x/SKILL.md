@@ -51,7 +51,7 @@ description: "Anhörung im sozialverwaltungsverfahren nach § 24 SGB X: Skill le
 ## Wenn Anhörung unterblieben ist
 
 - Verwaltungsakt formell rechtswidrig (§ 41 Abs. 1 Nr. 3 SGB X).
-- Heilung moeglich bis zum Abschluss des Widerspruchsverfahrens (§ 41 Abs. 2 SGB X) durch Nachholung.
+- Heilung möglich bis zum Abschluss des Widerspruchsverfahrens (§ 41 Abs. 2 SGB X) durch Nachholung.
 - Daher Anhörungsmangel im Widerspruch ruegen und materiell verteidigen.
 
 ## Vorlage

@@ -159,13 +159,13 @@ Zusätzlich: Mindestens die Hälfte der Gesamtzahl der Mitglieder muss anwesend 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Aufsichtsratssitzung protokollieren | Protokoll nach Schema; Template unten |
 | Variante A — Geheimhaltungspflichtige Tagesordnungspunkte | Protokoll in vertraulichen Teil und öffentlichen Teil aufteilen |
-| Variante B — Beschluesse sind formell angriffen | Beschlussprotokoll mit Abstimmungsergebnis erweiternd festhalten |
+| Variante B — Beschlüsse sind formell angriffen | Beschlussprotokoll mit Abstimmungsergebnis erweiternd festhalten |
 | Variante C — Fernsitzung keine Anwesenheit in Praeenz | Protokollvermerk Fernsitzung mit Zustimmungsnachweis |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -389,7 +389,7 @@ Zu prüfen vor Unterzeichnung / Versand
 [ ] 15. ENTWURF-Vermerk bis Genehmigung in der Folgesitzung vorhanden?
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -549,9 +549,9 @@ AR-Vorsitzender [FUNKTION]
 
 ## Rote Schwellen
 
-- **Beschlussfaehigkeit nach § 108 Abs. 2 AktG nicht erreicht** (weniger als 3 Mitglieder stimmen mit) — keine gueltigen Beschluesse; Sitzung vertagen.
+- **Beschlussfaehigkeit nach § 108 Abs. 2 AktG nicht erreicht** (weniger als 3 Mitglieder stimmen mit) — keine gueltigen Beschlüsse; Sitzung vertagen.
 - **Stimmverbot § 136 AktG / § 47 Abs. 4 GmbHG uebersehen** — Beschluss anfechtbar; betroffenes Mitglied ausdrücklich von Abstimmung ausschliessen und im Protokoll dokumentieren.
-- **Einladungsfrist § 110 Abs. 2 AktG unterschritten** — Beschluesse anfechtbar; Einladungsverzicht aller Mitglieder dokumentieren.
+- **Einladungsfrist § 110 Abs. 2 AktG unterschritten** — Beschlüsse anfechtbar; Einladungsverzicht aller Mitglieder dokumentieren.
 - **Satzungsaenderung / Kapitalmaßnahme ohne Notarprotokoll** — Formnichtigkeit (§ 241 Nr. 2 AktG); Notar rechtzeitig bestellen.
 - **Anfechtungsfrist (1 Monat) nach § 246 AktG versaeumt** — Beschluss unanfechtbar auch bei Fehlern; sofort Fristnotiz anlegen.
 

@@ -38,7 +38,7 @@ Die sechs Eckpunkte spiegeln die zentralen Rechtspflichten wider: § 43 BRAO (Ge
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -69,7 +69,7 @@ Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegeb
 **Eckpunkt 6 – Kennzeichnung und Transparenz:**
 Öffentliche KI-generierte Inhalte, die keiner menschlichen Verantwortung oder redaktionellen Kontrolle unterliegen, müssen als solche gekennzeichnet werden (Art. 50 Abs. 4 KI-VO). KI-generierte Inhalte sind stets auf mögliche Verletzungen von Urheber- und Persönlichkeitsrechten zu prüfen.
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -94,7 +94,7 @@ Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungna
 - § 203 StGB — strafrechtliches Berufsgeheimnis
 
 ## Triage zu Beginn
-1. Fuer welche Zielgruppe ist das Executive Summary — Partner, alle Mitarbeiter, Mandanten?
+1. Für welche Zielgruppe ist das Executive Summary — Partner, alle Mitarbeiter, Mandanten?
 2. Wie umfangreich ist die KI-Nutzungsrichtlinie — was muss im Summary priorisiert werden?
 3. Sind kritische Nutzungsfaelle bekannt — muss das Summary sie explizit adressieren?
 4. Soll das Summary als eigenstaendiges Dokument oder als Richtlinien-Deckblatt verwendet werden?

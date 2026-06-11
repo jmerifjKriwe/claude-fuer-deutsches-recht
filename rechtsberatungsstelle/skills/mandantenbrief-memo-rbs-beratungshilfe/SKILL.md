@@ -26,16 +26,16 @@ description: "Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfal
 ### Mandantenbrief in einfacher Sprache
 
 ## Triage zu Beginn
-1. Was soll der Brief mitteilen: Ergebnis einer Pruefung, Verfahrensstand, konkreter naechster Schritt oder Ablehnung?
+1. Was soll der Brief mitteilen: Ergebnis einer Prüfung, Verfahrensstand, konkreter naechster Schritt oder Ablehnung?
 2. Auf welchem Sprachniveau soll der Brief verfasst werden: B1/B2 Standard oder Leichte Sprache A2 bei besonderem Bedarf?
-3. Enthaelt der Brief Angaben ueber Dritte oder interne Bewertungen, die im Mandantenbrief nicht erscheinen duerfen?
+3. Enthaelt der Brief Angaben über Dritte oder interne Bewertungen, die im Mandantenbrief nicht erscheinen dürfen?
 4. Hat der anleitende Volljurist den Briefentwurf bereits freigegeben oder ist das Gate noch ausstehend?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- BORA § 11 — Mitteilungspflicht: Mandant ist ueber wesentliche Verfahrensschritte zu informieren
+- BORA § 11 — Mitteilungspflicht: Mandant ist über wesentliche Verfahrensschritte zu informieren
 - § 43a Abs. 2 BRAO — Verschwiegenheit: Mandantenbrief darf keine Drittinformationen offenbaren
 - § 6 Abs. 2 Nr. 2 RDG — Anleitungspflicht: Mandantenbrief von Studierenden erfordert Anleiterpruefung und -freigabe
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur für Mandanten bestimmte Informationen im Brief

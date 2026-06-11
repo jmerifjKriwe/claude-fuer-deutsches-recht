@@ -32,7 +32,7 @@ description: "Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Vorau
 - Indizwirkung — aber nicht abschliessend.
 - BSG-Linie: Aufnahme nicht zwingend, fehlende Aufnahme nicht ausschluss.
 
-## Mehrkosten ueber Festbetrag
+## Mehrkosten über Festbetrag
 
 - Bei hoeherer Hilfsmittelversorgung Eigenanteil oder Mehrkosten.
 - Erstattung der Mehrkosten nur bei medizinischer Notwendigkeit (BSG).

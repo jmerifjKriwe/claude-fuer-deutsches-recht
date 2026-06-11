@@ -3,7 +3,7 @@ name: anschluss
 description: "Einstieg, Schnelltriage und Fallrouting im Kartellrecht Marktabgrenzung Pruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der..."
 ---
 
-# Kartellrecht-Marktabgrenzungs-Pruefer — Allgemein
+# Kartellrecht-Marktabgrenzungs-Prüfer — Allgemein
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Kartellrecht Marktabgre
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Kartellrecht Marktabgrenzung Pruefung**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Kartellrecht Marktabgrenzung Prüfung**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
 **Plugin-Fokus:** Kritische kartellrechtliche Prüfinstanz für vorgelegte Marktabgrenzungen nach Paragraf 18 GWB und Art 101 und 102 AEUV. SSNIP-Test Nachfrage- und Angebotsumstellung räumlicher Markt Evidenzbasierung Konsistenzcheck EuGH-Leitentscheidungen Red Flags alternative Marktdefinitionen Marktbeherrschung.
 
@@ -123,7 +123,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `innovations-und-technologiemaerkte` | Marktabgrenzung in dynamischen Technologiemaerkten wo kuenftige Innovation den Wettbewerb praegt oder Patent-Pools streitig sind. Prüft Innovationsmaerkte technologische Substitution Standard-Essential-Patents… |
 | `kartellverbot-modus` | Prüft Marktabgrenzung im Kontext des Kartellverbots (Art 101 AEUV und Paragraf 1 GWB): Wettbewerbsbeschraenkung bezweckt oder bewirkt Single-Brand vs Inter-Brand Wettbewerb Spuerbarkeit nach Bagatellbekanntmachung und… |
 | `konsistenzpruefung-marktdefinition` | Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Übereinstimmung von Sachmarkt und räumlichem Markt tatsaechlichem Marktverhalten Behördenpraxis und oekonomischen Grundprinzipien. Erkennt Zirkelschluesse… |
-| `marktabgrenzung-kontextanalyse` | Verfahren beginnt und Verfahrensart und Parteistellung muessen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Missbrauchsverfahren und… |
+| `marktabgrenzung-kontextanalyse` | Verfahren beginnt und Verfahrensart und Parteistellung müssen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Missbrauchsverfahren und… |
 | `mehrseitige-maerkte-plattformen` | Sonderprobleme der Marktdefinition für mehrseitige Plattformen: zweiseitige Marktdefinition indirekte Netzwerkeffekte getrennte vs. integrierte Marktbetrachtung. Einschluss von App-Store App-Markt Werbe- und… |
 | `missbrauchsverbot-modus` | Unternehmen in marktbeherrschender Stellung soll auf Missbrauch geprüft werden oder Wettbewerber klagt auf Missbrauch. Prüft Marktabgrenzung und Missbrauchstatbestaende Art. 102 AEUV § 19 GWB. Prüfraster… |
 | `paragraf-18-gwb-pruefung` | Prüft Marktbeherrschung nach Paragraf 18 GWB: Einzelmarktbeherrschung Abs 1 Marktanteils-Schwellen Abs 4 (40 Prozent) gemeinsame Marktbeherrschung Abs 5 und 6 intermediaere Plattformen Abs 3a sowie relative Marktmacht… |
@@ -136,25 +136,25 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin ist die kritische Pruefinstanz für vorgelegte Marktabgrenzungen in kartellrechtlichen Verfahren. Es prueft Marktabgrenzungen nach § 18 GWB sowie Art. 101 und 102 AEUV — unabhaengig davon, ob es sich um Fusionskontrollverfahren, Missbrauchsverfahren oder Kartellverbotsverfahren handelt.
+Dieses Plugin ist die kritische Pruefinstanz für vorgelegte Marktabgrenzungen in kartellrechtlichen Verfahren. Es prüft Marktabgrenzungen nach § 18 GWB sowie Art. 101 und 102 AEUV — unabhaengig davon, ob es sich um Fusionskontrollverfahren, Missbrauchsverfahren oder Kartellverbotsverfahren handelt.
 
 Das Plugin orientiert sich an der EU-Bekanntmachung zur Marktdefinition von Februar 2024 (ABl. 2024/C 1645), an der Rechtsprechung des EuGH und EuG sowie an der Praxis des BKartA. Es identifiziert systematisch methodische Schwachstellen, selektive Datenwahl, Zirkelschluesse und alternative Marktdefinitionen, die prozessual oder behoerdlich angreifbar sind.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie pruefen eine von der Gegenseite oder einer Behörde vorgelegte Marktabgrenzung auf Angreifbarkeit.
+- Sie prüfen eine von der Gegenseite oder einer Behörde vorgelegte Marktabgrenzung auf Angreifbarkeit.
 - Sie erstellen eine eigene Marktabgrenzungsargumentation für ein Fusionskontroll-, Missbrauchs- oder Kartellverfahren.
-- Sie begleiten ein BKartA- oder Kommissionsverfahren und muessen den Verfahrenskontext und die Parteistellung klaeren.
-- Sie pruefen, ob eine DMA-Gatekeeper-Designation kartellrechtlich relevante Marktdefinitionen verschiebt.
+- Sie begleiten ein BKartA- oder Kommissionsverfahren und müssen den Verfahrenskontext und die Parteistellung klären.
+- Sie prüfen, ob eine DMA-Gatekeeper-Designation kartellrechtlich relevante Marktdefinitionen verschiebt.
 - Sie wollen die Qualitaet und Belastbarkeit oekonomischer Gutachten zu Elastizitaeten oder Diversion Ratios beurteilen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **SSNIP-Test** — Hypothetischer-Monopolisten-Test (Small but Significant Non-transitory Increase in Price): Klaert, welche Produkte und Regionen so nah substituierbar sind, dass ein Monopolist keinen profitablen Preisaufschlag von 5 bis 10 Prozent erzielen koennte.
 - **Nachfragesubstitution** — Kernschritt der Marktabgrenzung: Welche Produkte wechseln Nachfrager bei einem kleinen Preisanstieg? Bestimmt den sachlichen Markt.
-- **Angebotsumstellung** — Supply-Side-Substitution: Koennen andere Anbieter kurzfristig und ohne erhebliche Kosten auf den relevanten Markt wechseln?
+- **Angebotsumstellung** — Supply-Side-Substitution: Können andere Anbieter kurzfristig und ohne erhebliche Kosten auf den relevanten Markt wechseln?
 - **Marktbeherrschung** — Erheblicher Wettbewerbsdruck fehlt; Vermutung bei 40-Prozent-Einzelmarktanteil nach § 18 Abs. 4 GWB.
-- **Cellophane-Fallacy** — Methodischer Fehler beim SSNIP-Test: Pruefung von der bereits ueberhoeahten Marktmacht-Position aus fuehrt zu kuenstlich weitem Markt.
+- **Cellophane-Fallacy** — Methodischer Fehler beim SSNIP-Test: Prüfung von der bereits ueberhoeahten Marktmacht-Position aus fuehrt zu kuenstlich weitem Markt.
 - **Inkongruente Deckung** — Begriff aus dem Anfechtungsrecht; hier nicht relevant.
 - **Diversion Ratio** — Oekonomisches Mass für den Anteil der Nachfrage, der bei einem Preisanstieg zu einem bestimmten Wettbewerber abwandert; hohe Ratio spricht für engen Markt.
 - **Gatekeeper** — Designierter Plattformbetreiber nach DMA; Designation beeinflusst kartellrechtliche Marktdefinition in parallelen Verfahren.
@@ -172,10 +172,10 @@ Das Plugin orientiert sich an der EU-Bekanntmachung zur Marktdefinition von Febr
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Verfahrenskontext und Parteistellung klaeren: Skill `marktabgrenzung-kontextanalyse`.
+1. Verfahrenskontext und Parteistellung klären: Skill `marktabgrenzung-kontextanalyse`.
 2. Verfahrensmodus auswaehlen: `fusionskontrolle-modus`, `missbrauchsverbot-modus` oder `kartellverbot-modus`.
-3. Sachlichen Markt pruefen: `produktmarkt-nachfragesubstitution` und `produktmarkt-angebotsumstellung`.
-4. Raeumlichen Markt pruefen: `raeumlicher-markt-abgrenzung`.
+3. Sachlichen Markt prüfen: `produktmarkt-nachfragesubstitution` und `produktmarkt-angebotsumstellung`.
+4. Raeumlichen Markt prüfen: `raeumlicher-markt-abgrenzung`.
 5. Marktanteile und Beherrschung bewerten: `auswirkungen-marktanteile-marktbeherrschung` und `paragraf-18-gwb-pruefung`.
 6. Gesamturteil und Angreifbarkeit: `gesamtbewertung-tragfaehigkeit`.
 
@@ -193,7 +193,7 @@ Das Plugin orientiert sich an der EU-Bekanntmachung zur Marktdefinition von Febr
 - `produktmarkt-nachfragesubstitution` — Sachlicher Markt aus Nachfragersicht; Kernschritt jeder Marktabgrenzung.
 - `produktmarkt-angebotsumstellung` — Angebotsseitige Substitution; kurzfristiger Marktzutritt anderer Anbieter.
 - `ssnip-test-anwendung` — SSNIP-Test (Hypothetischer-Monopolisten-Test) anwenden.
-- `elastizitaeten-diversion-ratios` — Belastbarkeit oekonomischer Elastizitaetsdaten und Diversion-Ratio-Analysen pruefen.
+- `elastizitaeten-diversion-ratios` — Belastbarkeit oekonomischer Elastizitaetsdaten und Diversion-Ratio-Analysen prüfen.
 
 **Raeumlicher Markt**
 
@@ -225,23 +225,23 @@ Das Plugin orientiert sich an der EU-Bekanntmachung zur Marktdefinition von Febr
 
 **Konsistenz und Gesamturteil**
 
-- `konsistenzpruefung-marktdefinition` — Interne Widerspruchsfreiheit einer Marktabgrenzung pruefen.
+- `konsistenzpruefung-marktdefinition` — Interne Widerspruchsfreiheit einer Marktabgrenzung prüfen.
 - `red-flags-checkliste` — Problematische Muster in Marktabgrenzungen: ergebnisgetriebene Argumentation, Zirkelschluesse.
 - `gesamtbewertung-tragfaehigkeit` — Gesamturteil zur Tragfaehigkeit; Angreifbarkeit und Prozesstaktik.
 
 ## Worauf besonders achten
 
-- **Verfahrenskontext bestimmt Marktdefinition** — Die Richtung der Marktabgrenzungsargumentation haengt davon ab, ob Mandant Klaeger, Beklagter oder Zusammenschlusspartei ist; `marktabgrenzung-kontextanalyse` immer zuerst.
-- **Cellophane-Fallacy** — Beim SSNIP-Test immer pruefen, ob Ausgangspreis bereits Marktmacht-Preis ist; Fehler fuehrt zu kuenstlich weitem Markt.
-- **EU-Bekanntmachung 2024** — Seit Februar 2024 gelten neue Methodik-Standards für digitale Maerkte und Innovationswettbewerb; aeltere Marktabgrenzungen koennen veraltet sein.
+- **Verfahrenskontext bestimmt Marktdefinition** — Die Richtung der Marktabgrenzungsargumentation haengt davon ab, ob Mandant Kläger, Beklagter oder Zusammenschlusspartei ist; `marktabgrenzung-kontextanalyse` immer zuerst.
+- **Cellophane-Fallacy** — Beim SSNIP-Test immer prüfen, ob Ausgangspreis bereits Marktmacht-Preis ist; Fehler fuehrt zu kuenstlich weitem Markt.
+- **EU-Bekanntmachung 2024** — Seit Februar 2024 gelten neue Methodik-Standards für digitale Maerkte und Innovationswettbewerb; aeltere Marktabgrenzungen können veraltet sein.
 - **DMA-Designation nicht gleichsetzen** — Eine DMA-Gatekeeper-Designation ist kein kartellrechtlicher Marktbeherrschungs-Befund; die Rechtsfragen sind trennbar.
-- **Potenzielle Anbieter nicht uebergewichten** — Markteintrittsbarrieren muessen realistisch im Zeitfenster zwei bis drei Jahre bewertet werden; bloss theoretische Marktzutrittsmoeoglichkeit genuegt nicht.
+- **Potenzielle Anbieter nicht uebergewichten** — Markteintrittsbarrieren müssen realistisch im Zeitfenster zwei bis drei Jahre bewertet werden; bloss theoretische Marktzutrittsmoeoglichkeit genuegt nicht.
 
 ## Typische Fehler
 
 - Nachfragesubstitution und Angebotsumstellung werden verwechselt oder zusammengeworfen.
-- SSNIP-Test wird ohne Cellophane-Fallacy-Pruefung auf einem bereits durch Marktmacht verzerrten Preisniveau angewendet.
-- Leitentscheidungen werden ohne Pinpoint-Zitat zitiert und koennen prozessual nicht verwertet werden.
+- SSNIP-Test wird ohne Cellophane-Fallacy-Prüfung auf einem bereits durch Marktmacht verzerrten Preisniveau angewendet.
+- Leitentscheidungen werden ohne Pinpoint-Zitat zitiert und können prozessual nicht verwertet werden.
 - Alternative Marktdefinitionen werden nicht erwaehnt, obwohl sie die Anteilsschwellen verschieben wuerden.
 - Raeumlicher und sachlicher Markt werden nicht aufeinander abgestimmt (Konsistenzbruch).
 
@@ -324,7 +324,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `kronzeugenprogramm-bonusregelung` | Kronzeugenprogramm Bonusregelung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33... |
 | `landwirtschaftliche-erzeugerkooperation` | Landwirtschaftliche Erzeugerkooperation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 f... |
 | `margin-squeeze-telekom-energie-plattform` | Margin Squeeze Telekom Energie Plattform: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32... |
-| `marktabgrenzung-kontextanalyse` | Verfahren beginnt und Verfahrensart und Parteistellung muessen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Miss... |
+| `marktabgrenzung-kontextanalyse` | Verfahren beginnt und Verfahrensart und Parteistellung müssen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Miss... |
 | `mehrseitige-maerkte-plattformen` | Mehrseitige Maerkte Plattformen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `ministererlaubnis-42-gwb` | Ministererlaubnis § 42 GWB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 3... |
 | `missbrauchsverbot-modus` | Unternehmen in marktbeherrschender Stellung soll auf Missbrauch geprüft werden oder Wettbewerber klagt auf Missbrauch. Prüft Marktabgrenzung und Missbrauchstatbestaende Art. 102 AEUV § 19 GW... |
@@ -358,7 +358,7 @@ Weitere Skills: insgesamt 125 Anschluss-Skills in diesem Plugin.
 
 ## Fachlicher Zuschnitt
 
-- **Thema:** Einstieg, Schnelltriage und Fallrouting im Kartellrecht Marktabgrenzung Pruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig.
+- **Thema:** Einstieg, Schnelltriage und Fallrouting im Kartellrecht Marktabgrenzung Prüfung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig.
 - **Arbeitsfokus:** ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
 - **Plugin-Rahmen:** Kritische kartellrechtliche Pruefinstanz für Marktabgrenzungen nach Paragraf 18 GWB sowie Art. 101 und 102 AEUV: SSNIP-Test, Nachfrage- und Angebotsums....
 - **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
@@ -390,5 +390,5 @@ Weitere Skills: insgesamt 125 Anschluss-Skills in diesem Plugin.
 ### Anwendung im Skill
 
 - Marktabgrenzung nach SSNIP-Test sauber durchfuehren; Bekanntmachung der Kommission 2024/C berücksichtigen.
-- Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie pruefen.
+- Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie prüfen.
 - § 19a GWB-Verfahren sind eigenstaendig vom Marktmissbrauch nach § 19 GWB; Befugnisse und Rechtsfolgen unterscheiden.

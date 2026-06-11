@@ -13,11 +13,11 @@ description: "Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen 
 
 ## Worum geht es?
 
-Bevor Sie zum Sozialgericht gehen koennen, muessen Sie der Behörde noch eine Chance geben. Das nennt man Vorverfahren oder Widerspruchsverfahren. Sie schreiben einen Widerspruch, die Behörde prueft selbst noch einmal — und sagt Ja oder Nein. Erst dann koennen Sie klagen.
+Bevor Sie zum Sozialgericht gehen können, müssen Sie der Behörde noch eine Chance geben. Das nennt man Vorverfahren oder Widerspruchsverfahren. Sie schreiben einen Widerspruch, die Behörde prüft selbst noch einmal — und sagt Ja oder Nein. Erst dann können Sie klagen.
 
 ## In einfacher Sprache
 
-Vor der Klage kommt der Widerspruch. Sie sagen der Behörde: Bitte pruefen Sie nochmal. Das ist Pflicht. Erst danach duerfen Sie klagen. Wir zeigen, wie das geht.
+Vor der Klage kommt der Widerspruch. Sie sagen der Behörde: Bitte prüfen Sie nochmal. Das ist Pflicht. Erst danach dürfen Sie klagen. Wir zeigen, wie das geht.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,9 +27,9 @@ Vor der Klage kommt der Widerspruch. Sie sagen der Behörde: Bitte pruefen Sie n
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Vorverfahren**: Die Phase zwischen Bescheid und Klage. Behörde prueft selbst nochmal.
+- **Vorverfahren**: Die Phase zwischen Bescheid und Klage. Behörde prüft selbst nochmal.
 - **Ausgangsbescheid**: Der erste Bescheid, gegen den Sie sich wehren.
-- **Widerspruchsbescheid**: Die Entscheidung der Widerspruchsstelle. Erst danach koennen Sie klagen.
+- **Widerspruchsbescheid**: Die Entscheidung der Widerspruchsstelle. Erst danach können Sie klagen.
 - **Abhilfebescheid**: Wenn die Behörde Ihnen ganz oder teilweise zustimmt.
 
 ## Rechtsgrundlagen
@@ -45,7 +45,7 @@ Vor der Klage kommt der Widerspruch. Sie sagen der Behörde: Bitte pruefen Sie n
 
 ### Schritt 1 — Bescheid lesen und Datum notieren
 
-Schreiben Sie auf den Bescheid: "Eingegangen am [Datum]". Pruefen Sie, ob eine Rechtsbehelfsbelehrung dabei ist. Dort steht meistens "Widerspruch innerhalb eines Monats".
+Schreiben Sie auf den Bescheid: "Eingegangen am [Datum]". Prüfen Sie, ob eine Rechtsbehelfsbelehrung dabei ist. Dort steht meistens "Widerspruch innerhalb eines Monats".
 
 ### Schritt 2 — Widerspruch schriftlich verfassen
 
@@ -87,22 +87,22 @@ Mit freundlichen Gruessen
 
 ### Schritt 4 — Begruendung nachreichen
 
-Nicht zwingend sofort. Sie koennen erst Akteneinsicht beantragen (§ 25 SGB X) und dann begruenden. Wichtig: zuerst nur Widerspruch — Frist halten!
+Nicht zwingend sofort. Sie können erst Akteneinsicht beantragen (§ 25 SGB X) und dann begruenden. Wichtig: zuerst nur Widerspruch — Frist halten!
 
 ### Schritt 5 — Auf Antwort warten
 
 - **Abhilfe** § 85 Abs. 1 SGG: Behörde gibt Ihnen Recht. Fertig.
-- **Teilabhilfe**: Behörde gibt teilweise Recht. Sie koennen weiterklagen.
-- **Widerspruchsbescheid** § 85 Abs. 2 SGG: Behörde lehnt ab. Jetzt koennen Sie klagen.
+- **Teilabhilfe**: Behörde gibt teilweise Recht. Sie können weiterklagen.
+- **Widerspruchsbescheid** § 85 Abs. 2 SGG: Behörde lehnt ab. Jetzt können Sie klagen.
 
 ### Schritt 6 — Untaetigkeit
 
-Wenn die Behörde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen Sie Untaetigkeitsklage erheben. Siehe `untaetigkeitsklage-88-sgg`.
+Wenn die Behörde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), können Sie Untaetigkeitsklage erheben. Siehe `untaetigkeitsklage-88-sgg`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Die Monats-Frist** ist sehr eng. Faengt mit Bekanntgabe (4 Tage nach Aufgabe zur Post) an.
-- **Keine Verlaengerung der Widerspruchsfrist** moeglich. Sie koennen nur die Begruendung nachreichen.
+- **Keine Verlaengerung der Widerspruchsfrist** möglich. Sie können nur die Begruendung nachreichen.
 - **Aufschiebende Wirkung**: Bei Anfechtung gilt der Bescheid nicht waehrend des Widerspruchs (§ 86a Abs. 1 SGG) — Ausnahmen v.a. § 39 SGB II Sanktionen.
 
 ## Typische Fehler

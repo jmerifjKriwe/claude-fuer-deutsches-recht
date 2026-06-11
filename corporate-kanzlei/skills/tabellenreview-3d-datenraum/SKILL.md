@@ -105,7 +105,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Triage — klaere vor Review
 
-1. Welche Tabelle wird geprueft: Vertragsliste, Litigation-Tracker, IP-Register, HR-Uebersicht?
+1. Welche Tabelle wird geprueft: Vertragsliste, Litigation-Tracker, IP-Register, HR-Übersicht?
 2. Quelle: Aus dem Datenraum oder vom Mandanten direkt geliefert?
 3. Pruefzweck: DD-Abgleich, W&I-Underwriting, Closing-Checkliste?
 4. Fehlende Spalten / Felder definiert? (z.B. Vertragswert, Enddatum, CoC-Klausel)
@@ -147,7 +147,7 @@ Haeufige Fehler:
 Pflichtfelder:
 - Gericht / Schiedsgericht / Behörde
 - Aktenzeichen
-- Klaeger und Beklagter
+- Kläger und Beklagter
 - Streitwert
 - Gegenstand
 - Rueckstellung in Jahresabschluss
@@ -167,7 +167,7 @@ Pflichtfelder:
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Tabellen erhalten und normalisieren** — Format pruefen; fehlende Spalten ergaenzen
+1. **Tabellen erhalten und normalisieren** — Format prüfen; fehlende Spalten ergaenzen
 2. **Vollstaendigkeitspruefung** — alle Pflichtfelder ausgefuellt?
 3. **Konsistenzabgleich mit DR** — Stichprobe: Tabelleneintrag gegen Originaldokument
 4. **Red Flags markieren** — Eintraege die Fragen aufwerfen; Fehlende Werte; inkonsistente Daten

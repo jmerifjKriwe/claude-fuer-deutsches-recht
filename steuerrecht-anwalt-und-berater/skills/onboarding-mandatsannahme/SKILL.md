@@ -13,10 +13,10 @@ description: "Erstgespraech-Leitfaden für steuerrechtliche Mandate. Anwendungsf
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Verfahrensstadium klaeren: Veranlagung, Einspruch, Klage, Aussenpruefung, Steuerstrafverfahren, Vollstreckung?
+1. Verfahrensstadium klären: Veranlagung, Einspruch, Klage, Aussenpruefung, Steuerstrafverfahren, Vollstreckung?
 2. Welcher Bescheid oder welche Verfuegung liegt vor (Datum, Zustellungsdatum, Aktenzeichen, Steuerart)?
 3. Frist sofort errechnen: Einspruch § 355 AO ein Monat, Klage § 47 FGO ein Monat, AdV § 361 AO formlos.
-4. Interessenkonflikt § 43a Abs. 4 BRAO bzw. § 57 Abs. 1 StBerG pruefen (gegenlaeufige Mandate, Konzern, Ehegatten).
+4. Interessenkonflikt § 43a Abs. 4 BRAO bzw. § 57 Abs. 1 StBerG prüfen (gegenlaeufige Mandate, Konzern, Ehegatten).
 5. Steuerstrafrechtlicher Anfangsverdacht? Dann Belehrung nach § 393 AO und ggf. Schweigen empfehlen.
 6. Wer ist Mandant: natuerliche Person, Personengesellschaft, Kapitalgesellschaft, Insolvenzverwalter, Erbe?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)

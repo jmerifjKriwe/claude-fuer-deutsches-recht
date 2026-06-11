@@ -7,7 +7,7 @@ description: "Einreichung per Fax und ihre verbleibenden Grenzen. Fax als Schrif
 
 ## Worum geht es?
 
-Fax war jahrzehntelang der Standard für kurzfristige Einreichungen im Justizalltag. Auch heute ist es nicht tot — viele Gerichte halten Fax-Anschluesse. Fuer Buerger ist Fax oft eine pragmatische Loesung, wenn die Frist droht und MJP nicht eingerichtet ist. Aber: Fax ist fehleranfaellig und nicht uneingeschraenkt rechtssicher. Diese Skill zeigt die Grenzen.
+Fax war jahrzehntelang der Standard für kurzfristige Einreichungen im Justizalltag. Auch heute ist es nicht tot — viele Gerichte halten Fax-Anschluesse. Für Buerger ist Fax oft eine pragmatische Loesung, wenn die Frist droht und MJP nicht eingerichtet ist. Aber: Fax ist fehleranfaellig und nicht uneingeschraenkt rechtssicher. Diese Skill zeigt die Grenzen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -19,12 +19,12 @@ Fax war jahrzehntelang der Standard für kurzfristige Einreichungen im Justizall
 
 - **Fax**: Telefax-Uebertragung; auch heute praktisch noch genutzt.
 - **Sendebericht / OK-Bestaetigung**: Fax-Geraet stellt aus, wenn Uebertragung erfolgreich war.
-- **Computerfax**: Email-zu-Fax-Dienste, technisch aehnlich Fax.
+- **Computerfax**: Email-zu-Fax-Dienste, technisch ähnlich Fax.
 
 ## Rechtsgrundlagen
 
 - **§ 130 Nr. 6 ZPO** — Unterschrift; bei Telefax reicht eingescannte handschriftliche Unterschrift (BGH-Rspr.).
-- **§ 130a ZPO** — Elektronisches Dokument (Fax faellt grundsaetzlich darunter, wenn Anforderungen erfuellt).
+- **§ 130a ZPO** — Elektronisches Dokument (Fax faellt grundsätzlich darunter, wenn Anforderungen erfuellt).
 - **§ 167 ZPO** — Rueckwirkung Zustellung.
 
 ## Schritt-für-Schritt-Anleitung
@@ -32,7 +32,7 @@ Fax war jahrzehntelang der Standard für kurzfristige Einreichungen im Justizall
 ### Schritt 1 — Fax-Nummer des Gerichts ermitteln
 
 - Website des Amtsgerichts (justiz.de).
-- Telefonisch erfragen ueber Geschaeftsstelle.
+- Telefonisch erfragen über Geschaeftsstelle.
 - Bei Eilbeduerftigkeit unbedingt telefonisch bestaetigen, ob Fax aktiv und betriebsbereit.
 
 ### Schritt 2 — Schriftsatz vorbereiten
@@ -62,22 +62,22 @@ Wenn Frist droht und Sie unsicher sind: am naechsten Werktag bei der Geschaeftss
 
 BGH-Linie: Fax ist eingegangen, sobald es auf dem **Empfangsgeraet** des Gerichts vollstaendig gespeichert ist. Speicher-Zeitpunkt des Empfangs-Faxes zaehlt.
 
-Wenn das Fax wegen Geraete-Stoerung beim Empfaenger nicht ankommt — und Sie das nicht erkennen konnten — wirkt sich BGH-Wiedereinsetzungs-Rechtsprechung guenstig aus. Aber: Sie tragen das **Uebertragungsrisiko**, sofern Sie ein technisches Problem haetten erkennen muessen.
+Wenn das Fax wegen Geraete-Stoerung beim Empfaenger nicht ankommt — und Sie das nicht erkennen konnten — wirkt sich BGH-Wiedereinsetzungs-Rechtsprechung guenstig aus. Aber: Sie tragen das **Uebertragungsrisiko**, sofern Sie ein technisches Problem haetten erkennen müssen.
 
 ### Schritt 7 — Computerfax / Online-Fax
 
-- Email-zu-Fax-Dienst: rechtlich aehnlich Fax.
+- Email-zu-Fax-Dienst: rechtlich ähnlich Fax.
 - Aber: Authentizitaet kann schwerer beweisbar sein.
 - BGH hat Online-Fax bei korrektem Sendebericht akzeptiert.
 
-### Schritt 8 — Alternativen wenn moeglich
+### Schritt 8 — Alternativen wenn möglich
 
 Fax ist Ueberbrueckung — wenn Sie laufend Schriftsaetze einreichen, richten Sie MJP ein.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Sendebericht ist Beweis**. Ohne ihn keine Frist-Wahrung.
-- **Vollstaendigkeit pruefen**: Manchmal verzichtet das Fax-Geraet bei langen Sendungen auf einzelne Seiten.
+- **Vollstaendigkeit prüfen**: Manchmal verzichtet das Fax-Geraet bei langen Sendungen auf einzelne Seiten.
 - **Lesbarkeit**: Schlechter Druck wird durch Fax noch schlechter.
 - **Fristwahrung**: Eingang vor 24:00 Uhr des Fristtags reicht.
 
@@ -89,4 +89,4 @@ Fax ist Ueberbrueckung — wenn Sie laufend Schriftsaetze einreichen, richten Si
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Fax-Einreichung weiterhin moeglich; mehrere Gerichte planen aber Abbau. Vor Verlass auf Fax telefonisch bestaetigen, dass Anschluss aktiv ist.
+Stand: 05/2026. Fax-Einreichung weiterhin möglich; mehrere Gerichte planen aber Abbau. Vor Verlass auf Fax telefonisch bestaetigen, dass Anschluss aktiv ist.

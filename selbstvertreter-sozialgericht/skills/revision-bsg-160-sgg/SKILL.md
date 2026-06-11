@@ -27,7 +27,7 @@ Die dritte und letzte Instanz ist das Bundessozialgericht in Kassel. Hier brauch
 ## Fachbegriffe (kurz erklaert)
 
 - **Revision**: Rechtsmittel zum BSG.
-- **Anwaltszwang**: Sie muessen einen vor dem BSG zugelassenen Anwalt nehmen.
+- **Anwaltszwang**: Sie müssen einen vor dem BSG zugelassenen Anwalt nehmen.
 - **Zulassungsschranke**: Revision nur bei Grundsatzfragen, Divergenz, Verfahrensfehler.
 
 ## Rechtsgrundlagen
@@ -39,9 +39,9 @@ Die dritte und letzte Instanz ist das Bundessozialgericht in Kassel. Hier brauch
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen: hat das LSG zugelassen?
+### Schritt 1 — Prüfen: hat das LSG zugelassen?
 
-Im LSG-Urteil steht, ob Revision zugelassen ist. Wenn ja: Revision moeglich.
+Im LSG-Urteil steht, ob Revision zugelassen ist. Wenn ja: Revision möglich.
 
 Wenn nicht: Nichtzulassungsbeschwerde (siehe `nichtzulassungsbeschwerde-bsg-160a-sgg`).
 
@@ -71,7 +71,7 @@ Der Anwalt erstellt sie. Inhalt:
 
 Oft im schriftlichen Verfahren. Bei muendlicher Verhandlung: Anwalt vertritt Sie.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Anwaltszwang ist absolut** — ohne Anwalt geht gar nichts.
 - **PKH frueh beantragen**.

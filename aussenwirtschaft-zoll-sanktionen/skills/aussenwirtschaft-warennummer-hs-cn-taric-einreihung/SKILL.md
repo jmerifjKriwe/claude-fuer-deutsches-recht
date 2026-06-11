@@ -17,15 +17,15 @@ description: "Wareneinreihung nach Harmonisiertem System (HS) Kombinierter Nomen
 
 - Importeur meldet Elektromotoren unter falscher KN-Nummer an; Hauptzollamt stellt abweichende Einreihung fest.
 - Unternehmen fragt ob Set aus Maschine und Ersatzteilen zusammen eingereiht werden muss.
-- Lebensmittel-Exporteur muss TARIC-Code für verarbeitetes Produkt bestimmen; mehrere KN-Positionen moeglich.
+- Lebensmittel-Exporteur muss TARIC-Code für verarbeitetes Produkt bestimmen; mehrere KN-Positionen möglich.
 
 ## Erste Schritte
 
 1. Ware vollstaendig beschreiben: Beschaffenheit Zusammensetzung Funktion und Verwendungszweck.
 2. AV 1 anwenden: Einreihung nach Wortlaut der Positionen und Anmerkungen.
-3. AV 2 bis 6 schrittweise pruefen: unvollstaendige Waren Sets Gemische spezifischere Bestimmung.
+3. AV 2 bis 6 schrittweise prüfen: unvollstaendige Waren Sets Gemische spezifischere Bestimmung.
 4. EZT-online (Elektronischer Zolltarif) und TARIC-Datenbank konsultieren.
-5. Erlaeuterungen zur KN (ErlBem) und Einreihungsverordnungen zum HS-Code pruefen.
+5. Erlaeuterungen zur KN (ErlBem) und Einreihungsverordnungen zum HS-Code prüfen.
 6. Einreihungsvermerk erstellen mit Normbegruendung und TARIC-Abfrage-Dokumentation.
 
 ## Rechtsrahmen
@@ -50,7 +50,7 @@ description: "Wareneinreihung nach Harmonisiertem System (HS) Kombinierter Nomen
 - Sets und Garnituren werden oft faelschlicherweise aufgeteilt; AV 3 beachten.
 - Teile und Zubehoer haben eigene Positionen; Zuordnung zum Hauptprodukt nicht automatisch.
 - Software als integraler Bestandteil einer Maschine aendert Einreihung moeglicherweise.
-- Beschriftung und Verpackung koennen Einreihung beeinflussen (AV 5).
+- Beschriftung und Verpackung können Einreihung beeinflussen (AV 5).
 
 ## Schnittstellen zu anderen Skills
 

@@ -21,7 +21,7 @@
 | Freitext Organisation |  | eigener oder fremder Eintrag auffinden |  |  |
 | Freitext Marke/Projekt |  | Varianten, Schreibweisen, Zweigniederlassungen finden |  |  |
 | Registernummer |  | amtlichen Eintrag ziehen |  |  |
-| Version |  | Aenderungshistorie pruefen |  |  |
+| Version |  | Aenderungshistorie prüfen |  |  |
 | Statistik | `statistics/registerentries` | Datenstand der Abfrage dokumentieren |  |  |
 
 ## Abfragebefehle

@@ -3,7 +3,7 @@ name: honorarrechnung-erstellen-pruefen
 description: "Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen für Aufsatz, Beitrag, Werk im Verlagsredaktion."
 ---
 
-# Honorarrechnung erstellen und pruefen
+# Honorarrechnung erstellen und prüfen
 
 ## Arbeitsweg
 
@@ -32,19 +32,19 @@ Der Verlag erstellt entweder selbst eine Gutschrift für die Autorin (UStG § 14
 - UStG § 14 Abs. 2 Satz 2 - Gutschrift durch Leistungsempfaenger nur mit Einverstaendnis des Leistenden.
 - UStG § 12 Abs. 2 Nr. 7 lit. c und § 19 - ermaessigter Steuersatz 7 Prozent für Einraeumung urheberrechtlicher Nutzungsrechte; Kleinunternehmerregelung.
 - UStG § 13b - Reverse-Charge bei sonstigen Leistungen aus dem Ausland.
-- KSVG (Kuenstlersozialversicherungsgesetz) - Abgabepflicht des Verlags für Zahlungen an selbstaendige Publizisten; Abgabesatz wird jaehrlich angepasst (Stand 2026 pruefen).
+- KSVG (Kuenstlersozialversicherungsgesetz) - Abgabepflicht des Verlags für Zahlungen an selbstaendige Publizisten; Abgabesatz wird jaehrlich angepasst (Stand 2026 prüfen).
 - EStG § 50a - Steuerabzug bei beschraenkt steuerpflichtigen Autoren (Drittland).
 - BGB § 366 - Tilgungsbestimmung bei mehreren offenen Forderungen.
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Vertragslage pruefen.** Honorarvereinbarung, Gutschriftvereinbarung, Tantiemestaffel.
-2. **Steuerstatus klaeren.** USt-ID oder Erklaerung Kleinunternehmer einholen, in der Akte ablegen.
-3. **Leistungsgegenstand sauber beschreiben.** "Beitrag in [Zeitschrift], Heft [n]/[Jahr], Titel [...], Umfang [Seiten] - Einraeumung der Nutzungsrechte gemaess Verlagsvertrag vom [Datum]".
+1. **Vertragslage prüfen.** Honorarvereinbarung, Gutschriftvereinbarung, Tantiemestaffel.
+2. **Steuerstatus klären.** USt-ID oder Erklaerung Kleinunternehmer einholen, in der Akte ablegen.
+3. **Leistungsgegenstand sauber beschreiben.** "Beitrag in [Zeitschrift], Heft [n]/[Jahr], Titel [...], Umfang [Seiten] - Einraeumung der Nutzungsrechte gemäß Verlagsvertrag vom [Datum]".
 4. **Steuersatz waehlen.** 7 Prozent bei Einraeumung urheberrechtlicher Nutzungsrechte; 19 Prozent bei reinen Dienstleistungen ohne Rechteeinraeumung; 0 Prozent bei Kleinunternehmer mit Hinweis.
 5. **Rechnungsnummer vergeben.** Fortlaufend nach internem Schema.
-6. **KSK-Meldung.** Honorarsumme im Jahresreport an Kuenstlersozialkasse einbeziehen; Abgrenzung zu juristischen Personen pruefen.
-7. **Bei Auslandsautor:** Pruefen, ob Reverse Charge greift, ggf. Antrag auf Befreiung vom Steuerabzug (§ 50d EStG).
+6. **KSK-Meldung.** Honorarsumme im Jahresreport an Kuenstlersozialkasse einbeziehen; Abgrenzung zu juristischen Personen prüfen.
+7. **Bei Auslandsautor:** Prüfen, ob Reverse Charge greift, ggf. Antrag auf Befreiung vom Steuerabzug (§ 50d EStG).
 8. **Zahlung.** Innerhalb der vertraglichen Frist (i. d. R. 30 Tage nach Zugang).
 
 ## Trade-off-Matrix
@@ -128,5 +128,5 @@ Hinweis: Gemaess § 19 UStG wird keine Umsatzsteuer ausgewiesen
 - UStG §§ 12 Abs. 2 Nr. 7 lit. c, 13b, 14, 19 - Steuersatz, Reverse Charge, Pflichtangaben, Kleinunternehmer.
 - EStG § 50a, § 50d - Steuerabzug bei beschraenkter Steuerpflicht; Befreiung.
 - KSVG - Kuenstlersozialabgabepflicht; aktueller Satz unter kuenstlersozialkasse.de.
-- BMF-Schreiben zu § 14 UStG; aktuelle Anwendungserlasse pruefen.
+- BMF-Schreiben zu § 14 UStG; aktuelle Anwendungserlasse prüfen.
 - Verlagsgesetz (VerlG) §§ 14, 22 - Honorarpflicht und Faelligkeit.

@@ -34,32 +34,32 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 - **DBA Deutschland-Niederlande vom 12.04.2012** (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), anwendbar ab 01.01.2016.
 - Aenderungsprotokoll vom 11.01.2016 (BGBl. 2016 II S. 868); weiteres Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736).
-- **Drittes Aenderungsprotokoll vom 14.04.2025** (BMF-Pressemitteilung 14.04.2025): Bagatellgrenze für Home-Office von Grenzpendlern eingefuehrt — **bis 34 Arbeitstage pro Kalenderjahr** Home-Office im Wohnsitzstaat ohne Aufteilung des Besteuerungsrechts. In Kraft 31.12.2025; anwendbar ab 01.01.2026. BGBl.-Fundstelle ueber recht.bund.de pruefen (Pruefhinweis).
+- **Drittes Aenderungsprotokoll vom 14.04.2025** (BMF-Pressemitteilung 14.04.2025): Bagatellgrenze für Home-Office von Grenzpendlern eingefuehrt — **bis 34 Arbeitstage pro Kalenderjahr** Home-Office im Wohnsitzstaat ohne Aufteilung des Besteuerungsrechts. In Kraft 31.12.2025; anwendbar ab 01.01.2026. BGBl.-Fundstelle über recht.bund.de prüfen (Pruefhinweis).
 - **OECD-MA 2010/2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: Deutschland und Niederlande sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
+- **MLI**: Deutschland und Niederlande sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 
 - Aktuelle BFH-Rechtsprechung zu DBA-Niederlande-Pensionen in freier amtlicher Quelle abrufen.
-- BMF-Schreiben zu DBA Niederlande Anwendung — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zu DBA Niederlande Anwendung — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit (Art. 4)
 
 - Tie-Breaker entsprechend OECD-MA.
-- Bei Personengesellschaften: niederlaendische CV/BV-Konstrukte koennen Qualifikationskonflikte ausloesen.
+- Bei Personengesellschaften: niederlaendische CV/BV-Konstrukte können Qualifikationskonflikte ausloesen.
 
 ### Betriebsstaette (Art. 5)
 
 - Bauausfuehrung **12 Monate** Standard.
-- Logistik-Lager (Distribution Center): Pruefung Hilfstaetigkeit vs. Hauptbetrieb — MLI Anti-Fragmentierung.
+- Logistik-Lager (Distribution Center): Prüfung Hilfstaetigkeit vs. Hauptbetrieb — MLI Anti-Fragmentierung.
 
 ### Aktive Einkuenfte
 
 - Unternehmensgewinne (Art. 7): Betriebsstaette als Anknuepfung.
-- Loehne (Art. 14): 183-Tage-Regel; Grenzgaengerregelung in DBA-Niederlande **abweichend von Schweiz/Oesterreich; konkret pruefen**.
+- Loehne (Art. 14): 183-Tage-Regel; Grenzgaengerregelung in DBA-Niederlande **abweichend von Schweiz/Oesterreich; konkret prüfen**.
 - **Home-Office-Bagatelle ab 01.01.2026** (3. Aend.-Prot. vom 14.04.2025): bis 34 Arbeitstage Home-Office pro Kalenderjahr im Wohnsitzstaat ohne Aufteilung des Lohns — d.h. der Taetigkeitsstaat (Arbeitgeberstaat) behaelt das volle Besteuerungsrecht.
 
 ### Passive Einkuenfte
@@ -78,14 +78,14 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 - **Pensionen Art. 17**: bei kleinen Renten Wohnsitzstaat, bei groesseren Pensionen Quellenstaat — die im DBA verankerte Schwelle wird in der Literatur regelmaessig mit 15.000 EUR pro Jahr referenziert; **die exakte Schwelle, ihre Berechnungsgrundlage (Brutto/Netto) und etwaige Indexanpassungen aus dem DBA-Text und ggf. der zugehoerigen Verstaendigungsvereinbarung uebernehmen, nicht aus diesem Skill**.
 - **Sozialversicherungsleistungen**: AOW (gesetzliche niederlaendische Rente) gesondert geregelt.
 - **Holding-Strukturen**: niederlaendische Cooperatie und BV-Konstrukte — Hybrid-Konflikte mit § 1 KStG.
-- **Personengesellschaften**: niederlaendische CV (commanditaire vennootschap) kann steuerlich opak oder transparent sein — Qualifikation klaeren.
+- **Personengesellschaften**: niederlaendische CV (commanditaire vennootschap) kann steuerlich opak oder transparent sein — Qualifikation klären.
 
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
 1. Anwendbares DBA (DBA 2012 für Zeitraum ab 2016; DBA 1959 für Altzeitraeume).
 
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 1. Tie-Breaker.
 
 ### Phase 3 — Einkunftsart einordnen
@@ -111,16 +111,16 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 ### Erstattungsverfahren niederlaendische Dividendensteuer
 
-- **Zuständigkeit**: Erstattung niederlaendischer Dividendensteuer durch **Belastingdienst/Kantoor Buitenland** (Heerlen). Aktuelle Zuständigkeit auf **belastingdienst.nl** pruefen.
+- **Zuständigkeit**: Erstattung niederlaendischer Dividendensteuer durch **Belastingdienst/Kantoor Buitenland** (Heerlen). Aktuelle Zuständigkeit auf **belastingdienst.nl** prüfen.
 - **Antragsformulare**: niederlaendische Formulare **IB 92** (Antrag Rueckerstattung Dividendensteuer für Auslaender) und Schachteldividenden-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf belastingdienst.nl/buitenland zu verifizieren.
-- **Frist**: nach niederlaendischer Algemene Wet inzake Rijksbelastingen grundsaetzlich **drei Jahre** ab Steuerentrichtung — knappere Frist als bei AT/IT.
+- **Frist**: nach niederlaendischer Algemene Wet inzake Rijksbelastingen grundsätzlich **drei Jahre** ab Steuerentrichtung — knappere Frist als bei AT/IT.
 - **Bearbeitungsdauer Belastingdienst**: 6-18 Monate.
 - **Online-Portal**: niederlaendische Verwaltung auf **belastingdienst.nl/buitenland** mit englischer Sprachversion ("Tax matters from abroad") — barrierearm für deutsche Mandanten.
-- **Niederlaendisch optional**: Eingaben in englischer Sprache moeglich; offizielle Bescheide in NL — bei groesseren Erstattungen niederlaendischen Berater einbinden.
+- **Niederlaendisch optional**: Eingaben in englischer Sprache möglich; offizielle Bescheide in NL — bei groesseren Erstattungen niederlaendischen Berater einbinden.
 
 ### Lokaler Steuerberater-Kontakt
 
-- **Empfehlung**: bei Holding-Strukturen mit BV/CV-Konstellation, bei Pensionsfaellen ueber DBA-Schwelle, bei Logistik-Lagerstrukturen mit Anti-Fragmentierungs-Risiko. Niederlaendische Kanzleien in Amsterdam/Eindhoven mit DE-Mandanten.
+- **Empfehlung**: bei Holding-Strukturen mit BV/CV-Konstellation, bei Pensionsfaellen über DBA-Schwelle, bei Logistik-Lagerstrukturen mit Anti-Fragmentierungs-Risiko. Niederlaendische Kanzleien in Amsterdam/Eindhoven mit DE-Mandanten.
 
 ### Sprache
 
@@ -132,14 +132,14 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 |---|---|---|---|
 | Home-Office Bagatelle 34 Tage einhalten vs. Aufteilung | komplette Besteuerung im Arbeitgeberstaat NL, kein DE-Anteil | Aufteilung Lohn auf NL/DE nach Arbeitstagen | bei Sparsamkeit Home-Office unter 34 Tagen Bagatelle vorteilhaft; bei zunehmendem Home-Office Aufteilung |
 | Holding via niederlaendische BV vs. Direktbeteiligung | NL hat haeufig Schachtelfreistellung (deelnemingsvrijstelling) auf Tochterdividenden; PROBLEM: deutsche § 50d Abs. 3-Substanzpruefung | direkte deutsche Mutter — kein Treaty-Schutz noetig | bei substanziellem Holdingbetrieb in NL Vorteil; bei Briefkasten Substanz aufbauen oder direkt aus DE halten |
-| Pension unter Schwelle (Wohnsitz) vs. ueber Schwelle (Quelle) | Wohnsitzstaat-Besteuerung in DE | Quellenstaat-Besteuerung in NL — typischerweise hoehere effektive Last | bei freier Wahl Wohnsitz vor Pensionseintritt strategisch wichtig |
+| Pension unter Schwelle (Wohnsitz) vs. über Schwelle (Quelle) | Wohnsitzstaat-Besteuerung in DE | Quellenstaat-Besteuerung in NL — typischerweise hoehere effektive Last | bei freier Wahl Wohnsitz vor Pensionseintritt strategisch wichtig |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
-- **Niederlassungsbedingung 360 Tage**: in DBA-NL 2012 für bestimmte Pensionsregelungen verankert — bei Erfuellung wechselt das Besteuerungsrecht. Konkrete Pruefung im DBA-Text Art. 17 und Schlussprotokoll.
-- **CV/BV-Konstellation**: niederlaendische **commanditaire vennootschap** (CV) kann steuerlich opak ODER transparent sein je nach Strukturierung — Qualifikationskonflikt mit § 1 KStG haeufig. Aktuelle Pruefung erforderlich.
+- **Niederlassungsbedingung 360 Tage**: in DBA-NL 2012 für bestimmte Pensionsregelungen verankert — bei Erfuellung wechselt das Besteuerungsrecht. Konkrete Prüfung im DBA-Text Art. 17 und Schlussprotokoll.
+- **CV/BV-Konstellation**: niederlaendische **commanditaire vennootschap** (CV) kann steuerlich opak ODER transparent sein je nach Strukturierung — Qualifikationskonflikt mit § 1 KStG haeufig. Aktuelle Prüfung erforderlich.
 - **Lager-/Distributionscenter (Rotterdam, Venlo)**: deutsche Mutter mit Distributionslager in NL — Anti-Fragmentierungsregel im MLI kann zur Betriebsstaette fuehren, wenn Lager und Servicetaetigkeiten kombiniert werden.
-- **Cooperatie-Struktur**: niederlaendische Cooperatie kann hybride Behandlung haben — § 4k EStG anti-hybrid pruefen.
+- **Cooperatie-Struktur**: niederlaendische Cooperatie kann hybride Behandlung haben — § 4k EStG anti-hybrid prüfen.
 - **Cross-Border-Workers Coronavirus**: alte Konsultationsvereinbarung (befristet) — für Altzeitraeume relevant; ab 01.01.2026 neue Bagatellgrenze 34 Tage gilt.
 - **Pensions-Schwelle in EUR aus DBA**: Schwellenwert exakt aus Art. 17 DBA-NL 2012 und Schlussprotokoll uebernehmen, nicht aus Sekundaerliteratur.
 
@@ -149,13 +149,13 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 >
 > Schritt 1: EU-MTRL (§ 43b EStG) und § 50g EStG vorrangig: 0 Prozent niederlaendische Dividendensteuer — Voraussetzung: deutsche Holding stellt vor Ausschuettung **Freistellungsanzeige** an die niederlaendische Quelle.
 >
-> Schritt 2: Ohne Freistellung: 15 Prozent niederlaendische Dividendensteuer als Standard = 120.000 EUR; Erstattung von 10 Prozent (Differenz zum DBA-Schachtel 5 Prozent) ueber IB 92 an Belastingdienst Heerlen.
+> Schritt 2: Ohne Freistellung: 15 Prozent niederlaendische Dividendensteuer als Standard = 120.000 EUR; Erstattung von 10 Prozent (Differenz zum DBA-Schachtel 5 Prozent) über IB 92 an Belastingdienst Heerlen.
 >
-> Schritt 3: In DE: § 8b KStG-Befreiung 95 Prozent, 5 Prozent fiktive nichtabziehbare BA; § 50d Abs. 3 EStG-Substanztest bei niederlaendischer Holding pruefen.
+> Schritt 3: In DE: § 8b KStG-Befreiung 95 Prozent, 5 Prozent fiktive nichtabziehbare BA; § 50d Abs. 3 EStG-Substanztest bei niederlaendischer Holding prüfen.
 
-## Berechnungsbeispiel — Pension ueber Schwelle aus NL an DE-Wohnsitz
+## Berechnungsbeispiel — Pension über Schwelle aus NL an DE-Wohnsitz
 
-> Deutscher Mandant Wohnsitz Aachen, Pension aus niederlaendischem Pensioenfonds 25.000 EUR p.a. — angenommen ueber DBA-Schwelle Art. 17 (Schwellenwert konkret aus DBA-Text pruefen).
+> Deutscher Mandant Wohnsitz Aachen, Pension aus niederlaendischem Pensioenfonds 25.000 EUR p.a. — angenommen über DBA-Schwelle Art. 17 (Schwellenwert konkret aus DBA-Text prüfen).
 >
 > Schritt 1: Bei Schwellen-Ueberschreitung greift Quellenstaat-Besteuerung NL. Niederlaendische Lohnsteuer auf Pension wird einbehalten (regelmaessig progressiv).
 >
@@ -165,6 +165,6 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Niederlande 12.04.2012 (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), ab 01.01.2016. Aend.-Prot. 11.01.2016 (BGBl. 2016 II S. 868), Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736). MLI-Notifications beim OECD-Portal pruefen. Quellensteuer-Saetze und Pensionsschwelle konkret im DBA-Text Art. 17 pruefen.
+Stand: 05/2026. DBA-Niederlande 12.04.2012 (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), ab 01.01.2016. Aend.-Prot. 11.01.2016 (BGBl. 2016 II S. 868), Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736). MLI-Notifications beim OECD-Portal prüfen. Quellensteuer-Saetze und Pensionsschwelle konkret im DBA-Text Art. 17 prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 4 belegt (BGBl. 2012 II S. 1414/1415 bestaetigt; BGBl. 2015 II S. 1674 bestaetigt; Aend.-Prot. 11.01.2016 BGBl. 2016 II S. 868 bestaetigt; Aend.-Prot. 24.03.2021 BGBl. 2021 II S. 736 bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

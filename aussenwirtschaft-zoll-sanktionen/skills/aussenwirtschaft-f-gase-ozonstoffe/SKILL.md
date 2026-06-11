@@ -22,9 +22,9 @@ description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) n
 ## Erste Schritte
 
 1. Stoff identifizieren: F-Gas (HFK/HFKW/PFK/SF6) nach Anhang I VO (EU) 517/2014 oder ODS nach VO (EG) 1005/2009.
-2. Quotenpflicht pruefen: F-Gas-Quotenregister der EU-Kommission (HFKW-Einfuhrquoten).
-3. Importeur-Zertifizierungspflicht und F-Gas-Zertifikat nach VO (EU) 2015/2067 pruefen.
-4. TARIC-Massnahmen für F-Gas-Einfuhren abrufen.
+2. Quotenpflicht prüfen: F-Gas-Quotenregister der EU-Kommission (HFKW-Einfuhrquoten).
+3. Importeur-Zertifizierungspflicht und F-Gas-Zertifikat nach VO (EU) 2015/2067 prüfen.
+4. TARIC-Maßnahmen für F-Gas-Einfuhren abrufen.
 5. Genehmigungsantrag beim Umweltbundesamt stellen (ODS) oder Quotenzuteilung beantragen.
 6. Kuehlmittelprotokoll und Aufzeichnungspflichten sicherstellen.
 
@@ -41,7 +41,7 @@ description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) n
 - [ ] Stoff korrekt nach VO (EU) 517/2014 Anhang I oder VO (EG) 1005/2009 eingeordnet?
 - [ ] Quotenzuteilung für F-Gas-Importe vorhanden und ausreichend?
 - [ ] F-Gas-Zertifizierung des Importeurs aktuell?
-- [ ] TARIC-Massnahmen abgerufen und beachtet?
+- [ ] TARIC-Maßnahmen abgerufen und beachtet?
 - [ ] Aufzeichnungspflichten (Logbuch, Mengennachweis) erfuellt?
 - [ ] Genehmigung Umweltbundesamt für ODS vorhanden?
 
@@ -50,7 +50,7 @@ description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) n
 - F-Gas-Quoten werden jaehrlich zugeteilt; Ueberschreitung fuehrt zu Beschlagnahme.
 - Vorgeladene Klimaanlagen mit F-Gas werden wie Direktimport des Kaeltemittels behandelt.
 - Kaelteanlagentechniker ohne F-Gas-Zertifikat machen Unternehmen bussgeldpflichtig.
-- Ozonabbauende Stoffe in kleinen Mengen für Laboranalysen koennen Sonderausnahmen haben.
+- Ozonabbauende Stoffe in kleinen Mengen für Laboranalysen können Sonderausnahmen haben.
 
 ## Schnittstellen zu anderen Skills
 

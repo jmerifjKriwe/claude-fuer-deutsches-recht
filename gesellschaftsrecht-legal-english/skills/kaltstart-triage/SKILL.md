@@ -7,7 +7,7 @@ description: "Einstieg für das Gesellschaftsrecht-Legal-English-Plugin: erkennt
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Gesellschaftsrecht Legal English** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gesellschaftsrecht Legal English** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -75,7 +75,7 @@ Vermeide einen Vorlesungsstart. Besser ist ein kleiner, handhabbarer erster Schr
 | "Ich habe Screenshots, Excel, PDFs, Chats" | Multi-Format-Auswertung: Dokumentkarte je Quelle | `anschauungsmaterial-multiformat-auswertung` |
 | "Es geht um Zahlen" | Rechenanker, Annahmen, Kontrollformel | `cap-table-gesellschafterliste`, `fully-diluted-esop-option-pool`, `liquidation-preference-waterfall` |
 | "Englischer Vertrag, deutsches Recht" | Sprach-/Rechtswahl-/Beurkundungs-Gate | `deutsches-recht-englische-vertraege` |
-| "Bareinlage und gleichzeitig Erwerb vom Gesellschafter" | § 19 Abs. 4/5 GmbHG-Pruefung, Anrechnungsloesung, Heilung | `verdeckte-sacheinlage` |
+| "Bareinlage und gleichzeitig Erwerb vom Gesellschafter" | § 19 Abs. 4/5 GmbHG-Prüfung, Anrechnungsloesung, Heilung | `verdeckte-sacheinlage` |
 | "Wir machen Vertragsrecht, BGB AT ist egal" | Gegencheck: Form, § 162, § 181, § 307, § 444 BGB, Einheitstheorie | `bgb-at-schuldrecht-at-im-ma` |
 
 ## Didaktischer Standardablauf
@@ -106,6 +106,6 @@ Vermeide einen Vorlesungsstart. Besser ist ein kleiner, handhabbarer erster Schr
 
 ## Beispielstart
 
-Wenn der Nutzer schreibt: "Was ist fully diluted und muss ich das in die Gesellschafterliste schreiben?", antworte sinngemaess:
+Wenn der Nutzer schreibt: "Was ist fully diluted und muss ich das in die Gesellschafterliste schreiben?", antworte sinngemäß:
 
 > Kurz: Fully diluted ist eine wirtschaftliche Rechenbrille, nicht die Gesellschafterliste. Die Gesellschafterliste zeigt die formellen Geschaeftsanteile nach § 40 GmbHG; fully diluted rechnet so, als waeren Optionen, Wandeldarlehen und Pool-Reservierungen schon eingepreist. Ich wuerde jetzt mit `cap-table-gesellschafterliste` und danach `fully-diluted-esop-option-pool` arbeiten.

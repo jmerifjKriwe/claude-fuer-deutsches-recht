@@ -13,7 +13,7 @@ Diese Output-Weiche für **Vertragsrecht** entscheidet, ob Memo, Antrag, Schrift
 
 - `abmahnung-uwg` — Abmahnung UWG
 - `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
-- `agb-pruefung` — AGB Pruefung
+- `agb-pruefung` — AGB Prüfung
 - `anpassen` — Anpassen
 - `anschluss-router` — Anschluss Router
 - `bgb-business-einzelabrufe-sonderfall` — BGB Business Einzelabrufe Sonderfall

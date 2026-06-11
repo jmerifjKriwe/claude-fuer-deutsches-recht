@@ -137,17 +137,17 @@ Es besteht keine eigenständige Anzeigepflicht. Aber bei Insolvenzantrag ist der
 - Eintrag im Status (Skill `bilanzieller-status-aufnehmen`) — Forderung wird nicht passiviert.
 - Wiedervorlage zur Prüfung Steuerfolge (steuerberatung).
 
-## Aktuelle Leitentscheidungen — Gesellschafterdarlehen und Rangruecktritt
+## Aktuelle Leitentscheidungen — Gesellschafterdarlehen und Rangrücktritt
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Gesellschafterdarlehen
 
-§ 19 Abs. 2 S. 2 InsO (qualifizierter Rangruecktritt — Nicht-Passivierung) → § 135 InsO (Anfechtung Gesellschafterdarlehen 1 Jahr) → § 39 Abs. 4 InsO (Sanierungsprivileg) → § 39 Abs. 1 Nr. 5 InsO (Nachrang Gesellschafterdarlehen) → §§ 488 ff. BGB (Darlehensvertrag)
+§ 19 Abs. 2 S. 2 InsO (qualifizierter Rangrücktritt — Nicht-Passivierung) → § 135 InsO (Anfechtung Gesellschafterdarlehen 1 Jahr) → § 39 Abs. 4 InsO (Sanierungsprivileg) → § 39 Abs. 1 Nr. 5 InsO (Nachrang Gesellschafterdarlehen) → §§ 488 ff. BGB (Darlehensvertrag)
 
 ## Triage — Gesellschafterdarlehen Check
 
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Darlehens-Restlaufzeit?** Innerhalb 1 Jahr → Tilgung anfechtungsgefaehrdet § 135 InsO.
 3. **Sanierungskonzept vorhanden?** Ohne IDW S 6 kein Sanierungsprivileg § 39 Abs. 4 InsO.
-4. **Zinsen laufen?** Nachrangige Zinsen sollten ebenfalls durch Rangruecktritt erfasst sein.
+4. **Zinsen laufen?** Nachrangige Zinsen sollten ebenfalls durch Rangrücktritt erfasst sein.

@@ -3,22 +3,22 @@ name: einreden-aktiv-geltend-machen
 description: "Einreden aktiv geltend machen Verjährung Aufrechnung Zurückbehaltung Stundung im Klageerwiderungs-Schriftsatz. Mustertexte und Anwendung. Gericht prüft nicht von Amts wegen außer bei rechtsvernichtenden oder rechtshindernden Einwendungen."
 ---
 
-# Einreden: Sie muessen sie erheben!
+# Einreden: Sie müssen sie erheben!
 
 ## Worum geht es?
 
-Eine **Einrede** ist Ihr eigenes Recht, das die Klage abwehrt, selbst wenn der Klage-Anspruch bestehen sollte. Wichtig: Die meisten Einreden muessen Sie **ausdruecklich erheben** — Gericht prueft sie nicht von Amts wegen. Wenn Sie schweigen, gehen Sie unter. Diese Skill listet die wichtigsten Einreden und zeigt, wie Sie sie formulieren.
+Eine **Einrede** ist Ihr eigenes Recht, das die Klage abwehrt, selbst wenn der Klage-Anspruch bestehen sollte. Wichtig: Die meisten Einreden müssen Sie **ausdruecklich erheben** — Gericht prüft sie nicht von Amts wegen. Wenn Sie schweigen, gehen Sie unter. Diese Skill listet die wichtigsten Einreden und zeigt, wie Sie sie formulieren.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie sind verklagt und meinen, der Anspruch ist verjaehrt.
-- Sie haben selbst Forderung gegen den Klaeger und wollen verrechnen.
+- Sie haben selbst Forderung gegen den Kläger und wollen verrechnen.
 - Sie behalten was zurueck, weil die Gegenseite eine Gegenleistung schuldet.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Einrede**: Eigenes Recht, das die Klage abwehrt; muss erhoben werden.
-- **Einwendung**: Tatsache, die das Recht ausschliesst oder vernichtet; Gericht prueft i. d. R. von Amts wegen (sofern sie aus dem Vortrag ergibt).
+- **Einwendung**: Tatsache, die das Recht ausschliesst oder vernichtet; Gericht prüft i. d. R. von Amts wegen (sofern sie aus dem Vortrag ergibt).
 - **Aufrechnung**: Verrechnung einer Gegenforderung mit der Klage-Forderung.
 - **Zurueckbehaltungsrecht**: Recht, die eigene Leistung zurueckzuhalten, bis Gegenleistung erbracht.
 
@@ -35,7 +35,7 @@ Eine **Einrede** ist Ihr eigenes Recht, das die Klage abwehrt, selbst wenn der K
 
 ### Schritt 1 — Welche Einreden kommen in Betracht?
 
-- **Verjährung** (haeufigste, immer pruefen).
+- **Verjährung** (haeufigste, immer prüfen).
 - **Aufrechnung**.
 - **Zurueckbehaltungsrecht**.
 - **Einrede des nicht-erfuellten Vertrages** (§ 320 BGB) — synallagmatischer Vertrag.
@@ -43,7 +43,7 @@ Eine **Einrede** ist Ihr eigenes Recht, das die Klage abwehrt, selbst wenn der K
 
 ### Schritt 2 — Verjährungs-Einrede
 
-Pruefen Sie Verjährung (Skill `verjaehrungsfrist-pruefen-195-bgb`). Wenn Anspruch verjaehrt:
+Prüfen Sie Verjährung (Skill `verjaehrungsfrist-pruefen-195-bgb`). Wenn Anspruch verjaehrt:
 
 ```
 Einrede der Verjährung
@@ -63,7 +63,7 @@ Wirkung: Klage wird abgewiesen (sofern Verjährung tatsaechlich abgelaufen ist).
 
 ### Schritt 3 — Aufrechnung
 
-Wenn Sie selbst Forderung gegen Klaeger haben:
+Wenn Sie selbst Forderung gegen Kläger haben:
 
 ```
 Aufrechnung
@@ -101,7 +101,7 @@ Im Erfolgsfall: Urteil Zug-um-Zug.
 
 ### Schritt 5 — Einrede des nicht-erfuellten Vertrages (§ 320 BGB)
 
-Bei gegenseitigem Vertrag: Sie muessen die eigene Leistung nicht erbringen, solange die Gegenleistung nicht erbracht ist.
+Bei gegenseitigem Vertrag: Sie müssen die eigene Leistung nicht erbringen, solange die Gegenleistung nicht erbracht ist.
 
 ```
 Einrede des nicht-erfuellten Vertrages
@@ -117,7 +117,7 @@ Beweis: ...
 
 ### Schritt 6 — Stundung / Verzicht
 
-Wenn der Klaeger Stundung oder Verzicht erklaert hat:
+Wenn der Kläger Stundung oder Verzicht erklaert hat:
 
 ```
 Stundung
@@ -151,15 +151,15 @@ Rangfolge: Erst Hauptangriff (Verjährung, weil sie Klage komplett zu Fall bring
 
 ### Schritt 8 — Fristen für Einreden
 
-- **Verjährungs-Einrede**: Im Klageerwiderungs-Schriftsatz (oder spaeter, aber § 296 ZPO drohend).
-- **Aufrechnung**: Auch spaeter moeglich, aber besser frueh.
+- **Verjährungs-Einrede**: Im Klageerwiderungs-Schriftsatz (oder später, aber § 296 ZPO drohend).
+- **Aufrechnung**: Auch später möglich, aber besser frueh.
 - **Zurueckbehaltungs-Recht**: Frueh.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Einreden nicht von Amts wegen**: Gericht wartet auf Ihre Erklaerung.
-- **Praeklusion § 296 ZPO** moeglich, wenn zu spaet.
-- **Verjährung pruefen IMMER** — Standard-Check.
+- **Praeklusion § 296 ZPO** möglich, wenn zu spaet.
+- **Verjährung prüfen IMMER** — Standard-Check.
 - **Aufrechnungs-Erklaerung** kann (anders als reine prozessuale Einrede) auch materielles Wirkungsregime ausloesen.
 
 ## Typische Fehler

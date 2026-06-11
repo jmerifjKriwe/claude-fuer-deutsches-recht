@@ -35,11 +35,11 @@ Das DBA-Lettland vom 21.02.1997 (BGBl. 1997 II S. 1382) regelt das Verhaeltnis z
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: Deutschland und Lettland sind beide MLI-Unterzeichner. Ob das DBA-Lettland als gedecktes Steuerabkommen i.S.d. BEPS-MLI-Anwendungsgesetzes gilt, ist im aktuellen BMF-Schreiben zum Stand der DBA zu pruefen.
+- **MLI**: Deutschland und Lettland sind beide MLI-Unterzeichner. Ob das DBA-Lettland als gedecktes Steuerabkommen i.S.d. BEPS-MLI-Anwendungsgesetzes gilt, ist im aktuellen BMF-Schreiben zum Stand der DBA zu prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-Lettland sind selten; bei Substanzfragen einschlaegig sind die allgemeinen BFH-Entscheidungen zu § 50d Abs. 3 EStG.
-- Niedrigsteuer-Schwelle § 8 Abs. 5 AStG: 15 Prozent (eingefuehrt durch ATADUmsG vom 25.06.2021). Relevant bei lettischen Gesellschaften wegen Distribution-Tax-System (seit 2018, aehnlich Estland).
+- Niedrigsteuer-Schwelle § 8 Abs. 5 AStG: 15 Prozent (eingefuehrt durch ATADUmsG vom 25.06.2021). Relevant bei lettischen Gesellschaften wegen Distribution-Tax-System (seit 2018, ähnlich Estland).
 
 ## Land-spezifisches
 
@@ -50,13 +50,13 @@ Das DBA-Lettland vom 21.02.1997 (BGBl. 1997 II S. 1382) regelt das Verhaeltnis z
 ### Quellensteuer
 - **Dividenden**: hoechstens 15 Prozent des Bruttobetrags nach DBA-Lettland.
 - **Zinsen**: hoechstens 10 Prozent des Bruttobetrags nach DBA-Lettland.
-- Konkrete Saetze und Schachtelbedingungen aus dem DBA-Text pruefen; EU-MTRL (§ 43b EStG) und ZinsLizenzRL (§ 50g EStG) gehen vor.
+- Konkrete Saetze und Schachtelbedingungen aus dem DBA-Text prüfen; EU-MTRL (§ 43b EStG) und ZinsLizenzRL (§ 50g EStG) gehen vor.
 
 ### Vermeidungs-Methode
 - Anrechnung ueberwiegend.
 
 ### Besonderheiten
-- Wie Estland: bei Distribution-Tax-System CFC pruefen — **lettisches KSt-System seit 2018 ebenfalls Distribution-Tax aehnlich Estland**.
+- Wie Estland: bei Distribution-Tax-System CFC prüfen — **lettisches KSt-System seit 2018 ebenfalls Distribution-Tax ähnlich Estland**.
 
 ## Workflow
 
@@ -68,11 +68,11 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 4. Vermeidungsmethode — Anrechnung ueberwiegend.
 5. Innerstaatliche Umsetzung — § 34c EStG; § 7 ff. AStG / Pillar Two wegen Distribution-Tax-System; § 50d Abs. 3 EStG bei Holding-Substanz.
 
-BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbescheinigung des lettischen Valsts ieņēmumu dienests (VID) als Anlage.
+BZSt-Verfahren: Freistellung/Erstattung § 50c EStG über BOP; Ansaessigkeitsbescheinigung des lettischen Valsts ieņēmumu dienests (VID) als Anlage.
 
 ## Strategie und Praxis-Tipps
 
-- Lettisches Distribution-Tax-System seit 2018: CFC pruefen.
+- Lettisches Distribution-Tax-System seit 2018: CFC prüfen.
 - Holding-Substanz § 50d Abs. 3 EStG.
 - EU-MTRL bei Schachtel vorrangig.
 - Pillar Two-Mindeststeuer.
@@ -81,15 +81,15 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 - **Erstattungsverfahren LV → DE-Mandant**: Antrag bei VID (Valsts ieņēmumu dienests, Staatliche Finanzverwaltung); Online-Portal "EDS" (Elektroniskās deklarēšanas sistēma, vom Anwender mit aktuellem Stand zu verifizieren). Ansaessigkeitsbescheinigung der VID als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Lettisch. Englische Arbeitsfassungen kursieren — nicht authentisch.
-- **Lokaler Berater**: Bei lettischer SIA (Sabiedrība ar ierobežotu atbildību, GmbH-Aequivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines lettischen "nodokļu konsultants" wegen Distribution-Tax-System (seit 2018 nach estnischem Vorbild) und spezifischer Pruefungspraxis.
+- **Lokaler Berater**: Bei lettischer SIA (Sabiedrība ar ierobežotu atbildību, GmbH-Äquivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines lettischen "nodokļu konsultants" wegen Distribution-Tax-System (seit 2018 nach estnischem Vorbild) und spezifischer Pruefungspraxis.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (LV seit 2004).
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
-- **Lettisches Distribution Tax seit 2018**: Wie Estland — Besteuerung nur bei Ausschuettung. Effektive Steuer 20/80 (= 20 Prozent vom Bruttogewinn) auf Ausschuettung — vom Anwender mit aktuellem LV-Steuerrecht zu verifizieren. CFC § 7 ff. AStG pruefen wegen niedriger effektiver Belastung bei Einbehaltung.
+- **Lettisches Distribution Tax seit 2018**: Wie Estland — Besteuerung nur bei Ausschuettung. Effektive Steuer 20/80 (= 20 Prozent vom Bruttogewinn) auf Ausschuettung — vom Anwender mit aktuellem LV-Steuerrecht zu verifizieren. CFC § 7 ff. AStG prüfen wegen niedriger effektiver Belastung bei Einbehaltung.
 - **AStG-Niedrigsteuer-Schwelle 15 Prozent**: bei lettischer SIA mit ueberwiegend einbehaltenen Gewinnen effektive Steuerquote nahe 0 — CFC obligatorisch.
-- **Pillar Two seit 2024**: LV hat umgesetzt — Top-Up auf 15 Prozent für Konzerne ueber 750 Mio EUR Umsatz.
-- **Logistik Hafen Riga und Ventspils**: bei Logistik-/Transport-Aktivitaeten BS-Pruefung — oft kommunale lettische Lizenzpflichten.
+- **Pillar Two seit 2024**: LV hat umgesetzt — Top-Up auf 15 Prozent für Konzerne über 750 Mio EUR Umsatz.
+- **Logistik Hafen Riga und Ventspils**: bei Logistik-/Transport-Aktivitaeten BS-Prüfung — oft kommunale lettische Lizenzpflichten.
 - **MLI**: vom Anwender mit BMF-Verzeichnis zu verifizieren.
 - **§ 50d Abs. 3 EStG**: LV-Holdings ohne Substanz versagen Treaty-Schutz.
 
@@ -106,19 +106,19 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 DE-Mutter haelt 100 Prozent an lettischer SIA, die ihre Gewinne ueberwiegend einbehaelt; Gewinn 200.000 EUR jaehrlich, keine Ausschuettung in 2025.
 
 - LV-KSt: 0 EUR (Distribution Tax — nur bei Ausschuettung).
-- CFC-Pruefung § 7 ff. AStG (DE-Mutter ist Kapitalgesellschaft, daher § 8 AStG): Voraussetzung Niedrigsteuer (unter 15 Prozent) und passive Einkuenfte (Aktivitaetskatalog § 8 Abs. 1 AStG).
+- CFC-Prüfung § 7 ff. AStG (DE-Mutter ist Kapitalgesellschaft, daher § 8 AStG): Voraussetzung Niedrigsteuer (unter 15 Prozent) und passive Einkuenfte (Aktivitaetskatalog § 8 Abs. 1 AStG).
 - Wenn passive Einkuenfte (Zinsen, Lizenzen) und Niedrigsteuer (0 Prozent effektiv): Hinzurechnungsbetrag 200.000 EUR beim DE-Anteilseigner, mit DE-KSt+SolZ rund 15,825 Prozent = 31.650 EUR plus GewSt rund 14 Prozent = 28.000 EUR. Gesamt DE rund 59.650 EUR.
-- Bei aktivem Geschaeft (z.B. Logistik): keine CFC-Hinzurechnung; Steueraufschub bis zur Ausschuettung.
+- Bei aktivem Geschäft (z.B. Logistik): keine CFC-Hinzurechnung; Steueraufschub bis zur Ausschuettung.
 
 Bei Ausschuettung 2026 (Beispiel): LV-Distribution-Tax 20/80 = 50.000 EUR; an DE-Mutter 150.000 EUR netto; DE § 8b KStG 95 Prozent steuerfrei.
 
 ## Mandatsablauf in der Praxis
 
 1. **Aufnahme**: Konstellation (Mittelstand, IT, Logistik Riga, SIA-Holding).
-2. **Strukturierung**: Distribution-Tax-System pruefen — Einbehaltung vs. Ausschuettung; bei Holding Substanz § 50d Abs. 3 EStG.
+2. **Strukturierung**: Distribution-Tax-System prüfen — Einbehaltung vs. Ausschuettung; bei Holding Substanz § 50d Abs. 3 EStG.
 3. **Antraege**: Ansaessigkeitsbescheinigung VID; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: LV-Erklaerung jaehrlich; DE-Erklaerung mit ggf. CFC-Hinzurechnung.
-5. **Audit-Vorbereitung**: bei LV-Pruefung Verrechnungspreis-Dokumentation; bei DE-FA-Pruefung CFC-Berechnung und Substanznachweis.
+5. **Audit-Vorbereitung**: bei LV-Prüfung Verrechnungspreis-Dokumentation; bei DE-FA-Prüfung CFC-Berechnung und Substanznachweis.
 
 ## Ausgabeformat für Mandanten-Memo Lettland
 
@@ -144,6 +144,6 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Lett
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Lettland 21.02.1997, BGBl. 1997 II S. 1382, in Kraft 24.12.1997. Dividenden max. 15%, Zinsen max. 10% (gem. BZST-Tabelle 2025). MLI-Status: aktuellen BMF-DBA-Stand pruefen.
+Stand: 05/2026. DBA-Lettland 21.02.1997, BGBl. 1997 II S. 1382, in Kraft 24.12.1997. Dividenden max. 15%, Zinsen max. 10% (gem. BZST-Tabelle 2025). MLI-Status: aktuellen BMF-DBA-Stand prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: BGBl. 1997 II S. 1382 bestaetigt (BMF-Webseite); Quellensteuer 15%/10% bestaetigt (BZST-Tabelle 2025); MLI allgemein gefasst (kein gesicherter Nachweis als gedecktes Abkommen); Niedrigsteuerschwelle 15% bestaetigt (ATADUmsG); Quellen-Marker gestrichen -->

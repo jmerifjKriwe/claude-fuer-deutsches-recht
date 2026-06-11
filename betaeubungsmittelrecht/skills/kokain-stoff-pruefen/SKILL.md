@@ -3,7 +3,7 @@ name: kokain-stoff-pruefen
 description: "Kokain: Stoff prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Kokain Stoff Pruefen
+# Kokain Stoff Prüfen
 
 ## Arbeitsweg
 

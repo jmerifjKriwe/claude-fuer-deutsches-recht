@@ -7,7 +7,7 @@ description: "Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Voraussetzu
 
 ## Worum geht es?
 
-Wenn Sie **ohne eigenes Verschulden** eine prozessuale Frist versaeumt haben (z. B. Klageerwiderungs-Frist, Einspruchsfrist, Berufungsfrist), koennen Sie **Wiedereinsetzung in den vorigen Stand** beantragen (§ 233 ZPO). Wenn der Antrag erfolgreich ist, wird die versaeumte Handlung nachgeholt. Diese Skill zeigt das Vorgehen.
+Wenn Sie **ohne eigenes Verschulden** eine prozessuale Frist versaeumt haben (z. B. Klageerwiderungs-Frist, Einspruchsfrist, Berufungsfrist), können Sie **Wiedereinsetzung in den vorigen Stand** beantragen (§ 233 ZPO). Wenn der Antrag erfolgreich ist, wird die versaeumte Handlung nachgeholt. Diese Skill zeigt das Vorgehen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -31,7 +31,7 @@ Wenn Sie **ohne eigenes Verschulden** eine prozessuale Frist versaeumt haben (z.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Wiedereinsetzungs-faehig
+### Schritt 1 — Prüfen, ob Wiedereinsetzungs-faehig
 
 Voraussetzungen:
 
@@ -124,11 +124,11 @@ Beispiele:
 
 ### Schritt 6 — Verfahren
 
-Gericht prueft auf Grundlage des Antrags. Wenn unklar: Stellungnahme der Gegenseite oder muendliche Verhandlung.
+Gericht prüft auf Grundlage des Antrags. Wenn unklar: Stellungnahme der Gegenseite oder muendliche Verhandlung.
 
 Bei Erfolg: Frist gilt als gewahrt; Verfahren laeuft mit der nachgeholten Handlung.
 
-Bei Misserfolg: Antrag wird durch Beschluss zurueckgewiesen. Beschwerde gegen Beschluss moeglich (§ 567 ZPO).
+Bei Misserfolg: Antrag wird durch Beschluss zurueckgewiesen. Beschwerde gegen Beschluss möglich (§ 567 ZPO).
 
 ### Schritt 7 — Erfolgsaussichten realistisch einschaetzen
 
@@ -140,9 +140,9 @@ BGH ist streng — Eigenverantwortung wird hoch angesetzt. Skill `zurechnungspro
 
 ### Schritt 8 — Parallelweg: Andere Rechtsmittel
 
-Wenn Wiedereinsetzung wenig Aussicht hat, pruefen Sie alternative Wege (Vollstreckungs-Aussetzungs-Antrag, Vergleich mit Gegenseite, etc.).
+Wenn Wiedereinsetzung wenig Aussicht hat, prüfen Sie alternative Wege (Vollstreckungs-Aussetzungs-Antrag, Vergleich mit Gegenseite, etc.).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **2-Wochen-Frist** ab Hindernis-Wegfall.
 - **Glaubhaftmachung** mit konkretem Beleg.
@@ -152,7 +152,7 @@ Wenn Wiedereinsetzung wenig Aussicht hat, pruefen Sie alternative Wege (Vollstre
 ## Typische Fehler
 
 - "Ich beantrage Wiedereinsetzung wegen Vergesslichkeit." → Kein "ohne Verschulden".
-- "Ich beantrage Wiedereinsetzung Monate spaeter." → 2-Wochen-Frist versaeumt.
+- "Ich beantrage Wiedereinsetzung Monate später." → 2-Wochen-Frist versaeumt.
 - "Ich verges, die versaeumte Handlung nachzuholen." → Antrag ohne Nachholung unwirksam.
 
 ## Quellen und Aktualitaet

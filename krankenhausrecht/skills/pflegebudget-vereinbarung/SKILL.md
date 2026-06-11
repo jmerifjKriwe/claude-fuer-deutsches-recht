@@ -49,7 +49,7 @@ Das Pflegebudget ist seit 2020 aus den DRG ausgegliedert (frueher § 6a KHEntgG,
 
 | Forderung | Argument | Risiko |
 |---|---|---|
-| Tarifsteigerung voll geltend machen | Tarifvertrag, Personalentwicklung | Kassen pruefen Plausibilitaet |
+| Tarifsteigerung voll geltend machen | Tarifvertrag, Personalentwicklung | Kassen prüfen Plausibilitaet |
 | Aufstockung Pflegepersonal | Versorgungsqualitaet | Plausibilitaet, Strukturpruefung |
 | Bereinigung um OP-Pflege | KHEntgG-Vorgabe | Auslegungsstreit |
 | Schiedsstelle anrufen | objektive Drittentscheidung | Verfahrenskosten |
@@ -58,12 +58,12 @@ Das Pflegebudget ist seit 2020 aus den DRG ausgegliedert (frueher § 6a KHEntgG,
 - Pflegebudget wird tarifbedingt jaehrlich angepasst — TVoeD-/AVR-Tariferhoehung Pflicht-Input.
 - InEK-Datenlieferung zur Pflegepersonalkostenmeldung Quartalsweise — Fristen wahren.
 - PpUGV-Quoten und Pflegebudget sind verbunden: Untergrenz-Verletzung gefaehrdet Budget.
-- PPR 2.0 wird Personalbemessung ueber Versorgungskategorien (A, S, T) konkretisieren — Live-Check g-ba.de.
+- PPR 2.0 wird Personalbemessung über Versorgungskategorien (A, S, T) konkretisieren — Live-Check g-ba.de.
 - Ausgliederung OP-Pflege ist Streitpunkt; § 17 KHEntgG konkretisiert.
 
 ## Mustertexte
 **PpUKN-Begruendung:**
-> Anlage: Pflegepersonalkostennachweis 2026. Berechnung: Vollkraftaequivalente x Tarifsatz x Bereinigungsfaktor (OP/Funktionsdienste ausgegliedert). Tarifsteigerung TVoeD: …. Aufstockung gemaess Personalplanung: …. Gesamtsumme: …
+> Anlage: Pflegepersonalkostennachweis 2026. Berechnung: Vollkraftaequivalente x Tarifsatz x Bereinigungsfaktor (OP/Funktionsdienste ausgegliedert). Tarifsteigerung TVoeD: …. Aufstockung gemäß Personalplanung: …. Gesamtsumme: …
 
 **Schiedsantrag Pflegebudget:**
 > Wir beantragen Festsetzung des Pflegebudgets 2026 auf [EUR]. Pflegeentgeltwert: [EUR] / Pflegetag. Begruendung: PpUKN, Tarifsteigerung, Personalentwicklung. Anlagen: PpUKN, Tarifvertrag, InEK-Meldung.

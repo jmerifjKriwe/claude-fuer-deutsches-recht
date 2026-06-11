@@ -3,7 +3,7 @@ name: strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis
 description: "Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird: Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung we..."
 ---
 
-# Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird
+# Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen tätig wird
 
 
 ## Arbeitsbereich
@@ -18,7 +18,7 @@ description: "Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsf
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird. Pruefraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete öffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo für Vergabe Mischverwaltung Public-Private-Partnership.
+**Fokus:** Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen tätig wird. Pruefraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete öffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo für Vergabe Mischverwaltung Public-Private-Partnership.
 
 ### Sektorenwechsel und wirtschaftliche Bestechung bei Amtsverhaeltnis
 
@@ -37,8 +37,8 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 ## Eingaben
 
 - Anklageschrift, Organigramm der Beteiligten Strukturen.
-- Vertraege Vergabe / Beratung / Anstellung.
-- Funktion Mandant (Amtstraegerstatus § 11 StGB pruefen).
+- Verträge Vergabe / Beratung / Anstellung.
+- Funktion Mandant (Amtstraegerstatus § 11 StGB prüfen).
 - Geldfluesse, ggf. Mittelsmaenner.
 - Compliance-Strukturen Geberunternehmen.
 
@@ -48,10 +48,10 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 - **§ 11 Abs. 1 Nr. 2 StGB Amtstraeger:**
  - lit. a Beamter / Richter.
- - lit. b sonstige Person in oeffentlich-rechtlichem Amtsverhaeltnis.
+ - lit. b sonstige Person in öffentlich-rechtlichem Amtsverhaeltnis.
  - lit. c Person, die sonst dazu bestellt ist, bei einer Behörde oder bei einer sonstigen Stelle oder in deren Auftrag **Aufgaben der öffentlichen Verwaltung** wahrzunehmen.
 - **§ 11 Abs. 1 Nr. 4 StGB Soldat.**
-- **Beauftragter öffentlicher Aufgaben.** TUEV-Pruefer (Verkehrssicherheit), Bezirksschornsteinfeger; BGH staendige Rspr. — Aktenzeichen vor Verwendung verifizieren.
+- **Beauftragter öffentlicher Aufgaben.** TUEV-Prüfer (Verkehrssicherheit), Bezirksschornsteinfeger; BGH staendige Rspr. — Aktenzeichen vor Verwendung verifizieren.
 - **GmbH-Geschaeftsfuehrer der öffentlichen Hand.** Pruefkriterien BGH: Funktionsgehalt, kommunale Aufgabenerfuellung, Mitfinanzierung. Bei Daseinsvorsorge (Wasser, Stadtwerke, Abfall) eher Amtstraeger; bei rein wirtschaftlicher Taetigkeit eher nicht.
 
 ### Schritt 2: Privater Sektor § 299 StGB?
@@ -70,7 +70,7 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 - **§§ 332/334 vorrangig** vor §§ 331/333 (Spezialitaet bei Pflichtwidrigkeit).
 - **§§ 331 bis 334 StGB vorrangig** vor § 299 StGB bei Amtstraegerbezug.
-- **Bei Doppelfunktion:** Pruefen ob Tat in Funktion Amtstraeger oder Beauftragter privates Unternehmen erfolgte.
+- **Bei Doppelfunktion:** Prüfen ob Tat in Funktion Amtstraeger oder Beauftragter privates Unternehmen erfolgte.
 
 ## Praktikertipps Verteidigung
 
@@ -105,7 +105,7 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 ## Strafzumessung und Folgen
 
 - **Strafrahmen:** Je nach Sektor unterschiedlich (siehe einzelne Skills).
-- **§ 46 StGB** Hoehe Vorteil, Schaden, Tatdauer, Compliance, Wiedergutmachung.
+- **§ 46 StGB** Höhe Vorteil, Schaden, Tatdauer, Compliance, Wiedergutmachung.
 - **Einziehung § 73 StGB** Vorteilsgegenstand plus durch Diensthandlung erlangter Vermoegensvorteil.
 - **Berufsverbot § 70 StGB / Dienstentfernung § 13 BDG** bei Amtstraegern.
 - **Wettbewerbsregister § 124 GWB** Vergabeausschluss.
@@ -117,7 +117,7 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 ### Sektorzuordnung Verteidigung
 
-"Der Mandant war zur Tatzeit als Geschaeftsfuehrer der [Kommunale GmbH] taetig. Eine Amtstraegereigenschaft im Sinne des § 11 Abs. 1 Nr. 2 lit. c StGB wird bestritten. Die GmbH erfuellte zur Tatzeit ueberwiegend wirtschaftliche Aufgaben (Messewesen, Standortmarketing), nicht jedoch Aufgaben der öffentlichen Verwaltung im engeren Sinne. Eine Behandlung nach §§ 332 / 334 StGB scheidet damit aus; allenfalls greift § 299 StGB."
+"Der Mandant war zur Tatzeit als Geschaeftsfuehrer der [Kommunale GmbH] tätig. Eine Amtstraegereigenschaft im Sinne des § 11 Abs. 1 Nr. 2 lit. c StGB wird bestritten. Die GmbH erfuellte zur Tatzeit ueberwiegend wirtschaftliche Aufgaben (Messewesen, Standortmarketing), nicht jedoch Aufgaben der öffentlichen Verwaltung im engeren Sinne. Eine Behandlung nach §§ 332 / 334 StGB scheidet damit aus; allenfalls greift § 299 StGB."
 
 ### Beziehungs- versus Tatleistung
 

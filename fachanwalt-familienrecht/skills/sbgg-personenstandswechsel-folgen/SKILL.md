@@ -196,12 +196,12 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — SBGG-Personenstandswechsel und Familienrechtsfolgen begleiten | Fuenfphasiger Workflow; Schriftsatzbausteine unten |
-| Variante A — nur Personenstandswechsel ohne Familienrechtsfolgen | Phasen 1-4 genuegen; Phase 5 entfaellt |
+| Variante A — nur Personenstandswechsel ohne Familienrechtsfolgen | Phasen 1-4 genügen; Phase 5 entfaellt |
 | Variante B — Sorgerechtskonflikt nach Wechsel | Phase 5 Schwerpunkt; Vermittlungsverfahren einleiten |
 | Variante C — steuerliche Folgen vorrangig | Steuerberatung parallel einbeziehen; Familienrechtsbaustein koordinieren |
 
@@ -292,7 +292,7 @@ auf die Sorge- und Umgangsrechte. Wir bitten um Anberaumung
 eines Vermittlungstermins innerhalb eines Monats.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

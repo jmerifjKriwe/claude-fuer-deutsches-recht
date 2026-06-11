@@ -19,8 +19,8 @@ Zulässigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. Sanktionskatalog 
 
 ## Triage zu Beginn
 
-1. **Ist das vorgeworfene Delikt ein Vergehen?** — Strafbefehl ist nur bei Vergehen zulaessig (§ 407 Abs. 1 Satz 1 StPO); Verbrechen (§ 12 Abs. 1 StGB, Mindeststrafe 1 Jahr) schliessen Strafbefehl aus.
-2. **Ueberschreitet die vorgeschlagene Sanktion den Rahmen des § 407 Abs. 2 StPO?** — Nur bestimmte Sanktionen zulaessig; Freiheitsstrafe nur mit Bewaehrung und nur bis 1 Jahr.
+1. **Ist das vorgeworfene Delikt ein Vergehen?** — Strafbefehl ist nur bei Vergehen zulässig (§ 407 Abs. 1 Satz 1 StPO); Verbrechen (§ 12 Abs. 1 StGB, Mindeststrafe 1 Jahr) schliessen Strafbefehl aus.
+2. **Ueberschreitet die vorgeschlagene Sanktion den Rahmen des § 407 Abs. 2 StPO?** — Nur bestimmte Sanktionen zulässig; Freiheitsstrafe nur mit Bewaehrung und nur bis 1 Jahr.
 3. **Ist der Richter sachlich zuständig?** — Strafbefehl kann nur Strafrichter des Amtsgerichts erlassen (§ 407 Abs. 1 Satz 1 StPO); Schoeffengericht und LG sind unzuständig.
 4. **Liegt keine Untersuchungshaft vor?** — Bestehende U-Haft schliesst Strafbefehlsverfahren aus; § 407 gilt nur wenn der Beschuldigte auf freiem Fuss ist.
 5. **Keine Hauptverhandlungs-Notwendigkeit?** — Komplexe Beweisfragen, viele Zeugen, Sachverstaendige — wenn HV unabdingbar ist, soll Richter ablehnen (§ 408 Abs. 3 StPO).
@@ -39,7 +39,7 @@ Zulässigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. Sanktionskatalog 
 | Berufsverbot | § 70 StGB |
 | Absehen von Strafe | § 60 StGB |
 
-**NICHT zulaessig im Strafbefehl:** Sicherungsverwahrung, Unterbringung in Entziehungsanstalt, Freiheitsstrafe ohne Bewaehrung.
+**NICHT zulässig im Strafbefehl:** Sicherungsverwahrung, Unterbringung in Entziehungsanstalt, Freiheitsstrafe ohne Bewaehrung.
 
 ## Zentrale Normen
 
@@ -49,12 +49,12 @@ Zulässigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. Sanktionskatalog 
 - **§ 408 Abs. 2 StPO** — Ablehnung bei Bedenken gegen Sanktionsangemessenheit
 - **§ 408 Abs. 3 StPO** — Ablehnung wenn Hauptverhandlung notwendig erscheint
 - **§ 12 StGB** — Abgrenzung Verbrechen / Vergehen
-- **§ 407 Abs. 1 Satz 4 StPO** — Beschuldigter muss gehoert werden koennen; keine U-Haft
+- **§ 407 Abs. 1 Satz 4 StPO** — Beschuldigter muss gehoert werden können; keine U-Haft
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Bei Cannabisvorwurf ist die sanktionsfreie Eigenkonsummenge tatbestandlich auszuklammern — Strafbefehl in der Variante "Verbrechen oder Vergehen" nach KCanG nur bei Ueberschreiten der sanktionsfreien Grenzen zulaessig; im Uebrigen § 170 Abs. 2 StPO. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
-- Verfassungsrechtliche Maßstaebe an die Bestimmtheit der Anklage nach Art. 103 Abs. 2 GG gelten auch für den Strafbefehl (§ 409 StPO); vgl. BVerfG-Linie 2 BvR. Aktualisierungen vor Ausgabe in dejure.org / bverfg.de pruefen.
+- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Bei Cannabisvorwurf ist die sanktionsfreie Eigenkonsummenge tatbestandlich auszuklammern — Strafbefehl in der Variante "Verbrechen oder Vergehen" nach KCanG nur bei Ueberschreiten der sanktionsfreien Grenzen zulässig; im Uebrigen § 170 Abs. 2 StPO. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- Verfassungsrechtliche Maßstaebe an die Bestimmtheit der Anklage nach Art. 103 Abs. 2 GG gelten auch für den Strafbefehl (§ 409 StPO); vgl. BVerfG-Linie 2 BvR. Aktualisierungen vor Ausgabe in dejure.org / bverfg.de prüfen.
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Zulaessigkeit nach § 407 StPO ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 407 StPO Zulaessigkeit" durchführen.
 
 ## Pruef-Checkliste Zulaessigkeit

@@ -50,7 +50,7 @@ description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht 
 | § 12 VOB/B | Förmliche Abnahme — gemeinsame Begehung, Niederschrift mit Vorbehalten |
 | § 13 Abs. 4 VOB/B | Verjährung — 4 Jahre für Bauwerk (Standard); 2 Jahre maschinelle und elektrische Anlagen |
 
-## Leitentscheidungen (Stand 05/2026, soweit verifizierbar — vor Ausgabe pruefen)
+## Leitentscheidungen (Stand 05/2026, soweit verifizierbar — vor Ausgabe prüfen)
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---------|-------------|-------|-------------|--------|
@@ -60,7 +60,7 @@ description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht 
 | EuGH | C-377/17 | 04.07.2019 | HOAI-Mindestsaetze unionsrechtswidrig (Dienstleistungs-RL) | curia.europa.eu/juris/document/document.jsf?docid=215724 |
 | EuGH | C-261/20 | 18.01.2022 | Thelen Technopark — keine unmittelbare horizontale Wirkung der RL gegenueber Privaten | curia.europa.eu/juris/document/document.jsf?docid=252035 |
 
-Weitere konkrete Entscheidungen (insb. VII ZR 26/20 zum Vorschussanspruch ohne sichere Beseitigungsabsicht) vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit Datum und Aktenzeichen verifizieren.
+Weitere konkrete Entscheidungen (insb. VII ZR 26/20 zum Vorschussanspruch ohne sichere Beseitigungsabsicht) vor Ausgabe über dejure.org / bundesgerichtshof.de mit Datum und Aktenzeichen verifizieren.
 
 ## Prüfschema — Stufenweise Anspruchsprüfung
 
@@ -247,11 +247,11 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Werkmangel nach VOB/B und BGB stufenweise pruefen | Neunstufiges Pruefschema; Schriftsatzbausteine unten |
+| Standard — Werkmangel nach VOB/B und BGB stufenweise prüfen | Neunstufiges Pruefschema; Schriftsatzbausteine unten |
 | Variante A — kein VOB/B-Vertrag (reines BGB) | Schritte 1-2 verkuerzen; ab Schritt 3 voll durchpruefen |
 | Variante B — Verjährung laeuft ab | Hemmung durch Verhandlung oder Klage unverzueglich; § 203 BGB |
 | Variante C — Architekt als Gesamtschuldner | Doppelklage AN und Architekt; Gesamtschuldner-Ausgleich beachten |
@@ -309,7 +309,7 @@ Die voraussichtlichen Kosten der Selbstvornahme belaufen sich
 auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

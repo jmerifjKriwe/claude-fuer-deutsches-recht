@@ -37,7 +37,7 @@ description: "Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüf
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
 
-## Triage vor Pruefung
+## Triage vor Prüfung
 
 Bevor losgelegt wird, klaere:
 1. Handelt es sich um eine EU-Verordnung (unmittelbar anwendbar), eine Richtlinie (Umsetzung erforderlich) oder einen Beschluss?

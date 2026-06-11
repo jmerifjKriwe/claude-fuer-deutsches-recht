@@ -20,7 +20,7 @@ description: "Markenrechtslizenzen nach MarkenG $ 30: Qualitaetskontrolle, Bezei
 | Typ | Definition |
 |---|---|
 | ausschliessliche Lizenz | nur Lizenznehmer + Lizenzgeber selbst; kann weiter beschraenkt sein |
-| einfache Lizenz | weitere Lizenzen moeglich |
+| einfache Lizenz | weitere Lizenzen möglich |
 | raeumlich beschraenkt | EU-Mitgliedstaat / Region |
 | sachlich beschraenkt | Waren-/Dienstleistungsklassen (Nizzaer Klassifikation) |
 | zeitlich beschraenkt | konkrete Laufzeit |
@@ -46,7 +46,7 @@ Anders als Patent/Urheberrecht ist die **Qualitaetskontrolle** bei Markenlizenz 
 ## Klausel-Bausteine (DE)
 
 **1. Lizenzgegenstand Marke:**
-> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Recht ein, die in **Anlage A** aufgefuehrte(n) Marke(n) ("Lizenzmarken") fuer die in **Anlage B** definierten Waren und Dienstleistungen im Sinne der Nizzaer Klassifikation in [Territorium] zu nutzen."
+> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Recht ein, die in **Anlage A** aufgefuehrte(n) Marke(n) ("Lizenzmarken") für die in **Anlage B** definierten Waren und Dienstleistungen im Sinne der Nizzaer Klassifikation in [Territorium] zu nutzen."
 
 **2. Qualitaetskontrolle:**
 > "Der Lizenznehmer verpflichtet sich, die Lizenzmarken nur in einer Qualitaet zu nutzen, die der vom Lizenzgeber vorgegebenen Markenfuehrungsrichtlinie ("Brand Guideline") entspricht. Der Lizenzgeber hat ein Pruefrecht hinsichtlich Produktqualitaet, Verpackung und Werbeauftritt."
@@ -59,6 +59,6 @@ Anders als Patent/Urheberrecht ist die **Qualitaetskontrolle** bei Markenlizenz 
 
 ## Anschluss
 
-- Verguetung: `klausel-verguetung-pauschale-royalty-tiered`
+- Vergütung: `klausel-verguetung-pauschale-royalty-tiered`
 - Verbesserungen / Markenfortentwicklung: `klausel-verbesserungen-grant-back`
 - Eintragung Co-Branding: nur einzelfallweise sinnvoll

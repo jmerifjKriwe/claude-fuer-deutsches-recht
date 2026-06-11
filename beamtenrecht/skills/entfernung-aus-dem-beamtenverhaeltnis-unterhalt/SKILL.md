@@ -15,7 +15,7 @@ description: "Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Di
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beamte, denen die Entfernung aus dem Beamtenverhaeltnis droht oder verfuegt ist. Hilft bei der Pruefung der Unterhaltsbeitragsfrage und der Anschlussversorgung.
+Skill für Beamte, denen die Entfernung aus dem Beamtenverhaeltnis droht oder verfuegt ist. Hilft bei der Prüfung der Unterhaltsbeitragsfrage und der Anschlussversorgung.
 
 ## 2. Eingaben
 
@@ -35,11 +35,11 @@ Skill für Beamte, denen die Entfernung aus dem Beamtenverhaeltnis droht oder ve
 - Bemessung in Anlehnung an die zuletzt bezogenen Dienstbezuege.
 
 ### c) Krankenversicherung
-- Bei Entfernung erlischt regelmaessig die Beihilfeberechtigung. PKV-Versicherte muessen Tarif anpassen.
-- Anwartschaftsversicherung pruefen.
+- Bei Entfernung erlischt regelmaessig die Beihilfeberechtigung. PKV-Versicherte müssen Tarif anpassen.
+- Anwartschaftsversicherung prüfen.
 
 ### d) Verhaeltnis zur Ruhestandsversetzung
-- Bei laufender Erkrankung ist zu pruefen, ob alternativ Ruhestandsversetzung wegen Dienstunfaehigkeit moeglich ist; die Disziplinarklage wuerde dann grundsaetzlich zur Aberkennung des Ruhegehalts fuehren (anderer Tatbestand).
+- Bei laufender Erkrankung ist zu prüfen, ob alternativ Ruhestandsversetzung wegen Dienstunfaehigkeit möglich ist; die Disziplinarklage wuerde dann grundsätzlich zur Aberkennung des Ruhegehalts fuehren (anderer Tatbestand).
 
 ### e) Verfahren
 - Disziplinarverfuegung anfechten; Disziplinarklage abwehren.

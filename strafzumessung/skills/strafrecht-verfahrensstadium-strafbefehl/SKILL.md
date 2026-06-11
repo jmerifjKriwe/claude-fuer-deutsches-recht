@@ -37,14 +37,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **StA-Antrag Strafbefehl § 407 StPO:** StA setzt Strafmass vor.
  - **AG Strafrichter § 25 GVG:** bis 2 Jahre Freiheitsstrafe.
  - **AG Schoeffengericht § 28 GVG:** bis 4 Jahre.
- - **LG grosse Strafkammer § 76 GVG:** ueber 4 Jahre / Wirtschaft.
+ - **LG große Strafkammer § 76 GVG:** über 4 Jahre / Wirtschaft.
  - **LG Schwurgericht § 74 II GVG:** Toetungsdelikte.
 - **Strafzumessungs-relevante Fristen:**
  - **Verjährungsfristen** §§ 78-79b StGB:
  - 3 Jahre: Vergehen mit Strafrahmen bis 1 Jahr (§ 78 III Nr. 5 StGB).
  - 5 Jahre: 1-5 Jahre Strafrahmen.
  - 10 Jahre: 5-10 Jahre Strafrahmen.
- - 20 Jahre: ueber 10 Jahre Strafrahmen.
+ - 20 Jahre: über 10 Jahre Strafrahmen.
  - 30 Jahre: lebenslange Freiheitsstrafe.
  - Mord § 211 StGB: unverjaehrbar § 78 II StGB.
  - **§ 78c StGB Unterbrechung** durch z. B. Vernehmung Beschuldigter, Erhebung öffentliche Klage, Eroeffnungsbeschluss; **§ 78b StGB Ruhen** bei Verhinderung gesetzlicher Verfolgung.

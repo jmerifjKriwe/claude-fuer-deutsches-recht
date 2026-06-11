@@ -129,7 +129,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Normen
 
 - **§§ 8-10 HGB** — Handelsregister; Eintragungsrecht und -pflicht; Oeffentlichkeit des Registers
-- **§ 15 HGB** — negative Publizitaet; Dritte koennen auf den eingetragenen Inhalt vertrauen; nicht eingetragene Tatsachen koennen Dritten nicht entgegengehalten werden
+- **§ 15 HGB** — negative Publizitaet; Dritte können auf den eingetragenen Inhalt vertrauen; nicht eingetragene Tatsachen können Dritten nicht entgegengehalten werden
 - **§ 16 GmbHG** — Gesellschafterliste; eingetragener Gesellschafter gilt als legitimiert; gutglaeubiger Erwerb
 - **§ 325 HGB** — Offenlegungspflicht Jahresabschluss; Fristen; Ordnungsgeldbescheid (§ 335 HGB) bei Versaeum.
 - **§§ 18-20 GwG** — Transparenzregister; wirtschaftlich Berechtigter; UBO-Fiktionsfiktion (§ 20 II GwG) wenn Handelsregister-Eintragung
@@ -141,8 +141,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## HR-Ausdruck: Analysepunkte
 
-### Fuer GmbH (HRB)
-- **Gruendung:** Datum, Gruender, Stammkapital
+### Für GmbH (HRB)
+- **Gruendung:** Datum, Gründer, Stammkapital
 - **Satzung/Gesellschaftsvertrag:** Aktuelle Fassung; Aenderungschronologie
 - **Geschaeftsfuehrer:** Aktuelle und historische GF; Vertretungsbefugnis; § 181 BGB-Befreiung
 - **Stammkapital:** Nominal; Veraenderungen (Erhoehungen, Herabsetzungen)
@@ -150,12 +150,12 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Prokuristen / Vollmachten:** Erteilte und erloeschene Prokuren
 - **Satzungsaenderungen:** Chronologie; wesentliche Aenderungen
 
-### Fuer AG (HRB)
+### Für AG (HRB)
 - **Grundkapital:** Nominal; Aktienarten (Inhaber, Namenaktie, vinkuliert)
 - **Vorstand:** Aktuelle Mitglieder; Einzelvertretung vs. Gesamtvertretung
 - **Aufsichtsrat:** Mitglieder; Vorsitzender
 - **Hauptversammlung:** Zuletzt genehmigte KE; Genehm. Kapital; Genehmigungen
-- **Bekanntmachungen:** Kapitalerhoehungen; Satzungsaenderungen; HV-Beschluesse
+- **Bekanntmachungen:** Kapitalerhoehungen; Satzungsaenderungen; HV-Beschlüsse
 
 ### Red Flags im HR-Ausdruck
 
@@ -171,8 +171,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. **Vollstaendigen HR-Auszug abrufen** — elektronisch via www.handelsregister.de oder beA; Kosten ca. EUR 4.50
 2. **Chronologischen Ausdruck anfordern** — alle historischen Eintragungen (nicht nur aktuell)
-3. **Gesellschafterliste pruefen** — aktuell? Widersprueche mit Transaktionsunterlagen?
-4. **Transparenzregister abfragen** — UBO identifizieren; Fiktionswirkung pruefen (§ 20 II GwG)
+3. **Gesellschafterliste prüfen** — aktuell? Widersprueche mit Transaktionsunterlagen?
+4. **Transparenzregister abfragen** — UBO identifizieren; Fiktionswirkung prüfen (§ 20 II GwG)
 5. **Bundesanzeiger-Recherche** — Jahresabschluesse; Kapitalmarktmitteilungen; Insolvenzen
 6. **Prokuren-Check** — wer ist handlungsbevollmaechtig; relevant für Vertragsunterschriften
 7. **Red Flags dokumentieren** — strukturierter Kommentar mit Handlungsempfehlungen

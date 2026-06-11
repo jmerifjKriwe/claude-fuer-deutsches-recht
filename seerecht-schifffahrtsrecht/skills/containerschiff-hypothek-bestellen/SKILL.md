@@ -21,10 +21,10 @@ Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft
 Eine Bank bestellt eine Hypothek auf ein Containerlinienfrachtschiff als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Containerlinienfrachtschiff als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
 
 ## Erste Schritte
-1. Eintragungsfaehigkeit des Containerlinienfrachtschiffs pruefen; Eintragung im Seeschiffsregister oder Auslandsregister unter Bare-Boat bestaetigen.
+1. Eintragungsfaehigkeit des Containerlinienfrachtschiffs prüfen; Eintragung im Seeschiffsregister oder Auslandsregister unter Bare-Boat bestaetigen.
 2. Sicherungsabrede aufsetzen: gesicherte Forderungen, Kuendigungsrechte, Cross-Default.
 3. Notarielle Hypothekenbestellungsurkunde nach SchRG §§ 8-18 erstellen.
-4. Vertretungsbefugnis des Eigentuemers pruefen; ggf. Handelsregisterauszug.
+4. Vertretungsbefugnis des Eigentuemers prüfen; ggf. Handelsregisterauszug.
 5. Eintragungsantrag beim {reg_type}-Gericht stellen; Rangstelle fruehzeitig reservieren.
 6. Eintragungsbestaetigung und ggf. Hypothekenbrief sichern; Sicherungsvertrag archivieren.
 

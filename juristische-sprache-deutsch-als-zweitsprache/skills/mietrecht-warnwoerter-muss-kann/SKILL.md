@@ -18,14 +18,14 @@ description: "Hilft bei Mietrecht Warnwoerter für Menschen mit Deutsch als Zwei
 - **Raeumungsvereinbarung / Raeumungsvergleich**: Mieter verpflichtet sich zu Auszug bis Datum X; ohne Auszug Zwangsvollstreckung sofort.
 - **Anerkenntnis** der Mietrueckstaende: erleichtert dem Vermieter Klage und Vollstreckung.
 - **Verzicht auf Kuendigungsschutz**: kann nichtig sein, aber besser nicht unterschreiben.
-- **Mieterhoehungsverlangen "Zustimmung":** § 558 BGB; Zustimmung nicht ueberhastet erteilen, Vergleichsmiete pruefen.
-- **Schoenheitsreparaturen "renoviert uebergeben"**: BGH hat starre Quotenklauseln und Renovierungspflichten bei unrenoviert uebergebener Wohnung mehrfach für unwirksam erklaert -- vor Unterschrift pruefen.
-- **Kuendigung wegen Eigenbedarf (§ 573 II Nr. 2 BGB)**: Frist je nach Mietdauer 3, 6, 9 Monate (§ 573c BGB); Widerspruch unter Haertegruenden (§ 574 BGB) moeglich.
+- **Mieterhoehungsverlangen "Zustimmung":** § 558 BGB; Zustimmung nicht ueberhastet erteilen, Vergleichsmiete prüfen.
+- **Schoenheitsreparaturen "renoviert uebergeben"**: BGH hat starre Quotenklauseln und Renovierungspflichten bei unrenoviert uebergebener Wohnung mehrfach für unwirksam erklaert -- vor Unterschrift prüfen.
+- **Kuendigung wegen Eigenbedarf (§ 573 II Nr. 2 BGB)**: Frist je nach Mietdauer 3, 6, 9 Monate (§ 573c BGB); Widerspruch unter Haertegruenden (§ 574 BGB) möglich.
 - **Wohngeld-Ausschluss**: Wohngeldantrag wird verweigert, wenn Bescheid noch nicht ergangen -- Frist 1 Monat für Widerspruch (§ 70 VwGO).
 
 ## Vor jeder Unterschrift fragen
 - Verzichte ich auf gesetzlichen Schutz?
-- Anerkenne ich eine Schuld, die ich nicht pruefen konnte?
+- Anerkenne ich eine Schuld, die ich nicht prüfen konnte?
 - Habe ich eine Frist (z. B. 3 Monate Eigenbedarf-Widerspruch nach § 574b BGB)?
 
 ## Start

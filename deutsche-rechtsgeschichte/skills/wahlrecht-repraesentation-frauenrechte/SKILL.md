@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemei
 
 ## Worum es geht
 
-Das Wahlrecht in Deutschland hat tiefgreifende Wandlungen erfahren. Die Reichsverfassung 1871 (Art. 20) gab allen deutschen Maennern ueber 25 das gleiche, direkte und geheime Wahlrecht zum Reichstag (ohne Frauenwahlrecht). Die WRV 1919 fuegte das Frauenwahlrecht (Art. 22) hinzu und schuf ein reines Verhaeltniswahlrecht, was zur Parteienzersplitterung beitrug. Das GG 1949 Art. 38 garantiert allgemeines, gleiches, freies, geheimes und unmittelbares Wahlrecht. Das Bundeswahlgesetz (BWahlG, BGBl. I 1956, 383 n.F.) regelt das Bundestagswahlrecht mit personalisierten Verhaeltniswahlrecht. Das BVerfG korrigierte das Wahlrecht mehrfach (BVerfGE 121, 266 zum negativen Stimmgewicht).
+Das Wahlrecht in Deutschland hat tiefgreifende Wandlungen erfahren. Die Reichsverfassung 1871 (Art. 20) gab allen deutschen Maennern über 25 das gleiche, direkte und geheime Wahlrecht zum Reichstag (ohne Frauenwahlrecht). Die WRV 1919 fuegte das Frauenwahlrecht (Art. 22) hinzu und schuf ein reines Verhaeltniswahlrecht, was zur Parteienzersplitterung beitrug. Das GG 1949 Art. 38 garantiert allgemeines, gleiches, freies, geheimes und unmittelbares Wahlrecht. Das Bundeswahlgesetz (BWahlG, BGBl. I 1956, 383 n.F.) regelt das Bundestagswahlrecht mit personalisierten Verhaeltniswahlrecht. Das BVerfG korrigierte das Wahlrecht mehrfach (BVerfGE 121, 266 zum negativen Stimmgewicht).
 
 ## Kernnormen / Kernquellen
 

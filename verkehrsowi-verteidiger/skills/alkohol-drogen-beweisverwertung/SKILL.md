@@ -59,15 +59,15 @@ Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Prom
 
 1. **Sachverhalt aufnehmen:** AAK-Wert, BAK-Wert, Zeitpunkt der Atemtest/Blutentnahme, Fahrtende.
 2. **Zuordnung OWi oder Strafrecht?** — Trennlinie klar definieren.
-3. **Blutentnahme-Rechmaessigkeit pruefen:** Richteranordnung vorhanden? Gefahr im Verzug begruendet?
+3. **Blutentnahme-Rechmaessigkeit prüfen:** Richteranordnung vorhanden? Gefahr im Verzug begruendet?
 4. **Rueckrechnungspruefung:** Nachweis BAK/AAK korrekt auf Fahrzeitpunkt zurueckgerechnet?
-5. **Bei Drogen:** Wirkstoff und Grenzwert pruefen; § 24a Abs. 3 StVG-Ausnahme pruefen.
+5. **Bei Drogen:** Wirkstoff und Grenzwert prüfen; § 24a Abs. 3 StVG-Ausnahme prüfen.
 6. **Fahrerlaubnis-Strategie:** Fahrverbot § 25 StVG vs. Entziehung § 69 StGB — getrennt bearbeiten.
 
 ## Harte Leitplanken
 
 - BAK ab 1,6 Promille immer als Strafrecht behandeln — eigener Skill § 316 StGB.
-- Blutentnahme-Rechtmaessigkeit aktiv pruefen — Verwertungsverbot argumentierbar.
+- Blutentnahme-Rechtmaessigkeit aktiv prüfen — Verwertungsverbot argumentierbar.
 - Rueckrechnung selbst kontrollieren; Fehler im Urteil sind Revisionsgruende.
 - Anwaltliche Endkontrolle bei Abgrenzung OWi/Strafrecht.
 

@@ -8,7 +8,7 @@ description: "Schriftsatzkern für urheber- und medienrechtliche Klagen und Antr
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Gegendarstellung Presse Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fachanwalt Urheber Medienrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Gegendarstellung Presse Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Urheber Medienrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -61,7 +61,7 @@ LPG § 11 BlnPrG / § 10 LPG NRW (Gegendarstellung) → §§ 935, 940 ZPO (Einst
 ### A. Rubrum
 
 - Parteien (bei Urheberrecht: Urheber/Rechteinhaber vs. Verletzer)
-- Zuständigkeit: § 105 UrhG-Konzentration pruefen; bei Presserecht LG Hamburg/Berlin/Frankfurt
+- Zuständigkeit: § 105 UrhG-Konzentration prüfen; bei Presserecht LG Hamburg/Berlin/Frankfurt
 
 ### B. Antraege Urheberrecht
 
@@ -102,7 +102,7 @@ LPG § 11 BlnPrG / § 10 LPG NRW (Gegendarstellung) → §§ 935, 940 ZPO (Einst
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -146,7 +146,7 @@ Anlage K1: Screenshot Verletzung [DATUM]
 Anlage K2: MFM-Honorarempfehlungen
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -170,6 +170,6 @@ Anlage K2: MFM-Honorarempfehlungen
 
 ## Cross-Refs
 
-- `urheber-abmahnung-pruefen` — vollstaendige Abmahnung-Pruefung
+- `urheber-abmahnung-pruefen` — vollstaendige Abmahnung-Prüfung
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — Lizenzverhandlung
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung

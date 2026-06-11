@@ -20,7 +20,7 @@ Dieser Einstieg routet **Hausarbeitenmacher** vom ersten Sachverhalt zu Rollen, 
 - `durch-schriftsatz-brief-und-memo-bausteine` — Durch Schriftsatz Brief und Memo Bausteine
 - `europarecht-anwendbarkeit-hausarbeiten` — Europarecht Anwendbarkeit Hausarbeiten
 - `europarecht-interessen-fertigen-sonderfall` — Europarecht Interessen Fertigen Sonderfall
-- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet Routing Zivil Oeffentlich Straf
+- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet Routing Zivil Öffentlich Straf
 - `fertigen-sonderfall-und-edge-case` — Fertigen Sonderfall und Edge Case
 - `fuehrt-risikoampel-und-gegenargumente` — Fuehrt Risikoampel und Gegenargumente
 - `gliederung-mit-tiefenstruktur` — Gliederung mit Tiefenstruktur

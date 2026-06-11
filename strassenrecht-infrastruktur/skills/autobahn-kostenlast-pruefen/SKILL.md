@@ -3,7 +3,7 @@ name: autobahn-kostenlast-pruefen
 description: "Autobahn: Kostenlast prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Autobahn Kostenlast Pruefen
+# Autobahn Kostenlast Prüfen
 
 ## Arbeitsweg
 

@@ -49,5 +49,5 @@ description: "Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamte
 
 1. Dienstunfallbegriff erfuellt?
 2. Antrag fristgerecht?
-3. MdE ueber 25 Prozent?
+3. MdE über 25 Prozent?
 4. Heilverfahren?

@@ -142,7 +142,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `dora-stellvertreter-und-konzern` | DORA-Spezial: Stellvertreter, Konzernregelungen, Outsourcing zum gruppeneigenen IT-Dienstleister, kritische TPP-Registrierung bei ESAs. Pruefraster und Klauseln in Konzern-IT-Vertraegen. Schnittstelle zu Aufsichtsrecht der Toechter im Au... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Regulatorisches Recht (Sektoren): ordnet Rolle (Unternehmen reguliert, Aufsichtsbehörde, Verbraucher/Kunden), markiert Frist (Beschwerdefrist Aufsichtsbescheid), wählt Norm (TKG, EnWG, KWG, VersAufsG, AMG... |
 | `enwg-feeds-heilmwerbg` | Enwg: Dokumentenmatrix, Lückenliste und Nachforderung. |
-| `feeds-compliance-dokumentation-und-akte` | Compliance-Dokumentation und Aktenvermerk fuer regulatorische Verfahren. Eingangsdaten ordnen, Schwellenwerte und Meldepflichten erfassen, Beweismittel listen und Aktenvermerk anlegen. |
+| `feeds-compliance-dokumentation-und-akte` | Compliance-Dokumentation und Aktenvermerk für regulatorische Verfahren. Eingangsdaten ordnen, Schwellenwerte und Meldepflichten erfassen, Beweismittel listen und Aktenvermerk anlegen. |
 | `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Regulatorisches Recht. |
 | `gwg-fristen-form-und-zustaendigkeit` | GwG: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `heilmwerbg-risikoampel-und-gegenargumente` | Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien. |
@@ -153,8 +153,8 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `luecken` | Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Prüfraster: Ist-Zustand Soll-Anforderungen Luecken Risikograd Priorisierung. Output: Lueckenliste mit Risikoklassifizierung. Abgrenzung: n... |
 | `luecken-aufzeiger` | Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen. GG Art. 12 80 AEUV Art. 107. Prüfraster: Normtext Regelungsziele Luecken unbeabsichtigte Folgen Verbesserungsvorschlaeg... |
 | `mandat-arbeitsbereich` | Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe beteiligte Behörden. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Ab... |
-| `mar-mifid-eltif-uebergreifend` | MAR-MiFID-ELTIF uebergreifend: Insiderhandel, Marktmanipulation, Geeignetheit, ELTIF 2.0 Retail-Vertrieb. Pruefraster ueber alle drei Regelwerke für einen typischen Produktentwicklungsfall. Schnittstellen und Konfliktpunkte im Regulatori... |
-| `massnahme-mandantenkommunikation-entscheidungsvorlage` | Massnahme: Mandantenkommunikation und Entscheidungsvorlage. |
+| `mar-mifid-eltif-uebergreifend` | MAR-MiFID-ELTIF uebergreifend: Insiderhandel, Marktmanipulation, Geeignetheit, ELTIF 2.0 Retail-Vertrieb. Pruefraster über alle drei Regelwerke für einen typischen Produktentwicklungsfall. Schnittstellen und Konfliktpunkte im Regulatori... |
+| `massnahme-mandantenkommunikation-entscheidungsvorlage` | Maßnahme: Mandantenkommunikation und Entscheidungsvorlage. |
 | `output-waehlen` | Output-Wahl für Regulatorisches Recht (Sektoren): stimmt Adressat (Unternehmen reguliert, Aufsichtsbehörde, Verbraucher/Kunden), Frist (Beschwerdefrist Aufsichtsbescheid) und Form auf den Zweck ab — typische Outputs: Stellungnahme Aufsic... |
 | `quellen-livecheck` | Quellen-Live-Check für Regulatorisches Recht (Sektoren): prüft Normen (TKG, EnWG, KWG, VersAufsG, AMG, Branchen-Spezialgesetze) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BNetzA und Quellenhygiene nach refere... |
 | `rdg-quellenkarte` | Rdg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
@@ -182,6 +182,6 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Regulatorisches Recht. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Regulatorisches Recht. |
 | `wphg-tatbestand-beweis-und-belege` | Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `wpig-und-zag-pruefung` | WpIG und ZAG Pruefung: Wertpapierinstitutsgesetz und Zahlungsdiensteaufsichtsgesetz Voraussetzungen für Lizenz, Anwendungsbereich, Schnittstellen zu PSD3-Entwurf, Crypto-Asset-Service-Provider unter MiCAR: WpIG und ZAG Pruefung: Wertpapi... |
+| `wpig-und-zag-pruefung` | WpIG und ZAG Prüfung: Wertpapierinstitutsgesetz und Zahlungsdiensteaufsichtsgesetz Voraussetzungen für Lizenz, Anwendungsbereich, Schnittstellen zu PSD3-Entwurf, Crypto-Asset-Service-Provider unter MiCAR: WpIG und ZAG Prüfung: Wertpapi... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -17,9 +17,9 @@ Im Zivilprozess muss jede streitige Tatsache durch ein Beweismittel belegt werde
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Beweisantrag**: Antrag, ueber eine bestimmte Tatsache Beweis durch ein Beweismittel zu erheben.
+- **Beweisantrag**: Antrag, über eine bestimmte Tatsache Beweis durch ein Beweismittel zu erheben.
 - **Strengbeweis**: Beweis nach ZPO-Regeln im Klageverfahren.
-- **Glaubhaftmachung**: Schwaecher als Strengbeweis; z. B. eidesstattliche Versicherung — zulaessig nur für bestimmte Antraege (PKH, Wiedereinsetzung).
+- **Glaubhaftmachung**: Schwaecher als Strengbeweis; z. B. eidesstattliche Versicherung — zulässig nur für bestimmte Antraege (PKH, Wiedereinsetzung).
 - **Beweisthema**: Die konkrete Tatsache, die bewiesen werden soll.
 
 ## Rechtsgrundlagen
@@ -59,7 +59,7 @@ Beweis: Urkunde — Kaufvertrag vom 5.3.2025
 ```
 
 - Anlage fuegen Sie der Klage bei.
-- Sortierung Klaeger: K1, K2, K3 ...; Beklagter B1, B2, B3 ...
+- Sortierung Kläger: K1, K2, K3 ...; Beklagter B1, B2, B3 ...
 - Anlagen-Verzeichnis am Ende der Klage.
 
 Skill `urkundenbeweis-415-ff-zpo`.
@@ -102,8 +102,8 @@ Beweis: Einholung eines Sachverstaendigen-Gutachtens
  des Fahrzeugs 4.250 EUR betragen.
 ```
 
-- Sie muessen das **Beweisthema** klar formulieren.
-- Sie muessen i. d. R. einen **Kostenvorschuss** zahlen (§ 17 GKG).
+- Sie müssen das **Beweisthema** klar formulieren.
+- Sie müssen i. d. R. einen **Kostenvorschuss** zahlen (§ 17 GKG).
 
 Skill `sachverstaendigenbeweis-402-zpo`.
 
@@ -139,7 +139,7 @@ Skill `parteivernehmung-445-ff-zpo`.
 
 ### Schritt 7 — Mehrere Beweismittel pro Tatsache
 
-Sie koennen kumulativ mehrere benennen:
+Sie können kumulativ mehrere benennen:
 
 ```
 Beweis: Anlage K2 (Lieferschein),
@@ -149,21 +149,21 @@ Beweis: Anlage K2 (Lieferschein),
 
 Vorteil: Wenn ein Beweismittel scheitert, traegt das andere.
 
-### Schritt 8 — Beweisangebote spaeter ergaenzen
+### Schritt 8 — Beweisangebote später ergaenzen
 
 Geht — aber Achtung Praeklusion (§ 296 ZPO). Bestes Vorgehen: alles in die Klage.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Ladungsfaehige Anschrift** der Zeugen: Wenn nur Name ohne Adresse, ist Antrag unwirksam.
 - **Beweisthema** klar: "Zeuge zum Sachverhalt" reicht nicht, lieber praezise.
-- **Praeklusion**: Verspaeteter Vortrag und Beweis koennen zurueckgewiesen werden.
-- **Eigene Aussage**: Zaehlt nicht als Beweismittel im engeren Sinne. Sie koennen Parteivernehmung anbieten, aber Gericht ist nicht verpflichtet.
+- **Praeklusion**: Verspaeteter Vortrag und Beweis können zurueckgewiesen werden.
+- **Eigene Aussage**: Zaehlt nicht als Beweismittel im engeren Sinne. Sie können Parteivernehmung anbieten, aber Gericht ist nicht verpflichtet.
 
 ## Typische Fehler
 
-- "Beweis: alle Zeugen, die ich noch ermittle." → Unwirksam, Zeugen muessen konkret benannt sein.
-- "Beweis: Akten der Gegenseite." → Nicht moeglich; Gericht kann nicht von sich aus Akten der Gegenseite einsehen. Antrag auf Urkundenvorlage § 142 ZPO.
+- "Beweis: alle Zeugen, die ich noch ermittle." → Unwirksam, Zeugen müssen konkret benannt sein.
+- "Beweis: Akten der Gegenseite." → Nicht möglich; Gericht kann nicht von sich aus Akten der Gegenseite einsehen. Antrag auf Urkundenvorlage § 142 ZPO.
 - "Beweis: Internet-Recherche." → Internet ist kein Beweismittel.
 
 ## Quellen und Aktualitaet

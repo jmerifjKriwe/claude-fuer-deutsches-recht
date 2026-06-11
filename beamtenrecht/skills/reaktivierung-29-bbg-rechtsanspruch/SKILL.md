@@ -36,11 +36,11 @@ Skill für ehemals wegen Dienstunfaehigkeit in den Ruhestand versetzte Beamte, d
 - Reaktivierung auf Antrag des Beamten: Anspruch besteht, wenn Dienstfaehigkeit wieder vorliegt und keine zwingenden dienstlichen Belange entgegenstehen.
 
 ### c) Anordnung durch Dienstherrn
-- Reaktivierung von Amts wegen unter den gleichen Voraussetzungen moeglich; insbesondere bei wiederhergestellter Dienstfaehigkeit innerhalb von zehn Jahren nach Ruhestandsversetzung.
+- Reaktivierung von Amts wegen unter den gleichen Voraussetzungen möglich; insbesondere bei wiederhergestellter Dienstfaehigkeit innerhalb von zehn Jahren nach Ruhestandsversetzung.
 
 ### d) Folgen
 - Wiederherstellung des aktiven Beamtenverhaeltnisses; Bezuege statt Versorgungsbezuege.
-- Statusamt grundsaetzlich unveraendert.
+- Statusamt grundsätzlich unveraendert.
 
 ### e) Rechtsschutz
 - Widerspruch gegen Bescheid; Klage zum VG; ggf. einstweilige Anordnung.

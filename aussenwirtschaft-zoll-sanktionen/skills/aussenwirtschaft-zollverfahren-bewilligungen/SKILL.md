@@ -23,7 +23,7 @@ description: "Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht akti
 
 1. Verwendungszweck der Ware klaren: Verarbeitung Lagerung Durchfuhr oder Endverwendung?
 2. Verfahren auswaehlen: Aktive Veredelung (Rueckaustausch) Zolllager Voruebergehende Verwendung oder Versand?
-3. Wirtschaftliche Voraussetzungen nach UZK Art. 211 Abs. 3 pruefen: EU-Produktionsinteressen nicht beeintraechtigt?
+3. Wirtschaftliche Voraussetzungen nach UZK Art. 211 Abs. 3 prüfen: EU-Produktionsinteressen nicht beeintraechtigt?
 4. Bewilligungsantrag in ATLAS-Antragsmodul vorbereiten; AEO-Status angeben.
 5. Buergschaft/Sicherheitsleistung kalkulieren und bei Zollbehoerde hinterlegen.
 6. Bewilligungsdokument prufen: Gueltigkeitsdauer Waren-Scope Mengendeckel und Abrechnungsfristen.
@@ -31,7 +31,7 @@ description: "Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht akti
 ## Rechtsrahmen
 
 - **UZK Art. 210-225**: Besondere Verfahren und Bewilligungsrahmen.
-- **UZK Art. 211**: Bewilligungsvoraussetzungen und wirtschaftliche Pruefung.
+- **UZK Art. 211**: Bewilligungsvoraussetzungen und wirtschaftliche Prüfung.
 - **UZK-DA Art. 161-184**: Detailregeln für besondere Verfahren.
 - **UZK Art. 38-41**: AEO-Zulassung und Erleichterungen.
 - **UZK-IA Art. 13-17**: AEO-Verfahrensvereinfachungen.
@@ -47,8 +47,8 @@ description: "Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht akti
 
 ## Typische Fallstricke
 
-- Wirtschaftliche Voraussetzungen muessen regelmaessig nachgewiesen werden; nicht nur bei Erstantrag.
-- Verfahren mischen (z.B. aktive Veredelung + Zolllager) ist moeglich aber erfordert separate Bewilligungen.
+- Wirtschaftliche Voraussetzungen müssen regelmaessig nachgewiesen werden; nicht nur bei Erstantrag.
+- Verfahren mischen (z.B. aktive Veredelung + Zolllager) ist möglich aber erfordert separate Bewilligungen.
 - Abrechnung nach Ablauf der Bewilligungsfrist vergessen loest Zollschuld aus.
 - AEO-Status verloren: Erleichterungen enden automatisch; Bewilligung erneut prufen.
 

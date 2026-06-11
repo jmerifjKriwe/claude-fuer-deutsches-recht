@@ -43,7 +43,7 @@ description: "Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Ko
 ## Pruefraster
 
 1. Kooperationsplan vorgelegt?
-2. Inhaltliche Pruefung?
+2. Inhaltliche Prüfung?
 3. Verhandlungsspielraum genutzt?
 4. Sanktionsrisiko realistisch?
 5. Gibt es eine konkrete Rechtsfolgenbelehrung oder nur allgemeinen Druck?

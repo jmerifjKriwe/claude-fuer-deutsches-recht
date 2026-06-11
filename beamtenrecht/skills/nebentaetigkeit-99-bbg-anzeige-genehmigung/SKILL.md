@@ -19,7 +19,7 @@ Skill für Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagung
 
 ## 2. Eingaben
 
-- Beschreibung der Nebentaetigkeit (Art, Auftraggeber, zeitlicher Umfang, Verguetung)
+- Beschreibung der Nebentaetigkeit (Art, Auftraggeber, zeitlicher Umfang, Vergütung)
 - Vorhandene Genehmigungen oder Anzeigen
 - Bescheid des Dienstherrn
 - Statusamt und Aufgabenbereich
@@ -41,7 +41,7 @@ Skill für Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagung
 - Beratungstaetigkeit für einen mit dem Dienstherrn in Geschaeftsbeziehung stehenden Auftraggeber.
 
 ### d) Ablieferungspflicht
-- Bei Nebentaetigkeit im öffentlichen Dienst Ablieferung des die Hoechstgrenze uebersteigenden Anteils der Verguetung an den Dienstherrn.
+- Bei Nebentaetigkeit im öffentlichen Dienst Ablieferung des die Hoechstgrenze uebersteigenden Anteils der Vergütung an den Dienstherrn.
 
 ### e) Folgen unterlassener Anzeige
 - Disziplinarrechtliche Folgen; Skill `disziplinarmassnahmebemessung-13-bdg`.

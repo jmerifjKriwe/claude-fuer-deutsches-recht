@@ -113,21 +113,21 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `digitalregulierung-pyramide-check` | Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU)… |
 | `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` | Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO… |
 | `dma-gatekeeper-schwellen-und-kernplattformdienste` | Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art.… |
-| `dsa-art-34-systemische-risikobewertung` | Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier… |
+| `dsa-art-34-systemische-risikobewertung` | Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Große Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier… |
 | `dsa-art-40-forschungsdatenzugang-algorithmen` | Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung),… |
-| `dsa-vlop-vlose-einordnung-und-pflichten` | VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation… |
+| `dsa-vlop-vlose-einordnung-und-pflichten` | VLOP (sehr große Online-Plattform) oder VLOSE (sehr große Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation… |
 | `klage-gegen-vlop-einordnung-art-263-aeuv` | Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA… |
-| `zustellung-und-vertreter-art-13-dsa-art-37-dma` | Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behörde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13… |
+| `zustellung-und-vertreter-art-13-dsa-art-37-dma` | Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Kläger will Schriftstuecke zustellen oder Behörde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13… |
 
 ## Worum geht es?
 
 Dieses Plugin ist der strukturierte Einstiegspunkt für die EU-Digitalregulierung. Es hilft dabei, den richtigen Rechtsakt für einen konkreten Sachverhalt zu identifizieren und die jeweils zuständige Pflichtenmatrix zu aktivieren. Die EU-Digitalregulierung besteht aus einem dichten Regelwerk, das sich nach Akteurstyp, Dienst-Typ, Datentyp und Risikoklasse staffelt: Digital Services Act (DSA, VO 2022/2065), Digital Markets Act (DMA, VO 2022/1925), Data Act (VO 2023/2854), Data Governance Act (DGA), AI Act (VO 2024/1689), NIS-2, DORA, CRA, eIDAS 2.0, Digitale-Dienste-Gesetz (DDG), P2B-VO und § 19a GWB.
 
-Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmensjuristen, die mit der Pflichtendichte der EU-Digitalregulierung umgehen muessen. Es ist kein Rechtsberatungsersatz.
+Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmensjuristen, die mit der Pflichtendichte der EU-Digitalregulierung umgehen müssen. Es ist kein Rechtsberatungsersatz.
 
 ## Wann brauchen Sie diese Skill?
 
-- Unternehmen fragt, ob es als VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) nach DSA einzustufen ist.
+- Unternehmen fragt, ob es als VLOP (sehr große Online-Plattform) oder VLOSE (sehr große Suchmaschine) nach DSA einzustufen ist.
 - Plattformbetreiber moechte wissen, ob eine DMA-Gatekeeper-Designation droht und welche Pflichten folgen.
 - Nutzer oder Unternehmen wurde von einer Plattform gesperrt und will die DSA-Beschwerdewege nutzen.
 - Anwalt muss feststellen, welche von mehreren EU-Digitalakten auf einen Sachverhalt gleichzeitig anwendbar sind.
@@ -137,10 +137,10 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 
 - **DSA (Digital Services Act)** — EU-Verordnung 2022/2065; regelt Haftung und Pflichten von Vermittlungsdiensten, Online-Plattformen, VLOP und VLOSE.
 - **DMA (Digital Markets Act)** — EU-Verordnung 2022/1925; regelt Pflichten für Gatekeeper bei Kernplattformdiensten.
-- **VLOP** — Sehr grosse Online-Plattform nach Art. 33 DSA; Designierungsschwelle 45 Mio. monatlich aktive Nutzer in der EU.
+- **VLOP** — Sehr große Online-Plattform nach Art. 33 DSA; Designierungsschwelle 45 Mio. monatlich aktive Nutzer in der EU.
 - **Gatekeeper** — Designierter Kernplattformdienst-Betreiber nach Art. 3 DMA; quantitative Schwellen und qualitative Designierung durch die Kommission.
 - **Kernplattformdienste** — Abschliessender Katalog in Art. 2 Nr. 2 DMA: soziale Netzwerke, App-Stores, Suchmaschinen, Werbenetzwerke usw.
-- **Systemisches Risiko** — Art. 34 DSA: VLOPs muessen jaehrlich vier Risikoarten bewerten (illegale Inhalte, Grundrechte, Diskurs/Wahlen, Minderjaerige).
+- **Systemisches Risiko** — Art. 34 DSA: VLOPs müssen jaehrlich vier Risikoarten bewerten (illegale Inhalte, Grundrechte, Diskurs/Wahlen, Minderjaerige).
 - **P2B-VO** — Plattform-zu-Business-Verordnung (VO 2019/1150); regelt Bedingungen in Handelsbeziehungen zwischen Plattformen und gewerblichen Nutzern.
 - **DDG** — Digitale-Dienste-Gesetz; nationales Ausfuehrungsgesetz zum DSA in Deutschland.
 
@@ -159,7 +159,7 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 2. Schnittstellen identifizieren: `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` bei Mehrrechtsakten.
 3. Spezifischen Pflichtenkatalog aktivieren: VLOP-Check, Gatekeeper-Check, Account-Sperre oder Forschungsdatenzugang.
 4. Verfahren und Klagewege klaren: Beschwerde, Klage oder Zustellungsfragen.
-5. Eilrechtsschutz pruefen bei Sperren oder Designierungsbeschluessen.
+5. Eilrechtsschutz prüfen bei Sperren oder Designierungsbeschluessen.
 
 ## Skill-Tour (was gibt es hier?)
 
@@ -177,7 +177,7 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 
 **DMA-spezifisch**
 
-- `dma-gatekeeper-schwellen-und-kernplattformdienste` — Gatekeeper-Designation nach Art. 3 DMA pruefen; Pflichtenkatalog.
+- `dma-gatekeeper-schwellen-und-kernplattformdienste` — Gatekeeper-Designation nach Art. 3 DMA prüfen; Pflichtenkatalog.
 
 **Klagewege und Verfahren**
 
@@ -189,7 +189,7 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 - **DSA und DMA sind parallel anwendbar** — Eine Plattform kann gleichzeitig VLOP (DSA) und Gatekeeper (DMA) sein; die Pflichten kumulieren sich.
 - **Schwellenwerte sind dynamisch** — Meldepflicht nach Art. 24 Abs. 3 DSA bei Erreichen der Nutzerschwelle; Kommission designiert unabhaengig von Meldestand.
 - **DSA verdraengt DSGVO nicht** — Art. 2 Abs. 4 DSA stellt klar, dass DSGVO vorgeht; DSA-Compliance schutzt nicht vor DSGVO-Bussgeld.
-- **§ 19a GWB als Luecken-Fuelung** — Unterhalb DMA-Schwellen greift das BKartA auf § 19a GWB zurueck; Unternehmen muessen beide Ebenen im Blick haben.
+- **§ 19a GWB als Luecken-Fuelung** — Unterhalb DMA-Schwellen greift das BKartA auf § 19a GWB zurueck; Unternehmen müssen beide Ebenen im Blick haben.
 - **Zustellung gegen auslaendische Plattformen** — EU-Vertreter-Pflicht nach Art. 13 DSA ist Voraussetzung für Zustellung; ohne Vertreter komplexes Auslandsverfahren.
 
 ## Typische Fehler

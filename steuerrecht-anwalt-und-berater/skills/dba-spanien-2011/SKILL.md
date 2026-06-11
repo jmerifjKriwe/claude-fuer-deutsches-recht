@@ -15,13 +15,13 @@ description: "DBA Deutschland Spanien Neufassung 2011 in Kraft seit 2012. Anwend
 
 ## Kernsachverhalt
 
-Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01.2013) loeste das DBA von 1966 ab und folgt OECD-MA 2010. Praxisrelevant sind Immobilieneinkuenfte (Mallorca, Costa del Sol — Mietobjekte deutscher Eigentuemer in Spanien), Wegzugsfaelle (Mallorca-Steuerflucht), Pensionen aus deutscher gesetzlicher Rente bei Wohnsitz Spanien, sowie Holding-Strukturen.
+Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01.2013) loeste das DBA von 1966 ab und folgt OECD-MA 2010. Praxisrelevant sind Immobilieneinkuenfte (Mallorca, Costa del Sol — Mietobjekte deutscher Eigentümer in Spanien), Wegzugsfaelle (Mallorca-Steuerflucht), Pensionen aus deutscher gesetzlicher Rente bei Wohnsitz Spanien, sowie Holding-Strukturen.
 
 ## Kaltstart-Rueckfragen
 
 1. Wohnsitzkonstellation, Einkunftsart?
 2. Bei Immobilien: gemietet, eigenes Ferienhaus, gewerbliche Vermietung?
-3. Bei Wegzug Spanien: § 6 AStG-Pruefung?
+3. Bei Wegzug Spanien: § 6 AStG-Prüfung?
 4. Pension aus DRV oder berufsstaendisch? Bezugsbeginn ab 2015 oder davor?
 5. Bei Beteiligung: Schachtel?
 6. ETVE-Holding (entidad de tenencia de valores extranjeros) involviert?
@@ -39,13 +39,13 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zum DBA-Spanien (insb. Immobilien, Pensionen, Subject-to-Tax) in freier amtlicher Quelle abrufen.
-- BMF-Schreiben zum DBA-Spanien: aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+- BMF-Schreiben zum DBA-Spanien: aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit (Art. 4)
 - OECD-Tie-Breaker.
-- "Beckham-Regelung" (Sonderregelung Spanien für Zugezogene): pruefen ob Steueransaessigkeit voll oder beschraenkt — konkret pruefen, ob unter DBA "ansaessig".
+- "Beckham-Regelung" (Sonderregelung Spanien für Zugezogene): prüfen ob Steueransaessigkeit voll oder beschraenkt — konkret prüfen, ob unter DBA "ansaessig".
 
 ### Betriebsstaette (Art. 5)
 - Bauausfuehrung **12 Monate**.
@@ -61,14 +61,14 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 
 ### Vermeidungs-Methode (Art. 22)
 - **Anrechnungsmethode** ist im DBA-Spanien 2011 verbreitet (Aenderung gegenueber 1966-DBA, das Freistellung vorsah).
-- Folge: deutsche Eigentuemer spanischer Immobilien — Anrechnung statt Freistellung — auswirken auf Welteinkommen.
+- Folge: deutsche Eigentümer spanischer Immobilien — Anrechnung statt Freistellung — auswirken auf Welteinkommen.
 
 ### Besonderheiten
 - **Immobilien (Art. 6)**: Belegenheitsstaat (Spanien).
 - **Mietvermietung mit Verlust** in Spanien: nach 2011-DBA Anrechnungsmethode — frueher (DBA 1966) Freistellung mit Progression. Aenderung wirkt sich praxisrelevant aus.
 - **Pensionen Art. 17**: gesetzliche Renten Wohnsitzstaat-Prinzip — Spanien besteuert deutsche Renten bei Wohnsitz Spanien. Sonderfall: Beamtenpensionen Kassenstaat.
 - **Wegzugsbesteuerung § 6 AStG** bei Wegzug Spanien als EU-Mitglied — Stundungsregeln nach ATAD 2022.
-- **ETVE-Holding**: spanische Beteiligungsgesellschaft mit Sondersteuersystem — DBA-Berechtigung pruefen.
+- **ETVE-Holding**: spanische Beteiligungsgesellschaft mit Sondersteuersystem — DBA-Berechtigung prüfen.
 - **Erbschaftsteuer DE-Spanien**: Es besteht kein Erbschaftsteuer-DBA zwischen Deutschland und Spanien — bei grenzueberschreitenden Erbfaellen droht Doppelbesteuerung (deutsche ErbSt und spanische impuesto de sucesiones); Anrechnung nach § 21 ErbStG.
 
 ## Workflow
@@ -94,15 +94,15 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 - Wechsel von Freistellung zu Anrechnung beim Uebergang DBA 1966 → DBA 2011 ist die zentrale Aenderung — deutsche Mietverluste in Spanien wirken sich anders aus.
 - Spanische Beckham-Regelung kann Ansaessigkeit in Frage stellen — DBA-Schutz nicht garantiert.
 - DRV-Renten bei Wohnsitz Spanien: Spanien hat (zumindest bis 2014) Renten nicht systematisch besteuert; durch Informationsaustausch zunehmende Versteuerung; Verstaendigungsverfahren bei Doppelbesteuerung.
-- Mallorca-Wohnsitz wird oft nur als Briefkasten gewaehlt — Mittelpunkt Lebensinteressen pruefen.
-- Wegzug Spanien: § 6 AStG, ATAD-Umsetzung 2022 — Stundung aufgrund EU-Mitgliedschaft moeglich.
+- Mallorca-Wohnsitz wird oft nur als Briefkasten gewaehlt — Mittelpunkt Lebensinteressen prüfen.
+- Wegzug Spanien: § 6 AStG, ATAD-Umsetzung 2022 — Stundung aufgrund EU-Mitgliedschaft möglich.
 - ETVE-Holding ist DBA-berechtigt, aber Substanztest § 50d Abs. 3 EStG anwenden.
 
 ## Praktiker-Tipps der alten Hasen
 
 ### Erstattungsverfahren spanische Quellensteuer
 
-- **Zuständigkeit**: spanische Erstattung durch **Agencia Estatal de Administracion Tributaria (AEAT)**, Oficina Nacional de Gestion Tributaria. Aktuelle Zuständigkeit auf **agenciatributaria.gob.es** pruefen.
+- **Zuständigkeit**: spanische Erstattung durch **Agencia Estatal de Administracion Tributaria (AEAT)**, Oficina Nacional de Gestion Tributaria. Aktuelle Zuständigkeit auf **agenciatributaria.gob.es** prüfen.
 - **Antragsformulare**: spanische Modelos zur Quellensteuer-Erstattung; in der Praxis verbreitete Bezeichnungen "Modelo 210" (Steuer auf Einkuenfte Nichtansaessiger) sowie spezifische Erstattungsformulare — **konkrete Modelo-Nummern und Verfahren vom Anwender mit aktuellem Stand auf agenciatributaria.gob.es zu verifizieren**.
 - **Frist**: nach spanischem LGT (Ley General Tributaria) regelmaessig **vier Jahre** ab Steuerentrichtung.
 - **Bearbeitungsdauer AEAT**: 12-36 Monate; nach den Aenderungen seit 2020 fortgesetzt langwierig.
@@ -121,22 +121,22 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Mallorca-Immobilien deutsche Eigentuemer Vermietung DBA 1966 (Freistellung) vs. DBA 2011 (Anrechnung) | Alt-DBA: Freistellung mit Progression in DE | Neu-DBA: Anrechnung — spanische Steuer auf deutsche EStG anrechenbar, Verluste werden in DE wirksam | bei Verlustsituationen Neu-DBA-Anrechnungsmethode vorteilhafter |
+| Mallorca-Immobilien deutsche Eigentümer Vermietung DBA 1966 (Freistellung) vs. DBA 2011 (Anrechnung) | Alt-DBA: Freistellung mit Progression in DE | Neu-DBA: Anrechnung — spanische Steuer auf deutsche EStG anrechenbar, Verluste werden in DE wirksam | bei Verlustsituationen Neu-DBA-Anrechnungsmethode vorteilhafter |
 | Beckham-Regelung waehlen vs. ordentlich besteuert werden | sehr niedrige Steuer in ES, aber **DBA-Ansaessigkeitsfrage** | volle DBA-Berechtigung | bei hohem Auslandseinkommen ordentliche Besteuerung wegen DBA-Schutz oft vorteilhafter |
 | Wegzug nach Spanien als EU-Mitglied vs. Wohnsitz halten | sofortige § 6 AStG-Wegzugsbesteuerung mit Stundungsmoeglichkeit (EU) | Wohnsitz halten, deutsche Steueranspruch | bei stillen Reserven Stundungsmoeglichkeit nutzen; Zeitplanung |
-| Schachteldividende ES-S.A. an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung AEAT | 0 Prozent via Freistellung vorab | § 43b EStG vorzugswuerdig |
+| Schachteldividende ES-S.A. an DE-Mutter über DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung AEAT | 0 Prozent via Freistellung vorab | § 43b EStG vorzugswuerdig |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
-- **Beckham-Regelung (Regimen Especial)**: spanische Sonderbesteuerung für Zuzuegler (maximal 6 Jahre, 24 Prozent Flat-Tax auf spanische Einkuenfte); fraglich, ob Beckham-Status zur DBA-Ansaessigkeit fuehrt. Konkrete Pruefung nach Art. 4 DBA-ES erforderlich.
+- **Beckham-Regelung (Regimen Especial)**: spanische Sonderbesteuerung für Zuzuegler (maximal 6 Jahre, 24 Prozent Flat-Tax auf spanische Einkuenfte); fraglich, ob Beckham-Status zur DBA-Ansaessigkeit fuehrt. Konkrete Prüfung nach Art. 4 DBA-ES erforderlich.
 - **DRV-Renten an Mallorca**: Wohnsitzstaat-Prinzip Art. 17 — Spanien hat Besteuerungsrecht. Aufgrund von Informationsaustausch wird die spanische Besteuerung zunehmend durchgesetzt. Bei Doppelbesteuerung Verstaendigungsverfahren.
 - **Wechsel DBA 1966 → DBA 2011 (ab 01.01.2013)**: Mandanten-Memos vor 2013 referenzieren Freistellung mit Progression bei Immobilien; ab 2013 Anrechnung. Veranlagungszeitraum-Wechsel zentral.
 - **ETVE-Holding** (entidad de tenencia de valores extranjeros): substanz-pflichtig nach spanischem Recht — DBA-Berechtigung vorhanden, aber § 50d Abs. 3 EStG-Substanztest gleichwohl Pflicht.
-- **Erbschaft mit Spanien**: kein bilaterales ErbSt-DBA — bei grenzueberschreitenden Erbfaellen droht Doppelbesteuerung; § 21 ErbStG-Anrechnung pruefen.
+- **Erbschaft mit Spanien**: kein bilaterales ErbSt-DBA — bei grenzueberschreitenden Erbfaellen droht Doppelbesteuerung; § 21 ErbStG-Anrechnung prüfen.
 
 ## Berechnungsbeispiel — Mallorca-Vermietung (Wohnsitz DE)
 
-> Deutscher Eigentuemer einer Ferienwohnung in Palma de Mallorca, Mieteinnahmen 24.000 EUR p.a., Kosten 8.000 EUR.
+> Deutscher Eigentümer einer Ferienwohnung in Palma de Mallorca, Mieteinnahmen 24.000 EUR p.a., Kosten 8.000 EUR.
 >
 > Schritt 1: Spanische IRPF-NRA-Pflicht (Modelo 210): Nettomiete 16.000 EUR x 19 Prozent (EU-Nichtansaessige) = 3.040 EUR spanische Steuer.
 >
@@ -162,6 +162,6 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Spanien 03.02.2011, in Kraft 18.10.2012, anwendbar ab 01.01.2013 (BGBl. 2012 II S. 18). MLI-modifiziert ab 01.01.2025 (BGBl. 2025 II Nr. 5). Beckham-Regelung und ETVE-Klassifikation im Einzelfall pruefen.
+Stand: 05/2026. DBA-Spanien 03.02.2011, in Kraft 18.10.2012, anwendbar ab 01.01.2013 (BGBl. 2012 II S. 18). MLI-modifiziert ab 01.01.2025 (BGBl. 2025 II Nr. 5). Beckham-Regelung und ETVE-Klassifikation im Einzelfall prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

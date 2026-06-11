@@ -7,7 +7,7 @@ description: "Dokumentenintake für Europarecht-Kompass: sortiert Klageschrift E
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Europarecht Kompass** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Europarecht Kompass** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -35,7 +35,7 @@ Dieser Dokumenten-Intake für **Europarecht Kompass** ordnet Anlagen, Registerda
 - `eu-rechtsquellen-vorlageweiche` — EU Rechtsquellen Vorlageweiche
 - `eur-anrufung-state-beihilfen-vergaben` — EUR Anrufung State Beihilfen Vergaben
 - `eur-kommissionsverfahren-art-258-spezial` — EUR Kommissionsverfahren ART 258 Spezial
-- `eur-mandant-uebersicht-zustaendigkeiten` — EUR Mandant Uebersicht Zustaendigkeiten
+- `eur-mandant-uebersicht-zustaendigkeiten` — EUR Mandant Übersicht Zustaendigkeiten
 - `eur-state-aid-notifikation-spezial` — EUR State AID Notifikation Spezial
 - `europarecht-beihilfen-vergaben` — Europarecht Beihilfen Vergaben
 - `einstieg-routing` — Einstieg Routing

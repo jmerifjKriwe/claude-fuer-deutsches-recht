@@ -3,7 +3,7 @@ name: aussenwirtschaft-zollwert-ursprung
 description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nichtpraeferenzieller Ursprung als Zollwert-Einflussfaktor und Nachweis-Anforderungen. Zollwertberichtigung bei nachtraeglichen Ursprungsnachweisen und REX-Erklaerungen. Kombinierte Pruefung Zollwert-Ursprung bei Zollauß..."
 ---
 
-# Zollwert und Ursprung: Integrierte Pruefung und kombiniertes Nachweispaket
+# Zollwert und Ursprung: Integrierte Prüfung und kombiniertes Nachweispaket
 
 ## Arbeitsweg
 
@@ -16,7 +16,7 @@ description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenz
 ## Mandantenfall
 
 - Importeur legt nachtraeglich EUR.1-Zertifikat vor; Zollwert-Erstattung und Praeferenz-Berichtigung.
-- Zollaußenpruefung prueft gleichzeitig Zollwert und Praeferenz-Ursprung; Nachweispaket zusammenstellen.
+- Zollaußenpruefung prüft gleichzeitig Zollwert und Praeferenz-Ursprung; Nachweispaket zusammenstellen.
 - Unternehmen hat REX-Erklaerung erhalten aber Ursprungsvoraussetzungen nicht geprueft.
 
 ## Erste Schritte
@@ -24,7 +24,7 @@ description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenz
 1. Ursprungsnachweise für Einfuhrsendungen katalogisieren: EUR.1 EUR-MED REX ATR Form A GSP-Bescheinigung.
 2. Zollwert-Kalkulation und Ursprungszuordnung für jede Lieferantenbeziehung abgleichen.
 3. Nachtraegliche Ursprungsnachweise: Erstattungsantrag stellen Fristen nach Art. 121 UZK.
-4. REX-System: Registrierter Exporteur pruefen; Erklaerungsinhalt auf Ursprungsvoraussetzungen.
+4. REX-System: Registrierter Exporteur prüfen; Erklaerungsinhalt auf Ursprungsvoraussetzungen.
 5. Kombinierten Nachweispaket für Zollaußenpruefung vorbereiten.
 6. Einheitliche Pruefmatrix erstellen: Zollwert Ursprung Praeferenz und Nachweis-Status.
 
@@ -42,14 +42,14 @@ description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenz
 - [ ] Zollwert und Ursprungszuordnung konsistent?
 - [ ] Nachtraegliche Ursprungsnachweise auf Erstattungspotenzial geprueft?
 - [ ] REX-Erklaerungen auf Ursprungsvoraussetzungen verifiziert?
-- [ ] Kombiniertes Nachweispaket für Pruefung bereit?
+- [ ] Kombiniertes Nachweispaket für Prüfung bereit?
 - [ ] Pruefmatrix aktuell und vollstaendig?
 
 ## Typische Fallstricke
 
 - Fristen für Erstattungsantrag bei nachtraeglichem Ursprungsnachweis beachten (3 Jahre).
-- REX-Erklaerungen des Lieferanten koennen falsch sein; Eigenverantwortung des Importeurs.
-- Zollwert und Ursprung werden bei Pruefung oft kombiniert; Luecken in beiden Bereichen kumulieren sich.
+- REX-Erklaerungen des Lieferanten können falsch sein; Eigenverantwortung des Importeurs.
+- Zollwert und Ursprung werden bei Prüfung oft kombiniert; Luecken in beiden Bereichen kumulieren sich.
 - Nachtraegliche Ursprungs-Korrekturen erfordern Zollanmeldungs-Berichtigung.
 
 ## Schnittstellen zu anderen Skills

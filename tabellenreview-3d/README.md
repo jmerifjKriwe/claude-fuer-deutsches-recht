@@ -139,7 +139,7 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `steuer-quellenkarte` | Steuer Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `tabellenreview-dokument-behoerden-gerichts-registerweg` | Dokument: Behörden-, Gerichts- oder Registerweg: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `tabellenreview-erstpruefung-und-mandatsziel` | Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel. |
-| `tr3d-bestreitensgruende-leitfaden` | Leitfaden Bestreitensgruende systematisch: dem Grunde, der Hoehe, dem Rang, Verjährung, Aufrechnung. Pruefraster für Tabellenpruefer. |
+| `tr3d-bestreitensgruende-leitfaden` | Leitfaden Bestreitensgruende systematisch: dem Grunde, der Höhe, dem Rang, Verjährung, Aufrechnung. Pruefraster für Tabellenpruefer. |
 | `tr3d-feststellungsklage-tabellenfeststellung` | Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Pruefraster für Glaeubiger und Insolvenzverwalter. |
 | `tr3d-feststellungsklage-tabellenfeststellung-spezial` | Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Pruefraster für Glaeubiger und Insolvenzverwalter im Tabellenreview 3d. |
 | `tr3d-massearmut-tabelle-spezial` | Spezialfall Tabellenfuehrung bei Massearmut: vereinfachte Quote, vereinfachtes Tabellenformat, BGH-Rechtsprechung. Pruefraster für Verwalter und Insolvenzgericht. |

@@ -3,7 +3,7 @@ name: replik-auf-klageerwiderung-systematik
 description: "Replik als Klaeger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen."
 ---
 
-# Replik: Wie Sie als Klaeger auf die Klageerwiderung antworten
+# Replik: Wie Sie als Kläger auf die Klageerwiderung antworten
 
 ## Worum geht es?
 
@@ -12,7 +12,7 @@ Nach Ihrer Klage und der Klageerwiderung des Beklagten haben Sie meist die Moegl
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben die Klageerwiderung erhalten.
-- Sie ueberlegen, ob Sie reagieren muessen.
+- Sie ueberlegen, ob Sie reagieren müssen.
 - Sie wollen wissen, wie Sie strukturiert antworten.
 
 ## Fachbegriffe (kurz erklaert)
@@ -30,7 +30,7 @@ Nach Ihrer Klage und der Klageerwiderung des Beklagten haben Sie meist die Moegl
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Klageerwiderung pruefen
+### Schritt 1 — Klageerwiderung prüfen
 
 Lesen Sie Wort für Wort:
 
@@ -41,9 +41,9 @@ Lesen Sie Wort für Wort:
 
 ### Schritt 2 — Pro Beklagten-Punkt: Reaktion
 
-Wenn Beklagter Tatsache des Klaegers bestreitet — muessen Sie Beweis nochmal staerken oder Tatsache substantiieren.
+Wenn Beklagter Tatsache des Klaegers bestreitet — müssen Sie Beweis nochmal staerken oder Tatsache substantiieren.
 
-Wenn Beklagter neue Tatsachen vortraegt — Sie muessen darauf reagieren:
+Wenn Beklagter neue Tatsachen vortraegt — Sie müssen darauf reagieren:
 
 - Bestreiten (substantiiert).
 - Zugestehen (wenn wahr).
@@ -53,18 +53,18 @@ Wenn Beklagter neue Tatsachen vortraegt — Sie muessen darauf reagieren:
 
 Wenn Beklagter Verjährung einredet:
 
-- Verjährungs-Berechnung pruefen.
+- Verjährungs-Berechnung prüfen.
 - Hemmung darlegen (Verhandlungen, Mahnbescheid).
-- Neubeginn pruefen (Anerkenntnis).
+- Neubeginn prüfen (Anerkenntnis).
 
 Wenn Aufrechnung:
 
 - Wider-Forderung bestreiten.
-- Aufrechnungs-Voraussetzungen pruefen.
+- Aufrechnungs-Voraussetzungen prüfen.
 
 Wenn Zurueckbehaltungsrecht:
 
-- Gegenleistung-Pflicht klaeren.
+- Gegenleistung-Pflicht klären.
 
 ### Schritt 4 — Beweisangebote ergaenzen
 
@@ -127,7 +127,7 @@ Wenn nicht ausreichend: Fristverlaengerung beantragen (Skill `fristverlaengerung
 
 Bei der Replik **nicht** schweigen. Wenn Beklagter neue Tatsachen behauptet und Sie schweigen, kann das Gericht annehmen, Sie haben nichts dagegen.
 
-Es gibt aber Faelle, in denen die Beklagten-Erwiderung nichts neues bringt — dann ist eine kurze Replik moeglich:
+Es gibt aber Faelle, in denen die Beklagten-Erwiderung nichts neues bringt — dann ist eine kurze Replik möglich:
 
 ```
 Ich nehme die Klageerwiderung zur Kenntnis.
@@ -146,9 +146,9 @@ Email-Verkehr.
 
 § 296 ZPO: Verspaeteter Vortrag wird zurueckgewiesen, wenn dadurch der Termin verzoegert wuerde.
 
-Tragen Sie alles in der Replik vor. Spaeter erst im Termin kommt schlechter an.
+Tragen Sie alles in der Replik vor. Später erst im Termin kommt schlechter an.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Pro Beklagten-Tatsache eine Antwort** — sonst Geltend.
 - **Beweismittel benennen** auch für neue Tatsachen.
@@ -157,7 +157,7 @@ Tragen Sie alles in der Replik vor. Spaeter erst im Termin kommt schlechter an.
 
 ## Typische Fehler
 
-- "Ich antworte nur auf die wichtigsten Punkte." → Auch Nebenpunkte koennen relevant werden.
+- "Ich antworte nur auf die wichtigsten Punkte." → Auch Nebenpunkte können relevant werden.
 - "Die Replik ist nicht zwingend." → Doch — gegen neuen Beklagten-Vortrag.
 - "Ich warte auf den Termin und sage dann was." → Praeklusions-Gefahr.
 

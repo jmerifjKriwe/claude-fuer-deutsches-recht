@@ -29,7 +29,7 @@ Die Bauueberwachung auf Flughafenvorfeldern und bei Towerneubauten erfordert die
 2. Sichtpruefung Schalung und Bewehrung Vorfeldbeton: Abstandhalter mindestens 40 mm Betondeckung, Quergefaelle 1.0 Prozent auf Entwurfsplanung abgleichen
 3. Probenahme Frischbeton bei Einbau: Konsistenz F3 Ausbreitmass 420-480 mm, Luftporengehalt 4.0-5.5 Prozent nach DIN EN 12350-7 kontrollieren
 4. Einbaukontrolle Vorfeldentwaesserung: Linienentwaesserungsrinnen Typ ACO Drain K100 oder Hauraton Recyfix, Gefaellekorrektur per Nivellierkontrolle alle 5 m
-5. Kontrolle Befeuerungsanlage-Einbau: Kabelkanaele FHA800, Bodeneinbaufeuer L-852 nach ICAO, Schutzabstand zu Betontrennfugen mindestens 150 mm pruefen
+5. Kontrolle Befeuerungsanlage-Einbau: Kabelkanaele FHA800, Bodeneinbaufeuer L-852 nach ICAO, Schutzabstand zu Betontrennfugen mindestens 150 mm prüfen
 6. Tagesprotokoll erstellen: Wetterdaten, Temperaturprotokoll Einbautemperatur Beton mindestens 5 degC, Personenzahl, Maschineneinsatz und Dokumentation Freigabe Flugbetrieb
 
 ## Normen und Rechtsrahmen
@@ -47,7 +47,7 @@ Die Bauueberwachung auf Flughafenvorfeldern und bei Towerneubauten erfordert die
 2. Fugenkontrolle: Scheinfugen 6 mm Breite alle 5 m mal 5 m, Pressfugen mit Quell-Injektionsschlauch SIKA Injectoflex
 3. Befeuerungspruefung: Widerstandsmessung Kabelschleife je CCR-Kreis nach DIN VDE 0833, Dichtheitspruefung Schutzrohre IP67 nach DIN EN 60529
 4. Neigungs- und Hoehenkontrolle: Tachymetrie nach Betonage, Ebenheitstoleranz +-5 mm auf 4 m Laenge nach ZTV Beton-StB
-5. Schweissnaht-Pruefung Fugenband: visuelle Pruefung und Spark-Test nach DIN 16726 bei PVC-Fugenbandeinbau
+5. Schweissnaht-Prüfung Fugenband: visuelle Prüfung und Spark-Test nach DIN 16726 bei PVC-Fugenbandeinbau
 6. FOD-Inspektion vor Wiederinbetriebnahme: Foreign Object Damage Rundgang mit Metallsuchgeraet, Freigabe-Stempel Luftfahrtbehoerde
 
 ## Foto-, Video- und Dokumentenanalyse
@@ -55,7 +55,7 @@ Die Bauueberwachung auf Flughafenvorfeldern und bei Towerneubauten erfordert die
 - Fotodokumentation Betoneinbau: Stativaufnahmen alle 30 Minuten, Zeitstempel und GPS-Koordinate EPSG 25832 UTM32N, Ablage in BIM360 oder PlanRadar
 - Drohnenbefliegung DJI Mavic 3 Enterprise nach jeder Bauphase: Orthofoto 2 cm/px Risserkennung, 3D-Modell via Pix4Dmapper, Soll/Ist-Vergleich mit Tachymeter-Punktwolke
 - Matterport 360-Grad-Scan Tower-Innenraeume: Bestandsdokumentation Rohbau, Verortung Einbauteile, Export als IFC für BIM-Abgleich
-- Pruefung Lieferscheine: Betonguetezertifikat DIN EN 206, Werksbescheinigung 3.1 nach EN 10204 für Bewehrungsstahl BSt 500 S
+- Prüfung Lieferscheine: Betonguetezertifikat DIN EN 206, Werksbescheinigung 3.1 nach EN 10204 für Bewehrungsstahl BSt 500 S
 - Schweissprotokoll Fugenbander: Warmgasschweissverfahren nach DIN 16726, Protokoll mit WPS und PQR, Kalibrierungsnachweis Schweissgeraet
 
 ## Meldungserstellung im ERP / SAP
@@ -70,12 +70,12 @@ Die Bauueberwachung auf Flughafenvorfeldern und bei Towerneubauten erfordert die
 
 - ILS-Schutzbereich waehrend Bauzeit: Baukraene ueberragen Hindernisfreiflaeche OLS nach ICAO Annex 14 Abschnitt 4.3, fehlende Abstimmung mit DFS fuehrt zu Baustopps
 - Betoneinbau unter 5 degC ohne Erwaermungsprotokoll: Einfrieren waehrend Nachbehandlung fuehrt zu Abplatzung XF4-Oberflaeche ohne Heilmoeglichkeit
-- FOD-Risiko durch Baustellenmuell auf Vorfeld: Schrauben koennen Triebwerksschaden verursachen, Haftungsfragen nach § 823 BGB
+- FOD-Risiko durch Baustellenmuell auf Vorfeld: Schrauben können Triebwerksschaden verursachen, Haftungsfragen nach § 823 BGB
 - Fehlende Koordination Befeuerungsabnahme: Inbetriebnahme verzoegert sich 4-8 Wochen wenn Abnahmetermin nicht 6 Wochen vorher angemeldet
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

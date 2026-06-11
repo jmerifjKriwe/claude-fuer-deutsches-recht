@@ -29,7 +29,7 @@ Dieses Anschluss-Routing für **Phishing Vorfall Prüfer** wählt nach dem erste
 
 ## Arbeitsweg
 
-- Ergebnis sichten: Welche Phishing Vorfall Pruefer-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Ergebnis sichten: Welche Phishing Vorfall Prüfer-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
 - Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.

@@ -3,7 +3,7 @@ name: geheimschutzhaushalt-titel-pruefen
 description: "Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Geheimschutzhaushalt Titel Pruefen
+# Geheimschutzhaushalt Titel Prüfen
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Titel p
 
 ## Normenanker
 
-Arbeitsfokus: **Geheimschutzhaushalt Titel Pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Geheimschutzhaushalt Titel Prüfen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
 - `§ 17 BHO` — Einzelveranschlagung.

@@ -65,7 +65,7 @@ Sofort nach Erhalt eines Schreibens vom Gericht:
 ### Schritt 4 — Doppelpruefung
 
 - Berechnen Sie die Frist **zweimal** (z. B. selbst + online-Frist-Rechner).
-- Pruefen Sie die § 193 BGB-Verschiebung.
+- Prüfen Sie die § 193 BGB-Verschiebung.
 - Bei Unsicherheit bei der Rechtsantragsstelle nachfragen.
 
 ### Schritt 5 — Mehrere Reminder
@@ -99,16 +99,16 @@ Pro Verfahren eigener Ordner / Tab. Tabellen-Spalte für Verfahrens-Zuordnung.
 
 Einmal pro Woche:
 
-- Tabelle pruefen.
-- Naechste Vorfristen pruefen.
+- Tabelle prüfen.
+- Naechste Vorfristen prüfen.
 - Erledigt-Status pflegen.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Vorfristen** sind die Lebensversicherung.
 - **Doppelpruefung** vermeidet Rechenfehler.
 - **Belege aufbewahren** für ggf. spaeteren Streit.
-- **Routine** der woechentlichen Pruefung.
+- **Routine** der woechentlichen Prüfung.
 
 ## Typische Fehler
 

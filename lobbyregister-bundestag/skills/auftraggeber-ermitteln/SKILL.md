@@ -24,7 +24,7 @@ description: "Erfasst Auftraggeberinnen und Auftraggeber bei Interessenvertretun
 
 1. Wer beauftragt die Interessenvertretung?
 2. Welche Interessen, Vorhaben und Adressaten sind vom Auftrag umfasst?
-3. Welche Angaben darf der Auftraggeber pruefen oder freigeben?
+3. Welche Angaben darf der Auftraggeber prüfen oder freigeben?
 
 ## Auftraggeber-Angabe § 3 Abs. 1 Nr. 9 LobbyRG
 

@@ -48,7 +48,7 @@ Sie sind krank oder behindert. Der GdB ist eine Zahl, die das ausdrueckt. Ab GdB
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Bescheid pruefen
+### Schritt 1 — Bescheid prüfen
 
 Im Bescheid steht:
 
@@ -57,9 +57,9 @@ Im Bescheid steht:
 - Festgestellte Funktionseinschraenkungen
 - Merkzeichen oder Ablehnung
 
-### Schritt 2 — VMG-Tabellen pruefen
+### Schritt 2 — VMG-Tabellen prüfen
 
-Die VMG hat Tabellen für jede Erkrankung. Pruefen Sie:
+Die VMG hat Tabellen für jede Erkrankung. Prüfen Sie:
 
 - Welche Diagnose hat welchen Wert?
 - Sind alle Diagnosen beruecksichtigt?
@@ -126,11 +126,11 @@ Bei erfolglosem Widerspruch Klage am SG. Beklagte: Versorgungsamt (oder Bezirksr
 
 - Neuer Bescheid mit hoeherem GdB.
 - Neuer Schwerbehindertenausweis.
-- Steuer-Rueckwirkung pruefen (§ 33b EStG).
+- Steuer-Rueckwirkung prüfen (§ 33b EStG).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **VMG ist Standard-Werkzeug**: Pruefen Sie die Tabellen genau (online verfuegbar).
+- **VMG ist Standard-Werkzeug**: Prüfen Sie die Tabellen genau (online verfuegbar).
 - **Gesamt-GdB ist nicht Addition**: Verstaerkungs- und Abschwaechungsregeln beachten.
 - **Merkzeichen separat begruenden**: Jedes Merkzeichen hat eigene Voraussetzungen.
 - **Aktuelle Atteste wichtig**: nicht aelter als 6 bis 12 Monate für SG-Verfahren.

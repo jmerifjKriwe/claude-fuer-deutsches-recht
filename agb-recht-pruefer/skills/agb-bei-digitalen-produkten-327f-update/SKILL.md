@@ -20,14 +20,14 @@ description: "AGB bei digitalen Produkten und § 327f BGB Update-Pflicht. Skill 
 
 ## Typische AGB-Klauseln im Streit
 
-### "Wir behalten uns vor, das Produkt jederzeit zu aendern"
+### "Wir behalten uns vor, das Produkt jederzeit zu ändern"
 - Unwirksam: zu unbestimmt; Aktualisierungspflicht nach § 327f BGB darf nicht unterlaufen werden.
 
 ### "Kein Anspruch auf bestimmte Funktionen"
 - Im Verbraucherkontext kritisch — Hauptleistungsbeschreibung ist betroffen.
 
 ### Funktions-Abschaltklauseln
-- Klausel zur Beendigung einer Funktionalitaet ohne Aequivalent ist intransparent und in der Tendenz unwirksam.
+- Klausel zur Beendigung einer Funktionalitaet ohne Äquivalent ist intransparent und in der Tendenz unwirksam.
 
 ### Subscription-Modelle
 - Automatische Verlaengerung muss klar und mit Kuendigungshinweis versehen sein.
@@ -69,6 +69,6 @@ description: "AGB bei digitalen Produkten und § 327f BGB Update-Pflicht. Skill 
 
 ### Anwendung im Skill
 
-- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
+- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge prüfen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klären.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
-- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG prüfen; modifizierte UE statt voreiliger Unterzeichnung.

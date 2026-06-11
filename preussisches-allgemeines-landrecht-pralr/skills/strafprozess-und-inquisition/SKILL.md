@@ -14,8 +14,8 @@ description: "Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das
 ## Folter
 
 - Friedrich II. hob die Folter 1740 in Preussen ab (Cabinets-Order).
-- Konkrete Massnahmen 1754.
-- Restbestimmungen formell erst spaeter.
+- Konkrete Maßnahmen 1754.
+- Restbestimmungen formell erst später.
 
 ## Beweismittel
 

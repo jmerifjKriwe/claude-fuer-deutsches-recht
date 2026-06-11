@@ -25,7 +25,7 @@ description: "Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale V
 ## Zentrale Normen
 - § 276 BGB — Verschulden: Massstab für erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: Selbstkontrolle sichert Korrektheit der Tatsachengrundlage
-- §§ 133, 157 BGB — Auslegungsgrundsaetze: Endcheck prueft Konsistenz der Auslegungsergebnisse
+- §§ 133, 157 BGB — Auslegungsgrundsaetze: Endcheck prüft Konsistenz der Auslegungsergebnisse
 - § 17 JAG NRW analog — Qualitaetsstandards für schriftliche Pruefungsleistungen
 
 ## Durchgang 1 — Inhaltlich

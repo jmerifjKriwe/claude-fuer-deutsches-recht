@@ -7,7 +7,7 @@ description: "Datenraum-Aufbau: Strukturiert und bestueckt virtuelle Datenräume
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Datenraum Aufbau Gap Deal Intake Team** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Mittelstand Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Datenraum Aufbau Gap Deal Intake Team** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Mittelstand Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -180,7 +180,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. **Dokumente hochladen und klassifizieren:** je Dokument: Vertragstyp, Parteien, Datum, Relevanz-Flag (High/Medium/Low)
 4. **Geheimhaltungsprotokoll:** NDA-Liste, MAR-Insiderliste (falls boersennotiert), Clean-Room-Zugangspro tokoll
 5. **IRl-Management:** fehlende Dokumente als Information Request List erfassen; Seller-Response verfolgen
-6. **Datenraum-Gap-Analyse:** Vollstaendigkeit gegen Standard-DD-Checkliste pruefen
+6. **Datenraum-Gap-Analyse:** Vollstaendigkeit gegen Standard-DD-Checkliste prüfen
 
 ## Rote Schwellen
 

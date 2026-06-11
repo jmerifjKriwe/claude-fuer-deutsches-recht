@@ -20,9 +20,9 @@ description: "Strafvorschriften nach Paragraph 143 MarkenG: Vorsaetzliche Marken
 
 ## Worum geht es
 
-Paragraph 143 MarkenG sanktioniert vorsaetzliche Verletzungen des Markenrechts. Geschuetzt ist die Marke als gewerbliches Schutzrecht (Paragraph 14 MarkenG zivilrechtlich; Paragraph 143 MarkenG strafrechtlich). Anwendungsfaelle: Counterfeit-Vertrieb von Fashion- und Luxusartikeln, Produktpiraterie ueber Marktplaetze, Parallelimport ohne EU-Erschoepfung, taeuschend aehnliche Markenkennzeichen (Verwechslungsgefahr), Ausnutzung bekannter Marken (Bekanntheitsschutz).
+Paragraph 143 MarkenG sanktioniert vorsaetzliche Verletzungen des Markenrechts. Geschuetzt ist die Marke als gewerbliches Schutzrecht (Paragraph 14 MarkenG zivilrechtlich; Paragraph 143 MarkenG strafrechtlich). Anwendungsfaelle: Counterfeit-Vertrieb von Fashion- und Luxusartikeln, Produktpiraterie über Marktplaetze, Parallelimport ohne EU-Erschoepfung, taeuschend aehnliche Markenkennzeichen (Verwechslungsgefahr), Ausnutzung bekannter Marken (Bekanntheitsschutz).
 
-Strafrahmen Paragraph 143 Abs 1 MarkenG: bis drei Jahre Freiheitsstrafe oder Geldstrafe. Bandenmäßige Begehung wird ueber Paragraph 143a MarkenG erfasst (drei Monate bis fuenf Jahre). Antragsdelikt nach Paragraph 144 Abs 1 MarkenG; Privatklageweg moeglich; Ausnahme besonderes öffentliches Interesse fuehrt zur Offizialverfolgung.
+Strafrahmen Paragraph 143 Abs 1 MarkenG: bis drei Jahre Freiheitsstrafe oder Geldstrafe. Bandenmäßige Begehung wird über Paragraph 143a MarkenG erfasst (drei Monate bis fuenf Jahre). Antragsdelikt nach Paragraph 144 Abs 1 MarkenG; Privatklageweg möglich; Ausnahme besonderes öffentliches Interesse fuehrt zur Offizialverfolgung.
 
 ## Tatbestand und Geltungsbereich
 
@@ -34,7 +34,7 @@ Paragraph 143 Abs 1 MarkenG knuepft an die zivilrechtlichen Verletzungstatbestae
 
 Tatobjekt ist die geschuetzte Marke: deutsche eingetragene Marke (Paragraph 4 Nr 1 MarkenG), Benutzungsmarke (Paragraph 4 Nr 2 MarkenG), notorisch bekannte Marke (Paragraph 4 Nr 3 MarkenG), Unionsmarke (Verordnung 2017/1001), international registrierte Marke mit Schutzerstreckung auf Deutschland (Madrider Protokoll).
 
-Tathandlungen Paragraph 14 Abs 3 MarkenG: Anbringen, Anbieten, Inverkehrbringen, Besitzen zu den genannten Zwecken, Einfuehren, Ausfuehren, Benutzen als Geschaeftspapier oder in der Werbung. Strafrechtlich relevant: Vertrieb der gefaelschten Ware, Anbieten ueber Online-Marktplaetze, Lagerung zur gewerblichen Veraeusserung, grenzueberschreitender Import.
+Tathandlungen Paragraph 14 Abs 3 MarkenG: Anbringen, Anbieten, Inverkehrbringen, Besitzen zu den genannten Zwecken, Einfuehren, Ausfuehren, Benutzen als Geschaeftspapier oder in der Werbung. Strafrechtlich relevant: Vertrieb der gefaelschten Ware, Anbieten über Online-Marktplaetze, Lagerung zur gewerblichen Veraeusserung, grenzueberschreitender Import.
 
 Subjektiv Vorsatz, mindestens dolus eventualis. Fahrlaessigkeit ist nicht strafbar. Vorsatz muss die Identitaet oder Aehnlichkeit, Markeneintragung (zumindest Bekanntheit), Verwechslungsgefahr und das Fehlen der Berechtigung umfassen.
 
@@ -42,16 +42,16 @@ Subjektiv Vorsatz, mindestens dolus eventualis. Fahrlaessigkeit ist nicht strafb
 
 Paragraph 144 Abs 1 MarkenG: Antragsdelikt. Antragsfrist Paragraph 77b StGB drei Monate ab Kenntnis von Tat und Taeter. Antragsberechtigt ist der Markeninhaber, der ausschliessliche Lizenznehmer (Paragraph 30 Abs 3 MarkenG; mit Zustimmung des Inhabers), Rechtsnachfolger.
 
-Praxiswichtig: Bei Lizenznehmern ist die Antragsberechtigung sorgfaeltig zu pruefen. Die zuständige Antragsperson muss in der Anzeige genau bezeichnet sein. Bei Konzernmarken: Lizenzkette belegen.
+Praxiswichtig: Bei Lizenznehmern ist die Antragsberechtigung sorgfaeltig zu prüfen. Die zuständige Antragsperson muss in der Anzeige genau bezeichnet sein. Bei Konzernmarken: Lizenzkette belegen.
 
 Privatklageweg Paragraph 374 StPO ist eroeffnet. Paragraph 144 Abs 1 MarkenG sieht ausdruecklich Privatklage vor; StA tritt nur bei besonderem öffentlichem Interesse ein. Praxis: StA uebernimmt regelmaessig bei kommerziellem Vertrieb, hohem Umsatz, mehreren Beteiligten.
 
 ## Praktikertipps der Verteidigung
 
-- **Verwechslungsgefahr bestreiten.** Bei Paragraph 14 Abs 2 Nr 2 MarkenG ist die Verwechslungsgefahr zu pruefen nach Wechselwirkung (Aehnlichkeit Zeichen / Aehnlichkeit Ware / Kennzeichnungskraft der aelteren Marke). Bei nur partieller Aehnlichkeit Verteidigung mit Streit ueber Sicherheits-/Verkehrskreis-Perspektive. Verkehrsgutachten in Auftrag geben.
-- **Erschoepfungseinwand Paragraph 24 MarkenG.** Bei Reimport aus EWR-Staat: Markenrecht ist erschoepft, sobald die Ware mit Zustimmung des Markeninhabers im EWR in Verkehr gebracht wurde. Reimport aus EU ist also regelmaessig zulaessig, sofern keine berechtigten Gruende der Verpackungsaenderung etc. entgegenstehen. Reimport aus Drittstaaten dagegen nicht erschoepft.
-- **Berechtigte Benutzung.** Paragraph 23 MarkenG (Hinweis auf Bestimmung, Ersatzteile, beschreibender Hinweis); Paragraph 26 MarkenG (Benutzungspflicht: Marke kann verfallen, wenn nicht ernsthaft benutzt). Verfallseinrede pruefen.
-- **Vorsatz erschuettern.** Mandant kauft Ware ueber Zwischenhaendler, Container, Marktplatz; behauptet, an originale Ware geglaubt zu haben. Bei serioesen Beschaffungswegen (Rechnung, Lieferschein, Zollnachweis) ist der Vorsatz schwerer zu belegen. Bei eindeutigen Faelschungsindikatoren (Preisniveau, fehlende Verpackung, Produktion in Drittstaaten ohne Lizenz) Vorsatz regelmaessig zu bejahen.
+- **Verwechslungsgefahr bestreiten.** Bei Paragraph 14 Abs 2 Nr 2 MarkenG ist die Verwechslungsgefahr zu prüfen nach Wechselwirkung (Aehnlichkeit Zeichen / Aehnlichkeit Ware / Kennzeichnungskraft der aelteren Marke). Bei nur partieller Aehnlichkeit Verteidigung mit Streit über Sicherheits-/Verkehrskreis-Perspektive. Verkehrsgutachten in Auftrag geben.
+- **Erschoepfungseinwand Paragraph 24 MarkenG.** Bei Reimport aus EWR-Staat: Markenrecht ist erschoepft, sobald die Ware mit Zustimmung des Markeninhabers im EWR in Verkehr gebracht wurde. Reimport aus EU ist also regelmaessig zulässig, sofern keine berechtigten Gruende der Verpackungsaenderung etc. entgegenstehen. Reimport aus Drittstaaten dagegen nicht erschoepft.
+- **Berechtigte Benutzung.** Paragraph 23 MarkenG (Hinweis auf Bestimmung, Ersatzteile, beschreibender Hinweis); Paragraph 26 MarkenG (Benutzungspflicht: Marke kann verfallen, wenn nicht ernsthaft benutzt). Verfallseinrede prüfen.
+- **Vorsatz erschuettern.** Mandant kauft Ware über Zwischenhaendler, Container, Marktplatz; behauptet, an originale Ware geglaubt zu haben. Bei serioesen Beschaffungswegen (Rechnung, Lieferschein, Zollnachweis) ist der Vorsatz schwerer zu belegen. Bei eindeutigen Faelschungsindikatoren (Preisniveau, fehlende Verpackung, Produktion in Drittstaaten ohne Lizenz) Vorsatz regelmaessig zu bejahen.
 - **Bekanntheitsschutz Paragraph 14 Abs 2 Nr 3 MarkenG.** Bekanntheit ist Tatbestandsmerkmal; Mandant kann ggf. nicht erkannt haben, dass eine Marke "bekannt" im Rechtssinne ist. Vorsatz schwerer zu fuehren als bei klassischer Doppelidentitaet.
 
 ## Trade-off-Matrix
@@ -65,9 +65,9 @@ Paragraph 153a StPO Einstellung gegen Auflage ist haeufig praxistauglich, wenn M
 ## Konkurrenzen
 
 - **Paragraph 143 MarkenG und Paragraph 143a MarkenG.** Bandenmaessigkeit verdraengt den Grundtatbestand (Spezialitaet).
-- **Paragraph 143 MarkenG und Paragraph 263 StGB.** Bei Vortaeuschen einer Originalware Tateinheit moeglich; bei einfacher Counterfeit-Verkaufstat ist Paragraph 263 regelmaessig zu bejahen, wenn Kaeufer an Originalware geglaubt hat.
+- **Paragraph 143 MarkenG und Paragraph 263 StGB.** Bei Vortaeuschen einer Originalware Tateinheit möglich; bei einfacher Counterfeit-Verkaufstat ist Paragraph 263 regelmaessig zu bejahen, wenn Kaeufer an Originalware geglaubt hat.
 - **Paragraph 143 MarkenG und Paragraph 106, 108a UrhG.** Bei Doppelverletzung (z. B. Bootleg-CD mit Originalmarke) Tateinheit.
-- **Paragraph 143 MarkenG und Paragraph 51 DesignG.** Bei Verletzung sowohl Marke als auch eingetragenem Design (Logo + Form) Tateinheit pruefen.
+- **Paragraph 143 MarkenG und Paragraph 51 DesignG.** Bei Verletzung sowohl Marke als auch eingetragenem Design (Logo + Form) Tateinheit prüfen.
 
 ## Strafzumessung
 
@@ -80,19 +80,19 @@ Strafrahmen Paragraph 143 Abs 1 MarkenG: Freiheitsstrafe bis drei Jahre oder Gel
 
 ## Mustertexte
 
-**Strafantrag-Snippet:** "Namens und mit Vollmacht meiner Mandantin, der X AG als Inhaberin der deutschen Marke Nr DE [12345] (Anlage K 1), stelle ich gemaess Paragraph 144 Abs 1 MarkenG iVm Paragraph 158 StPO Strafantrag wegen vorsaetzlicher Markenverletzung nach Paragraph 143 Abs 1 MarkenG. Mein Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt; die Frist nach Paragraph 77b StGB ist gewahrt. Ein besonderes öffentliches Interesse an der Strafverfolgung wird bejaht: Der Beschuldigte hat ueber den Online-Marktplatz Y im Tatzeitraum ueber Z Stueck Counterfeit-Ware mit einem Umsatz von EUR W vertrieben."
+**Strafantrag-Snippet:** "Namens und mit Vollmacht meiner Mandantin, der X AG als Inhaberin der deutschen Marke Nr DE [12345] (Anlage K 1), stelle ich gemäß Paragraph 144 Abs 1 MarkenG iVm Paragraph 158 StPO Strafantrag wegen vorsaetzlicher Markenverletzung nach Paragraph 143 Abs 1 MarkenG. Mein Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt; die Frist nach Paragraph 77b StGB ist gewahrt. Ein besonderes öffentliches Interesse an der Strafverfolgung wird bejaht: Der Beschuldigte hat über den Online-Marktplatz Y im Tatzeitraum über Z Stueck Counterfeit-Ware mit einem Umsatz von EUR W vertrieben."
 
-**Schutzschrift-Snippet:** "Die streitgegenstaendliche Ware wurde von meinem Mandanten ueber den autorisierten Haendler X in Frankreich (EU-Mitgliedstaat) erworben (Rechnung Anlage SS 1). Es liegt Erschoepfung nach Paragraph 24 Abs 1 MarkenG vor; der Markeninhaber hat das Inverkehrbringen im EWR autorisiert. Eine Markenverletzung scheidet aus. Soweit die StA dies bezweifelt, wird Beweis durch Vernehmung des Zeugen X angeboten."
+**Schutzschrift-Snippet:** "Die streitgegenstaendliche Ware wurde von meinem Mandanten über den autorisierten Haendler X in Frankreich (EU-Mitgliedstaat) erworben (Rechnung Anlage SS 1). Es liegt Erschoepfung nach Paragraph 24 Abs 1 MarkenG vor; der Markeninhaber hat das Inverkehrbringen im EWR autorisiert. Eine Markenverletzung scheidet aus. Soweit die StA dies bezweifelt, wird Beweis durch Vernehmung des Zeugen X angeboten."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, eine Verkehrsbefragung durchzufuehren zum Beweis der Tatsache, dass das streitgegenstaendliche Zeichen Y vom angesprochenen Verkehr nicht mit der Marke des Anzeigeerstatters in Verbindung gebracht wird und daher Verwechslungsgefahr im Sinne von Paragraph 14 Abs 2 Nr 2 MarkenG nicht besteht."
 
 ## Verfahrensschritte im Mandat
 
-1. **Erstgespraech und Akteneinsicht Paragraph 147 StPO.** Klaeren, ob parallel zivilrechtliche Abmahnung erfolgte und ob bereits einstweilige Verfuegung anhaengig ist.
-2. **Antragsfrist Paragraph 77b StGB pruefen.** Kenntnis von Tat und Taeter sorgfaeltig recherchieren; internes Wissensmanagement des Anzeigeerstatters offenlegen lassen.
-3. **Markenregister-Pruefung.** DPMAregister, EUIPO eSearch für Inhaberschaft, Kategorie, Schutzbereich.
+1. **Erstgespraech und Akteneinsicht Paragraph 147 StPO.** Klären, ob parallel zivilrechtliche Abmahnung erfolgte und ob bereits einstweilige Verfuegung anhaengig ist.
+2. **Antragsfrist Paragraph 77b StGB prüfen.** Kenntnis von Tat und Taeter sorgfaeltig recherchieren; internes Wissensmanagement des Anzeigeerstatters offenlegen lassen.
+3. **Markenregister-Prüfung.** DPMAregister, EUIPO eSearch für Inhaberschaft, Kategorie, Schutzbereich.
 4. **Verwechslungsgefahr-Analyse.** Wechselwirkungslehre (Zeichen-Aehnlichkeit, Waren-Aehnlichkeit, Kennzeichnungskraft); ggf. Verkehrsbefragung beantragen.
-5. **Erschoepfung Paragraph 24 MarkenG pruefen.** EU-Lieferketten dokumentieren.
+5. **Erschoepfung Paragraph 24 MarkenG prüfen.** EU-Lieferketten dokumentieren.
 6. **Verhandlung mit Markeninhaber.** Schadensvergleich nach Lizenzanalogie; Antragsruecknahme Paragraph 77d StGB; Strafverfahren-Einstellung Paragraph 170 Abs 2 StPO.
 7. **Privatklageverweis.** Wenn StA nicht uebernimmt: Hinwirken auf Verweisung; Markeninhaber dann mit Suehneversuch konfrontiert.
 8. **Hauptverhandlung** mit Sachverstaendigem für Verkehrskreis.

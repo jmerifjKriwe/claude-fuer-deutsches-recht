@@ -15,9 +15,9 @@ description: "Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen
 
 ## Mandantenfall
 
-- Bestellung von Dual-Use-Elektronik aus UAE in ungewoehnlich grosser Menge; aehnliche Bestellung vor 6 Monaten nach Russland.
-- Zahlungseingang ueber kasachischen Finanzintermediaer für Lieferung an tuerkisches Unternehmen.
-- Handelsvertreter schlaegt ungewoehnliche Lieferoute ueber Armenien vor; Preiszuschlag erklaert.
+- Bestellung von Dual-Use-Elektronik aus UAE in ungewoehnlich großer Menge; aehnliche Bestellung vor 6 Monaten nach Russland.
+- Zahlungseingang über kasachischen Finanzintermediaer für Lieferung an tuerkisches Unternehmen.
+- Handelsvertreter schlaegt ungewoehnliche Lieferoute über Armenien vor; Preiszuschlag erklaert.
 
 ## Erste Schritte
 
@@ -47,9 +47,9 @@ description: "Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen
 
 ## Typische Fallstricke
 
-- Einzelne Red Flags koennen harmlos sein; Gesamtbild ist entscheidend.
+- Einzelne Red Flags können harmlos sein; Gesamtbild ist entscheidend.
 - Spaeteres 'Nichtwissen wollen' bei offensichtlichen Red Flags reicht für Leichtfertigkeits-Strafbarkeit.
-- Zwischenhaendler in Umgehungslaendern muessen nicht bos handelnd sein; aber Sorgfaltsmassnahmen zwingend.
+- Zwischenhaendler in Umgehungslaendern müssen nicht bos handelnd sein; aber Sorgfaltsmassnahmen zwingend.
 - No-Russia-Clause im Vertrag genuegt nicht; aktives Monitoring der Compliance noetig.
 
 ## Schnittstellen zu anderen Skills

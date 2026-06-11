@@ -3,7 +3,7 @@ name: industrieanlage-beteiligung-pruefen
 description: "Umweltschutzverband Verbandsklage: Industrieanlage: Beteiligung prüfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Industrieanlage Beteiligung Pruefen
+# Industrieanlage Beteiligung Prüfen
 
 ## Arbeitsweg
 

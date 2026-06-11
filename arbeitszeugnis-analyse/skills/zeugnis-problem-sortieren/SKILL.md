@@ -13,7 +13,7 @@ description: "Allgemeiner Startskill für Arbeitszeugnisse, wenn der Nutzer nur 
 
 ## Vier Pflichtbausteine
 
-1. Ziel klaeren: Was soll entschieden, geprueft, entworfen, verbessert oder verhandelt werden?
+1. Ziel klären: Was soll entschieden, geprueft, entworfen, verbessert oder verhandelt werden?
 2. Kontext sichern: Rolle, Frist, Dokumente, Beteiligte, Vorgeschichte und Belege.
 3. Grenzen setzen: keine Blindzitate, keine erfundenen Tatsachen, keine ungewollten Zugestaendnisse.
 4. Ausgabeformat bestimmen: Memo, Tabelle, Schriftsatz, Brief, Beschluss, TOP, Checkliste oder Red-Team-Liste.

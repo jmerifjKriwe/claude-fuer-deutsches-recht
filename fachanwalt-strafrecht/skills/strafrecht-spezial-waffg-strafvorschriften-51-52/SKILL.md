@@ -51,7 +51,7 @@ Strafrahmen: **Freiheitsstrafe von einem Jahr bis zu zehn Jahren** (Verbrechen).
 Voraussetzung ist regelmaessig eine waffenrechtliche Erlaubnis nach Paragraph 10 WaffG:
 
 - **Waffenbesitzkarte** (WBK) für Sportschuetzen, Jaeger, Sammler.
-- **Waffenschein** (kleiner Waffenschein für Schreckschuss / grosser Waffenschein für scharfe Waffen).
+- **Waffenschein** (kleiner Waffenschein für Schreckschuss / großer Waffenschein für scharfe Waffen).
 - **Munitionserwerbschein**.
 - **Erlaubnis nach Paragraph 21 WaffG** für gewerbliche Tatbestaende.
 
@@ -65,19 +65,19 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 
 ## Praktikertipps Verteidigung
 
-- **Erlaubnis pruefen.** Hat der Mandant eine WBK für eine andere Waffe? Ist das Eintragsdatum auf der WBK aktuell? Liegt eine Erbenmeldung nach Paragraph 20 WaffG vor (innerhalb eines Monats nach Erbfall)?
+- **Erlaubnis prüfen.** Hat der Mandant eine WBK für eine andere Waffe? Ist das Eintragsdatum auf der WBK aktuell? Liegt eine Erbenmeldung nach Paragraph 20 WaffG vor (innerhalb eines Monats nach Erbfall)?
 - **Verbotsirrtum bei Erbe.** Erbe einer scharfen Waffe ohne waffenrechtliche Kenntnisse: hat einen Monat Zeit für die Erbenmeldung. Wenn der Mandant das nicht wusste, kann Verbotsirrtum nach Paragraph 17 StGB greifen (regelmaessig vermeidbar, aber strafmildernd).
-- **Anscheinswaffe-Schwelle pruefen.** Anscheinswaffen sind ueber Paragraph 42a WaffG nur in der Oeffentlichkeit verboten; Privatbesitz unproblematisch.
-- **Schreckschuss-Pistole — kleiner Waffenschein.** Fuer das Fuehren in der Oeffentlichkeit ist kleiner Waffenschein erforderlich. Reines Besitzen daheim oft ohne Erlaubnis moeglich.
+- **Anscheinswaffe-Schwelle prüfen.** Anscheinswaffen sind über Paragraph 42a WaffG nur in der Oeffentlichkeit verboten; Privatbesitz unproblematisch.
+- **Schreckschuss-Pistole — kleiner Waffenschein.** Für das Fuehren in der Oeffentlichkeit ist kleiner Waffenschein erforderlich. Reines Besitzen daheim oft ohne Erlaubnis möglich.
 - **Antikwaffen.** Waffen vor 1871 sind nach Paragraph 12 WaffG erlaubnisfrei. Sammlerstuecke sorgfaeltig dokumentieren.
-- **Munitionsbestaende getrennt pruefen.** Munitionserwerb braucht eigene Erlaubnis; auch bei vorhandener WBK ohne Munitionseintrag strafbar.
+- **Munitionsbestaende getrennt prüfen.** Munitionserwerb braucht eigene Erlaubnis; auch bei vorhandener WBK ohne Munitionseintrag strafbar.
 - **Konkurrenzen sortieren.** Hinweis: Bei Diebstahl unter Verwendung einer Schusswaffe ist Paragraph 244 Abs 1 Nr 1 StGB einschlaegig (nicht Paragraph 244 IV, der nicht existiert in der Form). Bandendiebstahl: Paragraph 244 Abs 1 Nr 2 StGB.
 
 ## Trade-off-Matrix
 
 | Pfad A Bestreiten Vorsatz / Verbotsirrtum | Pfad B Gestaendnis und Strafmilderung Paragraph 46 StGB | Empfehlung |
 | --- | --- | --- |
-| Bei Erbfaellen oder Antikwaffen oft tragfaehig; substantierter Vortrag zu fehlender Kenntnis. | Strafmilderung durch Geringfuegigkeit, Strafzumessung im unteren Bereich; bei Paragraph 52 WaffG meist Geldstrafe moeglich. | Bei Erbfaellen Pfad A; bei klarer Erwerbsabsicht (Sportschuetze ohne Erlaubnis) Pfad B. Strafmilderung erheblich. |
+| Bei Erbfaellen oder Antikwaffen oft tragfaehig; substantierter Vortrag zu fehlender Kenntnis. | Strafmilderung durch Geringfuegigkeit, Strafzumessung im unteren Bereich; bei Paragraph 52 WaffG meist Geldstrafe möglich. | Bei Erbfaellen Pfad A; bei klarer Erwerbsabsicht (Sportschuetze ohne Erlaubnis) Pfad B. Strafmilderung erheblich. |
 
 ## Konkurrenzen
 
@@ -95,7 +95,7 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 - **Einziehung Paragraph 73 StGB** der Waffen und Munition.
 - **Waffenrechtliche Folgen:** Widerruf der Erlaubnis nach Paragraph 45 WaffG; Sperre für Neuerteilung.
 - **Berufsverbot Paragraph 70 StGB** bei gewerbsmäßigem Waffenhandel.
-- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
+- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
 - Bei Auslaender Ausweisungsrisiko Paragraph 53 AufenthG.
 
 ## Mustertexte

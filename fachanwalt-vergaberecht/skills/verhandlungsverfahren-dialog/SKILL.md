@@ -45,13 +45,13 @@ Wenn Loesung nicht am Markt verfuegbar; Phasenmodell Forschung/Entwicklung + spa
 2. **Teilnahmewettbewerb**: Bewerber, Mindestkriterien Eignung; Auswahl 3-6 Teilnehmer.
 3. **Aufforderung zur Angebotsabgabe** mit detaillierten Auftragsunterlagen.
 4. **Erstangebote**.
-5. **Verhandlungsphase**: Klaerung Bieterloesungen, Reduktion auf Best-and-Final-Offer (BAFO) zulaessig (§ 17 Abs. 11 VgV).
+5. **Verhandlungsphase**: Klärung Bieterloesungen, Reduktion auf Best-and-Final-Offer (BAFO) zulässig (§ 17 Abs. 11 VgV).
 6. **Endangebote** und Zuschlag.
 
 ## Gleichbehandlungsgebot in Verhandlung
 - Gleiche Informationen an alle verbleibenden Bieter.
 - Keine Preisgabe vertraulicher Bieterinformationen.
-- Aenderung Mindestanforderungen unzulaessig; Aenderung Zuschlagskriterien grundsaetzlich unzulaessig.
+- Aenderung Mindestanforderungen unzulaessig; Aenderung Zuschlagskriterien grundsätzlich unzulaessig.
 - Protokollierung jeder Verhandlung im Vergabevermerk.
 
 ## Wettbewerblicher Dialog: Phasen
@@ -68,14 +68,14 @@ Wenn Loesung nicht am Markt verfuegbar; Phasenmodell Forschung/Entwicklung + spa
 - Dialogphase wird zur Mengen-Bieter-Reduktion ohne Substanz missbraucht.
 
 ## Quellenregel
-OLG-Linien zu § 14 Abs. 3 VgV und zur Reduktion von Loesungen im Dialog vor Ausgabe ueber dejure.org / openjur.de pruefen.
+OLG-Linien zu § 14 Abs. 3 VgV und zur Reduktion von Loesungen im Dialog vor Ausgabe über dejure.org / openjur.de prüfen.
 
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

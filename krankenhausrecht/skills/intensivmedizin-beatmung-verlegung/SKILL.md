@@ -19,14 +19,14 @@ description: "Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, 
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), Strukturmerkmale für Beatmungs-OPS, Verlegung gemaess Intensivkapazitaeten, ausserklinische Beatmung nach IPReG (Intensivpflege- und Rehabilitationsstaerkungsgesetz). Fehleinordnung gefaehrdet Verguetung und Patientensicherheit.
+Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), Strukturmerkmale für Beatmungs-OPS, Verlegung gemäß Intensivkapazitaeten, ausserklinische Beatmung nach IPReG (Intensivpflege- und Rehabilitationsstaerkungsgesetz). Fehleinordnung gefaehrdet Vergütung und Patientensicherheit.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Intensivstation (Erwachsene, Kinder, Neonatologie, Spezial)?
 - Wird Beatmung dokumentiert (Beatmungsstunden, Geraet, OPS 8-71x)?
 - Ist Verlegung intern oder zwischen Kliniken (Triage, Kapazitaet)?
 - Liegt Antrag/Voraussetzung ausserklinische Beatmung nach IPReG vor?
-- Drohen MD-Pruefung, Pflegeuntergrenze, Strukturzuschlag-Wegfall?
+- Drohen MD-Prüfung, Pflegeuntergrenze, Strukturzuschlag-Wegfall?
 
 ## Rechtlicher Rahmen
 - **PpUGV** Anlage Intensiv (Erwachsene, Kinder, Neonatologie).
@@ -37,17 +37,17 @@ Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), St
 - **G-DRG-Katalog** Beatmungs- und Sepsis-DRGs mit Strukturmerkmal.
 
 ## / Schritt für Schritt
-1. **Stationskategorisierung pruefen:** Erwachsenen-, Kinder-, Neonatologie-Intensiv; Bettenzahl, Beatmungsplaetze.
+1. **Stationskategorisierung prüfen:** Erwachsenen-, Kinder-, Neonatologie-Intensiv; Bettenzahl, Beatmungsplaetze.
 2. **PpUGV-Quote rechnen:** Pflege je Schicht, examinierte Quote, Helferanrechnung.
 3. **Beatmungsstunden korrekt erfassen:** Beginn (Intubation/Tracheostoma) bis Ende (Extubation), MD-konforme Doku.
-4. **OPS-Strukturmerkmal pruefen:** OPS 8-980 Komplexbehandlung Intensiv mit Strukturmerkmalen (Personal, Geraete, Routine).
+4. **OPS-Strukturmerkmal prüfen:** OPS 8-980 Komplexbehandlung Intensiv mit Strukturmerkmalen (Personal, Geraete, Routine).
 5. **Verlegung dokumentieren:** Intensivkapazitaet, Triage-Entscheidung, Begruendung medizinisch und kapazitiv.
 6. **IPReG-Verlegung ausserklinisch:** Indikationspruefung, Genehmigung Kasse, Versorgungsstruktur.
-7. **MD-Pruefung antizipieren:** Strukturpruefung kann Beatmungs-DRG kassieren.
+7. **MD-Prüfung antizipieren:** Strukturpruefung kann Beatmungs-DRG kassieren.
 
 ## Trade-off-Matrix
 
-| Konstellation | Massnahme | Verguetungseffekt |
+| Konstellation | Maßnahme | Verguetungseffekt |
 |---|---|---|
 | Beatmung > 24h | OPS 8-71x, Beatmungs-DRG | hoeher als nicht beatmet |
 | Komplexbehandlung Intensiv | OPS 8-980 erfuellt? | Zusatzentgelt |
@@ -55,10 +55,10 @@ Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), St
 | Ausserklinische Beatmung (IPReG) | Antrag, Strukturen | langfristige Versorgungsfragen |
 
 ## Praxistipps
-- Beatmungsstunden-OPS sind MD-Pruefungs-Hotspot; Doku-Genauigkeit zentral.
+- Beatmungsstunden-OPS sind MD-Prüfungs-Hotspot; Doku-Genauigkeit zentral.
 - OPS 8-980 Komplexbehandlung verlangt Mindestpersonal pro Schicht — Pflegepersonalbericht mitfuehren.
 - Triage-Entscheidung dokumentieren (BAEK-/DIVI-Empfehlungen).
-- IPReG verlangt Indikationspruefung; AOK/Ersatzkassen pruefen Versorgungsweg.
+- IPReG verlangt Indikationspruefung; AOK/Ersatzkassen prüfen Versorgungsweg.
 - Pflegeuntergrenze-Verletzung in Intensiv fuehrt zu Verguetungsabschlag.
 
 ## Mustertexte

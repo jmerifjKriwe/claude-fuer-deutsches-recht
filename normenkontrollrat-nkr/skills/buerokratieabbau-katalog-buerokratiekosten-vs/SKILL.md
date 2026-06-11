@@ -95,8 +95,8 @@ Vorhaben mit Wirksamkeitsunsicherheit befristen.
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
-- Vorhaben adressiert eine bekannte Pflicht ohne Buerokratieabbau-Pruefung
-- Standardmuster nicht angewandt, obwohl moeglich
+- Vorhaben adressiert eine bekannte Pflicht ohne Buerokratieabbau-Prüfung
+- Standardmuster nicht angewandt, obwohl möglich
 - Wiederholung alter Fehler
 
 ## Trade-off-Matrix
@@ -128,7 +128,7 @@ Vorhaben mit Wirksamkeitsunsicherheit befristen.
 
 ## Typische Fehler in Ressort-Entwuerfen
 
-- Buerokratieabbau-Pruefung gar nicht durchgefuehrt
+- Buerokratieabbau-Prüfung gar nicht durchgefuehrt
 - Standardmuster ignoriert
 - "Buerokratieabbau erfolgt im weiteren Verfahren"
 - Gegenrechnung leer
@@ -137,10 +137,10 @@ Vorhaben mit Wirksamkeitsunsicherheit befristen.
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4, § 7
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- One-in-one-out-Beschluss der Bundesregierung 2015 (Stand zu pruefen)
+- One-in-one-out-Beschluss der Bundesregierung 2015 (Stand zu prüfen)
 - EU Better Regulation REFIT (jeweils aktuelle Ausgabe)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Best-Practice-Kapitel
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
 
 ## Normen und Rechtsprechung
 

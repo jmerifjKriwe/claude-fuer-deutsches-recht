@@ -30,7 +30,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Strafbefehl-Fristen-Speziallage (rot markieren!)
 - **§ 410 I StPO: 2 Wochen Einspruchsfrist** ab Zustellung (Postzustellungsurkunde § 37 StPO i.V.m. §§ 166 ff. ZPO entscheidend!). Ohne Einspruch wird der Strafbefehl rechtskraeftig und einem Urteil gleich (§ 410 III StPO).
 - **Wiedereinsetzung § 44 StPO:** 1 Woche ab Wegfall des Hindernisses, sub-staatlich begruenden + Beweismittel. Versaeumnis durch Verteidiger: Wiedereinsetzung idR ausgeschlossen (Mandant traegt Verteidigerverschulden in der Berufungs-/Revisionsfrist, für Einspruchsfrist § 410 StPO restriktiv).
-- **Einspruchsbeschraenkung § 410 II StPO:** Beschraenkung auf Rechtsfolgenausspruch moeglich (z. B. nur Tagessatzhoehe oder Fahrverbot). Strategisch oft sinnvoll, wenn Schuldspruch unstreitig.
-- **Hauptverhandlungstermin §§ 411 f. StPO:** Bei Einspruch wird Termin anberaumt. § 411 II StPO Vertretung durch Verteidiger mit nachweisbarer Vollmacht moeglich.
-- **Rücknahme § 411 III StPO:** bis Urteilsverkuendung moeglich; Strafbefehl wird rechtskraeftig.
+- **Einspruchsbeschraenkung § 410 II StPO:** Beschraenkung auf Rechtsfolgenausspruch möglich (z. B. nur Tagessatzhoehe oder Fahrverbot). Strategisch oft sinnvoll, wenn Schuldspruch unstreitig.
+- **Hauptverhandlungstermin §§ 411 f. StPO:** Bei Einspruch wird Termin anberaumt. § 411 II StPO Vertretung durch Verteidiger mit nachweisbarer Vollmacht möglich.
+- **Rücknahme § 411 III StPO:** bis Urteilsverkuendung möglich; Strafbefehl wird rechtskraeftig.
 - Risikoampel: Rot bei Fristablauf, drohendem Fahrverbot oder Eintrag BZR/FAER; Gelb bei Beweisproblemen; Gruen bei dokumentierter Entscheidung.

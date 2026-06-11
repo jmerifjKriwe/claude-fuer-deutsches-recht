@@ -25,11 +25,11 @@ description: "Erkennt das Schaufenster-Pattern in Arbeitszeugnissen: einzelne Sp
 
 ## Beispiele
 
-**Beispiel 1 – Klassische Schaufenster-Drift bei Lernbereitschaft:** Satz A: "verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches ueber aeusserst profundes Fachwissen" (Note 1). Satz B unmittelbar darauf: "nahm in eigener Initiative regelmaessig erfolgreich an internen und externen Weiterbildungsseminaren teil" (Note 3). Beide gehoeren zum Themenbereich Fachwissen/Lernen. Drift zwei Stufen, Rot.
+**Beispiel 1 – Klassische Schaufenster-Drift bei Lernbereitschaft:** Satz A: "verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches über aeusserst profundes Fachwissen" (Note 1). Satz B unmittelbar darauf: "nahm in eigener Initiative regelmaessig erfolgreich an internen und externen Weiterbildungsseminaren teil" (Note 3). Beide gehoeren zum Themenbereich Fachwissen/Lernen. Drift zwei Stufen, Rot.
 
 **Beispiel 2 – Drift bei Arbeitsweise und Innovation:** Satz A: "fuehrte er jederzeit vollkommen selbststaendig, aeusserst sorgfaeltig und planvoll durchdacht aus" (Note 1). Satz B: "war Neuem gegenueber aufgeschlossen, fand gute neue Ideen und innovative Ansaetze" (Note 3, da "gute" statt "hervorragende" und keine Steigerungsadverbien). Drift zwei Stufen im weichen Bereich, Rot.
 
-**Beispiel 3 – Drift im Sozialverhalten trotz Top-Erfolg:** Satz A: "Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" (Note 1). Satz B im Sozialteil: "war ein geschaetzter Ansprechpartner, sein persönliches Verhalten war einwandfrei" (Note 3, da "einwandfrei" ohne "stets" und "geschaetzt" ohne Steigerung). Themen unterschiedlich, aber Drift in einem heiklen Bereich, Rot.
+**Beispiel 3 – Drift im Sozialverhalten trotz Top-Erfolg:** Satz A: "Arbeitsergebnisse lagen stets sehr weit über unseren Anforderungen" (Note 1). Satz B im Sozialteil: "war ein geschaetzter Ansprechpartner, sein persönliches Verhalten war einwandfrei" (Note 3, da "einwandfrei" ohne "stets" und "geschaetzt" ohne Steigerung). Themen unterschiedlich, aber Drift in einem heiklen Bereich, Rot.
 
 **Beispiel 4 – Drift eine Stufe:** "aeusserst motiviert die gesetzten Ziele beharrlich zu verfolgen" (Note 1) und kurz darauf "zeigte eine hohe Lernbereitschaft" (Note 2 bis 3). Eine Stufe, Orange.
 

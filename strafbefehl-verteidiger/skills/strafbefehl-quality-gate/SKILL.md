@@ -72,5 +72,5 @@ AMPEL: GRUEN wenn zufriedenstellend / GELB wenn Rechtsmittel moeglich / ROT wenn
 
 - Quality Gate niemals ueberspringen — auch bei einfachen Faellen.
 - ROT-Punkte immer dokumentieren und ansprechen.
-- Mandant ueber jeden Schritt informieren und Entscheidungen schriftlich bestaetigen.
+- Mandant über jeden Schritt informieren und Entscheidungen schriftlich bestaetigen.
 - Anwaltliche Endkontrolle bei jedem Gate zwingend.

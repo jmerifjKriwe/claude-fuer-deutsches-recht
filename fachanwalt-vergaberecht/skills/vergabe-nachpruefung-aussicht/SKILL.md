@@ -79,11 +79,11 @@ description: "Aussichten eines Vergabenachprüfungsverfahrens bewerten: Anwalt o
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Bieter prueft Erfolgsaussichten eines Nachpruefungsantrags | Erfolgsaussichten-Memo nach Primaer-Sekundaer-Schema; Template unten |
+| Standard — Bieter prüft Erfolgsaussichten eines Nachpruefungsantrags | Erfolgsaussichten-Memo nach Primaer-Sekundaer-Schema; Template unten |
 | Variante A — Vergabeverstoß klar aber Auftrag strategisch wichtig | Ruege und Verhandlung mit Vergabestelle vor Antragstellung |
 | Variante B — Beweislage duenn nur Indizien für Fehler | Akteneinsicht § 163 GWB beantragen bevor Antrag gestellt wird |
 | Variante C — Mandant will schnellen Schadensersatz nicht Auftrag | Schadensersatzklage § 179 GWB als Alternative zum Nachpruefungsantrag |
@@ -175,7 +175,7 @@ Der Antragsgegner haette das Angebot gemaess § 60 Abs. 3 VgV
 ausschliessen muessen.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -254,7 +254,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Triage — Bevor losgelegt wird, klaere:
 
 1. Ist Ruege nach § 160 Abs. 3 GWB rechtzeitig erhoben worden?
-2. Hat Bieter Antragsbefugnis (am Verfahren beteiligt oder haette beteiligt sein koennen)?
+2. Hat Bieter Antragsbefugnis (am Verfahren beteiligt oder haette beteiligt sein können)?
 3. Welcher Fehler ist konkret nachweisbar (Wertung / Eignung / Diskriminierung / Transparenz)?
 4. Liegt der Verstoss kausal für die Nichtberucksichtigung des Mandanten?
 5. Werden Chancen geschaetzt: "Keine konkreten Aussichten" → Schadensersatz § 181 GWB statt NPA?
@@ -296,8 +296,8 @@ Datum Memo: [TT.MM.JJJJ]
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

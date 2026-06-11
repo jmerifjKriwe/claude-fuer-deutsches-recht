@@ -18,7 +18,7 @@ description: "Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung ei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand für Geschaedigten in einem Vorwurf nach § 263 Abs. 1 StGB ausserhalb der Qualifikationen. Taeuschung ueber Tatsachen, Irrtum, Vermoegensverfuegung und Vermoegensschaden inklusive Stoffgleichheit und Bereicherungsabsicht. Pruefraster zur Subsumtion, typische Verteidigungsansaetze (kein Schaden, kein Irrtum, kein Vorsatz), Trade-offs zwischen Einstellung Schweigen Einlassung und Verstaendigung. Output Memo für Akte und Mandanten plus Pruefraster für Plaedoyer.
+**Fokus:** Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand für Geschaedigten in einem Vorwurf nach § 263 Abs. 1 StGB ausserhalb der Qualifikationen. Taeuschung über Tatsachen, Irrtum, Vermoegensverfuegung und Vermoegensschaden inklusive Stoffgleichheit und Bereicherungsabsicht. Pruefraster zur Subsumtion, typische Verteidigungsansaetze (kein Schaden, kein Irrtum, kein Vorsatz), Trade-offs zwischen Einstellung Schweigen Einlassung und Verstaendigung. Output Memo für Akte und Mandanten plus Pruefraster für Plaedoyer.
 
 ### Betrug § 263 StGB — Grundtatbestand
 
@@ -32,31 +32,31 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 
 - Anklage- bzw. Ermittlungsschrift, mindestens Tatvorwurf und Aktenzeichen.
 - Ggf. Strafanzeige, Beweismittel, Vernehmungsprotokolle.
-- Wirtschaftliche Lage Mandant, Vorstrafen, Bereich Wiedergutmachung moeglich.
+- Wirtschaftliche Lage Mandant, Vorstrafen, Bereich Wiedergutmachung möglich.
 - Bei Vermoegenden: Strafzumessungsrelevante Frage einer Schadenswiedergutmachung (§ 46a StGB).
 
 ## Tatbestand und Auslegung
 
 ### Objektiver Tatbestand
 
-- **Taeuschung ueber Tatsachen.** Tatsache ist jeder konkrete dem Beweis zugaengliche Vorgang oder Zustand. Werturteile reichen nicht. Konkludente Taeuschung moeglich (z. B. Bestellung in der Gastronomie = konkludente Erklaerung der Zahlungswilligkeit, BGH staendige Rspr.).
+- **Taeuschung über Tatsachen.** Tatsache ist jeder konkrete dem Beweis zugaengliche Vorgang oder Zustand. Werturteile reichen nicht. Konkludente Taeuschung möglich (z. B. Bestellung in der Gastronomie = konkludente Erklaerung der Zahlungswilligkeit, BGH staendige Rspr.).
 - **Irrtum.** Positive Fehlvorstellung beim Getaeuschten. Sachgedankliches Mitbewusstsein ausreichend (BGH staendige Rspr. zum Tankstellen- und Mensa-Fall).
 - **Vermoegensverfuegung.** Jedes Tun, Dulden oder Unterlassen, das unmittelbar zu einer Vermoegensminderung fuehrt.
 - **Vermoegensschaden.** Wirtschaftlicher Betrachtung: Saldierung der Vermoegenslagen vor und nach der Verfuegung. Schadensgleiche konkrete Vermoegensgefaehrdung anerkannt bei Eingehungsbetrug (BVerfG zu Wirtschaftsstrafrecht 2010, 2 BvR 2559/08 — Schadensbezifferung).
 
 ### Subjektiver Tatbestand
 
-- **Vorsatz** bezueglich aller objektiven Merkmale, einschliesslich Schaden (Eventualvorsatz reicht).
+- **Vorsatz** bezüglich aller objektiven Merkmale, einschliesslich Schaden (Eventualvorsatz reicht).
 - **Bereicherungsabsicht.** Direkter Vorsatz auf den eigenen oder fremden Vermoegensvorteil. **Stoffgleichheit** zwischen Schaden und Vorteil zwingend.
 - **Rechtswidrigkeit der erstrebten Bereicherung.** Bei fehlendem materiellem Anspruch.
 
 ## Praktikertipps Verteidigung
 
-- **Schadenshoehe pruefen.** Schadensberechnung ist Achillesferse der Anklage. Bei Eingehungsbetrug: Realer Marktwert der erlangten Gegenleistung zum Zeitpunkt der Verfuegung? Bei einer Gefaehrdung: Konkretisierung verlangen.
-- **Irrtum dokumentieren.** War die getaeuschte Person ueberhaupt einem Irrtum unterlegen? Bei behoerdlicher Routine-Pruefung kann Irrtum fehlen.
+- **Schadenshoehe prüfen.** Schadensberechnung ist Achillesferse der Anklage. Bei Eingehungsbetrug: Realer Marktwert der erlangten Gegenleistung zum Zeitpunkt der Verfuegung? Bei einer Gefaehrdung: Konkretisierung verlangen.
+- **Irrtum dokumentieren.** War die getaeuschte Person ueberhaupt einem Irrtum unterlegen? Bei behoerdlicher Routine-Prüfung kann Irrtum fehlen.
 - **Vorsatz angreifen.** Bei Eingehungsbetrug fehlt oft die Erkenntnis der Nicht-Leistungsfaehigkeit zum Zeitpunkt des Vertragsschlusses. Buchhaltungsstand, Kontostaende, Auftragsbestand sichten.
-- **Schadenswiedergutmachung.** § 46a StGB Taeter-Opfer-Ausgleich oder Schadenswiedergutmachung — Strafrahmenverschiebung moeglich.
-- **Verstaendigung § 257c StPO** pruefen, wenn Schuld eindeutig.
+- **Schadenswiedergutmachung.** § 46a StGB Taeter-Opfer-Ausgleich oder Schadenswiedergutmachung — Strafrahmenverschiebung möglich.
+- **Verstaendigung § 257c StPO** prüfen, wenn Schuld eindeutig.
 
 ## Trade-off-Matrix
 
@@ -72,17 +72,17 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 
 - **§ 263 StGB / § 246 StGB Unterschlagung.** Bei Sachdelikt: § 246 subsidiaer, § 263 vorrangig wenn Taeuschung.
 - **§ 263 StGB / § 266 StGB Untreue.** Untreue greift bei Verletzung einer Vermoegensbetreuungspflicht ohne Aussentaeuschung; bei Taeuschung Dritter regelmaessig § 263.
-- **§ 263 StGB / § 267 StGB Urkundenfaelschung.** Tateinheit moeglich, wenn Faelschung Tatmittel war.
+- **§ 263 StGB / § 267 StGB Urkundenfaelschung.** Tateinheit möglich, wenn Faelschung Tatmittel war.
 - **§ 263 StGB / § 264 StGB Subventionsbetrug.** § 264 ist Spezialnorm bei Subventionssachverhalt.
-- **§ 263 StGB / § 370 AO Steuerhinterziehung.** Konkurrenz; Tateinheit moeglich bei Doppeltaeuschung.
+- **§ 263 StGB / § 370 AO Steuerhinterziehung.** Konkurrenz; Tateinheit möglich bei Doppeltaeuschung.
 
 ## Strafzumessung und Folgen
 
 - **Strafrahmen** Freiheitsstrafe bis fuenf Jahre oder Geldstrafe.
 - **Strafzumessung § 46 StGB:** Schadenshoehe, Anzahl Geschaedigter, Tatplanung, Vorstrafen, Gestaendnis, Wiedergutmachung.
 - **Einziehung § 73 StGB** Tatertrag (das aus der Tat Erlangte). § 73c StGB Wertersatz bei Konsumtion.
-- **§ 73d StGB erweiterte Einziehung** bei rechtswidrigen Vermoegen unklarer Herkunft (Voraussetzungen seit Reform 2017 herabgesetzt).
-- **Berufsverbot § 70 StGB** bei berufsbezogener Tat moeglich.
+- **§ 73d StGB erweiterte Einziehung** bei rechtswidrigen Vermögen unklarer Herkunft (Voraussetzungen seit Reform 2017 herabgesetzt).
+- **Berufsverbot § 70 StGB** bei berufsbezogener Tat möglich.
 - **Schadensersatz nach § 823 BGB** parallel zivilrechtlich, ggf. Adhaesionsverfahren § 403 StPO.
 - **Eintrag im BZR** ab 90 Tagessaetzen Geldstrafe nicht mehr im Fuehrungszeugnis nach § 32 BZRG.
 
@@ -90,7 +90,7 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 
 ### Schutzschrift Schadensbestreiten
 
-"Der bezifferte Vermoegensschaden in Hoehe von [Betrag] EUR wird bestritten. Eine wirtschaftliche Saldierung der Vermoegenslagen vor und nach der vermeintlichen Verfuegung der Geschaedigten ergibt nach Massgabe der staendigen Rechtsprechung des BGH zur Schadensberechnung beim Eingehungsbetrug einen Saldo von hoechstens [Betrag] EUR. Der Beschuldigte regt die Einholung eines wirtschaftspruefungsfaehigen Sachverstaendigengutachtens an."
+"Der bezifferte Vermoegensschaden in Höhe von [Betrag] EUR wird bestritten. Eine wirtschaftliche Saldierung der Vermoegenslagen vor und nach der vermeintlichen Verfuegung der Geschaedigten ergibt nach Massgabe der staendigen Rechtsprechung des BGH zur Schadensberechnung beim Eingehungsbetrug einen Saldo von hoechstens [Betrag] EUR. Der Beschuldigte regt die Einholung eines wirtschaftspruefungsfaehigen Sachverstaendigengutachtens an."
 
 ### Antrag § 46a StGB
 
@@ -130,8 +130,8 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 ## Quellen Stand 06/2026
 
 - § 263 StGB (Stand 06/2026) im Wortlaut unter https://www.gesetze-im-internet.de/stgb/__263.html.
-- BGH staendige Rspr. zum Schaden beim Eingehungsbetrug (vor Ausgabe Az. ueber dejure.org verifizieren).
+- BGH staendige Rspr. zum Schaden beim Eingehungsbetrug (vor Ausgabe Az. über dejure.org verifizieren).
 - BVerfG 23.06.2010 — 2 BvR 2559/08 (Schadensbezifferung beim Wirtschaftsstrafrecht). Volltext: https://www.bundesverfassungsgericht.de/entscheidungen/rs20100623_2bvr255908.html.
 - § 46a StGB Taeter-Opfer-Ausgleich; §§ 73, 73c, 73d StGB Einziehung.
 - § 78 StGB Verjährung; § 147 StPO Akteneinsicht.
-- Pruefung von Literatur (Kommentare, Aufsaetze) nur bei lizenziertem Zugriff; siehe references/zitierweise.md.
+- Prüfung von Literatur (Kommentare, Aufsaetze) nur bei lizenziertem Zugriff; siehe references/zitierweise.md.

@@ -7,7 +7,7 @@ description: "Checkliste für die Sammlung von Beweismitteln vor Klage. Vertrag 
 
 ## Worum geht es?
 
-Im Zivilprozess gilt: Wer eine Tatsache behauptet, muss sie beweisen koennen (Beweislast). Bevor Sie Klage einreichen, sollten Sie Ihre Beweise zusammenstellen und sortieren. Eine systematische Sammlung beschleunigt die Klageschrift, vermeidet luckenhaften Vortrag und macht Ihnen klar, wo Ihre Beweis-Schwachstellen sind.
+Im Zivilprozess gilt: Wer eine Tatsache behauptet, muss sie beweisen können (Beweislast). Bevor Sie Klage einreichen, sollten Sie Ihre Beweise zusammenstellen und sortieren. Eine systematische Sammlung beschleunigt die Klageschrift, vermeidet luckenhaften Vortrag und macht Ihnen klar, wo Ihre Beweis-Schwachstellen sind.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -88,7 +88,7 @@ Sind koerperliche Objekte relevant?
 - Beschaedigtes Auto (Fotos vor Reparatur!).
 - Wasserschaden in Wohnung.
 
-Machen Sie Fotos mit Datum/Zeit-Stempel. Wenn moeglich: durch Zeuge bestaetigen lassen.
+Machen Sie Fotos mit Datum/Zeit-Stempel. Wenn möglich: durch Zeuge bestaetigen lassen.
 
 ### Schritt 5 — Sachverstaendige
 
@@ -126,7 +126,7 @@ Wo ist Ihre Beweis-Lage duenn?
 
 Wenn Schwachstellen: Sammeln Sie mehr (Email anfragen, Zeugen finden, Indizien stellen).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Originale aufbewahren**: Im Prozess werden Originale teilweise verlangt. Kopien reichen am Anfang, aber halten Sie das Original bereit.
 - **Datenschutz**: Bei Email/Chats: Speichern für eigene Zwecke ist okay; weitergeben darf nur, wer Berechtigung hat.
@@ -135,7 +135,7 @@ Wenn Schwachstellen: Sammeln Sie mehr (Email anfragen, Zeugen finden, Indizien s
 
 ## Typische Fehler
 
-- "Ich kann das alles vor Gericht erklaeren." → Im Schriftsatz muessen Sie es **vortragen** und Beweis benennen. Erklaerung im Termin reicht nicht für den Beweisantrag.
+- "Ich kann das alles vor Gericht erklaeren." → Im Schriftsatz müssen Sie es **vortragen** und Beweis benennen. Erklaerung im Termin reicht nicht für den Beweisantrag.
 - "Email reicht als Beweis für alles." → Email ist Urkundenbeweis nur eingeschraenkt — Authentizitaet kann bestritten werden.
 - "Zeuge ist mein Ehepartner, der weiss alles." → Naher Angehoeriger hat Zeugnis-Verweigerungsrecht (§ 383 ZPO) und Aussagewert wird kritisch beurteilt.
 - "Ich erinnere mich, dass ..." → Eigene Aussage hat geringen Beweiswert.

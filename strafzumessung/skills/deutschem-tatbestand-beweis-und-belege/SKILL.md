@@ -34,10 +34,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafzumessung-Tatbestand-Beweisbausteine
 - **Strafzumessungstatsachen § 46 II StGB** zerlegen in: Beweggruende, Ziele, gefasster Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung, verschuldete Auswirkungen, Vorleben, persönliche/wirtschaftliche Verhaeltnisse, Nachtatverhalten (z. B. Schadenswiedergutmachung, Gestaendnis).
-- **Doppelverwertungsverbot § 46 III StGB** beachten: Tatbestandsmerkmale duerfen nicht zugleich strafschaerfend gewertet werden.
+- **Doppelverwertungsverbot § 46 III StGB** beachten: Tatbestandsmerkmale dürfen nicht zugleich strafschaerfend gewertet werden.
 - **Beleg für Strafzumessungstatsachen:** Bundeszentralregisterauszug (Vorstrafen), Verkehrszentralregister (FAER), Einkommensnachweis (Tagessatzhoehe), Schuldnerverzeichnis, BAFOEG-/Hartz-IV-Bescheid bei finanzieller Lage, Therapieberichte bei Sucht.
-- **Regelbeispiele § 243, § 263 III StGB** etc.: Indizwirkung, aber widerlegbar; auch wenn nicht erfuellt: unbenannter schwerer Fall moeglich.
-- **Strafrahmenverschiebung pruefen:** § 21 StGB (verminderte Schuldfaehigkeit), § 23 II (Versuch), § 27 II 2 (Beihilfe), § 13 II StGB (Unterlassen).
+- **Regelbeispiele § 243, § 263 III StGB** etc.: Indizwirkung, aber widerlegbar; auch wenn nicht erfuellt: unbenannter schwerer Fall möglich.
+- **Strafrahmenverschiebung prüfen:** § 21 StGB (verminderte Schuldfaehigkeit), § 23 II (Versuch), § 27 II 2 (Beihilfe), § 13 II StGB (Unterlassen).
 - **Nachtatverhalten:** Gestaendnis vor Hauptverhandlung wirkt staerker als in der Schlussverhandlung; § 46a StGB TOA strukturieren.
 - **Beweisstruktur** für Tagessatzhoehe § 40 II StGB: monatliches Nettoeinkommen, Unterhaltslasten, ggf. Schaetzung § 40 III StGB.
 

@@ -3,7 +3,7 @@ name: abwaegungsgesetz-und-gewichtsformel-alexy
 description: "Robert Alexys Gewichtsformel als praktisches Werkzeug fuer die Angemessenheits-Pruefung Stufe 4. Mit Triadenlogik leicht/mittel/schwer, Quotientenberechnung, Anwendung auf BVerfG-Faelle (Vorratsdaten, Klimaschutz, Bundesnotbremse) und Reflexion ueber Grenzen der Formalisierung."
 ---
 
-# Abwaegungsgesetz und Gewichtsformel — Alexys Werkzeug fuer Stufe 4
+# Abwaegungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4
 
 ## Zweck dieses Skills
 
@@ -65,15 +65,15 @@ Praktischer mit triadischer Skala:
 - **Eingriff in Art 2 II, 6 I GG (I_i):** schwer (Schulschliessungen, Kontaktbeschraenkung).
 - **Zweck Lebensschutz (W_j):** sehr schwer.
 - **Wahrscheinlichkeit (P_j):** mittel — dynamische Wissenslage.
-- **Ergebnis:** G_ij > 1; Massnahme haelt — Einschaetzungsspielraum bei Unsicherheit.
+- **Ergebnis:** G_ij > 1; Maßnahme haelt — Einschaetzungsspielraum bei Unsicherheit.
 
-## Triadische Skala — Faustregeln fuer Eingriffsintensitaet
+## Triadische Skala — Faustregeln für Eingriffsintensitaet
 
 | Intensitaet | Indikatoren |
 |---|---|
 | **leicht (l = 1)** | Eingriff revidierbar, kurzer Zeitraum, geringer Personenkreis, kein Eingriff in Wuerde- oder Wesensgehaltsnaehe |
 | **mittel (m = 2)** | Mittelfristige Bindung, mittlerer Personenkreis, beruflich/wirtschaftlich spuerbar |
-| **schwer (s = 4)** | Irreversibel, grosser Personenkreis, hohe Streubreite, Wesensgehalts-/Wuerdenaehe |
+| **schwer (s = 4)** | Irreversibel, großer Personenkreis, hohe Streubreite, Wesensgehalts-/Wuerdenaehe |
 
 ## Triadische Skala — Wichtigkeit
 
@@ -85,10 +85,10 @@ Praktischer mit triadischer Skala:
 
 ## Wahrscheinlichkeit — Faustregeln
 
-- **Sicher (1.0):** Mit nahezu Gewissheit foerdert die Massnahme den Zweck (z. B. Anschnallpflicht senkt Verletzungen).
+- **Sicher (1.0):** Mit nahezu Gewissheit foerdert die Maßnahme den Zweck (z. B. Anschnallpflicht senkt Verletzungen).
 - **Wahrscheinlich (0.5):** Empirisch ueberwiegend belegt; Restzweifel bleiben.
 - **Unsicher (0.25):** Spekulativ; Vorhersage ohne belastbare Datengrundlage.
-- **Negativ (-0.5):** Massnahme wirkt sogar kontraproduktiv. (Stufe 2 — Geeignetheit — scheitert dann schon.)
+- **Negativ (-0.5):** Maßnahme wirkt sogar kontraproduktiv. (Stufe 2 — Geeignetheit — scheitert dann schon.)
 
 ## Worked Example
 
@@ -105,7 +105,7 @@ Praktischer mit triadischer Skala:
 | P_j (Aufklaerungserfolg) | mittel | 0.5 |
 | **Produkt** |  | **2** |
 
-G_ij = 2 / 16 = 0.125. Eingriff klar unverhaeltnismaessig. **Folge:** Massnahme scheitert auf Stufe 4. Gesetzgeber muesste Zweckgewicht erhoehen (z. B. Beschraenkung auf schwere Straftaten + Richtervorbehalt + Loeschfrist).
+G_ij = 2 / 16 = 0.125. Eingriff klar unverhaeltnismaessig. **Folge:** Maßnahme scheitert auf Stufe 4. Gesetzgeber muesste Zweckgewicht erhoehen (z. B. Beschraenkung auf schwere Straftaten + Richtervorbehalt + Loeschfrist).
 
 ## Grenzen der Formel
 
@@ -118,8 +118,8 @@ G_ij = 2 / 16 = 0.125. Eingriff klar unverhaeltnismaessig. **Folge:** Massnahme 
 | Situation | Formel sinnvoll? |
 |---|---|
 | Klausur mit Zeitdruck | ja — strukturiert Argumentation in 3 Saetzen |
-| Schriftsatz mit umfangreicher Abwaegung | ja — als methodisches Geruest fuer den Abwaegungsteil |
-| Wuerde- oder Wesensgehalts-Beruehrung | nein — Formel ueberspringen, absolute Grenze pruefen |
+| Schriftsatz mit umfangreicher Abwaegung | ja — als methodisches Geruest für den Abwaegungsteil |
+| Wuerde- oder Wesensgehalts-Beruehrung | nein — Formel ueberspringen, absolute Grenze prüfen |
 | Beweisrechtliche Fragen | nein — Formel ist materiellrechtlich, nicht prozessual |
 
 ## Anschluss

@@ -3,7 +3,7 @@ name: schlachthof-schutzbedarf-pruefen
 description: "Schlachthof: Schutzbedarf prüfen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Schlachthof Schutzbedarf Pruefen
+# Schlachthof Schutzbedarf Prüfen
 
 ## Arbeitsweg
 

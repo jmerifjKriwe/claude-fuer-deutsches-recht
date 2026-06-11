@@ -7,7 +7,7 @@ description: "Fristbeginn ab Zustellung. Wie Zustellung erfolgt gelber Umschlag 
 
 ## Worum geht es?
 
-Die meisten Prozessfristen beginnen mit der **Zustellung** eines Schriftstuecks (Klage, Urteil, Beschluss). Sie muessen also wissen, **wann genau** zugestellt wurde — sonst kennen Sie das Frist-Ende nicht. Diese Skill zeigt, wie Zustellung dokumentiert wird.
+Die meisten Prozessfristen beginnen mit der **Zustellung** eines Schriftstuecks (Klage, Urteil, Beschluss). Sie müssen also wissen, **wann genau** zugestellt wurde — sonst kennen Sie das Frist-Ende nicht. Diese Skill zeigt, wie Zustellung dokumentiert wird.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -35,7 +35,7 @@ Die meisten Prozessfristen beginnen mit der **Zustellung** eines Schriftstuecks 
 
 ### Schritt 1 — Gelber Umschlag empfangen
 
-Das Gericht stellt formell ueber Post zu. Sie bekommen einen **gelben Umschlag** mit Datums-Vermerk durch den Postzusteller:
+Das Gericht stellt formell über Post zu. Sie bekommen einen **gelben Umschlag** mit Datums-Vermerk durch den Postzusteller:
 
 - Zustelldatum auf dem Umschlag.
 - Empfaenger-Adresse.
@@ -43,7 +43,7 @@ Das Gericht stellt formell ueber Post zu. Sie bekommen einen **gelben Umschlag**
 
 **Bewahren Sie den Umschlag auf**! Datum ist Beweis.
 
-### Schritt 2 — Inhalt pruefen
+### Schritt 2 — Inhalt prüfen
 
 - Klage, Urteil oder Beschluss?
 - Aktenzeichen.
@@ -67,13 +67,13 @@ Wenn Sie nicht zuhause waren:
 - Datum des Einlegens = Zustellung.
 - Vermerk auf Umschlag oder Benachrichtigung.
 
-Auch wenn Sie den Brief erst Tage spaeter herausnehmen: Frist begann am Tag des Einlegens.
+Auch wenn Sie den Brief erst Tage später herausnehmen: Frist begann am Tag des Einlegens.
 
 ### Schritt 5 — Zustellungs-Beleg vom Gericht
 
-Sie koennen Akteneinsicht nehmen: Im Akt liegt **Postzustellungsurkunde** (PZU) — der Zusteller hat Datum dokumentiert.
+Sie können Akteneinsicht nehmen: Im Akt liegt **Postzustellungsurkunde** (PZU) — der Zusteller hat Datum dokumentiert.
 
-Bei Streit ueber Zustellungs-Datum: PZU ist Beweis.
+Bei Streit über Zustellungs-Datum: PZU ist Beweis.
 
 ### Schritt 6 — Was bei Zustellungs-Maengeln?
 
@@ -93,7 +93,7 @@ Wenn Sie spaet Kenntnis erlangen (z. B. Brief lag wochenlang im Urlaubs-Briefkas
 
 Ausnahme: Bei unverschuldetem Verhindertsein evtl. Wiedereinsetzung (Skill `wiedereinsetzung-frist-233-zpo`).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Gelber Umschlag aufbewahren** — Beweis.
 - **Datum sofort notieren**.

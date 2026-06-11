@@ -20,7 +20,7 @@ Macht den Sprung vom abstrakten Vorhaben zur ressortspezifischen Arbeitsumgebung
 |---|---|---|
 | BMF | Finanzen | Steuern; Haushalt; Finanzmarkt; Zoll; Geldwaesche |
 | BMI | Innern | Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; öffentlicher Dienst |
-| AA | Auswaertiges Amt | Voelkerrecht; Konsular; Aussenwirtschaft; EU-Verfahren; Sanktionen |
+| AA | Auswaertiges Amt | Voelkerrecht; Konsular; Außenwirtschaft; EU-Verfahren; Sanktionen |
 | BMVg | Verteidigung | Wehrrecht; Beschaffung; NATO; Wehrtechnik; Reserve |
 | BMWE | Wirtschaft und Energie | Energie und Netze; Erneuerbare; Industrie; Kartellrecht |
 | BMFTR | Forschung; Technologie; Raumfahrt | Hochschule; Raumfahrt; Forschungsfoerderung; KI; Biotech |

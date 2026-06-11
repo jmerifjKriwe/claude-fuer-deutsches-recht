@@ -7,7 +7,7 @@ description: "Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die ne
 
 ## Wann dieses Modul hilft
 
-- In der Schwellwertanalyse einer DSFA-Trigger-Pruefung, wenn weder Art. 35 Abs. 3 noch Abs. 4 DSGVO greift
+- In der Schwellwertanalyse einer DSFA-Trigger-Prüfung, wenn weder Art. 35 Abs. 3 noch Abs. 4 DSGVO greift
 - Wenn die Aufsichtsbehoerde eine Begruendung der DSFA-Entscheidung verlangt
 - Zur Vorpruefung von KI-, Profiling- oder Beschaeftigtendaten-Verarbeitungen
 - Wenn die DSB-Stellungnahme eine EDSA-Konformitaet anfordert
@@ -22,21 +22,21 @@ description: "Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die ne
 ## Die neun WP-248-Kriterien
 
 1. Bewertung oder Scoring (einschliesslich Profiling und Prognose)
-2. Automatisierte Entscheidung mit rechtlicher oder aehnlich erheblicher Wirkung (Art. 22 DSGVO)
+2. Automatisierte Entscheidung mit rechtlicher oder ähnlich erheblicher Wirkung (Art. 22 DSGVO)
 3. Systematische Ueberwachung
 4. Sensible Daten oder hoechstpersönliche Daten (Art. 9, Art. 10 DSGVO; auch Standortdaten, Finanzdaten, Kommunikationsinhalte)
 5. Verarbeitung in grossem Umfang (Anzahl Betroffene, Datenmenge, Dauer, geografische Reichweite)
 6. Abgleich oder Zusammenfuehrung von Datensaetzen aus unterschiedlichen Quellen
-7. Daten ueber schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte, Asylsuchende, aeltere Menschen)
+7. Daten über schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte, Asylsuchende, aeltere Menschen)
 8. Innovative Nutzung oder Anwendung neuer technologischer oder organisatorischer Loesungen (KI, Biometrie, IoT)
 9. Wenn die Verarbeitung selbst die Betroffenen daran hindert, ein Recht auszuueben oder eine Dienstleistung in Anspruch zu nehmen
 
 ## Ablauf 6-Schritte-Methodik
 
-1. **Verarbeitungsbeschreibung.** Kurze, faktenfeste Beschreibung der Verarbeitung; ohne diese ist die WP-248-Pruefung Spekulation.
+1. **Verarbeitungsbeschreibung.** Kurze, faktenfeste Beschreibung der Verarbeitung; ohne diese ist die WP-248-Prüfung Spekulation.
 2. **Verhaeltnismaessigkeitspruefung.** Erste Plausibilitaet: Reicht die Verarbeitung in eines der neun Felder hinein oder nicht?
-3. **Risikoanalyse Kriterien.** Jedes der neun Kriterien einzeln pruefen und mit ja oder nein beantworten, jeweils mit kurzer Begruendung. Wo Grenzfaelle bestehen, das Pro und Contra dokumentieren.
-4. **Massnahmen.** Pruefen ob bereits geplante Massnahmen ein Kriterium so entkraeften, dass es nicht mehr greift (z. B. echte Anonymisierung statt Pseudonymisierung kann das Kriterium besondere Kategorien entfallen lassen).
+3. **Risikoanalyse Kriterien.** Jedes der neun Kriterien einzeln prüfen und mit ja oder nein beantworten, jeweils mit kurzer Begruendung. Wo Grenzfaelle bestehen, das Pro und Contra dokumentieren.
+4. **Maßnahmen.** Prüfen ob bereits geplante Maßnahmen ein Kriterium so entkraeften, dass es nicht mehr greift (z. B. echte Anonymisierung statt Pseudonymisierung kann das Kriterium besondere Kategorien entfallen lassen).
 5. **Restrisiko / Schwellwert.** Zaehlung der erfuellten Kriterien:
  - 0 Kriterien — DSFA voraussichtlich entbehrlich
  - 1 Kriterium — Grenzfall, schriftliche Begruendung der Entscheidung
@@ -75,7 +75,7 @@ Unterschrift Verantwortlicher: ____________________
 Unterschrift DSB: ____________________
 ```
 
-## Indikatoren für Kriterium 5 (grosser Umfang)
+## Indikatoren für Kriterium 5 (großer Umfang)
 
 - Anzahl Betroffener absolut und relativ zur Bevoelkerung der Zielregion.
 - Datenmenge pro Betroffenem (Datensaetze, Bytes, Dokumente).
@@ -94,9 +94,9 @@ Unterschrift DSB: ____________________
 
 ## Typische Fehler
 
-- Kriterium 5 (grosser Umfang) wird ohne Zahlen behauptet — EDSA verlangt konkrete Indikatoren.
+- Kriterium 5 (großer Umfang) wird ohne Zahlen behauptet — EDSA verlangt konkrete Indikatoren.
 - Kriterium 4 wird auf Art. 9 reduziert; Standort-, Finanz- und Kommunikationsdaten werden uebersehen.
-- Kriterium 8 wird auf KI beschraenkt — auch neue organisatorische Loesungen koennen einschlaegig sein.
+- Kriterium 8 wird auf KI beschraenkt — auch neue organisatorische Loesungen können einschlaegig sein.
 - Begruendung wird in Floskeln gehalten — Aufsicht erwartet faktenfeste Subsumtion.
 - Die Zahl 2 wird als starre Schwelle verstanden — Art. 35 Abs. 1 DSGVO kennt auch das Einzelkriterium, wenn dessen Intensitaet hoch ist.
 - Negativabgrenzung fehlt — wenn Kriterium nicht erfuellt ist, muss auch das begruendet werden.
@@ -108,6 +108,6 @@ Unterschrift DSB: ____________________
 - Art. 35 Abs. 1, 2, 3 DSGVO
 - Art. 70 Abs. 1 lit. e DSGVO
 - EDSA-Stellungnahme 28/2024 zu KI-Modellen — Auslegungshilfe für Kriterium 8
-- BfDI- und Landeslisten (live pruefen)
+- BfDI- und Landeslisten (live prüfen)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle

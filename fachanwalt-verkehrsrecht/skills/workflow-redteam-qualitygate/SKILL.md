@@ -33,7 +33,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Verkehrsrechts-Red-Team-Checks
 - **Saeule-spezifischer Check:**
  - Verkehrszivilrecht: § 195 BGB Verjährung gepruefft? § 254 BGB Mitverschulden? § 17 StVG Quotenbildung?
- - OWi: § 67 OWiG 2 Wochen? § 26 III StVG Verjährung? Messverfahren-Pruefung dokumentiert?
+ - OWi: § 67 OWiG 2 Wochen? § 26 III StVG Verjährung? Messverfahren-Prüfung dokumentiert?
  - Verkehrsstraf: § 410 / § 314 / § 341, § 345 StPO Fristen? Schweigerecht § 136 StPO belehrt?
  - FeV: Anhörungsfrist FE-Behörde? MPU-Vorlagefrist? Wiedererteilungsfristen § 20 FeV?
  - Versicherung: § 30 VVG unverzueglich Anzeige? § 28 VVG Leistungsfreiheit-Risiko?

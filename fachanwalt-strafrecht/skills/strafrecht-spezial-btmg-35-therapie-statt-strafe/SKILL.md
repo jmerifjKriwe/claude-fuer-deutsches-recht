@@ -46,15 +46,15 @@ Der Skill ist relevant für Strafverteidiger nach Urteil (Vollstreckungsphase) u
 | Reststrafe | § 35 BtMG anwendbar? |
 |---|---|
 | bis 2 Jahre | ja |
-| ueber 2 Jahre | nein; ggf. Halbstrafenaussetzung § 57 Abs. 2 StGB pruefen |
-| Gesamtfreiheitsstrafe ueber 2 Jahre, Reststrafe nach Teil-Verbuessung unter 2 Jahre | § 35 Abs. 1 Satz 1 Halbsatz 2 BtMG: ja, wenn nicht laenger als 2 Jahre noch zu vollstrecken sind |
+| über 2 Jahre | nein; ggf. Halbstrafenaussetzung § 57 Abs. 2 StGB prüfen |
+| Gesamtfreiheitsstrafe über 2 Jahre, Reststrafe nach Teil-Verbuessung unter 2 Jahre | § 35 Abs. 1 Satz 1 Halbsatz 2 BtMG: ja, wenn nicht laenger als 2 Jahre noch zu vollstrecken sind |
 
 Therapiezeitraum: regelmaessig sechs bis zwoelf Monate stationaer, ggf. ambulante Nachsorge.
 
 ## Praktikertipps der Verteidigung
 
-- **Vor Urteil:** Therapieanbahnung gehoert in die Strafzumessungsphase. Mit Drogenberatungsstelle Kontakt aufnehmen, Therapieplatz vorab pruefen. Im Plaedoyer auf § 35 BtMG verweisen — beeinflusst Strafzumessung positiv (Therapiebereitschaft = Milderung).
-- **Strafe von hoechstens zwei Jahren erreichen:** Das ist die Brennlinie. Strafe ueber zwei Jahre macht § 35 BtMG bis zur Strafresteinleitung unbrauchbar. Verstaendigung § 257c StPO entsprechend ansetzen.
+- **Vor Urteil:** Therapieanbahnung gehoert in die Strafzumessungsphase. Mit Drogenberatungsstelle Kontakt aufnehmen, Therapieplatz vorab prüfen. Im Plaedoyer auf § 35 BtMG verweisen — beeinflusst Strafzumessung positiv (Therapiebereitschaft = Milderung).
+- **Strafe von hoechstens zwei Jahren erreichen:** Das ist die Brennlinie. Strafe über zwei Jahre macht § 35 BtMG bis zur Strafresteinleitung unbrauchbar. Verstaendigung § 257c StPO entsprechend ansetzen.
 - **Vollstreckungsantrag:** Schriftsatz an die Vollstreckungsbehoerde (StA) mit (1) Suchtdiagnose, (2) Therapiezusage einer anerkannten Einrichtung, (3) konkretem Therapiebeginn, (4) Kostenuebernahme durch Krankenversicherung oder Rentenversicherungstraeger geklaert.
 - **Therapiezusage erforderlich:** Ohne konkrete Zusage einer anerkannten Einrichtung wird der Antrag regelmaessig abgelehnt. Ambulante Therapie ist seltener akzeptiert; stationaer ueblich.
 - **Anrechnung:** Therapiezeit wird zu hoechstens zwei Dritteln auf die Strafe angerechnet (§ 36 Abs. 1 BtMG).
@@ -72,7 +72,7 @@ Therapiezeitraum: regelmaessig sechs bis zwoelf Monate stationaer, ggf. ambulant
 
 ## Konkurrenzen
 
-- § 35 BtMG zu § 57 StGB (Halbstrafenaussetzung): kumulativ moeglich; § 35 BtMG vorrangig wegen Therapieanrechnung.
+- § 35 BtMG zu § 57 StGB (Halbstrafenaussetzung): kumulativ möglich; § 35 BtMG vorrangig wegen Therapieanrechnung.
 - § 35 BtMG zu Massregeln § 64 StGB (Unterbringung in Entziehungsanstalt): Beide knuepfen an Sucht an; § 64 StGB ist Massregel, § 35 BtMG Vollstreckungs-Instrument. Bei § 64 StGB-Anordnung greift Vorrang der Massregel vor Strafe (§ 67 StGB).
 - § 35 BtMG und Wiederaufnahme: keine direkte Verbindung.
 
@@ -85,7 +85,7 @@ Therapiezeitraum: regelmaessig sechs bis zwoelf Monate stationaer, ggf. ambulant
 ## Mustertexte
 
 **Antrag § 35 BtMG an die Vollstreckungsbehoerde:**
-"In dem Vollstreckungsverfahren gegen [Mandant] beantrage ich die Zurueckstellung der Strafvollstreckung gemaess § 35 BtMG.
+"In dem Vollstreckungsverfahren gegen [Mandant] beantrage ich die Zurueckstellung der Strafvollstreckung gemäß § 35 BtMG.
 
 Begruendung:
 1. Mein Mandant ist nach amtsaerztlichem Gutachten vom [Datum] / fachaerztlichem Attest des Dr. [Name] vom [Datum] betaeubungsmittelabhaengig ([Stoff]).
@@ -94,7 +94,7 @@ Begruendung:
 4. Die Kostenuebernahme durch [DRV / Krankenversicherung] ist gesichert (Bewilligung anliegend).
 5. Die Reststrafe betraegt weniger als zwei Jahre Freiheitsstrafe.
 
-Ich beantrage die Zurueckstellung gemaess § 35 BtMG und vorläufige Aussetzung der Vollstreckung gemaess § 35 Abs. 6 BtMG."
+Ich beantrage die Zurueckstellung gemäß § 35 BtMG und vorläufige Aussetzung der Vollstreckung gemäß § 35 Abs. 6 BtMG."
 
 ## Quellen Stand 06/2026
 

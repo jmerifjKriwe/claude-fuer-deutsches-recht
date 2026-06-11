@@ -144,14 +144,14 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - Student muss eine Gliederung für eine zivilrechtliche, strafrechtliche oder verwaltungsrechtliche Hausarbeit erstellen.
 - Student ist unsicher, ob Gutachtenstil oder Urteilsstil anzuwenden ist und wann gewechselt werden soll.
 - Student will einen Meinungsstreit mit eigenem Standpunkt methodisch korrekt darstellen.
-- Student prueft Hausarbeit kurz vor Abgabe auf inhaltliche und formale Vollstaendigkeit.
+- Student prüft Hausarbeit kurz vor Abgabe auf inhaltliche und formale Vollstaendigkeit.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Gutachtenstil** — Pruefungsstil der juristischen Ausbildung: Obersatz, Definitionen, Subsumtion, Ergebnis (O-D-S-E).
-- **Urteilsstil** — Ergebnis zuerst, dann Begruendung; in der Hausarbeit nur bei eindeutigen Vorfragen zulaessig.
+- **Urteilsstil** — Ergebnis zuerst, dann Begruendung; in der Hausarbeit nur bei eindeutigen Vorfragen zulässig.
 - **Subsumtion** — Unterordnung des Sachverhalts unter den Tatbestand einer Norm; zentrales Handwerk juristischer Arbeit.
-- **Anspruchsgrundlage** — Norm, die einen Anspruch gewaehrt; Ausgangspunkt jeder zivilrechtlichen Pruefung (z. B. § 433 Abs. 2 BGB).
+- **Anspruchsgrundlage** — Norm, die einen Anspruch gewaehrt; Ausgangspunkt jeder zivilrechtlichen Prüfung (z. B. § 433 Abs. 2 BGB).
 - **Pruefungsschema** — Vorgegebene Reihenfolge der zu pruefenden Tatbestandsmerkmale; z. B. Tatbestand-Rechtswidrigkeit-Schuld im Strafrecht.
 - **Meinungsstreit** — Kontroverse Rechtsfrage mit herrschender Meinung und Mindermeinungen; erfordert Argumentation und eigene Stellungnahme.
 - **Sokratischer Dialog** — Lernmethode durch gezielte Fragen statt vorgefertigter Antworten; Grundprinzip des Plugins.
@@ -180,22 +180,22 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - `bearbeitungsplan-erstellen` — Zeitplan und Arbeitsplan für Recherche, Gliederung, Rohfassung, Endfassung und Korrektur erstellen.
 - `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet der Hausarbeit bestimmen: Zivilrecht, öffentliches Recht, Strafrecht oder Mix.
 - `gliederung-mit-tiefenstruktur` — Gliederung mit korrekter Tiefenstruktur (A, Roemisch, Arabisch, Kleinbuchstabe) erstellen.
-- `gutachtenstil-vs-urteilsstil` — Klaeren, wann Gutachtenstil und wann Urteilsstil anzuwenden ist.
+- `gutachtenstil-vs-urteilsstil` — Klären, wann Gutachtenstil und wann Urteilsstil anzuwenden ist.
 - `subsumtion-schritt-für-schritt` — Subsumtion Schritt für Schritt ueben: Tatbestandsmerkmal, Definition, Sachverhalt, Ergebnis.
 - `meinungsstreit-darstellen` — Meinungsstreit mit herrschender Meinung, Mindermeinungen und eigenem Standpunkt darstellen.
 - `methodenlehre-auslegung` — Vier Auslegungsmethoden erlaeutern: grammatikalisch, systematisch, historisch, teleologisch.
-- `zivilrecht-anspruchsgrundlagen-pruefung` — Zivilrechtliche Ansprueche pruefen: V-C-G-D-D-B-Reihenfolge (Vertrag, culpa in contrahendo, GoA, Delikt, Bereicherung).
+- `zivilrecht-anspruchsgrundlagen-pruefung` — Zivilrechtliche Ansprueche prüfen: V-C-G-D-D-B-Reihenfolge (Vertrag, culpa in contrahendo, GoA, Delikt, Bereicherung).
 - `strafrecht-tatbestand-rechtswidrigkeit-schuld` — Drei-Stufen-Schema Strafrecht: Tatbestand, Rechtswidrigkeit, Schuld.
-- `öffentliches-recht-statthaft-zulaessig-begruendet` — Verwaltungsrechtliche Klagen pruefen: Statthaftigkeit, Zulaessigkeit, Begruendetheit.
-- `verfassungsrecht-grundrechtspruefung` — Grundrechte pruefen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung, Verhaeltnismaessigkeit.
-- `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — Europarecht-Bezug klaeren: Anwendungsvorrang, direkte Wirkung, Vorlagepflicht EuGH.
+- `öffentliches-recht-statthaft-zulaessig-begruendet` — Verwaltungsrechtliche Klagen prüfen: Statthaftigkeit, Zulaessigkeit, Begruendetheit.
+- `verfassungsrecht-grundrechtspruefung` — Grundrechte prüfen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung, Verhältnismäßigkeit.
+- `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — Europarecht-Bezug klären: Anwendungsvorrang, direkte Wirkung, Vorlagepflicht EuGH.
 - `rechtstheorie-rechtsphilosophie-anbindung` — Rechtstheoretische Bezuege einbauen: Positivismus, Naturrecht, Kelsen, Hart, Dworkin.
 - `quellenrecherche-rechtsprechung-literatur` — Juristische Quellen finden: amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, dejure, openJur, EUR-Lex.
 - `zitierweise-jura-fundstellen` — Richtig zitieren in Hausarbeiten: Rechtsprechung, Kommentare, Aufsaetze, Lehrbuecher.
 - `haeufige-fehler-vermeiden` — Typische methodische, stilistische und formale Fehler in Hausarbeiten vermeiden.
 - `professor-erkennen-und-strategie` — Lehrmeinung des betreuenden Professors erkennen und Argumentationsstrategie ableiten.
 - `behutsame-frech-wertschaetzende-rueckfragen` — Stil-Anleitung für den Dialogton des Plugins.
-- `selbstkontrolle-vor-abgabe` — Hausarbeit vor Abgabe auf inhaltliche und formale Vollstaendigkeit pruefen.
+- `selbstkontrolle-vor-abgabe` — Hausarbeit vor Abgabe auf inhaltliche und formale Vollstaendigkeit prüfen.
 - `seminararbeit-modus` — Seminararbeit mit Forschungsfrage, Literaturschau und eigener These verfassen.
 
 ## Worauf besonders achten
@@ -203,7 +203,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - Gutachtenstil konsequent einhalten: Ergebnis darf nicht im Obersatz vorweggenommen werden.
 - Meinungsstrei vollstaendig darstellen: Eigene Stellungnahme ohne Argumente ist ein Benotungsmangel.
 - Zitierregeln professorsensitiv: Manche Lehrstuehle bevorzugen andere Zitierstile als allgemein ueblich.
-- Subsumtion lueckenlos: Jedes Tatbestandsmerkmal einzeln pruefen, auch wenn das Ergebnis offensichtlich erscheint.
+- Subsumtion lueckenlos: Jedes Tatbestandsmerkmal einzeln prüfen, auch wenn das Ergebnis offensichtlich erscheint.
 - Zeitmanagement: Hausarbeiten werden unter Unterschaetzung der Recherchephase haeufig nicht fertig.
 
 ## Typische Fehler
@@ -211,7 +211,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - Obersatz anticipiert das Ergebnis: Im Gutachtenstil verboten; korrekte Form ist hypothetisch.
 - Streitstand nicht aufgegriffen: Kontroverse Fragen werden als gesetzt behandelt statt eigenstaendig diskutiert.
 - Quellen ohne Seiten- oder Randnummern zitiert: Nachpruefbarkeit fehlt; im Jura-Zitierstandard Pflichtangabe.
-- Gliederung zu flach: Nur zwei Ebenen genuegen nicht; tiefe Pruefungsschritte muessen strukturiert werden.
+- Gliederung zu flach: Nur zwei Ebenen genügen nicht; tiefe Pruefungsschritte müssen strukturiert werden.
 - Keine Selbstkontrolle vor Abgabe: Formfehler (Seitenanzahl, Deckblatt, eidesstattliche Erklaerung) kosten Punkte.
 
 ## Quellen und Aktualitaet

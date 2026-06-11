@@ -50,14 +50,14 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 
 ### Subjektiver Tatbestand
 
-**Direkter Vorsatz** bezueglich der Pflichtwidrigkeit ist nach hM erforderlich (Streitstand!). Dolus eventualis genuegt nach Teil der Lit. nicht; BGH fordert "sicheres Wissen um die Pflichtwidrigkeit". Hohe Schwelle als Schutz der richterlichen Unabhaengigkeit.
+**Direkter Vorsatz** bezüglich der Pflichtwidrigkeit ist nach hM erforderlich (Streitstand!). Dolus eventualis genuegt nach Teil der Lit. nicht; BGH fordert "sicheres Wissen um die Pflichtwidrigkeit". Hohe Schwelle als Schutz der richterlichen Unabhaengigkeit.
 
 ## Praktikertipps Verteidigung
 
-- **Vorsatz konsequent angreifen.** BGH staendige Rspr. fordert direktes Wissen um die Pflichtwidrigkeit; Mandant haette die Rechtsauffassung für vertretbar halten muessen. Bei Streitstand in der Lit. oder OLG-Rspr. ist Vertretbarkeit regelmaessig zu bejahen.
+- **Vorsatz konsequent angreifen.** BGH staendige Rspr. fordert direktes Wissen um die Pflichtwidrigkeit; Mandant haette die Rechtsauffassung für vertretbar halten müssen. Bei Streitstand in der Lit. oder OLG-Rspr. ist Vertretbarkeit regelmaessig zu bejahen.
 - **Vertretbarkeitsspielraum nutzen.** Auch fragwuerdige, aber juristisch begruendbare Entscheidungen sind nicht Rechtsbeugung. Sachverstaendigengutachten zur Vertretbarkeit der Entscheidungslinie kann entlastend wirken.
 - **Verfahrensfehler trennen von Materialer Rechtsbeugung.** Nicht jeder Verfahrensfehler ist Rechtsbeugung. Schlampige Verfahrensfuehrung ist Dienstvergehen, nicht Strafbarkeit.
-- **DDR-Justizverfahren als Praezedenz.** BGH hat in den Verfahren gegen ehemalige DDR-Richter (sog. Mauerschuetzen-Justiz) die Schwelle sehr hoch gesetzt; Bezugnahme moeglich.
+- **DDR-Justizverfahren als Praezedenz.** BGH hat in den Verfahren gegen ehemalige DDR-Richter (sog. Mauerschuetzen-Justiz) die Schwelle sehr hoch gesetzt; Bezugnahme möglich.
 - **Parteibezug bestreiten.** Wenn die Entscheidung niemand konkret schaedigte, fehlt das Tatbestandsmerkmal.
 - **Disziplinarrecht ist Auffanglinie.** Wenn nicht strafrechtlich erfasst, droht Disziplinarverfahren mit Suspendierung oder Entlassung.
 
@@ -69,20 +69,20 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 
 ## Konkurrenzen
 
-- **Paragraph 339 StGB und Paragraph 340 StGB Koerperverletzung im Amt.** Tatmehrheit moeglich, wenn neben Rechtsbeugung auch koerperliche Misshandlung.
-- **Paragraph 339 StGB und Paragraph 348 StGB Falschbeurkundung im Amt.** Tatmehrheit moeglich, wenn Rechtsbeugung durch Beurkundungsfehler erfolgt.
-- **Paragraph 339 StGB und Paragraph 263 StGB Betrug.** Tateinheit moeglich bei Vermoegensbezug.
+- **Paragraph 339 StGB und Paragraph 340 StGB Koerperverletzung im Amt.** Tatmehrheit möglich, wenn neben Rechtsbeugung auch koerperliche Misshandlung.
+- **Paragraph 339 StGB und Paragraph 348 StGB Falschbeurkundung im Amt.** Tatmehrheit möglich, wenn Rechtsbeugung durch Beurkundungsfehler erfolgt.
+- **Paragraph 339 StGB und Paragraph 263 StGB Betrug.** Tateinheit möglich bei Vermoegensbezug.
 - **Paragraph 339 StGB und Paragraph 332 StGB Bestechlichkeit.** Tatmehrheit; oft gemeinsam (Bestechungsgeld + Rechtsbeugung).
 - **Paragraph 339 StGB ist primaer.** Andere Verfahrensdelikte des Amtstraegers treten zurueck.
 
 ## Strafzumessung und Folgen
 
-- **Strafrahmen:** Freiheitsstrafe von einem Jahr bis zu fuenfzehn Jahren. Geldstrafe nicht moeglich.
-- **Bewaehrungsfaehigkeit:** bei Mindeststrafe 1 Jahr nur in Ausnahmefaellen; bei Strafen ueber 2 Jahre nicht moeglich.
+- **Strafrahmen:** Freiheitsstrafe von einem Jahr bis zu fuenfzehn Jahren. Geldstrafe nicht möglich.
+- **Bewaehrungsfaehigkeit:** bei Mindeststrafe 1 Jahr nur in Ausnahmefaellen; bei Strafen über 2 Jahre nicht möglich.
 - **Berufsverbot Paragraph 70 StGB** zwingend bei Verurteilung — Richter oder Beamter verliert Amt nach Paragraph 24 DRiG bzw. Paragraph 41 BBG.
-- **Disziplinarrechtliche Folgen** vorgesehen ueber Paragraph 33 BeamtStG (Entfernung aus dem Beamtenverhaeltnis).
+- **Disziplinarrechtliche Folgen** vorgesehen über Paragraph 33 BeamtStG (Entfernung aus dem Beamtenverhaeltnis).
 - BZRG-Eintrag zwingend.
-- **Sperre für Bestellung als Anwalt** ueber Paragraph 7 BRAO moeglich.
+- **Sperre für Bestellung als Anwalt** über Paragraph 7 BRAO möglich.
 
 ## Mustertexte
 

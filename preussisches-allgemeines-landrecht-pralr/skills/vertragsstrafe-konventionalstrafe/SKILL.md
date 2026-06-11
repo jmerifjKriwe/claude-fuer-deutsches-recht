@@ -33,7 +33,7 @@ ALR I 5 §§ — Konventionalstrafe als vereinbarte Geldbusse für Vertragsverle
 ## Pruefraster
 
 1. Vereinbarung wirksam?
-2. Hoehe angemessen?
+2. Höhe angemessen?
 3. Anrechnung?
 
 ## Normenanker

@@ -15,7 +15,7 @@ description: "GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill kla
 
 1. Antrag bei Versorgungsamt (in den Ländern unterschiedlich strukturiert).
 2. Aerztliche Unterlagen einreichen.
-3. Pruefung durch versorgungsaerztlichen Dienst (regelmaessig ohne persönliche Untersuchung).
+3. Prüfung durch versorgungsaerztlichen Dienst (regelmaessig ohne persönliche Untersuchung).
 4. Bescheid mit GdB und Merkzeichen.
 
 ## Versorgungsmedizinverordnung (VersMedV)

@@ -11,8 +11,8 @@ erforderlichen Dokumente auf einen Blick, ampelfarblich gefuehrt.
 
 ## Vorlage-Bezug
 Padlet-Spaltenkopf: `1. Uebersicht aller erforderlichen Dokumente`
-Subtitle: `Alle fuer die Durchsetzung erforderlichen Dokumente in einer
-einzigen Uebersicht.`
+Subtitle: `Alle für die Durchsetzung erforderlichen Dokumente in einer
+einzigen Übersicht.`
 
 Karteninhalt pro Dokument (sieben Felder aus der Excel-Vorlage):
 

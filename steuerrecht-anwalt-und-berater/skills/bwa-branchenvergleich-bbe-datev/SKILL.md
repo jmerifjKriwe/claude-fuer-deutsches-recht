@@ -49,8 +49,8 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 
 ### Phase 1 — Branchenklassifikation
 
-- WZ-Code des Mandanten ermitteln (aktuelle Klassifikation der Wirtschaftszweige des Statistischen Bundesamtes; bisher WZ 2008, Aktualisierung pruefen).
-- Beispiele typischer WZ-Codes: Restaurants mit Bedienung, Lebensmittel-Einzelhandel, Bau von Wohngebaeuden (konkrete Schluessel im Mandantenstamm gegen die aktuelle WZ-Fassung pruefen).
+- WZ-Code des Mandanten ermitteln (aktuelle Klassifikation der Wirtschaftszweige des Statistischen Bundesamtes; bisher WZ 2008, Aktualisierung prüfen).
+- Beispiele typischer WZ-Codes: Restaurants mit Bedienung, Lebensmittel-Einzelhandel, Bau von Wohngebaeuden (konkrete Schlüssel im Mandantenstamm gegen die aktuelle WZ-Fassung prüfen).
 - Im DATEV-Stammblatt erfassen — Voraussetzung für BBE-Auswertung (Klickpfad: Mandantendaten → Allgemeines → Branchenschluessel).
 - Bei Mischbetrieb: Hauptbranche festlegen und Nebenbranche dokumentieren.
 
@@ -58,7 +58,7 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 
 - DATEV-Klickpfad: Kanzlei-Rechnungswesen → Auswertungen → BBE-Branchenvergleich.
 - Berichtsjahr und Vergleichsperiode auswaehlen.
-- Datenstand pruefen — BBE-Daten weisen typischerweise einen Zeitverzug von ein bis zwei Jahren auf.
+- Datenstand prüfen — BBE-Daten weisen typischerweise einen Zeitverzug von ein bis zwei Jahren auf.
 - Filter nach Mandantengroesse (Umsatzklasse) setzen, damit Vergleich zur Peer-Gruppe sauber ist.
 
 ### Phase 3 — Standard-Kennzahlen
@@ -77,13 +77,13 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 
 - Mandant im Branchen-Quartil verorten (1. Quartil = bestes, 4. Quartil = schlechtestes Viertel).
 - Auffaellige Abweichungen identifizieren (mehr als 20 Prozent vom Median).
-- Plausibilitaet pruefen — extreme Abweichungen koennen auch auf Datenfehler hinweisen.
+- Plausibilitaet prüfen — extreme Abweichungen können auch auf Datenfehler hinweisen.
 
 ### Phase 5 — Beratungsansatz
 
 - Bei unterdurchschnittlicher Materialquote: Einkaufsvorteil — staerken.
-- Bei ueberdurchschnittlicher Personalquote: Produktivitaet pruefen, ggf. Personalentwicklung diskutieren.
-- Bei niedriger EBITDA-Marge: Preisgestaltung, Sortimentsbereinigung pruefen.
+- Bei ueberdurchschnittlicher Personalquote: Produktivitaet prüfen, ggf. Personalentwicklung diskutieren.
+- Bei niedriger EBITDA-Marge: Preisgestaltung, Sortimentsbereinigung prüfen.
 - Bei niedriger Eigenkapitalquote: Bilanzpolitik (Thesaurierung), Finanzierungsstruktur.
 
 ### Phase 6 — Erlaeuterung im Quartalsgespraech
@@ -91,15 +91,15 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 - Branchenvergleich Praesentation an Mandant.
 - Stellen heraus: was ist Ueberdurchschnitt, was Unterdurchschnitt.
 - Handlungsoptionen ableiten.
-- Massnahmen-Plan zur naechsten Quartals-Pruefung.
+- Maßnahmen-Plan zur naechsten Quartals-Prüfung.
 
 ## Strategie und Praxis-Tipps
 
 - BBE-Daten sind nicht ideal aktuell — bei schnellen Marktveraenderungen ggf. mit zusaetzlichen Quellen ergaenzen (Bundesverbaende, Bafa-Studien).
-- Bei spezialisierten Branchen ist BBE manchmal duenn — alternative Datenbasis (Statistik der DStV, IfM-Bonn) pruefen.
+- Bei spezialisierten Branchen ist BBE manchmal duenn — alternative Datenbasis (Statistik der DStV, IfM-Bonn) prüfen.
 - Mandant nicht ueberfordern — 3-5 Kennzahlen reichen, mehr verwirrt.
 - Branchenvergleich nicht moralisieren — Mandant darf in einer Branche auch unterdurchschnittlich sein, wenn er bewusst Nische besetzt.
-- StBVV: BBE-Bericht als Zusatzleistung, ueber Pauschal oder Zeithonorar.
+- StBVV: BBE-Bericht als Zusatzleistung, über Pauschal oder Zeithonorar.
 - Datenschutz: BBE-Berichte enthalten anonymisierte Daten; nicht weitergeben an Dritte ohne Mandantenzustimmung.
 
 ## Quellen und Updates
@@ -111,7 +111,7 @@ Stand: 05/2026.
 - DATEV BBE-Branchenbericht.
 - Klassifikation der Wirtschaftszweige (WZ 2008, Statistisches Bundesamt; aktuelle Fassung unter destatis.de abrufbar).
 - IDW PS 480.
-- Hinweis: BBE-Datenstand vor Mandanteneinsatz pruefen (Zeitverzug von ein bis zwei Jahren ueblich); Branchenrichtwerte aus aktuellem DATEV-BBE-Bericht oder Branchenverbands-Daten entnehmen.
+- Hinweis: BBE-Datenstand vor Mandanteneinsatz prüfen (Zeitverzug von ein bis zwei Jahren ueblich); Branchenrichtwerte aus aktuellem DATEV-BBE-Bericht oder Branchenverbands-Daten entnehmen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (WZ 2008 Statistisches Bundesamt bestaetigt), 1 ersetzt (Hinweis ohne Marker neu formuliert) -->
 

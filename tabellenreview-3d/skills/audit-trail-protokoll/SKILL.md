@@ -7,8 +7,8 @@ description: "Audit-Trail aller Review-Schritte protokollieren: wer hat wann was
 
 ## Triage zu Beginn
 
-1. Fuer welches Mandat / Projekt wird der Audit-Trail gefuehrt? (M&A-DD / Immobilien / Vendor)
-2. Wer ist der verantwortliche Pruefer, der jede Abnahme unterschreiben muss?
+1. Für welches Mandat / Projekt wird der Audit-Trail gefuehrt? (M&A-DD / Immobilien / Vendor)
+2. Wer ist der verantwortliche Prüfer, der jede Abnahme unterschreiben muss?
 3. Muss der Audit-Trail gerichtsfest sein? → Append-only-Format (JSONL) waehlen
 4. Gibt es berufsrechtliche Aufbewahrungspflichten? (§ 50 BRAO: 5 Jahre Mandatsakte)
 

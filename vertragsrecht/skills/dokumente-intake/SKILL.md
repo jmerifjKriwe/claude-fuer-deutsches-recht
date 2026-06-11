@@ -7,7 +7,7 @@ description: "Dokumentenintake für Vertragsrecht (BGB-Vertragsrecht): sortiert 
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Vertragsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Vertragsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -27,7 +27,7 @@ Dieser Dokumenten-Intake für **Vertragsrecht** ordnet Anlagen, Registerdaten, K
 
 - `abmahnung-uwg` — Abmahnung UWG
 - `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
-- `agb-pruefung` — AGB Pruefung
+- `agb-pruefung` — AGB Prüfung
 - `anpassen` — Anpassen
 - `anschluss-router` — Anschluss Router
 - `bgb-business-einzelabrufe-sonderfall` — BGB Business Einzelabrufe Sonderfall

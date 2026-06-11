@@ -25,7 +25,7 @@ Erforderlichkeitsprüfung in die Begründung des Entwurfs (Abschnitt A I 4) aufn
 
 ## Pruefstation 3 - Abweichungskompetenz Art. 72 Abs. 3 GG
 
-Bei sechs Materien (Jagdwesen, Naturschutz, Bodenverteilung, Raumordnung, Wasserhaushalt, Hochschulzulassung) duerfen Länder abweichende Regelungen treffen. Bundesgesetz muss damit rechnen und eine Anwendungsvorschrift gegen die Abweichung enthalten.
+Bei sechs Materien (Jagdwesen, Naturschutz, Bodenverteilung, Raumordnung, Wasserhaushalt, Hochschulzulassung) dürfen Länder abweichende Regelungen treffen. Bundesgesetz muss damit rechnen und eine Anwendungsvorschrift gegen die Abweichung enthalten.
 
 ## Pruefstation 4 - Annexkompetenz, Kompetenz kraft Sachzusammenhangs
 

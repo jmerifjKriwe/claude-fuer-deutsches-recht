@@ -123,7 +123,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Bevor losgelegt wird, klaere:
 1. Verbraucherdarlehen oder Unternehmerkredit? → Bestimmt § 498 BGB vs. § 490/314 BGB
 2. Liegt Schriftform-Kuendigung vor (§ 492 BGB bei Verbraucherdarlehen)? → Formfehler = Unwirksamkeit
-3. Qualifizierter Verzug nach § 498 BGB erreicht? → Rate 1 und Rate 2 ganz/teilweise offen; Prozentsatz pruefen
+3. Qualifizierter Verzug nach § 498 BGB erreicht? → Rate 1 und Rate 2 ganz/teilweise offen; Prozentsatz prüfen
 4. Heilungsfrist von zwei Wochen nach ordnungsgemaesser Mahnung abgelaufen?
 5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

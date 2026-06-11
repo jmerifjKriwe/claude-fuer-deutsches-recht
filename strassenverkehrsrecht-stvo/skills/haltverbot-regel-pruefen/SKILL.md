@@ -3,7 +3,7 @@ name: haltverbot-regel-pruefen
 description: "StVO: Haltverbot: Regel prüfen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Haltverbot Regel Pruefen
+# Haltverbot Regel Prüfen
 
 ## Arbeitsweg
 

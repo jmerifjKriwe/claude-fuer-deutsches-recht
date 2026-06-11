@@ -22,7 +22,7 @@ Dieser Skill passt den Umformulierungsprozess an die spezifischen Berufspflichte
 ## Triage zu Beginn
 1. Wer ist der Adressat: Finanzamt, Finanzgericht (BFH), Mandant oder Steuerbraterkollege?
 2. Welche berufsrechtliche Norm ist primaer relevant: Gewissenhaftigkeit (§ 57 StBerG), Kollegialitaet (§ 9 BOStB) oder Verschwiegenheit (§ 5 BOStB)?
-3. Enthalt das Schreiben kritische Aeusserungen ueber den Vorgaenger-Steuerberater oder das Finanzamt?
+3. Enthalt das Schreiben kritische Aeusserungen über den Vorgaenger-Steuerberater oder das Finanzamt?
 4. Hat das Schreiben rechtsverbindliche Wirkung (Einspruch, Klage) oder ist es nur informell?
 
 ## Aktuelle Rechtsprechung

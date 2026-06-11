@@ -189,8 +189,8 @@ und dabei den ausscheidenden Anteilsinhaber zu ersetzen.
 
 Klaere bei Stimmverpflichtungs-Gestaltung:
 
-1. **Welche Entscheidungen?** Nicht alle Beschluesse muessen durch Stimmverpflichtung abgesichert sein — selektiv vorgehen.
-2. **Poenale-Hoehe?** Poenale muss abschreckend sein; mindestens 100.000 EUR; am Schadensrahmen orientieren.
+1. **Welche Entscheidungen?** Nicht alle Beschlüsse müssen durch Stimmverpflichtung abgesichert sein — selektiv vorgehen.
+2. **Poenale-Höhe?** Poenale muss abschreckend sein; mindestens 100.000 EUR; am Schadensrahmen orientieren.
 3. **Joinder-Klausel in Satzung?** Vinkulierung verknuepfen: keine Anteilsabtretung ohne Joinder zum SHA.
 4. **Stimmverbot geprueft?** § 47 IV GmbHG kann Stimmverpflichtung in Eigen-Angelegenheiten nicht umgehen.
 5. **Korrespondenz Satzung-SHA?** Stimmverpflichtung muss inhaltlich konsistent zur Satzung sein; andernfalls Widerspruch.

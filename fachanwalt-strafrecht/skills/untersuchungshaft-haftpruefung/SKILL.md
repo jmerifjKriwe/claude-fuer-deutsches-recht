@@ -168,7 +168,7 @@ description: "Untersuchungshaft und Haftprüfung nach §§ 112 ff: StPO: Anwendu
 
 ## 10) BGH/BVerfG-Linien (Stand Mai 2026)
 
-- Verfassungsrechtliche Maßstaebe der Untersuchungshaft (Verhaeltnismaessigkeit, Beschleunigungsgebot in Haftsachen): Grundlage BVerfG 17.01.2013 — 2 BvR 2098/12 und BVerfG-Linie zur ueberlangen Haft; Aktualisierungen vor Ausgabe in bverfg.de und dejure.org pruefen. Offene Fundstelle (Verzeichnis): https://dejure.org/dienste/lex/StPO/112/1.html
+- Verfassungsrechtliche Maßstaebe der Untersuchungshaft (Verhältnismäßigkeit, Beschleunigungsgebot in Haftsachen): Grundlage BVerfG 17.01.2013 — 2 BvR 2098/12 und BVerfG-Linie zur ueberlangen Haft; Aktualisierungen vor Ausgabe in bverfg.de und dejure.org prüfen. Offene Fundstelle (Verzeichnis): https://dejure.org/dienste/lex/StPO/112/1.html
 - BVerfG 23.09.2025 — 2 BvR 625/25: ANOM-Kommunikation und Verwertbarkeit im Strafverfahren; relevant für Tatverdacht und damit Haftgrund. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zu § 112 StPO / Haftpruefung ist Stand Mai 2026 nicht in dejure.org / openjur.de mit Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche unter "§ 112 StPO Haftgrund" durchführen.
 

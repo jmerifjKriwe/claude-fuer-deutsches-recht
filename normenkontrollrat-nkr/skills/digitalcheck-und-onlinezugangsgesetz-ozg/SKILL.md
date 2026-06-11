@@ -7,7 +7,7 @@ description: "Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz
 
 ## Worum geht es konkret
 
-Das Onlinezugangsgesetz (OZG) verpflichtet Bund und Länder, Verwaltungsleistungen digital anzubieten. Der Digitalcheck (BMI / NKR; gesetzliche Grundlage § 4 Abs. 3 NKRG, ab dem **1. Januar 2023 anzuwenden** gemaess § 9 NKRG) prueft, ob Bundesregelungsvorhaben digital praktikabel sind. Beide Instrumente sind zentral für die NKR-Pruefung von Vorhaben mit digitalen Bezuegen.
+Das Onlinezugangsgesetz (OZG) verpflichtet Bund und Länder, Verwaltungsleistungen digital anzubieten. Der Digitalcheck (BMI / NKR; gesetzliche Grundlage § 4 Abs. 3 NKRG, ab dem **1. Januar 2023 anzuwenden** gemäß § 9 NKRG) prüft, ob Bundesregelungsvorhaben digital praktikabel sind. Beide Instrumente sind zentral für die NKR-Prüfung von Vorhaben mit digitalen Bezuegen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -22,7 +22,7 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 
 - **Onlinezugangsgesetz (OZG)** in der jeweils geltenden Fassung (urspruenglich vom 14.08.2017; OZG 2.0 / Folgeregulierung Stand vom Anwender zu verifizieren)
 - **Digitalcheck-Methodik** (BMI / NKR, jeweils aktuelle Fassung)
-- **§ 4 Abs. 3 NKRG** — Digitalcheck als Pruefungsbestandteil (Pruefung der Moeglichkeiten digitaler Ausfuehrung)
+- **§ 4 Abs. 3 NKRG** — Digitalcheck als Pruefungsbestandteil (Prüfung der Moeglichkeiten digitaler Ausfuehrung)
 - **§ 9 NKRG** — § 4 Abs. 3 NKRG ist **ab dem 1. Januar 2023 anzuwenden** (Uebergangsregelung)
 - **eIDAS-Verordnung (EU) 910/2014** in der jeweils geltenden Fassung
 - **EU Single Digital Gateway-VO (EU) 2018/1724** (Once-Only auf EU-Ebene)
@@ -47,7 +47,7 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 
 ## Pruefraster / Schritt für Schritt
 
-### 1. OZG-Bezug pruefen
+### 1. OZG-Bezug prüfen
 
 - Ist die Leistung im OZG-Katalog?
 - Welcher Reifegrad? (Information / Antrag / Bescheid / vollintegrierter Online-Prozess)
@@ -55,7 +55,7 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 
 ### 2. Portalverbund-Anschluss
 
-- Wird das Vorhaben ueber den Portalverbund abgewickelt?
+- Wird das Vorhaben über den Portalverbund abgewickelt?
 - Wenn nein: Begruendung
 - Schnittstellen dokumentiert?
 
@@ -110,7 +110,7 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Das Vorhaben adressiert eine OZG-Leistung im Sinne von [§ X OZG / Anlage]. Der NKR begruesst die Anwendung des Portalverbundes."
-- "Der NKR weist darauf hin, dass das Vorhaben einen eigenen Datenstandard vorsieht und die etablierten Standards XOEV und FIM nicht anwendet. Der NKR empfiehlt eine Pruefung der Standardkompatibilitaet."
+- "Der NKR weist darauf hin, dass das Vorhaben einen eigenen Datenstandard vorsieht und die etablierten Standards XOEV und FIM nicht anwendet. Der NKR empfiehlt eine Prüfung der Standardkompatibilitaet."
 - "Das vorgesehene Verfahren erhebt Daten, die der Verwaltung bereits aus dem Handelsregister vorliegen. Der NKR empfiehlt eine Umsetzung des Once-Only-Prinzips im Sinne der EU-Single-Digital-Gateway-VO."
 - "Der Digitalcheck wurde vom Ressort dokumentiert. Die fuenf Digitalcheck-Prinzipien sind nachvollziehbar adressiert."
 - "Der NKR weist darauf hin, dass die vorgesehene monatliche Lebensbescheid-Pflicht in einem Spannungsverhaeltnis zum Once-Only-Prinzip steht; eine automatisierte Erreichbarkeitspruefung durch das Handelsregistergericht waere praktikabler."
@@ -131,4 +131,4 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 - EU Single Digital Gateway-VO (EU) 2018/1724
 - § 44 GGO; NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4 Abs. 3 (Digitalcheck) i.V.m. § 9 (Anwendbarkeit ab 1. Januar 2023)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.digitalcheck.bund.de](https://www.digitalcheck.bund.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+- Live verifizieren über [www.digitalcheck.bund.de](https://www.digitalcheck.bund.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

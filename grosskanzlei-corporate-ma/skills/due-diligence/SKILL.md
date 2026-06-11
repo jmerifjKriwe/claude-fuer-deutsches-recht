@@ -135,15 +135,15 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Triage — klaere vor DD-Vertragspruefung
 
 1. Welche Vertragstypen sind vorrangig — Top-5-Kundenvertraege, Top-5-Lieferantenvertraege, SaaS-Lizenzvertraege, Lizenzvertraege IP?
-2. Wo liegt der Materiality-Schwellenwert — absolute Umsatzschwelle (z.B. Vertraege mit mehr als 500.000 EUR Jahresumsatz)?
+2. Wo liegt der Materiality-Schwellenwert — absolute Umsatzschwelle (z.B. Verträge mit mehr als 500.000 EUR Jahresumsatz)?
 3. Gibt es bekannte Change-of-Control-Klauseln aus dem DD-Scope-Meeting?
 4. Sind Exklusivitaeten vorhanden, die die Wettbewerbsposition des Unternehmens nach Closing veraendern?
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 305-310 BGB — AGB-Kontrolle: ungewoehnliche Klauseln in Standardvertraegen koennen unwirksam sein; relevant für Haftungsobergrenzen, Kuendigungsklauseln
+- §§ 305-310 BGB — AGB-Kontrolle: ungewoehnliche Klauseln in Standardvertraegen können unwirksam sein; relevant für Haftungsobergrenzen, Kuendigungsklauseln
 - §§ 433 ff. BGB — Kaufvertragsrecht: Gewaehrleistung bei mangelhafter Vertragsuebertragung
-- § 613a BGB — Betriebsuebergang: bei Asset Deal gehen Arbeitsverhaeltnisse kraft Gesetzes ueber; Change-of-Control in Arbeitsvertraegen unwirksam, soweit sie § 613a BGB umgehen
+- § 613a BGB — Betriebsuebergang: bei Asset Deal gehen Arbeitsverhaeltnisse kraft Gesetzes über; Change-of-Control in Arbeitsvertraegen unwirksam, soweit sie § 613a BGB umgehen
 - §§ 15 ff. MarkenG / §§ 58 ff. PatG — IP-Lizenzvertraege: Einschrankung der Rechte bei Inhaberwechsel; Zustimmungsvorbehalte
 
 ## Aktuelle Rechtsprechung
@@ -152,8 +152,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Vertragsmatrix erstellen:** alle materiellen Vertraege auflisten; je Vertrag: Parteien, Laufzeit, Kuendigungsrechte, Wert, Change-of-Control-Klausel
-2. **Change-of-Control-Screening:** jeder Vertrag auf Kuendigungsrecht oder Zustimmungspflicht bei Anteilsuebertragung pruefen
+1. **Vertragsmatrix erstellen:** alle materiellen Verträge auflisten; je Vertrag: Parteien, Laufzeit, Kuendigungsrechte, Wert, Change-of-Control-Klausel
+2. **Change-of-Control-Screening:** jeder Vertrag auf Kuendigungsrecht oder Zustimmungspflicht bei Anteilsuebertragung prüfen
 3. **Exklusivitaets-Mapping:** Exklusivitaeten, Wettbewerbsverbote, Alleinvertriebsrechte, die nach Closing problematisch sind
 4. **Haftungs- und Garantieklauseln:** Haftungsobergrenzen, Gewichtung Vertragsrisiken für SPA-Garantien
 5. **IP-Lizenz-Check:** Marken, Patente, Software-Lizenzen; Change-of-Control und Zustimmungserfordernisse

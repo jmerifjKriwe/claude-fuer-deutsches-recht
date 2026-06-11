@@ -22,8 +22,8 @@ description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemi
 ## Tatbestand
 
 - Adolescens (junger Mann unter 25 Jahre).
-- Vermoegensnachteil durch eigenes Geschaeft.
-- Geschaeft an sich wirksam, aber praetorische Restitution moeglich.
+- Vermoegensnachteil durch eigenes Geschäft.
+- Geschäft an sich wirksam, aber praetorische Restitution möglich.
 
 ## Voraussetzungen
 
@@ -50,4 +50,4 @@ description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemi
 1. Adolescens-Status?
 2. Vermoegensnachteil?
 3. Frist gewahrt?
-4. Restitution moeglich?
+4. Restitution möglich?

@@ -17,7 +17,7 @@ Der Zeugenbeweis ist neben der Urkunde das wichtigste Beweismittel im Zivilproze
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Zeuge**: Person, die aus eigener Wahrnehmung ueber Tatsachen aussagen kann.
+- **Zeuge**: Person, die aus eigener Wahrnehmung über Tatsachen aussagen kann.
 - **Ladungsfaehige Anschrift**: Anschrift, an die das Gericht eine Ladung zustellen kann (Hausanschrift).
 - **Beweisthema**: Konkrete Tatsache, die durch den Zeugen bewiesen werden soll.
 - **Zeugnis-Verweigerungsrecht**: Recht eines Zeugen, die Aussage zu verweigern.
@@ -33,7 +33,7 @@ Der Zeugenbeweis ist neben der Urkunde das wichtigste Beweismittel im Zivilproze
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Zeuge geeignet
+### Schritt 1 — Prüfen, ob Zeuge geeignet
 
 - Hat der Zeuge die Tatsache **selbst** wahrgenommen?
 - Vom-Hoerensagen reicht nicht.
@@ -74,7 +74,7 @@ Naher Angehoeriger des Beklagten (Ehegatte, Kind, Geschwister, § 383 ZPO) kann 
 - Anwaelte bzgl. Mandatsgeheimnis.
 - Berufsgeheimnistraeger.
 
-Wenn solcher Zeuge bei Ihnen ist: pruefen, ob Aussage realistisch erwartbar.
+Wenn solcher Zeuge bei Ihnen ist: prüfen, ob Aussage realistisch erwartbar.
 
 ### Schritt 5 — Im Termin: Ladung und Vernehmung
 
@@ -82,14 +82,14 @@ Das Gericht laedt den Zeugen. Er muss erscheinen (§ 380 ZPO), sonst Ordnungsmit
 
 Im Termin:
 
-- Belehrung durch das Gericht ueber Wahrheits-Pflicht.
+- Belehrung durch das Gericht über Wahrheits-Pflicht.
 - Anhörung zur Person.
 - Vernehmung zum Beweisthema.
 - Fragen der Parteien (§ 397 ZPO).
 
 ### Schritt 6 — Vorbereitung des Zeugen
 
-Sie duerfen mit dem Zeugen sprechen — aber nicht "trainieren". Erlaubte Vorbereitung:
+Sie dürfen mit dem Zeugen sprechen — aber nicht "trainieren". Erlaubte Vorbereitung:
 
 - Tatsachen-Auffrischung (Was war an dem Tag?).
 - Hinweise auf moegliche Fragen.
@@ -118,11 +118,11 @@ Das Gericht wuerdigt frei (§ 286 ZPO):
 
 Zeuge bekommt Entschaedigung nach JVEG. Sie als beweispflichtige Partei zahlen ggf. Vorschuss.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Ladungsfaehige Anschrift** zwingend.
 - **Konkretes Beweisthema** — kein vager "Sachverhalt".
-- **Zeugnis-Verweigerungsrecht** bei nahen Angehoerigen pruefen.
+- **Zeugnis-Verweigerungsrecht** bei nahen Angehoerigen prüfen.
 - **Aussage-Wert** vor Benennen einschaetzen.
 
 ## Typische Fehler

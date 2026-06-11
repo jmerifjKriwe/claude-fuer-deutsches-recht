@@ -16,7 +16,7 @@ description: "Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art.
 ## Mandantenfall
 
 - Maschinenbauer assembliert in Deutschland Teile aus China; 'Made in Germany' korrekt verwendbar?
-- Antidumping-Massnahmen auf Ware aus China; Ursprung nach Zusammenbau in Polen wird geprueft.
+- Antidumping-Maßnahmen auf Ware aus China; Ursprung nach Zusammenbau in Polen wird geprueft.
 - Exporteur verwendet 'Made in EU' Kennzeichnung; Ursprungsberechnung für UZK-Zwecke geprueft.
 
 ## Erste Schritte
@@ -25,7 +25,7 @@ description: "Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art.
 2. Ursprungsregel für den HS-Code nach UZK-DA Anhang 22-01 ermitteln (HS-Wechsel oder Wertschwell).
 3. Wertschwell-Berechnung wenn Wertkriterium anwendbar (Nicht-Ursprungsmaterialienanteil am EXW-Preis).
 4. Letzte wesentliche Bearbeitung oder Verarbeitung feststellen.
-5. 'Made in Germany' Zulassigkeit pruefen: Kernprozess und wesentliche Teile in Deutschland.
+5. 'Made in Germany' Zulassigkeit prüfen: Kernprozess und wesentliche Teile in Deutschland.
 6. Ursprungsgutachten mit HS-Code-Wechsel-Dokumentation oder Wertschwell-Berechnung erstellen.
 
 ## Rechtsrahmen

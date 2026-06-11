@@ -45,7 +45,7 @@ DesignG:
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit prüfen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen; Streitwert.
 
 ### B. Antraege
@@ -88,7 +88,7 @@ DesignG:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -163,7 +163,7 @@ K2: Screenshot/Produkt-Aufnahme Beklagte vom [DATUM]
 K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -177,14 +177,14 @@ K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 5. Streitwert plausibel, ggf. Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-Konformitaet (PDF/A, ERVV-Signatur)?
-8. Vier-Augen-Pruefung durch Sozius oder Senior-Anwaeltin?
+8. Vier-Augen-Prüfung durch Sozius oder Senior-Anwaeltin?
 
 ## Substantiierungs-Fallen im gewerblichen Rechtsschutz
 
 - **Pauschaltatsachen** ohne konkrete Daten ("seit Jahren", "regelmaessig") werden vom Gericht uebergangen.
 - **Beweisangebot zur falschen Tatsache:** Beweisthema deckt nur Teilaussage ab.
 - **Verspaeteter Vortrag** § 296 ZPO: Ruegepflicht-Fristen beachten.
-- **Anspruchskonkurrenz** nicht vollstaendig ausgeschoepft: MarkenG + UWG + UrhG koennen kumulieren.
+- **Anspruchskonkurrenz** nicht vollstaendig ausgeschoepft: MarkenG + UWG + UrhG können kumulieren.
 - **Verwechslungs-Analyse zu kurz**: alle drei Dimensionen (klanglich, schriftbildlich, begrifflich) bearbeiten.
 
 ## Cross-Refs

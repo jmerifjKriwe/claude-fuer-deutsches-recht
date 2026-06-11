@@ -7,7 +7,7 @@ description: "Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung
 
 ## Arbeitsbereich
 
-Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht moeglich ist (Bewaehrung bereits erledigt, Strafvollstreckung beendet). BGH-staendige Linie. Verteidigung im Vollstreckungsstadium. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht möglich ist (Bewaehrung bereits erledigt, Strafvollstreckung beendet). BGH-staendige Linie. Verteidigung im Vollstreckungsstadium. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -24,21 +24,21 @@ Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat
 ## Wann brauchen Sie diese Skill?
 
 - Mandant ist bereits einmal rechtskraeftig verurteilt; jetzt wird eine weitere Tat abgeurteilt, die **vor** der frueheren Verurteilung begangen wurde.
-- Sie pruefen die Akte, ob nachtraegliche Gesamtstrafenbildung moeglich ist (oder schon haette erfolgen muessen).
+- Sie prüfen die Akte, ob nachtraegliche Gesamtstrafenbildung möglich ist (oder schon haette erfolgen müssen).
 - Sie schreiben einen Antrag im Beschluss-Verfahren nach § 460 StPO.
-- Sie pruefen, ob die Einbeziehung nicht (mehr) moeglich ist und ob ein **Haerteausgleich** erforderlich wird (vgl. `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung`).
+- Sie prüfen, ob die Einbeziehung nicht (mehr) möglich ist und ob ein **Haerteausgleich** erforderlich wird (vgl. `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung`).
 
 ## Rechtliche Grundlagen
 
-- **§ 55 Abs. 1 StGB** — Wird ein bereits rechtskraeftig Verurteilter spaeter wegen einer anderen Tat verurteilt, die vor der frueheren Verurteilung begangen wurde, so ist eine nachtraegliche Gesamtstrafe nach §§ 53, 54 StGB zu bilden. Vorverurteilung muss in den Aburteilung einbezogen werden, soweit die Strafe noch nicht **vollstreckt, verjaehrt oder erlassen** ist.
-- **§ 55 Abs. 2 StGB** — Bei Nebenstrafen, Nebenfolgen und Massregeln gilt § 53 Abs. 4 StGB sinngemaess.
+- **§ 55 Abs. 1 StGB** — Wird ein bereits rechtskraeftig Verurteilter später wegen einer anderen Tat verurteilt, die vor der frueheren Verurteilung begangen wurde, so ist eine nachtraegliche Gesamtstrafe nach §§ 53, 54 StGB zu bilden. Vorverurteilung muss in den Aburteilung einbezogen werden, soweit die Strafe noch nicht **vollstreckt, verjaehrt oder erlassen** ist.
+- **§ 55 Abs. 2 StGB** — Bei Nebenstrafen, Nebenfolgen und Massregeln gilt § 53 Abs. 4 StGB sinngemäß.
 - **§ 460 StPO** — Beschluss-Verfahren zur nachtraeglichen Gesamtstrafenbildung; zuständig ist das Gericht des letzten Verfahrens.
 - **§ 462 StPO** — Anhörung, sofortige Beschwerde.
 - **§ 462a StPO** — Strafvollstreckungskammer für bestimmte Konstellationen.
 
 ## Zentrale Voraussetzung — Zaesurwirkung
 
-Die fruehere Verurteilung wirkt als **Zaesur**: Sie bildet die Trennlinie zwischen Taten, die nachtraeglich noch in eine Gesamtstrafe einbezogen werden koennen, und Taten, die in der Folgezeit begangen wurden. Massgeblich ist das **Datum der ersten tatrichterlichen Verurteilung** im jeweiligen Verfahren (st. Rspr.; Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren).
+Die fruehere Verurteilung wirkt als **Zaesur**: Sie bildet die Trennlinie zwischen Taten, die nachtraeglich noch in eine Gesamtstrafe einbezogen werden können, und Taten, die in der Folgezeit begangen wurden. Massgeblich ist das **Datum der ersten tatrichterlichen Verurteilung** im jeweiligen Verfahren (st. Rspr.; Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren).
 
 **Beispiel**:
 
@@ -52,7 +52,7 @@ Tat B wurde **vor** der Verurteilung vom 10.07.2024 begangen. Bei der Verurteilu
 
 Tat C wurde **nach** der Verurteilung vom 10.07.2024 begangen — sie kann **nicht** mit Tat A in eine Gesamtstrafe einbezogen werden; die Verurteilung vom 10.07.2024 wirkt als Zaesur.
 
-## Wann ist eine Einbeziehung nicht (mehr) moeglich?
+## Wann ist eine Einbeziehung nicht (mehr) möglich?
 
 § 55 Abs. 1 Satz 1 StGB schliesst die Einbeziehung aus, wenn die fruehere Strafe:
 
@@ -64,23 +64,23 @@ In solchen Faellen kommt der **Haerteausgleich** in Betracht; vgl. `haerteausgle
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
 
-1. **BZRG-Auszug** und Verfahrensakte pruefen: Welche Vorverurteilungen liegen vor? Welche Tatzeiten?
-2. **Zaesur-Pruefung**: Wurde die abzuurteilende Tat **vor** der ersten tatrichterlichen Verurteilung begangen?
+1. **BZRG-Auszug** und Verfahrensakte prüfen: Welche Vorverurteilungen liegen vor? Welche Tatzeiten?
+2. **Zaesur-Prüfung**: Wurde die abzuurteilende Tat **vor** der ersten tatrichterlichen Verurteilung begangen?
 3. **Status der Vorverurteilung**:
  - Vollstreckung schon abgeschlossen? — Haerteausgleich.
  - Verjaehrt? — Haerteausgleich.
  - Erlassen (Bewaehrung gluecklich abgelaufen)? — Haerteausgleich.
  - Noch offen / in Vollstreckung / Bewaehrung laufend? — Einbeziehung nach § 55 StGB.
 4. **Antrag**:
- - **In der Hauptverhandlung**: "Wir beantragen, gemaess § 55 StGB eine Gesamtstrafe aus der Strafe aus dem Urteil [Az.] vom [Datum] und der hier zu verhaengenden Strafe zu bilden."
+ - **In der Hauptverhandlung**: "Wir beantragen, gemäß § 55 StGB eine Gesamtstrafe aus der Strafe aus dem Urteil [Az.] vom [Datum] und der hier zu verhaengenden Strafe zu bilden."
  - **Nach Rechtskraft (Beschluss-Verfahren)**: § 460 StPO; zuständig ist das Gericht des **letzten** Verfahrens.
 5. **Begruendung im Urteil**: Einzelstrafen, Einsatzstrafe, Gesamtstrafe; vgl. `gesamtstrafenbildung-53-54-stgb-erste-instanz`.
-6. **Bewaehrungsperspektive**: Gesamtstrafe darf nicht ueber 2 Jahre liegen, wenn Bewaehrung erhalten bleiben soll.
+6. **Bewaehrungsperspektive**: Gesamtstrafe darf nicht über 2 Jahre liegen, wenn Bewaehrung erhalten bleiben soll.
 
 ## Beschluss-Verfahren nach § 460 StPO
 
 - Antrag der Staatsanwaltschaft oder des Verurteilten.
-- Zustaendig: Gericht des **letzten** Verfahrens.
+- Zuständig: Gericht des **letzten** Verfahrens.
 - Anhörung des Verurteilten und der Staatsanwaltschaft (§ 462 Abs. 2 StPO).
 - Entscheidung durch **Beschluss**; sofortige Beschwerde nach § 462 Abs. 3 StPO innerhalb einer Woche.
 - Die einbezogenen Strafen verlieren ihre Selbststaendigkeit; die alte Strafvollstreckungsgrundlage wird ersetzt durch den neuen Gesamtstrafen-Beschluss.
@@ -95,14 +95,14 @@ In solchen Faellen kommt der **Haerteausgleich** in Betracht; vgl. `haerteausgle
 
 ### Mehrere fruehere Verurteilungen
 
-- Es koennen **mehrere** fruehere Verurteilungen einbezogen werden, soweit die jeweilige Tat vor der jeweiligen frueheren Verurteilung begangen wurde.
+- Es können **mehrere** fruehere Verurteilungen einbezogen werden, soweit die jeweilige Tat vor der jeweiligen frueheren Verurteilung begangen wurde.
 - Komplexe Konstellationen: oft mehrere Zaesuren mit unterschiedlichen Einbeziehungsmoeglichkeiten.
 
 ### Verstrickung mit Bewaehrungsstrafe
 
 - Wird die fruehere Bewaehrungsstrafe in die Gesamtstrafe einbezogen, faellt sie als selbststaendige Bewaehrungsstrafe weg.
-- Die neue Gesamtstrafe kann ihrerseits zur Bewaehrung ausgesetzt werden (§ 56 StGB); Bewaehrungs-Voraussetzungen pruefen.
-- Falls die Bewaehrungsstrafe schon **erlassen** ist (§ 56g StGB), Einbeziehung nicht moeglich — Haerteausgleich.
+- Die neue Gesamtstrafe kann ihrerseits zur Bewaehrung ausgesetzt werden (§ 56 StGB); Bewaehrungs-Voraussetzungen prüfen.
+- Falls die Bewaehrungsstrafe schon **erlassen** ist (§ 56g StGB), Einbeziehung nicht möglich — Haerteausgleich.
 
 ### Mehrere offene Verfahren
 
@@ -117,7 +117,7 @@ In solchen Faellen kommt der **Haerteausgleich** in Betracht; vgl. `haerteausgle
 
 - **Zaesur falsch bestimmt**: Massgeblich ist das erste tatrichterliche Urteil im jeweiligen Verfahren, **nicht** die Rechtskraft.
 - **Einbeziehung uebersehen**: Wenn das Gericht die fruehere Strafe nicht einbezieht, obwohl sie noch offen ist, liegt Strafzumessungsmangel vor (Revisionsruege).
-- **Haerteausgleich nicht angesprochen**: Wenn Einbeziehung nicht moeglich ist, muss der Schutzzweck des § 55 StGB durch Haerteausgleich gewahrt werden.
+- **Haerteausgleich nicht angesprochen**: Wenn Einbeziehung nicht möglich ist, muss der Schutzzweck des § 55 StGB durch Haerteausgleich gewahrt werden.
 - **Bewaehrung** der frueheren Strafe nicht beachtet: Bei Einbeziehung faellt die alte Bewaehrungsanordnung weg.
 - **Gesamtstrafen-Obergrenze** ueberschritten (§ 54 Abs. 2 StGB).
 - **Mehrere Zaesuren** in komplexer Konstellation falsch geordnet.

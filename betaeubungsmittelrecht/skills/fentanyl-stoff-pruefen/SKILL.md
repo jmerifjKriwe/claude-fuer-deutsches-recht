@@ -3,7 +3,7 @@ name: fentanyl-stoff-pruefen
 description: "Fentanyl: Stoff prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Fentanyl Stoff Pruefen
+# Fentanyl Stoff Prüfen
 
 ## Arbeitsweg
 

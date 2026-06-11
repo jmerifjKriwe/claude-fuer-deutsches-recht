@@ -111,7 +111,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. Elektronische Signatur: Erlaubt? Qualifizierte eSignatur (QES) nach eIDAS-VO oder nur einfache?
 3. Signing-Verfahren: Physisch im selben Raum, virtuell (PDF-Signaturseiten), oder hybrid?
 4. Wie viele Vertragsparteien und Anlagen mussen unterzeichnet werden?
-5. Zeitpunkt: Simultanes Signing mit Closing oder getrennt (Signing jetzt; Closing spaeter)?
+5. Zeitpunkt: Simultanes Signing mit Closing oder getrennt (Signing jetzt; Closing später)?
 6. Notar: Beteiligt für GmbH-Anteile (§ 15 GmbHG) oder Beurkundungspflicht sonst?
 
 ## Zentrale Normen
@@ -131,7 +131,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 | Methode | Vorteile | Nachteile | Einsatz |
 |---|---|---|---|
-| Physisches Signing | Klar; keine Zweifel; Notar einfach | Logistikaufwand; Reise | Notarielle Beurkundung; grosse Deals |
+| Physisches Signing | Klar; keine Zweifel; Notar einfach | Logistikaufwand; Reise | Notarielle Beurkundung; große Deals |
 | Virtuell (PDF Counterparts) | Schnell; kein Reiseaufwand | Risiko falscher Version; keine gesetzliche Form | Bei vertraglicher Schriftform; nach Abstimmung |
 | Qualifizierte eSignatur (QES) | Ersetzt gesetzliche Schriftform (§ 126a) | Technische Anforderungen; Zertifikat erforderlich | Wenn gesetzliche Form, aber kein Notar noetig |
 | Hybrid | Flexibel | Koordinationsaufwand | Bei internationalen Parteien |
@@ -153,9 +153,9 @@ Risiken:
 1. **Execution Version finalisieren** — final; kein Track Changes; FINAL-Bezeichnung; ggf. Hash
 2. **Signaturseiten vorbereiten** — für jede Vertragspartei; Hinweis auf Gesamtversion
 3. **Signing-Prozess koordinieren** — Datum/Uhrzeit; Notar wenn erforderlich; Counterpart-Anweisungen
-4. **Vollmachten pruefen** — wer ist zeichnungsberechtigt; Handelsregister-Vertreter pruefen
+4. **Vollmachten prüfen** — wer ist zeichnungsberechtigt; Handelsregister-Vertreter prüfen
 5. **Signing durchfuehren** — physisch oder virtuell; Protokoll erstellen
-6. **Vollstaendigkeit pruefen** — alle Signaturseiten eingegangen; alle Anlagen beigefuegt
+6. **Vollstaendigkeit prüfen** — alle Signaturseiten eingegangen; alle Anlagen beigefuegt
 7. **Verteilung** — jede Partei erhaelt vollstaendige unterzeichnete Kopie
 8. **Closing-Bible anlegen** — Execution-Version mit Signaturseiten als archiviertes Original
 

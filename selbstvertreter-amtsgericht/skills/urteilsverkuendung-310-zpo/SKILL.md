@@ -26,7 +26,7 @@ Nach Abschluss der muendlichen Verhandlung verkuendet das Gericht das Urteil. Ve
 
 - **§ 310 ZPO** — Verkuendung des Urteils.
 - **§ 311 ZPO** — Beraumung Verkuendungs-Termin.
-- **§ 312 ZPO** — Wenn Termin nicht moeglich.
+- **§ 312 ZPO** — Wenn Termin nicht möglich.
 - **§ 313 ZPO** — Schriftliches Urteil.
 - **§ 315 ZPO** — Bekanntgabe.
 
@@ -64,7 +64,7 @@ Tenor ist die Entscheidung — kurz.
 
 Wenn nicht sofort: Gericht beraumt **Verkuendungs-Termin** an (i. d. R. innerhalb von 3 Wochen).
 
-Sie muessen **nicht** zum Verkuendungs-Termin erscheinen. Das Urteil wird verkuendet und dann zugestellt.
+Sie müssen **nicht** zum Verkuendungs-Termin erscheinen. Das Urteil wird verkuendet und dann zugestellt.
 
 ### Schritt 4 — Zustellung des schriftlichen Urteils
 
@@ -75,7 +75,7 @@ Nach Verkuendung erhalten Sie das **schriftliche Urteil** per Post:
 - Entscheidungsgruende (Begruendung).
 - Rechtsmittelbelehrung.
 
-### Schritt 5 — Pruefen Sie das schriftliche Urteil
+### Schritt 5 — Prüfen Sie das schriftliche Urteil
 
 - Stimmt der Tenor mit dem im Termin Verkuendeten ueberein?
 - Ist Ihr Vortrag im Tatbestand richtig wiedergegeben?
@@ -101,13 +101,13 @@ Wenn Sie sich im Termin verglichen haben (Skill `vergleich-richtervorschlag-278-
 
 ### Schritt 9 — Bei Klagabweisung
 
-Wenn Klage abgewiesen wird: Sie als Klaeger verlieren. Sie tragen die Kosten.
+Wenn Klage abgewiesen wird: Sie als Kläger verlieren. Sie tragen die Kosten.
 
 Wenn Beklagter verurteilt wird: Sie als Beklagter verlieren. Sie tragen die Kosten.
 
 Bei Teil-Erfolg: Kosten anteilig (§ 92 ZPO).
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Rechtsmittel-Frist startet mit Zustellung** schriftliches Urteil.
 - **Vergleich vor Urteil** ist Alternativ-Ausgang.

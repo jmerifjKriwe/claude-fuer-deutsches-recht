@@ -19,7 +19,7 @@ Eine Anwaltskanzlei oder ein Lehrstuhl liefert den Mitschnitt einer ganzen Facht
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn ein vollstaendiger Tagungsmitschnitt oder mehrere Einzelvortragsmitschnitte verarbeitet werden sollen. Klaeren Sie:
+Sie brauchen ihn, wenn ein vollstaendiger Tagungsmitschnitt oder mehrere Einzelvortragsmitschnitte verarbeitet werden sollen. Klären Sie:
 
 1. Welche Vortraege wurden gehalten, in welcher Reihenfolge, mit welchen Vortragenden?
 2. Programm, Handouts, Folien vorhanden?
@@ -55,7 +55,7 @@ Sie brauchen ihn, wenn ein vollstaendiger Tagungsmitschnitt oder mehrere Einzelv
 ## Praxistipps der alten Redaktion
 
 - "Ein Tagungsbericht ist keine Antrittsvorlesung. Schreiben Sie kuerzer als der Vortragende gesprochen hat."
-- Funktionsangaben tagesaktuell pruefen.
+- Funktionsangaben tagesaktuell prüfen.
 - Diskussionsskizze: Hauptkontroversen, keine Namens-Stenografie. Bei sensiblen Themen Namen abstrahieren ("ein Strafverteidiger aus dem Auditorium").
 - Bei interdisziplinaerer Tagung: Fachvokabular der anderen Disziplin erklaeren.
 - Erscheinungstermin: Tagungsbericht ist nur einige Wochen aktuell wertvoll. Schneller Lauf!
@@ -77,13 +77,13 @@ Fazit (500-1.000 Z)
 
 **Autorisierungs-Anschreiben an Vortragende:**
 
-> Sehr geehrter Herr Professor, anbei der Abschnitt unseres Tagungsberichts zur Tagung "Karlsruher Forum 2026", der Ihren Vortrag betrifft. Bitte pruefen Sie die Treue der Wiedergabe Ihrer Thesen und nennen Sie uns Pinpoints zu den drei muendlich genannten Belegen (S. 2 BGH-Urteil zur AGB-Kontrolle; S. 3 Aufsatz Canaris; S. 3 EuGH-Urteil). Rueckmeldung bis 19.06.2026.
+> Sehr geehrter Herr Professor, anbei der Abschnitt unseres Tagungsberichts zur Tagung "Karlsruher Forum 2026", der Ihren Vortrag betrifft. Bitte prüfen Sie die Treue der Wiedergabe Ihrer Thesen und nennen Sie uns Pinpoints zu den drei muendlich genannten Belegen (S. 2 BGH-Urteil zur AGB-Kontrolle; S. 3 Aufsatz Canaris; S. 3 EuGH-Urteil). Rueckmeldung bis 19.06.2026.
 
 ## Typische Fehler / Pitfalls
 
 - Vortragende ohne Autorisierung des "eigenen" Abschnitts gedruckt.
 - Diskussionsteilnehmer namentlich genannt, obwohl "off the record" beansprucht.
-- Tagungsbericht erscheint sechs Monate spaeter - Aktualitaet weg.
+- Tagungsbericht erscheint sechs Monate später - Aktualitaet weg.
 - Hauptthesen verfaelscht durch Lektoratseingriffe.
 - Funktionsangaben veraltet zwischen Tagung und Druck.
 

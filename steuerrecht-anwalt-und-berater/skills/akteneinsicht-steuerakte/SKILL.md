@@ -143,12 +143,12 @@ Anschluss an Skill `anw-steuerbescheid-analyse` und Folge-Schriftsatz.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Akteneinsicht in Steuerakte beantragen | Anschreiben nach Schema; Template unten |
-| Variante A — Akteneinsicht für Dritte nicht Steuerpflichtigen | Vollmacht pruefen; Akteneinsicht nur mit Bevollmaechtigten-Nachweis |
+| Variante A — Akteneinsicht für Dritte nicht Steuerpflichtigen | Vollmacht prüfen; Akteneinsicht nur mit Bevollmaechtigten-Nachweis |
 | Variante B — Akteneinsicht im Strafverfahren StPO | Strafprozessuale Akteneinsicht § 147 StPO; anderer Antrag noetig |
 | Variante C — Behörde verweigert Akteneinsicht | Klage auf Akteneinsicht vor Finanzgericht; Widerspruch zuerst |
 
@@ -175,7 +175,7 @@ und informieren Sie über die Ergebnisse, insbesondere über:
 [KANZLEI], [DATUM]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

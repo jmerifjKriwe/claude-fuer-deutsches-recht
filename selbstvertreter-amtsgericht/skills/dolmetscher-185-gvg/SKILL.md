@@ -7,7 +7,7 @@ description: "Dolmetscher im Zivilprozess nach § 185 GVG. Wann hat man Anspruch
 
 ## Worum geht es?
 
-Verfahrenssprache ist Deutsch (§ 184 GVG). Wenn Sie nicht ausreichend Deutsch koennen, hat das Verfahren ein Sprach-Problem. § 185 GVG sieht **Dolmetscher** vor. Die Kosten traegt der Staat — bei Bedarf. Diese Skill zeigt, wann und wie Sie Dolmetscher beantragen.
+Verfahrenssprache ist Deutsch (§ 184 GVG). Wenn Sie nicht ausreichend Deutsch können, hat das Verfahren ein Sprach-Problem. § 185 GVG sieht **Dolmetscher** vor. Die Kosten traegt der Staat — bei Bedarf. Diese Skill zeigt, wann und wie Sie Dolmetscher beantragen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -28,10 +28,10 @@ Verfahrenssprache ist Deutsch (§ 184 GVG). Wenn Sie nicht ausreichend Deutsch k
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Bedarf
+### Schritt 1 — Prüfen, ob Bedarf
 
 - Sie verstehen Verhandlungen nicht ausreichend?
-- Wichtige Aussagen koennen Sie nicht treffen?
+- Wichtige Aussagen können Sie nicht treffen?
 - Zeuge nicht in Deutsch erreichbar?
 
 Wenn ja: Dolmetscher beantragen.
@@ -59,13 +59,13 @@ Ihre/-n Vortraege selbst zu fuehren.
 
 ### Schritt 3 — Gericht bestellt Dolmetscher
 
-Gericht waehlt aus Liste der oeffentlich bestellten und vereidigten Dolmetscher.
+Gericht waehlt aus Liste der öffentlich bestellten und vereidigten Dolmetscher.
 
 ### Schritt 4 — Kosten
 
 Bei Selbstvertretung mit Sprach-Bedarf: Kosten i. d. R. vom Staat getragen (Verfahrensgarantie).
 
-Bei normalen Sprach-Beduerfnissen kann es Beteiligungs-Pflicht geben. Klaeren Sie das vorab mit Gericht.
+Bei normalen Sprach-Beduerfnissen kann es Beteiligungs-Pflicht geben. Klären Sie das vorab mit Gericht.
 
 ### Schritt 5 — Im Termin
 
@@ -77,7 +77,7 @@ Bei normalen Sprach-Beduerfnissen kann es Beteiligungs-Pflicht geben. Klaeren Si
 
 Bei Urkunden in fremder Sprache:
 
-- Sie selbst koennen Uebersetzung beifuegen.
+- Sie selbst können Uebersetzung beifuegen.
 - Das Gericht kann beglaubigte Uebersetzung anfordern (§ 142 III ZPO).
 - Beglaubigte Uebersetzer (Liste IHK).
 
@@ -96,9 +96,9 @@ Gericht stellt Dolmetscher für Zeugenvernehmung bereit.
 
 ### Schritt 8 — Bei Sprach-Schwierigkeiten ohne Antrag
 
-Wenn Sie ohne Dolmetscher kommen und Verstaendnis-Schwierigkeiten habens: Gericht muss von Amts wegen Dolmetscher beiziehen, wenn anders kein faires Verfahren moeglich. § 185 GVG ist auch von Amts wegen anwendbar.
+Wenn Sie ohne Dolmetscher kommen und Verstaendnis-Schwierigkeiten habens: Gericht muss von Amts wegen Dolmetscher beiziehen, wenn anders kein faires Verfahren möglich. § 185 GVG ist auch von Amts wegen anwendbar.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Vor Termin Antrag stellen**.
 - **Sprach-Niveau realistisch einschaetzen**.

@@ -116,7 +116,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `zvg-betriebskosten-hausgeld` | Betriebskosten Hausgeld und laufende Objektkosten in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Nebenkosten prüfen WEG-Hausgeld bezahlen und Betriebskostenabrechnung erstellen. Normen § 155 ZVG Ausgaben… |
 | `zvg-bieterangebot-bewertung` | Bewertet Zwangsversteigerungsobjekte aus Investorensicht für Bieterentscheidung. Anwendungsfall Investor erwaeegt Kauf in Zwangsversteigerung und benoetigt strukturierte Wertbewertung. Normen § 74a ZVG geringstes Gebot… |
 | `zvg-glaeubiger-schuldner-kommunikation` | Schriftwechsel in der Zwangsverwaltung mit Schuldner Gläubiger Mieter Gericht Versicherern und Dienstleistern. Anwendungsfall Zwangsverwalter muss formgerechte Schreiben an alle Beteiligten erstellen. Normen §§ 150 151… |
-| `zvg-insolvenz-schnittstelle` | Schnittstelle Zwangsverwaltung und Insolvenz bei Insolvenz des Schuldners. Anwendungsfall Schuldner wird insolvent waehrend Zwangsverwaltung laeuft und Verwalter muss Koordination mit Insolvenzverwalter klaeren. Normen… |
+| `zvg-insolvenz-schnittstelle` | Schnittstelle Zwangsverwaltung und Insolvenz bei Insolvenz des Schuldners. Anwendungsfall Schuldner wird insolvent waehrend Zwangsverwaltung laeuft und Verwalter muss Koordination mit Insolvenzverwalter klären. Normen… |
 | `zvg-instandhaltung-sicherung` | Instandhaltung Sicherung und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Objekt weist Sicherheitsmaengel auf oder Notmassnahmen sind erforderlich. Normen § 154 ZVG Pflicht zur Erhaltung § 823 BGB… |
 | `zvg-kommandocenter` | Kommandocenter für Zwangsverwaltung — Triage und Routing zu allen ZVG-Skills. Anwendungsfall Zwangsverwalter oeffnet Plugin und will schnell den richtigen starten. Normen §§ 146-161 ZVG Kernvorschriften.… |
 | `zvg-konten-kassenfuehrung` | Kontenführung und Buchführung des Treuhandkontos in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Einnahmen Ausgaben und Saldo des Treuhandkontos nachweisen. Normen § 155 ZVG Einnahmen Ausgaben § 154 ZVG… |
@@ -131,28 +131,28 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `zvg-verkauf-versteigerung-schnittstelle` | Schnittstelle zwischen laufender Zwangsverwaltung und dem Zwangsversteigerungsverfahren. Anwendungsfall Zwangsverwaltung soll aufgehoben werden weil Zwangsversteigerung angeordnet wird oder laeuft. Normen § 153b ZVG… |
 | `zvg-versicherungen-gefahren` | Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Gebaeudeversicherung ist nicht bezahlt oder Schadenfall ist eingetreten. Normen § 154 ZVG Erhaltungspflicht § 823 BGB… |
 | `zvg-versteigerungsteilnahme` | Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bieter. Anwendungsfall Mandant will an Versteigerungstermin teilnehmen und benoetigt vollständige Vorbereitung. Normen §§ 87 ff. ZVG Termin §… |
-| `zvg-verteilungsplan-155` | Verteilungsplan nach § 155 ZVG für die Auszahlung von Einnahmen in der Zwangsverwaltung. Anwendungsfall Einnahmen sind angefallen und muessen nach gesetzlicher Rangfolge verteilt werden. Normen § 155 ZVG Verteilung §… |
+| `zvg-verteilungsplan-155` | Verteilungsplan nach § 155 ZVG für die Auszahlung von Einnahmen in der Zwangsverwaltung. Anwendungsfall Einnahmen sind angefallen und müssen nach gesetzlicher Rangfolge verteilt werden. Normen § 155 ZVG Verteilung §… |
 
 ## Worum geht es?
 
-Das Plugin unterstuetzt Zwangsverwalter und Zwangsversteigerungsbeteiligte bei der rechtssicheren Durchfuehrung von Zwangsverwaltungen und Zwangsversteigerungen nach dem Gesetz ueber die Zwangsversteigerung und die Zwangsverwaltung (ZVG). Es deckt den vollstaendigen Lebenszyklus ab: von der Pruefung des Bestellungsbeschlusses und der Besitzerlangung ueber die laufende Mietverwaltung, Konten- und Kassenfuehrung sowie Berichterstattung bis zur Jahresrechnung, dem Verteilungsplan und der Schnittstelle zur Zwangsversteigerung.
+Das Plugin unterstuetzt Zwangsverwalter und Zwangsversteigerungsbeteiligte bei der rechtssicheren Durchfuehrung von Zwangsverwaltungen und Zwangsversteigerungen nach dem Gesetz über die Zwangsversteigerung und die Zwangsverwaltung (ZVG). Es deckt den vollstaendigen Lebenszyklus ab: von der Prüfung des Bestellungsbeschlusses und der Besitzerlangung über die laufende Mietverwaltung, Konten- und Kassenfuehrung sowie Berichterstattung bis zur Jahresrechnung, dem Verteilungsplan und der Schnittstelle zur Zwangsversteigerung.
 
 Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt sind, sowie Glaeubiger und Investoren, die an Zwangsversteigerungsterminen teilnehmen wollen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wurden als Zwangsverwalter bestellt und muessen das Objekt vollstaendig erfassen und das Verfahrenscockpit aufbauen.
-- Mieter zahlen nicht und Sie muessen Rueckstaende einziehen, mahnen oder Klagen einleiten.
+- Sie wurden als Zwangsverwalter bestellt und müssen das Objekt vollstaendig erfassen und das Verfahrenscockpit aufbauen.
+- Mieter zahlen nicht und Sie müssen Rueckstaende einziehen, mahnen oder Klagen einleiten.
 - Die Rechnungslegungsperiode endet und die Jahres- oder Schlussrechnung muss gerichtsfaehig erstellt werden.
-- Der Schuldner wird insolvent und Sie muessen die Koordination mit dem Insolvenzverwalter sicherstellen.
+- Der Schuldner wird insolvent und Sie müssen die Koordination mit dem Insolvenzverwalter sicherstellen.
 - Ein Mandant will an einem Zwangsversteigerungstermin teilnehmen und benoetigt Vorbereitung und Bieterangebotsanalyse.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Beschlagnahme** — Rechtliche Wirkung der Anordnung der Zwangsverwaltung: Der Schuldner verliert die Verfuegungsmacht ueber Fruechte und Nutzungen (§§ 146 148 ZVG).
+- **Beschlagnahme** — Rechtliche Wirkung der Anordnung der Zwangsverwaltung: Der Schuldner verliert die Verfuegungsmacht über Fruechte und Nutzungen (§§ 146 148 ZVG).
 - **Zwangsverwalter** — Vom Vollstreckungsgericht bestellte Person, die das Objekt im Interesse der Glaeubiger verwaltet (§§ 150 ff. ZVG).
 - **Treuhandkonto** — Getrenntes Konto für Einnahmen und Ausgaben der Zwangsverwaltung; Zwangsverwalter fuehrt es treuhänderisch.
-- **Rechnungslegung** — Pflicht des Zwangsverwalters nach § 161 ZVG, dem Gericht jaehrlich Rechenschaft ueber Einnahmen und Ausgaben abzulegen.
+- **Rechnungslegung** — Pflicht des Zwangsverwalters nach § 161 ZVG, dem Gericht jaehrlich Rechenschaft über Einnahmen und Ausgaben abzulegen.
 - **Verteilungsplan** — Verteilung der Einnahmen nach gesetzlicher Rangfolge des § 155 ZVG auf Kosten, Glaeubiger und sonstige Berechtigte.
 - **Geringstes Gebot** — Mindestgebot in der Zwangsversteigerung nach § 74a ZVG: Massstab für 7/10-Grenze und Zuschlagsversagung.
 - **Absonderungsrecht** — Recht eines Glaeubigers, Befriedigung aus einem bestimmten Gegenstand vorrangig zu verlangen (§ 49 InsO im Kontext der Insolvenzschnittstelle).
@@ -173,7 +173,7 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Bestellungsbeschluss pruefen und Objektcockpit anlegen (Aktenanlage, Beteiligtenregister, Mieterliste, Treuhandkonto).
+1. Bestellungsbeschluss prüfen und Objektcockpit anlegen (Aktenanlage, Beteiligtenregister, Mieterliste, Treuhandkonto).
 2. Besitzerlangung vor Ort protokollieren und Gericht informieren.
 3. Laufende Verwaltung: Mieteinzug, Betriebskosten, Instandhaltung, Versicherungen und Konten fuehren.
 4. Berichterstattung an Gericht und Glaeubiger; Qualitaetsgate vor Versand.
@@ -184,8 +184,8 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - `zvg-aktenanlage-objektcockpit` — Aktenanlage und Objektcockpit aufbauen: Objektkarte, Beteiligtenregister, Mieterliste und Fristen.
 - `zvg-berichtswesen-gericht` — Besitzerlangungsbericht, Sachstandsbericht und Entscheidungsvorlagen für das Vollstreckungsgericht erstellen.
 - `zvg-besitzuebernahme` — Besitzerlangung am Objekt protokollieren: Vor-Ort-Termin, Objektbeschreibung, Schluesselliste und Gericht informieren.
-- `zvg-bestellung-beschlagnahme` — Bestellungsbeschluss und Beschlagnahme rechtlich pruefen: Vollstaendigkeitsvermerk und naechste Schritte.
-- `zvg-betriebskosten-hausgeld` — Betriebskosten, WEG-Hausgeld und laufende Objektkosten pruefen und abrechnen.
+- `zvg-bestellung-beschlagnahme` — Bestellungsbeschluss und Beschlagnahme rechtlich prüfen: Vollstaendigkeitsvermerk und naechste Schritte.
+- `zvg-betriebskosten-hausgeld` — Betriebskosten, WEG-Hausgeld und laufende Objektkosten prüfen und abrechnen.
 - `zvg-bieterangebot-bewertung` — Zwangsversteigerungsobjekte aus Investorensicht bewerten: Bietlimit, geringstes Gebot und Risikoeinschaetzung.
 - `zvg-glaeubiger-schuldner-kommunikation` — Schriftwechsel mit Schuldner, Glaeubiger, Mieter, Gericht, Versicherern und Dienstleistern.
 - `zvg-insolvenz-schnittstelle` — Koordination mit Insolvenzverwalter bei Insolvenz des Schuldners waehrend laufender Zwangsverwaltung.
@@ -201,16 +201,16 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - `zvg-rechnungslegung` — Jahresrechnung und Schlussrechnung gerichtsfaehig erstellen.
 - `zvg-simulation-training` — Zwangsverwaltungs-Workflows im Simulationsmodus trainieren und demonstrieren.
 - `zvg-verkauf-versteigerung-schnittstelle` — Schnittstelle zwischen laufender Zwangsverwaltung und Zwangsversteigerungsverfahren.
-- `zvg-versicherungen-gefahren` — Versicherungsschutz pruefen und Schadenfall melden; Deckungsnachweis und Sicherungsmassnahmen.
+- `zvg-versicherungen-gefahren` — Versicherungsschutz prüfen und Schadenfall melden; Deckungsnachweis und Sicherungsmassnahmen.
 - `zvg-versteigerungsteilnahme` — Vorbereitung der Teilnahme am Zwangsversteigerungstermin: Ausweis, Sicherheitsleistung, Bietstrategie.
 - `zvg-verteilungsplan-155` — Verteilungsplan nach § 155 ZVG: Rangfolge, Betraege, Auszahlungsnachweis und Gerichtsbericht.
 
 ## Worauf besonders achten
 
 - **Besitzerlangungsbericht zeitnah**: Das Gericht erwartet sofortige Meldung nach Besitzuebernahme; Verzoegerung kann zu Rueckfragen fuehren.
-- **Treuhandkonto strikt getrennt**: Verwaltungseinnahmen duerfen nicht mit Eigengeldern des Verwalters vermischt werden.
+- **Treuhandkonto strikt getrennt**: Verwaltungseinnahmen dürfen nicht mit Eigengeldern des Verwalters vermischt werden.
 - **WEG-Hausgeld als vorrangige Ausgabe**: § 10 ZVG stellt laufendes Hausgeld in eine besondere Rangklasse; Zahlungsverzug kann Schadensersatzpflicht ausloesen.
-- **Insolvenzschnittstelle fruehzeitig klaeren**: Bei Insolvenz des Schuldners aendert sich das Absonderungsrecht; Abstimmung mit Insolvenzverwalter ist unverzueglich erforderlich.
+- **Insolvenzschnittstelle fruehzeitig klären**: Bei Insolvenz des Schuldners aendert sich das Absonderungsrecht; Abstimmung mit Insolvenzverwalter ist unverzueglich erforderlich.
 - **Quality Gate vor jedem Gerichtsversand**: Bericht oder Rechnungslegung ohne vorherigen Gate-Lauf riskiert Rueckfragen und Gerichtsmaengel.
 
 ## Typische Fehler
@@ -227,4 +227,4 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - ZVG in der aktuellen Fassung; Normbestand abrufbar unter https://www.gesetze-im-internet.de/zvg/
 - Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl. 2025 I Nr. 110) gilt vom 01.07.2025 bis 30.06.2026. Quelle: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
 - Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): Wertgrenzenreform ab 01.01.2026 wirkt sich auf Beschwerdesummen aus; Uebergangsvorschrift § 47 EGZPO.
-- BGH V. ZS und VII. ZS aktuelle Linien zu Versteigerung und Zuschlag ueber https://www.bundesgerichtshof.de und https://dejure.org pruefen.
+- BGH V. ZS und VII. ZS aktuelle Linien zu Versteigerung und Zuschlag über https://www.bundesgerichtshof.de und https://dejure.org prüfen.

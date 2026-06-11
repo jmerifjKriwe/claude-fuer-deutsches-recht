@@ -15,12 +15,12 @@ description: "Skill zur politischen Maessigungspflicht nach § 60 BBG bzw. § 33
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird (Twitter-Posts, kommunalpolitisches Engagement, öffentliche Statements), und für die rechtliche Pruefung der Aeusserungsgrenzen.
+Skill für Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird (Twitter-Posts, kommunalpolitisches Engagement, öffentliche Statements), und für die rechtliche Prüfung der Aeusserungsgrenzen.
 
 ## 2. Eingaben
 
 - Konkrete Aeusserung im Wortlaut und Kontext
-- Plattform (oeffentlich, beruflich oder privat)
+- Plattform (öffentlich, beruflich oder privat)
 - Statusamt und Dienststellung
 - Reaktion des Dienstherrn (Ermahnung, Disziplinarvorgang)
 
@@ -36,7 +36,7 @@ Skill für Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird 
 - Bei Lehrkraeften und Polizei strengere Massstaebe; bei wissenschaftlichen Beamten weitere Spielraeume durch Art. 5 Abs. 3 GG.
 
 ### d) Soziale Medien
-- Auch Privataccounts ohne dienstliche Kennzeichnung koennen erfasst werden, wenn der Bezug zur Amtsstellung erkennbar ist.
+- Auch Privataccounts ohne dienstliche Kennzeichnung können erfasst werden, wenn der Bezug zur Amtsstellung erkennbar ist.
 
 ### e) Grenze zur Verfassungstreue
 - Aeusserungen, die die freiheitlich demokratische Grundordnung bekaempfen, werden unter dem strengeren Massstab des § 7 BBG / § 33 Abs. 1 BeamtStG bewertet — Skill `verfassungstreue-7-bbg-reichsbuerger`.
@@ -62,4 +62,4 @@ Skill für Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird 
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Studiendirektor postet politische Kommentare zu Migrationsfragen auf Twitter unter Realname und mit Hinweis auf Schulort. Skill liefert Pruefraster Statusbezug, Meinungsfreiheit und Verhaeltnismaessigkeit moeglicher Disziplinarmassnahmen.
+Mandant Studiendirektor postet politische Kommentare zu Migrationsfragen auf Twitter unter Realname und mit Hinweis auf Schulort. Skill liefert Pruefraster Statusbezug, Meinungsfreiheit und Verhältnismäßigkeit moeglicher Disziplinarmassnahmen.

@@ -20,7 +20,7 @@ description: "MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Raten
 
 ## Vergleich zu § 3-Modell
 
-- § 3-Modell: Raten nach Baufortschritt (mit Schutz durch Baufortschritts-Pruefung).
+- § 3-Modell: Raten nach Baufortschritt (mit Schutz durch Baufortschritts-Prüfung).
 - § 7-Modell: volle Vorauszahlung gegen Sicherheit.
 
 ## Bewertung aus Erwerberperspektive
@@ -39,7 +39,7 @@ description: "MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Raten
 
 ### § 3-Modell Risiken
 - Komplexer.
-- Streit ueber Baufortschritts-Stand.
+- Streit über Baufortschritts-Stand.
 
 ## Aktuelle Bonitaetspruefung
 

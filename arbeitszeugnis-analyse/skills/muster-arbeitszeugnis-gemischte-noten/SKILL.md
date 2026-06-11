@@ -15,15 +15,15 @@ description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Trai
 
 | Satz im Muster | Themenbereich | Note | Befund |
 |---|---|---|---|
-| "verfuegt auch in Randbereichen ueber aeusserst profundes Fachwissen" | Fachkenntnisse | 1 | Steigerer plus Maximalbereich |
+| "verfuegt auch in Randbereichen über aeusserst profundes Fachwissen" | Fachkenntnisse | 1 | Steigerer plus Maximalbereich |
 | "nahm regelmaessig erfolgreich an Weiterbildungsseminaren teil" | Lernbereitschaft | 3 | Kein Steigerungsadverb |
-| "ausgepraegt strategisches Denkvermoegen, stets in kuerzester Zeit optimale Loesungen" | Strategisches Denken | 1 | "stets" plus Superlativ |
+| "ausgeprägt strategisches Denkvermoegen, stets in kuerzester Zeit optimale Loesungen" | Strategisches Denken | 1 | "stets" plus Superlativ |
 | "zeigte sich bei neuen Aufgabenbereichen flexibel und aufgeschlossen" | Flexibilitaet | 3 | "zeigte" ohne Steigerung |
 | "besonders hohe Arbeitsmoral, stets aeusserst motiviert, beharrlich zu verfolgen" | Engagement | 1 | Drei Steigerer |
 | "zeigte eine hohe Lernbereitschaft" | Lernbereitschaft | 3 | "hohe" ohne Adverb |
 | "jederzeit vollkommen selbststaendig, aeusserst sorgfaeltig, planvoll durchdacht" | Arbeitsweise | 1 | Drei Steigerer |
 | "fand gute neue Ideen und innovative Ansaetze" | Innovation | 3 | "gute" statt "hervorragende" |
-| "Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" | Arbeitsergebnis | 1 | Maximalvergleich |
+| "Arbeitsergebnisse lagen stets sehr weit über unseren Anforderungen" | Arbeitsergebnis | 1 | Maximalvergleich |
 | "war in der Lage, Konflikte erfolgreich zu bewaeltigen" | Sozialverhalten | 3 | "war in der Lage" |
 | "vollsten Zufriedenheit erfuellt und teilweise sogar uebertroffen" | Gesamtbeurteilung | 1 | Maximalformel |
 | "geschaetzter Ansprechpartner, persönliches Verhalten war einwandfrei" | Sozialverhalten | 3 | "einwandfrei" ohne "stets" |
@@ -39,17 +39,17 @@ description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Trai
 
 **Arbeitszeugnis**
 
-Herr Albert Beispiel, geboren am neunten Juni neunzehnhundertsiebzig, war vom ersten Januar zweitausendelf bis zum dreissigsten September zweitausenddreizehn als Baumeister im Bereich Geschaeftsleitung unseres Unternehmens taetig.
+Herr Albert Beispiel, geboren am neunten Juni neunzehnhundertsiebzig, war vom ersten Januar zweitausendelf bis zum dreissigsten September zweitausenddreizehn als Baumeister im Bereich Geschaeftsleitung unseres Unternehmens tätig.
 
-Herr Beispiel verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches ueber aeusserst profundes Fachwissen.
+Herr Beispiel verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches über aeusserst profundes Fachwissen.
 
 Herr Beispiel nahm in eigener Initiative regelmaessig erfolgreich an internen und externen Weiterbildungsseminaren teil.
 
-Hervorzuheben ist sein ausgepraegt strategisches Denkvermoegen, das es ihm ermoeglichte, auch bei neuen geschaeftlichen Entwicklungen stets in kuerzester Zeit optimale Loesungen zu entwickeln.
+Hervorzuheben ist sein ausgeprägt strategisches Denkvermoegen, das es ihm ermoeglichte, auch bei neuen geschaeftlichen Entwicklungen stets in kuerzester Zeit optimale Loesungen zu entwickeln.
 
 Er zeigte sich auch bei der Bewaeltigung neuer Aufgabenbereiche flexibel und aufgeschlossen.
 
-Herr Beispiel verfuegt ueber eine besonders hohe Arbeitsmoral und war stets aeusserst motiviert, die gesetzten Ziele beharrlich zu verfolgen.
+Herr Beispiel verfuegt über eine besonders hohe Arbeitsmoral und war stets aeusserst motiviert, die gesetzten Ziele beharrlich zu verfolgen.
 
 Herr Beispiel zeigte eine hohe Lernbereitschaft.
 
@@ -57,7 +57,7 @@ Alle Aufgaben fuehrte er jederzeit vollkommen selbststaendig, aeusserst sorgfael
 
 Herr Beispiel war Neuem gegenueber aufgeschlossen, fand gute neue Ideen und innovative Ansaetze.
 
-Die von Herrn Beispiel entwickelten Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen.
+Die von Herrn Beispiel entwickelten Arbeitsergebnisse lagen stets sehr weit über unseren Anforderungen.
 
 Herr Beispiel war in der Lage, Konflikte erfolgreich zu bewaeltigen. Durch sein konstruktives Verhalten und ueberlegtes Handeln konnte er so ein gutes Arbeitsklima in seinem Team schaffen.
 

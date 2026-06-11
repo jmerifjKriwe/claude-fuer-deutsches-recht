@@ -46,7 +46,7 @@ BGH-Linie verlangt für die VBP kumulativ:
 - **Gesetz**: GF Paragraph 43 GmbHG; Vorstand Paragraph 93 AktG; Vormund Paragraph 1793 BGB; Insolvenzverwalter Paragraph 60 InsO.
 - **Behoerdlicher Auftrag**: gerichtlich bestellter Treuhaender, Pfleger, Betreuer.
 - **Rechtsgeschaeft**: Vermoegensverwaltungsvertrag, Treuhandvertrag, Geschaeftsbesorgungsvertrag mit Vermoegensbezug.
-- **Treueverhaeltnis** (sui generis): faktische Vertrauensstellung, z. B. langjaehriger Familienverwalter, der "wie selbstverstaendlich" das Vermoegen verwaltet.
+- **Treueverhaeltnis** (sui generis): faktische Vertrauensstellung, z. B. langjaehriger Familienverwalter, der "wie selbstverstaendlich" das Vermögen verwaltet.
 
 ### Abgrenzung Missbrauch vs. Treubruch
 
@@ -59,7 +59,7 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 
 ## Praktikertipps der alten Hasen
 
-- **Mosaikpruefung der VBP.** Bei jedem Mandanten konkret pruefen: Was war seine Aufgabe? Eigenstaendiges Entscheiden ueber fremdes Vermoegen oder nur Ausfuehren von Weisungen? Bei reinen Ausfuehrungstaetigkeiten (Kassierer, Buchhalter ohne Spielraum) regelmaessig keine VBP.
+- **Mosaikpruefung der VBP.** Bei jedem Mandanten konkret prüfen: Was war seine Aufgabe? Eigenstaendiges Entscheiden über fremdes Vermögen oder nur Ausfuehren von Weisungen? Bei reinen Ausfuehrungstaetigkeiten (Kassierer, Buchhalter ohne Spielraum) regelmaessig keine VBP.
 - **Schwelle "hauptsaechlich" angreifen.** Wenn die Vermoegensbetreuung nur Nebenpflicht des Vertrags ist (z. B. Anwalt im Mandat: Vertretung ist Hauptpflicht, nicht Vermoegensverwaltung), faellt die VBP. BGH staendige Rspr.
 - **Treueverhaeltnis "sui generis" ist Sondertatbestand.** Praxis selten. Wenn StA hier argumentiert, scharfe Erwiderung mit Beleg, dass kein faktisches Vertrauensverhaeltnis bestand.
 - **Pflichten verschmelzen mit Vertretungsmacht.** Bei eingetragenen GF und Vorstaenden ist VBP fast immer evident. Hier liegt der Schwerpunkt nicht im "ob", sondern im "ob konkret pflichtwidrig gehandelt".
@@ -80,16 +80,16 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 ## Strafzumessung und Folgen
 
 - Wie Paragraph 266 StGB allgemein: Freiheitsstrafe bis 5 Jahre oder Geldstrafe; bei besonders schwerem Fall 6 Monate bis 10 Jahre.
-- **Strafzumessend** wirkt die Hoehe der VBP-Verletzung: Wer als langjaehriger Familienverwalter Vermoegen veruntreut, wird strenger bestraft als kurzfristiger Verwalter.
+- **Strafzumessend** wirkt die Höhe der VBP-Verletzung: Wer als langjaehriger Familienverwalter Vermögen veruntreut, wird strenger bestraft als kurzfristiger Verwalter.
 - **Einziehung Paragraph 73 StGB** des untreuewidrig Erlangten.
 - **Berufsverbot Paragraph 70 StGB** bei Berufsausuebung wahrscheinlich.
 - **Bei Anwaelten/Notaren**: Disziplinarverfahren, Verlust der Zulassung Paragraph 14 Nr 2 BRAO.
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Meine Mandantin war als Buchhalterin der Y GmbH ohne Prokura und ohne eigenstaendige Vermoegensverfuegungsbefugnis taetig. Ihre Taetigkeit beschraenkte sich auf das Verbuchen vorliegender Belege nach Anweisung des GF. Eine für den Treubruchstatbestand erforderliche qualifizierte Vermoegensbetreuungspflicht iSd staendigen BGH-Rspr. lag nicht vor; die Voraussetzungen der Hauptsaechlichkeit und Eigenstaendigkeit sind nicht erfuellt."
+**Schutzschrift-Snippet:** "Meine Mandantin war als Buchhalterin der Y GmbH ohne Prokura und ohne eigenstaendige Vermoegensverfuegungsbefugnis tätig. Ihre Taetigkeit beschraenkte sich auf das Verbuchen vorliegender Belege nach Anweisung des GF. Eine für den Treubruchstatbestand erforderliche qualifizierte Vermoegensbetreuungspflicht iSd staendigen BGH-Rspr. lag nicht vor; die Voraussetzungen der Hauptsaechlichkeit und Eigenstaendigkeit sind nicht erfuellt."
 
-**Einlassungs-Snippet:** "Meine Aufgabe war es, die Buchungen vorzunehmen, die mir der GF schriftlich oder muendlich angeordnet hat. Eigenstaendige Entscheidungen ueber Vermoegensverfuegungen habe ich nie getroffen. Die EUR 5.000-Ueberweisung an Lieferant Z am DD.MM.JJJJ hat der GF persoenlich angeordnet (E-Mail Anlage SS 1)."
+**Einlassungs-Snippet:** "Meine Aufgabe war es, die Buchungen vorzunehmen, die mir der GF schriftlich oder muendlich angeordnet hat. Eigenstaendige Entscheidungen über Vermoegensverfuegungen habe ich nie getroffen. Die EUR 5.000-Ueberweisung an Lieferant Z am DD.MM.JJJJ hat der GF persoenlich angeordnet (E-Mail Anlage SS 1)."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der internen Arbeitsanweisung der Y GmbH vom DD.MM.JJJJ zu erheben zum Beweis der Tatsache, dass meine Mandantin Buchungen nur nach schriftlicher Anweisung des GF vornehmen durfte."
 

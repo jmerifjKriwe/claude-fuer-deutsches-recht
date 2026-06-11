@@ -3,7 +3,7 @@ name: kommunaler-finanztransfer-titel-pruefe
 description: "Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Kommunaler Finanztransfer Titel Pruefe
+# Kommunaler Finanztransfer Titel Prüfe
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Ti
 
 ## Normenanker
 
-Arbeitsfokus: **Kommunaler Finanztransfer Titel Pruefe**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Kommunaler Finanztransfer Titel Prüfe**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
 - `§ 17 BHO` — Einzelveranschlagung.

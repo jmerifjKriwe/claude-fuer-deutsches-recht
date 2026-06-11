@@ -31,8 +31,8 @@ Nach Erscheinen eines Beitrags wird eine inhaltliche Korrektur erforderlich: Tip
 
 - MStV (Medienstaatsvertrag) § 20 - Gegendarstellung in Telemedien mit journalistisch-redaktioneller Praegung; gleiche Aufmachung, gleicher Veroeffentlichungsort.
 - LandesPresseG der Länder - Gegendarstellungspflicht im Printbereich (z. B. § 11 LPresseG NRW).
-- BGB §§ 823, 1004 (analog) - Berichtigungsanspruch ueber das allgemeine Persoenlichkeitsrecht; BGB § 824 Kreditgefaehrdung.
-- BVerfG-Rechtsprechung zur Pflicht zur Berichtigung unwahrer Tatsachenbehauptungen (vgl. zur amtlichen Pruefung unter bundesverfassungsgericht.de).
+- BGB §§ 823, 1004 (analog) - Berichtigungsanspruch über das allgemeine Persoenlichkeitsrecht; BGB § 824 Kreditgefaehrdung.
+- BVerfG-Rechtsprechung zur Pflicht zur Berichtigung unwahrer Tatsachenbehauptungen (vgl. zur amtlichen Prüfung unter bundesverfassungsgericht.de).
 - UWG §§ 5, 5a, 8 - Berichtigung bei irrefuehrenden geschaeftlichen Aussagen.
 - Pressekodex (Ziffern 3 und 13) - Richtigstellung als Grundsatz journalistischer Sorgfalt.
 
@@ -50,7 +50,7 @@ Nach Erscheinen eines Beitrags wird eine inhaltliche Korrektur erforderlich: Tip
 4. **Wortlaut.**
  - Erratum: knapp, sachlich, keine Schuldzuweisung.
  - Berichtigung: Bezug auf die unwahre Aussage, korrekte Tatsache, Datum.
- - Gegendarstellung: Tatsachenbehauptungen des Betroffenen, ohne Wertung; redaktionelle Anmerkung nur als Distanzierung zulaessig.
+ - Gegendarstellung: Tatsachenbehauptungen des Betroffenen, ohne Wertung; redaktionelle Anmerkung nur als Distanzierung zulässig.
 5. **Justiziariat einbinden** bei Gegendarstellung und Berichtigung.
 6. **Onlineversion versioniert speichern** (vorher/nachher), Hinweisseite mit Quellenangabe.
 7. **Folgemassnahmen.** Lektoratsfehleranalyse; Eintrag in CRM zur Autorinformation.
@@ -71,7 +71,7 @@ Nach Erscheinen eines Beitrags wird eine inhaltliche Korrektur erforderlich: Tip
 - Gegendarstellung niemals "kommentieren" mit Sachgegenargument - das gefaehrdet die Wirksamkeit der Pflichterfuellung.
 - Bei Online-Korrektur Versionsstand anzeigen ("Aktualisierte Fassung vom [Datum]") - Transparenz.
 - Datenbank-Anbieter (juris, beck-online) informieren - sonst veraltete Fassung im Recherchealltag.
-- Vor Veroeffentlichung der Gegendarstellung mit Justiziariat pruefen, ob Aufmachung und Umfang gesetzeskonform sind.
+- Vor Veroeffentlichung der Gegendarstellung mit Justiziariat prüfen, ob Aufmachung und Umfang gesetzeskonform sind.
 - Lektoratsfehler dokumentieren, sonst lernt das System nicht.
 
 ## Mustertexte / Vorlagen

@@ -17,7 +17,7 @@ Die Krankenkasse lehnt eine Behandlung oder Leistung ab. Sie sind betroffen — 
 
 ## In einfacher Sprache
 
-Die Krankenkasse sagt Nein. Sie wollen die Hilfe trotzdem. Wir zeigen Ihnen, wie Sie sich wehren koennen — mit oder ohne Anwalt.
+Die Krankenkasse sagt Nein. Sie wollen die Hilfe trotzdem. Wir zeigen Ihnen, wie Sie sich wehren können — mit oder ohne Anwalt.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -46,22 +46,22 @@ Die Krankenkasse sagt Nein. Sie wollen die Hilfe trotzdem. Wir zeigen Ihnen, wie
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Bescheid pruefen
+### Schritt 1 — Bescheid prüfen
 
 - Welche Leistung wurde abgelehnt?
 - Welche Begruendung?
 - Hat das MD-Gutachten zugrunde gelegen?
 - Datum, Frist.
 
-### Schritt 2 — Genehmigungsfiktion pruefen
+### Schritt 2 — Genehmigungsfiktion prüfen
 
-Hat die KK ueber 3 Wochen / 5 Wochen (bei MD-Pruefung) nichts entschieden? Dann gilt der Antrag als genehmigt (§ 13 Abs. 3a SGB V). Sehr wichtig!
+Hat die KK über 3 Wochen / 5 Wochen (bei MD-Prüfung) nichts entschieden? Dann gilt der Antrag als genehmigt (§ 13 Abs. 3a SGB V). Sehr wichtig!
 
-Pruefen:
+Prüfen:
 
 - Datum des Antrags
 - Datum der Entscheidung
-- War MD-Pruefung angekuendigt? (dann 5 Wochen)
+- War MD-Prüfung angekuendigt? (dann 5 Wochen)
 - Wenn nicht: 3 Wochen Frist
 
 ### Schritt 3 — Widerspruch einlegen
@@ -96,11 +96,11 @@ Mit freundlichen Gruessen
 
 **Reha-Ablehnung**:
 - Aerztliche Begruendung muss konkret sein
-- Pruefen, ob ambulante Reha besser passt
+- Prüfen, ob ambulante Reha besser passt
 - Aerztliche Verordnung wichtig
 
 **Hilfsmittel**:
-- Hilfsmittel-Verzeichnis pruefen (www.gkv-spitzenverband.de)
+- Hilfsmittel-Verzeichnis prüfen (www.gkv-spitzenverband.de)
 - Aerztliche Verordnung erforderlich
 - Festbetrag oft begrenzt
 
@@ -114,7 +114,7 @@ Mit freundlichen Gruessen
 - Erstgespraech bei Therapeut
 - Konkrete Diagnose ICD-10
 
-### Schritt 5 — Eilantrag pruefen
+### Schritt 5 — Eilantrag prüfen
 
 Bei dringenden Faellen siehe `eilantrag-krankenkassen-leistung`.
 
@@ -129,9 +129,9 @@ Wie bei jeder Klage: Verpflichtungs- und Anfechtungsklage kombiniert.
 - Hilfsmittel-Bedarf konkret
 - Reha-Bericht (falls vorhanden)
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Genehmigungsfiktion immer pruefen**: Wenn KK Fristen reisst, ist der Antrag fiktiv genehmigt — auch ohne Widerspruch.
+- **Genehmigungsfiktion immer prüfen**: Wenn KK Fristen reisst, ist der Antrag fiktiv genehmigt — auch ohne Widerspruch.
 - **Aerztliche Atteste sind das Wichtigste**: Sie brauchen Vertretung Ihres behandelnden Arztes.
 - **MD-Gutachten kritisch lesen**: Standard-Floskeln und nicht beruecksichtigte Atteste sind haeufig.
 - **Krankengeld-Ende**: Vor Aussteuerung planen; EM-Renten-Antrag rechtzeitig.
@@ -139,7 +139,7 @@ Wie bei jeder Klage: Verpflichtungs- und Anfechtungsklage kombiniert.
 ## Typische Fehler
 
 - "Ich glaube das genuegt nicht" → konkret begruenden
-- Genehmigungsfiktion ignoriert → pruefen
+- Genehmigungsfiktion ignoriert → prüfen
 - Aerztliche Atteste alt → aktuell halten
 - Krankengeld zu spaet uebergeleitet → fruehzeitig planen
 

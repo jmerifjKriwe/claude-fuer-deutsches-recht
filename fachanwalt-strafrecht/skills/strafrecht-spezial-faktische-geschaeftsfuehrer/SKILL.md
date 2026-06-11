@@ -54,14 +54,14 @@ Faktischer GF muss wissen, dass er die Funktion ausuebt. Bei Strohmann-Konstella
 
 ### Mehrere faktische GF
 
-Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamtschuldnerische strafrechtliche Verantwortung.
+Bei Geschaeftsfuehrungsteam können *mehrere* Personen faktisch GF sein. Gesamtschuldnerische strafrechtliche Verantwortung.
 
 ## Praktikertipps der alten Hasen
 
-- **Tatsaechliche Geschaeftsfuehrungs-Indikatoren auflisten und entkraeften.** Bei jedem Mandanten konkret pruefen:
+- **Tatsaechliche Geschaeftsfuehrungs-Indikatoren auflisten und entkraeften.** Bei jedem Mandanten konkret prüfen:
  - Wer hat Konten eroeffnet?
  - Wer hat Bankvollmachten?
- - Wer hat Vertraege unterschrieben?
+ - Wer hat Verträge unterschrieben?
  - Wer hat Mitarbeiter angestellt/gekuendigt?
  - Wer hat Steuererklaerungen verantwortet?
  - Wer hat Lieferantenverhandlungen gefuehrt?
@@ -87,13 +87,13 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 - **Strafzumessend** wirkt die Rolle: Faktischer Hintermann oft Strafverschaerfung wegen treibender Kraft; eingetragener Strohmann oft Strafmilderung wegen Untergeordnung.
 - **Einziehung Paragraph 73 StGB** beim Hintermann oft hoeher, weil er den Vorteil hat.
 - **GF-Sperre Paragraph 6 GmbHG**: trifft beide.
-- **Berufsverbot Paragraph 70 StGB**: bei Strohmaennern selten, weil keine Berufsausuebung; beim Hintermann moeglich.
+- **Berufsverbot Paragraph 70 StGB**: bei Strohmaennern selten, weil keine Berufsausuebung; beim Hintermann möglich.
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Mein Mandant X hat keine faktische Geschaeftsfuehrungsfunktion bei der Y GmbH ausgeuebt. Er hatte weder Bankvollmacht (Anlage SS 1) noch Vertragsabschlussvollmacht (Vertraege Anlage SS 2 zeigen Unterschrift des eingetragenen GF Z). Seine Rolle beschraenkte sich auf beratende Hinweise; eigenstaendige Entscheidungen hat er nicht getroffen. Die BGH-Kriterien für faktische GF-Stellung (staendige Rspr.) sind nicht erfuellt."
+**Schutzschrift-Snippet:** "Mein Mandant X hat keine faktische Geschaeftsfuehrungsfunktion bei der Y GmbH ausgeuebt. Er hatte weder Bankvollmacht (Anlage SS 1) noch Vertragsabschlussvollmacht (Verträge Anlage SS 2 zeigen Unterschrift des eingetragenen GF Z). Seine Rolle beschraenkte sich auf beratende Hinweise; eigenstaendige Entscheidungen hat er nicht getroffen. Die BGH-Kriterien für faktische GF-Stellung (staendige Rspr.) sind nicht erfuellt."
 
-**Einlassungs-Snippet:** "Ich habe Herrn Z (eingetragenen GF) bei einzelnen Geschaeftsentscheidungen beraten, aber alle Entscheidungen wurden von Herrn Z getroffen und umgesetzt. Bankvollmachten hatte ich nicht; mit Lieferanten habe ich nicht verhandelt; die Mitarbeitervertraege haben Herr Z unterschrieben. Wenn ich beratend taetig war, dann immer im Auftrag der Gesellschaft, nicht als deren Vertreter."
+**Einlassungs-Snippet:** "Ich habe Herrn Z (eingetragenen GF) bei einzelnen Geschaeftsentscheidungen beraten, aber alle Entscheidungen wurden von Herrn Z getroffen und umgesetzt. Bankvollmachten hatte ich nicht; mit Lieferanten habe ich nicht verhandelt; die Mitarbeitervertraege haben Herr Z unterschrieben. Wenn ich beratend tätig war, dann immer im Auftrag der Gesellschaft, nicht als deren Vertreter."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen Z (eingetragener GF) zu erheben zum Beweis der Tatsache, dass mein Mandant ihn nur bei einzelnen Strategie-Fragen beraten hat, aber alle Geschaeftsentscheidungen und Aussenkommunikation von ihm selbst (Herrn Z) verantwortet wurden."
 

@@ -35,10 +35,10 @@ description: "PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung: Bearbeite den 
 ## Konkreter ALR-Stoff: Eigentum, Besitz, Nutzung
 
 ### Aufbau
-Eigentum, Besitz und Nutzung sind ueber mehrere Titel verteilt: Sachen (I 2), Eigentum allgemein (I 8), Besitz (I 7), Erwerb beweglicher Sachen (I 8 ff., I 10), Grundstuecke (I 9), Dienstbarkeiten und Reallasten (I 21).
+Eigentum, Besitz und Nutzung sind über mehrere Titel verteilt: Sachen (I 2), Eigentum allgemein (I 8), Besitz (I 7), Erwerb beweglicher Sachen (I 8 ff., I 10), Grundstuecke (I 9), Dienstbarkeiten und Reallasten (I 21).
 
 ### Wichtige Paragraphen
-- **ALR I 8 § 1** "Eigenthuemer heisst derjenige, welcher befugt ist, ueber die Substanz einer Sache, oder eines Rechts, mit Ausschliessung Anderer, aus eigener Macht, durch sich selbst oder einen Dritten, zu verfuegen." — Definition des Eigentums.
+- **ALR I 8 § 1** "Eigenthuemer heisst derjenige, welcher befugt ist, über die Substanz einer Sache, oder eines Rechts, mit Ausschliessung Anderer, aus eigener Macht, durch sich selbst oder einen Dritten, zu verfuegen." — Definition des Eigentums.
 - **ALR I 8 §§ 26-30** Schranken des Eigentums durch das gemeine Wohl; Anker für Enteignung und Aufopferung.
 - **ALR I 9** Besitz: roemisch-rechtlich gepraegt, mit detaillierten Regelungen zu animus und corpus, zu Besitzverlust und Besitzschutz.
 - **ALR I 21** Dienstbarkeiten und Reallasten: extrem kasuistisch, mit eigenstaendigen Regelungen für Wegerecht, Wasserlauf, Hutung, Mast, Triftrechte. Diese Vorschriften sind als Altrechte teilweise bis heute relevant.
@@ -50,7 +50,7 @@ Eigentum, Besitz und Nutzung sind ueber mehrere Titel verteilt: Sachen (I 2), Ei
 - **Aufopferungsschranke** lebt in Art. 14 II GG und §§ 904, 906 BGB sowie im allgemeinen Aufopferungsanspruch fort.
 
 ### Beruehmte Faelle / Personen
-- Streit ueber Hutungsrechte in Ostpreussen, Brandenburg und Hinterpommern vor 1945 als Massenphaenomen.
+- Streit über Hutungsrechte in Ostpreussen, Brandenburg und Hinterpommern vor 1945 als Massenphaenomen.
 - Streit um Erbpacht: das ALR-Erbenzinsverhaeltnis war Vorbild für das spaetere Erbbaurecht.
 
 ### Pruefraster

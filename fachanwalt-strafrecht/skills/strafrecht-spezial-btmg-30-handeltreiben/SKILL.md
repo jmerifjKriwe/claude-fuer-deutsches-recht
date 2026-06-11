@@ -58,10 +58,10 @@ Stoffliche Erfassung wie § 29 BtMG; setzt nicht geringe Menge nicht voraus, jed
 
 ## Praktikertipps der Verteidigung
 
-- **Bandenbegriff angreifen:** Sind tatsaechlich drei Personen Mitglieder? Liegt eine Bandenabrede ueber kuenftige selbstaendige Taten vor — oder nur eine punktuelle Tatgemeinschaft? Mitverteidigung pruefen; Interessenkonflikt nach § 146 StPO.
+- **Bandenbegriff angreifen:** Sind tatsaechlich drei Personen Mitglieder? Liegt eine Bandenabrede über kuenftige selbstaendige Taten vor — oder nur eine punktuelle Tatgemeinschaft? Mitverteidigung prüfen; Interessenkonflikt nach § 146 StPO.
 - **Gewerbsmaessigkeit angreifen:** Einmalige oder gelegentliche Geschaefte begruenden noch keine Gewerbsmaessigkeit. Massgeblich ist die Absicht dauerhafter Einnahmequelle.
-- **Schusswaffe — Mitfuehren:** Bewusstes Bei-sich-Tragen erforderlich; die blosse Verfuegbarkeit im Auto reicht nicht ohne weiteres. Pruefen, ob die Waffe griffbereit war und ob Vorsatz hinsichtlich des Mitfuehrens vorlag.
-- **Leichtfertige Todesfolge:** Kausalitaet zwischen Abgabe und Tod muss feststehen. Mischkonsum oder Drittstoffe koennen Kausalkette unterbrechen.
+- **Schusswaffe — Mitfuehren:** Bewusstes Bei-sich-Tragen erforderlich; die blosse Verfuegbarkeit im Auto reicht nicht ohne weiteres. Prüfen, ob die Waffe griffbereit war und ob Vorsatz hinsichtlich des Mitfuehrens vorlag.
+- **Leichtfertige Todesfolge:** Kausalitaet zwischen Abgabe und Tod muss feststehen. Mischkonsum oder Drittstoffe können Kausalkette unterbrechen.
 - **§ 31 BtMG Aufklaerungshilfe:** bei § 30 BtMG besonders wertvoll, da Strafrahmen sehr hoch.
 
 ## Trade-off-Matrix
@@ -70,14 +70,14 @@ Stoffliche Erfassung wie § 29 BtMG; setzt nicht geringe Menge nicht voraus, jed
 |---|---|---|
 | Bandenbegriff entkraeften | Verschiebung auf § 29a BtMG | Erfordert Detailrekonstruktion der Beziehungen |
 | Aufklaerungshilfe § 31 BtMG | Strafrahmenverschiebung nach § 49 StGB | Belastung Mitbeschuldigter, Zeugenschutz noetig |
-| Minder schwerer Fall § 30 Abs. 2 HS 2 | Bewaehrung wieder moeglich | Setzt erhebliche Strafmilderungsgruende voraus |
+| Minder schwerer Fall § 30 Abs. 2 HS 2 | Bewaehrung wieder möglich | Setzt erhebliche Strafmilderungsgruende voraus |
 | Schweigen | Keine Selbstbelastung | Bei klarer Beweislage kein Aufklaerungshilfe-Bonus |
 
 ## Konkurrenzen
 
 - § 29 / § 29a BtMG zu § 30 BtMG: Spezialitaet, § 30 verdraengt.
 - § 30 BtMG zu § 30a BtMG: § 30a (Verbrechen mit fuenf Jahren Mindeststrafe) als hoechste Qualifikation geht vor.
-- Mit § 52 StGB tateinheitlich moeglich: Verstoss gegen Waffengesetz (§ 52 WaffG), § 21 StVG (Fahren ohne Fahrerlaubnis bei Drogentransport), § 53 StGB Realkonkurrenz bei mehreren Tateinheiten.
+- Mit § 52 StGB tateinheitlich möglich: Verstoss gegen Waffengesetz (§ 52 WaffG), § 21 StVG (Fahren ohne Fahrerlaubnis bei Drogentransport), § 53 StGB Realkonkurrenz bei mehreren Tateinheiten.
 
 ## Strafzumessung und Therapie statt Strafe
 

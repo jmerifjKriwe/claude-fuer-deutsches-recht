@@ -3,7 +3,7 @@ name: schnellpruefung-fuenfminuten-express
 description: "Express-Verhaeltnismaessigkeitspruefung in fuenf Minuten: 12-Punkte-Checkliste mit Sofort-Ergebnis fuer Klausur, Schriftsatz oder Mandantenmeeting. Schnelltriage fuer Schutzbereich, Schranke, Zitiergebot, vier Stufen, Wesensgehalt; mit Entscheidungsbaum, Express-Tabelle und Fallstrick-Liste."
 ---
 
-# Schnellpruefung — Verhaeltnismaessigkeit in fuenf Minuten
+# Schnellpruefung — Verhältnismäßigkeit in fuenf Minuten
 
 ## Wann diesen Skill nutzen
 
@@ -11,7 +11,7 @@ description: "Express-Verhaeltnismaessigkeitspruefung in fuenf Minuten: 12-Punkt
 - Mandantengespraech: Sie brauchen eine erste Einschaetzung, ob ein staatlicher Eingriff durchhaelt.
 - Schriftsatz-Brainstorming vor der Vertiefung in die Spezial-Skills.
 
-Wenn Sie eine ausfuehrliche Pruefung brauchen, gehen Sie nach Stufen vor (`vierstufige-schranken-schranke`).
+Wenn Sie eine ausfuehrliche Prüfung brauchen, gehen Sie nach Stufen vor (`vierstufige-schranken-schranke`).
 
 ## Die 12-Punkte-Express-Checkliste
 
@@ -47,7 +47,7 @@ Wenn Sie eine ausfuehrliche Pruefung brauchen, gehen Sie nach Stufen vor (`viers
 +---------------------------------------------------------------+
 ```
 
-**Regel:** Sobald ein Punkt mit NEIN beantwortet wird, ist die Massnahme verfassungswidrig. Bei FRAGEZEICHEN: Spezial-Skill aufrufen.
+**Regel:** Sobald ein Punkt mit NEIN beantwortet wird, ist die Maßnahme verfassungswidrig. Bei FRAGEZEICHEN: Spezial-Skill aufrufen.
 
 ## Express-Tabelle: Welche Stufe bricht typischerweise?
 
@@ -55,7 +55,7 @@ Wenn Sie eine ausfuehrliche Pruefung brauchen, gehen Sie nach Stufen vor (`viers
 |---|---|---|
 | Polizeiverfuegung Versammlung | Stufe 3 Erforderlichkeit (Auflage vor Verbot) | `versammlungsfreiheit-brokdorf-auflagen-verbot` |
 | Berufsverbot / -beschraenkung | Stufe 3 nach Drei-Stufen-Lehre (Art 12 GG) | `apotheken-urteil-bverfge-7-377` |
-| Pandemie-Massnahme | Stufe 3 (mildere Alternativen) | `bundesnotbremse-bverfge-159-223` |
+| Pandemie-Maßnahme | Stufe 3 (mildere Alternativen) | `bundesnotbremse-bverfge-159-223` |
 | Hartz IV / Sozialleistung | Existenzminimum als absolute Grenze | `absolute-grenze-existenzminimum`, `hartz-iv-bverfge-125-175` |
 | Datenschutz / Ueberwachung | Verfahrenssicherungen in Stufe 3 + Streubreite in Stufe 4 | `ueberwachung-streubreite-vorratsdaten-rasterfahndung` |
 | Eigentum / Enteignung | Lastenausgleich Stufe 4 + Abgrenzung Art 14 I/III GG | `eigentum-art-14-inhalts-schranken-enteignung` |
@@ -99,7 +99,7 @@ Wenn Sie eine ausfuehrliche Pruefung brauchen, gehen Sie nach Stufen vor (`viers
 4. **Milderes Mittel ohne gleiche Effektivitaet** — Wer ein milderes Mittel benennt, muss zeigen, dass es gleich effektiv ist.
 5. **Angemessenheit als Bauchgefuehl** — Stattdessen strukturiert: Eingriffsintensitaet (leicht/mittel/schwer) gegen Zweckgewicht (leicht/mittel/schwer) gegen Wahrscheinlichkeit der Zweckerreichung.
 6. **Wesensgehalt verwechselt mit Angemessenheit** — Wesensgehalt ist absolute Grenze (BVerfG-Linie). Wer ihn beruehrt, scheitert ohne Abwaegung.
-7. **Untermassverbot uebersehen** — Bei Schutzpflichten (Art 2 II GG, Art 6 GG, Klimaschutz) gibt es nicht nur ein Uebermass-, sondern auch ein Untermassverbot. Verhaeltnismaessigkeit pruefen in beide Richtungen.
+7. **Untermassverbot uebersehen** — Bei Schutzpflichten (Art 2 II GG, Art 6 GG, Klimaschutz) gibt es nicht nur ein Uebermass-, sondern auch ein Untermassverbot. Verhältnismäßigkeit prüfen in beide Richtungen.
 
 ## Drei-Saetze-Output
 
@@ -111,7 +111,7 @@ Satz 2: Die Massnahme scheitert auf Stufe [N], weil [knappe Begruendung].
 Satz 3: Folge ist [Nichtigkeit, Berichtigungsanspruch, Schadensersatz, Eilrechtsschutz nach Paragraf 32 BVerfGG].
 ```
 
-Wenn die Massnahme haelt, dreht sich Satz 2 um: „Die Massnahme haelt auf allen vier Stufen, weil [knappe Begruendung]."
+Wenn die Maßnahme haelt, dreht sich Satz 2 um: „Die Maßnahme haelt auf allen vier Stufen, weil [knappe Begruendung]."
 
 ## Anschluss
 

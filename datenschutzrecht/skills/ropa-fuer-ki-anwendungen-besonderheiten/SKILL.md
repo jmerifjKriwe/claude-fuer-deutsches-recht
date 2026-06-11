@@ -7,7 +7,7 @@ description: "Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten be
 
 ## Zweck
 
-Behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verzeichnis von Verarbeitungstaetigkeiten bei KI-Anwendungen abbilden muss. Die DSGVO-Vorgaben in Art. 30 DSGVO werden nicht ersetzt, aber durch KI-spezifische Fragestellungen erweitert: Trainingsdaten, Modellzweck, Vector Stores, Prompt- und Output-Logs, Drittlandtransfer ueber LLM-Anbieter, automatisierte Entscheidungsfindung nach Art. 22 DSGVO, sowie das Zusammenspiel mit der KI-Verordnung (KI-VO, VO (EU) 2024/1689).
+Behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verzeichnis von Verarbeitungstaetigkeiten bei KI-Anwendungen abbilden muss. Die DSGVO-Vorgaben in Art. 30 DSGVO werden nicht ersetzt, aber durch KI-spezifische Fragestellungen erweitert: Trainingsdaten, Modellzweck, Vector Stores, Prompt- und Output-Logs, Drittlandtransfer über LLM-Anbieter, automatisierte Entscheidungsfindung nach Art. 22 DSGVO, sowie das Zusammenspiel mit der KI-Verordnung (KI-VO, VO (EU) 2024/1689).
 
 ## Wann dieses Modul hilft
 
@@ -16,14 +16,14 @@ Behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verz
 - Fachabteilung nutzt RAG-Architektur mit unternehmenseigenen Daten.
 - KI-Modelle werden auf personenbezogenen Daten **trainiert oder feinabgestimmt**.
 - Vector-Datenbank mit Embeddings personenbezogener Dokumente.
-- Pruefung: greift Art. 22 DSGVO (automatisierte Entscheidung)?
+- Prüfung: greift Art. 22 DSGVO (automatisierte Entscheidung)?
 
 ## Rechtlicher Rahmen
 
 ### DSGVO
 
 - Art. 30 DSGVO bleibt Pflicht; zusaetzliche Inhalte ergeben sich aus DSFA und Transparenzpflichten.
-- Art. 22 DSGVO: Verbot ausschliesslich automatisierter Einzelentscheidungen mit rechtlicher Wirkung; Ausnahmen Abs. 2; Schutzmassnahmen Abs. 3.
+- Art. 22 DSGVO: Verbot ausschließlich automatisierter Einzelentscheidungen mit rechtlicher Wirkung; Ausnahmen Abs. 2; Schutzmassnahmen Abs. 3.
 - Art. 35 DSGVO: DSFA-Pflicht bei systematischer und umfassender Bewertung (Profiling), bei neuen Technologien.
 - Art. 13/14 DSGVO: Informationspflichten zu Logik, Tragweite und Auswirkungen automatisierter Entscheidungen.
 - Art. 32 DSGVO: TOMs an KI-Risiken anpassen (Model Theft, Prompt Injection, Data Leakage).
@@ -33,7 +33,7 @@ Behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verz
 
 - Gilt seit 02.08.2024 stufenweise. Verbote ab 02.02.2025, GPAI-Pflichten ab 02.08.2025, Hochrisiko-Systeme ab 02.08.2026 (Annex III).
 - HR-KI (Bewerberauswahl, Leistungsbewertung) ist nach Annex III Nr. 4 hochrisikobehaftet.
-- Anbieter und Betreiber muessen Dokumentationspflichten (Art. 11, Art. 26 KI-VO) erfuellen – das ergaenzt das DSGVO-RoPA.
+- Anbieter und Betreiber müssen Dokumentationspflichten (Art. 11, Art. 26 KI-VO) erfuellen – das ergaenzt das DSGVO-RoPA.
 
 ### EDSA-Leitlinien und EU-AI-Office
 
@@ -43,8 +43,8 @@ Behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verz
 
 1. **KI-Inventur:** Welche KI-Funktionen sind im Einsatz? Anbieter, Modell, Hostingort.
 2. **Datentyp-Mapping:** Sind personenbezogene Daten in Eingaben, Trainingsdaten, Embeddings, Logs oder Outputs?
-3. **Rolle pruefen:** Verantwortlicher für welche Daten? Auftragsverarbeiter? Joint Controllership mit KI-Anbieter?
-4. **Rechtsgrundlage:** Art. 6 DSGVO; bei besonderen Datenkategorien Art. 9; bei Beschaeftigten § 26 BDSG; bei Web-Scraping kritisch zu pruefen.
+3. **Rolle prüfen:** Verantwortlicher für welche Daten? Auftragsverarbeiter? Joint Controllership mit KI-Anbieter?
+4. **Rechtsgrundlage:** Art. 6 DSGVO; bei besonderen Datenkategorien Art. 9; bei Beschaeftigten § 26 BDSG; bei Web-Scraping kritisch zu prüfen.
 5. **Drittlandtransfer:** Hosting in USA/UK? DPF-Listing, SCC, TIA.
 6. **Art. 22 DSGVO:** Trifft das System Entscheidungen mit rechtlicher Wirkung?
 7. **DSFA:** typischerweise Pflicht; in RoPA verlinken.
@@ -76,7 +76,7 @@ Behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verz
 ## Typische Fehler
 
 - "KI-Nutzung" als eine Zeile pauschal eingetragen – fehlende Differenzierung Input / Training / Output.
-- Drittlandtransfer ueber LLM-Anbieter uebersehen, weil "kein Datenexport" gedacht wurde.
+- Drittlandtransfer über LLM-Anbieter uebersehen, weil "kein Datenexport" gedacht wurde.
 - Art. 22 DSGVO uebersehen, weil "der Mensch entscheidet final" behauptet wird, ohne dass dies tatsaechlich nachweisbar ist (Stichwort: rubber stamp).
 - DSFA fehlt; nur Art. 30 RoPA gepflegt.
 - Prompt-Logs unbegrenzt aufbewahrt.

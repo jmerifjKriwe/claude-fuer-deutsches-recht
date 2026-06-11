@@ -19,7 +19,7 @@ Rulemapping ist eine Methode, juristische Logik in strukturierte digitale Entsch
 
 ## Pruefpunkte
 
-Pruefen: passt die Methode zum Vorhaben? Komplexitaet hoch genug für Rulemap? Anschluss an Vollzugs-IT erforderlich? Welche Aufsichtsentscheidung soll spaeter automatisierbar sein?
+Prüfen: passt die Methode zum Vorhaben? Komplexitaet hoch genug für Rulemap? Anschluss an Vollzugs-IT erforderlich? Welche Aufsichtsentscheidung soll später automatisierbar sein?
 
 ## Normenanker
 
@@ -40,7 +40,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Abgrenzung
 
-Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Pruefung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
+Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die Normsetzung an die Rulemap-Methode an. Sie ersetzen nicht die normhierarchische Prüfung, die verfassungs- oder europarechtliche Quercheckung oder die Begruendung; sie liefern die Bruecke von der Norm zur maschinenlesbaren Entscheidungslogik.
 
 ## Quellen Stand 06/2026
 

@@ -127,15 +127,15 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin deckt das gesamte Umweltrecht von der Anlagengenehmigung nach BImSchG ueber den Emissionshandel (TEHG), Abfallrecht und Gewaesserschutz bis hin zu Naturschutz, Artenschutz und Stoerfallanlagen ab. Es begleitet sowohl Zulassungsverfahren als auch behordliche Ueberwachung, Bussgeldverfahren und verwaltungsgerichtliche Streitigkeiten.
+Das Plugin deckt das gesamte Umweltrecht von der Anlagengenehmigung nach BImSchG über den Emissionshandel (TEHG), Abfallrecht und Gewaesserschutz bis hin zu Naturschutz, Artenschutz und Stoerfallanlagen ab. Es begleitet sowohl Zulassungsverfahren als auch behordliche Ueberwachung, Bussgeldverfahren und verwaltungsgerichtliche Streitigkeiten.
 
 Hinzu kommen neuere Rechtsgebiete: ESG-Berichtspflichten nach CSRD, Greenwashing-Abwehr, Lieferkettensorgfaltspflichten nach LkSG und CSDDD sowie Klimaklagen und Verbandsklagen nach UmwRG. Zielgruppe sind Anlagenbetreiber, Unternehmensjuristen, Umweltberater und Verwaltungsrechtler.
 
 ## Wann brauchen Sie diese Skill?
 
-- Anlagenbetreiber will BImSchG-Genehmigung beantragen, aendern oder verteidigen, oder Nachbar klagt gegen Anlage.
+- Anlagenbetreiber will BImSchG-Genehmigung beantragen, ändern oder verteidigen, oder Nachbar klagt gegen Anlage.
 - Unternehmen erhalt Bussgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will Gegenvorstellung oder Einspruch einlegen.
-- M&A-Transaktion: Anwalt prueft im Datenraum umweltrechtliche Risiken (Altlasten, Genehmigungsstatus, Abfall).
+- M&A-Transaktion: Anwalt prüft im Datenraum umweltrechtliche Risiken (Altlasten, Genehmigungsstatus, Abfall).
 - ESG-Bericht muss erstellt oder ein Greenwashing-Vorwurf abgewehrt werden.
 - Unternehmen ab 1.000 Mitarbeitern muss LkSG-Sorgfaltspflichten implementieren und dokumentieren.
 
@@ -144,7 +144,7 @@ Hinzu kommen neuere Rechtsgebiete: ESG-Berichtspflichten nach CSRD, Greenwashing
 - **BImSchG** — Bundes-Immissionsschutzgesetz; regelt Genehmigung und Betrieb emittierender Anlagen.
 - **TEHG** — Treibhausgas-Emissionshandelsgesetz; nationaler Rahmen für EU-Emissionshandel.
 - **Stoerfall-Anlage (Seveso III)** — Anlage mit besonderem Gefahrenpotenzial; gesonderte Pflichten nach 12. BImSchV.
-- **FFH-Vertraeglichkeit** — Pruefung nach der Fauna-Flora-Habitat-Richtlinie (RL 92/43/EWG), ob ein Vorhaben ein Natura-2000-Gebiet erheblich beeintraechtigt.
+- **FFH-Vertraeglichkeit** — Prüfung nach der Fauna-Flora-Habitat-Richtlinie (RL 92/43/EWG), ob ein Vorhaben ein Natura-2000-Gebiet erheblich beeintraechtigt.
 - **CSRD** — Corporate Sustainability Reporting Directive (EU); erweiterte Nachhaltigkeitsberichtspflichten gestaffelt ab 2024.
 - **LkSG** — Lieferkettensorgfaltspflichtengesetz; gilt seit 01.01.2024 für Unternehmen ab 1.000 Mitarbeiter in Deutschland.
 - **UmwRG** — Umwelt-Rechtsbehelfsgesetz; ermoeglicht anerkannten Umweltverbaenden Klagen gegen Zulassungsentscheidungen.
@@ -164,10 +164,10 @@ Hinzu kommen neuere Rechtsgebiete: ESG-Berichtspflichten nach CSRD, Greenwashing
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Anlagenbetreiber, Unternehmen mit Lieferkettenpflichten, Verband oder Nachbar?
+1. Mandantenkonstellation klären: Anlagenbetreiber, Unternehmen mit Lieferkettenpflichten, Verband oder Nachbar?
 2. Phase bestimmen: Genehmigungsantrag, laufender Betrieb, Behördenpruefung, Bussgeld oder Klage?
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: Widerspruchs- und Klagefrist gegen Genehmigung oder Bescheid (§§ 68 ff. VwGO).
+4. Eilfristen prüfen: Widerspruchs- und Klagefrist gegen Genehmigung oder Bescheid (§§ 68 ff. VwGO).
 5. Anschluss-Skill bestimmen: z.B. nach Bussgeld ggf. Compliance-Schulung; nach DD ggf. Transaktionsabsicherung.
 
 ## Skill-Tour (was gibt es hier?)
@@ -194,15 +194,15 @@ Hinzu kommen neuere Rechtsgebiete: ESG-Berichtspflichten nach CSRD, Greenwashing
 - LkSG-Sorgfaltspflichten gelten ab 01.01.2024 auch für Unternehmen ab 1.000 Mitarbeitern; Verstoss loest BAFA-Bussgelder aus.
 - FFH-Vertraeglichkeitspruefung ist eigenstaendiger Schritt vor Planfeststellung; Fehler fuehren regelmaessig zur Aufhebung in der Revision.
 - Emissionshandel hat harte Abgabefristen (30. April des Folgejahres); Versaeumnis loest automatische Strafzahlungen aus.
-- CSRD-Berichte muessen von einem Wirtschaftspruefer oder Umweltgutachter beglaubigt werden; Fehler bei Wesentlichkeitsanalyse sind Haftungsrisiko.
+- CSRD-Berichte müssen von einem Wirtschaftspruefer oder Umweltgutachter beglaubigt werden; Fehler bei Wesentlichkeitsanalyse sind Haftungsrisiko.
 
 ## Typische Fehler
 
 - BImSchG-Genehmigung nicht rechtzeitig geaendert: Wesentliche Aenderungen an genehmigten Anlagen beduerften gesonderter Genehmigung (§ 16 BImSchG); ungenehmigte Aenderung ist illegal.
-- Altlasten in M&A-Transaktionen unterschaetzt: Bodensanierungspflicht geht auf Kaeufer ueber; kein Haftungsausschluss ohne vollstaendige DD.
-- UmwRG-Klagebefugnis uebersehen: Nur anerkannte Umweltverbaende koennen nach § 3 UmwRG klagen; Private beduerften eigener Rechtsverletzung.
+- Altlasten in M&A-Transaktionen unterschaetzt: Bodensanierungspflicht geht auf Kaeufer über; kein Haftungsausschluss ohne vollstaendige DD.
+- UmwRG-Klagebefugnis uebersehen: Nur anerkannte Umweltverbaende können nach § 3 UmwRG klagen; Private beduerften eigener Rechtsverletzung.
 - Greenwashing-Aussagen ohne Substanz: EU Green Claims-Richtlinie (Entwurf) und § 5 UWG erfordern pruefbare Belege für Umweltaussagen.
-- Verfristete LkSG-Risikoberichte: Jaehrliche Dokumentationspflicht mit gesetzlicher Frist; fehlendes Reporting loest BAFA-Massnahmen aus.
+- Verfristete LkSG-Risikoberichte: Jaehrliche Dokumentationspflicht mit gesetzlicher Frist; fehlendes Reporting loest BAFA-Maßnahmen aus.
 
 ## Quellen und Aktualitaet
 

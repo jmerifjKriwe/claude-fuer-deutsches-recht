@@ -14,7 +14,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
@@ -23,7 +23,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Fachpruefraster Rueckgabe / Vernichtung
@@ -37,7 +37,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 ### Zwei Optionen: Rueckgabe vs. Vernichtung
 
 - **Physische Dokumente:** Rueckgabe oder Vernichtung; Vernichtung ist Standardloesung bei Vervielfaeltigungen.
-- **Elektronische Daten:** Vernichtung (Loeschung), da Rueckgabe technisch sinnlos ist. Bei Cloud-Speicherung Vernichtungsfrist beachten (Backups, Audit-Logs koennen laengere Aufbewahrungsfristen haben).
+- **Elektronische Daten:** Vernichtung (Loeschung), da Rueckgabe technisch sinnlos ist. Bei Cloud-Speicherung Vernichtungsfrist beachten (Backups, Audit-Logs können laengere Aufbewahrungsfristen haben).
 - **Wahlrecht** sollte bei der offenlegenden Partei liegen.
 
 ### Frist
@@ -49,13 +49,13 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 ### Bestaetigung der Vernichtung
 
 - **Pflicht zur Bestaetigung in Textform** (§ 126b BGB) - oft mit "Officer's Certificate" der empfangenden Partei.
-- **Inhalt:** Aufzaehlung der vernichteten/zurueckgegebenen Dokumente, Bestaetigung der vollstaendigen Loeschung aus allen Systemen (einschliesslich Backups, soweit technisch moeglich), Erklaerung, dass keine Kopien zurueckbehalten wurden.
+- **Inhalt:** Aufzaehlung der vernichteten/zurueckgegebenen Dokumente, Bestaetigung der vollstaendigen Loeschung aus allen Systemen (einschliesslich Backups, soweit technisch möglich), Erklaerung, dass keine Kopien zurueckbehalten wurden.
 
 ### Ausnahmen (Standard-Carve-outs)
 
 - **Gesetzliche Aufbewahrungspflichten** (z.B. § 257 HGB 10 Jahre für Geschaeftsbriefe, § 147 AO 10 Jahre für steuerlich relevante Unterlagen, § 50 GwG 5 Jahre für Geldwaeschepruefung).
-- **Backups / Archivsysteme:** "Standard IT-Backups" muessen nicht aktiv geloescht werden, solange Zugriff beschraenkt und Vernichtung im normalen Backup-Zyklus erfolgt.
-- **Rechtsberater (Legal Hold):** Anwaelte muessen nach Berufsrecht (§ 50 BRAO, § 53 StPO) Mandantenakten aufbewahren; gleichwohl unterliegen sie dem Mandatsgeheimnis.
+- **Backups / Archivsysteme:** "Standard IT-Backups" müssen nicht aktiv geloescht werden, solange Zugriff beschraenkt und Vernichtung im normalen Backup-Zyklus erfolgt.
+- **Rechtsberater (Legal Hold):** Anwaelte müssen nach Berufsrecht (§ 50 BRAO, § 53 StPO) Mandantenakten aufbewahren; gleichwohl unterliegen sie dem Mandatsgeheimnis.
 - **Vorbereitungsmaterial / Memoranden:** Eigene Analysen mit Bezug auf Vertrauliche Informationen werden oft mit Vernichtungspflicht erfasst; abweichende Klausel ("Working Papers") nur dann tragbar, wenn der Inhalt vollstaendig anonymisiert wird.
 
 ### DSGVO-Bezug

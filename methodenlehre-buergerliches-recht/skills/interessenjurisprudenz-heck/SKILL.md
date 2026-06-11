@@ -19,10 +19,10 @@ Heck schreibt: Gesetz ist Resultat eines Interessenkonflikts. Wer es anwendet, m
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie streiten ueber die ratio legis einer Norm und brauchen ein Modell, das Wertungen sichtbar macht.
+- Sie streiten über die ratio legis einer Norm und brauchen ein Modell, das Wertungen sichtbar macht.
 - Sie wollen einer rein dogmatisch-konstruktiven Argumentation der Gegenseite ein Wertungsargument entgegenstellen.
 - Sie unterrichten oder erklaeren, warum die heutige Wertungsjurisprudenz auf Heck zurueckgeht.
-- Sie pruefen eine Generalklausel oder eine unbestimmte Norm und wollen die Interessenabwaegung methodisch ankerbar machen.
+- Sie prüfen eine Generalklausel oder eine unbestimmte Norm und wollen die Interessenabwaegung methodisch ankerbar machen.
 - Sie diskutieren historische Linien der Methodenlehre.
 
 ## Methodische Grundlage
@@ -48,7 +48,7 @@ Heck schreibt: Gesetz ist Resultat eines Interessenkonflikts. Wer es anwendet, m
 
 **Beispiel § 437 BGB (Maengelrechte):** Interessenkonflikt zwischen Kaeufer (Erhaltung des Aequivalenzverhaeltnisses) und Verkaeufer (Beendigung des Vertrags ohne Wirtschaftsverlust). Der Gesetzgeber stuft: Nacherfuellung vor Ruecktritt, Minderung vor Schadensersatz statt der Leistung. Die Stufung ist Ergebnis einer Interessenabwaegung.
 
-**Beispiel § 280 BGB (Schadensersatz wegen Pflichtverletzung):** Interessenkonflikt zwischen Glaeubigerschutz (Erhalt der Leistung oder Kompensation) und Schuldnerschutz (kein Schaden ohne Vertretenmuessen). § 280 Abs. 1 S. 2 BGB ist Interessenabwaegung: Beweislastumkehr für das Vertretenmuessen, weil der Schuldner naeher an den Tatsachen ist.
+**Beispiel § 280 BGB (Schadensersatz wegen Pflichtverletzung):** Interessenkonflikt zwischen Glaeubigerschutz (Erhalt der Leistung oder Kompensation) und Schuldnerschutz (kein Schaden ohne Vertretenmuessen). § 280 Abs. 1 S. 2 BGB ist Interessenabwaegung: Beweislastumkehr für das Vertretenmuessen, weil der Schuldner näher an den Tatsachen ist.
 
 **Beispiel § 138 BGB (Sittenwidrigkeit):** Interessenkonflikt Privatautonomie (Vertragsfreiheit) vs. Schutz vor uebermäßiger Benachteiligung. Die Konkretisierung erfolgt durch Interessenabwaegung im Einzelfall (vgl. Buergschaftsentscheidung BVerfGE 89, 214).
 
@@ -59,11 +59,11 @@ Heck schreibt: Gesetz ist Resultat eines Interessenkonflikts. Wer es anwendet, m
 ## Schritt-für-Schritt
 
 1. **Interessen identifizieren.** Welche Interessen stehen sich im konkreten Fall gegenueber?
-2. **Gesetzgeberliche Wertung ermitteln.** Wie hat der Gesetzgeber den Interessenkonflikt grundsaetzlich geloest?
+2. **Gesetzgeberliche Wertung ermitteln.** Wie hat der Gesetzgeber den Interessenkonflikt grundsätzlich geloest?
 3. **Norm-Architektur lesen.** Welche Tatbestandsmerkmale dienen welchen Interessen?
 4. **Wertungsabwaegung im konkreten Fall durchfuehren.** Welche Wertung passt zum Sachverhalt?
 5. **Ergebnis** in Form einer Interessenabwaegung im Schriftsatz darstellen.
-6. **Anbindung an Verfassungsrecht** pruefen (siehe Skill `wertungsjurisprudenz-larenz-canaris` für die moderne Verfeinerung).
+6. **Anbindung an Verfassungsrecht** prüfen (siehe Skill `wertungsjurisprudenz-larenz-canaris` für die moderne Verfeinerung).
 
 ## Typische Fehler / Kritik
 

@@ -3,7 +3,7 @@ name: bautraeger-mabv-vermoegenstrennung
 description: "MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln: Skill klaert die Trennungspflicht das S..."
 ---
 
-# MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln
+# MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermögen behandeln
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerbe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln. Skill klaert die Trennungspflicht das Sonderkonto und die Folgen bei Vermischung Insolvenzrechtlich. Liefert Pruefraster.
+**Fokus:** MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermögen behandeln. Skill klaert die Trennungspflicht das Sonderkonto und die Folgen bei Vermischung Insolvenzrechtlich. Liefert Pruefraster.
 
 ### Bautraeger Mabv Vermoegenstrennung
 

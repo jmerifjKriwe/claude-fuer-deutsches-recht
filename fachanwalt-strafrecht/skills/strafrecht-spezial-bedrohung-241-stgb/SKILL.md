@@ -14,7 +14,7 @@ description: "Bedrohung nach § 241 StGB: Verschaerfung 2021 durch das Gesetz zu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bedrohung nach § 241 StGB. Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unversehrtheit persönliche Freiheit Vermoegen. Hassrede online erfasst. Strafrahmen bis drei Jahre.
+**Fokus:** Bedrohung nach § 241 StGB. Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unversehrtheit persönliche Freiheit Vermögen. Hassrede online erfasst. Strafrahmen bis drei Jahre.
 
 ### Bedrohung § 241 StGB
 
@@ -54,7 +54,7 @@ Strafrahmen:
 
 **Online und öffentliche Bedrohung § 241 Abs. 3 StGB:** Bei Verbreitung von Schriften iSd § 11 Abs. 3 StGB (auch elektronische Form / soziale Medien) und bei öffentlicher Begehung (Versammlungen, Demonstrationen, öffentliche Medien) erhoehter Strafrahmen. Klassisch: Drohung in sozialen Medien gegen Politiker, Mandatstraeger, Journalisten, Aerzte, Verteidiger.
 
-**Form der Drohung:** Ausdruecklich oder konkludent. Auch durch Gesten (Halszeichen), Zeichnungen, Symbole moeglich.
+**Form der Drohung:** Ausdruecklich oder konkludent. Auch durch Gesten (Halszeichen), Zeichnungen, Symbole möglich.
 
 ## Praktikertipps der Verteidigung
 
@@ -62,7 +62,7 @@ Strafrahmen:
 - **Kontext der Aeusserung:** Bei Stammtisch-, Familienstreit- oder Online-Provokationen genaue Auswertung des konkreten Kontexts und des typischen Tonfalls.
 - **Bedrohung mit nicht-erfasster Tat:** Bei Drohung mit einer Tat, die nicht in den Katalog des § 241 StGB faellt (z. B. Drohung mit Mobbing, Drohung mit blosser Beleidigung), scheidet § 241 StGB aus.
 - **Wahrnehmungselement:** Hat der Bedrohte die Drohung tatsaechlich wahrgenommen? Bei Nachrichten in geschlossenen Online-Foren ohne Adressierung an den Bedrohten ggf. kein § 241 StGB.
-- **Tatzeitliche Geltung pruefen:** Bei Altfaellen vor 03.04.2021 gilt § 241 StGB a.F. (nur Bedrohung mit Verbrechen).
+- **Tatzeitliche Geltung prüfen:** Bei Altfaellen vor 03.04.2021 gilt § 241 StGB a.F. (nur Bedrohung mit Verbrechen).
 - **Versuch:** Versuch nicht strafbar (kein Verbrechen).
 - **§ 153, § 153a StPO:** Bei Erstmaligkeit haeufig Einstellungspraxis.
 
@@ -75,8 +75,8 @@ Strafrahmen:
 
 ## Konkurrenzen
 
-- **§ 240 StGB Noetigung:** Tateinheit moeglich. § 241 StGB ist subsidiaer zu § 240 StGB, wenn die Bedrohung **zur Noetigung** eingesetzt wird (staendige BGH-Linie zur Subsidiaritaetsklausel).
-- **§ 238 StGB Nachstellung:** Tateinheit moeglich, wenn Bedrohung Teil eines Stalking-Verhaltens.
+- **§ 240 StGB Noetigung:** Tateinheit möglich. § 241 StGB ist subsidiaer zu § 240 StGB, wenn die Bedrohung **zur Noetigung** eingesetzt wird (staendige BGH-Linie zur Subsidiaritaetsklausel).
+- **§ 238 StGB Nachstellung:** Tateinheit möglich, wenn Bedrohung Teil eines Stalking-Verhaltens.
 - **§§ 211 ff. StGB iVm § 22 StGB:** Bei tatsaechlicher Ausfuehrungsabsicht.
 - **§ 130 StGB Volksverhetzung:** Tateinheit bei kollektiven Bedrohungen.
 - **§ 126 StGB Stoerung des öffentlichen Friedens:** Bei öffentlichen Bedrohungen.
@@ -88,7 +88,7 @@ Strafrahmen:
 - **Strafrahmen § 241 Abs. 2 StGB:** Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 - **Strafrahmen § 241 Abs. 3 StGB:** Freiheitsstrafe bis zu drei Jahren oder Geldstrafe (Vergehen); bis fuenf Jahre (Verbrechen).
 - **§ 46a StGB / TOA:** Absehen von Strafe bei geringer Strafe (bis ein Jahr Freiheitsstrafe oder bis 360 Tagessaetzen Geldstrafe).
-- **Bewaehrung:** Bei Geldstrafe sowieso; bei Freiheitsstrafe bis zwei Jahren grundsaetzlich moeglich.
+- **Bewaehrung:** Bei Geldstrafe sowieso; bei Freiheitsstrafe bis zwei Jahren grundsätzlich möglich.
 - **§§ 153, 153a StPO:** Bei Erstmaligkeit haeufig Einstellung.
 
 ## Mustertexte
@@ -100,7 +100,7 @@ Strafrahmen:
 > § 241 StGB setzt voraus, dass die Bedrohung als ernsthaft erscheint und ein Vergehen oder Verbrechen aus dem Katalog des § 241 StGB betrifft. Die Beweisaufnahme hat ergeben, dass die Aeusserungen des Angeklagten im Kontext einer Stammtisch-Provokation gefallen sind und vom Geschaedigten erst nachtraeglich als Bedrohung gedeutet wurden. Die Ernsthaftigkeit ist nicht zur Ueberzeugung des Gerichts nachgewiesen.
 
 **Antrag § 153a StPO:**
-> Es wird beantragt, das Verfahren gemaess § 153a Abs. 1 StPO einzustellen. Der Angeklagte ist nicht vorbestraft, die Tat ist von geringer Schwere und der Angeklagte ist zur Zahlung einer Geldauflage in Hoehe von ... EUR und zur Teilnahme an einem Anti-Aggressions-Training bereit.
+> Es wird beantragt, das Verfahren gemäß § 153a Abs. 1 StPO einzustellen. Der Angeklagte ist nicht vorbestraft, die Tat ist von geringer Schwere und der Angeklagte ist zur Zahlung einer Geldauflage in Höhe von ... EUR und zur Teilnahme an einem Anti-Aggressions-Training bereit.
 
 ## Quellen Stand 06/2026
 

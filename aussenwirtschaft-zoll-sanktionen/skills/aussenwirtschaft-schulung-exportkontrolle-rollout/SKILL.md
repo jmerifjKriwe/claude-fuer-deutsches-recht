@@ -15,8 +15,8 @@ description: "Konzeption und Durchfuehrung von Exportkontroll-Schulungen nach BA
 
 ## Mandantenfall
 
-- ICP-Einfuehrung; 150 Mitarbeiter in Vertrieb und Logistik muessen innerhalb 3 Monate geschult sein.
-- BAFA beanstandet bei Pruefung fehlende Schulungsnachweise; Nachschulung und Dokumentation noetig.
+- ICP-Einfuehrung; 150 Mitarbeiter in Vertrieb und Logistik müssen innerhalb 3 Monate geschult sein.
+- BAFA beanstandet bei Prüfung fehlende Schulungsnachweise; Nachschulung und Dokumentation noetig.
 - Akquisition integriert; neue Tochterfirma mit 80 Mitarbeitern muss Konzernstandard uebernehmen.
 
 ## Erste Schritte
@@ -47,7 +47,7 @@ description: "Konzeption und Durchfuehrung von Exportkontroll-Schulungen nach BA
 
 ## Typische Fallstricke
 
-- Schulung ohne Nachweis-Dokumentation hat keinen ICP-Wert bei BAFA-Pruefung.
+- Schulung ohne Nachweis-Dokumentation hat keinen ICP-Wert bei BAFA-Prüfung.
 - Generische Online-Schulungen ohne Anpassung an Unternehmensgueter und -maerkte wenig wirksam.
 - Schulungsinhalt veraltet; Dual-Use-Liste-Aenderungen nicht eingearbeitet.
 - Vertrieb wird oft vergessen; hat aber die meisten Kundenkontakte mit Red-Flag-Potenzial.

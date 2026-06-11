@@ -34,11 +34,11 @@ Spezial-Mandat: Anklage Kreditbetrug. Praxistypisch: KMU-Kredite mit unzutreffen
 
 ### Tatbestand § 265b Abs. 1 StGB
 
-Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehrung, Belassung oder Veraenderung der Bedingungen eines Kredits ueber wirtschaftliche Verhaeltnisse:
+Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehrung, Belassung oder Veraenderung der Bedingungen eines Kredits über wirtschaftliche Verhaeltnisse:
 
 1. unrichtige oder unvollstaendige Angaben in **Bilanzen, Gewinn- und Verlustrechnungen, Vermögensübersichten oder Gutachten** macht, die guenstig erscheinen, oder
-2. **schriftlich unrichtige oder unvollstaendige Angaben** ueber subventionserhebliche Tatsachen macht, die ihm vorteilhaft sind, oder
-3. solche Verschlechterungen der wirtschaftlichen Verhaeltnisse, die für die Entscheidung ueber einen Antrag erheblich sind, dem Kreditgeber nicht mitteilt.
+2. **schriftlich unrichtige oder unvollstaendige Angaben** über subventionserhebliche Tatsachen macht, die ihm vorteilhaft sind, oder
+3. solche Verschlechterungen der wirtschaftlichen Verhaeltnisse, die für die Entscheidung über einen Antrag erheblich sind, dem Kreditgeber nicht mitteilt.
 
 ### Schluesselbegriffe
 
@@ -59,10 +59,10 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 
 - **Kreditverhaeltnis nachweisen.** Nur "im Zusammenhang mit Kreditantrag". Bei reinen Werbegespraechen oder Vorvertraegen ohne Antrag scheidet § 265b aus.
 - **Wesentlichkeit der Angabe** angreifen. Hat die Bank tatsaechlich auf die fragliche Angabe abgestellt? Internes Rating-Verfahren rekonstruieren.
-- **Bilanz-Manipulation.** Pruefen ob Bilanz nach HGB / IFRS testiert. Wenn Wirtschaftspruefer testiert hat, Vorsatzfrage. § 17 StGB Verbotsirrtum.
+- **Bilanz-Manipulation.** Prüfen ob Bilanz nach HGB / IFRS testiert. Wenn Wirtschaftspruefer testiert hat, Vorsatzfrage. § 17 StGB Verbotsirrtum.
 - **Steuerberater-Beratung** als entlastendes Moment.
 - **Mittelabfluss-Stop** nutzen für § 265b Abs. 2 StGB taetige Reue, z. B. durch sofortige Tilgung oder Vertragsruecktritt.
-- **Insolvenzgrund** pruefen: Bei spaeterer Insolvenz Konkurrenz zu § 283 StGB Bankrott.
+- **Insolvenzgrund** prüfen: Bei spaeterer Insolvenz Konkurrenz zu § 283 StGB Bankrott.
 
 ## Trade-off-Matrix
 
@@ -80,7 +80,7 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 - **§ 265b StGB / § 283 StGB Bankrott.** Bei spaeterer Krise und Mittelverwendung gegen Glaeubigerinteressen Tateinheit.
 - **§ 265b StGB / § 331 HGB Falsche Darstellung.** Bei Bilanzdelikten Tateinheit.
 - **§ 265b StGB / § 370 AO.** Bei zusaetzlicher Steuerhinterziehung durch Bilanzmanipulation.
-- **§ 265b StGB / § 264 StGB.** Bei oeffentlich verbuergten oder gefoerderten Krediten (z. B. KfW) Spezialkonkurrenz pruefen — typischerweise § 264 als Spezialnorm.
+- **§ 265b StGB / § 264 StGB.** Bei öffentlich verbuergten oder gefoerderten Krediten (z. B. KfW) Spezialkonkurrenz prüfen — typischerweise § 264 als Spezialnorm.
 
 ## Strafzumessung und Folgen
 
@@ -96,11 +96,11 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 
 ### Antrag § 265b Abs. 2 StGB
 
-"Der Mandant hat mit Schreiben vom [Datum] der [Bank] mitgeteilt, dass er den Kredit nicht in Anspruch nehmen werde, und die zur Bonitaetspruefung eingereichten Unterlagen unter Hinweis auf erkannte Unrichtigkeiten zurueckgezogen. Mittel sind zu keinem Zeitpunkt abgeflossen. Eine Strafbarkeit gemaess § 265b Abs. 2 StGB scheidet aus."
+"Der Mandant hat mit Schreiben vom [Datum] der [Bank] mitgeteilt, dass er den Kredit nicht in Anspruch nehmen werde, und die zur Bonitaetspruefung eingereichten Unterlagen unter Hinweis auf erkannte Unrichtigkeiten zurueckgezogen. Mittel sind zu keinem Zeitpunkt abgeflossen. Eine Strafbarkeit gemäß § 265b Abs. 2 StGB scheidet aus."
 
 ### Bestreiten Vorsatz
 
-"Der Mandant hat sich vor der Einreichung der Bilanz 2024 auf das Testat des Wirtschaftspruefers [Name] vom [Datum] verlassen. Eine ueber das Testat hinausgehende eigene Kenntnis konkreter Unrichtigkeiten ist nicht ersichtlich; ein Vorsatz im Sinne von § 265b Abs. 1 StGB wird bestritten."
+"Der Mandant hat sich vor der Einreichung der Bilanz 2024 auf das Testat des Wirtschaftspruefers [Name] vom [Datum] verlassen. Eine über das Testat hinausgehende eigene Kenntnis konkreter Unrichtigkeiten ist nicht ersichtlich; ein Vorsatz im Sinne von § 265b Abs. 1 StGB wird bestritten."
 
 ## Quellen Stand 06/2026
 

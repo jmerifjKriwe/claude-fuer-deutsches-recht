@@ -22,18 +22,18 @@ description: "AGB im Konzernverbund. Skill behandelt die AGB-rechtliche Pruefung
 
 ### Service-Level-Agreements (SLA)
 - Standardisierte Leistungsbeschreibungen mit Sanktionen bei Nichterfuellung.
-- AGB-rechtliche Pruefung der Haftungsbegrenzung.
+- AGB-rechtliche Prüfung der Haftungsbegrenzung.
 
 ### Cash-Pooling-Vereinbarungen
 - BGH II ZR 102/07 zu Cash-Pool-Risiken.
-- Haftungsausschluesse muessen § 307 BGB standhalten.
+- Haftungsausschluesse müssen § 307 BGB standhalten.
 
 ### Konzernverrechnungspreise
 - Steuerlich Transferpreise nach OECD-RL.
 - AGB-rechtlich Transparenzgebot.
 
 ### Cross-Cluster-Services
-- Vertraege zwischen verschiedenen Konzernteilen ueber gemeinsame Dienstleistungen (IT, HR, Finance).
+- Verträge zwischen verschiedenen Konzernteilen über gemeinsame Dienstleistungen (IT, HR, Finance).
 - Standardisierung typisch — § 305 BGB greift.
 
 ## Pruefraster

@@ -21,11 +21,11 @@ description: "Elektronische notarielle Verkuendung beim Bautraegervertrag: Skill
 ## Reform
 
 - BeurkG Reform 2022 / 2023 — elektronische Beurkundung in bestimmten Faellen.
-- Erstmals Online-Beurkundung moeglich (zunaechst beschraenkt auf bestimmte Sachverhalte).
+- Erstmals Online-Beurkundung möglich (zunaechst beschraenkt auf bestimmte Sachverhalte).
 
 ## Anwendbar auf Bautraegervertraege?
 
-- Im Stand 2024/2025: GmbH-Gruendung online moeglich; Grundstuecksgeschaefte typischerweise weiterhin in Praesenz erforderlich.
+- Im Stand 2024/2025: GmbH-Gruendung online möglich; Grundstuecksgeschaefte typischerweise weiterhin in Praesenz erforderlich.
 - Aktuellen Stand des elektronischen Notariats vor Anwendung verifizieren — Reformlage in Bewegung.
 
 ## Vorteile für Erwerber

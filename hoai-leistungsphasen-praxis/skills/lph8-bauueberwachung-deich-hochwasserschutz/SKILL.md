@@ -43,7 +43,7 @@ Deichbauvorhaben verbinden Wasserbau, Geotechnik und Tiefbau unter dem besondere
 
 ## Prueferaster und Kontrollpunkte
 
-1. Proctordichte-Kontrolle: Verdichtungsgrad D groesser 95 Prozent Proctor-Normal, mindestens 1 Pruefung je 1.000 m3, GPS-Entnahmestelle protokolliert
+1. Proctordichte-Kontrolle: Verdichtungsgrad D groesser 95 Prozent Proctor-Normal, mindestens 1 Prüfung je 1.000 m3, GPS-Entnahmestelle protokolliert
 2. Setzungsmessung: Setzungsmarken je 200 m Deichachse, Nivellement nach jeder Schuettlage, Restsetzung kleiner 3 cm/Monat vor Abnahme
 3. Kleibodenkern-Dichte: Rammsonde DPSH-B nach DIN EN ISO 22476-2, Schlagzahl N10 groesser 15 als Indikator
 4. Deckwerkssteine: Schuttsteine CP90/250 nach DIN EN 13383-1, Lageplan Laengsabschnitte, kein Feinkorns unter Deckwerk
@@ -64,7 +64,7 @@ Deichbauvorhaben verbinden Wasserbau, Geotechnik und Tiefbau unter dem besondere
 - SAP PS Projekt DH-XXX: BODEN-010 Erdaushub, SCHUETT-020 Dammschuettung, VERDICHT-030 Pruefungen, DECKWERK-040 Steinschuettung, ABNAHME-050
 - PlanRadar Deich-km als horizontale Achse: Mangel-Pin nach km und Seite Wasser/Land, Filter nach Gewerk und Status
 - Wasserbehoerden-Monatsbericht: Verdichtungsprotokolle-Zusammenfassung, Setzungsdiagramme, Abweichungsliste, Freigabe Planfeststellungsbehoerde
-- Workflow: Qualmwasser gemeldet, sofortige Begehung mit Geotechniker, Sanierungskonzept, Ausfuehrung, Pruefung, Meldung Wasserbehoerde
+- Workflow: Qualmwasser gemeldet, sofortige Begehung mit Geotechniker, Sanierungskonzept, Ausfuehrung, Prüfung, Meldung Wasserbehoerde
 
 ## Typische Fallstricke
 
@@ -75,7 +75,7 @@ Deichbauvorhaben verbinden Wasserbau, Geotechnik und Tiefbau unter dem besondere
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

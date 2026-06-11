@@ -7,7 +7,7 @@ description: "Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amt
 
 ## Worum geht es?
 
-Vor dem Amtsgericht (AG) brauchen Sie als Buerger keinen Rechtsanwalt. Sie koennen also selbst klagen, sich selbst verteidigen, selbst Schriftsaetze einreichen und selbst im Termin auftreten. Das spart Anwaltskosten — kann aber teuer werden, wenn Sie Fristen verpassen oder Antraege falsch formulieren. Diese Skill ordnet Ihre Situation ein und sagt Ihnen, wohin Sie als Naechstes lesen sollten.
+Vor dem Amtsgericht (AG) brauchen Sie als Buerger keinen Rechtsanwalt. Sie können also selbst klagen, sich selbst verteidigen, selbst Schriftsaetze einreichen und selbst im Termin auftreten. Das spart Anwaltskosten — kann aber teuer werden, wenn Sie Fristen verpassen oder Antraege falsch formulieren. Diese Skill ordnet Ihre Situation ein und sagt Ihnen, wohin Sie als Naechstes lesen sollten.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -19,11 +19,11 @@ Vor dem Amtsgericht (AG) brauchen Sie als Buerger keinen Rechtsanwalt. Sie koenn
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Amtsgericht (AG)**: Das kleinste Gericht der ordentlichen Gerichtsbarkeit. Es entscheidet ueber zivile Streitigkeiten bis zu einer bestimmten Wertgrenze und ueber bestimmte Materien (Miete, Familie, kleine Geldforderungen).
+- **Amtsgericht (AG)**: Das kleinste Gericht der ordentlichen Gerichtsbarkeit. Es entscheidet über zivile Streitigkeiten bis zu einer bestimmten Wertgrenze und über bestimmte Materien (Miete, Familie, kleine Geldforderungen).
 - **Streitwert**: Der Geldwert dessen, worum Sie streiten. Bei einer Forderung von 2.000 EUR ist der Streitwert 2.000 EUR.
-- **Klaeger**: Wer eine Klage erhebt.
+- **Kläger**: Wer eine Klage erhebt.
 - **Beklagter**: Wer verklagt wird.
-- **Anwaltszwang**: Vorschrift, dass Sie sich nur durch einen Anwalt vertreten lassen koennen. Vor dem AG gibt es ihn **nicht** (mit wenigen Ausnahmen, siehe Skill `anwaltszwang-pruefen-78-zpo`).
+- **Anwaltszwang**: Vorschrift, dass Sie sich nur durch einen Anwalt vertreten lassen können. Vor dem AG gibt es ihn **nicht** (mit wenigen Ausnahmen, siehe Skill `anwaltszwang-pruefen-78-zpo`).
 
 ## Rechtsgrundlagen
 
@@ -35,11 +35,11 @@ Vor dem Amtsgericht (AG) brauchen Sie als Buerger keinen Rechtsanwalt. Sie koenn
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Klaeren Sie Ihre Rolle
+### Schritt 1 — Klären Sie Ihre Rolle
 
 Sind Sie
 
-- **Klaeger** (Sie wollen jemand verklagen)? → Block B-E, dann F-L bei Fortschritt.
+- **Kläger** (Sie wollen jemand verklagen)? → Block B-E, dann F-L bei Fortschritt.
 - **Beklagter** (Sie wurden verklagt)? → Block F, dann G, H, I, J, K.
 
 Wenn Sie Anfänger sind, starten Sie zuerst mit `anfaenger-workflow-amtsgericht`. Dieser Skill erklärt die Reihenfolge in kleineren Schritten.
@@ -48,17 +48,17 @@ Wenn Sie Anfänger sind, starten Sie zuerst mit `anfaenger-workflow-amtsgericht`
 
 Schaetzen Sie, um welche Geldsumme es geht. Das ist Ihr Streitwert. Bei Sachen ohne Geldforderung (z. B. "Sie sollen die Garage raeumen") schaetzt das Gericht. Skill `klage-streitwert-angabe-3-zpo` hilft.
 
-### Schritt 3 — Zuständigkeit pruefen
+### Schritt 3 — Zuständigkeit prüfen
 
 - Streitwert unterhalb der Wertgrenze § 23 Nr. 1 GVG? AG zuständig. Skill `sachliche-zuständigkeit-amtsgericht-23-gvg`.
 - Mietsache, Reisevertrag, Familiensache? Immer AG, unabhaengig vom Wert. Skill `ausnahmen-streitwertgrenze-23-nr-2-gvg`.
 - Welches AG raeumlich? Wohnort Beklagter ist der Hauptfall. Skill `oertliche-zuständigkeit-12-37-zpo`.
 
-### Schritt 4 — Erfolgsaussichten ehrlich pruefen
+### Schritt 4 — Erfolgsaussichten ehrlich prüfen
 
 Klagen kostet Geld, auch wenn Sie keinen Anwalt brauchen — Gerichtskosten, evtl. Sachverstaendiger, im Verlust-Fall die Kosten der Gegenseite. Skill `vorabklaerung-erfolgsaussichten-selbstcheck`.
 
-### Schritt 5 — Verjährung pruefen (Klaeger!)
+### Schritt 5 — Verjährung prüfen (Kläger!)
 
 Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr Anspruch noch durchsetzbar? Skill `verjaehrungsfrist-pruefen-195-bgb`.
 
@@ -73,7 +73,7 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 - Sie haben einen Termin? → `terminvorbereitung-checkliste`.
 - Sie haben ein Urteil und wollen sich wehren? → `berufung-amtsgericht-511-zpo`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Fristen ueberleben Versaeumnisse selten.** Wenn das Gericht eine Frist setzt, ist sie ernst. Eine versaeumte Frist kostet Sie meist den Prozess. Skill `fristen-berechnen-187-188-bgb`.
 - **Versand durch Dritte ist Ihr Risiko.** Wenn Sie eine Klage durch einen Boten oder Verwandten zum Gericht schicken und die Sendung verspaetet ankommt, traegt das Risiko nach BVerfG-Linie **Sie**. Skill `zurechnungsproblem-versand-durch-dritte`.
@@ -83,9 +83,9 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 ## Typische Fehler
 
 - "Ich schreibe nur, dass ich gewinnen will." → Sie brauchen einen **konkreten** Antrag (z. B. "Der Beklagte wird verurteilt, an mich 1.500 EUR nebst Zinsen zu zahlen.").
-- "Beweise reiche ich spaeter ein." → Beweismittel muessen Sie **benennen** (mindestens). Skill `klageschrift-beweisangebote-einbauen-373-zpo`.
+- "Beweise reiche ich später ein." → Beweismittel müssen Sie **benennen** (mindestens). Skill `klageschrift-beweisangebote-einbauen-373-zpo`.
 - "Ich warte ab, was die Gegenseite schreibt." → Beim Beklagten oft toedlich: Wer in der Frist nicht reagiert, kassiert ein Versaeumnisurteil. Skill `saeumnis-vermeiden-330-ff-zpo`.
-- "Ich verklage erstmal, einigen kann ich mich spaeter." → Vorgerichtliche Mahnung und Verzug sind Voraussetzung für manche Anspruchspositionen (z. B. Verzugszinsen). Skill `aussergerichtliche-mahnung-286-bgb`.
+- "Ich verklage erstmal, einigen kann ich mich später." → Vorgerichtliche Mahnung und Verzug sind Voraussetzung für manche Anspruchspositionen (z. B. Verzugszinsen). Skill `aussergerichtliche-mahnung-286-bgb`.
 
 ## Quellen und Aktualitaet
 

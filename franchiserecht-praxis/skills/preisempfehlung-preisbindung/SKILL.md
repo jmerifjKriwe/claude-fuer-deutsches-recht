@@ -62,7 +62,7 @@ Ein Franchisegeber gibt seinen Franchisenehmern Preislisten mit empfohlenen Verk
 
 ## Vertiefung
 
-Die Grenze zwischen zulässiger unverbindlicher Preisempfehlung und verbotener Preisbindung zweiter Hand ist in der Praxis fliessend. Entscheidend ist nicht der Wortlaut der Empfehlung, sondern die tatsächliche Wirkung: Werden Franchisenehmer durch direkte oder indirekte Massnahmen veranlasst, die empfohlenen Preise einzuhalten?
+Die Grenze zwischen zulässiger unverbindlicher Preisempfehlung und verbotener Preisbindung zweiter Hand ist in der Praxis fliessend. Entscheidend ist nicht der Wortlaut der Empfehlung, sondern die tatsächliche Wirkung: Werden Franchisenehmer durch direkte oder indirekte Maßnahmen veranlasst, die empfohlenen Preise einzuhalten?
 
 Das Bundeskartellamt hat in mehreren Entscheidungen klargestellt, dass auch verdeckte Preisbindungssysteme (z. B. Monitoring mit Sanktionsdrohung) kartellrechtswidrig sind, selbst wenn sie formal als Preisempfehlung ausgestaltet sind. Der EuGH hat in der Coty-Entscheidung für Luxusprodukte Ausnahmen im Selektivvertrieb zugelassen.
 

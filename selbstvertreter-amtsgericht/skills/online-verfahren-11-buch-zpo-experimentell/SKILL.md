@@ -7,7 +7,7 @@ description: "Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Volls
 
 ## Worum geht es?
 
-Seit 2025 gibt es in Deutschland ein **experimentelles vollstaendig digitales Zivilverfahren** ("Online-Verfahren"). Es ermoeglicht, einen Zivilrechtsstreit von Anfang bis Ende ueber eine Internet-Plattform zu fuehren — ohne Papier, ohne persönliche Termine vor Ort. Das Verfahren ist in einem neuen Buch der ZPO (vermutlich 11. Buch) verankert und gilt zunaechst nur an **teilnehmenden Amtsgerichten** und für **bestimmte Streit-Typen**.
+Seit 2025 gibt es in Deutschland ein **experimentelles vollstaendig digitales Zivilverfahren** ("Online-Verfahren"). Es ermoeglicht, einen Zivilrechtsstreit von Anfang bis Ende über eine Internet-Plattform zu fuehren — ohne Papier, ohne persönliche Termine vor Ort. Das Verfahren ist in einem neuen Buch der ZPO (vermutlich 11. Buch) verankert und gilt zunaechst nur an **teilnehmenden Amtsgerichten** und für **bestimmte Streit-Typen**.
 
 **Wichtig:** Die genaue Norm-Verortung (Paragraphennummer, Geltungsbereich, Schwellenwerte) ist im laufenden Gesetzgebungs- und Erprobungs-Verfahren. **Verifizieren Sie die aktuellen Normen in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zuständigen Amtsgerichts.**
 
@@ -31,7 +31,7 @@ Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die 
 ## Rechtsgrundlagen (Stand 2026)
 
 - **11. Buch ZPO (Online-Verfahren)** — neues Buch der Zivilprozessordnung, eingefuehrt mit dem Gesetz zur Förderung digitaler Justiz-Verfahren (genaues Inkrafttreten und Paragraphen verifizieren).
-- **§ 128a ZPO** — Video-Verhandlung (auch im klassischen Verfahren moeglich, vgl. `video-verhandlung-128a-zpo`).
+- **§ 128a ZPO** — Video-Verhandlung (auch im klassischen Verfahren möglich, vgl. `video-verhandlung-128a-zpo`).
 - **§ 130a ZPO** — elektronische Einreichung (gilt auch im klassischen Verfahren).
 
 **Verifizieren Sie die aktuelle Rechtslage** in amtliche/freie Quellen oder lizenzierte Datenbanken — die Normen-Nummerierung und der Anwendungsbereich des Online-Verfahrens werden im Erprobungs-Zeitraum noch praezisiert.
@@ -58,14 +58,14 @@ Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die 
 
 - **Nicht für komplexe Faelle**: Schwierige Sachverhalte (medizinische Gutachten, technische Details) lassen sich in der Eingabe-Maske nur eingeschraenkt darstellen.
 - **Technik-Voraussetzungen**: Sie brauchen Computer, stabile Internet-Verbindung, Webcam, Mikrofon.
-- **Identifikation**: Sie muessen sich elektronisch ausweisen (z.B. Mein Justizpostfach, eID Personalausweis).
+- **Identifikation**: Sie müssen sich elektronisch ausweisen (z.B. Mein Justizpostfach, eID Personalausweis).
 - **Akten-Backup**: Sie sollten regelmaessig Kopien Ihrer Eingaben lokal speichern (z.B. als PDF herunterladen).
 - **Nicht ueberall verfuegbar**: Nur an teilnehmenden Amtsgerichten.
-- **Nicht für alle Streit-Typen**: Bestimmte Sachgebiete koennen ausgeschlossen sein.
+- **Nicht für alle Streit-Typen**: Bestimmte Sachgebiete können ausgeschlossen sein.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Ihr Amtsgericht teilnimmt
+### Schritt 1 — Prüfen, ob Ihr Amtsgericht teilnimmt
 
 Schauen Sie auf der Webseite der Justiz Ihres Bundeslandes oder direkt auf der Webseite des oertlich zuständigen Amtsgerichts nach. Beispiele:
 
@@ -73,16 +73,16 @@ Schauen Sie auf der Webseite der Justiz Ihres Bundeslandes oder direkt auf der W
 - "Online-Verfahren" als Stichwort suchen.
 - Bei der Geschaeftsstelle des Amtsgerichts nachfragen.
 
-### Schritt 2 — Pruefen, ob Ihr Streit-Typ zugelassen ist
+### Schritt 2 — Prüfen, ob Ihr Streit-Typ zugelassen ist
 
 Das Online-Verfahren ist nicht für alle Streit-Typen offen. Typisch zugelassen sind z.B. Zahlungsklagen unter einem bestimmten Streitwert. Lesen Sie die Bedingungen der Plattform.
 
 ### Schritt 3 — Auf der Plattform registrieren
 
-Identifikation typisch ueber:
+Identifikation typisch über:
 - **Mein Justizpostfach (MJP)** — siehe `einreichung-mein-justizpostfach-mjp-2024`.
 - **eID** mit dem Personalausweis und einem Lesegeraet/Smartphone-NFC.
-- Login-Daten ueber Bund-ID-Verfahren.
+- Login-Daten über Bund-ID-Verfahren.
 
 ### Schritt 4 — Klage in der Eingabe-Maske erfassen
 
@@ -104,7 +104,7 @@ Speichern Sie regelmaessig (die Plattform speichert meistens automatisch).
 
 ### Schritt 6 — Reaktion der Gegenseite abwarten
 
-Sie sehen im Plattform-Postfach, wenn die Gegenseite antwortet. Sie reagieren wieder ueber die Maske.
+Sie sehen im Plattform-Postfach, wenn die Gegenseite antwortet. Sie reagieren wieder über die Maske.
 
 ### Schritt 7 — Video-Termin
 
@@ -112,23 +112,23 @@ Wenn ein Termin stattfindet, bekommen Sie einen Link. Loggen Sie sich rechtzeiti
 - Ruhiger Raum, kein Hintergrund-Laerm.
 - Webcam auf Augenhoehe.
 - Stabile Internet-Verbindung.
-- Personalausweis griffbereit für Identitaets-Pruefung.
+- Personalausweis griffbereit für Identitaets-Prüfung.
 
 ### Schritt 8 — Urteil im Plattform-Postfach
 
 Das Urteil erscheint im Plattform-Postfach. Laden Sie es als PDF herunter und speichern Sie es lokal.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Speichern Sie alles lokal als PDF.** Wenn die Plattform mal nicht laeuft, sind Sie nicht hilflos.
-- **Pruefen Sie die Fristen.** Auch im Online-Verfahren gelten die normalen Fristen der ZPO.
+- **Prüfen Sie die Fristen.** Auch im Online-Verfahren gelten die normalen Fristen der ZPO.
 - **Lassen Sie sich nicht von der Eingabe-Maske eingeengen**: Wenn Ihr Sachverhalt komplexer ist, fuegen Sie ein ergaenzendes PDF als Anlage hinzu.
 - **Bei Zweifel: klassisches Verfahren waehlen.** Das Online-Verfahren ist freiwillig.
 
 ## Typische Fehler
 
 - **Fehler:** Plattform für hochkomplexe Faelle nutzen — Eingabe-Maske ist zu eng. → **So vermeiden:** Bei komplexen Faellen klassisches Verfahren waehlen.
-- **Fehler:** Plattform-Postfach nicht regelmaessig pruefen — Fristen verpasst. → **So vermeiden:** Mehrmals pro Woche einloggen oder Benachrichtigungs-E-Mail aktivieren.
+- **Fehler:** Plattform-Postfach nicht regelmaessig prüfen — Fristen verpasst. → **So vermeiden:** Mehrmals pro Woche einloggen oder Benachrichtigungs-E-Mail aktivieren.
 - **Fehler:** Lokale Sicherungs-Kopien vergessen. → **So vermeiden:** Nach jeder Eingabe als PDF herunterladen.
 - **Fehler:** Bei Video-Termin technische Probleme — kein Backup-Geraet. → **So vermeiden:** Vor dem Termin Funktion testen, Smartphone als Backup griffbereit.
 

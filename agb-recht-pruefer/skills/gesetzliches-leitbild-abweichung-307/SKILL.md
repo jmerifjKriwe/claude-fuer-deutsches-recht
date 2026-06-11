@@ -22,7 +22,7 @@ description: "Norm- und Dogmatik-Skill für Gesetzliches Leitbild Abweichung 307
  - **Tatbestand:** Eine AGB-Klausel ist im Zweifel unangemessen, wenn sie mit wesentlichen Grundgedanken der gesetzlichen Regelung, von der abgewichen wird, nicht zu vereinbaren ist.
  - **Pruefschritte:**
  - **(a)** Welches gesetzliche Leitbild greift (dispositiv vs. dispositiv-zwingend)? Beispiel: § 433 BGB Pflichten beim Kauf, § 631 BGB Werkpflichten, § 280 BGB Schadenersatz nur bei Verschulden.
- - **(b)** Welche wesentlichen Grundgedanken ergeben sich aus dem Leitbild? Beispiel: Verschuldenshaftung statt Gefaehrdungshaftung; Aequivalenz zwischen Leistung und Gegenleistung.
+ - **(b)** Welche wesentlichen Grundgedanken ergeben sich aus dem Leitbild? Beispiel: Verschuldenshaftung statt Gefaehrdungshaftung; Äquivalenz zwischen Leistung und Gegenleistung.
  - **(c)** Wird von diesen Grundgedanken abgewichen? Reine Praezisierungen sind unkritisch; substantielle Verschiebungen sind kritisch.
  - **(d)** Liegt eine "unangemessene" Benachteiligung vor? Massstab: Treu und Glauben (§ 242 BGB).
  - **Indizwirkung:** § 307 Abs. 2 Nr. 1 BGB schafft eine Indizwirkung; widerlegbar bei substantieller Begruendung des Verwenders (z.B. besondere Risikoallokation, Massengeschaeft-Effizienz).

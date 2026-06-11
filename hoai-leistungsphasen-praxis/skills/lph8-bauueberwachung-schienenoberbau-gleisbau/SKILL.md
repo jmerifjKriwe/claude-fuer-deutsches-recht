@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbaua
 ## Spezialwissen
 
 Gleisbauarbeiten im Schienenoberbau erfordern prazise Ueberwachung von Gleisgeometrie, Schienenschweissnaehten und Schottereinbau.
-Die Bauueberwachung nach HOAI LPH 8 prueft Spurweite, Ueberhohung, Verwindung und Schweissnahtguete.
+Die Bauueberwachung nach HOAI LPH 8 prüft Spurweite, Ueberhohung, Verwindung und Schweissnahtguete.
 Gleismessfahrzeuge der DB AG messen die Gleisgeometrie nach RIL 820 und geben Grenzwert-Auswertungen aus.
 
 ## Bauwerk und Auftrag
@@ -28,7 +28,7 @@ Gleismessfahrzeuge der DB AG messen die Gleisgeometrie nach RIL 820 und geben Gr
 ## Erste Schritte auf der Baustelle
 
 1. Oberbau-Materialannahme: Schienenzertifikat EN 13674-1, Schwellenguete EN 13230, Weichenzertifikat
-2. Schweissnahtpruefung Schienenstoss: Ultraschall-Pruefung nach DIN EN 14730-1, Gueteklasse
+2. Schweissnahtpruefung Schienenstoss: Ultraschall-Prüfung nach DIN EN 14730-1, Gueteklasse
 3. Spurweitenprueefung: Massbandkontrolle je 25 m, Sollwert 1435 mm, Toleranz +/-3 mm nach RIL 820
 4. Schottereinbau: Schichtstarkemessung, Koernung 31.5/63 mm nach EN 13450, keine Verunreinigungen
 5. Gleisgeometrie: Gleismessfahrt nach Fertigstellung, Lagestabilitaet, Verwindung, Ueberhohung
@@ -46,11 +46,11 @@ Gleismessfahrzeuge der DB AG messen die Gleisgeometrie nach RIL 820 und geben Gr
 ## Prueferaster und Kontrollpunkte
 
 1. Schienenguete: CE-Zertifikat nach EN 13674-1, Biege-Zugfestigkeit, Haerteklasse HH oder HHT
-2. Schweissnahtpruefung: Ultraschall-Pruefung 100 Prozent je Stoss, kein interner Fehler ue3 mm
+2. Schweissnahtpruefung: Ultraschall-Prüfung 100 Prozent je Stoss, kein interner Fehler ue3 mm
 3. Spurweite: Pruefliste je 25 m-Abschnitt, Toleranz +/-3 mm, Aufzeichnung Messprotokoll
 4. Schotterqualitaet: Siebkurvenanalyse je 500 m3-Einbau, Korngroesse 31.5/63 mm eingehalten
 5. Gleisgeometrie nach Messtag: Verwindungsgrenzwerte, Pfeilhoehenabweichung, Spurerweiterung
-6. Schweissnahtschleifen: Hoehe nach Schleifen +/-0.5 mm, Schliffbild-Protokoll je Stoss
+6. Schweissnahtschleifen: Höhe nach Schleifen +/-0.5 mm, Schliffbild-Protokoll je Stoss
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -70,7 +70,7 @@ Gleismessfahrzeuge der DB AG messen die Gleisgeometrie nach RIL 820 und geben Gr
 
 ## Typische Fallstricke
 
-- Schweissnahtfehler nicht erkannt: Schienenstoss versagt unter Last, Entgleisung moeglich
+- Schweissnahtfehler nicht erkannt: Schienenstoss versagt unter Last, Entgleisung möglich
 - Spurweite ausserhalb Toleranz: Gleismessfahrt zeigt Grenzwertverletzung, Sperrung Abschnitt
 - Schotterqualitaet mangelhaft: Verschmutzungsgrad zu hoch, Drainagefunktion beeintraechtigt
 - Gleisgeometrie-Mangel unerkannt: Verwindung ue2 mm/3 m, Langsamfahrstelle erforderlich

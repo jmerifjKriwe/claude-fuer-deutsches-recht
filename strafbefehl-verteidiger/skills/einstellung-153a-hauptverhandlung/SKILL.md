@@ -55,15 +55,15 @@ Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Sachverhalt qualifizieren:** Delikt-Schwere, Schadenshoehe, Vorleben — passe Antrag an passende Norm an.
-2. **Informelle Sondierung bei Staatsanwaltschaft:** Telefonat oder E-Mail — ist Einstellung grundsaetzlich moeglich?
+2. **Informelle Sondierung bei Staatsanwaltschaft:** Telefonat oder E-Mail — ist Einstellung grundsätzlich möglich?
 3. **Foermlichen Antrag stellen** mit Begründung und Anlage (Einkommensnachweise, Spendenbereitschaft, Schadenswiedergutmachungsnachweis).
 4. **Zustimmungserfordernisse beachten:** § 153 Abs. 1 StPO: StA und Gericht; § 153a StPO: StA und Gericht und Beschuldigter.
 5. **Bei § 153a:** Auflage-Erfuellungsfrist beachten; Zahlungsbeleg und Quittung sichern; Abschlussbestaetigung von Staatsanwaltschaft anfordern.
-6. **Bei Ablehnung:** Wiederholung des Antrags in der Hauptverhandlung moeglich.
+6. **Bei Ablehnung:** Wiederholung des Antrags in der Hauptverhandlung möglich.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -100,7 +100,7 @@ bis [DATUM].
 Mit freundlichen Gruessen [KANZLEI]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

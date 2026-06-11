@@ -26,20 +26,20 @@ Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussver
 - Welche Anschlussversorgung wird benoetigt (Pflege, Reha, ambulante Therapie, Hilfsmittel)?
 - Sind Verordnungen ausgestellt (Arzneimittel max. 7 Tage Wirkdauer, Heilmittel max. 7 Tage, AU max. 7 Tage)?
 - Ist die Schnittstelle zur Reha-/Pflegedienstleistung organisiert?
-- Drohen MDK-Pruefung oder Beschwerden wegen unzureichender Entlassung?
+- Drohen MDK-Prüfung oder Beschwerden wegen unzureichender Entlassung?
 
 ## Rechtlicher Rahmen
 - **SGB V § 39 Abs. 1a** Entlassmanagement, Verordnungsbefugnis Krankenhaus.
 - **Rahmenvertrag Entlassmanagement** zwischen GKV-SV, KBV, DKG.
 - **SGB V §§ 73, 73a** Hausaerztliche Versorgung und Schnittstelle.
-- **SGB V § 87** Bewertungsmassstab, ggf. Verguetung Entlassgespraech.
+- **SGB V § 87** Bewertungsmassstab, ggf. Vergütung Entlassgespraech.
 - **SGB XI** Pflegeueberleitung.
 - **PatientenrechteG / BGB §§ 630a ff.** Behandlungsvertrag, Aufklaerung.
 
 ## / Schritt für Schritt
 1. **Einwilligung einholen:** Schriftliche oder dokumentierte Einwilligung zum Entlassmanagement bei Aufnahme oder spaetestens vor Entlassung.
 2. **Bedarfsabschaetzung:** Pflegeeinstufung, Reha-Bedarf, Soziotherapie, Hilfsmittel, Heilmittel, Arzneimittel.
-3. **Entlassplan erstellen:** Konkrete Massnahmen, Ansprechpartner, Termine.
+3. **Entlassplan erstellen:** Konkrete Maßnahmen, Ansprechpartner, Termine.
 4. **Verordnungen ausstellen:** Befristet (max. 7 Tage) Arzneimittel, Heil-/Hilfsmittel, AU; mit Verordnungsausweis.
 5. **Uebergabe an Vertragsarzt/Pflegedienst:** Schriftlich, mit Kurzarztbrief, Medikationsplan, Begleitdokumenten.
 6. **Dokumentation:** Einwilligung, Entlassgespraech, Plan, Verordnungen — Aufbewahrung mind. 10 Jahre.
@@ -63,7 +63,7 @@ Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussver
 
 ## Mustertexte
 **Patienteneinwilligung Entlassmanagement:**
-> Ich willige in das Entlassmanagement nach § 39 Abs. 1a SGB V ein. Ich bin ueber den Zweck (geordnete Entlassung, Anschlussversorgung) und ueber meine Rechte (Widerruf, Datenschutz) informiert. Datum, Unterschrift.
+> Ich willige in das Entlassmanagement nach § 39 Abs. 1a SGB V ein. Ich bin über den Zweck (geordnete Entlassung, Anschlussversorgung) und über meine Rechte (Widerruf, Datenschutz) informiert. Datum, Unterschrift.
 
 **Kurzarztbrief Strukturvorlage:**
 > Aufnahme: [Datum, Diagnose]. Behandlungsverlauf: … Entlassdiagnose: … Empfohlene Anschlussversorgung: 1. Vertragsarzt [Fach], 2. Pflegegrad [Antrag], 3. Reha [AHB], 4. Medikation (Plan beigefuegt), 5. Verordnungen [Liste]. Kontakt: [KH-Ansprechpartner, Tel.].

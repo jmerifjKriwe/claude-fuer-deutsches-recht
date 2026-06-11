@@ -31,7 +31,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 1. Aetiologie: Ursachenforschung. Warum kommt es zur Tat? Genetische, biologische, psychologische, soziale, oekonomische, kulturelle Faktoren.
 2. Phaenomenologie: Erscheinungsformen. Welche Delikte gibt es, wie haeufig, wo, wann, von wem, mit welchem Modus operandi?
 3. Viktimologie: Opferforschung. Wer wird Opfer, warum, mit welchen Folgen, mit welcher Rolle in der Tatentstehung?
-4. Pravention und Repression: Reaktionsforschung. Welche Massnahmen reduzieren Kriminalitaet? Welche Wirkungen haben Sanktionen?
+4. Pravention und Repression: Reaktionsforschung. Welche Maßnahmen reduzieren Kriminalitaet? Welche Wirkungen haben Sanktionen?
 
 **Klassische Theorien (Kurzueberblick).**
 - Anomie-Theorie (Merton): Diskrepanz zwischen kulturellen Zielen und legitimen Mitteln zur Zielerreichung. Tat als Anpassungsstrategie.
@@ -45,7 +45,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Karrierekriminalitaet ist die Ausnahme; die meisten Straffaelligen werden mit Erwachsenenalter unauffaellig.
 - Rueckfallraten sind delikts- und altersabhaengig (Eigentumsdelikte hoeher als Gewaltdelikte gegen Bekannte).
 - Soziale Bindung (Familie, Arbeit, Wohnung) ist staerkster Schutzfaktor.
-- Inhaftierung ist nicht praeventiv besser als ambulante Massnahmen bei gleichem Risikoprofil — eher umgekehrt (Stigmatisierungs- und Lernfeldeffekt).
+- Inhaftierung ist nicht praeventiv besser als ambulante Maßnahmen bei gleichem Risikoprofil — eher umgekehrt (Stigmatisierungs- und Lernfeldeffekt).
 - Junge Erwachsene (18 bis 21) haben hoehere Tatbereitschaft, aber auch hohe Spontanremission ohne Intervention.
 
 ## Praktikertipps Verteidigung

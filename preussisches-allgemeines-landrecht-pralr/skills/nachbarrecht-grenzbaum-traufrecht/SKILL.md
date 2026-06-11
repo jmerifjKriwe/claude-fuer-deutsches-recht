@@ -16,7 +16,7 @@ description: "Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behan
 - ALR I 23.
 
 ### Ueberhang
-- Aeste oder Wurzeln ueber die Grenze.
+- Aeste oder Wurzeln über die Grenze.
 - Heute § 910 BGB.
 
 ### Notweg
@@ -37,7 +37,7 @@ description: "Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behan
 
 1. Welche Konstellation?
 2. ALR oder Landesrecht?
-3. Heutige Aequivalenz?
+3. Heutige Äquivalenz?
 
 ## Powersprint-Vertiefung
 

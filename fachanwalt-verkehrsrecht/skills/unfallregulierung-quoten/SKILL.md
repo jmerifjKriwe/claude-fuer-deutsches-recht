@@ -50,7 +50,7 @@ description: "Mandant hat Unfall mit Mitverschulden und fragt welche Schadenspos
 
 ### BGH-Linie
 
-- Reparatur zulaessig, wenn Reparaturkosten **bis 130 %** des Wiederbeschaffungswerts
+- Reparatur zulässig, wenn Reparaturkosten **bis 130 %** des Wiederbeschaffungswerts
 - Verifizierte Entscheidungen vor Ausgabe in offener Quelle prüfen (BGH-Datenbank, dejure.org, openjur.de):
  - BGH, Urt. v. 12.3.2024, VI ZR 280/22 — Werkstatt- bzw. Sachverstaendigenrisiko (Übertragung auf überhöhte Sachverstaendigenkosten); offene Quelle: https://juris.bundesgerichtshof.de
  - BGH, Urt. v. 5.11.2024, VI ZR 12/24 — fiktive Berechnung Haushaltsfuehrungsschaden (Mindestlohn als Untergrenze, nachvollziehbare Begründung erforderlich)

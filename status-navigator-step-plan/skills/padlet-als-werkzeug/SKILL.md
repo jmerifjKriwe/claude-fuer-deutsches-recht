@@ -13,9 +13,9 @@ Anhaenge (Vertragsscan, E-Mails) sind direkt verlinkbar.
 
 ## Wann Padlet sinnvoll ist
 - Mehrere Bearbeiter, verteiltes Team
-- Mandant soll Stand sehen koennen (ohne Excel-Versand)
+- Mandant soll Stand sehen können (ohne Excel-Versand)
 - Schnelle Kommentar-Funktion gewuenscht
-- Beweisbild fuer Beratungsgespraech: Live-Statuswand
+- Beweisbild für Beratungsgespraech: Live-Statuswand
 - Workshop-Format mit Mandanten oder Mitgesellschaftern
 
 ## Wann Excel besser bleibt
@@ -27,7 +27,7 @@ Anhaenge (Vertragsscan, E-Mails) sind direkt verlinkbar.
 ## Padlet-Format der Wahl
 **Padlet-Format Spalten** (heisst dort `Shelf` oder `Spalten-Layout`).
 Vier Spalten = vier Reiter aus dem Step-Plan:
-1. Uebersicht
+1. Übersicht
 2. Verfuegbar
 3. Fehlend
 4. Erstellung und Beschaffung
@@ -44,7 +44,7 @@ Jedes Dokument = eine Karte. Karten-Felder:
 - Kommentar-Thread = Klaerungspunkte
 
 ## Datenschutz und Berufsrecht
-Padlet ist ein US-Dienst. Vor Einsatz pruefen:
+Padlet ist ein US-Dienst. Vor Einsatz prüfen:
 - DSGVO-konforme Konfiguration (EU-Server-Option)
 - Anonymisierte Dokumentenbezeichnungen
 - Keine Mandantennamen im Klartext

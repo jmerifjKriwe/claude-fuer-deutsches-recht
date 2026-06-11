@@ -3,7 +3,7 @@ name: betriebsrat-ladung-und-ersatzmitglieder-pruefen
 description: "Betriebsrat Ladung Und Ersatzmitglieder Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Betriebsrat Ladung Und Ersatzmitglieder Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und..."
 ---
 
-# Betriebsrat Ladung Und Ersatzmitglieder Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+# Betriebsrat Ladung Und Ersatzmitglieder Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Betriebsrat Ladung Und Ersatzmitglieder Pruefen: ordnet Normen, Nu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Betriebsrat Ladung Und Ersatzmitglieder Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+**Fokus:** Betriebsrat Ladung Und Ersatzmitglieder Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Betriebsrat — Ladung und Ersatzmitglieder prüfen
 

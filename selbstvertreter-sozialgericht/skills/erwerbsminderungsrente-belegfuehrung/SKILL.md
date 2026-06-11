@@ -13,7 +13,7 @@ description: "Erwerbsminderungsrente Belegfuehrung. Skill erklaert wie Selbstver
 
 ## Bedeutung
 
-EM-Rente steht und faellt mit der medizinischen Beweisfuehrung. Selbstvertreter muessen Belege aktiv sammeln und ordnen.
+EM-Rente steht und faellt mit der medizinischen Beweisfuehrung. Selbstvertreter müssen Belege aktiv sammeln und ordnen.
 
 ## Belegtypen
 

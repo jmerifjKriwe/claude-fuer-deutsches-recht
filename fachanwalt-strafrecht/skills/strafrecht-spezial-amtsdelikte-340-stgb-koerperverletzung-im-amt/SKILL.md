@@ -26,7 +26,7 @@ Anwendungsfaelle: Polizeibeamter schlaegt mit Schlagstock auf bereits festgenomm
 
 ### Tauglicher Taeter
 
-**Amtstraeger** im Sinne von Paragraph 11 Abs 1 Nr 2 StGB: Beamter, Richter, in einem sonstigen oeffentlich-rechtlichen Amtsverhaeltnis Stehender. **Polizeibeamte**, **Justizvollzugsbeamte**, **Zollbeamte**, **kommunale Ordnungskraefte** sind erfasst. Bei privaten Sicherheitsdiensten greift Paragraph 340 StGB nur, wenn sie hoheitliche Aufgaben uebernommen haben.
+**Amtstraeger** im Sinne von Paragraph 11 Abs 1 Nr 2 StGB: Beamter, Richter, in einem sonstigen öffentlich-rechtlichen Amtsverhaeltnis Stehender. **Polizeibeamte**, **Justizvollzugsbeamte**, **Zollbeamte**, **kommunale Ordnungskraefte** sind erfasst. Bei privaten Sicherheitsdiensten greift Paragraph 340 StGB nur, wenn sie hoheitliche Aufgaben uebernommen haben.
 
 ### In Ausübung des Dienstes oder in Beziehung darauf
 
@@ -56,8 +56,8 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 
 ## Praktikertipps Verteidigung
 
-- **Rechtfertigung pruefen.** Polizeiliche Gewaltanwendung ist rechtmaessig, wenn sie verhaeltnismaessig und durch Polizeirecht gedeckt ist (Paragraph 19 ff. PolG). Erforderlichkeit und Verhaeltnismaessigkeit dokumentieren.
-- **Verhaeltnismaessigkeit als Verteidigungslinie.** Verteidiger des Polizeibeamten: substantiierte Darstellung, dass mildere Mittel nicht zur Verfuegung standen oder ausgereizt waren. Verteidiger des Geschaedigten: Gegenrechnung der Verhaeltnismaessigkeit.
+- **Rechtfertigung prüfen.** Polizeiliche Gewaltanwendung ist rechtmaessig, wenn sie verhaeltnismaessig und durch Polizeirecht gedeckt ist (Paragraph 19 ff. PolG). Erforderlichkeit und Verhältnismäßigkeit dokumentieren.
+- **Verhältnismäßigkeit als Verteidigungslinie.** Verteidiger des Polizeibeamten: substantiierte Darstellung, dass mildere Mittel nicht zur Verfuegung standen oder ausgereizt waren. Verteidiger des Geschaedigten: Gegenrechnung der Verhältnismäßigkeit.
 - **Notwehr und Nothilfe Paragraph 32 StGB.** Bei Angriffen von Beschuldigten gegen Polizeibeamte greift Notwehr; Polizei darf sich gegen Angriffe wehren. Schwierige Abgrenzung zu Notwehrexzess Paragraph 33 StGB.
 - **Beweisaufnahme Videoaufnahme.** Polizeiliches Bodycam-Video oder Ueberwachungskameras zentral. Verteidiger sollte unverzueglich Sicherstellung beantragen.
 - **Zeugenbeistand für mitbeteiligte Beamte.** Aussagen kollegialer Beamten kritisch hinterfragen; Konfliktsituationen mit Aussagedelikten.
@@ -72,8 +72,8 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 ## Konkurrenzen
 
 - **Paragraph 340 StGB und Paragraph 223 ff. StGB.** Spezialitaet — Paragraph 340 StGB tritt an die Stelle.
-- **Paragraph 340 StGB und Paragraph 343 StGB Aussageerpressung.** Tatmehrheit oder Tateinheit moeglich.
-- **Paragraph 340 StGB und Paragraph 339 StGB Rechtsbeugung.** Tatmehrheit moeglich (Beispiel: Folter im Verfahren).
+- **Paragraph 340 StGB und Paragraph 343 StGB Aussageerpressung.** Tatmehrheit oder Tateinheit möglich.
+- **Paragraph 340 StGB und Paragraph 339 StGB Rechtsbeugung.** Tatmehrheit möglich (Beispiel: Folter im Verfahren).
 - **Paragraph 340 StGB und Paragraph 211 StGB Mord.** Bei Toetung mit niedrigen Beweggruenden.
 - **Paragraph 340 StGB und Paragraph 32 StGB Notwehr.** Rechtfertigung.
 
@@ -85,11 +85,11 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 - **Geldstrafe** nur bei minder schwerem Fall.
 - **Disziplinarrechtliche Folgen** Paragraph 33 BeamtStG; Entfernung aus dem Beamtenverhaeltnis bei schwerer Verfehlung.
 - **Berufsverbot Paragraph 70 StGB** bei wiederholten Vergehen.
-- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
+- BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
 
 ## Mustertexte
 
-**Schriftsatz-Snippet (Verteidigung Polizeibeamter — Verhaeltnismaessigkeit):** "Mein Mandant ist nach Paragraph 19 PolG NRW befugt gewesen, koerperliche Gewalt anzuwenden, um den Festnahmeauftrag durchzusetzen. Der Beschuldigte hat sich der Festnahme aktiv mit Schlaegen und Tritten widersetzt. Der Einsatz des Schlagstocks war zur Abwehr dieses Angriffs erforderlich und verhaeltnismaessig. Die Rechtfertigung nach Paragraph 32 StGB liegt vor."
+**Schriftsatz-Snippet (Verteidigung Polizeibeamter — Verhältnismäßigkeit):** "Mein Mandant ist nach Paragraph 19 PolG NRW befugt gewesen, koerperliche Gewalt anzuwenden, um den Festnahmeauftrag durchzusetzen. Der Beschuldigte hat sich der Festnahme aktiv mit Schlaegen und Tritten widersetzt. Der Einsatz des Schlagstocks war zur Abwehr dieses Angriffs erforderlich und verhaeltnismaessig. Die Rechtfertigung nach Paragraph 32 StGB liegt vor."
 
 **Schriftsatz-Snippet (Verteidigung Geschaedigter — Unverhaeltnismaessigkeit):** "Die polizeiliche Gewaltanwendung am DD.MM.JJJJ war zur Festnahme meines Mandanten nicht erforderlich. Mein Mandant hat zu keiner Zeit Widerstand geleistet, wie auch die Bodycam-Aufnahme der Kollegin Y zeigt (Anlage V 1). Der Schlag in den Bauchbereich war unverhaeltnismaessig und damit von Paragraph 340 StGB erfasst."
 
@@ -104,5 +104,5 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 - Paragraph 32 StGB Notwehr; Paragraph 34 StGB Notstand.
 - Paragraph 33 BeamtStG Disziplinarrecht.
 - BGH staendige Rspr. zur Abgrenzung zwischen rechtmäßiger Amtsausuebung und Koerperverletzung im Amt.
-- BVerfG-Rechtsprechung zur Polizeigewalt und Verhaeltnismaessigkeit (Art 2 II GG).
+- BVerfG-Rechtsprechung zur Polizeigewalt und Verhältnismäßigkeit (Art 2 II GG).
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.

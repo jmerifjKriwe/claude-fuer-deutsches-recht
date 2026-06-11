@@ -66,8 +66,8 @@ Prüfen, ob überhaupt ein Transfer i.S.d. Kapitel V DSGVO vorliegt:
 
 - Liegt für das Empfängerland ein gültiger Angemessenheitsbeschluss der Kommission vor? (Tabelle oben)
 - **USA:** Ist der Empfänger auf der DPF-Liste eingetragen und für die relevanten Datenkategorien zertifiziert? (data.privacyframework.gov)
-- Wenn Angemessenheitsbeschluss vorhanden: Transfer grundsaetzlich zulässig; Art. 13/14 DSGVO-Hinweispflicht beachten
-- **Hinweis:** Angemessenheitsbeschlüsse koennen durch den EuGH für ungültig erklärt werden (vgl. Schrems I und II); bei politisch sensiblen Ländern Monitoring empfehlen
+- Wenn Angemessenheitsbeschluss vorhanden: Transfer grundsätzlich zulässig; Art. 13/14 DSGVO-Hinweispflicht beachten
+- **Hinweis:** Angemessenheitsbeschlüsse können durch den EuGH für ungültig erklärt werden (vgl. Schrems I und II); bei politisch sensiblen Ländern Monitoring empfehlen
 
 ### 3. Geeignete Garantien (Art. 46 DSGVO) – falls kein Angemessenheitsbeschluss
 
@@ -109,7 +109,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### 5. Ergänzende Maßnahmen (EDSA-Empfehlungen 01/2020)
 
-Bei unzureichendem Schutzniveau im Empfängerland koennen ergänzende Maßnahmen die Schutzlücke schließen:
+Bei unzureichendem Schutzniveau im Empfängerland können ergänzende Maßnahmen die Schutzlücke schließen:
 
 **Technische Maßnahmen:**
 - Ende-zu-Ende-Verschlüsselung mit Schlüsselhoheit beim Verantwortlichen in der EU (Schlüsselmanagement-Standort entscheidend)
@@ -130,12 +130,12 @@ Bei unzureichendem Schutzniveau im Empfängerland koennen ergänzende Maßnahmen
 - Verarbeitungsverzeichnis (Art. 30 DSGVO): Transfer, Empfängerland, Mechanismus, TIA vermerken
 - Datenschutzerklärung (Art. 13 Abs. 1 lit. f DSGVO): Drittlandtransfer, Mechanismus und ggf. Kopienangebot der SCC erwaehnen
 - AVV (Art. 28 Abs. 3 DSGVO): Sub-AV-Kette mit Drittlandsangaben; TIA als Anlage
-- TIA als internes Dokument archivieren und bei Anfragen der Aufsichtsbehörde vorlegen koennen
+- TIA als internes Dokument archivieren und bei Anfragen der Aufsichtsbehörde vorlegen können
 
 ## Pruefschema TIA (Checkliste)
 
 - [ ] **Lokale Massengesetze:** Erlauben Gesetze des Empfängerlandes Massensammlung (z.B. FISA 702, EO 12333 für USA; Geheimdienstgesetze CN, RU)?
-- [ ] **Behördenzugriff auf Daten:** Koennen Behörden ohne richterliche Kontrolle auf Daten zugreifen? Wie haeufig werden solche Befugnisse genutzt (Transparenzberichte)?
+- [ ] **Behördenzugriff auf Daten:** Können Behörden ohne richterliche Kontrolle auf Daten zugreifen? Wie haeufig werden solche Befugnisse genutzt (Transparenzberichte)?
 - [ ] **Verschlüsselung at rest:** Sind Daten beim Empfänger verschlüsselt gespeichert? Wer hat Zugriff auf Schlüssel?
 - [ ] **Verschlüsselung in transit:** Wird TLS/mTLS verwendet? Zertifikate kontrolliert?
 - [ ] **Schlüsselmanagement-Standort:** Befinden sich Schlüssel und HSMs in der EU? Oder Schlüsselhoheit beim Empfänger im Drittland?
@@ -213,13 +213,13 @@ Wer ist Exporteur?
 
 ## Risiken und typische Fehler
 
-- **DPF-Prüfung vergessen:** DPF-Zertifizierung ist nicht permanent; Unternehmen koennen ihre Zertifizierung verlieren. Vor jedem Transfer auf data.privacyframework.gov prüfen und erneut prüfen bei Vertragserneuerung.
+- **DPF-Prüfung vergessen:** DPF-Zertifizierung ist nicht permanent; Unternehmen können ihre Zertifizierung verlieren. Vor jedem Transfer auf data.privacyframework.gov prüfen und erneut prüfen bei Vertragserneuerung.
 - **Falsches SCC-Modul:** Ein Verantwortlicher, der SCC-Modul 3 (AV-zu-AV) verwendet, obwohl er selbst Verantwortlicher ist, erzeugt keine schutzwirkende Grundlage. Konstellation vor Unterzeichnung zwingend prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Art. 49 DSGVO als Regelfall:** Die Ausnahmen des Art. 49 DSGVO sind auf Einzelfälle beschraenkt; systematische und regelmäßige Transfers auf dieser Basis sind nicht zulaessig (EDSA-Leitlinien 2/2018).
+- **Art. 49 DSGVO als Regelfall:** Die Ausnahmen des Art. 49 DSGVO sind auf Einzelfälle beschraenkt; systematische und regelmäßige Transfers auf dieser Basis sind nicht zulässig (EDSA-Leitlinien 2/2018).
 - **Sub-Processor-Kette übersehen:** SCC Modul 2/3 legt dem Importeur Pflichten für Sub-Auftragsverarbeiter auf; deren Drittlandstatus muss ebenfalls abgesichert sein (Art. 28 Abs. 4 DSGVO).
 - **Schlüsselhoheit nicht geprüft:** Verschlüsselung schuetzt nur dann, wenn Schlüssel nicht im Drittland liegen. Cloud-Dienste mit US-Schlüsselmanagement bieten keinen vollständigen Schutz gegen FISA 702-Zugriffe.
-- **Angemessenheitsbeschluss validitaet nicht geprüft:** Nach Schrems I und II koennen Angemessenheitsbeschlüsse wegfallen. Monitoring-Pflicht für sensible Verarbeitungen.
+- **Angemessenheitsbeschluss validitaet nicht geprüft:** Nach Schrems I und II können Angemessenheitsbeschlüsse wegfallen. Monitoring-Pflicht für sensible Verarbeitungen.
 
 ## Quellen und Updates
 
@@ -236,11 +236,11 @@ Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 ## Faktische Updates (Stand 05/2026)
 
 - **EU-US Data Privacy Framework (DPF):** Der Angemessenheitsbeschluss vom 10.07.2023 (C(2023) 4745 final) ist weiterhin in Kraft. Erstmalige periodische Ueberpruefung durch die Kommission war für 07/2024 vorgesehen; weitere Reviews alle vier Jahre. **Achtung:** politische Risiken (Schrems-III-Vorlage, US-Executive-Order-Modifikationen) machen Monitoring zwingend. Quelle: eur-lex.europa.eu, commission.europa.eu/law/law-topic/data-protection.
-- **DPF-Listing:** Empfaenger-Status muss vor jeder Uebermittlung ueber dataprivacyframework.gov (offizielle US-Website) verifiziert werden; Selbst-Zertifizierungs-Status kann jederzeit verloren gehen.
-- **UK-Angemessenheitsbeschluss (2021/1772):** Gilt nach urspruenglichen vier Jahren Befristung; Verlaengerung war erforderlich — aktuellen Status der Verlaengerung / Ueberpruefung live pruefen.
-- **EDSA-Guidelines:** Empfehlungen 01/2020 (Sechs-Stufen-TIA), Guidelines 05/2021 (Wechselwirkung Art. 3 und Kapitel V) sowie aktuelle EDSA-Stellungnahmen 2025 zu Drittlandtransfer-Risiken (insb. China PIPL, US-Executive-Orders) live ueber edpb.europa.eu pruefen.
-- **NIS-2 + Drittlandtransfer:** Auftraggeber wichtiger / besonders wichtiger Einrichtungen muessen Cyber-Risiken in der Lieferkette (Art. 21 NIS-2-RL i.V.m. § 30 BSIG n.F.) bei Drittland-Cloud-Diensten zusaetzlich beruecksichtigen; Schnittstelle zu TIA dokumentieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber curia.europa.eu (EuGH) verifizieren.
+- **DPF-Listing:** Empfaenger-Status muss vor jeder Uebermittlung über dataprivacyframework.gov (offizielle US-Website) verifiziert werden; Selbst-Zertifizierungs-Status kann jederzeit verloren gehen.
+- **UK-Angemessenheitsbeschluss (2021/1772):** Gilt nach urspruenglichen vier Jahren Befristung; Verlaengerung war erforderlich — aktuellen Status der Verlaengerung / Ueberpruefung live prüfen.
+- **EDSA-Guidelines:** Empfehlungen 01/2020 (Sechs-Stufen-TIA), Guidelines 05/2021 (Wechselwirkung Art. 3 und Kapitel V) sowie aktuelle EDSA-Stellungnahmen 2025 zu Drittlandtransfer-Risiken (insb. China PIPL, US-Executive-Orders) live über edpb.europa.eu prüfen.
+- **NIS-2 + Drittlandtransfer:** Auftraggeber wichtiger / besonders wichtiger Einrichtungen müssen Cyber-Risiken in der Lieferkette (Art. 21 NIS-2-RL i.V.m. § 30 BSIG n.F.) bei Drittland-Cloud-Diensten zusaetzlich beruecksichtigen; Schnittstelle zu TIA dokumentieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über curia.europa.eu (EuGH) verifizieren.
 
 ## Leitrechtsprechung
 

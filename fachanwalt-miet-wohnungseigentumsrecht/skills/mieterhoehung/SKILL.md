@@ -67,7 +67,7 @@ Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klä
 
 - **§§ 556d–556g BGB** — Mietpreisbremse: bei Neuvermietung in Gebieten mit angespanntem Wohnungsmarkt max. 10 % über ortsüblicher Vergleichsmiete (§ 556d Abs. 1 BGB).
 - **§ 556g BGB** — Rüge-Verfahren: Vermieter muss nach qualifizierter Rüge des Mieters zuviel gezahlte Miete zurückzahlen; Ausnahmen (Neubau, Modernisierung, Vormiete über Vergleichsmiete).
-- **Verlaengerung bis 31.12.2029** durch das Gesetz zur Aenderung der Regelungen ueber die zulaessige Miethoehe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025): § 556d Abs. 2 Satz 4 BGB nennt jetzt das Jahr 2029; Landesverordnungen koennen ueber den 31.12.2025 hinaus erlassen werden. Bundestags-Drs. 21/17 (Entwurf): https://dserver.bundestag.de/btd/21/000/2100017.pdf
+- **Verlaengerung bis 31.12.2029** durch das Gesetz zur Aenderung der Regelungen über die zulaessige Miethoehe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025): § 556d Abs. 2 Satz 4 BGB nennt jetzt das Jahr 2029; Landesverordnungen können über den 31.12.2025 hinaus erlassen werden. Bundestags-Drs. 21/17 (Entwurf): https://dserver.bundestag.de/btd/21/000/2100017.pdf
 - **BVerfG, Beschl. v. 08.01.2026 – 1 BvR 183/25** (Kammerbeschluss): Verfassungsbeschwerde gegen die Verlaengerung der Mietpreisbremse erfolglos. Quelle: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rk20260108_1bvr018325.html
 
 ### BGH-Rechtsprechung (verifizierte Eckpunkte, Stand 05/2026)
@@ -95,14 +95,14 @@ Belegt über bundesgerichtshof.de bzw. dejure.org:
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Mieterhoeung nach Mietspiegel/Vergleichsmiete | Mieterhoeungsverlangen; Template unten |
 | Variante A — Mieter verweigert Zustimmung | Zustimmungsklage nach 2 Monaten §§ 558 ff. BGB |
 | Variante B — Modernisierungsumlage statt Vergleichsmiete | §§ 559 ff. BGB Ankuendigungsschreiben; andere Berechnung |
-| Variante C — Mietpreisbremse greift | § 556d BGB Hoechstgrenze pruefen; Ortsgruppenzugehoerigkeit klaren |
+| Variante C — Mietpreisbremse greift | § 556d BGB Hoechstgrenze prüfen; Ortsgruppenzugehoerigkeit klaren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -173,7 +173,7 @@ Monats kündigen.
 [Unterschrift]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

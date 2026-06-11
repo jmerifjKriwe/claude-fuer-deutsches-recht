@@ -3,7 +3,7 @@ name: vollstreckungsrecht-personal-und-vermoegen
 description: "Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermoegensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quelle"
 ---
 
-# Rom 110 Vollstreckungsrecht Personal Und Vermoegen
+# Rom 110 Vollstreckungsrecht Personal Und Vermögen
 
 ## Arbeitsweg
 
@@ -18,21 +18,21 @@ description: "Personalexekution und Vermoegensexekution im roemischen Recht. Ski
 ### Manus iniectio (XII Tafeln)
 - Aelteste Form der Personalvollstreckung.
 - XII Tafeln III: nach urteilsmäßiger Feststellung des Anspruchs durfte der Glaeubiger den Schuldner nach 30 Tagen Frist physisch ergreifen ("manum inicere").
-- Schuldner konnte ueber den Tiber verkauft werden (trans Tiberim) oder getoetet werden — letzteres in der Praxis selten.
+- Schuldner konnte über den Tiber verkauft werden (trans Tiberim) oder getoetet werden — letzteres in der Praxis selten.
 
 ### Nexum (5. bis 3. Jh. v. Chr.)
 - Schuldknechtschaft als Sicherungsgeschaeft mit eigenem Akt (per aes et libram).
 - Lex Poetelia Papiria de nexis (326 v. Chr. oder 313 v. Chr.; Datum vor Zitat verifizieren) hob das nexum als Personalvollstreckung weitgehend auf — Wende zur Vermoegensvollstreckung.
 
 ### Praetorische Vermoegensvollstreckung
-- Missio in bona: Einweisung des Glaeubigers in das Vermoegen.
+- Missio in bona: Einweisung des Glaeubigers in das Vermögen.
 - Bonorum venditio: Versteigerung des Gesamtvermoegens.
-- Bonorum distractio: spaeter Einzelvermoegensverwertung.
+- Bonorum distractio: später Einzelvermoegensverwertung.
 
 ## Verhaeltnis zu modernen Begriffen
 
 - Heutige Personalvollstreckung beschraenkt auf Beugehaft zur Erzwingung unvertretbarer Handlungen (§ 888 ZPO) und Ordnungshaft bei Unterlassungsverstoss (§ 890 ZPO). § 901 ZPO regelt heute die Pfaendungsschutz-Konto-Themen, nicht mehr die Erzwingungshaft.
-- Vermoegensvollstreckung ueber ZPO Buch 8.
+- Vermoegensvollstreckung über ZPO Buch 8.
 - Insolvenzverfahren als Universalexekution geht zurueck auf bonorum venditio.
 
 ## Pruefraster

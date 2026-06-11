@@ -40,7 +40,7 @@ Skill für Mandanten, die im beamtenrechtlichen Auswahlverfahren wegen eines Mer
 
 ### c) Beweislast
 - § 22 AGG: Indizienbeweis genuegt; der Dienstherr muss bei Indizien beweisen, dass kein Verstoss vorlag.
-- Indizien koennen sein: diskriminierende Formulierungen in Stellenausschreibung, statistische Schieflage, Aeusserungen im Auswahlgespraech.
+- Indizien können sein: diskriminierende Formulierungen in Stellenausschreibung, statistische Schieflage, Aeusserungen im Auswahlgespraech.
 
 ### d) Frist
 - Geltendmachung der AGG-Entschaedigung innerhalb von zwei Monaten ab Kenntnis der Benachteiligung (§ 15 Abs. 4 AGG).

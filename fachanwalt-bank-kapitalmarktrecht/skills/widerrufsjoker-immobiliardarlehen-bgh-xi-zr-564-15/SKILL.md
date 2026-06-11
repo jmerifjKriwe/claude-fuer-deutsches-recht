@@ -32,7 +32,7 @@ Darlehensvertrag von 2012 hat fehlerhafte Widerrufsbelehrung; Verbraucher widerr
 
 ## Arbeitsergebnis
 
-Belehrung Wort fuer Wort pruefen; Verwirkung erst bei besonderen Umstaenden.
+Belehrung Wort für Wort prüfen; Verwirkung erst bei besonderen Umstaenden.
 
 ## Belege und Aktenlücken
 

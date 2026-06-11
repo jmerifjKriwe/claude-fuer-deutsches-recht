@@ -3,7 +3,7 @@ name: saas-verbraucher-beschwerde-schre
 description: "Prüfer: SaaS für Verbraucher: AGB redlinen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Saas Fuer Verbraucher Agb Redlinen
+# Saas Für Verbraucher Agb Redlinen
 
 ## Arbeitsweg
 

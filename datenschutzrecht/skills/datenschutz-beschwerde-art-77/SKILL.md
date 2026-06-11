@@ -15,18 +15,18 @@ Sieben-Fragen-Diagnose:
 2. **Zustaendige Aufsichtsbehoerde:** BfDI nach § 13 BDSG (Telekommunikation, Post, Bundesbehoerden) oder Landesaufsicht nach § 40 BDSG (privater Bereich, Landesbehoerden)? Federfuehrende Behörde nach Art. 56 DSGVO?
 3. **Sachverhalt:** Welche konkrete Verarbeitung mit welchem Anbieter, welches Datum?
 4. **Norm:** Welche DSGVO-Norm konkret verletzt — nicht pauschal "DSGVO".
-5. **Beweise:** Mailverkehr, Antworten auf Art. 15 Auskunftsersuchen, Screenshots, Vertraege?
-6. **Mandatsziel:** Aufsichtliche Massnahme, Bussgeldverfahren, Schadensersatzanspruch vorbereiten?
+5. **Beweise:** Mailverkehr, Antworten auf Art. 15 Auskunftsersuchen, Screenshots, Verträge?
+6. **Mandatsziel:** Aufsichtliche Maßnahme, Bussgeldverfahren, Schadensersatzanspruch vorbereiten?
 7. **Vorverfahren:** Hat der Mandant zuvor direkt beim Verantwortlichen interveniert (nicht zwingend, aber haeufig erwartet)?
 
 ## Rechtlicher Rahmen
 
 - **Art. 77 I DSGVO** Recht auf Beschwerde bei jeder Aufsichtsbehoerde, insbesondere im Mitgliedstaat des Aufenthalts, des Arbeitsplatzes oder des mutmasslichen Verstosses.
-- **Art. 77 II DSGVO** Behörde unterrichtet Beschwerdefuehrer ueber Verlauf, Ergebnis und gerichtliche Rechtsbehelfe.
+- **Art. 77 II DSGVO** Behörde unterrichtet Beschwerdefuehrer über Verlauf, Ergebnis und gerichtliche Rechtsbehelfe.
 - **Art. 78 DSGVO** Wirksamer gerichtlicher Rechtsbehelf gegen Aufsichtsbehoerde — auch bei Untaetigkeit nach drei Monaten.
 - **Art. 80 I DSGVO** Vertretung durch Einrichtungen, Organisationen, Vereinigungen.
 - **Art. 56 DSGVO** federfuehrende Behörde bei grenzueberschreitender Verarbeitung.
-- **EuGH C-26/22 SCHUFA** (Urteil 07.12.2023, in Verbindung mit C-634/21 und C-26/22): Entscheidungen ueber Beschwerden sind gerichtlich voll ueberpruefbar; Aufsicht hat Ermessen, aber kein freies Belieben.
+- **EuGH C-26/22 SCHUFA** (Urteil 07.12.2023, in Verbindung mit C-634/21 und C-26/22): Entscheidungen über Beschwerden sind gerichtlich voll ueberpruefbar; Aufsicht hat Ermessen, aber kein freies Belieben.
 - **§ 13 BDSG** BfDI.
 - **§ 40 BDSG** Aufsichtsbehoerden der Länder.
 - **VwGO § 113 V** Verpflichtungsklage / Untaetigkeitsklage.
@@ -84,7 +84,7 @@ Sieben-Fragen-Diagnose:
 > Anlage 2: [Screenshots, Mailverkehr]
 >
 > VI. Antrag
-> Wir bitten die Aufsichtsbehoerde um Aufnahme der Beschwerde, Pruefung des Sachverhalts und Mitteilung des Verfahrensstands gemaess Art. 77 Abs. 2 DSGVO. Hilfsweise: Erlass einer Anordnung nach Art. 58 Abs. 2 DSGVO.
+> Wir bitten die Aufsichtsbehoerde um Aufnahme der Beschwerde, Prüfung des Sachverhalts und Mitteilung des Verfahrensstands gemäß Art. 77 Abs. 2 DSGVO. Hilfsweise: Erlass einer Anordnung nach Art. 58 Abs. 2 DSGVO.
 >
 > [Datum, Unterschrift, ggf. anwaltliche Vertretung]
 
@@ -101,7 +101,7 @@ Sieben-Fragen-Diagnose:
 
 > Sehr geehrte Damen und Herren,
 >
-> seit Einreichung der Beschwerde nach Art. 77 DSGVO vom [Datum] ist nunmehr ueber drei Monate ohne Verfahrensentscheidung vergangen. Wir bitten um Mitteilung des Verfahrensstands gemaess Art. 77 Abs. 2 DSGVO. Sollten wir bis zum [Datum] keine Antwort erhalten, behalten wir uns die Klage nach Art. 78 DSGVO vor.
+> seit Einreichung der Beschwerde nach Art. 77 DSGVO vom [Datum] ist nunmehr über drei Monate ohne Verfahrensentscheidung vergangen. Wir bitten um Mitteilung des Verfahrensstands gemäß Art. 77 Abs. 2 DSGVO. Sollten wir bis zum [Datum] keine Antwort erhalten, behalten wir uns die Klage nach Art. 78 DSGVO vor.
 
 ## Typische Fehler
 

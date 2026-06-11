@@ -30,7 +30,7 @@ Ein rechtshistorisches Seminar oder Referat braucht andere Kompetenzen als ein d
 - **Eike von Repgow**: Sachsenspiegel-Verfasser, zentrale Person in Sachsenspiegel-Seminaren
 - **Bernhard Windscheid** (1817-1892): Pandektist, Brucke zwischen Roemischem Recht und BGB
 - **Hugo Preuß** (1860-1925): WRV-Architekt
-- **Ernst Fraenkel** (1898-1975): Doppelstaat (1941), Schluessel zum Verstaendnis des NS-Rechts
+- **Ernst Fraenkel** (1898-1975): Doppelstaat (1941), Schlüssel zum Verstaendnis des NS-Rechts
 
 ## Typische Streitfragen / Forschungsfragen
 

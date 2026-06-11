@@ -17,12 +17,12 @@ description: "Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwort
 
 - Verkauf EXW ab Werk: Auslaendischer Kaeufer holt Ware ab; Dual-Use-Exportkontrolle beim Verkaeufer oder Kaeufer?
 - DDP-Lieferung nach USA: deutsches Unternehmen als Importeur-of-Record; ITAR-Exponierung.
-- CFR-Lieferung nach Russland: Frachtfuehrer bucht Umweg ueber Tuerkei; Verantwortungsabgrenzung.
+- CFR-Lieferung nach Russland: Frachtfuehrer bucht Umweg über Tuerkei; Verantwortungsabgrenzung.
 
 ## Erste Schritte
 
 1. Incoterms-Klausel im Vertrag identifizieren und exportkontrollrechtliche Implikation analysieren.
-2. Ausfuehrer nach UZK bestimmen: Wer ist Eigentuemer zum Ausfuhrmoment?
+2. Ausfuehrer nach UZK bestimmen: Wer ist Eigentümer zum Ausfuhrmoment?
 3. EXW: Klarstellen ob EXW-Verkaeufer dennoch Exportkontrollpruefung durchfuehren muss.
 4. DDP: US-ITAR/EAR-Importeur-of-Record-Funktion und Sanktionsrisiko bewerten.
 5. Genehmigungspflicht dem Ausfuehrer zuordnen; Vertragsklausel anpassen wenn noetig.
@@ -40,7 +40,7 @@ description: "Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwort
 
 - [ ] Incoterms-Klausel und Eigentuemeruebergang im Vertrag bestimmt?
 - [ ] Ausfuehrer nach UZK und AWV unabhaengig von Incoterms ermittelt?
-- [ ] EXW: Vereinbarung mit auslaendischem Kaeufer ueber Exportkontrollverantwortung?
+- [ ] EXW: Vereinbarung mit auslaendischem Kaeufer über Exportkontrollverantwortung?
 - [ ] DDP: US-ITAR/EAR-Pflichten und Importeur-of-Record-Risiko geprueft?
 - [ ] Genehmigungsinhaber und Ausfuehrer konsistent?
 - [ ] Vertragsklausel an Exportkontrollverantwortung angepasst?

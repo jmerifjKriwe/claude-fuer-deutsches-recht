@@ -36,7 +36,7 @@ description: "PrALR: Strafvollzug, Freiheitsstrafe, Leibesstrafen, Abschreckung 
 
 ### Subsumtionsbeispiel: Schwere Diebstahlstat 1820
 Sachverhalt: Wiederholter Diebstahl mit Einbruch.
-ALR-Loesung: ALR II 20 — Zuchthaus 5-10 Jahre; spaeter ergaenzend Pranger für Wiederholungstaeter (formell bis 1851).
+ALR-Loesung: ALR II 20 — Zuchthaus 5-10 Jahre; später ergaenzend Pranger für Wiederholungstaeter (formell bis 1851).
 
 ### Heutige Fortwirkung
 - Reichsstrafgesetzbuch 1871 abolierte die Schandstrafen.

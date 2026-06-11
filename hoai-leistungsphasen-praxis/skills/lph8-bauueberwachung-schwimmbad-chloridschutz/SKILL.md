@@ -16,7 +16,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Hallenbaeder und Freibaeder m
 ## Spezialwissen
 
 Hallenbaeeder sind wegen der chloridhaltigen Atmosphaere besonders korrosionsschaedigend für Stahl- und Betonkonstruktionen.
-Die Bauueberwachung nach HOAI LPH 8 prueft chloridbestaendigen Beton, Beckenbeschichtung und Filtranlageninstallation.
+Die Bauueberwachung nach HOAI LPH 8 prüft chloridbestaendigen Beton, Beckenbeschichtung und Filtranlageninstallation.
 Lueftungsanlage im Hallenbad muss spezifisch auf Chloramin-Abfuhr und Korrosionsschutz der Kanaele ausgelegt sein.
 
 ## Bauwerk und Auftrag
@@ -29,7 +29,7 @@ Lueftungsanlage im Hallenbad muss spezifisch auf Chloramin-Abfuhr und Korrosions
 
 1. Betonguete Becken: C30/37 XA3 (chemisch angreifendes Wasser), Chlorideindringwiderstand kleiner 0.4 mm-2h0.5
 2. Beckenbeschichtung: Untergrundvorbereitung SA 2.5, Epoxidharz Beschichtung 3-lagig nach Herstellervorgabe
-3. Filteranlage: Druckbehaelter-Abnahme nach PED, Sandfilterinstallation, Pruefung Rueckspuelanlage
+3. Filteranlage: Druckbehaelter-Abnahme nach PED, Sandfilterinstallation, Prüfung Rueckspuelanlage
 4. Lueftungsanlage Chloraminabfuhr: Luftwechselzahl 6-10 h-1, Chloramin-Messung nach Inbetriebnahme
 5. Stahltragwerk Korrosionsschutz: Beschichtungssystem C5-M nach DIN EN ISO 12944, Trockenschichtdickenmessung
 6. Wasseraufbereitungsanlage: Chlordosieranlage, pH-Regelung 7.2-7.6, Redox-Messung nach DIN EN 14543

@@ -3,7 +3,7 @@ name: bho-90-inhalt-pruefung-praktisch-anwen
 description: "Haushaltsrecht BHO Bund und Länder: BHO § 90 Inhalt Prüfung praktisch anwenden. BHO § 90 Inhalt Prüfung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret..."
 ---
 
-# Bho 90 Inhalt Pruefung Praktisch Anwen
+# Bho 90 Inhalt Prüfung Praktisch Anwen
 
 ## Arbeitsweg
 

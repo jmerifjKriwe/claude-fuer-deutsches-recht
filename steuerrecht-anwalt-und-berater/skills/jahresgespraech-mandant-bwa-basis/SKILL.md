@@ -110,7 +110,7 @@ Dauer: 2-3 Stunden
 ### Phase 5 — Dokumentation (1 Woche)
 
 - Detailliertes Protokoll.
-- Strategiepapier mit Folgejahr-Massnahmen.
+- Strategiepapier mit Folgejahr-Maßnahmen.
 - Wiedervorlage.
 
 ### Phase 6 — Nachfolge

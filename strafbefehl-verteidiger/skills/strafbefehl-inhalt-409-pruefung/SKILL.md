@@ -3,7 +3,7 @@ name: strafbefehl-inhalt-409-pruefung
 description: "Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgründe. Tatbeschreibung Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG. Fehlerhafte Rechtsfolgen Geldstrafe Tagessatz Fahrverbot. Strafbefehlsinhalt-Checkliste im Strafbefehl Verteidiger."
 ---
 
-# Strafbefehlsinhalt pruefen — § 409 StPO
+# Strafbefehlsinhalt prüfen — § 409 StPO
 
 ## Arbeitsbereich
 
@@ -19,7 +19,7 @@ Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und ide
 
 ## Triage zu Beginn — vor der Inhaltspruefung
 
-1. **Liegt der Strafbefehl im Original vor?** — Abschrift reicht für die Pruefung, Original für Fristberechnung.
+1. **Liegt der Strafbefehl im Original vor?** — Abschrift reicht für die Prüfung, Original für Fristberechnung.
 2. **Welches Delikt ist aufgefuehrt?** — § 409 Abs. 1 Nr. 3 StPO verlangt Angabe der gesetzlichen Merkmale und des angewandten Strafgesetzes.
 3. **Sind Tatzeit und Tatort konkret benannt?** — Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG; eine pauschale Datumsangabe ("in 2022 mehrfach") kann die Tat unzureichend individualisieren.
 4. **Stimmt die Rechtsfolge mit dem Sanktionskatalog des § 407 Abs. 2 StPO ueberein?** — Nur zulässige Sanktionen: Geldstrafe, Freiheitsstrafe bis 1 Jahr auf Bewaehrung, Fahrverbot, Einziehung, Nebenfolgen.
@@ -29,13 +29,13 @@ Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und ide
 
 | Nr. | Inhaltsmerkmal | Pruefungsaspekt |
 |-----|---------------|-----------------|
-| 1 | Name des Beschuldigten | Identifikation — Verwechslung moeglich? |
+| 1 | Name des Beschuldigten | Identifikation — Verwechslung möglich? |
 | 2 | Tat, Zeit und Ort | Ausreichende Individualisierung nach BGH |
 | 3 | Gesetzliche Merkmale der Tat | Normen vollstaendig genannt? |
 | 4 | Beweismittel | Mindestens schlagwortartig |
 | 5 | Strafgesetz (angewandte Norm) | § § explizit genannt |
-| 6 | Rechtsfolge konkret benannt | Geldstrafe: Tagessatzanzahl + -hoehe |
-| 7 | Belehrung ueber Einspruchsrecht und -frist | § 409 Abs. 1 Nr. 7; Fehlen = anfechtbar |
+| 6 | Rechtsfolge konkret benannt | Geldstrafe: Tagessatzanzahl + -höhe |
+| 7 | Belehrung über Einspruchsrecht und -frist | § 409 Abs. 1 Nr. 7; Fehlen = anfechtbar |
 
 ## Aktuelle Rechtsprechung
 
@@ -49,7 +49,7 @@ Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und ide
 - **§ 409 StPO** — Pflichtinhalt; Fehlen wesentlicher Elemente = Nichtigkeit oder Anfechtbarkeit
 - **§ 410 StPO** — Einspruch 2-Wochen-Frist
 - **Art. 103 Abs. 2 GG** — Bestimmtheitsgrundsatz
-- **§ 40 StGB** — Tagessatz-System (Anzahl nach Schuld, Hoehe nach Einkommen)
+- **§ 40 StGB** — Tagessatz-System (Anzahl nach Schuld, Höhe nach Einkommen)
 
 ## Pruef-Checkliste Strafbefehlsinhalt
 
@@ -87,9 +87,9 @@ Fehler im Strafbefehl gefunden?
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Strafbefehl-Kopie anlegen** — Original sicher verwahren, Kopie für Pruefung.
+1. **Strafbefehl-Kopie anlegen** — Original sicher verwahren, Kopie für Prüfung.
 2. **Checkliste § 409 StPO Punkt für Punkt abarbeiten** — jeden Mangel notieren.
-3. **Tagessatz-Plausibilitaet pruefen:** Anzahl Tagessaetze angemessen? Tagessatzhoehe korrekt berechnet nach § 40 Abs. 2 StGB (Nettoeinkommen / 30)?
+3. **Tagessatz-Plausibilitaet prüfen:** Anzahl Tagessaetze angemessen? Tagessatzhoehe korrekt berechnet nach § 40 Abs. 2 StGB (Nettoeinkommen / 30)?
 4. **Wenn Fehler: Rechtsstrategie waehlen** (s. Entscheidungsbaum).
 5. **Einspruch formulieren und fristgerecht einlegen** (§ 410 Abs. 1 StPO — 2-Wochen-Frist!).
 6. **In Aktenanforderung auf spezifische Maengel hinweisen** — Staatsanwaltschaft ggf. auf Fehler aufmerksam machen für § 153a-Gespraeche.
@@ -101,6 +101,6 @@ Mandantenhinweis: verstaendlich-erklaerend, Fachbegriffe erklaeren.
 
 ## Harte Leitplanken
 
-- Nichtigkeit des Strafbefehls fuehrt nicht automatisch zum Freispruch — Anklageerhebung moeglich.
+- Nichtigkeit des Strafbefehls fuehrt nicht automatisch zum Freispruch — Anklageerhebung möglich.
 - Einspruch immer fristgerecht einlegen, unabhaengig von Fehlerruegen.
 - Anwaltliche Endkontrolle vor Versand.

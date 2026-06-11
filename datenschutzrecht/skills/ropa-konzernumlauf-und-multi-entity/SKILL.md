@@ -12,7 +12,7 @@ description: "Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-En
 - Intercompany Data Transfer Agreements (IDTA, hier deutscher Begriff: konzerninterne Datentransfer-Vereinbarung).
 - Binding Corporate Rules (BCR) im Aufbau.
 - M&A-Due-Diligence (Datenschutz-DD).
-- Pruefung durch Aufsichtsbehoerde mit Bezug zu mehreren Konzernunternehmen.
+- Prüfung durch Aufsichtsbehoerde mit Bezug zu mehreren Konzernunternehmen.
 
 ## Rechtlicher Rahmen
 
@@ -22,11 +22,11 @@ Die DSGVO kennt **kein Konzernprivileg** (Erwaegungsgrund 48 erlaubt nur ein **b
 
 ### Rollenverteilung
 
-- **Verantwortlicher (Art. 4 Nr. 7 DSGVO):** entscheidet ueber Zwecke und Mittel.
+- **Verantwortlicher (Art. 4 Nr. 7 DSGVO):** entscheidet über Zwecke und Mittel.
 - **Gemeinsam Verantwortliche (Art. 26 DSGVO):** gemeinsame Festlegung; Joint-Controllership-Vereinbarung erforderlich.
 - **Auftragsverarbeiter (Art. 28 DSGVO):** im Auftrag, weisungsgebunden; AVV erforderlich.
 
-Konzerninterne Shared-Service-Center sind typischerweise Auftragsverarbeiter (z. B. IT-Service-GmbH). HR-Daten an Mutter zur Karriereplanung koennen Joint-Controllership begruenden.
+Konzerninterne Shared-Service-Center sind typischerweise Auftragsverarbeiter (z. B. IT-Service-GmbH). HR-Daten an Mutter zur Karriereplanung können Joint-Controllership begruenden.
 
 ### Drittlandtransfer im Konzern
 
@@ -46,7 +46,7 @@ EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR 
 2. **Rollen-Mapping:** Wer ist für welchen Datenfluss Controller, Joint Controller oder Processor?
 3. **Master-RoPA:** zentrales Dokument für gruppenuebergreifende Prozesse (Konzern-HR, Konzern-CRM, Konzern-Compliance).
 4. **Entity-Anhaenge:** pro Gesellschaft eigene Tabelle mit Spezifika.
-5. **Intercompany-Vertraege:** AVV oder Joint-Controllership-Vereinbarung verlinken.
+5. **Intercompany-Verträge:** AVV oder Joint-Controllership-Vereinbarung verlinken.
 6. **BCR-Status:** wenn vorhanden, in jedem Entity-RoPA als Garantie referenzieren; sonst SCC.
 7. **Pflegemodell:** zentraler Datenschutzkoordinator oder dezentrale DSB?
 

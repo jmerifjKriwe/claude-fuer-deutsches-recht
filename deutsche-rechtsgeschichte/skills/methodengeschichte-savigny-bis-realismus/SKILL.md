@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Die juristische Methode ist selbst historisch. Savignys vier Auslegungskanons (grammatisch, systematisch, historisch, teleologisch, System des heutigen Roemischen Rechts Bd. I, 1840) sind noch heute Lehre. Jhering wandelte von der historischen Schule zur Interessenjurisprudenz (Zweck im Recht, 1877-84). Die Freirechtsschule (Ernst Fuchs, Eugen Ehrlich, Herrmann Kantorowicz, ca. 1900-1920) forderte freie richterliche Rechtsfindung jenseits des Gesetzes. Die Wertungsjurisprudenz des 20. Jh. (Karl Larenz) integrierte teleologische und systematische Elemente. Der amerikanische Rechtsrealismus (Holmes, Llewellyn) beeinflusste deutsches Denken kaum direkt, aber die soziologische Rechtsschule (Ehrlich) war europaeisches Aequivalent.
+Die juristische Methode ist selbst historisch. Savignys vier Auslegungskanons (grammatisch, systematisch, historisch, teleologisch, System des heutigen Roemischen Rechts Bd. I, 1840) sind noch heute Lehre. Jhering wandelte von der historischen Schule zur Interessenjurisprudenz (Zweck im Recht, 1877-84). Die Freirechtsschule (Ernst Fuchs, Eugen Ehrlich, Herrmann Kantorowicz, ca. 1900-1920) forderte freie richterliche Rechtsfindung jenseits des Gesetzes. Die Wertungsjurisprudenz des 20. Jh. (Karl Larenz) integrierte teleologische und systematische Elemente. Der amerikanische Rechtsrealismus (Holmes, Llewellyn) beeinflusste deutsches Denken kaum direkt, aber die soziologische Rechtsschule (Ehrlich) war europaeisches Äquivalent.
 
 ## Kernnormen / Kernquellen
 

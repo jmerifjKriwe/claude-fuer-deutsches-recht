@@ -121,14 +121,14 @@ Im Mittelstand ist die Insolvenzreife-Prüfung besonders heikel, weil der Gesell
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Insolvenzreife für Mittelstand pruefen | Insolvenzreife-Pruefung nach Schema; Schriftsatz unten |
-| Variante A — Mittelstand hat noch Gesellschafter-Darlehen | Nachrangigkeit pruefen; Eigen- vs Fremdkapital abgrenzen |
+| Standard — Insolvenzreife für Mittelstand prüfen | Insolvenzreife-Prüfung nach Schema; Schriftsatz unten |
+| Variante A — Mittelstand hat noch Gesellschafter-Darlehen | Nachrangigkeit prüfen; Eigen- vs Fremdkapital abgrenzen |
 | Variante B — Sanierungs-LOI mit Investor vorhanden | Fortbestehensprognose mit LOI als Grundlage |
-| Variante C — Betrieb soll kurzfristig eingestellt werden | Kontrolllierte Liquidation statt Insolvenzantrag pruefen |
+| Variante C — Betrieb soll kurzfristig eingestellt werden | Kontrolllierte Liquidation statt Insolvenzantrag prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -202,7 +202,7 @@ TODO [Käufer-GF]: Finanzierungsbereitschaft bei MAC neu bewerten
 TODO [W&I-Broker]: Police-Ausschlüsse klären bis [Datum]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
@@ -246,4 +246,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - §§ 1-93 StaRUG (insbesondere § 29 StaRUG-Plan, § 49 StaRUG-Vollstreckungssperre): https://www.gesetze-im-internet.de/starug/__1.html
 - § 43 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__43.html
 - §§ 823, 826 BGB (Insolvenzverschleppungs-Haftung gegenueber Glaeubigern als Schutzgesetz iVm § 15a InsO): https://www.gesetze-im-internet.de/bgb/__823.html
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

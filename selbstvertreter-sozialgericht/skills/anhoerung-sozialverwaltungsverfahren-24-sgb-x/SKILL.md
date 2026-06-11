@@ -36,7 +36,7 @@ description: "Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill le
 ## Wenn Anhörung unterblieben ist
 
 - Verwaltungsakt formell rechtswidrig (§ 41 Abs. 1 Nr. 3 SGB X).
-- Heilung moeglich bis zum Abschluss des Widerspruchsverfahrens (§ 41 Abs. 2 SGB X) durch Nachholung.
+- Heilung möglich bis zum Abschluss des Widerspruchsverfahrens (§ 41 Abs. 2 SGB X) durch Nachholung.
 - Daher Anhörungsmangel im Widerspruch ruegen und materiell verteidigen.
 
 ## Vorlage
@@ -76,6 +76,6 @@ description: "Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill le
 
 ### Anwendung im Skill
 
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

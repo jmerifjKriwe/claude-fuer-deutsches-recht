@@ -20,16 +20,16 @@ description: "Bautraeger-Rueckabwicklung bei Insolvenz: Skill klaert das Verfahr
 
 ## Rueckabwicklungsschritte
 
-### 1. Buergschaft pruefen
+### 1. Buergschaft prüfen
 - Vorlegen der Originalbuergschaft.
-- Bonitaet des Buergen pruefen.
+- Bonitaet des Buergen prüfen.
 - Anspruchsschreiben an den Buergen.
 
 ### 2. Insolvenzverwalter kontaktieren
 - Forderungsanmeldung binnen Frist (vom IV bekanntgegeben).
 - Sicherung Vormerkungsrang.
 
-### 3. Aussonderung pruefen
+### 3. Aussonderung prüfen
 - Bei Globalgrundschuld Pfandfreigabe.
 - Bei Anwartschaftsrecht: insolvenzfeste Position.
 

@@ -49,4 +49,4 @@ description: "Krankenkassen-Genehmigungsfiktion nach § 13 Abs. 3a SGB V. Skill 
 
 ## Vorlage Selbstbeschaffung
 
-"Mit Antrag vom [Datum] habe ich Leistung X beantragt. Die gesetzliche Frist nach § 13 Abs. 3a SGB V ist am [Datum] verstrichen. Die beantragte Leistung gilt nach § 13 Abs. 3a SGB V als genehmigt. Ich habe die Leistung am [Datum] selbst beschafft. Ich beantrage Erstattung in Hoehe von [Betrag]."
+"Mit Antrag vom [Datum] habe ich Leistung X beantragt. Die gesetzliche Frist nach § 13 Abs. 3a SGB V ist am [Datum] verstrichen. Die beantragte Leistung gilt nach § 13 Abs. 3a SGB V als genehmigt. Ich habe die Leistung am [Datum] selbst beschafft. Ich beantrage Erstattung in Höhe von [Betrag]."

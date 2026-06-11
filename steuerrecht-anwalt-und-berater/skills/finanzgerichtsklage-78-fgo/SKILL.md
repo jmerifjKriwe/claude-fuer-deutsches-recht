@@ -13,7 +13,7 @@ description: "Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Liegt eine Einspruchsentscheidung vor oder ist Sprungklage § 45 FGO moeglich?
+1. Liegt eine Einspruchsentscheidung vor oder ist Sprungklage § 45 FGO möglich?
 2. Ist die Klagefrist von einem Monat § 47 FGO eingehalten?
 3. Welcher Klagetyp passt — Anfechtung Verpflichtung Feststellung?
 4. Wie ist der Streitgegenstand zu bestimmen und welcher Streitwert ergibt sich nach § 52 GKG?

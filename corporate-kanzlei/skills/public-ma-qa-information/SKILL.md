@@ -33,12 +33,12 @@ Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtang
 4. Aktuelle Beteiligungsquote des Bieters / beabsichtigte Ziel-Quote?
 5. Insiderhandels-/Ad-hoc-Analyse: Kursrelevante Information vorhanden?
 6. BaFin-Voranmeldung und Angebotsdokument: Timeline?
-7. Fairness Opinion / Unabhaengiger Gutachter für Angemessenheits-Pruefung erforderlich?
+7. Fairness Opinion / Unabhaengiger Gutachter für Angemessenheits-Prüfung erforderlich?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
-- **§§ 1-68 WpUeG** — Wertpapieruebernahmegesetz; freiwillige und Pflicht-Angebote; Angebotsunterlagen; BaFin-Pruefung
+- **§§ 1-68 WpUeG** — Wertpapieruebernahmegesetz; freiwillige und Pflicht-Angebote; Angebotsunterlagen; BaFin-Prüfung
 - **§§ 29-39 WpUeG** — Pflichtangebot ab 30 % Stimmrechtsanteil; Mindestpreisregel; 3 Monate Referenzperiode
 - **§§ 39a-c WpUeG** — Squeeze-Out nach Uebernahme; Ausschluss Minderheit; Gerichtliches Spruchverfahren
 - **§§ 327a-f AktG** — aktienrechtlicher Squeeze-Out; Hauptgesellschafter 95 %; angemessene Barabfindung; Spruchverfahren
@@ -58,7 +58,7 @@ Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtang
 |---|---|---|---|
 | 1 | Voranmeldung (obligatorisch) | § 10 WpUeG | Unverzueglich nach Entscheidung |
 | 2 | Angebotsunterlage erstellen | §§ 11-14 WpUeG | Innerhalb 4 Wochen nach Voranmeldung |
-| 3 | BaFin-Einreichung und -Pruefung | § 14 WpUeG | BaFin: 10 Werktage Pruefung |
+| 3 | BaFin-Einreichung und -Prüfung | § 14 WpUeG | BaFin: 10 Werktage Prüfung |
 | 4 | Veroeffentlichung Angebot | § 14 WpUeG | Unverzueglich nach BaFin-Freigabe |
 | 5 | Annahmefrist | § 16 WpUeG | Mindestens 4 Wochen; max. 10 Wochen |
 | 6 | Weitere Annahmefrist | § 16 II WpUeG | 2 Wochen nach Vollzug |
@@ -68,7 +68,7 @@ Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtang
 ## Pflichtangebot: Mindestpreis-Regelung (§ 31 WpUeG)
 
 - Mindestpreis = hoeher von: (a) volumengewichteter Durchschnittskurs der letzten 3 Monate und (b) hoechster Preis, den Bieter in letzten 6 Monaten gezahlt hat
-- BaFin prueft Berechnung und veroeffentlicht Mindestpreis
+- BaFin prüft Berechnung und veroeffentlicht Mindestpreis
 - Fairness Opinion nicht gesetzlich vorgeschrieben aber Marktpraxis bei grosseren Deals
 
 ## Squeeze-Out: §§ 327a-f AktG vs. §§ 39a-c WpUeG
@@ -77,7 +77,7 @@ Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtang
 |---|---|---|
 | Schwelle | 95 % Grundkapital und Stimmrechte | 90 % Stimmrechte nach Uebernahme |
 | Beschluss | HV-Beschluss erforderlich | Gerichtliches Verfahren |
-| Abfindung | Barabfindung; IDW S1-Pruefung | Mindestpreis aus Angebot (wenn angemessen) |
+| Abfindung | Barabfindung; IDW S1-Prüfung | Mindestpreis aus Angebot (wenn angemessen) |
 | Spruchverfahren | SpruchG | SpruchG |
 | Bekaempfbarkeit | Anfechtungsklage; dann Freigabeverfahren | Geringere Anfechtbarkeit |
 
@@ -85,12 +85,12 @@ Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtang
 
 Im Public M&A ist jede kursrelevante Information potenzielle Ad-hoc. Kursrelevant ist Information, wenn ein verstaendiger Anleger sie bei seiner Investitionsentscheidung beruecksichtigen wuerde.
 
-**Aufschub (Art. 17 IV MAR):** Emittent kann Veroeffentlichung zulaessig aufzuschieben, wenn:
+**Aufschub (Art. 17 IV MAR):** Emittent kann Veroeffentlichung zulässig aufzuschieben, wenn:
 - Unverzuegliche Offenlegung berechtigte Interessen schaedigt (z.B. laufende Verhandlungen)
 - Kein Irrefuehrungs-Risiko
 - Geheimhaltung sichergestellt (Insider-Liste gepflegt)
 
-Beim Signing des SPA: Pflicht zur sofortigen Ad-hoc-Meldung (kein Aufschub mehr moeglich).
+Beim Signing des SPA: Pflicht zur sofortigen Ad-hoc-Meldung (kein Aufschub mehr möglich).
 
 ## Schritt-für-Schritt-Workflow
 
@@ -102,14 +102,14 @@ Beim Signing des SPA: Pflicht zur sofortigen Ad-hoc-Meldung (kein Aufschub mehr 
 4. **Voranmeldung BaFin** — § 10 WpUeG; unverzueglich nach Vorstandsentscheidung
 5. **Angebotsunterlage** — nach §§ 11-14 WpUeG; BaFin-Muster; Fairness Opinion beschaffen
 6. **Gegengesellschaft-Statement** — Zielgesellschaft muss binnen 2 Wochen Stellungnahme abgeben (§ 27 WpUeG)
-7. **BaFin-Pruefung** — Kooperation; Rueckfragen beantworten; ggf. Nachbesserung
+7. **BaFin-Prüfung** — Kooperation; Rueckfragen beantworten; ggf. Nachbesserung
 8. **Veroeffentlichung und Annahmefrist** — Boersenbekanntmachung; Aktionaer-Information
 9. **Ergebnis-Veroeffentlichung** — Annahmequote; Vollzug; Weitere Annahmefrist
 10. **Squeeze-Out-Analyse** — wenn >90 % (WpUeG) oder >95 % (AktG): Ausschluss-Verfahren einleiten
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
@@ -143,14 +143,14 @@ weiterer ueblicher Vollzugsbedingungen. Der Vollzug wird für [QUARTAL] erwartet
 [KONTAKT]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Rote Schwellen
 
-- Pflichtangebot-Schwelle (30 %) ueberschritten ohne Veroeffentlichung → WpUeG-Verstos; BaFin-Massnahmen
+- Pflichtangebot-Schwelle (30 %) ueberschritten ohne Veroeffentlichung → WpUeG-Verstos; BaFin-Maßnahmen
 - Ad-hoc-Meldung verzoegert nach Signing → Art. 17 MAR; Bussgeld bis 15 Mio. EUR oder 2.5 % Weltumsatz
 - Insider-Liste unvollstaendig → Art. 18 MAR; Compliance-Risiko bei Insiderhandel-Vorwurf
 - Squeeze-Out-Abfindung unangemessen → Spruchverfahren; Nachbesserungspflicht
@@ -170,5 +170,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - DelistingVO und Boersenrecht § 39 BoerseG: https://www.gesetze-im-internet.de/b_rsg_2007/__39.html
 - BVerfG, Beschl. v. 27.04.1999 — 1 BvR 1613/94 (DAT/Altana; BVerfGE 100, 289) — Boersenkurs als Untergrenze: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1999/04/rs19990427_1bvr161394.html
 - BaFin-Merkblaetter MAR/Ad-hoc: https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Marktmissbrauch/marktmissbrauch_node.html
-- Listing Act (Verordnung (EU) 2024/2809 zur Aenderung MAR/Prospekt-VO/MiFIR; in Kraft 04.12.2024 mit gestaffelten Anwendungsdaten — Inkrafttretensdaten je Artikel pruefen): https://eur-lex.europa.eu/eli/reg/2024/2809/oj
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Listing Act (Verordnung (EU) 2024/2809 zur Aenderung MAR/Prospekt-VO/MiFIR; in Kraft 04.12.2024 mit gestaffelten Anwendungsdaten — Inkrafttretensdaten je Artikel prüfen): https://eur-lex.europa.eu/eli/reg/2024/2809/oj
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

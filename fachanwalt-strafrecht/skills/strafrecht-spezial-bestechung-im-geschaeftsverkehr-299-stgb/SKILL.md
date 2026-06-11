@@ -28,7 +28,7 @@ Seit Reform Korruptionsbekaempfungsgesetz 2015 zwei Modelle: Wettbewerbsmodell (
 
 - Anklageschrift, Ermittlungsschrift.
 - Geschaeftsbeziehung Bestechender / Bestochener.
-- Zahlungsbelege, Vertraege, Email-Verkehr.
+- Zahlungsbelege, Verträge, Email-Verkehr.
 - Compliance-Strukturen im Unternehmen.
 - Vorgesetzte / Geschaeftsherr Beteiligung / Genehmigung.
 
@@ -36,7 +36,7 @@ Seit Reform Korruptionsbekaempfungsgesetz 2015 zwei Modelle: Wettbewerbsmodell (
 
 ### § 299 Abs. 1 StGB Nehmer (Bestechlichkeit)
 
-Wer als **Angestellter oder Beauftragter eines Unternehmens** im geschaeftlichen Verkehr **einen Vorteil** für sich oder einen Dritten **fordert, sich versprechen laesst oder annimmt**:
+Wer als **Angestellter oder Beauftragter eines Unternehmens** im geschaeftlichen Verkehr **einen Vorteil** für sich oder einen Dritten **fordert, sich versprechen lässt oder annimmt**:
 
 1. **Wettbewerbsmodell (Nr. 1):** als Gegenleistung dafür, dass er bei dem Bezug von Waren oder Dienstleistungen **einen anderen im inlaendischen oder auslaendischen Wettbewerb in unlauterer Weise bevorzuge** oder
 2. **Geschaeftsherrenmodell (Nr. 2):** als Gegenleistung dafür, dass er bei dem Bezug von Waren oder Dienstleistungen eine Handlung vornehme oder unterlasse und dadurch seine **Pflichten gegenueber dem Unternehmen verletze**.
@@ -90,9 +90,9 @@ Auch für auslaendischen Wettbewerb gilt § 299 StGB; Internationalisierung.
 ## Strafzumessung und Folgen
 
 - **Strafrahmen** Freiheitsstrafe bis drei Jahre oder Geldstrafe.
-- **§ 300 StGB besonders schwere Faelle:** Drei Monate bis fuenf Jahre. Regelbeispiele: grosser Vorteil, gewerbsmaessig, Bandenmaessig.
-- **§ 46 StGB** Hoehe Vorteil, Wettbewerbsstoerung, Tatdauer, Compliance-Defizite, Wiedergutmachung.
-- **Einziehung § 73 StGB** Tatertrag (auch der Schmiergelder selbst beim Nehmer, im Wettbewerbsmodell Geschaeftserloese beim Geber moeglich).
+- **§ 300 StGB besonders schwere Faelle:** Drei Monate bis fuenf Jahre. Regelbeispiele: großer Vorteil, gewerbsmaessig, Bandenmaessig.
+- **§ 46 StGB** Höhe Vorteil, Wettbewerbsstoerung, Tatdauer, Compliance-Defizite, Wiedergutmachung.
+- **Einziehung § 73 StGB** Tatertrag (auch der Schmiergelder selbst beim Nehmer, im Wettbewerbsmodell Geschaeftserloese beim Geber möglich).
 - **Berufsverbot § 70 StGB** insbes. bei Einkaufs-/Vertriebsfunktion.
 - **Verbandsgeldbusse § 30 OWiG** bis 10 Mio. EUR plus Abschoepfung.
 - **Vergaberechtliche Folgen** Ausschluss von Vergabeverfahren § 124 GWB (Schwarze Liste Wettbewerbsregister WReg).

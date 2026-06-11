@@ -128,15 +128,15 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 
 ## Wann brauchen Sie diese Skill?
 
-- Ihr Unternehmen moechte ein neues KI-System einfuehren und Sie muessen pruefen, ob es unter die KI-VO faellt und welche Risikoklasse gilt.
+- Ihr Unternehmen moechte ein neues KI-System einfuehren und Sie müssen prüfen, ob es unter die KI-VO faellt und welche Risikoklasse gilt.
 - Sie benoetigen eine KI-Folgenabschaetzung (FRIA) nach Art. 27 KI-VO oder eine DSGVO-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO.
-- Sie pruefen einen KI-Anbietervertrag auf KI-VO-Konformitaet, Haftung und Transparenzpflichten nach Art. 25 KI-VO.
+- Sie prüfen einen KI-Anbietervertrag auf KI-VO-Konformitaet, Haftung und Transparenzpflichten nach Art. 25 KI-VO.
 - Die interne KI-Richtlinie soll gegen neue Regulierungen oder Behördenleitlinien geprueft und aktualisiert werden.
 - Sie wollen ein vollstaendiges KI-Inventar aller im Unternehmen eingesetzten Systeme nach Art. 3 KI-VO aufbauen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Anbieter** — Wer ein KI-System entwickelt oder entwickeln laesst und es in Verkehr bringt oder in Betrieb nimmt (Art. 3 Nr. 3 KI-VO).
+- **Anbieter** — Wer ein KI-System entwickelt oder entwickeln lässt und es in Verkehr bringt oder in Betrieb nimmt (Art. 3 Nr. 3 KI-VO).
 - **Betreiber** — Wer ein KI-System im eigenen Namen und unter eigener Kontrolle einsetzt (Art. 3 Nr. 4 KI-VO).
 - **Hochrisiko-KI** — KI-Systeme nach Anhang III KI-VO (z.B. biometrische Identifikation, Beschaeftigung, kritische Infrastruktur); erfordern umfassende Compliance-Pflichten.
 - **FRIA** — Fundamental Rights Impact Assessment nach Art. 27 KI-VO: Folgenabschaetzung für Grundrechte bei Hochrisiko-KI durch Betreiber.
@@ -157,10 +157,10 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Unternehmen als Anbieter oder Betreiber, Branche, Groesse, welche KI-Systeme bereits im Einsatz oder geplant.
+1. Mandantenkonstellation klären: Unternehmen als Anbieter oder Betreiber, Branche, Groesse, welche KI-Systeme bereits im Einsatz oder geplant.
 2. Phase des Mandats bestimmen: Ersteinrichtung (Inventar, Profil), Triage neues KI-System, Folgenabschaetzung, Richtlinien-Erstellung oder Monitoring.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: KI-VO-Verbote seit 02.02.2025 anwendbar; Hochrisiko-Pflichten seit 02.08.2026; GPAI-Pflichten seit 02.08.2025.
+4. Eilfristen prüfen: KI-VO-Verbote seit 02.02.2025 anwendbar; Hochrisiko-Pflichten seit 02.08.2026; GPAI-Pflichten seit 02.08.2025.
 5. Anschluss-Skill bestimmen: nach Triage folgt Folgenabschaetzung oder Richtlinien-Monitor; nach Vendor-Review ggf. Vertragsnachverhandlung.
 
 ## Skill-Tour (was gibt es hier?)
@@ -182,25 +182,25 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 
 **Vendor und Richtlinien**
 
-- `ki-anbieter-pruefung` — KI-Anbietervertraege auf Governance-Positionen, Training auf Daten, Haftung und Art. 25 KI-VO pruefen.
+- `ki-anbieter-pruefung` — KI-Anbietervertraege auf Governance-Positionen, Training auf Daten, Haftung und Art. 25 KI-VO prüfen.
 - `richtlinien-vorlage` — Interne KI-Nutzungsrichtlinie entwerfen auf Basis öffentlicher Muster und Praxisprofil.
-- `richtlinien-monitor` — Interne KI-Richtlinie auf Abweichungen von der Praxis und neuen Regulierungen pruefen.
+- `richtlinien-monitor` — Interne KI-Richtlinie auf Abweichungen von der Praxis und neuen Regulierungen prüfen.
 - `regulierungs-luecken-analyse` — Neue KI-Regulierung oder Behördenleitlinie gegen aktuelle Governance-Position abgleichen.
 
 ## Worauf besonders achten
 
-- **Anbieter- und Betreiber-Rolle exakt abgrenzen.** Beide Rollen haben unterschiedliche Pflichten nach KI-VO; eine Verwechslung fuehrt zu falschen Compliance-Massnahmen.
+- **Anbieter- und Betreiber-Rolle exakt abgrenzen.** Beide Rollen haben unterschiedliche Pflichten nach KI-VO; eine Verwechslung fuehrt zu falschen Compliance-Maßnahmen.
 - **Zeitplan der KI-VO beachten.** Verbote (Art. 5) seit 02.02.2025, GPAI seit 02.08.2025, Hochrisiko seit 02.08.2026; nicht alle Pflichten gelten gleichzeitig.
-- **DSFA und FRIA sind keine Duplikate.** Beide Instrumente haben eigene Anwendungsbereiche und koennen parallel erforderlich sein; Skill `ki-folgenabschaetzung` kombiniert beide.
-- **Interne Richtlinie muss gelebte Praxis abbilden.** Eine Richtlinie, die niemand einhalt, schuetzt nicht vor regulatorischer Verantwortung; Skill `richtlinien-monitor` prueft Konsistenz.
+- **DSFA und FRIA sind keine Duplikate.** Beide Instrumente haben eigene Anwendungsbereiche und können parallel erforderlich sein; Skill `ki-folgenabschaetzung` kombiniert beide.
+- **Interne Richtlinie muss gelebte Praxis abbilden.** Eine Richtlinie, die niemand einhalt, schuetzt nicht vor regulatorischer Verantwortung; Skill `richtlinien-monitor` prüft Konsistenz.
 - **Allzweck-KI-Modelle erfordern Sonderbehandlung.** Bei Einsatz von GPAI-Modellen mit systemischen Risiken gelten Transparenz- und Sorgfaltspflichten nach Art. 53 ff. KI-VO.
 
 ## Typische Fehler
 
-- Unternehmen klassifiziert sich als Anbieter obwohl es nur Betreiber ist; fuehrt zu ueberzogenen Compliance-Massnahmen.
-- Use-Case-Triage wird nur einmal durchgefuehrt; bei Weiterentwicklung des KI-Systems ist eine erneute Pruefung erforderlich.
+- Unternehmen klassifiziert sich als Anbieter obwohl es nur Betreiber ist; fuehrt zu ueberzogenen Compliance-Maßnahmen.
+- Use-Case-Triage wird nur einmal durchgefuehrt; bei Weiterentwicklung des KI-Systems ist eine erneute Prüfung erforderlich.
 - Folgenabschaetzung wird nach Einfuehrung des Systems erstellt; KI-VO erfordert Vorab-Bewertung.
-- KI-Anbietervertrag wird ohne Pruefung der Art. 25 KI-VO-Pflichten akzeptiert; Vertragslücken bei Modellwechsel oder Datenpanne.
+- KI-Anbietervertrag wird ohne Prüfung der Art. 25 KI-VO-Pflichten akzeptiert; Vertragslücken bei Modellwechsel oder Datenpanne.
 - Richtlinie wird erstellt und dann nicht aktualisiert; neue Regulierung und neue Systeme bleiben unberuecksichtigt.
 
 ## Quellen und Aktualitaet

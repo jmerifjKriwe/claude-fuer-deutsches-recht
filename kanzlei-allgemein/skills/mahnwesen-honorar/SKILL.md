@@ -28,7 +28,7 @@ Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwen
 
 ## Zentrale Normen
 - § 286 BGB — Verzug: Voraussetzungen (Faelligkeit, Mahnung oder Kalendertermin)
-- § 288 Abs. 1, 2 BGB — Verzugszinsen: 5 Prozentpunkte (B2C) bzw. 9 Prozentpunkte (B2B) ueber Basiszinssatz
+- § 288 Abs. 1, 2 BGB — Verzugszinsen: 5 Prozentpunkte (B2C) bzw. 9 Prozentpunkte (B2B) über Basiszinssatz
 - §§ 688-703 ZPO — Gerichtliches Mahnverfahren: schnelles Inkasso-Instrument
 - § 23 Nr. 1 GVG — Sachliche Zuständigkeit des AG bis 10.000 EUR (ab 01.01.2026)
 

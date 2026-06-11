@@ -29,7 +29,7 @@ Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, 
 - Eine **passende Claude-Lizenz** für Cowork 3P (je nach Konstellation z. B. eine Team-Lizenz; ggf. ist die Einrichtung auch mit einem Free-Account möglich – bitte im eigenen Account prüfen).
 - Ein **Langdock-Account** mit **passender Lizenz** für den API-Zugang (in der Regel eine Business-Lizenz).
 - Mit Langdock muss – **zusätzlich** zu den Verträgen und dem **Auftragsverarbeitungsvertrag (AVV) einschließlich Begleitdokumenten** – eine **Zusatzvereinbarung zur Wahrung der anwaltlichen Verschwiegenheitspflicht** nach **§ 43e Abs. 3 BRAO i. V. m. § 203 Abs. 4 StGB** geschlossen werden.
-- Die Datei **`eu-gateway-cowork.config.json`** aus diesem Ordner. **Wichtig:** Vor Verwendung muss der Platzhalter `inferenceGatewayBaseUrl` durch die konkrete Gateway-URL des gewaehlten EU-Anbieters ersetzt werden — fuer Langdock z. B. `https://api.langdock.com/anthropic/eu`.
+- Die Datei **`eu-gateway-cowork.config.json`** aus diesem Ordner. **Wichtig:** Vor Verwendung muss der Platzhalter `inferenceGatewayBaseUrl` durch die konkrete Gateway-URL des gewaehlten EU-Anbieters ersetzt werden — für Langdock z. B. `https://api.langdock.com/anthropic/eu`.
 
 ---
 

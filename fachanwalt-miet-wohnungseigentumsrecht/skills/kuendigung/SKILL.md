@@ -97,14 +97,14 @@ Weitere kündigungsrelevante Entscheidungen vor Zitierung live über dejure.org/
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Mietkuendigung (Eigenbedarf/Zahlungsverzug) | Kuendigungsschreiben; Template unten |
 | Variante A — Mieter widerspricht wegen Haertefall | §§ 574 ff. BGB Sozialklausel; Verlaengerung verhandeln |
 | Variante B — Mieter zahlt nicht mehr | Fristlose Kuendigung § 543 BGB + ordentliche parallel |
-| Variante C — Eigenbedarf nur vorgetaeuscht | Schadensersatz Mieter; Strafanzeige Betrug pruefen |
+| Variante C — Eigenbedarf nur vorgetaeuscht | Schadensersatz Mieter; Strafanzeige Betrug prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -172,7 +172,7 @@ im Schriftsatz live ueber dejure.org verifizieren.
 [Unterschrift]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -206,8 +206,8 @@ im Schriftsatz live ueber dejure.org verifizieren.
 |---|---|
 | Eigenbedarf vorgetäuscht | Ernsthafte Nutzungsabsicht durch Belege und Zeugen; keine Weitervermietung nach Auszug |
 | Kein Verwandtschaftsgrad nach § 573 Abs. 2 Nr. 2 BGB | Kreis der Angehörigen ist weit: Kinder, Eltern, Geschwister, Enkel, Ehegatte |
-| Eigenbedarf wegen Umbau- und Verkaufsabsicht missbraeuchlich | BGH, Urt. v. 24.09.2025 – VIII ZR 289/23: Eigenbedarf auch bei spaeterem Verkauf moeglich, wenn ernsthafte Gruende vorliegen und kein Rechtsmissbrauch hinzutritt |
-| Haerteklausel § 574 BGB wegen Krankheit/Alter | BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: Tatgericht muss medizinische Tatsachen vollstaendig aufklaeren; widersprueche im SV-Gutachten genuegen nicht |
+| Eigenbedarf wegen Umbau- und Verkaufsabsicht missbraeuchlich | BGH, Urt. v. 24.09.2025 – VIII ZR 289/23: Eigenbedarf auch bei spaeterem Verkauf möglich, wenn ernsthafte Gruende vorliegen und kein Rechtsmissbrauch hinzutritt |
+| Haerteklausel § 574 BGB wegen Krankheit/Alter | BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: Tatgericht muss medizinische Tatsachen vollstaendig aufklaeren; widersprueche im SV-Gutachten genügen nicht |
 | Abmahnung nicht erfolgt | Bei Zahlungsverzug § 543 Abs. 2 Nr. 3 BGB keine Abmahnung erforderlich |
 
 ## Streitwert und Kosten

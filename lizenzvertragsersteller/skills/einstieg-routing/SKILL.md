@@ -22,7 +22,7 @@ description: "Anwalts-Dashboard fuer den Lizenzvertragsersteller: Sofort-Triage 
 
 - **Insolvenz-Risiko Lizenzgeber:** 🔴 bei Software-Abhaengigkeit ohne Escrow · 🟠 bei mittelgrosser Lizenzgeberin · 🟢 etablierter Konzern.
 - **Kartellrecht TT-GVO:** 🔴 bei Marktanteil > 30 % (Wettbewerber) bzw. > 20 % (vertikal) · 🟠 bei Schranken-Klauseln (Kernbeschraenkungen) · 🟢 bei reinem KMU.
-- **Steuern/Quellensteuer:** 🔴 bei Cross-Border ohne DBA-Pruefung · 🟠 bei DBA mit Quellensteuer-Reduktion · 🟢 bei rein nationaler Lizenz.
+- **Steuern/Quellensteuer:** 🔴 bei Cross-Border ohne DBA-Prüfung · 🟠 bei DBA mit Quellensteuer-Reduktion · 🟢 bei rein nationaler Lizenz.
 
 ## Anschluss-Skills (Router)
 
@@ -39,7 +39,7 @@ description: "Anwalts-Dashboard fuer den Lizenzvertragsersteller: Sofort-Triage 
 
 ## Norm-Radar
 
-- **UrhG** §§ 31, 32, 32a (Urheberrechtslizenzen, angemessene Verguetung); § 69a ff. (Software); § 137l UrhG (unbekannte Nutzungsarten)
+- **UrhG** §§ 31, 32, 32a (Urheberrechtslizenzen, angemessene Vergütung); § 69a ff. (Software); § 137l UrhG (unbekannte Nutzungsarten)
 - **PatG** §§ 9, 15 (Lizenz); § 24 (Zwangslizenz)
 - **MarkenG** §§ 30 (Lizenz), 27 (Uebertragung)
 - **DesignG** §§ 31 ff.; **GebrMG** §§ 22 ff.

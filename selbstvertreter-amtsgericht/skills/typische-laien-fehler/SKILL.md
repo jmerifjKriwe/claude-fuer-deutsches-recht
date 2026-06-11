@@ -13,7 +13,7 @@ Diese Skill listet die Fehler auf, die Selbstvertreter immer wieder machen. Wenn
 
 - Sie sind vor erster Klage.
 - Sie haben das Gefuehl, etwas geht schief.
-- Sie wollen pruefen, ob Sie typische Fehler vermeiden.
+- Sie wollen prüfen, ob Sie typische Fehler vermeiden.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -45,7 +45,7 @@ Gegenmassnahme: Konkreter Antrag mit Betrag, Zinsen, Datum. Skill `klageschrift-
 
 ### Fehler 4 — Kein Beweisangebot
 
-Symptom: "Beweis kommt spaeter." Beim Urteil: kein Beweis = Niederlage.
+Symptom: "Beweis kommt später." Beim Urteil: kein Beweis = Niederlage.
 
 Gegenmassnahme: Im Schriftsatz pro Tatsache Beweis benennen. Skill `klageschrift-beweisangebote-einbauen-373-zpo`.
 
@@ -61,7 +61,7 @@ Symptom: Antrag auf Verlaengerung Berufungsfrist abgelehnt.
 
 Gegenmassnahme: Notfristen sind nicht verlaengerbar. Wiedereinsetzung nur ausnahmsweise. Skill `rechtsmittelfrist-517-zpo`.
 
-### Fehler 7 — Klaeger-Punkt nicht bestritten
+### Fehler 7 — Kläger-Punkt nicht bestritten
 
 Symptom: Tatsachen-Behauptung der Gegenseite gilt als zugestanden (§ 138 III ZPO).
 
@@ -71,11 +71,11 @@ Gegenmassnahme: Pro Punkt eine Antwort. Skill `klageerwiderung-checkliste-alle-p
 
 Symptom: Verjaehrte Forderung wird zugesprochen.
 
-Gegenmassnahme: Bei Klageerwiderung immer Verjährung pruefen. Skill `einreden-aktiv-geltend-machen`, `verjaehrungsfrist-pruefen-195-bgb`.
+Gegenmassnahme: Bei Klageerwiderung immer Verjährung prüfen. Skill `einreden-aktiv-geltend-machen`, `verjaehrungsfrist-pruefen-195-bgb`.
 
 ### Fehler 9 — Streitwert zu niedrig angegeben
 
-Symptom: Spaeter Nachforderung des Gerichts, eigenes Risiko.
+Symptom: Später Nachforderung des Gerichts, eigenes Risiko.
 
 Gegenmassnahme: Realistischen Streitwert ansetzen. Skill `klage-streitwert-angabe-3-zpo`.
 
@@ -97,7 +97,7 @@ Symptom: Berufung wird verworfen wegen nicht-anwaltlicher Begruendung.
 
 Gegenmassnahme: Vor LG Anwaltszwang. Skill `berufung-amtsgericht-511-zpo`, `wann-doch-anwalt-grenzfaelle`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Fristen sind alles** — keine Kompromisse.
 - **Konkret, konkret, konkret** beim Vortrag.

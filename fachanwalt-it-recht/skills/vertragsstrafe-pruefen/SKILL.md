@@ -59,12 +59,12 @@ description: "Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Ho
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Vertragsstrafe pruefen und geltend machen | Geltendmachungs-Schreiben; Template unten |
-| Variante A — Vertragsstrafe ueberschiessend | § 343 BGB-Herabsetzung pruefen; Risiko Rueckforderung |
+| Standard — Vertragsstrafe prüfen und geltend machen | Geltendmachungs-Schreiben; Template unten |
+| Variante A — Vertragsstrafe ueberschiessend | § 343 BGB-Herabsetzung prüfen; Risiko Rueckforderung |
 | Variante B — Mandant will Vertragsstrafe nicht ausloesen | Stillhaltevereinbarung; Vertragsanpassung statt Strafe |
 | Variante C — Wiederholte Pflichtverletzung | Mehrfache Vertragsstrafe oder Kuendigung erwaegen |
 
@@ -96,7 +96,7 @@ Abs. 2 BGB.
 Mit freundlichen Gruessen
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

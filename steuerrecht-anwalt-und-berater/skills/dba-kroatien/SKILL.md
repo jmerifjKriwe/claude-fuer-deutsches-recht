@@ -49,8 +49,8 @@ Das DBA-Kroatien vom 06.02.2006 (BGBl. 2006 II S. 1112) regelt das Verhaeltnis z
 
 ### Quellensteuer
 - **Dividenden** (Art. 10): 5 Prozent bei direkter Beteiligung von mindestens 10 Prozent am Kapital; 15 Prozent in allen anderen Faellen. EU-MTRL Schachtel 0 Prozent.
-- **Zinsen** (Art. 11): ausschliesslich im Ansaessigkeitsstaat steuerpflichtig (0 Prozent Quellensteuer im Quellenstaat).
-- **Lizenzgebuehren** (Art. 12): ausschliesslich im Ansaessigkeitsstaat steuerpflichtig (0 Prozent Quellensteuer im Quellenstaat). EU-ZinsLizenzRL bei verbundenen Unternehmen ebenfalls 0 Prozent.
+- **Zinsen** (Art. 11): ausschließlich im Ansaessigkeitsstaat steuerpflichtig (0 Prozent Quellensteuer im Quellenstaat).
+- **Lizenzgebuehren** (Art. 12): ausschließlich im Ansaessigkeitsstaat steuerpflichtig (0 Prozent Quellensteuer im Quellenstaat). EU-ZinsLizenzRL bei verbundenen Unternehmen ebenfalls 0 Prozent.
 
 ### Vermeidungs-Methode
 - Anrechnung ueberwiegend.
@@ -69,7 +69,7 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 4. Vermeidungsmethode — Anrechnung ueberwiegend.
 5. Innerstaatliche Umsetzung — § 34c EStG; § 43b EStG / MTRL seit 2013 bei Schachtel; § 50d Abs. 3 EStG.
 
-BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbescheinigung der kroatischen Porezna uprava als Anlage.
+BZSt-Verfahren: Freistellung/Erstattung § 50c EStG über BOP; Ansaessigkeitsbescheinigung der kroatischen Porezna uprava als Anlage.
 
 ## Strategie und Praxis-Tipps
 
@@ -83,25 +83,25 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 - **Erstattungsverfahren HR → DE-Mandant**: Antrag bei Porezna uprava (Steuerverwaltung Kroatien); Online-Portal "ePorezna" (vom Anwender mit aktuellem Stand des kroatischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung "Potvrda o rezidentnosti" der Porezna uprava als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Kroatisch; EU-Beitritt 2013 hat zahlreiche begleitende Notenwechsel ausgeloest, die mit dem konsolidierten BMF-Text abzugleichen sind.
-- **Lokaler Berater**: Bei kroatischer d.o.o. (GmbH-Aequivalent) oder Ferienimmobilien-Investment empfiehlt sich Hinzuziehung eines kroatischen "porezni savjetnik" wegen kroatischer Sondersteuern auf Ferienimmobilien (Pauschalsteuer für Vermietung von Ferienwohnungen, "porez na dohodak od iznajmljivanja stanova", regelmaessig in der Praxis differenziert pro Bett und Saison).
+- **Lokaler Berater**: Bei kroatischer d.o.o. (GmbH-Äquivalent) oder Ferienimmobilien-Investment empfiehlt sich Hinzuziehung eines kroatischen "porezni savjetnik" wegen kroatischer Sondersteuern auf Ferienimmobilien (Pauschalsteuer für Vermietung von Ferienwohnungen, "porez na dohodak od iznajmljivanja stanova", regelmaessig in der Praxis differenziert pro Bett und Saison).
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten für Steuerverwaltungsdokumente.
 - **Adria-Ferienimmobilie als steuerlicher Hot-Spot**: Vermieter mit DE-Wohnsitz und HR-Immobilie haben HR-Belegenheitsbesteuerung (Art. 6) — Pauschalsteuer oder Regelversteuerung nach kroatischem Wahlrecht; in DE Anlage V-AUS.
 
-## Edge Cases und Was-Pruefer-Triggert
+## Edge Cases und Was-Prüfer-Triggert
 
-- **Veraeusserungsgewinn aus HR-Immobilie**: Art. 13 DBA — Belegenheitsstaat HR besteuert; Steuerbefreiung nach kroatischem Recht bei Haltedauer ueber 2 Jahre und Selbstnutzung (vom Anwender mit aktuellem kroatischem Steuerrecht zu verifizieren). DE-Anrechnung nach § 34c EStG.
-- **EU-Mitgliedschaft seit 01.07.2013**: vorher kein EU-MTRL-Schutz; bei VZ-Bezug vor 2013 sorgfaeltig pruefen.
+- **Veraeusserungsgewinn aus HR-Immobilie**: Art. 13 DBA — Belegenheitsstaat HR besteuert; Steuerbefreiung nach kroatischem Recht bei Haltedauer über 2 Jahre und Selbstnutzung (vom Anwender mit aktuellem kroatischem Steuerrecht zu verifizieren). DE-Anrechnung nach § 34c EStG.
+- **EU-Mitgliedschaft seit 01.07.2013**: vorher kein EU-MTRL-Schutz; bei VZ-Bezug vor 2013 sorgfaeltig prüfen.
 - **Euro-Einfuehrung 01.01.2023**: Vor diesem Datum HRK (Kuna) — bei Umrechnungen Wechselkurse mit Bundesbank-EZB-Stichtag verwenden.
-- **MLI ab 01.01.2025**: PPT-Klausel und Mindeststandards anwendbar — Treaty-Shopping ueber HR-Holdings versagt.
+- **MLI ab 01.01.2025**: PPT-Klausel und Mindeststandards anwendbar — Treaty-Shopping über HR-Holdings versagt.
 - **Pflege-/Saisonarbeit kroatischer Staatsangehoeriger in DE**: Sozialversicherung A1 nach EU-VO 883/2004; Lohnsteuer nach Art. 15 (183-Tage).
 
 ## Trade-offs
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| HR-Ferienimmobilie: Pauschalsteuer vs. Regelversteuerung | HR-Pauschalsteuer (Flat-Rate je Bett/Saison) — einfach, hoch | HR-Regelversteuerung mit AfA und Werbungskosten — komplexer, oft niedriger | bei wenigen Vermietungstagen Pauschalsteuer; bei intensiver Vermietung Regelversteuerung — mit lokalem Berater pruefen |
+| HR-Ferienimmobilie: Pauschalsteuer vs. Regelversteuerung | HR-Pauschalsteuer (Flat-Rate je Bett/Saison) — einfach, hoch | HR-Regelversteuerung mit AfA und Werbungskosten — komplexer, oft niedriger | bei wenigen Vermietungstagen Pauschalsteuer; bei intensiver Vermietung Regelversteuerung — mit lokalem Berater prüfen |
 | EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent | DBA-Kroatien: 5 Prozent ab 10 Prozent | EU-MTRL immer vorrangig |
-| Wohnsitzwechsel DE → HR (Ruhestand Adria) | HR-Steueransaessigkeit, kroatische Wohnsitzbesteuerung Renten | DE-Steueransaessigkeit, deutsche Besteuerung mit DBA-Klaerung | bei Pensionaeren mit DRV: HR besteuert grundsaetzlich, aber DRV-Renten unterliegen DE-beschraenkter Steuerpflicht — Steuerlast meist gleichgesetzt, aber HR-Aufenthalt nachweispflichtig |
+| Wohnsitzwechsel DE → HR (Ruhestand Adria) | HR-Steueransaessigkeit, kroatische Wohnsitzbesteuerung Renten | DE-Steueransaessigkeit, deutsche Besteuerung mit DBA-Klärung | bei Pensionaeren mit DRV: HR besteuert grundsätzlich, aber DRV-Renten unterliegen DE-beschraenkter Steuerpflicht — Steuerlast meist gleichgesetzt, aber HR-Aufenthalt nachweispflichtig |
 
 ## Berechnungsbeispiel
 
@@ -121,7 +121,7 @@ Achtung: Sozialversicherungs- und Tourismus-Sondersteuern (Kurtaxe, Gebühren de
 2. **Strukturierung**: Bei Vermietung HR-Pauschalsteuer vs. Regelversteuerung; bei Holding Substanz § 50d Abs. 3 EStG.
 3. **Antraege**: Ansaessigkeitsbescheinigung Porezna uprava; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: HR-Erklaerung jaehrlich; DE-Anlage V-AUS bei Immobilien, Anlage KAP bei Beteiligungen.
-5. **Audit-Vorbereitung**: HR-Tourismusverwaltung pruefer Pauschalsteuer; DE-FA pruefer Anlage V-AUS und Anrechnung.
+5. **Audit-Vorbereitung**: HR-Tourismusverwaltung prüfer Pauschalsteuer; DE-FA prüfer Anlage V-AUS und Anrechnung.
 
 ## Ausgabeformat für Mandanten-Memo Kroatien
 
@@ -146,6 +146,6 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Kroa
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Kroatien 06.02.2006, in Kraft 22.12.2006 (BGBl. 2006 II S. 1112). EU-Beitritt 01.07.2013, Euro ab 01.01.2023. MLI wirksam ab 01.01.2025. Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+Stand: 05/2026. DBA-Kroatien 06.02.2006, in Kraft 22.12.2006 (BGBl. 2006 II S. 1112). EU-Beitritt 01.07.2013, Euro ab 01.01.2023. MLI wirksam ab 01.01.2025. Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 5 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2006 II S. 1112; MLI-Status und Datum; Quellensteuer-Saetze; EU-MTRL Datum), 0 gestrichen -->

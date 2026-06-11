@@ -15,7 +15,7 @@ description: "Commercial LEO Destinations: rechtliche Architektur kommerzieller 
 
 ## Sofortfragen
 
-1. Rolle: Crew-Provider, Cargo-Provider, Modul-Eigentuemer, Endnutzer, Versicherer, Investor, staatliche Stelle?
+1. Rolle: Crew-Provider, Cargo-Provider, Modul-Eigentümer, Endnutzer, Versicherer, Investor, staatliche Stelle?
 2. Welche Plattform: Axiom Station, Orbital Reef, Starlab, Haven-1 oder europaeische Loesung?
 3. Vertragsmodell: NASA Space Act Agreement, ESA-Beteiligung, kommerzielle Direktbeziehung?
 4. Welche Nutzung: bemannte Forschung, In-Space-Manufacturing, Tourismus, Wartungs-/Service-Mission?

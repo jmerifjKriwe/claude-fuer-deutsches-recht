@@ -8,7 +8,7 @@ description: "Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des
 ## Wann dieses Modul hilft
 
 - Erstaufbau eines Verarbeitungsverzeichnisses in der Kanzlei oder im Mandantenunternehmen.
-- Vorlage gegenueber Aufsichtsbehoerde gemaess Art. 30 Abs. 4 DSGVO.
+- Vorlage gegenueber Aufsichtsbehoerde gemäß Art. 30 Abs. 4 DSGVO.
 - Auditvorbereitung; Lueckenanalyse eines bestehenden RoPA.
 - Standardisierung mehrerer Standorte oder Mandantengruppen.
 
@@ -20,15 +20,15 @@ a) Name und Kontaktdaten des Verantwortlichen, ggf. gemeinsam Verantwortlicher, 
 b) Zwecke der Verarbeitung;
 c) Beschreibung der Kategorien betroffener Personen und der Kategorien personenbezogener Daten;
 d) Kategorien von Empfaengern, gegenueber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, einschliesslich Empfaenger in Drittlaendern oder internationalen Organisationen;
-e) ggf. Uebermittlungen in ein Drittland oder an eine internationale Organisation, einschliesslich der Angabe des betreffenden Drittlands sowie bei Uebermittlungen gemaess Art. 49 Abs. 1 Unterabs. 2 DSGVO Dokumentierung der geeigneten Garantien;
-f) wenn moeglich, vorgesehene Fristen für die Loeschung der verschiedenen Datenkategorien;
-g) wenn moeglich, allgemeine Beschreibung der TOMs gemaess Art. 32 Abs. 1 DSGVO.
+e) ggf. Uebermittlungen in ein Drittland oder an eine internationale Organisation, einschliesslich der Angabe des betreffenden Drittlands sowie bei Uebermittlungen gemäß Art. 49 Abs. 1 Unterabs. 2 DSGVO Dokumentierung der geeigneten Garantien;
+f) wenn möglich, vorgesehene Fristen für die Loeschung der verschiedenen Datenkategorien;
+g) wenn möglich, allgemeine Beschreibung der TOMs gemäß Art. 32 Abs. 1 DSGVO.
 
 ## Ablauf / Checkliste
 
 1. Deckblatt mit Verantwortlicher-Stammdaten anlegen.
 2. Pro Geschaeftsprozess eine Zeile.
-3. Spalten gemaess Vorlage befuellen.
+3. Spalten gemäß Vorlage befuellen.
 4. Bei Drittlandtransfer Transferinstrument (SCC, DPF, BCR) eintragen.
 5. Loeschfristen konkret, nicht "nach gesetzlichen Vorgaben".
 6. TOMs in eigenes Anhangsdokument; im RoPA Verweis.

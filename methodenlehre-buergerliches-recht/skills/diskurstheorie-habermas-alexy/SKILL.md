@@ -17,15 +17,15 @@ Die Diskurstheorie ist eine moderne Rechtstheorie, die das Recht in den Begruend
 
 Kerngedanke: Eine Norm gilt nicht, weil sie gesetzt ist, sondern weil sie unter Bedingungen rationalen Diskurses Zustimmung finden koennte. Im juristischen Diskurs gelten zusaetzlich besondere Regeln (Gesetzesbindung, Praezedenz-Beruecksichtigung, Dogmatik).
 
-Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argumentation" (1978) ein operationalisierbares Modell vorgelegt: Wie man juristisch korrekt begruendet — nicht nur intuitiv, sondern nach Diskursregeln.
+Für die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argumentation" (1978) ein operationalisierbares Modell vorgelegt: Wie man juristisch korrekt begruendet — nicht nur intuitiv, sondern nach Diskursregeln.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie wollen Ihre Argumentation strenger strukturieren als nach dem klassischen Vierer-Kanon.
-- Sie schreiben in einer offenen Rechtslage und brauchen Begruendungsregeln, die ueber Wertungsjurisprudenz hinausreichen.
-- Sie arbeiten mit Abwaegungsformeln (Verhaeltnismaessigkeit, AGB-Inhaltskontrolle, Grundrechtsabwaegung) und brauchen ein theoretisches Fundament.
+- Sie schreiben in einer offenen Rechtslage und brauchen Begruendungsregeln, die über Wertungsjurisprudenz hinausreichen.
+- Sie arbeiten mit Abwaegungsformeln (Verhältnismäßigkeit, AGB-Inhaltskontrolle, Grundrechtsabwaegung) und brauchen ein theoretisches Fundament.
 - Sie unterrichten Methodenlehre oder Rechtsphilosophie.
-- Sie diskutieren mit Mandanten oder Kollegen ueber die "Richtigkeit" einer juristischen Loesung und brauchen ein dialogisches Modell.
+- Sie diskutieren mit Mandanten oder Kollegen über die "Richtigkeit" einer juristischen Loesung und brauchen ein dialogisches Modell.
 
 ## Methodische Grundlage
 
@@ -41,7 +41,7 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 **Kernthesen Habermas:**
 
-1. **Diskursprinzip.** Gerecht ist eine Norm dann, wenn ihre Folgen und Nebenfolgen, die sich aus ihrer allgemeinen Befolgung für die Befriedigung der Interessen jedes Einzelnen voraussichtlich ergeben, von allen Betroffenen zwanglos akzeptiert werden koennen.
+1. **Diskursprinzip.** Gerecht ist eine Norm dann, wenn ihre Folgen und Nebenfolgen, die sich aus ihrer allgemeinen Befolgung für die Befriedigung der Interessen jedes Einzelnen voraussichtlich ergeben, von allen Betroffenen zwanglos akzeptiert werden können.
 2. **Demokratie- und Rechtsstaatsprinzip.** Recht legitimiert sich durch demokratische Verfahren plus rechtsstaatliche Verbuergungen.
 3. **Kommunikatives Handeln.** Recht ist Diskursprodukt; es entsteht in argumentativen Verfahren (Gesetzgebung, Gerichtsverfahren).
 
@@ -54,9 +54,9 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 ## Anwendung im deutschen Zivilrecht
 
-**Beispiel Verhaeltnismaessigkeit in der mittelbaren Drittwirkung:** Bei der Konkretisierung von § 138 BGB oder § 242 BGB im Lichte von Grundrechten ist eine Abwaegung erforderlich. Alexys Gewichtungsformel liefert Strukturierungshilfe: Wie intensiv ist der Eingriff in eine Position, wie intensiv der Schutz für die andere?
+**Beispiel Verhältnismäßigkeit in der mittelbaren Drittwirkung:** Bei der Konkretisierung von § 138 BGB oder § 242 BGB im Lichte von Grundrechten ist eine Abwaegung erforderlich. Alexys Gewichtungsformel liefert Strukturierungshilfe: Wie intensiv ist der Eingriff in eine Position, wie intensiv der Schutz für die andere?
 
-**Beispiel AGB-Inhaltskontrolle (§ 307 BGB):** Die "Unangemessenheit" ist abwaegungsoffener Begriff. Diskurstheoretisch: Welche Klausel koennte ein rationaler Verbraucher unter Gleichgewichtsbedingungen akzeptieren? Diese Frage ist nicht trivial zu beantworten, aber sie strukturiert die Pruefung.
+**Beispiel AGB-Inhaltskontrolle (§ 307 BGB):** Die "Unangemessenheit" ist abwaegungsoffener Begriff. Diskurstheoretisch: Welche Klausel koennte ein rationaler Verbraucher unter Gleichgewichtsbedingungen akzeptieren? Diese Frage ist nicht trivial zu beantworten, aber sie strukturiert die Prüfung.
 
 **Beispiel Vertragsauslegung (§§ 133, 157 BGB):** Empfaengerhorizont-Auslegung kann diskurstheoretisch begruendet werden: Welche Bedeutung wuerde ein rationaler Empfaenger der Erklaerung beimessen, der die relevanten Umstaende kennt?
 

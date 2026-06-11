@@ -21,10 +21,10 @@ description: "Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuh
 
 ## Erste Schritte
 
-1. Gueter und Bestimmungslaender bestimmen; AGGs EU001-EU008 auf Anwendbarkeit pruefen.
-2. Ausschlusslisten der AGGs pruefen: Gueter und Länder, die explizit ausgeschlossen sind.
-3. ICP-Anforderungen für globale Einzelgenehmigung bei BAFA pruefen.
-4. BAFA-Antrag ueber ELAN-K2 aufbereiten: Gueter, Länder, Werte, ICP-Nachweis.
+1. Gueter und Bestimmungslaender bestimmen; AGGs EU001-EU008 auf Anwendbarkeit prüfen.
+2. Ausschlusslisten der AGGs prüfen: Gueter und Länder, die explizit ausgeschlossen sind.
+3. ICP-Anforderungen für globale Einzelgenehmigung bei BAFA prüfen.
+4. BAFA-Antrag über ELAN-K2 aufbereiten: Gueter, Länder, Werte, ICP-Nachweis.
 5. Berichtspflichten bei Nutzung von AGG und globaler Genehmigung planen (Jahresbericht BAFA).
 6. Genehmigungsnutzungs-Protokoll für jede Sendung fuehren.
 
@@ -49,7 +49,7 @@ description: "Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuh
 
 - AGG EU001 und EU002 haben lange Ausschlusslisten für Länder; UAE, Tuerkei oft ausgeschlossen.
 - Berichtspflichten nicht erfuellt; BAFA kann Genehmigung entziehen.
-- Nutzungsprotokoll fehlt; bei Pruefung Nachweis nicht moeglich.
+- Nutzungsprotokoll fehlt; bei Prüfung Nachweis nicht möglich.
 - Globale Genehmigung abgelaufen; Zeitlucke zwischen altem und neuem Antrag.
 
 ## Schnittstellen zu anderen Skills

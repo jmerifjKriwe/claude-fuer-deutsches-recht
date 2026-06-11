@@ -16,7 +16,7 @@ description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem refor
 1. Welches Modell gilt — Bundesmodell oder ein Ländermodell?
 2. Wo liegen die Beanstandungen — Bodenrichtwert Wohnflaeche Mietniveaustufe?
 3. Ist Einspruch gegen Wertbescheid Messbescheid oder Grundsteuerbescheid einschlaegig?
-4. Soll AdV beantragt werden (regelmaessig Aussicht angesichts BFH-Beschluesse)?
+4. Soll AdV beantragt werden (regelmaessig Aussicht angesichts BFH-Beschlüsse)?
 5. Verfassungsbeschwerde — Musterverfahren bereits anhaengig?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 

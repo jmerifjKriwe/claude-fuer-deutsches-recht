@@ -5,7 +5,7 @@ description: Padlet-Tafel im Shelf-Format mit den vier Spalten Legitimer Zweck, 
 
 # Echte Padlet-Tafel anlegen, nicht nur vorschlagen
 
-> **Arbeite auf ein echtes Padlet hin, nicht nur auf eine Beschreibung.** Wenn keiner der unten genannten Wege funktioniert, wird das ehrlich benannt und es wird **konkret** gefragt, welcher Weg gewaehlt werden soll. Es wird **nie** ein selbst gerendertes Shelf-Board als Ersatz fuer ein echtes Padlet ausgegeben.
+> **Arbeite auf ein echtes Padlet hin, nicht nur auf eine Beschreibung.** Wenn keiner der unten genannten Wege funktioniert, wird das ehrlich benannt und es wird **konkret** gefragt, welcher Weg gewaehlt werden soll. Es wird **nie** ein selbst gerendertes Shelf-Board als Ersatz für ein echtes Padlet ausgegeben.
 
 ## Pfad 1: Padlet Public API v1 (bevorzugt)
 
@@ -13,11 +13,11 @@ Padlet betreibt eine offizielle REST-API. Voraussetzung ist ein bezahltes Padlet
 
 **Schritte:**
 
-1. **API-Key beschaffen.** Pruefen, ob unter den eigenen Custom-Credentials bereits ein Eintrag `padlet.com` vorhanden ist. Wenn ja, wird er ueber `api_credentials=["custom-cred:padlet.com"]` automatisch als Bearer-Token gesetzt. Wenn nein: einmalig in der Computer-Oberflaeche unter Einstellungen → Custom Credentials → Add ablegen.
+1. **API-Key beschaffen.** Prüfen, ob unter den eigenen Custom-Credentials bereits ein Eintrag `padlet.com` vorhanden ist. Wenn ja, wird er über `api_credentials=["custom-cred:padlet.com"]` automatisch als Bearer-Token gesetzt. Wenn nein: einmalig in der Computer-Oberflaeche unter Einstellungen → Custom Credentials → Add ablegen.
 2. **Board anlegen.** Aktuell legt die Public API v1 noch keine ganzen Boards an, sondern nur Posts auf bestehenden Boards. Das leere Shelf-Board mit den vier Spalten muss daher vorab existieren. Wenn noch keines da ist: in der eigenen Padlet-Oberflaeche neues Padlet → Format "Shelf" → vier Spalten benennen ("Legitimer Zweck", "Geeignetheit", "Erforderlichkeit", "Angemessenheit") → Board-ID aus der URL kopieren.
-3. **Posts erstellen** ueber den Endpoint `POST /api/1/boards/{boardId}/posts`. Pro Karte ein Aufruf. Felder: `subject`, `body`, `section` (= Spaltenname oder Spalten-ID), Farbe per `color`-Attribut oder Tag.
-4. **Sektion zuordnen.** Die Spalten heissen in der API "Sections". Die Section-IDs erhaelt man ueber `GET /api/1/boards/{boardId}` aus dem `sections`-Array.
-5. **Antwort pruefen.** Bei HTTP 201 die zurueckgegebene Post-ID festhalten, damit Aenderungen oder Loeschungen moeglich sind.
+3. **Posts erstellen** über den Endpoint `POST /api/1/boards/{boardId}/posts`. Pro Karte ein Aufruf. Felder: `subject`, `body`, `section` (= Spaltenname oder Spalten-ID), Farbe per `color`-Attribut oder Tag.
+4. **Sektion zuordnen.** Die Spalten heissen in der API "Sections". Die Section-IDs erhaelt man über `GET /api/1/boards/{boardId}` aus dem `sections`-Array.
+5. **Antwort prüfen.** Bei HTTP 201 die zurueckgegebene Post-ID festhalten, damit Aenderungen oder Loeschungen möglich sind.
 
 **Beispiel als Pseudo-Curl** (api_credentials uebernehmen das Authorization-Header-Setting):
 
@@ -35,14 +35,14 @@ Content-Type: application/json
 
 ## Pfad 2: Eingeloggter Browser (Fallback ohne API-Key)
 
-Wenn kein API-Key verfuegbar ist oder kein Padlet-Abo besteht, das Padlet ueber die eingeloggte Browser-Session anlegen.
+Wenn kein API-Key verfuegbar ist oder kein Padlet-Abo besteht, das Padlet über die eingeloggte Browser-Session anlegen.
 
 **Schritte:**
 
 1. `browser_task` mit `use_local_browser.local=true` und `url=https://padlet.com` starten.
-2. Im Padlet-Dashboard "Make a Padlet" -> Format "Shelf" -> Titel "Verhaeltnismaessigkeit Stufenpruefung" setzen.
+2. Im Padlet-Dashboard "Make a Padlet" -> Format "Shelf" -> Titel "Verhältnismäßigkeit Stufenpruefung" setzen.
 3. Vier Spalten benennen: "1 · Legitimer Zweck", "2 · Geeignetheit", "3 · Erforderlichkeit", "4 · Angemessenheit".
-4. Karten je Stufe per Plus-Button anlegen, Farbe ueber das Karten-Menue setzen.
+4. Karten je Stufe per Plus-Button anlegen, Farbe über das Karten-Menue setzen.
 5. Sichtbarkeit auf "secret link" oder "private" stellen.
 6. Geteilten Link aus dem Share-Panel ausgeben.
 
@@ -63,7 +63,7 @@ Inhalt: oeffentliche Sicherheit und Marktentzerrung; Schranke einfach
 Quellen: Apotheken-Urteil BVerfGE 7, 377
 ```
 
-3. **Hinweis** an den User: ein Padlet-CSV-Import fuer Posts existiert nicht; die offizielle Backpack-Funktion importiert nur ganze Padlets von einer Padlet-Instanz in eine andere.
+3. **Hinweis** an den User: ein Padlet-CSV-Import für Posts existiert nicht; die offizielle Backpack-Funktion importiert nur ganze Padlets von einer Padlet-Instanz in eine andere.
 
 ## Spaltenstruktur und Karten-Vorlage
 
@@ -111,6 +111,6 @@ Die ASCII-Vorschau wird **zusaetzlich** zum echten Padlet ausgegeben, damit der 
 
 ## Verwandt
 
-- `stufenbaum-ascii-art` fuer die druckbare Stufen-Visualisierung.
-- `mermaid-flowchart-pruefung` fuer das Flussdiagramm.
-- `ascii-pruefungsschema` fuer die kompakte Tabellenvariante.
+- `stufenbaum-ascii-art` für die druckbare Stufen-Visualisierung.
+- `mermaid-flowchart-pruefung` für das Flussdiagramm.
+- `ascii-pruefungsschema` für die kompakte Tabellenvariante.

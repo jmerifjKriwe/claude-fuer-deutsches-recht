@@ -27,7 +27,7 @@ description: "Franchise: Mindestumsatzklauseln und Territorialschutz. Skill beha
 - Franchisenehmer verpflichtet sich zu Mindestumsatz oder Mindestkundenanzahl.
 - Konsequenz bei Nichterreichen: Vertragsstrafe, Kuendigung, Territorialgrenzenreduktion.
 
-### Kartellrechtliche Pruefung
+### Kartellrechtliche Prüfung
 - Hardcore-Beschraenkung wenn Mindestumsatz mit Mindestpreisbindung verknuepft.
 - Marktanteilsschwelle der Vertikal-GVO und Gruppenfreistellungsvoraussetzungen live prüfen.
 - Mindestumsatz darf Leistungsanreiz sein, aber keine verdeckte Preisbindung, Marktabschottung oder unverhältnismäßige Kündigungsfalle.
@@ -50,7 +50,7 @@ description: "Franchise: Mindestumsatzklauseln und Territorialschutz. Skill beha
 ## Pruefraster
 
 1. Mindestumsatz konkret beziffert?
-2. Territorialschutz ausschliesslich oder beschraenkend?
+2. Territorialschutz ausschließlich oder beschraenkend?
 3. VBE-Konformitaet?
 4. Verbraucherrechte-Konflikt?
 5. Gibt es Ramp-up, Standortreife, saisonale Schwankung und lokale Behördenschließung?

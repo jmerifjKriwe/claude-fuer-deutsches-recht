@@ -3,7 +3,7 @@ name: widerrufsrecht-und-erloeschen-pruefen
 description: "Verbraucherschutzrecht Prüfer: Widerrufsrecht und Erlöschen prüfen. Widerrufsrecht und Erlöschen prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
-# Widerrufsrecht Und Erloeschen Pruefen
+# Widerrufsrecht Und Erloeschen Prüfen
 
 ## Arbeitsweg
 

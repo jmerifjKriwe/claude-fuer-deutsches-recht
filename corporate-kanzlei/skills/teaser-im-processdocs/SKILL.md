@@ -128,7 +128,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 | Dokument | Inhalt | Vertraulichkeit | Zeitpunkt |
 |---|---|---|---|
-| Teaser (anonym) | Branche, Groesse, EBITDA-Range, USP; kein Name | Oeffentlich / vor NDA | Prozess-Start |
+| Teaser (anonym) | Branche, Groesse, EBITDA-Range, USP; kein Name | Öffentlich / vor NDA | Prozess-Start |
 | NDA | Vertraulichkeit; Rueckgabepflicht; Wettbewerbsschutz | Beiderseits | Vor IM-Versand |
 | Information Memorandum (IM) | Vollstaendige Unternehmensbeschreibung; Finanzkennzahlen; Markt; Strategie; Risiken | Nach NDA | Phase I |
 | Management Presentation | Ausfuehrliche Praesentation; Management-Fragen; Q&A | Shortlist-Bieter | Phase II |
@@ -185,7 +185,7 @@ ANLAGEN (Phase II)
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Abstimmung mit Mandant** — welche Informationen koennen offenbart werden; Vertraulichkeitsgrenzen
+1. **Abstimmung mit Mandant** — welche Informationen können offenbart werden; Vertraulichkeitsgrenzen
 2. **Datenerhebung** — Jahresabschluesse, Management-Interviews, Marktdaten
 3. **Teaser erstellen** — anonym; EBITDA-Range; Branche; USP; 2-3 Seiten
 4. **IM erstellen** — nach NDA; vollstaendig, korrekt; Disclaimer einbauen; Forward-Looking-Warnings
@@ -196,7 +196,7 @@ ANLAGEN (Phase II)
 
 ## Rote Schwellen
 
-- Wesentliche Fehlinformationen im IM → c.i.c.-Haftung § 311 II BGB; Anfechtung moeglich
+- Wesentliche Fehlinformationen im IM → c.i.c.-Haftung § 311 II BGB; Anfechtung möglich
 - Kursrelevante Informationen ohne Ad-hoc → Art. 17 MAR; BaFin-Bussgeld
 - IM ohne Disclaimer → erhoehtes Haftungsrisiko bei fahrlassiger Fehlinformation
 - Verteilung ohne NDA → Vertraulichkeitsverlust; Insider-Probleme

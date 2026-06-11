@@ -28,7 +28,7 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 1. Bodentragfaehigkeitspruefung vor Rammarbeiten: Rammsondierung DPH nach DIN EN ISO 22476-2 alle 100 m rastermaessig, Eindringwiderstand je 10 cm in Rammprotokoll
 2. Einmesskontrolle Pfahlachsen mit Tachymeter: Absteckung Modultischreihen, Toleranz Pfahlachse +-25 mm in Laengs- und Querrichtung, Protokollierung jeder 10. Pfahlposition
 3. Rammprotokoll Einschlagtiefe: Minimale Einbindetiefe 1.6 m unter Gelaende, Stoppkriterium bei Eindringwiderstand groesser 50 Schlaege je 10 cm
-4. Schraubfundament-Pruefung: Drehmomentkontrolle Einschrauben je Anker nach DIN EN 14475, Pruefmoment und Einschraubtiefe protokolliert
+4. Schraubfundament-Prüfung: Drehmomentkontrolle Einschrauben je Anker nach DIN EN 14475, Pruefmoment und Einschraubtiefe protokolliert
 5. Modulklemmen-Anzugsmoment: Hersteller-Vorgabe z.B. 20 Nm bei Schlatter-Klemme, Stichprobenpruefung 5 Prozent der Klemmen je Tischreihe
 6. Erdungsanlage Sichtpruefung und Messung: Erdungsband 50 mm2 Kupfer flaechig verlegt, Erdungswiderstand nach DIN VDE 0100-410 kleiner 1 Ohm je Abschnitt
 
@@ -45,7 +45,7 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 
 1. Rammprotokoll vollstaendig: Pfahlnummer, GPS-Koordinate, Einschraubtiefe, Drehmomentkurve oder Schlagzahl, Unterschrift Ausfuehrender
 2. Stahlkonstruktion-Sichtpruefung: Schweissnaehte a4 nach DIN EN ISO 5817 Qualitaetsklasse C, Korrosionsschutz-Grundierung DIN EN ISO 12944
-3. Kabelverlegung: Grabentiefe 0.8 m, Sandschicht 10 cm ueber Kabel, Trennfolie rot, Abdeckplatten, Tiefbauprotokoll
+3. Kabelverlegung: Grabentiefe 0.8 m, Sandschicht 10 cm über Kabel, Trennfolie rot, Abdeckplatten, Tiefbauprotokoll
 4. Trafostation-Aufstellung: Bodenplatte eben Toleranz +-5 mm, Oelrueckhaltewanne, Abstand Zaun 1 m nach TAB
 5. Isolationswiderstand: Kabel und Strings nach DIN VDE 0276-620, Mindest 1 MOhm je 100 m Kabellaenge je Stringgruppe
 6. Netzanschluss-Abnahme Netzbetreiber: TAB-Abnahme, Schutzkonzept Ueberstromschutz und Inselfallschutz, Protokoll BNetzA-Meldung
@@ -75,7 +75,7 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 
 ## Hinweise zur Qualitaetssicherung
 
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
+- Alle Abnahmeprotokolle müssen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
 - Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
 - Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
 

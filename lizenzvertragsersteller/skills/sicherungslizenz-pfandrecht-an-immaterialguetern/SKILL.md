@@ -10,8 +10,8 @@ description: "Sicherungslizenz und Pfandrecht an Immaterialguetern: Verpfaendung
 | Fall | Konstellation |
 |---|---|
 | **Akquisitionsfinanzierung** | Bank gibt Kredit gegen Verpfaendung der IP des Unternehmens |
-| **Bridge-Finanzierung Start-up** | IP des Start-ups als Sicherheit fuer Investorenkredit |
-| **Konzernfinanzierung** | IP-Holding verpfaendet IP fuer Konzerndarlehen |
+| **Bridge-Finanzierung Start-up** | IP des Start-ups als Sicherheit für Investorenkredit |
+| **Konzernfinanzierung** | IP-Holding verpfaendet IP für Konzerndarlehen |
 
 ## Strukturen
 
@@ -21,13 +21,13 @@ description: "Sicherungslizenz und Pfandrecht an Immaterialguetern: Verpfaendung
 |---|---|
 | Patent | Eintragung im Patentrolle; Anzeigepflicht DPMA |
 | Marke | Eintragung im Markenregister DPMA |
-| Urheberrecht | Verpfaendung formlos moeglich; aber ohne Eintragung schwach |
+| Urheberrecht | Verpfaendung formlos möglich; aber ohne Eintragung schwach |
 | Geschmacksmuster | Eintragung DPMA |
 | Geschaeftsgeheimnis | nicht eintragbar; Verpfaendung schwierig (Bekannmachung gefaehrdet Geheimnis) |
 
 ### B. Sicherungsabtretung (uebertragender Sicherheit)
 
-Voll-Uebertragung des IP an den Sicherheitennehmer; aufschiebend bedingt durch Tilgung des gesicherten Kredits. Im Insolvenzfall: Sicherheitennehmer ist Eigentuemer, kein $ 103 InsO.
+Voll-Uebertragung des IP an den Sicherheitennehmer; aufschiebend bedingt durch Tilgung des gesicherten Kredits. Im Insolvenzfall: Sicherheitennehmer ist Eigentümer, kein $ 103 InsO.
 
 ### C. Sicherungslizenz (aufschiebend bedingt)
 
@@ -41,7 +41,7 @@ Bedingte Lizenz; tritt bei Eintritt des Sicherungsfalls automatisch in Kraft.
 >
 > (2) Der Sicherheitengeber ist berechtigt, das Sicherheitspatent waehrend des Bestehens der gesicherten Forderung weiterhin in eigenem Namen zu nutzen, zu pflegen, Verlaengerungsgebuehren zu entrichten und Lizenzen an Dritte zu vergeben. Bei Lizenzvergabe an Dritte wird der Sicherheitennehmer rechtzeitig informiert.
 >
-> (3) Sicherungsfall liegt vor, wenn (a) der Sicherheitengeber mit der Zahlung der gesicherten Forderung in Verzug ist und nach Mahnung mit Fristsetzung von 14 Tagen nicht erfuellt, (b) ein Insolvenzverfahren ueber das Vermoegen des Sicherheitengebers eroeffnet wird, oder (c) das Sicherheitspatent aufgrund pflichtwidrigen Verhaltens des Sicherheitengebers (Nicht-Zahlung Verlaengerungsgebuehren) in Gefahr geraet.
+> (3) Sicherungsfall liegt vor, wenn (a) der Sicherheitengeber mit der Zahlung der gesicherten Forderung in Verzug ist und nach Mahnung mit Fristsetzung von 14 Tagen nicht erfuellt, (b) ein Insolvenzverfahren über das Vermögen des Sicherheitengebers eroeffnet wird, oder (c) das Sicherheitspatent aufgrund pflichtwidrigen Verhaltens des Sicherheitengebers (Nicht-Zahlung Verlaengerungsgebuehren) in Gefahr geraet.
 >
 > (4) Im Sicherungsfall wird die Abtretung wirksam. Der Sicherheitennehmer ist berechtigt, das Sicherheitspatent zu verwerten. Die Verwertung erfolgt zu marktueblichen Konditionen; ein Erlos, der die gesicherte Forderung uebersteigt, wird dem Sicherheitengeber ausgekehrt.
 >
@@ -49,7 +49,7 @@ Bedingte Lizenz; tritt bei Eintritt des Sicherungsfalls automatisch in Kraft.
 
 ## Eintragung DPMA
 
-Sicherungsabtretung an Patenten ist im DPMA-Patentregister eintragbar (deklaratorisch, aber wichtig fuer Sukzessionsschutz). Antrag durch beide Parteien; Kosten typischerweise Sicherheitennehmer.
+Sicherungsabtretung an Patenten ist im DPMA-Patentregister eintragbar (deklaratorisch, aber wichtig für Sukzessionsschutz). Antrag durch beide Parteien; Kosten typischerweise Sicherheitennehmer.
 
 ## Verhaeltnis zu Bestehender Lizenz
 

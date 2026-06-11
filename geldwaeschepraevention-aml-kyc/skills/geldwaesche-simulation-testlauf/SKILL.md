@@ -25,7 +25,7 @@ description: "Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verd
 ## Zentrale Normen
 - § 4 GwG — Interne Sicherungsmaßnahmen: regelmässige Wirksamkeitspruefung eingeschlossen
 - § 6 Abs. 2 Nr. 1 GwG — Geldwaeschebeauftragter hat Testverantwortung
-- BaFin AuA GwG Abschn. 4 — Pruefung der Wirksamkeit interner Maßnahmen
+- BaFin AuA GwG Abschn. 4 — Prüfung der Wirksamkeit interner Maßnahmen
 - FATF Recommendation 18 — Testing of Internal Controls
 
 ## Wann verwenden

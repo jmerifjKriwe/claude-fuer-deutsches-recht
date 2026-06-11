@@ -19,15 +19,15 @@ Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 
 
 ## Mandantenfall
 
-- Unternehmen hat uber Jahre Waren unter falscher KN-Nummer eingereiht; Nachzahlung und Strafbarkeit pruefen.
-- BAFA entdeckt bei Pruefung ungenehmigten Export von Dual-Use-Gut; Selbstanzeige erwagen.
+- Unternehmen hat uber Jahre Waren unter falscher KN-Nummer eingereiht; Nachzahlung und Strafbarkeit prüfen.
+- BAFA entdeckt bei Prüfung ungenehmigten Export von Dual-Use-Gut; Selbstanzeige erwagen.
 - Zollfahndung ermittelt wegen Schmuggel; Verteidigungsstrategie und Schadensbegrenzung.
 
 ## Erste Schritte
 
 1. Sachverhalt vollstaendig rekonstruieren: Zeitraum betroffene Waren Verfahren und Beteiligte.
 2. Strafbarkeit einordnen: § 18 AWG (vorsaetzlicher Verstoss) oder Ordnungswidrigkeit (§ 19 AWG)?
-3. Selbstkorrektur-Option pruefen: § 22 Abs. 4 AWG für Exportkontrolle; § 22 ZollVG für Zoll.
+3. Selbstkorrektur-Option prüfen: § 22 Abs. 4 AWG für Exportkontrolle; § 22 ZollVG für Zoll.
 4. Schadenspotenzial quantifizieren: Zollnacherhebung Zinsen Bussgelder und moegliche Strafbarkeit.
 5. Anwalt und ggf. Steuerberater einschalten; Legal Hold einrichten.
 6. Selbstkorrektur-Schreiben mit vollstaendiger Offenlegung und Schadensbehebungskonzept vorbereiten.
@@ -52,9 +52,9 @@ Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 
 ## Typische Fallstricke
 
 - Selbstkorrektur muss vollstaendig sein; teilweise Offenlegung verschlimmert die Situation.
-- Selbstanzeige wirkt nicht strafbefreiend wenn BAFA-Pruefung bereits eingeleitet.
+- Selbstanzeige wirkt nicht strafbefreiend wenn BAFA-Prüfung bereits eingeleitet.
 - Keine Selbstkorrektur ohne vorherige rechtliche Beratung; Reihenfolge entscheidend.
-- Konzernweite Implikationen: Andere Konzerneinheiten muessen einbezogen werden.
+- Konzernweite Implikationen: Andere Konzerneinheiten müssen einbezogen werden.
 
 ## Schnittstellen zu anderen Skills
 

@@ -84,14 +84,14 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — MOD-Erklaerung Urheberrecht | MOD-Erklaerung; Template unten |
 | Variante A — Kein Eingriff ins Urheberrecht | Erklaerung entfaellt; nur Begleitschreiben |
-| Variante B — Werbeabsicht streitig | Freie Benutzung § 24 UrhG a.F. / § 23 UrhG n.F. pruefen |
-| Variante C — Open-Source-Lizenz betroffen | GPL/LGPL-Kompatibilitaet pruefen; MOD-Erklaerung anpassen |
+| Variante B — Werbeabsicht streitig | Freie Benutzung § 24 UrhG a.F. / § 23 UrhG n.F. prüfen |
+| Variante C — Open-Source-Lizenz betroffen | GPL/LGPL-Kompatibilitaet prüfen; MOD-Erklaerung anpassen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -232,7 +232,7 @@ des Klägers nachweisbar]
 [Ort, Datum, Unterschrift Kanzlei]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

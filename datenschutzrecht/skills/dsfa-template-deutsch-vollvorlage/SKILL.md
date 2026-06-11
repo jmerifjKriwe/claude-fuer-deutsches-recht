@@ -7,7 +7,7 @@ description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuell
 
 ## Wann dieses Modul hilft
 
-- Wenn die Trigger-Pruefung ergeben hat, dass eine DSFA durchzufuehren ist
+- Wenn die Trigger-Prüfung ergeben hat, dass eine DSFA durchzufuehren ist
 - Wenn ein Hausformat fehlt und ein kanzleitaugliches Standardformat benoetigt wird
 - Wenn die Aufsichtsbehoerde eine schriftliche DSFA anfordert
 - Vor Vorabkonsultation nach Art. 36 DSGVO
@@ -16,7 +16,7 @@ description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuell
 
 - Art. 35 Abs. 7 DSGVO Mindestinhalte:
  - lit. a systematische Beschreibung der Verarbeitungsvorgaenge und Zwecke
- - lit. b Bewertung der Notwendigkeit und Verhaeltnismaessigkeit
+ - lit. b Bewertung der Notwendigkeit und Verhältnismäßigkeit
  - lit. c Bewertung der Risiken für die Rechte und Freiheiten der Betroffenen
  - lit. d Abhilfemassnahmen mit Garantien und Sicherheitsvorkehrungen
 - Art. 35 Abs. 2 DSGVO DSB-Anhörung.
@@ -29,7 +29,7 @@ description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuell
 1. **Verarbeitungsbeschreibung.** Sektion 1 der Vorlage befuellen.
 2. **Verhaeltnismaessigkeitspruefung.** Sektion 2.
 3. **Risikoanalyse.** Sektion 3 mit Risikomatrix.
-4. **Massnahmen.** Sektion 4.
+4. **Maßnahmen.** Sektion 4.
 5. **Restrisiko.** Sektion 5.
 6. **Konsultation / Genehmigung.** Sektion 6 mit Unterschriften.
 
@@ -171,10 +171,10 @@ Trigger für ausserplanmäßige Pruefung: [Aenderung Datenarten / Empfaenger / T
 ## Typische Fehler
 
 - Vorlage wird verwendet, ohne den Datenfluss konkret zu beschreiben — Sektion 1 bleibt floskelhaft.
-- Verhaeltnismaessigkeit wird auf Rechtsgrundlage reduziert — Datenminimierung und Speicherbegrenzung werden uebersehen.
+- Verhältnismäßigkeit wird auf Rechtsgrundlage reduziert — Datenminimierung und Speicherbegrenzung werden uebersehen.
 - Risikoszenarien werden nur für Vertraulichkeit gepflegt, andere Schutzziele bleiben leer.
-- Massnahmen-Tabelle ohne Verantwortliche und Fristen — nicht steuerbar.
-- DSB unterschreibt nicht oder spaeter — Beweisluecke.
+- Maßnahmen-Tabelle ohne Verantwortliche und Fristen — nicht steuerbar.
+- DSB unterschreibt nicht oder später — Beweisluecke.
 - Versionierung fehlt — bei Aenderung nicht nachvollziehbar.
 
 ## Quellen Stand 06/2026

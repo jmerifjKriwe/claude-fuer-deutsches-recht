@@ -14,14 +14,14 @@ description: "Heranfuehrung Ressort BMWE (Bundesministerium für Wirtschaft und 
 - **Kuerzel:** BMWE
 - **Hausleitung Stand 2026:** Katherina Reiche (CDU)
 - **Dienstsitz:** Scharnhorststr. 34-37; 10115 Berlin; Zweitsitz Villemombler Str. 76; 53123 Bonn
-- **Schwerpunkt:** Energie und Netze; Erneuerbare; Industriepolitik; Aussenwirtschaft; Wettbewerb.
+- **Schwerpunkt:** Energie und Netze; Erneuerbare; Industriepolitik; Außenwirtschaft; Wettbewerb.
 - **Kernnormen im Geschaeftsbereich:** EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV.
 
 ## Materie auf einer Seite
 
 ### Worum geht es sachlich
 
-Energie und Netze; Erneuerbare; Industriepolitik; Aussenwirtschaft; Wettbewerb. Dieses Ressort ist nicht primaer Politik; es ist sachverstaendige Verwaltung
+Energie und Netze; Erneuerbare; Industriepolitik; Außenwirtschaft; Wettbewerb. Dieses Ressort ist nicht primaer Politik; es ist sachverstaendige Verwaltung
 einer Lebenswelt - Behörden; Verbaende; technische Regeln; europaeische Rechtsakte und
 Vollzugspraxis greifen ineinander.
 
@@ -34,7 +34,7 @@ Vollzugspraxis greifen ineinander.
 - **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
 - **EU-Ebene** (Generaldirektion und Ratsformation)
 
-### Welche Normen muss man lesen koennen
+### Welche Normen muss man lesen können
 
 EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV.
 
@@ -46,22 +46,22 @@ gerichts-Linie und BVerwG-Linie.
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
  konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Ländern oder nachgeordneten Behörden;
- Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen müssen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
  (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
- pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ prüfen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
 - `legw-bmwe-energie-und-netzregulierung-enwg` - Energierecht und Netzregulierung (EnWG)
 - `legw-bmwe-erneuerbare-energien-eeg-windbg` - Erneuerbare Energien (EEG; WindBG)
 - `legw-bmwe-industriepolitik-foerderrecht-und-beihilfen` - Industriepolitik; Foerderrecht; EU-Beihilfen
-- `legw-bmwe-aussenwirtschaft-und-investitionspruefung` - Aussenwirtschaft und Investitionspruefung
+- `legw-bmwe-aussenwirtschaft-und-investitionspruefung` - Außenwirtschaft und Investitionspruefung
 - `legw-bmwe-wettbewerb-und-kartellrecht-gwb` - Wettbewerbsrecht und Kartellrecht (GWB)
 
 Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Pruefpfad und
-Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau diese Skills ein.
+Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich über genau diese Skills ein.
 
 ## Stolpersteine - die fuenf haeufigsten
 

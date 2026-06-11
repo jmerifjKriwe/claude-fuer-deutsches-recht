@@ -7,13 +7,13 @@ description: "Selbstcheck der Erfolgsaussichten einer Klage vor dem Amtsgericht.
 
 ## Worum geht es?
 
-Klage ist die schaerfste Form der Konfliktloesung. Sie kostet Geld, Zeit und Nerven. Bevor Sie klagen, sollten Sie ehrlich pruefen: Habe ich Aussicht? Kann ich den Anspruch beweisen? Lohnt sich der Aufwand? Diese Skill ist ein strukturiertes Selbst-Interview. Beantworten Sie alle Fragen ehrlich — wenn zu viele Punkte schlecht aussehen, sollten Sie Alternativen pruefen oder einen Anwalt einschalten.
+Klage ist die schaerfste Form der Konfliktloesung. Sie kostet Geld, Zeit und Nerven. Bevor Sie klagen, sollten Sie ehrlich prüfen: Habe ich Aussicht? Kann ich den Anspruch beweisen? Lohnt sich der Aufwand? Diese Skill ist ein strukturiertes Selbst-Interview. Beantworten Sie alle Fragen ehrlich — wenn zu viele Punkte schlecht aussehen, sollten Sie Alternativen prüfen oder einen Anwalt einschalten.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie ueberlegen, jemanden zu verklagen.
 - Sie haben aussergerichtlich gemahnt, aber nichts erhalten.
-- Sie sind aufgebracht und wollen klare Schritte pruefen.
+- Sie sind aufgebracht und wollen klare Schritte prüfen.
 - Sie wollen Kostenrisiko vs. Erfolgsaussicht abwaegen.
 
 ## Fachbegriffe (kurz erklaert)
@@ -35,13 +35,13 @@ Klage ist die schaerfste Form der Konfliktloesung. Sie kostet Geld, Zeit und Ner
 
 ### Schritt 1 — Anspruchsgrundlage benennen
 
-Koennen Sie in einem Satz sagen, **warum** Sie Geld bekommen sollen?
+Können Sie in einem Satz sagen, **warum** Sie Geld bekommen sollen?
 
 - "Aus Kaufvertrag, weil ich die Ware geliefert habe und der Kaeufer nicht gezahlt hat" — § 433 II BGB.
 - "Aus Schadensersatz, weil mein Auto bei einem Unfall beschaedigt wurde" — § 7 StVG, § 823 BGB.
 - "Aus Bereicherung, weil ich versehentlich an die falsche IBAN ueberwiesen habe" — § 812 BGB.
 
-Wenn Sie das nicht koennen: Skill `anspruchsgrundlage-finden-laienhilfe`.
+Wenn Sie das nicht können: Skill `anspruchsgrundlage-finden-laienhilfe`.
 
 ### Schritt 2 — Tatbestandsmerkmale durchgehen
 
@@ -52,7 +52,7 @@ Jede Anspruchsgrundlage hat Voraussetzungen ("Tatbestandsmerkmale"). Beispiel §
 - Der Kaufpreis ist faellig.
 - Der Kaeufer hat nicht gezahlt.
 
-Pruefen Sie **jedes** Merkmal: Koennen Sie es beweisen? Mit was?
+Prüfen Sie **jedes** Merkmal: Können Sie es beweisen? Mit was?
 
 ### Schritt 3 — Beweismittel kalibrieren
 
@@ -64,7 +64,7 @@ Pruefen Sie **jedes** Merkmal: Koennen Sie es beweisen? Mit was?
 
 Skill `beweismittel-vorab-sammeln-checkliste`, `beweislast-grundregel-wer-was`.
 
-### Schritt 4 — Verjährung pruefen
+### Schritt 4 — Verjährung prüfen
 
 Forderung verjaehrt? Skill `verjaehrungsfrist-pruefen-195-bgb`. Bei Verjährung: Anspruch besteht zwar, aber Schuldner kann verweigern (= klage faktisch sinnlos).
 
@@ -78,7 +78,7 @@ Bei Streitwert 3.000 EUR:
 
 Im Niederlagefall zahlen Sie also schnell mehr als 1.000 EUR. Skill `kostenrisiko-streitwert-berechnen-gkg`.
 
-### Schritt 6 — Bonitaet der Gegenseite pruefen
+### Schritt 6 — Bonitaet der Gegenseite prüfen
 
 Selbst wenn Sie gewinnen: Bekommen Sie das Geld? Bei Insolvenz/Vermoegenslosigkeit haben Sie zwar einen Titel, aber nichts zu vollstrecken. Hinweise auf schlechte Bonitaet:
 
@@ -88,7 +88,7 @@ Selbst wenn Sie gewinnen: Bekommen Sie das Geld? Bei Insolvenz/Vermoegenslosigke
 
 Schauen Sie ins Schuldnerverzeichnis (§ 882f ZPO) bei der Vollstreckungsbehoerde.
 
-### Schritt 7 — Alternative pruefen
+### Schritt 7 — Alternative prüfen
 
 - **Aussergerichtliche Mahnung**: oft genug, um zu zahlen. Skill `aussergerichtliche-mahnung-286-bgb`.
 - **Mahnverfahren §§ 688 ff. ZPO**: schneller und billiger als Klage. Skill `mahnverfahren-688-ff-zpo-vor-klage`.
@@ -105,12 +105,12 @@ Beantworten Sie:
 - Ist die Gegenseite voraussichtlich liquide? Ja/Nein/Unklar.
 - Lohnt sich der Aufwand im Verhaeltnis zum Streitwert? Ja/Nein.
 
-Wenn Sie mehr als 2x "Nein/Unklar" haben: pause — pruefen Sie nochmal mit der Rechtsantragsstelle oder einem Anwalt.
+Wenn Sie mehr als 2x "Nein/Unklar" haben: pause — prüfen Sie nochmal mit der Rechtsantragsstelle oder einem Anwalt.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Klage als emotionale Reaktion** ist meistens schlecht. Lassen Sie 1 Woche zwischen Streitenstuende und Klage-Entschluss vergehen.
-- **Beweislast nicht unterschaetzen**: "Ich weiss doch, dass das passiert ist" reicht nicht. Sie muessen es **beweisen**.
+- **Beweislast nicht unterschaetzen**: "Ich weiss doch, dass das passiert ist" reicht nicht. Sie müssen es **beweisen**.
 - **Kosten der Gegenseite**: Wenn Gegenseite einen Anwalt nimmt, zahlen Sie bei Niederlage dessen Honorar.
 - **Vollstreckung**: Ein Titel ist nichts wert, wenn nichts zu holen ist.
 

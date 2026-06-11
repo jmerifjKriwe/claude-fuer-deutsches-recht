@@ -38,11 +38,11 @@ description: "Bautraeger-Abnahme formgerecht nach § 640 BGB: Skill klaert das A
 - Beginn der Verjährungsfrist § 634a BGB (5 Jahre für Bauwerk).
 - Umkehr der Beweislast: Erwerber muss spaetere Maengel beweisen.
 - Verguetungspflicht wird faellig.
-- Gefahrtragung geht auf Erwerber ueber.
+- Gefahrtragung geht auf Erwerber über.
 
 ## Förderung Bautraeger zur Abnahme
 
-- Bautraeger draengt oft auf Abnahme, um Verguetung zu erhalten und Maengelhaftungsfrist zu starten.
+- Bautraeger draengt oft auf Abnahme, um Vergütung zu erhalten und Maengelhaftungsfrist zu starten.
 - Erwerber sollte nicht abnehmen, wenn wesentliche Maengel bestehen.
 
 ## Pruefraster

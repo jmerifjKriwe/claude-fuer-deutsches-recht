@@ -23,7 +23,7 @@ description: "Mandant und Verteidigungsstrategie gegen institutionellen Druck sc
 1. Welche Strategie steht zur Debatte (Konfliktverteidigung, Beweisantragsoffensive, Befangenheit, Schweigen, Vergleich)?
 2. Wie ist die Belastbarkeit des Mandanten?
 3. Welche Folgen drohen bei jeder Strategieoption (Untersuchungshaft, Verfahrensdauer, Verfahrensausgang, Kostenrisiko, soziales Umfeld)?
-4. Wie ist die Information ueber Druck des Gerichts an den Mandanten weitergegeben?
+4. Wie ist die Information über Druck des Gerichts an den Mandanten weitergegeben?
 
 ## Aufklaerungspflicht gegenueber dem Mandanten
 
@@ -38,7 +38,7 @@ description: "Mandant und Verteidigungsstrategie gegen institutionellen Druck sc
 
 ## Strategie nicht aus Verteidigerego
 
-- Wenn der Mandant eine pragmatische Loesung will (Verstaendigung § 257c StPO, Adhaesionsverfahren, Einstellung § 153a StPO): das ernst nehmen und nicht die eigene Konfliktlinie ueber das Mandanteninteresse stellen.
+- Wenn der Mandant eine pragmatische Loesung will (Verstaendigung § 257c StPO, Adhaesionsverfahren, Einstellung § 153a StPO): das ernst nehmen und nicht die eigene Konfliktlinie über das Mandanteninteresse stellen.
 - Umgekehrt: wenn der Mandant die harte Linie will, ihn nicht aus Bequemlichkeit zur Verstaendigung draengen.
 
 ## Dokumentation

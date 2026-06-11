@@ -23,8 +23,8 @@ description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen od
 1. **Mandantenrolle:** Widersprechender (Inhaber aelterer Marke) oder Angegriffener (Inhaber juengerer Marke)?
 2. **Behörde:** DPMA (nationale Marke) oder EUIPO (Unionsmarke)?
 3. **Frist gewahrt?** 3 Monate ab Veroeffentlichung (§ 42 Abs. 1 MarkenG / Art. 46 UMV) — bei Verjährung sofort auf Loeschungsklage umstellen.
-4. **Aeltere Marke benutzungsreif?** Wenn Eintragungs-Datum ueber 5 Jahre: Benutzungsnachweis bereithalten (§ 26 MarkenG).
-5. **Verwechslungsgefahr prima facie?** Zeichenaehnlichkeit + Warenaehnlichkeit grob pruefen.
+4. **Aeltere Marke benutzungsreif?** Wenn Eintragungs-Datum über 5 Jahre: Benutzungsnachweis bereithalten (§ 26 MarkenG).
+5. **Verwechslungsgefahr prima facie?** Zeichenaehnlichkeit + Warenaehnlichkeit grob prüfen.
 6. **Bekanntheit der aelteren Marke** (§ 14 Abs. 2 Nr. 3 MarkenG) als zusaetzlicher Hebel?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -111,12 +111,12 @@ Schritt 7: Bei Niederlage — Beschwerde
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Marken-Widerspruch einlegen oder abwehren | Widerspruche-Bausteine und Nichtigkeitsantrag unten |
-| Variante A — Widerspruch fristgerecht moeglich (3 Monate) | Direkt Widerspruche-Bausteine nutzen; Frist absolut |
+| Variante A — Widerspruch fristgerecht möglich (3 Monate) | Direkt Widerspruche-Bausteine nutzen; Frist absolut |
 | Variante B — Frist verpasst | Nichtigkeitsantrag DPMA als Alternative |
 | Variante C — EUIPO-Marke betroffen | EUIPO-Widerspruchsformular nutzen; andere Fristen beachten |
 
@@ -174,7 +174,7 @@ Anlage W2: [Benutzungsnachweise]
 Anlage W3: [Gebührenbeleg]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -188,8 +188,8 @@ Anlage W3: [Gebührenbeleg]
 
 ## Vertiefung: Typische Fehler
 
-1. **Frist 3 Monate verpasst** — kein Widerspruch mehr moeglich (→ Loeschungsklage § 50 MarkenG pruefe)
-2. **Benutzungsnachweis nicht parat** bei aelterer Marke ueber 5 Jahre
+1. **Frist 3 Monate verpasst** — kein Widerspruch mehr möglich (→ Loeschungsklage § 50 MarkenG pruefe)
+2. **Benutzungsnachweis nicht parat** bei aelterer Marke über 5 Jahre
 3. **Klassen-Aehnlichkeit oberflaechlich** — Verwechslungsgefahr falsch eingeschaetzt
 4. **Cooling-off bei EUIPO uebersehen** — Koexistenz-Chance vertan
 5. **Nur klanglich verglichen** — schriftbildliche und begriffliche Unterschiede uebersehen

@@ -26,7 +26,7 @@ description: "§ 30a BtMG: schwerer Banden- und bewaffneter Handel: Verbrechen m
 
 § 30a BtMG ist die hoechste Qualifikation des BtMG. Strafrahmen: Freiheitsstrafe nicht unter fuenf Jahren (Verbrechen, § 12 Abs. 1 StGB). Minder schwerer Fall § 30a Abs. 3: Freiheitsstrafe von sechs Monaten bis zehn Jahren.
 
-Wegen der hohen Mindeststrafe ist § 30a BtMG das wichtigste Ziel der Verteidigungsstrategie: Wenn moeglich, Verschiebung auf § 30 BtMG oder § 29a BtMG anstreben.
+Wegen der hohen Mindeststrafe ist § 30a BtMG das wichtigste Ziel der Verteidigungsstrategie: Wenn möglich, Verschiebung auf § 30 BtMG oder § 29a BtMG anstreben.
 
 ## Tatbestand und Stoffliche Erfassung
 
@@ -67,8 +67,8 @@ Mengen wie § 29a BtMG (BGH-Faustregeln): Heroin 1.5 g HHC, Kokain 5 g KHC, Amph
 |---|---|---|
 | Bandenmitgliedschaft entkraeften | Verschiebung auf § 29a BtMG (ein Jahr Mindeststrafe) | Detail-Rekonstruktion noetig, Gegenpartei-Aussagen |
 | Schusswaffe entkraeften (§ 30a Abs. 2) | Verschiebung auf § 30 BtMG | Aufwendige Beweispruefung |
-| Aufklaerungshilfe § 31 BtMG | Strafrahmenverschiebung § 49 StGB | Belastung Dritter, Zeugenschutzprogramm pruefen |
-| Minder schwerer Fall § 30a Abs. 3 BtMG | Sechs Monate Mindeststrafe, Bewaehrung moeglich | Setzt erhebliche Milderungsgruende voraus |
+| Aufklaerungshilfe § 31 BtMG | Strafrahmenverschiebung § 49 StGB | Belastung Dritter, Zeugenschutzprogramm prüfen |
+| Minder schwerer Fall § 30a Abs. 3 BtMG | Sechs Monate Mindeststrafe, Bewaehrung möglich | Setzt erhebliche Milderungsgruende voraus |
 | Aufklaerungshilfe + minder schwerer Fall kombinieren | Maximale Strafmilderung | Verhandlungsfuehrung mit StA noetig |
 
 ## Konkurrenzen
@@ -76,20 +76,20 @@ Mengen wie § 29a BtMG (BGH-Faustregeln): Heroin 1.5 g HHC, Kokain 5 g KHC, Amph
 - § 29, § 29a, § 30 BtMG zu § 30a BtMG: Spezialitaet, § 30a verdraengt.
 - Im Inneren des § 30a: bei Erfuellung von Abs. 1 und Abs. 2 gleichzeitig Bandentat und Waffenmitfuehren — regelmaessig Tateinheit.
 - Tateinheit zu § 250 StGB (schwerer Raub) bei Drogenraub denkbar.
-- § 261 StGB Geldwaesche tateinheitlich moeglich.
+- § 261 StGB Geldwaesche tateinheitlich möglich.
 
 ## Strafzumessung und Therapie statt Strafe
 
 - § 30a Abs. 1, 2 BtMG: Mindeststrafe fuenf Jahre. Bewaehrung (§ 56 StGB) ausgeschlossen.
-- § 30a Abs. 3 BtMG (minder schwerer Fall): sechs Monate bis zehn Jahre. Bewaehrung bei Strafe bis zwei Jahre wieder moeglich.
+- § 30a Abs. 3 BtMG (minder schwerer Fall): sechs Monate bis zehn Jahre. Bewaehrung bei Strafe bis zwei Jahre wieder möglich.
 - § 31 BtMG (Aufklaerungshilfe): Strafrahmenverschiebung nach § 49 Abs. 1 StGB. Statt Mindeststrafe fuenf Jahre — Mindeststrafe zwei Jahre.
-- Kombination § 30a Abs. 3 + § 31 BtMG: dramatische Strafmilderung moeglich.
+- Kombination § 30a Abs. 3 + § 31 BtMG: dramatische Strafmilderung möglich.
 - § 35 BtMG (Therapie statt Strafe): nur bei Reststrafe bis zwei Jahre — fast nur in minder schweren Faellen erreichbar.
 
 ## Mustertexte
 
 **Antrag minder schwerer Fall § 30a Abs. 3 BtMG mit Aufklaerungshilfe:**
-"Es ist ein minder schwerer Fall im Sinne des § 30a Abs. 3 BtMG anzunehmen, hilfsweise eine Strafrahmenverschiebung nach § 31 BtMG in Verbindung mit § 49 Abs. 1 StGB. Mein Mandant ist nicht vorbestraft, war nicht zentrale Figur der Bande, sondern fungierte als Kurier ohne organisatorische Verantwortung. Er hat ein umfassendes Gestaendnis abgelegt und Aufklaerungshilfe nach § 31 BtMG geleistet, indem er ueber [Sachverhalt] aufgeklaert hat. Eigene Suchtkrankheit ist durch Attest des Dr. [Name] vom [Datum] belegt."
+"Es ist ein minder schwerer Fall im Sinne des § 30a Abs. 3 BtMG anzunehmen, hilfsweise eine Strafrahmenverschiebung nach § 31 BtMG in Verbindung mit § 49 Abs. 1 StGB. Mein Mandant ist nicht vorbestraft, war nicht zentrale Figur der Bande, sondern fungierte als Kurier ohne organisatorische Verantwortung. Er hat ein umfassendes Gestaendnis abgelegt und Aufklaerungshilfe nach § 31 BtMG geleistet, indem er über [Sachverhalt] aufgeklaert hat. Eigene Suchtkrankheit ist durch Attest des Dr. [Name] vom [Datum] belegt."
 
 ## Quellen Stand 06/2026
 

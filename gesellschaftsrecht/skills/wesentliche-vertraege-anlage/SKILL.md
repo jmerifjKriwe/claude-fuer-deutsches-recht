@@ -33,14 +33,14 @@ description: "Erstellt das Verzeichnis wesentlicher Verträge (Material Contract
 
 ## Triage zu Beginn
 
-Vor der Anhangs-Erstellung klaeren:
+Vor der Anhangs-Erstellung klären:
 
 1. **SPA-Definition vorhanden?** Ist die SPA-Definition des Begriffs "wesentlicher Vertrag" (Material Contract) aus dem Vertragstext extrahiert? Falls nicht: SPA zuerst lesen; CLAUDE.md-Schwellenwerte sind nur Fallback.
-2. **Transaktionsstruktur:** Share Deal (Gesellschaft mit Vertraegen geht ueber) oder Asset Deal (§ 415 BGB: Zustimmung der Gegenpartei bei Schulduebernahme)? Bei Asset Deal: Zustimmungserfordernisse weitaus umfangreicher.
+2. **Transaktionsstruktur:** Share Deal (Gesellschaft mit Vertraegen geht über) oder Asset Deal (§ 415 BGB: Zustimmung der Gegenpartei bei Schulduebernahme)? Bei Asset Deal: Zustimmungserfordernisse weitaus umfangreicher.
 3. **Due-Diligence-Daten verfuegbar?** Vertragsbestand aus Datenraum oder Disclosure Schedule extrahiert? Falls nicht: DD-Ergebnisse zuerst importieren (Skill `dd-findings-extraktion` oder `tabellenpruefung`).
 4. **Anhangformat bekannt?** Gibt es andere Anhaenge im SPA-Entwurf als Formatvorlage? Nummerierte Liste oder Tabelle?
-5. **Over-Disclosure-Risiko beachten?** Der Anhang ist eine Gewaehrleistung, kein Datendump. Nur Vertraege aufnehmen, die ein SPA-Kriterium erfuellen.
-6. **Regulierte Branche?** Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, öffentliche Auftraege — behoerdliche Zustimmungspflichten zusätzlich pruefen.
+5. **Over-Disclosure-Risiko beachten?** Der Anhang ist eine Gewaehrleistung, kein Datendump. Nur Verträge aufnehmen, die ein SPA-Kriterium erfuellen.
+6. **Regulierte Branche?** Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, öffentliche Auftraege — behoerdliche Zustimmungspflichten zusätzlich prüfen.
 
 ## Eingaben
 
@@ -231,10 +231,10 @@ in § [N] des Kaufvertrages vom [DATUM] ([KURZBEZEICHNUNG SPA]):
 ## Rote Schwellen
 
 - **SPA-Definition nicht gelesen, CLAUDE.md-Schwellenwerte verwendet** — Anhang kann unvollstaendig sein oder Over-Disclosure enthalten; SPA-Definition zwingend vorher lesen.
-- **Over-Disclosure: nicht-wesentliche Vertraege im Anhang** — jeder Eintrag begruendet eine Verkaeufer-Gewaehrleistung; Fehler oder Luecken im Anhang koennen Schadenersatzansprueche ausloesen.
+- **Over-Disclosure: nicht-wesentliche Verträge im Anhang** — jeder Eintrag begruendet eine Verkaeufer-Gewaehrleistung; Fehler oder Luecken im Anhang können Schadenersatzansprueche ausloesen.
 - **Datenraum-Referenz fehlt** — Kaeuferberater kann Ursprungsdokument nicht finden; Closing-Prozess verzoegert sich; jeder Eintrag braucht VDR-Referenz.
 - **Interne Annotationen in finalem Anhang belassen** — Anwaltsarbeit wird sichtbar; vor Lieferung alle [INTERN: ...]-Kommentare entfernen.
-- **Anhang-Konsistenz nicht geprueft** — ein Vertrag in Anhang [X] (wesentliche Vertraege) und in Anhang [Y] (Pfandrechte) muessen konsistent sein; Querverweisung vor Lieferung pruefen.
+- **Anhang-Konsistenz nicht geprueft** — ein Vertrag in Anhang [X] (wesentliche Verträge) und in Anhang [Y] (Pfandrechte) müssen konsistent sein; Querverweisung vor Lieferung prüfen.
 
 ## Beispiel
 

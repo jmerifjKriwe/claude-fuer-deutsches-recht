@@ -26,7 +26,7 @@ Es gibt viele Fristen. Wir zeigen Ihnen alle wichtigen. Lernen Sie sie. Schreibe
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Frist**: Eine Zeitspanne, in der Sie etwas tun muessen.
+- **Frist**: Eine Zeitspanne, in der Sie etwas tun müssen.
 - **Bekanntgabe**: Wann ein Bescheid bei Ihnen "ankommt" (rechtlich).
 - **Vier-Tage-Fiktion**: Brief gilt am 4. Tag nach Aufgabe als zugestellt.
 - **Werktag**: Montag bis Freitag (Samstag im Sinne des § 64 SGG NICHT als Werktag).
@@ -106,7 +106,7 @@ NACHFASSEN:
 
 Sozialgericht Geschaeftsstelle anrufen. Mitarbeiter helfen bei Fristberechnung.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Bekanntgabedatum**, nicht Bescheidsdatum, ist entscheidend.
 - **Versand am letzten Tag** ist riskant.
@@ -115,7 +115,7 @@ Sozialgericht Geschaeftsstelle anrufen. Mitarbeiter helfen bei Fristberechnung.
 
 ## Typische Fehler
 
-- Bescheidsdatum statt Bekanntgabe → 4 Tage spaeter
+- Bescheidsdatum statt Bekanntgabe → 4 Tage später
 - Frist verschicken am letzten Tag mit normaler Post → vermeiden
 - Berufungsfrist beim LSG verpasst → keine Wiedereinsetzung leicht
 - Fristverlaengerung am Tag der Frist beantragt → zu spaet

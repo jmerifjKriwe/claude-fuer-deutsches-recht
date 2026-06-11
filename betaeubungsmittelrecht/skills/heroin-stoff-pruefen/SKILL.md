@@ -3,7 +3,7 @@ name: heroin-stoff-pruefen
 description: "Heroin: Stoff prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Heroin Stoff Pruefen
+# Heroin Stoff Prüfen
 
 ## Arbeitsweg
 

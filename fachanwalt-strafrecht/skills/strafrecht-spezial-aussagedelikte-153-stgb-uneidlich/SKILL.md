@@ -49,7 +49,7 @@ Aussage ist falsch, wenn der **objektive** Inhalt der Aussage nicht der Wahrheit
 
 ### Vorsatz
 
-Vorsatz hinsichtlich der Unrichtigkeit der Aussage. Dolus eventualis genuegt: Zeuge haelt es ernsthaft für moeglich, dass die Aussage falsch ist, und nimmt das in Kauf.
+Vorsatz hinsichtlich der Unrichtigkeit der Aussage. Dolus eventualis genuegt: Zeuge haelt es ernsthaft für möglich, dass die Aussage falsch ist, und nimmt das in Kauf.
 
 ### Subsidiaritaet
 
@@ -60,7 +60,7 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 - **Vorsatz angreifen.** Bei komplexen Sachverhalten kann Zeuge sich irren ohne Vorsatz. "Erinnerung war truebe" entlastet, wenn nicht zu offensichtlich falsch.
 - **Aussage substantiiert vergleichen.** Wortlaut der Aussage (Protokoll) und tatsaechlicher Sachverhalt vergleichen. Oft sind Aussagen ungenau, aber nicht falsch.
 - **Berichtigungsmoeglichkeit Paragraph 158 StGB.** Wer die falsche Aussage rechtzeitig **vor Beendigung des Verfahrens** berichtigt und dadurch eine Schaedigung abwendet, kann straffrei bleiben (Paragraph 158 Abs 1 StGB). Berichtigung muss vor Eintritt des Rechtskraft erfolgen.
-- **Zuständigkeit der vernehmenden Stelle pruefen.** Wenn die Stelle nicht zur eidlichen Vernehmung zuständig ist, fehlt Tatbestandsmerkmal. Beispiel: blosse Anhörung vor der StA ist umstritten.
+- **Zuständigkeit der vernehmenden Stelle prüfen.** Wenn die Stelle nicht zur eidlichen Vernehmung zuständig ist, fehlt Tatbestandsmerkmal. Beispiel: blosse Anhörung vor der StA ist umstritten.
 - **Zeugnisverweigerungsrecht beachten.** Wenn Zeuge sein Recht aus Paragraph 52 StPO oder Paragraph 384 ZPO nicht ausuebt und falsch aussagt, kann Paragraph 153 StGB voll greifen. Anwalt sollte den Zeugen im Vorfeld auf Verweigerungsrechte hinweisen.
 - **Sachverstaendigenaussagen.** Bei Sachverstaendigengutachten ist die Abgrenzung zwischen "wissenschaftlicher Bewertung" und "falscher Tatsachenangabe" entscheidend; Bewertungen sind nicht Paragraph 153 StGB.
 
@@ -68,22 +68,22 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 
 | Pfad A vollumfaengliches Bestreiten | Pfad B Berichtigung Paragraph 158 StGB | Empfehlung |
 | --- | --- | --- |
-| Riskant, wenn Widerspruchsbeleg vorliegt (z. B. spaeter aufgetauchte Unterlagen). | Strafbefreiung moeglich bei rechtzeitiger Berichtigung vor Verfahrensabschluss. | Wenn Berichtigung noch moeglich: Pfad B sofort. Bei abgeschlossenem Verfahren bleibt nur Pfad A; dann Vorsatzangriff. |
+| Riskant, wenn Widerspruchsbeleg vorliegt (z. B. später aufgetauchte Unterlagen). | Strafbefreiung möglich bei rechtzeitiger Berichtigung vor Verfahrensabschluss. | Wenn Berichtigung noch möglich: Pfad B sofort. Bei abgeschlossenem Verfahren bleibt nur Pfad A; dann Vorsatzangriff. |
 
 ## Konkurrenzen
 
 - **Paragraph 153 StGB und Paragraph 154 StGB Meineid.** Spezialitaet — Paragraph 154 StGB bei vereidigter Aussage.
-- **Paragraph 153 StGB und Paragraph 156 StGB falsche Versicherung an Eides Statt.** Tatmehrheit moeglich.
+- **Paragraph 153 StGB und Paragraph 156 StGB falsche Versicherung an Eides Statt.** Tatmehrheit möglich.
 - **Paragraph 153 StGB und Paragraph 145d StGB Vortaeuschen einer Straftat.** Tatmehrheit.
-- **Paragraph 153 StGB und Paragraph 164 StGB falsche Verdaechtigung.** Tatmehrheit moeglich.
+- **Paragraph 153 StGB und Paragraph 164 StGB falsche Verdaechtigung.** Tatmehrheit möglich.
 - **Paragraph 153 StGB und Paragraph 263 StGB Prozessbetrug.** Tatmehrheit, wenn neben falscher Aussage auch Vermoegensschaden eintritt.
 
 ## Strafzumessung und Folgen
 
 - **Strafrahmen:** Freiheitsstrafe von drei Monaten bis zu fuenf Jahren. Mindeststrafrahmen also nicht Geldstrafe!
-- **Geldstrafe nicht moeglich** im Grundtatbestand; nur bei minder schwerem Fall (selten anerkannt).
+- **Geldstrafe nicht möglich** im Grundtatbestand; nur bei minder schwerem Fall (selten anerkannt).
 - **Bewaehrungspraxis:** Bei Ersttaetern haeufig Bewaehrung; Bewaehrungsstrafe regelmaessig 6 bis 12 Monate.
-- **Berufsverbot Paragraph 70 StGB** moeglich bei Sachverstaendigen oder Berufsausuebenden mit Aussagepflicht.
+- **Berufsverbot Paragraph 70 StGB** möglich bei Sachverstaendigen oder Berufsausuebenden mit Aussagepflicht.
 - BZRG-Eintrag bei Freiheitsstrafe ab 90 Tagessaetzen / 3 Monaten.
 - Bei Auslaender Ausweisungsrisiko nach Paragraph 53 AufenthG.
 

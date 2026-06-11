@@ -15,7 +15,7 @@ description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwe
 
 ## Kernsachverhalt
 
-Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteiligungs- und Pensionssachverhalte massenhaft auftreten. Die Grenzgaengerregelung erfasst Arbeitnehmer, die im Inland wohnen und im Nachbarstaat in einer Grenzregion (Naehe zur Staatsgrenze) arbeiten und arbeitstaeglich zurueckkehren. Home-Office hat hier durch Konsultationsvereinbarungen Sonderbedeutung. Der Skill fuehrt durch die DBA-Pruefung mit Schwerpunkt auf den oesterreich-spezifischen Sonderregelungen.
+Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteiligungs- und Pensionssachverhalte massenhaft auftreten. Die Grenzgaengerregelung erfasst Arbeitnehmer, die im Inland wohnen und im Nachbarstaat in einer Grenzregion (Naehe zur Staatsgrenze) arbeiten und arbeitstaeglich zurueckkehren. Home-Office hat hier durch Konsultationsvereinbarungen Sonderbedeutung. Der Skill fuehrt durch die DBA-Prüfung mit Schwerpunkt auf den oesterreich-spezifischen Sonderregelungen.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,7 +24,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 3. Home-Office-Tage je Monat / Jahr? Vereinbarung mit Arbeitgeber dokumentiert?
 4. Bei Pensionen: gesetzliche oder private Pension, Sozialversicherungstraeger?
 5. Bei Beteiligungen: Streubesitz oder Schachtelbeteiligung (10/15/25 Prozent)?
-6. Bei Lizenzen: Software-Lizenz, technische Verguetung, kuenstlerisches Werk?
+6. Bei Lizenzen: Software-Lizenz, technische Vergütung, kuenstlerisches Werk?
 7. Bei Betriebsstaette: Bauausfuehrung welcher Dauer? Vertretertaetigkeit?
 8. Liegt Ansaessigkeitsbescheinigung vor (Formular ZS-A des oesterreichischen FA)?
 
@@ -52,13 +52,13 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Betriebsstaette (Art. 5)
 
-- Bauausfuehrung: ueber **12 Monate** (Standard OECD).
+- Bauausfuehrung: über **12 Monate** (Standard OECD).
 - Hilfstaetigkeiten: nationale Anti-Fragmentierung greift bei MLI-Anpassung.
 
 ### Aktive Einkuenfte
 
 - **Unternehmensgewinne** (Art. 7): nur bei Betriebsstaette im anderen Staat.
-- **Loehne** (Art. 15): grundsaetzlich Taetigkeitsstaat, bei kurzfristiger Entsendung 183-Tage-Regel; **Grenzgaenger** Sonderregelung (Wohnsitzstaat).
+- **Loehne** (Art. 15): grundsätzlich Taetigkeitsstaat, bei kurzfristiger Entsendung 183-Tage-Regel; **Grenzgaenger** Sonderregelung (Wohnsitzstaat).
 
 ### Passive Einkuenfte
 
@@ -74,34 +74,34 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Besonderheiten
 
-- **Grenzgaengerregelung** Art. 15 Abs. 6 DBA-Oesterreich: Grenzzone 30 km Luftlinie beiderseits der Grenze; Wohnsitzstaat-Besteuerung, wenn Wohnort und Arbeitsort in der Grenzzone liegen und der Arbeitnehmer ueblicherweise dort taetig ist.
+- **Grenzgaengerregelung** Art. 15 Abs. 6 DBA-Oesterreich: Grenzzone 30 km Luftlinie beiderseits der Grenze; Wohnsitzstaat-Besteuerung, wenn Wohnort und Arbeitsort in der Grenzzone liegen und der Arbeitnehmer ueblicherweise dort tätig ist.
 - **Home-Office** ab 01.01.2024: Homeoffice-Tage in der Grenzzone des Wohnsitzstaats sind keine schaedlichen Tage mehr. Schaedlich bleiben Arbeitstage ausserhalb der Grenzzone (beider Staaten), sofern diese mehr als 45 Arbeitstage bzw. 20 Prozent der tatsaechlichen Arbeitstage im Kalenderjahr betragen (Konsultationsvereinbarung BMF, 20.12.2023).
-- **Pensionen**: in einigen Faellen Kassenstaatsprinzip (gesetzliche Renten an Beamte öffentlicher Dienst); Privatpensionen ueberwiegend Wohnsitzstaat — **konkret pruefen**.
+- **Pensionen**: in einigen Faellen Kassenstaatsprinzip (gesetzliche Renten an Beamte öffentlicher Dienst); Privatpensionen ueberwiegend Wohnsitzstaat — **konkret prüfen**.
 - **Subject-to-Tax**: einzelne DBA-Klauseln, daneben § 50d Abs. 9 EStG.
 
 ## Workflow
 
-### Phase 1 — DBA-Anwendbarkeit pruefen
+### Phase 1 — DBA-Anwendbarkeit prüfen
 
 1. Ansaessigkeit beider Vertragspartner.
 2. Sachlicher Anwendungsbereich (welche Steuerart).
 3. Zeitlicher Anwendungsbereich.
 
-### Phase 2 — Ansaessigkeit klaeren
+### Phase 2 — Ansaessigkeit klären
 
 1. Tie-Breaker durchspielen.
-2. Bei Grenzgaenger: Beide Wohnsitze pruefen, Familienwohnsitz dominiert.
+2. Bei Grenzgaenger: Beide Wohnsitze prüfen, Familienwohnsitz dominiert.
 
 ### Phase 3 — Einkunftsart einordnen
 
 1. Art. 7 (Unternehmensgewinne) / Art. 10–12 / Art. 15 / Art. 18.
-2. Grenzgaenger-Sonderregel pruefen.
+2. Grenzgaenger-Sonderregel prüfen.
 
 ### Phase 4 — Verteilungs- und Methodenartikel
 
 1. Verteilungsartikel anwenden (Quellenstaat-Limit).
 2. Methodenartikel Art. 23 anwenden.
-3. Subject-to-Tax / § 50d EStG pruefen.
+3. Subject-to-Tax / § 50d EStG prüfen.
 
 ### Phase 5 — Erstattung und Erklaerung
 
@@ -111,9 +111,9 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ## Strategie und Praxis-Tipps
 
-- Home-Office-Tage akribisch dokumentieren (Kalender, IT-Login-Logs) — Konsultationsvereinbarung dokumentiert Schwelle, deren Ueberschreitung Grenzgaengerstatus verlieren laesst.
+- Home-Office-Tage akribisch dokumentieren (Kalender, IT-Login-Logs) — Konsultationsvereinbarung dokumentiert Schwelle, deren Ueberschreitung Grenzgaengerstatus verlieren lässt.
 - Bei Pensionen aus öffentlichem Dienst: Kassenstaatsprinzip beachten; Lehrer- und Beamtenpensionen oft Quellenstaat.
-- Schachtelbeteiligung: zusaetzlich Mutter-Tochter-Richtlinie und § 43b EStG pruefen — meist guenstiger als DBA-Quellensteuer.
+- Schachtelbeteiligung: zusaetzlich Mutter-Tochter-Richtlinie und § 43b EStG prüfen — meist guenstiger als DBA-Quellensteuer.
 - Privatpensionen aus oesterreichischer Pensionsversicherung: regelmaessig Wohnsitzstaat — Verifizierung im DBA-Text.
 - Grenzgaenger Lohnsteuer-Abzug: deutscher Arbeitgeber muss Lohnsteuer abfuehren, oesterreichischer Wohnsitz Anrechnung im FA-Bescheid.
 
@@ -121,15 +121,15 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Erstattungsverfahren oesterreichische Quellensteuer (KESt)
 
-- **Zuständigkeit oesterreichisch**: Erstattung oesterreichischer Kapitalertragsteuer durch das **Finanzamt für Grossbetriebe** in Wien (zuvor: Finanzamt Bruck Eisenstadt Oberwart für Auslaenderzuständigkeit). Aktuelle Zuständigkeit im **bmf.gv.at** und auf finanzonline.bmf.gv.at pruefen.
+- **Zuständigkeit oesterreichisch**: Erstattung oesterreichischer Kapitalertragsteuer durch das **Finanzamt für Grossbetriebe** in Wien (zuvor: Finanzamt Bruck Eisenstadt Oberwart für Auslaenderzuständigkeit). Aktuelle Zuständigkeit im **bmf.gv.at** und auf finanzonline.bmf.gv.at prüfen.
 - **Antragsformulare**: oesterreichische Formulare **ZS-RD1** (Rueckerstattung KESt) und **ZS-QU1** (Quellensteuerentlastung an der Quelle) — Bezeichnungen und Formulare vom Anwender mit aktuellem Stand auf bmf.gv.at zu verifizieren.
-- **Frist**: nach oesterreichischer BAO grundsaetzlich **fuenf Jahre** ab Veranlagungsjahr-Ablauf — laenger als in der Schweiz, aber nicht ueber Jahre liegen lassen.
+- **Frist**: nach oesterreichischer BAO grundsätzlich **fuenf Jahre** ab Veranlagungsjahr-Ablauf — laenger als in der Schweiz, aber nicht über Jahre liegen lassen.
 - **Bearbeitungsdauer**: 6-18 Monate Standard, bei Streubesitz haeufig schneller als bei Schachtel mit Substanzpruefung.
 - **Online-Portal**: **FinanzOnline** (finanzonline.bmf.gv.at) zentral für oesterreichische Steuerangelegenheiten — Zugang per ID-Austria oder Vollmacht oesterreichischer Berater.
 
 ### Lokaler Steuerberater-Kontakt
 
-- **Empfehlung**: bei Schachteldividenden ueber 5 Mio. EUR; bei Pensionsfaellen mit Sozialversicherungsanrechnung; bei Holding-Substanzpruefung. Wiener Kanzleien mit DE-Mandanten-Erfahrung; KMU-Berater in Salzburg/Innsbruck für Pendlerfaelle.
+- **Empfehlung**: bei Schachteldividenden über 5 Mio. EUR; bei Pensionsfaellen mit Sozialversicherungsanrechnung; bei Holding-Substanzpruefung. Wiener Kanzleien mit DE-Mandanten-Erfahrung; KMU-Berater in Salzburg/Innsbruck für Pendlerfaelle.
 
 ### Sprache
 
@@ -140,16 +140,16 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Grenzgaengerstatus halten (Home-Office max. 45 Tage ausserhalb Grenzzone) vs. Voll-Pendler | Wohnsitzstaat-Besteuerung, geringere Verwaltungsdichte | Lohnsteuerabzug Arbeitgeberstaat + Anrechnung | bei Pendelfrequenz und stabiler Grenzzone Status guenstiger |
-| Schachteldividende ueber DBA Art. 10 (5 Prozent) vs. EU-MTRL (§ 43b EStG, 0 Prozent) | 5 Prozent oesterreichische Quellensteuer, Erstattung via Wien | 0 Prozent bei Schachtelbeteiligung mind. 10 Prozent und 12 Monate Haltedauer | § 43b EStG immer vorzugswuerdig — antragsweise an oesterreichische Quelle |
+| Schachteldividende über DBA Art. 10 (5 Prozent) vs. EU-MTRL (§ 43b EStG, 0 Prozent) | 5 Prozent oesterreichische Quellensteuer, Erstattung via Wien | 0 Prozent bei Schachtelbeteiligung mind. 10 Prozent und 12 Monate Haltedauer | § 43b EStG immer vorzugswuerdig — antragsweise an oesterreichische Quelle |
 | Pensionsbezug ab DE-Wohnsitz aus oesterreichischer Pensionsversicherung vs. DRV | DBA Art. 18 Wohnsitzstaat-Prinzip | bei Beamtenpension Kassenstaat | Doppelpruefung Versicherungstraeger und DBA-Zuordnung |
 
-## Edge Cases — was Pruefer triggert
+## Edge Cases — was Prüfer triggert
 
 - **Grenzzone-Berechnung 30 km Luftlinie**: Wohnsitz oder Arbeitsort am Rand kann strittig sein — GIS-Tool (BMF stellt Online-Rechner zur Verfuegung) frueh nutzen.
-- **Home-Office vor 01.01.2024 vs. ab 01.01.2024**: aelteres Recht hatte Toleranzregelung mit max. 45 Tagen, jetzt sind Home-Office-Tage in der Grenzzone des Wohnsitzstaats **nicht mehr schaedlich**. Bei Veranlagungszeitraum-Wechsel sorgfaeltig pruefen.
-- **Salzburg-Pendler nach Freilassing**: klassischer Grenzgaenger-Fall — Wohnsitz Salzburg/AT, Arbeit Freilassing/DE — Grenzzone in beide Richtungen pruefen.
-- **Lehrerpensionen**: öffentlicher Dienst Kassenstaat (oft AT), aber bei deutschem Wohnsitz DE-Steueranspruch via Anrechnung — Verstaendigungsverfahren bei Doppelbesteuerung pruefen.
-- **Doppelte Privatpension**: ASVG (gesetzlich) und Firmenpension koennen unterschiedlich klassifiziert sein.
+- **Home-Office vor 01.01.2024 vs. ab 01.01.2024**: aelteres Recht hatte Toleranzregelung mit max. 45 Tagen, jetzt sind Home-Office-Tage in der Grenzzone des Wohnsitzstaats **nicht mehr schaedlich**. Bei Veranlagungszeitraum-Wechsel sorgfaeltig prüfen.
+- **Salzburg-Pendler nach Freilassing**: klassischer Grenzgaenger-Fall — Wohnsitz Salzburg/AT, Arbeit Freilassing/DE — Grenzzone in beide Richtungen prüfen.
+- **Lehrerpensionen**: öffentlicher Dienst Kassenstaat (oft AT), aber bei deutschem Wohnsitz DE-Steueranspruch via Anrechnung — Verstaendigungsverfahren bei Doppelbesteuerung prüfen.
+- **Doppelte Privatpension**: ASVG (gesetzlich) und Firmenpension können unterschiedlich klassifiziert sein.
 
 ## Berechnungsbeispiel — Grenzgaenger AT-Wohnsitz, DE-Arbeitgeber
 
@@ -167,7 +167,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 >
 > Schritt 1: EU-MTRL (§ 43b EStG) vorrangig: 0 Prozent Quellensteuer in AT — vorausgesetzt, deutsche Holding stellt vor Ausschuettung **Freistellungsbescheinigung** beim oesterreichischen FA (ZS-QU1).
 >
-> Schritt 2: Ohne vorherige Freistellung: 27,5 Prozent KESt-Einbehalt nach oesterreichischem Recht; Erstattung des Ueberhangs (27,5 Prozent minus DBA-Hoechstsatz 5 Prozent für Schachtel = 22,5 Prozent) ueber Antrag ZS-RD1 an oesterreichisches FA für Grossbetriebe.
+> Schritt 2: Ohne vorherige Freistellung: 27,5 Prozent KESt-Einbehalt nach oesterreichischem Recht; Erstattung des Ueberhangs (27,5 Prozent minus DBA-Hoechstsatz 5 Prozent für Schachtel = 22,5 Prozent) über Antrag ZS-RD1 an oesterreichisches FA für Grossbetriebe.
 >
 > Schritt 3: In DE: § 8b KStG 95 Prozent KSt-frei, 5 Prozent fiktive nichtabziehbare BA. Verbleibende 5 Prozent oesterreichische QSt (sofern nicht 0 nach MTRL) auf deutsche KSt teilweise anrechenbar.
 

@@ -38,7 +38,7 @@ Dieser Skill erklaert **Checkliste Vor Absenden** so, dass auch Menschen ohne ju
 - Anlagen / Abschriften: § 93 SGG – für jeden Beteiligten eine Abschrift; bei beA Verteidiger andere Regeln.
 - Form: Schriftform mit Unterschrift; bei Fax aufzubewahrender Sendebericht; bei beA-Versand qualifizierte elektronische Signatur (Anwaltszwang bei beA-Pflicht).
 - Frist: § 84/87 SGG ein Monat – Eingang beim Gericht/Behörde entscheidend; rechtzeitige Aufgabe zur Post reicht NICHT.
-- Praxis-Tipp: Vier-Punkte-Pruefung vor Absenden: (1) Aktenzeichen im Schriftsatz, (2) konkreter Antrag/Begehren, (3) Unterschrift (eigenhaendig), (4) Frist gesichert (Eingangstag + ggf. Versandnachweis). Sendung per Einschreiben mit Rueckschein oder Fax mit OK-Sendebericht; Eingangsstempel am Folgetag bei Gericht/Behörde telefonisch bestaetigen lassen. Kopie aller Schriftsaetze für eigene Akte.
+- Praxis-Tipp: Vier-Punkte-Prüfung vor Absenden: (1) Aktenzeichen im Schriftsatz, (2) konkreter Antrag/Begehren, (3) Unterschrift (eigenhaendig), (4) Frist gesichert (Eingangstag + ggf. Versandnachweis). Sendung per Einschreiben mit Rueckschein oder Fax mit OK-Sendebericht; Eingangsstempel am Folgetag bei Gericht/Behörde telefonisch bestaetigen lassen. Kopie aller Schriftsaetze für eigene Akte.
 
 ## Erst sortieren
 

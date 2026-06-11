@@ -5,7 +5,7 @@ description: "Untermassverbot als Spiegelbild des Uebermassverbots. Grundrechte 
 
 # Untermassverbot: die andere Seite der Schranken-Schranke
 
-> Verhaeltnismaessigkeit kontrolliert klassisch, ob der Staat **zu viel** eingreift (Uebermassverbot). Aus den Schutzpflichten folgt aber spiegelbildlich ein Untermassverbot: der Staat darf auch nicht **zu wenig** tun.
+> Verhältnismäßigkeit kontrolliert klassisch, ob der Staat **zu viel** eingreift (Uebermassverbot). Aus den Schutzpflichten folgt aber spiegelbildlich ein Untermassverbot: der Staat darf auch nicht **zu wenig** tun.
 
 ## Dogmatische Bruecke
 
@@ -17,21 +17,21 @@ description: "Untermassverbot als Spiegelbild des Uebermassverbots. Grundrechte 
 
 | Entscheidung | Schlagwort | Aussage |
 | --- | --- | --- |
-| BVerfGE 39, 1 | Schwangerschaftsabbruch I | Schutzpflicht des Staates fuer ungeborenes Leben aus Art 2 II GG |
-| BVerfGE 88, 203 | Schwangerschaftsabbruch II | Konkretisierung des Mindestschutzes, Beratungsregelung verfassungsmaessig moeglich |
+| BVerfGE 39, 1 | Schwangerschaftsabbruch I | Schutzpflicht des Staates für ungeborenes Leben aus Art 2 II GG |
+| BVerfGE 88, 203 | Schwangerschaftsabbruch II | Konkretisierung des Mindestschutzes, Beratungsregelung verfassungsmaessig möglich |
 | BVerfGE 49, 89 | Kalkar I | Schutz vor Reaktorrisiken; Restrisiko hinzunehmen, wenn Stand von Wissenschaft und Technik beachtet |
 | BVerfGE 53, 30 | Muelheim-Kaerlich | Verfahrensgrundrecht im Atomrecht |
 | BVerfGE 56, 54 | Fluglaerm | Schutzpflicht vor Laermimmissionen |
 | BVerfGE 77, 170 | C-Waffen-Lagerung | Sicherheitsabstand, Schutzpflicht des Staates |
-| BVerfGE 157, 30 | Klimaschutz-Beschluss | Intertemporale Schutzpflicht aus Art 20a GG fuer kuenftige Freiheitsraeume |
+| BVerfGE 157, 30 | Klimaschutz-Beschluss | Intertemporale Schutzpflicht aus Art 20a GG für kuenftige Freiheitsraeume |
 
 ## Pruefraster Untermassverbot
 
 1. Liegt eine Schutzgut-Bedrohung durch Dritte oder Naturgefahren vor?
 2. Hat der Staat ueberhaupt gehandelt?
 3. Ist das Schutzkonzept **insgesamt** ausreichend (nicht Einzelmassnahme, sondern Gesamtschau)?
-4. Sind die getroffenen Massnahmen evident unzureichend?
-5. Bei intertemporaler Schutzpflicht: bleibt fuer die Zukunft genuegend Freiheitsraum?
+4. Sind die getroffenen Maßnahmen evident unzureichend?
+5. Bei intertemporaler Schutzpflicht: bleibt für die Zukunft genuegend Freiheitsraum?
 
 ## Kontrolldichte
 
@@ -41,7 +41,7 @@ description: "Untermassverbot als Spiegelbild des Uebermassverbots. Grundrechte 
 
 ## Verbindung
 
-Siehe `angemessenheit-abwaegung` fuer den klassischen Uebermass-Spiegel. Untermassverbot und Uebermassverbot bilden zusammen den vollstaendigen Pruefungsrahmen.
+Siehe `angemessenheit-abwaegung` für den klassischen Uebermass-Spiegel. Untermassverbot und Uebermassverbot bilden zusammen den vollstaendigen Pruefungsrahmen.
 
 ## Quellen mit Schlagwort
 

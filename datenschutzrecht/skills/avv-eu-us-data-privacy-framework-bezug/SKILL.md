@@ -12,13 +12,13 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
 ## Wann dieses Modul hilft
 
 - US-Anbieter wird als Auftragsverarbeiter beauftragt oder eingebunden.
-- Pruefung, ob Anbieter unter dem EU-US Data Privacy Framework selbstzertifiziert ist.
+- Prüfung, ob Anbieter unter dem EU-US Data Privacy Framework selbstzertifiziert ist.
 - Vertragsklausel für DPF-Nutzung und SCC-Fallback ist erforderlich.
 - Aufsichtsbehoerde fragt nach Drittlandtransfer-Absicherung.
 
 ## Rechtlicher Rahmen
 
-- Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 ueber die Angemessenheit des Schutzniveaus personenbezogener Daten nach dem EU-US Data Privacy Framework – verifiziert.
+- Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 über die Angemessenheit des Schutzniveaus personenbezogener Daten nach dem EU-US Data Privacy Framework – verifiziert.
 - Art. 45 DSGVO – Angemessenheitsbeschluss.
 - Art. 46 DSGVO – Geeignete Garantien (SCC, BCR) als Fallback.
 - Art. 49 DSGVO – Ausnahmen für bestimmte Faelle.
@@ -27,8 +27,8 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
 
 ## Ablauf / Checkliste
 
-1. **Selbstzertifizierung pruefen.**
- - Liste pruefen ueber dataprivacyframework.gov.
+1. **Selbstzertifizierung prüfen.**
+ - Liste prüfen über dataprivacyframework.gov.
  - Status: aktiv ("Active") versus inaktiv ("Inactive Participant").
  - Geltungsbereich der Selbstzertifizierung: HR-Daten und/oder Non-HR-Daten?
  - Im Listing für den konkreten Datentypus zertifiziert?
@@ -38,14 +38,14 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
  - SCC nach Beschluss (EU) 2021/914 als Fallback für den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
  - Transfer Impact Assessment auch bei DPF-Nutzung empfohlen, weil DPF politisch und rechtlich angreifbar bleibt (Schrems-Linie).
 
-3. **Sub-AV-Kette pruefen.**
+3. **Sub-AV-Kette prüfen.**
  - Sub-AV des US-Anbieters mit weiterem US-Standort oder Drittland?
  - Eigene DPF-Selbstzertifizierung jedes US-Sub-AV erforderlich.
- - Fuer Nicht-US-Drittland-Sub-AV: SCC oder anderer Transfermechanismus.
+ - Für Nicht-US-Drittland-Sub-AV: SCC oder anderer Transfermechanismus.
 
 4. **Monitoring.**
  - DPF-Listing periodisch (mindestens jaehrlich) ueberpruefen.
- - Pruefung vor jedem Vertragsschluss und vor wesentlicher Vertragsverlaengerung.
+ - Prüfung vor jedem Vertragsschluss und vor wesentlicher Vertragsverlaengerung.
 
 5. **Eskalation.**
  - Bei Suspendierung der DPF-Listung: sofortige Aktivierung des SCC-Fallback.
@@ -57,11 +57,11 @@ DPF-und-Fallback-Klausel:
 
 > "§ X Drittlandtransfer in die Vereinigten Staaten
 >
-> (1) Soweit der Auftragsverarbeiter personenbezogene Daten in die Vereinigten Staaten uebermittelt oder dort verarbeitet, erfolgt die Uebermittlung primaer auf Grundlage des Durchfuehrungsbeschlusses (EU) 2023/1795 der Kommission vom 10.07.2023 (EU-US Data Privacy Framework). Der Auftragsverarbeiter sichert zu, dass er gemaess dem Data Privacy Framework wirksam selbstzertifiziert ist und die zertifizierten Datenkategorien die unter diesem Vertrag uebermittelten Daten umfassen.
+> (1) Soweit der Auftragsverarbeiter personenbezogene Daten in die Vereinigten Staaten uebermittelt oder dort verarbeitet, erfolgt die Uebermittlung primaer auf Grundlage des Durchfuehrungsbeschlusses (EU) 2023/1795 der Kommission vom 10.07.2023 (EU-US Data Privacy Framework). Der Auftragsverarbeiter sichert zu, dass er gemäß dem Data Privacy Framework wirksam selbstzertifiziert ist und die zertifizierten Datenkategorien die unter diesem Vertrag uebermittelten Daten umfassen.
 >
 > (2) Der Auftragsverarbeiter teilt dem Verantwortlichen jede Aenderung oder Suspendierung seiner DPF-Selbstzertifizierung unverzueglich, spaetestens innerhalb von zehn (10) Kalendertagen, schriftlich mit.
 >
-> (3) Fuer den Fall, dass die DPF-Selbstzertifizierung des Auftragsverarbeiters endet, ausgesetzt wird oder der Angemessenheitsbeschluss (EU) 2023/1795 ganz oder teilweise unwirksam wird, gelten ab dem Zeitpunkt des Eintritts und ohne weitere Erklaerung der Parteien die EU-Standardvertragsklauseln gemaess Durchfuehrungsbeschluss (EU) 2021/914 der Kommission vom 04.06.2021, Modul 2 (Verantwortlicher an Auftragsverarbeiter), mit den in Anlage 6 dargestellten Auswahl- und Anhangsfestlegungen.
+> (3) Für den Fall, dass die DPF-Selbstzertifizierung des Auftragsverarbeiters endet, ausgesetzt wird oder der Angemessenheitsbeschluss (EU) 2023/1795 ganz oder teilweise unwirksam wird, gelten ab dem Zeitpunkt des Eintritts und ohne weitere Erklaerung der Parteien die EU-Standardvertragsklauseln gemäß Durchfuehrungsbeschluss (EU) 2021/914 der Kommission vom 04.06.2021, Modul 2 (Verantwortlicher an Auftragsverarbeiter), mit den in Anlage 6 dargestellten Auswahl- und Anhangsfestlegungen.
 >
 > (4) Unabhaengig vom DPF fuehrt der Auftragsverarbeiter auf Verlangen des Verantwortlichen ein Transfer Impact Assessment nach den EDSA-Empfehlungen 01/2020 durch und stellt das Ergebnis innerhalb von dreissig (30) Kalendertagen zur Verfuegung.
 >
@@ -69,9 +69,9 @@ DPF-und-Fallback-Klausel:
 
 ## Typische Drafting-Fehler
 
-- Verweis auf DPF ohne tatsaechliche Pruefung des Anbieter-Listings.
+- Verweis auf DPF ohne tatsaechliche Prüfung des Anbieter-Listings.
 - DPF ohne SCC-Fallback im Vertrag – bei Ausfall sofortige Kuendigungspflicht.
-- US-Sub-AV ohne eigene DPF-Pruefung.
+- US-Sub-AV ohne eigene DPF-Prüfung.
 - TIA nicht durchgefuehrt mit der Begruendung "DPF deckt alles ab" – aufsichtsbehoerdliche Erwartung, dass auch unter DPF eine Risikobetrachtung erfolgt.
 - Veraltete Verweise auf Privacy Shield – seit Schrems II (EuGH C-311/18) unwirksam.
 - DPF-Listing nur einmal geprueft, keine periodische Kontrolle.
@@ -82,9 +82,9 @@ DPF-und-Fallback-Klausel:
 - Durchfuehrungsbeschluss (EU) 2021/914 vom 04.06.2021, ABl. L 199/31 – verifiziert.
 - Art. 45, Art. 46, Art. 49 DSGVO.
 - US Executive Order 14086 vom 07.10.2022.
-- EuGH C-311/18 (Schrems II) – verifiziert; Volltext ueber curia.europa.eu.
+- EuGH C-311/18 (Schrems II) – verifiziert; Volltext über curia.europa.eu.
 - EDSA-Empfehlungen 01/2020 (Version 2.0 Juni 2021).
-- DPF-Listing ueber dataprivacyframework.gov pruefen.
+- DPF-Listing über dataprivacyframework.gov prüfen.
 - Zitierweise: `../../../references/zitierweise.md`.
 
 ## Normen und Rechtsprechung

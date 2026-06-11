@@ -29,7 +29,7 @@ Die Modifikation erfolgt durch **Gesamtwuerdigung** aller Umstaende.
 ## Wann brauchen Sie diese Skill?
 
 - Sie wollen die Strafrahmen-Senkung "minder schwerer Fall" zugunsten des Mandanten erreichen.
-- Sie pruefen, ob ein Regelbeispiel erfuellt ist und ob die Indizwirkung entkraeftet werden kann.
+- Sie prüfen, ob ein Regelbeispiel erfuellt ist und ob die Indizwirkung entkraeftet werden kann.
 - Sie ordnen die Pruefungsreihenfolge bei mehreren Strafrahmen-Modifikationen.
 
 ## Rechtliche Grundlagen
@@ -55,17 +55,17 @@ Die Modifikation erfolgt durch **Gesamtwuerdigung** aller Umstaende.
 
 - Erfordert **Gesamtwuerdigung**: alle straftatbezogenen und persönlichen Umstaende werden zusammengenommen.
 - Schwellenfrage: weicht das Gesamtgewicht der Tat so deutlich nach unten von der Durchschnittstat ab, dass der gesetzliche Regelstrafrahmen unangemessen waere?
-- Strafmilderungsgruende nach § 49 StGB koennen den Tatbestand des minder schweren Falls **mitausloesen** ("vertypte Milderungsgruende" bei Gesamtwuerdigung beruecksichtigen). Wenn der Tatbestand des minder schweren Falls bejaht wird, **entfaellt** die zusaetzliche Milderung nach § 49 StGB regelmaessig nicht automatisch; vielmehr kann der gemilderten Strafrahmen weiter nach § 49 StGB modifiziert werden. **St. Rspr.; Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.**
+- Strafmilderungsgruende nach § 49 StGB können den Tatbestand des minder schweren Falls **mitausloesen** ("vertypte Milderungsgruende" bei Gesamtwuerdigung beruecksichtigen). Wenn der Tatbestand des minder schweren Falls bejaht wird, **entfaellt** die zusaetzliche Milderung nach § 49 StGB regelmaessig nicht automatisch; vielmehr kann der gemilderten Strafrahmen weiter nach § 49 StGB modifiziert werden. **St. Rspr.; Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.**
 
 ### Besonders schwerer Fall
 
 - Bei **Regelbeispielen** Indizwirkung: ist ein Regelbeispiel erfuellt, ist die Indizwirkung für besonders schweren Fall regelmaessig gegeben.
-- Gegenindizien koennen die Indizwirkung **entkraeften** — Gesamtwuerdigung.
+- Gegenindizien können die Indizwirkung **entkraeften** — Gesamtwuerdigung.
 - Bei "unbenannten besonders schweren Faellen" muss die Tat in Gewicht und Charakter den Regelbeispielen ungefaehr entsprechen.
 
 ## Pruefungsreihenfolge
 
-1. **Grundtatbestand** und **Qualifikationen** pruefen.
+1. **Grundtatbestand** und **Qualifikationen** prüfen.
 2. **Regelbeispiele** (besonders schwerer Fall): Ist Tatbestand erfuellt? Indizwirkung. Gegenindizien?
 3. **Minder schwerer Fall**: Gesamtwuerdigung; Tatbild deutlich unterhalb des Durchschnitts?
 4. **Vertypte Milderungsgruende** nach § 49 StGB (Versuch, Beihilfe, § 21, § 17, § 28 Abs. 1, § 46a StGB).
@@ -76,7 +76,7 @@ Die Modifikation erfolgt durch **Gesamtwuerdigung** aller Umstaende.
 
 Wenn ein vertypter Milderungsgrund vorliegt **und** zusaetzlich ein minder schwerer Fall in Betracht kommt: **Wahlrecht** des Gerichts in der Logik der st. Rspr.:
 
-- Pruefung des minder schweren Falls **unter Einbeziehung** des vertypten Milderungsgrundes.
+- Prüfung des minder schweren Falls **unter Einbeziehung** des vertypten Milderungsgrundes.
 - Wenn minder schwerer Fall bejaht: weitere Milderung nach § 49 StGB ist nicht zwingend.
 - Wenn minder schwerer Fall verneint: Milderung nach § 49 StGB greift für den Regelstrafrahmen.
 

@@ -7,7 +7,7 @@ description: "Pflichtenuebersicht DMA für benannte Gatekeeper: Interoperabilita
 
 ## Arbeitsbereich
 
-Pflichtenuebersicht DMA für benannte Gatekeeper: Interoperabilitaet Messenger Art. 7, Datenportabilitaet Art. 6 Abs. 9 DMA, Selbstbevorzugungsverbot Art. 6 Abs. 5 DMA, Anti-Steering Art. 5 Abs. 4 DMA, FRAND-Bedingungen Art. 6 Abs. 12 DMA. Tabelle mit Pflicht, Adressat, Frist, Reporting. Fuer Gatekeeper-internes Compliance-Setup. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pflichtenuebersicht DMA für benannte Gatekeeper: Interoperabilitaet Messenger Art. 7, Datenportabilitaet Art. 6 Abs. 9 DMA, Selbstbevorzugungsverbot Art. 6 Abs. 5 DMA, Anti-Steering Art. 5 Abs. 4 DMA, FRAND-Bedingungen Art. 6 Abs. 12 DMA. Tabelle mit Pflicht, Adressat, Frist, Reporting. Für Gatekeeper-internes Compliance-Setup. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
@@ -35,7 +35,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext

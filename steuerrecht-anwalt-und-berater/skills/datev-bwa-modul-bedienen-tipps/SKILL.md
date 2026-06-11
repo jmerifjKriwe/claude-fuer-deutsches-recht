@@ -13,7 +13,7 @@ description: "DATEV Kanzlei-Rechnungswesen BWA-Modul Bedienung. Anwendungsfall E
 
 ## Kernsachverhalt
 
-DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software für Buchfuehrung, BWA, SuSa, Jahresabschluss. Das BWA-Modul bietet zahlreiche Standardforms (BWA 01, 11, 21), Branchenanpassungen und individuelle Konfigurations-Moeglichkeiten ueber Berater-Stammdaten. Der Steuerberater nutzt Standardformen, passt sie bei Bedarf an und integriert Branchenvergleich (BBE).
+DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software für Buchfuehrung, BWA, SuSa, Jahresabschluss. Das BWA-Modul bietet zahlreiche Standardforms (BWA 01, 11, 21), Branchenanpassungen und individuelle Konfigurations-Moeglichkeiten über Berater-Stammdaten. Der Steuerberater nutzt Standardformen, passt sie bei Bedarf an und integriert Branchenvergleich (BBE).
 
 ## Kaltstart-Rueckfragen
 
@@ -43,7 +43,7 @@ DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software für Buchfu
 
 - Berater-Stammdaten: Mandantengruppen und BWA-Stammvorlagen zentral pflegen (typischer Programmpfad `Bestand → Berater-Stammdaten → BWA-Konfiguration`; exakter Pfad in aktueller DATEV-Programmversion ggf. abweichend).
 - Mandantenstammdaten: BWA-Form-Zuordnung pro Mandant unter `Mandantenstammdaten → Auswertungen → BWA`.
-- Periodenvergleich: Vorjahresdaten automatisch bei vorhandener Historie; Planwerte ueber `Auswertungen → Plan-Erfassung`.
+- Periodenvergleich: Vorjahresdaten automatisch bei vorhandener Historie; Planwerte über `Auswertungen → Plan-Erfassung`.
 
 ### Phase 3 — Branchenvergleich
 
@@ -53,13 +53,13 @@ DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software für Buchfu
 
 ### Phase 4 — Individualisierung
 
-- Eigene BWA-Form ueber Berater-Stammdaten anlegen (Kopie einer Standard-Form als Ausgangsbasis empfohlen).
+- Eigene BWA-Form über Berater-Stammdaten anlegen (Kopie einer Standard-Form als Ausgangsbasis empfohlen).
 - Konten-Zuordnung manuell definieren — pro Konto bzw. Kontenintervall.
 - Spalten frei konfigurieren: Plan, Ist, Vorjahr, Vorjahres-kumuliert, Abweichung absolut/prozentual.
 
 ### Phase 5 — Ausgabe
 
-- PDF-Export mit Mandanten-Briefkopf ueber das Druckmodul.
+- PDF-Export mit Mandanten-Briefkopf über das Druckmodul.
 - Excel-Export für Detailauswertung (Pivot-fhaeig).
 - DUO-Versand: BWA wird direkt in das DUO-Postfach des Mandanten gestellt (`Auswertungen → BWA → Versand an DUO`).
 
@@ -67,7 +67,7 @@ DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software für Buchfu
 
 - Jaehrliche DATEV-Programm-Updates zum 1. Januar (LSt/SV-Tabellen, USt-Saetze, AfA-Tabellen, neue gesetzliche Pflichtmeldungen).
 - Bei groesseren Reformen unterjaehrige Updates (Wachstumschancengesetz, eRechnung-Verfahren).
-- Berater-Funktion Updates manuell pruefen, da individuelle Formen nicht automatisch migriert werden.
+- Berater-Funktion Updates manuell prüfen, da individuelle Formen nicht automatisch migriert werden.
 
 ## Strategie und Praxis-Tipps
 
@@ -80,7 +80,7 @@ DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software für Buchfu
 
 Stand: 05/2026.
 
-- DATEV Kanzlei-Rechnungswesen Bedienungs-Dokumentation (aktuelle Version pruefen).
+- DATEV Kanzlei-Rechnungswesen Bedienungs-Dokumentation (aktuelle Version prüfen).
 - DATEV-Programm-Updates jaehrlich (Stand 01.01.) sowie unterjaehrige Reform-Updates.
 - AO § 146 (Update-Pflicht der Buchfuehrungsprogramme).
 - Verifikations-Hinweis: konkrete Programmpfade und Form-Nummern ggf. abweichend in aktueller DATEV-Version.

@@ -76,14 +76,14 @@ Verbindlich nach `../../references/zitierweise.md`.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — AVV eines KI-Anbieters für Kanzlei pruefen | Pruefschema Art. 28 DSGVO; Template unten |
+| Standard — AVV eines KI-Anbieters für Kanzlei prüfen | Pruefschema Art. 28 DSGVO; Template unten |
 | Variante A — AVV des Anbieters nicht verhandelbar | Risikoanalyse dokumentieren; Mandantenhinweis erwaegen |
 | Variante B — eigene AVV als Auftragsverarbeiter erstellen | Umgekehrte Perspektive; eigene Pflichten aus Art. 28 Abs. 3 DSGVO |
-| Variante C — mehrstufige Subunternehmer-Kette | Subunternehmer-Klausel gesondert pruefen; Haftungskette sichern |
+| Variante C — mehrstufige Subunternehmer-Kette | Subunternehmer-Klausel gesondert prüfen; Haftungskette sichern |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -129,11 +129,11 @@ Stand: 05/2026. Aktualität prüfen bei neuen EDSA-Leitlinien zur Auftragsverarb
 ## Faktische Updates (Stand 05/2026)
 
 - **EDSA Guidelines 07/2020 zu Verantwortlichen und Auftragsverarbeitern:** Final-Version verbindliche Auslegungshilfe; bei der Rollenzuordnung beruecksichtigen. Quelle: edpb.europa.eu.
-- **EDSA Stellungnahme 22/2024 zu Auftragsverarbeitern und Sub-AV:** Aktuelle Stellungnahmen zur Sub-Verarbeiter-Kette und zur Verantwortlichkeit live ueber edpb.europa.eu pruefen.
-- **EuGH-Linie zu Art. 82 DSGVO Mit-Haftung:** Verantwortlicher und Auftragsverarbeiter haften gesamtschuldnerisch nach Massgabe ihrer jeweiligen Pflichtverletzungen (Art. 82 Abs. 4 DSGVO). Konkrete Aktenzeichen vor Zitat ueber curia.europa.eu pruefen.
-- **EU-US-DPF-Status:** Vor jedem US-AVV-Abschluss DPF-Listing des Anbieters ueber dataprivacyframework.gov verifizieren. SCC bleiben als Fallback im AVV vorzusehen.
-- **KI-Anbieter-AVV:** Bei KI-/LLM-Diensten muessen AVV-Klauseln zusaetzlich zu Art. 28 DSGVO Trainings-Verbote, Output-Verwertung, Modellaenderungen, Logging und KI-VO-Pflichten regeln. Verweis: ki-anbieter-pruefung (Plugin ki-governance).
-- **NIS-2-Lieferkette (Art. 21 NIS-2-RL):** Auftraggeber wichtiger / besonders wichtiger Einrichtungen muessen Cyber-Risiken in der Lieferkette beruecksichtigen — AVV mit IT-/Cloud-Dienstleistern entsprechend erweitern.
+- **EDSA Stellungnahme 22/2024 zu Auftragsverarbeitern und Sub-AV:** Aktuelle Stellungnahmen zur Sub-Verarbeiter-Kette und zur Verantwortlichkeit live über edpb.europa.eu prüfen.
+- **EuGH-Linie zu Art. 82 DSGVO Mit-Haftung:** Verantwortlicher und Auftragsverarbeiter haften gesamtschuldnerisch nach Massgabe ihrer jeweiligen Pflichtverletzungen (Art. 82 Abs. 4 DSGVO). Konkrete Aktenzeichen vor Zitat über curia.europa.eu prüfen.
+- **EU-US-DPF-Status:** Vor jedem US-AVV-Abschluss DPF-Listing des Anbieters über dataprivacyframework.gov verifizieren. SCC bleiben als Fallback im AVV vorzusehen.
+- **KI-Anbieter-AVV:** Bei KI-/LLM-Diensten müssen AVV-Klauseln zusaetzlich zu Art. 28 DSGVO Trainings-Verbote, Output-Verwertung, Modellaenderungen, Logging und KI-VO-Pflichten regeln. Verweis: ki-anbieter-pruefung (Plugin ki-governance).
+- **NIS-2-Lieferkette (Art. 21 NIS-2-RL):** Auftraggeber wichtiger / besonders wichtiger Einrichtungen müssen Cyber-Risiken in der Lieferkette beruecksichtigen — AVV mit IT-/Cloud-Dienstleistern entsprechend erweitern.
 
 ## Triage-Frage (Entscheidungsbaum AVV)
 
@@ -180,7 +180,7 @@ TIA erforderlich: ja / nein
 Empfehlung: Unterzeichnen / Mit Redlines / Ablehnen
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

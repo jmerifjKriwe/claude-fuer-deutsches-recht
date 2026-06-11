@@ -24,7 +24,7 @@ description: "Untreue im Aktienrecht: Paragraph 266 StGB iVm Paragraph 93 AktG S
 
 ## Worum geht es konkret
 
-Im Aktienrecht hat die Untreue ein eigenes Vorzeichen: Der Vorstand traegt eine **gesetzlich kodifizierte** Sorgfaltspflicht (Paragraph 93 AktG), die zugleich die Vermoegensbetreuungspflicht iSd Paragraph 266 StGB konkretisiert. Anwendungsfall: Vorstand gibt grosszuegige Sponsoringgelder für Fussballverein aus, ohne Bezug zur Geschaeftstaetigkeit. Vorstand entscheidet ueber Konzernumstrukturierung ohne hinreichende Information. Aufsichtsrat duldet pflichtwidrige Vorstandsentscheidung.
+Im Aktienrecht hat die Untreue ein eigenes Vorzeichen: Der Vorstand traegt eine **gesetzlich kodifizierte** Sorgfaltspflicht (Paragraph 93 AktG), die zugleich die Vermoegensbetreuungspflicht iSd Paragraph 266 StGB konkretisiert. Anwendungsfall: Vorstand gibt grosszuegige Sponsoringgelder für Fussballverein aus, ohne Bezug zur Geschaeftstaetigkeit. Vorstand entscheidet über Konzernumstrukturierung ohne hinreichende Information. Aufsichtsrat duldet pflichtwidrige Vorstandsentscheidung.
 
 Der entscheidende Unterschied zur GmbH-Untreue: Die **Business Judgment Rule** (Paragraph 93 Abs 1 Satz 2 AktG) gibt dem Vorstand einen rechtlich anerkannten Entscheidungsspielraum. Innerhalb dieses "safe harbor" ist Pflichtverletzung ausgeschlossen.
 
@@ -34,7 +34,7 @@ Der entscheidende Unterschied zur GmbH-Untreue: Die **Business Judgment Rule** (
 
 "Die Vorstandsmitglieder haben bei ihrer Geschaeftsfuehrung die Sorgfalt eines ordentlichen und gewissenhaften Geschaeftsleiters anzuwenden."
 
-Das ist Voraussetzung der **VBP** im Sinn von Paragraph 266 StGB. Vorstand hat hauptsaechlich und eigenstaendig fremdes (= Gesellschafts-) Vermoegen zu wahren.
+Das ist Voraussetzung der **VBP** im Sinn von Paragraph 266 StGB. Vorstand hat hauptsaechlich und eigenstaendig fremdes (= Gesellschafts-) Vermögen zu wahren.
 
 ### Paragraph 93 Abs 1 Satz 2 AktG Business Judgment Rule
 
@@ -60,11 +60,11 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 
 ## Praktikertipps der alten Hasen
 
-- **Business Judgment Rule als Verteidigung Nr 1.** Bei jeder Vorstandsentscheidung pruefen: Gab es angemessene Information (Sachverstaendigengutachten, Marktanalyse)? Wurde dokumentiert? Wurde diskutiert?
+- **Business Judgment Rule als Verteidigung Nr 1.** Bei jeder Vorstandsentscheidung prüfen: Gab es angemessene Information (Sachverstaendigengutachten, Marktanalyse)? Wurde dokumentiert? Wurde diskutiert?
 - **Vorstandsbeschluss-Protokoll als Goldquelle.** Wenn der Vorstand die Entscheidung im Protokoll mit Begruendung dokumentiert hat, ist Verteidigung im "safe harbor" sehr stark. Fehlt das Protokoll, ist Pflichtwidrigkeit indikatorisch.
-- **Spendenpraxis-Linie.** BGH staendige Rspr. zur Sponsoring/Spenden: Zulaessig, wenn betriebliche Veranlassung erkennbar; pflichtwidrig, wenn unverhaeltnismaessig oder persoenlich motiviert ("Mannesmann"-Falllinie).
-- **Aufsichtsrat-Haftung subsidiaer.** Wenn AR Vorstand kontrolliert, aber pflichtwidrig nicht eingreift, mittelbare Untreue moeglich. Aber: Aufsichtsrat hat eigenen Entscheidungsspielraum (BGH-Linie); blosses Nichteinschreiten ist nicht automatisch pflichtwidrig.
-- **D&O-Versicherung pruefen.** Vorstand hat regelmaessig D&O-Versicherung; auch bei strafrechtlicher Verurteilung greift die zivilrechtliche Komponente.
+- **Spendenpraxis-Linie.** BGH staendige Rspr. zur Sponsoring/Spenden: Zulässig, wenn betriebliche Veranlassung erkennbar; pflichtwidrig, wenn unverhaeltnismaessig oder persoenlich motiviert ("Mannesmann"-Falllinie).
+- **Aufsichtsrat-Haftung subsidiaer.** Wenn AR Vorstand kontrolliert, aber pflichtwidrig nicht eingreift, mittelbare Untreue möglich. Aber: Aufsichtsrat hat eigenen Entscheidungsspielraum (BGH-Linie); blosses Nichteinschreiten ist nicht automatisch pflichtwidrig.
+- **D&O-Versicherung prüfen.** Vorstand hat regelmaessig D&O-Versicherung; auch bei strafrechtlicher Verurteilung greift die zivilrechtliche Komponente.
 
 ## Trade-off-Matrix
 
@@ -75,7 +75,7 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 ## Konkurrenzen
 
 - **Paragraph 266 StGB iVm Paragraph 93 AktG und Paragraph 399 ff. AktG.** Aktienrechtliche Strafnormen (unrichtige Darstellung der Verhaeltnisse der Gesellschaft Paragraph 400 AktG, Bilanzfaelschung); regelmaessig Tateinheit.
-- **Paragraph 266 StGB und Paragraph 263 StGB.** Bei Tauschung Dritter durch Vorstand Tateinheit moeglich.
+- **Paragraph 266 StGB und Paragraph 263 StGB.** Bei Tauschung Dritter durch Vorstand Tateinheit möglich.
 - **Paragraph 266 StGB und Paragraph 283 StGB.** In AG-Krise oft Bankrott parallel; Tateinheit.
 - **Paragraph 266 StGB und Paragraph 826 BGB.** Zivilrechtlich sittenwidrige Schaedigung als parallele Anspruchsgrundlage.
 
@@ -92,7 +92,7 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 
 **Schutzschrift-Snippet:** "Mein Mandant hat die Sponsoringentscheidung vom DD.MM.JJJJ in Kenntnis der internen Marktanalyse der Marketingabteilung (Anlage SS 1) und nach externer Beratung durch die Y AG (Anlage SS 2) getroffen. Die Entscheidung erfolgte zum Wohle der Gesellschaft (geplante Reichweitenerhoehung 30 Prozent). Die Voraussetzungen der Business Judgment Rule nach Paragraph 93 Abs 1 Satz 2 AktG sind damit erfuellt; eine Pflichtverletzung iSd Paragraph 266 StGB liegt nicht vor."
 
-**Einlassungs-Snippet:** "Im Vorstand haben wir am DD.MM.JJJJ ueber den Sponsoringvertrag mit dem Fussballverein X intensiv diskutiert. Wir haben Sachverstaendigengutachten zur Reichweite eingeholt und einen Vergleichsrahmen mit branchenueblichen Vereinbarungen geprueft. Auf dieser Grundlage haben wir die Entscheidung einstimmig getroffen, im festen Glauben, dem Unternehmen zu nuetzen."
+**Einlassungs-Snippet:** "Im Vorstand haben wir am DD.MM.JJJJ über den Sponsoringvertrag mit dem Fussballverein X intensiv diskutiert. Wir haben Sachverstaendigengutachten zur Reichweite eingeholt und einen Vergleichsrahmen mit branchenueblichen Vereinbarungen geprueft. Auf dieser Grundlage haben wir die Entscheidung einstimmig getroffen, im festen Glauben, dem Unternehmen zu nuetzen."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung des Vorstandsprotokolls vom DD.MM.JJJJ und der Anlage 4 (Sachverstaendigengutachten Y) zu erheben zum Beweis der Tatsache, dass die Sponsoringentscheidung auf Grundlage angemessener Information iSd Paragraph 93 Abs 1 Satz 2 AktG getroffen wurde."
 

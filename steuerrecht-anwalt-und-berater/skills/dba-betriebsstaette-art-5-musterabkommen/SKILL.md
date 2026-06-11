@@ -15,7 +15,7 @@ description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BE
 
 ## Kernsachverhalt
 
-Die Betriebsstaette ist der Aufhaenger für das Besteuerungsrecht am Unternehmensgewinn (Art. 7 MA). Ihre Reichweite wurde durch BEPS Aktion 7 und das MLI deutlich erweitert: Vertreterbetriebsstaette wird auch durch Provisionsmodelle und Marktmittler ausgeloest; Hilfs- und Vorbereitungstaetigkeiten muessen "vom Charakter her" Vorbereitungs- bzw. Hilfstaetigkeit sein; Anti-Fragmentierungsregelungen verhindern Aufsplittung. Prüfe, ob Betriebsstaette vorliegt und welche Gewinne ihr zuzurechnen sind.
+Die Betriebsstaette ist der Aufhaenger für das Besteuerungsrecht am Unternehmensgewinn (Art. 7 MA). Ihre Reichweite wurde durch BEPS Aktion 7 und das MLI deutlich erweitert: Vertreterbetriebsstaette wird auch durch Provisionsmodelle und Marktmittler ausgeloest; Hilfs- und Vorbereitungstaetigkeiten müssen "vom Charakter her" Vorbereitungs- bzw. Hilfstaetigkeit sein; Anti-Fragmentierungsregelungen verhindern Aufsplittung. Prüfe, ob Betriebsstaette vorliegt und welche Gewinne ihr zuzurechnen sind.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,7 +23,7 @@ Die Betriebsstaette ist der Aufhaenger für das Besteuerungsrecht am Unternehmen
 2. Existiert dort eine feste Geschaeftseinrichtung (Buero, Werkstatt, Geschaeftsstelle, Server)?
 3. Wie lang dauert die Aktivitaet (Bauausfuehrung 12 Monate, in vielen DBA abweichend — Schweiz/Oesterreich/Frankreich auch 9 oder 6 Monate)?
 4. Ist Personal vor Ort, mit welchen Vollmachten?
-5. Werden Vertraege mit Mandantenkunden vor Ort abgeschlossen oder regelmaessig vorbereitet?
+5. Werden Verträge mit Mandantenkunden vor Ort abgeschlossen oder regelmaessig vorbereitet?
 6. Ist das DBA durch MLI angepasst (Anti-Fragmentierung Art. 13 MLI, erweiterte Vertreterbetriebsstaette Art. 12 MLI)?
 7. Liegt eine Home-Office-Konstellation vor (Pandemie-Folgeregelungen oder Dauerregelung)?
 8. Wer ist Auftraggeber, wer Auftragnehmer, wie laufen Rechnungen?
@@ -38,13 +38,13 @@ Die Betriebsstaette ist der Aufhaenger für das Besteuerungsrecht am Unternehmen
 - **§ 49 EStG** — beschraenkte Steuerpflicht inkl. Betriebsstaetten-Tatbestand.
 - **§ 1 Abs. 5 AStG** — Gewinnabgrenzung Betriebsstaette (AOA — Authorised OECD Approach).
 - **Betriebsstaettengewinnaufteilungsverordnung (BsGaV)** vom 13.10.2014.
-- **BMF-Schreiben zu Verwaltungsgrundsaetzen Betriebsstaettengewinnaufteilung** vom 22.12.2016 (BStBl I 2017, 182) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis oder in freier amtlicher Quelle pruefen.
+- **BMF-Schreiben zu Verwaltungsgrundsaetzen Betriebsstaettengewinnaufteilung** vom 22.12.2016 (BStBl I 2017, 182) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis oder in freier amtlicher Quelle prüfen.
 - **MLI Art. 12, 13, 14, 15** — Anpassungen Betriebsstaette.
 
 ### Leitentscheidungen und BMF-Schreiben
 
 - Aktuelle BFH-Rechtsprechung zu Server-Betriebsstaette und Home-Office als Betriebsstaette in freier amtlicher Quelle abrufen (BFH I. Senat, Art. 5 OECD-MA).
-- Konsultationsvereinbarungen Home-Office 2020/2021 und Folgeregelungen — aktuelle Fassung im BMF-Veroeffentlichungsverzeichnis pruefen.
+- Konsultationsvereinbarungen Home-Office 2020/2021 und Folgeregelungen — aktuelle Fassung im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## Tatbestaende Betriebsstaette
 
@@ -62,12 +62,12 @@ Ort der Leitung, Zweigniederlassung, Geschaeftsstelle, Fabrikationsstaette, Werk
 ### Bauausfuehrung (Art. 5 Abs. 3)
 
 - OECD-Standard 12 Monate.
-- Viele deutsche DBA abweichend (Schweiz 12 Monate Art. 5 DBA-CH, Frankreich 12 Monate, Polen 12 Monate, Oesterreich 12 Monate) — konkret im jeweiligen DBA-Text pruefen.
-- Zusammenrechnung verbundener Auftraege moeglich.
+- Viele deutsche DBA abweichend (Schweiz 12 Monate Art. 5 DBA-CH, Frankreich 12 Monate, Polen 12 Monate, Oesterreich 12 Monate) — konkret im jeweiligen DBA-Text prüfen.
+- Zusammenrechnung verbundener Auftraege möglich.
 
 ### Ausnahmekatalog (Art. 5 Abs. 4)
 
-Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: Lager, Vorrats- oder Ausstellungszwecke, Wareneinkauf, Informationsbeschaffung. **MLI-Anpassung Art. 13 MLI**: alle Taetigkeiten muessen "vom Charakter her" Vorbereitungs-/Hilfstaetigkeit sein. **Anti-Fragmentierung** verhindert Aufsplittung verbundener Taetigkeiten ueber mehrere Standorte.
+Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: Lager, Vorrats- oder Ausstellungszwecke, Wareneinkauf, Informationsbeschaffung. **MLI-Anpassung Art. 13 MLI**: alle Taetigkeiten müssen "vom Charakter her" Vorbereitungs-/Hilfstaetigkeit sein. **Anti-Fragmentierung** verhindert Aufsplittung verbundener Taetigkeiten über mehrere Standorte.
 
 ### Vertreterbetriebsstaette (Art. 5 Abs. 5/6)
 
@@ -83,23 +83,23 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 
 | Land | Bauausfuehrung-Schwelle | Besonderheit |
 |---|---|---|
-| Schweiz | 12 Monate (DBA) | Pruefung Art. 5 DBA-CH konkret |
+| Schweiz | 12 Monate (DBA) | Prüfung Art. 5 DBA-CH konkret |
 | Oesterreich | 12 Monate | Konsultationsvereinbarung Home Office relevant |
 | Niederlande | 12 Monate | DBA 2012 (BGBl. 2012 II S. 1414) |
 | Polen | 12 Monate | DBA 2003 |
-| Frankreich | 12 Monate | aelteres DBA, Protokolle pruefen |
-| USA | 12 Monate; Aufsichtstaetigkeit auf Baustelle eigenstaendig | DBA-USA 1989/Protokoll 2006 — konkret im DBA-Text pruefen |
+| Frankreich | 12 Monate | aelteres DBA, Protokolle prüfen |
+| USA | 12 Monate; Aufsichtstaetigkeit auf Baustelle eigenstaendig | DBA-USA 1989/Protokoll 2006 — konkret im DBA-Text prüfen |
 
 (**Alle Zeitangaben verifizierungspflichtig — DBA-Text und MLI-Notification konsultieren.**)
 
 ## Workflow
 
-### Phase 1 — Tatbestand Betriebsstaette pruefen
+### Phase 1 — Tatbestand Betriebsstaette prüfen
 
 1. Feste Geschaeftseinrichtung? Verfuegungsmacht, Festigkeit, Geschaeftstaetigkeit.
 2. Wenn nicht: Bauausfuehrung mit ausreichender Dauer?
 3. Wenn nicht: Vertreterbetriebsstaette? Vollmachtsumfang oder Hauptrolle?
-4. Negative Liste pruefen — Anti-Fragmentierung beachten.
+4. Negative Liste prüfen — Anti-Fragmentierung beachten.
 
 ### Phase 2 — Gewinnabgrenzung (AOA)
 
@@ -123,20 +123,20 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 
 ## Strategie und Praxis-Tipps
 
-- Home-Office als Betriebsstaette erfordert Verfuegungsmacht des Arbeitgebers (regelmaessig nicht, da kein Mietverhaeltnis); aktuelle Konsultationsvereinbarungen (z.B. DBA-Oesterreich Home-Office-Memo) im BMF-Verzeichnis pruefen.
+- Home-Office als Betriebsstaette erfordert Verfuegungsmacht des Arbeitgebers (regelmaessig nicht, da kein Mietverhaeltnis); aktuelle Konsultationsvereinbarungen (z.B. DBA-Oesterreich Home-Office-Memo) im BMF-Verzeichnis prüfen.
 - Bei Bauausfuehrung Fristenlauf dokumentieren — Subunternehmer und Verkettungen zaehlen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- MLI Art. 12 (Vertreterbetriebsstaette erweitert) gilt nur, wenn beide Vertragsstaaten optiert haben — Notification konkret pruefen.
+- MLI Art. 12 (Vertreterbetriebsstaette erweitert) gilt nur, wenn beide Vertragsstaaten optiert haben — Notification konkret prüfen.
 - Bei niedrig besteuerter Betriebsstaette: § 20 Abs. 2 AStG-Switch-Over droht.
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
 - **Bauausfuehrungs-Fristenlauf taggenau dokumentieren**: Beginn (Vertragsschluss vs. Beginn der Baustelleneinrichtung — letzteres zaehlt im OECD-Kommentar), Unterbrechungen (Winterpause; bei DBA mit aktiviertem MLI Art. 14: 30-Tage-Unterbrechungen werden nicht abgezogen, sofern verbundene Auftraege). Excel-Pflicht.
-- **Verfuegungsmachts-Schwelle bei Home-Office**: Mietvertrag des Arbeitgebers ueber Wohnraum oder dauerhafte Anweisung "ab heute hauptsaechlich Home-Office" macht Home-Office zur BS — Pruefer suchen genau diese Indizien in den Personalakten.
-- **Vertreterbetriebsstaette: Vertraege gegenchecken**: nach MLI Art. 12 reicht die "Hauptrolle beim Zustandekommen". Pruefer schauen, ob Vertrieb vor Ort Quittungs- und Kundenkommunikationsbefugnis hat — Vertragsmuster und CRM-Datenanalyse.
+- **Verfuegungsmachts-Schwelle bei Home-Office**: Mietvertrag des Arbeitgebers über Wohnraum oder dauerhafte Anweisung "ab heute hauptsaechlich Home-Office" macht Home-Office zur BS — Prüfer suchen genau diese Indizien in den Personalakten.
+- **Vertreterbetriebsstaette: Verträge gegenchecken**: nach MLI Art. 12 reicht die "Hauptrolle beim Zustandekommen". Prüfer schauen, ob Vertrieb vor Ort Quittungs- und Kundenkommunikationsbefugnis hat — Vertragsmuster und CRM-Datenanalyse.
 - **Lokales Filing nicht vergessen**: viele Staaten verlangen vor Tag 1 Aktivitaet eine Anzeigemeldung (z.B. Frankreich Bureau de Liaison, UK Permanent Establishment Notification). Im DE-Bereich Anlage AESt nicht vergessen.
-- **AOA-Dokumentation mitliefern**: BsGaV (Betriebsstaettengewinnaufteilungsverordnung) verlangt eine Hilfs- und Nebenrechnung — pruefer freuen sich ueber lieferfertige FRA (Function-Risk-Asset)-Tabelle ab Tag 1.
-- **Konsultationsvereinbarungen Home-Office**: aktuell mit Luxemburg dauerhaft im Aenderungsprotokoll vom 06.07.2023 verankert (Bagatellgrenze 34 Tage), Niederlande analog ab 01.01.2026 (Aend.-Prot. 14.04.2025). Andere Staaten teils befristet — BMF-Verzeichnis pruefen.
+- **AOA-Dokumentation mitliefern**: BsGaV (Betriebsstaettengewinnaufteilungsverordnung) verlangt eine Hilfs- und Nebenrechnung — prüfer freuen sich über lieferfertige FRA (Function-Risk-Asset)-Tabelle ab Tag 1.
+- **Konsultationsvereinbarungen Home-Office**: aktuell mit Luxemburg dauerhaft im Aenderungsprotokoll vom 06.07.2023 verankert (Bagatellgrenze 34 Tage), Niederlande analog ab 01.01.2026 (Aend.-Prot. 14.04.2025). Andere Staaten teils befristet — BMF-Verzeichnis prüfen.
 
 ## Trade-off-Tabelle
 
@@ -148,7 +148,7 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 | Server-BS vs. Server-Cloud | dedizierter Server vor Ort (Verfuegungsmacht) — kann BS sein | Cloud-Hosting (Drittanbieter) — regelmaessig keine BS | bei E-Commerce: Cloud-Hosting bevorzugen, wenn Quellenstaat-Steuer vermieden werden soll |
 | Switch-Over hinnehmen vs. aktive Einkuenfte erzeugen | passive BS-Einkuenfte > 25 % der BS-Einnahmen — § 20 Abs. 2 AStG | Aktivierung (z.B. echte Vertriebs- oder Produktionstaetigkeit dazu) | bei strukturellem Switch-Over Pfad B planen, sonst Freistellungsverlust |
 
-## Was Reviewer/Pruefer triggert
+## Was Reviewer/Prüfer triggert
 
 - **Verfuegungsmacht behauptet ohne Mietvertrag oder Anweisung**: bei Home-Office, Kundenraeumen, Sponsorenflaechen.
 - **Bauausfuehrung-Frist falsch berechnet**: Beginn mit Vertragsschluss statt mit physischem Beginn der Baustelle; Unterbrechungen zu Unrecht abgezogen.
@@ -165,7 +165,7 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 | Feste Geschaeftseinrichtung | Art. 5 Abs. 1 DBA | [Buero/Werkstatt/Server] | [ja/nein] |
 | Verfuegungsmacht | Art. 5 Abs. 1 DBA | [Mietvertrag/Eigentum/dauerhafte Nutzung] | [ja/nein] |
 | Festigkeit (raeumlich-funktional) | Art. 5 Abs. 1 DBA | [Dauer; > 6 Monate Indiz] | [ja/nein] |
-| Aktivitaet | Art. 5 Abs. 1 DBA | [Personal/Anlage taetig] | [ja/nein] |
+| Aktivitaet | Art. 5 Abs. 1 DBA | [Personal/Anlage tätig] | [ja/nein] |
 | Bauausfuehrung-Dauer | Art. 5 Abs. 3 DBA | [12 Monate / abweichend; Subunternehmer addiert] | [ueberschritten/nicht] |
 | Vorbereitungs-/Hilfstaetigkeit (negativ) | Art. 5 Abs. 4 DBA + MLI Art. 13 | [Lager/Wareneinkauf/Information; Anti-Fragmentierung] | [Ausnahme greift / greift nicht] |
 | Vertreter-BS | Art. 5 Abs. 5/6 DBA + MLI Art. 12 | [Vollmacht oder Hauptrolle; verbundenes Unternehmen?] | [ja/nein] |
@@ -183,10 +183,10 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 | Lokale Steuer (z.B. 25 Prozent) | 50.000 EUR | lokaler Steuerbescheid |
 | Behandlung in DE | Freistellung (Art. 23A DBA) oder Anrechnung (Art. 23B DBA, § 34c EStG) | DBA-Methodenartikel |
 
-(**Werte sind Beispiel — konkrete Aufteilung nach BsGaV und DBA-Aktivitaetsklausel pruefen.**)
+(**Werte sind Beispiel — konkrete Aufteilung nach BsGaV und DBA-Aktivitaetsklausel prüfen.**)
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 5 OECD-MA 2017, MLI Art. 12, 13, 14, 15. § 12, § 13 AO. § 49 EStG. § 1 Abs. 5 AStG. BsGaV vom 13.10.2014. BMF-Schreiben 22.12.2016 (BStBl I 2017, 182) (Verwaltungsgrundsaetze BS-Gewinn). Aktuelle BFH-Rechtsprechung und MLI-Notifications im BMF-DBA-Verzeichnis pruefen.
+Stand: 05/2026. Art. 5 OECD-MA 2017, MLI Art. 12, 13, 14, 15. § 12, § 13 AO. § 49 EStG. § 1 Abs. 5 AStG. BsGaV vom 13.10.2014. BMF-Schreiben 22.12.2016 (BStBl I 2017, 182) (Verwaltungsgrundsaetze BS-Gewinn). Aktuelle BFH-Rechtsprechung und MLI-Notifications im BMF-DBA-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 2 belegt (Fundstelle/Datum bestaetigt), 8 ersetzt (Az nicht belegbar, Saetze neu formuliert) -->

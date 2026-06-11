@@ -90,8 +90,8 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - **can. 1399 CIC** Generalklausel.
 
 ### Verhaeltnis zu staatlichem Strafrecht
-- Doppelbestrafung moeglich; staatliches Strafverfahren unabhaengig.
-- Anzeigepflicht in DE: keine generelle, aber nach Vos Estis Lux Mundi kirchliche Pflicht zur Meldung an staatliche Stellen, soweit nach staatlichem Recht moeglich.
+- Doppelbestrafung möglich; staatliches Strafverfahren unabhaengig.
+- Anzeigepflicht in DE: keine generelle, aber nach Vos Estis Lux Mundi kirchliche Pflicht zur Meldung an staatliche Stellen, soweit nach staatlichem Recht möglich.
 
 ### Pruefraster
 1. Tatzeit nach 08.12.2021? — Buch VI neu (Pascite Gregem Dei).

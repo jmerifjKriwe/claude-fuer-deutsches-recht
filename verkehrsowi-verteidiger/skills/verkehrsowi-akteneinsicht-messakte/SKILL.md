@@ -19,7 +19,7 @@ description: "Verkehrsowi Akteneinsicht Messakte: ordnet Normen, Nutzerangaben, 
 2. **Welche Behörde fuehrt das Verfahren?** — Im Vorverfahren: Verwaltungsbehoerde (Bussgeldstelle); nach Einspruch: Staatsanwaltschaft oder direkt Amtsgericht.
 3. **Welches Messgeraet wurde eingesetzt?** — Beeinflusst welche Unterlagen kritisch sind.
 4. **Liegt die Akte bereits beim Amtsgericht?** — Nach Einspruch leitet die Bussgeldstelle ab; Akteneinsicht dann beim Gericht.
-5. **Digitale oder Papierakte?** — Zunehmend elektronische Akten (eAkte); Messunterlagen koennen als PDF oder separat vorliegen.
+5. **Digitale oder Papierakte?** — Zunehmend elektronische Akten (eAkte); Messunterlagen können als PDF oder separat vorliegen.
 
 ## Zentrale Normen
 
@@ -64,7 +64,7 @@ VERWALTUNG:
 1. **Vollmacht des Betroffenen sichern.**
 2. **Akteneinsichtsgesuch stellen** bei der Bussgeldstelle (vor Einspruch) oder dem Amtsgericht (nach Einspruch); explizit alle Messunterlagen aufzaehlen.
 3. **Eingang kontrollieren:** Ist die Messakte vollstaendig? Fehlendes sofort schriftlich ruegen.
-4. **Eichschein-Datum pruefen:** Eichgueltigkeit zum Messzeitpunkt?
+4. **Eichschein-Datum prüfen:** Eichgueltigkeit zum Messzeitpunkt?
 5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. **Messprotokoll auswerten:** Aufstellungsort korrekt? Messtechnik-Vorgaben eingehalten?
 7. **Bei Verweigerung:** Beschwerde nach § 49 Abs. 2 OWiG i.V.m. § 147 Abs. 5 StPO.

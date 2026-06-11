@@ -15,7 +15,7 @@ Nicht jede Forderungsakte braucht eine Klage. Dieser Skill waehlt das passende P
 | Anwaltliches Forderungsschreiben | Zweite Eskalationsstufe Inkassokostenanspruch wecken | wie oben plus Vollmacht Hinweis Kostenfolge | RDG 13b |
 | Mahnbescheidsantrag online | unstrittig faellig kein Widerspruch erwartet | Glaeubiger Schuldner Anspruchsgrund Hauptforderung Nebenforderungen Zinsen | ZPO 690 |
 | Klageschrift Zahlungsklage | Streit erwartet oder Mahnverfahren ausgeschlossen | Parteien Antrag Tatsachen Beweis Streitwert | ZPO 253 Abs. 2 |
-| Vollstreckungsauftrag Gerichtsvollzieher | Titel vorhanden bewegliches Vermoegen | Glaeubiger Schuldner Titel Forderung Hoehe | ZPO 753 ZPO 754 |
+| Vollstreckungsauftrag Gerichtsvollzieher | Titel vorhanden bewegliches Vermögen | Glaeubiger Schuldner Titel Forderung Höhe | ZPO 753 ZPO 754 |
 | Pfaendungs- und Ueberweisungsbeschluss | Titel Drittschuldner bekannt | Drittschuldnerdaten Forderungsbezeichnung | ZPO 829 ZPO 835 |
 | Forderungsanmeldung InsO | Schuldner insolvent | Forderung Grund Beleg Rangstufe Vorrechte | InsO 174 |
 | Vergleichsentwurf | beide Seiten verhandlungsbereit | Forderungshoehe Ratenplan Verzichtsklausel Vollstreckungsklausel | BGB 779 ZPO 794 Abs. 1 Nr. 1 |
@@ -24,10 +24,10 @@ Nicht jede Forderungsakte braucht eine Klage. Dieser Skill waehlt das passende P
 ## Entscheidungslogik
 
 1. Eilbeduerftigkeit Verjährung naht in unter sechzig Tagen Mahnbescheid oder Klage sofort
-2. Beweislage stark Urkundenprozess pruefen
+2. Beweislage stark Urkundenprozess prüfen
 3. Schuldner zahlungsbereit aber liquide schwach Vergleich mit Vollstreckungsunterwerfung ZPO 794 Abs. 1 Nr. 5
 4. Schuldner schweigt nach zwei Mahnungen Mahnbescheid
-5. Streit ueber Existenz oder Hoehe Zahlungsklage
+5. Streit über Existenz oder Höhe Zahlungsklage
 
 ## Norm-Pinpoints
 

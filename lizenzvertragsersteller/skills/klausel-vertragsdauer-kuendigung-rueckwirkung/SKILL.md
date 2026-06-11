@@ -24,10 +24,10 @@ description: "Vertragsdauer-Klauseln: feste Laufzeit, unbefristet mit Kuendigung
 > "(2) Die Laufzeit verlaengert sich um jeweils [M] Jahre, sofern keine Partei spaetestens [F] Monate vor Ablauf der jeweiligen Laufzeit dem Vertrag schriftlich widerspricht."
 
 **C. Ausserordentliche Kuendigung:**
-> "(3) Beide Parteien koennen den Vertrag aus wichtigem Grund ohne Einhaltung einer Kuendigungsfrist kuendigen. Ein wichtiger Grund liegt insbesondere vor bei:
+> "(3) Beide Parteien können den Vertrag aus wichtigem Grund ohne Einhaltung einer Kuendigungsfrist kuendigen. Ein wichtiger Grund liegt insbesondere vor bei:
 > - wesentlicher Vertragsverletzung, die trotz schriftlicher Abmahnung nicht binnen 30 Tagen behoben wird,
-> - Verzug mit Lizenzzahlungen ueber 60 Tage,
-> - Eroeffnung eines Insolvenzverfahrens ueber das Vermoegen der Gegenseite,
+> - Verzug mit Lizenzzahlungen über 60 Tage,
+> - Eroeffnung eines Insolvenzverfahrens über das Vermögen der Gegenseite,
 > - Verletzung der Vertraulichkeitspflicht,
 > - dauerhafter Nichtnutzung der Lizenz (bei ausschliesslicher Lizenz, mehr als 24 Monate)."
 
@@ -35,8 +35,8 @@ description: "Vertragsdauer-Klauseln: feste Laufzeit, unbefristet mit Kuendigung
 > "$ 12 Folgen der Vertragsbeendigung.
 > (1) Mit Vertragsende erloeschen alle Nutzungsrechte des Lizenznehmers.
 > (2) Der Lizenznehmer ist verpflichtet, binnen 30 Tagen alle koerperlichen und elektronischen Kopien des Lizenzgegenstands zurueckzugeben oder nachweislich zu vernichten.
-> (3) Vorhandene Bestaende von Lizenzprodukten duerfen waehrend einer Auslaufphase von [X] Monaten weiter abverkauft werden ('sell-off-period'); Lizenzgebuehren werden weiter gezahlt.
-> (4) Die Vertraulichkeitspflicht ($ 13) gilt 5 Jahre ueber das Vertragsende hinaus fort.
+> (3) Vorhandene Bestaende von Lizenzprodukten dürfen waehrend einer Auslaufphase von [X] Monaten weiter abverkauft werden ('sell-off-period'); Lizenzgebuehren werden weiter gezahlt.
+> (4) Die Vertraulichkeitspflicht ($ 13) gilt 5 Jahre über das Vertragsende hinaus fort.
 > (5) Verguetungsrueckforderungen sind ausgeschlossen, soweit nicht ausdruecklich anders geregelt."
 
 **E. Lizenz-Nachwirkung bei Sub-Lizenzen:**

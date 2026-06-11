@@ -20,7 +20,7 @@ description: "Falsche Angaben des Geschaeftsfuehrers nach Paragraph 82 GmbHG: St
 
 ## Worum geht es konkret
 
-Paragraph 82 GmbHG sanktioniert spezifische Falschangaben des Geschaeftsfuehrers und der Gruender im GmbH-Recht. Anwendungsfall: GF erklaert bei Anmeldung der Gruendung gegenueber dem Handelsregister, das Stammkapital sei eingezahlt, obwohl dies nicht zutrifft; oder unrichtige Angaben zur Kapitalerhoehung.
+Paragraph 82 GmbHG sanktioniert spezifische Falschangaben des Geschaeftsfuehrers und der Gründer im GmbH-Recht. Anwendungsfall: GF erklaert bei Anmeldung der Gruendung gegenueber dem Handelsregister, das Stammkapital sei eingezahlt, obwohl dies nicht zutrifft; oder unrichtige Angaben zur Kapitalerhoehung.
 
 Die Norm steht im Schutz des Rechtsverkehrs vor Tauschungen im Registerverfahren. Anders als Paragraph 263 StGB Betrug ist eine Vermoegensschaedigung *nicht* Tatbestandsmerkmal; es genuegt die Tauschungshandlung im Registerverkehr.
 
@@ -28,7 +28,7 @@ Die Norm steht im Schutz des Rechtsverkehrs vor Tauschungen im Registerverfahren
 
 ### Absatz 1 Nr 1 falsche Versicherung zur Gruendung
 
-Wer als Geschaeftsfuehrer oder Mitglied des Aufsichtsrats zum Zweck der Eintragung der Gesellschaft oder zum Zweck der Anmeldung einer Erhoehung des Stammkapitals **falsche Angaben** ueber:
+Wer als Geschaeftsfuehrer oder Mitglied des Aufsichtsrats zum Zweck der Eintragung der Gesellschaft oder zum Zweck der Anmeldung einer Erhoehung des Stammkapitals **falsche Angaben** über:
 
 - die **Uebernahme** der Stammeinlagen,
 - die **Einzahlung** auf das Stammkapital,
@@ -39,11 +39,11 @@ zu Zwecken der Eintragung in das Handelsregister macht, wird mit Freiheitsstrafe
 
 ### Absatz 1 Nr 2 unrichtige Darstellung des Verlusts
 
-Wer als GF in einer schriftlichen Erklaerung an die Gesellschafter ueber den Verlust der Haelfte des Stammkapitals (Paragraph 49 Abs 3 GmbHG) **unrichtig oder unvollstaendig** Angaben macht oder den Verlust **verschleiert**.
+Wer als GF in einer schriftlichen Erklaerung an die Gesellschafter über den Verlust der Haelfte des Stammkapitals (Paragraph 49 Abs 3 GmbHG) **unrichtig oder unvollstaendig** Angaben macht oder den Verlust **verschleiert**.
 
 ### Absatz 1 Nr 3 unrichtige Angaben gegenueber Pruefern
 
-Wer einem mit der Pruefung beauftragten Pruefer (Abschlusspruefer nach HGB) **unrichtige Auskuenfte erteilt** oder Tatsachen verschweigt.
+Wer einem mit der Prüfung beauftragten Prüfer (Abschlusspruefer nach HGB) **unrichtige Auskuenfte erteilt** oder Tatsachen verschweigt.
 
 ### Absatz 1 Nr 4 unrichtige Eroeffnungsbilanz
 
@@ -59,10 +59,10 @@ Vorsatz erforderlich, dolus eventualis genuegt. Bei Nr. 1 verlangt die Rspr. zus
 
 ## Praktikertipps der alten Hasen
 
-- **Versicherung zur Stammeinlage genau pruefen.** Wer die Versicherung in der notariellen Anmeldung abgegeben hat (Paragraph 8 Abs 2 GmbHG), tritt strafrechtlich ein, auch wenn das Geld nachher zurueckgezahlt wurde (hin- und herzahlen). BGH staendige Rspr. zur "wirtschaftlichen Betrachtung" der Einlage.
-- **Pruefung der Einlageleistung in der Krise.** Bei sogenannter "verdeckter Sacheinlage" (Paragraph 19 Abs 4 GmbHG) liegt regelmaessig auch Paragraph 82 GmbHG vor, weil die Versicherung "Stammeinlage eingezahlt" objektiv falsch ist.
-- **Verschleierung des Verlusts der Haelfte des Stammkapitals.** Wenn der GF die Pflicht zur Einberufung der Gesellschafterversammlung nach Paragraph 49 Abs 3 GmbHG schon nicht erfuellt hat (Paragraph 84 GmbHG), trifft ihn bei zusaetzlicher unrichtiger Erklaerung Paragraph 82 GmbHG. Konkurrenz pruefen.
-- **Pruefer-Pflichtverhaeltnis.** Auskunftspflicht gegenueber Abschlusspruefern ist gesetzlich (Paragraph 320 HGB). Wer dort unrichtige Angaben macht, kann sowohl Paragraph 82 GmbHG als auch Paragraph 331 HGB (Bilanzdelikte) verwirklichen.
+- **Versicherung zur Stammeinlage genau prüfen.** Wer die Versicherung in der notariellen Anmeldung abgegeben hat (Paragraph 8 Abs 2 GmbHG), tritt strafrechtlich ein, auch wenn das Geld nachher zurueckgezahlt wurde (hin- und herzahlen). BGH staendige Rspr. zur "wirtschaftlichen Betrachtung" der Einlage.
+- **Prüfung der Einlageleistung in der Krise.** Bei sogenannter "verdeckter Sacheinlage" (Paragraph 19 Abs 4 GmbHG) liegt regelmaessig auch Paragraph 82 GmbHG vor, weil die Versicherung "Stammeinlage eingezahlt" objektiv falsch ist.
+- **Verschleierung des Verlusts der Haelfte des Stammkapitals.** Wenn der GF die Pflicht zur Einberufung der Gesellschafterversammlung nach Paragraph 49 Abs 3 GmbHG schon nicht erfuellt hat (Paragraph 84 GmbHG), trifft ihn bei zusaetzlicher unrichtiger Erklaerung Paragraph 82 GmbHG. Konkurrenz prüfen.
+- **Prüfer-Pflichtverhaeltnis.** Auskunftspflicht gegenueber Abschlusspruefern ist gesetzlich (Paragraph 320 HGB). Wer dort unrichtige Angaben macht, kann sowohl Paragraph 82 GmbHG als auch Paragraph 331 HGB (Bilanzdelikte) verwirklichen.
 - **Notarielle Versicherung kein Schutz.** Auch wenn der Notar die Versicherung beurkundet hat, bleibt der GF strafbar. Berufung auf den Notar schliesst Vorsatz nicht aus, kann aber bei Verbotsirrtum (Paragraph 17 StGB) helfen.
 
 ## Trade-off-Matrix
@@ -73,10 +73,10 @@ Vorsatz erforderlich, dolus eventualis genuegt. Bei Nr. 1 verlangt die Rspr. zus
 
 ## Konkurrenzen
 
-- **Paragraph 82 GmbHG und Paragraph 263 StGB Betrug.** Bei zusaetzlicher Vermoegensschaedigung Dritter (Bank, Glaeubiger) Tateinheit moeglich. Paragraph 263 StGB hat hoeheren Strafrahmen.
+- **Paragraph 82 GmbHG und Paragraph 263 StGB Betrug.** Bei zusaetzlicher Vermoegensschaedigung Dritter (Bank, Glaeubiger) Tateinheit möglich. Paragraph 263 StGB hat hoeheren Strafrahmen.
 - **Paragraph 82 GmbHG und Paragraph 84 GmbHG.** Wer den Verlust der Haelfte des Stammkapitals nicht anzeigt (Paragraph 84 GmbHG iVm Paragraph 49 Abs 3 GmbHG) UND zusaetzlich unrichtig erklaert (Paragraph 82 Abs 1 Nr 2 GmbHG), verwirklicht beide Tatbestaende. Tatmehrheit.
-- **Paragraph 82 GmbHG und Paragraph 331 HGB.** Bei unrichtiger Bilanzdarstellung Paragraph 331 HGB als spezielleres Bilanzdelikt vorrangig. Subsidiaritaet wegen sachlicher Tateinheit pruefen.
-- **Paragraph 82 GmbHG und Paragraph 271 StGB / Paragraph 274 StGB.** Falsche Beurkundung/Urkundenvernichtung; bei manipulierten Anmeldebescheiden moeglich.
+- **Paragraph 82 GmbHG und Paragraph 331 HGB.** Bei unrichtiger Bilanzdarstellung Paragraph 331 HGB als spezielleres Bilanzdelikt vorrangig. Subsidiaritaet wegen sachlicher Tateinheit prüfen.
+- **Paragraph 82 GmbHG und Paragraph 271 StGB / Paragraph 274 StGB.** Falsche Beurkundung/Urkundenvernichtung; bei manipulierten Anmeldebescheiden möglich.
 
 ## Strafzumessung und Folgen
 
@@ -85,7 +85,7 @@ Vorsatz erforderlich, dolus eventualis genuegt. Bei Nr. 1 verlangt die Rspr. zus
 - **Einziehung Paragraph 73 StGB** des durch die falsche Eintragung erlangten Vorteils (z. B. eingesparter Eigenkapitalaufwand).
 - **Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG**: 5 Jahre als GF (Paragraph 82 GmbHG ist GmbH-Strafnorm und damit Insolvenzstraftat im weiteren Sinne).
 - **Zivilrechtlich**: Haftung des GF gegenueber GmbH und Glaeubigern aus Paragraph 9a, 24 GmbHG (Differenzhaftung); BGH staendige Rspr. zur verdeckten Sacheinlage.
-- BZRG-Eintrag bei Geldstrafe ueber 90 Tagessaetzen.
+- BZRG-Eintrag bei Geldstrafe über 90 Tagessaetzen.
 
 ## Mustertexte
 

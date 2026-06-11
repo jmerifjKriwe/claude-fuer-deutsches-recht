@@ -125,7 +125,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `sozialgerichtsverfahren-modus` | Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Prüfraster… |
 | `strafprozess-modus` | Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359… |
 | `verfahrenschronologie` | Erstellt eine chronologische Bullet-Liste aller prozessualen Schritte: Klageeingang Zustellungen Schriftsatzfristen Beweisbeschluesse muendliche Verhandlungen Beweisaufnahme Urteile und Rechtsmittel. Kritische Fristen… |
-| `verfahrensidentifikation` | Extrahiert strukturiert alle Verfahrensstammdaten: Gericht Kammer Aktenzeichen Streitwert Parteien (Klaeger Beklagte Streithelfer mit Anschrift gesetzlicher Vertretung Prozessbevollmaechtigten) Instanz und… |
+| `verfahrensidentifikation` | Extrahiert strukturiert alle Verfahrensstammdaten: Gericht Kammer Aktenzeichen Streitwert Parteien (Kläger Beklagte Streithelfer mit Anschrift gesetzlicher Vertretung Prozessbevollmaechtigten) Instanz und… |
 | `verfahrenszusammenfassung-absatz` | Anwalt will sich schnell in Akte einarbeiten ohne vollständige Lektuere. Acht bis zehn Saetze Hintergrund Streitstand prozessuale Lage anstehende Verfahrenshandlungen. Normen §§ 253 261 ZPO. Prüfraster Vollständigkeit… |
 | `verwaltungsprozess-modus` | Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Prüfraster VwGO-spezifische… |
 | `zivilprozess-modus` | Aktenauszug für ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff. ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §§ 935 ff. ZPO. Normen ZPO BGH-Leitsaetze. Prüfraster… |
@@ -138,10 +138,10 @@ Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne E
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie uebernehmen ein laufendes Mandat und muessen sich ohne vollstaendige Aktenlektuere schnell orientieren.
+- Sie uebernehmen ein laufendes Mandat und müssen sich ohne vollstaendige Aktenlektuere schnell orientieren.
 - Eine neue Kollegin tritt die Vertretung an und braucht eine neutrale Zusammenfassung des Verfahrensstands.
 - Sie moechten Beweismittel und Rechtsargumente beider Seiten strukturiert gegenueberstellen für die Vorbereitung der muendlichen Verhandlung.
-- Fristen aus Schriftsaetzen, Beschluessen oder Urteilen muessen systematisch hervorgehoben werden.
+- Fristen aus Schriftsaetzen, Beschluessen oder Urteilen müssen systematisch hervorgehoben werden.
 - Sie erstellen ein Anlagenverzeichnis für alle Partei-Anlagen aus einer umfangreichen Akte.
 
 ## Fachbegriffe (kurz erklaert)
@@ -173,24 +173,24 @@ Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne E
 2. Verfahrensidentifikation: alle Stammdaten und Beteiligte erfassen.
 3. Einleitungssatz und Zusammenfassungsabsatz generieren.
 4. Sachverhalts- und Verfahrenschronologie erstellen; Fristen hervorheben.
-5. Parteivortrag, Beweismittel und Rechtsargumente gegenueberstellen; Neutralitaet pruefen.
+5. Parteivortrag, Beweismittel und Rechtsargumente gegenueberstellen; Neutralitaet prüfen.
 
 ## Skill-Tour (was gibt es hier?)
 
 - `aktenauszug-erstellen` — Vollstaendigen Aktenauszug in allen sechs Bausteinen aus Gerichtsakte oder Schriftsaetzen erstellen.
-- `aktenauszug-strukturpruefung` — Fertig erstellten Aktenauszug auf Vollstaendigkeit, Fristen-Markierung und Neutralitaet pruefen.
+- `aktenauszug-strukturpruefung` — Fertig erstellten Aktenauszug auf Vollstaendigkeit, Fristen-Markierung und Neutralitaet prüfen.
 - `anlagenverzeichnis-extrakt` — Alle Anlagen-Verweise (K-, B-, AST-, AG-) aus der Akte extrahieren und Anlagenverzeichnis erstellen.
 - `anwaltsschriftsatz-stilrichtlinie` — Verbindliche Stilregeln für neutralen, juristisch sauberen Aktenauszug anwenden.
 - `arbeitsgerichtsverfahren-modus` — Aktenauszug für ArbGG-Verfahren mit KSchG-Fristen und ArbGG-Besonderheiten erstellen.
 - `beweismittel-gegenueberstellung` — Beweisangebote aller Parteien (Zeugen, Urkunden, Sachverstaendige) tabellarisch gegenueberstellen.
 - `einleitungssatz-generator` — Praegnanten Einleitungssatz generieren: wer streitet mit wem worueber nach welcher Hauptnorm.
 - `fristen-und-terminkalender` — Prozessuale Fristen und Termine hervorheben und Fristen-Box erstellen.
-- `neutralitaetspruefung` — Aktenauszug auf unzulaessige Wertungen und Erfolgsprognosen pruefen und neutralisieren.
-- `parteivortrag-gegenueberstellung` — Zweispaltige Tabelle streitiger Sachverhaltsangaben Klaeger vs. Beklagte erstellen.
+- `neutralitaetspruefung` — Aktenauszug auf unzulaessige Wertungen und Erfolgsprognosen prüfen und neutralisieren.
+- `parteivortrag-gegenueberstellung` — Zweispaltige Tabelle streitiger Sachverhaltsangaben Kläger vs. Beklagte erstellen.
 - `rechtsargumente-gegenueberstellung` — Tabellarische Gegenueberstellung der Rechtsargumente beider Parteien mit Normfundstellen.
 - `sachverhaltschronologie` — Chronologische Bullet-Liste ausserprozessualer Tatsachen ohne Wertung erstellen.
 - `schwerpunktthemen-identifikation` — Drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Fundstellen identifizieren.
-- `sozialgerichtsverfahren-modus` — Aktenauszug für SGG-Verfahren mit Vorverfahrens-Pruefung und Leistungsarten erstellen.
+- `sozialgerichtsverfahren-modus` — Aktenauszug für SGG-Verfahren mit Vorverfahrens-Prüfung und Leistungsarten erstellen.
 - `strafprozess-modus` — Aktenauszug für StPO-Verfahren mit Anklageschrift, Hauptverhandlung und Rechtsmitteln erstellen.
 - `verfahrenschronologie` — Chronologische Liste aller prozessualen Schritte mit hervorgehobenen kritischen Fristen.
 - `verfahrensidentifikation` — Alle Verfahrensstammdaten strukturiert erfassen: Gericht, Kammer, Aktenzeichen, Parteien.
@@ -203,7 +203,7 @@ Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne E
 - **Neutralitaet strikt einhalten**: Ein Aktenauszug enthaelt keine Erfolgsprognose und keine Bewertung, welcher Vortrag zutrifft; Verstoss untergraebt die Verwendbarkeit.
 - **Fristen immer optisch hervorheben**: Eine uebersehene Berufungsfrist kann das Mandat kosten; der Fristen-und-Terminkalender-Skill ist Pflichtschritt.
 - **Modus korrekt auswaehlen**: ArbGG, SGG, VwGO und StPO haben eigene Fristen und Besonderheiten, die der jeweilige Modus-Skill abdeckt.
-- **Anlagenverzeichnis vollstaendig fuehren**: Fehlende Anlagen koennen in der Verhandlung nicht nachgereicht werden ohne Fristrisiko.
+- **Anlagenverzeichnis vollstaendig fuehren**: Fehlende Anlagen können in der Verhandlung nicht nachgereicht werden ohne Fristrisiko.
 - **Stilrichtlinie für alle Bausteine verbindlich**: Unterschiedliche Sprachstile in verschiedenen Bausteinen zerstoeren die Lesbarkeit des Auszugs.
 
 ## Typische Fehler

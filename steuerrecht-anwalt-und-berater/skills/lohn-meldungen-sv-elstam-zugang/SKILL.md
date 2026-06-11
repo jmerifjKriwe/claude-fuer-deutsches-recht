@@ -13,7 +13,7 @@ description: "SV-Meldungen und ELStAM-Verfahren beim AN-Onboarding. Anwendungsfa
 
 ## Kernsachverhalt
 
-Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden, bei Ende abzumelden. Aenderungen (Krankenkasse-Wechsel, Adresse, Steuerklasse) sind zu melden. Parallel erfolgt der elektronische Abruf der Lohnsteuer-Abzugsmerkmale (ELStAM). Das DEUEV-Verfahren (Datenerfassungs- und -uebermittlungsverordnung) steuert die SV-Meldungen, das ELStAM-Verfahren die LSt-Abzugsmerkmale. Beide muessen rechtzeitig und korrekt erfolgen.
+Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden, bei Ende abzumelden. Aenderungen (Krankenkasse-Wechsel, Adresse, Steuerklasse) sind zu melden. Parallel erfolgt der elektronische Abruf der Lohnsteuer-Abzugsmerkmale (ELStAM). Das DEUEV-Verfahren (Datenerfassungs- und -uebermittlungsverordnung) steuert die SV-Meldungen, das ELStAM-Verfahren die LSt-Abzugsmerkmale. Beide müssen rechtzeitig und korrekt erfolgen.
 
 ## Kaltstart-Rueckfragen
 
@@ -72,7 +72,7 @@ Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden
 
 ### Phase 3 — ELStAM-Abruf
 
-- Anmeldung beim ELStAM-Verfahren ueber das BZSt (Bundeszentralamt für Steuern).
+- Anmeldung beim ELStAM-Verfahren über das BZSt (Bundeszentralamt für Steuern).
 - Voraussetzungen: AN-Steuer-ID (11-stellig nach § 139b AO), AG-Steuer-Nr (oder AG-Identifikationsnummer), AG-Betriebsstaetten-Nummer der BA.
 - Standard-Abrufintervall: monatlich vor der Lohnabrechnung; in DATEV LODAS automatisiert.
 - Bei Aenderungen (Steuerklasse, Kinderfreibetrag, Konfession): automatische Aktualisierung durch FA; das AG-System aktualisiert ELStAM beim naechsten Abruf.
@@ -82,7 +82,7 @@ Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden
 - Erster Arbeitgeber (Steuerklasse 1-5): Hauptbeschaeftigung.
 - Weiterer Arbeitgeber (Steuerklasse 6): hoechste LSt-Belastung.
 - Aenderung Hauptbeschaeftigung: AN muss FA informieren.
-- Bei ELStAM-Sperre durch Konflikt: Sperrgrund pruefen, AN-Aufklaerung.
+- Bei ELStAM-Sperre durch Konflikt: Sperrgrund prüfen, AN-Aufklaerung.
 
 ### Phase 5 — Abmeldung
 

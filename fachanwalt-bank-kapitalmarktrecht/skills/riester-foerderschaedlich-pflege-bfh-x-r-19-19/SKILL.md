@@ -7,7 +7,7 @@ description: "Riester foerderschaedliche Verwendung bei Pflegekosten mit BFH X R
 
 ## Einsatzlage
 
-Riester-Sparerin nutzt Restkapital fuer Pflegekosten; Anbieter meldet foerderschaedliche Verwendung.
+Riester-Sparerin nutzt Restkapital für Pflegekosten; Anbieter meldet foerderschaedliche Verwendung.
 
 ## Normenanker
 

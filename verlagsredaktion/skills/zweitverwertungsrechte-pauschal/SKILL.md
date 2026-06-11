@@ -30,18 +30,18 @@ Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinste
 ## Rechtlicher und sachlicher Rahmen
 
 - UrhG § 38 Abs. 1 - Zeitschriftenbeitrag: ausschliessliches Vervielfaeltigungs- und Verbreitungsrecht des Verlags für ein Jahr nach Erscheinen; danach darf der Autor den Beitrag anderweitig vervielfaeltigen und verbreiten (keine gesetzliche Beschraenkung auf nicht-kommerzielle Nutzung), soweit nichts anderes vereinbart ist.
-- UrhG § 38 Abs. 4 - Open-Access-Zweitverwertungsrecht: nur bei wissenschaftlichen Beitraegen aus oeffentlich gefoerderter Forschungstaetigkeit; nach Ablauf von zwoelf Monaten seit Erstveroeffentlichung; in der akzeptierten Manuskriptfassung; ausschliesslich zu nicht-kommerziellen Zwecken; entgegenstehende Vereinbarungen sind unwirksam.
+- UrhG § 38 Abs. 4 - Open-Access-Zweitverwertungsrecht: nur bei wissenschaftlichen Beitraegen aus öffentlich gefoerderter Forschungstaetigkeit; nach Ablauf von zwoelf Monaten seit Erstveroeffentlichung; in der akzeptierten Manuskriptfassung; ausschließlich zu nicht-kommerziellen Zwecken; entgegenstehende Vereinbarungen sind unwirksam.
 - UrhG § 31 - Einraeumung von Nutzungsrechten; § 31a - unbekannte Nutzungsarten; § 40a - 10-Jahres-Klausel.
-- UrhG § 32 - Verguetung; § 32a - Bestsellerklausel; § 32d - Auskunft.
+- UrhG § 32 - Vergütung; § 32a - Bestsellerklausel; § 32d - Auskunft.
 - VerlG §§ 28, 29 - Verlagsrechte und ihr Ende.
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Vertragsstand pruefen.** Welche Nebenrechte sind dem Verlag eingeraeumt? Schriftform für unbekannte Nutzungsarten beachten.
-2. **Gesetzliches Zweitverwertungsrecht.** Zwei Regime sauber trennen: (a) UrhG § 38 Abs. 1 - bei Zeitschriftenbeitraegen allgemein endet die Verlagsexklusivitaet nach einem Jahr; danach kann der Autor frei weiterverwerten (kein gesetzliches Non-Commercial-Limit), wenn nicht vertraglich anders geregelt. (b) UrhG § 38 Abs. 4 - Sonderregel für oeffentlich gefoerderte wissenschaftliche Beitraege: nach 12 Monaten, akzeptierte Manuskriptfassung, ausschliesslich nicht-kommerziell; abweichende Vereinbarungen sind unwirksam.
-3. **Datenbankeinstellung (juris, beck-online).** Vertraglich pruefen, Sublizenz-Klausel, Erloesteilung.
+1. **Vertragsstand prüfen.** Welche Nebenrechte sind dem Verlag eingeraeumt? Schriftform für unbekannte Nutzungsarten beachten.
+2. **Gesetzliches Zweitverwertungsrecht.** Zwei Regime sauber trennen: (a) UrhG § 38 Abs. 1 - bei Zeitschriftenbeitraegen allgemein endet die Verlagsexklusivitaet nach einem Jahr; danach kann der Autor frei weiterverwerten (kein gesetzliches Non-Commercial-Limit), wenn nicht vertraglich anders geregelt. (b) UrhG § 38 Abs. 4 - Sonderregel für öffentlich gefoerderte wissenschaftliche Beitraege: nach 12 Monaten, akzeptierte Manuskriptfassung, ausschließlich nicht-kommerziell; abweichende Vereinbarungen sind unwirksam.
+3. **Datenbankeinstellung (juris, beck-online).** Vertraglich prüfen, Sublizenz-Klausel, Erloesteilung.
 4. **Sonderdruck und Festschriftsuebernahme.** Honorar pro Stueck oder pauschal; Verteilung an Co-Autoren.
-5. **Open Access.** Pruefen, ob Foerderbedingungen Green oder Gold OA verlangen. Embargofrist beachten.
+5. **Open Access.** Prüfen, ob Foerderbedingungen Green oder Gold OA verlangen. Embargofrist beachten.
 6. **Auskehr an Autoren.** Standardvorschlag: 50/50 für reine Sublizenz nach Abzug direkter Kosten, alternativ Pauschale.
 7. **Dokumentation.** Vertragsanlage Nebenrechte; pro Jahr Auskehr separat ausweisen.
 
@@ -57,7 +57,7 @@ Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinste
 
 ## Praxistipps der alten Redaktion
 
-- Datenbankerloese (juris, beck-online, dejure-plus) immer mit Anteil an Autor - sonst spaeter § 32a-Anspruch.
+- Datenbankerloese (juris, beck-online, dejure-plus) immer mit Anteil an Autor - sonst später § 32a-Anspruch.
 - Open Access nicht ignorieren; viele Foerderer (DFG, EU) verlangen das.
 - Sonderdrucke an Autor in der Vereinbarung mitregeln (z. B. 25 Stueck kostenlos).
 - Bei Festschriftsuebernahme: Beitrag bleibt im Sammelband, separater Sonderdruck nur mit Autorzustimmung.
@@ -139,7 +139,7 @@ Mit freundlichen Gruessen
 
 ## Quellen Stand 06/2026
 
-- UrhG §§ 31, 31a, 32, 32a, 32d, 32e, 38, 40a, 41 - Nutzungsrechte, Verguetung, Zweitverwertung.
+- UrhG §§ 31, 31a, 32, 32a, 32d, 32e, 38, 40a, 41 - Nutzungsrechte, Vergütung, Zweitverwertung.
 - VerlG §§ 28, 29 - Ende des Verlagsrechts.
 - DFG-Foerderbedingungen Open Access (aktuelle Fassung unter dfg.de).
 - EU-Horizon-Programmregeln zu Open Access (cordis.europa.eu).

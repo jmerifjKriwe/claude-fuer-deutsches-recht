@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -50,7 +50,7 @@ Die historische Fallakte ist eine Primearquelle ersten Ranges. Sie besteht typis
 
 ## Typische Streitfragen / Forschungsfragen
 
-1. Authentizitaet historischer Akten: Wie pruefen wir, dass eine Akte echt ist?
+1. Authentizitaet historischer Akten: Wie prüfen wir, dass eine Akte echt ist?
 2. Selektive Ueberlieferung: Welche Akten wurden vernichtet, welche bewahrt?
 3. Schriftlichkeitsgrad: Wie viel des Verfahrens ist in der Akte, wie viel blieb muendlich?
 4. Interpretation: Wie weit darf man aus einer Akte Rueckschluesse auf das Recht ziehen?

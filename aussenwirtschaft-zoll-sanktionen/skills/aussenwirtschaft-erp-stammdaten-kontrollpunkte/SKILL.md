@@ -22,8 +22,8 @@ description: "Exportkontroll-Kontrollpunkte in ERP-Systemen (SAP GTS, Oracle GTM
 ## Erste Schritte
 
 1. Bestandsaufnahme aller exportkontrollrelevanten Stammdaten-Felder im ERP.
-2. Gueterklassifizierungs-Korrektheit pruefen: ECCN, Dual-Use-Code, ALnr (Aussenwirtschaftslistennummer).
-3. Embargo-Lander-Tabelle auf Aktualitaet pruefen.
+2. Gueterklassifizierungs-Korrektheit prüfen: ECCN, Dual-Use-Code, ALnr (Aussenwirtschaftslistennummer).
+3. Embargo-Lander-Tabelle auf Aktualitaet prüfen.
 4. Sanktionslisten-Update-Prozess validieren: Frequenz und Quellenverifizierung.
 5. Dokumentenablage für EUC, Genehmigungen und Screening-Ergebnisse im ERP konfiguriert?
 6. Test-Szenarien für bekannte Sperr-Faelle durchfuehren und Ergebnisse protokollieren.

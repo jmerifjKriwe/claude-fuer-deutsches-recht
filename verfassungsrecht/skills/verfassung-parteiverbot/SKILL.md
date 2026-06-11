@@ -44,7 +44,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster Parteiverbot Art. 21 II GG
@@ -66,7 +66,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 ### 3. Potentialitaet (BVerfG, Urteil v. 17.01.2017, 2 BvB 1/13 — NPD II)
 - "Darauf ausgehen" verlangt **aktives, planvolles Handeln** mit dem **Potenzial, das Ziel zu erreichen**.
 - **Erfolgsmoeglichkeit** muss konkret bestehen; rein theoretisches Potenzial reicht nicht.
-- Ist Partei chancenlos, fehlt Potentialitaet — kein Verbot moeglich; statt dessen evtl. Finanzierungsausschluss Art. 21 III GG.
+- Ist Partei chancenlos, fehlt Potentialitaet — kein Verbot möglich; statt dessen evtl. Finanzierungsausschluss Art. 21 III GG.
 
 ### 4. Freiheitliche demokratische Grundordnung (BVerfGE 2, 1 — SRP; aktualisiert NPD II)
 - Menschenwuerde Art. 1 GG.
@@ -76,7 +76,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 ### 5. Rechtsfolgen § 46 BVerfGG iVm § 33 PartG
 - **Verbot** und **Aufloesung** der Partei.
 - **Verbot Ersatzorganisation** § 33 II PartG.
-- **Einziehung Vermoegen** zugunsten der öffentlichen Hand.
+- **Einziehung Vermögen** zugunsten der öffentlichen Hand.
 - **Verlust Mandate** § 46 III BVerfGG (Abgeordnete verlieren Mandat).
 - **Strafbarkeit** Fortfuehrung § 84 StGB.
 
@@ -94,11 +94,11 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 
 - **Verfassungsschutz-Beobachtung** (§ 3 BVerfSchG): geringere Schwelle; Bundesamt für Verfassungsschutz.
 - **Vereinsverbot** Art. 9 II GG, § 3 VereinsG: für Nicht-Parteien; durch BMI / Landesinnenministerien; Klage vor BVerwG (§ 4 VereinsG).
-- **Parteienprivileg**: solange BVerfG nicht entschieden hat, geniesst Partei vollen Status (kein Vereinsverbot moeglich, keine Wahlteilnahme-Beschraenkung).
+- **Parteienprivileg**: solange BVerfG nicht entschieden hat, geniesst Partei vollen Status (kein Vereinsverbot möglich, keine Wahlteilnahme-Beschraenkung).
 
 ## Praxisfallen
 
-- **V-Maenner-Problematik**: BVerfG, Beschluss v. 18.03.2003, 2 BvB 1/01 — NPD I (Einstellung). Nachrichtendienstliche Quellen muessen offengelegt sein; Abschaltverpflichtung.
+- **V-Maenner-Problematik**: BVerfG, Beschluss v. 18.03.2003, 2 BvB 1/01 — NPD I (Einstellung). Nachrichtendienstliche Quellen müssen offengelegt sein; Abschaltverpflichtung.
 - **Einstweilige Anordnung** § 32 BVerfGG bei Parteiverboten grds. ausgeschlossen.
 - **Beweislast** beim Antragsteller; "in dubio pro reo" gilt entsprechend.
 - **Anhaltspunkte aus Modellwissen** zu konkreten BVerfG-Az. immer live auf bundesverfassungsgericht.de verifizieren.

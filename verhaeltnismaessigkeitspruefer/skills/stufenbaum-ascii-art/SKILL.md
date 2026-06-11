@@ -70,7 +70,7 @@ description: "ASCII-Stufenbaum der Verhaeltnismaessigkeitspruefung zum Ausdrucke
                   +-----------------------------------+
 ```
 
-## Kurzbaum fuer Schriftsaetze
+## Kurzbaum für Schriftsaetze
 
 ```
 [Schutzbereich] -> [Eingriff] -> [Schranke]
@@ -80,7 +80,7 @@ description: "ASCII-Stufenbaum der Verhaeltnismaessigkeitspruefung zum Ausdrucke
     -> [Ergebnis]
 ```
 
-## Pfeilbaum fuer Tafelarbeit
+## Pfeilbaum für Tafelarbeit
 
 ```
 + Eingriffsmassnahme ?
@@ -121,6 +121,6 @@ description: "ASCII-Stufenbaum der Verhaeltnismaessigkeitspruefung zum Ausdrucke
 
 ## Verwandt
 
-- `mermaid-flowchart-pruefung` fuer die Mermaid-Version.
-- `ascii-pruefungsschema` fuer die kompakte Tabellenvariante.
-- `padlet-vier-stufen-tafel` fuer kollaborative Tafelarbeit.
+- `mermaid-flowchart-pruefung` für die Mermaid-Version.
+- `ascii-pruefungsschema` für die kompakte Tabellenvariante.
+- `padlet-vier-stufen-tafel` für kollaborative Tafelarbeit.

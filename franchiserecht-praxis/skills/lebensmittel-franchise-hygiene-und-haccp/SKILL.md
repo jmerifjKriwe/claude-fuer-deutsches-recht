@@ -38,7 +38,7 @@ Ein Franchise-Lebensmittelbetrieb (Restaurant, Bäckerei, Catering) erhält von 
 ## Prüfraster
 
 - Ist das HACCP-Konzept des Franchisesystems aktuell, vollständig und auf den konkreten Betriebstyp zugeschnitten?
-- Werden die HACCP-Massnahmen von den Franchisenehmern dokumentiert und archiviert?
+- Werden die HACCP-Maßnahmen von den Franchisenehmern dokumentiert und archiviert?
 - Führt der Franchisegeber regelmässige Hygiene-Audits durch und dokumentiert er diese?
 - Besteht im Franchisevertrag eine klare Pflicht der Franchisenehmer zur HACCP-Dokumentation?
 - Hat der Franchisegeber ein Frühwarnsystem für Rückrufe und lebensmittelrechtliche Risiken im System?

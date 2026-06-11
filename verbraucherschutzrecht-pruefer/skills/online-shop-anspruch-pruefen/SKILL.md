@@ -3,7 +3,7 @@ name: online-shop-anspruch-pruefen
 description: "Prüfer: Online-Shop: Anspruch prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Online Shop Anspruch Pruefen
+# Online Shop Anspruch Prüfen
 
 ## Arbeitsweg
 

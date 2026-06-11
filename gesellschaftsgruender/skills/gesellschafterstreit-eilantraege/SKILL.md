@@ -145,14 +145,14 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Eilantrag im Gesellschafterstreit beantragen | Einstweilige Verfuegung nach Pruefschema; Template unten |
 | Variante A — Gesellschafterstreit durch Mediator loesbar | Mediation oder Schiedsverfahren zuerst; Eilantrag nur bei Dringlichkeit |
 | Variante B — Mehrheitsbeschluss wirksam aber schadlich | Anfechtungsklage statt Eilantrag; Eilantrag nur bei unmittelbarem Schaden |
-| Variante C — GmbH droht Insolvenz durch Streit | Insolvenzrecht pruefen; parallele Handlungsoptionen koordinieren |
+| Variante C — GmbH droht Insolvenz durch Streit | Insolvenzrecht prüfen; parallele Handlungsoptionen koordinieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -333,7 +333,7 @@ Beweismittel:
 [Kanzlei / Name]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]

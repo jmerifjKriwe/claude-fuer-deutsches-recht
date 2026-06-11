@@ -129,7 +129,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Der gewerbliche Rechtsschutz umfasst die Gesamtheit der Schutzrechte für gewerblich verwertbare Immaterialgueter: Marken (MarkenG, EUTMR), Patente (PatG, EPUe), Gebrauchsmuster (GebrMG), Designs (DesignG), Urheberrechte (UrhG), Wettbewerbsrecht (UWG) sowie deren Durchsetzung und Abwehr. Das Plugin unterstuetzt Kanzleien und IP-Abteilungen beim gesamten Mandatsablauf — von der Markenrecherche ueber die Freedom-to-Operate-Analyse und Anmeldung bis hin zu Abmahnung, Schutzschrift und Verletzungsklage.
+Der gewerbliche Rechtsschutz umfasst die Gesamtheit der Schutzrechte für gewerblich verwertbare Immaterialgueter: Marken (MarkenG, EUTMR), Patente (PatG, EPUe), Gebrauchsmuster (GebrMG), Designs (DesignG), Urheberrechte (UrhG), Wettbewerbsrecht (UWG) sowie deren Durchsetzung und Abwehr. Das Plugin unterstuetzt Kanzleien und IP-Abteilungen beim gesamten Mandatsablauf — von der Markenrecherche über die Freedom-to-Operate-Analyse und Anmeldung bis hin zu Abmahnung, Schutzschrift und Verletzungsklage.
 
 Dieses Plugin richtet sich an auf IP-Recht spezialisierte Kanzleien und an Unternehmensjuristen, die Schutzrechte anmelden, verwalten und durchsetzen.
 
@@ -137,18 +137,18 @@ Dieses Plugin richtet sich an auf IP-Recht spezialisierte Kanzleien und an Unter
 
 - Ein Mandant plant eine neue Marke oder ein neues Produkt und fragt, ob er fremde Schutzrechte verletzt.
 - Eine Abmahnung wegen Marken-, Patent-, Urheber- oder UWG-Verletzung ist eingegangen und erfordert sofortige Reaktion.
-- Ein Mitarbeiter meldet eine betriebliche Erfindung und es ist zu klaeren, ob das Unternehmen sie in Anspruch nehmen soll.
+- Ein Mitarbeiter meldet eine betriebliche Erfindung und es ist zu klären, ob das Unternehmen sie in Anspruch nehmen soll.
 - Ein Open-Source-Anteil in der Software soll auf Copyleft-Pflichten geprueft werden.
 - Das IP-Portfolio muss auf anstehende Fristen (Jahresgebuehren, Benutzungsnachweis, Verlaengerung) ueberprueft werden.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Freedom-to-Operate (FTO)** — Pruefung, ob ein geplantes Produkt oder Verfahren fremde Patentrechte verletzt.
+- **Freedom-to-Operate (FTO)** — Prüfung, ob ein geplantes Produkt oder Verfahren fremde Patentrechte verletzt.
 - **Nizza-Klassifikation** — internationales System zur Einteilung von Waren und Dienstleistungen für Markeneintragungen (45 Klassen).
 - **Modifizierte Unterlassungserklaerung** — auf den konkreten Verletzungsfall beschraenkte Unterlassungsverpflichtung; vermeidet eine zu weite Verpflichtung.
 - **Schutzschrift** — praeventive Gegendarstellung, die im Zentralen Schutzschriftenregister (ZSSR) hinterlegt wird, um bei einer einstweiligen Verfuegung angehoert zu werden (§ 945a ZPO).
-- **Copyleft** — Lizenzbedingung (z.B. GPL), die vorschreibt, dass abgeleitete Werke unter denselben Lizenzbedingungen veroeffentlicht werden muessen.
-- **ArbnErfG** — Arbeitnehmererfindungsgesetz; regelt Inanspruchnahme, Verguetung und Freistellung betrieblicher Erfindungen.
+- **Copyleft** — Lizenzbedingung (z.B. GPL), die vorschreibt, dass abgeleitete Werke unter denselben Lizenzbedingungen veroeffentlicht werden müssen.
+- **ArbnErfG** — Arbeitnehmererfindungsgesetz; regelt Inanspruchnahme, Vergütung und Freistellung betrieblicher Erfindungen.
 
 ## Rechtsgrundlagen
 
@@ -163,10 +163,10 @@ Dieses Plugin richtet sich an auf IP-Recht spezialisierte Kanzleien und an Unter
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Schutzrechtsinhaber, Verletzer, Lizenznehmer oder Dritter?
+1. Mandantenkonstellation klären: Schutzrechtsinhaber, Verletzer, Lizenznehmer oder Dritter?
 2. Phase des Mandats bestimmen: Schutzrecht noch nicht vorhanden (Anmeldung/Recherche), bereits vorhanden (Verteidigung/Enforcement) oder Portfolio-Verwaltung?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen pruefen: Bei einstweiligen Verfuegungen gilt strenge Dringlichkeitsanforderung; Schutzschrift vor Gerichtsbeschluss hinterlegen.
+4. Eilfristen prüfen: Bei einstweiligen Verfuegungen gilt strenge Dringlichkeitsanforderung; Schutzschrift vor Gerichtsbeschluss hinterlegen.
 5. Anschluss-Skill bestimmen: Nach Verletzungs-Triage entweder Abmahnung/Unterlassungsverlangen oder Schutzschrift/Verteidigung.
 
 ## Skill-Tour (was gibt es hier?)
@@ -174,14 +174,14 @@ Dieses Plugin richtet sich an auf IP-Recht spezialisierte Kanzleien und an Unter
 - `gewerblicher-rechtsschutz-kaltstart-interview` — Ersteinrichtung des Plugins: Kanzleiprofil, Schutzrechtsportfolio und Durchsetzungsstrategie hinterlegen.
 - `gewerblicher-rechtsschutz-anpassen` — Kanzleiprofil nachjustieren ohne vollstaendiges Erstinterview zu wiederholen.
 - `gewerblicher-rechtsschutz-mandat-arbeitsbereich` — Mandatsverwaltung: aktives Mandat anlegen, wechseln und schliessen.
-- `mandat-triage-gewerblicher-rechtsschutz` — Eingangs-Triage: Sachgebiet, Mandantenrolle, Sofort-Fristen und Gerichtsauswahl klaeren.
+- `mandat-triage-gewerblicher-rechtsschutz` — Eingangs-Triage: Sachgebiet, Mandantenrolle, Sofort-Fristen und Gerichtsauswahl klären.
 - `verletzungs-triage` — Erste Einordnung: ignorieren, Abmahnung, einstweilige Verfuegung oder Klage?
 - `markenrecherche` — Kollisionsrisiken vor Marken- oder Produktname-Anmeldung im DPMA/EUIPO/WIPO pruefe.
 - `markenanmeldung-dpma` — Markenanmeldung beim DPMA oder Widerspruch gegen eingetragene Marken.
 - `fto-triage` — Freedom-to-Operate: Recherche auf sperrende Patente vor Produkteinfuehrung.
-- `erfindungsmeldung-aufnahme` — Arbeitnehmererfindung aufnehmen und ueber Inanspruchnahme oder Freistellung entscheiden.
-- `open-source-pruefung` — Copyleft-Pflichten und Lizenzkompatibilitaet für Softwareprojekte pruefen.
-- `ip-klausel-pruefung` — Vertragliche IP-Klauseln (Uebertragung, Lizenz, Freistellung) auf Risiken pruefen.
+- `erfindungsmeldung-aufnahme` — Arbeitnehmererfindung aufnehmen und über Inanspruchnahme oder Freistellung entscheiden.
+- `open-source-pruefung` — Copyleft-Pflichten und Lizenzkompatibilitaet für Softwareprojekte prüfen.
+- `ip-klausel-pruefung` — Vertragliche IP-Klauseln (Uebertragung, Lizenz, Freistellung) auf Risiken prüfen.
 - `unterlassungsverlangen` — Abmahnungsschreiben oder Optionsmemo bei erhaltener Abmahnung erstellen.
 - `abmahnung-urheberrecht` — Urheberrechtliche Abmahnung versenden oder auf erhaltene Abmahnung reagieren.
 - `schutzschrift-eilverfuegung` — Praeventive Schutzschrift im ZSSR hinterlegen (§ 945a ZPO).
@@ -192,15 +192,15 @@ Dieses Plugin richtet sich an auf IP-Recht spezialisierte Kanzleien und an Unter
 ## Worauf besonders achten
 
 - **Dringlichkeit bei einstweiligen Verfuegungen**: Wer zu lange wartet, verliert den Dringlichkeitsgrund; typisch sind zwei bis vier Wochen nach Kenntnis der Verletzung.
-- **Modifizierte Unterlassungserklaerung**: Eine zu weit gefasste Unterwerfung verpflichtet den Mandanten ueber den konkreten Fall hinaus; sorgfaeltige Formulierung ist zwingend.
+- **Modifizierte Unterlassungserklaerung**: Eine zu weit gefasste Unterwerfung verpflichtet den Mandanten über den konkreten Fall hinaus; sorgfaeltige Formulierung ist zwingend.
 - **Gerichtsstandswahl**: Bei Marken- und UWG-Verletzungen stehen Hamburg, Frankfurt, Muenchen I und Duesseldorf zur Wahl; die Senatspraxis zu Streitwerten und Dringlichkeit unterscheidet sich erheblich.
 - **ArbnErfG-Frist**: Der Arbeitgeber hat ab Meldung einer Arbeitnehmererfindung vier Monate Frist, um sie in Anspruch zu nehmen oder freizugeben (§ 6 ArbnErfG); Versaeumnis fuehrt zur freien Erfindung.
-- **OSS-Copyleft-Risiken**: Copyleft-Komponenten koennen dazu fuehren, dass proprietaerer Quellcode offengelegt werden muss; Pruefung vor Produktrelease ist essential.
+- **OSS-Copyleft-Risiken**: Copyleft-Komponenten können dazu fuehren, dass proprietaerer Quellcode offengelegt werden muss; Prüfung vor Produktrelease ist essential.
 
 ## Typische Fehler
 
-- Passivlegitimation nicht geprueft: Bei Lizenzketten und mehrstufiger Distribution ist zu klaeren, wer eigentlich anspruchspflichtig ist.
-- Abmahnung ohne Streitwertangabe verschickt: Fuehrt zu Diskussionen ueber Kostenerstattung und schaecht die Druckwirkung.
+- Passivlegitimation nicht geprueft: Bei Lizenzketten und mehrstufiger Distribution ist zu klären, wer eigentlich anspruchspflichtig ist.
+- Abmahnung ohne Streitwertangabe verschickt: Fuehrt zu Diskussionen über Kostenerstattung und schaecht die Druckwirkung.
 - Schutzschrift vergessen: Ohne hinterlegte Schutzschrift ergeht eine einstweilige Verfuegung ohne Anhörung; Rechtsverlust ist praktisch nicht mehr heilbar.
 - Vorbenutzungsrecht nach § 12 PatG nicht geprueft: Wer eine Technologie schon vor dem Anmeldetag des Patents benutzt hat, kann eine Freilizenz genessen — dieser Einwand wird oft ueversehen.
 - Notice-and-Takedown an falschen Adressaten gerichtet: DSA Art. 16 richtet sich an Hostprovider, nicht an den unmittelbaren Verletzer; Verwechslung verzoegert den Takedown.

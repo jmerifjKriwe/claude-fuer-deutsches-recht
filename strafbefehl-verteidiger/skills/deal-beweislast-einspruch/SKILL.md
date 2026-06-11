@@ -36,16 +36,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## Deal / Verstaendigung im Strafbefehlsverfahren Bausteine
-- **Rechtsgrundlage Verstaendigung § 257c StPO:** auch im Verfahren nach Strafbefehl mit Einspruch grundsaetzlich anwendbar (analog).
+- **Rechtsgrundlage Verstaendigung § 257c StPO:** auch im Verfahren nach Strafbefehl mit Einspruch grundsätzlich anwendbar (analog).
 - **Inhaltsschranken § 257c II StPO:**
- - **Zulaessig:** Strafrahmen-Korridor (Unter- und Obergrenze); konkreter Tatsachenfeststellungen.
+ - **Zulässig:** Strafrahmen-Korridor (Unter- und Obergrenze); konkreter Tatsachenfeststellungen.
  - **Unzulaessig:** Verzicht auf Schuldspruch; Massregeln § 257c II 3 StPO; Strafvollstreckungsfragen.
 - **Belehrung § 257c V StPO** als Wirksamkeitsvoraussetzung:
- - Mandant ueber alle moeglichen Konsequenzen unterrichten.
+ - Mandant über alle moeglichen Konsequenzen unterrichten.
  - Bei Verstoss Beweisverwertungsverbot des Gestaendnisses.
 - **Geschaeftsgrundlage Verstaendigung:**
  - Gestaendnis Angeklagter (regelmaessig vollumfaenglich).
- - Beweisaufnahme aber nicht ersparbar - Pruefung Glaubhaftigkeit.
+ - Beweisaufnahme aber nicht ersparbar - Prüfung Glaubhaftigkeit.
  - Wegfall der Bindung § 257c IV StPO bei neuen erheblichen Umstaenden oder unrichtigen Voraussetzungen.
 - **Vorgehensweise:**
  - Vorgespraech mit StA / Gericht ausserhalb Hauptverhandlung.
@@ -54,12 +54,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - In Hauptverhandlung formell § 257c StPO einbringen.
 - **Beweislast und Beweismittel beim Deal:**
  - StA traegt weiterhin Beweislast Schuld; Verstaendigung **nicht** Schuldspruch-Ersatz.
- - Bei Verstaendigung-Bruch (z. B. neue Erkenntnisse) faellt Bindung weg; Gericht muss neu pruefen.
+ - Bei Verstaendigung-Bruch (z. B. neue Erkenntnisse) faellt Bindung weg; Gericht muss neu prüfen.
 - **Alternativen zur Verstaendigung:**
  - **§ 153 StPO Einstellung** wegen Geringfuegigkeit (ohne Auflagen).
  - **§ 153a StPO Einstellung gegen Auflagen** (Geldbusse, gemeinnuetzige Arbeit, Schadenswiedergutmachung) - **oft strategisch besser** als Verstaendigung, weil keine Verurteilung.
  - **§ 154 StPO Teilstellung** bei Tatmehrheit.
-- **Rechtsmittelverzicht** nach Verstaendigung idR nicht moeglich (§ 302 I 2 StPO); freier Wille bei Verzicht (BGH-Linie).
+- **Rechtsmittelverzicht** nach Verstaendigung idR nicht möglich (§ 302 I 2 StPO); freier Wille bei Verzicht (BGH-Linie).
 - **Praxis-Tipp:** Verstaendigung schriftlich vorbereiten; im Protokoll Korridor exakt dokumentieren; Belehrung § 257c V StPO als Pflichtbestandteil checken.
 
 ## Normen und Rechtsprechung

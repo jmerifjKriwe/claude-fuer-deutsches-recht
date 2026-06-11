@@ -7,7 +7,7 @@ description: "Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richte
 
 ## Arbeitsbereich
 
-Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studierende, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag auf Ratenzahlung § 42 StGB, Ersatzfreiheitsstrafe § 43 StGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Höhe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studierende, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag auf Ratenzahlung § 42 StGB, Ersatzfreiheitsstrafe § 43 StGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,14 +19,14 @@ Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Ne
 
 ## Worum geht es?
 
-Die **Hoehe** des einzelnen Tagessatzes bildet die wirtschaftliche Leistungsfaehigkeit des Taeters ab. Sie ist von der **Anzahl** der Tagessaetze (Schuldkomponente) zu trennen. Faustformel: monatliches Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR (§ 40 Abs. 2 Satz 3 StGB).
+Die **Höhe** des einzelnen Tagessatzes bildet die wirtschaftliche Leistungsfaehigkeit des Taeters ab. Sie ist von der **Anzahl** der Tagessaetze (Schuldkomponente) zu trennen. Faustformel: monatliches Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR (§ 40 Abs. 2 Satz 3 StGB).
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie pruefen einen Strafbefehl mit hoeherem Tagessatz, als die wirtschaftlichen Verhaeltnisse rechtfertigen.
+- Sie prüfen einen Strafbefehl mit hoeherem Tagessatz, als die wirtschaftlichen Verhaeltnisse rechtfertigen.
 - Sie bereiten die Hauptverhandlung vor und sammeln Einkommensnachweise für Ihren Mandanten.
 - Sie schaetzen vor einer Verstaendigung (§ 257c StPO), welche Geldstrafe insgesamt droht.
-- Sie pruefen einen Ratenzahlungsantrag nach § 42 StGB oder die drohende Ersatzfreiheitsstrafe nach § 43 StGB.
+- Sie prüfen einen Ratenzahlungsantrag nach § 42 StGB oder die drohende Ersatzfreiheitsstrafe nach § 43 StGB.
 
 ## Rechtliche Grundlagen
 
@@ -36,7 +36,7 @@ Die **Hoehe** des einzelnen Tagessatzes bildet die wirtschaftliche Leistungsfaeh
 - **§ 40 Abs. 3 StGB** — Schaetzungsrecht des Gerichts.
 - **§ 42 StGB** — Zahlungserleichterungen, Ratenzahlung.
 - **§ 43 StGB** — Ersatzfreiheitsstrafe: ein Tag Freiheitsstrafe je uneinbringlichem Tagessatz.
-- **§ 459d StPO** — Vollstreckungsgericht entscheidet ueber Uneinbringlichkeit.
+- **§ 459d StPO** — Vollstreckungsgericht entscheidet über Uneinbringlichkeit.
 
 ## Berechnungsschema
 
@@ -49,8 +49,8 @@ Die **Hoehe** des einzelnen Tagessatzes bildet die wirtschaftliche Leistungsfaeh
 
 ### Was vom Nettoeinkommen abzuziehen ist (Standard)
 
-- **Werbungskosten** in normaler Hoehe (Fahrtkosten zur Arbeitsstelle).
-- **Unterhaltspflichten** (Kindesunterhalt, Ehegattenunterhalt) — st. Rspr.; einzelfallabhaengig; Hoehe muss belegt sein.
+- **Werbungskosten** in normaler Höhe (Fahrtkosten zur Arbeitsstelle).
+- **Unterhaltspflichten** (Kindesunterhalt, Ehegattenunterhalt) — st. Rspr.; einzelfallabhaengig; Höhe muss belegt sein.
 - **Krankenversicherungsbeitraege** Selbststaendiger.
 
 ### Was **nicht** automatisch abgezogen wird
@@ -63,7 +63,7 @@ Die **Hoehe** des einzelnen Tagessatzes bildet die wirtschaftliche Leistungsfaeh
 
 ### Arbeitslose und Buergergeld-Empfaenger
 
-Bei Empfaengern von Buergergeld (§§ 19 ff. SGB II) sind die Tagessaetze in der Praxis sehr niedrig anzusetzen, oft **5 bis 15 EUR**. Die Regelsaetze des SGB II bilden das Existenzminimum; ein Tagessatz nahe 1 EUR ist moeglich, wenn unterhalb des Existenzminimums geleistet wird.
+Bei Empfaengern von Buergergeld (§§ 19 ff. SGB II) sind die Tagessaetze in der Praxis sehr niedrig anzusetzen, oft **5 bis 15 EUR**. Die Regelsaetze des SGB II bilden das Existenzminimum; ein Tagessatz nahe 1 EUR ist möglich, wenn unterhalb des Existenzminimums geleistet wird.
 
 ### Studierende
 
@@ -79,9 +79,9 @@ BAfoeG-/Eltern-Unterhaltsbetraege als Ausgangsgroesse. Tagessaetze in der Regel 
 
 Rentenbescheid; ergaenzend Kapitalertraege/Mieteinkuenfte.
 
-### Vermoegen ohne Einkommen
+### Vermögen ohne Einkommen
 
-Bei betraechtlichem Vermoegen ist eine fiktive Einkommens-Erhoehung moeglich (st. Rspr.; Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren).
+Bei betraechtlichem Vermögen ist eine fiktive Einkommens-Erhoehung möglich (st. Rspr.; Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren).
 
 ### Schwarzgeld, undeklariertes Einkommen
 
@@ -131,8 +131,8 @@ Anlage: Einkommensnachweis, Kontoauszug.
 ## Ersatzfreiheitsstrafe (§ 43 StGB)
 
 - 1 Tag Freiheitsstrafe je uneinbringlichem Tagessatz.
-- Vor Vollstreckung der Ersatzfreiheitsstrafe Antrag auf gemeinnuetzige Arbeit nach **§ 293 EGStGB** und landesrechtlichen Tilgungs-/Tilgungsverordnungen pruefen (Tilgungssatz je nach Bundesland; verifizieren in der jeweils einschlaegigen Verordnung).
-- Reform durch JStVollzG-Reform 2023: 2 Stunden gemeinnuetzige Arbeit = 1 Tagessatz Tilgung in vielen Bundeslaendern; konkretes Bundesland pruefen.
+- Vor Vollstreckung der Ersatzfreiheitsstrafe Antrag auf gemeinnuetzige Arbeit nach **§ 293 EGStGB** und landesrechtlichen Tilgungs-/Tilgungsverordnungen prüfen (Tilgungssatz je nach Bundesland; verifizieren in der jeweils einschlaegigen Verordnung).
+- Reform durch JStVollzG-Reform 2023: 2 Stunden gemeinnuetzige Arbeit = 1 Tagessatz Tilgung in vielen Bundeslaendern; konkretes Bundesland prüfen.
 
 ## Typische Fehler
 

@@ -31,7 +31,7 @@ Dieser Skill modelliert den Konflikt. Adressat: IV/Sachwalter, Plan-Anwalt, Glae
 
 - Modellrechnung Paragraph 3a Absatz 3 EStG zeigt einen Restsanierungsertrag mit moeglicher Steuer.
 - Plan steht vor Vorlage; Plan-Quote zu Lasten der Glaeubiger soll abgesichert werden.
-- Glaeubigerausschuss fragt: koennen wir uns auf die Sanierungsquote verlassen, wenn die Steuer im Hintergrund wartet?
+- Glaeubigerausschuss fragt: können wir uns auf die Sanierungsquote verlassen, wenn die Steuer im Hintergrund wartet?
 
 Kaltstart-Fragen:
 
@@ -55,8 +55,8 @@ Kaltstart-Fragen:
 1. **Sanierungs-Modellrechnung.** Hauptantrag Paragraph 3a EStG: wie hoch der Restbetrag?
 2. **Sensitivitaetsanalyse: was wenn Paragraph 3a EStG scheitert?** Steuerbetrag berechnen (KSt, GewSt).
 3. **Steuer als Masseverbindlichkeit verbuchen** (Paragraph 55 InsO).
-4. **Plan-Quote pruefen.** Reicht die Masse nach Abzug der Steuer für die zugesagte Quote?
-5. **Plan-Klausel zur Vermeidung der Massenpriorisierung pruefen.** Hilfsweise Stundung Paragraph 222 AO oder Erlass Paragraph 227 AO als Bedingung im Plan.
+4. **Plan-Quote prüfen.** Reicht die Masse nach Abzug der Steuer für die zugesagte Quote?
+5. **Plan-Klausel zur Vermeidung der Massenpriorisierung prüfen.** Hilfsweise Stundung Paragraph 222 AO oder Erlass Paragraph 227 AO als Bedingung im Plan.
 6. **Glaeubigerausschuss informieren** — der Ausschuss muss das Steuerrisiko kennen.
 7. **Bei Masseunzulaenglichkeit (Paragraph 208 InsO) Anzeige beim Gericht.**
 
@@ -79,7 +79,7 @@ Kaltstart-Fragen:
 3. **Vorabauskunft Paragraph 89 AO** ist hier besonders wertvoll, weil sie das Restrisiko quantifiziert.
 4. **Stundungsantrag als Plan-Anlage.** Wer den Stundungsantrag schon mit dem Plan einreicht, signalisiert vorausschauende Planung.
 5. **Glaeubigerausschuss-Beschluss** zur Risikoeinschaetzung explizit einholen.
-6. **Bei Eigenverwaltung** gilt die Massenpriorisierung sinngemaess: GF/CRO tragen die Verantwortung.
+6. **Bei Eigenverwaltung** gilt die Massenpriorisierung sinngemäß: GF/CRO tragen die Verantwortung.
 
 ## Mustertexte / Berechnungsbeispiele
 

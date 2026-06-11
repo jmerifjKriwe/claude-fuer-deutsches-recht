@@ -16,7 +16,7 @@ Der Workflow startet bei vorhandenen Unterlagen immer mit `aktenordner-schnellst
 | Stufe | Eingangskriterium | Hauptarbeit | Ausgangsdokument | Wiedervorlage |
 |---|---|---|---|---|
 | 1 Eingang | neue Akte oder Ordner | aktenordner-schnellstart kaltstart-triage forderungsaufnahme | Akteninventar Parteienhypothese Forderungsmatrix | 7 Tage |
-| 2 Pruefung | Akte angelegt | verjaehrung-pruefen klagefreigabe-belegte-forderung | Memo Klagefreigabe | 3 Tage |
+| 2 Prüfung | Akte angelegt | verjaehrung-prüfen klagefreigabe-belegte-forderung | Memo Klagefreigabe | 3 Tage |
 | 3 Mahnung | gruenes Licht und Verzug fehlt | mahnung-aussergerichtlich-stufenmodell | Mahnschreiben | 14 Tage Zahlungsfrist |
 | 4 Mahnbescheid oder Klage | Verzug eingetreten oder Mahnung erfolglos | mahnbescheid-online oder zahlungsklage-erstellen | MB-Antrag oder Klageschrift | 4 bis 8 Wochen |
 | 5 Titel | Vollstreckungsbescheid oder Urteil rechtskraeftig | vollstreckungsbescheid-folgen | titel mit Vollstreckungsklausel | sofort |
@@ -25,8 +25,8 @@ Der Workflow startet bei vorhandenen Unterlagen immer mit `aktenordner-schnellst
 ## Kostenfolge
 
 - ZPO 91 Unterliegender traegt Kosten
-- ZPO 93 sofortiges Anerkenntnis Klaeger traegt Kosten
-- ZPO 269 Klageruecknahme Klaeger traegt Kosten
+- ZPO 93 sofortiges Anerkenntnis Kläger traegt Kosten
+- ZPO 269 Klageruecknahme Kläger traegt Kosten
 
 ## Wiedervorlage-Trigger
 

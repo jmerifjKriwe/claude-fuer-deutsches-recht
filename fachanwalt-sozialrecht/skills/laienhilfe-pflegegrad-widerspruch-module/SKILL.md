@@ -77,7 +77,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Pflegegrade-Punkteschwellen § 15 SGB XI:** PG 1 (12,5-26,99), PG 2 (27-47,49), PG 3 (47,5-69,99), PG 4 (70-89,99), PG 5 (90-100).
 - **Widerspruchsstrategie:**
  - **MD-Gutachten anfordern (Akteneinsicht § 25 SGB X)** und Modul für Modul kritisch lesen.
- - **Pflegetagebuch** ueber 14 Tage detailliert (Zeitangaben für jede Hilfeleistung).
+ - **Pflegetagebuch** über 14 Tage detailliert (Zeitangaben für jede Hilfeleistung).
  - **Stellungnahmen** Bezugspersonen / Pflegekraefte / Hausarzt; Schweigepflichtentbindung.
  - **Konkrete Beispiele** aus Alltag - Diagnosen allein reichen nicht; Funktionsbeeintraechtigung beschreiben.
  - **Selbststaendigkeit-Skala** (selbststaendig / ueberwiegend selbststaendig / ueberwiegend unselbststaendig / unselbststaendig) je Modulkriterium konkret durchgehen.

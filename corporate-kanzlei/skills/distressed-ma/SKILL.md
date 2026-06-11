@@ -142,12 +142,12 @@ Im Gegensatz zum normalen M&A ist im Distressed-Fall der Asset Deal Standard:
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Arbeitnehmer-Selektionsmoeglickeit** — kein automatischer Uebergang aller Arbeitnehmer, aber § 613a BGB beachten
 3. **Steuerliche Vergangenheit bleibt** bei Insolvenzschuldner — kein Steuerrisiko aus Vergangenheit
-4. **Freie Vermoegensauswahl** — Erwerber kann einzelne Assets, Vertraege, IP herauspicken
+4. **Freie Vermoegensauswahl** — Erwerber kann einzelne Assets, Verträge, IP herauspicken
 5. **Insolvenzanfechtungsrisiko gering** — fairer Marktwert-Prozess schuetzt vor § 133 InsO
 
 ## § 613a BGB im Insolvenzfall
 
-In der Insolvenz gilt § 613a BGB grundsaetzlich weiter. Allerdings:
+In der Insolvenz gilt § 613a BGB grundsätzlich weiter. Allerdings:
 - Erwerber haftet nicht für rueckstaendige Ansprueche aus der Insolvenz (§ 613a II BGB)
 - Kaeufer kann mit Insolvenzverwalter vor Erwerb bestimmte Arbeitnehmervertraege beenden (§§ 125-128 InsO)
 - Sozialplanvolumen ist in der Insolvenz begrenzt (§ 123 InsO; max. 2.5 Monatsentgelte)
@@ -156,12 +156,12 @@ In der Insolvenz gilt § 613a BGB grundsaetzlich weiter. Allerdings:
 ## Schritt-für-Schritt-Workflow
 
 1. **Erstbewertung** — Informationen von Insolvenzverwalter einholen; Massezustand; Fortfuehrungsprognose
-2. **Schnell-DD** — Schwerpunkte: wesentliche Vertraege CoC/Kuendigungsrecht, Arbeitnehmer, IP, Hauptkunden
+2. **Schnell-DD** — Schwerpunkte: wesentliche Verträge CoC/Kuendigungsrecht, Arbeitnehmer, IP, Hauptkunden
 3. **Bewertungsrahmen** — Liquidationswert als Floor; Fortfuehrungswert als Ceiling; marktgerechter Preis
 4. **APA-Entwurf** — Assets-Liste exakt definieren; Assumed Contracts; Excluded Liabilities; Personaluebernahme
 5. **Arbeitnehmer-Konzept** — Uebernahme-Liste; Widerspruchsrecht-Frist; Betriebsrat konsultieren
-6. **Anfechtungsrisiko pruefen** — war Preis marktgerecht? War Kaeufer in Kenntnis der Krise?
-7. **Signing/Closing** — meist zeitgleich; Kaufpreis in Insolvenzmasse; Schluessel-Uebergabe
+6. **Anfechtungsrisiko prüfen** — war Preis marktgerecht? War Kaeufer in Kenntnis der Krise?
+7. **Signing/Closing** — meist zeitgleich; Kaufpreis in Insolvenzmasse; Schlüssel-Uebergabe
 8. **Post-Closing Integration** — schnell; Kundeninfo; Lieferantenkuendigungen behandeln
 
 ## Output-Template APA Outline — Distressed
@@ -218,5 +218,5 @@ Datum: [DATUM]
 - StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz; in Kraft seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256): https://www.gesetze-im-internet.de/starug/
 - § 15a InsO (Insolvenzantragspflicht: 3 Wochen ZU / 6 Wochen UE): https://www.gesetze-im-internet.de/inso/__15a.html
 - § 15b InsO (Zahlungsverbot bei Insolvenzreife seit 01.01.2021; rechtsformneutral): https://www.gesetze-im-internet.de/inso/__15b.html
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

@@ -55,7 +55,7 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 
 ## Workflow
 
-### Phase 1 — BG-Mitgliedschaft pruefen
+### Phase 1 — BG-Mitgliedschaft prüfen
 
 - Branche und Gewerbeart bestimmen zuständige BG (z.B. BG Bau, BG Handel und Warenlogistik, BG ETEM, BG Holz und Metall).
 - Mitgliedsnummer aus BG-Bescheid.
@@ -69,17 +69,17 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 
 ### Phase 3 — Lohnsumme zusammenstellen
 
-- Brutto-Lohnsumme aller AN ueber das Geschaeftsjahr.
+- Brutto-Lohnsumme aller AN über das Geschaeftsjahr.
 - Einschluesse: alle SV-pflichtigen Loehne plus Minijob-Loehne.
 - Aussschluesse: ggf. bestimmte Sonderzahlungen (BG-spezifisch).
 - Aufteilung nach Gefahrenklasse (bei Mischbetrieb).
 
 ### Phase 4 — Elektronischer Lohnnachweis (UV-Jahresmeldung)
 
-- Form: elektronisch ueber sv.net, DAKOTA oder das BG-Portal; in DATEV LODAS unter Auswertung → Jahresmeldungen → UV-Jahresmeldung.
+- Form: elektronisch über sv.net, DAKOTA oder das BG-Portal; in DATEV LODAS unter Auswertung → Jahresmeldungen → UV-Jahresmeldung.
 - Frist: spaetestens 16. Februar des Folgejahres (§ 99 SGB IV i.V.m. § 165 SGB VII; bei Wochenend-Verschiebung folgender Werktag).
 - Inhalt: Lohnsumme je Gefahrenklasse, geleistete Arbeitsstunden, Mitgliedsnummer.
-- Nach BG-Bescheid: Beitragsbescheid mit Nachzahlung oder Erstattung; Faelligkeit der Nachzahlung je BG-Satzung (typisch 15. April oder 15. Mai des Folgejahres — genaue Faelligkeit in der Satzung der jeweils zuständigen BG pruefen).
+- Nach BG-Bescheid: Beitragsbescheid mit Nachzahlung oder Erstattung; Faelligkeit der Nachzahlung je BG-Satzung (typisch 15. April oder 15. Mai des Folgejahres — genaue Faelligkeit in der Satzung der jeweils zuständigen BG prüfen).
 
 ### Phase 5 — Vorauszahlungen
 
@@ -98,7 +98,7 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 - Frist 15. Februar zwingend einhalten — Verspaetungszuschlag der BG.
 - Bei Branchenwechsel oder neuen Taetigkeiten BG-Konsultation (ggf. neue Gefahrenklasse).
 - Bei wachsender Belegschaft: monatliche Vorauszahlungen anpassen, um Nachzahlung zu vermeiden.
-- BG bietet oft Beratung zur Unfallpraevention an (Praemienrabatt moeglich).
+- BG bietet oft Beratung zur Unfallpraevention an (Praemienrabatt möglich).
 - StBVV: BG-Lohnnachweis als Sonderauftrag (jaehrlich).
 - DATEV-Tipp: DATEV LODAS BG-Modul mit automatischer Lohnsummen-Aufstellung.
 

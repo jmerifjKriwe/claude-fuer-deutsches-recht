@@ -38,15 +38,15 @@ Das VLB ist die zentrale Datenbank des Buchhandels in Deutschland. Wer dort nich
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Pflichtfelder pruefen.**
- - ISBN, Titel, Autor (mit GND-Nummer wenn moeglich).
+1. **Pflichtfelder prüfen.**
+ - ISBN, Titel, Autor (mit GND-Nummer wenn möglich).
  - Untertitel, Reihentitel, Bandzaehlung.
  - Erscheinungstermin (Tag, Monat, Jahr).
  - Verlag, Verlagsanschrift, Imprint.
  - Sprache, Originalsprache, Uebersetzer.
  - Format (Hardcover, Paperback, EPUB, PDF), Seitenzahl.
  - Preis brutto, Waehrung.
- - Warengruppe (juristische Werke: 750-789 nach VLB-Schluessel).
+ - Warengruppe (juristische Werke: 750-789 nach VLB-Schlüssel).
 2. **Schlagwoerter setzen.** GND-Schlagworte bevorzugen; freie Schlagworte zusaetzlich; Thema-Klassifikation (Thema 1.4 international, LB-Codes verlagsintern).
 3. **Klappentext pflegen.** Max. 2500 Zeichen; SEO-optimiert; mit den ersten 160 Zeichen den Kern fassen (Google-Snippet).
 4. **Cover hochladen.** RGB, 300 dpi, mindestens 1500 px hohe Kante; ohne Anschnitt.
@@ -54,7 +54,7 @@ Das VLB ist die zentrale Datenbank des Buchhandels in Deutschland. Wer dort nich
 6. **Preisbindung.** Endkundenpreis für Print und E-Book in EUR, MwSt. eingeschlossen; bei Aenderung Boersenverein melden (BuchPrG § 5).
 7. **Erscheinungstermin.** Bei Verschiebung VLB unverzueglich aktualisieren - sonst Vorbestellprobleme.
 8. **Abkuendigung.** Bei Auslaufen "ng" (= nicht mehr lieferbar) oder "vg" (vergriffen) setzen; bei Neuauflage "ohne Nachfolger" oder Verweis auf Nachfolgeauflage.
-9. **Konsistenz pruefen** mit Webshop, beck-online, Amazon, Thalia, Hugendubel, Buchhandelsdienst-Anbietern.
+9. **Konsistenz prüfen** mit Webshop, beck-online, Amazon, Thalia, Hugendubel, Buchhandelsdienst-Anbietern.
 
 ## Trade-off-Matrix
 
@@ -74,7 +74,7 @@ Das VLB ist die zentrale Datenbank des Buchhandels in Deutschland. Wer dort nich
 - Schlagworte aus der Sicht der Suchenden, nicht aus Verlagssicht ("Mietminderung Schimmel" statt "Mietminderungsproblematik").
 - Klappentext im Praesens, aktive Saetze, keine Floskeln.
 - Auflagen-Wechsel: Vorgaengerauflage auf "ng" setzen, ISBN der neuen Auflage als Nachfolger eintragen.
-- Preisaenderung mit Stichtag und Begruendung melden - Buchpreisbindungstreuhaender prueft.
+- Preisaenderung mit Stichtag und Begruendung melden - Buchpreisbindungstreuhaender prüft.
 
 ## Mustertexte / Vorlagen
 

@@ -23,7 +23,7 @@ description: "Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln un
 
 1. Produkt nach VO (EG) 178/2002 und VO (EG) 853/2004 einordnen; tierischen oder pflanzlichen Ursprungs?
 2. Bestimmung des Grenzuebergangsstelle mit amtlicher Kontrollstelle (BVVG-Liste).
-3. RASFF-Datenbank auf aktuell laufende Warnungen für Produkt/Ursprungsland pruefen.
+3. RASFF-Datenbank auf aktuell laufende Warnungen für Produkt/Ursprungsland prüfen.
 4. Veterinar-/Phytosanitaere Zertifikate aus Exportland beschaffen.
 5. IMPORT-Voranmeldung im TRACES NT-System vornehmen.
 6. Probennahme und Laboranalyse planen; Lieferverzugsrisiko einkalkulieren.
@@ -48,7 +48,7 @@ description: "Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln un
 ## Typische Fallstricke
 
 - TRACES NT-Voranmeldung zu spaet kann amtliche Kontrolle verzoegern und Ware einfrieren.
-- RASFF-Warnungen veraendern sich schnell; vor jeder Sendung pruefen.
+- RASFF-Warnungen veraendern sich schnell; vor jeder Sendung prüfen.
 - Einfuhr aus bestimmten Drittlaendern erfordert zusaetzliche Einfuhrbescheinigungen.
 - Futtermittel unterliegen eigenen Regelwerken (VO (EG) 183/2005); nicht mit Lebensmittelrecht verwechseln.
 

@@ -278,13 +278,13 @@ Mindeststandard:
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
 
-## Triage — Ueberschuldungs-Pruefung § 19 InsO
+## Triage — Ueberschuldungs-Prüfung § 19 InsO
 
 Bevor losgelegt wird, klaere:
 
 1. **Bilanzieller Status?** Aktiva kleiner als Passiva auf Basis von Fortfuehrungswerten (erste Stufe)?
 2. **Stille Reserven?** Grundstuecke, Beteiligungen, Patente zum Verkehrswert hoeher als Buchwert?
-3. **Sanierungsmassnahmen einbezogen?** Rangruecktritt, Patronatserklaerung, Kapitalzufuhr — bereits wirksam oder nur geplant?
+3. **Sanierungsmassnahmen einbezogen?** Rangrücktritt, Patronatserklaerung, Kapitalzufuhr — bereits wirksam oder nur geplant?
 4. **Fortbestehensprognose positiv?** Dann keine Ueberschuldung trotz negativem Reinvermoegen (§ 19 Abs. 2 S. 1 InsO).
 5. **Frist?** Ueberschuldung erkannt → Antragspflicht § 15a InsO: 6 Wochen.
 

@@ -7,7 +7,7 @@ description: "Fristen zur Klageerwiderung nach § 274 ZPO. Notfrist zur Verteidi
 
 ## Worum geht es?
 
-Wenn Sie eine Klage zugestellt bekommen, beginnen sofort Fristen zu laufen. Das Gericht ordnet zwischen zwei Verfahrenswegen ein: **schriftliches Vorverfahren** (§ 276 ZPO) oder **frueher erster Termin** (§ 275 ZPO). In beiden Faellen muessen Sie reagieren — und zwar pflichtschuldig. Wenn Sie nichts tun, kassieren Sie ein Versaeumnisurteil.
+Wenn Sie eine Klage zugestellt bekommen, beginnen sofort Fristen zu laufen. Das Gericht ordnet zwischen zwei Verfahrenswegen ein: **schriftliches Vorverfahren** (§ 276 ZPO) oder **frueher erster Termin** (§ 275 ZPO). In beiden Faellen müssen Sie reagieren — und zwar pflichtschuldig. Wenn Sie nichts tun, kassieren Sie ein Versaeumnisurteil.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -20,7 +20,7 @@ Wenn Sie eine Klage zugestellt bekommen, beginnen sofort Fristen zu laufen. Das 
 - **Klageerwiderung**: Schriftsatz, in dem Sie der Klage widersprechen.
 - **Verteidigungsanzeige**: Kurze Erklaerung "ich verteidige mich" — innerhalb der **Notfrist** (i. d. R. 2 Wochen).
 - **Notfrist**: Eine vom Gesetz besonders geschuetzte Frist; Versaeumnis fuehrt zu sofortigem Versaeumnisurteil.
-- **Schriftliches Vorverfahren**: Gericht laesst zunaechst Schriftsaetze laufen, dann Termin.
+- **Schriftliches Vorverfahren**: Gericht lässt zunaechst Schriftsaetze laufen, dann Termin.
 - **Frueher erster Termin**: Gericht beraumt sofort Termin an, oft mit Auflage zur Klageerwiderung.
 
 ## Rechtsgrundlagen
@@ -35,7 +35,7 @@ Wenn Sie eine Klage zugestellt bekommen, beginnen sofort Fristen zu laufen. Das 
 
 ### Schritt 1 — Klage in Empfang nehmen
 
-Pruefen Sie:
+Prüfen Sie:
 
 - Datum der Zustellung (Datum auf gelbem Umschlag oder Empfangsbekenntnis).
 - Anlagen vollstaendig?
@@ -44,7 +44,7 @@ Pruefen Sie:
 
 Zustellungsdatum ist Fristbeginn. Skill `fristbeginn-zustellung-protokollieren`.
 
-### Schritt 2 — Verfahrensweg pruefen
+### Schritt 2 — Verfahrensweg prüfen
 
 Das Gericht legt fest, welcher Weg gilt:
 
@@ -96,7 +96,7 @@ Skill `klageerwiderung-checkliste-alle-punkte`.
 
 Erstellen Sie systematisch:
 
-- Sachvortrag gegen Klaeger-Sachvortrag.
+- Sachvortrag gegen Kläger-Sachvortrag.
 - Substantiiertes Bestreiten (Skill `substantiiertes-bestreiten-138-iv-zpo`).
 - Einreden (Skill `einreden-aktiv-geltend-machen`).
 - Beweisangebote.
@@ -104,22 +104,22 @@ Erstellen Sie systematisch:
 
 ### Schritt 7 — Wenn Frist nicht ausreicht
 
-Sie koennen Fristverlaengerung beantragen (Skill `fristverlaengerung-antrag-225-zpo`). Aber: bei Notfrist (Verteidigungsanzeige) ist Verlaengerung schwierig — i. d. R. **keine** Verlaengerung der Notfrist!
+Sie können Fristverlaengerung beantragen (Skill `fristverlaengerung-antrag-225-zpo`). Aber: bei Notfrist (Verteidigungsanzeige) ist Verlaengerung schwierig — i. d. R. **keine** Verlaengerung der Notfrist!
 
-Bei der inhaltlichen Klageerwiderungs-Frist (kein Notfrist): Verlaengerung moeglich.
+Bei der inhaltlichen Klageerwiderungs-Frist (kein Notfrist): Verlaengerung möglich.
 
 ### Schritt 8 — Folge des Versaeumnisses
 
 Wenn Sie:
 
-- Verteidigungsanzeige nicht binnen 2 Wochen → Klaeger kann **Versaeumnisurteil** beantragen. Skill `saeumnis-vermeiden-330-ff-zpo`.
+- Verteidigungsanzeige nicht binnen 2 Wochen → Kläger kann **Versaeumnisurteil** beantragen. Skill `saeumnis-vermeiden-330-ff-zpo`.
 - Klageerwiderung versaeumen → Praeklusion (Vortrag verworfen) oder Versaeumnisurteil im Termin.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Zustellung-Datum festhalten**: Auf gelbem Umschlag/Postzustellungsurkunde.
 - **Notfrist 2 Wochen — KEINE Verlaengerung**: Verteidigungsanzeige rechtzeitig.
-- **Klageerwiderung umfassend**: jeder Klaeger-Punkt eine Antwort.
+- **Klageerwiderung umfassend**: jeder Kläger-Punkt eine Antwort.
 - **Aktenzeichen** auf jedem Schriftsatz.
 
 ## Typische Fehler

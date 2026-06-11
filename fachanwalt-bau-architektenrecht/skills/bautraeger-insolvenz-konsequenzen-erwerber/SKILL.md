@@ -36,8 +36,8 @@ description: "Bautraeger-Insolvenz Konsequenzen für den Erwerber: Skill klaert 
 
 ## Handlungsoptionen
 
-1. Vormerkung im Grundbuch pruefen (Rang!).
-2. Buergschaft auf Bestand und Bonitaet pruefen.
+1. Vormerkung im Grundbuch prüfen (Rang!).
+2. Buergschaft auf Bestand und Bonitaet prüfen.
 3. Forderungsanmeldung im Insolvenzverfahren binnen Frist.
 4. Klage gegen Insolvenzverwalter auf Vollzug.
 

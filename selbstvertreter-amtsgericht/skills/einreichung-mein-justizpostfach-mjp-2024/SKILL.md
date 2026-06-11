@@ -7,7 +7,7 @@ description: "Einrichtung und Nutzung von Mein Justizpostfach (MJP) für Buerger
 
 ## Worum geht es?
 
-Seit Anfang 2024 koennen Buerger **Mein Justizpostfach (MJP)** nutzen, um Schriftsaetze elektronisch und rechtssicher an Gerichte zu uebermitteln. Das ist der buergerfreundliche Pendant zum beA der Anwaltschaft. Es ist kostenlos, sicher und nutzt die BundID. Mit MJP koennen Sie Klagen, Antraege, Schriftsaetze einreichen — ohne Postweg, mit klarem Zustellungs-Nachweis.
+Seit Anfang 2024 können Buerger **Mein Justizpostfach (MJP)** nutzen, um Schriftsaetze elektronisch und rechtssicher an Gerichte zu uebermitteln. Das ist der buergerfreundliche Pendant zum beA der Anwaltschaft. Es ist kostenlos, sicher und nutzt die BundID. Mit MJP können Sie Klagen, Antraege, Schriftsaetze einreichen — ohne Postweg, mit klarem Zustellungs-Nachweis.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -26,7 +26,7 @@ Seit Anfang 2024 koennen Buerger **Mein Justizpostfach (MJP)** nutzen, um Schrif
 
 - **§ 130a ZPO** — Elektronisches Dokument.
 - **§ 130a III ZPO** — Sicherer Uebermittlungsweg.
-- **§ 130d ZPO** — Pflicht zur elektronischen Einreichung **für Anwaelte**. Buerger sind nicht zur elektronischen Einreichung verpflichtet — koennen aber.
+- **§ 130d ZPO** — Pflicht zur elektronischen Einreichung **für Anwaelte**. Buerger sind nicht zur elektronischen Einreichung verpflichtet — können aber.
 
 ## Schritt-für-Schritt-Anleitung
 
@@ -40,13 +40,13 @@ Vor MJP brauchen Sie eine **BundID**. Diese ist Voraussetzung.
 
 ### Schritt 2 — MJP-Konto aktivieren
 
-- Auf bund.de oder ueber das Justizportal "Mein Justizpostfach" suchen.
+- Auf bund.de oder über das Justizportal "Mein Justizpostfach" suchen.
 - Mit BundID einloggen.
 - Postfach wird automatisch eingerichtet.
 
 ### Schritt 3 — Adresse herausfinden
 
-Jedes Gericht hat eine EGVP-Adresse. Im MJP-Portal koennen Sie nach Empfaenger suchen:
+Jedes Gericht hat eine EGVP-Adresse. Im MJP-Portal können Sie nach Empfaenger suchen:
 
 - "Amtsgericht Musterstadt" eingeben.
 - Korrekte Behörde auswaehlen.
@@ -71,7 +71,7 @@ Zwei Optionen:
 - **Einfache Signatur**: Name unter dem PDF (z. B. "Hans Mustermann"). Bei MJP mit "Niveau hoch" zaehlt das als sicherer Uebermittlungsweg.
 - **Qualifizierte elektronische Signatur (qeS)**: Optional. Nur wenn vorhandene Karte/Token.
 
-Fuer Buerger reicht **einfache Signatur + MJP/Niveau hoch**.
+Für Buerger reicht **einfache Signatur + MJP/Niveau hoch**.
 
 ### Schritt 7 — Absenden
 
@@ -81,24 +81,24 @@ Fuer Buerger reicht **einfache Signatur + MJP/Niveau hoch**.
 
 ### Schritt 8 — Bestaetigung lesen
 
-Pruefen Sie:
+Prüfen Sie:
 
 - Datum und Uhrzeit des Eingangs.
-- Aktenzeichen (kommt spaeter).
+- Aktenzeichen (kommt später).
 - Bei Fehler: Korrektur.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
 - **Niveau "hoch" der BundID** ist Pflicht für rechtssichere Einreichung.
 - **Eingangsbestaetigung speichern**: Beweis für Fristwahrung.
 - **Datum und Uhrzeit zaehlen**: Eingang vor 24:00 Uhr des letzten Frist-Tags reicht.
-- **Kein Anwaltszwang elektronisch**: § 130d ZPO verpflichtet Anwaelte — nicht Buerger. Sie duerfen weiterhin Papier verwenden.
-- **Anzeigen pruefen**: Manche Gerichte beantragen Korrektur, wenn Datei-Form falsch.
+- **Kein Anwaltszwang elektronisch**: § 130d ZPO verpflichtet Anwaelte — nicht Buerger. Sie dürfen weiterhin Papier verwenden.
+- **Anzeigen prüfen**: Manche Gerichte beantragen Korrektur, wenn Datei-Form falsch.
 
 ## Typische Fehler
 
 - "Ich nutze einfache BundID-Stufe (Benutzername)." → Reicht **nicht** für rechtssichere Einreichung; Niveau "hoch" benoetigt.
-- "Ich schicke einen Scan." → Scan ist okay, aber PDF/A bevorzugt; Lesbarkeit pruefen.
+- "Ich schicke einen Scan." → Scan ist okay, aber PDF/A bevorzugt; Lesbarkeit prüfen.
 - "Email reicht doch auch." → Klassische Email ohne Signatur ist **kein** sicherer Uebermittlungsweg. Nicht fristwahrend!
 
 ## Quellen und Aktualitaet

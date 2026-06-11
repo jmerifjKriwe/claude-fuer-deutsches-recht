@@ -7,7 +7,7 @@ description: "Pruefung von Eigentum und Kontrolle sanktionierter Personen bei ju
 
 ## Arbeitsbereich
 
-Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschaeftspartnern. Output: UBO-Analysevermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüfung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschaeftspartnern. Output: UBO-Analysevermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Per
 
 1. Alle juristischen Personen in der Transaktionskette identifizieren.
 2. Eigentuemerstruktur bis zur natuerlichen Person oder staatlichen Entitaet verfolgen (UBO-Analyse).
-3. 50-%-Schwelle nach Besitz und Kontrolle gesondert pruefen (Art. 2 VO 269/2014).
+3. 50-%-Schwelle nach Besitz und Kontrolle gesondert prüfen (Art. 2 VO 269/2014).
 4. EU-Leitlinien zur Akkumulation von Eigentumsanteilen beachten.
 5. Treuhandverhaeltnisse und Nominee-Strukturen aufdecken.
 6. Ergebnis mit Quellenbelegen und Entscheidung dokumentieren.
@@ -52,7 +52,7 @@ Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Per
 ## Typische Fallstricke
 
 - Kontrolle ohne Mehrheitsbesitz (Veto, Vorstandsmandat) loest ebenfalls Bereitstellungsverbot aus.
-- Sanktionierte Person haelt 25 % + eine weitere sanktionierte Person 26 % = zusammen ueber 50 %.
+- Sanktionierte Person haelt 25 % + eine weitere sanktionierte Person 26 % = zusammen über 50 %.
 - Treuhandstrukturen verschleiern wirtschaftlich Berechtigten; Gegenverifizierung noetig.
 - Tochtergesellschaften sanktionierter Banken in Drittlaendern nicht automatisch sanktioniert, aber Risiko hoch.
 

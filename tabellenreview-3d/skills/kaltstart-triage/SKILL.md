@@ -5,7 +5,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Tabellenreview 3d-Plugi
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Tabellenreview 3d** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Tabellenreview 3d** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -142,10 +142,10 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie muessen 20 oder mehr Vertraege auf dieselben Pruefpunkte hin systematisch analysieren und das Ergebnis auswertbar dokumentieren.
+- Sie müssen 20 oder mehr Verträge auf dieselben Pruefpunkte hin systematisch analysieren und das Ergebnis auswertbar dokumentieren.
 - Eine M-und-A-Due-Diligence erfordert die gleichzeitige Betrachtung von Vertraegen aus rechtlicher, steuerlicher und wirtschaftlicher Perspektive.
-- Ein Lieferant soll ongeboardet werden und Vertrag, Compliance-Status und Leistungsindikatoren muessen dokumentiert werden.
-- Der Pruefer wechselt und das bisher bearbeitete Paket soll mit vollem Kontext und offenem Status uebergeben werden.
+- Ein Lieferant soll ongeboardet werden und Vertrag, Compliance-Status und Leistungsindikatoren müssen dokumentiert werden.
+- Der Prüfer wechselt und das bisher bearbeitete Paket soll mit vollem Kontext und offenem Status uebergeben werden.
 - Zwischenergebnisse sollen gecacht und einzelne Teile ohne Vollneustart erneut ausgefuehrt werden.
 
 ## Fachbegriffe (kurz erklaert)
@@ -155,13 +155,13 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 - **Zeilenprompt** — Dokumentspezifische Pruefanweisung, die das einzelne Dokument als Pruefgegenstand definiert.
 - **Arbeitsblatt-Perspektive** — Fachlicher Blickwinkel (Recht, Steuer, Wirtschaft), der denselben Wuerfel in einem eigenen Excel-Sheet abbildet.
 - **Kreuzblatt-Konsistenzpruefung** — Abgleich der drei Dimensionen auf Widersprueche und fehlende Eintraege.
-- **Audit-Trail** — Lueckenlose Protokollierung aller Pruefschritte mit Zeitstempel, Pruefer-ID und Aenderungshistorie.
+- **Audit-Trail** — Lueckenlose Protokollierung aller Pruefschritte mit Zeitstempel, Prüfer-ID und Aenderungshistorie.
 - **Risikoampel** — Rot-Gelb-Gruen-Bewertung je Pruefposition zur schnellen Risikouebersicht.
 - **Belegkette** — Nachverfolgung der Originalbelege hinter jeder Buchung oder Forderung.
 
 ## Rechtsgrundlagen
 
-- §§ 174 ff. InsO — Forderungsanmeldung und -pruefung (Stammreferenz der 3D-Review-Skills)
+- §§ 174 ff. InsO — Forderungsanmeldung und -prüfung (Stammreferenz der 3D-Review-Skills)
 - §§ 238 257 HGB — Buchfuehrungs- und Aufbewahrungspflichten
 - GmbHG AktG HGB InsO — Relevante Normen je nach Vorlagen-Typ
 - BGB §§ 305 ff. — AGB-Kontrolle bei Vertragsstapeln
@@ -173,22 +173,22 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 1. Kaltstart-Interview: Fallkategorie, Tabellengroesse, Pruefzweck und Exportformat erfassen.
 2. Wuerfelstruktur aufbauen: Spaltenprompts und Zeilenprompts definieren, Perspektiven festlegen.
 3. Dokumentstapel einlesen und Inventar erstellen.
-4. Review durchfuehren: jede Zeile in allen drei Perspektiven pruefen und Risikoampel setzen.
+4. Review durchfuehren: jede Zeile in allen drei Perspektiven prüfen und Risikoampel setzen.
 5. Kreuzblatt-Konsistenzpruefung und Audit-Trail abschliessen; Excel-Export oder PDF-Bericht erzeugen.
 
 ## Skill-Tour (was gibt es hier?)
 
 - `arbeitsblatt-perspektiven-definieren` — Die drei Pruefperspektiven (Recht, Steuer, Wirtschaft) für den 3D-Wuerfel definieren.
-- `audit-trail-protokoll` — Alle Review-Schritte mit Zeitstempel und Pruefer-ID protokollieren.
+- `audit-trail-protokoll` — Alle Review-Schritte mit Zeitstempel und Prüfer-ID protokollieren.
 - `belegkette-rueckverfolgung` — Belegkette für Forderungen und Zahlungen zurueckverfolgen.
 - `caching-und-teil-rerun` — Zwischenergebnisse cachen und Teilbereiche ohne Vollneustart erneut ausfuehren.
 - `dokumentstapel-aufnehmen` — Dokumentenstapel (PDFs, Excel, Word) einlesen und Inventar erstellen.
 - `excel-multi-sheet-export` — 3D-Review-Ergebnis als Excel-Datei mit Arbeitsblaettern je Perspektive exportieren.
 - `kreuzblatt-konsistenzpruefung` — Abgleich der drei Dimensionen auf Widersprueche und fehlende Eintraege.
 - `pdf-bericht-erzeugen` — 3D-Review-Ergebnis als PDF-Bericht mit Zusammenfassung, Tabellen und Risikoampeln erzeugen.
-- `prompt-versionierung` — Prompt-Versionen für den 3D-Review verwalten und aendern.
+- `prompt-versionierung` — Prompt-Versionen für den 3D-Review verwalten und ändern.
 - `pruefer-uebergabe-paket` — Uebergabepaket für Prueferwechsel mit aktuellem Stand und offenen Positionen.
-- `review-durchfuehren` — 3D-Tabellenreview konkret durchfuehren: jede Zeile in allen drei Perspektiven pruefen.
+- `review-durchfuehren` — 3D-Tabellenreview konkret durchfuehren: jede Zeile in allen drei Perspektiven prüfen.
 - `risikoampel-aggregation` — Risikoampeln für alle geprueften Positionen aggregieren und Gesamtrisiko einschaetzen.
 - `spaltenprompts-definieren` — Spaltenprompts für die drei Pruefperspektiven definieren.
 - `tabellenreview-3d-kaltstart-interview` — Kaltstart-Interview: Fallkategorie, Tabellengroesse, Pruefzweck und Exportformat erfassen.
@@ -201,7 +201,7 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 
 ## Worauf besonders achten
 
-- **Kreuzblatt-Konsistenz vor Export pruefen**: Widersprueche zwischen den Dimensionen koennen die Aussagekraft des Berichts untergraben.
+- **Kreuzblatt-Konsistenz vor Export prüfen**: Widersprueche zwischen den Dimensionen können die Aussagekraft des Berichts untergraben.
 - **Prompt-Versionierung dokumentieren**: Unterschiedliche Prompt-Versionen im selben Review produzieren nicht vergleichbare Ergebnisse.
 - **Audit-Trail von Beginn an fuehren**: Nachtraegliches Erganzen des Protokolls ist fehleranfaellig und im Zweifel nicht beweissicher.
 - **Caching konservativ einsetzen**: Gecachte Ergebnisse werden nicht neu berechnet; Aenderungen im Dokument werden nicht erfasst.
@@ -209,11 +209,11 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 
 ## Typische Fehler
 
-- Wuerfelstruktur ohne Kaltstart-Interview aufbauen; Pruefzweck und Exportformat werden spaeter nicht erfuellt.
+- Wuerfelstruktur ohne Kaltstart-Interview aufbauen; Pruefzweck und Exportformat werden später nicht erfuellt.
 - Alle drei Perspektiven mit identischen Prompts besetzen; der Wuerfel verliert seine Informationstiefe.
 - Risikoampel-Schwellenwerte nicht explizit definieren; Ampelbewertungen werden inkonsistent.
 - Prueferwechsel ohne Uebergabepaket; Nachfolger muss von vorne beginnen.
-- Excel-Export ohne Kreuzblatt-Pruefung; Inkonsistenzen werden erst beim Mandanten entdeckt.
+- Excel-Export ohne Kreuzblatt-Prüfung; Inkonsistenzen werden erst beim Mandanten entdeckt.
 
 ## Quellen und Aktualitaet
 

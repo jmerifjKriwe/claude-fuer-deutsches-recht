@@ -14,7 +14,7 @@ description: "Profi-Sportler will Verein wechseln und braucht Prüfung von Trans
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Profi-Sportler will Verein wechseln und braucht Prüfung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-Statuten Wechselgebühr. Normen FIFA RSTP Art. 17 18 UEFA-Transferregeln DFB-Lizenzordnung. Prüfraster Ausstiegsklausel-Hoehe Transfer-Fenster Solidaritaetsmechanismus Vertragsbruch-Risiko. Output Vertrags-Prüfungsbericht Verhandlungs-Strategie Klage-Optionen. Abgrenzung zu fachanwalt-sportrecht-spielervertrag (Arbeitsvertrag) und fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren (Schiedsgericht).
+**Fokus:** Profi-Sportler will Verein wechseln und braucht Prüfung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-Statuten Wechselgebühr. Normen FIFA RSTP Art. 17 18 UEFA-Transferregeln DFB-Lizenzordnung. Prüfraster Ausstiegsklausel-Höhe Transfer-Fenster Solidaritaetsmechanismus Vertragsbruch-Risiko. Output Vertrags-Prüfungsbericht Verhandlungs-Strategie Klage-Optionen. Abgrenzung zu fachanwalt-sportrecht-spielervertrag (Arbeitsvertrag) und fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren (Schiedsgericht).
 
 ### Spieler-Transfer-Klausel
 
@@ -135,4 +135,4 @@ description: "Profi-Sportler will Verein wechseln und braucht Prüfung von Trans
 ## Ergaenzende Rechtsprechung Transferklausel
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- CAS 2017/A/5379 (Borussia Dortmund v. Aubameyang) — Transfer-Verguetungsanspruch: Ablosegebuebre und Weiterverkaufsbeteiligung muessen in Transfer-Agreement praezise geregelt sein; pauschal-prozentuale Klauseln sind grundsaetzlich wirksam, aber auslegungsbeduerftiger Wortlaut geht zu Lasten des Verfassers.
+- CAS 2017/A/5379 (Borussia Dortmund v. Aubameyang) — Transfer-Verguetungsanspruch: Ablosegebuebre und Weiterverkaufsbeteiligung müssen in Transfer-Agreement praezise geregelt sein; pauschal-prozentuale Klauseln sind grundsätzlich wirksam, aber auslegungsbeduerftiger Wortlaut geht zu Lasten des Verfassers.

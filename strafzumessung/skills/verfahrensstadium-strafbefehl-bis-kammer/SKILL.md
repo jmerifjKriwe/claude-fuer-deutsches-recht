@@ -14,7 +14,7 @@ description: "Strafzumessung vom Strafbefehl bis zur großen Strafkammer: führt
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `strafzumessung`. Kontext des Plugins: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `strafzumessung`. Kontext des Plugins: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
@@ -38,15 +38,15 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - **Strafbefehl §§ 407 ff. StPO (Vergehen):**
  - Hoechstrahmen Geldstrafe (regelmaessig 360 TS); Freiheitsstrafe bis 1 Jahr nur **mit Verteidiger und auf Bewaehrung** § 407 II 2 StPO.
  - Strafzumessung StA-Antrag massgeblich; Gericht kann abweichen ggf. ablehnen (zurueck zur Anklage).
- - Tagessatz-Hoehe nach Schaetzung Einkommen.
+ - Tagessatz-Höhe nach Schaetzung Einkommen.
 - **AG Strafrichter § 25 GVG:**
  - Bis 2 Jahre Freiheitsstrafe; Geldstrafe.
- - Pruefung Bewaehrung § 56 StGB regelmaessig.
+ - Prüfung Bewaehrung § 56 StGB regelmaessig.
 - **AG Schoeffengericht § 28 GVG:**
- - Bis 4 Jahre Freiheitsstrafe; bei Anklagen StA, die ueber Strafrichter hinausgehen.
+ - Bis 4 Jahre Freiheitsstrafe; bei Anklagen StA, die über Strafrichter hinausgehen.
  - Bewaehrung § 56 StGB; Massregeln § 61 ff. StGB.
-- **LG grosse Strafkammer § 76 GVG:**
- - Ueber 4 Jahre Freiheitsstrafe; schwere Wirtschaftsstrafsachen, Mehrtaeter, Banden.
+- **LG große Strafkammer § 76 GVG:**
+ - Über 4 Jahre Freiheitsstrafe; schwere Wirtschaftsstrafsachen, Mehrtaeter, Banden.
  - Komplexe Strafzumessung mit § 46 StGB-Bilanz; Gesamtstrafe § 55 StGB.
 - **LG Schwurgericht § 74 II GVG:**
  - Toetungsdelikte §§ 211-222 StGB.
@@ -59,4 +59,4 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
  - Betrug § 263 StGB: Schaden-Korridor entscheidend; Regelbeispiel § 263 III StGB ab ~50.000 EUR / Bandenmaessigkeit.
  - Trunkenheit § 316 StGB: idR Geldstrafe + Fahrerlaubnisentzug § 69 StGB.
  - Koerperverletzung § 223 StGB: Geldstrafe; § 224 (gefaehrlich) regelmaessig Freiheitsstrafe diskutiert.
-- **Verstaendigung § 257c StPO** in allen Stadien moeglich; Korridor verbindlich.
+- **Verstaendigung § 257c StPO** in allen Stadien möglich; Korridor verbindlich.

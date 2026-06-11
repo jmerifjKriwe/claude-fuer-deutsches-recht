@@ -147,10 +147,10 @@ J. Halston Whitman III, Esq. (legal review confirmed)
 ## Triage-Fragen zum US-Selektivvertrieb
 
 Bevor das MAP/RPM-System in den USA eingerichtet wird, klaere:
-1. Handelt es sich um eine unilaterale MAP-Policy (Colgate-Doktrin — zulaessig) oder eine bilateral vereinbarte Preisbindung (§ 1 Sherman Act-Risiko)?
+1. Handelt es sich um eine unilaterale MAP-Policy (Colgate-Doktrin — zulässig) oder eine bilateral vereinbarte Preisbindung (§ 1 Sherman Act-Risiko)?
 2. Werden retailer-spezifische Preisabsprachen in E-Mails oder Meetings dokumentiert (Colgate-Gefahr)?
 3. Sind staatliche Antitrust-Gesetze (New York Donnelly Act, California Cartwright Act) gesondert geprueft?
-4. Ist die Marktmacht von klotzkette Inc. im relevanten US-Markt so gross, dass Rule-of-Reason-Pruefung zum Nachteil ausgeht?
+4. Ist die Marktmacht von klotzkette Inc. im relevanten US-Markt so groß, dass Rule-of-Reason-Prüfung zum Nachteil ausgeht?
 
 ## Aktuelle Rechtsprechung (US)
 
@@ -158,4 +158,4 @@ Bevor das MAP/RPM-System in den USA eingerichtet wird, klaere:
 
 > **Tiffany (NJ) Inc. v. Costco Wholesale Corp., 971 F.3d 74 (2d Cir. 2020):** Der Verkauf von Diamantringen mit dem Schildchen "Tiffany" ohne Genehmigung von Tiffany begründet Likelihood of Confusion und False Designation of Origin nach § 43(a) Lanham Act; unberechtigte Nutzung einer Luxusmarke durch Discounter begründet Marken- und Trade-Dress-Ansprueche.
 
-> **United States v. Colgate & Co., 250 U.S. 300 (1919) (Colgate-Doktrin):** Ein Hersteller hat das Recht, einseitig zu entscheiden, an wen er seine Produkte verkauft und zu welchen Bedingungen; eine unilaterale MAP-Policy ohne Absprache mit Haendlern ist nach der Colgate-Doktrin zulaessig.
+> **United States v. Colgate & Co., 250 U.S. 300 (1919) (Colgate-Doktrin):** Ein Hersteller hat das Recht, einseitig zu entscheiden, an wen er seine Produkte verkauft und zu welchen Bedingungen; eine unilaterale MAP-Policy ohne Absprache mit Haendlern ist nach der Colgate-Doktrin zulässig.

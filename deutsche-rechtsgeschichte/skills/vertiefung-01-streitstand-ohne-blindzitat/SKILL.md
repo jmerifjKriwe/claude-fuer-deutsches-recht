@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -32,12 +32,12 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Ein rechtshistorischer Streitstand ist die strukturierte Darstellung divergierender Positionen in Forschung und Rechtsprechung zu einer historischen Rechtsfrage. Klassische Streitstaende: War die Rezeption des roemischen Rechts ein bewusster Vorgang oder schleichende Transformation? Haette das BGB sozial gerechter sein koennen? War Art. 48 WRV Konstruktionsfehler oder missbraucht? Jeder Streitstand muss quellengestuetzt sein: Nicht nur Autor nennen, sondern Werk, Auflage, Seite. Blindzitate (nur Autor ohne Fundstelle) sind in der rechtshistorischen Wissenschaft unzulaessig.
+Ein rechtshistorischer Streitstand ist die strukturierte Darstellung divergierender Positionen in Forschung und Rechtsprechung zu einer historischen Rechtsfrage. Klassische Streitstaende: War die Rezeption des roemischen Rechts ein bewusster Vorgang oder schleichende Transformation? Haette das BGB sozial gerechter sein können? War Art. 48 WRV Konstruktionsfehler oder missbraucht? Jeder Streitstand muss quellengestuetzt sein: Nicht nur Autor nennen, sondern Werk, Auflage, Seite. Blindzitate (nur Autor ohne Fundstelle) sind in der rechtshistorischen Wissenschaft unzulaessig.
 
 ## Kernnormen / Kernquellen
 
 - **Savigny, Vom Beruf unserer Zeit** (1814): Position gegen Kodifikation, historische Schule
-- **Thibaut, Ueber die Notwendigkeit eines allgemeinen buergerlichen Rechts** (1814): Position für Kodifikation
+- **Thibaut, Über die Notwendigkeit eines allgemeinen buergerlichen Rechts** (1814): Position für Kodifikation
 - **Radbruch-Formel, SJZ 1946, 105**: Streitstand NS-Recht als Recht
 - **BVerfGE 94, 12 (1996)**: Streitstand Bodenreform und Eigentumsrestitution
 - **Anton Menger, Das buergerliche Recht** (1890): Sozialkritik am BGB-Entwurf
@@ -61,6 +61,6 @@ Ein rechtshistorischer Streitstand ist die strukturierte Darstellung divergieren
 
 - Streitstand: pro-Position mit Quelle, Gegenposition mit Quelle, ggf. vermittelnde Position
 - Savigny 1814: Erstausgabe zitieren (Vom Beruf unserer Zeit, Heidelberg 1814)
-- Thibaut 1814: Ueber die Notwendigkeit (Heidelberg 1814)
+- Thibaut 1814: Über die Notwendigkeit (Heidelberg 1814)
 - Radbruch 1946: SJZ 1946, 105 (Sueddeutsche Juristen-Zeitung)
 - Stolleis, Geschichte des öffentlichen Rechts: Bandangabe + Seite

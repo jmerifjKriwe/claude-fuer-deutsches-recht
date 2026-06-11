@@ -3,7 +3,7 @@ name: uwg-verbraucherinteressen-pruefen
 description: "Verbraucherschutzverband Durchsetzung: UWG-Verbraucherinteressen prüfen. UWG-Verbraucherinteressen prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
-# Uwg Verbraucherinteressen Pruefen
+# Uwg Verbraucherinteressen Prüfen
 
 ## Arbeitsweg
 

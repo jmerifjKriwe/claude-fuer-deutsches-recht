@@ -36,7 +36,7 @@ Dieser Skill arbeitet die Besonderheiten der StaRUG-Variante heraus: keine Masse
 Kaltstart-Fragen:
 
 1. StaRUG-Variante (mit gerichtlicher Bestaetigung, mit Stabilisierungsanordnung, ohne)?
-2. Hoehe des Forderungsverzichts?
+2. Höhe des Forderungsverzichts?
 3. Planbetroffene Glaeubiger — wer wird wie verzichten?
 4. Welcher Insolvenzgrund liegt zugrunde (drohende Zahlungsunfaehigkeit als Voraussetzung Paragraph 29 StaRUG)?
 5. Verlustvortraege bekannt?
@@ -55,7 +55,7 @@ Kaltstart-Fragen:
 
 1. **StaRUG-Variante einordnen.** Die Steuerwirkung haengt nicht von der Variante ab, aber die Dokumentation der Sanierungsabsicht ist unterschiedlich schwer.
 2. **Planbetroffene erfassen.** Nur die im StaRUG-Plan benannten Glaeubiger sind betroffen; andere bleiben unverzichtbar.
-3. **Vier Voraussetzungen Paragraph 3a Absatz 2 EStG pruefen.**
+3. **Vier Voraussetzungen Paragraph 3a Absatz 2 EStG prüfen.**
 4. **Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG aufstellen.**
 5. **Restsanierungsertrag berechnen.**
 6. **Antrag in der Steuererklaerung des Sanierungsjahres stellen.** Bei StaRUG ist die Vorabauskunft Paragraph 89 AO besonders empfehlenswert, weil dem Finanzamt der Plan-Hintergrund seltener vertraut ist als bei Insolvenzplaenen.
@@ -78,10 +78,10 @@ Kaltstart-Fragen:
 
 | Entscheidung | wann StaRUG | wann Insolvenzplan |
 |---|---|---|
-| Forderungsverzicht erfasst alle Glaeubiger | nicht moeglich (Bindung nur Planbetroffene) | ja, im bestaetigten Plan |
+| Forderungsverzicht erfasst alle Glaeubiger | nicht möglich (Bindung nur Planbetroffene) | ja, im bestaetigten Plan |
 | Geschaeftsleitung bleibt im Amt | typisch | nur in Eigenverwaltung |
 | Plan-Quote hoch | typisch | typisch wenn Sanierungschance |
-| Plan-Quote sehr niedrig | meist nicht durchsetzbar | ggf. ueber Cramdown |
+| Plan-Quote sehr niedrig | meist nicht durchsetzbar | ggf. über Cramdown |
 | Sanierungserleichterung Paragraph 3a EStG | ja, falls Voraussetzungen | ja |
 | Mehrheits-Cramdown | Paragraphen 26 ff. StaRUG | Paragraph 245 InsO |
 | Steuerliche Verzichtsdokumentation | aufwendiger | leichter, weil Verfahrensdokumentation breit |
@@ -167,7 +167,7 @@ b) die Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG gemaess der
 
 1. Annahme, Paragraph 3a EStG gelte nur für Insolvenzplaene — er greift auch für StaRUG.
 2. Sanierungsbeduerftigkeit mit drohender Zahlungsunfaehigkeit gleichgesetzt — beide getrennt belegen.
-3. Sanierungsabsicht aus dem Klassen-Voting nicht aufbereitet — Plan-Texte muessen das ausweisen.
+3. Sanierungsabsicht aus dem Klassen-Voting nicht aufbereitet — Plan-Texte müssen das ausweisen.
 4. Vergessen, dass Paragraph 3a EStG keinen "StaRUG-Bonus" einbaut, sondern die normalen vier Voraussetzungen verlangt.
 5. Stabilisierungsanordnung Paragraph 49 StaRUG nicht beim Finanzamt eingelegt — Aufrechnungs- und Vollstreckungsverhalten des FA bleibt sonst aktiv.
 
@@ -186,7 +186,7 @@ b) die Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG gemaess der
 
 ### Rechtsprechung (verifiziert)
 
-- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt (Kernentscheidung für DES und Rangruecktritte im StaRUG-Plan).
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangrücktritt (Kernentscheidung für DES und Rangruecktritte im StaRUG-Plan).
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen Passivierung (wirtschaftliche Belastung).
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12) — Liquidations-Kernentscheidung; relevant für Plan-B-Pfade.
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Ls. 3: Streitstand nicht evident rechtsfehlerhaft.

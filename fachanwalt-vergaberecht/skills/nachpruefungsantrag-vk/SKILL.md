@@ -52,12 +52,12 @@ description: "Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff: GWB st
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---|---|---|---|---|
 | EuGH | C-292/15 (Hoersch Auto) | 27.10.2016 | Vergabe öffentlicher Liefer-/Dienstleistungen unterhalb der Schwellenwerte: Transparenz- und Diskriminierungsverbot bei „grenzueberschreitendem Interesse" | curia.europa.eu (Akte C-292/15) |
-| EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Auslegung VO 2014/24/EU: Ausschluss wegen Falschangaben — Verhaeltnismaessigkeit; nationale Behörde muss konkrete Wuerdigung vornehmen | curia.europa.eu |
+| EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Auslegung VO 2014/24/EU: Ausschluss wegen Falschangaben — Verhältnismäßigkeit; nationale Behörde muss konkrete Wuerdigung vornehmen | curia.europa.eu |
 | EuGH | C-66/22 (Infraestruturas) | 21.12.2023 | Ausschluss wegen Wettbewerbsverstossen § 124 GWB / Art. 57 RL 2014/24: ein einzelner Verstoss reicht; Beurteilung obliegt AG | curia.europa.eu |
 | OLG Duesseldorf, Vergabesenat | Verg laufende Senatsentscheidungen — vor Ausgabe verifizieren | 2023–2025 | Ruegeprueclusion § 160 Abs. 3 GWB; konkrete Anforderungen an Rueginhalt | olg-duesseldorf.nrw.de |
 | OLG Karlsruhe | 15 Verg (laufende Senatsrspr.) | 2023–2025 | Antragsbefugnis und drohender Schaden bei ausgeschlossenem Bieter | landesrecht-bw.de / openjur.de |
 
-Konkrete Aktenzeichen aktueller OLG-Vergabesenat-Entscheidungen vor Ausgabe per olg-duesseldorf.nrw.de / openjur.de / landesrecht.[bundesland].de verifizieren. EuGH-Entscheidungen ueber curia.europa.eu mit Aktenzeichen, Datum und Tenor.
+Konkrete Aktenzeichen aktueller OLG-Vergabesenat-Entscheidungen vor Ausgabe per olg-duesseldorf.nrw.de / openjur.de / landesrecht.[bundesland].de verifizieren. EuGH-Entscheidungen über curia.europa.eu mit Aktenzeichen, Datum und Tenor.
 
 ## Prüfschema in Tabellenform
 
@@ -81,13 +81,13 @@ Konkrete Aktenzeichen aktueller OLG-Vergabesenat-Entscheidungen vor Ausgabe per 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Nachpruefungsantrag Vergabekammer stellen | NPA; Template unten |
 | Variante A — Sofortiger Zuschlag befürchtet | Stillhalteantrag § 169 GWB gleichzeitig |
-| Variante B — Ruege nicht moeglich (Frist verstrichen) | Praeklusion pruefen; OLG-Beschwerdeweg |
+| Variante B — Ruege nicht möglich (Frist verstrichen) | Praeklusion prüfen; OLG-Beschwerdeweg |
 | Variante C — Unterhalb-Schwellenwert-Verfahren | Primaerrechtsschutz; Vergabekammer nicht zuständig |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -212,7 +212,7 @@ aufschiebende Wirkung bis zur Entscheidung des OLG.
 [Rechtsanwälte]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -297,7 +297,7 @@ aufschiebende Wirkung bis zur Entscheidung des OLG.
 
 1. Ruege § 160 Abs. 3 GWB fristgerecht erhoben und Ablehnungsbescheid erhalten?
 2. 15-Tage-Antragsfrist noch offen (§ 160 Abs. 3 Nr. 4 GWB)?
-3. Antragsbefugnis: Bieter hat am Verfahren teilgenommen oder haette teilnehmen koennen?
+3. Antragsbefugnis: Bieter hat am Verfahren teilgenommen oder haette teilnehmen können?
 4. Wird Vorabentscheidung § 169 GWB beantragt (Zuschlagssperre)?
 5. Zustaendige Vergabekammer (Bund: BKartA; Länder: Landesvergabekammer)?
 
@@ -345,8 +345,8 @@ als Anlage K2. Frist § 160 Abs. 3 Nr. 4 GWB gewahrt.
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
 - Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

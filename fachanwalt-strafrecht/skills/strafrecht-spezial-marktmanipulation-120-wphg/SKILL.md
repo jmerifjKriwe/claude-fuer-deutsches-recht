@@ -66,16 +66,16 @@ Marktmanipulation ist verboten.
 
 ### Akzeptierte Marktpraktiken Art. 13 MAR
 
-- BaFin kann bestimmte Praktiken als zulaessig erklaeren (Schutz für Liquidity Provider).
+- BaFin kann bestimmte Praktiken als zulässig erklaeren (Schutz für Liquidity Provider).
 
 ## Praktikertipps Verteidigung
 
-- **Manipulationsabsicht bestreiten.** Bei Algo-Trading: Trading-Strategie als legitime Marktteilnahme darstellen; technische Order-Logik des Systems pruefen.
-- **Wirtschaftliche Plausibilitaet.** Hatte Geschaeft echten wirtschaftlichen Hintergrund (Hedge, Arbitrage)? Bei legitimer Strategie keine Manipulation.
+- **Manipulationsabsicht bestreiten.** Bei Algo-Trading: Trading-Strategie als legitime Marktteilnahme darstellen; technische Order-Logik des Systems prüfen.
+- **Wirtschaftliche Plausibilitaet.** Hatte Geschäft echten wirtschaftlichen Hintergrund (Hedge, Arbitrage)? Bei legitimer Strategie keine Manipulation.
 - **Kursrelevanz**. Bei marginalen Order-Volumina ohne reale Kursbeeinflussung kann Tatbestand entfallen.
 - **Zufall vs. Muster.** Bei Spoofing-Anklage: Statistische Auswertung des Trading-Patterns; Vergleich zu Marktdurchschnitt.
 - **Pump-and-Dump und Forenkommunikation.** Inhaltsgestaltung kann als legitime Meinungsaeusserung (Art. 5 GG) verteidigt werden; bei verdecktem Eigeninteresse kritisch.
-- **BaFin-Akzeptierte-Praktik** Art. 13 MAR pruefen.
+- **BaFin-Akzeptierte-Praktik** Art. 13 MAR prüfen.
 - **Verstaendigung § 257c StPO** ueblich bei Compliance-Faellen.
 
 ## Trade-off-Matrix
@@ -91,9 +91,9 @@ Marktmanipulation ist verboten.
 
 ## Konkurrenzen
 
-- **§ 120 WpHG / § 119 WpHG Insiderhandel.** Bei Kombination Tateinheit moeglich.
+- **§ 120 WpHG / § 119 WpHG Insiderhandel.** Bei Kombination Tateinheit möglich.
 - **§ 120 WpHG / § 264a StGB Kapitalanlagebetrug.** Bei Prospekt-/Kapitalmarktangaben Tateinheit.
-- **§ 120 WpHG / § 263 StGB.** Bei Vermoegensschaedigung Tateinheit moeglich.
+- **§ 120 WpHG / § 263 StGB.** Bei Vermoegensschaedigung Tateinheit möglich.
 - **§ 120 WpHG / § 261 StGB Geldwaesche.** Nach Reform 2021.
 - **§ 120 WpHG / Art. 30 MAR Verwaltungssanktion.** Parallel.
 
@@ -112,7 +112,7 @@ Marktmanipulation ist verboten.
 
 ### Bestreiten Manipulationsabsicht
 
-"Eine Marktmanipulationsabsicht des Mandanten wird bestritten. Die in der Anklage genannten Order-Aktivitaeten am [Datum] zwischen [Uhrzeit] und [Uhrzeit] entstammten der vorprogrammierten Trading-Strategie 'XYZ', die als Market-Making-Strategie auf engen Spreads bei der ABC-Aktie konzipiert ist (Strategiebeschreibung Anlage K-2). Die Order-Loeschungen erfolgten infolge automatischer Risikolimits gemaess Risk-Engine-Konfiguration; ein bewusstes Spoofing-Verhalten ist nicht ersichtlich."
+"Eine Marktmanipulationsabsicht des Mandanten wird bestritten. Die in der Anklage genannten Order-Aktivitaeten am [Datum] zwischen [Uhrzeit] und [Uhrzeit] entstammten der vorprogrammierten Trading-Strategie 'XYZ', die als Market-Making-Strategie auf engen Spreads bei der ABC-Aktie konzipiert ist (Strategiebeschreibung Anlage K-2). Die Order-Loeschungen erfolgten infolge automatischer Risikolimits gemäß Risk-Engine-Konfiguration; ein bewusstes Spoofing-Verhalten ist nicht ersichtlich."
 
 ### Bestreiten Pump-and-Dump-Vorsatz
 

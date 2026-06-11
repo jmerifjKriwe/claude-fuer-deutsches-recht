@@ -39,7 +39,7 @@ description: "Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Bean
 ## Pruef-Raster
 
 - [ ] Bewilligung passive Veredelung vollstaendig und gueltig?
-- [ ] Warenidentitaet durch geeignete Massnahmen sichergestellt?
+- [ ] Warenidentitaet durch geeignete Maßnahmen sichergestellt?
 - [ ] Veredelungsfrist eingehalten?
 - [ ] Zollwertberechnungsmethode korrekt angewendet?
 - [ ] Rueckeinfuhranmeldung mit korrektem Verfahrenscode und Bewilligungsnummer?

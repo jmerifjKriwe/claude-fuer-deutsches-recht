@@ -28,7 +28,7 @@ Skill für Polizei- und Justizvollzugsbeamte, Feuerwehrleute und Soldaten, die w
 ## 3. Ablauf / Checkliste
 
 ### a) Anerkennung als Dienstunfall
-- Erforderlich: konkretes, ploetzliches Ereignis, das die Anforderungen eines aeusseren Einwirkungsvorgangs erfuellt. Mehrere "kleine" Belastungen koennen nach Rechtsprechung nicht als Dienstunfall gewertet werden, sondern moeglicherweise als Berufskrankheit.
+- Erforderlich: konkretes, ploetzliches Ereignis, das die Anforderungen eines aeusseren Einwirkungsvorgangs erfuellt. Mehrere "kleine" Belastungen können nach Rechtsprechung nicht als Dienstunfall gewertet werden, sondern moeglicherweise als Berufskrankheit.
 - Bei klar identifizierbarem Ereignis (Schiesserei, Geiselsituation, Fund einer Leiche, Suizidassistenz) anerkennungsfaehig.
 
 ### b) Kausalitaet
@@ -61,7 +61,7 @@ Skill für Polizei- und Justizvollzugsbeamte, Feuerwehrleute und Soldaten, die w
 - ICD-10 F43.1 als Diagnosegrundlage; DSM-5 als ergaenzendes Diagnosesystem.
 - Anforderung an psychiatrisches Gutachten: Diagnose, Symptomverlauf, Verbindung zum auslosenden Ereignis, Differentialdiagnose.
 - BVerwG zur Anerkennung psychischer Erkrankungen als Dienstunfall und zur Abgrenzung Berufskrankheit — Datum und Az vor Zitat live verifizieren.
-- Bei Auslandsverwendung Soldaten und Bundespolizei Auslandsverwendungsgesetz und Einsatzversorgungsgesetz ergaenzend pruefen.
+- Bei Auslandsverwendung Soldaten und Bundespolizei Auslandsverwendungsgesetz und Einsatzversorgungsgesetz ergaenzend prüfen.
 
 ## 7. Beispiel (Kurzfassung)
 

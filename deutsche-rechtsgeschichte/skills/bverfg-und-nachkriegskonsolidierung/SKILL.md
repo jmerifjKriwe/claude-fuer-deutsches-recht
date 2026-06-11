@@ -13,7 +13,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
 - `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
 - `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
 - `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
 - `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
 - `Art. 22 Einigungsvertrag` — Finanzvermoegen.
@@ -46,7 +46,7 @@ Das Bundesverfassungsgericht (BVerfG) wurde am 7. September 1951 in Karlsruhe er
 
 - **Hermann Hoepker Aschoff** (1883-1954): Erster BVerfG-Praesident
 - **Gerhard Leibholz** (1901-1982): BVerfG-Richter, Parteienstaat-Lehre
-- **Erich Lueths** (1902-1991): Klaeger im Lueths-Urteil, Hamburger Senatspressechef
+- **Erich Lueths** (1902-1991): Kläger im Lueths-Urteil, Hamburger Senatspressechef
 - **SRP und KPD**: Verbotene Parteien
 
 ## Typische Streitfragen / Forschungsfragen

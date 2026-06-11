@@ -78,7 +78,7 @@ Sie haben Anspruch auf das Gutachten. Anfordern bei Pflegekasse:
 
 ### Schritt 3 — Gutachten kritisch lesen
 
-Pruefen Sie pro Modul:
+Prüfen Sie pro Modul:
 
 - Welche Punktzahl steht da?
 - Wie wurde sie ermittelt?
@@ -155,13 +155,13 @@ Mit freundlichen Gruessen
 
 Bei Klage vor SG kommt oft ein neues MD-Gutachten. Bei klar fehlerhaften Gutachten: § 109 SGG eigener Gutachter erwaegen.
 
-### Schritt 7 — Eilantrag pruefen
+### Schritt 7 — Eilantrag prüfen
 
 Bei dringender Situation siehe `eilantrag-pflegekassen-pflegehilfsmittel`.
 
-## Worauf Sie besonders achten muessen
+## Worauf Sie besonders achten müssen
 
-- **Pflegeprotokoll ueber min. 14 Tage** — kuerzer wirkt schwach.
+- **Pflegeprotokoll über min. 14 Tage** — kuerzer wirkt schwach.
 - **MD heisst seit 2022 MD**, nicht mehr MDK.
 - **Aerztliche Atteste** mit konkreten Funktionsbeschreibungen.
 - **Hilfsmittel als Indikator** für Pflegebedarf.

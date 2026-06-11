@@ -101,7 +101,7 @@ description: "Miet- und WEG-Streit Mediation: Mieterverein- und Vermieterverein-
 
 ## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026)
 
-Verifizierte Eckpunkte für Mediations- und Vergleichsverhandlungs-Kontext (vor Zitierung Volltext pruefen):
+Verifizierte Eckpunkte für Mediations- und Vergleichsverhandlungs-Kontext (vor Zitierung Volltext prüfen):
 
 - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: bei Haerteklausel-Streit (Eigenbedarf + Krankheit/Alter) muss Tatgericht vollstaendig aufklaeren — für Verhandlungsfenster bedeutet das: medizinische Tatsachen sind oft Vergleichshebel.
 - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23: bei Untervermietungs-Konflikten Gewinngrenze als Verhandlungsanker.

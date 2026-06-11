@@ -23,7 +23,7 @@ description: "Plant Administrationskonto, Rollen, Zugriffsschutz, Zwei-Personen-
 ## Leitfragen
 
 1. Wer administriert den Eintrag?
-2. Wer darf Daten erfassen, pruefen, freigeben und bestaetigen?
+2. Wer darf Daten erfassen, prüfen, freigeben und bestaetigen?
 3. Wie werden Vertretung, Passwortwechsel und Ausscheiden geregelt?
 
 ## Normen und Rechtsprechung

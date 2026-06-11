@@ -62,9 +62,9 @@ Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, ents
 
 - 1 Prozent des Bruttolistenpreises (auf volle 100 EUR abgerundet) pro Monat = Sachbezug Privatnutzung.
 - Plus 0,03 Prozent x Bruttolistenpreis x Entfernungskilometer für Fahrten Wohnung-Arbeit (oder 0,002 Prozent je tatsaechlich gefahrenem Arbeitsweg-Tag bei Einzelnachweis).
-- E-Auto (rein elektrisch, Bruttolistenpreis bis 70.000 EUR — Anhebung von 60.000 auf 70.000 EUR für Anschaffungen ab 01.01.2024 durch Wachstumschancengesetz, BGBl. 2024 I Nr. 108; aktuelles BMF-Schreiben pruefen): nur ein Viertel der Bemessungsgrundlage (0,25 Prozent statt 1 Prozent), entsprechend 0,0075 Prozent statt 0,03 Prozent für Wohnung-Arbeit.
-- E-Auto ueber Listenpreis-Grenze: halbe Bemessungsgrundlage (0,5 Prozent statt 1 Prozent).
-- Plug-in-Hybrid: 0,5 Prozent bei Mindest-Reichweite oder CO2-Bedingungen (Voraussetzungen § 6 Abs. 1 Nr. 4 Satz 2 Nr. 3 ff. EStG; aktuelle Anforderungen in BMF-Schreiben pruefen).
+- E-Auto (rein elektrisch, Bruttolistenpreis bis 70.000 EUR — Anhebung von 60.000 auf 70.000 EUR für Anschaffungen ab 01.01.2024 durch Wachstumschancengesetz, BGBl. 2024 I Nr. 108; aktuelles BMF-Schreiben prüfen): nur ein Viertel der Bemessungsgrundlage (0,25 Prozent statt 1 Prozent), entsprechend 0,0075 Prozent statt 0,03 Prozent für Wohnung-Arbeit.
+- E-Auto über Listenpreis-Grenze: halbe Bemessungsgrundlage (0,5 Prozent statt 1 Prozent).
+- Plug-in-Hybrid: 0,5 Prozent bei Mindest-Reichweite oder CO2-Bedingungen (Voraussetzungen § 6 Abs. 1 Nr. 4 Satz 2 Nr. 3 ff. EStG; aktuelle Anforderungen in BMF-Schreiben prüfen).
 
 **Zahlenbeispiel:** Verbrenner-Dienstwagen Bruttolistenpreis 45.000 EUR; Wohnung-Arbeit 15 km. Monatlicher Sachbezug: 1 Prozent x 45.000 EUR = 450 EUR + 0,03 Prozent x 45.000 EUR x 15 km = 202,50 EUR; gesamt 652,50 EUR Sachbezug. Bei E-Auto 45.000 EUR Listenpreis (in Foerderbereich): nur 0,25 Prozent x 45.000 EUR = 112,50 EUR Privatanteil + 0,0075 Prozent x 45.000 EUR x 15 km = 50,625 EUR; gesamt 163,125 EUR.
 
@@ -81,9 +81,9 @@ Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, ents
 
 ### Phase 4 — E-Auto / Plug-in-Hybrid
 
-- E-Auto Erstzulassung 2019-2030 mit Listenpreis bis 60.000 EUR (Anschaffung bis 31.12.2023) bzw. bis 70.000 EUR (Anschaffung ab 01.01.2024, Wachstumschancengesetz BGBl. 2024 I Nr. 108; aktuelles BMF-Schreiben pruefen): 0,25 Prozent.
-- E-Auto Listenpreis ueber der jeweiligen Grenze: 0,5 Prozent.
-- Plug-in-Hybrid: 0,5 Prozent bei Mindestreichweite elektrisch 80 km oder CO2-Wert max. 50 g/km (§ 6 Abs. 1 Nr. 4 EStG i.V.m. § 3 Abs. 2 EmoG; Stand 2025; aktuelle Anforderungen ueber BMF-Schreiben pruefen, da Grenzwerte politisch angepasst werden koennen).
+- E-Auto Erstzulassung 2019-2030 mit Listenpreis bis 60.000 EUR (Anschaffung bis 31.12.2023) bzw. bis 70.000 EUR (Anschaffung ab 01.01.2024, Wachstumschancengesetz BGBl. 2024 I Nr. 108; aktuelles BMF-Schreiben prüfen): 0,25 Prozent.
+- E-Auto Listenpreis über der jeweiligen Grenze: 0,5 Prozent.
+- Plug-in-Hybrid: 0,5 Prozent bei Mindestreichweite elektrisch 80 km oder CO2-Wert max. 50 g/km (§ 6 Abs. 1 Nr. 4 EStG i.V.m. § 3 Abs. 2 EmoG; Stand 2025; aktuelle Anforderungen über BMF-Schreiben prüfen, da Grenzwerte politisch angepasst werden können).
 
 ### Phase 5 — Eigenbeteiligung
 
@@ -103,8 +103,8 @@ Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, ents
 - Fahrtenbuch nur sinnvoll bei geringer Privatnutzung — Aufwand erheblich.
 - E-Auto bis 60.000 EUR (Anschaffung bis 31.12.2023) bzw. bis 70.000 EUR (Anschaffung ab 01.01.2024, Wachstumschancengesetz): massive Steuerersparnis (0,25 vs. 1 Prozent).
 - 0,03-Prozent-Pauschale Wohnung-Arbeit auch bei seltenen Fahrten — bei wenigen Fahrten 0,002-Prozent-Tagesmethode (gueltig: Einzelnachweis).
-- Bei Familien-GmbH mit GGF: Dienstwagen kritisch — verdeckte Gewinnausschuettung bei Privatnutzung Familienangehoeriger ueber Vereinbarung.
-- StBVV: in Lohnpauschale; Fahrtenbuch-Pruefung Zeithonorar.
+- Bei Familien-GmbH mit GGF: Dienstwagen kritisch — verdeckte Gewinnausschuettung bei Privatnutzung Familienangehoeriger über Vereinbarung.
+- StBVV: in Lohnpauschale; Fahrtenbuch-Prüfung Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Dienstwagen-Modul mit Listenpreis und Konfiguration; bei E-Auto/Hybrid Sonderschluessel.
 
 ## Quellen und Updates
@@ -115,6 +115,6 @@ Stand: 05/2026.
 - LStR R 8.1.
 - BMF v. 03.03.2022 (E-Auto / Hybrid).
 - BMF v. 18.11.2009 (Dienstwagen).
-- E-Auto-Listenpreisgrenze: bis 70.000 EUR (Anschaffung ab 01.01.2024); Plug-in-Hybrid: 80 km elektrische Mindestreichweite oder max. 50 g/km CO2 (Stand 2025; BMF-Schreiben E-Auto/Hybrid pruefen).
+- E-Auto-Listenpreisgrenze: bis 70.000 EUR (Anschaffung ab 01.01.2024); Plug-in-Hybrid: 80 km elektrische Mindestreichweite oder max. 50 g/km CO2 (Stand 2025; BMF-Schreiben E-Auto/Hybrid prüfen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 4 bestaetigt (Wachstumschancengesetz BGBl. 2024 I Nr. 108, Grenzwerte eingesetzt), 3 ersetzt (Pruefhinweise ohne Marker) -->

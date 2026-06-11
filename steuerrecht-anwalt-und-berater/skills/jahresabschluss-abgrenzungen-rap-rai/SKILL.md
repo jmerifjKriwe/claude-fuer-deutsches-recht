@@ -18,7 +18,7 @@ Rechnungsabgrenzungsposten (RAP) sind die bilanzielle Zuordnung von Aufwand und 
 ## Kaltstart-Rueckfragen
 
 1. Welche Vorauszahlungen wurden geleistet (Versicherung, Miete, Leasing, Kfz-Steuer)?
-2. Welche Einnahmen wurden empfangen, die Folgejahr betreffen (Mietvorauszahlungen, Service-Vertraege)?
+2. Welche Einnahmen wurden empfangen, die Folgejahr betreffen (Mietvorauszahlungen, Service-Verträge)?
 3. Welcher Vertragszeitraum?
 4. Welche Belege liegen vor?
 5. Welche Standard-RAP wiederkehrend (Versicherung, Miete)?
@@ -91,7 +91,7 @@ Rechnungsabgrenzungsposten (RAP) sind die bilanzielle Zuordnung von Aufwand und 
 - Standard-RAP (Versicherung, Miete, Kfz-Steuer) sind wiederkehrend — Routine.
 - Bei Mehrjahresvertraegen (z.B. 5-Jahres-Wartung): RAP gestaffelt.
 - Bei kleinen RAP-Betraegen unter Wesentlichkeitsschwelle: ggf. nicht abgrenzen (vgl. BMF zu RAP-Bagatelle).
-- Bei Pruefungspflicht: WP prueft RAP detailliert.
+- Bei Pruefungspflicht: WP prüft RAP detailliert.
 - DATEV-Tipp: DATEV-AfA-Modul kann RAP-Aufloesung monatlich automatisch.
 
 ## Quellen und Updates
