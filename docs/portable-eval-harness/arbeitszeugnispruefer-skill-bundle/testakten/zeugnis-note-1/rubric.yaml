@@ -1,0 +1,45 @@
+name: "Zeugnis Note 1 - Positivreferenz"
+plugin: "arbeitszeugnis-pruefer"
+
+# Rubric prueft den vom Skill erzeugten Output (Datei output.md im
+# selben Verzeichnis) — vor dem Eval-Lauf muss der Output dort liegen.
+
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: "Zeugnis-Volltext als Eingabe vorhanden"
+    path: "README.md"
+
+  - id: r02-gesamtnote-1-erkannt
+    check_type: regex_match
+    description: "Skill-Output benennt Gesamtnote 1"
+    path: "output.md"
+    pattern: "(Gesamtnote.{0,5}1|Note.{0,5}1|sehr.{0,3}gut)"
+
+  - id: r03-ampel-symbol-gruen
+    check_type: regex_match
+    description: "Skill verwendet Ampel als Symbol (gruen)"
+    path: "output.md"
+    pattern: "(🟢|GRUEN|GRÜN)"
+
+  - id: r04-keine-rote-flagge
+    check_type: regex_match
+    description: "Keine rote Flagge gemeldet (oder explizit 0)"
+    path: "output.md"
+    pattern: "(🔴 0|keine.{0,5}rot|kein.{0,5}rot|0.{0,3}rot)"
+
+  - id: r05-schlussformel-vollstaendig
+    check_type: text_contains
+    description: "Bedauern + Dank + Wunsch als vollstaendige Schlussformel erkannt"
+    path: "output.md"
+    contains: "Bedauern"
+
+  - id: r06-quellenhygiene-bag-az-mit-caveat
+    check_type: human_review
+    description: "BAG-Az. (falls zitiert) tragen Live-Verify-Caveat"
+    note: "Manuell pruefen: Wenn der Skill BAG-Az. ausgibt, muss ein Hinweis 'live verifizieren' beigefuegt sein."
+
+  - id: r07-keine-erfundenen-fundstellen
+    check_type: human_review
+    description: "Keine BeckRS-/juris-/NJW-Modellwissens-Halluzination"
+    note: "Manuell pruefen: Output enthaelt keine Zeitschriften-Fundstelle ohne dejure/bundesarbeitsgericht-Link"

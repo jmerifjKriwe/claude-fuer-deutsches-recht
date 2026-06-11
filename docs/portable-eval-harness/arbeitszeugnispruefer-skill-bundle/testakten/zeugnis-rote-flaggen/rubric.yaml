@@ -1,0 +1,55 @@
+name: "Zeugnis Rote Flaggen - Note 4 erkennen"
+plugin: "arbeitszeugnis-pruefer"
+
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: "Zeugnis-Volltext als Eingabe vorhanden"
+    path: "README.md"
+
+  - id: r02-gesamtnote-4-erkannt
+    check_type: regex_match
+    description: "Skill-Output benennt Gesamtnote 4 (ausreichend)"
+    path: "output.md"
+    pattern: "(Gesamtnote.{0,5}4|Note.{0,5}4|ausreichend|mangelhaft)"
+
+  - id: r03-bemueht-als-rote-flagge
+    check_type: text_contains
+    description: "Skill erkennt 'bemueht' als rote Flagge"
+    path: "output.md"
+    contains: "bemueht"
+
+  - id: r04-direkte-kommunikation-erkannt
+    check_type: text_contains
+    description: "Skill erkennt 'direkte Kommunikationsweise' als Code"
+    path: "output.md"
+    contains: "direkte"
+
+  - id: r05-reihenfolge-verhalten-flagging
+    check_type: regex_match
+    description: "Falsche Reihenfolge im Verhaltensteil markiert"
+    path: "output.md"
+    pattern: "(Reihenfolge|Vorgesetzte.{0,30}Kollege)"
+
+  - id: r06-schweigen-zu-kunden
+    check_type: text_contains
+    description: "Skill erkennt das Schweigen zu Kundenkontakt als Auslassung"
+    path: "output.md"
+    contains: "Kunde"
+
+  - id: r07-berichtigungsempfehlung
+    check_type: regex_match
+    description: "Skill liefert Berichtigungs-/Klagestrategie-Empfehlung"
+    path: "output.md"
+    pattern: "(Berichtigung|Klage|Aufforderungsschreiben|Verhandlung)"
+
+  - id: r08-ampel-bilanz-rot-dominant
+    check_type: regex_match
+    description: "Ampel-Bilanz zeigt mehrere rote Befunde"
+    path: "output.md"
+    pattern: "🔴 [3-9]"
+
+  - id: r09-quellenhygiene
+    check_type: human_review
+    description: "Keine erfundenen BAG-Az.; alle Rspr.-Zitate mit Live-Verify-Caveat"
+    note: "Manuell pruefen."

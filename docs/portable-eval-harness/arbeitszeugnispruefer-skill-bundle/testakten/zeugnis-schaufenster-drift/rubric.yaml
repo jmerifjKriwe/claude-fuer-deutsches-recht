@@ -1,0 +1,37 @@
+name: "Zeugnis Schaufenster-Drift - Note 2-3"
+plugin: "arbeitszeugnis-pruefer"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Eingabe-Zeugnis vorhanden"
+    path: "README.md"
+
+  - id: r02-drift-erkannt
+    check_type: text_contains
+    description: "Skill erkennt 'Drift' im Themenbereich"
+    path: "output.md"
+    contains: "Drift"
+
+  - id: r03-spannweite-zwei-stufen
+    check_type: regex_match
+    description: "Skill benennt Spannweite mehrerer Notenstufen"
+    path: "output.md"
+    pattern: "(zwei.{0,3}Stufen|Note.{0,5}1.{0,30}Note.{0,5}3|Spreizung)"
+
+  - id: r04-gesamtnote-2-bis-3
+    check_type: regex_match
+    description: "Skill gibt Gesamtnote 2-3 oder Spanne"
+    path: "output.md"
+    pattern: "(Note.{0,5}2.{0,10}3|2.{0,5}bis.{0,5}3|gut.{0,5}befriedigend)"
+
+  - id: r05-handlungsempfehlung
+    check_type: regex_match
+    description: "Skill liefert eine Handlungsempfehlung (Verhandlung / Akzeptanz / Klage)"
+    path: "output.md"
+    pattern: "(Verhandlung|akzeptieren|Berichtigung)"
+
+  - id: r06-quellenhygiene
+    check_type: human_review
+    description: "Quellenhygiene gewahrt"
+    note: "Manuell pruefen."

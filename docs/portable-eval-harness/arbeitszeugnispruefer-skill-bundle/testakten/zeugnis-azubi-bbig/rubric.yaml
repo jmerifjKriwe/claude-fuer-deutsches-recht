@@ -1,0 +1,37 @@
+name: "Zeugnis Azubi - Sonderfall $ 16 BBiG"
+plugin: "arbeitszeugnis-pruefer"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Eingabe-Zeugnis vorhanden"
+    path: "README.md"
+
+  - id: r02-bbig-rechtsgrundlage
+    check_type: text_contains
+    description: "Skill erkennt $ 16 BBiG als Rechtsgrundlage"
+    path: "output.md"
+    contains: "16"
+
+  - id: r03-azubi-spezifik
+    check_type: regex_match
+    description: "Skill identifiziert als Ausbildungszeugnis (nicht regulaeres Arbeitszeugnis)"
+    path: "output.md"
+    pattern: "(Ausbildungszeugnis|Azubi|Berufsausbildung|BBiG)"
+
+  - id: r04-gesamtnote-1
+    check_type: regex_match
+    description: "Gesamtnote 1 erkannt"
+    path: "output.md"
+    pattern: "(Gesamtnote.{0,5}1|sehr.{0,3}gut)"
+
+  - id: r05-berufsschulleistungen-erwaehnt
+    check_type: text_contains
+    description: "Skill beachtet Berufsschule als Bewertungsbestandteil"
+    path: "output.md"
+    contains: "Berufsschul"
+
+  - id: r06-quellenhygiene
+    check_type: human_review
+    description: "Quellenhygiene"
+    note: "Manuell"
