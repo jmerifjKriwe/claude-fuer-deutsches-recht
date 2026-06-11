@@ -1,0 +1,188 @@
+#!/usr/bin/env python3
+"""generate-formatvorlagen.py - Erzeugt Formatvorlagen pro Plugin als .md + .odt.
+
+Ausgabe: testakten/formatvorlagen-paradebeispiele/<plugin>/<filename>.{md,odt}
+
+Regeln:
+- Times New Roman 11pt, A4, ordentliche Raender (2,5 cm umlaufend)
+- Disclaimer kursiv oben: experimentelle Vorlage, keine Haftung
+- Felder mit [Bracketed-Variables]
+- Bei bilingualen Templates: Massgeb-Klausel deutsche Fassung
+- Inhaltlich rechtssicher, nicht halluziniert (Norm-Zitate verifizierbar)
+"""
+from __future__ import annotations
+from pathlib import Path
+from odf.opendocument import OpenDocumentText
+from odf.style import (Style, TextProperties, ParagraphProperties, PageLayout,
+                       PageLayoutProperties, MasterPage, FontFace, TableProperties,
+                       TableColumnProperties, TableRowProperties, TableCellProperties)
+from odf.text import P, H, Span, List, ListItem, ListStyle, ListLevelStyleBullet
+from odf.table import Table, TableColumn, TableRow, TableCell
+from odf.dc import Title
+
+REPO = Path('/home/user/claude-fuer-deutsches-recht')
+OUT = REPO / 'testakten' / 'formatvorlagen-paradebeispiele'
+
+DISCLAIMER_DE = ('Achtung: Dies ist eine experimentelle KI-Vorlage. Keine Haftung, keine '
+                 'Gewaehr. Nur zum Ausprobieren der Skills und einer KI; keine '
+                 'Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich pruefen.')
+DISCLAIMER_EN = ('Caution: This is an experimental AI-generated template. No liability, '
+                 'no warranty. For exploration of the skills and an AI only; not legal '
+                 'advice. Must be reviewed by a lawyer before any use in a mandate.')
+
+
+def make_doc():
+    """Erstellt ein ODT-Doc mit Times-Roman-11pt-Standardstil."""
+    doc = OpenDocumentText()
+    # Schrift registrieren
+    doc.fontfacedecls.addElement(
+        FontFace(name='Times New Roman', fontfamily='Times New Roman',
+                 fontfamilygeneric='roman', fontpitch='variable'))
+
+    # Seitenformat A4 mit 2,5 cm Raendern
+    pl = PageLayout(name='Standard')
+    pl.addElement(PageLayoutProperties(
+        pagewidth='21cm', pageheight='29.7cm',
+        margintop='2.5cm', marginbottom='2.5cm',
+        marginleft='2.5cm', marginright='2.5cm',
+        writingmode='lr-tb'))
+    doc.automaticstyles.addElement(pl)
+    mp = MasterPage(name='Standard', pagelayoutname='Standard')
+    doc.masterstyles.addElement(mp)
+
+    # Default-Body-Stil: Times New Roman 11pt
+    default = Style(name='Default', family='paragraph')
+    default.addElement(TextProperties(fontname='Times New Roman', fontsize='11pt'))
+    default.addElement(ParagraphProperties(textalign='justify', marginbottom='0.2cm'))
+    doc.styles.addElement(default)
+
+    # Kursivstil fuer Disclaimer
+    italic = Style(name='Disclaimer', family='paragraph', parentstylename='Default')
+    italic.addElement(TextProperties(fontname='Times New Roman', fontsize='10pt',
+                                     fontstyle='italic', color='#444444'))
+    italic.addElement(ParagraphProperties(textalign='justify', marginbottom='0.4cm'))
+    doc.automaticstyles.addElement(italic)
+
+    # Header-Stile
+    for lvl, sz in [(1, 16), (2, 13), (3, 11.5)]:
+        s = Style(name=f'H{lvl}', family='paragraph', parentstylename='Default')
+        s.addElement(TextProperties(fontname='Times New Roman', fontsize=f'{sz}pt',
+                                    fontweight='bold'))
+        s.addElement(ParagraphProperties(textalign='left',
+                                         margintop='0.4cm', marginbottom='0.2cm'))
+        doc.automaticstyles.addElement(s)
+
+    # Center + Bold
+    center_bold = Style(name='CenterBold', family='paragraph', parentstylename='Default')
+    center_bold.addElement(TextProperties(fontname='Times New Roman',
+                                           fontsize='12pt', fontweight='bold'))
+    center_bold.addElement(ParagraphProperties(textalign='center', marginbottom='0.2cm'))
+    doc.automaticstyles.addElement(center_bold)
+
+    # Center
+    center = Style(name='Center', family='paragraph', parentstylename='Default')
+    center.addElement(TextProperties(fontname='Times New Roman', fontsize='11pt'))
+    center.addElement(ParagraphProperties(textalign='center', marginbottom='0.2cm'))
+    doc.automaticstyles.addElement(center)
+
+    return doc
+
+
+def add_para(doc, text, style='Default'):
+    p = P(stylename=style)
+    p.addText(text)
+    doc.text.addElement(p)
+
+
+def add_heading(doc, text, level=1):
+    h = H(stylename=f'H{level}', outlinelevel=level)
+    h.addText(text)
+    doc.text.addElement(h)
+
+
+def write_template(plugin: str, filename: str, title: str, lang: str,
+                   sections: list[tuple[str, str, list[str]]], fields: list[str]):
+    """Schreibt .md und .odt fuer ein Template.
+
+    sections: liste von (kind, content, paragraphs) wo:
+        kind = 'h1' | 'h2' | 'h3' | 'center_bold' | 'center' | 'p'
+    fields: Liste der Bracket-Variablen im Template (zur Doku)
+    """
+    target_dir = OUT / plugin
+    target_dir.mkdir(parents=True, exist_ok=True)
+    md_path = target_dir / f'{filename}.md'
+    odt_path = target_dir / f'{filename}.odt'
+
+    # --- Markdown ---
+    md_lines = []
+    md_lines.append(f'> *{DISCLAIMER_DE}*')
+    if lang in ('en', 'bilingual'):
+        md_lines.append(f'>')
+        md_lines.append(f'> *{DISCLAIMER_EN}*')
+    md_lines.append('')
+    md_lines.append(f'# {title}')
+    md_lines.append('')
+    for kind, content, paras in sections:
+        if kind == 'h1':
+            md_lines.append(f'# {content}')
+            md_lines.append('')
+        elif kind == 'h2':
+            md_lines.append(f'## {content}')
+            md_lines.append('')
+        elif kind == 'h3':
+            md_lines.append(f'### {content}')
+            md_lines.append('')
+        elif kind == 'center_bold':
+            md_lines.append(f'**{content}**')
+            md_lines.append('')
+        elif kind == 'center':
+            md_lines.append(content)
+            md_lines.append('')
+        elif kind == 'p':
+            for para in paras:
+                md_lines.append(para)
+                md_lines.append('')
+    if fields:
+        md_lines.append('---')
+        md_lines.append('')
+        md_lines.append('**Felder im Template** (vor Verwendung ausfuellen):')
+        md_lines.append('')
+        for f in fields:
+            md_lines.append(f'- `{f}`')
+        md_lines.append('')
+    md_path.write_text('\n'.join(md_lines), encoding='utf-8')
+
+    # --- ODT ---
+    doc = make_doc()
+    add_para(doc, DISCLAIMER_DE, 'Disclaimer')
+    if lang in ('en', 'bilingual'):
+        add_para(doc, DISCLAIMER_EN, 'Disclaimer')
+    add_para(doc, '', 'Default')
+    add_heading(doc, title, level=1)
+    for kind, content, paras in sections:
+        if kind == 'h1':
+            add_heading(doc, content, level=1)
+        elif kind == 'h2':
+            add_heading(doc, content, level=2)
+        elif kind == 'h3':
+            add_heading(doc, content, level=3)
+        elif kind == 'center_bold':
+            add_para(doc, content, 'CenterBold')
+        elif kind == 'center':
+            add_para(doc, content, 'Center')
+        elif kind == 'p':
+            for para in paras:
+                add_para(doc, para, 'Default')
+    if fields:
+        add_para(doc, '', 'Default')
+        add_heading(doc, 'Felder im Template', level=3)
+        for f in fields:
+            add_para(doc, f'• {f}', 'Default')
+    doc.save(str(odt_path))
+    return md_path, odt_path
+
+
+# --- Generator-Aufrufe ---
+
+if __name__ == '__main__':
+    print('Modul geladen. Importiere via Generator-Skripte.')

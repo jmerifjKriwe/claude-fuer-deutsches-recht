@@ -1,3 +1,34 @@
+# v302.0.0 — Megaprompts und Formatvorlagen-Paradebeispiele
+
+## Megaprompts (209 Plugins)
+
+- Neuer Generator `scripts/generate-megaprompt.py`: konkateniert pro Plugin die Kern-Skills (alle bei <=20 Skills, top-15 bei groesseren Plugins) in eine einzelne Markdown-Datei.
+- Ausgabe in `testakten/megaprompts/<plugin>.md` — verwendbar als single-shot Prompt in Chats ohne Claude-Code-Integration.
+- Disclaimer (DE/EN), Inhaltsverzeichnis, Anwendungshinweise.
+- Ausgeschlossen: `corporate-kanzlei`, `urteilsbauer-relationsmacher`, `verlagsredaktion`, `zwangsverwaltung-zvg`.
+
+## Formatvorlagen (11 Plugins, erste Welle)
+
+- Neues Verzeichnis `testakten/formatvorlagen-paradebeispiele/<plugin>/` mit Vorlagen als **Markdown + ODT** (Times Roman 11pt, A4, 2,5 cm Raender).
+- Disclaimer kursiv oben (experimentelle KI-Vorlage, keine Haftung).
+- Felder in [Klammern], konditionale Hinweise im Fliesstext.
+- 11 Plugins, 12 Vorlagen: Arbeit (Kuendigungsschutzklage $ 4 KSchG + Aufhebungsvertrag), Familie (Scheidungsantrag), Straf (Akteneinsicht $ 147 StPO), Verkehr (Bussgeld-Einspruch $ 67 OWiG), Miete/WEG (Mietminderung $ 536c BGB), Erbe (Erbscheinantrag), Medizin (Befundherausgabe $ 630g BGB), Versicherung (Deckungsklage $ 100 VVG), Insolvenz (Glaeubigerantrag $ 14 InsO), Handels/Gesellschaft (Anfechtungsklage $ 246 AktG), Lizenz (Patent-Lizenz bilingual DE/EN mit Massgeb-Klausel).
+
+## Plugin-READMEs
+
+- 209 Plugin-READMEs erhalten eine neue Sektion **Experimentell: dieses Plugin auch ohne Claude Code** mit Direkt-Download-Links auf Megaprompt + (sofern vorhanden) Formatvorlagen. Idempotent ueber HTML-Marker.
+
+## Versions-Bump
+
+- 213 plugin.json + marketplace.json + README + ASSET_INDEX + CHANGELOG auf v302.0.0.
+
+## Validatoren
+
+- `validate-plugin-structure.mjs` OK
+- `validate-yaml-frontmatter.py` 0 Fehler
+
+---
+
 # v301.0.0 — Eval-Harness-Vollausbau + Portable-Bundle
 
 ## Vollausbau Eval-Harness
