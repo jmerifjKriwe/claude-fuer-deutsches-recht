@@ -53,6 +53,16 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 - Kostenhinweis (RVG/Honorarvereinbarung)
 - Unterschrift mit Berufsbezeichnung
 
+## Gliederung und Nummerierung von Vorlagen und Verträgen (verbindlich)
+
+Diese Regel gilt **ausnahmslos und für alle Zeiten** für jede Vorlage, jeden Vertrag, jedes Vertragsmuster und jedes formatierte Dokument in diesem Repository – unabhängig davon, welches Werkzeug es erzeugt (Claude, Perplexity, Codex oder andere).
+
+- **Nur dezimale Nummerierung.** Gegliedert wird ausschließlich nach dem Schema `1`, dann `1.1`, dann `1.1.1`, dann `1.1.1.1` und so weiter in beliebiger Tiefe.
+- **Verboten** sind römische Ziffern (`I.`, `II.`, `III.`), Großbuchstaben (`A.`, `B.`, `C.`), Kleinbuchstaben als Gliederungsebene (`a)`, `b)`) und jede gemischte Verlagsgliederung (`§ 1 I. 1. a) aa)`), wie sie viele deutsch-juristische Verlage verwenden. Solche Schemata machen Dokumente unauffindbar und sind hier untersagt.
+- **Leerzeile zwischen Gliederungspunkt und Inhalt.** Sobald ein Punkt Unterpunkte oder darunterliegenden Text hat, steht zwischen der Gliederungsüberschrift und dem folgenden Punkt/Absatz immer eine Leerzeile. Ohne Leerzeile ist das Dokument nicht lesbar.
+- **Maßvoll einrücken.** Eingerückt wird nur so viel, dass die Hierarchie klar erkennbar bleibt und das Dokument sauber aussieht – nicht mehr. Übertriebene Einrückung lässt Dokumente zerfleddert wirken und ist zu vermeiden.
+- Diese Regelung ist von hoher Priorität. Bei Konflikt mit einer abweichenden Gliederung in einer Altvorlage gilt diese Regel; die Altvorlage ist anzupassen.
+
 ## Skill-Konvention
 
 - Jeder Skill liegt unter `<plugin>/skills/<skill-name>/SKILL.md`.
