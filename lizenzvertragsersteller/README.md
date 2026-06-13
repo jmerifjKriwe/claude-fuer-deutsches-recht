@@ -1,6 +1,5 @@
 # Lizenzvertragsersteller
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 

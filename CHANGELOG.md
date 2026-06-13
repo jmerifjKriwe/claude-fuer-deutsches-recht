@@ -1,3 +1,23 @@
+# v313.0.0 — Glattzug nach v312 und Release-Synchronisierung
+
+Pflege-Release nach erneutem Kontroll-Loop über den aktuellen `main`-Stand. Der nach `v312.0.0` hinzugekommene Gliederungsstandard in `CLAUDE.md` ist jetzt Teil eines vollständigen Releases mit aktualisierten Versionsständen und frisch geprüfter Repository-Oberfläche.
+
+## Was sich ändert
+
+- `CLAUDE.md`: die neue verbindliche Dezimalgliederungsregel für Vorlagen und Verträge aus `main` ist in den Release-Stand eingezogen.
+- Alle Plugin-Manifeste und der Marketplace sind auf `v313.0.0` synchronisiert.
+- README-Stand, Testakten-Übersicht, Skill-Übersichten, Downloadsektionen und Asset-Index wurden erneut aus dem aktuellen Bestand regeneriert.
+- Ein zusätzlicher Sanity-Loop prüft Manifest-Abdeckung, Gesamt-PDFs, YAML-Frontmatter, Release-Assets und alte Boilerplate-/Verdichtungsartefakte.
+
+## Validatoren
+
+- `scripts/validate-yaml-frontmatter.py`: OK
+- `scripts/validate-plugin-structure.mjs`: OK
+- `scripts/validate-testakten-gesamt-pdf.py`: OK (204 Testakten)
+- `git diff --check`: OK
+
+---
+
 # v312.0.0 — Qualitätsloops, Quellenhygiene und Release-Oberfläche
 
 Pflege- und Qualitätsrelease nach zehn Prüfschleifen über Pluginbestand, Skills, README-Oberfläche, Testakten-Verlinkung und Release-Assets.
