@@ -1,7 +1,6 @@
 # Europarecht-Kompass für deutsche Juristinnen und Juristen
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -85,7 +84,7 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -99,12 +98,12 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `dokumente-intake` | Dokumentenintake für Europarecht-Kompass: sortiert Klageschrift EuGH, Vorlagebeschluss nationaler Gerichte, Kommissions-Mitteilung, prüft Datum, Absender, Frist und Beweiswert (Marktstudien, Verwaltungspraxis); markiert Lücken; berücksic... |
 | `drafting-internationaler-bezug-und-schnittstellen` | Drafting: Internationaler Bezug und Schnittstellen. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Europarecht-Kompass: ordnet Rolle (Nationale Gerichte, EU-Institutionen, Mitgliedstaaten), markiert Frist (Nichtigkeitsklage 2 Monate Art. 263 AEUV), wählt Norm (AEUV/EUV, EU-Grundrechtecharta, Sekundärre... |
-| `er-vorlageverfahren-eur-kommissionsverfahren` | Spezialfall Vorlageverfahren Art. 267 AEUV: Voraussetzungen, letztinstanzliche Vorlagepflicht, Cilfit-Kriterien, acte clair und acte eclaire, Folgen Verstoss (Staatshaftung Koebler). Prüfraster und Mustertext für Vorlagebeschluss im Eur... |
+| `er-vorlageverfahren-eur-kommissionsverfahren` | Spezialfall Vorlageverfahren Art. 267 AEUV: Voraussetzungen, letztinstanzliche Vorlagepflicht, Cilfit-Kriterien, acte clair und acte eclaire, Folgen Verstoss (Staatshaftung Koebler). Prüfraster und Mustertext für Vorlagebeschluss im Euro... |
 | `eu-rechtsquellen-vorlageweiche` | EU-Rechtsquellen, Charta und Vorlageweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `eur-anrufung-state-beihilfen-vergaben` | Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Prüfraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen im Europarecht Kompass. |
-| `eur-kommissionsverfahren-art-258-spezial` | Spezialfall Vertragsverletzungsverfahren Art. 258 AEUV: Pilotphase, Mahnschreiben, mit Gruenden versehene Stellungnahme, Klage, Zwangsgeld Art. 260 AEUV. Prüfraster für Beschwerdefuehrer und Mitgliedstaat. Mustertexte im Europarecht Kom... |
+| `eur-kommissionsverfahren-art-258-spezial` | Spezialfall Vertragsverletzungsverfahren Art. 258 AEUV: Pilotphase, Mahnschreiben, mit Gruenden versehene Stellungnahme, Klage, Zwangsgeld Art. 260 AEUV. Prüfraster für Beschwerdefuehrer und Mitgliedstaat. Mustertexte im Europarecht Komp... |
 | `eur-mandant-uebersicht-zustaendigkeiten` | Mandantenuebersicht EU-Zuständigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle für typische Mandantenanliegen im Europarecht Kompass. |
-| `eur-state-aid-notifikation-spezial` | Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Prüfraster für Förderung und Industrieprojekt. Mustertext für Pre-Noti... |
+| `eur-state-aid-notifikation-spezial` | Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Prüfraster für Förderung und Industrieprojekt. Mustertext für Pre-Notif... |
 | `europarecht-beihilfen-vergaben` | Beihilfenrecht und Vergaberecht prüfen wenn staatliche Förderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Veror... |
 | `europarecht-delegierte-durchfuehrungsakte` | Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output:... |
 | `europarecht-deutscher-denkfehler-scanner` | Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlini... |
@@ -118,7 +117,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `europarecht-quality-gate` | EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonfo... |
 | `europarecht-richtlinie-umsetzung-simulation` | EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatsh... |
 | `europarecht-simulation-behoerde-gericht` | Verhandlung vor EU-Behörde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachste... |
-| `europarecht-verordnung-beschluss-soft-law` | EU-Verordnungen Beschlüsse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbe... |
+| `europarecht-verordnung-beschluss-soft-law` | EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbe... |
 | `europarecht-vertragsverletzung-durchsetzung` | Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Prüfraster: Verletzungshandlung Mahnschreiben Klage Urteil Sanktion Abhi... |
 | `europarecht-vorlageverfahren-art-267` | Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung... |
 | `europarecht-wettbewerb-kartell` | Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellun... |
@@ -127,7 +126,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `grundfreiheiten-zahlen-schwellen-und-berechnung` | Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung. |
 | `kommissionsverfahren-vorlageverfahren` | Kommissionsverfahren: Formular, Portal und Einreichungslogik. |
 | `livecheck-sonderfall-und-edge-case` | Livecheck: Sonderfall und Edge-Case-Prüfung. |
-| `nationales-verfahren-vorlageverfahren-art` | EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Äquivalenzgrundsatz effektiver Recht... |
+| `nationales-verfahren-vorlageverfahren-art` | EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Äquivalenzgrundsatz effektiver Rechts... |
 | `output-waehlen` | Output-Wahl für Europarecht-Kompass: stimmt Adressat (Nationale Gerichte, EU-Institutionen, Mitgliedstaaten), Frist (Nichtigkeitsklage 2 Monate Art. 263 AEUV) und Form auf den Zweck ab — typische Outputs: Vorlagefrage-Vorschlag, Konformi... |
 | `petitionsausschuss-mandantenentscheidung` | Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage. |
 | `quellen-livecheck` | Quellen-Live-Check für Europarecht-Kompass: prüft Normen (AEUV/EUV, EU-Grundrechtecharta, Sekundärrecht (VO/RL)) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt EuGH und Quellenhygiene nach references/quellenhygie... |

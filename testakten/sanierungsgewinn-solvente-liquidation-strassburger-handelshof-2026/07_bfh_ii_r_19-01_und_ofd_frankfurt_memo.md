@@ -28,7 +28,7 @@ Der BFH hat in dieser Entscheidung (Urt. v. 26.02.2003 — II R 19/01) klargeste
 
 ### 3.3 OFD Frankfurt a. M.
 
-Die OFD Frankfurt hat zuletzt in der Rundverfügung vom **26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** (Tz. 1.2-1.4) klargestellt, dass der **blosse Auflösungsbeschluss** noch keinen konkludenten Forderungsverzicht des Gesellschafter-Gläubigers darstellt. Der Verzicht muss vielmehr ausdrücklich, einseitig (§ 397 BGB) oder im Verzichtsvertrag erklärt werden. Solange dies nicht geschehen ist, bleibt die Darlehensforderung bestehen. Die Vorgängerverfügung vom **03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** ist im wesentlichen Inhalt identisch; Aktualität vor Antragstellung beim FA Berlin-Charlottenburg zu prüfen, da die OFD-Verfügung laufend in Bund-Länder-Abstimmung aktualisiert wird. Eine differenzierende Sichtweise vertritt die **OFD Nordrhein-Westfalen, Kurzinformation Einkommensteuer Nr. 46/2014 (aktualisiert 22.09.2017), DB 2017, 2580** insbesondere für den Insolvenzfall.
+Die OFD Frankfurt hat zuletzt in der Rundverfügung vom **26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** (Tz. 1.2-1.4) klargestellt, dass der **blosse Auflösungsbeschluss** noch keinen konkludenten Forderungsverzicht des Gesellschafter-Gläubigers darstellt. Der Verzicht muss vielmehr ausdrücklich, einseitig (§ 397 BGB) oder im Verzichtsvertrag erklärt werden. Solange dies nicht geschehen ist, bleibt die Darlehensforderung bestehen. Die Vorgängerverfügung vom **03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** ist im wesentlichen Inhalt identisch; Aktualität vor Antragstellung beim FA Berlin-Charlottenburg zu prüfen, da die OFD-Verfügung laufend in Bund-Länder-Abstimmung aktualisiert wird. Eine differenzierende Sichtweise vertritt die **OFD Nordrhein-Westfalen, Kurzinformation Einkommensteuer Nr. 46/2014 (aktualisiert 22.09.2017), DB 2017, 2580** insbesondere für den Insolvenzfall.
 
 Ergänzend trägt die allgemeine Passivierungsdogmatik die Linie: Nach **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450**, ist die Passivierung erst zu unterlassen, wenn auch die **wirtschaftliche Belastung** entfällt — der blosse Auflösungsbeschluss begründet die Annahme nicht. Hinsichtlich des Rangrücktritts ist die Kernentscheidung **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** heranzuziehen: Nur bei ausschlieszlicher Tilgung aus zukünftigen Gewinnen oder Liquidationsüberschuss greift § 5 Abs. 2a EStG; bei zusätzlichem Tilgungsvorbehalt aus freiem Vermögen (wie hier in lit. c der Änderungsvereinbarung 2021) nicht. Vgl. dazu auch **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — nachgehend zu FG Koeln 13 K 3006/11, Ls. 3: Die Nicht-Passivierung in der Schlussbilanz ist „nicht evident rechtsfehlerhaft" — der Streitstand bleibt also offen.
 
@@ -78,7 +78,7 @@ Das Gesellschafterdarlehen bleibt in der Liquidationsbilanz vollwertig passivier
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**, Tz. 1.2-1.4.
+- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen**, Tz. 1.2-1.4.
 - **OFD Frankfurt a. M., Rundverfügung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
 

@@ -115,8 +115,8 @@ Die in Szenario A (Akte 08) gewählte Strategie ist von der verifizierten Rechts
 - **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall: Forderung der Gesellschaft gegen Gesellschafter.
 - **FG Münster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264** — rechtskräftig; Streitfrage diskussionswuerdig.
 - **FG Düsseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung und Definitiveffekt; Rev. anh. BFH I R 36/18 (ausgesetzt wegen BVerfG 2 BvL 19/14, Vorlage BFH I R 59/12).
-- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166** = BeckRS 2021, 14783.
-- **OLG Düsseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20, BeckRS 2020, 22839**.
+- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166** = freie Quelle/dejure vor Ausgabe pruefen.
+- **OLG Düsseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20, freie Quelle/dejure vor Ausgabe pruefen**.
 - **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**.
 - **OLG Jena, Beschl. v. 20.05.2015 — 6 W 506/14, ZIP 2016, 25**; **OLG Jena, Beschl. v. 15.05.2019 — 2 W 159/19, NotBZ 2019, 391**.
 - **OLG Celle, Beschl. v. 17.10.2018 — 9 W 80/18, ZIP 2018, 2222**.
@@ -124,9 +124,9 @@ Die in Szenario A (Akte 08) gewählte Strategie ist von der verifizierten Rechts
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**, Tz. 1.2-1.4.
+- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen**, Tz. 1.2-1.4.
 - **OFD Frankfurt a. M., Rundverfügung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** — Vorgängerverfügung.
-- **OFD Frankfurt, Verfügung v. 27.12.2018, BeckVerw 447487** — Einsprüche Mindestbesteuerung ruhend stellen.
+- **OFD Frankfurt, Verfügung v. 27.12.2018, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** — Einsprüche Mindestbesteuerung ruhend stellen.
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
 
 ### Literatur

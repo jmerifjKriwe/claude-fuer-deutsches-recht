@@ -1,7 +1,6 @@
 # Weltraumrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -42,7 +41,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -111,7 +110,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `planfeststellung-raumfahrtinfrastruktur` | Planfeststellungsverfahren für Startanlagen und Bodensegment – Träger, Öffentlichkeitsbeteiligung, Rechtsschutz im Weltraumrecht. |
 | `post-mission-aktenabschluss-und-lessons-learned` | Post-Mission-Abschluss – Vertragsabwicklung, Aktenaufbewahrung, Debriefing, Lessons Learned im Weltraumrecht. |
 | `public-private-partnership-raumfahrtmission` | PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, Risikoverteilung, Exit-Szenarien im Weltraumrecht. |
-| `quantenkommunikation-via-satellit` | Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schlüsselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und... |
+| `quantenkommunikation-via-satellit` | Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schlüsselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und E... |
 | `raketenstart-exportkontrolle-absturz` | Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts im Weltraumrecht. |
 | `raumfahrt-krieg-board-haftung-weather` | Weltraumrecht im bewaffneten Konflikt – OST Art. IV, humanitäres Völkerrecht, Dual-Use im Weltraumrecht. |
 | `raumfahrt-und-versicherungsaufsicht` | Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung im Weltraumrecht. |
@@ -134,7 +133,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `space-law-opinion-fuer-investoren` | Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken im Weltraumrecht. |
 | `space-mining-ressourcenrechte-eigentum-und-sicherheite` | Asteroiden- und Mondbergbau – Ressourceneigentumsrecht, OST Art. II, Finanzierungssicherheiten im Weltraumrecht. |
 | `space-traffic-management-und-kollisionswarnungen` | Space Traffic Management (STM) – Kollisionswarnungen, Ausweichmanöver, Haftungsverteilung, EU SST im Weltraumrecht. |
-| `space-weather-solarsturm-haftung-und-versicherung` | Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhältnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Liefer... |
+| `space-weather-solarsturm-haftung-und-versicherung` | Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhältnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferk... |
 | `standardvertragsklauseln-fuer-raumfahrtdaten` | Standard-Vertragsklauseln für Raumfahrtdaten – DSGVO SCC, Datentransfer, Copernicus-Datenpolitik im Weltraumrecht. |
 | `starlink-oneweb-iris2-und-oeffentliche-beschaffung` | Starlink, OneWeb, IRIS² – öffentliche Beschaffung, Sicherheitsanforderungen, Vergaberecht und strategische Autonomie im Weltraumrecht. |
 | `suborbitalflug-luftrecht-oder-weltraumrecht` | Suborbitalflug – Abgrenzung Luftraum/Weltraum, Kármán-Linie, FAA AST, EU-Recht im Weltraumrecht. |

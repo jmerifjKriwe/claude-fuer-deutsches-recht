@@ -1,7 +1,6 @@
 # Nachbarschaftsstreit-Prüfer
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -64,7 +63,7 @@ Stand: 05/2026. Kernnormen: BGB §§ 903, 906-923, 823, 862, 1004; Landesnachbar
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -97,9 +96,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `laermimmissionen-mediation-vorrang` | Spezialfall Laermimmissionen TA Laerm und LAI-Hinweise: Beurteilungspegel, Schutzgebiete, Spitzenpegel, Prüfraster zur Schadensersatz- und Unterlassungsklage im Nachbarschaftsstreit Prüfer. |
 | `landesnachbarrecht-router` | Bundesland-Router für Landesnachbarrecht: Einfriedung, Pflanzenabstände, Hammerschlagsrecht, Nachbarwand, Fenster/Licht, Ausschlussfristen, kommunale Satzungen und Recherchebedarf je Land identifizieren im Nachbarschaftsstreit Prüfer. |
 | `mauer-quellenkarte` | Mauer Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `nach-grenzbebauung-ueberhang-spezial` | Spezialfall Grenzbebauung und Überhang § 910 BGB / Landesrecht: Abstandsflaechen, Rueckschnitt, Vorrang des Naturschutzes. Prüfraster für Eigentümer und Mieter im Nachbarschaftsstreit Prüfer. |
+| `nach-grenzbebauung-ueberhang-spezial` | Spezialfall Grenzbebauung und Überhang § 910 BGB / Landesrecht: Abstandsflaechen, Rueckschnitt, Vorrang des Naturschutzes. Prüfraster für Eigentuemer und Mieter im Nachbarschaftsstreit Prüfer. |
 | `nach-mediation-vorrang-leitfaden` | Leitfaden Mediation und obligatorisches Gueteverfahren § 15a EGZPO: zuständige Stellen, Verlauf, Vergleich. Prüfraster für Streitwert unter 750 Euro und Nachbarschaftsstreit im Nachbarschaftsstreit Prüfer. |
-| `nach-nachbarrechtsuebersicht-bauleiter` | Bauleiter Übersicht Nachbarrecht: BGB §§ 903 ff., Landesnachbarrechtsgesetze, BImSchG. Prüfraster Immissionen, Grenzbebauung, Einfriedung. Mustertext Aufforderungsschreiben im Nachbarschaftsstreit Prüfer. |
+| `nach-nachbarrechtsuebersicht-bauleiter` | Bauleiter Uebersicht Nachbarrecht: BGB §§ 903 ff., Landesnachbarrechtsgesetze, BImSchG. Prüfraster Immissionen, Grenzbebauung, Einfriedung. Mustertext Aufforderungsschreiben im Nachbarschaftsstreit Prüfer. |
 | `nachbarrecht-erstpruefung-und-mandatsziel` | Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `nachbarrecht-kaltstart-triage` | Erstaufnahme eines Nachbarrechtsfalls: Beteiligte, Grundstücke, Bundesland, Grenze, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Eskalation und Ziel klären; danach in die passenden Fachmodule routen. |
 | `nachbarschaftsstreit-fristen-risiko-mandant` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Nachbarschaftsstreit Prüfer. |

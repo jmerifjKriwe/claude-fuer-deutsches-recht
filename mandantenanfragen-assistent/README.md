@@ -1,7 +1,6 @@
 # mandantenanfragen-assistent
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -134,7 +133,7 @@ Apache-2.0 OR MIT — siehe [LICENSE](../LICENSE), [LICENSE-APACHE](../LICENSE-A
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -164,8 +163,8 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `ma-aufnahmegespraech-leitfaden` | Aufnahmegespraechsleitfaden Mandant: Sachverhalt, Eilbedarf, Ziel, Bereits eingeleitete Schritte, Andere beauftragte Anwaelte, Konflikte, Vergueng. Strukturierte Fragen und typische Stolpersteine. Mustertext zur Mandatsbestaetigung im Ma... |
 | `ma-einfuehrung-erstkontakt` | Erstkontakt-Typen einfuehrend: Telefon, E-Mail, Webformular, Walk-in, Empfehlung. Pro Typ: Risiken, Dokumentation, Datenschutz, Naechster Schritt. Routing-Logik und Eskalation bei sensiblen Faellen im Mandantenanfragen Assistent. |
 | `ma-erstvermerk-mandantenakte` | Erstvermerk für die Mandantenakte: Pflichtangaben (Mandant, Sachverhalt, Eilbedarf, Ziel, Honorar, naechster Schritt), interne Hinweise (Konflikte, sensible Punkte). Format und Aufbewahrung in der Akte im Mandantenanfragen Assistent. |
-| `ma-konfliktcheck-konzern` | Spezialfall Konfliktcheck im Konzern: Mandat für Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Prüfraster und Mustertexte für Einwilligungen und Hinweis an Mandant im Mandantenanfrag... |
-| `ma-mandant-manda-erstgespraechsleitfaden` | Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Prüfen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur für den Aufgabenkreis. Mustertexte und Prüfraster. Route... |
+| `ma-konfliktcheck-konzern` | Spezialfall Konfliktcheck im Konzern: Mandat für Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Prüfraster und Mustertexte für Einwilligungen und Hinweis an Mandant im Mandantenanfrage... |
+| `ma-mandant-manda-erstgespraechsleitfaden` | Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Prüfen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur für den Aufgabenkreis. Mustertexte und Prüfraster. Routet... |
 | `mail-dokumentenmatrix-und-lueckenliste` | Mail: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `manda-erstgespraechsleitfaden-checkliste` | Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erläutern, Honorar. Mustertext Folgeschreiben Mandant im Mandantenanfragen Assistent. |
 | `manda-erstkontakt-triagebogen-bauleiter` | Bauleiter Triagebogen Erstkontakt: Mandantendaten, COI-Prüfung, Rechtsschutzversicherung, Eilbeduerftigkeit, RVG-Hinweis. Prüfraster für Sekretariat und Anwalt im Mandantenanfragen Assistent. |

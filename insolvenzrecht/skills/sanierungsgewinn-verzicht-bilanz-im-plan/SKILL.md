@@ -196,7 +196,7 @@ EUR [...], Sanierungsertrag in Hoehe EUR [...].
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** — ertragsteuerliche Beurteilung von Darlehensverbindlichkeiten im Abwicklungsendvermoegen; Aktualitaet vor Anwendung prüfen.
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** — ertragsteuerliche Beurteilung von Darlehensverbindlichkeiten im Abwicklungsendvermoegen; Aktualitaet vor Anwendung prüfen.
 - **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** — Vorgaengerverfuegung.
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580** — Sichtweise NRW.
 

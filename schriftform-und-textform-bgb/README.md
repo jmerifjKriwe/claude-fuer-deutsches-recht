@@ -1,7 +1,6 @@
 # Schriftform und Textform im BGB
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -98,7 +97,7 @@ Alle Skills sind kanzleitauglich formuliert und enthalten vollständige Klauselt
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -142,9 +141,9 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift` | Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. § 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen Vertraegen Blankounter... |
 | `schriftform-textform-bgb-start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Schriftform Und Textform Bgb-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan... |
 | `sftf-arbeitsvertraege-nachweisgesetz` | Spezialfall Schriftform im Arbeitsverhaeltnis nach Nachweisgesetzaenderung 2022: schriftliche Aushaendigung, Bussgeld, Befristung. Prüfraster für Arbeitgeber im Schriftform Und Textform Bgb. |
-| `sftf-doppelschriftform-aufhebung-spezial` | Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Prüfraster für langlaufende Verträge im Schriftform Und Textform Bgb. |
-| `sftf-elektronische-signatur-leitfaden` | Leitfaden qualifizierte elektronische Signatur eIDAS: Vertrauensdienst, eID, Fernsignatur. Prüfraster für Verträge und behoerdliche Verfahren im Schriftform Und Textform Bgb. |
-| `sftf-formvorgaben-bgb-interessen-checklisten` | Bauleiter Formvorgaben BGB § 126 sowie § 126a sowie § 126b: Schriftform, elektronische Form, Textform. Prüfraster Verträge Wohnraum, Arbeit, Verbraucher im Schriftform Und Textform Bgb. |
+| `sftf-doppelschriftform-aufhebung-spezial` | Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Prüfraster für langlaufende Vertraege im Schriftform Und Textform Bgb. |
+| `sftf-elektronische-signatur-leitfaden` | Leitfaden qualifizierte elektronische Signatur eIDAS: Vertrauensdienst, eID, Fernsignatur. Prüfraster für Vertraege und behoerdliche Verfahren im Schriftform Und Textform Bgb. |
+| `sftf-formvorgaben-bgb-interessen-checklisten` | Bauleiter Formvorgaben BGB § 126 sowie § 126a sowie § 126b: Schriftform, elektronische Form, Textform. Prüfraster Vertraege Wohnraum, Arbeit, Verbraucher im Schriftform Und Textform Bgb. |
 | `textform-dokumentenmatrix-und-lueckenliste` | Textform: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `textform-paragraph-verteidigungsstrategie` | Textform Paragraph 126b BGB Dauerhafter Datentraeger: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Schriftform Und Textform Bgb. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Schriftform/Textform BGB: trennt fehlende Tatsachen von fehlenden Belegen (Vertrag, Unterschrift, qualifizierte e-Signatur), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgerichte), Frist und Ersatz... |

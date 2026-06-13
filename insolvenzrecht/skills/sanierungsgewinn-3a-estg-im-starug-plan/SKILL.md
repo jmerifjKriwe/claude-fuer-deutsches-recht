@@ -195,9 +195,9 @@ b) die Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG gemaess der
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen**.
 - **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
-- **OFD Frankfurt v. 27.12.2018, BeckVerw 447487** — Einsprueche Mindestbesteuerung ruhend.
+- **OFD Frankfurt v. 27.12.2018, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** — Einsprueche Mindestbesteuerung ruhend.
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
 
 ### Querverweis Liquidations-Pfad

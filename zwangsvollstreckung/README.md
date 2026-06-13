@@ -1,7 +1,6 @@
 # Zwangsvollstreckung
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -90,7 +89,7 @@ Das Plugin trifft keine unüberprüfte Vollstreckungsentscheidung und ersetzt ke
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -104,7 +103,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `bank-haertefall-inso` | Bank: Behörden-, Gerichts- oder Registerweg im Zwangsvollstreckung. |
 | `dokumente-intake` | Dokumentenintake für Zwangsvollstreckung: sortiert Vollstreckungstitel, Pfändungs- und Überweisungsbeschluss (PfÜB), Gerichtsvollzieher-Protokoll, prüft Datum, Absender, Frist und Beweiswert (Titel mit Klausel, Zustellungsnachweis); mark... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Zwangsvollstreckung: ordnet Rolle (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, Bank)), markiert Frist (Erinnerung § 766 ZPO 2 Wochen), wählt Norm (ZPO §§ 704-945 (Vollstreckung), GVGA, InsO) und Zu... |
-| `elektronische-zustellung-eu` | Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlung... |
+| `elektronische-zustellung-eu` | Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlungs... |
 | `eu-kontenpfaendung-655-2014` | Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsl... |
 | `haertefall-mandantenkommunikation-entscheidungsvorlage` | Haertefall: Mandantenkommunikation und Entscheidungsvorlage im Zwangsvollstreckung. |
 | `inso-internationaler-bezug-und-schnittstellen` | InsO: Internationaler Bezug und Schnittstellen im Zwangsvollstreckung. |

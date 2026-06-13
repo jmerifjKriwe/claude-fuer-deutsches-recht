@@ -30,9 +30,9 @@
 
 Die Löschung kann durch das Registergericht **versagt** werden, wenn:
 
-- **OLG Hamm, Beschluss vom 21.05.2021 — 27 W 25/21, FGPrax 2021 Seite 166** = BeckRS 2021, 14783, Rn. 13 ff.: Anmeldung zurückzuweisen, wenn die Gesellschaft noch nicht vermögenslos oder steuerrechtlich noch nicht abgewickelt ist. Mitteilung der Finanzverwaltung, dass eine Steuererklärung noch aussteht, begründet **berechtigte Zweifel**.
+- **OLG Hamm, Beschluss vom 21.05.2021 — 27 W 25/21, FGPrax 2021 Seite 166** = freie Quelle/dejure vor Ausgabe pruefen, Rn. 13 ff.: Anmeldung zurückzuweisen, wenn die Gesellschaft noch nicht vermögenslos oder steuerrechtlich noch nicht abgewickelt ist. Mitteilung der Finanzverwaltung, dass eine Steuererklärung noch aussteht, begründet **berechtigte Zweifel**.
 - **OLG Jena, Beschluss vom 20.05.2015 — 6 W 506/14, ZIP 2016 Seite 25**; **OLG Jena vom 15.05.2019 — 2 W 159/19, NotBZ 2019 Seite 391**; **OLG Celle vom 17.10.2018 — 9 W 80/18, ZIP 2018 Seite 2222**; **KG vom 22.07.2019 — 22 W 29/18, NZG 2019 Seite 1294**: Bei Aussicht auf **Steuerrückerstattung** Löschungsantrag nicht vollzugsreif.
-- **OLG Düsseldorf, Beschluss vom 25.08.2020 — 3 Wx 117/20, BeckRS 2020, 22839**: Andererseits Vollzugsreife trotz offener Steuerverfahren möglich, **wenn** Geschäftsbetrieb endgültig eingestellt, kein Vermögen mehr vorhanden, allenfalls **Steuernachforderungen** in Rede stehen.
+- **OLG Düsseldorf, Beschluss vom 25.08.2020 — 3 Wx 117/20, freie Quelle/dejure vor Ausgabe pruefen**: Andererseits Vollzugsreife trotz offener Steuerverfahren möglich, **wenn** Geschäftsbetrieb endgültig eingestellt, kein Vermögen mehr vorhanden, allenfalls **Steuernachforderungen** in Rede stehen.
 - **BGH, Beschluss vom 09.11.2021 — II ZB 1/21, DStR 2022 Seite 162** (Leitsatz): Die bloße Möglichkeit einer Änderung oder Aufhebung der Steuerfestsetzung bis zum Ablauf der Festsetzungsfrist begründet **für sich genommen** keine Zweifel an der Vermögenslosigkeit.
 
 ## 4. Konkrete Schritte Strassburger Handelshof GmbH

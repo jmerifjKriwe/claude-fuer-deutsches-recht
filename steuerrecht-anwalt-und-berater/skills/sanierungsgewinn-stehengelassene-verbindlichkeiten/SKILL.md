@@ -66,7 +66,7 @@ Die Gestaltungsleitlinie der Beratungspraxis lautet daher: **„Tilgungsvorbehal
 
 #### 3.3 Liquidationsbeschluss allein kein Verzicht
 
-- **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** und Vorgaengerverfuegung **OFD Frankfurt a. M. vom 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**: Der blosse Liquidationsbeschluss ist **kein konkludenter Forderungsverzicht** der Gesellschafter-Gläubigerin.
+- **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** und Vorgaengerverfuegung **OFD Frankfurt a. M. vom 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**: Der blosse Liquidationsbeschluss ist **kein konkludenter Forderungsverzicht** der Gesellschafter-Gläubigerin.
 - Eine vorzeitige gewinnwirksame Ausbuchung der Verbindlichkeit allein aufgrund des Aufloesungsbeschlusses ist daher unzulaessig.
 
 #### 3.4 Zwischenergebnis Phase 1
@@ -102,7 +102,7 @@ Die zentrale Streitfrage in der Literatur und vor den Finanzgerichten lautet: **
 
 ##### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**, Tz. 1.2 bis 1.4: Verbindlichkeit grundsätzlich passiviert bis Erloeschen; Einzelfallpruefung, ob ausnahmsweise gewinnwirksame Ausbuchung vor Loeschung geboten ist. Vorgaengerverfuegung in **DStR 2019, 560**.
+- **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen**, Tz. 1.2 bis 1.4: Verbindlichkeit grundsätzlich passiviert bis Erloeschen; Einzelfallpruefung, ob ausnahmsweise gewinnwirksame Ausbuchung vor Loeschung geboten ist. Vorgaengerverfuegung in **DStR 2019, 560**.
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014 (aktualisiert 22.09.2017), DB 2017, 2580**: differenzierende Sichtweise insbesondere für Insolvenz.
 
 ##### Rechtsprechung
@@ -184,7 +184,7 @@ Falls die Verbindlichkeit doch vor Loeschung gewinnwirksam ausgebucht wird (etwa
 ### 5.2 Definitiveffekt im Liquidationsfall
 
 - **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019**: Mindestbesteuerung in der Liquidation kann zu **Definitiveffekt** fuehren, weil im Liquidationsfall keine kuenftigen Gewinne mehr zur Verrechnung anfallen. Revision anhaengig BFH I R 36/18 (ausgesetzt wegen BVerfG 2 BvL 19/14, Vorlage durch BFH I R 59/12).
-- **OFD Frankfurt, Verfuegung vom 27.12.2018, BeckVerw 447487**: Einsprueche zur Mindestbesteuerung sind ruhend zu stellen.
+- **OFD Frankfurt, Verfuegung vom 27.12.2018, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen**: Einsprueche zur Mindestbesteuerung sind ruhend zu stellen.
 
 ### 5.3 Verfassungsrechtliches Argument (Art. 3 Abs. 1 GG)
 
@@ -214,7 +214,7 @@ Falls die Verbindlichkeit doch vor Loeschung gewinnwirksam ausgebucht wird (etwa
 
 - **§ 272 Abs. 2 Nr. 4 HGB** Einlage in freie Kapitalruecklage durch Gesellschafterin, anschliessend Tilgung des Darlehens aus den Mitteln.
 - Hochrisiko: **§ 42 AO Gestaltungsmissbrauch**.
-- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F**: § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; Revision anhaengig **BFH I R 11/22.**
+- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 K,G,F**: § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; Revision anhaengig **BFH I R 11/22.**
 
 ## 7. Quellenpflicht
 
@@ -356,7 +356,7 @@ Andere Plugins:
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Liquidations-Kernentscheidung Os. 7.
 - **FG Muenster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264** — rechtskraeftig.
 - **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung und Definitiveffekt; Rev. anh. BFH I R 36/18.
-- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F** — § 42 AO bei Hin- und Herbuchen; Rev. anh. BFH I R 11/22.
+- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 K,G,F** — § 42 AO bei Hin- und Herbuchen; Rev. anh. BFH I R 11/22.
 - **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166**.
 - **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20**.
 - **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**.
@@ -367,10 +367,10 @@ Andere Plugins:
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** (Tz. 1.2-1.4).
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** (Tz. 1.2-1.4).
 - **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
 - **OFD Nordrhein-Westfalen, Kurzinformation Einkommensteuer Nr. 46/2014, aktualisiert 22.09.2017, DB 2017, 2580**.
-- **OFD Frankfurt v. 27.12.2018, BeckVerw 447487** — Mindestbesteuerung, Einsprueche ruhend stellen.
+- **OFD Frankfurt v. 27.12.2018, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** — Mindestbesteuerung, Einsprueche ruhend stellen.
 
 ### Literatur (gegen gewinnerhoehende Ausbuchung)
 

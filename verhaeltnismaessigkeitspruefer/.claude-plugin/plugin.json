@@ -1,7 +1,7 @@
 {
   "name": "verhaeltnismaessigkeitspruefer",
-  "version": "311.0.0",
-  "description": "75 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Rechtsvergleich Suedafrika/Kanada/EGMR/EuGH/USA und 12 europaeische Ordnungen, plus Theorie Alexy, Rechtsgeschichte-Linie, Schnellpruefung 5 Minuten, Klausurschema, Streitstellen-Katalog, Subsumtionshelfer mit 10 Pattern-Faellen.",
+  "version": "312.0.0",
+  "description": "85 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Drittwirkung, Gleichheitsdogmatik, PrOVG-Kreuzberg, Suedafrika/Kanada/EGMR/EuGH/USA und 12 europaeische Ordnungen; mit Alexy, Schnellpruefung, Klausurschema, Streitstellen, Subsumtionshelfer und Visualisierung.",
   "author": {
     "name": "Klotzkette",
     "email": "39582916+Klotzkette@users.noreply.github.com"

@@ -1,7 +1,6 @@
 # Didaktisches Gesellschaftsrecht — English Business Terms
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -118,7 +117,7 @@ Die Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` eignet sich f�
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -171,7 +170,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `transfer-restrictions-upstream-security` | Erklaert Transfer Restrictions, Vinkulierung, ROFR, ROFO, Lock-up, Permitted Transfers und Vollzug bei deutschen Anteilen im Gesellschaftsrecht Legal English. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Gesellschaftsrecht in legal English: trennt fehlende Tatsachen von fehlenden Belegen (Articles of Association, Shareholders Agreement, Board Resolutions), nennt pro Lücke Beweisthema, Beschaffungsweg (UK... |
 | `upstream-security-financial-assistance` | Markiert Upstream Loan, Upstream Security, Upstream Guarantee, Financial Assistance, Kapitalerhaltung, Corporate Benefit und Organpflichten im Gesellschaftsrecht Legal English. |
-| `verdeckte-sacheinlage-vesting-leaver` | Erkennt und prüft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnung... |
+| `verdeckte-sacheinlage-vesting-leaver` | Erkennt und prüft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungs... |
 | `vesting-leaver-cliff` | Erklaert Vesting, Cliff, Good Leaver, Bad Leaver, Founder Lock-up, Call Options, Einziehung und Rückübertragung im deutschen Gesellschaftsrecht im Gesellschaftsrecht Legal English. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Gesellschaftsrecht Legal English. |
 

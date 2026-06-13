@@ -1,7 +1,6 @@
 # Fachanwalt It Recht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -45,7 +44,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -106,12 +105,12 @@ Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschre
 | `dsv-nachmeldung-aktualisierung-art-33-abs-4` | Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art: 33 Abs. 4 DSGVO. Behandelt: 14-Tage-Frist der Berliner Praxis; Ergänzung der Datenarten; Korrektur der Anzahl Betroffener |
 | `dsv-paragraf-203-stgb-berufsgeheimnis` | Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB: Behandelt: Ärzte; Rechtsanwälte; Steuerberater; Wirtschaftsprüfer; Psychotherapeuten; Sozialarbeiter; |
 | `dsv-pressemitteilung-krisenkommunikation` | Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung: Behan |
-| `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` | Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art: 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG- |
+| `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` | Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG- |
 | `dsv-risikobewertung-edsa-leitlinie` | Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die Meldung von Datenschutzverletzungen durch: Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu... |
 | `dsv-risikobewertung-enisa-schweregrad` | Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an: Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity... |
 | `dsv-risikobewertung-schwellen-art-33-34` | Strukturiert die Schwellenwertentscheidung nach Art: 33 und Art. 34 DSGVO als anwaltlichen Entscheidungsbaum. Behandelt: voraussichtlich-kein-Risiko-Schwelle Art. 33 Abs. 1; Meldeschwelle; voraussichtlich |
 | `dsv-sammelklagen-praevention` | Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne: Behandelt: Verb |
-| `dsv-schadensersatz-art-82` | Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art: 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterielle |
+| `dsv-schadensersatz-art-82` | Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterielle |
 | `dsv-schnelltriage-risiko` | Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfalls als Entscheidungsgrundlage für die 72-Stunden-Meldung: Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfall... |
 | `dsv-sofortmassnahmen-checkliste` | Generiert eine priorisierte Sofortmaßnahmen-Checkliste innerhalb der ersten Stunden nach Bekanntwerden eines Datenschutzvorfalls: Generiert eine priorisierte Sofortmaßnahmen-Checkliste innerhalb der ersten Stunden nach Bekanntwerden eine... |
 | `dsv-sozialdaten-sgb` | Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Diensten nach den Sondervorschriften der Sozialgesetzbücher: Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherung... |
@@ -128,7 +127,7 @@ Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschre
 | `governance-mandantenkommunikation-entscheidungsvorlage` | Governance: Mandantenkommunikation und Entscheidungsvorlage: Governance: Mandantenkommunikation und Entscheidungsvorlage. |
 | `hacking-haftung-paragraf-823-bgb-it-sicherheit` | Hacking Haftung § 823 BGB it Sicherheit: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `informationstechnologierecht-tatbestand-beweis` | Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `it-recht-cloud-vertrag-datenschutz-due-diligence` | Datenschutz-Due-Diligence für Cloud-Verträge: Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Prüfraster für Art... |
+| `it-recht-cloud-vertrag-datenschutz-due-diligence` | Datenschutz-Due-Diligence für Cloud-Vertraege: Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Prüfraster für Art... |
 | `it-recht-datenschutz-im-it-vertrag` | Datenschutzklauseln im IT-Vertrag prüfen und gestalten: Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten R... |
 | `it-recht-saas-avv-und-tia-bundle` | SaaS-Vertrag mit AVV nach Art: 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-für-... |
 | `it-vertrag-verhandlung-eu-odr` | IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen: Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muess... |
@@ -136,7 +135,7 @@ Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschre
 | `itr-einfuehrung-rechtsmaterien` | IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce: IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wart... |
 | `itr-incident-response-runbook-spezial` | Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und NIS2: Meldepflichten BSI, ENISA-Schwellen, Forensik, Kommunikation: Prüf... |
 | `itr-ki-systeme-vertragsklausel-leitfaden` | Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz: Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzinat... |
-| `itr-nis2-konkrete-pflichten-spezial` | Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschäftsführerhaftung: Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wes... |
+| `itr-nis2-konkrete-pflichten-spezial` | Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschäftsführerhaftung: Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesen... |
 | `itr-open-source-compliance-spezial` | Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM: Prüfraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice. |
 | `itr-saas-vertrag-bauleiter` | Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungspflichten, Verfuegbarkeit, Bonus-Malus: Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsv... |
 | `itr-saas-vertragstypen-praxis` | SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp: Auswirkungen auf Maengel, Kuendigung, Vergueng. BGH... |

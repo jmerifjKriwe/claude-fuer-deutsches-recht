@@ -1,7 +1,6 @@
 # aktenauszug-gerichtsverfahren
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -97,7 +96,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -107,7 +106,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `aktenauszug-erstellen` | Anwalt oder Paralegal erhaelt Gerichtsakte Schriftsaetze oder PDFs und will strukturierten Aktenauszug erstellen. Sechs Bausteine: Verfahrensidentifikation Einleitungssatz Absatz-Zusammenfassung Sachverhaltschronologie Verfahrenschronolo... |
 | `aktenauszug-strukturpruefung-akzg-bauleiter` | Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qual... |
 | `aktenauszug-tatbestand-beweis-und-belege` | Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `aktenauszug-verfahrensidentifikation-gericht` | Extrahiert strukturiert alle Verfahrensstammdaten: Gericht Kammer Aktenzeichen Streitwert Parteien (Kläger Beklagte Streithelfer mit Anschrift gesetzlicher Vertretung Prozessbevollmaechtigten) Instanz und Verfahrensart (Klage Eilverfahr... |
+| `aktenauszug-verfahrensidentifikation-gericht` | Extrahiert strukturiert alle Verfahrensstammdaten: Gericht Kammer Aktenzeichen Streitwert Parteien (Kläger Beklagte Streithelfer mit Anschrift gesetzlicher Vertretung Prozessbevollmaechtigten) Instanz und Verfahrensart (Klage Eilverfahre... |
 | `akzg-aktenauszug-bauleiter` | Bauleiter Aktenauszug für Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Prüfraster Vollstaendigkeit für Berufung und Revision im Aktenauszug Gerichtsverfahren. |
 | `akzg-multiparteienverfahren-konsolidierung-spezial` | Spezialfall Multiparteienverfahren Konsolidierung mehrerer Akten und Streithelfer: Reihenfolge, Querverweise, Streitverkuendung. Prüfraster für Hauptaktenfuehrer im Aktenauszug Gerichtsverfahren. |
 | `akzg-vertraulichkeit-redaction-spezial` | Spezialfall Vertraulichkeit und Redaction in Aktenauszuegen: Berufsgeheimnis, personenbezogene Daten, Konzerninterna. Prüfraster für Akteneinsicht durch Dritte im Aktenauszug Gerichtsverfahren. |
@@ -132,7 +131,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `neutralitaetspruefung` | Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markiert alle parteiischen Formulierungen Prognosen und Bewertungen und schlaegt neutrale Ersatzformulierungen vor. Sicherhe... |
 | `output-waehlen` | Output-Wahl für Aktenauszüge zivilgerichtlicher Verfahren: stimmt Adressat (Mandant, Gegenpartei, Gericht), Frist (Akteneinsicht im laufenden Verfahren jederzeit) und Form auf den Zweck ab — typische Outputs: Aktenauszug mit Inhaltsverze... |
 | `parteivortraege-compliance-dokumentation-und-akte` | Parteivortraege: Compliance-Dokumentation und Aktenvermerk. |
-| `parteivortrag-gegenueberstellung` | Erstellt eine Tabelle mit zwei Spalten (Klägerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen werden angegeben. Keine... |
+| `parteivortrag-gegenueberstellung` | Erstellt eine Tabelle mit zwei Spalten (Klägerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen werden angegeben. Keine W... |
 | `quellen-livecheck` | Quellen-Live-Check für Aktenauszüge zivilgerichtlicher Verfahren: prüft Normen (§ 299 ZPO Akteneinsicht, § 130a ZPO eA-Übermittlung, § 169 GVG Öffentlichkeit) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt AG/LG/... |
 | `rechtsargumente-gegenueberstellung` | Erstellt eine tabellarische Gegenüberstellung der Rechtsargumente beider Parteien: Anspruchsgrundlage Einwendungen Einreden Verjährungsthema und Pinpoint-Zitate aus Rechtsprechung (BGH OLG EuGH). Keine Wertung welches Argument ueberzeugt... |
 | `rechtsargumente-internationaler-bezug-und-schnittstellen` | Rechtsargumente: Internationaler Bezug und Schnittstellen. |

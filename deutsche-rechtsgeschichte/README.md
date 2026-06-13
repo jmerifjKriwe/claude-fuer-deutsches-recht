@@ -1,7 +1,6 @@
 # Deutsche Rechtsgeschichte
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -50,13 +49,13 @@ Ergänzt sind Spezialskills zu juristischer Erinnerungskultur, personellen Konti
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 132 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abschlussmemo-historische-tragfaehigkeit` | Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prüft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt im Deutsche Re... |
+| `abschlussmemo-historische-tragfaehigkeit` | Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prüft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt im Deutsche Rec... |
 | `aktenanalyse-historische-fallakte` | Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation im Deutsche Rechtsgeschichte. |
 | `arbeitsgerichtsbarkeit` | Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954 im Deutsche Rechtsgeschichte. |
 | `arbeitsrecht-von-gewerbeordnung-bis-betrvg` | Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 1869 bis zum BetrVG 1972. Koalitionsfreiheit, Arbeitsschutzgesetze, Tarifvertrag, Betriebsrat und die Entstehung des kollektiven Arbeitsrechts im Deutsche Rechtsgeschichte. |
@@ -91,7 +90,7 @@ Automatisch generierte Komplett-Liste aller 132 Skills in diesem Plugin. Beschre
 | `gute-rechtsgeschichte-fuer-laien` | Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht für Nicht-Juristen. Didaktische Aufbereitung von Sachsenspiegel, BGB-Entstehung, Weimarer Republik oder NS-Unrecht für Unterricht und Oeffentlichkeit im Deutsche Rech... |
 | `handelsrecht-und-hgb-geschichte` | Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HGB. ADHGB 1861, Einheitsrecht im Kaiserreich, HGB 1897, Handelsstand, Handelsregister und Reformgeschichte des 20. Jahrhunderts im Deutsche Rechtsgeschichte. |
 | `historische-synopse-rechtshistorische` | Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002) im Deutsche Rechtsgeschichte. |
-| `juristenausbildung-und-pruefungswesen` | Deutsche Rechtsgeschichte: Juristenausbildung und Prüfungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute im Deutsche Rechtsges... |
+| `juristenausbildung-und-pruefungswesen` | Deutsche Rechtsgeschichte: Juristenausbildung und Prüfungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute im Deutsche Rechtsgesc... |
 | `kaltstart-epochenkarte` | Deutsche Rechtsgeschichte: Epochenkarte als Orientierungsinstrument. Mittelalter, Rezeption, Kodifikationen, Kaiserreich, Weimar, NS, DDR, BRD und EU als aufeinander folgende Rechtsepochen mit je eigener Quellenbasis und Methodik. |
 | `kaltstart-triage` | Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
 | `kanonisches-recht-und-ehe` | Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874 im Deutsche Rechtsgeschichte. |
@@ -100,7 +99,7 @@ Automatisch generierte Komplett-Liste aller 132 Skills in diesem Plugin. Beschre
 | `kodifikationstechnik-historisch` | Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Vergleich. ALR 1794 als kasuistisches System, BGB-Abstraktion und Pandektistik, DDR-ZGB 1975 und moderne Schuldrechtsreform 2002 im Deutsche Rechtsgeschichte. |
 | `kolonialrecht-kritisch-einordnen` | Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deutsche Kolonialgesetzgebung 1885-1914, Herero-Nama-Voelkermord, Kolonialrechtliche Diskriminierung und Aufarbeitung nach 1919 und heute im Deutsche Rechtsgeschichte. |
 | `kommunalrecht-und-selbstverwaltung` | Deutsche Rechtsgeschichte: Kommunalrecht und Selbstverwaltung. Preussische Staedteordnung 1808, kommunale Selbstverwaltung, NS-Deutsche Gemeindeordnung 1935 und GG Art. 28 im Deutsche Rechtsgeschichte. |
-| `kontinuitaet-und-bruch-pruefen` | Deutsche Rechtsgeschichte: Kontinuitaet und Bruch prüfen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden im Deutsche Recht... |
+| `kontinuitaet-und-bruch-pruefen` | Deutsche Rechtsgeschichte: Kontinuitaet und Bruch prüfen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden im Deutsche Rechts... |
 | `laenderrecht-und-rechtszersplitterung` | Deutsche Rechtsgeschichte: Länderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute im Deutsche Rechtsgeschichte. |
 | `materialienarbeit-ohne-blindzitat` | Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mit den Mugdan-Materialien, Reichstagsdebattenprotokollen und parlamentarischen Entwurfsbegruendungen ohne Quellenfiktion im Deutsche Rechtsgeschichte. |
 | `mauergrundstuecke-und-restitution` | Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen für den Grenzstreifen, Vermögensgesetz, Rückübertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken im Deutsche Rechtsgeschichte. |
@@ -137,8 +136,8 @@ Automatisch generierte Komplett-Liste aller 132 Skills in diesem Plugin. Beschre
 | `nuernberger-prozesse-und-dokumentenbasis` | Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht im Deutsche Rechtsgeschichte. |
 | `personelle-kontinuitaeten-nach-1945` | Analysiert Rückkehr, Warteschleifen, Umdeutung und Verschweigen belasteter Juristen in Fakultäten, Justiz, Ministerien, Verbänden und Wirtschaft nach 1945 im Deutsche Rechtsgeschichte. |
 | `presserecht-und-meinungsfreiheit-historisch` | Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit historisch. Pressezensur im Deutschen Bund, Reichspressegesetz 1874, Weimarer Presserecht, NS-Schriftleitergesetz 1933 und GG Art. 5 im Deutsche Rechtsgeschichte. |
-| `preussisches-allgemeines-landrecht` | Deutsche Rechtsgeschichte: Preussisches Allgemeines Landrecht (ALR) von 1794. Entstehung unter Friedrich dem Großen und Svarez, kasuistische Kodifikationstechnik, Inhalt und Scheitern als gesamtdeutsches Zivilrecht im Deutsche Rechtsges... |
-| `prozessrechtliche-entwicklung` | Deutsche Rechtsgeschichte: Prozessrechtliche Entwicklung. Von der Reichskammergerichtsordnung 1495 über CPO 1877, ZPO 1877, VwGO 1960 bis zur elektronischen ZPO-Reform 2022 im Deutsche Rechtsgeschichte. |
+| `preussisches-allgemeines-landrecht` | Deutsche Rechtsgeschichte: Preussisches Allgemeines Landrecht (ALR) von 1794. Entstehung unter Friedrich dem Grossen und Svarez, kasuistische Kodifikationstechnik, Inhalt und Scheitern als gesamtdeutsches Zivilrecht im Deutsche Rechtsges... |
+| `prozessrechtliche-entwicklung` | Deutsche Rechtsgeschichte: Prozessrechtliche Entwicklung. Von der Reichskammergerichtsordnung 1495 ueber CPO 1877, ZPO 1877, VwGO 1960 bis zur elektronischen ZPO-Reform 2022 im Deutsche Rechtsgeschichte. |
 | `quellenkritik-archiv-und-edition` | Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben im Deutsche Rech... |
 | `rechtsgeschichte-anwaltschaft-berufsrecht-historisch-richterbild` | Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Berufsrechts. Reichsanwaltsordnung 1878, BRAO 1959, Anwaltszulassung und freier Beruf als verfassungsrechtlich geschuetztes Gut im Deutsche Rechtsgeschichte. |
 | `rechtsgeschichte-grundgesetz-entstehung-bverfg` | Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949 im Deutsche Rechtsgeschichte. |
@@ -154,7 +153,7 @@ Automatisch generierte Komplett-Liste aller 132 Skills in diesem Plugin. Beschre
 | `rechtshistorische-literatur-archivfund` | Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik für Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe im Deutsche Rechtsgeschichte. |
 | `rechtshistorische-timeline` | Deutsche Rechtsgeschichte: Rechtshistorische Timeline erstellen. Methodik zur Erstellung einer chronologischen Darstellung mit Quellenangaben für ein konkretes rechtshistorisches Problem im Deutsche Rechtsgeschichte. |
 | `rechtsperversion-ohne-gesetzesaenderung` | Zeigt, wie fortgeltende Gesetze durch Auslegung, neue Rechtsquellenlehren, Verwaltungspraxis und Richterrecht in autoritären Systemen inhaltlich umcodiert werden können im Deutsche Rechtsgeschichte. |
-| `rechtspolitische-narrative-enteignung` | Deutsche Rechtsgeschichte: Rechtspolitische Narrative prüfen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet im Deutsche Re... |
+| `rechtspolitische-narrative-enteignung` | Deutsche Rechtsgeschichte: Rechtspolitische Narrative prüfen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet im Deutsche Rec... |
 | `rechtsquellen-hierarchie-historisch` | Deutsche Rechtsgeschichte: Entwicklung der Rechtsquellenhierarchie. Ius commune und ius particulare, territoriale Souveraenitaet, Rangfolge in Kaiserreich und Weimarer Republik sowie das moderne GG-System. |
 | `rechtssprache-und-begriffsgeschichte` | Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. Deutsch als Rechtssprache im Mittelalter, Latinisierung, Pandektistik-Fachbegriffe, BGB-Sprache und heutige Verstaendlichkeits-Debatte im Deutsche Rechtsgeschichte. |
 | `rechtstatsachen-und-sozialgeschichte` | Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte des Rechts. Eugen Ehrlichs lebendes Recht, Rechtstatsachenforschung, soziologische Rechtswissenschaft und Recht in der Alltagspraxis im Deutsche Rechtsgeschichte. |

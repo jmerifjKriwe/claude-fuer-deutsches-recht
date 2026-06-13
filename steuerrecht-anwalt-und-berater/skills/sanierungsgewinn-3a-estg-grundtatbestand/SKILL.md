@@ -184,8 +184,8 @@ beachtet; parallel § 7b GewStG-Antrag.
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** und **v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
-- **OFD Frankfurt, Verfügung v. 27.12.2018, BeckVerw 447487** — Einsprüche zur Mindestbesteuerung ruhend zu stellen.
+- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** und **v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
+- **OFD Frankfurt, Verfügung v. 27.12.2018, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** — Einsprüche zur Mindestbesteuerung ruhend zu stellen.
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
 
 ### Querverweis Liquidations-Fachmodul

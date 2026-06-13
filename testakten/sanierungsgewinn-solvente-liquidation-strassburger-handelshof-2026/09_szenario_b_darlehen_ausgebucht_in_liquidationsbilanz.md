@@ -157,8 +157,8 @@ Hinzu kommen Nebenfolgen:
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
-- **OFD Frankfurt, Verfügung v. 27.12.2018, BeckVerw 447487** — Einsprüche Mindestbesteuerung ruhend stellen.
+- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen**.
+- **OFD Frankfurt, Verfügung v. 27.12.2018, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** — Einsprüche Mindestbesteuerung ruhend stellen.
 
 ### Literatur
 

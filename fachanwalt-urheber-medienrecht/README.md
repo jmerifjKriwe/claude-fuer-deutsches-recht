@@ -1,7 +1,6 @@
 # Fachanwalt Urheber Medienrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -44,7 +43,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -101,8 +100,8 @@ Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschrei
 | `urhmr-ki-generierter-content-spezial` | Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art: Spezialfall KI-generierter Content: keine Schoep... |
 | `urhmr-leistungsschutzrecht-presse-spezial` | Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff: UrhG nach DSM-Reform: Snippet-Lizenz, Aggregator-Plattformen, Vergaberecht. Prüfraster Verlag und Plattform. |
 | `urhmr-presserecht-gegendarstellung-spezial` | Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet: Spezialfall presserechtliche Gegendarst... |
-| `urhmr-presserechtsbrief-leitfaden` | Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schadensersatz, Prüfraster Tatsachenbehauptung Werturteil, Verdachtsberichterstattung: Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schad... |
-| `urhmr-urhebervertrag-bauleiter` | Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff: UrhG, Bestimmtheitsgrundsatz, angemessene Vergütung § 32 UrhG, Auskunftsrecht § 32d UrhG. Prüfraster für Urheber und Nu... |
+| `urhmr-presserechtsbrief-leitfaden` | Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schadensersatz, Prüfraster Tatsachenbehauptung Werturteil, Verdachtsberichterstattung: Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schade... |
+| `urhmr-urhebervertrag-bauleiter` | Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff: UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Prüfraster für Urheber und Nu... |
 | `urhmr-verwertungsgesellschaften-praxis` | Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertrag, Pauschalverguen, Tarife, Auskunftsansprueche, Reklamation: Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertr... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln: §§ 97 97a UrhG §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATN... |
 | `verlagsredaktion-international-schnittstellen` | Verlagsredaktion: Internationaler Bezug und Schnittstellen: Verlagsredaktion: Internationaler Bezug und Schnittstellen. |

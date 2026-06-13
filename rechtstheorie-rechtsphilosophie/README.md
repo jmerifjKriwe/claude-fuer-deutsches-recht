@@ -1,7 +1,6 @@
 # Rechtstheorie und Rechtsphilosophie
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -49,7 +48,7 @@ Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate. Rechtspr
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -59,11 +58,11 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `adressatenwuerde-und-rechtssteuerung` | Prüft Recht als Adressierung verantwortlicher Personen: Wissen, Planen, Befolgen, Bestreiten, Beweisen, Gehoer und begruendete Entscheidung statt blosses Regiertwerden. |
 | `besitz-law-and-economics-transaktionskosten` | Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch: Exklusivitaet, Investitionsanreize, Suchkosten, Beweisverfall, Transaktionskosten, bilaterales Monopol und effiziente Rechtsfolgen ohne Effizienzautomatismus. |
 | `besitz-rechtsrealismus-praktische` | Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen. |
-| `besitz-rechtsrealismus-und-praktische-beduerfnisse` | Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen: Prüft Besitzschut... |
+| `besitz-rechtsrealismus-und-praktische-beduerfnisse` | Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen: Prüft Besitzschutz... |
 | `besitzdogmatik-historische-schule` | Prüft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung. |
-| `besitzdogmatik-historische-schule-und-systemdenken` | Prüft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung: Prüft Besitzdogmatik als Testfe... |
+| `besitzdogmatik-historische-schule-und-systemdenken` | Prüft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung: Prüft Besitzdogmatik als Testfeld... |
 | `daseinsvorsorge-verwaltungsrealismus` | Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz. |
-| `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck` | Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz: Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Lei... |
+| `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck` | Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz: Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leist... |
 | `demokratie-gesetzgeber-gericht` | Prüft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen. |
 | `dezisionismus-ausnahmezustand-red-team` | Red-Team gegen dezisionistische Ausnahmezustandsrhetorik: Krise, Notstand, Souveraenitaet, Exekutivmacht, gerichtliche Kontrolle, Grundrechte und die Gefahr, Recht durch politische Macht zu ersetzen. |
 | `dworkin-law-as-integrity-hard-cases` | Verarbeitet Ronald Dworkins Theorie praktisch: Regeln/Prinzipien, konstruktive Interpretation, Gleichheit der Bürgerinnen vor dem Recht und beste rechtliche Rechtfertigung ohne Richterwillkür. |
@@ -78,7 +77,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `kaltstart-triage` | Einstieg und Fallrouting für rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl. |
 | `kanzlei-briefing-rechtstheorie` | Übersetzt rechtstheoretische Probleme für Kanzlei, Mandanten, Vorstand, Gericht oder Ministerium in klare Sprache und Entscheidungsvorlagen. |
 | `kelsen-demokratie-verfahren` | Prüft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation. |
-| `kelsen-demokratie-verfahren-minderheitenschutz` | Prüft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation: Prüft Demokratie als Verfahren: Mehrheitse... |
+| `kelsen-demokratie-verfahren-minderheitenschutz` | Prüft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation: Prüft Demokratie als Verfahren: Mehrheitsent... |
 | `kelsen-normativismus-und-reine-rechtslehre` | Prüft Rechtsgeltung kelsenianisch: Norm, Rechtsquelle, Kompetenz, Stufenbau, Trennung von Geltung und politisch-moralischer Bewertung sowie Abwehr von Ausnahme- und Souveraenitaetsrhetorik. |
 | `kelsen-stufenbau-gueltigkeit` | Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz. |
 | `kelsen-stufenbau-gueltigkeit-und-methodendisziplin` | Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz: Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren... |
@@ -92,7 +91,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `menschenwuerde-grundrechte-theoriekern` | Prüft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch. |
 | `methodenkritik-larenz-canaris-ordnung-system` | Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein. |
 | `methodenkritik-larenz-canaris-ordnung-und-system` | Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein: Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, auto... |
-| `objektivitaet-methodenpluralismus` | Prüft, wie objektiv juristische Methoden sein können, wenn mehrere Methoden plausible Ergebnisse erzeugen. |
+| `objektivitaet-methodenpluralismus` | Prüft, wie objektiv juristische Methoden sein koennen, wenn mehrere Methoden plausible Ergebnisse erzeugen. |
 | `pluralismus-mehrebenenordnung` | Prüft rechtlichen Pluralismus in EU, Bund, Land, Satzung, Soft Law, Verbandsrecht, Plattformregeln und privaten Ordnungen. |
 | `positivismus-normgeltung-ohne-moralautomat` | Prüft positivistische Argumente, ohne moralische Fragen zu verdrängen: Gesetzesbindung, Rechtsquellenklarheit, Trennung von Geltung und Bewertung. |
 | `recht-und-moral-minimum` | Prüft, wann moralische Argumente rechtlich relevant werden: Verfassung, Generalklauseln, Auslegung, Härtefälle, Rechtsmissbrauch. |
@@ -103,7 +102,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `rechtssicherheit-vertrauen-rueckwirkung` | Prüft Rechtssicherheit, Vertrauensschutz, Rückwirkung und Vorhersehbarkeit bei neuer Rechtsprechung oder neuer Auslegung. |
 | `regeln-prinzipien-abwaegung` | Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist. |
 | `regeln-tacit-knowledge-kognitive-entlastung` | Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine. |
-| `regeln-tacit-knowledge-und-kognitive-entlastung` | Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine: Prüft Regeln als gespeichertes Erfahrungswissen: tacit know... |
+| `regeln-tacit-knowledge-und-kognitive-entlastung` | Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine: Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowle... |
 | `rule-by-law-vs-rechtsstaat` | Unterscheidet instrumentelle Herrschaft durch Rechtsformen von echtem Rechtsstaat: Normbindung, Verfahren, Rechtsschutz, Begruendung, Minderheitenschutz und Machtbegrenzung. |
 | `spontane-ordnung-gewohnheit-custom-red-team` | Red-Team für spontane Ordnung, Gewohnheit, Branchenuebung und Custom: erkennt Informationswert, Erwartungsschutz und Evolutionslogik, prüft aber Kartell-, Umwelt-, Drittwirkungs-, Traegheits- und Machtmissbrauchsrisiken. |
 | `sprache-begriffe-fiktionen` | Prüft juristische Sprache, Fiktionen, Metaphern und technische Begriffe als Werkzeuge und Gefahrenquellen der Rechtsanwendung. |
@@ -111,14 +110,14 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `staat-ordnungsmacht-anti-autoritaerer-check` | Prüft starke-Staat- und Ordnungsmacht-Argumente anti-autoritaer: Handlungsfaehigkeit ja, Selbstermächtigung nein; Gesetzesbindung, Grundrechte, Verhältnismäßigkeit und Rechtsschutz. |
 | `systemdenken-kohaerenz-widerspruch` | Prüft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen. |
 | `technokratie-industriegesellschaft` | Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung. |
-| `technokratie-industriegesellschaft-und-grundrechte` | Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung: Prüft Technik-, Industrie- und Infrastruktur... |
+| `technokratie-industriegesellschaft-und-grundrechte` | Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung: Prüft Technik-, Industrie- und Infrastrukturar... |
 | `theorie-memo-output` | Erstellt aus rechtstheoretischer Analyse ein nutzbares Memo mit These, Begriffsarbeit, Methodenpfad, Gegenargument und Praxisfolge. |
 | `unionsrecht-autonomie-nationales-recht` | Prüft die rechtstheoretische Spannung zwischen autonomem Unionsrecht, nationaler Demokratie, Effektivität und loyaler Zusammenarbeit. |
 | `unrecht-und-grenzen-des-gehorsams` | Prüft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren. |
 | `verwaltungsaufgaben-versus-rechtsformen` | Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz. |
 | `wirtschaftsprivatrecht-dogmatik` | Prüft, wie gesellschafts-, handels- und vertragsrechtliche Dogmatik Innovation, Verkehrsschutz, Privatautonomie und Rechtssicherheit austariert. |
 | `wissensproblem-dezentrale-information` | Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma. |
-| `wissensproblem-dezentrale-information-und-recht` | Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma: Prüft das Wissensproblem im Recht: dezen... |
+| `wissensproblem-dezentrale-information-und-recht` | Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma: Prüft das Wissensproblem im Recht: dezentr... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

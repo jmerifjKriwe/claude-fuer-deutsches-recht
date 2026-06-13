@@ -1,7 +1,6 @@
 # Plugin für die studentische Rechtsberatungsstelle
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -160,7 +159,7 @@ Alle juristischen Quellen folgen `../references/zitierweise.md`. Beispiele:
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -175,7 +174,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `briefe-erstberatung-rdg-konform` | Briefe: Zahlen, Schwellenwerte und Berechnung im Rechtsberatungsstelle. |
 | `dokumente-intake` | Dokumentenintake für Rechtsberatungsstelle (RDG): sortiert Beratungshilfeschein, Vermögenserklärung, Bescheide Sozialleistungen, prüft Datum, Absender, Frist und Beweiswert (Einkommensnachweise, Bescheide); markiert Lücken; berücksichtig... |
 | `einarbeitung` | Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittel... |
-| `einfache-sprache-briefe` | Anwalts- und Behördenbriefe in leichte oder einfache Sprache übersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite verstehen. BeratungsHiG ko... |
+| `einfache-sprache-briefe` | Anwalts- und Behördenbriefe in leichte oder einfache Sprache übersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite verstehen. BeratungsHiG kos... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Rechtsberatungsstelle (RDG): ordnet Rolle (Hilfesuchender, Berater, Amtsgericht), markiert Frist (Beratungshilfe-Antrag vor Tätigkeit), wählt Norm (RDG, BeratungshilfeG, Prozesskostenhilfe ZPO §§ 114 ff.)... |
 | `entwurf-einarbeitung-einfache-sprache` | Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme Formulieru... |
 | `erstberatung-rdg-grenzen-und-triage` | Erstberatung mit RDG-Grenzen und Triage: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Rechtsberatungsstelle. |
@@ -197,11 +196,11 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `pro-bono-mandatsuebergabe` | Pro-Bono-Mandatsübergabe mit Fristen und Zuständigkeiten: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Rechtsberatungsstelle. |
 | `pruefwarteschlange-red-rbst-recherche` | Prüfwarteschlange: Red-Team und Qualitätskontrolle im Rechtsberatungsstelle. |
 | `quellen-livecheck` | Quellen-Live-Check für Rechtsberatungsstelle (RDG): prüft Normen (RDG, BeratungshilfeG, Prozesskostenhilfe ZPO §§ 114 ff.) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Amtsgericht und Quellenhygiene nach refere... |
-| `rbs-beratungshilfe-und-pkh-praxis` | Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermögen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise im Rechtsberatungsstelle. |
+| `rbs-beratungshilfe-und-pkh-praxis` | Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermoegen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise im Rechtsberatungsstelle. |
 | `rbs-einfuehrung-rdg-rbst-anlaufstellen` | Rechtsberatungsstelle einfuehrend: typische Beratungsfelder Mietrecht, Sozialrecht, Familienrecht, Arbeitsrecht, Verbraucherrecht. Schutzfunktion für Beratungsberechtigte, Schnittstelle Beratungshilfe BerHG. Entscheidungstabelle im Recht... |
-| `rbs-rdg-grenzen-spezial` | Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Prüfraster und Mandanteninformation im Rechtsberatung... |
+| `rbs-rdg-grenzen-spezial` | Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Prüfraster und Mandanteninformation im Rechtsberatungs... |
 | `rbst-anlaufstellen-bauleiter` | Bauleiter Anlaufstellen Rechtsberatung: Beratungshilfe, Prozesskostenhilfe, Schuldnerberatung, Mietervereine, Verbraucherzentrale. Prüfraster für Mandant und Sozialberatung im Rechtsberatungsstelle. |
-| `rbst-beratungshilfe-prozesskostenhilfe` | Leitfaden Beratungshilfe und Prozesskostenhilfe: Antragsvoraussetzungen, Vermögen, Erfolgsaussicht, Eigenbeitrag. Prüfraster für Mandant und Rechtsanwalt im Rechtsberatungsstelle. |
+| `rbst-beratungshilfe-prozesskostenhilfe` | Leitfaden Beratungshilfe und Prozesskostenhilfe: Antragsvoraussetzungen, Vermoegen, Erfolgsaussicht, Eigenbeitrag. Prüfraster für Mandant und Rechtsanwalt im Rechtsberatungsstelle. |
 | `rbst-mandantenkommunikation-entscheidungsvorlage` | Rbst: Mandantenkommunikation und Entscheidungsvorlage im Rechtsberatungsstelle. |
 | `rbst-niedrigschwellige-onlineberatung-spezial` | Spezialfall niedrigschwellige Onlineberatung mit KI-Unterstuetzung: Hinweispflichten, Verbraucherschutz, Datenschutz, Haftung. Prüfraster für Anbieter im Rechtsberatungsstelle. |
 | `rbst-rdg-grenzen-spezial` | Spezialfall RDG-Grenzen für Nichtanwaelte: Verbraucherzentrale, Mietervereine, Inkassodienstleister, Legal-Tech. Prüfraster für Erlaubnispflicht im Rechtsberatungsstelle. |

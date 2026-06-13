@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v300.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v312.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -50,7 +50,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [dsa-dma-digitalregulierung](./dsa-dma-digitalregulierung.md) (53 Skills)
 - [ecommerce-recht](./ecommerce-recht.md) (72 Skills)
 - [einfache-leichte-sprache-jura](./einfache-leichte-sprache-jura.md) (83 Skills)
-- [einigungsvertrag-vermögensrecht](./einigungsvertrag-vermoegensrecht.md) (100 Skills)
+- [einigungsvertrag-vermoegensrecht](./einigungsvertrag-vermoegensrecht.md) (100 Skills)
 - [email-umformulierer-berufsrecht](./email-umformulierer-berufsrecht.md) (82 Skills)
 - [energierecht](./energierecht.md) (92 Skills)
 - [erbbaurecht-praxis](./erbbaurecht-praxis.md) (50 Skills)
@@ -144,7 +144,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht.md) (136 Skills)
 - [mietrecht](./mietrecht.md) (56 Skills)
 - [mittelstand-corporate-ma](./mittelstand-corporate-ma.md) (100 Skills)
-- [nachbarschaftsstreit-prüfer](./nachbarschaftsstreit-pruefer.md) (54 Skills)
+- [nachbarschaftsstreit-pruefer](./nachbarschaftsstreit-pruefer.md) (54 Skills)
 - [nda-abgleich](./nda-abgleich.md) (85 Skills)
 - [nda-verschwiegenheit-generator-checker](./nda-verschwiegenheit-generator-checker.md) (100 Skills)
 - [nis2-cybersecurity-compliance](./nis2-cybersecurity-compliance.md) (101 Skills)
@@ -161,7 +161,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [private-equity-praxis](./private-equity-praxis.md) (108 Skills)
 - [produktrecht](./produktrecht.md) (65 Skills)
 - [prozessrecht](./prozessrecht.md) (56 Skills)
-- [prüfungsrecht-hochschule](./pruefungsrecht-hochschule.md) (100 Skills)
+- [pruefungsrecht-hochschule](./pruefungsrecht-hochschule.md) (100 Skills)
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (54 Skills)
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (64 Skills)
 - [regulatorisches-recht](./regulatorisches-recht.md) (54 Skills)
@@ -177,7 +177,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [selbstvertreter-sozialgericht](./selbstvertreter-sozialgericht.md) (138 Skills)
 - [softwarerecht-de-eu-us](./softwarerecht-de-eu-us.md) (105 Skills)
 - [solo-selbststaendige-praxis](./solo-selbststaendige-praxis.md) (200 Skills)
-- [sozialversicherungsstatus-prüfer](./sozialversicherungsstatus-pruefer.md) (101 Skills)
+- [sozialversicherungsstatus-pruefer](./sozialversicherungsstatus-pruefer.md) (101 Skills)
 - [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (142 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (110 Skills)
 - [status-navigator-step-plan](./status-navigator-step-plan.md) (35 Skills)
@@ -187,7 +187,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [strafzumessung](./strafzumessung.md) (54 Skills)
 - [strassenrecht-infrastruktur](./strassenrecht-infrastruktur.md) (100 Skills)
 - [strassenverkehrsrecht-stvo](./strassenverkehrsrecht-stvo.md) (100 Skills)
-- [subsumtions-prüfer](./subsumtions-pruefer.md) (53 Skills)
+- [subsumtions-pruefer](./subsumtions-pruefer.md) (53 Skills)
 - [tabellenreview-3d](./tabellenreview-3d.md) (84 Skills)
 - [telekommunikationsrecht](./telekommunikationsrecht.md) (57 Skills)
 - [tierschutzrecht](./tierschutzrecht.md) (100 Skills)
@@ -200,7 +200,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [venture-capital-geber](./venture-capital-geber.md) (105 Skills)
 - [verbraucher-rechtsstaat-alltag](./verbraucher-rechtsstaat-alltag.md) (66 Skills)
 - [verbraucherinsolvenz-schuldenbereinigung](./verbraucherinsolvenz-schuldenbereinigung.md) (68 Skills)
-- [verbraucherschutzrecht-prüfer](./verbraucherschutzrecht-pruefer.md) (112 Skills)
+- [verbraucherschutzrecht-pruefer](./verbraucherschutzrecht-pruefer.md) (112 Skills)
 - [verbraucherschutzverband-durchsetzung](./verbraucherschutzverband-durchsetzung.md) (106 Skills)
 - [vereinsrecht-vereinsmanager](./vereinsrecht-vereinsmanager.md) (58 Skills)
 - [verfassungsrecht](./verfassungsrecht.md) (54 Skills)

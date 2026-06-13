@@ -1,7 +1,6 @@
 # Fachanwalt Sozialrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -83,7 +82,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 104 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -99,7 +98,7 @@ Automatisch generierte Komplett-Liste aller 104 Skills in diesem Plugin. Beschre
 | `buergergeld-sanktion-paragraf-31-sgb-ii-bverfg-1-bvl-7-16` | Buergergeld Sanktion Paragraf 31 SGB Ii BVerfG 1 Bvl 7 16: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `eilantrag-sozialrecht` | Mandant ist auf Sozialleistung angewiesen die sofort wegfaellt oder verweigert wird (Buergergeld Wohnungslosigkeit Krankenversicherung): Mandant ist auf Sozialleistung angewiesen die sofort wegfaellt oder verweigert wird (Buergergeld Woh... |
 | `eingliederungshilfe-paragraf-99-sgb-ix` | Eingliederungshilfe § 99 sgb ix: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
-| `eingliederungshilfe-schule` | Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt müssen Anspruch klären und durchsetzen: SGB IX Teil 2 §§ 90 ff. Eingliede... |
+| `eingliederungshilfe-schule` | Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klären und durchsetzen: SGB IX Teil 2 §§ 90 ff. Eingliede... |
 | `einstieg-in-den-skill-verbund-sozialrecht` | Einstieg in den Skill-Verbund Sozialrecht: Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Überblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB... |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Sozialrecht (SGB I-XIV): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter Erstgespraech... |
 | `erwerbsminderungsrente` | Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch: §§ 43 240 SGB VI. Prüfraster: volle... |
@@ -127,7 +126,7 @@ Automatisch generierte Komplett-Liste aller 104 Skills in diesem Plugin. Beschre
 | `laienhilfe-dolmetscher-sprache` | Laienverstaendlicher Sozialrechts-Skill zu Dolmetscher Sprache: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Kl... |
 | `laienhilfe-eilantrag-notfall` | Laienverstaendlicher Sozialrechts-Skill zu Eilantrag Notfall: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage... |
 | `laienhilfe-eingliederungshilfe-erwachsene` | Laienverstaendlicher Sozialrechts-Skill zu Eingliederungshilfe Erwachsene: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Be... |
-| `laienhilfe-einkommen-vermoegen-sgbii` | Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermögen Sgbii: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Wid... |
+| `laienhilfe-einkommen-vermoegen-sgbii` | Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgbii: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Wid... |
 | `laienhilfe-em-rente-gutachten` | Laienverstaendlicher Sozialrechts-Skill zu Em Rente Gutachten: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klag... |
 | `laienhilfe-erwerbsminderungsrente-antrag` | Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente Antrag: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behö... |
 | `laienhilfe-fehlervermeidung-sozialrecht` | Laienverstaendlicher Sozialrechts-Skill zu Fehlervermeidung Sozialrecht: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörd... |
@@ -179,7 +178,7 @@ Automatisch generierte Komplett-Liste aller 104 Skills in diesem Plugin. Beschre
 | `mandat-triage-sozialrecht` | Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klären und zum richtigen Skill weiterleiten: Eingangs-Triage Sozia... |
 | `pflegegrad-widerspruch` | Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad: Widerspruch gegen Pflegegrad-Bescheid nach SGB XI. Prüfraster: sechs Module § 15 SGB XI Mobilitae... |
 | `pflegeversicherung-pflegegrad` | Pflegeversicherung Pflegegrad: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
-| `pkh-erfolgsaussicht-pruefen` | Pkh Erfolgsaussicht Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Pkh Erfolgsaussicht Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtspr... |
+| `pkh-erfolgsaussicht-pruefen` | Pkh Erfolgsaussicht Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Pkh Erfolgsaussicht Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprec... |
 | `prozesskostenhilfe-antrag` | Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen: § 73a SGG iVm §§ 114 ff. ZPO. Prüfraster: Erklärung per... |
 | `rentenanpassung-paragraf-65-sgb-vi` | Rentenanpassung § 65 sgb vi: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Widerspruch + SG-Klage, Eilantrag § 86b SGG, Überprüfungsantrag § 44 SGB X: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau: Substantiierte... |
@@ -191,7 +190,7 @@ Automatisch generierte Komplett-Liste aller 104 Skills in diesem Plugin. Beschre
 | `vergleich-sg-widerspruchsverhandlung` | Vergleich vor Sozialgericht § 101 SGG: Widerspruchsverhandlung Behörde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhörung GdB-Verfahren Vergleich Schwerbehinderung. Korrespondenz Behörde Klagebegründung... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Sozialrecht (SGB I-XIV): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverhandlungs-Strategie... |
 | `widerspruch-sozialleistung` | Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch: § 84 SGG Widerspruchsfrist ein Monat. Prüfraster: Frist (Bekanntgabe Vier-Tage-Fiktion § 37 Abs.... |
-| `widerspruchsfrist-und-zustellung-sgb` | Anwalt muss bei eingehendem oder ausgehendem Bescheid klären ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen: Anwalt muss bei eingehendem oder ausgehendem Bescheid klären ob und wann die Widers... |
+| `widerspruchsfrist-und-zustellung-sgb` | Anwalt muss bei eingehendem oder ausgehendem Bescheid klären ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen: Anwalt muss bei eingehendem oder ausgehendem Bescheid klären ob und wann die Widerspr... |
 | `wohngeld-paragraf-7-wogg` | Wohngeld § 7 WoGG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -1,7 +1,6 @@
 # Betreuungsrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -89,7 +88,7 @@ Beim Einsatz von KI-Tools sind insbesondere zu beachten:
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -110,8 +109,8 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `betreuerpflichten-genehmigung-bericht` | Betreuerpflichten, Genehmigung und Berichtswesen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `betreuerpflichten-genehmigung-betreuung` | Betreuerpflichten, Genehmigung und Berichtswesen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Betreuungsrecht. |
 | `betreuung-anwaltskosten-rvg` | Anwaltskosten im Betreuungsverfahren: RVG, Verfahrenspflegerbestellung, Verfahrenskostenhilfe nach § 76 FamFG. Empfehlung Mandantenkommunikation Kosten. |
-| `betreuung-bei-demenz` | Betreuung bei Demenz: Geschäftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Verträge. |
-| `betreuung-demenz-erbe-werden-erwachsene` | Betreuung bei Demenz: Geschäftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Verträge im Betreuungsrecht. |
+| `betreuung-bei-demenz` | Betreuung bei Demenz: Geschäftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Vertraege. |
+| `betreuung-demenz-erbe-werden-erwachsene` | Betreuung bei Demenz: Geschäftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Vertraege im Betreuungsrecht. |
 | `betreuung-erbe-werden` | Betreuer als Erbe oder Beschenkter: § 1825 BGB Verbot, Genehmigungspflicht, Anfechtbarkeit. Prüfraster für Notarpraxis und Konflikt-Anzeige beim Betreuungsgericht. |
 | `betreuung-fuer-erwachsene-kinder` | Betreuung für erwachsene Kinder mit Behinderung: Uebergang Vormundschaft zu Betreuung mit 18. Geburtstag, Erfordernis fruehzeitiger Antrag. Vorlage Mandantenkommunikation Eltern. |
 | `betreuung-grenzueberschreitend` | Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Prüfraster für im Ausland lebende Betroffene. |
@@ -200,9 +199,9 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `verdachtsvertraege-pruefung` | Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sank... |
 | `vermoegensverzeichnis-kontodaten` | Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Betreuungsrecht. |
 | `vermoegensverzeichnis-pruefung` | Vermögensverzeichnis für Betreuung prüfen und erstellen: Betreuer muss bei Aufgabenkreis Vermögenssorge nach § 1835 BGB ein Vermögensverzeichnis aufnehmen oder ein bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. Berüc... |
-| `vermoegensverzeichnis-start` | Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlu... |
+| `vermoegensverzeichnis-start` | Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlun... |
 | `vorsorgevollmacht-pruefen` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Prüfraster für den Vergleich Vollmacht/Betreuungsbedarf. |
-| `vorsorgevollmacht-wunschermittlung` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Prüfraster für den Vergleich Vollmacht/Betreuungsbedarf im Be... |
+| `vorsorgevollmacht-wunschermittlung` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Prüfraster für den Vergleich Vollmacht/Betreuungsbedarf im Betr... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Betreuungsrecht. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Betreuungsrecht. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Betreuungsrecht. |

@@ -1,7 +1,6 @@
 # Fachanwalt Bau Architektenrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -44,7 +43,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 103 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -73,7 +72,7 @@ Automatisch generierte Komplett-Liste aller 103 Skills in diesem Plugin. Beschre
 | `bautraeger-aufflassungsvormerkung-883-bgb` | Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag: Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolve... |
 | `bautraeger-belehrungspflicht-17-beurkg` | Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag: Skill klaert den Umfang die Pflicht zur Erläuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach §... |
 | `bautraeger-bonitaetspruefung-warnsignale` | Bautraeger-Bonitaetspruefung Warnsignale: Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit. |
-| `bautraeger-eigenkapital-ueberpruefung-vor-vertrag` | Bautraeger-Eigenkapital-Überprüfung vor Vertragsabschluss: Skill klaert was Erwerber selbst prüfen können Handelsregister Bonitaetsauskuenfte Referenzen aktuelle Schlagzeilen sowie Warnsignale... |
+| `bautraeger-eigenkapital-ueberpruefung-vor-vertrag` | Bautraeger-Eigenkapital-Überprüfung vor Vertragsabschluss: Skill klaert was Erwerber selbst prüfen koennen Handelsregister Bonitaetsauskuenfte Referenzen aktuelle Schlagzeilen sowie Warnsignale... |
 | `bautraeger-elektronische-notarverkuendung-2023` | Elektronische notarielle Verkuendung beim Bautraegervertrag: Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. St... |
 | `bautraeger-fertigstellungsfrist-und-verzug` | Bautraeger Fertigstellungsfrist und Verzug: Skill klaert die Vereinbarung der Bauzeit Verzugsfolgen Vertragsstrafe und das Verhältnis zur MaBV. BGH-Linie zu zu weiten Verzugsfristen. Liefert Prüfraster. |
 | `bautraeger-finanzierungsgrundschuld-belastungsfolge` | Bautraeger-Finanzierungsgrundschuld und Belastungsfolge: Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Prüfra... |
@@ -84,19 +83,19 @@ Automatisch generierte Komplett-Liste aller 103 Skills in diesem Plugin. Beschre
 | `bautraeger-insolvenz` | Insolvenz des Bautraegers: Ansprüche des Erwerbers, Schutzrechte, Sicherheitsleistungen: Normen: §§ 648 650u BGB, MaBV, InsO. Prüfraster: Buergschaft oder Grundschuld,... |
 | `bautraeger-insolvenz-konsequenzen-erwerber` | Bautraeger-Insolvenz Konsequenzen für den Erwerber: Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermögenstrennung Forderungsanmeldung. Liefert... |
 | `bautraeger-leistungsbeschreibung-baubeschreibung` | Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag: Skill klaert was zwingend in der Baubeschreibung stehen muss (Standards Ausstattung Materialien) Inhaltsfeinheit und Folgen m... |
-| `bautraeger-mabv-buchfuehrungspflicht-10` | MaBV § 10 Buchfuehrungspflicht: Skill klaert die Aufzeichnungspflichten des Bautraegers über alle Vorgaenge im Bauvorhaben Trennung der Konten Bilanz und Prüfberichte. Folgen bei Versaeumnis. Liefert Prüfraster. |
+| `bautraeger-mabv-buchfuehrungspflicht-10` | MaBV § 10 Buchfuehrungspflicht: Skill klaert die Aufzeichnungspflichten des Bautraegers ueber alle Vorgaenge im Bauvorhaben Trennung der Konten Bilanz und Prüfberichte. Folgen bei Versaeumnis. Liefert Prüfraster. |
 | `bautraeger-mabv-erweiterte-sicherheit-7` | MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell: Skill klaert die Voraussetzungen Praxisfragen und das Risiko-Profil aus Erwerberperspektive. Liefert Prüfraster. |
 | `bautraeger-mabv-gewerberechtliche-folgen` | MaBV-Verstoss gewerberechtliche Folgen: Skill behandelt die gewerberechtlichen Sanktionen bei Verstoessen Bussgeld Erlaubnisentzug und das Verhältnis zum zivilrechtlichen Schutz. Liefert Prüfraster. |
 | `bautraeger-mabv-grundlagen-1-2` | Makler- und Bautraegerverordnung (MaBV) Grundlagen: Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhältnis zur Gewerbeordnung § 34c GewO. Liefert Prüfraster für E... |
 | `bautraeger-mabv-ratenplan-3-mabv` | MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt: Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Prüfung. Liefert exakten P... |
 | `bautraeger-mabv-sicherheit-2-buergschaft` | MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft: Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstsch... |
-| `bautraeger-mabv-vermoegenstrennung` | MaBV Vermögenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermögen behandeln: Skill klaert die Trennungspflicht das S... |
+| `bautraeger-mabv-vermoegenstrennung` | MaBV Vermögenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln: Skill klaert die Trennungspflicht das S... |
 | `bautraeger-mabv-vollstaendigkeitserklaerung-7` | MaBV § 7 Vollstaendigkeitserklaerung als Alternative: Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Prüfra... |
 | `bautraeger-maengelhaftung-fuenf-jahre-634a` | Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB: Skill klaert die Verjährungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Lie... |
 | `bautraeger-maengelruegen-und-formerfordernis` | Bautraeger-Maengelruegen und Formerfordernis: Skill klaert wie ein Erwerber Maengel ruegen muss Schriftform-Empfehlung Frist zur Nachbesserung und die Folgen einer unwirksamen Ruege. Liefert Vorlage. |
-| `bautraeger-notarvertrag-grundlagen-pruefraster` | Bautraegervertrag notarieller Prüfraster Grundlagen: Skill bietet das systematische Prüfraster für den notariellen Bautraegervertrag von Praeambel über Leistungsbeschreibung Zahlungsregelung Sicherhei... |
+| `bautraeger-notarvertrag-grundlagen-pruefraster` | Bautraegervertrag notarieller Prüfraster Grundlagen: Skill bietet das systematische Prüfraster für den notariellen Bautraegervertrag von Praeambel ueber Leistungsbeschreibung Zahlungsregelung Sicherhei... |
 | `bautraeger-pfandfreigabe-und-loeschung` | Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung: Skill klaert das Verfahren wie nach Bezahlung die Pfandentnahme erfolgt und die Wohnung lastenfrei wird. Folgen bei Verweigerung. Liefert P... |
-| `bautraeger-rangruecktritt-grundpfandrechte` | Rangrücktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung: Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie... |
+| `bautraeger-rangruecktritt-grundpfandrechte` | Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung: Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie... |
 | `bautraeger-rechtswidrige-anpassungsklauseln` | Rechtswidrige Anpassungsklauseln im Bautraegervertrag: Skill listet typische unwirksame Klauseln zur einseitigen Preisanpassung Bauzeitveraenderung Standardaenderung sowie BGH-Rechtsprechung dazu. Liefe... |
 | `bautraeger-rueckabwicklung-bei-insolvenz` | Bautraeger-Rueckabwicklung bei Insolvenz: Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Woh... |
 | `bautraeger-selbstvornahme-und-vorschussklage` | Selbstvornahme und Vorschussklage gegen den Bautraeger: Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerb... |

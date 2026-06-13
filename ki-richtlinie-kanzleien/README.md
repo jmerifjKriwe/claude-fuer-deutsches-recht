@@ -1,7 +1,6 @@
 # KI-Richtlinie für Kanzleien und Rechtsabteilungen
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -100,7 +99,7 @@ Transfer (USA) und der § 43e-BRAO-Vertragsdokumentation.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -134,13 +133,13 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `kanzleien-dokumentenmatrix-und-lueckenliste` | Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `kennzeichnungspflichten-veroeffentlichungen` | Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffentlicht KI-unterstuetzte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss Kennzeichnungspflichten ei... |
 | `ki-kompetenz-erwerb-plan` | KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompe... |
-| `ki-vo-betreiber-pflichten` | KI-VO Betreiber-Pflichten für Kanzleien erläutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO... |
+| `ki-vo-betreiber-pflichten` | KI-VO Betreiber-Pflichten für Kanzleien erläutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO K... |
 | `kirk-fortbildung-pflicht-spezial` | Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft: § 43a BRAO, Berufsfortbildung, EU AI Act Art. 4 KI-Kompetenz. Prüfraster für Kanzleimanagement im Ki Richtlinie Kanzleien. |
 | `kirk-ki-richtlinie-bauleiter` | Bauleiter KI-Richtlinie für Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Prüfraster für Geschäftsführung und IT im Ki Richtlinie Kanzleien. |
-| `kirk-leitfaden-prompts-kr-executive` | Leitfaden Mandantenkommunikation über KI-Einsatz: Hinweis, Einwilligung, Vergleichbarkeit mit Hilfspersonal. Prüfraster für Mandatsverhaeltnis im Ki Richtlinie Kanzleien. |
+| `kirk-leitfaden-prompts-kr-executive` | Leitfaden Mandantenkommunikation ueber KI-Einsatz: Hinweis, Einwilligung, Vergleichbarkeit mit Hilfspersonal. Prüfraster für Mandatsverhaeltnis im Ki Richtlinie Kanzleien. |
 | `kirk-prompts-templates-versionierung-spezial` | Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Prüfraster für Knowledge-Management im Ki Richtlinie Kanzleien. |
 | `literatur-quellen-prompting-leitfaden-rdg` | Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise, DAV-Stellungnahmen, EU-... |
-| `musterklauseln-it-vertrag` | Musterklauseln für IT-Verträge mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenhe... |
+| `musterklauseln-it-vertrag` | Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenhe... |
 | `nutzung-mandatsdaten` | Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `output-waehlen` | Output-Wahl für KI-Richtlinie für Kanzleien: stimmt Adressat (Kanzlei, Mandant, KI-Anbieter), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Interne KI-Richtlinie, Mandanten-Hinweisblatt, AVV-Checkliste. |
 | `pflegt-erstpruefung-und-mandatsziel` | Pflegt: Erstprüfung, Rollenklärung und Mandatsziel. |
@@ -156,7 +155,7 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `syndikus-schriftsatz-brief-und-memo-bausteine` | Syndikus: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `transparenz-mandanten-urheberrecht` | Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für KI-Richtlinie für Kanzleien: trennt fehlende Tatsachen von fehlenden Belegen (KI-Richtlinie intern, AVV-Mustertext, Mandantenhinweis), nennt pro Lücke Beweisthema, Beschaffungsweg (RAK), Frist und Ersatz... |
-| `urheberrecht-bausteine` | Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden dürfen. § 2 Abs. 2 UrhG geist... |
+| `urheberrecht-bausteine` | Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geist... |
 | `verordnung-mehrparteien-konflikt-und-interessen` | Verordnung: Mehrparteienkonflikt und Interessenmatrix. |
 | `vo-hochrisiko-kirk-fortbildung-bauleiter` | KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bew... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Ki Richtlinie Kanzleien. |

@@ -1,7 +1,6 @@
 # Franchiserecht Praxis
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -49,7 +48,7 @@ Der Arbeitsmodus ist jeweils gleich: erst Akte und Beweis sichern, dann Normen u
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -72,15 +71,15 @@ Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschrei
 | `eu-vertikal-gvo-und-franchise` | EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfreistellung, Marktanteilsschwellen, Kernbeschränkungen, Online-Vertriebsregeln und Übergangszeitraum. Compliance-Check für Bezugsbindungen, Gebietsschutz und Preisregeln im F... |
 | `exit-entbranding-und-social-media-accounts` | Fachmodul Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, R... |
 | `fitness-franchise-bildungsfranchise` | Fitness-Franchise und Verbraucherverträge rechtlich gestalten: Laufzeitklauseln in Mitgliedschaftsverträgen nach § 309 Nr. 9 BGB, Widerrufsrecht, Preisanpassungsklauseln, Schliessungspflichten bei Insolvenz und Haftung für Sportverletzun... |
-| `franchise-internationaler-kontext` | Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Prüfraster für Cross-Border-Franchise... |
+| `franchise-internationaler-kontext` | Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Prüfraster für Cross-Border-Franchise i... |
 | `franchise-kuendigung-und-nachvertragliche-wettbewerb` | Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Skill behandelt ordentliche und ausserordentliche Kuendigung Vertragsstrafe nachvertragliches Wettbewerbsverbot Karenzentschaedigung und Geheimhaltungspflicht. BGH-Linie zur... |
 | `franchise-m-a-due-diligence` | M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von System... |
 | `franchise-m-a-und-system-due-diligence` | Fachmodul Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtspre... |
-| `franchise-marken-ip-mindestumsatz` | Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Prüfraster im Franchi... |
+| `franchise-marken-ip-mindestumsatz` | Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Prüfraster im Franchis... |
 | `franchise-mindestumsatz-territorialschutz` | Franchise: Mindestumsatzklauseln und Territorialschutz. Skill behandelt die Vertragsbedingungen zur Mindestumsatzpflicht des Franchisenehmers Konsequenzen bei Nichterreichen Territorialschutz vs. Wettbewerbsverbot. Aktuelle Rechtsprechun... |
 | `franchise-verguetungsmodelle-initial-laufend` | Franchise: Verguetungsmodelle initial und laufend. Skill klaert die Struktur Initial Fee Royalties Marketing Fund Software Fee und ihre AGB-rechtliche Behandlung. Aktuelle Diskussion zur Pflicht zur Marketingfondbeitragsverwendung. Liefe... |
 | `franchise-vertragsstruktur-vorvertragliche` | Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannun... |
-| `franchise-vorvertragliche-aufklaerung-bgh` | Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig über Marktstellung Vergangenheitsdaten Investitionsr... |
+| `franchise-vorvertragliche-aufklaerung-bgh` | Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsr... |
 | `franchise-warenbezugsbindung-vbe` | Franchise: Warenbezugsbindung und VBE-Verordnung: Skill klaert die kartellrechtliche Prüfung von Warenbezugspflichten im Franchise Vertikal-Block-Exemption-VO (EU) 2022/720 Marktanteilsschwelle Quotenbindun... |
 | `franchisegeber-franchisenehmer` | Franchiserecht-Erstkontakt: Systemakte anlegen, Perspektive Franchisegeber oder Franchisenehmer klären, Unterlagen sichern und ersten Handlungsplan aufstellen. Normbasis BGB allgemeiner Teil sowie HGB; Kartell- und Markenrecht im Blick. |
 | `franchisegeber-handbuch-compliance-dashboard` | Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und... |

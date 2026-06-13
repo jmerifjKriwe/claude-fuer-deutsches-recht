@@ -117,7 +117,7 @@ Die Verbindlichkeit über 2,4 Mio. EUR ist in der Steuerbilanz der Strassburger 
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** — ertragsteuerliche Beurteilung der Darlehensverbindlichkeiten im Abwicklungsendvermögen; Tz. 1.2-1.4.
+- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** — ertragsteuerliche Beurteilung der Darlehensverbindlichkeiten im Abwicklungsendvermögen; Tz. 1.2-1.4.
 - **OFD Frankfurt a. M., Rundverfügung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** — Vorgängerverfügung.
 
 ### Literatur (gegen gewinnerhoehende Ausbuchung — herrschende Linie)

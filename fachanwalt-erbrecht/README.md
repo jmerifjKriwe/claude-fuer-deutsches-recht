@@ -1,7 +1,6 @@
 # Fachanwalt Erbrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -56,7 +55,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -77,7 +76,7 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `erb-erstgespraech-checkliste` | Erstgespraechs-Checkliste Erbrecht: Familienverhaeltnisse, vorhandene Testamente, Nachlassbestand, Schulden, internationaler Bezug, Pflichtteilsberechtigte, Streitlage: Erstgespraechs-Checkliste Erbrecht: Familienverhaeltnisse, vorhanden... |
 | `erb-internationales-erbrecht-spezial` | Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als Anknuepfungspunkt, Rechtswahl, Europaeisches Nachlasszeugnis ENZ: Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als A... |
 | `erb-nachlassinventar-erstellung` | Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Beteiligungen, Hausrat), Passiva (Schulden, Pflichtteile, Vermaechtnisse), Stichtagsbewertung, Sicherung des Nachlasses: Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Bete... |
-| `erb-pflichtteilsanspruch-berechnung-spezial` | Spezialfall Pflichtteilsberechnung detailliert: § 2303 BGB, Höhe Pflichtteil = halbe gesetzliche Erbquote, Pflichtteilsergaenzungsanspruch § 2325 BGB für Schenkungen 10-Jahres-Frist mit Abschmelzung: Spezialfall Pflichtteilsberechnung d... |
+| `erb-pflichtteilsanspruch-berechnung-spezial` | Spezialfall Pflichtteilsberechnung detailliert: § 2303 BGB, Hoehe Pflichtteil = halbe gesetzliche Erbquote, Pflichtteilsergaenzungsanspruch § 2325 BGB für Schenkungen 10-Jahres-Frist mit Abschmelzung: Spezialfall Pflichtteilsberechnung d... |
 | `erb-testamentsformen-grundzuege` | Testamentsformen Grundzuege: eigenhaendiges Testament § 2247 BGB, öffentliches Testament § 2232 BGB, Nottestament § 2249 BGB, Berliner Testament § 2269 BGB: Testamentsformen Grundzuege: eigenhaendiges Testament § 2247 BGB, öffentliches T... |
 | `erb-unternehmensnachfolge-spezial` | Spezialfall Unternehmensnachfolge: Vorab-Nachfolgeklauseln in Gesellschaftsvertrag, Pflichtteilsverzicht durch Erben, Stiftungsloesung, Verschonungsregelung §§ 13a / 13b / 19a ErbStG, Nachversteuerung Behaltensfrist: Spezialfall Unterneh... |
 | `erbauseinandersetzung-textbausteine` | Erbauseinandersetzung: Schriftsatz-, Brief- und Memo-Bausteine im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nu... |

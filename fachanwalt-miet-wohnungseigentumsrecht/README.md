@@ -1,7 +1,6 @@
 # Fachanwalt Miet- und Wohnungseigentumsrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -63,7 +62,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 236 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -134,8 +133,8 @@ Automatisch generierte Komplett-Liste aller 236 Skills in diesem Plugin. Beschre
 | `miet-modernisierungsmieterhoehung-leitfaden` | Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze: Prüfraster Vermieter und M... |
 | `miet-tatbestand-beweis-und-belege` | Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt... |
 | `miet-weg-mediation-mietverein-schlichtung` | Miet- und WEG-Streit Mediation: Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Mietminderung-Vergleich Räumun... |
-| `miet-weg-waermepumpe-geg` | Beschlussfassung WEG zur Waermepumpen-Aufstellung gem: § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschlüsse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. A... |
-| `miet-wem-bauliche-veraenderung-spezial` | Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Beschlussfassung, privilegierte Maßnahmen Barrierefreiheit / E-Ladestation / Glasfaser / Einbruchschutz: Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Besch... |
+| `miet-weg-waermepumpe-geg` | Beschlussfassung WEG zur Waermepumpen-Aufstellung gem: § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. A... |
+| `miet-wem-bauliche-veraenderung-spezial` | Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Beschlussfassung, privilegierte Maßnahmen Barrierefreiheit / E-Ladestation / Glasfaser / Einbruchschutz: Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Beschl... |
 | `mieterhoehung` | Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung: § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in a... |
 | `mieterhoehung-verhandlung-vergleich-und-eskalation` | Mieterhoehung: Verhandlung, Vergleich und Eskalation im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt... |
 | `mietminderung-bemessung` | Mietminderung Bemessung: Fachmodul im Miet- und Wohnungseigentumsrecht: warnt vor Tabellenblindflug und verlangt konkrete Gebrauchsbeeinträchtigung mit Belegen; mit Normprüfung, Beweise... |

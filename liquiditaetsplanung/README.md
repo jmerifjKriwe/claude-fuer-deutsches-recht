@@ -1,7 +1,6 @@
 # Liquiditätsplanung — Power-Plugin
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -93,7 +92,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -104,7 +103,7 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `ausgabengruppen-fristennotiz-naechster` | Ausgabengruppen: Fristennotiz und nächster Schritt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion od... |
 | `ausgabengruppen-systematik` | Ausgabengruppen systematisch erfassen: Personal (Lohn, SV, LSt), Material/Wareneinsatz, Miete, Energie, Versicherungen, Beratungs-/Anwaltskosten, Steuerzahlungen, Investitionen, Zinsen, Tilgung. Vorlage Tabelle. |
 | `bei-drohender-zahlungsunfaehigkeit` | Liquiditaetsplanung bei drohender Zahlungsunfaehigkeit § 18 InsO: 24-Monats-Planung, Zugang StaRUG-Restrukturierung, Geschäftsleiterpflichten. Prüfraster und Schnittstelle Insolvenzantrag. |
-| `bei-eingetretener-zahlungsunfaehigkeit` | Liquiditaetsplanung bei eingetretener Zahlungsunfaehigkeit § 17 InsO: 3-Wochen-Vorschau zur Prüfung Insolvenzantragspflicht, Liquiditaetsluecke kleiner 10 Prozent + Schliessung binnen 3 Wochen waere Liquiditaetsstockung. Prüfraster BGH... |
+| `bei-eingetretener-zahlungsunfaehigkeit` | Liquiditaetsplanung bei eingetretener Zahlungsunfaehigkeit § 17 InsO: 3-Wochen-Vorschau zur Prüfung Insolvenzantragspflicht, Liquiditaetsluecke kleiner 10 Prozent + Schliessung binnen 3 Wochen waere Liquiditaetsstockung. Prüfraster BGH I... |
 | `cash-pooling-konzern` | Cash-Pooling im Konzern: rechtliche Risiken Existenzvernichtung BGH II ZR 78/06, Sanierungstauglichkeit, Prüfung Avale gegen Konzerngesellschaften, Steuerrisiken § 8b KStG. Output: Cash-Pool-Risiko-Memo. |
 | `chronologie-und-belegmatrix` | Chronologie und Belegmatrix: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor? |
 | `deutschem-dokumentationspaket-excel` | Deutschem Dokumentationspaket Excel: prüft konkret Deutschem, Dokumentationspaket, Excel. |
@@ -152,7 +151,7 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `quellen-livecheck` | Quellen-Live-Check für Liquiditätsplanung: prüft Normen (IDW S 11 (Sanierung), § 18 InsO drohende ZU) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Bank und Quellenhygiene nach references/quellenhygiene.md. |
 | `quote-verhandlung-vergleich-eskalation` | Quote: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Ver... |
 | `rechtsprechung-fehlerkatalog` | Rechtsprechung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `redteam-qualitygate` | Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand |
+| `redteam-qualitygate` | Red-Team Qualitygate für Liquiditätsplanung: prüft Fristen, Zuständigkeit, Beweislast, Quellen, Planmechanik, Insolvenznähe, Haftungsrisiken und taktische Risiken vor Abgabe, Banktermin, Gesellschafterrunde oder Versand. |
 | `restrukturierungsplan-starug` | Liquiditaetsplanung im Restrukturierungsplan StaRUG: Plan-Liquiditaet, Sanierungsbeitraege Gläubiger, Working-Capital-Plan, Cash-Out-Termine. Output: integrierter Plan und Gläubigerverteilungsschema. |
 | `saisonalitaet-erkennen` | Saisonalitaet erkennen: Vorjahres-Kontodaten gegen Liquiditaetsplan abgleichen, Monats- und Wochenmuster, Sondereffekte (Inventur, Jahresabschluss, Ferien). Empfehlung: saisonale Korrekturfaktoren je Branche. |
 | `schnittstellen-mehrparteienkonflikt` | Schnittstellen: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sank... |
@@ -160,7 +159,7 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `sondereffekt-grossauftrag-stundungs` | Liqui Sondereffekt Grossauftrag Stundungs: prüft konkret Sondereffekt Grossauftrag in Liquiditaetsplanung, Stundungs-Strategie mit Finanzamt, Krankenkassen, Lieferanten. |
 | `sonderfall-edge-case` | Liqui: Sonderfall und Edge-Case-Prüfung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahre... |
 | `start-chronologie-fristen` | Start Chronologie Fristen: prüft konkret Einstieg, Schnelltriage und Fallrouting im Liquiditaetsplanung-Plugin, Chronologie und Belegmatrix. |
-| `stundungs-strategie` | Stundungs-Strategie mit Finanzamt, Krankenkassen, Lieferanten: § 222 AO Stundung, Ratenzahlungsvereinbarung Krankenkasse, Lieferantenstundung. Prüfraster: wann beantragen, Mindestanforderungen Antrag, Reichweite (keine Gläubigerbenacht... |
+| `stundungs-strategie` | Stundungs-Strategie mit Finanzamt, Krankenkassen, Lieferanten: § 222 AO Stundung, Ratenzahlungsvereinbarung Krankenkasse, Lieferantenstundung. Prüfraster: wann beantragen, Mindestanforderungen Antrag, Reichweite (keine Gläubigerbenachtei... |
 | `szenarien-aufbauen` | Szenarien aufbauen: Base Case, Best Case, Worst Case (mit Stresshebel: Umsatzeinbruch, Forderungsausfaelle, Lieferantenforderungen). Empfehlung: drei Szenarien mit dokumentierten Annahmen, Sensitivitaeten in Excel. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Liquiditätsplanung: trennt fehlende Tatsachen von fehlenden Belegen (Liquiditätsplan, Bankenstatus, Forderungs-/Verbindlichkeitenliste), nennt pro Lücke Beweisthema, Beschaffungsweg (Bank), Frist und Ers... |
 | `verifikation-beweislast-darlegungslast` | Verifikation: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, S... |

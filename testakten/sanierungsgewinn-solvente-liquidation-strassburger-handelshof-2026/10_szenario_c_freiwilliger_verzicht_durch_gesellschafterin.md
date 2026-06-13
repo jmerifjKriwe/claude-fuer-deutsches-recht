@@ -152,7 +152,7 @@ Steuerlich vergleichbar mit Szenario B. Unterschied: Der Ertrag entsteht **zeitl
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** — Verzicht muss ausdrücklich erklärt sein (anders als bei reiner Liquidation).
+- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** — Verzicht muss ausdrücklich erklärt sein (anders als bei reiner Liquidation).
 - **OFD Frankfurt a. M., Rundverfügung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
 
 ### Literatur

@@ -1,6 +1,6 @@
 # schulrecht-laender
 
-**100 Skills** · Stand `v300.0.0`
+**100 Skills** · Stand `v312.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schulrecht-laender/README.md)

@@ -1,7 +1,6 @@
 # Fachanwalt Insolvenz- und Sanierungsrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -80,7 +79,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 479 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -105,8 +104,8 @@ Automatisch generierte Komplett-Liste aller 479 Skills in diesem Plugin. Beschre
 | `fa-insolvenz-npl-und-distressed-debt` | Prüft NPL-Kauf, distressed debt, Kreditdienstleister, Gläubigerstellung, Planmehrheiten, Anfechtung und Loan-to-own: Prüft NPL-Kauf, distressed debt, Kreditdienstleister, Gläubigerstellung, Planmehrheiten, Anfechtung und Loan-to-own. |
 | `fa-insolvenz-schuldschein-und-lma` | Prüft Schuldschein- und LMA-Finanzierungen in Sanierung, Eigenverwaltung, StaRUG und Insolvenzplan: Prüft Schuldschein- und LMA-Finanzierungen in Sanierung, Eigenverwaltung, StaRUG und Insolvenzplan. |
 | `fao-dokumentenmatrix-und-lueckenliste` | FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse... |
-| `glaeubigerantrag` | Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: ordnet Normen, Nutz... |
-| `glaeubigerantrag-verhandlung-vergleich-und-eskalation` | Gläubigerantrag: Verhandlung, Vergleich und Eskalation im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbrem... |
+| `glaeubigerantrag` | Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: ordnet Normen, Nutzer... |
+| `glaeubigerantrag-verhandlung-vergleich-und-eskalation` | Gläubigerantrag: Verhandlung, Vergleich und Eskalation im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbrems... |
 | `insanw-anfechtungsmandat-leitfaden` | Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: §§ 129 ff: InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Prüfraster Indizien Kenntnis Gläubigerbenachteiligung. Mustertext A... |
 | `insanw-eigenverwaltung-schutzschirm-spezial` | Spezialfall Eigenverwaltung und Schutzschirmverfahren §§ 270 ff: InsO: Bescheinigung nach § 270d InsO, Sachwalter, Gläubigerausschuss, Drittsicherheiten. Prüfraster für Bescheinigungsersteller. |
 | `insanw-fortbestehensprognose-workflow` | Fortbestehensprognose IDW S 11 / S 6: Datenraum, Integrierte Planung, Stresstests, Risikoinventur: Prüfraster für Geschäftsleitung und Berater. Anschreiben... |
@@ -115,7 +114,7 @@ Automatisch generierte Komplett-Liste aller 479 Skills in diesem Plugin. Beschre
 | `inso-arbeitnehmer-und-betriebsuebergang` | Arbeitnehmer und Insolvenz: Insolvenzgeld bis 3 Monate, Sozialplan Hoechstgrenzen § 123 InsO, § 113 InsO Kuendigungsmaximum 3 Monate, Betriebsuebergang § 613a BGB im Insolvenz-Asset-Deal: Arbeitnehmer und Insolvenz: Insolvenzgeld bis 3 M... |
 | `inso-grenzueberschreitend-eu-eir` | Grenzueberschreitende Insolvenz nach EuInsVO 2015/848 und Abgrenzung zu Drittstaaten: Hauptverfahren, Sekundaerverfahren, COMI, automatische Anerkennung, Verwalterbefugnisse, Drittstaaten-Anerkennung nach §§ 335 ff., 343 InsO und Registe... |
 | `inso-grundzuege-verfahrenstypen` | Grundzuege Insolvenz- und Sanierungsverfahrenstypen: Regelinsolvenz, Eigenverwaltung mit oder ohne Schutzschirm, Insolvenzplan, StaRUG-Restrukturierungsplan, Verbraucherinsolvenz: Grundzuege Insolvenz- und Sanierungsverfahrenstypen: Rege... |
-| `inso-kommunikation-glaeubiger` | Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren: Information, Verhandlung, Vergleichsangebot, Gläubigerversammlung, Prüfungstermin: Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren: Information, Verhand... |
+| `inso-kommunikation-glaeubiger` | Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren: Information, Verhandlung, Vergleichsangebot, Gläubigerversammlung, Prüfungstermin: Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren: Information, Verhandlung... |
 | `inso-p001-ziele-des-insolvenzverfahrens` | § 1 InsO (Ziele des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 1 InsO (Ziele des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand,... |
 | `inso-p002-amtsgericht-als-insolvenzgericht` | § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen: Normzweck, Tatbes... |
 | `inso-p003-ortliche-zustandigkeit` | § 3 InsO (Örtliche Zuständigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 3 InsO (Örtliche Zuständigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechts... |

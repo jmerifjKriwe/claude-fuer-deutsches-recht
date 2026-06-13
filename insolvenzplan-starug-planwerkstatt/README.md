@@ -1,7 +1,6 @@
 # Insolvenzplan- und StaRUG-Planwerkstatt
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -78,7 +77,7 @@ Das Plugin ersetzt keine anwaltliche, steuerliche oder betriebswirtschaftliche E
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -93,8 +92,8 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `cram-formular-portal-und-einreichung` | Cram: Formular, Portal und Einreichungslogik im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt... |
 | `cramdown-obstruktion-datenraum-register` | Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen den Plan blockieren. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung absolute Priorita... |
 | `darstellender-quellenkarte` | Darstellender Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `darstellender-teil` | Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Maßnahmen Finanzplanung Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen O... |
-| `datenraum-register` | Planbegleitenden Datenraum aufbauen und Dokumentenregister führen damit alle Planbausteine belegbar sind. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Verträge Sicherheiten Lue... |
+| `darstellender-teil` | Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Maßnahmen Finanzplanung Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Of... |
+| `datenraum-register` | Planbegleitenden Datenraum aufbauen und Dokumentenregister führen damit alle Planbausteine belegbar sind. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Lue... |
 | `dokumente-intake` | Dokumentenintake für Insolvenzplan / StaRUG: sortiert Insolvenzplan, Restrukturierungsplan, Gruppenbildung, prüft Datum, Absender, Frist und Beweiswert (Liquiditätsplan, Sanierungskonzept); markiert Lücken; berücksichtigt Mandatsgeheimni... |
 | `down-red-gestaltender-gruppen` | Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbar... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Insolvenzplan / StaRUG: ordnet Rolle (Schuldnerunternehmen, Gläubiger, Sachwalter), markiert Frist (Erörterungstermin), wählt Norm (§§ 217-269 InsO Insolvenzplan, StaRUG §§ 4-71 Restrukturierungsplan) und... |

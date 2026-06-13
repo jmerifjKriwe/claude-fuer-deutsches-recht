@@ -1,7 +1,6 @@
 # Fachanwalt Agrarrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -43,7 +42,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -54,12 +53,12 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `agrar-foerderung-gap-strategieplan` | GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung: GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: D... |
 | `agrar-jagdpacht-streit-spezial` | Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kuendigungsgruende, Wildschaden, Ausfuehrungspflichten: ... |
 | `agrar-mandantenfragen-typisch` | Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss: Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmig... |
-| `agrar-paechterbetrieb-spezial` | Spezialfall Paechterbetrieb: Verhältnis Verpaechter-Paechter, Höhepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung: Spezialfall Paechterbetrieb: Verhältnis Verpaechter-Paechter,... |
+| `agrar-paechterbetrieb-spezial` | Spezialfall Paechterbetrieb: Verhältnis Verpaechter-Paechter, Höhepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung: Spezialfall Paechterbetrieb: Verhältnis Verpaechter-Paechter, Hö... |
 | `agrar-tierhaltung-spezial-tieg` | Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung: Bestandsobergrenzen, Stallneubau, Umnutzung: Klage gegen Bescheid des Ve... |
 | `agrar-wolfsschaden-spezial` | Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Antrag bei Bewilligungsstelle, Klage bei Versagung: Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtli... |
 | `agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung` | Pflichtteilsergaenzung bei landwirtschaftlichem Erbe und Bewertung Hof versus Pflichtteil mit Paragraf 2316 BGB Paragrafen 12 13 HoeO. Prüfraster gleichberechtigtes Geschwister Wertbemessung Wirtschaftsverhaeltnis. |
 | `agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle` | Genehmigungspflicht Agrarflaechenverkauf an Investor mit Paragraf 9 GrdstVG und BGH BLw 2/16 Vorkaufsrecht Siedlungsunternehmen. Prüfraster Versagungsgrund Vorkaufsrecht Aufstockungsbetrieb. |
-| `agrarfoerderung-fid-ablehnung-paragraf-9-invekos` | Ablehnung der Direktzahlung wegen fehlerhafter Feldstueckabgrenzung mit Paragraf 9 InVeKoSV und VG-Linie zur Bagatellgrenze. Prüfraster für den typischen Fall ueberhoehte Beanstandungsquote durch Kontrolle aus der Vogelperspektive. |
+| `agrarfoerderung-fid-ablehnung-paragraf-9-invekos` | Ablehnung der Direktzahlung wegen fehlerhafter Feldstueckabgrenzung mit Paragraf 9 InVeKoSV und VG-Linie zur Bagatellgrenze. Prüfraster fuer den typischen Fall ueberhoehte Beanstandungsquote durch Kontrolle aus der Vogelperspektive. |
 | `agrarinvest-bonusverwirkung-paragraf-49-vwvfg-grw` | Bonusverwirkung bei Agrarinvest-Foerderung durch verspaetete Verwendung mit Paragraf 49 VwVfG und VO 2021/1060 Art 64. Prüfraster Vertrauensschutz Bagatellgrenze Vorhabensteuerung. |
 | `agrarrecht-tatbestand-beweis-und-belege` | Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `anerbenrecht-risikoampel-und-gegenargumente` | Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien: Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien. |
@@ -90,7 +89,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `landpacht-und-hoferbfolge-pruefen` | Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO: Prüfraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige... |
 | `landpachtrecht-schriftsatz-brief-und-memo-bausteine` | Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine: Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `mandat-triage-agrarrecht` | Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Förderung Tierhaltungs-Genehmigung Duenge-Bußgeld oder Direktzahlungen-Kuerzung: Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach... |
-| `milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg` | Nachhaftung des Verpaechters für rueckwirkende Milchquote-Rueckforderungen mit Paragraf 14 MOG und EuGH C-275/05 Alvis und BVerwG 3 C 38.06 als Loesungsweg. Prüfraster für den typischen Fall verpachtete Milchquote vor 2015 mit nachtra... |
+| `milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg` | Nachhaftung des Verpaechters fuer rueckwirkende Milchquote-Rueckforderungen mit Paragraf 14 MOG und EuGH C-275/05 Alvis und BVerwG 3 C 38.06 als Loesungsweg. Prüfraster fuer den typischen Fall verpachtete Milchquote vor 2015 mit nachtrae... |
 | `orientierung-fachanwaltschaft-mandat` | Anwalt will überblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung HoefeO Anerbenrecht Landpa... |
 | `output-waehlen` | Output-Wahl für Fachanwalt Agrarrecht: stimmt Adressat (Landwirt, Verpächter/Pächter, Behörde), Frist (Pachtjahr Kündigungsfristen) und Form auf den Zweck ab — typische Outputs: Pachtvertrag, Hofübergabe-Beratung, GAP-Beschwerde. |
 | `pachtvertrag-abschlussprodukt-und-uebergabe` | Pachtvertrag: Abschlussprodukt und Übergabe: Pachtvertrag: Abschlussprodukt und Übergabe. |
@@ -103,11 +102,11 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `tierhaltung-genehmigung` | Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten: UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau St... |
 | `tierhaltung-immissionsabwehr-paragraf-906-bgb-ta-luft` | Nachbarstreit Schweinemast Geruchsemissionen mit Paragraf 906 BGB Wesentlichkeitsschwelle und TA Luft Punkt 4.4.7 nach VGH-Linie. Prüfraster ortsueblich nicht ortsueblich unwesentlich Ausgleichsanspruch. |
 | `tierschutz-formular-portal-und-einreichung` | Tierschutz: Formular, Portal und Einreichungslogik: Tierschutz: Formular, Portal und Einreichungslogik. |
-| `tierschutz-haltungsverbot-paragraf-16a-tierschg` | Behoerdliches Haltungsverbot nach Paragraf 16a TierSchG mit BVerwG 3 B 17/18 als Fundierungsraster für Tatsachenfundierung. Prüfraster Wiederholungsgefahr Verhältnismäßigkeit milderes Mittel. |
+| `tierschutz-haltungsverbot-paragraf-16a-tierschg` | Behoerdliches Haltungsverbot nach Paragraf 16a TierSchG mit BVerwG 3 B 17/18 als Fundierungsraster fuer Tatsachenfundierung. Prüfraster Wiederholungsgefahr Verhältnismäßigkeit milderes Mittel. |
 | `uebergabe-fristennotiz-und-naechster-schritt` | Übergabe: Fristennotiz und nächster Schritt: Übergabe: Fristennotiz und nächster Schritt. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Agrarrecht: trennt fehlende Tatsachen von fehlenden Belegen (Pachtvertrag, GAP-Antrag, Grundbuchauszug), nennt pro Lücke Beweisthema, Beschaffungsweg (Landwirtschaftsbehörden Länder), Frist un... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Agrar-, Forst- und Lebensmittelrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverhandlu... |
-| `verhandlung-landpacht-schlichtung` | Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und müssen Einigung außergerichtlich versuchen: Prüfraster Pachtvertrags-Vergleich LPacht... |
+| `verhandlung-landpacht-schlichtung` | Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und muessen Einigung außergerichtlich versuchen: Prüfraster Pachtvertrags-Vergleich LPacht... |
 | `wolfsentnahme-genehmigung-bnatschg` | Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg: ordnet Normen... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |

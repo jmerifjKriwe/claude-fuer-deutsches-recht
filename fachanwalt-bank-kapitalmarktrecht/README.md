@@ -1,7 +1,6 @@
 # Fachanwalt Bank Kapitalmarktrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -48,14 +47,14 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `anlageberatung-fehlerhaft` | Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft: ordnet... |
-| `anlageberatungsfehler-pruefen` | Anlageberatungsfehler Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Anlageberatungsfehler Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rech... |
+| `anlageberatungsfehler-pruefen` | Anlageberatungsfehler Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Anlageberatungsfehler Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechts... |
 | `anschluss-routing` | Anschluss-Routing für Fachanwalt Bank- und Kapitalmarktrecht: wählt den nächsten Spezial-Skill nach Engpass (Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB, Darlehensvertrag, Wertpapierorder, Beratungsprotokoll), dokumentiert Route... |
 | `bank-tatbestand-beweis-und-belege` | Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage: Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `bankaufsicht-erlaubnis-und-vertrieb` | Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output: Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisati... |
@@ -72,11 +71,11 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 | `bk-bafin-beschwerdeverfahren-workflow` | BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhörung, Beanstandung, Maßnahme: Inhalt und Beweismittel. Mustertext für Mandanten und A... |
 | `bk-bankenfehlberatung-grundzuege` | Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratung, anlagegerechte Beratung, MiFID II Geeignetheit, Aufklaerung Provision (Kick-back): Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte... |
 | `bk-cum-ex-mandant-strafrecht-spezial` | Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjährung, Selbstanzeige, Anrechnung KapErtSt: Verhältnis zu Schadensersa... |
-| `bk-einfuehrung-aufsichtsstruktur` | Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA: KWG, ZAG, WpIG, WpHG, KAGB, MAR. Welche Behörde ist wofür zuständig, wie kommunizieren wir. Tabellarische Übersicht und Beispi... |
+| `bk-einfuehrung-aufsichtsstruktur` | Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA: KWG, ZAG, WpIG, WpHG, KAGB, MAR. Welche Behörde ist wofür zuständig, wie kommunizieren wir. Tabellarische Uebersicht und Beispi... |
 | `bk-emissionsprospekt-haftung-spezial` | Spezialfall Emissionsprospekthaftung: WpPG, ProspektG, Verantwortliche, Gewaehrleistungserklaerung, fehlerhafte Angaben, Schaden, Kausalitaet: Spezialfall Emissionsprospekthaftung: WpPG, ProspektG, Verantwortliche, Gewaehrleistungserklae... |
 | `bk-mandantenrouting-anlegeranspruch` | Routing-Tabelle Anlegeranspruch: Lebensversicherung, Geschlossener Fonds, Zertifikat, ETF, Cum-Ex / Cum-Cum, Krypto: Pro Produktart typische... |
 | `bk-mifid-suitability-spezial` | Spezialfall MiFID II Geeignetheits- und Angemessenheitspruefung: Anlegerprofil, Ziele, Risikobereitschaft, Verlusttragfaehigkeit: Spezialfall MiFID II Geeignetheits- und Angemessenheitspruefung: Anlegerprofil, Ziele, Risikobereitschaft,... |
-| `bk-prip-kid-fehlerhaft-spezial` | Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinformationsblatt, Haftung Hersteller und Vertrieb bei irrefuehrenden Angaben, Prüfung Kosten- und Risikoangabe: Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinforma... |
+| `bk-prip-kid-fehlerhaft-spezial` | Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinformationsblatt, Haftung Hersteller und Vertrieb bei irrefuehrenden Angaben, Prüfung Kosten- und Risikoangabe: Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinformat... |
 | `cum-ex-beihilfe-bgh-1-str-519-20` | Cum-Ex Phantom-Verluste Beihilfe Paragraf 263 StGB und BGH 1 StR 519/20. |
 | `cybertrading-anlagebetrug` | Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück: § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Nor... |
 | `dispokredit-zinsanpassung-bgh-xi-zr-78-08` | Dispokredit Zinsanpassungsklausel ohne Referenzbindung mit BGH XI ZR 78/08. |

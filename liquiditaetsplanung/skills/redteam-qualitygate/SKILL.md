@@ -1,12 +1,12 @@
 ---
 name: redteam-qualitygate
-description: "Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand — Arbeitskontext: Liquiditätsplanung, Schwerpunkt redteam qualitygate."
+description: "Red-Team Qualitygate für Liquiditätsplanung: prüft Fristen, Zuständigkeit, Beweislast, Quellen, Planmechanik, Insolvenznähe, Haftungsrisiken und taktische Risiken vor Abgabe, Banktermin, Gesellschafterrunde oder Versand."
 ---
 
 # Red-Team Qualitygate
 
 ## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+Prüfe zuerst das vorhandene Material. Das Qualitygate beginnt nicht mit einem allgemeinen Interview, sondern mit Aktenlektüre: Planversion, OPOS, Bankstände, Kreditlinien, Steuer-/SV-Fälligkeiten, Auftragsbestand, Zahlungszusagen, Covenants und vorhandene Geschäftsleitervermerke. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -45,4 +45,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Plan-Schwächen
 - Plan zeigt nur grünen Bereich, aber Annahmen sind nicht plausibel → potenziell schwach für Haftungsabschirmung.
 - Plan ohne Datum / Verantwortliche → Beweiskraft im Haftungsprozess fraglich.
-

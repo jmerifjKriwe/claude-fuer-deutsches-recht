@@ -1,3 +1,36 @@
+# v312.0.0 — Qualitätsloops, Quellenhygiene und Release-Oberfläche
+
+Pflege- und Qualitätsrelease nach zehn Prüfschleifen über Pluginbestand, Skills, README-Oberfläche, Testakten-Verlinkung und Release-Assets.
+
+## Was sich ändert
+
+- Zehnstufiger Sanity-/Qualitätslauf über 213 Plugins und 20.908 Skills: Manifest-Abgleich, README-Abdeckung, Skill-Index, Downloadsektionen, Boilerplate-Marker, kurze Skills, Blindzitat-Muster, Testakten-Gesamt-PDFs, geschützte Kernplugins und Versionsstände.
+- `lizenzvertragsersteller` ist jetzt in der alphabetischen Top-README-Liste sichtbar und hat einen Sofort-Downloadblock.
+- `SKILLS.md`, `skills-index/*`, alle Plugin-Skillübersichten, Downloadsektionen und `ASSET_INDEX.md` wurden auf `v312.0.0` regeneriert.
+- `verhaeltnismaessigkeitspruefer`: README-Zählfehler bereinigt; der Wegweiser verweist nun auf die vollständige Autoliste mit 85 Skills.
+- `liquiditaetsplanung/skills/redteam-qualitygate`: alte Arbeitskontext-Formel entfernt und den Einstieg stärker auf Aktenlektüre, Planmechanik, OPOS, Bankstände, Steuer-/SV-Fälligkeiten und Insolvenznähe ausgerichtet.
+- Sanierungsgewinn-/Steuer-/Insolvenz-Skills: BeckVerw-/BeckRS-Blindfundstellen durch frei prüfbare Quellenlogik ersetzt.
+- `telekommunikationsrecht`: zwei zu kurze Skills mit konkreten TKG-, VwGO-, VwVfG-, BGB- und ZPO-Ankern sowie verwertbarem Output-Workflow nachgeschärft.
+
+## Kennzahlen
+
+| Kennzahl | Wert |
+|---|---:|
+| Plugins | 213 |
+| Skills (SKILL.md) | 20.908 |
+| Testakten-Verzeichnisse in der Übersicht | 206 |
+| Testakten mit verpflichtendem Gesamt-PDF | 204 |
+| Hilfsmaterial-Ordner (Formatvorlagen, Megaprompts) | 2 |
+
+## Validatoren
+
+- `scripts/validate-yaml-frontmatter.py`: OK
+- `scripts/validate-plugin-structure.mjs`: OK
+- `scripts/validate-testakten-gesamt-pdf.py`: OK (204 Testakten)
+- `git diff --check`: OK
+
+---
+
 # v311.0.0 — Pflege-Release: Validator-Fix, Megaprompt-Cleanup, Konsistenzkorrekturen
 
 Reiner Pflege- und Hygiene-Release. Keine inhaltlichen Skill-Änderungen.

@@ -1,7 +1,6 @@
 # Einfache und Leichte Sprache für juristische Texte
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -78,7 +77,7 @@ Orientierungselemente.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -87,11 +86,11 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `annaeherung-quellenkarte` | Annaeherung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `anschluss-routing` | Anschluss-Routing für Einfache/Leichte Sprache Jura: wählt den nächsten Spezial-Skill nach Engpass (keine harten Fristen, Originalbescheid, Vereinfachte Fassung, Lese-Test), dokumentiert Router-Entscheidung mit Begründung. |
 | `aufenthaltsrecht-mandant` | Aufenthaltsrechtliche Mandantenkommunikation: AufenthG, Asyl, Familiennachzug. Anschreiben Ausländerbehoerde Begleitschreiben für Mandanten. Vorlage Bescheid-Erklaerung. |
-| `aufenthaltsrecht-mandant-betreuung` | Aufenthaltsrechtliche Mandantenkommunikation: AufenthG, Asyl, Familiennachzug. Anschreiben Ausländerbehoerde Begleitschreiben für Mandanten. Vorlage Bescheid-Erklaerung im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen T... |
+| `aufenthaltsrecht-mandant-betreuung` | Aufenthaltsrechtliche Mandantenkommunikation: AufenthG, Asyl, Familiennachzug. Anschreiben Ausländerbehoerde Begleitschreiben für Mandanten. Vorlage Bescheid-Erklaerung im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Ta... |
 | `bauen-fristennotiz-naechster-schritt` | Bauen: Fristennotiz und nächster Schritt im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung,... |
 | `bauen-fristennotiz-und-naechster-schritt` | Bauen: Fristennotiz und nächster Schritt: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
-| `bescheidmodus` | Bescheide einfach erläutern: typische Bescheide (Bafoeg, Wohngeld, Arbeitsamt-Eingliederungsmassnahme, Steuerbescheid). Vorlage Adressaten-Erklaerung mit 'Was sagt der Bescheid? Was müssen Sie tun? Bis wann? Was passiert sonst?'. |
-| `bescheidmodus-02` | Bescheide einfach erläutern: typische Bescheide (Bafoeg, Wohngeld, Arbeitsamt-Eingliederungsmassnahme, Steuerbescheid). Vorlage Adressaten-Erklaerung mit 'Was sagt der Bescheid? Was müssen Sie tun? Bis wann? Was passiert sonst?' im Ein... |
+| `bescheidmodus` | Bescheide einfach erläutern: typische Bescheide (Bafoeg, Wohngeld, Arbeitsamt-Eingliederungsmassnahme, Steuerbescheid). Vorlage Adressaten-Erklaerung mit 'Was sagt der Bescheid? Was muessen Sie tun? Bis wann? Was passiert sonst?'. |
+| `bescheidmodus-02` | Bescheide einfach erläutern: typische Bescheide (Bafoeg, Wohngeld, Arbeitsamt-Eingliederungsmassnahme, Steuerbescheid). Vorlage Adressaten-Erklaerung mit 'Was sagt der Bescheid? Was muessen Sie tun? Bis wann? Was passiert sonst?' im Einf... |
 | `betreuung-vormundschaft` | Mandanten in Betreuung oder Vormundschaft: spezifische Regeln BGB §§ 1814 ff., Beruecksichtigung Wuensche § 1821, Genehmigungspflichten. Sprache muss die Person selbst erreichen. Vorlage Anschreiben Betreuter. |
 | `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Einfache und leichte Sprache im Recht: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten od... |
 | `dokumente-intake` | Dokumentenintake für Einfache/Leichte Sprache Jura: sortiert Originalbescheid, Vereinfachte Fassung, Lese-Test, prüft Datum, Absender, Frist und Beweiswert (Verständlichkeits-Test, Lese-Probanden-Feedback); markiert Lücken; berücksichtig... |
@@ -99,8 +98,8 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `einstieg-routing` | Einstieg, Triage und Routing für Einfache/Leichte Sprache Jura: ordnet Rolle (Adressat mit Lese-/Lernbeeinträchtigung, Anwalt/Behörde, Übersetzer), markiert Frist (keine harten Fristen), wählt Norm (BGG § 11 Leichte Sprache, UN-BRK Art.... |
 | `experimentelle-glossar-sonderfall-jura` | Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `experimentelle-schriftsatz-brief-memo-bausteine` | Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Fri... |
-| `familienrecht-erstgespraech` | Familienrecht Erstgespraech in Einfacher Sprache: Trennung, Scheidung, Unterhalt, Sorgerecht, Umgang. Vorlage Memo für den Mandanten: 'Was müssen Sie wissen, was müssen Sie entscheiden?' Sprachlich barrierearm. |
-| `familienrecht-erstgespraech-juristische` | Familienrecht Erstgespraech in Einfacher Sprache: Trennung, Scheidung, Unterhalt, Sorgerecht, Umgang. Vorlage Memo für den Mandanten: 'Was müssen Sie wissen, was müssen Sie entscheiden?' Sprachlich barrierearm im Einfache/Leichte Sprac... |
+| `familienrecht-erstgespraech` | Familienrecht Erstgespraech in Einfacher Sprache: Trennung, Scheidung, Unterhalt, Sorgerecht, Umgang. Vorlage Memo für den Mandanten: 'Was muessen Sie wissen, was muessen Sie entscheiden?' Sprachlich barrierearm. |
+| `familienrecht-erstgespraech-juristische` | Familienrecht Erstgespraech in Einfacher Sprache: Trennung, Scheidung, Unterhalt, Sorgerecht, Umgang. Vorlage Memo für den Mandanten: 'Was muessen Sie wissen, was muessen Sie entscheiden?' Sprachlich barrierearm im Einfache/Leichte Sprac... |
 | `fristen-form-zustaendigkeit-rechtsweg` | Einfache: Fristen, Form, Zuständigkeit und Rechtsweg im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist,... |
 | `fristen-und-risikoampel` | Fristen- und Risikoampel im Einfache und leichte Sprache im Recht: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder... |
 | `glossar-sonderfall-edge-case` | Glossar: Sonderfall und Edge-Case-Prüfung im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung... |
@@ -113,17 +112,17 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `juristisches-beweislast-darlegungslast` | Juristisches: Beweislast, Darlegungslast und Substantiierung im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welch... |
 | `juristisches-beweislast-und-darlegungslast` | Juristisches: Beweislast, Darlegungslast und Substantiierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprache Jura-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitspla... |
-| `klaeren-compliance-dokumentation-aktenvermerk` | Klären: Compliance-Dokumentation und Aktenvermerk im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Z... |
+| `klaeren-compliance-dokumentation-aktenvermerk` | Klären: Compliance-Dokumentation und Aktenvermerk im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zu... |
 | `klaeren-compliance-dokumentation-und-akte` | Klären: Compliance-Dokumentation und Aktenvermerk: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `kommandocenter` | Kanzlei oder Behörde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl Skill-Routing Qualita... |
-| `kommunikation-mandant` | Mandantenkommunikation in Einfacher Sprache: Telefon-Leitfaden, E-Mail-Templates, schriftliche Information über das Verfahren. Prüfliste: Verstehen Sie das? Brauchen Sie eine Wiederholung? Notizen für den naechsten Termin. |
+| `kommunikation-mandant` | Mandantenkommunikation in Einfacher Sprache: Telefon-Leitfaden, E-Mail-Templates, schriftliche Information ueber das Verfahren. Prüfliste: Verstehen Sie das? Brauchen Sie eine Wiederholung? Notizen für den naechsten Termin. |
 | `leichte-qualitaetsgate-rechtsinhalt` | Leichte: Risikoampel, Gegenargumente und Verteidigungslinien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `leichte-sprache` | Kanzlei oder Behörde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. No... |
 | `leichte-sprache-jura-fristen-risiko-mandant` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `leichte-sprache-jura-ls-bescheid-chronologie` | Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprache Jura-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitspla... |
 | `leichte-sprache-mietrecht` | Kanzlei oder Behörde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. No... |
 | `leichte-sprache-qualitaetsgate-verstaendlichkeit` | Qualitaetsgate: Fehlerbremse; Formular, Portal und Einreichungslogik: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `ls-bescheid-uebersetzen-workflow` | Bescheid in Leichte Sprache übersetzen Workflow: Originalbescheid, Kernaussagen extrahieren, je Aussage 1 kurzer Satz, Prüfung mit Zielgruppen-Vertreter, Layout (Bilder, Schriftgroesse), Prüfsiegel. Routet in einfache-leichte-sprache-... |
+| `ls-bescheid-uebersetzen-workflow` | Bescheid in Leichte Sprache übersetzen Workflow: Originalbescheid, Kernaussagen extrahieren, je Aussage 1 kurzer Satz, Prüfung mit Zielgruppen-Vertreter, Layout (Bilder, Schriftgroesse), Prüfsiegel. Routet in einfache-leichte-sprache-jura. |
 | `ls-juristisches-glossar-bauen` | Juristisches Glossar für Einfache und Leichte Sprache aufbauen: Schlagwort, Schwerverstaendliche Definition, Variante Einfache Sprache, Variante Leichte Sprache. Pro Eintrag Beispielssatz. Strukturierter CSV-Output und Mustertext für 30... |
 | `ls-juristisches-glossar-justizportal-pruefen` | Juristisches Glossar für Einfache und Leichte Sprache aufbauen: Schlagwort, Schwerverstaendliche Definition, Variante Einfache Sprache, Variante Leichte Sprache. Pro Eintrag Beispielssatz. Strukturierter CSV-Output und Mustertext für 30... |
 | `ls-justizportal-pruefen-spezial` | Spezialfall Justizportal in Leichte Sprache prüfen: Bayerisches Justizportal, JustizOnline, beA-Frontend. Konkrete Verbesserungsvorschlaege für Navigation, Wegleitsysteme, Antragsformulare. Prüfraster nach Inclusion Europe Regeln. |
@@ -155,7 +154,7 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `texte` | Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Fris... |
 | `texte-uebertragen-zielgruppe-sprachniveau` | Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `uebersetzungsablauf` | Standardablauf Übersetzung: 1. Original lesen, 2. Kernaussage extrahieren, 3. Satz für Satz uebertragen, 4. Prüfen gegen Prüfliste, 5. mit Zielgruppe gegenpruefen. Empfehlung: parallele Textspalten Original/Übersetzung. |
-| `uebersetzungsablauf-wortebene-haus` | Standardablauf Übersetzung: 1. Original lesen, 2. Kernaussage extrahieren, 3. Satz für Satz uebertragen, 4. Prüfen gegen Prüfliste, 5. mit Zielgruppe gegenpruefen. Empfehlung: parallele Textspalten Original/Übersetzung im Einfache/Le... |
+| `uebersetzungsablauf-wortebene-haus` | Standardablauf Übersetzung: 1. Original lesen, 2. Kernaussage extrahieren, 3. Satz für Satz uebertragen, 4. Prüfen gegen Prüfliste, 5. mit Zielgruppe gegenpruefen. Empfehlung: parallele Textspalten Original/Übersetzung im Einfache/Leicht... |
 | `uebertragen-behoerden-gericht-und-registerweg` | Uebertragen: Behörden-, Gerichts- oder Registerweg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `uebertragen-behoerden-gerichts-registerweg` | Uebertragen: Behörden-, Gerichts- oder Registerweg im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Z... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Einfache/Leichte Sprache Jura: trennt fehlende Tatsachen von fehlenden Belegen (Originalbescheid, Vereinfachte Fassung, Lese-Test), nennt pro Lücke Beweisthema, Beschaffungsweg (Behörden mit Verständlich... |

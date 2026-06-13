@@ -1,7 +1,6 @@
 # Krankenhausrecht
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -54,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -74,7 +73,7 @@ Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschrei
 | `geburtshilfe-haftung-hebammen-schnittstelle` | Geburtshilfe Haftung Hebammen Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfr... |
 | `gewaltschutz-sicherheitsdienst-hausverbot` | Gewaltschutz Sicherheitsdienst Hausverbot: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfreg... |
 | `haftpflichtfall-krankenhaus-gutachtenstrategie` | Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsfehler-Vorwurf, Sicherung der Akte, Gutachtenstrategie, BGB-Beweislast (§ 630h), Versicherung, Schiedsstellen der Aerztekammer im Krankenhausrecht. |
-| `hybrid-drg-insolvenz-intensivmedizin-beatmung` | Hybrid-DRG nach § 115f SGB V: sektorengleiche Vergütung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG im Krankenhausrecht. |
+| `hybrid-drg-insolvenz-intensivmedizin-beatmung` | Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG im Krankenhausrecht. |
 | `insolvenz-eines-krankenhauses-versorgungssicherung` | Insolvenz eines Krankenhauses Versorgungssicherung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, M... |
 | `intensivmedizin-beatmung-verlegung` | Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaehigkeit, IPReG-Bedingungen ausserklinische Beatmung, Strukturanforderungen, OPS- und MD-Prüfung im Krankenhausrecht. |
 | `investitionsfoerderung-einzelfoerderung` | Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung im Krankenhausrecht. |
@@ -94,7 +93,7 @@ Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschrei
 | `krankenhausreform-leistungsgruppen` | Routing-Skill für die Krankenhausreform 2024/2025 (KHVVG): ordnet Mandat in Leistungsgruppen-, Vorhaltefinanzierungs-, Plan- und Strukturfragen, klaert Uebergangsregime, identifiziert das einschlaegige Vertiefungs-Skill im Krankenhausrecht. |
 | `krankenhausseelsorge-besuchsrecht-hausrecht` | Krankenhausseelsorge Besuchsrecht Hausrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfr... |
 | `kritis-krankenhaus-bsi-gesetz-nis2` | KRITIS Krankenhaus BSI-Gesetz NIS2: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, If... |
-| `landesaufsicht-krankenhausaufsicht` | Landesaufsicht über Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz im Krankenhausrecht. |
+| `landesaufsicht-krankenhausaufsicht` | Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz im Krankenhausrecht. |
 | `landeskrankenhausplan-aufnahme-herausnahme-aenderung` | Landeskrankenhausplan: Aufnahme, Herausnahme oder Änderung des Plankrankenhausstatus, Beteiligungs- und Anhörungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen im Krankenhausrecht. |
 | `landesrecht-und-bundesrecht-trennen` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Landesrecht und Bundesrecht trennen im Krankenhausrecht. |
 | `leistungsgruppen-qualitaetskriterien` | Leistungsgruppen und Qualitaetskriterien nach KHVVG: prüft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten im Krankenhausrecht. |

@@ -1,7 +1,6 @@
 # Barrierefreiheit Web Checker
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -58,7 +57,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -71,17 +70,17 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `automatisierter-audit-axe-lighthouse` | Ordnet automatisierte Accessibility-Scans mit axe, Lighthouse, Pa11y oder ähnlichen Tools ein. Erklärt Treffer, False Positives, False Negatives, manuelle Nachprüfung und Entwickler-Tickets. Output: Scanner-Auswertung im Barrierefreiheit... |
 | `barrierefreiheit-fehlerkatalog` | Barrierefreiheit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `barrierefreiheits-erstpruefung-und-mandatsziel` | Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel. |
-| `bf-kanzleiwebsite-konkret` | Kanzleiwebsite konkret prüfen: Pflicht ab BFSG 28.06.2025 für aktive E-Commerce-Aktivitaeten, für reine Informationswebsites empfohlen, Tooling Axe / WAVE / Lighthouse, Designer und Entwickler. Konkrete Fix-Liste für typische Kanzleisei... |
-| `bf-kiosk-selbstbedienung-mediendienste` | Spezialfall Selbstbedienungsterminals (Bankautomat, Ticketautomat, Fahrkartenautomat) nach BFSG: Hardware- und Software-Anforderungen EN 301 549 Kap. 8, Bedienelemente Reichweite, Sprachausgabe, Kontrast. Prüfraster und Bezugnahme zu No... |
-| `bf-mediendienste-untertitel-spezial` | Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten für Streaming-Anbieter und Mediatheken. Prüfraster für Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos) im... |
-| `bf-pdf-schriftsaetze-versand` | Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: getaggte PDF, Lesefolge, Schriftgroesse, OCR-Schicht, Beschreibungen Bilder. Schnittstelle eA und beA. Prüfliste für Anwaltskanzlei. Routet in pdf-formulare-und-formulare-b... |
+| `bf-kanzleiwebsite-konkret` | Kanzleiwebsite konkret prüfen: Pflicht ab BFSG 28.06.2025 für aktive E-Commerce-Aktivitaeten, für reine Informationswebsites empfohlen, Tooling Axe / WAVE / Lighthouse, Designer und Entwickler. Konkrete Fix-Liste für typische Kanzleiseit... |
+| `bf-kiosk-selbstbedienung-mediendienste` | Spezialfall Selbstbedienungsterminals (Bankautomat, Ticketautomat, Fahrkartenautomat) nach BFSG: Hardware- und Software-Anforderungen EN 301 549 Kap. 8, Bedienelemente Reichweite, Sprachausgabe, Kontrast. Prüfraster und Bezugnahme zu Nor... |
+| `bf-mediendienste-untertitel-spezial` | Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten für Streaming-Anbieter und Mediatheken. Prüfraster für Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos) im B... |
+| `bf-pdf-schriftsaetze-versand` | Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: getaggte PDF, Lesefolge, Schriftgroesse, OCR-Schicht, Beschreibungen Bilder. Schnittstelle eA und beA. Prüfliste für Anwaltskanzlei. Routet in pdf-formulare-und-formulare-ba... |
 | `bfsg-tatbestand-beweis-und-belege` | BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `bfsg-zeitleiste-ecommerce-checkout-en301549` | Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenb... |
 | `bfsgv-schulung-fristennotiz-agentur-abnahme` | Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `bitv-checkout-beweislast-ecommerce` | BITV: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `checkout-beweislast-und-darlegungslast` | Checkout: Beweislast, Darlegungslast und Substantiierung. |
 | `dokumente-intake` | Dokumentenintake für Barrierefreiheit Web BFSG/WCAG: sortiert Konformitätserklärung, Auditbericht, Screenshots, prüft Datum, Absender, Frist und Beweiswert (Audit-Tools axe/Lighthouse, Manuelle Tests); markiert Lücken; berücksichtigt Man... |
-| `ecommerce-checkout-pruefung-spezial` | Spezialpruefung E-Commerce-Checkout: Warenkorb, Adresseingabe, Bezahlung, Bestaetigung. Typische Stolpersteine: AGB-Modal, dynamische Versandkosten, Coupon-Felder, 3D-Secure-Fenster. Prüfraster Tastatur-only-Bestellung und Screenreader-... |
+| `ecommerce-checkout-pruefung-spezial` | Spezialpruefung E-Commerce-Checkout: Warenkorb, Adresseingabe, Bezahlung, Bestaetigung. Typische Stolpersteine: AGB-Modal, dynamische Versandkosten, Coupon-Felder, 3D-Secure-Fenster. Prüfraster Tastatur-only-Bestellung und Screenreader-B... |
 | `ecommerce-mandantenkommunikation-entscheidungsvorlage` | Ecommerce: Mandantenkommunikation und Entscheidungsvorlage. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Barrierefreiheit Web BFSG/WCAG: ordnet Rolle (Betreiber Website/App, Aufsichtsbehörde, Nutzer mit Behinderung), markiert Frist (Gilt ab 28.06.2025), wählt Norm (BFSG, BFSG-Verordnung, WCAG 2.1 AA) und Zus... |
 | `en301549-wcag-pruefplan` | Erstellt Prüfkatalog nach EN 301 549 und WCAG. Trennt rechtlich harmonisierten Standard von fachlicher WCAG-2.2-Erweiterung, definiert Seitentypen, Stichprobe, A/AA-Kriterien, manuelle Checks und Nachweise. Output: Auditplan im Barrieref... |
@@ -94,14 +93,14 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `native-apps-ios-android-pruefung` | Native Apps iOS und Android prüfen: Accessibility-API VoiceOver bzw. TalkBack, Plattform-spezifische Pattern, EN 301 549 Klausel 11. Tooling Xcode Accessibility Inspector, Android Accessibility Scanner. Konkrete Code-Beispiele Swift und... |
 | `output-waehlen` | Output-Wahl für Barrierefreiheit Web BFSG/WCAG: stimmt Adressat (Betreiber Website/App, Aufsichtsbehörde, Nutzer mit Behinderung), Frist (Gilt ab 28.06.2025) und Form auf den Zweck ab — typische Outputs: Konformitätsbericht, Mängelliste... |
 | `pdf-downloads-remediation-roadmap-schulung` | Prüft PDFs, Downloads, eingebettete Dokumente, Preislisten, AGB, Formulare und Bescheide auf Barrierefreiheit: Tags, Lesereihenfolge, Alternativtexte, Tabellen, Formularfelder und HTML-Alternative. Output: Dokumenten-Audit im Barrierefre... |
-| `pdf-formulare-automatisierter-audit-bf` | PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Prüfraster PDF mit PAC 2024 und Acrobat. Sanierungsstra... |
+| `pdf-formulare-automatisierter-audit-bf` | PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Prüfraster PDF mit PAC 2024 und Acrobat. Sanierungsstrat... |
 | `pdfs-compliance-dokumentation-und-akte` | Pdfs: Compliance-Dokumentation und Aktenvermerk. |
 | `quellen-livecheck` | Quellen-Live-Check für Barrierefreiheit Web BFSG/WCAG: prüft Normen (BFSG, BFSG-Verordnung, WCAG 2.1 AA) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BFA (Bundesfachstelle Barrierefreiheit) und Quellenhygiene n... |
 | `remediation-roadmap-dokumentation` | Erstellt Maßnahmenplan für Barrierefreiheits-Fixes: Priorisierung, Nutzerimpact, Rechtsrisiko, Aufwand, Owner, Tickets, Re-Test, Nachweisakte und Management-Reporting. Output: Roadmap und Dokumentation im Barrierefreiheit Web Checker. |
 | `roadmap-internationaler-bezug-und-schnittstellen` | Roadmap: Internationaler Bezug und Schnittstellen. |
 | `rolle-abschlussprodukt-und-uebergabe` | Rolle: Abschlussprodukt und Übergabe. |
 | `schulung-fristennotiz-und-naechster-schritt` | Schulung: Fristennotiz und nächster Schritt. |
-| `schulung-und-rolle-accessibility-champion` | Schulungsprogramm und Accessibility-Champion-Modell in der Organisation aufbauen: Rollendefinition, Aufgaben, Zeitbudget, Trainingsplan für Design, Entwicklung, QA, Content, Marketing. Prüfraster für Reifegrad und Schulungslevel im Barr... |
+| `schulung-und-rolle-accessibility-champion` | Schulungsprogramm und Accessibility-Champion-Modell in der Organisation aufbauen: Rollendefinition, Aufgaben, Zeitbudget, Trainingsplan für Design, Entwicklung, QA, Content, Marketing. Prüfraster für Reifegrad und Schulungslevel im Barri... |
 | `scope-bfsg-screenreader-semantik-abnahme` | Prüft den Rechtsrahmen digitaler Barrierefreiheit: BFSG, BFSGV, BITV 2.0, Web Accessibility Directive, European Accessibility Act, öffentlicher Sektor, B2C-E-Commerce, Kleinstunternehmen und freiwilliger Standard. Output: Scope-Memo im B... |
 | `scope-tastatur-wcag` | Scope: Behörden-, Gerichts- oder Registerweg. |
 | `screenreader-quellenkarte` | Screenreader Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
