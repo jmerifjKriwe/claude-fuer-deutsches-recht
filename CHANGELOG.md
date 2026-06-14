@@ -1,3 +1,26 @@
+# v317.0.0 — Release-Hardening: Upload-Retry, Asset-Hashprüfung, Testakten-ZIP-Validator
+
+Technisches Stabilitätsrelease über v316. Keine fachlichen Skill-Inhalte umgebaut; Fokus ist eine belastbarere Release-Strecke, damit ZIPs, Testakten und Sammelpakete zuverlässig oben ankommen und maschinell überprüfbar bleiben.
+
+## Release-Pipeline gehärtet
+
+- GitHub-Release-Uploads laufen jetzt mit Retry-Funktion pro Asset. Kurzzeitige GitHub-/Netzwerkfehler führen nicht sofort zu einem halben Release.
+- Nach dem Upload prüft `scripts/validate-release-assets.py` alle Remote-Assets gegen den lokalen `dist/`-Stand: erwartete Namen, keine stale assets, `uploaded`-Status, identische Dateigröße und SHA-256-Digest.
+- `checksums-sha256.txt` wird als eigenes Release-Asset erzeugt und mit hochgeladen. Damit sind Plugin-ZIPs, Testakten-ZIPs, Sammelpakete und `marketplace.json` extern überprüfbar.
+
+## Testakten-ZIPs genauer geprüft
+
+- Neuer Validator `scripts/validate-testakten-release-zips.py` spiegelt den Arbeitsakten-Exportfilter und prüft jedes `testakte-*.zip` sowie `alle-testakten.zip` auf exakt erwartete Einträge.
+- Der Validator erkennt leere Testakten-Exports, kaputte ZIP-Mitglieder, fehlende Dateien, unerwartete README-/Download-Metadateien und doppelte ZIP-Einträge.
+
+## Lokaler Trockenlauf
+
+- 213 Plugin-ZIPs lokal gebaut und mit `validate-release-zips.py` geprüft.
+- 206 Testakten-/Material-ZIPs lokal gebaut und mit `validate-testakten-release-zips.py` geprüft: 5.817 exportierte Dateien, 204 Gesamt-PDFs.
+- Sammelpakete lokal erzeugt und geöffnet: `alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`.
+
+---
+
 # v316.0.0 — Skill-Qualitätsrelease: Boilerplate entfernt, Dubletten bereinigt, Normanker nachgezogen
 
 Qualitätsrelease über v315 nach Integration des aktuellen `main`-Standes. Fokus: Skills müssen in Claude/Cowork sprechend auffindbar sein, ohne Entstehungsgeschichte, ohne Sammelskill-Artefakte und ohne doppelte identische Bodies.

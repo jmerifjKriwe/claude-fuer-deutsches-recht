@@ -1,0 +1,101 @@
+#!/usr/bin/env python3
+"""Validate release ZIPs for testakten before publishing.
+
+The release builder intentionally strips README/download/meta files from
+testakten ZIPs. This validator mirrors that export filter and verifies that the
+single testakte ZIPs and the combined alle-testakten.zip contain exactly the
+files that the working-dump contract promises.
+"""
+
+from __future__ import annotations
+
+import sys
+import zipfile
+from pathlib import Path
+
+from testakte_file_filter import include_in_working_dump
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+TESTAKTEN = REPO_ROOT / "testakten"
+
+
+def fail(message: str) -> None:
+    print(f"validate-testakten-release-zips failed: {message}", file=sys.stderr)
+    raise SystemExit(1)
+
+
+def expected_entries(testakte_dir: Path) -> list[str]:
+    entries: list[str] = []
+    for path in sorted(testakte_dir.rglob("*"), key=lambda p: str(p.relative_to(testakte_dir)).lower()):
+        if include_in_working_dump(path, testakte_dir, include_gesamt_pdf=True):
+            rel = Path(testakte_dir.name) / path.relative_to(testakte_dir)
+            entries.append(rel.as_posix())
+    return entries
+
+
+def zip_entries(zip_path: Path) -> list[str]:
+    if not zip_path.exists():
+        fail(f"{zip_path}: missing ZIP")
+    if zip_path.stat().st_size <= 0:
+        fail(f"{zip_path}: empty ZIP")
+    try:
+        with zipfile.ZipFile(zip_path) as archive:
+            bad = archive.testzip()
+            if bad is not None:
+                fail(f"{zip_path}: corrupt member {bad}")
+            return sorted(name.replace("\\", "/") for name in archive.namelist() if not name.endswith("/"))
+    except zipfile.BadZipFile as exc:
+        fail(f"{zip_path}: invalid ZIP: {exc}")
+
+
+def assert_same(label: str, expected: list[str], actual: list[str]) -> None:
+    expected_set = set(expected)
+    actual_set = set(actual)
+    missing = sorted(expected_set - actual_set)
+    extra = sorted(actual_set - expected_set)
+    if missing or extra:
+        details = []
+        if missing:
+            details.append(f"missing={missing[:10]}")
+        if extra:
+            details.append(f"extra={extra[:10]}")
+        fail(f"{label}: entry mismatch ({'; '.join(details)})")
+    if len(actual) != len(actual_set):
+        fail(f"{label}: duplicate ZIP entries detected")
+
+
+def main() -> None:
+    dist = Path(sys.argv[1]) if len(sys.argv) > 1 else REPO_ROOT / "dist"
+    dirs = sorted((d for d in TESTAKTEN.iterdir() if d.is_dir()), key=lambda p: p.name)
+    if not dirs:
+        fail("no testakten directories found")
+
+    combined_expected: list[str] = []
+    empty_dirs: list[str] = []
+    gesamt_pdf_count = 0
+
+    for testakte_dir in dirs:
+        entries = expected_entries(testakte_dir)
+        if not entries:
+            empty_dirs.append(testakte_dir.name)
+            continue
+        if f"{testakte_dir.name}/gesamt-pdf/{testakte_dir.name}_gesamt.pdf" in entries:
+            gesamt_pdf_count += 1
+        combined_expected.extend(entries)
+        actual = zip_entries(dist / f"testakte-{testakte_dir.name}.zip")
+        assert_same(f"testakte-{testakte_dir.name}.zip", entries, actual)
+
+    if empty_dirs:
+        fail(f"testakten without exportable files: {empty_dirs[:20]}")
+
+    combined_actual = zip_entries(dist / "alle-testakten.zip")
+    assert_same("alle-testakten.zip", combined_expected, combined_actual)
+
+    print(
+        "validate-testakten-release-zips OK "
+        f"({len(dirs)} testakte ZIPs, {len(combined_expected)} files, {gesamt_pdf_count} Gesamt-PDFs)"
+    )
+
+
+if __name__ == "__main__":
+    main()

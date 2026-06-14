@@ -1,6 +1,6 @@
 # fachanwalt-urheber-medienrecht
 
-**63 Skills** · Stand `v316.0.0`
+**63 Skills** · Stand `v317.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-urheber-medienrecht/README.md)
