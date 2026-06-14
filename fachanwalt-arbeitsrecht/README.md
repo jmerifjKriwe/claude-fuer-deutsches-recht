@@ -67,7 +67,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -106,14 +106,34 @@ Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschrei
 | `equal-pay-leiharbeit-bag-5-azr-143-19-eugh-timepartner` | Equal Pay Leiharbeit Tarifabweichung mit BAG 5 AZR 143/19 und EuGH TimePartner. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturier... |
 | `erstpruefung-und-mandatsziel` | Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielformulierung, Interessenkonflikt-Check, Mandatsumfang, Kostenhinweis RVG, erste Risikoampel: Fachanwalt Erstprüfung und M... |
+| `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` | Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen § 159 S... |
+| `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich` | Workflow-Skill zu fachanwalt arbeitsrecht bag equal pay paarvergleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` | Workflow-Skill zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | Workflow-Skill zu fachanwalt arbeitsrecht bag mindesturlaub kein verzicht. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-befristung-tzbfg` | Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer. Anwendungsfall befristeter Arbeitsvertrag soll geprüft oder neuer Befristungsvertrag gestaltet werden. Normen § 14 TzBfG Sachgrundbefristung sach... |
+| `fachanwalt-arbeitsrecht-bem-verfahren` | Workflow-Skill zu fachanwalt arbeitsrecht bem verfahren. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-betriebsratsanhoerung` | Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhoerung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhoerungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 Be... |
+| `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` | Workflow-Skill zu fachanwalt arbeitsrecht betriebsratsbeschluss heilung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` | Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekündigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der... |
+| `fachanwalt-arbeitsrecht-kuendigungsschutzklage` | Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist §... |
+| `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` | Workflow-Skill zu fachanwalt arbeitsrecht massenentlassung 17 kschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-orientierung` | Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen B... |
+| `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` | Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren... |
 | `fao-fristen-form-und-zustaendigkeit` | Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs: Beschlussverfahren, Ins... |
+| `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk` | Fachanwalt Arbeitsrecht: Kündigung durch Boten Beweisvermerk und Prozessstrategie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozes` | Zugang der Kündigung durch Boten: Beweisvermerk-Erstellung, Zeugenbenennung, Prozessstrategie bei bestritenem Zugang: Beweislast des Arbeit... |
+| `fazugang-neu-002-einwurf-einschreiben-risiko-aktueller-bag-linie` | Fachanwalt Arbeitsrecht: Einwurf-Einschreiben Risiko nach aktueller BAG-Linie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag` | Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung), Übergabe-Einschreiben vs: Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung),... |
 | `fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslands` | Zugang bei Abwesenheit: Urlaub, Krankheit, Klinikaufenthalt, Auslandsaufenthalt — BAG-Linie zur Kenntnisnahmemöglichkeit, Zugangszeitpunkt, Sorgfaltspflicht des Empfängers, Empfangsbevollmächtigung, taktische Beratung: Zugang bei Abwesen... |
+| `fazugang-neu-003-zugang-urlaub-krankheit-klinik` | Fachanwalt Arbeitsrecht: Zugang bei Urlaub Krankheit Klinik und Auslandsaufenthalt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangeb` | Bestreiten des Inhalts eines zugestellten Umschlags: zulässige Einwände, Beweislast des Arbeitgebers für Schriftform und Inhalt, Gegenbeweis-Möglichkeiten, Prozessstrategie, Abgrenzung zu unzulässiger Schutzbehauptung: Bestreiten des Inh... |
+| `fazugang-neu-004-inhalt-umschlag-bestreiten-beweisangebot` | Fachanwalt Arbeitsrecht: Inhalt des Umschlags bestreiten und Beweisangebot mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fazugang-neu-005-frist-berechnen-unsicher-zugang` | Fachanwalt Arbeitsrecht: Kündigungsfrist berechnen bei unsicherem Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugan` | Kündigungsfrist berechnen bei unsicherem Zugangsdatum: frühest- und spätestmöglicher Zugang, Fristberechnung §§ 187 ff: BGB, Drei-Wochen-... |
+| `fazugang-neu-006-arbeitgeber-zustellworkflow-rechtssicher` | Fachanwalt Arbeitsrecht: Arbeitgeber-Zustellworkflow rechtssicher organisieren mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `fazugang-neu-006-arbeitgeber-zustellworkflow-rechtssicher-organi` | Arbeitgeber-Zustellworkflow: rechtssichere Organisation der Kündigungszustellung, Parallelwege (Bote + Einschreiben + Gerichtsvollzieher), Checklisten, Kuvertierungsprotokoll, Risikomanagement bei mehreren Empfängern (Massenentlassung):... |
 | `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne` | Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG: Arbeitnehmerverteidigung: Z... |
+| `fazugang-neu-008-schriftform-kuendigung-original-elektronisch` | Fachanwalt Arbeitsrecht: Schriftform Kündigung Original und elektronische Kommunikation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc` | Schriftform Kündigung § 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht: Schriftform Kündigung § 623 BGB: Originalunterschrift zwingend, Faksimile unzu... |
 | `freistellungsklausel-sonderfall-edge-case` | Freistellungsklausel im Arbeitsvertrag: BAG 5 AZR 108/25 (pauschale Klausel unwirksam), anlassbezogene Formulierung, Vergütungsfortzahlung, Urlaubsverfall während Freistellung, Verrechnung mit Urlaubsabgeltung, Edge Cases: Freistellungsk... |
 | `hinschg-whistleblower-repressalie` | Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber: Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekünd... |
@@ -134,6 +154,25 @@ Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschrei
 | `rechtsprechung-livecheck-arbeitsrecht` | Live-Check für arbeitsrechtliche Rechtsprechung: Prüfprotokoll für BAG-, LAG- und EuGH-Zitate, Verifizierungswege über bundesarbeitsgericht.de, openjur.de, dejure.org, curia.europa.eu, Umgang mit nicht verifizierbaren Quellen: Live-Check... |
 | `scheinselbststaendigkeit-statusfeststellung-bsg-b-12-r-11-18` | Scheinselbststaendigkeit Statusfeststellung nach Paragraf 7a SGB IV und BSG B 12 R 11/18 R. |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befristungskontrollklage, Zahlungsklage Arbeitsgericht: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau: Substantiie... |
+| `spezial-aktenzeichen-red-team-und-qualitaetskontrolle` | Aktenzeichen: Red-Team und Qualitätskontrolle. |
+| `spezial-arbeitsrecht-tatbestand-beweis-und-belege` | Arbeitsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `spezial-befristung-compliance-dokumentation-und-akte` | Befristung: Compliance-Dokumentation und Aktenvermerk. |
+| `spezial-betriebsrat-zahlen-schwellen-und-berechnung` | Betriebsrat: Zahlen, Schwellenwerte und Berechnung. |
+| `spezial-betrvg-behoerden-gericht-und-registerweg` | Betrvg: Behörden-, Gerichts- oder Registerweg. |
+| `spezial-datum-formular-portal-und-einreichung` | Datum: Formular, Portal und Einreichungslogik. |
+| `spezial-entgtranspg-verhandlung-vergleich-und-eskalation` | Entgtranspg: Verhandlung, Vergleich und Eskalation. |
+| `spezial-fao-fristen-form-und-zustaendigkeit` | FAO: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `spezial-freistellungsklausel-sonderfall-und-edge-case` | Freistellungsklausel: Sonderfall und Edge-Case-Prüfung. |
+| `spezial-kschg-risikoampel-und-gegenargumente` | Kschg: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `spezial-paragraf-dokumentenmatrix-und-lueckenliste` | Paragraf: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `spezial-quelle-beweislast-und-darlegungslast` | Quelle: Beweislast, Darlegungslast und Substantiierung. |
+| `spezial-rechtsprechung-internationaler-bezug-und-schnittstellen` | Rechtsprechung: Internationaler Bezug und Schnittstellen. |
+| `spezial-rechtsprechung-livecheck-arbeitsrecht` | Livecheck verifizierter Arbeitsrechtsprechung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
+| `spezial-tzbfg-schriftsatz-brief-und-memo-bausteine` | Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `spezial-unwirksam-fristennotiz-und-naechster-schritt` | Unwirksam: Fristennotiz und nächster Schritt. |
+| `spezial-urlaub-livequellen-und-rechtsprechungscheck` | Urlaub: Livequellen- und Rechtsprechungscheck. |
+| `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen` | Vergleichspraxis: Mehrparteienkonflikt und Interessenmatrix. |
+| `spezial-verifizierter-mandantenentscheidung` | Verifizierter: Mandantenkommunikation und Entscheidungsvorlage. |
 | `tzbfg-schriftsatz-brief-und-memo-bausteine` | TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage § 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel: TzBfG Schrift... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Arbeitsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Arbeitsvertrag, Kündigung, Aufhebungsvertrag), nennt pro Lücke Beweisthema, Beschaffungsweg (Arbeitsgericht (1. Instanz)), Frist... |
 | `unwirksam-fristennotiz-und-naechster-schritt` | Unwirksamkeit erkannt — Fristennotiz und nächster Schritt: sofortige Handlungsanleitung nach erkanntem Unwirksamkeitsgrund (Schriftform, BR-Anhörung, Sonderkündigungsschutz, Massenentlassung, Befristungsfehler) — Fristberechnung, Klagewe... |
@@ -146,8 +185,10 @@ Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschrei
 | `verifizierter-mandantenentscheidung` | Verifizierte Mandantenentscheidung: strukturierter Entscheidungsprozess für Mandanten vor rechtlich verbindlichen Schritten — Klage, Aufhebungsvertrag, Vergleich, Widerspruch: Verifizierte Mandantenentscheidung: strukturierter Entscheidu... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix für arbeitsrechtliche Mandate: zeitliche Sachverhaltsaufbereitung, Ereignis-Zeitachse, Dokumentenzuordnung nach Datum, Lückenidentifikation, Erstellung einer strukturierten Fallchronologie als Arbeitsgrundlage... |
 | `workflow-fristen-und-risikoampel` | Fristen und Risikoampel: vollständige Fristenübersicht für arbeitsrechtliche Mandate, Ampelbewertung nach Dringlichkeit, Fristenkalender, Wiedervorlagensystem, kritische Fristen Kündigung KSchG, Befristung TzBfG, AGG, Berufung ArbGG: Fri... |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Arbeitsrechtsmandat: Mandantenbriefe, E-Mails, Gesprächsvorbereitung, Informationspflichten, Kostenhinweis RVG, Akteneinsicht, Verfahrensstandsmeldungen, Aufklärungsbrief vor Klageerhebung: Mandantenkommunikatio... |
 | `workflow-redteam-qualitygate` | Red-Team Qualitätsgate: abschließende Qualitätskontrolle vor Ausgabe eines Schriftsatzes, Memos, Mandantenbriefs oder Vergleichs — Quellenverifikation, Gegenargument-Check, Fristencheck, Scheingenauigkeit-Scan, Mandatsziel-Abgleich: Red-... |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zugang-kuendigung-bote-beweis` | Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess: Normanker: KSchG § 4; BGB §§ 130 und 623; ZPO Beweis; B... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

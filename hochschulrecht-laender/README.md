@@ -55,7 +55,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -122,6 +122,7 @@ Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschrei
 | `ifg-transparenz-hochschule` | Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten im Hochschulrecht Länder. |
 | `immatrikulation-und-rueckmeldung` | Prüft Immatrikulation, Rückmeldung und Gebühren im Hochschulrecht Länder. |
 | `informationssicherheit-hochschule` | Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten im Hochschulrecht Länder. |
+| `international-office-und-visa` | Prüft internationale Studierende und Hochschulstatus. |
 | `international-office-visum-status` | Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung im Hochschulrecht Länder. |
 | `juniorprofessur-tenure-track` | Prüft Juniorprofessur und Tenure Track im Hochschulrecht Länder. |
 | `juniorprofessur-verlaengerung` | Prüft Verlängerung, Evaluation, Mutterschutz/Elternzeit und Befristungsgrenzen im Hochschulrecht Länder. |

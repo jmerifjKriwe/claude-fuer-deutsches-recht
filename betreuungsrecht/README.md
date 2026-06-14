@@ -90,7 +90,7 @@ Beim Einsatz von KI-Tools sind insbesondere zu beachten:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -192,6 +192,8 @@ Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschre
 | `rechtsquellen-sonderfall-edge-case` | Rechtsquellen: Quellenprüfung; Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
 | `redteam-qualitygate` | Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand |
 | `schutzplan-betreute-person-risikoampel` | Schutzplan für die betreute Person: prüft Risiken bei Gesundheit, Wohnen, Vermögen, Einsamkeit, Verträgen, digitalem Betrug, Angehörigenkonflikt, Pflege, Heim und Selbstgefährdung und erzeugt eine klare Risikoampel mit mildesten geeignet... |
+| `spezial-betreuungsrecht-livequellen-und-rechtsprechungscheck` | Betreuungsrecht: Livequellen- und Rechtsprechungscheck. |
+| `spezial-vermoegensverzeichnis-fristen-form-und-zustaendigkeit` | Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `ueberforderung-verhinderung-und-abgabe` | Überforderungsschutz für ehrenamtliche Betreuer: erkennt Haftungs-, Zeit-, Familien- und Gesundheitsgrenzen, plant Verhinderungsbetreuung, bittet um Entlastung, Aufgabenbegrenzung, Mitbetreuer oder Betreuerwechsel und formuliert sachlich... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Betreuungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht), nennt pro Lücke Beweisthema, Beschaffungsweg (Betreuungsgericht (AG))... |
 | `verdachtsvertraege-behoerden-gericht-und-registerweg` | Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg im Betreuungsrecht. |
@@ -202,6 +204,8 @@ Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschre
 | `vorsorgevollmacht-pruefen` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Prüfraster für den Vergleich Vollmacht/Betreuungsbedarf. |
 | `vorsorgevollmacht-wunschermittlung` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Prüfraster für den Vergleich Vollmacht/Betreuungsbedarf im Betr... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Betreuungsrecht. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `wunschermittlung-unterstuetzte-entscheidung` | Wunschermittlung und unterstützte Entscheidung nach § 1821 BGB: hilft Betreuern, Wünsche, frühere Präferenzen, mutmaßlichen Willen, Kommunikationshilfen und Schutzgrenzen sauber zu dokumentieren, ohne die betreute Person zu entmündigen. |
 | `zwangsbehandlung-1832-bgb` | Zwangsbehandlung § 1832 BGB: Voraussetzungen, Genehmigung Betreuungsgericht, Verfahren § 312 FamFG. BVerfG-Linien zu Patientenautonomie (BVerfG 2 BvR 882/09). Output: Antragsentwurf an Gericht. |
 | `zwangsbehandlung-beweislast-darlegungslast` | Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlun... |

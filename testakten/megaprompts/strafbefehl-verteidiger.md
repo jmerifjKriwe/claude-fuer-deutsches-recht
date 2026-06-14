@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 55 Skills des Plugins `strafbefehl-verteidiger`.
+Dieser Megaprompt enthaelt top-15 von 60 Skills des Plugins `strafbefehl-verteidiger`.
 
 ## Inhaltsverzeichnis
 

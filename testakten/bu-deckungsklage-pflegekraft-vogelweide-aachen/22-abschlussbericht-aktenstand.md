@@ -65,4 +65,3 @@ HDI hat den Stornoabzug bereits auf 3.000 EUR gesenkt. Der verbleibende Stornoab
 ---
 
 *Nächster Besprechungstermin mit Mandantin: 02.06.2026, 10:00 Uhr, Kanzlei.*
-

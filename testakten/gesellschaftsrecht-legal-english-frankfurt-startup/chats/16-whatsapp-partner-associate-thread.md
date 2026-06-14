@@ -29,5 +29,3 @@
 **08:05 - Adelheid:** Sehr gut. Das ist der Punkt, an dem Leute in Interviews oft stolpern.
 
 **08:21 - Adelheid:** Ergebnis bis 10:30 bitte als 1-Seiter: Top-7 Begriffe, Top-5 deutsche Umsetzungsfragen, Top-3 Rückfragen an Mandantin, Senior-Gates.
-
-

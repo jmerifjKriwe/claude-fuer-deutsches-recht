@@ -50,7 +50,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 107 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -75,10 +75,24 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 | `erstpruefung-und-mandatsziel` | Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabwägung, Mandatszieldefinition, Interessenkonfliktprüfung, Kostenaufklärung und strategische Weichenstellung: Erstprüfu... |
 | `eu-warenmarke-loeschung-eugh-c-541-18` | EU Warenmarke Loeschung EuGH C 541 18: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `euipo-internationaler-bezug-und-schnittstellen` | EUIPO: Internationale Schnittstellen und Verfahren: Unionsmarke UMV, GGM-Verfahren, EUIPO-Beschwerdekammer, EuGH-Vorabentscheidungen, IR-Marke Madrider System, TM5/IP5, WIPO-Schnittstellen, nationale Desig... |
+| `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` | UWG-Abmahnung prüfen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Prüfraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: A... |
+| `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo` | Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Prüfraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzuständigkeit... |
+| `fachanwalt-gewerblicher-rechtsschutz-designverletzung` | Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren. §§ 1 2 38 GeschmMG §§ 11 ff. GeschmMG Verletzungsansprüche EU-Geschmacksmuster-VO. Prüfraster: Schutzfähigkeit Neuheit Eigenart Verletzungshandlung A... |
+| `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` | Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Prüfraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungs... |
+| `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung` | Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten. §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Prüfraster: Markenfähigkeit absolute Schutzhindernisse Waren- und Dienstleistungsverzeichnis Klassen Stra... |
+| `fachanwalt-gewerblicher-rechtsschutz-orientierung` | Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen. § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG. Prüfraster: Schutzrecht Verletzungsart Parteistellung Route Fristen Eilbedürfnis. Output: Mandat-Einordnung Normenm... |
+| `fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage` | Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung des Patents gegen Nichtigkeitsangriff. §§ 81 ff. PatG Nichtigkeitsverfahren § 22 PatG Nichtigkeitsgründe. Prüfraster: Nichtigkeitsgrund Stand der Technik erfinderische Täti... |
+| `fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung` | Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Prüfraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaf... |
+| `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` | Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich V... |
+| `fachanwalt-gewrechts-ki-vo-50-genai` | KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Prüfraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art... |
+| `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel` | Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zus` | EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung bei einstweiliger Verfügung im gewerblichen Rechtsschutz: § 929 ZPO Vollziehungsfri... |
+| `faevvollzug-neu-002-parteibetrieb-gv-unterlassungstiteln` | Fachanwalt Gewerblicher Rechtsschutz: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt` | Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragu... |
+| `faevvollzug-neu-003-bea-elektronisch-rechtsverkehr-ev-zustellung` | Fachanwalt Gewerblicher Rechtsschutz: beA und elektronischer Rechtsverkehr bei eV-Zustellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev` | BeA und elektronischer Rechtsverkehr bei EV-Zustellung: ERVV, § 130a ZPO, sichere Übermittlungswege, qualifizierte elektronische Signatur, Einreichung über beA bei einstweiligen Verfügungen im gewerblichen Rechtsschutz: BeA und elektroni... |
 | `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-or` | Vollstreckung aus Unterlassungsverfügung: Ordnungsgeld und Ordnungshaft nach § 890 ZPO, Tatbestandsvoraussetzungen, Antragstellung, Zuwiderhandlungsnachweis, Höhe des Ordnungsmittels, Ordnungsmittelverfahren: Vollstreckung aus Unterlassu... |
+| `faevvollzug-neu-004-vollstreckung-unterlassungsverfuegung` | Fachanwalt Gewerblicher Rechtsschutz: Vollstreckung aus Unterlassungsverfügung Ordnungsmittel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten` | Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz: Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Ver... |
 | `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist` | Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten, Unterlassungserklärung als Abschlussregelung, Abschlussgebühr RVG, Übergang zu Hauptsacheklage oder endgültige Erledigung im gewerblichen Rechtsschutz: Abschlussschreiben na... |
 | `faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung` | Grenzüberschreitende IP-Eilmaßnahmen: Internationale Zuständigkeit EuGVVO, fliegender Gerichtsstand, Unionsmarke und Gemeinschaftsgeschmacksmuster-Gerichte, UPC (Einheitspatent), Cross-border-Injunctions, WIPO-UDRP, Vollstreckung im EU-A... |
@@ -111,6 +125,25 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 | `rechtsschutz-fristen-form-und-zustaendigkeit` | Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr: Frist... |
 | `schadensersatz-abschlussprodukt-und-uebergabe` | Schadensersatz-Abschlussprodukt und Übergabe: Schadensberechnung abschließen, Vergleichsverhandlung, Zahlungsvereinbarung, Vollstreckung des Schadensersatzurteils, Abschluss-Memo und Übergabe an Mandanten: Schadensersatz-Abschlussprodukt... |
 | `schriftsatzkern-substantiierung` | Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren: § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebo... |
+| `spezial-abmahnung-formular-portal-und-einreichung` | Abmahnung: Formular, Portal und Einreichungslogik. |
+| `spezial-bezuege-zahlen-schwellen-und-berechnung` | Bezuege: Zahlen, Schwellenwerte und Berechnung. |
+| `spezial-designg-behoerden-gericht-und-registerweg` | Designg: Behörden-, Gerichts- oder Registerweg. |
+| `spezial-designverletzung-red-team-und-qualitaetskontrolle` | Designverletzung: Red-Team und Qualitätskontrolle. |
+| `spezial-dpma-mehrparteien-konflikt-und-interessen` | Dpma: Mehrparteienkonflikt und Interessenmatrix. |
+| `spezial-einstweilige-mandantenkommunikation-entscheidungsvorlage` | Einstweilige: Mandantenkommunikation und Entscheidungsvorlage. |
+| `spezial-euipo-internationaler-bezug-und-schnittstellen` | Euipo: Internationaler Bezug und Schnittstellen. |
+| `spezial-fao-dokumentenmatrix-und-lueckenliste` | FAO: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `spezial-gebrmg-verhandlung-vergleich-und-eskalation` | Gebrmg: Verhandlung, Vergleich und Eskalation. |
+| `spezial-gewerblichen-tatbestand-beweis-und-belege` | Gewerblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `spezial-lizenzanaloger-fristennotiz-und-naechster-schritt` | Lizenzanaloger: Fristennotiz und nächster Schritt. |
+| `spezial-markenanmeldung-compliance-dokumentation-und-akte` | Markenanmeldung: Compliance-Dokumentation und Aktenvermerk. |
+| `spezial-markeng-risikoampel-und-gegenargumente` | Markeng: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `spezial-patg-schriftsatz-brief-und-memo-bausteine` | Patg: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` | Rechtsschutz: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `spezial-schadensersatz-abschlussprodukt-und-uebergabe` | Schadensersatz: Abschlussprodukt und Übergabe. |
+| `spezial-urhg-livequellen-und-rechtsprechungscheck` | Urhg: Livequellen- und Rechtsprechungscheck. |
+| `spezial-verfuegung-beweislast-und-darlegungslast` | Verfuegung: Beweislast, Darlegungslast und Substantiierung. |
+| `spezial-verletzungsklage-sonderfall-und-edge-case` | Verletzungsklage: Sonderfall und Edge-Case-Prüfung. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Gewerblicher Rechtsschutz: trennt fehlende Tatsachen von fehlenden Belegen (Registerauszug, Abmahnung, Unterlassungserklärung), nennt pro Lücke Beweisthema, Beschaffungsweg (DPMA), Frist und E... |
 | `urheberrecht-abmahnung-paragraf-97a-urhg-bgh-i-zr-9-18` | Urheberrecht Abmahnung Streitwert Paragraf 97a UrhG mit BGH I ZR 9/18. |
 | `urhg-quellenkarte` | Urhg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
@@ -124,8 +157,10 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 | `wettbewerbsverbot-mitarbeiter-paragraf-74-hgb-bgh-ii-zr-189-12` | Nachvertragliches Wettbewerbsverbot Paragraf 74 HGB mit BGH II ZR 189/12. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im gewerblichen Rechtsschutz: Zeitachse aufbauen, Dokumente chronologisch sortieren, Lücken identifizieren, Beweiskette strukturieren für Verletzungsverfahren, EV, Klagschrift und Mandantenakte: Chronologie un... |
 | `workflow-fristen-und-risikoampel` | Fristen und Risikoampel im gewerblichen Rechtsschutz: systematischer Fristencheck, Risikoampel Grün/Gelb/Rot für alle Verfahrensarten (Marke, Patent, Design, UWG, EV, Klage), Fristenkalender und Eskalationshinweise: Fristen und Risikoamp... |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im gewerblichen Rechtsschutz: Mandantenbriefe, Entscheidungsvorlagen, Statusberichte, Kostenaufklärung, Beratungsprotokoll, Tonalität und BRAO-Informationspflichten: Mandantenkommunikation im gewerblichen Rechtssch... |
 | `workflow-redteam-qualitygate` | Red-Team und Qualitätsgate für alle Arbeitsprodukte im gewerblichen Rechtsschutz: Schwachstellenanalyse von Schriftsätzen, Memos, Abmahnungen, EV-Anträgen und Vergleichsentwürfen: Red-Team und Qualitätsgate für alle Arbeitsprodukte im ge... |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

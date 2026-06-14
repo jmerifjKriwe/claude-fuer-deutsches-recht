@@ -86,7 +86,7 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -132,6 +132,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `quellen-livecheck` | Quellen-Live-Check für Europarecht-Kompass: prüft Normen (AEUV/EUV, EU-Grundrechtecharta, Sekundärrecht (VO/RL)) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt EuGH und Quellenhygiene nach references/quellenhygie... |
 | `rechtsquellen-beweislast-darlegungslast` | Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
 | `richtlinien-schriftsatz-brief-und-memo-bausteine` | Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `spezial-charta-livequellen-und-rechtsprechungscheck` | Charta: Livequellen- und Rechtsprechungscheck. |
 | `unmittelbare-risikoampel-und-gegenargumente` | Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Europarecht-Kompass: trennt fehlende Tatsachen von fehlenden Belegen (Klageschrift EuGH, Vorlagebeschluss nationaler Gerichte, Kommissions-Mitteilung), nennt pro Lücke Beweisthema, Beschaffungsweg (EuGH)... |
 | `verordnungen-vorrang-unmittelbare` | Verordnungen: Verhandlung, Vergleich und Eskalation. |
@@ -142,8 +143,10 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `wirkung-behoerden-gericht-und-registerweg` | Wirkung: Behörden-, Gerichts- oder Registerweg: Wirkung: Behörden-, Gerichts- oder Registerweg. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Europarecht Kompass. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Europarecht Kompass. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Europarecht Kompass. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Europarecht Kompass. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

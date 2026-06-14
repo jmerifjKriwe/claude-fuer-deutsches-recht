@@ -51,4 +51,3 @@ HDI Lebensversicherung AG, Bestandsservice
 ---
 
 *Hinweis Kanzlei: Die HDI-Antwort enthält einen Widerspruch in der Stornoberechnung. Die detaillierte Schadenberechnung muss angefordert werden. Die Rentenoption ist gemäß unserer Vergleichsberechnung (xlsx/02) für Frau Vogelweide ökonomisch nachteilig — Einmalzahlung klar vorzuziehen.*
-

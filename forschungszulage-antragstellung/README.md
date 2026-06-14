@@ -64,7 +64,7 @@ Vor jeder belastbaren Ausgabe live prüfen:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 81 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -141,12 +141,15 @@ Automatisch generierte Komplett-Liste aller 81 Skills in diesem Plugin. Beschrei
 | `quellen-livecheck` | Quellen-Live-Check für Forschungszulage FZulG: prüft Normen (FZulG, EStG § 3 Nr. 26b) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Bescheinigungsstelle Forschungszulage (BSFZ) und Quellenhygiene nach references... |
 | `redteam-qualitygate` | Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand |
 | `roadmap-mehrjahresantrag` | Mehrjahresstrategie Forschungszulage: BSFZ-Bescheinigung für mehrjährige Vorhaben, jährliche Aktualisierung der Stundenaufzeichnung und Projektakte, Folgeanträge knapp halten, Roadmap-Pflege, Liquiditätsplanung über Wirtschaftsjahre, rüc... |
+| `spezial-finanzamt-livequellen-und-rechtsprechungscheck` | Finanzamt: Livequellen- und Rechtsprechungscheck. |
 | `start-chronologie-fristen` | Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidit... |
 | `start-up-und-personengesellschaft` | Start-up- und Personengesellschafts-Konstellation Forschungszulage: GmbH und Co KG, atypisch stille Beteiligung, Mitunternehmerschaft, Verluste in Anfangsjahren mit Zulage als Liquiditaetshebel. Beispielrechnungen, typische Prüfpunkte. S... |
 | `tatbestand-beweis-belege-antragstellung` | Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche F... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Forschungszulage FZulG: trennt fehlende Tatsachen von fehlenden Belegen (Projektbeschreibung, BSFZ-Bescheinigung, Stundennachweise), nennt pro Lücke Beweisthema, Beschaffungsweg (Bescheinigungsstelle For... |
 | `verlust-formular-portal` | Verlust: Formular, Portal und Einreichungslogik im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung... |
 | `verlust-zeichenbudgets` | Verlust: Formular, Portal und Einreichungslogik. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zeichenbudgets-verhandlung` | Zeichenbudgets: Verhandlung, Vergleich und Eskalation im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zust... |
 | `zeichenbudgets-verhandlung-vergleich-und-eskalation` | Zeichenbudgets: Verhandlung, Vergleich und Eskalation. |
 

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 112 Skills (gekuerzt fuer Chat-Fenster) des Plugins `anlagen-zu-schriftsaetzen`.
+Dieser Megaprompt enthaelt top-8 von 115 Skills (gekuerzt fuer Chat-Fenster) des Plugins `anlagen-zu-schriftsaetzen`.
 
 ## Inhaltsverzeichnis
 

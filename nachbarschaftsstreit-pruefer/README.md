@@ -65,7 +65,7 @@ Stand: 05/2026. Kernnormen: BGB §§ 903, 906-923, 823, 862, 1004; Landesnachbar
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -108,6 +108,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `output-waehlen` | Output-Wahl für Nachbarschaftsstreit: stimmt Adressat (Mandant, Nachbar, Schiedsamt), Frist (§ 906 II 2 BGB jährliche Berechnung) und Form auf den Zweck ab — typische Outputs: Schiedsamtsantrag, Klage AG, Unterlassung/Beseitigung-Antrag. |
 | `quellen-livecheck` | Quellen-Live-Check für Nachbarschaftsstreit: prüft Normen (BGB §§ 906/1004, Landesnachbarrechtsgesetze, BauO Länder) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Amtsgericht und Quellenhygiene nach references/q... |
 | `selbsthilfe-und-eskalationsgrenzen` | Selbsthilfe im Nachbarrecht prüfen: Rückschnitt, Betreten, Beseitigung, Besitzschutz, Sachbeschädigungsrisiko, Naturschutz, Fristsetzung, Verhältnismäßigkeit und sichere Eskalationsreihenfolge im Nachbarschaftsstreit Prüfer. |
+| `spezial-mauer-livequellen-und-rechtsprechungscheck` | Mauer: Livequellen- und Rechtsprechungscheck. |
+| `spezial-pruefer-fristennotiz-und-naechster-schritt` | Pruefer: Fristennotiz und nächster Schritt. |
+| `spezial-ueberhang-dokumentenmatrix-und-lueckenliste` | Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `ueberbau-fristen-form-und-zustaendigkeit` | Ueberbau: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `ueberbau-ueberhang-aeste-mediation` | Überbau nach §§ 912-916 BGB prüfen: Gebäude oder Gebäudeteil über Grenze, Vorsatz/grobe Fahrlässigkeit, Widerspruch, Duldungspflicht, Beseitigung, Überbaurente, Abkauf, Beweise und Schreiben im Nachbarschaftsstreit Prüfer. |
 | `ueberhang-aeste-wurzeln` | Überhängende Äste, eindringende Wurzeln, Laub, Früchte und Verschattung prüfen: § 910 BGB, Beeinträchtigung, Fristsetzung, Selbsthilfe, Beseitigungsanspruch, Baumschutzsatzung, Naturschutz und Landesnachbarrecht im Nachbarschaftsstreit P... |
@@ -119,8 +122,10 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `vertiefung-interessen-wurzeln-zaun` | Vertiefung: Mehrparteienkonflikt und Interessenmatrix. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Nachbarschaftsstreit Prüfer. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Nachbarschaftsstreit Prüfer. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Nachbarschaftsstreit Prüfer. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Nachbarschaftsstreit Prüfer. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `wurzeln-behoerden-gericht-und-registerweg` | Wurzeln: Behörden-, Gerichts- oder Registerweg. |
 | `zaun-verhandlung-vergleich-und-eskalation` | Zaun: Verhandlung, Vergleich und Eskalation. |
 

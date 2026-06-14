@@ -36,4 +36,3 @@ Das Finanzamt hat nicht reagiert. Telefonisch wurde erklärt, dass man ohne Steu
 4. Inkasso Mahnwelt um vollständige Titelkopien und Zinsberechnung bitten.
 5. Planquote nach Eingang der Unterlagen neu berechnen.
 6. Wenn Ablehnung bleibt: gerichtlichen Schuldenbereinigungsplan prüfen.
-

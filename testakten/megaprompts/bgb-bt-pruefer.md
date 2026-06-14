@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 101 Skills (gekuerzt fuer Chat-Fenster) des Plugins `bgb-bt-pruefer`.
+Dieser Megaprompt enthaelt top-8 von 108 Skills (gekuerzt fuer Chat-Fenster) des Plugins `bgb-bt-pruefer`.
 
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, S…
 2. **amtlicher-bgb-auftrag-unentgeltliche** — Amtlicher Normcheck für BGB-BT-Fälle: prüft Vertragstypen, Leistungsstörung, AGB, Verbraucherrecht, digitale Produkte, K…
 3. **dokumente-intake** — Dokumentenintake für BGB Besonderer Teil — Prüfungsschemata: sortiert Verträge, Lieferscheine, Rechnungen, prüft Datum, …
-4. **arbeitsnaher-dienstvertrag-bauvertrag** — Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen na…
-5. **goa-entgegenstehender-wille-paragraphen-678-679** — Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 BGB: erhöhte Haftung und Ausnahmen bei Erfüllung gesetzlich…
-6. **deliktsrecht-sonstiges-tierhalter-gebaeude** — Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüt…
-7. **kaufrecht-ware-leasing-schnittstelle** — Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b BGB: Mangelfreiheit, Updatepflichten und Verhältnis zu §§ 327…
-8. **arbeitsnaher-dienstvertrag-bgb** — Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen na…
+4. **kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476** — Prüft, ob Händler oder Hersteller objektive Anforderungen, digitale Funktionen, Updateversprechen, Kompatibilität oder I…
+5. **arbeitsnaher-dienstvertrag-bauvertrag** — Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen na…
+6. **goa-entgegenstehender-wille-paragraphen-678-679** — Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 BGB: erhöhte Haftung und Ausnahmen bei Erfüllung gesetzlich…
+7. **deliktsrecht-sonstiges-tierhalter-gebaeude** — Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüt…
+8. **kaufrecht-ware-leasing-schnittstelle** — Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b BGB: Mangelfreiheit, Updatepflichten und Verhältnis zu §§ 327…
 
 ---
 
@@ -185,6 +185,55 @@ Dieser Dokumenten-Intake für **Bgb Bt Prüfer** ordnet Anlagen, Registerdaten, 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476`
+
+_Prüft, ob Händler oder Hersteller objektive Anforderungen, digitale Funktionen, Updateversprechen, Kompatibilität oder Interoperabilität wirksam abbedungen haben._
+
+# Kaufrecht: Abweichung von objektiven Anforderungen § 476 BGB
+
+## Aufgabe
+
+Schwerpunkt: keine versteckte AGB-Aushebelung. Prüfe eigene Vorabinformation und ausdrückliche gesonderte Vereinbarung; einfache Klausel, Checkbox-Salat oder technische Fußnote reicht nicht automatisch.
+
+## Sofort klären
+
+1. Ist der Käufer Verbraucher und der Verkäufer Unternehmer?
+2. Geht es um eine Sache, ein digitales Produkt oder eine Ware mit digitalen Elementen?
+3. Kann die Ware ohne App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder Update ihre Funktion erfüllen?
+4. Welcher Mangel zeigt sich: Hardware, Software, fehlendes Update, Sicherheitslücke, App-Abschaltung, Reparatursperre, fehlende Anleitung oder falsche öffentliche Äußerung?
+5. Wann wurden Ware, digitale Elemente, Updates und Reparaturversuch bereitgestellt?
+6. Welches Arbeitsprodukt wird gebraucht: Anspruchsmatrix, Mandantenbrief, Klageentwurf, Händlerantwort, Beweis- und Fristenplan?
+
+## Rechtsanker
+
+- § 327, § 327a, § 327e, § 327f BGB für digitale Produkte und die Abgrenzung zu Waren mit digitalen Elementen.
+- § 434 BGB: subjektive Anforderungen, objektive Anforderungen, Montage-/Installationsanforderungen; Beschaffenheit umfasst Funktionalität, Kompatibilität und Interoperabilität.
+- § 475b BGB: Sachmangel einer Ware mit digitalen Elementen einschließlich Aktualisierungspflichten.
+- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente, mindestens zwei Jahre Haftungszeitraum für digitale Elemente.
+- § 475e BGB: Sonderverjährung bei dauerhafter Bereitstellung, Aktualisierungspflicht, Mangelanzeige und Übergabe zur Nacherfüllung.
+- § 476 BGB: Abweichung von objektiven Anforderungen nur mit eigener Information und ausdrücklicher gesonderter Vereinbarung.
+- § 477 BGB: Beweislastvermutung, bei dauerhafter Bereitstellung digitaler Elemente besonders prüfen.
+- Richtlinie (EU) 2024/1799 zum Recht auf Reparatur: Stand Juni 2026 als EU-Richtlinie mit Umsetzungsprüfung behandeln; nicht als bereits vollständig deutsches BGB-Recht behaupten, wenn das Umsetzungsgesetz nicht geprüft ist.
+
+## Arbeitsprogramm
+
+1. **Vertragstyp trennen.** Kauf einer Ware mit digitalen Elementen (§ 475b/§ 475c) ist nicht dasselbe wie reiner Digitalvertrag (§§ 327 ff.). § 327a Abs. 3 ist der Router.
+2. **Mangelzeitpunkt und Zeitraum klären.** Bei Hardware regelmäßig Gefahrübergang; bei Updatepflicht und dauerhaften digitalen Elementen den Zeitraum der Bereitstellung/Erwartbarkeit prüfen.
+3. **Updatepflicht konkretisieren.** Welche Updates waren vereinbart, welche waren objektiv für Vertragsmäßigkeit/Sicherheit nötig, wer hat informiert, was hat der Verbraucher installiert oder nicht installiert?
+4. **Reparaturrecht mitdenken.** Nacherfüllung kann Reparatur oder Ersatzlieferung sein; Right-to-Repair künftig zusätzlich mit Hersteller-/Repairer-Informationspflichten, Reparaturformular, Plattform und Verbot sachwidriger Reparaturhindernisse prüfen.
+5. **Beweise bauen.** Screenshots App, Update-Logs, Händlerchat, öffentliche Werbung, Reparaturprotokoll, Diagnosedaten, Seriennummer, Firmwarestand, Konto-/Cloud-Abhängigkeit.
+6. **Output liefern.** Immer mit Kurzampel, Anspruchsgrundlagen, Fristen, Beweislast, nächstem Schreiben und Anschluss-Skills.
+
+## Quellenhygiene
+
+Normen live über gesetze-im-internet.de prüfen. EU-Rechtsstand live über EUR-Lex oder Kommissionsseite prüfen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei überprüfbarer Quelle.
+
+## Anschluss-Skills
+
+Nach der Erstprüfung je nach Schwerpunkt `kaufrecht-sachmangel-paragraph-434`, `kaufrecht-nacherfuellung-ruecktritt-minderung`, `kaufrecht-schadensersatz-aufwendungsersatz`, `verbrauchsgueterkauf-digitales`, `schnittstelle-bgb-at-methodenlehre-agb` oder `produzentenhaftung-und-verkehrssicherung` ziehen.
 
 ---
 
@@ -504,91 +553,6 @@ _Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b BGB: Mangelfreihe
 - https://www.gesetze-im-internet.de/bgb/__475b.html
 - https://www.gesetze-im-internet.de/bgb/__327.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
-
----
-
-## Skill: `arbeitsnaher-dienstvertrag-bgb`
-
-_Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB._
-
-# Arbeitsnaher Dienstvertrag im BGB
-
-## Fachkern: Arbeitsnaher Dienstvertrag im BGB
-- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
-- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Normanker
-
-- §§ 611–630h BGB: Dienstvertrag, Vergütung, Kündigung, Behandlungsvertrag
-- § 611a BGB: Arbeitnehmer-Definition, Weisungsgebundenheit
-- § 612 BGB: Vergütung ohne ausdrückliche Abrede
-- § 621 BGB: Kündigungsfristen bei Dienstverhältnissen
-- §§ 157 und 242 BGB: Auslegung und Treu und Glauben
-- Sozialversicherungsrecht: § 7 SGB IV (Beschäftigung und Scheinselbstständigkeit)
-- BAG-Rechtsprechung zu Arbeitnehmereigenschaft: nur nach Live-Prüfung mit Aktenzeichen zitieren
-
-## Intake
-
-- Welche Parteien und welche Leistungspflichten sind vereinbart?
-- Liegt ein schriftlicher Vertrag vor; welche Bezeichnung wurde gewählt?
-- Wie ist die tatsächliche Durchführung: Weisungen, Arbeitszeit, Arbeitsort, Eingliederung?
-- Welche Vergütung wurde vereinbart und wie wird abgerechnet?
-- Ist eine Kündigung ausgesprochen oder beabsichtigt; welche Fristen gelten?
-- Gibt es Hinweise auf Scheinselbstständigkeit oder laufende Statusfeststellungsverfahren?
-
-## Prüfraster
-
-1. Vertragstyp bestimmen: Dienst-, Arbeits-, Werk- oder Auftragsverhältnis?
-2. Abgrenzungskriterien nach § 611a BGB prüfen: persönliche Abhängigkeit, Weisungsgebundenheit, Eingliederung
-3. Tatsächliche Durchführung der Leistung mit Vertragslage vergleichen (substance over form)
-4. Vergütungsanspruch nach § 612 BGB prüfen, wenn keine ausdrückliche Vereinbarung besteht
-5. Kündigungsfristen nach § 621 BGB berechnen; bei Arbeitsverhältnis § 622 BGB anwenden
-6. Scheinselbstständigkeit: sozialversicherungsrechtliche Folgen nach § 7 SGB IV berücksichtigen
-7. Haftungsfragen bei fehlerhafter Leistung prüfen: §§ 280 und 241 Abs. 2 BGB
-8. Verjährung der Vergütungsansprüche nach §§ 195 und 199 BGB
-
-## Fallstricke
-
-- Vertragliche Bezeichnung als „freier Mitarbeiter" schützt nicht vor Umqualifizierung durch Gerichte.
-- Faktische Weisungsgebundenheit begründet Arbeitnehmereigenschaft unabhängig vom Vertragstext.
-- Vergütungsansprüche können nach § 612 BGB entstehen, auch wenn kein Betrag vereinbart wurde.
-- Sozialversicherungsrechtliche Nachforderungen können rückwirkend vier Jahre betragen.
-
-## Stoppschilder
-
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Anschluss-Skills
-
-- dienstvertrag-und-behandlungsvertrag
-- werk-dienst-abgrenzung-erfolg
-- geschaeftsbesorgung-auftrag-mandat
-- workflow-anfangercoach-schuldrecht-bt
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3 ProdHaftG
-- Art. 32 DSGVO
-- § 4 ProdHaftG
-- § 8 ProdHaftG
-- § 2 ProdHaftG
-- § 1 ProdHaftG
-- § 10 ProdHaftG
-- § 9 ProdHaftG
-- § 2 WoVermG
-- Art. 82 DSGVO
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 

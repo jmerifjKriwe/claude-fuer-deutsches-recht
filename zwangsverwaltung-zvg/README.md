@@ -123,7 +123,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -164,6 +164,8 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `rechnungslegung-internationaler-bezug-und-schnittstellen` | Rechnungslegung: Internationaler Bezug und Schnittstellen. |
 | `rechnungslegung-simulation-training` | Jahresrechnung und Schlussrechnung des Zwangsverwalters nach § 161 ZVG. Anwendungsfall Rechnungslegungsperiode ist abgelaufen und Jahres- oder Schlussrechnung muss für Gericht erstellt werden. Normen § 161 ZVG Rechnungslegungspflicht § 1... |
 | `simulation-training` | Simulation und Training für Zwangsverwaltung mit einem achtstuendigen Praxistag. Anwendungsfall Verwalter oder Kanzleimitarbeiter will Zwangsverwaltungs-Workflows trainieren oder Plugin demonstrieren. Deckt Mieterpost Objektgefahr Kontoa... |
+| `spezial-gate-red-team-und-qualitaetskontrolle` | Gate: Red-Team und Qualitätskontrolle. |
+| `spezial-portal-livequellen-und-rechtsprechungscheck` | Portal: Livequellen- und Rechtsprechungscheck. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Zwangsverwaltung ZVG-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Do... |
 | `treuhandkonto-versteigerung` | Treuhandkonto: Behörden-, Gerichts- oder Registerweg. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Zwangsverwaltung ZVG: trennt fehlende Tatsachen von fehlenden Belegen (Anordnungsbeschluss, Verwalterbericht, Mietsachen-Akte), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht Vollstreckungsger... |
@@ -176,6 +178,8 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `verteilungsplan-155` | Verteilungsplan nach § 155 ZVG für die Auszahlung von Einnahmen in der Zwangsverwaltung. Anwendungsfall Einnahmen sind angefallen und muessen nach gesetzlicher Rangfolge verteilt werden. Normen § 155 ZVG Verteilung § 10 ZVG Rangklassen §... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Zwangsverwaltung Zvg. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Zwangsverwaltung Zvg. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zwangsverwaltung-erstpruefung-und-mandatsziel` | Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `zwvw-anordnung-zwangsverwaltung` | Bauleiter Anordnung Zwangsverwaltung ZVG: Gläubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Prüfraster für Gläubiger und Eigentuemer im Zwangsverwaltung Zvg. |
 | `zwvw-kostenrechnung-verwalter-spezial` | Spezialfall Kostenrechnung des Zwangsverwalters ZwVwV: Regelverguetung, Mehrverguetung, Auslagen. Prüfraster für Gläubiger und Vollstreckungsgericht im Zwangsverwaltung Zvg. |

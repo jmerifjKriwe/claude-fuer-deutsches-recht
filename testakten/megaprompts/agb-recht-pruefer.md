@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 302 Skills (gekuerzt fuer Chat-Fenster) des Plugins `agb-recht-pruefer`.
+Dieser Megaprompt enthaelt top-8 von 303 Skills (gekuerzt fuer Chat-Fenster) des Plugins `agb-recht-pruefer`.
 
 ## Inhaltsverzeichnis
 

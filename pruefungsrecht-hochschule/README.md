@@ -54,7 +54,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -63,6 +63,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `akteneinsicht-pruefungsakte` | Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Prüfungsrecht Hochschule. |
 | `akteneinsicht-vollstaendig` | Prüft Umfang der Akteneinsicht, Bewertungsvermerke, Musterlösung, Protokolle und Kopien im Prüfungsrecht Hochschule. |
 | `anerkennung-pruefungsleistungen` | Prüft Anerkennung und Anrechnung von Prüfungsleistungen im Prüfungsrecht Hochschule. |
+| `anerkennung-von-pruefungsleistungen` | Prüft Anerkennung und Anrechnung von Prüfungsleistungen. |
 | `anonymisierung-klausur` | Prüft Matrikelnummer, Namensoffenlegung, Gleichbehandlung und Korrekturfehler im Prüfungsrecht Hochschule. |
 | `anwesenheitspflicht` | Prüft Anwesenheitspflichten als Prüfungsvoraussetzung im Prüfungsrecht Hochschule. |
 | `anwesenheitspflicht-modul` | Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung im Prüfungsrecht Hochschule. |
@@ -75,6 +76,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `bewertungsspielraum-grenzen` | Prüft Bewertungsspielraum, fachwissenschaftliche Kontrolle, Verfahrensfehler und Begründung im Prüfungsrecht Hochschule. |
 | `bewertungsspielraum-und-kontrolle` | Prüft Bewertungsspielraum und gerichtliche Kontrolle im Prüfungsrecht Hochschule. |
 | `chancengleichheit-stoerung` | Prüft Lärm, Technik, Aufsicht, Täuschungsverdacht und Störungsrüge im Prüfungsrecht Hochschule. |
+| `datenschutz-pruefungsdaten` | Prüft Datenschutz bei Prüfungsdaten. |
 | `datenschutz-pruefungsdaten-drittversuch` | Prüft Datenschutz bei Prüfungsdaten im Prüfungsrecht Hochschule. |
 | `drittversuch-und-haertefall` | Prüft Drittversuch, Härtefall und zusätzliche Wiederholung im Prüfungsrecht Hochschule. |
 | `ects-leistungspunkte` | Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt im Prüfungsrecht Hochschule. |
@@ -110,6 +112,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `neubewertung-verfahren` | Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik im Prüfungsrecht Hochschule. |
 | `notenbekanntgabe-und-friststart` | Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung im Prüfungsrecht Hochschule. |
 | `online-pruefung-identitaet` | Prüft Online-Prüfung, Identitätskontrolle, Proctoring, Datenschutz und Satzungsgrundlage im Prüfungsrecht Hochschule. |
+| `online-pruefung-technischer-fehler` | Prüft technische Fehler in Online-Prüfungen. |
 | `online-technischer-open-book-plagiatssoftware` | Prüft technische Fehler in Online-Prüfungen im Prüfungsrecht Hochschule. |
 | `open-book-pruefung` | Prüft Open-Book-Regeln, Quellen, Kollaboration, Eigenleistung und Täuschungsabgrenzung im Prüfungsrecht Hochschule. |
 | `plagiatssoftware-treffer` | Prüft Trefferberichte, Quellenlage, rechtliches Gehör und eigenständige Bewertung im Prüfungsrecht Hochschule. |
@@ -123,9 +126,11 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `pruefungsamt-kommunikation` | Baut klare Kommunikation mit Prüfungsamt und Ausschuss im Prüfungsrecht Hochschule. |
 | `pruefungsangst-und-psychische-erkrankung` | Prüft Prüfungsangst, psychische Erkrankung und Rücktritt im Prüfungsrecht Hochschule. |
 | `pruefungsordnung-aenderung-uebergangsrecht` | Prüft neue Prüfungsordnung, Vertrauensschutz, Übergangsfristen und Härtefall im Prüfungsrecht Hochschule. |
+| `pruefungsordnung-router` | Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid. |
 | `pruefungsrecht-baden-wuerttemberg` | Prüft Hochschulprüfungsrecht in Baden-Württemberg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
 | `pruefungsrecht-bayern` | Prüft Hochschulprüfungsrecht in Bayern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
 | `pruefungsrecht-berlin` | Prüft Hochschulprüfungsrecht in Berlin mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-brandenburg` | Prüft Hochschulprüfungsrecht in Brandenburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. |
 | `pruefungsrecht-brandenburg-bremen-hamburg` | Prüft Hochschulprüfungsrecht in Brandenburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
 | `pruefungsrecht-bremen` | Prüft Hochschulprüfungsrecht in Bremen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
 | `pruefungsrecht-hamburg` | Prüft Hochschulprüfungsrecht in Hamburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
@@ -135,10 +140,12 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `pruefungsrecht-nordrhein-westfalen` | Prüft Hochschulprüfungsrecht in Nordrhein-Westfalen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
 | `pruefungsrecht-pruefungsordnung-baden` | Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid im Prüfungsrecht Hochschule. |
 | `pruefungsrecht-rheinland-pfalz` | Prüft Hochschulprüfungsrecht in Rheinland-Pfalz mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-saarland` | Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. |
 | `pruefungsrecht-saarland-sachsen-anhalt` | Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
 | `pruefungsrecht-sachsen` | Prüft Hochschulprüfungsrecht in Sachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
 | `pruefungsrecht-sachsen-anhalt` | Prüft Hochschulprüfungsrecht in Sachsen-Anhalt mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
 | `pruefungsrecht-schleswig-holstein` | Prüft Hochschulprüfungsrecht in Schleswig-Holstein mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-thueringen` | Prüft Hochschulprüfungsrecht in Thüringen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. |
 | `pruefungsrecht-thueringen-pruefungssprache` | Prüft Hochschulprüfungsrecht in Thüringen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
 | `pruefungsrecht-vorlaeufige-zulassung` | Prüft Vergleichslösungen im Prüfungsrecht im Prüfungsrecht Hochschule. |
 | `pruefungssprache` | Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit im Prüfungsrecht Hochschule. |
@@ -153,6 +160,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `taeuschung-und-plagiat` | Prüft Täuschung, Plagiat und Sanktionen im Prüfungsrecht Hochschule. |
 | `technische-stoerung-upload` | Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung im Prüfungsrecht Hochschule. |
 | `toilettengang-aufsicht` | Prüft Aufsichtsregeln, Verdachtsmomente, Gleichbehandlung und Täuschungsvorwurf im Prüfungsrecht Hochschule. |
+| `vergleich-und-pruefungsrecht` | Prüft Vergleichslösungen im Prüfungsrecht. |
 | `vorlaeufige-zulassung-eilrechtsschutz` | Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen im Prüfungsrecht Hochschule. |
 | `widerspruch-und-remonstration` | Baut Widerspruch, Remonstration oder Gegenvorstellung im Prüfungsrecht Hochschule. |
 | `wiederholungspruefung` | Prüft Wiederholungsversuch, Freiversuch, Verbesserungsversuch und Übergangsrecht im Prüfungsrecht Hochschule. |

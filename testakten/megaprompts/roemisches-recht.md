@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 233 Skills (gekuerzt fuer Chat-Fenster) des Plugins `roemisches-recht`.
+Dieser Megaprompt enthaelt top-8 von 283 Skills (gekuerzt fuer Chat-Fenster) des Plugins `roemisches-recht`.
 
 ## Inhaltsverzeichnis
 

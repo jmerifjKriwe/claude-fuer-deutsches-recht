@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 124 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-it-recht`.
+Dieser Megaprompt enthaelt top-8 von 137 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-it-recht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt IT-Recht: ordnet Rolle (Auftraggeber, Software-Hersteller, Cloud-Anbieter), …
 2. **mandat-triage-it-recht** — Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check: Anwendungsfall neues IT-Rechtsmandat …
-3. **orientierung-mandat-fachanwaltschaft** — Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO: Anwendungsfall Kanzlei will IT-Mandat beurteilen ode…
-4. **orientierung-sonderfall-edge-case** — Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung.
-5. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für IT-, Datenschutz- und Telemedienrecht: Erfassung der Konstellation, Konflikt-…
-6. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-7. **itr-einfuehrung-rechtsmaterien** — IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und…
-8. **itr-ki-systeme-vertragsklausel-leitfaden** — Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte,…
+3. **fachanwalt-it-recht-orientierung** — Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen ode…
+4. **orientierung-mandat-fachanwaltschaft** — Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO: Anwendungsfall Kanzlei will IT-Mandat beurteilen ode…
+5. **orientierung-sonderfall-edge-case** — Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung.
+6. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für IT-, Datenschutz- und Telemedienrecht: Erfassung der Konstellation, Konflikt-…
+7. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+8. **fachanwalt-it-recht-vertragsstrafe-pruefen** — Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthael…
 
 ---
 
@@ -286,6 +286,105 @@ Bearbeiter: [NAME RA/RAin]
 ```
 
 <!-- AUDIT 27.05.2026: BGH VII ZR 198/15 (26.01.2017) NOT_FOUND auf dejure.org – Eintrag "Eilbeduerftigkeit im IT-Projektstreit, NJW 2017, 1534" gelöscht. Thema passt nicht zu IT-Recht-Triage (VII ZR ist Baurechtssenat). Kein verifizierter Ersatz recherchiert; bei Zweifel löschen. -->
+
+---
+
+## Skill: `fachanwalt-it-recht-orientierung`
+
+_Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA KI-VO 2024/1689 EVB-IT. Prüfraster Sachgebiet IT-Vertragsrecht Datenschutzrecht IT-Sicherheitsrecht NIS-2 KI-VO Cyber-Vorfall. Output Rechtsgebietsuebersicht mit Normenhierarchie verifizierbare Quellen und Routing zu Folge-Skills. Abgrenzung zu mandat-triage-it-recht und erstgespraech-mandatsannahme._
+
+# Fachanwalt für Informationstechnologierecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 50 Fälle in den letzten drei Jahren, davon mindestens 25 IT-rechtliche und 15 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| IT-Vertragsrecht | BGB §§ 305 ff. (AGB) §§ 631 ff. (Werkvertrag bei Softwareentwicklung) §§ 535 ff. (Mietrecht analog bei SaaS-Cloud-Modellen) |
+| Datenschutz | DSGVO BDSG TDDDG (Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz seit 14.05.2024 vormals TTDSG) |
+| Telekommunikation | TKG |
+| Digitale Dienste | DDG (Digitale-Dienste-Gesetz seit 14.05.2024 ersetzt TMG für Plattformbetreiber) |
+| Cybersicherheit | NIS2UmsuCG (in Kraft seit 06.12.2025) BSIG n.F. § 32 BSIG Meldepflichten |
+| Plattformregulierung | DSA (EU 2022/2065) DMA (EU 2022/1925) |
+| Kuenstliche Intelligenz | EU-KI-VO (EU 2024/1689) |
+| Urheberrecht | UrhG bei Software §§ 69a ff. UrhG |
+| Open Source | GPL MIT Apache LGPL etc. |
+| Patent | PatG bei computerimplementierten Erfindungen |
+
+## Typische Mandate
+
+- SaaS-Verträge Cloud-Verträge Software-Lizenz
+- Datenschutz-Audit Datenschutzfolgenabschätzung (siehe datenschutzrecht)
+- Open-Source-Compliance
+- IT-Sicherheit NIS2-Umsetzung
+- KI-Governance KI-VO (siehe ki-governance)
+- Plattformhaftung DSA Notice-and-Action
+- Sportradardienste Algorithmen
+- Eskalation bei Cyberangriff (Meldepflichten DSGVO Art. 33 / NIS2)
+
+## Fristen
+
+- **Datenpannenmeldung** DSGVO Art. 33 — 72 Stunden.
+- **NIS2-Meldepflicht** § 32 BSIG n.F. — 24 Stunden Frühwarnung 72 Stunden Folgemeldung Abschlussbericht binnen eines Monats.
+- **Vertragsverjährung** regelmäßig drei Jahre (§ 195 BGB).
+- **Open-Source-Lizenzverletzung** Verjährung drei Jahre.
+
+## Hauptgerichte
+
+- Landgericht Zivilkammern für IT-Sachen.
+- OLG.
+- BGH I. Zivilsenat oder III. Zivilsenat je nach Bezug.
+- Bundeskartellamt / Vergabekammer bei öffentlichen IT-Aufträgen.
+- BfDI und Landesdatenschutzbehörden.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- Davit Deutscher Anwaltverein IT-Recht.
+
+## Schnittstellen
+
+- **datenschutzrecht** für DSGVO-Pflichten.
+- **ki-governance** für KI-VO und AIA.
+- **gewerblicher-rechtsschutz** bei Markenrecht IT-Branding.
+- **vertragsrecht** bei SaaS-/Cloud-AGB-Prüfung.
+- **kanzlei-allgemein** Fristen Versand.
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Triage zu Beginn
+
+1. Welches IT-Rechtsgebiet ist primär einschlägig?
+2. Liegt ein akuter Handlungsbedarf vor (Cyber-Vorfall, laufende Frist)?
+3. Welche anderen Plugins sind einzubeziehen? (datenschutzrecht / ki-governance / fachanwalt-strafrecht)
+4. Fachanwalt IT-Recht: FAO-Pflichtfächer (§ 14b FAO) alle abgedeckt?
+
+## Output-Template — Orientierungs-Übersicht
+
+**Adressat:** Mandant / Kanzlei intern — Tonfall: verständlich-erklärend
+
+```
+IT-Recht Orientierungs-Übersicht [DATUM]
+Sachgebiet: [BEZEICHNUNG]
+Primär einschlägig: [RECHTSGEBIET]
+Sekundär: [QUERVERWEISE]
+
+Wichtige Normen:
+- [NORM] — [KURZBESCHREIBUNG]
+
+Fristen im Blick:
+- [FRIST] bis [DATUM] — [BEZEICHNUNG]
+
+Anschlusskills: [LISTE WEITERFÜHRENDER SKILLS]
+```
 
 ---
 
@@ -709,117 +808,166 @@ Frühe gerichtliche Eskalation (Klage, einstweilige Verfügung) bringt schnelle 
 
 ---
 
-## Skill: `itr-einfuehrung-rechtsmaterien`
+## Skill: `fachanwalt-it-recht-vertragsstrafe-pruefen`
 
-_IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce: IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschu..._
+_Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe § 307 BGB AGB-Kontrolle Transparenzgebot § 343 BGB Herabsetzung § 348 HGB beiderseitiges Handelsgeschäft § 341 Abs. 3 BGB Vorbehalt. Prüfraster Klauselinhalt klar definierte Pflichtverletzung Hoechstgrenze Verschulden Individualvereinbarung Herabsetzungsrecht BGH-Linie. Output Vertragsstrafenprüfvermerk mit Wirksamkeitsbeurteilung Verhandlungsempfehlung und Anpassungsvorschlag. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr._
 
-# IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce
+# Vertragsstrafe prüfen
 
+## Kaltstart-Rückfragen
 
-## Arbeitsweg
+1. Steht die Vertragsstrafenklausel in AGB oder in einer Individualvereinbarung?
+2. Welche konkrete Pflicht (Liefertermin, Datenschutz, Geheimhaltung, Wettbewerbsverbot) soll abgesichert werden?
+3. Ist die Strafe pro Tag, pro Verstoß oder einmalig vereinbart? Existiert eine Höchstgrenze?
+4. Sind beide Vertragsparteien Kaufleute i.S.d. HGB?
+5. Wurde die Strafe bei Annahme der Hauptleistung ausdrücklich vorbehalten (§ 341 Abs. 3 BGB)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Anspruchsgrundlagen
 
-**Fokus:** IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce. Entscheidungstabelle und Verweis auf Detail-Skills.
+- Vertragsstrafenversprechen § 339 BGB — fällig mit Verzug oder Verstoß bei verschuldeter Pflichtverletzung.
+- Bei Werkleistung Vorbehalt nötig § 341 Abs. 3 BGB sonst Verwirkung.
+- AGB-Kontrolle: Transparenz § 307 Abs. 1 Satz 2 BGB; unangemessene Benachteiligung § 307 Abs. 1 Satz 1 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Herabsetzungsmöglichkeit § 343 BGB nur außerhalb beiderseitigen Handelsgeschäftes § 348 HGB.
+- Anrechnung auf Schadensersatz § 340 Abs. 2 BGB bzw. § 341 Abs. 2 BGB.
 
-### IT-Recht: Materien
+## Beweislast und Frist
 
-## Spezialwissen: IT-Recht: Materien
-- **Normen-/Quellenanker:** IT, SLA, DSGVO, BDSG, BSI, AGB.
+- Gläubiger trägt Beweislast für Pflichtverletzung und Verschulden des Schuldners; Verschulden wird bei Schuldnerpflichtverletzung nach § 280 Abs. 1 Satz 2 BGB vermutet.
+- Schuldner trägt Beweislast für unangemessene Höhe § 343 BGB.
+- Verjährung nach § 195 BGB drei Jahre ab Schluss des Jahres der Kenntnis.
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## Prüfschema
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+```
+1. Klausel-Typ (AGB / Individualvereinbarung)
+2. Bestimmtheit — welche Pflicht? welche Hoehe?
+3. Transparenz § 307 Abs. 1 Satz 2 BGB
+4. Hoechstgrenze (in AGB zwingend)
+5. Verhaeltnis zum Schadensersatz § 340/341 Abs. 2 BGB
+6. Verschulden des Schuldners
+7. Vorbehalt bei Annahme § 341 Abs. 3 BGB pruefen
+8. Herabsetzungsantrag § 343 BGB bei Nicht-Handelsgeschaeft
+```
 
-## Prüfraster
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+## Strategische Optionen (vor dem Template entscheiden)
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vertragsstrafe pruefen und geltend machen | Geltendmachungs-Schreiben; Template unten |
+| Variante A — Vertragsstrafe ueberschiessend | § 343 BGB-Herabsetzung pruefen; Risiko Rueckforderung |
+| Variante B — Mandant will Vertragsstrafe nicht ausloesen | Stillhaltevereinbarung; Vertragsanpassung statt Strafe |
+| Variante C — Wiederholte Pflichtverletzung | Mehrfache Vertragsstrafe oder Kuendigung erwaegen |
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `itr-ki-systeme-vertragsklausel-leitfaden`
-
-_Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz: Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, D..._
-
-# Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 
-## Arbeitsweg
+## Schreibvorlage Geltendmachung der Vertragsstrafe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+```
+Sehr geehrte Damen und Herren,
 
-**Fokus:** Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Prüfraster für Customer und Vendor.
+namens und in Vollmacht unserer Mandantschaft machen wir die in
+Ziffer [X] des Vertrages vom [Datum] vereinbarte Vertragsstrafe geltend.
 
-### IT: KI-Systeme Vertragsklausel
+Ihre Pflichtverletzung besteht darin dass [konkrete Pflichtverletzung
+mit Datum und Beweisangebot].
 
-## Spezialwissen: IT: KI-Systeme Vertragsklausel
-- **Normen-/Quellenanker:** KI, IT.
+Die vereinbarte Strafe betraegt [EUR Hoehe] und ist nach § 339 BGB mit
+Verzugsbeginn am [Datum] verwirkt.
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Wir haben uns die Vertragsstrafe bei Annahme der Hauptleistung am
+[Datum] ausdruecklich vorbehalten § 341 Abs. 3 BGB.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+Wir fordern Sie auf bis spaetestens [Datum zwei Wochen] EUR [Hoehe] auf
+unser Konto IBAN [...] zu zahlen.
 
-## Prüfraster
+Weitergehende Schadensersatzanspruechen behalten wir uns vor § 340
+Abs. 2 BGB.
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+Mit freundlichen Gruessen
+```
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+## Übergabe
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+- Bei Zahlungsausfall: Übergabe an `forderungsmanagement-klagewerkstatt`.
+- Bei Herabsetzungsantrag des Schuldners: gesonderte Stellungnahme zur Angemessenheit § 343 BGB.
+- Verjährungsfrist im Aktenkalender notieren.
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+## Aktuelle Rechtsprechung (v14.2)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen (Paragrafenkette)
+- § 339 BGB — Verwirkung der Vertragsstrafe bei Verschulden
+- § 340 BGB — Strafe statt Erfuellung
+- § 341 BGB — Strafe neben Erfuellung; Abs. 3 Vorbehalt bei Annahme
+- § 343 BGB — richterliche Herabsetzung (auszer § 348 HGB)
+- § 348 HGB — Ausschluss Herabsetzung bei beidseitigem Handelsgeschaeft
+- § 307 Abs. 1 Satz 2 BGB — Transparenzgebot AGB
+- § 309 Nr. 6 BGB — Klauselverbote ohne Wertungsspielraum (Vertragsstrafe im B2C-Bereich)
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Triage zu Beginn
+1. Handelt es sich um AGB oder Individualvereinbarung (§ 305 Abs. 1 BGB)?
+2. Ist die strafbewehrte Pflicht hinreichend konkret beschrieben (Transparenzgebot)?
+3. Existiert eine Hoechtgrenze bei Tagessatz-Struktur?
+4. Wurden beide Parteien als Kaufleute im HGB-Sinne eingestuft (§ 348 HGB relevant)?
+5. Wurde der Vorbehalt bei Annahme der Hauptleistung erklaert (§ 341 Abs. 3 BGB)?
+
+## Output-Template — Geltendmachung Vertragsstrafe
+**Adressat:** Vertragspartner (Auftragnehmer / Schuldner) — Tonfall: sachlich-juristisch
+```
+[KANZLEI]
+[ADRESSE]
+[DATUM]
+
+[NAME MANDANT] ./. [GEGNER]
+[AKTENZEICHEN]
+
+Betreff: Geltendmachung Vertragsstrafe gemaess § 339 BGB
+
+Sehr geehrte Damen und Herren,
+
+wir vertreten [NAME MANDANT]. In der oben bezeichneten Sache machen wir
+die in Ziffer [X] des Vertrages vom [DATUM VERTRAG] vereinbarte
+Vertragsstrafe geltend.
+
+Ihre Pflichtverletzung: [BESCHREIBUNG PFLICHTVERLETZUNG MIT DATUM UND ORT].
+
+Verwirkte Strafe: EUR [BETRAG] ([BERECHNUNGSGRUNDLAGE: z.B. 5 Werktage
+à EUR [TAGESSATZ]]).
+
+Vorbehalt bei Annahme: Mit Annahme der Hauptleistung am [DATUM] haben
+wir uns die Vertragsstrafe ausdruecklich vorbehalten (§ 341 Abs. 3 BGB).
+
+Wir fordern Sie auf, bis zum [DATUM FRIST] EUR [BETRAG] auf IBAN [IBAN]
+zu ueberweisen.
+
+Weitergehende Schadensersatzansprueche bleiben vorbehalten (§ 340 Abs. 2 BGB).
+
+Mit freundlichen Gruessen
+[KANZLEI]
+```
+
+
+<!-- AUDIT 27.05.2026 bundle_055
+Halluzinations-Reparatur: BGH VII ZR 117/15 (NOT_FOUND) geloescht.
+Zusaetzlich: BGH VII ZR 165/14 (NOT_FOUND) ebenfalls geloescht (beide Entscheidungen
+nicht auf dejure.org nachweisbar). Verbleibende Zitate VII ZR 210/01 und VIII ZR 26/15
+sind verifiziert.
+-->
 
 ---
 

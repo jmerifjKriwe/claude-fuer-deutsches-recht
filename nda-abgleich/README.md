@@ -49,7 +49,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 91 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -126,6 +126,10 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschrei
 | `rueckgabe-vernichtung-nda-typen` | Rueckgabe und Vernichtung Vertraulicher Information: Pflicht, Bestaetigung, Backup-Ausnahme (technisch unmoeglich zu loeschende Backups). Bei Daten in Cloud: Loeschbestaetigung Vendor erforderlich. Wortlautempfehlungen im NDA-Abgleich. |
 | `setzt-schriftsatz-brief-memo-bausteine` | Setzt: Schriftsatz-, Brief- und Memo-Bausteine im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung,... |
 | `setzt-schriftsatz-brief-und-memo-bausteine` | Setzt: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `spezial-aenderungsmodus-compliance-dokumentation-und-akte` | Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk. |
+| `spezial-chirurgisch-livequellen-und-rechtsprechungscheck` | Chirurgisch: Livequellen- und Rechtsprechungscheck. |
+| `spezial-durch-mehrparteien-konflikt-und-interessen` | Durch: Mehrparteienkonflikt und Interessenmatrix. |
+| `spezial-gruen-red-team-und-qualitaetskontrolle` | Gruen: Red-Team und Qualitätskontrolle. |
 | `standard` | Standard: Behörden-, Gerichts- oder Registerweg im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung... |
 | `standard-behoerden-gericht-und-registerweg` | Standard: Behörden-, Gerichts- oder Registerweg. |
 | `standardklauseln-bauleiter-nda-vertragsstrafe` | Bauleiter NDA-Standardklauseln: Vertraulichkeitsumfang, Empfaengerkreis, Laufzeit, Rechtsfolgen, Schriftform. Prüfraster für mutual und one-way NDA im NDA-Abgleich. |
@@ -137,7 +141,9 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschrei
 | `word-zahlen-schwellenwerte-berechnung` | Word: Zahlen, Schwellenwerte und Berechnung im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sa... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im NDA-Abgleich. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im NDA-Abgleich. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im NDA-Abgleich. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

@@ -53,7 +53,7 @@ Nach Erlangung eines Titels die richtige Vollstreckungsstrategie waehlen. Erfolg
 ### Kontopfaendung (Bank-Drittschuldner)
 
 ```
-Vollstreckungsgericht (Wohnsitz Schuldner) -> 
+Vollstreckungsgericht (Wohnsitz Schuldner) ->
 Antrag Pfaendungs- und Ueberweisungsbeschluss (PfÜB) ->
 Zustellung an Bank (Drittschuldner) ->
 Zustellung an Schuldner -> Wirksamkeit

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 100 Skills des Plugins `tierschutzrecht`.
+Dieser Megaprompt enthaelt top-8 von 128 Skills (gekuerzt fuer Chat-Fenster) des Plugins `tierschutzrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -13,9 +13,7 @@ Dieser Megaprompt enthaelt top-10 von 100 Skills des Plugins `tierschutzrecht`.
 5. **tierschutz-strafanzeige-vorbereiten** — Tierschutzrecht: Tierschutz-Strafanzeige vorbereiten. Tierschutz-Strafanzeige vorbereiten im Fachgebiet Tierschutzrecht …
 6. **tierschutzverein-handlungsoptionen** — Tierschutzrecht: Tierschutzverein Handlungsoptionen. Tierschutzverein Handlungsoptionen im Fachgebiet Tierschutzrecht al…
 7. **tierhalter-zivilrechtlich-beraten** — Tierschutzrecht: Tierhalter zivilrechtlich beraten. Tierhalter zivilrechtlich beraten im Fachgebiet Tierschutzrecht als …
-8. **tierarzt-und-behandlungsfehler** — Tierschutzrecht: Tierarzt und Behandlungsfehler. Tierarzt und Behandlungsfehler im Fachgebiet Tierschutzrecht als geführ…
-9. **anordnung-und-wegnahme-pruefen** — Tierschutzrecht: Anordnung und Wegnahme prüfen. Anordnung und Wegnahme prüfen im Fachgebiet Tierschutzrecht als geführte…
-10. **gefaehrlicher-hund-zucht-qualzucht** — Tierschutzrecht: Gefährlicher Hund Landesrecht. Gefährlicher Hund Landesrecht im Fachgebiet Tierschutzrecht als geführte…
+8. **tier-062-schweinehaltung-behoerdenantrag-schrei** — Tierschutzrecht: Schweinehaltung: Behördenantrag schreiben. Behördenantrag schreiben für Schweinehaltung im Rahmen von T…
 
 ---
 
@@ -382,36 +380,25 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `tierarzt-und-behandlungsfehler`
+## Skill: `tier-062-schweinehaltung-behoerdenantrag-schrei`
 
-_Tierschutzrecht: Tierarzt und Behandlungsfehler. Tierarzt und Behandlungsfehler im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht._
+_Tierschutzrecht: Schweinehaltung: Behördenantrag schreiben. Behördenantrag schreiben für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen._
 
-# Tierarzt Und Behandlungsfehler
+# Schweinehaltung Behoerdenantrag Schrei
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; TierSchG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Schweinehaltung Behoerdenantrag Schrei wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Tierschutzrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
-## Normenanker
+## Einstieg ohne Leerlauf
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-- `§ 1 TierSchG` — Schutzzweck und Mitgeschoepflichkeit.
-- `§ 2 TierSchG` — Haltung, Pflege, verhaltensgerechte Unterbringung.
-- `§ 3 TierSchG` — Verbote.
-- `§ 4 TierSchG` — Toeten von Tieren.
-- `§ 6 TierSchG` — Amputation/Gewebeentnahme.
-- `§ 11 TierSchG` — erlaubnispflichtige Taetigkeiten.
-- `§ 16 TierSchG` — Behördenaufsicht.
-- `§ 17 TierSchG` — Straftaten.
-- `§ 18 TierSchG` — Ordnungswidrigkeiten.
-- `§ 90a BGB` — Tiere sind keine Sachen.
+## Norm- und Quellenanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - TierSchG, Tierschutz-Nutztierhaltungsverordnung, EU-Tiertransport
 - § 90a BGB, Sachenrecht nur entsprechend und mit Schutzlogik
 - Veterinärbehörden, Anordnung, Fortnahme, Haltungserlaubnis
@@ -425,135 +412,30 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
----
+## Typische Artefakte
 
-## Skill: `anordnung-und-wegnahme-pruefen`
+- Tierwohl- und Haltungscheck
+- Anordnungs-/Bescheidanalyse
+- Eilantrag oder Behördenantwort
+- Beweisplan mit Fotos, Vet-Befunden, Zeugen
 
-_Tierschutzrecht: Anordnung und Wegnahme prüfen. Anordnung und Wegnahme prüfen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht._
+## Red-Team-Fragen
 
-# Anordnung Und Wegnahme Prüfen
+- Tiere wie bloße Sachen behandeln
+- Gefahr im Verzug übersehen
+- Beweissicherung emotional statt fachlich
+- Tierhalterrolle/Eigentum/Besitz unklar
 
-## Arbeitsweg
+## Ausgabeformat
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; TierSchG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
 
-## Normenanker
+## Qualitätsregel
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 TierSchG` — Schutzzweck und Mitgeschoepflichkeit.
-- `§ 2 TierSchG` — Haltung, Pflege, verhaltensgerechte Unterbringung.
-- `§ 3 TierSchG` — Verbote.
-- `§ 4 TierSchG` — Toeten von Tieren.
-- `§ 6 TierSchG` — Amputation/Gewebeentnahme.
-- `§ 11 TierSchG` — erlaubnispflichtige Taetigkeiten.
-- `§ 16 TierSchG` — Behördenaufsicht.
-- `§ 17 TierSchG` — Straftaten.
-- `§ 18 TierSchG` — Ordnungswidrigkeiten.
-- `§ 90a BGB` — Tiere sind keine Sachen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- TierSchG, Tierschutz-Nutztierhaltungsverordnung, EU-Tiertransport
-- § 90a BGB, Sachenrecht nur entsprechend und mit Schutzlogik
-- Veterinärbehörden, Anordnung, Fortnahme, Haltungserlaubnis
-- Straf-/OWi-Schnittstelle, Beweis, Gutachten, Eilrechtsschutz
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 1 TierSchG
-- § 2 TierSchG
-- § 3 TierSchG
-- § 4 TierSchG
-- § 6 TierSchG
-- § 11 TierSchG
-- § 16 TierSchG
-- § 17 TierSchG
-- § 18 TierSchG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `gefaehrlicher-hund-zucht-qualzucht`
-
-_Tierschutzrecht: Gefährlicher Hund Landesrecht. Gefährlicher Hund Landesrecht im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht._
-
-# Gefaehrlicher Hund Landesrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; TierSchG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 TierSchG` — Schutzzweck und Mitgeschoepflichkeit.
-- `§ 2 TierSchG` — Haltung, Pflege, verhaltensgerechte Unterbringung.
-- `§ 3 TierSchG` — Verbote.
-- `§ 4 TierSchG` — Toeten von Tieren.
-- `§ 6 TierSchG` — Amputation/Gewebeentnahme.
-- `§ 11 TierSchG` — erlaubnispflichtige Taetigkeiten.
-- `§ 16 TierSchG` — Behördenaufsicht.
-- `§ 17 TierSchG` — Straftaten.
-- `§ 18 TierSchG` — Ordnungswidrigkeiten.
-- `§ 90a BGB` — Tiere sind keine Sachen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- TierSchG, Tierschutz-Nutztierhaltungsverordnung, EU-Tiertransport
-- § 90a BGB, Sachenrecht nur entsprechend und mit Schutzlogik
-- Veterinärbehörden, Anordnung, Fortnahme, Haltungserlaubnis
-- Straf-/OWi-Schnittstelle, Beweis, Gutachten, Eilrechtsschutz
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 1 TierSchG
-- § 2 TierSchG
-- § 3 TierSchG
-- § 4 TierSchG
-- § 6 TierSchG
-- § 11 TierSchG
-- § 16 TierSchG
-- § 17 TierSchG
-- § 18 TierSchG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
 
 ---
 

@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 63 Skills des Plugins `fachanwalt-urheber-medienrecht`.
+Dieser Megaprompt enthaelt top-10 von 77 Skills des Plugins `fachanwalt-urheber-medienrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Urheber- und Medienrecht: ordnet Rolle (Urheber/Rechteinhaber, Verwerter/Nut…
 2. **mandat-triage-urheber-medienrecht** — Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen: §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüf…
-3. **erstgespraech-mandatsannahme** — Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen: §§ 1 7 UrhG Werkbegriff § 43…
-4. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-5. **output-waehlen** — Output-Wahl für Fachanwalt Urheber- und Medienrecht: stimmt Adressat (Urheber/Rechteinhaber, Verwerter/Nutzer, Plattform…
-6. **filesharing-verteidigung** — Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgewor…
-7. **tdm-44b-urhg-ki-training-opt-out** — Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhinde…
-8. **urhmr-einfuehrung-rechtsfelder** — Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-,…
-9. **urhmr-ki-generierter-content-spezial** — Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten un…
-10. **urhmr-presserecht-gegendarstellung-spezial** — Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsache…
+3. **fachanwalt-urheber-medienrecht-orientierung** — Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. P…
+4. **erstgespraech-mandatsannahme** — Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen: §§ 1 7 UrhG Werkbegriff § 43…
+5. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+6. **fachanwalt-urheber-medienrecht-filesharing-verteidigung** — Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgewor…
+7. **fachanwalt-urheber-medienrecht-abmahnung-pruefen** — Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung Lizenzkette Belege…
+8. **fachanwalt-urheber-medienrecht-mod-erklaerung** — Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung u…
+9. **fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out** — Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhinde…
+10. **fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung** — Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrec…
 
 ---
 
@@ -169,6 +169,93 @@ Schritt 5: Routing zum Folge-Skill
 - `erstgespraech-mandatsannahme` — vollstaendige Mandatsannahme
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
 - `fachanwalt-urheber-medienrecht-orientierung` — Normen-Übersicht
+
+---
+
+## Skill: `fachanwalt-urheber-medienrecht-orientierung`
+
+_Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills._
+
+# Fachanwalt fuer Urheber- und Medienrecht — Orientierung
+
+## Triage: Welches Sachgebiet?
+
+```
+Werk geschuetzt (Foto, Text, Software, Musik, Film)?
+  → UrhG §§ 1 ff. (Werk), §§ 15 ff. (Verwertungsrechte), § 97 UrhG (Schadensersatz)
+  → Skill: urheber-abmahnung-pruefen
+
+Recht am eigenen Bild (Foto einer Person veröffentlicht)?
+  → §§ 22, 23 KUG + §§ 823, 1004 BGB
+  → Skill: fachanwalt-urheber-medienrecht-abmahnung-pruefen
+
+Berichterstattung, Aeusserung, Gegendarstellung?
+  → §§ 823 Abs. 1, 1004 BGB i.V.m. Art. 2 Abs. 1, 1 Abs. 1 GG; LPG
+  → Skill: fachanwalt-urheber-medienrecht-gegendarstellung-presse
+
+Filesharing-Abmahnung?
+  → § 97a UrhG; § 97 Abs. 2 UrhG; Streitwert § 97a Abs. 3 UrhG
+  → Skill: fachanwalt-urheber-medienrecht-filesharing-verteidigung
+
+Verwertungsgesellschaft (GEMA, VG Wort, VG Bild-Kunst)?
+  → VGG §§ 92 ff.; Schiedsstelle DPMA
+  → Skill: fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg
+
+KI-Training und Text-Data-Mining?
+  → § 44b UrhG; DSM-RL Art. 3, 4
+  → Skill: fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out
+```
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 80 Faelle in den letzten drei Jahren, davon mindestens 40 streitige.
+- Bereiche: UrhG, Persoenlichkeitsrecht, KUG, Presserecht, Medienrecht, VGG.
+
+## Massgebliche Normen
+
+| Bereich | Norm |
+|---------|------|
+| Urheberrecht | UrhG §§ 1 ff. (Werk); §§ 15 ff. (Verwertungsrechte); §§ 31 ff. (Nutzungsrechte); §§ 44a ff. (Schranken); § 51 (Zitat); §§ 87a ff. (Datenbanken) |
+| Schadensersatz | § 97 UrhG (Unterlassung und Schadensersatz); § 97a UrhG (Abmahnung) |
+| Verwertungsgesellschaften | VGG §§ 92 ff.; § 32, 32a, 36 UrhG |
+| Recht am eigenen Bild | §§ 22, 23 KUG |
+| Persoenlichkeitsrecht | Art. 2 Abs. 1, Art. 1 Abs. 1 GG i.V.m. §§ 823 Abs. 1, 1004 BGB |
+| Pressefreiheit | Art. 5 GG; Landespressegesetze |
+| Rundfunk und Medien | MedienStV (§§ 1 ff.) |
+| EU-Recht | InfoSoc-RL 2001/29; DSM-RL 2019/790; DSA |
+| KI-Training | § 44b UrhG; DSM-RL Art. 3, 4 |
+
+## Aktuelle Rechtsprechung
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Typische Mandate mit Zeitschiene
+
+| Mandatstyp | Erstschritte | Frist |
+|------------|-------------|-------|
+| Urheberrechtsverletzung aktiv | Verletzungsnachweis, Abmahnung | Verjaehrung 3 Jahre § 195 BGB |
+| Filesharing-Abmahnung passiv | Abmahnung pruefen, § 97a Abs. 3 UrhG | Reaktionsfrist 7-14 Tage |
+| Persoenlichkeitsrechtsverletzung | Einstweilige Verfuegung vorbereiten | 4 Wochen Selbstwiderlegung |
+| Gegendarstellung | LPG-Frist pruefen, Verlangen verfassen | 2-3 Monate ab Kenntnis |
+| VGG-Schiedsstelle | Antrag DPMA | Vor Klage OLG Muenchen § 128 VGG |
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Fristen-Checkliste
+
+- [ ] Abmahnreaktionsfrist: uebl. 7-14 Tage (§ 97a UrhG)
+- [ ] Gegendarstellung: 2-3 Monate ab Kenntnis (LPG)
+- [ ] Einstweilige Verfuegung: 4 Wochen Selbstwiderlegung
+- [ ] Widerspruch gegen einstweilige Verfuegung: 14 Tage (§ 924 ZPO)
+- [ ] Verjaehrung Urheberrecht: 3 Jahre (§§ 195, 199 BGB; § 102 UrhG)
+
+## Uebergabe
+
+- Bei markenrechtlichen Aspekten: Plugin `gewerblicher-rechtsschutz` / `fachanwalt-gewerblicher-rechtsschutz`.
+- Bei Verlagsvertraegen: Plugin `verlagsredaktion`.
+- Bei Plattformhaftung/DSA: Plugin `fachanwalt-it-recht` / DSA-Kompetenz.
 
 ---
 
@@ -372,72 +459,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `output-waehlen`
+## Skill: `fachanwalt-urheber-medienrecht-filesharing-verteidigung`
 
-_Output-Wahl für Fachanwalt Urheber- und Medienrecht: stimmt Adressat (Urheber/Rechteinhaber, Verwerter/Nutzer, Plattform), Frist (Verjährung 3 Jahre § 102 UrhG) und Form auf den Zweck ab — typische Outputs: Abmahnung, Klage Unterlassung/Schadensersatz, Lizenzvertrag._
+_Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird. §§ 97 97a UrhG Abmahnung §§ 85 ff. UrhG Leistungsschutzrechte. Prüfraster: Tatsachenbasis IP-Zuordnung Stoerrerhaftung Haushaltsangehoerige Gegendarstellung modifizierte Unterlassungserklärung. Output: Abwehrschreiben modifizierte UE Klageerwiderungsentwurf. Abgrenzung: nicht für allgemeine Urheberrechtsverletzungen._
 
-# Output wählen
+# Filesharing-Abmahnung Verteidigung
 
-## Einsatzlage
+## Zweck
 
-Diese Output-Weiche für **Fachanwalt Urheber Medienrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
-
-## Fachlandkarte dieses Plugins
-
-- `abmahnung-sonderfall-edge-case` — Abmahnung Sonderfall Bild Eigenen
-- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme Fachanwalt
-- `workflow-mandantenkommunikation` — FA Urheber Medien Mandant Redteam Gate
-- `einstieg-schnelltriage-fallrouting` — FA Urheber Medien Start Chronologie Fristen
-- `erstpruefung-und-mandatsziel` — Fachanwalt Gewerblicher Kanzlei
-- `filesharing-stoererhaftung` — Filesharing Stoererhaftung
-- `filmrecht-paragraf-89-urhg` — Filmrecht Paragraf 89 Urhg
-- `gegendarstellung-fehlerkatalog` — Gegendarstellung Fehlerkatalog
-- `gegendarstellung-presse` — Gegendarstellung Presse Mandat Triage
-- `gegendarstellung-presse` — Gegendarstellung Presse MOD Erklaerung
-- `link-haftung-paragraf-7-tmg` — Link Haftung Paragraf 7 TMG
-- `medienrecht-fristen-form-und-zustaendigkeit` — Medienrecht Lizenzvertrag Urhmr
-- `medienstaatsvertrag-quellenkarte` — Medienstaatsvertrag Quellenkarte
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
-
-## Arbeitsweg
-
-- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
-- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Fachanwalt Urheber Medienrecht (KUG, UWG, UrhG) einarbeiten.
-- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
-- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
-- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
----
-
-## Skill: `filesharing-verteidigung`
-
-_Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird: Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wir..._
-
-# Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
-- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird. §§ 97 97a UrhG Abmahnung §§ 85 ff. UrhG Leistungsschutzrechte. Prüfraster: Tatsachenbasis IP-Zuordnung Stoerrerhaftung Haushaltsangehoerige Gegendarstellung modifizierte Unterlassungserklärung. Output: Abwehrschreiben modifizierte UE Klageerwiderungsentwurf. Abgrenzung: nicht für allgemeine Urheberrechtsverletzungen.
-
-### Filesharing-Abmahnung Verteidigung
+Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 ## 1) Klassische Konstellation
 
-- Abmahnung Filesharing-Kanzlei wegen Film / Serie / Software
+- Abmahnung Kanzlei (Waldorf Frommer, .rka, FAREDS) wegen Film / Serie / Software
 - Streitwert behauptet hoch (10-50 K)
 - Aufforderung Unterlassungs-Erklärung + Zahlung
 
@@ -466,9 +500,9 @@ _Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrec
 
 - Standard-Erklärung der Kanzlei akzeptiert oft zu viel
 - Modifikation:
- - Nur konkrete Tat (nicht generelle Schutz-Tat)
- - Eingeschraenkte Verpflichtung
- - Vertragsstrafe-Höhe (Hamburger Brauch)
+  - Nur konkrete Tat (nicht generelle Schutz-Tat)
+  - Eingeschraenkte Verpflichtung
+  - Vertragsstrafe-Höhe (Hamburger Brauch)
 
 ## 4) Streitwert-Begrenzung § 97a III UrhG
 
@@ -557,24 +591,612 @@ Bevor die Verteidigungsstrategie festgelegt wird, klaere:
 
 ---
 
-## Skill: `tdm-44b-urhg-ki-training-opt-out`
+## Skill: `fachanwalt-urheber-medienrecht-abmahnung-pruefen`
 
-_Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll: Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhinder..._
+_Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung Lizenzkette Belege. Vorformulierte Unterlassungserklärung prüfen Vertragsstrafe Hoehe Abgrenzung modifizierte Unterlassungserklärung. Streitwertbegrenzung § 97a Abs. 3 UrhG Verbraucher 1000 EUR Abmahnkostenanspruch. Rückforderung bei missbraeuchlicher Abmahnung § 8c UWG analog. Negative Feststellungsklage._
 
-# Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll
+# Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht
+
+## Kernsachverhalt & Mandantenfragen
+
+Urheberrechtliche Abmahnungen stellen Mandantinnen und Mandanten vor eine doppelte Herausforderung: einerseits Fristdruck, andererseits die Gefahr, durch eine vorschnelle Reaktion weit mehr anzuerkennen als nötig. Gerade bei massenhaft verwendeten Abmahnschreiben (Foto-Abmahnungen, Filesharing) entspricht die vorformulierte Unterlassungserklärung selten dem Minimum des rechtlich Notwendigen.
+
+**8 Kaltstart-Rückfragen:**
+
+1. Welcher Abmahner tritt auf – bekannte Abmahnkanzlei (Massenabmahnung), Verlag, Fotograf, Verwertungsgesellschaft?
+2. Was genau wird behauptet verletzt worden zu sein: welches Werk, welche Nutzungshandlung, welche Plattform/URL?
+3. Welche Frist hat der Abmahner gesetzt und wann läuft sie ab?
+4. Ist der Mandant Verbraucher oder gewerblich tätig? Gilt § 97a Abs. 3 UrhG?
+5. Welche Beweise legt der Abmahner vor: Screenshot, Logfile, IP-Auskunft, Gutachten zur Lizenzkette?
+6. Sind in der Abmahnung neben Unterlassung auch Schadensersatz, Auskunft und Kostenerstattung gefordert?
+7. Hat der Mandant möglicherweise einen Erlaubnissachverhalt (Lizenz, Zitatrecht, Schranke) genutzt?
+8. Liegt der Verletzungszeitpunkt innerhalb der Verjährungsfrist (3 Jahre ab Kenntnis)?
+
+---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+| Norm | Inhalt |
+|---|---|
+| § 2 UrhG | Werkarten und Schöpfungshöhe; Lichtbild, Sprachwerk, Software |
+| § 97 Abs. 1 UrhG | Unterlassungsanspruch bei Wiederholungsgefahr |
+| § 97 Abs. 2 UrhG | Schadensersatzanspruch: konkret, Verletzergewinn, Lizenzanalogie |
+| § 97a Abs. 1 UrhG | Abmahnpflicht und Kostentragung vor Klageerhebung |
+| § 97a Abs. 2 UrhG | Formelle Mindestanforderungen an die Abmahnung |
+| § 97a Abs. 3 UrhG | Kostendeckelung bei Verbraucher: Gegenstandswert max. EUR 1.000 |
+| § 97a Abs. 4 UrhG | Kostenerstattung bei unberechtigter Abmahnung |
+| § 101 UrhG | Auskunftsanspruch: gegen Verletzer und Dritte (Provider, Plattformen) |
+| § 102 UrhG | Verjährung: 3 Jahre nach § 195 BGB; Restschadensersatz 10 Jahre |
+| § 8c UWG | Missbrauchskontrolle bei Abmahnungen; analog im UrhG-Bereich |
+| § 14 Abs. 4 MarkenG | Parallelprüfung wenn Abmahnung auch Markenrecht betrifft |
+| BGB § 242 | Verwirkung bei langer Untätigkeit des Rechteinhabers |
+
+---
+
+## Leitentscheidungen
+
+| Aktenzeichen | Gericht / Datum | Leitsatz |
+|---|---|---|
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+
+---
+
+## Prüfschema Abmahnung
+
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Abmahnender identifizieren: Massenabmahner? Bekannte Kanzlei? Missbrauchsindiz nach § 8c UWG analog? | § 8c UWG analog |
+| 2 | Formelle Abmahnprüfung: § 97a Abs. 2 UrhG – Werk benannt, Verletzung konkret beschrieben, angemessene Frist, Vollmacht vorgelegt? | § 97a Abs. 2 UrhG |
+| 3 | Werkqualität prüfen: Schöpfungshöhe nach § 2 UrhG; kleine Münze; Lichtbild § 72 UrhG (50-Jahre-Frist beachten) | § 2 UrhG |
+| 4 | Aktivlegitimation prüfen: Lizenzkette vollständig? Ausschließliche Lizenz nachgewiesen? VG-Wahrnehmungsvertrag vorgelegt? | §§ 7, 31 UrhG |
+| 5 | Verletzungshandlung prüfen: Welcher Tatbestand (§§ 16, 17, 19a UrhG)? Screenshot und Logfile überzeugend? IP-Zuordnung korrekt? | §§ 16, 17, 19a UrhG |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 7 | Erlaubnissachverhalt: § 51 (Zitat), § 51a (Parodie), § 53 (Privatkopie), § 59 (Panorama), Lizenz vorhanden? | §§ 51–59 UrhG |
+| 8 | Verbraucher? § 97a Abs. 3 UrhG: Gegenstandswert EUR 1.000 für Abmahnkosten; kein gewerblicher Kontext? | § 97a Abs. 3 UrhG |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 10 | Reaktion festlegen: Modifizierte UE, Zurückweisung, neg. Feststellungsklage, Vergleich | § 256 ZPO |
+| 11 | Unberechtigte Abmahnung: § 97a Abs. 4 UrhG – Gegenanspruch auf Erstattung eigener Anwaltskosten | § 97a Abs. 4 UrhG |
+| 12 | Verjährung prüfen: Verletzungsdatum + 3 Jahre; bei Unkenntnis des Verletzers: kenntnisunabhängige Frist 10 Jahre | § 102 UrhG |
+
+---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Abmahnung Urheberrecht pruefen und reagieren | Gegendarstellung / UE; Template unten |
+| Variante A — Abmahnung berechtigt | Modifizierte UE mit Kostenvorbehalt; Vergleich anstreben |
+| Variante B — Abmahnung unberechtigte Schutzrechtsverwarnung | Schadensersatz gegen Abmahner pruefen § 97a Abs. 4 UrhG |
+| Variante C — Massenabmahnung / Abmahnmissbrauch | § 8c UWG Missbrauchseinwand; Beschwerde bei Verband |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 
-## Arbeitsweg
+## Schriftsatzbausteine
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
-- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+### Baustein 1 – Zurückweisung Abmahnung (Aktivlegitimation fehlt)
 
-**Fokus:** Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll. § 44b UrhG TDM §§ 87a ff. UrhG Datenbankschutz DSA. Prüfraster: Opt-out-Erklärung Maschinenlesbarkeit Robots.txt rechtliche Wirkung Rechteinhaber. Output: Opt-out-Erklärung technische Anleitung Prüfprotokoll. Abgrenzung: nicht für allgemeine KI-Lizenzfragen.
+```
+An [Abmahnkanzlei]
+Aktenzeichen: [...]
 
-### TDM § 44b UrhG – KI-Training und Opt-out
+Ihre Abmahnung vom [Datum]
+
+Sehr geehrte Damen und Herren,
+
+wir vertreten [Mandant]. Ihre Abmahnung wird zurückgewiesen.
+
+I. Fehlende Aktivlegitimation
+
+Ihre Mandantschaft hat die Aktivlegitimation nicht belegt.
+
+Insbesondere fehlen:
+1. Der Nachweis der Urheberschaft (Name des Schöpfers, Datum
+   der Schöpfung, Werkbeschreibung)
+2. Der Übertragungsvertrag / ausschließliche Lizenz an Ihre
+   Mandantschaft mit dem Nachweis, dass diese Nutzungsart
+   (§ 19a UrhG, Online-Veröffentlichung) umfasst ist
+3. Bei VG-Mandat: der Wahrnehmungsvertrag und der Nachweis,
+   dass das in Rede stehende Werk eingebracht wurde
+
+Wir fordern Sie auf, diese Unterlagen binnen [7] Tagen
+vollständig vorzulegen.
+
+II. Weitere Vorbehalte
+
+Verletzungshandlung, Schadenshöhe und Kostenforderung
+werden vollumfänglich bestritten. Auf § 97a Abs. 3 UrhG
+(Gegenstandswert EUR 1.000) wird hingewiesen.
+
+[Ort, Datum, Unterschrift]
+```
+
+### Baustein 2 – Modifizierte Unterlassungserklärung mit Streitwert-Vorbehalt
+
+```
+[Name Mandant, Anschrift]
+
+Modifizierte Unterlassungserklärung
+(Hamburger Brauch; ohne Anerkenntnis)
+
+Ich verpflichte mich gegenüber [Abmahnerin],
+
+unter Vermeidung einer für jeden Fall schuldhafter
+Zuwiderhandlung zu zahlenden Vertragsstrafe, deren Höhe
+die Gläubigerseite nach billigem Ermessen (§ 315 BGB)
+zu bestimmen hat und die im Streitfall durch das
+zuständige Gericht zu überprüfen ist,
+
+zu unterlassen:
+
+das Werk [genaue Beschreibung] der Gläubigerseite
+
+durch [konkrete Handlung: z.B. Hochladen auf die Website
+[URL] und öffentliches Zugänglichmachen nach § 19a UrhG]
+
+zu nutzen.
+
+Diese Erklärung:
+– begründet kein Anerkenntnis bzgl. Schadensersatz (§ 97
+  Abs. 2 UrhG), Auskunft (§ 101 UrhG) oder Kostenerstattung
+– gilt nur für die konkrete Verletzungsform und kerngleiche
+  Handlungen im Sinne der BGH-Rechtsprechung
+– unterliegt der Annahmepflicht der Gläubigerseite; Wirkung
+  tritt erst mit Zugang der Annahmebestätigung ein
+
+[Ort, Datum, Unterschrift]
+```
+
+### Baustein 3 – Kostenerstattung unberechtigte Abmahnung § 97a Abs. 4 UrhG
+
+```
+An [Abmahnkanzlei]
+Aktenzeichen: [...]
+
+Erstattungsanspruch gemäß § 97a Abs. 4 UrhG
+
+Ihre Abmahnung vom [Datum] war unberechtigt, weil
+[Begründung: keine Aktivlegitimation / Werkqualität nicht
+gegeben / Schranke greift / keine Verletzungshandlung].
+
+Durch die Beauftragung unserer Kanzlei sind Kosten in Höhe
+von EUR [X] (Gegenstandswert EUR [Y]; VV-RVG 2300, 1.3
+zzgl. Auslagenpauschale und MwSt.) entstanden.
+
+Wir fordern Sie auf, diesen Betrag binnen [14 Tagen] zu
+erstatten. Andernfalls werden wir Klage erheben.
+
+[Ort, Datum, Unterschrift]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+---
+
+## Beweislast
+
+| Konstellation | Beweislast |
+|---|---|
+| Werkqualität § 2 UrhG | Abmahner; bei bekannten Werktypen (Fotografie, Literatur) vermutet; Mandant kann Gegenbeweis führen |
+| Aktivlegitimation | Abmahner trägt Urheberschaft und Lizenzkette vollständig; bloßer Urheberrechtsvermerk reicht nicht |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Missbrauch § 8c UWG analog | Mandant kann Missbrauchsindizien vortragen (Menge der Abmahnungen, Verhältnismäßigkeit) |
+
+---
+
+## Fristen und Verjährung
+
+| Frist | Inhalt | Norm |
+|---|---|---|
+| Gesetzte Abmahnfrist (5–14 Tage) | Reaktionsfrist; Versäumnis → EV-Antrag möglich | § 97a UrhG |
+| 3 Jahre | Verjährung Unterlassungs- und Schadensersatzanspruch; ab Kenntnis | § 102 UrhG, § 195 BGB |
+| 10 Jahre | Verjährung Restschadensersatz ohne Täterkenntnis | § 102 UrhG |
+| Schutzschrift | Sofort nach Erhalt der Abmahnung wenn EV wahrscheinlich | § 945a ZPO |
+| Negative Feststellungsklage | Unverzüglich; schafft günstigen Gerichtsstand am Wohnsitz Mandant | § 256 ZPO |
+
+---
+
+## Typische Gegenargumente
+
+| Gegenargument | Erwiderung |
+|---|---|
+| "Die Verletzung ist bewiesen durch Screenshot" | Screenshot allein beweist nicht, dass Mandant gehandelt hat; Passivlegitimation ist eigenständig zu prüfen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Unberechtigte Abmahnung hat keine Konsequenzen" | § 97a Abs. 4 UrhG: Abgemahnter kann Rechtsanwaltskosten der Zurückweisung erstattet verlangen |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Berechnung |
+|---|---|
+| Abmahnkosten Verbraucher § 97a Abs. 3 UrhG | Gegenstandswert EUR 1.000 → VV-RVG 2300, 1.3 = ca. EUR 124 netto |
+| Abmahnkosten Unternehmen (Foto, einfach) | Typisch EUR 6.000–10.000 Gegenstandswert → EUR 600–900 Anwaltsgebühr |
+| Abmahnkosten Unternehmen (Softwareverletzung) | Gegenstandswert EUR 20.000–100.000 möglich; deutlich höhere Gebühren |
+| Schadensersatz Foto (Lizenzanalogie) | MFM-Basis: EUR 50–500; bei aktuellem Werk und breiter Verbreitung höher |
+| Unberechtigte Abmahnung § 97a Abs. 4 UrhG | Abgemahnter erhält eigene Anwaltskosten erstattet; Gegenstandswert = Hauptforderung |
+
+---
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Massenabmahnung bekannter Kanzlei (Fotos) | Prüfen ob Massenabmahnungsindiz; § 8c UWG analog vortragen; modifizierte UE + Kosten begrenzen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Erlaubnissachverhalt möglich | Lizenz, Zitatrecht, Parodie prüfen und konkret vortragen; erheblich Kosten sparen |
+| Verjährung droht | Prüfen ob Verletzungszeitpunkt + 3 Jahre bereits abgelaufen; Verjährungseinrede § 102 UrhG |
+
+---
+
+## Anschluss-Skills
+
+- `urheber-abmahnung-pruefen` – allgemeine Abmahnprüfung
+- `fachanwalt-urheber-medienrecht-mod-erklaerung` – modifizierte Unterlassungserklärung
+- `gegendarstellung-presse` – persönlichkeitsrechtliche Ergänzungsaspekte
+- `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` – KI-Trainingsdaten-Abmahnungen
+
+---
+
+## Quellen
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Triage-Fragen bei Urheberrechts-Abmahnungs-Mandat
+
+Bevor die Abmahnung bewertet und eine Reaktion empfohlen wird, klaere:
+1. Ist die Verletzungshandlung konkret beschrieben (§ 97a I 2 UrhG — Pflichtinhalt der Abmahnung)?
+2. Handelt es sich um eine Privatperson als Verletzer — greift die Kostendeckelung § 97a III UrhG (EUR 1.000)?
+3. Besteht ein Erlaubnissachverhalt (Zitat § 51 UrhG, Parodie § 24 UrhG, Gemeinfreiheit)?
+4. Liegt Massenabmahnung vor (§ 8c UWG analog — Missbrauchseinwand)?
+
+## Aktuelle Rechtsprechung
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+---
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 026:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+-->
+
+---
+
+## Skill: `fachanwalt-urheber-medienrecht-mod-erklaerung`
+
+_Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Prüfprotokoll. Abgrenzung: nicht für vollständige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-prüfen)._
+
+# Modifizierte Unterlassungserklärung im Urheberrecht
+
+## Kernsachverhalt & Mandantenfragen
+
+Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseitigung der Wiederholungsgefahr – ohne die umfangreichen Anerkenntnisse, die eine vorgefertigte Erklärung typischerweise enthält. Wer eine vorformulierte Erklärung ungeprüft unterschreibt, akzeptiert oft überhöhte Vertragsstrafen, zu weite Verletzungsformeln und eine implizite Anerkennung von Schadensersatz und Auskunft. Die modifizierte Variante schützt davor.
+
+**8 Kaltstart-Rückfragen:**
+
+1. Liegt eine Abmahnung mit vorformulierter Unterlassungserklärung vor und was ist die Frist?
+2. Ist die Verletzungshandlung in der vorformulierten Erklärung zu weit oder zu eng beschrieben?
+3. Wie hoch ist die vorgeschlagene Vertragsstrafe und ist sie fest oder nach Hamburger Brauch formuliert?
+4. Enthält die vorformulierte Erklärung ein Schadensersatzanerkenntnis oder ein Auskunftsanerkenntnis?
+5. Ist Mandant Verbraucher oder Unternehmer? Gilt § 97a Abs. 3 UrhG (Streitwertbegrenzung EUR 1.000)?
+6. Besteht begründeter Zweifel an der Aktivlegitimation des Abmahners?
+7. Hat der Mandant bereits früher ähnliche Verstöße begangen oder Unterlassungserklärungen abgegeben?
+8. Ist eine negative Feststellungsklage als Alternative zur Abgabe der Erklärung sinnvoller?
+
+---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+| Norm | Inhalt |
+|---|---|
+| § 97 Abs. 1 UrhG | Unterlassungsanspruch: Beseitigung und Unterlassung bei Wiederholungsgefahr |
+| § 97a UrhG | Abmahnung und Abmahnkosten; formelle Anforderungen |
+| § 97a Abs. 3 UrhG | Streitwertbegrenzung EUR 1.000 bei Verbraucher-Abmahnung |
+| § 97a Abs. 4 UrhG | Ersatz von Abmahnkosten bei unberechtigter Abmahnung |
+| § 315 BGB | Bestimmung der Leistung durch eine Partei (Hamburger Brauch); gerichtliche Kontrolle bei Unbilligkeit |
+| § 130 BGB | Wirksamkeit von Willenserklärungen ab Zugang; Annahmevorbehalt nutzen |
+| § 242 BGB | Verwirkung des Unterlassungsanspruchs bei längerer Untätigkeit |
+| § 256 ZPO | Negative Feststellungsklage: Feststellung des Nichtbestehens eines Anspruchs |
+| § 307 BGB | AGB-Inhaltskontrolle: übermäßige Vertragsstrafen können unwirksam sein |
+| § 890 ZPO | Vollstreckung von Unterlassungsurteilen: Ordnungsgeld, Ordnungshaft |
+
+---
+
+## Leitentscheidungen
+
+| Aktenzeichen | Gericht / Datum | Leitsatz |
+|---|---|---|
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+
+---
+
+## Prüfschema Modifizierte Unterlassungserklärung
+
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Abmahnung und Frist prüfen: Wann läuft die gesetzte Frist ab? Fristwahrung erforderlich um EV zu vermeiden | § 97a UrhG |
+| 2 | Vorformulierte UE analysieren: Reichweite der Verletzungsformel; Vertragsstrafen-Höhe; enthaltene Anerkenntnisse prüfen | § 97 Abs. 1 UrhG |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 4 | Vertragsstrafenklausel prüfen: Hamburger Brauch oder feste Vertragsstrafe? Betrag angemessen? | §§ 315, 307 BGB |
+| 5 | Anerkenntnisse herausstreichen: Kein Schadensersatz dem Grunde nach; keine Auskunftspflicht; keine Kostenübernahme | § 97 Abs. 2 UrhG |
+| 6 | § 97a Abs. 3 UrhG-Hinweis: Verbraucherklausel; Streitwertbegrenzung auf EUR 1.000 für Abmahnkostenberechnung | § 97a Abs. 3 UrhG |
+| 7 | Annahmevorbehalt § 130 BGB: Erklärung wird erst mit Annahmebestätigung durch Abmahner wirksam (schützt vor unilateraler Annahme) | § 130 BGB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 9 | Schutzschrift: bei drohender EV; § 945a ZPO; Zuständiges Gericht | § 945a ZPO |
+| 10 | Alternative negative Feststellungsklage: bei klarer Unberechtigtheit der Abmahnung; günstigerer Gerichtsstand für Abgemahnten | § 256 ZPO |
+| 11 | Verwirkung prüfen: Hat Abmahner die Verletzung lange geduldet (§ 242 BGB)? Einrede möglich | § 242 BGB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+
+---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — MOD-Erklaerung Urheberrecht | MOD-Erklaerung; Template unten |
+| Variante A — Kein Eingriff ins Urheberrecht | Erklaerung entfaellt; nur Begleitschreiben |
+| Variante B — Werbeabsicht streitig | Freie Benutzung § 24 UrhG a.F. / § 23 UrhG n.F. pruefen |
+| Variante C — Open-Source-Lizenz betroffen | GPL/LGPL-Kompatibilitaet pruefen; MOD-Erklaerung anpassen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Baustein 1 – Modifizierte Unterlassungserklärung (Hamburger Brauch)
+
+```
+[Name des Mandanten]
+[Anschrift]
+
+An [Abmahnkanzlei]
+Aktenzeichen: [...]
+
+Modifizierte strafbewehrte Unterlassungserklärung
+(ohne Anerkenntnis einer Rechtspflicht; ohne Anerkenntnis
+der Begründetheit der geltend gemachten Ansprüche)
+
+[Name des Mandanten]
+
+verpflichtet sich hiermit gegenüber
+
+[Rechteinhaberin / Abmahnerin]
+
+es unter Vermeidung einer für jeden Fall der schuldhaften
+Zuwiderhandlung zu zahlenden Vertragsstrafe,
+
+deren Höhe durch die Gläubigerseite nach billigem Ermessen
+§ 315 BGB zu bestimmen ist, und die im Streitfall durch
+das zuständige Gericht überprüft werden kann,
+
+zu unterlassen:
+
+das nachfolgend bezeichnete Werk [Beschreibung des Werks:
+z.B. Lichtbild mit Motiv [...], erstmals veröffentlicht am
+[Datum] unter der URL [URL] bzw. in der Veröffentlichung
+[Bezeichnung]]
+
+durch Vervielfältigung (§ 16 UrhG) oder öffentliche
+Zugänglichmachung (§ 19a UrhG) ohne Zustimmung der
+Rechteinhaberin zu nutzen.
+
+Die vorstehende Erklärung:
+– gilt für die vorstehend konkret bezeichnete Verletzungsform
+  und kerngleiche Handlungen im Sinne der Rechtsprechung des BGH
+– enthält kein Anerkenntnis von Schadensersatzansprüchen (§ 97
+  Abs. 2 UrhG) dem Grunde oder der Höhe nach
+– enthält kein Anerkenntnis von Auskunftsansprüchen (§ 101 UrhG)
+– enthält kein Anerkenntnis von Kostenforderungen;
+  hilfsweise werden diese auf den Rahmen des § 97a Abs. 3 UrhG
+  begrenzt (Gegenstandswert EUR 1.000)
+
+Diese Erklärung wird unter dem Vorbehalt der Annahme
+durch die Gläubigerseite abgegeben (§ 130 BGB).
+
+[Ort, Datum]
+[Unterschrift Mandant]
+```
+
+### Baustein 2 – Begleitschreiben mit Bestreiten
+
+```
+An [Abmahnkanzlei]
+Aktenzeichen: [...]
+
+Ihre Abmahnung vom [Datum]
+
+Sehr geehrte Damen und Herren,
+
+wir zeigen die anwaltliche Vertretung von [Mandant] an.
+
+Beigefügt übersenden wir eine modifizierte strafbewehrte
+Unterlassungserklärung ausschließlich zur Beseitigung
+etwaiger Wiederholungsgefahr.
+
+Wir weisen ergänzend darauf hin:
+
+1. Die Verletzungshandlung wird dem Grunde nach bestritten.
+   [Konkret: Werk war lizenzfrei / Handlung war nach § 51 UrhG
+   gestattet / Mandant hat die Handlung nicht begangen.]
+
+2. Die Aktivlegitimation Ihrer Mandantschaft wird bestritten.
+   Bitte übersenden Sie binnen [7] Tagen die vollständige
+   Lizenzurkunde oder den Rechtsübertragungsvertrag.
+
+3. Schadensersatzansprüche werden vollumfänglich bestritten.
+   Der behauptete Schaden in Höhe von EUR [X] ist nicht
+   substantiiert; Berechnungsgrundlage und Tarif werden nicht
+   akzeptiert.
+
+4. Die Kostenforderung in Höhe von EUR [X] wird bestritten.
+   [Soweit Mandant Verbraucher:] § 97a Abs. 3 UrhG begrenzt
+   den erstattungsfähigen Gegenstandswert auf EUR 1.000.
+
+Die modifizierte Unterlassungserklärung dient ausschließlich
+der Beseitigung der Wiederholungsgefahr und begründet keinerlei
+Anerkenntnis. Bitte bestätigen Sie die Annahme schriftlich.
+
+Bitte teilen Sie uns binnen [7] Tagen mit, ob die Erklärung
+zur Erledigung der geltend gemachten Ansprüche hinsichtlich
+der Unterlassung ausreicht.
+
+[Ort, Datum]
+[Kanzlei, Unterschrift]
+```
+
+### Baustein 3 – Negative Feststellungsklage (unberechtigte Abmahnung)
+
+```
+AN DAS LANDGERICHT [...]
+(= Gerichtsstand am Wohnsitz des Abgemahnten nach § 256 ZPO i.V.m.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Kläger: [Mandant, Anschrift]
+Beklagte: [Abmahnerin, Anschrift]
+
+Streitwert: [= behaupteter Hauptanspruch; z.B. EUR 10.000]
+
+KLAGEBEGRÜNDUNG – NEGATIVE FESTSTELLUNGSKLAGE
+
+Es wird beantragt festzustellen, dass der Beklagten gegen-
+über dem Kläger kein Anspruch auf Unterlassung, Schadensersatz
+oder Auskunft aus der Nutzung des Werks [Bezeichnung] zusteht.
+
+Begründung:
+
+I. Zulässigkeit, § 256 ZPO:
+Die Beklagte hat den Kläger mit Schreiben vom [Datum] abgemahnt
+und konkrete Ansprüche geltend gemacht. Das rechtliche Interesse
+des Klägers an der Feststellung des Nichtbestehens dieser
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+II. Begründetheit:
+[Werkqualität verneint / Aktivlegitimation fehlt / Schranken
+greifen (§ 51, § 51a, § 53 UrhG) / keine Verletzungshandlung
+des Klägers nachweisbar]
+
+[Ort, Datum, Unterschrift Kanzlei]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+---
+
+## Beweislast
+
+| Konstellation | Beweislast |
+|---|---|
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Vertragsstrafe (Hamburger Brauch) | Gläubiger bestimmt nach § 315 BGB; Schuldner kann gerichtliche Überprüfung beantragen |
+| Schadensersatz bei Verstoß gegen UE | Gläubiger trägt Verstoß und Verschulden |
+| Negative Feststellungsklage | Kläger trägt Feststellungsinteresse; Beklagte trägt Bestand des behaupteten Anspruchs |
+
+---
+
+## Fristen und Verjährung
+
+| Frist | Inhalt | Norm |
+|---|---|---|
+| Abmahnfrist (gesetzt) | Typisch 5–14 Tage; Fristversäumnis ermöglicht EV-Antrag des Abmahners | § 97a UrhG |
+| Schutzschrift | Bei drohender EV: sofort hinterlegen | § 945a ZPO |
+| Negative Feststellungsklage | Unverzüglich nach Abmahnung; schafft günstigen Gerichtsstand | § 256 ZPO |
+| 3 Jahre | Verjährung des Unterlassungsanspruchs ab Kenntnis der Verletzung | § 102 UrhG, § 195 BGB |
+| Verwirkung | Untätigkeit über mehrere Monate nach Kenntnis der Verletzung; Zeitmoment + Umstandsmoment | § 242 BGB |
+
+---
+
+## Typische Gegenargumente
+
+| Gegenargument | Erwiderung |
+|---|---|
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Hamburger Brauch reicht nicht; wir brauchen feste EUR 10.000" | § 315 BGB: Gläubiger kann Betrag nach billigem Ermessen bestimmen; Gericht kontrolliert; feste überhöhte Beträge können nach § 307 BGB unwirksam sein |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Keine Anerkennung von Kosten ist treuwidrig" | § 97a Abs. 3 UrhG: Kostenerstattung begrenzt; Bestreiten ist kein Treuwidrigkeitsvorwurf sondern Rechtsverfolgung |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Berechnung |
+|---|---|
+| Streitwert Unterlassung | Typisch EUR 6.000–50.000 je nach Reichweite und Bekanntheit des Werks |
+| Abmahnkosten bei Verbraucher § 97a Abs. 3 UrhG | Gegenstandswert EUR 1.000 → ca. EUR 124 netto Anwaltsgebühr (VV-RVG 2300, 1.3) |
+| Abmahnkosten bei Unternehmen | Nach Streitwert; EUR 500–2.500 je nach Gegenstandswert |
+| Vertragsstrafe (Hamburger Brauch) | Richterliche Festsetzung; bei einfachem Verstoß EUR 500–3.000; bei gewerblichem höher |
+| Gerichtskosten negative Feststellungsklage | Voller Streitwert des Unterlassungsanspruchs; LG bei Streitwert über EUR 10.000 |
+
+---
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Verletzung klar, Abmahner hat starke Position | Modifizierte UE abgeben; Hamburgeer Brauch nutzen; Schadensersatz und Kosten separat verhandeln |
+| Verletzung zweifelhaft, Aktivlegitimation unklar | Abmahnung zurückweisen; Belege anfordern; negative Feststellungsklage bei Weiterverfolgen |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Mehrfachverletzungen in Vergangenheit | Höheres Vertragsstrafenrisiko; sorgfältige Reichweitenbegrenzung der UE wichtig |
+| Schutzschrift sinnvoll | Sobald EV-Antrag erwartet wird; bei großen Kanzleien mit bekanntem EV-Muster |
+
+---
+
+## Anschluss-Skills
+
+- `urheber-abmahnung-pruefen` – vollständige Abmahnprüfung vor UE-Abgabe
+- `fachanwalt-urheber-medienrecht-abmahnung-pruefen` – ergänzende Analyse
+- `gegendarstellung-presse` – bei persönlichkeitsrechtlichem Medienkontext
+- `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` – UE-Abgabe bei KI-Trainingsdaten-Streit
+
+---
+
+## Quellen
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Triage-Fragen bei Mod-Erklaerung
+
+Bevor die modifizierte Unterlassungserklaerung abgegeben wird, klaere:
+1. Deckt die modifizierte UE die konkrete Verletzungsform vollstaendig ab — oder bleibt eine Luecke, die den Abmahner zur Klage zwingt?
+2. Enthalt die UE eine Globalisierungsklausel — wenn ja, ist diese auf das konkret Beanstandete begrenzt?
+3. Ist die Vertragsstrafe nach Hamburger Brauch oder als Festbetrag formuliert (Abwaegung Flexibilitaet vs. Planungssicherheit)?
+4. Wurde die Schutzschrift eingereicht, falls ein EV-Antrag erwartet wird?
+
+## Aktuelle Rechtsprechung
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+---
+
+## Skill: `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out`
+
+_Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll. § 44b UrhG TDM §§ 87a ff. UrhG Datenbankschutz DSA. Prüfraster: Opt-out-Erklärung Maschinenlesbarkeit Robots.txt rechtliche Wirkung Rechteinhaber. Output: Opt-out-Erklärung technische Anleitung Prüfprotokoll. Abgrenzung: nicht für allgemeine KI-Lizenzfragen._
+
+# TDM § 44b UrhG – KI-Training und Opt-out
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -592,7 +1214,7 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 8. Ist der Mandant Einzelurheber oder Mitglied einer Verwertungsgesellschaft (VG Wort, GEMA, VG Bild-Kunst)?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -643,16 +1265,17 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — TDM § 44b UrhG KI-Training Opt-Out | Opt-Out-Erklaerung; Template unten |
-| Variante A — Mandant will KI-Training erlauben | Lizenzvertrag statt Opt-Out; gesonderte Vergütung |
-| Variante B — Bereits laufendes KI-Training | Opt-Out für Zukunft; Schadensersatz für Vergangenheit prüfen |
+| Variante A — Mandant will KI-Training erlauben | Lizenzvertrag statt Opt-Out; gesonderte Verguetung |
+| Variante B — Bereits laufendes KI-Training | Opt-Out fuer Zukunft; Schadensersatz fuer Vergangenheit pruefen |
 | Variante C — EU-DSA / Digital-Markets-Act beruehrt | Plattform-spezifische Opt-Out-Mechanismen zusaetzlich |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -690,19 +1313,19 @@ Disallow: /
 User-agent: FacebookBot
 Disallow: /
 
-### Generelle TDM-Reservation gemäß § 44b Abs. 3 UrhG /
-### Art. 4 Abs. 3 DSM-RL / Art. 53 KI-VO
-### Text and Data Mining for AI Training: PROHIBITED
-### TDM Reservation Notice: no AI training on this content
-### Stand: [Datum]
+# Generelle TDM-Reservation gemäß § 44b Abs. 3 UrhG /
+# Art. 4 Abs. 3 DSM-RL / Art. 53 KI-VO
+# Text and Data Mining for AI Training: PROHIBITED
+# TDM Reservation Notice: no AI training on this content
+# Stand: [Datum]
 ```
 
 ```
 <!-- EXIF/Metadaten für Bilder -->
 Copyright: [Name] [Jahr]
 Rights: TDM Reservation § 44b Abs. 3 UrhG.
- AI Training PROHIBITED.
- Contact: [E-Mail] for licensing.
+        AI Training PROHIBITED.
+        Contact: [E-Mail] for licensing.
 ```
 
 ### Baustein 2 – Abmahnung KI-Anbieter (§ 97a UrhG)
@@ -748,17 +1371,17 @@ II. FORDERUNGEN
 Wir fordern Sie auf binnen [14 Tagen]:
 
 1. Abgabe einer strafbewehrten Unterlassungserklärung
- bzgl. jeglicher Verwendung der genannten Werke für
- KI-Trainingszwecke ohne ausdrückliche Einwilligung.
+   bzgl. jeglicher Verwendung der genannten Werke für
+   KI-Trainingszwecke ohne ausdrückliche Einwilligung.
 
 2. Erteilung von Auskunft gemäß § 101 UrhG über:
- – Welche Werke wurden in welchem Datenset verwendet?
- – Welche KI-Modelle wurden damit trainiert?
- – Wann und in welchem Umfang erfolgte die Erhebung?
+   – Welche Werke wurden in welchem Datenset verwendet?
+   – Welche KI-Modelle wurden damit trainiert?
+   – Wann und in welchem Umfang erfolgte die Erhebung?
 
 3. Zahlung von Schadensersatz (§ 97 Abs. 2 UrhG,
- Lizenzanalogie). Unser vorläufiger Ansatz beträgt
- EUR [X].
+   Lizenzanalogie). Unser vorläufiger Ansatz beträgt
+   EUR [X].
 
 [Ort, Datum, Unterschrift Kanzlei]
 ```
@@ -875,9 +1498,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Triage-Fragen bei TDM/KI-Training-Opt-out-Mandat
 
 Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
-1. War das urheberrechtlich geschuetzte Werk öffentlich zugaenglich (§ 44b I UrhG — Erlaubnis nur bei rechtmäßigem Zugang)?
+1. War das urheberrechtlich geschuetzte Werk oeffentlich zugaenglich (§ 44b I UrhG — Erlaubnis nur bei rechtmaessigem Zugang)?
 2. Wurde ein Opt-out vor dem Trainings-Zeitpunkt erklaert (maschinenlesbar: robots.txt, TDM Reserved Right)?
-3. Liegen Nachweise dafür vor, dass ein KI-Anbieter das Werk tatsaechlich verwendet hat (Modellergebnis, Trainingsdaten-Erklaerung)?
+3. Liegen Nachweise dafuer vor, dass ein KI-Anbieter das Werk tatsaechlich verwendet hat (Modellergebnis, Trainingsdaten-Erklaerung)?
 4. Ist § 60d UrhG (Wissenschaftliches TDM) als Privilegierungstatbestand einschlaegig?
 
 ## Aktuelle Rechtsprechung
@@ -890,183 +1513,175 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 
 ## Faktische Updates (Stand 05/2026)
 
-- **§ 44b UrhG / Art. 4 Abs. 3 DSM-RL:** TDM-Opt-out muss "maschinenlesbar" sein. Welche Form (robots.txt, ai.txt, TDM Reservation Protocol, REP-Erweiterungen, EXIF/IPTC, Sidecar-Files, NoAI-Meta-Tag) ausreichend ist, ist hoechstrichterlich nicht abschliessend geklaert. Konkrete EuGH- und BGH-Verfahren live über curia.europa.eu / dejure.org verifizieren (Stichworte: TDM, Art. 4 DSM-RL).
-- **KI-VO Art. 53 Abs. 1 lit. c und d:** Seit 02.08.2025 müssen GPAI-Anbieter eine Urheberrechts-Compliance-Strategie implementieren und eine Trainingsdaten-Zusammenfassung im EU-AI-Office-Template veröffentlichen. Quelle: VO (EU) 2024/1689 — eur-lex.europa.eu/eli/reg/2024/1689/oj. Stand des Templates und Veroeffentlichungs-Status der einzelnen Modelle live prüfen.
-- **GPAI Code of Practice — Saeule Urheberrecht:** Der EU-AI-Office-Code enthaelt eine Urheberrechts-Saeule (TDM-Vorbehalt-Detektion, Lizenz-Trail, Take-down-Verfahren); bei Anschluss Anbieter-Vermutung der Compliance. Aktuelle Fassung live über digital-strategy.ec.europa.eu prüfen.
-- **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live über dejure.org und openjur.de verifizieren.
-- **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live über nationale Gerichtsdatenbanken und curia.europa.eu prüfen.
-- **DSA + Empfehlungssysteme:** Falls KI-generierte Inhalte über VLOPs verbreitet werden, parallele DSA-Pflichten beachten (Art. 28 Abs. 2 DSA — Minderjaehrigenschutz, Art. 34 DSA — Risikobewertung).
+- **§ 44b UrhG / Art. 4 Abs. 3 DSM-RL:** TDM-Opt-out muss "maschinenlesbar" sein. Welche Form (robots.txt, ai.txt, TDM Reservation Protocol, REP-Erweiterungen, EXIF/IPTC, Sidecar-Files, NoAI-Meta-Tag) ausreichend ist, ist hoechstrichterlich nicht abschliessend geklaert. Konkrete EuGH- und BGH-Verfahren live ueber curia.europa.eu / dejure.org verifizieren (Stichworte: TDM, Art. 4 DSM-RL).
+- **KI-VO Art. 53 Abs. 1 lit. c und d:** Seit 02.08.2025 muessen GPAI-Anbieter eine Urheberrechts-Compliance-Strategie implementieren und eine Trainingsdaten-Zusammenfassung im EU-AI-Office-Template veroeffentlichen. Quelle: VO (EU) 2024/1689 — eur-lex.europa.eu/eli/reg/2024/1689/oj. Stand des Templates und Veroeffentlichungs-Status der einzelnen Modelle live pruefen.
+- **GPAI Code of Practice — Saeule Urheberrecht:** Der EU-AI-Office-Code enthaelt eine Urheberrechts-Saeule (TDM-Vorbehalt-Detektion, Lizenz-Trail, Take-down-Verfahren); bei Anschluss Anbieter-Vermutung der Compliance. Aktuelle Fassung live ueber digital-strategy.ec.europa.eu pruefen.
+- **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live ueber dejure.org und openjur.de verifizieren.
+- **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live ueber nationale Gerichtsdatenbanken und curia.europa.eu pruefen.
+- **DSA + Empfehlungssysteme:** Falls KI-generierte Inhalte ueber VLOPs verbreitet werden, parallele DSA-Pflichten beachten (Art. 28 Abs. 2 DSA — Minderjaehrigenschutz, Art. 34 DSA — Risikobewertung).
 
 ---
 
-## Skill: `urhmr-einfuehrung-rechtsfelder`
+## Skill: `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung`
 
-_Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-, Rundfunkrecht), Wettbewerbsrecht UWG, Telekommunikations- und Telemedienrecht: Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsge..._
+_Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfraster: Nutzungsrechtsart ausschließlich einfach territorial zeitlich Verguetung Sublizenz Rückruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht für Abmahnung oder Gegendarstellung._
 
-# Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-, Rundfunkrecht), Wettbewerbsrecht UWG, Telekommunikations- und Telemedienrecht
+# Lizenzvertrag-Verhandlung
 
+## Zweck
 
-## Arbeitsweg
+Verhandlung Lizenz-Vertrag für urheberrechtlich geschuetzte Werke.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
-- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1) Lizenz-Arten § 31 UrhG
 
-**Fokus:** Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-, Rundfunkrecht), Wettbewerbsrecht UWG, Telekommunikations- und Telemedienrecht. Entscheidungstabelle.
+### Ausschließliches Nutzungsrecht
 
-### UrhMR: Rechtsfelder
+- Lizenznehmer allein
+- Auch ohne Urheber möglich
+- Schutz gegen Dritte
 
-## Spezialwissen: UrhMR: Rechtsfelder
-- **Normen-/Quellenanker:** UrhG, UWG.
+### Einfaches Nutzungsrecht
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+- Mehrere Lizenznehmer möglich
+- Keine Ausschliessung Dritter
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+## 2) Lizenz-Reichweite
 
-## Prüfraster
+### Sachlich
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+- Welches Werk?
+- Welche Verwertungs-Art? (§§ 15 ff. UrhG)
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### Raeumlich
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+- Gebiet (DE, EU, Welt)
+- Bei online: technisch begrenzbar?
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+### Zeitlich
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Befristet oder unbegrenzt
+- Verlängerungs-Option
 
----
+### Sprachlich / Medial
 
-## Skill: `urhmr-ki-generierter-content-spezial`
+- Sprache des Werks
+- Medium (Print, Digital, Audio)
 
-_Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art: Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne mens..._
+## 3) Vergütung § 32 UrhG
 
-# Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art
+### Angemessenheit
 
+- BGH-Linie: Verkehrs-Wert
+- Bei sittenwidrig niedriger Vergütung: Anpassungs-Anspruch
 
-## Arbeitsweg
+### Modelle
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
-- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Pauschal
+- Fix-Betrag
+- Beteiligung (z.B. 10 % Umsatz)
+- Stückweise (Verkaufs-Auflage)
 
-**Fokus:** Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art. 50, Haftung Plattform. Prüfraster.
+### Bestseller-Klausel § 32a UrhG
 
-### UrhMR: KI-Content
+- Bei Erfolg über Erwartung: Nach-Vergütung
 
-## Spezialwissen: UrhMR: KI-Content
-- **Normen-/Quellenanker:** KI, BGH, UrhG, TDM, VO, Art. 50.
+### Vergütungs-Verhandlung kollektiv
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+- VG Wort, VG Bild-Kunst
+- GEMA bei Musik
+- Tariftabellen als Orientierung
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+## 4) Pflichten Lizenznehmer
 
-## Prüfraster
+### Verwertungs-Pflicht
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+- Bei ausschließlicher Lizenz: Pflicht zur Verwertung
+- Bei Nicht-Verwertung: Rückruf-Recht § 41 UrhG
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### Abrechnungs-Pflicht
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+- Jaehrliche Abrechnung
+- Prüfungs-Recht Urheber
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+### Schutz des Werks
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Veröffentlichungs-Recht
+- Anonymitaet Urheber-Wunsch
 
----
+## 5) Workflow
 
-## Skill: `urhmr-presserecht-gegendarstellung-spezial`
+### Phase 1 — Vertragsentwurf
 
-_Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet: Spezialfall presserechtliche Gegendarstellung: Landespresse..._
+- Detail-Definition Werk
+- Verwertungs-Arten
+- Vergütungs-Modell
 
-# Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet
+### Phase 2 — Verhandlung
 
+- Marktvergleich
+- Schlüsselbedingungen
+- Sonderrechte (Endorsement, Promotion)
 
-## Arbeitsweg
+### Phase 3 — Abschluss
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
-- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Schriftform empfohlen (§ 40 UrhG bei kuenftigen Werken)
+- Klare Reichweite
 
-**Fokus:** Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet. Prüfraster und Mustertext.
+### Phase 4 — Laufende Pflichten
 
-### UrhMR: Gegendarstellung
+- Abrechnungen prüfen
+- Bei Verstoß: Verzug-Mahnung
 
-## Spezialwissen: UrhMR: Gegendarstellung
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+## 6) Vertragsbeendigung
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+### Rückruf § 41 UrhG (Nicht-Verwertung)
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+- Nach 2 Jahren
+- Mit Frist
 
-## Prüfraster
+### Rückruf § 42 UrhG (gewandelte Überzeugung)
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+- Bei gewandelter UEberzeugung Urheber
+- Schadensersatz-Pflicht
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### Ordentliche Kündigung
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+- Vertraglich vereinbart
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+## 7) Spezial-Konstellationen
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+### Buchverlag
+
+- Standard-Verträge Verlag
+- Verlag-Verband (VS)-Linie
+
+### Filmproduktion
+
+- Komplex (Drehbuch, Regie, Darsteller, Komposition)
+- ggf. Verzicht VG Wort
+
+### Software-Lizenz
+
+- Andere Vorschriften §§ 69a ff. UrhG
+- Eigene Verhandlungs-Logik
+
+## 8) Typische Fehler
+
+1. **Reichweite zu weit oder zu eng**
+2. **Vergütung pauschal ohne Bestseller-Klausel**
+3. **Kündigungs-Option fehlt**
+4. **Schriftform versäumt bei kuenftigen Werken**
+5. **Lizenz-Kette nicht geprüft**
+
+## 9) BGH-Linien und aktuelle Rechtsprechung
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Anschluss
+
+- `fachanwalt-urheber-medienrecht-gegendarstellung-presse` — bei Presse-Recht
+- `fachanwalt-urheber-medienrecht-filesharing-verteidigung` — bei Abmahnung
+- `markenrecht-fashion-luxus` — bei Marken-Bezug
 
 ---
 

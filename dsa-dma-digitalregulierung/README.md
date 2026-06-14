@@ -59,7 +59,7 @@ Stand: 2026. DSA voll anwendbar seit 17.02.2024. DMA-Gatekeeper-Designation seit
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -83,6 +83,7 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `dsa-art-40-forschungsdatenzugang-algorithmen` | Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung), Delegierte VO (EU)... |
 | `dsa-eidas-einordnung` | DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `dsa-internes-beschwerdesystem-aufbau` | Internes Beschwerdesystem nach Art. 20 DSA aufbauen: Beschwerden gegen Inhaltsentscheidungen, Sperrungen, Kontosperren, Demonetarisierung. Fristen, Begruendungspflichten, menschliche Prüfung, Statement of Reasons. Technische Anforderunge... |
+| `dsa-krisenreaktionsmechanismus-art-36` | Krisenreaktionsmechanismus Art. 36 DSA: Aktivierung durch EU-Kommission bei aussergewoehnlichen Umstaenden (Krieg, Pandemie, Terroranschlag). Pflichten der VLOP zur Risikobewertung und Massnahmen, Reporting, Dauer max. 3 Monate verlaenge... |
 | `dsa-pflichten-pyramide-uebersicht` | Pflichtenpyramide DSA einfuehrend erklaeren: alle Vermittlungsdienste (Art. 11 ff. DSA), Hosting-Dienste, Online-Plattformen, VLOP (very large online platforms ab 45 Mio. EU-Nutzer). Jede Stufe baut auf der vorigen auf. Tabelle mit Pflic... |
 | `dsa-systemic-risk-assessment-pruefen` | Spezialfall Systemic-Risk-Assessment Art. 34 DSA: Methode der VLOP-Risikobewertung prüfen, vier Kategorien (illegale Inhalte, Grundrechte, Wahlen, Wohlbefinden Minderjaehriger), Independent Audit Art. 37. Prüfraster und Mustertext im Dsa... |
 | `dsa-trusted-flagger-anerkennung` | Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deuts... |
@@ -105,6 +106,8 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `risikobewertung-compliance-dokumentation-und-akte` | Risikobewertung: Compliance-Dokumentation und Aktenvermerk. |
 | `sperre-formular-portal-und-einreichung` | Sperre: Formular, Portal und Einreichungslogik. |
 | `sperre-vertreter-beweislast` | Schwellen: Verhandlung, Vergleich und Eskalation. |
+| `spezial-vlop-livequellen-und-rechtsprechungscheck` | Vlop: Livequellen- und Rechtsprechungscheck. |
+| `spezial-zustellung-red-team-und-qualitaetskontrolle` | Zustellung: Red-Team und Qualitätskontrolle. |
 | `transparenzbericht-erstellung-trusted-flagger` | Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behördenanordnungen (Loeschung, Auskunft), Nutzermeldungen, eigene Inhaltsmoderation, automatisierte Tools, Statement of Reasons, Beschwerden. Format-Anforderungen der EU-Kommissio... |
 | `transparenzbericht-fristennotiz-dsa-dma` | Transparenzbericht: Fristennotiz und nächster Schritt. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für DSA/DMA Digitalregulierung: trennt fehlende Tatsachen von fehlenden Belegen (AGB, Risikobewertung, Transparenzberichte), nennt pro Lücke Beweisthema, Beschaffungsweg (EU-Kommission), Frist und Ersatznach... |
@@ -113,7 +116,9 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `werbearchiv-aufbauen-klage-gegen-account` | Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap für VLOP zur technischen Umsetzung i... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Dsa Dma Digitalregulierung. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Dsa Dma Digitalregulierung. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Dsa Dma Digitalregulierung. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zustellung-fehlerkatalog` | Zustellung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `zustellung-und-vertreter-art-13-dsa-art-37-dma` | Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Kläger will Schriftstuecke zustellen oder Behörde will Plattform erreichen: Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten:... |
 

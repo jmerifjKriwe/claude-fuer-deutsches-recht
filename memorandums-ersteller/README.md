@@ -44,7 +44,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -93,6 +93,8 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `sachverhalt-fixieren-vier-teile` | Sachverhalt sauber fixieren: zeitliche, raeumliche, personelle Ordnung, Unterscheidung 'unstreitig' / 'streitig' / 'unklar' / 'Annahme'. Vermeidet juristisches Wertvokabular im Sachverhalt. Markiert Tatsachen, für die Belege im Mandanten... |
 | `sachverhalt-verhandlung-vergleich-und-eskalation` | Sachverhalt: Verhandlung, Vergleich und Eskalation. |
 | `satz-zahlen-schwellen-und-berechnung` | Satz: Zahlen, Schwellenwerte und Berechnung. |
+| `spezial-pinpoint-red-team-und-qualitaetskontrolle` | Pinpoint: Red-Team und Qualitätskontrolle. |
+| `spezial-quellenreferenz-livequellen-und-rechtsprechungscheck` | Quellenreferenz: Livequellen- und Rechtsprechungscheck. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Memorandums Ersteller-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei D... |
 | `teile-vier-wandelt` | Teile: Behörden-, Gerichts- oder Registerweg. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Memorandum-Ersteller: trennt fehlende Tatsachen von fehlenden Belegen (Sachverhalt, Quellen, Vorergebnisse), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatznachweis. |
@@ -100,7 +102,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `wandelt-erstpruefung-und-mandatsziel` | Wandelt: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Memorandums Ersteller. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Memorandums Ersteller. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Memorandums Ersteller. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zitierung-mandantenkommunikation-entscheidungsvorlage` | Zitierung: Mandantenkommunikation und Entscheidungsvorlage: Zitierung: Mandantenkommunikation und Entscheidungsvorlage. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

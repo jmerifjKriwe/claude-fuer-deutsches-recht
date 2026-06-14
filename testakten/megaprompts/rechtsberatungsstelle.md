@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `rechtsberatungsstelle`.
+Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `rechtsberatungsstelle`.
 
 ## Inhaltsverzeichnis
 

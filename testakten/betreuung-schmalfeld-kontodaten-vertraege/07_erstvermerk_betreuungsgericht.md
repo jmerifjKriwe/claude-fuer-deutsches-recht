@@ -47,4 +47,3 @@ Unstimmigkeiten mit der Bank abgeglichen werden.
 - IT-Prüfbericht zu Fernwartungssoftware,
 - Leistungsnachweise private Pflege-/Haushaltshilfe,
 - Liefer- und Verwahrnachweise für Gold und Diamant.
-

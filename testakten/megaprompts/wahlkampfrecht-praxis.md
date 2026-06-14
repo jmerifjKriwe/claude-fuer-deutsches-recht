@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 118 Skills (gekuerzt fuer Chat-Fenster) des Plugins `wahlkampfrecht-praxis`.
+Dieser Megaprompt enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `wahlkampfrecht-praxis`.
 
 ## Inhaltsverzeichnis
 

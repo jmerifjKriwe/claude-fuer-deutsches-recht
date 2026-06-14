@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 99 Skills des Plugins `gesellschaftsrechtliche-treuepflicht`.
+Dieser Megaprompt enthaelt top-10 von 100 Skills des Plugins `gesellschaftsrechtliche-treuepflicht`.
 
 ## Inhaltsverzeichnis
 

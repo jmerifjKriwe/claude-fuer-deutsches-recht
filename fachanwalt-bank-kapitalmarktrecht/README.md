@@ -49,7 +49,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -85,6 +85,15 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 | `emissionsprospekt-mandantenentscheidung` | Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage: Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturier... |
 | `erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` | Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Si... |
+| `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht kreditkuendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb` | Bank kündigt Kredit nach § 490 BGB wegen wesentlicher Vermögensverschlechterung und Mandant braucht Sofort-Strategie. AGB-Banken Nr. 19. Normen § 490 BGB § 314 BGB AGB-Banken Nr. 19 26. Prüfraster Kündigungs-Voraussetzungen Ankündigungsf... |
+| `fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin` | Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin. MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art. 36-38. Normen MiCA Art. 16-21 KWG WpIG BaFin-Merkblatt. Prüf... |
+| `fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung` | Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Prüfraster Zula... |
+| `fachanwalt-bank-kapitalmarktrecht-orientierung` | Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB... |
+| `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa eintrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fehlerhaft-fristennotiz-und-naechster-schritt` | Fehlerhaft: Fristennotiz und nächster Schritt: Fehlerhaft: Fristennotiz und nächster Schritt. |
 | `gesellschaftsrecht-mehrparteien-konflikt-und-interessen` | Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix: Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix. |
 | `haftung-beweislast-und-darlegungslast` | Haftung: Beweislast, Darlegungslast und Substantiierung: Haftung: Beweislast, Darlegungslast und Substantiierung. |
@@ -112,6 +121,9 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage auf Schadensersatz aus Falschberatung, Widerrufsklage Verbraucherdarlehen: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau: Substanti... |
 | `schufa-eintrag` | Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag: ordnet Normen, Nutzerangaben,... |
 | `schufa-loeschungsanspruch` | Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch: ordnet... |
+| `spezial-bankaufsicht-erlaubnis-und-vertrieb` | Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
+| `spezial-immobiliendarlehen-red-team-und-qualitaetskontrolle` | Immobiliendarlehen: Red-Team und Qualitätskontrolle. |
+| `spezial-vermoegensanlage-livequellen-und-rechtsprechungscheck` | Vermoegensanlage: Livequellen- und Rechtsprechungscheck. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Bank- und Kapitalmarktrecht: trennt fehlende Tatsachen von fehlenden Belegen (Darlehensvertrag, Wertpapierorder, Beratungsprotokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (BaFin), Fris... |
 | `verbraucherkredit-verhandlung-vergleich-und-eskalation` | Verbraucherkredit: Verhandlung, Vergleich und Eskalation: Verbraucherkredit: Verhandlung, Vergleich und Eskalation. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Bank-, Kapitalmarkt- und Wertpapierrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverha... |
@@ -121,8 +133,10 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 | `widerrufsjoker-immobiliendarlehen` | Widerrufsjoker Immobiliendarlehen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Widerrufsjoker Immobiliendarlehen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizie... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `wphg-dokumentenmatrix-und-lueckenliste` | Wphg: Dokumentenmatrix, Lückenliste und Nachforderung: Wphg: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `wpig-risikoampel-und-gegenargumente` | Wpig: Risikoampel, Gegenargumente und Verteidigungslinien: Wpig: Risikoampel, Gegenargumente und Verteidigungslinien. |
 

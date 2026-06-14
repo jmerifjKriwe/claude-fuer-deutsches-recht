@@ -132,7 +132,7 @@ Ergänzt sind Spezialskills zur Methodenehrlichkeit: Gesetzesbindung, Richterrec
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 136 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 158 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -243,6 +243,26 @@ Automatisch generierte Komplett-Liste aller 136 Skills in diesem Plugin. Beschre
 | `rueckwirkung-und-ueberraschende-rechtsfortbildung` | Prüft Rueckwirkung, Vertrauensschutz und Ueberraschung bei neuer Auslegung oder Rechtsfortbildung im Zivilrecht mit Art: 20 Abs. 3 GG,... |
 | `sachverhalt-als-wertungsprodukt` | Dieses Skill zeigt, dass die juristische Sachverhaltserfassung kein neutraler Beschreibungsakt ist, sondern ein wertungsgeleiteter Auswahlprozess. Es trainiert die Fähigkeit, implizite Wertungen bei der Sachverhaltserhebung zu erkennen,... |
 | `savigny-vier-auslegungsmethoden` | Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhältnis zur modernen pragmatischen Auslegung. Klaert, warum die BG... |
+| `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg` | Anspruchsgrundlagen: Behörden-, Gerichts- oder Registerweg. |
+| `spezial-anwaltsperspektive-dokumentenmatrix-und-lueckenliste` | Anwaltsperspektive: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `spezial-auslegung-verhandlung-vergleich-und-eskalation` | Auslegung: Verhandlung, Vergleich und Eskalation. |
+| `spezial-buergerlichen-fristen-form-und-zustaendigkeit` | Buergerlichen: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `spezial-buergerliches-abschlussprodukt-und-uebergabe` | Buergerliches: Abschlussprodukt und Übergabe. |
+| `spezial-gutachtenstil-risikoampel-und-gegenargumente` | Gutachtenstil: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `spezial-historie-compliance-dokumentation-und-akte` | Historie: Compliance-Dokumentation und Aktenvermerk. |
+| `spezial-lueckenfuellung-sonderfall-und-edge-case` | Lueckenfuellung: Sonderfall und Edge-Case-Prüfung. |
+| `spezial-methodenlehre-erstpruefung-und-mandatsziel` | Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `spezial-pragmatisch-internationaler-bezug-und-schnittstellen` | Pragmatisch: Internationaler Bezug und Schnittstellen. |
+| `spezial-rechtsanwendung-tatbestand-beweis-und-belege` | Rechtsanwendung: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine` | Reihenfolge: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `spezial-starren-formular-portal-und-einreichung` | Starren: Formular, Portal und Einreichungslogik. |
+| `spezial-system-zahlen-schwellen-und-berechnung` | System: Zahlen, Schwellenwerte und Berechnung. |
+| `spezial-telos-mehrparteien-konflikt-und-interessen` | Telos: Mehrparteienkonflikt und Interessenmatrix. |
+| `spezial-unionsrechtskonforme-beweislast-und-darlegungslast` | Unionsrechtskonforme: Beweislast, Darlegungslast und Substantiierung. |
+| `spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage` | Verfassungs: Mandantenkommunikation und Entscheidungsvorlage. |
+| `spezial-verjaehrung-fristennotiz-und-naechster-schritt` | Verjaehrung: Fristennotiz und nächster Schritt. |
+| `spezial-vorrang-red-team-und-qualitaetskontrolle` | Vorrang: Red-Team und Qualitätskontrolle. |
+| `spezial-wortlaut-livequellen-und-rechtsprechungscheck` | Wortlaut: Livequellen- und Rechtsprechungscheck. |
 | `starren-formular-portal-und-einreichung` | Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht: Dieses Skill behandelt die methodisch korrekte Handha... |
 | `system-zahlen-schwellen-und-berechnung` | Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess: Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsf... |
 | `systematische-auslegung` | Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Kon... |
@@ -268,8 +288,10 @@ Automatisch generierte Komplett-Liste aller 136 Skills in diesem Plugin. Beschre
 | `wertungsjurisprudenz-larenz-canaris` | Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm Canaris. Methodische Hauptstroemung der deutschen Privatrechtslehre seit der Nachkriegszeit. Larenz, Methodenlehre der Rechtswissenschaft 1960 (6. Aufl. 1991). Canaris, Systemdenken... |
 | `workflow-chronologie-und-belegmatrix` | Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat: Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegm... |
 | `workflow-fristen-und-risikoampel` | Dieses Skill bearbeitet die systematische Fristenüberwachung mit einer integrierten Risikoampel für zivilrechtliche Mandate: Es zeig... |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate: Es zeigt, wie rechtliche Einschätzungen mandantengere... |
 | `workflow-redteam-qualitygate` | Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse: Dieses Skill strukturiert das Red-Team-Quality-Gate als systemati... |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `wortlaut-grammatikalische-auslegung` | Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinition... |
 | `wortlaut-quellenkarte` | Wortlaut Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 

@@ -46,7 +46,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 79 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 80 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -107,6 +107,7 @@ Automatisch generierte Komplett-Liste aller 79 Skills in diesem Plugin. Beschrei
 | `schoeffe-dolmetscher-sitzung` | Schöffe und Dolmetscher (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Verdolmetschung, Verständnisprobleme, Nachfragen und Protokollklarheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im S... |
 | `schoeffe-ermuedung-komplexverfahren` | Ermüdung im Komplexverfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck i... |
 | `schoeffe-ermuedung-komplexverfahren-orientierung` | Ermüdung im Komplexverfahren (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im... |
+| `schoeffe-haeusliche-gewalt-orientierung` | Häusliche Gewalt Verfahren (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellenc... |
 | `schoeffe-haeusliche-gewalt-sitzung` | Häusliche Gewalt Verfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quelle... |
 | `schoeffe-medienkontakt-orientierung` | Schöffe und Medienkontakt (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Presse, Social Media, laufendes Verfahren, Beratungsgeheimnis und Neutralität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellenche... |
 | `schoeffe-medienkontakt-sitzung` | Schöffe und Medienkontakt (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Presse, Social Media, laufendes Verfahren, Beratungsgeheimnis und Neutralität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellenc... |

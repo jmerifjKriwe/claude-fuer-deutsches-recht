@@ -2,25 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 48 Skills des Plugins `forderungsmanagement-klagewerkstatt`.
+Dieser Megaprompt enthaelt top-10 von 83 Skills des Plugins `forderungsmanagement-klagewerkstatt`.
 
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — Dokumentengetriebene Ersttriage einer Forderungsakte: wertet zuerst Ordner, ZIP, Rechnungen, Mahnungen, Kontoauszuege, M…
-2. **anspruchsschriftsatz-bausteine** — Bausteinkatalog für eine Anspruchsbegruendung in Klage oder Schriftsatz. Liefert Vorlagen für Rubrum Antrag Tatbestand A…
-3. **forderung-arzthonorar-goae** — Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit § 12 GOAE mit Rechnungserteilung mit Mindestinhalten Diagnose GOAE-…
-4. **forderung-gegen-gmbh-gesellschafter** — Forderung gegen GmbH-Gesellschafter persoenlich: § 13 Abs. 2 GmbHG Trennungsprinzip Haftung nur Gesellschaftsvermoegen. …
-5. **forderung-gegen-insolventen-schuldner** — Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabelle § 174 InsO binnen Anmeldefrist mit Grund und Hoehe…
-6. **forderung-gegen-verbraucher** — Forderung gegen Verbraucher: Verbraucherschutzregeln nach § 13 BGB, AGB-Kontrolle §§ 305-309 BGB, Widerrufsrecht bei Fer…
-7. **forderung-im-ausland-vollstrecken** — Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohne Exequatur), Europaeischer Vollstreckung…
-8. **forderung-internationaler-bezug** — Forderungssache mit Auslandsbezug Schuldner im EU-Ausland oder ausserhalb. Klaert anwendbares Recht internationale Zustä…
-9. **forderungen-interessen-matrix** — Strukturierte Gegenueberstellung mehrerer Forderungen eines Mandanten gegen einen oder mehrere Schuldner. Erfasst Hauptf…
-10. **fristen-risikoampel** — Ampel zur Bewertung saemtlicher Fristen in einer Forderungssache von Verjährung Klagefrist Einspruchsfrist Beschwerdefri…
-11. **klage-einreichungslogik** — Praktische Einreichungslogik einer Zahlungsklage. Klaert Zuständigkeit Gerichtskostenvorschuss beA-Pflicht Anzahl Abschr…
-12. **mandantenkommunikation** — Strukturierte Mandantenkommunikation waehrend einer Forderungssache. Definiert Anlaesse Inhalte und Form für Mandantenin…
-13. **quellenkarte** — Kuratierte Quellenkarte für Forderungsmanagement Klagewerkstatt. Sortiert nach Gesetzen Rechtsprechung Verordnungen EU-R…
-14. **redteam-qualitygate** — Red-Team-Review eines fertigen Schriftsatzes oder Mahnbescheidsantrags. Sucht aus Sicht der Gegenseite nach Angriffsflae…
-15. **tatbestand-beweis-belege** — Schluessige Tatbestandsdarstellung in einer Klage oder einem Schriftsatz mit Verknuepfung zu Beweisen und Belegen. Verla…
+2. **spezial-klagewerkstatt-erstpruefung-und-mandatsziel** — Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin forderungsmanagement klagewerkstatt; schärft Rollen…
+3. **klagevorlage-aus-eigenen-mustern** — Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. P…
+4. **inkasso-zahlungsklage-ersteller** — Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO.…
+5. **klage-aus-eigenem-skill** — Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) installiert und will damit Klagen aus eigenem Sachverhalt …
+6. **anspruchsschriftsatz-bausteine** — Bausteinkatalog für eine Anspruchsbegruendung in Klage oder Schriftsatz. Liefert Vorlagen für Rubrum Antrag Tatbestand A…
+7. **forderung-arzthonorar-goae** — Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit § 12 GOAE mit Rechnungserteilung mit Mindestinhalten Diagnose GOAE-…
+8. **forderung-gegen-gmbh-gesellschafter** — Forderung gegen GmbH-Gesellschafter persoenlich: § 13 Abs. 2 GmbHG Trennungsprinzip Haftung nur Gesellschaftsvermoegen. …
+9. **forderung-gegen-insolventen-schuldner** — Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabelle § 174 InsO binnen Anmeldefrist mit Grund und Hoehe…
+10. **forderung-gegen-verbraucher** — Forderung gegen Verbraucher: Verbraucherschutzregeln nach § 13 BGB, AGB-Kontrolle §§ 305-309 BGB, Widerrufsrecht bei Fer…
 
 ---
 
@@ -114,6 +109,493 @@ Die Triage endet immer mit einem knappen Arbeitsplan:
 - [BGB 286](https://www.gesetze-im-internet.de/bgb/__286.html)
 - [BGB 195](https://www.gesetze-im-internet.de/bgb/__195.html)
 - [GVG 23](https://www.gesetze-im-internet.de/gvg/__23.html)
+
+---
+
+## Skill: `spezial-klagewerkstatt-erstpruefung-und-mandatsziel`
+
+_Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung._
+
+# Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `forderungsmanagement-klagewerkstatt`. Ausgangspunkt ist: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.
+
+Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Klagewerkstatt**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Klagewerkstatt.
+- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
+- **Plugin-Rahmen:** Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und b....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Klagewerkstatt** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
+## Skill: `klagevorlage-aus-eigenen-mustern`
+
+_Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. Prüfraster: Eigene Muster Urteile Kommentare hochladen Extraktion einer Standardklage-Vorlage Zuständigkeitsprüfung online Sachverhalt-Dialog. Output: Klageschrift DOCX und Markdown plus Mini-Plugin ZIP für naechste Klagen ohne erneute Extraktion. Abgrenzung zu klage-aus-eigenem-skill (Nutzung des Plugins) und inkasso-zahlungsklage-ersteller._
+
+# Klagewerkstatt — Lernlauf aus eigenen Mustern
+
+## Zweck
+
+Dieser Skill ist der **Lernlauf** der Klagewerkstatt. Er macht in einem Durchgang vier Dinge:
+
+1. Aus eigenen Klagemustern, Urteilen, Kommentaren, Aufsätzen und Formatvorlagen wird eine **hauseigene generische Standardklage-Vorlage** destilliert (Markdown + DOCX, mit Platzhaltern).
+2. Der Sachverhalt wird im Dialog und aus weiteren hochgeladenen Dokumenten eingesammelt und in die Vorlage gespiegelt.
+3. **Online-Prüfung der Zuständigkeit** ist Pflicht: justizadressen.nrw.de und justiz.de Gerichtssuche. Streitwert → AG/LG; Beklagtenadresse → örtliche Zuständigkeit; Sondertatbestände beachten.
+4. Aus den extrahierten Hausregeln wird ein **eigenes Mini-Plugin als ZIP** generiert (`klagewerkstatt-<kanzlei>.zip`), das in Claude Code direkt installierbar ist und beim nächsten Mal ohne erneute Extraktion in der hauseigenen Vorlage produziert (siehe Schwester-Skill `klage-aus-eigenem-skill`).
+
+Memo (rechtliche Würdigung) wird **nur auf ausdrückliche Anfrage** erstellt.
+
+## Ablauf
+
+**Schritt 1 — Kanzlei-Profil**
+Einmal abfragen und merken:
+
+> Kanzleiname, Rechtsanwältin/Rechtsanwalt mit Anschrift, BeA-SAFE-ID, AGB-Klausel zum Gerichtsstand (sofern für Verbraucher unzulässig nach § 29c ZPO klar abgrenzen), übliche Mandantengruppe (B2B, B2C, gemischt), bevorzugte Zinsformel (Basiszins+5/+9, §§ 288 Abs. 1/2 BGB), Standard-Anlagenliste (z. B. Rechnung, Auftragsbestätigung, Mahnungen, Lieferschein, AGB).
+
+**Schritt 2 — Materialaufnahme (Lernkorpus)**
+Den Nutzer bitten, alle einschlägigen Eigenmaterialien hochzuladen oder per Pfad zu nennen:
+
+- Eigene Klage-Muster (mind. 2, gern 5–15) als DOCX, PDF, MD, TXT.
+- Urteile zur eigenen Forderungspraxis (Volltexte oder Auszüge).
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Format- und Layout-Vorlagen (Briefkopf-DOCX, Schriftarten, Nummerierung).
+- Optional: typische Mahnschreiben, Verzugsbriefe, RVG-Berechnungen.
+
+Bei Schweigen mit den im Plugin liegenden Leervorlagen unter `assets/vorlagen-leer/` arbeiten und das im Endprodukt transparent kennzeichnen.
+
+**Schritt 3 — Extraktion der Hausregeln**
+Aus dem Lernkorpus extrahieren (Zusammenfassung am Schluss dem Nutzer vorlegen):
+
+- Aufbau der Klageschrift (Rubrum, Anträge, Begründung, Beweismittel, Anlagen, Schluss).
+- Standardklauseln: Antragswortlaut, Zinsantrag, vorgerichtliche RA-Kosten als Nebenforderung, Mahnverzugsbeginn, Verzugszinsen (§§ 286, 288 BGB), Verzugsschaden (§ 280 BGB).
+- Tonalität: knapp/ausführlich; aktiv/passiv; Direktanrede des Gerichts.
+- Zitierweise: Pinpoint, Randnummer, jüngere BGH-Entscheidungen zuerst, deutsche Kommentartradition.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Anlagenstrategie und Anlagensigel (K1, K2, …).
+
+**Schritt 4 — Hauseigene Standardvorlage erzeugen**
+Aus den Hausregeln eine **generische Klage-Vorlage** schreiben:
+
+- Format: Markdown (Vorlage in `assets/vorlagen-leer/standardklage.md`) und parallel DOCX (über `office/docx`-Skill). Layout aus dem mitgelieferten Briefkopf, sonst Klotzkette-Default.
+- Platzhalter strikt in geschweiften Doppelklammern: `{{kanzlei.briefkopf}}`, `{{rubrum.klagepartei}}`, `{{rubrum.beklagte}}`, `{{rubrum.bevollmaechtigte}}`, `{{gericht.bezeichnung}}`, `{{gericht.adresse}}`, `{{gericht.bea_safe_id}}`, `{{streitwert.eur}}`, `{{antrag.hauptforderung}}`, `{{antrag.zinsen}}`, `{{antrag.kosten}}`, `{{sachverhalt}}`, `{{rechtliche_würdigung}}`, `{{anlagen.liste}}`, `{{ort_datum}}`, `{{unterschrift}}`.
+- Standardabschnitte enthalten Hausregel-Bausteine.
+
+**Schritt 5 — Sachverhalt einsammeln**
+Strukturierte Rückfragen (alle als Liste auf einmal stellen, damit der Nutzer in einem Schwung antworten kann):
+
+- Forderungsgrund (Kauf, Werkvertrag, Dienstvertrag, Darlehen, Miete, sonstiges) mit kurzer Vertragsbeschreibung.
+- Beklagte(r): Name, Anschrift, Rechtsform, ggf. gesetzliche Vertretung; **Anschrift exakt** für die Zuständigkeitsprüfung.
+- Hauptforderung in EUR, Fälligkeitsdatum, etwaige Teilzahlungen.
+- Mahnungen mit Datum, Form und Inhalt; Mahnverzugseintritt.
+- Vorgerichtliche RA-Kosten als Nebenforderung (Geschäftsgebühr Nr. 2300 VV RVG, Anrechnung Vorbem. 3 Abs. 4 VV RVG).
+- Beweismittel: Urkunden, Zeugen, Sachverständige, Parteivernehmung, Augenschein.
+- Besonderheiten: Verbrauchereigenschaft des Beklagten, AGB-Gerichtsstand, Erfüllungsort, ausländische Beteiligung (EuGVVO/Brüssel Ia VO 1215/2012).
+
+Zusätzlich Dokumenten-Drop akzeptieren (Rechnungen, Mahnungen, Korrespondenz). Aus diesen Dokumenten Felder automatisch befüllen und die Belegung jeweils kennzeichnen.
+
+**Schritt 6 — Zuständigkeit online prüfen (Pflicht)**
+
+Pflichtschritt vor Auslieferung. Reihenfolge:
+
+1. **Sachliche Zuständigkeit** rechnerisch: Streitwert ≤ 10.000 EUR → AG (§ 23 Nr. 1 GVG i. d. F. seit 1.1.2026); > 10.000 EUR → LG (§ 71 GVG). Sondertatbestände beachten: Wohnraummietsachen AG ohne Streitwertgrenze (§ 23 Nr. 2a GVG), Nachbarschaftsstreitigkeiten AG (§ 23 Nr. 2e GVG), Familiensachen FamG, Handelssachen Kammer für Handelssachen (§§ 95, 96 GVG).
+2. **Örtliche Zuständigkeit** rechtlich: allgemeiner Gerichtsstand der Beklagten (§§ 12, 13 ZPO). Erfüllungsort (§ 29 ZPO) prüfen — bei Geldschulden Sitz der Klagepartei nur bei qualifizierter Schickschuld, sonst Wohnsitz Beklagte. Verbraucher-Sondertatbestand § 29c ZPO. AGB-Gerichtsstand prüfen, aber bei Verbrauchern nach § 38 ZPO unwirksam.
+3. **Online-Adressrecherche** (immer ausführen):
+   - Für NRW-Anschriften: `pplx content fetch "https://www.justizadressen.nrw.de/de/justiz/suche?suchbegriff=<PLZ_oder_Ort>"` (PLZ oder Ort der Beklagten). Wenn PLZ allein nicht reicht, mit Ort nachfassen.
+   - Bundesweit ergänzend: `pplx content fetch "https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php"` und Landes-Justizportale.
+   - Treffer prüfen und Bezeichnung, Postanschrift, Telefax und — wo bekannt — die BeA-EGVP-SAFE-ID (Bundesweites elektronisches Adressverzeichnis SAFE, abrufbar in beA bzw. unter justiz.de) einsetzen. Wenn keine SAFE-ID gelistet, mit dem Hinweis "EGVP-Adresse über beA-Adressbuch (SAFE-ID) zu ergänzen" markieren.
+4. Quelle und Abrufdatum stets im Output ausweisen (Anlage `Zuständigkeitsprüfung`).
+
+**Schritt 7 — Klageschrift erzeugen**
+
+- **Immer**: `Klage-<Beklagte>-<YYYYMMDD>.docx` (über `office/docx`) und Spiegel `Klage-<Beklagte>-<YYYYMMDD>.md`.
+- Anlagenkonvolut als Liste mit K-Sigeln; Anlagenkopfbogen optional.
+- **Padlet** (auf Wunsch): single-file HTML aus `assets/padlet/klage-padlet.html` mit Live-Vorschau und Pflegefeldern; speichert in `localStorage`.
+
+**Schritt 8 — Eigenes Mini-Plugin als ZIP erzeugen**
+
+Aus den Hausregeln und der Standardvorlage wird ein eigenes Plugin gepackt:
+
+- Skript: `python scripts/plugin_aus_hausregeln.py --kanzlei "<Name>" --vorlage <pfad.md> --regeln <regeln.json> --ziel <ziel.zip>`.
+- Inhalt des ZIP:
+  - `klagewerkstatt-<slug>/.claude-plugin/plugin.json` (Name `klagewerkstatt-<slug>`, Version 0.1.0).
+  - `klagewerkstatt-<slug>/skills/klage-erstellen/SKILL.md` (siehe Schwester-Skill `klage-aus-eigenem-skill` als Bauanleitung; im erzeugten Plugin lebt die Skill-Datei eigenständig).
+  - `klagewerkstatt-<slug>/assets/vorlage/standardklage.md` und `.docx`.
+  - `klagewerkstatt-<slug>/references/hausregeln.json`, `belegmuster.md`, `anlagenliste.md`, `zustaendigkeit-quellen.md`.
+  - `klagewerkstatt-<slug>/README.md` mit Direkt-Download-Hinweis und Installationsanleitung.
+- ZIP-Dateiname `klagewerkstatt-<slug>.zip`. Datei dem Nutzer zum Download geben mit Installationsanweisung für Claude Code (`Customize Plugins → Install from .zip`).
+
+**Schritt 9 — Memo (nur auf Anfrage)**
+
+> Soll ich zusätzlich ein Kurz-Memo im Gutachtenstil mit Anspruchsgrundlagen, Beweislage und Prozessrisiken erstellen?
+
+Bei Zustimmung: zwei Seiten, DOCX oder Markdown.
+
+## Rechtlicher Rahmen
+
+### Pflichtinhalte und Form der Klageschrift
+- **§ 253 Abs. 2 ZPO** Klageinhalt (Parteien, Gericht, Anträge, Sachverhalt, Beweismittel).
+- **§ 130 ZPO** Form der Schriftsätze; **§ 130a ZPO** elektronisches Dokument; **§ 130d ZPO** Pflicht zur elektronischen Einreichung für Rechtsanwältinnen und Rechtsanwälte (beA).
+- **§ 78 ZPO** Anwaltszwang vor LG aufwärts.
+- **§ 12 RVG / Anlage 2 VV RVG**: Gebührentabelle; **Nr. 2300 VV RVG** Geschäftsgebühr; **Vorbem. 3 Abs. 4 VV RVG** Anrechnung 0,65; **Nr. 3100 VV RVG** Verfahrensgebühr.
+
+### Sachliche Zuständigkeit
+- **§ 23 Nr. 1 GVG** AG bis 10.000 EUR (i. d. F. seit 1.1.2026).
+- **§ 71 GVG** LG über 10.000 EUR.
+- **§ 23 Nr. 2a GVG** Wohnraummietsachen AG ohne Streitwertgrenze.
+
+### Örtliche Zuständigkeit
+- **§§ 12, 13 ZPO** allgemeiner Gerichtsstand der Beklagten.
+- **§ 17 ZPO** Sitz juristischer Personen.
+- **§ 29 ZPO** besonderer Gerichtsstand des Erfüllungsortes.
+- **§ 29c ZPO** Verbraucherverträge (Wohnsitz Verbraucher).
+- **§ 38 ZPO** Gerichtsstandsvereinbarung (zwischen Vollkaufleuten zulässig, gegenüber Verbraucher gemäß § 38 Abs. 3 ZPO eingeschränkt).
+- **§ 17 ZPO** Sitz; **§ 24 ZPO** dinglicher Gerichtsstand.
+- Bei grenzüberschreitenden Sachverhalten **Brüssel Ia VO (EU) 1215/2012**, insb. Art. 7 Nr. 1 lit. a und b (Erfüllungsort), Art. 17–19 (Verbrauchersachen), Art. 25 (Gerichtsstandsvereinbarung).
+
+### Materielle Anspruchsgrundlagen (Standard)
+- **§ 433 Abs. 2 BGB** Kaufpreisanspruch; **§ 631 Abs. 1 BGB** Werklohnanspruch; **§ 611a Abs. 2 BGB** Vergütungsanspruch Dienstvertrag; **§ 535 Abs. 2 BGB** Miete; **§ 488 BGB** Darlehensrückzahlung.
+- **§ 286 BGB** Verzug; **§ 288 Abs. 1 BGB** Verzugszinsen 5 Prozentpunkte über Basiszins; **§ 288 Abs. 2 BGB** 9 Prozentpunkte zwischen Unternehmern für Entgeltforderung; **§ 288 Abs. 5 BGB** Verzugspauschale 40 EUR (B2B).
+- **§ 280 BGB** Schadensersatz inkl. vorgerichtlicher RA-Kosten.
+
+### Leitentscheidungen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Ausgabeformat
+
+1. **Klageschrift** als DOCX (`Klage-<Beklagte>-<YYYYMMDD>.docx`) und Markdown-Spiegel.
+2. **Anlage Zuständigkeitsprüfung** mit Online-Quellen und Abrufdatum.
+3. **Hauseigenes Mini-Plugin** als ZIP (`klagewerkstatt-<slug>.zip`) mit Standardvorlage, Hausregeln und sofort installierbarem Skill `klage-erstellen`.
+4. **Optional**: HTML-Padlet zur Pflege, DOCX-Anlagenkopfbogen, Memo im Gutachtenstil.
+
+## Quellenpflicht
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Übergabe
+
+- Bei drohender Zahlungsunfähigkeit der Beklagten an Liquiditätsplanung (`liquiditaetsplanung`) zur Schnellprüfung.
+- Bei einstweiligem Rechtsschutz/Mahnverfahren an `prozessrecht` (Plugin) oder das freistehende
+  Plugin `zwangsvollstreckung` (`zv-mahnbescheid-online`, `zv-vollstreckungsbescheid-folge`) verweisen.
+- Nach Rechtskraft des Titels an `zwangsvollstreckung` zur operativen Durchsetzung (`zv-pfueb-bank`,
+  `zv-pfueb-arbeitsentgelt`, `zv-vermoegensauskunft-gv`).
+- Wenn der Nutzer beim nächsten Mal nur den Sachverhalt einreichen will: Schwester-Skill `klage-aus-eigenem-skill` mit dem im Schritt 8 erzeugten Plugin verwenden.
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+## Audit-Hinweise (27.05.2026)
+
+Drei halluzinierte Rechtsprechungsbelege wurden im Abschnitt "Leitentscheidungen" korrigiert:
+
+| # | Fehlerhaftes AZ | Status | Korrektur |
+|---|---|---|---|
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Recherchequelle: dejure.org (Abruf 27.05.2026). Frontmatter unveraendert. Kein Commit.
+
+---
+
+## Skill: `inkasso-zahlungsklage-ersteller`
+
+_Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO. Prüfraster: Mahnvorlauf Anspruchs-Gatekeeper fällig belegt Teilzahlung Verzug Inkassokosten § 288 BGB Gerichtsortfindung §§ 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage für klare fällige belegte Ansprüche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren) und klagevorlage-aus-eigenen-mustern (hauseigene Muster)._
+
+# Inkasso-Zahlungsklage-Ersteller
+
+## Triage — kläre vor dem Einsatz
+
+1. Liegt ein vollständiger Mahnvorlauf vor (Rechnung mit Fälligkeit, mindestens eine Mahnung mit Fristsetzung)?
+2. Ist die Hauptforderung noch nicht vor Klageeinreichung vollständig bezahlt (Erfüllungskontrolle)?
+3. Sind Schuldner-Anschrift und Verbraucher-/Unternehmereigenschaft geklärt (Gerichtsstand § 29c ZPO bei Verbrauchern)?
+4. Welche Nebenforderungen (Mahnkosten, Verzugszinsen, Inkassokosten) sollen eingeklagt werden — sind sie belegt und verhältnismäßig?
+5. Liegt eine Abtretungskette vor — ist die Aktivlegitimation des Gläubigers/Zessionars lückenlos dokumentiert?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Zentrale Normen
+
+§ 286 BGB (Verzugseintritt) — § 288 BGB (Verzugszinsen: +5 Pp. B2C, +9 Pp. B2B) — § 280 Abs. 2 BGB (Verzugsschaden) — § 249 BGB (Schadensersatz) — § 253 ZPO (Klageschrift) — §§ 12, 13, 29, 29c ZPO (örtliche Zuständigkeit) — §§ 23, 71 GVG (sachliche Zuständigkeit ab 01.01.2026: AG bis 10.000 EUR, LG darueber; § 47 EGZPO Uebergangsvorschrift) — § 93 ZPO (sofortiges Anerkenntnis, Kostenfolge) — § 812 BGB (Bereicherungsrecht als Auffanganspruch)
+
+## Basiszinssatz § 247 BGB
+
+- Basiszinssatz zum 01.01.2026: 1,27 Prozent (unveraendert gegenueber 01.07.2025). Bundesbank-Bekanntmachung: https://www.bundesbank.de/de/presse/pressenotizen/bekanntgabe-des-basiszinssatzes-zum-1-januar-2026-basiszinssatz-bleibt-unveraendert-bei-1-27--973974
+- Daraus B2C-Verzugszinssatz (§ 288 Abs. 1 BGB) 6,27 Prozent, B2B-Verzugszinssatz (§ 288 Abs. 2 BGB) 10,27 Prozent. Halbjaehrliche Pruefung am 01.01. und 01.07. erforderlich.
+- Verzugspauschale § 288 Abs. 5 BGB (B2B): 40 EUR pro Vorgang.
+
+## Aenderungen Zustaendigkeitsrecht ab 01.01.2026
+
+Gesetz zur Aenderung des Zustaendigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) hebt mit Wirkung ab 01.01.2026 an:
+
+- Sachliche Zustaendigkeit Amtsgericht von 5.000 auf 10.000 EUR (§ 23 GVG n.F.).
+- Berufungssumme § 511 Abs. 2 ZPO von 600 auf 1.000 EUR.
+- Wertgrenze Nichtzulassungsbeschwerde § 26 EGZPO von 20.000 auf 25.000 EUR.
+- Uebergangsvorschrift § 47 EGZPO regelt Altverfahren.
+
+Quelle: https://www.brak.de/newsroom/news/zivilgerichtsbarkeit-hoehere-wertgrenzen-fuer-zustaendigkeit-und-rechtsmittel-ab-112026/
+
+## Rechtsprechung
+
+- Rechtsprechung zu Verzug und § 286 BGB live ueber https://dejure.org und https://openjur.de pruefen.
+- Aktenzeichen und Datum erst nach Verifikation in den Schriftsatz uebernehmen.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Zweck
+
+Dieser Skill baut aus einer Forderungsakte einen sauberen Mahn- und Klageworkflow. **Eingeklagt werden nur Ansprüche, die klar, fällig, durchsetzbar und belegt sind.** Unsichere Positionen werden nicht eingeklagt, sondern als Rückfrage oder Nichtklage-Empfehlung ausgegeben.
+
+## Sofortregeln
+
+1. Nicht alles einklagen, was im Forderungskonto steht — jede Position braucht Anspruchsgrundlage, Betrag, Fälligkeit, Verzug, Beleg und Einwendungskontrolle.
+2. Erfüllung blockt: vor Klageeinreichung bezahlte Hauptforderung darf nicht mehr eingeklagt werden.
+3. Nebenforderungen sind kein Autopilot: Mahnkosten, Verzugszinsen, Inkassokosten werden einzeln geprüft.
+4. Gerichtsort vor Klage: sachliche und örtliche Zuständigkeit sind zu prüfen und zu dokumentieren.
+5. Mahnung vor Eskalation: wenn kein ausreichender Mahnvorlauf vorliegt, zuerst Mahnschreiben.
+
+## Pflichtablauf
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+### Schritt 1: Akte aufnehmen
+
+Felder: Gläubiger, Schuldner (Verbraucher/Unternehmer), Forderungsgrund, Hauptforderung, Mahnvorlauf, Verzug, Nebenforderungen, Prozessgeschichte, Gerichtsort.
+
+### Schritt 2: Mahnvorlauf prüfen
+
+Mahnchronologie: Rechnung → Zahlungserinnerung → Mahnung(en) → letzte Mahnung mit Klagehinweis → Inkassoschreiben → Zahlungseingänge.
+
+Ampelbeurteilung: grün (klar), gelb (unklar, nacharbeitbar), rot (rechtlich ungeeignet oder bereits erledigt).
+
+### Schritt 3: Anspruchs-Gatekeeper
+
+Prüfe je Position: Anspruchsgrundlage, Betrag, Fälligkeit, Durchsetzbarkeit, Verzug, Verschulden, Prozessrisiko, Gerichtsort.
+
+- GRÜN → in den Klageantrag.
+- GELB → Rückfrage oder Belegbedarf.
+- ROT → nicht einklagen, Begründung angeben.
+
+### Schritt 4: Gerichtsort finden
+
+Sachlich: AG bis 10.000 EUR (§ 23 GVG), LG darüber (§ 71 GVG). Örtlich: §§ 12, 13, 29, 29c ZPO. Online-Abgleich über justiz.de oder justizadressen.nrw.de; Quelle und Abrufdatum dokumentieren.
+
+### Schritt 5: Output bauen
+
+1. Mahnchronologie als Tabelle.
+2. Anspruchsmatrix mit Ampel.
+3. Klagefreigabe (was wird eingeklagt, was nicht, warum).
+4. Gerichtsortprüfung mit Quellenplatzhalter.
+5. Klageentwurf nur für grüne Positionen.
+6. Beleg- und Anlagenliste mit K-Sigeln.
+7. Kosten-/Risiko-Hinweis zu § 93 ZPO.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Zahlungsklage gegen saumigen Schuldner | Mahnverfahren oder Klageschrift nach Schema; Template unten |
+| Variante A — Schuldner gibt Ratenzahlung an | Ratenvereinbarung statt Klage; Vollstreckungstitel danach |
+| Variante B — Forderung wirtschaftlich zweifelhaft Insolvenz droht | Insolvenzantrag pruefen statt Klage; Klage nur wenn Masse erwartet |
+| Variante C — Mandant will Geschaeftsbeziehung erhalten | Aussergerichtliche Einigung zuerst; Klage als letztes Mittel |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template
+
+**Inkasso-Zahlungsklage — Anspruchsmatrix**
+
+Schuldner: [...] | Forderungsstand: [...] EUR | Stand: [Datum]
+
+| Position | Betrag EUR | Ampel | Begründung |
+|---|---|---|---|
+| Hauptforderung | [...] | GRÜN/ROT | [...] |
+| Verzugszinsen | [...] | GRÜN/GELB | ab [...] |
+| Mahnkosten | [...] | GRÜN/GELB | Beleg: [...] |
+| Inkassokosten | [...] | GRÜN/GELB | Verhältnismäßigkeit: [...] |
+
+**Gerichtsort:** AG/LG [...] — Online-Quelle: [...] — Abrufdatum: [...]
+
+**Klageantrag (nur grüne Positionen):**
+Der Beklagte wird verurteilt, an den Kläger [...] EUR nebst Zinsen in Höhe von [...] Prozentpunkten über dem Basiszinssatz seit [...] zu zahlen.
+
+**Empfehlung:** [Klage einreichen / zuerst Mahnung / Positionen [...] nicht einklagen]
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+---
+
+## Skill: `klage-aus-eigenem-skill`
+
+_Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) installiert und will damit Klagen aus eigenem Sachverhalt erstellen. Laufzeit-Variante Klagewerkstatt. Prüfraster: Sachverhalt Beklagtenadresse Zuständigkeit §§ 12 13 29 29c ZPO §§ 23 71 GVG. Output: fertige Klageschrift DOCX und Markdown. Abgrenzung zu klagevorlage-aus-eigenen-mustern (Lernlauf) und inkasso-zahlungsklage-ersteller (standalone)._
+
+# Klagewerkstatt — Laufzeit aus eigenem Skill
+
+## Triage — kläre vor dem Einsatz
+
+1. Ist das hauseigene Klage-Plugin (`klagewerkstatt-<kanzlei>`) installiert — enthält es `assets/vorlagen-leer/standardklage.md` und `references/hausregeln.json`?
+2. Sind Sachverhalt, Parteien, Forderungshöhe und Beklagtenanschrift vollständig bekannt?
+3. Welche sachliche Zuständigkeit liegt vor (AG bis 10.000 EUR / LG darüber, §§ 23, 71 GVG)?
+4. Welche örtliche Zuständigkeit gilt (§§ 12, 13 ZPO allgemein; § 29 ZPO Erfüllungsort; § 29c ZPO Verbraucherverträge)?
+5. Soll zusätzlich ein Kurz-Memo im Gutachtenstil mit Prozessrisiken erstellt werden?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Zentrale Normen
+
+§ 253 ZPO (Klageschrift) — §§ 130, 130a, 130d ZPO (Schriftsatz, elektronisches Dokument, beA-Pflicht) — §§ 23, 71 GVG (sachliche Zuständigkeit) — §§ 12, 13, 29, 29c, 38 ZPO (örtliche Zuständigkeit) — VO (EU) 1215/2012 (Brüssel Ia, internationale Zuständigkeit) — §§ 286, 288, 280 BGB (Verzug, Verzugszinsen, Verzugsschaden) — RVG VV (Rechtsanwaltsvergütung)
+
+## Rechtsprechung
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Zweck
+
+Dieser Skill ist die Laufzeit-Variante. Er setzt voraus, dass das hauseigene Klage-Plugin bereits installiert ist. Er nimmt Sachverhalt und Beklagtenadresse entgegen, prüft online die Zuständigkeit, füllt die hauseigene Vorlage und liefert die Klageschrift als DOCX und Markdown.
+
+## Ablauf
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+**Schritt 1 — Hausvorlage finden**
+
+Prüfen, ob `klagewerkstatt-<slug>` installiert ist. Wenn nicht: auf `klagevorlage-aus-eigenen-mustern` verweisen.
+
+**Schritt 2 — Sachverhalt einsammeln**
+
+Parteien, Forderungsgrund, Betrag, Fälligkeit, Verzug, Beklagtenanschrift, Beweise, Anlagen.
+
+**Schritt 3 — Zuständigkeit online prüfen (Pflicht)**
+
+Sachlich: §§ 23, 71 GVG. Örtlich: §§ 12, 13, 29, 29c, 38 ZPO. Online-Recherche unter `https://www.justizadressen.nrw.de/de/justiz/suche` und `https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php`. Quelle und Abrufdatum dokumentieren. BeA-SAFE-ID nachtragen.
+
+**Schritt 4 — Klage erzeugen**
+
+Vorlage `assets/vorlagen-leer/standardklage.md` befüllen, DOCX über `office/docx` rendern. Anlagenliste ergänzen. Dateiname: `Klage-<Beklagte>-<YYYYMMDD>.docx`.
+
+**Schritt 5 — Memo (nur auf Anfrage)**
+
+Kurz-Memo im Gutachtenstil: Anspruchsgrundlagen, Beweislage, Prozessrisiken.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Klageschrift aus eigenem Skill-Output generieren | Klageschrift nach Skill-Output-Schema; Template unten |
+| Variante A — Skill-Output unvollstaendig Luecken vorhanden | Luecken manuell fuellen; dann Template anwenden |
+| Variante B — Mandant will Vereinfachung Mahnverfahren statt Klage | Mahnbescheid § 688 ZPO als kostenguenstigere Alternative |
+| Variante C — Streitwert unter 10.000 EUR (Stand ab 01.01.2026, § 23 GVG n.F.) | Amtsgericht zustaendig; vereinfachtes Verfahren AG; kein Anwaltszwang in der Klageerhebung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template
+
+**Klageschrift-Entwurf**
+
+An das [Amtsgericht / Landgericht] [Ort]
+
+Klage
+
+des [Kläger], [Anschrift] — Kläger —
+
+gegen
+
+[Beklagter], [Anschrift] — Beklagter —
+
+Streitwert: [...] EUR
+
+**Zuständigkeitsprüfung:**
+| Prüfpunkt | Ergebnis |
+|---|---|
+| Sachlich (§§ 23/71 GVG) | AG / LG wegen Streitwert [...] EUR |
+| Örtlich (§§ 12/13/29/29c ZPO) | AG/LG [...] wegen [...] |
+| Online-Quelle | [...] — Abrufdatum: [...] |
+| BeA-SAFE-ID | [...] |
+
+**Klageantrag:**
+Der Beklagte wird verurteilt, an den Kläger [...] EUR nebst Zinsen in Höhe von [...] Prozentpunkten über dem Basiszinssatz seit [...] zu zahlen.
+
+**Begründung:** [Sachverhalt nach ODUE-Schema: Obersatz — Definition — Untersatz — Ergebnis]
+
+**Anlagenliste:**
+- Anlage K 1: [...]
+- Anlage K 2: [...]
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+---
+<!-- AUDIT 27.05.2026 bundle_004 -->
+**Halluzinations-Audit 27.05.2026**
 
 ---
 
@@ -820,668 +1302,6 @@ Es wird beantragt:
 - ZPO § 29c Verbrauchersache [gesetze-im-internet.de/zpo/__29c.html](https://www.gesetze-im-internet.de/zpo/__29c.html)
 - ZPO § 38 Gerichtsstandsverbot Verbraucher [gesetze-im-internet.de/zpo/__38.html](https://www.gesetze-im-internet.de/zpo/__38.html)
 - BGH XI ZR 564/15 zur fehlerhaften Widerrufsbelehrung [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
-
----
-
-## Skill: `forderung-im-ausland-vollstrecken`
-
-_Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohne Exequatur), Europaeischer Vollstreckungstitel EuVTVO 805/2004, Europaeischer Zahlungsbefehl EuMVVO 1896/2006, geringfuegige Forderung EuGFVO 861/2007. Drittstaat: Anerkennung nach IPR und bilateralen Abkommen. Output..._
-
-# Forderung im Ausland vollstrecken
-
-Grenzueberschreitende Forderungsdurchsetzung. Die Wahl des Instruments haengt vom Wohnsitz des Schuldners und vom Streitwert ab.
-
-## Instrumenten-Übersicht
-
-| Instrument | Anwendungsbereich | Vorteil |
-|---|---|---|
-| Bruessel Ia VO (EU 1215/2012) | EU-Anerkennung deutscher Titel | Vollstreckung ohne Exequatur |
-| EuVTVO (EG 805/2004) | unbestrittene Forderungen | Bestaetigung als EU-Titel |
-| EuMVVO (EG 1896/2006) | grenzueberschreitendes Mahnverfahren | EU-weit ein einheitlich Verfahren |
-| EuGFVO (EG 861/2007) | bis 5.000 EUR | vereinfachtes EU-Verfahren |
-| Lugano-Uebereinkommen | CH, NO, IS | parallel zu Bruessel Ia |
-| Drittstaaten | je Staat | Anerkennungsverfahren noetig |
-
-## Bruessel Ia VO (EU 1215/2012)
-
-**Anwendungsbereich:** Zivil- und Handelssachen mit Bezug zu mehreren MS. Nicht: Familie, Erbe, Insolvenz, Schiedsverfahren, Sozialversicherung, Steuer (Art. 1 Abs. 2).
-
-**Gerichtsstaende (kuerz)**:
-| Konstellation | Norm |
-|---|---|
-| Allgemein: Wohnsitz Bekl. | Art. 4 |
-| Vertrag: Erfuellungsort | Art. 7 Nr. 1 |
-| Deliktischer Ort: Tatort | Art. 7 Nr. 2 |
-| Verbrauchersache | Art. 17-19 |
-| Versicherung | Art. 10-16 |
-| Arbeitsvertrag | Art. 20-23 |
-| Ausschließlich (Grundstueck, Register) | Art. 24 |
-| Vereinbarung | Art. 25 (Schriftform, Exklusivitaet) |
-
-**Vollstreckung in anderem MS** (Art. 36-44):
-- Anerkennung **automatisch** (kein Exequatur).
-- Bestaetigung Formblatt I (Anhang I VO).
-- Direktvollstreckung beim ausländischen Vollstreckungsorgan.
-- Versagungsgruende beschraenkt (Art. 45): ordre public, Saeumnis ohne ordn. Zustellung, unvereinbares Urteil.
-
-## EuVTVO (EG 805/2004) – Europaeischer Vollstreckungstitel
-
-Bestaetigung **unbestrittener** Forderungen als EU-Titel. Voraussetzungen Art. 6:
-1. Forderung im Urspr.-MS unbestritten (Anerkenntnis, Saeumnis, Vergleich).
-2. Im Urspr.-MS gerichtlich tituliert.
-3. Mindeststandards Zustellung eingehalten.
-4. Verbraucher-Schutz beachtet.
-
-Bestaetigung durch Urspr.-Gericht, Formblatt I. In ZielMS direkt vollstreckbar.
-
-## EuMVVO (EG 1896/2006) – Europaeisches Mahnverfahren
-
-| Charakteristikum | Inhalt |
-|---|---|
-| Antragsformular | Formblatt A |
-| Zustaendiges Gericht DE | AG Wedding (Berlin) |
-| Online-Antrag möglich | www.online-mahnantrag.de |
-| Verteidigungsfrist Bekl. | 30 Tage nach Zustellung |
-| Bei Einspruch | Uebergang ins streitige Verfahren (Prüfung Art. 17 EuMVVO) |
-| Bei keinem Einspruch | Vollstreckbarerklaerung Formblatt G |
-| Vollstreckungsorgan | im Wohnsitz-MS Schuldner |
-
-## EuGFVO (EG 861/2007) – Geringfuegigkeitsverfahren
-
-| Grenzwert | bis 5.000 EUR (ohne Zinsen/Kosten) |
-|---|---|
-| Antragsformular | Formblatt A |
-| Schriftliches Verfahren | keine muendliche Verhandlung ueblich |
-| Frist Bekl. für Stellungnahme | 30 Tage |
-| Urteil | innerhalb von 30 Tagen nach Stellungnahme |
-| Vollstreckung | im anderen MS direkt, Formblatt D |
-
-## Lugano-Uebereinkommen 2007 (CH, NO, IS)
-
-Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerung im ZielMS noetig). Voraussetzung Anerkennung: rechtskraeftiger Titel im Urspr.-Staat.
-
-## Drittstaaten (ausserhalb EU/Lugano)
-
-| Sachverhalt | Vorgehen |
-|---|---|
-| Anerkennung deutsches Urteil | §§ 328 ZPO Anerkennung in DE; Anerkennung in Drittstaat nach dort. IPR |
-| Bilaterales Abkommen | Verträge z.B. mit Tunesien, Israel, T?rkei (Anerkennungsabkommen) |
-| Kein Abkommen | erneute Klage im Drittstaat ueblich |
-| Schiedsspruch | New York Convention 1958 (NYÜ) – sehr leistungsfaehig |
-
-## Verfahrensweg-Prüfung Schritt für Schritt
-
-```
-1. Schuldner-Sitz ermitteln
-   -> EU? Lugano? Drittstaat?
-
-2. Streitwert pruefen
-   -> bis 5.000 EUR -> EuGFVO bevorzugen
-   -> mehr -> Bruessel Ia oder EuVTVO
-
-3. Forderung unbestritten?
-   -> ja  -> EuVTVO Bestaetigung
-   -> nein -> EuMVVO (Mahnverfahren) oder Klage Bruessel Ia
-
-4. Forderung bereits tituliert in DE?
-   -> Bruessel Ia Direktvollstreckung (Art. 36-44)
-   -> EuVTVO Bestaetigung als alternativer Pfad
-
-5. Schuldner reagiert nicht
-   -> Vollstreckung mit Formblatt I (Bruessel Ia)
-   -> oder Formblatt G (EuMVVO)
-
-6. Schuldner widerspricht
-   -> Klage im DE-Inland nach Gerichtsstand Bruessel Ia
-   -> oder EuGFVO falls Grenzwert
-```
-
-## Form der Zustellung im Ausland
-
-**HZUe 1965** (Haager Zustellungsuebereinkommen) – für Drittstaaten.
-**EuZustVO (EU 2020/1784)** seit 01.07.2022 – innerhalb EU:
-- Direkte Zustellung Justizbehoerde zu Justizbehoerde.
-- Postzustellung mit Einschreiben möglich (Art. 18).
-- Diplomatischer Weg (Konsulat) bei Bedarf.
-- Übersetzung in Amtssprache des ZielMS.
-
-## Beweismittel im EU-Ausland
-
-| Instrument | Inhalt |
-|---|---|
-| EuBVO (EU 1206/2001) → Neu: VO 2020/1783 | Beweiserhebung |
-| Videokonferenz nach EuBVO | Art. 17 ff. |
-
-## Kosten
-
-| Verfahren | Gerichtskosten |
-|---|---|
-| EuMVVO | 0,5 nach KV 1100 GKG |
-| EuGFVO | wie nationaler kleiner Klageweg |
-| Bruessel Ia Vollstreckung | im ZielMS nach dortigem Tarif |
-| Anerkennung Drittstaat | Anwalts- und Gerichtskosten lokal |
-
-## Typische Fehler
-
-- Klage in DE gegen Bekl. mit Wohnsitz EU ohne Prüfung Bruessel Ia → ggf. unzuständig.
-- EuMVVO bei strittiger Forderung – Widerspruch fuehrt in nationale Klage des Bekl.-MS.
-- Übersetzung vergessen → Zustellung schlaegt fehl.
-- Schiedsklausel ueberhaupt nicht gepruef → New York Convention besserer Pfad.
-- Lugano mit Bruessel verwechselt – Exequatur in CH noch noetig.
-
-## Quellen
-- Bruessel Ia VO 1215/2012 [eur-lex.europa.eu/eli/reg/2012/1215](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1215)
-- EuVTVO 805/2004 [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004R0805)
-- EuMVVO 1896/2006 [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006R1896)
-- EuGFVO 861/2007 [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32007R0861)
-- EuZustVO 2020/1784 [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32020R1784)
-- HZUe 1965 [hcch.net](https://www.hcch.net/en/instruments/conventions/full-text/?cid=17)
-- New York Convention 1958 [newyorkconvention.org](https://www.newyorkconvention.org/)
-
----
-
-## Skill: `forderung-internationaler-bezug`
-
-_Forderungssache mit Auslandsbezug Schuldner im EU-Ausland oder ausserhalb. Klaert anwendbares Recht internationale Zuständigkeit Vollstreckung. Pinpoints VO 1215/2012 Brüssel Ia VO 1896/2006 EuMVVO VO 805/2004 EuVTVO VO 861/2007 EuGFVO Rom I VO 593/2008. Liefert Routing nach Schuldnerstandort und..._
-
-# Forderung mit internationalem Bezug
-
-Auslandsbezug ändert Zuständigkeit anwendbares Recht und Vollstreckungspfad.
-
-## Routing nach Schuldnerstandort
-
-| Schuldner-Standort | Zuständigkeit | Verfahren |
-|---|---|---|
-| EU-Mitgliedstaat | Brüssel Ia VO 1215/2012 | nationales Verfahren EuMVVO oder EuGFVO |
-| EFTA Schweiz Norwegen Island | LugÜ 2007 | wie Brüssel Ia |
-| Drittstaat z B GB nach Brexit USA | autonomes Recht 12 13 23 ZPO | Anerkennungs- und Vollstreckungsvertraege prüfen |
-
-## Anwendbares Recht
-
-| Vertragstyp | Norm |
-|---|---|
-| Kauf Werk Dienst Vertrag | Rom I VO 593/2008 Art 4 |
-| Verbrauchervertrag | Rom I Art 6 Schutz |
-| Versicherungsvertrag | Rom I Art 7 |
-| Ausservertragliche Anspruchsgrundlage | Rom II VO 864/2007 |
-
-## EU-Verfahren
-
-| Verfahren | Norm | Anwendung |
-|---|---|---|
-| Europaeisches Mahnverfahren | VO 1896/2006 | grenzueberschreitende unbestrittene Geldforderungen |
-| Europaeisches Verfahren für geringfuegige Forderungen | VO 861/2007 | bis fuenftausend Euro |
-| Europaeischer Vollstreckungstitel | VO 805/2004 | nationaler Titel wird vollstreckbar EU-weit |
-
-## Verbrauchergerichtsstand
-
-Bei Verbrauchersachen kann Verbraucher nur im Wohnsitzstaat verklagt werden Art 18 Brüssel Ia. Gläubiger muss dort klagen.
-
-## Vollstreckung in Drittstaaten
-
-| Land | Grundlage |
-|---|---|
-| USA Brasilien | autonome Anerkennung Comity |
-| Schweiz | LugÜ |
-| Türkei | bilaterales Anerkennungsabkommen |
-| China | sehr eingeschraenkt Reziprozitaet |
-
-## Norm-Pinpoints
-
-- VO 1215/2012 Art 4 5 7 17 24
-- VO 1896/2006 Art 1 ff
-- VO 861/2007 Art 1 ff
-- VO 593/2008 Art 4 6
-- LugÜ 2007 Art 2 5
-
-## Quellen
-
-- [VO 1215/2012](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1215)
-- [VO 1896/2006](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006R1896)
-- [VO 861/2007](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32007R0861)
-
----
-
-## Skill: `forderungen-interessen-matrix`
-
-_Strukturierte Gegenueberstellung mehrerer Forderungen eines Mandanten gegen einen oder mehrere Schuldner. Erfasst Hauptforderung Nebenforderung Zinsen Kosten Faelligkeit Beleg Verjährung. Pinpoints ZPO 260 Klagenhaeufung ZPO 33 Aufrechnungswiderklage BGB 366 Tilgungsreihenfolge. Liefert priorisie..._
-
-# Forderungen-Interessen-Matrix
-
-Wenn Mandant mehrere Forderungen gegen denselben oder verschiedene Schuldner hat braucht es eine Reihung und Bundelungs-Entscheidung.
-
-## Matrix-Schema
-
-| Forderung | Hauptsumme Euro | Faellig seit | Verjährung in Monaten | Beleg | Aussicht | Kostenprognose | Empfehlung |
-|---|---|---|---|---|---|---|---|
-| Werklohn Bauvorhaben A | 24500 | 2024-09-15 | 18 | Rechnung Abnahme | hoch | mittel | sofort Klage |
-| Restkaufpreis Maschine | 8200 | 2025-03-01 | 26 | Kaufvertrag Lieferschein | hoch | gering | Mahnbescheid |
-| Schadensersatz Stornogebuehr | 3100 | 2024-12-10 | 9 | E-Mail-Kette | mittel | gering | erst aussergerichtlich |
-| Honorar Beratung 2022 | 4800 | 2022-10-01 | -2 verjaehrt | Rechnung | aussichtslos | hoch | nicht klagen |
-
-## Bundelungs-Optionen
-
-| Konstellation | Werkzeug | Norm |
-|---|---|---|
-| Mehrere Anspruchsgruende gegen denselben Beklagten | Objektive Klagehaeufung | ZPO 260 |
-| Mehrere Beklagte aus derselben Lieferkette | Streitgenossenschaft | ZPO 59 ZPO 60 |
-| Gegenforderung Beklagter | Widerklage | ZPO 33 |
-| Tilgungsverrechnung bei mehreren Forderungen | Tilgungsreihenfolge | BGB 366 BGB 367 |
-
-## Kostenmehrwert prüfen
-
-Bundelung lohnt wenn alle Forderungen in dieselbe Zuständigkeit fallen GVG 23 oder GVG 71. Bei Mischung von AG- und LG-Forderungen kann Zusammenrechnung der Streitwerte nach ZPO 5 ein einheitliches LG-Verfahren ergeben.
-
-## Tilgungsreihenfolge ohne Bestimmung BGB 366 Abs. 2
-
-1. Faellige Schuld vor nicht faelliger
-2. Unter mehreren faelligen die geringer gesicherte
-3. Unter gleich gesicherten die laestigere
-4. Bei gleicher Laestigkeit die aeltere
-5. Bei gleichem Alter anteilig
-6. Innerhalb einer Forderung Kosten vor Zinsen vor Hauptforderung BGB 367
-
-## Norm-Pinpoints
-
-- ZPO 5 Wertaddition mehrere Anspruechen
-- ZPO 33 Widerklage
-- ZPO 59 60 Streitgenossen
-- ZPO 260 Klagenhaeufung
-- BGB 366 367 Tilgung
-
-## Quellen
-
-- [ZPO 260](https://www.gesetze-im-internet.de/zpo/__260.html)
-- [BGB 366](https://www.gesetze-im-internet.de/bgb/__366.html)
-
----
-
-## Skill: `fristen-risikoampel`
-
-_Ampel zur Bewertung saemtlicher Fristen in einer Forderungssache von Verjährung Klagefrist Einspruchsfrist Beschwerdefrist bis Vollstreckungsfristen. Pinpoints BGB 195 199 ZPO 339 Einspruchsfrist Versaeumnisurteil ZPO 700 Einspruch Vollstreckungsbescheid ZPO 222 Fristberechnung. Liefert Ampel-Log..._
-
-# Fristen-Risikoampel
-
-Fristverletzungen sind eine der haeufigsten Haftungsquellen. Diese Ampel hilft beim Frueherkennen.
-
-## Fristen-Katalog
-
-| Frist | Norm | Dauer |
-|---|---|---|
-| Regelverjaehrung | BGB 195 | drei Jahre |
-| Verjährungsbeginn | BGB 199 Abs. 1 | Schluss des Jahres der Entstehung und Kenntnis |
-| Hoechstverjaehrung subjektiv | BGB 199 Abs. 4 | zehn Jahre ab Entstehung |
-| Verjährung Werkmaengel bei Bauwerken | BGB 634a Abs. 1 Nr. 2 | fuenf Jahre |
-| Mahnbescheid Widerspruchsfrist | ZPO 692 Abs. 1 Nr. 3 | zwei Wochen |
-| Vollstreckungsbescheid Einspruchsfrist | ZPO 700 ZPO 339 | zwei Wochen |
-| Versaeumnisurteil Einspruch | ZPO 339 Abs. 1 | zwei Wochen |
-| Berufung Einlegen | ZPO 517 | ein Monat |
-| Berufungsbegruendung | ZPO 520 Abs. 2 | zwei Monate |
-| Beschwerde sofortige | ZPO 569 | zwei Wochen |
-| Kostenfestsetzung Beschwerde | ZPO 11 RpflG | zwei Wochen |
-
-## Ampel-Logik
-
-| Ampel | Auslöser |
-|---|---|
-| gruen | naechste Frist mehr als sechzig Tage in der Zukunft |
-| gelb | naechste Frist zwischen vierzehn und sechzig Tagen |
-| rot | naechste Frist binnen vierzehn Tagen oder unklar |
-
-Rote Ampel verlangt Sofortbearbeitung und Aktennotiz.
-
-## Fristberechnung ZPO 222 BGB 187 ff
-
-- Tag des Ereignisses zaehlt nicht mit ausser bei Stunden- oder Geburtsfristen
-- Tag des Endes wenn Sonn- oder Feiertag verschiebt sich auf den naechsten Werktag
-- Monatsfrist endet am gleichen Tag des Folgemonats fehlt der Tag am letzten Tag des Monats
-
-## Hemmung und Neubeginn
-
-| Tatbestand | Wirkung | Norm |
-|---|---|---|
-| Verhandlungen | Hemmung | BGB 203 |
-| Klageerhebung | Hemmung | BGB 204 Nr. 1 |
-| Mahnbescheid | Hemmung mit Zustellung | BGB 204 Nr. 3 |
-| Anerkenntnis | Neubeginn | BGB 212 Abs. 1 Nr. 1 |
-| Vollstreckungshandlung | Neubeginn | BGB 212 Abs. 1 Nr. 2 |
-
-## Norm-Pinpoints
-
-- ZPO 222 339 517 520 569
-- BGB 195 199 203 204 212
-
-## Quellen
-
-- [ZPO 339](https://www.gesetze-im-internet.de/zpo/__339.html)
-- [BGB 203](https://www.gesetze-im-internet.de/bgb/__203.html)
-- [BGB 212](https://www.gesetze-im-internet.de/bgb/__212.html)
-
----
-
-## Skill: `klage-einreichungslogik`
-
-_Praktische Einreichungslogik einer Zahlungsklage. Klaert Zuständigkeit Gerichtskostenvorschuss beA-Pflicht Anzahl Abschriften Anlagenbezeichnung und Zustellung. Pinpoints ZPO 130d beA-Pflicht ZPO 253 Klageinhalt ZPO 167 Rueckwirkung Zustellung GKG 12 Vorschuss. Liefert Checkliste für die Einreich..._
-
-# Klage-Einreichungslogik
-
-Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die Einreichung Schritt für Schritt durch.
-
-## Einreichungs-Checkliste
-
-| Punkt | Prüfung | Norm |
-|---|---|---|
-| Sachliche Zuständigkeit | Streitwert über zehntausend Euro LG sonst AG | GVG 23 Nr. 1 GVG 71 |
-| Oertliche Zuständigkeit | Wohnsitz Beklagter Erfuellungsort Verbrauchergerichtsstand | ZPO 12 13 29 29c |
-| Streitwertangabe | konkrete Eurozahl im Schriftsatz | GKG 39 |
-| beA-Pflicht | Rechtsanwalt muss elektronisch einreichen | ZPO 130d |
-| Anlagen | nummeriert K eins K zwei Bezugnahme im Text | ZPO 131 |
-| Abschriften | bei Papier so viele wie Beklagte plus eine für Gericht | ZPO 133 |
-| Vollmacht | original oder beglaubigte Abschrift mit Klage | ZPO 80 |
-| Gerichtskostenvorschuss | nach Eingang Rechnung sofort einzahlen | GKG 12 |
-| Zustellung | Gericht von Amts wegen an Beklagten | ZPO 271 |
-
-## beA-Pflicht ZPO 130d
-
-Seit 1.1.2022 müssen Rechtsanwaeltinnen Schriftsaetze elektronisch einreichen. Verstoss fuehrt zu Unwirksamkeit. Ausnahme nur bei voruebergehender technischer Stoerung mit Glaubhaftmachung ZPO 130d Satz 2 und Satz 3.
-
-## Gerichtskostenvorschuss
-
-Nach Eingang der Klage versendet das Gericht eine Kostenrechnung. Erst nach Eingang des Vorschusses wird die Klage zugestellt. Wer Verjährungshemmung will muss demnaechst zahlen ZPO 167. In der Praxis innerhalb von zwei Wochen.
-
-## Streitwert und Gebühren Beispiele 2026
-
-| Streitwert | Gerichtsgebuehr drei-Wert | Anwaltsgebuehr 1,3 Verfahren |
-|---|---|---|
-| 2000 | 267 | 261 |
-| 10000 | 723 | 798 |
-| 25000 | 1149 | 1268 |
-| 50000 | 1719 | 1841 |
-
-Werte gerundet ohne Auslagen ohne USt.
-
-## Anlagen Bezeichnung
-
-```
-Anlage K 1 Rechnung vom 12.03.2025
-Anlage K 2 Lieferschein vom 14.03.2025
-Anlage K 3 Mahnschreiben vom 28.04.2025
-```
-
-Im Text Bezugnahme z B Anlage K 1.
-
-## Norm-Pinpoints
-
-- ZPO 80 Vollmacht
-- ZPO 130 Form
-- ZPO 130d beA
-- ZPO 133 Abschriften
-- ZPO 167 Rueckwirkung
-- ZPO 253 271
-- GKG 12 39
-
-## Quellen
-
-- [ZPO 130d](https://www.gesetze-im-internet.de/zpo/__130d.html)
-- [ZPO 167](https://www.gesetze-im-internet.de/zpo/__167.html)
-- [GKG 12](https://www.gesetze-im-internet.de/gkg_2004/__12.html)
-
----
-
-## Skill: `mandantenkommunikation`
-
-_Strukturierte Mandantenkommunikation waehrend einer Forderungssache. Definiert Anlaesse Inhalte und Form für Mandanteninformation Auftragsbestaetigung Sachstand Vergleich Zustimmung und Abschluss. Pinpoints BORA 11 unverzuegliche Information BRAO 49b Mandantenaufklaerung RVG 49b BGB 280 Schadense..._
-
-# Mandantenkommunikation
-
-Maendel der Mandantenpflicht endet jedes Forderungsmandat in Aerger. Dieser Skill regelt Anlaesse Form und Mindestinhalt.
-
-## Pflicht-Anlaesse
-
-| Anlass | Frist | Form | Mindestinhalt |
-|---|---|---|---|
-| Mandatsannahme | sofort | Textform | Auftragsbestaetigung Honorarbasis Vollmacht Datenschutz |
-| Wesentliche Schritte | unverzueglich | Textform oder Telefon mit Vermerk | was wann mit welcher Erfolgsaussicht |
-| Eingang Schuldner-Brief | innerhalb drei Werktagen | Textform | Sachstand Optionen Empfehlung |
-| Vergleichsangebot Gegenseite | unverzueglich | Textform | Wortlaut Bewertung Vorschlag |
-| Klageeinreichung | vorher | Textform | Risikohinweis Kostenrisiko Streitwert Gerichtskostenvorschuss |
-| Urteil oder Vollstreckungsbescheid | spaetestens drei Tage | Textform | Tenor Rechtsmittelhinweis Folgeschritte |
-| Mandatsende | sofort | Textform | Abschluss Aktenrueckgabe Aufbewahrungspflicht |
-
-## Pflicht-Hinweise
-
-- Risiko des Unterliegens Kostenfolge ZPO 91
-- Streitwertabhaengige Gebühren RVG 13
-- Vorschusspflicht des Gläubigers für Gerichtskosten GKG 12
-- Hemmungs- und Verjährungswirkung der Klageerhebung BGB 204
-
-## E-Mail-Muster Mandantensachstand
-
-```
-Betreff Sachstand Forderungssache [Name Schuldner] - Aktenzeichen [...]
-
-Sehr geehrte Frau Sehr geehrter Herr [Mandant]
-
-zur Forderung ueber [Hauptsumme] Euro gegen [Schuldner] berichten wir Folgendes.
-
-Aktueller Stand
-- [eingegangene Zahlung Verzug Schuldnerbrief]
-- [eigene Massnahme letzte Frist]
-
-Naechster Schritt
-- [Mahnbescheid Klage Vollstreckung]
-- voraussichtliche Frist bis [Datum]
-
-Risiko und Kosten
-- Aussicht [hoch mittel gering]
-- Gerichtskosten ca [Betrag] Anwaltskosten ca [Betrag]
-
-Wir bitten um Ihre Zustimmung bis [Datum].
-
-Mit freundlichen Gruessen
-```
-
-## Schweigepflicht
-
-- BRAO 43a Abs. 2 Verschwiegenheit
-- StGB 203 Strafbarkeit der Verletzung
-- DSGVO Art 6 Art 9 bei Verarbeitung
-
-## Norm-Pinpoints
-
-- BRAO 43a 49b
-- BORA 11
-- RVG 13 49b
-
-## Quellen
-
-- [BRAO 43a](https://www.gesetze-im-internet.de/brao/__43a.html)
-- [BORA 11](https://www.gesetze-im-internet.de/bora/__11.html)
-
----
-
-## Skill: `quellenkarte`
-
-_Kuratierte Quellenkarte für Forderungsmanagement Klagewerkstatt. Sortiert nach Gesetzen Rechtsprechung Verordnungen EU-Recht und Praxis-Literatur. Pinpoints ZPO BGB GVG GKG RVG InsO und EU-Verordnungen Brüssel Ia EuMVVO EuVTVO EuGFVO. Liefert Linkliste auf gesetze-im-internet.de bundesgerichtshof..._
-
-# Quellenkarte
-
-Quellen die in diesem Plugin durchgaengig zitiert werden.
-
-## Nationale Gesetze
-
-| Norm | Bereich | Link |
-|---|---|---|
-| BGB 195 199 203 204 212 | Verjährung Hemmung Neubeginn | [BGB 195](https://www.gesetze-im-internet.de/bgb/__195.html) |
-| BGB 286 288 | Verzug und Zinsen | [BGB 286](https://www.gesetze-im-internet.de/bgb/__286.html) |
-| BGB 631 641 650a ff | Werkvertrag Bau | [BGB 631](https://www.gesetze-im-internet.de/bgb/__631.html) |
-| ZPO 130 130d 138 142 253 | Form und Schriftsatz | [ZPO 253](https://www.gesetze-im-internet.de/zpo/__253.html) |
-| ZPO 688 ff | Mahnverfahren | [ZPO 688](https://www.gesetze-im-internet.de/zpo/__688.html) |
-| ZPO 704 ff | Vollstreckung | [ZPO 704](https://www.gesetze-im-internet.de/zpo/__704.html) |
-| GVG 23 71 | Sachliche Zuständigkeit | [GVG 23](https://www.gesetze-im-internet.de/gvg/__23.html) |
-| GKG 12 39 | Gerichtskosten | [GKG 12](https://www.gesetze-im-internet.de/gkg_2004/__12.html) |
-| RVG 13 14 49b | Anwaltsgebuehren | [RVG 13](https://www.gesetze-im-internet.de/rvg/__13.html) |
-| InsO 14 17 174 | Insolvenzantrag Anmeldung | [InsO 174](https://www.gesetze-im-internet.de/inso/__174.html) |
-
-## Rechtsprechung Quellen
-
-| Gericht | Link |
-|---|---|
-| Bundesgerichtshof | [bundesgerichtshof.de](https://www.bundesgerichtshof.de) |
-| Bundesverwaltungsgericht | [bverwg.de](https://www.bverwg.de) |
-| Bundesverfassungsgericht | [bverfg.de](https://www.bverfg.de) |
-| dejure Datenbank | [dejure.org](https://www.dejure.org) |
-| openJur | [openjur.de](https://openjur.de) |
-
-## EU-Recht
-
-| Norm | Bereich |
-|---|---|
-| VO 1215/2012 Brüssel Ia | Zuständigkeit Anerkennung Vollstreckung |
-| VO 1896/2006 EuMVVO | Europaeisches Mahnverfahren |
-| VO 805/2004 EuVTVO | Europaeischer Vollstreckungstitel |
-| VO 861/2007 EuGFVO | Europaeisches Verfahren für geringfuegige Forderungen |
-
-Quelle [eur-lex.europa.eu](https://eur-lex.europa.eu)
-
-## Praxis-Materialien
-
-- Bundesanzeiger für Basiszinssatz [bundesanzeiger.de](https://www.bundesanzeiger.de)
-- Online-Mahnverfahren der Länder [online-mahnantrag.de](https://www.online-mahnantrag.de)
-- e-Justice Portal EU [e-justice.europa.eu](https://e-justice.europa.eu)
-
-## Zitierhinweise
-
-- BGH-Entscheidungen mit Aktenzeichen und Datum
-- BVerfGE Band X Rn Y
-- ZPO und BGB ohne Klammerzitate
-
-## Quellen
-
-- [gesetze-im-internet.de](https://www.gesetze-im-internet.de)
-- [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
-- [eur-lex.europa.eu](https://eur-lex.europa.eu)
-
----
-
-## Skill: `redteam-qualitygate`
-
-_Red-Team-Review eines fertigen Schriftsatzes oder Mahnbescheidsantrags. Sucht aus Sicht der Gegenseite nach Angriffsflaechen Schwaechen Beweisluecken und Form-Fehlern. Pinpoints ZPO 138 substantiiertes Bestreiten ZPO 296 Verspaetungspraeklusion ZPO 130d beA-Form. Liefert Checkliste mit Gegen-Angr..._
-
-# Redteam Qualitygate
-
-Vor Einreichung ein Prüfgang aus Sicht der Beklagten.
-
-## Prüfraster
-
-| Bereich | Fragen aus Beklagten-Sicht |
-|---|---|
-| Aktivlegitimation | Ist Klägerin Inhaberin der Forderung Tritt eine Abtretung dazwischen |
-| Passivlegitimation | Stimmt der Beklagte mit dem Vertragspartner ueberein |
-| Anspruchsgrund | Welche Tatsachen sind unstreitig welche streitig |
-| Faelligkeit | Bestreite ich die Faelligkeit mit Erfolg |
-| Verzug | Wurde die Mahnung tatsaechlich zugestellt |
-| Verjährung | Kann ich die Einrede der Verjährung erheben |
-| Aufrechnung | Habe ich Gegenforderungen |
-| Erfuellung | Kann ich Teilzahlung nachweisen |
-| Form Beleg | Welche Anlage fehlt oder ist unleserlich |
-| Substantiierung | Welche Tatsache ist nur pauschal vorgetragen |
-
-## Schwachstellen-Liste
-
-| Schwachstelle | Konsequenz |
-|---|---|
-| Anlagen nicht klar nummeriert | Bezug unklar |
-| Zinsbeginn ohne Mahnungsdatum | Zinsanspruch streitig |
-| Pauschal-Behauptung ohne Datum | Substantiierungsruege |
-| Vollmacht fehlt oder veraltet | Zurueckweisung ZPO 88 |
-| Streitwert hoeher als notwendig | unnoetige Kosten |
-| AGB-Klausel zur Faelligkeit nicht geprueft BGB 305 ff | Klausel unwirksam |
-
-## Verspaetungspraeklusion
-
-Später Vortrag kann nach ZPO 296 zurueckgewiesen werden. Beklagte versucht oft Verzoegerungstaktik. Kläger sollte Beweise mit Klage einreichen.
-
-## Norm-Pinpoints
-
-- ZPO 88 130d 138 296
-- BGB 305 ff
-- BGB 387 ff Aufrechnung
-
-## Quellen
-
-- [ZPO 296](https://www.gesetze-im-internet.de/zpo/__296.html)
-- [ZPO 138](https://www.gesetze-im-internet.de/zpo/__138.html)
-
----
-
-## Skill: `tatbestand-beweis-belege`
-
-_Schluessige Tatbestandsdarstellung in einer Klage oder einem Schriftsatz mit Verknuepfung zu Beweisen und Belegen. Verlangt zeitliche Reihenfolge konkrete Tatsachen mit Beweismitteln Anlagenverweis. Pinpoints ZPO 138 Wahrheitspflicht ZPO 137 Verhandlungsgrundsatz ZPO 138 Abs. 2 substantiiertes Be..._
-
-# Tatbestand Beweis Belege
-
-Der Tatbestand muss konkret datiert beweisangebotenen Tatsachen enthalten. Pauschalsaetze fallen durch.
-
-## Tatbestand-Muster
-
-```
-I. Sachverhalt
-
-1. Am [Datum] schlossen die Parteien einen
-[Vertragstyp] ueber [Leistungsgegenstand]
-zum Preis von [Hauptsumme] Euro. Beweis
-Anlage K 1 Vertragsurkunde.
-
-2. Die Klaegerin lieferte die geschuldete
-Leistung am [Datum] vollstaendig. Beweis
-Anlage K 2 Lieferschein gezeichnet von
-[Empfaenger]. Zeuge [Name Anschrift].
-
-3. Die Klaegerin stellte unter dem [Datum]
-Rechnung Nr [Rechnungsnummer]. Beweis Anlage
-K 3.
-
-4. Die Beklagte erhielt die Rechnung
-spaetestens am [Datum]. Beweis Anlage K 4
-Sendungsverlauf.
-
-5. Mit Schreiben vom [Datum] mahnte die
-Klaegerin die Zahlung mit Fristsetzung bis
-[Datum]. Beweis Anlage K 5.
-
-6. Eine Zahlung erfolgte bis heute nicht.
-Beweis Kontoauszug Anlage K 6.
-```
-
-## Substantiierungsanforderungen
-
-| Anforderung | Inhalt |
-|---|---|
-| Vollstaendigkeit | jeder anspruchsbegruendende Punkt |
-| Zeitliche Reihenfolge | Datum bei jedem Schritt |
-| Beweismittel | je Tatsache mindestens eines |
-| Bezugnahme Anlage | im Text mit Anlagen-Nummer |
-| Tatsachen nicht Wertungen | wer was wann wo |
-
-## Bestreiten durch Beklagte
-
-| Form | Wirkung |
-|---|---|
-| Substantiiertes Bestreiten | Kläger trifft Beweislast voll |
-| Pauschales Bestreiten unzulaessig | gilt als zugestanden ZPO 138 Abs. 3 |
-| Nichtwissen ZPO 138 Abs. 4 | nur bei Tatsachen ausserhalb eigener Wahrnehmung |
-
-## Norm-Pinpoints
-
-- ZPO 137 Verhandlungsgrundsatz
-- ZPO 138 Wahrheitspflicht Substantiierung
-- ZPO 286 freie Beweiswuerdigung
-
-## Quellen
-
-- [ZPO 138](https://www.gesetze-im-internet.de/zpo/__138.html)
-- [ZPO 286](https://www.gesetze-im-internet.de/zpo/__286.html)
 
 ---
 

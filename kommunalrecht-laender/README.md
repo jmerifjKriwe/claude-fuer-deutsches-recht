@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 176 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -111,6 +111,22 @@ Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschre
 | `kita-satzung-gebuehr-kalkulieren` | der Länder: Kita-Satzung: Gebühr kalkulieren im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `kita-satzung-satzung-redlinen` | der Länder: Kita-Satzung: Satzung redlinen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `kita-satzung-zustaendigkeit-pruefen` | der Länder: Kita-Satzung: Zuständigkeit prüfen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
+| `kom-003-organ-und-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Organ und Zuständigkeit prüfen. Organ und Zuständigkeit prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
+| `kom-006-satzung-entwerfen-und-pruefen` | Kommunalrecht der Länder: Satzung entwerfen und prüfen. Satzung entwerfen und prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
+| `kom-010-kommunalabgaben-pruefen` | Kommunalrecht der Länder: Kommunalabgaben prüfen. Kommunalabgaben prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
+| `kom-038-gemeinderat-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Gemeinderat: Zuständigkeit prüfen. Zuständigkeit prüfen für Gemeinderat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-048-stadtrat-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Stadtrat: Zuständigkeit prüfen. Zuständigkeit prüfen für Stadtrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-058-kreistag-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Kreistag: Zuständigkeit prüfen. Zuständigkeit prüfen für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-068-buergermeister-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Bürgermeister: Zuständigkeit prüfen. Zuständigkeit prüfen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-078-landrat-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Landrat: Zuständigkeit prüfen. Zuständigkeit prüfen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-088-ausschuss-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Ausschuss: Zuständigkeit prüfen. Zuständigkeit prüfen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-098-ortschaftsrat-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Ortschaftsrat: Zuständigkeit prüfen. Zuständigkeit prüfen für Ortschaftsrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-108-kommunalaufsicht-zustaendigkeit-pruefe` | Kommunalrecht der Länder: Kommunalaufsicht: Zuständigkeit prüfen. Zuständigkeit prüfen für Kommunalaufsicht im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-118-kommunalabgabe-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Kommunalabgabe: Zuständigkeit prüfen. Zuständigkeit prüfen für Kommunalabgabe im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-128-strassenreinigung-zustaendigkeit-pruef` | Kommunalrecht der Länder: Straßenreinigung: Zuständigkeit prüfen. Zuständigkeit prüfen für Straßenreinigung im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-138-kita-satzung-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Kita-Satzung: Zuständigkeit prüfen. Zuständigkeit prüfen für Kita-Satzung im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-148-schultraeger-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Schulträger: Zuständigkeit prüfen. Zuständigkeit prüfen für Schulträger im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `kom-158-feuerwehr-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Feuerwehr: Zuständigkeit prüfen. Zuständigkeit prüfen für Feuerwehr im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `kommunalabgabe-aufsichtsbeschwerde-sch` | der Länder: Kommunalabgabe: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `kommunalabgabe-beschluss-bauen` | der Länder: Kommunalabgabe: Beschluss bauen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `kommunalabgabe-beteiligung-planen` | der Länder: Kommunalabgabe: Beteiligung planen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |

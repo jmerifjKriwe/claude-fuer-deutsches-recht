@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 102 Skills (gekuerzt fuer Chat-Fenster) des Plugins `weltraumrecht`.
+Dieser Megaprompt enthaelt top-8 von 180 Skills (gekuerzt fuer Chat-Fenster) des Plugins `weltraumrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -12,8 +12,8 @@ Dieser Megaprompt enthaelt top-8 von 102 Skills (gekuerzt fuer Chat-Fenster) des
 4. **commercial-leo-destinations-iss-nachfolge** — Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab H…
 5. **quantenkommunikation-via-satellit** — Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schlüsselverteilung uebersatellitisches Ba…
 6. **space-weather-solarsturm-haftung-und-versicherung** — Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-…
-7. **satellitenschwarm-ueber-deutschland-frequenz-kollision** — Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, L…
-8. **mondvertrag-ressourcen** — Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahr…
+7. **space-010-sat-schwarm-ueber-deutschland-frequenz-kollision** — Weltraumrecht: Satellitenschwarm über Deutschland Frequenz Kollisions- und Datenschutzrisiken mit geführtem Workflow, No…
+8. **space-002-outer-space-treaty-prinzipien-nichtaneignung-nationale** — Weltraumrecht: Outer Space Treaty Grundprinzipien Nichtaneignung und nationale Verantwortung mit geführtem Workflow, Nor…
 
 ---
 
@@ -372,229 +372,101 @@ _Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung vo
 
 ---
 
-## Skill: `satellitenschwarm-ueber-deutschland-frequenz-kollision`
+## Skill: `space-010-sat-schwarm-ueber-deutschland-frequenz-kollision`
 
-_Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung im Weltraumrecht._
+_Weltraumrecht: Satellitenschwarm über Deutschland Frequenz Kollisions- und Datenschutzrisiken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis._
 
-# Weltraumrecht: Satellitenschwarm über Deutschland: Frequenz-, Kollisions- und Datenschutzrisiken
+# Weltraumrecht: Satellitenschwarm über Deutschland Frequenz Kollisions- und Datenschutzrisiken
 
-## Arbeitsweg
+## Aufgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe und Einsatzbereich
-
-Bearbeite **Satellitenschwarm über Deutschland: Frequenz-, Kollisions- und Datenschutzrisiken** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
-
-## Thematischer Kontext
-
-- Mega-Konstellationen: Starlink, OneWeb, Amazon Kuiper, IRIS²
-- Frequenzinterferenz-Risiken: ITU-Koordinierung, BNetzA-Zuständigkeit
-- Kollisionswarnung: Space Traffic Management, IADC-Guidelines
-- Datenschutz: DSGVO bei Erdbeobachtung über Deutschland
-- Lichtverschmutzung: astronomische Einwendungen, Nachbarrecht
-
-## Einschlägige Normen und Regelwerke
-
-- **ITU Radio Regulations Art. 9**: Koordinierungspflicht bei Frequenzinterferenz
-- **BNetzA**: Nationale Frequenzbehörde; Interferenzbeschwerden
-- **IADC Debris Mitigation Guidelines**: Kollisionsvermeidung für Konstellationsbetreiber
-- **DSGVO Art. 6**: Rechtsgrundlage für Erdbeobachtungsdaten
-- **EU 2021/696 SST**: Space Surveillance and Tracking: Kollisionswarnung
-- **UNCOPUOS LTS Guidelines**: Guideline 2, 4: Kurzfristige Kollisionsvermeidung
+Dieser Skill bearbeitet **Satellitenschwarm über Deutschland Frequenz Kollisions- und Datenschutzrisiken** im Bereich **Weltraumrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
 ## Kaltstart in 6 Fragen
 
-1. **Rolle**: Wer handelt – Betreiber, Investor, Behörde, Kanzlei, Versicherer, Universität, Verlag, Betroffene?
-2. **Aufgabentyp**: Prüfung, Entwurf, Genehmigung, Compliance, Streit, Due Diligence oder Dokumentation?
-3. **Unterlagen**: Welche Dokumente liegen vor – Vertrag, Lizenz, Registerauszug, technische Spezifikation, Gutachten, Normtext?
-4. **Rechtsordnung**: Deutsches Recht, EU-Recht, US-Recht, Völkerrecht – oder Kombination?
-5. **Fristen**: Welche Genehmigungsfristen, ITU-Koordinierungsfristen, Vertragsoptionen oder Behördenfristen laufen?
-6. **Ergebnisformat**: Memo, Ampelmatrix, Klauselentwurf, Behördenbrief, Board-Vorlage oder Fristenkalender?
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
 ## Prüfprogramm
 
-1. **Frequenzinterferenz**: ITU-Koordinierungspflicht prüfen; BNetzA-Beschwerdeverfahren kennen
-2. **Kollisionsrisiko**: IADC-Leitlinien, ESA Space Debris Office-Daten, STM-Protokolle
-3. **DSGVO-Compliance**: Personenbezogene Daten aus Erdbeobachtung über Deutschland: DSFA erforderlich?
-4. **Lichtverschmutzung**: Astronomische Nutzungseinschränkungen; keine direkte Rechtsnorm, aber Abwägungsgebot
-5. **Debris-Mitigation-Plan**: 25-Jahres-Regel; 5-Jahres-Regel für LEO nach neuem IADC-Standard
-6. **Notfallkommunikation**: Kollisionswarnprotokoll: Wer informiert wen?
-
-## Normencheck: Schicht für Schicht
-
-### Völkerrecht
-- Outer Space Treaty 1967 (OST): Art. I, II, VI, VII, VIII, IX
-- Liability Convention 1972 (LIAB): Art. II–V (Haftungsregime)
-- Registration Convention 1975 (REG): Registrierungspflichten
-- Rescue Agreement 1968 (ARRA): Rettung und Rückgabe
-- Ggf. Moon Agreement 1979 (MA): Ressourcen, Umwelt
-
-### EU-Recht
-- EU Space Programme Regulation (EU) 2021/696: Galileo, Copernicus, IRIS², SST
-- EU Dual-Use-Verordnung (EU) 2021/821: Exportkontrolle Raumfahrtgüter
-- NIS2-Richtlinie 2022/2555: Cybersicherheit kritischer Infrastruktur
-- DSGVO (EU) 2016/679: Personenbezogene Daten (Erdbeobachtung, Tracking)
-
-### Deutsches Recht
-- LuftVG (Luftverkehrsgesetz): https://www.gesetze-im-internet.de/luftvg/
-- Geplanter Raumfahrtgesetzentwurf BMWK
-- BAFA Exportkontrolle: ITAR-Listung, EAR, EU-Dual-Use
-- BSI-Gesetz, KRITIS-Verordnung
-
-### Soft Law und Guidelines
-- UNCOPUOS Long-Term Sustainability Guidelines (LTS 2018)
-- Artemis Accords (2020, 37+ Unterzeichner)
-- IADC Debris Mitigation Guidelines
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- UN-Weltraumverträge und nationales Recht getrennt prüfen
+- Startstaat, Registerstaat, Betreiber, Launch Provider und Eigentümer trennen
+- Haftung, Versicherung, Frequenzen, Exportkontrolle und Cybersecurity immer zusammen denken
+- Bei Quellen: UNOOSA, EUR-Lex, ITU, BNetzA, DLR/BMWK bevorzugen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
 ## Typische Fallen
 
-- **Keine universelle Norm**: Lichtverschmutzung ist rechtlich nicht geregelt; Abwägung über Abwägungsgebot
-- **ITU priority rule**: Erster Anmelder hat Schutzprivileg; spätere Systeme müssen koordinieren
-- **Datenschutz vs. Sicherheit**: Erdbeobachtungsdaten können sicherheitsrelevant sein; Ausnahmen prüfen
-- **Debris-Plan unverbindlich**: IADC-Leitlinien sind Soft Law; keine Durchsetzung ohne nationales Recht
-- **Zuständigkeit ungeklärt**: Wer ist für Kollisionswarnungen in Deutschland zuständig?
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Qualitätssicherung
+## Output
 
-- Keine Scheingenauigkeit: Wenn Normstand, Ratifikationsstatus oder Rechtsprechung unklar sind, Live-Check vorschlagen.
-- Quellen nur nach Verifikation zitieren: UNOOSA, EUR-Lex, Gesetze-im-Internet, BAFA, ESA, BNetzA.
-- Tatsachen, Annahmen, Wertungen und offene Beweisfragen immer getrennt führen.
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Startstaat, Registerstaat, Betreiber, Missionskontrolle, Versicherer immer separat identifizieren.
-
-## Output-Formate
-
-- Frequenz-Interferenz-Analyse mit BNetzA-Verfahrenshinweisen
-- Debris-Mitigation-Plan-Prüfung für Konstellationsbetreiber
-- DSGVO-Compliance-Check für Erdbeobachtungsdaten
-- STM-Protokoll-Empfehlung
-- Behördenbrief an BNetzA bei Interferenz
-
-## Quellen und Normen
-
-- ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
-- BNetzA Frequenzen: https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/start.html
-- IADC Debris Mitigation Guidelines: https://www.iadc-home.org/documents_public/view/id/82
-- EU Space Programme Regulation SST: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0696
-- UNCOPUOS LTS Guidelines: https://www.unoosa.org/oosa/en/ourwork/topics/long-term-sustainability-of-outer-space-activities.html
-- DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
+- Space-Legal-Memo
+- Genehmigungsfahrplan
+- Haftungsmatrix
+- Versicherungsliste
+- Vertragsredline
+- Behördenbrief
+- Board-Dashboard
 
 ---
 
-## Skill: `mondvertrag-ressourcen`
+## Skill: `space-002-outer-space-treaty-prinzipien-nichtaneignung-nationale`
 
-_Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahrtnationen im Weltraumrecht._
+_Weltraumrecht: Outer Space Treaty Grundprinzipien Nichtaneignung und nationale Verantwortung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis._
 
-# Weltraumrecht: Mondvertrag: Ressourcen-Governance und politische Akzeptanz
+# Weltraumrecht: Outer Space Treaty Grundprinzipien Nichtaneignung und nationale Verantwortung
 
-## Arbeitsweg
+## Aufgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe und Einsatzbereich
-
-Bearbeite **Mondvertrag: Ressourcen-Governance und politische Akzeptanz** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
-
-## Thematischer Kontext
-
-- Moon Agreement 1979 (MA) – ambitioniertestes und gescheitertstes Weltraumdokument
-- Art. 11: Mond und Ressourcen als gemeinsames Erbe der Menschheit
-- Fehlendes internationales Ressourcenregime als zentrales Problem
-- Keine Ratifikation durch USA, Russland, China, EU-Staaten
-- Verhältnis zu Artemis Accords und ILRS-Programm
-
-## Einschlägige Normen und Regelwerke
-
-- **MA Art. 11 Abs. 1**: Gemeinsames Erbe der Menschheit – keine Eigentumsrechte
-- **MA Art. 11 Abs. 3**: Explorations- und Nutzungsfreiheit; kommerzielle Extraktion erst nach Regime
-- **MA Art. 11 Abs. 5**: Pflicht zur Schaffung eines internationalen Ressourcenregimes
-- **MA Art. 7**: Schutz der Mondumwelt
-- **MA Art. 14**: Staatliche Verantwortung für nichtstaatliche Aktivitäten
-- **US SPACE Act 2015**: Ressourceneigentum ohne Gebietsanspruch – Gegenentwurf zum MA
-- **Luxemburger Space Resources Law 2017**: EU-paralleles Ressourcenrechtsmodell
+Dieser Skill bearbeitet **Outer Space Treaty Grundprinzipien Nichtaneignung und nationale Verantwortung** im Bereich **Weltraumrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
 ## Kaltstart in 6 Fragen
 
-1. **Rolle**: Wer handelt – Betreiber, Investor, Behörde, Kanzlei, Versicherer, Universität, Verlag, Betroffene?
-2. **Aufgabentyp**: Prüfung, Entwurf, Genehmigung, Compliance, Streit, Due Diligence oder Dokumentation?
-3. **Unterlagen**: Welche Dokumente liegen vor – Vertrag, Lizenz, Registerauszug, technische Spezifikation, Gutachten, Normtext?
-4. **Rechtsordnung**: Deutsches Recht, EU-Recht, US-Recht, Völkerrecht – oder Kombination?
-5. **Fristen**: Welche Genehmigungsfristen, ITU-Koordinierungsfristen, Vertragsoptionen oder Behördenfristen laufen?
-6. **Ergebnisformat**: Memo, Ampelmatrix, Klauselentwurf, Behördenbrief, Board-Vorlage oder Fristenkalender?
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
 ## Prüfprogramm
 
-1. **Vertragsstatus**: Ist der betreffende Staat MA-Ratifizierer? Wenn nein → nur OST Art. II relevant
-2. **Aktivitätstyp**: Erkundung (frei) vs. Ressourcenextraktion (MA-Regime erforderlich, aber inexistent)?
-3. **Nationales Ressourcenrecht**: SPACE Act, Luxemburger Gesetz oder nationales Äquivalent anwendbar?
-4. **Artemis Accords**: Hat Staat unterzeichnet? Safety Zones und Interoperabilitätspflichten prüfen
-5. **Umweltpflichten**: Art. 7 MA und Planetary Protection (OST Art. IX, COSPAR Policy) berücksichtigen
-6. **Zukunftsszenario**: Bei MA-Regime-Entstehung: Investitionsschutz, Eigentumsrechte, Konzessionsmodell?
-
-## Normencheck: Schicht für Schicht
-
-### Völkerrecht
-- Outer Space Treaty 1967 (OST): Art. I, II, VI, VII, VIII, IX
-- Liability Convention 1972 (LIAB): Art. II–V (Haftungsregime)
-- Registration Convention 1975 (REG): Registrierungspflichten
-- Rescue Agreement 1968 (ARRA): Rettung und Rückgabe
-- Ggf. Moon Agreement 1979 (MA): Ressourcen, Umwelt
-
-### EU-Recht
-- EU Space Programme Regulation (EU) 2021/696: Galileo, Copernicus, IRIS², SST
-- EU Dual-Use-Verordnung (EU) 2021/821: Exportkontrolle Raumfahrtgüter
-- NIS2-Richtlinie 2022/2555: Cybersicherheit kritischer Infrastruktur
-- DSGVO (EU) 2016/679: Personenbezogene Daten (Erdbeobachtung, Tracking)
-
-### Deutsches Recht
-- LuftVG (Luftverkehrsgesetz): https://www.gesetze-im-internet.de/luftvg/
-- Geplanter Raumfahrtgesetzentwurf BMWK
-- BAFA Exportkontrolle: ITAR-Listung, EAR, EU-Dual-Use
-- BSI-Gesetz, KRITIS-Verordnung
-
-### Soft Law und Guidelines
-- UNCOPUOS Long-Term Sustainability Guidelines (LTS 2018)
-- Artemis Accords (2020, 37+ Unterzeichner)
-- IADC Debris Mitigation Guidelines
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- UN-Weltraumverträge und nationales Recht getrennt prüfen
+- Startstaat, Registerstaat, Betreiber, Launch Provider und Eigentümer trennen
+- Haftung, Versicherung, Frequenzen, Exportkontrolle und Cybersecurity immer zusammen denken
+- Bei Quellen: UNOOSA, EUR-Lex, ITU, BNetzA, DLR/BMWK bevorzugen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
 ## Typische Fallen
 
-- **MA nicht ratifiziert ≠ MA irrelevant**: Als Soft-Law-Quelle und für Auslegung von OST Art. II diskutiert
-- **Gemeinsames Erbe ≠ Verbot**: Art. 11 erlaubt Erkundung; blockiert nur kommerzielle Extraktion ohne Regime
-- **Sicherheitszonen ohne Rechtsgrundlage**: Artemis Accords-Zonen binden nur Unterzeichner; kein universelles Recht
-- **Doppelstandard**: Staat kann OST ratifiziert haben, aber nationales Gesetz erlaubt Ressourceneigentum
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Qualitätssicherung
+## Output
 
-- Keine Scheingenauigkeit: Wenn Normstand, Ratifikationsstatus oder Rechtsprechung unklar sind, Live-Check vorschlagen.
-- Quellen nur nach Verifikation zitieren: UNOOSA, EUR-Lex, Gesetze-im-Internet, BAFA, ESA, BNetzA.
-- Tatsachen, Annahmen, Wertungen und offene Beweisfragen immer getrennt führen.
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Startstaat, Registerstaat, Betreiber, Missionskontrolle, Versicherer immer separat identifizieren.
-
-## Output-Formate
-
-- Normvergleichsmatrix: MA vs. OST vs. Artemis Accords vs. nationales Recht
-- Ressourcenrechts-Gutachten für Mondmission oder Asteroiden-Projekt
-- Investitionsrisiko-Memo: Rechtslage bei MA-Regime-Entstehung
-- Compliance-Checkliste für Mondprogramm-Beteiligte
-
-## Quellen und Normen
-
-- Moon Agreement 1979: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html
-- Artemis Accords: https://www.nasa.gov/artemis-accords/
-- US SPACE Act 2015: https://www.congress.gov/bill/114th-congress/house-bill/2262
-- Luxemburger Space Resources Law: https://gouvernement.lu/en/actualites/toutes_actualites/communiques/2017/07-juillet/14-loi-espace.html
-- UNOOSA Ratifikationsstatus: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/status/index.html
+- Space-Legal-Memo
+- Genehmigungsfahrplan
+- Haftungsmatrix
+- Versicherungsliste
+- Vertragsredline
+- Behördenbrief
+- Board-Dashboard
 
 ---
 

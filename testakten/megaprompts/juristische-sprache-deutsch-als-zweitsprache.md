@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `juristische-sprache-deutsch-als-zweitsprache`.
+Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `juristische-sprache-deutsch-als-zweitsprache`.
 
 ## Inhaltsverzeichnis
 

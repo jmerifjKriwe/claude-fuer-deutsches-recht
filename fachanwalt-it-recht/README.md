@@ -46,7 +46,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 137 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -124,6 +124,15 @@ Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschre
 | `einstieg-schnelltriage-fallrouting` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt IT Recht-Plugin: Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin... |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für IT-, Datenschutz- und Telemedienrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter... |
 | `erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` | Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Auf... |
+| `fachanwalt-it-recht-datenschutz-folgenabschaetzung` | Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO... |
+| `fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr` | IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen. Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muessen aktuell gestaltet werden. Normen BGB §§ 305 ff. AGB-Kontrolle VS... |
+| `fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung` | KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art. 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konformitätserklarung. Normen KI-VO 2024/1689 An... |
+| `fachanwalt-it-recht-open-source-compliance-audit` | Open-Source-Software Compliance Audit für GPL LGPL MIT BSD Apache Copyleft und SBOM. Anwendungsfall Software-Produkt enthaelt Open-Source-Komponenten und Lizenzpflichten muessen vor Auslieferung geprüft werden. Normen GPL v2/v3 AGPL LGPL... |
+| `fachanwalt-it-recht-orientierung` | Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA K... |
+| `fachanwalt-it-recht-saas-vertrag-verhandlung` | SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprüft werden und IT-rechtliche Pflicht-Klauseln muessen geprüft werden. Normen Art. 28 DSGVO AVV... |
+| `fachanwalt-it-recht-software-mangel` | Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Rücktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufre... |
+| `fachanwalt-it-recht-vertragsstrafe-pruefen` | Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe... |
 | `governance-mandantenkommunikation-entscheidungsvorlage` | Governance: Mandantenkommunikation und Entscheidungsvorlage: Governance: Mandantenkommunikation und Entscheidungsvorlage. |
 | `hacking-haftung-paragraf-823-bgb-it-sicherheit` | Hacking Haftung § 823 BGB it Sicherheit: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `informationstechnologierecht-tatbestand-beweis` | Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
@@ -164,6 +173,8 @@ Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschre
 | `softwarefehler-mangelhaftung-pruefen` | Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung: Anwendungsfall Software versagt und Mandant braucht Einordnung ob Kauf- Werk- oder Dienstvertragsrecht gi... |
 | `softwarepflege-vertrag-paragraf-307-bgb` | Softwarepflege Vertrag § 307 BGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `source-internationaler-bezug-und-schnittstellen` | Source: Internationaler Bezug und Schnittstellen: Source: Internationaler Bezug und Schnittstellen. |
+| `spezial-datenschutzrecht-red-team-und-qualitaetskontrolle` | Datenschutzrecht: Red-Team und Qualitätskontrolle. |
+| `spezial-nis2-livequellen-und-rechtsprechungscheck` | Nis2: Livequellen- und Rechtsprechungscheck. |
 | `ttdsg-verhandlung-vergleich-und-eskalation` | Ttdsg: Verhandlung, Vergleich und Eskalation: Ttdsg: Verhandlung, Vergleich und Eskalation. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt IT-Recht: trennt fehlende Tatsachen von fehlenden Belegen (Softwarevertrag, SLA, Pflichtenheft), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgerichte), Frist und Ersatznachweis. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für IT-, Datenschutz- und Telemedienrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverhandl... |
@@ -172,8 +183,10 @@ Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschre
 | `vertragsstrafe-pruefen` | Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen: Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Fr... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

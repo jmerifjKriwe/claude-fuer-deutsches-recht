@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 101 Skills (gekuerzt fuer Chat-Fenster) des Plugins `nis2-cybersecurity-compliance`.
+Dieser Megaprompt enthaelt top-8 von 102 Skills (gekuerzt fuer Chat-Fenster) des Plugins `nis2-cybersecurity-compliance`.
 
 ## Inhaltsverzeichnis
 

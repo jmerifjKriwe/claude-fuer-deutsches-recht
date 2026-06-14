@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 300 Skills (gekuerzt fuer Chat-Fenster) des Plugins `haushaltsrecht-bho-bund-laender`.
+Dieser Megaprompt enthaelt top-8 von 345 Skills (gekuerzt fuer Chat-Fenster) des Plugins `haushaltsrecht-bho-bund-laender`.
 
 ## Inhaltsverzeichnis
 

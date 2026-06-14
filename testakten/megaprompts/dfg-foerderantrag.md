@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 80 Skills des Plugins `dfg-foerderantrag`.
+Dieser Megaprompt enthaelt top-10 von 84 Skills des Plugins `dfg-foerderantrag`.
 
 ## Inhaltsverzeichnis
 

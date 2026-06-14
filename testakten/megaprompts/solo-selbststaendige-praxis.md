@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 200 Skills (gekuerzt fuer Chat-Fenster) des Plugins `solo-selbststaendige-praxis`.
+Dieser Megaprompt enthaelt top-8 von 201 Skills (gekuerzt fuer Chat-Fenster) des Plugins `solo-selbststaendige-praxis`.
 
 ## Inhaltsverzeichnis
 

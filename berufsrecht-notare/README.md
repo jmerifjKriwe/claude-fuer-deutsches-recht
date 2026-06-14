@@ -50,7 +50,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 196 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 204 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -179,6 +179,14 @@ Automatisch generierte Komplett-Liste aller 196 Skills in diesem Plugin. Beschre
 | `notaranderkonto-auszahlungsreife-kaltstart-und-faktenmat` | Notare: notaranderkonto auszahlungsreife - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. |
 | `notaranderkonto-auszahlungsreife-organisationspflicht` | Notare: notaranderkonto auszahlungsreife - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. |
 | `notaranderkonto-auszahlungsreife-rechtsprechungscheck` | Notare: notaranderkonto auszahlungsreife - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. |
+| `notare-amtsenthebung-vermoegensverfall-kaltstart-und-faktenmatr` | Notare: amtsenthebung vermögensverfall - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `notare-datenschutzpanne-notariat-kaltstart-und-faktenmatrix` | Notare: datenschutzpanne notariat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `notare-fernbeglaubigung-und-videoverfahren-kaltstart-und-fakten` | Notare: fernbeglaubigung und videoverfahren - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `notare-kollegialitaet-und-zustaendigkeit-kaltstart-und-faktenma` | Notare: kollegialitaet und zustaendigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `notare-kollegialitaet-und-zustaendigkeit-kammerantwort-und-verf` | Notare: kollegialitaet und zustaendigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `notare-kollegialitaet-und-zustaendigkeit-organisationspflicht-u` | Notare: kollegialitaet und zustaendigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `notare-kollegialitaet-und-zustaendigkeit-rechtsprechungscheck-u` | Notare: kollegialitaet und zustaendigkeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `notare-urkundensammlung-und-verwahrung-kaltstart-und-faktenmatr` | Notare: urkundensammlung und verwahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notarielle-verwahrung-notarkammer-anfrage` | Notare: notarielle verwahrung von daten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. |
 | `notarielle-verwahrung-von-daten-kammerantwort-und-verfahren` | Notare: notarielle verwahrung von daten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. |
 | `notarielle-verwahrung-von-daten-organisationspflicht` | Notare: notarielle verwahrung von daten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. |

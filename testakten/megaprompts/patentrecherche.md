@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `patentrecherche`.
+Dieser Megaprompt enthaelt top-15 von 57 Skills des Plugins `patentrecherche`.
 
 ## Inhaltsverzeichnis
 

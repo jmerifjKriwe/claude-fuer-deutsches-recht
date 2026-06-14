@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 110 Skills (gekuerzt fuer Chat-Fenster) des Plugins `startup-hr-personalabteilung-berlin`.
+Dieser Megaprompt enthaelt top-8 von 111 Skills (gekuerzt fuer Chat-Fenster) des Plugins `startup-hr-personalabteilung-berlin`.
 
 ## Inhaltsverzeichnis
 

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 53 Skills des Plugins `jveg-kostenpruefer`.
+Dieser Megaprompt enthaelt top-15 von 60 Skills des Plugins `jveg-kostenpruefer`.
 
 ## Inhaltsverzeichnis
 

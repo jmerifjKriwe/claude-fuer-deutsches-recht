@@ -41,12 +41,13 @@ Keine Rechtsberatung. Rechtsprechung und Verwaltungspraxis nur mit frei prüfbar
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `ad-insiderliste` | Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation im Insiderrecht Compliance. |
 | `aktienr-anleiheemission` | Prüft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour DVO 2016/1052, Handelsverbote, Ad-hoc und Offenlegungspflichten im Insiderrecht Compliance. |
+| `allgemein` | Einstieg und Workflow fuer Insiderrecht, Ad-hoc, Insiderliste, Handelsverbote und BaFin-Kommunikation. |
 | `analystencall` | Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Prüfung und Post-Call-Protokoll im Insiderrecht Compliance. |
 | `anleiheemission` | Prüft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte im Insiderrecht Compliance. |
 | `archivierung` | Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept im Insiderrecht Compliance. |
@@ -70,6 +71,60 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `gerichtsverfahren-sanktionen` | Prüft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen im Insiderrecht Compliance. |
 | `guidance-analystencall` | Prüft wann ein Guidance-Update (Prognoseaenderung) zur Insiderinformation wird, koordiniert Ad-hoc und schreibt den Prognose-Passus im Insiderrecht Compliance. |
 | `handelsverbot-unlawful` | Prüft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von Absicht, analysiert Safe-Harbour-Ausnahmen und stellt Verteidigungsdokumentation sicher im Insiderrecht Compliance. |
+| `ins-001-insiderinformation-art7` | Prueft Insiderinformation nach Art. 7 MAR: praezise Information, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug und Kursrelevanz. |
+| `ins-002-zwischenschritte-ma` | Prueft Zwischenschritte bei M&A, Finanzierung, Kapitalmassnahmen und Projektabbruechen als moegliche Insiderinformation. |
+| `ins-003-ad-hoc-art17` | Fuehrt durch Ad-hoc-Pflicht, Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung und Dokumentation. |
+| `ins-004-aufschubentscheidung` | Prueft Aufschub der Offenlegung: berechtigtes Interesse, Irrefuehrungsrisiko, Vertraulichkeit und nachtraegliche BaFin-Mitteilung. |
+| `ins-005-insiderliste-art18` | Fuehrt Insiderlisten, Projektlisten, permanente Insider, Aktualisierung, Belehrung und Abrufbereitschaft fuer BaFin-Anfragen. |
+| `ins-006-handelsverbot-art14` | Prueft Insiderhandelsverbot, Empfehlung, Verleitung, unrechtmaessige Offenlegung und interne Trading Stops. |
+| `ins-007-unlawful-disclosure` | Prueft erlaubte und verbotene Weitergabe von Insiderinformationen an Berater, Banken, Arbeitnehmer, Aufsichtsräte und Transaktionspartner. |
+| `ins-008-market-sounding` | Prueft Marktsondierungen, Empfaengerpflichten, Skript, Zustimmung, Aufzeichnung, Wall-Crossing und Follow-up. |
+| `ins-009-directors-dealings` | Prueft Eigengeschaefte von Fuehrungskraeften und nahestehenden Personen, Schwellen, Fristen und Closed Periods. |
+| `ins-010-closed-periods` | Organisiert Closed Periods, Blackout Windows, Ausnahmen und Freigabeprozesse. |
+| `ins-011-leak-response` | Fuehrt durch Geruecht, Presseleck, Kursbewegung, Anfrage BaFin/Boerse und beschleunigte Ad-hoc-Entscheidung. |
+| `ins-012-vorstand-aufsichtsrat` | Prueft Insiderrecht im Organbereich: Vorstandsvorlagen, AR-Sitzung, Sonderausschuss, M&A und Protokolle. |
+| `ins-013-berater-kanzlei-bank` | Steuert Insiderinformationen bei Kanzleien, Investmentbanken, Wirtschaftsprüfern und Due-Diligence-Teams. |
+| `ins-014-employee-stock-plan` | Prueft Insiderrecht bei Mitarbeiteraktien, Optionsprogrammen, Vesting, Ausuebung und internen Geruechten. |
+| `ins-015-sanktionen-wphg` | Prueft WpHG/MAR-Sanktionsrisiken, BaFin-Verfahren, Straf-/OWi-Schnittstelle, Verteidigung und Dokumentationsstrategie. |
+| `ins-016-schulung-policy` | Erstellt Insider Policy, Schulungen, Acknowledgements, Need-to-know-Regeln und Eskalationswege. |
+| `ins-017-datenraum-transaktion` | Prueft Insiderrecht im Datenraum: Stufenfreigabe, Clean Team, Q&A, Logging, Cleansing und Bieterkreis. |
+| `ins-018-krisenfall-profit-warning` | Prueft Gewinnwarnung, Liquiditaetskrise, Covenant Breach, Prognoseaenderung und Ad-hoc-Schwelle. |
+| `ins-019-red-team` | Findet Schwachstellen in Insidervermerk, Aufschubakte, Insiderliste, Ad-hoc-Entwurf und Handelsfreigabe. |
+| `ins-020-output-dossier` | Erzeugt Insidervermerk, Ad-hoc-Entwurf, Aufschubbeschluss, Insiderlistennotiz, Board Memo und BaFin-Stellungnahme. |
+| `ins-021-kapitalerh-hung` | Spezialskill Insiderrecht fuer Kapitalerhöhung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-022-aktienr-ckkauf` | Spezialskill Insiderrecht fuer Aktienrückkauf: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-023-anleiheemission` | Spezialskill Insiderrecht fuer Anleiheemission: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-024-covenant-breach` | Spezialskill Insiderrecht fuer Covenant Breach: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-025-cyberangriff` | Spezialskill Insiderrecht fuer Cyberangriff: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-026-produktzulassung` | Spezialskill Insiderrecht fuer Produktzulassung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-027-gerichtsverfahren` | Spezialskill Insiderrecht fuer Gerichtsverfahren: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-028-whistleblower-meldung` | Spezialskill Insiderrecht fuer Whistleblower-Meldung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-029-vorstandswechsel` | Spezialskill Insiderrecht fuer Vorstandswechsel: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-030-dividenden-nderung` | Spezialskill Insiderrecht fuer Dividendenänderung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-031-guidance-update` | Spezialskill Insiderrecht fuer Guidance Update: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-032-analystencall` | Spezialskill Insiderrecht fuer Analystencall: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-033-roadshow` | Spezialskill Insiderrecht fuer Roadshow: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-034-dual-listed-issuer` | Spezialskill Insiderrecht fuer Dual-Listed Issuer: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-035-krypto-token` | Spezialskill Insiderrecht fuer Krypto-Token: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-036-warenderivate` | Spezialskill Insiderrecht fuer Warenderivate: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-037-spin-off` | Spezialskill Insiderrecht fuer Spin-off: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-038-delisting` | Spezialskill Insiderrecht fuer Delisting: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-039-bernahmeangebot` | Spezialskill Insiderrecht fuer Übernahmeangebot: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-040-stimmrechtsmitteilung` | Spezialskill Insiderrecht fuer Stimmrechtsmitteilung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-041-short-seller-attack` | Spezialskill Insiderrecht fuer Short Seller Attack: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-042-social-media-leak` | Spezialskill Insiderrecht fuer Social Media Leak: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-043-chatgruppe-trading` | Spezialskill Insiderrecht fuer Chatgruppe Trading: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-044-familienangeh-rige` | Spezialskill Insiderrecht fuer Familienangehörige: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-045-beraterdepot` | Spezialskill Insiderrecht fuer Beraterdepot: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-046-employee-rumor` | Spezialskill Insiderrecht fuer Employee Rumor: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-047-aufsichtsratssonderpr-fung` | Spezialskill Insiderrecht fuer Aufsichtsratssonderprüfung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-048-bankaufsichtliches-handeln` | Spezialskill Insiderrecht fuer Bankaufsichtliches Handeln: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-049-sanierung-und-starug` | Spezialskill Insiderrecht fuer Sanierung und StaRUG: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-050-insolvenzreife` | Spezialskill Insiderrecht fuer Insolvenzreife: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-051-esg-schock` | Spezialskill Insiderrecht fuer ESG-Schock: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-052-lieferkettenereignis` | Spezialskill Insiderrecht fuer Lieferkettenereignis: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-053-ki-prognosemodell` | Spezialskill Insiderrecht fuer KI-Prognosemodell: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
+| `ins-054-archivierung` | Spezialskill Insiderrecht fuer Archivierung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur. |
 | `ins-055-incident-drill` | Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck: Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-... |
 | `insiderinformation-zwischenschritte` | Prüft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz im Insiderrecht Compliance. |
 | `insiderliste-art18` | Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung im Insiderrecht Compliance. |

@@ -52,4 +52,3 @@
 | D&O-Deckung | 59.000 | Einmalig |
 | HDI Rückkaufswert (ggf. Mehrforderung) | ca. 5.000–8.000 | Stornoabzug strittig |
 | **Gesamtpotenzial (nominal)** | **ca. 375.000–380.000** | |
-

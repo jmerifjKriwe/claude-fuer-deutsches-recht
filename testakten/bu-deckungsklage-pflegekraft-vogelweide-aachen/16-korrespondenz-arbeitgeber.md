@@ -46,4 +46,3 @@ wir bestätigen folgende Angaben zur Tätigkeit von Frau Marion Vogelweide in un
 ---
 
 *Hinweis Kanzlei: Die Bestätigung des Arbeitgebers belegt das körperlich schwere Berufsbild und unterstützt unsere Klagebegründung. Die Aussage "55–60 % körperlich schwer" überschreitet die 50%-BU-Schwelle bereits allein für die körperliche Komponente.*
-

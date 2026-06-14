@@ -127,7 +127,7 @@ Dieses Plugin ist ein Werkzeug zur Beschleunigung legistischer Arbeit. Es ersetz
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 244 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 254 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -291,6 +291,10 @@ Automatisch generierte Komplett-Liste aller 244 Skills in diesem Plugin. Beschre
 | `legistik-europarechtskonformitaet-notifizierung` | Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht prüfen. Anwendungsfall Referent oder Verband fragt ob nationales Vorhaben mit EU-Recht vereinbar ist oder ob Notifizierungspflicht besteht. Primaerrecht EUV AEUV Grundrechtec... |
 | `legistik-kabinettsentwurf-ressortabstimmung` | Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Fri... |
 | `legistik-normenkartierung-aenderungsbefehle` | Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Änderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert w... |
+| `legw-bmi-auslaender-und-staatsangehoerigkeitsrecht` | Sachbereich Auslaender- und Staatsangehoerigkeitsrecht im Geschaeftsbereich BMI: Normbestand (AufenthG; AsylG; StAG; FreizuegG/EU; AZRG; AsylbLG (mit BMAS).); Akteure (BAMF; Auslaenderbehoerden; Bundespolizei.); EU-Bezug (GEAS; Dublin-VO... |
+| `legw-bmleh-agrar-und-foerderungsrecht-gak-gap` | Sachbereich Agrar- und Foerderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Laender-Landwirtschaftsministerien; Generaldirektion AGRI; BM... |
+| `legw-bmwe-aussenwirtschaft-und-investitionspruefung` | Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.); Akteure (BMWE; BMI; AA; BMF; Bundeskanzleramt.); EU-Bezug (FDI-Screening-VO; sektora... |
+| `legw-rmap-evaluierung-und-aenderung` | Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zustaendigkeiten; Auslaufd... |
 | `lesefassung-konsolidiert` | Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Änderung aussieht ohne Änderungsmarkierungen. Einheitlich lesba... |
 | `ministerien-tatbestand-beweis-und-belege` | Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `ministerien-tatbestandsmerkmale-beweisfragen` | Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Fris... |
@@ -365,6 +369,10 @@ Automatisch generierte Komplett-Liste aller 244 Skills in diesem Plugin. Beschre
 | `satzungskompetenz-pruefen` | Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts prüfen. Anwendungsfall Gemeinde Kammer Hochschule oder Sozialversicherungstraeger will Satzung erlassen und Rechtsgrundlage muss geprüft werden. Kommunen Art. 28... |
 | `schulung-legistik` | Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbild... |
 | `schulung-legistik-aenderungs-fraktionen` | Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbild... |
+| `spezial-aenderungs-formular-portal-und-einreichung` | Aenderungs: Formular, Portal und Einreichungslogik. |
+| `spezial-baut-livequellen-und-rechtsprechungscheck` | Baut: Livequellen- und Rechtsprechungscheck. |
+| `spezial-entschliessungsantraege-red-team-und-qualitaetskontrolle` | Entschliessungsantraege: Red-Team und Qualitätskontrolle. |
+| `spezial-laender-behoerden-gericht-und-registerweg` | Laender: Behörden-, Gerichts- oder Registerweg. |
 | `synopse-erstellen` | Synopse als Dreispalten-Tabelle bisheriges Recht neues Recht Änderungsbefehl erstellen. Anwendungsfall Ressortabstimmung Bundestag oder Bundesrat brauchen vergleichende Darstellung um Änderungen schnell zu erfassen. Pro geaendertem Parag... |
 | `terminologie-konsistenz` | Terminologie-Konsistenz im legistischen Entwurf prüfen und Begriffstabelle aufbauen. Anwendungsfall Entwurf enthaelt neue Legaldefinitionen oder Referent prüft ob Begriffe konsistent verwendet werden und keine ungewollten Abweichungen vo... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Legistik-Werkstatt (Gesetzgebung): trennt fehlende Tatsachen von fehlenden Belegen (Referentenentwurf, Kabinettvorlage, BR-Drucksache), nennt pro Lücke Beweisthema, Beschaffungsweg (BMJ), Frist und Ersat... |
@@ -373,6 +381,8 @@ Automatisch generierte Komplett-Liste aller 244 Skills in diesem Plugin. Beschre
 | `verordnungsermaechtigung-art80` | Verordnungsermaechtigung nach Art. 80 Abs. 1 GG prüfen bevor Rechtsverordnung entworfen wird. Anwendungsfall geplante Rechtsverordnung und Anwalt oder Referent fragt ob Ermaechtigungsgrundlage genuegend bestimmt ist. Bestimmtheitstrias I... |
 | `vorlagen-interessen` | Vorlagen: Mehrparteienkonflikt und Interessenmatrix im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustel... |
 | `vorlagen-mehrparteien-konflikt-und-interessen` | Vorlagen: Mehrparteienkonflikt und Interessenmatrix. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `xml-paralleldarstellung` | Maschinenlesbare Paralleldarstellung eines Gesetzesentwurfs in LegalDocML.de oder eNorm-XML erstellen. Anwendungsfall eGesetzgebung BMJ Bundesgesetzblatt online oder automatisierte Weiterverarbeitung erfordert strukturierte XML-Ausgabe.... |
 | `zirkelschluss-pruefen` | Zirkelschluesse und kreisfreie Verweisketten im legistischen Entwurf aufspueren. Anwendungsfall Entwurf enthaelt viele Querverweise und soll auf ungewollte Zirkel und tautologische Definitionen geprüft werden. Direkte Zirkel A verweist a... |
 

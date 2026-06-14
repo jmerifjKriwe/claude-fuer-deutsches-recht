@@ -88,7 +88,7 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -111,11 +111,14 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `pflichtverteidigung-quellenkarte` | Pflichtverteidigung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `quellen-livecheck` | Quellen-Live-Check für Strafbefehl-Verteidigung: prüft Normen (§§ 407 ff. StPO, § 410 StPO Einspruch 2 Wochen) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Amtsgericht und Quellenhygiene nach references/quellen... |
 | `rechtsmittel-tagessaetze-geldstrafe` | Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Berufung § 312 StPO (Frist 1 Woche schriftlich). Revision § 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung § 345 StPO 1 Monat. Absolute Revisionsgrü... |
+| `spezial-aktenanlage-red-team-und-qualitaetskontrolle` | Aktenanlage: Red-Team und Qualitätskontrolle. |
+| `spezial-pflichtverteidigung-livequellen-und-rechtsprechungscheck` | Pflichtverteidigung: Livequellen- und Rechtsprechungscheck. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Strafbefehl Verteidiger-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei... |
 | `stbv-einspruch-strafbefehl-fahrerlaubnis` | Leitfaden Einspruch gegen Strafbefehl: Form, Frist, Beschraenkung auf Rechtsfolge, taktische Erwaegungen. Prüfraster für Verteidiger im Strafbefehl Verteidiger. |
 | `stbv-fahrerlaubnis-bei-strafbefehl-spezial` | Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und § 69 StGB: vorläufige Entziehung, Sperrfrist, Wiedererteilung. Prüfraster für Verteidiger und Fahrerlaubnisbehoerde im Strafbefehl Verteidiger. |
 | `stbv-strafbefehl-abwesenheit-vertretung` | Bauleiter Prüfung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Prüfraster für Verteidiger Erstgespraech im Strafbefehl Verteidiger. |
 | `stbv-strafbefehl-auslaendischer-mandant-spezial` | Spezialfall Strafbefehl gegen ausländischen Mandanten: Übersetzungspflicht, Auslieferung, Eintrag im Bundeszentralregister, Einreise. Prüfraster für Verteidiger im Strafbefehl Verteidiger. |
+| `stbv-strafbefehl-pruefung-bauleiter` | Bauleiter Pruefung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Pruefraster fuer Verteidiger Erstgespraech. |
 | `strafbefehl-abwesenheit-vertretung` | Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Prüfraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspr... |
 | `strafbefehl-aktenanlage` | Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und Beweismittel sicher verwaltet werden. Prüfraster Aktenstruktur Vollmacht Fristenkalender Beweismittelverzeichnis. Normen § 410 StPO Einspruchsfrist § 147 St... |
 | `strafbefehl-akteneinsicht-147` | Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwaltschaft oder Amtsgericht. Versagungsgründe § 147 Abs. 2 StPO. Akte im Strafbefehlsverfahren: Ermittlungsakte Messakte Bußgeldheft. Beschwerderecht § 147 Abs. 5... |
@@ -144,7 +147,9 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `wiedereinsetzung-zahlen-schwellen-und-berechnung` | Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Strafbefehl Verteidiger. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Strafbefehl Verteidiger. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Strafbefehl Verteidiger. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zeugen-befragungsstrategie-strafbefehl` | Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlastungszeugen foerdern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt fruehere Aussage Fragerecht § 240 StPO. Normen § 68 StPO Zeugenpflichten § 52... |
 | `zeugenstrategie-mehrparteien-konflikt-und-interessen` | Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix. |
 

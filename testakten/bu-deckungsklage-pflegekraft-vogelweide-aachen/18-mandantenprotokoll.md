@@ -54,4 +54,3 @@ Frau Vogelweide hat die HDI-LV seit 2003 bespart und wünscht eine Auszahlung, u
 - Mandantin psychisch belastet — Kommunikation einfühlsam gestalten
 - Alle wichtigen Schreiben vorab erläutern, keine Überrumpelung durch Fristendruck
 - Monatlicher Status-Anruf vereinbart (jeden ersten Montag des Monats, 10:00 Uhr)
-

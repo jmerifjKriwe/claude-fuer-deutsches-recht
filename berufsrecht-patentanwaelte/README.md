@@ -46,7 +46,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 197 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 204 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -191,6 +191,13 @@ Automatisch generierte Komplett-Liste aller 197 Skills in diesem Plugin. Beschre
 | `patent-agent-prior-art-sanktionen` | Patentanwälte: patent agent title und werbung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
 | `patent-agent-title-und-werbung-kammerantwort` | Patentanwälte: patent agent title und werbung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
 | `patent-agent-title-und-werbung-rechtsprechungscheck` | Patentanwälte: patent agent title und werbung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
+| `patentanwaelte-aktenherausgabe-patentakten-kaltstart-und-fakten` | Patentanwälte: aktenherausgabe patentakten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `patentanwaelte-einspruchsverfahren-und-conflict-check-kaltstart` | Patentanwälte: einspruchsverfahren und conflict check - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `patentanwaelte-epo-representative-schnittstelle-kaltstart-und-f` | Patentanwälte: epo representative schnittstelle - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `patentanwaelte-uebersetzung-und-verantwortung-kaltstart-und-fak` | Patentanwälte: uebersetzung und verantwortung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `patentanwaelte-uebersetzung-und-verantwortung-kammerantwort-und` | Patentanwälte: uebersetzung und verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `patentanwaelte-uebersetzung-und-verantwortung-organisationspfli` | Patentanwälte: uebersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `patentanwaelte-uebersetzung-und-verantwortung-rechtsprechungsch` | Patentanwälte: uebersetzung und verantwortung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentportfolio-interessenkollision-prior-art` | Patentanwälte: patentportfolio und interessenkollision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwa... |
 | `patentportfolio-und-interessenkollision-kaltstar` | Patentanwälte: patentportfolio und interessenkollision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
 | `patentportfolio-und-interessenkollision-kammeran` | Patentanwälte: patentportfolio und interessenkollision - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |

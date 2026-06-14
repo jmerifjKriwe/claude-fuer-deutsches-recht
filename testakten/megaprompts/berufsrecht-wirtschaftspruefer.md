@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 200 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-wirtschaftspruefer`.
+Dieser Megaprompt enthaelt top-8 von 232 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-wirtschaftspruefer`.
 
 ## Inhaltsverzeichnis
 

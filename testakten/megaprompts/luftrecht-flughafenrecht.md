@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `luftrecht-flughafenrecht`.
+Dieser Megaprompt enthaelt top-8 von 239 Skills (gekuerzt fuer Chat-Fenster) des Plugins `luftrecht-flughafenrecht`.
 
 ## Inhaltsverzeichnis
 

@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -132,6 +132,18 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `strassenbau-monitoring-planen` | Umweltschutzverband Verbandsklage: Straßenbau: Monitoring planen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `strassenbau-nebenbestimmung-fordern` | Umweltschutzverband Verbandsklage: Straßenbau: Nebenbestimmung fordern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `strassenbau-normenkontrolle-skizzieren` | Umweltschutzverband Verbandsklage: Straßenbau: Normenkontrolle skizzieren im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
+| `umv-002-anerkennung-und-klagebefugnis-pruefen` | Umweltschutzverband Verbandsklage: Anerkennung und Klagebefugnis prüfen. Anerkennung und Klagebefugnis prüfen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei... |
+| `umv-005-uig-anfrage-fuer-umweltakte` | Umweltschutzverband Verbandsklage: UIG-Anfrage für Umweltakte. UIG-Anfrage für Umweltakte im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
+| `umv-009-bimschg-genehmigung-pruefen` | Umweltschutzverband Verbandsklage: BImSchG-Genehmigung prüfen. BImSchG-Genehmigung prüfen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
+| `umv-016-aktenauswertung-behoerdenordner` | Umweltschutzverband Verbandsklage: Aktenauswertung Behördenordner. Aktenauswertung Behördenordner im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
+| `umv-021-windpark-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Windpark: Beteiligung prüfen. Beteiligung prüfen für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `umv-031-strassenbau-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Straßenbau: Beteiligung prüfen. Beteiligung prüfen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `umv-041-bebauungsplan-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Bebauungsplan: Beteiligung prüfen. Beteiligung prüfen für Bebauungsplan im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `umv-051-industrieanlage-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Industrieanlage: Beteiligung prüfen. Beteiligung prüfen für Industrieanlage im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `umv-061-batteriespeicher-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Batteriespeicher: Beteiligung prüfen. Beteiligung prüfen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `umv-071-wasserentnahme-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Wasserentnahme: Beteiligung prüfen. Beteiligung prüfen für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `umv-081-hafenvertiefung-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Hafenvertiefung: Beteiligung prüfen. Beteiligung prüfen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `umv-091-flughafenausbau-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Flughafenausbau: Beteiligung prüfen. Beteiligung prüfen für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umwrg-anwendungsbereich-routen` | Umweltschutzverband Verbandsklage: UmwRG-Anwendungsbereich routen. UmwRG-Anwendungsbereich routen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umwel... |
 | `uvp-pflicht-und-vorpruefung` | Umweltschutzverband Verbandsklage: UVP-Pflicht und Vorprüfung. UVP-Pflicht und Vorprüfung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverband... |
 | `vergleich-und-nebenbestimmungen` | Umweltschutzverband Verbandsklage: Vergleich und Nebenbestimmungen. Vergleich und Nebenbestimmungen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umw... |

@@ -2,20 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 99 Skills des Plugins `gesellschaftsgruender`.
+Dieser Megaprompt enthaelt top-8 von 104 Skills (gekuerzt fuer Chat-Fenster) des Plugins `gesellschaftsgruender`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Gesellschaftsgründung: ordnet Rolle (Gründer, Notar, Handelsregister), markiert Frist (…
 2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting für das Gesellschaftsgründer-Plugin; besonders anfängerfreundlich, mit Rollenklä…
 3. **gruendungsassistent-erstpruefung-und-mandatsziel** — Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsgründung: fachlich vertieftes Modul mit …
-4. **beirat-advisory-board** — Beirat oder Advisory Board für GmbH oder UG einrichten: Satzungsregelung, Bestellungsverfahren, Beratungsvertrag. Normen…
-5. **bilinguale-dokumente** — Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstellen: zweisprachige Satzung, Gesellschafterbeschluss, SHA…
-6. **egbr-mopeg-gesellschaftsgruender** — GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als eGbR vorbereiten. Normen: §§ 705 ff. BGB n.F. MoPeG, §§…
-7. **firmenname-pruefung** — Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Differenzierungsgebot, Irreführungsverbot. Normen: §§ 17 18 …
-8. **genehmigtes-kapital** — Genehmigtes Kapital für GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschlus…
-9. **geschaeftsfuehrer-pflichten-startphase** — Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchf…
-10. **geschaeftsfuehrervertrag** — Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kündigungsfristen.…
+4. **gesellschaftsgruender-transparenzregister** — Transparenzregister-Meldung für GmbH oder UG: wirtschaftlich Berechtigte, Fristen, Bußgelder. Normen: §§ 18 ff. GwG, Gel…
+5. **beirat-advisory-board** — Beirat oder Advisory Board für GmbH oder UG einrichten: Satzungsregelung, Bestellungsverfahren, Beratungsvertrag. Normen…
+6. **bilinguale-dokumente** — Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstellen: zweisprachige Satzung, Gesellschafterbeschluss, SHA…
+7. **egbr-mopeg-gesellschaftsgruender** — GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als eGbR vorbereiten. Normen: §§ 705 ff. BGB n.F. MoPeG, §§…
+8. **firmenname-pruefung** — Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Differenzierungsgebot, Irreführungsverbot. Normen: §§ 17 18 …
 
 ---
 
@@ -190,6 +188,119 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **GmbH vs. GmbH & Co. KG:** KG ermöglicht steuerliche Verlustverrechnung beim Kommanditisten, aber komplexere Struktur und höhere laufende Kosten (zwei Jahresabschlüsse).
 - **PartG mbB vs. Sozietät:** mbB schützt vor Berufsfehlern der Partner, aber nur bei Pflichtversicherung (§ 8 Abs. 4 PartGG i.V.m. § 51a BRAO bei Anwälten).
 - **DiRUG-Online-Gründung:** seit 01.08.2022 § 2 Abs. 3 GmbHG erweitert; vereinfacht GmbH-Gründung. Beachte: Sacheinlagen weiterhin Präsenznotar.
+
+---
+
+## Skill: `gesellschaftsgruender-transparenzregister`
+
+_Transparenzregister-Meldung für GmbH oder UG: wirtschaftlich Berechtigte, Fristen, Bußgelder. Normen: §§ 18 ff. GwG, GeldwäscheG. Prüfraster: Identifikation wirtschaftlich Berechtigter, Meldepflicht, Meldefristen, Aktualisierungen. Output: Checkliste Transparenzregister-Meldung. Abgrenzung: nicht AML-Geldwäsche-Beratung._
+
+# Transparenzregister
+
+## Triage — kläre vor der Meldung
+
+1. Handelt es sich um eine Neugründung, eine Änderung der Gesellschafterstruktur oder einen Anteilsverkauf?
+2. Gibt es Gesellschafter mit mehr als 25 % Kapitalanteil oder Stimmrechten (direkt oder mittelbar)?
+3. Gibt es mehrstufige Beteiligungsstrukturen (Holding-GmbH oder Konzern), durch die natürliche Personen mittelbar berechtigt sind?
+4. Gibt es einen Trust, eine Stiftung oder eine ähnliche Struktur als Gesellschafter?
+5. Existieren Sonderstimmrechte oder sonstige Kontrollmechanismen, die über 25 % wirtschaftlichen Einfluss vermitteln?
+6. Wurde die bisherige Meldung seit der letzten Änderung aktualisiert?
+
+## Zentrale Normen
+
+- **§ 3 GwG** — Wirtschaftlich Berechtigter: natürliche Person mit > 25 % Kapital-/Stimmrechtsanteil oder vergleichbarer Kontrolle.
+- **§ 19 GwG** — Meldepflicht: eingetragene Gesellschaften müssen wirtschaftlich Berechtigte ans Transparenzregister melden.
+- **§ 20 GwG** — Inhalt der Meldung; Angaben zum wirtschaftlich Berechtigten.
+- **§ 21 GwG** — Aktualisierungspflicht: Änderungen unverzüglich melden.
+- **§ 23a GwG** — Einsichtsrecht: Behörden (uneingeschränkt), Verpflichtete (für Sorgfaltspflichten), Personen mit berechtigtem Interesse.
+- **§ 56 GwG** — Ordnungswidrigkeit: Bußgeld bis 150.000 EUR; bei vorsätzlichen / wiederholten Verstößen bis 1 Mio. EUR.
+
+## Aktuelle Rechtsprechung
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Prüfschema Transparenzregistermeldung
+
+| Schritt | Prüfungspunkt | Ergebnis |
+|---|---|---|
+| 1 | Meldepflichtige Gesellschaft? (GmbH, UG, AG, KG, eGbR, GbR, Verein etc.) | Pflicht: Ja/Nein |
+| 2 | Wer hält > 25 % Kapital- oder Stimmrechte direkt? | Liste natürliche Personen |
+| 3 | Mittelbare Beteiligung über Holding/Konzern? | Durchschau auf natürliche Person oben |
+| 4 | Fiktiver wB erforderlich? (kein natürlicher > 25 %) | Gesetzliche Vertreter als Ersatz |
+| 5 | Trust / Stiftung / Foundation als Gesellschafter? | Trustee, Treugeber, Begünstigte prüfen |
+| 6 | Sonderstimmrechte / Golden Share / Vetorechtskonstruktionen? | Kontrolle i.S.v. § 3 GwG prüfen |
+| 7 | Angaben vollständig? (Name, Geb.datum, Wohnsitz, Staatsangeh., Art des Interesses) | Vollständigkeit prüfen |
+| 8 | Meldung aktuell? Letzte Änderung der Struktur wann? | Aktualisierungspflicht prüfen |
+
+## Schritt-für-Schritt-Workflow
+
+1. **Triage** — 6 Triage-Fragen oben beantworten; Strukturkomplexität einschätzen.
+2. **Gesellschafterstruktur kartieren** — alle Gesellschafter mit Quote und Stimmrechten auflisten.
+3. **Durchschau-Test** — bei Holding/Konzern: natürliche Person auf oberster Ebene identifizieren.
+4. **Fiktiver-wB-Test** — falls kein > 25 %-Einzelgesellschafter: gesetzliche Vertreter als fiktive wB identifizieren.
+5. **Datensatz zusammenstellen** — pro wB: Name, Geburtsdatum, Wohnsitz, Staatsangehörigkeit, Art und Umfang des wirtschaftlichen Interesses.
+6. **Online-Meldung** — auf www.transparenzregister.de einloggen; Gesellschaft suchen; wB eintragen.
+7. **Bestätigung archivieren** — Meldebestätigung als PDF sichern; in Mandatsakte.
+8. **Wiedervorlagepflicht** — bei jeder Änderung der Gesellschafterstruktur oder des wB sofort aktualisieren.
+
+## Output-Template Meldedatensatz
+
+**Adressat:** Transparenzregister / interne Akte — Tonfall sachlich-präzise
+```
+TRANSPARENZREGISTERMELDUNG
+Gesellschaft: [Firmenname], [Rechtsform]
+HRB-Nummer: [HRB XXXXX beim AG ORTS]
+Meldedatum: [Datum]
+Erstellt von: [Name, Funktion]
+
+WIRTSCHAFTLICH BERECHTIGTE
+| Nr. | Name | Geburtsdatum | Wohnsitz | Staatsangeh. | Art des Interesses | Höhe |
+|----|------|-------------|---------|-------------|-------------------|------|
+| 1  | [Name] | [TT.MM.JJJJ] | [Stadt, Land] | [Dtsch.] | Direkte Beteiligung | [%] |
+| 2  | [Name] | [TT.MM.JJJJ] | [Stadt, Land] | [Dtsch.] | Mittelbar über [Holding GmbH] | [%] |
+
+Fiktiver wirtschaftlich Berechtigter: [Ja — Name, Funktion / Nein]
+
+NACHWEIS DER KONTROLLE
+[ ] Direkte Kapitalanteilsmehrheit > 25 %
+[ ] Direkte Stimmrechtsmehrheit > 25 %
+[ ] Mittelbare Kontrolle (Holdingstruktur): [Beschreibung]
+[ ] Sonderstimmrecht / Veto / vergleichbare Kontrolle: [Beschreibung]
+
+MELDEBESTÄTIGUNG
+Bestätigungsnummer: [bei Einreichung ausgefüllt]
+Eingereicht am: [Datum]
+Abgelegt in Mandatsakte: [Ja/Nein]
+
+NÄCHSTE AKTUALISIERUNGSPFLICHT
+Auslöser: [Anteilsübertragung / Kapitalerhöhung / Gesellschafterwechsel]
+Frühwarnung: Jede Änderung der Gesellschafterstruktur → sofort melden
+```
+
+## Rote Schwellen
+
+- Meldung nicht unverzüglich nach Gründung → Bußgeld bis 150.000 EUR (§ 56 GwG).
+- Mehrstufige Holding-Struktur ohne Durchschau-Test → fehlerhafte Meldung; Bußgeldrisiko.
+- Trust / Stiftung als Gesellschafter ohne Meldung der Begünstigten → systematische Pflichtverletzung.
+- Änderung der Gesellschafterstruktur ohne Aktualisierung der Transparenzregistermeldung → laufende Ordnungswidrigkeit.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellen und Vertiefung
+
+- §§ 3, 19-23a, 56 GwG (Transparenzregister komplett)
+- TraFinG 2021 (Vollregister)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Zentes/Glaab, GwG, § 19 Rn. 1-30
+
+## Übergabe an andere Skills
+
+- `gesellschaftsgruender-kommandocenter` — Master-Workflow Gründung
+- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Eintragung vor Transparenzregister
+- `gesellschaftsgruender-cap-table` — Gesellschafterstruktur als Grundlage der Meldung
+- `gesellschaftsgruender-gesellschaftervereinbarung` — Kontrollrechte aus SHA als Meldegrundlage
 
 ---
 
@@ -1188,463 +1299,6 @@ Naechste Schritte:
 - `gesellschaftsgruender-gmbh-vorbereitung` — Firmenname als Baustein der Vorbereitung
 - `gesellschaftsgruender-notar-vorbereitung` — IHK-Bescheinigung vorlegen
 - `gesellschaftsgruender-handelsregister-anmeldung` — HR-Prüfung durch Registergericht
-
----
-
-## Skill: `genehmigtes-kapital`
-
-_Genehmigtes Kapital für GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: §§ 55a GmbHG, §§ 202 ff. AktG. Prüfraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzun..._
-
-# Genehmigtes Kapital (§ 55a GmbHG)
-
-## Arbeitsbereich
-
-Genehmigtes Kapital für GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: §§ 55a GmbHG, §§ 202 ff. AktG. Prüfraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzung: nicht ordentliche Kapitalerhöhung § 55 GmbHG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Genehmigtes Kapital (§ 55a GmbHG)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Triage — kläre vor dem Vorratsbeschluss
-
-1. Ist eine Finanzierungsrunde, ein ESOP-Pool oder ein Wandeldarlehen in den nächsten 5 Jahren geplant, das eine Kapitalerhöhung erfordert?
-2. Soll der Bezugsrechtsausschluss der Gesellschafter zugelassen werden (Standard bei Investor-Einstieg)?
-3. Beträgt das geplante genehmigte Kapital maximal 50 % des aktuellen Stammkapitals?
-4. Liegt ein aktueller Satzungsentwurf vor — genehmigtes Kapital muss in die Satzung eingetragen werden?
-5. Wird eine Satzungsänderung (75-%-Mehrheit) benötigt, oder ist das genehmigte Kapital bereits in der Gründungssatzung vorgesehen?
-
-## Zentrale Normen
-
-- **§ 55a GmbHG** — genehmigtes Kapital: Ermächtigung der GF durch Satzung; Höchstbetrag 50 % des Stammkapitals; Geltungsdauer max. 5 Jahre.
-- **§ 53 Abs. 2 GmbHG** — Satzungsänderung erfordert 75-%-Mehrheit der Gesellschafter.
-- **§ 55 GmbHG** — ordentliche Kapitalerhöhung: Vergleichsobjekt; immer GV-Beschluss erforderlich.
-- **§ 55 Abs. 2 GmbHG** — Bezugsrecht bei Kapitalerhöhung; Ausschluss durch qualifizierten Beschluss.
-- **§ 57j GmbHG** — Wandelanleihe; Nennkapitaländerung; Bezugsrecht der Gesellschafter.
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Prüfschema Genehmigtes Kapital
-
-| Prüfungspunkt | Anforderung | Ergebnis |
-|---|---|---|
-| Höchstbetrag | Max. 50 % des aktuellen Stammkapitals | [EUR] |
-| Geltungsdauer | Max. 5 Jahre ab Eintragung der Satzungsänderung | [Datum] |
-| Form | Satzungsänderung durch Notar beurkundet | Ja/Nein |
-| Beschlussmehrheit | 75 % der Gesellschafter-Stimmen | Erreichbar? |
-| Bezugsrecht | Soll Ausschluss möglich sein? Sachliche Rechtfertigung dokumentieren | Ja/Nein |
-| Anteilsklassen | Welche Klassen können ausgegeben werden? | [Common, A, B] |
-| Wandeldarlehen | Soll Wandlung aus genehmigtem Kapital möglich sein? | Ja/Nein |
-
-## Muster-Satzungsklausel Genehmigtes Kapital
-
-```
-§ [X] Genehmigtes Kapital
-
-(1) Die Geschäftsführer sind ermächtigt, das Stammkapital der Gesellschaft bis zum
-[DATUM — max. 5 Jahre ab Eintragung] einmalig oder mehrfach um insgesamt bis zu
-[BETRAG — max. 50 % des Stammkapitals] EUR durch Ausgabe neuer Geschäftsanteile
-gegen Bar- oder Sacheinlage zu erhöhen (Genehmigtes Kapital).
-
-(2) Die Geschäftsführer sind ermächtigt, mit Zustimmung der Gesellschafterversammlung
-(einfache Mehrheit) das Bezugsrecht der Gesellschafter ganz oder teilweise auszu-
-schließen, wenn ein sachlicher Grund vorliegt (insbesondere Aufnahme eines strate-
-gischen Investors, Wandlung eines Wandeldarlehens, Ausgabe von Mitarbeiterbeteili-
-gungen aus einem ESOP-Pool).
-
-(3) Die neuen Geschäftsanteile können als Stammanteile (Class Common) oder als
-Vorzugsanteile (Class A oder Class B) mit den in der Gesellschaftervereinbarung
-definierten Rechten ausgegeben werden.
-
-(4) Die Geschäftsführer sind ermächtigt, die näheren Bedingungen der jeweiligen
-Kapitalerhöhung (insbesondere Ausgabepreis, Klasse, Bezugsrecht) im Einvernehmen
-mit der Gesellschafterversammlung festzusetzen.
-
-(5) Diese Ermächtigung erlischt am [DATUM] und kann durch Beschluss der Gesellschafter-
-versammlung mit 75-%-Mehrheit erneuert werden.
-```
-
-## Anwendungsfälle
-
-| Anwendungsfall | Vorgehen mit genehmigtem Kapital |
-|---|---|
-| Seed-Investor | GF-Beschluss aus genehmigtem Kapital; neue Anteile ohne GV-Beschluss; Notar + HR |
-| Wandeldarlehen → Anteile | Wandlung erfolgt durch GF-Erklärung; neue Anteile aus genehmigtem Kapital; Notar + HR |
-| ESOP-Pool einrichten | GF gibt neue Anteile an ESOP-Treuhänder; oder VSOP ohne echte Anteile (einfacher) |
-| Series-A-Zeitdruck | Kein GV-Einberufungserfordernis (1-2 Wochen Vorlauf); GF-Beschluss sofort möglich |
-
-## Schritt-für-Schritt-Workflow
-
-1. **Triage** — 5 Triage-Fragen beantworten; Bedarf für genehmigtes Kapital bestätigen.
-2. **Höchstbetrag und Geltungsdauer festlegen** — max. 50 % Stammkapital; Laufzeit max. 5 Jahre.
-3. **Satzungsklausel entwerfen** — Muster oben anpassen; Bezugsrechtsausschluss-Option einbauen.
-4. **Satzungsänderungsbeschluss** — GV-Einberufung; 75-%-Mehrheit erforderlich; Notar beurkundet.
-5. **HR-Anmeldung** — Notar meldet Satzungsänderung beim HR; Eintragung ca. 2-4 Wochen.
-6. **Ausübung genehmigtes Kapital** — bei Bedarf: GF-Beschluss; neue Gesellschafterliste; Notar-Beglaubigung; HR-Anmeldung.
-7. **Ablaufdatum überwachen** — bei Ablauf: Erneuerung durch neuen GV-Beschluss.
-
-## Output-Template GF-Beschluss zur Ausübung
-
-**Adressat:** Notar / Handelsregister — Tonfall formal-juristisch
-```
-GESCHÄFTSFÜHRERBESCHLUSS
-Ausübung des Genehmigten Kapitals gemäß § [X] des Gesellschaftsvertrags
-
-Gesellschaft: [Firmenname] GmbH
-Datum: [Datum]
-Geschäftsführer: [Name(n)]
-
-Die Geschäftsführung beschließt:
-
-1. Das Stammkapital der Gesellschaft wird von [bisheriges Stammkapital] EUR um
- [Erhöhungsbetrag] EUR auf [neues Stammkapital] EUR erhöht durch Ausgabe von
- [Anzahl] neuen Geschäftsanteilen zu je [Nennwert] EUR.
-
-2. Die neuen Anteile werden als [Klasse] ausgegeben.
-
-3. Die neuen Anteile werden übernommen von:
- [Name], [Adresse], Einlage: [EUR], Ausgabepreis: [EUR pro Anteil].
-
-4. Das Bezugsrecht der übrigen Gesellschafter ist ausgeschlossen. Sachlicher Grund:
- [Investor-Aufnahme / Wandlung Wandeldarlehen / ESOP-Pool / etc.].
-
-5. Die Geschäftsführung wird beauftragt, die Kapitalerhöhung beim Handelsregister
- anzumelden und eine aktualisierte Gesellschafterliste einzureichen.
-
-[Unterschriften Geschäftsführer]
-```
-
-## Rote Schwellen
-
-- Höchstbetrag > 50 % des Stammkapitals → Satzungsklausel nichtig; Ausübung unwirksam.
-- Geltungsdauer > 5 Jahre → Klausel erlischt nach 5 Jahren; Erneuerung erforderlich.
-- Bezugsrechtsausschluss ohne sachliche Rechtfertigung → anfechtbar (BGH Kali+Salz).
-- Satzungsänderung ohne 75-%-Mehrheit → Beschluss nichtig.
-- Ausübung nach Ablauf der Ermächtigung → Kapitalerhöhung unwirksam; HR-Eintragung scheitert.
-
-## Quellen und Vertiefung
-
-- §§ 55, 55a, 53 GmbHG (genehmigtes Kapital, Kapitalerhöhung, Satzungsänderung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
-## Übergabe an andere Skills
-
-- `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — ordentliche Kapitalerhöhung ohne genehmigtes Kapital
-- `gesellschaftsgruender-share-classes-a-b-c` — Anteilsklassen bei Ausübung
-- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Bezugsrechtsausschluss-Anfechtung
-- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzungsklausel einbetten
-
----
-
-## Skill: `geschaeftsfuehrer-pflichten-startphase`
-
-_Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchführung. Normen: §§ 35 43 64 GmbHG, § 15a InsO. Prüfraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschäftsführer Gründungsphase. Abg..._
-
-# Erste 100 Tage Geschäftsführer-Pflichten
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erste 100 Tage Geschäftsführer-Pflichten` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Triage — kläre beim GF-Start
-
-1. Ist der GF Gesellschafter-GF mit Mehrheit oder Fremd-GF? (Unterschied: BJR, Weisungsrecht, SV-Status)
-2. Gibt es bereits Mitarbeiter — dann Lohnsteuer-Anmeldung und SV-Beiträge sofort.
-3. Welches Geschäftsjahr — Kalenderjahr oder abweichendes Wirtschaftsjahr?
-4. Ist das Unternehmen umsatzsteuerpflichtig oder kommt Kleinunternehmer-Regelung (§ 19 UStG) in Betracht?
-5. Gibt es bereits Gläubiger / Schulden — Liquiditätsstatus sofort prüfen; keine masseschmälernden Zahlungen bei Insolvenzreife.
-6. Besteht eine D&O-Versicherung oder soll eine abgeschlossen werden?
-
-## Zentrale Normen
-
-- **§ 43 GmbHG** — Sorgfaltspflicht des GF: Sorgfalt eines ordentlichen Geschäftsmannes; Haftung gegenüber Gesellschaft.
-- **§ 15a InsO** — Insolvenzantragspflicht: 6 Wochen (Überschuldung) / 3 Wochen (Zahlungsunfähigkeit).
-- **§ 15b InsO** — Zahlungsverbot nach Insolvenzreife; persönliche Haftung des GF.
-- **§ 238 HGB** — Buchführungspflicht; doppelte Buchführung für GmbH zwingend.
-- **§§ 264, 325 HGB** — Jahresabschluss aufstellen (3 Monate) und offenlegen (12 Monate).
-- **§§ 18 UStG, 41a EStG, 19 KStG** — Steuervoranmeldungen und Vorauszahlungspflichten.
-- **§ 19 GwG** — Transparenzregister-Meldepflicht; unverzüglich nach Gründung.
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## 100-Tage-Pflichten-Matrix
-
-| Pflicht | Frist | Norm | Konsequenz bei Versäumnis |
-|---|---|---|---|
-| Buchführung einrichten | sofort | § 238 HGB | Schätzung, Bußgeld, Haftung |
-| Gewerbe anmelden | unverzüglich nach Aufnahme | § 14 GewO | Bußgeld bis 1.000 EUR |
-| Steuerliche Erfassung FA | innerhalb 1 Monat | § 138 AO | Schätzung, Säumnis |
-| USt-Voranmeldung einrichten | 10. des Folgemonats | § 18 UStG | Säumniszuschlag |
-| Lohnsteuer-Anmeldung (bei MA) | 10. des Folgemonats | § 41a EStG | Haftung GF §§ 34, 69 AO |
-| SV-Anmeldung Mitarbeiter | vor Beschäftigungsbeginn | § 28a SGB IV | Bußgeld bis 25.000 EUR |
-| Transparenzregister | unverzüglich nach HR | § 19 GwG | Bußgeld bis 150.000 EUR |
-| Jahresabschluss aufstellen | 3 Monate nach GJ-Ende | § 264 HGB | Ordnungsgeld bis 25.000 EUR |
-| Bundesanzeiger-Offenlegung | 12 Monate nach GJ-Ende | § 325 HGB | Ordnungsgeld |
-| Insolvenzlage überwachen | laufend | § 15a InsO | persönliche Haftung, Strafbarkeit |
-| Datenschutz (DSGVO) | vor erstem Datenabruf | DSGVO Art. 24 | Bußgeld bis 20 Mio. EUR |
-| Berufsgenossenschaft | binnen 1 Woche nach Aufnahme | § 192 SGB VII | Bußgeld |
-| IHK-Mitgliedschaft | automatisch mit Gewerbe | § 2 IHKG | — |
-
-## Schritt-für-Schritt-Workflow
-
-1. **Triage** — 6 Triage-Fragen beantworten; GF-Typ und Branche klären.
-2. **Buchführung einrichten** — DATEV, sevDesk oder Lexware-Konto anlegen; Steuerberater einschalten.
-3. **Gewerbeamt und Finanzamt** — Gewerbeanmeldung; ELSTER-Fragebogen; Steuernummer beantragen.
-4. **USt-Voranmeldung einrichten** — monatlich oder quartalsweise; ELSTER-Zertifikat besorgen.
-5. **Sozialversicherung** — bei Mitarbeitern: SV-Anmeldung Krankenkasse; Lohnbuchhaltung starten.
-6. **Transparenzregister** — wirtschaftlich Berechtigte melden.
-7. **D&O-Versicherung** — Versicherungsschutz vor erstem Außenauftritt prüfen.
-8. **Liquiditätsmonitoring einrichten** — monatlicher Liquiditätsstatus; Krisenampel (§§ 17-19 InsO).
-9. **Erstes GF-Meeting / Protokoll** — Board-Beschlüsse dokumentieren; Haftungsschutz durch Business Judgment Rule.
-10. **Jahresabschluss planen** — Steuerberater beauftragen; Frist im Kalender eintragen.
-
-## Output-Template 100-Tage-Checkliste GF
-
-**Adressat:** Geschäftsführer / Mandant — Tonfall anleitend-strukturiert
-```
-100-TAGE-GF-CHECKLISTE
-Gesellschaft: [Firmenname] GmbH / UG
-GF-Name: [Name]
-HR-Eintragung am: [Datum]
-Checkliste erstellt: [Datum]
-
-WOCHE 1
-[ ] Buchführungssystem einrichten (DATEV / sevDesk / Lexware)
-[ ] Steuerberater beauftragen
-[ ] Geschäftskonto eröffnen / Stammkapital einzahlen
-[ ] Gewerbeanmeldung beim Gewerbeamt [ORT]
-[ ] Berufsgenossenschaft anmelden
-[ ] Transparenzregister-Meldung
-
-MONAT 1
-[ ] ELSTER-Fragebogen zur steuerlichen Erfassung einreichen
-[ ] USt-Voranmeldungs-Turnus klären (monatlich / quartalsweise)
-[ ] Bei Mitarbeitern: SV-Anmeldung; Lohnbuchhaltung einrichten
-[ ] D&O-Versicherung prüfen und abschließen
-[ ] Erste Liquiditätsprognose erstellen
-
-LAUFEND
-[ ] USt-Voranmeldung: bis 10. des Folgemonats
-[ ] Lohnsteuer-Anmeldung: bis 10. des Folgemonats (bei MA)
-[ ] KSt/GewSt-Vorauszahlung: 10.3. / 10.6. / 10.9. / 10.12.
-[ ] Liquiditätsstatus: monatlich
-[ ] Transparenzregister-Änderungen: unverzüglich bei Strukturwechsel
-
-JAHRESENDE
-[ ] Jahresabschluss aufstellen bis [Datum + 3 Monate nach GJ]
-[ ] Bundesanzeiger-Offenlegung bis [Datum + 12 Monate nach GJ]
-[ ] Insolvenzlage prüfen: EK > Hälfte Stammkapital?
-
-ESKALATIONSSCHWELLEN
-[ ] EK sinkt unter Hälfte des Stammkapitals → § 49 Abs. 3 GmbHG Pflichtversammlung
-[ ] Zahlungsunfähigkeit erkennbar → § 15a InsO, Frist 3 Wochen
-[ ] Überschuldung erkennbar → § 15a InsO, Frist 6 Wochen
-```
-
-## Rote Schwellen
-
-- Masseschmälernde Zahlungen nach Insolvenzreife → sofortige persönliche GF-Haftung (§ 15b InsO); Zahlung stoppen.
-- Lohnsteuer nicht abgeführt → GF persönlich haftbar nach §§ 34, 69 AO.
-- Jahresabschluss nicht offengelegt → Ordnungsgeldverfahren durch Bundesamt für Justiz.
-- Datenschutz-Verstöße → DSGVO-Bußgeld; persönliche GF-Verantwortung.
-- Berufsgenossenschaft nicht angemeldet → unversicherter Betrieb; Haftungsrisiko bei Arbeitsunfall.
-
-## Quellen und Vertiefung
-
-- §§ 43, 49 GmbHG (GF-Pflichten, Sorgfalt, Pflichtversammlung)
-- §§ 238, 264, 325 HGB (Buchführung, Jahresabschluss, Offenlegung)
-- §§ 15a, 15b InsO (Insolvenzantragspflicht, Zahlungsverbot)
-- § 19 GwG (Transparenzregister)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Scholz/Crezelius, GmbHG, § 43 Rn. 1-60
-
-## Übergabe an andere Skills
-
-- `gesellschaftsgruender-kommandocenter` — Master-Gründung
-- `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Status des GF prüfen
-- `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung bei Krise
-- `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — Gewerbeamt und Finanzamt-Schritte
-
----
-
-## Skill: `geschaeftsfuehrervertrag`
-
-_Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kündigungsfristen. Normen: §§ 35 38 GmbHG, BGB Dienstvertrag. Prüfraster: Verguetungsstruktur, Tantieme, Freistellung, Geheimhaltung, Pensionszusage. Output: Geschäftsführervertrags-Entwurf. Abgr..._
-
-# Geschäftsführer-Anstellungsvertrag GmbH
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Geschäftsführer-Anstellungsvertrag GmbH` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Triage zu Beginn
-
-Klaere vor Entwurf des Anstellungsvertrags:
-
-1. **Gesellschafter-GF oder Fremd-GF?** Gesellschafter-GF: strengere vGA-Anforderungen (Fremdvergleich); Fremd-GF: SV-Pflicht prüfen.
-2. **Alleiniger GF oder Mitgeschaeftsfuehrer?** Allein: volles Geschäft; Mitglied: Ressortverteilung, Gesamtvertretung.
-3. **Sozialversicherungsstatus?** Mehrheitsgesellschafter-GF meist SV-frei; Minderheits-GF meist SV-pflichtig; Statusfeststellung (§ 7a SGB IV) beantragen?
-4. **Pensionszusage gewuenscht?** Steuerlich attraktiv, aber strenge Anforderungen bei Gesellschafter-GF.
-5. **Wettbewerbsverbot?** Nachvertraglich: bis 2 Jahre; Karenzentschaedigung zwingend (≥ 50 % letzter Bezuege).
-6. **Befristung?** Typisch 3-5 Jahre mit Verlaengerungsoption; Kopplung Abberufung/Kuendigung beachten.
-
-## Zentrale Normen
-
-- **§ 6 GmbHG** — Organstellung des Geschäftsführers
-- **§ 35 GmbHG** — Vertretung der Gesellschaft durch GF
-- **§ 38 GmbHG** — Jederzeits-Abberufung des GF (mit Folgen für das Anstellungsverhaeltnis)
-- **§ 43 GmbHG** — Haftung des GF bei Pflichtverstoessen (Fahrlassigkeit, Vorsatz)
-- **§ 46 Nr. 5 GmbHG** — Bestellung des GF durch Gesellschafterbeschluss
-- **§ 626 BGB** — Ausserordentliche Kuendigung aus wichtigem Grund (Dienstverhaeltnis)
-- **§ 74 II HGB** — Karenzentschaedigungspflicht bei Wettbewerbsverbot (analog)
-- **§ 8 Abs. 2 KStG i.V.m. § 6a EStG** — verdeckte Gewinnausschuettung (vGA); Pensionsrueckstellung
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Prüfschema: Anstellungsvertrag-Check
-
-| Schritt | Prüfpunkt | Norm | Ergebnis |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 2 | SV-Status bestimmt? | § 7a SGB IV | Statusfeststellungsverfahren empfohlen |
-| 3 | vGA-Fremdvergleich bei Gesellschafter-GF | § 8 Abs. 2 KStG | Angemessene Vergütung; Erdienungszeitraum Pension |
-| 4 | Wettbewerbsverbot mit Karenz? | § 74 II HGB analog | Ohne Karenz: Klausel unverbindlich |
-| 5 | Kuendigung und Befristung | §§ 620, 626 BGB | Sonderkuendigungsrecht für wichtige Gruende |
-| 6 | Kopplung Abberufung-Kuendigung | § 38 GmbHG | Explizit im Vertrag regeln |
-| 7 | D&O-Versicherung vereinbart? | § 43 GmbHG | GF-Haftungsrisiko abgedeckt? |
-
-## Schritt-für-Schritt-Workflow
-
-1. **Vor Notar-Termin:** Vertragsrahmen (Vergütung, Befristung, Ressort) mit Gesellschaftern abstimmen.
-2. **Gesellschafterbeschluss zur Bestellung** (Paragraf 46 Nr. 5 GmbHG) formulieren — separate Beurkundung oder Teil der Gruendung.
-3. **Anstellungsvertrag entwerfen:** Verguetungsstruktur, SV-Status, Wettbewerbsverbot, Pensionszusage.
-4. **vGA-Check:** Bei Gesellschafter-GF: Fremdvergleich-Prüfung durch Steuerberater empfohlen.
-5. **Statusfeststellung beantragen** (§ 7a SGB IV) nach Eintragung im HR.
-6. **Unterzeichnung:** Gesellschaft vertreten durch alle Gesellschafter (oder bevollmächtigten Vertreter); GF als Anstellende.
-7. **Lohnsteuer-Anmeldung** beim Finanzamt; Gehaltskonto einrichten.
-8. **D&O-Versicherung** abschließen; Police der Gesellschaft hinterlegen.
-
-## Output-Template: Anstellungsvertrag (Kernauszug)
-
-**Adressat:** GmbH und Geschäftsführer — Tonfall rechtspraezise
-
-```
-GESCHAEFTSFUEHRER-ANSTELLUNGSVERTRAG
-
-zwischen der [FIRMA] GmbH, [ADRESSE], HRB [NR.],
-vertreten durch die Gesellschafterversammlung
-(Beschluss vom [DATUM])
-— Gesellschaft —
-
-und Herrn / Frau [NAME], geb. [DATUM], [ADRESSE]
-— Geschaeftsfuehrer / Geschaeftsfuehrerin —
-
-§ 1 Aufgaben und Befugnisse
-Der Geschaeftsfuehrer leitet die Gesellschaft als
-[alleiniger / einer von mehreren] Geschaeftsfuehrer
-und ist gegenueber der Gesellschafterversammlung
-weisungsgebunden. Die Geschaeftsordnung der GF
-ist verbindlich.
-
-§ 2 Dauer und Beendigung
-(1) Das Anstellungsverhaeltnis beginnt am [DATUM].
-(2) Es ist befristet auf [DAUER] Jahre, mit
-automatischer Verlaengerung um [N] Jahre, falls
-nicht 6 Monate vor Ablauf gekuendigt.
-(3) Die Abberufung als Organ beendet diesen Vertrag
-nicht; es gilt dann die ordentliche Kuendigungsfrist.
-
-§ 3 Verguetung
-(1) Fixum: [BETRAG] EUR brutto monatlich.
-(2) Tantieme: [%] des EBT nach Pruefung, faellig
-[DATUM], maximal [BETRAG] EUR jaehrlich.
-(3) Dienstwagen: [Klasse]; private Nutzung erlaubt,
-lohnsteuerlich erfasst.
-
-§ 4 Urlaub
-28 Arbeitstage jaehrlich; Resturlaub bis [DATUM]
-des Folgejahres zu nehmen.
-
-§ 5 Wettbewerbsverbot
-(1) Waehrend Vertragsdauer: kein Wettbewerb.
-(2) Nachvertraglich: 12 Monate, für Branche [X]
-in [GEBIET].
-(3) Karenzentschaedigung: 50 % der zuletzt
-monatlich bezogenen Bezuege.
-
-§ 6 D&O-Versicherung
-Die Gesellschaft schliesst für den GF eine D&O-
-Versicherung mit einer Deckungssumme von mindestens
-[BETRAG] EUR ab. Eigenbehaltsregelung: [X] EUR.
-
-§ 7 Kuendigung
-(1) Ordentliche Kuendigung mit 6-monatiger Frist
-zum Monatsende.
-(2) Ausserordentliche Kuendigung bei wichtigem
-Grund (§ 626 BGB) jederzeit moeglich.
-```
-
-## Rote Schwellen
-
-- Abberufung ohne Kuendigung: Anstellungsvertrag laeuft weiter; Gehaltsanspruch besteht bis Kuendigungsfrist
-- Wettbewerbsverbot ohne Karenz: unverbindlich; GF kann sofort konkurrenzieren
-- Pensionszusage ohne Fremdvergleich: vGA; Steuernachforderung bis 4 Jahre rueckwirkend
-- SV-Status nicht geprueft: Nachforderung bis 4 Jahre (§ 25 SGB IV); strafrechtliche Risiken für GF
-
-## Quellen und Vertiefung
-
-- §§ 6, 35, 38, 43, 46 GmbHG; §§ 620, 626 BGB; § 74 II HGB analog
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
-## Übergabe an andere Skills
-
-- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Verweise Satzung zu GF-Vertrag
-- `gesellschaftsgruender-gesellschaftervereinbarung` — Vesting/Leaver-Klauseln koordinieren
-- `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — Pflichten nach Eintragung
-- `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Statusfeststellung vertiefen
 
 ---
 

@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -143,6 +143,23 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `schulstrasse-zeichen-auslegen` | StVO: Schulstraße: Zeichen auslegen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `schulweg-und-verkehrsberuhigung` | Straßenverkehrsrecht StVO: Schulweg und Verkehrsberuhigung. Schulweg und Verkehrsberuhigung im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrech... |
 | `schwertransport-erlaubnis` | Straßenverkehrsrecht StVO: Schwertransport und Erlaubnis. Schwertransport und Erlaubnis im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: p... |
+| `stv-003-verkehrsrechtliche-anordnung-pruefen` | Straßenverkehrsrecht StVO: Verkehrsrechtliche Anordnung prüfen. Verkehrsrechtliche Anordnung prüfen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
+| `stv-021-haltverbot-regel-pruefen` | Straßenverkehrsrecht StVO: Haltverbot: Regel prüfen. Regel prüfen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-028-haltverbot-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Haltverbot: Behörde anschreiben. Behörde anschreiben für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-031-tempo-30-regel-pruefen` | Straßenverkehrsrecht StVO: Tempo 30: Regel prüfen. Regel prüfen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-038-tempo-30-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Tempo 30: Behörde anschreiben. Behörde anschreiben für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-041-fahrradstrasse-regel-pruefen` | Straßenverkehrsrecht StVO: Fahrradstraße: Regel prüfen. Regel prüfen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-048-fahrradstrasse-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Fahrradstraße: Behörde anschreiben. Behörde anschreiben für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-051-busspur-regel-pruefen` | Straßenverkehrsrecht StVO: Busspur: Regel prüfen. Regel prüfen für Busspur im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-058-busspur-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Busspur: Behörde anschreiben. Behörde anschreiben für Busspur im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-061-bewohnerparken-regel-pruefen` | Straßenverkehrsrecht StVO: Bewohnerparken: Regel prüfen. Regel prüfen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-068-bewohnerparken-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Bewohnerparken: Behörde anschreiben. Behörde anschreiben für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-071-lieferzone-regel-pruefen` | Straßenverkehrsrecht StVO: Lieferzone: Regel prüfen. Regel prüfen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-078-lieferzone-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Lieferzone: Behörde anschreiben. Behörde anschreiben für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-081-ladezone-regel-pruefen` | Straßenverkehrsrecht StVO: Ladezone: Regel prüfen. Regel prüfen für Ladezone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-088-ladezone-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Ladezone: Behörde anschreiben. Behörde anschreiben für Ladezone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-091-schulstrasse-regel-pruefen` | Straßenverkehrsrecht StVO: Schulstraße: Regel prüfen. Regel prüfen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `stv-098-schulstrasse-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Schulstraße: Behörde anschreiben. Behörde anschreiben für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `tempo-30-anordnung-angreifen` | StVO: Tempo 30: Anordnung angreifen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `tempo-30-antrag-schreiben` | StVO: Tempo 30: Antrag schreiben im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `tempo-30-behoerde-anschreiben` | StVO: Tempo 30: Behörde anschreiben im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |

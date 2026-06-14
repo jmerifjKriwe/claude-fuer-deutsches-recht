@@ -60,4 +60,3 @@ Kein Verweisungsberuf entspricht den Anforderungen der Lebensstellungsklausel un
 ## V. Schlussfolgerung
 
 Das Berufsbild der examinierten Altenpflegerin ist zu mehr als 50 % durch körperlich belastende, desinfektionsmittelbezogene und psychisch belastende Tätigkeiten geprägt, die Frau Vogelweide aufgrund ihrer Gesundheitsschäden dauerhaft und vollständig ausschließen. Eine zumutbare Verweisungstätigkeit ist nicht vorhanden.
-

@@ -64,4 +64,3 @@ Dieses Anschluss-Routing für **Liquiditaetsplanung** wählt nach dem ersten Erg
 - BGH II ZR 78/06
 - BGH IX ZR 122/23
 - BGH II ZR 206/22
-

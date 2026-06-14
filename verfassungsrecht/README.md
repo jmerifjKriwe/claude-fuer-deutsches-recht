@@ -71,7 +71,7 @@ Anwältinnen und Anwälte sind nach **§ 203 StGB** (Verletzung von Privatgeheim
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -100,6 +100,8 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `recherche-verhandlung-vergleich-und-eskalation` | Recherche: Verhandlung, Vergleich und Eskalation im Verfassungsrecht. |
 | `rechtsprechungsgetrieben-rechtsweg-bverfg` | Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg im Verfassungsrecht. |
 | `sicht-spezialkanzlei-unter` | Sicht: Dokumentenmatrix, Lückenliste und Nachforderung im Verfassungsrecht. |
+| `spezial-bundesverfassungsgericht-livequellen-check` | Bundesverfassungsgericht: Livequellen- und Rechtsprechungscheck. |
+| `spezial-grundrechte-red-team-und-qualitaetskontrolle` | Grundrechte: Red-Team und Qualitätskontrolle. |
 | `spezialkanzlei-risikoampel-und-gegenargumente` | Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien im Verfassungsrecht. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokume... |
 | `unter-tatbestand-beweis-und-belege` | Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Verfassungsrecht. |
@@ -109,6 +111,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `verfassung-beweislast-verfassungsbeschwerde` | Verfassung: Beweislast, Darlegungslast und Substantiierung im Verfassungsrecht. |
 | `verfassung-bund-laender-streit` | Bund-Länder-Streit Art. 93 Abs. 1 Nr. 3 GG, §§ 68 ff. BVerfGG: Streitigkeiten Bund/Land oder Land/Land. Prüfraster und Beispiele (Finanzausgleich, Schulrecht, Polizeirecht) im Verfassungsrecht. |
 | `verfassung-grundgesetz-organstreitverfahren` | Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Änderungen im Verfassungsrecht. |
+| `verfassung-grundgesetz-verfahren` | Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen. |
 | `verfassung-grundrechte-juristische-uebersicht` | Grundrechtsfaehigkeit juristischer Personen Art. 19 Abs. 3 GG: inlaendische jur. Personen, Wesensmaessigkeitsklausel. Beispiele: Wirtschafts-Grundrechte ja, Wuerde nein. Ausländische jur. Personen jetzt teilweise EuGH-konform anerkannt i... |
 | `verfassung-grundrechte-uebersicht` | Grundrechte des GG Überblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken,... |
 | `verfassung-grundrechte-und-eu-recht` | Verhältnis GG-Grundrechte und EU-Grundrechtecharta: Solange-II BVerfGE 73 S. 339, Bananenmarkt BVerfGE 102 S. 147, Recht auf Vergessen I sowie II BVerfG 1 BvR 16 aus 13 und 1 BvR 276 aus 17. Prüfraster: Anwendungsbereich Charta vs. GG im... |
@@ -128,7 +131,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `vfgr-verfassungsbeschwerde-substantiierung-spezial` | Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis, Selbst- gegenwaertig- unmittelbar, Rechtswegerschoepfung: Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis,... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Verfassungsrecht. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Verfassungsrecht. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Verfassungsrecht. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

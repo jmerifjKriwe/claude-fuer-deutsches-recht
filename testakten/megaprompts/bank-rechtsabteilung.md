@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 119 Skills (gekuerzt fuer Chat-Fenster) des Plugins `bank-rechtsabteilung`.
+Dieser Megaprompt enthaelt top-8 von 121 Skills (gekuerzt fuer Chat-Fenster) des Plugins `bank-rechtsabteilung`.
 
 ## Inhaltsverzeichnis
 

@@ -57,7 +57,7 @@ Grenzwerte, Formulare, Fristen und Förderbedingungen ändern sich. Das Plugin s
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 201 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -228,6 +228,7 @@ Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschre
 | `skalierung-ohne-chaos` | Solo-Selbstständige: entscheidet zwischen mehr Preis, mehr Prozesse, Subunternehmer oder GmbH; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |
 | `social-media-werbung` | Solo-Selbstständige: prüft Werbung, Testimonials, Influencer-Hinweise und Irreführung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |
 | `software-code-freelancer` | Solo-Selbstständige: regelt Softwareurheberrecht, Open Source, Repos und Abnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |
+| `solo-ki-output-fuer-kunden` | Solo-Selbstständige: prüft Kennzeichnung, Rechte, Fehlerkontrolle und Haftung bei KI-Arbeitsergebnissen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `sozialrechtlicher-bescheid-widerspruch` | Solo-Selbstständige: macht aus Kasse/DRV/KSK-Bescheid eine verständliche Widerspruchsstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |
 | `sprache-uebersetzung-solo-standardvorlagen` | Solo-Selbstständige: setzt klare Sprachregel für Angebot, Vertrag, Rechnung und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |
 | `standardvorlagen` | Solo-Selbstständige: erstellt Vorlagen für Angebot, Auftrag, Rechnung, Mahnung, Projektabschluss; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |

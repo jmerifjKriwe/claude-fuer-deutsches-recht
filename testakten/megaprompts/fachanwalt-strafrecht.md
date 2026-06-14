@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 226 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-strafrecht`.
+Dieser Megaprompt enthaelt top-8 von 240 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-strafrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Anwalts-Dashboard Fachanwalt Strafrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zus…
 2. **mandat-triage-strafrecht** — Strukturierte Eingangs-Abfrage für Strafmandate: Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstr…
-3. **orientierung-mandat-fachanwaltschaft** — Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafre…
-4. **orientierung-fristen-form-und-zustaendigkeit** — Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg.
-5. **erstgespraech-mandatsannahme** — Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polize…
-6. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-7. **output-waehlen** — Output-Wahl für Fachanwalt Strafrecht: stimmt Adressat (Beschuldigter/Angeklagter, Staatsanwaltschaft, Verletzte/Nebenkl…
-8. **adhaesionsverfahren** — Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig S…
+3. **fachanwalt-strafrecht-orientierung** — Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss St…
+4. **orientierung-mandat-fachanwaltschaft** — Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafre…
+5. **orientierung-fristen-form-und-zustaendigkeit** — Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg.
+6. **erstgespraech-mandatsannahme** — Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polize…
+7. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+8. **fachanwalt-strafrecht-zeugenbeistand** — Zeugenbeistand im Strafverfahren für Zeugen mit eigenem Rechtsinteresse: Anwendungsfall Person ist als Zeuge geladen hat…
 
 ---
 
@@ -238,6 +238,96 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - § 141 StPO — Pflichtverteidiger-Bestellung (Zeitpunkt, Ablauf)
 - § 146 StPO — Verbot Mehrfachverteidigung
 - §§ 10 ff. GwG — Identifizierungspflichten Sorgfaltspflichten Rechtsanwalt
+
+---
+
+## Skill: `fachanwalt-strafrecht-orientierung`
+
+_Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und richtigen Spezial-Skill finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Prüfraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zum richtigen Workflow-Skill. Abgrenzung zu Mandat-Triage-Strafrecht für ausführliche Erstaufnahme._
+
+# Fachanwalt für Strafrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- **Theoretischer Lehrgang** 120 Stunden.
+- **Drei Klausuren** zum Strafrecht.
+- **60 Fälle** in den letzten drei Jahren, davon mindestens 40 Hauptverhandlungen mit eigener Beteiligung.
+- Anmeldung bei der Rechtsanwaltskammer.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| StGB Allgemeiner Teil | §§ 1 ff. StGB |
+| StGB Besonderer Teil | §§ 80 ff. StGB |
+| Strafverfahren | StPO §§ 1 ff. |
+| Strafvollstreckung | StVollstrO StVollzG |
+| Nebenstrafrecht | BtMG WaffG AO § 370 (Steuerhinterziehung) |
+| Strafrecht Wirtschaft | §§ 263 263a 266 299 StGB GwG |
+| Jugendstrafrecht | JGG |
+| Beruf Strafverteidiger | § 137 StPO § 138 StPO § 142 StPO Pflichtverteidigung § 140 StPO |
+
+## Typische Mandate
+
+- Ermittlungsverfahren Erstvernehmung
+- Untersuchungshaft (§§ 112 ff. StPO Haftprüfungsantrag § 117 StPO Haftbeschwerde § 304 StPO)
+- Hauptverhandlung Strafrichter Schöffengericht Schwurgericht
+- Verteidigung in Wirtschaftsstrafsachen (Wirtschaftsstrafkammer Landgericht)
+- Berufung Revision Verfassungsbeschwerde
+- Strafvollstreckung Bewährung Reststrafenaussetzung
+
+## Notfristen
+
+- **Berufung** § 314 StPO — **eine Woche** Notfrist.
+- **Revision** § 341 StPO — **eine Woche** Notfrist.
+- **Revisionsbegründung** § 345 StPO — **ein Monat**.
+- **Beschwerde** § 311 StPO — **eine Woche**.
+- **Verfassungsbeschwerde** § 93 BVerfGG — **ein Monat**.
+- **Wiedereinsetzung** § 44 StPO — eine Woche.
+
+## Hauptgerichte
+
+- **Amtsgericht** Strafrichter § 25 GVG (Vergehen Privatklage oder keine höhere Strafe als zwei Jahre zu erwarten) Schöffengericht § 28 GVG (bis vier Jahre Straferwartung).
+- **Landgericht** Große Strafkammer Wirtschaftsstrafkammer Schwurgericht.
+- **OLG** Berufungs- und Revisionsinstanz; Anklage erstinstanzlich bei Staatsschutzdelikten.
+- **BGH 1.–5. Strafsenat** Revisionsinstanz.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- Deutscher Strafverteidiger e. V. (DSV).
+- Vereinigung Berliner Strafverteidiger.
+- Strafverteidigervereinigung Niedersachsen / NRW / Bayern.
+
+## Schnittstellen
+
+- **aktenaufbereiter-strafrecht** für Aktenaufbereitung.
+- **kanzlei-allgemein** für Fristenbuch und Versand.
+
+## Hinweis
+
+Plugin fuer Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
+
+## Zentrale Strafrecht-Normen im Ueberblick
+
+- §§ 1-2 StGB — Gesetzlichkeitsprinzip; keine Strafe ohne Gesetz (nullum crimen)
+- §§ 13-16 StGB — Begehungs-/Unterlassungsdelikt, Vorsatz, Irrtum
+- §§ 20-21 StGB — Schuldunfaehigkeit, verminderte Schuldfaehigkeit
+- §§ 46-49 StGB — Strafzumessung, besonderer Milderungsgrund
+- § 78 StGB — Verjaehrungsfristen (z.B. 30 Jahre bei Mord)
+- §§ 112-130 StPO — Untersuchungshaft, Haftbefehl, Haftgruende, Haftpruefung
+- §§ 136-136a StPO — Beschuldigtenbelehrung, Aussageverweigerungsrecht, Beweisverwertungsverbote
+- §§ 140-142 StPO — notwendige Verteidigung, Pflichtverteidiger
+
+## Aktuelle Leitentscheidungen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ---
 
@@ -687,257 +777,188 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `output-waehlen`
+## Skill: `fachanwalt-strafrecht-zeugenbeistand`
 
-_Output-Wahl für Fachanwalt Strafrecht: stimmt Adressat (Beschuldigter/Angeklagter, Staatsanwaltschaft, Verletzte/Nebenkläger), Frist (Revision 1 Woche/1 Mon. § 341 StPO) und Form auf den Zweck ab — typische Outputs: Akteneinsicht-Antrag, Beweisantrag, Plädoyer._
+_Zeugenbeistand im Strafverfahren für Zeugen mit eigenem Rechtsinteresse: Anwendungsfall Person ist als Zeuge geladen hat aber eigenes Aussageverweigerungsrecht oder Selbstbelastungsrisiko und benoetigt anwaltlichen Beistand. § 68b StPO Zeugenbeistand, § 55 StPO Auskunftsverweigerungsrecht, § 52 StPO Zeugnisverweigerungsrecht. Prüfraster Auskunftsverweigerungsrecht nach § 55 prüfen, Schutz vor Selbstbelastung, Zeugen-Aussage vorbereiten oder Aussage verweigern, Beistand aktiv ausüben. Output Strategie-Memo für Zeugenbeistand mit Aussagepfaden und Verweigerungs-Optionen. Abgrenzung zu Erstgespraeach für Beschuldigte und zu Nebenklage._
 
-# Output wählen
-
-## Einsatzlage
-
-Diese Output-Weiche für **Fachanwalt Strafrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
-
-## Fachlandkarte dieses Plugins
-
-- `workflow-redteam-qualitygate` — Adhaesionsverfahren Ermittlungsverfahren
-- `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik` — Aussagepsychologie Staatsanwaltschaft
-- `chatcontrol-csam-anwaltsgeheimnis-53-stpo` — Chatcontrol Csam Einlassung Vorbereiten
-- `ergaenzt-mandantenkommunikation-entscheidungsvorlage` — Ergaenzt Fachanwalt Insolvenzantrag RED Team Korrektur
-- `fa-strafrecht-quellen-frist-next` — FA Strafrecht Quellen Frist Next
-- `freiheitsstrafe-paragraf-57-stgb` — Freiheitsstrafe Paragraf 57 STGB
-- `hauptverhandlung-quellenkarte` — Hauptverhandlung Quellenkarte
-- `strafrecht-spezial-koerperverletzung-223-stgb-grund` — Koerperverletzung STGB Todesfolge
-- `mandat-triage-strafrecht` — Mandat Triage Plaedoyer Vorbereitung
-- `nebenklage-compliance-dokumentation-und-akte` — Nebenklage Nebenstrafrecht Opfervertretung
-- `notwehr-paragraf-32-stgb` — Notwehr Paragraf 32 STGB
-- `orientierung-mandat-fachanwaltschaft` — Orientierung
-- `strafrecht-spezial-raub-249-stgb` — Raub Rechtsbeugung
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
-
-## Arbeitsweg
-
-- Ergebnistyp bestimmen: Schriftsatz an Beschuldigter, Strafverteidiger, Staatsanwaltschaft, Ermittlungsrichter, Vorsitzender, Schöffen, Zeuge, Nebenkläger, JVA, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
-- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Strafrecht und Strafprozessrecht (StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 53, 53a, 100a, 100b, 102, 105, 112, 116, 136, 137, 140, 141, 147, 152, 153, 153a, 160, 163a, 168c, 169, 170, 200, 201, 203, 244, 257c, 261, 264, 265, 267, 268, 304, 341, 344, 349) einarbeiten.
-- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
-- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
-- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
----
-
-## Skill: `adhaesionsverfahren`
-
-_Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess: Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereite..._
-
-# Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess. §§ 403-406c StPO Adhaesionsverfahren, § 823 BGB Schadensersatz, § 253 BGB Schmerzensgeld. Prüfraster Zulässigkeit im Strafverfahren, Antragsschrift-Anforderungen, Beweisangebot, taktische Abwaegung Adhaesion vs. separater Zivilprozess. Output Adhaesionsantrag mit Schadensaufstellung und taktischer Einordnung. Abgrenzung zu Taeter-Opfer-Ausgleich § 46a StGB und zu Verständigung § 257c StPO.
-
-### Adhäsionsverfahren im Strafverfahren
+# Zeugenbeistand im Strafverfahren
 
 ## Kernsachverhalt & Mandantenfragen
 
-Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verletzten Person eine eigenständige Zivilklage. Gleichzeitig ist es für die Verteidigung ein Instrument zur Schadensminimierung: Ein Adhäsionsvergleich kann das Strafmaß erheblich beeinflussen (§ 46a StGB).
+Der Zeugenbeistand ist die anwaltliche Begleitperson eines Zeugen – nicht des Beschuldigten. Die Rolle ist strukturell eigenstaendig: Der Beistand berät den Zeugen, darf aber nicht den Verfahrensverlauf lenken wie ein Verteidiger. Mandantinnen und Mandanten verstehen diese Unterscheidung selten.
 
 **8 Kaltstart-Rückfragen:**
 
-1. Was ist die konkrete Straftat und wann wurde sie begangen? Liegt ein Aktenzeichen vor?
-2. Welche zivilrechtlichen Schäden sind entstanden: Körperverletzung (Schmerzensgeld), Vermögensschaden (Betrug, Diebstahl), Sachschäden, Verdienstausfall?
-3. Liegen ärztliche Atteste, Behandlungsberichte oder Gutachten zur Schadenshöhe vor?
-4. Hat die Versicherung (z.B. Krankenversicherung, Unfallversicherung) bereits Leistungen erbracht? Forderungsübergang nach § 116 SGB X prüfen.
-5. Ist der/die Angeklagte zahlungsfähig? Pfändbare Vermögenswerte vorhanden oder Insolvenz droht?
-6. Besteht parallele Nebenklage oder soll der Adhäsionsantrag ohne Nebenklage gestellt werden?
-7. Ist ein außergerichtlicher Vergleich mit dem/der Angeklagten bereits diskutiert oder gescheitert?
-8. Welcher Betrag soll konkret geltend gemacht werden, oder soll das Schmerzensgeld dem Ermessen des Gerichts überlassen bleiben?
+1. Haben Sie eine Ladung erhalten und von wem (Polizei, Staatsanwaltschaft, Gericht)? Bitte Ladungsschreiben vorlegen.
+2. Sind Sie selbst beschuldigt oder verdaechtig in derselben Sache oder einer verwandten Sache?
+3. Sind Sie mit der/dem Beschuldigten verwandt, verschwägert, verlobt oder verheiratet?
+4. Üben Sie einen Beruf aus, der eine gesetzliche Schweigepflicht begründet (Arzt, Rechtsanwalt, Steuerberater, Pfarrer, Psychotherapeut)?
+5. Sind Sie Beamter oder Angestellter des öffentlichen Dienstes und benötigen Sie eine Aussagegenehmigung Ihres Dienstherrn?
+6. Wurden Ihnen Drohungen gemacht oder fühlen Sie sich durch das Umfeld der/des Beschuldigten gefährdet?
+7. Sind Sie zugleich Verletzte/r der dem Verfahren zugrundeliegenden Tat?
+8. Haben Sie bereits Angaben gegenüber der Polizei gemacht und wenn ja, in welchem Umfang?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
 | Norm | Inhalt |
 |---|---|
-| § 403 StPO | Adhäsionsrecht: Verletzte kann vermögensrechtliche Ansprüche aus der Tat im Strafverfahren geltend machen |
-| § 404 StPO | Form und Inhalt des Adhäsionsantrags; schriftlich oder zu Protokoll; bis Schluss der Beweisaufnahme |
-| § 405 StPO | Adhäsionsvergleich als Vollstreckungstitel; Protokollierung in der Hauptverhandlung |
-| § 406 StPO | Entscheidung durch Strafgericht; Grundurteil; Absehen von Entscheidung bei Verfahrensverzögerung |
-| § 406a StPO | Rechtsmittel gegen Adhäsionsentscheidung; eingeschränkte Berufungsmöglichkeit |
-| § 406b StPO | Vorläufige Vollstreckbarkeit des Adhäsionsurteils |
-| § 406c StPO | Vollstreckbarerklärung des Vergleichs |
-| § 472a StPO | Kosten des Adhäsionsverfahrens für Verletzte: grundsätzlich kostenfrei |
-| § 46a StGB | Täter-Opfer-Ausgleich und Schadenswiedergutmachung als Strafmilderungsgrund |
-| § 46 Abs. 2 StGB | Strafzumessung: Schadenswiedergutmachung berücksichtigungsfähig |
-| § 253 Abs. 2 BGB | Schmerzensgeld bei Körper-, Gesundheits-, Freiheitsverletzung oder sexueller Selbstbestimmung |
-| §§ 249–252 BGB | Art und Umfang des Schadensersatzes; Naturalrestitution, Wertersatz |
-| §§ 823–826 BGB | Deliktsrecht: Grundlagen der Schadensersatzpflicht |
-| § 830 BGB | Mittäter und Beteiligte haften als Gesamtschuldner |
-| § 116 SGB X | Forderungsübergang bei Sozialleistungsträgern (Krankenkasse, Rentenversicherung) |
+| § 48 StPO | Pflicht zur Aussage; grundsätzliche Erscheinens- und Aussagepflicht des Zeugen |
+| § 52 StPO | Zeugnisverweigerungsrecht der Angehörigen (Ehegatten, Verwandte gerader Linie, Seitenlinie bis 3. Grad) |
+| § 53 StPO | Zeugnisverweigerungsrecht der Berufsgeheimnisträger (Ärzte, Anwälte, Steuerberater, Geistliche u.a.) |
+| § 53a StPO | Zeugnisverweigerungsrecht beruflicher Gehilfen (z.B. Rechtsanwaltsfachangestellte) |
+| § 54 StPO | Aussagegenehmigung für Amtsträger; Versagung mit Begruendungspflicht |
+| § 55 StPO | Auskunftsverweigerungsrecht bei Selbstbelastungsgefahr (einzelne Fragen oder ganze Aussage) |
+| § 68 StPO | Vernehmung zur Person; Adressanonymisierung Abs. 2 und Abs. 3 |
+| § 68a StPO | Beschränkung ehrenrühriger Fragen |
+| § 68b StPO | Anwaltlicher Beistand des Zeugen; Beiordnung Abs. 2 bei Schutzbedürftigkeit |
+| § 70 StPO | Zwangsmittel bei unberechtigter Zeugnisverweigerung (Ordnungsgeld, Erzwingungshaft) |
+| § 97 StPO | Beschlagnahmeverbot bei Berufsgeheimnissen |
+| § 136a StPO | Verbotene Vernehmungsmethoden (analog für Zeugen) |
+| § 161a StPO | Vernehmung von Zeugen durch die Staatsanwaltschaft |
+| § 163a StPO | Vernehmung durch die Polizei |
+| § 247 StPO | Entfernung des Angeklagten bei Zeugenvernehmung (Schutzvorschrift) |
+| § 406e StPO | Akteneinsicht für Verletzte (analog für Zeugenbeistand anerkannt) |
 
 ---
 
-## Leitentscheidungen (Stand Mai 2026)
+## Leitentscheidungen
 
-| Aktenzeichen | Gericht / Datum | Tragende Aussage | Offene Fundstelle |
-|---|---|---|---|
-| 3 StR 340/24 | BGH (3. Strafsenat), Beschluss 09.01.2025 | Adhäsionsentscheidung im Strafverfahren — Begründungsanforderungen an Schmerzensgeldzumessung; Strafgericht muss die maßgeblichen Zumessungsgesichtspunkte (Verletzungsbild, Dauer, Folgen) erkennbar machen | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.01.2025&Aktenzeichen=3+StR+340/24 |
-| 4 StR 232/25 | BGH (4. Strafsenat), Beschluss 20.11.2025 | Zusammenspiel TOA / Schadenswiedergutmachung (§ 46a StGB) und Adhäsionsforderung — Strafmilderung setzt kommunikativen Aussöhnungsprozess voraus, nicht nur Zahlung | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25 |
-
-Weitere Entscheidungen vor Verwendung live in dejure.org/openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Aktenzeichen | Gericht / Datum | Leitsatz |
+|---|---|---|
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
-## Prüfschema Adhäsionsverfahren
+## Prüfschema Zeugenbeistand
 
 | Schritt | Inhalt | Grundlage |
 |---|---|---|
-| 1 | Anspruchsgrundlage prüfen: § 823 BGB (Körperverletzung, Sachschaden), § 826 BGB (sittenwidrige Schädigung bei Betrug), § 249/253 BGB (Schaden und Schmerzensgeld) | §§ 249, 253, 823 BGB |
-| 2 | Verletzteneigenschaft prüfen: Nur unmittelbar Verletzte (§ 403 StPO); mittelbar Betroffene ausgeschlossen | § 403 StPO |
-| 3 | Forderungsübergang prüfen: § 116 SGB X bei Krankenkassenleistungen; Eigenanteil ermitteln | § 116 SGB X |
-| 4 | Schadenshöhe ermitteln: Schmerzensgeld nach Tabellen (Hacks/Slizyk); materieller Schaden beziffern; Feststellungsantrag für Zukunftsschäden | § 253 Abs. 2 BGB |
-| 5 | Vollstreckungsperspektive prüfen: Zahlungsfähigkeit des/der Angeklagten; Insolvenzsituation; pfändbares Vermögen | §§ 704, 794 ZPO |
-| 6 | Adhäsionsantrag formulieren: bestimmter Antrag (Zahlung, Feststellung, Herausgabe); Sachverhalt; Beweismittel | § 404 StPO |
-| 7 | Fristwahrung: Antrag bis Beginn der Schlussvorträge (spätestens); frühzeitig einreichen | § 404 Abs. 1 StPO |
-| 8 | Vergleichsstrategie aus Verteidigung: § 46a StGB als Strafmilderungsargument; Ratenvereinbarung vorbereiten | § 46a StGB |
-| 9 | Vergleich nach § 405 StPO: In Hauptverhandlung protokollieren lassen; wird Vollstreckungstitel | § 405 StPO |
-| 10 | Grundurteil und Folgeentscheidung: Bei Bezifferungsproblemen Grundurteil nach § 406 Abs. 1 S. 2 StPO; Quantifizierung im Zivilverfahren | § 406 Abs. 1 S. 2 StPO |
-| 11 | Absehen-Antrag der Verteidigung: § 406 Abs. 1 S. 3–6 StPO – wenn Adhäsion Verfahren wesentlich verzögert | § 406 StPO |
-| 12 | Vollstreckung: Titel nach § 794 ZPO; Gerichtsvollzieher, Forderungspfändung; bei Insolvenz: Tabellenanmeldung | § 794 ZPO |
+| 1 | Ladung prüfen: Wer lädt (Polizei/StA/Gericht)? Verfahrensstadium? Beweisthema? | § 48, § 161a, § 163a StPO |
+| 2 | Zeugnisverweigerungsrecht § 52 StPO: Angehörigeneigenschaft prüfen (Ehe, Verwandtschaft, Lebenspartnerschaft) | § 52 StPO |
+| 3 | Zeugnisverweigerungsrecht § 53 StPO: Berufsgeheimnisträger? Entbindungserklärung vorhanden? | § 53, § 53a StPO |
+| 4 | Aussagegenehmigung § 54 StPO: Amtsträger? Genehmigung erteilt oder beantragt? | § 54 StPO |
+| 5 | Auskunftsverweigerungsrecht § 55 StPO: Welche Fragen beinhalten Selbstbelastungsgefahr? Einzelfragen oder gesamte Aussage betroffen? | § 55 StPO |
+| 6 | Akteneinsicht beantragen (analog § 406e StPO oder über § 475 StPO) | § 406e, § 475 StPO |
+| 7 | Beiordnungsantrag § 68b Abs. 2 StPO prüfen: Schutzbedürftigkeit, Minderjährigkeit, Gefährdungslage, Verbindung zu Organisierter Kriminalität | § 68b Abs. 2 StPO |
+| 8 | Adressanonymisierung § 68 Abs. 2/3 StPO prüfen: Stalking, häusliche Gewalt, Zeugenschutzbedarf | § 68 StPO |
+| 9 | Aussage-Chronologie mit Mandantschaft erarbeiten: Was weiß sie/er und aus welcher Quelle? Erinnerungslücken offen lassen | § 68b StPO |
+| 10 | Schriftliche Mandantenbelehrung über Rechte (§§ 52, 55 StPO) und Pflichten (§ 48 StPO) | § 48, § 52, § 55 StPO |
+| 11 | Vernehmungsbegleitung: Anwesenheit, Wortmeldungsrecht; Schutz vor § 136a-StPO-Methoden; Pausenanträge bei § 55-Konstellationen | § 68b StPO |
+| 12 | Protokollkontrolle: Richtigkeit und Vollständigkeit; ggf. Berichtigungsantrag | § 168 S. 2 StPO |
+| 13 | Nachbereitung: Zeugen-Memo, Prüfung weiterer Schritte (Beschwerde, Strafanzeige bei Druckausübung) | §§ 162, 306 StPO |
 
 ---
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Adhaesionsverfahren fuehren | Adhaesionsantrag; Template unten |
-| Variante A — Mandant will Strafverfahren trennen | Zivilklage separat; Adhaesion entfaellt |
-| Variante B — Strafgericht verweist Adhaesion | Nachfolge-Zivilklage; Bindungswirkung des Strafurteils |
-| Variante C — Schadenshoehe unklar | Feststellungsklage zuerst; Leistungsklage nach Konkretisierung |
+| Standard — Zeugen-Beistand | Zeugenbeistand-Protokoll; Template unten |
+| Variante A — Zeuge wird Beschuldigter | Sofort Aussageverweigerung; Mandatsumwandlung |
+| Variante B — Zeuge im Ausland | Internationale Rechtshilfe; Aussagepflicht pruefen |
+| Variante C — Behoedenzeuge (Beamter) | Aussagegenehmigung Dienststelle; Amtsgeheimnis |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
+
 ## Schriftsatzbausteine
 
-### Baustein 1 – Adhäsionsantrag auf Schmerzensgeld
+### Baustein 1 – Beiordnungsantrag § 68b Abs. 2 StPO
 
 ```
-An das [Gericht]
+An das [Gericht / Staatsanwaltschaft]
 Aktenzeichen: [...]
 
-Adhäsionsantrag gemäß §§ 403 ff. StPO
+Antrag auf Beiordnung als anwaltlicher Zeugenbeistand
+gemäß § 68b Abs. 2 StPO
 
-In der Strafsache gegen [Name Angeklagte/r]
-wegen [Tatvorwurf]
+In der Strafsache gegen [Name Beschuldigte/r]
+zeige ich die anwaltliche Vertretung der Zeugin / des Zeugen
+[Name, Geburtsdatum, Anschrift]
+an.
 
-beantragt die Verletzte [Name] durch ihre anwaltliche Vertretung:
-
-1. Die/den Angeklagte/n wird verurteilt, an die Verletzte
- ein angemessenes Schmerzensgeld zu zahlen, dessen Höhe
- in das Ermessen des Gerichts gestellt wird, jedoch den
- Betrag von [z.B. 15.000 Euro] nicht unterschreiten sollte,
- nebst Zinsen in Höhe von fünf Prozentpunkten über dem
- Basiszinssatz seit Rechtshängigkeit dieses Antrags.
-
-2. Es wird festgestellt, dass die/der Angeklagte verpflichtet
- ist, der Verletzten alle weiteren materiellen und immateriellen
- Schäden zu ersetzen, die aus der Tat vom [Datum] künftig noch
- entstehen, soweit Ansprüche nicht auf Dritte oder Sozial-
- versicherungsträger übergegangen sind.
+Ich beantrage, mich als anwaltlichen Beistand der Zeugin / des Zeugen
+gemäß § 68b Abs. 2 StPO beizuordnen.
 
 Begründung:
-Die Verletzte erlitt durch die Tat vom [Datum] folgende
-Verletzungen: [konkret aufzählen]. Sie wurde [X Tage]
-stationär behandelt und befand sich [X Wochen] in ambulanter
-Therapie. Behandlungsunterlagen werden als Anlage 1 bis 3
-beigefügt.
+Die Beiordnung ist erforderlich, weil [konkret: z.B.
+"die Zeugin minderjährig und einem erheblichen Drohungsdruck
+durch den Beschuldigten ausgesetzt ist; es liegen Erkenntnisse
+vor, dass der Beschuldigte über Mittelsleute Einfluss auf
+das Aussageverhalten ausübt (dokumentiert durch SMS-Nachrichten
+vom [Datum], Anlage 1)"].
 
-Das Schmerzensgeld ist nach den Grundsätzen der Ausgleichs-
-und Genugtuungsfunktion (§ 253 Abs. 2 BGB) zu bemessen.
-Vergleichbare Verletzungen werden in der Rechtsprechung mit
-[Betragsbereich] bewertet (Slizyk, Beck'sche Schmerzensgeld-
-tabelle, [aktuelle Auflage], Nr. [XX]).
+Die Vernehmung ist für den [Termin] vor [Behörde/Gericht]
+angesetzt.
+
+[Ort, Datum]
+[Unterschrift, Kanzlei]
+```
+
+### Baustein 2 – Erklärung Auskunftsverweigerungsrecht § 55 StPO
+
+```
+An den/die Vernehmungsbeamten/-beamtin / Vorsitzenden
+[Behörde / Gericht]
+
+In der Vernehmung der Zeugin / des Zeugen [Name]
+am [Datum], Aktenzeichen [...]
+
+Erklärung gemäß § 55 StPO
+
+Ich erkläre namens und in Vollmacht der Zeugin / des Zeugen
+[Name]:
+
+Auf die Frage [ggf. konkrete Frage nennen oder: "betreffend
+den Sachverhaltskomplex X"] verweigert die Zeugin / der Zeuge
+die Auskunft gemäß § 55 StPO.
+
+Die wahrheitsgemäße Beantwortung würde die Zeugin / den Zeugen
+der Gefahr aussetzen, wegen einer Straftat verfolgt zu werden
+(§ 55 Abs. 1 StPO). Eine Belehrung gemäß § 55 Abs. 2 StPO
+ist [nicht] erfolgt.
+
+Soweit die Vernehmungsperson die Berechtigung dieser
+Verweigerung bezweifelt, beantrage ich die Entscheidung
+des zuständigen Richters (§ 55 Abs. 2 S. 3 StPO).
 
 [Ort, Datum]
 [Unterschrift]
 ```
 
-### Baustein 2 – Adhäsionsvergleich (Protokollvorlage)
+### Baustein 3 – Akteneinsichtsantrag (Zeugenbeistand, analog § 406e StPO)
 
 ```
-In der Hauptverhandlung am [Datum]
+An die Staatsanwaltschaft [...]
 Aktenzeichen: [...]
 
-schließen die Parteien folgenden Vergleich gemäß § 405 StPO:
+Antrag auf Akteneinsicht gemäß § 406e StPO (analog) /
+§ 475 StPO
 
-1. Die/der Angeklagte zahlt an die Verletzte [Name]
- zur Abgeltung sämtlicher Schmerzensgeld- und Schadens-
- ersatzansprüche aus der Tat vom [Datum] einen Betrag
- von [X Euro].
+Ich zeige die anwaltliche Vertretung der Zeugin / des Zeugen
+[Name] an.
 
-2. Zahlung erfolgt in monatlichen Raten von [X Euro]
- erstmals zum [Datum]; Gesamtfälligkeit bei Zahlungs-
- verzug mit einer Rate.
+Ich beantrage Einsicht in die Verfahrensakte, insbesondere:
+- Anklageschrift / Eröffnungsbeschluss
+- Vernehmungsprotokolle
+- Sachverständigengutachten
+- [weitere konkrete Unterlagen]
 
-3. Mit Zahlung des Gesamtbetrags sind alle Ansprüche der
- Verletzten aus der Tat vom [Datum] abgegolten.
-
-4. Die Gerichtskosten des Adhäsionsverfahrens trägt
- [je nach Vereinbarung].
-
-Dieser Vergleich wird als Prozessvergleich nach § 794 Abs. 1
-Nr. 1 ZPO protokolliert.
-
-[Unterschriften beider Seiten und Gericht]
-```
-
-### Baustein 3 – Verteidigung: Antrag auf Absehen von Entscheidung § 406 Abs. 1 S. 3 StPO
-
-```
-An das [Gericht]
-Aktenzeichen: [...]
-
-Antrag auf Absehen von der Entscheidung im Adhäsionsverfahren
-gemäß § 406 Abs. 1 S. 3 StPO
-
-In der Strafsache gegen [Name Angeklagte/r]
-
-beantragt die Verteidigung,
-
-von einer Entscheidung über den Adhäsionsantrag der Verletzten
-abzusehen, da die Entscheidung eine dem Strafverfahren nicht
-angemessene Beweisaufnahme erfordern würde und das Strafver-
-fahren wesentlich verzögern würde (§ 406 Abs. 1 S. 5 StPO).
-
-Begründung:
-Zur Klärung der Schadenshöhe wäre ein medizinisches Sach-
-verständigengutachten einzuholen. Der Adhäsionsantrag bezieht
-sich auf Schäden in Höhe von [Betrag EUR]. Die Klärung der
-Kausalität zwischen Tat und behaupteten Folgeschäden bedarf
-einer umfangreichen medizinischen Beurteilung, die den Rahmen
-des Strafprozesses sprengt.
+Das berechtigte Interesse ergibt sich aus der bevorstehenden
+Zeugenvernehmung am [Termin]. Eine sachgerechte Vorbereitung
+ist ohne Kenntnis des Verfahrensstands und der bereits vor-
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 [Ort, Datum]
-[Unterschrift Verteidigung]
+[Unterschrift]
 ```
 
---- vor Versand klären ---
+--- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
@@ -948,11 +969,10 @@ des Strafprozesses sprengt.
 
 | Konstellation | Beweislast |
 |---|---|
-| Anspruchsgrundlage (§ 823 BGB) | Verletzte trägt Tatbegehung, Verletzung, Kausalität; im Adhäsionsverfahren erleichtert durch Bindungswirkung des Strafurteils zur Tat |
-| Schadenshöhe (Schmerzensgeld) | Verletzte muss Mindestbetrag darlegen; Gericht schätzt nach § 287 ZPO (analog) |
-| Forderungsübergang § 116 SGB X | Sozialleistungsträger zeigt Übergang an; Verletzte muss nur Eigenanteil nachweisen |
-| Adhäsionsvergleich | Einigung trägt sich selbst; Vollstreckungstitel durch Protokollierung |
-| Absehen wegen Verfahrensverzögerung | Gericht entscheidet von Amts wegen; Verteidigung kann Sachverhalt darlegen |
+| Berechtigung zur Zeugnisverweigerung § 52 StPO | Zeugin/Zeuge behauptet Angehörigeneigenschaft; Gericht prüft von Amts wegen, ggf. eidesstattliche Erklärung |
+| Auskunftsverweigerungsrecht § 55 StPO | Zeugin/Zeuge muss Verfolgungsgefahr glaubhaft machen; keine volle Beweispflicht, aber substantiiertes Vorbringen |
+| Beiordnung § 68b Abs. 2 StPO | Antragstellerin/Antragsteller trägt Schutzbedürftigkeit vor; Gericht entscheidet nach freiem Ermessen |
+| Beschlagnahmeverbot § 97 StPO | Beschuldigtenverteidigung trägt Schutzwürdigkeit vor; Staatsanwaltschaft muss keine Ausnahme beweisen |
 
 ---
 
@@ -960,11 +980,11 @@ des Strafprozesses sprengt.
 
 | Frist | Inhalt | Norm |
 |---|---|---|
-| Bis Schluss der Beweisaufnahme | Adhäsionsantrag muss vor Schlussvorträgen gestellt sein | § 404 StPO |
-| Ab Urteilszustellung: 1 Woche | Berufung/Revision gegen Adhäsionsausspruch | § 406a StPO |
-| Ab Urteilsrechtskraft | Vollstreckung aus Adhäsionsurteil beginnt | § 704, § 794 ZPO |
-| 3 Jahre | Verjährung deliktsrechtlicher Ansprüche (§ 195 BGB) ab Kenntnis | § 199 BGB |
-| 30 Jahre | Verjährung des titulierten Anspruchs nach § 197 BGB | § 197 BGB |
+| Sofort | Beiordnungsantrag vor Vernehmungstermin stellen | § 68b Abs. 2 StPO |
+| 2 Wochen | Beschwerde gegen Ablehnung der Beiordnung (§ 306 StPO) | § 311 StPO |
+| Vor Aussage | Akteneinsicht rechtzeitig beantragen; Reaktionszeit der Behörde einplanen (3–5 Tage bei StA) | § 406e StPO |
+| Sofort in der Vernehmung | § 55-Erklärung muss vor der strittigen Antwort abgegeben werden, nicht nachträglich | § 55 StPO |
+| 1 Woche nach Vernehmung | Protokollberichtigung beantragen, wenn Fehler vorliegen | § 168 S. 2 StPO |
 
 ---
 
@@ -972,9 +992,11 @@ des Strafprozesses sprengt.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| "Adhäsionsantrag verzögert das Strafverfahren" | § 406 Abs. 1 S. 6 StPO — Absehen nur bei wesentlicher Verzögerung; Schmerzensgeld-Antrag wird durch S. 6 a. F. besonders geschützt; aktuelle Begründungsanforderungen siehe BGH 09.01.2025 — 3 StR 340/24 |
-| "Forderungsübergang nach § 116 SGB X schließt Adhäsion aus" | Nur soweit Anspruch übergegangen ist; Eigenbeteiligung (Schmerzensgeld soweit nicht gedeckt) verbleibt bei der Verletzten |
-| "Angeklagte/r ist insolvent; Adhäsion sinnlos" | § 302 InsO schließt Restschuldbefreiung bei vorsätzlichen unerlaubten Handlungen aus; Titel hat langfristigen Wert |
+| "Die Zeugin muss aussagen, § 48 StPO gilt uneingeschränkt" | § 48 StPO begründet Pflicht, enthält aber keine Aussagepflicht bei Verweigerungsrechten; §§ 52, 53, 55 StPO gehen als lex specialis vor |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Zeugenbeistand darf nicht sprechen" | § 68b Abs. 1 S. 2 StPO erlaubt Beanstandungen; bei Beiordnung auch Erklärungen; BGH hat Erklärungsrecht bestätigt |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Adressanonymisierung ist unverhältnismäßig" | § 68 Abs. 3 StPO erfordert nur drohende Gefahr, nicht bereits eingetretene Schädigung; pauschal aber unzureichend |
 
 ---
 
@@ -982,11 +1004,35 @@ des Strafprozesses sprengt.
 
 | Position | Berechnung |
 |---|---|
-| Adhäsionsantrag kostenfrei für Verletzte | § 472a StPO: keine Gerichtskosten für Verletzte im Adhäsionsverfahren |
-| Anwaltsgebühren (Verletztenvertretung) | VV-RVG Nr. 4143 (Verfahrensgebühr), Nr. 4145 (Terminsgebühr), Nr. 4146 (Vergleichsgebühr); Streitwert = Adhäsionsforderung |
-| Bei Beiordnung § 397a StPO | Adhäsionsgebühren zusätzlich zur Nebenklagegebühr aus Staatskasse |
-| Angeklagter zahlt Kosten bei Adhäsionsverurteilung | Kosten des Adhäsionsverfahrens als Nebenfolge im Strafurteil |
-| Angeklagter bei Vergleich § 405 StPO | Kostenregelung im Vergleich frei vereinbar |
+| Wahlmandat Zeugenbeistand | RVG Teil 4 (analog Verteidigergebühren VV 4100 ff.); Mittelgebühr nach Aufwand |
+| Beiordnung § 68b Abs. 2 StPO | Pflichtverteidigergebühren nach VV-RVG; Kostentragung durch Staatskasse |
+| Akteneinsicht als Nebenleistung | keine gesonderte Gebühr; im Verfahrensgebühren-Rahmen enthalten |
+| Mehrere Vernehmungstermine | Terminsgebühr je Termin (VV 4102/4103 je nach Gericht/Behörde) |
+| Beschwerdeverfahren | eigenständige Verfahrens- und Terminsgebühr nach Teil 4 VV-RVG |
+
+---
+
+## Typische Konstellationen im Detail
+
+### Konstellation A: Familienmitglied als Zeuge gegen Angehörigen
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Konstellation B: Mit-Beschuldigter als Zeuge im Parallelverfahren
+
+Höchste Vorsicht: § 55 StPO greift für jede einzelne Frage. Vorher Akteneinsicht in Parallelverfahren beantragen. Aussage mit eigener Strafverteidigungsstrategie abstimmen. Beiordnung nach § 68b Abs. 2 StPO beantragen. Bei Kollision Zeugenbeistand/Verteidigung: § 146 StPO beachten – zwei getrennte Mandate.
+
+### Konstellation C: Berufsgeheimnisträger (Arzt, Anwalt, Steuerberater)
+
+Prüfen, ob Entbindungserklärung des Mandanten/Patienten vorliegt. Ohne Entbindung: § 53 StPO geltend machen. Bei Sicherstellung von Unterlagen: § 97 StPO Beschlagnahmeverbot prüfen (nur greift wenn Zeuge selbst nicht verdächtig). Bei vorliegender Entbindung: Aussage auf gedeckten Umfang beschränken; keine freiwillige Ausweitung.
+
+### Konstellation D: Zeuge in Wirtschaftsstrafverfahren
+
+§ 55 StPO regelmäßig einschlägig. Compliance-Untersuchungen (Internal Investigations) vorab analysieren: Verwertungsverbote nach sog. Mannheimer Modell prüfen. Geschäftsgeheimnisse: § 53 StPO greift nur für Berufsgeheimnisträger, nicht pauschal für Unternehmensgeheimnisse. Sicherstellungen nach § 94 StPO im Vorfeld der Vernehmung sind häufig; Beschlagnahmeverbot § 97 StPO prüfen.
+
+### Konstellation E: Whistleblower / Hinweisgeber
+
+HinSchG-Schutz prüfen (Hinweisgeberschutzgesetz 2023). Identitätsschutz und Adressanonymisierung § 68 Abs. 2/3 StPO. Beiordnung § 68b Abs. 2 StPO mit Schutzbedürftigkeit begründen. Repressalienschutz dokumentieren (Art. 19 HinSchG: Verbot der Benachteiligung).
 
 ---
 
@@ -994,30 +1040,27 @@ des Strafprozesses sprengt.
 
 | Situation | Empfehlung |
 |---|---|
-| Schneller Vollstreckungstitel gewünscht | Adhäsionsantrag frühzeitig stellen; Vergleich nach § 405 StPO anstreben |
-| Angeklagter will Strafmilderung | Schadenswiedergutmachung proaktiv anbieten; § 46a StGB nutzen; Vergleich vor Urteil |
-| Hohe Schadensummen in Betrugsfall | Adhäsion kombinieren mit Verbleib im Strafverfahren für Bindungswirkung zur Tatbegehung |
-| Angeklagter ist insolvent | Adhäsion trotzdem beantragen; § 302 InsO schließt Restschuldbefreiung aus; Titel 30 Jahre vollstreckbar |
-| Gericht neigt zu § 406-Absehen | Beweise vorab vollständig vorlegen; Komplexität minimieren; Schmerzensgeld pauschal schätzen lassen |
-| Schmerzensgeldzumessung im Strafurteil | Begründungsanforderungen nach BGH 09.01.2025 — 3 StR 340/24 beachten; Verletzungsbild, Dauer, Folgen erkennbar machen |
+| Zeugin hat keine Kenntnisse von der Tat | Offene, ehrliche Aussage mit Begleitung; kein Schweigen ohne Grund (Glaubwürdigkeitsrisiko) |
+| Zeugin könnte sich selbst belasten | § 55 StPO konsequent einsetzen; Akteneinsicht vor Aussage zwingend |
+| Angehörige/r ist zeugnisverweigerungsberechtigt | Entscheidung ausführlich besprechen; emotionale und strategische Aspekte abwägen; schriftlich dokumentieren |
+| Gefährdungslage vorhanden | Adressanonymisierung § 68 StPO + Beiordnung § 68b Abs. 2 StPO gleichzeitig beantragen |
+| Amtsträger ohne Genehmigung | Aussage verweigern bis Genehmigung vorliegt; Rechtsweg gegen Versagung (§ 54 Abs. 3 StPO) |
+| Zeuge ist auch Verletzter | Nebenklage prüfen; doppelte Mandat-Führung (Zeugenbeistand + Nebenklage) möglich, aber klar trennen |
 
 ---
 
 ## Anschluss-Skills
 
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` – Nebenklage und Adhäsion kombiniert führen
-- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` – Adhäsionsforderung in der Insolvenz des Angeklagten
-- `plaedoyer-vorbereitung-strafverteidigung` – Schadenswiedergutmachung als Strafmilderungsargument
-- `fachanwalt-strafrecht-zeugenbeistand` – Begleitung der Verletzten als Zeugin
+- `fachanwalt-strafrecht-nebenklage-opfervertretung` – wenn Zeuge zugleich Verletzter ist
+- `fachanwalt-strafrecht-adhaesionsverfahren` – wenn Verletzter zivilrechtliche Ansprüche geltend macht
+- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` – bei Wirtschaftsstrafverfahren mit Vermögensbezug
+- `plaedoyer-vorbereitung-strafverteidigung` – Hauptverhandlungsbegleitung nach Anschluss als Nebenklage
 
 ---
 
-## Quellen (Stand Mai 2026)
+## Quellen
 
-- BGH 09.01.2025 — 3 StR 340/24 (Adhäsion / Schmerzensgeldbegründung): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.01.2025&Aktenzeichen=3+StR+340/24
-- BGH 20.11.2025 — 4 StR 232/25 (TOA § 46a StGB, kommunikativer Prozess): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
-- §§ 403–406c StPO, § 472a StPO: https://dejure.org/gesetze/StPO/403.html
-- Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; weitere Rechtsprechung vor Ausgabe in dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen und Aussage verifizieren.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ---
 

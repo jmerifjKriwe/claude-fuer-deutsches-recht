@@ -44,7 +44,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -79,6 +79,66 @@ Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschrei
 | `hassrede-kommentare-moderation-und-haftung` | Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen im Influencer-Recht. |
 | `heilmittel-nahrungsergaenzung-health-claims` | Influencer-Recht: Werbung für Heilmittel und Nahrungsergänzungsmittel – HWG, HCVO, Health Claims, verbotene Aussagen und Haftungsrisiken im Influencer-Recht. |
 | `impressumspflicht-und-ladungsfaehige-anschrift` | Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 18 MStV, ladungsfähige Anschrift, Pflichtangaben und Datenschutz im Influencer-Recht. |
+| `infl-001-kaltstart-creator-kooperation-plattform-steuer` | Influencer-Recht: Kaltstart Creator Kooperation Plattform Steuer mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-002-werbekennzeichnung-instagram-story-reel-tiktok-youtube` | Influencer-Recht: Werbekennzeichnung Instagram Story Reel TikTok YouTube mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-003-affiliate-link-rabattcode-und-provision` | Influencer-Recht: Affiliate Link Rabattcode und Provision mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-004-geschenk-pr-sample-sachleistung-und-steuer` | Influencer-Recht: Geschenk PR Sample Sachleistung und Steuer mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-005-umsatzsteuer-bei-barter-deal-und-auslandsbrand` | Influencer-Recht: Umsatzsteuer bei Barter Deal und Auslandsbrand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-006-einkommensteuer-betriebseinnahme-private-nutzung` | Influencer-Recht: Einkommensteuer Betriebseinnahme private Nutzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-008-gewerbeanmeldung-creator-taetigkeit` | Influencer-Recht: Gewerbeanmeldung Creator Tätigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-009-scheinselbststaendigkeit-creator-management-team` | Influencer-Recht: Scheinselbstständigkeit Creator Management Team mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-010-agenturvertrag-exklusivitaet-provision-und-kuendigung` | Influencer-Recht: Agenturvertrag Exklusivität Provision und Kündigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-011-brand-deal-leistung-abnahme-nutzungsrechte` | Influencer-Recht: Brand Deal Leistungsbeschreibung Abnahme und Nutzungsrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-012-content-lizenz-nutzungsdauer-media-buyout-whitelisting` | Influencer-Recht: Content Lizenz Nutzungsdauer Media Buyout Whitelisting mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-013-musik-im-reel-urheberrecht-plattformlizenz-gema` | Influencer-Recht: Musik im Reel Urheberrecht Plattformlizenz GEMA mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-014-bildrechte-kug-beiwerk-oeffentlichkeit` | Influencer-Recht: Bildrechte KUG Beiwerk Öffentlichkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-015-minderjaehrige-creator-eltern-zustimmung-jugendschutz` | Influencer-Recht: Minderjährige Creator Eltern Zustimmung Jugendschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-016-gewinnspiel-teilnahmebedingungen-datenschutz` | Influencer-Recht: Gewinnspiel Teilnahmebedingungen Datenschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-017-heilmittel-nahrungsergaenzung-health-claims` | Influencer-Recht: Heilmittel Nahrungsergänzung Health Claims mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-018-finanzprodukte-krypto-affiliate-und-bafin-risiko` | Influencer-Recht: Finanzprodukte Krypto Affiliate und BaFin-Risiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-019-gluecksspiel-werbung-und-altersgrenzen` | Influencer-Recht: Glücksspiel Werbung und Altersgrenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-020-alkohol-tabak-cannabis-werbung` | Influencer-Recht: Alkohol Tabak Cannabis Werbung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-021-green-claims-nachhaltigkeitswerbung` | Influencer-Recht: Green Claims Nachhaltigkeitswerbung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-023-schleichwerbung-redaktionscontent-und-kooperation` | Influencer-Recht: Schleichwerbung Redaktionscontent und Kooperation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-025-live-shopping-preisangaben-widerruf-impressum` | Influencer-Recht: Live Shopping Preisangaben Widerruf Impressum mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-027-dsa-plattformbeschwerde-und-account-sperre` | Influencer-Recht: DSA Plattformbeschwerde und Account Sperre mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-028-hassrede-kommentare-moderation-und-haftung` | Influencer-Recht: Hassrede Kommentare Moderation und Haftung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-029-persoenlichkeitsrechtsverletzung-durch-reaction-video` | Influencer-Recht: Persönlichkeitsrechtsverletzung durch Reaction Video mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-030-satire-meme-und-zitatrecht` | Influencer-Recht: Satire Meme und Zitatrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-031-ki-avatar-deepfake-und-einwilligung` | Influencer-Recht: KI Avatar Deepfake und Einwilligung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-032-virtueller-influencer-rechte-und-kennzeichnung` | Influencer-Recht: Virtueller Influencer Rechte und Kennzeichnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-033-foto-shooting-vertrag-model-release-location` | Influencer-Recht: Foto-Shooting Vertrag Model Release Location mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-034-ugc-kampagne-rechte-der-follower` | Influencer-Recht: UGC Kampagne Rechte der Follower mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-035-mitarbeiter-posten-fuer-unternehmen` | Influencer-Recht: Mitarbeiter posten für Unternehmen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-036-betriebsfeier-content-und-datenschutz` | Influencer-Recht: Betriebsfeier Content und Datenschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-037-restaurant-hotel-einladung-geldwerter-vorteil` | Influencer-Recht: Restaurant Hotel Einladung geldwerter Vorteil mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-038-reisekosten-pressereise-und-gemischte-veranlassung` | Influencer-Recht: Reisekosten Pressereise und gemischte Veranlassung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-039-luxusgeschenk-verlosung-oder-behalten` | Influencer-Recht: Luxusgeschenk Verlosung oder behalten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-040-produkthaftung-empfehlung-und-haftungsrisiko` | Influencer-Recht: Produkthaftung Empfehlung und Haftungsrisiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-042-unterlassungserklaerung-influencer-pruefen` | Influencer-Recht: Unterlassungserklärung Influencer prüfen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-043-steuerpruefung-creator-unterlagenpaket` | Influencer-Recht: Steuerprüfung Creator Unterlagenpaket mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-044-buchhaltung-datev-creator-kontenplan` | Influencer-Recht: Buchhaltung DATEV Creator Kontenplan mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-045-eu-ausland-brand-reverse-charge-und-oss` | Influencer-Recht: EU-Ausland Brand Reverse Charge und OSS mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-046-usa-brand-w-8ben-vertrag-und-withholding` | Influencer-Recht: USA Brand W-8BEN Vertrag und Withholding mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-047-plattform-analytics-als-beweis` | Influencer-Recht: Plattform Analytics als Beweis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-048-krisenkommunikation-shitstorm-und-richtigstellung` | Influencer-Recht: Krisenkommunikation Shitstorm und Richtigstellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-049-creator-nachlass-und-accountzugang` | Influencer-Recht: Creator Nachlass und Accountzugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-053-arbeitsrecht-social-media-manager` | Influencer-Recht: Arbeitsrecht Social Media Manager mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-054-datenschutz-newsletter-community-und-discord` | Influencer-Recht: Datenschutz Newsletter Community und Discord mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-055-creator-fonds-plattformauszahlung` | Influencer-Recht: Creator-Fonds Plattformauszahlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-056-merch-drops-e-commerce-und-widerruf` | Influencer-Recht: Merch Drops E-Commerce und Widerruf mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-057-preisangaben-rabatt-countdown-dark-patterns` | Influencer-Recht: Preisangaben Rabatt Countdown Dark Patterns mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-058-bewertungen-rezensionen-und-fake-reviews` | Influencer-Recht: Bewertungen Rezensionen und Fake Reviews mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-059-influencer-testimonials-kapitalmarkt` | Influencer-Recht: Influencer als Testimonials in Kapitalmarktkommunikation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-060-beauty-filter-und-irrefuehrung` | Influencer-Recht: Beauty Filter und Irreführung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-061-medienanstalt-anfrage-beantworten` | Influencer-Recht: Medienanstalt Anfrage beantworten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-062-finanzamt-anfrage-beantworten` | Influencer-Recht: Finanzamt Anfrage beantworten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-063-vertragsarchiv-creator-dashboard` | Influencer-Recht: Vertragsarchiv Creator Dashboard mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-064-jahresabschluss-creator-risiken` | Influencer-Recht: Jahresabschluss Creator Risiken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-065-red-team-creator-kampagne` | Influencer-Recht: Red-Team Creator Kampagne mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-066-creator-exit-agenturwechsel` | Influencer-Recht: Creator Exit Agenturwechsel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-067-internationaler-creator-wohnsitz-und-wegzug` | Influencer-Recht: Internationaler Creator Wohnsitz und Wegzug mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `infl-068-qualitaetsgate-veroeffentlichung` | Influencer-Recht: Qualitätsgate Veröffentlichung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `influencer-beauty-filter-medienanstalt` | Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken im Influencer-Recht. |
 | `internationaler-creator-wohnsitz-und-wegzug` | Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen im Influencer-Recht. |
 | `jahresabschluss-creator-risiken` | Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererklärung, Risikofelder, Abgabefristen und Optimierungspotenziale im Influencer-Recht. |

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 83 Skills des Plugins `fluggastrechte`.
+Dieser Megaprompt enthaelt top-10 von 86 Skills des Plugins `fluggastrechte`.
 
 ## Inhaltsverzeichnis
 

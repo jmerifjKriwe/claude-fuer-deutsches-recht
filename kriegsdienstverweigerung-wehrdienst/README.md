@@ -70,7 +70,7 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 133 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 136 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -79,6 +79,7 @@ Automatisch generierte Komplett-Liste aller 133 Skills in diesem Plugin. Beschre
 | `adressat-und-versandwege` | Prüft Post, Fax, E-Mail, Unterschrift und Zugangsnachweis im Kriegsdienstverweigerung Wehrdienst. |
 | `akte-fuer-gericht-aufbauen` | Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest im Kriegsdienstverweigerung Wehrdienst. |
 | `akteneinsicht-kdv-aktenvernichtung-kdvg` | Routet Akteneinsicht bei BAFzA, BAPersBw und Gericht im Kriegsdienstverweigerung Wehrdienst. |
+| `aktenvernichtung-kdvg-12` | Erklärt Aufbewahrung und Löschung von KDV-Akten. |
 | `aktive-soldaten-prioritaet` | Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst im Kriegsdienstverweigerung Wehrdienst. |
 | `aktuelle-lage-2026` | Prüft keine aktive Einberufung, fortbestehendes KDV-Recht und WDModG-Änderungen im Kriegsdienstverweigerung Wehrdienst. |
 | `anerkennung-und-dienstfolgen` | Ordnet Folgen der Anerkennung für Wehrpflichtige, Soldaten und Reservisten im Kriegsdienstverweigerung Wehrdienst. |
@@ -193,8 +194,10 @@ Automatisch generierte Komplett-Liste aller 133 Skills in diesem Plugin. Beschre
 | `stellungnahmen-dritter` | Prüft, wann Wahrnehmungen Dritter nach § 2 Abs. 3 KDVG helfen im Kriegsdienstverweigerung Wehrdienst. |
 | `ungedient-ab-2010` | Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse im Kriegsdienstverweigerung Wehrdienst. |
 | `ungedient-vor-2010` | Wendet § 13 KDVG n. F. auf vor 2010 geborene ungediente Wehrpflichtige an im Kriegsdienstverweigerung Wehrdienst. |
+| `untaetigkeitsklage-vwgo-75` | Prüft Rechtsschutz bei Nichtbescheidung und grenzt diffuse Untätigkeitsbeschwerde ab. |
 | `unterlagenmappe-kdv-verwaltungsakt` | Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide im Kriegsdienstverweigerung Wehrdienst. |
 | `verwaltungsakt-oder-informelles-schreiben` | Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail im Kriegsdienstverweigerung Wehrdienst. |
+| `verwaltungsgericht-kdvg-10` | Routet Klage und gerichtliche Besonderheiten in KDV-Sachen. |
 | `vollstaendiger-lebenslauf` | Erstellt einen vollständigen, datensparsamen Lebenslauf mit gewissensrelevanten Stationen im Kriegsdienstverweigerung Wehrdienst. |
 | `vollstaendigkeit-kdvg-2` | Prüft Anschreiben, Art.-4-Berufung, Lebenslauf und persönliche Begründung im Kriegsdienstverweigerung Wehrdienst. |
 | `waffenbesitz-jagd-wahrheitspflicht` | Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe im Kriegsdienstverweigerung Wehrdienst. |

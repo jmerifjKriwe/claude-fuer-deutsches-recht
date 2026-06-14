@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 55 Skills des Plugins `ki-richtlinie-kanzleien`.
+Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `ki-richtlinie-kanzleien`.
 
 ## Inhaltsverzeichnis
 

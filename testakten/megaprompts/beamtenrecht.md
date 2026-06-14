@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 157 Skills (gekuerzt fuer Chat-Fenster) des Plugins `beamtenrecht`.
+Dieser Megaprompt enthaelt top-8 von 178 Skills (gekuerzt fuer Chat-Fenster) des Plugins `beamtenrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — Einstieg, Kaltstart und Fallrouting im Beamtenrecht-Plugin: klärt Status, Dienstherr, Bundesland, Frist, Ziel, Unterlage…
-2. **altersteilzeit-93-bbg-blockmodell** — Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. den Landesregelungen. Klaert die zwei Modell…
-3. **anforderungsprofil-konstitutiv** — Skill zur Unterscheidung konstitutives Anforderungsprofil und deklaratorisches Anforderungsprofil bei der beamtenrechtli…
-4. **auswahlgespraech-dokumentationspflicht** — Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. …
-5. **beihilfe-heilbehandlung-ausland** — Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung im Ausland nach BBhV und den Landesbeihilfeverordnung…
-6. **beihilfe-implantatfaehige-hoergeraete** — Skill zur Beihilfefaehigkeit von hochwertigen Hilfsmitteln wie implantatfaehigen Hoergeraeten Cochlea-Implantaten elektr…
-7. **bindungswirkung-strafurteil-23-bdg** — Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdiszipli…
-8. **dienstunfaehigkeit-amtsaerztliches** — Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an de…
+2. **dienstgericht-richter-disziplinar-63-drig** — Skill zum Dienstgericht fuer Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zustaendigkeit des Di…
+3. **schwerbehinderte-bewerber-165-sgb-9** — Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX.…
+4. **altersteilzeit-93-bbg-blockmodell** — Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. den Landesregelungen. Klaert die zwei Modell…
+5. **anforderungsprofil-konstitutiv** — Skill zur Unterscheidung konstitutives Anforderungsprofil und deklaratorisches Anforderungsprofil bei der beamtenrechtli…
+6. **auswahlgespraech-dokumentationspflicht** — Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. …
+7. **beihilfe-heilbehandlung-ausland** — Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung im Ausland nach BBhV und den Landesbeihilfeverordnung…
+8. **beihilfe-implantatfaehige-hoergeraete** — Skill zur Beihilfefaehigkeit von hochwertigen Hilfsmitteln wie implantatfaehigen Hoergeraeten Cochlea-Implantaten elektr…
 
 ---
 
@@ -59,6 +59,135 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - **Pension und Versorgung:** `pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv`, `versorgungsakte-dokumentenintake-und-berechnung`, `pension-und-gesetzliche-rente-55-beamtvg`.
 - **Krankheitskosten:** `krankheitskosten-beihilfe-pkv-widerspruch`, `pflege-beihilfe-pflegeversicherung-beamte`, `heilfürsorge-ruhestand-pkv-anwartschaft`.
 - **Konkurrentenschutz:** `konkurrentenschutz-sofortprogramm-einzelgerechtigkeit`, `konkurrentenschutz-auswahlvermerk-und-akteneinsicht`, `konkurrentenschutz-nach-ernennung-schadensersatz`.
+
+---
+
+## Skill: `dienstgericht-richter-disziplinar-63-drig`
+
+_Skill zum Dienstgericht fuer Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zustaendigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine._
+
+# Dienstgericht fuer Richter
+
+## 1. Zweck und Anwendungsfall
+
+Skill fuer Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidigen wollen. Anwendung typisch bei Disziplinarsachen, Pruefverfahren wegen Eingriffen in die richterliche Unabhaengigkeit (§ 26 DRiG) oder Streit um die Geschaeftsverteilung.
+
+## 2. Eingaben
+
+- Beanstandeter Vorgang (Disziplinarverfuegung, Massnahme der Dienstaufsicht, Geschaeftsverteilungsbeschluss)
+- Statusamt (Bundes- oder Landesrichter)
+- Spruchkoerper-Besetzung
+- Antrag im Detail
+
+## 3. Ablauf / Checkliste
+
+### a) Zustaendigkeit
+- § 62 DRiG: Dienstgericht des Bundes fuer Bundesrichter, Dienstgerichte der Laender fuer Landesrichter.
+- § 78 DRiG: Disziplinarsachen, Statussachen, Pruefung nach § 26 DRiG.
+
+### b) Besetzung
+- Dienstgericht: Drei Berufsrichter, zwei ehrenamtliche Richter (in Disziplinarsachen) bzw. spezifische Besetzung in Statussachen.
+
+### c) Pruefung nach § 26 DRiG
+- Pruefung von Massnahmen der Dienstaufsicht, ob die richterliche Unabhaengigkeit beruehrt wird; Pruefraster: Massnahme, Beruehrung der Unabhaengigkeit, Folgen.
+- Antrag auf Pruefung in Frist (regelmaessig 3 Monate nach Massnahme).
+
+### d) Disziplinarverfahren
+- Verfahren nach BDG in Anlehnung; spezifische Besonderheiten in DRiG und Landesrichtergesetzen.
+
+### e) Geschaeftsverteilung
+- Antrag auf Pruefung der Geschaeftsverteilung beim Dienstgericht — siehe Schwester-Skill `geschaeftsverteilung-richter-21e-gvg`.
+
+## 4. Quellenpflicht
+
+- Normen: §§ 26, 61 bis 78 DRiG; Landesrichtergesetze; BDG (entsprechend).
+- Rspr.: BGH zum Dienstgericht des Bundes; OLG-Dienstgerichte der Laender — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## 5. Ausgabeformat
+
+- Antrag an das Dienstgericht.
+- Pruefraster nach § 26 DRiG.
+
+## 6. Verifizierte Quellenanker
+
+- Art. 97 GG, Art. 98 GG, Art. 101 GG, § 21e GVG sowie DRiG §§ 25, 26, 39, 61 ff. als Kernnormen.
+- BVerfG, 20.09.2016 - 2 BvR 2453/15: Bundesrichterwahl, Art. 95 Abs. 2 GG und Bindung an Art. 33 Abs. 2 GG.
+- BVerfG, 11.11.2021 - 2 BvR 1473/20: Dienstaufsicht, Erledigungsdruck und Grenze bei objektiv nicht bewältigbarem Pensum.
+- BVerfG, 22.03.2018 - 2 BvR 780/16: Richter auf Zeit und richterliche Unabhängigkeit im organisationsrechtlichen Kontext.
+- EuGH, 24.06.2019 - C-619/18 und EuGH, 19.11.2019 - C-585/18, C-624/18, C-625/18 als EU-rechtliche Anker der Justizunabhängigkeit.
+- Landesrichterrecht, Dienstgerichte der Länder und Präsidialratsrecht immer landesrechtlich live prüfen.
+
+## 7. Beispiel (Kurzfassung)
+
+Mandant Vorsitzender Richter, Praesidium hat ihm anhaengiges Verfahren entzogen mit Hinweis auf Belastungssituation. Skill liefert Pruefung nach § 26 DRiG und Antrag beim Dienstgericht.
+
+---
+
+## Skill: `schwerbehinderte-bewerber-165-sgb-9`
+
+_Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung der Schwerbehindertenvertretung nach §§ 178 179 SGB IX und die Indizwirkung von Verstoessen im AGG-Entschaedigungsprozess. Liefert Pruefraster Schriftsatzbausteine fuer Eilantrag Entschaedigungsforderung und Konkurrentenklage._
+
+# Schwerbehinderte Bewerber im oeffentlichen Dienst — § 165 SGB IX
+
+## 1. Zweck und Anwendungsfall
+
+Skill fuer schwerbehinderte oder gleichgestellte Bewerber im oeffentlichen Dienst. Klaert die zwingenden Verfahrenspflichten der oeffentlichen Arbeitgeber, insbesondere die Einladungspflicht und das Zusammenwirken mit Schwerbehindertenvertretung und Gleichstellungsbeauftragten.
+
+## 2. Eingaben
+
+- Schwerbehindertenausweis oder Gleichstellungsbescheid
+- Datum der Bewerbung
+- Stellenausschreibung
+- Akteneinsicht (Auswahlvermerk)
+- Information ueber Beteiligung der Schwerbehindertenvertretung
+- Absageschreiben
+
+## 3. Ablauf / Checkliste
+
+### a) Einladungspflicht
+- § 165 Satz 3 SGB IX: Oeffentliche Arbeitgeber muessen schwerbehinderte Bewerber zum Vorstellungsgespraech einladen, es sei denn, die fachliche Eignung fehlt offensichtlich. "Offensichtlich" eng auszulegen.
+- Bei Konzentrationsbewerbungen ueber zentrale Stellen sind die Pflichten nicht gemindert.
+
+### b) Interne Besetzung
+- § 165 Sätze 1 und 2 SGB IX: vor externer Ausschreibung Pruefpflicht, ob die Stelle intern mit schwerbehinderten Personen besetzt werden kann (Vermittlungsvorschlag der Bundesagentur fuer Arbeit; interner Aufruf).
+
+### c) Beteiligung Schwerbehindertenvertretung
+- § 178 Abs. 2 SGB IX: Unterrichtungs- und Anhoerungsrecht in allen Angelegenheiten, die Schwerbehinderte betreffen, einschliesslich Bewerbungen.
+- § 179 SGB IX Behinderungen der Vertrauensperson sanktioniert.
+- Verstoss = Verfahrensfehler mit Indizwirkung fuer Diskriminierung.
+
+### d) Eignung
+- Schwerbehinderung als solche ist kein Eignungsmangel.
+- Eignungsdefizit ist konkret und nachvollziehbar zu begruenden.
+
+### e) Folgen von Verstoessen
+- AGG-Entschaedigungsanspruch wegen vermuteter Diskriminierung (§ 22 AGG, § 15 Abs. 2 AGG).
+- Bewerbungsverfahrensanspruch verletzt; Anfechtung der Auswahlentscheidung; Konkurrenteneilantrag.
+
+## 4. Quellenpflicht
+
+- Normen: §§ 151, 165, 178, 179 SGB IX; §§ 1, 6, 15, 22 AGG; Art. 33 Abs. 2 GG.
+- BAG zu § 165 SGB IX (frueher § 82 SGB IX) — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## 5. Ausgabeformat
+
+- Pruefraster Verfahrenspflichten oeffentlicher Arbeitgeber.
+- AGG-Entschaedigungsschreiben.
+- Konkurrenteneilantrag.
+
+## 6. Verifizierte Quellenanker
+
+- Art. 33 Abs. 2 GG: Bestenauslese nach Eignung, Befähigung und fachlicher Leistung.
+- Art. 74 Abs. 1 Nr. 27 GG und Art. 70 GG: Statusrechtliche Bundeskompetenz, Laufbahn/Besoldung/Versorgung der Länder grundsätzlich Landesrecht.
+- BeamtStG und BBG immer nach Dienstherr trennen; Landesbeamtengesetz und Beurteilungsrichtlinien live prüfen.
+- BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33 Abs. 2 GG und Eignungsanforderungen bei Höchstaltersgrenzen.
+- Für Spezialfragen der dienstlichen Beurteilung, Anlassbeurteilung, Binnendifferenzierung und Auswahlgespräch keine privaten Datenbankzitate verwenden; konkrete Rechtsprechung nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+
+## 7. Beispiel (Kurzfassung)
+
+Mandant Grad der Behinderung 60 bewirbt sich auf A12-Stelle im Bundesministerium. Wird nicht zum Vorstellungsgespraech eingeladen; Absage ohne Begruendung. Skill liefert Indizienanalyse, AGG-Entschaedigungsschreiben mit Zwei-Monats-Frist und Begruendung des Anordnungsanspruchs fuer Eilantrag.
 
 ---
 
@@ -472,150 +601,6 @@ Skill für Beihilfeberechtigte, denen die Beihilfestelle bei der Erstattung hoch
 ## 7. Beispiel (Kurzfassung)
 
 Mandant beidseitige Schwerhoerigkeit; HNO empfiehlt Geraet mit Bluetooth und Spezialakustik für Berufstaetigkeit als Richter (Verhandlung in großen Saelen). Kostenvoranschlag 5.800 Euro, Festbetrag 1.500 Euro. Skill liefert Widerspruch mit Begruendung der Mehrkosten als medizinisch notwendig.
-
----
-
-## Skill: `bindungswirkung-strafurteil-23-bdg`
-
-_Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten für Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellu..._
-
-# Bindungswirkung Strafurteil im Disziplinarverfahren § 23 BDG
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
-- Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## 1. Zweck und Anwendungsfall
-
-Skill zur Frage, in welchem Umfang ein Strafurteil oder ein Strafbefehl in das Disziplinarverfahren bindend uebernommen wird.
-
-## 2. Eingaben
-
-- Strafurteil oder Strafbefehl im Volltext
-- Akteneinsichtsumfang
-- Hinweise auf moegliche Fehler im strafgerichtlichen Verfahren
-- Stand des Disziplinarverfahrens
-
-## 3. Ablauf / Checkliste
-
-### a) Grundregel § 23 BDG
-- Tatsaechliche Feststellungen eines rechtskraeftigen Strafurteils sind im Disziplinarverfahren bindend.
-- Die Bindung erstreckt sich nicht auf die rechtliche Wuerdigung.
-
-### b) Loesungsbeschluss
-- Das Disziplinargericht kann sich von den Feststellungen loesen, wenn diese offensichtlich unrichtig sind oder wesentliche Verfahrensfehler vorliegen.
-- § 56 Abs. 1 Satz 2 BDG bzw. landesrechtliche Äquivalente.
-
-### c) Strafbefehl
-- Strafbefehl bindet im Disziplinarverfahren grundsätzlich nicht im selben Umfang wie ein Urteil; tatsaechliche Feststellungen können aber als Beweismittel verwertet werden.
-
-### d) Einstellung nach §§ 153, 153a StPO
-- Keine Bindungswirkung; selbststaendige Feststellung im Disziplinarverfahren.
-
-### e) Freispruch
-- Freispruch begruendet keine Bindung für die Disziplinarseite, weil die Massstaebe (Strafzumessung vs. Vertrauensbeeintraechtigung) abweichen.
-
-### f) Bedeutung für die Bemessung
-- Bei Bindungswirkung sind die festgestellten Tatsachen Grundlage für die Bemessung nach § 13 BDG. Argumentationsraum besteht bei Persoenlichkeitsbild und Vertrauensbeeintraechtigung.
-
-## 4. Quellenpflicht
-
-- Normen: § 23 BDG; § 56 BDG; §§ 153, 153a StPO.
-- Rspr.: BVerwG zur Bindungswirkung und zum Loesungsbeschluss — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## 5. Ausgabeformat
-
-- Prüfraster Bindung — Loesung — Beweisaufnahme.
-- Schriftsatzbaustein Antrag auf Loesungsbeschluss.
-
-## 6. Verifizierte Quellenanker
-
-- BDG §§ 13, 17, 22, 23, 38, 63 als Kernnormen für Maßnahmebemessung, Einleitung, Strafverfahren, Bindungswirkung, Suspendierung und Aussetzung.
-- BDG-Novelle 2024: Vollzugsmodell/Disziplinarverfügung auch für Höchstmaßnahmen im Bundesrecht; Länderrecht gesondert prüfen.
-- BVerfG, 14.01.2020 - 2 BvR 2055/16: kein verfassungsrechtlicher Richtervorbehalt für disziplinarische Höchstmaßnahme, wenn Verfahren und volle gerichtliche Kontrolle gesichert sind.
-- BVerwG, 02.12.2021 - 2 A 7.21: Reichsbürger-/Verfassungstreue-Fall im Bundesdienst.
-- BVerwG, 10.10.2024 - 2 C 15.23: Verfassungstreueanforderungen im juristischen Vorbereitungsdienst.
-- Bei Chatgruppen, außerdienstlichen Äußerungen und politischen Grenzfällen immer Kontext, Amtsbezug, Beweisqualität und Grundrechte getrennt würdigen.
-
-## 7. Beispiel (Kurzfassung)
-
-Mandant rechtskraeftig wegen Untreue verurteilt; Strafkammer hat aber ein zentrales Indiz uebersehen, das die Höhe des Schadens widerlegen wuerde. Skill liefert Antrag auf Loesung von den tatsaechlichen Feststellungen mit Begruendung.
-
----
-
-## Skill: `dienstunfaehigkeit-amtsaerztliches`
-
-_Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung und Nachvollziehbarkeit den Anspruch auf Kenntnisnahme des Gut..._
-
-# Amtsaerztliches Gutachten Dienstunfaehigkeit
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
-- Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## 1. Zweck und Anwendungsfall
-
-Skill für Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbesondere im Streit über Auswahl, Reichweite und Verwertbarkeit des amtsaerztlichen Gutachtens.
-
-## 2. Eingaben
-
-- Untersuchungsaufforderung des Dienstherrn
-- Amtsaerztliches Gutachten (falls vorliegend)
-- Eigenes Privatgutachten
-- Mandantenmitteilung zur Mitwirkung
-
-## 3. Ablauf / Checkliste
-
-### a) Untersuchungsaufforderung
-- Schriftliche, hinreichend bestimmte Aufforderung mit Angabe des konkreten Anlasses, der Untersuchungsstelle, des Umfangs der Untersuchung und der Folgen unterlassener Mitwirkung.
-- Pauschale oder unbestimmte Aufforderungen sind rechtswidrig (BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen).
-
-### b) Mitwirkungspflicht
-- Beamter ist verpflichtet, sich der amtsaerztlichen Untersuchung zu unterziehen (§ 44 BBG).
-- Verweigerung kann zu Ruhestandsversetzung gemäß Vermutungsregelung fuehren.
-
-### c) Vorrang des amtsaerztlichen Gutachtens
-- Im Konfliktfall zwischen amtsaerztlichem Gutachten und Privatgutachten genuesst das amtsaerztliche Gutachten regelmaessig groesseres Gewicht; Vorrang aber nicht absolut, sondern nur bei methodisch gleichwertiger Erstellung.
-
-### d) Inhaltliche Anforderungen
-- Nachvollziehbare Begruendung, ausdifferenzierte Stellungnahme zur Restdienstfaehigkeit, anderweitige Verwendung, Reaktivierungschance.
-- Bloss formelhaftes Ergebnis genuegt nicht.
-
-### e) Akteneinsicht
-- Beamter hat Anspruch auf Akteneinsicht und Mitteilung des Gutachteninhalts (§ 110 BBG; landesrechtliche Äquivalente).
-- Persoenlichkeitsrechte sind durch geeignete Aufbereitung zu wahren.
-
-## 4. Quellenpflicht
-
-- Normen: §§ 26, 44, 110 BBG; § 26 BeamtStG i.V.m. Landesrecht; Art. 2 Abs. 1, Art. 1 Abs. 1 GG.
-- Rspr.: BVerwG zur Untersuchungsaufforderung und zum Vorrang des amtsaerztlichen Gutachtens — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## 5. Ausgabeformat
-
-- Widerspruch gegen Untersuchungsaufforderung.
-- Schriftsatz gegen Ruhestandsbescheid.
-
-## 6. Verifizierte Quellenanker
-
-- §§ 44 bis 48 BBG (Dienstunfaehigkeit, begrenzte Dienstfaehigkeit, Wiederherstellung, Verfahren, aerztliche Untersuchung); § 110 BBG (Akteneinsicht); § 26 BeamtStG i.V.m. Landesrecht.
-- Art. 2 Abs. 1, Art. 1 Abs. 1 GG (Persoenlichkeitsrecht) als Schranke der Untersuchungsanordnung.
-- Anforderung an Bestimmtheit der Untersuchungsaufforderung: konkreter Anlass, Untersuchungsstelle, Umfang, Folgen unterlassener Mitwirkung.
-- BVerwG zur Bestimmtheit der Untersuchungsaufforderung und zum Vorrang des amtsaerztlichen Gutachtens — Datum und Az vor Zitat live verifizieren.
-- Akteneinsicht und Kenntnisnahme des Gutachtens nach § 110 BBG sowie landesrechtlichen Äquivalenten.
-
-## 7. Beispiel (Kurzfassung)
-
-Mandant erhaelt pauschale Aufforderung zur Untersuchung "wegen wiederholter Erkrankung". Skill liefert Widerspruch gegen Aufforderung wegen mangelnder Bestimmtheit und Prüfraster.
 
 ---
 

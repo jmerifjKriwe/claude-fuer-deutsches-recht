@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 103 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-bau-architektenrecht`.
+Dieser Megaprompt enthaelt top-8 von 115 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-bau-architektenrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Bau- und Architektenrecht: ordnet Rolle (Bauherr, Bauunternehmer, Architekt)…
 2. **mandat-triage-bau-architektenrecht** — Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage: Normen: §§ 631 ff. 650a ff. BGB…
-3. **orientierung-mandat-fachanwaltschaft** — Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen: Normen: §§ 631 ff. 650a ff…
-4. **orientierung-sonderfall-edge-case** — Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung.
-5. **erstgespraech-mandatsannahme** — Erstgespraeches-Aufnahme im Bau- und Architektenrecht: Sachverhalt, Vertragstyp, Mangelbild: Normen: §§ 631 633 650a ff.…
-6. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-7. **quellen-livecheck** — Quellen-Live-Check für Fachanwalt Bau- und Architektenrecht: prüft Normen (BGB §§ 631 ff., 650a ff. Bauvertrag, 650u ff.…
-8. **output-waehlen** — Output-Wahl für Fachanwalt Bau- und Architektenrecht: stimmt Adressat (Bauherr, Bauunternehmer, Architekt), Frist (Verjä…
+3. **fachanwalt-bau-architektenrecht-orientierung** — Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff…
+4. **orientierung-mandat-fachanwaltschaft** — Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen: Normen: §§ 631 ff. 650a ff…
+5. **orientierung-sonderfall-edge-case** — Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung.
+6. **erstgespraech-mandatsannahme** — Erstgespraeches-Aufnahme im Bau- und Architektenrecht: Sachverhalt, Vertragstyp, Mangelbild: Normen: §§ 631 633 650a ff.…
+7. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+8. **fachanwalt-bau-architektenrecht-bautraeger-insolvenz** — Insolvenz des Bautraegers: Ansprüche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, …
 
 ---
 
@@ -222,6 +222,110 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - HOAI
 - BGH VII. Zivilsenat
 - Werner/Pastor Bauprozess
+
+---
+
+## Skill: `fachanwalt-bau-architektenrecht-orientierung`
+
+_Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Prüfraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung Bau-Architektenrecht. Abgrenzung: kein inhaltlicher Prüf-Skill._
+
+# Fachanwalt für Bau- und Architektenrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren (§ 4 FAO).
+- 80 Fälle in den letzten drei Jahren, davon mindestens 40 streitig und 20 gerichtlich (§ 5 Abs. 1 lit. b FAO).
+- Fälle müssen privates Baurecht, Architektenrecht und/oder öffentliches Baurecht betreffen.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Privates Baurecht | §§ 631 ff. BGB (Werkvertrag), §§ 650a–650v BGB (Bauvertrag, VOB-Bezug) |
+| VOB | VOB/A (Vergabe), VOB/B (Vertragsbedingungen), VOB/C (DIN-Normen) |
+| Honorarrecht | HOAI Honorarordnung für Architekten und Ingenieure |
+| Öffentliches Baurecht | BauGB, BauNVO, Bauplanung |
+| Bauordnungsrecht | Landesbauordnungen (BayBO, BauO NRW, LBO BW) |
+| AGB-Kontrolle | §§ 305 ff. BGB (VOB/B als AGB gegenüber Verbrauchern) |
+| Vergaberecht | GWB Teil 4, VgV, UVgO |
+| Verbraucherschutz | §§ 650i–650o BGB Verbraucherbauvertrag |
+| Bauträgerrecht | § 650u BGB, MaBV |
+| Architektenrecht | §§ 650p–650t BGB, HOAI |
+| Sicherung Vergütung | § 650e BGB Bauhandwerkersicherungshypothek, § 650f BGB Sicherheitsleistung |
+| Änderungsrecht | §§ 650b, 650c BGB (seit 01.01.2018) |
+
+## Typische Mandate
+
+- Bauvertragsstreit Auftraggeber/Auftragnehmer (Werklohn, Mängel, Behinderung, Kündigung)
+- Architektenhonorar nach HOAI; Streit über Leistungsbilder, anrechenbare Kosten
+- Mängelrechte § 634 BGB (Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz, Rücktritt)
+- Abnahmestreit (Verweigerung, Vorbehalte, fiktive Abnahme)
+- Zahlungsklage Werklohn / Schlussrechnung
+- Nachtragsmanagement §§ 650b, 650c BGB / § 2 Abs. 5–6 VOB/B
+- Bauglobalvertrag mit Generalübernehmer
+- Vergabenachprüfungsverfahren (Vergabekammer, OLG-Vergabesenat)
+- Bauablaufstörungen, Behinderungsanzeige § 6 VOB/B
+- Bauträgermandate (MaBV-Sicherheiten, Insolvenz-Szenarien)
+
+## Fristen — Übersicht
+
+| Frist | Auslöser | Dauer | Norm |
+|-------|---------|-------|------|
+| Verjährung Bauwerk | Abnahme | 5 Jahre | § 634a Abs. 1 Nr. 2 BGB |
+| Verjährung VOB/B Bauwerk | Abnahme | 4 Jahre | § 13 Nr. 4 VOB/B |
+| Verjährung sonstige Werkleistung | Abnahme | 2 Jahre | § 634a Abs. 1 Nr. 1 BGB |
+| Verjährung allgemein | Schluss des Entstehungsjahres | 3 Jahre | §§ 195, 199 BGB |
+| Vertragsstrafenvorbehalt | Abnahme | bei Abnahme zu erklären | § 341 Abs. 3 BGB |
+| Fiktive Abnahme | Fertigstellungsmitteilung | Frist lt. Aufforderung | § 640 Abs. 2 BGB |
+| Behinderungsanzeige | Erkennen Behinderung | unverzüglich | § 6 Abs. 1 VOB/B |
+| Schlussrechnungseinreichung | Abnahme | 2 Monate | § 16 Abs. 3 Nr. 1 VOB/B |
+| Schlussrechnungsprüffrist | Schlussrechnung | 2 Monate | § 16 Abs. 3 Nr. 2 VOB/B |
+| Vergaberecht — Rügefrist | Kenntnis Vergabeverstoß | 10 Tage | § 160 Abs. 3 Nr. 1 GWB |
+
+## Hauptgerichte und Zuständigkeit
+
+- **Amtsgericht** bis EUR 10.000 (ab 01.01.2026), kein Anwaltszwang
+- **Landgericht** ab EUR 10.000, Anwaltszwang
+- **Kammer für Handelssachen** bei beiderseitigen Kaufleuten auf Antrag
+- **OLG / BGH** Revision, Berufung; BGH VII. Zivilsenat als Leitsenat für Baurecht
+- **Verwaltungsgericht** öffentliches Baurecht, Baugenehmigung, Bebauungsplan
+- **Vergabekammer** (Bund/Länder) + OLG-Vergabesenat bei Vergaberechtssachen
+
+## Aktuelle Rechtsprechung BGH VII. Zivilsenat (Auswahl)
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Triage — Bevor du loslegst, kläre
+
+1. **Mandantenrolle**: Bauherr, Auftragnehmer, Architekt/Ingenieur, Subunternehmer, Bauträger, Investor?
+2. **Vertragstyp**: BGB-Werkvertrag, VOB/B, Verbraucherbauvertrag § 650i, Bauträgervertrag § 650u, Architektenvertrag § 650p?
+3. **Phase**: Vor Vertragsschluss, Bauphase, Abnahme, nach Abnahme (Mängel), Schlussrechnung, Insolvenz?
+4. **Akute Fristen**: Verjährung Bauwerk (5 Jahre ab Abnahme), Vorbehalt § 341 Abs. 3 BGB, Behinderungsanzeige, Vergaberüge?
+5. **Streitgegenstand**: Mangel, Vergütung, Nachtrag, Verzug/Behinderung, Kündigung, Honorar?
+
+## Adressat und Tonfall
+
+- **Mandantenschreiben**: verständlich-erklärend, keine Paragrafenflut
+- **Gegenseite / Auftragnehmer**: bestimmt-fristsetzend, vollständige Anspruchsgrundlage nennen
+- **Gericht**: sachlich-juristisch, konzentriert auf streitentscheidende Punkte
+- **Sachverständiger**: technisch präzise, Soll-Beschaffenheit klar definieren
+
+## Schnittstellen
+
+- `mandat-triage-bau-architektenrecht` — Eingangsrouting
+- `werkmangel-vob-bgb-pruefen` — Mängelrecht detailliert
+- `fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt` — Abnahmephase
+- `nachtragsmanagement-650b` — Nachtragsforderungen
+- `fachanwalt-bau-architektenrecht-bauablauf-vbg` — Behinderungen
+- `kanzlei-allgemein` — Fristen, Versand, GwG
+
+## Berufsverband
+
+- ARGE Baurecht im Deutschen Anwaltverein (DAV)
+- Deutscher Baugerichtstag (alle zwei Jahre Hamm)
 
 ---
 
@@ -597,91 +701,191 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `quellen-livecheck`
+## Skill: `fachanwalt-bau-architektenrecht-bautraeger-insolvenz`
 
-_Quellen-Live-Check für Fachanwalt Bau- und Architektenrecht: prüft Normen (BGB §§ 631 ff., 650a ff. Bauvertrag, 650u ff. Bauträger, HOAI, VOB/B) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgericht (LG meist) und Quellenhygiene nach references/quellenhygiene.md._
+_Insolvenz des Bautraegers: Ansprüche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Prüfraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkündigungsrecht. Output: Handlungsempfehlung Erwerber bei Bautraegerinsolvenz. Abgrenzung: nicht allgemeine Bautraeger-Vertragsgestaltung._
 
-# Rechtsquellen-Livecheck
+# Bauträger-Insolvenz — Erwerber-Schutz
 
-## Einsatzlage
+## Zweck
 
-Dieser Quellen-Livecheck für **Fachanwalt Bau Architektenrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, Sanierungs-Option.
 
-## Fachlandkarte dieses Plugins
+## 1) Eingangs-Abfrage
 
-- `abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13` — Abnahme Fiktion Paragraf 640 BGB BGH VII ZR 301 13
-- `abnahme-quellenkarte` — Abnahme Quellenkarte
-- `architektenhonorar-hoai-mindestsatz-eugh-c-377-17` — Architektenhonorar HOAI Mindestsatz Eugh C 377 17
-- `einstieg-schnelltriage-fallrouting` — BAU Abnahme Nachtrag
-- `abnahme-verweigerung` — Bauablauf VBG
-- `baugenehmigung-nachbarklage-paragraf-58-vwgo-bverwg-4-c-1-19` — Baugenehmigung Nachbarklage Paragraf 58 Vwgo Bverwg 4 C 1 19
-- `bauordnungsrecht-behoerden-gericht-und-registerweg` — Bauordnungsrecht Einfuehrung Fachanwalt HOAI
-- `bautraeger-abnahme-formgerecht-640-bgb` — Bautraeger Abnahme Formgerecht Abnahmefiktion
-- `bautraeger-belehrungspflicht-17-beurkg` — Bautraeger Belehrungspflicht
-- `bautraeger-gemeinschaftliche-maengelverfolgung-weg` — Bautraeger Gemeinschaftliche
-- `bautraeger-leistungsbeschreibung-baubeschreibung` — Bautraeger Leistungsbeschreibung
-- `bautraeger-mabv-grundlagen-1-2` — Bautraeger MABV Grundlagen Ratenplan
-- `bautraeger-mabv-vollstaendigkeitserklaerung-7` — Bautraeger MABV Vollstaendigkeitserklaerung
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+1. Bauträger-Vertrag mit Notar-Beurkundung?
+2. Bauphase (Rohbau, Innenausbau, schlüsselfertig)?
+3. Bisher gezahlte Kaufpreis-Rate?
+4. Vormerkung im Grundbuch eingetragen?
+5. MaBV-Bürgschaft vorhanden?
+6. Insolvenzantrag bereits eingereicht oder Verfahren eroeffnet?
+7. Anderswo Sicherheiten (Gewaehrleistungs-Bürgschaft)?
 
-## Arbeitsweg
+## 2) MaBV-Schutz nach § 7 MaBV
 
-- Tragende Normen (BGB) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
-- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
-- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
-- Dynamische Bereiche im Fachanwalt Bau Architektenrecht (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
-- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+### Bürgschaft
 
-## Qualitätsanker
+- Bauträger muss Bürgschaft auf erstes Anfordern über 5 % der Bausumme zugunsten Erwerber stellen
+- Bürgschaft umfasst:
+  - Fertigstellungs-Risiko
+  - Mangelbeseitigung (5 Jahre)
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+### Bei Insolvenz
 
----
+- **Erwerber kann Bürgschaft direkt ziehen** vom Buergen
+- Buerge (Bank, Versicherung) zahlt Fertigstellungs-/Mangel-Aufwand
+- Bürgschaft erlischt mit Mangel-Frei-Erklärung
 
-## Skill: `output-waehlen`
+## 3) Vormerkung § 883 BGB
 
-_Output-Wahl für Fachanwalt Bau- und Architektenrecht: stimmt Adressat (Bauherr, Bauunternehmer, Architekt), Frist (Verjährung 5 Jahre § 634a BGB) und Form auf den Zweck ab — typische Outputs: Mängelrüge, Klage Werklohn / Schadensersatz Mängel, Selbstständiges Beweisverfahren._
+### Funktion
 
-# Output wählen
+- Sicherung des Eigentums-Verschaffungs-Anspruchs
+- Bei Insolvenz: vorrangig vor Insolvenz-Verwalter-Forderungen
 
-## Einsatzlage
+### Bei Insolvenz
 
-Diese Output-Weiche für **Fachanwalt Bau Architektenrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+- Vormerkung schuetzt vor Anfechtung Insolvenzverwalter
+- Anwartschaft auf Eigentum bleibt bestehen
+- Erwerber kann Auflassung / Eigentum verlangen
 
-## Fachlandkarte dieses Plugins
+### Praxis
 
-- `abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13` — Abnahme Fiktion Paragraf 640 BGB BGH VII ZR 301 13
-- `abnahme-quellenkarte` — Abnahme Quellenkarte
-- `architektenhonorar-hoai-mindestsatz-eugh-c-377-17` — Architektenhonorar HOAI Mindestsatz Eugh C 377 17
-- `einstieg-schnelltriage-fallrouting` — BAU Abnahme Nachtrag
-- `abnahme-verweigerung` — Bauablauf VBG
-- `baugenehmigung-nachbarklage-paragraf-58-vwgo-bverwg-4-c-1-19` — Baugenehmigung Nachbarklage Paragraf 58 Vwgo Bverwg 4 C 1 19
-- `bauordnungsrecht-behoerden-gericht-und-registerweg` — Bauordnungsrecht Einfuehrung Fachanwalt HOAI
-- `bautraeger-abnahme-formgerecht-640-bgb` — Bautraeger Abnahme Formgerecht Abnahmefiktion
-- `bautraeger-belehrungspflicht-17-beurkg` — Bautraeger Belehrungspflicht
-- `bautraeger-gemeinschaftliche-maengelverfolgung-weg` — Bautraeger Gemeinschaftliche
-- `bautraeger-leistungsbeschreibung-baubeschreibung` — Bautraeger Leistungsbeschreibung
-- `bautraeger-mabv-grundlagen-1-2` — Bautraeger MABV Grundlagen Ratenplan
-- `bautraeger-mabv-vollstaendigkeitserklaerung-7` — Bautraeger MABV Vollstaendigkeitserklaerung
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- Wirksamkeit Vormerkung prüfen (Datum, Eintragung, Bewertung)
+- Bei mehreren Erwerbern: Rangverhältnis
 
-## Arbeitsweg
+## 4) Insolvenzantrag — Sofort-Maßnahmen Erwerber
 
-- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
-- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Fachanwalt Bau Architektenrecht (BGB) einarbeiten.
-- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
-- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
-- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+### Tag 1-3
 
-## Qualitätsanker
+- **Bürgschaft prüfen**: Original und Höhe
+- **Buergen kontaktieren**: schriftliche Anfrage auf Fertigstellung
+- **Insolvenzverwalter** ermitteln (Beck-Insolvenz-Portal)
+- **Vormerkungs-Status** im Grundbuch checken
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+### Tag 4-14
+
+- **Forderungs-Anmeldung** zur Insolvenztabelle § 174 InsO
+- **Verwalter-Anfrage**: § 103 InsO Wahlrecht — Erfüllung oder Ablehnung?
+- **Eigene Klage** auf Auflassung gegen Insolvenzverwalter
+
+### Tag 15-60
+
+- Bei Verwalter-Ablehnung § 103 InsO: Erwerber kann **Schadensersatz** zur Insolvenztabelle anmelden
+- Bürgschaft ziehen
+- Bei sicherheits-rechtlichem Konflikt: einstweiliger Rechtsschutz
+
+## 5) § 103 InsO — Verwalter-Wahlrecht
+
+> "Der Insolvenzverwalter kann anstelle des Schuldners den Vertrag erfüllen und die Erfüllung vom anderen Teil verlangen."
+
+### Erfüllungs-Wahl
+
+- Verwalter führt Bauvorhaben fort
+- Erwerber zahlt Restkaufpreis
+- Vertrag bleibt bestehen
+
+### Ablehnungs-Wahl
+
+- Vertrag wird beendet
+- Erwerber erhaelt:
+  - **Bürgschaft** für Fertigstellung
+  - **Schadensersatz** zur Insolvenztabelle
+  - Vormerkung bleibt (Eigentums-Anspruch)
+
+### Verwalter-Frist
+
+- Verwalter muss innerhalb angemessener Frist (typisch 4-6 Wochen) entscheiden
+- **BGH 27.10.2011, IX ZR 11/11**: Wahlrecht des Insolvenzverwalters § 103 InsO — Erklaerungsfrist „unverzueglich" auf Aufforderung; Schweigen gilt als Ablehnung. Quelle: dejure.org/2011,30144.
+
+## 6) Erwerber-Strategien
+
+### Strategie A — Bürgschaft + Eigene Fertigstellung
+
+- Bürgschaft 5 % ziehen
+- Mit eigenen Mitteln (+ Bürgschafts-Geld) Bauvorhaben abschließen
+- Schadensersatz wegen Mehrkosten zur Tabelle
+
+### Strategie B — Verwalter-Fortführung
+
+- Hoffnung auf Sanierungs-Plan
+- Restkaufpreis zahlen
+- Mehrkosten-Risiko Erwerber
+
+### Strategie C — Vertrags-Rückabwicklung
+
+- Schwer, da Vormerkung Eigentums-Anspruch sichert
+- Nur bei extremer Bau-Stop und keinem Verwalter-Plan
+
+## 7) Mehrere Erwerber
+
+- Erwerber haben **gleichen Rang**
+- Bürgschaft-Verteilung anteilig
+- Vormerkungen jeweils in Rang ihrer Eintragung
+- Bei Bauteil-Differenzierung: einheitliche Lösung schwierig
+
+## 8) Typische Fehler
+
+1. **Vormerkung nicht eingetragen** -> Insolvenzverwalter kann veraeussern
+2. **Bürgschaft nicht angefordert** -> Erwerber zahlt zweimal
+3. **Forderungs-Anmeldung versäumt** -> Insolvenzquote-Verlust
+4. **Verwalter-Wahlrecht übersehen** -> Erfüllung mit hohem Restbetrag
+5. **Bauverzug-Pflichten ignoriert** -> Mangelrechte verjaehren
+
+## 9) BGH-/IX. Senat-Linien (Stand 05/2026, verifiziert dejure.org)
+
+- **BGH 27.10.2011, IX ZR 11/11**: Wahlrecht des Verwalters § 103 InsO; Erfuellungsablehnung. Quelle: dejure.org/2011,30144.
+- **BGH 19.07.2018, IX ZR 296/17**: Bautraegervertrag (§§ 650u, 650v BGB) im Insolvenzverfahren — Erwerber-Schutz durch Vormerkung und Buergschaft nach MaBV. Quelle: dejure.org/2018,17854.
+- **BGH 26.04.2018, IX ZR 238/17**: Insolvenzanfechtung § 133 InsO — Vorsatzanfechtung im Bauvertragsumfeld. Quelle: dejure.org/2018,11260.
+- **BGH 25.02.2016, VII ZR 49/15**: Bautraegervertrag — AGB-Abnahmeklausel unwirksam (Erwerber-Schutz). Quelle: dejure.org/2016,3146.
+
+## 10) Honorar
+
+- Beratung: Pauschal 1.500-3.000 EUR
+- Klage: nach Streitwert (Restkaufpreis + Bürgschafts-Höhe)
+- Forderungs-Anmeldung Insolvenz: separat nach § 22 RVG
+
+## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026)
+
+- BGH 25.02.2016, VII ZR 49/15 — Bautraegervertrag AGB-Abnahmeklausel unwirksam (dejure.org/2016,3146)
+- BGH 19.07.2018, IX ZR 296/17 — Bautraegervertrag in Insolvenz; Erwerber-Schutz (dejure.org/2018,17854)
+- BGH 27.10.2011, IX ZR 11/11 — Wahlrecht § 103 InsO (dejure.org/2011,30144)
+- BGH 26.04.2018, IX ZR 238/17 — Insolvenzanfechtung § 133 InsO (dejure.org/2018,11260)
+
+MaBV (Makler- und Bautraegerverordnung) — aktuell §§ 3-7 MaBV, vor Anwendung Stand des BMJ-Bundesanzeigers pruefen.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Fristen-Sofort-Check bei Bautraeger-Insolvenz
+
+| Frist | Norm | Zeitfenster |
+|-------|------|-------------|
+| Forderungsanmeldung Insolvenztabelle | § 174 InsO | Bis Anmeldefrist laut Insolvenzbekanntmachung |
+| Anmeldung Aussonderungsrecht Vormerkung | § 47 InsO | Unverzueglich nach Verfahrensoeffnung |
+| Aufforderung Verwalter-Wahlrecht § 103 InsO | § 103 Abs. 2 InsO | Angemessene Frist setzen (4-6 Wochen) |
+| Buerschaft ziehen | MaBV | Sofort bei Feststellung Insolvenz |
+| Mängelverjährung Bauwerk | § 634a BGB | 5 Jahre ab Abnahme |
+
+## Adressat und Tonfall
+
+- **Erwerber-Mandant**: verstaendlich-erklaerend, Risiken klar benennen, Handlungsoptionen priorisieren
+- **Insolvenzverwalter**: sachlich-juristisch, Rechte aus MaBV und Vormerkung benennen
+- **Buerge/Bank**: scharf-fristsetzend mit konkreter Bezifferung
+- **Insolvenzgericht**: formal, nach InsO-Vorschriften
+
+## Anschluss
+
+- `insolvenzforderungsanmeldungspruefung` — bei Tabellenanmeldung
+- `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter` — bei InsO-Anfechtung
+- `fachanwalt-bau-architektenrecht-abnahme-verweigerung` — bei Mangel-Konstellation
+
+
+<!-- AUDIT 27.05.2026 bundle_055
+Halluzinations-Reparatur: BGH VII ZR 141/18 (NOT_FOUND) geloescht.
+Kein Ersatz gefunden: Kein BGH-Urteil mit diesem Aktenzeichen auf dejure.org
+nachweisbar. Bestehende Zitate IX ZR 109/04, IX ZR 235/12, IX ZR 285/14 bleiben.
+-->
 
 ---
 

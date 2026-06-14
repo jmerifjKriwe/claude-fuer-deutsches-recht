@@ -65,4 +65,3 @@ Da die Lösegeldtransaktion als erzwungene Zahlung zur Notlagenabwendung erfolgt
 ## V. Ergebnis
 
 Die OFAC-Sanktionsklausel greift im vorliegenden Fall nicht. Der Deckungsanspruch von Frau Vogelweide gegenüber der ManagerSchutz AG bleibt bestehen. Vgl. Klageschrift D&O (Aktenstück, docx/02).
-

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 100 Skills des Plugins `internationales-handelsrecht-lex-mercatoria`.
+Dieser Megaprompt enthaelt top-8 von 192 Skills (gekuerzt fuer Chat-Fenster) des Plugins `internationales-handelsrecht-lex-mercatoria`.
 
 ## Inhaltsverzeichnis
 
@@ -14,8 +14,6 @@ Dieser Megaprompt enthaelt top-10 von 100 Skills des Plugins `internationales-ha
 6. **late-delivery-liquidated-damages** — Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Gr…
 7. **pecl-und-soft-law-vergleich** — Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. D…
 8. **public-policy-and-mandatory-law** — Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR.…
-9. **qualitaetskontrolle-pre-shipment** — Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigk…
-10. **recognition-new-york-convention** — Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. …
 
 ---
 
@@ -423,110 +421,6 @@ Ordre public und Eingriffsnormen sind Ausnahmen von der Parteiautonomie. Eingrif
 - Ordre-public-Test: offensichtliche Unvereinbarkeit — kein bloßer Unterschied zum nationalen Recht
 - Eco Swiss: EU-Kartellrecht im Schiedsantrag als Gegenargumentation nutzen
 - NY Convention: Vollstreckungsvorbehalt als letztes Mittel — Angriff auf Award inhaltlich kostspielig
-
----
-
-## Skill: `qualitaetskontrolle-pre-shipment`
-
-_Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung im Internationales Handelsrecht Lex Mercat..._
-
-# Qualitätskontrolle: Pre-Shipment Inspection
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Pre-Shipment Inspection (PSI) ist die Warenprüfung vor Verschiffung durch unabhängige Inspektoren (SGS, Bureau Veritas, Intertek). Sie sichert Qualität, Menge und Preis. WTO-PSI-Abkommen (1994) regelt staatlich vorgeschriebene PSI. CISG Art. 35 definiert die Vertragsmäßigkeit als rechtliche Grundlage.
-
-## Kernnormen / Kernquellen
-
-- **CISG Art. 35**: Vertragsmäßigkeit — Basis für Qualitätsstandard
-- **CISG Art. 38**: Untersuchungspflicht — interagiert mit PSI-Ergebnis
-- **WTO PSI Agreement (1994)**: Anforderungen an staatlich mandatierte PSI (Preisvergleich, Zolltarif)
-- **SGS/Bureau Veritas AGB**: Haftungsbeschränkungen bei fehlerhafter Inspektion
-- **ISO 2859**: Statistische Stichproben-Verfahren für Qualitätskontrolle
-- **Akkreditiv UCP 600 Art. 26**: Inspection Certificate als Akkreditivdokument
-
-## Schlüsselbegriffe
-
-- Clean Inspection Certificate: Bescheinigung der Vertragskonformität durch Inspektor
-- Back-to-Back-Haftung: Verkäufer haftet für Mängel auch wenn PSI frei war (CISG Priorität)
-- PSI-Klausel: Käufer nominiert Inspektor, Kosten wer trägt?
-- AQL (Acceptable Quality Level): statistische Fehlerquotenakzeptanz
-- Inspektionsfehler: Inspektor haftet nur wenn grob fahrlässig oder vorsätzlich (AGB-Haftungslimit)
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. PSI "klar" aber Ware bei Ankunft mangelhaft: CISG-Mängelanspruch trotzdem möglich?
-2. Inspektionskosten: Incoterms — wer zahlt PSI-Kosten bei CIF vs. FOB?
-3. Akkreditiv mit PSI-Zertifikat: Was wenn Inspektor zertifiziert aber UCP-Dokument fehlerhaft?
-4. Staatliche PSI (WTO-Abkommen): Preisvergleich durch Staat — WTO-konforme Grenzen?
-5. Inspektor-Haftung: Schadenersatzklage gegen SGS bei grober Fehlinspektion?
-
-## Methodik
-
-- PSI-Klausel: Warenspezifikation, Inspektionsnorm (ISO 2859), Inspektionszeitpunkt definieren
-- Haftungskettenanalyse: Verkäufer → Inspektor → Käufer; wer kann von wem fordern?
-- Akkreditiv: PSI-Zertifikat-Format mit Bank vorab abstimmen (UCP 600 Art. 26)
-- Kosten-Risikoanalyse: PSI-Kosten vs. Mangelrisiko nach Transaktionsgröße
-
----
-
-## Skill: `recognition-new-york-convention`
-
-_Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern im Internationales Handels..._
-
-# New York Convention 1958: Anerkennung und Vollstreckung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Die New York Convention (UN-Übereinkommen 1958, 172 Vertragsstaaten) ist das wichtigste internationale Instrument zur Vollstreckung ausländischer Schiedssprüche. Art. V enthält abschließende Versagungsgründe. Das Vollstreckungsgericht prüft nicht den Inhalt des Awards (Revision au fond ist verboten). Deutschland hat die Convention 1961 ratifiziert.
-
-## Kernnormen / Kernquellen
-
-- **NY Convention Art. I**: Anwendungsbereich — ausländische Schiedssprüche
-- **NY Convention Art. II**: Schriftliche Schiedsvereinbarung
-- **NY Convention Art. IV**: Formvoraussetzungen — beglaubigte Kopie des Awards + Schiedsvereinbarung
-- **NY Convention Art. V Abs. 1**: Versagungsgründe (Parteieinwände): Kapazitätsmangel, kein rechtliches Gehör, Zuständigkeit, Zusammensetzung, Bindungskraft
-- **NY Convention Art. V Abs. 2**: Versagung von Amts wegen: Nicht-schiedsfähigkeit, ordre public
-- **§§ 1060-1062 ZPO**: Vollstreckbarerklärung in Deutschland
-
-## Schlüsselbegriffe
-
-- Exequatur-Verfahren: staatliches Vollstreckungsverfahren; kein Inhaltsprüfung des Awards
-- Ordre public: prozessuale und materiell-rechtliche ordre public als Versagungsgrund
-- Binding Force: Award muss bindend sein (nicht nur "final") — Unterschied NYC und UNCITRAL ML
-- Revision au fond: verboten — Vollstreckungsgericht prüft nicht Richtigkeit des Awards
-- Reciprocity Reservation: einige Staaten vollstrecken nur Awards aus NY-Convention-Staaten
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. Art. V Abs. 1 lit. b kein rechtliches Gehör: Partei konnte Argumente nicht vorbringen — Versagung?
-2. Ordre public: ICC-Award verletzt zwingendes EU-Kartellrecht — Versagung in EU-Staat?
-3. Formvoraussetzungen Art. IV: Nicht-beglaubigte Kopie des Awards — fataler Fehler?
-4. China-Vollstreckung: Gilt NY Convention vollständig für ICC-Awards in China?
-5. Aufhebung am Schiedsort: Am Schiedsort aufgehobener Award — kann er dennoch in Drittland vollstreckt werden?
-
-## Methodik
-
-- Award-Qualitätssicherung: Formvoraussetzungen (Art. IV) im Award selbst prüfen
-- Vollstreckungsstrategie: Mehrere Länder parallel wenn Schuldner-Assets verteilt
-- Ordre public Verteidigung: nur bei offensichtlicher, fundamentaler Grundrechts- oder Rechtsverletzung
-- Aufhebungsklage vermeiden: Award-Anfechtung am Schiedsort und parallele Vollstreckung in Drittland möglich
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 85 Skills des Plugins `nda-abgleich`.
+Dieser Megaprompt enthaelt top-10 von 91 Skills des Plugins `nda-abgleich`.
 
 ## Inhaltsverzeichnis
 

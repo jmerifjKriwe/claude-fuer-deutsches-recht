@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `jurastudium`.
+Dieser Megaprompt enthaelt top-15 von 58 Skills des Plugins `jurastudium`.
 
 ## Inhaltsverzeichnis
 

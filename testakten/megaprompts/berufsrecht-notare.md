@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 196 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-notare`.
+Dieser Megaprompt enthaelt top-8 von 204 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-notare`.
 
 ## Inhaltsverzeichnis
 

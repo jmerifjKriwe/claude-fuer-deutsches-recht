@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 146 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-medizinrecht`.
+Dieser Megaprompt enthaelt top-8 von 158 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-medizinrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Anwalts-Dashboard Fachanwalt Medizinrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Z…
 2. **mandat-triage-medizinrecht** — Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufl…
-3. **orientierung-mandat-fachanwaltschaft** — Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen: Arzthaftung §…
-4. **erstgespraech-mandatsannahme** — Erstgespraeach und Mandatsannahme im Arzthaftungs- Berufs- und Vertragsarztrecht: Anwendungsfall Patient oder Arzt melde…
-5. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-6. **quellen-livecheck** — Quellen-Live-Check für Fachanwalt Medizinrecht: prüft Normen (BGB §§ 630a ff. Behandlungsvertrag, AMG, MPDG, SGB V, BÄO,…
-7. **amnog-millionen-therapie** — AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Ersta…
-8. **anaesthesie-hochrisiko-aufklaerung** — Anästhesie Hochrisiko-Aufklärung: moderner Medizinrechts-Skill für Narkoserisiko, ASA, Aspirationsgefahr, Blutprodukte, …
+3. **fachanwalt-medizinrecht-orientierung** — Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §…
+4. **orientierung-mandat-fachanwaltschaft** — Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen: Arzthaftung §…
+5. **erstgespraech-mandatsannahme** — Erstgespraeach und Mandatsannahme im Arzthaftungs- Berufs- und Vertragsarztrecht: Anwendungsfall Patient oder Arzt melde…
+6. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+7. **fachanwalt-medizinrecht-honorarvertrag-kv** — Honorarstreitigkeiten mit Kassenärztlicher Vereinigung begleiten: Anwendungsfall Vertragsarzt erhaelt Honorar-Bescheid m…
+8. **fachanwalt-medizinrecht-behandlungsvertrag-630a** — Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler ode…
 
 ---
 
@@ -252,6 +252,133 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+---
+
+## Skill: `fachanwalt-medizinrecht-orientierung`
+
+_Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin fachanwalt-sozialrecht und kanzlei-allgemein._
+
+# Fachanwalt für Medizinrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 60 Fälle in den letzten drei Jahren, davon mindestens 15 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Patientenrechte | §§ 630a–630h BGB (Behandlungsvertrag Aufklärung Dokumentation Beweislast) |
+| Schadensrecht | §§ 249 ff. BGB §§ 823 ff. BGB Schmerzensgeld § 253 BGB |
+| Krankenversicherung | SGB V §§ 27 ff. (Leistungen) §§ 73 ff. (Vertragsärzte) |
+| Pflegeversicherung | SGB XI |
+| Berufsrecht Ärzte | Berufsordnung der Ärztekammern Heilberufsgesetze der Länder |
+| Krankenhaus | KHG KHEntgG |
+| Medizinprodukte | MPDG (EU-MDR) |
+| Apothekenrecht | ApoG ApBetrO Arzneimittelgesetz AMG |
+
+## Typische Mandate
+
+- Arzthaftung (Behandlungsfehler Aufklärungsfehler Dokumentationsmangel)
+- Patientenanspruch auf Krankenversicherung-Leistungen (siehe `fachanwalt-sozialrecht`)
+- Vertragsarztrecht (Zulassung Disziplinar Wirtschaftlichkeitsprüfung)
+- Ärztliche Berufsrechtsverfahren
+- Krankenhaus-Abrechnungsstreit (DRG)
+- Medizinprodukteanmeldung Marktüberwachung
+- Pflegeheim und Heimvertrag
+
+## Fristen
+
+- **Verjährung Schadensersatz Arzthaftung** regelmäßig drei Jahre ab Kenntnis (§ 195 BGB) Höchstfrist zehn Jahre (§ 199 Abs. 2 BGB).
+- **Widerspruchsfrist Krankenkasse** ein Monat (§ 84 SGG).
+- **Beschwerdefristen Ärztekammer** verfahrensrechtlich prüfen.
+- **Vertragsarztzulassung** Klagefrist gegen Beschluss des Zulassungsausschusses ein Monat (§ 96 Abs. 4 SGB V iVm SGG).
+
+## Hauptgerichte
+
+- Sozialgericht (Krankenversicherung).
+- Zivilgericht (Arzthaftung): Landgericht regelmäßig Streitwertgrenze 10.000 EUR (Streitwertgrenze AG ab 01.01.2026).
+- Verwaltungsgericht (Berufsrecht Krankenhausrecht).
+- BGH VI. Zivilsenat (Arzthaftung) und Bundessozialgericht.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- ARGE Medizinrecht DAV.
+- Deutsche Gesellschaft für Medizinrecht.
+
+## Schnittstellen
+
+- **fachanwalt-sozialrecht** bei SGB V SGB XI.
+- **kanzlei-allgemein** Fristen Versand.
+- **fachanwalt-strafrecht** bei Vorwurf Behandlungsfehler mit strafrechtlichem Bezug.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Paragrafenkette
+
+Arzthaftung: §§ 630a, 630b, 630c, 630d, 630e, 630f, 630g, 630h BGB → § 823 Abs. 1 BGB → § 253 BGB (Schmerzensgeld) → §§ 195, 199 BGB (Verjährung)
+
+Vertragsarztrecht: §§ 95, 87b, 106, 106d, 81 Abs. 5 SGB V → § 51 SGG → §§ 84, 87 SGG
+
+Berufsrecht: § 5 BÄO (Widerruf Approbation) → §§ 6a, 8 BÄO → Heilberufsgesetze der Länder → MBO-Ä
+
+Krankenhausrecht: KHG, KHEntgG, § 108 SGB V (Zulassung) → DRG-Abrechnungsregelungen
+
+Medizinprodukte: MPDG (Umsetzung EU-MDR 2017/745) → § 97 AMG (Arzneimittelhaftung analog)
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Fristen-Übersicht
+
+| Mandatstyp | Frist | Norm |
+|---|---|---|
+| Arzthaftungs-Verjährung | 3 Jahre ab Kenntnis | §§ 195, 199 BGB |
+| Arzthaftungs-Höchstfrist (Personenschaden) | 30 Jahre | § 199 Abs. 2 BGB |
+| Widerspruch Krankenkasse / KV | 1 Monat | § 84 SGG |
+| Klage Sozialgericht | 1 Monat nach Widerspruchsbescheid | § 87 SGG |
+| Widerruf Approbation — Widerspruch VwGO | 1 Monat | § 70 VwGO |
+| Klage Verwaltungsgericht (Approbation) | 1 Monat | § 74 VwGO |
+
+## Triage — Sofortprüfung (Fachanwalt Medizinrecht — Orientierung)
+
+1. **Mandantenrolle klären:** Patient (Anspruchsteller), Arzt/Heilberufler (Verteidigungs-Mandat), Krankenhaus, Kasse?
+2. **Sachgebiet identifizieren:**
+   - Arzthaftung → `behandlungsfehler-anspruch-pruefen` oder `aufklaerungsfehler-beweisstrategie`
+   - Vertragsarztrecht → `fachanwalt-medizinrecht-kassenarztrecht`
+   - Approbationsrecht → `fachanwalt-medizinrecht-approbations-widerspruch`
+   - Off-Label / GKV-Leistungsrecht → `fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid`
+   - Schlichtung Ärztekammer → `fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung`
+3. **Eilbedürftigkeit prüfen:**
+   - Approbationsruhensanordnung sofort vollziehbar → Eilantrag § 80 Abs. 5 VwGO / § 86b SGG binnen 24 h.
+   - Verjährung läuft in < 4 Wochen → Hemmungshandlung sofort (Klage, Mahnbescheid, Anmeldung Schlichtungsstelle).
+4. **Rechtsweg bestimmen:** Sozialgericht (Vertragsarzt, KV, GKV), Zivilgericht (Arzthaftung, GOÄ), Verwaltungsgericht (Berufsrecht, Approbation), Landesberufsgericht (Berufsrecht).
+
+**Routing:**
+```
+Sachgebiet?
+├─ Behandlungsfehler / Aufklärung → behandlungsfehler-anspruch-pruefen
+├─ Vertragsarztrecht / KV → fachanwalt-medizinrecht-kassenarztrecht
+├─ Approbation / Widerruf → fachanwalt-medizinrecht-approbations-widerspruch
+├─ GKV-Leistungsstreit → fachanwalt-sozialrecht
+├─ Honorar GOÄ → fachanwalt-medizinrecht-honorarvertrag-kv
+└─ Schlichtung Ärztekammer → fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung
+```
 
 ---
 
@@ -624,193 +751,442 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `quellen-livecheck`
+## Skill: `fachanwalt-medizinrecht-honorarvertrag-kv`
 
-_Quellen-Live-Check für Fachanwalt Medizinrecht: prüft Normen (BGB §§ 630a ff. Behandlungsvertrag, AMG, MPDG, SGB V, BÄO, MBO-Ä) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt LG (Arzthaftung) und Quellenhygiene nach references/quellenhygiene.md._
+_Honorarstreitigkeiten mit Kassenärztlicher Vereinigung begleiten: Anwendungsfall Vertragsarzt erhaelt Honorar-Bescheid mit Kuestzungen oder Wirtschaftlichkeits- oder Plausibilitaetsprüfung laeuft. EBM Einheitlicher Bewertungsmassstab, RLV Regelleistungsvolumen, QZV qualifikationsgebundene Zusatzleistungen, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Honorar-Bescheid prüfen, Wirtschaftlichkeitsprüfung-Status, Plausibilitaets-Grenzwerte, Widerspruch und Klage-Optionen. Output Widerspruchs-Schriftsatz mit Begründung für KV-Honorarstreit. Abgrenzung zu Kassenarztrecht für allgemeine Vertragsarztzulassung und zu Schriftsatzkern._
 
-# Rechtsquellen-Livecheck
+# Honorarvertrag Kassenärztliche Vereinigung
 
-## Einsatzlage
+## Zweck
 
-Dieser Quellen-Livecheck für **Fachanwalt Medizinrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+Mandate für Vertragsärzte bei Honorar-Streitigkeiten mit Kassenärztlicher Vereinigung (KV).
 
-## Fachlandkarte dieses Plugins
+## 1) Eingangs-Abfrage
 
-- `aerzte-quellenkarte` — Aerzte Quellenkarte
-- `aerztewerbung-innovative-therapie` — Aerztewerbung Innovative Amnog Millionen
-- `anaesthesie-hochrisiko-aufklaerung` — Anaesthesie Hochrisiko Approbation Digitales
-- `apothekenrecht-arzneimittel-paragraf-78-amg` — Apothekenrecht Arzneimittel Paragraf 78 AMG
-- `apothekenrecht-mehrparteien-konflikt-und-interessen` — Apothekenrecht Interessen Aufklaerung
-- `arzthaftung-aufklaerung-bgb` — Arzthaftung Aufklaerung BGB
-- `atmp-chain-of-identity` — Atmp Chain Classification
-- `atmp-pharmakovigilanz-rmp` — Atmp Pharmakovigilanz Aufklaerungsfehler
-- `aufklaerungsfehler` — Aufklaerungsfehler Behandlungsfehler
-- `aufklaerungspflicht-paragraf-630e-bgb` — Aufklaerungspflicht Paragraf 630e BGB
-- `behandlungsfehler-paragraf-630h-bgb` — Behandlungsfehler Paragraf 630h BGB
-- `berufsrecht-verhandlung-vergleich-und-eskalation` — Berufsrecht BGB Einwilligung Sonderfall
-- `beweislast-hightech-medizin` — Beweislast Hightech Biobank Consent
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+1. Fachgruppe (Allgemein, Internist, Chirurg, Psychiater)?
+2. Honorar-Bescheid-Stand?
+3. Wirtschaftlichkeits-Prüfung laufend?
+4. Plausibilitaets-Prüfung?
+5. Niederlassung neu / etabliert?
+6. KV-Region?
 
-## Arbeitsweg
+## 2) Honorar-System
 
-- Tragende Normen (BGB, MPDG, SGB V, §§ 630a ff) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
-- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
-- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
-- Dynamische Bereiche im Fachanwalt Medizinrecht (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
-- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+### EBM (Einheitlicher Bewertungsmasstab)
 
-## Qualitätsanker
+- Punktwert × Punkte = Honorar
+- Pauschalen, Versicherten-Pauschale, Zusatzleistungen
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+### Regelleistungsvolumen (RLV)
+
+- Quartalsweise Budget pro Arzt
+- Bei UEberschreitung: gestaffelt geringere Vergütung
+- Berechnung nach Vorgaben KV
+
+### Qualifikationsgebundene Zusatzleistungen (QZV)
+
+- Spezielle Leistungen außerhalb RLV
+- Voraussetzung: Genehmigung Qualifikation
+
+## 3) Prüfverfahren
+
+### Plausibilitaets-Prüfung
+
+- Bei Auffaelligkeiten (z.B. zu viele Patienten/Tag)
+- Stichproben aus Abrechnungs-Daten
+- Folge: Honorar-Kürzung bei Bestätigung
+
+### Wirtschaftlichkeits-Prüfung § 106 SGB V
+
+- Bei Mehr-Verordnung Heilmittel/Arzneimittel
+- Vergleich Fachgruppen-Durchschnitt
+- Bei UEberschreitung: Regress-Verfahren
+
+### Honoraranfechtung
+
+- Anwaltliche Prüfung der KV-Daten
+- Vergleich Eigen-Berechnung
+- Beweis-Anbringen
+
+## 4) Workflow Widerspruch
+
+### Schritt 1 — Bescheid-Prüfung
+
+- Berechnungs-Grundlagen
+- Fachgruppen-Vergleich
+- RLV-Berechnung
+
+### Schritt 2 — Eigene Berechnung
+
+- Patienten-Statistik
+- Leistungs-Spiegel
+- Vergleich Vorquartale
+
+### Schritt 3 — Widerspruch
+
+- Binnen 1 Monat
+- An KV
+- Begründung mit Daten
+
+### Schritt 4 — Klage
+
+- Sozialgericht (SG)
+- Streitwert nach Differenz-Honorar
+
+## 5) Wirtschaftlichkeits-Prüfung
+
+### Stufen
+
+1. **Beratung** (formlos, ohne Sanktion)
+2. **Statistische Prüfung** (Fachgruppen-Vergleich)
+3. **Regress** (Rückzahlung)
+4. **Maßnahmen-Klage** SG
+
+### Verteidigung
+
+- Praxisbesonderheiten geltend machen
+- Patienten-Klientel besonders behandeln
+- Behandlungs-Notwendigkeit nachweisen
+
+## 6) Niederlassungs-Sache
+
+### Zulassung § 95 SGB V
+
+- KV-Bezirk hat Vertragsarzt-Bedarf
+- Bedarfsplanung
+- Bei Bedarfs-Mangel: Zulassungs-Ablehnung
+
+### Praxis-Verkauf / Übergabe
+
+- Kollegial-Praxis vs. Praxis-Sitz-Verkauf
+- KV-Genehmigung erforderlich
+- Bewertung Goodwill nach BAG-Aerztl.-Vereinigung
+
+## 7) Honorar-Auseinandersetzung Praxis-Aufgabe
+
+- KV-Endabrechnung
+- Rückforderungen
+- Sonderfälle (Krankheit, Pensionierung)
+
+## 8) Typische Fehler
+
+1. **Widerspruchs-Frist 1 Monat versäumt**
+2. **Praxisbesonderheiten** nicht dokumentiert
+3. **Patienten-Statistik** unvollständig
+4. **RLV-Berechnung** nicht überprüft
+
+## 9) Sozialgericht
+
+- Kostenfrei für KV-Streitigkeiten (keine Gerichtskosten)
+- Rechtsanwaltskosten nach RVG
+- Aufschiebende Wirkung Widerspruch — bei Bescheiden meist sofort vollziehbar
+
+## 10) BSG-Linien
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Anschluss
+
+- `fachanwalt-medizinrecht-behandlungsvertrag-630a` — bei Behandlung
+- `fachanwalt-sozialrecht-orientierung` — bei SG-Triage
+- `fachanwalt-medizinrecht-orientierung` — Plugin-Triage
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Paragrafenkette
+
+§ 87b SGB V (Honorarverteilungsmaßstab) → § 106 SGB V (Wirtschaftlichkeitsprüfung) → § 106a SGB V (Qualitätsprüfung) → § 106d SGB V (Plausibilitätsprüfung) → § 95 SGB V (Zulassung) → § 95 Abs. 6 SGB V (Zulassungsentziehung) → § 51 SGG (Sozialgerichtsweg) → § 86b SGG (Einstweiliger Rechtsschutz).
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Fristen
+
+| Frist | Dauer | Norm |
+|---|---|---|
+| Widerspruch beim Berufungsausschuss | 1 Monat ab Bescheid | § 96 Abs. 4 SGB V |
+| Klage beim SG | 1 Monat ab Berufungsausschussbescheid | § 87 SGG |
+| Aussetzungsantrag bei sofort vollziehbarem Bescheid | unverzüglich | § 86b Abs. 1 SGG |
+
+## Triage — Sofortprüfung
+
+Bevor losgelegt wird, kläre:
+
+1. **Welches Quartal ist betroffen?** — Widerspruchsfrist berechnen; KV-Bescheid enthält oft knappe Fristen.
+2. **Praxisbesonderheiten dokumentiert?** — Patientenstruktur, Krankheitsbilder, Schwerpunktversorgung als Belege vorbereiten.
+3. **RLV-Berechnung nachvollziehbar?** — Eigene Berechnung mit KV-Daten abgleichen; Differenz als Argumentationsgrundlage.
+4. **Wirtschaftlichkeitsprüfung oder Plausibilitätsprüfung?** — Unterschiedliche Verfahren, unterschiedliche Verteidigungswege.
+5. **Zulassung gefährdet?** — Bei Mehrfachverstößen parallel Verhältnismäßigkeitsprüfung § 95 Abs. 6 SGB V vorbereiten.
+
+**Entscheidungsbaum:**
+- Plausibilitätsprüfung → Anhörung § 24 SGB X nutzen; Stichprobenpatienten konkret darstellen
+- Wirtschaftlichkeitsprüfung → Praxisbesonderheiten konkret belegen; Vergleichsgruppe rügen
+- Zulassungsentziehung → Verhältnismäßigkeit (Ruhen als mildere Maßnahme); Eilantrag § 86b SGG
+- Regress-Bescheid → Widerspruch beim Berufungsausschuss; parallel Aussetzung beantragen
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Widerspruch Honorarbescheid KV | Widerspruchsschreiben; Template unten |
+| Variante A — Richtgroessen-Regress droht | Beratung vor Bescheid; Stellungnahme im Anhoerungs-Stadium |
+| Variante B — Zulaessige Mehrfachabrechnung streitig | GOAe / EBM-Kommentar pruefen; Nachweisdokumentation |
+| Variante C — Zulassungsentziehung droht | Sofortiger Widerspruch + Eilantrag; Strafverfahren koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template Widerspruch Honorarbescheid
+
+**Adressat:** KV / Berufungsausschuss — Tonfall: sachlich-juristisch
+
+```
+An die Kassenärztliche Vereinigung [Bundesland]
+Widerspruchsstelle
+
+Widerspruch gegen den Honorarbescheid Quartal [Q/JJJJ]
+Az. [...]
+
+I. Sachverhalt
+Die Praxis [Name, LANR] hat im Quartal [Q/JJJJ] aufgrund folgender
+Praxisbesonderheiten das Regelleistungsvolumen ueberschritten:
+[Schwerpunktversorgung; atypische Patientenstruktur; Belegaerztliche Taetigkeit]
+
+II. Rechtsfehler
+1. Die Berechnung des RLV nach § 87b SGB V weicht von der
+   Fachgruppenentwicklung ab; unsere Gegenberechnung ergibt EUR [Differenz].
+2. Praxisbesonderheiten wurden nicht beruecksichtigt (Belege Anlagen K1-K3).
+
+III. Antrag
+Aufhebung des Honorarbescheids und Neuberechnung unter Beruecksichtigung
+der Praxisbesonderheiten.
+
+IV. Aussetzung Vollziehung
+Bei sofortiger Vollziehbarkeit beantragen wir Aussetzung § 86b Abs. 1 SGG.
+
+Anlagen: Patientenstatistik, Diagnoseprofile, eigene RLV-Berechnung, Vollmacht
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 
-## Skill: `amnog-millionen-therapie`
+## Skill: `fachanwalt-medizinrecht-behandlungsvertrag-630a`
 
-_AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst: AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit s..._
+_Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler oder Aufklärungsmangel oder Arzt braucht Vertragsdokumentation. §§ 630a-h BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr bei grobem Behandlungsfehler, § 630g BGB Akteneinsichtsrecht. Prüfraster Behandlungsstandard § 630a Abs. 2, Aufklärungspflicht § 630e, Dokumentationspflicht § 630f, Beweislast und Umkehr bei grobem Fehler. Output Prüfprotokoll Behandlungsvertrag mit Anspruchsgrundlagen und Beweislage. Abgrenzung zu Behandlungsfehler-Anspruch-Prüfen und zu Gutachterkommission._
 
-# AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst
+# Behandlungsvertrag §§ 630a-h BGB
+
+## Zweck
+
+Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. Pflichten, Beweisregeln, Patientenrechte.
+
+## 1) Pflichten Behandelnder
+
+### Behandlung nach Stand med. Wissenschaft § 630a II BGB
+
+- Sorgfaltspflicht des allg. anerkannten fachlichen Standards
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Aufklärung § 630e BGB
+
+- **Vor** Behandlung
+- Inhalt: Art, Umfang, Verlauf, Folgen, Risiken, Alternativen
+- **Eigenhaendige Unterschrift** des Patienten empfohlen
+
+### Einwilligung § 630d BGB
+
+- Aufklärungsbasiert
+- Bei Notfall: mutmassliche Einwilligung
+- Bei Minderjaehrigen: Eltern, ggf. Einsichtsfähigkeit ab 14
+
+### Dokumentation § 630f BGB
+
+- **Patientenakte** in Schriftform / elektronisch
+- Pflichten: Anamnese, Diagnose, Behandlung, Aufklärung, Befunde
+- Aufbewahrung 10 Jahre
+
+## 2) Beweislast-Umkehr bei groben Behandlungsfehlern § 630h V BGB
+
+### Voraussetzung
+
+- **Grober Behandlungsfehler**: Verstoß gegen elementare Behandlungsregel
+- Geeignet, festgestellte Gesundheitsverletzung herbeizuführen
+
+### Folge
+
+- Arzt muss beweisen, dass Fehler **nicht** kausal war
+- Praktisch sehr schwer
+
+### Beispiele (BGH-Linie)
+
+- Röntgen-Befund übersehen
+- Reanimation unterbrochen
+- Operation am falschen Bein
+- Hygiene-Standards grob verletzt
+
+## 3) Aufklärungsmangel
+
+### Voraussetzungen
+
+- Aufklärung unterblieb oder unvollständig
+- Hypothetische Einwilligung des Patienten widerlegt
+
+### Folge
+
+- Eingriff ist **rechtswidrig** (auch bei korrekter Durchführung)
+- Schadensersatz + Schmerzensgeld
+
+### Beweislast
+
+- Arzt muss Aufklärung beweisen (Schriftform empfohlen)
+
+## 4) Patientenrechte
+
+### Akteneinsicht § 630g BGB
+
+- Patient kann Akteneinsicht verlangen
+- Kostenpflichtige Kopie (typisch 0,50/Seite)
+- Bei Verweigerung: Klage am Amtsgericht
+
+### Schweigepflicht § 203 StGB
+
+- Strafrechtliche Pflicht
+- Ausnahmen: Einwilligung, gesetzliche Pflicht (Infektionsschutz)
+
+## 5) Workflow Behandlungsfehler-Mandat
+
+### Schritt 1 — Sachverhaltsaufnahme
+
+- Behandlungs-Verlauf
+- Mangel-Beschreibung
+- Gesundheitsfolge
+
+### Schritt 2 — Akteneinsicht
+
+- Antrag § 630g BGB
+- Bei Verweigerung: Klage
+
+### Schritt 3 — Vorgutachten
+
+- MDK (gesetzlich Versicherte)
+- Privatgutachten
+- Schlichtungs-Stelle der Ärztekammer
+
+### Schritt 4 — Verhandlung / Klage
+
+- Vergleich mit Versicherer
+- Bei Streit: LG (Streitwert + 5.000 EUR Grenze)
+- Beweisaufnahme Sachverständiger
+
+## 6) Schadensersatz / Schmerzensgeld
+
+- Behandlungs-Mehrkosten
+- Verdienstausfall
+- Erwerbsminderungs-Rente bei Dauerschaden
+- Schmerzensgeld nach BGH-Schmerzensgeld-Tabelle
+
+## 7) Verjaehrung
+
+- 3 Jahre ab Kenntnis Patient
+- Hoechstens 30 Jahre ab Eintritt der Verletzung
+- § 199 BGB
+
+## 8) Typische Fehler
+
+1. **Aufklärungs-Beweis fehlt** Arztes -> rechtswidriger Eingriff
+2. **Akteneinsicht verweigert** -> Schaden Patient
+3. **MDK-Gutachten als alleinige Grundlage** — oft Mandanten-feindlich
+
+## 9) BGH-Linien
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Anschluss
+
+- `behandlungsfehler-anspruch-pruefen` — Prüfraster
+- `fachanwalt-medizinrecht-approbations-widerspruch` — bei AErzte-Mandat
+- `aufklaerungsfehler-beweisstrategie` — Beweis-Strategie
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Paragrafenkette
+
+§ 630a BGB (Behandlungsvertrag) → § 630a Abs. 2 BGB (Standardpflicht) → § 630e BGB (Aufklärung) → § 630d BGB (Einwilligung) → § 630f BGB (Dokumentation) → § 630g BGB (Akteneinsicht) → § 630h BGB (Beweislast) → § 280 Abs. 1 BGB (Schadensersatz) → § 823 Abs. 1 BGB (Delikt) → § 253 Abs. 2 BGB (Schmerzensgeld).
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Triage — Sofortprüfung bei Mandatsannahme
+
+Bevor losgelegt wird, kläre sofort:
+
+1. **Welche Frist droht?** — Verjährung läuft 3 Jahre ab Jahresende der Kenntnis (§§ 195, 199 BGB); bei unbekanntem Fehler absolute Höchstfrist 30 Jahre.
+2. **Dokumentation angefordert?** — § 630g BGB; ohne vollständige Akte keine Begutachtung möglich.
+3. **GKV oder Privatpatient?** — Bei GKV: MDK-Gutachten parallel beantragen (§ 66 SGB V); Regressinteresse GKV (§ 116 SGB X) koordinieren.
+4. **Grobes Verschulden erkennbar?** — Bei Beweislastumkehr § 630h Abs. 5 BGB ist die Klagestrategie anders als ohne.
+5. **Schlichtungsverfahren sinnvoll?** — Ärztekammer-Schlichtung hemmt Verjährung und liefert kostenloses Sachverständigengutachten.
+
+**Entscheidungsbaum:**
+- Grobes Verschulden eindeutig → Direktklage (§ 630h Abs. 5 BGB als zentrales Argument)
+- Sachverhalt ungeklärt → Schlichtung zuerst
+- Verjährung in < 3 Monaten → sofort Hemmungsmaßnahme (Güteantrag, Klage)
+- Tod des Patienten → Erbenklage; Schmerzensgeld vererbt (§ 253 BGB n.F.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Behandlungsvertrag § 630a Erstberatung | Mandantenschreiben nach Erstgespraech; Template unten |
+| Variante A — Privatpatient will Kosten reduzieren | GOAe-Minderung aushandeln; Beratung Honorarrecht |
+| Variante B — GKV-Versicherter ausserhalb Leistungskatalog | Kostenuebernahmeregelung pruefen; Widerspruch gegen Ablehnung |
+| Variante C — Behandlungsabbruch durch Arzt | Aufhebungsvereinbarung; Weiterbehandlungspflicht pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 
-## Arbeitsweg
+## Output-Template Mandantenschreiben nach Erstgespräch
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+**Adressat:** Mandant — Tonfall: verständlich-erklärend
 
-**Fokus:** AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+```
+Sehr geehrte/r [MANDANT],
 
-### AMNOG und Millionen-Therapie
+nach Durchsicht der Unterlagen und unserem Gespraeach halte ich folgendes
+zum Mandat fest:
 
-## Fachkern: AMNOG und Millionen-Therapie
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+Sachverhalt: [Behandlung Datum Einrichtung Fehler]
+Naechste Schritte:
+1. Anforderung der vollstaendigen Patientenakte bei [EINRICHTUNG] § 630g BGB
+   Frist: 14 Tage — wir schreiben heute noch.
+2. Schlichtungsantrag bei der [AERZTEKAMMER] — kostenlos; hemmt Verjaehrung.
+3. Verjaehrungsfrist beachten: Aktuell laeuft sie bis [DATUM].
+Kosten: [STREITWERT] — Ihre Rechtsschutzversicherung pruefe ich.
+Mit freundlichen Gruessen
+[KANZLEI]
+```
 
-## Worum es geht
-
-Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
-
-**Fokus:** Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst.
-
-## Kaltstart-Fragen
-
-- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
-- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
-- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
-- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** SGB V, AMNOG, G-BA/IQWiG, Nutzenbewertung, Wirtschaftlichkeitsgebot und Vertragsarztrecht.
-- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
-- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
-- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
-- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- EU HTA Regulation implementation: https://health.ec.europa.eu/health-technology-assessment/implementation-regulation-health-technology-assessment_en
-- Joint Clinical Assessments: https://health.ec.europa.eu/health-technology-assessment/implementation-regulation-health-technology-assessment/joint-clinical-assessments_en
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 86b SGG
-- § 80 VwG
-- § 4b AMG
-- § 87 SGG
-- § 51 SGG
-- § 84 SGG
-- § 70 VwG
-- § 74 VwG
-- § 203 StGB
-- § 3a RVG
-- § 229 StGB
-- § 78 StGB
-
-### Leitentscheidungen
-
-- BGH VI ZR 323/04
-
----
-
-## Skill: `anaesthesie-hochrisiko-aufklaerung`
-
-_Anästhesie Hochrisiko-Aufklärung: moderner Medizinrechts-Skill für Narkoserisiko, ASA, Aspirationsgefahr, Blutprodukte, Aufklärungstiming und Notfallausnahme: Anästhesie Hochrisiko-Aufklärung: moderner Medizinrechts-Skill für Narkoserisiko, ASA, Aspirations..._
-
-# Anästhesie Hochrisiko-Aufklärung: moderner Medizinrechts-Skill für Narkoserisiko, ASA, Aspirationsgefahr, Blutprodukte, Aufklärungstiming und Notfallausnahme
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Anästhesie Hochrisiko-Aufklärung: moderner Medizinrechts-Skill für Narkoserisiko, ASA, Aspirationsgefahr, Blutprodukte, Aufklärungstiming und Notfallausnahme. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
-
-### Anästhesie Hochrisiko-Aufklärung
-
-## Fachkern: Anästhesie Hochrisiko-Aufklärung
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-
-## Worum es geht
-
-Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
-
-**Fokus:** Narkoserisiko, ASA, Aspirationsgefahr, Blutprodukte, Aufklärungstiming und Notfallausnahme.
-
-## Kaltstart-Fragen
-
-- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
-- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
-- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
-- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** §§ 630d/e BGB, § 630h Abs. 2 BGB, Fachstandard und Dokumentationspflicht.
-- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
-- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
-- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
-- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
-- BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
-- Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

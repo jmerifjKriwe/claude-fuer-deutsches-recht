@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 51 Skills des Plugins `lobbyregister-bundestag`.
+Dieser Megaprompt enthaelt top-15 von 52 Skills des Plugins `lobbyregister-bundestag`.
 
 ## Inhaltsverzeichnis
 

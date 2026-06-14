@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 104 Skills (gekuerzt fuer Chat-Fenster) des Plugins `verlagsredaktion`.
+Dieser Megaprompt enthaelt top-8 von 117 Skills (gekuerzt fuer Chat-Fenster) des Plugins `verlagsredaktion`.
 
 ## Inhaltsverzeichnis
 

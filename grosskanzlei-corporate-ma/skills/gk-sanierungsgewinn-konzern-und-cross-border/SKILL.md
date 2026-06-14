@@ -1,43 +1,17 @@
 ---
 name: gk-sanierungsgewinn-konzern-und-cross-border
-description: "Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen: Behandelt Forderungsverzichte zwischen Konzerngesellschaften, organschaftliche Verflechtungen,..."
+description: "Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen. Behandelt Forderungsverzichte zwischen Konzerngesellschaften, organschaftliche Verflechtungen, Verlustnutzung im internationalen Konzern, Wechselwirkung mit dem Außensteuergesetz, ATAD und EU-Beihilferecht. Liefert Strukturraster, Risiko-Marker für Cross-Border-Restrukturierung und Klauselbausteine. Adressat ist das Großkanzlei-Team in Konzern-Restrukturierungen und Multi-Jurisdiktions-Mandaten. Quellen Stand 06/2026."
 ---
 
-# Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen. Behandelt Forderungsverzichte zwischen Konzerngesellschaften, organschaftliche Verflechtungen, Verlustnutzung im internationalen Konzern, Wechselwirkung mit dem Außensteuergesetz, ATAD und EU-Beihilferecht. Liefert Strukturraster, Risiko-Marker für Cross-Border-Restrukturierung und Klauselbausteine. Adressat ist das Großkanzlei-Team in Konzern-Restrukturierungen und Multi-Jurisdiktions-Mandaten. Quellen Stand 06/2026.
-
-### Sanierungsgewinn – Konzern und Cross-Border
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – Konzern und Cross-Border` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Sanierungsgewinn – Konzern und Cross-Border
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+# Sanierungsgewinn – Konzern und Cross-Border
 
 ## Worum geht es
 
 Sanierungen in international tätigen Konzernen unterscheiden sich strukturell von Sanierungen einzelner Gesellschaften: Forderungsverzichte erfolgen häufig **zwischen verbundenen Unternehmen**; Organschaften wirken über; ausländische Töchter sind in nationalen Sanierungsmechanismen nur eingeschränkt erfasst. Die Anforderungen an die Sanierungsabsicht der Gläubiger werden bei nahestehenden Personen besonders streng geprüft. Gleichzeitig öffnen sich grenzüberschreitende Strukturen für Verlustnutzungs- und Beihilfeprobleme.
 
-Bearbeite diese Spezialthemen für den Großkanzlei-Konzernmandanten.
+Arbeite die Konzern- und Cross-Border-Spezialthemen so auf, dass Steuerteam, Corporate-Team und Finance-Team dieselben Prämissen verwenden.
 
-## Wann dieses Modul hilft
+## Wann brauchen Sie diesen Skill
 
 - Konzernrestrukturierung mit Forderungsverzichten der Muttergesellschaft gegenüber Tochtergesellschaften.
 - Holding-Refinanzierung mit Wirkungen auf operativ tätige Tochtergesellschaften.
@@ -61,7 +35,7 @@ Nicht dieser Skill, sondern die nationalen Sanierungsskills sind primär, wenn n
 - **EuInsVO – VO (EU) 2015/848** – europäische Insolvenzverordnung.
 - **EU-Beihilferecht Art. 107 AEUV** – relevant bei Sanierungsklausel.
 
-## / Schritt für Schritt
+## Workflow / Schritt für Schritt
 
 1. **Konzernstruktur kartieren.** Welche Gesellschaften sind betroffen? Welche sind organschaftlich verbunden? Welche befinden sich in welcher Jurisdiktion?
 2. **Forderungsstruktur kartieren.** Welche Forderungen bestehen zwischen Konzerngesellschaften? Welche zwischen Konzern und externen Gläubigern? Welche sind sicherheitenbesichert?
@@ -112,6 +86,16 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - EuInsVO COMI-Frage nicht geklärt; Hauptverfahren in falscher Jurisdiktion.
 - Lokal Counsel in anderen Jurisdiktionen zu spät eingebunden.
 
+## Querverweise
+
+- Plugin `steuerrecht-anwalt-und-berater`: AStG, ATAD, Konzernsteuerrecht im Detail.
+- Plugin `insolvenzrecht`: EuInsVO, Konzerninsolvenz, Cross-Border-Verfahren.
+- Plugin `grosskanzlei-corporate-ma`:
+  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+  - `grosskanzlei-corporate-ma-translations-multijurisdictional`
+  - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
+
 ## Quellen Stand 06/2026
 
 - § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8b KStG; § 14 ff. KStG; § 4h EStG; § 4k EStG; § 8c KStG; § 8d KStG; § 42 AO – gesetze-im-internet.de.
@@ -122,3 +106,18 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BFH zur Konzern-Verlustnutzung – ständige Rspr.; bundesfinanzhof.de.
+
+<!-- gk-ma-v61-agentic-boost -->
+
+## V61 Deal-OS Boost
+
+Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
+
+- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
+- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
+- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
+- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

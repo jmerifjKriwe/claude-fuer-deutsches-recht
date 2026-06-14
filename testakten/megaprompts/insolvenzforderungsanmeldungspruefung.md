@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `insolvenzforderungsanmeldungspruefung`.
+Dieser Megaprompt enthaelt top-15 von 60 Skills des Plugins `insolvenzforderungsanmeldungspruefung`.
 
 ## Inhaltsverzeichnis
 

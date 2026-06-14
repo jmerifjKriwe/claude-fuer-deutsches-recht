@@ -39,4 +39,3 @@ Das erfolglos gebliebene Schlichtungsverfahren ist für die Klage relevant, weil
 - Eingangsbestätigung Ombudsmann vom 25.02.2026 (Anlage SL 2)
 - Mitteilung Ombudsmann über Einstellung vom 18.03.2026 (Anlage SL 3)
 - Schreiben DBV-Winterthur an Ombudsmann (Ablehnung Schlichtungsvorschlag) vom 10.03.2026 (Anlage SL 4)
-

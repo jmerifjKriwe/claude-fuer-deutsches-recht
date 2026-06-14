@@ -84,4 +84,3 @@ Frau Vogelweide leidet seit mindestens Frühjahr 2024 an einer Kombination aus o
 Die behandelnden Ärzte Dr. Scholz (Neurochirurgie), Dr. Brandt (Orthopädie) und Dr. Hermanns (Psychiatrie) bestätigen übereinstimmend die vollständige Berufsunfähigkeit für den erlernten Beruf der Altenpflegerin. Ein Privatgutachten von Prof. Dr. med. Franz Kiesewetter (Berufsdermatologie, Universität Freiburg) zur Latexsensibilisierung ist in Vorbereitung (Bearbeitungszeit ca. 8 Wochen).
 
 **Quelle:** Befundberichte auf Anforderung bei behandelnden Ärzten vorliegend; vollständige Dokumentation als Anlage K 3 zur Klageschrift.
-

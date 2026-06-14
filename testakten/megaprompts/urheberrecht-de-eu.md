@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 63 Skills des Plugins `urheberrecht-de-eu`.
+Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `urheberrecht-de-eu`.
 
 ## Inhaltsverzeichnis
 

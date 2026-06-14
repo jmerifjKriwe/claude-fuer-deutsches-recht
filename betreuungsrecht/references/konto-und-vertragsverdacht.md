@@ -80,4 +80,3 @@ Schreibe sachlich und beweisorientiert:
    mit Datum festhalten.
 6. Betreuungsgericht informieren, wenn Schutzmaßnahmen, Einwilligungsvorbehalt
    oder Genehmigungsfragen naheliegen.
-

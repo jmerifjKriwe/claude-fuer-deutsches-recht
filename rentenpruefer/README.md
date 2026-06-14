@@ -49,7 +49,7 @@ Er arbeitet zweigleisig: verständlich genug für Laien, aber präzise genug fü
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -84,6 +84,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `minijob-midijob-nachversicherung-beamte` | Minijob, Midijob, Teilzeit und Pflegezeiten: Beitragswirkung, Wartezeitmonate, Aufstockung, Pflegeperson und typische Lücken im Rentenpruefer. |
 | `nachversicherung-beamte-referendare-soldaten` | Nachversicherung nach Ausscheiden aus versicherungsfreier Beschäftigung: Beamte, Referendare, Soldaten, Kirchenbeamte, Aufschub und Zielsystem im Rentenpruefer. |
 | `oeffentlicher-dienst-pflegezeiten` | Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV im Rentenpruefer. |
+| `oeffentlicher-dienst-vbl-und-zusatzversorgung` | Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV. |
 | `pflegezeiten-rentenpunkte` | Rentenpunkte durch Pflege: Pflegegrad, Pflegeumfang, Erwerbstätigkeit, Pflegekasse und Beitragsmeldung im Rentenpruefer. |
 | `quellen-livecheck-regelaltersrente-vorzeitige` | Quellen-Livecheck im Rentenrecht: Normtext, DRV-Praxis, Abkommen, Versorgungswerkssatzung und Rechtsprechung absichern im Rentenpruefer. |
 | `red-team-rentenbescheid` | Red-Team-Prüfung eines Rentenbescheids oder Rentenmemos: Rechenfehler, fehlende Zeiten, falscher Träger, Auslandslogik und Beweisdefizite finden. |

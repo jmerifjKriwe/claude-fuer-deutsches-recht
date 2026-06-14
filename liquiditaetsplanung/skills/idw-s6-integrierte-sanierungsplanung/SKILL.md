@@ -116,4 +116,3 @@ Liefer standardmäßig:
 - Planjahr schließt liquiditätsseitig, aber Bilanz stimmt nicht.
 - Gesellschafter- oder Bankbeitrag ist nicht verbindlich.
 - Kleine Unternehmen werden zu grob geplant, obwohl einzelne Großkunden oder Schlüsselpersonen das Risiko treiben.
-

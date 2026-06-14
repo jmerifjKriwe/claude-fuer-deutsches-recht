@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 200 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-steuerberater`.
+Dieser Megaprompt enthaelt top-8 von 204 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-steuerberater`.
 
 ## Inhaltsverzeichnis
 

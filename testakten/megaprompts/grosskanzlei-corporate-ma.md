@@ -7,13 +7,13 @@ Dieser Megaprompt enthaelt top-8 von 271 Skills (gekuerzt fuer Chat-Fenster) des
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Großkanzlei-Corporate/M&A-Plugin. Fragt Rolle, Erfahrungslevel, Ziel, Fristen…
-2. **automation** — Monitoring und Automatisierungen für laufende M&A-Mandate einrichten: Anwendungsfall Deal-Team benoetigt automatisierte …
-3. **billing-narratives** — Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss…
-4. **closing-bible** — Closing Bible und Deal-Archiv erstellen: Anwendungsfall Mandant oder Counsel braucht nach Signing/Closing vollständige D…
-5. **corporate-rechtsprechungsrecherche** — Corporate und M&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht für Gutachten, Schriftsatz oder DD-Report rele…
-6. **datenqualitaet-xai** — KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Kl…
-7. **datenraum-aufbau** — Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team…
-8. **datenraum-gap-clean** — Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest …
+2. **gk-sanierungsgewinn-bmf-ankoppelung-und-strategie** — BMF-Ankoppelung und strategische Auseinandersetzung mit den Verwaltungsanweisungen zu § 3a EStG. Analysiert das BMF-Schr…
+3. **gk-sanierungsgewinn-konzern-und-cross-border** — Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen. Behandelt Forderungsverzichte zwischen …
+4. **gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg** — Konkurrenz und Wechselwirkung von Forderungsverzicht (§ 3a EStG) und schädlichem Beteiligungserwerb (§ 8c KStG). Beschre…
+5. **gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik** — Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES…
+6. **gk-sanierungsgewinn-private-equity-und-managementbeteiligung** — Sanierungsgewinn im PE-Mandat. Adressiert PE-Investoren in der Rolle des Sanierungserwerbers oder Sanierungsexits, das Z…
+7. **automation** — Monitoring und Automatisierungen für laufende M&A-Mandate einrichten: Anwendungsfall Deal-Team benoetigt automatisierte …
+8. **billing-narratives** — Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss…
 
 ---
 
@@ -338,6 +338,706 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - Stand: 05/2026
 - BGB, GmbHG, AktG, UmwG, UmwStG, WpUeG, StaRUG, InsO, GWB, FKVO, AWG in aktuell geltender Fassung
 - GoBD-Schreiben BMF (Stand 2019; aktuell keine Neufassung)
+
+---
+
+## Skill: `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
+
+_BMF-Ankoppelung und strategische Auseinandersetzung mit den Verwaltungsanweisungen zu § 3a EStG. Analysiert das BMF-Schreiben vom 27.04.2017 und nachfolgende Verlautbarungen sowie die Wirkungen des Wachstumschancengesetzes und weiterer Gesetzgebungsvorhaben mit Sanierungsbezug. Liefert Verwaltungsanweisungs-Synopse, Strategie-Entscheidungsraster und Empfehlung für die Mandatsführung. Adressat ist das Großkanzlei-Team in komplexen Sanierungsmandaten mit Verwaltungsschnittstellen. Quellen Stand 06/2026._
+
+# Sanierungsgewinn – BMF-Ankoppelung und Strategie
+
+## Worum geht es
+
+Die Sanierungsgewinn-Vorschriften des § 3a EStG und § 7b GewStG sind nicht selbsterklärend. Ihre Anwendung hängt in der Praxis von **BMF-Schreiben** und **OFD-Verlautbarungen** ab, die die Voraussetzungen konkretisieren. Wer ohne Ankoppelung an die Verwaltungsauffassung in den Antrag geht, riskiert Versagung der Steuerbefreiung. Wer an die Verwaltungsauffassung anknüpft, bekommt Planungssicherheit, verliert aber Argumentationsspielraum bei streitigen Fragen.
+
+Leite die Strategie zur Ankoppelung an die Verwaltungsauffassung aus BMF-Linie, BFH-Risiko, Antragspfad und Dokumentationspaket ab.
+
+## Wann brauchen Sie diesen Skill
+
+- Vor Antrag § 3a EStG; die Antragsdokumentation muss an die BMF-Auffassung anknüpfen.
+- Vor Antrag § 89 AO; die Antragsformulierung muss BMF-Sprache nutzen.
+- Bei Streit mit dem Finanzamt; Argumentationslinie an Verwaltungsauffassung oder gegen sie.
+- Bei Gesetzgebungsänderungen, etwa durch das Wachstumschancengesetz oder Folgegesetze.
+- Bei der Verteidigung gegen § 42 AO-Vorwürfe.
+
+Nicht dieser Skill ist primär, wenn die Verwaltungsauffassung bereits in einer verbindlichen Auskunft fixiert ist; dann gilt die Auskunft.
+
+## Rechtlicher Rahmen
+
+- **§ 3a EStG** – Steuerbefreiung Sanierungsertrag.
+- **§ 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
+- **§ 7b GewStG i. V. m. § 36 Abs. 2c GewStG** – Gewerbesteuer.
+- **§ 8c KStG / § 8d KStG** – Verlustvortrag.
+- **BMF-Schreiben vom 27.04.2017** – Umsetzung des Großen-Senats-Beschlusses; Erlassweg-Sanierungserlass; bis zur gesetzlichen Regelung weiter angewendet.
+- **Folge-BMF-Schreiben** – nachfolgende Klarstellungen zu § 3a EStG; Stand jeweils im Bundessteuerblatt prüfen.
+- **Wachstumschancengesetz** – steuerliche Begleitvorschriften zu Sanierung; Stand 06/2026 prüfen.
+- **AO-Anwendungserlass** zu § 42 AO und § 89 AO.
+
+## Workflow / Schritt für Schritt
+
+**Phase 1 – Verwaltungsanweisungen aktuell halten:**
+
+1. BMF-Schreiben vom 27.04.2017 als Ausgangsdokument analysieren.
+2. Nachfolgende BMF-Schreiben prüfen; im Bundessteuerblatt nachschlagen.
+3. OFD-Verlautbarungen der relevanten Oberfinanzdirektionen (insbesondere OFD Frankfurt a. M., Nordrhein-Westfalen).
+4. Aktuelle Gesetzgebung: Wachstumschancengesetz und Folgegesetze.
+
+**Phase 2 – Mandantenspezifische Subsumtion:**
+
+5. Welche Punkte der Verwaltungsauffassung sind im Mandat anwendbar?
+6. Welche Punkte sind problematisch und sollten in der verbindlichen Auskunft besonders adressiert werden?
+7. Gibt es OFD-Verlautbarungen, die im Mandat besonders zu berücksichtigen sind? Beispielsweise zur Frage, ob ein Liquidationsbeschluss als konkludenter Forderungsverzicht zu werten ist (OFD Frankfurt a. M.).
+
+**Phase 3 – Strategie der Ankoppelung:**
+
+8. **Vollkoppelungs-Strategie:** Der Antrag folgt eng der BMF-Auffassung; maximaler Sicherheitsabstand zur Streitlinie. Empfohlen, wenn der Sachverhalt klar ist und keine Sonderfragen vorliegen.
+9. **Teilkoppelungs-Strategie:** Der Antrag folgt der BMF-Auffassung, aber bringt zu einer Sonderfrage eine eigene Rechtsauffassung. Empfohlen, wenn die BMF-Auffassung in einem Punkt nicht überzeugt.
+10. **Gegenkurs-Strategie:** Der Antrag stellt sich offen gegen die BMF-Auffassung. Empfohlen nur bei klarem höchstrichterlichen Rückenwind und in Begleitung des Steuerteams.
+
+**Phase 4 – Gesetzgebung:**
+
+11. **Wachstumschancengesetz und Folgegesetze:** Welche Änderungen wirken im konkreten Mandat? Stand jeweils prüfen.
+12. **Übergangsregelungen** beachten; Stichtagsanknüpfung.
+
+**Phase 5 – Klärung problematischer Sonderfragen:**
+
+13. **Liquidation und konkludenter Verzicht:** Nach Verlautbarung der OFD Frankfurt a. M. ist ein Liquidationsbeschluss kein konkludenter Forderungsverzicht; Verbindlichkeiten bleiben zivilrechtlich auch nach Vermögenslosigkeit erhalten. Diese Auffassung wird in BFH, Urteil vom 26.02.2003 – II R 19/01 bestätigt.
+14. **Mindestbesteuerung § 10d EStG und § 3a EStG:** Verwaltungsauffassung Stand 06/2026 prüfen.
+15. **Sanierungsabsicht naher Gläubiger:** strenge Linie der Verwaltung; eigene Dokumentationspflicht.
+
+## Trade-off-Matrix
+
+| Strategie | Risiko | Vorteil | Wann |
+|---|---|---|---|
+| Vollkoppelung BMF | Niedrig | Hohe Closing-Sicherheit | Standard |
+| Teilkoppelung | Mittel | Argumentationsspielraum | Sonderfragen |
+| Gegenkurs | Hoch | Maximale Steuerentlastung | Höchstrichterlicher Rückenwind |
+| § 89 AO ohne Mandat-Sicherheit | Sehr hoch | Schnelligkeit | Vermeiden |
+
+## Praxistipps der alten Hasen
+
+Drei Beobachtungen zur strategischen BMF-Ankoppelung:
+
+- **„Die BMF-Auffassung ist Verhandlungsmasse, nicht Gesetz."** Sie bindet die Finanzverwaltung intern, nicht die Gerichte und nicht den Steuerpflichtigen. Wer die BMF-Auffassung als Gesetzeskommentar liest, verkennt ihre Funktion. Sie ist ein Verwaltungsausführungsdokument, das im Streitfall vor dem Finanzgericht keinen Beweis hat.
+- **„OFD-Verlautbarungen sind oft präziser als BMF-Schreiben."** Die Oberfinanzdirektionen Frankfurt a. M. und Nordrhein-Westfalen veröffentlichen häufig konkretere Hinweise als das BMF. Diese sollten im Antragsverfahren mitberücksichtigt werden, weil der Sachbearbeiter im Finanzamt sich daran orientiert.
+- **„Wachstumschancengesetz und Folgegesetze laufen weiter."** Der Gesetzgeber justiert die Sanierungsgewinn-Vorschriften kontinuierlich nach. Wer im Mandat Stand 06/2026 nicht prüft, ob seit Anfragestellung Gesetzesänderungen wirksam wurden, läuft Gefahr, auf veralteter Grundlage zu beraten.
+
+## SPA-/Plan-Klausel Mustertexte
+
+**Antragstext mit Verwaltungsanknüpfung:**
+
+> Bezugnahme auf BMF-Schreiben: Die Antragstellerin nimmt für die Würdigung des hier vorgetragenen Sachverhalts Bezug auf das BMF-Schreiben vom 27.04.2017 in der Fassung Stand [Datum]. Die im BMF-Schreiben unter Tz. [X] dargestellten Anforderungen werden im vorliegenden Sachverhalt vollumfänglich erfüllt, wie nachstehend zu zeigen ist.
+
+**Plan-Klausel zur Verwaltungspraxis:**
+
+> Steuerliche Würdigung: Die Parteien gehen unter Bezugnahme auf das BMF-Schreiben vom 27.04.2017 sowie die nachfolgenden Verlautbarungen davon aus, dass der durch den Forderungsverzicht entstehende Ertrag die Voraussetzungen des § 3a EStG erfüllt. Diese Annahme wird durch die mit Antrag vom [Datum] beantragte verbindliche Auskunft gemäß § 89 AO bestätigt werden.
+
+**Mandantenmemo-Auszug zur Strategiewahl:**
+
+> Strategie BMF-Ankoppelung: Wir empfehlen, im hier vorliegenden Mandat die Voll-Koppelung an die BMF-Auffassung zu wählen. Die in Tz. [X] des BMF-Schreibens vom 27.04.2017 dargestellte Auslegung deckt den Sachverhalt der Mandantin vollumfänglich; ein Gegenkurs würde die Closing-Sicherheit erheblich gefährden und ist im hier vorliegenden Volumen wirtschaftlich nicht zu vertreten.
+
+## Typische Fehler in komplexer Transaktion
+
+- BMF-Schreiben ohne Aktualitätscheck verwendet; neuere Verlautbarungen übersehen.
+- OFD-Verlautbarungen nicht berücksichtigt; Sachbearbeiter im Finanzamt wendet eigene Linie an.
+- Wachstumschancengesetz oder Folgegesetz übersehen; Übergangsregelung nicht beachtet.
+- Liquidation als konkludenter Forderungsverzicht behauptet; OFD Frankfurt a. M. widerspricht; BFH II R 19/01 widerspricht.
+- Mindestbesteuerung-Frage einseitig im Sinne der aggressiven Auffassung behandelt; Restrisiko nicht aufgezeigt.
+- Gegenkurs-Strategie ohne Steuerteam-Rückendeckung gewählt.
+
+## Querverweise
+
+- Plugin `steuerrecht-anwalt-und-berater`: Detailberatung BMF-Schreiben.
+- Plugin `grosskanzlei-corporate-ma`:
+  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+
+## Quellen Stand 06/2026
+
+- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8d KStG; § 42 AO; § 89 AO; § 10d EStG – gesetze-im-internet.de.
+- BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026; nachfolgende Verlautbarungen in der Aktualfassung prüfen.
+- OFD Frankfurt a. M., Verlautbarung zur Behandlung von Liquidation und Verzicht – Verlautbarung mit konkretem Datum und Aktenzeichen vom Anwender zu zitieren.
+- BFH, Urteil vom 26.02.2003 – II R 19/01 – prüfbar über bundesfinanzhof.de.
+- FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
+- Wachstumschancengesetz und Folgegesetze – Bundesgesetzblatt, Stand 06/2026 prüfen.
+- BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – bundesfinanzhof.de.
+
+<!-- gk-ma-v61-agentic-boost -->
+
+## V61 Deal-OS Boost
+
+Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
+
+- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
+- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
+- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
+- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
+
+---
+
+## Skill: `gk-sanierungsgewinn-konzern-und-cross-border`
+
+_Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen. Behandelt Forderungsverzichte zwischen Konzerngesellschaften, organschaftliche Verflechtungen, Verlustnutzung im internationalen Konzern, Wechselwirkung mit dem Außensteuergesetz, ATAD und EU-Beihilferecht. Liefert Strukturraster, Risiko-Marker für Cross-Border-Restrukturierung und Klauselbausteine. Adressat ist das Großkanzlei-Team in Konzern-Restrukturierungen und Multi-Jurisdiktions-Mandaten. Quellen Stand 06/2026._
+
+# Sanierungsgewinn – Konzern und Cross-Border
+
+## Worum geht es
+
+Sanierungen in international tätigen Konzernen unterscheiden sich strukturell von Sanierungen einzelner Gesellschaften: Forderungsverzichte erfolgen häufig **zwischen verbundenen Unternehmen**; Organschaften wirken über; ausländische Töchter sind in nationalen Sanierungsmechanismen nur eingeschränkt erfasst. Die Anforderungen an die Sanierungsabsicht der Gläubiger werden bei nahestehenden Personen besonders streng geprüft. Gleichzeitig öffnen sich grenzüberschreitende Strukturen für Verlustnutzungs- und Beihilfeprobleme.
+
+Arbeite die Konzern- und Cross-Border-Spezialthemen so auf, dass Steuerteam, Corporate-Team und Finance-Team dieselben Prämissen verwenden.
+
+## Wann brauchen Sie diesen Skill
+
+- Konzernrestrukturierung mit Forderungsverzichten der Muttergesellschaft gegenüber Tochtergesellschaften.
+- Holding-Refinanzierung mit Wirkungen auf operativ tätige Tochtergesellschaften.
+- Cross-Border-Restrukturierung mit ausländischen Konzernteilen, Cross-Border-Mergers oder ausländischen Anteilseignerstrukturen.
+- Sanierungsplan eines Konzernteils mit Wechselwirkung auf die Organschaftsstruktur.
+- Internationale Konzerninsolvenz nach EuInsVO.
+
+Nicht dieser Skill, sondern die nationalen Sanierungsskills sind primär, wenn nur eine Einzelgesellschaft betroffen ist.
+
+## Rechtlicher Rahmen
+
+- **§ 3a EStG** – Steuerbefreiung Sanierungsertrag, vier Tatbestandsmerkmale.
+- **§ 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
+- **§ 14 ff. KStG** – körperschaftsteuerliche Organschaft.
+- **§ 7b GewStG** – Gewerbesteuer.
+- **§ 8b KStG** – Beteiligungsergebnis bei Kapitalgesellschaften.
+- **Außensteuergesetz (AStG)** – Hinzurechnungsbesteuerung.
+- **ATAD-Richtlinie (EU) 2016/1164** – Anti-Tax-Avoidance, Zinsschranke, GAAR.
+- **§ 4h EStG** – Zinsschranke.
+- **§ 42 AO** – Missbrauch von Gestaltungen.
+- **EuInsVO – VO (EU) 2015/848** – europäische Insolvenzverordnung.
+- **EU-Beihilferecht Art. 107 AEUV** – relevant bei Sanierungsklausel.
+
+## Workflow / Schritt für Schritt
+
+1. **Konzernstruktur kartieren.** Welche Gesellschaften sind betroffen? Welche sind organschaftlich verbunden? Welche befinden sich in welcher Jurisdiktion?
+2. **Forderungsstruktur kartieren.** Welche Forderungen bestehen zwischen Konzerngesellschaften? Welche zwischen Konzern und externen Gläubigern? Welche sind sicherheitenbesichert?
+3. **Sanierungsbedürftigkeit pro Gesellschaft prüfen.** Sanierungsbedürftigkeit ist gesellschaftsbezogen; die Mutter ist nicht automatisch sanierungsbedürftig, nur weil eine Tochter es ist.
+4. **Sanierungsabsicht bei nahestehenden Personen.** Die Finanzverwaltung prüft die Sanierungsabsicht der Konzernmutter restriktiv. Sanierungsabsicht muss aus dem konkreten Verzichtsvertrag und der Sanierungsabrede hervorgehen.
+5. **Organschaft prüfen.** Bei laufender Organschaft erfolgt die Verlustverrechnung über die Organträgerin. Mehrgenerationen-Organschaft beachten.
+6. **Ausländische Verlustvorträge.** Verlustvorträge ausländischer Tochtergesellschaften sind nationalrechtlich nicht für § 3a Abs. 3 EStG relevant; aber bei Wegzug, Umwandlung oder Verschmelzung können sie zum Inlandsthema werden.
+7. **Hinzurechnungsbesteuerung.** Wenn Sanierungsertrag bei einer Zwischengesellschaft im Niedrigsteuerland anfällt, kann § 7 AStG greifen.
+8. **ATAD-Wirkungen.** Zinsschranke nach § 4h EStG; GAAR-Klausel; Hybride Gestaltungen § 4k EStG.
+9. **EU-Beihilfe.** Sanierungsklausel § 8c Abs. 1a KStG ist beihilferechtlich umstritten; in grenzüberschreitenden Fällen Notifizierung prüfen. Vergleiche `gk-sanierungsgewinn-eu-beihilfe-und-altmark`.
+10. **EuInsVO.** Hauptverfahren in Mitgliedstaat des COMI; Sekundärinsolvenz möglich; steuerliche Behandlung folgt Sitzland der Schuldnerin.
+11. **Cross-Border-Tax Steps.** Step Plan in jeder Jurisdiktion; lokale Spezialisten einbinden; Reihenfolge der Wirksamkeiten koordinieren.
+
+## Trade-off-Matrix
+
+| Konstellation | Praxisfrage | Empfehlung |
+|---|---|---|
+| Forderungsverzicht Mutter ggü. Tochter | Sanierungsabsicht? | Schriftliche Sanierungsabrede mit Verweis auf Tochter-Liquiditätsbedarf |
+| Organschaft mit Sanierungsertrag in Organgesellschaft | Wirkung auf Organträger | Vorab durchrechnen, Ausgleichszahlung |
+| Ausländische Tochter mit Verlustvortrag | Inlandstauglich? | Grundsätzlich nein, außer Verschmelzung |
+| Sanierung Holding mit operativer Tochter | Wer hat Sanierungsbedürftigkeit? | Beide separat prüfen |
+| Cross-Border-Restrukturierung | Lokale Spezialisten | Pro Jurisdiktion einbinden |
+
+## Praxistipps der alten Hasen
+
+Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
+
+- **„Sanierungsabsicht zwischen Konzerngesellschaften muss geschrieben sein."** Die Finanzverwaltung sieht in konzerninternen Verzichten zunächst eine verdeckte Einlage (§ 8 Abs. 3 Satz 2 KStG), nicht eine Sanierungsmaßnahme. Wer die Sanierungsabsicht nicht ausdrücklich in den Verzichtsvertrag schreibt und mit IDW-S6-Gutachten unterfüttert, riskiert die Versagung von § 3a EStG.
+- **„Organschaft kann den Sanierungserfolg verstecken."** In einer Organschaft fließt der Sanierungsertrag der Organgesellschaft an den Organträger. Das ist nicht zwingend ein Vorteil; der Organträger hat ggf. keine Verlustvorträge, die durch § 3a Abs. 3 EStG verbraucht werden könnten. Die Organschaft kann den Sanierungsmechanismus also auch verschlechtern; eine Vorab-Prüfung mit dem Steuerteam ist Pflicht.
+- **„Cross-Border-Restrukturierung braucht Local Counsel."** Sanierungsmechanismen sind national; § 3a EStG gilt nur für deutsche Steuerpflichtige. Wer einen Cross-Border-Plan ohne lokalen Tax Counsel umsetzt, importiert in den Plan einen Kostenfaktor, der größer ist als die anwaltlichen Honorare.
+
+## SPA-/Plan-Klausel Mustertexte
+
+**Konzerninterner Forderungsverzicht mit Sanierungsabsicht:**
+
+> Konzerninterner Forderungsverzicht: Die Gläubigerin verzichtet hiermit auf die in Anlage A bezeichneten konzerninternen Forderungen gegen die Schuldnerin in Höhe von [Betrag]. Der Verzicht erfolgt ausschließlich zum Zweck der Sanierung der Schuldnerin im Sinne von § 3a Abs. 2 EStG und stellt unter Würdigung der wirtschaftlichen Gesamtsituation einen substantiellen Sanierungsbeitrag dar. Die Sanierungsabsicht der Gläubigerin ist in dem dieser Vereinbarung als Anlage B beigefügten Sanierungskonzept gemäß IDW S 6 dokumentiert.
+
+**Cross-Border Tax Coordination Memo:**
+
+> Cross-Border Tax Coordination: Die Parteien vereinbaren, dass die in den verschiedenen Jurisdiktionen erforderlichen Anträge auf Steuerbefreiung des Sanierungsertrags koordiniert eingereicht werden. Für die deutsche Steuerseite ist Antragstellung nach § 3a Abs. 4 EStG vorgesehen; für [Jurisdiktion 2] gelten die entsprechenden lokalen Antragsregelungen. Eine Liste der erforderlichen Anträge mit Fristen findet sich in Anlage C (Cross-Border Tax Steps).
+
+## Typische Fehler in komplexer Transaktion
+
+- Sanierungsabsicht der Konzernmutter wird nicht dokumentiert; Verzicht wird als verdeckte Einlage gewertet, § 3a EStG entfällt.
+- Organschaftliche Wirkungen werden nicht vorab modelliert; Sanierungsertrag fließt an Organträger ohne Verlustvortrag.
+- Verlustvorträge ausländischer Töchter werden in die Sanierungs-Brücke einbezogen; rechtlich nicht haltbar.
+- Hinzurechnungsbesteuerung nach AStG bei Zwischengesellschaft im Niedrigsteuerland wird übersehen.
+- EuInsVO COMI-Frage nicht geklärt; Hauptverfahren in falscher Jurisdiktion.
+- Lokal Counsel in anderen Jurisdiktionen zu spät eingebunden.
+
+## Querverweise
+
+- Plugin `steuerrecht-anwalt-und-berater`: AStG, ATAD, Konzernsteuerrecht im Detail.
+- Plugin `insolvenzrecht`: EuInsVO, Konzerninsolvenz, Cross-Border-Verfahren.
+- Plugin `grosskanzlei-corporate-ma`:
+  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+  - `grosskanzlei-corporate-ma-translations-multijurisdictional`
+  - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
+
+## Quellen Stand 06/2026
+
+- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8b KStG; § 14 ff. KStG; § 4h EStG; § 4k EStG; § 8c KStG; § 8d KStG; § 42 AO – gesetze-im-internet.de.
+- AStG – gesetze-im-internet.de.
+- ATAD-Richtlinie (EU) 2016/1164 – EUR-Lex.
+- EuInsVO VO (EU) 2015/848 – EUR-Lex.
+- Art. 107 AEUV – EUR-Lex.
+- BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
+- FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
+- BFH zur Konzern-Verlustnutzung – ständige Rspr.; bundesfinanzhof.de.
+
+<!-- gk-ma-v61-agentic-boost -->
+
+## V61 Deal-OS Boost
+
+Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
+
+- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
+- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
+- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
+- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
+
+---
+
+## Skill: `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+
+_Konkurrenz und Wechselwirkung von Forderungsverzicht (§ 3a EStG) und schädlichem Beteiligungserwerb (§ 8c KStG). Beschreibt die fatale Konstellation, in der eine Sanierung mit Anteilseignerwechsel den Verlustvortrag vor seinem Einsatz im Sanierungsertrag zerstört. Liefert Konkurrenzanalyse, Vermeidungsstrategien, Reihenfolge-Optimierung und § 8d KStG als Rettungsanker. Adressat ist das Großkanzlei-Team bei kombinierten Restrukturierungs- und Investoren-Transaktionen. Quellen Stand 06/2026._
+
+# Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf § 8c KStG
+
+## Worum geht es
+
+Die wahrscheinlich häufigste Sanierungs-Falle in der Praxis ist die Kombination aus **Forderungsverzicht** und **Anteilseignerwechsel** im selben Restrukturierungsschritt. Geschieht der Anteilseignerwechsel über 50 % vor dem Wirksamwerden des Verzichts, schlägt § 8c Abs. 1 Satz 1 KStG zu: der Verlustvortrag ist im Grundsatz untergegangen. Wenn dann der Forderungsverzicht den Sanierungsertrag erzeugt, gibt es keinen Verlustvortrag mehr, der ihn nach § 3a Abs. 3 EStG aufzehrt; der Sanierungsertrag bleibt zwar steuerfrei nach § 3a Abs. 1 EStG, aber andere mögliche Verlustnutzungen sind weg. Im umgekehrten Fall – Verzicht vor Anteilseignerwechsel – ist der Verlustvortrag bereits durch den Sanierungsertrag verbraucht; der spätere § 8c KStG-Effekt findet keinen Verlustvortrag mehr vor.
+
+Dieser Skill löst das Konkurrenzverhältnis Schritt für Schritt auf.
+
+## Wann brauchen Sie diesen Skill
+
+- Restrukturierung mit Eintritt eines neuen Investors (PE, Strategic) und gleichzeitigem Forderungsverzicht der Altgläubiger.
+- Debt-Equity-Swap, der einen oder mehrere Hauptgläubiger zu neuen Gesellschaftern mit über 50 % macht.
+- Übernahme eines insolvenzbedrohten Unternehmens mit Sanierungsplan.
+- Konzerninterne Umstrukturierung, in der zwei Wirkungen zusammenfallen.
+
+Nicht dieser Skill, sondern `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma` ist primär, wenn nur der Forderungsverzicht ohne Anteilseignerwechsel relevant ist.
+
+## Rechtlicher Rahmen
+
+- **§ 8c Abs. 1 Satz 1 KStG** – Anteilseignerwechsel über 50 % zerstört Verlustvortrag vollständig.
+- **§ 8c Abs. 1 Satz 1 KStG (zwischen 25 % und 50 %)** – Verlustvortrag in der Bundesverfassungsgericht-Entscheidung 2017 für verfassungswidrig erklärt; seither nicht mehr anzuwenden, gesetzlich nachvollzogen.
+- **§ 8c Abs. 1a KStG** – Sanierungsklausel; eingeschränkt anwendbar nach EU-Beihilfeverfahren.
+- **§ 8c Abs. 4 KStG** – Stille-Reserven-Klausel; Schutz in Höhe der stillen Reserven.
+- **§ 8d KStG** – fortführungsgebundener Verlustvortrag; Antrag erforderlich; Fortführungsbindung.
+- **§ 3a EStG** – Steuerbefreiung Sanierungsertrag.
+- **§ 3a Abs. 3 EStG** – zwingende Verrechnungsreihenfolge.
+- **§ 7b GewStG** – Gewerbesteuer-Parallele.
+- **EU-Beihilferecht** – Sanierungsklausel als unionsrechtliches Streitthema.
+
+## Workflow / Schritt für Schritt
+
+**Phase 1 – Konstellation klären:**
+
+1. Wie hoch ist der Verlustvortrag? KSt und GewSt getrennt.
+2. Wie hoch ist der prognostizierte Sanierungsertrag?
+3. Wie hoch ist die Beteiligungsänderung in Prozent? Über 50 %?
+4. Wie hoch ist der voraussichtliche Anteilseignerwechsel zeitlich – vor, mit oder nach Forderungsverzicht?
+
+**Phase 2 – Sanierungsklausel § 8c Abs. 1a KStG:**
+
+5. Erwerb erfolgt zum Zweck der Sanierung?
+6. Erhalt der wesentlichen Betriebsstruktur über fünf Jahre?
+7. Sanierungsbedürftigkeit zum Erwerbszeitpunkt?
+8. EU-beihilferechtliche Notifizierung erforderlich oder nicht? Vergleiche `gk-sanierungsgewinn-eu-beihilfe-und-altmark`.
+
+**Phase 3 – § 8d KStG-Antrag prüfen:**
+
+9. Gleiche Geschäftstätigkeit über die letzten drei Jahre vor schädlichem Beteiligungserwerb?
+10. Keine Aufnahme zusätzlicher Geschäftstätigkeit nach Erwerb (sehr strenger Maßstab).
+11. Keine Beteiligungserwerbe durch die Zielgesellschaft.
+12. Antrag im Wirtschaftsjahr des schädlichen Beteiligungserwerbs.
+
+**Phase 4 – Reihenfolge optimieren:**
+
+13. Forderungsverzicht **vor** Anteilseignerwechsel: Sanierungsertrag verbraucht Verlustvortrag nach § 3a Abs. 3 EStG; der danach eintretende § 8c KStG-Effekt findet kaum noch Verlustvortrag.
+14. § 8d KStG-Antrag als Schutznetz, falls Reihenfolge nicht optimal umsetzbar.
+
+**Phase 5 – Verbindliche Auskunft:**
+
+15. § 89 AO-Antrag zu beiden Themen: Sanierungseignung nach § 3a EStG und Anwendbarkeit § 8d KStG.
+
+**Phase 6 – SPA-Schutz:**
+
+16. Tax Indemnity zu § 8c KStG-Versagung.
+17. Tax Indemnity zu § 8d KStG-Versagung.
+18. Closing Condition zu verbindlicher Auskunft.
+
+## Trade-off-Matrix
+
+| Konstellation | Verlustvortrag-Schicksal | Sanierungsertrag-Behandlung | Empfehlung |
+|---|---|---|---|
+| Anteilseignerwechsel > 50 %, kein § 8d-Antrag, kein § 8c (1a) | Weg | nach § 3a EStG steuerfrei | Vermeiden; Steuern auf Sanierungsertrag möglich |
+| Verzicht vor Anteilseignerwechsel | durch § 3a Abs. 3 EStG verbraucht | steuerfrei | Standard |
+| § 8d KStG-Antrag erfolgreich | Erhalten (fortführungsgebunden) | steuerfrei | Stärkster Schutz |
+| § 8c Abs. 4 KStG (stille Reserven) | Anteilig erhalten | steuerfrei | Nur Sicherungsnetz |
+| § 8c Abs. 1a KStG (Sanierungsklausel) | Erhalten | steuerfrei | Voraussetzungen prüfen |
+
+## Praxistipps der alten Hasen
+
+Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
+
+- **„§ 8c KStG ist der häufigste Steuerschaden in der Sanierung."** Banken und PE-Investoren übersehen den Effekt häufig, weil sie das Closing als Wertstichtag begreifen und nicht die Verlustvortrags-Mechanik. Das Mandant-Aktennotat sollte daher in der ersten Zeile auf § 8c KStG hinweisen.
+- **„§ 8d KStG ist mehr Versprechen als Schutz."** Die Fortführungsbindung ist streng; Aufnahme neuer Geschäftstätigkeit, weiterer Beteiligungen oder Verkauf von Geschäftsbereichen heilt nicht. Wer § 8d KStG nutzt, bindet sich für fünf Jahre. Der Mandant muss das verstehen.
+- **„Sanierungsklausel § 8c Abs. 1a KStG hat EU-rechtliche Vorgeschichte."** Die Sanierungsklausel war Gegenstand des Beihilfeverfahrens der EU-Kommission und in mehreren Verfahren vor dem EuGH. Die genaue Anwendbarkeit ist mandatsspezifisch zu prüfen; Verifizierung über CURIA und EUR-Lex.
+
+## SPA-/Plan-Klausel Mustertexte
+
+**Tax Indemnity § 8c KStG / § 8d KStG:**
+
+> Tax Indemnity Verlustvortrag: Der Verkäufer stellt den Käufer und die Zielgesellschaft frei von steuerlichen Mehrbelastungen und entgangenen Verlustnutzungen, die daraus entstehen, dass (i) der körperschaftsteuerliche oder gewerbesteuerliche Verlustvortrag der Zielgesellschaft durch den nach diesem Vertrag erfolgenden Anteilseignerwechsel ganz oder teilweise nach § 8c KStG bzw. § 10a GewStG untergeht und (ii) die Finanzbehörde die Anwendung des § 8d KStG bzw. die Sanierungsklausel des § 8c Abs. 1a KStG ganz oder teilweise versagt.
+
+**Operative Reihenfolge-Klausel:**
+
+> Reihenfolge-Bestimmung: Die Parteien vereinbaren, dass die in diesem Vertrag vorgesehenen Sanierungsmaßnahmen in folgender zeitlicher Reihenfolge wirksam werden: (i) Forderungsverzicht der Plan-Gläubiger zum Stichtag T-7, (ii) Anteilsübertragung gemäß diesem Vertrag zum Stichtag T0. Die Reihenfolge dient der wirtschaftlich optimalen Nutzung der bestehenden steuerlichen Verlustvorträge der Zielgesellschaft im Rahmen der Sanierung.
+
+## Typische Fehler in komplexer Transaktion
+
+- Anteilseignerwechsel erfolgt zeitgleich mit Forderungsverzicht; Reihenfolge ist unklar; § 8c KStG schlägt ggf. zuerst zu.
+- § 8d KStG-Antrag wird übersehen oder verspätet gestellt.
+- Sanierungsklausel § 8c Abs. 1a KStG wird aufgerufen, ohne die unionsrechtliche Notifizierung zu prüfen.
+- Mittelbare Anteilseignerwechsel auf Konzernebene (z. B. Wechsel am obersten Gesellschafter) werden übersehen.
+- Stimmrechte und nahestehende Personen werden in der 50 %-Berechnung nicht zusammengerechnet.
+
+## Querverweise
+
+- Plugin `steuerrecht-anwalt-und-berater`: § 8c KStG, § 8d KStG im Detail.
+- Plugin `insolvenzrecht`: Anteilseignerwechsel im Insolvenzplan.
+- Plugin `grosskanzlei-corporate-ma`:
+  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+
+## Quellen Stand 06/2026
+
+### Normen
+
+- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8c Abs. 1a KStG; § 8c Abs. 4 KStG; § 8d KStG; § 10a GewStG; § 5 Abs. 2a EStG; § 11 KStG – gesetze-im-internet.de.
+- § 2 Abs. 4 UmwStG (Rueckwirkungszeitraum); § 12 Abs. 3 i.V.m. § 4 Abs. 2 Satz 2 UmwStG (Verlustvortrag).
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen Passivierung (wirtschaftliche Belastung).
+- **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580** — kein § 42 AO bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum (Streitjahr 2008; fuer Umwandlungen ab 06.06.2013 § 2 Abs. 4 Satz 3 ff. UmwStG).
+- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 K,G,F** — Gestaltungsmissbrauch § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; frei pruefbar ueber Justiz NRW/dejure, Revision BFH I R 11/22 nur nach aktuellem Live-Check als anhaengig oder erledigt ausgeben.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend BFH I R 34/12) — Liquidationsausstieg bei stehen gelassenen Verbindlichkeiten.
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Ls. 3.
+- **BVerfG, Beschl. v. 29.03.2017 – 2 BvL 6/11** (Verfassungswidrigkeit § 8c Satz 1 KStG a. F.).
+- **FG Koeln, Urt. v. 04.11.2025 – 12 K 1413/25** — Antragsfristen § 3a Abs. 4 EStG.
+
+### Verwaltungsauffassung
+
+- BMF-Schreiben vom 27.04.2017 — Verifizierung im Bundessteuerblatt Stand 06/2026.
+- OFD-Verfuegungen nur mit frei pruefbarer Originalquelle, Bundessteuerblatt-Nachweis oder Nutzerquelle verwerten; keine BeckVerw-/Datenbankblindfundstelle ausgeben.
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
+
+### Querverweis Liquidation
+
+- `steuerrecht-anwalt-und-berater/stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse fuer stehen gelassene Verbindlichkeiten in der Liquidation als Plan-B-Pfad zum Mantelkauf-Szenario.
+
+<!-- gk-ma-v61-agentic-boost -->
+
+## V61 Deal-OS Boost
+
+Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
+
+- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
+- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
+- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
+- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
+
+---
+
+## Skill: `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+
+_Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (Kapitalherabsetzung, Kapitalerhöhung, Sacheinlage) und die Einbindung in die SPA-Architektur. Adressat ist das Großkanzlei-Team in Transaktion und Restrukturierung. Quellen Stand 06/2026._
+
+# Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
+
+## Worum geht es
+
+Der Debt-Equity-Swap (DES) ist die zentrale Sanierungsstrukturmaßnahme, in der ein Gläubiger seine Forderung gegen die Schuldnerin als Sacheinlage in die Schuldnerin einbringt und im Gegenzug Anteile erhält. Die Forderung erlischt durch Konfusion mit der Aufnahme in das Vermögen der Schuldnerin. Steuerlich entsteht bei der Schuldnerin ein Ertrag in Höhe der Differenz zwischen Nennwert der Forderung und Werthaltigkeitsanteil; das ist der **klassische Sanierungsertrag**, der § 3a EStG eröffnet. Auf Gläubigerseite stellt sich die Frage der Werthaltigkeit der eingebrachten Forderung und der gesellschaftsrechtlichen Differenzhaftung nach § 9 GmbHG / § 27 AktG.
+
+Verzahne gesellschaftsrechtliche Umsetzung, steuerliche Sanierungsgewinnlogik und SPA-Mechanik in einem prüfbaren Transaktionspfad.
+
+## Wann brauchen Sie diesen Skill
+
+- Sanierungstransaktion mit einem oder mehreren Hauptgläubigern, die als neue Gesellschafter einsteigen.
+- StaRUG-Plan oder Insolvenzplan mit DES als zentralem Sanierungselement.
+- Refinanzierung eines Bondgläubigers, der seine Forderung in Anteile wandelt.
+- PE-Investor erwirbt Distressed-Debt und wandelt diese in Eigenkapital.
+
+Nicht dieser Skill ist primär, wenn der DES nur theoretisch erwogen wird, aber stattdessen ein reiner Schuldverzicht ohne Anteilseinbringung erfolgt.
+
+## Rechtlicher Rahmen
+
+- **§ 3a EStG** – Sanierungsertrag auf Schuldnerseite.
+- **§ 3a Abs. 3 EStG** – zwingende Verrechnungsreihenfolge.
+- **§ 8 Abs. 3 Satz 2 KStG** – verdeckte Einlage.
+- **§ 5 Abs. 1 EStG** – Bilanzierung Verbindlichkeiten.
+- **§§ 55 ff. GmbHG** – Kapitalerhöhung; Sacheinlage; Werthaltigkeitsprüfung.
+- **§ 9 GmbHG** – Differenzhaftung des Einlegers.
+- **§§ 182 ff., 27 AktG** – AG-Sacheinlage.
+- **§ 225a InsO** – DES im Insolvenzplan; gesetzliche Erleichterung.
+- **§ 7 Abs. 4 StaRUG** – DES im Restrukturierungsplan.
+- **§ 8c KStG / § 8d KStG** – Anteilseignerwechsel durch DES.
+
+## Workflow / Schritt für Schritt
+
+1. **Forderungs-Inventur.** Welche Forderungen sollen eingebracht werden? Nennwert, Werthaltigkeit, Sicherheiten, Rangverhältnis.
+2. **Werthaltigkeitsprüfung.** Gutachterliche Bewertung der Forderung. Der werthaltige Teil ist die Sacheinlage; der nicht werthaltige Teil ist Sanierungsertrag.
+3. **Gesellschaftsrechtliche Struktur.** Klassisch: Kapitalherabsetzung auf null mit Bezugsrechtsausschluss, dann Kapitalerhöhung mit DES. Im StaRUG/Insolvenzplan: Erleichterungen nach § 225a InsO / § 7 Abs. 4 StaRUG.
+4. **Bewertungsverfahren.** Werthaltigkeitsbestätigung durch Wirtschaftsprüfer. Sachgründungsprüfung (§ 33 GmbHG / § 33 AktG).
+5. **Steuermodell Schuldnerseite.** Sanierungsertrag in Höhe Nennwert minus werthaltiger Teil. Verbrauch der Verlustvorträge nach § 3a Abs. 3 EStG. Anwendung § 3a Abs. 1 EStG.
+6. **Steuermodell Gläubigerseite.** Forderungsabschreibung beim Gläubiger; Beteiligung mit Buchwert bzw. gemeinem Wert. § 17 EStG / § 8b KStG je nach Rechtsform.
+7. **§ 8c KStG-Test.** DES führt häufig zum Anteilseignerwechsel über 50 %; Verlustvortrag im Grundsatz weg.
+8. **§ 8d KStG-Antrag.** Vor Wirksamwerden des DES Antrag stellen und Fortführungsbindung dokumentieren.
+9. **SPA-Strukturierung.** Investment Agreement, Restructuring Support Agreement, Forderungseinbringungsvertrag, Kapitalerhöhungsbeschluss, Anmeldung Handelsregister.
+10. **Verbindliche Auskunft.** Antrag zu § 3a EStG und ggf. § 8d KStG; Vorlauf einplanen.
+
+## Trade-off-Matrix
+
+| Frage | Außerhalb von Insolvenz | StaRUG | Insolvenzplan |
+|---|---|---|---|
+| Erleichterungen DES | keine | § 7 Abs. 4 StaRUG | § 225a InsO |
+| Werthaltigkeitsprüfung | streng | erleichtert | erleichtert |
+| Anfechtungsrisiko Gläubiger | hoch (§ 133 InsO) | reduziert | reduziert |
+| Steuerliche Behandlung | § 3a EStG | § 3a EStG | § 3a EStG |
+| § 8c KStG | wirkt voll | wirkt voll | wirkt voll |
+| Zustimmungserfordernisse | alle Gesellschafter | Mehrheit im Plan | Mehrheit im Plan |
+
+## Praxistipps der alten Hasen
+
+Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikelste. Drei Beobachtungen aus der Praxis:
+
+- **„Werthaltigkeit ist kein Selbstläufer."** Die Differenzhaftung nach § 9 GmbHG ist die häufigste Stolperfalle für Investoren, die ohne tragfähige Werthaltigkeitsprüfung in den DES gehen. Die Werthaltigkeit muss durch unabhängigen Wirtschaftsprüfer auf den Tag der Einbringung bestätigt sein.
+- **„§ 8c KStG ist der stille Killer."** Der DES schafft einen Anteilseignerwechsel, und § 8c KStG vernichtet den Verlustvortrag, den die Schuldnerin gerade noch hatte. Ohne § 8d KStG-Antrag ist die Verlustnutzung weg, und der Sanierungsertrag nach § 3a Abs. 3 EStG verbraucht dann nichts mehr – Sanierungsertrag also voll besteuert. Diese Wechselwirkung muss vor Plan-Beschluss durchgerechnet werden.
+- **„Vorratsbeschluss und Bezugsrechtsausschluss."** Die operative Umsetzung über Vorratsbeschluss und Bezugsrechtsausschluss erspart eine zweite Gesellschafterversammlung und beschleunigt die Umsetzung erheblich.
+
+## SPA-/Plan-Klausel Mustertexte
+
+**Investment Agreement DES (Auszug):**
+
+> Debt-Equity-Swap: Mit Eintritt der Bedingungen gemäß Ziffer X verpflichtet sich der Investor, seine in Anlage Y bezeichnete Forderung gegen die Gesellschaft in Höhe von [Betrag] (Nennwert) im Wege der Sacheinlage in die Gesellschaft einzubringen. Im Gegenzug erhält der Investor [Anzahl] neue Geschäftsanteile mit einem Nennbetrag von [Betrag] je Anteil. Die Parteien gehen auf Basis des Werthaltigkeitsgutachtens vom [Datum] davon aus, dass der werthaltige Teil der Forderung [Betrag] beträgt. In Höhe der Differenz zum Nennwert entsteht bei der Gesellschaft ein nach den Voraussetzungen des § 3a EStG steuerfreier Sanierungsertrag.
+
+**Plan-Klausel im Insolvenzplan (Auszug):**
+
+> Plan-Mechanik DES: Die in der Forderungstabelle eingetragene Forderung der Plan-Gläubigerin in Höhe von [Betrag] wird gemäß § 225a InsO in eine Beteiligung an der Schuldnerin umgewandelt. Die Plan-Gläubigerin erhält [Anzahl] Geschäftsanteile mit einem Nennbetrag von [Betrag]. Die Werthaltigkeit ist im Wertgutachten gemäß Anlage Z dokumentiert; eine Differenzhaftung ist gemäß § 254 Abs. 4 InsO ausgeschlossen.
+
+**Tax-Indemnity DES:**
+
+> Tax Indemnity DES: Der Investor stellt die Gesellschaft frei von steuerlichen Mehrbelastungen, die daraus entstehen, dass der durch den Debt-Equity-Swap entstehende Ertrag nicht oder nicht in voller Höhe nach § 3a EStG steuerfrei gestellt wird.
+
+## Typische Fehler in komplexer Transaktion
+
+- Werthaltigkeitsgutachten wird nach Einbringung erstellt; Differenzhaftung greift.
+- § 8c KStG-Effekt wird übersehen; nach DES sind die Verlustvorträge weg, und der Sanierungsertrag wird voll besteuert.
+- § 8d KStG-Antrag wird vergessen oder verspätet gestellt.
+- Sanierungsabsicht der Gläubiger fehlt im Einbringungsvertrag; die Finanzverwaltung verweigert § 3a EStG.
+- Kapitalherabsetzung auf null wird übersprungen; Altgesellschafter behalten Anteile, die gesellschaftsrechtlich nicht mehr werthaltig sind.
+
+## Querverweise
+
+- Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung DES.
+- Plugin `insolvenzrecht`: DES im Insolvenzplan; § 225a InsO.
+- Plugin `grosskanzlei-corporate-ma`:
+  - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
+  - `grosskanzlei-corporate-ma-distressed-ma`
+  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+
+## Quellen Stand 06/2026
+
+- § 3a EStG; § 3a Abs. 3 EStG; § 8 Abs. 3 KStG; § 8c KStG; § 8d KStG; § 7b GewStG – prüfbar über gesetze-im-internet.de.
+- §§ 55 ff. GmbHG; § 9 GmbHG; §§ 27, 33, 182 ff. AktG – gesetze-im-internet.de.
+- § 225a InsO; § 254 Abs. 4 InsO; § 7 Abs. 4 StaRUG – gesetze-im-internet.de.
+- BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt Stand 06/2026.
+- BGH zur Werthaltigkeit bei Sacheinlage – ständige Rspr.; Verifizierung über dejure.org und bundesgerichtshof.de.
+- BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
+
+<!-- gk-ma-v61-agentic-boost -->
+
+## V61 Deal-OS Boost
+
+Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
+
+- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
+- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
+- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
+- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
+
+---
+
+## Skill: `gk-sanierungsgewinn-private-equity-und-managementbeteiligung`
+
+_Sanierungsgewinn im PE-Mandat. Adressiert PE-Investoren in der Rolle des Sanierungserwerbers oder Sanierungsexits, das Zusammenspiel von Management Equity Plan (MEP) und Sanierungsertrag, die steuerliche Behandlung von Sweet Equity und Management-Carried-Interest und die Wirkung von § 8c KStG auf die Verlustvorträge nach Investoren-Einstieg. Liefert Strukturraster, MEP-Klauseln und SPA-Mustertexte. Adressat ist das PE-Team der Großkanzlei. Quellen Stand 06/2026._
+
+# Sanierungsgewinn – Private Equity und Managementbeteiligung
+
+## Worum geht es
+
+PE-Fonds treten in Sanierungssituationen in mehreren Rollen auf: als Distressed-Investor mit Loan-to-Own-Strategie, als Sponsor eines bestehenden Portfolio-Unternehmens in der Krise, als Exit-Käufer eines sanierten Targets oder als Co-Investor in einer DES-Struktur. In jeder dieser Rollen sind drei Themen kritisch: die Tax-Wirkungen für die Holding-Struktur des Fonds, die Verlustvortragssituation im Target und die korrekte Strukturierung des Management Equity Plan (MEP), in dem die Geschäftsführung des Targets nachträglich einsteigt.
+
+Prüfe Sanierungsgewinn, PE-Finanzierung, Managementbeteiligung und Exit-Folgen gemeinsam aus Sicht des Deal-Teams.
+
+## Wann brauchen Sie diesen Skill
+
+- PE-Fonds erwirbt Distressed-Target mit Sanierungsplan.
+- Bestehendes Portfolio-Unternehmen geht in Sanierung; Sponsor will Equity erhalten.
+- Sanierungs-Exit eines PE-Fonds an strategischen Investor.
+- Management-Beteiligungsprogramm wird im Zuge der Sanierung neu aufgesetzt.
+
+Nicht dieser Skill ist primär, wenn der PE-Investor außerhalb einer Sanierung agiert; dann gelten die normalen PE-Standards.
+
+## Rechtlicher Rahmen
+
+- **§ 3a EStG** – Sanierungsertrag.
+- **§ 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
+- **§ 7b GewStG** – Gewerbesteuer.
+- **§ 8c KStG / § 8d KStG** – Verlustvortrag bei Anteilseignerwechsel.
+- **§ 17 EStG** – Beteiligungsveräußerung im Privatvermögen.
+- **§ 19 EStG** – Arbeitslohn (relevant bei Manager-Beteiligungen mit Vergünstigung).
+- **§ 8b KStG** – Beteiligungsergebnis bei Kapitalgesellschaften.
+- **BFH-Rspr. zur Managementbeteiligung** – Abgrenzung Veräußerungsgewinn vs. Arbeitslohn (ständige Rspr.).
+- **§§ 327a ff. AktG** – Squeeze-Out (relevant bei Sanierung börsennotierter Target).
+- **§ 1 InvStG** – Investmentsteuerrecht (relevant bei PE-Fondsstrukturierung).
+
+## Workflow / Schritt für Schritt
+
+**Phase 1 – Fondsstruktur prüfen:**
+
+1. Welche PE-Fondsstruktur? Klassisches Fund-Limited-Partnership, German-Reg-Strukturen, Luxemburg-SCS-SCSp, US-LP?
+2. Welche Holdingebene investiert? Akquisitionsvehikel in welcher Jurisdiktion?
+3. Welches Steuerregime: § 8b KStG-Abschirmung, Investmentsteuergesetz?
+
+**Phase 2 – Erwerbsstruktur Distressed:**
+
+4. Asset Deal oder Share Deal? Vergleiche `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`.
+5. Direkt-Erwerb oder Loan-to-Own (Erwerb Distressed-Debt mit anschließendem DES)?
+6. § 8c KStG-Wirkung auf Target-Verlustvorträge.
+7. § 8d KStG-Antrag durch das Target nach Erwerb.
+
+**Phase 3 – Sanierungstaktik:**
+
+8. Erfolgt die Sanierung vor, mit oder nach dem PE-Erwerb?
+9. Wer trägt das Tax-Risiko aus § 3a EStG?
+10. Vergleiche Tax Step Plan: `gk-sanierungsgewinn-tax-step-plan-restrukturierung`.
+
+**Phase 4 – Management Equity Plan:**
+
+11. Beteiligungsform: Anteile, Anwartschaften, virtuelle Beteiligungen?
+12. Erwerbsmodalität: zum Marktwert (= keine Arbeitslohnkomponente) oder vergünstigt (= Arbeitslohn-Risiko)?
+13. Sweet-Equity-Mechanik: Vorzugsrendite des Investors, danach Manager-Disproportionalität.
+14. Leaver-Klauseln: Good-Leaver, Bad-Leaver.
+15. Steuerliche Behandlung beim Exit: § 17 EStG vs. § 19 EStG (Arbeitslohn).
+
+**Phase 5 – Exit-Planung:**
+
+16. Sanierungs-Exit mit verbleibenden Verlustvorträgen verkaufen?
+17. § 8c KStG-Effekt beim Erwerber.
+18. Tax-Indemnity-Verhandlung im SPA.
+
+## Trade-off-Matrix
+
+| PE-Frage | Loan-to-Own | Klassischer Distressed-Erwerb | MEP-Aufbau |
+|---|---|---|---|
+| Steuerwirkung auf Target | DES = § 3a EStG | Anteilserwerb = § 8c KStG | Steuerfreier MEP-Einstieg im Idealfall |
+| Verlustvortrag-Risiko | hoch | hoch | gering |
+| Strukturierungsaufwand | hoch | mittel | hoch |
+| Closing-Zeitschiene | lang | mittel | parallel zu PE-Closing |
+| Werthaltigkeitsprüfung | erforderlich | nein | Sweet-Equity bei Marktwert |
+
+## Praxistipps der alten Hasen
+
+Drei Beobachtungen aus dem Distressed-PE:
+
+- **„Loan-to-Own ist die elegante Strategie, aber operationell anspruchsvoll."** Der Erwerb von Distressed-Debt mit dem Ziel des späteren Debt-Equity-Swaps ist steuerlich auf Investorenseite vorteilhaft (Anschaffungskosten = Debt-Preis), führt aber zu komplexer Werthaltigkeitsprüfung und § 8c KStG-Wirkung beim Target. Die Strategie funktioniert nur mit klar definiertem Sanierungsfahrplan.
+- **„Management-Beteiligung im Sanierungsumfeld ist Sondergebiet."** Der Übergang von Insolvenzplan-Manager-Beteiligung zur regulären MEP-Struktur erfordert Sorgfalt: zu vergünstigte Beteiligung wird vom Finanzamt als Arbeitslohn nach § 19 EStG behandelt; spätere Veräußerung dann nach § 17 EStG mit Werteinbringung der Arbeitslohnkomponente.
+- **„Sanierungs-Exit ist ein eigener Verhandlungsmodus."** Der Exit-Käufer übernimmt die Tax-Position des Targets, einschließlich der Risiken aus § 3a EStG. Die Tax-Indemnity ist daher zentraler Verhandlungspunkt; die W&I-Versicherung schließt Sanierungsgewinn-Risiken im Standardmodell aus.
+
+## SPA-/Plan-Klausel Mustertexte
+
+**MEP-Erwerbsklausel zu Marktwert:**
+
+> Manager-Beteiligung: Der Manager verpflichtet sich, [Anzahl] Geschäftsanteile zum Kaufpreis von [Betrag] je Anteil zu erwerben. Der Kaufpreis entspricht dem Marktwert der Anteile zum Stichtag, festgestellt auf Grundlage des Bewertungsgutachtens vom [Datum]. Eine Vergünstigung gegenüber einem fremden Dritten wird nicht gewährt; eine arbeitslohnähnliche Komponente nach § 19 EStG ist nicht enthalten.
+
+**Sweet-Equity-Mechanik mit Hurdle:**
+
+> Sweet Equity: Die Ausschüttungspräferenz des PE-Investors beträgt [Prozent] auf den investierten Kapitalbetrag (Hurdle). Erst nach Erreichen der Hurdle nimmt der Manager überproportional am Übererlös teil. Diese Strukturierung gewährt dem Manager ein wirtschaftliches Übergewicht im Erfolgsfall, ohne dass eine arbeitslohnähnliche Vergünstigung zum Erwerbszeitpunkt vorliegt.
+
+**PE-Tax-Indemnity (Auszug):**
+
+> PE-Tax-Indemnity Sanierungsgewinn: Der Verkäufer (PE-Holding) stellt den Käufer frei von steuerlichen Mehrbelastungen, die der Zielgesellschaft daraus entstehen, dass (i) die Anwendung des § 3a EStG auf den im Rahmen der Sanierungsmaßnahme entstandenen Ertrag ganz oder teilweise versagt wird oder (ii) der nach § 8d KStG fortgeführte Verlustvortrag der Zielgesellschaft aufgrund von Ereignissen, die vor dem Stichtag eingetreten sind, ganz oder teilweise wegfällt.
+
+## Typische Fehler in komplexer Transaktion
+
+- Manager-Beteiligung zu Vergünstigungspreis; § 19 EStG-Risiko unterschätzt.
+- § 8c KStG-Effekt beim PE-Erwerb übersehen; Verlustvortrag weg.
+- § 8d KStG-Antrag wird gestellt, aber die Fortführungsbindung wird durch nachträgliche Add-on-Akquisitionen gebrochen.
+- Loan-to-Own ohne Werthaltigkeitsgutachten; Differenzhaftung.
+- Sanierungs-Exit ohne Tax-Indemnity oder mit zu niedrigem Tax-Cap.
+- W&I-Versicherer schließt Sanierungsgewinn-Risiken aus; Lücke wird nicht vertraglich überbrückt.
+
+## Querverweise
+
+- Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung Managementbeteiligung.
+- Plugin `grosskanzlei-corporate-ma`:
+  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+  - `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`
+  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+  - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
+  - `grosskanzlei-corporate-ma-wi-insurance`
+
+## Quellen Stand 06/2026
+
+- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8d KStG; § 8b KStG; § 17 EStG; § 19 EStG – gesetze-im-internet.de.
+- §§ 327a ff. AktG; § 1 InvStG – gesetze-im-internet.de.
+- BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
+- BFH zur Managementbeteiligung (Abgrenzung § 17 / § 19 EStG) – ständige Rspr.; bundesfinanzhof.de.
+- FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
+
+<!-- gk-ma-v61-agentic-boost -->
+
+## V61 Deal-OS Boost
+
+Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
+
+- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
+- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
+- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
+- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
 ---
 
@@ -739,909 +1439,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ---
 <!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
-
----
-
-## Skill: `closing-bible`
-
-_Closing Bible und Deal-Archiv erstellen: Anwendungsfall Mandant oder Counsel braucht nach Signing/Closing vollständige Dokumentensammlung aller executed Agreements, Signaturseiten und Registerbelege. §§ 433 ff. BGB SPA-Pflichten, Notarrecht. Prüfraster Vollständigkeit Signaturketten, Versionierun..._
-
-# Closing Bible und Archiv
-
-## Fachlicher Anker
-
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Closing Bible und Archiv
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Wann wird dieser Skill aufgerufen
-Typische Auslöser:
-- "Ich habe hier Closing Bible und Archiv und brauche einen belastbaren nächsten Schritt."
-- "Bitte prüfe das für ein M&A-Mandat aus Sicht von Buy-side, Sell-side oder Target."
-- "Mach daraus eine Partner-/Mandantenunterlage mit Risiken, Annahmen und offenen Punkten."
-- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
-
-Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
-
-## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
-
-Benötigte Unterlagen:
-- aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
-- CP-Tracker, Closing Deliverables, Board-/Shareholder-Approvals.
-- Disclosure Letter, Knowledge-Definition, W&I-Underwriting-Liste.
-
-Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
-
-## Workflow
-1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
-2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
-3. **Rechts- und Workstream-Schnittstellen trennen.** Ordne Punkte in Corporate, Commercial, Tax, Regulatory, Finance, IP/IT, HR, Litigation, Real Estate, ESG und PMO. Vermische DD-Finding, Vertragsfolge und Closing-Aufgabe nicht in einem Satz.
-4. **Materiality-Schwelle setzen.** Übernimm Schwellen aus LOI, SPA, DD-Scope oder Kanzlei-Playbook. Fehlt sie, schlage eine vorläufige qualitative Ampel vor: Dealbreaker, Price/Indemnity, Signing/Closing Condition, Disclosure-only, Housekeeping.
-5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen nicht abstrakt, sondern bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
-6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht ausdrücklich `[zu verifizieren]`.
-7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
-8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein Senior-Review-Memo mit genau den offenen Entscheidungen.
-9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
-10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
-
-## Prüfraster im Gutachtenstil
-**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
-
-**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
-
-**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
-- GmbHG §§ 15 und 16 für Anteilsübertragung und Gesellschafterliste.
-- AktG §§ 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
-- BGB § 158 für Closing Conditions und Bedingungseintritt.
-
-**3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
-
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
-
-**5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
-
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
-
-**Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
-
-## Output-Module
-- **Deal-Vermerk:** Executive Summary, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
-- **Issue List:** Tabelle mit Finding, Quelle, Risiko, Vertragsfolge, Preis-/Indemnity-Folge, Owner, Deadline.
-- **Information Request:** präzise Fragen an Mandant, Gegenseite oder Datenraum-Team, jeweils mit Grund und Priorität.
-- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Board-Paper-Abschnitt.
-- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
-
-## Quellen und Zitierregel
-Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
-
-## Hand-Off zu anderen Skills
-Nach diesem Skill weiter mit:
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-spa-apa-entwurf` - wenn der Befund in Vertragsentwurf, Markup oder Key-Issues-Liste einfließen soll.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-vertragsmarkup-key-issues` - wenn der Befund in Vertragsentwurf, Markup oder Key-Issues-Liste einfließen soll.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-disclosure-schedules` - wenn Garantien, Knowledge und Disclosure Letter abgeglichen werden.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-signing-closing-conditions` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
-
-## Was dieser Arbeitsgang nicht macht
-- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
-- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
-- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
-- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
-- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
-- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
-
-## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
-
-## Bisheriger Skill-Kern, integriert und weiterzuverwenden
-
-### Closing Bible und Archiv
-
-## Triage — klaere vor Zusammenstellung
-
-1. Welche Dokumente sind als "final executed" markiert — SPA, aller Anhange, Disclosure Schedules?
-2. Liegen alle Signaturseiten im Original oder als beglaubigte Kopie vor?
-3. Welche Registeranmeldungen sind erforderlich — GmbH-Anteilsuebertragung, Handelsregistereintrag, Transparenzregister-Update?
-4. Sind Notarkosten und Vollzugspflichten aus dem beurkundeten SPA bereits abgearbeitet (§ 15 Abs. 3 GmbHG, § 2 GmbHG)?
-5. Welche Closing-Deliverables sind noch offen — Resolutions, Closing Certificates, Funds Flow, Bankfreigaben?
-
-## Zentrale Rechtsgrundlagen
-
-- § 15 Abs. 3 u. 4 GmbHG — notarielle Beurkundungspflicht für GmbH-Anteils- und SPA-Uebertragungen
-- § 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung innerhalb eines Monats; Pflicht des Notars oder Geschäftsführers
-- § 20 TranspRG i.V.m. § 19 Abs. 1 GwG — Transparenzregistermeldung nach Gesellschafterwechsel innerhalb von zwei Wochen
-- § 41 GmbHG — Pflicht zur Buchfuehrung nach Registereintragung
-- § 179 AktG — Satzungsaenderung erfordert notarielle Beurkundung und HR-Anmeldung
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Schritt-für-Schritt-Workflow
-
-1. **Closing-Deliverables-Register anlegen:** alle SPA-Deliverables aus Schedule/Annex extrahieren, Owner und Faelligkeitsdatum zuordnen
-2. **Signaturketten prüfen:** für jeden signierten Vertrag: Originalunterschriften, Vollmachten, Vertretungsmacht gemäß Handelsregisterstand prüfen
-3. **Notarpflichten abarbeiten:** SPA-Beurkundung, Anteilsuebertragung gemäß § 15 Abs. 3 GmbHG, Anlagen mitbeurkundet?
-4. **Registeranmeldungen:** Gesellschafterliste gemäß § 40 GmbHG, HR-Anmeldung Geschäftsführerwechsel/Satzungsaenderung, Transparenzregister gemäß § 20 TranspRG
-5. **Funds Flow und Closing Payments prüfen:** Kaufpreistransfernachweise, Bankbestaetigung, Freistellung von Sicherheiten
-6. **Closing Bible zusammenstellen:** Inhaltsverzeichnis mit Tab-Struktur, je Dokument: Bezeichnung, Parteien, Datum, Fassung, Datenraum-Referenz
-7. **Offene Punkte als Post-Closing Obligations:** Fristen, Owner, Eskalationsstufe
-8. **Archivierung:** Deal-Archiv anlegen mit Zugriffskonzept, Vertraulichkeitsstufen, Retention Policy (§ 257 HGB: 10 Jahre)
-
-## Entscheidungsbaum
-
-- GmbH-Anteilsuebertragung → § 15 Abs. 3 GmbHG → notarielle Beurkundung erforderlich → ohne Beurkundung: Nichtigkeit
-- AG-Aktien vinkuliert → Zustimmung Hauptversammlung/AR-Beschluss prüfen → Eintrag Aktienbuch
-- Transparenzregisterpflicht → § 19 GwG Wirtschaftlich Berechtigte neu? → Frist 2 Wochen ab Closing
-- Registeranmeldung Namenswechsel/Satzungsaenderung → notarielle Form → Registergericht
-
-## Output-Template: Closing Bible Index
-
-**Adressat:** Deal-Team intern und Notar — Tonfall sachlich-strukturiert
-
-```
-CLOSING BIBLE
-Transaction: [DEALNAME]
-Closing Date: [DATUM]
-Prepared by: [KANZLEI/PARTNER]
-
-TAB A — TRANSACTION DOCUMENTS
- A-1 SPA, datiert [DATUM], Parteien: [KAEUFER] / [VERKAEUFER]
- A-2 Disclosure Schedules
- A-3 Signing Protocol / Notarakt Nr. [XX/XXXX]
-
-TAB B — CORPORATE APPROVALS
- B-1 Gesellschafterbeschluss Verkaeufer [DATUM]
- B-2 Aufsichtsratsbeschluss [DATUM]
- B-3 Board Resolution Erwerber
-
-TAB C — CLOSING DELIVERABLES
- C-1 Gesellschafterliste neu (§ 40 GmbHG), eingereicht [DATUM]
- C-2 Transparenzregister-Meldung [DATUM]
- C-3 Funds Flow Confirmation [DATUM]
- C-4 Freigabe Bankpfandrecht [DATUM]
-
-TAB D — POST-CLOSING OBLIGATIONS
- D-1 [MASSNAHME] — Owner: [NAME] — Faellig: [DATUM]
-```
-
-## Rote Schwellen
-
-- Signaturseite ohne Original-Vollmacht: Human-in-the-loop verlangen, vor Archivabschluss Senior Review
-- Gesellschafterliste nicht eingereicht (§ 40 GmbHG): Frist laeuft; Stimmrecht des Erwerbers gefaehrdet (§ 16 Abs. 1 GmbHG)
-- Transparenzregistermeldung unterlassen: Bussgeld bis 100.000 EUR (§ 56 GwG)
-- Funds Flow nicht belegt: Zahlungsnachweis zwingend vor Closing-Bible-Freigabe
-
-## Standardausgabe
-
-- Closing Bible Index mit Tab-Struktur, Parteien, Datum, Datenraum-ID
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe
-- Belegkette: Dokument, Datum, Version, Fundstelle
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review
-
-## Übergabe an andere Skills
-
-- Registerpunkte → `grosskanzlei-corporate-ma-gesellschaftsrecht-register`
-- Notartermin, Beurkundungsfragen → `grosskanzlei-corporate-ma-output-versand-signing`
-- Transparenzregister, GwG → `grosskanzlei-corporate-ma-conflict-gwg-sanctions`
-
-## Vorlagen
-
-- assets/templates/closing-bible-index.md
-- assets/templates/closing-deliverables-register.md
-
----
-
-## Skill: `corporate-rechtsprechungsrecherche`
-
-_Corporate und M&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht für Gutachten, Schriftsatz oder DD-Report relevante BGH-Rechtsprechung zu Organpflichten, Kapitalmarkt, Umwandlung oder Insolvenz. §§ 93 und 179a AktG, § 15 AktG Verfahren. Prüfraster amtliche Bundes- und Landesquellen, Akt..._
-
-# Corporate-Rechtsprechungsrecherche
-
-## Fachlicher Anker
-
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Corporate-Rechtsprechungsrecherche
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Wann wird dieser Skill aufgerufen
-Typische Auslöser:
-- "Ich habe hier Corporate-Rechtsprechungsrecherche und brauche einen belastbaren nächsten Schritt."
-- "Bitte prüfe das für ein M&A-Mandat aus Sicht von Buy-side, Sell-side oder Target."
-- "Mach daraus eine Partner-/Mandantenunterlage mit Risiken, Annahmen und offenen Punkten."
-- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
-
-Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
-
-## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
-
-Benötigte Unterlagen:
-- aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
-- CP-Tracker, Closing Deliverables, Board-/Shareholder-Approvals.
-- Disclosure Letter, Knowledge-Definition, W&I-Underwriting-Liste.
-
-Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
-
-## Workflow
-1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
-2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
-3. **Rechts- und Workstream-Schnittstellen trennen.** Ordne Punkte in Corporate, Commercial, Tax, Regulatory, Finance, IP/IT, HR, Litigation, Real Estate, ESG und PMO. Vermische DD-Finding, Vertragsfolge und Closing-Aufgabe nicht in einem Satz.
-4. **Materiality-Schwelle setzen.** Übernimm Schwellen aus LOI, SPA, DD-Scope oder Kanzlei-Playbook. Fehlt sie, schlage eine vorläufige qualitative Ampel vor: Dealbreaker, Price/Indemnity, Signing/Closing Condition, Disclosure-only, Housekeeping.
-5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen nicht abstrakt, sondern bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
-6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht ausdrücklich `[zu verifizieren]`.
-7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
-8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein Senior-Review-Memo mit genau den offenen Entscheidungen.
-9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
-10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
-
-## Prüfraster im Gutachtenstil
-**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
-
-**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
-
-**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
-- GmbHG §§ 15 und 16 für Anteilsübertragung und Gesellschafterliste.
-- AktG §§ 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
-- BGB § 158 für Closing Conditions und Bedingungseintritt.
-
-**3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
-
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
-
-**5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
-
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
-
-**Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
-
-## Output-Module
-- **Deal-Vermerk:** Executive Summary, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
-- **Issue List:** Tabelle mit Finding, Quelle, Risiko, Vertragsfolge, Preis-/Indemnity-Folge, Owner, Deadline.
-- **Information Request:** präzise Fragen an Mandant, Gegenseite oder Datenraum-Team, jeweils mit Grund und Priorität.
-- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Board-Paper-Abschnitt.
-- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
-
-## Quellen und Zitierregel
-Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
-
-## Hand-Off zu anderen Skills
-Nach diesem Skill weiter mit:
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-spa-apa-entwurf` - wenn der Befund in Vertragsentwurf, Markup oder Key-Issues-Liste einfließen soll.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-vertragsmarkup-key-issues` - wenn der Befund in Vertragsentwurf, Markup oder Key-Issues-Liste einfließen soll.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-disclosure-schedules` - wenn Garantien, Knowledge und Disclosure Letter abgeglichen werden.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-signing-closing-conditions` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-closing-bible-archiv` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
-
-## Was dieser Arbeitsgang nicht macht
-- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
-- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
-- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
-- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
-- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
-- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
-
-## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
-
-## Bisheriger Skill-Kern, integriert und weiterzuverwenden
-
-### Corporate-Rechtsprechungsrecherche
-
-## Arbeitsmodus
-
-- Amtliche Bundes- und Landesquellen bevorzugen.
-- OpenJur/dejure nur ergänzend nutzen und Fundstellen verifizieren.
-- Entscheidungen mit Datum, Aktenzeichen, Fundstelle und Randnummer erfassen.
-- Verwertungsnotiz für Vertrag, Memo, Board Paper oder Schriftsatz schreiben.
-
-## Rote Schwellen
-
-- Nicht verifizierte Fundstelle.
-- Halluziniertes Aktenzeichen.
-- Keine Übertragung auf Deal-Kontext.
-
-## Standardausgabe
-
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `grosskanzlei-corporate-ma-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Rechtsprechungsrecherche für M-and-A-Fragestellung | Rechercheprotokoll nach Schema; Template unten |
-| Variante A — Mandant will nur drei aktuelle BGH-Entscheidungen | Kompaktrecherche ohne erschoepfende Darstellung |
-| Variante B — Forschungsfrage im Auslandsrecht | Common-Law-Kompass Skill parallel für ausländische Rechtsprechung |
-| Variante C — Schnellrecherche in 30 Minuten noetig | Priorisierte Suche in JurisPlus Lexis ohne Vollauswertung |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Vorlagen
-
-- assets/templates/rechtsprechungsrecherche-deal.md
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## Rechtliche Einbettung und Praxiswissen
-
-### Normen und Quellen im M&A-Kontext
-- § 43a BRAO — anwaltliche Pflichten: Sorgfalt, Vollstaendigkeit, Unabhaengigkeit
-- §§ 675, 280 BGB — Beraterhaftung bei Pflichtverletzung
-- § 17 GeschGehG — Schutz von Geschäftsgeheimnissen; gilt für alle Mandatsinhalte
-- Art. 17 MAR — bei boersennotierten Zielobjekten: Ad-hoc-Pflicht und Vertraulichkeit
-
-### Leitsaetze aus der Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Qualitaetssicherung
-- Human-in-the-loop bei allen hochrisikorelevanten Ausgaben
-- Dokumentation: Datum, Bearbeiter, Freigabe durch Senior
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- §§ 705 ff. BGB (GbR)
-- §§ 105 ff. HGB (OHG)
-- §§ 161 ff. HGB (KG)
-- §§ 13, 15 GmbHG (Anteilsübertragung)
-- § 53 GmbHG (Satzungsänderung)
-- § 33 GWB, FKVO 139/2004 (Fusionskontrolle)
-- § 311 BGB i.V.m. §§ 433, 453 BGB (Unternehmenskauf, share/asset deal)
-- §§ 25, 28 HGB (Firmenfortführung, Haftung)
-- §§ 2-4 UmwG (Verschmelzung)
-- § 1 InvKG, AWG/AWV §§ 55-62 (Investitionsprüfung)
-
-### Leitentscheidungen
-
-- BGH II ZR 17/19 (Earn-Out-Klauseln, Kontrolle)
-- BGH II ZR 280/14 (Gewährleistungsausschluss share deal)
-- BGH II ZR 109/13 (W&I-Versicherung, Sale and Purchase)
-- EuGH C-93/13 P (FKVO-Verfahren)
-- BGH II ZR 71/11 (Auskunftsrechte Datenraum)
-
-### Anwendung im Skill
-
-- Share Deal vs. Asset Deal Wahl an Steuer-, Haftungs- und Genehmigungsfolgen, nicht am LMA-Standard ausrichten.
-- W&I-Versicherung nach BGH II ZR 109/13 ergaenzt, ersetzt aber keine Garantien.
-- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing prüfen, sonst § 41 GWB-Vollzugsverbot.
-
----
-
-## Skill: `datenqualitaet-xai`
-
-_KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Klauseln oder Recherchen sollen auf Datenqualitaet, Bias und Black-Box-Risiken geprüft werden. Art. 22 DSGVO automatisierte Entscheidungen, KI-VO Risikoklassen. Prüfraster Halluzi..._
-
-# Datenqualität und XAI-Qualitätskontrolle
-
-## Fachlicher Anker
-
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Datenqualität und XAI-Qualitätskontrolle
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Wann wird dieser Skill aufgerufen
-Typische Auslöser:
-- "Ich habe hier Datenqualität und XAI-Qualitätskontrolle und brauche einen belastbaren nächsten Schritt."
-- "Bitte prüfe das für ein M&A-Mandat aus Sicht von Buy-side, Sell-side oder Target."
-- "Mach daraus eine Partner-/Mandantenunterlage mit Risiken, Annahmen und offenen Punkten."
-- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
-
-Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
-
-## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
-
-Benötigte Unterlagen:
-- Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
-- NDA, Clean-Room-Protokoll, MAR-Insiderliste falls Public-M&A-Bezug.
-- Registerauszüge, wesentliche Verträge, Litigation-Liste, IP/IT- und HR-Unterlagen.
-
-Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
-
-## Workflow
-1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
-2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
-3. **Rechts- und Workstream-Schnittstellen trennen.** Ordne Punkte in Corporate, Commercial, Tax, Regulatory, Finance, IP/IT, HR, Litigation, Real Estate, ESG und PMO. Vermische DD-Finding, Vertragsfolge und Closing-Aufgabe nicht in einem Satz.
-4. **Materiality-Schwelle setzen.** Übernimm Schwellen aus LOI, SPA, DD-Scope oder Kanzlei-Playbook. Fehlt sie, schlage eine vorläufige qualitative Ampel vor: Dealbreaker, Price/Indemnity, Signing/Closing Condition, Disclosure-only, Housekeeping.
-5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen nicht abstrakt, sondern bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
-6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht ausdrücklich `[zu verifizieren]`.
-7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
-8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein Senior-Review-Memo mit genau den offenen Entscheidungen.
-9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
-10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
-
-## Prüfraster im Gutachtenstil
-**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
-
-**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
-
-**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 311 Abs. 2, 241 Abs. 2 und 280 für vorvertragliche Aufklärungspflichten.
-- GeschGehG §§ 2, 4, 6 und 17 für Geschäftsgeheimnisse im Datenraum.
-- GWB §§ 35 ff. und § 41 sowie Art. 7 FKVO für Gun-Jumping und Clean-Room-Fragen.
-- MAR Art. 7, 17 und 18 für Insiderinformationen, Ad-hoc-Prüfung und Insiderlisten.
-
-**3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
-
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
-
-**5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
-
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
-
-**Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
-
-## Output-Module
-- **Deal-Vermerk:** Executive Summary, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
-- **Issue List:** Tabelle mit Finding, Quelle, Risiko, Vertragsfolge, Preis-/Indemnity-Folge, Owner, Deadline.
-- **Information Request:** präzise Fragen an Mandant, Gegenseite oder Datenraum-Team, jeweils mit Grund und Priorität.
-- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Board-Paper-Abschnitt.
-- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
-
-## Quellen und Zitierregel
-Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
-
-## Hand-Off zu anderen Skills
-Nach diesem Skill weiter mit:
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-datenraum-aufbau` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-datenraum-gap-clean-room` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-due-diligence-legal` - wenn aus Unterlagen ein Legal-DD-Befund oder DD-Report gebaut werden soll.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-qa-information-requests` - wenn Findings in Information Requests und Seller-Q&A übersetzt werden müssen.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-due-diligence-reporting` - wenn aus Unterlagen ein Legal-DD-Befund oder DD-Report gebaut werden soll.
-
-## Was dieser Arbeitsgang nicht macht
-- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
-- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
-- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
-- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
-- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
-- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
-
-## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
-
-## Bisheriger Skill-Kern, integriert und weiterzuverwenden
-
-### Datenqualität und XAI-Qualitätskontrolle
-
-## Arbeitsmodus
-
-- Datenqualität, Quellenstatus, Stichprobe und Plausibilisierung festhalten.
-- Explainability-Anforderungen für jedes Ergebnis markieren.
-- Human-in-the-loop und Senior Review dokumentieren.
-- Fehler, Annahmen und nicht geprüfte Bereiche offenlegen.
-
-## Rote Schwellen
-
-- Keine Belegkette.
-- Nicht erklärbares Ergebnis bei hohem Risiko.
-- Bias oder Datenlücke wird nicht benannt.
-
-## Standardausgabe
-
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `grosskanzlei-corporate-ma-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Vorlagen
-
-- assets/templates/data-quality-gate.md
-- assets/templates/xai-quality-control-log.md
-
-## Triage
-
-1. Welche Datenquellen wurden für die M&A-Analyse genutzt — Datenraum, Handelsregister, Pressemitteilungen, Expert Calls?
-2. Welche Ergebnisse basieren auf automatisierter Verarbeitung — DD-Analyse, Vertragsmarkup, Risikobewertung?
-3. Gibt es Bereiche, die nicht geprueft wurden — fehlende Daten, eingeschraenkter Datenraum, nicht zugaengliche Unterlagen?
-4. Welche Ergebnisse haben hohes Risiko und erfordern Senior Review?
-
-## Zentrale Rechtsgrundlagen
-
-- Art. 22 DSGVO — automatisierte Einzelentscheidungen: bei rechtlich bedeutsamen Entscheidungen darf keine vollautomatische Entscheidung ohne menschliche Überprüfung getroffen werden
-- Art. 13, 14 EU-KI-Verordnung (in Kraft ab 2024/2025) — KI-Systeme mit hohem Risiko müssen transparent, prüfbar und erklaerbar sein; Dokumentationspflichten
-- §§ 675, 280 BGB — Beraterhaftung: Ergebnisse, die auf unzuverlaessigen Daten basieren, können Schadensersatz ausloesen; Anwalt muss Datenbasis offenlegen
-- § 43a BRAO — Unabhaengigkeit: Anwalt darf sich nicht auf Ergebnisse verlassen, die er nicht nachpruefen kann
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Schritt-für-Schritt-Workflow
-
-1. **Datenquellen dokumentieren:** alle verwendeten Quellen mit Datum, Version, Zugaenglichkeit; Luecken explizit benennen
-2. **Stichprobe und Plausibilisierung:** 10-20 % der Ergebnisse manuell querprufen
-3. **Explainability-Flag setzen:** je Ergebnis mit hohem Risiko: Human muss Ergebnis nachvollziehen können
-4. **Halluzinations-Check:** Leitsatz-Zitate, Normen, Aktenzeichen — alle Faktenangaben verifizieren
-5. **Human-in-the-loop-Protokoll:** wer hat geprueft, wann, Ergebnis der Prüfung
-
-## Rote Schwellen
-
-- Keine Belegkette für wesentliche Ergebnisse: Haftungsrisiko
-- Nicht erklaerbares Ergebnis bei hohem Risiko: sofortige Senior Review; kein Versand
-- Bias oder Datenlücke nicht benannt: moeglicherweise fehlerhafte Mandatsberatung
-
----
-
-## Skill: `datenraum-aufbau`
-
-_Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum für Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. §§ 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Prüfraster Ordnerstru..._
-
-# Datenraum-Aufbau
-
-## Fachlicher Anker
-
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Datenraum-Aufbau
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Wann wird dieser Skill aufgerufen
-Typische Auslöser:
-- "Ich habe hier Datenraum-Aufbau und brauche einen belastbaren nächsten Schritt."
-- "Bitte prüfe das für ein M&A-Mandat aus Sicht von Buy-side, Sell-side oder Target."
-- "Mach daraus eine Partner-/Mandantenunterlage mit Risiken, Annahmen und offenen Punkten."
-- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
-
-Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
-
-## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
-
-Benötigte Unterlagen:
-- Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
-- NDA, Clean-Room-Protokoll, MAR-Insiderliste falls Public-M&A-Bezug.
-- Registerauszüge, wesentliche Verträge, Litigation-Liste, IP/IT- und HR-Unterlagen.
-
-Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
-
-## Workflow
-1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
-2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
-3. **Rechts- und Workstream-Schnittstellen trennen.** Ordne Punkte in Corporate, Commercial, Tax, Regulatory, Finance, IP/IT, HR, Litigation, Real Estate, ESG und PMO. Vermische DD-Finding, Vertragsfolge und Closing-Aufgabe nicht in einem Satz.
-4. **Materiality-Schwelle setzen.** Übernimm Schwellen aus LOI, SPA, DD-Scope oder Kanzlei-Playbook. Fehlt sie, schlage eine vorläufige qualitative Ampel vor: Dealbreaker, Price/Indemnity, Signing/Closing Condition, Disclosure-only, Housekeeping.
-5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen nicht abstrakt, sondern bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
-6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht ausdrücklich `[zu verifizieren]`.
-7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
-8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein Senior-Review-Memo mit genau den offenen Entscheidungen.
-9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
-10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
-
-## Prüfraster im Gutachtenstil
-**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
-
-**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
-
-**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 311 Abs. 2, 241 Abs. 2 und 280 für vorvertragliche Aufklärungspflichten.
-- GeschGehG §§ 2, 4, 6 und 17 für Geschäftsgeheimnisse im Datenraum.
-- GWB §§ 35 ff. und § 41 sowie Art. 7 FKVO für Gun-Jumping und Clean-Room-Fragen.
-- MAR Art. 7, 17 und 18 für Insiderinformationen, Ad-hoc-Prüfung und Insiderlisten.
-
-**3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
-
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
-
-**5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
-
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
-
-**Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
-
-## Output-Module
-- **Deal-Vermerk:** Executive Summary, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
-- **Issue List:** Tabelle mit Finding, Quelle, Risiko, Vertragsfolge, Preis-/Indemnity-Folge, Owner, Deadline.
-- **Information Request:** präzise Fragen an Mandant, Gegenseite oder Datenraum-Team, jeweils mit Grund und Priorität.
-- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Board-Paper-Abschnitt.
-- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
-
-## Quellen und Zitierregel
-Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
-
-## Hand-Off zu anderen Skills
-Nach diesem Skill weiter mit:
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-datenraum-gap-clean-room` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-due-diligence-legal` - wenn aus Unterlagen ein Legal-DD-Befund oder DD-Report gebaut werden soll.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-qa-information-requests` - wenn Findings in Information Requests und Seller-Q&A übersetzt werden müssen.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-due-diligence-reporting` - wenn aus Unterlagen ein Legal-DD-Befund oder DD-Report gebaut werden soll.
-
-## Was dieser Arbeitsgang nicht macht
-- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
-- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
-- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
-- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
-- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
-- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
-
-## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
-
-## Bisheriger Skill-Kern, integriert und weiterzuverwenden
-
-### Datenraum-Aufbau
-
-## Arbeitsmodus
-
-- Datenraumindex aus IRL, Deal-Typ und Workstreams erzeugen.
-- Dokumente klassifizieren: Vertrag, Register, Steuer, HR, IP, IT, Litigation, ESG, Finance.
-- Hauptdokumente, Anlagen und Verwandtschaftsgrade verknuepfen.
-- Clean-Room- und Need-to-know-Zonen vorschlagen.
-
-## Rote Schwellen
-
-- Sensible Informationen im falschen Bereich.
-- Datenraum ohne Inhaltslogik.
-- Offenlegung wesentlicher Informationen an ungewoehnlicher Stelle ohne Hinweis.
-
-## Standardausgabe
-
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `grosskanzlei-corporate-ma-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Vorlagen
-
-- assets/templates/datenraum-index.md
-- assets/templates/clean-room-access-log.md
-
-## Triage — klaere vor Datenraum-Aufbau
-
-1. Welcher Deal-Typ — Private M&A, Public M&A, Carve-out, Distressed, SPAC?
-2. Sell-side oder Buy-side Datenraum? (Sell-side: strukturierter Bieterprozess; Buy-side: Gegenpruefung)
-3. Clean Room erforderlich — bei sensiblen Wettbewerberinfos (Kartellrecht)?
-4. Welche Datenraum-Plattform — Datasite, Intralinks, Merrill, Box, SharePoint?
-5. Welche Zugangsgruppen sind vorgesehen — Bieter A/B/C, Management, Berater, Konsortien?
-
-## Zentrale Rechtsgrundlagen
-
-- Art. 7 FKVO; § 41 GWB — Vollzugsverbot und Clean-Room-Pflicht für kartellrechtlich sensibler Informationsaustausch vor Freigabe
-- Art. 7, 17, 18 MAR — Vertraulichkeit von Insiderinformationen im Datenraum bei boersennotierten Zielunternehmen; Insiderliste bei Datenraumzugang
-- § 47 GwG — Verschwiegenheitspflicht; keine Offenlegung geldwaescherelevanter Informationen
-- §§ 17, 18 GeschGehG — Schutz von Geschäftsgeheimnissen; Geheimhaltungsvereinbarung muss vor Datenraumzugang vorliegen
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Schritt-für-Schritt-Workflow
-
-1. **Deal-Typ und Zugriffsstruktur festlegen:** Bieter-Gruppen, Clean-Room-Bereich, Management-Zugang
-2. **Index-Struktur erstellen:** Hauptkategorien Corporate, Legal, Finance/Tax, Commercial, HR, IP/IT, Litigation, Real Estate, ESG
-3. **Dokumente hochladen und klassifizieren:** je Dokument: Vertragstyp, Parteien, Datum, Relevanz-Flag (High/Medium/Low)
-4. **Geheimhaltungsprotokoll:** NDA-Liste, MAR-Insiderliste (falls boersennotiert), Clean-Room-Zugangspro tokoll
-5. **IRl-Management:** fehlende Dokumente als Information Request List erfassen; Seller-Response verfolgen
-6. **Datenraum-Gap-Analyse:** Vollstaendigkeit gegen Standard-DD-Checkliste prüfen
-
-## Rote Schwellen
-
-- Sensibler Wettbewerber-Datenraum ohne Clean Room: Kartellrechtsverstoss (Art. 7 FKVO)
-- Datenraumzugang ohne NDA: Geschäftsgeheimnisschutz verletzt (GeschGehG)
-- Insiderinformationen ohne MAR-Insiderliste: Aufsichtsrisiko (MAR Art. 18)
-
----
-
-## Skill: `datenraum-gap-clean`
-
-_Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden koennen. §§ 35 ff. GWB Fusionskontrolle, Kartellrecht. Prüfraster fehle..._
-
-# Datenraum-Gap-Analyse und Clean Room
-
-## Fachlicher Anker
-
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Datenraum-Gap-Analyse und Clean Room
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Wann wird dieser Skill aufgerufen
-Typische Auslöser:
-- "Ich habe hier Datenraum-Gap-Analyse und Clean Room und brauche einen belastbaren nächsten Schritt."
-- "Bitte prüfe das für ein M&A-Mandat aus Sicht von Buy-side, Sell-side oder Target."
-- "Mach daraus eine Partner-/Mandantenunterlage mit Risiken, Annahmen und offenen Punkten."
-- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
-
-Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
-
-## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
-
-Benötigte Unterlagen:
-- Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
-- NDA, Clean-Room-Protokoll, MAR-Insiderliste falls Public-M&A-Bezug.
-- Registerauszüge, wesentliche Verträge, Litigation-Liste, IP/IT- und HR-Unterlagen.
-
-Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
-
-## Workflow
-1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
-2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
-3. **Rechts- und Workstream-Schnittstellen trennen.** Ordne Punkte in Corporate, Commercial, Tax, Regulatory, Finance, IP/IT, HR, Litigation, Real Estate, ESG und PMO. Vermische DD-Finding, Vertragsfolge und Closing-Aufgabe nicht in einem Satz.
-4. **Materiality-Schwelle setzen.** Übernimm Schwellen aus LOI, SPA, DD-Scope oder Kanzlei-Playbook. Fehlt sie, schlage eine vorläufige qualitative Ampel vor: Dealbreaker, Price/Indemnity, Signing/Closing Condition, Disclosure-only, Housekeeping.
-5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen nicht abstrakt, sondern bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
-6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht ausdrücklich `[zu verifizieren]`.
-7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
-8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein Senior-Review-Memo mit genau den offenen Entscheidungen.
-9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
-10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
-
-## Prüfraster im Gutachtenstil
-**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
-
-**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
-
-**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 311 Abs. 2, 241 Abs. 2 und 280 für vorvertragliche Aufklärungspflichten.
-- GeschGehG §§ 2, 4, 6 und 17 für Geschäftsgeheimnisse im Datenraum.
-- GWB §§ 35 ff. und § 41 sowie Art. 7 FKVO für Gun-Jumping und Clean-Room-Fragen.
-- MAR Art. 7, 17 und 18 für Insiderinformationen, Ad-hoc-Prüfung und Insiderlisten.
-
-**3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
-
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
-
-**5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
-
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
-
-**Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
-
-## Output-Module
-- **Deal-Vermerk:** Executive Summary, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
-- **Issue List:** Tabelle mit Finding, Quelle, Risiko, Vertragsfolge, Preis-/Indemnity-Folge, Owner, Deadline.
-- **Information Request:** präzise Fragen an Mandant, Gegenseite oder Datenraum-Team, jeweils mit Grund und Priorität.
-- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Board-Paper-Abschnitt.
-- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
-
-## Quellen und Zitierregel
-Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
-
-## Hand-Off zu anderen Skills
-Nach diesem Skill weiter mit:
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-datenraum-aufbau` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-due-diligence-legal` - wenn aus Unterlagen ein Legal-DD-Befund oder DD-Report gebaut werden soll.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-qa-information-requests` - wenn Findings in Information Requests und Seller-Q&A übersetzt werden müssen.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-due-diligence-reporting` - wenn aus Unterlagen ein Legal-DD-Befund oder DD-Report gebaut werden soll.
-
-## Was dieser Arbeitsgang nicht macht
-- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
-- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
-- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
-- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
-- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
-- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
-
-## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
-
-## Bisheriger Skill-Kern, integriert und weiterzuverwenden
-
-### Datenraum-Gap-Analyse und Clean Room
-
-## Arbeitsmodus
-
-- Datenraum gegen IRL und IM abgleichen.
-- Referenzierte, aber fehlende Dokumente finden.
-- Widersprüche zwischen Legal, Tax, Finance, ESG und Commercial markieren.
-- Clean-Room-Zugriffe und kartellrechtliche Sensibilitaet protokollieren.
-
-## Rote Schwellen
-
-- Antitrust-sensible Daten offen zugänglich.
-- Wichtige Dokumente nur implizit oder unklar benannt.
-- KI-sortierter Datenraum ohne menschliches Gate.
-
-## Standardausgabe
-
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `grosskanzlei-corporate-ma-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Vorlagen
-
-- assets/templates/datenraum-gap-analysis.md
-- assets/templates/clean-room-access-log.md
-- assets/templates/data-quality-gate.md
-
-## Triage
-
-1. Liegt ein vollstaendiger Datenraum-Index vor oder muss dieser erst erstellt werden?
-2. Gibt es einen Information Request Letter (IRL) — welche Dokumente fehlen noch?
-3. Sind kartellrechtlich sensible Informationen im Datenraum (Preise, Kundenlisten, Marktanteile) — ist ein Clean Room erforderlich?
-4. Stimmen Teaser und IM mit dem Datenraum-Inhalt ueberein — gibt es wesentliche Abweichungen?
-
-## Zentrale Rechtsgrundlagen
-
-- Art. 7 FKVO; § 41 GWB — Clean-Room-Pflicht bei kartellrechtlich sensiblen Informationen vor Fusionskontrollfreigabe
-- §§ 17-18 GeschGehG — Schutz von Geschäftsgeheimnissen: Datenraum-Inhalte unterliegen Geheimhaltung; Clean Room schutzt Wettbewerber-Informationen
-- §§ 311, 241 Abs. 2 BGB — Offenbarungspflicht des Verkaeuf ers: wesentliche Risiken müssen offengelegt werden; Fair Disclosure nach BGH
-- Art. 7, 17 MAR — bei boersennotiertem Zielobjekt: Insiderinformationen im Datenraum erfordern MAR-konforme Zugangsprotokollierung
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Schritt-für-Schritt-Workflow
-
-1. **Datenraum-Index auswerten:** Kategorien, Vollstaendigkeit, Duplikate, Versionierung
-2. **IRL-Luecken identifizieren:** fehlende Dokumente je Workstream aufführen; Prioritaet High/Medium
-3. **Widerspruchsanalyse:** Teaser vs. IM vs. Datenraum — wesentliche Abweichungen → Red Flag
-4. **Clean Room prüfen:** kartellrechtlich sensitive Informationen? → Clean Room einrichten; Zugangsproto koll
-5. **Disclosure-Konzept bewerten:** allgemeine Disclosure vs. spezifische Disclosure; Fair-Disclosure-Standard prüfen
-
-## Rote Schwellen
-
-- Kartellrechtlich sensible Infos im normalen Datenraum: Clean-Room-Pflicht verletzt
-- IM-Widersprueche: Misrepresentation-Risiko des Verkaeuf ers
-- Fehlende wesentliche Dokumente ohne IRL: DD unvollstaendig; Garantierisiko
 
 ---
 

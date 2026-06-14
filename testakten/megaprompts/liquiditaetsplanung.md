@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 68 Skills des Plugins `liquiditaetsplanung`.
+Dieser Megaprompt enthaelt top-10 von 73 Skills des Plugins `liquiditaetsplanung`.
 
 ## Inhaltsverzeichnis
 

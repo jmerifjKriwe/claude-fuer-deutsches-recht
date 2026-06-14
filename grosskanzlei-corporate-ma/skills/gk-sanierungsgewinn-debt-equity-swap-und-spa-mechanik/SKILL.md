@@ -1,43 +1,17 @@
 ---
 name: gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik
-description: "Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug: Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite..."
+description: "Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (Kapitalherabsetzung, Kapitalerhöhung, Sacheinlage) und die Einbindung in die SPA-Architektur. Adressat ist das Großkanzlei-Team in Transaktion und Restrukturierung. Quellen Stand 06/2026."
 ---
 
-# Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (Kapitalherabsetzung, Kapitalerhöhung, Sacheinlage) und die Einbindung in die SPA-Architektur. Adressat ist das Großkanzlei-Team in Transaktion und Restrukturierung. Quellen Stand 06/2026.
-
-### Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+# Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
 
 ## Worum geht es
 
 Der Debt-Equity-Swap (DES) ist die zentrale Sanierungsstrukturmaßnahme, in der ein Gläubiger seine Forderung gegen die Schuldnerin als Sacheinlage in die Schuldnerin einbringt und im Gegenzug Anteile erhält. Die Forderung erlischt durch Konfusion mit der Aufnahme in das Vermögen der Schuldnerin. Steuerlich entsteht bei der Schuldnerin ein Ertrag in Höhe der Differenz zwischen Nennwert der Forderung und Werthaltigkeitsanteil; das ist der **klassische Sanierungsertrag**, der § 3a EStG eröffnet. Auf Gläubigerseite stellt sich die Frage der Werthaltigkeit der eingebrachten Forderung und der gesellschaftsrechtlichen Differenzhaftung nach § 9 GmbHG / § 27 AktG.
 
-Bearbeite die gesellschaftsrechtliche und die steuerliche Mechanik mit der SPA-Strukturierung.
+Verzahne gesellschaftsrechtliche Umsetzung, steuerliche Sanierungsgewinnlogik und SPA-Mechanik in einem prüfbaren Transaktionspfad.
 
-## Wann dieses Modul hilft
+## Wann brauchen Sie diesen Skill
 
 - Sanierungstransaktion mit einem oder mehreren Hauptgläubigern, die als neue Gesellschafter einsteigen.
 - StaRUG-Plan oder Insolvenzplan mit DES als zentralem Sanierungselement.
@@ -59,7 +33,7 @@ Nicht dieser Skill ist primär, wenn der DES nur theoretisch erwogen wird, aber 
 - **§ 7 Abs. 4 StaRUG** – DES im Restrukturierungsplan.
 - **§ 8c KStG / § 8d KStG** – Anteilseignerwechsel durch DES.
 
-## / Schritt für Schritt
+## Workflow / Schritt für Schritt
 
 1. **Forderungs-Inventur.** Welche Forderungen sollen eingebracht werden? Nennwert, Werthaltigkeit, Sicherheiten, Rangverhältnis.
 2. **Werthaltigkeitsprüfung.** Gutachterliche Bewertung der Forderung. Der werthaltige Teil ist die Sacheinlage; der nicht werthaltige Teil ist Sanierungsertrag.
@@ -113,6 +87,17 @@ Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikels
 - Sanierungsabsicht der Gläubiger fehlt im Einbringungsvertrag; die Finanzverwaltung verweigert § 3a EStG.
 - Kapitalherabsetzung auf null wird übersprungen; Altgesellschafter behalten Anteile, die gesellschaftsrechtlich nicht mehr werthaltig sind.
 
+## Querverweise
+
+- Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung DES.
+- Plugin `insolvenzrecht`: DES im Insolvenzplan; § 225a InsO.
+- Plugin `grosskanzlei-corporate-ma`:
+  - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
+  - `grosskanzlei-corporate-ma-distressed-ma`
+  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+
 ## Quellen Stand 06/2026
 
 - § 3a EStG; § 3a Abs. 3 EStG; § 8 Abs. 3 KStG; § 8c KStG; § 8d KStG; § 7b GewStG – prüfbar über gesetze-im-internet.de.
@@ -121,3 +106,18 @@ Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikels
 - BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt Stand 06/2026.
 - BGH zur Werthaltigkeit bei Sacheinlage – ständige Rspr.; Verifizierung über dejure.org und bundesgerichtshof.de.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
+
+<!-- gk-ma-v61-agentic-boost -->
+
+## V61 Deal-OS Boost
+
+Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
+
+- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
+- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
+- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
+- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

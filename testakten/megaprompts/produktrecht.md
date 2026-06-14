@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 65 Skills des Plugins `produktrecht`.
+Dieser Megaprompt enthaelt top-10 von 69 Skills des Plugins `produktrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Produktrecht (ProdSG/CE): ordnet Rolle (Hersteller, Importeur, Händler), markiert Frist…
 2. **produktrechtliche-erstpruefung-und-mandatsziel** — Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Produktrecht.
-3. **anpassen** — Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne das gesamte Kaltstart-Interview erneut ausz…
-4. **anschluss-router** — Einstieg, Schnelltriage und Fallrouting im Produktrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wuns…
-5. **ce-kennzeichnung-routenplan** — CE-Kennzeichnung systematisch planen: Identifikation einschlaegiger Richtlinien (Maschinen, Niederspannung, EMV, RED, Me…
-6. **ist-ki-act-marktueberwachung-kommunikation** — Schnelle Ist-das-ein-Problem?-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden w…
-7. **kaltstart-interview** — Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfas…
-8. **launch-pruefung** — Produktmanager oder Rechtsabteilung will vor dem Launch prüfen, ob das Produkt oder Feature produktrechtlich freigegeben…
-9. **mandat-arbeitsbereich** — Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene).…
-10. **preisangaben** — Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versand…
+3. **produktmandat-workspace-kontexttrennung** — Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene).…
+4. **anpassen** — Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne das gesamte Kaltstart-Interview erneut ausz…
+5. **anschluss-router** — Einstieg, Schnelltriage und Fallrouting im Produktrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wuns…
+6. **ce-kennzeichnung-routenplan** — CE-Kennzeichnung systematisch planen: Identifikation einschlaegiger Richtlinien (Maschinen, Niederspannung, EMV, RED, Me…
+7. **ist-ki-act-marktueberwachung-kommunikation** — Schnelle Ist-das-ein-Problem?-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden w…
+8. **kaltstart-interview** — Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfas…
+9. **launch-pruefung** — Produktmanager oder Rechtsabteilung will vor dem Launch prüfen, ob das Produkt oder Feature produktrechtlich freigegeben…
+10. **mandat-arbeitsbereich** — Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene).…
 
 ---
 
@@ -126,6 +126,218 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `produktmandat-workspace-kontexttrennung`
+
+_Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene). Lädt, wenn der Nutzer ein neues Mandat anlegen, zwischen Mandaten wechseln, ein Mandat abschließen oder den mandatsbezogenen Kontext trennen möchte, insbesondere bei mehreren parallelen Produktrechtsmandaten._
+
+# Produktmandat-Workspace und Kontexttrennung
+
+## Zweck
+
+Anwälte und In-house-Juristen arbeiten gleichzeitig an mehreren Produkten, Mandaten und Vorgängen. Der Kontext eines Mandats darf nicht in ein anderes überlaufen — sowohl aus Mandatsgeheimnisgründen (§ 43a Abs. 2 BRAO, § 203 StGB) als auch zur sachlichen Trennung der Produktrechtsanalysen. Diese Skill ist die schlanke Dateiverwaltungsebene, die diese Trennung sicherstellt.
+
+**Standardmäßig deaktiviert.** In-house-Juristen mit einem einzigen Unternehmenskontext benötigen diese Skill nicht — sie arbeiten ausschließlich auf Kanzlei-/Unternehmensebene. Mandats-Workspaces aktivieren sich beim Ersteinrichtungsinterview für externe Kanzleien (Einzel-, kleine und große Kanzleien) oder durch Bearbeitung von `## Gesellschaftsrechtlicher Mandatsworkspace und Kontexttrennungs` in der Kanzlei-CLAUDE.md. Wenn `Aktiviert` auf `✗` steht, erklärt der `/mandat-workspace`-Befehl den deaktivierten Zustand und empfiehlt `/kaltstart-interview --redo` für Nutzer, die tatsächlich Mandatsisolierung benötigen.
+
+Die Skill lädt, wenn der Nutzer Mandate anlegen, wechseln, auflisten, schließen oder den Mandatskontext deaktivieren möchte.
+
+## Eingaben
+
+- **Unterbefehl:** `neu`, `liste`, `wechsel`, `schließen` oder `keine` — gefolgt von einem Slug, wo erforderlich
+- **Slug:** Kleinbuchstaben mit Bindestrichen (z. B. `mustermann-gmbh-launch-2026`, `klindt-prüfung-q3`)
+- **Für `neu`:** Mandantendaten aus dem Aufnahmeinterview (siehe Ablauf, Schritt 2)
+
+**Unterbefehle im Überblick:**
+- `/produktrecht:produktrecht-mandat-arbeitsbereich neu <slug>` — neuen Mandat-Workspace anlegen, Kurzinterview durchführen, `mandat.md` schreiben
+- `/produktrecht:produktrecht-mandat-arbeitsbereich liste` — Mandate mit Status und aktivem Mandat auflisten
+- `/produktrecht:produktrecht-mandat-arbeitsbereich wechsel <slug>` — aktives Mandat setzen
+- `/produktrecht:produktrecht-mandat-arbeitsbereich schließen <slug>` — Mandat archivieren (nie löschen)
+- `/produktrecht:produktrecht-mandat-arbeitsbereich keine` — Mandatskontext deaktivieren, nur auf Kanzleiebene arbeiten
+
+## Rechtlicher Rahmen
+
+### Mandatsgeheimnis und berufsrechtliche Grundlagen
+
+- § 43a Abs. 2 BRAO: Verschwiegenheitspflicht des Rechtsanwalts als Kernpflicht des Berufsrechts; gilt für alle Mandatsinformationen ohne zeitliche Begrenzung
+- § 2 BORA: Konkretisierung der Verschwiegenheitspflicht, Pflicht zur Einweisung von Mitarbeitern
+- § 203 StGB: Verletzung von Privatgeheimnissen — strafrechtliche Sanktion bei unbefugter Weitergabe von Mandatsinformationen
+- § 43a Abs. 4 BRAO: Interessenkollisionsverbot — Mandat-Workspace-Trennung unterstützt die Konfliktprüfung, ersetzt sie jedoch nicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Aufbewahrungspflichten
+
+- § 50 BRAO: Aufbewahrungspflicht für Handakten — grundsätzlich 5 Jahre ab Ende des Mandats; Archivierung ist keine Löschung
+- §§ 257 HGB, 147 AO: Allgemeine Aufbewahrungsfristen für kaufmännische und steuerliche Unterlagen (6–10 Jahre)
+
+## Ablauf
+
+### Schritt 0: Aktivierungsstatus prüfen
+
+`CLAUDE.md` der Kanzlei lesen und `## Mandats-Workspaces` prüfen.
+
+- Wenn `Aktiviert: ✗` → dem Nutzer mitteilen: "Mandats-Workspaces sind deaktiviert — Sie sind als In-house-Praxis mit einem einzigen Mandanten konfiguriert; das Plugin arbeitet automatisch auf Basis des Kanzleikontexts. Wenn Sie tatsächlich mandantenübergreifend tätig sind, führen Sie `/produktrecht:produktrecht-kaltstart-interview --redo` durch und wählen eine externe Kanzlei-Einstellung. Andernfalls benötigen Sie `/mandat-workspace` nicht."
+- Wenn `Aktiviert: ✓` → weiter mit dem angegebenen Unterbefehl.
+
+### Schritt 1: Unterbefehl erkennen und ausführen
+
+Auf das erste Argument (Unterbefehl) reagieren:
+- `neu` → Aufnahmeinterview durchführen, `mandat.md` anlegen
+- `liste` → alle `mandate/*/mandat.md` aufzählen und Tabelle ausgeben
+- `wechsel` → aktives Mandat in der CLAUDE.md aktualisieren
+- `schließen` → Mandat in `_archiviert/` verschieben
+- `keine` → `Aktives Mandat:` auf `keine — nur Kanzleikontext` setzen
+
+### Schritt 2: Aufnahmeinterview (nur bei `neu`)
+
+1. Prüfen, ob der Slug nicht bereits in `mandate/<slug>/` oder `mandate/_archiviert/<slug>/` vorhanden ist. Bei Wiederverwendung anderen Slug wählen lassen.
+2. Interview durchführen:
+   - **Mandant** (vertretene Partei oder interner Unternehmensbereich bei In-house)
+   - **Gegenseite / Beteiligte** (andere Partei — können mehrere sein)
+   - **Mandatstyp** (aus dem Kanzleiprofil; für Produktrecht: Produkt-Launch | Feature-Review | Marketingaussagen-Prüfung | Risikoanalyse | Produktbereich dauerhaft | Sonstiges)
+   - **Vertraulichkeitsstufe** (standard | erhöht | Clean-Team — erhöhte Stufe erfordert besondere Vorsicht bei mandatsübergreifenden Einstellungen)
+   - **Kernsachverhalt** (2–5 Sätze: Worum geht es? Wer sind die Beteiligten? Was steht auf dem Spiel?)
+   - **Mandatsspezifische Abweichungen** vom Standardprozess (z. B. "Mandant besteht auf 24 Monaten Haftungsbeschränkung statt 12", "Ton: partnerschaftlich — Gegenseite ist strategischer Partner")
+   - **Zusammenhängende Mandate** (Slugs verbundener Vorgänge)
+3. `mandate/<slug>/mandat.md` mit der unten beschriebenen Vorlage anlegen.
+4. `mandate/<slug>/verlauf.md` mit einem "Eröffnet"-Eintrag anlegen.
+5. Leere `mandate/<slug>/notizen.md` anlegen.
+6. **Nicht automatisch wechseln.** Fragen: "Möchten Sie jetzt zu `<slug>` wechseln? (`/produktrecht:produktrecht-mandat-arbeitsbereich wechsel <slug>`)"
+
+### Schritt 3: Liste ausgeben (nur bei `liste`)
+
+Alle `mandate/*/mandat.md` einlesen. Kurze Titelzeile und Statusfelder extrahieren. Tabelle ausgeben:
+
+| Slug | Mandant | Mandatstyp | Status | Eröffnet | Aktiv |
+|---|---|---|---|---|---|
+
+Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Überschrift "Archiviert" aufführen.
+
+### Schritt 4: Mandat wechseln (nur bei `wechsel`)
+
+1. Prüfen, ob `mandate/<slug>/mandat.md` existiert. Falls nicht, `/produktrecht:produktrecht-mandat-arbeitsbereich neu <slug>` vorschlagen.
+2. Die Zeile `Aktives Mandat:` in der Kanzlei-CLAUDE.md auf `Aktives Mandat: <slug>` aktualisieren.
+3. Zusammenfassung aus `mandat.md` anzeigen, damit der Nutzer das richtige Mandat bestätigen kann.
+
+### Schritt 5: Mandat schließen (nur bei `schließen`)
+
+1. Prüfen, ob `mandate/<slug>/` existiert.
+2. Einen "Geschlossen"-Eintrag mit dem heutigen Datum an `mandate/<slug>/verlauf.md` anhängen.
+3. `mandate/<slug>/` nach `mandate/_archiviert/<slug>/` verschieben (§ 50 BRAO: Aufbewahrungspflicht beachten — nie löschen).
+4. Wenn das geschlossene Mandat das aktive Mandat war: `Aktives Mandat:` auf `keine — nur Kanzleikontext` setzen.
+
+### Schritt 6: Mandatskontext deaktivieren (nur bei `keine`)
+
+`Aktives Mandat:` in der Kanzlei-CLAUDE.md auf `keine — nur Kanzleikontext` setzen. Dem Nutzer bestätigen.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+**Kernnormen:** §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — §§ 1-4 ProdHaftG — §§ 3, 3a UWG
+
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+## Ausgabeformat
+
+### `mandat.md`-Vorlage
+
+```markdown
+# Mandat: [Mandant] — [Kurzbeschreibung]
+
+**Slug:** [slug]
+**Eröffnet:** [JJJJ-MM-TT]
+**Status:** aktiv
+**Vertraulichkeit:** [standard / erhöht / Clean-Team]
+
+---
+
+## Parteien
+
+**Mandant:** [Name]
+**Gegenseite / Beteiligte:** [Name(n)]
+
+## Mandatstyp
+
+[Produkt-Launch | Feature-Review | Marketingaussagen-Prüfung | Risikoanalyse | Produktbereich dauerhaft | Sonstiges — mit einzeiliger Begründung]
+
+## Kernsachverhalt
+
+[2–5 Sätze. Worum geht es? Wer sind die Beteiligten? Was steht auf dem Spiel? Was unterscheidet dieses Mandat vom Standardfall?]
+
+## Mandatsspezifische Abweichungen
+
+*Jede Abweichung vom kanzleiweiten Standard, die nur für dieses Mandat gilt.*
+
+- [z. B. "Haftungsbeschränkung: Mandant besteht auf 24 Monaten statt Kanzleistandard 12 Monate."]
+- [z. B. "Ton: partnerschaftlich — Gegenseite ist strategischer Partner."]
+- [z. B. "Rechtsstand: österreichisches Recht statt deutschem."]
+
+## Zusammenhängende Mandate
+
+- [Slug — einzeilige Begründung der Verbindung]
+
+## Vertraulichkeitshinweise
+
+[Bei erhöhter Vertraulichkeit oder Clean-Team: Begründung. Wer darf Mandatsdateien einsehen? Ist mandatsübergreifender Kontext auch bei globaler Aktivierung zulässig?]
+```
+
+### `verlauf.md`-Starteintrag
+
+```markdown
+# Verlauf: [Mandant] — [Kurzbeschreibung]
+
+Anhängendes Ereignisprotokoll. Neuestes oben.
+
+---
+
+## [JJJJ-MM-TT] — Mandat eröffnet
+
+Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
+[Anfangskontext, der über mandat.md hinausgeht — z. B. "Eröffnet auf Basis des eingehenden PRD-Entwurfs von [Gegenseite]."]
+```
+
+## Beispiel
+
+**Sachverhalt:** Kanzlei betreut drei Produktrechtsmandate gleichzeitig: Hersteller A (Maschinenlauf-Review), Hersteller B (Health-Claims-Prüfung Nahrungsergänzung), Unternehmen C (dauerhafter Produktrechtsberater).
+
+```
+/produktrecht:produktrecht-mandat-arbeitsbereich neu hersteller-a-maschinen-2026
+/produktrecht:produktrecht-mandat-arbeitsbereich neu hersteller-b-health-claims
+/produktrecht:produktrecht-mandat-arbeitsbereich neu unternehmen-c-dauerberatung
+/produktrecht:produktrecht-mandat-arbeitsbereich liste
+/produktrecht:produktrecht-mandat-arbeitsbereich wechsel hersteller-a-maschinen-2026
+```
+
+Nach dem Wechsel zu `hersteller-a-maschinen-2026` liest jede Skill ausschließlich die `mandat.md` dieses Mandats und schreibt Ausgaben in den zugehörigen Ordner. Kontextüberlauf auf `hersteller-b-health-claims` ist ausgeschlossen.
+
+## Risiken und typische Fehler
+
+- **Mandatskontext-Überlauf:** Werden Prüfvermerke für Mandant A mit Informationen aus Mandat B angereichert, liegt ein potenziellerVerstoß gegen § 43a Abs. 2 BRAO und § 203 StGB vor. Der Cross-Mandats-Kontext-Flag darf nur auf explizite Nutzeranfrage aktiviert werden.
+- **Slug-Wiederverwendung:** Ein neuer Slug `acme-launch` nach Archivierung von `_archiviert/acme-launch` erzeugt Verwirrung über welche Version aktiv ist. Die Skill prüft beide Pfade.
+- **Zu frühe Mandatsschließung:** Fristen nach § 50 BRAO (5 Jahre) dürfen nicht durch frühzeitiges Schließen ausgehebelt werden. Schließen archiviert; es löscht nie.
+- **Vergessener Mandatswechsel:** Wenn nach der Arbeit an Mandat A kein expliziter Wechsel erfolgt, arbeitet die nächste Skill weiter im Kontext von Mandat A. Regelmäßig `/mandat-workspace liste` aufrufen, um zu prüfen, welches Mandat aktiv ist.
+- **Keine automatische Interessenkonfliktprüfung:** Diese Skill kann keine Interessenkonflikte i. S. d. § 43a Abs. 4 BRAO feststellen. Das ist Aufgabe des Anwalts. Das Aufnahmeinterview erfasst, was der Nutzer erklärt — nicht was wirklich zutrifft.
+- **Clean-Team-Mandate:** Bei Clean-Team-Vertraulichkeit ist mandatsübergreifender Kontext auch bei globalem `Ein` nicht zulässig. Explizit in der `mandat.md` unter Vertraulichkeitshinweise vermerken.
+
+## Quellenpflicht
+
+- **Berufsrecht:** BRAO-Volltext (gesetze-im-internet.de), BORA, FAO
+- **Aufbewahrung:** § 50 BRAO, ggf. §§ 257 HGB, 147 AO
+- **Rechtsprechung:** amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang — BGH-Entscheidungen zum Mandatsgeheimnis und Interessenkonflikt in der Form `BGH, Urt. v. TT.MM.JJJJ – Az., Fundstelle Rn. X`
+
+Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.
+
+Hinweis: Dieser Skill hält Produktmandate sauber getrennt und stärkt damit die anwaltliche Arbeitsorganisation; Interessenkonflikte bewertet weiterhin der verantwortliche Rechtsanwalt.
+
+
+<!-- AUDIT 27.05.2026 bundle_040
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+-->
 
 ---
 
@@ -1464,142 +1676,6 @@ Hinweis: Dieser Skill hält Produktmandate sauber getrennt und stärkt damit die
 
 <!-- AUDIT 27.05.2026 bundle_040
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->
-
----
-
-## Skill: `preisangaben`
-
-_Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versandkosten, insbesondere die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen. Lädt bei Fragen zu Preisauszeichnung, Rabattaktionen, Sale-Kennzeichnung und Grundpreisangabe im Pro..._
-
-# Preisangaben (PAngV 2022)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
-- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-Das Modell benötigt:
-
-- **Art des Angebots**: Online-Shop, stationärer Handel, Werbeanzeige (Online/Print/Social Media)?
-- **Produkt**: Lebensmittel, Kosmetik, Drogerieartikel, Elektronik, Textilien?
-- **Preisstruktur**: Endpreis inkl. MwSt., Grundpreis (Menge/Gewicht), Versandkosten?
-- **Preisreduktion**: Liegt eine Preissenkung vor? Wie wird sie kommuniziert (Streichpreis, Prozentangabe "-30 %", "Sale")?
-- **Referenzpreis**: Was ist der Referenzpreis für die Streichpreisangabe? Seit wann galt er?
-- **30-Tage-Preishistorie**: Was war der niedrigste Preis in den letzten 30 Tagen vor der Preisreduzierung?
-- **Zielgruppe**: Ausschließlich Verbraucher (B2C) oder auch Unternehmer (B2B)?
-
-## Rechtlicher Rahmen
-
-### Primärnormen
-
-- **§ 3 PAngV (Gesamtpreis)**: Gegenüber Verbrauchern ist stets der Gesamtpreis (einschließlich aller Steuern und Abgaben) anzugeben; eindeutig, leicht erkennbar, gut lesbar oder hörbar.
-- **§ 4 PAngV (Grundpreis)**: Bei Erzeugnissen nach Gewicht, Volumen, Länge oder Fläche ist neben dem Gesamtpreis der Grundpreis pro Mengeneinheit anzugeben; gilt für Lebensmittel, Kosmetika, Waschmittel, Tierfutter u.a. Ausnahmen: § 9 PAngV (Kleinunternehmen, Einzelhandel).
-- **§ 6 PAngV (Versandkosten)**: Versandkosten sind klar anzugeben oder darauf hinzuweisen, dass weitere Kosten anfallen, bevor der Verbraucher seine Bestellung abgibt; kein verstecktes Aufschlagen nach Checkout-Einstieg.
-- **§ 11 PAngV (Streichpreis/Preisreduzierung)**: Bei Ankündigung einer Preisermäßigung muss als Referenzpreis der niedrigste Gesamtpreis verwendet werden, den der Händler in den letzten 30 Tagen vor der Preisreduzierung gegenüber Verbrauchern gefordert hat (Umsetzung Art. 6a Preisangaben-RL, eingefügt durch Omnibus-RL 2019/2161).
-- **§ 5a Abs. 2, 4 UWG**: Vorenthalten wesentlicher Preisangaben als unlautere Handlung; Grundlage für Unterlassungsansprüche, Abmahnungen, einstweiligen Rechtsschutz.
-- **§ 19 PAngV (Bußgeld)**: Verstöße gegen PAngV sind Ordnungswidrigkeiten; Bußgeld bis 25.000 EUR.
-
-### Leitentscheidungen
-
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-**Schritt 1 – Pflicht zur Gesamtpreisangabe prüfen (§ 3 PAngV)**
-- Richtet sich das Angebot an Verbraucher (§ 13 BGB)?
-- Gesamtpreis inkl. MwSt. und sämtlicher Pflichtabgaben angeben.
-- Keine "ab"-Preise, wenn kein Produkt tatsächlich zu diesem Preis verfügbar ist.
-
-**Schritt 2 – Grundpreispflicht prüfen (§ 4 PAngV)**
-- Produkt nach Gewicht/Volumen/Länge/Fläche? → Grundpreis pro kg/l/m/m² angeben.
-- Ausnahmen: § 9 PAngV (Kleinunternehmen im stationären Handel), Fertigpackungen < 10 g/ml.
-- Grundpreis darf nicht kleiner als Gesamtpreis dargestellt werden; gleich auffällige Platzierung.
-
-**Schritt 3 – Versandkosten (§ 6 PAngV)**
-- Versandkosten separat ausweisen oder auf Versandkostenfreiheit hinweisen.
-- Bei variablen Kosten (nach Lieferort/Gewicht): spätestens vor Kaufabschluss vollständig ausweisen.
-- Keine Aufdeckung zusätzlicher Kosten erst im Checkout-Prozess (irreführend nach § 5a UWG).
-
-**Schritt 4 – Streichpreisangabe und 30-Tage-Regel (§ 11 PAngV)**
-- Liegt eine Preisermäßigung vor (Streichpreis, "-30 %", "Sale", "Angebot")?
-- Ermittlung des Niedrigstpreises der letzten 30 Tage: niedrigster Gesamtpreis (inkl. aller vorherigen Aktionspreise) im 30-Tage-Fenster vor Beginn der aktuellen Preisreduzierung.
-- Dieser Niedrigstpreis = einzig zulässiger Referenzpreis für die Streichpreisdarstellung.
-- Bei rollierenden Aktionen (Preis sinkt schrittweise): Niedrigstpreis entsprechend aktualisieren.
-- Bei neuen Produkten (< 30 Tage am Markt): § 11 PAngV gilt ab ersten Preissenkung; Referenzpreis ist der Einführungspreis.
-
-**Schritt 5 – UWG-Risikobewertung**
-- PAngV ist Marktverhaltensregel i.S.d. § 3a UWG; jeder Verstoß ist per se abmahnfähig.
-- Abmahner: Mitbewerber (§ 8 Abs. 3 Nr. 1 UWG), Verbände (§ 8 Abs. 3 Nr. 2 UWG), Verbraucherzentralen.
-- Streitwerte bei Streichpreisfehlern: regelmäßig 10.000–30.000 EUR.
-- Wiederholungsgefahr nach Abmahnung: strafbewehrte Unterlassungserklärung oder gerichtliche Unterlassung.
-
-**Schritt 6 – Dokumentation**
-- 30-Tage-Preishistorie für alle Produkte mit Aktionen intern dokumentieren und archivieren (Beweislast im UWG-Prozess beim Händler).
-
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen (Paragrafenkette)
-
-§§ 1-4 PAngV (Preisangaben, Gesamtpreis, Grundpreis) — § 11 PAngV (30-Tage-Niedrigstpreisregel) — §§ 3, 5 UWG (Irreführende Werbung, Preisgestaltung) — Art. 6a RL 98/6/EG i.d.F. Omnibus-RL 2019/2161 (Preisreduzierungen)
-
-## Ausgabeformat
-
-- **Preisauszeichnungs-Checkliste** (Tabelle): § 3 / § 4 / § 6 / § 11 PAngV × Anforderung × Status × Handlungsbedarf.
-- **Streichpreis-Prüfmemo**: Referenzpreisermittlung mit 30-Tage-Analyse, rechtliche Bewertung.
-- **Muster-Preisauszeichnung**: Formatbeispiel für Online-Shop (Gesamtpreis + Grundpreis + Versandkostenhinweis + Streichpreis korrekt).
-
-## Beispiel
-
-**Sachverhalt**: Online-Händler H bewirbt Olivenöl (1 l) mit "UVP 12,99 € jetzt 8,99 €". Der niedrigste Preis der letzten 30 Tage vor der Aktion war 9,49 € (kurze Aktionswoche). H gibt als Streichpreis 12,99 € an.
-
-**Gutachtenstil**:
-
-*Gesamtpreis (§ 3 PAngV)*: 8,99 € inkl. MwSt. korrekt angegeben; Gesamtpreispflicht erfüllt.
-
-*Grundpreis (§ 4 PAngV)*: Olivenöl ist ein Lebensmittel nach Volumen; Grundpreis pro Liter = 8,99 €/l muss neben dem Gesamtpreis angegeben werden. Fehlt im Sachverhalt; Verstoß gegen § 4 PAngV.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-*Rechtsfolge*: Verstoß gegen § 11 PAngV begründet Abmahnrisiko nach § 3a UWG (Sosnitza, in: Ohly/Sosnitza, UWG, 8. Aufl. 2023, PAngV Vorbem. Rn. 18); Bußgeld nach § 19 PAngV bis 25.000 EUR.
-
-## Risiken und typische Fehler
-
-- **UVP als Streichpreis**: UVP des Herstellers ist kein zulässiger Alleinreferenzpreis nach § 11 PAngV; nur zulässig als zusätzliche Information, wenn der 30-Tage-Niedrigstpreis daneben angegeben wird.
-- **Rollierend sinkende Preise**: Bei schrittweise absinkenden Preisen (Black-Friday-Countdown) muss der Referenzpreis täglich angepasst werden – der jeweils niedrigste der letzten 30 Tage.
-- **Grundpreis vergessen**: Häufig bei Haushalts- und Drogerieprodukten; Fehlen des Grundpreises ist eigenständiger PAngV-Verstoß.
-- **Versandkosten im Checkout**: Erst nach Eingabe der Adresse sichtbare Versandkosten verstoßen gegen § 6 PAngV.
-- **B2B-Ausnahme zu schnell**: PAngV gilt nur gegenüber Verbrauchern (§ 1 Abs. 1 PAngV); bei gemischtem B2C/B2B-Shop: PAngV-Anforderungen für alle Produkte, die auch Verbrauchern angeboten werden.
-- **Dokumentationspflicht unterschätzt**: Im UWG-Abmahnverfahren trägt der Händler die Darlegungs- und Beweislast für die Preishistorie; fehlende interne Preisaufzeichnungen sind prozessual riskant.
-
-## Quellenpflicht
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur task_198 (3 Probleme):
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Naehrwertdeklaration/LMIV, nicht PAngV/Streichpreise — kein passender Ersatz.
-1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Preisangabenrechtliche Entscheidungen nur mit Gericht, Datum, Aktenzeichen
- und freier/amtlicher Quelle in die Ausgabe übernehmen.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- explizites AZ-Zitat vorhanden; AZ existiert (BGH 25.03.2021), betrifft aber
- Nutzungsentgelt für bargeldlose Zahlungen (§ 270a BGB) — falsches Thema;
- kein Handlungsbedarf im Text, da AZ dort nicht vorkommt.
 -->
 
 ---

@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 125 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-familienrecht`.
+Dieser Megaprompt enthaelt top-8 von 154 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-familienrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Anwalts-Dashboard Fachanwalt Familienrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, …
 2. **mandat-triage-familienrecht** — Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgung…
-3. **orientierung-fristen-form-und-zustaendigkeit** — Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BG…
-4. **orientierung-mandat-fachanwaltschaft** — Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblick…
-5. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstel…
-6. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/…
-7. **unterlagen-luecken** — Lücken- und Beschaffungsliste für Fachanwalt Familienrecht: trennt fehlende Tatsachen von fehlenden Belegen (Heiratsurku…
-8. **dokumente-intake** — Dokumentenintake für Fachanwalt Familienrecht: sortiert Heiratsurkunde, Scheidungsantrag, Vermögensauseinandersetzung, p…
+3. **fachanwalt-familienrecht-orientierung** — Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblic…
+4. **orientierung-fristen-form-und-zustaendigkeit** — Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BG…
+5. **orientierung-mandat-fachanwaltschaft** — Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblick…
+6. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstel…
+7. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/…
+8. **fachanwalt-familienrecht-zugewinnausgleich-berechnen** — Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endver…
 
 ---
 
@@ -236,6 +236,89 @@ Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 - BGH XII. Zivilsenat
 - Wendl/Dose
 - Schwab Familienrecht
+
+---
+
+## Skill: `fachanwalt-familienrecht-orientierung`
+
+_Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Spezialskills._
+
+# Fachanwalt für Familienrecht — Orientierung
+
+## Aktuelle Rechtsprechung (Orientierung Familienrecht, Stand 05/2026)
+
+Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen zwingend:
+
+- BGH, Beschluss vom 22.01.2025 - XII ZB 148/24 (Elternunterhalt; Selbstbehalt verheirateter Unterhaltspflichtiger)
+- BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23 (Begründungsanforderungen bei mehrjährigem Umgangsausschluss)
+- BVerfG, Beschluss vom 28.08.2025 - 1 BvR 1473/25 (Sorgerecht im einstweiligen Anordnungsverfahren; PAS)
+- BVerfG, Beschluss vom 09.04.2025 - 1 BvR 1618/24 (internationale Zuständigkeit nach KSÜ, Sorgerechtswirkungen)
+- Düsseldorfer Tabelle 2026 (in Kraft seit 01.01.2026, OLG Düsseldorf, Pressemitteilung 01.12.2025; Mindestunterhalt nach 7. MUVÄndV vom 15.11.2024, BGBl. 2024 I Nr. 359)
+
+Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org, openjur.de verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## FAO-Voraussetzungen (§ 5 Abs. 1 FAO)
+
+- **Theoretischer Lehrgang** 120 Stunden (§ 4 FAO).
+- **Drei Klausuren** zum Familienrecht (§ 4a FAO).
+- **120 Fälle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Fälle (§ 5 FAO).
+- **Anmeldung** bei der Rechtsanwaltskammer.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| BGB Familienrecht | §§ 1297 ff. BGB (Ehe Scheidung) §§ 1601 ff. BGB (Unterhalt) §§ 1626 ff. BGB (Elterliche Sorge) §§ 1684 ff. BGB (Umgangsrecht) §§ 1740 ff. BGB (Adoption) §§ 1773 ff. BGB (Vormundschaft) |
+| Verfahrensrecht | FamFG §§ 111 ff. (Familiensachen) § 137 FamFG (Scheidungsverbund) §§ 151 ff. FamFG (Kindschaftssachen) |
+| Versorgungsausgleich | VersAusglG |
+| Lebenspartnerschaft | LPartG |
+| Gerichtsverfassung | § 23a GVG (Familiengericht beim AG) § 23b GVG |
+| EU- und Völkerrecht | Brüssel IIb-VO (EU) 2019/1111 |
+
+## Typische Mandate
+
+- Scheidung im Verbund (Scheidung + Versorgungsausgleich + Folgesachen)
+- Sorgerechtsverfahren bei getrennt lebenden Eltern
+- Umgangsrechtsstreit
+- Kindesunterhalt nach Düsseldorfer Tabelle
+- Ehegattenunterhalt (Trennungs- und nachehelicher Unterhalt)
+- Zugewinnausgleich
+- Ehevertrag und Scheidungsfolgenvereinbarung
+- Gewaltschutz nach GewSchG
+
+## Wichtige Fristen
+
+- **Beschwerde** § 63 FamFG — ein Monat.
+- **Sofortige Beschwerde** § 64 FamFG — zwei Wochen.
+- **Wiedereinsetzung** § 17 FamFG.
+- **Versorgungsausgleichs-Anträge** parallel zum Scheidungsverfahren.
+- **Anfechtungsfristen** Vaterschaft § 1600b BGB — zwei Jahre ab Kenntnis.
+
+## Hauptgericht
+
+- **Familiengericht** beim Amtsgericht (§ 23a Abs. 1 Nr. 1 GVG).
+- **OLG-Familiensenat** als Beschwerdegericht (§ 119 GVG).
+- **BGH XII. Zivilsenat** in Familiensachen.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- Deutscher Anwaltverein DAV Arbeitsgemeinschaft Familienrecht.
+- Deutsche Gesellschaft für Familienrecht.
+
+## Schnittstellen zu anderen Plugins
+
+- **kanzlei-allgemein** für Fristenbuch Timesheet Versand-Vor-Check.
+- **methodenlehre-buergerliches-recht** und **zitierweise-deutsches-recht** als Hausstandards.
+
+## Hinweis
+
+Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert die Expertise des Fachanwalts für Familienrecht.
 
 ---
 
@@ -626,105 +709,95 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `unterlagen-luecken`
+## Skill: `fachanwalt-familienrecht-zugewinnausgleich-berechnen`
 
-_Lücken- und Beschaffungsliste für Fachanwalt Familienrecht: trennt fehlende Tatsachen von fehlenden Belegen (Heiratsurkunde, Scheidungsantrag, Vermögensauseinandersetzung), nennt pro Lücke Beweisthema, Beschaffungsweg (Familiengericht (AG)), Frist und Ersatznachweis._
+_Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endvermögen. Normen: § 1373 BGB (Zugewinn), § 1374 BGB (Anfangsvermögen inkl. Privilegierungen Abs. 2), § 1376 BGB (Bewertungsstichtag Endvermögen), § 1379 BGB (Auskunftsanspruch), § 254 ZPO (Stufenklage). Prüfraster: Anfangsvermögen/Endvermögen, Erbschaft-/Schenkungsprivileg, negatives Anfangsvermögen seit 2009, Verfuegungsbeschraenkungen § 1365 BGB, Verjährung 3 Jahre. Output Berechnungs-Schema, Auskunftsstufe. Abgrenzung: Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich; Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen._
 
-# Unterlagen und Lücken
+# Zugewinnausgleich berechnen
 
-## Einsatzlage
+## Aktuelle Rechtsprechung
 
-Diese Unterlagenprüfung für **Fachanwalt Familienrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Fachlandkarte dieses Plugins
+## Quellenregel
 
-- `anpassung-wegen-unterhalt-33-ff-versausglg` — Anpassung Wegen Anwartschaft Dynamisch
-- `anrechte-dokumentenintake` — Anrechte Dokumentenintake
-- `beamtenrechtliche-kuerzung-und-rueckausnahme` — Beamtenrechtliche Kuerzung Beamtenversorgung
-- `ehegattenrecht-internationales-art-13-egbgb` — Ehegattenrecht Internationales ART 13 Egbgb
-- `ehevertrag-sittenwidrigkeit-bgh-xii-zr-129-04` — Ehevertrag Sittenwidrigkeit BGH XII ZR 129 04
-- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme EU
-- `workflow-fristen-und-risikoampel` — FA Familienrecht Fristen Risiko Mandant
-- `kindeswohlgefaehrdung-eilantrag` — Fachanwalt Familienrecht
-- `famfg-quellenkarte` — Famfg Quellenkarte
-- `familiengericht-verhandlung-vergleich-und-eskalation` — Familiengericht Familienrecht
-- `famr-mandantenaufnahme-spezial` — Famr Mandantenaufnahme Regenbogenfamilien
-- `allgemein-familienrecht-normenradar` — Famr Trennungsfolgen
-- `geringfuegigkeit-18-versausglg` — Geringfuegigkeit Versausglg Gesetzliche
-- `dokumente-intake` — Dokumente Intake
-- `einstieg-routing` — Einstieg Routing
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Kaltstart-Rückfragen
 
-## Arbeitsweg
+1. Wann wurde die Ehe geschlossen, wann wurde Trennung erklärt, wann Zustellung des Scheidungsantrags (Stichtag § 1384 BGB für Endvermögen)?
+2. Welchen Güterstand hatten die Eheleute — gesetzlicher Güterstand der Zugewinngemeinschaft oder ehevertraglich modifiziert?
+3. Welches Vermögen hatte jeder Ehegatte bei Eheschließung (Anfangsvermögen § 1374 BGB) — Belege, Bewertungen?
+4. Welches Vermögen besteht zum Stichtag (Konten, Immobilien, Unternehmen, Lebensversicherungen, Kfz, Schulden)?
+5. Gab es Erbschaften, Schenkungen, Schmerzensgeld während der Ehe? Diese sind privilegiert (§ 1374 Abs. 2 BGB) und werden dem Anfangsvermögen hinzugerechnet.
 
-- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Fachanwalt Familienrecht-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
-- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
-- Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
-- Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
-- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
+## Anspruchsgrundlagen und Berechnung
 
-## Qualitätsanker
+- Gesetzlicher Güterstand: Zugewinngemeinschaft (§ 1363 BGB), Vermögensmassen bleiben getrennt, Ausgleich erst bei Beendigung.
+- Beendigung durch Tod, Scheidung oder Vereinbarung; Ausgleichsforderung als Geldanspruch (§ 1378 Abs. 1 BGB).
+- Anfangsvermögen (§ 1374 BGB) = Aktiva − Passiva bei Eheschließung; Erbschaften, Schenkungen, Ausstattung nach § 1374 Abs. 2 BGB werden hinzugerechnet (privilegierter Erwerb).
+- Endvermögen (§ 1375 BGB) = Aktiva − Passiva am Stichtag § 1384 BGB (Rechtshängigkeit des Scheidungsantrags). Illoyale Vermögensminderungen werden hinzugerechnet (§ 1375 Abs. 2 BGB).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Zugewinn = Endvermögen − Anfangsvermögen (nicht negativ — § 1373 BGB).
+- Ausgleichsforderung = (Zugewinn des Höhergewinnenden − Zugewinn des Wenigergewinnenden) ÷ 2 (§ 1378 Abs. 1 BGB).
+- Begrenzung: Ausgleichsforderung wird durch Vermögen des Schuldners am Stichtag begrenzt (§ 1378 Abs. 2 BGB).
+- Auskunftsanspruch zu drei Stichtagen Trennung, Beendigung und ergänzend Anfangsvermögen (§ 1379 BGB seit 2009) — Stufenklage § 254 ZPO.
+- Verjährung Ausgleichsforderung: drei Jahre § 195 BGB ab Kenntnis der Beendigung des Güterstands (§ 199 BGB).
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
----
+## Beweislast
 
-## Skill: `dokumente-intake`
+- Jeder Ehegatte trägt Beweislast für sein Anfangsvermögen und für anspruchsmindernde Tatsachen.
+- Vermutung gegen Anfangsvermögen widerlegbar (§ 1377 Abs. 3 BGB): Wenn kein Verzeichnis erstellt wurde gilt das Endvermögen als Zugewinn — Vermutung kann widerlegt werden.
+- Illoyale Vermögensminderungen § 1375 Abs. 2 BGB: Beweislast trägt der Ausgleichsberechtigte (Schenkung ohne Anstandspflicht, Vermögensvergeudung, Benachteiligung).
 
-_Dokumentenintake für Fachanwalt Familienrecht: sortiert Heiratsurkunde, Scheidungsantrag, Vermögensauseinandersetzung, prüft Datum, Absender, Frist und Beweiswert (Einkommensnachweise, Vermögensauskunft); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO._
+## Berechnungsschema
 
-# Dokumentenintake
+```
+                              Ehegatte A     Ehegatte B
+Endvermoegen (Stichtag § 1384)   X1            X2
++ illoyale Minderungen § 1375    +a1           +a2
+- Schulden                       -b1           -b2
+= Endvermoegen bereinigt         E_A           E_B
 
-## Aktenstart statt Formularstart
+Anfangsvermoegen indexiert       Y1            Y2
++ privilegierter Erwerb § 1374   +p1           +p2
+= Anfangsvermoegen bereinigt     A_A           A_B
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Familienrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Zugewinn = max(E - A; 0)         Z_A           Z_B
 
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
+Ausgleichsforderung = (Z_max - Z_min) / 2
+Schuldner ist der Ehegatte mit groesserem Zugewinn
 ```
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+## Schreibvorlage Auskunftsanforderung § 1379 BGB
 
-## Einsatzlage
+```
+Sehr geehrte Frau Kollegin sehr geehrter Herr Kollege
 
-Dieser Dokumenten-Intake für **Fachanwalt Familienrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
+namens und in Vollmacht unserer Mandantin fordern wir Ihren Mandanten
+auf binnen vier Wochen Auskunft ueber sein Vermoegen § 1379 BGB zu
+erteilen und zwar zu folgenden Stichtagen
+1. Trennung [Datum]
+2. Anfangsvermoegen Eheschliessung [Datum]
+3. Endvermoegen Rechtshaengigkeit Scheidungsantrag [Datum]
 
-## Fachlandkarte dieses Plugins
+Die Auskunft hat saemtliche Aktiva und Passiva mit Belegen zu
+enthalten Konten Immobilien Beteiligungen Lebensversicherungen
+Kfz Schmuck Kunst. Auf Verlangen ist eidesstattliche Versicherung
+nach § 260 Abs. 2 BGB abzugeben.
 
-- `anpassung-wegen-unterhalt-33-ff-versausglg` — Anpassung Wegen Anwartschaft Dynamisch
-- `anrechte-dokumentenintake` — Anrechte Dokumentenintake
-- `beamtenrechtliche-kuerzung-und-rueckausnahme` — Beamtenrechtliche Kuerzung Beamtenversorgung
-- `ehegattenrecht-internationales-art-13-egbgb` — Ehegattenrecht Internationales ART 13 Egbgb
-- `ehevertrag-sittenwidrigkeit-bgh-xii-zr-129-04` — Ehevertrag Sittenwidrigkeit BGH XII ZR 129 04
-- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme EU
-- `workflow-fristen-und-risikoampel` — FA Familienrecht Fristen Risiko Mandant
-- `kindeswohlgefaehrdung-eilantrag` — Fachanwalt Familienrecht
-- `famfg-quellenkarte` — Famfg Quellenkarte
-- `familiengericht-verhandlung-vergleich-und-eskalation` — Familiengericht Familienrecht
-- `famr-mandantenaufnahme-spezial` — Famr Mandantenaufnahme Regenbogenfamilien
-- `allgemein-familienrecht-normenradar` — Famr Trennungsfolgen
-- `geringfuegigkeit-18-versausglg` — Geringfuegigkeit Versausglg Gesetzliche
-- `einstieg-routing` — Einstieg Routing
-- `output-waehlen` — Output Waehlen
+Andernfalls werden wir Stufenklage § 254 ZPO erheben.
 
-## Arbeitsweg
+Mit kollegialen Gruessen
+```
 
-- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
-- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Fachanwalt Familienrecht-Frage.
-- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
-- Tragende Normen vorläufig zuordnen: FamFG — Endfeststellung erst nach Live-Check.
-- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
+## Übergabe
 
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+- Bei Verweigerung: Stufenklage Auskunft + eidesstattliche Versicherung + Zahlung beim Familiengericht (Gueterrechtssache § 261 FamFG; Zuständigkeit § 262 FamFG i.V.m. §§ 23a, 23b GVG).
+- Bei Auslandsvermögen Auskunftsanspruch erstreckt sich auch auf ausländisches Vermögen.
+- Bei Unternehmenswerten Sachverständigengutachten zur Bewertung notwendig — Kosten regelmäßig vorzustrecken.
+- Anschluss: Skill `fachanwalt-familienrecht-scheidungsantrag-stellen` bei Verbund nach § 137 FamFG.
 
 ---
 

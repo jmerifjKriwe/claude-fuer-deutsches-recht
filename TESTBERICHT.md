@@ -1,9 +1,9 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-14
-**Arbeitsstand:** v321.0.0 / Megaprompt- und Testakten-Sanity über v318 — Megaprompt-Generator repo-relativ gehärtet, 213 Megaprompts neu erzeugt, Testakten-Gesamt-PDFs und Testakten-Release-ZIPs erneut validiert. 213 Plugins, 20.835 Skills, 204 Testakten.
+**Arbeitsstand:** v322.0.0 / Salvage des alten lokalen Haupt-Worktrees — 4.801 zusaetzliche Skill-Ordner uebernommen, 145 bestehende Skill-Bodies boilerplateaermer ersetzt, Generatoren neu erzeugt. 213 Plugins, 25641 Skills, 204 Testakten.
 **Plugins gesamt:** 213
-**Skills gesamt:** 20835
+**Skills gesamt:** 25641
 **Testakten gesamt:** 204 (zzgl. 2 Hilfsmaterial-Verzeichnisse: `formatvorlagen-paradebeispiele`, `megaprompts`)
 
 ## Kurzbefund
@@ -17,7 +17,7 @@ Alle Übersichten, Sofort-Download-Sektionen und Release-Assets sind synchron: P
 | Kennzahl | Wert |
 |---|---:|
 | Plugin-Manifests | 213 |
-| Skill-Dateien `SKILL.md` | 20835 |
+| Skill-Dateien `SKILL.md` | 25641 |
 | Testakten-Verzeichnisse | 204 |
 | Testakten mit Gesamt-PDF nach Validator | 204 |
 | Skills im `verhaeltnismaessigkeitspruefer` | 85 |

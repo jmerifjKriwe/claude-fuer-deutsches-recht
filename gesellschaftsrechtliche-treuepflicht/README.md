@@ -40,7 +40,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -134,6 +134,7 @@ Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschrei
 | `treuepflicht-in-der-liquidation` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht In Der Liquidation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `treuepflicht-ip-und-corporate-opportunity` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht IP Und Corporate Opportunity; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `treuepflicht-ki-und-datenzugriff` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht KI Und Datenzugriff; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
+| `treuepflicht-memo` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Memo; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `treuepflicht-router` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Router; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `treuepflicht-satzungsaenderung` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Satzungsaenderung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `treuepflicht-stimmrechtsvollmacht` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Stimmrechtsvollmacht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |

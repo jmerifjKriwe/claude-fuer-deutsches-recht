@@ -49,4 +49,3 @@ Im Rahmen des Ransomware-Angriffs wurden personenbezogene Gesundheitsdaten mögl
 ## V. Nachfolgeprüfung durch LDI NRW
 
 Die LDI NRW hat das Verfahren nach sechsmonatiger Prüfung ohne Bußgeld eingestellt (Bescheid vom 18.05.2023). Begründung: Die Sicherheitslücke war durch den externen IT-Dienstleister verursacht worden, der keine regelmäßigen Backups konfiguriert hatte. Frau Vogelweide trifft an der technischen Schwachstelle kein Verschulden; sie hatte Datensicherungsmaßnahmen mehrfach beim Dienstleister angefragt (E-Mails Oktober und August 2022, vgl. eml/).
-

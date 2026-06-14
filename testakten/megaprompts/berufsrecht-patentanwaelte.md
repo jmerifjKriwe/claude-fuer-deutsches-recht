@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 197 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-patentanwaelte`.
+Dieser Megaprompt enthaelt top-8 von 204 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-patentanwaelte`.
 
 ## Inhaltsverzeichnis
 

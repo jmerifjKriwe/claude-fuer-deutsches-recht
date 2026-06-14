@@ -237,7 +237,7 @@ Eine Arbeit, die die Lehrkraft beeindruckt, **gerade weil Du gegen sie argumenti
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -284,6 +284,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `seminararbeit-modus` | Student schreibt Seminararbeit mit persönlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissens... |
 | `seminararbeiten-dokumentenmatrix-und-lueckenliste` | Seminararbeiten: Dokumentenmatrix, Lückenliste und Nachforderung im Hausarbeitenmacher. |
 | `sokratisch-behoerden-gericht-und-registerweg` | Sokratisch: Behörden-, Gerichts- oder Registerweg im Hausarbeitenmacher. |
+| `spezial-durch-schriftsatz-brief-und-memo-bausteine` | Durch: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `spezial-oeffentliches-livequellen-und-rechtsprechungscheck` | Oeffentliches: Livequellen- und Rechtsprechungscheck. |
+| `spezial-strategie-red-team-und-qualitaetskontrolle` | Strategie: Red-Team und Qualitätskontrolle. |
 | `strafrecht-tatbestand-rechtswidrigkeit-schuld` | Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Rücktritt § 24 StGB K... |
 | `strafrecht-zivilrecht-rechtswidrigkeit` | Strafrecht: Zahlen, Schwellenwerte und Berechnung im Hausarbeitenmacher. |
 | `strategie-fehlerkatalog` | Strategie Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
@@ -291,7 +294,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Jura-Hausarbeiten: trennt fehlende Tatsachen von fehlenden Belegen (Sachverhalt, Literaturverzeichnis, Gliederung), nennt pro Lücke Beweisthema, Beschaffungsweg (Universitäre Prüfungsämter), Frist und Er... |
 | `verfassungsrecht-grundrechtspruefung` | Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schr... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Hausarbeitenmacher. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Hausarbeitenmacher. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zitierweise-jura-fundstellen` | Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student... |
 | `zivilrecht-anspruchsgrundlagen-pruefung` | Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung: Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag... |
 | `zivilrecht-verhandlung-vergleich-und-eskalation` | Zivilrecht: Verhandlung, Vergleich und Eskalation im Hausarbeitenmacher. |

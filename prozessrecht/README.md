@@ -112,7 +112,7 @@ Alle Ausgaben des Plugins sind **Entwürfe zur anwaltlichen Prüfung**. Das Plug
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -152,11 +152,14 @@ Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschrei
 | `proz-prozessfinanzierung-spezial` | Spezialfall Prozessfinanzierung: Anbieter, Quotenmodelle, RDG-Implikationen, Berufsrecht. Prüfraster für Mandant und Anwalt im Prozessrecht. |
 | `proz-quellenkarte` | Proz Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `proz-zustaendigkeit-bauleiter` | Bauleiter Zuständigkeit ZPO: sachlich, oertlich, funktionell, internationale Zuständigkeit. Prüfraster typische Klagearten im Prozessrecht. |
+| `prozessmandat-dokumente-fristen-aufgaben-workspace` | Digitaler Arbeitsbereich für Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Prüfraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output: Mandats-Arbeitsbereich-Struktur. Abgrenzung: n... |
 | `prozessrecht-verhandlung-vergleich-und-eskalation` | Prozessrecht: Verhandlung, Vergleich und Eskalation im Prozessrecht. |
 | `prozessrechtliche-schriftsaetze-status` | Prozessrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Prozessrecht. |
 | `quellen-livecheck` | Quellen-Live-Check für Prozessrecht (ZPO/VwGO/StPO/SGG): prüft Normen (ZPO, VwGO, StPO, SGG, FGO, FamFG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Erste Instanz / Rechtsmittelgerichte und Quellenhygiene nach... |
 | `schriftsaetze-schriftsatz-brief-und-memo-bausteine` | Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine im Prozessrecht. |
 | `schriftsatz-abschnitt` | Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begründung, Beweisangebot nach ZPO-Schema. Normen: §§ 253 313 ZPO. Prüfraster: Schluessigskeit, Beweisangebot, Normzitat. Output: Schriftsatz-Abschnitt für Einbau in Klagesch... |
+| `spezial-proz-livequellen-und-rechtsprechungscheck` | Proz: Livequellen- und Rechtsprechungscheck. |
+| `spezial-zustaendigkeit-zahlen-schwellen-und-berechnung` | Zustaendigkeit: Zahlen, Schwellenwerte und Berechnung. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Prozessrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-U... |
 | `status-internationaler-bezug-und-schnittstellen` | Status: Internationaler Bezug und Schnittstellen im Prozessrecht. |
 | `stpo-biometrischer-internetabgleich-und-ki-ermittlung` | StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometrischer Internetabgleich, § 98e StPO-E Analyseplattform, § 101 StPO-E Benachrichtigung, §§ 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte,... |
@@ -171,6 +174,8 @@ Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschrei
 | `vorlageanordnung-zeuge-vorbereitung` | Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: §§ 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnun... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Prozessrecht. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Prozessrecht. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zeuge-vorbereitung` | Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: §§ 373 ff. 383 ff. ZPO. Prüfraster: Zeugnisverweigerungsrecht, Glaubwürdigkeitsfragen, Vernehmungsthemen. Output: Zeugenvorbereitungsprot... |
 | `zustaendigkeit-zahlen-schwellen-und-berechnung` | Zuständigkeit: Zahlen, Schwellenwerte und Berechnung im Prozessrecht. |
 

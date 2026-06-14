@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 62 Skills des Plugins `gewerblicher-rechtsschutz`.
+Dieser Megaprompt enthaelt top-10 von 93 Skills des Plugins `gewerblicher-rechtsschutz`.
 
 ## Inhaltsverzeichnis
 
@@ -10,12 +10,12 @@ Dieser Megaprompt enthaelt top-10 von 62 Skills des Plugins `gewerblicher-rechts
 2. **mandat-triage-gewerblicher-rechtsschutz** — Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs…
 3. **gw-einfuehrung-gw-einstweilige-mandat-triage** — Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick über Verfahrensarten, Zuständigkeiten, Han…
 4. **gewerblicher-erstpruefung-und-mandatsziel** — Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenk…
-5. **abmahnung-urheberrecht-erfindungsmeldung** — Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrecht…
-6. **erfindungsmeldung-aufnahme** — Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungs…
-7. **fto-triage-gewerblicher-rechtsschutz-mandat** — Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operat…
-8. **ip-klausel-pruefung** — Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP…
-9. **mandat-arbeitsbereich** — Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwal…
-10. **markenrecherche** — Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Ma…
+5. **spezial-gewerblicher-erstpruefung-und-mandatsziel** — Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fa…
+6. **ip-mandatsworkspace-kontexttrennung** — Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwal…
+7. **abmahnung-urheberrecht-erfindungsmeldung** — Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrecht…
+8. **erfindungsmeldung-aufnahme** — Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungs…
+9. **fto-triage-gewerblicher-rechtsschutz-mandat** — Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operat…
+10. **ip-klausel-pruefung** — Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP…
 
 ---
 
@@ -545,6 +545,278 @@ Nächster Termin: _______________
 - `gewerblicher-rechtsschutz-kaltstart-interview` – Kaltstart-Interview
 - `gw-einfuehrung-rechtsschutzwege` – Überblick Rechtsschutzwege
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
+
+---
+
+## Skill: `spezial-gewerblicher-erstpruefung-und-mandatsziel`
+
+_Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung._
+
+# Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+
+Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Gewerblicher**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Gewerblicher.
+- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
+- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gewerblicher** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
+## Skill: `ip-mandatsworkspace-kontexttrennung`
+
+_Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bestätigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills._
+
+# Mandatsworkspace, Kontexttrennung und Fristensteuerung
+
+## Zweck
+
+Anwälte und Patentanwälte arbeiten gleichzeitig an mehreren Mandaten. Ein Mandatsarbeitsbereich hält den Kontext eines Mandanten oder einer Angelegenheit von jedem anderen getrennt. Diese Skill verwaltet diese Bereiche.
+
+Der Standardzustand ist **deaktiviert**. Syndikusrechtsanwälte und Inhouse-Teams (ein Mandant) arbeiten auf Praxisebene; Mandatsarbeitsbereiche sind für sie unsichtbar. Sie aktivieren sich beim Erstkonfigurationsgespräch für externe Anwälte (Einzel-, Klein- und Großkanzleien) oder durch manuelle Einrichtung.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+## Eingaben
+
+Befehlsargument (erstes Token):
+
+- `neu <kurzzeichen>` — neuen Mandatsarbeitsbereich anlegen
+- `liste` — alle Mandate mit Status und aktivem Mandat anzeigen
+- `wechseln <kurzzeichen>` — aktives Mandat umstellen
+- `schliessen <kurzzeichen>` — Mandat archivieren
+- `kein` — von jedem Mandat trennen, auf Praxisebene arbeiten
+
+## Rechtlicher Rahmen
+
+### Berufsrechtliche Rahmenbedingungen
+
+- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht des Rechtsanwalts; Mandatsgeheimnis; Grundlage der Mandatskontexttrennung
+- **§ 43a Abs. 4 BRAO** — Verbot der Vertretung widerstreitender Interessen (Interessenkonflikt); Mandate müssen getrennt geführt werden
+- **§ 203 Abs. 1 Nr. 3 StGB** — Verletzung von Privatgeheimnissen durch Rechtsanwälte; strafrechtliche Absicherung der Vertraulichkeit
+- **§ 50 BRAO** — Aufbewahrungspflichten für Handakten (mind. 5 Jahre); Archivierung schließt Mandatsarbeitsbereiche nicht; Löschung ist ausgeschlossen
+- **§ 2 BORA** — Berufsrechtliche Pflichten; Grundsatz der anwaltlichen Unabhängigkeit
+
+### Leitentscheidungen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Kommentare
+
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Feuerich/Weyland/Böhnlein, BRAO, 10. Aufl. 2022, § 50 Rn. 1 ff. (Handaktenaufbewahrung)
+
+## Ablauf
+
+### Schritt 1: Vorbedingung prüfen
+
+Praxiskonfigurationsdatei lesen. Falls `Mandatsarbeitsbereiche: ✗` (Standardeinstellung für Inhouse-Teams):
+
+> Mandatsarbeitsbereiche sind deaktiviert — Sie sind als Inhouse-Praxis mit einem Mandanten konfiguriert; das Plugin arbeitet automatisch auf Praxisebene. Wenn Sie tatsächlich über mehrere externe Mandate hinweg arbeiten, führen Sie das Erstkonfigurationsgespräch erneut aus und wählen Sie die Kanzlei-Einstellung. Andernfalls benötigen Sie `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-mandat-arbeitsbereich` nicht.
+
+Kein Fehler — der deaktivierte Zustand ist der erwartete für Inhouse-Nutzer.
+
+### Schritt 2: Befehlsverarbeitung
+
+Auf das erste Token des Arguments dispatchen.
+
+---
+
+#### Befehl `neu <kurzzeichen>`
+
+1. Prüfen, ob das Kurzzeichen nicht bereits in `mandate/<kurzzeichen>/` oder `mandate/_archiv/<kurzzeichen>/` vorhanden ist. Bei Kollision: anderen Namen wählen lassen.
+2. Aufnahmeinterview durchführen (in einem Durchgang):
+   - **Mandant** — vertretene Partei oder interne Geschäftseinheit
+   - **Gegenpartei** — andere Seite (kann mehrere umfassen; kann "unbekannter Drittverletzer" bei Watch-Treffern sein)
+   - **Mandatstyp** — für gewerblichen Rechtsschutz: Markenschutz / Markenverletzung / Schutzrechtsübertragung / Patentverletzung / FTO-Gutachten / IP-Klauselprüfung / OSS-Compliance / Portfolioverwaltung / Störerhaftung / Sonstiges
+   - **Vertraulichkeitsstufe** — standard | erhöht | Clean-Team (erhöht bei besonderer Sensibilität, Clean-Team häufig bei FTO-Gutachten und Patentkäufen)
+   - **Wesentliche Tatsachen** — 2–5 Sätze: Worum geht es, wer sind die Beteiligten, was steht auf dem Spiel
+   - **Mandatsspezifische Abweichungen von der Standardposition** (z. B. "Mandant wünscht nur schriftliche Kommunikation", "Gegenpartei ist Geschäftspartner — maßvoller Ton")
+   - **Verbundene Mandate** — Kurzzeichen zusammenhängender Mandate
+3. `mandate/<kurzzeichen>/mandat.md` mit der unten angegebenen Vorlage schreiben.
+4. `mandate/<kurzzeichen>/verlauf.md` mit einem einzigen Eröffnungseintrag anlegen.
+5. Leere `mandate/<kurzzeichen>/notizen.md` anlegen.
+6. **Nicht** automatisch zum neuen Mandat wechseln. Fragen: "Möchten Sie jetzt zu `<kurzzeichen>` wechseln?"
+
+---
+
+#### Befehl `liste`
+
+`mandate/*/mandat.md` aufzählen. Aus jeder Datei Status und Kurzzeichen entnehmen. Tabelle ausgeben:
+
+| Kurzzeichen | Mandant | Mandatstyp | Status | Eröffnet | Aktiv |
+|---|---|---|---|---|---|
+
+Aktives Mandat mit `*` markieren. `_archiv/*` unter gesonderter Überschrift "Archivierte Mandate" anführen.
+
+---
+
+#### Befehl `wechseln <kurzzeichen>`
+
+1. Prüfen, ob `mandate/<kurzzeichen>/mandat.md` vorhanden. Falls nicht: `neu <kurzzeichen>` anbieten.
+2. `Aktives Mandat:`-Zeile in der Praxiskonfigurationsdatei auf `<kurzzeichen>` aktualisieren.
+3. Dem Nutzer die mandat.md-Zusammenfassung zeigen, damit er das richtige Mandat bestätigen kann.
+
+---
+
+#### Befehl `schliessen <kurzzeichen>`
+
+1. `mandate/<kurzzeichen>/` auf Existenz prüfen.
+2. "Geschlossen"-Eintrag mit aktuellem Datum an `mandate/<kurzzeichen>/verlauf.md` anhängen.
+3. `mandate/<kurzzeichen>/` nach `mandate/_archiv/<kurzzeichen>/` verschieben.
+4. War das geschlossene Mandat das aktive Mandat: `Aktives Mandat:` auf `kein — nur Praxisebene` setzen.
+
+---
+
+#### Befehl `kein`
+
+`Aktives Mandat:` in der Praxiskonfigurationsdatei auf `kein — nur Praxisebene` setzen. Bestätigung an den Nutzer.
+
+## Ausgabeformat
+
+### Vorlage `mandat.md`
+
+```markdown
+[ARBEITSERGEBNIS-KOPFZEILE — gemäß Mandatsprofil]
+
+# Mandat: [Mandant] — [Kurzbeschreibung]
+
+**Kurzzeichen:** [kurzzeichen]
+**Eröffnet:** [JJJJ-MM-TT]
+**Status:** aktiv
+**Vertraulichkeit:** [standard / erhöht / Clean-Team]
+
+---
+
+## Parteien
+
+**Mandant:** [Name]
+**Gegenpartei:** [Name(n)]
+
+## Mandatstyp
+
+[Markenschutz / Markenverletzung / FTO-Gutachten / Patentverletzung / IP-Klauselprüfung / OSS-Compliance / Portfolioverwaltung / Störerhaftung / Sonstiges — mit einzeiliger Begründung]
+
+## Wesentliche Tatsachen
+
+[2–5 Sätze. Worum geht es. Wer sind die Beteiligten. Was steht auf dem Spiel. Was macht dieses Mandat vom Standard abweichend.]
+
+## Mandatsspezifische Abweichungen
+
+*Jede Abweichung von der Praxisstandposition, die nur für dieses Mandat gilt.*
+
+- [z. B. "Durchsetzungsstrategie: hier maßvoll, obwohl Hausstandard aggressiv — Gegenpartei ist wichtiger Handelspartner."]
+- [z. B. "Genehmigung für Abmahnungen: zusätzliche Freigabe durch Mandant erforderlich."]
+- [z. B. "Clean-Team: Mandatsakten auch bei aktiviertem mandatsübergreifendem Kontext nicht lesbar."]
+
+## Verbundene Mandate
+
+- [kurzzeichen — einzeilige Begründung]
+
+## Vertraulichkeitshinweise
+
+[Bei erhöhter oder Clean-Team-Stufe: warum. Wer darf die Mandatsakten einsehen. Ob mandatsübergreifender Kontext zulässig ist.]
+```
+
+### Vorlage `verlauf.md`
+
+```markdown
+# Verlauf: [Mandant] — [Kurzbeschreibung]
+
+Nur-Anhänge-Ereignisprotokoll. Neuestes oben.
+
+---
+
+## [JJJJ-MM-TT] — Mandat eröffnet
+
+Aufnahme abgeschlossen. Kurzzeichen: `[kurzzeichen]`. Status: aktiv.
+[Ggf. initialer Kontext — z. B. "Eröffnet nach Watch-Treffer auf `APEXLEAF` in Klasse 25."]
+```
+
+## Beispiel
+
+**Eingabe:** `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-mandat-arbeitsbereich neu bmw-marke-2026`
+
+**Verarbeitung:**
+Kurzzeichen prüfen → Aufnahmeinterview starten → `mandat.md` erstellen → `verlauf.md` mit Eröffnungseintrag anlegen → Nutzer fragen, ob zum neuen Mandat gewechselt werden soll.
+
+**Ausgabe (Auszug):**
+
+> Mandatsarbeitsbereich `bmw-marke-2026` angelegt.
+>
+> | Kurzzeichen | Mandant | Mandatstyp | Status | Eröffnet |
+> |---|---|---|---|---|
+> | bmw-marke-2026 | BMW AG | Markenschutz | aktiv | 2025-07-15 |
+>
+> Möchten Sie jetzt zu `bmw-marke-2026` wechseln?
+
+## Risiken und typische Fehler
+
+- **Interessenkonflikte nicht erkennen:** Diese Skill führt keine Interessenkonfliktprüfung durch — das ist Aufgabe des Anwalts und der Kanzlei. Die Aufnahme erfasst nur, was der Nutzer angibt.
+- **Archivierung ist keine Löschung:** Geschlossene Mandate bleiben lesbar (§ 50 BRAO — Aufbewahrungspflicht mindestens 5 Jahre). Retention-Policy ist außerhalb des Skill-Umfangs.
+- **Mandatsübergreifender Kontext standardmäßig aus:** Die Praxiskonfiguration hat ein `Mandatsübergreifender Kontext:`-Flag. Standardmäßig `aus` — Skill A im Mandat X liest niemals Dateien aus Mandat Y. Das ist die Vertraulichkeitsgarantie.
+- **Kurzzeichen-Kollision mit Archiv:** Wird ein Kurzzeichen wiederverwendet, das im Archiv liegt, wird das archivierte Mandat unter `_archiv/<kurzzeichen>/` bewahrt; das neue erhält einen anderen Namen.
+
+## Quellenpflicht
+
+Alle Aussagen zu Vertraulichkeit, Aufbewahrung und Interessenkonflikten müssen auf konkreten Normen beruhen:
+
+- **§ 43a BRAO** (Verschwiegenheit), **§ 43a Abs. 4 BRAO** (widerstreitende Interessen), **§ 203 StGB** (Verletzung von Privatgeheimnissen), **§ 50 BRAO** (Handaktenaufbewahrung)
+- Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
+
+## Triage-Fragen bei Mandatseröffnung
+
+Bevor das Mandat angelegt wird, klaere:
+1. Ist ein Interessenkonflikt-Check (§ 43a IV BRAO) durchgefuehrt worden?
+2. Sind die wesentlichen Mandatsdaten vollstaendig (Mandant, Gegner, Rechtsgebiet, Streitgegenstand)?
+3. Wurde der Mandant ueber Honorar und Kostenrisiko aufgeklaert (§ 49b BRAO, § 34 RVG)?
+4. Laeuft bereits eine Frist (z.B. Widerspruchsfrist Marke, Abmahnungsfrist), die sofort ins Fristenbuch muss?
+
+## Aktuelle Rechtsprechung
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+<!-- AUDIT 27.05.2026
+Task: Bundle 031 / Halluzinations-Reparatur
+Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
+-->
 
 ---
 
@@ -1453,363 +1725,6 @@ Bevor die Klauselanalyse beginnt, klaere:
 
 <!-- AUDIT 27.05.2026: 4 halluzinierte Leitentscheidungen geprüft und bereinigt.
 Frontmatter unverändert. Kein Commit. Bearbeiter: Halluzinations-Reparatur-Pipeline. -->
-
----
-
-## Skill: `mandat-arbeitsbereich`
-
-_Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bes..._
-
-# Mandatsarbeitsbereich
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-Befehlsargument (erstes Token):
-
-- `neu <kurzzeichen>` — neuen Mandatsarbeitsbereich anlegen
-- `liste` — alle Mandate mit Status und aktivem Mandat anzeigen
-- `wechseln <kurzzeichen>` — aktives Mandat umstellen
-- `schliessen <kurzzeichen>` — Mandat archivieren
-- `kein` — von jedem Mandat trennen, auf Praxisebene arbeiten
-
-## Rechtlicher Rahmen
-
-### Berufsrechtliche Rahmenbedingungen
-
-- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht des Rechtsanwalts; Mandatsgeheimnis; Grundlage der Mandatskontexttrennung
-- **§ 43a Abs. 4 BRAO** — Verbot der Vertretung widerstreitender Interessen (Interessenkonflikt); Mandate müssen getrennt geführt werden
-- **§ 203 Abs. 1 Nr. 3 StGB** — Verletzung von Privatgeheimnissen durch Rechtsanwälte; strafrechtliche Absicherung der Vertraulichkeit
-- **§ 50 BRAO** — Aufbewahrungspflichten für Handakten (mind. 5 Jahre); Archivierung schließt Mandatsarbeitsbereiche nicht; Löschung ist ausgeschlossen
-- **§ 2 BORA** — Berufsrechtliche Pflichten; Grundsatz der anwaltlichen Unabhängigkeit
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Kommentare
-
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Feuerich/Weyland/Böhnlein, BRAO, 10. Aufl. 2022, § 50 Rn. 1 ff. (Handaktenaufbewahrung)
-
-## Ablauf
-
-### Schritt 1: Vorbedingung prüfen
-
-Praxiskonfigurationsdatei lesen. Falls `Mandatsarbeitsbereiche: ✗` (Standardeinstellung für Inhouse-Teams):
-
-> Mandatsarbeitsbereiche sind deaktiviert — Sie sind als Inhouse-Praxis mit einem Mandanten konfiguriert; das Plugin arbeitet automatisch auf Praxisebene. Wenn Sie tatsächlich über mehrere externe Mandate hinweg arbeiten, führen Sie das Erstkonfigurationsgespräch erneut aus und wählen Sie die Kanzlei-Einstellung. Andernfalls benötigen Sie `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-mandat-arbeitsbereich` nicht.
-
-Kein Fehler — der deaktivierte Zustand ist der erwartete für Inhouse-Nutzer.
-
-### Schritt 2: Befehlsverarbeitung
-
-Auf das erste Token des Arguments dispatchen.
-
----
-
-#### Befehl `neu <kurzzeichen>`
-
-1. Prüfen, ob das Kurzzeichen nicht bereits in `mandate/<kurzzeichen>/` oder `mandate/_archiv/<kurzzeichen>/` vorhanden ist. Bei Kollision: anderen Namen wählen lassen.
-2. Aufnahmeinterview durchführen (in einem Durchgang):
- - **Mandant** — vertretene Partei oder interne Geschäftseinheit
- - **Gegenpartei** — andere Seite (kann mehrere umfassen; kann "unbekannter Drittverletzer" bei Watch-Treffern sein)
- - **Mandatstyp** — für gewerblichen Rechtsschutz: Markenschutz / Markenverletzung / Schutzrechtsübertragung / Patentverletzung / FTO-Gutachten / IP-Klauselprüfung / OSS-Compliance / Portfolioverwaltung / Störerhaftung / Sonstiges
- - **Vertraulichkeitsstufe** — standard | erhöht | Clean-Team (erhöht bei besonderer Sensibilität, Clean-Team häufig bei FTO-Gutachten und Patentkäufen)
- - **Wesentliche Tatsachen** — 2–5 Sätze: Worum geht es, wer sind die Beteiligten, was steht auf dem Spiel
- - **Mandatsspezifische Abweichungen von der Standardposition** (z. B. "Mandant wünscht nur schriftliche Kommunikation", "Gegenpartei ist Geschäftspartner — maßvoller Ton")
- - **Verbundene Mandate** — Kurzzeichen zusammenhängender Mandate
-3. `mandate/<kurzzeichen>/mandat.md` mit der unten angegebenen Vorlage schreiben.
-4. `mandate/<kurzzeichen>/verlauf.md` mit einem einzigen Eröffnungseintrag anlegen.
-5. Leere `mandate/<kurzzeichen>/notizen.md` anlegen.
-6. **Nicht** automatisch zum neuen Mandat wechseln. Fragen: "Möchten Sie jetzt zu `<kurzzeichen>` wechseln?"
-
----
-
-#### Befehl `liste`
-
-`mandate/*/mandat.md` aufzählen. Aus jeder Datei Status und Kurzzeichen entnehmen. Tabelle ausgeben:
-
-| Kurzzeichen | Mandant | Mandatstyp | Status | Eröffnet | Aktiv |
-|---|---|---|---|---|---|
-
-Aktives Mandat mit `*` markieren. `_archiv/*` unter gesonderter Überschrift "Archivierte Mandate" anführen.
-
----
-
-#### Befehl `wechseln <kurzzeichen>`
-
-1. Prüfen, ob `mandate/<kurzzeichen>/mandat.md` vorhanden. Falls nicht: `neu <kurzzeichen>` anbieten.
-2. `Aktives Mandat:`-Zeile in der Praxiskonfigurationsdatei auf `<kurzzeichen>` aktualisieren.
-3. Dem Nutzer die mandat.md-Zusammenfassung zeigen, damit er das richtige Mandat bestätigen kann.
-
----
-
-#### Befehl `schliessen <kurzzeichen>`
-
-1. `mandate/<kurzzeichen>/` auf Existenz prüfen.
-2. "Geschlossen"-Eintrag mit aktuellem Datum an `mandate/<kurzzeichen>/verlauf.md` anhängen.
-3. `mandate/<kurzzeichen>/` nach `mandate/_archiv/<kurzzeichen>/` verschieben.
-4. War das geschlossene Mandat das aktive Mandat: `Aktives Mandat:` auf `kein — nur Praxisebene` setzen.
-
----
-
-#### Befehl `kein`
-
-`Aktives Mandat:` in der Praxiskonfigurationsdatei auf `kein — nur Praxisebene` setzen. Bestätigung an den Nutzer.
-
-## Parteien
-
-**Mandant:** [Name]
-**Gegenpartei:** [Name(n)]
-
-## Mandatstyp
-
-[Markenschutz / Markenverletzung / FTO-Gutachten / Patentverletzung / IP-Klauselprüfung / OSS-Compliance / Portfolioverwaltung / Störerhaftung / Sonstiges — mit einzeiliger Begründung]
-
-## Wesentliche Tatsachen
-
-[2–5 Sätze. Worum geht es. Wer sind die Beteiligten. Was steht auf dem Spiel. Was macht dieses Mandat vom Standard abweichend.]
-
-## Mandatsspezifische Abweichungen
-
-*Jede Abweichung von der Praxisstandposition, die nur für dieses Mandat gilt.*
-
-- [z. B. "Durchsetzungsstrategie: hier maßvoll, obwohl Hausstandard aggressiv — Gegenpartei ist wichtiger Handelspartner."]
-- [z. B. "Genehmigung für Abmahnungen: zusätzliche Freigabe durch Mandant erforderlich."]
-- [z. B. "Clean-Team: Mandatsakten auch bei aktiviertem mandatsübergreifendem Kontext nicht lesbar."]
-
-## Verbundene Mandate
-
-- [kurzzeichen — einzeilige Begründung]
-
-## Vertraulichkeitshinweise
-
-[Bei erhöhter oder Clean-Team-Stufe: warum. Wer darf die Mandatsakten einsehen. Ob mandatsübergreifender Kontext zulässig ist.]
-```
-
-### Vorlage `verlauf.md`
-
-```markdown
-### Verlauf: [Mandant] — [Kurzbeschreibung]
-
-Nur-Anhänge-Ereignisprotokoll. Neuestes oben.
-
----
-
-## [JJJJ-MM-TT] — Mandat eröffnet
-
-Aufnahme abgeschlossen. Kurzzeichen: `[kurzzeichen]`. Status: aktiv.
-[Ggf. initialer Kontext — z. B. "Eröffnet nach Watch-Treffer auf `APEXLEAF` in Klasse 25."]
-```
-
-## Beispiel
-
-**Eingabe:** `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-mandat-arbeitsbereich neu bmw-marke-2026`
-
-**Verarbeitung:**
-Kurzzeichen prüfen → Aufnahmeinterview starten → `mandat.md` erstellen → `verlauf.md` mit Eröffnungseintrag anlegen → Nutzer fragen, ob zum neuen Mandat gewechselt werden soll.
-
-**Ausgabe (Auszug):**
-
-> Mandatsarbeitsbereich `bmw-marke-2026` angelegt.
->
-> | Kurzzeichen | Mandant | Mandatstyp | Status | Eröffnet |
-> |---|---|---|---|---|
-> | bmw-marke-2026 | BMW AG | Markenschutz | aktiv | 2025-07-15 |
->
-> Möchten Sie jetzt zu `bmw-marke-2026` wechseln?
-
-## Risiken und typische Fehler
-
-- **Interessenkonflikte nicht erkennen:** Diese Skill führt keine Interessenkonfliktprüfung durch — das ist Aufgabe des Anwalts und der Kanzlei. Die Aufnahme erfasst nur, was der Nutzer angibt.
-- **Archivierung ist keine Löschung:** Geschlossene Mandate bleiben lesbar (§ 50 BRAO — Aufbewahrungspflicht mindestens 5 Jahre). Retention-Policy ist außerhalb des Skill-Umfangs.
-- **Mandatsübergreifender Kontext standardmäßig aus:** Die Praxiskonfiguration hat ein `Mandatsübergreifender Kontext:`-Flag. Standardmäßig `aus` — Skill A im Mandat X liest niemals Dateien aus Mandat Y. Das ist die Vertraulichkeitsgarantie.
-- **Kurzzeichen-Kollision mit Archiv:** Wird ein Kurzzeichen wiederverwendet, das im Archiv liegt, wird das archivierte Mandat unter `_archiv/<kurzzeichen>/` bewahrt; das neue erhält einen anderen Namen.
-
-## Quellenpflicht
-
-Alle Aussagen zu Vertraulichkeit, Aufbewahrung und Interessenkonflikten müssen auf konkreten Normen beruhen:
-
-- **§ 43a BRAO** (Verschwiegenheit), **§ 43a Abs. 4 BRAO** (widerstreitende Interessen), **§ 203 StGB** (Verletzung von Privatgeheimnissen), **§ 50 BRAO** (Handaktenaufbewahrung)
-- Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
-
-## Triage-Fragen bei Mandatseröffnung
-
-Bevor das Mandat angelegt wird, klaere:
-1. Ist ein Interessenkonflikt-Check (§ 43a IV BRAO) durchgefuehrt worden?
-2. Sind die wesentlichen Mandatsdaten vollstaendig (Mandant, Gegner, Rechtsgebiet, Streitgegenstand)?
-3. Wurde der Mandant über Honorar und Kostenrisiko aufgeklaert (§ 49b BRAO, § 34 RVG)?
-4. Laeuft bereits eine Frist (z.B. Widerspruchsfrist Marke, Abmahnungsfrist), die sofort ins Fristenbuch muss?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-<!-- AUDIT 27.05.2026
-Task: Bundle 031 / Halluzinations-Reparatur
-Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
--->
-
----
-
-## Skill: `markenrecherche`
-
-_Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Prüfraster: Identitäts- und Aehnlichkeitsprüfung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket für anwaltli..._
-
-# Markenrecherche (Clearance)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Zu prüfendes Zeichen (Wort, Bildmarke, kombiniertes Zeichen, Slogan, Farbe, Form)
-- Gewünschte Waren- und Dienstleistungsklassen (Nizza-Klassifikation, 12. Ausgabe)
-- Zielländer / Zieljurisdiktionen (DE, EU/EUTM, international/Madrid)
-- Verwendungskontext und Branche
-- Geplanter Anmeldetag (relevant für Priorität)
-- Ggf. bereits bekannte Voreintragungen
-
-## Ablauf
-
-### 1. Zeichen qualifizieren
-
-Art des Zeichens bestimmen und Schutzfähigkeit vorprüfen:
-
-| Zeichenart | Schutzfähigkeitshinweis |
-|---|---|
-| Wortmarke (Fantasiebegriff) | i. d. R. schutzfähig; Prüfung auf absolute Schutzhindernisse |
-| Wortmarke (beschreibend) | Schutzhindernis § 8 Abs. 2 Nr. 2 MarkenG; Art. 7 Abs. 1 lit. c UMV; Verkehrsdurchsetzung möglich |
-| Bildmarke / Logo | Schutz für bildliche Gestaltung; Wortbestandteile separat prüfen |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-| Dreidimensionale Marke | Funktionale Formen vom Schutz ausgeschlossen (§ 3 Abs. 2 MarkenG) |
-
-Absolute Schutzhindernisse prüfen (§ 8 MarkenG; Art. 7 UMV): Fehlende Unterscheidungskraft, beschreibende Angaben, täuschende Angaben, Gattungsbezeichnungen.
-
-### 2. Datenbankrecherche durchführen
-
-**Pflicht-Datenbanken:**
-
-| Datenbank | URL | Zweck | Jurisdiktion |
-|---|---|---|---|
-| DPMAregister | register.dpma.de | Nationale DE-Marken; Wort-/Bildsuche | Deutschland |
-| EUIPO eSearch+ | euipo.europa.eu/eSearch | Unionsmarken (EUTM); auch ältere IR-Marken mit EU-Wirkung | EU |
-| WIPO Global Brand DB | branddb.wipo.int | Internationale Registrierungen (Madrid-System); Protokollmarken | International |
-
-**Ergänzende Recherche:**
-- Gemeinsame Datenbank EPA/DPMA (für Gemeinschaftsmarken mit nationaler Wirkung)
-- Handelsregister (Unternehmensbezeichnungen als relative Schutzhindernisse)
-- Domainregistrierungen (nicht Markenrecht, aber Abmahn- und Verwechslungsrisiko)
-- Unregistrierte Kennzeichen / bekannte Marken (§ 4 Nr. 3 MarkenG)
-
-**Suchstrategie:**
-1. **Identitätssuche:** exaktes Zeichen suchen
-2. **Phonetische Ähnlichkeit:** Klangähnliche Schreibweisen (z. B. APEXBLATT / APEX BLATT / APEXBLAT)
-3. **Visuelle Ähnlichkeit:** Bei Bildmarken ähnliche Gestaltungen
-4. **Konzeptionelle Ähnlichkeit:** Sinnverwandte Begriffe (z. B. BLATT / LEAF)
-5. **Klassenschwerpunkt:** Identische und benachbarte Klassen
-
-### 3. Kollidierende Zeichen analysieren – Verwechslungsfaktoren
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**Faktoren der Verwechslungsgefahr (§ 9 Abs. 1 Nr. 2 MarkenG; Art. 8 Abs. 1 lit. b UMV):**
-
-| Faktor | Erhöht Verwechslungsgefahr | Verringert Verwechslungsgefahr |
-|---|---|---|
-| Zeichenähnlichkeit | Klang, Schriftbild oder Bedeutung ähnlich | Deutliche Unterschiede in allen Ebenen |
-| Waren-/Dienstleistungsähnlichkeit | Identische oder eng verwandte Klassen | Unterschiedliche Branchen/Zielgruppen |
-| Kennzeichnungskraft | Starke inhärente oder erworbene Unterscheidungskraft | Schwache, beschreibende Marke |
-| Verkehrskreis | Allgemeinheit, geringere Aufmerksamkeit | Fachkreise, hohe Aufmerksamkeit |
-| Aufmerksamkeitsgrad | Niedrigpreisig, impulsiv | Hochpreisig, sorgfältige Kaufentscheidung |
-
-**Zeichenähnlichkeit – Detailprüfung:**
-- Klangliche Ähnlichkeit: Vokal- und Silbenstruktur, Akzentuierung, dominierender Bestandteil
-- Schriftbildliche Ähnlichkeit: Buchstabenfolge, Länge, Groß-/Kleinschreibung
-- Konzeptionelle Ähnlichkeit: Bedeutungsgehalt; bei Fantasiebegriffen ohne Bedeutung entfällt dieser Aspekt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### 4. Risikobewertung erstellen
-
-Jede kollidierende Voreintragung mit Ampelfarbe bewerten:
-
-🔴 **Blocking (hohes Risiko):** Identische oder sehr ähnliche Marke in identischen/ähnlichen Klassen; starke Kennzeichnungskraft; anwaltliche Empfehlung: Anmeldung ohne Umgestaltung nicht empfehlenswert.
-
-🟠 **Hoch:** Ähnliche Marke; Verwechslungsgefahr nicht ausschließbar; Abstandsvergrößerung prüfen; Anmeldeentscheidung nach anwaltlicher Würdigung.
-
-🟡 **Mittel:** Einige Ähnlichkeiten; Verwechslungsgefahr zweifelhaft; Recherche nach weiteren Belegen; ggf. Koexistenzvereinbarung möglich.
-
-🟢 **Niedrig:** Nur entfernte Ähnlichkeit; Klassen-/Warenabstand deutlich; geringe Risiken verbleiben; für abschließende Beurteilung Anwalt erforderlich.
-
-### 5. Ausgabe erstellen
-
-Recherchebericht mit:
-- Zusammenfassung der verwendeten Datenbanken und Rechercheparameter
-- Tabelle der gefundenen kollidierenden Zeichen (mit Registernummern, Inhabern, Klassen, Bewertung)
-- Analyse der Top-3-Risikotreffer im Gutachtenstil
-- Offene Fragen für Anwalt
-- Entscheidungsbaum
-
-## Quellen und Zitierweise
-
-Zitierweise nach `../references/zitierweise.md`.
-
-**Normen:** §§ 4, 5, 8, 9, 14, 26 MarkenG; Art. 7, 8 VO (EU) 2017/1001 (UMV).
-
-**Leitentscheidungen:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 9 Rn. 165 ff.; § 14 Rn. 345 ff. `[Modellwissen – prüfen; neuere Rspr. beachten]`
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 9 Rn. 95 ff.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Beispiel (Gutachtenstil)
-
-**Geplantes Zeichen:** NORDBLATT, angemeldet für Kl. 25 (Bekleidung), Kl. 35 (Einzelhandel)
-
-**Recherche DPMAregister:** Treffer: "NORDBLATT" (DPMA-Reg.-Nr. 30 2015 053 422), Inhaber: N.N. GmbH, Kl. 25, Status: eingetragen.
-
-**Analyse:**
-
-*Zeichenähnlichkeit:* Klangliche, schriftbildliche und konzeptionelle Identität (identische Wortmarke). Höchste Ähnlichkeitsstufe.
-
-*Waren-/Dienstleistungsähnlichkeit:* Kl. 25 identisch.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-🔴 **Bewertung: Blocking.** Identische Eintragung in identischer Klasse. Anmeldung unter diesem Zeichen nicht empfehlenswert ohne Abstandsvergrößerung oder vorherige Freigabe durch Inhaber.
-
-## Risiken / typische Fehler
-
-- **Nur DPMA prüfen:** Unionsmarken haben automatisch Wirkung in Deutschland; EUIPO-Recherche ist Pflicht.
-- **Klassen zu eng ansetzen:** Ähnliche Waren in Nachbarklassen können Verwechslungsgefahr begründen; nicht nur Wunschklassen, sondern auch benachbarte prüfen.
-- **Benutzungsschonfrist ignorieren:** Ältere Marken, die nicht ernsthaft benutzt werden (§ 26 MarkenG), können auf Löschungsantrag angegriffen werden; eingetragene, aber nichtbenutzte Marken sind kein absolutes Hindernis.
-- **Unregistrierte Rechte übersehen:** Firmennamen (§ 5 Abs. 2 MarkenG), Werktitel (§ 5 Abs. 3 MarkenG), bekannte Marken (§ 4 Nr. 3 MarkenG) schützen auch ohne Eintragung.
-- **Dieses Ergebnis ist kein Freigabegutachten:** Die Bewertung ist eine Erste-Triage. Eine abschließende Freigabeentscheidung erfordert anwaltliche Prüfung; für wichtige Marken kommt ein formelles Gutachten in Betracht.
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 

@@ -96,7 +96,7 @@ Die vollständige Skillliste steht unten automatisch generiert. Inhaltlich arbei
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 79 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -163,6 +163,7 @@ Automatisch generierte Komplett-Liste aller 79 Skills in diesem Plugin. Beschrei
 | `selektiver-vertrieb-coty` | Selektiven Vertrieb für Luxusgüter und Markenware prüfen und gestalten: qualitative Kriterien, Plattformverbot, Diskriminierungsfreiheit, Vertikal-GVO, Marktanteile, Händleraufnahme und Vertragsdurchsetzung im Markenrecht Fashion Luxus. |
 | `slogan-marke` | Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort im Markenrecht Fashion Luxus. |
 | `soundmarke-bewegungsmarke-alicante-boutique` | Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). P... |
+| `spezial-lanham-livequellen-und-rechtsprechungscheck` | Lanham: Livequellen- und Rechtsprechungscheck. |
 | `ttab-opposition-und-cancellation` | TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 58... |
 | `unionsmarken-anmeldung` | Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). P... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Markenrecht Fashion/Luxus: trennt fehlende Tatsachen von fehlenden Belegen (Markenregisterauszug, Lizenzvertrag, Abmahnung), nennt pro Lücke Beweisthema, Beschaffungsweg (DPMA), Frist und Ersatznachweis. |
@@ -177,6 +178,8 @@ Automatisch generierte Komplett-Liste aller 79 Skills in diesem Plugin. Beschrei
 | `vertikale-preisbindung-vbe-vo` | Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpr... |
 | `waren-dienstleistungen-ekdb-tmclass-nizza` | Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie im Markenrecht Fashion Luxus. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Markenrecht Fashion Luxus. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `wort-mehrparteien-konflikt-und-interessen` | Wort: Mehrparteienkonflikt und Interessenmatrix. |
 | `wortmarke-anmeldung-dpma` | DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schützen. Normen: §§ 32 ff. MarkenG (Anmeldung), § 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebedürftigkeit, beschreibende Angabe... |
 

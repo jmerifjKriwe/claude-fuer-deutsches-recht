@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `patentrecht`.
+Dieser Megaprompt enthaelt top-15 von 60 Skills des Plugins `patentrecht`.
 
 ## Inhaltsverzeichnis
 

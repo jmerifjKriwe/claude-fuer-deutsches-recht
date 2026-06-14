@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 211 Skills (gekuerzt fuer Chat-Fenster) des Plugins `robotik-recht`.
+Dieser Megaprompt enthaelt top-8 von 212 Skills (gekuerzt fuer Chat-Fenster) des Plugins `robotik-recht`.
 
 ## Inhaltsverzeichnis
 

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `wandeldarlehen-lebenszyklus`.
+Dieser Megaprompt enthaelt top-15 von 53 Skills des Plugins `wandeldarlehen-lebenszyklus`.
 
 ## Inhaltsverzeichnis
 

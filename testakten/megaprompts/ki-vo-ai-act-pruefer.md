@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 121 Skills (gekuerzt fuer Chat-Fenster) des Plugins `ki-vo-ai-act-pruefer`.
+Dieser Megaprompt enthaelt top-8 von 122 Skills (gekuerzt fuer Chat-Fenster) des Plugins `ki-vo-ai-act-pruefer`.
 
 ## Inhaltsverzeichnis
 

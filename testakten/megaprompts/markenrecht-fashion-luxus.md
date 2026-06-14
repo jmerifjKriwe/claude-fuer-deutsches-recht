@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 79 Skills des Plugins `markenrecht-fashion-luxus`.
+Dieser Megaprompt enthaelt top-10 von 82 Skills des Plugins `markenrecht-fashion-luxus`.
 
 ## Inhaltsverzeichnis
 

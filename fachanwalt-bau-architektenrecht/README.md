@@ -45,7 +45,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 103 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 115 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -118,6 +118,15 @@ Automatisch generierte Komplett-Liste aller 103 Skills in diesem Plugin. Beschre
 | `erstgespraech-mandatsannahme` | Erstgespraeches-Aufnahme im Bau- und Architektenrecht: Sachverhalt, Vertragstyp, Mangelbild: Normen: §§ 631 633 650a ff. BGB, VOB/B. Prüfraster: Werkvertrag vs. Bau... |
 | `erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `fa-bau-architekten-quellen-frist-next` | Rechtsquellen: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
+| `fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt` | Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maengelvorbehalt, Sicherungsrechte. Normen: §§ 640 641 BGB, § 12 VOB/B. Prüfraster: Abnahmeprotokoll, Maengelruege, Vorbehalt-Wirkung, Gefahruebergang. Output: Abnahmeerklärung... |
+| `fachanwalt-bau-architektenrecht-abnahme-verweigerung` | Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Prüfraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltun... |
+| `fachanwalt-bau-architektenrecht-bauablauf-vbg` | Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Prüfraster: Behinderungsanzeige, Kausalität, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegründun... |
+| `fachanwalt-bau-architektenrecht-bautraeger-insolvenz` | Insolvenz des Bautraegers: Ansprüche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Prüfraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkündigungsrecht. Output: Handlung... |
+| `fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze` | HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen. Normen: HOAI, §§ 650p ff. BGB. Prüfraster: Leistungsphasen, anrechenbare Kosten, Mindestsaetze nach EuGH-Entscheidung. Output: Honorarberechn... |
+| `fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg` | Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Prüfraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse... |
+| `fachanwalt-bau-architektenrecht-orientierung` | Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Prüfraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung... |
+| `fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung` | VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen. Normen: §§ 18 Abs. 3 18b VOB/B, §§ 1025 ff. ZPO. Prüfraster: Schiedsgutachter-Auswahl, Bindungswirkung, Fristen, Abgrenzung Schiedsverfahren. Output: Schiedsgu... |
+| `fachanwalt-bau-architektenrecht-werkmangel-pruefen` | Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: Mangeldefinition, Dokumentation, Fristsetzung Nacherfuellung, Gewaehrleistungsfriste... |
 | `hoai-honorar-mindestsaetze` | HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen: Normen: HOAI, §§ 650p ff. BGB. Prüfraster: Leistungsphasen, anrec... |
 | `hoai-risikoampel-und-gegenargumente` | Hoai: Risikoampel, Gegenargumente und Verteidigungslinien: Hoai: Risikoampel, Gegenargumente und Verteidigungslinien. |
 | `kanzlei-mehrparteien-konflikt-und-interessen` | Kanzlei: Mehrparteienkonflikt und Interessenmatrix: Kanzlei: Mehrparteienkonflikt und Interessenmatrix. |
@@ -136,6 +145,7 @@ Automatisch generierte Komplett-Liste aller 103 Skills in diesem Plugin. Beschre
 | `schnittstellen-compliance-dokumentation-und-akte` | Schnittstellen: Compliance-Dokumentation und Aktenvermerk: Schnittstellen: Compliance-Dokumentation und Aktenvermerk. |
 | `schriftsatzkern-substantiierung` | Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot: Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Prü... |
 | `schwarzarbeit-werklohnanspruch-bgh-vii-zr-6-13` | Schwarzarbeit Werklohnanspruch BGH Vii Zr 6 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-abnahme-livequellen-und-rechtsprechungscheck` | Abnahme: Livequellen- und Rechtsprechungscheck. |
 | `triage-beweislast-und-darlegungslast` | Triage: Beweislast, Darlegungslast und Substantiierung: Triage: Beweislast, Darlegungslast und Substantiierung. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Bau- und Architektenrecht: trennt fehlende Tatsachen von fehlenden Belegen (Bauvertrag, Pläne, Bautagebuch), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgericht (LG meist)), Frist und E... |
 | `vergaberecht-zahlen-schwellen-und-berechnung` | Vergaberecht: Zahlen, Schwellenwerte und Berechnung: Vergaberecht: Zahlen, Schwellenwerte und Berechnung. |
@@ -150,8 +160,10 @@ Automatisch generierte Komplett-Liste aller 103 Skills in diesem Plugin. Beschre
 | `werkvertrag-dokumentenmatrix-und-lueckenliste` | Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung: Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

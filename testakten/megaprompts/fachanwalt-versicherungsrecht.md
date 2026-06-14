@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 76 Skills des Plugins `fachanwalt-versicherungsrecht`.
+Dieser Megaprompt enthaelt top-10 von 91 Skills des Plugins `fachanwalt-versicherungsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Anwalts-Dashboard Fachanwalt Versicherungsrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspr…
 2. **mandat-triage-versicherungsrecht** — Strukturierte Eingangs-Abfrage für versicherungsrechtliche Mandate mit Fristen-Sofort-Check: Anwendungsfall neues Versic…
-3. **orientierung-mandat-fachanwaltschaft** — Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO: Anwendungsfall Kanzlei will Versic…
-4. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Versicherungsvertragsrecht (Personen- und Sachversicherung): Erfassung der Ko…
-5. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-6. **versr-bu-anerkennt-was-spezial** — Spezialfall Berufsunfaehigkeitsversicherung: Anerkennungsfaktum aktive Versicherung gegen Nachpruefung, konkrete und abs…
-7. **versr-d-und-o-spezialfall** — Spezialfall D-and-O-Versicherung: Versicherte Person Vorstand und Aufsichtsrat, Innenhaftung, Versicherungsfall claims-m…
-8. **versr-einfuehrung-themen** — Versicherungsrecht einfuehrend: Lebens-, Berufsunfaehigkeits-, Unfall-, Krankenversicherung, KFZ-Haftpflicht, Wohngebaeu…
-9. **versr-rechtsschutz-deckungsklage-spezial** — Spezialfall Rechtsschutzversicherungs-Deckungsklage: Wartezeit, Vorvertraglichkeit (BGH IV ZR), Stichentscheid, Streitwe…
-10. **versr-versicherungsvertragspruefung-bauleiter** — Bauleiter Versicherungsvertragspruefung: vorvertragliche Anzeigepflicht § 19 VVG, Obliegenheiten § 28 VVG, Beweislast, R…
+3. **fachanwalt-versicherungsrecht-orientierung** — Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will Versic…
+4. **orientierung-mandat-fachanwaltschaft** — Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO: Anwendungsfall Kanzlei will Versic…
+5. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Versicherungsvertragsrecht (Personen- und Sachversicherung): Erfassung der Ko…
+6. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+7. **fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht** — Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht. Anwendungsfall Unternehmen erhaelt Erpressung…
+8. **fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung** — Außergerichtliche Schlichtung über Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage. Anwendungsfal…
+9. **fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage** — Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung. Anwendungsfall BU-Versicherung hat Leistungsantrag abgel…
+10. **fachanwalt-versicherungsrecht-leistungsablehnung-pruefen** — Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versiche…
 
 ---
 
@@ -245,6 +245,104 @@ Vor Versand jeweils Volltext in juris.bundesgerichtshof.de oder dejure.org aufru
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+---
+
+## Skill: `fachanwalt-versicherungsrecht-orientierung`
+
+_Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will Versicherungsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung Versicherungsrecht vor. Normen VVG VAG GDV-Musterbedingungen AVB-Sparten BU KV LV Sach-Haftpflicht D-und-O. Prüfraster Sparten Normen FAO-Voraussetzungen verifizierbare Quellen typische Mandate Fristen. Output Rechtsgebietsuebersicht Normen verifizierbare Quellen und Routing zu Versicherungsmandats-Skills. Abgrenzung zu mandat-triage-versicherungsrecht und fachanwalt-versicherungsrecht-deckungsklage._
+
+# Fachanwalt für Versicherungsrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 80 Fälle in den letzten drei Jahren, davon mindestens 40 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Versicherungsvertrag | VVG §§ 1 ff. Anzeigepflicht §§ 19 ff. Praemienpflicht § 33 Leistungspflicht §§ 100 ff. |
+| Versicherungsaufsicht | VAG |
+| Pflichtversicherung Kfz | PflVG |
+| Berufsunfähigkeit | §§ 172 ff. VVG |
+| Krankenversicherung privat | §§ 192 ff. VVG MB/KK |
+| Lebensversicherung | §§ 150 ff. VVG |
+| Allgemeines Vertragsrecht | §§ 305 ff. BGB AGB-Kontrolle |
+| Verjährung | § 195 BGB (drei Jahre) — Sonderregel § 12 VVG aufgehoben |
+
+## Typische Mandate
+
+- BU-Streitigkeiten (Leistungsablehnung)
+- Krankheitskostenversicherung (Erstattung Pflegestufen)
+- Lebensversicherung (Rückkaufswert Auszahlung im Todesfall)
+- Hausratversicherung (Einbruchsdiebstahl Wasserschaden)
+- Haftpflichtversicherung (Deckungsstreit)
+- D-und-O-Versicherung für Organe Geschäftsleiter
+- Berufshaftpflicht Anwaltshaftpflicht
+
+## Fristen
+
+- **Klagefrist** keine spezifische — Verjährung drei Jahre (§ 195 BGB).
+- **Beschwerdefrist** zum BaFin gegen Versicherer regelmäßig keine Frist.
+- **Anzeigepflichten** Versicherungsnehmer Unverzueglich (§ 19 VVG).
+- **Frist nach Schadensfall** vertraglich vereinbart (Obliegenheiten § 28 VVG).
+
+## Hauptgerichte
+
+- Amtsgericht Landgericht (regulaere ZPO-Streitwertgrenze 10.000 EUR ab 01.01.2026).
+- OLG / BGH IV. Zivilsenat für Versicherungssachen.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- ARGE Versicherungsrecht DAV.
+
+## Schnittstellen
+
+- **kanzlei-allgemein** für Fristen und Versand.
+- **fachanwalt-verkehrsrecht** bei Kfz-Haftpflicht.
+- **fachanwalt-medizinrecht** bei Krankenversicherung.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate (Stand Mai 2026; offene Quellen)
+
+Vor Versand jeweils Volltext in offener Quelle aufrufen (juris.bundesgerichtshof.de, dejure.org, openjur.de):
+
+1. **BGH, Urt. v. 12.3.2025, IV ZR 32/24** — Krankentagegeldversicherung: Klauselersetzung nach Unwirksamkeit nicht ohne Weiteres zulässig; Versicherer kann unwirksame Tagessatz-Herabsetzung nicht durch im Kern gleiche neue Klausel ersetzen. Pressemitteilung Nr. 47/25 vom 12.3.2025.
+2. **BGH, IV ZR 70/25, 2025** — PKV-Beitragsanpassung: Mitteilungsschreiben muss die konkrete Rechnungsgrundlage benennen (§ 203 Abs. 5 VVG).
+3. **BGH, IV ZR 86/24, Urt. v. 15.10.2025** — Beitragsanpassung PKV; Prüfungsmaßstab. Quelle: bundesgerichtshof.de.
+4. **BGH, Urt. v. 14.7.2021, IV ZR 153/20** — Versicherungsfall BU: Eintritt nach Ablauf der bedingungsgemäßen sechs-monatigen Prognosezeit.
+5. **BGH, Urt. v. 28.1.2025, VI ZR 183/22** — DSGVO-Schadensersatz hat reine Ausgleichsfunktion; SCHUFA-Meldung bei streitiger Forderung unzulässig.
+
+### Paragrafenkette (Überblick VVG-Struktur)
+
+§§ 1–21 VVG (allgemeine Vorschriften, Informationspflichten, Widerruf) → §§ 28–32 VVG (Obliegenheiten, Rechtsfolgen) → §§ 74–99 VVG (Schadensversicherung) → §§ 100–112 VVG (Haftpflichtversicherung) → §§ 150–171 VVG (Lebensversicherung) → §§ 172–177 VVG (Berufsunfähigkeitsversicherung) → §§ 192–215 VVG (Krankenversicherung, Ombudsmann) → §§ 305–310 BGB (AGB-Kontrolle AVB) → § 215 VVG (örtliche Zuständigkeit Klage VN)
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Fristen-Übersicht
+
+| Bereich | Frist | Norm |
+|---|---|---|
+| Verjährung Versicherungsleistung | 3 Jahre ab Schluss Kenntnisjahr | §§ 195, 199 BGB |
+| Widerruf (korrekte Belehrung) | 30 Tage | § 8 Abs. 1 VVG |
+| Widerruf Lebensversicherung (falsche/fehlende Belehrung) | unbegrenzt (EuGH/BGH-Linie; Volltext vor Versand verifizieren) | § 8 VVG, EuGH C-209/12 (Endress) |
+| Anzeigepflicht-Schadensfall | laut AVB (meist unverzüglich) | § 28 VVG |
+| Hemmung durch Schlichtungsantrag | bis Entscheidung Ombudsmann | § 204 BGB i.V.m. § 214 VVG |
+
+## Triage — Orientierungs-Routing
+
+1. **Sachgebiet/Sparte identifizieren** (BU → `fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage`; LV → `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf`; D&O → `fachanwalt-versicherungsrecht-do-deckungsabwehr`; Cyber → `fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht`).
+2. **Ablehnungsschreiben eingegangen?** → `fachanwalt-versicherungsrecht-leistungsablehnung-pruefen`.
+3. **Klage vorbereiten?** → `fachanwalt-versicherungsrecht-deckungsklage` + `klage-versicherer-strategie`.
+4. **Schlichtung zuerst?** → `fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung`.
+5. **Regress-Abwehr gegen Sozialversicherungsträger?** → `fachanwalt-versicherungsrecht-regress-abwehr`.
 
 ---
 
@@ -594,288 +692,898 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `versr-bu-anerkennt-was-spezial`
+## Skill: `fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht`
 
-_Spezialfall Berufsunfaehigkeitsversicherung: Anerkennungsfaktum aktive Versicherung gegen Nachpruefung, konkrete und abstrakte Verweisung, 50-Prozent-BU: Spezialfall Berufsunfaehigkeitsversicherung: Anerkennungsfaktum aktive Versicherung gegen Nachpruefung,..._
+_Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht. Anwendungsfall Unternehmen erhaelt Erpressung durch Ransomware und prüft Lösegeldzahlung auf Versicherungsdeckung und Sanktionsrechtsverstoesse. Normen VVG Cyber-Deckung EU-Sanktions-VO 833/2014 269/2014 OFAC-Advisory § 261 StGB Geldwäsche AWG § 34 Aussenwirtschaftsstrafrecht. Prüfraster Deckungsschutz Versicherer Lösegeldzahlung Sanktionsprüfung Empfaenger OFAC-Screening Strafrechtsrisiko BaFin-Meldung. Output Cyber-Schadenprotokoll mit Sanktionsprüfung Deckungsanalyse und Handlungsempfehlung für oder gegen Lösegeldzahlung. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-versicherungsrecht-deckungsklage._
 
-# Spezialfall Berufsunfaehigkeitsversicherung: Anerkennungsfaktum aktive Versicherung gegen Nachpruefung, konkrete und abstrakte Verweisung, 50-Prozent-BU
+# Cyber-Lösegeld bei Ransomware mit Sanktions-Risiko
+
+## Zweck
+
+Spezial-Mandat: Mandant hat Cyber-Versicherung, wurde Opfer eines Ransomware-Angriffs. Eine Lösegeldzahlung wird erwogen oder wurde bereits geleistet. Der Versicherer verweigert Deckung mit Verweis auf Sanktionsrisiko (OFAC Specially Designated Nationals List, EU-Russland-Sanktionen, Lazarus Group Nordkorea). Dieser Skill begleitet sowohl die versicherungsrechtliche Deckungsklage als auch die strafrechtliche Risikobewertung.
+
+## Kaltstart-Rückfragen
+
+1. Liegt der vollständige Versicherungsvertrag (Cyber-Police) mit GDV-Musterbedingungen oder individuellen Klauseln vor — insbesondere: Enthält die Police eine Sanctions Limitation Clause?
+2. Welche Indizien liegen zur Identität des Angreifers vor — Crypto-Wallet-Adresse, Tor-Adresse, Kommunikation, Malware-Signatur?
+3. Wurde ein Chainalysis- oder Elliptic-Screening der Wallet-Adresse durchgeführt, und liegt ein Treffer auf der OFAC SDN List oder EU-Sanktionslisten vor?
+4. Wann wurde das Lösegeld gezahlt (falls bereits erfolgt) oder wann wird die Zahlung erwogen?
+5. Hat der Mandant Bezug zu den USA (US-Tochtergesellschaft, US-Kunden, US-Korrespondenzbank), der OFAC-Extraterritorialität auslösen könnte?
+6. Wurde das BSI (bei KRITIS) und das LKA Cybercrime informiert?
+7. Welche Backup-Optionen bestehen — wurde eine Datenwiederherstellung ohne Zahlung versucht?
+8. Liegt das Ablehnungsschreiben des Versicherers vor und auf welche Klausel stützt dieser sich?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+### Sanktionsrecht
+
+- **VO (EU) 833/2014** — Russland-Wirtschaftssanktionen (Sektorsanktionen, Finanztransaktionen mit Bezug zu Russland); zahlreiche Erweiterungspakete 2022–2025.
+- **VO (EU) 269/2014** — Russland-Personensanktionen; Vermögenseinfrierung gelisteter Personen.
+- **OFAC SDN List** (USA) — Specially Designated Nationals; 50-%-Regel: Unternehmen zu 50 % oder mehr im Eigentum einer SDN-gelisteten Person gilt selbst als SDN.
+- **§§ 17, 18 AWG** — Embargo-Verstöße; Freiheitsstrafe bis 10 Jahre bei Vorsatz; Ordnungswidrigkeitenrahmen § 81 AWV.
+- **OFAC Advisory vom 21.09.2021 zu Ransomware** — Lösegeld-Zahlungen an sanktionierte Akteure können selbst US-Sanktionsverstöße sein; strenge Haftung (strict liability) — guter Glaube keine Verteidigung.
+- **Chainalysis Sanctions Screening** / **Elliptic** — forensische Tools zur Wallet-Rückverfolgung; Screening-Ergebnis ist dokumentationspflichtiger Compliance-Nachweis.
+
+### Versicherungsrecht
+
+- **§ 81 VVG** — Herbeiführung des Versicherungsfalls; Eigenverschulden des VN; quotale Kürzung bei grober Fahrlässigkeit.
+- **§ 28 VVG** — Obliegenheitsverletzung; Kein-Backup-Vorwurf des Versicherers.
+- **Sanctions Limitation Clause** in Cyber-Policen — typische Formulierung: "Der Versicherer erbringt keine Leistungen, die ihn oder seinen Rückversicherer einem Verstoß gegen Sanktionsrecht aussetzen würden." Prüfung auf Unwirksamkeit nach § 307 BGB Transparenzgebot.
+- **GDV-Musterbedingungen Cyber AVB 2022** — Standarddeckung Ransomware als Versicherungsfall (§ 1 AVB Cyber); Deckungsausschluss nur bei vorsätzlicher Herbeiführung.
+
+### Strafrecht
+
+- **§ 261 StGB** — Geldwäsche; Lösegeld kann aus erpresserischer Bedrohung stammen (Vortat); Strafbarkeit auch bei Leichtfertigkeit.
+- **§ 89c StGB** — Terrorismusfinanzierung (bei OFAC-gelisteten Gruppen: Hamas, Lazarus Group / Nordkorea, Hizballah).
+- **§ 18 AWG** — Strafrechtliche Sanktionsverletzung bei Zahlung an SDN-gelistete Empfänger.
+
+### Leitentscheidungen (Stand Mai 2026)
+
+Verifizierte Anker (Volltext vor Versand in offener Quelle aufrufen):
+
+| Gericht | Aktenzeichen / Quelle | Datum | Kernaussage |
+|---|---|---|---|
+| BGH IV. ZS | IV ZR 32/24 (juris.bundesgerichtshof.de) | 12.3.2025 | Klauselersetzung nach Intransparenz unzulässig (übertragbar auf Cyber-AVB-Anpassungen) |
+| BGH VI. ZS | VI ZR 183/22 (juris.bundesgerichtshof.de) | 28.1.2025 | DSGVO-Schadensersatz hat nur Ausgleichs-, keine Straffunktion (relevant für Cyber-Schadensersatz Drittansprüche) |
+| EuGH | C-300/21 (curia.europa.eu) | 4.5.2023 | Art. 82 DSGVO setzt konkret nachgewiesenen Schaden voraus |
+| OFAC SDN-Liste | sanctionssearch.ofac.treas.gov | laufend | US-Sanktionsliste; bei Match Zahlung verboten |
+| EU-Sanktionsliste | sanctionsmap.eu | laufend | EU-Sanktionen; VO (EU) 269/2014, 833/2014, MiCA-Begleitregelung |
+
+Konkrete BGH-Rechtsprechung zu Cyber-AVB ist bisher dünn; OLG-Entscheidungen vor Versand in openjur.de oder nrwe.de prüfen.
+
+## Prüfschema in Tabellenform
 
 
-## Arbeitsweg
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+| Nr. | Prüfschritt | Norm | Konsequenz |
+|---|---|---|---|
+| 1 | Versicherungsfall Ransomware in AVB definiert? | GDV AVB Cyber; Police | Versicherungsfall "IT-Sicherheitsverletzung" umfasst Ransomware |
+| 2 | Sanctions Limitation Clause vorhanden? | Police Individualklausel | Klausel prüfen auf Unwirksamkeit § 307 BGB |
+| 3 | Erpresser auf OFAC SDN List? | OFAC SDN List; Chainalysis | SDN-Match → Zahlung verboten; kein Versicherungsschutz für verbotene Handlung |
+| 4 | Erpresser auf EU-Sanktionslisten? | VO (EU) 269/2014; 833/2014 | EU-Sanktionsrecht unabhängig von US-OFAC |
+| 5 | Kein SDN-Match — Sanktionsrisiko dennoch? | OFAC 50-%-Regel | Indirekte Sanktionierung prüfen; Compliance-Memo |
+| 6 | US-Bezug des Mandanten? | AWG; OFAC-Jurisdiktion | Extraterritorialität bei US-Kunden/Bankkonto |
+| 7 | Backup-Versuch vor Zahlung? | § 28 VVG Obliegenheit | Fehlender Backup-Versuch → Obliegenheitsverletzung-Risiko |
+| 8 | BSI/LKA informiert? | § 8b BSIG; Polizei | Pflicht bei KRITIS; ggf. rechtfertigend für Zahlung |
+| 9 | Lösegeldzahlung strafbar § 261 StGB? | § 261 StGB | Vortat Erpressung: Vortatanknüpfung ja; Strafbarkeit bei Leichtfertigkeit |
+| 10 | § 89c StGB Terrorismusfinanzierung? | § 89c StGB | Bei OFAC-gelisteten Terrorgruppen |
+| 11 | DSGVO-Meldepflichten und mögliche Drittansprüche geprüft? | Art. 33, 34, 82 DSGVO | Meldefristen 72 Stunden Aufsichtsbehörde; Schadensersatz nach Art. 82 nur bei konkretem Schaden (EuGH C-300/21) |
+| 12 | Grob fahrlässige Herbeiführung § 81 VVG? | § 81 VVG | Sicherheitspflichten verletzt? Kein Backup? |
+| 13 | Deckungsklage LG-Sitz des Versicherers? | § 215 VVG; § 71 GVG | LG bei Streitwert ab EUR 10000 |
+| 14 | Parallele Strafverteidigung nötig? | §§ 17, 18 AWG; § 261 StGB | Bei Zahlung an SDN: sofort Strafverteidiger |
+| 15 | Compliance-Dokumentation für Akten? | AWG; OFAC Advisory | Screening-Ergebnis und Entscheidungsweg dokumentieren |
 
-**Fokus:** Spezialfall Berufsunfaehigkeitsversicherung: Anerkennungsfaktum aktive Versicherung gegen Nachpruefung, konkrete und abstrakte Verweisung, 50-Prozent-BU. Beispielfall Streit über Anerkenntnis und Wiedereinsetzung der Leistung.
+## Strategische Optionen (vor dem Template entscheiden)
 
-### Versr: BU-Anerkennt
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-## Spezialwissen: Versr: BU-Anerkennt
-- **Normen-/Quellenanker:** BU.
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Cyber-Loesegeld-Zahlung und Sanktionsrecht pruefend | Sanktionspruefung + Deckungsanalyse nach Schema; Schriftsatz unten |
+| Variante A — Zahlung bereits erfolgt Genehmigung nachtraeglich | OFAC-Antrag rueckwirkend stellen; Dokumentation sichern |
+| Variante B — Versicherer verweigert Deckung wegen Sanktionsklausel | Deckungsklage parallel; Sanktionsrecht-Verteidigung separat |
+| Variante C — Keine Zahlung geplant Wiederherstellung Vorrang | IT-Forensik und Wiederherstellung statt Loesegeldzahlung |
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Prüfraster
+## Schriftsatzbausteine
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+### Baustein 1 — Schadensanzeige und Deckungsanforderung
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+```
+An [Versicherer Cyber]
+Versicherungsnummer: [Nr]
+Schadenummer: [neu]
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+Betr.: Ransomware-Vorfall vom [Datum]
+       Deckungsanforderung und Compliance-Memo
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+Sehr geehrte Damen und Herren,
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+wir vertreten die [Unternehmen GmbH]. Am [Datum] wurde unsere
+Mandantin Opfer eines Ransomware-Angriffs durch die Gruppe
+[Bezeichnung], der zu Datenverschlüsselung und Betriebsausfall
+führte. Einzelheiten ergeben sich aus dem Forensik-Bericht
+vom [Datum], Anlage K1.
+
+I. Versicherungsfall
+
+Nach § [X] AVB Cyber liegt ein Versicherungsfall (IT-Sicherheits-
+verletzung durch Cyber-Angriff) vor. Lösegeldforderung in Höhe
+von EUR/USD [Betrag].
+
+II. Sanctions-Compliance
+
+Vor jeder Lösegeld-Entscheidung hat unsere Mandantin ein
+Sanctions Screening durchgeführt:
+- Wallet-Analyse durch Chainalysis Reactor am [Datum]:
+  Kein direkter OFAC SDN-Match; Risikostufe [X] (Anlage K2).
+- Keine Übereinstimmung mit EU-Sanktionslisten
+  (VO (EU) 833/2014; VO (EU) 269/2014) (Anlage K3).
+- Compliance-Memo der Rechtsabteilung vom [Datum] (Anlage K4).
+
+Die Zahlung war daher rechtlich zulässig. Ihre Sanctions
+Limitation Clause greift nicht ein, da kein sanktionierter
+Empfänger vorliegt.
+
+III. Deckungsanforderung
+
+Wir fordern Sie auf, die Police-Leistungen wie folgt zu erbringen:
+1. Lösegeldsumme EUR [X]
+2. Betriebsunterbrechungsschaden EUR [Y] pro Tag × [Z] Tage
+3. Forensik- und Wiederherstellungskosten EUR [Z]
+4. Anwaltskosten EUR [...]
+
+Bitte bestätigen Sie die Deckung bis [Datum + 2 Wochen].
+
+[Rechtsanwälte]
+```
+
+### Baustein 2 — Deckungsklage: Sanctions Limitation Clause unwirksam
+
+```
+IV. SANCTIONS LIMITATION CLAUSE UNWIRKSAM
+
+Die Beklagte stützt ihre Ablehnung auf die Sanctions Limitation
+Clause in § [X] der Police, die lautet:
+"[Wortlaut der Klausel]."
+
+Diese Klausel ist unwirksam gemäß § 307 Abs. 1 Satz 2 BGB
+(Transparenzgebot), weil ein durchschnittlicher Versicherungsnehmer
+nicht erkennen kann,
+a) welche Sanktionslisten konkret gemeint sind (US-OFAC, EU, UN,
+   Bundesbank?),
+b) welcher Standard für eine "Sanktionierung" gilt (SDN-Direkteintrag,
+   50-%-Regel, Sektorsanktion?), und
+c) ab welchem Grad der Verbindung zwischen Angreifer und Sanctions-Liste
+   die Klausel auslöst.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+klar und verständlich formuliert sein; bei Unklarheit gilt
+§ 305c Abs. 2 BGB zugunsten des Versicherungsnehmers.
+
+Hilfsweise: Selbst wenn die Klausel wirksam wäre, greift sie im
+Streitfall nicht ein, weil das Chainalysis-Screening eindeutig
+keinen SDN-Match ergeben hat (Anlage K2).
+```
+
+### Baustein 3 — Compliance-Memo vor Lösegeldzahlung (Musterstruktur)
+
+```
+COMPLIANCE-MEMO — RANSOMWARE LÖSEGELDZAHLUNG
+Vertraulich — Anwaltlich vertretene Angelegenheit
+
+Datum: [Datum]
+Mandant: [Unternehmen]
+
+I. Sachverhalt
+[Datum/Uhrzeit Angriff], Verschlüsselung [X] Systeme,
+Lösegeldforderung [Betrag] in Bitcoin an Wallet [Adresse].
+
+II. Screening-Ergebnis
+Chainalysis Reactor-Analyse vom [Datum]:
+- Direkte OFAC SDN Prüfung: kein Match
+- Indirekte Sanktionsverbindung (50-%-Regel): kein Befund
+- EU-Sanktionslisten (VO 269/2014; VO 833/2014): kein Match
+- UN-Sanktionslisten: kein Match
+Ergebnis: Sanktionsrechtliches Risikolevel = NIEDRIG
+
+III. Strafrechtliche Bewertung
+§ 261 StGB Geldwäsche: Vortat Erpressung liegt vor;
+Strafbarkeit bei Leichtfertigkeit denkbar. Keine Leichtfertigkeit,
+da Screening-Pflichten erfüllt.
+
+§ 89c StGB: Keine Anhaltspunkte für Terrorgruppe.
+
+IV. AWG
+§ 17/18 AWG: Bei fehlendem SDN-Match kein Verstoss;
+US-Bezug gering (kein US-Konto/US-Tochter).
+
+V. Empfehlung
+Unter Berücksichtigung des Screener-Ergebnisses und der
+mangelnden Backup-Verfügbarkeit für [X Systeme] ist eine
+kontrollierte Lösegeldzahlung rechtlich vertretbar.
+Dokumentation für Rückversicherer und BaFin anlegen.
+
+[Rechtsanwälte / Compliance Officer]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Beweislast und Darlegungslast
+
+| Frage | Beweislast |
+|---|---|
+| Versicherungsfall (Ransomware als IT-Sicherheitsverletzung) | Kläger (VN) |
+| Sanctions Limitation Clause anwendbar | Versicherer |
+| SDN-Match tatsächlich vorhanden | Versicherer (muss konkrete Liste und Eintrag benennen) |
+| Screening ordnungsgemäß durchgeführt | VN (Chainalysis-Bericht, Datum, Methodik) |
+| Obliegenheitsverletzung (kein Backup-Versuch) | Versicherer |
+| Sanctions Limitation Clause wirksam | Versicherer (Transparenztest) |
+
+## Fristen und Verjährung
+
+| Frist | Dauer | Anker | Norm |
+|---|---|---|---|
+| Schadensanzeige | unverzüglich (24–48 Stunden) | Angriffserkenntnis | Police; § 30 VVG |
+| BSI-Meldung (KRITIS) | 24 Stunden Frühwarnung | Ersterkenntnis | § 8b BSIG |
+| NIS2-Meldung | 72 Stunden | Ersterkenntnis | NIS2UmsuCG |
+| Verjährung Versicherungsanspruch | 3 Jahre | Jahresende Kenntnis | §§ 195, 199 BGB |
+| OFAC SDGT-Meldepflicht (US-Bezug) | 10 Werktage nach Zahlung | Zahlung | OFAC Reg. 31 CFR Part 501 |
+| Verjährung AWG-Verstöße | 5 Jahre | §§ 17, 18 AWG | § 31 OWiG |
+
+## Typische Gegenargumente und Reaktion
+
+| Einwand Versicherer | Reaktion |
+|---|---|
+| SDN-Match vorhanden | Screening-Bericht vorlegen; konkrete Wallet-Rückverfolgung durch SV; Versicherer muss Match beweisen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Kein Backup = grobe Fahrlässigkeit | § 28 Abs. 3 VVG: Kausalität; Backup-Fehler muss kausal für konkrete Lösegeldhöhe sein |
+| Lösegeld = Vorsatz § 81 VVG | Keine Vorsatz-Herbeiführung des Angriffs durch VN; Zahlung als Notreaktion |
+| Kein Versicherungsfall — "vorsätzliche Tat Dritter" | Drittangriff ist Versicherungsfall; kein Vorsatz des VN |
+| Deckung ausgeschlossen wegen § 261 StGB | § 261 StGB schützt VN nicht; Versicherer kann nicht auf Strafbarkeit des VN verweisen, die er durch eigene Deckungsverweigerung erst veranlasst hat |
+
+## Streitwert und Kosten
+
+- Versicherungsleistung: Lösegeld + Betriebsunterbrechung + Forensikkosten; oft EUR 100000 bis mehrere Mio. EUR.
+- LG-Verfahren obligatorisch bei Streitwert über EUR 10000 (§ 71 GVG).
+- Sachverständige für Blockchain-Forensik: EUR 5000–20000 je nach Umfang.
+- OFAC-Lizenz für US-Bezug: Antragstellung bei OFAC, USD 150–500; Bearbeitung 30–90 Tage.
+
+## Strategische Empfehlung
+
+- **Vor Zahlung:** Immer Chainalysis-Screening; Compliance-Memo erstellen; Versicherer frühzeitig informieren.
+- **Bei SDN-Match:** Keine Zahlung; Versicherer und BSI/LKA informieren; OFAC-Specific License beantragen falls US-Bezug.
+- **Deckungsklage:** Sanctions Limitation Clause auf Transparenz angreifen; SV für Blockchain-Forensik beauftragen.
+- **Strafverteidigung parallel:** Bei Verdacht eines AWG-Verstoßes sofort Parallelverteidiger beiziehen.
+
+## Anschluss-Skills
+
+- `deckungsanfrage-pruefen` — allgemeines Deckungsprüfschema
+- `klage-versicherer-strategie` — Klagestrategie nach Ablehnung
+- `fachanwalt-versicherungsrecht-deckungsklage` — Klageschrift
+
+## Quellen
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Paragrafenkette
+
+§ 261 StGB (Geldwäsche, n.F. seit 2021) → § 16 AWG (Verstöße gegen Außenwirtschaftsgesetz bei Sanktionsbruch) → Art. 4 VO 833/2014, Art. 2 VO 269/2014 (Russland-Sanktionen, Bereitstellungsverbot) → OFAC SDN-Liste (US-Treasury, extraterritoriale Wirkung) → § 134 BGB (Nichtigkeit bei Gesetzesverstößen) → §§ 100 ff. VVG (Haftpflichtversicherung Cyber) → § 1 VVG i.V.m. Cyber-AVB (Versicherungsfall Definition) → § 81 VVG (Ausschluss vorsätzliche Schadenverursachung)
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Fristen-Übersicht
+
+| Maßnahme | Frist | Rechtsgrundlage |
+|---|---|---|
+| Meldung Ransomware-Vorfall an BSI | unverzüglich (KRITIS-Unternehmen) | § 8b BSIG |
+| Geldwäsche-Meldepflicht | unverzüglich | § 43 GwG |
+| Schadensanzeige Cyber-Versicherer | laut AVB (meist 7-14 Tage) | AVB Cyber |
+| OFAC-Meldepflicht bei sanktionierten Empfängern | unverzüglich | OFAC-Regularien |
+
+## Triage — Sofortprüfung Ransomware / Cyber-Lösegeld
+
+1. **Identität des Angreifers prüfen:** Bekannte Ransomware-Gruppe auf OFAC SDN-Liste (z.B. Evil Corp, Conti-Affiliates)? → Bei OFAC-Listing: Zahlung ohne Lizenz verboten; Versicherer verweigert ggf. Deckung.
+2. **EU-Sanktionsrecht prüfen:** Empfänger auf VO 269/2014 oder VO 833/2014 gelistet? → § 134 BGB, § 16 AWG-Risiko.
+3. **Cyber-Versicherungspolice prüfen:** Lösegeld-Zahlungen ausdrücklich gedeckt? Sanktions-Ausschlussklausel in AVB?
+4. **Geldwäscheprüfung:** § 261 StGB n.F. — kennt oder muss Zahler wissen, dass Empfänger aus Straftaten stammt? Interne AML-Prüfung dokumentieren.
+5. **Meldepflichten erfüllt:** BSI (KRITIS), BaFin (regulierte Unternehmen), Staatsanwaltschaft (§ 261 StGB)?
+
+**Entscheidungsbaum:**
+```
+Ransomware-Angriff + Lösegeld-Forderung?
+├─ Angreifer auf OFAC-SDN-Liste? → Zahlung ohne US-Lizenz verboten
+│   └─ Versicherer: Deckungsausschluss prüfen (§ 134 BGB + AVB)
+├─ Angreifer auf EU-Sanktionsliste? → § 16 AWG + VO 269/2014
+│   └─ Behördliche Genehmigung (BAW) erforderlich?
+├─ Angreifer nicht gelistet → Geldwäsche-Risiko § 261 StGB prüfen
+│   └─ AML-Prüfung dokumentieren; Meldepflicht § 43 GwG?
+└─ Cyber-AVB analysieren → Lösegeld gedeckt? Sanktions-Klausel?
+```
 
 ---
 
-## Skill: `versr-d-und-o-spezialfall`
+## Skill: `fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung`
 
-_Spezialfall D-and-O-Versicherung: Versicherte Person Vorstand und Aufsichtsrat, Innenhaftung, Versicherungsfall claims-made, Deckungsausschluesse: Spezialfall D-and-O-Versicherung: Versicherte Person Vorstand und Aufsichtsrat, Innenhaftung, Versicherungsfal..._
+_Außergerichtliche Schlichtung über Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage. Anwendungsfall Streitwert bis 10000 EUR oder Mandant will Klage vermeiden und Schlichtung versuchen. Normen §§ 214 ff. VVG Schlichtungsverfahren § 204 BGB Hemmung Verjährung VSBG Verbraucherstreitbeilegungsgesetz § 84 VVG Sachverständigenverfahren. Prüfraster Zuständigkeit Ombudsmann Streitwert Schlichtungsantrag Beschwerdewortlaut PKV-Ombudsmann BaFin-Verbraucherbeschwerde. Output Schlichtungsantrag mit Sachverhaltsdarstellung Normbezug und Zuständigkeitsprüfung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und klage-versicherer-strategie._
 
-# Spezialfall D-and-O-Versicherung: Versicherte Person Vorstand und Aufsichtsrat, Innenhaftung, Versicherungsfall claims-made, Deckungsausschluesse
+# Versicherungs-Ombudsmann / GDV-Schlichtung
 
+## Zweck
 
-## Arbeitsweg
+Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im außergerichtlichen Schlichtungsverfahren günstig zu lösen: **Versicherungs-Ombudsmann e.V.** für PKV/Kompositversicherer, **PKV-Ombudsmann** für private Kranken/Pflege, **BaFin-Beschwerde** als Aufsichts-Eingang, **Sachverständigen-Verfahren § 84 VVG** bei Schadenhöhe-Streit.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Eingaben
 
-**Fokus:** Spezialfall D-and-O-Versicherung: Versicherte Person Vorstand und Aufsichtsrat, Innenhaftung, Versicherungsfall claims-made, Deckungsausschluesse. Prüfraster für Konzern und Versicherer.
+- Versicherungssparte (Sach, Haftpflicht, Leben, BU, PKV, Pflege, Rente)
+- Streitgegenstand (Leistungsablehnung, Beitragsanpassung, Kündigung, Schadenhöhe)
+- Versicherer (Verband: GDV Mitgliedschaft?)
+- Streitwert (≤ 10.000 EUR: Ombudsmann-Verbindlichkeit Versicherer)
+- Mandant (Verbraucher / Unternehmer)
 
-### VersR: D-and-O Spezial
+## Rechtlicher Rahmen
 
-## Spezialwissen: VersR: D-and-O Spezial
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+- **§§ 1 ff. VVG** — Versicherungsvertragsgesetz
+- **§ 6 VVG** — Beratungspflicht
+- **§ 84 VVG** — Sachverständigen-Verfahren
+- **§ 213 VVG** — Anfechtung wegen Anzeigepflichtverletzung
+- **§ 203 VVG** — Beitragsanpassung PKV
+- **§ 14 UKlaG** — Schlichtungs-Pflicht Verbraucher
+- **VSBG** — Verbraucherstreitbeilegungs-Gesetz
+- **Versicherungs-Ombudsmann-Verfahrensordnung 2021** (geändert 2024)
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+### Leitentscheidungen
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Prüfraster
+## ADR-Pfade
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+### Pfad 1 — Versicherungs-Ombudsmann (VVR e.V.)
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- Bis 10.000 EUR: Versicherer-Bindung an Spruch (sofern Mitglied)
+- Bis 100.000 EUR: Schlichtungs-Vorschlag (nicht bindend)
+- Zuständigkeit: alle Sparten außer PKV/Pflege (eigener Ombudsmann)
+- Kostenfrei für Verbraucher
+- Frist Beschwerde: 6 Monate nach Versicherer-Ablehnung
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+### Pfad 2 — Ombudsmann PKV / Pflege (PKV-Ombudsmann e.V.)
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+- Privater Kranken/Pflege-Vers.
+- Verfahrens-Dauer 3-6 Monate
+- Schlichtungs-Vorschlag
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+### Pfad 3 — BaFin-Beschwerde
 
----
+- Aufsichts-Behörde
+- Kein Einzelfall-Spruch, aber Hinweis-Wirkung
+- Bei systemischen Mängeln effektiv
 
-## Skill: `versr-einfuehrung-themen`
+### Pfad 4 — Sachverständigen-Verfahren § 84 VVG
 
-_Versicherungsrecht einfuehrend: Lebens-, Berufsunfaehigkeits-, Unfall-, Krankenversicherung, KFZ-Haftpflicht, Wohngebaeude, Hausrat, Rechtsschutz, gewerbliche Sparten: Versicherungsrecht einfuehrend: Lebens-, Berufsunfaehigkeits-, Unfall-, Krankenversicheru..._
+- Bei Schadenhöhe-Streit (Hausrat, Gebäude, Kfz)
+- Versicherer + Vers.-Nehmer benennen je 1 Sachverständigen
+- Obmann bei Dissens
+- Bindend (sofern nicht offenbar erheblich falsch)
 
-# Versicherungsrecht einfuehrend: Lebens-, Berufsunfaehigkeits-, Unfall-, Krankenversicherung, KFZ-Haftpflicht, Wohngebaeude, Hausrat, Rechtsschutz, gewerbliche Sparten
+## Workflow
 
+### Phase 1 — Versicherer-Korrespondenz
 
-## Arbeitsweg
+- Schadensanzeige (Fristen je nach Sparte)
+- Versicherer-Position abwarten
+- Schriftliche Ablehnung als Eingang
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+### Phase 2 — Beschwerde-Vorbereitung
 
-**Fokus:** Versicherungsrecht einfuehrend: Lebens-, Berufsunfaehigkeits-, Unfall-, Krankenversicherung, KFZ-Haftpflicht, Wohngebaeude, Hausrat, Rechtsschutz, gewerbliche Sparten. Entscheidungstabelle und Verweis auf Detail-Skills.
+- Versicherungsbedingungen (AVB) analysieren
+- Anzeigepflicht-Erfüllung dokumentieren
+- Streitwert ermitteln
 
-### Versicherungsrecht: Themen
+### Phase 3 — Ombudsmann-Antrag
 
-## Spezialwissen: Versicherungsrecht: Themen
-- **Normen-/Quellenanker:** KFZ.
+- Online-Antrag bei VVR e.V. / PKV-Ombudsmann
+- Sachverhalt + AVB + Versicherer-Korrespondenz
+- Vollmacht Anwalt (möglich)
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+### Phase 4 — Schlichtungs-Verfahren
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+- Versicherer-Stellungnahme (4 Wochen)
+- ggf. mündliche Erörterung
+- Schlichtungs-Spruch / Vorschlag
 
-## Prüfraster
+### Phase 5 — Klage bei Scheitern
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+- LG / AG je Streitwert
+- Bei PKV-Anpassung: spezialisierte Kammern
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Strategie und Taktik
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+- **Ombudsmann zuerst** — billig, schnell, oft erfolgreich
+- **§ 213 VVG Anfechtung**: Anzeigepflicht-Verletzung sehr genau prüfen — Versicherer hat enge Belehrungs-Pflichten
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Sachverständigen-Verfahren**: bei klar bezifferbarem Schaden günstig; bei rechtlichen Fragen ungeeignet
+- **BU-Versicherung**: 50-%-Berufsunfähigkeits-Anforderung; Sachverständigen-Strategie kritisch
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+## Querverweise
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- `fachanwalt-versicherungsrecht-orientierung` — Triage
+- `fachanwalt-versicherungsrecht-leistungsklage-vvg` — Klage
+- `fachanwalt-versicherungsrecht-cyberversicherung-nis2` — Sonderfall
+- `fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung` — Bank-Variante
 
----
+## Quellen und Updates
 
-## Skill: `versr-rechtsschutz-deckungsklage-spezial`
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-_Spezialfall Rechtsschutzversicherungs-Deckungsklage: Wartezeit, Vorvertraglichkeit (BGH IV ZR), Stichentscheid, Streitwert in Deckungsklage: Spezialfall Rechtsschutzversicherungs-Deckungsklage: Wartezeit, Vorvertraglichkeit (BGH IV ZR), Stichentscheid, Stre..._
+## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-# Spezialfall Rechtsschutzversicherungs-Deckungsklage: Wartezeit, Vorvertraglichkeit (BGH IV ZR), Stichentscheid, Streitwert in Deckungsklage
+### Leitsatz-Zitate
 
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Arbeitsweg
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Fokus:** Spezialfall Rechtsschutzversicherungs-Deckungsklage: Wartezeit, Vorvertraglichkeit (BGH IV ZR), Stichentscheid, Streitwert in Deckungsklage. Schiedsverfahren bei Streit über Erfolgsaussicht. Prüfraster.
+### Normen-Ergänzung
 
-### Versr: Rechtsschutz-Deckung
+§ 214 VVG (Ombudsmann-Schlichtung, Verjährungshemmung) → § 204 Abs. 1 Nr. 4 BGB (Hemmung durch Schlichtungsantrag) → § 84 VVG (Sachverständigen-Verfahren) → VSBG (Verbraucherstreitbeilegungsgesetz) → VomVO (Verordnung über Versicherungsombudsmann) → § 6 VomVO (Bindungswirkung für Versicherer bis 10.000 EUR)
 
-## Spezialwissen: Versr: Rechtsschutz-Deckung
-- **Normen-/Quellenanker:** BGH, IV, ZR.
+### Quellenregel
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ---
 
-## Skill: `versr-versicherungsvertragspruefung-bauleiter`
+## Skill: `fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage`
 
-_Bauleiter Versicherungsvertragspruefung: vorvertragliche Anzeigepflicht § 19 VVG, Obliegenheiten § 28 VVG, Beweislast, Rechtsfolgen Verletzung: Bauleiter Versicherungsvertragspruefung: vorvertragliche Anzeigepflicht § 19 VVG, Obliegenheiten § 28 VVG, Beweis..._
+_Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung. Anwendungsfall BU-Versicherung hat Leistungsantrag abgelehnt oder Verweisung auf andere Tätigkeit ausgesprochen. Normen §§ 172 ff. VVG BU-Versicherung § 15 VVG Anzeigepflicht BAG-Begriff Berufsunfähigkeit 50-Prozent-Grenze. Prüfraster Begriff Berufsunfähigkeit letzte berufliche Tätigkeit Verweisung zumutbare andere Tätigkeit Gutachtenstreit Prüfverfahren. Output Klageschrift-Baustein mit Leistungsantrag Sachverständigenantrag Feststellungsantrag und Durchsetzungsstrategie. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und fachanwalt-versicherungsrecht-leistungsablehnung-prüfen._
 
-# Bauleiter Versicherungsvertragspruefung: vorvertragliche Anzeigepflicht § 19 VVG, Obliegenheiten § 28 VVG, Beweislast, Rechtsfolgen Verletzung
+# Berufsunfähigkeit-Klage
+
+## Zweck
+
+Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
+
+## 1) BU-Begriff
+
+### Definition
+
+- **Berufsunfähigkeit** = > **50 % Beeintraechtigung** in der letzten beruflichen Tätigkeit
+- Beruf wie vor Eintritt
+- Dauerhaft (typisch > 6 Monate prognostiziert)
+
+### Abstrakte vs. konkrete BU
+
+- Abstrakt: alle Berufe gleichwertiger Art
+- Konkret: spezifischer letzter Beruf
+- Heute meist konkret
+
+## 2) Verweisungs-Klausel
+
+### Standard
+
+- "Wenn Versicherter zumutbare andere Tätigkeit ausueben kann, ist nicht BU"
+- Verweisung auf vergleichbare Berufe
+
+### Verweisungslinie nach BGH-Rechtsprechung
+
+- Seit dem grundlegenden Wandel der BGH-Rechtsprechung ist nur die **konkrete Verweisung** auf eine tatsächlich ausgeübte Vergleichstätigkeit zulässig. Abstrakte Verweisung allein auf eine theoretisch denkbare Tätigkeit reicht nicht.
+- Konkretisierende Anforderungen vor Verwendung des Versicherer-Verweisungsargumentes in juris.bundesgerichtshof.de und dejure.org verifizieren; nicht aus Modellwissen.
+- Wichtige Linie (Stand Mai 2026): Bedingungen, die Versicherungsschutz auf Bürotätigkeit mit > 90 % Schreibtischanteil begrenzen, sind intransparent und benachteiligend (BGH IV. ZS, st. Rspr. — konkrete Entscheidung mit Aktenzeichen und Datum vor Ausgabe verifizieren).
+
+## 3) Ablehnungs-Gründe Versicherer
+
+### Pflichtverletzung Anzeige-Pflicht § 19 VVG
+
+- Vorerkrankungen nicht angegeben
+- Bei Schwer-Verstoß: Vertrags-Anpassung / Aufhebung
+
+### Mangelnder Beweis BU
+
+- Gutachten beantwortet nicht 50 %-Schwelle
+- Eigene Schädigung
+
+### Verweisung
+
+- Andere zumutbare Tätigkeit ausueubar
+- Konkret bestätigt
+
+## 4) Workflow
 
 
-## Arbeitsweg
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+### Phase 1 — Beratung Vers.-Nehmer
 
-**Fokus:** Bauleiter Versicherungsvertragspruefung: vorvertragliche Anzeigepflicht § 19 VVG, Obliegenheiten § 28 VVG, Beweislast, Rechtsfolgen Verletzung. Prüfraster für Versicherungsnehmer und Versicherer.
+- Vertragsprüfung (BU-Klausel)
+- Erkrankungs-Stand
+- Bisherige Korrespondenz
 
-### VersR: Vertragspruefung Bauleiter
+### Phase 2 — Versicherer-Antrag
 
-## Spezialwissen: VersR: Vertragspruefung Bauleiter
-- **Normen-/Quellenanker:** VVG.
+- Vollständige Antrags-Unterlagen
+- Ärztliche Atteste
+- Berufs-Beschreibung
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+### Phase 3 — Prüfung Versicherer
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+- Aktenkundige Vorerkrankungen
+- Gutachter-Einsatz
+- Entscheidung
 
-## Prüfraster
+### Phase 4 — Bei Ablehnung
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+- Schriftliche Begründung verlangen
+- Eigenes Gutachten
+- Klage AG / LG je Streitwert
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### Phase 5 — Klage
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+- Streitwert: jaehrliche Rente × Vermutungs-Dauer (oft 5-10 Jahre)
+- Sachverständigen-Beweis
+- Beweisaufnahme
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+## 5) Sachverständigen-Strategie
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+### Eigener SV
+
+- Privatgutachten
+- Vorbereitung Mandant
+
+### Gerichtlicher SV
+
+- Vom Gericht bestellt
+- Beide Seiten konnen Fragen stellen
+- Erfaehrung-Massstab
+
+### Beweis-Niveau
+
+- 50 %-Schwelle muss klar dargelegt sein
+- Funktional-Defizite
+
+## 6) Anzeige-Pflicht-Verletzung
+
+### Folgen § 19 VVG
+
+- Bei grober Fahrlaessigkeit: Vertrags-Änderung
+- Bei Vorsatz: Aufhebung
+- Bei einfachem Verstoß: ggf. nur Pruemien-Anpassung
+
+### Prüfung
+
+- Welche Frage falsch beantwortet?
+- Welche Vorerkrankung verschwiegen?
+- Kausalitaet mit aktueller BU
+
+## 7) Vergleichs-Verhandlung
+
+### Standard-Ergebnisse
+
+- Einmal-Zahlung statt Renten-Auszahlung (40-60 % Renten-Barwert)
+- Anpassung Rente-Höhe
+- Befristete Rente mit Nachprüfung
+
+### Vorteile
+
+- Schneller
+- Planungs-Sicherheit
+- Kein Klage-Risiko
+
+## 8) Aktualität — BGH-Linien (Stand Mai 2026)
+
+Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext aufrufen):
+
+- BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU: Eintritt erst nach Ablauf des sechs-monatigen Prognosezeitraums. Quelle: juris.bundesgerichtshof.de
+- BGH IV ZR 19/18, Urt. v. 26.6.2019 — Vergleichsverweisung; tatsächlich erzieltes Einkommen ist nicht ohne Weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de
+- BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeldversicherung: einseitige Tagessatz-Herabsetzung durch Klauselersetzung nach § 164 Abs. 1 VVG unzulässig; Bedeutung auch für Bedingungswechsel in BU/PKV-Klauselgestaltung. Pressemitteilung Nr. 47/25 vom 12.3.2025. Quelle: bundesgerichtshof.de Pressemitteilungen
+- BGH IV ZR 70/25, 2025 — PKV-Beitragsanpassung: Begründung der Beitragsanpassung muss konkrete Rechnungsgrundlage benennen; sonst Rückforderung. Quelle: juris.bundesgerichtshof.de (Volltext vor Versand verifizieren)
+- BGH IV ZR 86/24, Urt. v. 15.10.2025 — PKV-Beitragsanpassung; Prüfungsmaßstab. Quelle: bundesgerichtshof.de (Volltext-Verifikation Pflicht)
+
+## 9) Honorar
+
+- Beratung 500-1.500 EUR pauschal
+- Klage nach Streitwert
+- Erfolgs-Vereinbarung bei Beratung möglich
+
+## 10) Typische Fehler
+
+1. **Anzeige-Pflichten unvollständig** bei Antragstellung
+2. **Privatgutachten ohne BU-Spezialisten**
+3. **Verweisung-Klausel nicht angefochten**
+4. **Verjaehrung 3 Jahre** versäumt
+
+## Anschluss
+
+- `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` — bei LV
+- `fachanwalt-versicherungsrecht-do-deckungsabwehr` — bei D&O
+- `fachanwalt-sozialrecht-krankengeld-aussteuerung` — bei KG-Bezug
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate (Stand Mai 2026)
+
+Verifizierte Aktenzeichen mit Anker zu offener Quelle. Volltext vor Versand erneut aufrufen und Randnummer einsetzen:
+
+1. **Versicherungsfall BU**: BGH, Urt. v. 14.7.2021, IV ZR 153/20 — Eintritt des Versicherungsfalls erst nach Ablauf der bedingungsgemäßen Prognosezeit (sechs Monate). Offene Quelle: juris.bundesgerichtshof.de
+2. **Vergleichstätigkeit / Verweisung**: BGH, Urt. v. 26.6.2019, IV ZR 19/18 — Tatsächlich erzieltes Einkommen aus Verweisungstätigkeit nicht ohne weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de
+3. **AVB-Auslegung Maßstab**: st. Rspr. BGH IV. ZS — Auslegung aus Sicht eines durchschnittlichen, verständigen Versicherungsnehmers ohne versicherungsrechtliche Spezialkenntnisse. Konkrete Entscheidung mit Aktenzeichen vor Versand in offener Quelle verifizieren.
+4. **Klauselersetzung nach Intransparenz**: BGH, Urt. v. 12.3.2025, IV ZR 32/24 — Nach Unwirksamkeit einer Bedingung darf der Versicherer keine im Kern identische neue Bedingung einseitig einführen (zur Krankentagegeldversicherung; übertragbar). Pressemitteilung Nr. 47/25 vom 12.3.2025.
+
+### Paragrafenkette
+
+§§ 172 ff. VVG (BU-Versicherung) → § 19 VVG (Anzeigepflicht) → § 28 VVG (Obliegenheitsverletzung) → § 81 VVG (vorsätzliche/grob fahrlässige Herbeiführung) → § 286 ZPO (freie Beweiswürdigung Gutachten) → § 287 ZPO (Schadensschätzung) → § 402 ZPO (Sachverständiger) → § 195 BGB (Verjährung 3 Jahre) → § 203 BGB (Hemmung durch Verhandlungen) → § 256 ZPO (Feststellungsklage bei laufender Rente)
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Fristen-Übersicht
+
+| Situation | Frist | Norm |
+|---|---|---|
+| BU-Leistungsantrag beim Versicherer | laut AVB (typisch unverzüglich) | § 28 VVG, AVB |
+| Verjährung BU-Rentenanspruch | 3 Jahre ab Fälligkeit/Kenntnis | § 195, 199 BGB |
+| Hemmung durch Verhandlungen | läuft bis Abbrucherklärung | § 203 BGB |
+| Feststellungsklage (laufende Rente) | kein strikter Ablauf | § 256 ZPO |
+| Nachprüfungsverfahren (Verbesserung) | laut AVB | AVB-BU |
+
+## Triage — Sofortprüfung BU-Mandat
+
+1. **Vollständige Berufsbeschreibung sichern:** Was genau tat der Mandant in den letzten 6 Monaten vor BU-Eintritt? (Tätigkeitsauflistung, Prozentzeitenverteilung).
+2. **50-%-Schwelle dokumentieren:** Ärztliche Gutachten zu verbliebener Leistungsfähigkeit; Privatgutachten beauftragen.
+3. **Verweisung des Versicherers prüfen:** Konkret oder abstrakt? Übt Mandant die Verweisungstätigkeit tatsächlich aus?
+4. **Anzeigepflichtverletzungseinwand prüfen:** Welche Frage wurde falsch beantwortet? Belehrung nach § 19 Abs. 5 VVG erfolgt? Kausalität zwischen Vorerkrankung und eingetretener BU?
+5. **Rückwirkende Rente berechnen:** Rente ab Eintritt BU × Monate zurück = Hauptforderung; dazu Verzugszinsen.
+
+**Entscheidungsbaum:**
+```
+Ablehnung Versicherer?
+├─ Verweisung → konkret oder abstrakt?
+│   └─ Abstrakt → unzulässig nach st. Rspr. BGH IV. ZS
+│       (konkrete Entscheidung in juris.bundesgerichtshof.de
+│        verifizieren und Randnummer einsetzen)
+│   └─ Konkret → übt Mandant Verweisungstätigkeit tatsächlich aus?
+├─ Bestreiten BU-Grad → 50-%-Schwelle ärztlich belegen
+│   └─ Privatgutachten + gerichtliches Gutachten beantragen
+├─ Anzeigepflichtverletzung → Belehrung erfolgt nach § 19 Abs. 5 VVG?
+│   └─ Nein → Rücktritt / Anfechtung des Versicherers unwirksam
+│   └─ Ja → Kausalität zwischen Vorerkrankung und BU?
+└─ Verjährung → Verhandlungen dokumentieren (§ 203 BGB Hemmung)
+```
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Klage gegen BU-Versicherer wegen Leistungsablehnung | BU-Klageschrift nach Pruefschema; Template unten |
+| Variante A — Erstantrag noch nicht vollstaendig gestellt | Nachbeibringung Unterlagen zuerst; Klage danach |
+| Variante B — Vergleich wirtschaftlich attraktiver als Prozess | Vergleichsverhandlung vor Klageerhebung; Klage als Druckmittel |
+| Variante C — BU nur voruebergehend Reaktivierung moeglich | Teilleistung akzeptieren und beobachten statt Vollklage |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template — Klageschrift BU-Versicherung (Skizze)
+
+```
+[MANDANT] (Kläger) gegen [VERSICHERER] (Beklagte)
+Az.: [AZ LG]
+
+ANTRÄGE
+1. Die Beklagte wird verurteilt, an den Kläger rückständige BU-Rente
+   für den Zeitraum [MONAT/JAHR] bis [MONAT/JAHR] von EUR [BETRAG]
+   nebst Zinsen 5 Prozentpunkte über Basiszins seit [DATUM] zu zahlen.
+2. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger
+   ab [DATUM] eine monatliche BU-Rente von EUR [MONATSBETRAG] zu zahlen
+   und die Prämien zu erlassen (§ __ AVB), solange Berufsunfähigkeit
+   im Sinne der AVB vorliegt.
+
+BEGRÜNDUNG
+1. BU-Definition (§ __ AVB): Kläger übte zuletzt die Tätigkeit
+   [BERUFSBEZEICHNUNG konkret] aus. Tätigkeitsprofil: [Liste mit %].
+2. 50-%-Schwelle: Laut Privatgutachten Dr. [NAME] vom [DATUM]
+   (Anlage K3) ist Kläger zu [X]% beeinträchtigt.
+3. Verweisung verfehlt: Versicherer verweist auf [Beruf] — nicht
+   konkret ausgeübt vom Kläger; abstrakte Verweisung nach st. Rspr.
+   des BGH IV. ZS unzulässig (konkrete Entscheidung mit Aktenzeichen
+   und Datum vor Versand in juris.bundesgerichtshof.de oder
+   dejure.org verifizieren und Randnummer einfügen).
+4. Anzeigepflicht: Keine Belehrung § 19 Abs. 5 VVG (Anlage K5);
+   Rücktrittsrecht des Versicherers ausgeschlossen.
+5. Verjährung: Durch Verhandlungen bis [DATUM] gehemmt (§ 203 BGB).
+
+Beweis: K1 Police + AVB, K2 Tätigkeitsbeschreibung, K3 Privatgutachten,
+        K4 Ablehnungsschreiben, K5 Antragsformular, K6 Vollmacht
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+---
+
+## Skill: `fachanwalt-versicherungsrecht-leistungsablehnung-pruefen`
+
+_Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlässig § 307 BGB AGB-Kontrolle § 195 BGB Verjährung. Prüfraster Obliegenheitsverletzung Vorsatz grobe Fahrlässigkeit Kausalität Risikoausschluss AVB-Auslegung Verjährung Hemmung. Output Prüfvermerk mit Ablehnungsbegründung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-prüfen und fachanwalt-versicherungsrecht-deckungsklage._
+
+# Leistungsablehnung prüfen
+
+## Kaltstart-Rückfragen
+
+1. Welche Versicherungssparte — Lebens-, Berufsunfähigkeits-, Unfall-, Wohngebäude-, Hausrat-, Haftpflicht-, Kasko-, Rechtsschutz-, Krankenversicherung?
+2. Wann trat der Versicherungsfall ein und wann erfolgte Meldung beim Versicherer? Fristen nach AVB?
+3. Welche Begründung hat der Versicherer für die Ablehnung — Obliegenheitsverletzung (§ 28 VVG), Risikoausschluss, Anzeigepflichtverletzung (§ 19 VVG), fehlender Versicherungsfall, vorsätzliche Herbeiführung (§ 81 VVG)?
+4. Welche Mitteilungs- und Mitwirkungspflichten wurden angeblich verletzt und in welchem Verschuldensgrad?
+5. Liegt der vollständige Vertrag mit allen AVB, Antragsformularen und Schadensanzeigen vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Anspruchsgrundlagen
+
+- Hauptleistungsanspruch § 1 Satz 1 VVG i. V. m. dem konkreten Versicherungsvertrag.
+- Beweislast Versicherungsfall trägt grundsätzlich der Versicherungsnehmer (§ 1 VVG); für Risikoausschluss trägt Versicherer Beweislast.
+- Obliegenheitsverletzung § 28 VVG: bei Vorsatz Leistungsfreiheit, bei grober Fahrlässigkeit Kürzung in der Schwere des Verschuldens entsprechend, bei einfacher Fahrlässigkeit keine Folgen.
+- Kausalitätserfordernis § 28 Abs. 3 VVG: Versicherer ist nur leistungsfrei wenn die Obliegenheitsverletzung kausal für Eintritt, Feststellung oder Umfang des Versicherungsfalls war — sonst keine Leistungsfreiheit (sog. Kausalitätsgegenbeweis).
+- AVB-Auslegung: aus Sicht eines durchschnittlichen, verständigen Versicherungsnehmers ohne versicherungsrechtliche Spezialkenntnisse (st. Rspr. BGH IV. ZS; konkrete Entscheidung mit Aktenzeichen vor Versand in offener Quelle verifizieren).
+- Vorsätzliche Herbeiführung § 81 Abs. 1 VVG Leistungsfreiheit; grob fahrlässig § 81 Abs. 2 VVG Kürzung.
+- AVB-Auslegung nach §§ 305c, 307 BGB: Klauseln gegen den Verwender bei Mehrdeutigkeit (§ 305c Abs. 2 BGB); Inhaltskontrolle § 307 BGB unangemessene Benachteiligung.
+- Verjährung Versicherungsleistung drei Jahre § 195 BGB ab Schluss des Jahres der Fälligkeit und Kenntnis (§ 199 BGB); Hemmung durch Verhandlungen § 203 BGB.
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Beweislast und Aufklärung
+
+| Frage | Beweislast |
+|---|---|
+| Versicherungsfall liegt vor | Versicherungsnehmer |
+| Risikoausschluss greift | Versicherer |
+| Obliegenheitsverletzung | Versicherer Tatsache und Verschulden |
+| Kausalitätsausschluss § 28 Abs. 3 VVG | Versicherungsnehmer |
+| Anzeigepflichtverletzung § 19 VVG | Versicherer Frage + Antwort + Verschulden |
+| Belehrung § 19 Abs. 5 VVG erfolgt | Versicherer |
+| Vorsätzliche Herbeiführung § 81 VVG | Versicherer |
+
+## Prüfschema Ablehnungsschreiben
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+1. Anspruchsgrundlage benannt
+2. Tatsachen für Tatbestandsmerkmal richtig dargestellt
+3. AVB-Klausel zitiert mit Quelle (Bedingungswerk Version)
+4. Klauselkontrolle § 305c § 307 BGB
+5. Kausalitätsfrage geprüft
+6. Belehrung dokumentiert (§ 19 Abs. 5, § 28 Abs. 4 VVG)
+7. Verjährungseinrede formal richtig
+8. Stufung des Verschuldens (Vorsatz, grobe oder einfache Fahrlässigkeit)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Widerspruch gegen Leistungsablehnung | Widerspruchsschreiben nach Pruefschema; Template unten |
+| Variante A — Ablehnung formell begruendet Unterlagen fehlen | Unterlagen nachreichen; kein Widerspruch noetig |
+| Variante B — Ablehnung materiell Rechtsfrage streitig | Widerspruch mit Rechtsgutachten; ggf. Klage vorbereiten |
+| Variante C — Versicherungsombudsmann als guenstigere Alternative | Ombudsmann-Beschwerde statt Widerspruch bei kleinen Betraegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schreibvorlage Widerspruch gegen Ablehnung
+
+```
+An die [Versicherung]
+Schadensnummer [Nr]
+
+Sehr geehrte Damen und Herren,
+
+namens und in Vollmacht des Versicherungsnehmers [Name] widersprechen
+wir Ihrem Ablehnungsschreiben vom [Datum] und fordern erneut zur
+Regulierung auf binnen vier Wochen.
+
+I. Sachverhalt
+[chronologische Darstellung des Versicherungsfalls]
+
+II. Anspruch dem Grunde nach
+Der Anspruch beruht auf § 1 VVG i.V.m. § __ AVB. Der Versicherungsfall
+liegt vor weil [Begruendung].
+
+III. Zur Ablehnungsbegruendung
+1. Eine Obliegenheitsverletzung § 28 VVG liegt nicht vor weil
+   [Begruendung]. Hilfsweise ist die behauptete Verletzung jedenfalls
+   nicht kausal § 28 Abs. 3 VVG fuer Eintritt Feststellung oder
+   Umfang des Versicherungsfalls.
+2. Eine Anzeigepflichtverletzung § 19 VVG scheitert bereits an der
+   fehlenden Belehrung nach § 19 Abs. 5 VVG bzw. ist nicht
+   verschuldet.
+3. Der zitierte Risikoausschluss in § __ AVB ist intransparent
+   § 307 Abs. 1 Satz 2 BGB und benachteiligt den VN unangemessen.
+
+IV. Anspruchshoehe
+Die Versicherungsleistung betraegt EUR ____ nach [Berechnungsschema].
+
+V. Frist
+Bis zum [Datum + 4 Wochen]. Andernfalls Klageerhebung. Verzugszinsen
+5 Prozentpunkte ueber Basiszinssatz § 288 BGB.
+
+Mit kollegialen Gruessen
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Übergabe
+
+- Bei Verhandlungsbereitschaft Verjährungs-Hemmung § 203 BGB dokumentieren.
+- Bei BU-Versicherung Sachverständigengutachten zur Berufsunfähigkeit beifügen — Vergleich zwischen zuletzt ausgeübter Tätigkeit und verbliebener Leistungsfähigkeit.
+- Bei Kasko Unfallrekonstruktion und Wertgutachten.
+- Anschluss: Skill `fachanwalt-versicherungsrecht-deckungsklage` bei Fortbestehen der Ablehnung.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate (Stand Mai 2026; offene Quellen)
+
+Vor Versand jeweils Volltext und Randnummer aus offener Quelle ergänzen (juris.bundesgerichtshof.de, dejure.org, openjur.de):
+
+1. **AVB-Auslegung**: BGH IV. ZS, st. Rspr. — Auslegung aus Sicht eines durchschnittlichen, verständigen Versicherungsnehmers ohne versicherungsrechtliche Spezialkenntnisse.
+2. **Klauselersetzung nach Intransparenz**: BGH, Urt. v. 12.3.2025, IV ZR 32/24 — Nach Unwirksamkeit einer Bedingung (Tagessatz-Herabsetzung Krankentagegeld) darf der Versicherer keine im Kern identische neue Bedingung einseitig einführen. Pressemitteilung Nr. 47/25 vom 12.3.2025.
+3. **PKV-Beitragsanpassung Mitteilungspflicht**: BGH, IV ZR 70/25, 2025 — Mitteilungsschreiben muss konkrete Rechnungsgrundlage (Versicherungsleistungen oder Sterbewahrscheinlichkeiten) benennen, deren Veränderung die Anpassung auslöst (§ 203 Abs. 5 VVG); Live-Verifikation in juris.bundesgerichtshof.de Pflicht.
+4. **GDSGVO-Schadensersatz**: BGH, Urt. v. 28.1.2025, VI ZR 183/22 — Art. 82 Abs. 1 DSGVO hat nur Ausgleichs-, keine Straffunktion (unberechtigte SCHUFA-Meldung; 500 EUR immaterieller Schadensersatz). Quelle: juris.bundesgerichtshof.de
+
+### Normen-Ergänzung
+
+§ 28 Abs. 3 VVG (Kausalitätsgegenbeweis) → § 19 Abs. 5 VVG (Belehrungspflicht Versicherer) → § 305c Abs. 2 BGB (unklare AGB gegen Verwender) → § 307 BGB (AGB-Inhaltskontrolle) → § 203 BGB (Hemmung Verjährung durch Verhandlungen)
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ---
 

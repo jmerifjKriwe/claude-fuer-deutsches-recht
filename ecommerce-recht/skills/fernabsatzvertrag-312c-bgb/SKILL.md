@@ -1,27 +1,15 @@
 ---
 name: fernabsatzvertrag-312c-bgb
-description: "Fernabsatzvertrag § 312c BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecommerce Recht."
+description: "Fernabsatzvertrag § 312c BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG."
 ---
 
 # Fernabsatzvertrag § 312c BGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Fernabsatzvertrag § 312c BGB
-- **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
-- **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
 
 ## Worum geht es konkret
 
 Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln (Internet, Telefon, E-Mail) und im Rahmen eines organisierten Vertriebssystems geschlossen wird (§ 312c BGB). Er löst zahlreiche besondere Pflichten aus: Informationspflichten (Art. 246a EGBGB), Widerrufsrecht (§ 312g BGB), Button-Lösung (§ 312j BGB), Bestellbestätigung (§ 312i BGB). Der Skill ordnet die Voraussetzungen und das Zusammenspiel der Folgepflichten.
 
-## Wann dieses Modul hilft / Kaltstart-Fragen
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
 - Wer sind die Vertragsparteien (Verbraucher, Unternehmer)?
 - Welche Vertriebsform (Webshop, Telefon, E-Mail, Messenger, Social Commerce)?
@@ -43,7 +31,7 @@ Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der 
 - Verbraucherrechte-RL 2011/83/EU; Modernisierungsrichtlinie 2019/2161.
 - DDG (seit 14.05.2024 Nachfolge TMG): Anbieterkennzeichnung.
 
-## / Schritt für Schritt
+## Workflow / Schritt für Schritt
 
 1. **Anwendungsbereich klären.** Verbraucher? Fernkommunikationsmittel ausschließlich? Organisierter Vertrieb?
 2. **Informationspflichten Art. 246a EGBGB prüfen.** Hauptmerkmale, Identität, Anschrift, Gesamtpreis, Versandkosten, Zahlung, Lieferung, Widerrufsrecht, Garantie, Gewährleistung etc.
@@ -87,6 +75,15 @@ Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der 
 - Widerrufsbelehrung nur auf der Website verlinkt – nicht "auf dauerhaftem Datenträger" überlassen.
 - B2B nicht klar abgrenzen – Verbraucher kann sich darauf berufen.
 - Lieferbeschränkungen nicht vorab kommuniziert – Verstoß gegen Geo-Blocking-VO und § 312j II BGB.
+
+## Querverweise
+
+- widerrufsrecht-verbraucher-355-312g-bgb
+- button-loesung-312j-bgb
+- informationspflichten-vor-vertragsschluss-art-246a-egbgb
+- e-mail-bestellbestaetigung-vertragsschluss
+- impressum-ddg-anbieterkennzeichnung
+- agb-im-online-shop-einbeziehung-305-bgb
 
 ## Quellen Stand 06/2026
 

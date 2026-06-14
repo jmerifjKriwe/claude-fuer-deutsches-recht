@@ -44,7 +44,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -82,6 +82,70 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `datenbankvergleich-und-bereinigungsplan` | Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungs... |
 | `datenbankwerk-schoepferische` | Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsp... |
 | `datenqualitaet-haftung-und-gewaehrleistung` | Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungs... |
+| `db-001-kaltstart-datenbankrecht-werk-oder-herstellerrecht` | Datenbankrecht: Kaltstart Datenbankrecht Werk oder Herstellerrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-002-datenbankwerk-schoepferische-auswahl-oder-anordnung` | Datenbankrecht: Datenbankwerk schöpferische Auswahl oder Anordnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-003-datenbankherstellerrecht-wesentliche-investition` | Datenbankrecht: Datenbankherstellerrecht wesentliche Investition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-004-wesentlicher-teil-qualitativ-quantitativ-bestimmen` | Datenbankrecht: Wesentlicher Teil qualitativ quantitativ bestimmen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-005-unwesentliche-teile-wiederholte-systematische-entnahme` | Datenbankrecht: Unwesentliche Teile wiederholte systematische Entnahme mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-006-scraping-website-datenbank-und-robots-txt` | Datenbankrecht: Scraping Website Datenbank und Robots.txt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-007-api-nutzung-rate-limits-und-vertragsbruch` | Datenbankrecht: API-Nutzung Rate Limits und Vertragsbruch mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-008-ki-training-mit-datenbankbestand` | Datenbankrecht: KI-Training mit Datenbankbestand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-009-datenbanklizenz-entwurf-nutzungsumfang-und-audit` | Datenbankrecht: Datenbanklizenz Entwurf Nutzungsumfang und Audit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-010-open-data-portal-und-nutzungsbedingungen` | Datenbankrecht: Open Data Portal und Nutzungsbedingungen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-011-datenbankrecht-und-geschaeftsgeheimnis` | Datenbankrecht: Datenbankrecht und Geschäftsgeheimnis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-012-datenbankrecht-datenschutz-personenbezogen-daten` | Datenbankrecht: Datenbankrecht und Datenschutz personenbezogene Datensätze mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-013-sportdaten-live-daten-fixtures-und-ergebnislisten` | Datenbankrecht: Sportdaten Live-Daten Fixtures und Ergebnislisten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-014-immobiliendaten-portal-und-lead-datenbank` | Datenbankrecht: Immobiliendaten Portal und Lead-Datenbank mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-015-produktdaten-pim-datenkatalog-hersteller` | Datenbankrecht: Produktdaten PIM Datenkatalog Hersteller mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-016-preisvergleich-crawler-und-plattformvertrag` | Datenbankrecht: Preisvergleich Crawler und Plattformvertrag mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-017-b2b-kundendaten-crm-export-durch-mitarbeiter` | Datenbankrecht: B2B-Kundendaten CRM Export durch Mitarbeiter mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-018-datenbank-in-insolvenz-asset-deal-und-rechtekette` | Datenbankrecht: Datenbank in Insolvenz Asset Deal und Rechtekette mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-019-datenbank-als-kreditsicherheit-due-diligence` | Datenbankrecht: Datenbank als Kreditsicherheit Due Diligence mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-020-oeffentliche-register-handelsregister-grundbuch` | Datenbankrecht: Öffentliche Register Handelsregister Grundbuch Transparenzregister mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-021-wissenschaftsdaten-forschungsdatenbank` | Datenbankrecht: Wissenschaftsdaten Forschungsdatenbank mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-022-kartendaten-geodaten-und-luftbilder` | Datenbankrecht: Kartendaten Geodaten und Luftbilder mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-023-ticketingdaten-veranstaltungsdaten-und-kalender` | Datenbankrecht: Ticketingdaten Veranstaltungsdaten und Kalender mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-024-stellenanzeigen-jobportal-und-scraping` | Datenbankrecht: Stellenanzeigen Jobportal und Scraping mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-025-rezeptdaten-gesundheitsdaten-und-sozialdaten` | Datenbankrecht: Rezeptdaten Gesundheitsdaten und Sozialdaten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-026-datenbankrecht-im-e-commerce-marktplatz` | Datenbankrecht: Datenbankrecht im E-Commerce Marktplatz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-027-verletzung-doku-hashlog-screenshot-crawl-protokoll` | Datenbankrecht: Verletzung dokumentieren Hashlog Screenshot Crawl-Protokoll mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-028-einstweilige-verfuegung-datenbankrecht-dringlichkeit` | Datenbankrecht: Einstweilige Verfügung Datenbankrecht Dringlichkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-029-auskunft-rechnungslegung-schadensschaetzung` | Datenbankrecht: Auskunft Rechnungslegung Schadensschätzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-030-lizenzanalogie-und-unterlassungsvertrag` | Datenbankrecht: Lizenzanalogie und Unterlassungsvertrag mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-031-grenzueberschreitende-datenbank-eu-uk-usa` | Datenbankrecht: Grenzüberschreitende Datenbank EU UK USA mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-032-datenbankrecht-und-urhebervertragsrecht` | Datenbankrecht: Datenbankrecht und Urhebervertragsrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-033-datenbankrecht-und-text-and-data-mining-schranken` | Datenbankrecht: Datenbankrecht und Text-and-Data-Mining Schranken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-034-tdm-opt-out-maschinenlesbar-pruefen` | Datenbankrecht: TDM Opt-out maschinenlesbar prüfen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-035-data-act-und-zugang-zu-iot-daten` | Datenbankrecht: Data Act und Zugang zu IoT-Daten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-036-datenbankrecht-bei-saas-und-cloudmigration` | Datenbankrecht: Datenbankrecht bei SaaS und Cloudmigration mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-037-backup-export-und-vendor-lock-in` | Datenbankrecht: Backup Export und Vendor Lock-in mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-038-m-a-datenraum-datenbankrechte` | Datenbankrecht: M&A Datenraum Datenbankrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-039-open-source-datenbank-und-open-data-commons` | Datenbankrecht: Open Source Datenbank und Open Data Commons mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-040-kollektive-datensammlung-und-miturheberschaftsfallen` | Datenbankrecht: Kollektive Datensammlung und Miturheberschaftsfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-041-datenqualitaet-haftung-und-gewaehrleistung` | Datenbankrecht: Datenqualität Haftung und Gewährleistung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-042-datenbankrecht-in-agb-klauseln` | Datenbankrecht: Datenbankrecht in AGB-Klauseln mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-043-plattform-sperre-wegen-data-extraction` | Datenbankrecht: Plattform-Sperre wegen Data Extraction mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-044-datenbankherstellerrecht-gegen-ex-mitarbeiter` | Datenbankrecht: Datenbankherstellerrecht gegen Ex-Mitarbeiter mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-045-beweissicherung-durch-testcrawler` | Datenbankrecht: Beweissicherung durch Testcrawler mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-046-cease-and-desist-letter-datenbankrecht` | Datenbankrecht: Cease-and-desist Letter Datenbankrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-047-abmahnung-pruefen-datenbankrecht` | Datenbankrecht: Abmahnung prüfen Datenbankrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-048-gerichtsstand-und-anwendbares-recht` | Datenbankrecht: Gerichtsstand und anwendbares Recht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-049-datenbankvergleich-und-bereinigungsplan` | Datenbankrecht: Datenbankvergleich und Bereinigungsplan mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-050-red-team-keine-sweat-of-the-brow-verwechslung` | Datenbankrecht: Red-Team keine Sweat-of-the-brow-Verwechslung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-051-datenbankrecht-fuer-behoerden` | Datenbankrecht: Datenbankrecht für Behörden mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-052-datenbankrecht-und-informationsfreiheit` | Datenbankrecht: Datenbankrecht und Informationsfreiheit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-053-datenbankrechte-bei-schul-und-hochschuldaten` | Datenbankrecht: Datenbankrechte bei Schul- und Hochschuldaten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-054-metadaten-katalog-und-thesaurus` | Datenbankrecht: Metadaten Katalog und Thesaurus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-055-datenbankrecht-und-machine-learning-features` | Datenbankrecht: Datenbankrecht und Machine Learning Features mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-056-datenbankrecht-im-verlag` | Datenbankrecht: Datenbankrecht im Verlag mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-057-datenbankrecht-musik-film-bildarchiv` | Datenbankrecht: Datenbankrecht Musik Film Bildarchiv mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-058-datenbankrecht-app-store-und-app-daten` | Datenbankrecht: Datenbankrecht App Store und App-Daten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-059-datenbankrecht-bei-finanzmarktdaten` | Datenbankrecht: Datenbankrecht bei Finanzmarktdaten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-060-datenbankrecht-agrar-und-sensordaten` | Datenbankrecht: Datenbankrecht Agrar- und Sensordaten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-061-datenbankrecht-im-logistik-tracking` | Datenbankrecht: Datenbankrecht im Logistik-Tracking mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-062-datenbankrecht-und-cyberincident` | Datenbankrecht: Datenbankrecht und Cyberincident mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-063-datenbankrecht-compliance-policy` | Datenbankrecht: Datenbankrecht Compliance Policy mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `db-064-datenbankrecht-abschlussmemo` | Datenbankrecht: Datenbankrecht Abschlussmemo mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `e-verletzung-dokumentieren` | Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktpl... |
 | `einstweilige-verfuegung-datenbankrecht-dringlichkeit` | Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag... |
 | `gerichtsstand-anwendbares-api-nutzung` | Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzung... |

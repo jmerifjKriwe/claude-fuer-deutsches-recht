@@ -224,7 +224,7 @@ datenschutzrecht/
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 360 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 365 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -287,8 +287,9 @@ Automatisch generierte Komplett-Liste aller 360 Skills in diesem Plugin. Beschre
 | `datenschutz-loeschpflicht-art-17-aufbewahrung` | Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-... |
 | `datenschutz-loeschpflicht-art-17-und-aufbewahrung` | Konflikt Loeschpflicht Art: 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung... |
 | `datenschutz-mandantenkommunikation-aufsichtsbehoerde` | Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren: Sieben-Fragen-Diagnose: Welche Aufsicht zuständig BfDI § 13 BDSG od... |
+| `datenschutz-mandatssteckbrief-fristen-rollen` | Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rol... |
 | `datenschutz-schadensersatz-art-82-dsgvo` | Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris GmbH C-456/22 VX gegen Saale. Sieb... |
-| `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit` | Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris GmbH C-456/22 VX gegen Saale.... |
+| `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit` | Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris GmbH C-456/22 VX gegen Saale. Sieb... |
 | `datenschutz-schufa-insolvenzdaten-loeschung` | Löschung von SCHUFA-/Auskunfteidaten zur Restschuldbefreiung nach EuGH C-26/22/C-64/22 mit Art. 5 sowie Art. 17 DSGVO und öffentlichen Insolvenzbekanntmachungen. |
 | `datenschutz-scoring-art22-schufa-c63421` | Bonitätsscoring nach EuGH C-634/21: automatisierte Entscheidung, maßgebliches Kriterium für Dritte, Transparenz, Auskunft, Widerspruch und DSFA. |
 | `dokumente-intake` | Dokumentenintake für Datenschutzrecht DSGVO/BDSG: sortiert Verarbeitungsverzeichnis, DSFA, AVV, prüft Datum, Absender, Frist und Beweiswert (Log-Dateien, AVV-Verträge); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
@@ -559,6 +560,8 @@ Automatisch generierte Komplett-Liste aller 360 Skills in diesem Plugin. Beschre
 | `schufa-zahlungsstoerungen-speicherfrist-bgh-2025` | Datenschutzrechtlicher Spezialskill zu SCHUFA-/Auskunftei-Speicherung erledigter Zahlungsstörungen nach BGH I ZR 97/25, EuGH C-26/22/C-64/22 sowie Art. 6 und 17 DSGVO. |
 | `sofortmassnahmen-checkliste` | Generiert eine priorisierte Sofortmaßnahmen-Checkliste innerhalb der ersten Stunden nach Bekanntwerden eines Datenschutzvorfalls. Behandelt: Eindämmung; Beweissicherung; Zugriffsbeschränkung; Passwort-Reset; Account-Sperrung; Netzwerkseg... |
 | `sozialdaten-sgb` | Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Diensten nach den Sondervorschriften der Sozialgesetzbücher. Behandelt: Sozialdatenbegriff § 67 SGB X; Sozialgeheimnis § 35 SGB I; Verhältnis... |
+| `spezial-behoerdenpaket-zahlen-schwellen-und-berechnung` | Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung. |
+| `spezial-transfer-livequellen-und-rechtsprechungscheck` | Transfer: Livequellen- und Rechtsprechungscheck. |
 | `spezialfaelle-uebersicht` | Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills. Behandelt: Ransomware; Insider-Threat; Fehlversand E-Mail/Brief; Endgeräteverlust; verlorener Datenträger; Cloud-Fehlk... |
 | `stakeholder-mapping` | Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher. Behandelt: Geschäftsleitung; Datenschutzbeauftragter; IT-Sicherheit; Betriebsrat; Auftragsverarbeiter... |
 | `standardvertragsklauseln-mehrparteienkonflikt` | Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zuste... |
@@ -585,8 +588,10 @@ Automatisch generierte Komplett-Liste aller 360 Skills in diesem Plugin. Beschre
 | `verdacht-vs-festgestellt` | Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art. 33 Abs. 1 DSGVO hat oder ob noch bloßer Verdacht vorliegt. Behandelt: Abgrenzung Verdacht und Kenntnis; angemessene Sicherheit der Feststellung; Pflicht zur unv... |
 | `vvt-update-nach-vorfall` | Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art. 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffenen Verarbeitungen; Anpassung der technischen und organisatorische... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-output-waehlen` | Output wählen: Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zeitleiste` | Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung. Behandelt: Eintritt; Erstwahrnehmung; Meldung an Service-Desk; Eingang Datenschutzpostfach; Kenntnisbegriff Art. 33 DSGVO;... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

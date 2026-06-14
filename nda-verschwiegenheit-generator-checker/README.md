@@ -41,7 +41,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -100,6 +100,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `nda-abschlussbericht-playbook` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Abschlussbericht Playbook; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `nda-fuer-ai-und-modelltraining` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Ai Und Modelltraining; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `nda-fuer-datenraum-clean-team` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Datenraum Clean Team; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
+| `nda-fuer-hr-und-abwerbeverbot` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Hr Und Abwerbeverbot; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `nda-fuer-investor-pitch` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Investor Pitch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `nda-fuer-manufacturing-und-supply-chain` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Manufacturing Und Supply Chain; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generato... |
 | `nda-fuer-vorstand-und-aufsichtsrat` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Vorstand Und Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Che... |

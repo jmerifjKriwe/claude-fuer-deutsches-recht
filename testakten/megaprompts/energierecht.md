@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 92 Skills des Plugins `energierecht`.
+Dieser Megaprompt enthaelt top-10 von 95 Skills des Plugins `energierecht`.
 
 ## Inhaltsverzeichnis
 

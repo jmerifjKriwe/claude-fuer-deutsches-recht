@@ -2,25 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 53 Skills des Plugins `subsumtions-pruefer`.
+Dieser Megaprompt enthaelt top-10 von 61 Skills des Plugins `subsumtions-pruefer`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Subsumtions-Prüfer (Jura): ordnet Rolle (Studierender, Bearbeiter), markiert Frist (kei…
-2. **interaktiver-erstpruefung-und-mandatsziel** — Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Subsumtions Prüfer.
-3. **beweisbedarf-und-belege-erfassen** — Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverständige, Augenschein, P…
-4. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Subsumtions Prüfer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken un…
-5. **rechtsprechung-recherche-strategie** — Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/…
-6. **triage-rechtsfrage-oder-norm** — Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm…
-7. **eu-vorabentscheidung-falsche-wiese** — Prüft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausna…
-8. **rechtsfolge-bestimmen-einreden-interaktiver** — Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-…
-9. **kommentar-literatur-konkurrenzen** — Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen aus. …
-10. **unbestimmte-rechtsbegriffe-ungeschriebene** — Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsma…
-11. **verjaehrung-fristen-pruefen** — Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfri…
-12. **einschlaegige-normen-vorschlagen-eu** — Schlaegt einschlaegige Normen des Unionsrechts vor: AEUV, EUV, GRCh (Primaerrecht) sowie EU-Verordnungen und Richtlinien…
-13. **konkurrenzen-anspruchsgrundlagen** — Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, …
-14. **grundrechte-pruefung-de-und-grch** — Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterschei…
-15. **output-memo-und-mandantenbrief** — Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Mem…
+2. **spezial-interaktiver-erstpruefung-und-mandatsziel** — Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnorm…
+3. **interaktiver-erstpruefung-und-mandatsziel** — Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Subsumtions Prüfer.
+4. **beweisbedarf-und-belege-erfassen** — Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverständige, Augenschein, P…
+5. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Subsumtions Prüfer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken un…
+6. **rechtsprechung-recherche-strategie** — Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/…
+7. **triage-rechtsfrage-oder-norm** — Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm…
+8. **eu-vorabentscheidung-falsche-wiese** — Prüft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausna…
+9. **rechtsfolge-bestimmen-einreden-interaktiver** — Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-…
+10. **kommentar-literatur-konkurrenzen** — Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen aus. …
 
 ---
 
@@ -65,6 +60,56 @@ Dieser Einstieg routet **Subsumtions Prüfer** vom ersten Sachverhalt zu Rollen,
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `spezial-interaktiver-erstpruefung-und-mandatsziel`
+
+_Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung._
+
+# Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
+
+Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Interaktiver**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Interaktiver.
+- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
+- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Interaktiver** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ---
 
@@ -1065,576 +1110,6 @@ Wenn Nutzer keine Literatur bereithält und eine Frage literaturbedürftig ist:
 - Dieses Fachmodul als Quellenhygiene-Gate: keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Frage nach vorhandenen lizenzierten Quellen oder frei zugänglichen Materialien. Wenn keine vorliegen, liefere nur Normen, Rechtsprechungs-Recherchefragen und Suchstrategie.
 - Trenne sauber zwischen gesichertem Gesetzestext, verifizierter Rechtsprechung, Nutzerquelle und offenem Literaturbedarf.
-
----
-
-## Skill: `unbestimmte-rechtsbegriffe-ungeschriebene`
-
-_Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsmassstaeibe aus Rechtsprechung und h.M., Indizien und Fallgruppen. Warnt vor der Grenze mechanischer Subsumtion bei wertungsoffenen Begriffen im Subsumtions Prüfer._
-
-# Unbestimmte Rechtsbegriffe prüfen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn — kläre vor der Begriffsprüfung
-
-1. Welcher konkrete unbestimmte Rechtsbegriff ist in welchem Normkontext einschlägig?
-2. Liegt ein Beurteilungsspielraum einer Behörde vor? (nur eingeschränkte gerichtliche Kontrolle)
-3. Gibt es BGH/BAG/BVerwG-Rechtsprechung zu diesem Begriff in diesem Kontext?
-4. Ist der Begriff durch Fallgruppen der Rechtsprechung konkretisiert?
-5. Handelt es sich um eine Wertungsfrage, die das System nicht abschließend beantworten kann?
-
-## Aktuelle Rechtsprechung zur Auslegung unbestimmter Rechtsbegriffe
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Wichtige unbestimmte Rechtsbegriffe
-
-### "Wesentlich" / "erheblich"
-
-**Kontext:** § 323 Abs. 5 S. 2 BGB (nicht unerhebliche Pflichtverletzung beim Rücktritt); § 536 BGB (erheblicher Mangel); § 17 Abs. 2 Nr. 1 KSchG.
-
-**Auslegungsmaßstab:** Relation zum Vertragszweck, Schwere der Abweichung.
-
-**Indizien:** Umfang der Abweichung, wirtschaftliche Bedeutung, Behebbarkeit.
-
-### "Zumutbar"
-
-**Kontext:** § 275 Abs. 3 BGB (persönliche Leistungshindernis); § 626 BGB (wichtiger Grund); § 3 AGG; § 5 Abs. 2 ArbSchG.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**Entscheidungsbaum:**
-```
-Welche Interessen stehen auf dem Spiel?
-├─ Wirtschaftliche Interessen des Einen vs. Persönlichkeitsrechte des Anderen
-│ → Abwägung; Schwere des Eingriffs maßgebend
-└─ Beider wirtschaftliche Interessen
- → Verhältnismäßigkeit im engeren Sinne
-```
-
-### "Geeignet"
-
-**Kontext:** Verhältnismäßigkeitsprüfung (erstes Mittel); § 1 KSchG.
-
-**Auslegungsmaßstab:** Kausalität im weiteren Sinne — Maßnahme muss den Zweck zumindest fördern können.
-
-### "Angemessen"
-
-**Kontext:** Verhältnismäßigkeit i.e.S.; § 307 BGB (AGB); § 20 Abs. 1 GWB; Art. 6 Abs. 1 lit. f DSGVO.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**Indizien bei AGB:** Abweichung vom dispositiven Recht; keine Kompensation; fehlende Transparenz.
-
-### "Erforderlich"
-
-**Kontext:** Verhältnismäßigkeit (Stufe 2); Art. 5 Abs. 1 lit. c DSGVO (Datensparsamkeit).
-
-**Auslegungsmaßstab:** Gibt es ein gleich geeignetes Mittel mit geringerem Eingriff? Vergleich mit realen Alternativen.
-
-### "Wichtiger Grund"
-
-**Kontext:** § 626 BGB (außerordentliche Kündigung); § 543 BGB (Miete); § 314 BGB (Dauerschuldverhältnisse).
-
-**Auslegungsmaßstab:** BGH: Alle Umstände des Einzelfalls; dem Kündigenden ist Festhalten am Vertrag bis Ende nicht zumutbar. Interessenabwägung: Verschulden, Wiederholungsgefahr, Schwere.
-
-## Ausgabe
-
-Das System nennt:
-- Den unbestimmten Rechtsbegriff und den Normkontext
-- Den anerkannten Auslegungsmaßstab
-- Indizien pro und contra aus dem Nutzersachverhalt
-- Ausdrücklicher Hinweis: Das Ergebnis ist eine Indiziensammlung; die abschließende Bewertung obliegt dem Gericht.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
-
----
-
-## Skill: `verjaehrung-fristen-pruefen`
-
-_Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: verjährt ja/nein/fraglich im Subsumtions Prüfer._
-
-# Verjährung und Fristen prüfen
-
-## Arbeitsbereich
-
-Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: verjährt ja/nein/fraglich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn — kläre vor der Verjährungsprüfung
-
-1. Wann ist der Anspruch entstanden? (Vertragsabschluss, Schadenseintritt, Fälligkeit)
-2. Wann hatte der Gläubiger Kenntnis von Anspruch und Schuldner?
-3. Ist Verjährungseinrede bereits erhoben oder wird sie vom Gegner erhoben werden?
-4. Gibt es Hemmungstatbestände? (Verhandlungen, Klageerhebung, Mahnbescheid)
-5. Gilt eine Sonderverjährung (Kaufmängel 2 Jahre, Ausschlussfristen Tarif/Vertrag)?
-
-## Zentrale Paragrafenkette
-
-- § 195 BGB — Regelverjährung 3 Jahre
-- § 199 Abs. 1 BGB — Beginn: Ende des Entstehungsjahres + Kenntnis
-- § 199 Abs. 4 BGB — absolute Verjährung ohne Kenntnis: 10 Jahre
-- § 197 BGB — 30 Jahre für titulierte Ansprüche und Herausgabeansprüche aus Eigentum
-- §§ 203-213 BGB — Hemmung der Verjährung (Verhandlung, Klage, Mahnbescheid)
-- § 212 BGB — Neubeginn der Verjährung (Anerkenntnis, Vollstreckungshandlung)
-- § 214 BGB — Verjährungseinrede: muss erhoben werden, kein Amtsbeweise
-- § 438 BGB — Sonderverjährung Kaufmängel (2 Jahre / 5 Jahre Bau)
-- § 634a BGB — Sonderverjährung Werkvertragsansprüche (2 Jahre / 5 Jahre)
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Verjährungsfristen im deutschen Recht
-
-### Regelfrist § 195 BGB
-
-3 Jahre; Beginn: 31. Dezember des Jahres, in dem der Anspruch entstanden ist und der Gläubiger Kenntnis erlangt hat oder hätte erlangen müssen (§ 199 Abs. 1 BGB).
-
-**Wichtig:** Beginn zum 31.12. des Entstehungsjahres — nicht zum Tag des schädigenden Ereignisses!
-
-### Absolute Verjährungsfristen
-
-- 10 Jahre: bei Ansprüchen ohne Kenntnis (§ 199 Abs. 4 BGB)
-- 30 Jahre: Herausgabeansprüche aus Eigentum; titulierte Ansprüche (§§ 197/201 BGB)
-
-### Besondere Fristen
-
-| Anspruch | Frist | Norm |
-|---------|-------|------|
-| Kaufmängel bewegliche Sachen | 2 Jahre ab Übergabe | § 438 Abs. 1 Nr. 3 BGB |
-| Kaufmängel Bauwerke | 5 Jahre ab Übergabe | § 438 Abs. 1 Nr. 2 BGB |
-| Werkvertrag Mängel | 2 Jahre (Regelfall) | § 634a BGB |
-| UWG-Abmahnung | 6 Monate ab Kenntnis; absolut 3 Jahre | § 11 UWG |
-| Reisevertragsansprüche | 2 Jahre | § 651j BGB |
-
-### Verjährung im Arbeitsrecht
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Hemmung der Verjährung §§ 203–213 BGB
-
-Hemmung: Die Verjährungsfrist läuft nicht; die Restfrist läuft nach Ende des Hemmungszeitraums weiter.
-
-**Wichtige Hemmungstatbestände:**
-- Klageerhebung (§ 204 Abs. 1 Nr. 1 BGB): Hemmung mit Einreichung, wenn demnächst zugestellt
-- Mahnbescheid (§ 204 Abs. 1 Nr. 3 BGB): Hemmung bei Zustellung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Stillhaltevereinbarung (§ 205 BGB): vertragliche Stundung
-
-## Neubeginn der Verjährung § 212 BGB
-
-Der Neubeginn löscht die bisher abgelaufene Verjährungszeit:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Zwangsvollstreckungshandlung
-
-## Prozessuale Notfristen
-
-- Einspruch gegen Versäumnisurteil: 2 Wochen (§ 339 ZPO)
-- Berufungsfrist: 1 Monat ab Zustellung (§ 517 ZPO)
-- Revisionsfrist: 1 Monat ab Zustellung (§ 548 ZPO)
-- Verfassungsbeschwerde: 1 Monat (§ 93 Abs. 1 BVerfGG); bei VA: 1 Jahr (§ 93 Abs. 3 BVerfGG)
-
-## Entscheidungsbaum Verjährungsprüfung
-
-```
-Anspruch entstanden wann?
-└─ Beginn: 31.12. des Entstehungsjahres
- ├─ Regelfrist: 3 Jahre (§ 195 BGB)
- ├─ Sonderverjährung einschlägig? → Tabelle oben
- ├─ Hemmungstatbestand vorhanden?
- │ ├─ Ja → Hemmungszeitraum herausrechnen
- │ └─ Nein → weiter
- └─ Neubeginn ausgelöst?
- ├─ Ja → neue Frist ab Neubeginnzeitpunkt
- └─ Nein → Ergebnis: verjährt / nicht verjährt
-```
-
----
-
-## Skill: `einschlaegige-normen-vorschlagen-eu`
-
-_Schlaegt einschlaegige Normen des Unionsrechts vor: AEUV, EUV, GRCh (Primaerrecht) sowie EU-Verordnungen und Richtlinien (Sekundaerrecht). Gibt Hinweise auf EuGH-Judikatur und Fundstellen bei curia.europa.eu. Klaert unmittelbare Wirkung und Anwendungsvorrang im Subsumtions Prüfer._
-
-# Einschlägige Normen vorschlagen — Unionsrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-
-1. Ist der Sachverhalt grenzüberschreitend oder EU-reguliert?
-2. Handelt es sich um eine Beziehung Bürger–Staat (vertikale Konstellation) oder Bürger–Bürger (horizontal)?
-3. Ist eine bestimmte Grundfreiheit oder ein Grundrecht der GRCh berührt?
-4. Ist bereits ein nationales Umsetzungsgesetz einschlägig?
-5. Liegt die fragliche Entscheidung nach dem Wissensstand des Systems? → Live-Check bei curia.europa.eu empfehlen
-
-## Primärrecht — AEUV, EUV, GRCh
-
-### Grundfreiheiten (AEUV)
-
-| Grundfreiheit | Primärnormen | Typische Sachverhalte |
-|--------------|-------------|----------------------|
-| Warenverkehrsfreiheit | Art. 34–36 AEUV | Einfuhrverbote, technische Normen, Kennzeichnungspflichten |
-| Arbeitnehmerfreizügigkeit | Art. 45–48 AEUV | Diskriminierung bei Einstellung/Lohn, Sozialleistungen |
-| Niederlassungsfreiheit | Art. 49–55 AEUV | Zulassungsbeschränkungen für Berufe, Gesellschaftssitz |
-| Dienstleistungsfreiheit | Art. 56–62 AEUV | Grenzüberschreitende Dienstleistungen, Entsendung |
-| Kapital- und Zahlungsverkehrsfreiheit | Art. 63–66 AEUV | Kapitalverkehrskontrollen, Dividendenbesteuerung |
-
-### Wettbewerbsrecht (AEUV)
-
-| Bereich | Normen |
-|---------|--------|
-| Kartellverbot | Art. 101 AEUV |
-| Marktmachtmissbrauch | Art. 102 AEUV |
-| Beihilfenverbot | Art. 107–109 AEUV |
-
-### Grundrechtecharta (GRCh)
-
-Anwendbar bei Durchführung von Unionsrecht durch Mitgliedstaaten (Art. 51 Abs. 1 GRCh). Einschlägige Artikel: Art. 7 (Privatleben), Art. 8 (Datenschutz), Art. 11 (Meinungsfreiheit), Art. 15 (Berufsfreiheit), Art. 17 (Eigentum), Art. 21 (Gleichbehandlung), Art. 47 (effektiver Rechtsschutz), Art. 48 (Unschuldsvermutung).
-
-## Sekundärrecht — Wichtige Verordnungen und Richtlinien
-
-| Bereich | Rechtsakt | Fundstelle |
-|---------|-----------|------------|
-| Datenschutz | DSGVO (VO 2016/679) | eur-lex.europa.eu |
-| Produkthaftung | RL 85/374/EWG; ab 2024: RL 2024/2853 | eur-lex.europa.eu |
-| Verbraucherrecht | VRRL (RL 2011/83/EU); Klausel-RL (RL 93/13/EWG) | eur-lex.europa.eu |
-| KI-Regulierung | KI-VO (VO 2024/1689) | eur-lex.europa.eu |
-| Vergaberecht | RL 2014/24/EU; RL 2014/25/EU | eur-lex.europa.eu |
-| Kartell | VO 1/2003; VO 330/2010 (Vertikal-GVO) | eur-lex.europa.eu |
-| Finanzmarkt | MiFID II; CRR/CRD IV | eur-lex.europa.eu |
-
-## EuGH-Judikatur — Fundstellen
-
-Das System verweist auf Leitentscheidungen des EuGH, die für die vorgeschlagene Norm relevant sind:
-- **curia.europa.eu** (amtliche Datenbank, Volltext, suchbar nach Rechtssache und Aktenzeichen)
-- **eur-lex.europa.eu** (Rechtsakttexte, konsolidierte Fassungen)
-
-**Wichtig:** Für aktuelle Entscheidungen ist eine manuelle Suche in curia.europa.eu erforderlich, da der Wissensstand des Systems ein festes Enddatum hat. Das System markiert Entscheidungen, die nach dem Wissensstand unsicher sind, als Prüfpunkte.
-
-## Prüfung der unmittelbaren Wirkung
-
-| Rechtssatz | Unmittelbare Wirkung? | Bedingungen |
-|---|---|---|
-| EU-Verordnung | Ja (Art. 288 Abs. 2 AEUV) | Kein Umsetzungsakt nötig |
-| Richtlinie (Umsetzungsfrist abgelaufen) | Vertikal ja (Bürger gg. Staat) | Norm muss unbedingt und hinreichend bestimmt sein |
-| Richtlinie (horizontal) | Nein (Grundsatz) | Nur richtlinienkonforme Auslegung; Ausnahme: Francovich-Haftung |
-| Primärrecht (Grundfreiheiten) | Ja (vertikal und horizontal für Verbotsnormen) | EuGH ständige Rechtsprechung |
-
-## Ausgabe
-
-Das System nennt:
-1. Einschlägige Primär- oder Sekundärrechtsnorm mit Artikelangabe
-2. Unmittelbare Wirkung (Verordnung: ja; Richtlinie: nur bei staatlichem Handeln nach Ablauf der Umsetzungsfrist)
-3. Anwendungsvorrang gegenüber nationalem Recht
-4. Leitentscheidung des EuGH (als Prüfpunkt markiert; live zu prüfen unter curia.europa.eu)
-5. Empfehlung zur Rechtsprechungsrecherche
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.
-
----
-
-## Skill: `konkurrenzen-anspruchsgrundlagen`
-
-_Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht, nationalem zu Unionsrecht, StGB zu OWiG im Subsumtions Prüfer._
-
-# Konkurrenzen und Anspruchsgrundlagen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn — kläre vor der Konkurrenzprüfung
-
-1. Wie viele Normen kommen für denselben Sachverhalt in Betracht?
-2. Regeln diese Normen dieselbe Rechtsfolge oder unterschiedliche?
-3. Enthält eine Norm einen ausdrücklichen Ausschluss der anderen (Subsidiaritätsklausel)?
-4. Stammen die Normen aus unterschiedlichen Rangstufen (Verfassung, Gesetz, VO)?
-5. Stammt eine Norm aus dem Unionsrecht? → Anwendungsvorrang prüfen
-
-## Zentrale Normen und Prinzipien
-
-- Art. 288 AEUV — Unmittelbare Geltung von EU-Verordnungen; Anwendungsvorrang vor nationalem Recht
-- § 21 OWiG — Tateinheit von Straftat und OWiG-Tatbestand (Straftat geht vor)
-- §§ 280 ff. BGB i.V.m. §§ 434 ff. BGB — Kaufgewährleistung als lex specialis zu allg. Schadensersatz
-- § 823 Abs. 1 BGB — Echte Konkurrenz zu § 823 Abs. 2 BGB (jede Norm selbständig prüfen)
-- §§ 812 ff. BGB — Subsidiarität des Bereicherungsrechts gegenüber vertraglichen Ansprüchen
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Grundbegriffe
-
-### Anspruchskonkurrenz (echte Konkurrenz)
-
-Mehrere Normen sind gleichzeitig anwendbar; jede begründet selbständig den Anspruch. Der Gläubiger kann alle geltend machen, aber nur einmal Befriedigung verlangen.
-
-**Beispiel:** § 823 Abs. 1 BGB und § 823 Abs. 2 BGB i.V.m. § 229 StGB bestehen nebeneinander.
-
-### Spezialität (lex specialis derogat legi generali)
-
-Die speziellere Norm verdrängt die allgemeinere im Bereich der geregelten Materie.
-
-**Entscheidungsbaum Spezialität:**
-```
-Regelt Norm A dasselbe wie Norm B, aber vollständiger?
-├─ Ja → Norm A (lex specialis) geht vor → Norm B nicht anwenden
-└─ Nein → beide Normen in Konkurrenz → beide prüfen
-```
-
-**Beispiele:**
-- Kaufgewährleistung (§§ 434 ff. BGB) ist speziell zu allgemeinem Schadensersatzrecht im Äquivalenzbereich
-- DSGVO verdrängt BDSG als lex specialis des Unionsrechts
-- § 21 OWiG: Straftatbestand verdrängt OWiG-Tatbestand bei Tateinheit
-
-### Subsidiarität (lex primaria)
-
-Eine Norm gilt nur, wenn eine andere Norm nicht eingreift.
-
-**Beispiele:**
-- § 826 BGB — subsidiär, aber eigenständig bei sittenwidrigem Schädigungsvorsatz
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Lex posterior und lex superior
-
-- **Lex posterior:** jüngere Norm gleicher Rangstufe verdrängt ältere
-- **Lex superior:** höherrangige Norm verdrängt niederrangige (Verfassung > Gesetz > VO)
-- Im Unionsrecht: Primärrecht > Sekundärrecht > nationales Recht (Anwendungsvorrang)
-
-## Verhältnis Vertrags- zu Deliktsrecht
-
-**Grundsatz:** Anspruchskonkurrenz — beide bestehen nebeneinander.
-
-**Ausnahme Spezialität bei reinem Äquivalenzinteresse:** Wenn der Schaden nur im Wert der mangelhaften Sache selbst besteht und kein Weiterfresserschaden vorliegt, verdrängt Kaufgewährleistung den Deliktsanspruch.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Ausgabe
-
-Das System erstellt eine Konkurrenz-Tabelle:
-- Alle einschlägigen Normen
-- Verhältnis zueinander (Konkurrenz / Spezialität / Subsidiarität)
-- Empfohlene Prüfungsreihenfolge
-- Hinweis auf verbleibende Kumulation oder Ausschluss
-
----
-
-## Skill: `grundrechte-pruefung-de-und-grch`
-
-_Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterscheidet Abwehr-, Leistungs- und Schutzpflichtdimension. Verhältnismäßigkeitsprüfung mit Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit im Subsumtions Prüfer._
-
-# Grundrechte prüfen — GG und GRCh
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Drei-Schritt-Schema der Grundrechtsprüfung
-
-### Schritt 1 — Schutzbereich
-
-**Sachlicher Schutzbereich:** Welches Verhalten, welche Rechtspositionen schützt das Grundrecht?
-
-- Art. 5 Abs. 1 GG: Meinungsfreiheit — Werturteile; keine Tatsachenbehauptungen (str.); keine Schmähkritik
-- Art. 12 Abs. 1 GG: Berufsfreiheit — Wahl und Ausübung von Beruf und Arbeit
-- Art. 14 Abs. 1 GG: Eigentum — vermögenswerte Rechtspositionen; kein künftiger Erwerb
-- Art. 2 Abs. 1 GG: Allgemeine Handlungsfreiheit — Auffanggrundrecht
-- Art. 3 Abs. 1 GG: Gleichheitssatz — kein Differenzierungsverbot; nur willkürliche Ungleichbehandlung verboten
-
-**Persönlicher Schutzbereich:** Wer ist Träger des Grundrechts? Natürliche Personen; juristische Personen des Privatrechts (Art. 19 Abs. 3 GG), soweit das Grundrecht seinem Wesen nach anwendbar ist.
-
-### Schritt 2 — Eingriff
-
-**Klassischer Eingriff:** Finaler, unmittelbarer, rechtlicher, imperativer Akt staatlicher Gewalt.
-
-**Moderner Eingriffsbegriff:** Auch mittelbar-faktische Beeinträchtigungen können Eingriff sein, wenn sie in ihrer Intensität einem Eingriff gleichkommen (BVerfG ständige Rechtsprechung — Osho, Glykol).
-
-**Abgrenzung:** Nicht jede nachteilige staatliche Maßnahme ist ein Grundrechtseingriff. Rein fiskalisches Handeln, einfachgesetzliche Regelungen ohne Schutzbereichsbezug: kein Eingriff.
-
-### Schritt 3 — Rechtfertigung
-
-#### Schranken
-
-Die Schranke des Grundrechts bestimmt, unter welchen Voraussetzungen ein Eingriff gerechtfertigt werden kann:
-- Einfacher Gesetzesvorbehalt (z. B. Art. 2 Abs. 1 GG): Eingriff durch jedes formelle Gesetz möglich
-- Qualifizierter Gesetzesvorbehalt (z. B. Art. 11 Abs. 2 GG): nur zum Schutz bestimmter Rechtsgüter
-- Schrankenlos (absolute Grundrechte, z. B. Art. 1 Abs. 1 GG, Art. 4 Abs. 1 GG): kein Eingriff möglich, nur Schutzbereichsabgrenzung
-
-#### Verhältnismäßigkeitsprüfung (Schranken-Schranke)
-
-1. **Legitimer Zweck:** Staatliches Ziel muss verfassungsrechtlich erlaubt sein
-2. **Geeignetheit:** Maßnahme muss Zweck fördern können
-3. **Erforderlichkeit:** Kein gleich geeignetes, milderes Mittel
-4. **Angemessenheit (Verhältnismäßigkeit i. e. S.):** Eingriff muss in angemessenem Verhältnis zur Zielerreichung stehen; Abwägung Eingriffsschwere vs. Gemeinwohlgewicht
-
-## GRCh-Prüfung (Art. 51/52 GRCh)
-
-**Anwendungsbereich Art. 51 Abs. 1 GRCh:** GRCh gilt für Organe der EU und für Mitgliedstaaten, wenn sie Unionsrecht durchführen. Rein nationales Handeln ohne Unionsbezug: GRCh nicht anwendbar.
-
-**Schranken Art. 52 Abs. 1 GRCh:**
-- Eingriff gesetzlich vorgesehen
-- Wesensgehalt nicht angetastet
-- Verhältnismäßigkeit (gleiche Prüfung wie GG: Eignung, Erforderlichkeit, Angemessenheit)
-
-**Parallelprüfung:** Bei Sachverhalten mit Unionsbezug prüft das System GG und GRCh parallel und weist auf inhaltliche Parallelität oder Divergenz hin.
-
-## Schutzpflichtdimension
-
-Grundrechte verpflichten den Staat auch zum aktiven Schutz des Grundrechtsträgers gegenüber Dritten (BVerfG — Lüth; Handelsvertreterentscheidung). Das System fragt: Wird ein Schutzgebot staatlicher Seite geltend gemacht?
-
-## Ausgabe
-
-Strukturiertes Prüfungsprotokoll: Schutzbereich (eröffnet / nicht eröffnet), Eingriff (ja / nein / fraglich), Rechtfertigung (verhältnismäßig / unverhältnismäßig / fraglich), Ergebnis.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
-
----
-
-## Skill: `output-memo-und-mandantenbrief`
-
-_Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo für interne Nutzung mit juristischer Tiefe; Mandantenbrief für Betroffene in verstaendlicher Sprache. Beide mit Pflicht-Haftungshinweis im Subsumtions Prüfer._
-
-# Output: Memo und Mandantenbrief
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-
-1. Ist ein internes Memo oder ein externer Brief gewünscht?
-2. Gibt es ein Aktenzeichen für das Memo?
-3. Soll der Mandantenbrief eine Fristsetzung enthalten?
-4. In welcher Sprache? (Deutsch / Englisch / Zweisprachig → Skill output-fremdsprachig-en-fr)
-
-## Rechtsprechung und berufsrechtliche Grundlage
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Format 1: Interne Aktennotiz (Rechtsmemo)
-
-### Zweck des Memos
-
-Das Memo dokumentiert die Subsumtion intern, dient als Arbeitsgrundlage und als Grundlage für das weitere Vorgehen. Es ist kein Schriftsatz und kein anwaltliches Beratungsschreiben.
-
-### Aufbau
-
-```
-AKTENNOTIZ / RECHTSMEMO
-Erstellt: [Datum]
-Betreff: [Rechtsfrage / Norm / Sachverhalt kurz]
-Aktenzeichen (intern): [optional]
----
-
-I. SACHVERHALT (NUTZEREINGABE)
-[Zusammenfassung des Sachverhalts aus Nutzereingaben — keine eigenen Ergänzungen]
-
-II. GEPRÜFTE NORM(EN)
-[Liste der geprüften Normen]
-
-III. SUBSUMTION
-[Vier-Schritt-Schema je TBM; Ergebnis je TBM]
-
-IV. EINWENDUNGEN / EINREDEN
-[Geprüfte Gegenrechte; Ergebnis]
-
-V. RECHTSFOLGE
-[Bestimmte Rechtsfolge, Höhe, Nebenansprüche]
-
-VI. BEWEISBEDARF
-[Offene TBM; fehlende Belege; Risikohinweis]
-
-VII. EMPFEHLUNG
-[Nächste Schritte: Schriftsatz / Widerspruch / Anwalt / Abbruch]
-
-VIII. WARNHINWEIS
-Dieses Memo ist ein mechanisch erzeugtes Arbeitsdokument auf Basis der Nutzerangaben.
-Es ist keine Rechtsberatung und keine anwaltliche Stellungnahme.
-```
-
-### Sprachstil Memo
-
-Juristisch präzise; Paragrafenangaben vollständig; Zitate im BGH-Format; Abkürzungen bei einmaliger Ausschreibung zulässig.
-
-## Format 2: Mandantenbrief
-
-### Zweck des Mandantenbriefs
-
-Der Mandantenbrief richtet sich an den Betroffenen (nicht-juristischen Leser). Er erklärt das Ergebnis in verständlicher Sprache und gibt klare Handlungsempfehlungen.
-
-### Aufbau
-
-```
-[Ort, Datum]
-Betreff: Ihre Anfrage zu [Sachverhalt kurz]
-Sehr geehrte/r [Name],
-
-[Einleitung: kurze Zusammenfassung des Anliegens]
-[Ergebnis in Alltagssprache: Was haben wir geprüft? Was hat sich ergeben?]
-[Was bedeutet das für Sie? Mögliche nächste Schritte.]
-[Was Sie noch brauchen: Belege, Fristen, Ansprechpartner]
-
-Mit freundlichen Grüßen
-[Absender — ggf. Kanzlei / Beratungsstelle]
-```
-
-### Pflicht-Haftungshinweis im Mandantenbrief
-
-> **Wichtiger Hinweis:** Dieses Schreiben ist das Ergebnis einer mechanischen Prüfung auf Basis der von Ihnen genannten Tatsachen und der von Ihnen gewählten Norm. Es ist keine Rechtsberatung und keine anwaltliche Stellungnahme. Es ersetzt nicht die Prüfung durch einen zugelassenen Rechtsanwalt. Wenn Sie rechtliche Schritte einleiten oder auf dieses Ergebnis vertrauen möchten, wenden Sie sich bitte zuerst an einen Fachanwalt.
-
-### Sprachstil Mandantenbrief
-
-Verständlich, direkt, ohne Fachbegriffe (oder mit sofortiger Erklärung). Details in Skill `output-alltagssprache-de`.
-
-## Auswahl durch Nutzer
-
-Das System fragt: Welches Format benötigen Sie?
-- (A) Interne Aktennotiz (Rechtsmemo)
-- (B) Mandantenbrief (externer Brief an Betroffene)
-- (C) Beides
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 ---
 

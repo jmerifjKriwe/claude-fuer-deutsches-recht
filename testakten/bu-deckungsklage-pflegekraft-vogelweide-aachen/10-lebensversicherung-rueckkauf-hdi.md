@@ -55,4 +55,3 @@ Der BGH hatte bereits 2005 entschieden (IV ZR 162/03 und IV ZR 201/03), dass Kla
 - Prüfung der Zillmerungsklauseln in den HDI-AVB 2003
 - Vergleichsberechnung Einmalauszahlung vs. Rentenoption (vgl. xlsx/02)
 - Ggf. Ombudsmann-Verfahren oder Klage vor dem LG Hannover
-

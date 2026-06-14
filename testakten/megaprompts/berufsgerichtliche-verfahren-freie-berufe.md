@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 95 Skills des Plugins `berufsgerichtliche-verfahren-freie-berufe`.
+Dieser Megaprompt enthaelt top-10 von 99 Skills des Plugins `berufsgerichtliche-verfahren-freie-berufe`.
 
 ## Inhaltsverzeichnis
 

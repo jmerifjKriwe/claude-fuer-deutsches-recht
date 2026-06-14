@@ -1,3 +1,26 @@
+# v322.0.0 — Salvage des alten Haupt-Worktrees: Fachskills gerettet und Boilerplate reduziert
+
+Der alte lokale `main`-Worktree wurde intensiv gegen den aktuellen Release-Stand abgeglichen. Ziel war kein blindes Zurueckrollen, sondern Wissensrettung ohne Generator-/Versionsrauschen.
+
+## Uebernommen
+
+- 2.352 bislang nur lokal vorhandene Skill-Ordner aus dem alten Worktree in den aktuellen Stand uebernommen.
+- 2.449 weitere alte, inhaltlich nicht repraesentierte und konfliktfreie Skill-Ordner nach Hash-/Titel-/Frontmatter-Pruefung uebernommen.
+- 145 bestehende Skills durch die alte, erkennbar boilerplateaermere Fassung ersetzt, wenn der aktuelle Body nur generischen Generatorrahmen enthielt.
+- Besonders betroffen: roemisch-katholisches Kirchenrecht, PrALR, Verbraucherinsolvenz, Insiderrecht, Internal Investigations, Notariat, Weltraumrecht, Festlandchina-Wirtschaftsverkehr, Luft-/Seerecht, Miet/WEG und weitere wirtschaftsrechtliche Fachplugins.
+
+## Nicht uebernommen
+
+- Alte Manifest-, Marketplace-, README- und Versionsstaende aus dem Haupt-Worktree wurden nicht kopiert. Diese Dateien wurden aus dem aktuellen Release-Stand neu generiert.
+- Bestehende aktuelle Skills wurden nicht ueberschrieben, wenn der alte Body fachlich duenner oder nur allgemeiner war.
+
+## Sanity
+
+- Skill-/Plugin-Übersichten und Megaprompts neu generiert.
+- Frontmatter, Pluginstruktur, Testakten-Gesamt-PDFs, Release-ZIPs und Testakten-ZIPs erneut validiert.
+
+---
+
 # v321.0.0 — Rechtsprechungsanker-Sanity in Kernplugins
 
 Quick-Win-Release nach Sanity-Check wesentlicher Plugins: einzelne fachlich dünnere Kernbereiche wurden mit verifizierten, frei prüfbaren Rechtsprechungsankern nachgeschärft.

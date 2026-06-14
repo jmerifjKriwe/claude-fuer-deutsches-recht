@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 360 Skills (gekuerzt fuer Chat-Fenster) des Plugins `datenschutzrecht`.
+Dieser Megaprompt enthaelt top-8 von 365 Skills (gekuerzt fuer Chat-Fenster) des Plugins `datenschutzrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Datenschutzrecht DSGVO/BDSG: ordnet Rolle (Verantwortlicher, Auftragsverarbeiter, Betro…
 2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Datenschutzrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und …
 3. **dsgvo-erstpruefung-und-mandatsziel** — DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel.
-4. **datenschutz-schadensersatz-art-82-dsgvo** — Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21…
-5. **anpassen** — Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. …
-6. **anwendungsfall-triage** — Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG.…
-7. **art-9-besondere-kategorien** — Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassis…
-8. **aufnahme-statusinformation** — Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten i…
+4. **datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit** — Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21…
+5. **datenschutz-mandatssteckbrief-fristen-rollen** — Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Man…
+6. **datenschutz-schadensersatz-art-82-dsgvo** — Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21…
+7. **anpassen** — Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. …
+8. **anwendungsfall-triage** — Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG.…
 
 ---
 
@@ -342,6 +342,296 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Einwilligung (Art. 6 Abs. 1 lit. a) ist klar, aber jederzeit widerrufbar (Art. 7 Abs. 3) — bei laufender Verarbeitung problematisch (z. B. KI-Modell-Training). Berechtigtes Interesse (lit. f) ist robuster, aber abwägungsanfällig — dokumentierte LIA (Legitimate Interest Assessment) ist Pflicht.
+
+---
+
+## Skill: `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
+
+_Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris GmbH C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjaehrung Anspruchskonkurrenz. Schritt-fuer-Schritt fuer Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung._
+
+# Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
+
+## Zweck
+
+Dieser Skill bearbeitet Schadensersatzansprueche nach Art. 82 DSGVO vor deutschen Zivilgerichten — sowohl auf Klaeger- als auch auf Beklagtenseite. Er konzentriert sich auf den materiellen und immateriellen Schaden, die Kausalitaet zum DSGVO-Verstoss und die Beweislastverteilung nach der inzwischen verfestigten EuGH-Rechtsprechung.
+
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+
+Sie brauchen den Skill, sobald (a) ein Betroffener Schadensersatz vom Mandanten verlangt oder (b) der Mandant gegen einen Verantwortlichen vorgehen will.
+
+Sieben-Fragen-Diagnose:
+
+1. **Anspruchsteller oder Anspruchsgegner?** Andere Schritte je nach Seite.
+2. **Welcher konkrete Verstoss?** Norm und Sachverhalt — nicht pauschal "DSGVO verletzt".
+3. **Kausalitaet:** Welcher Schaden hat sich aus welchem Verstoss konkret entwickelt? Kausalkette schriftlich.
+4. **Schadensart:** Materiell (Vermoegen) und/oder immateriell (Gefuehl, Kontrollverlust, Sorge)? Hoehe geschaetzt?
+5. **Beweislast:** Wer muss was beweisen — Verantwortlicher entlastet sich nach Art. 82 III DSGVO, dass er nicht verantwortlich ist; Klaeger muss Verstoss und Schaden darlegen.
+6. **Verjaehrung:** Art. 82 selbst regelt nichts; nach BGH-Rspr. § 195 BGB drei Jahre ab Kenntnis.
+7. **Anspruchskonkurrenz:** UWG, BDSG § 83, deliktische Ansprueche §§ 823 ff. BGB?
+
+## Rechtlicher Rahmen
+
+- **Art. 82 I DSGVO** Jede Person, die einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch gegen den Verantwortlichen oder Auftragsverarbeiter.
+- **Art. 82 II DSGVO** Verantwortlicher haftet fuer Schaeden aus Verarbeitungen; Auftragsverarbeiter nur bei Pflichtverletzung gegen DSGVO-Auftragsverarbeiterspflichten oder Weisung.
+- **Art. 82 III DSGVO** Entlastung des Verantwortlichen oder Auftragsverarbeiters bei Nachweis, in keinerlei Hinsicht verantwortlich.
+- **Art. 82 IV DSGVO** Gesamtschuld bei mehreren Verantwortlichen.
+- **EuGH C-300/21 Oesterreichische Post** (Urteil 04.05.2023): Kein blosser Verstoss reicht; konkreter Schaden notwendig; keine Erheblichkeitsschwelle.
+- **EuGH C-340/21 Bulgarian Sofia** (Urteil 14.12.2023): Auch blosse Sorge vor Datenmissbrauch kann immaterieller Schaden sein; Verantwortlicher hat TOM-Pflicht und Beweislast fuer Geeignetheit; Hackerangriff allein entlastet nicht.
+- **EuGH C-687/21 MediaMarkt** (Urteil 25.01.2024): Befuerchtungen Betroffener koennen Schaden begruenden; konkretes Ausmass und Kausalitaet sind zu pruefen.
+- **EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH):** Verschulden und Schaden — Art. 82 DSGVO setzt Verschulden voraus; Hoehe nach nationalem Recht, aber unter Beachtung Effektivitaet und Aequivalenz.
+- **EuGH C-456/22 VX/Saale** (Urteil 14.12.2023): Schadensersatz hat kompensatorische und keine Straffunktion; auch geringe Schadenshoehen moeglich.
+- **BGH VI ZR 1148/22** (Urteil 18.11.2024): Bei DSGVO-Verstoss zeitnah Kontrollverlust und Folgen darzulegen; pauschale Behauptung reicht nicht.
+- **Art. 79 II DSGVO** Gerichtsstand am Sitz des Verantwortlichen oder gewoehnlichen Aufenthaltsort des Betroffenen.
+- **§ 195 BGB** drei Jahre.
+
+## Mandantenfuehrung Schritt-fuer-Schritt
+
+### Klaegerseite
+
+1. **Zuerst:** Beleg-Akte anlegen — Mailverkehr, Screenshots, Auskunftsersuchen nach Art. 15 DSGVO mit Antwort.
+2. **Als zweites:** Schadensdarstellung konkretisieren — Gefuehlssituation, zeitlicher Verlauf, Folgen (Sorge, Kontrollverlust, Aengste, konkrete Aufwendungen).
+3. **Als drittes:** Klage einreichen — Gerichtsstand Art. 79 II DSGVO, regelmaessig Amtsgericht bis 5.000 EUR.
+
+### Beklagtenseite
+
+1. **Zuerst:** Klageerwiderungsfrist sichern (§ 277 ZPO).
+2. **Als zweites:** Tatbestand pruefen — Verstoss nachweisbar? TOM Art. 32 dokumentiert? Belege fuer entlastenden Nachweis Art. 82 III?
+3. **Als drittes:** Kausalitaet und Schaden bestreiten — Erhalt von Spam-Mails, Wechselgefuehle ohne konkrete Folge sind nach EuGH C-300/21 nicht ausreichend; aber Sorge kann nach EuGH C-340/21 reichen.
+4. **NICHT vorschnell anerkennen:** Auch nicht "aus Goodwill", da Praezedenz fuer weitere Verfahren.
+5. **Vergleich erwaegen:** Bei klarer Beweislast lieber Vergleich als Praezedenzurteil.
+
+## Trade-off-Matrix
+
+| Variante | Vorteil | Nachteil |
+|---|---|---|
+| Klage mit hohem Streitwert | Maximale Forderung | Hohe Vorschuesse, Risiko Klageabweisung |
+| Streitwertbegrenzung Amtsgericht | Schnell, kostenarm | Reicht oft nicht fuer Praezedenz |
+| Vergleich vor Klage | Schnelle Erledigung | Keine Klaerung, Wiederholungsrisiko |
+| Vollstaendige Verteidigung | Praezedenz, klare Rechtslage | Reputationsrisiko, Folgeklagen |
+
+## Mustertexte
+
+### Klageschrift (Kerntext)
+
+> Klage wegen Schadensersatzes nach Art. 82 DSGVO
+>
+> Klaeger: [Person, Anschrift]
+> Beklagte: [Verantwortlicher, Anschrift]
+> Streitwert: vorlaeufig [Betrag]
+>
+> Antrag: Die Beklagte wird verurteilt, an die Klaegerseite [Betrag] nebst Zinsen in Hoehe von fuenf Prozentpunkten ueber dem Basiszinssatz seit Rechtshaengigkeit zu zahlen.
+>
+> Begruendung:
+> I. Sachverhalt (konkret Vorfall, Datum, Datenkategorie).
+> II. Rechtlicher Rahmen (Art. 82 I DSGVO, EuGH C-300/21, EuGH C-340/21).
+> III. Konkrete Pflichtverletzung (DSGVO-Norm).
+> IV. Kausaler Schaden (immateriell mit Sorge, Kontrollverlust; materiell mit konkretem Betrag).
+> V. Hoehe (Begruendung der Schaetzung).
+> VI. Gerichtsstand Art. 79 II DSGVO.
+
+### Klageerwiderung — Kernpunkte
+
+> 1. Verstoss bestreiten oder relativieren (welche DSGVO-Norm konkret und Subsumtion).
+> 2. Schaden bestreiten: blosse Sorge ohne Substanz reicht nach BGH VI ZR 1148/22 nicht; konkrete Folgen notwendig.
+> 3. Kausalitaet bestreiten — auch bei TOM-Pflichtverletzung muss Schaden konkret aus Verletzung resultieren.
+> 4. Entlastung Art. 82 III: TOM Art. 32 lagen vor (Anlage), Massnahmen waren angemessen.
+> 5. Verjaehrung pruefen (§ 195 BGB).
+> 6. Hilfsweise Minderung der Hoehe (EuGH C-456/22: kompensatorisch, nicht praeventiv).
+
+## Typische Fehler
+
+- Pauschale Schadensbehauptung "Kontrollverlust" ohne konkrete Substanz (BGH VI ZR 1148/22).
+- TOM-Pflicht Art. 32 unterschaetzt — Beklagte muss Massnahmen aktiv belegen.
+- Verschuldensfrage nach EuGH C-741/21 uebersehen.
+- Streitwert zu hoch angesetzt — bei AG-Zustaendigkeit Vorbehalt.
+- Verjaehrung nicht gerueckpruefte (§ 195 BGB drei Jahre ab Kenntnis).
+
+**Was triggert hohe Schadensersatzbetraege?** Art. 9-Daten, Massenvorfall, nachweisbare Kettenfolge (Identitaetsdiebstahl), fehlende Reaktion des Verantwortlichen, kein DSB.
+
+## Querverweise
+
+- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
+- `datenschutz-auskunftsersuchen-art-15-praxis`
+- `datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung`
+- `dsr-schadensersatz-art82-spezial`
+- `datenschutz-datenpanne-art-33-34-72h-incident-response`
+
+## Quellen Stand 06/2026
+
+- DSGVO Art. 79, 82, 83.
+- BGB § 195, § 199, § 823, § 826.
+- BGH VI ZR 1148/22, Urteil 18.11.2024 (zu pauschalen Behauptungen Kontrollverlust).
+- EuGH C-300/21 Oesterreichische Post, Urteil 04.05.2023.
+- EuGH C-340/21 Bulgarian Sofia, Urteil 14.12.2023.
+- EuGH C-687/21 MediaMarkt, Urteil 25.01.2024.
+- EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH), vor Ausgabe über curia.europa.eu verifizieren.
+- EuGH C-456/22 VX gegen Saale, Urteil 14.12.2023.
+- Keine Aufsatzfundstellen aus Modellwissen.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+---
+
+## Skill: `datenschutz-mandatssteckbrief-fristen-rollen`
+
+_Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Datenschutzprüfung._
+
+# Datenschutzmandat: Steckbrief, Fristen, Rollen und Kontexttrennung
+
+## Zweck
+
+Isolation von Datenschutzmandaten in Mehrmandat-Kanzleien: Jeder Mandant erhält einen eigenen Arbeitsbereich mit eigener Mandatsdatei (`mandat.md`). Skills lesen das kanzlei-weite Praxisprofil (`CLAUDE.md`) für kanzleiweite Regeln und die mandatsspezifische Datei für mandatsspezifische Fakten. Kontext, Erkenntnisse und Ausgaben fließen nicht zwischen Mandaten durch.
+
+**Nur relevant für Mehrmandat-Kanzleien.** Bei internem Unternehmenseinsatz (ein Verantwortlicher) ist dieser Skill deaktiviert; Skills verwenden das Praxisprofil direkt.
+
+Beachte: Mandantendaten unterliegen § 43a Abs. 2 BRAO, § 203 StGB. Mandatsisolation ist datenschutz- und berufsrechtliche Pflicht.
+
+## Eingaben
+
+- Befehlsform: `neu | liste | wechsle [Mandat-ID] | schließe [Mandat-ID] | keins`
+- Bei `neu`: Mandantenname, kurze Beschreibung des Datenschutzmandats, Mandats-ID (Kürzel)
+- Bei `wechsle`: Mandat-ID des Zielmandats
+
+## Ablauf
+
+### `neu` – Neues Mandat anlegen
+
+1. Mandat-ID vergeben (Kürzel, z.B. `mand-2024-04-mueller-dsfa`).
+2. Verzeichnis anlegen: `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/mandate/[mandat-id]/`
+3. Leere `mandat.md` mit Pflichtfeldern anlegen (s. Struktur unten).
+4. Aktives Mandat in Praxisprofil auf neue ID setzen.
+5. Bestätigung ausgeben: "Mandat [ID] angelegt. Alle folgenden Skill-Aufrufe arbeiten in diesem Mandatskontext."
+
+### `liste` – Mandatsübersicht
+
+Alle Verzeichnisse unter `mandate/` auflisten:
+| Mandat-ID | Mandant | Beschreibung | Status | Letzte Aktivität |
+|---|---|---|---|---|
+| … | … | … | offen / abgeschlossen | Datum |
+
+### `wechsle [Mandat-ID]` – Mandat wechseln
+
+1. Mandat-ID aus Liste verifizieren.
+2. Aktives Mandat in Praxisprofil auf neue ID setzen.
+3. Bestätigung ausgeben; laufende offene Aufgaben im alten Mandat nennen, falls vorhanden.
+
+### `schließe [Mandat-ID]` – Mandat abschließen
+
+1. Status in `mandat.md` auf "abgeschlossen" und Abschlussdatum setzen.
+2. Aktives Mandat zurücksetzen (auf "keins").
+3. Ausgabedateien des Mandats sind weiter zugänglich, werden aber nicht mehr von Skills aktiv gelesen.
+
+### `keins` – Kanzlei-Kontext (kein aktives Mandat)
+
+Skills arbeiten im kanzlei-weiten Praxisprofil ohne mandatsspezifischen Kontext. Sinnvoll für allgemeine Kanzlei-Konfiguration oder Skills die sich auf die gesamte Kanzlei beziehen (z.B. Policy-Monitor für kanzlei-interne Richtlinien).
+
+## Matter.md-Struktur
+
+```markdown
+# Mandat: [Mandat-ID]
+
+## Mandant
+- **Name:** [Mandantenname]
+- **Rechtsform:** [GmbH / AG / Einzelperson / öffentliche Stelle]
+- **Branche:** [Branche]
+- **Hauptniederlassung:** [Bundesland]
+- **Rolle Mandant:** [Verantwortlicher / Auftragsverarbeiter / beides]
+
+## Mandatsbeschreibung
+[Kurzbeschreibung: Was ist der Auftrag? Welches datenschutzrechtliche Vorhaben?]
+
+## Zuständige Aufsichtsbehörde (Mandant)
+[BfDI / LfDI [Bundesland]]
+
+## Ansprechpartner
+- **Mandant:** [Name, E-Mail]
+- **DSB Mandant:** [Name oder "nicht bestellt"]
+- **Kanzlei intern:** [zuständige·r Anwalt/Anwältin]
+
+## Abweichungen vom Kanzlei-Praxisprofil
+[Nur aufführen, was beim Mandanten anders ist als im kanzlei-weiten Profil]
+- Rechtsgrundlage: [...]
+- AVV-Positionen: [...]
+- DSFA-Auslöser: [...]
+
+## Systemliste Mandant (für Betroffenenanfragen Art. 15 DSGVO)
+- [System 1]
+- [System 2]
+
+## Verarbeitungsverzeichnis
+[Pfad oder "noch nicht bereitgestellt"]
+
+## Ausgaben dieses Mandats
+[Ordnerpfad oder Auflistung erstellter Dokumente]
+
+## Status
+offen / abgeschlossen
+**Abgeschlossen am:** [Datum]
+```
+
+## Quellen und Zitierweise
+
+Verbindlich nach `../../references/zitierweise.md`.
+
+- § 43a Abs. 2 BRAO (Verschwiegenheitspflicht Rechtsanwalt)
+- § 203 StGB (Verletzung von Privatgeheimnissen, Berufsgeheimnisträgerpflicht)
+- Art. 28, 29 DSGVO (Auftragsverarbeitung bei Nutzung externer Systeme)
+- Art. 25 DSGVO (Datenschutz durch Technikgestaltung – Mandatsisolation als TOMs)
+- Zuck, in: Zuck/Lenz, Anwaltsrecht, 2. Aufl. 2018, § 43a BRAO Rn. 15 ff. (Berufsgeheimnis).
+
+## Ausgabeformat
+
+- Kurzbestätigungen (angelegt, gewechselt, geschlossen) als einzeilige Statusnachricht
+- Mandatsübersicht als Tabelle
+- `mandat.md` als vollständig befülltes Dokument
+
+## Risiken / typische Fehler
+
+- **Mandatsisolation nicht gewährleistet:** Wenn Skills ohne aktives Mandat auf mandatsspezifische Daten zugreifen oder mandatsübergreifend aggregieren, verletzt dies § 43a Abs. 2 BRAO und Art. 5 Abs. 1 lit. f DSGVO (Integrität und Vertraulichkeit).
+- **Keine Löschung abgeschlossener Mandate:** Ordner nicht löschen – Aktenaufbewahrungspflicht nach § 50 Abs. 1 BRAO (6 Jahre nach Ablauf des Kalenderjahres, in dem das Mandat endete).
+- **Mandant ist selbst AV:** Wenn der Mandant selbst Auftragsverarbeiter eines Dritten ist, kann das Datenschutzmandat vertikale Sub-AV-Fragen berühren (Art. 28 Abs. 2 Satz 2 DSGVO). In `mandat.md` explizit vermerken.
+- **Aktives Mandat nicht zurückgesetzt:** Nach Mandatswechsel immer prüfen, dass kein unbeabsichtigter Mandatskontext aktiv ist. Standardbefehl `keins` nach Mandatsabschluss empfohlen.
+
+## Quellen / Updates
+
+Stand: 05/2026. Aktualität prüfen bei Änderungen der BRAO (Aktenaufbewahrungspflicht § 50 BRAO), StGB § 203 oder DSGVO-Anforderungen an technische Isolation.
+
+**Querverweise:**
+- `datenschutzrecht/skills/mandantendaten-ki/SKILL.md` — Mandatsisolation bei KI-Diensten
+- `datenschutzrecht/skills/avv-pruefung/SKILL.md` — Mandatsspezifische AVV-Prüfung
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Triage zu Beginn
+
+1. Wie viele Mandate/Mandanten sind gleichzeitig aktiv?
+2. Sind die Mandate datenschutzrechtlich voneinander zu isolieren (unterschiedliche Verantwortliche)?
+3. Liegt ein Interessenkonflikt zwischen Mandaten vor?
+4. Sollen mandatsspezifische Praxisprofile (unterschiedliche AVV-Playbooks) genutzt werden?
+
+## Output-Template — Mandatsarbeitsbereich-Status
+
+**Adressat:** Kanzlei intern — Tonfall: sachlich-strukturiert
+
+```
+Mandatsarbeitsbereich-Übersicht [DATUM]
+Aktive Arbeitsbereich-IDs:
+- [ID_1]: [MANDANT/PROJEKT] | Status: aktiv/geschlossen | Kontext: isoliert
+- [ID_2]: [MANDANT/PROJEKT] | Status: aktiv | Kontext: isoliert
+
+Aktuell aktiver Kontext: [ID_X]
+Sicherheitshinweis: Kontextleak zwischen Mandaten wurde verhindert.
+Letzter Wechsel: [DATUM, UHRZEIT]
+```
 
 ---
 
@@ -814,192 +1104,6 @@ Naechste Schritte:
 Frist: [DATUM]
 Verantwortlich: [PERSON / ROLLE]
 ```
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 5 DSGVO (Grundsätze der Verarbeitung)
-- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
-- Art. 13, 14 DSGVO (Informationspflichten)
-- Art. 15 DSGVO (Auskunftsrecht)
-- Art. 28 DSGVO (Auftragsverarbeitung)
-- Art. 32 DSGVO (Sicherheit der Verarbeitung)
-- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
-- Art. 82 DSGVO (Schadensersatz)
-- Art. 83 DSGVO (Bußgelder)
-- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
-
-### Leitentscheidungen
-
-- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
-- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
-- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
-- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
-- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
-
-### Anwendung im Skill
-
-- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
-- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
-- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
-
----
-
-## Skill: `art-9-besondere-kategorien`
-
-_Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinungen; religiöse/weltanschauliche Überzeugungen; Gewerkschaftszugehörigkeit; genetische und biometrische Daten zur eindeutigen Identifizie..._
-
-# Besondere Kategorien Art. 9 DSGVO im Datenschutzvorfall
-
-## Triage — kläre vor der Bearbeitung
-
-1. Liegen Daten im Sinne Art. 9 Abs. 1 DSGVO vor — wenn ja welche konkret?
-2. Wie viele Betroffene und welche Mengen?
-3. Sind die Daten im Klartext oder verschlüsselt oder pseudonymisiert?
-4. Welche besondere Aufsicht (Sektorbehörde) ist zuständig?
-5. Welche besondere Bußgeldhöhe droht (Art. 83 Abs. 5 DSGVO)?
-- Was will der Mandant wirklich erreichen? (Schadensbegrenzung; rechtskonforme Benachrichtigung)
-
-## Rechtsgrundlagen
-
-- **Art. 9 Abs. 1 DSGVO** Verbot mit Erlaubnisvorbehalt; **Art. 9 Abs. 2 DSGVO** Ausnahmen.
-- **Art. 34 Abs. 1 DSGVO** Benachrichtigung bei hohem Risiko — bei Art. 9 regelmäßig zu bejahen.
-- **Art. 83 Abs. 5 lit. a DSGVO** verschärfter Bußgeldrahmen bis 20 Mio. EUR oder 4 Prozent.
-- **Erwägungsgrund 75 DSGVO** besondere Risiken bei sensiblen Daten.
-
-## Aktuelle Rechtsprechung
-
-Nicht aus Modellwissen; insbesondere zu Gesundheitsdaten-Leaks und Bußgeldhöhen vor Ausgabe verifizieren.
-
-## Zentrale Normen
-
-Art. 9 Abs. 1; Art. 9 Abs. 2; Art. 34 Abs. 1; Art. 83 Abs. 5 lit. a DSGVO; Erwägungsgrund 75.
-
-## Praxisformulierung — Schutzbedarfsanalyse Art. 9
-
-Welche Kategorie liegt vor; in welcher Form (Klartext / pseudonymisiert / verschlüsselt); welche Anzahl; welche Folgen sind plausibel.
-
-Conclusion: bei Art. 9-Daten im Klartext regelmäßig Meldung Art. 33 und Benachrichtigung Art. 34; Begründung schriftlich für die Akte.
-
-## Abgrenzung zu anderen Skills
-
-- `dsv-aufnahme-statusinformation` bildet die strukturierte Erstaufnahme; dieser Skill setzt darauf auf.
-- `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
-- `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
-- `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
-
-- `dsv-paragraf-203-stgb-berufsgeheimnis` deckt strafrechtliche Geheimnistraeger ab.
-- `dsv-sozialdaten-sgb` deckt Sozialdaten ab.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 5 DSGVO (Grundsätze der Verarbeitung)
-- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
-- Art. 13, 14 DSGVO (Informationspflichten)
-- Art. 15 DSGVO (Auskunftsrecht)
-- Art. 28 DSGVO (Auftragsverarbeitung)
-- Art. 32 DSGVO (Sicherheit der Verarbeitung)
-- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
-- Art. 82 DSGVO (Schadensersatz)
-- Art. 83 DSGVO (Bußgelder)
-- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
-
-### Leitentscheidungen
-
-- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
-- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
-- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
-- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
-- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
-
-### Anwendung im Skill
-
-- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
-- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
-- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
-
----
-
-## Skill: `aufnahme-statusinformation`
-
-_Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datu..._
-
-# Datenschutzvorfall — Erstaufnahme als Statusinformation
-
-## Aktenstart statt Formularstart
-
-Wenn zu **Aufnahme Statusinformation** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
-
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
-
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Triage — kläre vor der Bearbeitung
-
-1. Wann genau wurde der Vorfall durch wen bemerkt und an welche interne Stelle gemeldet?
-2. Welche Datenkategorien und welcher Personenkreis sind potenziell betroffen?
-3. Ist der 72-Stunden-Lauf nach Art. 33 Abs. 1 DSGVO bereits angestoßen oder läuft er noch?
-4. Welche Sofortmaßnahmen wurden bereits getroffen und welche stehen aus?
-5. Wer ist Empfänger der Statusinformation — Geschäftsleitung, Datenschutzbeauftragter, Vorstand, externer Berater?
-- Was will der Mandant wirklich erreichen? (Lagebild, Entscheidungsgrundlage Meldung, Eskalation, Dokumentation)
-
-## Rechtsgrundlagen
-
-- **Art. 33 Abs. 1 DSGVO** Meldepflicht binnen 72 Stunden ab Kenntniserlangung an die zuständige Aufsichtsbehörde.
-- **Art. 33 Abs. 5 DSGVO** Dokumentationspflicht jedes Vorfalls unabhängig von der Meldepflicht.
-- **Art. 34 DSGVO** Benachrichtigung der betroffenen Personen bei voraussichtlich hohem Risiko.
-- **§ 42 BDSG** Strafvorschriften bei vorsätzlicher unbefugter Offenlegung.
-- **Art. 5 Abs. 2 DSGVO** Rechenschaftspflicht des Verantwortlichen.
-
-## Aktuelle Rechtsprechung
-
-Rechtsprechung wird nicht aus Modellwissen zitiert; aktuelle Entscheidungen des EuGH und BGH zur Auslegung der 72-Stunden-Frist und zum Kenntnisbegriff sind vor Ausgabe über die unten genannten Quellen zu verifizieren.
-
-## Zentrale Normen
-
-Art. 4 Nr. 12; Art. 33 Abs. 1; Art. 33 Abs. 3; Art. 33 Abs. 5; Art. 34 Abs. 1 DSGVO; § 42 BDSG.
-
-## Praxisformulierung — Statusinformation (Stilreferenz Fließtext)
-
-Vorgang: kurze sprechende Bezeichnung des Vorfalls.
-
-Kenntnisnahme: Wer hat wann was durch welche Wahrnehmung erkannt — Reasoning vor Conclusion.
-
-Eingang Service-Desk: Zeitpunkt und Ticketnummer mit kurzer Begründung der Zuordnung.
-
-Eingang Datenschutzpostfach: Zeitpunkt der formalen Weiterleitung an die Datenschutzorganisation.
-
-Sachverhalt: drei bis fünf Sätze; was ist passiert; welche Systeme; welche Datenkategorien; welcher Personenkreis.
-
-72-Stunden-Endpunkt: konkretes Datum und Uhrzeit mit Bezug auf den Kenntnisnahmezeitpunkt.
-
-Ampelstatus: 🟢 unkritisch / 🟡 beobachtet / 🔴 meldepflichtig / ⚫ benachrichtigungspflichtig — mit kurzer Erläuterung.
-
-Aktuelle Einschätzung: technische und organisatorische Lage; eingrenzbar oder nicht.
-
-Bewertung: Wahrscheinlichkeit eines Risikos für die Rechte und Freiheiten; Reasoning vor Conclusion.
-
-Meldepflicht Art. 33: ja / nein / noch offen mit Begründung.
-
-Informationspflicht Art. 34: ja / nein / noch offen mit Begründung.
-
-Nächster Schritt: konkret, mit Verantwortlichem und Zeitpunkt.
-
-## Abgrenzung zu anderen Skills
-
-- `dsv-aufnahme-statusinformation` bildet die strukturierte Erstaufnahme; dieser Skill setzt darauf auf.
-- `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
-- `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
-- `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 ## Normen und Rechtsprechung
 

@@ -72,7 +72,7 @@ Die HOAI ist nicht mehr das alte zwingende Mindestsatzregime für Neuverträge a
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 388 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -102,6 +102,8 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschre
 | `gebaeude-innenraeume-hoai-gerichtsfeste` | HOAI-Praxis: prüft speziell Leistungsbild Gebäude und Innenräume nach § 34 HOAI und Anlage 10; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. |
 | `gerichtsfeste-akte` | HOAI-Praxis: macht aus Projektdaten eine Prozessakte mit Belegpfad und Zeugenliste; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. |
 | `gesamtschuld-bgb-650t` | HOAI-Praxis: ordnet Haftung Architekt/Bauunternehmer und Vorrang der Nacherfüllung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. |
+| `hoai-qualitaetscheck-vor-release` | HOAI-Praxis: prüft, ob ein Plan-/Vergabe-/Baupaket an die nächste Stelle darf; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-subunternehmer-perspektive` | HOAI-Praxis: prüft, welche Planinformationen Subunternehmer wirklich brauchen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `honorar-prozentwert-input-zielcheck` | HOAI LPH 1 Grundlagenermittlung: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewe... |
 | `honorarvereinbarung-paragraph-honorarzone` | HOAI-Praxis: prüft Honorarvereinbarung, Textform, Verbraucherhinweis und Orientierungswerte; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. |
 | `honorarzone-bewertungspunkte-objektliste` | HOAI-Fachfrage: Honorarzone, Bewertungsmerkmale, Objektliste, Punktbewertung und Einordnung nach § 5, § 35 HOAI und Anlage 10 sauber begründen und gegen Über-/Unterzonung prüfen im Hoai Leistungsphasen Praxis. |

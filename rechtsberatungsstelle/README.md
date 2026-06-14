@@ -161,7 +161,7 @@ Alle juristischen Quellen folgen `../references/zitierweise.md`. Beispiele:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -213,12 +213,17 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `semester-uebergabe` | Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an di... |
 | `semesterende-verhandlung-vergleich-und-eskalation` | Semesterende: Verhandlung, Vergleich und Eskalation im Rechtsberatungsstelle. |
 | `sonderfall-edge-case` | Kaltstart: Sonderfall und Edge-Case-Prüfung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verf... |
+| `spezial-mandantenfreundliche-livequellen-check` | Mandantenfreundliche: Livequellen- und Rechtsprechungscheck. |
+| `spezial-pruefwarteschlange-red-team-und-qualitaetskontrolle` | Pruefwarteschlange: Red-Team und Qualitätskontrolle. |
+| `spezial-uebergabe-schriftsatz-brief-und-memo-bausteine` | Uebergabe: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `status` | Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darste... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Rechtsberatungsstelle (RDG): trennt fehlende Tatsachen von fehlenden Belegen (Beratungshilfeschein, Vermögenserklärung, Bescheide Sozialleistungen), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgeri... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Rechtsberatungsstelle. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Rechtsberatungsstelle. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Rechtsberatungsstelle. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Rechtsberatungsstelle. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

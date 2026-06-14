@@ -46,4 +46,3 @@ Abteilung Leistungsprüfung Berufsunfähigkeit
 ---
 
 *Anmerkung Kanzlei Müller-Hauck: Dieses Schreiben enthält mehrere rechtlich angreifbare Positionen — insbesondere den Verweis auf eine Pflegeberatungs-/Heimverwaltungstätigkeit ohne Darlegung konkreter Arbeitsstellen sowie die Verneinung der Dauerhaftigkeit trotz 6-monatiger Arbeitsunfähigkeit. Vgl. Aktenstück 07 (Rechtliche Analyse).*
-

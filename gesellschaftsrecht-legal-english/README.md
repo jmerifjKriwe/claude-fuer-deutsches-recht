@@ -119,7 +119,7 @@ Die Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` eignet sich f�
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -163,6 +163,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `rookie-modus-sha-gesellschaftervereinbarung` | First-Year-Associate-Modus für Corporate Legal English: fuehrt Schritt für Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates im Gesellschaftsrecht Legal English. |
 | `sha-gesellschaftervereinbarung` | Erklaert Shareholders Agreement, Gesellschaftervereinbarung, Stimmbindung, Pooling, Satzungsschnittstelle, Nebenabreden und Vollzug im Gesellschaftsrecht Legal English. |
 | `share-classes-anfaenger` | Erklaert share classes, preferred shares, common shares, Vorzugsrechte, Sonderrechte und deutsche Umsetzungsfragen bei GmbH und AG im Gesellschaftsrecht Legal English. |
+| `spezial-dealroom-livequellen-und-rechtsprechungscheck` | Dealroom: Livequellen- und Rechtsprechungscheck. |
 | `table-term-interessen` | Table: Zahlen, Schwellenwerte und Berechnung im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nut... |
 | `term-mehrparteien-konflikt-und-interessen` | Term: Mehrparteienkonflikt und Interessenmatrix im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt... |
 | `term-sheet-investment-agreement` | Fuehrt durch Term Sheet, Investment Agreement, Bindungswirkung, Conditions, Exclusivity, Confidentiality, Kosten und deutsche Vollzugsmechanik im Gesellschaftsrecht Legal English. |
@@ -173,6 +174,8 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `verdeckte-sacheinlage-vesting-leaver` | Erkennt und prüft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungs... |
 | `vesting-leaver-cliff` | Erklaert Vesting, Cliff, Good Leaver, Bad Leaver, Founder Lock-up, Call Options, Einziehung und Rückübertragung im deutschen Gesellschaftsrecht im Gesellschaftsrecht Legal English. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Gesellschaftsrecht Legal English. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

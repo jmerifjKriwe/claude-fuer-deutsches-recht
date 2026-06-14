@@ -36,4 +36,3 @@ Marion Vogelweide
 ---
 
 *Eingangsvermerk DBV-Winterthur: 18.11.2025, Eingangs-Nr. DBV-BU-2025-19882*
-

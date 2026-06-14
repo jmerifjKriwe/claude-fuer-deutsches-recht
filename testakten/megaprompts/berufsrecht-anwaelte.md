@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 201 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-anwaelte`.
+Dieser Megaprompt enthaelt top-8 von 208 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-anwaelte`.
 
 ## Inhaltsverzeichnis
 

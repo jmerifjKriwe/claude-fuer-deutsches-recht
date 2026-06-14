@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 104 Skills (gekuerzt fuer Chat-Fenster) des Plugins `handelsvertreterrecht`.
+Dieser Megaprompt enthaelt top-8 von 128 Skills (gekuerzt fuer Chat-Fenster) des Plugins `handelsvertreterrecht`.
 
 ## Inhaltsverzeichnis
 

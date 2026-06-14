@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 353 Skills (gekuerzt fuer Chat-Fenster) des Plugins `steuerrecht-anwalt-und-berater`.
+Dieser Megaprompt enthaelt top-8 von 381 Skills (gekuerzt fuer Chat-Fenster) des Plugins `steuerrecht-anwalt-und-berater`.
 
 ## Inhaltsverzeichnis
 
@@ -10,10 +10,10 @@ Dieser Megaprompt enthaelt top-8 von 353 Skills (gekuerzt fuer Chat-Fenster) des
 2. **mandat-triage-steuerrecht** — Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit…
 3. **orientierung** — Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick ü…
 4. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur V…
-5. **akteneinsicht-steuerakte** — Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FG…
-6. **anteilstausch-21-umwstg** — Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolge…
-7. **aussenpruefung-strategien** — Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsan…
-8. **aussetzung-vollziehung** — Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfal…
+5. **fa-stu-onboarding-fristen-uebersicht** — Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung …
+6. **fa-stu-vga-pruefraster** — Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder verhinderte Vermoegensmehrung Veranlassung im …
+7. **fa-stu-onboarding-korrekturnormen** — Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zug…
+8. **fa-stu-aussenpruefung-anordnung-pruefung** — Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprech…
 
 ---
 
@@ -791,258 +791,30 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ---
 
-## Skill: `akteneinsicht-steuerakte`
+## Skill: `fa-stu-onboarding-fristen-uebersicht`
 
-_Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FGO sowie ergaenzend Art. 15 DSGVO bei personenbezogenen Daten. Anwendungsfall Mandant will Prüfungsbericht Aktenvermerk oder Prüfungsakte einsehen um Einspruch oder Klage zu begr..._
+_Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjaehrung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Frist laeuft welche bereits versaeumt ist und ob Wiedereinsetzung moeglich ist. Behandelt Berechnungsregeln §§ 108 AO 222 BGB Zustellungsfiktion § 122 AO ELSTER-/beA-Zugang Fristbeginn bei Sammel- und Aenderungsbescheiden. Output Fristenmatrix mit Ampel-Logik und Berechnungsbeispiel. Abgrenzung zu anw-fristenbuch-steuerrecht (Kanzleisoftware) und fa-stu-onboarding-mandatsannahme._
 
-# Akteneinsicht in Steuerakten
-
-## Fachlicher Anker
-
-- **Normen:** § 6a, § 364 AO, § 78.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Triage — kläre vor dem Antrag
-
-1. In welchem Verfahrensabschnitt befindet sich das Mandat? (Einspruchsverfahren → § 364 AO / Klageverfahren → § 78 FGO)
-2. Wurde der Einspruch bereits eingelegt und das Aktenzeichen des Einspruchsverfahrens benannt?
-3. Gibt es konkrete Hinweise auf Kontrollmitteilungen, Drittauskünfte oder Prüfungsnotizen, die zur Bescheidbegründung beitragen?
-4. Hat das Finanzamt schon Tatsachen bezeichnet auf die es seine Entscheidung stützt (§ 364 Satz 1 AO)?
-5. Ist eine einstweilige Sicherung (AdV) bereits beantragt oder erforderlich — dann Akteneinsicht parallel anfordern.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Rechtsgrundlagen
-
-- **§ 364 AO** Akteneinsicht im Einspruchsverfahren — wesentlicher Aspekt des rechtlichen Gehörs; Behörde teilt die Tatsachen mit auf die sie ihre Entscheidung stützen will.
-- **§ 78 FGO** Akteneinsicht im Klageverfahren vor dem Finanzgericht.
-- **§ 71 Abs. 2 FGO** Beiziehung der Verwaltungsakten durch das Gericht.
-- **Art. 15 DSGVO** Auskunft über eigene personenbezogene Daten — ergänzend nutzbar.
-- **§ 88 AO** Untersuchungsgrundsatz im Verwaltungsverfahren.
-- **§ 30 AO** Steuergeheimnis — Grenze der Einsicht in Drittdaten.
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-§ 364 AO (Akteneinsicht Einspruch) · § 78 FGO (Klageverfahren) · § 71 Abs. 2 FGO (Beiziehung VA) · Art. 15 DSGVO · § 30 AO (Steuergeheimnis) · § 93a AO (Kontrollmitteilungen) · § 87a Abs. 1 S. 2 AO n.F. (ELSTER-Pflicht gegenüber FA)
-
-## Antrag im Einspruchsverfahren (§ 364 AO)
-
-```
-An das Finanzamt [ORT]
-- Steuernummer [NUMMER] -
-
-In dem Einspruchsverfahren über den [STEUERART]-Bescheid [JAHR]
-vom [DATUM], Az. [AKTENZEICHEN]
-
-beantragt der Einspruchsführer [NAME MANDANT],
-vertreten durch RA/StB [KANZLEI]:
-
-Akteneinsicht in die vollständige Steuerakte gemäß § 364 AO
-einschließlich:
-- Veranlagungsakten der Prüfungsjahre [JAHRE]
-- Außenprüfungs-Berichte und Prüfungsnotizen (§§ 193 ff. AO)
-- Aktenvermerke und interne Prüferkommunikation
-- Korrespondenz mit Dritten (Kontrollmitteilungen § 93a AO)
-- DAC7/CRS-Daten soweit entscheidungserheblich
-- Daten aus dem automatischen Informationsaustausch
-
-Bevorzugte Übermittlung: elektronisch über Mein ELSTER;
-alternativ Papierform. Eine Übersendung per beA ist seit
-6.12.2024 unzulässig (§ 87a Abs. 1 S. 2 AO n.F.).
-
-[ORT], [DATUM] [UNTERSCHRIFT]
-```
-
-## Antrag im Klageverfahren (§ 78 FGO)
-
-Antrag beim Finanzgericht auf Akteneinsicht (§ 78 FGO) kombiniert mit Beiziehungsantrag (§ 71 Abs. 2 FGO):
-
-```
-An das Finanzgericht [BUNDESLAND]
-- Abt. [SENAT] / Az. [FG-AKTENZEICHEN] -
-
-In der Streitsache [NAME] ./. Finanzamt [ORT] beantragen wir:
-
-1. Die vollständige Steuerakte betreffend [STEUERART] [JAHRE]
- gemäß § 71 Abs. 2 FGO beizuziehen.
-2. Dem Kläger Einsicht gemäß § 78 FGO in die beigezogene
- Verwaltungsakte zu gewähren, einschließlich interner
- Prüfernotizen und Kontrollmitteilungen.
-3. Geschwärzten Aktenteilen ist eine Begründung der Schwärzung
- beizufügen; bei Streit beantragen wir gerichtliche Prüfung.
-```
-
-## Schritt-für-Schritt-Workflow
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-1. **Aktenlage klären:** Liegt Einspruchsentscheidung vor? → Klageverfahren → § 78 FGO; sonst → § 364 AO.
-2. **Antrag formulieren** (Vorlage oben anpassen, Steuerart, Az, Mandantendaten).
-3. **Versand:** an FA über ELSTER/ERiC oder per Briefpost/Fax (kein beA an FA); an FG über beA (§ 52d FGO).
-4. **Frist überwachen:** FA hat keine gesetzliche Antwortfrist; bei Untätigkeit nach 4 Wochen Erinnerung; bei FG-Verfahren Beiziehungsantrag spätestens mit Klageeinreichung.
-5. **Akteneingang prüfen:** Vollständigkeit anhand Aktendeckel-Übersicht; bei Lücken schriftlich nachhaken.
-6. **Schwärzungen dokumentieren:** Position in Akte, Umfang, Begründung des FA — für spätere gerichtliche Prüfung.
-7. **Auswertung** nach unten stehendem Raster.
-
-## Sonderfälle
-
-### Steuergeheimnis Dritter (§ 30 AO)
-
-- Akten enthalten häufig Daten Dritter (Zeugenangaben, Kontrollmitteilungen, Anzeigen).
-- Schwärzung zulässig wenn Drittdatenschutz dies erfordert.
-- Bei umfangreicher Schwärzung: Antrag auf Begründung; ggf. gerichtliche Prüfung (§ 86 FGO).
-- Prüfen ob die geschwärzten Teile entscheidungserheblich sein könnten → ggf. förmlicher Beweisantrag.
-
-### Prüfungsanmerkungen und interne Vermerke
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Kontrollmitteilungen aus § 93a AO, DAC7-Meldedaten, FATCA-Daten ggf. relevant.
-
-### Internationaler Datenaustausch
-
-- Bei Auslandssachverhalten: Hinweise auf CRS-Daten, DAC-Auskünfte, FATCA — Akteneinsicht auch hierauf erstrecken.
-- DAC7-Plattformdaten: seit 2024 im Einsatz, können Grundlage von Betriebsprüfungen sein.
-
-## Entscheidungsbaum
-
-Liegt Einspruchsentscheidung bereits vor?
-→ **Ja:** Klageverfahren eingeleitet? → Ja: § 78 FGO + § 71 Abs. 2 FGO / Nein: ggf. noch § 364 AO im letzten Schritt des Einspruchsverfahrens
-→ **Nein:** Einspruch eingelegt? → Ja: § 364 AO → Antrag oben / Nein: Einspruch einlegen, dann Akteneinsicht kombinieren
-
-Akte vollständig?
-→ **Ja:** Weiter zu Auswertungsraster
-→ **Nein:** Fehlendes schriftlich nachfordern; bei anhaltender Weigerung im FG-Verfahren Richter zur Beiziehung bewegen (§ 76 FGO Amtsermittlung)
-
-## Auswertung der eingegangenen Akte
-
-Pro Aktenbestandteil:
-
-| Nr. | Datum | Verfasser | Inhalt kurz | Relevanz | Verwendung |
-|---|---|---|---|---|---|
-| 1 | | | | entscheidend / hilfreich / neutral / belastend | Schriftsatz Rn. [X] |
-
-Anschluss an Skill `anw-steuerbescheid-analyse` und Folge-Schriftsatz.
-
-## Datenschutz
-
-- Steuerakte enthält besonders sensible Daten (Vermögen, Einkommen, Familie, Konten).
-- Verarbeitung nur in Tools mit AVV (Art. 28 DSGVO).
-- Mandantenakte unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/mandate/<az>/`.
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Akteneinsicht in Steuerakte beantragen | Anschreiben nach Schema; Template unten |
-| Variante A — Akteneinsicht für Dritte nicht Steuerpflichtigen | Vollmacht prüfen; Akteneinsicht nur mit Bevollmaechtigten-Nachweis |
-| Variante B — Akteneinsicht im Strafverfahren StPO | Strafprozessuale Akteneinsicht § 147 StPO; anderer Antrag noetig |
-| Variante C — Behörde verweigert Akteneinsicht | Klage auf Akteneinsicht vor Finanzgericht; Widerspruch zuerst |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Output-Template Anschreiben Mandant
-
-**Adressat:** Mandant — Tonfall: verständlich-erklärend
-```
-Betreff: Akteneinsicht in Steuerakte [STEUERART] [JAHR]
-
-Sehr geehrte/r [NAME MANDANT],
-
-wir haben beim Finanzamt [ORT] Akteneinsicht gemäß § 364 AO
-beantragt. Sobald die Akte eingeht, werten wir sie für Sie aus
-und informieren Sie über die Ergebnisse, insbesondere über:
-
-- Welche Unterlagen das Finanzamt als Entscheidungsgrundlage
- herangezogen hat
-- Ob Kontrollmitteilungen Dritter die Festsetzung beeinflusst haben
-- Welche Schwärzungen vorgenommen wurden und ob wir dagegen
- vorgehen sollten
-
-[KANZLEI], [DATUM]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## Ausgabe
-
-- Akteneinsichtsantrag `akteneinsichtsantrag-<az>-<datum>.docx`.
-- Aktenchronik nach Eingang `aktenchronik-<az>.md`.
-- Prüfkatalog mit `[prüferflag]`-Einträgen.
-- Eintrag im Fristenbuch (Reaktionsfrist FA beobachten — Skill `anw-fristenbuch-steuerrecht`).
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 8 AO (Wohnsitz, Aufenthalt)
-- §§ 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter)
-- § 42 AO (Gestaltungsmissbrauch)
-- §§ 169-171 AO (Festsetzungsverjährung)
-- §§ 233a, 235 AO (Verzinsung, Hinterziehungszinsen)
-- § 370 AO (Steuerhinterziehung)
-- §§ 153, 371 AO (Berichtigungserklärung, Selbstanzeige)
-- §§ 15, 32a EStG (Einkünfte aus Gewerbebetrieb, Tarif)
-- § 8 KStG, § 7 GewStG (Einkommen, Gewerbeertrag)
-- §§ 1, 15 UStG (Steuerbare Umsätze, Vorsteuerabzug)
-
-### Leitentscheidungen
-
-- BFH I R 36/18 (Hinzurechnungsbesteuerung AStG)
-- BFH XI R 11/22 (Reverse-Charge-Verfahren)
-- BFH IX R 49/13 (Liebhaberei vs. Einkunftserzielungsabsicht)
-- BVerfG 2 BvL 1/03 (Steuerfreistellung Existenzminimum)
-- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
-
-### Anwendung im Skill
-
-- Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
-- Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
-- Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
-
----
-
-## Skill: `anteilstausch-21-umwstg`
-
-_Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolgen Buchwert. Anwendungsfall Eine natuerliche Person oder Personengesellschaft uebertraegt Anteile an einer Kapitalgesellschaft gegen Gewaehrung neuer Anteile an einer anderen Kap..._
-
-# Anteilstausch — § 21 UmwStG Voraussetzungen und Sperrfrist
-
-## Fachlicher Anker
-
-- **Normen:** § 21, § 6a, § 21 Abs. 1 S. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+# Steuerrechtliche Fristen — der Ueberblick
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Werden Anteile gegen neue Anteile getauscht und nicht gegen Bar- oder Sachleistungen?
-2. Liegt qualifizierter Anteilstausch vor — uebernehmende KapGes erhaelt Mehrheit der Stimmrechte?
-3. Welcher Wertansatz wird gewaehlt — Antragsvoraussetzungen § 21 Abs. 1 S. 2 UmwStG?
-4. Sperrfristen § 22 UmwStG beachten — vor allem bei spaeteren Umstrukturierungen?
-5. Folgen einer schaedlichen Veraeusserung — Einbringungsgewinn II nach § 22 Abs. 2 UmwStG?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. Welches Schriftstueck loest die Frist aus (Bescheid, Einspruchsentscheidung, Urteil, Verfuegung)?
+2. Wann ist die Zustellung bewirkt (§ 122 Abs. 2 AO Drei-Tages-Fiktion; § 122a AO Bereitstellung im ELSTER-Postfach)?
+3. Faellt das Fristende auf Wochenende oder Feiertag (§ 108 Abs. 3 AO)?
+4. Wurde die Frist bereits versaeumt? Pruefen ob Wiedereinsetzung § 110 AO oder § 56 FGO greift.
+5. Gibt es Hemmungstatbestaende (Aussenpruefung § 171 AO; vorlaeufige Festsetzung § 165 AO)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **§ 21 UmwStG** — Anteilstausch.
-- **§ 22 UmwStG** — Sperrfristen.
-- **§ 17 EStG** — Anteilsbegriff bei Privatpersonen.
-- **§ 20 UmwStG** — Einbringung als Vergleichsregime.
+- **§ 108 AO** — Fristenberechnung; Verweis auf §§ 187 ff. BGB.
+- **§ 122 AO / § 122a AO** — Bekanntgabe und elektronische Bereitstellung.
+- **§ 355 AO** — Einspruchsfrist ein Monat.
+- **§ 47 FGO** — Klagefrist ein Monat ab Einspruchsentscheidung.
+- **§ 110 AO / § 56 FGO** — Wiedereinsetzung in den vorigen Stand.
+- **§§ 169 ff. AO** — Festsetzungsverjaehrung.
+- **§§ 228 ff. AO** — Zahlungsverjaehrung fuenf Jahre; Hemmung und Unterbrechung.
 
 ## Aktuelle Rechtsprechung
 
@@ -1051,7 +823,27 @@ _Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Ante
 
 ## Zentrale Normen
 
-§ 21 UmwStG · § 22 UmwStG · § 17 EStG · § 20 UmwStG · § 23 UmwStG (Auswirkungen beim Aufnehmenden)
+§ 108 AO · § 122 AO · § 122a AO · § 355 AO · § 47 FGO · § 110 AO · § 56 FGO · §§ 169 ff. AO · §§ 228 ff. AO · § 171 AO (Ablaufhemmung)
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
+
+## Fristenmatrix (Schnellzugriff)
+
+| Verfahrensschritt | Frist | Rechtsgrundlage | Wiedereinsetzung |
+| --- | --- | --- | --- |
+| Einspruch gegen Steuerbescheid | 1 Monat ab Bekanntgabe | § 355 AO | § 110 AO |
+| Klage zum Finanzgericht | 1 Monat ab Einspruchsentscheidung | § 47 FGO | § 56 FGO |
+| Revision zum BFH | 1 Monat ab FG-Urteil | § 120 FGO | § 56 FGO |
+| Nichtzulassungsbeschwerde | 1 Monat ab FG-Urteil | § 116 FGO | § 56 FGO |
+| AdV-Antrag beim FA | jederzeit waehrend Einspruch | § 361 AO | nicht erforderlich |
+| AdV-Antrag beim FG | jederzeit waehrend Klage | § 69 FGO | nicht erforderlich |
+| Selbstanzeige (Sperrwirkung) | bis Bekanntgabe Pruefungsanordnung | § 371 Abs. 2 AO | nicht moeglich |
+| Festsetzungsfrist regulaer | 4 Jahre | § 169 Abs. 2 Nr. 2 AO | n.a. |
+| Festsetzungsfrist Hinterziehung | 10 Jahre | § 169 Abs. 2 S. 2 AO | n.a. |
+| Zahlungsverjaehrung | 5 Jahre | § 228 AO | n.a. |
+
 
 ## Abgrenzung zu anderen Skills dieses Plugins
 
@@ -1059,532 +851,142 @@ _Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Ante
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 8 AO (Wohnsitz, Aufenthalt)
-- §§ 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter)
-- § 42 AO (Gestaltungsmissbrauch)
-- §§ 169-171 AO (Festsetzungsverjährung)
-- §§ 233a, 235 AO (Verzinsung, Hinterziehungszinsen)
-- § 370 AO (Steuerhinterziehung)
-- §§ 153, 371 AO (Berichtigungserklärung, Selbstanzeige)
-- §§ 15, 32a EStG (Einkünfte aus Gewerbebetrieb, Tarif)
-- § 8 KStG, § 7 GewStG (Einkommen, Gewerbeertrag)
-- §§ 1, 15 UStG (Steuerbare Umsätze, Vorsteuerabzug)
-
-### Leitentscheidungen
-
-- BFH I R 36/18 (Hinzurechnungsbesteuerung AStG)
-- BFH XI R 11/22 (Reverse-Charge-Verfahren)
-- BFH IX R 49/13 (Liebhaberei vs. Einkunftserzielungsabsicht)
-- BVerfG 2 BvL 1/03 (Steuerfreistellung Existenzminimum)
-- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
-
-### Anwendung im Skill
-
-- Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
-- Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
-- Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
-
 ---
 
-## Skill: `aussenpruefung-strategien`
+## Skill: `fa-stu-vga-pruefraster`
 
-_Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsanordnung § 196 AO oder Prüfung laeuft bereits. Prüfraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsp..._
+_Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder verhinderte Vermoegensmehrung Veranlassung im Gesellschaftsverhaeltnis Auswirkung auf Einkommen Behandlung beim Gesellschafter. Anwendungsfall Aussenpruefung erkennt Geschaeftsfuehrervergueterung Verrechnungspreise oder Gesellschafterdarlehen als verdeckte Ausschuettung und fordert Hinzurechnung. Behandelt klassische Fallgruppen Geschaeftsfuehrer-Gehaltsexzess Beherrschende-Gesellschafter Klarheits- und Rueckwirkungsverbot sowie Folgen Kapitalertragsteuer Anrechnung. Output Argumentationsraster mit Kompensationspruefung. Abgrenzung zu fa-stu-kst-organschaft-14-kstg._
 
-# Außenprüfung — Strategien und Begleitung
+# Verdeckte Gewinnausschuettung — § 8 Abs. 3 S. 2 KStG Pruefraster
 
-## Fachlicher Anker
+## Triage — kläre vor der Bearbeitung
 
-- **Normen:** § 6a, § 196 AO, §§ 193.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Kaltstart-Rückfragen
-
-1. Welche Art (Anschluss-, Konzernprüfung, Lohnsteuer-Außenprüfung, Umsatzsteuer-Sonderprüfung)?
-2. Welche Steuerarten und welche Veranlagungszeiträume?
-3. Wurde die Prüfung bereits angekündigt? Datum der Prüfungsanordnung?
-4. Liegt der Verdacht auf eine Steuerstraftat nahe oder schon eingeleitet?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. Liegt eine Vermoegensminderung oder verhinderte Vermoegensmehrung bei der Kapitalgesellschaft vor?
+2. Ist die Veranlassung im Gesellschaftsverhaeltnis zu suchen (Fremdvergleich)?
+3. Bei beherrschenden Gesellschaftern: war die Vereinbarung im Voraus klar und tatsaechlich durchgefuehrt?
+4. Auswirkungen auf das Einkommen — Hinzurechnung und auf Ebene des Gesellschafters § 20 Abs. 1 Nr. 1 S. 2 EStG?
+5. Kapitalertragsteuer 25 Prozent und Erstattungsanspruch bei Anteilseigner im Ausland (DBA)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **Prüfungsanordnung:** § 196 AO (schriftlich, anfechtbar mit Einspruch).
-- **Außenprüfung:** §§ 193 ff. AO; bei Konzernen § 13 BpO.
-- **Mitwirkungspflichten:** § 200 AO; bei Auslandssachverhalten § 90 Abs. 2 Abs. 3 AO.
-- **Qualifiziertes Mitwirkungsverlangen:** § 200a AO (eingefuegt durch DAC7-UmsG vom 20.12.2022, BGBl. 2022 I S. 2730, Wirkung 01.01.2025; ersetzt das frueher in § 146 Abs. 2c AO geregelte Verzoegerungsgeld im BP-Kontext) — fruehestens 6 Monate nach Bekanntgabe der Prüfungsanordnung; Mitwirkungsverzoegerungsgeld 75 EUR pro Tag für hoechstens 150 Tage (Hoechstbetrag 11.250 EUR); Zuschlag bis 25.000 EUR pro Tag bei wirtschaftlich leistungsstarken / wiederholt unkooperativen Steuerpflichtigen.
-- **Datenzugriff:** § 147 Abs. 6 AO — unmittelbar mittelbar oder Datenträgerüberlassung. § 147a AO besondere Aufzeichnungspflichten bei Bargeschäften. **§ 147b AO** (neu) Datenbereitstellung über digitale Schnittstellen.
-- **Schlussbesprechung:** § 201 AO — Pflicht des Prüfers, soweit Steueränderung in Betracht kommt.
-- **Prüfungsbericht:** § 202 AO; Stellungnahme des Steuerpflichtigen ist anzuhören.
-- **Ablaufhemmung:** § 171 Abs. 4 AO i.d.F. DAC7-UmsG — Begrenzung der Ablaufhemmung auf fuenf Jahre nach Ende des Kalenderjahres der Bekanntgabe der Prüfungsanordnung (gilt für ab 01.01.2025 ergangene Prüfungsanordnungen).
-- **Teilabschlussbescheid:** § 180 Abs. 1a AO — verbindliche Teilabschluesse zu abgrenzbaren und abschliessend gepruefte Besteuerungsgrundlagen.
-- **Trennungsprinzip Steuer- und Strafverfahren:** § 393 Abs. 1 AO — Mitwirkungspflicht ruht, soweit Selbstbelastung droht; § 397 AO Einleitung des Strafverfahrens.
-- **Auskunftsverweigerungsrecht:** § 102 AO (Steuerberater, Rechtsanwalt); § 103 AO (Berufsgeheimnisträger).
-- **Verbindliche Zusage nach Außenprüfung:** § 204 AO.
-
-## Verwaltungsanweisungen
-
-- **BMF-Schreiben vom 17.02.2025**, GZ IV D 3 - S 0403/00009/001/009 — Wesentliche Rechte und Mitwirkungspflichten bei der Außenprüfung; ersetzt das BMF-Schreiben vom 24.10.2013; gilt ab 01.01.2025 (PDF abrufbar unter bundesfinanzministerium.de, Bereich Betriebspruefung).
-- BMF-Schreiben vom 02.04.2025, GZ IV B 3 – S 0225/00019/004/009 — Merkblatt zur Transaktionsmatrix bei Verrechnungspreisdokumentation.
-- BMF-Schreiben vom 15.05.2025 — Grenzueberschreitende Verwaltungszusammenarbeit (Umsetzung DAC7 und Wachstumschancengesetz).
-
-## Maßgebliche Rechtsprechung
-
-- **BFH, Beschluss vom 30.04.2025 — XI R 15/23** (E-Mails als vorzulegende Handels- und Geschäftsbriefe in der Aussenpruefung): E-Mails mit steuerlichem Bezug fallen unter § 147 Abs. 1 Nr. 2 und 3 AO und unterliegen dem Datenzugriff. Die Aufforderung zur Erstellung eines "Gesamtjournals", das über das vorhandene E-Mail-Postfach hinaus zusaetzliche Informationen anreichert, ist mangels Rechtsgrundlage unzulaessig. Der Steuerpflichtige hat ein Erstqualifikationsrecht und darf nicht steuerrelevante E-Mails aussortieren. Volltext unter dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=30.04.2025&Aktenzeichen=XI+R+15/23) sowie BFH-Datenbank.
-
-## Prüfschema
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-```
-1. Prüfungsanordnung § 196 AO
- - Schriftform, Bestimmtheit, Ermessen, Frist.
- - Anfechtung mit Einspruch § 347 AO + AdV § 361 AO?
- - Prüfungsumfang zulässig (§ 193 AO Kreis der Prüfungspflichtigen)?
-2. Vorgespräch mit Prüfer
- - Prüfungsumfang, Räumlichkeiten, Datenträger nach § 147 Abs. 6 AO.
-3. Mitwirkung § 200 AO
- - Datenzugriff Z1/Z2/Z3 nach GoBD.
- - Auskunftsverweigerungsrechte §§ 102 103 AO?
- - Trennung Steuer- und Strafverfahren § 393 AO.
-4. Zwischenstand
- - Prüfungsfeststellungen schriftlich anfordern; Stellungnahme einreichen.
-5. Schlussbesprechung § 201 AO
- - Strittige Punkte protokollieren; Verständigung dokumentieren.
-6. Prüfungsbericht § 202 AO
- - Stellungnahme abgeben; ggf. Anhörung beantragen.
-7. Geänderter Bescheid
- - Einspruch § 347 AO + AdV § 361 AO (Skill `anw-einspruch-finanzamt`).
-8. Verbindliche Zusage § 204 AO
- - Beantragen, wenn dauerhafte Klärung erforderlich.
-```
-
-## Phasen der Prüfungsbegleitung
-
-### Phase 1 — Prüfungsanordnung (§ 196 AO)
-
-- **Bekanntgabe** der Anordnung mit angemessenem Vorlauf (zwei bis vier Wochen).
-- **Inhalt** der Anordnung prüfen: Prüfungsumfang (Steuerarten Veranlagungsjahre) Prüfer Termin.
-- **Rechtsbehelf** gegen die Anordnung selbst: Einspruch (§ 347 AO). Bei Untätigkeit oder Eilbedürftigkeit AdV oder Klage zum FG.
-- Prüfung ob Prüfungsumfang anfechtbar (wesentliche Mängel; Frist 1 Monat).
-
-### Phase 2 — Vorbereitung
-
-- **Akteneinsicht** in die Veranlagungsakten der Prüfungsjahre — Steuerberater des Mandanten einbeziehen (Skill `anw-akteneinsicht-steuerakte`).
-- **Belegvollständigkeit** sicherstellen — GoBD-Konformität (Grundsätze ordnungsmäßiger Buchführung und Datenzugriff).
-- **Risikoanalyse** Prüfungsschwerpunkte einschätzen (Branchengängig Kassenführung Zeitreihen Privatentnahmen Verrechnungspreise).
-- **Mandantenbriefing** Verhalten in Prüfer-Gesprächen; tägliche Berichts-Linie zwischen Anwalt und Mandant.
-
-### Phase 3 — Prüfungsdurchführung
-
-- **Mitwirkungspflicht** § 200 AO — Auskunft Vorlage Aufzeichnungen.
-- **Qualifiziertes Mitwirkungsverlangen** § 200a AO (ab 01.01.2025) — fruehestens nach 6 Monaten ab Bekanntgabe der Prüfungsanordnung; bei Nichterfuellung Mitwirkungsverzoegerungsgeld 75 EUR/Tag (max. 150 Tage = 11.250 EUR); Zuschlag bis 25.000 EUR/Tag bei wirtschaftlicher Leistungsfaehigkeit oder Wiederholungsfaellen.
-- **Datenzugriff** § 147 Abs. 6 AO — Z1 (unmittelbarer Zugriff) Z2 (mittelbarer Zugriff) Z3 (Datenträgerüberlassung). Bei E-Mail-Vorlageverlangen ist BFH XI R 15/23 vom 30.04.2025 zu beachten: en-bloc-Aufforderung zu transaktionsbezogenen E-Mails zulässig, "Gesamtjournal" mit Anreicherung nicht.
-- **DSFinV-K** Digitale Schnittstelle der Finanzverwaltung für Kassensysteme bei Bargeschäften.
-- **Grenze** Mitwirkungspflicht — kein Selbstbelastungszwang bei möglicher Steuerstraftat / Ordnungswidrigkeit (§ 393 AO).
-- **Prüfer-Anfragen** schriftlich beantworten — Antworten über Anwalt und Steuerberater abstimmen; bei strittigen Fragen Bedenkzeit erbitten.
-
-### Phase 4 — Schlussbesprechung (§ 201 AO)
-
-- **Vorbereitung** Streitpunkte vorab klären.
-- **Teilnahme** Mandant Steuerberater Anwalt.
-- **Protokoll** mit allen Vereinbarungen — bei Einvernehmen über Sachverhalte rechtlich relevant.
-- **Tatsächliche Verständigung** über Sachverhaltsfragen § 88 AO iVm BFH-Rspr. möglich (nicht: Verständigung über Recht).
-- **Schlussbesprechungsprotokoll** in der Mandantenakte (`kanzlei-allgemein`).
-
-### Phase 5 — Prüfungsbericht (§ 202 AO)
-
-- Bericht enthält Prüfungsergebnis und Änderungsbeträge.
-- Stellungnahmefrist regelmäßig 14 Tage.
-- Bei abweichender Auffassung: Stellungnahme zum Bericht — wird bei Auswertung berücksichtigt.
-
-### Phase 6 — Änderungsbescheide
-
-- Auswertung des Berichts über Änderungsbescheide nach §§ 173 175 AO.
-- Bescheide separat anfechtbar — Skill `anw-einspruch-finanzamt`.
-- Bei mehreren Jahren und Steuerarten: zahlreiche Bescheide möglich; Fristen pro Bescheid einzeln prüfen.
-
-## Strategien
-
-### Aktive Mitwirkung
-
-- Kooperative Prüfer-Beziehung; klare Unterlagen-Vorlage.
-- Schlussbesprechung mit Vorbereitung.
-
-### Dokumentierter Widerspruch
-
-- Bei strittigen Prüfungs-Maßnahmen: schriftlich.
-- Beweise sichern für spätere Klage.
-- Verhältnismäßigkeits-Prüfung.
-
-### Vergleichs-Verhandlung
-
-- Tatsachen-Vergleich § 162 AO möglich.
-- Nicht: Verständigung über Recht.
-- BGH-Linie zur "tatsächlichen Verständigung".
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Strategie für Aussenprufung entwickeln und Stellungnahme erstellen | Stellungnahme nach Schema; Template unten |
-| Variante A — Mandant will kooperieren um Prüfung schnell abzuschliessen | Kooperative Strategie; Unterlagen proaktiv vorlegen |
-| Variante B — Prüfung hat strafrechtliche Relevanz | Steuerstrafrecht-Skill einschalten; vorsichtige Kooperation |
-| Variante C — Prüfungsergebnis ist klar falsch Einspruch noetig | Einspruchsstrategie parallel vorbereiten; Schlussbesprechung nutzen |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schreibvorlage Stellungnahme zur Schlussbesprechung
-
-```
-[Briefkopf]
-
-An das Finanzamt [Ort]
-Außenprüfungsstelle, z. Hd. Herrn/Frau [Prüfer] [Ort, Datum]
-
-Steuernummer: [SteuerNr]
-Prüfung: [Bezeichnung Prüfungsanordnung]
-Az.: [Aktenzeichen Außenprüfung]
-
-Stellungnahme zur Schlussbesprechung am [Datum]
-
-Sehr geehrte/r Frau/Herr [Prüfer],
-
-namens und in Vollmacht der [Mandantin] nehmen wir zu den Prüfungsfeststellungen wie folgt Stellung.
-
-1. Feststellung "[Bezeichnung]"
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Antrag: Diese Feststellung wird nicht in den Prüfungsbericht aufgenommen.
-
-2. Feststellung "[Bezeichnung]"
- Wir treten der Feststellung sachlich nicht entgegen, regen jedoch eine Anpassung der Bemessungsgrundlage an, weil […].
-
-3. Verbindliche Zusage § 204 AO
- Hinsichtlich der zukünftigen Behandlung von [Sachverhalt] wird hilfsweise eine verbindliche Zusage beantragt.
-
-Mit freundlichen Grüßen
-[Anwalt, Fachanwalt für Steuerrecht]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## Steuerstrafrechtliche Risiken
-
-- Stellt der Prüfer Anhaltspunkte für Steuerhinterziehung (§ 370 AO) fest: Mitteilung an die Bußgeld- und Strafsachenstelle.
-- **Selbstanzeige** § 371 AO nur **vor** Bekanntgabe der Prüfungsanordnung wirksam (Sperrgründe § 371 Abs. 2 AO).
-- Skill `anw-selbstanzeige-371` rechtzeitig prüfen.
-- Bei Strafverdacht: sofortige Trennung Steuer- und Strafverteidigung. Skill `fachanwalt-strafrecht` koppeln.
-
-## Sondersituationen
-
-### Schätzung § 162 AO
-
-- Bei mangelnder Mitwirkung Schätzungsbefugnis FA weit.
-- Anfechtungs-Strategie: Konkrete Daten nachreichen; Schätzungsrahmen auf Willkür prüfen.
-- **BFH, Urteil vom 18.06.2025 — X R 19/21**: Erhebliche Zweifel daran, dass die amtliche **Richtsatzsammlung des BMF** in der gegenwaertigen Form als Schaetzungsgrundlage taugt; aeusserer Betriebsvergleich mit Rohgewinnaufschlagsatz von 300 Prozent nicht hinreichend substantiiert. Volltext über BFH-Datenbank (STRE202520256).
-- **Grundsatz** (BFH stRspr.): innerer Betriebsvergleich vorrangig vor aeusserem; relativ unsichere Methoden sind subsidiaer. Wahlfreiheit FA / FG ist durch § 5 AO begrenzt.
-
-### Typische Fehler
-
-1. Prüfer-Beziehung schädigend → spätere Prüfungen schwierig.
-2. Mitwirkung verweigert ohne Auskunftsverweigerungsrecht → Schätzung droht.
-3. Schlussbesprechung ohne Anwalt → wichtige Argumente verloren.
-4. Einspruchsfrist versäumt.
-5. Tatsächliche Verständigung schlecht dokumentiert.
-
-## Ausgabe
-
-- Prüfungs-Begleitakte mit Chronik aller Prüfer-Anfragen und Antworten.
-- Strategie-Memo zur Mitwirkung.
-- Stellungnahme zum Prüfungsbericht.
-- Folge-Mandate für Änderungsbescheide nach Eingang.
-
-## Anschluss
-
-- `anw-selbstanzeige-371` — bei Strafverdacht
-- `anw-verbindliche-auskunft` — vor Sachverhalt
-- `anw-einspruch-finanzamt` — nach nachteiligem Bescheid
-- `fachanwalt-strafrecht` — bei Strafverdacht
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 8 AO (Wohnsitz, Aufenthalt)
-- §§ 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter)
-- § 42 AO (Gestaltungsmissbrauch)
-- §§ 169-171 AO (Festsetzungsverjährung)
-- §§ 233a, 235 AO (Verzinsung, Hinterziehungszinsen)
-- § 370 AO (Steuerhinterziehung)
-- §§ 153, 371 AO (Berichtigungserklärung, Selbstanzeige)
-- §§ 15, 32a EStG (Einkünfte aus Gewerbebetrieb, Tarif)
-- § 8 KStG, § 7 GewStG (Einkommen, Gewerbeertrag)
-- §§ 1, 15 UStG (Steuerbare Umsätze, Vorsteuerabzug)
-
-### Leitentscheidungen
-
-- BFH I R 36/18 (Hinzurechnungsbesteuerung AStG)
-- BFH XI R 11/22 (Reverse-Charge-Verfahren)
-- BFH IX R 49/13 (Liebhaberei vs. Einkunftserzielungsabsicht)
-- BVerfG 2 BvL 1/03 (Steuerfreistellung Existenzminimum)
-- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
-
-### Anwendung im Skill
-
-- Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
-- Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
-- Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
-
----
-
-## Skill: `aussetzung-vollziehung`
-
-_Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfall Mandant hat Einspruch eingelegt will aber Nachforderung nicht sofort zahlen. Zweistufig zuerst beim Finanzamt § 361 Abs. 2 AO bei ernstlichen Zweifeln an der Rechtmäßigkeit od..._
-
-# Aussetzung der Vollziehung (AdV)
-
-## Fachlicher Anker
-
-- **Normen:** § 6a, § 361 AO, § 69 Abs. 3.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Triage — kläre vor dem Antrag
-
-1. Ist ein Einspruch bereits eingelegt? (Voraussetzung für FA-Antrag nach § 361 AO)
-2. Wie hoch ist der strittige Steuerbetrag? (Proportionalität der Begründungstiefe)
-3. Hat das FA bereits eine AdV-Entscheidung getroffen? → Ja: direkt Stufe 2 (FG § 69 Abs. 3 FGO)
-4. Droht unmittelbare Vollstreckung (Pfändungsankündigung, Kontopfändung)? → Eilantrag beim FG möglich
-5. Liegt ein Fall unbilliger Härte vor (Existenzbedrohung, Insolvenz bei Zahlung)?
-6. Soll hilfsweise Aufhebung der Vollziehung beantragt werden (bereits gezahlte Steuer zurückfordern)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Hintergrund
-
-Einspruch und Klage gegen Steuerbescheide haben **keine aufschiebende Wirkung** (§ 361 Abs. 1 AO / § 69 Abs. 1 FGO). Die Steuer ist trotz Rechtsmittel zur Fälligkeit zu zahlen. Wer das nicht will: Antrag auf Aussetzung der Vollziehung.
-
-## Zweistufiges Verfahren
-
-### Stufe 1 — Antrag an das Finanzamt (§ 361 Abs. 2 AO)
-
-Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag wenn:
-- **ernstliche Zweifel** an der Rechtmäßigkeit des Bescheids bestehen, **oder**
-- die Vollziehung für den Steuerpflichtigen eine **unbillige, nicht durch überwiegende öffentliche Interessen gebotene Härte** zur Folge hätte.
-
-### Stufe 2 — Antrag an das Finanzgericht (§ 69 Abs. 3 FGO)
-
-- Antrag zulässig wenn das FA den AdV-Antrag ganz oder teilweise abgelehnt hat **oder** über den Antrag nicht in angemessener Frist entschieden hat (§ 69 Abs. 4 FGO).
-- Im Klageverfahren auch erstmals direkt an das FG möglich.
-
-## Zentrale Anspruchsgrundlagen & Normen
-
-- § 361 Abs. 2 AO — AdV durch das Finanzamt im Einspruchsverfahren
-- § 69 Abs. 3 und 4 FGO — AdV durch das Finanzgericht im Klageverfahren
-- § 361 Abs. 2 Satz 3 AO / § 69 Abs. 2 Satz 3 FGO — Sicherheitsleistung
-- § 237 AO i.V.m. § 238 Abs. 1 S. 1 AO — Aussetzungszinsen 0,5 % pro vollem Monat / 6 % pro Jahr bei Verlust (Achtung: BFH-Vorlage BVerfG 1 BvL 8/24 anhaengig zur Verfassungsmaessigkeit, Zeitraum 01.01.2019 - 15.04.2021)
-- § 155 Satz 1 FGO i.V.m. § 294 ZPO — Glaubhaftmachung durch eidesstattliche Versicherung
-- § 69 Abs. 4 FGO — direkter FG-Antrag nach FA-Ablehnung oder FA-Untätigkeit
+- **§ 8 Abs. 3 S. 2 KStG** — Definition vGA und Folge auf Ebene der KapGes.
+- **§ 20 Abs. 1 Nr. 1 S. 2 EStG** — Behandlung beim Gesellschafter.
+- **§ 43 ff. EStG** — Kapitalertragsteuerabzug.
+- **§ 4 Abs. 1 S. 1 EStG** — Vermoegensvergleich; Massstab.
 
 ## Aktuelle Rechtsprechung
 
-- **BFH, Vorlagebeschluss vom 08.05.2024 — VIII R 9/23** an das BVerfG (anhaengig BVerfG 1 BvL 8/24): Der Zinssatz für Aussetzungszinsen nach § 237 i.V.m. § 238 Abs. 1 S. 1 AO in Höhe von 0,5 Prozent pro Monat ist nach Auffassung des BFH für den Zeitraum 01.01.2019 bis 15.04.2021 verfassungswidrig. Konsequenz für die Praxis: AdV-Antraege für betroffene Zeitraeume sollten den anhaengigen Vorlagebeschluss mitfuehren; ggf. AdV der Aussetzungszinsen selbst beantragen. Volltext BFH über die BFH-Datenbank (Vorlagebeschluss VIII R 9/23, STRE202410144).
-- **BFH, Beschluss vom 21.03.2025 — X B 21/25 (AdV)** zu Saeumniszuschlaegen: Keine ernstlichen verfassungsrechtlichen Zweifel an der Höhe der Saeumniszuschlaege nach § 240 Abs. 1 S. 1 AO für Zeitraeume nach dem 31.12.2018; gestuetzt auf das nachhaltig erhoehte Zinsumfeld seit Februar 2022. Volltext über BFH-Datenbank.
-- **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** zu Grunderwerbsteuer-Doppelfestsetzung nach § 1 Abs. 2b und § 1 Abs. 3 Nr. 1 GrEStG bei zeitlich getrenntem Signing und Closing eines GmbH-Anteilserwerbs: ernstliche Zweifel an der Rechtmaessigkeit bejaht; Vollziehung ausgesetzt. Volltext über BFH-Datenbank.
-- **BFH, Beschluss vom 09.07.2025 — II B 13/25 (AdV)**: Maßstab "ernstliche Zweifel" — gegeben, wenn bei summarischer Prüfung neben für die Rechtmaessigkeit sprechenden Umstaenden gewichtige gegen die Rechtmaessigkeit sprechende Gruende zutage treten, die Unsicherheit oder Unentschiedenheit in der rechtlichen oder tatsaechlichen Beurteilung bewirken. Volltext über BFH-Datenbank.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesfinanzhof.de, bundesverfassungsgericht.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Pauschalzitate aus BeckRS allein; jede Entscheidung muss auf eine primaere oder offene Sekundaerquelle ruckfuehrbar sein.
 
-## Schritt-für-Schritt-Workflow
+## Zentrale Normen
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+§ 8 Abs. 3 S. 2 KStG · § 8b KStG (Befreiungssystem) · § 20 Abs. 1 Nr. 1 S. 2 EStG · §§ 43 ff. EStG · § 32a KStG (Korrespondenzregel)
 
-1. **Einspruch prüfen:** Einspruch eingelegt und Frist gewahrt? Falls nicht → zuerst Einspruch.
-2. **Begründung AdV zusammenstellen:** Ernstliche Zweifel (materielle Angriffspunkte aus Bescheidanalyse) oder unbillige Härte (Liquiditätslage, Existenzgefährdung).
-3. **Stufe 1 — FA-Antrag:** Formulieren (Vorlage unten), versenden per ELSTER/ERiC oder Briefpost (kein beA an FA).
-4. **FA-Antwort-Frist beobachten:** Angemessene Frist ca. 4 Wochen; bei Untätigkeit → Stufe 2.
-5. **Stufe 2 — FG-Antrag:** Wenn FA ablehnt oder untätig → Antrag nach § 69 Abs. 3 FGO über beA.
-6. **Eidesstattliche Versicherung:** Bei wirtschaftlicher Härte — Mandant unterschreibt.
-7. **Sicherheitsleistung:** Hilfsantrag ohne / hilfsweise gegen Sicherheitsleistung formulieren.
-8. **Fristenbuch:** AdV-Status und FA-Reaktionsfrist eintragen (Skill `anw-fristenbuch-steuerrecht`).
+## Quellenregel
 
-## Entscheidungsbaum
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
 
-FA-Antrag gestellt?
-→ **Nein:** FA-Antrag formulieren (§ 361 AO) → Stufe 1
-→ **Ja:** FA hat entschieden? → Abgelehnt: FG-Antrag § 69 Abs. 3 FGO / Untätig (> 4 Wochen): FG-Antrag § 69 Abs. 4 FGO / Bewilligt: Fertig; Aussetzungszinsen beachten
+## Abgrenzung zu anderen Skills dieses Plugins
 
-Grundlage der AdV?
-→ **Ernstliche Zweifel:** Substanz aus Einspruchsbegründung, BFH-Rechtsprechung zur Streitfrage
-→ **Unbillige Härte:** Vermögens- und Liquiditätslage, Existenzgefährdung, Belege (Kontoauszüge, BWA)
+- Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
+- Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
+- Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
 
-## Antragsaufbau Stufe 1 (FA)
+---
 
-**Adressat:** Finanzamt — Tonfall: sachlich-juristisch
+## Skill: `fa-stu-onboarding-korrekturnormen`
 
-```
-An das Finanzamt [ORT]
-Steuernummer [NUMMER]
+_Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftigen Bescheid und sucht den richtigen Aenderungstatbestand oder muss sich gegen Aenderung des Finanzamts wehren. Behandelt offenbare Unrichtigkeit Vorbehalt der Nachpruefung Vorlaeufigkeit schlichte Aenderung neue Tatsachen widerstreitende Steuerfestsetzungen Grundlagenbescheide und Verfahrensaufhebung. Output Entscheidungsbaum mit Voraussetzungen je Norm. Abgrenzung zu fa-stu-onboarding-bescheid-lesen._
 
-In dem Einspruchsverfahren über den [STEUERART]-Bescheid
-[JAHR] vom [DATUM], Az. [AKTENZEICHEN]
+# Korrektur von Steuerbescheiden — §§ 129 164 165 172 173 174 175 AO im Ueberblick
 
-Antrag auf Aussetzung der Vollziehung gemäß § 361 Abs. 2 AO
+## Triage — kläre vor der Bearbeitung
 
-Wir zeigen die Vertretung des Einspruchsführers [NAME]
-an und beantragen, die Vollziehung des o.g. Bescheids
-bis zur Bekanntgabe der Einspruchsentscheidung auszusetzen.
+1. Liegt eine offenbare Unrichtigkeit vor — Schreib- oder Rechenfehler § 129 AO?
+2. Steht der Bescheid unter Vorbehalt § 164 AO oder ist er vorlaeufig § 165 AO?
+3. Soll eine schlichte Aenderung § 172 Abs. 1 Nr. 2a AO innerhalb der Einspruchsfrist gestellt werden?
+4. Sind neue Tatsachen oder Beweismittel iSd § 173 AO entstanden — und wessen Verschulden steht der Aenderung entgegen?
+5. Liegt eine widerstreitende Festsetzung § 174 AO oder ein Grundlagenbescheid § 175 AO vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-Begründung:
-[Ernstliche Zweifel: ...]
-[Unbillige Härte: ...]
+## Rechtsgrundlagen
 
-Ohne Sicherheitsleistung; hilfsweise gegen Sicherheitsleistung.
+- **§ 129 AO** — offenbare Unrichtigkeit.
+- **§ 164 AO** — Vorbehalt der Nachpruefung.
+- **§ 165 AO** — vorlaeufige Festsetzung.
+- **§ 172 AO** — Aenderung von Steuerbescheiden allgemein.
+- **§ 173 AO** — neue Tatsachen und Beweismittel.
+- **§ 173a AO** — Schreib- und Rechenfehler bei Erklaerung.
+- **§ 174 AO** — widerstreitende Steuerfestsetzungen.
+- **§ 175 AO** — Aenderung wegen Grundlagenbescheid oder rueckwirkendem Ereignis.
 
-[KANZLEI], [DATUM]
-```
+## Aktuelle Rechtsprechung
 
-## Antragsaufbau Stufe 2 (FG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesfinanzhof.de, bundesverfassungsgericht.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Pauschalzitate aus BeckRS allein; jede Entscheidung muss auf eine primaere oder offene Sekundaerquelle ruckfuehrbar sein.
 
-**Adressat:** Finanzgericht — Tonfall: sachlich-juristisch
+## Zentrale Normen
 
-```
-An das Finanzgericht [BUNDESLAND]
-[ANSCHRIFT]
+§ 129 AO · § 164 AO · § 165 AO · § 172 AO · § 173 AO · § 173a AO · § 174 AO · § 175 AO · § 175a AO · § 176 AO (Vertrauensschutz)
 
-In der Streitsache
-[NAME MANDANT] — Antragsteller —
-gegen
-Finanzamt [ORT] — Antragsgegner —
+## Quellenregel
 
-Antrag auf Aussetzung der Vollziehung gemäß § 69 Abs. 3 FGO
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
 
-1. Die Vollziehung des [STEUERART]-Bescheids [JAHR] vom
- [DATUM] in Gestalt der FA-Ablehnung vom [DATUM] wird
- bis zum rechtskräftigen Abschluss des Klageverfahrens
- (Az. FG [AKTENZEICHEN]) ausgesetzt.
- Hilfsweise wird die Aufhebung der Vollziehung beantragt.
-2. Ohne Sicherheitsleistung; hilfsweise gegen Sicherheits-
- leistung nach richterlichem Ermessen.
+## Abgrenzung zu anderen Skills dieses Plugins
 
-Begründung:
-A. Verfahrensgeschichte: [...]
-B. Ernstliche Zweifel: [...]
-C. Unbillige Härte (hilfsweise): [...]
+- Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
+- Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
+- Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
 
-Beweis: Eidesstattliche Versicherung Anlage Ast 1
+---
 
-[KANZLEI], [DATUM]
-```
+## Skill: `fa-stu-aussenpruefung-anordnung-pruefung`
 
-## Folge der AdV
+_Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprechung § 201 AO Pruefungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Pruefungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsgrenzen und Belege-Bereitstellung klaeren. Behandelt Pruefungsumfang Mitwirkungspflicht § 200 AO digitaler Datenzugriff GoBD und Ablaufhemmung § 171 Abs. 4 AO. Output Pruefraster und Schriftsatz gegen unwirksame Pruefungsanordnung. Abgrenzung zu fa-stu-betriebspruefung-strafrecht-393-ao und fa-stu-tatsaechliche-verstaendigung._
 
-- **Aussetzung:** Vollziehung bis Bekanntgabe Einspruchsentscheidung bzw. bis Rechtskraft.
-- **Aussetzungszinsen** § 237 AO bei Verlust des Einspruchs / der Klage. **Aktueller gesetzlicher Zinssatz: 0,5 % pro vollem Monat / 6 % pro Jahr** (§ 238 Abs. 1 S. 1 AO; der durch das ZinsAnpG vom 12.07.2022 für Nachzahlungs- und Erstattungszinsen § 233a AO abgesenkte Satz von 0,15 % pro Monat = 1,8 % pro Jahr gilt **nicht** für Aussetzungszinsen). **Achtung**: BFH-Vorlagebeschluss vom 08.05.2024 (VIII R 9/23) an das BVerfG (anhaengig 1 BvL 8/24) — Zinssatz für Aussetzungszinsen 0,5 % pro Monat für den Zeitraum 01.01.2019 bis 15.04.2021 verfassungswidrig; betroffene Verfahren ggf. offenhalten und auf die BVerfG-Entscheidung warten.
-- **Aufhebung Vollziehung** bei bereits gezahlter Steuer — Rückerstattung.
-- **Teilaussetzung** möglich wenn nur ein Teil des Bescheids streitig ist.
+# Aussenpruefung — Pruefungsanordnung Pruefungserweiterung und Mitwirkung
 
-## Frist
+## Triage — kläre vor der Bearbeitung
 
-Keine gesetzliche Antragsfrist. Empfehlung: zusammen mit Einspruch oder Klage einreichen, spätestens vor Fälligkeit der Steuerschuld.
+1. Ist die Pruefungsanordnung formell ordnungsgemaess (Adressat Pruefungsumfang Pruefer Termin)?
+2. Welche Steuerarten und Veranlagungszeitraeume sind erfasst?
+3. Ist eine Pruefungserweiterung erfolgt oder droht sie — Antrag auf Beschraenkung sinnvoll?
+4. Welche Daten muessen GoBD-konform bereitgestellt werden (Z1 Z2 Z3 Zugriff)?
+5. Wirkung der Pruefung auf Festsetzungsfrist § 171 Abs. 4 AO?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Strategische Optionen (vor dem Template entscheiden)
+## Rechtsgrundlagen
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+- **§ 193 AO** — Zulaessigkeit der Aussenpruefung.
+- **§ 196 AO** — Pruefungsanordnung.
+- **§ 197 AO** — Bekanntgabe der Pruefungsanordnung.
+- **§ 200 AO** — Mitwirkungspflicht.
+- **§ 201 AO** — Schlussbesprechung.
+- **§ 202 AO** — Pruefungsbericht.
+- **§ 171 Abs. 4 AO** — Ablaufhemmung.
+- **GoBD** — Grundsaetze zur ordnungsmaessigen Fuehrung von Buechern.
 
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Aussetzung der Vollziehung beantragen | Mandantenschreiben nach Schema; Template unten |
-| Variante A — AdV bei Finanzamt erfolglos Finanzgericht noetig | FG-Antrag nach § 69 Abs. 3 FGO als naechster Schritt |
-| Variante B — Mandant will Bescheid akzeptieren nur Rate stunden | Stundungsantrag statt AdV; einfacher Weg |
-| Variante C — Betrag sehr hoch Sicherheitsleistung gefordert | Sicherheitsleistungs-Verhandlung parallel; ggf. Buergschaft |
+## Aktuelle Rechtsprechung
 
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesfinanzhof.de, bundesverfassungsgericht.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Pauschalzitate aus BeckRS allein; jede Entscheidung muss auf eine primaere oder offene Sekundaerquelle ruckfuehrbar sein.
 
-## Output-Template Mandantenschreiben
+## Zentrale Normen
 
-**Adressat:** Mandant — Tonfall: verständlich-erklärend
+§§ 193 ff. AO · § 196 AO · § 197 AO · § 200 AO · § 201 AO · § 202 AO · § 171 Abs. 4 AO · § 147 AO (Aufbewahrung) · GoBD
 
-```
-Betreff: Antrag auf Aussetzung der Vollziehung [STEUERART] [JAHR]
+## Quellenregel
 
-Sehr geehrte/r [NAME MANDANT],
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
 
-wir haben heute beim Finanzamt [ORT] beantragt, die
-Vollziehung des [STEUERART]-Bescheids vom [DATUM]
-auszusetzen. Das bedeutet, dass Sie die streitige Steuer
-von [BETRAG] Euro vorerst nicht zahlen müssen.
+## Abgrenzung zu anderen Skills dieses Plugins
 
-Wichtig: Falls wir im Einspruch unterliegen, fallen
-Aussetzungszinsen an (gesetzlich 0,5 % pro vollem Monat /
-6 % pro Jahr auf den ausgesetzten Betrag, § 237 i.V.m.
-§ 238 Abs. 1 S. 1 AO; ein BFH-Vorlagebeschluss zur Ver-
-fassungsmaessigkeit ist beim BVerfG anhaengig). Wir
-informieren Sie über den weiteren Verfahrensgang.
-
-[KANZLEI], [DATUM]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## Ausgabe
-
-- `adv-antrag-<az>-<datum>.docx` (Stufe 1 FA oder Stufe 2 FG).
-- Eidesstattliche Versicherung als Anlage.
-- Eintrag im Fristenbuch: FA-Reaktionsfrist beobachten — bei Überschreitung Stufe 2 FG (`anw-fristenbuch-steuerrecht`).
-
-## Versand
-
-AdV-Antrag beim **Finanzamt** (§ 361 AO): über ELSTER/ERiC, Briefpost oder Telefax. **beA an Finanzamt unzulässig** seit 6.12.2024 (§ 87a Abs. 1 S. 2 AO n.F.). AdV-Antrag beim **Finanzgericht** (§ 69 Abs. 3 FGO): über beA (§ 52d FGO). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 8 AO (Wohnsitz, Aufenthalt)
-- §§ 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter)
-- § 42 AO (Gestaltungsmissbrauch)
-- §§ 169-171 AO (Festsetzungsverjährung)
-- §§ 233a, 235 AO (Verzinsung, Hinterziehungszinsen)
-- § 370 AO (Steuerhinterziehung)
-- §§ 153, 371 AO (Berichtigungserklärung, Selbstanzeige)
-- §§ 15, 32a EStG (Einkünfte aus Gewerbebetrieb, Tarif)
-- § 8 KStG, § 7 GewStG (Einkommen, Gewerbeertrag)
-- §§ 1, 15 UStG (Steuerbare Umsätze, Vorsteuerabzug)
-
-### Leitentscheidungen
-
-- BFH I R 36/18 (Hinzurechnungsbesteuerung AStG)
-- BFH XI R 11/22 (Reverse-Charge-Verfahren)
-- BFH IX R 49/13 (Liebhaberei vs. Einkunftserzielungsabsicht)
-- BVerfG 2 BvL 1/03 (Steuerfreistellung Existenzminimum)
-- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
-
-### Anwendung im Skill
-
-- Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
-- Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
-- Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+- Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
+- Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
+- Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
 
 ---
 

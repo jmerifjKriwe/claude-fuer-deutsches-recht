@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `fachanwalt-internationales-wirtschaftsrecht`.
+Dieser Megaprompt enthaelt top-10 von 77 Skills des Plugins `fachanwalt-internationales-wirtschaftsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Internationales Wirtschaftsrecht: ordnet Rolle (Internationale Vertragspartn…
 2. **mandat-triage-iwr** — Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen: Eingangs-Triag…
-3. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, K…
-4. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-5. **unterlagen-luecken** — Lücken- und Beschaffungsliste für Fachanwalt Internationales Wirtschaftsrecht: trennt fehlende Tatsachen von fehlenden B…
-6. **dokumente-intake** — Dokumentenintake für Fachanwalt Internationales Wirtschaftsrecht: sortiert Internationaler Vertrag, Schiedsklage, Choice…
-7. **output-waehlen** — Output-Wahl für Fachanwalt Internationales Wirtschaftsrecht: stimmt Adressat (Internationale Vertragspartner, Schiedsric…
-8. **quellen-livecheck** — Quellen-Live-Check für Fachanwalt Internationales Wirtschaftsrecht: prüft Normen (Rom I/II VO, CISG, ICC Incoterms) gege…
-9. **anschluss-routing** — Anschluss-Routing für Fachanwalt Internationales Wirtschaftsrecht: wählt den nächsten Spezial-Skill nach Engpass (Schied…
-10. **intwr-eu-sanktionen-trade-compliance-spezial** — Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraen…
+3. **fachanwalt-internationales-wirtschaftsrecht-orientierung** — Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und…
+4. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, K…
+5. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+6. **fachanwalt-iwr-cisg-anwendbarkeit** — Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließe…
+7. **fachanwalt-iwr-brussels-ia-zustaendigkeit** — Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig i…
+8. **fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit** — Vertragsparteien aus verschiedenen Laendern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag …
+9. **fachanwalt-internationales-wirtschaftsrecht-schiedsklausel** — Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir s…
+10. **fachanwalt-iwr-icc-uncitral-schiedsverfahren** — Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC …
 
 ---
 
@@ -270,6 +270,107 @@ Prioritaet: [ROT / GELB / GRUEN]
 Folge-Skill: [CISG-PRUEFUNG / SCHIEDSKLAUSEL / GERICHTSSTAND ...]
 =========================================
 ```
+
+---
+
+## Skill: `fachanwalt-internationales-wirtschaftsrecht-orientierung`
+
+_Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC. Investitionsschutzrecht ICSID Welthandelsrecht WTO. Sanktionen EU-Russland USA-OFAC LkSG. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-iwr (konkrete Falltriage) und sanktions-compliance-prüfung._
+
+# Fachanwalt für Internationales Wirtschaftsrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 60 Fälle in den letzten drei Jahren, davon mindestens 30 mit Auslandsbezug.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| UN-Kaufrecht | CISG (BGBl. II 1989 S. 588); aktueller Vertragsstaaten-Stand 12/2024: 97 Staaten — Liste UNCITRAL: https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/status |
+| Gerichtsstand EU | Bruessel Ia VO (EU 1215/2012): https://eur-lex.europa.eu/eli/reg/2012/1215 |
+| Anwendbares Recht Vertrag | Rom I VO (EG 593/2008): https://eur-lex.europa.eu/eli/reg/2008/593 |
+| Anwendbares Recht ausservertraglich | Rom II VO (EG 864/2007): https://eur-lex.europa.eu/eli/reg/2007/864 |
+| Anerkennung Auslandsurteile | HAVUe 2019 (fuer EU in Kraft seit 01.09.2023; UK seit 01.07.2025): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137 ; Haager Gerichtsstandsuebereinkommen 2005 |
+| Anerkennung Schiedssprueche | New Yorker UN-Uebereinkommen 1958 (ueber 170 Vertragsstaaten): https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2 |
+| Schiedsverfahren | UNCITRAL Modellgesetz 1985/2006, ICC Rules 2021, LCIA Rules 2020, HKIAC Rules 2024, SIAC Rules 2025 (7th ed.), DIS-SchO 2018, ZPO §§ 1025 ff. (Reform BMJ pendent) |
+| Investitionsschutz | ICSID-Konvention; ICSID Rules 2022 (seit 01.07.2022); BIT-Netzwerk; Achmea (EuGH C-284/16); Komstroy (EuGH C-741/19) intra-EU-Beschraenkung |
+| Welthandel | WTO-Recht (GATT GATS TRIPS DSU); Status Appellate Body weiterhin blockiert; MPIA als Alternative |
+| EU-Aussenhandel | EU-Zollkodex (VO 952/2013); EU-Sanktionsverordnungen (VO 833/2014 zuletzt 16. Paket VO 2025/395 v. 24.02.2025 und 17. Paket 20.05.2025; VO 269/2014); Dual-Use-VO (EU) 2021/821; Anti-Coercion-Instrument VO (EU) 2023/2675 (anwendbar seit 27.12.2023) |
+| Lieferketten | LkSG (BGBl. I 2021, 2959; in Kraft 01.01.2023; aktueller Stand pruefen: BMWE/BAFA Vereinfachungs- und Aenderungsgesetz 09/2025, Berichtspflicht-Aussetzung BAFA-Hinweis vom 01.10.2025, Aenderungsgesetz voraussichtlich Anfang 2026) und EU CSDDD (Richtlinie (EU) 2024/1760; in Kraft 25.07.2024; Anwendung gestaffelt; nach Omnibus I-Anpassung Umsetzungsfrist 26.07.2028, Anwendung ab 26.07.2029): https://eur-lex.europa.eu/eli/dir/2024/1760 |
+| Wirtschaftliche Zwangsmassnahmen | Anti-Coercion Instrument (VO (EU) 2023/2675; in Kraft 27.12.2023): https://eur-lex.europa.eu/eli/reg/2023/2675 |
+| Internationale Vollstreckung | EuVTVO (VO (EG) 805/2004), EUKoVO (VO (EG) 1896/2006), Bruessel Ia: https://eur-lex.europa.eu/eli/reg/2012/1215 |
+
+## Typische Mandate
+
+- Internationale Vertragsgestaltung (Lieferung Kauf Dienstleistung)
+- Schiedsverfahren (ICC Wien Genf London)
+- Anerkennung und Vollstreckung ausländischer Urteile
+- Investitionsschutz-Schiedsverfahren ICSID
+- EU-Sanktionen Compliance Russland Iran etc.
+- Außenwirtschaftsrecht Genehmigungen Exportkontrolle
+- LkSG-Compliance Lieferantenkette Risikoanalyse
+
+## Fristen
+
+- **CISG-Mängelruege** unverzueglich Art. 39 CISG (binnen angemessener Frist).
+- **Schiedsklage** vertraglich vereinbarte Frist; Verjährung des Hauptanspruchs (oft drei Jahre nach Rom I anwendbarem Recht).
+- **Anerkennung Auslandsurteile** Brüssel Ia VO keine Frist.
+- **EU-Sanktion** sofortige Geltung.
+
+## Hauptforen
+
+- Landgericht und OLG bei Wirtschaftssachen mit Auslandsbezug.
+- BGH ggf. mit Vorlage an EuGH.
+- ICC International Chamber of Commerce.
+- ICSID Washington.
+- WTO Dispute Settlement Body.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- ARGE Internationales Wirtschaftsrecht DAV.
+- ICC Germany.
+- DIS Deutsche Institution für Schiedsgerichtsbarkeit.
+
+## Schnittstellen
+
+- **gesellschaftsrecht** bei grenzüberschreitenden M&A.
+- **regulatorisches-recht** bei BaFin-Aufsicht Außenhandel.
+- **fachanwalt-vergaberecht** bei grenzüberschreitender Vergabe.
+- **kanzlei-allgemein** Fristen Versand.
+
+## Vertiefung: Rechtsprechung und Normen IWR
+
+### Schluessel-Leitsaetze Internationales Wirtschaftsrecht
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Normen-Ueberblick IWR
+| Materie | Zentralnorm |
+|---|---|
+| Intl. Zustaendigkeit (EU) | Bruessel Ia VO Art. 4, 7, 25 |
+| Anwendb. Recht Vertrag (EU) | Rom I VO Art. 3, 4 |
+| Anwendb. Recht Delikt (EU) | Rom II VO Art. 4, 14 |
+| UN-Kaufrecht | CISG Art. 1, 6, 39 |
+| Schiedsrecht DE | §§ 1025-1066 ZPO |
+| Intl. Schiedsrecht | NY Convention 1958 |
+| Investitionsschutz | ICSID-Konvention; BIT-Netzwerk |
+| EU-Sanktionen | VO (EG) 765/2006 + Russland-Pakete |
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Fristen IWR Ueberblick
+| Frist | Norm |
+|---|---|
+| CISG Maengelruege | Art. 39 CISG: unverzueglich; spaetestens 2 Jahre Art. 39 Abs. 2 |
+| Verjaebrung (BGB) | §§ 195, 199 BGB: 3 Jahre |
+| Schiedsklage-Einleitung | Vertraglich vereinbart oder Verjaebrung Hauptanspruch |
+| Vollstreckungsantrag NY Convention | Kein Zeitlimit; aber Einrede moeglich |
 
 ---
 
@@ -562,315 +663,1003 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `unterlagen-luecken`
+## Skill: `fachanwalt-iwr-cisg-anwendbarkeit`
 
-_Lücken- und Beschaffungsliste für Fachanwalt Internationales Wirtschaftsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Internationaler Vertrag, Schiedsklage, Choice-of-law-Klausel), nennt pro Lücke Beweisthema, Beschaffungsweg (Schiedsgerichte (DIS, ICC)), Frist und Ersatznachweis._
+_Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließen? CISG Anwendbarkeit Art. 1 CISG. Prüfraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kollisionsrecht Ausschluss Art. 6 CISG Garantie- und Maengelpflichten Art. 35 ff. Untersuchungspflicht Art. 38 Ruegepflicht Art. 39. Output: CISG-Anwendbarkeits-Entscheidung und Handlungsempfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-cisg-prüfung (inhaltliche Prüfung) und gerichtsstand-und-rechtswahl-prüfen._
 
-# Unterlagen und Lücken
+# CISG-Anwendbarkeit
 
-## Einsatzlage
+## Zweck
 
-Diese Unterlagenprüfung für **Fachanwalt Internationales Wirtschaftsrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
+Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwendbar ist.
 
-## Fachlandkarte dieses Plugins
+## 1) Eingangs-Abfrage
 
-- `anti-dumping-zoll-eu-grundverordnung` — Anti Dumping Zoll EU Grundverordnung
-- `bruessel-risikoampel-und-gegenargumente` — Bruessel CISG Sonderfall Edge
-- `china-shipping-bills-of-lading` — China Shipping Bills OF Lading
-- `embargo-fristennotiz-und-naechster-schritt` — Embargo Fristennotiz Schiedsverfahren
-- `eu-kartellrecht-art-101-aeuv-eugh-c-373-14` — EU Kartellrecht ART 101 Aeuv Eugh C 373 14
-- `eu-kartellrecht-art-102-aeuv-google-eugh-t-612-17` — EU Kartellrecht ART 102 Aeuv Google Eugh T 612 17
-- `eu-mwst-betrug-mtic` — EU Mwst Betrug Mtic
-- `eugv-zustaendigkeit-art-7-eugvvo` — Eugv Zustaendigkeit ART 7 Eugvvo
-- `einstieg-schnelltriage-fallrouting` — FA INT Wirtschaft Start Chronologie Fristen
-- `gerichtsstand-und-rechtswahl-pruefen` — Gerichtsstand Rechtswahl Intwr CISG ROM
-- `icsid-quellenkarte` — Icsid Quellenkarte
-- `incoterms-2020-fca-versendungskauf` — Incoterms 2020 FCA Versendungskauf
-- `erstpruefung-und-mandatsziel` — Intwr RED Team Korrektur
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+1. Beide Parteien-Sitze in CISG-Staaten?
+2. Warenkauf zwischen Unternehmern (B2B)?
+3. Vertraglicher Ausschluss CISG?
+4. Reklamation / Mangelpunkt aktuell?
+5. Anwendbares Kollisions-Recht (Rom I-VO)?
 
-## Arbeitsweg
+## 2) Sachlicher Anwendungsbereich Art. 1 CISG
 
-- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Fachanwalt Internationales Wirtschaftsrecht-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
-- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
-- Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
-- Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
-- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
+- **Warenkauf** zwischen Unternehmern aus verschiedenen Vertragsstaaten
+- Ausschluesse Art. 2: Konsum-Kaeufe, Versteigerung, Wertpapiere, Schiff, Luftfahrzeug
+- Art. 3: Werk-Lieferungs-Verträge (wenn Material vom Kaeufer: kein CISG)
 
-## Qualitätsanker
+## 3) Raeumlicher Anwendungsbereich
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+### Direkt Art. 1 Abs. 1 a) CISG
 
----
+- Beide Parteien-Sitze in CISG-Staat
+- Aktueller Stand (12/2024): 97 Vertragsstaaten (u. a. DE, A, CH, USA, China, Japan, Brasilien; Ruanda seit 01.10.2024).
+- Offizielle Liste UNCITRAL: https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/status — vor Verwendung tagesaktuell pruefen.
 
-## Skill: `dokumente-intake`
+### Indirekt Art. 1 Abs. 1 b) CISG
 
-_Dokumentenintake für Fachanwalt Internationales Wirtschaftsrecht: sortiert Internationaler Vertrag, Schiedsklage, Choice-of-law-Klausel, prüft Datum, Absender, Frist und Beweiswert (Dokumentenkontrolle, Witness statements); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO._
+- Kollisions-Recht führt zu CISG-Staat
+- Beispiel: DE-Verkaeufer, NIC (nicht-Vertragsstaat)-Kaeufer; Rom I-VO führt zu DE -> CISG anwendbar
 
-# Dokumentenintake
+## 4) Ausschluss Art. 6 CISG
 
-## Aktenstart statt Formularstart
+### Voraussetzung
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Internationales Wirtschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+- **Eindeutiger** Vertraglicher Ausschluss
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- "Es gilt deutsches Recht" -> CISG bleibt (Teil deutschen Rechts)
+- Korrekt: "Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts (CISG)"
 
-Starte dann mit einer knappen Rueckmeldung:
+### Strategie
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
+- Bei Verkaeufer-AGB: meist Ausschluss empfohlen (klare BGB-Anwendung)
+- Bei Kaeufer-Bestellung: CISG-Anwendung oft Vorteil
+
+## 5) Mängelpflichten Art. 35-39 CISG
+
+### Art. 35 CISG — Vertragsgemäße Ware
+
+- Wesentliche Eigenschaften
+- Hinweis-Pflichten
+
+### Untersuchungspflicht Art. 38 CISG
+
+- Kaeufer muss Ware so bald wie möglich untersuchen
+
+### Ruegepflicht Art. 39 CISG
+
+- **Innerhalb angemessener Frist** nach Entdeckung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Bei Versäumnis: Verlust der Gewaehrleistungs-Rechte
+
+### Spaetestens Art. 39 II CISG
+
+- 2 Jahre ab Übergabe der Ware
+
+## 6) Workflow CISG-Prüfung
+
+### Schritt 1 — Parteien-Sitze
+
+- IHK-Verzeichnis CISG-Vertragsstaaten
+- Aktuelle Liste: https://uncitral.un.org
+
+### Schritt 2 — Vertragsausschluss-Prüfung
+
+- AGB lesen
+- Explizite Ausschluss-Klausel suchen
+
+### Schritt 3 — Anwendbares Kollisions-Recht
+
+- Rom I-VO Art. 4
+- Bei Warenkauf: Verkaeufer-Recht typisch
+- CISG vorrangig vor nationalem Kaufrecht
+
+### Schritt 4 — Sachverhaltsanalyse
+
+- Mängel-Stand
+- Ruege-Zeitpunkt vs. Entdeckung
+- Untersuchung erfolgt?
+
+## 7) Vergleich CISG vs. BGB
+
+| Punkt | CISG | BGB |
+|---|---|---|
+| Mängelrecht | Art. 35-44 | §§ 434 ff. |
+| Ruegepflicht | Pflicht, 1 Monat | nur § 377 HGB im Handelskauf |
+| Verjaehrung | 4 Jahre Art. 39 II analog | 2 Jahre § 438 |
+| Verzugszinsen | nicht geregelt -> nationales Recht | § 288 BGB |
+| Vertragsstrafe | nicht geregelt | § 339 BGB |
+
+## 8) Typische Fehler
+
+1. **"Deutsches Recht" als CISG-Ausschluss missverstanden**
+2. **Ruegefrist verpasst** -> Verlust der Mängelrechte
+3. **Untersuchungs-Pflicht missachtet** -> Verlust
+4. **Bei Werk-Lieferung CISG faelschlich angewendet** (Art. 3)
+
+## 9) BGH-Linien
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Anschluss
+
+- `fachanwalt-iwr-brussels-ia-zustaendigkeit` — bei Forum-Frage
+- `cisg-pruefen` (Vollplugin-Skill) — vertiefte Prüfung
+- `incoterms-und-gefahruebergang` — bei Lieferungs-Risiko
+
+## Vertiefung: Triage und Output-Template CISG-Anwendbarkeit
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Haben beide Parteien Niederlassung in CISG-Vertragsstaaten? → Art. 1 Abs. 1 lit. a CISG
+2. Fuehrt IPR-Verweisung in CISG-Staat? → Art. 1 Abs. 1 lit. b CISG (von DE nicht erklaert; kein Problem)
+3. Ist Warenkauf (kein Verbraucherkauf, keine Dienstleistung, kein Strom)?
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Ergaenzende Leitsaetze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Output-Template Checkliste CISG-Anwendbarkeit
+**Adressat:** Intern (Kaltstart) — Tonfall: schnell, checkboxorientiert
+
+```
+CHECKLISTE CISG-ANWENDBARKEIT
+===================================
+[ ] Parteien haben Sitz in verschiedenen Staaten
+[ ] Beide Staaten Vertragsstaaten CISG
+[ ] Gegenstand: Kauf von Waren (nicht Dienstleistungen)
+[ ] Kein Verbraucherkauf
+[ ] CISG nicht ausgeschlossen (Art. 6 CISG)
+===================================
+ERGEBNIS:
+[ ] CISG ANWENDBAR
+[ ] CISG NICHT ANWENDBAR → Anwendbares Recht nach Rom I
 ```
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Einsatzlage
-
-Dieser Dokumenten-Intake für **Fachanwalt Internationales Wirtschaftsrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
-
-## Fachlandkarte dieses Plugins
-
-- `anti-dumping-zoll-eu-grundverordnung` — Anti Dumping Zoll EU Grundverordnung
-- `bruessel-risikoampel-und-gegenargumente` — Bruessel CISG Sonderfall Edge
-- `china-shipping-bills-of-lading` — China Shipping Bills OF Lading
-- `embargo-fristennotiz-und-naechster-schritt` — Embargo Fristennotiz Schiedsverfahren
-- `eu-kartellrecht-art-101-aeuv-eugh-c-373-14` — EU Kartellrecht ART 101 Aeuv Eugh C 373 14
-- `eu-kartellrecht-art-102-aeuv-google-eugh-t-612-17` — EU Kartellrecht ART 102 Aeuv Google Eugh T 612 17
-- `eu-mwst-betrug-mtic` — EU Mwst Betrug Mtic
-- `eugv-zustaendigkeit-art-7-eugvvo` — Eugv Zustaendigkeit ART 7 Eugvvo
-- `einstieg-schnelltriage-fallrouting` — FA INT Wirtschaft Start Chronologie Fristen
-- `gerichtsstand-und-rechtswahl-pruefen` — Gerichtsstand Rechtswahl Intwr CISG ROM
-- `icsid-quellenkarte` — Icsid Quellenkarte
-- `incoterms-2020-fca-versendungskauf` — Incoterms 2020 FCA Versendungskauf
-- `erstpruefung-und-mandatsziel` — Intwr RED Team Korrektur
-- `anschluss-routing` — Anschluss Routing
-- `einstieg-routing` — Einstieg Routing
-
-## Arbeitsweg
-
-- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
-- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Fachanwalt Internationales Wirtschaftsrecht-Frage.
-- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
-- Tragende Normen vorläufig zuordnen: CISG, LkSG — Endfeststellung erst nach Live-Check.
-- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+<!-- AUDIT 27.05.2026
+Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
+-->
 
 ---
 
-## Skill: `output-waehlen`
+## Skill: `fachanwalt-iwr-brussels-ia-zustaendigkeit`
 
-_Output-Wahl für Fachanwalt Internationales Wirtschaftsrecht: stimmt Adressat (Internationale Vertragspartner, Schiedsrichter), Frist (Schiedsklage-Fristen je Regelwerk) und Form auf den Zweck ab — typische Outputs: Internationaler Vertrag, Schiedsklage, Vollstreckbarerklärung NYC._
+_Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen._
 
-# Output wählen
+# Brüssel-Ia-VO Internationale Zuständigkeit
 
-## Einsatzlage
+## Zweck
 
-Diese Output-Weiche für **Fachanwalt Internationales Wirtschaftsrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Brüssel-Ia).
 
-## Fachlandkarte dieses Plugins
+## 1) Eingangs-Abfrage
 
-- `anti-dumping-zoll-eu-grundverordnung` — Anti Dumping Zoll EU Grundverordnung
-- `bruessel-risikoampel-und-gegenargumente` — Bruessel CISG Sonderfall Edge
-- `china-shipping-bills-of-lading` — China Shipping Bills OF Lading
-- `embargo-fristennotiz-und-naechster-schritt` — Embargo Fristennotiz Schiedsverfahren
-- `eu-kartellrecht-art-101-aeuv-eugh-c-373-14` — EU Kartellrecht ART 101 Aeuv Eugh C 373 14
-- `eu-kartellrecht-art-102-aeuv-google-eugh-t-612-17` — EU Kartellrecht ART 102 Aeuv Google Eugh T 612 17
-- `eu-mwst-betrug-mtic` — EU Mwst Betrug Mtic
-- `eugv-zustaendigkeit-art-7-eugvvo` — Eugv Zustaendigkeit ART 7 Eugvvo
-- `einstieg-schnelltriage-fallrouting` — FA INT Wirtschaft Start Chronologie Fristen
-- `gerichtsstand-und-rechtswahl-pruefen` — Gerichtsstand Rechtswahl Intwr CISG ROM
-- `icsid-quellenkarte` — Icsid Quellenkarte
-- `incoterms-2020-fca-versendungskauf` — Incoterms 2020 FCA Versendungskauf
-- `erstpruefung-und-mandatsziel` — Intwr RED Team Korrektur
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+1. Sitz Kläger und Beklagter?
+2. Streitgegenstand (Vertrag, Delikt, Verbraucher, Arbeitnehmer, Sachenrecht)?
+3. Erfüllungsort der Hauptleistung?
+4. Gerichtsstands-Vereinbarung vorhanden?
+5. Eilbedürftigkeit?
 
-## Arbeitsweg
+## 2) Allgemeiner Gerichtsstand Art. 4 VO
 
-- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
-- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Fachanwalt Internationales Wirtschaftsrecht (CISG, LkSG) einarbeiten.
-- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
-- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
-- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+- **Beklagter-Wohnsitz / Sitz** in EU-Mitgliedstaat
+- Bei juristischer Person: Satzungssitz, Hauptverwaltung, Hauptniederlassung (Art. 63)
+- Standard für alle Streitigkeiten
 
-## Qualitätsanker
+## 3) Besonderer Gerichtsstand Art. 7
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+### Vertragsrecht Art. 7 Nr. 1
+
+- **Erfüllungsort der vertraglichen Leistung**
+- **Lit. b**: Bei Warenkauf — Lieferort
+- **Lit. b**: Bei Dienstleistungs-Vertrag — Erbringungsort
+- Bei anderen Verträgen: charakteristische Leistung
+
+### Deliktsrecht Art. 7 Nr. 2
+
+- **Tatort** der unerlaubten Handlung
+- Erfolgsort UND Handlungsort
+- BGH-Linie und EuGH-Linie
+
+### Niederlassungs-Streitigkeit Art. 7 Nr. 5
+
+- Streitigkeit aus Betrieb einer Zweigniederlassung
+- Sitz der Niederlassung
+
+## 4) Verbraucherschutz Art. 17-19
+
+### Verbraucher
+
+- Vertrag für privaten Zweck
+- Beruflicher Empfänger ausgeschlossen
+
+### Klagestand Verbraucher
+
+- Art. 18 I: Verbraucher kann am **eigenen Wohnsitz** klagen
+- Verbraucher-Klage gegen Unternehmer am eigenen Wohnsitz
+
+### Klage gegen Verbraucher
+
+- Art. 18 II: Nur am Wohnsitz des Verbrauchers
+
+### "Targeting Test" Art. 17 I c)
+
+- Unternehmer richtet Aktivitäten gezielt auf Mitgliedstaat des Verbrauchers
+- Website in Sprache, Waehrung, Versand-Adresse
+
+## 5) Arbeitnehmerschutz Art. 20-23
+
+- AN kann an Sitz des AG oder gewoehnlichem Arbeitsort klagen
+- AG kann nur am Wohnsitz des AN klagen
+- Gerichtsstands-Klausel nur nachtraeglich wirksam
+
+## 6) Gerichtsstands-Vereinbarung Art. 25
+
+### Voraussetzungen
+
+- **Schriftform** oder elektronisch (mit Bestätigung)
+- **Beide Parteien zustimmen**
+- Geltend für kuenftige Streitigkeiten
+
+### Asymmetrische Klauseln
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- "A klagt nur in DE, B kann in DE oder am Sitz von A klagen"
+
+## 7) Ausschließliche Zuständigkeit Art. 24
+
+### Sachenrecht Immobilien
+
+- Lage der Sache
+
+### Gesellschafts-Beschlüsse
+
+- Sitz der Gesellschaft
+
+### Eintragungen Register
+
+- Sitz Register-Gericht
+
+## 8) Workflow
+
+### Schritt 1 — Sachverhaltsanalyse
+
+- Vertraglich, deliktisch, sachenrechtlich?
+- Sitze beider Parteien
+- Erfüllungsort
+
+### Schritt 2 — Gerichtsstands-Prüfung
+
+- Allgemein Art. 4 (Beklagter-Sitz)
+- Besonderer Stand Art. 7
+- Bei Verbraucher: Art. 17-19
+- Vereinbarung Art. 25 vorrangig
+
+### Schritt 3 — Klage-Strategie
+
+- Gerichts-Wahl (Forum-Shopping bei mehreren Gerichtsstaenden)
+- Sprache des Verfahrens
+- Vollstreckungs-Erleichterung im Empfängerstaat
+
+## 9) Anerkennung / Vollstreckung
+
+- Art. 36: Urteil eines MS wird in anderem MS **ohne Anerkennungsverfahren** anerkannt
+- Art. 39: Vollstreckung ohne Vollstreckungserklärung
+- Versagungs-Gründe Art. 45 / 46 begrenzt
+
+## 10) Drittstaaten
+
+- Nicht Bruessel-Ia (VO (EU) Nr. 1215/2012: https://eur-lex.europa.eu/eli/reg/2012/1215)
+- Nationales IZPR (§§ 12 ff. ZPO bei DE): https://www.gesetze-im-internet.de/zpo/__12.html
+- **Haager Uebereinkommen ueber Gerichtsstandsvereinbarungen 2005** (HGUe; EU-Vertragsstaat seit 01.10.2015): https://www.hcch.net/en/instruments/conventions/full-text/?cid=98
+- **HAVUe 2019** (Haager Uebereinkommen ueber die Anerkennung und Vollstreckung auslaendischer Urteile in Zivil- und Handelssachen; EU-Beitritt 29.08.2022; in Kraft fuer EU + Ukraine seit 01.09.2023; Daenemark nicht gebunden gem. Art. 27 HAVUe): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137
+- Brexit-Folge: UK seit 01.01.2021 nicht mehr Bruessel-Ia-Vertragsstaat; UK hat HAVUe am 12.01.2024 unterzeichnet und am 27.06.2024 ratifiziert; in Kraft fuer UK seit 01.07.2025: https://www.hcch.net/en/news-archive/details/?varevent=1085
+
+## 11) Typische Fehler
+
+1. **Verbraucher-Eigenschaft übersehen** -> falsche Zuständigkeit
+2. **Erfüllungsort falsch bestimmt** bei Wahllieferung
+3. **Targeting-Test ignoriert** bei Online-Verkauf
+4. **Gerichtsstands-Klausel ohne Schriftform** -> unwirksam
+5. **Asymmetrische Klausel ungenau gestaltet** -> Streit
+
+## 12) EuGH-/BGH-Linien
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Anschluss
+
+- `fachanwalt-iwr-cisg-anwendbarkeit` — bei materiellem Warenkauf
+- `fachanwalt-iwr-embargo-pruefung-russland` — bei Sanktions-Prüfung
+- `internationales-privatrecht` — bei IPR-Themen
+
+## Vertiefung: Triage und Output-Template Bruessel Ia
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Haben beide Parteien Wohnsitz/Sitz in EU-Mitgliedstaaten? → Art. 4 Bruessel Ia (Beklagter-Domizil)
+2. Liegt Gerichtsstandsvereinbarung Art. 25 Bruessel Ia vor? → Ausschliessliche Zustaendigkeit
+3. Liegt Verbraucher- oder Arbeitnehmervertrag vor? → Art. 17-22 Bruessel Ia schutzspeziell
+4. Schiedsklausel statt Gerichtsstandsklausel? → Art. 1 Abs. 2 lit. d Bruessel Ia: nicht erfasst
+5. Ist eine auslaendische Entscheidung anzuerkennen? → Art. 36 ff. Bruessel Ia
+
+### Ergaenzende Leitsaetze Bruessel Ia
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Output-Template Gerichtsstand-Memo Bruessel Ia
+**Adressat:** Mandant — Tonfall: klar erklaerend, ergebnisorientiert
+
+```
+GERICHTSSTAND-MEMO (Bruessel Ia)
+Parteien: [KLAEGER, SITZ] ./. [BEKLAGTER, SITZ]
+Streitgegenstand: [VERTRAG / DELIKT]
+
+1. Beklagter hat Sitz in EU: JA → Art. 4 Bruessel Ia gilt
+2. Gerichtsstandsvereinbarung (Art. 25): [JA: [GERICHT] / NEIN]
+3. Besonderer Gerichtsstand (Art. 7):
+   Vertrag Art. 7 Nr. 1: Erfuellungsort = [LAND/GERICHT]
+   Delikt Art. 7 Nr. 2: Schadensort = [LAND/GERICHT]
+4. Verbraucher (Art. 17-19): [JA → Wohnsitz Verbraucher / NEIN]
+5. Empfohlenes Gericht: [GERICHT, ORT, ZUSTAENDIGKEIT]
+```
+
+<!-- AUDIT 27.05.2026
+Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
+-->
 
 ---
 
-## Skill: `quellen-livecheck`
+## Skill: `fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit`
 
-_Quellen-Live-Check für Fachanwalt Internationales Wirtschaftsrecht: prüft Normen (Rom I/II VO, CISG, ICC Incoterms) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Schiedsgerichte (DIS, ICC) und Quellenhygiene nach references/quellenhygiene.md._
+_Vertragsparteien aus verschiedenen Laendern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Prüfraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4 charakteristische Leistung Sondervorschriften Verbrauchervertraege Art. 6 Befoerderung Art. 5 Arbeitsvertraege Art. 8 international zwingende Eingriffsnormen Art. 9 ordre public Art. 21. Output: Rechtsanwendbarkeits-Analyse. Abgrenzung zu fachanwalt-iwr-brussels-ia-zuständigkeit (gerichtliche Zuständigkeit) und gerichtsstand-und-rechtswahl-prüfen._
 
-# Rechtsquellen-Livecheck
+# Rom-I-Anwendbarkeit
 
-## Einsatzlage
+## Kaltstart-Rückfragen
 
-Dieser Quellen-Livecheck für **Fachanwalt Internationales Wirtschaftsrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+1. Sind beide Vertragsparteien Unternehmer oder ist ein Verbraucher beteiligt?
+2. Wann wurde der Vertrag geschlossen (Stichtag 17.12.2009 für Rom I)?
+3. Liegt eine ausdrückliche oder konkludente Rechtswahl vor und welche Form hat sie?
+4. Wo hat der Erbringer der charakteristischen Leistung seinen gewöhnlichen Aufenthalt?
+5. Liegen Eingriffsnormen (Embargo, Sanktionen, Devisenrecht) am Erfüllungsort vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Fachlandkarte dieses Plugins
+## Rechtsgrundlagen
 
-- `anti-dumping-zoll-eu-grundverordnung` — Anti Dumping Zoll EU Grundverordnung
-- `bruessel-risikoampel-und-gegenargumente` — Bruessel CISG Sonderfall Edge
-- `china-shipping-bills-of-lading` — China Shipping Bills OF Lading
-- `embargo-fristennotiz-und-naechster-schritt` — Embargo Fristennotiz Schiedsverfahren
-- `eu-kartellrecht-art-101-aeuv-eugh-c-373-14` — EU Kartellrecht ART 101 Aeuv Eugh C 373 14
-- `eu-kartellrecht-art-102-aeuv-google-eugh-t-612-17` — EU Kartellrecht ART 102 Aeuv Google Eugh T 612 17
-- `eu-mwst-betrug-mtic` — EU Mwst Betrug Mtic
-- `eugv-zustaendigkeit-art-7-eugvvo` — Eugv Zustaendigkeit ART 7 Eugvvo
-- `einstieg-schnelltriage-fallrouting` — FA INT Wirtschaft Start Chronologie Fristen
-- `gerichtsstand-und-rechtswahl-pruefen` — Gerichtsstand Rechtswahl Intwr CISG ROM
-- `icsid-quellenkarte` — Icsid Quellenkarte
-- `incoterms-2020-fca-versendungskauf` — Incoterms 2020 FCA Versendungskauf
-- `erstpruefung-und-mandatsziel` — Intwr RED Team Korrektur
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- VO (EG) Nr. 593/2008 (Rom I): https://eur-lex.europa.eu/eli/reg/2008/593
+- Universelle Anwendung Art. 2 Rom I — auch wenn Recht eines Drittstaates berufen wird.
+- Rechtswahl Art. 3 Rom I — frei, formfrei, ggf. konkludent durch Klauselbezug.
+- Schranken der Rechtswahl: international zwingende Bestimmungen des objektiv anwendbaren Rechts bei reinem Inlandsfall Art. 3 Abs. 3 Rom I.
+- Objektive Anknuepfung mangels Rechtswahl Art. 4 Rom I — feste Anknuepfungsregeln (Kauf Verkaeuferaufenthalt, Dienstleistung Dienstleistererbringerort, Immobilien Belegenheitsort).
+- Auffangregel Art. 4 Abs. 2 Rom I — gewoehnlicher Aufenthalt des Erbringers der charakteristischen Leistung.
+- Ausweichklausel Art. 4 Abs. 3 Rom I — offensichtlich engere Verbindung zu anderem Staat.
+- Verbrauchervertrag Art. 6 Rom I — bei ausgerichteter Taetigkeit zwingende Verbraucherschutzvorschriften des Verbraucherheimatrechts trotz Rechtswahl.
+- Arbeitsvertrag Art. 8 Rom I — gewoehnlicher Arbeitsort; Guenstigkeitsprinzip.
+- Eingriffsnormen Art. 9 Rom I — auch im internationalen Wirtschaftsverkehr beachten (EU-Sanktionen Russland VO 833/2014 in der Fassung 16./17. Paket 2025; Energierecht; LkSG).
+- ordre public Art. 21 Rom I.
+- Brexit-Folge: UK seit 01.01.2021 nicht mehr Rom-I-Vertragsstaat; UK behaelt Rom I in nationaler Form als "assimilated EU law" (Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019) — seit Retained EU Law (Revocation and Reform) Act 2023 ggf. Aenderungen. Bei DE-Gerichten Art. 20 Rom I (kein Renvoi) beachten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Arbeitsweg
+## Beweislast und Frist
 
-- Tragende Normen (CISG, LkSG) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
-- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
-- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
-- Dynamische Bereiche im Fachanwalt Internationales Wirtschaftsrecht (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
-- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+- Partei die sich auf Rechtswahl beruft trägt Beweislast für deren Vereinbarung.
+- Bei Verbrauchervertrag trägt Unternehmer Beweislast dafür dass keine ausgerichtete Tätigkeit i.S.d. Art. 6 Abs. 1 lit. b Rom I vorlag.
+- Verfahrensrechtliche Fristen richten sich nach lex fori.
 
-## Qualitätsanker
+## Prüfschema
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+```
+1. Sachlicher Anwendungsbereich Art. 1 Rom I
+2. Zeitlicher Anwendungsbereich (Vertraege ab 17.12.2009)
+3. Rechtswahl Art. 3 Rom I — explizit oder konkludent
+4. Sonderkonstellationen:
+   - Verbrauchervertrag Art. 6 — gewoehnlicher Aufenthalt + ausgerichtete Taetigkeit
+   - Arbeitsvertrag Art. 8 — gewoehnlicher Arbeitsort
+   - Befoerderung Art. 5
+   - Versicherung Art. 7
+5. Mangels Rechtswahl Art. 4 Rom I anwenden
+6. Ausweichklausel Art. 4 Abs. 3 Rom I pruefen
+7. Eingriffsnormen Art. 9 Rom I (lex fori + ggf. Erfuellungsstaat)
+8. ordre public Art. 21 Rom I
+```
+
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Rechtswahl und Gerichtsstand pruefen | Gutachten Rom I / Bruessel Ia; Template unten |
+| Variante A — Mandant will EU-Gericht vermeiden | Schiedsklausel als Alternative; Skill fachanwalt-internationales-wirtschaftsrecht-schiedsklausel |
+| Variante B — Verbraucher oder Arbeitnehmer beteiligt | Schutzgerichtsstand Art. 17-22 Bruessel Ia zwingend beachten |
+| Variante C — Drittstaaten-Sitz einer Partei | Hague Convention / HAVÜ 2019 pruefen statt Bruessel Ia |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schreibvorlage Stellungnahme zur Rechtswahl
+
+```
+Sehr geehrte Damen und Herren,
+
+namens und in Vollmacht unserer Mandantschaft nehmen wir wie folgt zum
+anwendbaren Recht Stellung:
+
+1. Der Vertrag vom [Datum] enthaelt in Ziffer [X] eine ausdrueckliche
+   Rechtswahl zugunsten deutschen Rechts. Diese ist nach Art. 3 Abs. 1
+   Rom-I-VO wirksam.
+
+2. Hilfsweise: Auch ohne Rechtswahl waere deutsches Recht nach Art. 4
+   Abs. 1 lit. a Rom-I-VO anwendbar weil der Verkaeufer seinen
+   gewoehnlichen Aufenthalt in Deutschland hat.
+
+3. Die international zwingenden Eingriffsnormen — insbesondere die
+   Sanktionen der EU-Verordnung [...] — bleiben nach Art. 9 Rom-I-VO
+   anwendbar.
+
+4. Verbraucherschutzvorschriften Art. 6 Rom-I-VO sind nicht
+   einschlaegig weil beide Parteien Unternehmer sind.
+
+Mit freundlichen Gruessen
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Übergabe
+
+- Bei Streitigkeit über Rechtswahl: Gerichtsstandsprüfung nach Brüssel-Ia-VO Nr. 1215/2012 vorlegen.
+- Bei Verbrauchervertrag: Anwendbarkeit nationalem Verbraucherschutzrecht parallel mitprüfen.
+- Bei Eingriffsnormen-Konflikt: Memorandum für Mandantschaft mit Compliance-Bewertung.
+
+## Vertiefung: Leitsaetze und Triage Rom I
+
+### Ergaenzende Leitsaetze Rom I
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Normen-Kette Rom I
+- Art. 1-3 Rom I — Anwendungsbereich, Rechtswahl
+- Art. 4 Rom I — Objektive Anknuepfung
+- Art. 6 Rom I — Verbrauchervertraege
+- Art. 8 Rom I — Arbeitsvertraege
+- Art. 9 Rom I — Eingriffsnormen
+- Art. 21 Rom I — Ordre public
+
+### Triage Rom I
+Bevor losgelegt wird, klaere:
+1. Liegt Rechtswahl vor (Art. 3 Rom I)? → Ausdrücklich oder konkludent (Gerichtsstandsklausel?)
+2. Verbrauchervertrag (Art. 6 Rom I)? → Gewoehnlicher Aufenthalt + ausgerichtete Tätigkeit
+3. Eingriffsnormen (Art. 9 Rom I)? → Embargo, Sanktionen, Kartellrecht, Marktrecht
+4. Gibt es Renvoi-Problem (Weiter-/Rueckverweisung)? → Art. 24 Rom I: kein Renvoi
+
+### Output-Template Rechtsgutachten Anwendbares Recht
+**Adressat:** Mandant oder Gericht — Tonfall: sachlich-juristisch
+
+```
+Rechtsgutachten: Anwendbares Recht (Rom I)
+Vertrag: [BEZEICHNUNG] vom [DATUM]
+Parteien: [KLAEGER] (Sitz: [LAND]) ./. [BEKLAGTER] (Sitz: [LAND])
+
+1. Rechtswahl (Art. 3 Rom I):
+   [JA: [RECHTSORDNUNG] — Nachweis: Klausel X / NEIN: Objektive Anknuepfung]
+
+2. Objektive Anknuepfung Art. 4 Rom I:
+   Vertragstyp: [KAUF/DIENSTLEISTUNG/...]
+   Charakteristische Leistung: [VERKAEUFER/DIENSTLEISTER]
+   Gewoehnlicher Aufenthalt Leistungserbringer: [LAND]
+   → Anwendbares Recht: [RECHTSORDNUNG]
+
+3. Eingriffsnormen (Art. 9 Rom I):
+   [KEINE / JA: [BESCHREIBUNG]]
+
+4. Ergebnis:
+   Auf den vorliegenden Vertrag ist [RECHTSORDNUNG] anwendbar.
+```
 
 ---
 
-## Skill: `anschluss-routing`
+## Skill: `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel`
 
-_Anschluss-Routing für Fachanwalt Internationales Wirtschaftsrecht: wählt den nächsten Spezial-Skill nach Engpass (Schiedsklage-Fristen je Regelwerk, Internationaler Vertrag, Schiedsklage, Choice-of-law-Klausel), dokumentiert Router-Entscheidung mit Begründung._
+_Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform Schiedsfähigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren)._
 
-# Anschluss-Routing
+# Schiedsklausel — Prüfung und Gestaltung
 
-## Einsatzlage
+## Kaltstart-Rückfragen
 
-Dieses Anschluss-Routing für **Fachanwalt Internationales Wirtschaftsrecht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
+1. Welche Streitsachen sollen erfasst werden — alle Streitigkeiten aus und im Zusammenhang mit dem Vertrag oder nur bestimmte (z. B. Qualitätsstreitigkeiten, Preis, IP-Verletzungen)? Begründung: zu enge Fassung führt zu parallelen Verfahren, zu weite Fassung kann ungewollte Streitigkeiten erfassen.
+2. Welche Schiedsinstitution wird bevorzugt — DIS, ICC, LCIA, HKIAC, SCC, SIAC, Ad-hoc-UNCITRAL? Begründung: Institutionenwahl beeinflusst Kosten, Verfahrensdauer, Vollstreckbarkeit in Zielstaat.
+3. Welcher Schiedsort (Sitz des Schiedsgerichts — entscheidend für lex arbitri, Aufhebungsrecht, staatliche Unterstützung) und Verfahrenssprache? Begründung: Schiedsort ≠ Verhandlungsort; deutsches Recht als lex arbitri bei Frankfurt/München/Hamburg.
+4. Anzahl der Schiedsrichter — Einzelschiedsrichter bis ca. 500.000 EUR Streitwert, Dreiergremium bei höherem Streitwert und mehreren Parteien? Begründung: Kosten und Zeitrahmen erheblich beeinflusst.
+5. Anwendbares materielles Recht — Parteiwahl § 1051 ZPO; bei internationalem Kaufvertrag CISG beachten (ggf. abwählen); Begründung: lex arbitri und lex causae auseinanderhalten.
+6. Liegt Verbraucherbeteiligung vor? § 1031 Abs. 5 ZPO — schärfere Formanforderungen zwingend.
+7. Soll Streitschlichtung (Mediation, Conciliation) als vorgeschaltete Pflichtphase vereinbart werden (so genannte Multi-Tier-Klausel)? Begründung: wirkt kostenmindernd, muss präzise formuliert sein um Zuständigkeitsfragen zu vermeiden.
+8. Notwendigkeit von Interim Relief (einstweilige Maßnahmen) — Zuständigkeit des Schiedsgerichts, Notfallschiedsrichter ICC Art. 29, DIS § 23, oder staatliche Gerichte weiterhin offen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Fachlandkarte dieses Plugins
+## Rechtsgrundlagen
 
-- `anti-dumping-zoll-eu-grundverordnung` — Anti Dumping Zoll EU Grundverordnung
-- `bruessel-risikoampel-und-gegenargumente` — Bruessel CISG Sonderfall Edge
-- `china-shipping-bills-of-lading` — China Shipping Bills OF Lading
-- `embargo-fristennotiz-und-naechster-schritt` — Embargo Fristennotiz Schiedsverfahren
-- `eu-kartellrecht-art-101-aeuv-eugh-c-373-14` — EU Kartellrecht ART 101 Aeuv Eugh C 373 14
-- `eu-kartellrecht-art-102-aeuv-google-eugh-t-612-17` — EU Kartellrecht ART 102 Aeuv Google Eugh T 612 17
-- `eu-mwst-betrug-mtic` — EU Mwst Betrug Mtic
-- `eugv-zustaendigkeit-art-7-eugvvo` — Eugv Zustaendigkeit ART 7 Eugvvo
-- `einstieg-schnelltriage-fallrouting` — FA INT Wirtschaft Start Chronologie Fristen
-- `gerichtsstand-und-rechtswahl-pruefen` — Gerichtsstand Rechtswahl Intwr CISG ROM
-- `icsid-quellenkarte` — Icsid Quellenkarte
-- `incoterms-2020-fca-versendungskauf` — Incoterms 2020 FCA Versendungskauf
-- `erstpruefung-und-mandatsziel` — Intwr RED Team Korrektur
-- `dokumente-intake` — Dokumente Intake
-- `einstieg-routing` — Einstieg Routing
+### Nationales Recht
 
-## Arbeitsweg
+- § 1029 ZPO — Schiedsvereinbarung, Begriff: Vertrag über privat-rechtlichen Rechtsstreit mit Schiedsgericht anstelle von staatlichem Gericht.
+- § 1030 ZPO — Schiedsfähigkeit: vermögensrechtliche Ansprüche stets; nicht vermögensrechtliche soweit vergleichsfähig.
+- § 1031 ZPO — Schriftform: Abs. 1 eigene Urkunde oder gewechselte Schreiben; Abs. 2 Telekommunikation genügt; Abs. 3 Bezugnahme auf Dokument mit Schiedsklausel ausreichend; Abs. 5 Verbraucher gesonderte eigenhändig unterzeichnete Urkunde zwingend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- § 1040 ZPO — Kompetenz-Kompetenz: Schiedsgericht entscheidet selbst über eigene Zuständigkeit; Trennungsprinzip (Severability): Schiedsvereinbarung ist selbständig vom Hauptvertrag zu beurteilen.
+- § 1051 ZPO — Anwendbares materielles Recht nach Parteiwahl; subsidiär Recht mit engster Verbindung.
+- § 1059 ZPO — Aufhebungsantrag für inländische Schiedssprüche: abschließender Katalog; Frist drei Monate ab Empfang des Schiedsspruchs.
+- §§ 1061 ff. ZPO — Vollstreckbarerklärung ausländischer Schiedssprüche i. V. m. NYC.
 
-- Ergebnis sichten: Welche Fachanwalt Internationales Wirtschaftsrecht-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
-- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
-- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
-- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
-- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
+### Internationales Recht
 
-## Qualitätsanker
+- **New Yorker Übereinkommen (NYC) 1958** (über 170 Vertragsstaaten): Art. II Schriftformerfordernis; Art. III Vollstreckbarerklärung; Art. V Anerkennungsversagungsgründe (ordre public, nicht schiedsfähig, Formfehler, Versagung rechtlichen Gehörs).
+- **UNCITRAL-Modellgesetz 1985/2006** — Basis der meisten modernen nationalen Schiedsgesetze.
+- **UNCITRAL-Schiedsregeln 2010/2013** für Ad-hoc-Verfahren.
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+### Schiedsordnungen
 
-## Normen und Rechtsprechung
+- **DIS-Schiedsgerichtsordnung 2018** (in Kraft seit 01.03.2018; Anhang 2 in Fassung vom 01.07.2021): https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
+- DIS-ERGeS (Ergaenzende Regeln gesellschaftsrechtliche Streitigkeiten 2018), DIS-Mediationsordnung 2020.
+- **ICC-SchO 2021** (in Kraft seit 01.01.2021): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
+- **LCIA Rules 2020** (London Court of International Arbitration): https://www.lcia.org/dispute_resolution_services/lcia-arbitration-rules-2020.aspx
+- **HKIAC Administered Arbitration Rules 2024** (in Kraft 01.06.2024; aktualisiert gegenueber 2018-Fassung): https://www.hkiac.org/arbitration/rules-practice-notes/hkiac-administered-2024
+- **SIAC Rules 2025** (7. Auflage; in Kraft seit 01.01.2025): https://siac.org.sg/rules/siac-rules-2025/
 
-### Kuratierte Normen-Bibliothek
+### Wichtige BGH-Entscheidungen
 
-- § 18 AWG
-- § 7 AWG
-- § 43 GwG
-- Art. 102 AEUV
-- Art. 101 AEUV
-- Art. 25 EuGVVO
-- § 31 OWiG
-- § 3a RVG
-- Art. 9 DSGVO
-- Art. 45 EuGVVO
-- Art. 267 AEUV
-- Art. 7 EuGVVO
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Leitentscheidungen
+## Prüfschema
 
-- EuGH C-284/16
+| Nr. | Prüfschritt | Norm | Kernfrage |
+|---|---|---|---|
+| 1 | Schiedsfähigkeit | § 1030 ZPO | Vermögensrechtlicher Anspruch? Vergleichsfähig? |
+| 2 | Schriftform | § 1031 ZPO / Art. II NYC | Eigene Urkunde, gewechselte Schreiben, Bezugnahme, Telekommunikation? |
+| 3 | Verbraucherbeteiligung | § 1031 Abs. 5 ZPO | Gesonderte handschriftlich unterzeichnete Urkunde? |
+| 4 | Bestimmtheit | § 1029 ZPO | Streitgegenstand, Institution, Sitz, Sprache, Anzahl Schiedsrichter hinreichend bestimmt? |
+| 5 | Trennungsprinzip / Kompetenz-Kompetenz | § 1040 ZPO | Selbständige Beurteilung der Schiedsvereinbarung unabhängig vom Hauptvertrag? |
+| 6 | Anwendbares Verfahrensrecht (lex arbitri) | § 1025 ZPO | Schiedsort = Deutschland → deutsches Schiedsrecht; Ausland → ausländisches Recht? |
+| 7 | Schiedsordnung gewählt? | Parteiwahl | DIS / ICC / LCIA / Ad-hoc-UNCITRAL? |
+| 8 | Anwendbares materielles Recht | § 1051 ZPO | Rechtswahl wirksam? CISG abgewählt? |
+| 9 | NYC-Mitgliedschaft Vollstreckungsstaat | Art. V NYC | Anerkennungsversagungsgründe antizipiert? |
+| 10 | Aufhebungsgründe antizipiert | § 1059 ZPO | Ordre public, Formfehler, mangelnde Schiedsfähigkeit? |
+| 11 | Interim Relief | Schiedsordnung / §§ 1041 f. ZPO | Zuständigkeit Notfallschiedsrichter oder staatliches Gericht offen? |
+| 12 | Multi-Tier-Klausel | Parteiwahl | Mediation / Conciliation als Voraussetzung? Präzise Formulierung? |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schiedsklausel formulieren oder pruefen | Template unten; ICC oder DIS als Institution empfehlen |
+| Variante A — Mandant will staatliche Gerichtsbarkeit | Kein Schiedsverfahren; Gerichtsstandsklausel nach Art. 25 Bruessel Ia |
+| Variante B — Schiedsklausel unklar / pathologisch | Reparatur durch Auslegung oder Neuvereinbarung; Risiko Nichtzustaendigkeit beachten |
+| Variante C — Investitionsstreit | ICSID pruefen; Achmea-Problematik bei Intra-EU-BIT beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Musterklausel DIS (Standard)
+
+```
+Alle Streitigkeiten, die sich im Zusammenhang mit diesem Vertrag oder
+ueber seine Gueltigkeit ergeben, werden nach der Schiedsgerichts-
+ordnung der Deutschen Institution fuer Schiedsgerichtsbarkeit e.V.
+(DIS) unter Ausschluss des ordentlichen Rechtsweges endgueltig
+entschieden.
+
+Das Schiedsgericht besteht aus [einem Schiedsrichter / drei
+Schiedsrichtern].
+Schiedsort ist [Frankfurt am Main / Muenchen / Hamburg].
+Verfahrenssprache ist [Deutsch / Englisch / Deutsch und Englisch].
+Anwendbares materielles Recht ist das Recht der Bundesrepublik
+Deutschland unter Ausschluss des UN-Kaufrechts (CISG).
+```
+
+### Musterklausel ICC (international)
+
+```
+All disputes arising out of or in connection with the present
+contract, including disputes on its conclusion, binding effect,
+amendment and termination, shall be finally settled under the Rules
+of Arbitration of the International Chamber of Commerce by one or
+three arbitrators appointed in accordance with the said Rules.
+
+Place of arbitration: [city, country].
+Language of arbitration: [English / German].
+Governing law: [law of state / country].
+```
+
+### Einrede der Schiedsvereinbarung § 1032 ZPO
+
+```
+An das [Landgericht / Amtsgericht] [Ort]
+
+Aktenzeichen: [Az]
+
+Klage der [Klaeger] gegen [Beklagte]
+
+namens und in Vollmacht der Beklagten erheben wir die Einrede der
+Schiedsvereinbarung gemaess § 1032 Abs. 1 ZPO.
+
+Begruendung:
+Die Parteien haben in Ziffer [X] des Vertrages vom [Datum] eine
+wirksame Schiedsvereinbarung zugunsten der [DIS / ICC]-Schieds-
+gerichtsbarkeit mit Sitz in [Ort] vereinbart.
+
+1. Formwirksamkeit § 1031 ZPO: Die Klausel ist in der schriftlichen
+Vertragsurkunde vom [Datum] enthalten, die beide Parteien
+unterzeichnet haben.
+
+2. Schiedsfaehigkeit § 1030 ZPO: Der geltend gemachte Anspruch
+[Beschreibung] ist vermogensrechtlicher Natur und damit
+schiedsfaehig.
+
+3. Keine Verbrauchereigenschaft: Beide Parteien handeln im Rahmen
+gewerblicher/beruflicher Taetigkeit.
+
+4. Bestimmtheit: Schiedsort, Schiedsordnung, Sprache und Streit-
+gegenstand sind hinreichend bestimmt.
+
+Wir beantragen daher, die Klage als unzulaessig abzuweisen.
+
+Vorsorglich und bedingt fuer den Fall, dass das Gericht die Einrede
+zurueckweist, beantragen wir Klageabweisung in der Sache.
+
+[Unterschrift]
+```
+
+### Aufhebungsantrag § 1059 ZPO (Skeleton)
+
+```
+An das Oberlandesgericht [Ort]
+
+Aufhebungsantrag gemaess § 1059 ZPO
+
+Antragsteller: [Partei]
+Antragsgegnerin: [Partei]
+Schiedsspruch vom [Datum], Az. [Az DIS/ICC]
+
+I. Antrag
+Der Schiedsspruch vom [Datum] wird aufgehoben.
+
+II. Aufhebungsgrund § 1059 Abs. 2 Nr. 1 lit. b) ZPO
+Dem Antragsteller wurde das rechtliche Gehoer im Schiedsverfahren
+versagt. [Sachverhalt: welche Beweisangebote wurden abgelehnt, welche
+Vortraege wurden nicht beruecksichtigt]
+
+Alternativ: § 1059 Abs. 2 Nr. 2 lit. b) ZPO (ordre public)
+Die Anerkennung und Vollstreckung des Schiedsspruchs verstoesst gegen
+den ordre public der Bundesrepublik Deutschland, weil [Begruendung].
+
+III. Frist
+Der Schiedsspruch wurde dem Antragsteller am [Datum] zugestellt.
+Die Dreimonatsfrist des § 1059 Abs. 3 ZPO endet am [Datum].
+
+[Unterschrift]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Beweislast und Darlegungslast
+
+| Frage | Beweislast | Beweismittel |
+|---|---|---|
+| Abschluss und Wirksamkeit der Schiedsvereinbarung | Wer sich auf die Klausel beruft | Vertragsausfertigung, gewechselte Schreiben |
+| Formverstoß § 1031 ZPO | Rügende Partei | Vorlage aller Korrespondenz |
+| Aufhebungsgrund § 1059 ZPO | Antragsteller | Verfahrensunterlagen, Protokoll, Schriftsätze |
+| Versagungsgrund Art. V NYC | Versagungspartei | Stattliche Unterlagen, ordre-public-Argumente |
+| Wirksamkeit nach Handelsrecht | Gericht von Amts wegen | Parteivortrag, Sachverständige |
+
+## Fristen und Verjährung
+
+| Maßnahme | Frist | Anker |
+|---|---|---|
+| Einrede Schiedsvereinbarung § 1032 ZPO | Spätestens erster Sachvortrag (rügelose Einlassung = Verlust) | § 1032 Abs. 1 ZPO |
+| Aufhebungsantrag § 1059 ZPO | 3 Monate ab Empfang des Schiedsspruchs | § 1059 Abs. 3 Satz 1 ZPO |
+| Vollstreckbarerklärungsantrag § 1061 ZPO | Keine Frist; materiell-rechtliche Verjährung des Anspruchs läuft weiter | §§ 1061 ff. ZPO / NYC |
+| Zwischenfeststellungsklage § 1032 Abs. 2 ZPO | Bis Schiedsverfahren begonnen | § 1032 Abs. 2 ZPO |
+| Notfall-Schiedsrichter ICC | Vor Konstituierung des Schiedsgerichts | Art. 29 ICC-SchO 2021 |
+
+## Typische Gegenargumente und Reaktion
+
+| Einwand | Reaktion |
+|---|---|
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Verbraucherschutz § 1031 Abs. 5 ZPO | Parteieigenschaft als Unternehmer prüfen und belegen; bei echtem Verbraucher Klausel unwirksam — staatliche Gerichte |
+| Schiedsvereinbarung durch Insolvenz erlöschen | § 116 InsO analog: Schiedsvereinbarung bleibt grds. bestehen; Insolvenzverwalter kann eintreten |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Schiedsverfahren dauert zu lange — einstweiliger Rechtsschutz | §§ 1041, 1033 ZPO — staatliche Gerichte weiterhin für einstweiligen Rechtsschutz zuständig, sofern Schiedsvereinbarung nicht ausschließt |
+
+## Streitwert und Kosten
+
+- **DIS**: Registrierungsgebühr 700 EUR + Schiedsrichtergebühren nach DIS-Kostenordnung (Anlage zu § 35 DIS-SchO 2021): bei 1 Mio. EUR Streitwert ca. 40.000–80.000 EUR für Dreiergremium.
+- **ICC**: Verwaltungsgebühr + Schiedsrichtergebühren nach ICC-Tabelle; bei 1 Mio. EUR ca. 60.000–120.000 EUR (Dreiergremium) + Anwaltskosten.
+- **RVG**: Anwaltshonorar in Deutschland nach Streitwert; GKG-Gebühren für Vollstreckbarerklärung / Aufhebungsantrag (§ 3 ZPO, Wert = Streitwert).
+- **Prozesskostenhilfe**: im Schiedsverfahren selbst grundsätzlich keine PKH; für Vollstreckbarerklärungsverfahren vor OLG nach §§ 114 ff. ZPO möglich.
+- **Streitwertberechnung**: Hauptforderung + Zinsen soweit bezifferbar; Feststellungsanträge 50–80 % des Hauptantrags nach Ermessen.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Neuer Vertrag mit internationalem Partner | DIS-Klausel bei Deutschland-Bezug; ICC bei globalem Geschäft; HKIAC bei Asien-Bezug |
+| Partner in Nicht-NYC-Staat | State Courts empfehlen oder NYC-Mitgliedschaft prüfen |
+| Eilrechtsschutz erforderlich | Notfallschiedsrichter ICC Art. 29 / DIS § 23 oder staatliches Gericht ausdrücklich offen halten |
+| Klage vor staatlichem Gericht trotz Schiedsklausel | Einrede § 1032 Abs. 1 ZPO sofort, Schiedsverfahren parallel einleiten |
+| Schiedsspruch vollstrecken im Ausland | Vollstreckbarerklärungsantrag in Vollstreckungsstaat; NYC-Formblatt beachten |
+| Aufhebungsantrag | Dreimonatsfrist unbedingt wahren; Aufhebungsgründe § 1059 ZPO erschöpfend |
+
+## Anschluss-Skills
+
+- `fachanwalt-iwr-embargo-pruefung-russland` — bei Sanktions-Bezug im Schiedsstreit
+- `fachanwalt-iwr-cisg-anwendbarkeit` — bei Kaufvertrag mit Schiedsklausel
+- `fachanwalt-prozessrecht-vollstreckung-ausland` — bei Vollstreckung des Schiedsspruchs
+
+## Quellen
+
+- ZPO §§ 1025–1066 (Zehntes Buch)
+- New Yorker Übereinkommen 1958
+- UNCITRAL-Modellgesetz 2006
+- DIS-Schiedsgerichtsordnung 2021
+- ICC Rules of Arbitration 2021
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Schwab/Walter Schiedsgerichtsbarkeit, 7. Aufl.
+- Born International Commercial Arbitration, 3rd ed.
+- Reithmann/Martiny Internationales Vertragsrecht
+
+## Vertiefung: Triage und Output-Template Schiedsklausel
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Liegt schriftliche Schiedsvereinbarung vor (§ 1031 ZPO)?
+2. Schiedsinstitution und Schiedssitz bestimmt?
+3. Anzahl Schiedsrichter (1 oder 3)? → Streitwert bestimmt oft; ICC: 3 ab ca. 1 Mio. EUR
+4. Ist Schiedsklausel pathologisch (unklar oder widerspruchlich)?
+5. Was ist materiell anwendbares Recht?
+
+### Ergaenzende Leitsaetze Schiedsklausel
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Output-Template Schiedsklausel (ICC-Standard)
+**Adressat:** Vertragspartner — Tonfall: sachlich-vertraglich
+
+```
+Schiedsklausel / Arbitration Clause
+
+Alle Streitigkeiten aus oder im Zusammenhang mit diesem
+Vertrag, einschliesslich Fragen seiner Gueltigkeit, werden
+nach der Schiedsgerichtsordnung der Internationalen
+Handelskammer (ICC) durch ein oder mehrere gemass dieser
+Ordnung ernannte Schiedsrichter endgueltig entschieden.
+
+Schiedsort:          [ORT, LAND]
+Sprache:             [DEUTSCH / ENGLISCH]
+Anzahl Schiedsrichter:[EIN / DREI]
+Anwendbares Recht:   [RECHTSORDNUNG]
+```
 
 ---
 
-## Skill: `intwr-eu-sanktionen-trade-compliance-spezial`
+## Skill: `fachanwalt-iwr-icc-uncitral-schiedsverfahren`
 
-_Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot: Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektor..._
+_Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Prüfraster: anwendbares Recht Sitz Schiedsgericht New Yorker Übereinkommen 1958 Vollstreckung Investitionsschutz ICSID IBA Rules Mediation. Output: Verfahrenseinleitungs-Memo und Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-schiedsklausel (Klauselgestaltung) und gerichtsstand-und-rechtswahl-prüfen._
 
-# Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot
+# ICC / UNCITRAL Schiedsverfahren — Internationales Wirtschaftsrecht
+
+## Zweck
+
+Internationale Wirtschaftsstreitigkeiten werden überwiegend schiedsgerichtlich gelöst. ICC (Paris), UNCITRAL (UN), SIAC (Singapur), HKIAC (Hong Kong), ICSID (Washington, Investitionsschutz). Anwaltliche Begleitung anspruchsvoll: anwendbares Recht, Sprache, Schiedsrichter-Auswahl.
+
+## Eingaben
+
+- Vertragsart (Kauf, Lieferung, JV, Lizenz, M&A)
+- Schiedsklausel (Institution, Sitz, Sprache, Anzahl Schiedsrichter)
+- Streitwert (oft mehrstellige Millionen)
+- Anwendbares Recht (UN-Kaufrecht CISG, deutsches Recht, US-Recht)
+- Gegenpartei-Sitz und Vermögen (für Vollstreckung)
+- Sanktions-Bezug (OFAC, EU)
+
+## Rechtlicher Rahmen
+
+- **§§ 1025-1066 ZPO** — Schiedsverfahren (deutsches Recht; bei Sitz DE). Reformprozess: Gesetz zur Modernisierung des Schiedsverfahrensrechts; Referentenentwurf des BMJ vom 01.02.2024 (Konsultation bis 14.03.2024); Vorhaben fiel mit Ende der 20. Wahlperiode der Diskontinuitaet anheim, neues Verfahren in 21. Wahlperiode. Inhalte u. a. Formfreiheit kaufmaennischer Schiedsvereinbarungen, Online-Verhandlungen, elektronische Schiedssprueche. Stand bei Verwendung pruefen: https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
+- **ICC Rules 2021** (in Kraft seit 01.01.2021; Update gegenueber ICC Rules 2017): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
+- **UNCITRAL Model Law 2006** (mit Aenderungen)
+- **UNCITRAL Arbitration Rules 2021** (Expedited Arbitration Rules; in Kraft 19.09.2021): https://uncitral.un.org/en/texts/arbitration/contractualtexts/expedited_arbitration
+- **ICSID Convention** (Investitionsschutz); Stand 2024/2025: ICSID-Rules-Revision 2022 (in Kraft seit 01.07.2022): https://icsid.worldbank.org/rules-regulations/convention/icsid-convention-arbitration-rules-2022
+- **New Yorker Übereinkommen 1958** — Vollstreckung Schiedssprueche in derzeit ueber 170 Vertragsstaaten (Stand 2025; laufend aktualisiert). Aktuelle Liste: https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2
+- **IBA Rules on the Taking of Evidence 2020** (in Kraft seit 17.12.2020): https://www.ibanet.org/MediaHandler?id=def0807b-9fec-43ef-b624-f2cb2af7cf7b
+- **IBA Guidelines on Conflicts of Interest 2024** (Revision; ersetzen Fassung 2014): https://www.ibanet.org/document?id=Guidelines-on-Conflicts-of-Interest-in-International-Arbitration-2024
+
+## ADR-Pfade
+
+### Pfad 1 — Vorgerichtliche Verhandlung
+
+- Multistage-Klauseln (Verhandlung → Mediation → Schiedsverfahren)
+- Chief-Executive-Mediation (Eskalations-Pflicht)
+- Sehr verbreitet in Lieferketten
+
+### Pfad 2 — Mediation (ICC ADR Rules)
+
+- Vor Schiedsverfahren
+- ICC-Mediator/in
+- 60-90 Tage typisch
+- Bei Misserfolg: Schiedsverfahren
+
+### Pfad 3 — ICC Schiedsverfahren
+
+- Verfahrensdauer 18-30 Monate
+- Schiedsrichter 1 oder 3 (Streitwert-abhängig)
+- Schiedsspruch international vollstreckbar
+- Kosten 5-10 % vom Streitwert
+
+### Pfad 4 — UNCITRAL ad hoc
+
+- Ohne Institution
+- Schiedsrichter direkt benannt
+- Kostengünstiger
+- Verfahrens-Disziplin schwieriger
+
+### Pfad 5 — ICSID (Investitionsschutz)
+
+- Investor vs. Staat
+- Bilateral Investment Treaty (BIT) als Grundlage
+- ICSID-Konvention 1965
+- Sehr lange Verfahren (3-5 Jahre)
+
+## Workflow
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+### Phase 1 — Schiedsklausel-Analyse
+
+- Wirksamkeit der Klausel (§ 1031 ZPO)
+- Institution + Sitz + Sprache
+- Anwendbares materielles Recht
+- Anzahl Schiedsrichter
+
+### Phase 2 — Vorgerichtliche Phase
+
+- Multistage-Klauseln ausschöpfen
+- Beweissicherung
+- Mediations-Versuch
+
+### Phase 3 — Verfahrenseinleitung
+
+- Request for Arbitration (ICC) / Notice of Arbitration (UNCITRAL)
+- Schiedsrichter benennen
+- Vorschuss-Zahlung
+
+### Phase 4 — Verfahren
+
+- Schriftsatz-Wechsel
+- Beweisaufnahme nach IBA Rules
+- Anhörung in Sitz-Land (oder virtuell)
+- Schiedsspruch
+
+### Phase 5 — Vollstreckung
+
+- New Yorker Übereinkommen-Verfahren in Vollstreckungsland
+- Anerkennungs-Antrag bei LG
+- Bei US-Vollstreckung: 28 USC § 1782 Discovery möglich
+
+## Strategie und Taktik
+
+- **Schiedsrichter-Auswahl entscheidend**: spezialisiert in betreffendem Rechtsgebiet
+- **Sitz wichtig**: bestimmt Aufsichts-Recht (Schweiz und Singapur arbitration-friendly)
+- **Sprachen-Wahl**: Englisch International, Deutsch bei DE-Sitz
+- **Sanktions-Filter**: Mandant + Gegenseite + Wallet-Adressen prüfen
+- **CISG vs. nationales Recht**: bei Kaufvertrag default UN-Kaufrecht
+- **Vorab-Versicherung gegen Schiedsverfahrenskosten** (After-the-Event-Insurance ATE)
+- **Vollstreckungs-Substanz** vorab klären — Sieg ohne Vermögen ist wertlos
+
+## Querverweise
+
+- `fachanwalt-internationales-wirtschaftsrecht-orientierung` — Triage
+- `fachanwalt-iwr-cisg-anwendbarkeit` — Vertiefung CISG
+- `fachanwalt-iwr-brussels-ia-zustaendigkeit` — EuGVVO
+- `fachanwalt-iwr-eu-us-dpf-data-privacy-framework` — DSGVO-Bezug
+
+## Quellen und Updates
+
+Stand: 05/2026.
+- ICC Rules 2021 (in Kraft 01.01.2021): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
+- UNCITRAL Expedited Arbitration Rules (in Kraft 19.09.2021): https://uncitral.un.org/en/texts/arbitration/contractualtexts/expedited_arbitration
+- ICSID-Rules 2022 (in Kraft 01.07.2022): https://icsid.worldbank.org/rules-regulations/convention/icsid-convention-arbitration-rules-2022
+- IBA Guidelines on Conflicts of Interest 2024: https://www.ibanet.org/document?id=Guidelines-on-Conflicts-of-Interest-in-International-Arbitration-2024
+- Status New Yorker UN-Uebereinkommen 1958 (derzeit ueber 170 Vertragsstaaten): https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2
+- §§ 1025 ff. ZPO Modernisierung (BMJ-Verfahren laufend; Stand pruefen): https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
+- Achmea (EuGH, Urt. v. 06.03.2018 — C-284/16, Slowakische Republik/Achmea BV; ECLI:EU:C:2018:158): https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:62016CJ0284 — Intra-EU-Investitionsschiedsklauseln in BITs unionsrechtswidrig.
+- Komstroy (EuGH, Urt. v. 02.09.2021 — C-741/19, Republik Moldau/Komstroy LLC; ECLI:EU:C:2021:655): https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0741 — Erweiterung der Achmea-Doktrin auf Intra-EU-Streitigkeiten unter dem Energiecharta-Vertrag (ECT).
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — ICC/UNCITRAL-Schiedsklage einleiten | Statement of Claim; Template unten |
+| Variante A — Mandant will erst Mediation versuchen | ICC ADR Rules Mediation vor Schiedsklage einleiten |
+| Variante B — Vollstreckung im Schiedsstaat schwierig | New Yorker Uebereinkommen-Laender-Check; ggf. Asset-Sicherung vorab |
+| Variante C — Intra-EU-Investitionsstreit | Achmea-Problem beachten; staatliche Gerichte erwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 
-## Arbeitsweg
+## Vertiefung: Leitsaetze und Triage Schiedsverfahren
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
-- Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+### Triage — Bevor losgelegt wird, klaere:
 
-**Fokus:** Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot. Prüfraster für Exportkontrolle und Bankzahlungen.
+1. Liegt gueltige Schiedsklausel vor (§ 1029 ZPO, ICC/UNCITRAL Art. 6)?
+2. Schiedsfaehigkeit des Streitgegenstands (§ 1030 ZPO: vermögensrechtliche Anspruche schiedsfaehig)?
+3. Wo ist der Schiedssitz? → Bestimmt anwendbares Verfahrensrecht (§§ 1025 ff. ZPO bei Sitz DE)
+4. Welches materielle Recht ist anwendbar?
+5. Vollstreckung wo? → New Yorker Uebereinkommen 1958 Ratifizierungsland?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-### IntWR: Sanktionen Trade Compliance
+### Ergaenzende Leitsaetze Schiedsverfahren
 
-## Spezialwissen: IntWR: Sanktionen Trade Compliance
-- **Normen-/Quellenanker:** EU, VO.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+### Normen Schiedsverfahren
+- §§ 1025-1066 ZPO — Deutsches Schiedsrecht (UNCITRAL Modellgesetz)
+- § 1030 ZPO — Schiedsfaehigkeit
+- § 1031 ZPO — Schiedsvereinbarung (Form)
+- § 1061 ZPO — Anerkennung und Vollstreckbarkeit
+- New Yorker Uebereinkommen 1958 Art. V — Versagungsgruende
+- ICC Rules 2021, UNCITRAL Rules 2021
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+### Output-Template Schiedsklage (Statement of Claim)
+**Adressat:** Schiedsgericht / Schiedsinstitution — Tonfall: sachlich-juristisch, international
 
-## Prüfraster
+```
+[KANZLEI], [ORT], [DATUM]
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+[ICC-Schiedsgerichtshof / UNCITRAL-Schiedsrichter]
+[ANSCHRIFT / DESIGNATION]
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+Statement of Claim / Klageschrift
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+Klaeger:      [NAME/FIRMA], vertreten d. [Kanzlei]
+Beklagter:    [NAME/FIRMA], [ANSCHRIFT]
+Schiedssitz:  [ORT]
+Anwendb. Recht: [DE-RECHT / CISG / SONSTIGES]
+Sprache:      [DEUTSCH / ENGLISCH]
+Streitwert:   EUR [BETRAG]
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+1. Sachverhalt (Summary):
+   [...]
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+2. Anspruchsgrundlagen:
+   [§§ BGB / CISG Art. / Vertragsklausel]
+
+3. Antrag:
+   Wir beantragen, den Beklagten zu verurteilen:
+   a) EUR [BETRAG] nebst Zinsen [x%] p.a. ab [DATUM] zu zahlen
+   b) [Weitere Antraege]
+
+4. Beweismittel:
+   [Anlage C-1 ff.]
+
+[Anwalt Klaeger]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

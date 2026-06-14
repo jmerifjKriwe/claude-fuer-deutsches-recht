@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 305 Skills (gekuerzt fuer Chat-Fenster) des Plugins `kartellrecht-marktabgrenzung-pruefung`.
+Dieser Megaprompt enthaelt top-8 von 309 Skills (gekuerzt fuer Chat-Fenster) des Plugins `kartellrecht-marktabgrenzung-pruefung`.
 
 ## Inhaltsverzeichnis
 

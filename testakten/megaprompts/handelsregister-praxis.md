@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 76 Skills des Plugins `handelsregister-praxis`.
+Dieser Megaprompt enthaelt top-10 von 77 Skills des Plugins `handelsregister-praxis`.
 
 ## Inhaltsverzeichnis
 

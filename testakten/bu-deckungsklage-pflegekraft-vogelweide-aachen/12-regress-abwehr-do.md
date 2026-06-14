@@ -46,4 +46,3 @@ Frau Vogelweide hat möglicherweise Gegenansprüche gegen die St.-Antonius-Heim 
 - **Schadensersatz wegen Verleumdung** durch interne Kommunikation der Muttergesellschaft über die Vorgänge (§ 824 BGB)
 
 Diese Gegenansprüche werden als Aufrechnungsmasse in den D&O-Prozess eingebracht.
-

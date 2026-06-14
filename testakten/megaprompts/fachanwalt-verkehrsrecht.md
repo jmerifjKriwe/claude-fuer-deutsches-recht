@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `fachanwalt-verkehrsrecht`.
+Dieser Megaprompt enthaelt top-10 von 77 Skills des Plugins `fachanwalt-verkehrsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Anwalts-Dashboard Fachanwalt Verkehrsrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, …
 2. **mandat-triage-verkehrsrecht** — Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen: Eingangs-Triage Verkehrsrech…
-3. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): Erfassung der Konstella…
-4. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-5. **verk-trunkenheit-drogenfahrt-spezial** — Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntuechtigkeit, BAK-Wer…
-6. **verk-unfallregulierung-workflow** — Unfallregulierung: Anspruchsgrundlagen § 7 StVG / § 18 StVG / § 823 BGB / § 115 VVG, Quote, Schadenspositionen Wiederbes…
-7. **vkr-blitzer-messverfahren-spezial** — Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmessdaten-Recht des Verteidigers (BVerfG 2 Bv…
-8. **vkr-bussgeldverfahren-grundzuege** — Bussgeldverfahren Grundzuege: Anhörungsbogen, Einspruch innerhalb 2 Wochen, Hauptverhandlung Amtsgericht, Rechtsbeschwer…
-9. **vkr-einfuehrung-rechtsfelder** — Verkehrsrecht einfuehrend: Verkehrsstrafrecht (Trunkenheit § 316 StGB, Gefaehrdung § 315c StGB, Unfallflucht § 142 StGB)…
-10. **vkr-totalschaden-fiktiv-spezial** — Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweis…
+3. **fachanwalt-verkehrsrecht-orientierung** — Einstieg in den Skill-Verbund Verkehrsrecht. Orientierung im Verkehrsrecht FAO Voraussetzungen §§ 14g bis 14i FAO Verkeh…
+4. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): Erfassung der Konstella…
+5. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+6. **fachanwalt-verkehrsrecht-regulierungsanforderung** — Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpflichtversicherer des Unfallverursachers. § 115 VVG Direk…
+7. **fachanwalt-verkehrsrecht-fahrerlaubnis-entzug** — Mandant hat Führerschein entzogen bekommen oder befuerchtet Entziehung und fragt nach Möglichkeiten. § 69 StGB strafgeri…
+8. **fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen** — Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist. OWiG §§ 65 ff. StVG § 26 Abs. 3 Ver…
+9. **fachanwalt-verkehrsrecht-unfallregulierung-quoten** — Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind. § 254 BGB Mitv…
+10. **fachanwalt-verkehr-autonom-1d-stvg** — Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren. § 1d StVG autonomes Fahren Level 4. Prü…
 
 ---
 
@@ -238,6 +238,75 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext in de
 - BVerfG 2 BvR 1616/18, Beschl. v. 12.11.2020 — Akteneinsicht / Informationszugang OWi (bundesverfassungsgericht.de)
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 1/21 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH VI ZR 37/99, NJW 2000, 861 (verifiziert auf dejure.org). -->
+
+---
+
+## Skill: `fachanwalt-verkehrsrecht-orientierung`
+
+_Einstieg in den Skill-Verbund Verkehrsrecht. Orientierung im Verkehrsrecht FAO Voraussetzungen §§ 14g bis 14i FAO Verkehrsrecht. Typische Mandate Verkehrsunfall Schadensregulierung OWi-Bußgeld Fahrerlaubnis MPU Verkehrsstrafrecht §§ 315c 316 StGB. Normen StVO StVG OWiG StGB VVG. verifizierbare Quellen. Schnittstellen zu fachanwalt-versicherungsrecht und fachanwalt-strafrecht. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-verkehrsrecht (konkrete Falltriage)._
+
+# Fachanwalt für Verkehrsrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 80 Fälle in den letzten drei Jahren, davon mindestens 60 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Haftung | §§ 7 ff. StVG (Halterhaftung) § 18 StVG (Führer) § 823 BGB (Verschuldenshaftung) |
+| Versicherung | PflVG VVG §§ 100 ff. VVG (Haftpflicht) §§ 86 ff. VVG (Kasko) |
+| Straßenverkehrsrecht | StVO StVZO FeV |
+| Bußgeld | OWiG StPO §§ 67 ff. OWiG |
+| Verkehrsstrafrecht | §§ 315b 315c 315d 316 StGB (Trunkenheit Straßenverkehrsgefährdung) § 142 StGB (Unfallflucht) |
+| Schadensrecht | §§ 249 ff. BGB Naturalrestitution Differenzhypothese Wertminderung Nutzungsausfall |
+
+## Typische Mandate
+
+- Unfallregulierung Schadensersatz
+- Personenschaden (Schmerzensgeld Erwerbsschaden)
+- Schmerzensgeld nach BGH-Tabellen
+- Bußgeldverfahren OWi
+- Fahrerlaubnisrecht (Entziehung Wiedererteilung MPU)
+- Verkehrsstrafrecht
+- Versicherungsstreit (Haftpflicht Vollkasko)
+
+## Fristen
+
+- **Bußgeldverfahren** Einspruch zwei Wochen (§ 67 OWiG).
+- **Klagefrist Verwaltungsgericht** ein Monat (§ 74 VwGO) z. B. Fahrerlaubnisentzug.
+- **Verjährung** Schadensersatz nach Unfall regelmäßig drei Jahre (§ 195 BGB).
+- **Direktanspruch** gegen Versicherer drei Jahre.
+
+## Hauptgerichte
+
+- Amtsgericht Buss- und Strafsachen erstinstanzlich.
+- Landgericht Zivilrechtliche Klagen über 10.000 EUR.
+- OLG / BGH Revisionsinstanz.
+- Verwaltungsgericht bei Fahrerlaubnis.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- ADAC ARGE Verkehrsrecht DAV.
+
+## Schnittstellen
+
+- **kanzlei-allgemein** Fristenbuch Timesheet.
+- **fachanwalt-versicherungsrecht** bei Versicherungsstreit.
+- **fachanwalt-strafrecht** bei Verkehrsstrafrecht.
+
+## Aktuelle Rechtsprechung Verkehrsrecht
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ---
 
@@ -515,345 +584,1169 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `verk-trunkenheit-drogenfahrt-spezial`
+## Skill: `fachanwalt-verkehrsrecht-regulierungsanforderung`
 
-_Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntuechtigkeit, BAK-Werte, Cannabis-Grenzwert Reform 2024: Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntu..._
+_Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpflichtversicherer des Unfallverursachers. § 115 VVG Direktanspruch §§ 7 17 StVG § 823 BGB. Prüfraster: Direktanspruch Reparatur vs. fiktive Abrechnung Wiederbeschaffungswert Mitverschulden § 17 StVG Anscheinsbeweis § 4 StVO. Mietwagen Nutzungsausfall Wertminderung Sachverständigenkosten. Output: Regulierungsanforderung an Versicherer fertig. Abgrenzung zu fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich (Verhandlung) und unfall-haftungsquote-berechnen._
 
-# Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntuechtigkeit, BAK-Werte, Cannabis-Grenzwert Reform 2024
+# Regulierungsanforderung
+
+## Kaltstart-Rückfragen
+
+1. Wann, wo und wie geschah der Unfall — Schilderung beider Beteiligter, Polizeibericht, Zeugen?
+2. Welches Fahrzeug, Erstzulassung, Laufleistung, Schadenshöhe gemäß Sachverständigengutachten oder Werkstattrechnung?
+3. Soll fiktiv (Sachverständigengutachten ohne Reparatur) oder konkret (mit Reparaturrechnung) abgerechnet werden? Liegt Totalschaden vor (Reparaturkosten > 130 % Wiederbeschaffungswert)?
+4. Wer ist die gegnerische Haftpflichtversicherung und ist bereits eine Schadensnummer vergeben? Erfolgte erste Regulierung oder Ablehnung?
+5. Bestehen weitere Schadensposten — Mietwagen, Nutzungsausfall, Wertminderung, Schmerzensgeld, Heilbehandlungskosten, Verdienstausfall?
+6. Hat der Mandant eigene Mithaftung — Tempoverstoß, Sicherheitsabstand, Anschnallpflicht?
+7. Liegt SGB X-Regressi durch Kranken- oder Rentenversicherung, Berufsgenossenschaft vor?
+8. Droht Verjährung (3 Jahre ab Schluss des Jahres der Kenntnis, §§ 195, 199 BGB)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+### Normtexte (Kernauszug)
+
+- **§ 7 Abs. 1 StVG** — Gefährdungshaftung Halter; beim Betrieb eines Kraftfahrzeugs entstehende Schäden ohne Verschulden ersatzpflichtig.
+- **§ 17 Abs. 1 StVG** — Ausgleich bei mehreren Beteiligten; Quotelung nach Verursachungsbeiträgen.
+- **§ 18 StVG** — Fahrerhaftung; Verschuldensvermutung; Entlastungsbeweis möglich.
+- **§ 115 Abs. 1 Nr. 1 VVG** — Direktanspruch des Geschädigten gegen Haftpflichtversicherer; eigene Pflicht des Versicherers, den Schaden zu regulieren.
+- **§ 249 Abs. 2 Satz 1 BGB** — Schadensersatz in Geld; Herstellungskosten oder Wiederbeschaffungswert.
+- **§ 249 Abs. 2 Satz 2 BGB** — Umsatzsteuer nur bei tatsächlicher Zahlung.
+- **§ 251 BGB** — Wertausgleich (Nutzungsausfall, merkantiler Minderwert).
+- **§ 252 BGB** — Entgangener Gewinn (Verdienstausfall).
+- **§ 253 Abs. 2 BGB** — Schmerzensgeld.
+- **§ 254 BGB** — Mitverschulden; Schadensminderungspflicht.
+- **§ 116 SGB X** — Legalzession auf Sozialversicherungsträger; sachliche und zeitliche Kongruenz; Quotenvorrecht Geschädigter § 116 Abs. 3 SGB X.
+
+### Leitentscheidungen (Stand Mai 2026; jeweils Volltext in offener Quelle vor Verwendung prüfen)
+
+| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+|---|---|---|---|---|
+| BGH VI. ZS | VI ZR 253/22 | 16.1.2024 | Werkstattrisiko: Geschädigter trägt im Regelfall nicht das Risiko überhöhter Reparaturkosten der Werkstatt | juris.bundesgerichtshof.de |
+| BGH VI. ZS | VI ZR 239/22 | 16.1.2024 | Werkstattrisiko parallel (fiktive Abrechnung) | juris.bundesgerichtshof.de |
+| BGH VI. ZS | VI ZR 280/22 | 12.3.2024 | Werkstattrisiko-Grundsätze gelten auch für überhöhte Sachverstaendigenkosten | juris.bundesgerichtshof.de |
+| BGH VI. ZS | VI ZR 12/24 | 5.11.2024 | Fiktiver Haushaltsfuehrungsschaden: Mindestlohn ist Untergrenze, jedoch nachvollziehbare Begründung des Stundensatzes erforderlich (§ 287 ZPO) | juris.bundesgerichtshof.de |
+| BGH VI. ZS | VI ZR 24/25 | 14.10.2025 | Überspannte Substantiierungsanforderungen an Geschädigten zu Haushaltsfuehrungs-/Mehrbedarfsschaden verletzen Art. 103 Abs. 1 GG | juris.bundesgerichtshof.de |
+
+Hinweis: Reihenfolge Rspr. vor Lit.; neueste zuerst. Keine Aufsatz- oder Kommentar-Fundstellen aus Modellwissen. Verifikation in der BGH-eigenen Datenbank, dejure.org oder openjur.de Pflicht.
+
+## Prüfschema in Tabellenform
 
 
-## Arbeitsweg
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+| Nr. | Prüfschritt | Norm | Ergebnis |
+|---|---|---|---|
+| 1 | Haftungsgrundlage (Gefährdung § 7 oder Verschulden § 18/§ 823)? | §§ 7, 18 StVG; § 823 BGB | Gefährdungshaftung kein Verschuldensnachweis nötig |
+| 2 | Direktanspruch § 115 VVG — Versicherungsschutz bestehend? | § 115 VVG | Versicherungsschein / Deckungszusage beschaffen |
+| 3 | Haftungsquote bestimmt? | § 17 StVG; § 254 BGB | Anscheinsbeweis bei Auffahrunfall etc. |
+| 4 | Werkstattrisiko / Sachverstaendigenrisiko bei Kostenkürzung? | § 249 BGB i.V.m. BGH VI ZR 253/22, VI ZR 239/22, VI ZR 280/22 | Geschädigter trägt im Regelfall nicht das Risiko überhöhter Werkstatt-/Gutachterkosten; Kürzung des Versicherers regelmäßig unbegründet |
+| 5 | Schadensaufstellung vollständig (Reparatur netto / WBW abzüglich Restwert)? | § 249 BGB | Bei fiktiver Abrechnung Umsatzsteuer nur bei tatsächlicher Zahlung (§ 249 Abs. 2 S. 2 BGB) |
+| 6 | Wertminderung beziffert (SV-Gutachten)? | § 251 BGB | Eigenständige Position neben Reparaturkosten |
+| 7 | Schmerzensgeld nach § 253 Abs. 2 BGB? | § 253 BGB | Bei Personenschaden; Genugtuung als Bemessungsgesichtspunkt (st. Rspr. BGH VI. ZS) |
+| 8 | Mietwagenkosten oder Nutzungsausfall? | §§ 249, 251 BGB | Wahlrecht; Schadensminderungspflicht; Schätzgrundlage Schwacke und/oder Fraunhofer (§ 287 ZPO) |
+| 9 | Haushaltsfuehrungsschaden nachvollziehbar begründet? | § 251 BGB i.V.m. BGH VI ZR 12/24 | Mindestlohn ist Untergrenze, aber konkrete Begründung des Stundensatzes erforderlich |
+| 10 | Verdienstausfall beziffert? | § 252 BGB | Bruttolohn minus erhaltenes Krankengeld |
+| 11 | SGB X-Übergang berücksichtigt? | § 116 SGB X | Quotenvorrecht sichern; SV-Träger informieren |
+| 12 | Anwaltskosten angesetzt? | § 249 BGB | Außergerichtlich 1.3 Geschäftsgebühr Nr. 2300 VV RVG |
+| 13 | Verjährung geprüft? | §§ 195, 199 BGB | 3 Jahre ab Jahresende der Kenntnis |
+| 14 | Fristsetzung an Versicherer mit Verzugsankündigung? | §§ 280, 286, 288 BGB | 4-Wochen-Frist üblich |
+| 15 | Klageroute bei Ablehnung vorbereitet? | §§ 23, 71 GVG | AG bis EUR 10000; LG ab EUR 10000 |
 
-**Fokus:** Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntuechtigkeit, BAK-Werte, Cannabis-Grenzwert Reform 2024. Prüfraster für Verteidiger.
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen. Rspr.-Angaben in der BGH-eigenen Datenbank, auf dejure.org oder openjur.de verifizieren.
 
-### Verk: Trunkenheit Drogenfahrt
+## Strategische Optionen (vor dem Template entscheiden)
 
-## Spezialwissen: Verk: Trunkenheit Drogenfahrt
-- **Normen-/Quellenanker:** StVG, BAK.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Regulierungsanforderung nach Unfall stellen | Regulierungsschreiben an Versicherer nach Checkliste; Template unten |
+| Variante A — Haftungsquote streitig Gegner bestreitet | Haftungsquote-Pruefung zuerst; Schriftsatz erst nach Quotenfixierung |
+| Variante B — Totalschaden Restwert streitig | Gutachten abwarten; Regulierung auf Basis Sachverstaendiger |
+| Variante C — Personenschaden Schmerzensgeld ungeklaert | Erst Heilbehandlung abschliessen dann Schmerzensgeldanspruch beziffern |
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Prüfraster
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+## Schriftsatzbausteine
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### Baustein 1 — Regulierungsanforderung an Haftpflichtversicherer
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+```
+[Kanzlei]
+[Adresse]
+[Datum]
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+[Name Haftpflichtversicherung]
+[Adresse]
+Schadensnummer: [falls bekannt]
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Betreff: Verkehrsunfall vom [Datum], [Uhrzeit], [Unfallort]
+         Ihr Versicherungsnehmer: [Name], Kfz-Kennzeichen: [Kz]
+
+Sehr geehrte Damen und Herren,
+
+wir vertreten die rechtlichen Interessen von [Name des Mandanten],
+[Anschrift], und zeigen unsere Bevollmächtigung an.
+
+I. Sachverhalt
+
+Am [Datum] gegen [Uhrzeit] ereignete sich auf der [Straße/Kreuzung]
+in [Ort] ein Verkehrsunfall. Ihr Versicherungsnehmer [Name] befuhr
+mit dem Kfz, Kennzeichen [Kz], [Fahrtrichtung]. Unser Mandant
+befuhr mit dem Kfz [Kennzeichen] ebenfalls die [Straße/Kreuzung] in
+[Fahrtrichtung].
+
+Ihr Versicherungsnehmer [Unfallhergang konkret, z.B.: fuhr auf das
+ordnungsgemäß haltende / fahrende / abbiegende Fahrzeug unseres
+Mandanten auf, ohne den nach § 4 Abs. 1 StVO erforderlichen
+Sicherheitsabstand einzuhalten].
+
+II. Haftung
+
+Die Haftung trifft allein Ihren Versicherungsnehmer aus §§ 7, 17,
+18 StVG i.V.m. § 115 VVG. [Bei Anscheinsbeweis ergänzen: Für den
+vorliegenden Auffahrunfall spricht der Anscheinsbeweis des
+Auffahrenden gemäß § 4 Abs. 1 StVO; ein atypischer Geschehensverlauf
+ist nicht dargetan.]
+
+[Verifikationspflicht vor Versand: konkrete Leitentscheidung zum
+Anscheinsbeweis (BGH-Datenbank / dejure.org / openjur.de) mit
+Aktenzeichen und Randnummer einsetzen; nicht aus Modellwissen zitieren.]
+
+Ein Mitverschulden unseres Mandanten nach § 254 BGB ist nicht
+gegeben, da [Begründung].
+
+III. Schadensaufstellung
+
+Position                                            EUR
+-------------------------------------------------  --------
+1. Reparaturkosten netto lt. SV-Gutachten          ______
+   (oder: WBW EUR ___ - Restwert EUR ___ = _____)
+2. Merkantile Wertminderung lt. SV-Gutachten       ______
+3. Sachverständigenkosten lt. Rechnung             ______
+4. Abschleppkosten lt. Rechnung                    ______
+5. Mietwagenkosten lt. Rechnung / Nutzungsausfall
+   [X] Tage × EUR [Y] (Sanden/Danner/Klass)       ______
+6. Schmerzensgeld § 253 Abs. 2 BGB                 ______
+   [Verletzungen benennen; Arztatteste beigefügt]
+7. Unkostenpauschale                                  30,00
+-------------------------------------------------  --------
+Gesamt                                             ______
+
+Anwaltskosten: 1,3 Geschäftsgebühr Nr. 2300 VV RVG
+aus EUR [Gesamtschaden] = EUR [Berechnung]
++ Auslagenpauschale Nr. 7002 VV EUR 20,00
++ USt 19 % = EUR [Betrag]                           ______
+-------------------------------------------------  --------
+Gesamtforderung                                    ______
+
+IV. Frist
+
+Wir fordern Sie auf, den vorstehenden Betrag bis zum [Datum + 4
+Wochen] auf das Konto unseres Mandanten IBAN [xxx] zu überweisen.
+
+Nach fruchtlosem Ablauf der Frist tritt Verzug gemäß § 286 BGB ein
+und es werden Verzugszinsen in Höhe von 5 Prozentpunkten über dem
+Basiszinssatz (§ 288 Abs. 1 BGB) sowie die durch etwaige
+Rechtsverfolgungskosten entstehenden Schäden geltend gemacht.
+
+Anlagen
+- Polizeibericht / Unfallaufnahme vom [Datum]
+- Sachverständigengutachten vom [Datum]
+- Lichtbilder Unfallort und Fahrzeugschaden
+- Werkstattrechnung / Mietwagenrechnung
+- Ärztliche Atteste (bei Personenschaden)
+- Vollmacht
+
+Mit freundlichen Grüßen
+[Rechtsanwälte]
+```
+
+### Baustein 2 — Reaktion auf Teilregulierung / Ablehnung
+
+```
+[Kanzlei]
+[Datum]
+
+An [Versicherung]
+Schadensnummer: [...]
+
+Betreff: Ihre Teilregulierung vom [Datum] — nicht ausreichend
+
+Sehr geehrte Damen und Herren,
+
+Ihre Zahlung vom [Datum] in Höhe von EUR [X] nehmen wir zur Kenntnis.
+Die Regulierung ist aus folgenden Gründen unvollständig:
+
+1. Reparaturkosten: Sie haben EUR [X] gekürzt mit der Begründung
+   [Begründung Versicherer]. Diese Kürzung ist nicht berechtigt, weil
+   das Werkstattrisiko grundsätzlich beim Schädiger liegt
+   (BGH, Urt. v. 16.1.2024, VI ZR 253/22; BGH, Urt. v. 16.1.2024,
+   VI ZR 239/22 — Quelle vor Versand in juris.bundesgerichtshof.de
+   bzw. dejure.org verifizieren und Randnummer einfügen).
+
+2. Nutzungsausfall: Sie haben [X] Tage anerkannt; tatsächlich waren
+   [Y] Tage Ausfallzeit erforderlich (SV-Gutachten, Seite [X]).
+   Schätzgrundlage Schwacke- und/oder Fraunhofer-Tabelle in
+   tatrichterlicher Würdigung (§ 287 ZPO).
+
+3. Sachverständigenkosten: Sie haben EUR [X] gekürzt. Der
+   Sachverständige [Name] hat marktübliche Sätze berechnet. Auch
+   überhöhte Sachverstaendigenkosten sind dem Geschädigten zu
+   ersetzen; das Sachverstaendigenrisiko liegt im Regelfall beim
+   Schädiger (BGH, Urt. v. 12.3.2024, VI ZR 280/22 — vor Versand
+   Volltext in juris.bundesgerichtshof.de aufrufen und Randnummer
+   einsetzen).
+
+Wir halten unsere Restforderung in Höhe von EUR [Differenz] aufrecht
+und setzen Ihnen letzte Frist bis [Datum]. Danach erheben wir Klage.
+
+[Rechtsanwälte]
+```
+
+### Baustein 3 — Argumentation Merkantile Wertminderung
+
+```
+Merkantiler Minderwert (§ 251 BGB)
+
+Das Fahrzeug unseres Mandanten war zum Unfallzeitpunkt
+[X Monate] alt und hatte [Y] km gelaufen. Es handelt sich
+um ein hochwertiges Fahrzeug der Klasse [Z]. Ein
+unfallbedingter Wertverlust am Markt ist unweigerlich
+eingetreten — potenzielle Käufer zahlen für Unfallfahrzeuge
+weniger als für unvergleichbare schadensfreie Fahrzeuge.
+
+Die Höhe des merkantilen Minderwerts beträgt laut
+Sachverständigengutachten EUR [X]. Dieser Betrag ist als
+eigenständige Position neben den Reparaturkosten zu ersetzen
+(st. Rspr. des BGH zum merkantilen Minderwert nach § 251 BGB —
+konkrete Entscheidung vor Versand in juris.bundesgerichtshof.de
+oder dejure.org verifizieren und mit Aktenzeichen sowie Randnummer
+einsetzen).
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Beweislast und Darlegungslast
+
+| Frage | Beweislast |
+|---|---|
+| Unfallereignis, Kausalität | Mandant |
+| Haftungsquote (Anscheinsbeweis widerlegen) | Schädiger / Versicherer |
+| Schadenshöhe (Reparatur, WBW) | Mandant (SV-Gutachten) |
+| Schadensminderungspflichtverletzung | Versicherer |
+| Mitverschulden des Mandanten | Versicherer |
+| Tatsächlich gelebte Nutzung (Nutzungsausfall) | Mandant |
+| SGB X-Übergang (Kongruenz) | Sozialversicherungsträger |
+
+## Fristen und Verjährung
+
+| Frist | Dauer | Anker | Norm |
+|---|---|---|---|
+| Verjährung Sachschadenersatz | 3 Jahre | 31.12. des Kenntnisjahres | §§ 195, 199 BGB |
+| Verjährung bei Tötung / Körperverletzung | 30 Jahre | Begehungsdatum | § 199 Abs. 2 BGB |
+| Hemmung durch außergerichtliche Verhandlungen | Dauer der Verhandlungen | Beginn Verhandlungen | § 203 BGB |
+| Regulierungsfrist Versicherer | 4 Wochen (Praxis) | Eingang vollständiger Unterlagen | kein Gesetzsanspruch |
+| Verzugszinsen | ab Verzugseintritt | Fristablauf / Mahnung | § 288 Abs. 1 BGB |
+
+## Typische Gegenargumente und Reaktion
+
+| Einwand Versicherer | Reaktion |
+|---|---|
+| Werkstattkosten überhöht (Stundensaetze, UPE-Zuschläge) | Werkstattrisiko liegt beim Schädiger; BGH VI ZR 253/22, VI ZR 239/22 (16.1.2024) — Volltext und Randnummer vor Versand verifizieren |
+| Verbringungskosten abgelehnt | Regionale Werkstattpraxis belegen; bei tatsächlich angefallenen Kosten keine Diskussion |
+| Sachverstaendigenkosten ueberhoeht | Sachverstaendigenrisiko liegt beim Schädiger; BGH VI ZR 280/22 (12.3.2024) — Quelle in juris.bundesgerichtshof.de prüfen |
+| Mietwagen-Tagessatz überhöht | Schätzgrundlage Schwacke und/oder Fraunhofer in tatrichterlicher Würdigung (§ 287 ZPO); BGH-Linie offen für beide Modelle |
+| Haushaltsfuehrungsschaden zu niedrig angesetzt | Mindestlohn ist Untergrenze, aber konkrete Begründung des Stundensatzes erforderlich; BGH VI ZR 12/24 (5.11.2024) |
+
+## Streitwert und Kosten
+
+- Gegenstandswert = Gesamtschadensbetrag; außergerichtliche RA-Gebühren nach RVG 1,3 (Nr. 2300 VV) erstattungsfähig.
+- Gericht: AG bis EUR 10000 (§ 23 GVG); LG ab EUR 10000 (§ 71 GVG); bei Personenschaden oft LG-zuständig.
+- Bei streitigem Sachverständigengutachten: Kosten trägt unterlegene Partei § 91 ZPO.
+- SGB X-Regress: kein eigener Klageanteil, aber Koordination mit SV-Träger schützt Quotenvorrecht § 116 Abs. 3 SGB X.
+
+## Strategische Empfehlung
+
+- Bei eindeutigem Anscheinsbeweis: Fristsetzung 4 Wochen, danach Klage ohne weiteres Zögern.
+- Bei streitiger Quote (50:50 möglich): Vergleich mit 75:25 anstreben, wenn Sachverständigenbeweis teuer wäre.
+- Bei Personenschäden: klinische Stabilisierung abwarten, keine vorschnelle Einigung — Folgeschäden absichern durch Feststellungsklage zusätzlich zur Leistungsklage.
+- Immer SGB X-Koordination: Krankenkasse frühzeitig informieren; Quotenvorrecht § 116 Abs. 3 SGB X dem Versicherer gegenüber benennen.
+
+## Anschluss-Skills
+
+- `unfall-haftungsquote-berechnen` — detaillierte Quotelung
+- `fachanwalt-versicherungsrecht-regress-abwehr` — SGB X-Abwehr
+- `fachanwalt-versicherungsrecht-deckungsanfrage-pruefen` — eigene Kaskoversicherung
+
+## Quellen
+
+Verbindlich `references/zitierweise.md`. Erlaubte offene Quellen für Verifikation: dejure.org, openjur.de, BGH-eigene Datenbank (juris.bundesgerichtshof.de), BGBl., BVerfG. Beck-RS und juris-Fundstellen ohne offene Quelle sind nicht zu zitieren. Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; literarische Quellen nur bei Nutzervorlage oder lizenziertem Live-Zugriff.
+
+Aktueller Stand Mai 2026 (verifizierte Aktenzeichen mit offener Quelle):
+- BGH VI ZR 253/22 v. 16.1.2024 (Werkstattrisiko)
+- BGH VI ZR 239/22 v. 16.1.2024 (Werkstattrisiko fiktive Abrechnung)
+- BGH VI ZR 280/22 v. 12.3.2024 (Sachverstaendigenrisiko)
+- BGH VI ZR 12/24 v. 5.11.2024 (Haushaltsfuehrungsschaden, Mindestlohn als Untergrenze)
+- BGH VI ZR 24/25 v. 14.10.2025 (Art. 103 Abs. 1 GG — Substantiierungsanforderungen Schaden)
 
 ---
 
-## Skill: `verk-unfallregulierung-workflow`
+## Skill: `fachanwalt-verkehrsrecht-fahrerlaubnis-entzug`
 
-_Unfallregulierung: Anspruchsgrundlagen § 7 StVG / § 18 StVG / § 823 BGB / § 115 VVG, Quote, Schadenspositionen Wiederbeschaffungswert, Wertminderung, Nutzungsausfall: Unfallregulierung: Anspruchsgrundlagen § 7 StVG / § 18 StVG / § 823 BGB / § 115 VVG, Quote..._
+_Mandant hat Führerschein entzogen bekommen oder befuerchtet Entziehung und fragt nach Möglichkeiten. § 69 StGB strafgerichtlich § 3 StVG verwaltungsrechtlich. Prüfraster: Sperrfrist § 69a StGB vorlaeufige Entziehung § 111a StPO Wiedererteilung § 20 FeV MPU-Anordnung §§ 13 14 FeV Beschwerde § 304 StPO Widerspruch Verwaltungsverfahren Punkteabbau § 4 Abs. 7 StVG. Output: Verteidigungsstrategie und Antragsschriftsatz. Abgrenzung zu fachanwalt-verkehrsrecht-mpu-vorbereitung (MPU-Prep) und mandat-triage-verkehrsrecht._
 
-# Unfallregulierung: Anspruchsgrundlagen § 7 StVG / § 18 StVG / § 823 BGB / § 115 VVG, Quote, Schadenspositionen Wiederbeschaffungswert, Wertminderung, Nutzungsausfall
+# Fahrerlaubnis-Entzug
 
+## Kaltstart-Rückfragen
 
-## Arbeitsweg
+1. Wurde die Fahrerlaubnis strafgerichtlich nach § 69 StGB oder verwaltungsrechtlich nach § 3 StVG entzogen? Liegt vorläufige Entziehung § 111a StPO vor?
+2. Welches Anlassdelikt — Trunkenheitsfahrt §§ 316, 315c StGB (BAK?), Drogenfahrt § 24a StVG, Unfallflucht § 142 StGB, Nötigung § 240 StGB, Punktestand § 4 Abs. 5 StVG?
+3. Wann wurde der Führerschein abgenommen oder hinterlegt? Wie lange ist der Mandant bereits ohne Fahrerlaubnis (relevant für Sperrfristverkürzung)?
+4. Ist MPU bereits angeordnet oder zu erwarten — Anlassgründe § 13 FeV (Alkohol) oder § 14 FeV (Drogen/Punkte)?
+5. Welche beruflichen Folgen entstehen durch den Entzug und besteht Bedarf an beschleunigter Wiedererteilung?
+6. Wurden Abstinenz-Belege (Haaranalyse, Urinproben) bereits erhoben? Zeitraum ab wann?
+7. Liegt ein Widerspruch oder eine Anfechtungsklage gegen den Verwaltungsakt der Fahrerlaubnisbehörde vor?
+8. Bei Strafrecht: Ist die Hauptverhandlung bereits terminiert? Verhandlungsstrategie für Sperrfristdauer?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Rechtsgrundlagen
 
-**Fokus:** Unfallregulierung: Anspruchsgrundlagen § 7 StVG / § 18 StVG / § 823 BGB / § 115 VVG, Quote, Schadenspositionen Wiederbeschaffungswert, Wertminderung, Nutzungsausfall. Prüfraster für Geschaedigtenanwalt.
+### Normtexte (Kernauszug)
 
-### Verk: Unfallregulierung-Workflow
+- **§ 69 Abs. 1 StGB** — Strafgericht entzieht Fahrerlaubnis, wenn jemand wegen einer rechtswidrigen Tat verurteilt wird, die er bei oder im Zusammenhang mit dem Führen eines Kraftfahrzeugs begangen hat und wenn sich aus der Tat ergibt, dass er zum Führen von Kraftfahrzeugen ungeeignet ist.
+- **§ 69 Abs. 2 StGB** — Regelfall der Ungeeignetheit bei: §§ 315a Abs. 1 Nr. 1, 315c Abs. 1 Nr. 1 Buchst. a (Trunkenheit), 316 StGB, 142 StGB (Unfallflucht unter bestimmten Voraussetzungen), 315d Abs. 1 Nr. 2, 3 StGB.
+- **§ 69a Abs. 1 StGB** — Sperrfrist sechs Monate bis fünf Jahre; Regelfall ein Jahr bei § 316 StGB; Mindestfrist kann überschritten werden; lebenslänglich bei wiederholter Trunkenheitsfahrt.
+- **§ 69a Abs. 7 StGB** — Anrechnung vorläufiger Entziehung auf Sperrfrist; jeder volle Monat vorläufige Entziehung mindert Sperrfrist.
+- **§ 111a StPO** — Vorläufige Entziehung im Ermittlungsverfahren; bei dringendem Verdacht und dringenden Gründen für spätere endgültige Entziehung; Führerschein sofort abzuliefern.
+- **§ 3 StVG** — Verwaltungsrechtliche Entziehung; Fahrerlaubnisbehörde entzieht bei fehlender Eignung oder fehlender Befähigung; konkretisiert durch FeV.
+- **§ 4 Abs. 5 Nr. 3 StVG** — Punktesystem: ab 8 Punkten im FAER entzieht Fahrerlaubnisbehörde die Fahrerlaubnis.
+- **§ 13 FeV** — Alkohol-Anlass MPU: Anhaltspunkte für Alkoholmissbrauch oder -abhängigkeit; BAK ab 1,6 Promille; Wiederholung oder besondere Umstände bei niedrigerer BAK.
+- **§ 14 FeV** — Drogen-Anlass MPU: einmaliger Konsum harter Drogen; regelmäßiger Cannabis-Konsum (jetzt differenzierter nach Legalisierungsregelung); Polytoxikomanie.
+- **§ 20 FeV** — Wiedererteilung der Fahrerlaubnis nach Ablauf Sperrfrist; Antrag bei Fahrerlaubnisbehörde; ggf. MPU-Gutachten als Voraussetzung.
 
-## Spezialwissen: Verk: Unfallregulierung-Workflow
-- **Normen-/Quellenanker:** StVG, BGB, VVG.
+### Leitentscheidungen (Stand Mai 2026; jeweils Volltext in offener Quelle prüfen)
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+|---|---|---|---|---|
+| BVerwG | 3 B 2.24 | 8.1.2025 | Cannabis ist seit KCanG (1.4.2024) kein BtM mehr; § 14 FeV im Lichte der neuen Gesetzeslage anwenden | bverwg.de |
+| Hess. VGH | 10 B 606/25 | 19.9.2025 | Entziehung Fahrerlaubnis bei wiederholtem Cannabisverstoss in Probezeit | offene Verwaltungsrechtsprechung Hessen |
+| BVerfG | 2 BvR 1167/20 | 20.6.2023 | Standardisierte Geschwindigkeitsmessung Rohmessdaten (relevant bei Vorfeld-Verstoss) | bundesverfassungsgericht.de |
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+Hinweis: Keine Aktenzeichen aus Modellwissen. Vor Versand Volltext und Randnummer in bverwg.de, bundesverfassungsgericht.de, dejure.org oder openjur.de prüfen.
 
-## Prüfraster
+## Prüfschema in Tabellenform
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+| Nr. | Prüfschritt | Norm | Konsequenz |
+|---|---|---|---|
+| 1 | Strafgerichtliche oder verwaltungsrechtliche Entziehung? | §§ 69, 69a StGB; § 3 StVG | Rechtsmittel unterschiedlich |
+| 2 | Vorläufige Entziehung § 111a StPO? | § 111a StPO | Beschwerde § 304 StPO sofort |
+| 3 | Regelfall § 69 Abs. 2 StGB? | § 69 Abs. 2 StGB | Atypischer Fall substanziieren |
+| 4 | Sperrfristdauer — BAK, Schadensgrad, Vorstrafen? | § 69a StGB | Anrechnung vorläufige Entziehung § 69a Abs. 7 |
+| 5 | Punktestand und Verwarnungen § 4 StVG | § 4 StVG | Prozedurale Anforderungen (Ermahnung, Verwarnung) eingehalten? |
+| 6 | MPU-Anlass § 13 oder § 14 FeV? | §§ 13, 14 FeV | BAK-Wert; Drogenkonsum; Abstinenznachweis sichern |
+| 7 | Cannabis-Anlass post-KCanG? | § 14 FeV i.V.m. BVerwG 3 B 2.24 (8.1.2025); KCanG v. 27.3.2024 | § 24a Abs. 1a StVG (THC 3.5 ng/ml seit 22.8.2024); Anordnungsvoraussetzungen einzeln prüfen |
+| 8 | Anfechtungsklage gegen Verwaltungsentzug? | § 42 VwGO | Aufschiebende Wirkung § 80 VwGO; § 80 Abs. 2 Nr. 4 VwGO — AG ordnet sofortige Vollziehbarkeit an |
+| 9 | Eilantrag § 80 Abs. 5 VwGO bei Verwaltungsentzug? | § 80 Abs. 5 VwGO | Suspendierung des Entzugsbescheids für Dauer Hauptverfahren |
+| 10 | Verlängerung der Sperrfrist vermeiden? | § 69a Abs. 4 StGB | Vor Ablauf Sperrfrist keine Neutat |
+| 11 | Wiedererteilung vorbereitet? | § 20 FeV | MPU-Termin, ggf. Vorbereitungsseminar |
+| 12 | Fahreignungsseminar wegen Punkte § 4 Abs. 7 StVG? | § 4 Abs. 7 StVG | 1 Punkt Abbau; nur einmal in 5 Jahren |
+| 13 | Internationale Fahrerlaubnis betroffen? | Übk. Wiener Straßenverkehr | Wirkung in ausländischen Ländern |
+| 14 | Berufliche Konsequenzen — Maßnahmen? | — | Arbeitgeber informieren; ggf. Sonderregelung |
+| 15 | Selbstbehalte und Versicherungsrechte? | VVG; Kfz-Kasko | Entzug durch eigenes Verschulden: Regress-Risiko |
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+## Strategische Optionen (vor dem Template entscheiden)
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mandant will gegen Fahrerlaubnisentzug vorgehen | Widerspruch und ggf. einstweiliger Rechtsschutz; Template unten |
+| Variante A — Entzug medizinisch begruendet MPU empfehlenswert | MPU-Vorbereitung statt Widerspruch; Rechtsweg wenn MPU unangemessen |
+| Variante B — Sofortige Wiedererteilung wirtschaftlich zwingend | Eilantrag aufschiebende Wirkung § 80 Abs. 5 VwGO parallel |
+| Variante C — Strafverfahren parallel laufend | Abstimmung Strafverteidiger; Widerspruch ggf. nach Strafverfahren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatzbausteine
+
+### Baustein 1 — Beschwerde gegen vorläufige Entziehung § 111a StPO
+
+```
+An das Landgericht [Ort]
+— Strafkammer —
+über das Amtsgericht [Ort]
+Aktenzeichen: [Az]
+
+In der Strafsache gegen
+[Name], [Adresse], geb. [Datum]
+wegen [Tatvorwurf]
+
+BESCHWERDE
+gemäß § 304 StPO
+
+gegen den Beschluss des Amtsgerichts [Ort]
+vom [Datum] über die vorläufige Entziehung der Fahrerlaubnis
+gemäß § 111a StPO
+
+I. Antrag
+
+Der Beschluss wird aufgehoben und die vorläufige Entziehung
+der Fahrerlaubnis wird aufgehoben; die Fahrerlaubnis ist
+unverzüglich zurückzugeben.
+
+Hilfsweise:
+Die vorläufige Entziehung wird auf bestimmte Fahrzeugklassen
+beschränkt / auf einen zumutbaren Zeitraum bis [Datum] begrenzt.
+
+II. Begründung
+
+1. Voraussetzungen § 111a Abs. 1 StPO nicht erfüllt
+
+   [Variante A — BAK strittig:] Der dem Beschluss zugrunde
+   gelegte BAK-Wert von [X] Promille ist bestreitbar. Die
+   Blutentnahme erfolgte um [Uhrzeit], [Z] Stunden nach der
+   Fahrt. Unter Berücksichtigung der Abbauwerte (0,1 Promille/h)
+   war die BAK zur Tatzeit allenfalls [X - Abbau] Promille,
+   damit unterhalb der Grenze des § 316 StGB.
+
+   [Variante B — Atypischer Fall § 69 Abs. 2 StGB:]
+   Es liegt ein atypischer Fall vor, der die Regelfall-
+   vermutung des § 69 Abs. 2 StGB widerlegt:
+   - Einmalige Verkehrssituation (Notsituation § 35 StGB
+     zur Beförderung Schwerkranker)
+   - Kein Vorwurf im Fahreignungsregister
+   - Seit dem Vorfall völlige Abstinenz (Haaranalyse Anlage K1)
+   - Berufliche Existenz hängt von Fahrerlaubnis ab
+     (Anlage K2: Arbeitgeberbestätigung)
+
+2. Verhältnismäßigkeit
+
+   Die vorläufige Entziehung ist unverhältnismäßig:
+   [Konkrete Darstellung beruflicher und persönlicher
+   Schäden; Alternative: Alkohol-Interlock-Gerät/Zeitbeschränkung]
+
+Anlagen
+- K1: Haaranalyse / Abstinenznachweis
+- K2: Arbeitgeberbestätigung
+- K3: Vollmacht
+
+Mit freundlichen Grüßen
+[Rechtsanwalt]
+```
+
+### Baustein 2 — Antrag auf Verkürzung der Sperrfrist § 69a Abs. 7 StGB
+
+```
+In der Strafsache [Az] beantragen wir:
+
+Die Sperrfrist gemäß § 69a Abs. 7 StGB wird auf [X] Monate
+festgesetzt unter Berücksichtigung der Zeit der vorläufigen
+Entziehung seit [Datum] = [Y] Monate.
+
+Begründung:
+- Vorläufige Entziehung seit [Datum] = [Y] volle Monate
+  gemäß § 69a Abs. 7 StGB anzurechnen.
+- Mandant hat seither Abstinenz vollständig eingehalten;
+  Haaranalysen vom [Datum] und [Datum] belegen Null-Befund
+  (Anlage K1, K2).
+- MPU-Vorgutachten ergibt prognostisch positive Beurteilung
+  (Anlage K3).
+- Berufliche und familiäre Situation erfordert schnellst-
+  mögliche Wiedererteilung.
+
+Die Gesamtsperrfrist von [X - Y] weiteren Monaten ab
+Urteilsdatum ist ausreichend und angemessen.
+```
+
+### Baustein 3 — Widerspruch gegen Verwaltungsentzug der Fahrerlaubnisbehörde
+
+```
+An [Fahrerlaubnisbehörde]
+[Adresse]
+
+WIDERSPRUCH
+gemäß § 70 VwGO
+
+gegen den Bescheid vom [Datum], Az. [...]
+— Entziehung der Fahrerlaubnis §§ 3, 46 FeV —
+
+I. Antrag
+
+Der Bescheid wird aufgehoben.
+
+II. Begründung
+
+1. Formelle Rechtswidrigkeit:
+   [z.B.: Anhörung § 28 VwVfG nicht ordnungsgemäß;
+   fehlerhafte Rechtsbehelfsbelehrung]
+
+2. Materielle Rechtswidrigkeit:
+   [z.B. bei Punkteentzug:]
+   Die Behörde hat die Voraussetzungen § 4 Abs. 5 Satz 1
+   Nr. 3 StVG nicht eingehalten. Ein Warnschreiben gemäß
+   § 4 Abs. 5 Satz 1 Nr. 2 StVG (Verwarnung bei 6-7 Punkten)
+   wurde nicht ordnungsgemäß zugestellt — Zustellungsnachweis
+   fehlt in der Akte.
+
+   [Oder bei MPU-Anlass:]
+   Die MPU-Anordnung entbehrt der Anlasstatsachen nach
+   § 13 / § 14 FeV. Der Mandant hat [X] nachgewiesen:
+   [Abstinenz, positive ärztliche Begutachtung; VGH Bayern
+   11 CS 20.1780]
+
+3. Gleichzeitig beantragen wir Anordnung aufschiebender
+   Wirkung gemäß § 80 Abs. 5 VwGO.
+
+Mit freundlichen Grüßen
+[Rechtsanwalt]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+## Beweislast und Darlegungslast
+
+| Frage | Beweislast |
+|---|---|
+| Anlassdelikt (strafgerichtlich) | Staatsanwaltschaft |
+| Regelfall-Widerlegung (atypischer Fall) | Angeklagter |
+| MPU-Anlastatsachen | Verwaltungsbehörde |
+| Eignung durch MPU-Gutachten | Mandant (Vorlage positives Gutachten) |
+| Abstinenz-Nachweis | Mandant (Haaranalyse, Urinproben) |
+| Punktestand korrekt, Verwarnungen erfolgt | Fahrerlaubnisbehörde |
+
+## Fristen und Verjährung
+
+| Frist | Dauer | Anker | Norm |
+|---|---|---|---|
+| Beschwerde gegen § 111a StPO | keine starre Frist; unverzüglich | Beschlusszustellung | § 304 StPO |
+| Sofortige Beschwerde bei sofortigem Rechtsmittel | 1 Woche | Beschlusszustellung | § 311 Abs. 2 StPO |
+| Widerspruch gegen Verwaltungsentzug | 1 Monat | Bekanntgabe | § 70 VwGO |
+| Anfechtungsklage | 1 Monat | Zustellung Widerspruchsbescheid | § 74 VwGO |
+| Antrag § 80 Abs. 5 VwGO | unverzüglich | bei sofortiger Vollziehung | § 80 Abs. 5 VwGO |
+| Sperrfristverkürzung § 69a Abs. 7 StGB | jeweils 1 Jahr nach Sperrfristbeginn möglich | Antrag Landgericht | § 69a Abs. 7 StGB |
+
+## Typische Gegenargumente und Reaktion
+
+| Einwand | Reaktion |
+|---|---|
+| BAK-Wert belegt Ungeeignetheit | Rückrechnung BAK zur Tatzeit; Abbauwerte 0.1 Promille/h; ggf. Trinkmengenberechnung durch Sachverständigen |
+| Cannabis-Anlass automatisch ungeeignet | Seit KCanG (1.4.2024) keine automatische Ungeeignetheit; BVerwG 3 B 2.24 (8.1.2025); § 14 FeV einzelfallbezogen |
+| MPU zwingend nach § 13 FeV | Maßnahme kann durch anderweitigen Eignungsnachweis (positives Gutachten, Abstinenzbelege) ersetzt werden |
+| Punkteentzug ohne weitere Prüfung | Verfahrensfehler (fehlende Verwarnungsschritte) begründen Rechtswidrigkeit |
+| THC im Blut nachgewiesen | Seit 22.8.2024 Grenzwert 3.5 ng/ml (§ 24a Abs. 1a StVG); unterhalb des Grenzwerts grundsätzlich keine OWi |
+
+## Streitwert und Kosten
+
+- Strafgerichtliches Verfahren: kein gesonderter Streitwert; Anwaltskosten nach RVG (Grundgebühr, Verfahrensgebühr, Terminsgebühr).
+- Verwaltungsgerichtliches Verfahren: Streitwert meist EUR 5000 (Hauptsache) und EUR 2500 (Eilantrag § 80 Abs. 5 VwGO); GKG-Kosten entsprechend.
+- MPU-Kosten: EUR 400–800; vom Mandanten zu tragen.
+- MPU-Vorbereitungsseminar: EUR 300–600; sinnvolle Investition.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Vorläufige Entziehung, Hauptverhandlung noch offen | Beschwerde § 304 StPO wenn Atypik vorhanden; Sperrfristanrechnung § 69a Abs. 7 StGB durch Verfahrensdauer optimieren |
+| Verwaltungsentzug wegen Punkte | Punktestand prüfen; Verfahrensfehler (fehlende Verwarnung) rügen; Seminar-Rabatt § 4 Abs. 7 StVG nutzen |
+| MPU-Anordnung | Abstinenzbelege sofort anlegen (Haaranalyse); MPU-Vorbereitungsseminar; positives Gutachten anstreben |
+| Drogenfahrt Cannabis | BVerwG-Rechtsprechung zu Trennungsfähigkeit beachten; neue Rechtslage nach THC-Grenzwert-VO prüfen |
+| Beruflicher Fahrerlaubnisentzug | Jetzt Maßnahmen: Frühzeitig MPU vorbereiten; ggf. parallelen Eilantrag VG; Arbeitgeber informieren |
+
+## Anschluss-Skills
+
+- `fachanwalt-verkehrsrecht-bussgeld-einspruch-pruefen` — Bußgeldverfahren als Anlass
+- `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` — § 80 Abs. 5 VwGO gegen Verwaltungsentzug
+- `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` — Hauptverhandlung im Strafverfahren
+
+## Quellen
+
+Verbindlich `references/zitierweise.md`. Erlaubte offene Quellen: bverwg.de, bundesverfassungsgericht.de, bundesgerichtshof.de, dejure.org, openjur.de, nrwe.de (NRW-Justiz), BGBl.
+
+Aktueller Stand Mai 2026:
+- BVerwG, Beschl. v. 8.1.2025, 3 B 2.24 — Cannabis und KCanG
+- Hess. VGH, Beschl. v. 19.9.2025, 10 B 606/25 — Probezeit, Cannabisverstoss
+- KCanG vom 27.3.2024 (BGBl. I 2024 Nr. 109)
+- § 24a Abs. 1a StVG i.d.F. vom 21.8.2024, BGBl. I 2024 Nr. 274 (3.5 ng/ml THC)
 
 ---
 
-## Skill: `vkr-blitzer-messverfahren-spezial`
-
-_Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmessdaten-Recht des Verteidigers (BVerfG 2 BvR 1167/20), Verwertbarkeit, Beweisantrag Sachverstaendigengutachten: Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahr..._
-
-# Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmessdaten-Recht des Verteidigers (BVerfG 2 BvR 1167/20), Verwertbarkeit, Beweisantrag Sachverstaendigengutachten
+<!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
+-->
 
 
-## Arbeitsweg
+## Qualitäts-Hardening
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmessdaten-Recht des Verteidigers (BVerfG 2 BvR 1167/20), Verwertbarkeit, Beweisantrag Sachverstaendigengutachten. Prüfraster und Schriftsatzbausteine.
-
-### Verkehrsrecht: Blitzer-Verfahren
-
-## Spezialwissen: Verkehrsrecht: Blitzer-Verfahren
-- **Normen-/Quellenanker:** BVerfG.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ---
 
-## Skill: `vkr-bussgeldverfahren-grundzuege`
+## Skill: `fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen`
 
-_Bussgeldverfahren Grundzuege: Anhörungsbogen, Einspruch innerhalb 2 Wochen, Hauptverhandlung Amtsgericht, Rechtsbeschwerde OLG nach §§ 79 ff: Bussgeldverfahren Grundzuege: Anhörungsbogen, Einspruch innerhalb 2 Wochen, Hauptverhandlung Amtsgericht, Rechtsbes..._
+_Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist. OWiG §§ 65 ff. StVG § 26 Abs. 3 Verjährung. Prüfraster: Form- und Verfahrensfehler Verjährung 3 Monate ab Tat unterbrochen § 33 OWiG Messverfahren standardisiert/nicht-standardisiert Toleranzabzug Anhoerung § 55 OWiG Akteneinsicht Fahrverbot § 25 StVG Ausnahmen. Output: Bescheid-Prüfprotokoll und Einspruchsempfehlung. Abgrenzung zu bußgeld-einspruch-prüfen (Schnell-Triage) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug._
 
-# Bussgeldverfahren Grundzuege: Anhörungsbogen, Einspruch innerhalb 2 Wochen, Hauptverhandlung Amtsgericht, Rechtsbeschwerde OLG nach §§ 79 ff
+# Bußgeldbescheid prüfen
+
+## Kaltstart-Rückfragen
+
+1. Welche Tat liegt zugrunde — Geschwindigkeitsüberschreitung, Rotlichtverstoß, Abstandsverstoß, Handyverstoß, Alkohol § 24a StVG, Drogen?
+2. Wann war die Tatzeit und wann wurde der Bußgeldbescheid zugestellt? Einspruchsfrist § 67 Abs. 1 OWiG zwei Wochen; Verjährungsprüfung § 26 Abs. 3 StVG drei Monate ab Tatzeit.
+3. Welches Messverfahren wurde eingesetzt — Lasergerät, Radar, ProViDa, Section Control, ESO, PoliScan, TraffiStar? Liegt Eichschein und Schulungsnachweis des Bedieners vor?
+4. Wurde der Mandant als Fahrer anhand des Lichtbilds identifiziert oder nur als Halter angeschrieben?
+5. Ist ein Fahrverbot festgesetzt und besteht berufliche Härte (Existenzgefährdung)? Gibt es Voreintragungen im FAER?
+6. Wurde eine Anhörung gemäß § 55 OWiG vor Bescheiderlass durchgeführt? Anhörungsbogen ausgefüllt?
+7. Bestehen formelle Fehler im Bescheid — fehlerhafte Tatzeit, Tatort, Geschwindigkeit, Rechtsbehelfsbelehrung?
+8. Liegt die Tat bereits nahe der Verjährungsgrenze (3 Monate Basis + Unterbrechungen nach § 33 OWiG)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+### Normtexte (Kernauszug)
+
+- **§ 26 Abs. 3 StVG** — Verjährungsfrist drei Monate ab Tatzeit bei Ordnungswidrigkeiten im Straßenverkehr; nach Erlass des Bußgeldbescheids verlängerte Frist.
+- **§ 33 OWiG** — Unterbrechungsgründe: Bekanntgabe Verfahrenseinleitung an Betroffenen; schriftliche Aufnahme Sachverhalt für Protokoll; Anordnung Auskunft über Betroffenen; Erlass Bußgeldbescheid; Einlegung Einspruch. Nach jeder Unterbrechung beginnt neue volle Frist.
+- Volltext-Verifikation: Rspr. zu § 33 OWiG (Unterbrechungswirkung) und zu standardisierten Messverfahren in BGH-eigener Datenbank, dejure.org oder openjur.de aufrufen; nicht aus Modellwissen zitieren.
+- **§ 55 OWiG** — Anhörungsrecht Betroffener; Verletzung kann zur Rechtswidrigkeit des Bußgeldbescheids führen; Heilung möglich wenn Betroffener im Einspruchsverfahren gehört wird.
+- **§ 65 OWiG** — Bußgeldbescheid; Mindestinhalt: Personalien, Tatbeschreibung, Tatzeit, Tatort, angewandte Vorschriften, Bußgeldhöhe, Fahrverbot.
+- **§ 67 Abs. 1 OWiG** — Einspruch innerhalb zwei Wochen nach Bekanntgabe; schriftlich oder zur Niederschrift bei erlassender Behörde.
+- **§ 24a StVG** — Alkohol- und Drogenfahrt als OWi; 0,5 bis 1,09 Promille EUR 500, 2 Punkte, 1 Monat Fahrverbot; Drogen-Grenzwert nach Verordnung.
+- **§ 25 StVG** — Fahrverbot; Regelfahrverbot nach BKatV; Wegfall bei atypischem Fall und erhöhter Geldbuße.
+- **§ 25 Abs. 2a StVG** — Fahrverbotsbeginn frei wählbar bis 4 Monate nach Rechtskraft.
+- **§ 4 Abs. 4 BKatV** — Absehen vom Fahrverbot bei Verhängung höherer Geldbuße.
+
+### BGH und BVerfG-Leitentscheidungen (Stand Mai 2026; offene Quellen)
+
+| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+|---|---|---|---|---|
+| BVerfG | 2 BvR 1167/20 | 20.6.2023 | Standardisierte Geschwindigkeitsmessung; keine Pflicht zur Speicherung von Rohmessdaten; Recht auf erweiterten Informationszugang im Einzelfall | bundesverfassungsgericht.de |
+| BVerfG | 2 BvR 1616/18 | 12.11.2020 | Informationszugang OWi-Verfahren; Akteneinsicht in Messunterlagen | bundesverfassungsgericht.de |
+| BVerwG | 3 B 2.24 | 8.1.2025 | KCanG ab 1.4.2024: Cannabis ist kein BtM mehr; § 14 FeV neu zu lesen | bverwg.de |
+
+Hinweis: BGH (4. Strafsenat) zu Geschwindigkeitsmessverfahren ist standardisiert anerkannt; konkrete Mess-Fehler im Einzelfall müssen substantiiert vorgetragen werden. Aktenzeichen vor Versand in BGH-eigener Datenbank, dejure.org oder openjur.de verifizieren.
+
+## Prüfschema in Tabellenform
 
 
-## Arbeitsweg
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+| Nr. | Prüfschritt | Norm | Konsequenz |
+|---|---|---|---|
+| 1 | Verjährung geprüft? (3 Monate ab Tatzeit) | § 26 Abs. 3 StVG | Abgelaufen und keine Unterbrechung: Einstellung § 46 OWiG |
+| 2 | Unterbrechungshandlungen belegt? | § 33 OWiG | Lücke in Unterbrechungskette → Verjährung |
+| 3 | Einspruchsfrist gewahrt? (2 Wochen + 4-Tage-Fiktion) | § 67 OWiG; PostModG | Versäumt: Wiedereinsetzung § 52 OWiG prüfen |
+| 4 | Anhörung ordnungsgemäß? | § 55 OWiG | Heilung im Einspruchsverfahren möglich |
+| 5 | Mindestinhalt Bescheid vollständig § 65 OWiG? | § 65 OWiG | Fehlt wesentlicher Inhalt: Aufhebung rügbar |
+| 6 | Fahreridentifizierung belegt? | Darlegungslast Behörde | Zweifelhaftes Lichtbild: Sachverständigen-Beweisangebot |
+| 7 | Messverfahren standardisiert? | BGHSt 39, 291 | Nicht standardisiert: volle Beweislast Behörde |
+| 8 | Eichschein gültig zur Tatzeit? | § 31 MessEG | Abgelaufen: Verwertungsverbot prüfen |
+| 9 | Recht auf Akteneinsicht in Rohmessdaten geltend gemacht? | Art. 103 GG; BVerfG 2 BvR 1616/18 (12.11.2020), BVerfG 2 BvR 1167/20 (20.6.2023) | Antrag schriftlich; keine pauschale Speicherungspflicht, aber Anspruch auf vorhandene Daten |
+| 10 | Cannabis-Beteiligung? | § 24a StVG, KCanG (seit 1.4.2024); BVerwG 3 B 2.24 (8.1.2025) | THC-Grenzwert 3.5 ng/ml im Serum (§ 24a Abs. 1a StVG seit 22.8.2024) |
+| 11 | Toleranzabzug korrekt vorgenommen? | BGHSt 39, 291; BKatV | Zu gering: Neuberechnung; ggf. anderes Tatbild |
+| 12 | Bußgeld korrekt nach BKatV? | BKatV Anlage 1, 2 | Fehler: unmittelbare Rüge |
+| 13 | Fahrverbot: Regelfall oder Atypik? | § 25 StVG; § 4 Abs. 4 BKatV | Härtefall: erhöhte Geldbuße statt Fahrverbot |
+| 14 | § 25 Abs. 2a StVG-Aufschub genutzt? | § 25 Abs. 2a StVG | Bis 4 Monate nach Rechtskraft; Ferienzeit wählen |
+| 15 | FAER-Punkte korrekt? Tilgungsfristen? | § 29 StVG | 2,5 Jahre Tilgung bei 1-2 Punkten |
 
-**Fokus:** Bussgeldverfahren Grundzuege: Anhörungsbogen, Einspruch innerhalb 2 Wochen, Hauptverhandlung Amtsgericht, Rechtsbeschwerde OLG nach §§ 79 ff. OWiG. Strategien Verteidigung, Punkterabatt bei Punkteabbau-Seminar. Prüfraster.
+## Strategische Optionen (vor dem Template entscheiden)
 
-### Verkehrsrecht: Bussgeldverfahren
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-## Spezialwissen: Verkehrsrecht: Bussgeldverfahren
-- **Normen-/Quellenanker:** OLG, OWiG.
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mandant will Bussgeldbescheid pruefen lassen | Formelle und materielle Pruefung; Schriftsatz unten |
+| Variante A — Bescheid ohne Messfehler Akzeptanz guenstiger | Keine weiteren Massnahmen; Zahlung empfehlen |
+| Variante B — Fahrverbot mit Haertefall Elternzeit Fernpendler | Einspruch nur wegen Fahrverbot; Geldbusse akzeptieren |
+| Variante C — Standardisiertes Messverfahren fehlerhafte Geeichung | Einspruch mit technischer Ruege; Akte anfordern |
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Prüfraster
+## Schriftsatzbausteine
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+### Baustein 1 — Einspruch mit Akteneinsicht und Rohmessdaten-Antrag
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+```
+An die [Bußgeldstelle]
+[Adresse]
+Aktenzeichen: [Az]
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+EINSPRUCH § 67 OWiG
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+In der Bußgeldsache gegen
+[Name, Adresse, geb. Datum]
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+namens und in Vollmacht des Betroffenen lege ich gegen den
+Bußgeldbescheid vom [Datum], zugestellt am [Datum],
+
+                    EINSPRUCH
+
+ein. Eine Begründung bleibt nach Akteneinsicht vorbehalten.
+
+ANTRÄGE
+
+1. Akteneinsicht § 49 OWiG
+
+Ich beantrage vollständige Akteneinsicht einschließlich:
+a) Sämtlicher Rohmessdaten des Falldatensatzes und der
+   Falldatensätze der Messreihe (konkret: alle Einzelmessungen,
+   sofern vom Gerät gespeichert; vgl. BVerfG, Beschl. v. 12.11.2020,
+   2 BvR 1616/18; BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — kein
+   Anspruch auf nicht gespeicherte Daten, aber Anspruch auf alle
+   vorhandenen Daten);
+b) Eichschein des Messgeräts mit Gültigkeitsdauer zur Tatzeit;
+c) Schulungsnachweis des messenden Beamten (Name, Gerätekurs);
+d) Messprotokoll mit Aufstellungsort, -bedingungen und -dauer;
+e) Betriebsanleitung des eingesetzten Geräts [Bezeichnung].
+
+2. Aussetzung der Vollziehung des Fahrverbots
+   bis zur rechtskräftigen Entscheidung, da berufliche Härte
+   droht (Begründung nach Akteneinsicht).
+
+Mit freundlichen Grüßen
+[Rechtsanwalt]
+```
+
+### Baustein 2 — Begründung nach Akteneinsicht: Verjährung
+
+```
+Begründung des Einspruchs
+
+I. Verjährung
+
+Die Ordnungswidrigkeit vom [Tatdatum] ist verjährt.
+
+Gemäß § 26 Abs. 3 StVG beträgt die Verjährungsfrist drei Monate
+ab Tatzeit ([Tatdatum]).
+
+Die Akte enthält folgende Unterbrechungshandlungen:
+- Anhörungsbogen versandt am [Datum]
+- Eingang Anhörungsbogen am [Datum] (Unterschrift des Mandanten)
+- Bußgeldbescheid erlassen am [Datum]
+
+Nach der Unterbrechung durch Absendung des Anhörungsbogens am
+[Datum] begann die neue 3-Monats-Frist. Diese lief ab am [Datum +
+3 Monate]. Der Bußgeldbescheid wurde am [Datum] erlassen, also
+NACH Ablauf der Verjährungsfrist.
+
+Die Ordnungswidrigkeit ist verjährt. Der Einspruch ist begründet.
+Das Verfahren ist einzustellen.
+```
+
+### Baustein 3 — Begründung Messfehler / Rohmessdaten
+
+```
+II. Messung nicht verwertbar
+
+Das eingesetzte Messgerät [Bezeichnung, Gerätenummer] misst nach
+dem standardisierten Verfahren (BGHSt 39, 291). Allerdings sind
+folgende Fehler zu verzeichnen:
+
+1. Eichschein abgelaufen:
+   Laut beigebrachtem Eichschein war das Gerät zuletzt am
+   [Datum] geeicht. Die Eichgültigkeitsdauer beträgt nach
+   § 32 MessEV 12 Monate. Die Tatzeit [Datum] liegt nach
+   Ablauf der Eichgültigkeit. Das Messergebnis ist nicht
+   verwertbar.
+
+2. Rohmessdaten verweigert:
+   Trotz konkretem Antrag vom [Datum] (Anlage K1) wurden die
+   Rohmessdaten des Falldatensatzes nicht vorgelegt. Nach der
+   Rechtsprechung des BVerfG (Beschl. v. 12.11.2020, 2 BvR 1616/18;
+   Beschl. v. 20.6.2023, 2 BvR 1167/20) hat der Betroffene einen
+   Anspruch auf Zugang zu den vorhandenen Messdaten und
+   Begleitunterlagen; jedenfalls bei konkret dargelegtem
+   Aufklärungsbedarf greift ein Verwertungsverbot, wenn die
+   Verteidigung nachvollziehbar darlegt, dass sie ohne diese
+   Daten die Messung nicht überprüfen kann.
+   (Volltext der Beschlüsse vor Versand in
+   bundesverfassungsgericht.de aufrufen und Randnummern
+   ergänzen.)
+
+3. Sachverständigengutachten wird beantragt:
+   Zum Nachweis der Unverwertbarkeit der Messung beantragen
+   wir die Einholung eines Sachverständigengutachtens zur
+   Frage, ob das eingesetzte Gerät am Tattag zuverlässige
+   Messergebnisse liefern konnte.
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Beweislast und Darlegungslast
+
+| Frage | Beweislast |
+|---|---|
+| Tatbestand, Schuld | Bußgeldstelle / Gericht |
+| Fahreridentität | Bußgeldstelle; Halterschaft allein genügt nicht |
+| Standardisiertes Messverfahren korrekt angewendet | Grundsatzvermutung BGHSt 39, 291; Verteidigung muss konkrete Fehler benennen |
+| Verjährungsunterbrechung | Bußgeldstelle (Zugangsnachweise für Anhörung etc.) |
+| Härtefall Fahrverbot | Betroffener (konkrete Existenzgefährdung) |
+| Ordnungsgemäße Anhörung | Bußgeldstelle |
+
+## Fristen und Verjährung
+
+| Frist | Dauer | Anker | Norm |
+|---|---|---|---|
+| Verjährung OWi Straßenverkehr | 3 Monate ab Tatzeit | Tatzeit | § 26 Abs. 3 StVG |
+| Verlängerte Verjährung nach Bußgeldbescheid | 6 Monate nach Rechtskraft | VerfH § 26 Abs. 3 StVG | |
+| Einspruchsfrist | 2 Wochen (+ 4 Tage Zustellungsfiktion) | Zustellung | § 67 OWiG; PostModG |
+| Wiedereinsetzung | 2 Wochen | Hindernis entfallen | § 52 OWiG |
+| Fahrverbotsbeginn (Wahlrecht) | bis 4 Monate nach Rechtskraft | Rechtskraft | § 25 Abs. 2a StVG |
+| Tilgung FAER | 2,5 / 5 / 10 Jahre | Rechtskraft | § 29 StVG |
+
+## Typische Gegenargumente und Reaktion
+
+| Einwand | Reaktion |
+|---|---|
+| Standardisiertes Verfahren — kein Fehler möglich | Konkrete Benennung: Eichablauf, fehlender Schulungsnachweis, Rohmessdaten-Verweigerung |
+| Fahrerbild eindeutig | Sachverständigen-Lichtbildvergleich beantragen; Beweiswürdigung dem Gericht überlassen |
+| Verjährung durch Anhörungsversand unterbrochen | Beweislast Bußgeldstelle für Zugangszeitpunkt; Versandtag ist nicht Zugangstag |
+| Keine Anhörungspflichtverletzung — heilbar | Im Hauptverfahren Gelegenheit gegeben; aber: formelle Pflicht des Bescheids unberührt |
+| Härtefall nicht beweisbar | Arbeitgeberbestätigung + Gehaltsnachweis + Routenplan + Bescheinigung ÖPNV-Unzumutbarkeit |
+
+## Streitwert und Kosten
+
+- Kein Kostenrisiko für Betroffenen bei Einspruch; Kosten bei Verurteilung nach OWiG-Gebührentabelle.
+- Anwaltsgebühren: Nr. 5100 ff. VV RVG; Grundgebühr + Verfahrensgebühr + ggf. Terminsgebühr; gesamt ca. EUR 400–1500 nach Bußgeldhöhe.
+- Sachverständigengutachten Messung: EUR 800–2500; bei Freispruch: Staatskasse trägt Kosten § 467 StPO i.V.m. § 46 OWiG.
+
+## Strategische Empfehlung
+
+- Bei klarer Messung ohne Fehler: Einspruch nur bezüglich Fahrverbot (§ 4 Abs. 4 BKatV); Geldbuße akzeptieren.
+- Bei Identitätszweifel: Vollenspruch; Sachverständigen-Beweisangebot im Einspruch benennen.
+- Bei Verjährungs-Verdacht: Fristberechnung exakt; Unterbrechungskette der Bußgeldstelle anfordern.
+- Bei Messfehler-Verdacht: BVerfG-Antrag auf Rohmessdaten konkret formulieren; nach Verweigerung sofort Verwertungsverbot geltend machen.
+- Bei Fahrverbot + Beruf: Immer § 4 Abs. 4 BKatV Antrag; Arbeitgeberbestätigung sofort einholen; § 25 Abs. 2a StVG-Aufschub erklären.
+
+## Anschluss-Skills
+
+- `bussgeld-einspruch-pruefen` — detailliertes Messverfahrens-Prüfschema
+- `fachanwalt-verkehrsrecht-fahrerlaubnis-entzug` — bei Fahrerlaubnisfolgen
+- `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` — Vorbereitung AG-Verhandlung
+
+## Quellen
+
+Verbindlich `references/zitierweise.md`. Erlaubte offene Quellen: bundesverfassungsgericht.de, bundesgerichtshof.de (juris.bundesgerichtshof.de), bverwg.de, dejure.org, openjur.de, BGBl. Beck-RS und juris-Fundstellen ohne offene Quelle sind nicht zu zitieren.
+
+Aktueller Stand Mai 2026 (verifizierte Aktenzeichen):
+- BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18 — Akteneinsicht / Informationszugang OWi
+- BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — Keine Rohmessdaten-Speicherungspflicht; aber Anspruch auf vorhandene Daten
+- BVerwG, Beschl. v. 8.1.2025, 3 B 2.24 — Cannabis und KCanG ab 1.4.2024
+- KCanG vom 27.3.2024, BGBl. I 2024 Nr. 109; § 24a Abs. 1a StVG i. d. F. vom 21.8.2024, BGBl. I 2024 Nr. 274 (3.5 ng/ml THC-Grenzwert)
 
 ---
 
-## Skill: `vkr-einfuehrung-rechtsfelder`
+## Skill: `fachanwalt-verkehrsrecht-unfallregulierung-quoten`
 
-_Verkehrsrecht einfuehrend: Verkehrsstrafrecht (Trunkenheit § 316 StGB, Gefaehrdung § 315c StGB, Unfallflucht § 142 StGB), OWi (Bussgeldverfahren), Haftpflicht, Kasko, Fuehrerscheinrecht, FeV, MPU: Verkehrsrecht einfuehrend: Verkehrsstrafrecht (Trunkenheit §..._
+_Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind. § 254 BGB Mitverschulden Quoten-Modelle. Prüfraster: Schadenstabellen Reparatur Mietwagen Wertminderung Nutzungsausfall Schmerzensgeld 130-Prozent-Grenze Reparaturkosten vs. Wiederbeschaffungswert. Output: Schadensquoten-Berechnung und Vergleichsangebot. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Erstforderung) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich._
 
-# Verkehrsrecht einfuehrend: Verkehrsstrafrecht (Trunkenheit § 316 StGB, Gefaehrdung § 315c StGB, Unfallflucht § 142 StGB), OWi (Bussgeldverfahren), Haftpflicht, Kasko, Fuehrerscheinrecht, FeV, MPU
+# Unfallregulierung — Quoten
 
+## Zweck
 
-## Arbeitsweg
+Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1) Schadens-Positionen
 
-**Fokus:** Verkehrsrecht einfuehrend: Verkehrsstrafrecht (Trunkenheit § 316 StGB, Gefaehrdung § 315c StGB, Unfallflucht § 142 StGB), OWi (Bussgeldverfahren), Haftpflicht, Kasko, Fuehrerscheinrecht, FeV, MPU. Entscheidungstabelle.
+| Position | Inhalt |
+|---|---|
+| Reparaturkosten | Werkstatt-Rechnung netto |
+| Wertminderung | Merkantiler Minderwert |
+| Nutzungs-Ausfall | Tagessatz nach EurotaxSchwacke / DAT |
+| Mietwagen | Tagessätze Schwacke-Liste |
+| Anwaltskosten | Anrechnung auf Schaden |
+| Schmerzensgeld | bei Personenschaden |
+| Verdienst-Ausfall | bei Erwerbs-Ausfall |
+| Sachverständigen-Kosten | bei Streit |
 
-### Verkehrsrecht: Rechtsfelder
+## 2) Mitverschulden § 254 BGB
 
-## Spezialwissen: Verkehrsrecht: Rechtsfelder
-- **Normen-/Quellenanker:** FeV, MPU.
+### Prüfung
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+- Eigene Pflichtverletzung
+- Anteil am Schaden
+- Quoten-Bildung (z.B. 70/30, 50/50)
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+### Praxis-Quoten
 
-## Prüfraster
+- Auffahr-Unfall: meist 100 % Hintermann
+- Vorfahrt-Verstoß: 70-100 % Verursacher
+- Spurwechsel: 60-80 % Verursacher
+- Unaufmerksamkeits-Fall: gemischt
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+## 3) 130-%-Grenze
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### BGH-Linie
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+- Reparatur zulaessig, wenn Reparaturkosten **bis 130 %** des Wiederbeschaffungswerts
+- Verifizierte Entscheidungen vor Ausgabe in offener Quelle prüfen (BGH-Datenbank, dejure.org, openjur.de):
+  - BGH, Urt. v. 12.3.2024, VI ZR 280/22 — Werkstatt- bzw. Sachverstaendigenrisiko (Übertragung auf überhöhte Sachverstaendigenkosten); offene Quelle: https://juris.bundesgerichtshof.de
+  - BGH, Urt. v. 5.11.2024, VI ZR 12/24 — fiktive Berechnung Haushaltsfuehrungsschaden (Mindestlohn als Untergrenze, nachvollziehbare Begründung erforderlich)
+- Über 130 %: nur Wiederbeschaffungswert (Totalschaden)
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+### Fiktive Abrechnung
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Bei Reparatur: tatsächliche Werkstatt-Kosten
+- Bei Verkauf Restwert: WBW abzueglich Restwert
+- Bei fiktiver Abrechnung: 6 Monate Bindungs-Frist
+- Werkstattrisiko-Doktrin (BGH, Urt. v. 16.1.2024, VI ZR 253/22 und VI ZR 239/22): Geschädigter trägt grundsätzlich nicht das Risiko überhöhter Werkstattkosten. Übertragung auf Sachverstaendigenkosten: BGH VI ZR 280/22
+
+## 4) Werkstatt-Bindung
+
+### Frei oder Vertragswerkstatt
+
+- Bei Vollkasko: meist Vertragswerkstatt
+- Bei Haftpflicht: freie Werkstattwahl
+- Stundensätze: BGH-Linie
+
+## 5) Workflow
+
+### Phase 1 — Sofort am Unfall-Ort
+
+- Polizei bei Personenschaden
+- Foto-Dokumentation
+- Zeugen
+- Unfallbericht ausfuellen
+- Versicherungs-Daten austauschen
+
+### Phase 2 — Erstanwalts-Beratung
+
+- Sachverhalts-Aufnahme
+- Schadens-Sichtung
+- Sachverständiger
+
+### Phase 3 — Versicherer-Schadensmeldung
+
+- Mit Anwalt
+- Vollständige Position
+- Bei Streit: Klage AG / LG
+
+### Phase 4 — Bei Streit
+
+- Klage gegen Versicherer (Direkt-Klage möglich)
+- Sachverständigen-Beweis
+- Vergleich oder Urteil
+
+## 6) Schmerzensgeld
+
+### BGH-Linien
+
+- Tabelle nach Verletzungsschwere
+- Beispiele:
+  - HWS-Schleudertrauma leicht: 500-1.500 EUR
+  - Knochenbruch ohne Folgen: 2.000-5.000 EUR
+  - Bleibender Schaden / Querschnitt: 100.000+ EUR
+
+### Praxis
+
+- Hacks Becker Schmerzensgeld-Tabelle
+- Vergleichs-Fälle
+
+## 7) Verjaehrung
+
+- 3 Jahre § 195 BGB
+- Ab Kenntnis von Schaden und Schaedger
+- Hoechstens 30 Jahre
+
+## 8) Typische Fehler
+
+1. **Unfallort nicht dokumentiert**
+2. **Werkstatt-Vertragsbindung übersehen**
+3. **130-%-Grenze ignoriert**
+4. **Schmerzensgeld zu niedrig** verhandelt
+
+## 9) BGH-Linien (Stand Mai 2026; nur offene Quellen)
+
+| Aktenzeichen | Datum | Thema | Offene Quelle |
+|---|---|---|---|
+| BGH VI ZR 280/22 | 12.3.2024 | Werkstattrisiko-Grundsätze auf überhöhte Sachverstaendigenkosten übertragen | juris.bundesgerichtshof.de |
+| BGH VI ZR 253/22 | 16.1.2024 | Werkstattrisiko Grundsatzurteil; Geschädigter trägt nicht Risiko überhöhter Werkstattkosten | juris.bundesgerichtshof.de |
+| BGH VI ZR 239/22 | 16.1.2024 | Werkstattrisiko parallel | juris.bundesgerichtshof.de |
+| BGH VI ZR 12/24 | 5.11.2024 | Fiktiver Haushaltsfuehrungsschaden; Mindestlohn als Untergrenze; nachvollziehbare Begründung erforderlich | juris.bundesgerichtshof.de |
+| BGH VI ZR 165/25 | 24.3.2026 | Schadensrecht Wiederherstellungskosten; vor Verwendung Volltext live verifizieren | bundesgerichtshof.de |
+| BGH VI ZR 25/24 | 8.4.2025 | Schadensrecht Folgefall Werkstattrisiko; Live-Volltext prüfen | juris.bundesgerichtshof.de |
+
+Hinweis: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen. Tabelle ist nur Recherche-Anker — vor Versand jedes Aktenzeichen erneut in offener Quelle aufrufen.
+
+## Anschluss
+
+- `fachanwalt-verkehrsrecht-mpu-vorbereitung` — bei Fahrerlaubnis
+- `unfall-haftungsquote-berechnen` (Power-Tool) — Berechnung
+- `deckungsanfrage-pruefen` — bei Versicherer-Streit
 
 ---
 
-## Skill: `vkr-totalschaden-fiktiv-spezial`
+## Skill: `fachanwalt-verkehr-autonom-1d-stvg`
 
-_Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweisung auf guenstigere Reparaturen (BGH-Verweisrechtsprechung): Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert min..._
+_Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren. § 1d StVG autonomes Fahren Level 4. Prüfraster: Haftungsverteilung Halter § 7 StVG Fahrer § 18 StVG Hersteller § 1 ProdHaftG Datensaetze Black-Box § 1g StVG KBA-Genehmigung. Output: Haftungsanalyse und Vollstreckungsstrategie autonomes Fahrzeug. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (klassische KFZ-Schadensregulierung) und fachanwalt-verkehrsrecht-unfallregulierung-quoten._
 
-# Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweisung auf guenstigere Reparaturen (BGH-Verweisrechtsprechung)
+# Autonomes Fahren PKW — § 1d StVG Haftungskonzept
 
+## Zweck
 
-## Arbeitsweg
+Spezial-Mandat: Unfall mit autonomem PKW (Tesla FSD Beta, Mercedes Drive Pilot Level 3, BMW Personal Pilot). Anwaltliche Unfallregulierung muss klären, wer haftet — Halter, Fahrer, Hersteller — bei Aktiv-Sein des autonomen Systems.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Eingaben
 
-**Fokus:** Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweisung auf guenstigere Reparaturen (BGH-Verweisrechtsprechung). Prüfraster für Mandantenberatung.
+- Fahrzeug + autonomes System (SAE-Level 2/3/4)
+- Aktivitätszustand zum Unfallzeitpunkt (autonom / manuell)
+- Black-Box-Daten § 1g StVG
+- Übergabe-Anforderungen vom System an Fahrer?
+- Reaktion Fahrer
+- Hersteller-Recall bekannt?
 
-### Verkehrsrecht: Totalschaden
+## Rechtlicher Rahmen
 
-## Spezialwissen: Verkehrsrecht: Totalschaden
-- **Normen-/Quellenanker:** BGH.
+- **§ 1a–1l StVG** — Autonomes Fahren (Reform 2017, 2021 weitere Stufen)
+- **§ 7 StVG** — Halter-Gefährdungshaftung
+- **§ 18 StVG** — Fahrer-Verschuldenshaftung (eingeschränkt bei autonomem Modus)
+- **§ 1g StVG** — Daten-Speicherung Pflicht
+- **§§ 1, 2 ProdHaftG** — Hersteller-Produkthaftung
+- **VO (EU) 2019/2144** — Allgemeine Sicherheitsverordnung
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+### Leitentscheidungen
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+- BGH-anhängig (2025/2026)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Prüfraster
+## Drei-Stufen-Haftungsanalyse
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+### Stufe 1 — Wer hatte aktive Steuerung?
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- **Level 2** (Driver Assistance): Fahrer aktiv steuernd → § 18 StVG-Haftung normal
+- **Level 3** (Bedingte Automation): Fahrer übergibt Steuerung an System → § 1d-Sonderregelung
+- **Level 4** (Hoch-Automation): System steuert ohne Fahrer; nur "Aufsicht"
+- **Level 5** (Voll-Automation): Kein Fahrer mehr; nur Halter
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+### Stufe 2 — Übergabe-Anforderung beachtet?
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+- Bei Level 3: System fordert Übergabe → Fahrer hat 10 Sekunden Reaktion (Fahrzeug-spezifisch)
+- Bei Nichtreagieren: Fahrer-Haftung nach § 18 StVG
+- Bei System-Versagen ohne Übergabe-Aufforderung: Hersteller-Haftung
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+### Stufe 3 — Halter-Haftung § 7 StVG immer
+
+- Bei jedem Unfall mit Betrieb des Fahrzeugs
+- Versicherungspflicht PflVG
+- Versicherer regelt regelmäßig zuerst → Regress später
+
+## Workflow
+
+### Phase 1 — Sofortmaßnahmen
+
+- Polizei zwingend
+- Black-Box-Auslesung § 1g StVG (KBA-zertifizierte Stelle)
+- Foto/Video-Doku der Position
+- Zeugen-Vernehmung
+- Versicherer-Anzeige binnen 7 Tagen
+
+### Phase 2 — Daten-Analyse
+
+- Wer hatte aktive Steuerung im Sekunden-Korridor?
+- Reaktion Fahrer auf System-Warnung
+- Sensor-Daten Auswertung (Lidar, Radar, Kamera)
+- Recall-Datenbank prüfen (KBA, NHTSA bei Tesla)
+
+### Phase 3 — Haftungs-Verteilung
+
+- Versicherer-Verständigung
+- Bei Streit: Sachverständigen-Gutachten DEKRA / TÜV
+- Hersteller-Beteiligung bei Produktfehler-Verdacht
+
+### Phase 4 — Klage
+
+- Bei Geschädigtem-Mandanten: Klage gegen Halter + Versicherer + ggf. Hersteller
+- Bei Halter-Mandanten: Verteidigung mit Hersteller-Regress
+- Bei Hersteller: § 1 ProdHaftG-Verteidigung
+
+### Phase 5 — Bei Personenschaden
+
+- Schmerzensgeld nach §§ 7, 11 StVG
+- Verdienstausfall, Heilbehandlung
+- Bei Schwerstverletzung: Sachverständige + Pflege-Berater
+- Hinterbliebenenrente bei Tod
+
+## Tesla-FSD-Beta-Sonderfragen
+
+- FSD Beta in DE Stand 2026 nur eingeschränkt zugelassen
+- Bei US-Genehmigung mit Re-Import: Zulassungsfähigkeit fraglich
+- KBA-Genehmigungsstand prüfen
+- Software-Update zwischen Unfall und Auslesung: Beweis-Sicherung kritisch
+
+## Risiken und Red Flags
+
+| Konstellation | Rot | Orange | Grün |
+|---|---|---|---|
+| Black-Box-Daten verloren | Beweislast-Umkehr | KBA-Auslesung | volle Daten |
+| Fahrer bei Übergabe abgelenkt | § 18 StVG-Haftung | Klärung | klare System-Fehler |
+| Hersteller-Recall vor Unfall | Mit-Verschulden Halter (nicht reagiert) | unklar | klar nach Recall installiert |
+| Beta-Software ohne KBA | Zulassung fehlt; Halter-Schuld | Klärung läuft | Serien-Software |
+
+## Querverweise
+
+- `fachanwalt-verkehrsrecht-orientierung` — Triage
+- `fachanwalt-verkehrsrecht-unfallregulierung-quoten` — Standard-Unfall
+- `fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg` — LKW-Variante
+- `fachanwalt-versicherungsrecht-orientierung` — Kfz-Versicherer
+
+## Quellen und Updates
+
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Aktuelle Rechtsprechung Autonomes Fahren
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+<!-- BGH VI ZR 12/24 entfernt: tatsaechliches Thema ist Haushaltsfuehrungsschaden (05.11.2024, NJW 2025, 1128); kein Bezug zu autonomem Fahren (27.05.2026) -->
+
+## Normen Autonomes Fahren
+
+- §§ 1a-1l StVG — Reformstufen autonomes Fahren (Level 2 bis 4)
+- § 1d StVG — hochautomatisierte Fahrzeuge (SAE Level 4): kein Fahrer erforderlich in geofenced Areas
+- § 1g StVG — Datenspeicherungspflicht; Herausgabepflicht nach Unfall
+- § 7 StVG — Halterhaftung bleibt bestehen auch bei autonomem Modus
+- §§ 1-4 ProdHaftG — Herstellerhaftung bei Produktfehler (Software als Produkt)
+- VO (EU) 2019/2144 — allgemeine Fahrzeugsicherheitsverordnung (ALKS, Notbremssysteme)
+
+<!-- AUDIT 27.05.2026
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+BGH VI ZR 12/24: WRONG_TOPIC; tatsaechliches Thema ist Haushaltsfuehrungsschaden (05.11.2024, NJW 2025, 1128), kein Bezug zu autonomem Fahren; Eintrag geloescht.
+-->
 
 ---
 

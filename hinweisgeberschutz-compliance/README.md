@@ -54,7 +54,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -155,6 +155,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `vergleichsklausel` | Entwirft Vergleichsklauseln hinweisgeberfest im Hinweisgeberschutz Compliance. |
 | `verschwiegenheitsklauseln-redline` | Redlinet Verschwiegenheitsklauseln hinweisgeberfest im Hinweisgeberschutz Compliance. |
 | `vertraulichkeit-identitaet` | Prüft Identitätsschutz für Hinweisgeber, Betroffene und Dritte im Hinweisgeberschutz Compliance. |
+| `vertraulichkeit-vs-anhoerung` | Balanciert Vertraulichkeit mit Anhörungspflichten. |
 | `vertraulichkeit-vs-zugriffskonzept` | Balanciert Vertraulichkeit mit Anhörungspflichten im Hinweisgeberschutz Compliance. |
 | `vorstandshaftung` | Prüft Organhaftung bei ignorierten Hinweisen im Hinweisgeberschutz Compliance. |
 | `zugriffskonzept` | Baut Zugriffskonzept für Case-Management-Systeme im Hinweisgeberschutz Compliance. |

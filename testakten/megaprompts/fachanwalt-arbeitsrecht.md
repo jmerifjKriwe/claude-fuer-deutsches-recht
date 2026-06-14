@@ -2,20 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 78 Skills des Plugins `fachanwalt-arbeitsrecht`.
+Dieser Megaprompt enthaelt top-8 von 119 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-arbeitsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Anwalts-Dashboard Fachanwalt Arbeitsrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Z…
-2. **orientierung-mandat-fachanwaltschaft** — Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO: Anwe…
-3. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konfli…
-4. **erstpruefung-und-mandatsziel** — Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielform…
-5. **output-waehlen** — Output-Wahl für Fachanwalt Arbeitsrecht: stimmt Adressat (Arbeitnehmer, Arbeitgeber, Betriebsrat), Frist (§ 4 KSchG 3 Wo…
-6. **ar-abfindungs-rechner-modular** — Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verha…
-7. **ar-aufhebungsvertrag-praxis** — Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von…
-8. **ar-einfuehrung-mandantenanliegen** — Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Dis…
-9. **ar-konkurrenzklausel-spezial** — Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Frei…
-10. **befristung-compliance-dokumentation-und-akte** — Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokument…
+2. **fachanwalt-arbeitsrecht-orientierung** — Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwe…
+3. **orientierung-mandat-fachanwaltschaft** — Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO: Anwe…
+4. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konfli…
+5. **erstpruefung-und-mandatsziel** — Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielform…
+6. **fachanwalt-arbeitsrecht-betriebsratsanhoerung** — Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-A…
+7. **fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit** — Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfa…
+8. **fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg** — Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfal…
 
 ---
 
@@ -94,6 +92,103 @@ Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoe
 | **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschäftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
 
 > Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Prüfschemata, Klagebausteine und Verteidigungsmuster.
+
+---
+
+## Skill: `fachanwalt-arbeitsrecht-orientierung`
+
+_Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Prüfraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill._
+
+# Fachanwalt für Arbeitsrecht — Orientierung
+
+## FAO-Voraussetzungen (§ 10 FAO)
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 100 Fälle in den letzten drei Jahren aus dem Arbeitsrecht; davon mindestens 50 Mandate im Individualarbeitsrecht, mindestens 10 Mandate im Kollektivarbeitsrecht, mindestens 20 rechtsförmliche Verfahren.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Individualarbeitsrecht | BGB §§ 611a ff. (Arbeitsvertrag); KSchG (Kündigungsschutz); BUrlG (Urlaub); EFZG (Entgeltfortzahlung); TzBfG (Teilzeit und Befristung); NachwG (Nachweisgesetz, idF Aug. 2022); MuSchG; BEEG; ArbZG; ArbStättV |
+| Kollektivarbeitsrecht | BetrVG (Betriebsverfassung); TVG (Tarifvertrag); MitbestG; DrittelbG; SprAuG |
+| Diskriminierung | AGG (§§ 1, 7, 15) |
+| Arbeitsschutz | ArbSchG; ArbStättV; ArbMedVV |
+| Insolvenz | InsO §§ 113, 125 ff. |
+| Verfahren | ArbGG (Arbeitsgerichtsgesetz) |
+| Internationale Bezüge | Rom I-VO; AEntG; AÜG |
+
+## Typische Mandate
+
+- Kündigungsschutzklage (§ 4 KSchG).
+- Aufhebungsvertrag (Verhandlung, Sozialplan).
+- Befristungskontrollklage (§ 17 TzBfG).
+- Sozialplan / Interessenausgleich nach § 112 BetrVG (Kollektivseite).
+- Betriebsratsanhörung nach § 102 BetrVG.
+- Zeugnisstreitigkeit (§ 109 GewO).
+- AGG-Entschädigungsklage (§ 15 AGG).
+- Lohn- und Gehaltsklage.
+- Mobbing und Schadensersatzklage (§ 280 Abs. 1 BGB iVm Schutzpflicht § 241 Abs. 2 BGB).
+
+## Fristen (Auswahl)
+
+- **Kündigungsschutzklage** § 4 KSchG — drei Wochen ab Zugang der schriftlichen Kündigung.
+- **Befristungskontrollklage** § 17 TzBfG — drei Wochen nach vereinbartem Ende.
+- **AGG-Entschädigung** § 15 Abs. 4 AGG — schriftliche Geltendmachung binnen zwei Monaten; Klagefrist § 61b ArbGG drei Monate.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Anhörung des Betriebsrats** § 102 BetrVG — eine Woche bei ordentlicher, drei Tage bei außerordentlicher Kündigung.
+- **Sozialplanverhandlungen** § 112 Abs. 2, 3 BetrVG — Einigungsstelle nach Scheitern.
+
+## Hauptgerichte
+
+- Arbeitsgericht (ArbG) — erste Instanz, Kammern.
+- Landesarbeitsgericht (LAG) — Berufungsinstanz.
+- Bundesarbeitsgericht (BAG) — Revisionsinstanz, Erfurt.
+- BVerfG bei Grundrechtsfragen.
+- EuGH bei unionsrechtlichen Fragen (Befristung, Arbeitszeit, Gleichbehandlung).
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- Arbeitsgemeinschaft Arbeitsrecht im DAV.
+
+## Schnittstellen
+
+- **`arbeitsrecht`** für operative Mandatsführung, Vorlagen.
+- **`kanzlei-allgemein`** für Fristen und Versand.
+- **`fachanwalt-sozialrecht`** bei Schnittstellen zur Arbeitslosenversicherung und Sperrzeit.
+- **`fachanwalt-insolvenz-sanierungsrecht`** bei Betriebsübergang § 613a BGB und Insolvenz.
+
+## Aktuelle Rechtsprechung - Ueberblick wichtiger Leitentscheidungen (Stand Mai 2026)
+
+Folgende Leitentscheidungen sind im aktuellen Plugin-Stand mit offener Quelle (dejure.org / bundesarbeitsgericht.de) belegt:
+
+- **BAG, 23.10.2025 - 8 AZR 300/24** (Paarvergleich Equal Pay): Ein einzelner Vergleichskollege des anderen Geschlechts genuegt zur Vermutung nach § 22 AGG. Siehe Skill `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich`.
+- **BAG, 03.06.2025 - 9 AZR 104/24** (kein Urlaubsverzicht durch Prozessvergleich): Mindesturlaub waehrend laufenden Arbeitsverhaeltnisses nicht disponibel. Siehe Skill `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`.
+- **BAG, 25.03.2026 - 5 AZR 108/25** (Freistellungsklausel unwirksam): Pauschale formularmaessige Freistellungsklausel verstoesst gegen § 307 BGB. Siehe Skill `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`.
+- **BAG, 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22** (Massenentlassung): Fehlerhafte oder verfruehte Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller Kuendigungen. Siehe Skill `fachanwalt-arbeitsrecht-massenentlassung-17-kschg`.
+- **EuGH, 30.10.2025 - C-134/24 und C-402/24** (Massenentlassung): Keine Heilung fehlender oder verfruehter Anzeige nach Kuendigungsausspruch.
+- **BAG, 20.02.2025 - 8 AZR 61/24** (DSGVO-Schadensersatz): "Stoergefuehl" allein begruendet keinen Anspruch nach Art. 82 DSGVO.
+- **BAG, 18.06.2025 - 7 AZR 50/24** (Befristung Betriebsratsmitglieder): § 14 Abs. 2 TzBfG anwendbar; Schadensersatz auf Folgevertrag bei Mandatsbenachteiligung.
+- **BAG, 22.09.2022 - 8 AZR 4/21** (NachweisG): Schadensersatz neben Bussgeld bei Pflichtverletzung des Arbeitgebers nach NachwG.
+- **BAG, 13.09.2022 - 1 ABR 22/21** (Arbeitszeiterfassung): Pflicht des Arbeitgebers zur systematischen Arbeitszeiterfassung aus § 3 Abs. 2 Nr. 1 ArbSchG.
+
+Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de) verifizieren.
+
+## Paragrafenkette Kernbereiche Individualarbeitsrecht
+
+- § 611a BGB — Arbeitsvertrag
+- § 626 BGB — Außerordentliche Kündigung
+- §§ 1 ff. KSchG — Kündigungsschutz; § 4 KSchG — Klagefrist drei Wochen
+- § 102 BetrVG — Betriebsratsanhörung
+- §§ 1, 3 BUrlG — Urlaubsanspruch; § 7 Abs. 3 BUrlG — Verfall
+- § 14 TzBfG — Befristung; § 17 TzBfG — Kontrollklage drei Wochen
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ---
 
@@ -543,666 +638,537 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 
 ---
 
-## Skill: `output-waehlen`
+## Skill: `fachanwalt-arbeitsrecht-betriebsratsanhoerung`
 
-_Output-Wahl für Fachanwalt Arbeitsrecht: stimmt Adressat (Arbeitnehmer, Arbeitgeber, Betriebsrat), Frist (§ 4 KSchG 3 Wochen Kündigungsschutzklage) und Form auf den Zweck ab — typische Outputs: Kündigungsschutzklage, Aufhebungsvertrag-Markup, Vergleichsvorschlag._
+_Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhoerung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhoerungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhoerung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhoerungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg._
 
-# Output wählen
+# Anhörung des Betriebsrats (§ 102 BetrVG)
 
-## Einsatzlage
+## Zweck
 
-Diese Output-Weiche für **Fachanwalt Arbeitsrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+Vollständige und inhaltlich korrekte Betriebsratsanhörung vor jeder Kündigung — aus Arbeitgeber-Sicht als sorgfältige Vorbereitung, aus Arbeitnehmer-Sicht als potenzieller Unwirksamkeitsgrund. Der häufigste Formfehler im deutschen Kündigungsrecht.
 
-## Fachlandkarte dieses Plugins
+## Mandantenfragen — Kaltstart
 
-- `abmahnung-loeschung-personalakte-bag-2-azr-782-11` — Abmahnung Loeschung Personalakte BAG 2 AZR 782 11
-- `aktenzeichen-fehlerkatalog` — Aktenzeichen Fehlerkatalog
-- `ar-aufhebungsvertrag-praxis` — AR Aufhebungsvertrag Konkurrenzklausel
-- `ar-betriebsuebergang-spezial` — AR Betriebsuebergang Spezial Einfuehrung
-- `einstieg-schnelltriage-fallrouting` — AR Kuendigungspruefung Fazugang Arbeitgeber
-- `vergleich-arbeitsgericht-abrechnung` — Arbeitsgericht Abrechnung
-- `aufhebungsvertrag-faires-verhandeln-bag-6-azr-333-21` — Aufhebungsvertrag Faires Verhandeln BAG 6 AZR 333 21
-- `bag-mindesturlaub-kein-verzicht` — BAG
-- `befristung-compliance-dokumentation-und-akte` — Befristung FAO Unwirksam Fristennotiz
-- `befristung-tzbfg` — Befristung Tzbfg BEM Verfahren Fazugang
-- `beteiligung-betriebsrat-102-betrvg` — Beteiligung Betriebsrat Erstgespraech
-- `betriebsrat-zahlen-schwellen-und-berechnung` — Betriebsrat BETRVG Datum
-- `betriebsratswahl-anfechtung-leiharbeit-bag-7-abr-4-21` — Betriebsratswahl Anfechtung Leiharbeit BAG 7 ABR 4 21
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+1. **Gibt es einen Betriebsrat im Betrieb?** — § 1 BetrVG: mindestens 5 wahlberechtigte, 3 wählbare Arbeitnehmer; Betriebsabgrenzung nach § 1 BetrVG beachten.
+2. **Welche Kündigung steht bevor — ordentlich, außerordentlich, Änderungs­kündigung?** — Bestimmt Stellungnahme-Frist und Widerspruchsmöglichkeit.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. **Liegt Sonderkündigungsschutz vor?** — MuSchG, BEEG, SGB IX, Datenschutzbeauftragter: Anhörungsschreiben muss ggf. auf Schwerbehinderung, Schwangerschaft etc. eingehen.
+5. **Gibt es eine betriebsbedingte Kündigung mit Sozialauswahl?** — Vergleichsgruppe und Sozialauswahlentscheidung im Anhörungsschreiben mitteilen; sonst Anhörung unvollständig.
+6. **Ist die Zweiwochenfrist bei außerordentlicher Kündigung gefährdet?** — § 626 Abs. 2 BGB: 2 Wochen ab Kenntnis des Grundes für Arbeitgeber; Anhörung lauft innerhalb dieser Frist.
+7. **Wurde die Anhörung bereits dokumentiert?** — Datum der Übergabe / Zusendung an Vorsitzenden des Betriebsrats (§ 26 Abs. 2 BetrVG); Beginn Stellungnahmefrist.
+8. **Hat der Betriebsrat Widerspruch eingelegt?** — Wenn ja: Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG bis zur Klärung durch Gericht.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Arbeitsweg
+## Rechtsgrundlagen
 
-- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
-- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Fachanwalt Arbeitsrecht (AGG, BetrVG, EntgTranspG, KSchG, TzBfG) einarbeiten.
-- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
-- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
-- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
----
-
-## Skill: `ar-abfindungs-rechner-modular`
-
-_Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG: Abfindungsrechner modular: Faustformel 0 und5 Monatsg..._
-
-# Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG. Beispielrechnung und Mustertext für Aufhebungsvertrag und Vergleich.
-
-### AR: Abfindungs-Rechner (modular)
-
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Abfindungs-Rechner (modular)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einstieg
-Wenn Unterlagen vorliegen, arbeite zuerst damit. Nur die Rückfragen stellen, die für die erste Weiche nötig sind:
-
-1. **Rolle und Mandat:** Vertritt der Anwalt Arbeitnehmer oder Arbeitgeber? Was ist das Ziel — Maximierung, schnelle Einigung, Sperrzeitvermeidung?
-2. **Eckdaten:** Brutto-Monatsgehalt (inkl. regelmäßiger Zulagen), Beschäftigungsdauer in vollen Jahren, Geburtsjahr, Unterhaltspflichten.
-3. **Kündigungsart und -risiko:** Ordentliche oder außerordentliche Kündigung? KSchG anwendbar (§ 23 KSchG: > 10 VZÄ, § 1 KSchG: > 6 Monate)? Welche Angriffspunkte sind erkennbar?
-4. **Fristen und Verfahrensstand:** Klagefrist § 4 KSchG gewahrt? Gütetermin bereits anberaumt?
-5. **Sozialrechtliche Lage:** Wünscht der Mandant nahtlosen Übergang zu ALG I oder ist eine Sperrzeit tolerierbar?
-
-## Rechenlogik — Faustformel und BAG-Linie
-
-### Grundformel
-```
-Abfindung = Brutto-Monatsgehalt × Beschäftigungsjahre × Faktor
-```
-
-| Lage | Faktor |
+| Norm | Inhalt |
 |---|---|
-| Schwache Kündigung (viele Angriffspunkte) | 0,75 – 1,5 |
-| Mittlere Lage | 0,5 (BAG-Orientierungswert) |
-| Starke Kündigung (kaum Angriffspunkte) | 0,25 – 0,4 |
-| Sonderkündigungsschutz (BR, MuSchG, BEEG) | Verhandlungssache; kein gesetzlicher Anspruch |
+| § 102 Abs. 1 S. 1 BetrVG | Anhörungspflicht vor jeder Kündigung |
+| § 102 Abs. 1 S. 3 BetrVG | Unwirksamkeitsfolge bei Unterlassen oder unvollständiger Anhörung |
+| § 102 Abs. 2 BetrVG | Stellungnahmefristen: 1 Woche ordentlich, 3 Tage außerordentlich |
+| § 102 Abs. 3 BetrVG | Widerspruchsgründe gegen ordentliche Kündigung |
+| § 102 Abs. 4 BetrVG | Zustimmungsfiktion bei Schweigen (nach Fristablauf ordentliche Kündigung) |
+| § 102 Abs. 5 BetrVG | Weiterbeschäftigungsanspruch bei Widerspruch + Klage |
+| § 26 Abs. 2 BetrVG | Vertretung durch Vorsitzenden als Empfangsberechtigten |
+| § 79 BetrVG | Verschwiegenheitspflicht; sensible Daten ggf. schwärzen |
 
-**Hinweis:** Die Faustformel folgt der langjährigen Verhandlungspraxis; einen gesetzlichen Anspruch auf Abfindung gibt es nur in § 9 KSchG (Auflösungsantrag), § 1a KSchG (betriebsbedingte Kündigung mit Klageverzicht) und bei einvernehmlichem Aufhebungsvertrag.
+### Leitentscheidungen
 
-### Gesetzliche Obergrenzen § 10 KSchG
-- Grundregel: bis zu 12 Monatsgehälter
-- Bei Vollendung des 50. Lebensjahres und ≥ 15 Jahren Betriebszugehörigkeit: bis zu 15 Monatsgehälter
-- Bei Vollendung des 55. Lebensjahres und ≥ 20 Jahren Betriebszugehörigkeit: bis zu 18 Monatsgehälter
+| Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
+|---|---|---|---|---|
+| BAG, 2. Senat | 2 AZR 302/96 | 27.02.1997 | Subjektive Determinationstheorie: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; aus seiner Sicht objektiv unrichtige oder unvollstaendige Angaben fuehren zur Unwirksamkeit der Anhoerung (§ 102 Abs. 1 S. 3 BetrVG) | dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96 |
+| BAG, 2. Senat | 2 AZR 227/97 | 05.02.1998 | Praezisierung: Mitteilungspflicht umfasst auch dem AG bekannte, fuer den AN guenstige Umstaende, soweit sie objektiv relevant sind | dejure.org-Vernetzung BAG 05.02.1998 - 2 AZR 227/97 |
+| BAG, 2. Senat | 2 AZR 472/01 | 10.10.2002 | Angabe der Sozialdaten bei verhaltensbedingter Kuendigung; Beginn der Stellungnahmefrist bei ergaenzenden Informationen | dejure.org-Vernetzung BAG 10.10.2002 - 2 AZR 472/01 |
 
-### § 1a KSchG — betriebsbedingte Kündigung mit Klageverzicht
-- Arbeitgeber bietet in der Kündigungserklärung Abfindung an (0,5 Monatsgehälter/Jahr)
-- Arbeitnehmer verzichtet auf Kündigungsschutzklage
-- Sperrzeit-Risiko dennoch prüfen; BA urteilt eigenständig
+Hinweis: Aktuellere Entscheidungen (Q4/2025 - Q2/2026) zur Anhoerungs-Substantiierung vor Schriftsatzverwendung in offenen Quellen pruefen.
 
-## Sperrzeit § 159 SGB III
+## Quellenregel
 
-### Sperrzeittatbestände
-- Eigenkündigung oder Aufhebungsvertrag auf Initiative des Arbeitnehmers → 12 Wochen reguläre Sperrzeit
-- Aufhebungsvertrag auf Arbeitgeberinitiative mit „wichtigem Grund" → Sperrzeitbefreiung möglich
-- Entlassungsentschädigung (Abfindung) → verkürzt das ALG I nach § 158 SGB III, wenn Kündigungsfrist unterschritten
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Prüfschema Betriebsratsanhörung
 
-### Wichtiger Grund (Sperrzeitbefreiung)
-Die Bundesagentur für Arbeit (BA) prüft eigenständig: Der Arbeitnehmer muss nachweisen, dass er die Beendigung nicht selbst herbeigeführt hat oder ein anerkannter wichtiger Grund vorlag (z.B. betriebsbedingte Kündigung war unausweichlich, psychische Belastung durch Arbeitssituation, nachgewiesene Pflegesituation).
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-**Quellenregel:** BA-Merkblätter und Dienstanweisungen der BA live prüfen unter bundesagentur.de; keine modellwissensbasierten Sperrzeitformeln ohne aktuellen Quellenbeleg ausgeben.
+| Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
+|---|---|---|---|
+| 1 | Betriebsrat existiert im Betrieb? | § 1 BetrVG | Keine Anhörungspflicht |
+| 2 | Anhörung schriftlich oder in Textform? | § 21a Abs. 2 BetrVG | Formmangel; heilbar? |
+| 3 | Zugang beim Vorsitzenden nachweisbar? | § 26 Abs. 2 BetrVG | Frist-Beginn unklar |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 9 | Stellungnahme abgewartet oder Frist abgelaufen? | § 102 Abs. 2 BetrVG | Kündigung vor Fristablauf = unwirksam |
+| 10 | Bei Widerspruch: § 102 Abs. 5-Anspruch beachtet? | § 102 Abs. 5 BetrVG | Weiterbeschäftigung möglicherweise einklagbar |
 
-## Steuerliche Fünftelregelung § 34 Abs. 1 EStG
+## Mindestinhalt der Anhörung
 
-### Voraussetzungen
-- Außerordentliche Einkünfte (hier: Abfindung als Entschädigung für entgehende Einnahmen)
-- Zusammenballung von Einkünften in einem Veranlagungszeitraum
-- Anwendbar nur, wenn die Abfindung höher als der entgangene Arbeitslohn ist
-
-### Rechenbeispiel (vereinfacht)
-```
-Reguläres Jahreseinkommen: 60.000 €
-Abfindung: 30.000 €
-Steuerpflichtiges Einkommen o. §34: 90.000 €
-Mit Fünftelregelung:
- Fiktives EK = 60.000 + (30.000 / 5) = 66.000 €
- Steuer auf 66.000 = X
- Mehrsteuern auf 66.000 vs. 60.000 = Y → Y × 5 = tatsächliche Steuer auf Abfindung
-```
-
-**Hinweis:** Individuelle Steuerberatung bleibt dem Steuerberater vorbehalten; die anwaltliche Aufgabe ist die Aufklärung über das Instrument und die korrekte Vertragsgestaltung (Abfindung als Entschädigung klar benennen).
-
-## Verhandlungsstrategie und Vergleichsformeln
-
-### Güte- und Kammertermin Arbeitsgericht
-- Streitwert nach § 42 Abs. 2 GKG: ein Vierteljahresverdienst bei Bestandsschutzstreitigkeiten
-- Gerichtliche Vergleiche regeln regelmäßig: Beendigungsdatum, Abfindungshöhe und -fälligkeit, Freistellungszeit, Zeugnisnote, Herausgabe von Unterlagen, etwaige Geheimhaltung
-
-### Muster-Vergleichsformel (Kurzfassung)
-> „Die Parteien sind sich einig, dass das zwischen ihnen bestehende Arbeitsverhältnis durch ordentliche arbeitgeberseitige Kündigung vom [Datum] mit Ablauf des [Beendigungsdatum] geendet hat. Die Beklagte zahlt zur Abgeltung aller gegenseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung an den Kläger eine Abfindung gemäß §§ 9, 10 KSchG in Höhe von [Betrag] brutto, fällig am [Datum]."
-
-### Gegenargumente und Red-Team-Punkte
-- Hat der Arbeitgeber die Sozialauswahl dokumentiert? Fehlt die Dokumentation → Angriffsvektor
-- Wurde der Betriebsrat ordnungsgemäß nach § 102 BetrVG angehört? → Fehler = Unwirksamkeit
-- Massenentlassung § 17 KSchG: Anzeige korrekt und rechtzeitig? (Vgl. BAG 6 AZR 152/22 und EuGH C-134/24)
-- Betriebsgröße knapp bei 10 VZÄ: Leiharbeitnehmer, Teilzeitkräfte korrekt gezählt?
-
-## Anschluss-Skills
-- `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` für vertiefte Sperrzeitprüfung
-- `fachanwalt-arbeitsrecht-kuendigungsschutzklage` für Prüfschema und Klageschrift
-- `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` für Verhandlungsstrategie
-- `spezial-kschg-risikoampel-und-gegenargumente` für Risikoampel
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollständige Mandantenberatung oder steuerliche Beratung.
-- Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
-- Keine Spekulation über individuelle BA-Entscheidungen zur Sperrzeit.
-
----
-
-## Skill: `ar-aufhebungsvertrag-praxis`
-
-_Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff: Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle..._
-
-# Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff. BGB, Widerrufsrecht, Verzicht auf KSchG-Klage, Klauselrisiken. Prüfraster für Verhandlung und Mandantenleitfaden.
-
-### AR: Aufhebungsvertrag in der Praxis
-
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Aufhebungsvertrag in der Praxis` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einstieg
-Wenn Vertragsentwurf vorliegt, diesen zuerst auswerten. Minimalfragen für die erste Weiche:
-
-1. **Initiative:** Wer hat die Beendigung vorgeschlagen — Arbeitgeber oder Arbeitnehmer? (Sperrzeitrelevanz)
-2. **Wirtschaftliche Eckdaten:** Brutto-Monatslohn, Beschäftigungsdauer, Alter, Unterhaltspflichten, voraussichtliche Bezugsdauer ALG I.
-3. **Abfindungsbetrag und -fälligkeit:** Liegt ein konkretes Angebot vor? Entspricht es der Faustformel oder weicht es ab?
-4. **Kündigungsrisiko:** Hätte eine Kündigung Bestand gehabt? Welche Angriffspunkte (BR-Anhörung, Sozialauswahl, Massenentlassung) gibt es?
-5. **Klauselinhalt:** Welche Klauseln enthält der Entwurf (Ausgleichsklausel, Zeugnisnote, Wettbewerbsverbot, Geheimhaltung, Freistellung)?
-
-## Rechtliche Grundstruktur
-
-### Vertragscharakter
-Der Aufhebungsvertrag ist ein privatrechtlicher Auflösungsvertrag nach §§ 311, 241 BGB; er bedarf der Schriftform analog § 623 BGB (str., aber h.M. und risikoarme Praxis). Formfehler → Nichtigkeit nach § 125 BGB.
-
-### AGB-Kontrolle §§ 305–310 BGB
-Arbeitgeberformulare unterliegen der Inhaltskontrolle nach § 307 BGB. Typische unwirksame Klauseln:
-- Pauschale „Abgeltung aller gegenseitigen Ansprüche" ohne Auflistung, wenn Restlöhne unklar sind
-- Rückzahlungsklauseln für Fortbildungskosten ohne angemessene Staffelung (BAG-Linie)
-- Wettbewerbsverbote ohne Karenzentschädigungsregelung (§§ 74 ff. HGB analog)
-- Verfallklauseln, die laufende Ansprüche rückwirkend vernichten
-
-### Widerrufsrecht
-Kein gesetzliches Widerrufsrecht beim Aufhebungsvertrag im Arbeitsverhältnis. Eine kurze Bedenkzeit (mind. 1 Woche, besser schriftlich vereinbart) empfiehlt sich zur Vermeidung von Arglistanfechtung. Bei Abschluss „unter Druck" → Anfechtung nach § 123 BGB prüfen.
-
-## Sperrzeitrisiko § 159 SGB III
-
-### Kernregel
-Wer das Arbeitsverhältnis selbst beendet oder durch vertragswidriges Verhalten Anlass zur Kündigung gegeben hat, riskiert eine Sperrzeit von bis zu 12 Wochen.
-
-### Sperrzeitbefreiung
-Die Bundesagentur für Arbeit prüft eigenständig, ob ein wichtiger Grund vorlag. Anerkannte Gründe in der BA-Praxis:
-- Betriebsbedingte Kündigung war konkret drohend und Aufhebungsvertrag war das wirtschaftlich bessere Ergebnis
-- Gesundheitliche oder familiäre Gründe (dokumentiert)
-- Mobbing oder unzumutbare Arbeitsbedingungen (nachgewiesen)
-
-**Formulierungsregel im Vertrag:** Aufhebungsvertrag auf Initiative des Arbeitgebers klar dokumentieren; „Einvernehmlichkeit" ohne Ursachenbenennung ist gefährlich.
-
-### Ruhenszeitraum § 158 SGB III
-Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist nicht eingehalten oder unterschritten, ruht der ALG-I-Anspruch für einen errechneten Zeitraum. Faustregel: Abfindung ÷ täglichem Bemessungsentgelt = Ruhetage (vereinfacht).
-
-**Quellenregel:** Dienstanweisungen der BA und aktuelle Merkblätter live prüfen auf bundesagentur.de; keine modellwissensbasierten Rechenformeln ohne aktuellen Quellenbeleg.
-
-## Klauselprüfung — Checkliste
-
-| Klausel | Risiko | Empfehlung |
+| Inhaltspunkt | Erforderlich | Beispiel |
 |---|---|---|
-| Ausgleichsklausel „alle Ansprüche" | Erfasst unbewusst noch offene Lohnforderungen, Urlaubsabgeltung | Explizite Ausnahmen benennen |
-| Zeugnisnote | Schlechtere Note als bisher faktisch ausgegeben → Anfechtungsansatz | „gut"-Note mindestens Zielvereinbarung, besser schriftlich fixieren |
-| Freistellungsklausel | Pauschale Klausel unwirksam (BAG 5 AZR 108/25) | Anlassbezogen formulieren, Vergütungsfortzahlung klar regeln |
-| Rückzahlungsklausel Fortbildung | Ohne Staffelung unwirksam (BAG-Linie) | Gestaffelte Rückzahlungspflicht nach Verbleibdauer |
-| Wettbewerbsverbot | Ohne Karenzentschädigung nichtig (§ 74 Abs. 2 HGB analog) | Karenzentschädigung ≥ 50 % der letzten Vergütung vereinbaren |
-| Geheimhaltungsklausel | Zu weit → AGB-Kontrolle; Whistleblowing nach HinSchG nicht ausschließbar | Auf Geschäftsgeheimnisse i.S.d. GeschGehG begrenzen |
+| Vollständiger Name, Geburtsdatum | Ja | "Max Mustermann, geb. 01.01.1980" |
+| Familienstand | Ja | "verheiratet" |
+| Unterhaltspflichten | Ja | "2 Kinder" |
+| Schwerbehinderung | Ja | "GdB 50" oder "keine" |
+| Eintrittsdatum | Ja | "01.09.2015" |
+| Tätigkeit / Abteilung | Ja | "Sachbearbeiter Buchhaltung, Abt. Controlling" |
+| Bruttomonatsvergütung | Ja | "EUR 4.200 brutto" |
+| Kündigungsart und -termin | Ja | "ordentlich zum 31.12.2026" |
+| Kündigungsgründe (konkret) | Ja | Sachverhalt mit Daten, nicht nur Bezeichnung |
+| Sozialauswahl + Vergleichsgruppe | Bei betriebsbedingter Kündigung | Wer im Vergleich, warum Mandant ausgewählt |
+| Abmahnungen (bei verhaltensbedingter) | Ja | Datum, Inhalt, Folge |
+| Krankheitszeiten (bei personenbedingter) | Ja | AU-Tage pro Jahr 2023/2024/2025 |
 
-## Mandantenleitfaden: Entscheidungsmatrix
+## Strategische Optionen (vor dem Template entscheiden)
 
-| Szenario | Empfehlung |
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
 |---|---|
-| Kündigung ist wahrscheinlich unwirksam, Mandant will Bestandsschutz | Aufhebungsvertrag ablehnen; Klage einlegen |
-| Kündigung hat geringe Angriffspunkte, Mandant will schnell Abfindung | Aufhebungsvertrag verhandeln; Sperrzeitgestaltung sorgfältig |
-| Mandant will möglichst hohe Abfindung | Klage einlegen; Gütermin als Verhandlungsplattform nutzen |
-| Mandant hat dringende Anschlussbeschäftigung | Freistellungszeit verhandeln; Beendigungsdatum flexibel halten |
+| Standard — Anhoerungsruege § 102 BetrVG in Klageschrift | Ruege-Baustein nach Template unten |
+| Variante A — Anhoerungsmangel klar und offensichtlich | Auf starke Unwirksamkeit setzen; Vergleich auf hohem Niveau |
+| Variante B — Anhoerung formell ok aber inhaltlich unvollstaendig | Subjektive Determinationstheorie pruefen; Einzelfall-Argumentation |
+| Variante C — Kein Betriebsrat vorhanden | § 102 BetrVG entfaellt; andere Unwirksamkeitsgruende pruefen |
 
-## Prüfschema Aufhebungsvertrag
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-1. **Schriftform** (§ 623 BGB analog) gewahrt?
-2. **Anfechtungsrisiken:** Druck, Täuschung, unzureichende Bedenkzeit?
-3. **AGB-Kontrolle:** Wer hat formuliert? Klauseln nach § 307 BGB prüfen.
-4. **Abfindungsbetrag:** Angemessen im Verhältnis zum Kündigungsrisiko?
-5. **Sperrzeitgestaltung:** Initiative, Formulierung, Beratungsprotokoll?
-6. **Steuer:** Fünftelregelung § 34 EStG; Brutto- oder Nettovereinbarung?
-7. **Zeugnis:** Inhalt, Note, Ausstellungsfrist vereinbart?
-8. **Offene Ansprüche:** Überstunden, Urlaubsabgeltung, Boni, variable Vergütung explizit geregelt?
-9. **Vollständigkeitsklausel:** Welche Ansprüche sind wirklich erfasst?
+## Schreibvorlage Anhörungsschreiben
 
-## Anschluss-Skills
-- `ar-abfindungs-rechner-modular` für Rechenlogik und Verhandlungsformel
-- `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` für vertiefte Sperrzeitprüfung
-- `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` für Verhandlungsstrategie im Gütermin
-- `spezial-freistellungsklausel-sonderfall-und-edge-case` für Klauselprüfung
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für vollständige Mandantenberatung oder steuerliche Beratung.
-- Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
-- Keine individuelle Prognose zur BA-Sperrzeitentscheidung ohne aktuellen Quellenbeleg.
-
-## Aktuelle BAG-Linie 2025/2026 (live verifizieren vor Schriftsatzverwendung)
-
-Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoelf Monaten besonders weit ausstrahlen:
-
-| Entscheidung | Tragende Aussage | Skill-Vertiefung |
-| --- | --- | --- |
-| **BAG, Urt. v. 23.10.2025 - 8 AZR 300/24** | **Equal Pay - Paarvergleich genuegt.** Eine einzige besser bezahlte Vergleichsperson des anderen Geschlechts mit gleicher oder gleichwertiger Arbeit reicht, um die Vermutung des $ 22 AGG auszuloesen. Der Arbeitgeber muss konkret darlegen, dass die Differenz ausschließlich auf objektiven, geschlechtsneutralen Gruenden beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick reichen nicht. Art. 157 AEUV bekommt damit Schaerfe. | `bag-equal-pay-paarvergleich` (fachanwalt-arbeitsrecht) / `bag-equal-pay-paarvergleich-8azr30024` (arbeitsrecht) |
-| **BAG, Urt. v. 03.06.2025 - 9 AZR 104/24** | **Kein Verzicht auf gesetzlichen Mindesturlaub.** Im bestehenden Arbeitsverhaeltnis können Arbeitnehmer:innen auf den gesetzlichen Mindesturlaub nicht wirksam verzichten - auch nicht durch gerichtlichen Vergleich. Gilt selbst dann, wenn die Beendigung bereits feststeht und absehbar ist, dass der Urlaub krankheitsbedingt nicht mehr genommen werden kann. Ausgleichs-/Erledigungs-/Abgeltungsklauseln müssen sauber zwischen gesetzlichem Mindesturlaub, vertraglichem Mehrurlaub und bereits entstandener Urlaubsabgeltung unterscheiden. | `bag-mindesturlaub-kein-verzicht` (fachanwalt-arbeitsrecht) / `bag-mindesturlaub-kein-verzicht-9azr10424` (arbeitsrecht) |
-| **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschäftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
-
-> Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Prüfschemata, Klagebausteine und Verteidigungsmuster.
-
----
-
-## Skill: `ar-einfuehrung-mandantenanliegen`
-
-_Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung: Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Be..._
-
-# Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Fachmodule. Erstgesprächs-Checkliste.
-
-### AR: Einführung — Typische Mandantenanliegen
-
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Einführung — Typische Mandantenanliegen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Kaltstart — Erste Weichen
-Wenn Unterlagen (Kündigung, Vertrag, Zeugnis, Bescheid) vorliegen, diese zuerst auswerten.
-
-1. **Was ist das Kernproblem?** (s. Anliegen-Klassifikation unten)
-2. **Wie ist die Frist?** Gibt es eine laufende 3-Wochen-Klagefrist (§ 4 KSchG) oder AGG-Frist (§ 15 Abs. 4 AGG: 2 Monate)?
-3. **Wer ist der Mandant?** Arbeitnehmer oder Arbeitgeber?
-4. **Was ist das Ziel?** Bestandsschutz, Abfindung, Schadensersatz, Verhaltensänderung, Dokumentation?
-
-## Anliegen-Klassifikation und Erstrouting
-
-### 1. Kündigung
-- **Einschlägig:** §§ 1, 4, 7, 23 KSchG; § 623 BGB (Schriftform); § 102 BetrVG (BR-Anhörung)
-- **Kritische Frist:** 3 Wochen ab Zugang der schriftlichen Kündigung (§ 4 KSchG) — Versäumnis = § 7 KSchG-Fiktion
-- **Sofortmaßnahme:** Zugangsdatum sichern, Schriftform prüfen, KSchG-Anwendbarkeit prüfen (§ 23 KSchG > 10 VZÄ, § 1 KSchG > 6 Monate), Betriebsratsprotokolle anfordern
-- **Routing:** → `fachanwalt-arbeitsrecht-kuendigungsschutzklage`
-
-### 2. Abfindung
-- **Einschlägig:** §§ 9, 10 KSchG (Auflösungsantrag); § 1a KSchG (Klageverzicht); BAG-Faustformel 0,5 × Monatsgehalt × Beschäftigungsjahre
-- **Sperrzeit:** § 159 SGB III bei Aufhebungsvertrag auf Arbeitnehmerinitiative
-- **Routing:** → `ar-abfindungs-rechner-modular`, `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit`
-
-### 3. Zeugnis
-- **Einschlägig:** § 109 GewO (Anspruch auf qualifiziertes Zeugnis); Wohlwollenspflicht des Arbeitgebers (BAG-Linie); Zeugnisformulierungen (Codierungen)
-- **Ansprüche:** Berichtigungs- oder Benotungsklage vor Arbeitsgericht; kurze Verjährungsfrist beachten
-- **Routing:** Individuell nach Zeugnisinhalt; ggf. `workflow-redteam-qualitygate`
-
-### 4. Befristung
-- **Einschlägig:** §§ 14–22 TzBfG; § 17 TzBfG (3-Wochen-Entfristungsklage!); BAG zu sachgrundloser Befristung (§ 14 Abs. 2 TzBfG: max. 2 Jahre, max. 3 Verlängerungen)
-- **Kritische Frist:** 3 Wochen nach vereinbartem Ende (§ 17 TzBfG) für Entfristungsklage
-- **Routing:** → `fachanwalt-arbeitsrecht-befristung-tzbfg`
-
-### 5. Maßregelungsverbot § 612a BGB
-- **Einschlägig:** § 612a BGB; Beweislastverteilung; enger Zusammenhang zwischen rechtmäßiger Ausübung von Rechten und Benachteiligung
-- **Typische Fälle:** Kündigung nach Klage auf Mindestlohn, Kündigung nach Betriebsratsgründungsversuch, Kündigung nach Krankmeldung
-- **Routing:** Sachverhaltsabhängig; ggf. kombiniert mit `fachanwalt-arbeitsrecht-kuendigungsschutzklage`
-
-### 6. Diskriminierung AGG
-- **Einschlägig:** §§ 1–22 AGG; § 22 AGG (Beweislastumkehr bei Indizien); § 15 AGG (Schadensersatz, Entschädigung)
-- **Kritische Frist:** § 15 Abs. 4 AGG: 2 Monate ab Kenntnis der Benachteiligung (Ausschlussfrist!)
-- **Merkmale:** Rasse, Herkunft, Geschlecht, Religion, Behinderung, Alter, sexuelle Identität
-- **Routing:** Sachverhaltsabhängig; ggf. `spezial-entgtranspg-verhandlung-vergleich-und-eskalation` bei Entgeltdiskriminierung
-
-### 7. Lohn / Vergütung
-- **Einschlägig:** §§ 611a, 614, 615 BGB; MiLoG (Mindestlohn, aktuellen Satz live prüfen); Annahmeverzug § 615 BGB; Ausschlussfristen im Arbeitsvertrag prüfen
-- **Typische Streitpunkte:** Nicht bezahlte Überstunden (Nachweis!), Provision, Boni, variable Vergütung, Mindestlohn-Unterschreitung
-- **Routing:** Sachverhaltsabhängig; bei Tarifbindung → Tarifvertrag live prüfen
-
-### 8. Urlaub
-- **Einschlägig:** §§ 1–13 BUrlG; § 7 BUrlG (Übertragung, Verfall); BAG: kein Verfall ohne Hinweis des Arbeitgebers (EuGH-Konformität); Urlaubsabgeltung § 7 Abs. 4 BUrlG; BAG 9 AZR 104/24: kein Urlaubsverzicht durch Prozessvergleich
-- **Routing:** → `spezial-urlaub-livequellen-und-rechtsprechungscheck`
-
-### 9. Betriebsrat und Mitbestimmung
-- **Einschlägig:** BetrVG §§ 87 (echtes Mitbestimmungsrecht), 99 (personelle Einzelmaßnahmen), 102 (Anhörung Kündigung), 111 ff. (Betriebsänderung, Interessenausgleich, Sozialplan)
-- **Typische Mandate:** BR-Beschlüsse anfechten, Zustimmungsverweigerung bei Einstellung, Einigungsstelle, Unterlassungsanspruch
-- **Routing:** → `fachanwalt-arbeitsrecht-betriebsratsanhoerung`, `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung`
-
-## Erstgesprächs-Checkliste
-
-- [ ] Vollständige Personalien und Kontaktdaten
-- [ ] Arbeitgeberbezeichnung, Betriebsgröße (ca. Mitarbeiterzahl)
-- [ ] Beginn des Arbeitsverhältnisses
-- [ ] Letzte Bruttovergütung
-- [ ] Liegt eine schriftliche Kündigung oder ein sonstiger Auslöser vor?
-- [ ] Genaues Datum des Zugangs/Ereignisses (Fristberechnung!)
-- [ ] Welches Ziel hat der Mandant? (Bestandsschutz, Abfindung, Schadensersatz)
-- [ ] Gibt es einen Betriebsrat?
-- [ ] Sonderkündigungsschutz? (Schwangerschaft, Elternzeit, Schwerbehinderung, BR-Mandat)
-- [ ] Welche Unterlagen liegen vor?
-
-## Fristenüberblick (kritisch)
-
-| Frist | Norm | Konsequenz bei Versäumnis |
-|---|---|---|
-| 3 Wochen Kündigungsschutzklage | § 4 KSchG | § 7 KSchG-Fiktion: Kündigung gilt als wirksam |
-| 3 Wochen Entfristungsklage | § 17 TzBfG | Befristung gilt als wirksam |
-| 2 Monate AGG-Geltendmachung | § 15 Abs. 4 AGG | Anspruchsverlust |
-| Ausschlussfristen Vertrag/TV | Je nach Klausel | Anspruchsverlust |
-| 2 Wochen außerordentliche Kündigung | § 626 Abs. 2 BGB | Fristablauf für Arbeitgeber |
-
-## Anschluss-Skills
-Alle Fachmodule des Plugins stehen für die jeweiligen Themen bereit. Nach Klassifikation direkt in den passenden Skill wechseln und dort die fachliche Tiefe aktivieren.
-
-## Was dieser Arbeitsgang nicht macht
-- Keine Tiefenprüfung; dieser Skill ist der Eingangsrouter, nicht die Fachbearbeitung.
-- Keine Festlegung des Mandanten ohne ausdrückliche Entscheidung.
-
----
-
-## Skill: `ar-konkurrenzklausel-spezial`
-
-_Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Freistellung durch Arbeitgeber, Verwirkung, Verstoß und Vertragsstrafe: Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentsc..._
-
-# Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Freistellung durch Arbeitgeber, Verwirkung, Verstoß und Vertragsstrafe
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Freistellung durch Arbeitgeber, Verwirkung, Verstoß und Vertragsstrafe. Prüfraster und Musterklausel.
-
-### AR: Konkurrenzklausel / Nachvertragliches Wettbewerbsverbot (Spezial)
-
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Konkurrenzklausel / Nachvertragliches Wettbewerbsverbot (Spezial)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einstieg
-Wenn Vertragsklausel vorliegt, diese zuerst auswerten. Minimalfragen:
-
-1. **Was liegt vor?** Wettbewerbsverbot im Arbeitsvertrag oder separate Vereinbarung? Zeitraum und räumlicher Umfang?
-2. **Karenzentschädigungsregelung?** Ist eine Entschädigung vereinbart? Beträgt sie mindestens 50 % der zuletzt bezogenen vertraglichen Leistungen?
-3. **Rolle des Mandanten:** Arbeitnehmer (Wirksamkeitsprüfung, Anspruch auf Entschädigung) oder Arbeitgeber (Freistellung, Durchsetzung, Unterlassung)?
-4. **Aktueller Stand:** Arbeitsverhältnis beendet? Aufnahme neuer Tätigkeit bereits erfolgt?
-5. **Schriftform:** Ist die Klausel schriftlich vereinbart und vom Arbeitgeber unterzeichnet? (§ 74 Abs. 1 HGB)
-
-## Rechtsrahmen §§ 74–75d HGB (analog für Angestellte)
-
-### Anwendung auf Arbeitnehmer
-Die §§ 74 ff. HGB gelten unmittelbar für Handlungsgehilfen (§ 59 HGB) und entsprechend für alle Arbeitnehmer. Im Arbeitsverhältnis sind die Vorschriften als zwingendes Mindestrecht anzusehen.
-
-### Wirksamkeitsvoraussetzungen
-
-| Voraussetzung | Norm | Folge bei Fehlen |
-|---|---|---|
-| Schriftliche Vereinbarung mit Arbeitgebersignatur | § 74 Abs. 1 HGB | Nichtigkeit der Klausel |
-| Karenzentschädigung ≥ 50 % der letzten Vergütung | § 74 Abs. 2 HGB | Unverbindlichkeit (§ 74a Abs. 1 HGB) |
-| Berechtigtes Interesse des Arbeitgebers | § 74a Abs. 1 HGB | Unverbindlichkeit |
-| Max. 2 Jahre Dauer | § 74a Abs. 1 HGB | Unverbindlichkeit für die überschießende Zeit |
-| Aushändigung einer Ausfertigungsurkunde | § 74 Abs. 1 HGB | Unverbindlichkeit |
-
-### Unverbindlich vs. Nichtig
-- **Nichtig:** Kein Anspruch auf Entschädigung; Arbeitnehmer muss sich nicht daran halten
-- **Unverbindlich:** Arbeitnehmer kann wählen: sich binden (und Entschädigung verlangen) oder sich lösen
-
-## Karenzentschädigung — Berechnung
-
-### Bezugsgröße
-50 % der zuletzt bezogenen vertragsmäßigen Leistungen (§ 74 Abs. 2 HGB), also:
-- Grundgehalt (Durchschnitt der letzten 12 Monate)
-- Regelmäßige Provisionen und Prämien
-- Geldwerte Sonderleistungen (Dienstwagen zur privaten Nutzung, Zuschüsse)
-- Nicht: unregelmäßige Sonderzahlungen, einmalige Boni
-
-### Anrechnung anderweitigen Erwerbs § 74c HGB
-Anderweitiger Verdienst wird angerechnet, soweit die Summe aus Entschädigung und Erwerb 110 % des letzten Gehalts übersteigt. Arbeitnehmer muss anderweitigen Erwerb mitteilen.
-
-### Musterberechnung
 ```
-Letztes Brutto-Monatsgehalt: 4.000 €
-Zuletzt bezogene Provision (Ø): + 500 €
-Maßgebliche Vergütung: 4.500 €/Monat
-Karenzentschädigung (50 %): 2.250 €/Monat
-Deckungsgrenze (110 %): 4.950 €/Monat
-Neuer Verdienst: 3.500 €/Monat
-Anrechnung (3.500 + 2.250 = 5.750 > 4.950): 800 € werden angerechnet
-Effektive Entschädigung: 1.450 €/Monat
+[Briefkopf Arbeitgeber]
+
+An den Betriebsrat — Herrn/Frau Vorsitzende/n — Im Hause
+                                               [Ort, Datum]
+
+Anhörung gemäss § 102 BetrVG zur beabsichtigten Kündigung
+
+Sehr geehrter Herr / Frau [Vorsitzende/r],
+
+wir beabsichtigen, das Arbeitsverhältnis mit
+[Name, geb. [Datum]], [Tätigkeitsbezeichnung],
+zu kündigen und hören Sie hierzu vor Ausspruch an.
+
+1. Persönliche Daten
+   Name: [Name]
+   Geburtsdatum: [Datum]
+   Familienstand: [verheiratet / ledig / geschieden]
+   Unterhaltspflichten: [Anzahl Kinder; Ehegatte]
+   Schwerbehinderung: [ja, GdB [Grad] / nein]
+
+2. Beschäftigungsdaten
+   Eintritt: [Datum]
+   Tätigkeit: [Bezeichnung]
+   Abteilung: [Bezeichnung]
+   Brutto-Monatsvergütung: EUR [Betrag]
+
+3. Beabsichtigte Kündigung
+   Art: [ordentlich / ausserordentlich / Aenderungs-]
+   Kündigungsfrist: [Dauer]
+   Datum: [Termin]
+
+4. Kündigungsgründe
+   [Vollständige Sachverhaltsschilderung; bei verhaltens-
+   bedingt: Pflichtverletzung + Abmahnung(en) mit Daten +
+   negative Prognose; bei betriebsbedingt: Wegfall des AP,
+   Sozialauswahl Vergleichsgruppe + Ergebnis; bei personen-
+   bedingt: AU-Zeiten mit Daten, Prognose, erhebliche
+   Betriebsbeeinträchtigung]
+
+5. Anlagen
+   [ ] Abmahnung(en) [Datum]
+   [ ] Auswertung AU-Zeiten
+   [ ] Sozialauswahlübersicht
+   [ ] [Sonstiges]
+
+Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
+§ 102 Abs. 2 BetrVG (Frist endet am [Datum]).
+
+[Unterschrift Geschäftsführung / HR-Leitung]
 ```
 
-## Freistellung durch Arbeitgeber
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-### Freistellungsrecht § 75a HGB
-Der Arbeitgeber kann den Arbeitnehmer vor Beendigung des Arbeitsverhältnisses schriftlich vom Wettbewerbsverbot freistellen. Dann:
-- Kein Entschädigungsanspruch ab dem Zeitpunkt der Freistellung
-- Ausnahme: Freistellung in der Absicht, den Arbeitnehmer in seiner wirtschaftlichen Freiheit zu schädigen (treuwidrig)
+## Widerspruchsgründe § 102 Abs. 3 BetrVG
 
-### Freistellungserklärung nach Vertragsende
-Nicht möglich; das Wettbewerbsverbot entsteht mit der Beendigung des Arbeitsverhältnisses.
+| Widerspruchsgrund | Inhalt |
+|---|---|
+| Nr. 1 | Sozialwidrige Auswahl (KSchG-Verstoss) |
+| Nr. 2 | Freier Arbeitsplatz im Betrieb oder anderen Unternehmen |
+| Nr. 3 | Umschulung oder Weiterbildung möglich |
+| Nr. 4 | Weiterbeschäftigung unter geänderten Arbeitsbedingungen nach Zustimmung |
+| Nr. 5 | Widerspruch eines anderen Betriebsrats dem dieser zugeordnet ist |
 
-## Verstoß und Rechtsfolgen
+**Wichtig:** Widerspruch nur gegen **ordentliche** Kündigung möglich; gegen außerordentliche Kündigung kein gesetzliches Widerspruchsrecht.
 
-### Arbeitgeber-Seite
-- Unterlassungsanspruch + Schadensersatz (§§ 74b, 280 BGB)
-- Vertragsstrafe, wenn vereinbart (AGB-Kontrolle beachten: Höhe muss angemessen sein)
-- Einstweilige Verfügung beim Arbeitsgericht
+## Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG
 
-### Arbeitnehmer-Seite bei Verstoß
-- Verlust des Entschädigungsanspruchs für die Zeit des Verstoßes
-- Schadensersatzpflicht; bei Vereinbarung einer Vertragsstrafe diese als Mindestsatz
+- Voraussetzungen: wirksamer Widerspruch des BR nach § 102 Abs. 3 + Kündigungsschutzklage des Arbeitnehmers
+- Arbeitgeber muss Arbeitnehmer bis zur Klärung des Kündigungsstreits weiterbeschäftigen
+- AG kann Befreiung beantragen, wenn Kündigung offensichtlich wirksam, Weiterbeschäftigung unverhältnismäßig belastend
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### AGB-Kontrolle Vertragsstrafe
-Klauseln mit Vertragsstrafe unterliegen § 307 BGB. Unangemessen hoch → Reduzierung auf das zulässige Maß (nicht Nichtigkeit im Arbeitsrecht, da § 343 BGB-Kontrolle durch Gericht).
+## Beweislast und Darlegungslast
 
-## Prüfschema Konkurrenzklausel
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Arbeitnehmer** bei Anhörungsrüge: muss konkreten Mangel darlegen (z.B. fehlende Sozialauswahl, nicht genannte Abmahnung).
+- Einwand "subjektiv vollständig": Arbeitgeber kann geltend machen, er habe gutgläubig alle ihm bekannten Gründe mitgeteilt.
 
-1. Schriftform und Aushändigung gewahrt? (§ 74 Abs. 1 HGB)
-2. Karenzentschädigung vereinbart? Mindestens 50 %?
-3. Dauer max. 2 Jahre?
-4. Berechtigtes Interesse des Arbeitgebers erkennbar? (§ 74a Abs. 1 HGB)
-5. Ergebnis: Nichtig / Unverbindlich / Verbindlich?
-6. Wenn verbindlich: Anrechnungsberechnung nach § 74c HGB
-7. Wenn Verstoß behauptet: Beweis des Verstoßes, Schadensberechnung, Vertragsstrafe
+## Typische Anhörungsmängel in der Praxis
 
-## Muster: Freistellungserklärung (Kurzform)
-> „Die [Arbeitgeberin] erklärt hiermit, die [Arbeitnehmerin / den Arbeitnehmer] mit sofortiger Wirkung von dem im Arbeitsvertrag vom [Datum] vereinbarten nachvertraglichen Wettbewerbsverbot freizustellen. Die Pflicht zur Zahlung der Karenzentschädigung entfällt ab dem [Datum] der Zustellung dieser Erklärung."
+| Mangel | Häufigkeit | Heilung |
+|---|---|---|
+| Sozialauswahl nicht erwähnt | Sehr häufig | Nein — führt zu Unwirksamkeit |
+| Abmahnung nicht beigefügt | Häufig | Ggf. wenn aus Gründen beschrieben |
+| Kündigung vor Fristablauf ausgesprochen | Mittel | Nein — absoluterMangel |
+| Schwerbehinderung nicht erwähnt | Häufig | Führt zu Anhörungsmangel wenn bekannt |
+| Übergabe nicht an Vorsitzenden | Selten | Fristlauf zweifelhaft |
 
 ## Anschluss-Skills
-- `ar-aufhebungsvertrag-praxis` wenn das Wettbewerbsverbot in einen Aufhebungsvertrag eingebettet ist
-- `spezial-freistellungsklausel-sonderfall-und-edge-case` für Freistellungsklausel und AGB-Prüfung
-- `workflow-redteam-qualitygate` für kritische Klauselprüfung
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für vollständige Mandantenberatung.
-- Keine individuelle Steuerberatung zur Versteuerung der Karenzentschädigung.
-- Keine Aussage über gewerblichen Rechtsschutz oder Betriebsgeheimnis (§§ 1 ff. GeschGehG) ohne separaten Prüfauftrag.
+- `fachanwalt-arbeitsrecht-kuendigungsschutzklage` — Klageerhebung nach Anhörungsmangel
+- `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` — bei parallelem Beschlussmangel
+- `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` — bei kombinierter Kündigung und Freistellung
+
+## Quellen
+
+- BetrVG §§ 1, 26, 79, 102
+- KSchG §§ 1, 4
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Fitting BetrVG-Kommentar § 102; DKKW BetrVG § 102
+
+<!-- AUDIT 27.05.2026
+-->
 
 ---
 
-## Skill: `befristung-compliance-dokumentation-und-akte`
+## Skill: `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit`
 
-_Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs: Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbef..._
+_Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen § 159 SGB III wichtiger Grund Sperrzeitentscheidung § 623 BGB Schriftform § 14 KSchG Klagefrist. Prüfraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg._
 
-# Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs
+# Aufhebungsvertrag mit Sperrzeit-Vermeidung
 
+## Zweck
 
-## Arbeitsweg
+Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch die Bundesagentur für Arbeit erleidet (§ 159 SGB III).
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1) Eingangs-Abfrage
 
-**Fokus:** Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist § 17 TzBfG.
+1. Wer initiiert? Arbeitgeber oder Arbeitnehmer?
+2. Drohende **betriebsbedingte Kündigung**? Konkretisierbar?
+3. Beschaeftigungsdauer und Brutto-Jahresgehalt?
+4. Anwendbarkeit KSchG (Betrieb > 10 AN, > 6 Monate Beschaeftigung)?
+5. Sonderkündigungsschutz (BR, Schwerbehindert, Schwanger, Eltern)?
+6. Bestehende Krankheit, BEM-Verfahren?
+7. Eltern- / Pflegezeit?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persönlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-### Spezial: Befristung — Compliance, Dokumentation und Akte
+## 2) Sperrzeit-Vermeidung — wichtige Konstellationen
 
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Befristung — Compliance, Dokumentation und Akte` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+### Konstellation A: Drohende ordentliche AG-Kündigung
 
-## Einstieg
-Wenn ein befristeter Arbeitsvertrag oder eine Verlängerungsvereinbarung vorliegt, zuerst prüfen:
+Rechtsprechungsstand: BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmaessigen ordentlichen betriebsbedingten Kuendigung des AG bei eingehaltener Kuendigungsfrist begruendet wichtigen Grund i.S.d. § 159 SGB III. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
 
-1. **Schriftform:** Befristungsabrede schriftlich vereinbart und vor Dienstantritt unterzeichnet?
-2. **Sachgrund oder ohne Sachgrund?** § 14 Abs. 1 (mit Sachgrund) oder § 14 Abs. 2 (sachgrundlos)?
-3. **Vorbeschäftigung:** War der Arbeitnehmer schon früher beim gleichen Arbeitgeber beschäftigt?
-4. **Laufzeit und Verlängerungen:** Wie oft und wie lange wurde befristet?
-5. **Klagefrist:** Ist das Arbeitsverhältnis bereits beendet? Wenn ja: 3-Wochen-Frist § 17 TzBfG?
+- AG hätte ordentlich kündigen koennen (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
+- Beendigungszeitpunkt nicht früher als bei ordentlicher Kündigung
+- Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschaeftigungsjahr (Fachliche Weisungen BA zu § 159 SGB III, Stand 01.01.2024, arbeitsagentur.de)
 
-## § 14 Abs. 4 TzBfG — Schriftform als Wirksamkeitsvoraussetzung
+**Folge**: keine Sperrzeit.
 
-### Grundregel
-Die Befristung eines Arbeitsvertrages bedarf zu ihrer Wirksamkeit der Schriftform (§ 14 Abs. 4 TzBfG i.V.m. § 126 BGB). Die Befristungsabrede muss schriftlich vereinbart sein, bevor der Arbeitnehmer seine Arbeit aufnimmt.
+### Konstellation B: Drohende verhaltensbedingte Kündigung
 
-### Kritische Praxis-Fehler
-- **Fehler 1:** Schriftlicher Vertrag wird dem Arbeitnehmer nach Arbeitsbeginn zugesandt — dann ist die Befristungsabrede unwirksam, obwohl der Vertrag schriftlich ist.
-- **Fehler 2:** Verlängerungsvereinbarung erst nach Ablauf der bisherigen Befristung unterzeichnet — dann ist die Verlängerung eine Neubefristung ohne Schriftform.
-- **Fehler 3:** Nur der Arbeitgeber unterzeichnet; Arbeitnehmer unterschreibt später — dann liegt kein Vertragsschluss vor Dienstantritt vor.
+- Schwieriger zu argumentieren, da AN-Mitverschulden
+- Bei klarer Pflichtverletzung mit AG-Abmahnung: ggf. wichtiger Grund
 
-### Dokumentations-Checkliste Schriftform
-- [ ] Befristungsabrede im Vertrag eindeutig bezeichnet?
-- [ ] Vertragsschluss (beidseitige Unterschrift) vor Aufnahme der Tätigkeit?
-- [ ] Bei Verlängerung: neue Vereinbarung vor Ablauf des alten Vertrages?
-- [ ] Kopie des unterzeichneten Vertrages in der Akte?
+### Konstellation C: AN-Initiative aus betrieblichen Gründen
 
-## § 14 Abs. 1 TzBfG — Sachgrundbefristung
+- AN moechte selbst gehen — keine Sperrzeit-Vermeidung
+- Ausnahme: wichtiger Grund (Mobbing, Lohnverzug, Gesundheitsgefährdung)
 
-### Zulässige Sachgründe (nicht abschließend)
-1. Vorübergehender betrieblicher Bedarf
-2. Anschluss an eine Ausbildung oder ein Studium
-3. Beschäftigung zur Vertretung (Vertretungsbefristung)
-4. Eigenart der Arbeitsleistung (z.B. Saisonarbeit)
-5. Erprobung
-6. Gründe in der Person des Arbeitnehmers (z.B. eigener Wunsch)
-7. Haushaltsmittelfinanzierung (öffentlicher Dienst)
-8. Gerichtlicher Vergleich
+## 3) Faustformel Abfindung
 
-### Dokumentationsanforderungen je Sachgrund
+```
+Abfindung = 0,5 Brutto-Monatsentgelte × Beschaeftigungsjahre
+```
 
-**Vertretungsbefristung (§ 14 Abs. 1 Nr. 3 TzBfG):**
-- Vertretener Arbeitnehmer und Grund für dessen Abwesenheit im Vertrag oder in der Personalakte dokumentieren
-- BAG-Linie: Indirekte Vertretung ist zulässig (organisatorischer Zusammenhang genügt), aber der Zusammenhang muss nachvollziehbar sein
-- Kettenbefristungen bei Vertretungen: Ab einer gewissen Anzahl und Dauer kann das BAG missbräuchliche Gestaltung annehmen (live prüfen)
+- 5 Jahre Betriebszugehoerigkeit, 4.000 EUR Brutto: 0,5 × 5 × 4.000 = 10.000 EUR
+- 20 Jahre, 6.000 EUR: 0,5 × 20 × 6.000 = 60.000 EUR
 
-**Erprobung (§ 14 Abs. 1 Nr. 5 TzBfG):**
-- Maximal 6 Monate als Richtwert; danach fehlt objektiver Erprobungszweck
-- Keine Wiederholung der Erprobung für denselben Arbeitnehmer bei gleicher Stelle
+**Verhandlungs-Spielraum**: 0,75-1,5 Brutto-Monatsgehaelter pro Jahr bei aelteren AN oder schwacher AG-Position.
 
-## § 14 Abs. 2 TzBfG — Sachgrundlose Befristung
+## 4) Steuer: Fünftel-Regelung § 34 EStG
 
-### Voraussetzungen
-- Keine vorherige Beschäftigung beim gleichen Arbeitgeber (§ 14 Abs. 2 Satz 2 TzBfG: Anschlussverbot)
-- Maximaldauer: 2 Jahre
-- Maximale Verlängerungen: 3 Mal innerhalb der 2 Jahre
+- Abfindung kann nach **Fünftel-Regelung** versteuert werden, wenn Zusammenballung
+- Voraussetzung: Abfindung in einem VZ ausgezahlt
+- Antrag in Steuererklärung
+- Bei AN mit niedrigerem Einkommen besonders attraktiv
 
-### Anschlussverbot — kritische Punkte
-Das Anschlussverbot gilt nach BAG-Entscheidung von 2011 für jede frühere Beschäftigung beim selben Arbeitgeber, unabhängig wie lang zurück. Dies war später in der Instanzrechtsprechung umstritten; aktuelle BAG-Linie vor Ausgabe live prüfen.
+## 5) Krankenversicherung in der Karenzzeit
 
-**Dokumentations-Checkliste sachgrundlose Befristung:**
-- [ ] Keine Vorbeschäftigung beim selben Arbeitgeber? (Prüfung mit Ergebnis dokumentieren)
-- [ ] Gesamtdauer ≤ 2 Jahre?
-- [ ] Anzahl der Verlängerungen ≤ 3?
-- [ ] Bei Verlängerung: nur Dauer verlängert, keine anderen Änderungen (Aufgaben, Vergütung)?
+- Falls AN zu Arbeitslosigkeit zwischen Ausscheiden und neuer Stelle: KV über **Arbeitslosengeld** möglich
+- Bei kurzem Arbeitswechsel: Familienversicherung oder freiwillige KV
+- **Achtung**: bei Sperrzeit kein ALG -> KV-Liquidität prüfen
 
-### Achtung: Verlängerung ist keine inhaltliche Änderung
-Eine Verlängerung der sachgrundlosen Befristung ist nur zulässig, wenn ausschließlich die Dauer verlängert wird. Jede inhaltliche Änderung (andere Stelle, höheres Gehalt, andere Abteilung) macht die Verlängerung zu einer Neubefristung — die dann einen Sachgrund benötigt.
+## 6) Klausel-Katalog Aufhebungsvertrag
 
-## § 17 TzBfG — Entfristungsklage und Frist
+### Pflicht-Klauseln
 
-### Dreiwöchige Klagefrist
-Arbeitnehmer, der die Wirksamkeit der Befristung angreifen will, muss innerhalb von 3 Wochen nach dem vereinbarten Ende des befristeten Arbeitsverhältnisses Klage auf Feststellung erheben, dass das Arbeitsverhältnis aufgrund der Befristung nicht beendet ist.
+- Beendigungs-Zeitpunkt
+- Abfindung mit Fälligkeit (typisch mit letztem Gehalt)
+- Erledigungsklausel (sämtliche Anspruche erledigt)
+- Zeugnis-Anspruch (mind. "gut")
 
-**Fristversäumnis:** Befristung gilt als wirksam (§ 17 TzBfG analog § 7 KSchG).
+### Soll-Klauseln
 
-### Kettenbefristung und Missbrauchsprüfung
-BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gestaltung vorliegt. Indizien:
-- Sehr hohe Gesamtdauer (> 5–7 Jahre)
-- Sehr viele aufeinanderfolgende Befristungen
-- Stets gleiche Aufgabe
-- Kein sachlicher Grund für die Befristung erkennbar
+- **Freistellung** unter Anrechnung Resturlaub
+- Verzicht Kündigungsschutzklage
+- Wettbewerbsverbot ggf. mit Karenz-Entschädigung
+- Outplacement-Kostenübernahme
+- **Sperrzeit-Klausel**: "AG bestätigt, dass der Aufhebungsvertrag zur Vermeidung einer ordentlichen Kündigung aus betriebsbedingten Gründen geschlossen wird."
 
-## Dokumentationsplan für Compliance
+### Sprachregelung
 
-| Dokument | Inhalt | Aufbewahrung |
-|---|---|---|
-| Befristungsvertrag | Schriftliche Befristungsabrede, Sachgrund (wenn vorhanden), Dauer | Personalakte, unbegrenzt |
-| Verlängerungsvereinbarung | Nur Zeitverlängerung; vor Ablauf unterzeichnet | Personalakte |
-| Vorbeschäftigungsprüfung | Ergebnis der Prüfung (keine Vorbeschäftigung) | Personalakte |
-| BR-Information § 99 BetrVG | Zustimmung oder Fiktion bei befristeter Einstellung | Gremienakte |
+- "Betriebsbedingte Kündigung waere ausgesprochen worden" (Sperrzeit-Schutz)
+- Vermeiden: "AN bittet um Aufhebung" (Sperrzeit-Risiko)
 
-## Anschluss-Skills
-- `fachanwalt-arbeitsrecht-befristung-tzbfg` für Tiefenprüfung Befristungsrecht
-- `spezial-tzbfg-schriftsatz-brief-und-memo-bausteine` für Schriftsatzbausteine
-- `workflow-fristen-und-risikoampel` für Fristenkontrolle
+### Schlussabsatz Variante A (kooperativ)
 
-## Was dieser Arbeitsgang nicht macht
-- Keine Beratung zu wissenschaftlichen Befristungen nach WissZeitVG.
-- Keine Prüfung besonderer öffentlich-rechtlicher Befristungsregeln (Beamtenrecht, öffentlicher Dienst spezifisch).
+Wir sind an einer einvernehmlichen und zügigen Lösung interessiert und stehen für Rückfragen zur Formulierung der Sperrzeit-Klausel zur Verfügung. Eine konstruktive Einigung nutzt beiden Seiten.
+
+### Schlussabsatz Variante B (formal-streng)
+
+Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Sperrzeit-Vermeidung. Abweichungen von der vorgeschlagenen Formulierung bedürfen der ausdrücklichen Zustimmung unserer Kanzlei und werden auf Sperrzeit-Konformität geprüft.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## 7) Workflow
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+### Schritt 1 — Mandanten-Beratung
+
+- Sperrzeit-Risiko anhand BA-Hinweise prüfen
+- Abfindungs-Verhandlungsrahmen
+- Alternative: Kündigungsschutzklage + Vergleich
+
+### Schritt 2 — Vor-Verhandlung
+
+- Mit AG-Vertretung (HR, Rechtsabteilung) Eckpunkte
+- Schriftliche Entwurfs-Verhandlung
+
+### Schritt 3 — Bundesagentur-Anfrage (optional)
+
+- Wenn unsicher: Vorab-Sperrzeit-Anfrage bei BA
+- Antwort innerhalb 4-6 Wochen
+
+### Schritt 4 — Abschluss
+
+- Schriftform zwingend (§ 623 BGB)
+- Notar: nicht erforderlich
+- Sofort an BA als Arbeitslosmeldung (3 Monate vor Ende empfohlen)
+
+## 8) Typische Fehler
+
+1. **Sperrzeit-Klausel vergessen**: BA kann trotzdem Sperrzeit verhängen
+2. **Abfindung > 0,5 Faustformel**: BA-Risiko erhoeht
+3. **Eigene Kündigung statt Aufhebung**: Sperrzeit fast garantiert
+4. **Sonderkündigungsschutz übersehen**: Aufhebungsvertrag kann unwirksam sein (Schwangerschaft, BR-Mitglied)
+5. **Wettbewerbsverbot ohne Karenz**: bei laufendem Vertrag schaedlich
+
+## 9) BSG-Linien
+
+- **BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R**: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmaessigen betriebsbedingten Kuendigung des Arbeitgebers begruendet wichtigen Grund i.S.d. § 144 SGB III a.F. (= heute § 159 SGB III), sofern die Hinnahme der Kuendigung dem Arbeitnehmer nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
+- **BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R**: Praezisierung der Anforderungen an die "objektive Rechtmaessigkeit" der drohenden Kuendigung; die Drohung muss konkret und ernsthaft sein. Quelle: dejure.org, Vernetzung BSG 02.05.2012 - B 11 AL 6/11 R.
+- **BSG, Urteil vom 17.11.2005 - B 11a/11 AL 69/04 R**: Sondernutzen fuer leitende Angestellte; vermeidende Aufhebungsvereinbarung. Quelle: dejure.org.
+- Fachliche Weisungen der Bundesagentur fuer Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
+- Praxisliterature und neueres BSG-Aktenzeichen ohne offene Quelle nicht zitieren.
+
+## Anschluss
+
+- `fachanwalt-arbeitsrecht-kuendigungsschutzklage` — bei Klage statt Aufhebung
+- `fachanwalt-arbeitsrecht-bem-verfahren` — bei Krankheit
+- `testakten/kuendigungsschutzklage-weber-techlogix` — Testakte
+
+## Aktuelle Rechtsprechung (Stand Mai 2026)
+
+- BSG, 12.07.2006 - B 11a AL 47/05 R: wichtiger Grund bei drohender objektiv rechtmaessiger betriebsbedingter Kuendigung mit eingehaltener Frist. Quelle: dejure.org.
+- BSG, 02.05.2012 - B 11 AL 6/11 R: Drohung muss konkret und ernsthaft sein. Quelle: dejure.org.
+- Hinweis: Weitere BSG-Entscheidungen (Q4/2025 - Q2/2026) konnten zum Stand der Aktualisierung nicht ueber dejure.org/openjur.de mit Volltext und konkretem Aktenzeichen verifiziert werden. Anwaltlicher Beratungsstandard: Pruefung der jeweils aktuellen Fachlichen Weisungen der BA zu § 159 SGB III.
+
+## Paragrafenkette
+
+- § 159 SGB III — Sperrzeit
+- § 158 SGB III — Ruhen bei Abfindung (wenn Kündigungsfrist nicht eingehalten)
+- § 623 BGB — Schriftform Aufhebungsvertrag
+- § 34 EStG — Fünftel-Regelung
+- § 138 BGB — Sittenwidrigkeit; § 123 BGB — Anfechtung
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+---
+
+## Skill: `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg`
+
+_Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren § 9 KSchG Auflösungsantrag § 10 KSchG Abfindungsobergrenzen § 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie._
+
+# Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich
+
+## Zweck
+
+Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 % aller arbeitsrechtlichen Verfahren enden im Vergleich). Schwerpunkt Abfindungs-Strategie, BA-Sperrzeit-konforme Formulierung, Mediations-Sonderfälle.
+
+## Eingaben
+
+- Mandantenstatus (AG / AN)
+- Streitgegenstand (Kündigung KSchG, Aufhebung, Befristung TzBfG, Diskriminierung AGG)
+- Bestand Beschäftigungsverhältnis (Dauer, Brutto-Monatsverdienst)
+- KSchG-Anwendbarkeit (Betrieb > 10 AN, > 6 Mon. Beschäftigung)
+- Sperrzeit-Risiko BA bei Aufhebungsvertrag
+- Beziehungs-Kontext (kollegialer Frieden vs. eskalativer Bruch)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persönlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtlicher Rahmen
+
+- **§ 54 ArbGG** — Güteverhandlung (Pflicht-Termin)
+- **§ 9 KSchG** — Auflösung des Arbeitsverhältnisses durch Urteil gegen Abfindung (auf Antrag, wenn Fortsetzung unzumutbar)
+- **§ 10 KSchG** — Abfindungsobergrenzen (Regelfall bis 12 Monatsverdienste; bei langer Betriebszugehörigkeit oder höherem Alter bis 15 bzw. 18 Monatsverdienste)
+- **§ 1a KSchG** — Abfindungsanspruch bei betriebsbed. Kündigung (Hinweis im Kündigungsschreiben)
+- **§ 159 SGB III** — Sperrzeit bei Aufhebungsvertrag (12 Wochen)
+- **DurchführungsAnweisungen BA** zur Faustformel (0,5 Brutto/Beschäft.-Jahr)
+- **§ 1 TVG** — Tarifliche Abfindungsregelungen
+- **§ 779 BGB** — Vergleich
+
+### Leitentscheidungen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Kommunikations-/Verhandlungs-Pfade
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+### Pfad 1 — Vorgerichtliche Anwaltskorrespondenz
+
+- Anwalt-Schreiben mit Kündigungs-Beanstandung + Vergleichsangebot
+- Frist 7-14 Tage
+- Bei Erfolg: außergerichtlicher Aufhebungsvergleich; Klagefrist § 4 KSchG gewahrt durch eventuelle Klage-Bereitschaft
+
+### Pfad 2 — Güte-Verhandlung § 54 ArbGG
+
+- Pflicht-Termin nach Klageerhebung
+- Erörterung durch Vorsitzenden allein (ohne ehrenamtliche Richter)
+- Vergleichsvorschlag durch Vorsitzenden
+- Niederschrift = vollstreckbar nach § 794 Abs. 1 Nr. 1 ZPO
+
+### Pfad 3 — Mediation in Sonderfällen
+
+- Bossing/Mobbing-Fälle
+- Eingruppierungs-Konflikte mit BR
+- AGG-Schwerstfälle mit Wertekonflikt
+- Externe Mediator/in (DGFM)
+
+## Abfindungs-Faustformel
+
+| Faktor | Ansatz |
+|---|---|
+| Standard (BA-konform) | 0,5 × Brutto × Beschäft.-Jahre |
+| Hartes Verhandeln AN | 0,75 × Brutto × Beschäft.-Jahre |
+| Sehr lange Betriebszugehörigkeit / höherer Alter | 1,0 × Brutto × Beschäft.-Jahre |
+| Sozialpfan-Abfindung | Tarif-/BV-spezifisch |
+
+## Sperrzeit-Vermeidung BA (kritisch)
+
+- AG-initiierte Beendigung dokumentieren ("Wir hätten ordentlich gekündigt aus betriebsbedingten Gründen")
+- Abfindung **nicht höher als 0,5 Brutto × Beschäft.-Jahre**
+- Beendigungs-Zeitpunkt entspricht ordentl. Kündigungs-Fristen
+- Sprachregelung: NIE "AN bittet um Aufhebung" — IMMER "AG bietet Aufhebung als Alternative zur Kündigung"
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Abfindungsverhandlung in Güteverhandlung | Vergleichsverhandlung nach § 54 ArbGG; Klausel-Katalog unten |
+| Variante A — AG signalisiert Vergleichsbereitschaft vor Termin | Vorab-Settlement vor Güteverhandlung um Streitwert zu reduzieren; außergerichtlicher Vergleich anstreben |
+| Variante B — Mandant will tatsächlich zurück an den Arbeitsplatz | Standhafte Bestandsforderung; kein Abfindungsangebot annehmen ohne Bestandsprüfung |
+| Variante C — Mandant zieht Annahmeverzugslohn der Abfindung vor | Auflaufende Annahmeverzugslohn-Strategie statt Einmalabfindung; § 615 BGB Anspruch sichern |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzulösen — nicht das Mandat in das Schema zu pressen.
+
+## Vergleichs-Klausel-Katalog
+
+```
+1. Beendigung [Datum]
+2. Abfindung EUR [...] in entsprechender Anwendung der Abfindungsregeln §§ 9 und 10 KSchG
+3. Freistellung Abfindung mit Anrechnung Resturlaub
+4. Zeugnis: mindestens "gut", Schluesselformulierungen [konkret]
+5. Erledigungs-Klausel: saemtliche Anspruche aus Arbeitsverhaeltnis erledigt
+6. Kuendigungsschutzklage zuruecknehmen / Klage als erledigt erklaeren
+7. Sperrzeit-Verzicht-Erklaerung (formaler Hinweis nicht moeglich, aber:
+   "betriebsbedingte Kuendigung waere ausgesprochen worden")
+   [ggf. weglassen wenn keine Sperrzeit-Relevanz]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen an, diesen Vergleich noch vor dem Gütetermin zu unterzeichnen und
+den Termin einvernehmlich aufzuheben. Eine frühzeitige Einigung spart beiden
+Seiten Kosten und ermöglicht einen geordneten Abschluss.
+
+Schlussabsatz Variante B (formal-streng):
+Eine Einigung ist nur auf Basis des vorliegenden Entwurfs möglich. Abweichungen
+bedürfen einer gesonderten schriftlichen Vereinbarung. Andernfalls wird das
+Verfahren ohne Einschränkung fortgeführt.
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Strategie und Taktik
+
+- **Wer fordert zuerst, gewinnt selten** — AG-Vorschlag zuerst abwarten
+- **Anchor mit hoher Forderung**: 1,5 × Brutto, dann auf 1,0 herunter verhandeln
+- **Outplacement** als Zusatzwert (5.000-15.000 EUR)
+- **Karenzentschädigung Wettbewerb** wenn klausel-relevant
+- **Bei AGG-Klagen**: Schadensersatz-Schmerzensgeld als separate Position
+- **Sozialplan-Abfindung** kollektiv-rechtlich oft günstiger; nicht mit Individualvergleich kombinieren ohne Klärung
+
+## Querverweise
+
+- `fachanwalt-arbeitsrecht-orientierung` — Triage
+- `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` — Vertiefung
+- `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` — Sonderfall
+
+## Quellen und Updates
+
+Stand: 05/2026. § 54 ArbGG, KSchG, SGB III. BAG-Linien zur Faustformel. Bei BAG-Linien-Bildung zur HinSchG-Repressalie-Beweislastumkehr separat.
+
+## Aktuelle Rechtsprechung (Stand Mai 2026)
+
+Vergleichs- und abfindungsrelevante Leitentscheidungen:
+
+- **BAG, 03.06.2025 - 9 AZR 104/24**: Pauschale Erledigungsklausel im Vergleich erfasst den gesetzlichen Mindesturlaub nicht; Mindesturlaub gesondert ausweisen. Quelle: dejure.org-Vernetzung.
+- **BAG, 25.03.2026 - 5 AZR 108/25**: Pauschale Freistellungsklausel unwirksam (§ 307 BGB); im Vergleich konkret formulieren. Quelle: dejure.org-Vernetzung.
+- **BSG, 12.07.2006 - B 11a AL 47/05 R**: Sperrzeit-Vermeidung bei drohender, objektiv rechtmaessiger betriebsbedingter Kuendigung und eingehaltener Frist; Faustformel-Abfindung (0,25 - 0,5 BMG/Beschaeftigungsjahr) marktueblich. Quelle: dejure.org-Vernetzung.
+- Faustformel zur Abfindung: 0,5 BMG x Beschaeftigungsjahre (KSchG-Verhandlungsmaszstab); Verhandlungsspielraum 0,25 - 1,5 BMG je nach Prozesschance, Bestandsrisiko und Alter / Schwerbehinderung.
+- Vor Vergleichsabschluss aktuelle Rechtsprechung in offenen Quellen pruefen.
+
+## Paragrafenkette
+
+- § 54 ArbGG — Gütetermin (Pflicht)
+- § 9 KSchG — Auflösungsantrag
+- § 10 KSchG — Abfindungsobergrenzen (12/15/18 Monatsverdienste)
+- § 1a KSchG — gesetzlicher Abfindungsanspruch bei betriebsbedingter Kündigung
+- § 779 BGB — Vergleich
+- § 794 Abs. 1 Nr. 1 ZPO — vollstreckbarer Prozessvergleich
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ---
 

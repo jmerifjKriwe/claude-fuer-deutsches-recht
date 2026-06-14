@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 79 Skills des Plugins `schoeffen-handelsrichter-praxis`.
+Dieser Megaprompt enthaelt top-10 von 80 Skills des Plugins `schoeffen-handelsrichter-praxis`.
 
 ## Inhaltsverzeichnis
 

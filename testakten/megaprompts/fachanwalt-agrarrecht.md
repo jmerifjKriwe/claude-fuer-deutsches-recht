@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `fachanwalt-agrarrecht`.
+Dieser Megaprompt enthaelt top-10 von 78 Skills des Plugins `fachanwalt-agrarrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Agrarrecht: ordnet Rolle (Landwirt, Verpächter/Pächter, Behörde), markiert F…
 2. **mandat-triage-agrarrecht** — Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Förderung Tierhaltungs-Genehmig…
-3. **orientierung-fachanwaltschaft-mandat** — Anwalt will überblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung…
-4. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- …
-5. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-6. **milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg** — Nachhaftung des Verpaechters fuer rueckwirkende Milchquote-Rueckforderungen mit Paragraf 14 MOG und EuGH C-275/05 Alvis …
-7. **agrar-foerderung-gap-strategieplan** — GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen EL…
-8. **agrar-mandantenfragen-typisch** — Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwohnerstreit, …
-9. **agrar-wolfsschaden-spezial** — Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Ant…
-10. **sammelantrag-gap-checkliste** — Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vol…
+3. **fachanwalt-agrarrecht-orientierung** — Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierun…
+4. **orientierung-fachanwaltschaft-mandat** — Anwalt will überblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung…
+5. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- …
+6. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+7. **fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung** — Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und muessen Einigung außergerichtlich versuchen. Prüfraster P…
+8. **fachanwalt-agrarrecht-hoefe-uebergabe** — Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswer…
+9. **fachanwalt-agrarrecht-duenge-ordnungswidrigkeit** — Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bußgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufze…
+10. **fachanwalt-agrarrecht-gap-direktzahlungen-antrag** — Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelung…
 
 ---
 
@@ -224,6 +224,112 @@ LwVG §§ 1 ff. (Zuständigkeit Landwirtschaftsgericht) → § 70 VwGO (Widerspr
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+---
+
+## Skill: `fachanwalt-agrarrecht-orientierung`
+
+_Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg._
+
+# Fachanwalt für Agrarrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 30 Fälle in den letzten drei Jahren, davon mindestens 15 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Höferecht | HöfeO (Nordrhein-Westfalen Niedersachsen Schleswig-Holstein Hamburg) Anerbenrechte anderer Länder |
+| Landpacht | BGB §§ 581 ff. (Landpachtvertrag) §§ 585 ff. (Landpachtverträge über landwirtschaftliche Grundstücke) LPachtVG (Landpachtverkehrsgesetz) |
+| Grundstücksverkehr | GrdstVG (Grundstücksverkehrsgesetz) Genehmigungspflicht bei Verkauf landwirtschaftlicher Flächen |
+| EU-Agrarpolitik | GAP EU-Direktzahlungen-Verordnung 2021/2115 Konditionalitaet Cross-Compliance |
+| Duenge- und Pflanzenschutz | DueV (Düngeverordnung) PflSchG (Pflanzenschutzgesetz) |
+| Tierschutz | TierSchG TierSchNutztV |
+| Tierseuchen | TierGesG |
+| Naturschutz | BNatSchG (Bundesnaturschutzgesetz) NatSchG Land |
+| Wasser | WHG (Wasserhaushaltsgesetz) |
+| Forst | BWaldG Landesforstgesetze |
+| Agrar-Förderung | EU-Gemeinschaftliche Strategien Agrarförderung Land |
+
+## Typische Mandate
+
+- Hofübergabe / Erbsachen mit landwirtschaftlichem Bezug
+- Landpachtstreit Kündigung Pachtzins Pachtverlängerung
+- Grundstücksverkehr Genehmigungsverfahren nach GrdstVG
+- EU-Förderbescheide Direktzahlung Cross-Compliance-Korrektur
+- Düngeverordnung-Verstöße
+- Tierseuchen-Bescheide Tierseuchen-Tilgung
+- Pflanzenschutzmittel-Rückruf
+- Naturschutz-Streit Eingriffsregelung
+
+## Fristen
+
+- **Hofübergabe** Hofbezugnahme nach Erbfall — siehe Höfeordnung Anerbenrechte.
+- **Landpachtkündigung** § 585 BGB iVm Landpachtvertrag (oft jaehrlich zu festgelegten Terminen).
+- **GrdstVG** Genehmigungsverfahren läuft über Landwirtschaftsbehörde.
+- **Widerspruch gegen Förderbescheid** ein Monat (VwGO § 70 / SGG § 84 je nach Behörde).
+
+## Hauptforen
+
+- **Landwirtschaftsgericht** (beim AG / LG je Bundesland — Landwirtschaftsverfahren-Gesetz LwVG).
+- **Verwaltungsgericht** bei öffentlich-rechtlichen Förderbescheiden.
+- **BGH** Senat für Landwirtschaftssachen (V. Zivilsenat).
+- **EuGH** bei GAP-Vorabentscheidungen.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- Deutsche Gesellschaft für Agrarrecht.
+
+## Schnittstellen
+
+- **fachanwalt-erbrecht** bei Hofübergabe.
+- **fachanwalt-verwaltungsrecht** bei Förderbescheiden.
+- **kanzlei-allgemein** Fristen Versand.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Paragrafenkette (Überblick Agrarrecht)
+
+BGB §§ 581-597 (Landpacht) → LPachtVG (Pachtverkehr, Genehmigung) → GrdstVG (Grundstücksverkehr) → HöfeO §§ 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → VO (EU) 2021/2115 + 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG i.V.m. DüV (Düngerecht) → BNatSchG §§ 13 ff. (Naturschutz, Eingriffsregelung) → § 35 BauGB (Außenbereich landwirtschaftliche Privilegierung) → TierSchG, TierGesG → LwVG (Verfahren Landwirtschaftsgericht)
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Fristen-Übersicht
+
+| Verfahren | Frist | Norm |
+|---|---|---|
+| Widerspruch Förderbescheid | 1 Monat | § 70 VwGO |
+| Klage VG (nach Widerspruch) | 1 Monat | § 74 VwGO |
+| GAP-Mehrfachantrag | 15. Mai | GAPInVeKoSG |
+| Pachtanzeige LPachtVG | 1 Monat nach Vertragsschluss | § 2 LPachtVG |
+| Grundstücksverkehr-Genehmigung | Antrag vor Vollzug | § 2 GrdstVG |
+| Nachabfindungsfrist HöfeO | 20 Jahre ab Übergabe | § 13 HöfeO |
+
+## Triage — Orientierungs-Routing Agrarrecht
+
+1. **Hofrecht / Erbfall** → `fachanwalt-agrarrecht-hoefe-uebergabe`, `landpacht-und-hoferbfolge-pruefen`
+2. **Landpachtstreit** → `fachanwalt-agrarrecht-pachtvertrag-streitig`
+3. **GAP-Förderung / Direktzahlungen** → `fachanwalt-agrarrecht-gap-direktzahlungen-antrag`, `fachanwalt-agrarrecht-eu-agrarfoerderung`
+4. **Düngerecht / OWiG** → `fachanwalt-agrarrecht-duenge-ordnungswidrigkeit`
+5. **Tierhaltungsgenehmigung** → `fachanwalt-agrarrecht-tierhaltung-genehmigung`
+6. **Wolfsentnahme / Naturschutz** → `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg`
 
 ---
 
@@ -583,271 +689,37 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg`
+## Skill: `fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung`
 
-_Nachhaftung des Verpaechters fuer rueckwirkende Milchquote-Rueckforderungen mit Paragraf 14 MOG und EuGH C-275/05 Alvis und BVerwG 3 C 38.06 als Loesungsweg. Prüfraster fuer den typischen Fall verpachtete Milchquote vor 2015 mit nachtraeglicher EU-Rueckforderung._
+_Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und muessen Einigung außergerichtlich versuchen. Prüfraster Pachtvertrags-Vergleich LPachtVG Pachtanpassung § 593 BGB Landwirtschaftskammer-Schlichtung. ADR-Wege Hofuebergabe-Mediation Schlichtungsformate im Pachtgewerbe. Normen §§ 581 ff. BGB § 593 BGB Pachtanpassung LPachtVG. Output Verhandlungs-Strategie-Memo Schlichtungsantrag Vergleichs-Skript. Abgrenzung: fachanwalt-agrarrecht-pachtvertrag-streitig für streitiges Gerichtsverfahren._
 
-# Milchquote Nachhaftung Rueckforderung Paragraf 14 Marktordg
+# Verhandlung und Schlichtung im Agrarrecht
 
-## Einsatzlage
+## Zweck
 
-Verpaechter A hatte bis 2015 Milchquoten an Paechter B verpachtet. Nach Auslaufen der EU-Milchquotenregelung mahnt die Bundesanstalt für Landwirtschaft und Ernaehrung BLE 2024 Rueckforderungen aus angeblicher Ueberlieferung 2013/14 an. Wer haftet?
-
-## Normenanker
-
-- § 14 MARKTORDG
-- §§ 585 ff. BGB
-- § 9 GrdstVG
-- § 16a TierSchG
-- § 13a DüV
-- § 906 BGB
-
-## Rechtsprechungsanker und Quellenhygiene
-
-- EuGH 25.10.2007 C-275/05 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
-- BVerwG 27.04.2017 3 C 38/06 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
-
-## Prüfprogramm
-
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
-
-## Arbeitsergebnis
-
-1. Quoteninhaber 2013/14 = formell Eingetragener.
-2. Verpachtungsvertrag prüfen: Klausel zur Superabgabe vorhanden?
-3. Wenn ja: Innenregress gegen Paechter aus Vertrag.
-4. Wenn nein: Prüfe Paragraf 313 BGB Wegfall der Geschäftsgrundlage; Quotenmarkt 2015 weggefallen.
-5. Verjaehrung: 3 Jahre Paragraf 195 BGB ab Ueberlieferungsjahr.
-
-## Belege und Aktenlücken
-
-- Lieferzettel Molkerei.
-- Quotenbescheid 2013/14.
-- Pachtvertrag mit Datum.
-
----
-
-## Skill: `agrar-foerderung-gap-strategieplan`
-
-_GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung: GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einko..._
-
-# GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung. Antragsweg über Bewilligungsstelle des Landes, Cross-Compliance, GLOEZ. Prüfraster und Mustertexte.
-
-### Agrar: GAP-Förderung
-
-## Spezialwissen: Agrar: GAP-Förderung
-- **Normen-/Quellenanker:** GAP, EU, ELER, GLOEZ.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `agrar-mandantenfragen-typisch`
-
-_Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss: Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwoh..._
-
-# Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss. Entscheidungstabelle und Verweis auf Detail-Skills.
-
-### Agrar: Mandantenfragen Routing
-
-## Spezialwissen: Agrar: Mandantenfragen Routing
-- **Normen-/Quellenanker:** GLOEZ.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `agrar-wolfsschaden-spezial`
-
-_Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Antrag bei Bewilligungsstelle, Klage bei Versagung: Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedig..._
-
-# Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Antrag bei Bewilligungsstelle, Klage bei Versagung
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Antrag bei Bewilligungsstelle, Klage bei Versagung. Mustertexte und aktuelle Rechtsprechung VG.
-
-### Agrar: Wolfsschaden
-
-## Spezialwissen: Agrar: Wolfsschaden
-- **Normen-/Quellenanker:** BNatSchG, VG.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `sammelantrag-gap-checkliste`
-
-_Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind: Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben volls..._
-
-# Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Praemie Flaechen-Identifikator FID Kulturarten HIT-Datenbank. Korrektur bis 31. Mai Anpassung bis 30. September Sanktionen Cross-Compliance Vor-Ort-Kontrolle. Output Checkliste mit Ampel-Status und Fehler-Korrektur-Anleitung Selbstanzeige-Möglichkeit. Abgrenzung: fachanwalt-agrarrecht-eu-agrarfoerderung für Widerspruch gegen Foerderbescheid.
-
-### Sammelantrag GAP — Checkliste
+Kommunikations- und Verhandlungsstrategie für agrarrechtliche Mandate: Landpacht-Anpassungen, Hofübergabe-Konflikte, Förderstreitigkeiten BLE/EGFL/ELER, Wolfsrisse-Entschädigungs-Verhandlung. Schwerpunkt auf den agrarrechtlich typischen Schlichtungs- und Vergleichsorganen — Landwirtschaftskammer, Bauernverband, Pachtrichter beim Landwirtschaftsgericht.
 
 ## Mandantenfragen — Kaltstart
 
-1. **Werden Pachtflächen bewirtschaftet?** — Pachtverträge müssen auf Antragsteller laufen, Anzeige nach § 2 LPachtVG erforderlich; fehlende Pachtdokumentation kann zum Flächen-Aberkennung führen.
-2. **Haben sich Flächenzuschnitte oder Kulturarten gegenüber dem Vorjahr geändert?** — Neue Feldblock-IDs oder Flächenverkleinerungen müssen korrekt eingetragen werden; häufigste Fehlerquelle.
-3. **Wird Dauergrünland bewirtschaftet?** — GLÖZ 1 verlangt Erhaltung, Umbruch nur mit Genehmigung; Verstoß führt zu Kürzungen und ggf. Rückforderung mehrerer Jahre.
-4. **Plant der Betrieb Öko-Regelungen zu beantragen?** — Freiwillig, aber erst bis Antragstellung wählbar; Rücknahme nach Stichtag mit Kürzungsrisiko.
-5. **Ist der Betriebsinhaber unter 40 Jahre alt?** — Junglandwirts-Förderung: Prüfung Erstmäßigkeit der Niederlassung und Antrag zeitgebunden.
-6. **Haben Vor-Ort-Kontrollen im Vorjahr stattgefunden?** — Befunde aus Vorjahr beeinflussen Risikoklassifizierung und Sanktionshöhe in laufendem Jahr.
-7. **Gibt es laufende Förderverpflichtungen ELER (Agrarumweltmaßnahmen, Vertragsnaturschutz)?** — Auflagen sind im Sammelantrag zu bestätigen; Abweichungen führen zu Rückzahlungspflichten.
-8. **Wurde die Düngeverordnung vollständig eingehalten?** — GAB 1 (Grundanforderungen Betriebsführung) knüpft an Düngeverordnung; Verstoß = Konditionalitäts-Kürzung.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. **Was ist das Streitziel — Vertragsbeendigung oder Fortführung?** — Fundamentaler Unterschied in der Strategie; bei Fortführungswillen ist Schlichtung zwingend voranzustellen.
+2. **Wie lange bestehen die Vertragsbeziehungen?** — Langjährige Pacht- und Familien­beziehungen verlangen behutsame Kommunikation; harte Konfrontation zerstört langfristige Kooperation.
+3. **Gibt es eine Schiedsklausel im Pachtvertrag?** — Schiedsvertrag bindet die Parteien; VG-Klageweg ausgeschlossen.
+4. **Wurde bereits LWK-Schlichtung beantragt?** — § 23 LwVG-Pflichtversuch vor Klage; ggf. Klage unzulässig ohne Nachweis.
+5. **Was ist das wirtschaftliche Interesse des Mandanten?** — Jährliche Pachtdifferenz x verbleibende Laufzeit = Barwert des Streits; Kosten-Nutzen vor Klage prüfen.
+6. **Haben Dritte (Kinder, Geschwister) Interesse am Hof?** — Hofstreitigkeiten in Erbengemeinschaft erfordern notarielle Auseinandersetzungs-Vereinbarung.
+7. **Laufen parallele Förderverfahren?** — Bei laufenden ELER-Verpflichtungen Streit um Pacht­preis mit Rückforderungsrisiko verknüpft; Koordination nötig.
+8. **Ist ein Herdenschutzstreit (Wolf) parallel anhängig?** — Entschädigungs-Verhandlung mit dem Land läuft über andere Behörden als Pachtrecht.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Rechtsgrundlagen
+## Rechtlicher Rahmen
 
-### Europäische Verordnungen
-
-- **VO (EU) 2021/2115** — GAP-Strategieplan-VO: Grundlage der neuen GAP ab 2023; Direktzahlungen (Basisprämie, Umverteilungsprämie, Junglandwirts-Prämie), Öko-Regelungen (Art. 31), Konditionalität (Art. 11–13), GLÖZ-Standards (Anhang III).
-- **VO (EU) 2021/2116** — Horizontale VO: InVeKoS-System, Vor-Ort-Kontrollen, Sanktionen, Verspätungskürzungen (Art. 40: 1 % pro Werktag bis 25 Tage, danach vollständiger Ausschluss).
-- **VO (EU) 2022/126** — Delegierte VO zu GLÖZ-Standards.
-
-### Nationales Recht
-
-- **GAPDZG** (GAP-Direktzahlungengesetz) — Umsetzung der Direktzahlungen in Deutschland, Struk­turierung Basisprämie, Umverteilungsprämie, Junglandwirts-Zuschuss.
-- **GAPInVeKoSG** (GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetz) — Durchführung InVeKoS, Beihilfeanträge, Kontrollen.
-- **GAPKondV** (GAP-Konditionalitätsverordnung) — Konkretisierung GLÖZ-Standards und GAB für Deutschland.
-- **§§ 40 ff. LwG (Landesrecht)** — Ergänzende Landesvorschriften, insb. zu Widerspruchsverfahren.
-- **§ 41 VwVfG** — Bekanntgabefiktion (vier Tage nach Aufgabe zur Post seit PostModG 1.1.2025; vorher drei Tage): relevant für Fristberechnung Widerspruch.
+- **§ 593 BGB** — Pachtzins-Anpassung: beidseitig; Maßstab ortsübliche Pacht, LWK-Statistik als Anhaltspunkt.
+- **§ 2 LPachtVG** — Anzeigepflicht Pachtvertrag.
+- **§ 4 LPachtVG** — Beanstandungsrecht der LWK; schützt vor ungesunder Bodenverteilung.
+- **§ 13 LwVG** — Landwirtschaftsgericht beim Amtsgericht: ausschließliche Zuständigkeit für Pacht- und Höfe-Sachen.
+- **§ 23 LwVG** — Pflichtiger Schlichtungsversuch: Klage unzulässig ohne vorherigen Schlichtungsversuch.
+- **§ 278 ZPO** — Güteverhandlung; gilt auch im Landwirtschaftsgericht.
+- **§ 24 BBodSchG** — Kostenausgleich bei Bodensanierung; relevant bei Kontext Altlasten-Streit.
 
 ### Leitentscheidungen
 
@@ -855,185 +727,202 @@ _Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und wil
 |---|---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+## Kommunikations-Pfade
 
-## Prüfschema Sammelantrag
+### Pfad 1 — Landwirtschaftskammer-Schlichtungsstelle
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+- In den meisten Bundesländern eingerichtet (LWK Niedersachsen, NRW, RLP, BW)
+- Außergerichtliche Schlichtung in Pacht- und Förder-Sachen
+- Vorteil: agrarpolitisch erfahrene Schlichter, oft Landwirte oder Berater
+- Kosten: Kammergebühren 100–500 EUR
+- Typische Dauer: 4–8 Wochen bis Einigung oder Protokoll des Scheiterns
 
-| Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
-|---|---|---|---|
-| 1 | Antragsfrist — Eingang bis 15. Mai? | Art. 40 VO 2021/2116 | 1 % Kürzung je Werktag |
-| 2 | Flächen vollständig — alle Feldblock-IDs vorhanden? | § 5 GAPInVeKoSG | Aberkennung nicht gemeldeter Flächen |
-| 3 | Pachtflächen mit Pachtvertrag unterlegt? | § 2 LPachtVG | Fläche nicht anerkennungsfähig |
-| 4 | Kulturarten korrekt codiert? | Art. 4 VO 2021/2116 | Systemfehler, automatische Sanktion |
-| 5 | GLÖZ 1 Dauergrünland erhalten / kein Umbruch? | Anhang III VO 2021/2115 | Kürzung bis 100 % Direktzahlung |
-| 6 | GLÖZ 8 Nicht-produktive Fläche ≥ 4 %? | GAPKondV § 8 | Konditionalitäts-Kürzung 5 % |
-| 7 | Öko-Regelungen ausgewählt und bedingungsgerecht? | Art. 31 VO 2021/2115 | Rückforderung Öko-Prämie |
-| 8 | Junglandwirts-Status: unter 40 Jahre + Erstmäßigkeit? | Art. 30 VO 2021/2115 | Verlust Junglandwirts-Zuschuss |
-| 9 | HIT-Eintrag Tierdaten korrekt zum Stichtag? | § 27 ViehVerkV | Aberkennung tierbezogener Prämien |
-| 10 | ELER-Verpflichtungen bestätigt? | § 65 GAPInVeKoSG | Rückzahlungspflicht 5-Jahres-Förderung |
-| 11 | GAB-Anforderungen (Düngung, Pflanzenschutz, Tierschutz) eingehalten? | GAPKondV §§ 3–10 | GAB-Kürzung bis 5 % |
-| 12 | Korrekturfrist 31. Mai beachtet falls Fehler erkannt? | Art. 40 VO 2021/2116 | Nachkorrektur ohne Kürzung nur bis 31.5. |
+### Pfad 2 — Bauernverband-Vermittlung
 
-## Konditionalität (Cross Compliance neu) — GLÖZ-Standards
+- Bei innerverbandlichen Konflikten oder zwischen Verbandsmitgliedern
+- Informell; Vorteil: persönliches Vertrauen, grundsätzlich kostenlos
+- Keine Vollstreckung des Einigungsergebnisses ohne notarielle Urkunde
 
-### Guter Landwirtschaftlicher und Ökologischer Zustand
+### Pfad 3 — Pachtrichter und Landwirtschaftsgericht § 23 LwVG
 
-| GLÖZ | Inhalt | Prüfpunkt |
-|---|---|---|
-| GLÖZ 1 | Erhaltung Dauergrünland (max. 5 % Rückgang national) | Umbruch nur mit LWK-Genehmigung |
-| GLÖZ 2 | Schutz Feuchtgebiete und Torfböden | Keine Neudrainierung |
-| GLÖZ 3 | Verbot Verbrennung von Stoppeln | Nach Ernte Mulchen oder Einarbeitung |
-| GLÖZ 4 | Mindestbodenbedeckung in sensiblen Zeiträumen | Winterbegrünung oder Mulchauflage |
-| GLÖZ 5 | Bodenerosions-Management | Hanglage: Schlaglänge begrenzen |
-| GLÖZ 6 | Mindestbodenbedeckung Herbst/Winter | Winterbegrünung ab 1.11. |
-| GLÖZ 7 | Fruchtwechsel (mind. zwei Kulturen jährlich) | Ausnahmen Dauergrünland und bestimmte Ökobetriebe |
-| GLÖZ 8 | Nicht-produktive Fläche ≥ 4 % (ab 2025 tatsächlich 3 % mit Öko-Bonus) | Stilllegung, Brache, Blühstreifen |
-| GLÖZ 9 | Erhalt Landschaftselemente (Hecken, Bäume, Teiche) | Keine Beseitigung ohne Genehmigung |
+- Pflichtiger Schlichtungsversuch vor Klage in Pacht- und Höfe-Sachen
+- Landwirtschaftsgericht beim AG (mit ehrenamtlichen landwirtschaftlichen Beisitzern § 2 LwVG)
+- Vergleich vor Pachtrichter ist vollstreckbarer Titel (§ 794 Abs. 1 Nr. 1 ZPO)
+- Verfahren: Schriftlicher Antrag → Ladung beider Parteien → Schlichtungstermin → Protokoll
+- Bei Scheitern: Bescheinigung für Klage-Zulässigkeit
 
-### Grundanforderungen Betriebsführung (GAB 1–10)
+### Pfad 4 — Mediation Hofübergabe
 
-- GAB 1: Nitratrichtlinie / Düngeverordnung
-- GAB 4: Tierschutz Nutztierhaltung
-- GAB 7/8: Pflanzenschutzmittelrecht
-- GAB 10: Wasserrahmenrichtlinie / Gewässerschutz
+- Familieninterne Mediation bei Hofnachfolge; Mediator oft aus LWK-Beratungsdienst oder freier Mediator (§§ 1 ff. MediationsG)
+- Gesprächsstruktur: Bedürfnisse der Übernehmer, der weichenden Erben, der Übergeber
+- Ergebnis: Hofübergabe-Vertrag notariell mit Altenteil, Wohnrecht, Rückforderungsklauseln, Pflichtteilsverzicht
+- Steuervorteil: Befreiung § 13 Abs. 1 Nr. 4a ErbStG bei Betriebsübernahme
 
-### Sanktionen bei Verstoß
+### Pfad 5 — BLE / Landwirtschaftsamt-Korrespondenz
 
-- Erstverstoß: 3 % Standard (kann auf 1 % reduziert oder auf 5 % erhöht werden nach Schwere)
-- Wiederholung: dreifache Erhöhung (bis 15 %)
-- Vorsatz: bis 100 % der Gesamtzahlung
+- Bei Förder-Streitigkeiten (GAP, ELER, Cross-Compliance-Kürzung)
+- Widerspruch → Widerspruchsbescheid → VG-Klage
+- Viele Fälle sind außergerichtlich einigungsfähig bei konkreter Sachverhalts-Darlegung
 
-## Öko-Regelungen 2023 (freiwillig, Art. 31 VO 2021/2115)
+## Workflow
 
-| Öko-Regelung | Inhalt | Prämie ca. |
-|---|---|---|
-| ÖR 1 | Nicht-produktive Flächen / Landschaftselemente ≥ 10 % | ~45 EUR/ha |
-| ÖR 2 | Vielfältige Kulturen (mind. 4) mind. 10 % je Kultur | ~38 EUR/ha |
-| ÖR 3 | Agroforst beibehalten (Bäume auf Ackerland) | ~60 EUR/ha |
-| ÖR 4 | Extensivierung Dauergrünland — kein Grünland-Umbruch | ~115 EUR/ha |
-| ÖR 5 | Ergebnisorientierte Extensivierung (Blütenindex) | variabel |
-| ÖR 6 | Verzicht auf chemisch-synthetische Pflanzenschutzmittel | ~75 EUR/ha |
-| ÖR 7 | Streuobstflächen | ~600 EUR/ha |
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-**Wichtig:** ÖR und GLÖZ können bei Überschneidung kumuliert werden. Kombination mit ELER-Agrarumweltmaßnahmen nur soweit keine Doppelförderung.
+
+### Phase 1 — Sachverhalts-Klärung mit Mandant
+
+- Konflikthistorie (oft jahrelange Beziehung)
+- Wirtschaftliche Tragweite (Hof-Existenz vs. einmaliger Schaden)
+- Beziehungs-Diagnose (Können Parteien künftig kooperieren?)
+- Gewünschtes Ergebnis (Anpassung vs. Beendigung)
+
+### Phase 2 — Vorgerichtliche Korrespondenz
+
+- Anwaltsschreiben an Gegenseite: Sachverhaltsdarstellung ohne Vorwürfe
+- Vergleichs-Angebot mit konkreter Zahl + Frist (typisch 21 Tage)
+- Androhung Schlichtungsantrag + ggf. Klage
+
+### Phase 3 — Schlichtungsversuch § 23 LwVG
+
+- Schriftlicher Antrag beim Landwirtschaftsgericht (oder LWK)
+- Vorab: Sachverhalts-Kurzdarstellung + Angebot
+- Anhörung beider Parteien durch Pachtrichter
+- Vergleichsvorschlag durch Pachtrichter
+- Protokoll bei Scheitern (Voraussetzung Klage-Zulässigkeit)
+
+### Phase 4 — Klage (bei Scheitern)
+
+- Klage Landwirtschaftsgericht (Wert bis 5.000 EUR: AG; darüber: LG mit Kammer für Handelssachen — nein; Landwirtschaftssache: AG-Landwirtschaftsgericht als Sonderkammer)
+- Beweisaufnahme (ortsübliche Pacht durch LWK-Statistik + Sachverständiger)
+- Zwischenurteil bei Frist-Fragen
+
+### Phase 5 — Vollstreckung / Umsetzung
+
+- Vergleichs-Vollstreckung über § 794 ZPO
+- Bei Hofübergabe: notarielle Beurkundung des Übergabevertrags
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — GAP-Sammelantrag prüfen und unterstuetzen | Prüfschema GLOEEZ-Standards; Schriftsatzbaustein Widerspruch unten |
-| Variante A — Widerspruch gegen Bescheid noetig | Schriftsatzbaustein unten; Frist 1 Monat ab Bekanntgabe |
-| Variante B — erstmaliger Antrag ohne Vorjahr-Erfahrung | Vollstaendiges Checklistenprogramm; keine Elemente weglassen |
-| Variante C — Sanktionsbescheid nach GLOEEZ-Verstoss | Stufige Argumentation; Verhältnismäßigkeit prüfen |
+| Standard — Landpachtkonflikt verhandeln | Fuenfstufiger Pfad-Ueberblick; Schriftsatzbausteine unten |
+| Variante A — beide Seiten einigungsbereit | Direkter Pfad 1 (Schlichtungsstelle) ohne Gericht |
+| Variante B — Pachtverhaeltnis sehr festgefahren | Gerichtlicher Weg § 23 LwVG vorbereiten |
+| Variante C — Hofuebergabe involviert | Pfad 4 Mediation Hofuebergabe; familienrechtliche Aspekte beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Schriftsatzbaustein — Widerspruch gegen Förderbescheid
+## Schriftsatz-Bausteine
+
+### Außergerichtliches Anpassungs-Schreiben § 593 BGB
 
 ```
-An das Amt für Agrarordnung / Landwirtschaftskammer [Land]
-[Anschrift] [Ort, Datum]
+[Kanzlei]                                           [Ort, Datum]
 
-Widerspruch gegen Förderbescheid
+[Gegenseite]
+[Anschrift]
 
-Bescheid: Nr. [Bescheid-Nr.] vom [Datum], zugestellt am [Datum]
-Mandant/in: [Name, Betriebsnummer]
+Pachtvertrag vom [Datum], Flur [Bezeichnung]
+Anpassungs-Verlangen § 593 BGB
 
-In dem vorbezeichneten Verfahren lege ich namens und in
-Vollmacht meines Mandanten
+Sehr geehrte Damen und Herren,
 
- Widerspruch
+aus dem Pachtvertrag vom [Datum] ueber [ha] [Kulturart]
+machen wir namens und in Vollmacht unserer Mandantschaft
+den Anpassungs-Anspruch nach § 593 BGB geltend.
 
-ein und bitte um Aussetzung der sofortigen Vollziehung, soweit
-der Bescheid bereits Kürzungen vorsieht.
+Seit Vertragsschluss ist die ortsübliche Vergleichspacht
+in der Region [Region] von [Betrag EUR/ha] auf
+[Betrag EUR/ha] gestiegen (LWK-Pachtstatistik [Jahr],
+Gutachterausschuss-Beschluss [Nr.]). Die Differenz beträgt
+[EUR/ha × ha × Laufzeit = Gesamtbetrag].
 
-Begründung:
+Wir bitten um Zustimmung zur Anpassung auf
+EUR [neuer Betrag] je Hektar ab [Datum].
 
-1. Flächenanerkennung [Feldblock-ID]:
- Der Bescheid erkennt [Fläche] ha weniger an als beantragt.
- Die beantragte Fläche entspricht der im aktuellen
- Liegenschaftskataster eingetragenen Größe von [ha].
- Beigefügt: Katasterauszug, Pachtvertrag, GPS-Messung.
+Im Falle keiner Einigung binnen [21 Tage] werden wir
+Schlichtungsversuch nach § 23 LwVG beim Landwirtschafts-
+gericht [Ort] anregen.
 
-2. GLÖZ-Kürzung:
- Die Kürzung wegen angeblichem GLÖZ-[Nr.]-Verstoß ist
- unbegründet. Konkret: [Sachverhalt; Nachweis Einhaltung].
-
-3. Verspätungskürzung:
- Der Antrag ist am [Datum] eingegangen. Die Frist endete am
- [15. Mai]. Die Verzögerung beruht auf [Krankheit/Höhere
- Gewalt]. Wir beantragen Verlängerung gemäß Art. 40 Abs. 4
- VO (EU) 2021/2116.
-
-Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
-
-[Rechtsanwalt/-anwaeltin, Fachanwalt für Agrarrecht]
+[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Agrarrecht]
 ```
 
---- vor Versand klären ---
+### Schlichtungsantrag § 23 LwVG
+
+```
+An das Landwirtschaftsgericht beim AG [Ort]
+Schlichtungsantrag nach § 23 LwVG
+
+Antragsteller: [Mandant]
+Antragsgegner: [Gegenseite]
+
+Streitgegenstand: Pachtpreisanpassung § 593 BGB
+Pachtvertrag vom [Datum], Objekt [Bezeichnung]
+
+Sachverhalt:
+[Kurze neutrale Darstellung des Konflikts]
+
+Angebot:
+[Konkretes Anpassungs-Angebot]
+
+Wir bitten um Anberaumung eines Schlichtungstermins.
+
+[Rechtsanwalt/-anwaeltin]
+```
+
+--- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-## Beweislast und Darlegungslast
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Bei Vor-Ort-Kontrolle: Protokollinhalt hat faktische Beweiskraft — Widerspruch ohne Gegengutachten selten erfolgreich.
-
-## Fristen
-
-| Frist | Datum / Dauer | Rechtsgrundlage |
-|---|---|---|
-| Sammelantrag einreichen | 15. Mai (länderspezifisch) | Art. 40 VO 2021/2116 |
-| Korrektur ohne Kürzung | 31. Mai | Art. 40 VO 2021/2116 |
-| Anpassungskorrektur | 30. September | Art. 40 VO 2021/2116 |
-| Widerspruch gegen Bescheid | 1 Monat ab Bekanntgabe | § 68 VwGO, § 41 VwVfG |
-| Klage bei Untätigkeit | 3 Monate nach Widerspruchseingang | § 75 VwGO |
-| Aufbewahrungsfrist | 6 Jahre (steuerlich 10 Jahre) | § 30 LwG, § 147 AO |
-
-## Gegenargumente und Reaktion
-
-| Gegenargument Behörde | Reaktion Anwalt |
-|---|---|
-| Fläche zu klein — InVeKoS-Messung | GPS-Gegenmessung beauftragen, Katasterauszug beibringen |
-| GLÖZ-Verstoß bei Dauergrünland | Zeitstrahl der Bewirtschaftung, Fotos mit Datum, ggf. Satellitenbild |
-| Kulturart-Code falsch | Agrarbericht Landwirtschaftskammer, Flächennutzungsplan |
-| Vor-Ort-Kontrolle negativ | Begehungsprotokoll im Detail anfechten; eigenen Sachverständigen hinzuziehen |
-| Junglandwirts-Bedingung nicht erfüllt | Gesellschaftsvertrag, Handelsregistereintrag, Notarielle Erklärung zur Geschäftsführung |
-
-## Streitwert und Kosten
-
-- **Streitwert**: Differenz zwischen beantragter und anerkannter Förderung (typisch 500 bis 20.000 EUR).
-- **RVG**: Außergerichtlich nach §§ 13, 14 RVG nach Gegenstandswert; Widerspruchsverfahren kostenlos (§ 80 VwVfG).
-- **Verwaltungsgerichts-Verfahren**: Gerichtsgebühren nach GKG, Anwaltsvergütung nach RVG (1,3-facher Gebührensatz).
-- **Wirtschaftlichkeitsprüfung**: Bei Streitwerten unter 3.000 EUR übersteigen Kosten häufig den Nutzen — Widerspruch prüfen, Klage selten sinnvoll.
-
-## Strategische Empfehlung
+## Strategie und Taktik
 
 | Konstellation | Empfehlung |
 |---|---|
-| Verspätung um 1–3 Werktage | Sofortige Korrektureinreichung + Höhere-Gewalt-Begründung; Widerspruch vorbereiten |
-| GLÖZ-Kürzung < 5 % | Widerspruch mit Beweismitteln; außergerichtliche Einigung anstreben |
-| Kürzung > 20 % oder Komplettablehnung | Widerspruch + VG-Klage; einstweiligen Rechtsschutz § 80 Abs. 5 VwGO prüfen |
-| Wiederholte Kontrolle mit Befund | Sanierungsberatung Betriebsstruktur; ggf. ELER-Agrarumweltprogramm neu ausrichten |
-| Neue Betriebsübernahme | Antrag Junglandwirts-Förderung frühzeitig, Hofübernahme-Zeitpunkt dokumentieren |
+| Familien-Hofstreit | Mediation vorrangig; Zerstörung der Eltern-Kind-Beziehung oft schlimmer als Rechtsverlust |
+| Pächter will Hof zurückgeben | Kündigungs-Zeitplan prüfen; bei Verstoß gegen Bewirtschaftungs-Pflicht vorzeitige außerordentliche Kündigung möglich |
+| Verpächter will höhere Pacht | LWK-Statistik-Gutachten einholen; Klage erst wenn Vergleich eindeutig scheitert |
+| Förder-Streit mit Behörde | Sachverhalts-Klarstellung mit Belegen; oft einfach lösbar außergerichtlich |
+| Wolfsriss-Entschädigung | Riss-Protokoll + Marktwert-Gutachten als Verhandlungs-Grundlage; Verhandlung mit Landwirtschafts-Ministerium |
+
+## Beweislast und Darlegungslast
+
+- Bei § 593 BGB-Anpassung: Verlangende Partei legt Verhältnisänderung dar (LWK-Statistik, Bodenrichtwert).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Im Schlichtungsverfahren: kein formelles Beweisverfahren; Glaubhaftmachung und Unterlagen genügen.
+
+## Fristen
+
+| Frist | Dauer | Rechtsgrundlage |
+|---|---|---|
+| Reaktionsfrist bei außergerichtlichem Schreiben | 14–21 Tage (Praxis) | Eigene Fristsetzung |
+| Schlichtungsantrag vor Klage | Keine starre Frist; vor Klageerhebung | § 23 LwVG |
+| Kündigung ordentlich | 2 Jahre vor Pachtjahresende | § 594a BGB |
+| Klage nach Schlichtungs-Scheitern | Keine Ausschluss-Frist; Verjährung § 195 BGB (3 Jahre) | §§ 195, 199 BGB |
+
+## Streitwert und Kosten
+
+- Pacht-Anpassungs-Klage: dreifacher Jahresmehrwert der begehrten Anpassung (§ 41 Abs. 1 ZPO).
+- Schlichtungsverfahren: Kammergebühr LWK ca. 100–300 EUR + Reisekosten Rechtsanwalt.
+- Klage Landwirtschaftsgericht: GKG-Tabelle; Anwalt nach RVG.
+- Wirtschaftlichkeitsprüfung immer: Bei Pachtdifferenz < 500 EUR/Jahr übersteigen Kosten oft den Nutzen.
 
 ## Anschluss-Skills
 
-- `landpacht-und-hoferbfolge-pruefen` — Pachtvertrags-Grundlage für Flächenanträge
-- `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` — parallele Behördenverfahren Naturschutz
-- `fachanwalt-agrarrecht-tierhaltung-genehmigung` — bei tierbezogenen Förderungen
+- `landpacht-und-hoferbfolge-pruefen` — Tiefenprüfung des Pachtvertrags
+- `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` — Behörden-Kommunikation Wolf
+- `sammelantrag-gap-checkliste` — GAP-Förder-Widerspruchsverfahren
 
 ## Quellen
 
-- VO (EU) 2021/2115 GAP-Strategieplan
-- VO (EU) 2021/2116 Horizontale Verordnung
-- GAPDZG, GAPInVeKoSG, GAPKondV
-- § 41 VwVfG (Bekanntgabefiktion), § 68 VwGO (Widerspruch)
+- BGB §§ 585–597 (Landpacht), §§ 195, 199 (Verjährung)
+- LPachtVG §§ 2, 4, 13
+- LwVG §§ 2, 13, 23
+- MediationsG §§ 1 ff.
+- ZPO §§ 278, 794
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
@@ -1043,8 +932,364 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-<!-- AUDIT 27.05.2026
--->
+---
+
+## Skill: `fachanwalt-agrarrecht-hoefe-uebergabe`
+
+_Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbedürftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit._
+
+# Höfe-Übergabe
+
+## Kaltstart-Rückfragen
+
+1. In welchem Bundesland liegt der Hof (HöfeO gilt nur Hamburg, Niedersachsen, NRW, Schleswig-Holstein)?
+2. Liegt Hofeigenschaft im Grundbuch eingetragen vor (Hoffolgevermerk § 6 HöfeO)?
+3. Welche weichenden Geschwister gibt es und welche Pflichtteilsansprüche drohen?
+4. Soll die Übergabe zu Lebzeiten erfolgen oder im Erbfall geregelt werden?
+5. Welche Vorbehalte (Altenteil, Wohnrecht, Pflegevereinbarung) sind gewünscht?
+
+## Anspruchsgrundlagen
+
+- Hofeigenschaft § 1 HöfeO — land- oder forstwirtschaftliche Besitzung mit Wirtschaftsfähigkeit; Mindestwirtschaftswert (i.d.R. ab 10.000 EUR Einheitswert), Eintragung Hoffolgevermerk.
+- Anerbenfolge § 4 HöfeO — ein Hoferbe; Reihenfolge in §§ 5-7 HöfeO.
+- Hofesvertrag — Übergabe zu Lebzeiten formbedürftig nach § 311b Abs. 1 BGB (notarielle Beurkundung).
+- Hofeswert § 12 HöfeO — 1,5-facher Einheitswert (nicht Verkehrswert) — Privilegierung des Hoferben.
+- Abfindung weichende Erben § 12 Abs. 2 HöfeO nach Hofeswert.
+- Nachabfindungsanspruch § 13 HöfeO — bei Veräußerung oder Aufgabe innerhalb 20 Jahre nach Übergabe.
+- Bewirtschaftungspflicht § 17 HöfeO — keine Nachabfindung wenn nach 20 Jahren bewirtschaftet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Beweislast und Frist
+
+- Hoferbe trägt Beweislast für Hofeseigenschaft und Anerbenfolge.
+- Weichende Erben tragen Beweislast für Pflichtteils- und Nachabfindungsansprüche.
+- Frist Nachabfindung § 13 HöfeO: 20 Jahre ab Hofübergabe — Nachabfindung bei Veräußerung/Aufgabe.
+- Verjährung Pflichtteilsansprüche § 195 BGB drei Jahre ab Kenntnis.
+
+## Prüfschema
+
+```
+1. Bundesland-Zustaendigkeit (HoefeO oder Landesrecht)
+2. Hofeigenschaft und Hoffolgevermerk § 6 HoefeO
+3. Hofeswert § 12 HoefeO (1 5-facher Einheitswert) berechnen
+4. Anerbenfolge § 4 HoefeO
+5. Pflichtteils- und Abfindungsansprueche § 12 HoefeO
+6. Altenteilsleistungen § 14 HoefeO
+7. Notarieller Hofesvertrag § 311b BGB
+8. Nachabfindung § 13 HoefeO 20-Jahresfrist
+9. Steuerliche Auswirkungen ErbStG GrEStG einbeziehen
+```
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Schreibvorlage notarieller Hofesvertrag (Eckpunkte)
+
+```
+Notarieller Hofesvertrag (UR-Nr.: [...])
+
+I. Vertragsparteien
+1. Uebergeber: [Name Anschrift] Eigentuemer des im Grundbuch von [Ort]
+   Blatt [Nr] eingetragenen Hofes Gemarkung [...] Flurstuecke [...]
+2. Uebernehmer: [Name Anschrift] — Sohn/Tochter des Uebergebers,
+   Hoferbe nach § 4 HoefeO
+
+II. Hofesgegenstand
+Der Hof umfasst saemtliche Grundstuecke gemaess Anlage K1
+(Grundbuchauszug) sowie das lebende und tote Inventar gemaess
+Anlage K2.
+
+III. Uebergabe
+Der Uebergeber uebertraegt den Hof mit Wirkung vom [Datum] auf den
+Uebernehmer. Aufgrund der Hofeigenschaft und des Anerbenrechts erfolgt
+die Bewertung mit dem 1 5-fachen Einheitswert § 12 HoefeO.
+
+IV. Altenteilsleistungen § 14 HoefeO
+Der Uebernehmer gewaehrt dem Uebergeber lebenslang:
+- Wohnungsrecht im Altenteilshaus
+- monatliche Geldrente EUR [Betrag]
+- Pflege bei Krankheit und im Alter
+- standesgemaesses Begraebnis
+
+V. Abfindung weichender Geschwister § 12 HoefeO
+Die weichenden Geschwister erhalten Abfindungen gemaess Anlage K3.
+
+VI. Bewirtschaftungspflicht § 13 HoefeO
+Der Uebernehmer verpflichtet sich den Hof selbst zu bewirtschaften.
+Bei Verstoss innerhalb von 20 Jahren entsteht ein Nachabfindungs-
+anspruch der weichenden Erben.
+
+VII. Steuern und Kosten
+Saemtliche Vertragskosten traegt der Uebernehmer.
+```
+
+## Übergabe
+
+- Notarielle Beurkundung § 311b BGB beim Notar veranlassen.
+- Eintragung Hoffolgevermerk § 6 HöfeO und Grundbuchumschreibung.
+- Pflichtteilsverzichte der weichenden Erben § 2346 BGB notariell einholen.
+- Steuerberater hinzuziehen für ErbStG/GrEStG-Optimierung.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Normen-Ergänzung
+
+§§ 1-7 HöfeO (Hofeigenschaft, Anerbenfolge) → § 12 HöfeO (Hofeswert, Abfindung weichende Erben) → § 13 HöfeO (Nachabfindung 20-Jahre-Frist) → § 14 HöfeO (Altenteilsleistungen) → § 311b Abs. 1 BGB (Formerfordernis notarielle Beurkundung) → § 2346 BGB (Pflichtteilverzicht) → ErbStG §§ 13a, 13b (land- und forstwirtschaftliches Vermögen, Steuerverschonung) → GrEStG § 3 Nr. 6 (Steuerbefreiung Übertragung auf Abkömmlinge)
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+---
+
+## Skill: `fachanwalt-agrarrecht-duenge-ordnungswidrigkeit`
+
+_Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bußgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Ausbringungsobergrenzen Roter Gebiete Nitratrichtlinie 91/676/EWG. Verfahren OWiG Anhoerung Einspruch binnen zwei Wochen § 67 OWiG. Bußgeldhoehe bis 150 000 EUR. Verjährung § 31 OWiG._
+
+# Düngerechtliche Ordnungswidrigkeit
+
+## Kaltstart-Rückfragen
+
+1. Welcher konkrete Verstoß wird vorgehalten (Sperrfrist, Obergrenze N/P, Ausbringtechnik, Aufzeichnungspflichten, Stoffstrombilanz)?
+2. Liegt der Betrieb in einem nitratbelasteten "Roten Gebiet" mit verschärften Auflagen § 13a DüV?
+3. Wann ist der Bußgeldbescheid ergangen und welche Bußgeldhöhe wird festgesetzt?
+4. Liegen Kontrollprotokoll, Proben und Messprotokolle vor?
+5. Wurde innerhalb der Zwei-Wochen-Frist § 67 OWiG Einspruch eingelegt?
+
+## Rechtsgrundlagen
+
+- Düngegesetz (DüG) i.V.m. Düngeverordnung (DüV).
+- Bußgeldtatbestände § 13a Abs. 2 DüG i.V.m. § 14 DüV — bis zu 150.000 EUR.
+- Sperrfristen § 6 DüV — Stickstoff- und Phosphathaltige Düngemittel nur in bestimmten Zeiträumen.
+- Ausbringungsobergrenzen 170 kg N/ha pro Jahr aus organischem Dünger § 6 Abs. 4 DüV.
+- Stoffstrombilanz § 11a DüG — Pflicht je nach Betriebsgröße/Tierhaltung.
+- Rote Gebiete § 13a DüV — verschärfte Auflagen (20% reduzierte N-Obergrenze, längere Sperrfristen).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Verfahrensrecht OWiG: Anhörung § 55 OWiG, Bußgeldbescheid § 65 OWiG, Einspruch § 67 OWiG.
+- Verjährung § 31 OWiG: Ordnungswidrigkeiten bei Geldbußen über 15.000 EUR drei Jahre; sonst zwei Jahre.
+
+## Beweislast und Frist
+
+- Verwaltungsbehörde trägt Beweislast für objektiven und subjektiven Tatbestand (Vorsatz/Fahrlässigkeit § 10 OWiG).
+- Betroffener trägt Vortragslast für Rechtfertigungs- und Entschuldigungsgründe (höhere Gewalt, Unzumutbarkeit).
+- Einspruchsfrist § 67 OWiG: zwei Wochen ab Zustellung des Bußgeldbescheids — schriftlich oder zur Niederschrift bei der Verwaltungsbehörde.
+- Verjährungshemmung durch Anhörung § 33 OWiG.
+
+## Prüfschema
+
+```
+1. Tatbestand § 14 DueV identifizieren
+2. Objektive Pflichtverletzung — Sperrfrist Obergrenze Ausbringtechnik
+3. Subjektive Seite Vorsatz/Fahrlaessigkeit § 10 OWiG
+4. Beweismittel der Behoerde (Kontrollprotokoll Proben GIS-Daten)
+5. Rechtfertigungsgruende (hoehere Gewalt) und Entschuldigung
+6. Rote-Gebiet-Lage § 13a DueV pruefen
+7. Bussgeldhoehe verhaeltnismaessig § 17 OWiG
+8. Einspruch § 67 OWiG fristwahrend
+9. Verjaehrung § 31 OWiG kontrollieren
+```
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Schreibvorlage Einspruch
+
+```
+An die [Landwirtschaftskammer / zustaendige Bussgeldbehoerde]
+
+Az [...]
+
+Einspruch gegen den Bussgeldbescheid vom [Datum] gemaess § 67 OWiG
+
+Sehr geehrte Damen und Herren,
+
+namens und in Vollmacht unserer Mandantschaft legen wir form- und
+fristgerecht Einspruch ein gegen den o.g. Bussgeldbescheid.
+
+Begruendung:
+
+1. Sachverhalt:
+Der Bescheid wirft unserer Mandantschaft vor am [Datum] auf der Flaeche
+[Schlag-Nr Groesse] gegen § [Norm] DueV verstossen zu haben.
+
+2. Verteidigung:
+a) Objektiv: Die ausgebrachte Stickstoffmenge betraegt nach
+   Aufzeichnungen [Wert] kg N/ha und damit unter der Obergrenze von
+   170 kg N/ha § 6 Abs. 4 DueV. Die Berechnung der Behoerde beruht auf
+   einer fehlerhaften Annahme zur Tierzahl (Anlage K1 HIT-Datenbank).
+b) Sperrfrist § 6 Abs. 8 DueV: Die Ausbringung erfolgte am [Datum] —
+   noch vor Beginn der Sperrfrist (Anlage K2 Wetter- und Bodendaten).
+c) Subjektive Seite: Auch bei Annahme eines objektiven Verstosses fehlt
+   es an Vorsatz oder Fahrlaessigkeit § 10 OWiG. Unsere Mandantschaft
+   stuetzte sich auf die schriftliche Beratung des Pflanzenbauberaters
+   vom [Datum] (Anlage K3).
+d) Hoehere Gewalt: Aussergewoehnliche Witterung am [Zeitraum] machte
+   ein vorgezogenes Ausbringen unaufschiebbar (Anlage K4 DWD-Daten).
+
+3. Anregung:
+Hilfsweise — sollte die Behoerde an einem Verstoss festhalten — bitten
+wir um Reduzierung der Geldbusse auf das nach § 17 Abs. 3 OWiG
+angemessene Mass unter Beruecksichtigung des erstmaligen Verstosses
+und der fehlenden Bereicherung.
+
+Wir bitten um Akteneinsicht § 49 OWiG.
+
+Mit freundlichen Gruessen
+```
+
+## Übergabe
+
+- Bei Aufrechterhaltung: Abgabe an Amtsgericht § 69 OWiG; Hauptverhandlung vorbereiten.
+- Bei Vergleichsgespräch: dokumentierte Abrede zur Auflagenerfüllung.
+- Künftige Compliance: Düngeplanung mit Stoffstrombilanz revisionssicher dokumentieren.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Normen-Ergänzung
+
+§ 14 DüV (Bußgeldtatbestände — Liste der Verstöße) → § 13a DüV (Rote Gebiete: 20%-Reduktion, verlängerte Sperrfristen) → § 11 DüG (Aufzeichnungspflicht) → § 11a DüG (Stoffstrombilanz) → § 31 OWiG (Verjährung: 3 Jahre bei Bußgeld über 15.000 EUR, 2 Jahre darunter) → § 17 OWiG (Zumessung, Verhältnismäßigkeit) → § 49 OWiG (Akteneinsicht)
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+---
+
+## Skill: `fachanwalt-agrarrecht-gap-direktzahlungen-antrag`
+
+_Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Workflow Vorprüfung Risiko-Check Antragstellung Einspruch._
+
+# Sammelantrag GAP-Direktzahlungen
+
+## Zweck
+
+Beratung bei der Antragstellung für Direktzahlungen nach der GAP-Reform 2023 (VO (EU) 2021/2115; GAPDZG, GAPInVeKoSG). Prüfraster, Risiken, Fristen.
+
+## 1) Eingangs-Abfrage
+
+1. Welche Betriebsgroesse (ha) und Bewirtschaftungsform?
+2. Welche Kulturen — Acker, Grünland, Sonderkulturen, Dauerkulturen?
+3. Ist der Betrieb **Junglandwirt** (max. 40 Jahre, Hofübernahme < 5 Jahre)?
+4. Sind **Oeko-Regelungen** (z.B. Vielfaeltige Kulturen, Bluehstreifen, Agroforst) geplant?
+5. Vorjahres-Bescheid und Sanktionen?
+6. Tierhaltung mit gekoppelter Stuetzung (Mutterkuh, Mutterschaf, Mutterziege)?
+
+## 2) Konditionalitaet (GLOEZ-Standards)
+
+Die Direktzahlung setzt Einhaltung der **9 GLOEZ-Standards** voraus (Anhang III GAP-DirektZV):
+
+- **GLOEZ 1**: Erhaltung von Dauergrünland
+- **GLOEZ 2**: Moorboeden / Feuchtgebiete-Schutz
+- **GLOEZ 3**: Verbot Stoppelverbrennung
+- **GLOEZ 4**: Gewaesserrandstreifen 3 m
+- **GLOEZ 5**: Erosionsschutz Hanglagen
+- **GLOEZ 6**: Mindestbodenbedeckung Winter
+- **GLOEZ 7**: Fruchtwechsel (durch VO (EU) 2024/1468 — GAP-Vereinfachungsverordnung — geänderter Ausnahmekatalog ab Antragsjahr 2025)
+- **GLOEZ 8**: Mindestanteil nicht-produktiver Flächen (durch GAP-Vereinfachungsverordnung 2024 abgesenkt/teilweise als Öko-Regelung in die freiwillige Förderung verschoben — länderspezifisch ab 2025)
+- **GLOEZ 9**: Verbot Landschaftselement-Beseitigung
+
+**Anpassungen ab Antragsjahr 2025/2026:** Umverteilungs-Mittel an die 2. Säule der GAP steigen stufenweise — 2025: 12,5 %, 2026: 15 %. Eco-Schemes wurden mit dem Antragsjahr 2025 vereinfacht; je Bundesland und Antragsjahr Einheitsbeträge (Bekanntmachung BMLEH vom 21.08.2025 für 2025). Verifikation der konkreten Einheitsbeträge im laufenden Mandat über [bmleh.de](https://www.bmleh.de/DE/themen/landwirtschaft/eu-agrarpolitik-und-foerderung/direktzahlung/direktzahlungen.html).
+
+## 3) Antragsfristen und Präklusion
+
+- **Hauptantrag**: 15. Mai des Antragsjahres
+- **Verspätungs-Frist**: 9. Juni mit 1 % Abzug pro Werktag
+- **Änderungs-Frist**: 30. September für Korrekturen
+- **Höhere-Gewalt-Anzeige**: 15 Werktage nach Kenntnis
+
+## 4) Sanktionen
+
+| Verstoß | Folge |
+|---|---|
+| GLOEZ-Verstoß leichte Fahrlaessigkeit | 1-5 % Kürzung |
+| GLOEZ-Verstoß grobe Fahrlaessigkeit | 5-15 % Kürzung |
+| Vorsatz | 15-100 % Kürzung, Ausschluss |
+| Falsche Flächen-Angabe | Differenz-Kürzung + Sanktion 0,75x bis 1,5x |
+| Cross-Compliance-Verstoß | Stufenweise Kürzung |
+
+## 5) Oeko-Regelungen (freiwillig, zusätzlich)
+
+- **OEko-Regelung 1**: Vielfalt im Ackerbau (4-6 Kulturen)
+- **OEko-Regelung 2**: Bluehstreifen
+- **OEko-Regelung 3**: Belassen von Altgrasstreifen
+- **OEko-Regelung 4**: Agroforst-Systeme
+- **OEko-Regelung 5**: Extensivierung Dauergrünland
+- **OEko-Regelung 6**: Bewirtschaftung Mooren
+- **OEko-Regelung 7**: Bewirtschaftung Schutzgebieten
+
+Praemien je Hektar variabel; Antrag mit Auswahl OEko-Regelung.
+
+## 6) Querprüfung mit HIT-Datenbank
+
+Bei Tierhaltungs-Praemien: HIT-Datenbank (Herkunfts- und Informationssystem Tier) muss vor Antragstellung aktualisiert sein. Differenzen führen zu Kürzungen.
+
+## 7) Workflow
+
+### Schritt 1 — Vorprüfung
+
+- Vorjahres-Bescheid lesen, Auflagen identifizieren
+- Risikobereiche (GLOEZ 7 Fruchtwechsel, GLOEZ 8 4 %-Regel) eruieren
+- Bei Junglandwirt: Hofübernahme-Dokumente bereithalten
+
+### Schritt 2 — Antragstellung
+
+- Online über das jeweilige Land (z.B. AAA in BW, iBALIS in BY, INVEKOS-Online in NRW)
+- Sammelantrag mit Flächen-Skizze
+- OEko-Regelungen separat ankreuzen
+
+### Schritt 3 — Bescheid-Prüfung
+
+- Bei Kürzung: **Widerspruch binnen 1 Monat** (§ 70 VwGO iVm Landes-AusfG)
+- Bei groberen Sanktionen: anwaltliche Prüfung der Verschuldensbeurteilung
+
+## 8) Typische Mandats-Konstellationen
+
+- **Flächendifferenz**: Vor-Ort-Kontrolle ergibt 0,7 ha weniger als beantragt — Quotenkürzung droht
+- **GLOEZ-Verstoß**: Lkw fährt durch Gewaesserrandstreifen — Sanktion 5-15 %
+- **Junglandwirt-Praemie versagt**: Behörde erkennt Hofübernahme nicht an — Widerspruch mit Notar-Urkunde
+- **Oeko-Regelung-Anerkennung verweigert**: Bluehstreifen zu schmal — Kompromiss-Verhandlung
+
+## 9) Honorar-Hinweis
+
+Bei laufender Antragsbegleitung: Rahmenvereinbarung empfohlen. Bei Widerspruch / Klage: Streitwert nach Differenzbetrag (entgangene Direktzahlung). RVG-Honorare nach Streitwert berechnet.
+
+## Anschluss
+
+- `fachanwalt-agrarrecht-orientierung` — Triage Mandatsarten
+- `fachanwalt-agrarrecht-pachtvertrag-streitig` — bei Pacht-Konflikten
+- `landpacht-und-hoferbfolge-pruefen` — bei Generationenwechsel
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Normen-Ergänzung
+
+VO (EU) 2021/2115 Art. 14-17 (GLÖZ-Standards, Konditionalität) → VO (EU) 2021/2116 Art. 84-87 (Sanktionen) → Art. 3 VO (EU) 2021/2116 (höhere Gewalt) → GAPDirektZahlV (deutsches Durchführungsrecht) → § 70 VwGO (Widerspruchsfrist) → § 80 Abs. 5 VwGO (einstweiliger Rechtsschutz bei Rückforderung)
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ---
 

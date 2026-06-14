@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `seerecht-schifffahrtsrecht`.
+Dieser Megaprompt enthaelt top-8 von 238 Skills (gekuerzt fuer Chat-Fenster) des Plugins `seerecht-schifffahrtsrecht`.
 
 ## Inhaltsverzeichnis
 

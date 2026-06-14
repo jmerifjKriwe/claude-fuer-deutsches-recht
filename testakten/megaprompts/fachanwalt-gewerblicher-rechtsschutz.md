@@ -2,20 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 72 Skills des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
+Dieser Megaprompt enthaelt top-8 von 107 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Gewerblicher Rechtsschutz: ordnet Rolle (Schutzrechtsinhaber, Verletzer, Kon…
-2. **erstgespraech-mandatsannahme** — Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen: § 14 MarkenG § 139 PatG § 8 UWG § 43a BRA…
-3. **erstpruefung-und-mandatsziel** — Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabw…
-4. **dokumente-intake** — Dokumentenintake für Fachanwalt Gewerblicher Rechtsschutz: sortiert Registerauszug, Abmahnung, Unterlassungserklärung, p…
-5. **designrecht-praxis-grundlagen** — Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinscha…
-6. **faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt** — Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweilig…
-7. **faevvollzug-neu-005-gegnerische-schutzschrift-auswerten** — Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblich…
-8. **gewrechts-geschgehg-kollisionen-nda-hinschg-urhg** — Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime…
-9. **gr-abmahnung-workflow** — Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Frist, Unterlassung…
-10. **gr-uebersetzung-marke-osterreich-schweiz-spezial** — Markenrecht in Österreich und der Schweiz: Österreichisches Markengesetz (MSchG), Österreichisches Patentamt (ÖPA), Schw…
+2. **fachanwalt-gewerblicher-rechtsschutz-orientierung** — Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen. § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG…
+3. **erstgespraech-mandatsannahme** — Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen: § 14 MarkenG § 139 PatG § 8 UWG § 43a BRA…
+4. **erstpruefung-und-mandatsziel** — Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabw…
+5. **fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg** — Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime…
+6. **fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage** — Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung des Patents gegen Nichtigkeitsangriff. §§ 81 ff. PatG N…
+7. **fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg** — UWG-Abmahnung prüfen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 1…
+8. **fachanwalt-gewerblicher-rechtsschutz-designverletzung** — Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren. §§ 1 2 38 GeschmMG §§ 11 ff. Ges…
 
 ---
 
@@ -60,6 +58,88 @@ Dieser Einstieg routet **Fachanwalt Gewerblicher Rechtsschutz** vom ersten Sachv
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `fachanwalt-gewerblicher-rechtsschutz-orientierung`
+
+_Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen. § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG. Prüfraster: Schutzrecht Verletzungsart Parteistellung Route Fristen Eilbedürfnis. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills._
+
+# Orientierung Gewerblicher Rechtsschutz
+
+## Triage: Welches Schutzrecht ist betroffen?
+
+```
+Marke (Wort, Bild, Form)?
+  → MarkenG §§ 3 ff.; Ansprueche §§ 14 ff. MarkenG
+  → Skill: fachanwalt-gewerblicher-rechtsschutz-markenanmeldung
+
+Design (Erscheinungsform Erzeugnis)?
+  → DesignG §§ 2 ff.; Ansprueche §§ 38 ff. DesignG
+  → Skill: fachanwalt-gewerblicher-rechtsschutz-designverletzung
+
+Patent / Gebrauchsmuster?
+  → PatG §§ 1 ff.; GebrMG §§ 1 ff.; Nichtigkeit §§ 21, 81 PatG
+  → Skill: fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage
+
+Unlauterer Wettbewerb?
+  → UWG §§ 3 ff.; Abmahnung §§ 8, 13 UWG
+  → Skill: fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg
+
+Domain-Streit?
+  → MarkenG § 14 + § 15; UDRP; Skript: takedown-anweisung
+
+Keine Eintragungs-Barriere vorhanden?
+  → Erst Recherche: markenrecherche / fto-triage
+```
+
+## FAO § 14k — Voraussetzungen
+
+- **Theoretischer Lehrgang:** 120 Zeitstunden gewerblicher Rechtsschutz (FAO § 4).
+- **Praktischer Nachweis:** 80 Fälle in den letzten drei Jahren, davon mindestens 50 rechtsfoermlich (§ 5 Abs. 1 lit. l FAO).
+- **Bereiche § 14k FAO:** Marken-, Design-, Patent- und Gebrauchsmusterrecht, Sortenschutz, Wettbewerbsrecht (UWG), Bezuege zum Urheberrecht und Kartellrecht.
+
+## Massgebliche Normen
+
+- **MarkenG:** Schutzfaehigkeit §§ 3, 8; Schutzdauer §§ 47 ff.; Verletzungsansprueche §§ 14, 18, 19; Loeschungsverfahren §§ 49 ff.
+- **DesignG:** Schutzfaehigkeit Neuheit und Eigenart §§ 2 ff.; Schutzdauer 25 Jahre § 27 DesignG; Ansprueche §§ 38 ff.
+- **UWG:** Generalklausel § 3; Tatbestaende §§ 3a-7; Anspruchsberechtigte §§ 8 ff.; Aufwendungsersatz § 13 Abs. 3; Missbrauch § 8c UWG.
+- **PatG / GebrMG:** Patentverletzung § 139 PatG; Nichtigkeit §§ 21, 81 PatG; Gebrauchsmuster §§ 1 ff. GebrMG.
+- **UrhG:** Schnittstellen bei urheberrechtlich geschuetzten Werken; Lizenzanaloger Schadensersatz § 97 Abs. 2 UrhG.
+- **EU-Recht:** UMV (EU 2017/1001), GGV (EG 6/2002), DurchsetzungsRL 2004/48/EG.
+
+## Typische Mandate mit Zeitschiene
+
+| Mandatstyp | Erstschritte | Frist |
+|------------|-------------|-------|
+| Markenanmeldung DPMA | Recherche, Klassenauswahl, Antrag | Keine gesetzliche Frist, aber fruehzeitig |
+| Widerspruch gegen Marke | Frist-Check, Zeichenvergleich, Schriftsatz | 3 Monate ab Veroeffentlichung § 42 MarkenG |
+| UWG-Abmahnung reaktiv | Formanalyse, Missbrauch pruefen, mod. UE | ueblicherweise 7-14 Tage Reaktionsfrist |
+| Einstweilige Verfuegung | Dringlichkeit pruefen, Glaubhaftmachung | 4 Wochen Selbstwiderlegungsfrist |
+| Designverletzungsklage | SdT-Recherche, Neuheits-Eigenarts-Test | Verjaehrung 3 Jahre §§ 195, 199 BGB |
+| Patent-Nichtigkeitsklage | StdT-Recherche, BPatG, Nebenintervention | Keine Frist, aber Verletzungsverfahren dringt |
+
+## Aktuelle Rechtsprechung
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Fristen-Checkliste
+
+- [ ] Widerspruchsfrist Marke: 3 Monate (§ 42 MarkenG / Art. 46 UMV)
+- [ ] Einstweilige Verfuegung: max. 4 Wochen Kenntnis (Selbstwiderlegung)
+- [ ] Einspruch Patent: 9 Monate ab Erteilung (§ 59 Abs. 1 PatG)
+- [ ] Beschwerde BPatG: 1 Monat (§ 66 MarkenG; § 73 PatG)
+- [ ] Verjaehrung Ansprueche: 3 Jahre ab Kenntnis (§§ 195, 199 BGB)
+- [ ] Verjaerungs-Hemmung: Klage, Mahnbescheid, Verhandlung (§ 204 BGB)
+
+## Uebergabe
+
+- Bei urheberrechtlichen Vorfragen: Plugin `urheberrecht` / `fachanwalt-urheber-medienrecht`.
+- Bei kartellrechtlichen Bezuegen (Lizenzkartell, Marktmissbrauch): Plugin `kartellrecht-grundlagen`.
+- Bei steuerrechtlicher Bewertung von IP-Rechten: Plugin `steuerrecht-anwalt-und-berater`.
 
 ---
 
@@ -426,429 +506,9 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 
 ---
 
-## Skill: `dokumente-intake`
+## Skill: `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg`
 
-_Dokumentenintake für Fachanwalt Gewerblicher Rechtsschutz: sortiert Registerauszug, Abmahnung, Unterlassungserklärung, prüft Datum, Absender, Frist und Beweiswert (Benutzungsnachweis, Verkehrsbefragung); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO._
-
-# Dokumentenintake
-
-## Aktenstart statt Formularstart
-
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Gewerblicher Rechtsschutz** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
-
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
-
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Einsatzlage
-
-Dieser Dokumenten-Intake für **Fachanwalt Gewerblicher Rechtsschutz** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
-
-## Fachlandkarte dieses Plugins
-
-- `abmahnung-formular-portal-und-einreichung` — Abmahnung Bezuege Designg
-- `workflow-chronologie-und-belegmatrix` — Chronologie Belegmatrix Fristen Risikoampel
-- `designeintragung-neuheit-paragraf-3-designg-eugh` — Designeintragung Neuheit Paragraf 3 Designg Eugh
-- `designschutz-eu-gemeinschaftsgeschmacksmuster-eugh-c-419-13` — Designschutz EU Gemeinschaftsgeschmacksmuster Eugh C 419 13
-- `designverletzung-fehlerkatalog` — Designverletzung Fehlerkatalog
-- `designverletzung` — Designverletzung Marken Widerspruch
-- `domainrecht-loeschung-bgh-i-zr-138-19` — Domainrecht Loeschung BGH I ZR 138 19
-- `dpma-mehrparteien-konflikt-und-interessen` — Dpma Interessen Einstweilige Euipo
-- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme Abmahnung UWG
-- `eu-warenmarke-loeschung-eugh-c-541-18` — EU Warenmarke Loeschung Eugh C 541 18
-- `einstieg-schnelltriage-fallrouting` — FA Gewerblicher RS GR Abmahnung Portfolio
-- `erstpruefung-und-mandatsziel` — Fachanwalt FAO Gebrmg
-- `workflow-redteam-qualitygate` — Faevvollzug Abschlussschreiben Lizenzanaloger
-- `anschluss-routing` — Anschluss Routing
-- `einstieg-routing` — Einstieg Routing
-
-## Arbeitsweg
-
-- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
-- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Fachanwalt Gewerblicher Rechtsschutz-Frage.
-- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
-- Tragende Normen vorläufig zuordnen: DesignG, GebrMG, MarkenG, PatG, UWG, UrhG, § 14k, §§ 8 ff — Endfeststellung erst nach Live-Check.
-- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
----
-
-## Skill: `designrecht-praxis-grundlagen`
-
-_Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinschaftsgeschmacksmuster EUIPO, eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster: Designrecht in der Praxis: DesignG (ex Ge..._
-
-# Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinschaftsgeschmacksmuster EUIPO, eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinschaftsgeschmacksmuster EUIPO, eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster. Verletzungsfolgen, einstweilige Verfügung, Schadensersatz-Berechnung. Prüfraster für Modemarkenpraxis.
-
-### Designrecht in der Praxis
-
-## Rechtsrahmen
-
-| Rechtsgrundlage | Inhalt |
-|---|---|
-| § 1 Nr. 1 DesignG | Designbegriff: zweidimensionales oder dreidimensionales Erscheinungsbild |
-| § 2 Abs. 1 DesignG | Schutzvoraussetzungen: Neuheit + Eigenart |
-| § 2 Abs. 2 DesignG | Neuheit: kein identisches Design vor Anmeldetag öffentlich zugänglich gemacht |
-| § 2 Abs. 3 DesignG | Eigenart: Gesamteindruck beim informierten Benutzer unterscheidet sich |
-| § 3 DesignG | Schutzausschlüsse: technisch bedingte Merkmale, must-fit-Ausnahme |
-| § 11 DesignG | Schutzvoraussetzung: sichtbar im Normalgebrauch (Bauelementedesign) |
-| § 27 DesignG | Schutzfrist: 5 Jahre ab Anmeldetag, verlängerbar bis 25 Jahre |
-| §§ 38 ff. DesignG | Verletzungstatbestände: Herstellung, Anbieten, Inverkehrbringen |
-| § 42 DesignG | Unterlassung und Schadensersatz |
-| Art. 4 ff. GGV (VO 6/2002) | Eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster |
-| Art. 11 GGV | Nicht eingetragenes GGM: 3 Jahre Schutz ab Offenbarung |
-| Art. 85 GGV | Zuständigkeit: Gemeinschaftsgeschmacksmuster-Gerichte |
-
-## Prüfraster Designverletzung
-
-**Schritt 1 – Schutzfähigkeit des Klagedesigns**
-
-- Liegt eine Anmeldung beim DPMA (nationales Design) oder EUIPO (eingetragenes GGM) vor?
-- Nicht eingetragenes GGM: Offenbarung im EWR feststellbar, Frist 3 Jahre eingehalten?
-- Schutzausschluss § 3 DesignG: rein technisch bedingt? Must-fit?
-- Neuheit und Eigenart bei Anmeldung (§ 2 DesignG, Art. 5–6 GGV): vorbekannter Formenschatz?
-
-**Schritt 2 – Verletzungshandlung**
-
-- Übereinstimmender oder verwechslungsfähiger Gesamteindruck beim informierten Benutzer?
-- Gestaltungsfreiheit des Entwerfers: enger Formenschatz = kleiner Schutzbereich.
-- Angegriffene Ausführungsform: Fotos, Muster, Screenshots sichern.
-
-**Schritt 3 – Anspruchsinhaber und Legitimation**
-
-- Eingetragener Inhaber (§ 7 DesignG, DPMA/EUIPO-Registerauszug).
-- Lizenznehmerin mit entsprechender Klagebefugnis?
-- Arbeitnehmerdesign: § 13 DesignG – Dienstverhältnis, Übertragungsfiktion.
-
-**Schritt 4 – Ansprüche**
-
-| Anspruch | Norm | Voraussetzung |
-|---|---|---|
-| Unterlassung | § 42 Abs. 1 DesignG | Wiederholungs- oder Erstbegehungsgefahr |
-| Schadensersatz | § 42 Abs. 2 DesignG | Verschulden (Vorsatz/Fahrlässigkeit) |
-| Auskunft und Rechnungslegung | § 46 DesignG | Zur Bezifferung des Schadens |
-| Vernichtung und Rückruf | § 43 DesignG | Verletzende Gegenstände im Besitz des Verletzers |
-| Urteilsbekanntmachung | § 47 DesignG | Berechtigtes Interesse |
-
-**Schritt 5 – Schadensberechnung (drei Methoden)**
-
-1. Konkreter Schaden + entgangener Gewinn.
-2. Verletzergewinn (Herausgabe).
-3. Lizenzanalogie (fiktive Lizenzgebühr, marktüblicher Satz).
-
-## Verfahrensweg und Zuständigkeit
-
-- **DPMA-Nichtigkeitsverfahren:** § 33 DesignG; Nichtigkeitsgründe §§ 33 Abs. 1 DesignG.
-- **Zivilklage:** LG (Designsachen, § 52 DesignG i.V.m. § 140 MarkenG analog); spezialisierte Kammern Hamburg, Düsseldorf, München, Köln.
-- **einstweilige Verfügung:** §§ 935, 940 ZPO; Dringlichkeit nach Kenntnisnahme wahren (ca. 4–6 Wochen).
-- **EUIPO-Nichtigkeitsverfahren:** Art. 52 GGV (eingetragenes GGM); Art. 24 GGV (nicht eingetragenes GGM, Nichtigkeitseinrede).
-
-## Strategische Optionen
-
-| Konstellation | Empfehlung |
-|---|---|
-| Schnelle Unterlassung, Verletzung eindeutig | eV beim zuständigen LG (Designgericht) |
-| Bestand des Klagedesigns zweifelhaft | Defensivstrategie, Nichtigkeitsverfahren DPMA/EUIPO abwarten oder einleiten |
-| Parallelschutz Urheberrecht | § 2 Abs. 1 Nr. 4 UrhG prüfen (Werke der angewandten Kunst), Schutzschwelle seit BGH „Geburtstagszug" deutlich abgesenkt |
-| Wettbewerbsrechtlicher Schutz | § 4 Nr. 3 UWG (ergänzender Leistungsschutz): Nachahmungsschutz wenn wettbewerbliche Eigenart vorhanden |
-
-## Einstieg
-Frage zu Beginn nur ab, was für den nächsten Schritt unverzichtbar ist:
-
-1. **Rolle und Ziel:** Wer fragt – Angreifer oder Verteidiger? Welcher Output (eV-Antrag, Abmahnung, Nichtigkeitsantrag, Gutachten)?
-2. **Sachverhalt:** Welches Design ist betroffen, wann angemeldet, wo eingetragen? Welche Verletzungshandlung konkret?
-3. **Fristen:** Kenntnis seit wann, Dringlichkeit noch gewahrt?
-4. **Unterlagen:** Registerauszug, Fotos, Anmeldeunterlagen, Muster?
-5. **Format:** Memo, Schriftsatz, Checkliste, Mandantenbrief?
-
-## Output-Module
-- Prüfvermerk im Gutachtenstil (Schutzfähigkeit → Verletzung → Ansprüche → Strategie).
-- Prüfmatrix: Merkmal, Norm, Tatsache, Beleg, Bewertung, To-do.
-- Schriftsatz-Gerüst: eV-Antrag oder Klageschrift (Muster).
-- Schadensberechnungsblatt (drei Methoden).
-
-## Anschlusslogik
-Nach der Anspruchs- und Schadensprüfung schließt die Akte regelmäßig an drei Arbeitsgänge an: eine Red-Team-Kontrolle der Designverletzung, den Behörden-/Registerweg bei DPMA oder EUIPO und die Fristen-/Dringlichkeitsampel für Abmahnung, eV oder Hauptsacheklage.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollständige Mandantenberatung.
-- Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
-- Keine Bewertung nicht belegter Tatsachen.
-- Bei Interessenkonflikten oder Berufsrechtsfragen: Hinweis an den fallführenden Anwalt.
-
----
-
-## Skill: `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt`
-
-_Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachw..._
-
-# Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz. §§ 192 und 194 und 890 ZPO, Ordnungsmittelantrag nach Zuwiderhandlung.
-
-### Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln
-
-## Rechtsrahmen
-
-| Norm | Inhalt |
-|---|---|
-| § 192 ZPO | Parteizustellung: Partei beauftragt Gerichtsvollzieher |
-| § 194 ZPO | GV als Zustellungsorgan; zuständige GV-Stelle |
-| § 195 ZPO | Anwaltliche Zustellung (Empfangsbekenntnis Gegenseite) |
-| § 929 Abs. 2 ZPO | Vollziehungsfrist 1 Monat; Beschlussvollziehung |
-| § 890 ZPO | Ordnungsgeld / Ordnungshaft bei Zuwiderhandlung gegen Unterlassungstitel |
-| § 891 ZPO | Verfahren beim Ordnungsmittelantrag |
-| § 936 ZPO | Verweisung auf Arrestvorschriften für einstweilige Verfügungen |
-| § 750 ZPO | Vollstreckungsvoraussetzungen: vollstreckbare Ausfertigung, Zustellung |
-
-## Ablaufschema Parteibetrieb
-
-```
-Beschluss erhalten
- ↓
-Vollstreckbare Ausfertigung beantragen (§ 724 ZPO)
- ↓
-GV beim zuständigen Amtsgericht beauftragen
- ↓
-Zustellungsauftrag mit Titel und Empfängeradresse übergeben
- ↓
-GV stellt zu, fertigt Zustellungsurkunde (§ 182 ZPO) oder
-Postzustellungsurkunde (§ 180 ZPO)
- ↓
-Zustellungsurkunde zu den Akten nehmen
- ↓
-Vollziehungsfrist gewahrt? Dokumentieren.
-```
-
-## Zuständiger Gerichtsvollzieher
-
-- GV am Wohnsitz / Sitz des Schuldners (§ 194 Abs. 1 ZPO).
-- Bei unbekanntem Aufenthaltsort: Ersuchen um Anschriftenermittlung (§ 755 ZPO) möglich.
-- Online-GV-Beauftragung: In vielen Bundesländern über Elektronisches Gerichts- und Verwaltungspostfach (EGVP) oder zentrale GV-Stelle.
-
-## Beauftragungsschreiben (Muster)
-
-```
-An den Gerichtsvollzieher
-[Amtsgericht / GV-Verteilungsstelle]
-
-Beauftragungs-/Zustellungsauftrag
-
-Wir zeigen die Vertretung der [Mandantin] an.
-
-Beigefügt übergeben wir:
-- Vollstreckbare Ausfertigung des Beschlusses des [Gericht] vom [Datum], Az. [Az.]
-- 1 Ausfertigung als Zustellstück für den Schuldner
-
-Wir beauftragen Sie, den Beschluss im Parteibetrieb an
-
-[Name und Adresse des Schuldners]
-
-zuzustellen und uns die Zustellungsurkunde zu übersenden.
-
-Die Vollziehungsfrist läuft bis [Datum]. Bitte vorrangige Bearbeitung.
-
-[Unterschrift, Kanzlei]
-```
-
-## Ordnungsmittelantrag nach Zuwiderhandlung
-
-**Voraussetzungen § 890 ZPO:**
-1. Vollstreckbarer Unterlassungstitel (eV oder Urteil).
-2. Zustellung an Schuldner erfolgt und Ordnungsmittelhinweis im Titel enthalten.
-3. Konkrete Zuwiderhandlung nach Titelerlass.
-4. Verschulden des Schuldners (widerlegbare Vermutung bei feststehendem Verstoß).
-
-**Antragsmuster-Struktur:**
-- Bezeichnung des Titels (Gericht, Datum, Az.).
-- Schilderung der Zuwiderhandlung (Datum, Ort, Handlung, Beweise).
-- Antrag auf Ordnungsgeld (Vorschlag: Betrag, im Regelfall bis 250.000 €, § 890 Abs. 1 ZPO) oder Ordnungshaft.
-- Glaubhaftmachung: Screenshots, Testkauf, eidesstattliche Versicherung.
-
-## Checkliste vor GV-Beauftragung
-
-| Schritt | Erledigt? |
-|---|---|
-| Vollstreckbare Ausfertigung des Beschlusses liegt vor (§ 724 ZPO) | ☐ |
-| Beschluss enthält Ordnungsmittelhinweis (§ 890 Abs. 2 ZPO) | ☐ |
-| Adresse des Schuldners aktuell und korrekt | ☐ |
-| Vollziehungsfrist (1 Monat § 929 Abs. 2 ZPO) noch nicht abgelaufen | ☐ |
-| Beauftragungsschreiben an GV-Stelle vorbereitet | ☐ |
-| Kosten für GV-Gebühren (GvKostG) vorgeschossen / bereitgestellt | ☐ |
-| Zustellungsurkunde-Eingang überwachen (Fristnotiz) | ☐ |
-
-## Einstieg
-1. Welcher Titel liegt vor (Beschluss/Urteil, Gericht, Az.)?
-2. Wurde bereits vollstreckbare Ausfertigung beantragt?
-3. Ist die Vollziehungsfrist noch offen?
-4. Liegt eine Zuwiderhandlung vor (Ordnungsmittelantrag nötig)?
-5. Welcher Output: GV-Beauftragungsschreiben, Ordnungsmittelantrag, Memo?
-
-## Anschluss-Skills
-- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – Dringlichkeitscheck.
-- `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-ordnungsmittel` – Ordnungsmittelverfahren.
-- `faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev-zustellung` – BeA-Zustellungsweg.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollständige Mandantenberatung.
-- Keine Berechnung von GV-Gebühren ohne konkrete Kenntnis der Gebührenordnung (GvKostG – live prüfen).
-- Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
-
----
-
-## Skill: `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten`
-
-_Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz: Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblich..._
-
-# Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz. Zentrales Schutzschriftenregister (ZSSR), Widerspruch, Abschlussschreiben, Antwortstrategien.
-
-### Gegnerische Schutzschrift auswerten
-
-## Rechtsrahmen
-
-| Norm / Quelle | Inhalt |
-|---|---|
-| § 945a ZPO | Zentrales Schutzschriftenregister (ZSSR) – Einreichung und Abruf |
-| § 922 ZPO | Beschlussverfügung ohne mündliche Verhandlung |
-| § 924 ZPO | Widerspruch gegen einstweilige Verfügung |
-| § 925 ZPO | Mündliche Verhandlung nach Widerspruch |
-| § 936 ZPO | Verweisung auf Arrestvorschriften |
-| § 920 ZPO | Glaubhaftmachung: Verfügungsanspruch + Verfügungsgrund |
-| § 294 ZPO | Mittel der Glaubhaftmachung (eidesstattliche Versicherung etc.) |
-
-## Aufbau einer Schutzschrift – typische Angriffspunkte
-
-Eine gegnerische Schutzschrift greift regelmäßig an:
-
-1. **Verfügungsanspruch:** Kein Schutzrecht, kein Verstoß, fehlende Aktivlegitimation.
-2. **Verfügungsgrund / Dringlichkeit:** Selbstwiderlegung durch Zuwarten; kein Eilbedürfnis.
-3. **Verhältnismäßigkeit:** Antrag zu weit gefasst; Schaden nicht unverhältnismäßig.
-4. **Prozessuale Mängel:** Keine ordnungsgemäße Vollmacht; fehlende Anlagen; unklares Verbotsbegehren.
-5. **Materiell-rechtliche Gegenrechte:** Erschöpfung (§ 24 MarkenG), eigene Schutzrechte, fehlende Verwechslungsgefahr.
-
-## Auswertungsmatrix
-
-| Punkt in Schutzschrift | Rechtliche Einordnung | Stärke | Gegenargument | Beleg nötig |
-|---|---|---|---|---|
-| Selbstwiderlegung Dringlichkeit | § 12 UWG / § 935 ZPO | Hoch, wenn belegt | Kenntnisdatum dokumentiert? | Ja: Datum der Kenntnis |
-| Kein Schutzrecht / kein Verstoß | Materiell | Je nach Fallgestaltung | Registerauszug, Verletzungsnachweis | Ja |
-| Erschöpfung § 24 MarkenG | Materiell | Prüfen: erstmaliges IVB im EWR? | Keine Erschöpfung bei Reimport mit veränderten Waren | Ja: Lieferkette |
-| Unverhältnismäßigkeit | § 935 ZPO | Gering (wird selten durchgesetzt) | Schutzrechtsinhaber trägt kein Übermaß-Risiko | Meist kein gesonderter Beleg |
-| Fehlende Vollmacht | Prozessual | Relevant wenn rügbar | Vollmacht nachlegen | Vollmacht |
-
-## Reaktionsoptionen
-
-| Situation | Empfehlung |
-|---|---|
-| Schutzschrift lag vor EV-Antrag vor (ZSSR) | Gericht hat sie gesehen; Antrag angepasst einreichen; Schutzschrift-Argumente vorab entkräften |
-| Schutzschrift nach EV erhalten | Widerspruchsverhandlung vorbereiten; Schriftsatz vorbereiten |
-| Schwache Schutzschrift | EV-Antrag aufrechterhalten; keine Überwertung der Gegenseite |
-| Starke Schutzschrift mit echten Schwächen | Strategie überdenken: Abschlussschreiben vs. Widerspruchsverhandlung |
-| Dringlichkeitsargument überzeugend | Kenntnisdatum präzise darlegen; eigene eidesstattliche Versicherung |
-
-## Reaktion auf Schutzschrift
-
-```
-Schutzschrift auswerten
- ↓
-Angriffspunkte kategorisieren (prozessual / materiell / Dringlichkeit)
- ↓
-Für jeden Punkt: Gegenbeweis / Gegenargument formulieren
- ↓
-Entscheidung: EV-Antrag aufrechterhalten, anpassen oder zurücknehmen?
- ↓
-Erwidernden Schriftsatz oder Anlage zum EV-Antrag vorbereiten
- ↓
-ggf. mündliche Verhandlung nach Widerspruch (§ 925 ZPO) vorbereiten
-```
-
-## Checkliste Schutzschriften-Auswertung
-
-| Prüfpunkt | Ergebnis |
-|---|---|
-| Schutzschrift aus ZSSR abgerufen? ([zssr.de](https://www.zssr.de)) | ☐ |
-| Angriffspunkte vollständig erfasst? | ☐ |
-| Dringlichkeitsargument entkräftbar? | ☐ |
-| Materiell-rechtliche Einwände belegbar? | ☐ |
-| Prozessuale Mängel identifiziert und heilbar? | ☐ |
-| Strategie festgelegt (EV aufrechterhalten / anpassen) | ☐ |
-| Erwidernder Schriftsatz in Entwurf | ☐ |
-
-## Einstieg
-1. Liegt die Schutzschrift im Volltext vor? (Einreichung über ZSSR oder direkt an Gericht?)
-2. Welche konkreten Angriffspunkte enthält sie?
-3. Hat das Gericht die Schutzschrift bereits berücksichtigt (EV erlassen / abgelehnt)?
-4. Besteht Widerspruch (§ 924 ZPO) der Gegenseite?
-5. Output: Gegenargumentations-Matrix, Schriftsatz-Entwurf, Strategiememo?
-
-## Anschluss-Skills
-- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – Dringlichkeitscheck.
-- `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist` – Abschlussschreiben nach EV.
-- `spezial-verfuegung-beweislast-und-darlegungslast` – Beweisführung.
-
-## Was dieser Arbeitsgang nicht macht
-- Keine inhaltliche Bewertung ohne vollständige Schutzschrift.
-- Kein Ersatz für vollständige Mandantenberatung.
-
----
-
-## Skill: `gewrechts-geschgehg-kollisionen-nda-hinschg-urhg`
-
-_Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden: Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsr..._
-
-# Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsauflösung Hinweisgeberschutz. Output: Kollisionsprüfmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill für Kollisionsfragen.
+_Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsauflösung Hinweisgeberschutz. Output: Kollisionsprüfmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill für Kollisionsfragen._
 
 ## Mandantenfragen beim Kaltstart
 
@@ -860,7 +520,7 @@ _Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrec
 6. Welches Ziel verfolgt die Mandantschaft — einstweilige Verfügung, Schadensersatz, Strafanzeige oder Verteidigung gegen Vorwürfe?
 7. Ist die Information möglicherweise auch urheberrechtlich oder patentrechtlich geschützt (Softwarecode, technische Erfindung)?
 8. Handelt es sich um einen Sachverhalt mit Auslandsbezug (Wirtschaftsspionage, ausländischer Wettbewerber, grenzüberschreitende M&A)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -902,7 +562,8 @@ _Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrec
 
 ## Prüfschema Geheimhaltungsmaßnahmen (Drei-Ebenen-Modell)
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Ebene | Mindestanforderungen | Dokumentationspflicht |
 |-------|--------------------|-----------------------|
@@ -948,14 +609,14 @@ _Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrec
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — GeschGehG-Kollision mit NDA / HinSchG / UrhG prüfen | Vier-Stufen-Test und Kollisionsfelder unten |
+| Standard — GeschGehG-Kollision mit NDA / HinSchG / UrhG pruefen | Vier-Stufen-Test und Kollisionsfelder unten |
 | Variante A — nur NDA ohne GeschGehG-Schutzmassnamen | NDA-Schutz schwaecher; GeschGehG nicht automatisch anwendbar |
-| Variante B — Whistleblower-Situation nach HinSchG | GeschGehG tritt zurueck; HinSchG-Schutz prüfen |
-| Variante C — Softwarecode als Geschäftsgeheimnis | Urheberrecht und GeschGehG parallel; Schutzsystem definieren |
+| Variante B — Whistleblower-Situation nach HinSchG | GeschGehG tritt zurueck; HinSchG-Schutz pruefen |
+| Variante C — Softwarecode als Geschaeftsgeheimnis | Urheberrecht und GeschGehG parallel; Schutzsystem definieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -969,15 +630,15 @@ An das Landgericht [Ort] – [zuständige Kammer] –
 In dem Verfahren [Az.] beantragen wir namens der Klägerin:
 
 1. Das Gericht ordnet gemäß § 16 GeschGehG an, dass folgende in der Klageschrift
- und ihren Anlagen enthaltene Informationen als geheimhaltungsbedürftig einzustufen
- sind: [Konkrete Bezeichnung der Geschäftsgeheimnisse, z. B. Kundenliste
- Anlage K 3; Rezeptur Anlage K 5].
+   und ihren Anlagen enthaltene Informationen als geheimhaltungsbedürftig einzustufen
+   sind: [Konkrete Bezeichnung der Geschäftsgeheimnisse, z. B. Kundenliste
+   Anlage K 3; Rezeptur Anlage K 5].
 
 2. Zugang zu den als geheimhaltungsbedürftig eingestuften Informationen ist auf
- folgenden Personenkreis zu beschränken:
- a) die Prozessbevollmächtigten der Parteien,
- b) je eine benannte Parteivertretung,
- c) bestellte Sachverständige mit schriftlicher Vertraulichkeitspflicht.
+   folgenden Personenkreis zu beschränken:
+   a) die Prozessbevollmächtigten der Parteien,
+   b) je eine benannte Parteivertretung,
+   c) bestellte Sachverständige mit schriftlicher Vertraulichkeitspflicht.
 
 Begründung:
 Die bezeichneten Informationen erfüllen die Voraussetzungen des § 2 Nr. 1 GeschGehG
@@ -1003,11 +664,11 @@ Verfügungsbeklagter: [Ehemaliger Mitarbeiter / Wettbewerber]
 Es wird beantragt:
 
 1. Der Verfügungsbeklagten wird es bei Meidung eines Ordnungsgeldes bis zu
- EUR 250.000, ersatzweise Ordnungshaft, untersagt, die in Anlage AS 1
- bezeichneten Informationen zu nutzen oder offenzulegen.
+   EUR 250.000, ersatzweise Ordnungshaft, untersagt, die in Anlage AS 1
+   bezeichneten Informationen zu nutzen oder offenzulegen.
 
 2. Der Verfügungsbeklagten wird aufgegeben, alle Kopien und Vervielfältigungen
- der Informationen gemäß Anlage AS 1 unverzüglich herauszugeben.
+   der Informationen gemäß Anlage AS 1 unverzüglich herauszugeben.
 
 Dringlichkeit:
 Die Verfügungsklägerin erlangte am [Datum] durch [Umstand] Kenntnis vom
@@ -1044,10 +705,11 @@ GeschGehG, soweit gesetzlich zulässig.
 je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
 ```
 
---- vor Versand klären ---
+--- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 
@@ -1128,7 +790,7 @@ je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
 
 Bevor die Schutzstrategie entwickelt wird, klaere:
 1. Liegen "angemessene Geheimhaltungsmassnahmen" nach § 2 Nr. 1 lit. b GeschGehG vor (technisch UND organisatorisch)?
-2. Ist die verletzte Information wirklich ein Geschäftsgeheimnis oder bereits bekannte Branchen-Praxis?
+2. Ist die verletzte Information wirklich ein Geschaeftsgeheimnis oder bereits bekannte Branchen-Praxis?
 3. Kommt § 5 GeschGehG (Whistleblowing-Ausnahme) oder § 36 HinSchG in Betracht?
 4. Ist eine sofortige Sicherungsanordnung nach § 16 GeschGehG (Offenbarungsschutz im Verfahren) erforderlich?
 
@@ -1142,245 +804,796 @@ Bevor die Schutzstrategie entwickelt wird, klaere:
 
 ---
 
-## Skill: `gr-abmahnung-workflow`
+## Skill: `fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage`
 
-_Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Frist, Unterlassungserklärung modifiziert annehmen: Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Fri..._
+_Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung des Patents gegen Nichtigkeitsangriff. §§ 81 ff. PatG Nichtigkeitsverfahren § 22 PatG Nichtigkeitsgründe. Prüfraster: Nichtigkeitsgrund Stand der Technik erfinderische Tätigkeit Neuheit Verfahrensfragen Gegendarstellung. Output: Nichtigkeitsklageschrift oder Klageerwiderung. Abgrenzung: nicht für Verletzungsverfahren (§ 139 PatG)._
 
-# Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Frist, Unterlassungserklärung modifiziert annehmen
+# Patent-Nichtigkeitsklage
 
+## Triage zu Beginn
 
-## Arbeitsweg
+1. **Patent-Art:** DE-Patent (DPMA), EP-Patent klassisch (vor BPatG) oder Einheitspatent EPG/UPC?
+2. **Strategische Rolle:** Offensiv (fremdes Patent raumen) oder defensiv (Verletzungsklage abwehren)?
+3. **Stand der Technik:** Existiert konkrete Entgegenhaltung (Vorveröffentlichung, Vorbenutzung, aelteres Schutzrecht)?
+4. **Paralleles Verletzungsverfahren?** Bifurkation im DE-System beachten — Verletzung (LG/OLG) und Nichtigkeit (BPatG) sind getrennt.
+5. **EPG-Opt-out:** Ist das EP-Patent aus dem EPG herausgehalten? Wenn nein: EPG/UPC statt BPatG zustaendig.
+6. **FRAND-Fragestellung:** Handelt es sich um ein Standard-essentielles Patent (SEP)? → Sonderpruefung Lizenzierungspflicht.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Zentrale Normen und Paragrafenkette
 
-**Fokus:** Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Frist, Unterlassungserklärung modifiziert annehmen. Prüfraster für Markenrecht, Patentrecht, Designrecht, UWG und UrhG. Mustertexte.
+- § 22 PatG — Klagegrunde Nichtigkeit
+- § 1 PatG — Patentfahigkeit (technische Erfindung)
+- § 3 PatG — Neuheit (StdT-Begriff)
+- § 4 PatG — Erfinderische Taetigkeit (nicht naheliegend)
+- § 21 Abs. 1 Nr. 2 PatG — Unzureichende Offenbarung
+- § 81 PatG — Nichtigkeitsklage vor BPatG
+- § 65 PatG — Beschraenkung des Patentanspruchs durch Inhaber
+- § 110 PatG — Berufung zum BGH (Nichtigkeitssenat X. ZS)
+- Art. 32 ff. EPGUE — Zustaendigkeit Einheitliches Patentgericht
 
-### GR: Abmahnung-Workflow
+## Klagegrunde § 22 PatG
 
-## Rechtsrahmen
+| Grund | Inhalt | Pruefung |
+|-------|--------|---------|
+| Mangelnde Neuheit § 3 PatG | Jedes Merkmal eines Anspruchs ist im StdT offenbart | Einzel-Entgegenhaltung; kein Mosaikverbot |
+| Fehlende Erfindungshoehe § 4 PatG | Gesamtheit der Anspruchsmerkmale fuer Fachmann naheliegend | Fachmann-Perspektive; Kombinationsnahelegen erlaubt |
+| Unzureichende Offenbarung § 21 I Nr. 2 PatG | Fachmann kann Erfindung nicht ausfuehren | Ausnahme: Hinterlegung biologischen Materials |
+| Unzulaessige Erweiterung § 21 I Nr. 4 PatG | Schutzbereich ueber urspruenglich Offenbartes erweitert | Vergleich Anmeldung mit erteiltem Anspruch |
 
-| Norm | Inhalt |
-|---|---|
-| § 14 Abs. 6 MarkenG | Unterlassungs- und Schadensersatzanspruch bei Markenverletzung |
-| § 9 PatG | Ausschließliches Benutzungsrecht; Verletzungsansprüche § 139 PatG |
-| § 42 DesignG | Unterlassung und Schadensersatz bei Designverletzung |
-| § 97 UrhG | Unterlassung und Schadensersatz bei Urheberrechtsverletzung |
-| § 97a UrhG | Abmahnung: Form, Inhalt, Kostenerstattung |
-| § 8 UWG | Unterlassungsanspruch bei unlauterem Wettbewerb |
-| § 13 Abs. 2 UWG | Formerfordernisse der Abmahnung |
-| § 13 Abs. 3 UWG | Kostenerstattung bei berechtigter Abmahnung |
-| § 8c UWG | Rechtsmissbräuchliche Abmahnung: Ausschluss Kostenerstattung |
+## Stand der Technik (SdT) — Recherche und Beweis
 
-## Prüfschema vor der Abmahnung
+### Recherche-Quellen
 
-**Schritt 1 – Aktivlegitimation**
+- **DEPATIS** (DPMA-Datenbank) — DE-Patente und Anmeldungen
+- **Espacenet** (EPA) — Internationale Patentliteratur
+- **Patentscope** (WIPO) — PCT-Anmeldungen
+- **Google Patents** — Breit, mit KI-Suche
+- **IEEE/ACM/Science-Datenbanken** — Nichtpatent-Literatur (NPL)
 
-| Schutzrecht | Aktivlegitimierter |
-|---|---|
-| Marke | Eingetragener Inhaber (§ 14 MarkenG), ausschließlicher Lizenznehmer (wenn ermächtigt) |
-| Patent | Patentinhaber (§ 139 PatG), ausschließlicher Lizenznehmer |
-| Design | Eingetragener Inhaber (§ 42 DesignG) |
-| Urheberrecht | Urheber (§ 7 UrhG), Werknutzungsberechtigter (§ 31 UrhG) |
-| UWG | Mitbewerber (§ 8 Abs. 3 Nr. 1 UWG), qualifizierter Verband (§ 8 Abs. 3 Nr. 2 UWG) |
+### Beweis-Niveau
 
-**Schritt 2 – Verletzungshandlung konkret benennen**
-- Exakte Beschreibung: Welches Schutzrecht, welche Handlung, wann, wo, wie?
-- Beweissicherung: Screenshots mit Zeitstempel, Testkauf mit Quittung, eidesstattliche Versicherung.
+- Veroeffentlichungsdatum der Entgegenhaltung muss **vor dem Anmeldetag** des Patents liegen
+- Inhalt vollstaendig offenbart (nicht nur implizit)
+- Bei Vorbenutzung: Zeugen + zeitgestempelte Dokumente (Rechnungen, Lieferscheine, interne Berichte)
 
-**Schritt 3 – Fristdauer**
-- Regelmäßig: **2–3 Werktage** bei UWG-Eilsachen (wenn eV-Antrag droht).
-- **1–2 Wochen** bei Patent-/Marken-/Design-Abmahnungen ohne akute Dringlichkeit.
-- Längere Frist: bei komplexen technischen Sachverhalten sinnvoll.
+## Zentrale Rechtsprechung
 
-**Schritt 4 – Unterlassungserklärung (UE)**
-- Anforderungen: strafbewehrt, unbefristet, ausreichend weit formuliert.
-- Vertragsstrafe: Hamburger Brauch (Angemessenheitsvorbehalt) vs. fester Betrag.
-- Modifizierte UE: Annahme nur wenn abgegebene UE die Wiederholungsgefahr beseitigt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Muster-Abmahnung (Gerüst)
+## Zustaendigkeit und Bifurkation
+
+### Bundespatentgericht Muenchen (DE-Patent, klassisches EP)
+
+- Nichtigkeitsklage § 81 PatG — Nichtigkeits-Senate (5-koeepfig)
+- Klagegebuehr nach Gerichtsgebuerengesetz (GKG)
+- Schriftsatz-Phase mind. 6-9 Monate, dann muendliche Verhandlung
+- Berufung zum BGH — X. ZS (Nichtigkeitssenat)
+
+### EPG / UPC (Einheitspatent)
+
+- Zustaendigkeit: Local Divisions (Duesseldorf, Hamburg, Muenchen) oder Central Division
+- Zweig Verletzung und Nichtigkeit koennen in einem Verfahren behandelt werden (kein Bifurkations-Problem)
+- Opt-out moeglich fuer klassische EP-Patente bis 2030
+
+### Bifurkation im DE-System
+
+- **Verletzungsverfahren:** OLG / LG (Patentstreitkammern, z.B. Duesseldorf, Muenchen)
+- **Nichtigkeitsverfahren:** BPatG Muenchen
+- **Injunction Gap-Risiko:** LG kann Verletzungs-Urteil sprechen, bevor BPatG Nichtigkeit feststellt → strategisch: Nichtigkeitsklage frueh einreichen
+
+## Schritt-fuer-Schritt-Workflow
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 ```
-[Briefkopf Kanzlei] [Ort, Datum]
+Schritt 1: Patentdokumentation beschaffen
+  → Vollstaendige Akte DPMA/EPA anfordern
+  → Anmeldungs-Tag, Prioritaets-Tag, Erteilungs-Tag notieren
 
-An [Verletzer / Anwalt der Gegenseite] - Per E-Mail + Einschreiben -
+Schritt 2: Stand-der-Technik-Recherche
+  → Patentanwalt beauftragen fuer systematische Recherche
+  → NPL-Datenbanken (IEEE, Science) separat pruefen
+  → Ergebnis: Entgegenhaltungs-Tabelle mit Datum und Treffer-Analyse
 
-Abmahnung wegen Verletzung von [Schutzrecht]
-Unsere Mandantin: [Name]
+Schritt 3: Anspruchsanalyse
+  → Jedes Anspruchsmerkmal identifizieren (Anspruch 1 = Ausgangspunkt)
+  → Neuheit-Abgleich: ist jedes Merkmal im StdT?
+  → Nahelegen-Analyse: Fachmann-Perspektive ex ante
+
+Schritt 4: Klageschrift vorbereiten
+  → Grund des Angriffs klar benennen (§ 3, § 4, § 21 I Nr. 2 PatG)
+  → Entgegenhaltungen als Anlage
+  → Vorbenutzungs-Beweise (Zeugen benennen)
+
+Schritt 5: Klage einreichen BPatG
+  → Klagegebuehr einzahlen
+  → Klageschrift per beA oder Einschreiben
+
+Schritt 6: Schriftsatz-Phase
+  → Klageerwiderung des Patentinhabers abwarten
+  → Hilfsantraege pruefen (§ 65 PatG Beschraenkung)
+
+Schritt 7: Muendliche Verhandlung
+  → Sachverstaendigen-Auftritt vorbereiten
+  → Priorior Art Praesentation
+
+Schritt 8: Berufung BGH (wenn noetig)
+  → Frist: 1 Monat nach Urteilszustellung (§ 110 Abs. 1 PatG)
+```
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Patent-Nichtigkeitsklage erheben | Nichtigkeitsklage-Bausteine und Triage unten |
+| Variante A — Einspruchsfrist laeuft noch | Einspruch beim DPMA statt Klage; guenstiger und schneller |
+| Variante B — Verletzungsklage parallel | Nichtigkeits- und Verletzungsklage koordinieren; Aussetzung erwaegen |
+| Variante C — Mandant will nur Lizenz | Lizenzverhandlung als Alternative; Klage als Druckmittel |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template Klageschrift Nichtigkeit (Auszug)
+
+**Adressat:** Bundespatentgericht Muenchen — Tonfall sachlich-juristisch
+
+```
+Bundespatentgericht
+80335 Muenchen
+
+NICHTIGKEITSKLAGE
+
+der [KLAEGERIN], [ADRESSE]
+— Klaegerin —
+Prozessbevollmaechtigte: [KANZLEI, ADRESSE]
+
+gegen
+
+[PATENTINHABER], [ADRESSE]
+— Beklagte —
+
+wegen Nichtigkeit des deutschen Patents DE [PATENTNUMMER]
+
+Streitwert: [BETRAG] EUR
+
+I. KLAGEANTRAEGE
+
+Die Klaegerin beantragt, das deutsche Patent DE [NR] mit Wirkung fuer die
+Bundesrepublik Deutschland fuer nichtig zu erklaeren, hilfsweise es in
+beschraenktem Umfang fuer nichtig zu erklaeren.
+
+II. BEGRUENDUNG
+
+A. Zum Gegenstand des Patents
+[BESCHREIBUNG DES ANSPRUCHS 1 UND WESENTLICHER UNTERANSPRUECHE]
+
+B. Fehlende Neuheit § 3 PatG
+Die Entgegenhaltung D1 ([Titel, Datum, Fundstelle]) offenbart saemtliche
+Merkmale des Anspruchs 1:
+Merkmal 1: [Beschreibung der Offenbarung in D1]
+Merkmal 2: [...]
+[...]
+
+C. Hilfsweise: Fehlende erfinderische Taetigkeit § 4 PatG
+Selbst wenn das Gericht Neuheit bejahen sollte, ergibt sich der Gegenstand
+des Anspruchs 1 in naheliegender Weise aus D1 in Verbindung mit D2.
+
+[ANLAGENVERZEICHNIS]
+D1: [Titel, Veroeffentlichungsdatum]
+D2: [Titel, Veroeffentlichungsdatum]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
+## Strategische Aspekte
+
+| Situation | Empfehlung | Begruendung |
+|-----------|------------|-------------|
+| Verletzungsklage erwartet | Nichtigkeitsklage praeventiV einreichen | Bifurkation nutzen: BPatG kann Verletzungsverfahren verzoegern |
+| SEP/FRAND-Patent | FRAND-Verhandlung parallel; Nichtigkeit als Druckmittel | Huawei/ZTE EuGH 2015; BGH FRAND-Bedingungen 2021 |
+| Lizenzangebote vorhanden | Nichtigkeit vor Lizenzverweigerung zulassen | Rechtsmissbrauch vermeiden |
+| Defensiv: Lizenz | Nichtigkeit als Verhandlungschip; Cross-Licensing-Angebot | Kosten-Nutzen gegenueberstellen |
+
+## Typische Fehler
+
+1. **SdT-Recherche oberflaechlich** — Klage scheitert mangels Entgegenhaltung
+2. **Verletzungsverfahren ignoriert** — Schaden trotz Nichtigkeit durch Injunction Gap
+3. **Hilfsantraege des Patentinhabers nicht eingeplant** — Beschraenkung rettet Kernpatent
+4. **EPG-Opt-out versaeumt** — falscher Gerichtsstand
+5. **Vorbenutzungs-Zeugen nicht zeitig benannt** — Beweis verloren
+
+## Cross-Refs
+
+- `patentrecherche/freedom-to-operate-recherche` — vor Produktmarkteinfuehrung
+- `patentrecherche/neuheit-pruefen` — Entgegenhaltungsanalyse
+- `fachanwalt-gewerblicher-rechtsschutz-orientierung` — Triage
+
+---
+
+## Skill: `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg`
+
+_UWG-Abmahnung prüfen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Prüfraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: Abmahnschreiben oder Erwiderung modifizierte UE Kostennote. Abgrenzung: nicht für Markenrecht (fachanwalt-gewerblicher-rechtsschutz-markenanmeldung)._
+
+## Mandantenfragen beim Kaltstart
+
+1. Welcher konkrete Wettbewerbsverstoß liegt vor — irreführende Werbung (§ 5 UWG), Rechtsbruch (§ 3a UWG), Spam (§ 7 UWG), aggressive Handlung (§ 4a UWG) oder vergleichende Werbung (§ 6 UWG)?
+2. Ist die Mandantschaft aktivlegitimiert nach § 8 Abs. 3 UWG — besteht ein konkretes Wettbewerbsverhältnis, oder ist sie qualifizierter Verband?
+3. Wann erlangte die Mandantschaft Kenntnis vom Verstoß — Verjährung 6 Monate nach § 11 UWG läuft?
+4. Wurde die Mandantschaft bereits abgemahnt, oder plant sie die Abmahnung der Gegenseite?
+5. Liegt der Verdacht eines missbräuchlichen Abmahnens der Gegenseite vor (§ 8c UWG) — Massenabmahnungen, übersetzte Vertragsstrafe?
+6. Hat die Gegenseite eine Schutzschrift beim Zentralen Schutzschriftenregister hinterlegt?
+7. Besteht UWG-Anspruchskonkurrenz mit Marken- oder Designrecht?
+8. Welcher Streitwert und damit welche Kostenrisiken sind realistisch?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+| Norm | Inhalt |
+|------|--------|
+| § 3 Abs. 1 UWG | Verbot unlauterer geschäftlicher Handlungen |
+| § 3a UWG | Rechtsbruchtatbestand: Verstoß gegen Marktverhaltensregel |
+| § 4 Nr. 3 UWG | Mitbewerberschutz: Nachahmungsschutz (ergänzender Leistungsschutz) |
+| § 4a UWG | Aggressive geschäftliche Handlungen |
+| § 5 UWG | Irreführende Werbung: objektiv unrichtige oder zur Täuschung geeignete Angaben |
+| § 5a UWG | Irreführung durch Unterlassen wesentlicher Informationen |
+| § 6 UWG | Vergleichende Werbung: zulässig wenn objektiv, nicht irreführend, nicht verunglimpfend |
+| § 7 UWG | Unzumutbare Belästigung: E-Mail-Spam, Kalt-Telefonate, Briefkastenwerbung |
+| § 8 Abs. 1 UWG | Unterlassungs- und Beseitigungsanspruch |
+| § 8 Abs. 3 UWG | Aktivlegitimation: Mitbewerber (Nr. 1), qualifizierte Wirtschaftsverbände (Nr. 2), qualifizierte Verbraucherverbände (Nr. 3), Kammern (Nr. 4) |
+| § 8b UWG | Qualifizierte Einrichtungen und Verbände (Liste beim BfJ) |
+| § 8c UWG | Rechtsmissbräuchliche Abmahnung: Indizien, Rechtsfolgen (keine Kostenerstattung) |
+| § 9 UWG | Schadensersatz bei Verschulden; § 9 Abs. 2 bei Verbraucherbeeinträchtigung |
+| § 11 UWG | Verjährung: Unterlassungsanspruch 6 Monate ab Kenntnis; Schadensersatz 3 Jahre §§ 195, 199 BGB |
+| § 12 Abs. 1 UWG | Dringlichkeitsvermutung für einstweilige Verfügung |
+| § 13 Abs. 3 UWG | Aufwendungsersatz für Abmahnkosten (bei berechtigter Abmahnung) |
+| § 13 Abs. 4 UWG | Ausschluss Aufwendungsersatz bei bestimmten Online-Handel-/Datenschutzverstößen |
+| § 14 UWG | Gerichtliche Zuständigkeit: LG am Ort der gewerblichen Niederlassung; fliegender Gerichtsstand eingeschränkt |
+
+## Leitentscheidungen
+
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+
+## Prüfschema UWG-Abmahnung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
+| Schritt | Prüfpunkt | Norm | Rechtsfolge |
+|---------|-----------|------|-------------|
+| 1 | Geschäftliche Handlung? | § 2 Abs. 1 Nr. 2 UWG | Anwendungsbereich; nicht bei rein privaten Handlungen |
+| 2 | Konkreter Verbotstatbestand | §§ 3a, 4, 4a, 5, 5a, 6, 7 UWG; Anhang | Abmahnfähigkeit |
+| 3 | Aktivlegitimation § 8 Abs. 3 UWG? | § 8 Abs. 3 Nr. 1–4 UWG | Ohne Aktivlegitimation: keine strafbewehrte UE; Klage unzulässig |
+| 4 | Missbrauchsprüfung § 8c UWG | § 8c Abs. 2 UWG (Indizien) | Missbräuchliche Abmahnung: kein Kostenersatz; Gegenanspruch § 8c Abs. 3 UWG |
+| 5 | Abmahninhalt: Beanstandung + Unterlassungsaufforderung + Frist | § 13 UWG | Formell mangelhafte Abmahnung löst keinen Kostenersatz aus |
+| 6 | Unterlassungserklärung abgegeben? Ausreichend strafbewehrt? | §§ 339 BGB; § 12 UWG | Unzureichende UE = Wiederholungsgefahr bleibt; eV-Antrag nötig |
+| 7 | Einstweilige Verfügung nötig? | §§ 935, 940 ZPO; § 12 Abs. 1 UWG | Dringlichkeit; Selbstwiderlegung ab ca. 4 Wochen Untätigkeit |
+| 8 | Verjährung geprüft? | § 11 Abs. 1 UWG | 6 Monate ab Kenntnis; Unterbrechung durch Abmahnung oder eV-Antrag |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — UWG-Abmahnung aussprechen oder empfangen | Abmahnungs-Vollmuster und ggf. eAVV-Antrag unten |
+| Variante A — Abmahnung ist missbraeuchlich (§ 8c UWG) | Widerspruchsbaustein unten; kein UE unterzeichnen |
+| Variante B — Mandant moechte selbst abmahnen | Abmahnungs-Vollmuster unten; Streitwert sorgfaeltig berechnen |
+| Variante C — einstweilige Verfuegung noetig | eAVV-Antrag unten; Dringlichkeit pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatz-Bausteine
+
+### Abmahnung (vollständiges Muster)
+
+```
+[Briefkopf Kanzlei]                                          [Ort, Datum]
+
+An [Name der Wettbewerberin]                     - Per Einschreiben/Rückschein -
+
+Wettbewerbsrechtliche Abmahnung gemäß § 13 UWG
+
+Unsere Mandantin:      [Unternehmensname]
+Ihre Referenz:         [Beschreibung des Verstoßes]
 
 Sehr geehrte Damen und Herren,
 
 wir zeigen die Vertretung der [Mandantin] an (Vollmacht Anlage 1).
 
-I. Schutzrecht unserer Mandantin
-[Beschreibung des Schutzrechts, Reg.-Nr., Anmeldetag, Schutzbereich]
-(Anlage 2: Registerauszug)
+I. Sachverhalt
+Die Mandantin und Ihr Unternehmen sind Mitbewerber i. S. § 2 Abs. 1 Nr. 4 UWG
+im Bereich [Branche]. Sie haben am [Datum] auf der Website [URL] / in [Medium]
+folgende Aussage veröffentlicht: "[wörtliches Zitat]" (Anlage 2, Screenshot /
+Kopie).
 
-II. Verletzungshandlung
-Am [Datum] haben Sie auf / in [Plattform / Medium] folgende Handlung vorgenommen:
-[konkrete Beschreibung] (Anlage 3: Screenshot / Testkauf).
+II. Rechtliche Würdigung
+Die Aussage ist irreführend i. S. § 5 Abs. 1 S. 2 Nr. 1 UWG [alternativ:
+Verstoß gegen § 3a UWG durch Verletzung von [Marktverhaltensregel]],
+da [Begründung: objektiv unrichtig / geeignet zur Täuschung / Pflichtangabe
+fehlend nach §§ 5a, 8 TMG / Impressumspflicht DDG verletzt].
 
-III. Ansprüche
-Die oben beschriebene Handlung verletzt [Schutzrecht] und berechtigt unsere
-Mandantin zur Geltendmachung von Unterlassung, Auskunft und Schadensersatz.
+III. Aufforderung
+Wir fordern Sie auf:
 
-IV. Aufforderung
-Wir fordern Sie auf, bis zum [Datum, Frist] die beigefügte strafbewehrte
-Unterlassungserklärung (Anlage 4) zu unterzeichnen und uns zuzusenden.
+1. Die beanstandete Werbung / Handlung unverzüglich einzustellen;
 
-V. Kosten
-Die Kosten dieser Abmahnung betragen [Betrag] €. Wir erwarten Zahlung bis [Datum].
+2. bis spätestens [Datum] (Frist: 10 Werktage) die anliegende strafbewehrte
+   Unterlassungserklärung (Anlage 3) unterzeichnet zurückzusenden;
 
-Ohne fristgerechte Reaktion werden wir einstweilige Verfügung beantragen.
+3. die der Mandantin entstandenen Abmahnkosten gemäß § 13 Abs. 3 UWG
+   in Höhe von EUR [Betrag nach RVG; Streitwert EUR [X]; 1.3-Gebühr zzgl.
+   Auslagen zzgl. 19 % MwSt.] auf folgendes Konto zu zahlen:
+   IBAN: [DE XX XXXX ...]
 
-[Unterschrift]
+Bei fruchtlosem Ablauf der Frist werden wir ohne weitere Ankündigung
+Antrag auf Erlass einer einstweiligen Verfügung stellen.
+
+Mit freundlichen Grüßen
+[Kanzlei, Fachanwalt/Fachanwältin für gewerblichen Rechtsschutz]
+
+--- ANLAGE 3: Strafbewehrte Unterlassungserklärung ---
+
+Die [Schuldnerin], gesetzlich vertreten durch [Vertretung], verpflichtet sich
+gegenüber der [Gläubigerin] für jeden Fall der schuldhaften Zuwiderhandlung
+zur Zahlung einer Vertragsstrafe nach dem Hamburger Brauch (festzusetzen nach
+billigem Ermessen der Gläubigerin, im Streitfall durch das zuständige Gericht
+zu überprüfen), das folgende Handlung zu unterlassen:
+
+[Konkrete Verletzungsform — nicht zu weit, nicht zu eng formulieren]
+
+[Ort, Datum, Unterschrift, Firmenstempel]
 ```
 
-## Reaktion auf eingehende Abmahnung
+### Antrag einstweilige Verfügung UWG
 
-| Reaktion | Wann sinnvoll | Risiko |
-|---|---|---|
-| Vollständige UE unterzeichnen | Verletzung eindeutig; schnelle Lösung | Anerkenntnis der Verletzung |
-| Modifizierte UE | Formulierung zu weit; Sachverhalt klärungsbedürftig | Wiederholungsgefahr bleibt ggf. |
-| Keine Reaktion / Ablehnung | Abmahnung unbegründet; Missbrauch § 8c UWG | EV-Antrag der Gegenseite |
-| Negative Feststellungsklage | Zur Perpetuierung der Gerichtszuständigkeit | Kostentragung bei Verlust |
-| Schutzschrift ZSSR | Vorbeugende Schutzschrift ([zssr.de](https://www.zssr.de)) | Kein Rechtsmittel, nur Prävention |
+```
+An das Landgericht [Ort]
 
-## Kostenpositionen
+ANTRAG AUF ERLASS EINER EINSTWEILIGEN VERFÜGUNG
+gemäß §§ 935, 940 ZPO iVm § 8 Abs. 1 UWG
 
-| Position | Grundlage | Streitwert-Beispiel 50.000 € |
-|---|---|---|
-| Geschäftsgebühr 1,3 | RVG VV Nr. 2300 | 1.641 € |
-| Auslagenpauschale | RVG VV Nr. 7002 | 20 € |
-| USt. 19 % | UStG | 311,79 € |
-| Gesamt | | 1.972,79 € |
+Verfügungsklägerin: [Mandantin]
+Verfügungsbeklagte: [Wettbewerberin]
 
-## Einstieg
-1. Welches Schutzrecht und welche Verletzungshandlung liegen vor?
-2. Wer ist aktivlegitimiert (Markeninhaber / Lizenznehmer / UWG-Mitbewerber)?
-3. Liegt eine eingehende Abmahnung vor, oder soll eine ausgehende vorbereitet werden?
-4. Welche Fristen laufen (Dringlichkeit, Verjährung)?
-5. Output: Abmahnungsentwurf, UE-Entwurf, Reaktionsmemo, Schutzschriften-Auftrag?
+Es wird beantragt, der Verfügungsbeklagten unter Androhung der Ordnungsmittel
+des § 890 ZPO zu untersagen, im geschäftlichen Verkehr [Verletzungsform].
 
-## Plugin-Kontext
-Skill gehört zu `fachanwalt-gewerblicher-rechtsschutz`. Anschluss-Skills: `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung`, `spezial-verfuegung-beweislast-und-darlegungslast`, `workflow-fristen-und-risikoampel`.
+Dringlichkeit (§ 12 Abs. 1 UWG):
+Kenntnis vom Verstoß am [Datum]. Antrag nach [X] Tagen. Keine Schutzschrift
+im Zentralen Schutzschriftenregister (§ 945a ZPO) feststellbar.
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für vollständige Mandantenberatung.
-- Keine eigenständige Schutzrechts-Prüfung ohne Registerauszug.
-- Keine Bewertung nicht belegter Verletzungshandlungen.
+Glaubhaftmachung:
+Anlage AS 1: Eidesstattliche Versicherung [Name];
+Anlage AS 2: Screenshot der beanstandeten Werbung [Datum];
+Anlage AS 3: Handelsregisterauszug Mandantin (Aktivlegitimation);
+Anlage AS 4: Abmahnung vom [Datum] (zur Dokumentation).
+
+Streitwert: EUR [X].
+
+[Ort, Datum]
+[Kanzlei, Fachanwalt/Fachanwältin für gewerblichen Rechtsschutz]
+```
+
+### Widerspruch gegen missbräuchliche Abmahnung (§ 8c UWG)
+
+```
+An [Kanzlei der Abmahnenden]                                 [Ort, Datum]
+
+In Sachen [Abgemahnte] / [Abmahnende]
+Az. Ihrer Kanzlei: [Ref.]
+
+Wir zeigen die Vertretung der [Abgemahnten] an (Vollmacht in Anlage).
+
+Die Abmahnung vom [Datum] ist missbräuchlich i. S. § 8c UWG und wird
+zurückgewiesen.
+
+Begründung:
+[Indizien nach § 8c Abs. 2 UWG, z. B.: Mandantin hat im selben Zeitraum
+[X] gleichartige Abmahnungen versandt (§ 8c Abs. 2 Nr. 1); überhöhte
+Vertragsstrafe bei geringfügigem Verstoß (§ 8c Abs. 2 Nr. 2); kein
+konkretes Wettbewerbsverhältnis (§ 8c Abs. 2 Nr. 5).]
+
+Aufwendungsersatz wird gemäß § 8c Abs. 3 UWG zurückgefordert.
+
+Wir behalten uns vor, unsererseits Klage auf Feststellung der Missbräuchlichkeit
+und auf Ersatz unserer Abwehrkosten zu erheben.
+
+[Kanzlei, Datum]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
+## Beweislast
+
+| Beweisthema | Beweislast | Beweismittel |
+|------------|-----------|--------------|
+| Wettbewerbsverstoß (konkrete Verletzungshandlung) | Abmahnender | Screenshot, Testkauf, eidesstattliche Versicherung |
+| Aktivlegitimation (konkretes Wettbewerbsverhältnis) | Abmahnender | Handelsregisterauszüge, Produktkataloge, Website-Vergleich |
+| Wiederholungsgefahr entfallen | Abgemahnter | Strafbewehrte Unterlassungserklärung; bei Erstverstoß: strukturelle Änderung |
+| Missbrauch § 8c UWG | Abgemahnter | Liste paralleler Abmahnungen; Übersetzung Vertragsstrafe; fehlende eigene wirtschaftliche Tätigkeit |
+| Schaden für Schadensersatz § 9 UWG | Abmahnender | Konkrete Umsatzeinbußen; Sachverständiger; Kundenverlust-Belege |
+| Verjährung nicht eingetreten | Abmahnender | Kenntnisdatum belegen (z. B. internes Monitoring-Protokoll) |
+
+## Fristen
+
+| Frist | Inhalt | Norm |
+|-------|--------|------|
+| 6 Monate | Verjährung Unterlassungsanspruch ab Kenntnis des Verstoßes | § 11 Abs. 1 UWG |
+| 3 Jahre | Verjährung Schadensersatz | §§ 195, 199 BGB |
+| 8–10 Werktage | Übliche Frist zur Abgabe der UE in der Abmahnung | § 13 Abs. 2 Nr. 4 UWG |
+| ca. 4 Wochen | Selbstwiderlegungsrisiko bei einstweiliger Verfügung | § 12 Abs. 1 UWG; Rspr. |
+| 1 Monat | Widerspruch gegen einstweilige Verfügung | § 924 ZPO |
+| 1 Monat | Abschlusserklärung nach Zustellung einstweiliger Verfügung fordern | Praxis; mündliche Verhandlung vermeiden |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument | Herkunft | Reaktion |
+|--------------|---------|----------|
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Abmahnung ist missbräuchlich (§ 8c UWG)" | Abgemahnter | Gegenprüfung der Indizien; bei klaren Verstößen: Klage trotzdem zulässig und kostenpflichtig für Schuldner |
+| "Verstoß ist bagatellmäßig" | Abgemahnter | § 3 Abs. 1 UWG: "spürbar" Erfordernis; bei Schwarze-Liste-Verstößen keine Spürbarkeitserfordernis |
+| "Werbung ist Meinung, keine Tatsachenbehauptung" | Abgemahnter | Meinungsäußerung nur bei wertenden Aussagen ohne Tatsachenkern; gemischte Aussagen nach BGH-Kriterien aufteilen |
+| "Verjährung abgelaufen" | Abgemahnter | Kenntnisdatum exakt dokumentieren; Verjährungsunterbrechung durch Abmahnung prüfen (Meinungsstreit) |
+| "Unterlassungserklärung ist zu weit gefasst" | Abgemahnter | Modifizierte Unterlassungserklärung anbieten; Schutz vor Vertragsstrafe-Inflation durch enge Formulierung |
+
+## Streitwert und Kosten
+
+**Streitwertorientierung (OLG-Streitwertkataloge Wettbewerbssachen):**
+- Einfache Irreführung in Werbung: EUR 10.000–30.000.
+- Spam-E-Mails (einzeln): EUR 5.000–15.000.
+- Influencer-Schleichwerbung: EUR 15.000–30.000.
+- Markenverletzung parallel: Erhöhung möglich.
+- Fehlende Impressumspflicht (DDG/TMG): EUR 1.000–5.000; § 13 Abs. 4 UWG schließt Aufwendungsersatz häufig aus.
+
+**Anwaltsgebühren aus EUR 20.000 Streitwert:**
+- Abmahnung: 1.3-Gebühr VV RVG ca. EUR 1.029 zzgl. Auslagen zzgl. 19 % MwSt.
+- Einstweilige Verfügung: Verfahrensgebühr 1.3 + Terminsgebühr 1.2 = ca. EUR 2.000 netto.
+
+**Ordnungsgeld bei Verstoß gegen Unterlassungsurteil/eV:** EUR 5.000–250.000 (§ 890 ZPO); Ordnungshaft bis 6 Monate.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung | Begründung |
+|-----------|------------|-----------|
+| Eindeutiger Verstoß, Gegenseite kooperativ | Abmahnung mit kurzer Frist (10 Tage); keine eV | Kostengünstigste Lösung; UE mit Hamburger Brauch ausreichend |
+| Verstoß läuft weiter / Gegenseite ignoriert Abmahnung | Sofort einstweilige Verfügung; keine weitere Vorwarnung | Dringlichkeit bleibt erhalten; OLG: Abmahnung unterbricht Dringlichkeit nicht automatisch |
+| Verdacht auf missbräuchliche Gegenabmahnung | § 8c UWG-Gegenangriff; Kostenforderung zurückweisen; Negativfeststellungsklage prüfen | Kostenerstattung entfällt; Gegenanspruch nach § 8c Abs. 3 UWG |
+| Eigene Werbepraktiken prüfen lassen | Präventiv-Compliance: UWG-Audit der Website, AGB, Impressum, Produktaussagen | § 5a UWG und DDG-Pflichten häufig übersehen |
+
+## Anschluss-Skills
+
+- `fachanwalt-gewerblicher-rechtsschutz-designverletzung` — Designrechtliche Anspruchskonkurrenz
+- `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung` — Markenrechtliche Abmahnung analog UWG
+- `fachanwalt-gewrechts-ki-vo-50-genai` — Kennzeichnungspflichten KI-generierter Inhalte als UWG-Abmahnungsanker
+- `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` — Unlautere Verwertung von Geschäftsgeheimnissen
+
+## Quellen
+
+- UWG: https://www.gesetze-im-internet.de/uwg_2004/
+- § 8c UWG: https://www.gesetze-im-internet.de/uwg_2004/__8c.html
+- BGH I ZR 154/16: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%20154/16
+- BGH I ZR 45/11: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%2045/11
+- Zentrales Schutzschriftenregister: https://www.schutzschriftenregister.de/
 
 ---
 
-## Skill: `gr-uebersetzung-marke-osterreich-schweiz-spezial`
+## Skill: `fachanwalt-gewerblicher-rechtsschutz-designverletzung`
 
-_Markenrecht in Österreich und der Schweiz: Österreichisches Markengesetz (MSchG), Österreichisches Patentamt (ÖPA), Schweizer Markenschutzgesetz (MSchG CH), IGE/IPI Bern, IR-Marke als Erweiterungsweg, EUIPO-Ausschluss Schweiz, Besonderheiten und Fallstricke..._
+_Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren. §§ 1 2 38 GeschmMG §§ 11 ff. GeschmMG Verletzungsansprüche EU-Geschmacksmuster-VO. Prüfraster: Schutzfähigkeit Neuheit Eigenart Verletzungshandlung Ausnahmen Ansprüche. Output: Verletzungsprüfmemo Abmahnschreiben oder Erwiderung. Abgrenzung: nicht für Marken- oder Urheberrechtsverletzungen._
 
-# Markenrecht in Österreich und der Schweiz: Österreichisches Markengesetz (MSchG), Österreichisches Patentamt (ÖPA), Schweizer Markenschutzgesetz (MSchG CH), IGE/IPI Bern, IR-Marke als Erweiterungsweg, EUIPO-Ausschluss Schweiz, Besonderheiten und Fallstricke.
+## Mandantenfragen beim Kaltstart
 
+1. Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster (GGV Art. 11, 3 Jahre ab Erstoffenbarung)?
+2. Was ist der Anmeldetag und wie viele Verlängerungsperioden wurden bereits gebucht (max. 25 Jahre, alle 5 Jahre, § 47 DesignG)?
+3. Wie sieht das mutmaßliche Verletzungsmuster konkret aus — Fotos, Maße, Vertriebskanal, Amazon-ASIN, URL?
+4. Liegt eine Voroffenbarung des Klagedesigns vor (§ 5 DesignG: Neuheitsschonfrist 12 Monate)?
+5. Wann erlangte die Mandantschaft Kenntnis vom Verletzungsprodukt — wichtig für Dringlichkeit der einstweiligen Verfügung (Selbstwiderlegung ab ca. 4 Wochen)?
+6. Welcher Gestaltungsfreiraum besteht im Marktsegment (§ 38 Abs. 2 S. 2 DesignG) — enge technische Vorgaben oder breite Gestaltungsfreiheit?
+7. Welche Schadenshöhe ist realistisch — Verkaufszahlen Verletzungsprodukt schätzbar?
+8. Liegt Anspruchskonkurrenz vor — ist das Design auch markenrechtlich, urheberrechtlich oder als Lauterkeitsrecht-Nachahmungsschutz (§ 4 Nr. 3 UWG) schützbar?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Arbeitsweg
+## Rechtsgrundlagen
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+| Norm | Inhalt |
+|------|--------|
+| § 1 Nr. 1 DesignG | Schutzgegenstand: zweidimensionale und dreidimensionale Erscheinungsform eines Erzeugnisses |
+| § 2 Abs. 2 DesignG | Schutzvoraussetzung Neuheit: kein identisches Design vor Anmeldung offenbart |
+| § 2 Abs. 3 DesignG | Schutzvoraussetzung Eigenart: anderer Gesamteindruck beim informierten Benutzer |
+| § 5 DesignG | Neuheitsschonfrist 12 Monate für Eigenveröffentlichung durch den Entwerfer |
+| § 38 Abs. 2 DesignG | Schutzumfang: jedes Design, das beim informierten Benutzer keinen anderen Gesamteindruck erweckt; Gestaltungsfreiheit des Entwerfers berücksichtigen |
+| § 42 Abs. 1 DesignG | Unterlassungsanspruch |
+| § 42 Abs. 2 DesignG | Schadensersatz bei Verschulden (Vorsatz oder Fahrlässigkeit); drei Berechnungsmethoden |
+| § 43 DesignG | Beseitigung, Vernichtung, Rückruf |
+| § 46 DesignG | Auskunftsanspruch; Drittauskunft § 46 Abs. 2 |
+| § 47 f. DesignG | Schutzdauer 5 Jahre ab Anmeldung; max. 25 Jahre durch Verlängerung |
+| § 48 DesignG | Erschöpfung |
+| § 49 DesignG | Verjährung iVm §§ 195, 199 BGB |
+| Art. 11 GGV (EG 6/2002) | Nicht eingetragenes Gemeinschaftsgeschmacksmuster: 3 Jahre ab erster Offenbarung in der EU; nur bei nachgewiesener Kopie |
+| Art. 35 ff. GGV | Eingetragenes Gemeinschaftsgeschmacksmuster EUIPO |
+| §§ 935, 940 ZPO | Einstweilige Verfügung; Dringlichkeit ungeschriebenes Tatbestandsmerkmal |
+| Art. 16 DSA | Notice-and-Action bei Online-Plattformen (seit 17.2.2024 voll anwendbar) |
 
-**Fokus:** Markenrecht in Österreich und der Schweiz: Österreichisches Markengesetz (MSchG), Österreichisches Patentamt (ÖPA), Schweizer Markenschutzgesetz (MSchG CH), IGE/IPI Bern, IR-Marke als Erweiterungsweg, EUIPO-Ausschluss Schweiz, Besonderheiten und Fallstricke.
+## Leitentscheidungen
 
-### Markenrecht in Österreich und der Schweiz
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-## Österreich – Markenrecht
+## Prüfschema Designverletzung
 
-### Rechtsrahmen
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-| Rechtsquelle | Inhalt |
+| Schritt | Prüfpunkt | Norm | Rechtsfolge |
+|---------|-----------|------|-------------|
+| 1 | Schutzrecht vorhanden und eingetragen? | § 41 DesignG; Art. 35 GGV | DPMA-/EUIPO-Registerauszug als Anlage |
+| 2 | Schutzdauer nicht abgelaufen? | § 47 DesignG | Verlängerung prüfen |
+| 3 | Neuheit gegeben? | § 2 Abs. 2 DesignG | Vorveröffentlichungs-Recherche; Schonfrist § 5 DesignG (12 Monate) |
+| 4 | Eigenart gegeben (Gesamteindruck informierter Benutzer)? | § 2 Abs. 3 DesignG | Sachverständigengutachten ggf. erforderlich |
+| 5 | Verletzungsmuster verglichen: gleicher Gesamteindruck? | § 38 Abs. 2 DesignG | Gestaltungsfreiheit des Segments berücksichtigen |
+| 6 | Passivlegitimation: Hersteller, Importeur, Händler? | § 42 Abs. 1 DesignG | Klage gegen gesamte Lieferkette möglich |
+| 7 | Kein Rechtfertigungsgrund (Erschöpfung, Privatnutzung, Test)? | §§ 40, 48 DesignG | Ausnahmen eng auslegen |
+| 8 | Verschulden für Schadensersatz? | § 42 Abs. 2 DesignG | Fahrlässigkeit bei Internet-Händler regelmäßig (+) |
+| 9 | Dringlichkeit bei einstweiliger Verfügung? | §§ 935, 940 ZPO | Kenntnis-Datum dokumentieren; Antrag binnen 4 Wochen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
 |---|---|
-| MSchG (AT) – Markenschutzgesetz | Nationales österreichisches Markenrecht |
-| ÖPA – Österreichisches Patentamt | Anmelde- und Verwaltungsbehörde; [patentamt.at](https://www.patentamt.at) |
-| UMV (VO 2017/1001) | EU-Recht direkt anwendbar in Österreich (EU-Mitglied) |
-| WTO/TRIPs | Mindeststandards |
+| Standard — Designverletzung geltend machen | Klageschrift-Antragsskizze und eAVV unten |
+| Variante A — Mandant will erst aussergerichtlich | Abmahnung mit Unterlassungserklaerung; Klage als Backup |
+| Variante B — Online-Plattform als Verletzungsort | Notice-and-Action Art. 16 DSA; schneller Weg |
+| Variante C — Gegenseite bestreitet Schutzbereich des Designs | Nichtigkeitsantrag beim DPMA pruefen; Verteidigung vorbereiten |
 
-### Wesentliche Unterschiede zu Deutschland
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-| Punkt | Österreich | Deutschland |
-|---|---|---|
-| Anmeldebehörde | ÖPA (Österreichisches Patentamt) | DPMA |
-| Widerspruchsfrist | 3 Monate ab Eintragung | 3 Monate ab Bekanntmachung |
-| Markeneintragungsregister | [basismarke.at](https://www.basismarke.at) (ÖPA-Datenbank) | [dpma.de](https://www.dpma.de) |
-| Einheitliche EU-Marke | Ja (EUIPO zuständig) | Ja (EUIPO zuständig) |
-| Benutzungspflicht | 5 Jahre (wie DE) | 5 Jahre § 26 MarkenG |
-| Ältere Firmenbezeichnung | § 9 UWG (AT): Namensverletzung als Gegenrecht | § 5, 15 MarkenG |
+## Schriftsatz-Bausteine
 
-### IR-Marke als Erweiterungsweg für Österreich
+### Verletzungsklage (vollständige Antragsskizze)
 
-Da Österreich EU-Mitglied ist, deckt eine Unionsmarke (EUIPO) auch Österreich ab. Für rein nationale österreichische Marke: direkte Anmeldung beim ÖPA oder IR-Marke mit Benennung „AT".
+```
+An das Landgericht [Ort] – Kammer für Designstreitsachen § 52 DesignG –
 
-## Schweiz – Markenrecht
+Klage
 
-### Rechtsrahmen
+der [Designinhaberin], [Anschrift]  – Klägerin –
+gegen
+die [Verletzerin], [Anschrift]      – Beklagte –
 
-| Rechtsquelle | Inhalt |
-|---|---|
-| MSchG (CH) – Markenschutzgesetz | Nationales Schweizer Markenrecht |
-| IGE / IPI | Institut für Geistiges Eigentum Bern; [ige.ch](https://www.ige.ch) |
-| UWG (CH) | Schweizer UWG; anders als deutsches UWG strukturiert |
-| Lugano-Übereinkommen | Gerichtszuständigkeit Schweiz–EU |
+wegen Verletzung des eingetragenen Designs Nr. [DE/EM-Nr.]
 
-### Schweiz: KEIN EU-Mitglied – wichtige Konsequenzen
+Anträge:
 
-| Punkt | Schweiz | Deutschland / EU |
-|---|---|---|
-| Unionsmarke (EUIPO) | **Nicht** gültig in der Schweiz | Gültig in allen EU-Mitgliedstaaten |
-| Schutz in der Schweiz | Nur über CH-Nationalmarke (IGE) oder IR-Marke mit Benennung „CH" | – |
-| Gerichtsbarkeit | Schweizer Bundesgericht; kein EuGH | EuGH, BGH |
-| Verfahrenssprache | Deutsch, Französisch, Italienisch je nach Kanton | Deutsch |
-| Benutzungspflicht | 5 Jahre ab Eintragung (Art. 12 MSchG CH) | 5 Jahre § 26 MarkenG |
+1. Die Beklagte wird verurteilt, es bei Meidung eines für jeden Fall der
+   Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu EUR 250.000,
+   ersatzweise Ordnungshaft bis zu 6 Monaten, zu unterlassen, Produkte
+   gemäß Anlage K 3 (Verletzungsmuster) anzubieten, zu vertreiben oder
+   zu bewerben.
 
-### IR-Marke (Madrider System) für Schweiz
+2. Die Beklagte wird verurteilt, der Klägerin Auskunft zu erteilen
+   (§ 46 DesignG):
+   a) Lieferanten, Hersteller, Vorbesitzer;
+   b) gewerbliche Abnehmer mit Anschriften und Bestellmengen;
+   c) Umsatzerlöse und Einkaufspreise je Verletzungseinheit.
 
-Die effizienteste Möglichkeit, Markenschutz in der Schweiz zu erlangen, ist die IR-Marke über WIPO mit Benennung „CH":
-- Basismarke: DE, EU oder andere.
-- Einreichung beim DPMA (als receiving office) oder direkt bei WIPO.
-- Schutzbeurteilung durch IGE/IPI (provisorische Zurückweisung möglich).
-- Kosten: [wipo.int/madrid/en/fees](https://www.wipo.int/madrid/en/fees/).
+3. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin
+   alle durch die Handlungen gemäß Nr. 1 entstandenen und künftigen Schäden
+   zu ersetzen (§ 42 Abs. 2 DesignG).
 
-## Fallstricke bei DACH-Mandaten
+4. Die Beklagte wird verurteilt, die in ihrem Besitz befindlichen
+   Verletzungsmuster zu vernichten und aus den Vertriebskanälen zurückzurufen
+   (§ 43 DesignG).
 
-| Fallstrick | Erläuterung |
-|---|---|
-| EU-Marke schützt nicht die Schweiz | Häufiger Irrtum bei Mandanten; separaten CH-Schutz erwirken |
-| Österreichische ältere Marke als Basismarke der IR-Marke | Möglichkeit, aber ÖPA-Verfahren beachten |
-| Abmahnung in der Schweiz auf Basis dt. UWG | Nicht möglich; Schweizer UWG (ch) und ggf. MSchG CH anwenden |
-| Gerichtsstand bei grenzüberschreitendem Online-Verstoß | Lugano-Übereinkommen (CH) vs. EuGVVO (AT/DE) |
-| Benutzungsnachweise separat je Land | IR-Marke: Benutzungsnachweis je Designierungsland separat |
+5. Die Beklagte trägt die Kosten des Rechtsstreits.
 
-## Registerabfragen
+Streitwert: EUR [Betrag].
 
-| Register | Link |
-|---|---|
-| ÖPA Markenregister | [basismarke.at](https://www.basismarke.at) |
-| IGE/IPI Schweiz | [ige.ch/de/marken/markensuche](https://www.ige.ch/de/marken/markensuche.html) |
-| WIPO Madrid Monitor | [branddb.wipo.int](https://branddb.wipo.int) |
-| EUIPO (keine Wirkung CH) | [euipo.europa.eu/eSearch](https://euipo.europa.eu/eSearch/) |
+Begründung:
 
-## Einstieg
-1. In welchem Land soll Markenschutz erlangt oder durchgesetzt werden (AT / CH / DACH)?
-2. Besteht bereits ein Schutzrecht (DPMA, EUIPO, IR-Marke)?
-3. Soll eine Verletzung abgemahnt oder ein neues Schutzrecht angemeldet werden?
-4. Liegt ein grenzüberschreitender Online-Sachverhalt vor?
-5. Output: Anmeldeweg-Memo, Abmahn-Entwurf AT/CH, Registerrecherche, Strategievergleich?
+I. Aktivlegitimation
+Die Klägerin ist Inhaberin des eingetragenen Designs Nr. [Reg.-Nr.], angemeldet
+am [Datum] beim [DPMA/EUIPO], Locarno-Klasse [Nr.] (Anlage K 1, Registerauszug).
+Die Schutzwiedergaben sind in Anlage K 2 enthalten.
 
-## Plugin-Kontext
-Anschluss-Skills: `spezial-euipo-internationaler-bezug-und-schnittstellen`, `gr-portfolio-pflege-workflow`, `faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung`.
+II. Sachverhalt
+Die Beklagte vertreibt seit [Datum] das in Anlage K 3 abgebildete Produkt
+[Bezeichnung] über [Vertriebskanal / URL / Amazon ASIN]. Ein Testkauf
+erfolgte am [Datum] (Anlage K 4, Kassenbon / Bestellbestätigung).
 
-## Was dieser Arbeitsgang nicht macht
-- Keine vollständige Rechtsberatung nach österreichischem oder schweizerischem Recht ohne Kooperation mit Lokalkanzlei.
-- Kein Ersatz für Anwaltsmandat in AT oder CH.
+III. Neuheit und Eigenart
+Das Klagedesign ist neu i. S. § 2 Abs. 2 DesignG; der Stand des Designs
+weist kein identisches vorbekanntes Design auf. Es besitzt Eigenart nach
+§ 2 Abs. 3 DesignG, da der informierte Benutzer im Vergleich zu vorbekannten
+Designs einen anderen Gesamteindruck erhält: [Ausführung der prägenden Merkmale].
+
+IV. Designverletzung § 38 DesignG
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Kinderwagen I) denselben Gesamteindruck hervor wie das Klagedesign.
+Folgende prägende Gestaltungsmerkmale sind vollständig übernommen:
+[tabellarische Gegenüberstellung Klagedesign vs. Verletzungsmuster].
+Der Gestaltungsfreiraum im Segment [Warenbereich] ist [groß/gering],
+was zu einem [weiten/engen] Schutzumfang führt (§ 38 Abs. 2 S. 2 DesignG).
+
+V. Schadensersatz
+Die Beklagte handelte zumindest fahrlässig. Die Klägerin behält sich die
+Wahl der Schadensberechnungsmethode (konkreter Schaden / Verletzergewinn /
+fiktive Lizenzgebühr) bis nach Auskunftserteilung vor (§ 42 Abs. 2 DesignG).
+
+[Ort, Datum]
+Rechtsanwalt/Rechtsanwältin [Name], Fachanwalt/Fachanwältin für
+gewerblichen Rechtsschutz
+```
+
+### Antrag einstweilige Verfügung
+
+```
+An das Landgericht [Ort]
+
+ANTRAG AUF ERLASS EINER EINSTWEILIGEN VERFÜGUNG
+gemäß §§ 935, 940 ZPO iVm § 42 DesignG
+
+Verfügungsklägerin: [Designinhaberin]
+Verfügungsbeklagte: [Verletzerin]
+
+Es wird beantragt:
+Der Verfügungsbeklagten wird es bei Meidung eines Ordnungsgeldes bis zu
+EUR 250.000, ersatzweise Ordnungshaft bis zu 6 Monaten, untersagt, das in
+Anlage AS 3 abgebildete Produkt im geschäftlichen Verkehr anzubieten, zu
+vertreiben oder zu bewerben.
+
+Dringlichkeit:
+Kenntnis am [Datum] durch [Testkauf / Hinweis]. Antrag nach [X] Tagen;
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Glaubhaftmachung:
+Anlage EV 1: Eidesstattliche Versicherung [Name];
+Anlage EV 2: Registerauszug DPMA/EUIPO;
+Anlage EV 3: Testkauf-Unterlagen / Screenshot.
+
+[Ort, Datum]
+[Anwalt/Anwältin]
+```
+
+### Notice-and-Action gegen Online-Plattform (Art. 16 DSA)
+
+```
+An [Plattformbetreiber – IP-Beschwerdestelle] per [E-Mail/Portal]
+
+Meldung einer Rechtsverletzung gemäß Art. 16 DSA
+
+Rechteinhaber: [Unternehmensname], Inhaber des eingetragenen Designs Nr. [Reg.-Nr.]
+
+Verletzende Inhalte (URLs / ASINs):
+[Liste der URLs]
+
+Begründung:
+Die oben bezeichneten Angebote verletzen das eingetragene Design Nr. [Reg.-Nr.]
+(Registerauszug in Anlage). Wir beantragen die unverzügliche Entfernung der
+Angebote gemäß Art. 16 DSA.
+
+Ich erkläre in gutem Glauben, dass die gemeldeten Informationen nicht von
+den Rechteinhabern autorisiert sind.
+
+[Kontaktdaten, Datum, Unterschrift]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Beweislast
+
+| Beweisthema | Beweislast | Beweismittel |
+|------------|-----------|--------------|
+| Schutzrecht, Inhaberschaft | Klägerin | DPMA-/EUIPO-Registerauszug; Prioritätsurkunde |
+| Neuheit (§ 2 Abs. 2 DesignG) | Beklagte (Einwand Nichtigkeitsgegenklage) | Vorveröffentlichungs-Nachweise |
+| Eigenart — Gesamteindruck | Klägerin (primär); Beklagte bei Einwand fehlender Eigenart | Sachverständigengutachten; Designvergleichs-Tabellen |
+| Verletzung: gleicher Gesamteindruck | Klägerin | Gegenüberstellung; ggf. Sachverständiger |
+| Verschulden für Schadensersatz | Klägerin | Abmahnschreiben + Zuwiderhandlung = Indiz Vorsatz |
+| Schadenshöhe | Klägerin (nach Auskunft) | Betriebliche Unterlagen Beklagter; Marktpreisanalysen |
+| Erschöpfung (§ 48 DesignG) | Beklagte | Nachweis Erstinverkehrbringen durch Rechteinhaber |
+
+## Fristen
+
+| Frist | Inhalt | Norm |
+|-------|--------|------|
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 3 Monate | Widerspruch Eintragung bei DPMA | § 42 DesignG |
+| 5 Jahre | Verlängerungsperiode Schutzdauer; max. 25 Jahre | § 47 DesignG |
+| 3 Jahre | Schadensersatzanspruch-Verjährung ab Kenntnis | §§ 195, 199 BGB iVm § 49 DesignG |
+| 12 Monate | Neuheitsschonfrist bei Eigenveröffentlichung | § 5 DesignG |
+| 3 Jahre | Schutz nicht eingetragenes Gemeinschaftsgeschmacksmuster ab erster Offenbarung | Art. 11 GGV |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument | Herkunft | Reaktion |
+|--------------|---------|----------|
+| "Design fehlt Eigenart" | Beklagte | Sachverständigengutachten einholen; Designvergleich mit Stand der Technik aufbereiten; hohe Hürde für Nichtigkeitsgegenklage |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| "Vorveröffentlichung durch Klägerin beseitigt Neuheit" | Beklagte | Neuheitsschonfrist § 5 DesignG (12 Monate) bei Eigenoffenbarung; Datum der Erstveröffentlichung prüfen |
+| "Erschöpfung § 48 DesignG" | Beklagte | War Erstinverkehrbringen durch Rechteinhaber autorisiert? Nachweis der Lieferkette |
+| "Antrag nicht dringlich — zu lange gewartet" | Beklagte | Genaues Kenntnis-Datum dokumentieren; subjektive Dringlichkeit (ab tatsächlicher Kenntnis, nicht Erkennbarkeitszeitpunkt) |
+| "Verletzungsmuster ist anderes Produkt" | Beklagte | Detaillierter Vergleich Gestaltungsmerkmale; ggf. Gerichtstermin mit Originals und Mustern |
+
+## Streitwert und Kosten
+
+**Streitwert Unterlassung:** Typisch EUR 50.000–250.000 je nach Marktbedeutung, Umsatz des Verletzungsprodukts und Marktposition des Klägers.
+Beispiel: 5.000 Stück verkauft à EUR 30 Verkaufspreis = EUR 150.000 Streitwert realistisch.
+
+**Einstweilige Verfügung:** Streitwert i. d. R. Hauptsachestreitwert voll oder Abschlag bis 1/2.
+
+**Gerichtsgebühren (GKG):**
+Aus EUR 100.000: Gebühr 3.0 (Klageverfahren) ca. EUR 2.604.
+Einstweilige Verfügung: Gebühr 1.5 ca. EUR 1.302.
+
+**Anwaltsgebühren (RVG, Beispiel EUR 100.000 Streitwert):**
+Verfahrensgebühr 1.3 VV RVG ca. EUR 2.018; Terminsgebühr 1.2 VV RVG ca. EUR 1.863; Einigungsgebühr 1.5 VV RVG ca. EUR 2.018; zzgl. Auslagen, 19 % MwSt.
+
+**Schadensberechnung:**
+- Fiktive Lizenzgebühr: branchenüblich 3–10 % des Verletzter-Umsatzes.
+- Verletzergewinn: vollständige Abschöpfung.
+- Konkreter Schaden: entgangener Gewinn + Marktverwirrung.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung | Begründung |
+|-----------|------------|-----------|
+| Verletzung Online-Handel festgestellt | Sofort Notice-and-Action Art. 16 DSA + parallele einstweilige Verfügung gegen Verkäufer | Schnelle Marktbereinigung; Beweissicherung durch Testkauf vor Antragstellung |
+| Hoher Umsatz des Verletzungsprodukts | Hauptsacheklage auf Verletzergewinn + Vernichtung | Maximale Schadensabschöpfung |
+| Schutz noch nicht eingetragen | Nicht eingetragenes GGM Art. 11 GGV nutzen (3 Jahre); keine Kopie nachweisbar? → sofort DPMA-Anmeldung nachholen | Eingetragenes Design hat deutlich besseren Schutzumfang |
+| Anspruchskonkurrenz (Design + Marke + UWG) | Klagehäufung; Hauptanspruch Design; Hilfsanspruch UWG § 4 Nr. 3 | Erhöhter Schutzumfang durch parallele Ansprüche |
+
+## Anschluss-Skills
+
+- `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung` — Markenschutz ergänzend zum Designschutz
+- `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — UWG § 4 Nr. 3 (Nachahmungsschutz) parallel zum Designrecht
+- `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` — Urheberrecht parallel zum Designschutz
+- `gerichtsstand-und-rechtswahl-pruefen` — Internationale Designverletzung (Brüssel Ia-VO, Rom II Art. 8)
+
+## Quellen
+
+- DesignG: https://www.gesetze-im-internet.de/geschmmg_2004/
+- GGV (EG 6/2002): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32002R0006
+- EuGH C-281/10 (PepsiCo): https://curia.europa.eu/juris/liste.jsf?num=C-281/10
+- EUIPO eFiling: https://euipo.europa.eu/eSearch/
+- DSA Art. 16: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R2065
+
+## Triage-Fragen bei Designverletzungs-Mandat
+
+Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
+1. Ist das Design eingetragen (DesignG/GGV) oder handelt es sich um ein nicht-eingetragenes GGM (3-Jahres-Schutz)?
+2. Weicht der Gesamteindruck des verletzenden Designs von dem des geschuetzten Designs ab (informierter Benutzer nach Art. 10 GGV)?
+3. Liegen Neuheit und Eigencharakter des geschuetzten Designs unstreitig vor — oder droht eine Nichtigkeit-Widerklage?
+4. Gibt es Beweise fuer absichtliche Kopie (Marktstudie, Online-Produktfotos, Zeitstrahl)?
+
+## Aktuelle Rechtsprechung
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+---
 
 ---
 

@@ -46,7 +46,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 204 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -209,6 +209,10 @@ Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschre
 | `stbvv-verguetung-und-transparenz-kaltstart-und-fa` | Steuerberater: stbvv vergütung und transparenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
 | `stbvv-verguetung-und-transparenz-kammerantwort` | Steuerberater: stbvv vergütung und transparenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
 | `stbvv-verguetung-vermoegensverfall` | Steuerberater: stbvv vergütung und transparenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
+| `steuerberater-vermoegensverfall-steuerberater-kaltstart-und-fak` | Steuerberater: vermoegensverfall steuerberater - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `steuerberater-vermoegensverfall-steuerberater-kammerantwort-und` | Steuerberater: vermoegensverfall steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `steuerberater-vermoegensverfall-steuerberater-organisationspfli` | Steuerberater: vermoegensverfall steuerberater - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `steuerberater-vermoegensverfall-steuerberater-rechtsprechungsch` | Steuerberater: vermoegensverfall steuerberater - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuererklaerung-ohne-vollstaendige-belege-kaltst` | Steuerberater: steuererklaerung ohne vollstaendige belege - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerber... |
 | `steuererklaerung-ohne-vollstaendige-belege-kammer` | Steuerberater: steuererklaerung ohne vollstaendige belege - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
 | `steuererklaerung-ohne-vollstaendige-belege-organi` | Steuerberater: steuererklaerung ohne vollstaendige belege - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht St... |

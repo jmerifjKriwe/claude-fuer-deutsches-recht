@@ -48,4 +48,3 @@
 | D 10 | Emails Vogelweide an St.-Antonius-Heim Nov. 2022 | ja (eml/) |
 | D 11 | Gesellschafterbeschlüsse 2018–2023 (Protokolle) | ja |
 | D 12 | Schadensersatzklage St.-Antonius-Heim gegen Vogelweide | ja |
-

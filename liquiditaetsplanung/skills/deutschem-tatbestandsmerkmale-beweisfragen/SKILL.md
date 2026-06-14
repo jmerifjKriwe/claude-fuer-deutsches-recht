@@ -33,4 +33,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Belege:** Saldenlisten OPOS-Debitoren/-Kreditoren mit Fälligkeit, Kontoauszüge mind. 3 Monate, Steuerkonto (FA-Mitteilung), Beitragskonto SV (Krankenkasse), Personalkostenliste, Tilgungsplan Bankverbindlichkeiten.
 - **Beweispflicht:** Im Anfechtungs- und Haftungsprozess trägt grds. der Verwalter die Darlegungslast für Zahlungsunfähigkeit und Kenntnis (§§ 130 ff. InsO); im Strafprozess § 15a InsO ist die Staatsanwaltschaft beweispflichtig.
 - **Annahmen-Memo:** Quellen (z. B. Auftragsbestand laut CRM, Forderungslaufzeit laut OPOS-Auswertung) und Bandbreiten dokumentieren — bei Bestreiten der Annahmen ist das Memo die erste Verteidigungslinie.
-

@@ -2,25 +2,25 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `strafzumessung`.
+Dieser Megaprompt enthaelt top-15 von 60 Skills des Plugins `strafzumessung`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Strafzumessung: ordnet Rolle (Angeklagter, Verteidiger, Staatsanwaltschaft), markiert F…
 2. **orientierung-triage-paragraph-stgb-besonders** — Einstieg und Triage. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbef…
 3. **strafzumessung-erstpruefung-und-mandatsziel** — Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel im Strafzumessung.
-4. **bewaehrung-56-stgb-positive-sozialprognose** — Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen positive Sozialprognose Abs. 1 bis 1 Jahr; b…
-5. **bewaehrung-auflagen-bewaehrungswiderruf-56f** — Auflagen § 56b StGB und Weisungen § 56c StGB im Bewaehrungsbeschluss. Auflagen dienen der Genugtuung Wiedergutmachung Ge…
-6. **freiheitsstrafe-ohne-bewaehrung-vollstreckung** — Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Res…
-7. **geldstrafe-tagessatzanzahl-bestimmen** — Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtge…
-8. **haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung** — Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe ber…
-9. **iii-stpo-begruendungsanforderungen-strafurteil** — Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmende…
-10. **nachtraegliche-gesamtstrafenbildung-55-stgb** — Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilu…
-11. **paragraph-46-stgb-grundsatz-strafzumessung** — Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftig…
-12. **strafbefehl-stpo-strafmilderung-stgb** — Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 …
-13. **strafmilderung-49-stgb-zwingend-fakultativ** — Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe erm…
-14. **strafrahmen-und-strafzumessungsstufen** — Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privile…
-15. **taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung** — Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Nr. 1 Wiederg…
+4. **haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung** — Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe ber…
+5. **strafzumessungs-tatsachen-46-ii-stgb** — Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und …
+6. **freiheitsstrafe-strafmass-pruefen** — Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmen…
+7. **bewaehrung-56-stgb-positive-sozialprognose** — Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen positive Sozialprognose Abs. 1 bis 1 Jahr; b…
+8. **bewaehrung-auflagen-bewaehrungswiderruf-56f** — Auflagen § 56b StGB und Weisungen § 56c StGB im Bewaehrungsbeschluss. Auflagen dienen der Genugtuung Wiedergutmachung Ge…
+9. **freiheitsstrafe-ohne-bewaehrung-vollstreckung** — Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Res…
+10. **geldstrafe-tagessatzanzahl-bestimmen** — Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtge…
+11. **iii-stpo-begruendungsanforderungen-strafurteil** — Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmende…
+12. **nachtraegliche-gesamtstrafenbildung-55-stgb** — Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilu…
+13. **paragraph-46-stgb-grundsatz-strafzumessung** — Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftig…
+14. **strafbefehl-stpo-strafmilderung-stgb** — Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 …
+15. **strafmilderung-49-stgb-zwingend-fakultativ** — Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe erm…
 
 ---
 
@@ -233,6 +233,380 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Prüfreihenfolge:** Nie sofort ein „gefühltes Strafmaß“ bilden. Erst Tatbestand und anwendbares Recht, dann Strafrahmen, minder/ besonders schwerer Fall, vertypte Milderung, § 49 StGB, Doppelverwertungsverbot, § 46 StGB, Nebenfolgen, Bewährung, Gesamtstrafe.
 - **§ 55-StGB-Disziplin:** Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle verlangen. Unklare Gesamtstrafenlagen nicht glattbügeln, sondern als Risiko mit Alternativen ausgeben.
 - **Output-Pflicht:** Strafzumessungsmemo mit Strafrahmenbaum, Zumessungstatsachen pro/contra, Revisionsrisiken und nächstem taktischem Schritt; bei Aktenbezug zusätzlich BZRG-/Urteils-/Vollstreckungsdaten-Lückenliste.
+
+---
+
+## Skill: `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung`
+
+_Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht._
+
+# Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung
+
+## Worum geht es?
+
+Wenn eine nachtraegliche Gesamtstrafenbildung nach § 55 StGB **nicht** moeglich ist — typischerweise weil die fruehere Strafe bereits vollstreckt, verjaehrt oder erlassen ist (auch nach abgelaufener Bewaehrung) —, kann der **Haerteausgleich** als nicht-kodifiziertes, von der staendigen Rechtsprechung entwickeltes Instrument zum Tragen kommen. Er gleicht die zufaelligen Nachteile aus, die durch die getrennte Aburteilung entstehen.
+
+**BGH-staendige Linie**: Der Schutzzweck des § 55 StGB darf nicht durch verfahrenstechnische Zufaelle (Reihenfolge der Verurteilungen, Tempo der Vollstreckung, Ausland) entwertet werden. Wenn eine Einbeziehung an einem ausserhalb der Schuld liegenden Umstand scheitert, ist ein Strafabschlag zu gewaehren. **Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.**
+
+## Wann brauchen Sie diese Skill?
+
+- Mandant ist bereits einmal verurteilt; die fruehere Strafe wurde mittlerweile vollstreckt oder die Bewaehrung ist erlassen worden.
+- Eine weitere Tat des Mandanten, die er **vor** der frueheren Verurteilung begangen hat, wird nun abgeurteilt.
+- Sie pruefen ein Urteil, das die Sondersituation uebersehen hat.
+- Auslandsstrafen liegen vor und koennen nicht einbezogen werden.
+
+## Rechtliche Grundlagen
+
+- **§ 55 StGB** — Nachtraegliche Gesamtstrafenbildung; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
+- **§ 46 StGB** — Strafzumessungsgrundsatz; Haerteausgleich wird als Strafzumessungsfaktor in die konkrete Strafe eingearbeitet.
+- **§ 267 Abs. 3 StPO** — Begruendung; Haerteausgleich muss als bestimmender Strafzumessungsgrund mitgeteilt werden.
+- **BGH-staendige Linie**: Schutzzweck des § 55 StGB rechtfertigt rechnerischen Strafabschlag bei zufaelliger Nichteinbeziehung. Aktenzeichen verifizieren.
+
+## Konstellationen, die typisch Haerteausgleich ausloesen
+
+### 1. Fruehere Strafe vollstreckt
+
+Wird die fruehere Strafe vor der jetzigen Verurteilung vollstaendig vollstreckt, kann sie nicht mehr in eine Gesamtstrafe einbezogen werden. Der Verurteilte ist gegenueber einer gemeinsamen Aburteilung schlechter gestellt.
+
+### 2. Bewaehrungszeit abgelaufen / Strafe erlassen (§ 56g StGB)
+
+Wird die Bewaehrung gluecklich beendet und die Strafe erlassen, kann sie nicht mehr einbezogen werden. Auch hier waere eine gemeinsame Aburteilung guenstiger gewesen.
+
+### 3. Verjaehrung der frueheren Strafe
+
+Die Strafe ist verjaehrt; keine Einbeziehung mehr.
+
+### 4. Auslandsstrafen
+
+Auslandsstrafen werden grundsätzlich **nicht** in eine nachträgliche Gesamtstrafe nach § 55 StGB einbezogen. Ein Härteausgleich kommt nur in Betracht, wenn die getrennte Sanktionierung zu einer zufälligen, schuldunangemessenen Mehrbelastung führt; konkrete BGH-Aktenzeichen erst nach frei prüfbarem Live-Check zitieren.
+
+### 5. Strafe aus Strafbefehl bereits gezahlt
+
+Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
+
+## Hoehe und Form des Haerteausgleichs
+
+- **Kein** starres Berechnungsschema.
+- **Orientierung**: Was waere die Gesamtstrafe gewesen, wenn beide Taten in einem Verfahren abgeurteilt worden waeren?
+- **Differenz** zwischen hypothetischer Gesamtstrafe und kumulierten Einzelstrafen kann als Massstab dienen.
+- **Strafabschlag** wird auf die nunmehr zu verhaengende Strafe angerechnet — entweder durch Senkung der Einzelstrafe oder durch ausdruecklichen Abschlag in der Strafzumessungsbegruendung.
+
+## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+
+1. **Vorverurteilungen** und Status pruefen: BZRG-Auszug, Vollstreckungsakte, Bewaehrungsentscheidungen.
+2. **Zaesur-Pruefung**: Wurde die abzuurteilende Tat **vor** der frueheren Verurteilung begangen?
+3. **Einbeziehung pruefen** (§ 55 StGB):
+   - Ist die fruehere Strafe noch offen? Dann § 55 StGB; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
+   - Ist sie schon vollstreckt / erlassen / verjaehrt? Dann **Haerteausgleich**.
+4. **Antrag** in der Hauptverhandlung oder im Schriftsatz:
+
+   ```
+   Wir beantragen, bei der Strafzumessung einen Haerteausgleich
+   zu gewaehren, da die Tat vom [Datum] vor der Verurteilung
+   vom [Datum] begangen wurde und eine Einbeziehung in eine
+   Gesamtstrafe nach § 55 StGB allein deshalb ausscheidet,
+   weil die damals verhaengte Strafe inzwischen [vollstreckt /
+   erlassen / verjaehrt] ist. Eine gemeinsame Aburteilung haette
+   zu einer wesentlich niedrigeren Gesamtstrafe gefuehrt.
+   ```
+
+5. **Hoehe** des Haerteausgleichs vortragen:
+   - Hypothetische Gesamtstrafe bei gemeinsamer Aburteilung berechnen.
+   - Differenz zwischen dieser hypothetischen Gesamtstrafe und der jetzt zu erwartenden kumulierten Strafenlast.
+   - Strafabschlag konkret beantragen (z.B. "Strafabschlag von [X] Monaten" oder "Reduktion der zu verhaengenden Strafe um etwa [X] %").
+6. **Begruendungspflicht** im Urteil: Das Gericht muss den Haerteausgleich als bestimmenden Strafzumessungsgrund angeben (§ 267 Abs. 3 StPO).
+
+## Verhaeltnis zu § 55 StGB
+
+| Situation | Rechtsfolge |
+|---|---|
+| Fruehere Strafe noch offen | § 55 StGB Einbeziehung; nachtraegliche Gesamtstrafe |
+| Fruehere Strafe vollstreckt / verjaehrt / erlassen | **Haerteausgleich** im Rahmen § 46 StGB |
+| Tat **nach** Vorverurteilung begangen (Zaesur uebersprungen) | Weder § 55 StGB noch Haerteausgleich; reguläre Einzelstrafe |
+| Auslandsstrafen | § 55 StGB scheidet aus; Haerteausgleich in Ausnahmefaellen |
+
+## Sonderkonstellationen
+
+### Bewaehrungswiderruf-Drohung
+
+Wenn die fruehere Strafe noch in Bewaehrung laeuft, ist die Einbeziehung nach § 55 StGB zumeist guenstiger als ein Bewaehrungswiderruf (§ 56f StGB) + getrennte neue Strafe. Verteidiger pruefen, welcher Weg wirtschaftlich besser ist; vgl. `bewaehrungswiderruf-56f-stgb`.
+
+### Mehrere Zaesuren
+
+Bei mehreren Vorverurteilungen ist sorgfaeltig zu pruefen, welche Strafen einbeziehbar sind und welche nicht — und ob fuer die nicht einbeziehbaren ein Haerteausgleich vorzunehmen ist.
+
+### Geldstrafe schon gezahlt
+
+Auch eine bereits gezahlte Geldstrafe kann einen Härteausgleich begründen, wenn sie bei rechtzeitiger gemeinsamer Aburteilung einbeziehungsfähig gewesen wäre; Urteil und Vollstreckungsstand konkret belegen.
+
+## Begruendung im Urteil (Muster-Element)
+
+```
+[...] Bei der Strafzumessung war zu beruecksichtigen, dass die hier
+abzuurteilende Tat vor der Verurteilung des Angeklagten durch
+[Gericht] vom [Datum] (Az.: [...]) begangen wurde. Eine Einbeziehung
+der damals verhaengten Strafe von [Einzelstrafe] in eine Gesamtstrafe
+nach § 55 StGB ist nicht moeglich, da diese Strafe bereits vollstaendig
+[vollstreckt / erlassen / verjaehrt] ist.
+
+Es waere eine Gesamtstrafe von voraussichtlich [hypothetische Strafe]
+gebildet worden. Daraus errechnet sich eine zu beruecksichtigende
+Haerte, die das Gericht durch einen Abschlag von [X] Monaten
+ausgleicht. Die Strafe von [konkrete Strafe] beruecksichtigt diesen
+Haerteausgleich.
+```
+
+## Typische Fehler
+
+- **Haerteausgleich uebersehen**: revisionsrechtlich relevanter Strafzumessungsmangel.
+- **Hoehe pauschal**: Das Gericht muss die hypothetische Gesamtstrafe und die Differenz nachvollziehbar machen.
+- **Verwechslung mit § 55 StGB**: Haerteausgleich ist subsidiaer; vorrangig ist die Einbeziehung nach § 55 StGB.
+- **§ 55 StGB-Voraussetzungen** nicht systematisch geprueft: zuerst Zaesur, dann Status der frueheren Strafe.
+- **Bewaehrungsstrafe** als "erlassen" angesehen, obwohl die Bewaehrung noch laeuft.
+- **Auslandsstrafen** automatisch als haerteausgleichsbeduerftig gewertet — die st. Rspr. ist hier restriktiver; Einzelfallpruefung.
+
+## Quellen-Recherche-Hinweis
+
+Die BGH-Rspr. zum Haerteausgleich bei nicht moeglicher Einbeziehung nach § 55 StGB ist umfangreich und gefestigt; Leitentscheidungen finden sich beispielsweise in BGHSt-Bestaenden zur Gesamtstrafenbildung. **Vor Zitat im Schriftsatz immer Aktenzeichen in dejure.org oder openjur.de verifizieren**, da konkrete Az nicht aus Modellwissen uebernommen werden duerfen (vgl. Quellenregel `references/zitierweise.md`).
+
+## Querverweise
+
+- `nachtraegliche-gesamtstrafenbildung-55-stgb` — Mutternorm.
+- `gesamtstrafenbildung-53-54-stgb-erste-instanz` — Grundlagen.
+- `bewaehrungswiderruf-56f-stgb` — Alternativ-Pfad bei laufender Bewaehrung.
+- `paragraph-46-stgb-grundsatz-strafzumessung` — Einbettung in Strafzumessung.
+- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Begruendungspflicht im Urteil.
+
+## Quellen und Stand 05/2026
+
+- § 55 StGB in der geltenden Fassung.
+- §§ 53, 54, 56g StGB.
+- § 267 Abs. 3 StPO.
+- BGH-staendige Linie zum Haerteausgleich bei nicht moeglicher Einbeziehung — Aktenzeichen in dejure.org/openjur.de verifizieren.
+- Quellenregel: vgl. `references/zitierweise.md`.
+
+---
+
+## Skill: `strafzumessungs-tatsachen-46-ii-stgb`
+
+_Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persoenliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege._
+
+# Strafzumessungstatsachen — § 46 Abs. 2 StGB
+
+## Worum geht es?
+
+§ 46 Abs. 2 StGB fuehrt einen nicht abschliessenden Katalog der Tatsachen auf, die das Gericht bei der Strafzumessung gegeneinander abzuwaegen hat. Der Skill zerlegt jeden Katalogpunkt und zeigt, welche Tatsachen Verteidigung und Anklage dazu konkret vortragen.
+
+## Wann brauchen Sie diese Skill?
+
+- Sie bereiten den Schlussvortrag vor und brauchen ein Geruest fuer die Strafzumessungsargumentation.
+- Sie schreiben oder reviewen einen Strafzumessungsabschnitt in einem Urteilsentwurf.
+- Sie pruefen eine Strafzumessungsruege: Welche Tatsachen sind uebersehen, welche unzulaessig gewertet?
+
+## Rechtliche Grundlagen
+
+- **§ 46 Abs. 2 StGB** — Katalogvorschrift; nicht abschliessend.
+- **§ 46 Abs. 3 StGB** — Doppelverwertungsverbot, vgl. `paragraph-46-stgb-grundsatz-strafzumessung`.
+- **§ 267 Abs. 3 StPO** — Begruendungspflicht im Strafurteil; vgl. `267-iii-stpo-begruendungsanforderungen-strafurteil`.
+- **Art. 6 EMRK** — Verfahrensdauer; rechtsstaatswidrige Verzoegerung als Kompensationsfaktor (Vollstreckungsmodell der st. Rspr.).
+
+## Strafzumessungs-Grundsatz
+
+Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld** oder die zu erwartenden **Wirkungen fuer das kuenftige Leben** beeinflusst. Reines Charakter-Urteil ueber den Taeter ohne Tatbezug ist unzulaessig.
+
+## Katalog-Aufschluesselung
+
+### 1. Beweggruende und Ziele
+
+- Geld-, Macht-, Rache-, Lust-, Hass-Motive haben unterschiedliches Gewicht.
+- **Menschenverachtende Beweggruende** (§ 46 Abs. 2 Satz 2 StGB seit 01.08.2015) — ausdruecklich: rassistische, fremdenfeindliche, antisemitische, geschlechtsspezifische, gegen die sexuelle Orientierung gerichtete oder sonstige menschenverachtende.
+- Notlage, Provokation, Affekt: Beweggrund kann strafmildernd sein.
+
+### 2. Gesinnung und Tatwille
+
+- Was sagt die Tat ueber die innere Haltung? Hoehe der kriminellen Energie?
+- Plan oder Spontantat? Lange Tatvorbereitung deutet auf hoehere Energie hin.
+
+### 3. Mass der Pflichtwidrigkeit
+
+- Bei Fahrlaessigkeitsdelikten zentral: leichte, mittlere, grobe Fahrlaessigkeit.
+- Verkehrsdelikt: Geschwindigkeit, Alkohol, Vorbelastung.
+- Pflichtwidrigkeit bei Sonderdelikten (Amtstraeger, Arzt, Treuhaender) hoeher zu gewichten.
+
+### 4. Art der Ausfuehrung und verschuldete Auswirkungen
+
+- Brutalitaet, Dauer, Demuetigung, Mitwirkung mehrerer.
+- Tatfolgen: Schadenshoehe, Dauerschaeden, Verletzungstiefe, psychische Folgen beim Opfer.
+- Aber: **Doppelverwertungsverbot** beachten — Folgen, die schon Tatbestandsmerkmal sind, duerfen nicht erneut schaerfend wirken.
+
+### 5. Vorleben
+
+- Vorstrafen (BZRG-Auszug, beachten Tilgung §§ 46 ff. BZRG); je einschlaegiger und juenger, desto gewichtiger.
+- **Schweigen ueber das Vorleben** darf nicht schaerfend gewertet werden.
+- Erziehung, soziale Sozialisation, Lebensbruch (Drogen, Krankheit).
+
+### 6. Persoenliche und wirtschaftliche Verhaeltnisse
+
+- Familie, Beruf, Verschuldung, Suchtkrankheit, psychische Erkrankung.
+- Auslaenderrechtliche Folgen (Ausweisung, § 53 ff. AufenthG): von der st. Rspr. nur insoweit beachtlich, als sie ueber das gesetzlich Vorgesehene hinausgehen.
+- Berufsverbot, Approbationsentzug, beamtenrechtliche Disziplinarfolgen.
+
+### 7. Nachtatverhalten
+
+- **Gestaendnis** (besonders bei prozessoekonomischem Wert; vgl. `gestaendnis-und-strafmilderung`).
+- **Reue, Einsicht, Selbstanzeige**.
+- **Schadenswiedergutmachung** und **TOA** (§ 46a StGB; vgl. `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung`).
+- **Hilfe bei der Aufklaerung** (§§ 31 BtMG, 46b StGB — Kronzeugenregelung).
+- **Belastendes Nachtatverhalten**: Verdunkelungsversuche, Drohungen gegen Zeugen, Verleumdung des Opfers in der Hauptverhandlung.
+
+## Schritt-fuer-Schritt-Anleitung
+
+1. **Tatsachenmaterial sammeln**: Akte, Anhoerung, Sozialbericht, BZRG-Auszug, Einkommensdaten.
+2. **Katalog durchgehen**: Jede der sieben Gruppen pruefen; nur substantiierte Tatsachen.
+3. **Gewichtung**: Pro Gruppe Pluspunkte (zugunsten) und Minuspunkte (zulasten) explizit machen.
+4. **Sondernormen**: § 46a StGB (TOA), § 46b StGB (Aufklaerungshilfe), § 17 StGB (Verbotsirrtum), §§ 20, 21 StGB (Schuldminderung).
+5. **Doppelverwertungs-Pruefung**: Welche Tatsache ist schon Tatbestandsmerkmal?
+6. **Zusammenfuegen**: Gesamtbild aus Schuld + Praevention im Schuldrahmen.
+
+## Beispielformulierungen fuer Verteidigung
+
+- "Der Angeklagte hat sich aus akuter wirtschaftlicher Not zur Tat hinreissen lassen; eine einschlaegige Vorbelastung fehlt vollstaendig."
+- "Das Gestaendnis hat dem Gericht eine umfangreiche Beweisaufnahme erspart; in der Folge hat sich der Angeklagte aktiv um eine Ausgleichszahlung an die Geschaedigte bemueht."
+- "Die berufsrechtlichen Folgen treffen den Angeklagten mit ueberdurchschnittlicher Haerte, da seine Approbation infrage steht."
+- "Die Verfahrensdauer von [X] Jahren ist als rechtsstaatswidrige Verzoegerung iSv Art. 6 EMRK zu kompensieren."
+
+## Beispielformulierungen fuer Anklage
+
+- "Die Tat zeichnet sich durch ein hohes Mass an krimineller Energie aus; der Angeklagte hat ueber Monate hinweg geplant."
+- "Die Geschaedigte leidet unter posttraumatischer Belastungsstoerung; die Tatfolgen sind ueber das Tatbestandsmerkmal der Koerperverletzung hinaus erheblich."
+- "Die Tat ist von menschenverachtenden Beweggruenden iSv § 46 Abs. 2 Satz 2 StGB getragen."
+- "Der Angeklagte hat in der Hauptverhandlung die Geschaedigte als unglaubwuerdig bezeichnet und damit die psychischen Tatfolgen vertieft."
+
+## Typische Fehler
+
+- Schweigen schaerfend gewertet. Verstoss gegen § 261 StPO i.V.m. Selbstbelastungsfreiheit.
+- Vorstrafen ohne Pruefung der **Tilgungsreife** verwertet. Verstoss gegen § 51 BZRG.
+- Lange Verfahrensdauer nicht kompensiert. Verstoss gegen Art. 6 EMRK.
+- Auslaenderrechtliche Standard-Folgen schaerfend bei Auslaender verwertet (faktischer Sondervorwurf). Verstoss gegen Gleichheitsgrundsatz.
+- Verschulden des Verteidigers / Anwalts dem Mandanten zugerechnet.
+- Doppelverwertung von Tatbestandsmerkmalen (§ 46 Abs. 3 StGB).
+
+## Querverweise
+
+- `paragraph-46-stgb-grundsatz-strafzumessung` — Grundsatznorm.
+- `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` — Spezialnorm.
+- `gestaendnis-und-strafmilderung` — Detail Nachtatverhalten.
+- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Umsetzung im Urteil.
+
+## Quellen und Stand 05/2026
+
+- § 46 Abs. 2 StGB in der seit 01.08.2015 geltenden Fassung.
+- § 46 Abs. 3 StGB Doppelverwertungsverbot.
+- §§ 46 ff. BZRG zur Verwertung von Vorstrafen.
+- Art. 6 Abs. 1 EMRK; rechtsstaatswidrige Verfahrensverzögerung über die BGH-/BVerfG-Linie zum Vollstreckungsmodell nur mit frei prüfbarer Entscheidung und konkretem Kompensationsausspruch belegen.
+- Quellenregel: vgl. `references/zitierweise.md`.
+
+---
+
+## Skill: `freiheitsstrafe-strafmass-pruefen`
+
+_Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte fuer typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung._
+
+# Freiheitsstrafe — Strafmass pruefen
+
+## Worum geht es?
+
+Sobald feststeht, dass Freiheitsstrafe verhaengt wird, ist innerhalb des konkreten Strafrahmens die **Hoehe** zu bestimmen. Grundlage ist § 46 StGB. § 38 StGB regelt die zeitige Freiheitsstrafe (1 Monat bis 15 Jahre), § 39 StGB die Bemessung (Monate, Jahre und Monate). Die Hoehe entscheidet ueber Bewaehrungsfaehigkeit (§§ 56, 57 StGB).
+
+## Wann brauchen Sie diese Skill?
+
+- Sie verteidigen in der Hauptverhandlung und plaedieren auf konkrete Strafhoehe.
+- Sie pruefen den Strafantrag der Staatsanwaltschaft auf Angemessenheit.
+- Sie sondieren eine Verstaendigung; Strafrahmen-Untergrenze und -Obergrenze bilden den Handlungsspielraum.
+- Sie schreiben die Strafzumessung im Urteil oder pruefen sie revisionsmaessig.
+
+## Rechtliche Grundlagen
+
+- **§ 38 StGB** — Zeitige Freiheitsstrafe 1 Monat bis 15 Jahre; lebenslang.
+- **§ 39 StGB** — Bemessung: bis 1 Jahr in vollen Wochen und Monaten; ueber 1 Jahr in Jahren und Monaten.
+- **§ 46 StGB** — Grundsatz; vgl. `paragraph-46-stgb-grundsatz-strafzumessung`.
+- **§ 47 StGB** — Vorrang Geldstrafe bei kurzer Freiheitsstrafe; vgl. `geldstrafe-vs-freiheitsstrafe-47-stgb`.
+- **§ 56 StGB** — Aussetzung zur Bewaehrung; vgl. `bewaehrung-56-stgb-positive-sozialprognose`.
+- **§ 57 StGB** — Aussetzung des Strafrests bei zeitiger Freiheitsstrafe.
+- **§ 57a StGB** — Aussetzung des Strafrests bei lebenslanger Freiheitsstrafe (besondere Schwere der Schuld § 57a Abs. 1 Satz 1 Nr. 2 StGB).
+
+## Strafzumessungs-Grundsatz
+
+- **Spielraum schuldangemessener Strafe**: Ober- und Untergrenze; innerhalb davon nach Praevention bemessen.
+- **Wechselwirkung Strafhoehe und Bewaehrung**:
+  - Bis 1 Jahr: Bewaehrung Regelfall bei positiver Sozialprognose (§ 56 Abs. 1 StGB).
+  - 1 bis 2 Jahre: Bewaehrung moeglich, aber nur bei besonderen Umstaenden (§ 56 Abs. 2 StGB).
+  - Ueber 2 Jahre: keine Bewaehrung mehr.
+- Verteidigung achtet darauf, ob ein Strafmass moeglichst unter 2 Jahre (und idealerweise unter 1 Jahr) liegt.
+
+## Schritt-fuer-Schritt-Anleitung
+
+1. **Konkreten Strafrahmen** feststellen (vgl. `strafrahmen-und-strafzumessungsstufen`).
+2. **Schuldrahmen-Spielraum** bilden: untere und obere Grenze schuldangemessener Strafe.
+3. **Strafzumessungstatsachen** aus § 46 Abs. 2 StGB sammeln und gewichten (vgl. `strafzumessungs-tatsachen-46-ii-stgb`).
+4. **Strafmilderungsgruende** pruefen: §§ 46a, 17, 21, 23 Abs. 2, 27 Abs. 2, 28 Abs. 1, 49 StGB.
+5. **Bewaehrungsperspektive** im Blick: Wenn 1-Jahres- oder 2-Jahres-Schwelle in Reichweite, Argumente entsprechend ausrichten.
+6. **Lange Verfahrensdauer** als Kompensationsfaktor pruefen (Art. 6 EMRK; Vollstreckungsmodell der st. Rspr.).
+7. **Anrechnung** U-Haft / Auslieferungshaft nach § 51 StGB; vgl. `freiheitsstrafe-ohne-bewaehrung-vollstreckung`.
+
+## Faustwerte (orientierend, kein Praejudiz)
+
+| Tatbestandsbereich | Typischer Bereich |
+|---|---|
+| Einfacher Diebstahl § 242 Erstverstoss | 30-90 Tagessaetze; selten Freiheitsstrafe |
+| Wohnungseinbruchsdiebstahl § 244 Abs. 4 (Mindeststrafe 1 Jahr) | 1 bis 3 Jahre |
+| Betrug § 263 mittlere Schaeden | Geldstrafe bis 1 Jahr |
+| Betrug § 263 schwere Schaeden / gewerbsmaessig | 1 bis 3 Jahre |
+| Koerperverletzung § 223 ohne Vorbelastung | Geldstrafe bis 6 Monate |
+| Gefaehrliche Koerperverletzung § 224 | 6 Monate bis 3 Jahre |
+| Schwere Koerperverletzung § 226 | 1 Jahr bis 10 Jahre |
+| Raub § 249 Abs. 1 | Mindeststrafe 1 Jahr, oft 2-4 Jahre |
+| Schwerer Raub § 250 Abs. 1 | 3 bis 6 Jahre |
+| Totschlag § 212 | 5 bis 15 Jahre |
+| Mord § 211 | lebenslang |
+
+Diese Werte ersetzen **keinen** Einzelfall; sie zeigen, wo regional, gerichtsbezogen und individuell zumeist Verhandlungsraum liegt.
+
+## Verteidigungs-Hebel
+
+- Strafmilderungsgruende konsequent aufzeigen: §§ 46a, 17, 21 StGB.
+- Lange Verfahrensdauer ruegen und Kompensation einfordern.
+- Bewaehrungsperspektive sichern: Argumente zur Sozialprognose vorbereiten.
+- Wirtschaftliche und persoenliche Verhaeltnisse substantiiert vortragen.
+
+## Antrags-Strategie Staatsanwaltschaft
+
+- Antragstrafe darf nicht hinter der Schuld zurueckbleiben.
+- Bei Bewaehrungsantrag konkret Vortrag zur Sozialprognose.
+- Bei keinem Bewaehrungsantrag konkret zu den negativen Prognosefaktoren.
+- Strafzumessungsrichtlinien der Landes-Justizverwaltungen koennen orientieren (siehe je nach Bundesland; nicht bindend).
+
+## Typische Fehler
+
+- **Schuldrahmen-Begruendung fehlt**: Urteil nennt nur den konkret verhaengten Wert ohne Bandbreite; revisionsanfaellig.
+- **Bewaehrungsschwelle** uebersehen: Strafhoehe knapp ueber 2 Jahren ohne Begruendung der Schwere; Verteidigung sollte vor Urteilsverkuendung punktgenau argumentieren.
+- **Lange Verfahrensdauer** nicht kompensiert.
+- **U-Haft-Anrechnung** in der Urteilsformel uebersehen (§ 51 StGB).
+- **Doppelverwertung** Tatbestandsmerkmale.
+
+## Querverweise
+
+- `paragraph-46-stgb-grundsatz-strafzumessung` — Grundsatz.
+- `strafrahmen-und-strafzumessungsstufen` — Strafrahmen vor Zumessung.
+- `bewaehrung-56-stgb-positive-sozialprognose` — Bewaehrung.
+- `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — Vollstreckung.
+- `gesamtstrafenbildung-53-54-stgb-erste-instanz` — bei Mehrtat.
+
+## Quellen und Stand 05/2026
+
+- §§ 38, 39, 46, 47, 49, 51, 56-57a StGB in der geltenden Fassung.
+- Art. 6 Abs. 1 EMRK Verfahrensdauer.
+- Quellenregel: vgl. `references/zitierweise.md`.
 
 ---
 
@@ -683,161 +1057,6 @@ Die Tabelle ersetzt **keine** Einzelfallbetrachtung; sie zeigt nur das Spielfeld
 
 - §§ 40, 41, 47, 53, 54 StGB in der geltenden Fassung.
 - § 407 Abs. 2 StPO Strafbefehl.
-- Quellenregel: vgl. `references/zitierweise.md`.
-
----
-
-## Skill: `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung`
-
-_Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisch..._
-
-# Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung
-
-## Arbeitsbereich
-
-Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht möglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum geht es?
-
-Wenn eine nachtraegliche Gesamtstrafenbildung nach § 55 StGB **nicht** möglich ist — typischerweise weil die fruehere Strafe bereits vollstreckt, verjaehrt oder erlassen ist (auch nach abgelaufener Bewaehrung) —, kann der **Haerteausgleich** als nicht-kodifiziertes, von der staendigen Rechtsprechung entwickeltes Instrument zum Tragen kommen. Er gleicht die zufaelligen Nachteile aus, die durch die getrennte Aburteilung entstehen.
-
-**BGH-staendige Linie**: Der Schutzzweck des § 55 StGB darf nicht durch verfahrenstechnische Zufaelle (Reihenfolge der Verurteilungen, Tempo der Vollstreckung, Ausland) entwertet werden. Wenn eine Einbeziehung an einem ausserhalb der Schuld liegenden Umstand scheitert, ist ein Strafabschlag zu gewaehren. **Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.**
-
-## Wann brauchen Sie diese Skill?
-
-- Mandant ist bereits einmal verurteilt; die fruehere Strafe wurde mittlerweile vollstreckt oder die Bewaehrung ist erlassen worden.
-- Eine weitere Tat des Mandanten, die er **vor** der frueheren Verurteilung begangen hat, wird nun abgeurteilt.
-- Sie prüfen ein Urteil, das die Sondersituation uebersehen hat.
-- Auslandsstrafen liegen vor und können nicht einbezogen werden.
-
-## Rechtliche Grundlagen
-
-- **§ 55 StGB** — Nachtraegliche Gesamtstrafenbildung; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
-- **§ 46 StGB** — Strafzumessungsgrundsatz; Haerteausgleich wird als Strafzumessungsfaktor in die konkrete Strafe eingearbeitet.
-- **§ 267 Abs. 3 StPO** — Begruendung; Haerteausgleich muss als bestimmender Strafzumessungsgrund mitgeteilt werden.
-- **BGH-staendige Linie**: Schutzzweck des § 55 StGB rechtfertigt rechnerischen Strafabschlag bei zufaelliger Nichteinbeziehung. Aktenzeichen verifizieren.
-
-## Konstellationen, die typisch Haerteausgleich ausloesen
-
-### 1. Fruehere Strafe vollstreckt
-
-Wird die fruehere Strafe vor der jetzigen Verurteilung vollstaendig vollstreckt, kann sie nicht mehr in eine Gesamtstrafe einbezogen werden. Der Verurteilte ist gegenueber einer gemeinsamen Aburteilung schlechter gestellt.
-
-### 2. Bewaehrungszeit abgelaufen / Strafe erlassen (§ 56g StGB)
-
-Wird die Bewaehrung gluecklich beendet und die Strafe erlassen, kann sie nicht mehr einbezogen werden. Auch hier waere eine gemeinsame Aburteilung guenstiger gewesen.
-
-### 3. Verjährung der frueheren Strafe
-
-Die Strafe ist verjaehrt; keine Einbeziehung mehr.
-
-### 4. Auslandsstrafen
-
-Auslandsstrafen werden grundsätzlich **nicht** in eine nachträgliche Gesamtstrafe nach § 55 StGB einbezogen. Ein Härteausgleich kommt nur in Betracht, wenn die getrennte Sanktionierung zu einer zufälligen, schuldunangemessenen Mehrbelastung führt; konkrete BGH-Aktenzeichen erst nach frei prüfbarem Live-Check zitieren.
-
-### 5. Strafe aus Strafbefehl bereits gezahlt
-
-Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
-
-## Höhe und Form des Haerteausgleichs
-
-- **Kein** starres Berechnungsschema.
-- **Orientierung**: Was waere die Gesamtstrafe gewesen, wenn beide Taten in einem Verfahren abgeurteilt worden waeren?
-- **Differenz** zwischen hypothetischer Gesamtstrafe und kumulierten Einzelstrafen kann als Maßstab dienen.
-- **Strafabschlag** wird auf die nunmehr zu verhaengende Strafe angerechnet — entweder durch Senkung der Einzelstrafe oder durch ausdruecklichen Abschlag in der Strafzumessungsbegruendung.
-
-## Schritt-für-Schritt-Anleitung (Verteidigung)
-
-1. **Vorverurteilungen** und Status prüfen: BZRG-Auszug, Vollstreckungsakte, Bewaehrungsentscheidungen.
-2. **Zaesur-Prüfung**: Wurde die abzuurteilende Tat **vor** der frueheren Verurteilung begangen?
-3. **Einbeziehung prüfen** (§ 55 StGB):
- - Ist die fruehere Strafe noch offen? Dann § 55 StGB; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
- - Ist sie schon vollstreckt / erlassen / verjaehrt? Dann **Haerteausgleich**.
-4. **Antrag** in der Hauptverhandlung oder im Schriftsatz:
-
- ```
- Wir beantragen, bei der Strafzumessung einen Haerteausgleich
- zu gewaehren, da die Tat vom [Datum] vor der Verurteilung
- vom [Datum] begangen wurde und eine Einbeziehung in eine
- Gesamtstrafe nach § 55 StGB allein deshalb ausscheidet,
- weil die damals verhaengte Strafe inzwischen [vollstreckt /
- erlassen / verjaehrt] ist. Eine gemeinsame Aburteilung haette
- zu einer wesentlich niedrigeren Gesamtstrafe gefuehrt.
- ```
-
-5. **Höhe** des Haerteausgleichs vortragen:
- - Hypothetische Gesamtstrafe bei gemeinsamer Aburteilung berechnen.
- - Differenz zwischen dieser hypothetischen Gesamtstrafe und der jetzt zu erwartenden kumulierten Strafenlast.
- - Strafabschlag konkret beantragen (z.B. "Strafabschlag von [X] Monaten" oder "Reduktion der zu verhaengenden Strafe um etwa [X] %").
-6. **Begruendungspflicht** im Urteil: Das Gericht muss den Haerteausgleich als bestimmenden Strafzumessungsgrund angeben (§ 267 Abs. 3 StPO).
-
-## Verhältnis zu § 55 StGB
-
-| Situation | Rechtsfolge |
-|---|---|
-| Fruehere Strafe noch offen | § 55 StGB Einbeziehung; nachtraegliche Gesamtstrafe |
-| Fruehere Strafe vollstreckt / verjaehrt / erlassen | **Haerteausgleich** im Rahmen § 46 StGB |
-| Tat **nach** Vorverurteilung begangen (Zaesur uebersprungen) | Weder § 55 StGB noch Haerteausgleich; reguläre Einzelstrafe |
-| Auslandsstrafen | § 55 StGB scheidet aus; Haerteausgleich in Ausnahmefaellen |
-
-## Sonderkonstellationen
-
-### Bewaehrungswiderruf-Drohung
-
-Wenn die fruehere Strafe noch in Bewaehrung laeuft, ist die Einbeziehung nach § 55 StGB zumeist guenstiger als ein Bewaehrungswiderruf (§ 56f StGB) + getrennte neue Strafe. Verteidiger prüfen, welcher Weg wirtschaftlich besser ist; vgl. `bewaehrungswiderruf-56f-stgb`.
-
-### Mehrere Zaesuren
-
-Bei mehreren Vorverurteilungen ist sorgfaeltig zu prüfen, welche Strafen einbeziehbar sind und welche nicht — und ob für die nicht einbeziehbaren ein Haerteausgleich vorzunehmen ist.
-
-### Geldstrafe schon gezahlt
-
-Auch eine bereits gezahlte Geldstrafe kann einen Härteausgleich begründen, wenn sie bei rechtzeitiger gemeinsamer Aburteilung einbeziehungsfähig gewesen wäre; Urteil und Vollstreckungsstand konkret belegen.
-
-## Begruendung im Urteil (Muster-Element)
-
-```
-[...] Bei der Strafzumessung war zu beruecksichtigen, dass die hier
-abzuurteilende Tat vor der Verurteilung des Angeklagten durch
-[Gericht] vom [Datum] (Az.: [...]) begangen wurde. Eine Einbeziehung
-der damals verhaengten Strafe von [Einzelstrafe] in eine Gesamtstrafe
-nach § 55 StGB ist nicht moeglich, da diese Strafe bereits vollstaendig
-[vollstreckt / erlassen / verjaehrt] ist.
-
-Es waere eine Gesamtstrafe von voraussichtlich [hypothetische Strafe]
-gebildet worden. Daraus errechnet sich eine zu beruecksichtigende
-Haerte, die das Gericht durch einen Abschlag von [X] Monaten
-ausgleicht. Die Strafe von [konkrete Strafe] beruecksichtigt diesen
-Haerteausgleich.
-```
-
-## Typische Fehler
-
-- **Haerteausgleich uebersehen**: revisionsrechtlich relevanter Strafzumessungsmangel.
-- **Höhe pauschal**: Das Gericht muss die hypothetische Gesamtstrafe und die Differenz nachvollziehbar machen.
-- **Verwechslung mit § 55 StGB**: Haerteausgleich ist subsidiaer; vorrangig ist die Einbeziehung nach § 55 StGB.
-- **§ 55 StGB-Voraussetzungen** nicht systematisch geprueft: zuerst Zaesur, dann Status der frueheren Strafe.
-- **Bewaehrungsstrafe** als "erlassen" angesehen, obwohl die Bewaehrung noch laeuft.
-- **Auslandsstrafen** automatisch als haerteausgleichsbeduerftig gewertet — die st. Rspr. ist hier restriktiver; Einzelfallpruefung.
-
-## Quellen-Recherche-Hinweis
-
-Die BGH-Rspr. zum Haerteausgleich bei nicht moeglicher Einbeziehung nach § 55 StGB ist umfangreich und gefestigt; Leitentscheidungen finden sich beispielsweise in BGHSt-Bestaenden zur Gesamtstrafenbildung. **Vor Zitat im Schriftsatz immer Aktenzeichen in dejure.org oder openjur.de verifizieren**, da konkrete Az nicht aus Modellwissen uebernommen werden dürfen (vgl. Quellenregel `references/zitierweise.md`).
-
-## Quellen und Stand 05/2026
-
-- § 55 StGB in der geltenden Fassung.
-- §§ 53, 54, 56g StGB.
-- § 267 Abs. 3 StPO.
-- BGH-staendige Linie zum Haerteausgleich bei nicht moeglicher Einbeziehung — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
 
 ---
@@ -1468,222 +1687,6 @@ Das Gericht kann nach pflichtgemaessem Ermessen die Strafe **bis zum gesetzliche
 - § 49 StGB in der geltenden Fassung.
 - §§ 17, 21, 23 Abs. 2, 27 Abs. 2, 28, 35 Abs. 2, 46a, 46b StGB.
 - BGH-Linie zur mehrfachen Milderung — Aktenzeichen in dejure.org/openjur.de verifizieren.
-- Quellenregel: vgl. `references/zitierweise.md`.
-
----
-
-## Skill: `strafrahmen-und-strafzumessungsstufen`
-
-_Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konk..._
-
-# Strafrahmen und Strafzumessungsstufen
-
-## Arbeitsbereich
-
-Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konkreten Strafe nach § 46 StGB. Schnittstelle Strafmilderung und Strafzumessung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum geht es?
-
-Vor der konkreten Strafzumessung muss der **gesetzliche Strafrahmen** bestimmt werden. Erst danach wird innerhalb dieses Rahmens nach § 46 StGB die konkrete Strafe gebildet. Der Skill erläutert die Stufen: abstrakter Strafrahmen, Modifikationen, konkreter Strafrahmen, konkrete Strafe.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie verteidigen oder klagen an und müssen bestimmen, welcher Strafrahmen anwendbar ist (Grundtatbestand, Qualifikation, minder schwerer Fall?).
-- Sie prüfen, ob ein **besonders schwerer Fall** wegen eines Regelbeispiels anzunehmen ist.
-- Sie sondieren in einer Verstaendigung, welcher Strafrahmen Verhandlungsgrundlage sein soll (§ 257c Abs. 3 StPO).
-
-## Rechtliche Grundlagen
-
-- **§ 38 StGB** — Freiheitsstrafe: 1 Monat bis 15 Jahre (zeitige); lebenslang.
-- **§ 39 StGB** — Bemessung der Freiheitsstrafe (Monate; Jahre und Monate).
-- **§ 40 StGB** — Geldstrafe in Tagessaetzen.
-- **§ 49 StGB** — Besondere Milderungsgruende; Abs. 1 zwingend, Abs. 2 fakultativ; vgl. `strafmilderung-49-stgb-zwingend-fakultativ`.
-- Spezialnormen mit Strafrahmen-Modifikation: §§ 243, 263 Abs. 3, 244, 250, 251, 211, 212, 213 StGB usw.
-
-## Stufen der Strafrahmen-Bildung
-
-### Stufe 1 — Abstrakter gesetzlicher Strafrahmen
-
-Aus dem Grundtatbestand oder der Qualifikation. Beispiel:
-
-- § 242 Abs. 1 StGB (Diebstahl): Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
-- § 243 Abs. 1 StGB (besonders schwerer Fall): Freiheitsstrafe 3 Monate bis 10 Jahre.
-- § 244 Abs. 1 Nr. 1 StGB (Diebstahl mit Waffen, Bande, Wohnungseinbruch): Freiheitsstrafe 6 Monate bis 10 Jahre.
-- § 244 Abs. 4 StGB (Wohnungseinbruchsdiebstahl in dauerhaft genutzte Privatwohnung): Freiheitsstrafe 1 bis 10 Jahre.
-
-### Stufe 2 — Modifikationen
-
-- **Minder schwerer Fall**: Senkung des Strafrahmens, z.B. § 213 StGB, § 249 Abs. 2 StGB. Vgl. `minder-schwerer-fall-und-besonders-schwerer-fall`.
-- **Besonders schwerer Fall durch Regelbeispiel**: Anhebung; § 243 StGB (Diebstahl), § 263 Abs. 3 StGB (Betrug). Vgl. `regelbeispiele-rechtsprechung`.
-- **Strafmilderung nach § 49 StGB**: zwingend (Abs. 1) oder fakultativ (Abs. 2); Verschiebung der Strafrahmen-Ober- und Untergrenze.
-- **Versuch** (§ 23 Abs. 2 StGB): kann nach § 49 Abs. 1 StGB gemildert werden.
-- **Beihilfe** (§ 27 Abs. 2 StGB): muss nach § 49 Abs. 1 StGB gemildert werden.
-- **Persoenliche Merkmale** (§ 28 Abs. 1 StGB): Strafmilderung nach § 49 Abs. 1 StGB.
-- **Verminderte Schuldfaehigkeit** (§ 21 StGB): kann nach § 49 Abs. 1 StGB gemildert werden.
-- **Verbotsirrtum** vermeidbar (§ 17 Satz 2 StGB): kann gemildert werden.
-
-### Stufe 3 — Konkreter Strafrahmen
-
-Nach allen Modifikationen das Ergebnis. Beispiel:
-
-- Grundtatbestand § 249 Abs. 1 StGB (Raub): Freiheitsstrafe 1 Jahr bis 15 Jahre.
-- Minder schwerer Fall § 249 Abs. 2 StGB: 6 Monate bis 5 Jahre.
-- Bei Beihilfe nach § 27 Abs. 2 i.V.m. § 49 Abs. 1 Nr. 2 StGB: Hoechstmass 3/4 von 5 Jahren = 3 Jahre 9 Monate.
-
-### Stufe 4 — Konkrete Strafe
-
-Innerhalb des konkreten Strafrahmens nach § 46 StGB. Hier kommen die Strafzumessungstatsachen ins Spiel; vgl. `strafzumessungs-tatsachen-46-ii-stgb`.
-
-## Reihenfolge in der Prüfung (Standard)
-
-1. Welche Tatbestaende sind verwirklicht?
-2. Strafrahmen des einschlaegigen Tatbestands oder der Qualifikation.
-3. Liegt minder schwerer Fall vor (Gesamtbetrachtung)?
-4. Liegt Regelbeispiel oder unbenannter besonders schwerer Fall vor?
-5. Liegen Milderungsgruende nach § 49 StGB vor? In welcher Reihenfolge greifen sie? (Mehrfache Milderung möglich; jeweils auf das Ergebnis der vorigen Milderung anzuwenden.)
-6. Konkreter Strafrahmen festhalten.
-7. Konkrete Strafe nach § 46 StGB im Spielraum schuldangemessener Strafe.
-
-## Sonderfall: Mehrfache Milderung
-
-Wenn mehrere § 49 Abs. 1 StGB-Milderungen zusammentreffen (z.B. Beihilfe + verminderte Schuldfaehigkeit + Versuch), wird **kettenweise** gemildert: erst die eine Milderung anwenden, dann auf das Ergebnis die naechste. **Aktenzeichen der st. Rspr. vor Zitat verifizieren in dejure.org/openjur.de.**
-
-## Typische Fehler
-
-- **Regelbeispiel automatisch angenommen**: Auch wenn ein Regelbeispiel erfuellt ist, muss eine **Gesamtbetrachtung** ergeben, dass die "Indiz-Wirkung" nicht entkraeftet ist (BGH st. Rspr.; Az vor Zitat verifizieren).
-- **§ 49 Abs. 1 StGB falsch berechnet**: Hoechstmass 3/4 (Freiheitsstrafe), Mindeststrafe entfaellt oder reduziert nach § 49 Abs. 1 Nr. 2 und 3 StGB. Bei lebenslang: 3 bis 15 Jahre (§ 49 Abs. 1 Nr. 1 StGB).
-- **§ 28 StGB uebersehen** bei Beihilfe-/Anstifter-Prüfung: fehlende strafbegruendende persönliche Merkmale fuehren zwingend zur Strafmilderung nach § 49 Abs. 1 StGB.
-- **Doppelverwertung** zwischen Regelbeispiel und § 46 StGB: Umstaende, die das Regelbeispiel begruenden, dürfen nicht noch einmal als strafschaerfender Faktor angefuehrt werden.
-
-## Quellen und Stand 05/2026
-
-- §§ 38, 39, 49 StGB in der geltenden Fassung.
-- Einschlaegige Spezialnormen je nach Tatbestand.
-- BGH-Linie zu mehrfacher Milderung und Regelbeispielen — Aktenzeichen in dejure.org/openjur.de verifizieren.
-- Quellenregel: vgl. `references/zitierweise.md`.
-
----
-
-## Skill: `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung`
-
-_Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Nr. 1 Wiedergutmachung gegenueber dem Verletzten erfordert friedensstiftenden kommunikativen Prozess (BGH 4 StR 232/25 vom 20.11.2025). Nr. 2 wesentliche Schadenswiedergutmachung trotz erheb..._
-
-# Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — § 46a StGB
-
-## Arbeitsbereich
-
-Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Nr. 1 Wiedergutmachung gegenueber dem Verletzten erfordert friedensstiftenden kommunikativen Prozess (BGH 4 StR 232/25 vom 20.11.2025). Nr. 2 wesentliche Schadenswiedergutmachung trotz erheblichem Aufwand. Rechtsfolge § 49 Abs. 1 StGB oder Absehen bei Strafe nicht über 1 Jahr. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum geht es?
-
-§ 46a StGB ermoeglicht eine **Strafmilderung** nach § 49 Abs. 1 StGB oder bei Strafe nicht über **1 Jahr** Freiheitsstrafe oder Geldstrafe bis 360 Tagessaetzen sogar das **Absehen von Strafe**. Voraussetzung:
-
-- **Nr. 1**: Taeter hat in dem Bemuehen, einen Ausgleich mit dem Verletzten zu erreichen (Taeter-Opfer-Ausgleich), seine Tat ganz oder zum ueberwiegenden Teil wiedergutgemacht oder deren Wiedergutmachung ernsthaft angestrebt, **oder**
-- **Nr. 2**: die Schadenswiedergutmachung von dem Taeter erhebliche persönliche Leistungen oder persönlichen Verzicht erfordert hat und er das Opfer ganz oder zum ueberwiegenden Teil entschaedigt.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie verteidigen einen Mandanten, der mit dem Opfer ins Gespraech kommen oder Schaden ersetzen kann oder bereits hat.
-- Sie planen eine Verstaendigung (§ 257c StPO) und wollen TOA als Strafmilderungs-Baustein einbringen.
-- Sie prüfen ein Urteil oder eine Strafzumessungsruege, in der § 46a StGB nicht oder fehlerhaft angewendet wurde.
-
-## Rechtliche Grundlagen
-
-- **§ 46a StGB** — Voraussetzungen und Rechtsfolge (Milderung oder Absehen).
-- **§ 49 Abs. 1 StGB** — technische Anwendung der Milderung.
-- **§ 155a StPO** — Prüfungspflicht der Staatsanwaltschaft, ob TOA in Betracht kommt.
-- **§ 155b StPO** — Datenuebermittlung an Vermittlungsstellen.
-- **§ 153a StPO** — Einstellung gegen Auflage; oft mit TOA verbunden.
-
-## Strafzumessungs-Grundsatz
-
-### § 46a Nr. 1 StGB — TOA (Taeter-Opfer-Ausgleich)
-
-BGH, Beschluss vom 20.11.2025 — 4 StR 232/25 (4. Strafsenat): § 46a Nr. 1 StGB setzt einen **friedensstiftenden kommunikativen Prozess** zwischen Taeter und Opfer voraus, der eine Verantwortungsuebernahme des Taeters erkennen lässt; **blosse Schadenswiedergutmachung ohne kommunikatives Element genuegt nicht** (Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25).
-
-Erforderlich sind also:
-
-- Kommunikativer Kontakt mit dem Opfer (direkt oder über Vermittler).
-- Anerkennung des Unrechts gegenueber dem Opfer.
-- Wiedergutmachung ganz oder ueberwiegend **oder** ernsthaftes Bemuehen.
-- Akzeptanz des Opfers ist hilfreich, aber nicht unbedingt Tatbestandsmerkmal — st. Rspr. relativiert: Wenn das Opfer den Ausgleich ablehnt, kann das Bemuehen genügen.
-
-### § 46a Nr. 2 StGB — Wesentliche Schadenswiedergutmachung
-
-- Erhebliche persönliche Leistung des Taeters: hoher Aufwand, finanzielle Anstrengung, Verzicht.
-- Opfer ganz oder zum ueberwiegenden Teil entschaedigt.
-- Kommunikativer Prozess ist hier nicht zwingend, die Wiedergutmachung steht im Zentrum.
-
-## Rechtsfolge
-
-- Strafmilderung nach § 49 Abs. 1 StGB (zwingend, wenn Tatbestand erfuellt).
-- Bei Strafe nicht über 1 Jahr Freiheitsstrafe oder Geldstrafe bis 360 Tagessaetze: **Absehen von Strafe** möglich (wenn auch nicht zwingend; pflichtgemaesses Ermessen).
-
-## Schritt-für-Schritt-Anleitung (Verteidigung)
-
-1. **TOA-Eignung prüfen**:
- - Ist das Opfer ansprechbar?
- - Liegt eine Tat vor, die einen kommunikativen Prozess erlaubt (auch bei Sexualstraftaten möglich; vgl. BGH 4 StR 232/25, sehr restriktive Prüfung)?
-2. **Vermittlungsstelle** einschalten (Taeter-Opfer-Ausgleichsstelle der Landesjustiz, gemeinnuetzige Vermittlungstraeger).
-3. **Mandantengespraech** vorbereiten: Verantwortungsuebernahme, Reue, Bereitschaft zur Wiedergutmachung; sensible Themen (Verletzungen des Opfers, evtl. Trauma) klären.
-4. **Erste Kontaktaufnahme** über den Vermittler; **keine** direkte Kontaktaufnahme bei Sexualstraftaten oder Gewaltdelikten ohne Vorbereitung.
-5. **Ausgleichsgespraech** durchfuehren; Protokollieren lassen.
-6. **Wiedergutmachung** vereinbaren: Geldzahlung, Entschuldigung, andere Form der Wiedergutmachung (z.B. Therapie-Vereinbarung, gemeinnuetzige Leistung im Sinne des Opfers).
-7. **Beleg für das Gericht**: TOA-Protokoll, Quittung, Bescheinigung der Vermittlungsstelle.
-8. **Antrag in der Hauptverhandlung**: "Wir beantragen die Anwendung von § 46a Nr. 1 StGB. Die Strafe ist nach § 49 Abs. 1 StGB zu mildern; hilfsweise ist von Strafe abzusehen (§ 46a Satz 2 StGB)."
-
-## Bei Schadenswiedergutmachung (Nr. 2)
-
-- **Erheblicher Aufwand**: nicht jede pflichtgemaesse Zahlung reicht; es muss Verzicht / Anstrengung erkennbar sein.
-- Beleg für Höhe, Form und persönlicher Aufwand. Mietminderung, Vermögensverkauf, Kredit für Wiedergutmachung.
-- Zahlung an Versicherung reicht oft **nicht**, weil diese sich an den Taeter wendet (Verzicht-Rueckforderung); st. Rspr.; Aktenzeichen verifizieren.
-
-## Sondersituationen
-
-### TOA bei Sexualstraftaten
-
-BGH 4 StR 232/25 vom 20.11.2025: TOA ist auch bei sexuellem Missbrauch nicht generell ausgeschlossen, aber die Prüfung ist streng. Der kommunikative Prozess muss real stattgefunden haben und das Opfer darf nicht (re-)traumatisiert werden. Vorgehen mit Vermittler **zwingend**.
-
-### TOA bei Vermögensdelikten
-
-- Schadenswiedergutmachung im Vordergrund.
-- Kommunikatives Element: Anerkennung des Schadens, Entschuldigung.
-
-### TOA bei juristischen Personen als Opfer
-
-- Statt kommunikativem Prozess steht die Wiedergutmachung mit Ansprechen des Vorstands / der Geschäftsführung im Mittelpunkt.
-
-## Typische Fehler
-
-- **Blosse Zahlung** ohne kommunikativen Prozess — nach BGH 4 StR 232/25 nicht ausreichend für § 46a Nr. 1 StGB.
-- **Direkter Opferkontakt** in sensiblen Faellen — kann re-traumatisieren und das Verfahren erschweren.
-- **TOA-Belege** fehlen oder zu spaet.
-- **§ 46a Nr. 2 StGB** verwechselt mit Nr. 1: bei Nr. 2 muss der Aufwand erheblich sein, nicht nur die Wiedergutmachung.
-- **Absehen von Strafe**-Antrag uebersehen, obwohl Strafrahmen es zulaesst.
-- **TOA verspaetet**: Gericht erkennt es als verfahrenstaktische Schutzbehauptung, wenn TOA erst kurz vor der Hauptverhandlung beginnt.
-
-## Quellen und Stand 05/2026
-
-- § 46a StGB in der geltenden Fassung.
-- §§ 49 Abs. 1, 155a, 155b, 153a StPO.
-- BGH, Beschluss vom 20.11.2025 — 4 StR 232/25 (TOA bei sexuellem Missbrauch, friedensstiftender kommunikativer Prozess); offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25.
-- Weitere BGH-Rspr. — Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
 
 ---

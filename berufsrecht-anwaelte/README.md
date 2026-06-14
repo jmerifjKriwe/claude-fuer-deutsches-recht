@@ -51,7 +51,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 201 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 208 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -61,6 +61,13 @@ Automatisch generierte Komplett-Liste aller 201 Skills in diesem Plugin. Beschre
 | `aktenherausgabe-und-zurueckbehaltung-organisationspflicht` | Anwälte: aktenherausgabe und zurueckbehaltung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
 | `aktenherausgabe-und-zurueckbehaltung-rechtsprechungscheck` | Anwälte: aktenherausgabe und zurueckbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
 | `aktenherausgabe-zurueckbehaltung-faktenmatrix` | Anwälte: aktenherausgabe und zurueckbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte. |
+| `anwaelte-anwaltsgerichtliche-anschuldigung-kaltstart-und-fakten` | Anwälte: anwaltsgerichtliche anschuldigung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-geldwaesche-risikoanalyse-kanzlei-rechtsprechungscheck` | Anwälte: geldwaesche risikoanalyse kanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-ki-tool-in-der-kanzlei-kammerantwort-und-verfahrensstr` | Anwälte: ki tool in der kanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-vermoegensverfall-und-zulassungswiderruf-kaltstart-und` | Anwälte: vermoegensverfall und zulassungswiderruf - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-vermoegensverfall-und-zulassungswiderruf-kammerantwort` | Anwälte: vermoegensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-vermoegensverfall-und-zulassungswiderruf-organisations` | Anwälte: vermoegensverfall und zulassungswiderruf - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-vermoegensverfall-und-zulassungswiderruf-rechtsprechun` | Anwälte: vermoegensverfall und zulassungswiderruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaltliche-nebentaetigkeit` | Anwälte: anwaltliche nebentaetigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte. |
 | `anwaltliche-nebentaetigkeit-kammerantwort-und-verfahren` | Anwälte: anwaltliche nebentaetigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
 | `anwaltliche-nebentaetigkeit-organisationspflicht-und-p` | Anwälte: anwaltliche nebentaetigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |

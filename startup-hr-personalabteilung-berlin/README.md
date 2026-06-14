@@ -71,7 +71,7 @@ Chef- oder Founder-Briefings sollen deshalb nicht einfach Rohlisten mit Diagnose
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -146,6 +146,7 @@ Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschre
 | `nachweisgesetz-checkliste` | Berliner Start-up-HR: Nachweisgesetz-Check: wesentliche Vertragsbedingungen, Textform/Schriftform, Fristen, Empfangsnachweis und Änderungsnachweis. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, C... |
 | `notfallkontakte-und-erste-hilfe` | Berliner Start-up-HR: Notfallkontakte, Erste Hilfe und Arbeitsschutz: Erforderlichkeit, Zugriff, Aufbewahrung und Krisenprozess. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nä... |
 | `offboarding-account-sperre-datenuebergabe` | Berliner Start-up-HR Offboarding-Spezialskill: Reihenfolge und Rechtsgrundlagen für Account-Sperre und Datenuebergabe bei E-Mail, Slack, GitHub, CRM, Cloud-Drives und Endgeraeten. Trennt dienstliche und private Daten, regelt Litigation H... |
+| `offboarding-account-sperre-und-datenuebergabe` | Berliner Start-up-HR: Account-Sperre und Datenübergabe: E-Mail, Slack, GitHub, Kundenkontakte, private Daten und Litigation Hold. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Brief... |
 | `offboarding-checkliste-it-payroll` | Berliner Start-up-HR: Offboarding-Checkliste: Kündigungsgrund, Zeugnis, Resturlaub, Equipment, Accounts, Payroll, Geheimnisse und Alumni-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstell... |
 | `onboarding-datenschutz-und-it-accounts` | Berliner Start-up-HR: IT-Accounts und Datenschutz beim Onboarding: Rollenrechte, MFA, Geräte, Slack, HRIS, MDM und Zugriffskontrolle. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing u... |
 | `onboarding-equipment-und-homeoffice` | Berliner Start-up-HR: Equipment, Laptop, Handy, Homeoffice-Ausstattung, Rückgabe, Verlust und private Nutzung dokumentieren. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächst... |

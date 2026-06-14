@@ -175,4 +175,3 @@ Zielgruppe sind Berater und Organe von GmbH, UG und AG in wirtschaftlichen Krise
 - Stand: 05/2026
 - InsO in der Fassung des SanInsFoG (in Kraft seit 01.01.2021); § 15b InsO ersetzt § 64 GmbHG a.F.
 - BGH-Urteil zur Passiva-II-Methode (Leitsatz: Deckungsluecke dauerhaft über 10 Prozent indiziert Zahlungsunfaehigkeit)
-

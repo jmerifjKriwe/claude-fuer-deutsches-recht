@@ -95,4 +95,3 @@
   3. **§ 266a StGB SV-Verschiebung**: Pellbach gibt im Chat 28.01.2025 Engelmeier wieder ("mit der bayrischen Niederlassung-Auflösung können wir 200k reinholen"). Das stützt die Schutzbehauptung, dass Pellbach von einer Liquiditätszufuhr ausging und keine vorsätzliche Vorenthaltung beabsichtigte. Prüfen: Sanierungsperspektive als Vorsatz-Ausschluss.
 - Beweisstrategie: Chat möglichst nicht in Hauptverhandlung verlesen lassen — § 100a StPO Verwertungsverbote prüfen (Beschluss zur TKUE / Beschluss zu Mobilfunk-Auswertung).
 - Verwertungsverbote: prüfen, ob § 100a/§ 100b StPO-Beschluss vorliegt und ob Beweisthema "ehelicher Bereich" § 52 StPO-relevant ist.
-

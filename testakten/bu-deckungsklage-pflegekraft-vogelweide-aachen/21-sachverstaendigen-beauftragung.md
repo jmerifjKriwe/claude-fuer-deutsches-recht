@@ -41,4 +41,3 @@
 ## III. Gerichtliches Sachverständigengutachten (antizipiert)
 
 Das Gericht wird voraussichtlich ein oder mehrere gerichtliche Sachverständigengutachten in Auftrag geben. Die klägerseits eingeholten Privatgutachten dienen als Vorbereitung und Grundlage für die Auseinandersetzung mit dem gerichtlichen Gutachter. Erfahrungsgemäß werden Gerichte in NRW für BU-Verfahren Sachverständige aus dem Bereich Neurologie/Psychiatrie und Orthopädie bestimmen. Dr. Müller-Hauck wird entsprechende Kandidaten vorschlagen.
-

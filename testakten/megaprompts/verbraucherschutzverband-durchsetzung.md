@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 106 Skills (gekuerzt fuer Chat-Fenster) des Plugins `verbraucherschutzverband-durchsetzung`.
+Dieser Megaprompt enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `verbraucherschutzverband-durchsetzung`.
 
 ## Inhaltsverzeichnis
 

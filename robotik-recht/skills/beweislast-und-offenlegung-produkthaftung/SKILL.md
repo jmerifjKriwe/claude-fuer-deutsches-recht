@@ -5,15 +5,11 @@ description: "Prüft Beweislast, Indizien, Offenlegung technischer Unterlagen, K
 
 # Beweislast und Offenlegung in der Robotik-Produkthaftung
 
-## Fachkern: Beweislast und Offenlegung in der Robotik-Produkthaftung
-- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
-- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
-
 ## Worum geht es konkret
 
-Die neue Produkthaftungs-RL VO (EU) 2024/2853 reagiert auf die Beweisnot von Geschädigten bei komplexen, vernetzten und KI-gestützten Produkten mit (i) Offenlegungspflichten technischer Unterlagen vor und im Prozess (Art. 9 RL), (ii) Vermutungen zur Fehlerhaftigkeit (Art. 10) und (iii) Vermutungen zur Kausalität (Art. 10 Abs. 4). Parallel bleibt nationales Prozessrecht (§§ 142, 144, 421-432 ZPO, § 810 BGB, § 242 BGB, Auskunfts- und Stufenklage § 254 ZPO) anwendbar. Bearbeite die Tools, prioritisiert sie und gibt Schriftsatzpassagen für beide Seiten.
+Die neue Produkthaftungs-RL 2024/2853 reagiert auf die Beweisnot von Geschädigten bei komplexen, vernetzten und KI-gestützten Produkten mit Offenlegungspflichten technischer Unterlagen vor und im Prozess (Art. 9), Vermutungen zur Fehlerhaftigkeit (Art. 10) und Vermutungen zur Kausalität (Art. 10 Abs. 4). Parallel bleibt nationales Prozessrecht (§§ 142, 144, 421-432 ZPO, § 810 BGB, § 242 BGB, Auskunfts- und Stufenklage § 254 ZPO) anwendbar. Priorisiere diese Instrumente nach Anspruchsziel, Beweisnot, Geheimnisschutz und Prozessrisiko und liefere Schriftsatzpassagen für Kläger- und Herstellerseite.
 
-## Wann dieses Modul hilft / Kaltstart-Fragen
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
 1. **Rolle:** Geschädigter/Anspruchsteller, Hersteller-Verteidigung, Versicherer, Sachverständiger, Gericht.
 2. **Vorfall:** Personen-, Sach- oder Datenschaden; Robotik-System komplex (KI, Cloud, OTA-Updates)?
@@ -33,7 +29,7 @@ Die neue Produkthaftungs-RL VO (EU) 2024/2853 reagiert auf die Beweisnot von Ges
 - **DSGVO** Art. 15 Auskunftsrecht.
 - **§ 99 PatG / § 145a MarkenG** für Geschäftsgeheimnisschutz im Disclosure-Verfahren (GeschGehG).
 
-## Schritt für Schritt
+## Workflow Schritt für Schritt
 
 1. **Beweissicherung vor Klage.** Logs, Fotos, Zeugenaussagen, Sachverständigengutachten privat; Hash-Sicherung.
 2. **Disclosure-Antrag** nach neuer ProdHaftRL (für Schäden ab 09.12.2026): Antrag auf Vorlage konkret bezeichneter Unterlagen, "necessary and proportionate"; Schutz von Geschäftsgeheimnissen Art. 9 Abs. 4 RL i. V. m. GeschGehG.
@@ -78,6 +74,12 @@ Die neue Produkthaftungs-RL VO (EU) 2024/2853 reagiert auf die Beweisnot von Ges
 - **GeschGehG nicht beachtet** – im Prozess Schutzlücke.
 - **Vermutungen Art. 10** nicht ausgenutzt durch Geschädigte (Komplexitäts-Argument).
 - **Sachverständiger ohne Robotik-Expertise** – Gutachten wenig verwertbar.
+
+## Querverweise
+
+- `betreiber-mitverschulden-und-fehlbedienung`
+- `deliktische-haftung-paragraph-823-bgb`
+- `data-act-roboterdaten`
 
 ## Quellen Stand 06/2026
 

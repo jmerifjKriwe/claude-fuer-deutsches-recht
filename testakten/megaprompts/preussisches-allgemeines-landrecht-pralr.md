@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 199 Skills (gekuerzt fuer Chat-Fenster) des Plugins `preussisches-allgemeines-landrecht-pralr`.
+Dieser Megaprompt enthaelt top-8 von 462 Skills (gekuerzt fuer Chat-Fenster) des Plugins `preussisches-allgemeines-landrecht-pralr`.
 
 ## Inhaltsverzeichnis
 

@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 125 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -71,6 +71,31 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `arztpraxis-compliance` | Betäubungsmittelrecht: Arztpraxis Compliance. Arztpraxis Compliance im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht. |
 | `aufklaerungshilfe-btmg-kcang-medcang-abgrenzen-neue` | Betäubungsmittelrecht: Aufklärungshilfe § 31 BtMG. Aufklärungshilfe § 31 BtMG im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht. |
 | `betriebspruefung-apotheke` | Betäubungsmittelrecht: Betriebsprüfung Apotheke. Betriebsprüfung Apotheke im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht. |
+| `btm-002-stoff-und-anlage-pruefen` | Betäubungsmittelrecht: Stoff und Anlage prüfen. Stoff und Anlage prüfen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
+| `btm-021-cannabis-stoff-pruefen` | Betäubungsmittelrecht: Cannabis: Stoff prüfen. Stoff prüfen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-026-cannabis-therapiepfad-pruefen` | Betäubungsmittelrecht: Cannabis: Therapiepfad prüfen. Therapiepfad prüfen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-027-cannabis-erlaubnis-pruefen` | Betäubungsmittelrecht: Cannabis: Erlaubnis prüfen. Erlaubnis prüfen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-031-kokain-stoff-pruefen` | Betäubungsmittelrecht: Kokain: Stoff prüfen. Stoff prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-036-kokain-therapiepfad-pruefen` | Betäubungsmittelrecht: Kokain: Therapiepfad prüfen. Therapiepfad prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-037-kokain-erlaubnis-pruefen` | Betäubungsmittelrecht: Kokain: Erlaubnis prüfen. Erlaubnis prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-041-heroin-stoff-pruefen` | Betäubungsmittelrecht: Heroin: Stoff prüfen. Stoff prüfen für Heroin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-046-heroin-therapiepfad-pruefen` | Betäubungsmittelrecht: Heroin: Therapiepfad prüfen. Therapiepfad prüfen für Heroin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-047-heroin-erlaubnis-pruefen` | Betäubungsmittelrecht: Heroin: Erlaubnis prüfen. Erlaubnis prüfen für Heroin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-051-amphetamin-stoff-pruefen` | Betäubungsmittelrecht: Amphetamin: Stoff prüfen. Stoff prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-056-amphetamin-therapiepfad-pruefen` | Betäubungsmittelrecht: Amphetamin: Therapiepfad prüfen. Therapiepfad prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-057-amphetamin-erlaubnis-pruefen` | Betäubungsmittelrecht: Amphetamin: Erlaubnis prüfen. Erlaubnis prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-061-mdma-stoff-pruefen` | Betäubungsmittelrecht: MDMA: Stoff prüfen. Stoff prüfen für MDMA im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-066-mdma-therapiepfad-pruefen` | Betäubungsmittelrecht: MDMA: Therapiepfad prüfen. Therapiepfad prüfen für MDMA im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-067-mdma-erlaubnis-pruefen` | Betäubungsmittelrecht: MDMA: Erlaubnis prüfen. Erlaubnis prüfen für MDMA im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-071-fentanyl-stoff-pruefen` | Betäubungsmittelrecht: Fentanyl: Stoff prüfen. Stoff prüfen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-076-fentanyl-therapiepfad-pruefen` | Betäubungsmittelrecht: Fentanyl: Therapiepfad prüfen. Therapiepfad prüfen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-077-fentanyl-erlaubnis-pruefen` | Betäubungsmittelrecht: Fentanyl: Erlaubnis prüfen. Erlaubnis prüfen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-081-methadon-stoff-pruefen` | Betäubungsmittelrecht: Methadon: Stoff prüfen. Stoff prüfen für Methadon im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-086-methadon-therapiepfad-pruefen` | Betäubungsmittelrecht: Methadon: Therapiepfad prüfen. Therapiepfad prüfen für Methadon im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-087-methadon-erlaubnis-pruefen` | Betäubungsmittelrecht: Methadon: Erlaubnis prüfen. Erlaubnis prüfen für Methadon im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-091-medizinalcannabis-stoff-pruefen` | Betäubungsmittelrecht: Medizinalcannabis: Stoff prüfen. Stoff prüfen für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-096-medizinalcannabis-therapiepfad-pruefen` | Betäubungsmittelrecht: Medizinalcannabis: Therapiepfad prüfen. Therapiepfad prüfen für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `btm-097-medizinalcannabis-erlaubnis-pruefen` | Betäubungsmittelrecht: Medizinalcannabis: Erlaubnis prüfen. Erlaubnis prüfen für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `btm-in-einfacher-sprache` | Betäubungsmittelrecht: BtM in einfacher Sprache. BtM in einfacher Sprache im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht. |
 | `cannabis-akteneinsicht-vorbereiten` | Cannabis: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `cannabis-beweis-sichern` | Cannabis: Beweis sichern im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |

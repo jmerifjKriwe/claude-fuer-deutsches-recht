@@ -53,4 +53,3 @@ Herr Reimers verpflichtet sich, während der Planlaufzeit jede wesentliche Ände
 ## Scheiternsregel
 
 Wenn ein Gläubiger den Plan ablehnt oder nicht antwortet, wird Herr Reimers prüfen, ob ein gerichtlicher Schuldenbereinigungsplan oder unmittelbar der Verbraucherinsolvenzantrag gestellt wird. Die Gläubiger werden darauf hingewiesen, dass eine Ablehnung voraussichtlich nicht zu einer höheren Befriedigung führt.
-

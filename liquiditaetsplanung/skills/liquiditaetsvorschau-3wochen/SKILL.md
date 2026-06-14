@@ -190,4 +190,3 @@ Wochen 10-13 (langfristig): [...]
 ENGPAESSE: [Beschreibung kritischer Wochen und Gegenmassnahmen]
 ANNAHMEN: [Auflistung der Schluesselannahmen]
 ```
-

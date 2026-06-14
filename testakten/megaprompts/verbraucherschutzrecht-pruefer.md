@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 112 Skills (gekuerzt fuer Chat-Fenster) des Plugins `verbraucherschutzrecht-pruefer`.
+Dieser Megaprompt enthaelt top-8 von 147 Skills (gekuerzt fuer Chat-Fenster) des Plugins `verbraucherschutzrecht-pruefer`.
 
 ## Inhaltsverzeichnis
 

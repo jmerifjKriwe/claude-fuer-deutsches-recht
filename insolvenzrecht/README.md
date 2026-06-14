@@ -85,7 +85,7 @@ Doppellizenziert unter Apache License, Version 2.0 ODER MIT License, nach Wahl d
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 89 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 97 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -126,6 +126,9 @@ Automatisch generierte Komplett-Liste aller 89 Skills in diesem Plugin. Beschrei
 | `inso-schuldschein-darlehen-in-der-insolvenz` | Prüft Schuldscheindarlehen im Insolvenzverfahren: Forderungsanmeldung, Rang, Abtretung, Sicherheiten, Zahlstelle, Gläubigeridentität und Anfechtung im Insolvenzrecht. |
 | `inso-tabelle-verbraucherinsolvenz-leitfaden` | Spezialfall Tabelle und Feststellung: § 175 InsO Tabelle, § 176 InsO Prüfungstermin, § 178 InsO Wirkungen festgestellter Forderungen, Widerspruch durch Insolvenzverwalter oder anderen Gläubiger. Prüfraster und Mustertexte im Insolvenzrecht. |
 | `inso-verbraucherinsolvenz-leitfaden` | Leitfaden Verbraucherinsolvenz §§ 304 ff. InsO: aussergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Restschuldbefreiung, Sperrfristen. Prüfraster Schuldnerberatung im Insolvenzrecht. |
+| `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` | Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO fuer versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtve... |
+| `insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan` | Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und StaRUG-Plan. Qualifizierter Rangruecktritt verhindert Passivierung. Abgrenzung zum Forderungsverzicht: bei Rangruecktritt bleibt die Verbindlichkeit zivilrechtlich, faellt a... |
+| `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` | Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-fuer-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungs... |
 | `insolvenzgeld-165-sgb-iii` | Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Prüfraster § 165 ff. SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolven... |
 | `insolvenzrecht-behoerden-gericht-und-registerweg` | Insolvenzrecht: Behörden-, Gerichts- oder Registerweg im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzba... |
 | `insolvenzrechtliche-livecheck-red-team` | Insolvenzrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und dir... |
@@ -163,6 +166,9 @@ Automatisch generierte Komplett-Liste aller 89 Skills in diesem Plugin. Beschrei
 | `sanierungsgewinn-vergleich-mit-finanzamt-und-stundung` | Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien für den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig blei... |
 | `sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` | Vorab-Prüfung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-für-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspo... |
 | `sanierungsgewinn-verzicht-bilanz-im-plan` | Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und StaRUG-Plan. Handelsrechtliche und steuerliche Behandlung. Werthaltigkeit der verzichteten Forderung. Verzicht mit und ohne Besserungsschein. Gesellschafterverzicht versu... |
+| `spezial-glaeubigerantrag-risikoampel-und-gegenargumente` | Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt` | Glaeubigerausschuss: Fristennotiz und nächster Schritt. |
+| `spezial-verfahrenstypen-livequellen-und-rechtsprechungscheck` | Verfahrenstypen: Livequellen- und Rechtsprechungscheck. |
 | `tabelle-beweislast-und-darlegungslast` | Tabelle: Beweislast, Darlegungslast und Substantiierung im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutz... |
 | `triage-verbraucherinsolvenz` | Triage: Mandantenkommunikation und Entscheidungsvorlage im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutz... |
 | `ueberschuldung-fristen-form-und-zustaendigkeit` | Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt n... |
@@ -175,7 +181,9 @@ Automatisch generierte Komplett-Liste aller 89 Skills in diesem Plugin. Beschrei
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Insolvenzrecht. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Insolvenzrecht. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Insolvenzrecht. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Insolvenzrecht. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zahlungsunfaehigkeit-pruefung-17-inso` | Erstellt ein strukturiertes Prüfgutachten zum Eröffnungsgrund der Zahlungsunfähigkeit nach § 17 InsO. Berechnet den Liquiditätsstatus zum Stichtag, wendet das 10-%-/3-Wochen-Schema des BGH an und würdigt Indizien der Zahlungseinstellung.... |
 | `zahlungsunfaehigkeit-tatbestand-beweis-und-belege` | Zahlungsunfaehigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse u... |
 

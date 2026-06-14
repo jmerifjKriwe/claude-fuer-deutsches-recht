@@ -170,7 +170,7 @@ vertragsrecht/
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -206,6 +206,8 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `routing-zahlen-schwellen-und-berechnung` | Routing: Zahlen, Schwellenwerte und Berechnung im Vertragsrecht. |
 | `saas-msa-pruefung` | Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB-Kontrolle (§§ 305–310 BGB), automatischer Verlängerung, Preiseskalation, Datenschutz (Art. 28 DSGVO), Haftungsbegrenzung und Vertragsstrafe (§ 339 BGB). Wird... |
 | `saas-tracking-vert` | Saas: Risikoampel, Gegenargumente und Verteidigungslinien im Vertragsrecht. |
+| `spezial-eskalations-livequellen-und-rechtsprechungscheck` | Eskalations: Livequellen- und Rechtsprechungscheck. |
+| `spezial-pruefung-red-team-und-qualitaetskontrolle` | Pruefung: Red-Team und Qualitätskontrolle. |
 | `stakeholder-zusammenfassung` | Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer Zusammenfassung für Geschäftsführung, für den... |
 | `tracking-verhandlung-vergleich-und-eskalation` | Tracking: Verhandlung, Vergleich und Eskalation im Vertragsrecht. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Vertragsrecht (BGB-Vertragsrecht): trennt fehlende Tatsachen von fehlenden Belegen (Vertrag, AGB, Korrespondenz), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgerichte), Frist und Ersatznachweis. |
@@ -214,6 +216,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `vert-mandantenkommunikation-entscheidungsvorlage` | Vert: Mandantenkommunikation und Entscheidungsvorlage im Vertragsrecht. |
 | `vert-rahmenvertrag-einzelabrufe-spezial` | Spezialfall Rahmenvertrag und Einzelabrufe: Wechselwirkung, Battle of Forms, Hierarchie der Dokumente. Prüfraster für Einkauf und Vertrieb im Vertragsrecht. |
 | `vert-vertragsschluss-vertragspruefung` | Bauleiter Vertragsschluss §§ 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Prüfraster für typische Streitfaelle im Vertragsrecht. |
+| `vertragsmandat-workspace-kontexttrennung` | Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln, abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven Mandat wechseln, Mandate... |
 | `vertragspruefung` | Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Recht. Identifiziert Vertragsstruktur anhand der Titelseite, ordnet das Dokument dem richtigen Prüfpfad zu (Lieferantenvertrag, NDA, AGB-Klauselkontrolle, Dienstleistungsvertr... |
 | `vertragsrecht-erstpruefung-und-mandatsziel` | Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Vertragsrecht. |
 | `vertragsverlaengerungs-monitor` | 'Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt rechtzeitig, bevor Verlängerungs-/Kündigungsfenster schließen. Relevant insbesondere bei § 309 Nr. 9 BGB (automatische Verlängerung). Laden, wenn der Nutzer fragt 'welche Ver... |
@@ -225,8 +228,10 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `widerruf-zusammenfassungen-interessen` | Widerruf: Internationaler Bezug und Schnittstellen im Vertragsrecht. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Vertragsrecht. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Vertragsrecht. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Vertragsrecht. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Vertragsrecht. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zusammenfassungen-mehrparteien-konflikt-und-interessen` | Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix im Vertragsrecht. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

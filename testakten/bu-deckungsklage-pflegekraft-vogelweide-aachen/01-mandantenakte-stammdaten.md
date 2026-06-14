@@ -55,4 +55,3 @@ Marion Vogelweide ist examinierte Altenpflegerin (staatliche Prüfung 1988, Alte
 ## Mandatsverhältnis
 
 Vollmacht erteilt am 19.02.2026. Honorarvereinbarung nach § 3a RVG, Gegenstandswert BU-Klage: 133.200 EUR (1.850 EUR × 12 × 6 Restlaufzeitjahre bis 65 = abgekürzt). Kostendeckungsschutzversicherung: ARAG Rechtsschutz, VSN 88-10224-2026, Kostenzusage erteilt 22.02.2026.
-

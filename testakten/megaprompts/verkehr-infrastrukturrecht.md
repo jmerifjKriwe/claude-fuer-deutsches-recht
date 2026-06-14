@@ -2,25 +2,25 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `verkehr-infrastrukturrecht`.
+Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `verkehr-infrastrukturrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Verkehr-Infrastrukturrecht: ordnet Rolle (Träger Planungshoheit, Behörde, Betroffene An…
 2. **verkehrs-erstpruefung-und-mandatsziel** — Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel.
-3. **anschluss-router** — Einstieg, Schnelltriage und Fallrouting im Verkehr Infrastrukturrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Ri…
-4. **autonomous-driving** — Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues Mandat im Bereich Verkehrsinfrastruktur, Routing auf p…
-5. **foerderung-vergabe-ladeinfrastruktur** — Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder sch…
-6. **ladeinfrastruktur** — Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweige…
-7. **parkraumbewirtschaftung** — Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einführt Bewohnerparkausweis oder Abschleppun…
-8. **planfeststellung** — Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger ben…
-9. **schulwegsicherheit-sondernutzung-strassenbahn** — Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan u…
-10. **sondernutzung** — Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomi…
-11. **strassenbahn** — Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Lin…
-12. **verfahren** — Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten o…
-13. **wirtschaftsverkehr** — Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzone…
-14. **autonomous-driving-strassenrecht** — Autonomes Fahren und Strassenrecht: § 1d StVG, autonomes Fahren in Level 4, Genehmigung der zuständigen Landesbehoerden,…
-15. **verkehrswende** — Verkehrswende-Maßnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Förderung.…
+3. **verkehr-infrastrukturrecht-sondernutzung** — Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomi…
+4. **anschluss-router** — Einstieg, Schnelltriage und Fallrouting im Verkehr Infrastrukturrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Ri…
+5. **autonomous-driving** — Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues Mandat im Bereich Verkehrsinfrastruktur, Routing auf p…
+6. **foerderung-vergabe-ladeinfrastruktur** — Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder sch…
+7. **ladeinfrastruktur** — Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweige…
+8. **parkraumbewirtschaftung** — Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einführt Bewohnerparkausweis oder Abschleppun…
+9. **planfeststellung** — Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger ben…
+10. **schulwegsicherheit-sondernutzung-strassenbahn** — Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan u…
+11. **sondernutzung** — Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomi…
+12. **strassenbahn** — Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Lin…
+13. **verfahren** — Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten o…
+14. **wirtschaftsverkehr** — Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzone…
+15. **autonomous-driving-strassenrecht** — Autonomes Fahren und Strassenrecht: § 1d StVG, autonomes Fahren in Level 4, Genehmigung der zuständigen Landesbehoerden,…
 
 ---
 
@@ -114,6 +114,53 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `verkehr-infrastrukturrecht-sondernutzung`
+
+_Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW (Landesstrassenrecht), BayStrWG (Bayern), VwGO (Widerspruch). Prüfraster: Erlaubnis vs. Gemeingebrauch, Auflagen-Prüfung, Gebühren, Widerruf bei Verkehrsanforderungen, Ladesaeulen/Aussengastro/Warenauslagen/Baustelleneinrichtung. Output Sondernutzungsantrag, Widerspruchsschrift gegen Ablehnung. Abgrenzung: Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung; Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung._
+
+# Sondernutzung oeffentlicher Strassenflaechen
+
+## Triage zu Beginn
+
+1. **Bundesstrasse oder Gemeindestrasse?** — Bundesstrasse: § 8 FStrG; Gemeindestrasse: § 16 StrWG (je nach Bundesland); unterschiedliche Zustaendigkeiten.
+2. **Art der Sondernutzung?** — Ladesaeule, Aussengastro, Warenauslage, Baustelleneinrichtung, Werbetafel, Kiosk.
+3. **Liegt schon eine Genehmigung vor?** — Widerrufsvorbehalt pruefen; Gebuehren; Auflagen.
+4. **Wurde abgelehnt?** — Zustaendige Behoerde, Versagungsgruende, Ermessen?
+5. **Zeitliche Dringlichkeit?** — Einstweiliger Rechtsschutz (§ 80a VwGO) bei drohender Vollzugshandlung.
+
+## Zentrale Normen
+
+- **§ 8 FStrG** — Sondernutzung an Bundesfernstrassen; Erlaubnis erforderlich; widerruflich
+- **§ 16 StrWG NRW (als Muster)** — Sondernutzung an Gemeindestrassen; Gebuehren; Auflagenpraxis
+- **§ 18 StrWG NRW** — Sondernutzungsgebuehren; Gebuehrenrahmen
+- **§ 7 FStrG** — Gemeingebrauch; Abgrenzung zur Sondernutzung
+- **§ 40 VwVfG** — Ermessen der Behoerde bei der Erlaubniserteilung; kein Anspruch, aber willkuerfreie Entscheidung
+- **§ 49 VwVfG** — Widerruf einer rechtmaessigen Erlaubnis
+
+## Aktuelle Rechtsprechung
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Schritt-fuer-Schritt-Workflow
+
+1. **Sondernutzungsart und Strassenkategorie bestimmen** → zustaendige Behoerde.
+2. **Antrag stellen:** Nutzungsart, Dauer, Flaeche, Zweck; Lageskizze.
+3. **Auflagen beim Erhalt der Erlaubnis pruefen:** Verkehrssicherungspflicht, Haftung, Gebuehren.
+4. **Widerrufsvorbehalt dokumentieren:** Bei laengerfristiger Investition (Ladesaeule) Bestandsschutz-Frage klaeren.
+5. **Bei Ablehnung:** Widerspruch (1 Monat, § 70 VwGO) → Verpflichtungsklage VG.
+
+## Harte Leitplanken
+
+- Sondernutzungserlaubnis ist widerruflich — Investitionen sorgfaeltig planen.
+- Gebuehren muessen verhaeltnismaessig sein — bei exzessiven Gebuehren Widerspruch.
+- Gleichbehandlung pruefen: Erlaubt die Gemeinde anderen Nutzern dasselbe?
+- Anwaltliche Endkontrolle bei Antraegen und Widerspruechen.
 
 ---
 
@@ -1264,119 +1311,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 ### Leitentscheidungen
 
 - BGH VI ZR 281/13
-
----
-
-## Skill: `verkehrswende`
-
-_Verkehrswende-Maßnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Förderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Prüfraster: Rechtsgrundlage Verkehrsanordnung..._
-
-# Verkehrswende und Verkehrsberuhigung — Rechtliche Umsetzung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: VwVfG § 73 Auslegung 1 Monat / Einwendungen 1 Monat, UmwRG § 4 Klagefrist, VwGO § 47 Normenkontrolle 1 Jahr, BVerwGO § 50 Abs. 1 Nr. 6 erstinstanzliche Zuständigkeit BVerwG.
-- Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB §§ 38, 246, VwVfG §§ 72-78 (Planfeststellung), VwGO §§ 47 ff., BNatSchG §§ 14, 15, 34, 44, WHG §§ 8, 67, EU-FFH-RL, UmwRG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Planfeststellungsbeschluss, Erörterungsprotokoll, UVP-Bericht, FFH-Verträglichkeitsstudie, Einwendung, Klage zum BVerwG, Erlaubnis nach § 67 WHG — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn — klaere zuerst
-
-1. Welche Maßnahme steht im Fokus: Tempo 30, Fussgaengerzone, Radstreifen, Lieferzone, Einbahnstrasse?
-2. Wer ist Mandant: Gemeinde/Strassenverkehrsbehoerde, Anlieger, Gewerbetreibender, Verband?
-3. Gibt es einen anfechtenden Dritten (z.B. Anlieger gegen Tempo-30)?
-4. Ist die Maßnahme verkehrsrechtlich (StVO) oder planerisch (B-Plan, Widmungsaenderung)?
-5. Welche wirtschaftlichen Interessen sind betroffen (Erreichbarkeit, Lieferfrequenz)?
-6. Bestehen laermschutzrechtliche oder behindertenrechtliche Anforderungen?
-
-## Zentrale Normen
-
-- § 45 I StVO — allgemeine Anordnungsbefugnis der Strassenverkehrsbehoerde
-- § 45 I b Nr. 5 StVO — Tempo-30-Zone aus Gruenden des Laermschutzes
-- § 45 I b Nr. 6 StVO — Tempo-30 vor Schulen, Kindergaerten, Senioreneinrichtungen
-- § 45 I c StVO — Laermaktionsplan der Gemeinde als Grundlage
-- Zeichen 250, 253, 260, 325, 326 StVO-Anlagen — Verkehrsverbote und Sondernutzung
-- VwV-StVO zu § 45 — Ermessensrichtlinien, Anordnungsvoraussetzungen
-- § 8 StVO — Vorfahrtregelung bei Verkehrsberuhigung
-- STVO-Bussgeldkatalog — Sanktionen bei Verstoss
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Schritt-für-Schritt-Workflow
-
-1. **Maßnahme qualifizieren:** reine Verkehrszeichen-Anordnung (§ 45 StVO) oder Strassenplanung (BauGB/StrWG)?
-2. **Rechtsgrundlage bestimmen:** welche Ziffer des § 45 I, I b oder I c StVO greift?
-3. **Begruendung dokumentieren:** Laermgutachten, Unfallstatistik, Schulwegplaene, Laermaktionsplan
-4. **Verhältnismäßigkeit prüfen:** milderes Mittel vorhanden (Geschwindigkeitsdaempfer statt Vollsperrung)?
-5. **Betroffene Belange erfassen:** Anlieger, Gewerbe, OEPNV, Lieferverkehr, Feuerwehr/Rettungsdienste
-6. **Sondernutzungsregelung treffen:** Lieferzeitfenster, Ausnahmegenehmigungen (§ 46 StVO)
-7. **Beschilderung konzipieren:** VwV-StVO Zeichen- und Aufstellungsanforderungen
-8. **Evaluation planen:** Verkehrszaehlung vor/nach, Laermmessung, Beschwerdemanagement
-9. **Anfechtungsrisiko einschaetzen:** Widerspruch durch Anlieger oder Gewerbetreibende wahrscheinlich?
-
-## Entscheidungsbaum Maßnahmentyp
-
-```
-Verkehrsberuhigung geplant
- |
-Flaeche: öffentliche Strasse?
- Nein ──→ privatrechtliche Regelung (Grundstueckseigentuemer)
- Ja ──→ weiter
- |
-Anordnung per Verkehrszeichen (§ 45 StVO)?
- Ja ──→ Strassenverkehrsbehoerde; keine Planfeststellung
- Nein (Umbau Fahrbahn) ──→ ggf. StrWG-Widmungsaenderung oder B-Plan
- |
-Begruendung ausreichend?
- Laerm/Unfall nachgewiesen ──→ Anordnung tragfaehig
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- |
-Ausnahmen noetig?
- Lieferverkehr ──→ zeitliche Freigabe + Zeichen 1026-37
- Anlieger ──→ Sondergenehmigung § 46 StVO
-```
-
-## Output-Template Anordnung / Bescheid
-
-**Adressat:** Strassenverkehrsbehoerde intern oder an Anlieger — Tonfall: behoerdlich-begruendend
-
-```
-[BEHOERDE]
-[ADRESSE]
-
-Verkehrsrechtliche Anordnung nach § 45 I b Nr. 5 StVO
-
-Aktenzeichen: [AZ]
-
-Betreff: Einrichtung Tempo-30-Zone [STRASSENBEZEICHNUNG]
-
-Aufgrund § 45 I b Nr. 5 StVO wird für den Streckenabschnitt [VON] bis [BIS]
-eine Tempo-30-Zone (Zeichen 274.1 StVO) angeordnet.
-
-Begruendung:
-Gemaess dem Laermaktionsplan der Stadt [ORT] vom [DATUM] werden an dem genannten
-Streckenabschnitt Laermwerte von [X] dB(A) tags gemessen, die den Richtwert der
-16. BImSchV von 59 dB(A) tags uebersteigen. Die Anordnung ist das mildeste Mittel
-zur nachhaltigen Laermreduzierung.
-
-Ausnahme (§ 46 StVO): Lieferverkehr werktags 06:00-10:00 Uhr gestattet.
-
-Rechtsbehelfsbelehrung: Gegen diese Anordnung kann binnen eines Monats nach
-Bekanntgabe Widerspruch eingelegt werden.
-
-[UNTERSCHRIFT BEHOERDE]
-```
-
-## Harte Leitplanken
-
-- Tempo-30 braucht konkrete Begruendung (Laerm/Unfall) — politischer Wille allein reicht nicht
-- Verhältnismäßigkeit: stets prüfen ob milderes Mittel ausreicht
-- Lieferverkehr nie vollstaendig ausschliessen — wirtschaftliche Grundversorgung sichern
-- Ausnahmegenehmigungen (§ 46 StVO) für Anlieger mit Behinderung / Gewerbe einplanen
-- Anfechtungsrecht der Anlieger bei Vollsperrungen: Eilrechtsschutz § 80 V VwGO wahrscheinlich
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `word-legal-ai-plugin-and-skill-for-german-lawyers`.
+Dieser Megaprompt enthaelt top-15 von 52 Skills des Plugins `word-legal-ai-plugin-and-skill-for-german-lawyers`.
 
 ## Inhaltsverzeichnis
 

@@ -39,11 +39,12 @@ Keine Rechtsberatung. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und fr
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 109 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `accounting-cyber` | Untersucht Bilanzierungsunregelmäßigkeiten und Bilanzfälschung – forensische Buchprüfung, § 331 HGB, Abschlussprüferhaftung, SEC-Meldungen im Internal Investigations Praxis. |
+| `allgemein` | Einstieg fuer Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht. |
 | `arbeitsrecht-mitwirkung` | Klärt arbeitsrechtliche Mitwirkungspflichten, Auskunftspflichten und Grenzen bei Mitarbeiterbefragungen in Internal Investigations im Internal Investigations Praxis. |
 | `audit-hr` | Definiert Rolle und Pflichten des Audit Committee bei Internal Investigations – § 107 AktG, Berichtspflichten, Unabhängigkeit im Internal Investigations Praxis. |
 | `auftrag-scope` | Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig im Internal Investigations Praxis. |
@@ -72,6 +73,59 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `honeypot-legal` | Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird im Internal Investigations Praxis. |
 | `hr-misconduct` | Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung im Internal Investigations Praxis. |
 | `insurance-press` | Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien im Internal Investigations Praxis. |
+| `inv-001-auftrag-scope` | Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie moeglich und so belastbar wie noetig. |
+| `inv-002-honeypot-risiko` | Prueft, ob die Investigation ungewollt einen fertigen Beweisordner fuer Strafverfolger, Behoerden oder Gegner erzeugt. |
+| `inv-003-legal-hold` | Steuert Legal Hold, Datenfreeze, E-Mail, Chat, Geräte, Cloud, Backups und Chain of Custody. |
+| `inv-004-mitarbeiterinterview` | Plant Interviews mit Rollenklärung, Belehrung, Arbeitsrecht, Selbstbelastungsrisiko, Betriebsrat und Protokollstandard. |
+| `inv-005-arbeitsrecht-mitwirkung` | Prueft Teilnahme- und Auskunftspflichten von Arbeitnehmern, Grenzen bei Selbstbelastung und Sanktionen. |
+| `inv-006-betriebsrat` | Prueft Beteiligung des Betriebsrats bei Befragung, Ordnung im Betrieb, technischen Kontrollen und Auswertung von Mitarbeiterdaten. |
+| `inv-007-datenschutz` | Prueft DSGVO/BDSG bei E-Mail-Auswertung, Chatlogs, Forensik, Zugriffen, Drittstaatentransfer und Betroffenenrechten. |
+| `inv-008-geschaeftsgeheimnisse` | Schuetzt Geschaeftsgeheimnisse, NDAs, Whistleblower-Ausnahmen und Offenlegungsrisiken. |
+| `inv-009-stpo-beschlagnahme` | Prueft Durchsuchung, Beschlagnahme, § 97 StPO, § 160a StPO, Mandatsbezug und Kanzleiraid-Risiko. |
+| `inv-010-us-discovery` | Prueft US-Discovery, DOJ/SEC-Kooperation, Blocking Statute, Datenschutztransfer und Berichtssprache. |
+| `inv-011-reporting` | Erstellt Findings, Executive Summary, Board Memo, Maßnahmenplan und Verteidigungsversion ohne unnoetige Selbstbelastung. |
+| `inv-012-behoerdenstrategie` | Plant Selbstanzeige, Kooperation, Nichtkooperation, Stellungnahme, Akteneinsicht und Parallelverfahren. |
+| `inv-013-whistleblower` | Prueft HinSchG-Schnittstellen, Schutz vor Repressalien, Anonymitaet, Konflikt mit NDA und interner Untersuchung. |
+| `inv-014-redteam` | Findet Schwachstellen in Scope, Interviewplan, Datenschutz, Privilege, Bericht und Behördenstrategie. |
+| `inv-015-forensic-imaging` | Spezialskill fuer Forensic Imaging: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-016-e-mail-review` | Spezialskill fuer E-Mail Review: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-017-chat-review` | Spezialskill fuer Chat Review: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-018-mobile-devices` | Spezialskill fuer Mobile Devices: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-019-private-devices-byod` | Spezialskill fuer Private Devices BYOD: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-020-manager-interview` | Spezialskill fuer Manager Interview: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-021-dawn-raid-playbook` | Spezialskill fuer Dawn Raid Playbook: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-022-data-room-for-counsel` | Spezialskill fuer Data Room for Counsel: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-023-board-special-committee` | Spezialskill fuer Board Special Committee: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-024-audit-committee` | Spezialskill fuer Audit Committee: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-025-hr-misconduct` | Spezialskill fuer HR Misconduct: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-026-sexual-harassment` | Spezialskill fuer Sexual Harassment: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-027-bribery-red-flags` | Spezialskill fuer Bribery Red Flags: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-028-expense-fraud` | Spezialskill fuer Expense Fraud: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-029-export-control-breach` | Spezialskill fuer Export Control Breach: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-030-sanctions-hit` | Spezialskill fuer Sanctions Hit: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-031-cartel-dawn-raid` | Spezialskill fuer Cartel Dawn Raid: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-032-accounting-irregularity` | Spezialskill fuer Accounting Irregularity: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-033-cyber-incident` | Spezialskill fuer Cyber Incident: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-034-trade-secret-leak` | Spezialskill fuer Trade Secret Leak: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-035-conflict-of-interest` | Spezialskill fuer Conflict of Interest: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-036-third-party-agent` | Spezialskill fuer Third Party Agent: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-037-vendor-kickback` | Spezialskill fuer Vendor Kickback: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-038-public-procurement` | Spezialskill fuer Public Procurement: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-039-healthcare-compliance` | Spezialskill fuer Healthcare Compliance: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-040-bank-regulatory-finding` | Spezialskill fuer Bank Regulatory Finding: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-041-gdpr-fine-parallel` | Spezialskill fuer GDPR Fine Parallel: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-042-works-council-conflict` | Spezialskill fuer Works Council Conflict: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-043-disciplinary-measure` | Spezialskill fuer Disciplinary Measure: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-044-termination-strategy` | Spezialskill fuer Termination Strategy: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-045-remediation-plan` | Spezialskill fuer Remediation Plan: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-046-monitor-reporting` | Spezialskill fuer Monitor Reporting: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-047-privilege-log` | Spezialskill fuer Privilege Log: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-048-document-retention` | Spezialskill fuer Document Retention: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-049-cost-recovery-employee` | Spezialskill fuer Cost Recovery Employee: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-050-insurance-notification` | Spezialskill fuer Insurance Notification: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-051-press-strategy` | Spezialskill fuer Press Strategy: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-052-us-counsel-coordination` | Spezialskill fuer US Counsel Coordination: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
+| `inv-053-settlement-narrative` | Spezialskill fuer Settlement Narrative: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie. |
 | `inv-054-lessons-learned` | Zieht strukturierte Lessons Learned aus abgeschlossenen Internal Investigations – Systemische Schwächen, Compliance-Verbesserungen, Dokumentation für Aufsicht: Zieht strukturierte Lessons Learned aus abgeschlossenen Internal Investigatio... |
 | `kaltstart-triage` | Einstieg für Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht. |
 | `legal-hold` | Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment im Internal Investigations Praxis. |

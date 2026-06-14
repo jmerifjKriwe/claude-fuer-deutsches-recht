@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `rentenpruefer`.
+Dieser Megaprompt enthaelt top-15 von 51 Skills des Plugins `rentenpruefer`.
 
 ## Inhaltsverzeichnis
 

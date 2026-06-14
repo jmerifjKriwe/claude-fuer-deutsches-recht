@@ -2,25 +2,25 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 54 Skills des Plugins `umweltrecht`.
+Dieser Megaprompt enthaelt top-15 von 58 Skills des Plugins `umweltrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Umweltrecht: ordnet Rolle (Vorhabenträger, Behörde, Umweltverband), markiert Frist (Kla…
 2. **umweltrecht-erstpruefung-und-mandatsziel** — Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel im Umweltrecht.
-3. **abfall-circular-economy** — Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende …
-4. **bussgeld-emissionshandel-tehg-uwr** — Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWi…
-5. **compliance-schulung** — Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfa…
-6. **emissionshandel-tehg** — Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 2…
-7. **immissionsschutz-bimschg** — Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG…
-8. **kommandocenter** — Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG Kr…
-9. **lksg-csddd-lieferkettensorgfalt** — Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit …
-10. **naturschutz-artenschutz** — Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschutz-Konflikt. FFH-Vertraeglichkeit Artens…
-11. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Umweltrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsc…
-12. **stoerfall-anlagen-transaktionen-dd** — Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 1…
-13. **transaktionen-dd** — M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturs…
-14. **umweltinformation-uig-ifg** — Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation oder wehrt Ablehnung ab. Normen UIG §§ 3 4 …
-15. **verfahren** — Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widerspruch Eil- und Klageverfahren. Normen VwG…
+3. **umweltrecht-bussgeld-sanktionen** — Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OW…
+4. **abfall-circular-economy** — Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende …
+5. **bussgeld-emissionshandel-tehg-uwr** — Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWi…
+6. **compliance-schulung** — Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfa…
+7. **emissionshandel-tehg** — Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 2…
+8. **immissionsschutz-bimschg** — Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG…
+9. **kommandocenter** — Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG Kr…
+10. **lksg-csddd-lieferkettensorgfalt** — Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit …
+11. **naturschutz-artenschutz** — Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschutz-Konflikt. FFH-Vertraeglichkeit Artens…
+12. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Umweltrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsc…
+13. **stoerfall-anlagen-transaktionen-dd** — Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 1…
+14. **transaktionen-dd** — M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturs…
+15. **umweltinformation-uig-ifg** — Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation oder wehrt Ablehnung ab. Normen UIG §§ 3 4 …
 
 ---
 
@@ -134,6 +134,152 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `umweltrecht-bussgeld-sanktionen`
+
+_Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung)._
+
+# Bussgeld, Sanktionen und Anhoerung im Umweltrecht
+
+## Triage — klaere vor Reaktion auf Anhoerung
+
+1. Welches Umweltgesetz ist Grundlage (BImSchG § 62, KrWG § 69, WHG § 103, BNatSchG § 69)?
+2. Welcher Vorwurf genau — vorsaetzlich oder fahrlassig (OWiG § 10)?
+3. Welche Behoerde fuehrt das Verfahren (Gewerbeaufsicht, Umweltbehoerde, Staatsanwaltschaft)?
+4. Wurde bereits Akteneinsicht beantragt (§ 49 OWiG)?
+5. Ist der Mandant die juristische oder die natuerliche Person (GF-Haftung §§ 9, 30 OWiG)?
+6. Bestehen Verjaehjrungsfristen (§ 31 OWiG: 3 Jahre bei Bussgeld bis 100.000 EUR)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Zentrale Normen und Paragrafenkette
+
+- **§ 62 BImSchG** — Bussgeldbewehrte Pflichtverletzungen Betreiber (Betrieb ohne Genehmigung, Verstoss Nebenbestimmungen)
+- **§ 64 BImSchG** — Strafbewehrte Verstoesze (Schadstoffe in der Luft wissentlich)
+- **§ 69 KrWG** — Ordnungswidrigkeiten (illegale Entsorgung, Nachweispflichtverletzung)
+- **§ 70 KrWG** — Straftatbestaende Abfallrecht (§ 326 StGB Verweis)
+- **§ 103 WHG** — Ordnungswidrigkeiten Wasserrecht
+- **§ 69 BNatSchG** — Ordnungswidrigkeiten Naturschutz
+- **§ 55 OWiG** — Anhoerungsrecht Betroffener
+- **§ 67 OWiG** — Einspruch gegen Bussgeld-Bescheid (2 Wochen)
+- **§ 68 OWiG** — Hauptverhandlung beim Amtsgericht
+- **§ 30 OWiG** — Verbandsgeldbuse gegen jur. Person
+- **§ 31 OWiG** — Verjaeahrung (3 Jahre bei max. Bussgeld > 1.000 EUR)
+
+## Leitentscheidungen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Schritt-fuer-Schritt-Workflow
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+1. **Anhoerungsschreiben analysieren**: Vorwurf, Norm, Tatzeit, Beweismittel, gesetzte Frist.
+2. **Akteneinsicht beantragen** (§ 49 OWiG): Vollstaendige Akte — Messberichte, Kontrolle-Protokolle, Zeugenaussagen.
+3. **Schuld pruefen**: Vorsatz / Fahrlassigkeit, Zurechnung auf Mandant, Delegationskette.
+4. **Verjaeahrung pruefen**: § 31 OWiG; Unterbrechung durch Anhoerung (§ 33 OWiG).
+5. **Verteidigungsschrift einreichen**: Tatsachen und Recht; Antrag auf Einstellung oder Bussgeld-Reduzierung.
+6. **Einspruch bei Bescheid**: § 67 OWiG — 2 Wochen-Frist ab Bekanntgabe; Einspruch hemmt Rechtskraft.
+7. **Amtsgericht**: Hauptverhandlung § 68 OWiG — Zeugenbefragung, Sachverstaendige; Strafverfahren § 70 KrWG / § 326 StGB separat.
+
+### Entscheidungsbaum nach Anhoerungsschreiben
+
+```
+Anhoerungsschreiben erhalten
+  → Frist noch offen?
+      JA → Akteneinsicht sofort beantragen
+           → Schuld-Pruefung: War Pflichtverletzung schuldhaft?
+               JA → Minderungsgruende? → Verteidigungsschrift mit Minderungsargumentation
+               NEIN → Einstellungsantrag wegen fehlendem Vorsatz/Fahrlassigkeit
+      NEIN → Einspruch (§ 67 OWiG, 2 Wochen ab Bescheid)
+```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Einlassung im Umwelt-Bussgeldbescheid-Anhoerungsverfahren | Einlassung nach Schema; Template unten |
+| Variante A — Behoerde will Besprechung vor Bescheid | Vorgespräch annehmen; Einlassung dann muendlich |
+| Variante B — Mandant will Bussgeldbescheid akzeptieren | Keine Einlassung noetig; Bussgeldbescheid abwarten |
+| Variante C — Strafrecht parallel ermittelt | Strafverteidigung-Skill parallel; vorsichtige Einlassung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template: Einlassung im Anhoerungsverfahren
+
+**Adressat:** Zustaendige Behoerde — Tonfall: sachlich-juristisch
+
+```
+An die [BEHOERDE]
+
+Stellungnahme im Anhoerungsverfahren gemaess § 55 OWiG
+
+Betroffene/r: [NAME MANDANT], [ADRESSE]
+Ihr Zeichen: [AZ BEHOERDE]
+Vorwurf: [KURZBESCHREIBUNG]
+
+I. Wir zeigen die anwaltliche Vertretung von [MANDANT] an.
+   Akteneinsicht beantragen wir hiermit ausdruecklich gemaess § 49 OWiG.
+   Wir bitten um Verlaengerung der Stellungnahme-Frist bis [DATUM].
+
+II. Sachverhalt
+[MANDANT] ist Betreiber der Anlage [NAME] in [ORT].
+[Objektiver Sachverhalt aus Mandantensicht].
+
+III. Rechtliche Einlassung
+a) Tatbestand: § [X] [Gesetz] ist nicht erfuellt, weil [Argumentation].
+b) Schuld: Ein schuldhaftes Handeln liegt nicht vor. [MANDANT] hat alle
+   zumutbaren Vorkehrungen getroffen (Nachweise Anlage [X]).
+c) Verjaeahrung: Die Tat soll sich am [DATUM] ereignet haben. Gemaess
+   § 31 OWiG verjaeahrte die Ordnungswidrigkeit am [DATUM].
+
+IV. Antrag
+Wir beantragen, das Verfahren einzustellen.
+
+Anlagen: Betriebsprotokoll, Wartungsnachweise, Vollmacht
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Vertiefung: Verbandsbussgeld § 30 OWiG
+
+- Behoerde kann gegen jur. Person Bussgeld festsetzen, wenn GF/Organ Pflicht verletzt.
+- Bussgeld bis 10 Mio. EUR (§ 30 Abs. 2 OWiG) bei Vorsatz; bei Fahrlassigkeit Haelfte.
+- Selbststaendiges Verfahren gegen jur. Person neben Verfahren gegen natuerliche Person moeglich.
+- Verteidigung: Mangelnde Zurechnung der Handlung, fehlende Aufsichtspflichtverletzung § 130 OWiG.
+
+## Fristen im Ueberblick
+
+| Verfahrensschritt | Frist | Grundlage |
+|---|---|---|
+| Einspruch gegen Bussgeld-Bescheid | 2 Wochen ab Bekanntgabe | § 67 Abs. 1 OWiG |
+| Akteneinsicht-Antrag | Unverzueglich nach Anhoerung | § 49 OWiG |
+| Verjaeahrung OWi (Bussgeld > 1000 EUR) | 3 Jahre | § 31 Abs. 2 Nr. 1 OWiG |
+| Strafverfolgungsverjaehrung (§ 326 StGB) | 5 Jahre | § 78 Abs. 3 Nr. 4 StGB |
+
+## Anschluss-Skills
+
+- `umweltrecht-verfahren` — Gerichtsverfahren nach Einspruch
+- `umweltrecht-immissionsschutz-bimschg` — Nachtraegliche Auflagen als Busjgeld-Alternative
+- `umweltrecht-kommandocenter` — Intake und Mandats-Triage
 
 ---
 
@@ -2124,183 +2270,6 @@ Wir beantragen, den Ablehnungsbescheid aufzuheben und die Informationen herauszu
 - `umweltrecht-verfahren` — VG-Klage auf Informationszugang
 - `klimaklagen-verbandsklage-umwrg` — NGO-Strategie Umweltinformation
 - `fachanwalt-verwaltungsrecht-anfechtungsklage` — Klage gegen Ablehnung
-
----
-
-## Skill: `verfahren`
-
-_Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eila..._
-
-# Umweltrechtliche Verwaltungs- und Gerichtsverfahren
-
-## Arbeitsbereich
-
-Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: BImSchG § 10 Auslegung 1 Monat / Einwendungen 1 Monat, UmwRG § 4 Klagefrist 1 Monat, BBodSchG Sanierungsuntersuchung 1 Jahr, Störfall-Anzeige unverzüglich.
-- Tragende Normen verifizieren: BImSchG, KrWG, WHG, BNatSchG, UVPG, BBodSchG, ChemG, StörfallV (12. BImSchV), TA Luft, TA Lärm, EU-IED 2010/75, UmwRG, EU-FFH-RL, EU-WRRL — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage — klaere Verfahrenskontext
-
-1. Wer ist Kläger/Antragsteller — Betreiber, Nachbar oder Umweltverband?
-2. Liegt Bescheid/Genehmigung vor oder geht es um Normenkontrolle (§ 47 VwGO)?
-3. Ist Verfahren BImSchG-Genehmigung (VG), Planfeststellung (OVG/BVerwG) oder Rechtsetzung?
-4. Besteht Eilbedarf (vollziehbare Genehmigung, bevorstehende Baumafsnahme)?
-5. Wurden Einwendungen im Genehmigungsverfahren rechtzeitig erhoben (Praeklusions-Risiko)?
-6. UmwRG-Vereinigung — Anerkennungsstatus geprueft?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Zentrale Normen und Paragrafenkette
-
-- **§ 42 Abs. 1 VwGO** — Anfechtungsklage (Aufhebung Verwaltungsakt)
-- **§ 42 Abs. 2 VwGO** — Klagebefugnis (moegliche Verletzung eigener Rechte)
-- **§ 43 VwGO** — Feststellungsklage (Rechtsverhaeltnis, Unwirksamkeit Norm)
-- **§ 47 VwGO** — Normenkontrolle (Satzungen, Verordnungen, Bebauungsplaene)
-- **§ 80 Abs. 5 VwGO** — Eilantrag Wiederherstellung/Anordnung aufschiebende Wirkung
-- **§ 80a VwGO** — Drittanfechtung Baugenehmigung/Zulassung
-- **§ 113 Abs. 1 VwGO** — Aufhebungsklage; Abs. 5 — Verpflichtungsklage
-- **§ 123 VwGO** — Einstweilige Anordnung (Unterlassung, Vorabrherausgabe)
-- **§ 1 UmwRG** — Anwendungsbereich (UVP-pflichtige, IPPC-Anlagen, Plaene)
-- **§ 2 UmwRG** — Verbandsklage ohne Selbstbetroffenheit
-- **§ 4 UmwRG** — Verfahrensfehler für sich allein als Aufhebungsgrund bei UVP-Pflicht
-- **§ 5 UmwRG** — Praeklusion bei Nichtbeteiligung im Verwaltungsverfahren
-
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Schritt-für-Schritt-Workflow
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-### A) Anfechtungsklage (Dritter gegen Genehmigung)
-
-1. **Klagebefugnis prüfen**: § 42 Abs. 2 VwGO — drittschuetzende Norm (§ 5 Abs. 1 Nr. 1 BImSchG, TA-Laerm)?
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. **Klagefrist**: § 74 Abs. 1 VwGO — 1 Monat ab Bekanntgabe; bei Auslegung § 10 BImSchG: 2 Wochen nach Auslegungsende (§ 10 Abs. 8 BImSchG beachten).
-4. **Eilantrag § 80a**: Sofort wenn Genehmigung vollziehbar und Bauarbeitten drohen.
-5. **Klageschrift**: Klageantrag, Sachverhalt, rechtliche Begruendung mit Leitsaetzen.
-6. **Verbandsklage**: UmwRG-Anerkennung prüfen; § 4 UmwRG Verfahrensfehler als eigenstaendiger Aufhebungsgrund.
-
-### B) Verpflichtungsklage (Betreiber auf Genehmigung)
-
-1. **Vorverfahren**: Antrag bei Behörde; Ablehnung oder Untaetigkeit 3 Monate (§ 75 VwGO).
-2. **Klage**: Verpflichtungsklage auf Genehmigungserteilung; ggf. hilfsweise Verbescheidungsklage.
-3. **Eilantrag § 123 VwGO**: Einstweilige Anordnung auf Duldung Vorbau-/Vorbereitung.
-4. **Normenkontrolle § 47 VwGO**: Bei Angriff auf Bauleitplan, der Projekt verhindert.
-
-### Entscheidungsbaum Klageform
-
-```
-Liegt ein belastender VA vor?
- JA → Anfechtungsklage § 42 Abs. 1 VwGO
- Dritter (nicht Adressat)?
- JA → Drittschutz pruefen; § 80a Eilantrag
- NEIN → Standard-Anfechtungsklage
- NEIN → Ist eine Handlung (Genehmigung) abgelehnt?
- JA → Verpflichtungsklage § 42 Abs. 1 Alt. 2 VwGO
- NEIN → Feststellungsklage § 43 VwGO (Rechtsverhaeltnis)
- Norm angreifbar? → Normenkontrolle § 47 VwGO (OVG)
-```
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Klage gegen BImSchG-Genehmigung | Klageschrift nach Schema; Template unten |
-| Variante A — Genehmigung auf Antrag von Mandant Verteidigung noetig | Verteidigungsposition als Beigeladener; Klageschrift ist Kläger-Template |
-| Variante B — Nur bestimmte Auflagen anfechtbar nicht Gesamtgenehmigung | Teilklage; nur Auflagen angreifen |
-| Variante C — Normenkontrolle als staerkerer Angriffspunkt | Normenkontrolle § 47 VwGO prüfen; oft wirkungsvoller als Einzelklage |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Output-Template: Klageschrift Anfechtung BImSchG-Genehmigung
-
-**Adressat:** Verwaltungsgericht [ORT] — Tonfall: sachlich-juristisch
-
-```
-An das Verwaltungsgericht [ORT]
-
-K l a g e
-
-des/der [NAME KLAEGER], [ADRESSE]
-— Klaeger/in —
-Verfahrensbevollmaechtigte: [KANZLEI]
-
-gegen
-
-[BUNDESLAND/BEHOERDE]
-— Beklagte —
-beigeladen: [BETREIBER]
-
-wegen Aufhebung einer Genehmigung nach BImSchG
-
-A n t r a g
-
-Der Bescheid vom [DATUM], Az. [AZ.], wird aufgehoben.
-
-B e g r u e n d u n g
-
-I. Sachverhalt
-[BETREIBER] erhielt am [DATUM] eine Genehmigung gemaess § 4 BImSchG
-für [Anlage, Ort, Kapazitaet]. Klaeger/in ist Eigentuemerinn des Grundstuecks
-[Flur], ca. [X] m von der Anlage entfernt.
-
-II. Klagebefugnis
-Klaeger/in ist in drittschuetzenden Normen verletzt:
-§ 5 Abs. 1 Nr. 1 BImSchG — Schutz vor schaedlichen Umwelteinwirkungen.
-TA-Laerm-Richtwert Nacht 40 dB(A) wird prognostiziert ueberschritten.
-
-III. Begruendung
-1. Schallgutachten fehlerhaft: [Konkrete Maengel]
-2. UVP-Pflicht (UVPG Anlage 1 Nr. [X]) verletzt; Verfahren nicht durchgefuehrt.
- § 4 UmwRG: Verfahrensfehler fuehrt ohne Kausalitaetspruefung zur Aufhebung.
-3. Materieller Fehler: Nebenbestimmung Betriebszeit unzureichend.
-
-Anlagen: Eigentumsnachweise, Schall-Gegengutachten, Lageplan
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## Fristen-Überblick
-
-| Schritt | Frist | Grundlage |
-|---|---|---|
-| Einwendungen im Verfahren | Auslegungsfrist + 2 Wochen | § 10 Abs. 3 BImSchG |
-| Widerspruch | 1 Monat | § 70 VwGO |
-| Klage | 1 Monat | § 74 VwGO |
-| Eilantrag § 80a | Unverzueglich | — |
-| Beschwerde OVG § 146 | 2 Wochen / Begruendung 1 Monat | § 146 VwGO |
-| Normenkontrolle OVG | 1 Jahr ab Bekanntmachung | § 47 Abs. 2 VwGO |
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- EuGH hat deutsche Praeklusion § 5 UmwRG für unionsrechtswidrig erklaert soweit sie den gerichtlichen Zugang Einzelner beschraenkt.
-- Praxis: Gericht prüft Einwendungen auch wenn im Verwaltungsverfahren nicht erhoben — Chance für Kläger.
-- Aber: VG prüft Opportunitaet im Einzelfall; konservativere OVG-Linie partiell erhalten.
-
-## Anschluss-Skills
-
-- `eilantrag-80-abs-5-vwgo` — Eilrechtsschutz bei Genehmigung
-- `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt` — Drittanfechtungs-Strategie
-- `klimaklagen-verbandsklage-umwrg` — Verbandsklage UmwRG
-- `fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo` — Normenkontrolle
 
 ---
 

@@ -154,7 +154,7 @@ Dein Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jura
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -201,6 +201,8 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `rechtsgeschichte-zahlen-schwellen-und-berechnung` | Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung im Jurastudium. |
 | `rechtsquellen-beweislast-darlegungslast` | Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
 | `referendariat-tatbestand-beweis-und-belege` | Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage im Jurastudium. |
+| `spezial-oeffentliches-livequellen-und-rechtsprechungscheck` | Oeffentliches: Livequellen- und Rechtsprechungscheck. |
+| `spezial-pruefungsgespraech-fristen-form-und-zustaendigkeit` | Pruefungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `strafrecht-studium-subsumtionslehre` | Strafrecht: Verhandlung, Vergleich und Eskalation im Jurastudium. |
 | `studium-erstpruefung-und-mandatsziel` | Studium: Erstprüfung, Rollenklärung und Mandatsziel im Jurastudium. |
 | `subsumtionslehre` | Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem... |
@@ -210,7 +212,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Jurastudium (Klausur, AG, Examen): trennt fehlende Tatsachen von fehlenden Belegen (Klausuren, Hausarbeiten, Karteikarten), nennt pro Lücke Beweisthema, Beschaffungsweg (Universität), Frist und Ersatznac... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Jurastudium. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Jurastudium. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Jurastudium. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zivilrecht-schriftsatz-brief-und-memo-bausteine` | Zivilrecht: Schriftsatz-, Brief- und Memo-Bausteine im Jurastudium. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -66,4 +66,3 @@ begründet eine dauerhafte BU mit hoher medizinischer Wahrscheinlichkeit. Insbes
 - OLG Köln, Urt. v. 09.12.2020 – 20 U 125/19 — Pflegerin als Berufsgruppe mit körperlichem Schwerpunkt
 
 Quellen: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
-

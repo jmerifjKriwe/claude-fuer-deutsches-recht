@@ -1,28 +1,15 @@
 ---
 name: wehrdisziplinarordnung-einfache-disziplinarmassnahme
-description: "Wehrdisziplinarordnung einfache Disziplinarmaßnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im..."
+description: "Wehrdisziplinarordnung einfache Disziplinarmaßnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
 ---
 
 # Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme
-- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
-- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
 
 Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (durch den Disziplinarvorgesetzten verhängt) und gerichtliche Disziplinarmaßnahmen (durch das Truppendienstgericht). Einfache Maßnahmen reichen von Verweis bis Disziplinararrest. Der Skill ordnet die Schwere ein, prüft formelle Voraussetzungen und führt durch Anhörung und Beschwerdeweg.
 
-## Wann dieses Modul hilft / Kaltstart-Fragen
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
 - Welches Dienstvergehen wird vorgeworfen (konkrete Norm aus SG)?
 - Welche Maßnahme steht im Raum (Verweis, strenger Verweis, Disziplinarbuße, Ausgangsbeschränkung, Disziplinararrest)?
@@ -42,16 +29,16 @@ Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (d
 - § 42 WDO: Antrag auf gerichtliche Entscheidung beim Truppendienstgericht.
 - § 17 SG, §§ 7 ff. SG: Dienstpflichten als materielle Grundlage.
 
-## / Schritt für Schritt
+## Workflow / Schritt für Schritt
 
 1. **Vorwurf konkretisieren.** Welche Dienstpflicht aus dem SG soll verletzt worden sein? Tatzeit, -ort, Zeugen.
 2. **Anhörungstermin prüfen.** Anhörung nach § 32 WDO ist Pflicht. Recht zur schriftlichen Stellungnahme. Schweigerecht (Verbot des Selbstbezichtigungszwangs).
 3. **Akteneinsicht.** Disziplinarvorgang vollständig anfordern; Beweismittel sichten.
 4. **Verteidigungsstrategie.**
- - Bestreiten der Tat.
- - Bestreiten des Dienstvergehenscharakters.
- - Verfahrensfehler (fehlende Anhörung, sachlich falsche Zuständigkeit).
- - Bemessung (Verhältnismäßigkeit, Vorbelastungen, Tatschwere).
+   - Bestreiten der Tat.
+   - Bestreiten des Dienstvergehenscharakters.
+   - Verfahrensfehler (fehlende Anhörung, sachlich falsche Zuständigkeit).
+   - Bemessung (Verhältnismäßigkeit, Vorbelastungen, Tatschwere).
 5. **Maßnahme prüfen.** § 23 WDO – formal richtige Maßnahmeart? § 24 WDO – Ermessensfehler bei Bemessung?
 6. **Beschwerde.** § 39 WDO – 2 Wochen ab Zustellung der Disziplinarverfügung. Gerichtlicher Antrag § 42 WDO – 2 Wochen ab Beschwerdebescheid.
 7. **Truppendienstgericht.** § 91 WDO – mündliche Verhandlung, Beweisaufnahme. Anwesenheitsrecht des Verteidigers § 90 WDO.
@@ -88,6 +75,15 @@ Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (d
 - Disziplinararrest akzeptiert, obwohl richterliche Bestätigung fehlte.
 - Parallelverfahren übersehen – § 16 WDO wäre Aussetzung möglich.
 - Bemessungsfehler nicht gerügt – Truppendienstgericht prüft Bemessung sonst nur eingeschränkt.
+
+## Querverweise
+
+- soldatengesetz-rechtsstellung-grundpflichten
+- disziplinarverfahren-intake
+- truppendienstgericht-zustaendigkeit-verfahren
+- gerichtliches-disziplinarverfahren-soldat
+- wehrstrafrecht-fahnenflucht-gehorsamsverweigerung-schnittstelle
+- rechtsbeistand-im-disziplinarverfahren
 
 ## Quellen Stand 06/2026
 

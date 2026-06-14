@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 133 Skills (gekuerzt fuer Chat-Fenster) des Plugins `kriegsdienstverweigerung-wehrdienst`.
+Dieser Megaprompt enthaelt top-8 von 136 Skills (gekuerzt fuer Chat-Fenster) des Plugins `kriegsdienstverweigerung-wehrdienst`.
 
 ## Inhaltsverzeichnis
 

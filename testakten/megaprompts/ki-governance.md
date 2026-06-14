@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 53 Skills des Plugins `ki-governance`.
+Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `ki-governance`.
 
 ## Inhaltsverzeichnis
 

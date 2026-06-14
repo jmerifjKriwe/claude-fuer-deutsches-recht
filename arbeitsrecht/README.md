@@ -211,7 +211,7 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arb
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 90 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 98 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -219,6 +219,9 @@ Automatisch generierte Komplett-Liste aller 90 Skills in diesem Plugin. Beschrei
 | `agg-pruefung-bewerber-und-beschaeftigte` | AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädigungs- und Schadensersatzansprüche § 15 AGG, Beweislastumkehr § 22 AGG, Geltendmachungsfrist § 15 Abs: AGG-Prüfung be... |
 | `anpassen` | Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart... |
 | `arbeitnehmer-status` | Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs: Statusfeststellung für eine geplante Beschä... |
+| `arbeitsrecht-anpassen` | Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart... |
+| `arbeitsrecht-mandatsakte-kontexttrennung` | Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten; für Syndikusrechtsanw... |
+| `arbeitsrecht-problem-sortieren` | Sehr allgemeiner Einstiegsskill fuer unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende F... |
 | `aufhebungsvertrag` | Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags: Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit... |
 | `aufhebungsvertrag-sperrzeit-prognose` | Aufhebungsvertrag Sperrzeit Prognose: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Aufhebungsvertrag Sperrzeit Prognose: ordnet Normen, Nutzerangaben, Fristen, Belege und ver... |
 | `bag-equal-pay-paarvergleich-8azr30024` | Bag Equal Pay Paarvergleich 8azr30024: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Bag Equal Pay Paarvergleich 8azr30024: ordnet Normen, Nutzerangaben, Fristen, Belege und v... |
@@ -298,12 +301,17 @@ Automatisch generierte Komplett-Liste aller 90 Skills in diesem Plugin. Beschrei
 | `untersuchungs-memo` | Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind: Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokol... |
 | `untersuchungs-zusammenfassung` | Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte: Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Un... |
 | `zugang-neu-001-kuendigungszugang-beweislast-und-zugangsmoment` | Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit konkreter Fachprüfung,... |
+| `zugang-neu-002-einwurf-einschreiben-auslieferung-inhalt` | Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal` | Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand m... |
+| `zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag` | Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenb` | Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit konkret... |
+| `zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung` | Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung-und-z` | Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit konkreter... |
 | `zugang-neu-005-hausbriefkasten-leerungszeiten-und-zugang` | Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit konkreter Fachprüfung, Quellenh... |
+| `zugang-neu-006-kuendigung-per-bea-e-mail-fax-schriftformfallen` | Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall` | Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit konkreter Fac... |
 | `zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept` | Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfu... |
+| `zugang-neu-008-kschklage-frist-streitigem-zugang` | Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga` | Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fac... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -91,7 +91,7 @@ Das Plugin trifft keine unüberprüfte Vollstreckungsentscheidung und ersetzt ke
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -129,6 +129,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `raeumung-compliance-dokumentation-und-akte` | Raeumung: Compliance-Dokumentation und Aktenvermerk im Zwangsvollstreckung. |
 | `raeumung-tabellenauszug-inso` | Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a... |
 | `schuldnerschutz-beweislast-und-darlegungslast` | Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung im Zwangsvollstreckung. |
+| `spezial-765a-red-team-und-qualitaetskontrolle` | 765A: Red-Team und Qualitätskontrolle. |
+| `spezial-kontensuche-livequellen-und-rechtsprechungscheck` | Kontensuche: Livequellen- und Rechtsprechungscheck. |
+| `spezial-vermoegensauskunft-zahlen-schwellen-und-berechnung` | Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Zwangsvollstreckung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dok... |
 | `tabellenauszug-201-inso` | Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund... |
 | `titel-klausel-zustellung` | Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Ins... |
@@ -141,7 +144,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `vollstreckungstitel-sonderfall-und-edge-case` | Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung im Zwangsvollstreckung. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Zwangsvollstreckung. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Zwangsvollstreckung. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Zwangsvollstreckung. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zpo-zwangsvollstreckung-zv-abwehr` | ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage im Zwangsvollstreckung. |
 | `zvg-antrag-glaeubiger` | Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorher... |
 | `zwangsvollstreckung-erstpruefung-und-mandatsziel` | Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel im Zwangsvollstreckung. |

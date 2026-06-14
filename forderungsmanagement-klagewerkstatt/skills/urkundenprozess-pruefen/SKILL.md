@@ -108,7 +108,7 @@ Pruefung Urkunde:
   Verzug:          durch Urkunde gedeckt?
   Hoehe:           bezifferbar?
   Vertretungsmacht: durch HRB/Vollmacht gedeckt?
-  
+
 Bei "ja" zu allen Fragen -> Urkundenprozess
 Bei "nein" -> Regelverfahren oder Mahnbescheid
 ```

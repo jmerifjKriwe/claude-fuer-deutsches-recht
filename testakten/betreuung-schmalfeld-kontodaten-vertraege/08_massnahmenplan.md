@@ -31,4 +31,3 @@
 - Prüfen, ob Einwilligungsvorbehalt, Sperrvermerk oder weitere gerichtliche
   Schutzmaßnahmen anzuregen sind.
 - Wiederkehrende Vertragszahlungen mit der Bank monatlich kontrollieren.
-

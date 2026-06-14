@@ -89,7 +89,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 157 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 178 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -126,11 +126,28 @@ Automatisch generierte Komplett-Liste aller 157 Skills in diesem Plugin. Beschre
 | `besold-landesbesoldung-foederalismus-und-synopse` | Beamtenrecht: Landesbesoldung Föderalismus und Synopse im Beamtenrecht. |
 | `besold-mehrarbeit-verguetung-freizeitausgleich-beamte` | Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Beamtenrecht. |
 | `besold-musterverfahren-ruhen-verjaehrung-nachzahlung` | Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung im Beamtenrecht. |
+| `besold-neu-001-bundesbesoldung-grundgehalt-familienzuschlag` | Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-002-landesbesoldung-foederalismus-und-synopse` | Beamtenrecht: Landesbesoldung Föderalismus und Synopse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-003-besoldungsgruppe-eingruppierung-amt-und-funktion` | Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-004-stufenfestsetzung-erfahrung-anerkennung` | Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-005-ausland-einsatz-kaufkraft` | Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-006-erschwerniszulagen-dienst-zu-unguenstigen-zeiten` | Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-007-mehrarbeit-verguetung-freizeitausgleich-beamte` | Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-008-amtsangemessene-alimentation-fuenf-parameter` | Beamtenrecht: Amtsangemessene Alimentation fünf Parameter mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-009-mindestabstand-buergergeld-vergleich` | Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung im Beamtenrecht. |
+| `besold-neu-010-familienzuschlag-kinder-ehe-lebenspartnerschaft` | Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-011-professorenbesoldung-w-besoldung-leistungsbezuege` | Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-012-richterbesoldung-r-besoldung-und-unabhaengigkeit` | Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-013-versorgung-ruhegehalt-ruhegehaltfaehig-dienstzeit` | Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-014-dienstunfall-unfallausgleich-heilverfahren` | Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamtenrecht. |
+| `besold-neu-015-beihilfe-pkv-restkosten-und-kostendaempfung` | Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-016-besoldungswiderspruch-zeitnahe-geltendmachung` | Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Beamtenrecht. |
+| `besold-neu-017-musterverfahren-ruhen-verjaehrung-nachzahlung` | Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `besold-neu-018-konkurrentenschutz-eilrechtsschutz` | Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-018-konkurrentenschutz-eilrechtsschutz-ernennungssper` | Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre im Beamtenrecht. |
+| `besold-neu-019-beurteilung-plausi-anlassbeurteilung` | Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-020-befoerderungskaskade-organisationsmissbrauch` | Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team im Beamtenrecht. |
+| `besold-neu-020-befoerderungskaskade-organisationsmissbrauch-red` | Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-professorenbesoldung-w-besoldung-leistungsbezuege` | Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge im Beamtenrecht. |
 | `besold-richterbesoldung-r-besoldung-und-unabhaengigkeit` | Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit im Beamtenrecht. |
 | `besold-stufenfestsetzung-erfahrungszeiten-und-anerkennun` | Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung im Beamtenrecht. |
@@ -147,6 +164,7 @@ Automatisch generierte Komplett-Liste aller 157 Skills in diesem Plugin. Beschre
 | `bindungswirkung-strafurteil-23-bdg` | Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten für Fehler... |
 | `bverfg-resilienz-und-bundesverfassungsgerichtswahl-2024-2025` | Resilienz des Bundesverfassungsgerichts: Art. 93/94 GG, BVerfGG, Wahlblockaden, Selbstvorschlagsmechanismus, institutionelle Sicherung und Bedeutung für Richterrecht und Justizverfassung im Beamtenrecht. |
 | `dienstgericht-richter-dienstliche-beurteilung` | Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Prüfverfahren die Besetzung des Spruchkoerpers mit... |
+| `dienstgericht-richter-disziplinar-63-drig` | Skill zum Dienstgericht fuer Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zustaendigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers m... |
 | `dienstliche-beurteilung-angriff` | Dienstliche Beurteilung angreifen: Beurteilungsmaßstab, Beurteilerzuständigkeit, Beiträge, Plausibilität, Quoten und Nachzeichnung im Beamtenrecht. |
 | `dienstpflichten-treue-maessigung-neutralitaet` | Dienstpflichten: Treuepflicht, Mäßigung, Neutralität, Wahrheitspflicht, Amtsverschwiegenheit und Social Media im Beamtenrecht. |
 | `dienstunfaehigkeit-amtsaerztliches` | Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung un... |
@@ -154,6 +172,7 @@ Automatisch generierte Komplett-Liste aller 157 Skills in diesem Plugin. Beschre
 | `dienstunfall-anerkennung` | Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge im Beamtenrecht. |
 | `dienstunfall-anerkennung-45-beamtvg` | Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und... |
 | `dienstunfall-folgekosten-disziplinar` | Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung im Beamtenrecht. |
+| `dienstunfall-folgekosten-unfallfuersorge` | Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung. |
 | `dienstvergehen-ausser-agg-gleichstellung` | Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhältni... |
 | `disziplinar-bemessung-13-bdg-stufenfolge` | Maßnahmebemessung im Disziplinarrecht: § 13 BDG, Schwere des Dienstvergehens, Vertrauensverlust, Persönlichkeitsbild, Entlastung, Milderung, Zeitablauf und Stufenfolge im Beamtenrecht. |
 | `disziplinarmassnahmebemessung-13-bdg` | Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Prüf die Bemessungskriter... |
@@ -194,6 +213,7 @@ Automatisch generierte Komplett-Liste aller 157 Skills in diesem Plugin. Beschre
 | `landesrecht-16-laender-routenplan` | Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren im Beamtenrecht. |
 | `laufbahnrecht-bund` | Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation im Beamtenrecht. |
 | `laufbahnrecht-laender-lehrer-schule-live` | Länder-Laufbahnrecht-Matrix: fragt Bundesland, Laufbahngruppe, Fachrichtung, Vorbildung und Zielamt ab im Beamtenrecht. |
+| `laufbahnrecht-laender-matrix` | Länder-Laufbahnrecht-Matrix: fragt Bundesland, Laufbahngruppe, Fachrichtung, Vorbildung und Zielamt ab. |
 | `lehrer-schule-beamtenrecht` | Lehrerbeamtenrecht: Abordnung, Versetzung, Unterrichtspflicht, Dienstunfähigkeit, Elternkonflikte und Schulaufsicht im Beamtenrecht. |
 | `live-quellencheck-bund-land-richter` | Live-Quellencheck für Bundesrecht, Landesrecht und Richterrecht mit Sperre gegen nicht prüfbare Fundstellen im Beamtenrecht. |
 | `mandantenbrief-verstaendlich` | Verständlicher Mandantenbrief: erklärt Beamtenrecht ohne Amtsdeutsch und mit klarer Handlungsliste im Beamtenrecht. |
@@ -226,6 +246,7 @@ Automatisch generierte Komplett-Liste aller 157 Skills in diesem Plugin. Beschre
 | `richterwahl-art-33-ii-und-praesidialrat` | Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesrichterwahl, Begründungspflichten, Konkurrentenstreit und politische Wahlspielräume im Beamtenrecht. |
 | `ruhensregelung-53-beamtvg` | Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53 BeamtVG. Klaert Hinzuverdienstgrenze für Ruhestandsbeamte unterschiedliche Grenzen vor und nach Erreichen der Regelaltersgrenze Anrechnung von Verwendungsein... |
 | `schadensersatz-nichtbefoerderung` | Skill zur Prüfung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Kon... |
+| `schwerbehinderte-bewerber-165-sgb-9` | Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung... |
 | `schwerbehinderte-bewerber-schwerbehinderung` | Skill zur Prüfung der Pflichten öffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Prüfpflicht bei interner Besetzung Beruecksichtigung der Eignung So... |
 | `schwerbehinderung-bem-gleichstellung` | Schwerbehinderung, Gleichstellung, BEM, Nachteilsausgleich und Beteiligung der Schwerbehindertenvertretung im Beamtenrecht. |
 | `soldaten-und-beamte-abgrenzung` | Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung im Beamtenrecht. |

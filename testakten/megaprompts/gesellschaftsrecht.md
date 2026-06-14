@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 101 Skills (gekuerzt fuer Chat-Fenster) des Plugins `gesellschaftsrecht`.
+Dieser Megaprompt enthaelt top-8 von 106 Skills (gekuerzt fuer Chat-Fenster) des Plugins `gesellschaftsrecht`.
 
 ## Inhaltsverzeichnis
 

@@ -94,7 +94,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 73 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -136,6 +136,7 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `liqp-liquiditaetspool-cash-rollende-13wochen` | Liqp Liquiditaetspool Cash Rollende 13wochen: prüft konkret Spezialfall Liquiditaetspool und Cash-Pooling im Konzern, Bauleiter rollende 13-Wochen-Liquiditaetsplanung, Spezialfall Warenkredit und Skontostrategien in der Krise. |
 | `liqp-rollende-13wochen-bauleiter` | Bauleiter rollende 13-Wochen-Liquiditaetsplanung: Einnahmen / Ausgaben / Saldo / kumulierter Saldo, Granularitaet, Update-Zyklen. Prüfraster Mittelstand und Konzerntochter. |
 | `liqp-warenkredit-skonto-szenarien-spezial` | Spezialfall Warenkredit und Skontostrategien in der Krise: Lieferantenverhandlung, Vorkasse, verlaengerter Eigentumsvorbehalt, Factoring. Prüfraster für Treasury. |
+| `liqui-fuer-bankgespraech` | Liquiditaetsplanung fuer Bankgespraech: kompakte Vorlage 13 Wochen + Jahresansicht, Annahmen-Block, Sensitivitaet, Kreditlinien-Ausnutzung, Begleittext. Empfehlung: realistisch, nicht zu optimistisch, mit Fallback-Hebeln. |
 | `liquiditaetsstatus-quellenbelege` | Liquiditätsstatus nur aus belastbaren Quellenbelegen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `liquiditaetsstatus-quellenbelege-live-quote` | Liquiditaetsstatus Quellenbelege Live Quote: prüft konkret Liquiditätsstatus nur aus belastbaren Quellenbelegen, Live, Quote. |
 | `liquiditaetsvorschau-3-6-12-monate` | Rollierende Liquiditaetsvorschau für 3/6/12 Monate mit Fortfuehrungsprognose, Wochenraster, Excel-Export und Quellenhygiene. Rechtsprechung nur nach Live-Prüfung. |
@@ -158,6 +159,8 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `sondereffekt-grossauftrag` | Sondereffekt Grossauftrag in Liquiditaetsplanung: Vorfinanzierung Material, Abschlagsrechnungen, Sicherheitseinbehalt § 17 VOB-B, MaBV-Raten bei Bauauftraegen. Liquiditaetsspitze prüfen, Zwischenfinanzierung organisieren. |
 | `sondereffekt-grossauftrag-stundungs` | Liqui Sondereffekt Grossauftrag Stundungs: prüft konkret Sondereffekt Grossauftrag in Liquiditaetsplanung, Stundungs-Strategie mit Finanzamt, Krankenkassen, Lieferanten. |
 | `sonderfall-edge-case` | Liqui: Sonderfall und Edge-Case-Prüfung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahre... |
+| `spezial-luecken-livequellen-und-rechtsprechungscheck` | Luecken: Livequellen- und Rechtsprechungscheck. |
+| `spezial-rechtsprechung-red-team-und-qualitaetskontrolle` | Rechtsprechung: Red-Team und Qualitätskontrolle. |
 | `start-chronologie-fristen` | Start, Chronologie und Fristen der Liquiditätsvorschau: Aktenaufnahme, 13-Wochen-Sicht, InsO-/StaRUG-Schwellen, Zahlungskalender und Sofortmaßnahmen. |
 | `stundungs-strategie` | Stundungs-Strategie mit Finanzamt, Krankenkassen, Lieferanten: § 222 AO Stundung, Ratenzahlungsvereinbarung Krankenkasse, Lieferantenstundung. Prüfraster: wann beantragen, Mindestanforderungen Antrag, Reichweite (keine Gläubigerbenachtei... |
 | `szenarien-aufbauen` | Szenarien aufbauen: Base Case, Best Case, Worst Case (mit Stresshebel: Umsatzeinbruch, Forderungsausfaelle, Lieferantenforderungen). Empfehlung: drei Szenarien mit dokumentierten Annahmen, Sensitivitaeten in Excel. |
@@ -166,6 +169,8 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `vorschau-dokumentenmatrix-lueckenliste` | Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sank... |
 | `wochen-fristen-form-zustaendigkeit-rechtsweg` | Wochen: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion od... |
 | `wochen-liqui-ausgabengruppen-cash` | Wochen Liqui Ausgabengruppen Cash: prüft konkret Wochen, Ausgabengruppen systematisch erfassen, Cash-Pooling im Konzern. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

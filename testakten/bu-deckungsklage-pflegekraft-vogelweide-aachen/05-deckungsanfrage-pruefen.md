@@ -54,4 +54,3 @@ Ich erwarte Ihre schriftliche Deckungszusage bis zum **10.03.2026**. Andernfalls
 Mit freundlichen Grüßen
 Dr. Annegret Müller-Hauck
 Fachanwältin für Versicherungsrecht
-

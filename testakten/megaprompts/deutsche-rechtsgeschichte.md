@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 132 Skills (gekuerzt fuer Chat-Fenster) des Plugins `deutsche-rechtsgeschichte`.
+Dieser Megaprompt enthaelt top-8 von 205 Skills (gekuerzt fuer Chat-Fenster) des Plugins `deutsche-rechtsgeschichte`.
 
 ## Inhaltsverzeichnis
 

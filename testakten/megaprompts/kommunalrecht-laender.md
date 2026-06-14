@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 160 Skills (gekuerzt fuer Chat-Fenster) des Plugins `kommunalrecht-laender`.
+Dieser Megaprompt enthaelt top-8 von 176 Skills (gekuerzt fuer Chat-Fenster) des Plugins `kommunalrecht-laender`.
 
 ## Inhaltsverzeichnis
 

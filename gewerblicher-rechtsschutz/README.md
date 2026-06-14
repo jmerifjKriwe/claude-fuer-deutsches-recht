@@ -198,7 +198,7 @@ Dieser Pfad überlebt Plugin-Updates. Die mitgelieferte `CLAUDE.md` ist eine Vor
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -215,9 +215,14 @@ Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschrei
 | `euipo-dokumentenmatrix-und-lueckenliste` | EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden... |
 | `evvollzug-auslandszustellung-ev-abmahnung` | EV-Vollzug: Auslandszustellung einstweiliger Verfügungen im IP-Recht nach EuZustVO, HZÜ und HCCH 2019. Übersetzungspflicht, Zustellwege EU/Nicht-EU, Vollziehungsfrist und praktische Fallstricke bei grenzüberschreitenden IP-Verfügungen im... |
 | `evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist` | EV-Vollzug: Vollziehungsfrist § 929 Abs. 2 ZPO und Parteizustellung im gewerblichen Rechtsschutz. Beschluss- und Urteilsverfügung, Zustellwege, Vollziehungsversäumnis und Rechtsfolgen. Praxisfür Anwalt, Mandant und Vollstreckungsorgan im... |
+| `evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung` | Gewerblicher Rechtsschutz: Urteilsverfügung Beschlussverfügung und Zustellweg mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust` | EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung, Zustellwege und Vollziehungsmodalitäten im gewerblichen Rechtsschutz. Amts- vs. Parteizustellung, Fristfolgen, Strategiewahl für Marken-, Patent- und UWG-Fälle im Gewerblic... |
+| `evvollzug-neu-003-zustellung-durch-gv-ip-verfahren` | Gewerblicher Rechtsschutz: Zustellung durch Gerichtsvollzieher im IP-Verfahren mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz` | Gewerblicher Rechtsschutz: beA Zustellung einstweiliger Rechtsschutz Risiken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi` | EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden im Gewerblicher Rechtsschutz. |
+| `evvollzug-neu-005-ordnungsmittel-vollstreckung` | Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun` | EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gegen Unterlassungstitel aus einstweiliger Verfügung. Tatbestandsvoraussetzungen, Antragsinhalt, Höhe Ordnungsgeld, Verschuldensmaßstab und typische Verteidigungsstrategien des... |
+| `evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung` | Gewerblicher Rechtsschutz: Auslandszustellung eV und Übersetzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `evvollzug-neu-007-abmahnung-abschlussschreiben-und-hauptsache` | EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übergang in die Hauptsache und Verhältnis zur vorangegangenen Abmahnung. Wann Hauptsacheklage nötig, wann Abschlussvereinbarung ausreicht, Fristen und Kostenfallen im Gewerblic... |
 | `evvollzug-neu-008-schutzschrift-register-und-forumstrategie` | EV-Vollzug (Gegenseite): Schutzschrift im Schutzschriftenregister, Forumsstrategie des Antragsgegners und vorauseilende Rechtsverteidigung gegen einstweilige Verfügungen im gewerblichen Rechtsschutz im Gewerblicher Rechtsschutz. |
 | `evvollzug-zustellung-durch-bea-einstweiliger` | EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen... |
@@ -227,12 +232,16 @@ Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschrei
 | `gewerblicher-erstpruefung-und-mandatsziel` | Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenklärung, Schutzrechtslandschaft, Falltypisierung und Zieldefinition für anwaltliche Mandate in IP- und Wettbewerbssach... |
 | `gewerblicher-rs-mandantenkommunikation-redteam-qualitygate` | Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und... |
 | `gewr-einstweilige-dpma-spezial-fristen` | Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisfür Antragsteller und Antragsgegner im Gewerbl... |
+| `gewr-einstweilige-verfuegung-eilverfahren-spezial` | Spezialfall einstweilige Verfuegung im UWG / Markenrecht: Dringlichkeitsvermutung § 12 Abs. 2 UWG, Selbstwiderlegung, Schutzschrift. Pruefraster fuer Verfuegungs- und Antragsgegnerseite. |
 | `gewr-geschaeftsgeheimnisgesetz` | Geschäftsgeheimnisschutz nach GeschGehG: Schutzvoraussetzungen, angemessene Geheimhaltungsmaßnahmen, Verletzungshandlungen, Unterlassung, Schadensersatz und einstweiliger Rechtsschutz. Abgrenzung zu UWG und Strafrecht im Gewerblicher Rec... |
+| `gewr-geschaeftsgeheimnisgesetz-spezial` | Spezialfall Geschaeftsgeheimnisgesetz GeschGehG: angemessene Geheimhaltungsmassnahmen, erlaubter Reverse Engineering, Whistleblower-Ausnahme. Pruefraster Schutzmassnahmen und Klage. |
 | `gewr-markenanmeldung-bauleiter` | Markenanmeldung als strukturierter Bauleiter: Recherche, Klassenwahl, Anmeldeweg (DPMA/EUIPO/Madrid), Formvoraussetzungen, Fristen und Nachverfolgung. Praxisfür Anwälte und Unternehmen, die eine Marke anmelden oder betreuen wollen im Gew... |
 | `gewr-uwg-abmahnung-checkliste` | UWG-Abmahnung: vollständige Prüfcheckliste für Versand und Empfang. Voraussetzungen §§ 3 und 8 UWG, Mitbewerbereigenschaft, Spürbarkeit, Wiederholungsgefahr, Unterlassungserklärung, Streitwert, Abmahnmissbrauch § 8c UWG und typische Vert... |
 | `gw-einfuehrung-gw-einstweilige-mandat-triage` | Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick über Verfahrensarten, Zuständigkeiten, Handlungsoptionen und Weichen bei Marken-, Patent-, Design-, Urheber- und Lauterkeitsverletzungen. Erstes Orientierungsg... |
+| `gw-einfuehrung-rechtsschutzwege` | Gewerblicher Rechtsschutz einfuehrend: Markenrecht, UWG, Designrecht, Patentrecht, Geschaeftsgeheimnisschutz. Rechtsschutzwege einstweilige Verfuegung, Klage, Verbandsklage, Schiedsklage. Entscheidungstabelle. |
 | `gw-einstweilige-verfuegung-spezial` | Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrachtung von Antrag bis Hauptsache. Gerichtsauswahl, Tenorformulierung, Sicherheitsleistung, Vollzug, Widerspruch und Übergang in die Hauptsache als integrierter... |
 | `ip-klausel-pruefung` | Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Prüfraster: Übertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistun... |
+| `ip-mandatsworkspace-kontexttrennung` | Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext f... |
 | `kaltstart-interview` | Kanzlei oder Unternehmen richtet das gewerbliche-Rechtsschutz-Plugin zum ersten Mal ein und muss Profil und Strategie hinterlegen. Ersteinrichtung Gewerblicher Rechtsschutz. Prüfraster: Kanzleiprofil Schutzrechtsportfolio Durchsetzungsst... |
 | `klausel-beweislast-und-darlegungslast` | Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer muss was beweisen bei Marken-, Patent-, Design-, Urheber- und UWG-Verletzungen? Beweislastumkehr, sekundäre Darlegungslast, Beweiserleichterungen und praktische Konsequenzen... |
 | `mandat-arbeitsbereich` | Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext f... |
@@ -253,6 +262,26 @@ Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschrei
 | `schutzrechts-portfolio-schutzschrift` | Unternehmen oder Kanzlei muss IP-Portfolio verwalten und anstehende Fristen im Blick behalten. Schutzrechtsportfolio-Verwaltung. Prüfraster: Eintragungen Verlaengerungen Jahresgebühren Benutzungsnachweise Fristkalender. Output: Fristenka... |
 | `schutzschrift-eilverfuegung` | Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befürchtet einstweilige Verfuegung ohne Anhörung. § 945a ZPO Schutzschrift ZSER. Prüfraster: Hinterlegung zentrales elektronisches Schutzschriftenregister § 945a ZPO Sachverhal... |
 | `source-red-team-und-qualitaetskontrolle` | Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Systematische Überprüfung von Schriftsätzen, Memos und Rechtsanalysen auf Fehler, Quellenschwächen, Gegenargumente und blinde Flecken. Checkliste für interne Qualitätssicherun... |
+| `spezial-abmahnung-compliance-dokumentation-und-akte` | Abmahnung: Compliance-Dokumentation und Aktenvermerk. |
+| `spezial-anmeldung-behoerden-gericht-und-registerweg` | Anmeldung: Behörden-, Gerichts- oder Registerweg. |
+| `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` | Compliance: Mandantenkommunikation und Entscheidungsvorlage. |
+| `spezial-dpma-fristen-form-und-zustaendigkeit` | Dpma: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `spezial-euipo-dokumentenmatrix-und-lueckenliste` | Euipo: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `spezial-freedom-schriftsatz-brief-und-memo-bausteine` | Freedom: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `spezial-fristen-abschlussprodukt-und-uebergabe` | Fristen: Abschlussprodukt und Übergabe. |
+| `spezial-gewerblicher-erstpruefung-und-mandatsziel` | Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `spezial-klausel-beweislast-und-darlegungslast` | Klausel: Beweislast, Darlegungslast und Substantiierung. |
+| `spezial-markenrecherche-risikoampel-und-gegenargumente` | Markenrecherche: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `spezial-open-formular-portal-und-einreichung` | Open: Formular, Portal und Einreichungslogik. |
+| `spezial-operate-verhandlung-vergleich-und-eskalation` | Operate: Verhandlung, Vergleich und Eskalation. |
+| `spezial-patentscreening-livequellen-und-rechtsprechungscheck` | Patentscreening: Livequellen- und Rechtsprechungscheck. |
+| `spezial-reaktion-internationaler-bezug-und-schnittstellen` | Reaktion: Internationaler Bezug und Schnittstellen. |
+| `spezial-rechtsschutz-tatbestand-beweis-und-belege` | Rechtsschutz: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `spezial-review-sonderfall-und-edge-case` | Review: Sonderfall und Edge-Case-Prüfung. |
+| `spezial-schutzrechts-fristennotiz-und-naechster-schritt` | Schutzrechts: Fristennotiz und nächster Schritt. |
+| `spezial-source-red-team-und-qualitaetskontrolle` | Source: Red-Team und Qualitätskontrolle. |
+| `spezial-urheberrechts-zahlen-schwellen-und-berechnung` | Urheberrechts: Zahlen, Schwellenwerte und Berechnung. |
+| `spezial-versand-mehrparteien-konflikt-und-interessen` | Versand: Mehrparteienkonflikt und Interessenmatrix. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Gewerblicher Rechtsschutz-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. B... |
 | `streitwert-igr-berechnen` | Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Prüfraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf... |
 | `takedown-anweisung-unterlassungsverlangen` | Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegen... |
@@ -263,7 +292,9 @@ Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschrei
 | `versand-mehrparteien-konflikt-und-interessen` | Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen im Gew... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix für IP-Mandate: Sachverhalt zeitlich ordnen, Belege zu Ereignissen zuordnen, Lücken identifizieren und Beweisgrundlage für Abmahnung, EV und Klage aufbauen. Werkzeug für systematische Fallaufbereitung im Gewer... |
 | `workflow-fristen-und-risikoampel` | Fristenund Risikoampel für das Plugin gewerblicher-rechtsschutz: strukturierte Fristenerfassung, Risikobewertung Grün/Gelb/Rot und sofortige Handlungsempfehlung. Für alle IP-Verfahren vom Erstgespräch bis zur Vollstreckung im Gewerbliche... |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: systematischer letzter Check vor Abgabe von Schriftsätzen, Memos, Abmahnungen und Entscheidungsvorlagen. Sechs Qualitätsstufen, Freigabe-Entscheidung und Dokumentation im Ge... |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

@@ -50,7 +50,7 @@ Der Arbeitsmodus ist jeweils gleich: erst Akte und Beweis sichern, dann Normen u
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 122 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -71,6 +71,50 @@ Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschrei
 | `eu-vertikal-gvo-und-franchise` | EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfreistellung, Marktanteilsschwellen, Kernbeschränkungen, Online-Vertriebsregeln und Übergangszeitraum. Compliance-Check für Bezugsbindungen, Gebietsschutz und Preisregeln im F... |
 | `exit-entbranding-und-social-media-accounts` | Fachmodul Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, R... |
 | `fitness-franchise-bildungsfranchise` | Fitness-Franchise und Verbraucherverträge rechtlich gestalten: Laufzeitklauseln in Mitgliedschaftsverträgen nach § 309 Nr. 9 BGB, Widerrufsrecht, Preisanpassungsklauseln, Schliessungspflichten bei Insolvenz und Haftung für Sportverletzun... |
+| `fran-001-kaltstart-franchisegeber-franchisenehmer-systemakte` | Franchiserecht: Kaltstart Franchisegeber Franchisenehmer Systemakte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-003-franchisevertrag-agb-redline` | Franchiserecht: Franchisevertrag AGB-Redline mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-004-systemhandbuch-rechtsnatur-und-aenderungsrechte` | Franchiserecht: Systemhandbuch Rechtsnatur und Änderungsrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-005-eintrittsgebuehr-laufende-gebuehren-marketing-fee` | Franchiserecht: Eintrittsgebühr laufende Gebühren Marketing Fee mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-006-gebietsschutz-standortanalyse-und-kannibalisierung` | Franchiserecht: Gebietsschutz Standortanalyse und Kannibalisierung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-007-bezugsbindung-lieferanten-und-kartellrecht` | Franchiserecht: Bezugsbindung Lieferanten und Kartellrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-008-preisempfehlung-preisbindung-und-wettbewerbsrecht` | Franchiserecht: Preisempfehlung Preisbindung und Wettbewerbsrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-009-markennutzung-ci-und-qualitaetskontrolle` | Franchiserecht: Markennutzung CI und Qualitätskontrolle mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-010-onlinevertrieb-plattformen-und-social-media` | Franchiserecht: Onlinevertrieb Plattformen und Social Media mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-011-datenschutz-crm-kundendaten-gemeinsam` | Franchiserecht: Datenschutz CRM Kundendaten und gemeinsame Verantwortlichkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-012-arbeitsrecht-scheinselbststaendigkeit-franchise` | Franchiserecht: Arbeitsrecht Scheinselbstständigkeit Franchise mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-013-handelsvertreterausgleich-analog-pruefen` | Franchiserecht: Handelsvertreterausgleich analog prüfen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-015-ordentliche-kuendigung-laufzeit-verlaengerung` | Franchiserecht: Ordentliche Kündigung Laufzeit Verlängerung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-017-abwicklung-rueckbau-schilder-warenbestand` | Franchiserecht: Abwicklung Rückbau Schilder Warenbestand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-018-insolvenz-franchisenehmer-fortfuehrung-und-marke` | Franchiserecht: Insolvenz Franchisenehmer Fortführung und Marke mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-019-insolvenz-franchisegeber-systemhandbuch-und-lizenzen` | Franchiserecht: Insolvenz Franchisegeber Systemhandbuch und Lizenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-020-master-franchise-internationalisierung` | Franchiserecht: Master Franchise Internationalisierung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-021-multi-unit-franchise-und-area-developer` | Franchiserecht: Multi-Unit Franchise und Area Developer mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-023-disclosure-document-fuer-internationale-investoren` | Franchiserecht: Disclosure Document für internationale Investoren mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-024-usa-franchise-disclosure-vergleich` | Franchiserecht: USA Franchise Disclosure Vergleich mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-025-eu-vertikal-gvo-und-franchise` | Franchiserecht: EU Vertikal-GVO und Franchise mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-027-qualitaetsaudit-filiale-und-sanktionen` | Franchiserecht: Qualitätsaudit Filiale und Sanktionen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-028-mystery-shopping-beweis-und-datenschutz` | Franchiserecht: Mystery Shopping Beweis und Datenschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-030-bau-und-ladenbau-pflichten` | Franchiserecht: Bau und Ladenbau Pflichten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-031-it-system-pos-kassendaten-und-zugriff` | Franchiserecht: IT-System POS Kassendaten und Zugriff mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-032-lieferketten-compliance-lksg-und-esg` | Franchiserecht: Lieferketten Compliance LkSG und ESG mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-033-lebensmittel-franchise-hygiene-und-haccp` | Franchiserecht: Lebensmittel Franchise Hygiene und HACCP mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-034-fitness-franchise-verbrauchervertraege` | Franchiserecht: Fitness Franchise Verbraucherverträge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-035-bildungsfranchise-schulrecht-und-werbung` | Franchiserecht: Bildungsfranchise Schulrecht und Werbung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-036-pflege-oder-medizin-franchise-regulatorische-grenzen` | Franchiserecht: Pflege oder Medizin Franchise regulatorische Grenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-037-hotel-franchise-management-agreement-abgrenzung` | Franchiserecht: Hotel Franchise Management Agreement Abgrenzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-038-tankstellen-franchise-handelsvertreternaehe` | Franchiserecht: Tankstellen Franchise Handelsvertreternähe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-039-kfz-franchise-und-selektivvertrieb` | Franchiserecht: Kfz Franchise und Selektivvertrieb mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-040-e-commerce-franchise-retouren-und-widerruf` | Franchiserecht: E-Commerce Franchise Retouren und Widerruf mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-041-influencer-werbung-im-franchisesystem` | Franchiserecht: Influencer Werbung im Franchisesystem mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-042-bewertungen-google-plattform-und-rufschutz` | Franchiserecht: Bewertungen Google Plattform und Rufschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-043-streitbeilegung-mediation-beirat-und-schiedsgericht` | Franchiserecht: Streitbeilegung Mediation Beirat und Schiedsgericht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-044-einstweilige-verfuegung-markennutzung-stoppen` | Franchiserecht: Einstweilige Verfügung Markennutzung stoppen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-046-umsatzmeldung-audit-und-nachzahlung` | Franchiserecht: Umsatzmeldung Audit und Nachzahlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-047-systemwechsel-rebranding` | Franchiserecht: Systemwechsel Rebranding mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-048-franchise-m-a-due-diligence` | Franchiserecht: Franchise M&A Due Diligence mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-049-franchisegeber-handbuch-compliance-dashboard` | Franchiserecht: Franchisegeber Handbuch Compliance Dashboard mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-050-franchisenehmer-exit-plan` | Franchiserecht: Franchisenehmer Exit-Plan mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fran-051-qualitaetsgate-franchiseakte` | Franchiserecht: Qualitätsgate Franchiseakte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `franchise-internationaler-kontext` | Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Prüfraster für Cross-Border-Franchise i... |
 | `franchise-kuendigung-und-nachvertragliche-wettbewerb` | Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Skill behandelt ordentliche und ausserordentliche Kuendigung Vertragsstrafe nachvertragliches Wettbewerbsverbot Karenzentschaedigung und Geheimhaltungspflicht. BGH-Linie zur... |
 | `franchise-m-a-due-diligence` | M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von System... |

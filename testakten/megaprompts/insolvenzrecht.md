@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 89 Skills des Plugins `insolvenzrecht`.
+Dieser Megaprompt enthaelt top-10 von 97 Skills des Plugins `insolvenzrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Insolvenzrecht (Allgemein): ordnet Rolle (Schuldner GmbH/Person, Gläubiger, Verwalter),…
 2. **mandat-triage-insolvenzrecht** — Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant ist Geschäftsführer mit Antragspflicht Gläubiger der Forderun…
-3. **anfechtungsrechte-antragspflicht-15a** — Insolvenzverwalter klagt auf Rückgewaehr einer Zahlung vor Insolvenz oder Gläubiger muss Insolvenzanfechtung abwehren. P…
-4. **anschluss** — Einstieg, Schnelltriage und Fallrouting im Insolvenzrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wu…
-5. **antragspflicht-15a-inso** — Analysiert die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO, die Haftung wegen Insolvenzverschleppung (§…
-6. **do-versicherung-manager-haftung** — Insolvenzverwalter verklagt Geschäftsführer und D&O-Versicherung soll Deckung prüfen oder Manager fragt nach Versicherun…
-7. **glaeubigerantrag-glaeubigerausschuss** — Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des Insolvenzverfahrens nach § 14 InsO — sowoh…
-8. **glaeubigerausschuss-mitwirkung** — Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichte…
-9. **insolvenzgeld-165-sgb-iii** — Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzge…
-10. **kaltstart-interview** — Kaltstart-Interview für das Insolvenzrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-d…
+3. **insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab** — Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schr…
+4. **insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan** — Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und StaRUG-Plan. Qualifizierter Rangruecktritt verhindert Pa…
+5. **insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege** — Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO fuer versaeumte oder verspaetete Antraege rund um…
+6. **anfechtungsrechte-antragspflicht-15a** — Insolvenzverwalter klagt auf Rückgewaehr einer Zahlung vor Insolvenz oder Gläubiger muss Insolvenzanfechtung abwehren. P…
+7. **anschluss** — Einstieg, Schnelltriage und Fallrouting im Insolvenzrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wu…
+8. **antragspflicht-15a-inso** — Analysiert die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO, die Haftung wegen Insolvenzverschleppung (§…
+9. **do-versicherung-manager-haftung** — Insolvenzverwalter verklagt Geschäftsführer und D&O-Versicherung soll Deckung prüfen oder Manager fragt nach Versicherun…
+10. **glaeubigerantrag-glaeubigerausschuss** — Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des Insolvenzverfahrens nach § 14 InsO — sowoh…
 
 ---
 
@@ -252,6 +252,530 @@ Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant ist Geschäftsfüh
 - **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer; bei Hinweisen auf Strohmann-/Firmenbestattungs-Konstellation Mandantenrolle besonders sorgfältig prüfen.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
 - **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung; bei Geschäftsführerhaftung Deckung gesondert prüfen.
+
+---
+
+## Skill: `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab`
+
+_Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-fuer-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag aufzehrt, ist die Steuerfreiheit faktisch sichergestellt — Erlassantrag bleibt formell sinnvoll, materiell aber entbehrlich. Mit Berechnungsschemata und Excel-tauglicher Tabelle._
+
+# Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab pruefen
+
+## Worum geht es
+
+Paragraph 3a Absatz 3 EStG ordnet eine zwingende Verrechnungsreihenfolge zwischen dem Sanierungsertrag und den Minderungspositionen an. Wer die Reihenfolge nicht vorab durchgerechnet hat, weiss nicht, wie hoch der **steuerbare Restbetrag** ist, der dann ggf. eine Steuer ausloest — und ob das Steuerrisiko ueberhaupt im sechs-, sieben- oder achtstelligen Bereich liegt.
+
+Dieser Skill macht eine **Schritt-fuer-Schritt-Modellrechnung**, die der Steuerberater des Schuldners gemeinsam mit dem Insolvenzverwalter aufsetzt. Ziel: vor Plan-Einreichung steht eine belastbare Zahl im Raum.
+
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+
+- Plan ist in Vorbereitung, Forderungsverzicht der Glaeubiger ist der Groesse nach umrissen.
+- Insolvenzverwalter oder Sachwalter braucht eine Zahl, die er der Glaeubigerversammlung vorlegen kann.
+- StB will die Wirkung der Verlustvortraege quantifizieren, bevor der Plan-Entwurf finalisiert ist.
+
+Kaltstart-Fragen:
+
+1. Rechtsform des Schuldners (KSt-pflichtig, EStG-pflichtig, transparente PersGes)?
+2. Verlustvortraege Stand letzte Veranlagung (KSt-, GewSt-, ggf. ESt-Vortrag)?
+3. Voraussichtlicher Sanierungsertrag (Bruttoforderungsverzicht im Plan)?
+4. Laufende Verluste des Sanierungsjahres (geschaetzt, bis Plan-Vorlage)?
+5. Stille Reserven oder stille Lasten in der Buchhaltung?
+6. Mindestbesteuerung Paragraph 10d Absatz 2 EStG: spielt sie hier eine Rolle (Sanierungsertrag verdraengt nach Paragraph 3a Absatz 3 Satz 1 EStG die Mindestbesteuerung)?
+
+## Rechtlicher Rahmen
+
+- Paragraph 3a Absatz 1 EStG — Steuerbefreiung Sanierungsertrag.
+- Paragraph 3a Absatz 3 EStG — zwingende Verrechnungsreihenfolge. Der Sanierungsertrag mindert in einer **gesetzlich festgelegten** Abfolge bestehende Verlustpositionen. Erst danach verbleibt der steuerbare Restbetrag.
+- Paragraph 10d EStG — Verlustabzug; durch Paragraph 3a Absatz 3 EStG modifiziert.
+- Paragraph 8 KStG — Anwendung des EStG-Verlustabzugs auf Koerperschaften.
+- Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG — gewerbesteuerliche Parallel-Regelung mit eigenstaendiger Verrechnungsmechanik.
+
+## Workflow / Schritt fuer Schritt
+
+Die Verrechnungslogik laeuft in drei Stufen. Die folgende Tabelle zeigt das Grundmuster fuer Koerperschaften (GmbH, AG); fuer transparente Personengesellschaften ist die Logik auf Gesellschafterebene zu spiegeln.
+
+| Stufe | Position | Behandlung nach Paragraph 3a Absatz 3 EStG |
+|---|---|---|
+| 1 | Sanierungsertrag (Bruttoforderungsverzicht) | Ausgangsbetrag |
+| 2 | abzgl. nicht-betriebsbezogene Aufwendungen iZm dem Forderungsverzicht (Sanierungskosten) | Abzug |
+| 2a | abzgl. laufende negative Einkuenfte / Verluste des Sanierungsjahres | Abzug (in einer gesetzlich angeordneten Reihenfolge) |
+| 2b | abzgl. vortragsfaehige Verluste aus Vorjahren (Paragraph 10d Absatz 2 EStG) | Abzug |
+| 2c | abzgl. ggf. nicht ausgeglichene negative Einkuenfte des Vorjahres | Abzug |
+| 2d | weitere gesetzliche Minderungen | Abzug |
+| 3 | = steuerbarer Restsanierungsertrag | ggf. nach Paragraph 3a Absatz 1 EStG steuerfrei, soweit Voraussetzungen erfuellt |
+
+**Ergebnis-Szenarien:**
+
+- **Szenario A (Verlustvortraege schlucken alles):** Restsanierungsertrag = 0 EUR. Materiell entfaellt jede Steuerlast aus dem Verzicht; der formelle Antrag bleibt sinnvoll zur Rechtssicherheit, ist materiell aber entbehrlich.
+- **Szenario B (Teilabsorption):** Restsanierungsertrag groesser 0. Die vier Voraussetzungen Paragraph 3a Absatz 2 EStG muessen den verbleibenden Betrag steuerfrei stellen; sonst Erlass nach Paragraph 227 AO oder Stundung Paragraph 222 AO pruefen.
+- **Szenario C (kein Verlustvortrag):** Voller Sanierungsertrag muss ueber Paragraph 3a EStG getragen werden. Hier ist die Vier-Voraussetzungs-Pruefung **vital**.
+
+## Trade-off-Matrix
+
+| Stellschraube | Wirkung |
+|---|---|
+| Verlustvortrag hoch | Restsanierungsertrag niedrig — geringes Steuerrisiko, aber Verlustvortrag ist nach Plan **verbraucht** (Paragraph 3a Absatz 3 EStG ordnet den Untergang an) |
+| Verlustvortrag niedrig | Restsanierungsertrag hoch — Paragraph 3a Absatz 1 EStG muss greifen, sonst Steuerausfall der Sanierung |
+| Buchwertfortfuehrung | stille Reserven verbleiben — kein zusaetzlicher Sanierungsertrag aus Bewertung |
+| Aufdeckung stiller Reserven (z. B. bei uebertragender Sanierung) | zusaetzlicher Veraeusserungsgewinn, der **kein** Sanierungsertrag ist und nicht von Paragraph 3a EStG erfasst wird |
+| Forderungsverzicht von Gesellschaftern | Sondersicht: Gesellschaftereinlage statt Sanierungsertrag, soweit der Verzicht gesellschaftsrechtlich veranlasst ist |
+
+## Praxistipps der alten Hasen
+
+1. **Erst die Bescheide, dann die Modellrechnung.** Verlustvortraege sind oft mit Vorbehalt der Nachpruefung festgestellt. Wer mit Wunschzahlen rechnet, wird in der Plan-Pruefung zerlegt.
+2. **Die zwei Welten KSt und GewSt getrennt fuehren.** Paragraph 7b GewStG kennt eigene Verrechnungsmechaniken; die KSt-Tabelle eins zu eins zu uebernehmen ist falsch.
+3. **Mindestbesteuerung Paragraph 10d Absatz 2 EStG entfaellt** beim Sanierungsertrag in der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG — das ist eine der wichtigsten Erleichterungen. Trotzdem dokumentieren.
+4. **Gesellschafter-Verzicht** ist nicht zwingend Sanierungsertrag. Wenn der Gesellschafter aus gesellschaftsrechtlicher Veranlassung verzichtet, ist der Verzicht eine Einlage (verdeckte Kapitalzufuehrung), kein Sanierungsertrag — die Modellrechnung muss diese Trennung leisten.
+5. **Stille Reserven sind kein Sanierungsertrag.** Bei Aufdeckung im Plan entstehen Veraeusserungsgewinne, die regulaer steuerpflichtig sind. Trennung schon im Modell auseinanderhalten.
+6. **Zinsschranke Paragraph 4h EStG / Paragraph 8a KStG** kann durch den Verzicht wieder Aktualitaet bekommen, weil Zinsvortraege ggf. zu Lasten des Sanierungsertrags genutzt werden — pruefen.
+
+## Mustertexte / Berechnungsbeispiele
+
+**Beispiel 1 — Szenario A:** GmbH, KSt-Verlustvortrag 8.000.000 EUR. Sanierungsertrag aus Plan 5.000.000 EUR. Stufe 1: 5.000.000. Stufe 2a Sanierungskosten 200.000. Stufe 2b KSt-Verlustvortrag verbraucht in Hoehe von 4.800.000. Restsanierungsertrag: 0. Verbleibender KSt-Verlustvortrag nach Sanierung: 3.200.000. **Materiell keine Steuer** aus dem Verzicht.
+
+**Beispiel 2 — Szenario B:** GmbH, KSt-Verlustvortrag 1.500.000 EUR. Sanierungsertrag 5.000.000. Stufe 2a Sanierungskosten 200.000. Stufe 2b Verlustvortrag verbraucht: 1.500.000. Restsanierungsertrag: 3.300.000. Dieser Restbetrag ist nach Paragraph 3a Absatz 1 EStG steuerfrei, wenn die vier Voraussetzungen Paragraph 3a Absatz 2 EStG erfuellt sind. Andernfalls: Steuer rund 0,8 bis 1,0 Mio. EUR (KSt plus GewSt) — fuer den Plan in der Regel toedlich.
+
+**Beispiel 3 — Szenario C:** GmbH, kein Verlustvortrag (junges Unternehmen mit hohem Forderungsverzicht). Sanierungsertrag 2.000.000. Stufe 2a Sanierungskosten 100.000. Restsanierungsertrag: 1.900.000. Nur Paragraph 3a Absatz 1 EStG schuetzt — die vier Voraussetzungen muessen wasserdicht dokumentiert sein.
+
+**Excel-Spalten-Layout (kanzleitauglich):**
+
+```
+A: Position
+B: Betrag KSt-Sphaere
+C: Betrag GewSt-Sphaere
+D: Belegquelle
+E: Bemerkung
+
+Zeile 1: Sanierungsertrag (Bruttoforderungsverzicht)
+Zeile 2: ./. Sanierungskosten Stufe 2
+Zeile 3: ./. laufende Verluste Sanierungsjahr Stufe 2a
+Zeile 4: ./. Verlustvortrag (Bescheid vom ...)
+Zeile 5: ./. weitere Minderungspositionen
+Zeile 6: = Restsanierungsertrag
+```
+
+## Typische Fehler
+
+1. Verlustvortraege als verlaesslich behandeln, obwohl die Bescheide unter Vorbehalt der Nachpruefung stehen oder strittig sind.
+2. KSt- und GewSt-Vortrag verwechseln.
+3. Stillen Reservenuntergang als Sanierungsertrag verbuchen — er ist Veraeusserungs- bzw. Bewertungsgewinn.
+4. Gesellschafter-Verzicht ohne Werthaltigkeitspruefung als Sanierungsertrag fuehren.
+5. Zinsschranke und Zinsvortrag uebersehen.
+6. Annahme, Paragraph 3a EStG schliesse Paragraph 10d EStG aus — er **modifiziert** die Reihenfolge, schaltet sie aber nicht ab.
+
+## Querverweise
+
+Im Plugin `insolvenzrecht`:
+
+- `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
+- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Vorrats- und Antragsmechanik.
+- `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack` — GewSt-Parallelitaet.
+- `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` — Haftung Verwalter bei Versaeumnis.
+
+In anderen Plugins:
+
+- `steuerrecht-anwalt-und-berater` — allgemeine Verlustabzugs-Mechanik.
+- `liquiditaetsplanung` — Schwester-Skill fuer Cash-Sicht.
+
+## Quellen Stand 06/2026
+
+- Paragraph 3a EStG, `gesetze-im-internet.de/estg/__3a.html`.
+- Paragraph 10d EStG, `gesetze-im-internet.de/estg/__10d.html`.
+- Paragraph 8 KStG, `gesetze-im-internet.de/kstg_1977/__8.html`.
+- Paragraph 7b GewStG, `gesetze-im-internet.de/gewstg/__7b.html`.
+- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung und Grenzen des steuerfreien Sanierungsgewinns. Verifikation ueber `dejure.org` und NWB-Datenbank.
+- FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation mit nachrangigem Gesellschafterdarlehen; mit dem Erloeschen der GmbH erloeschen Verbindlichkeiten **und** Verlustvortraege, der rechentheoretisch entstehende Gewinn ist mangels Koerperschaftsteuersubjekt nicht festsetzbar. Wichtige Abgrenzung zum hier geregelten Sanierungspfad.
+- Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+
+---
+
+## Skill: `insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan`
+
+_Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und StaRUG-Plan. Qualifizierter Rangruecktritt verhindert Passivierung. Abgrenzung zum Forderungsverzicht: bei Rangruecktritt bleibt die Verbindlichkeit zivilrechtlich, faellt aber bilanziell weg, wenn Tilgung nur aus kuenftigen Gewinnen/Liquidationserloesen erfolgt. Beziehung zu Sanierungsertrag. Mustertexte Rangruecktrittsvereinbarung._
+
+# Sanierungsgewinn — Rangruecktritt und Paragraph 5 Absatz 2a EStG im Plan
+
+## Worum geht es
+
+Der **qualifizierte Rangruecktritt** ist eine Alternative oder Ergaenzung zum Forderungsverzicht. Bei richtiger Gestaltung bleibt die Verbindlichkeit zivilrechtlich bestehen, faellt aber **bilanziell** als Verbindlichkeit weg, weil sie nur aus kuenftigen Gewinnen, freien Liquiditaetsueberschuessen oder einem Liquidationsueberschuss zu tilgen ist (Paragraph 5 Absatz 2a EStG). Steuerlich kann das einen Effekt aehnlich dem Forderungsverzicht haben — aber **ohne** sofortigen Sanierungsertrag, wenn die Vereinbarung sauber formuliert ist.
+
+Dieser Skill zeigt die Mechanik und grenzt sie zum Forderungsverzicht ab. Adressat: Plan-Anwalt, IV/Sachwalter, StB.
+
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+
+- Plan sieht statt Verzicht eine Rangruecktrittsvereinbarung vor.
+- Glaeubiger will nicht endgueltig verzichten, aber bilanziell Erleichterung verschaffen.
+- Steuerlich soll vermieden werden, dass ein Sanierungsertrag entsteht, falls Paragraph 3a EStG-Voraussetzungen unsicher sind.
+
+Kaltstart-Fragen:
+
+1. Wer trifft die Rangruecktrittsvereinbarung (Drittglaeubiger, Gesellschafter, Bank)?
+2. Hoehe der betroffenen Forderung?
+3. Soll die Vereinbarung qualifiziert oder nur einfach sein?
+4. Existiert bereits eine Insolvenzantragspflicht (Paragraph 15a InsO) — Rangruecktritt zur Vermeidung der Ueberschuldung?
+5. Wird der Rangruecktritt mit Forderungsverzicht kombiniert?
+
+## Rechtlicher Rahmen
+
+- Paragraph 5 Absatz 2a EStG — Passivierungsverbot fuer Verbindlichkeiten, die nur aus kuenftigen Einnahmen oder Liquidationsueberschuessen zu tilgen sind.
+- Paragraph 19 Absatz 2 Satz 2 InsO — qualifizierter Rangruecktritt im Ueberschuldungsstatus.
+- Paragraph 39 Absatz 2 InsO — vereinbarter Nachrang.
+- Paragraph 39 Absatz 1 Nr. 5 InsO — Gesellschafterdarlehen.
+- Paragraph 3a EStG — Sanierungsertrag (Abgrenzung).
+- BFH-Linie: "qualifizierter Rangruecktritt" als steuerliche Anerkennungsschwelle.
+
+## Workflow / Schritt fuer Schritt
+
+1. **Zweck klaeren.** Geht es um Beseitigung der Ueberschuldung (insolvenzrechtlich) oder um Sanierungsertrag-Vermeidung (steuerlich) oder beides?
+2. **Qualifizierten Rangruecktritt formulieren** mit drei Elementen:
+   - Nachrang hinter alle Insolvenzglaeubiger.
+   - Tilgung nur aus kuenftigen Gewinnen, freien Liquiditaetsueberschuessen oder Liquidationsueberschuss.
+   - Glaeubiger verpflichtet sich, nicht in einer Weise Tilgung zu verlangen, die einen Insolvenzgrund ausloest.
+3. **Pruefen Paragraph 5 Absatz 2a EStG.** Wenn Tilgung **nur** aus kuenftigen Einnahmen / Liquidationsueberschuss zu erfolgen hat, ist Passivierung verboten. Wenn Tilgung "auch" aus laufenden Mitteln moeglich ist, ist die Passivierungspflicht zu pruefen.
+4. **Plan-Klausel formulieren.**
+5. **Abgrenzung zum Verzicht: Bei Rangruecktritt bleibt die Forderung; bei Verzicht erlischt sie.** Steuerlich kann der Rangruecktritt im Ergebnis zu einem aehnlichen Effekt fuehren, ohne dass sofort ein Sanierungsertrag entsteht.
+6. **Spaetere Tilgung pruefen:** Wenn die Tilgung tatsaechlich erfolgt, ist die Bilanz wieder zu korrigieren.
+
+## Trade-off-Matrix
+
+| Gestaltung | Wirkung | wann sinnvoll |
+|---|---|---|
+| Qualifizierter Rangruecktritt mit Passivierungsverbot Paragraph 5 Absatz 2a EStG | bilanziell wie Verzicht, kein Sanierungsertrag | wenn Paragraph 3a EStG-Voraussetzungen unsicher |
+| Einfacher Nachrang (Paragraph 39 Absatz 2 InsO ohne Paragraph 5 Absatz 2a-Wirkung) | Verbindlichkeit bleibt passiviert | wenn nur Ueberschuldungsstatus-Wirkung gewuenscht |
+| Verzicht endgueltig | Sanierungsertrag, Paragraph 3a EStG erforderlich | wenn Paragraph 3a-Voraussetzungen sicher und Glaeubiger einverstanden |
+| Verzicht mit Besserungsschein | Sanierungsertrag im Verzichtsjahr; Rueckbuchung bei Eintritt | wenn Hoffnungswert besteht |
+| Kombination Rangruecktritt + Teilverzicht | Mischung, Steuerung des Sanierungsertrags-Volumens | bei groesseren Volumen sinnvoll |
+
+## Praxistipps der alten Hasen
+
+1. **Formulierung "nur aus kuenftigen Gewinnen oder Liquidationsueberschuss"** ist der Schluessel fuer Paragraph 5 Absatz 2a EStG. Wer "auch aus freien Mitteln" zulaesst, faellt aus dem Passivierungsverbot.
+2. **Insolvenzrechtliche Wirkung allein kommt aus Paragraph 19 Absatz 2 Satz 2 InsO.** Steuerliche Wirkung kommt aus Paragraph 5 Absatz 2a EStG. Beide Wirkungen brauchen unterschiedliche Klauseln.
+3. **Bei Gesellschafterdarlehen** ist Paragraph 39 Absatz 1 Nr. 5 InsO ohnehin Nachrang — eine zusaetzliche Vereinbarung gibt aber die steuerlich gewuenschte Wirkung.
+4. **Rangruecktritt fuer kuenftige Tilgung schreibfest machen.** Wenn der Schuldner spaeter wieder profitabel ist, soll die Tilgung nicht aus Versehen Steuerfolgen ausloesen.
+5. **Rangruecktritt im Insolvenzplan-Text aufnehmen.** Im Plan ist Bestimmtheit Paragraph 221 InsO Pflicht; nur dann wirkt Paragraph 254 Absatz 1 InsO.
+6. **Wichtiger Sonderfall:** Wenn die Rangruecktrittsvereinbarung erst nach Verfahrenseroeffnung getroffen wird, sind Paragraphen 80, 81 InsO zu beachten.
+
+## Mustertexte / Berechnungsbeispiele
+
+**Muster qualifizierter Rangruecktritt (kombinierte Wirkung Paragraph 19 InsO und Paragraph 5 Absatz 2a EStG):**
+
+```
+RANGRUECKTRITTSVEREINBARUNG
+
+zwischen
+[Glaeubiger] (Glaeubiger)
+und
+[Schuldnerin] (Schuldnerin)
+
+§ 1 Gegenstand
+Die Schuldnerin schuldet dem Glaeubiger aus [Vertrag] vom [Datum] einen
+Betrag von EUR [Betrag] nebst Zinsen.
+
+§ 2 Rangruecktritt
+1. Der Glaeubiger tritt mit seinen Forderungen aus § 1 im Rang hinter alle
+gegenwaertigen und zukuenftigen Forderungen anderer Glaeubiger der
+Schuldnerin im Sinne von § 39 Absatz 2 InsO zurueck.
+
+2. Die Forderungen des Glaeubigers werden nur aus
+a) kuenftigen Gewinnen der Schuldnerin,
+b) einem etwaigen Liquidationsueberschuss oder
+c) sonstigem freien Vermoegen der Schuldnerin, soweit Aufzehrung des
+   Stammkapitals oder Insolvenzantragspflicht nach § 15a InsO nicht
+   ausgeloest wird,
+befriedigt.
+
+3. Der Glaeubiger verpflichtet sich, Tilgung oder Befriedigung nicht zu
+verlangen, wenn dies einen Insolvenzgrund nach § 17 oder § 19 InsO
+ausloesen wuerde.
+
+§ 3 Steuerliche Behandlung
+Die Parteien sind sich einig, dass diese Vereinbarung sowohl
+insolvenzrechtlich (Vermeidung der Ueberschuldung im Sinne von § 19
+Absatz 2 Satz 2 InsO) als auch steuerlich (Passivierungsverbot nach § 5
+Absatz 2a EStG) wirken soll. Sie ist als qualifizierter Rangruecktritt
+auszulegen.
+
+§ 4 Befristung
+Diese Vereinbarung ist unbefristet. Sie kann nur einvernehmlich oder im
+Rahmen eines bestaetigten Plans (InsO/StaRUG) aufgehoben werden.
+
+[Ort, Datum, Unterschriften]
+```
+
+**Plan-Klausel im gestaltenden Teil:**
+
+```
+VII. Rangruecktritte
+
+1. Die Forderungen der in Anlage R aufgefuehrten Glaeubiger gegen die
+Schuldnerin treten mit Bestaetigung dieses Plans und Rechtskraft des
+Bestaetigungsbeschlusses im Rang hinter alle gegenwaertigen und
+zukuenftigen Forderungen der uebrigen Glaeubiger zurueck (Paragraph 39
+Absatz 2 InsO).
+
+2. Tilgung erfolgt ausschliesslich aus kuenftigen Gewinnen oder einem
+etwaigen Liquidationsueberschuss der Schuldnerin.
+
+3. Die in Anlage R aufgefuehrten Glaeubiger verzichten darauf, Tilgung zu
+verlangen, wenn dies einen Insolvenzgrund nach Paragraph 17 oder
+Paragraph 19 InsO ausloesen wuerde.
+
+4. Diese Vereinbarung ist als qualifizierter Rangruecktritt im Sinne von
+Paragraph 5 Absatz 2a EStG zu verstehen. Die betroffenen Verbindlichkeiten
+werden bilanziell aufgeloest; der hieraus resultierende Ertrag ist im
+Rahmen der Steuererklaerung als Sanierungsertrag nach Paragraph 3a EStG
+zu behandeln, soweit die dortigen Voraussetzungen erfuellt sind.
+```
+
+## Typische Fehler
+
+1. Rangruecktritt nur insolvenzrechtlich gestaltet — steuerliche Passivierungswirkung verfehlt.
+2. Klausel laesst Tilgung auch aus laufenden Mitteln zu — Paragraph 5 Absatz 2a EStG greift nicht.
+3. Annahme, Rangruecktritt loese **keinen** Effekt aus — bei Aufloesung der Verbindlichkeit kann ein Ertrag entstehen, der dann ggf. Paragraph 3a EStG-Pruefung braucht.
+4. Verwechslung mit Verzicht.
+5. Spaetere Tilgung nicht buchhalterisch dokumentiert.
+6. Bei Gesellschafterdarlehen vergessen, dass Paragraph 39 Absatz 1 Nr. 5 InsO ohnehin Nachrang vorsieht — die Vereinbarung verstaerkt das nur.
+
+## Querverweise
+
+Im Plugin `insolvenzrecht`:
+
+- `insol-sanierungsgewinn-verzicht-bilanz-im-plan` — Verzichts-Variante.
+- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — Sanierungsertrag.
+- `insol-sanierungsgewinn-debt-equity-swap-im-plan` — DES.
+- `ueberschuldung-pruefung-19-inso` — Ueberschuldungspruefung.
+
+In anderen Plugins:
+
+- `steuerrecht-anwalt-und-berater` — allgemeine Steuerthemen.
+- `fortbestehensprognose` — Fortbestehensprognose und Rangruecktritt.
+
+## Quellen Stand 06/2026
+
+### Normen
+
+- Paragraph 5 Absatz 2a EStG, `gesetze-im-internet.de/estg/__5.html`.
+- Paragraph 19 InsO, `gesetze-im-internet.de/inso/__19.html`.
+- Paragraph 39 InsO, `gesetze-im-internet.de/inso/__39.html`.
+- Paragraph 3a EStG, `gesetze-im-internet.de/estg/__3a.html`.
+- Paragraph 254 InsO, `gesetze-im-internet.de/inso/__254.html`.
+- Paragraph 6 Absatz 1 Nummer 3 EStG i.V.m. Paragraph 12 Absatz 1 BewG (Nennwert).
+- Paragraph 11 KStG (Liquidationsbesteuerung).
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Kernentscheidung zur Anwendung des Paragraph 5 Absatz 2a EStG bei Rangruecktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen. Maszgeblich fuer die Gestaltungspraxis.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung. Begruendet die Pruefungstrias: bestimmter Verpflichtungsinhalt, durchsetzbar, wirtschaftliche Belastung.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Rangruecktrittsbehaftete Verbindlichkeit bleibt bis Loeschung passiviert; rechtstheoretisch entstehender Gewinn mangels Steuersubjekt nicht steuerpflichtig (vorgehend zu BFH I R 34/12).
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — bestaetigt FG-Koeln-Linie als „nicht evident rechtsfehlerhaft".
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen**, Tz. 1.2-1.4 — ertragsteuerliche Beurteilung von Darlehensverbindlichkeiten der Mutter im Abwicklungsendvermoegen der Tochter; bei laufender Aktualisierung mit Bund-Laender-Abstimmung.
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** — Vorgaengerverfuegung.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580** — Sichtweise NRW (insbesondere Insolvenz).
+
+### Literatur
+
+- Bergmann, Liquidationsbesteuerung von Kapitalgesellschaften, Diss., 2012, S. 145 ff.
+- Dietrich/Weber, DStR 2019, 966, 970.
+- Hageboeke, in: Roedder/Herlinghaus/Neumann, KStG, 1. Aufl. 2015, Paragraph 11 Rn. 78.
+- Stalbold, in: Gosch, KStG, Paragraph 11 Rn. 72.
+
+### Querverweise
+
+- `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` (Drei-Phasen-Analyse fuer die Liquidation).
+
+Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+
+---
+
+## Skill: `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege`
+
+_Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO fuer versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtverletzung vor. Verteidigungsstrategie und Versicherungsdeckung. Mustertext fuer Verteidigungsschriftsatz und fuer praeventive Aktendokumentation._
+
+# Sanierungsgewinn — IV-Haftung fuer versaeumte Paragraph 3a-Antraege
+
+## Worum geht es
+
+Der Insolvenzverwalter und Sachwalter sind Treuhaender der Masse. Verletzen sie ihre Pflichten schuldhaft, haften sie nach Paragraph 60 InsO gegenueber allen Beteiligten — den Glaeubigern wie dem Schuldner. Ein klassischer Haftungsfall: Der Verwalter versaeumt es, im Plan-Verfahren rechtzeitig die steuerlichen Antraege zu stellen (Paragraph 3a EStG-Anwendung, Paragraph 7b GewStG-Parallel, Vorabauskunft Paragraph 89 AO), mit der Folge, dass der Sanierungsertrag als steuerbarer Gewinn die Masse aufzehrt.
+
+Dieser Skill arbeitet die Pflichten und die Verteidigung heraus. Adressat: Verwalter, Berater des Verwalters, Glaeubigerausschuss, ggf. Klaegeranwalt aus Glaeubigerkreis.
+
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+
+- Verwalter steht im Verdacht, Sanierungsertrag-Steuern in voller Hoehe an das Finanzamt zahlen zu muessen, weil Antraege versaeumt wurden.
+- Glaeubigerausschuss ueberlegt, eine Pflichtverletzung anzunehmen.
+- Verwalter will praeventiv die eigene Aktenlage absichern.
+
+Kaltstart-Fragen:
+
+1. Aktuelle Verfahrenslage (Plan bestaetigt, Steuerbescheid ergangen, Klagephase)?
+2. Welcher Antrag wurde versaeumt (Paragraph 3a EStG-Anwendung, Paragraph 7b GewStG, Vorabauskunft)?
+3. Wann waere der Antrag rechtzeitig zu stellen gewesen?
+4. Welche Auswirkung auf die Masse (Steuer als Masseverbindlichkeit Paragraph 55 InsO oder Insolvenzforderung Paragraph 38 InsO)?
+5. Liegt eine D-und-O- bzw. IV-Berufshaftpflichtversicherung vor?
+
+## Rechtlicher Rahmen
+
+- Paragraph 60 InsO — Schadensersatzpflicht IV.
+- Paragraph 92 InsO — Gesamtschadenliquidation.
+- Paragraph 56 InsO — Anforderungen an die Person des Verwalters.
+- Paragraph 58 InsO — Aufsicht durch das Gericht.
+- Paragraph 69 AO — Haftung der gesetzlichen Vertreter; analoge Anwendung diskutiert.
+- Paragraph 3a EStG — Sanierungsertrag.
+- Paragraph 251 AO — Steuerforderungen in der Insolvenz.
+
+## Pflichtenkreis des IV im Steuerteil
+
+| Pflicht | Inhalt | Belegtechnik |
+|---|---|---|
+| Steuerliche Frueherkennung | Sanierungsertrag rechtzeitig identifizieren | Aktennotiz nach Plan-Entwurf |
+| Steuerlichen Berater einbinden | StB des Schuldners aktivieren, ggf. eigenen StB beauftragen | Mandatsschreiben |
+| Verlustvortrag-Modellrechnung | Paragraph 3a Absatz 3 EStG rechnen | Excel-Modell in der Akte |
+| Vier Voraussetzungen dokumentieren | Sanierungsbeduerftigkeit, -faehigkeit, -eignung, -absicht | Anlagen zum darstellenden Teil |
+| Vorabauskunft pruefen | Paragraph 89 AO ab gewisser Volumenschwelle | Aktenvermerk Pruefung |
+| Antrag in Steuererklaerung | Mit Erklaerung des Sanierungsjahres | Erklaerungs-Kopie |
+| Paragraph 7b GewStG-Parallel | Eigenstaendiger Antrag | Erklaerung GewSt |
+| Plan-Text steuerlich pruefen | Darstellender Teil enthaelt die Vier-Voraussetzungs-Belege | Plan-Entwurf |
+
+## Workflow / Schritt fuer Schritt
+
+1. **Pflichtverletzung qualifizieren.** Welcher Schritt wurde versaeumt? War er pflichtgemaess geschuldet?
+2. **Verschulden pruefen.** Paragraph 60 InsO verlangt Verschulden. Der Verwalter haftet **nicht** fuer jeden Fehler, sondern fuer schuldhafte Pflichtverletzung. Bei komplexen Steuerthemen ist die Hinzuziehung eines StB regelmaessig pflichtgemaess; die Auslagerung allein entlastet aber nicht.
+3. **Schaden berechnen.** Mehr-Steuer = Schaden. Aber Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG durchspielen: wenn Verlustvortraege ohnehin den Ertrag aufgezehrt haetten, ist der Schaden null oder gering.
+4. **Kausalitaet pruefen.** Auch ohne den versaeumten Antrag haette das FA ggf. anders entschieden — Beweislast und Vermutungs-Regeln.
+5. **Versicherungsdeckung pruefen.** Die IV-Berufshaftpflicht deckt typischerweise auch Steuerthemen, sofern der Verwalter sie nicht grob fahrlaessig versaeumt hat.
+6. **Verteidigung aufbauen.** Akten, externe StB-Empfehlungen, Plausibilitaetspruefungen.
+
+## Trade-off-Matrix Pflichten / Verteidigung
+
+| Verteidigung des IV | Stand sicher? | Stand schwach? |
+|---|---|---|
+| Externer StB war beauftragt | bei rechtzeitiger Hinzuziehung sehr stark | bei spaeter oder ungeeigneter Auswahl schwach |
+| Vorabauskunft beantragt | sehr stark | wenn ueberhaupt nicht erwogen, schwach |
+| Vier Voraussetzungen dokumentiert | sehr stark | wenn Plan-Text duenn, schwach |
+| Verrechnungsreihenfolge gerechnet | sehr stark | wenn Modellrechnung fehlt, schwach |
+| Glaeubigerausschuss informiert | stark | wenn nicht informiert, schwach |
+| Versicherung deckt | bei Deckungszusage sicher | bei grober Fahrlaessigkeit Vorbehalt |
+
+## Praxistipps der alten Hasen
+
+1. **Steuerteil ist Chefsache.** Auch wenn der IV ihn delegiert: er bleibt verantwortlich (Paragraph 56 InsO Eignung; Aufsichts-Pflichten).
+2. **Aktendokumentation bei jedem Schritt.** Ohne Akte keine Verteidigung.
+3. **Bei Sanierungsertrag oberhalb 1 Mio EUR ist Vorabauskunft Paragraph 89 AO faktisch zwingend.** Wer sie nicht beantragt, riskiert Haftung.
+4. **Versicherung frueh einbinden.** Bei kritischen Sanierungsplaenen schon vor Plan-Vorlage der Versicherung anzeigen.
+5. **Glaeubigerausschuss-Beschluss zum Steuerteil.** Wer den Ausschuss explizit beteiligt hat, hat einen wertvollen Verteidigungs-Anker.
+6. **Mehrere Verteidigungslinien:** keine Pflichtverletzung; kein Verschulden; kein Schaden; keine Kausalitaet.
+
+## Mustertexte / Berechnungsbeispiele
+
+**Aktenvermerk praeventiv: Steuerteil im Verfahren XY**
+
+```
+AKTENVERMERK STEUERTEIL — PRAEVENTIVE DOKUMENTATION
+Verfahren: [AZ]
+Schuldner: [Name]
+Datum: [Datum]
+Verfasser: [IV/Sachwalter]
+
+1. Sanierungsertrag voraussichtlich: EUR [Betrag]
+
+2. Beauftragung StB
+StB [Name] wurde mit Mandatsschreiben vom [Datum] mit der Pruefung
+Paragraph 3a EStG / Paragraph 7b GewStG beauftragt.
+
+3. Modellrechnung Paragraph 3a Absatz 3 EStG
+Liegt vor: Anlage 1 vom [Datum].
+
+4. Vorabauskunft Paragraph 89 AO
+Geprueft, mit folgendem Ergebnis: [beantragt / nicht beantragt mit Begruendung].
+
+5. Glaeubigerausschuss
+Ausschuss-Beschluss zum Steuerteil vom [Datum] (Anlage 2).
+
+6. Plan-Text
+Darstellender Teil Abschnitt III enthaelt die vier Voraussetzungs-Belege
+mit Anlagen-Verweis.
+
+7. Antrag in Steuererklaerung
+Sanierungsjahr ist [Jahr]. Erklaerung wird durch StB [Name] eingereicht.
+
+8. Risiken / offene Punkte
+[...]
+```
+
+**Verteidigungsschriftsatz — Geruest:**
+
+```
+SCHRIFTSATZ
+in Sachen [Klaeger] gegen [IV-Beklagter]
+Schadensersatzklage Paragraph 60 InsO
+
+I. Sachverhalt
+[...]
+
+II. Rechtliche Wuerdigung
+
+1. Keine Pflichtverletzung
+Der Beklagte hat die Sanierungsertrag-Antraege rechtzeitig vorbereitet
+und beauftragt. Insbesondere wurde StB [Name] am [Datum] mit der Pruefung
+beauftragt; die Modellrechnung wurde am [Datum] erstellt und dem
+Glaeubigerausschuss am [Datum] vorgelegt.
+
+2. Hilfsweise: kein Verschulden
+Der Beklagte durfte sich auf die Expertise des beauftragten StB verlassen.
+Die Hinzuziehung eines qualifizierten Beraters entlastet einen IV im
+Rahmen der ueblichen Sorgfalt eines ordentlichen Verwalters.
+
+3. Hilfsweise: kein Schaden
+Die Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG haette den
+Sanierungsertrag in Hoehe der Verlustvortraege ohnehin aufgezehrt. Der
+verbleibende Restbetrag betrug EUR [Betrag]; der Steueranfall wurde durch
+Paragraph 3a Absatz 1 EStG aufgefangen.
+
+4. Hilfsweise: keine Kausalitaet
+[...]
+
+5. Versicherung
+Der Beklagte zeigt vorsorglich die Inanspruchnahme der IV-Berufshaftpflicht
+[Name Versicherer] mit Schaden-Nr. [...] an.
+
+Beweis: Anlagen 1-12.
+```
+
+## Typische Fehler
+
+1. Steuerteil komplett dem StB ueberlassen, ohne eigene Aufsicht.
+2. Vorabauskunft Paragraph 89 AO nicht einmal erwogen.
+3. Akte enthaelt keine Modellrechnung.
+4. Glaeubigerausschuss zum Steuerteil nicht beteiligt.
+5. Versicherung erst nach Klage angezeigt.
+6. Verteidigung baut nur auf "kein Verschulden" — Verteidigung muss mehrere Linien parallel fuehren.
+
+## Querverweise
+
+Im Plugin `insolvenzrecht`:
+
+- `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
+- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Modellrechnung.
+- `insol-sanierungsgewinn-mandantenwarnung-iv-und-cro` — Praeventionsbrief.
+- `do-versicherung-manager-haftung` — Versicherungsfragen.
+- `glaeubigerausschuss-mitwirkung` — Ausschuss-Beschluss.
+
+In anderen Plugins:
+
+- `steuerrecht-anwalt-und-berater` — generelle Steuerthemen.
+- `insolvenzplan-starug-planwerkstatt` — Plan-Mechanik.
+
+## Quellen Stand 06/2026
+
+- Paragraph 60 InsO, `gesetze-im-internet.de/inso/__60.html`.
+- Paragraphen 56, 58, 92 InsO, `gesetze-im-internet.de/inso/`.
+- Paragraphen 69, 89, 251 AO, `gesetze-im-internet.de/ao_1977/`.
+- Paragraph 3a EStG, Paragraph 7b GewStG.
+- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25. Verifikation ueber `dejure.org`.
+- Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
 
 ---
 
@@ -1895,737 +2419,6 @@ Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
----
-
-## Skill: `glaeubigerausschuss-mitwirkung`
-
-_Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Prüfraster §§ 67 ff. InsO Gläubigerausschuss vorläufiger Gläubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Überwachung Insolvenzverwalter Beschlussfassung we..._
-
-# Gläubigerausschuss-Mitwirkung
-
-## Arbeitsbereich
-
-Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Prüfraster §§ 67 ff. InsO Gläubigerausschuss vorläufiger Gläubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Überwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungsprüfung. Rechte Akteneinsicht Anhörung Beschlussantrag Kassen-Prüfung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: gläubigerantrag-prüfung für Eroefffnungsantrag des Gläubiger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gläubigerausschuss-Mitwirkung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Schritt 1 — Bestellung
-
-### Endgültiger Gläubigerausschuss § 67 InsO
-
-- **Bestellung durch Gläubigerversammlung** im Berichtstermin
-- **Mitglieder** Vertreter unterschiedlicher Gläubiger-Gruppen (gesicherte/ungesicherte Gläubiger Arbeitnehmer Lieferanten Finanzamt)
-- **Zahl** typisch drei bis sieben
-
-### Vorläufiger Gläubigerausschuss § 22a InsO
-
-- **Schon im Eröffnungsverfahren** durch Insolvenzgericht bestellt
-- Pflicht bei größeren Unternehmen
- - **§ 22a Abs. 1 InsO** Bilanzsumme mehr als sechs Millionen Euro
- - oder Umsatz mehr als zwölf Millionen Euro
- - oder Mitarbeiter mehr als fünfzig
-- **Antrag** beim Insolvenzgericht möglich
-- **Eilbestellung** bei Eröffnungsantrag
-
-### Mitgliederschaft
-
-- Bereitschafts-Erklärung
-- Gläubiger-Eigenschaft
-
-## Schritt 2 — Aufgaben
-
-### Überwachung Insolvenzverwalter § 69 InsO
-
-- **Kassenprüfung** Aufzeichnungen Belege
-- **Quartalsbericht** Verwalter
-- **Berichts-Verlangen**
-
-### Beschlussfassung über wichtige Verwalter-Entscheidungen
-
-- **Veräußerung wesentlicher Vermögensgegenstände** § 160 Abs. 2 InsO
-- **Stilllegung** Geschäftsbetrieb
-- **Aufnahme oder Fortführung** wesentlicher Vertrags-Beziehungen
-- **Personalmaßnahmen** in größeren Konstellationen
-- **Vergleiche** mit größerem Volumen
-
-### Vergütungsprüfung § 73 Abs. 1 InsO
-
-- Verwalter-Vergütungs-Antrag nach InsVV
-- Stellungnahme an Insolvenzgericht
-
-### Gläubiger-Interessen-Vertretung
-
-- Im Berichts-Termin
-- In Gläubigerversammlung
-
-## Schritt 3 — Rechte
-
-### Akteneinsicht
-
-- Vollumfänglich in Insolvenz-Akten
-- Verwalter-Akten
-
-### Anhörung
-
-- Vor wesentlichen Beschlüssen
-- Bei Verfügung über wesentliche Vermögensgegenstände
-
-### Beschlussantrag
-
-- Im Gläubigerausschuss
-- An Gericht
-
-### Verwalter-Abberufung
-
-- Antrag bei wichtigem Grund § 59 InsO
-
-## Schritt 4 — Pflichten und Haftung § 71 InsO
-
-### Gewissenhafte Aufgabenwahrnehmung
-
-- **Sorgfalt eines ordentlichen Geschäftsmanns**
-- **Treuepflicht** gegenüber Gläubiger-Gesamtheit
-- **Verschwiegenheits-Pflicht** gegenüber Dritten
-
-### Haftung
-
-- **Gegenüber Gläubigern und Insolvenzmasse**
-- **Bei Pflichtverletzung** Schadensersatz
-- **Mehrere Mitglieder** gesamtschuldnerisch
-
-### D&O-Versicherung
-
-- Häufig vom Mandanten als Mitglied vorgesehen
-- Bei großen Unternehmen Standard
-
-## Schritt 5 — Vergütung Mitglieder § 73 Abs. 1 InsO
-
-- **Angemessene Vergütung** nach InsVV
-- **Auslagen-Ersatz**
-- Aus Insolvenzmasse
-
-## Schritt 6 — Beschluss-Verfahren
-
-### Beschlussfähigkeit
-
-- Mehrheit der Mitglieder anwesend / vertreten
-
-### Beschluss
-
-- **Einfache Mehrheit** der Anwesenden
-- Bei Stimmen-Gleichheit Stimme des Vorsitzenden
-
-### Protokoll
-
-- Schriftlich
-- Bei wichtigen Beschlüssen Begründung
-
-## Schritt 7 — Strategische Aspekte für Mitglied
-
-### Aktive Mitwirkung
-
-- **Regelmäßige Berichts-Anforderung** Verwalter
-- **Kassen-Prüfung** alle drei bis sechs Monate
-- **Beteiligung an wichtigen Entscheidungen**
-- **Frage-Stellung**
-
-### Konflikt mit Verwalter
-
-- Bei Pflichtverletzung Antrag Abberufung
-- Bei Schadensersatz-Ansprüchen Geltendmachung Gläubigerversammlung
-
-### Konflikt im Gläubigerausschuss
-
-- Bei systematischen Konflikten Rücktritts-Erklärung
-- Ggf. neue Bestellung durch Gläubigerversammlung
-
-## Schritt 8 — Spezielle Konstellationen
-
-### Eigenverwaltung § 270 ff. InsO
-
-- Gläubigerausschuss mit erhöhter Bedeutung
-- Sachwalter überwacht
-- Bei Schutzschirm § 270d InsO
-
-### Konzern-Insolvenz § 269a ff. InsO
-
-- Konzern-Gläubigerausschuss-Optionen
-- Koordination
-
-### StaRUG-Verfahren
-
-- **Restrukturierungs-Beauftragter** statt Insolvenzverwalter
-- **Restrukturierungs-Plan-Abstimmung** durch Gläubiger-Gruppen
-- Andere Logik als InsO
-
-## Schritt 9 — Berichtstermin § 156 InsO
-
-- **Verwalter berichtet** über Vermögens-Stand, mögliche Sanierungs-Wege
-- **Gläubiger entscheidet** über Fortführung Stilllegung
-- **Gläubigerausschuss** vor entscheidet vor Versammlung
-
-## Schritt 10 — Prüfungs-Termin § 175 InsO
-
-- **Forderungs-Tabellen-Prüfung**
-- **Bestreitungen** der Verwalter
-- **Klageweg** für streitige Forderungen § 179 InsO
-
-## Schritt 11 — Wahrnehmung als Anwalt für Mitglied
-
-- **Vorbereitungs-Briefing** mit Mandant vor Sitzung
-- **Aktenstudium** Verwalter-Bericht
-- **Beschluss-Empfehlung** schriftlich
-- **Bei Sitzung-Anwesenheit** Stimm-Vorbereitung
-
-## Schritt 12 — Sonderpflichten Vorsitzende
-
-- **Einladung** zur Sitzung
-- **Tages-Ordnung** vorbereiten
-- **Protokoll-Verantwortung**
-- **Außenvertretung** des Ausschusses
-
-## Checkliste vor Sitzung
-
-- Sitzungs-Termin
-- Tages-Ordnung
-- Verwalter-Berichte gelesen
-- Sachverhalts-Komplex verstanden
-- Argumentations-Linie vorbereitet
-- Beschluss-Vorschlag formuliert
-- Stellvertreter bei Verhinderung
-
-## Ausgabe
-
-- `glaeubigerausschuss-mitwirkung-{az}.md`
-- Sitzungs-Vorbereitungs-Memo
-- Beschluss-Vorschlag-Entwurf
-- Frist im Fristenbuch (Sitzungs-Termine)
-- Bei Konflikt: Strategie-Memo
-
-## Quellen
-
-- InsO §§ 22a 59 67–73 156 160 175 270 270d
-- StaRUG
-- InsVV
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- HK-InsO
-
-## Aktuelle Leitentscheidungen — Gläubigerausschuss (Stand Mai 2026)
-
-- Konkrete BGH/LG-Linien zu Haftung und Pflichten des Gläubigerausschusses (§§ 67–73, 160 InsO), insbesondere zur Mitwirkung bei bedeutenden Maßnahmen, vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
-- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Bei AG-Insolvenzen mit großem Aktionärsanteil: Aktionärsforderungen sind nachrangig; Auswirkungen auf Stimmrechtsausübung und Ausschussbesetzung beachten.
-
-## Paragrafenkette Gläubigerausschuss
-
-§ 67 InsO (Einsetzung) → § 68 InsO (Mitglieder) → § 69 InsO (Pflichten und Rechte) → § 70 InsO (Entlassung) → § 71 InsO (Haftung) → § 72 InsO (Vergütung) → § 73 InsO (Vergütung) → § 160 InsO (besonders bedeutsame Rechtshandlungen)
-
-## Triage — Gläubigerausschuss
-
-Bevor losgelegt wird, klaere:
-1. **Ausschuss obligatorisch?** § 67 Abs. 2 InsO: bei großen Verfahren (>250 AN, >6 Mio. EUR Bilanzsumme oder >12 Mio. EUR Umsatz) ist vorläufiger Ausschuss zwingend.
-2. **Zustimmungspflicht § 160 InsO?** Welche Geschäfte benoetigen Ausschuss-Zustimmung (Betriebsveraesserung, ungewoehnlich hohe Verbindlichkeiten, Rechtsstreitigkeiten über EUR 10.000)?
-3. **Interessenkonflikt?** Ausschussmitglied ist gleichzeitig Gläubiger und Bieter in Verwertung → § 71 InsO Haftungsrisiko.
-4. **Informations-Hol-Pflicht?** Mitglieder müssen aktiv Informationen vom IV anfordern; passives Warten genuegt nicht.
-
----
-
-## Skill: `insolvenzgeld-165-sgb-iii`
-
-_Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Prüfraster § 165 ff. SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolvenz-Ereignis. Insolvenz-Ereignis § 165 Abs. 1 SGB III Eroeffnu..._
-
-# Insolvenzgeld nach § 165 SGB III
-
-## Arbeitsbereich
-
-Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Prüfraster § 165 ff. SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolvenz-Ereignis. Insolvenz-Ereignis § 165 Abs. 1 SGB III Eroeffnung Abweisung mangels Masse Vollstreckungs-Aussichtslosigkeit. Antragsfrist zwei Monate § 324 SGB III Vor-Finanzierung Banken bis 75 Prozent. Output Antragsentwurf Bescheinigung Abrechnung Schnittstelle Sozialversicherungs-Beitraege. Abgrenzung: forderungsanmeldung-gläubiger für allgemeine Forderungsanmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzgeld nach § 165 SGB III` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Eingaben
-
-- Insolvenz-Status Arbeitgeber (Antrag Eröffnung)
-- Arbeitsverhältnis-Daten (Dauer Lohn Stunden)
-- Lohnverzug-Zeitraum
-- Bisher gezahlter Lohn
-- Bei Mandant=Insolvenzverwalter: Mitarbeiter-Liste
-
-## Schritt 1 — Anspruchs-Voraussetzungen § 165 SGB III
-
-### Persönlich Berechtigte
-
-- **Arbeitnehmer** im Sinne § 7 SGB IV
-- **Auszubildende**
-- **Heimarbeiter**
-- Einschluss Mini-Job-Beschäftigte
-- Einschluss Teilzeit
-
-### Nicht berechtigt
-
-- Geschäftsführer ohne Arbeitnehmer-Status
-- Selbstständige
-- Arbeitnehmer in Drittland-Filialen ohne deutschen Sozial-Versicherungs-Bezug
-
-## Schritt 2 — Insolvenz-Ereignis § 165 Abs. 1 SGB III
-
-### Drei Tatbestände
-
-a) **Eröffnung des Insolvenz-Verfahrens** über Vermögen des Arbeitgebers
-
-b) **Abweisung mangels Masse** § 26 InsO
-
-c) **Vollständige Betriebs-Einstellung** im Inland, wenn ein Insolvenz-Antrag nicht gestellt worden ist und ein Insolvenz-Verfahren offensichtlich mangels Masse nicht in Betracht kommt
-
-### Zeit-Punkt
-
-- **Eröffnungs-Datum** als Insolvenz-Ereignis-Datum
-- Bei Abweisung mangels Masse: Abweisungs-Beschluss
-- Bei Betriebs-Einstellung: tatsächliche Einstellungs-Datum
-
-## Schritt 3 — Anspruchs-Inhalt § 167 SGB III
-
-### Lohn der letzten drei Monate
-
-- **Rückwärts vom Insolvenz-Ereignis-Datum**
-- Nur **noch nicht gezahltes Arbeitsentgelt**
-- Brutto-Forderung bis Beitrags-Bemessungs-Grenze West / Ost
-
-### Beispiel
-
-```
-Insolvenz-Ereignis (Eröffnung): 15.05.2026
-Lohn-Forderungen:
-- Februar 2026: bezahlt
-- März 2026: nicht bezahlt (EUR 3.500)
-- April 2026: nicht bezahlt (EUR 3.500)
-- Mai 2026 anteilig: nicht bezahlt (EUR 1.700)
-
-Anspruch Insolvenzgeld: 3 Monate
-- Februar nicht relevant (bezahlt)
-- Mitte Feb bis Mitte Mai = drei Monate
-- Berechnung: EUR 3.500 × 2 + EUR 1.700 = EUR 8.700
-
-Bei Beitrags-Bemessungs-Grenze (West EUR 7.550/Monat
-in 2026) liegt EUR 3.500 darunter — voller Anspruch
-```
-
-### Brutto vs. Netto
-
-- Insolvenzgeld in Höhe Netto-Anspruch
-- Steuer und SV-Anteile separat berechnet
-- Lohnsteuer-Klassen-bezogen
-
-### Sonderzuwendungen
-
-- Urlaubsgeld Weihnachtsgeld nur anteilig
-- Bei Fälligkeit innerhalb der drei Monate
-- Provisionen bei Fälligkeit
-
-## Schritt 4 — Antragsverfahren
-
-### Frist § 324 SGB III
-
-- **Zwei Monate** ab Insolvenz-Ereignis
-- **Nach-Antragsfrist sechs Monate** bei unverschuldeter Versäumnis
-- Frist-Beginn bei Bekanntwerden Insolvenz-Ereignis
-
-### Antragstellung
-
-- **Agentur für Arbeit** zuständig
-- **Online-Antrag** über BA-Webportal
-- **Schriftlich** möglich
-
-### Pflicht-Anlagen
-
-- Arbeitsvertrag
-- Lohn-Abrechnungen
-- Bescheinigung Insolvenz-Verwalter (Lohn-Forderung)
-- Lohn-Steuer-Karte / Identifikations-Nummer
-
-### Bescheinigung Insolvenz-Verwalter
-
-- **Pflicht** des Insolvenz-Verwalters auf Anfrage
-- Inhalt: Lohn-Höhe Fälligkeit Erfüllungs-Stand
-- Schnittstelle zur Forderungs-Anmeldung
-
-## Schritt 5 — Insolvenzgeld-Anspruchs-Übergang § 169 SGB III
-
-### Cessio Legis
-
-- **Lohn-Forderung geht auf BA über** mit Zahlung Insolvenzgeld
-- **Anmeldung zur Insolvenz-Tabelle** durch BA
-- Insolvenz-Verwalter rechnet mit BA ab
-
-### Folge für Insolvenz-Verwalter
-
-- BA wird Gläubiger anstelle Arbeitnehmer
-- Pflicht-Vermerk in Tabelle
-- Quoten-Auszahlung an BA
-
-### Folge für Arbeitnehmer
-
-- **Insolvenzgeld** ohne Anmeldung in Tabelle
-- Bei Differenz Lohn über Beitrags-Bemessungs-Grenze — Differenz selbst anmelden
-
-## Schritt 6 — Vor-Finanzierung
-
-### Praktische Konstellation
-
-- Insolvenz-Verfahren dauert
-- Arbeitnehmer braucht Geld sofort
-- Vor-Finanzierung durch Bank
-
-### Vor-Finanzierungs-Vereinbarung § 170 SGB III
-
-- **Banken-Vorfinanzierung** bis 75 Prozent Insolvenzgeld
-- **Abtretung** an Bank
-- BA zahlt direkt an Bank
-
-### Vorteil Arbeitnehmer
-
-- Schnelle Liquidität
-- Schon vor Insolvenz-Ereignis möglich (in der drei-Monats-Phase)
-
-### Vorteil Insolvenz-Verfahren
-
-- **Fortführungs-Möglichkeit** durch Lohn-Sicherung
-- **Mitarbeiter-Bindung**
-- Sanierungs-Chance
-
-## Schritt 7 — Bei Eigenverwaltung
-
-- Anspruch Insolvenzgeld bleibt
-- Sachwalter unterstützt Anträge
-- Schnellere Auszahlung möglich
-
-## Schritt 8 — Sozial-Versicherungs-Beiträge § 173 SGB III
-
-### Pflicht-Beiträge auf Insolvenzgeld
-
-- **Renten-Versicherung** Krankenversicherung Pflege-Versicherung Arbeitslosen-Versicherung
-- **BA übernimmt** Arbeitgeber-Anteil
-- **Anwartschafts-Schutz** Arbeitnehmer
-
-### Folge
-
-- Keine Lücke in Sozial-Versicherungs-Karriere
-- Renten-Punkte werden weitergeführt
-
-## Schritt 9 — Anspruchs-Konkurrenz
-
-### Kurzarbeitergeld
-
-- Bei vor Insolvenz Kurzarbeit
-- Anspruch Kurzarbeitergeld parallel möglich
-- Anrechnung-Mechanismen
-
-### Krankengeld
-
-- Bei Erkrankung in Drei-Monats-Phase
-- Krankengeld plus Insolvenzgeld theoretisch
-- Vorrang-Regelungen
-
-### Mutterschaftsgeld / Elterngeld
-
-- Spezifische Regelungen
-- Sozial-Versicherungs-Karten
-
-### Vorruhestand / Frühverrentung
-
-- Anspruch endet mit Renteneintritt
-- Insolvenzgeld dazwischen möglich
-
-## Schritt 10 — Praktische Konstellationen
-
-### Konstellation A — Insolvenz-Verfahren eröffnet
-
-- Klar: Antragsfrist läuft
-- Insolvenz-Verwalter-Bescheinigung anfordern
-- Antrag stellen
-
-### Konstellation B — Insolvenz-Antrag gestellt aber noch nicht eröffnet
-
-- Vor-Finanzierungs-Vereinbarung möglich
-- Antragsfrist beginnt erst mit Eröffnung
-
-### Konstellation C — Eröffnung verzögert sich
-
-- Eilbedürftigkeits-Erklärung an Insolvenz-Gericht
-- Vor-Finanzierung erwägen
-
-### Konstellation D — Abweisung mangels Masse
-
-- Insolvenz-Ereignis ist Abweisung
-- Antragsfrist ab Abweisungs-Beschluss
-- Häufig parallel zu fehlender Insolvenz-Verwalter-Bescheinigung — Eigenbescheinigung-Eskalation
-
-### Konstellation E — Lohn-Verzug ohne Insolvenz-Antrag
-
-- Kein Insolvenzgeld
-- Lohn-Klage Arbeitsgericht
-- Bei Vermögens-Aussichts-Losigkeit Insolvenz-Antrag möglicherweise
-
-## Schritt 11 — Aufgaben Insolvenz-Verwalter
-
-### Lohn-Erfassung
-
-- Lohnkonten der letzten Monate prüfen
-- Lohn-Forderungen exakt aufstellen
-- Lohnsteuerkarten und SV-Daten besorgen
-
-### Bescheinigung Insolvenzgeld
-
-- Auf Anfrage Mitarbeiter
-- Standardisiertes Formular
-- Frist-eng (sieben Werktage)
-
-### Lohn-Buchhaltung Übergang
-
-- Übernahme der Lohn-Buchhaltung
-- Steuer- und SV-Anmeldungen ggf.
-- Pension-Verpflichtungen-Übergang an PSVaG
-
-### Massearm-Konstellation
-
-- Bei Abweisung mangels Masse keine Bescheinigung-Pflicht
-- Arbeitnehmer-Eigenangabe möglich
-
-## Schritt 12 — Bei Streit über Insolvenzgeld-Anspruch
-
-### Widerspruch BA-Bescheid
-
-- **Ein Monat** ab Bekanntgabe, § 84 Abs. 1 SGB X i. V. m. §§ 78 ff. SGG
-- Begründung
-- An BA selbst
-
-### Klage SG
-
-- Bei Widerspruchs-Bescheid abgelehnt
-- **Ein Monat** Klage-Frist § 87 Abs. 1 SGG (drei Monate wäre § 88 SGG Untätigkeitsklage)
-- PKH-Antrag empfohlen → Skill `pkh-erfolgsaussicht-pruefen`
-
-### Häufige Streit-Punkte
-
-- **Persönlicher Anwendungsbereich** (echte Arbeitnehmer-Eigenschaft?)
-- **Berechnungs-Grundlage** (Pauschalen Provisionen)
-- **Drei-Monats-Phase** korrekt berechnet?
-- **Bezogen-Frist** § 324 versäumt?
-
-## Schritt 13 — Schnittstelle Forderungs-Anmeldung Tabelle
-
-### Forderungs-Anmeldung § 174 InsO
-
-- Bei Insolvenzgeld-Übergang BA als Gläubiger
-- Restbetrag Lohn (über Beitrags-Bemessungs-Grenze) Arbeitnehmer selbst
-- Skill `glaeubigerantrag-pruefung`
-
-### Rang (wichtige Korrektur)
-
-- **Lohn-Forderungen aus der Zeit VOR Eröffnung** sind grundsätzlich **einfache Insolvenz-Forderungen** § 38 InsO mit Quoten-Risiko — auch wenn sie aus den letzten Monaten stammen
-- **Masseverbindlichkeiten** sind nur:
- - Lohn aus **fortbestehendem** Arbeitsverhältnis NACH Verfahrens-Eröffnung → § 55 Abs. 1 Nr. 2 InsO
- - im Eröffnungs-Verfahren begründete Lohn-Ansprüche bei starkem vorläufigen Verwalter mit Verfügungs-Befugnis → § 55 Abs. 2 InsO
-- Für Rückstände aus den drei Monaten vor Insolvenz-Ereignis greift das Insolvenzgeld § 165 SGB III; die Forderung selbst geht auf die BA über (§ 169 SGB III) und wird als § 38 InsO-Forderung angemeldet
-- § 55 Abs. 2 InsO hilft NICHT pauschal für die "letzten sechs Monate vor Eröffnung" — das ist ein verbreiteter Irrtum
-
-## Verzahnung mit anderen Skills
-
-- `mandat-triage-insolvenzrecht` — Einstieg
-- `arbeitsrecht-kaltstart-interview` — Arbeitsrechtliche Aspekte
-- `kuendigungsschutzklage` — wenn parallel Kündigung
-- `pkh-erfolgsaussicht-pruefen` — bei SG-Klage gegen BA-Bescheid
-- `glaeubigerantrag-pruefung` — Forderungs-Anmeldung
-
-## Ausgabe
-
-- `insolvenzgeld-{az}.md` mit Anspruchs-Prüfung Antragsstellung
-- BA-Antragsschrift
-- Insolvenz-Verwalter-Bescheinigungs-Anforderung
-- Bei Streit: Widerspruchs-/Klage-Vorbereitung
-- Vor-Finanzierungs-Beratung
-- Frist im Fristenbuch (zwei Monate Antrag, ein Monat Widerspruch, ein Monat Klage)
-
-## Quellen
-
-- SGB III §§ 165 167 169 170 173 324
-- SGB IV § 7
-- SGG §§ 87 88; SGB X § 84
-- InsO §§ 26 38 55 174
-- BSG-Linien zu Insolvenzgeld
-- Standes-Vorgaben Insolvenz-Verwalter zu Lohn-Bescheinigung
-
-## Aktuelle Leitentscheidungen — Insolvenzgeld
-
-- Konkrete BSG- und LSG-Entscheidungen zum Insolvenzgeld (insb. Anspruchsberechtigung Gesellschafter-Geschäftsführer, Drei-Monats-Frist, Vorfinanzierung) vor Ausgabe über sozialgerichtsbarkeit.de oder dejure.org mit Datum und Aktenzeichen verifizieren.
-- Zur Schnittstelle § 142 InsO (Bargeschäft Lohnzahlungen) und Anfechtung: **BGH IX ZR 122/23 vom 05.12.2024** stellt klar, dass Lohnzahlungen ohne starre 30-Tage-Grenze auf engen zeitlichen Zusammenhang zu prüfen sind; bei Anfechtung des Verwalters gegen vorinsolvenzliche Lohnzahlungen ist die Unlauterkeit konkret darzulegen.
- Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
-
-## Paragrafenkette Insolvenzgeld
-
-§ 165 SGB III (Anspruchsvoraussetzungen) → § 166 SGB III (Höhe) → § 167 SGB III (Vorfinanzierung) → § 168 SGB III (Erloesch-Gruende) → § 26 InsO (Abweisung mangels Masse als Insolvenzereignis) → § 113 InsO (Kuendigungsrecht des IV)
-
-## Triage — Insolvenzgeld
-
-1. **Insolvenzereignis?** Datum der Verfahrenseroffnung oder Abweisung mangels Masse exakt festlegen.
-2. **3-Monats-Zeitraum?** Welche Monate werden vom Insolvenzgeld abgedeckt? Lohnrueckstaende inventarisieren.
-3. **Vorfinanzierung?** Haushausbank ansprechen; Abtretungserklaerungen der Arbeitnehmer einholen; Zeitplan Vorfinanzierung → Auszahlung BA.
-4. **GF-Anspruch?** GF ist nur Arbeitnehmer wenn tatsaechlich weisungsgebunden; bei Gesellschafter-GF selten Insolvenzgeld.
-
----
-
-## Skill: `kaltstart-interview`
-
-_Kaltstart-Interview für das Insolvenzrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/insolvenzrecht/CLAUDE.md mit Angaben zur Rolle (Insolvenzverwalter / Sachwalter / beratender Anwalt / Geschäftsleiter / Sanierungsberater / Wirtschaftsprüfer), ty..._
-
-# /insolvenzrecht:insolvenzrecht-kaltstart-interview
-
-## Aktenstart statt Formularstart
-
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Insolvenzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
-
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
-
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/insolvenzrecht:insolvenzrecht-kaltstart-interview` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Ablauf
-
-1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/insolvenzrecht/CLAUDE.md` prüfen.
-2. Falls vorhanden und ohne `[PLATZHALTER]`-Marker: bestätigen, dass das Praxisprofil schon befüllt ist, und Modus erfragen (`--redo` für vollständiges Neu-Interview).
-3. Falls nicht vorhanden oder mit Platzhaltern: das Kaltstart-Interview unten durchführen.
-4. Konfigurationsdatei schreiben (übergeordnete Verzeichnisse bei Bedarf anlegen).
-5. Zusammenfassung anzeigen und nächste Schritte vorschlagen.
-
-## `--integrationen-prüfen`
-
-Prüft die Konnektoren-Verfügbarkeit (Dokumentenspeicher, Forderungsanmeldung-Portal, Insolvenzbekanntmachungen-RSS, Buchhaltungs-MCP). Aktualisiert nur den Abschnitt `## Verfügbare Integrationen`, führt kein neues Interview durch.
-
-Beim Prüfen: nur `✓` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war. Konfigurierte-aber-ungetestete Konnektoren als `⚪` markieren.
-
----
-
-## Kaltstart-Interview: Insolvenzrecht
-
-### 1. Wer nutzt dieses Plugin?
-
-- **Rolle:** Insolvenzverwalter (§ 56 InsO) / Sachwalter (§ 274 InsO) / Sanierungsmoderator (§ 94 StaRUG) / beratender Anwalt (Schuldner- oder Gläubigerseite) / Geschäftsleiter mit Antragspflicht (§ 15a InsO) / Sanierungsberater (außerhalb gerichtlicher Verfahren) / Wirtschaftsprüfer mit Insolvenzmandaten?
-- **Anwaltlicher Ansprechpartner** (bei Nicht-Anwälten): Name, Kanzlei, Erreichbarkeit
-- **Berufsverband:** VID (Verband Insolvenzverwalter), Gravenbrucher Kreis, DRSC, IDW, sonstige
-
-### 2. Typische Mandate / Verfahren
-
-- **Verfahrensarten:** Regelinsolvenz / Eigenverwaltung (§§ 270 ff. InsO) / Schutzschirmverfahren (§ 270d InsO) / StaRUG / Restrukturierungsbeauftragter / Konzerninsolvenzen / Verbraucherinsolvenz
-- **Branchen-Schwerpunkte** (falls vorhanden): Baugewerbe / Handel / Dienstleistung / Industrie / Immobilien / Healthcare
-- **Volumen** (für Sanierungsberater): typische Bilanzsumme der Mandanten
-
-### 3. Gutachten- und Berichtsstandards
-
-- **IDW S 6** (Sanierungskonzept): wird verwendet ja / nein
-- **IDW S 9** (Anforderungen an Insolvenzpläne): ja / nein
-- **IDW S 11** (Beurteilung Insolvenzeröffnungsgründe): ja / nein
-- **Eigene Hausstandards:** zusätzliche Templates, Checklisten, Berichtsstrukturen
-
-### 4. Zuständige Insolvenzgerichte
-
-- **Hauptzuständigkeiten:** AG/LG nach Bezirk; bei Konzerninsolvenzen: § 3a InsO (Gruppen-Gerichtsstand)
-- **Bekanntmachungen:** insolvenzbekanntmachungen.de — wird regelmäßig überwacht?
-
-### 5. Antragspflicht-Prüfung
-
-- **Wann konsultiert das Mandat / der Geschäftsleiter typischerweise:** schon bei drohender Zahlungsunfähigkeit (§ 18 InsO) / erst bei Zahlungsunfähigkeit (§ 17 InsO) / erst bei Überschuldung (§ 19 InsO)
-- **Standard für Fortbestehensprognose:** 12 Monate (§ 19 Abs. 2 InsO) / Branchenstandard / einzelfallabhängig
-- **3-Wochen-Frist (§ 15a InsO):** Eskalationspfad bei Annäherung
-
-### 6. Vergütung
-
-- **InsVV-Anwendung:** Regelvergütung nach §§ 1 ff. InsVV / Vergütungsvereinbarung mit Gericht
-- **Honorarberatung:** Stundensatz / RVG / Pauschalen
-
-### 7. Standort
-
-- **Bundesland / Hauptgerichtsbezirk:** [Bayern / NRW / etc.]
-- **Kanzleitypus:** Einzelkanzlei / Sozietät / Großkanzlei / Inhouse
-
----
-
-## Ausgabe
-
-Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/insolvenzrecht/CLAUDE.md` geschrieben. Anschließend zeigen:
-
-- Was eingerichtet wurde
-- Welche Skills jetzt sinnvoll als nächstes laufen können:
- - `/insolvenzrecht:zahlungsunfähigkeit-prüfung-17-inso` — bei Liquiditätsengpässen
- - `/insolvenzrecht:überschuldung-prüfung-19-inso` — bei bilanzieller Überschuldung mit Fortbestehensprognose
- - `/insolvenzrecht:antragspflicht-15a-inso` — bei drohender 3-Wochen-Frist
- - `/insolvenzrecht:gläubigerantrag-prüfung` — bei eingegangenem Gläubigerantrag
- - `/insolvenzrecht:liquiditätsvorschau-insolvenzrechtlich` — für 21-Tage-Liquiditätsstatus
-- Hinweis auf Mandatsgeheimnis (§ 43a Abs. 2 BRAO, § 203 StGB)
-
-## Rechtlicher Rahmen
-
-- **InsO** — Insolvenzordnung: §§ 15a, 17, 18, 19, 56, 270 ff. (Eigenverwaltung), 286 ff. (Restschuldbefreiung)
-- **StaRUG** — Unternehmensstabilisierungs- und -restrukturierungsgesetz (seit 01.01.2021)
-- **InsVV** — Insolvenzrechtliche Vergütungsverordnung
-- **IDW-Standards:** S 6 (Sanierungskonzept), S 9 (Insolvenzplan), S 11 (Insolvenzeröffnungsgründe)
-- **Maßgebliche Rspr.:** BGH IX. Zivilsenat (Insolvenz) und II. Zivilsenat (Gesellschaftsrecht/Geschäftsleiterhaftung)
-
-## Hinweise
-
-Dieses Plugin ersetzt keine anwaltliche Beratung. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang) zu prüfen. Insolvenzantragspflicht und Eröffnungsgründe sind hochkomplex; im Zweifel **immer** anwaltliche Begleitung.
-
-## Rechtlicher Rahmen — Kaltstart-Orientierung (Stand Mai 2026)
-
-- § 15a InsO (Antragspflicht 3 Wo. ZU / 6 Wo. Überschuldung), §§ 17–19 InsO (Eröffnungsgründe), §§ 129 ff. InsO (Anfechtung), §§ 174 ff. InsO (Forderungsanmeldung), §§ 270 ff. InsO (Eigenverwaltung / Schutzschirm), §§ 4 ff. StaRUG.
-- Aktuelle BGH-Linie (vor Ausgabe über dejure.org / openjur.de verifizieren):
- - **BGH IX ZR 122/23 vom 05.12.2024** (Unlauterkeit Bargeschäft § 142 InsO).
- - **BGH IX ZR 129/22 vom 18.04.2024** (Vorsatzanfechtung § 133 InsO; konkrete Bedrohungslage).
- - **BGH II ZR 206/22 vom 23.07.2024** (Fortwirkende Haftung ausgeschiedener GF).
- - **BGH IV ZR 66/25 vom 19.11.2025** (D&O-Wissentlichkeitsausschluss).
- - **BGH 5 StR 287/24 vom 27.02.2025** (Faktischer GF).
- - **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard — Aktionärsforderungen nachrangig).
- - **BVerfG 1 BvR 418/25 vom 28.02.2025** (StaRUG / VARTA).
 
 ---
 

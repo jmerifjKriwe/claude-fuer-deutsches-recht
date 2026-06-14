@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 51 Skills des Plugins `insolvenzverwaltung`.
+Dieser Megaprompt enthaelt top-15 von 53 Skills des Plugins `insolvenzverwaltung`.
 
 ## Inhaltsverzeichnis
 

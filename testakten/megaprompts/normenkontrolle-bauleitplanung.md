@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 89 Skills des Plugins `normenkontrolle-bauleitplanung`.
+Dieser Megaprompt enthaelt top-10 von 94 Skills des Plugins `normenkontrolle-bauleitplanung`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Normenkontrolle Bauleitplanung: ordnet Rolle (Antragsteller (Anwohner/Nachbargemeinde),…
 2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Normenkontrolle Bauleitplanung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen…
-3. **pruefung-erstpruefung-und-mandatsziel** — Prüfung: Erstprüfung, Rollenklärung und Mandatsziel.
-4. **abwaegungsgebot-1-abs-7-baugb** — Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vi…
-5. **anpassungsgebot-flaechennutzungsplan** — Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklun…
-6. **aufstellungsbeschluss-bekanntmachung** — Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. …
-7. **festsetzungskatalog-9-baugb-baunvo** — Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog…
-8. **jahresfrist-47-abs-2-vwgo** — Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahr…
-9. **kommunalabgaben-und-beitragssatzungen** — Kommunalabgaben- und Beitragssatzungen: Gebühren, Beiträge, Fremdenverkehr, Abwasser, Elternbeiträge, Kalkulation und Gl…
-10. **mandat-erstgespraech-normenkontrolle** — Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmand…
+3. **spezial-pruefung-erstpruefung-und-mandatsziel** — Pruefung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, F…
+4. **pruefung-erstpruefung-und-mandatsziel** — Prüfung: Erstprüfung, Rollenklärung und Mandatsziel.
+5. **allgemeine-satzungsnormenkontrolle-47-vwgo** — Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung …
+6. **abwaegungsgebot-1-abs-7-baugb** — Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vi…
+7. **anpassungsgebot-flaechennutzungsplan** — Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklun…
+8. **aufstellungsbeschluss-bekanntmachung** — Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. …
+9. **festsetzungskatalog-9-baugb-baunvo** — Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog…
+10. **jahresfrist-47-abs-2-vwgo** — Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahr…
 
 ---
 
@@ -311,6 +311,56 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 ---
 
+## Skill: `spezial-pruefung-erstpruefung-und-mandatsziel`
+
+_Pruefung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung._
+
+# Pruefung: Erstprüfung, Rollenklärung und Mandatsziel
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `normenkontrolle-bauleitplanung`. Ausgangspunkt ist: Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.
+
+Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Pruefung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Pruefung.
+- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
+- **Plugin-Rahmen:** Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH u....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Pruefung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
 ## Skill: `pruefung-erstpruefung-und-mandatsziel`
 
 _Prüfung: Erstprüfung, Rollenklärung und Mandatsziel._
@@ -357,6 +407,35 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `allgemeine-satzungsnormenkontrolle-47-vwgo`
+
+_Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.; Normanker: VwGO § 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommunalrecht; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar._
+
+# Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.
+
+## Auftrag
+
+Dieser Skill löst § 47 VwGO aus der reinen Bauleitplanung. Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt.
+
+## Normanker
+
+VwGO § 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommunalrecht. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil § 47 Abs. 1 Nr. 2 VwGO die Normenkontrolle außerhalb der BauGB-Fälle nur eröffnet, soweit Landesrecht dies bestimmt.
+
+## Prüfprogramm
+
+1. Normtyp: Satzung, Rechtsverordnung, Bebauungsplan, Polizeiverordnung, Benutzungssatzung oder bloßer Verwaltungsakt?
+2. Statthaftigkeit: § 47 Abs. 1 Nr. 1 oder Nr. 2 VwGO, Landesrechtseröffnung, Rang unter Landesgesetz.
+3. Antragsteller: mögliche Rechtsverletzung, Adressat, Eigentümer, Nutzer, Gemeinde, Verband oder Konkurrent.
+4. Frist und Rechtsschutzbedürfnis: Jahresfrist, fortbestehende Beschwer, Parallelverfahren.
+5. Materielle Kontrolle: Ermächtigung, Zuständigkeit, Verfahren, Bekanntmachung, Bestimmtheit, Gleichheit, Verhältnismäßigkeit.
+6. Rechtsfolge: Unwirksamkeit, Bekanntmachung der Entscheidung, Wirkung auf Folgebescheide, neue Satzung.
+
+## Ausgabe
+
+Erzeuge eine Statthaftigkeitsskizze, Satzungs-Red-Team, Eilantragsskizze, Schriftsatzgliederung oder Bürger-/Mandantenbrief.
 
 ---
 
@@ -1357,200 +1436,6 @@ _Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfri
 - **OVG NRW** und andere OVG/VGH: laufende Rspr. zu Bekanntmachungsmaengeln und Frist; konkrete Aktenzeichen über landesrecht-nrw.de bzw. die jeweilige Landesjustiz-Datenbank verifizieren.
 
 Vor Ausgabe per bverwg.de mit Datum und Aktenzeichen verifizieren.
-
----
-
-## Skill: `kommunalabgaben-und-beitragssatzungen`
-
-_Kommunalabgaben- und Beitragssatzungen: Gebühren, Beiträge, Fremdenverkehr, Abwasser, Elternbeiträge, Kalkulation und Gleichheitssatz.; Normanker: VwGO § 47; KAG der Länder; Art. 3 GG; Äquivalenz- und Kostendeckungsprinzip; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug n..._
-
-# Kommunalabgaben- und Beitragssatzungen: Gebühren, Beiträge, Fremdenverkehr, Abwasser, Elternbeiträge, Kalkulation und Gleichheitssatz.
-
-## Auftrag
-
-Dieser Skill löst § 47 VwGO aus der reinen Bauleitplanung. Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt.
-
-## Normanker
-
-VwGO § 47; KAG der Länder; Art. 3 GG; Äquivalenz- und Kostendeckungsprinzip. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil § 47 Abs. 1 Nr. 2 VwGO die Normenkontrolle außerhalb der BauGB-Fälle nur eröffnet, soweit Landesrecht dies bestimmt.
-
-## Prüfprogramm
-
-1. Normtyp: Satzung, Rechtsverordnung, Bebauungsplan, Polizeiverordnung, Benutzungssatzung oder bloßer Verwaltungsakt?
-2. Statthaftigkeit: § 47 Abs. 1 Nr. 1 oder Nr. 2 VwGO, Landesrechtseröffnung, Rang unter Landesgesetz.
-3. Antragsteller: mögliche Rechtsverletzung, Adressat, Eigentümer, Nutzer, Gemeinde, Verband oder Konkurrent.
-4. Frist und Rechtsschutzbedürfnis: Jahresfrist, fortbestehende Beschwer, Parallelverfahren.
-5. Materielle Kontrolle: Ermächtigung, Zuständigkeit, Verfahren, Bekanntmachung, Bestimmtheit, Gleichheit, Verhältnismäßigkeit.
-6. Rechtsfolge: Unwirksamkeit, Bekanntmachung der Entscheidung, Wirkung auf Folgebescheide, neue Satzung.
-
-## Ausgabe
-
-Erzeuge eine Statthaftigkeitsskizze, Satzungs-Red-Team, Eilantragsskizze, Schriftsatzgliederung oder Bürger-/Mandantenbrief.
-
----
-
-## Skill: `mandat-erstgespraech-normenkontrolle`
-
-_Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmandat. Prüfraster: Mandantenbetroffenheit Antragsbefugnis § 47 Abs. 2 VwGO Antragsfrist Statthaftigkeit Erstprüfung Plan-Unterlagen vorläufige Erfolgsaussichten Kostenaufklärung RV..._
-
-# Erstgespräch Normenkontroll-Mandat
-
-## Schritt 1 — Mandantendaten und Betroffenheitsfeststellung
-
-### Persönliche Daten
-- Name, Anschrift, Geburtsdatum, Kontakt
-- Eigentumsverhältnisse am betroffenen Grundstück (Alleineigentum, Miteigentum, Wohnungseigentum)
-- Grundbuchauszug aktuell beziehen lassen
-- Familienstand bei gemeinschaftlichem Eigentum
-
-### Räumliche Lage
-- Adresse Mandantengrundstück
-- Adresse / Bezeichnung Plangebiet
-- Abstand Grundstücksgrenze zu Plangebiet
-- Skizze Lageplan oder Auszug Stadtplan zur Akte
-- Sichtbeziehung, Verkehrsbeziehung, Topografie
-
-### Konkrete Betroffenheit
-- Innerhalb Plangebiet — direkte Festsetzungsbetroffenheit
-- Außerhalb Plangebiet — drittbetroffener Nachbar
-- Belang: Verschattung, Lärm, Verkehr, Geruch, Wertminderung, Aussicht, Klima
-
-## Schritt 2 — Plan-Identifikation
-
-### Pflichtangaben
-- Genaue Bezeichnung des Plans (Nummer, Name, Stadt, Stadtteil)
-- Aufstellungsbeschluss-Datum
-- Beschluss als Satzung
-- Bekanntmachungsdatum und Ort (Amtsblatt, Tageszeitung)
-- Inkrafttreten
-- Art des Plans: B-Plan qualifiziert, einfach, vorhabenbezogen § 12 BauGB, Bebauungsplan der Innenentwicklung § 13a BauGB, FNP, örtliche Bauvorschrift § 9 Abs. 4 BauGB i.V.m. Art. 81 BayBO
-
-### Beschaffung der Planunterlagen
-- Bei der planenden Gemeinde mündlich oder schriftlich anfordern
-- Online-Bauleitplan-Auskunft sichten
-- Bekanntmachung als PDF
-- Satzungstext mit textlichen Festsetzungen
-- Planurkunde zeichnerisch
-- Begründung mit Umweltbericht
-- Abwägungsdokumentation Stadtrat
-
-## Schritt 3 — Vier Säulen Zulässigkeit § 47 VwGO
-
-### Säule 1 — Statthaftigkeit
-- Im Rang unter Landesgesetz stehende Rechtsvorschrift
-- B-Plan und örtliche Bauvorschrift in Bayern erfasst (§ 47 Abs. 1 Nr. 1 VwGO i.V.m. Art. 5 BayAGVwGO)
-- FNP grundsätzlich nicht statthaft — aber wenn Festsetzungen mit Außenwirkung (Konzentrationsflächen Windenergie § 35 Abs. 3 S. 3 BauGB) ja
-- Frühzeitige Klärung welcher Plan angegriffen wird
-
-### Säule 2 — Antragsbefugnis § 47 Abs. 2 VwGO
-- Möglichkeitstheorie: Geltendmachung einer Rechtsverletzung möglich
-- Eigentümer im Plangebiet immer
-- Nachbar bei abwägungserheblichem Belang (BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16)
-- Anerkannter Naturschutzverband § 64 BNatSchG, § 2 UmwRG
-
-### Säule 3 — Antragsfrist § 47 Abs. 2 S. 1 VwGO
-- Ein Jahr ab Bekanntmachung der Norm
-- Heute kein 2-Jahres-Zeitraum mehr (Verkürzung durch Gesetz vom 22.12.2006)
-- Bei Eilbedarf Fristprüfung sofort
-- Wiedereinsetzung § 60 VwGO nur bei unverschuldeter Versäumung
-
-### Säule 4 — Rechtsschutzbedürfnis
-- Bei Vollzug bereits abgeschlossen — Rechtsschutzbedürfnis problematisch
-- Bei Vollzug noch nicht erfolgt — gegeben
-- Bei Genehmigung bereits erteilt — parallel Klage gegen Genehmigung erforderlich
-
-## Schritt 4 — Mandantenchronologie und Beteiligung
-
-### Eigene Beteiligung am Aufstellungsverfahren
-- An früher Beteiligung § 3 Abs. 1 BauGB teilgenommen?
-- Schriftliche Einwendung in förmlicher Beteiligung § 3 Abs. 2 BauGB abgegeben?
-- Wortlaut der Einwendungen sichern (eigene Korrespondenz, Mail-Archiv, Eingangsbestätigung Stadt)
-- An Bürgerversammlung teilgenommen?
-- Mit anderen Anwohnern vernetzt? Bürgerinitiative?
-
-### Bedeutung für Rügefrist § 215 BauGB
-- Verfahrensfehler nur dann beachtlich, wenn innerhalb eines Jahres nach Bekanntmachung gerügt
-- Wer eingewendet hat, hat in der Regel die Substanz bereits dokumentiert
-- Wer nicht eingewendet hat, ist nicht präkludiert (BVerwG, Urteil vom 18.11.2010 – 4 CN 3.10) — aber materiell schwächer
-- Anwältin muss die Einwendungen kennen, um Rüge zu fertigen
-
-## Schritt 5 — Erste Erfolgsaussichtenprognose
-
-### Schnellscan-Punkte
-- Stimmt die Verfahrenskette in der Begründung formal? Beschlüsse, Bekanntmachungen, Auslegung?
-- Gibt es einen Umweltbericht? Plausibel?
-- Ist die Abwägung mehr als formelhaft?
-- Sind Stellplätze, Lärm, Artenschutz ernsthaft behandelt?
-- Hinweise auf Vorfestlegung oder Gefälligkeitsplanung?
-
-### Prognose-Kategorien
-- Erfolgsaussichten gering — Mandatsablehnung empfehlen
-- Erfolgsaussichten offen — Mandat mit klarer Kosten-Aufklärung
-- Erfolgsaussichten gut — Mandat einschließlich Eilantrag prüfen
-- Erfolgsaussichten sehr gut — Mandat plus Eilantrag plus parallele Drittklage
-
-## Schritt 6 — Kosten und Streitwert
-
-### Streitwert
-- Streitwertkatalog Verwaltungsgerichtsbarkeit Nr. 9.8.1
-- Im Regelfall 60.000 EUR pro Antragsteller, mindestens
-- Bei wirtschaftlich besonders bedeutendem Plan höher
-- Eilantrag § 47 Abs. 6 VwGO: halber Hauptsachestreitwert
-
-### Gebühren RVG
-- 1,6-fache Verfahrensgebühr Nr. 3200 VV RVG
-- 1,2-fache Terminsgebühr Nr. 3202 VV RVG
-- Auslagenpauschale Nr. 7002 VV RVG
-- Mandantengespräch über mögliche Mehrkosten Gutachten Schallschutz / Artenschutz
-
-### Wahl-Vereinbarung
-- Stundensatz Wahlmandat möglich — schriftliche Honorarvereinbarung § 3a RVG
-- Bei Verbandsklage Naturschutz oft RVG plus Spendenakquise
-
-## Schritt 7 — Akten- und Fristanlage
-
-### Akte
-- Mandatsbogen
-- Vollmacht
-- Plan-Mappe mit allen Plan-Unterlagen
-- Mandantenchronologie
-- Aktennotiz Erstgespräch
-- Streitwert- und Kosten-Note
-
-### Fristen
-- **Jahresfrist § 47 Abs. 2 VwGO** ab Bekanntmachung — primäre Frist
-- **Rügefrist § 215 BauGB** ein Jahr ab Bekanntmachung — parallele Sicherungsfrist
-- Beide Fristen mit zweifacher Vorfrist im Fristenkalender (zwei Wochen vor Ablauf, vier Wochen vor Ablauf)
-
-## Schritt 8 — Mandatsannahme oder Ablehnung
-
-### Annahme
-- Schriftliche Auftragsbestätigung
-- Übersendung Honorarvereinbarung
-- Ankündigung Akteneinsicht bei der Gemeinde
-
-### Ablehnung
-- Begründung schriftlich
-- Hinweis auf Frist
-- Hinweis auf andere Beratungswege
-- Datenschutzkonforme Vernichtung der überlassenen Unterlagen oder Rückgabe
-
-## Quellen
-
-- VwGO §§ 47 60
-- BauGB §§ 1 2 3 4 8 10 12 13a 35 214 215
-- BNatSchG § 64
-- UmwRG § 2
-- BayAGVwGO Art. 5
-- BayBO Art. 47 81
-- RVG § 3a, VV RVG Nr. 3200 3202 7002
-- Streitwertkatalog Verwaltungsgerichtsbarkeit 2013 Nr. 9.8.1
-- BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16 (Antragsbefugnis Nachbar)
-- BVerwG, Urteil vom 18.11.2010 – 4 CN 3.10 (Präklusionswirkung Einwendung)
-
-## Aktuelle Rechtsprechung — Triage-relevante Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 

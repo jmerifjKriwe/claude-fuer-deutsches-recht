@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -116,6 +116,7 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `logging-siem-soc` | Prüft Logging, SIEM und SOC-Betrieb im Nis2 Cybersecurity Compliance. |
 | `management-haftung-board-duties` | Übersetzt Cyberpflichten in Organpflichten für Geschäftsführer und Vorstände im Nis2 Cybersecurity Compliance. |
 | `mandantenakten-kanzlei` | Prüft Cybersecurity für Kanzlei- und Mandatsakten im Nis2 Cybersecurity Compliance. |
+| `massnahmenplan-100-tage` | Baut 100-Tage-Programm für Cyber-Compliance. |
 | `massnahmenplan-tage-maturity-assessment` | Baut 100-Tage-Programm für Cyber-Compliance im Nis2 Cybersecurity Compliance. |
 | `maturity-assessment` | Bewertet Reifegrad von IT-Sicherheit und digitaler Souveränität im Nis2 Cybersecurity Compliance. |
 | `messenger-collaboration-tool-check` | Prüft Messenger und Chatkanäle für interne und externe Kommunikation im Nis2 Cybersecurity Compliance. |

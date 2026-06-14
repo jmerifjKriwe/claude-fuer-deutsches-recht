@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 90 Skills des Plugins `arbeitsrecht`.
+Dieser Megaprompt enthaelt top-10 von 98 Skills des Plugins `arbeitsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Arbeitsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wuns…
 2. **mandat-triage-arbeitsrecht** — Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Be…
 3. **kaltstart-interview** — Ersteinrichtung des Arbeitsrecht-Plugins – ermittelt Standortprofil, Tarifbindung, Betriebsratssituation und Eskalations…
-4. **agg-pruefung-bewerber-und-beschaeftigte** — AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädi…
-5. **anpassen** — Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einste…
-6. **einstellungspruefung** — Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskri…
-7. **expansion-aktualisierung** — Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet…
-8. **expansion-auftakt** — Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder einem neuen Zielland — erhebt die relevanten …
-9. **fehlzeit-erfassen** — Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, M…
-10. **fehlzeiten-register** — Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG), …
+4. **arbeitsrecht-problem-sortieren** — Sehr allgemeiner Einstiegsskill fuer unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fris…
+5. **arbeitsrecht-anpassen** — Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einste…
+6. **agg-pruefung-bewerber-und-beschaeftigte** — AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädi…
+7. **anpassen** — Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einste…
+8. **einstellungspruefung** — Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskri…
+9. **expansion-aktualisierung** — Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet…
+10. **expansion-auftakt** — Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder einem neuen Zielland — erhebt die relevanten …
 
 ---
 
@@ -816,6 +816,166 @@ Konfiguration gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/
 - **Tarifbindung übersehen.** Nachwirkung (§ 4 Abs. 5 TVG), Allgemeinverbindlicherklärung (§ 5 TVG) oder Bezugnahmeklausel im Arbeitsvertrag können Tarifrecht anwendbar machen, ohne Verbandsmitgliedschaft.
 - **Betriebsrat-Situation unklar.** Betriebsrat kann auch in kleinen Betrieben (ab 5 wahlberechtigten AN) gewählt werden (§ 1 BetrVG). Auf § 102 BetrVG hinweisen, sobald Kündigung im Raum steht.
 - **Datenschutz bei Seed-Dokumenten.** Kündigungsunterlagen sind personenbezogen; § 26 BDSG. Anonymisierung oder Pseudonymisierung empfehlen.
+
+---
+
+## Skill: `arbeitsrecht-problem-sortieren`
+
+_Sehr allgemeiner Einstiegsskill fuer unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage._
+
+# Arbeitsrecht - Problem Sortieren
+
+## Zweck
+
+Dieser Skill ist der ruhige erste Tisch in einer unuebersichtlichen arbeitsrechtlichen Lage. Er beginnt nicht mit einem Schema, sondern mit Ordnung: Was ist passiert, was will die Person erreichen, was liegt als Dokument vor, was eilt und welcher Spezial-Skill hilft jetzt wirklich?
+
+## Vier Pflichtbausteine
+
+1. Ziel klaeren: Was soll entschieden, geprueft, entworfen, verbessert oder verhandelt werden?
+2. Kontext sichern: Rolle, Frist, Dokumente, Beteiligte, Vorgeschichte und Belege.
+3. Grenzen setzen: keine Blindzitate, keine erfundenen Tatsachen, keine ungewollten Zugestaendnisse.
+4. Ausgabeformat bestimmen: Memo, Tabelle, Schriftsatz, Brief, Beschluss, TOP, Checkliste oder Red-Team-Liste.
+
+## Arbeitsrechtliche Pflicht-Ersttriage (vor jeder Vertiefung)
+
+- **KSchG-Anwendbarkeit:** § 23 Abs. 1 KSchG (i.d.R. mehr als 10 Arbeitnehmer im Betrieb, Schwellenwertberechnung pro Kopf nach BAG ständiger Rechtsprechung mit Teilzeitfaktor) und § 1 Abs. 1 KSchG (Wartezeit sechs Monate).
+- **Kündigungsschutzklage-Frist:** § 4 KSchG drei Wochen ab Zugang. Versäumnis: § 7 KSchG Wirksamkeitsfiktion.
+- **Sonderkündigungsschutz prüfen:** Schwangerschaft (§ 17 MuSchG), Elternzeit (§ 18 BEEG), Schwerbehinderung (§ 168 SGB IX), Betriebsrat (§ 15 KSchG, § 103 BetrVG), Datenschutzbeauftragter.
+- **Massenentlassung:** § 17 KSchG Schwellen (z.B. mehr als 5 in Betrieb mit 21-59 AN, mehr als 10 % oder 25 in Betrieb mit 60-499 AN). Anzeige bei Bundesagentur vor Ausspruch der Kündigungen.
+- **Betriebsratsanhörung:** § 102 BetrVG zwingend vor jeder Kündigung; ohne ordnungsgemäße Anhörung Kündigung gemäß § 102 Abs. 1 Satz 3 BetrVG unwirksam.
+- **AGG-Bezug:** §§ 1, 3, 22 AGG bei verdachtsweiser Diskriminierung (Alter, Geschlecht, Behinderung, Religion etc.). Frist § 15 Abs. 4 AGG zwei Monate ab Kenntnis.
+
+## Trade-off-Hinweis
+
+Schnellfeuer-Klage spart Frist, aber ohne Sozialauswahl-Prüfung und ohne Betriebsratsanhörungs-Check verschenkt Mandantschaft Argumente. Lieber **3-Wochen-Frist sichern** mit knapper Klageschrift, dann nachschriftsätzlich substantiieren.
+
+## Workflow
+
+1. Material erfassen und sichtbar zwischen Tatsache, Behauptung und Bewertung trennen.
+2. Eilige Punkte vorziehen — insbesondere § 4 KSchG, § 17 KSchG-Massenentlassungsanzeige, AGG-2-Monats-Frist und Verfall-/Ausschlussfristen aus Tarif- oder Arbeitsvertrag (z.B. zweistufige Ausschlussfrist).
+3. Schwachstellen und Gegenargumente benennen (Betriebsratsanhörung, Sozialauswahl, Schriftform § 623 BGB).
+4. Passende Folge-Skills aus demselben Plugin vorschlagen.
+5. Einen verwendbaren Output liefern und offene Punkte mit `[noch klaeren]` markieren.
+
+## Ausgabe
+
+| Punkt | Befund | Risiko | Naechster Schritt |
+| --- | --- | --- | --- |
+| ... | ... | ... | ... |
+
+## Qualitaetsgate
+
+Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfundene Quellen? Sind Fristen und offene Tatsachen sichtbar? Ist der naechste Schritt eindeutig?
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+---
+
+## Skill: `arbeitsrecht-anpassen`
+
+_Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart-Interview neu zu durchlaufen._
+
+# /arbeitsrecht:arbeitsrecht-anpassen
+
+## Zweck
+
+Der Nutzer möchte etwas im Praxisprofil ändern – eine Jurisdiktion, eine Risikoeinstellung, einen Eskalationskontakt, eine Handbuchposition – ohne das gesamte Kaltstart-Interview zu wiederholen.
+
+## Eingaben
+
+- Beschreibung der gewünschten Änderung (Freitext oder Abschnittsname)
+- Aktuelle Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md`
+
+## Ablauf
+
+### 1. Konfiguration lesen
+
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` und `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` einlesen.
+
+Falls das Plugin noch nicht eingerichtet ist oder `[PLATZHALTER]` enthält:
+> Das Plugin wurde noch nicht eingerichtet. Führen Sie `/arbeitsrecht:arbeitsrecht-kaltstart-interview` aus.
+
+### 2. Gewünschte Änderung klären
+
+Wenn die Angabe des Nutzers unklar ist, einen einzigen klärenden Prompt stellen – nicht mehrere Nachfragen hintereinander:
+
+> Was möchten Sie ändern?
+> - Neuen Standort / neues Bundesland hinzufügen
+> - Tarifvertrag oder Betriebsratssituation aktualisieren
+> - Eskalationskontakt ändern
+> - Einstellungs- oder Kündigungsregeln anpassen
+> - Handbuch-/Betriebsvereinbarungsreferenz aktualisieren
+> - Integrationen neu prüfen (`--check-integrations`)
+> - Anderes – bitte beschreiben
+
+### 3. Nur den betroffenen Abschnitt aktualisieren
+
+Den relevanten Abschnitt in der Konfigurationsdatei isolieren, die Änderung durchführen, den Rest unberührt lassen. Keine komplette Neugenerierung.
+
+**Besonderheiten:**
+- **Neuer Standort / Bundesland:** Eskalationstabelle um das neue Bundesland ergänzen. Auf besondere Landesgesetze hinweisen (z.B. Bayerisches Urlaubsgesetz, abweichendes Landesdatenschutzrecht). KSchG-Schwellenwert neu berechnen.
+- **Neuer Tarifvertrag:** Nachwirkung (§ 4 Abs. 5 TVG) und Günstigkeitsprinzip (§ 4 Abs. 3 TVG) berücksichtigen. Ggf. Hinweis auf Allgemeinverbindlichkeit (§ 5 TVG).
+- **Betriebsrat neu eingetragen:** § 102 BetrVG-Verpflichtung in Eskalationstabelle aufnehmen; Hinweis auf § 99 BetrVG (Einstellung) und § 87 BetrVG (Mitbestimmung).
+- **Eskalationskontakt:** Nur dieses Feld ändern; Risikologik bleibt.
+
+### 4. Änderung schreiben und bestätigen
+
+Die geänderte Konfiguration zurückschreiben und dem Nutzer mitteilen, was geändert wurde (Vorher/Nachher, ein Diff).
+
+## Quellen und Zitierweise
+
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
+
+Relevante Normen je nach Änderungsbereich:
+- Neues Bundesland: Landesurlaubsgesetze, LDSG des Landes, ggf. Tarifvertrag mit Landesbezug
+- Betriebsrat: BetrVG §§ 1, 87, 99, 102, 111 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Ausgabeformat
+
+```
+Profil-Änderung: [Kürzel der Änderung]
+================================================
+Geändert:  [Abschnitt in CLAUDE.md]
+
+Vorher:
+  [Alt-Wert]
+
+Nachher:
+  [Neu-Wert]
+
+Gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md
+```
+
+## Beispiele
+
+```
+/arbeitsrecht:arbeitsrecht-anpassen
+Neuen Standort Hamburg hinzufügen, ca. 25 Mitarbeiter, kein Betriebsrat.
+```
+
+```
+/arbeitsrecht:arbeitsrecht-anpassen
+Eskalationskontakt für betriebsbedingte Kündigungen auf Dr. Müller (GC) ändern.
+```
+
+```
+/arbeitsrecht:arbeitsrecht-anpassen
+Wir sind seit Januar diesem Jahr an den Tarifvertrag Einzelhandel NRW gebunden.
+```
+
+## Risiken / typische Fehler
+
+- **Landesrecht übersehen.** Bayern, Brandenburg und andere Länder haben eigene Urlaubsgesetze mit abweichenden Mindesturlaubstagen. Bei neuem Bundesland immer Landesspezifika prüfen.
+- **Tarifbindung durch Bezugnahmeklausel.** Auch ohne Verbandsmitgliedschaft kann ein Tarifvertrag vertraglich einbezogen sein. Prüfen, ob neue Tarifbindung auch bestehende Verträge erfasst.
+- **Betriebsrat-Zuständigkeit.** Bei neuem Betriebsrat: § 102 BetrVG gilt für JEDE Kündigung, § 99 BetrVG für jede Einstellung – sofort in Eskalationstabelle aufnehmen.
 
 ---
 
@@ -1729,260 +1889,6 @@ Jede Ausgabe dieser Skill muss bei Structural-Empfehlungen zitieren:
 - AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
----
-
-## Skill: `fehlzeit-erfassen`
-
-_Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen: Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberec..._
-
-# Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen. Startet die Überwachung von Fristen ab dem ersten Tag.
-
-### /arbeitsrecht:fehlzeit-erfassen
-
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:fehlzeit-erfassen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Eingaben
-
-- Mitarbeiter-Angaben (Name/ID – anonymisiert genügt)
-- Abwesenheitstyp und Startdatum
-- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Tarifvertrag
-
-## Ablauf
-
-### 1. Konfiguration lesen
-
-Standort-Fußabdruck, HRIS-Status, Tarifvertrag prüfen. Falls HRIS verbunden: Hinweis, dass Eintrag besser dort erfolgt; trotzdem im Register dokumentieren, wenn Nutzer dies wünscht.
-
-### 2. Alle nötigen Informationen in einem einzigen Prompt abfragen
-
-> Kurze Angaben für den Fehlzeiteintrag:
->
-> - **Mitarbeiter-ID oder Rolle** (anonymisiert ist in Ordnung)
-> - **Bundesland** (bestimmt anwendbare Regeln)
-> - **Abwesenheitstyp:**
-> - Krankheit / Arbeitsunfähigkeit (EFZG)
-> - Urlaub (BUrlG)
-> - Mutterschutz / Beschäftigungsverbot (MuSchG)
-> - Elternzeit (BEEG)
-> - Pflegezeit (PflegeZG)
-> - Sonstiges
-> - **Startdatum** der Abwesenheit
-> - **Voraussichtliches Rückkehrdatum** (falls bekannt – leer lassen wenn unbekannt)
-> - **Bei Elternzeit:** Hat die Mitarbeiterin/der Mitarbeiter die Elternzeit schriftlich angemeldet? Anmeldedatum?
-> - **Bei Krankheit:** Gleiche Erkrankung wie in zurückliegenden 12 Monaten? (für EFZG-Neuanspruchs-Berechnung)
-> - **Schwangerschaft/Entbindung:** Errechneter Entbindungstermin (für MuSchG-Fristen)
-
-### 3. Fristen automatisch berechnen
-
-Je nach Abwesenheitstyp:
-
-**Krankheit (EFZG):**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BEM-Prüfdatum: ab 6-wöchiger AU innerhalb von 12 Monaten (§ 167 Abs. 2 SGB IX)
-- Wenn gleiche Erkrankung: Neuer EFZG-Anspruch? Letzter AU-Zeitraum prüfen.
-
-**Urlaub (BUrlG):**
-- Verfallsdatum: 31.12. des laufenden Jahres (§ 7 Abs. 3 S. 1 BUrlG) bzw. 31.03. des Folgejahres bei Übertragung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Resturlaub berechnen: Gesamtanspruch − genommene Tage
-
-**Mutterschutz (MuSchG):**
-- Schutzfrist-Beginn: 6 Wochen vor errechnetem Entbindungstermin (§ 3 MuSchG)
-- Schutzfrist-Ende: 8 Wochen nach Entbindung (§ 3 Abs. 2 MuSchG; 12 Wochen bei Frühgeburt)
-- Kündigungsschutz-Ende: 4 Monate nach Entbindung (§ 17 Abs. 1 S. 1 Nr. 1 MuSchG)
-
-**Elternzeit (BEEG):**
-- Anmeldefrist geprüft? (7 Wochen vor Beginn; § 16 Abs. 1 BEEG)
-- Elternzeit-Ende: 3. Geburtstag des Kindes als maximale Frist
-- Kündigungsschutz-Ende: Ende der Elternzeit (§ 18 Abs. 1 BEEG)
-- Teilzeit-Anspruch: Ab Beginn der Elternzeit (§ 15 Abs. 6 BEEG)
-
-**Pflegezeit (PflegeZG):**
-- Max. 6 Monate (§ 3 Abs. 1 PflegeZG)
-- Kündigungsschutz: ab Ankündigung bis 4 Wochen nach Ende (§ 5 PflegeZG)
-- Ankündigungsfrist: 10 Arbeitstage vor Beginn (§ 3 Abs. 3 PflegeZG)
-
-### 4. Eintrag schreiben
-
-Register-Eintrag anlegen in `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/urlaubsregister.yaml`:
-
-```yaml
-- id: [generierte ID]
- mitarbeiter: [anonymisierte Bezeichnung]
- bundesland: [BL]
- typ: [krankheit|urlaub|mutterschutz|elternzeit|pflegezeit|sonstiges]
- startdatum: [JJJJ-MM-TT]
- rueckkehr_geplant: [JJJJ-MM-TT | unbekannt]
- fristen:
- efzg_erschoepfung: [JJJJ-MM-TT] # nur bei Krankheit
- bem_pruefung: [JJJJ-MM-TT] # nur bei Krankheit ≥ 6 Wochen
- urlaubsverfall_warnung: [JJJJ-MM-TT] # nur bei Urlaub
- schutzfrist_ende: [JJJJ-MM-TT] # MuSchG/BEEG
- ks_schutz_ende: [JJJJ-MM-TT] # Kündigungsschutz-Ende
- notizen: [ggf.]
- status: offen
-```
-
-## Quellen und Zitierweise
-
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
-
-- § 3 EFZG (6-Wochen-Fortzahlung), § 5 EFZG (Nachweispflicht)
-- § 3, 7 BUrlG (Mindesturlaub, Übertragung, Verfall)
-- § 3 MuSchG (Schutzfristen), § 17 MuSchG (Kündigungsschutz)
-- §§ 15–18 BEEG (Elternzeit, Anmeldung, Kündigungsschutz)
-- § 167 Abs. 2 SGB IX (BEM-Pflicht)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Beispiele
-
-```
-/arbeitsrecht:fehlzeit-erfassen
-Mitarbeiterin HR-022, Bayern, Elternzeit ab 01.02.2025.
-Anmeldung liegt schriftlich vor (10.12.2024). Rückkehr geplant 01.02.2026.
-```
-
-## Risiken / typische Fehler
-
-- **BEEG-Anmeldung nachträglich** – Elternzeit kann nicht rückwirkend beantragt werden; Anmeldedatum prüfen.
-- **Mehrere Abwesenheitsperioden bei gleicher Erkrankung** – EFZG-Neuanspruch-Prüfung nicht vergessen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Anonymisierung** – auch im internen Register: Mitarbeiter-IDs statt Namen verwenden; § 26 BDSG.
-
----
-
-## Skill: `fehlzeiten-register`
-
-_Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG), Elternzeit (BEEG): Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG)..._
-
-# Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG), Elternzeit (BEEG)
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG), Elternzeit (BEEG). Zeigt nur Abwesenheiten, bei denen eine Entscheidung oder Handlung erforderlich ist – kein reines Statusboard.
-
-### /arbeitsrecht:fehlzeiten-register
-
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:fehlzeiten-register` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Eingaben
-
-- HRIS-Zugang (falls konfiguriert) oder `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/urlaubsregister.yaml`
-- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Tarifvertrag, Betriebsvereinbarungen
-
-## Ablauf
-
-### 1. Datenquelle ermitteln
-
-Falls HRIS verbunden: Abwesenheitsdaten abrufen. Falls nicht: `urlaubsregister.yaml` lesen. Falls beides fehlt: "Kein Urlaubsregister gefunden. Bitte HRIS verknüpfen oder Abwesenheiten über `/arbeitsrecht:fehlzeit-erfassen` eintragen."
-
-### 2. Fristen-Check für jede offene Abwesenheit
-
-**A – Urlaub (BUrlG):**
-- Gesetzlicher Mindesturlaub: 20 Werktage (§ 3 Abs. 1 BUrlG bei 5-Tage-Woche) bzw. 24 Werktage (§ 3 Abs. 1 BUrlG bei 6-Tage-Woche)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Wartefrist:** Voller Urlaubsanspruch erst nach 6-monatigem Bestehen (§ 4 BUrlG); vorher anteiliger Anspruch (§ 5 BUrlG)
-- **Urlaubsabgeltung** bei Beendigung des Arbeitsverhältnisses (§ 7 Abs. 4 BUrlG); steuer- und sozialversicherungspflichtig
-
-**B – Entgeltfortzahlung (EFZG):**
-- 6-Wochen-Frist pro Erkrankung (§ 3 Abs. 1 EFZG)
-- **Beginn neuer Anspruch bei gleicher Krankheit:** Erst nach 6-monatiger Unterbrechung oder 12-Monats-Zeitraum seit letzter AU (§ 3 Abs. 1 S. 2 EFZG)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Wiedereingliederung (stufenweise):** § 74 SGB V, § 28 SGB IX; Anspruch auf Zustimmung zur stufenweisen Wiedereingliederung
-
-**C – Mutterschutz (MuSchG):**
-- **Beschäftigungsverbote** (§§ 3–6 MuSchG): 6 Wochen vor dem errechneten Entbindungstermin (§ 3 MuSchG), 8 Wochen nach der Entbindung (§ 3 Abs. 2 MuSchG; bei Frühgeburten: 12 Wochen)
-- **Kündigungsschutz** (§ 17 MuSchG): Während Schwangerschaft bis 4 Monate nach Entbindung; Ausnahme nur mit behördlicher Genehmigung
-- **Mutterschaftsgeld:** Kassenleistung; Arbeitgeberanteil über Arbeitgeberzuschuss (§ 20 MuSchG)
-- **Fristen im Tracker:** Errechneter Entbindungstermin → Fristberechnung Schutzfrist-Ende; Mitteilungspflicht Arbeitnehmer § 15 MuSchG
-
-**D – Elternzeit (BEEG):**
-- Anspruch bis 3 Jahre je Kind (§ 15 Abs. 2 BEEG); 24 Monate zwischen 3. und 8. Geburtstag
-- **Anmeldefrist:** 7 Wochen vor Beginn (§ 16 Abs. 1 BEEG); bei Elternzeit ab Geburt: 7 Wochen vor Beginn; kann nicht rückwirkend genommen werden
-- **Kündigungsschutz** (§ 18 BEEG): Ab Anmeldung der Elternzeit bis zum Ende; Ausnahme § 18 Abs. 1 S. 2 BEEG (besondere Fälle)
-- **Teilzeit in Elternzeit** (§ 15 Abs. 6–7 BEEG): Bis 30 h/Woche; Arbeitgeber kann nur bei dringenden betrieblichen Gründen ablehnen
-- **Elterngeld:** BEEG §§ 1–13 – keine arbeitsrechtliche Pflicht des Arbeitgebers, aber Informationspflicht
-
-### 3. Alerts nur bei Handlungsbedarf
-
-Darstellung:
-- 🔴 **Sofortmaßnahme:** Frist in < 7 Tagen
-- 🟠 **Zeitnah handeln:** Frist in 7–30 Tagen
-- 🟡 **Auf dem Radar:** Frist in 30–90 Tagen
-- 🟢 **Unauffällig** – kein Handlungsbedarf
-
-Keine langen Statustabellen – nur Fälle mit Handlungsbedarf, jeweils mit einem Satz: Wer, was, bis wann.
-
-## Quellen und Zitierweise
-
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
-
-Wesentliche Quellen:
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Beispiele
-
-```
-/arbeitsrecht:fehlzeiten-register
-```
-
-```
-URLAUB- UND FEHLZEITEN-TRACKER – 15.01.2025
-
-Aktive Abwesenheiten: 8 gesamt | Handlungsbedarf: 2
-
-🟠 ZEITNAH HANDELN
- MA-0047 (Projektmanagerin) – Elternzeit-Anmeldung – Frist: 03.02.2025
- → Elternzeitanmeldung mit 7-Wochen-Frist (§ 16 Abs. 1 BEEG) liegt noch nicht vor.
- Bitte Mitarbeiterin erinnern und Antrag schriftlich bestätigen.
-
-🟡 AUF DEM RADAR
- MA-0031 (Vertrieb) – EFZG-Erschöpfung (gleiche Erkrankung) – 05.03.2025
- → 6. Krankheitswoche bei derselben Erkrankung. BEM prüfen (§ 167 Abs. 2 SGB IX).
- EFZG-Anspruch erschöpft sich am 05.03.2025.
-
-🟢 Unauffällig (6 Fälle) – keine Handlung erforderlich.
-```
-
-## Risiken / typische Fehler
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **BEEG-Anmeldefrist verpasst** – Elternzeit kann nicht rückwirkend genommen werden; späteste Anmeldung 7 Wochen vor Beginn.
-- **BEM-Pflicht vor Kündigung** – ohne BEM erhöhte Darlegungslast des Arbeitgebers bei krankheitsbedingter Kündigung.
-- **Mutterschutzfristen falsch berechnet** – bei Mehrlingsbirth oder Frühgeburt gelten abweichende Schutzfristen (§ 3 Abs. 2 S. 2 MuSchG: 12 Wochen statt 8 Wochen).
 
 ---
 

@@ -74,4 +74,3 @@ Urteile des BGH vom 12.10.2005, BGHZ 164, 297 und 311. Klauseln in LV-AVB, die d
 | § 34 StGB | Rechtfertigender Notstand | Ransomware |
 | Art. 83 DSGVO | Bußgeld bei Datenpanne | Gegenargument |
 | § 204 BGB | Hemmung Verjährung | Ombudsmann |
-

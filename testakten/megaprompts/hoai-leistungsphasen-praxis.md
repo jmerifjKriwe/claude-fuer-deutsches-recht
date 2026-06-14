@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 386 Skills (gekuerzt fuer Chat-Fenster) des Plugins `hoai-leistungsphasen-praxis`.
+Dieser Megaprompt enthaelt top-8 von 388 Skills (gekuerzt fuer Chat-Fenster) des Plugins `hoai-leistungsphasen-praxis`.
 
 ## Inhaltsverzeichnis
 

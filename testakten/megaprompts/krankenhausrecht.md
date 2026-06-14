@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 67 Skills des Plugins `krankenhausrecht`.
+Dieser Megaprompt enthaelt top-10 von 68 Skills des Plugins `krankenhausrecht`.
 
 ## Inhaltsverzeichnis
 
