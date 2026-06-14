@@ -1,6 +1,6 @@
 # Eval-Results
 
-Stand: 2026-06-13T23:23:29Z
+Stand: 2026-06-14T09:08:54Z
 
 - Testakten gesamt: **206**
 - mit Rubric: **204**
