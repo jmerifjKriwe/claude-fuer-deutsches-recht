@@ -1,3 +1,15 @@
+# v318.0.0 — Kleine Release-Härtung: keine veraltenden Größenangaben in Skill-Übersicht
+
+Mini-Hardening über v317. Die Release-Pipeline aus v317 bleibt unverändert, aber die automatisch generierte `SKILLS.md` nennt bei den Sammel-Downloads keine alten ungefähren Paketgrößen mehr. Die tatsächlichen Größen schwanken mit Testakten, Plugin-ZIPs und Kompression; feste Fantasiezahlen sind hier schlechter als keine Zahl.
+
+## Geändert
+
+- `scripts/generate-skills-md.py` entfernt die veralteten Größenhinweise aus der Download-Tabelle.
+- `SKILLS.md` und `skills-index/` auf Stand `v318.0.0` regeneriert.
+- Alle Plugin-Manifeste und Marketplace-Einträge auf `318.0.0` gezogen.
+
+---
+
 # v317.0.0 — Release-Hardening: Upload-Retry, Asset-Hashprüfung, Testakten-ZIP-Validator
 
 Technisches Stabilitätsrelease über v316. Keine fachlichen Skill-Inhalte umgebaut; Fokus ist eine belastbarere Release-Strecke, damit ZIPs, Testakten und Sammelpakete zuverlässig oben ankommen und maschinell überprüfbar bleiben.
