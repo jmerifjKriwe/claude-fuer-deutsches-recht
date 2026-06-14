@@ -1,3 +1,10 @@
+# v323.0.0 — Zweite Haupt-Worktree-Salvage: Referenzen, Werkzeuge und Testakten nachgezogen
+
+- 203 echte Nicht-Skill-Dateien aus dem alten lokalen Haupt-Worktree übernommen: Referenzmaterial, kleine Werkzeuge, Setup-Hinweise und zusätzliche Aktenstücke.
+- Offensichtliche Dubletten/Temp-Dateien (`SKILL 2.md`, temporäre Nullbyte-Datei) bewusst nicht übernommen.
+- 26 betroffene Testakten-Gesamt-PDFs neu gebaut, damit disparater Aktenordner und Gesamt-PDF wieder zusammenlaufen.
+- v322.0.0 bleibt die große Skill-Salvage-Basis; v323.0.0 ist der Glattzug für die verbliebenen guten Nicht-Skill-Artefakte.
+
 # v322.0.0 — Salvage des alten Haupt-Worktrees: Fachskills gerettet und Boilerplate reduziert
 
 Der alte lokale `main`-Worktree wurde intensiv gegen den aktuellen Release-Stand abgeglichen. Ziel war kein blindes Zurueckrollen, sondern Wissensrettung ohne Generator-/Versionsrauschen.
