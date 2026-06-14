@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 60 Skills des Plugins `normenkontrollrat-nkr`.
+Dieser Megaprompt enthaelt top-15 von 58 Skills des Plugins `normenkontrollrat-nkr`.
 
 ## Inhaltsverzeichnis
 

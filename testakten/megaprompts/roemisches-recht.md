@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 255 Skills (gekuerzt fuer Chat-Fenster) des Plugins `roemisches-recht`.
+Dieser Megaprompt enthaelt top-8 von 233 Skills (gekuerzt fuer Chat-Fenster) des Plugins `roemisches-recht`.
 
 ## Inhaltsverzeichnis
 
@@ -13,7 +13,7 @@ Dieser Megaprompt enthaelt top-8 von 255 Skills (gekuerzt fuer Chat-Fenster) des
 5. **receptum-nautarum-cauponum-stabulariorum** — Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern…
 6. **cessio-bonorum-lex-iulia** — Cessio bonorum nach der Lex Iulia: freiwillige Vermögensabtretung des Schuldners an die Gläubiger als Vorlaeufer der Pri…
 7. **pignus-conventum-hypotheca-praxisfaelle** — Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Skill behandelt die Unterschiede zwischen pi…
-8. **constitutio-antoniniana-actio-denken** — Constitutio Antoniniana 212 n. Chr: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite d…
+8. **paulianische-anfechtung-fortwirkung** — Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill behandelt die dogmengeschichtliche Linie von der actio …
 
 ---
 
@@ -326,37 +326,51 @@ _Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Ski
 
 ---
 
-## Skill: `constitutio-antoniniana-actio-denken`
+## Skill: `paulianische-anfechtung-fortwirkung`
 
-_Constitutio Antoniniana 212 n. Chr: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite die mutmasslichen Motive (Steuern aus vicesima hereditatum) die Beschraenkung auf bestimmte dediticii sowie die rechtshistorische Folge. Liefert Quellenmatrix im Römisches Recht._
+_Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill behandelt die dogmengeschichtliche Linie von der actio Pauliana ueber das BGB-AnfG (1879/1994) bis zu den §§ 129 ff. InsO. Klaert die Strukturparallelen und Abweichungen bei Vorsatzanfechtung Inkongruenz und unentgeltlichen Leistung_
 
-# Rom 153 Constitutio Antoniniana 212 Allgemeine Buergerrechtsverleihung
+# Rom 118 Paulianische Anfechtung Fortwirkung Anfg Inso
 
-## Quellenanker
+## Strukturparallelen
 
-- **Gaius, Institutiones 1.9-1.17** — Statusabstufungen: cives, Latini, peregrini
-- **D. 1.5.17 (Ulpian)** — in orbe Romano qui sunt ex constitutione imperatoris Antonini cives Romani effecti sunt
-- **Cassius Dio 78.9** — Constitutio Antoniniana 212 n. Chr. — fiskalische Motive der Bürgerrechtsverleihung
-- **lex Irnitana (Flavisches Stadtgesetz)** — Munizipalverfassung: ius Latii, Bürgerrechtserwerb durch Ämter
+| actio Pauliana | AnfG | InsO |
+|---|---|---|
+| consilium fraudis | Vorsatz Schuldner § 3 | Vorsatz § 133 |
+| scientia des Dritten | Kenntnis Dritter § 3 | Kenntnis § 133 |
+| unentgeltliches Geschäft (keine scientia noetig) | § 4 | § 134 |
+| nahestehende Personen Vermutung | § 6 | § 138 |
+| annus utilis | 4-10 Jahre Frist | 4-10 Jahre Frist |
+| Restitution durch bonorum emptor | Rueckgewaehr § 11 AnfG | Rueckgewaehr § 143 InsO |
 
-## Kernregeln
+## Abweichungen
 
-Das römische Bürgerrecht bündelt ius suffragii (Stimmrecht), ius honorum (Ämterfähigkeit), conubium (Ehefähigkeit nach ius civile) und commercium (Teilnahme an mancipatio, Testament). Latiner haben commercium, meist kein conubium; peregrini leben nach ius gentium und ihrem Heimatrecht. Die Constitutio Antoniniana (212) verlieh fast allen Reichsbewohnern das Bürgerrecht — Folge: ius civile wurde Reichsrecht, Provinzialpraxis und klassisches Recht verschmolzen (Vulgarisierung).
+### Vorsatz vs. consilium
+- Roemisches Recht: Bewusstsein der Schaedigung.
+- Modernes Recht: Gläubigerbenachteiligungsvorsatz.
 
-## Moderne Parallele
+### Frist
+- annus utilis: ein "nutzbares" Jahr ab Kenntnis.
+- AnfG / InsO: bis 10 Jahre (Vorsatzanfechtung).
 
-Moderne Parallelen: gestuftes Aufenthalts-/Staatsangehörigkeitsrecht (StAG), Unionsbürgerschaft Art. 20 AEUV als 'commercium und Freizügigkeit ohne volle politische Rechte' auf Bundesstaatsebene gedacht.
+### Inkongruenz
+- Roemisches Recht: nicht ausdifferenziert.
+- InsO § 131: eigene Kategorie.
 
-## Typische Fehler
+## Rezeption
 
-Die Constitutio Antoniniana nicht als humanitären Akt lesen — Steuerpflicht (vicesima hereditatium) war Hauptmotiv. Nach 212 nicht weiter scharf zwischen cives und peregrini argumentieren, außer für dediticii.
+- Glossatoren des 12./13. Jh. (Bologna) bearbeiteten D. 42.8 systematisch.
+- Pandektisten (Savigny, Windscheid) entwickelten die actio Pauliana zur "allgemeinen Gläubigeranfechtungsklage".
+- BGB-Gesetzgeber 1900 verzichtete auf Aufnahme ins BGB, weil AnfG (1879) bereits geregelt.
+- AnfG 1879 als selbständiges Gesetz; Reformen 1899, 1994 (im Zuge der Insolvenzrechtsreform).
 
-## Arbeitsweise
+## Prüfraster
 
-1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
-2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
-3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
-4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.
+1. Welcher Tatbestand?
+2. Welche Frist?
+3. Beweislage?
+4. Rechtsfolge Restitution?
+5. Quellenmatrix.
 
 ---
 

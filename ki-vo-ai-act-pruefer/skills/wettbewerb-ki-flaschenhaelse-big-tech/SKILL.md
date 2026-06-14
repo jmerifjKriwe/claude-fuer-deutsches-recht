@@ -1,32 +1,22 @@
 ---
 name: wettbewerb-ki-flaschenhaelse-big-tech
-description: "KI und Wettbewerb: Daten-, Compute-, Modell-, Cloud-, Talent- und Vertriebskontrolle als Flaschenhaelse. Prüft Art. 101/102 AEUV, GWB, DMA-Schnittstellen, Zugang, Selbstbevorzugung, Exklusivitaet und kartellrechtliche Remedies."
+description: "KI-Flaschenhälse und Big-Tech-Wettbewerb: Datenzugang, Cloud-Abhängigkeit, Modellzugang, Selbstbevorzugung, Interoperabilität, Kartellrecht, DMA/DSA/Data Act und Beschaffungsrisiken."
 ---
 
-# KI-Flaschenhälse und Wettbewerb
+# KI-Flaschenhälse, Big Tech und Wettbewerb
 
-## Ziel
+## Prüfansatz
 
-Der Skill hilft, KI-Geschäftsmodelle kartellrechtlich zu lesen: Wer kontrolliert die Engpässe, wer wird abhängig, wo entstehen Ausschluss- oder Ausbeutungsrisiken?
+Untersuche, ob ein KI-Projekt durch Gatekeeper, Cloud Lock-in, exklusive Daten, Modellzugang, API-Konditionen, Bündelung oder Selbstbevorzugung wirtschaftlich verengt wird. Ziel ist eine Entscheidungsnotiz für Einkauf, Legal, Geschäftsführung oder Kartellrechtsmandat.
 
-## Engpasskarte
+## Normenanker
 
-- Rechenleistung/GPU-Zugang.
-- Cloud- und Modellinfrastruktur.
-- Trainingsdaten und Nutzerfeedback.
-- Verteilkanäle: Betriebssysteme, App Stores, Office-Suites, Suchmaschinen.
-- Talent, Forschungspartnerschaften, Exklusivlizenzen.
-- Model weights, APIs, Fine-tuning-Zugänge.
+- AEUV Art. 101, 102; GWB §§ 1, 19, 19a, 20.
+- DMA VO (EU) 2022/1925: Gatekeeper-Pflichten, Selbstbevorzugung, Interoperabilität, Datenzugang.
+- DSA VO (EU) 2022/2065 bei Plattform- und Transparenzfragen.
+- Data Act VO (EU) 2023/2854 bei Datenzugang und Wechselrechten.
+- VO (EU) 2024/1689: KI-Compliance darf Wettbewerbsrisiken nicht verdecken.
 
-## Prüffragen
+## Arbeitsprodukt
 
-1. Gibt es Marktbeherrschung oder Gatekeeper-Nähe?
-2. Werden Wettbewerber vom Zugang abgeschnitten?
-3. Gibt es Selbstbevorzugung oder Bündelung?
-4. Sind Exklusivvereinbarungen nötig oder marktabschottend?
-5. Werden Daten aus einem Markt in einen KI-Markt übertragen?
-6. Welche Abhilfe: Zugang, Interoperabilität, FRAND, Entflechtung, Verhaltenszusage?
-
-## Schnittstelle
-
-Kartellrecht ist nicht Teil der KI-VO, aber in KI-Projekten häufig das härtere wirtschaftliche Problem.
+Matrix: Anbieter, Abhängigkeit, Wechselkosten, Datenportabilität, technische Schnittstellen, Vertragsklauseln, Kartellrisiko, Gegenmaßnahme. Gib konkrete Verhandlungs- und Dokumentationspunkte aus.

@@ -126,7 +126,7 @@ Automatisch generierte Komplett-Liste aller 157 Skills in diesem Plugin. Beschre
 | `besold-landesbesoldung-foederalismus-und-synopse` | Beamtenrecht: Landesbesoldung Föderalismus und Synopse im Beamtenrecht. |
 | `besold-mehrarbeit-verguetung-freizeitausgleich-beamte` | Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Beamtenrecht. |
 | `besold-musterverfahren-ruhen-verjaehrung-nachzahlung` | Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung im Beamtenrecht. |
-| `besold-neu-009-mindestabstandsgebot-buergergeld-vergleichsberech` | Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung im Beamtenrecht. |
+| `besold-neu-009-mindestabstand-buergergeld-vergleich` | Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung im Beamtenrecht. |
 | `besold-neu-014-dienstunfall-unfallausgleich-heilverfahren` | Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamtenrecht. |
 | `besold-neu-016-besoldungswiderspruch-zeitnahe-geltendmachung` | Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Beamtenrecht. |
 | `besold-neu-018-konkurrentenschutz-eilrechtsschutz-ernennungssper` | Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre im Beamtenrecht. |
@@ -176,7 +176,7 @@ Automatisch generierte Komplett-Liste aller 157 Skills in diesem Plugin. Beschre
 | `generator-beamtenrecht-fuersorgepflicht` | Formular- und Textgenerator für Widerspruch, Akteneinsicht, Beihilfe, Personalakte, Dienstunfall, Remonstration und Eilantrag im Beamtenrecht. |
 | `geschaeftsverteilung-richter-21e-gvg` | Skill zur richterlichen Geschäftsverteilung nach § 21e GVG und zum verfassungsrechtlichen Anspruch auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG. Klaert das Praesidium die Aufstellung des Geschäftsverteilungsplans zu Beginn... |
 | `geschenke-korruption-compliance` | Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst im Beamtenrecht. |
-| `heilfuersorge-ruhestand-vs` | Heilfürsorge, Ruhestand und PKV-Anwartschaft: Polizei, Feuerwehr, Justizvollzug, Soldatenschnittstellen, Übergang in Beihilfe und Versicherungslücken im Beamtenrecht. |
+| `heilfuersorge-ruhestand-pkv-anwartschaft` | Heilfürsorge, Ruhestand und PKV-Anwartschaft: Polizei, Feuerwehr, Justizvollzug, Soldatenschnittstellen, Übergang in Beihilfe und Versicherungslücken im Beamtenrecht. |
 | `heilfuersorge-vs-beihilfe-vollzugsdienst` | Skill zur Abgrenzung Heilfürsorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfürsorge für Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenversi... |
 | `hinterbliebenenversorgung-witwen-waisen` | Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Volle... |
 | `hochschule-professoren-kommunalbeamte` | Hochschulbeamte und Professoren: Berufung, W-Besoldung, Leistungsbezüge, Nebentätigkeit und Freiheit von Forschung und Lehre im Beamtenrecht. |

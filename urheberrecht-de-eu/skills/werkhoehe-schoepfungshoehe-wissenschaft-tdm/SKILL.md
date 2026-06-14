@@ -20,7 +20,7 @@ description: "Prüft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Origin
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei trennt Idee, Stil, Technik, Methode, Genre und nicht schutzfähige Gemeinplätze von konkretem Ausdruck. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Dieser Arbeitsgang trennt Idee, Stil, Technik, Methode, Genre und nicht schutzfähige Gemeinplätze von konkretem Ausdruck. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 

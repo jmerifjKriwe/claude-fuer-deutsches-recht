@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 90 Skills des Plugins `weg-hausverwaltung`.
+Dieser Megaprompt enthaelt top-10 von 88 Skills des Plugins `weg-hausverwaltung`.
 
 ## Inhaltsverzeichnis
 

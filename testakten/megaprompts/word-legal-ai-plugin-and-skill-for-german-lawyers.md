@@ -9,7 +9,7 @@ Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `word-legal-ai-plugi
 1. **writing-einstieg-routing** — Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad.
 2. **orientierung-drafting-partner-kommentar** — Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und …
 3. **agb-konforme-klauseln-305-310-bgb** — Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, meh…
-4. **anspruchsgrundlage-rechtsfolgen-b2b-vs** — Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen…
+4. **anspruchsgrundlage-rechtsfolge-b2b-klauseln** — Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen…
 5. **anwaltsschreiben-aussergerichtlich** — Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verz…
 6. **b2b-vs-b2c-klausel-strategie** — Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB…
 7. **bedingungen-aufschiebend-aufloesend-fristen** — Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesend…
@@ -36,7 +36,7 @@ Dieser Einstieg routet **Word Legal Ai Plugin And Skill For German Lawyers** vom
 
 ## Fachlandkarte dieses Plugins
 
-- `anspruchsgrundlage-rechtsfolgen-b2b-vs` — Anspruchsgrundlage Rechtsfolgen B2b Vs
+- `anspruchsgrundlage-rechtsfolge-b2b-klauseln` — Anspruchsgrundlage Rechtsfolgen B2b Vs
 - `anwaltsschreiben-aussergerichtlich-argumentationsarchitektur` — Anwaltsschreiben Aussergerichtlich Argumentationsarchitektur
 - `bilingual-drafting-cowork-cloud` — Bilingual Drafting Cowork Cloud
 - `bilinguales-writing-englische-vertraege` — Bilinguales Writing Englische Verträge
@@ -280,7 +280,7 @@ Mustertext (Einbeziehungsklausel, B2C-Onlineshop):
 
 ---
 
-## Skill: `anspruchsgrundlage-rechtsfolgen-b2b-vs`
+## Skill: `anspruchsgrundlage-rechtsfolge-b2b-klauseln`
 
 _Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtel..._
 

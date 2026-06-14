@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 91 Skills des Plugins `normenkontrolle-bauleitplanung`.
+Dieser Megaprompt enthaelt top-10 von 89 Skills des Plugins `normenkontrolle-bauleitplanung`.
 
 ## Inhaltsverzeichnis
 

@@ -51,24 +51,22 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `anleiheemission` | Prüft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte im Insiderrecht Compliance. |
 | `archivierung` | Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept im Insiderrecht Compliance. |
 | `aufschubentscheidung-market` | Prüft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht im Insiderrecht Compliance. |
-| `aufsichtsratssonderpr` | Prüft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht im Insiderrecht Compliance. |
+| `aufsichtsrat-sonderpruefung-insiderrecht` | Prüft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht im Insiderrecht Compliance. |
 | `bankaufsichtliches-handeln` | Analysiert Insiderrecht bei bankaufsichtsrechtlichen Maßnahmen (KWG, SSM): Vertraulichkeit, Ad-hoc-Pflicht und Koordination mit BaFin/EZB im Insiderrecht Compliance. |
 | `berater-kanzlei-bank` | Prüft insiderrechtliche Pflichten externer Berater (Anwaelte, WPs, Banken): Insiderliste, Handelsverbot, Chinesische Mauern und Haftungsrisiken im Insiderrecht Compliance. |
 | `beraterdepot-employee` | Prüft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten im Insiderrecht Compliance. |
-| `bernahmeangebot` | Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten im Insiderrecht Compliance. |
-| `chatgruppe-familienangeh` | Prüft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG im Insiderrecht Compliance. |
 | `closed-periods` | Verwaltet Closed Periods nach Art. 19 Abs. 11 MAR: Berechnung, Kommunikation, Ausnahmenantrag und Handelssperren-Monitoring im Insiderrecht Compliance. |
 | `covenant-cyberangriff` | Prüft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Gläubiger-Kommunikation im Insiderrecht Compliance. |
 | `cyberangriff` | Prüft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik im Insiderrecht Compliance. |
-| `datenraum-kapitalerh` | Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) gegen Insiderrecht-Risiken: Zugangskontrolle, Protokollierung und Exit-Management im Insiderrecht Compliance. |
-| `delisting-bernahmeangebot` | Prüft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss im Insiderrecht Compliance. |
+| `datenraum-kapitalerhoehung-insiderrecht` | Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) gegen Insiderrecht-Risiken: Zugangskontrolle, Protokollierung und Exit-Management im Insiderrecht Compliance. |
+| `delisting-uebernahmeangebot` | Prüft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss im Insiderrecht Compliance. |
 | `directors-closed` | Prüft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen im Insiderrecht Compliance. |
-| `dividenden-nderung` | Prüft Insiderinformations-Entstehung bei Dividendenaenderungen: Vorstandsvorschlag, AR-Billigung, Kapitalmarktkonsensus-Abweichung und Ad-hoc-Pflicht im Insiderrecht Compliance. |
+| `dividendenaenderung` | Prüft Insiderinformations-Entstehung bei Dividendenaenderungen: Vorstandsvorschlag, AR-Billigung, Kapitalmarktkonsensus-Abweichung und Ad-hoc-Pflicht im Insiderrecht Compliance. |
 | `dual-listed-issuer` | Koordiniert MAR-Pflichten für Dual-Listed-Emittenten: parallele Ad-hoc-Pflichten, Sprachfassungen, Zeitzonenkonflikte und multiple Regulatoren im Insiderrecht Compliance. |
 | `employee-rumor` | Bewertet Mitarbeiter-Geruechte ueber Insiderwissen: Klärungspflichten des Compliance-Officers, Insiderlisten-Folgen und Eskalation im Insiderrecht Compliance. |
 | `employee-schulung` | Prüft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten im Insiderrecht Compliance. |
 | `esg-lieferkettenereignis` | Prüft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei ESG-Schockereignissen (Umweltvorfaelle, Governance-Skandale, Social-Misstaende) im Insiderrecht Compliance. |
-| `familienangeh-rige` | Prüft Handelsverbote und Meldepflichten für Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko im Insiderrecht Compliance. |
+| `familienangehoerige` | Prüft Handelsverbote und Meldepflichten für Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko im Insiderrecht Compliance. |
 | `gerichtsverfahren-sanktionen` | Prüft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen im Insiderrecht Compliance. |
 | `guidance-analystencall` | Prüft wann ein Guidance-Update (Prognoseaenderung) zur Insiderinformation wird, koordiniert Ad-hoc und schreibt den Prognose-Passus im Insiderrecht Compliance. |
 | `handelsverbot-unlawful` | Prüft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von Absicht, analysiert Safe-Harbour-Ausnahmen und stellt Verteidigungsdokumentation sicher im Insiderrecht Compliance. |
@@ -77,13 +75,14 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `insiderliste-art18` | Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung im Insiderrecht Compliance. |
 | `insolvenzreife` | Prüft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen im Insiderrecht Compliance. |
 | `kaltstart-triage` | Kaltstart Insiderrecht im Insiderrecht und Compliance: Erzwingt eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt. |
-| `kapitalerh-hung` | Prüft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht im Insiderrecht Compliance. |
+| `kapitalerhoehung-insiderrecht` | Prüft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht im Insiderrecht Compliance. |
 | `ki-archivierung` | Prüft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen im Insiderrecht Compliance. |
 | `krisenfall-profit-warning` | Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates im Insiderrecht Compliance. |
 | `krypto-warenderivate` | Prüft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced Token: MiCA-Abgrenzung, Insiderrecht für Krypto-Assets und Marktmanipulationsverbote im Insiderrecht Compliance. |
 | `leak-krisenfall` | Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation im Insiderrecht Compliance. |
 | `lieferkettenereignis` | Prüft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei wesentlichen Lieferkettenereignissen (Lieferantenausfall, Rohstoffengpass, Geopolitik) im Insiderrecht Compliance. |
 | `market-sounding` | Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management im Insiderrecht Compliance. |
+| `messenger-chatgruppen-insiderhandel` | Prüft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG im Insiderrecht Compliance. |
 | `output-dossier` | Erstellt ein vollstaendiges Compliance-Dossier für BaFin-Anfragen, interne Audits oder Strafverteidigung aus allen Insiderrecht-Workproducts. |
 | `produktzulassung-whistleblower` | Prüft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc im Insiderrecht Compliance. |
 | `red-team` | Fuehrt adversariales Red-Team-Review gegen Insiderrecht-Compliance-Argumente durch: Findet Schwachstellen, baut Gegenthesen und empfiehlt Absicherung. |
@@ -95,6 +94,7 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `social-media-leak` | Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn, Reddit): Kursrelevanz-Bewertung, Ad-hoc-Pflicht, Nichtoeffentlichkeit und forensische Dokumentation im Insiderrecht Compliance. |
 | `spin-short` | Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Tochter sowie Post-Separation-Pflichten im Insiderrecht Compliance. |
 | `stimmrechtsmitteilung-social` | Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und Insider-Trading-Risiken bei Paketkauf im Insiderrecht Compliance. |
+| `uebernahmeangebot` | Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten im Insiderrecht Compliance. |
 | `unlawful-disclosure` | Prüft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab im Insiderrecht Compliance. |
 | `vorstand-berater` | Prüft Insiderrecht-Pflichten von Vorstand und Aufsichtsrat: Wissenszurechnung, Geschäftsordnungspflichten, AktG-Beziehung und Haftungsrisiken im Insiderrecht Compliance. |
 | `vorstandswechsel-dividenden` | Prüft Insiderrecht bei Vorstandswechseln: Zeitpunkt der Insiderinformation, Ad-hoc-Pflicht, Abberufung vs. Ruecktritt und Vertraulichkeitspflichten im Insiderrecht Compliance. |

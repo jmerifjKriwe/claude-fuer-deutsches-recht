@@ -11,7 +11,7 @@ Diese Unterlagenprüfung für **Word Legal Ai Plugin And Skill For German Lawyer
 
 ## Fachlandkarte dieses Plugins
 
-- `anspruchsgrundlage-rechtsfolgen-b2b-vs` — Anspruchsgrundlage Rechtsfolgen B2b Vs
+- `anspruchsgrundlage-rechtsfolge-b2b-klauseln` — Anspruchsgrundlage Rechtsfolgen B2b Vs
 - `anwaltsschreiben-aussergerichtlich-argumentationsarchitektur` — Anwaltsschreiben Aussergerichtlich Argumentationsarchitektur
 - `bilingual-drafting-cowork-cloud` — Bilingual Drafting Cowork Cloud
 - `bilinguales-writing-englische-vertraege` — Bilinguales Writing Englische Verträge

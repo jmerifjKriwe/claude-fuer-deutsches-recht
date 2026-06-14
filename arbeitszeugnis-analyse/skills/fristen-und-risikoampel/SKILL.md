@@ -1,40 +1,22 @@
 ---
 name: fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin Arbeitszeugnis Analyse im Arbeitszeugnis-Analyse."
+description: "Fristen- und Risikoampel im Arbeitszeugnisrecht: GewO § 109, BGB §§ 195/199 sowie 241 Abs. 2 und 280; arbeitsvertragliche Ausschlussfristen und ArbGG-Fristen aktenbasiert sortieren, ohne unnötige Rückfragen."
 ---
 
-# Fristen- und Risikoampel
+# Fristen- und Risikoampel Arbeitszeugnis
 
-## Fachlicher Anker
+## Arbeitsauftrag
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Ordne eine Zeugnisakte sofort nach Frist, Risiko und nächstem sicheren Schritt. Lies zuerst Zeugnis, Änderungswunsch, Arbeitsvertrag, Beendigungsdokument, Vergleich, E-Mail-Verkehr und etwaige Ausschlussfristen. Frage nur nach, wenn Datum, Zugang oder Vertragsgrundlage fehlen.
 
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+## Normenanker
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+- GewO § 109: Anspruch auf klares, wahres und wohlwollendes Zeugnis.
+- BGB §§ 195, 199: regelmäßige Verjährung; Beginn erst bei Anspruchsentstehung und Kenntnis.
+- BGB §§ 241 Abs. 2, 280: Rücksichtnahme- und Schadensersatzrisiken bei unrichtigem Zeugnis.
+- ArbGG §§ 61a, 64, 66: arbeitsgerichtlicher Ablauf und Rechtsmittelkontext.
+- Arbeits- oder Tarifvertrag: Ausschlussfristen, Textform, Fälligkeit und Geltendmachung streng am Dokument prüfen.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Ausgabe
 
-## Zeugnis-spezifische Fristen- und Risikoampel
-
-| Risiko-Punkt | Norm/Quelle | Frist | Ampel |
-| --- | --- | --- | --- |
-| Zeugnisanspruch nach Beendigung | § 109 GewO | grundsätzlich sofort fällig, Verwirkung typischerweise nach ca. 10 Monaten | Gelb |
-| Berichtigungsklage / Berichtigungsantrag | § 109 GewO, allgemeine Verjährung § 195 BGB | drei Jahre Verjährung; Verwirkung früher möglich | Gelb |
-| Tarifvertragliche Ausschlussfristen | TV-spezifisch | meist 3-6 Monate ab Fälligkeit | Rot bei Tarifbindung |
-| Beweislastumkehr bei Note 4/5 | BAG ständige Rechtsprechung | innerhalb Verfahren | Grün für AN bei schlechter Note |
-| Bindung an Zwischenzeugnis | BAG ständige Rechtsprechung | bei Schlusszeugnis | Grün für AN |
-| Schlusszeugnis vs. einfaches Zeugnis | § 109 Abs. 1 Satz 3 GewO | bei jeder Beendigung qualifiziert auf Verlangen | Grün |
-
-Eilbedarf besonders bei: bevorstehendem Bewerbungsschluss, drohender Insolvenz des Arbeitgebers, Auslandseinsatz, abgeschlossener Personalakte.
-
+Erzeuge eine Ampel mit: sofortige Handlung, Fristdatum, Beleg, Risiko, Gegenargument, Entwurf für Arbeitgeberanschreiben oder Klageziel. Trenne Zeugnisberichtigung, Zeugnisneuerteilung, Schadensersatz und Vergleichsvollzug.

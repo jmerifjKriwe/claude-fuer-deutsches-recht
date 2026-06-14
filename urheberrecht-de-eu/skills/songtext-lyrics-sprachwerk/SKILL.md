@@ -20,7 +20,7 @@ description: "Prüft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmen
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei behandelt Songtexte ohne fremde Lyrics zu reproduzieren und trennt literarischen Ausdruck von Alltagsphrase. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Dieser Arbeitsgang behandelt Songtexte ohne fremde Lyrics zu reproduzieren und trennt literarischen Ausdruck von Alltagsphrase. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 

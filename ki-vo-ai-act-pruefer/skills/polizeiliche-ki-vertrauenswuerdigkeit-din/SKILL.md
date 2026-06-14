@@ -1,37 +1,22 @@
 ---
 name: polizeiliche-ki-vertrauenswuerdigkeit-din
-description: "Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation für Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz."
+description: "Polizeiliche KI und vertrauenswürdige technische Standards: Rechtsgrundlage, Grundrechte, Hochrisiko-/verbotene Praktiken, Datenqualität, Bias, Protokollierung und Beschaffungsnachweise."
 ---
 
-# Polizeiliche KI: Vertrauenswürdigkeit und Auditierbarkeit
+# Polizeiliche KI und Vertrauenswürdigkeit
 
-## Einsatzfälle
+## Prüfansatz
 
-- Bild- oder Videoanalyse.
-- Lagebild- und Einsatzpriorisierung.
-- Ermittlungsassistenz.
-- Mustererkennung in Massendaten.
-- Übersetzung, Transkription, Kommunikationsanalyse.
-- Prognose- oder Risikomodelle.
+Polizeiliche KI ist nie nur Technikbeschaffung. Prüfe zuerst Zweck, Eingriffstiefe, Datenquelle, Rechtsgrundlage, menschliche Kontrolle, Fehlerfolgen und Nachvollziehbarkeit. Standards helfen als Evidence, ersetzen aber keine Eingriffsermächtigung.
 
-## Prüffragen
+## Normenanker
 
-1. Rechtsgrundlage und Zweck: Gefahrenabwehr, Strafverfolgung, Verwaltung?
-2. KI-VO: Anhang III Strafverfolgung oder Biometrie betroffen?
-3. Daten: Herkunft, Qualität, Bias, Aktualität, Löschung.
-4. Menschliche Kontrolle: Wer darf übersteuern und wie wird das dokumentiert?
-5. Audit: Logs, Modellversion, Trainings-/Testdaten, Fehlerraten.
-6. Grundrechte: Einschüchterung, Diskriminierung, Versammlungsfreiheit, Datenschutz.
-7. Beschaffung: Anforderungen in Leistungsbeschreibung und Vertrag.
+- GG Art. 1, 2 Abs. 1 i.V.m. informationeller Selbstbestimmung, Art. 3, 8, 10, 13, 19 Abs. 4.
+- VO (EU) 2024/1689 Art. 5, 6, 9-15, 26, 27: verbotene Praktiken, Hochrisiko, Betreiberpflichten, Grundrechte-Folgenabschätzung.
+- DSGVO/JI-Richtlinie-Umsetzung im BDSG und Landespolizeirecht je nach Datenverarbeitung.
+- StPO bei repressivem Einsatz; Landespolizeigesetze bei präventivem Einsatz.
+- Vergaberecht: GWB/VgV bei Beschaffung und Leistungsbeschreibung.
 
-## Mindestanforderungen
+## Arbeitsprodukt
 
-- Zweckbindung statt Datenstaubsauger.
-- dokumentierte Fehlerraten und Grenzen.
-- unabhängige Überprüfung kritischer Treffer.
-- klare Nichtnutzungsszenarien.
-- Betroffenen- und Rechtsschutzperspektive.
-
-## Warnung
-
-Bei Polizei-KI ist "Treffer" nur ein Hinweis. Er darf nicht unbemerkt zum Beweis, zur Verdachtsbegründung oder zur Einsatzentscheidung mutieren.
+Erstelle eine Beschaffungs-/Einsatzampel mit Rechtsgrundlage, Datenqualität, Bias-Test, Logging, menschlicher Aufsicht, Löschkonzept, Betroffenenrechten, Fehlerfolgen und Abbruchkriterien.

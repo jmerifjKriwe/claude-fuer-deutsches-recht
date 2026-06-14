@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 93 Skills des Plugins `berufsrecht-ki-vertragspruefung`.
+Dieser Megaprompt enthaelt top-10 von 89 Skills des Plugins `berufsrecht-ki-vertragspruefung`.
 
 ## Inhaltsverzeichnis
 

@@ -1,20 +1,22 @@
 ---
 name: output-generative-ki-werkhoehe-rechtekette
-description: "Output generativer KI: Werkhoehe, menschlicher Schoepfungsbeitrag, Bearbeitung, Rechtekette, Haftung, Lizenzierung, Kennzeichnung und Nutzungsfreigabe für Text, Bild, Musik, Code, Vertriebsunterlagen und Kanzleiprodukte."
+description: "Output generativer KI: Werkhöhe, menschlicher Beitrag, Rechtekette, Prompt-/Editing-Protokoll, Persönlichkeitsrechte und Vertragszusicherung für KI-generierte Texte, Bilder, Musik und Code."
 ---
 
-# Generativer Output: Werkhöhe und Rechtekette
+# KI-Output, Werkhöhe und Rechtekette
 
-## Prüfraster
+## Prüfansatz
 
-1. **Input:** Welche Prompts, Vorlagen, Referenzen, Uploads wurden genutzt?
-2. **Menschlicher Beitrag:** Auswahl, Konzeption, Iteration, Bearbeitung, Komposition, finale Gestaltung.
-3. **Output-Nähe:** Ähnlichkeit zu bekannten Werken, Marken, Figuren, Melodien, Code-Snippets.
-4. **Werkhöhe:** Liegt eine menschlich geprägte persönliche geistige Schöpfung vor oder nur maschinischer Zufall?
-5. **Rechtekette:** Wer darf was nutzen: Toolanbieter, Nutzer, Auftraggeber, Arbeitnehmer, Freelancer?
-6. **Kennzeichnung:** Art. 50 KI-VO, Plattformregeln, Branchenregeln.
-7. **Haftung:** Urheberrecht, UWG, Persönlichkeitsrecht, Vertragsgewährleistung.
+Bewerte nicht pauschal „KI-Output ist frei“. Entscheidend ist, ob ein menschlicher schöpferischer Beitrag erkennbar und dokumentiert ist, ob geschütztes Drittmaterial reproduziert wurde und welche Zusicherungen gegenüber Kunden, Verlag, Plattform oder Gericht tragfähig sind.
 
-## Grundsatz
+## Normenanker
 
-Nicht jeder KI-Output ist frei nutzbar. Nicht jeder KI-Output ist schutzlos. Entscheidend ist der konkrete menschliche Beitrag und die Nähe zu fremdem Material.
+- UrhG §§ 2, 7, 15 ff., 23, 31 ff.: Werkqualität, Urheberschaft, Bearbeitung, Nutzungsrechte.
+- UrhG §§ 69a ff. bei Softwarecode; §§ 70 ff. bei Leistungsschutzrechten.
+- KUG §§ 22, 23 und BGB §§ 823, 1004 analog bei Bildnis/Persönlichkeitsrecht.
+- DSGVO Art. 5, 6, 9 bei personenbezogenem Output oder Trainings-/Promptdaten.
+- VO (EU) 2024/1689 Art. 50, 53 bei Transparenz/GPAI-Kontext.
+
+## Arbeitsprodukt
+
+Gib eine Rechtekettennotiz aus: menschliche Beiträge, Prompt-/Editierprotokoll, Drittmaterial-Screening, Ähnlichkeitsprüfung, Rechtezusicherung, Kennzeichnungspflicht, Nutzungsrechtsklausel und rote Punkte für Veröffentlichung.

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 85 Skills des Plugins `forschungszulage-antragstellung`.
+Dieser Megaprompt enthaelt top-10 von 81 Skills des Plugins `forschungszulage-antragstellung`.
 
 ## Inhaltsverzeichnis
 

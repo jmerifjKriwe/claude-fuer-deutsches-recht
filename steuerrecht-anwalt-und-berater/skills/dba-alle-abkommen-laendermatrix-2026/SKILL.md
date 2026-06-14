@@ -88,7 +88,7 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 | Sachverhaltstyp | Erste Anlaufstelle (Skill) | Querverweis |
 |---|---|---|
 | Quellensteuer-Erstattung | `stb-dba-quellensteuer-erstattung-bzst-50c-estg` | `stb-dba-dividenden-quellensteuer-art-10`, `stb-dba-lizenzgebuehren-art-12-bzst` |
-| BS im Ausland | `stb-dba-betriebsstaette-art-5-musterabkommen` | Land-Skill, `stb-dba-methodenartikel-anrechnung-vs-freistellung` |
+| BS im Ausland | `stb-dba-betriebsstaette-art-5-musterabkommen` | Land-Skill, `stb-dba-anrechnung-vs-freistellung-methodenartikel-freistellung` |
 | Wegzug § 6 AStG | `stb-dba-ansaessigkeit-tie-breaker-rules` | Land-Skill, `stb-dba-rentner-pensionen-art-18` |
 | Doppelbesteuerung trotz DBA | `stb-dba-map-eu-streitbeilegung` | `stb-dba-grundprinzip-oecd-musterabkommen` |
 | Hybridgesellschaft (LLC, LP) | `stb-dba-edge-cases-playbook` | Land-Skill, `stb-dba-grundprinzip-oecd-musterabkommen` |

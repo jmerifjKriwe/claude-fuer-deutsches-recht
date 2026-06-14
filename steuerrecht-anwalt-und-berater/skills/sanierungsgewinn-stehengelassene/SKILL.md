@@ -332,7 +332,7 @@ Andere Plugins:
 
 - `insolvenzrecht/skills/insol-sanierungsgewinn-forderungsverzicht-im-plan-bilanzielle-folgen`
 - `insolvenzrecht/skills/insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan`
-- `grosskanzlei-corporate-ma/skills/gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+- `grosskanzlei-corporate-ma/skills/gk-sanierungsgewinn-forderungsverzicht-vs-8c-kstg-mantelkauf-8c-kstg`
 
 ## 12. Quellenverzeichnis (Stand 06/2026)
 

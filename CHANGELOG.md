@@ -1,3 +1,37 @@
+# v316.0.0 — Skill-Qualitätsrelease: Boilerplate entfernt, Dubletten bereinigt, Normanker nachgezogen
+
+Qualitätsrelease über v315 nach Integration des aktuellen `main`-Standes. Fokus: Skills müssen in Claude/Cowork sprechend auffindbar sein, ohne Entstehungsgeschichte, ohne Sammelskill-Artefakte und ohne doppelte identische Bodies.
+
+## Skill-Hygiene
+
+- 386 alte workflowartige Template-Skills fachgebietsspezifisch neu formuliert: Aktenstart ohne Leerlauf, konkrete Fachanker, Belegmatrix, Risikoampel und direkt nutzbares Arbeitsprodukt.
+- Letzte 10 alte Template-Skills in Arbeitszeugnis, Liquiditätsplanung und Subsumtionsprüfer individuell repariert.
+- 10 sehr kurze Low-Anchor-Skills in KI-VO, Verhältnismäßigkeit, öffentlichem Wirtschaftsrecht und Solo-Selbstständigen-Praxis mit konkreten Normen und Arbeitsprodukten angereichert.
+- 46 exakt doppelte Skill-Ordner entfernt; drei falsch befüllte Spezialskills fachlich auseinandergezogen. Ergebnis: keine exakt identischen Skill-Bodies mehr.
+
+## Slug- und Namensreparaturen
+
+- Mehrere gekappte oder merkwürdige Skillnamen repariert, u. a. im Insiderrecht, Beamtenrecht, Common-Law-Kompass, Steuerrecht, Strafanzeige-Vorbereiter, Wandeldarlehen und Word-Legal-Writing.
+- Frontmatter-`name` überall mit dem Skill-Ordner abgeglichen.
+
+## Regeneration und Validatoren
+
+- Megaprompts für alle 213 Plugins neu erzeugt.
+- `README`-Skillblöcke, `SKILLS.md` und `skills-index/` neu generiert.
+- Validatoren: YAML-Frontmatter 0 Fehler/0 Warnungen, Plugin-Struktur OK, Testakten-Gesamt-PDF OK (204 Testakten), `git diff --check` OK.
+
+## Kennzahlen
+
+| Kennzahl | Wert |
+|---|---:|
+| Plugins | 213 |
+| Skills (SKILL.md) | 20.835 |
+| Testakten (mit gesamt-pdf) | 204 |
+| Exakt doppelte Skill-Bodies | 0 |
+| Treffer alte Bündelungs-/Template-Artefakte | 0 |
+
+---
+
 # v315.0.0 — Veredelung: Plugin-Keywords vervollständigt, Validator beschleunigt, Codex-Schutzhinweise
 
 Veredelungs-Release über v314 (Welle 4). Keine Skill-Inhalte geändert, keine Plugin-Strukturen umgebaut.

@@ -1,36 +1,24 @@
 ---
 name: 023-zweiter-gemeinderecht-staedte
-description: "PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei: Bearbeite den zweiten Teil Gemeinderecht Städte Dörfer Polizei im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlage..."
+description: "PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
 ---
 
 # PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei
 
-## Kaltstart in 6 Fragen
+## Arbeitsauftrag
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Bestimme zuerst die genaue ALR-Stelle: Teil, Titel, Abschnitt und Paragraphenbereich; bei Normblock-Skills den betroffenen Abschnitt nicht kuenstlich auf heutige Kategorien verengen.
+- Arbeite quellenkritisch: Fraktur/OCR nur als Suchhilfe nutzen, Scan gegenlesen, Fassung 1794 und spaetere Drucke/Abweichungen nicht vermischen und Unsicherheiten offen markieren.
+- Uebersetze historische Begriffe in heutige Sprache, aber setze sie nicht vorschnell mit BGB-, StGB-, VwGO- oder Verwaltungsrechtsbegriffen gleich.
+- Pruefe die Funktion der Norm im ALR-System: Privatrecht, Polizei-/Staatsrecht, Standesrecht, Kirchen-/Schulrecht oder Strafrecht koennen in derselben Kodifikation nah beieinanderstehen.
+- Liefere ein Arbeitsprodukt, das mit der Quelle arbeiten laesst: Normkarte, Begriffsglossar, heutige Vergleichslinie, Fallskizze, Zitierhinweis, Quellenrisiko oder didaktischer Kurzkommentar.
 
-## Prüfprogramm
+## Quellen- und Methodenhinweise
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
-
-## Typische Fallen
-
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Keine Scheingenauigkeit: Paragraphen, alte Schreibweisen und Blatt-/Seitenangaben nur uebernehmen, wenn sie am Digitalisat oder an einer verlaesslichen Edition geprueft sind.
+- Heutige Rechtsbegriffe nur als Vergleich einsetzen: Eigentum, Besitz, Dienstbarkeit, Vertrag, Polizei, Gemeinde, Stand, Vormundschaft oder Strafe haben im ALR eigene dogmatische Umgebung.
+- Bei Kollisionen zwischen 1794er Text, spaeterem Druck und moderner Sekundaerwiedergabe die Abweichung benennen und nicht glätten.
+- Ergebnis immer zweispurig ausgeben: historische Aussage des ALR und heutige Einordnung fuer Unterricht, Rechtsgeschichte oder Methodenvergleich.
 
 ## Normenanker
 

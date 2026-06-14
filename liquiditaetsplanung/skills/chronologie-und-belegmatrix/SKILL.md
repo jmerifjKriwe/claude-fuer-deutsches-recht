@@ -1,30 +1,22 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix im Plugin Liquiditaetsplanung: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?"
+description: "Chronologie und Belegmatrix der Liquiditätsplanung: Kontostände, OP-Listen, Fälligkeiten, Planannahmen, Krisenentscheidungen und Nachweisfähigkeit zusammenführen."
 ---
 
-# Chronologie und Belegmatrix
+# Chronologie und Belegmatrix Liquiditätsplanung
 
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+## Arbeitsauftrag
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Ordne alle Liquiditätsdaten so, dass ein Dritter den Krisenverlauf nachvollziehen kann. Starte mit Stichtagen, Bankauszügen, OP-Listen, Mahnungen, Stundungen, Darlehenslinien, Gesellschafterbeschlüssen und Beratermemos.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Normenanker
 
-## Belegmatrix Liquiditätsplanung — Mindestquellen
-- **Bankkonten:** Kontoauszüge letzte 6–12 Monate, Kreditrahmen, Sicherheiten, Kovenanten, Tilgungspläne, Standardisierte Kreditverträge (mit BGB-Schuldverhältnissen abgleichen).
-- **Buchhaltung:** OPOS-Listen Debitoren/Kreditoren (mit Fälligkeit, nicht nur mit Datum), Saldenlisten, Steuerkonto FA, Beitragskonto Sozialversicherung.
-- **Verträge mit Liquiditätswirkung:** Miet- und Leasingverträge, Lieferantenrahmenverträge, Wartungsverträge, Versicherungen.
-- **Personal:** Lohnauszahlungstermin, Lohnsteuer- und SV-Fälligkeiten (drittletzter Bankarbeitstag des Folgemonats), Tarifvereinbarungen mit Sonderzahlungen.
-- **Steuern:** Umsatzsteuer-Voranmeldungen, Steuervorauszahlungen, offene Bescheide, Stundungs-/Vollstreckungsmaßnahmen.
-- **Trade-off:** Excel-Mengenkalkulation ohne Quellenverknüpfung ist schnell, aber im Anfechtungsprozess (§§ 129 ff. InsO) wertlos. Idealfall: Cellbacks zu Buchungs-IDs, mindestens aber zu Bank-Reportingdaten.
-- **Praxis:** Widersprüche zwischen Planungssicht und Buchhaltung (z. B. Skontoabzug, Lieferantenkredit) sofort markieren — sie kosten im Streit die Plausibilität.
+- InsO §§ 17, 18, 19, 15a.
+- StaRUG § 1.
+- HGB §§ 238, 242, 252 zur Buchführungs-/Abschlusslogik.
+- GmbHG § 43, AktG § 93.
+- AO §§ 140 ff., 147; GoBD als Dokumentationsrahmen.
 
+## Matrix
+
+Spalten: Datum, Quelle, Zahl, Fälligkeit, Annahme/Beleg, Rechtsfolge, Verantwortlicher, offene Prüfung. Trenne Ist-Zahlen, Plan-Zahlen, Managementannahmen und harte externe Zusagen.

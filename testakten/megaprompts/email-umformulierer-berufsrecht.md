@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 82 Skills des Plugins `email-umformulierer-berufsrecht`.
+Dieser Megaprompt enthaelt top-10 von 78 Skills des Plugins `email-umformulierer-berufsrecht`.
 
 ## Inhaltsverzeichnis
 

@@ -41,7 +41,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei führt vom ersten Dokument oder Satz in die richtige Prüfspur, ohne vorschnell Schutzfähigkeit oder Verletzung zu behaupten. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Urheberrecht DE/EU Kaltstart und Routing führt vom ersten Dokument oder Satz in die richtige Prüfspur, ohne vorschnell Schutzfähigkeit oder Verletzung zu behaupten. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 
@@ -130,7 +130,7 @@ _Prüft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Originalitaet: pers
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei trennt Idee, Stil, Technik, Methode, Genre und nicht schutzfähige Gemeinplätze von konkretem Ausdruck. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Dieser Arbeitsgang trennt Idee, Stil, Technik, Methode, Genre und nicht schutzfähige Gemeinplätze von konkretem Ausdruck. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 
@@ -221,7 +221,7 @@ _Prüft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, S
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei macht Musik streitfähig prüfbar, ohne Musiktheorie und Urheberrecht zu vermischen. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Dieser Arbeitsgang macht Musik streitfähig prüfbar, ohne Musiktheorie und Urheberrecht zu vermischen. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 
@@ -299,7 +299,7 @@ _Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand,
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Sachverständigenbriefing Musik schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 
@@ -382,7 +382,7 @@ _Prüft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkre
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+GEMA, GVL und Verwertungsgesellschaften schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 
@@ -467,7 +467,7 @@ _Entwickelt Vergleichsstrategie bei Musik-, KI-, Software- und Content-Streit: U
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Vergleich und Settlement schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 
@@ -549,7 +549,7 @@ _Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer,
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Musikvertrag und Release-Paket schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 
@@ -632,7 +632,7 @@ _Prüft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterli
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Nutzungsrechte und Lizenzkette schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 
@@ -708,7 +708,7 @@ _Prüft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegit
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Abmahnung nach § 97a UrhG beantworten schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 
@@ -790,7 +790,7 @@ _Sichert Belege bei Musik, Text, Code und KI-Output: Versionen, Hashes, Metadate
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Beweisforensik, Versionen und Hashes schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 

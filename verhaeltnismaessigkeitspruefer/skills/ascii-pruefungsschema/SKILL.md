@@ -3,68 +3,45 @@ name: ascii-pruefungsschema
 description: ASCII-Prüfungsschema fuer die vierstufige Verhältnismäßigkeitspruefung mit Box-Drawing fuer Sequenzen Abzweige und Ampelstatus. Mit Vorlage fuer Schriftsatzanlage Klausurausarbeitung und Mandatsmemo.
 ---
 
-# Ascii Prüfungsschema
+# ASCII-Prüfungsschema Verhältnismäßigkeit
+
+## Normative Einordnung
+
+Das Schema ist ein Darstellungswerkzeug, kein Ersatz für die Wertung. Es muss die vier Stufen der Verhältnismäßigkeit, die Schranken-Schranken und bei kollidierendem Verfassungsrecht die praktische Konkordanz sichtbar machen.
+
+## Normenanker
+
+- GG Art. 1 Abs. 1, Art. 2 Abs. 1, Art. 5, Art. 8, Art. 12, Art. 14 je nach Grundrecht.
+- GG Art. 19 Abs. 2 und Abs. 4: Wesensgehalt und Rechtsschutz.
+- GG Art. 20 Abs. 3: Gesetzesbindung und Verhältnismäßigkeit als rechtsstaatlicher Maßstab.
+- GRCh Art. 52 Abs. 1 bei Unionsrechtsbezug.
+- BVerfG-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Leitsätze aus Modellwissen.
 
 ## Schema 1: Sequenz
 
-```
+```text
 +----------------------------------------+
 | 1 Legitimer Zweck                      |
-| Frage: Welcher Zweck wird verfolgt?    |
-| Schrankentyp:                          |
-| Status:  [+]  Erfuellt                 |
+| Zweck, Rechtsgut, Gewicht              |
 +--------------------+-------------------+
                      v
 +----------------------------------------+
 | 2 Geeignetheit                         |
-| Frage: Foerdert Mittel den Zweck?      |
-| Kontrolldichte:                        |
-| Status:  [+]  Erfuellt                 |
+| Foerdert das Mittel den Zweck?         |
 +--------------------+-------------------+
                      v
 +----------------------------------------+
 | 3 Erforderlichkeit                     |
-| Frage: Gibt es milderes gleich         |
-|        effektives Mittel?              |
-| Alternativen geprueft: 3               |
-| Status:  [~]  Wertungsoffen            |
+| Milderes gleich wirksames Mittel?      |
 +--------------------+-------------------+
                      v
 +----------------------------------------+
 | 4 Angemessenheit                       |
-| Eingriff vs Zweck                      |
-| Absolute Grenzen geprueft              |
-| Status:  [-]  Eingriff zu schwer       |
-+----------------------------------------+
-                     v
-            ERGEBNIS: Verstoss
-```
-
-## Schema 2: Abzweige bei verfassungsimmanenter Schranke
-
-```
-+----------------+----------------------+
-| Grundrecht     | vorbehaltlos?        |
-+----------------+----------------------+
-                       v Ja
-+----------------------------------------+
-| Verfassungsgut mit Rang als Schranke?  |
-+----------------------------------------+
-                       v
-+----------------------------------------+
-| Praktische Konkordanz pruefen          |
+| Eingriffsgewicht vs Zweckgewicht       |
+| absolute Grenzen? Wesensgehalt?        |
 +----------------------------------------+
 ```
-
-## Statussymbole
-
-- [+]  Stufe ohne Probleme erfuellt
-- [~]  Wertungsoffen mit Argumenten
-- [-]  Stufe scheitert
-- [!]  Absolute Grenze beruehrt (Wuerde, Wesensgehalt, Existenzminimum)
 
 ## Anwendung
 
-- Anlage zum Schriftsatz, eingerueckt mit Monospace-Schrift.
-- Klausurbeilage bei Fortgeschrittenenpruefung.
-- Mandatsmemo als Quick-Overview.
+Nutze das ASCII-Schema für Schriftsatzanlage, Klausur, Mandatsmemo oder Verwaltungsvermerk. Fülle jede Box mit einer konkreten Tatsache und einer Norm, sonst bleibt es Dekoration.

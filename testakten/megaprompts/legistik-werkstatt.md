@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 246 Skills (gekuerzt fuer Chat-Fenster) des Plugins `legistik-werkstatt`.
+Dieser Megaprompt enthaelt top-8 von 244 Skills (gekuerzt fuer Chat-Fenster) des Plugins `legistik-werkstatt`.
 
 ## Inhaltsverzeichnis
 

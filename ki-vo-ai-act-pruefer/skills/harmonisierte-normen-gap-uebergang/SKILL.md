@@ -1,29 +1,22 @@
 ---
 name: harmonisierte-normen-gap-uebergang
-description: "Harmonisierte Normen, gemeinsame Spezifikationen und ISO/IEC-Standards im KI-VO-Uebergang: Gap-Analyse, Vermutungswirkung, Standards-Roadmap, Audit-Evidence und keine falsche Normenbehauptung."
+description: "Harmonisierte Normen, gemeinsame Spezifikationen und Standards im KI-VO-Übergang: Vermutungswirkung, CEN/CENELEC-Roadmap, ISO/IEC-Abgleich, Evidence-Gap und Auditplan."
 ---
 
 # Harmonisierte Normen und Übergang
 
-## Problem
+## Kernproblem
 
-Die KI-VO wird durch harmonisierte Normen, gemeinsame Spezifikationen, Leitlinien und Codes konkretisiert. In der Übergangsphase ist gefährlich, Standards als fertige Rechtssicherheit zu verkaufen.
+In der Übergangsphase der KI-VO dürfen Standards nicht als fertige Rechtssicherheit verkauft werden. Der Skill trennt harmonisierte Norm mit Vermutungswirkung, gemeinsame Spezifikation, ISO/IEC-Standard, Branchenpraxis und bloße Herstellerbehauptung.
 
-## Prüfraster
+## Normenanker
 
-1. Welche KI-VO-Pflicht soll durch Standard abgedeckt werden?
-2. Gibt es eine harmonisierte Norm mit Vermutungswirkung?
-3. Gibt es nur Entwurf, ISO/IEC-Standard oder Branchenstandard?
-4. Welche Lücke bleibt zum konkreten Artikel?
-5. Welche Evidence kann der Standard trotzdem liefern?
-6. Wann wird die Roadmap aktualisiert?
+- VO (EU) 2024/1689 Art. 40: harmonisierte Normen und Vermutung der Konformität.
+- Art. 41 KI-VO: gemeinsame Spezifikationen, wenn harmonisierte Normen fehlen oder nicht ausreichen.
+- Art. 9-15 KI-VO: Risikomanagement, Daten, technische Dokumentation, Logging, Transparenz, menschliche Aufsicht, Genauigkeit/Cybersicherheit.
+- Art. 43 KI-VO: Konformitätsbewertung.
+- VO (EU) Nr. 1025/2012: europäische Normung als Rahmen der Harmonisierung.
 
-## Typische Bausteine
+## Arbeitsprodukt
 
-- AI Management System.
-- Risikomanagement.
-- Datenqualität.
-- Cybersecurity.
-- Logging.
-- Human Oversight.
-- Modellkarten und technische Dokumentation.
+Tabelle: Pflicht aus KI-VO, vorhandener Standard, Status (harmonisiert/Entwurf/ISO/intern), abgedeckte Evidence, verbleibende Lücke, Owner, Aktualisierungsdatum. Warne vor Formulierungen wie „vollständig compliant“, wenn nur Standard-Alignment vorliegt.

@@ -7,11 +7,12 @@ description: "Prüft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 

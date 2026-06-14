@@ -20,7 +20,7 @@ description: "Prüft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei macht Musik streitfähig prüfbar, ohne Musiktheorie und Urheberrecht zu vermischen. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Dieser Arbeitsgang macht Musik streitfähig prüfbar, ohne Musiktheorie und Urheberrecht zu vermischen. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 

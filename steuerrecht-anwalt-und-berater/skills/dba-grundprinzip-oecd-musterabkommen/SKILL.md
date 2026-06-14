@@ -115,7 +115,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 1. Freistellung mit Progressionsvorbehalt (§ 32b EStG) — standardmaessig bei Aktivitaetsklausel und Subject-to-Tax.
 2. Anrechnung nach § 34c EStG — bei passiven Einkuenften, Schweiz/USA grundsätzlich, oder bei Rueckfallklauseln.
 3. Switch-over § 20 Abs. 2 AStG bei niedrig besteuerter Betriebsstaette.
-4. Verweis: `stb-dba-methodenartikel-anrechnung-vs-freistellung`.
+4. Verweis: `stb-dba-anrechnung-vs-freistellung-methodenartikel-freistellung`.
 
 ### Phase 6 — Treaty Override und Rueckfallklauseln
 
@@ -182,7 +182,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 - `stb-dba-ansaessigkeit-tie-breaker-rules` — Art. 4 MA, mehrfache Ansaessigkeit.
 - `stb-dba-betriebsstaette-art-5-musterabkommen` — Art. 5 MA und MLI-Anpassungen.
-- `stb-dba-methodenartikel-anrechnung-vs-freistellung` — Art. 23 MA, § 34c EStG.
+- `stb-dba-anrechnung-vs-freistellung-methodenartikel-freistellung` — Art. 23 MA, § 34c EStG.
 - `stb-dba-quellensteuer-erstattung-bzst-50c-estg` — BZSt-Verfahren.
 - `stb-dba-dividenden-quellensteuer-art-10` — Art. 10 MA.
 - `stb-dba-lizenzgebuehren-art-12-bzst` — Art. 12 MA.

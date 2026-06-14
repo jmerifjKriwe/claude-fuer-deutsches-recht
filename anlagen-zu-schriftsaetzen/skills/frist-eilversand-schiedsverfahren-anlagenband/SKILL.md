@@ -1,42 +1,22 @@
 ---
 name: frist-eilversand-schiedsverfahren-anlagenband
-description: "Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Anlagen zu Schriftsätzen."
+description: "Frist, Eilversand, Schiedsverfahren und Anlagenband: Anlagen in letzter Minute nummerieren, signieren, beA-/Portal-/Kurierfähigkeit und Schiedsregeln prüfen."
 ---
 
-# Red-Team Qualitygate
+# Frist, Eilversand und Anlagenband im Schiedsverfahren
 
-## Normenanker
+## Arbeitsauftrag
 
-Arbeitsfokus: **Red-Team Qualitygate**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Bereite einen Anlagenversand unter Zeitdruck so vor, dass Gericht, Schiedsgericht, Gegner und Mandant dieselbe belastbare Anlagenlogik erhalten. Der Skill ist für Eilfälle gedacht: Frist läuft, Anlagenband ist groß, Nummerierung muss sitzen.
 
-- `§ 294 Abs. 1 ZPO` — Glaubhaftmachung.
-- `§ 920 Abs. 2 ZPO` — Verfügungsanspruch und Verfügungsgrund.
-- `§ 936 ZPO` — Anwendung Arrestvorschriften auf einstweilige Verfügung.
-- `§ 922 Abs. 2 ZPO` — Zustellung/Vollziehung Arrestbefehl.
-- `§ 929 Abs. 2 ZPO` — Vollziehungsfrist.
-- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
-- `§ 371 ZPO` — Augenschein.
+## Normen- und Regelanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- ZPO §§ 130a, 130d, 131, 253, 296: elektronische Einreichung, Anlagenbezug, Klageinhalt, Verspätung.
+- ZPO §§ 1025 ff. bei Schiedsverfahren; konkrete DIS-/ICC-/LCIA-/ad-hoc-Regeln zusätzlich prüfen.
+- BGB §§ 187-193 für Fristberechnung; Zustellungs- und Empfangsnachweise aktenfest dokumentieren.
+- ERVV/ERVB und beA-Vorgaben: Dateiformat, Signatur, Größenbeschränkung, Containerverbot beachten.
+- Berufsrechtlich BRAO § 43a/BORA § 2 bei vertraulichen Anlagen und Schwärzungen.
 
-## Arbeitsweg
+## Ausgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+Erzeuge Versandcheckliste, Anlagenindex, Dateinamenkonvention, Schwärzungsvermerk, Versandweg, Nachweis der Übermittlung und Notfallplan bei Upload-/Größenfehlern.

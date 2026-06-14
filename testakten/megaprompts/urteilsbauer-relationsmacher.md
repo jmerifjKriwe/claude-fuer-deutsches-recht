@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 80 Skills des Plugins `urteilsbauer-relationsmacher`.
+Dieser Megaprompt enthaelt top-10 von 78 Skills des Plugins `urteilsbauer-relationsmacher`.
 
 ## Inhaltsverzeichnis
 

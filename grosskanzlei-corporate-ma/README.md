@@ -138,7 +138,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 272 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 271 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -361,7 +361,6 @@ Automatisch generierte Komplett-Liste aller 272 Skills in diesem Plugin. Beschre
 | `sanierungsgewinn-bond-restructuring` | Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften. Behandelt die Besonderheiten der Anleihegläubiger-Strukturen, das Schuldverschreibungsgesetz, Mehrheitsentscheidungen der Anleihegläubigerversammlung, Lock-up Agre... |
 | `sanierungsgewinn-debt-equity-swap-spa` | Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringu... |
 | `sanierungsgewinn-eu-beihilfe-und-altmark` | EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art. 107 AEUV. Behandelt die Sanierungsklausel § 8c Abs. 1a KStG als Beihilfegegenstand, die Anwendung der Altmark-Trans-Kriterien, die De-minimis-Verordnung und das Notifizierun... |
-| `sanierungsgewinn-forderungsverzicht-vs` | Konkurrenz und Wechselwirkung von Forderungsverzicht (§ 3a EStG) und schädlichem Beteiligungserwerb (§ 8c KStG). Beschreibt die fatale Konstellation, in der eine Sanierung mit Anteilseignerwechsel den Verlustvortrag vor seinem Einsatz im... |
 | `sanierungsgewinn-fruehe-mandantsteuerung-q` | Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf. Steuert die Mandantenkommunikation zwölf Monate vor der formellen Anzeige eines Restrukturierungsplans oder StaRUG-Verfahrens und bindet die Steuerseite (§ 3a E... |
 | `sanierungsgewinn-konzern-und-cross-border` | Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen. Behandelt Forderungsverzichte zwischen Konzerngesellschaften, organschaftliche Verflechtungen, Verlustnutzung im internationalen Konzern, Wechselwirkung mit... |
 | `sanierungsgewinn-private-equity` | Sanierungsgewinn im PE-Mandat. Adressiert PE-Investoren in der Rolle des Sanierungserwerbers oder Sanierungsexits, das Zusammenspiel von Management Equity Plan (MEP) und Sanierungsertrag, die steuerliche Behandlung von Sweet Equity und M... |

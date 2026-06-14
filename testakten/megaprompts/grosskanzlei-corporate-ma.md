@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 272 Skills (gekuerzt fuer Chat-Fenster) des Plugins `grosskanzlei-corporate-ma`.
+Dieser Megaprompt enthaelt top-8 von 271 Skills (gekuerzt fuer Chat-Fenster) des Plugins `grosskanzlei-corporate-ma`.
 
 ## Inhaltsverzeichnis
 

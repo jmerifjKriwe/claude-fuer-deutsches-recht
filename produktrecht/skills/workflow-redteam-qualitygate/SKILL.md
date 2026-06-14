@@ -5,38 +5,28 @@ description: "Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fri
 
 # Red-Team Qualitygate
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
-- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **produktrecht** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-## Red-Team-Punkte Produktrecht
-- **Rollenkette geprüft?** Hersteller, Bevollmächtigter, Importeur, Händler, Fulfillment-Dienstleister (Art. 4 VO (EU) 2019/1020); Pflichten differenzieren.
-- **CE-Verfahren passt?** Modul A (interne Fertigungskontrolle) reicht oft nicht; bei höherem Risiko Modul B+C oder H.
-- **Harmonisierte Normen aktuell?** OJ-Veröffentlichung der EU-Kommission prüfen; Konformitätsvermutung nur bei aktueller Fassung.
-- **Anspruchsgrundlagen vollständig?** ProdHaftG (verschuldensunabhängig) + § 823 Abs. 1 BGB (Verkehrspflicht-Verletzung) + § 823 Abs. 2 BGB i. V. m. ProdSG/GPSR + § 826 BGB + ggf. Garantie (§ 443 BGB).
-- **Verschulden nicht erforderlich** beim ProdHaftG -- aber typische Verteidigung über Ausnahme Entwicklungsrisiko § 1 Abs. 2 Nr. 5 ProdHaftG (BGH-Linie aus Mineralwasserflaschenfall: hohe Hürde).
-- **GPSR-Fristen (24 h Safety Gate)** und **Marktüberwachungs-Fristen** im Bescheid markiert?
-- **Neue EU-VOen 2024/2025:** GPSR, KI-VO (AI Act) für KI-haltige Produkte, BatterieVO, neue ProdHaftRL 2024/2853, MaschinenVO 2023/1230 -- live verifizieren.
-- **Beweislast Hersteller bei Fehler:** § 1 Abs. 4 ProdHaftG -- Geschädigter hat Fehler, Schaden, Kausalität zu beweisen; Hersteller widerlegt Vermutung nicht.
+## Aktenstart ohne Leerlauf
 
-## Falle
-- "EU-Konformitätserklärung" mit unterschiedlichem Datum bei zusammengehörigem Produkt / Modulen (Inkohärenz).
-- Hersteller-Eigenangaben zur Risikoklasse ohne externe Notifizierte Stelle bei Hochrisikoprodukten.
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+## Fachliche Anker
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+- UrhG, MarkenG, PatG, DesignG, UWG, GeschGehG, Produkthaftungsrecht/ProdHaftG und EU-Verordnungen je nach Schutzrecht/Produkt.
+- Schutzgegenstand, Inhaberschaft, Priorität, Benutzung/Nutzung, Verletzung, Schranke, Anspruch und Beweis getrennt prüfen.
+- Rechtsprechung nur mit frei prüfbarem Gericht, Datum, Aktenzeichen und Quelle einsetzen.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.

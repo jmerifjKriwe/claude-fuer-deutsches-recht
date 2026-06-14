@@ -73,7 +73,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 - `nkr-handelsregister-und-elektronische-zustellung`
 - `nkr-stellungnahme-aufbau-und-format`
 - `nkr-stellungnahme-ergebnis-und-empfehlung`
-- `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf`
+- `nkr-formulierungshilfe-vs-referentenentwurf-referentenentwurf`
 
 ## Hinweis
 

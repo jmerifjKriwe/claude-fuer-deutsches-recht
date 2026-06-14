@@ -20,7 +20,7 @@ description: "Prüft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte b
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei verhindert den typischen Fehler, nur Komposition und Text zu prüfen, obwohl die Tonaufnahme separat geschützt ist. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Dieser Arbeitsgang verhindert den typischen Fehler, nur Komposition und Text zu prüfen, obwohl die Tonaufnahme separat geschützt ist. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 

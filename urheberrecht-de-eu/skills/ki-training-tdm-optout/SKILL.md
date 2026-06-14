@@ -20,7 +20,7 @@ description: "Prüft Text und Data Mining, KI-Training, Rechtevorbehalt und Doku
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei macht aus der abstrakten KI-Trainingsfrage eine konkrete Prüfung von Zugang, Vervielfältigung, Opt-out, Forschung und Anbieterpflichten. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+KI-Training, TDM und Opt-out macht aus der abstrakten KI-Trainingsfrage eine konkrete Prüfung von Zugang, Vervielfältigung, Opt-out, Forschung und Anbieterpflichten. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 

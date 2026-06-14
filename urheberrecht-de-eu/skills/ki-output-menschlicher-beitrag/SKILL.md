@@ -12,7 +12,7 @@ description: "Prüft, ob KI-unterstuetzte Ergebnisse urheberrechtlich geschuetzt
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei ersetzt die pauschale KI-Debatte durch eine Beweisprüfung von Prompt, Auswahl, Arrangement, Nachbearbeitung und Endfassung. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Dieser Arbeitsgang ersetzt die pauschale KI-Debatte durch eine Beweisprüfung von Prompt, Auswahl, Arrangement, Nachbearbeitung und Endfassung. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 

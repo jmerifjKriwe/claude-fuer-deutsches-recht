@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 83 Skills des Plugins `einfache-leichte-sprache-jura`.
+Dieser Megaprompt enthaelt top-10 von 80 Skills des Plugins `einfache-leichte-sprache-jura`.
 
 ## Inhaltsverzeichnis
 

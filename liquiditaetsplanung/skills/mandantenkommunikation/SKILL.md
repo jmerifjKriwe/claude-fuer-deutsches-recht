@@ -1,29 +1,22 @@
 ---
 name: mandantenkommunikation
-description: "Mandantenkommunikation im Plugin Liquiditaetsplanung: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?"
+description: "Mandantenkommunikation in der Liquiditätsplanung: Zahlenanforderung, Annahmen, Krisenfristen, Geschäftsleiterpflichten und klare Entscheidungsnotiz ohne unnötige Rollenabfragen."
 ---
 
-# Mandantenkommunikation
+# Mandantenkommunikation Liquiditätsplanung
 
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+## Arbeitsauftrag
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Formuliere eine klare, entscheidungsfähige Kommunikation zur Liquiditätslage. Lies zuerst Kontostände, OP-Listen, Fälligkeiten, Kreditlinien, Lohn/Steuern/Sozialversicherung, Planannahmen und letzte Geschäftsleiterentscheidungen.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Normenanker
 
-## Kommunikation Liquiditätsplanung — wesentliche Pflichten
-- **§ 1 StaRUG ist Geschäftsführungspflicht:** Die Krisenfrüherkennung ist nicht "schön zu haben", sondern Pflicht jedes Geschäftsleiters einer haftungsbeschränkten Gesellschaft. Verstoß kann § 43 GmbHG-Haftung auslösen.
-- **§ 15a InsO Antragsfristen:** Bei Zahlungsunfähigkeit Höchstfrist drei Wochen, bei Überschuldung sechs Wochen (Stand prüfen) — nicht zur freien Verfügung; jeder Tag zählt für § 15b InsO Zahlungsverbot.
-- **§ 15b InsO Zahlungsverbot:** Nach Eintritt der Insolvenzreife sind nur noch privilegierte Zahlungen erlaubt; Verstoß führt zu persönlicher Haftung des Geschäftsführers gegenüber der späteren Masse.
-- **§ 266a StGB Sozialversicherung:** Arbeitnehmer-SV-Beiträge sind unverzüglich abzuführen; Stundungsantrag rechtzeitig stellen, sonst Strafbarkeit.
-- **Klare Sprache:** "Sie haben am [Datum] eine Deckungslücke von X EUR. Nach BGH-Rechtsprechung liegt dann Zahlungsunfähigkeit vor, sofern keine Schließung binnen drei Wochen absehbar ist."
-- **Honorar:** Beratungsvereinbarung mit Pauschal- oder Stundenhonorar; reine RVG-Abrechnung deckt Sanierungsberatung nicht.
+- InsO §§ 17, 18, 19: Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit, Überschuldung.
+- InsO § 15a: Antragspflicht und Fristlogik.
+- StaRUG § 1: Krisenfrüherkennung und Geschäftsleiterpflichten.
+- GmbHG § 43, AktG § 93: Sorgfalt und Haftung der Geschäftsleitung.
+- StGB §§ 283, 266a und AO §§ 34, 69 bei Bankrott-, Sozialversicherungs- und Steuerzahlungsrisiken.
 
+## Ausgabe
+
+Erzeuge eine kurze Mail oder Entscheidungsvorlage: Datenstand, Liquiditätslücke, 13-Wochen-Sicht, rote Zahlungen, Annahmen, offene Unterlagen, Entscheidung bis Datum, Haftungswarnung in sachlichem Ton.

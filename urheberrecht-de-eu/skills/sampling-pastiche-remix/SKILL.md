@@ -20,7 +20,7 @@ description: "Prüft Sampling und kreative Nachnutzung nach Pelham, § 51a UrhG,
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei führt durch die Interessenabwägung zwischen Kunstfreiheit, Eigentum, Erkennbarkeit, Transformationsgrad und Lizenzpraxis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Dieser Arbeitsgang führt durch die Interessenabwägung zwischen Kunstfreiheit, Eigentum, Erkennbarkeit, Transformationsgrad und Lizenzpraxis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 

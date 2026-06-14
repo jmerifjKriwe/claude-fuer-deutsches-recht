@@ -108,7 +108,7 @@ Dieses Plugin enthält keine Testakte. Es handelt sich um Formulierungswerkzeuge
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -123,7 +123,7 @@ Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschrei
 | `bora-konformitaetspruefung-brao-email` | E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässig... |
 | `brao-interessen-fokus-formuliert` | Brao: Mehrparteienkonflikt und Interessenmatrix. |
 | `brao-konformitaetspruefung` | E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen Mandatsbeziehung. O... |
-| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor? |
+| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich email-umformulierer-berufsrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `dokumente-intake` | Dokumentenintake für E-Mail-Umformulierung im Berufsrecht: sortiert E-Mail-Entwurf, Mandantenkorrespondenz, Behörden-/Gegnerschreiben, prüft Datum, Absender, Frist und Beweiswert (Frühere Mails (Tonalitäts-Beleg)); markiert Lücken; berüc... |
 | `edge-case-verhandlung-bora-international` | Allgemeine: Sonderfall und Edge-Case-Prüfung. |
 | `einstieg-routing` | Einstieg, Triage und Routing für E-Mail-Umformulierung im Berufsrecht: ordnet Rolle (Anwalt, Mandant, Gegner), markiert Frist (Mandantenkommunikation unverzüglich), wählt Norm (§ 43a BRAO, § 49b BRAO, BORA) und Zuständigkeit (RAK), leite... |
@@ -137,7 +137,6 @@ Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschrei
 | `email-berufsrecht-hoefliche-behoerden-gerichts-registerweg` | Hoefliche: Behörden-, Gerichts- oder Registerweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder... |
 | `email-berufsrecht-konformitaet-formular-portal-einreichungslogik` | Konformitaet: Formular, Portal und Einreichungslogik: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion... |
 | `email-berufsrecht-mails-risikoampel-gegenargumente` | Mails: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, San... |
-| `email-berufsrecht-mandantenkommunikation-redteam-qualitygate` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Berufsrechts-E-Mail. |
 | `email-berufsrecht-sachliche-schriftsatz-brief-memo-bausteine` | Sachliche: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion od... |
 | `email-berufsrecht-start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Berufsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsp... |
 | `email-berufsrecht-unfreundliche-tatbestandsmerkmale-beweisfragen` | Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung,... |
@@ -150,7 +149,7 @@ Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschrei
 | `formuliert-erstpruefung-und-mandatsziel` | Formuliert: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `formulierte-quellenkarte` | Formulierte Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `frist-und-mahnung-hoeflich` | Fristsetzungen und Mahnungen in Anwaltskorrespondenz hoeflich und dennoch rechtsverbindlich formulieren. § 286 BGB Schuldnerverzug § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Fristklarheit Verbindlichkeit Ton kollegiale Formulierung f... |
-| `fristen-und-risikoampel` | Fristen- und Risikoampel: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor? |
+| `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich email-umformulierer-berufsrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `hoefliche-konformitaet-mails` | Hoefliche: Behörden-, Gerichts- oder Registerweg. |
 | `ironie-und-sarkasmus-eliminieren` | Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite... |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Berufsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsp... |
@@ -163,7 +162,7 @@ Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschrei
 | `kooperativer-abschluss` | E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abg... |
 | `kooperativer-abschluss-mehrsprachige` | E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abg... |
 | `mails-risikoampel-und-gegenargumente` | Mails: Risikoampel, Gegenargumente und Verteidigungslinien. |
-| `mandantenkommunikation` | Mandantenkommunikation: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor? |
+| `mandantenkommunikation` | Mandantenkommunikation im Bereich email-umformulierer-berufsrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `mehrsprachige-umformulierung` | Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Äquivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Outpu... |
 | `notare-beweislast-darlegungslast` | Notare: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktio... |
 | `notare-beweislast-sachliche-texte` | Notare: Beweislast, Darlegungslast und Substantiierung. |
@@ -191,9 +190,6 @@ Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschrei
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für E-Mail-Umformulierung im Berufsrecht: trennt fehlende Tatsachen von fehlenden Belegen (E-Mail-Entwurf, Mandantenkorrespondenz, Behörden-/Gegnerschreiben), nennt pro Lücke Beweisthema, Beschaffungsweg (RA... |
 | `varianten-fehlerkatalog` | Varianten Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `vorher-nachher-tabelle` | Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Änderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Änderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbeitu... |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Berufsrechts-E-Mail. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Berufsrechts-E-Mail. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Berufsrechts-E-Mail. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

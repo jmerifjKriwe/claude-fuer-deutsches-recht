@@ -1,19 +1,22 @@
 ---
 name: ki-output-fuer-kunden
-description: "Solo-Selbstständige: prüft Kennzeichnung, Rechte, Fehlerkontrolle und Haftung bei KI-Arbeitsergebnissen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis."
+description: "KI-Output für Kunden bei Solo-Selbstständigen: Nutzungsrechte, Haftung, Kennzeichnung, Datenschutz, Geheimnisschutz und Vertragsklauseln für KI-gestützte Arbeitsergebnisse."
 ---
 
-# Grenzen Compliance und Selbstschutz: Prüft kennzeichnung
+# KI-Output für Kunden
 
-## Ergebnis
+## Arbeitsauftrag
 
-- Kurzdiagnose in normalem Deutsch
-- To-do-Liste mit Fristen und Belegen
-- Risiko-/Geldfolge-Ampel
-- konkreter Textbaustein oder Dokumentenplan
+Prüfe, ob ein mit KI-Unterstützung erzeugtes Arbeitsergebnis an Kunden ausgeliefert werden darf und wie es vertraglich beschrieben wird. Unterscheide eigene geistige Leistung, bloße KI-Rohfassung, Kundendaten, Drittmaterial und vertrauliche Informationen.
 
-## Quellen- und Qualitätsregeln
+## Normenanker
 
-- Prüfe aktuelle Beträge, Grenzwerte und Fristen in amtlichen Quellen, insbesondere Gesetze im Internet, ELSTER, DRV, KSK, Bundesagentur für Arbeit und BMWK-Existenzgründungsportal.
-- Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
+- BGB §§ 611a, 631, 633, 634, 280: Dienst-/Werkvertragsqualität, Mängel und Haftung.
+- UrhG §§ 2, 7, 31, 31a, 32, 69a ff.: Schutzfähigkeit, Nutzungsrechte, unbekannte Nutzungsarten, Software.
+- DSGVO Art. 5, 6, 28, 32: Rechtsgrundlage, Auftragsverarbeitung, Sicherheit.
+- GeschGehG §§ 2, 4: Geschäftsgeheimnisse und unbefugte Nutzung/Offenlegung.
+- UWG §§ 5, 5a; VO (EU) 2024/1689 Transparenzpflichten dort, wo KI-Einsatz nach außen relevant wird.
+
+## Ausgabe
+
+Erzeuge eine Kundenklausel oder Liefernotiz mit: KI-Einsatz ja/nein, menschliche Prüfung, Rechtekette, Drittmaterial-Ausschluss, Datenschutzpfad, Haftungsgrenzen und Nachbearbeitungsprotokoll.

@@ -21,7 +21,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei führt vom ersten Dokument oder Satz in die richtige Prüfspur, ohne vorschnell Schutzfähigkeit oder Verletzung zu behaupten. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Urheberrecht DE/EU Kaltstart und Routing führt vom ersten Dokument oder Satz in die richtige Prüfspur, ohne vorschnell Schutzfähigkeit oder Verletzung zu behaupten. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 

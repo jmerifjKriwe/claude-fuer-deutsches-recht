@@ -90,7 +90,7 @@ Beim Einsatz von KI-Tools sind insbesondere zu beachten:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -134,7 +134,7 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `btr-erstantrag-und-eilantrag` | Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten. |
 | `btr-erstantrag-zwangsmedikation-genehmigung` | Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten im Betr... |
 | `btr-zwangsmedikation-genehmigung-spezial` | Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach Reform: enge Voraussetzungen, Erforderlichkeit, weniger eingreifende Mittel, gerichtliche Anhörung Betroffener, Verfahrenspflegerbestellung. Prüfraster und Mustertexte. |
-| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor? |
+| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich betreuungsrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `demenz-internationaler-bezug-schnittstellen` | Demenz: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder... |
 | `demenz-internationaler-bezug-und-schnittstellen` | Demenz: Internationaler Bezug und Schnittstellen im Betreuungsrecht. |
 | `dokumente-intake` | Dokumentenintake für Betreuungsrecht: sortiert Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht, prüft Datum, Absender, Frist und Beweiswert (Ärztliches Gutachten, Persönliche Anhörung Betroffener); markiert Lücken; berü... |
@@ -166,8 +166,7 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `familienbetreuer-wunschermittlung-schwere` | Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen. |
 | `familienkonflikt-grenzen-und-rollen` | Familienkonflikte in der Betreuung: trennt Betreuerrolle, Angehörigenrolle und Eigeninteressen, prüft Kontaktkonflikte, Geldmisstrauen, Geschwisterstreit, Heimdruck, Datenschutz und gerichtliche Eskalation mit klarer Rollen- und Belegmat... |
 | `freiheitsentziehende-massnahmen-1831` | Freiheitsentziehende Maßnahmen § 1831 BGB: Fixierung, geschlossene Unterbringung, sedierende Medikation. Voraussetzungen Genehmigung Betreuungsgericht, regelmäßige Prüfung. EuGH-/EGMR-Vorgaben. |
-| `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Betreuungsrecht. |
-| `fristen-und-risikoampel` | Fristen- und Risikoampel: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor? |
+| `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich betreuungsrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `genehmigung-fehlerkatalog` | Genehmigung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `genehmigung-red-team-und-qualitaetskontrolle` | Genehmigung: Red-Team und Qualitätskontrolle im Betreuungsrecht. |
 | `genehmigungen-gerichtskontakt` | Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlun... |
@@ -186,7 +185,7 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `kontodaten-vertragsverdacht-pruefung` | Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: ungewöhnliche Zahlungen, verdächtige Dauerverträge, Fernwartung, Telefonbetrug, riskante Anlagen, Angehörigendruck und Auslandsüberweisungen zum Nachteil der... |
 | `livecheck-fristennotiz-naechster-schritt` | Livecheck: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `livecheck-fristennotiz-und-naechster-schritt` | Livecheck: Fristennotiz und nächster Schritt im Betreuungsrecht. |
-| `mandantenkommunikation` | Mandantenkommunikation: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor? |
+| `mandantenkommunikation` | Mandantenkommunikation im Bereich betreuungsrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `output-waehlen` | Output-Wahl für Betreuungsrecht: stimmt Adressat (Betroffener, Betreuer, Familie/Angehörige), Frist (Beschwerde 1 Monat § 63 FamFG) und Form auf den Zweck ab — typische Outputs: Betreuungsantrag, Beschwerde, Mandantenbrief Betroffener/An... |
 | `quellen-livecheck` | Quellen-Live-Check für Betreuungsrecht: prüft Normen (§§ 1814 ff. BGB, FamFG §§ 271 ff., § 1827 BGB Patientenverfügung) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Betreuungsgericht (AG) und Quellenhygiene nac... |
 | `quellenkarte` | Betreuungsrecht Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
@@ -203,9 +202,6 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `vorsorgevollmacht-pruefen` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Prüfraster für den Vergleich Vollmacht/Betreuungsbedarf. |
 | `vorsorgevollmacht-wunschermittlung` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Prüfraster für den Vergleich Vollmacht/Betreuungsbedarf im Betr... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Betreuungsrecht. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Betreuungsrecht. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Betreuungsrecht. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Betreuungsrecht. |
 | `wunschermittlung-unterstuetzte-entscheidung` | Wunschermittlung und unterstützte Entscheidung nach § 1821 BGB: hilft Betreuern, Wünsche, frühere Präferenzen, mutmaßlichen Willen, Kommunikationshilfen und Schutzgrenzen sauber zu dokumentieren, ohne die betreute Person zu entmündigen. |
 | `zwangsbehandlung-1832-bgb` | Zwangsbehandlung § 1832 BGB: Voraussetzungen, Genehmigung Betreuungsgericht, Verfahren § 312 FamFG. BVerfG-Linien zu Patientenautonomie (BVerfG 2 BvR 882/09). Output: Antragsentwurf an Gericht. |
 | `zwangsbehandlung-beweislast-darlegungslast` | Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlun... |

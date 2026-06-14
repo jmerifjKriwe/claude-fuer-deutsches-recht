@@ -1,25 +1,22 @@
 ---
 name: training-generativer-modelle-tdm-opt-out
-description: "Training generativer Modelle mit Text, Bild, Musik, Code und Datenbanken: Text-und-Data-Mining, Rechtevorbehalt/Opt-out, Webcrawl, Lizenzpool, Datenherkunft, Beweislast und Risikovermerk für Modellanbieter und Unternehmensnutzer."
+description: "Training generativer Modelle mit Text, Bild, Musik, Code und Datenbanken: TDM-Schranken, maschinenlesbarer Rechtevorbehalt, Datenbankrecht, GPAI-Transparenz und Beweisprotokoll."
 ---
 
 # Training generativer Modelle: TDM und Opt-out
 
-## Prüffragen
+## Prüfansatz
 
-1. Welche Werkarten: Text, Bild, Musik, Video, Code, Datenbank, wissenschaftliche Publikation?
-2. Welche Quelle: Lizenz, eigene Daten, Webcrawl, Kundenupload, Datensatz, öffentliches Archiv?
-3. Ist Text- und Data-Mining einschlägig?
-4. Gab es einen wirksamen Rechtevorbehalt/Opt-out?
-5. Wurde der Opt-out technisch erkannt und respektiert?
-6. Können Trainingsdaten oder geschützte Sequenzen im Output reproduziert werden?
-7. Gibt es Datenbankherstellerrechte?
+Ordne jede Trainingsquelle nach Rechtepfad: eigene Daten, lizenzierte Daten, Webcrawl, Kundenupload, Open-Data, wissenschaftlicher Datensatz, Datenbank. Danach wird geprüft, ob TDM erlaubt ist, ob ein Opt-out greift und ob Output-Reproduktion droht.
 
-## Risikomatrix
+## Normenanker
 
-| Risiko | Beispiel | Abhilfe |
-|---|---|---|
-| ungeklärte Lizenz | fremder Bilddatensatz | Datensatz sperren, Lizenz nachziehen |
-| Opt-out | maschinenlesbarer Vorbehalt | Crawler-Regel und Sperrprotokoll |
-| Memorization | Output kopiert Passagen | Filter, Red-Team, Logging |
-| Datenbankrecht | massenhafter Datenbankauszug | Rechteprüfung, Mengenanalyse |
+- UrhG § 44b: Text und Data Mining allgemein; Rechtevorbehalt muss maschinenlesbar sein, soweit online verfügbar.
+- UrhG § 60d: TDM für wissenschaftliche Forschung.
+- UrhG §§ 87a ff.: Datenbankherstellerrecht.
+- VO (EU) 2024/1689 Art. 53: Pflichten für Anbieter von GPAI-Modellen, insbesondere Urheberrechtsstrategie und Trainingszusammenfassung.
+- DSGVO Art. 5, 6, 9, 14, 17, 21 bei personenbezogenen Trainingsdaten.
+
+## Arbeitsprodukt
+
+Erzeuge eine Quellenmatrix mit URL/Datensatz, Lizenz, Opt-out-Signal, Crawler-Entscheidung, Sperrprotokoll, Datenbankrisiko, personenbezogenem Risiko und Output-Filter. Kein „fair use“-Argument als deutsches/europäisches Recht ausgeben.

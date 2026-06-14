@@ -14,9 +14,9 @@ Dieser Megaprompt enthaelt top-15 von 56 Skills des Plugins `insiderrecht-compli
 6. **unlawful-disclosure** — Prüft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweit…
 7. **cyberangriff** — Prüft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafver…
 8. **krisenfall-profit-warning** — Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhal…
-9. **datenraum-kapitalerh** — Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) gegen Insiderrecht-Risiken: Zugangskontroll…
+9. **datenraum-kapitalerhoehung-insiderrecht** — Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) gegen Insiderrecht-Risiken: Zugangskontroll…
 10. **analystencall** — Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln,…
-11. **aufsichtsratssonderpr** — Prüft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsflu…
+11. **aufsichtsrat-sonderpruefung-insiderrecht** — Prüft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsflu…
 12. **produktzulassung-whistleblower** — Prüft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte…
 13. **spin-short** — Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Toch…
 14. **stimmrechtsmitteilung-social** — Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und In…
@@ -69,29 +69,12 @@ _Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck.
-
-### Incident Drill – Insiderrecht-Krisenübung (Tabletop Exercise)
-
-## Konzept
-
-Ein Insiderrecht-Incident Drill ist eine strukturierte Übungseinheit, in der das Compliance-
-Team und das Management einen realistischen Insiderrecht-Krisenfall simulieren – ohne reale
-Konsequenzen, aber mit echtem Entscheidungsdruck. Ziel ist es, Schwachstellen im Prozess zu
-entdecken, bevor ein realer Fall eintritt. Erfahrungsgemäß decken Drills Lücken auf, die bei
-regulären Schulungen nicht sichtbar werden.
-
-Rechtsgrundlagen:
-- Art. 7, 17, 18 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
-- § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
-- ESMA MAR-Leitlinien: https://www.bafin.de/dok/8252648
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Ziel dieses Skills
 
@@ -164,11 +147,12 @@ _Prüft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschi
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -238,11 +222,12 @@ _Prüft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahes
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -318,11 +303,12 @@ _Prüft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risik
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -394,11 +380,12 @@ _Prüft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und g
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -474,11 +461,12 @@ _Prüft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -551,11 +539,12 @@ _Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-En
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -619,7 +608,7 @@ Verboten: Verwischende Sprache, Prognose-Widersprüche, irreführende Formulieru
 
 ---
 
-## Skill: `datenraum-kapitalerh`
+## Skill: `datenraum-kapitalerhoehung-insiderrecht`
 
 _Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) gegen Insiderrecht-Risiken: Zugangskontrolle, Protokollierung und Exit-Management im Insiderrecht Compliance._
 
@@ -627,11 +616,12 @@ _Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) ge
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -698,11 +688,12 @@ _Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -787,7 +778,7 @@ Wenn im Call versehentlich eine Insiderinformation offengelegt wurde:
 
 ---
 
-## Skill: `aufsichtsratssonderpr`
+## Skill: `aufsichtsrat-sonderpruefung-insiderrecht`
 
 _Prüft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht im Insiderrecht Compliance._
 
@@ -795,11 +786,12 @@ _Prüft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsra
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -867,11 +859,12 @@ _Prüft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (P
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -940,11 +933,12 @@ _Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, 
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -1015,11 +1009,12 @@ _Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht:
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 
@@ -1087,11 +1082,12 @@ _Prüft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsa
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
 
 ## Rechtlicher Rahmen
 

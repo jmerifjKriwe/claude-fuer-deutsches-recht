@@ -25,11 +25,12 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: StAG §§ 4, 5, 8-17, 25, 27, 30; DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Wahlart, Wahlgebiet, Wahltermin und Ebene festlegen: Bundestag, Europa, Landtag, Kommunalwahl, Bürgermeister-/Landratswahl oder innerparteiliche Vorstufe getrennt behandeln.
+- Rollen sauber trennen: Partei, Kandidierende, Fraktion, Amtsträger, Agentur, Verein, Unterstützerkreis, Plattform, Wahlleitung, Ordnungsamt und Polizei haben unterschiedliche Rechte, Pflichten und Kommunikationslinien.
+- Eilrisiken markieren: Wahlvorschlagsfristen, Unterstützungsunterschriften, Plakatierungs-/Sondernutzungsvorgaben, presserechtliche Reaktionsfenster, Datenschutzlöschung, Plattformfristen, Gegendarstellung, Unterlassung und Beweissicherung.
+- Tragende Normen live verifizieren: Art. 5, 8, 21 und 38 GG; BWahlG/BWO oder einschlägiges Landes-/Kommunalwahlrecht; PartG §§ 5, 18, 23a, 25, 31b-31d; DSGVO Art. 5, 6, 9, 12-15, 21, 32; BDSG; Versammlungsrecht des Landes; StGB §§ 107 ff., 111, 130, 185-188, 201a, 303; UrhG/KUG; DSA und Verordnung (EU) 2024/900 bei politischer Online-Werbung.
+- Belege aktenfest machen: Screenshot mit URL/Zeit, Plattform-ID, Freigabeweg, Budget, Spenden-/Sponsoringherkunft, Genehmigung, Behördenkontakt, interne Verantwortlichkeit und Entscheidungsvermerk.
+- Output knapp operativ liefern: Ampel, Sprechzettel, Behördenmail, Freigabe- oder Stoppvermerk, Fristenplan, Q&A, Plattformmeldung, Beweissicherungsnotiz oder Eskalationsmemo.
 
 ## Fachkern: Plakat Vandalismus Beweissicherung
 

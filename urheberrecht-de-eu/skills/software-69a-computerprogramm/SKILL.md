@@ -20,7 +20,7 @@ description: "Prüft Software, Quellcode, Objektcode, GUI, API, Datenformat, Fun
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill hilft bei trennt Programm-Ausdruck von Funktion, Schnittstelle, Idee und technischem Ergebnis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Dieser Arbeitsgang trennt Programm-Ausdruck von Funktion, Schnittstelle, Idee und technischem Ergebnis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
 
 ## Sofortstart
 

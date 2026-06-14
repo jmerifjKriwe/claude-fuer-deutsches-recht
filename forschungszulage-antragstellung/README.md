@@ -64,7 +64,7 @@ Vor jeder belastbaren Ausgabe live prüfen:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 81 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -91,7 +91,7 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschrei
 | `bsfz-behoerden-gericht-und-registerweg` | Bsfz: Behörden-, Gerichts- oder Registerweg. |
 | `bsfz-behoerden-gerichts` | Bsfz: Behörden-, Gerichts- oder Registerweg im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Sc... |
 | `bsfz-bescheinigung-projektbeschreibung` | BSFZ-Antrag und FuE-Projektbeschreibung praxistauglich erstellen: Portaltexte mit Zeichenbudgets, Ausgangsproblem, Stand der Technik, Neuheit, technisches Risiko, systematisches Vorgehen, Arbeitspakete, Prüferlogik, Anti-Floskel-Regeln u... |
-| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Forschungszulage-Antragstellung: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Bel... |
+| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich forschungszulage-antragstellung: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `definition-abschlussprodukt` | Definition: Abschlussprodukt und Übergabe im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schw... |
 | `definition-abschlussprodukt-und-uebergabe` | Definition: Abschlussprodukt und Übergabe. |
 | `dokumentationspaket-betriebspruefung` | Dokumentationspaket Forschungszulage prüfungsfest aufbauen: Projektakte mit BSFZ-Antrag und Bescheid, Stundenaufzeichnung je Mitarbeiter Tag Vorhaben, Personalkostenbeleg aus Lohnabrechnung, Auftragsforschungsbeleg mit Vertrag und Rechnu... |
@@ -112,7 +112,7 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschrei
 | `forschungszulage-insolvenzlage-red-team-korrektur` | Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `forschungszulage-mandantenentscheidung-antragspfad` | Dokumentation: Mandantenkommunikation und Entscheidungsvorlage im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Fr... |
 | `forschungszulage-projektbeschreibung-bescheinigung` | Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Fris... |
-| `fristen-und-risikoampel` | Fristen- und Risikoampel im Forschungszulage-Antragstellung: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege... |
+| `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich forschungszulage-antragstellung: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `fue-abgrenzung-definition` | FuE-Definition Grenzfaelle nach Frascati-Manual und FZulG: Neuheit und Unsicherheit, Routinearbeiten gegen Versuch und Irrtum. Beispielszenarien Software-Entwicklung, klinische Studien, Produktoptimierung, Reverse Engineering. Prüfraster... |
 | `fue-abgrenzung-grenzfaelle` | FuE-Definition Grenzfaelle nach Frascati-Manual und FZulG: Neuheit und Unsicherheit, Routinearbeiten gegen Versuch und Irrtum. Beispielszenarien Software-Entwicklung, klinische Studien, Produktoptimierung, Reverse Engineering. Prüfraster... |
 | `fue-definition-frascati-abgrenzung` | FuE-Definition für die Forschungszulage praxisnah prüfen: Grundlagenforschung, industrielle Forschung, experimentelle Entwicklung, Frascati-Kriterien (Neuheit, Schöpferisch, Ungewissheit, Systematik, Reproduzierbarkeit), AGVO-Definitione... |
@@ -129,7 +129,7 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschrei
 | `koordinierung-zwei-foerderwege` | Koordinierung Forschungszulage mit anderen Foerderwegen: keine Doppelfoerderung derselben Kosten, aber Kombination ueber Modulgrenze hinweg (ZIM, IGF, Horizon Europe, Landesfoerderung). Prüfraster für Kostentrennung, Buchhaltung, Beschei... |
 | `kumulierung-beihilfen-agvo` | Kumulierung Forschungszulage mit anderen Förderungen und Beihilfen sauber prüfen: AGVO Art. 25, EU/EWR-Auftragsforschung, ZIM, BMBF-Programme, Landesprogramme, De-minimis-Nähe, Horizon, Doppelförderung, Nachweis- und Abzugslogik. Mit Kum... |
 | `mandantenentscheidung-einspruch-sonderfall` | Dokumentation: Mandantenkommunikation und Entscheidungsvorlage. |
-| `mandantenkommunikation` | Mandantenkommunikation im Forschungszulage-Antragstellung: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege l... |
+| `mandantenkommunikation` | Mandantenkommunikation im Bereich forschungszulage-antragstellung: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `mehrjahresroadmap-fristennotiz-fz` | Mehrjahresroadmap: Fristennotiz und nächster Schritt. |
 | `mehrjahresroadmap-fristennotiz-naechster` | Mehrjahresroadmap: Fristennotiz und nächster Schritt im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zuste... |
 | `output-waehlen` | Output-Wahl für Forschungszulage FZulG: stimmt Adressat (Unternehmen F&E, BSFZ, Finanzamt), Frist (Antrag jederzeit) und Form auf den Zweck ab — typische Outputs: BSFZ-Antrag, Festsetzungsantrag FA, Einspruch. |
@@ -147,10 +147,6 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschrei
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Forschungszulage FZulG: trennt fehlende Tatsachen von fehlenden Belegen (Projektbeschreibung, BSFZ-Bescheinigung, Stundennachweise), nennt pro Lücke Beweisthema, Beschaffungsweg (Bescheinigungsstelle For... |
 | `verlust-formular-portal` | Verlust: Formular, Portal und Einreichungslogik im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung... |
 | `verlust-zeichenbudgets` | Verlust: Formular, Portal und Einreichungslogik. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Forschungszulage. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Forschungszulage. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Forschungszulage. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Forschungszulage. |
 | `zeichenbudgets-verhandlung` | Zeichenbudgets: Verhandlung, Vergleich und Eskalation im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zust... |
 | `zeichenbudgets-verhandlung-vergleich-und-eskalation` | Zeichenbudgets: Verhandlung, Vergleich und Eskalation. |
 

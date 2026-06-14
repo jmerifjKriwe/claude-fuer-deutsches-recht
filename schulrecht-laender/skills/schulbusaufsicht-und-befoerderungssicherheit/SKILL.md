@@ -19,7 +19,7 @@ description: "Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verk
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, Schülerinnen und Schüler, Schulleitung, Schulträger oder Behörde gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
+Schulbusaufsicht und Beförderungssicherheit wird als eigenständiger schulrechtlicher Arbeitsgang geführt: zuerst Landesrecht und Schulform bestimmen, dann Verwaltungsakt, pädagogische Wertung, Grundrechtsbezug, Frist und Belege trennen, damit Eltern, Schule oder Behörde aus unvollständigen Unterlagen eine belastbare Prüfspur erhalten.
 
 ## Spezialfokus
 

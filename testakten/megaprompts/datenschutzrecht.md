@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 362 Skills (gekuerzt fuer Chat-Fenster) des Plugins `datenschutzrecht`.
+Dieser Megaprompt enthaelt top-8 von 359 Skills (gekuerzt fuer Chat-Fenster) des Plugins `datenschutzrecht`.
 
 ## Inhaltsverzeichnis
 

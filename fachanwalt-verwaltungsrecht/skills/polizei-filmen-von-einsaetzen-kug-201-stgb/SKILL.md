@@ -20,7 +20,7 @@ description: "Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeiei
 
 ## Worum es geht
 
-Dieser Skill hilft bei polizeirechtlichen Konflikten, wenn Bürger, Presse, Versammlungsteilnehmer, Beobachter oder Betroffene Polizeihandeln mit Smartphone, Kamera oder Livestream dokumentieren. Er soll nicht zum Stören polizeilicher Maßnahmen anleiten, sondern die rechtliche Ausgangslage präzise machen: Dokumentation ist häufig grundrechtlich geschützt; ein pauschales Filmverbot, eine Identitätsfeststellung oder eine Sicherstellung/Beschlagnahme braucht tragfähige Tatsachen, Rechtsgrundlage und Verhältnismäßigkeit.
+Dieser Arbeitsgang ordnet polizeirechtliche Konflikte beim Filmen von Polizeieinsätzen: Bürger, Presse, Versammlungsteilnehmer, Beobachter oder Betroffene dokumentieren Polizeihandeln mit Smartphone, Kamera oder Livestream. Er soll nicht zum Stören polizeilicher Maßnahmen anleiten, sondern die rechtliche Ausgangslage präzise machen: Dokumentation ist häufig grundrechtlich geschützt; ein pauschales Filmverbot, eine Identitätsfeststellung oder eine Sicherstellung/Beschlagnahme braucht tragfähige Tatsachen, Rechtsgrundlage und Verhältnismäßigkeit.
 
 ## Kaltstartfragen
 

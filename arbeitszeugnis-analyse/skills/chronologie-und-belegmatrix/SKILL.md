@@ -1,40 +1,22 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix im Plugin Arbeitszeugnis Analyse im Arbeitszeugnis-Analyse."
+description: "Chronologie und Belegmatrix für Arbeitszeugnisse: Tätigkeitsverlauf, Leistungs-/Führungsbelege, Entwurfsstände, Schlussformel, Geheimcodes und Arbeitgeberkommunikation gerichtsfest ordnen."
 ---
 
-# Chronologie und Belegmatrix
+# Chronologie und Belegmatrix Arbeitszeugnis
 
-## Fachlicher Anker
+## Arbeitsauftrag
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Baue aus der Akte eine verwertbare Zeugnis-Chronologie. Beginne mit Eintritt, Positionswechseln, Aufgaben, Zielvereinbarungen, Abmahnungen/Lob, Beendigungsgrund, Zeugnisdatum, Entwurfsfassungen und Änderungsverlangen.
 
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+## Normenanker
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+- GewO § 109 Abs. 1-3: Art des Zeugnisses, Klarheit und elektronische Form.
+- BGB §§ 242, 241 Abs. 2: Treu und Glauben, Rücksichtnahme, Wahrheit/Wohlwollen.
+- BGB §§ 195, 199: Verjährung.
+- ArbGG §§ 2, 46: Zuständigkeit und zivilprozessuale Beweislogik.
+- AGG §§ 1, 7, 15 nur bei diskriminierenden Zeugnisformulierungen oder Benachteiligungskontext.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Matrix
 
-## Zeugnis-spezifische Belegmatrix
-
-| Datum | Ereignis | Belegquelle | Relevanz für Note |
-| --- | --- | --- | --- |
-| Eintritt | Arbeitsvertrag, ggf. Stellenbeschreibung | Vertrag, E-Mail-Bestätigung | Aufgabenumfang Note 1/2 |
-| Beurteilungsbeiträge | Mitarbeitergespräche, Zielvereinbarungen, Boni | HR-System, E-Mail | Substantiierung für Klage auf Note 2 |
-| Vorzeugnisse, Zwischenzeugnisse | aufeinanderfolgende Beurteilungen | Zeugnisakte | Bindungswirkung des Zwischenzeugnisses (BAG ständige Rechtsprechung: in der Regel Bindung, Verschlechterung bedarf besonderer Begründung) |
-| Auszeichnungen, Beförderungen | interne Anerkennung | HR-Akte | Gegenargument gegen "bemüht" |
-| Abmahnungen, Konflikte | Personalakte | HR | Risiko für Arbeitgeber-Verteidigung |
-| Schlussformel | Vorbild aus eigener HR-Praxis | Vergleichszeugnisse | Bedauern, Dank, Zukunftswünsche prüfen |
-
-Reihenfolge bei Personennennung beachten: zuerst Vorgesetzte, dann Mitarbeiter, dann Kollegen, dann Kunden. Umkehrung ist ein Geheimcode-Signal.
-
+Spalten: Tatsache, Zeitraum, Beleg/Anlage, Zeugnisstelle, gewünschte Formulierung, Arbeitgeberrisiko, Beweisstärke, offener Nachweis. Markiere harte Belege stärker als bloße Selbsteinschätzungen.

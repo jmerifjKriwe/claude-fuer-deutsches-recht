@@ -5,31 +5,28 @@ description: "Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit
 
 # Red-Team Qualitygate
 
-## Normenanker
+## Arbeitsauftrag
 
-Arbeitsfokus: **Red-Team Qualitygate**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **forschungszulage-antragstellung** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-- `§ 1 FZulG` — Anspruchsberechtigung.
-- `§ 2 Abs. 1 FZulG` — begünstigtes F&E-Vorhaben.
-- `§ 3 FZulG` — förderfähige Aufwendungen.
-- `§ 4 FZulG` — Höhe der Zulage.
-- `§ 5 FZulG` — Antrag.
-- `§ 6 FZulG` — Bescheinigung.
-- `§ 10 FZulG` — Festsetzung/Auszahlung.
-- `§ 90 Abs. 1 AO` — Mitwirkung und Belege.
+## Aktenstart ohne Leerlauf
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+## Fachliche Anker
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+- FZulG §§ 1-6 und AO bei Forschungszulage; BHO §§ 23, 44, VV-BHO/ANBest-P bei Zuwendungen; EU-Beihilferecht soweit einschlägig.
+- Projektziel, Neuheit, technisches/wissenschaftliches Risiko, Personal-/Aufwandsnachweis, Budget und Bewilligungslogik getrennt darstellen.
+- Keine Förderbehauptung ohne Arbeitspaket, Methode, Risiko, Nachweis und prüffähige Kostenposition ausgeben.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.

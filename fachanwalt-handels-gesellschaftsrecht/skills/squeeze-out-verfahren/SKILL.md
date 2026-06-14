@@ -37,7 +37,7 @@ description: "Mehrheitsaktionaer will Minderheitsaktionaere aus AG herausdrangen
 
 ### 2. WpUG-Squeeze-out §§ 39a-c WpUG
 
-- Nach erfolgreichem UEbernahmeangebot
+- Nach erfolgreichem UEuebernahmeangebot
 - Schwelle: 95 % des stimmberechtigten Kapitals
 - 3-Monats-Frist nach Ende Annahmefrist
 - Antrag beim LG (Landgericht des Sitzes der Ziel-Gesellschaft)

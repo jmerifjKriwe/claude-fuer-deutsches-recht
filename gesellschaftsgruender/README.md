@@ -169,7 +169,7 @@ Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschrei
 | `minderjaehrige-gesellschafter` | Prüft Minderjährige in Gesellschaften: Vertretung, Familiengericht, Haftung und Genehmigungen im Gesellschaftsgruender. |
 | `mitarbeiter-gf-arbeitsvertrag` | Prüft Gründeranstellung, Geschäftsführervertrag, Sozialversicherung, IP und Wettbewerbsverbote im Gesellschaftsgruender. |
 | `mitarbeiterbeteiligung-esop-vsop` | Prüft Mitarbeiterbeteiligung, virtuelle Anteile, Vesting, Leaver und Steuer-/Arbeitsrechtsschnittstellen im Gesellschaftsgruender. |
-| `musterprotokoll-vs` | Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist im Gesellschaftsgruender. |
+| `musterprotokoll-vs-individuelle-satzung` | Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist im Gesellschaftsgruender. |
 | `notar-vorbereitung` | Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: No... |
 | `notarbriefing-onepager` | Erstellt ein Notarbriefing mit Firma, Sitz, Gegenstand, Kapital, Gesellschaftern, GF, Besonderheiten im Gesellschaftsgruender. |
 | `one-page-roadmap` | Erstellt eine einseitige Roadmap von Idee bis Eintragung und operativem Start im Gesellschaftsgruender. |

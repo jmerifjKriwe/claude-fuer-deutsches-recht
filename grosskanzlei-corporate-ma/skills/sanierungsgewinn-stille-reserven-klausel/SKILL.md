@@ -29,7 +29,7 @@ Dieser Skill ist das Beratungsmodul für die strukturierte Anwendung beider Mech
 - Konzerneinbringung mit Anteilseignerwechsel.
 - Refinanzierungstransaktion mit Anteilseignerwechsel und Schutzbedürfnis für den Verlustvortrag.
 
-Nicht dieser Skill, sondern `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg` ist primär, wenn nur die Konkurrenz § 3a EStG/§ 8c KStG zu klären ist.
+Nicht dieser Skill, sondern `gk-sanierungsgewinn-forderungsverzicht-vs-8c-kstg-mantelkauf-8c-kstg` ist primär, wenn nur die Konkurrenz § 3a EStG/§ 8c KStG zu klären ist.
 
 ## Rechtlicher Rahmen
 

@@ -53,7 +53,7 @@ Dieser Skill stellt die Zeitachse 12 Monate vor dem geplanten Antrag dar und zei
 |---|---|---|---|
 | M-12 | Erkennung Sanierungsfall; Mandantenwarnung versenden (siehe Skill `stb-sanierungsgewinn-mandantenwarnung-rechtzeitig`) | Anwalt/StB | Mandantenbrief |
 | M-11 | Verlustvortrag-Sanity-Check ESt/KSt/GewSt (siehe Skill `stb-sanierungsgewinn-verlustvortrag-sanity-check`) | StB | Verlustvortrags-Tabelle |
-| M-10 | Erstdiagnose: unternehmensbezogene vs. personenbezogene Sanierung (siehe Skill `stb-sanierungsgewinn-3a-estg-unternehmens-vs-person`) | Anwalt | Memo |
+| M-10 | Erstdiagnose: unternehmensbezogene vs. personenbezogene Sanierung (siehe Skill `stb-sanierungsgewinn-3a-unternehmens-vs-person-person`) | Anwalt | Memo |
 | M-9 | Sanierungsbedürftigkeit dokumentieren — BWA, Liquiditätsplan, Krisenursachenanalyse | StB + Anwalt | Sanierungskonzept Entwurf |
 | M-8 | Sanierungsfähigkeit dokumentieren — Fortbestehensprognose, integrierte Planung 24 Monate | Sanierungsberater + StB | IDW S 6 / S 11 Entwurf |
 | M-7 | Sanierungseignung dokumentieren — Maßnahmenkatalog, Quote, Realisierbarkeit | Anwalt + Sanierungsberater | Maßnahmenplan |

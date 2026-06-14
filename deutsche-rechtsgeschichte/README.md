@@ -118,7 +118,7 @@ Automatisch generierte Komplett-Liste aller 132 Skills in diesem Plugin. Beschre
 | `neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsre` | Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht im Deutsche Rechtsgeschichte. |
 | `neu-009-spaetkaiserreich-sozialgesetzgebung-und-verwaltungss` | Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat im Deutsche Rechtsgeschichte. |
 | `neu-010-november-1918-uebergangsrecht-revolution-und-kontinu` | Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität im Deutsche Rechtsgeschichte. |
-| `neu-011-weimarer-reichsverfassung-grundrechte-staatsorganisa` | Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation im Deutsche Rechtsgeschichte. |
+| `neu-011-weimarer-reichsverfassung-grundrechte-staatsorganisation` | Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation im Deutsche Rechtsgeschichte. |
 | `neu-012-notverordnungen-und-verfassungskrise-weimar` | Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar im Deutsche Rechtsgeschichte. |
 | `neu-014-entnazifizierung-kontrollratsrecht-und-uebergang` | Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang im Deutsche Rechtsgeschichte. |
 | `neu-015-grundgesetz-entstehung-parlamentarischer-rat` | Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat im Deutsche Rechtsgeschichte. |

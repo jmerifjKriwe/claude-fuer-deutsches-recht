@@ -5,32 +5,28 @@ description: "Fristen- und Risikoampel."
 
 # Fristen- und Risikoampel
 
-## Fristen Urteilsabsetzung (Zivilprozess)
-- **Urteilsfrist § 315 ZPO:** Urteil ist binnen 3 Wochen nach Verkündung zur Geschäftsstelle zu übergeben (Aktenlauf); ohne vollständige Niederschrift kann Berufung erfolgreich rügen.
-- **Tatbestandsberichtigung § 320 ZPO:** Antrag innerhalb von 2 Wochen ab Zustellung des Urteils.
-- **Urteilsergänzung § 321 ZPO:** Antrag binnen 2 Wochen.
-- **Berufung:** Berufungsschrift 1 Monat (§ 517 ZPO), Begründung 2 Monate (§ 520 ZPO).
-- **Vorab-Tenor mit Gründen nach Lage der Akten möglich**, wenn Sache reif ist und keine Partei mündliche Verhandlung verlangt.
+## Arbeitsauftrag
 
-## Risiken / Anti-Muster
-- **Rot:** Urteil ohne Rechtsbehelfsbelehrung -- Berufungsfrist beginnt nicht.
-- **Rot:** Tenor unbestimmt ("an die Klägerin zu zahlen, was sie erforderlich hat") -- nicht vollstreckbar; Aufhebung in der Berufung.
-- **Rot:** Wertung im Tatbestand statt in den Entscheidungsgründen.
-- **Rot:** Beweismaß-Verwechslung (§ 286 statt § 287 ZPO bei Schadenshöhe) -- Begründungsmangel.
-- **Gelb:** Tatbestand verweist auf "Anlage K1" ohne Wiedergabe des wesentlichen Inhalts -- Berufungsgericht nicht informiert.
-- **Gelb:** Kostenentscheidung ohne § 92 Abs. 2 ZPO bei nur geringer Zuvielforderung.
-- **Gelb:** Vorläufige Vollstreckbarkeit nach § 709 vs. § 711 ZPO falsch gewählt.
+Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **urteilsbauer-relationsmacher** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+## Aktenstart ohne Leerlauf
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Fachliche Anker
+
+- BGB §§ 631 ff., 650a ff., 650p ff.; VOB/B nur bei wirksamer Einbeziehung; HOAI Leistungsbilder/Leistungsphasen.
+- BauGB, Landesbauordnung, VwGO und Nachbarrecht bei öffentlich-rechtlichem Einschlag prüfen.
+- Mangel, Abnahme, Nachtrag, Bauzeit, Behinderung, Vergütung, Sicherheiten und Beweissicherung getrennt strukturieren.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.

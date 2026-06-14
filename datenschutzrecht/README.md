@@ -224,7 +224,7 @@ datenschutzrecht/
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 362 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 359 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -259,7 +259,7 @@ Automatisch generierte Komplett-Liste aller 362 Skills in diesem Plugin. Beschre
 | `benachrichtigung-art-34-schwelle-hohes` | Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art. 34 Abs. 1 DSGVO erreicht ist. Behandelt: Abgrenzung zur Meldeschwelle Art. 33 Abs. 1 DSGVO; EDSA-Beispielfallgruppen; Faktoren Schwere und Wahrscheinlichkeit; Sondergruppen... |
 | `beweissicherung` | Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren Bußgeldverfahren, Strafverfahren oder Zivilprozess verwertbar bleiben. Behandelt: Chain of Custody; Logging-Sicherung; Speicherabb... |
 | `bussgeldverteidigung-art-83` | Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art. 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur Bußgeldberechnung; Wirtschaftliche Einheit... |
-| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Datenschutzrecht: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bere... |
+| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich datenschutzrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `compliance-dokumentation-und-akte` | Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk: Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk. |
 | `datenpanne-meldung` | Datenpanne nach Art. 33 34 DSGVO melden wenn Sicherheitsverletzung personenbezogener Daten vorliegt. Art. 33 34 DSGVO Meldepflichten § 65 BDSG. Prüfraster: Meldepflicht 72-Stunden-Frist Schwere Risikobewertung Behordenmeldung Betroffenen... |
 | `datenpanne-schriftsatz-brief-memo-bausteine` | Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle,... |
@@ -437,7 +437,7 @@ Automatisch generierte Komplett-Liste aller 362 Skills in diesem Plugin. Beschre
 | `erstgespraech-vorfallmeldung` | Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung. Behandelt: Zeitstrahl der Kenntnisnahme; betroffene Systeme und Verarbeitungen; Datenkategorien und Schutzbedar... |
 | `eskalationsmatrix` | Definiert eine Eskalationsmatrix vom Erstmelder über Service-Desk und Datenschutzbeauftragten bis zur Geschäftsleitung und externen Beratern. Behandelt: Schwellenwerte für Eskalation; Erreichbarkeit außerhalb der Bürozeiten; Stellvertret... |
 | `forensische-erstsicherung` | Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei. Behandelt: Auswahl und Beauftragung des Forensikers; Mandatsstruktur mit Anwaltsp... |
-| `fristen-und-risikoampel` | Fristen- und Risikoampel im Datenschutzrecht: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits... |
+| `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich datenschutzrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `funktionsuebertragung-vs-auftragsverarbeitung` | Abgrenzung Funktionsuebertragung gegen Auftragsverarbeitung Art. 28 DSGVO bei Berufsgeheimnistraegern Inkasso Steuerberatung Wirtschaftspruefung und externe Rechtsdienstleistung. Wann handelt der Dritte als eigener Verantwortlicher und w... |
 | `generator-fehlerkatalog` | Generator Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `generator-red-team-und-qualitaetskontrolle` | Generator: Red-Team und Qualitätskontrolle: Generator: Red-Team und Qualitätskontrolle. |
@@ -453,7 +453,7 @@ Automatisch generierte Komplett-Liste aller 362 Skills in diesem Plugin. Beschre
 | `lead-authority-konzern` | Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art. 56 DSGVO. Behandelt: Hauptniederlassung; entscheidungsmächtige Stelle; Konzernstruktur; EDSA-Leitlinien zur Lead Authority; Kooperati... |
 | `lessons-learned-nachbereitung` | Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls. Behandelt: Post-Mortem-Workshop; Ursachenanalyse Root Cause; Maßnahmenkatalog; Verantwortlichkeiten und Fristen; Update interner Richtlinien; Awareness-Schulung; Ü... |
 | `mandantendaten-ki` | Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von KI-Tools in der Kanzlei prüfen. Art. 5 6 DSGVO BRAO § 43a Verschwiegenheit. Prüfraster: Rechtsgrundlage Zweckbindung Vertraulichkeit Anwaltsprivileg AVV KI-Anbieter. Outp... |
-| `mandantenkommunikation` | Mandantenkommunikation im Datenschutzrecht: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor? |
+| `mandantenkommunikation` | Mandantenkommunikation im Bereich datenschutzrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `mandat-arbeitsbereich` | Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rol... |
 | `massenbenachrichtigung` | Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art. 34 DSGVO. Behandelt: Versandlogistik E-Mail-Welle; Brief-Welle; Push und SMS; Adressqualität; Bounces; Sprachvarianten; Hotline-Dimensionierung; Pressewell... |
 | `meldekette-auftragsverarbeiter` | Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art. 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt; Eskalation bei Schweigen oder Verzögerung; AV-Vertrags... |
@@ -584,11 +584,8 @@ Automatisch generierte Komplett-Liste aller 362 Skills in diesem Plugin. Beschre
 | `verdacht-vs-festgestellt` | Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art. 33 Abs. 1 DSGVO hat oder ob noch bloßer Verdacht vorliegt. Behandelt: Abgrenzung Verdacht und Kenntnis; angemessene Sicherheit der Feststellung; Pflicht zur unv... |
 | `vvt-update-nach-vorfall` | Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art. 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffenen Verarbeitungen; Anpassung der technischen und organisatorische... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-output-waehlen` | Output wählen: Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `zeitleiste` | Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung. Behandelt: Eintritt; Erstwahrnehmung; Meldung an Service-Desk; Eingang Datenschutzpostfach; Kenntnisbegriff Art. 33 DSGVO;... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

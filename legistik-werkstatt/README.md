@@ -127,7 +127,7 @@ Dieses Plugin ist ein Werkzeug zur Beschleunigung legistischer Arbeit. Es ersetz
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 246 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 244 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -259,7 +259,7 @@ Automatisch generierte Komplett-Liste aller 246 Skills in diesem Plugin. Beschre
 | `bmz-multilaterale-zusammenarbeit-und-eu` | Sachbereich Multilaterale Zusammenarbeit und EU im Geschäftsbereich BMZ: Normbestand (UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.); Akteure (BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.); EU-Bezug (NDICI; EFAD-Arch... |
 | `bundestag-fristen-form-und-zustaendigkeit` | Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `bundestag-fristen-form-zustaendigkeit` | Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zust... |
-| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Legistik (Gesetzgebungstechnik): 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Bel... |
+| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich legistik-werkstatt: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `dokumente-intake` | Dokumentenintake für Legistik-Werkstatt (Gesetzgebung): sortiert Referentenentwurf, Kabinettvorlage, BR-Drucksache, prüft Datum, Absender, Frist und Beweiswert (Folgenabschätzung, Stellungnahmen Verbände); markiert Lücken; berücksichtigt... |
 | `dokumente-rendern-docx-pdf` | Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinungsbild der Bundesregierung, des Bundestages, eines Landes oder eines Landtags rendern. Anwendungsfall fertiger Entwurf soll als lieferfähiges Dokument nach Handbuch der Rec... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Legistik-Werkstatt (Gesetzgebung): ordnet Rolle (Ressort, Bundesrat, Bundestag), markiert Frist (Beteiligungsfristen), wählt Norm (GGO Bundesregierung, Handbuch der Rechtsförmlichkeit (HdR)) und Zuständig... |
@@ -272,7 +272,7 @@ Automatisch generierte Komplett-Liste aller 246 Skills in diesem Plugin. Beschre
 | `formulierungshilfe-bauen` | Formulierungshilfen, Änderungsantraege, Gesetzentwuerfe aus der Mitte des Bundestages oder Landtages, Entschliessungsantraege und parlamentarische Antraege bauen. Anwendungsfall Bundesministerium liefert fachlich zu, Koalitionsfraktion w... |
 | `fraktionen-dokumentenmatrix-lueckenliste` | Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist... |
 | `fraktionen-dokumentenmatrix-und-lueckenliste` | Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung. |
-| `fristen-und-risikoampel` | Fristen- und Risikoampel im Legistik (Gesetzgebungstechnik): 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege... |
+| `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich legistik-werkstatt: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `gesetzesentwurf-kabinett` | Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden.... |
 | `gesetzesentwurf-kabinett-aa-voelkerrecht` | Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden.... |
 | `gesetzgebungskompetenz-pruefen` | Gesetzgebungskompetenz nach Art. 70 bis 74 GG prüfen bevor Entwurf aufgesetzt wird. Anwendungsfall Referent oder Verband fragt ob Bund oder Land regelungsbefogt ist. Ausschließliche Bundeskompetenz Art. 71 i.V.m. 73 GG. Konkurrierende Ko... |
@@ -373,8 +373,6 @@ Automatisch generierte Komplett-Liste aller 246 Skills in diesem Plugin. Beschre
 | `verordnungsermaechtigung-art80` | Verordnungsermaechtigung nach Art. 80 Abs. 1 GG prüfen bevor Rechtsverordnung entworfen wird. Anwendungsfall geplante Rechtsverordnung und Anwalt oder Referent fragt ob Ermaechtigungsgrundlage genuegend bestimmt ist. Bestimmtheitstrias I... |
 | `vorlagen-interessen` | Vorlagen: Mehrparteienkonflikt und Interessenmatrix im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustel... |
 | `vorlagen-mehrparteien-konflikt-und-interessen` | Vorlagen: Mehrparteienkonflikt und Interessenmatrix. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Legistik. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Legistik. |
 | `xml-paralleldarstellung` | Maschinenlesbare Paralleldarstellung eines Gesetzesentwurfs in LegalDocML.de oder eNorm-XML erstellen. Anwendungsfall eGesetzgebung BMJ Bundesgesetzblatt online oder automatisierte Weiterverarbeitung erfordert strukturierte XML-Ausgabe.... |
 | `zirkelschluss-pruefen` | Zirkelschluesse und kreisfreie Verweisketten im legistischen Entwurf aufspueren. Anwendungsfall Entwurf enthaelt viele Querverweise und soll auf ungewollte Zirkel und tautologische Definitionen geprüft werden. Direkte Zirkel A verweist a... |
 

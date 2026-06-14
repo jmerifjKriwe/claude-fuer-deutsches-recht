@@ -58,7 +58,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 79 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -68,12 +68,12 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `aufsatz-interessen-beckrs-blindzitate` | Aufsatz: Mehrparteienkonflikt und Interessenmatrix. |
 | `beckrs-zahlen-schwellen-und-berechnung` | Beckrs: Zahlen, Schwellenwerte und Berechnung. |
 | `blindzitate-internationaler-bezug-und-schnittstellen` | Blindzitate: Internationaler Bezug und Schnittstellen. |
-| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Zitierweise im deutschen Recht: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Bele... |
+| `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich zitierweise-deutsches-recht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `datum-entscheidungsform-spezial-gericht` | Datum: Behörden-, Gerichts- oder Registerweg. |
 | `dokumente-intake` | Dokumentenintake für Zitierweise deutsches Recht: sortiert Entscheidung, Kommentar, Aufsatz, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Zitierweise deutsches Recht: ordnet Rolle (Autor, Korrektor, Mandant), markiert Frist (keine harten Fristen), wählt Norm (Standardzitierregeln (Gericht, Datum, Az, Fundstelle, Rn)) und Zuständigkeit (zust... |
 | `entscheidungsform-risikoampel-und-gegenargumente` | Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien. |
-| `fristen-und-risikoampel` | Fristen- und Risikoampel im Zitierweise im deutschen Recht: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege... |
+| `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich zitierweise-deutsches-recht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `gericht-dokumentenmatrix-und-lueckenliste` | Gericht: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `hauszitierweise-juristische-kommentar` | Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `juristische-erstpruefung-und-mandatsziel` | Juristische: Erstprüfung, Rollenklärung und Mandatsziel. |
@@ -83,8 +83,7 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `live-beweislast-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustel... |
 | `live-beweislast-und-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung. |
 | `lizenziertem-mandantenkommunikation-entscheidungsvorlage` | Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage. |
-| `mandantenkommunikation` | Mandantenkommunikation im Zitierweise im deutschen Recht: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege li... |
-| `mandantenkommunikation-redteam-qualitygate` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Zitierweise. |
+| `mandantenkommunikation` | Mandantenkommunikation im Bereich zitierweise-deutsches-recht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `nutzerquelle-fehlerkatalog` | Nutzerquelle Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `output-waehlen` | Output-Wahl für Zitierweise deutsches Recht: stimmt Adressat (Autor, Korrektor, Mandant), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Zitiernachweis, Quellenverzeichnis, Korrektur falsch zitierter Stellen. |
 | `paywallfreie-rechtsprechungsbelege` | Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Zitierweise. |
@@ -94,9 +93,6 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `redteam-qualitygate` | Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Zitierweise deutsches Recht: trennt fehlende Tatsachen von fehlenden Belegen (Entscheidung, Kommentar, Aufsatz), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatznachweis. |
 | `verifizierbarer-zugriff-sonderfall-zit` | Verifizierbarer: Verhandlung, Vergleich und Eskalation. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Zitierweise. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Zitierweise. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Zitierweise. |
 | `zit-gesetzeszitierung-bauleiter` | Bauleiter Gesetzeszitierung in Schriftsatz und Memo: Norm, Absatz, Satz, Halbsatz, Nummer, Buchstabe. Prüfraster für einheitliche Schreibweise. |
 | `zit-internationale-kommentar-zitat` | Spezialfall Zitierung internationaler Urteile EuGH EGMR sowie Common-Law-Urteile: ECLI, Neutral Citation, Public Domain. Prüfraster für internationale Mandate im Zitierweise. |
 | `zit-internationale-urteile-spezial` | Spezialfall Zitierung internationaler Urteile EuGH EGMR sowie Common-Law-Urteile: ECLI, Neutral Citation, Public Domain. Prüfraster für internationale Mandate. |

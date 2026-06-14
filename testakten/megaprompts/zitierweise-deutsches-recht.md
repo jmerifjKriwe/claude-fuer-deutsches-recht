@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 83 Skills des Plugins `zitierweise-deutsches-recht`.
+Dieser Megaprompt enthaelt top-10 von 79 Skills des Plugins `zitierweise-deutsches-recht`.
 
 ## Inhaltsverzeichnis
 

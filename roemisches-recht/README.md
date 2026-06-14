@@ -45,7 +45,7 @@ Dieses Plugin führt durch **Römisches Recht** von der archaischen Zwölftafelt
 - **Wie funktioniert das System überhaupt?** → `rom-160-actio-denken-und-rechtsmechanik`, `rom-046-formularprozess`, `rom-048-praetorisches-edikt`
 - **Kauf, Sachmangel, Gefahr, Eigentumsübergang?** → `rom-020-kauf-emptio-venditio`, `rom-039-gefahrtragung-beim-kauf`, `rom-040-eviktion-und-sachmaengel`
 - **Darlehen, Zinsen, Seehandel, Versicherungsersatz?** → `rom-023-darlehen-mutuum`, `rom-123-fenus-nauticum-seedarlehen`, `rom-139-versicherung-und-risiko-im-roemischen-recht`
-- **Testament, Pflichtteil, Erbschaft?** → `rom-052-erbrecht-testament`, `rom-145-querela-inofficiosi-testamenti-pflichtteil`
+- **Testament, Pflichtteil, Erbschaft?** → `rom-052-erbrecht-testament`, `rom-145-querela-inofficiosi-testamenti-pflichtteil-pflichtteil`
 - **Vergebung, Vererbung oder Vergabe?** → `rom-161-vergebung-vererbung-vergabe-begriffsklaerung`
 
 ## Quellen- und Qualitätsdisziplin
@@ -56,7 +56,7 @@ Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Li
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 233 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -118,7 +118,6 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `actio-pauliana-voraussetzungen-und-beweisrecht` | Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Gläubigers und Mitwirkung des Dritten. Behandelt die Sondervorschrift... |
 | `actio-publiciana` | Römisches Recht: Actio Publiciana. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `actio-publiciana-interdikte-besitzschutz` | Römisches Recht: Actio Publiciana nach D. 6.2 (Ulpian) - Fiktionsklage für bonitarischen Eigentümer, Voraussetzungen, Verhältnis zur rei vindicatio und zur exceptio rei venditae et traditae im Römisches Recht. |
-| `actio-tributoria-handelssklave` | Actio tributoria: Klage gegen den dominus für Verbindlichkeiten aus Handelsgeschaeften seines Sklaven (servus negotiator) der mit peculium und Wissen des dominus Handel trieb. Skill behandelt das Verhältnis zu actio de peculio und actio... |
 | `actio-tributoria-handelssklave-sondervermoegen` | Actio tributoria: Klage gegen den dominus für Verbindlichkeiten aus Handelsgeschaeften seines Sklaven (servus negotiator) der mit peculium und Wissen des dominus Handel trieb. Skill behandelt das Verhältnis zu actio de peculio und actio... |
 | `actiones-in-rem-in-personam` | Römisches Recht: Actiones In Rem In Personam. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `aequitas` | Römisches Recht: Aequitas. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
@@ -131,29 +130,23 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `besitz-possessio-grundlagen` | Römisches Recht: Besitz Possessio Grundlagen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `besitzschutz-vergleich-bgb` | Römisches Recht: Besitzschutz Vergleich BGB. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `bona-fides` | Römisches Recht: Bona Fides. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `bonorum-distractio` | Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermögensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg für Senatoren und die Entwicklung zum modernen Einzelvollstreck... |
 | `bonorum-distractio-vermoegenseinzelverkauf` | Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermögensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg für Senatoren und die Entwicklung zum modernen Einzelvollstreck... |
 | `bonorum-possessio` | Römisches Recht: Bonorum Possessio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `bonorum-possessio-contra-tabulas` | Bonorum possessio contra tabulas: Vermögensbesitzbestaetigung des Praetors gegen das Testament. Skill behandelt die Voraussetzungen die Schutzfunktion für uebergangene Hauserben (sui heredes) und das Verhältnis zur querela inofficiosi te... |
 | `bonorum-venditio-versteigerung-distractio` | Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung für den Schu... |
-| `bonorum-venditio-versteigerung-emptor` | Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung für den Schu... |
 | `buergschaft-und-sicherheiten` | Römisches Recht: Buergschaft Und Sicherheiten. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `buergschaftstypen-sponsio` | Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Skill behandelt die historische Entwicklung von der altzivilen sponsio ueber die fidepromissio für Peregrini bis zur klassischen fideiussio Justinians. Liefert... |
 | `buergschaftstypen-sponsio-fidepromissio-fideiussio` | Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Skill behandelt die historische Entwicklung von der altzivilen sponsio ueber die fidepromissio für Peregrini bis zur klassischen fideiussio Justinians. Liefert... |
 | `byzantinische-rezeption-und-osteuropa` | Römisches Recht: Byzantinische Rechtsrezeption in orthodox geprägten Rechtsräumen, Südosteuropa, Osteuropa und späterer Rechtsgeschichte. |
-| `byzantinisches-kirchenrecht` | Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung. |
 | `byzantinisches-kirchenrecht-und-familienrecht` | Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung im Römisches Recht. |
 | `byzantinisches-recht-kaltstart` | Römisches Recht: Einstieg in byzantinisches Recht von Justinian bis Basiliken, Kaiserrecht, Verwaltung, Kirche und griechischer Rechtssprache. |
 | `cessio-bonorum-lex-iulia` | Cessio bonorum nach der Lex Iulia: freiwillige Vermögensabtretung des Schuldners an die Gläubiger als Vorlaeufer der Privatinsolvenz mit Restschuldbefreiungswirkung. Skill behandelt die Voraussetzungen die Privilegien des cedens und die... |
-| `cives-sine-romanisierung-provinzen` | Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefer... |
 | `cives-sine-suffragio-municipia-iure` | Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefer... |
-| `civis-romanus-vs-latinus-vs` | Civis Romanus vs. Latinus vs. Peregrinus: drei Buergerstaufen im roemischen Reich. Skill behandelt die Unterscheidung Bewegungs-Rechte (ius migrationis) Eherecht (ius conubii) Handelsrecht (ius commercii) und prozessuale Stellung. Liefer... |
 | `civis-romanus-vs-latinus-vs-peregrinus` | Civis Romanus vs. Latinus vs. Peregrinus: drei Buergerstaufen im roemischen Reich. Skill behandelt die Unterscheidung Bewegungs-Rechte (ius migrationis) Eherecht (ius conubii) Handelsrecht (ius commercii) und prozessuale Stellung. Liefer... |
 | `civitas-romana-erwerb-und-verlust` | Civitas Romana: Erwerb und Verlust des roemischen Buergerrechts. Skill behandelt Geburtserwerb adoptio Manumissio Naturalisationsdekrete capitis deminutio media und maxima sowie das Buergerrecht der Latini iuris Latini iuris veteris. Lie... |
 | `codicilli-nachtragliche` | Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen Recht. Skill behandelt die ad-hoc-Form ihre Bindung an ein bestehendes Testament und die Bedeutung für Legate und Fideikommisse. Liefert Quellenmatrix. |
 | `codicilli-und-nachtragliche-erbverfuegungen` | Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen Recht. Skill behandelt die ad-hoc-Form ihre Bindung an ein bestehendes Testament und die Bedeutung für Legate und Fideikommisse. Liefert Quellenmatrix im Römisches Recht. |
 | `constitutio-antoniniana-212` | Constitutio Antoniniana 212 n. Chr: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite die mutmasslichen Motive (Steuern aus vicesima hereditatum) die Beschraenkung auf bestimmte dediticii sowie die rechts... |
-| `constitutio-antoniniana-actio-denken` | Constitutio Antoniniana 212 n. Chr: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite die mutmasslichen Motive (Steuern aus vicesima hereditatum) die Beschraenkung auf bestimmte dediticii sowie die rechts... |
 | `culpa-dolus-custodia` | Römisches Recht: Culpa Dolus Custodia. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `darlehen-mutuum` | Römisches Recht: Darlehen Mutuum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `delikte-damnum-injuria-datum` | Römisches Recht: Delikte Damnum Injuria Datum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
@@ -189,7 +182,6 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `import-aus-orient-aurum-silberbarren` | Roemischer Importhandel mit dem Orient: Gold Silber Seide Edelsteine Pfeffer. Skill behandelt die rechtlichen Sondervorschriften zum Edelmetall- und Luxusguterimport die hohen Zoelle (vicesima quinta) und die Aufsicht. Liefert Quellenmat... |
 | `iniuria-persoenlichkeitsverletzung` | Römisches Recht: Iniuria Persoenlichkeitsverletzung. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `innominatkontrakte` | Römisches Recht: Innominatkontrakte. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `intercessio-frauen-senatusconsultum` | Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergschaft durch Frauen für fremde Schulden. Skill behandelt das senatusconsultum von ca. 46 n. Chr. die Schutzfunktion und die Umgehung. Liefert Quellenmatrix. |
 | `intercessio-frauen-senatusconsultum-velleianum` | Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergschaft durch Frauen für fremde Schulden. Skill behandelt das senatusconsultum von ca. 46 n. Chr. die Schutzfunktion und die Umgehung. Liefert Quellenmatrix im Rö... |
 | `interdicta-praxis` | Römisches Recht: Interdicta Praxis. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `interdictum-fraudatorium-restitutio` | Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutzinstrumente gegen Gläubigerschaedigung. Skill behandelt die Voraussetzungen den Eilcharakter des interdictum und die Verzahnung mit der actio Pauliana. Liefe... |
@@ -204,7 +196,6 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `juristen-paulus` | Römisches Recht: Juristen Paulus. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `juristen-ulpian` | Römisches Recht: Juristen Ulpian. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `justinian-novellen-basiliken-prochiron` | Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur im Römisches Recht. |
-| `justinian-novellen-griechische` | Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur. |
 | `justinianische-kompilation` | Römisches Recht: Justinianische Kompilation. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `kaltstart-institutionensystem` | Römisches Recht: Systemüberblick nach Gaius Inst. 1.8 (personae, res, actiones), Corpus Iuris Civilis (Institutiones, Digesta, Codex, Novellae) - Einstieg in Quellen, Epochen und Methodik. |
 | `kaltstart-triage` | Römisches Recht: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
@@ -221,7 +212,6 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `laesio-und-preisgerechtigkeit` | Römisches Recht: Laesio Und Preisgerechtigkeit. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `lateinische-rechtsmaximen-pruefen` | Römisches Recht: Lateinische Rechtsmaximen Prüfen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `legat-und-fideikommiss` | Römisches Recht: Legat Und Fideikommiss. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `legitimatio-erbfaehigkeit-roemischer` | Legitimatio und Erbfaehigkeit im roemischen Recht: wer konnte erben? Skill behandelt die Trennung zivilrechtlicher und praetorischer Erbenstellung Status civitatis als Voraussetzung Sklaven und Peregrini-Sonderregeln. Liefert Quellenmatrix. |
 | `legitimatio-und-erbfaehigkeit-roemischer-buerger` | Legitimatio und Erbfaehigkeit im roemischen Recht: wer konnte erben? Skill behandelt die Trennung zivilrechtlicher und praetorischer Erbenstellung Status civitatis als Voraussetzung Sklaven und Peregrini-Sonderregeln. Liefert Quellenmatr... |
 | `leihe-commodatum` | Römisches Recht: Leihe Commodatum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `leihe-commodatum-verwahrung-depositum-auftrag` | Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa) im Römisches Recht. |
@@ -229,10 +219,8 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `mancipatio-und-in-iure-cessio` | Römisches Recht: Mancipatio Und In Iure Cessio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `mandatum-pecuniae-credendae` | Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhältnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix. |
 | `mandatum-pecuniae-credendae-bankvertrag` | Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhältnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix im Römisches Recht. |
-| `mandatum-qualificatum` | Mandatum qualificatum: qualifizierte Auftragserteilung als Buergschaftsersatz. Skill behandelt die juristische Konstruktion das Verhältnis zur mandatum pecuniae credendae und die Folgen bei Nichterfuellung. Liefert Quellenmatrix. |
 | `mandatum-qualificatum-testamentum-calatis` | Mandatum qualificatum: qualifizierte Auftragserteilung als Buergschaftsersatz. Skill behandelt die juristische Konstruktion das Verhältnis zur mandatum pecuniae credendae und die Folgen bei Nichterfuellung. Liefert Quellenmatrix im Römis... |
 | `miete-pacht-locatio-conductio` | Römisches Recht: Miete Pacht Locatio Conductio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `missio-bona-praetorische` | Missio in bona: praetorische Einweisung des Gläubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das... |
 | `missio-in-bona-praetorische-vermoegensergreifung` | Missio in bona: praetorische Einweisung des Gläubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das... |
 | `mos-italicus-und-mos-gallicus` | Römisches Recht: Mos Italicus Und Mos Gallicus. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `negotiorum-gestio` | Römisches Recht: Negotiorum Gestio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
@@ -252,13 +240,11 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `prozess-legisaktionen` | Römisches Recht: Prozess Legisaktionen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `quellenkritik-digesten-institutionen` | Römisches Recht: Quellenkritik Digesten Und Institutionen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `quellenkritik-digesten-und-institutionen` | Römisches Recht: Quellenkritik der Digesten (Const. Tanta 533 n.Chr.) - Interpolationsforschung, Florentina-Handschrift, Lenel Palingenesia Iuris Civilis und Methoden der Textkritik im Römisches Recht. |
-| `querela-inofficiosi-testamenti` | Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Skill behandelt die Klage des uebergangenen oder ungenuegend bedachten naechsten Verwandten Pflichtteilsbruchteil (portio legitima) Voraussetzungen und Beweislast. Liefert Qu... |
 | `querela-inofficiosi-testamenti-pflichtteil` | Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Skill behandelt die Klage des uebergangenen oder ungenuegend bedachten naechsten Verwandten Pflichtteilsbruchteil (portio legitima) Voraussetzungen und Beweislast. Liefert Qu... |
 | `realvertraege-system` | Römisches Recht: Realvertraege System. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `receptum-nautarum-cauponum` | Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern für eingebrachtes Gut. Skill behandelt die receptum-Erklaerung die Haftungsgrundlage als custodia und das Verhältnis... |
 | `receptum-nautarum-cauponum-stabulariorum` | Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern für eingebrachtes Gut. Skill behandelt die receptum-Erklaerung die Haftungsgrundlage als custodia und das Verhältnis... |
 | `rechtsfolgen-fuer-peregrini-und-ius-gentium` | Rechtsfolgen für Peregrini und das ius gentium. Skill behandelt die Stellung der Ausländer vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Qu... |
-| `rechtsfolgen-peregrini-ius-gentium` | Rechtsfolgen für Peregrini und das ius gentium. Skill behandelt die Stellung der Ausländer vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Qu... |
 | `red-team-modernisierung` | Römisches Recht: Red-Team-Analyse zur Modernisierung - Grenzen der röm.-rechtl. Analogie für heutige Rechtsfragen, methodische Risiken, Scheinlegalität durch selektive Zitation und Kritik der Pandektistik. |
 | `rei-vindicatio` | Römisches Recht: Rei Vindicatio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `res-sachen-und-einteilungen` | Römisches Recht: Res Sachen Und Einteilungen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
@@ -270,18 +256,14 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `roman-law-false-friends` | Römisches Recht: Roman Law False Friends. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `romanisch-byzantinische-synopse` | Römisches Recht: Synopse von Zwölftafelgesetz, klassischem Recht, Justinian, byzantinischer Fortbildung und späterer Rezeption. |
 | `romanisierung-der-provinzen-und-stadtrecht` | Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf... |
-| `romanisierung-provinzen-stadtrecht` | Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf... |
 | `romanistische-begriffe-im-bgb` | Römisches Recht: Romanistische Begriffe Im BGB. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `schenkungen-und-mortisationsfragen` | Römisches Recht: Schenkungen Und Mortisationsfragen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `seehandel-lex-rhodia-de-iactu` | Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht. Skill behandelt die Voraussetzungen und Rechtsfolgen der Pflicht zur anteiligen Schadenstragung bei Werfen von Gut in Seenot. Vorlaeufer der modernen Grossen Havarie (Yor... |
-| `seerouten-ostia-alexandria-importzoll` | Roemische Seerouten und Importzollordnung. Skill behandelt die historische Rechtspraxis des roemischen Welthandels Routen wie Ostia-Alexandria die portoria-Zoelle und die Aufsicht durch die Procuratoren des Fiscus. Liefert Quellenmatrix. |
 | `seerouten-ostia-alexandria-und-importzoll` | Roemische Seerouten und Importzollordnung. Skill behandelt die historische Rechtspraxis des roemischen Welthandels Routen wie Ostia-Alexandria die portoria-Zoelle und die Aufsicht durch die Procuratoren des Fiscus. Liefert Quellenmatrix... |
-| `seeunglueck-versicherung-actio-tributoria` | Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Prüfrast... |
 | `seeunglueck-versicherung-und-risiko` | Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Prüfraster. |
 | `servituten-und-dienstbarkeiten` | Römisches Recht: Servituten Und Dienstbarkeiten. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `servituten-vergleich` | Römisches Recht: Servituten Vergleich. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `sklaverei-rechtshistorisch-kritisch` | Römisches Recht: Sklaverei Rechtshistorisch Kritisch. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `status-libertatis-civitatis-familiae` | Status-Lehre: status libertatis status civitatis status familiae als drei Achsen der roemischen Personenrechtsstellung. Skill behandelt das Zusammenspiel die rechtlichen Konsequenzen und die Wechselwirkungen mit Eigentums- und Erbrecht.... |
 | `status-libertatis-status-civitatis-status-familiae` | Status-Lehre: status libertatis status civitatis status familiae als drei Achsen der roemischen Personenrechtsstellung. Skill behandelt das Zusammenspiel die rechtlichen Konsequenzen und die Wechselwirkungen mit Eigentums- und Erbrecht.... |
 | `stellio-schmuggel-roemische` | Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermögenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix. |
 | `stellio-und-schmuggel-roemische-zollordnung` | Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermögenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix im Römisches Recht. |
@@ -300,7 +282,6 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `usucapio-ersitzung` | Römisches Recht: Usucapio Ersitzung. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `usus-modernus` | Römisches Recht: Usus Modernus. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `vergebung-vererbung-vergabe-begriffsklaerung` | Römisches Recht: Klärt mehrdeutige Anfragen zu Vergebung, Vererbung und Vergabe. Behandelt Schulderlass durch acceptilatio und pactum de non petendo, Erbrecht durch hereditas/Testament/querela inofficiosi testamenti sowie öffentliche Ver... |
-| `versicherung-risiko-roemischen` | Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefe... |
 | `versicherung-und-risiko-im-roemischen-recht` | Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefe... |
 | `vertragstypen-konsens-real-verbal-litteral` | Römisches Recht: Vertragstypen nach Entstehungsmodus. Konsensualverträge, Realverträge, Verbalverträge/Stipulation und Litteralkontrakte; mit Kauf, mutuum, Zinsstipulation, Darlehen und moderner Rezeptionswarnung im Römisches Recht. |
 | `verwahrung-depositum` | Römisches Recht: Verwahrung Depositum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
@@ -308,11 +289,8 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `vollstreckungsrecht-personal-und-vermoegen` | Personalexekution und Vermögensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermögensvollstreckung Trennung personale Haftung... |
 | `vormundschaft-und-kuratel` | Römisches Recht: Vormundschaft Und Kuratel. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `werk-und-diensttypen` | Römisches Recht: Werk Und Diensttypen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `zwoelftafelgesetz-delikte-sanktionen` | Römisches Recht: Zwölftafelgesetz zu furtum, iniuria, Sachschaden, Talion, Bußen, Sakralnähe und privater Sanktion. |
 | `zwoelftafelgesetz-delikte-und-sanktionen` | Römisches Recht: Zwölftafelgesetz zu furtum, iniuria, Sachschaden, Talion, Bußen, Sakralnähe und privater Sanktion im Römisches Recht. |
-| `zwoelftafelgesetz-familie-erbe` | Römisches Recht: Zwölftafelgesetz zu Hausverband, patria potestas, Erbfolge, Vormundschaft, Nachbarschaft und Grenzkonflikten. |
 | `zwoelftafelgesetz-familie-erbe-nachbarschaft` | Römisches Recht: Zwölftafelgesetz zu Hausverband, patria potestas, Erbfolge, Vormundschaft, Nachbarschaft und Grenzkonflikten im Römisches Recht. |
-| `zwoelftafelgesetz-prozess` | Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus. |
 | `zwoelftafelgesetz-prozess-und-vollstreckung` | Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus im Römisches Recht. |
 | `zwoelftafelgesetz-quellenkritik` | Römisches Recht: Zwölftafelgesetz als frühe Quellenlage, Rekonstruktion, Fragment, spätere Überlieferung und methodische Grenzen. |
 
