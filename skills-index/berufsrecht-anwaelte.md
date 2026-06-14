@@ -1,6 +1,6 @@
 # berufsrecht-anwaelte
 
-**201 Skills** · Stand `v318.0.0`
+**201 Skills** · Stand `v319.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-anwaelte/README.md)

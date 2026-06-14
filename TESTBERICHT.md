@@ -1,7 +1,7 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-14
-**Arbeitsstand:** v318.0.0 / Release-Hardening über v317 — Upload-Retry, Remote-Asset-Verifikation mit SHA-256-Digest, zusätzlicher Testakten-ZIP-Validator, Checksums-Asset, lokaler Trockenlauf aller Plugin-/Testakten-/Sammel-ZIPs und bereinigte Download-Übersichten ohne veraltende Größenangaben. 213 Plugins, 20.835 Skills, 204 Testakten.
+**Arbeitsstand:** v319.0.0 / Megaprompt- und Testakten-Sanity über v318 — Megaprompt-Generator repo-relativ gehärtet, 213 Megaprompts neu erzeugt, Testakten-Gesamt-PDFs und Testakten-Release-ZIPs erneut validiert. 213 Plugins, 20.835 Skills, 204 Testakten.
 **Plugins gesamt:** 213
 **Skills gesamt:** 20835
 **Testakten gesamt:** 204 (zzgl. 2 Hilfsmaterial-Verzeichnisse: `formatvorlagen-paradebeispiele`, `megaprompts`)

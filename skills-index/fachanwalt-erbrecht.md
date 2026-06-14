@@ -1,6 +1,6 @@
 # fachanwalt-erbrecht
 
-**70 Skills** · Stand `v318.0.0`
+**70 Skills** · Stand `v319.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/README.md)

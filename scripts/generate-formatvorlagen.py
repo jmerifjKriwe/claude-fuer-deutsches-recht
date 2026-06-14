@@ -20,7 +20,7 @@ from odf.text import P, H, Span, List, ListItem, ListStyle, ListLevelStyleBullet
 from odf.table import Table, TableColumn, TableRow, TableCell
 from odf.dc import Title
 
-REPO = Path('/home/user/claude-fuer-deutsches-recht')
+REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / 'testakten' / 'formatvorlagen-paradebeispiele'
 
 DISCLAIMER_DE = ('Achtung: Dies ist eine experimentelle KI-Vorlage. Keine Haftung, keine '

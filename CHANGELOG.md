@@ -1,3 +1,20 @@
+# v319.0.0 — Megaprompt-/Testakten-Sanity: Generator repo-relativ, Testakten erneut validiert
+
+Kleines Hardening-Release über v318 nach Sanity-Check der Megaprompts und Testakten. Keine fachlichen Skill-Inhalte umgebaut; Ziel ist robustere Reproduzierbarkeit.
+
+## Megaprompts
+
+- `scripts/generate-megaprompt.py` und `scripts/generate-formatvorlagen.py` nutzen jetzt den Repository-Pfad relativ zum Script statt alter fest verdrahteter `/home/user/...`-Pfade.
+- Alle 213 Megaprompts wurden lokal neu erzeugt.
+- Sanity-Scan: keine alten Bündelungsartefakte oder Maschinenpfade in den Megaprompts; `TODO`-Treffer sind nur bewusst formulierte Arbeitslisten-Bausteine.
+
+## Testakten
+
+- Gesamt-PDF-Validator erneut grün: 204 Testakten.
+- Testakten-Release-ZIP-Validator erneut grün: 206 Testakten-/Material-ZIPs, 5.817 exportierte Dateien, 204 Gesamt-PDFs.
+
+---
+
 # v318.0.0 — Kleine Release-Härtung: keine veraltenden Größenangaben in Skill-Übersicht
 
 Mini-Hardening über v317. Die Release-Pipeline aus v317 bleibt unverändert, aber die automatisch generierte `SKILLS.md` nennt bei den Sammel-Downloads keine alten ungefähren Paketgrößen mehr. Die tatsächlichen Größen schwanken mit Testakten, Plugin-ZIPs und Kompression; feste Fantasiezahlen sind hier schlechter als keine Zahl.

@@ -23,7 +23,7 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-REPO = Path('/home/user/claude-fuer-deutsches-recht')
+REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / 'testakten' / 'megaprompts'
 
 # Plugins, die wir explizit AUSSCHLIESSEN:

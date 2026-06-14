@@ -1,6 +1,6 @@
 # informationsfreiheit-presseauskunft
 
-**100 Skills** · Stand `v318.0.0`
+**100 Skills** · Stand `v319.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/informationsfreiheit-presseauskunft/README.md)

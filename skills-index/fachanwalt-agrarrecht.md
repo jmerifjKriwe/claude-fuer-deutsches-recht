@@ -1,6 +1,6 @@
 # fachanwalt-agrarrecht
 
-**64 Skills** · Stand `v318.0.0`
+**64 Skills** · Stand `v319.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-agrarrecht/README.md)
