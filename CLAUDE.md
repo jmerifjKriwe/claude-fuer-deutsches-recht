@@ -88,6 +88,7 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jede Vorlage, jeden V
 - Pull Requests in diesem Repo werden **nicht als Draft** erstellt, sondern direkt als „ready" und nach Push **sofort auf `main` gemerged** — es sei denn, der Nutzer fordert ausdrücklich einen Draft oder eine Review-Pause.
 - Merges erfolgen per Merge-Commit (kein Squash, kein Rebase), damit die Entwicklungs-History pro Branch erhalten bleibt.
 - Force-Push auf `main` oder gemeinsame Branches ist verboten.
+- **Codex-Review verbindlich anstoßen.** Direkt nach dem Erzeugen jedes Pull Requests — und vor dem Merge — muss auf dem PR ein Kommentar mit dem Inhalt `@codex review` gepostet werden. So bekommt jeder PR automatisch ein zweites Augenpaar von Codex, unabhängig davon, welches Werkzeug den PR erzeugt hat (Claude, Perplexity oder andere). Auch wenn der PR anschließend direkt gemerged wird, bleibt der Review-Kommentar als Audit-Spur stehen und Codex' spätere Anmerkungen können in einem Folge-PR adressiert werden. Diese Regel gilt **ausnahmslos für jeden PR**.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
