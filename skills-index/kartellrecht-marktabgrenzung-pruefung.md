@@ -1,21 +1,28 @@
 # kartellrecht-marktabgrenzung-pruefung
 
-**309 Skills** · Stand `v328.0.0`
+**309 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kartellrecht-marktabgrenzung-pruefung.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [kartellrecht-marktabgrenzung-pruefung-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kartellrecht-marktabgrenzung-pruefung-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [kartellrecht-marktabgrenzung-pruefung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kartellrecht-marktabgrenzung-pruefung.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`1-gwb-kartellverbot-nationale-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/1-gwb-kartellverbot-nationale-pruefung/SKILL.md) | § 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA im Kartellrecht (M... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/1-gwb-kartellverbot-nationale-pruefung/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kartellrecht-marktabgrenzung-pruefung/skills/1-gwb-kartellverbot-nationale-pruefung/SKILL.md) |
 | [`19a-gwb-relative-abuse-economic`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/19a-gwb-relative-abuse-economic/SKILL.md) | § 19a GWB überragende marktübergreifende Bedeutung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA im Kart... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/19a-gwb-relative-abuse-economic/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kartellrecht-marktabgrenzung-pruefung/skills/19a-gwb-relative-abuse-economic/SKILL.md) |

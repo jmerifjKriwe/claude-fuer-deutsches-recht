@@ -1,21 +1,28 @@
 # fachanwalt-insolvenz-sanierungsrecht
 
-**505 Skills** · Stand `v328.0.0`
+**505 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-insolvenz-sanierungsrecht/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [fachanwalt-insolvenz-sanierungsrecht-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [fachanwalt-insolvenz-sanierungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`absonderungsrecht-paragraf-50-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-insolvenz-sanierungsrecht/skills/absonderungsrecht-paragraf-50-inso/SKILL.md) | Absonderungsrecht § 50 InsO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-insolvenz-sanierungsrecht/skills/absonderungsrecht-paragraf-50-inso/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-insolvenz-sanierungsrecht/skills/absonderungsrecht-paragraf-50-inso/SKILL.md) |
 | [`anfechtung-vorsatz-paragraf-133-inso-bgh-ix-zr-65-16`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-insolvenz-sanierungsrecht/skills/anfechtung-vorsatz-paragraf-133-inso-bgh-ix-zr-65-16/SKILL.md) | Anfechtung Vorsatz Paragraf 133 InsO BGH Ix Zr 65 16: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-insolvenz-sanierungsrecht/skills/anfechtung-vorsatz-paragraf-133-inso-bgh-ix-zr-65-16/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-insolvenz-sanierungsrecht/skills/anfechtung-vorsatz-paragraf-133-inso-bgh-ix-zr-65-16/SKILL.md) |

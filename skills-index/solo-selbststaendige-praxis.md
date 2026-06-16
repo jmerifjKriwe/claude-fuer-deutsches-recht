@@ -1,21 +1,28 @@
 # solo-selbststaendige-praxis
 
-**201 Skills** · Stand `v328.0.0`
+**201 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/solo-selbststaendige-praxis/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [solo-selbststaendige-praxis-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [solo-selbststaendige-praxis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`abmahnung-erhalten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/solo-selbststaendige-praxis/skills/abmahnung-erhalten/SKILL.md) | Solo-Selbstständige: sortiert UWG/Urheber/Marke/DSGVO-Abmahnung und Fristen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/solo-selbststaendige-praxis/skills/abmahnung-erhalten/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/solo-selbststaendige-praxis/skills/abmahnung-erhalten/SKILL.md) |
 | [`abschluss-vor-abgabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/solo-selbststaendige-praxis/skills/abschluss-vor-abgabe/SKILL.md) | Solo-Selbstständige: macht den finalen Selbstcheck vor Vertrag, Rechnung, Behördenantwort oder Upload; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/solo-selbststaendige-praxis/skills/abschluss-vor-abgabe/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/solo-selbststaendige-praxis/skills/abschluss-vor-abgabe/SKILL.md) |

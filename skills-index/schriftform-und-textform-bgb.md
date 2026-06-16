@@ -1,21 +1,28 @@
 # schriftform-und-textform-bgb
 
-**59 Skills** · Stand `v328.0.0`
+**59 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schriftform-und-textform-bgb/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schriftform-und-textform-bgb.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [schriftform-und-textform-bgb-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schriftform-und-textform-bgb-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [schriftform-und-textform-bgb.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schriftform-und-textform-bgb.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`amtlicher-formkern-bgb-zpo-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schriftform-und-textform-bgb/skills/amtlicher-formkern-bgb-zpo-check/SKILL.md) | Amtlicher Formkern-Check für BGB und ZPO: trennt Schriftform, Textform, elektronische Form, qES, beA/EGVP, § 130e ZPO, Zustellung, Zugang und Beweiskraft elektronischer Dokumente im Schriftform Und Textform Bgb. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schriftform-und-textform-bgb/skills/amtlicher-formkern-bgb-zpo-check/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schriftform-und-textform-bgb/skills/amtlicher-formkern-bgb-zpo-check/SKILL.md) |
 | [`anschluss-routing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schriftform-und-textform-bgb/skills/anschluss-routing/SKILL.md) | Anschluss-Routing für Schriftform/Textform BGB: wählt den nächsten Spezial-Skill nach Engpass (Form vor Wirksamkeit, Vertrag, Unterschrift, qualifizierte e-Signatur), dokumentiert Router-Entscheidung mit Begründung. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schriftform-und-textform-bgb/skills/anschluss-routing/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schriftform-und-textform-bgb/skills/anschluss-routing/SKILL.md) |

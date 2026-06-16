@@ -1,21 +1,28 @@
 # lobbyregister-bundestag
 
-**52 Skills** · Stand `v328.0.0`
+**52 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lobbyregister-bundestag/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/lobbyregister-bundestag.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [lobbyregister-bundestag-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/lobbyregister-bundestag-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [lobbyregister-bundestag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/lobbyregister-bundestag.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`account-rollen-regelungsvorhaben-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lobbyregister-bundestag/skills/account-rollen-regelungsvorhaben-erfassen/SKILL.md) | Plant Administrationskonto, Rollen, Zugriffsschutz, Zwei-Personen-Freigabe und Passwortmanager für das Lobbyregisterportal. Output Account-Konzept im Lobbyregister Bundestag. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lobbyregister-bundestag/skills/account-rollen-regelungsvorhaben-erfassen/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/lobbyregister-bundestag/skills/account-rollen-regelungsvorhaben-erfassen/SKILL.md) |
 | [`adressatenkreis-bundestag-bundesregierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lobbyregister-bundestag/skills/adressatenkreis-bundestag-bundesregierung/SKILL.md) | Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeitende, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte im Lobbyregister Bundestag. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lobbyregister-bundestag/skills/adressatenkreis-bundestag-bundesregierung/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/lobbyregister-bundestag/skills/adressatenkreis-bundestag-bundesregierung/SKILL.md) |

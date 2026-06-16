@@ -1,21 +1,28 @@
 # legistik-werkstatt
 
-**254 Skills** · Stand `v328.0.0`
+**254 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/legistik-werkstatt/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/legistik-werkstatt.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [legistik-werkstatt-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/legistik-werkstatt-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [legistik-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/legistik-werkstatt.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`aa-ausfuhrkontrolle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/legistik-werkstatt/skills/aa-ausfuhrkontrolle/SKILL.md) | Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschäftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.); typische Leg... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/legistik-werkstatt/skills/aa-ausfuhrkontrolle/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/legistik-werkstatt/skills/aa-ausfuhrkontrolle/SKILL.md) |
 | [`aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/legistik-werkstatt/skills/aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension/SKILL.md) | Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschäftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.); typische Leg... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/legistik-werkstatt/skills/aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/legistik-werkstatt/skills/aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension/SKILL.md) |

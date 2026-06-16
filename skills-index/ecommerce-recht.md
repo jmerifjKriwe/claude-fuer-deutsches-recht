@@ -1,21 +1,28 @@
 # ecommerce-recht
 
-**72 Skills** · Stand `v328.0.0`
+**72 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ecommerce-recht.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [ecommerce-recht-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ecommerce-recht-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [ecommerce-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ecommerce-recht.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`abmahnung-einstweilige-verfuegung-sofortplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/skills/abmahnung-einstweilige-verfuegung-sofortplan/SKILL.md) | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Abmahnung einstweilige Verfügung Sofortplan im Ecommerce Recht. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/skills/abmahnung-einstweilige-verfuegung-sofortplan/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/ecommerce-recht/skills/abmahnung-einstweilige-verfuegung-sofortplan/SKILL.md) |
 | [`abmahnung-uwg-abo-falle-accessibility-bfsg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/skills/abmahnung-uwg-abo-falle-accessibility-bfsg/SKILL.md) | Abmahnung UWG Unterlassungserklärung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecomm... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/skills/abmahnung-uwg-abo-falle-accessibility-bfsg/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/ecommerce-recht/skills/abmahnung-uwg-abo-falle-accessibility-bfsg/SKILL.md) |

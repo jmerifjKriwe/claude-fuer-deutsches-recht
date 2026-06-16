@@ -1,21 +1,28 @@
 # aussenwirtschaft-zoll-sanktionen
 
-**124 Skills** · Stand `v328.0.0`
+**124 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aussenwirtschaft-zoll-sanktionen/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [aussenwirtschaft-zoll-sanktionen-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [aussenwirtschaft-zoll-sanktionen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`allgemeingenehmigung-agg-antidumping`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aussenwirtschaft-zoll-sanktionen/skills/allgemeingenehmigung-agg-antidumping/SKILL.md) | Allgemeine Genehmigungen nach AWV: Auffinden und Prüfen der passenden Allgemeingenehmigung (AGG) für kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert War... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aussenwirtschaft-zoll-sanktionen/skills/allgemeingenehmigung-agg-antidumping/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aussenwirtschaft-zoll-sanktionen/skills/allgemeingenehmigung-agg-antidumping/SKILL.md) |
 | [`asset-freeze-atlas-ausfuhranmeldung-audit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aussenwirtschaft-zoll-sanktionen/skills/asset-freeze-atlas-ausfuhranmeldung-audit/SKILL.md) | Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Ve... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aussenwirtschaft-zoll-sanktionen/skills/asset-freeze-atlas-ausfuhranmeldung-audit/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aussenwirtschaft-zoll-sanktionen/skills/asset-freeze-atlas-ausfuhranmeldung-audit/SKILL.md) |

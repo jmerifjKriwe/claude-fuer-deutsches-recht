@@ -1,21 +1,28 @@
 # roemisch-katholisches-kirchenrecht
 
-**1876 Skills** · Stand `v328.0.0`
+**1876 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [roemisch-katholisches-kirchenrecht-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [roemisch-katholisches-kirchenrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`aktenaufnahme-in-pfarrei-ordinariat-und-offizialat`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/skills/aktenaufnahme-in-pfarrei-ordinariat-und-offizialat/SKILL.md) | Aktenaufnahme in Pfarrei, Ordinariat und Offizialat: Register, Urkunden, Gesprächsnotizen, E-Mails, Bescheide und Seelsorgegeschichte; CIC can. 486-491 und 535 und 537; KKK 871-945; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenre... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/skills/aktenaufnahme-in-pfarrei-ordinariat-und-offizialat/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/roemisch-katholisches-kirchenrecht/skills/aktenaufnahme-in-pfarrei-ordinariat-und-offizialat/SKILL.md) |
 | [`allgemeiner-einstieg-cic-katechismus-und-pastorale-lage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/skills/allgemeiner-einstieg-cic-katechismus-und-pastorale-lage/SKILL.md) | Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: Sprache, Rolle, Status, Normspur, Lehrspur, Zuständigkeit und Ausgabeformat; CIC can. 1-22 und 96-112 und 204-223; KKK Prolog, 748-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetz... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/skills/allgemeiner-einstieg-cic-katechismus-und-pastorale-lage/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/roemisch-katholisches-kirchenrecht/skills/allgemeiner-einstieg-cic-katechismus-und-pastorale-lage/SKILL.md) |

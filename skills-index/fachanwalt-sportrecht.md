@@ -1,21 +1,28 @@
 # fachanwalt-sportrecht
 
-**77 Skills** · Stand `v328.0.0`
+**77 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-sportrecht/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sportrecht.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [fachanwalt-sportrecht-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sportrecht-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [fachanwalt-sportrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sportrecht.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`anschluss-routing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-sportrecht/skills/anschluss-routing/SKILL.md) | Anschluss-Routing für Fachanwalt Sportrecht: wählt den nächsten Spezial-Skill nach Engpass (Berufung CAS 21 Tage, Spielerlizenz, Verbandssatzung, Transferregister), dokumentiert Router-Entscheidung mit Begründung. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-sportrecht/skills/anschluss-routing/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-sportrecht/skills/anschluss-routing/SKILL.md) |
 | [`athletenvertrag-fristennotiz-und-naechster-schritt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-sportrecht/skills/athletenvertrag-fristennotiz-und-naechster-schritt/SKILL.md) | Athletenvertrag: Fristennotiz und nächster Schritt: Athletenvertrag: Fristennotiz und nächster Schritt. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-sportrecht/skills/athletenvertrag-fristennotiz-und-naechster-schritt/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-sportrecht/skills/athletenvertrag-fristennotiz-und-naechster-schritt/SKILL.md) |

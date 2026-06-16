@@ -1,21 +1,28 @@
 # tabellenreview-3d
 
-**83 Skills** · Stand `v328.0.0`
+**83 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/tabellenreview-3d/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [tabellenreview-3d-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [tabellenreview-3d.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`aggregation-spaltenprompts-definieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/tabellenreview-3d/skills/aggregation-spaltenprompts-definieren/SKILL.md) | Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb/gruen je Dimension. Normen: §§ 174 ff. InsO. Prüfraster: Ampellogik, Schwellenwerte, Gesamtrisikoeinschaetzung. Output: Risikoampel-Aggregationsbericht. Abgrenzung: nicht Kreuzblatt-Konsistenzprüfung im Tabellenr... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/tabellenreview-3d/skills/aggregation-spaltenprompts-definieren/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/tabellenreview-3d/skills/aggregation-spaltenprompts-definieren/SKILL.md) |
 | [`anschluss-routing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/tabellenreview-3d/skills/anschluss-routing/SKILL.md) | Anschluss-Routing für Tabellenreview (Excel/CSV): wählt den nächsten Spezial-Skill nach Engpass (keine harten Fristen, Excel-/CSV-Datei, Formelreview, Datenqualitätsbericht), dokumentiert Router-Entscheidung mit Begründung. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/tabellenreview-3d/skills/anschluss-routing/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/tabellenreview-3d/skills/anschluss-routing/SKILL.md) |

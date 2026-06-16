@@ -1,21 +1,28 @@
 # insolvenzforderungsanmeldungspruefung
 
-**60 Skills** · Stand `v328.0.0`
+**60 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzforderungsanmeldungspruefung/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungsanmeldungspruefung.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [insolvenzforderungsanmeldungspruefung-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungsanmeldungspruefung-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [insolvenzforderungsanmeldungspruefung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungsanmeldungspruefung.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`aktenanlage-batchregister`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzforderungsanmeldungspruefung/skills/aktenanlage-batchregister/SKILL.md) | Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle erhaelt umfangreichen Stapel Forderungsanmeldungen nach § 174 InsO und muss strukturiertes Register aufbauen. § 175 InsO Tabelle, § 176 InsO Prüfungste... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzforderungsanmeldungspruefung/skills/aktenanlage-batchregister/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insolvenzforderungsanmeldungspruefung/skills/aktenanlage-batchregister/SKILL.md) |
 | [`anschluss-routing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzforderungsanmeldungspruefung/skills/anschluss-routing/SKILL.md) | Anschluss-Routing für Insolvenzforderungsanmeldung: wählt den nächsten Spezial-Skill nach Engpass (Anmeldefrist im Eröffnungsbeschluss, Eröffnungsbeschluss, Forderungsanmeldung, Insolvenztabelle), dokumentiert Router-Entscheidung mit Begründung. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzforderungsanmeldungspruefung/skills/anschluss-routing/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insolvenzforderungsanmeldungspruefung/skills/anschluss-routing/SKILL.md) |

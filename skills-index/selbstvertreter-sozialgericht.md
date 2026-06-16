@@ -1,21 +1,28 @@
 # selbstvertreter-sozialgericht
 
-**138 Skills** · Stand `v328.0.0`
+**138 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-sozialgericht/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [selbstvertreter-sozialgericht-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [selbstvertreter-sozialgericht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`akteneinsicht-25-sgb-x`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-sozialgericht/skills/akteneinsicht-25-sgb-x/SKILL.md) | Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhältnis zur DSGVO-Auskunft. Liefert Antragsvorlage. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-sozialgericht/skills/akteneinsicht-25-sgb-x/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/selbstvertreter-sozialgericht/skills/akteneinsicht-25-sgb-x/SKILL.md) |
 | [`amtsermittlungsgrundsatz-103-sgg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-sozialgericht/skills/amtsermittlungsgrundsatz-103-sgg/SKILL.md) | Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-sozialgericht/skills/amtsermittlungsgrundsatz-103-sgg/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/selbstvertreter-sozialgericht/skills/amtsermittlungsgrundsatz-103-sgg/SKILL.md) |

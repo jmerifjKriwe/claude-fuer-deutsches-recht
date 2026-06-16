@@ -1,21 +1,28 @@
 # word-legal-ai-plugin-and-skill-for-german-lawyers
 
-**52 Skills** · Stand `v328.0.0`
+**52 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/word-legal-ai-plugin-and-skill-for-german-lawyers/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/word-legal-ai-plugin-and-skill-for-german-lawyers.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [word-legal-ai-plugin-and-skill-for-german-lawyers-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/word-legal-ai-plugin-and-skill-for-german-lawyers-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [word-legal-ai-plugin-and-skill-for-german-lawyers.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/word-legal-ai-plugin-and-skill-for-german-lawyers.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`agb-konforme-klauseln-305-310-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/word-legal-ai-plugin-and-skill-for-german-lawyers/skills/agb-konforme-klauseln-305-310-bgb/SKILL.md) | Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach § 307 BGB Generalklausel und Transparenzgebot, §... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/word-legal-ai-plugin-and-skill-for-german-lawyers/skills/agb-konforme-klauseln-305-310-bgb/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/word-legal-ai-plugin-and-skill-for-german-lawyers/skills/agb-konforme-klauseln-305-310-bgb/SKILL.md) |
 | [`anspruchsgrundlage-rechtsfolge-b2b-klauseln`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/word-legal-ai-plugin-and-skill-for-german-lawyers/skills/anspruchsgrundlage-rechtsfolge-b2b-klauseln/SKILL.md) | Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklau... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/word-legal-ai-plugin-and-skill-for-german-lawyers/skills/anspruchsgrundlage-rechtsfolge-b2b-klauseln/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/word-legal-ai-plugin-and-skill-for-german-lawyers/skills/anspruchsgrundlage-rechtsfolge-b2b-klauseln/SKILL.md) |
