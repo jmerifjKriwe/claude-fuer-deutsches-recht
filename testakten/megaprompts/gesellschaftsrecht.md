@@ -1625,16 +1625,15 @@ Vor Beginn des Haftungsprüfrasters folgende Fragen klären:
 
 **Adressat:** Mandant / Kanzlei intern — **Tonfall:** sachlich-juristisch
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ```
 ### Haftungsanalyse Geschäftsführer-Haftung § 43 GmbHG
 Gesellschaft: [FIRMA / HRB-NUMMER]
 Geschäftsführer: [NAME]
 Bearbeitungsstand: [DATUM]
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
 ## Sachverhalt
 [Chronologische Kurzdarstellung der Pflichtverletzung]
 
@@ -1774,15 +1773,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Beschlussvorlage
 
-```
-### Gesellschafterbeschluss
-[GESELLSCHAFTSNAME], [HRB-NUMMER]
-Gesellschafterversammlung vom [DATUM]
-
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
 <!-- END ausformulierungspflicht (autogen) -->
 
+```
+### Gesellschafterbeschluss
+[GESELLSCHAFTSNAME], [HRB-NUMMER]
+Gesellschafterversammlung vom [DATUM]
 ## TOP [N]: [BEZEICHNUNG DES TAGESORDNUNGSPUNKTS]
 
 [Beschlusstext — präzise, vollständig]

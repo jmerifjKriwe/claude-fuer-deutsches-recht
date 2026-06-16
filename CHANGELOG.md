@@ -1,3 +1,39 @@
+# v330.0.0 — Inject-Fence-Bug-Fix + Vergaberecht-Megaprompt mit Codex-Korrekturen
+
+Zwei Themen zusammen ausgeliefert: ein scharfer Bug-Fix am Ausformulierungspflicht-Sweep (v329 PR #291), der in 32 Endprodukt-Skills den Autogen-Marker mitten in einen offenen fenced code block geschoben hatte — und der erste anwaltliche 30-Seiten-Megaprompt fuer Vergaberecht inklusive drei Codex-Befunden, die direkt eingearbeitet wurden.
+
+## Inject-Fence-Bug
+
+- `scripts/inject-ausformulierungspflicht.py`: `find_ausgabe_section_end()` jetzt mit Fence-Tracking. Faellt das Dateiende mitten in einen offenen ``` ```-Block, liefert die Funktion die Position **vor** der oeffnenden Fence-Zeile, nicht die nach der letzten Template-Zeile. Damit landet der `<!-- BEGIN ausformulierungspflicht (autogen) -->`-Block niemals mehr in einem fenced code block.
+- Neues Skript `scripts/fix-ausformulierungspflicht-fenced-leak.py`: Reparatur-Lauf ueber den Bestand. Findet betroffene SKILL.md (Marker im offenen Fence), extrahiert den Block, entfernt ihn aus der Datei und platziert ihn vor dem ersten ``` nach der Ausgabeformat-Ueberschrift.
+- Reparatur-Ergebnis: 32 SKILL.md gefixt, 2.392 waren bereits korrekt, 23.216 Dateien ohne Marker (nicht betroffen).
+
+## Vergaberecht-Megaprompt — Codex-Korrekturen
+
+Drei Befunde aus dem Codex-Review zum neuen Skill `fachanwalt-vergaberecht/skills/vergaberechtliche-pruefung-anwaltlich-megaprompt/SKILL.md` (eingespielt in PR #292):
+
+1. **§ 160 III Satz 1 Nr. 1 GWB**: starre 10-Kalendertage-Frist seit Kenntnis des Vergaberechtsverstosses — nicht "unverzueglich".
+2. **§ 99 GWB hat keinen Nr. 5**: Sektorenauftraggeber stehen in § 100 GWB, Konzessionsgeber in § 101 GWB, Sektorentaetigkeiten in § 102 GWB. § 99 GWB betrifft oeffentliche Auftraggeber (Nr. 1–4).
+3. **§ 181 GWB**: Vertrauensschaden, **kein** Verschulden erforderlich; eine **echte Zuschlagschance** genuegt — Anspruch auf Schadensersatz auch bei rein objektiv rechtswidrigem Vergabeverfahren.
+
+## Vergaberecht-Megaprompt — Eckdaten
+
+- Skill: `fachanwalt-vergaberecht/skills/vergaberechtliche-pruefung-anwaltlich-megaprompt/SKILL.md`
+- 783 Zeilen, ~51 KB, 24 Phasen (Intake → Schutzschrift → Wirtschaftliche Kontrolle → Vergabekammer/-senat → Schadensersatz)
+- In `scripts/generate-megaprompt.py` als Position 1 der `priority_first`-Liste eingetragen — taucht damit ganz oben in den generierten Megaprompts auf.
+
+## Validatoren
+
+- `validate-plugin-structure.mjs`: OK
+- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen
+- `validate-testakten-gesamt-pdf.py`: OK (204 Testakten)
+
+## Versions-Bump
+
+- v329.0.0 → v330.0.0 in `.claude-plugin/marketplace.json` (214 Eintraege: 1 top-level + 213 plugins), allen `*/.claude-plugin/plugin.json` (213) sowie README.md, skills-index/README.md, testakten/README.md.
+
+---
+
 # v329.0.0 — Skill-Markdown-ZIPs: echte Datei-Downloads pro Plugin
 
 GitHub liefert `raw.githubusercontent.com`-URLs mit `Content-Type: text/plain` aus. Browser zeigen Markdown deshalb als Text an, statt einen echten Datei-Download zu starten — `?download` wird seit Jahren ignoriert. Nutzer ohne Claude Code, die `SKILL.md` einfach nur als Datei in ChatGPT, Gemini, Mistral oder Le Chat ziehen wollten, hatten bisher keinen sauberen Pfad.

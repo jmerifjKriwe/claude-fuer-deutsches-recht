@@ -5,7 +5,6 @@ description: "Erstellt das Verzeichnis wesentlicher Verträge (Material Contract
 
 # Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats
 
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -172,12 +171,11 @@ Vor Übergabe:
 
 **Adressat:** Transaktionsteam / SPA-Verhandlung — Tonfall: praezise-strukturiert, SPA-konform
 
-```
-
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
 <!-- END ausformulierungspflicht (autogen) -->
 
+```
 ## Anhang [X.X] — Wesentliche Vertraege (Material Contracts)
 
 > INTERN: Dieser Anhang-Entwurf ist ein privilegiertes Arbeitsdokument.

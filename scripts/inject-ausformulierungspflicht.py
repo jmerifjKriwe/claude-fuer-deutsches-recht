@@ -40,24 +40,47 @@ BLOCK = f"""{MARKER_BEGIN}
 
 
 def find_ausgabe_section_end(text: str) -> int | None:
-    """Liefert Position direkt nach dem '## Ausgabeformat'-Block."""
+    """Liefert Position direkt nach dem '## Ausgabeformat'-Block.
+
+    Wichtig: niemals innerhalb eines noch offenen fenced code blocks
+    einfuegen. Markdown-Headings (#) gelten nur ausserhalb eines
+    fenced code blocks; innerhalb eines ``` ... ``` Blocks sind Zeilen
+    mit '#' literaler Inhalt und keine Section-Trenner. Wir tracken
+    deshalb den Fence-Zustand und liefern bei einem noch offenen Fence
+    die Position **vor** dem oeffnenden Fence statt nach der letzten
+    Template-Zeile zurueck.
+    """
     lines = text.split("\n")
     in_block = False
     block_level = 0
-    block_start_line = -1
+    in_fence = False
+    fence_open_line = -1  # Zeilennummer des oeffnenden Fences im Ausgabeformat-Block
     for i, line in enumerate(lines):
+        stripped = line.lstrip()
+        # Fence-Toggle: Zeile beginnt mit ``` (ggf. mit Sprache)
+        if stripped.startswith("```"):
+            if in_block and not in_fence:
+                fence_open_line = i
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            # Innerhalb fenced code: '#' ist literal, kein Heading
+            continue
         m = HEADING_RE.match(line)
         if m:
             level = len(m.group(1))
             if not in_block and AUSGABE_RE.match(line):
                 in_block = True
                 block_level = level
-                block_start_line = i
                 continue
             if in_block and level <= block_level:
                 # neue Sektion auf gleicher oder hoeherer Ebene -> Block-Ende
                 return sum(len(ln) + 1 for ln in lines[:i])
     if in_block:
+        if in_fence and fence_open_line >= 0:
+            # Datei endet mitten in einem fenced code block. Marker MUSS
+            # vor das oeffnende Fence, sonst landet er als Template-Inhalt.
+            return sum(len(ln) + 1 for ln in lines[:fence_open_line])
         # Block reicht bis Dateiende
         return len(text)
     return None
