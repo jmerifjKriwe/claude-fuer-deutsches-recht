@@ -1,6 +1,6 @@
 # berufsrecht-wirtschaftspruefer
 
-**232 Skills** · Stand `v329.0.0`
+**232 Skills** · Stand `v330.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-wirtschaftspruefer/README.md)

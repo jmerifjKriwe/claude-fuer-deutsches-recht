@@ -920,6 +920,11 @@ Betreiberpflichten Art. 26/29 dokumentieren. AVV: DSGVO Art. 28 prüfen.
 
 ## Output-Template — KI-Anbieter-Pruefungsbericht
 **Adressat:** Rechts-/Compliance-Team — Tonfall: sachlich-strukturiert
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ```
 KI-ANBIETER-PRUEFUNGSBERICHT
 [DATUM] — Anbieter: [ANBIETERNAME] — Anwendungsfall: [BESCHREIBUNG]
@@ -943,10 +948,6 @@ WENN ANBIETER NICHT NACHGIBT:
 
 Erstellt: [NAME], [DATUM] — Vor Unterzeichnung anwaltliche Prüfung einholen.
 ```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -2318,6 +2319,11 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 
 ## Output-Template — Richtlinien-Monitor-Bericht
 **Adressat:** KI-Governance-Verantwortlicher — Tonfall: sachlich-strukturiert
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ```
 RICHTLINIEN-MONITOR-BERICHT
 [DATUM] — Modus: [SWEEP / DIREKTANFRAGE] — Zeitraum: [DATUM BIS DATUM]
@@ -2336,10 +2342,6 @@ NAECHSTE SCHRITTE:
 Naechster Sweep: [DATUM]
 Erstellt: [NAME], [DATUM]
 ```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
