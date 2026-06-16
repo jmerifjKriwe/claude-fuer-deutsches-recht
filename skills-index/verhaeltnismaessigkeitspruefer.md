@@ -1,21 +1,28 @@
 # verhaeltnismaessigkeitspruefer
 
-**85 Skills** · Stand `v328.0.0`
+**85 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verhaeltnismaessigkeitspruefer/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [verhaeltnismaessigkeitspruefer-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [verhaeltnismaessigkeitspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`absolute-grenze-existenzminimum`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verhaeltnismaessigkeitspruefer/skills/absolute-grenze-existenzminimum/SKILL.md) | Grundrecht auf Gewaehrleistung eines menschenwuerdigen Existenzminimums aus Art 1 I iVm Art 20 I GG als absolute Grenze der Verhältnismäßigkeit von Sozialleistungskuerzungen, Asylbewerberleistungen und Sanktionsregelungen. Mit BVerfG-Linie Hartz IV, AsylbLG, Hartz-IV-Sanktionen. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verhaeltnismaessigkeitspruefer/skills/absolute-grenze-existenzminimum/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verhaeltnismaessigkeitspruefer/skills/absolute-grenze-existenzminimum/SKILL.md) |
 | [`absolute-grenze-menschenwuerde-art-1-i-gg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verhaeltnismaessigkeitspruefer/skills/absolute-grenze-menschenwuerde-art-1-i-gg/SKILL.md) | Absolute Grenze der Verhältnismäßigkeit Art 1 I GG: Menschenwuerde ist abwaegungsfest und unverfuegbar. Mit Objektformel, Kernbereich, Bezug zu Wesensgehalt Art 19 II GG und zentralen BVerfG-Linien Luftsicherheitsgesetz, Lebenslange Freiheitsstrafe, Hartz IV. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verhaeltnismaessigkeitspruefer/skills/absolute-grenze-menschenwuerde-art-1-i-gg/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verhaeltnismaessigkeitspruefer/skills/absolute-grenze-menschenwuerde-art-1-i-gg/SKILL.md) |

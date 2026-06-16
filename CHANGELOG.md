@@ -1,3 +1,39 @@
+# v329.0.0 — Skill-Markdown-ZIPs: echte Datei-Downloads pro Plugin
+
+GitHub liefert `raw.githubusercontent.com`-URLs mit `Content-Type: text/plain` aus. Browser zeigen Markdown deshalb als Text an, statt einen echten Datei-Download zu starten — `?download` wird seit Jahren ignoriert. Nutzer ohne Claude Code, die `SKILL.md` einfach nur als Datei in ChatGPT, Gemini, Mistral oder Le Chat ziehen wollten, hatten bisher keinen sauberen Pfad.
+
+Neu: pro Plugin gibt es ein eigenes Markdown-ZIP als Release-Asset. ZIPs triggern `Content-Disposition: attachment` und landen damit zuverlaessig im Download-Ordner — auch auf dem Handy.
+
+## Was
+
+- Neues Script `scripts/build-skills-markdown-bundles.py`: erzeugt pro Plugin `<plugin>-skills-markdown.zip` mit allen `SKILL.md`-Dateien, Megaprompts und der Plugin-README. Plus ein Sammel-ZIP `alle-skills-markdown.zip` mit allen Plugin-Bundles.
+- Workflow `.github/workflows/release-plugin-zips.yml`: Bundle-Schritt zwischen Plugin-ZIP-Build und Komplettpaket; `alles-komplettpaket.zip` enthaelt jetzt zusaetzlich einen Ordner `skills-markdown/` mit allen Plugin-Bundles.
+- `scripts/generate-skills-md.py`:
+  - `SKILLS.md` Sammel-Download-Tabelle ergaenzt um `alle-skills-markdown.zip`.
+  - Plugin-Tabelle erweitert um Spalte **Markdown-ZIP** neben Plugin-ZIP.
+  - Detailseiten `skills-index/*.md` mit prominenter Download-Tabelle oben (Markdown-ZIP + Plugin-ZIP) und Klarstellung: `[Raw .md]` wird vom Browser ggf. als Text gerendert, **fuer echten Download Markdown-ZIP nehmen**.
+- `README.md`: Sammel-Downloads-Sektion ergaenzt um `alle-skills-markdown.zip`.
+
+## Asset-Schema
+
+- `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<plugin>-skills-markdown.zip` — pro Plugin
+- `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip` — Sammel (~51 MB)
+
+## Kennzahlen
+
+- Plugin-Markdown-Bundles: 213 ZIPs, je 85 KB - 2 MB
+- Skill/Megaprompt-Dateien gesamt im Sammel-ZIP: 25.852
+- Sammel-ZIP `alle-skills-markdown.zip`: ~51 MB
+
+## Validatoren
+
+- `validate-plugin-structure.mjs`: OK
+- `validate-testakten-gesamt-pdf.py`: OK (204 Testakten)
+- `validate-release-zips.py`: ignoriert die neuen `-skills-markdown.zip` Assets (prueft nur explizit benannte Plugin-ZIPs)
+- `validate-release-assets.py`: erfasst die neuen Assets automatisch ueber `dist/`-Diff
+
+---
+
 # v328.0.0 — Manifest-Top-Level-Version synchronisiert
 
 Fix nach v327: Beim v327-Bump war zwar in `.claude-plugin/marketplace.json` jede Plugin-Eintrag-Version auf 327.0.0 hochgezogen, die **Top-Level-`version`** des Manifests selbst blieb aber auf `326.0.0`. Da `scripts/generate-skills-md.py` und `scripts/generate-skills-overview.py` ihre Stand-Angabe aus genau diesem Top-Level-Feld lesen, zeigten `SKILLS.md` und alle 213 Seiten unter `skills-index/` weiterhin v326, während `README.md` und `skills-index/README.md` schon v327 nannten.

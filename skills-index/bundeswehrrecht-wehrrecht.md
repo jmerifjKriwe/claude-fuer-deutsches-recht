@@ -1,21 +1,28 @@
 # bundeswehrrecht-wehrrecht
 
-**106 Skills** · Stand `v328.0.0`
+**106 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundeswehrrecht-wehrrecht/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bundeswehrrecht-wehrrecht.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [bundeswehrrecht-wehrrecht-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bundeswehrrecht-wehrrecht-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [bundeswehrrecht-wehrrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bundeswehrrecht-wehrrecht.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`aerztliche-begutachtung-dienstfaehigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundeswehrrecht-wehrrecht/skills/aerztliche-begutachtung-dienstfaehigkeit/SKILL.md) | Ärztliche Begutachtung und Dienstfähigkeit: prüft Begutachtungsverfahren, Tauglichkeitsstufen, Rechtsbehelfe und Versorgungsfolgen. Norm-/Quellenanker: §§ 44–45 SG, SVG, DV 46/1 im Bundeswehrrecht Wehrrecht. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundeswehrrecht-wehrrecht/skills/aerztliche-begutachtung-dienstfaehigkeit/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bundeswehrrecht-wehrrecht/skills/aerztliche-begutachtung-dienstfaehigkeit/SKILL.md) |
 | [`akteneinsicht-wbo-arbeitsrecht-zivile`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundeswehrrecht-wehrrecht/skills/akteneinsicht-wbo-arbeitsrecht-zivile/SKILL.md) | Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG im Bundeswehrrecht Wehrrecht. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundeswehrrecht-wehrrecht/skills/akteneinsicht-wbo-arbeitsrecht-zivile/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bundeswehrrecht-wehrrecht/skills/akteneinsicht-wbo-arbeitsrecht-zivile/SKILL.md) |

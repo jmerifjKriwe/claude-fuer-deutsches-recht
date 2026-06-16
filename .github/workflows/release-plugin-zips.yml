@@ -69,6 +69,15 @@ jobs:
       - name: Testakten-Release-ZIPs validieren
         run: python3 scripts/validate-testakten-release-zips.py dist
 
+      - name: Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)
+        run: |
+          # Pro Plugin ein ZIP mit allen SKILL.md + Megaprompts + Plugin-README,
+          # damit Nutzer die Markdown-Dateien wirklich herunterladen koennen
+          # (statt sie im Browser als text/plain angezeigt zu bekommen).
+          python3 scripts/build-skills-markdown-bundles.py dist
+          ls dist/*-skills-markdown.zip | wc -l
+          ls -lh dist/alle-skills-markdown.zip
+
       - name: Sammel-ZIPs bauen
         run: |
           # alle-plugins-megazip.zip enthaelt die installierbaren Einzel-ZIPs
@@ -88,12 +97,20 @@ jobs:
           # alles-komplettpaket.zip enthaelt die Einzel-ZIPs, Sammel-ZIPs,
           # Marketplace und zentrale Uebersichten. Ein Download fuer alles,
           # ohne die installierbaren Plugin-ZIPs mit Rohordnern zu vermischen.
-          mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten
+          mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten dist/komplettpaket/skills-markdown
           cp dist/marketplace.json dist/komplettpaket/marketplace.json
           cp dist/alle-plugins-megazip.zip dist/komplettpaket/alle-plugins-megazip.zip
           cp dist/alle-testakten.zip dist/komplettpaket/alle-testakten.zip
+          cp dist/alle-skills-markdown.zip dist/komplettpaket/alle-skills-markdown.zip
           for plugin in ${{ steps.plugins.outputs.names }}; do
             cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
+          done
+          for z in dist/*-skills-markdown.zip; do
+            [ -e "$z" ] || continue
+            # alle-skills-markdown.zip nicht doppelt mitnehmen
+            base="$(basename "$z")"
+            if [ "$base" = "alle-skills-markdown.zip" ]; then continue; fi
+            cp "$z" "dist/komplettpaket/skills-markdown/$base"
           done
           if [ -d testakten ]; then
             for z in dist/testakte-*.zip; do
@@ -113,8 +130,9 @@ jobs:
 
           test -s dist/alle-plugins-megazip.zip
           test -s dist/alle-testakten.zip
+          test -s dist/alle-skills-markdown.zip
           test -s dist/alles-komplettpaket.zip
-          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alles-komplettpaket.zip
+          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-skills-markdown.zip dist/alles-komplettpaket.zip
 
       - name: Checksums erzeugen
         run: |

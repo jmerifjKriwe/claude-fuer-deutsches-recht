@@ -1,21 +1,28 @@
 # strafbefehl-verteidiger
 
-**60 Skills** · Stand `v328.0.0`
+**60 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafbefehl-verteidiger/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafbefehl-verteidiger.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [strafbefehl-verteidiger-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafbefehl-verteidiger-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [strafbefehl-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafbefehl-verteidiger.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`aktenanlage-fehlerkatalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafbefehl-verteidiger/skills/aktenanlage-fehlerkatalog/SKILL.md) | Aktenanlage Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafbefehl-verteidiger/skills/aktenanlage-fehlerkatalog/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/strafbefehl-verteidiger/skills/aktenanlage-fehlerkatalog/SKILL.md) |
 | [`akteneinsicht-behoerden-gericht-und-registerweg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafbefehl-verteidiger/skills/akteneinsicht-behoerden-gericht-und-registerweg/SKILL.md) | Akteneinsicht: Behörden-, Gerichts- oder Registerweg. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafbefehl-verteidiger/skills/akteneinsicht-behoerden-gericht-und-registerweg/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/strafbefehl-verteidiger/skills/akteneinsicht-behoerden-gericht-und-registerweg/SKILL.md) |

@@ -1,21 +1,28 @@
 # fachanwalt-verwaltungsrecht
 
-**80 Skills** · Stand `v328.0.0`
+**80 Skills** · Stand `v329.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-verwaltungsrecht/README.md)
-- [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-verwaltungsrecht.zip) (komplettes Plugin)
+
+## ⬇️ Downloads
+
+| Paket | Inhalt | Link |
+| --- | --- | --- |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [fachanwalt-verwaltungsrecht-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-verwaltungsrecht-skills-markdown.zip) |
+| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [fachanwalt-verwaltungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-verwaltungsrecht.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.
-- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.
+- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 
-| Skill | Beschreibung | Download |
+| Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
 | [`amtshaftung-paragraf-839-bgb-art-34-gg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-verwaltungsrecht/skills/amtshaftung-paragraf-839-bgb-art-34-gg/SKILL.md) | Amtshaftung § 839 BGB art 34 GG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-verwaltungsrecht/skills/amtshaftung-paragraf-839-bgb-art-34-gg/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-verwaltungsrecht/skills/amtshaftung-paragraf-839-bgb-art-34-gg/SKILL.md) |
 | [`anfechtungs-risikoampel-und-gegenargumente`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-verwaltungsrecht/skills/anfechtungs-risikoampel-und-gegenargumente/SKILL.md) | Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien: Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-verwaltungsrecht/skills/anfechtungs-risikoampel-und-gegenargumente/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-verwaltungsrecht/skills/anfechtungs-risikoampel-und-gegenargumente/SKILL.md) |
