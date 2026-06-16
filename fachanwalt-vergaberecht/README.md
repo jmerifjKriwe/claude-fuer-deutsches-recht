@@ -44,7 +44,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 118 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -148,6 +148,7 @@ Automatisch generierte Komplett-Liste aller 118 Skills in diesem Plugin. Beschre
 | `vergabekammer-verhandlung-vergleich-und-eskalation` | Vergabekammer: Verhandlung, Vergleich und Eskalation: Vergabekammer: Verhandlung, Vergleich und Eskalation. |
 | `vergaberecht-anti-korruption-paragraf-123-gwb` | Vergaberecht Anti Korruption § 123 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `vergaberecht-tatbestand-beweis-und-belege` | Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `vergaberechtliche-pruefung-anwaltlich-megaprompt` | Megaprompt fuer die vollstaendige anwaltliche vergaberechtliche Pruefung einer Auftragsvergabe aus Bieter- oder Auftraggebersicht: Anwendungsbereich GWB/VgV/SektVO/KonzVgV/VOB-A/UVgO, Schwellenwerte, Verfahrensart, Bekanntmachung TED/eFo... |
 | `vergaberueg-paragraf-160-gwb` | Vergaberueg § 160 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `vergabesenat-quellenkarte` | Vergabesenat Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `vergabesperre-korruption-selbstreinigung` | Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will Sperre abwenden oder beenden: Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will... |

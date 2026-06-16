@@ -74,7 +74,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (240 Skills)
 - [fachanwalt-transport-speditionsrecht](./fachanwalt-transport-speditionsrecht.md) (77 Skills)
 - [fachanwalt-urheber-medienrecht](./fachanwalt-urheber-medienrecht.md) (77 Skills)
-- [fachanwalt-vergaberecht](./fachanwalt-vergaberecht.md) (118 Skills)
+- [fachanwalt-vergaberecht](./fachanwalt-vergaberecht.md) (119 Skills)
 - [fachanwalt-verkehrsrecht](./fachanwalt-verkehrsrecht.md) (77 Skills)
 - [fachanwalt-versicherungsrecht](./fachanwalt-versicherungsrecht.md) (91 Skills)
 - [fachanwalt-verwaltungsrecht](./fachanwalt-verwaltungsrecht.md) (80 Skills)
