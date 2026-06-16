@@ -1,6 +1,6 @@
 # Mega-Prompt-Dateien
 
-Alphabetischer Index der einzeln nutzbaren Mega-Prompt-Markdowns. Jede Datei bündelt die tragenden Skills eines Plugins als kopierbaren Prompt-Baustein für Claude, ChatGPT, Codex, Perplexity oder andere Systeme.
+Alphabetischer Index der einzeln nutzbaren Mega-Prompt-Markdowns. Jede Datei bündelt die tragenden Skills eines Plugins als kopierbaren Prompt-Baustein für Claude, ChatGPT, Codex, Perplexity oder andere Systeme. Die Markdown-Dateien lassen sich direkt in GitHub öffnen, über „Raw“ speichern oder gesammelt aus `testakte-megaprompts.zip` im Release herunterladen.
 
 | Mega-Prompt | Datei |
 |---|---|

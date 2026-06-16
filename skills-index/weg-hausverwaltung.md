@@ -1,6 +1,6 @@
 # weg-hausverwaltung
 
-**92 Skills** · Stand `v330.0.0`
+**92 Skills** · Stand `v331.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/weg-hausverwaltung/README.md)

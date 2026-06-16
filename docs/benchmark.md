@@ -1,6 +1,6 @@
 # Benchmark — Klotzkette German Legal Skills vs. Harvey LAB
 
-> Stand v300.0.0. Vergleich, Methodik und Werkzeuge.
+> Stand v331.0.0. Vergleich, Methodik und Werkzeuge.
 
 ## Inspiration
 
@@ -10,7 +10,7 @@ Harvey LAB (https://github.com/harveyai/harvey-labs) ist ein Open-Source-Benchma
 
 | Komponente | Status | Datei |
 |---|---|---|
-| Task-Datenraum | vorhanden (204 Testakten in 7 Formaten) | `testakten/` |
+| Task-Datenraum | vorhanden (206 Testakten in 7 Formaten) | `testakten/` |
 | Rubrics pro Testakte | implementiert (Pass/Fail-Checks in YAML) | `testakten/<slug>/rubric.yaml` |
 | Execution Harness | implementiert | `scripts/run-eval.py` |
 | All-Pass-Scoring | implementiert | im Harness |
@@ -93,7 +93,7 @@ Eine Akte gilt als All-Pass, wenn alle Pass/Fail-Checks bestanden sind (`human_r
 |---|---|---|
 | Genre | Benchmark / Evaluator | Skill-Library + Evaluator |
 | Sprache/Recht | EN / US-Common-Law | DE / deutsches Recht |
-| Volumen | 1.251 Tasks, 24 Areas | 20.852 Skills, 213 Plugins, 204 Testakten |
+| Volumen | 1.251 Tasks, 24 Areas | 25.640 Skills, 213 Plugins, 206 Testakten |
 | Realismus | M&A-Datenraum | Mandatsakten in 7 Originalformaten + Gesamt-PDF |
 | Scoring | All-Pass-Rubrics + LLM-Judge | All-Pass-Rubrics + LLM-Judge (kompatibel) |
 | Lizenz | MIT | Apache-2.0 OR MIT |
@@ -102,7 +102,7 @@ Beide Repos folgen demselben Bewertungsparadigma; die Klotzkette-Plattform spezi
 
 ## Was als naechstes kommen koennte
 
-- **Rubrics fuer alle 204 Testakten** (z. Zt. 5 als Proof-of-Concept)
+- **Rubrics fuer alle 206 Testakten** (z. Zt. 5 als Proof-of-Concept)
 - **Plugin × Akten-Matrix**: pro Plugin Score gegen relevante Testakten
 - **CI-Integration**: PR-Run fuehrt Eval auf geaenderten Plugins aus
 - **Auto-Bewertung Skill-Outputs**: LLM-Judge auf Skill-MD-Output, nicht nur Testakten

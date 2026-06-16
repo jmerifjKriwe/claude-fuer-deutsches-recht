@@ -1,3 +1,20 @@
+# v331.0.0 — Sanity-Fix, Download-Hinweis und Release-Hygiene
+
+Kleiner Glattzug nach v330: Versionsstand, README-Zahlen, Benchmark-Daten und automatisch generierte Skill-Indizes sind wieder synchron. Die Mega-Prompt-Übersicht weist jetzt ausdrücklich darauf hin, dass die einzelnen Markdown-Dateien direkt über GitHub oder gesammelt über das Release-ZIP heruntergeladen werden können.
+
+## Reparaturen
+
+- Forderungsmanagement-Klagewerkstatt: Pflichtangaben der Klageschrift präzisiert (§§ 253 Abs. 2, 130, 130a, 130d ZPO) und Mahn-/Inkasso-/Anwaltskosten differenzierter auf Verzug, Rechtsverfolgungskosten, RDG/RDGEG und BGH-Linie gestellt.
+- Konsolidierungs-Skript: Generator erzeugt künftig keine Entstehungsgeschichte mehr („frühere Skills“, „Dieser Skill bündelt“), sondern freistehende Prüffelder und Arbeitsmodule.
+- `docs/benchmark.md`, `TESTBERICHT.md`, `SKILLS.md`, `skills-index/`, `README.md` und `testakten/README.md` auf 213 Plugins, 25.640 Skills und 206 Testakten glattgezogen.
+- Lokale Release-Probe: Plugin-ZIPs, Testakten-ZIPs, Skill-Markdown-Bundles, Mega-Prompt-Markdowns und Sammelarchive erfolgreich gebaut und validiert.
+
+## Versions-Bump
+
+- v330.0.0 → v331.0.0 in `.claude-plugin/marketplace.json` (214 Einträge: 1 top-level + 213 plugins), allen `*/.claude-plugin/plugin.json` (213) sowie README.md, SKILLS.md, skills-index/README.md, testakten/README.md und Benchmark/Testbericht.
+
+---
+
 # v330.0.0 — Inject-Fence-Bug-Fix + Vergaberecht-Megaprompt mit Codex-Korrekturen
 
 Zwei Themen zusammen ausgeliefert: ein scharfer Bug-Fix am Ausformulierungspflicht-Sweep (v329 PR #291), der in 32 Endprodukt-Skills den Autogen-Marker mitten in einen offenen fenced code block geschoben hatte — und der erste anwaltliche 30-Seiten-Megaprompt fuer Vergaberecht inklusive drei Codex-Befunden, die direkt eingearbeitet wurden.

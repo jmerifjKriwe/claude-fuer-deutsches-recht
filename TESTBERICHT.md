@@ -1,9 +1,9 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-14
-**Arbeitsstand:** v328.0.0 / Fix nach v327: Top-Level `version` in `.claude-plugin/marketplace.json` jetzt synchron mit Plugin-Versionen. SKILLS.md und skills-index neu generiert, zeigen jetzt korrekt v328. 213 Plugins, 25639 Skills, 206 Testakten.
+**Arbeitsstand:** v331.0.0 / Fix nach v330: Top-Level `version` in `.claude-plugin/marketplace.json` jetzt synchron mit Plugin-Versionen. SKILLS.md und skills-index neu generiert, zeigen jetzt korrekt v331. 213 Plugins, 25640 Skills, 206 Testakten.
 **Plugins gesamt:** 213
-**Skills gesamt:** 25639
+**Skills gesamt:** 25640
 **Testakten gesamt:** 206 (inkl. Hilfsmaterial-Verzeichnisse `formatvorlagen-paradebeispiele` und `megaprompts`)
 
 ## Kurzbefund
@@ -19,7 +19,7 @@ Alle Übersichten, Sofort-Download-Sektionen und Release-Assets sind synchron: P
 | Kennzahl | Wert |
 |---|---:|
 | Plugin-Manifests | 213 |
-| Skill-Dateien `SKILL.md` | 25639 |
+| Skill-Dateien `SKILL.md` | 25640 |
 | Testakten-Verzeichnisse | 204 |
 | Testakten mit Gesamt-PDF nach Validator | 204 |
 | Skills im `verhaeltnismaessigkeitspruefer` | 85 |

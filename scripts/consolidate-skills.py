@@ -185,8 +185,8 @@ def aggregate_text(plugin: str, index: int, slug: str, group: list[Skill]) -> st
     if len(group) > 5:
         examples += f" und {len(group) - 5} weitere"
     description = (
-        f"{plugin}: Konsolidiertes Skill-Kompendium {index:02d}; bündelt {len(group)} frühere "
-        f"Spezialskills ({examples}) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+        f"{plugin}: Freistehendes verdichtetes Prüfprogramm {index:02d} für {len(group)} "
+        f"zusammengehörige Fachfragen ({examples}); führt Workflows, Normanker, Prüfprogramme und Ausgabemuster ohne Entstehungsgeschichte zusammen."
     )
     lines: list[str] = [
         "---",
@@ -198,11 +198,11 @@ def aggregate_text(plugin: str, index: int, slug: str, group: list[Skill]) -> st
         "",
         "## Zweck",
         "",
-        "Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.",
+        "Dieser Skill liefert ein freistehendes, vollständig ausformuliertes Prüf-, Workflow- und Ausgabeprogramm. Wähle den passenden Abschnitt nach Sachthema, Frist, Zuständigkeit, Beweisfrage oder gewünschtem Arbeitsprodukt und arbeite ihn in ganzen Sätzen ab.",
         "",
-        "## Enthaltene frühere Skills",
+        "## Prüffelder und Arbeitsmodule",
         "",
-        "| Früherer Skill | Frühere Beschreibung |",
+        "| Prüffeld | Arbeitsauftrag |",
         "| --- | --- |",
     ]
     for skill in group:
@@ -213,7 +213,7 @@ def aggregate_text(plugin: str, index: int, slug: str, group: list[Skill]) -> st
             "",
             "## Arbeitsregel",
             "",
-            "1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.",
+            "1. Zuerst den passenden Unterabschnitt anhand des Sachthemas, der Frist, der Zuständigkeit, der Beweisfrage oder des gewünschten Outputs auswählen.",
             "2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.",
             "3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.",
             "4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.",
