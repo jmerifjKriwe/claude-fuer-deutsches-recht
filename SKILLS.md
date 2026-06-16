@@ -1,6 +1,6 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **25639 Skills** in **213 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **25640 Skills** in **213 Plugins**.
 
 Stand: `v329.0.0`.
 
@@ -37,7 +37,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 25639 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 25640 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -111,7 +111,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **fachanwalt-strafrecht** | 240 | [Skills ansehen](skills-index/fachanwalt-strafrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-strafrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-strafrecht-skills-markdown.zip) |
 | **fachanwalt-transport-speditionsrecht** | 77 | [Skills ansehen](skills-index/fachanwalt-transport-speditionsrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-transport-speditionsrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-transport-speditionsrecht-skills-markdown.zip) |
 | **fachanwalt-urheber-medienrecht** | 77 | [Skills ansehen](skills-index/fachanwalt-urheber-medienrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-urheber-medienrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-urheber-medienrecht-skills-markdown.zip) |
-| **fachanwalt-vergaberecht** | 118 | [Skills ansehen](skills-index/fachanwalt-vergaberecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht-skills-markdown.zip) |
+| **fachanwalt-vergaberecht** | 119 | [Skills ansehen](skills-index/fachanwalt-vergaberecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht-skills-markdown.zip) |
 | **fachanwalt-verkehrsrecht** | 77 | [Skills ansehen](skills-index/fachanwalt-verkehrsrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-verkehrsrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-verkehrsrecht-skills-markdown.zip) |
 | **fachanwalt-versicherungsrecht** | 91 | [Skills ansehen](skills-index/fachanwalt-versicherungsrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-versicherungsrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-versicherungsrecht-skills-markdown.zip) |
 | **fachanwalt-verwaltungsrecht** | 80 | [Skills ansehen](skills-index/fachanwalt-verwaltungsrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-verwaltungsrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-verwaltungsrecht-skills-markdown.zip) |
