@@ -63,6 +63,19 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jede Vorlage, jeden V
 - **Maßvoll einrücken.** Eingerückt wird nur so viel, dass die Hierarchie klar erkennbar bleibt und das Dokument sauber aussieht – nicht mehr. Übertriebene Einrückung lässt Dokumente zerfleddert wirken und ist zu vermeiden.
 - Diese Regelung ist von hoher Priorität. Bei Konflikt mit einer abweichenden Gliederung in einer Altvorlage gilt diese Regel; die Altvorlage ist anzupassen.
 
+## Ausformulierungspflicht für Verträge, Vorlagen und juristische Dokumente (verbindlich)
+
+Diese Regel gilt **ausnahmslos und für alle Zeiten** für jedes Dokument, das ein Skill, ein Plugin oder ein anderes Werkzeug in diesem Repository als Endprodukt erzeugt — Verträge, Vertragsmuster, Klausel-Sets, Schriftsätze, Bescheide, Beschlüsse, Verfügungen, Memos, Mandantenbriefe, Vollmachten, Anschreiben, Vermerke, Stellungnahmen, NDA-Texte, AGB-Entwürfe, Vereinbarungen, Anträge, Erwiderungen und alle vergleichbaren Endprodukte — unabhängig davon, welches Werkzeug es erzeugt (Claude, Perplexity, Codex oder andere).
+
+- **Vollständig ausformuliert.** Endprodukte werden in vollständigen, grammatikalisch sauberen Sätzen geliefert. Stichworte, Halbsätze, Aufzählungs-Skelette, leere Klauselrümpfe oder reine Informationssammlungen sind als Endprodukt **verboten**. Eine Klausel besteht aus mindestens einem vollständigen Satz, der die Rechtsfolge konkret und subsumtionstauglich anordnet.
+- **Crisp und prägnant.** „Vollständig" heißt nicht „aufgebläht". Jeder Satz trägt; rhetorische Füllstücke sind zu vermeiden. Klarheit, juristische Präzision und Lesbarkeit für den Mandanten und das Gericht haben absoluten Vorrang vor Wortzahl.
+- **Keine Skelett-Verträge.** Ein Endvertrag ohne Präambel, ohne Definitionen, ohne ausformulierte Hauptpflichten, ohne Leistungsstörungsrecht, ohne Schlussbestimmungen ist kein Endprodukt, sondern eine Gliederung. Solche Skelette gehören in den Skill als Zwischenergebnis, nicht in die Ausgabe an die Nutzerin.
+- **Platzhalter sauber markieren.** Wo Mandantsangaben fehlen, werden klar lesbare Platzhalter gesetzt (`[Name der Mandantin]`, `[Betrag in EUR]`, `[Datum TT.MM.JJJJ]`) — nicht aber Sinnsätze weggelassen. Der umgebende Text bleibt vollständig.
+- **Frage-Antwort-Phase ist Vorbereitung, nicht Endprodukt.** Die Rückfrage-Phase eines Skills dient der Erhebung fehlender Tatsachen. Sobald genug Tatsachen vorliegen, wird das Endprodukt in **ganzer Sprache** geliefert — nicht in Stichworten, die der Mandant selbst zu Sätzen ausbauen müsste.
+- **Strenge Regelung bei neuen Plugins und Skills.** Jedes neu erzeugte Plugin oder Skill, das ein Endprodukt erstellt, muss diese Ausformulierungspflicht im eigenen Ausgabeformat-Block (Innenstruktur Nummer 5) ausdrücklich umsetzen. Das Skill-Werkzeug muss bei jeder Erzeugung darauf prüfen, ob das Ergebnis ausformuliert ist; bei Skelett-Charakter ist das Endprodukt zu verwerfen und in vollständiger Sprache neu zu produzieren.
+- **Englisch wenn gewünscht.** Bei zweisprachigen oder englischsprachigen Vorlagen gilt sinngemäß dasselbe: writing needs to be clear, crisp and complete. Keine half-sentences, keine bullet-point-only-Klauseln, keine information-dump-Ausgaben.
+- **Diese Regelung ist von hoher Priorität.** Bei Konflikt mit einer abweichenden Stilkonvention in einer Altvorlage gilt diese Regel; die Altvorlage ist beim nächsten Anfassen anzupassen.
+
 ## Skill-Konvention
 
 - Jeder Skill liegt unter `<plugin>/skills/<skill-name>/SKILL.md`.
@@ -73,7 +86,7 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jede Vorlage, jeden V
   2. Eingaben
   3. Ablauf / Checkliste
   4. Quellenpflicht (Verweis auf references/zitierweise.md)
-  5. Ausgabeformat
+  5. Ausgabeformat — bei Skills, die Verträge, Vorlagen, Schriftsätze, Memos oder vergleichbare Endprodukte erzeugen, muss dieser Block ausdrücklich auf die **Ausformulierungspflicht** verweisen: Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswurfe sind als Endprodukt verboten.
   6. Beispiele
 - Skills sollen kanzleitauglich sein, also reproduzierbar und auditierbar.
 
