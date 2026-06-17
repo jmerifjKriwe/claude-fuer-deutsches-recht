@@ -23,6 +23,11 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN_DIR = REPO_ROOT / "testakten"
 
+SKIP_TESTAKTEN_DIRS = {
+    "formatvorlagen-paradebeispiele",
+    "megaprompts",
+}
+
 MARKER_BEGIN = "<!-- BEGIN plugin-sofort-download-section (autogen) -->"
 MARKER_END = "<!-- END plugin-sofort-download-section (autogen) -->"
 TESTAKTEN_MARKER_BEGIN = "<!-- BEGIN plugin-testakten-section (autogen) -->"
@@ -72,6 +77,8 @@ def discover_mapping() -> dict[str, list[str]]:
 
     for sub in sorted(TESTAKTEN_DIR.iterdir()):
         if not sub.is_dir():
+            continue
+        if sub.name in SKIP_TESTAKTEN_DIRS:
             continue
         readme = sub / "README.md"
         if readme.exists():

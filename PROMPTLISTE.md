@@ -48,7 +48,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 | [Agrarrecht](#agrarrecht) | 2 | [Transport- und Speditionsrecht](#transport--und-speditionsrecht) | 5 |
 | [Arbeitsrecht](#arbeitsrecht) | 7 | [Urheber- und Medienrecht](#urheber--und-medienrecht) | 5 |
 | [Bank- und Kapitalmarktrecht](#bank--und-kapitalmarktrecht) | 6 | [Vergaberecht](#vergaberecht) | 1 |
-| [Bau- und Architektenrecht](#bau--und-architektenrecht) | 5 | [Verkehrsrecht](#verkehrsrecht) | 2 |
+| [Bau- und Architektenrecht](#bau--und-architektenrecht) | 6 | [Verkehrsrecht](#verkehrsrecht) | 2 |
 | [Erbrecht](#erbrecht) | 1 | [Versicherungsrecht](#versicherungsrecht) | 2 |
 | [Familienrecht](#familienrecht) | 2 | [Verwaltungsrecht](#verwaltungsrecht) | 31 |
 | [Gewerblicher Rechtsschutz](#gewerblicher-rechtsschutz) | 8 | [Steuerrecht](#steuerrecht) | 3 |
@@ -61,7 +61,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 | [Migrationsrecht](#migrationsrecht) | 1 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 7 |
 | [Sozialrecht](#sozialrecht) | 3 |  |  |
 
-**209 kuratierte Praxis-Plugins** in 33 Kategorien (von **213** Repo-Plugins insgesamt). Gesamtuebersicht aller Skills in [SKILLS.md](./SKILLS.md), Repo-Hauptseite in [README.md](./README.md). Bewusst nicht aufgenommen sind rein historische oder exotische Spezial-Plugins, die zwar im Repo liegen, aber nicht als allgemeine Praxis-Promptliste gedacht sind.
+**210 kuratierte Praxis-Plugins** in 33 Kategorien (von **214** Repo-Plugins insgesamt). Gesamtuebersicht aller Skills in [SKILLS.md](./SKILLS.md), Repo-Hauptseite in [README.md](./README.md). Bewusst nicht aufgenommen sind rein historische oder exotische Spezial-Plugins, die zwar im Repo liegen, aber nicht als allgemeine Praxis-Promptliste gedacht sind.
 
 ---
 
@@ -109,6 +109,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 
 ## Bau- und Architektenrecht
 
+- **[bautraegervertrag-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bautraegervertrag-pruefer)** — Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, §§ 650u/650v BGB, § 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe.
 - **[erbbaurecht-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/erbbaurecht-praxis)** — Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung…
 - **[fachanwalt-bau-architektenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht)** — Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Maengelhaftung Abnahme Vergaberecht
 - **[hoai-leistungsphasen-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hoai-leistungsphasen-praxis)** — Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung…

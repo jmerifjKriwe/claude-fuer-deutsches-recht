@@ -18,6 +18,11 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN_DIR = REPO_ROOT / "testakten"
 
+SKIP_DIRS = {
+    "formatvorlagen-paradebeispiele",
+    "megaprompts",
+}
+
 # Hinweis: Die Marker heißen weiterhin "gesamt-pdf-section", damit bestehende
 # READMEs idempotent aktualisiert werden. Der Inhalt der Sektion umfasst aber
 # inzwischen sowohl das Gesamt-PDF als auch die Akten-ZIP.
@@ -115,6 +120,9 @@ def main() -> int:
     stats = {"inserted": 0, "updated": 0, "unchanged": 0, "skip": 0}
     for sub in sorted(TESTAKTEN_DIR.iterdir()):
         if not sub.is_dir():
+            continue
+        if sub.name in SKIP_DIRS:
+            stats["skip"] += 1
             continue
         readme = sub / "README.md"
         if not readme.exists():

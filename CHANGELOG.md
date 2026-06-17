@@ -1,3 +1,28 @@
+# v333.0.0 — Bauträgervertrag-Prüfer aus Verbrauchersicht
+
+Der externe Bauträgervertragsprüfer ist jetzt in die Cloud-Legal-Plugin-Sammlung übernommen: als eigenes Plugin, als verdichteter Mega-Prompt und als aufgespaltene Skill-Familie für die Prüfung von Bauträgerverträgen aus Sicht von Verbraucherkäufern.
+
+## Neues Plugin
+
+- Neues Plugin `bautraegervertrag-pruefer` mit 15 fachlich getrennten Skills zu MaBV-Ratenplan, § 650u/650v BGB, § 650m Abs. 2 BGB, AGB-Kontrolle, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung, Bauzeit, Sonderwünschen, Streitstrategie und Drei-Dokumente-Ausgabe.
+- Der lange Ausgangsworkflow aus dem Ursprungsrepo bleibt ohne Wissensverlust als Referenzdatei erhalten; der eigentliche Einsatz erfolgt über einen kürzeren One-Shot-Workflow plus einzelne präzise Skills.
+- Neue Testakte `bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung` mit Bauträgervertrag als Markdown, DOCX und PDF, Mandanten-EML und validem Gesamt-PDF.
+
+## Übersichten und Downloads
+
+- Haupt-README, Promptliste, Skillindex, Mega-Prompt-Übersicht und Testaktenübersicht auf 214 Plugins, 25.655 Skills und 207 Testakten aktualisiert.
+- Release-Probe lokal gebaut: Plugin-ZIP, Markdown-ZIP, Mega-Prompt-Markdown, Testakten-ZIP, alle Sammelarchive und Checksummen.
+- Download-Injektoren gehärtet: interne Mega-Prompt- und Formatvorlagen-Ordner werden nicht mehr irrtümlich als Testakten mit fehlendem Gesamt-PDF behandelt.
+
+## Validatoren
+
+- `validate-plugin-structure.mjs`: OK
+- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen
+- `validate-testakten-gesamt-pdf.py`: OK
+- Release-ZIP-Validatoren: OK für 214 Plugin-ZIPs und 207 Testakten-ZIPs
+
+---
+
 # v332.0.0 — Release-Asset-Verifikation für Mega-Prompt-Markdowns
 
 Nach dem v331-Upload zeigte der Remote-Validator eine Lücke: Die Release-Pipeline lädt inzwischen pro Plugin zusätzlich `*-megaprompt.md` als direkt herunterladbares Markdown-Asset hoch, der Validator behandelte diese Dateien aber noch als unerwartete Zusatzassets. Der v331-Run wurde deshalb sauber abgebrochen; v332 enthält den Validator-Fix und den erneuten konsistenten Versionsstand.

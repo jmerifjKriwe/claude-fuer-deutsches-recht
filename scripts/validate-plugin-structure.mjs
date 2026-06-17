@@ -21,6 +21,9 @@ function exists(file) {
 function walk(dir, predicate, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     if (entry.name === '.git') continue;
+    if (entry.name === 'dist') continue;
+    if (entry.name === 'node_modules') continue;
+    if (entry.name === '__pycache__') continue;
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) walk(full, predicate, out);
     else if (!predicate || predicate(full)) out.push(full);

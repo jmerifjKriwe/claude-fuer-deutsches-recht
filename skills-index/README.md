@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v332.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v333.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -20,6 +20,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [aussenwirtschaft-zoll-sanktionen](./aussenwirtschaft-zoll-sanktionen.md) (124 Skills)
 - [bank-rechtsabteilung](./bank-rechtsabteilung.md) (121 Skills)
 - [barrierefreiheit-web-checker](./barrierefreiheit-web-checker.md) (59 Skills)
+- [bautraegervertrag-pruefer](./bautraegervertrag-pruefer.md) (15 Skills)
 - [bav-strategie-konzern](./bav-strategie-konzern.md) (58 Skills)
 - [beamtenrecht](./beamtenrecht.md) (178 Skills)
 - [bereicherungs-und-anfechtungsrecht-pruefer](./bereicherungs-und-anfechtungsrecht-pruefer.md) (138 Skills)

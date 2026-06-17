@@ -16,6 +16,7 @@ Alphabetischer Index der einzeln nutzbaren Mega-Prompt-Markdowns. Jede Datei bü
 | `aussenwirtschaft-zoll-sanktionen` | [`aussenwirtschaft-zoll-sanktionen.md`](./aussenwirtschaft-zoll-sanktionen.md) |
 | `bank-rechtsabteilung` | [`bank-rechtsabteilung.md`](./bank-rechtsabteilung.md) |
 | `barrierefreiheit-web-checker` | [`barrierefreiheit-web-checker.md`](./barrierefreiheit-web-checker.md) |
+| `bautraegervertrag-pruefer` | [`bautraegervertrag-pruefer.md`](./bautraegervertrag-pruefer.md) |
 | `bav-strategie-konzern` | [`bav-strategie-konzern.md`](./bav-strategie-konzern.md) |
 | `beamtenrecht` | [`beamtenrecht.md`](./beamtenrecht.md) |
 | `bereicherungs-und-anfechtungsrecht-pruefer` | [`bereicherungs-und-anfechtungsrecht-pruefer.md`](./bereicherungs-und-anfechtungsrecht-pruefer.md) |
@@ -86,8 +87,8 @@ Alphabetischer Index der einzeln nutzbaren Mega-Prompt-Markdowns. Jede Datei bü
 | `gebrauchsmusterrecht` | [`gebrauchsmusterrecht.md`](./gebrauchsmusterrecht.md) |
 | `geldwaeschepraevention-aml-kyc` | [`geldwaeschepraevention-aml-kyc.md`](./geldwaeschepraevention-aml-kyc.md) |
 | `gesellschaftsgruender` | [`gesellschaftsgruender.md`](./gesellschaftsgruender.md) |
-| `gesellschaftsrecht` | [`gesellschaftsrecht.md`](./gesellschaftsrecht.md) |
 | `gesellschaftsrecht-legal-english` | [`gesellschaftsrecht-legal-english.md`](./gesellschaftsrecht-legal-english.md) |
+| `gesellschaftsrecht` | [`gesellschaftsrecht.md`](./gesellschaftsrecht.md) |
 | `gesellschaftsrechtliche-treuepflicht` | [`gesellschaftsrechtliche-treuepflicht.md`](./gesellschaftsrechtliche-treuepflicht.md) |
 | `gewerblicher-rechtsschutz` | [`gewerblicher-rechtsschutz.md`](./gewerblicher-rechtsschutz.md) |
 | `goae-gebuehrenordnung-aerzte` | [`goae-gebuehrenordnung-aerzte.md`](./goae-gebuehrenordnung-aerzte.md) |
