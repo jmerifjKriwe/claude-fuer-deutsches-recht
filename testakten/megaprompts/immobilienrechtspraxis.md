@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 61 Skills des Plugins `immobilienrechtspraxis`.
+Dieser Megaprompt enthaelt top-10 von 62 Skills des Plugins `immobilienrechtspraxis`.
 
 ## Inhaltsverzeichnis
 

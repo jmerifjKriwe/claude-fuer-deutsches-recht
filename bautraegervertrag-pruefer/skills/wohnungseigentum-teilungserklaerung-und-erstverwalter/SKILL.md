@@ -1,31 +1,31 @@
 ---
 name: wohnungseigentum-teilungserklaerung-und-erstverwalter
-description: "WEG- und Teilungserklärungsprüfung beim Bauträgerprojekt: Sondereigentum, Gemeinschaftseigentum, Sondernutzungsrechte, Untergemeinschaften, Kostenverteilung, Erstverwalter, Wartungsverträge, Änderungsvollmachten und Zustimmungspflichten nach § 308 Nr. 4 BGB."
+description: "WEG- und Teilungserklärungsprüfung beim Bauträgerprojekt: Sondereigentum, Gemeinschaftseigentum, Sondernutzungsrechte, Untergemeinschaften, Kostenverteilung, Erstverwalter, Wartungsverträge und Änderungsvollmachten."
 ---
 
 # Wohnungseigentum, Teilungserklärung und Erstverwalter
 
 ## Prüfgegenstand
 
-Der Käufer erwirbt nicht nur eine Wohnung, sondern eine Stellung in einer GdWE. Dieser Skill prüft, ob Teilungserklärung, Gemeinschaftsordnung und Erstverwaltungsstruktur spätere Kosten, Stimmrechte und Kontrollrechte verschieben.
+Der Käufer erwirbt nicht nur Räume, sondern eine Mitgliedschaft in einer GdWE. Dieser Skill prüft Teilungserklärung, Gemeinschaftsordnung, Erstverwalter und gebundene Folgegeschäfte.
 
 ## Normenanker
 
-WEG §§ 1, 3, 5, 8, 9a, 10, 16, 18, 19, 20, 23, 24, 26, 27, 44; §§ 305, 307, 308 Nr. 4, 650u BGB; § 3 MaBV; § 311b BGB.
+§ 305 BGB, § 307 BGB, § 308 Nr. 4 BGB, § 311b Abs. 1 BGB, § 650u BGB; § 3 MaBV; § 1 WEG, § 3 WEG, § 5 WEG, § 8 WEG, § 9a WEG, § 10 WEG, § 16 WEG, § 18 WEG, § 19 WEG, § 20 WEG, § 23 WEG, § 24 WEG, § 26 WEG, § 27 WEG, § 44 WEG.
 
 ## Prüfmatrix
 
-- Passen Aufteilungsplan, Abgeschlossenheitsbescheinigung, Teilungserklärung und Kaufgegenstand zusammen?
-- Sind Keller, Stellplatz, Terrasse/Balkon und Sondernutzungsrechte exakt zugeordnet?
-- Gibt es Untergemeinschaften, Kostenkreise oder Stimmrechtsregeln zulasten einzelner Häuser/Bauabschnitte?
-- Darf der Bauträger Teilungserklärung oder Gemeinschaftsordnung später weit ändern?
-- Ist der Erstverwalter bauträgernah oder mit langen, teuren Wartungs-/Energieliefer-/Messdienstverträgen verbunden?
-- Werden Wartungskosten für Aufzug, Tiefgarage, Lüftung, Hebeanlagen, Wärmeversorgung oder Ladeinfrastruktur schon vor Eigentümerkontrolle festgelegt?
+- Stimmen Aufteilungsplan, Abgeschlossenheitsbescheinigung, Teilungserklärung und Kaufgegenstand überein?
+- Sind Keller, Stellplatz, Terrasse, Balkon und Sondernutzungsrechte exakt zugeordnet?
+- Gibt es Untergemeinschaften, Kostenkreise oder Stimmrechtsregeln zulasten bestimmter Häuser/Bauabschnitte?
+- Darf der Bauträger Teilungserklärung oder Gemeinschaftsordnung später aus bloßer Zweckmäßigkeit ändern?
+- Ist der Erstverwalter bauträgernah und mit langen Wartungs-, Wärme-, Messdienst- oder Energielieferverträgen verbunden?
+- Werden Aufzug, Tiefgarage, Lüftung, Hebeanlagen, Ladeinfrastruktur und Außenanlagen wirtschaftlich transparent verteilt?
 
-## Rote Klauseln
+## Rechtsprechungsanker
 
-Pauschale Zustimmungspflichten, freie Änderungsvollmachten, einseitige Nachtragsrechte, lange Erstverwalterbindung, Kostenverteilung ohne Nutzungsbezug und Verträge mit verbundenen Unternehmen sind fallbezogen in der Klauselmatrix auszuweisen.
+BGH V ZR 91/25 nur nach Live-Prüfung einsetzen: Zustimmungspflichten zu Änderungen müssen auf einzeln benannte triftige Gründe begrenzt sein; § 242 BGB rettet eine unwirksame AGB-Änderungsklausel regelmäßig nicht.
 
 ## Output
 
-Erstelle eine WEG-Risikokarte: Regelung, betroffene Einheit, wirtschaftliche Wirkung, Änderungsverlangen und Verhandlungspriorität.
+Erstelle eine WEG-Risikokarte: Regelung, betroffene Einheit, wirtschaftliche Wirkung, Normanker, Änderungsverlangen, Priorität.

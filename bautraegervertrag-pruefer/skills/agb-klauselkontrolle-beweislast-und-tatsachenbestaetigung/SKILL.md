@@ -1,40 +1,40 @@
 ---
 name: agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung
-description: "AGB-Klauselkontrolle im Bauträgervertrag: prüft § 307 BGB, § 308 Nr. 4 BGB, § 309 Nr. 12 und Nr. 15 BGB, pauschale Tatsachenbestätigungen, Beweislastverschiebungen, Änderungsrechte, Haftungsbegrenzungen, Ausschlussfristen und geltungserhaltende Reduktion."
+description: "AGB-Klauselkontrolle im Bauträgervertrag: prüft § 307 BGB, § 308 Nr. 4 BGB, § 309 Nr. 1, Nr. 2 lit. a, Nr. 8, Nr. 12 und Nr. 15 BGB, Tatsachenbestätigung, Beweislast, Änderungsrechte und Zahlungssicherheit."
 ---
 
 # AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung
 
 ## Prüfgegenstand
 
-Bauträgerverträge sind in der Praxis regelmäßig vorformulierte Verträge. Die notarielle Beurkundung beseitigt die AGB-Kontrolle nicht. Dieser Skill prüft Klauseln, die Erwerberrechte verschieben, Tatsachen fingieren oder Pflichten des Bauträgers weichzeichnen.
+Bauträgerverträge bleiben regelmäßig AGB, auch wenn der Notar den Entwurf formuliert oder die Urkunde feierlich verlesen wird. Individualabrede liegt nur vor, wenn der konkrete Klauselinhalt ernsthaft zur Disposition stand.
 
 ## Normenanker
 
-§§ 305, 305c, 306, 307 Abs. 1 und 2, 308 Nr. 4, 309 Nr. 7, 309 Nr. 8, 309 Nr. 12, 309 Nr. 15, 310 Abs. 3, 315, 444, 639, 650u, 650v BGB; §§ 3, 7, 12 MaBV; § 17 Abs. 2a BeurkG.
+§§ 305, 305c Abs. 2, 306, 307 Abs. 1/2, 308 Nr. 4, 309 Nr. 1, Nr. 2 lit. a, Nr. 7, Nr. 8 lit. b, Nr. 12 lit. a/b, Nr. 13, Nr. 15, 310 Abs. 3, 315, 444, 639, 650m Abs. 2, 650u, 650v BGB; §§ 3, 7, 12 MaBV; § 17 BeurkG.
 
-## Harte Treffer im Bauträgervertrag
+## Harte Treffer
 
-Prüfe besonders:
+- Pauschale Bestätigung, alle Anlagen erhalten, verstanden und fachkundig geprüft zu haben.
+- Bestätigung, es gebe keine Nebenabreden, obwohl Prospekt, Showroom, Rendering oder Vertriebsmail konkret Erwartungen geweckt haben.
+- Beweislast für Bautenstand, Zugang, Anlagenkenntnis oder fehlendes Vertretenmüssen wird dem Erwerber zugeschoben.
+- Zustimmungspflichten zu Änderungen der Teilungserklärung ohne einzeln benannte triftige Gründe.
+- Einseitige Leistungsbestimmungsrechte für Material, Grundriss, Fassade, Technik, Gemeinschaftsflächen oder Ausstattungsstandard ohne Zumutbarkeitsgrenze, Gleichwertigkeitsmaßstab und Dokumentationspflicht.
+- Vormerkungslöschung oder Rücktrittsvollmacht aufgrund einseitiger Behauptung des Bauträgers.
+- Verzicht oder Entwertung der § 650m Abs. 2 BGB-Sicherheit.
+- Mängelrügefristen als Ausschlussfristen, verkürzte Bauwerksverjährung oder Ausschluss von § 637 BGB ohne tragfähigen Grund.
 
-- Erwerber bestätigt pauschal, alle Anlagen erhalten, verstanden und geprüft zu haben.
-- Erwerber bestätigt, keine Zusagen außerhalb der Urkunde erhalten zu haben, obwohl Vertriebsmaterial/Showroom/Renderings wichtig waren.
-- Bauträger darf Bauausführung, Materialien, Grundrisse, Technik oder Teilungserklärung aus Zweckmäßigkeits- oder Wirtschaftlichkeitsgründen ändern.
-- Käufer muss binnen wenigen Tagen mit Sachverständigengutachten widersprechen.
-- Beweislast für fehlendes Vertretenmüssen oder fehlende Zahlung wird auf Käufer verlagert.
-- Mängelrechte, Zurückbehaltungsrechte, Aufrechnung oder Abtretung werden eingeschränkt.
-- Vertragsstrafe/Verzugsschaden wird gedeckelt, während Bauträgerfristen weit elastisch sind.
-- Abschläge oder Sicherheiten weichen zulasten des Verbrauchers von § 650m Abs. 2 BGB oder MaBV ab.
+## Klauseltechnik
 
-## Teilungserklärungs-Änderung
+Keine geltungserhaltende Reduktion zugunsten des Bauträgers. Bei Verstoß gegen AGB-Recht sauber § 306 BGB anwenden: Klausel fällt, Vertrag bleibt mit gesetzlicher Lage bestehen. Bei mehrdeutigen Klauseln kundenfeindlichste Auslegung im Kontrollschritt nutzen.
 
-Bei Zustimmungspflichten zu Nachträgen der Teilungserklärung oder Gemeinschaftsordnung § 308 Nr. 4 BGB prüfen. Eine Klausel muss triftige, konkret benannte Gründe enthalten. BGH, Urteil vom 23.01.2026 - V ZR 91/25 nur nach Live-Prüfung als Anker verwenden.
+## Leistungsbestimmung und Änderungsvorbehalt
+
+§ 315 BGB hilft nur, wenn der Vertrag überhaupt eine wirksame Leistungsbestimmung zulässt. Im Bauträgervertrag müssen Änderungsvorbehalte den Anlass, den betroffenen Leistungsbereich, den Gleichwertigkeitsmaßstab, die Informationspflicht und die Auswirkung auf Preis, Bauzeit und WEG-Unterlagen benennen. Ein bloßes „gleichwertig nach Wahl des Bauträgers“ ist für Verbraucher besonders gefährlich, wenn Prospekt, Bemusterung und Baubeschreibung konkretere Erwartungen geweckt haben.
 
 ## Ausgabe
 
-Für jede Klausel:
-
-| Original | Risiko | Norm | Warum unwirksam/angreifbar | Gegenargument Bauträger | Antwort | gewünschte Fassung |
+| Klausel | Befund | Norm | konkrete Benachteiligung | Gegenargument | Antwort | neue Fassung |
 | --- | --- | --- | --- | --- | --- | --- |
 
-Keine geltungserhaltende Reduktion zugunsten des Verwenders behaupten; Regelfolge ist § 306 BGB.
+Jede Tabellenzeile muss den Originalwortlaut oder die Klauselnummer nennen.

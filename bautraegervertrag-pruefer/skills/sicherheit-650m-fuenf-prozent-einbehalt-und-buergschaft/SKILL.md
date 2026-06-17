@@ -1,0 +1,31 @@
+---
+name: sicherheit-650m-fuenf-prozent-einbehalt-und-buergschaft
+description: "Prüft die 5-Prozent-Sicherheit des Verbrauchers im Bauträgervertrag: § 650m Abs. 2 BGB, § 309 Nr. 15 BGB, Einbehalt, Bürgschaft, Kostenabwälzung, Transparenz, Verzicht, MaBV-Raten und Verhältnis zu § 7 MaBV."
+---
+
+# § 650m-Sicherheit, Einbehalt und Bürgschaft
+
+## Prüfgegenstand
+
+Dieser Skill prüft, ob der Verbraucher die gesetzliche Fertigstellungssicherheit tatsächlich erhält oder ob sie durch Vertragsgestaltung, Zahlungslogik oder Banktext entwertet wird.
+
+## Normenanker
+
+§§ 305c Abs. 2, 306, 307 Abs. 1 Satz 2, 309 Nr. 15, 650m Abs. 2/3, 650u, 650v BGB; §§ 3, 7, 12 MaBV.
+
+## Prüfung
+
+- Ist die Sicherheit als echter Einbehalt oder taugliche Bürgschaft ausgestaltet?
+- Wird sie automatisch gewährt oder muss der Käufer sie so kompliziert „wählen“, dass sie praktisch verloren geht?
+- Werden Kosten der Sicherheit dem Verbraucher aufgebürdet?
+- Ist der Sicherungszweck auf mangelfreie Fertigstellung und Fertigstellungsschäden zugeschnitten?
+- Wird § 650m mit § 7 MaBV vermischt, sodass weder Einbehalt noch Rückzahlungsbürgschaft sauber greifen?
+- Enthält die Klausel einen Verzicht oder eine geringere Höhe als 5 %?
+
+## Klauselbefund
+
+Intransparente „Käufer ist berechtigt“-Formulierungen sind gefährlich, wenn sie suggerieren, die Sicherheit sei ein verlierbares Wahlrecht. Bei Verbraucher-AGB § 307 und § 309 Nr. 15 BGB hart prüfen.
+
+## Output
+
+Gib eine Sicherheitsampel mit Sicherungsart, Betrag, Fälligkeit, Bürgschaftstext, Kosten, Rückgabebedingung und Änderungsvorschlag aus.

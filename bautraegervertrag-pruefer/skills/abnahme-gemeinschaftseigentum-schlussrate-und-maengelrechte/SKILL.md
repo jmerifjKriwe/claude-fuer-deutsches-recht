@@ -1,41 +1,33 @@
 ---
 name: abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte
-description: "Abnahmeprüfung im Bauträgervertrag: Sondereigentum, Gemeinschaftseigentum, Vertreter- und Sachverständigenabnahme, Erstverwalter, Schlussrate, § 640 BGB, §§ 633 ff. BGB, § 3 Abs. 2 MaBV, Verjährungsbeginn, Beweislast und BGH-Linie 2023/2026."
+description: "Abnahmeprüfung im Bauträgervertrag: Sondereigentum, Gemeinschaftseigentum, Vertreter-/Sachverständigenabnahme, Erstverwalter, § 640 BGB, § 634a BGB, § 3 Abs. 2 MaBV, Schlussrate, Verjährungsbeginn und Nachzügler."
 ---
 
 # Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte
 
 ## Prüfgegenstand
 
-Die Abnahme ist der Druckpunkt im Bauträgervertrag. Sie beeinflusst Fälligkeit, Beweislast, Gefahr, Mängelrechte und Verjährung. Dieser Skill trennt Sondereigentum, Gemeinschaftseigentum und Schlussrate.
+Die Abnahme entscheidet über Fälligkeit, Beweislast, Gefahr, Mängelrechte und Verjährung. Im Bauträgervertrag muss Sondereigentum, Gemeinschaftseigentum und Schlussrate getrennt geprüft werden.
 
 ## Normenanker
 
-§§ 633, 634, 634a, 635, 637, 640, 641, 650u BGB; § 3 Abs. 2 MaBV; §§ 305, 307, 309 Nr. 12 BGB; WEG/GdWE-Kompetenzen bei Mängeln am Gemeinschaftseigentum.
+§§ 633, 634, 634a Abs. 1 Nr. 2 und Abs. 2, 635, 637, 640, 641, 650u BGB; § 3 Abs. 2 MaBV; §§ 305c Abs. 2, 307, 309 Nr. 8, Nr. 12 BGB; § 9a WEG für Mängelrechte der Gemeinschaft.
 
 ## Gemeinschaftseigentum
 
-Rot prüfen, wenn der Vertrag:
+Rot prüfen, wenn die Urkunde:
 
-- die Abnahme auf Erwerbervertreter verlagert, ohne eigenes Prüf- und Abnahmerecht jedes Erwerbers zu sichern,
-- einen Sachverständigen bindend abnehmen lässt,
-- Erstverwalter, Tochtergesellschaft, Projektsteuerer oder bauträgernahen Dienstleister einsetzt,
-- Verjährung für Nachzügler an fremde Abnahmen koppelt,
-- Besitzübergabe, Schlüssel oder Protokoll als automatische Abnahme fingiert.
+- die Abnahme zwingend auf Erwerbervertreter, Erstverwalter, Tochtergesellschaft, Projektsteuerer oder bauträgernahen Sachverständigen verlagert,
+- jedem einzelnen Erwerber das eigene Prüf- und Abnahmerecht nimmt,
+- Nachzügler an eine frühere fremde Abnahme bindet,
+- Besitzübergabe, Zahlung oder Protokoll als automatische Abnahme fingiert.
 
-Rechtsprechungsanker nur nach Live-Prüfung: BGH, Urteil vom 26.03.2026 - VII ZR 68/24; BGH, Urteil vom 26.03.2026 - VII ZR 108/24; BGH, Urteil vom 09.11.2023 - VII ZR 241/22.
+BGH VII ZR 68/24 und VII ZR 108/24 nur mit frei prüfbarer Quelle verwenden. Kern: unwirksame Abnahmeklauseln können den Beginn der fünfjährigen Bauwerksverjährung verhindern; die 30-Jahres-Grenze ist als äußerer Rechtssicherheitsrahmen zu beachten.
 
 ## Schlussrate
 
-Die Schlussrate nach vollständiger Fertigstellung ist kein kosmetischer Rest. Prüfe, ob offene Protokollmängel, Restarbeiten, Dokumentationsmängel, Außenanlagen, Tiefgarage, Aufzug, Brandschutz, Lüftung, Messkonzepte oder WEG-relevante Gemeinschaftsflächen die Fälligkeit hindern. Rechtsprechungsanker: BGH, Urteil vom 22.04.2026 - VII ZR 88/25, nur nach Live-Prüfung.
+Schlussrate nicht mit Abnahmereife gleichsetzen. Bei Vertragsklausel „vollständige Fertigstellung“ können Protokollmängel, Restarbeiten, Außenanlagen, Gemeinschaftseigentum und Dokumentationspflichten die Fälligkeit sperren. BGH VII ZR 88/25 nur nach Live-Verifikation einsetzen.
 
 ## Ausgabe
 
-Erstelle ein Abnahme-Protokollgerüst mit:
-
-- nicht abnahmefähigen Punkten,
-- Vorbehalten,
-- verweigerter Abnahme bei wesentlichen Mängeln,
-- zurückzuhaltenden Raten/Beträgen,
-- Nachweis- und Dokumentenliste,
-- Text für den Erwerber, der keine unbeabsichtigte Abnahme erklärt.
+Erstelle ein Abnahmeprotokoll mit nicht abnahmefähigen Punkten, Vorbehalten, verweigerter Abnahme bei wesentlichen Mängeln, zurückzuhaltenden Beträgen, Nachweisliste und Textbaustein gegen unbeabsichtigte Abnahme.

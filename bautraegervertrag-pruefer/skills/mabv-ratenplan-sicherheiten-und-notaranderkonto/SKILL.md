@@ -1,51 +1,46 @@
 ---
 name: mabv-ratenplan-sicherheiten-und-notaranderkonto
-description: "MaBV-Prüfung aus Erwerbersicht: § 3 Abs. 1 MaBV-Fälligkeitsvoraussetzungen, sieben Teilbeträge, § 7-MaBV-Alternative, § 12 MaBV, § 650v BGB, 5-%-Sicherheit nach § 650m Abs. 2 BGB, Reservierungs- und Sonderwunschzahlungen sowie Notaranderkonto."
+description: "MaBV-Prüfung aus Erwerbersicht: § 3 Abs. 1/2 MaBV, sieben Raten, § 7 MaBV, § 12 MaBV, § 650v BGB, 5-%-Sicherheit nach § 650m Abs. 2 BGB, Reservierung, Sonderwünsche, Notaranderkonto und Vermischungsverbot."
 ---
 
 # MaBV-Ratenplan, Sicherheiten und Notaranderkonto
 
 ## Prüfgegenstand
 
-Dieser Skill prüft, ob der Bauträger Geld verlangen darf. Er trennt streng zwischen Kaufpreisraten nach Baufortschritt, Vorausleistungen, Reservierungsentgelt, Sonderwünschen, Notaranderkonto und gesetzlicher Erwerbersicherheit.
+Dieser Skill beantwortet, ob der Bauträger Geld verlangen darf. Er trennt Raten nach Baufortschritt, Vorausleistungen, Reservierungsentgelt, Sonderwünsche, Notaranderkonto und gesetzliche Erwerbersicherheit.
 
-## Pflichtprüfung vor jeder Zahlung
+## Fälligkeit vor jeder Zahlung
 
-1. Liegt ein wirksamer Bauträgervertrag ohne vertragliches Rücktrittsrecht des Bauträgers vor?
-2. Ist die Auflassungsvormerkung eingetragen oder ranggerecht gesichert beantragt?
-3. Liegt die Lastenfreistellung des Globalfinanzierers für die konkrete Einheit vor?
-4. Liegt die Baugenehmigung oder eine tragfähige Genehmigungs-/Baubeginnlage vor?
-5. Passt der Ratenplan zu § 3 Abs. 2 MaBV oder liegt eine echte § 7-MaBV-Sicherheit vor?
-6. Wird die 5-%-Sicherheit nach § 650m Abs. 2 BGB praktisch gewährt und nicht durch Kosten, Verzicht oder Bankabstimmung entwertet?
+1. Wirksamer Vertrag ohne gefährliche Rücktritts-/Lösungsklausel des Bauträgers.
+2. Vormerkung für die konkrete Einheit ranggerecht gesichert.
+3. Lastenfreistellung des Globalfinanzierers einheitsbezogen und auszahlungsfest.
+4. Baugenehmigung oder genehmigungsfreie Lage in der richtigen Schutzfrist.
+5. § 3 Abs. 2 MaBV-Ratenplan oder echte § 7 MaBV-Bürgschaft, nicht beides unsauber vermischt.
+6. 5-%-Sicherheit nach § 650m Abs. 2 BGB effektiv gewährt, nicht nur rhetorisch erwähnt.
 
 ## Normenanker
 
-§§ 271, 286, 320, 641, 650m Abs. 2, 650u, 650v BGB; §§ 3, 7, 12 MaBV; § 309 Nr. 15 BGB; § 34c GewO; § 57 BeurkG; § 401 BGB beim Auszahlungsanspruch aus Notaranderkonto.
+§§ 271, 286, 305c Abs. 2, 307, 309 Nr. 12, 309 Nr. 15, 320, 641, 650m Abs. 2, 650u, 650v, 817, 818 BGB; §§ 3, 7, 12 MaBV; § 34c GewO; § 57 BeurkG.
 
-## Ratenplan-Prüfung
+## Rote Muster
 
-Vergleiche den Vertrag mit der MaBV-Systematik. Markiere rot, wenn der Vertrag:
+- Zwei Großraten oder acht wirtschaftliche Teilbeträge statt sieben sauberer MaBV-Stufen.
+- Vorab-Rate ohne Bautenstand, Reservierung oder Sonderwunsch-Vorkasse außerhalb des Schutzsystems.
+- Rate fällig schon bei bloßer Mitteilung des Bautenstands durch den Bauträger.
+- Rate fällig ohne prüfbaren Bautenstandsnachweis: Foto allein genügt nicht, wenn Bauteile verdeckt, Gemeinschaftsflächen unklar oder Abnahmen nachgeschoben werden.
+- Baustellenbesichtigung nur als Gnadenrecht des Bauträgers, obwohl der Erwerber Rate, Abnahmefähigkeit oder Mangelrisiko sachverständig prüfen muss.
+- Bezugsfertigkeitsrate ohne sicheren Zugang oder ohne Zug-um-Zug-Besitzübergabe.
+- Schlussrate trotz Restarbeiten oder noch nicht vollständig fertiggestelltem Gemeinschaftseigentum.
+- § 7 MaBV-Bürgschaft, die nur Rückzahlung, aber nicht den tatsächlich versprochenen Sicherungsumfang abbildet.
 
-- mehr als sieben Teilbeträge erzeugt oder Teilbeträge wirtschaftlich verschleiert,
-- Reservierungsentgelt oder Sonderwunschvorauszahlung außerhalb des Schutzsystems hält,
-- Bautenstandsbestätigungen durch bauträgernahe Personen ohne echtes Prüfungsrecht des Erwerbers genügen lässt,
-- Einwendungen nur binnen unrealistisch kurzer Fristen und nur mit Sachverständigenvermerk zulässt,
-- Verzugsfolgen an bloße Rechnung/E-Mail oder an unklare Ratenfälligkeit knüpft,
-- die Schlussrate trotz offener Protokollmängel verlangt.
+## Bautenstand und Prüfrechte
 
-## § 7 MaBV
-
-§ 7 MaBV ist keine schöne Formulierung für „Bürgschaft irgendwie vorhanden“. Prüfe:
-
-- Sichert die Bürgschaft alle Ansprüche auf Rückgewähr oder Auszahlung ab?
-- Gilt sie bis zur vollständigen Erfüllung des geschuldeten Bau- und Eigentumserwerbs?
-- Ist die Bürgschaft insolvenzfest, unbedingt, selbstschuldnerisch und banküblich durchsetzbar?
-- Wird § 7 MaBV unzulässig mit § 3 MaBV vermischt?
+Die Bautenstandsmitteilung ist kein Ersatz für Fälligkeit. Verlange bei streitiger Rate eine konkrete Zuordnung zu § 3 Abs. 2 MaBV, Bauabschnitt, Foto-/Planbeleg, Sachverständigentermin und Erklärung, welche Leistungen im Sonder- und Gemeinschaftseigentum wirklich fertig sind. Prüfrechte lassen sich aus Fälligkeit, Treu und Glauben, Abnahmevorbereitung und Beweisnot begründen; ein pauschales Baustellenverbot darf nicht dazu führen, dass der Verbraucher blind zahlt.
 
 ## Notaranderkonto
 
-Ein Notaranderkonto ersetzt MaBV-Schutz nicht automatisch. Prüfe Verwahrungsinteresse, Verwahrungsanweisung, Auszahlungsbedingungen, Pfändungs-/Abtretungsrisiko und Verhältnis zur Schlussrate. BGH, Beschluss vom 02.08.2023 - VII ZB 28/20 nur nach Live-Prüfung als Rechtsprechungsanker verwenden.
+Das Notaranderkonto ist kein Ersatzetikett für MaBV-Konformität. Prüfe Verwahrungsinteresse, Auszahlungsanweisung, Pfändungs- und Abtretungsrisiko, § 401 BGB bei Auszahlungsanspruch und BGH VII ZB 28/20 nur nach Live-Verifikation.
 
-## Output
+## Ausgabe
 
-Erstelle eine Zahlungsampel mit Rate, Betrag, Baufortschritt, Fälligkeitsvoraussetzung, fehlendem Nachweis, Zurückbehaltungsrecht und konkreter Antwort an Bauträger/Notar.
+Erstelle eine Zahlungsampel: Rate, Betrag, Baufortschritt, Fälligkeitsvoraussetzung, fehlender Nachweis, Zurückbehaltungsrecht, Antwort an Bauträger/Notar.

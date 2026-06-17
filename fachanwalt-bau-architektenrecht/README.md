@@ -46,7 +46,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 115 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -109,6 +109,7 @@ Automatisch generierte Komplett-Liste aller 115 Skills in diesem Plugin. Beschre
 | `bautraeger-weg-instandhaltungsruecklage-uebergabe` | WEG-Instandhaltungsruecklage zur Übergabe: Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Prüfras... |
 | `bautraeger-weg-teilungserklaerung-pruefen` | WEG-Teilungserklaerung beim Bautraegervertrag prüfen: Skill klaert was in der Teilungserklaerung steht (Sondereigentum Gemeinschaftseigentum) wie sie gepruef wird und welche Klauseln problematisch sind... |
 | `bautraegervertrag-mev-verstoss-bgh-vii-zr-25-20` | Bautraegervertrag MaBV-Verstoss mit BGH VII ZR 25/20; Prüfraster Vorleistungsverbot Erstattungsanspruch. |
+| `bautraegervertrag-verbraucher-mabv-agb-abnahme` | Fachanwalts-Spezialskill für Bauträgerverträge aus Verbrauchersicht: § 650u/§ 650v BGB, MaBV-Raten, § 650m-Sicherheit, AGB-Klauseln, Baubeschreibung, Abnahme Gemeinschaftseigentum, Schlussrate und Verjährung. |
 | `bauvertrag-schriftsatz-brief-und-memo-bausteine` | Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine: Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `bgb-fristen-form-und-zustaendigkeit` | BGB: Fristen, Form, Zuständigkeit und Rechtsweg: BGB: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `denkmalschutz-abriss-paragraf-9-dschg-bayverfgh` | Denkmalschutz Abriss Paragraf 9 Dschg Bayverfgh: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |

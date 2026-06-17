@@ -1,28 +1,33 @@
 ---
 name: bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt
-description: "Bauzeit- und Verzugsprüfung beim Bauträgervertrag: verbindlicher Fertigstellungstermin, Bezugsfertigkeit, Bauablaufstörungen, höhere Gewalt, Lieferengpässe, Wiederanlaufzuschläge, Vertragsstrafe, Schadensersatz und bauablaufbezogene Darlegung."
+description: "Bauzeit- und Verzugsprüfung beim Bauträgervertrag: verbindlicher Termin, Bezugsfertigkeit, vollständige Fertigstellung, bauablaufbezogene Darlegung, Pandemie/Lieferketten/Wetter, § 313 BGB, Vertragsstrafe und Schadensersatz."
 ---
 
 # Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt
 
 ## Prüfgegenstand
 
-Dieser Skill prüft, ob der Bauträger einen belastbaren Fertigstellungstermin schuldet oder ob die Frist durch Lieferengpässe, Wetter, Nachunternehmer, Versorger und Bauablaufklauseln praktisch entleert wird.
+Dieser Skill prüft, ob der Bauträger einen echten Fertigstellungstermin schuldet oder ob Frist- und Störungsklauseln den Termin entwerten. Der Fokus liegt auf beweisbarer Bauablaufstörung statt pauschaler Krisenerzählung.
 
 ## Normenanker
 
-§§ 271, 280, 286, 287, 288, 309 Nr. 5, 309 Nr. 7, 309 Nr. 8, 323, 339 ff., 640, 641, 642, 643, 650k Abs. 3, 650u BGB; § 3 Abs. 2 MaBV; § 287 ZPO bei Schadensschätzung.
+§§ 271, 280 Abs. 1/2, 286 Abs. 2 Nr. 1 und Abs. 4, 287, 289, 291, 305c Abs. 2, 307, 309 Nr. 5, Nr. 7, Nr. 12, 313, 339-341, 640, 641, 642, 643, 650k Abs. 3, 650u BGB; § 3 Abs. 2 MaBV; §§ 287, 308 ZPO.
 
-## Prüfung
+## Bauablaufbezogene Darlegung
 
-- Enthält der Vertrag ein verbindliches Fertigstellungsdatum oder nur „voraussichtlich“?
-- Ist Bezugsfertigkeit von vollständiger Fertigstellung getrennt?
-- Verlängern Lieferengpässe, Witterung, Personal, Versorger, Wasserhaltung oder Nachunternehmer die Frist pauschal?
-- Gibt es einen Wiederanlauf-/Umplanungszuschlag ohne Nachweis?
-- Ist die Vertragsstrafe so niedrig, gedeckelt oder exklusiv, dass echte Schäden ausgeschlossen werden?
-- Wird weitergehender Schaden bei leichter Fahrlässigkeit ausgeschlossen?
-- Muss der Bauträger bauablaufbezogen darlegen, welcher Umstand welches Gewerk wie lange behindert hat?
+Der Bauträger muss konkret erklären: Soll-Bauablauf, betroffenes Gewerk, Ereignis, Dauer, Folgegewerke, Ausweichmöglichkeiten, Wiederanlaufzeit und Auswirkung auf den Endtermin. Allgemeine Hinweise auf Pandemie, Lieferketten, Personal, Wetter, Nachunternehmer oder Versorger reichen nicht.
+
+## Klauselprüfung
+
+- „Voraussichtlich“ oder „angestrebt“ entwertet den Termin.
+- Zusätzliche Mahnpflichten trotz kalendarischem Termin sind an § 307 BGB zu messen.
+- § 313 BGB scheidet regelmäßig aus, wenn die behauptete Krise bei Vertragsschluss schon bekannt war.
+- Vertragliche Fristverlängerungen müssen Anlass, Nachweis und Dauer begrenzen.
+
+## Vertragsstrafe und Schaden
+
+Vertragsstrafe und Verzugsschaden bei Interessenidentität anrechnen (§ 341 Abs. 2 i.V.m. § 340 Abs. 2 BGB). Weiteren Schaden nicht durch pauschale Exklusivität abschneiden.
 
 ## Output
 
-Erstelle eine Terminmatrix mit Solltermin, Klausel, Hindernis, Nachweisanforderung, Schadensposition und verlangter Änderung. Formuliere bei Verzögerung ein Schreiben, das konkrete Bauablaufdarlegung statt pauschaler „Lieferketten“-Behauptung verlangt.
+Erstelle Terminmatrix, Hindernisprüfung, Schadensliste und ein Aufforderungsschreiben, das konkrete Bauablaufdarlegung verlangt.

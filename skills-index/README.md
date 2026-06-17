@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v333.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v334.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -20,7 +20,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [aussenwirtschaft-zoll-sanktionen](./aussenwirtschaft-zoll-sanktionen.md) (124 Skills)
 - [bank-rechtsabteilung](./bank-rechtsabteilung.md) (121 Skills)
 - [barrierefreiheit-web-checker](./barrierefreiheit-web-checker.md) (59 Skills)
-- [bautraegervertrag-pruefer](./bautraegervertrag-pruefer.md) (15 Skills)
+- [bautraegervertrag-pruefer](./bautraegervertrag-pruefer.md) (30 Skills)
 - [bav-strategie-konzern](./bav-strategie-konzern.md) (58 Skills)
 - [beamtenrecht](./beamtenrecht.md) (178 Skills)
 - [bereicherungs-und-anfechtungsrecht-pruefer](./bereicherungs-und-anfechtungsrecht-pruefer.md) (138 Skills)
@@ -59,7 +59,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fachanwalt-agrarrecht](./fachanwalt-agrarrecht.md) (78 Skills)
 - [fachanwalt-arbeitsrecht](./fachanwalt-arbeitsrecht.md) (119 Skills)
 - [fachanwalt-bank-kapitalmarktrecht](./fachanwalt-bank-kapitalmarktrecht.md) (86 Skills)
-- [fachanwalt-bau-architektenrecht](./fachanwalt-bau-architektenrecht.md) (115 Skills)
+- [fachanwalt-bau-architektenrecht](./fachanwalt-bau-architektenrecht.md) (116 Skills)
 - [fachanwalt-erbrecht](./fachanwalt-erbrecht.md) (97 Skills)
 - [fachanwalt-familienrecht](./fachanwalt-familienrecht.md) (154 Skills)
 - [fachanwalt-gewerblicher-rechtsschutz](./fachanwalt-gewerblicher-rechtsschutz.md) (107 Skills)
@@ -106,7 +106,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [hinweisgeberschutz-compliance](./hinweisgeberschutz-compliance.md) (101 Skills)
 - [hoai-leistungsphasen-praxis](./hoai-leistungsphasen-praxis.md) (388 Skills)
 - [hochschulrecht-laender](./hochschulrecht-laender.md) (100 Skills)
-- [immobilienrechtspraxis](./immobilienrechtspraxis.md) (61 Skills)
+- [immobilienrechtspraxis](./immobilienrechtspraxis.md) (62 Skills)
 - [influencer-recht](./influencer-recht.md) (129 Skills)
 - [informationsfreiheit-presseauskunft](./informationsfreiheit-presseauskunft.md) (117 Skills)
 - [insiderrecht-compliance](./insiderrecht-compliance.md) (111 Skills)
@@ -216,7 +216,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [vertragsrecht](./vertragsrecht.md) (59 Skills)
 - [wahlkampfrecht-praxis](./wahlkampfrecht-praxis.md) (120 Skills)
 - [wandeldarlehen-lebenszyklus](./wandeldarlehen-lebenszyklus.md) (53 Skills)
-- [weg-hausverwaltung](./weg-hausverwaltung.md) (92 Skills)
+- [weg-hausverwaltung](./weg-hausverwaltung.md) (93 Skills)
 - [weltraumrecht](./weltraumrecht.md) (180 Skills)
 - [word-legal-ai-plugin-and-skill-for-german-lawyers](./word-legal-ai-plugin-and-skill-for-german-lawyers.md) (52 Skills)
 - [zitierweise-deutsches-recht](./zitierweise-deutsches-recht.md) (83 Skills)

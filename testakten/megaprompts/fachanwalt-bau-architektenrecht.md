@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 115 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-bau-architektenrecht`.
+Dieser Megaprompt enthaelt top-8 von 116 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-bau-architektenrecht`.
 
 ## Inhaltsverzeichnis
 

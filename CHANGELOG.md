@@ -1,3 +1,20 @@
+# v334.0.0 — Bauträgervertragsrecht vertieft und auf 30 Skills ausgebaut
+
+Das Bauträgervertrag-Plugin ist fachlich erheblich erweitert: Die verbraucherseitige Prüfung deckt jetzt MaBV-Raten, § 650m-Sicherheit, Freistellung, Globalgrundschuld, Abnahme des Gemeinschaftseigentums, Schlussrate, § 650n-Unterlagen, technische Standards, Sonderwünsche, Baugruppen, Notarhaftung, Drucksituationen, Prozessstrategie und Quellenhygiene in 30 eigenständigen Skills ab.
+
+## Fachliche Erweiterung
+
+- `bautraegervertrag-pruefer` von 15 auf 30 Skills erweitert, mit präzisen Normankern zu BGB, MaBV, BeurkG, WEG, InsO, ZPO und HOAI-Prüfrastern.
+- Neue Spezialskills u. a. zu § 3/§ 7/§ 12 MaBV, § 650m Abs. 2 BGB, § 650u/§ 650v BGB, unwirksamen Abnahmeklauseln, vollständiger Fertigstellung, Bautenstandsnachweisen, Preisanpassung, Bauzeitverzug, Verbraucherbauvertrag-Abgrenzung, Baugruppen-GbR und Eigentumssicherung.
+- Rechtsprechungsanker zur aktuellen BGH-Linie im Bauträgerrecht nur als verifizierbare Hinweise eingebaut; keine BeckRS-/juris-Blindzitate.
+- Angrenzende Plugins punktuell ergänzt: `fachanwalt-bau-architektenrecht`, `immobilienrechtspraxis` und `weg-hausverwaltung` erhalten je einen Bauträger-Spezialskill für die dort typischen Anschlussfragen.
+
+## Übersichten
+
+- Skillindex, Plugin-README, Megaprompt und globale Übersichten auf 214 Plugins, 25.673 Skills und Version v334.0.0 aktualisiert.
+
+---
+
 # v333.0.0 — Bauträgervertrag-Prüfer aus Verbrauchersicht
 
 Der externe Bauträgervertragsprüfer ist jetzt in die Cloud-Legal-Plugin-Sammlung übernommen: als eigenes Plugin, als verdichteter Mega-Prompt und als aufgespaltene Skill-Familie für die Prüfung von Bauträgerverträgen aus Sicht von Verbraucherkäufern.

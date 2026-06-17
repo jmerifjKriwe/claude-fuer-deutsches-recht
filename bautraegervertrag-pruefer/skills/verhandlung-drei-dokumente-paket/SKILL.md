@@ -1,36 +1,30 @@
 ---
 name: verhandlung-drei-dokumente-paket
-description: "Drei-Dokumente-Ausgabe für Bauträgervertragsprüfung: ausformuliertes Mandantenanschreiben, ausführliches Mandantengutachten und außergerichtliches Aufforderungsschreiben an Bauträger/Notar mit konkreten Änderungsfassungen und Gegenargument-Antworten."
+description: "Drei-Dokumente-Ausgabe für Bauträgervertragsprüfung: Mandantenanschreiben, klauselorientiertes Gutachten und Schreiben an Bauträger/Notar mit MaBV-, AGB-, Abnahme-, Preisanpassungs-, Bausoll- und Sicherheitsforderungen."
 ---
 
 # Verhandlung und Drei-Dokumente-Paket
 
 ## Prüfgegenstand
 
-Dieser Skill verwandelt die Prüfung in verwendbare Texte. Er ist zu verwenden, wenn die Analyse nicht als interne Tabelle enden darf, sondern Mandant, Bauträger und Notar erreicht werden sollen.
+Dieser Skill verwandelt die Prüfung in verwendbare Texte. Er ist zu laden, wenn das Ergebnis an Mandant, Bauträger oder Notar gehen soll.
 
 ## Normenanker
 
-§§ 133, 157, 242, 305-310, 311b, 320, 633-641, 650j, 650k, 650m Abs. 2, 650n, 650u, 650v, 883 BGB; §§ 3, 7, 12 MaBV; § 17 Abs. 2a BeurkG; WEG je nach Teilungserklärung.
+§§ 133, 157, 242, 305, 306, 307, 308 Nr. 4, 309 Nr. 1, Nr. 2 lit. a, Nr. 12, Nr. 15, 311b, 313, 315, 320, 633, 634, 635, 637, 640, 641, 650j, 650k Abs. 2 und Abs. 3, 650m Abs. 2, 650n, 650u, 650v, 817, 818, 883 BGB; §§ 3, 7, 12 MaBV; § 17 BeurkG; §§ 5, 9a, 10, 20 WEG.
 
 ## Dokument 1: Mandantenanschreiben
 
-Schreibe kurz, klar und entscheidungsorientiert:
-
-- Was ist der kritischste Punkt vor Beurkundung/Zahlung/Abnahme?
-- Welche Punkte müssen zwingend geändert oder nachgewiesen werden?
-- Welche Punkte sind verhandelbar?
-- Welche Unterlagen fehlen?
-- Welche Handlung wird bis wann empfohlen?
+Schreibe kurz und entscheidungsorientiert: Was ist jetzt zu tun? Beurkunden, warten, zahlen, zurückbehalten, abnehmen, verweigern, Nachweise verlangen oder Klage vorbereiten? Benenne Unterlagen, Fristen, Beträge und rote Punkte. Keine falsche Hoffnung auf 14-Tage-Widerruf beim beurkundeten Bauträgervertrag.
 
 ## Dokument 2: Mandantengutachten
 
-Gliedere nach Vertragsabschnitten. Für jeden Befund: Originalwortlaut, rechtlicher Anker, wirtschaftliche Wirkung, Gegenargument der Gegenseite, Antwort, Empfehlung und konkrete Neufassung. Schreibe ausformuliert, nicht in bloßen Notizen.
+Gliedere nach Vertragsabschnitten. Für jeden Befund: Originalwortlaut, Normanker, wirtschaftliche Wirkung, Gegenargument, Antwort, Empfehlung, Neufassung. Baue Spezialthemen ein: Preisanpassung, anerkannte Regeln der Technik, § 650n-Unterlagen, 30-Jahres-Linie bei unwirksamer Abnahme, Schlussrate, Bauablaufdarlegung.
 
-## Dokument 3: Aufforderungsschreiben
+## Dokument 3: Schreiben an Bauträger/Notar
 
-Adressiere Bauträger und Notar. Ton: ruhig, präzise, verhandlungsfähig, aber nicht devot. Verlange konkrete Änderungen: Streichung, Ergänzung, Unterlagen, Nachweis, Frist, Zurückstellung der Beurkundung/Zahlung/Abnahme.
+Formuliere höflich-fest. Verlange Streichung oder Korrektur konkreter Klauseln, Nachreichung bestimmter Anlagen, Aussetzung von Zahlung/Beurkundung/Abnahme, Klarstellung der Sicherheit und Freigabe. Bei Notar nicht drohen, sondern Amtspflichten sachlich ansprechen.
 
 ## Qualitätsgate
 
-Kein Absatz darf allgemein bleiben. Jede Forderung muss Klausel, Rate, Betrag, Datum, Einheit, Bauteil oder Dokument benennen. Wenn ein Vorschlag nur „rechtssicherer formulieren“ sagt, ist er unfertig.
+Jede Forderung nennt Klausel, Rate, Betrag, Datum, Einheit, Bauteil oder Dokument. Keine leeren Sätze wie „rechtssicherer formulieren“.

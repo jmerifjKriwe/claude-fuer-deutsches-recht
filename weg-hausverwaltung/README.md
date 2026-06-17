@@ -90,7 +90,7 @@ Das Plugin ersetzt keine anwaltliche Beratung, keine WEG-Spezialkanzlei, keine S
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -102,6 +102,7 @@ Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschrei
 | `bauliche-veraenderung-aufzug-treppenlift-20` | Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG (Stand 06/2026): Anspruch ohne Ermessen, DIN 18040-2, Kostentragung § 21 WEG, KfW 159 bis 50000 Euro, BGH V ZR 244/22. |
 | `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg` | Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs: 2 Nr. 2 WEG (Stand 06/2026): Anspruch ohne Ermessen, DIN 18040-2, Kostentragung... |
 | `bauliche-veraenderungen-20-weg` | Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand 05/2026): Anspruch, Gestattung, Grenzen, Kostenfolge, Gebrauch, Auflagen, Rückbau, Beschlussvorschlag und Anfechtungsrisiko, einschließlich der BGH-Linie 2024-2025 zu Klimasplitge... |
+| `bautraegeralteanlage-abnahme-maengel-gdwe` | WEG-Spezialskill für Bauträger-Altanlagen: unwirksame Abnahme des Gemeinschaftseigentums, GdWE-Mängelrechte, Nachzügler, Verjährung, Nachabnahme, Beweissicherung und Vergleich. |
 | `beirat-controlling-verwalter` | Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle, Beschlussvorbereitung, Protokollcheck, Verwalterkommunikation und Eskalationsnotizen (Stand 05/2026); berücksichtigt BGH V ZR 34/24 (Schadensersatzweg über GdWE) und... |
 | `beschluesse-dokumentenmatrix-und-lueckenliste` | Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbrem... |
 | `beschlussanfechtung-risiko` | Prüft Beschlüsse auf Anfechtungs- und Nichtigkeitsrisiken nach §§ 44 und 45 WEG (Stand 05/2026): Frist, Beschlusskompetenz, Einladung, Tagesordnung, Mehrheit, Kostenfolge, Bestimmtheit, ordnungsmäßige Verwaltung sowie BGH-Linie zu Schlüs... |

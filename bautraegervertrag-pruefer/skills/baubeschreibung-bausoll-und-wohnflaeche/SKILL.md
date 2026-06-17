@@ -1,32 +1,31 @@
 ---
 name: baubeschreibung-bausoll-und-wohnflaeche
-description: "Baubeschreibung und Bausoll im Bauträgervertrag: prüft § 650j BGB, § 650k Abs. 2/3 BGB, Art. 249 EGBGB, beurkundete Anlagen, Wohnflächenmethode, DIN/ART-Verweise, Bemusterung, Renderings, Showroom-Zusagen und Unklarheiten zulasten des Bauträgers."
+description: "Baubeschreibung und Bausoll im Bauträgervertrag: prüft § 650j, § 650k Abs. 2/3, § 650n BGB, Art. 249 EGBGB, beurkundete Anlagen, Wohnfläche, Prospekt/Showroom, DIN-Verweise und anerkannte Regeln der Technik."
 ---
 
 # Baubeschreibung, Bausoll und Wohnfläche
 
 ## Prüfgegenstand
 
-Dieser Skill klärt, was der Bauträger schuldet. Er prüft Baubeschreibung, Pläne, Bemusterung, Wohnfläche, technische Standards und die Frage, ob vertriebsnahe Unterlagen in die Beschaffenheit hineingezogen werden können.
+Dieser Skill klärt, was der Bauträger schuldet: nicht nur Quadratmeter und Parkett, sondern konkrete Qualität, Technik, Unterlagen, Energie-/Schall-/Brandschutz und das Verhältnis von Urkunde, Plänen, Prospekt und Bemusterung.
 
 ## Normenanker
 
-§§ 133, 157, 242, 305c Abs. 2, 307 Abs. 1 Satz 2, 311b, 434, 633, 650j, 650k Abs. 2 und 3, 650n, 650u BGB; Art. 249 EGBGB; § 17 Abs. 2a BeurkG; DIN 277/WoFlV je nach vertraglicher Bezugnahme.
+§§ 133, 157, 242, 305c Abs. 2, 307 Abs. 1 Satz 2, 311b, 434, 633, 640, 650j, 650k Abs. 2/3, 650n, 650u BGB; Art. 249 EGBGB; § 17 BeurkG; WoFlV/DIN 277 nur nach vertraglicher Bezugnahme.
 
-## Prüfmatrix
+## Prüfung
 
-- Ist die Baubeschreibung mit Datum, Version und Anlagenstatus notariell einbezogen?
-- Sind Pläne, Grundrisse, Ansichten, Schnitte, Wohnflächenberechnung, Energieangaben und Teilungserklärung konsistent?
-- Enthält die Beschreibung messbare Werte für Schall, Wärme, Feuchte, Brandschutz, Lüftung, Aufzug, Tiefgarage, Ladeinfrastruktur und Außenanlagen?
-- Sind Begriffe wie „hochwertig“, „gleichwertig“, „mittlere Art und Güte“, „quartierstypisch“ oder „Komfortlinie“ ohne Werte verwendet?
-- Wird die Wohnfläche nach DIN 277 statt WoFlV berechnet, obwohl der Erwerber Wohnnutzung erwartet?
-- Werden Renderings, Show-Wohnung, Broschüren und Vertriebsaussagen vollständig ausgeschlossen?
-- Gibt es Wahlrechte des Bauträgers bei Material, Fabrikat, Farbe, Leitungsführung oder technischen Komponenten?
+- Ist die Baubeschreibung mit Datum, Version und Anlagenstatus beurkundet oder eindeutig einbezogen?
+- Sind Grundrisse, Schnitte, Ansichten, Wohnflächenberechnung und Teilungserklärung konsistent?
+- Sind Schall, Wärme, Feuchte, Brand, Lüftung, Aufzug, Tiefgarage, Ladeinfrastruktur und Außenanlagen messbar beschrieben?
+- Werden DIN-Normen als alleiniger Qualitätsmaßstab missverstanden?
+- Enthält der Vertrag Lücken bei KfW-/GEG-Nachweisen, Brandschutz, Schallschutz, Statik oder Revisionsunterlagen nach § 650n BGB?
+- Werden Prospekt, Rendering, Show-Wohnung und Vertriebsaussagen pauschal ausgeschlossen?
 
-## Auslegungsregel
+## Auslegung
 
-Bei Verbraucher-Bauträgerverträgen wirkt Unklarheit nicht neutral. Nutze § 305c Abs. 2 BGB und § 650k Abs. 2/3 BGB: unklare oder unvollständige Baubeschreibungen sind so auszulegen, wie ein verständiger Erwerber sie nach Projekt, Preis, Ausstattungslinie und Vertragsumfeld verstehen durfte.
+Beim Bauträgervertrag bleiben § 650k Abs. 2/3 BGB wichtig: Lücken und Unklarheiten der Baubeschreibung sind aus Erwerbersicht und zulasten des Bauträgers auszulegen. § 650k Abs. 1 BGB nicht versehentlich als automatische Einbeziehung der vorvertraglichen Baubeschreibung verwenden; beim Bauträger ist das über § 650u Abs. 2 BGB ausgeschlossen.
 
 ## Output
 
-Erstelle eine Bausoll-Tabelle mit Bauteil/Gewerk, Vertragsquelle, konkreter Lücke, Risiko für Nutzung oder Betriebskosten, verlangtem Nachweis und vorgeschlagener Vertragsfassung.
+Erstelle eine Bausoll-Tabelle mit Bauteil/Gewerk, Vertragsquelle, Lücke, Risiko, Nachweis, gewünschter Ergänzung und Priorität vor Beurkundung/Zahlung/Abnahme.

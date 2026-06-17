@@ -1,43 +1,42 @@
 ---
 name: fall-fingerabdruck-und-schnelltriage
-description: "Fall-Fingerabdruck für Bauträgerakten: extrahiert Urkunde, Verkäufer, Verbraucherrolle, Wohnung/Haus/Stellplatz, Kaufpreis, Raten, Sicherheiten, Baubeschreibung, Teilungserklärung, Technik, Baufortschritt und Streitstand, bevor eine rote oder orange Bewertung gesetzt wird."
+description: "Fall-Fingerabdruck für Bauträgerakten: extrahiert Urkunde, Verkäufer, Verbraucherrolle, Einheit, Kaufpreis, Raten, Sicherheiten, Baubeschreibung, Teilungserklärung, Technik, Baufortschritt, Abnahme- und Streitstand vor jeder Ampel."
 ---
 
 # Fall-Fingerabdruck und Schnelltriage
 
 ## Zweck
 
-Dieser Skill verhindert abstrakte Bauträgervertragskritik. Bevor ein Risiko bewertet wird, wird die konkrete Urkunde mit Käufer, Projekt, Einheit, Ratenplan, Sicherheiten, Baubeschreibung und WEG-Struktur erfasst.
+Dieser Skill verhindert abstrakte Bauträgerkritik. Jede rote, orange oder grüne Bewertung muss aus der konkreten Akte folgen: Urkunde, Einheit, Betrag, Rate, Bauabschnitt, Bauteil, Anlagenstand, E-Mail oder Zahlungsaufforderung.
 
 ## Erfassungstabelle
 
-| Feld | In der Akte konkret suchen |
+| Feld | Konkret aus der Akte ziehen |
 | --- | --- |
-| Urkunde | UR-Nr., Notar, Datum, Entwurf/Beurkundung, Bezugsurkunden, Verbraucherfrist, Anlagenstand |
-| Verkäufer | Bauträgerfirma, Rechtsform, Projektgesellschaft, Vollmachten, Konzernbezug, Globalfinanzierer |
-| Käufer | natürliche Person, Verbraucherstatus, Eigennutzung/private Kapitalanlage, Finanzierungsdruck, Notartermin |
-| Grundstück | Grundbuch, Gemarkung, Flurstück, Baufelder, Bauabschnitte, Erschließung, Grundpfandrechte |
-| Einheit | Wohnung/Haus, Nummer, Geschoss, Keller, Terrasse/Balkon, Sondernutzungsrecht, Stellplatz, Wohnfläche |
-| Preis | Gesamtkaufpreis, Stellplatzpreis, Reservierungsentgelt, Sonderwünsche, Erschließung, Hausanschlüsse |
-| Zahlungen | § 3-MaBV-Raten, § 7-MaBV-Modell, Schlussrate, Zahlungsaufforderungen, Bautenstandsbestätigungen |
-| Sicherheiten | Vormerkung, Lastenfreistellung, § 650m-Abs.-2-Sicherheit, Bürgschaft, Notaranderkonto |
-| Bausoll | Baubeschreibungsversion, Pläne, Bemusterung, Wohnflächenmethode, Schall, Energie, Feuchte, Brandschutz |
-| Technik | Baugrund, Grundwasser, Altlasten, Kampfmittel, Baugrube, Statik, TGA, Aufzug, Tiefgarage, Lüftung |
-| WEG | Teilungserklärung, Gemeinschaftsordnung, Erstverwalter, Wartungsverträge, Kostenverteilung |
-| Streitstand | vor Beurkundung, vor Rate, vor Abnahme, Schlussrate, Mängel, Insolvenzsignal, Klage-/Rücktrittslage |
+| Urkunde | UR-Nr., Notar, Datum, Entwurf/Beurkundung, Bezugsurkunden, Anlagenstand, Verbraucherfrist |
+| Verkäufer | Bauträger, Projektgesellschaft, Konzern, Geschäftsführung, Vollmachten, Globalfinanzierer |
+| Käufer | Verbraucherstatus, Eigennutzung, Kapitalanlage, Finanzierungsdruck, Makler-/Reservierungsvorgeschichte |
+| Grundstück | Grundbuch, Rang, Flurstück, Bauabschnitt, Grundpfandrechte, Baulasten, Erschließung |
+| Einheit | Wohnung/Haus, Nummer, Geschoss, Keller, Stellplatz, Sondernutzungsrecht, Wohnfläche, Planstand |
+| Preis | Gesamtpreis, Stellplatz, Reservierung, Sonderwünsche, Erschließung, Hausanschlüsse, Preisanpassung |
+| Zahlungen | § 3-MaBV-Raten, § 7-Modell, Schlussrate, Bautenstandsmitteilungen, Zahlungsaufforderungen |
+| Sicherheiten | Vormerkung, Lastenfreistellung, § 650m-Sicherheit, Bürgschaft, Notaranderkonto, Freigabe |
+| Bausoll | Baubeschreibung, Pläne, Prospekt/Rendering, Bemusterung, Technikwerte, Unterlagen nach § 650n BGB |
+| WEG | Teilungserklärung, Gemeinschaftsordnung, Kostenkreise, Erstverwalter, Wartungsverträge |
+| Streitstand | Vor Notar, Rate, Bauverzug, Mangel, Abnahme, Schlussrate, Insolvenz, Rücktritt/Klage |
 
 ## Normenanker
 
-§§ 13, 14, 305, 306, 307, 308 Nr. 4, 309 Nr. 12, 309 Nr. 15, 311b, 650j, 650k Abs. 2/3, 650m Abs. 2, 650n, 650u, 650v, 883, 925 BGB; §§ 3, 7, 12 MaBV; § 17 Abs. 2a BeurkG.
+§§ 13, 14, 305c Abs. 2, 306, 307, 308 Nr. 4, 309 Nr. 12, 309 Nr. 15, 311b, 315, 320, 640, 641, 650j, 650k Abs. 2/3, 650m Abs. 2, 650n, 650u, 650v, 883, 925 BGB; §§ 3, 7, 12 MaBV; § 17 BeurkG.
 
 ## Triage-Logik
 
-1. **Vor Notartermin:** Fokus auf Beurkundungsfrist, Anlagenvollständigkeit, MaBV, Sicherheit, AGB, Baubeschreibung, Änderungsvollmachten.
-2. **Nach Beurkundung vor erster Rate:** Fokus auf Fälligkeitsmitteilung, Vormerkung, Freistellung, Baugenehmigung, § 650m Abs. 2 BGB, Reservierungsentgelt.
-3. **Während Bau:** Fokus auf Bautenstand, Ratenmeilensteine, Sonderwünsche, Verzögerung, Baugrund/Technik, Nachweise.
-4. **Vor Abnahme/Schlussrate:** Fokus auf Sondereigentum, Gemeinschaftseigentum, Protokoll, Mängel, vollständige Fertigstellung, Zurückbehaltung.
-5. **In der Krise:** Fokus auf Vormerkungsrang, Lastenfreistellung, Insolvenz, Rücktritt, Selbstvornahme, Vorschuss, Klageziel.
+- Vor Beurkundung: Frist, Anlagen, AGB, Raten, Sicherheiten, Bausoll, Änderungsrechte.
+- Vor Zahlung: allgemeine und besondere MaBV-Fälligkeit, § 650m, Bautenstand, Besichtigungsrecht.
+- Während Bau: Bauzeit, Sonderwünsche, Standardänderungen, technische Nachweise, Stillstand.
+- Vor Abnahme: wesentliche Mängel, Protokoll, Gemeinschaftseigentum, Schlussrate, Unterlagen.
+- Krise: Vormerkung, § 103/§ 106 InsO, Bürgschaft, Geschäftsführer-/Notar-/Architektenhaftung.
 
 ## Ausgabe
 
-Gib zuerst eine knappe Fallkarte aus. Danach erst die rechtliche Bewertung. Jede Ampel muss auf ein konkretes Element der Fallkarte zurückführbar sein.
+Gib zuerst eine Fallkarte aus. Danach folgt die Prüfung. Wenn ein Befund nicht auf Klausel, Betrag, Datum, Bauteil, Rate oder Dokument zurückgeführt werden kann, ist er noch nicht reif.

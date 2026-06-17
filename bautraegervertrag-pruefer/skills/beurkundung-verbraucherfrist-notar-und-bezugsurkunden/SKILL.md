@@ -1,31 +1,34 @@
 ---
 name: beurkundung-verbraucherfrist-notar-und-bezugsurkunden
-description: "Beurkundungs- und Notarprüfung beim Bauträgervertrag: § 311b BGB, § 17 Abs. 2a BeurkG, Zwei-Wochen-Frist, Bezugsurkunden, Anlagen, Vollmachten, Belehrung, Notaranderkonto, Serienprojekt und notarielle Vollzugsrisiken."
+description: "Beurkundungs- und Notarprüfung beim Bauträgervertrag: § 311b BGB, § 17 BeurkG, § 13a BeurkG, Zwei-Wochen-Frist, Bezugsurkunden, Baubeschreibung, Pläne, Reservierung, Vorausleistung und notarielle Amtspflichten."
 ---
 
 # Beurkundung, Verbraucherfrist, Notar und Bezugsurkunden
 
 ## Prüfgegenstand
 
-Dieser Skill prüft, ob der notarielle Rahmen den Verbraucher schützt oder ob wichtige Anlagen, Belehrungen, Fristen und Vollzugsschritte nur formal abgearbeitet wurden.
+Dieser Skill prüft, ob der notarielle Rahmen den Verbraucher wirklich schützt: vollständiger Entwurf, richtige Anlagen, rechtzeitige Überlassung, wirksame Bezugsurkunden, Belehrung und Vollzug.
 
 ## Normenanker
 
-§ 311b BGB; § 17 Abs. 1 und Abs. 2a BeurkG; §§ 13, 14, 305, 307, 308 Nr. 4, 309 Nr. 12, 650u BGB; §§ 3, 7 MaBV; § 57 BeurkG; BNotO und notarielle Amtspflichten nur quellenhart anwenden.
+§§ 125, 305c Abs. 2, 307, 308 Nr. 4, 309 Nr. 12, 311b Abs. 1, 650u BGB; § 13a BeurkG; § 17 Abs. 1 und Abs. 2a BeurkG; §§ 14, 19 BNotO; §§ 3, 7 MaBV.
 
-## Prüfung
+## Beurkundungsreichweite
 
-- Wurde der Vertragsentwurf dem Verbraucher rechtzeitig und vollständig überlassen?
-- Waren Teilungserklärung, Nachträge, Baubeschreibung, Pläne, Ratenplan, Freistellungsmuster und Vollmachten zugänglich?
-- Wird im Vertrag nur pauschal bestätigt, dass der Käufer alles kannte und prüfen konnte?
-- Sind wesentliche Anlagen bloß „im Portal abrufbar“ statt beurkundet oder eindeutig einbezogen?
-- Handelt eine Bevollmächtigte auf Verkäuferseite mit tragfähiger Vollmacht?
-- Enthält die Urkunde Notaranderkonto-Regeln, Verwahrungsanweisungen oder Vormerkungsfreigaben mit Druckwirkung gegen den Käufer?
+Der Bauträgervertrag ist insgesamt beurkundungsbedürftig. Mitzubeurkunden oder eindeutig einzubeziehen sind insbesondere Baubeschreibung, Pläne, Vorvertrag, entgeltliche Reservierung mit Erwerbsdruck, Vorausleistungsabreden, Sonderwünsche vor Beurkundung und wesentliche Vollmachten. Verletzung der Form kann den Gesamtvertrag nichtig machen; Heilung erst durch Auflassung und Eintragung prüfen.
 
-## Serienprojekt-Risiko
+## Reservierung, Vorbindung und Formheilung
 
-Bei großen Bauträgerprojekten ist der Notar häufig mit vielen gleichförmigen Urkunden befasst. Prüfe deshalb besonders, ob die konkrete Einheit, die konkrete Baubeschreibungsversion und die konkrete Teilungserklärungsfassung sauber verbunden sind.
+Reservierungsabreden sind nicht harmlos, wenn sie wirtschaftlichen Abschlussdruck erzeugen, einen spürbaren Betrag sichern oder bei Nichtabschluss verfallen sollen. Prüfe § 311b BGB und AGB-Recht getrennt: Ist die Reservierung Teil des Erwerbspakets, kann sie beurkundungsbedürftig sein; ist sie nur formularmäßig und ohne echte Gegenleistung ausgestaltet, drohen § 307 BGB und Rückforderung. Formheilung durch Auflassung und Eintragung löst nicht automatisch Bereicherungs-, Notarhaftungs- oder Beratungspflichtfragen für frühere Zahlungen.
 
-## Output
+## Bezugsurkunden
 
-Erstelle eine Beurkundungs-Checkliste mit fehlenden Anlagen, Belehrungs-/Fristfragen, Vollzugsrisiken und konkretem Nachforderungs-/Korrekturschreiben an das Notariat.
+Bezugsurkunden sind praktisch, aber keine Müllkippe für Hauptpflichten. § 13a BeurkG sauber prüfen: Verzicht, Identifikation, Zugänglichkeit, Belehrung. Wesentliche Vertragsbedingungen dürfen nicht so ausgelagert werden, dass der Verbraucher sie faktisch nicht erfasst.
+
+## Notarprüfung
+
+Prüfe Hinweise auf MaBV-Abweichungen, § 650m-Sicherheit, Preisanpassung, kritische Vormerkungsvollmachten, niedrigen Grundstücksanteil, Verbraucherfrist und fehlende Anlagen. Notarhaftung nur vorsichtig und quellenhart formulieren.
+
+## Ausgabe
+
+Erstelle eine Beurkundungs-Checkliste mit fehlenden Anlagen, Frist-/Belehrungsfehlern, Formrisiken und einem konkreten Schreiben an das Notariat.
