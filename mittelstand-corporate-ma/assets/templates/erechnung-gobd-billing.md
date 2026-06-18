@@ -4,13 +4,13 @@
 
 | Feld | Inhalt | Status |
 | --- | --- | --- |
-| Rechnungsnummer |  | TODO |
-| Mandant |  | TODO |
-| Aktenzeichen |  | TODO |
-| Leistungszeitraum |  | TODO |
-| Umsatzsteuerlogik | Inland / EU / Drittland / Reverse Charge / befreit | TODO |
-| Format | PDF / XRechnung / ZUGFeRD | TODO |
-| Export | DATEV / CSV / manuell | TODO |
+| Rechnungsnummer |  | offen, vor Versand eindeutig vergeben |
+| Mandant |  | offen, mit Engagement Letter abgleichen |
+| Aktenzeichen |  | offen, Kanzleiakte pruefen |
+| Leistungszeitraum |  | offen, Timesheet-Schnitt abgleichen |
+| Umsatzsteuerlogik | Inland / EU / Drittland / Reverse Charge / befreit | offen, steuerliche Behandlung freigeben |
+| Format | PDF / XRechnung / ZUGFeRD | offen, Empfaengeranforderung pruefen |
+| Export | DATEV / CSV / manuell | offen, Buchhaltungsweg festlegen |
 
 ## Leistungspositionen
 

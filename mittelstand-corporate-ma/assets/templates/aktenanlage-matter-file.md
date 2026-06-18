@@ -2,17 +2,17 @@
 
 | Feld | Inhalt | Status | Quelle |
 | --- | --- | --- | --- |
-| Kanzleiaktenzeichen |  | TODO |  |
-| Deal-Code |  | TODO |  |
-| Mandant |  | TODO |  |
-| Parteiperspektive | Buy-side / Sell-side / Management / W&I / Restrukturierung | TODO |  |
-| Zielgesellschaft |  | TODO |  |
-| Verkäufer / Erwerber |  | TODO |  |
-| HRB/HRA/LEI/ISIN |  | TODO |  |
-| Gegenberater |  | TODO |  |
-| Notar / Registergericht |  | TODO |  |
-| Vertraulichkeitsstufe | Normal / Clean Room / Insider / Privileged | TODO |  |
-| Signing / Closing |  | TODO |  |
+| Kanzleiaktenzeichen |  | offen | Mandatsanlage |
+| Deal-Code |  | offen | Deal-Team |
+| Mandant |  | offen | Engagement Letter / Conflict Check |
+| Parteiperspektive | Buy-side / Sell-side / Management / W&I / Restrukturierung | offen | Mandatsauftrag |
+| Zielgesellschaft |  | offen | Handelsregister / Teaser / Datenraum |
+| Verkäufer / Erwerber |  | offen | Strukturpapier / SPA-Entwurf |
+| HRB/HRA/LEI/ISIN |  | offen | Registerabruf / LEI-Datenbank |
+| Gegenberater |  | offen | E-Mail-Signatur / Mandatsliste |
+| Notar / Registergericht |  | offen | Signing-Plan / Registerzuständigkeit |
+| Vertraulichkeitsstufe | Normal / Clean Room / Insider / Privileged | offen | NDA / Insiderliste / Clean-Room-Regeln |
+| Signing / Closing |  | offen | Zeitplan / CP-Register |
 
 ## Pflichtentscheidungen
 

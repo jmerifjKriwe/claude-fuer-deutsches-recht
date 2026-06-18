@@ -1,3 +1,18 @@
+# v337.0.0 — Sanity-Check und kleine Template-Politur
+
+## Sanity und Upload-Fitness
+
+- Struktur-, YAML- und Testakten-Gesamt-PDF-Prüfungen erneut ausgeführt.
+- Unified Mini Prompts für alle 214 Plugins erneut generiert und auf die 7.500-Zeichen-Grenze geprüft.
+- Marketplace, Plugin-Manifeste und `SKILLS.md` auf `337.0.0` angehoben.
+
+## Kleine Refurbishments
+
+- Zwei M&A-Template-Assets im Plugin `mittelstand-corporate-ma` von nackten `TODO`-Statusfeldern auf konkrete Offen-/Quellenhinweise umgestellt.
+- Release-Download-Logik unverändert beibehalten: Mega-Prompts bleiben Anschauungsdateien; Plugin-ZIPs, Skill-Markdown-ZIPs und Unified Mini Prompts sind die nutzbaren Download-Artefakte.
+
+---
+
 # v336.0.0 — Unified Mini Prompts für alle Plugins
 
 ## Ein-Datei-Sparmodus
