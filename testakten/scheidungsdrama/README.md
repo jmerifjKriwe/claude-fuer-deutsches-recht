@@ -1,4 +1,4 @@
-# Akte: Scheidung Trüffelberch / Ürgelheim — Patchwork, Wechselmodell-Streit, Zugewinn
+# Akte: Scheidung Hanna Trüffelberch / Franz Trüffelberch — Patchwork, Wechselmodell-Streit, Zugewinn
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -27,7 +27,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 - Kindeswohlaspekt: Alkohol-Vorfall 22.02.2025 in Franz' Haushalt; Mara meldete den Vorfall einer Lehrerin, Jugendamt eingeschaltet; § 1666 BGB-Eilantrag in Prüfung.
 - SBGG-Personenstandswechsel Mara (15): Antrag Juli 2025, Wartefrist läuft; Franz verweigert Zustimmung; Antrag auf gerichtliche Ersatzzustimmung vorzubereiten.
 - Zugewinnausgleich: Architekturbüro PartGmbB (Wert 1,42 Mio. EUR lt. Gutachten), Holzwerkstätten e.K. Franz (rd. 410 TEUR vorläufig); gemeinsames Haus (920 TEUR); Hanna wahrscheinlich ausgleichspflichtig ca. 217 TEUR.
-- Unterhalt: Hanna (ca. 8.400 EUR/Monat) vs. Franz (ca. 3.100 EUR): Kindesunterhalt an Franz (drei Kinder, Mangelfall möglich); Trennungsunterhalt Franz an Hanna: ca. 900 EUR/Monat im Kompromissbereich.
+- Unterhalt: Hanna (ca. 8.400 EUR/Monat) vs. Franz (ca. 3.100 EUR): Franz ist vorläufig barunterhaltspflichtig für die Kinder (Mangelfall möglich); Trennungsunterhalt Franz gegen Hanna: ca. 900 EUR/Monat im Kompromissbereich.
 - Versorgungsausgleich: AKNS-Versorgungswerk Hanna bedeutsam (Ehezeitanteil 2.143 EUR/Mon.); interne Teilung Regelfall.
 - Immobilie: Hanna will Haus übernehmen (Auskauf Franz' Anteil rd. 319 TEUR), um den Kindern Stabilität zu geben.
 

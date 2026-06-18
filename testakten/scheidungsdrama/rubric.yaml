@@ -2,7 +2,7 @@
 # Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
-name: "Scheidung Trennungsdrama Trüffelberch Ürgelheim"
+name: "Scheidung Trennungsdrama Hanna Trüffelberch Franz Trüffelberch"
 plugin: "kindeswohlgefaehrdung-eilantrag"
 
 checks:
