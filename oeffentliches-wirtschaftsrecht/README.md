@@ -10,6 +10,8 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Inhalt | Download |
 | --- | --- |
 | **Dieses Plugin** (`oeffentliches-wirtschaftsrecht`) | [`oeffentliches-wirtschaftsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht.zip) |
+| **Alle Skills als Markdown** | [`oeffentliches-wirtschaftsrecht-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-skills-markdown.zip) |
+| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`oeffentliches-wirtschaftsrecht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-unified-mini-prompt.md) |
 
 ### Demonstrations-Akten
 
@@ -182,14 +184,13 @@ Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschre
 <!-- BEGIN megaprompt-und-vorlagen (autogen) -->
 ## Experimentell: dieses Plugin auch ohne Claude Code
 
-### Megaprompt (alle Kern-Skills in einer Datei)
+### Unified Mini Prompt und Mega-Prompt
 
-Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
-- **Direkt als Datei herunterladen** (empfohlen): [`oeffentliches-wirtschaftsrecht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-megaprompt.md) (23 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
-- Im Browser ansehen: [`oeffentliches-wirtschaftsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/oeffentliches-wirtschaftsrecht.md) — wird als Text gerendert, nicht heruntergeladen.
-- Im Repo: [`testakten/megaprompts/oeffentliches-wirtschaftsrecht.md`](../testakten/megaprompts/oeffentliches-wirtschaftsrecht.md)
+- **Sparversion herunterladen:** [`oeffentliches-wirtschaftsrecht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-unified-mini-prompt.md)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/oeffentliches-wirtschaftsrecht.md`](../testakten/megaprompts/oeffentliches-wirtschaftsrecht.md) (23 KB)
 
-*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 
 <!-- END megaprompt-und-vorlagen (autogen) -->

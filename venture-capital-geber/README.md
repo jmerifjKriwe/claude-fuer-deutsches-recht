@@ -10,6 +10,8 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Inhalt | Download |
 | --- | --- |
 | **Dieses Plugin** (`venture-capital-geber`) | [`venture-capital-geber.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber.zip) |
+| **Alle Skills als Markdown** | [`venture-capital-geber-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber-skills-markdown.zip) |
+| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`venture-capital-geber-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber-unified-mini-prompt.md) |
 
 ### Demonstrations-Akten
 
@@ -179,14 +181,13 @@ Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschre
 <!-- BEGIN megaprompt-und-vorlagen (autogen) -->
 ## Experimentell: dieses Plugin auch ohne Claude Code
 
-### Megaprompt (alle Kern-Skills in einer Datei)
+### Unified Mini Prompt und Mega-Prompt
 
-Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
-- **Direkt als Datei herunterladen** (empfohlen): [`venture-capital-geber-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber-megaprompt.md) (28 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
-- Im Browser ansehen: [`venture-capital-geber.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/venture-capital-geber.md) — wird als Text gerendert, nicht heruntergeladen.
-- Im Repo: [`testakten/megaprompts/venture-capital-geber.md`](../testakten/megaprompts/venture-capital-geber.md)
+- **Sparversion herunterladen:** [`venture-capital-geber-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber-unified-mini-prompt.md)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/venture-capital-geber.md`](../testakten/megaprompts/venture-capital-geber.md) (28 KB)
 
-*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 
 <!-- END megaprompt-und-vorlagen (autogen) -->

@@ -10,6 +10,8 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Inhalt | Download |
 | --- | --- |
 | **Dieses Plugin** (`berufsgerichtliche-verfahren-freie-berufe`) | [`berufsgerichtliche-verfahren-freie-berufe.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsgerichtliche-verfahren-freie-berufe.zip) |
+| **Alle Skills als Markdown** | [`berufsgerichtliche-verfahren-freie-berufe-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsgerichtliche-verfahren-freie-berufe-skills-markdown.zip) |
+| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`berufsgerichtliche-verfahren-freie-berufe-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsgerichtliche-verfahren-freie-berufe-unified-mini-prompt.md) |
 
 Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
@@ -155,14 +157,13 @@ Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschrei
 <!-- BEGIN megaprompt-und-vorlagen (autogen) -->
 ## Experimentell: dieses Plugin auch ohne Claude Code
 
-### Megaprompt (alle Kern-Skills in einer Datei)
+### Unified Mini Prompt und Mega-Prompt
 
-Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
-- **Direkt als Datei herunterladen** (empfohlen): [`berufsgerichtliche-verfahren-freie-berufe-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsgerichtliche-verfahren-freie-berufe-megaprompt.md) (41 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
-- Im Browser ansehen: [`berufsgerichtliche-verfahren-freie-berufe.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/berufsgerichtliche-verfahren-freie-berufe.md) — wird als Text gerendert, nicht heruntergeladen.
-- Im Repo: [`testakten/megaprompts/berufsgerichtliche-verfahren-freie-berufe.md`](../testakten/megaprompts/berufsgerichtliche-verfahren-freie-berufe.md)
+- **Sparversion herunterladen:** [`berufsgerichtliche-verfahren-freie-berufe-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsgerichtliche-verfahren-freie-berufe-unified-mini-prompt.md)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/berufsgerichtliche-verfahren-freie-berufe.md`](../testakten/megaprompts/berufsgerichtliche-verfahren-freie-berufe.md) (41 KB)
 
-*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 
 <!-- END megaprompt-und-vorlagen (autogen) -->

@@ -1,3 +1,27 @@
+# v336.0.0 — Unified Mini Prompts für alle Plugins
+
+## Ein-Datei-Sparmodus
+
+- Für alle 214 Plugins wurde je ein `unified-mini-prompts/<plugin>.md` erzeugt: maximal 7.500 Zeichen inkl. Leerzeichen, als kompakter Workflow für Chatbots ohne Plugin-Installation.
+- Plugin-READMEs, `SKILLS.md`, `skills-index/*`, `README.md` und `ASSET_INDEX.md` verlinken nun Plugin-ZIP, Skill-Markdown-ZIP und Unified Mini Prompt sauber nebeneinander.
+- Die großen Mega-Prompts bleiben nur Anschauungs- und Entwicklungsdateien im Repo; sie werden nicht mehr als Testakte, Release-Download oder CoWork-Uploadmaterial behandelt.
+
+## Release-Härtung
+
+- Release-Workflow baut `*-unified-mini-prompt.md`, `alle-unified-mini-prompts.zip`, aktualisierte Markdown-Bundles und Komplettpaket.
+- Testakten-ZIP-Builder und Validator überspringen `testakten/megaprompts`, damit daraus kein falsches Testakten-ZIP entsteht.
+- Lokale Probe: 214 Plugin-ZIPs, 214 Skill-Markdown-ZIPs, 214 Mini-Prompt-Markdowns, 205 Testakten-ZIPs und Komplettpaket erfolgreich gebaut bzw. validiert.
+
+## Validatoren
+
+- `validate-plugin-structure.mjs`: OK
+- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen
+- `validate-testakten-gesamt-pdf.py`: OK (205 Testakten)
+- `validate-release-zips.py`: OK (214 Plugin-ZIPs)
+- `validate-testakten-release-zips.py`: OK (205 Testakten-ZIPs, 205 Gesamt-PDFs)
+
+---
+
 # v335.0.0 — Scheidungs-Testakte umbenannt und entpeinlicht
 
 ## Testakte scheidungsdrama

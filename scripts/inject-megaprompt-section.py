@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Fuegt in jede <plugin>/README.md die 'Megaprompt'-Sektion ein, sofern
-ein passender Megaprompt unter testakten/megaprompts/<plugin>.md existiert
-und der Block noch nicht vorhanden ist.
+"""Fuegt in jede <plugin>/README.md eine kurze Megaprompt-Hinweissektion ein,
+sofern ein passender Megaprompt unter testakten/megaprompts/<plugin>.md
+existiert und der Block noch nicht vorhanden ist.
 
 Idempotent ueber HTML-Marker. Position: ans Ende der Datei (gleich der
 ueblichen Konvention; move-megaprompt-block-to-end.py kann den Block
@@ -17,7 +17,6 @@ MEGA_DIR = REPO / "testakten" / "megaprompts"
 BEGIN = "<!-- BEGIN megaprompt-und-vorlagen (autogen) -->"
 END = "<!-- END megaprompt-und-vorlagen (autogen) -->"
 
-RAW_BASE = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts"
 RELEASE_BASE = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
 
 
@@ -25,15 +24,14 @@ def block_for(plugin: str, kb: int) -> str:
     return f"""{BEGIN}
 ## Experimentell: dieses Plugin auch ohne Claude Code
 
-### Megaprompt (alle Kern-Skills in einer Datei)
+### Unified Mini Prompt und Mega-Prompt
 
-Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
-- **Direkt als Datei herunterladen** (empfohlen): [`{plugin}-megaprompt.md`]({RELEASE_BASE}/{plugin}-megaprompt.md) ({kb} KB) — Release-Asset, wird vom Browser als Datei gespeichert.
-- Im Browser ansehen: [`{plugin}.md`]({RAW_BASE}/{plugin}.md) — wird als Text gerendert, nicht heruntergeladen.
-- Im Repo: [`testakten/megaprompts/{plugin}.md`](../testakten/megaprompts/{plugin}.md)
+- **Sparversion herunterladen:** [`{plugin}-unified-mini-prompt.md`]({RELEASE_BASE}/{plugin}-unified-mini-prompt.md)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/{plugin}.md`](../testakten/megaprompts/{plugin}.md) ({kb} KB)
 
-*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 
 {END}
 """

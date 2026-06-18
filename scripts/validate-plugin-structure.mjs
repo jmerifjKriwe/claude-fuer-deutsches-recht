@@ -263,6 +263,7 @@ function checkSuspiciousCharacters() {
 function checkTestaktenReadme() {
   const testaktenDir = path.join(root, 'testakten');
   if (!exists(testaktenDir)) return;
+  const zipOptionalFolders = new Set(['megaprompts']);
   const readmePath = path.join(testaktenDir, 'README.md');
   if (!exists(readmePath)) {
     errors.push('testakten/README.md fehlt');
@@ -289,7 +290,7 @@ function checkTestaktenReadme() {
   const zipPattern = /testakte-([a-z0-9][a-z0-9-]*)\.zip/g;
   const zipNames = new Set();
   for (const m of readme.matchAll(zipPattern)) zipNames.add(m[1]);
-  const zipMissing = folders.filter(f => !zipNames.has(f));
+  const zipMissing = folders.filter(f => !zipNames.has(f) && !zipOptionalFolders.has(f));
   if (zipMissing.length) {
     errors.push(`testakten/README.md: ${zipMissing.length} Akten ohne ZIP-Download-Eintrag: ${zipMissing.join(', ')}`);
   }

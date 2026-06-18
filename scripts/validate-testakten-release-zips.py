@@ -17,6 +17,10 @@ from testakte_file_filter import include_in_working_dump
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
+SKIP_DIRS = {
+    "formatvorlagen-paradebeispiele",
+    "megaprompts",
+}
 
 
 def fail(message: str) -> None:
@@ -66,7 +70,10 @@ def assert_same(label: str, expected: list[str], actual: list[str]) -> None:
 
 def main() -> None:
     dist = Path(sys.argv[1]) if len(sys.argv) > 1 else REPO_ROOT / "dist"
-    dirs = sorted((d for d in TESTAKTEN.iterdir() if d.is_dir()), key=lambda p: p.name)
+    dirs = sorted(
+        (d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS),
+        key=lambda p: p.name,
+    )
     if not dirs:
         fail("no testakten directories found")
 

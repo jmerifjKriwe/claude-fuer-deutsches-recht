@@ -1,6 +1,6 @@
 # urteilsbauer-relationsmacher
 
-**83 Skills** · Stand `v335.0.0`
+**83 Skills** · Stand `v336.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urteilsbauer-relationsmacher/README.md)
@@ -9,14 +9,16 @@
 
 | Paket | Inhalt | Link |
 | --- | --- | --- |
-| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Megaprompts als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [urteilsbauer-relationsmacher-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urteilsbauer-relationsmacher-skills-markdown.zip) |
+| **Unified Mini Prompt** | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows fuer Chatbots ohne Plugin-Installation | [urteilsbauer-relationsmacher-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urteilsbauer-relationsmacher-unified-mini-prompt.md) |
+| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Unified Mini Prompt als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [urteilsbauer-relationsmacher-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urteilsbauer-relationsmacher-skills-markdown.zip) |
 | **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [urteilsbauer-relationsmacher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urteilsbauer-relationsmacher.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **Echter Download:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Schnelltest mit einer Datei:** den Unified Mini Prompt oben herunterladen und als Markdown-Datei in den Chatbot ziehen.
+- **Volle Markdown-Tiefe:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
 - **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
 - **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 

@@ -16,6 +16,10 @@ from testakte_file_filter import include_in_working_dump
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
+SKIP_DIRS = {
+    "formatvorlagen-paradebeispiele",
+    "megaprompts",
+}
 
 
 def iter_export_files(testakte_dir: Path):
@@ -43,7 +47,7 @@ def build_single(testakte_dir: Path, dist: Path) -> tuple[Path, int]:
 def main() -> None:
     dist = Path(sys.argv[1]) if len(sys.argv) > 1 else REPO_ROOT / "dist"
     dist.mkdir(parents=True, exist_ok=True)
-    dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir())
+    dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS)
     if not dirs:
         print("Keine Testakten gefunden.")
         return

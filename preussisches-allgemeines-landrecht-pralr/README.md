@@ -10,6 +10,8 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Inhalt | Download |
 | --- | --- |
 | **Dieses Plugin** (`preussisches-allgemeines-landrecht-pralr`) | [`preussisches-allgemeines-landrecht-pralr.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr.zip) |
+| **Alle Skills als Markdown** | [`preussisches-allgemeines-landrecht-pralr-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr-skills-markdown.zip) |
+| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`preussisches-allgemeines-landrecht-pralr-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr-unified-mini-prompt.md) |
 
 ### Demonstrations-Akten
 
@@ -532,14 +534,13 @@ Automatisch generierte Komplett-Liste aller 462 Skills in diesem Plugin. Beschre
 <!-- BEGIN megaprompt-und-vorlagen (autogen) -->
 ## Experimentell: dieses Plugin auch ohne Claude Code
 
-### Megaprompt (alle Kern-Skills in einer Datei)
+### Unified Mini Prompt und Mega-Prompt
 
-Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
-- **Direkt als Datei herunterladen** (empfohlen): [`preussisches-allgemeines-landrecht-pralr-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr-megaprompt.md) (27 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
-- Im Browser ansehen: [`preussisches-allgemeines-landrecht-pralr.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/preussisches-allgemeines-landrecht-pralr.md) — wird als Text gerendert, nicht heruntergeladen.
-- Im Repo: [`testakten/megaprompts/preussisches-allgemeines-landrecht-pralr.md`](../testakten/megaprompts/preussisches-allgemeines-landrecht-pralr.md)
+- **Sparversion herunterladen:** [`preussisches-allgemeines-landrecht-pralr-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr-unified-mini-prompt.md)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/preussisches-allgemeines-landrecht-pralr.md`](../testakten/megaprompts/preussisches-allgemeines-landrecht-pralr.md) (27 KB)
 
-*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 
 <!-- END megaprompt-und-vorlagen (autogen) -->

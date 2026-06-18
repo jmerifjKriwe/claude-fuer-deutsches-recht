@@ -129,6 +129,14 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
         f"| **Dieses Plugin** (`{plugin_name}`) | "
         f"[`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |"
     )
+    lines.append(
+        f"| **Alle Skills als Markdown** | "
+        f"[`{plugin_name}-skills-markdown.zip`]({RELEASE_BASE}/{plugin_name}-skills-markdown.zip) |"
+    )
+    lines.append(
+        f"| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | "
+        f"[`{plugin_name}-unified-mini-prompt.md`]({RELEASE_BASE}/{plugin_name}-unified-mini-prompt.md) |"
+    )
     lines.append("")
 
     if akten_slugs:

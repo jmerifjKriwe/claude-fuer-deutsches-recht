@@ -34,6 +34,9 @@ jobs:
       - name: Gesamt-PDFs der Testakten validieren
         run: python3 scripts/validate-testakten-gesamt-pdf.py
 
+      - name: Unified Mini Prompts erzeugen
+        run: python3 scripts/generate-unified-mini-prompts.py
+
       - name: Liste aller Plugins aus marketplace.json lesen
         id: plugins
         run: |
@@ -46,6 +49,7 @@ jobs:
 
       - name: ZIPs bauen
         run: |
+          rm -rf dist
           mkdir -p dist
           for plugin in ${{ steps.plugins.outputs.names }}; do
             echo "Baue $plugin.zip"
@@ -71,30 +75,35 @@ jobs:
 
       - name: Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)
         run: |
-          # Pro Plugin ein ZIP mit allen SKILL.md + Megaprompts + Plugin-README,
+          # Pro Plugin ein ZIP mit allen SKILL.md + Unified Mini Prompt + Plugin-README,
           # damit Nutzer die Markdown-Dateien wirklich herunterladen koennen
           # (statt sie im Browser als text/plain angezeigt zu bekommen).
           python3 scripts/build-skills-markdown-bundles.py dist
           ls dist/*-skills-markdown.zip | wc -l
           ls -lh dist/alle-skills-markdown.zip
 
-      - name: Megaprompts als Einzeldateien fuer Direkt-Download bereitstellen
+      - name: Unified Mini Prompts als Einzeldateien fuer Direkt-Download bereitstellen
         run: |
-          # Jeden Megaprompt zusaetzlich als eigenstaendiges Release-Asset
+          # Jeden Unified Mini Prompt als eigenstaendiges Release-Asset
           # bereitstellen. Release-Assets liefert GitHub mit
           # Content-Disposition: attachment, der Browser laedt sie also herunter
           # statt sie als text/plain anzuzeigen. Dateiname-Schema:
-          #   <plugin>-megaprompt.md
-          for mp in testakten/megaprompts/*.md; do
+          #   <plugin>-unified-mini-prompt.md
+          mkdir -p dist/unified-mini-prompts
+          for mp in unified-mini-prompts/*.md; do
             name="$(basename "$mp")"
-            # README im Megaprompt-Ordner ist keine Megaprompt-Datei.
+            # README im Mini-Prompt-Ordner ist keine Prompt-Datei.
             if [ "$name" = "README.md" ]; then
               continue
             fi
             plugin="${name%.md}"
-            cp "$mp" "dist/${plugin}-megaprompt.md"
+            cp "$mp" "dist/${plugin}-unified-mini-prompt.md"
+            cp "$mp" "dist/unified-mini-prompts/${plugin}.md"
           done
-          ls dist/*-megaprompt.md | wc -l
+          (cd dist/unified-mini-prompts && zip -rq "../alle-unified-mini-prompts.zip" . -x '*.DS_Store')
+          rm -rf dist/unified-mini-prompts
+          ls dist/*-unified-mini-prompt.md | wc -l
+          test -s dist/alle-unified-mini-prompts.zip
 
       - name: Sammel-ZIPs bauen
         run: |
@@ -115,13 +124,15 @@ jobs:
           # alles-komplettpaket.zip enthaelt die Einzel-ZIPs, Sammel-ZIPs,
           # Marketplace und zentrale Uebersichten. Ein Download fuer alles,
           # ohne die installierbaren Plugin-ZIPs mit Rohordnern zu vermischen.
-          mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten dist/komplettpaket/skills-markdown
+          mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten dist/komplettpaket/skills-markdown dist/komplettpaket/unified-mini-prompts
           cp dist/marketplace.json dist/komplettpaket/marketplace.json
           cp dist/alle-plugins-megazip.zip dist/komplettpaket/alle-plugins-megazip.zip
           cp dist/alle-testakten.zip dist/komplettpaket/alle-testakten.zip
           cp dist/alle-skills-markdown.zip dist/komplettpaket/alle-skills-markdown.zip
+          cp dist/alle-unified-mini-prompts.zip dist/komplettpaket/alle-unified-mini-prompts.zip
           for plugin in ${{ steps.plugins.outputs.names }}; do
             cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
+            cp "dist/${plugin}-unified-mini-prompt.md" "dist/komplettpaket/unified-mini-prompts/${plugin}.md"
           done
           for z in dist/*-skills-markdown.zip; do
             [ -e "$z" ] || continue
@@ -149,8 +160,9 @@ jobs:
           test -s dist/alle-plugins-megazip.zip
           test -s dist/alle-testakten.zip
           test -s dist/alle-skills-markdown.zip
+          test -s dist/alle-unified-mini-prompts.zip
           test -s dist/alles-komplettpaket.zip
-          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-skills-markdown.zip dist/alles-komplettpaket.zip
+          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-skills-markdown.zip dist/alle-unified-mini-prompts.zip dist/alles-komplettpaket.zip
 
       - name: Checksums erzeugen
         run: |
@@ -160,7 +172,7 @@ jobs:
           dist = Path("dist")
           assets = sorted(
               p for p in dist.iterdir()
-              if p.is_file() and (p.suffix == ".zip" or p.name == "marketplace.json" or p.name.endswith("-megaprompt.md"))
+              if p.is_file() and (p.suffix == ".zip" or p.name == "marketplace.json" or p.name.endswith("-unified-mini-prompt.md"))
           )
           with (dist / "checksums-sha256.txt").open("w", encoding="utf-8") as fh:
               for path in assets:
@@ -216,7 +228,7 @@ jobs:
             else
               sleep 2
             fi
-          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name '*-megaprompt.md' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
+          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name '*-unified-mini-prompt.md' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
 
       - name: Release-Assets remote verifizieren
         if: steps.tagref.outputs.tag != ''
@@ -230,6 +242,7 @@ jobs:
           name: plugin-zips
           path: |
             dist/*.zip
+            dist/*-unified-mini-prompt.md
             dist/marketplace.json
             dist/checksums-sha256.txt
           retention-days: 30
