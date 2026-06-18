@@ -1,6 +1,6 @@
 # normenkontrolle-bauleitplanung
 
-**94 Skills** · Stand `v337.0.0`
+**94 Skills** · Stand `v338.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/normenkontrolle-bauleitplanung/README.md)
