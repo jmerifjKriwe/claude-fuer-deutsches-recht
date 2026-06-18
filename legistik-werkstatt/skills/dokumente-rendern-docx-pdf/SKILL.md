@@ -68,10 +68,10 @@ Plus Hilfsformate:
 
 - Vorblatt: A. Problem und Ziel - B. Lösung - C. Alternativen - D. Haushaltsausgaben ohne Erfüllungsaufwand - E. Erfüllungsaufwand (E.1 Bürger - E.2 Wirtschaft - E.3 Verwaltung) - F. Weitere Kosten
 - Artikelgesetz: "Artikel 1 (Änderung des XYZ-Gesetzes)" fett, Einleitungssatz mit Stammgesetz + letzte Änderung BGBl-Fundstelle
-- Gliederungsebenen: 1. / 2. / 3. -> a) b) c) -> aa) bb) cc) -> aaa) bbb) ccc)
+- Gliederungsebenen in repo-internen Arbeitsdokumenten und Testakten: ausschließlich dezimal (1., 1.1, 1.1.1). Amtliche Gliederungen aus Bundestags- oder Ministerialvorlagen nur dann mit Buchstaben übernehmen, wenn sie als Originalzitat oder amtlicher Layoutbestandteil kenntlich bleiben.
 - Änderungsbefehle: Anführungszeichen kursiv: *"... wird durch ... ersetzt"*
 - Absatzbezeichnung in Klammern: (1), (2), (3)
-- Begründung Teil A (Allgemeiner Teil) Roemisch I-VII: I. Zielsetzung und Notwendigkeit - II. Wesentlicher Inhalt - III. Alternativen - IV. Gesetzgebungskompetenz - V. Vereinbarkeit mit EU-Recht - VI. Gesetzesfolgen - VII. Befristung und Evaluierung
+- Begründung Teil A (Allgemeiner Teil) in der Arbeitsfassung dezimal gliedern: 1. Zielsetzung und Notwendigkeit - 2. Wesentlicher Inhalt - 3. Alternativen - 4. Gesetzgebungskompetenz - 5. Vereinbarkeit mit EU-Recht - 6. Gesetzesfolgen - 7. Befristung und Evaluierung.
 - Begründung Teil B (Besonderer Teil): "Zu Artikel X" - "Zu Nummer Y" - "Zu Buchstabe Z"
 
 ## Eingabeschema
@@ -83,7 +83,7 @@ projekt/
  metadaten.yaml # Titel, Kurztitel, Federfuehrung, Bearbeitungsstand, Drucksachennummer, Wahlperiode
  vorblatt.md # A bis F mit den ueblichen Abschnitten
  gesetzestext.md # Artikel 1 ... Artikel N (Inkrafttreten)
- begruendung-a.md # I bis VII
+ begruendung-a.md # 1 bis 7
  begruendung-b.md # Zu Artikel X / Zu Nummer Y
  synopse.csv # Spalten: geltend | aenderung | begruendung
  anlagen/ # NKR, Bundesrat, Gegenaeusserung (optional, als md)

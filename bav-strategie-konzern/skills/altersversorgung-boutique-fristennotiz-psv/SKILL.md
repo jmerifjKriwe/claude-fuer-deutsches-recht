@@ -46,7 +46,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 - PSV-Beitragsbescheid (Beitragsbemessung jeweils zum 31.10. des Vorjahres, Zahlung 31.03.) immer auf richtigen Anwendungsbereich prüfen - Direktversicherungen mit unwiderruflichem Bezugsrecht sind PSV-frei.
 - Anpassungsprüfung nach § 16 BetrAVG bedeutet nicht Anpassungspflicht; bei schlechter wirtschaftlicher Lage kann der Arbeitgeber aussetzen, muss aber dokumentieren (zwei vorhergehende Geschäftsjahre, Eigenkapitalrendite, Zukunftsprognose).
-- Versorgungsausgleich bei Scheidung (§ 1587 BGB i.V.m. VersAusglG): externe Teilung bei Direktzusagen über 88.200 EUR Kapitalwert (Beitragsbemessungsgrenze West 2026, vom Anwender mit aktuellem Wert zu verifizieren).
+- Versorgungsausgleich bei Scheidung: zuerst §§ 1, 3, 10 VersAusglG prüfen; bei Direktzusagen, Unterstützungskassen, Pensionsfonds und Pensionskassen zusätzlich § 17 VersAusglG sauber gegen § 14 VersAusglG abgrenzen. Externe Teilung darf bei Betriebsrenten nicht pauschal behauptet werden: Kapitalwert, Ausgleichswert, Teilungsordnung, Zielversorgung und die jeweils aktuelle Beitragsbemessungsgrenze West der allgemeinen Rentenversicherung live gegenprüfen.
 
 ## Beispiel-Mustertext (Anpassungsentscheidung nach § 16 BetrAVG)
 

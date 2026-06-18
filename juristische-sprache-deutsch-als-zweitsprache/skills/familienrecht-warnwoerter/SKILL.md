@@ -16,7 +16,7 @@ description: "Hilft bei Familienrecht Warnwoerter für Menschen mit Deutsch als 
 ## Warnwoerter mit hoher Tragweite
 - **Scheidungsantrag**: leitet Scheidungsverfahren ein; Trennungsjahr Pflicht (§ 1565 BGB), Ausnahme Haertescheidung (§ 1565 Abs. 2 BGB).
 - **Trennungsjahr**: § 1567 BGB; nicht "Probetrennung" mit Versoehnung verwechseln, sonst beginnt das Trennungsjahr von vorn.
-- **Versorgungsausgleich**: § 1587 BGB; bei kurzer Ehe (< 3 Jahre) nicht automatisch.
+- **Versorgungsausgleich**: Ausgleich der in der Ehe erworbenen Renten- und Versorgungsanrechte nach §§ 1, 3, 10 VersAusglG. Bei einer Ehezeit bis zu drei Jahren findet er nach § 3 Abs. 3 VersAusglG nur statt, wenn ein Ehegatte ihn beantragt.
 - **Zugewinnausgleich**: § 1378 BGB; Vermögensbilanz Anfang/Ende der Ehe; Auskunftspflicht § 1379 BGB.
 - **Sorgeerklaerung** (§ 1626a BGB) bei nichtehelich Geborenen: Achtung -- Sorgerecht teilen, unwiderruflich.
 - **Verzicht auf Trennungsunterhalt / nachehelichen Unterhalt**: oft im Ehevertrag; nicht unterschreiben ohne Beratung.

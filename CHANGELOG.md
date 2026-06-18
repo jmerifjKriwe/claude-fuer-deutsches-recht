@@ -1,3 +1,30 @@
+# v339.0.0 — Zehnfacher Sanity-Sweep und kleine juristische Politur
+
+## Zehn Prüfrunden
+
+- Repo in zehn kurzen Sanity-/Bug-Hunt-Schleifen geprüft: Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDFs, Marketplace-Abdeckung, Skill-Index, Unified Mini Prompts, Top-README und Release-Fitness.
+- Keine aktiven Konsolidierungsartefakte wie „Dieser Skill bündelt ...“, „frühere Beschreibung“ oder Sammelskill-Erklärtexte in aktiven Skill-Dateien gefunden.
+- Unified Mini Prompts erneut erzeugt: 214 Prompts, alle unter der 7.500-Zeichen-Grenze.
+
+## Kleine Korrekturen
+
+- In `bav-strategie-konzern` und `juristische-sprache-deutsch-als-zweitsprache` veraltete Versorgungsausgleichsanker zu § 1587 BGB entfernt und auf VersAusglG-Struktur mit §§ 1, 3, 10, 14, 17 VersAusglG umgestellt.
+- In `legistik-werkstatt` die Dokumenten-/Render-Guidance für repo-interne Testakten auf ausschließlich dezimale Gliederung gehärtet; Buchstaben- oder römische Gliederungen bleiben nur noch als kenntlich übernommene amtliche Originalstruktur zulässig.
+- Autogenerierte Gesamt-PDF-Downloadsektion für die neue Versorgungsausgleich-Testakte ergänzt und Größenhinweise in Testakten-READMEs aktualisiert.
+
+## Version-Bump
+
+- v338.0.0 → v339.0.0 (marketplace.json, 214 plugin.json, README, SKILLS.md, skills-index).
+
+## Validatoren
+
+- `validate-plugin-structure.mjs`: OK
+- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen
+- `validate-testakten-gesamt-pdf.py`: OK
+- Release-Asset-Probe lokal gegen temporäres Dist-Verzeichnis geprüft.
+
+---
+
 # v338.0.0 — Testakte Versorgungsausgleich Schaefer (§ 27 VersAusglG, BGH-Mandat)
 
 ## Neue Testakte

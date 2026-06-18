@@ -1,5 +1,20 @@
 # Aktenkonvolut Schäfer ./. Schäfer — Versorgungsausgleich, Härteklausel § 27 VersAusglG, Vorbereitung Rechtsbeschwerde BGH
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
+
+Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
+
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei, 484 KB) | PDF | [`gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf`](gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip) |
+
+Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 **Mandant:** Leonie Schäfer, geb. Winterstein, geb. 11.06.1961, Grundschullehrerin a. D. (Teilzeit), wohnhaft Schweinauer Hauptstraße 144, 90441 Nürnberg
 **Gegner:** Dr. med. dent. Maximilian Schäfer, geb. 03.02.1958, selbständiger Zahnarzt, Praxisanschrift Hauptstraße 21, 91054 Erlangen
 **Ehe:** geschlossen am 12.09.1987 in Nürnberg, Standesamt Nürnberg, Heiratsregister Nr. 1142/1987
