@@ -49,6 +49,13 @@ Pro Bundesland ein vertiefender Skill zur jeweils prägenden Konstellation:
 
 Sämtliche Rechtsprechungsanker im neuen `rechtsprechungsanker-denkmalrecht`-Skill sind als Familien beschrieben (BVerfG-Linie zum Rheinland-Pfalz-Beschluss, BVerwG-Linien zum Denkmalbegriff und zum Umgebungsschutz, OVG-Familien zur Zumutbarkeit), nicht mit halluzinierten Einzelaktenzeichen. Live-Verifikation in den amtlichen Entscheidungsdatenbanken ist Pflicht.
 
+## Review-Korrekturen vor Release
+
+- `denkmaleigenschaft-feststellen` stellt Berlin, Hamburg und Niedersachsen nicht mehr als konstitutive Listenmodelle dar und warnt gegen den Fehlschluss „nicht eingetragen = erlaubnisfrei".
+- `denkmalschutz-niedersachsen-ndschg` unterscheidet jetzt unbewegliche Kulturdenkmale und Bodendenkmale mit deklaratorischer Listenwirkung von beweglichen Denkmalen mit gesonderter Eintragungs- und Schutzwirkung nach § 4 Abs. 1 Satz 2 und § 5 Abs. 1 Satz 2 NDSchG.
+- `widerspruch-und-klagewege` routet denkmalrechtliche Bußgeldbescheide nicht mehr in die VwGO-Anfechtungsklage, sondern in den Einspruch nach §§ 67 ff. OWiG mit Amtsgerichtsweg nach § 68 OWiG.
+- `kaltstart-triage` verweist im illegalen Bauarbeiten-/Bußgeld-Szenario auf den vorhandenen Skill `bussgeld-ordnungswidrigkeitsverfahren`.
+
 ---
 
 # v341.0.0 — Neues Plugin: Denkmalschutzrecht (215 Plugins, 31 Skills)

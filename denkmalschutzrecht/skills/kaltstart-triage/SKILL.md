@@ -44,4 +44,4 @@ Kurzes Triage-Memo mit fünf Blöcken: Sachverhalt, Frage, Kurzantwort in einem 
 
 ## Beispiel
 
-Eigentümerin Lechner hat ohne Erlaubnis das Dach eines eingetragenen Pfarrhauses in Regensburg eindecken lassen. Untersagungsbescheid mit Beseitigungsanordnung kam vor zehn Tagen. Sofortmaßnahmen: Widerspruch einlegen mit aufschiebender Wirkung beantragen; vorhandene Materialien dokumentieren; nachträglichen Erlaubnisantrag erwägen. Nächster Skill: `denkmalschutz-bayern-baydschg` und `bussgeld-ordnungswidrigkeitsverfahren`.
+Eigentümerin Lechner hat ohne Erlaubnis das Dach eines eingetragenen Pfarrhauses in Regensburg eindecken lassen. Untersagungsbescheid mit Beseitigungsanordnung kam vor zehn Tagen; zusätzlich kündigt die Behörde ein Bußgeldverfahren an. Sofortmaßnahmen: Rechtsbehelfsfrist für die verwaltungsrechtliche Anordnung prüfen, vorhandene Materialien dokumentieren, nachträglichen Erlaubnisantrag erwägen und bei einem echten Bußgeldbescheid sofort die gesonderte OWiG-Frist sichern. Nächste Skills: `denkmalschutz-bayern-baydschg`, `widerspruch-und-klagewege` und `bussgeld-ordnungswidrigkeitsverfahren`.

@@ -9,18 +9,18 @@ Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `denkmalschutzrecht`
 1. **einstieg-routing** — Einstiegsskill für das Denkmalschutzrecht-Plugin. Sortiert das Mandat, klärt Belegenheit des Objekts und damit das anwen…
 2. **kaltstart-triage** — Schnelltriage für ein neues denkmalschutzrechtliches Mandat. Erhebt in einer Sitzung Objektdaten, Schutzstatus, Mandante…
 3. **erstgespraech-mandatsannahme** — Strukturiert das erste Mandantengespräch im Denkmalschutzrecht. Erhebt die Mandatsgrundlage (Vollmacht, Konfliktcheck, H…
-4. **unesco-welterbe-und-icomos** — Welterbestätten in Deutschland: völkerrechtlicher Rahmen der UNESCO-Welterbekonvention von 1972, ICOMOS-Begutachtung, Pu…
-5. **denkmalschutz-sachsen-anhalt-dschg-lsa** — Denkmalschutzrecht Sachsen-Anhalt nach dem Denkmalschutzgesetz des Landes Sachsen-Anhalt. Skill bündelt zuständige Behör…
-6. **verfahrensgrundsaetze-vwvfg** — Verwaltungsverfahrensrecht im Denkmalschutz: Anhörung nach Paragraf 28 VwVfG, schriftlicher Verwaltungsakt mit Begründun…
-7. **rechtsprechungsanker-denkmalrecht** — Kuratierte Sammlung der zentralen Leitentscheidungen im deutschen Denkmalschutzrecht: Bundesverfassungsgericht zum Verha…
-8. **art-73-gg-laenderzustaendigkeit** — Bundesstaatlicher Rahmen des Denkmalschutzes: Denkmalschutz ist keine konkurrierende Bundesmaterie nach Art. 73 oder 74 …
-9. **denkmalschutz-rheinland-pfalz-dschpflg** — Denkmalschutzrecht Rheinland-Pfalz nach dem Denkmalschutz- und -pflegegesetz Rheinland-Pfalz. Skill bündelt zuständige B…
-10. **denkmalschutz-niedersachsen-ndschg** — Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Mini…
-11. **hessen-spezial-limes-bergpark-wilhelmshoehe** — Hessische Besonderheit: Obergermanisch-Raetischer Limes (Welterbe seit 2005, gemeinsam mit Bayern und Rheinland-Pfalz un…
-12. **denkmalschutz-mecklenburg-vorpommern-dschg-m-v** — Denkmalschutzrecht Mecklenburg-Vorpommern nach dem Denkmalschutzgesetz Mecklenburg-Vorpommern. Skill bündelt zuständige …
-13. **quellen-livecheck** — Quellenhygiene-Skill für das Denkmalschutzrecht-Plugin. Liefert die kuratierte Suchadressen-Liste für die sechzehn Lande…
-14. **foerderung-und-steuerliche-abschreibung** — Förderung von Denkmalsanierung: direkte Zuschüsse der Länder und Kommunen, Bundesförderung über die Beauftragte der Bund…
-15. **art-14-gg-eigentum-und-denkmalschutz** — Art. 14 GG im Denkmalschutz: die Eintragung in die Denkmalliste und die daraus folgenden Erhaltungs-, Duldungs- und Verä…
+4. **denkmalschutz-niedersachsen-ndschg** — Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Mini…
+5. **unesco-welterbe-und-icomos** — Welterbestätten in Deutschland: völkerrechtlicher Rahmen der UNESCO-Welterbekonvention von 1972, ICOMOS-Begutachtung, Pu…
+6. **denkmalschutz-sachsen-anhalt-dschg-lsa** — Denkmalschutzrecht Sachsen-Anhalt nach dem Denkmalschutzgesetz des Landes Sachsen-Anhalt. Skill bündelt zuständige Behör…
+7. **widerspruch-und-klagewege** — Rechtsschutz im Denkmalschutzrecht: Widerspruchsverfahren nach Paragrafen 68 ff. VwGO (soweit landesrechtlich vorgesehen…
+8. **verfahrensgrundsaetze-vwvfg** — Verwaltungsverfahrensrecht im Denkmalschutz: Anhörung nach Paragraf 28 VwVfG, schriftlicher Verwaltungsakt mit Begründun…
+9. **rechtsprechungsanker-denkmalrecht** — Kuratierte Sammlung der zentralen Leitentscheidungen im deutschen Denkmalschutzrecht: Bundesverfassungsgericht zum Verha…
+10. **art-73-gg-laenderzustaendigkeit** — Bundesstaatlicher Rahmen des Denkmalschutzes: Denkmalschutz ist keine konkurrierende Bundesmaterie nach Art. 73 oder 74 …
+11. **denkmalschutz-rheinland-pfalz-dschpflg** — Denkmalschutzrecht Rheinland-Pfalz nach dem Denkmalschutz- und -pflegegesetz Rheinland-Pfalz. Skill bündelt zuständige B…
+12. **hessen-spezial-limes-bergpark-wilhelmshoehe** — Hessische Besonderheit: Obergermanisch-Raetischer Limes (Welterbe seit 2005, gemeinsam mit Bayern und Rheinland-Pfalz un…
+13. **denkmalschutz-mecklenburg-vorpommern-dschg-m-v** — Denkmalschutzrecht Mecklenburg-Vorpommern nach dem Denkmalschutzgesetz Mecklenburg-Vorpommern. Skill bündelt zuständige …
+14. **quellen-livecheck** — Quellenhygiene-Skill für das Denkmalschutzrecht-Plugin. Liefert die kuratierte Suchadressen-Liste für die sechzehn Lande…
+15. **foerderung-und-steuerliche-abschreibung** — Förderung von Denkmalsanierung: direkte Zuschüsse der Länder und Kommunen, Bundesförderung über die Beauftragte der Bund…
 
 ---
 
@@ -115,7 +115,7 @@ Kurzes Triage-Memo mit fünf Blöcken: Sachverhalt, Frage, Kurzantwort in einem 
 
 ## Beispiel
 
-Eigentümerin Lechner hat ohne Erlaubnis das Dach eines eingetragenen Pfarrhauses in Regensburg eindecken lassen. Untersagungsbescheid mit Beseitigungsanordnung kam vor zehn Tagen. Sofortmaßnahmen: Widerspruch einlegen mit aufschiebender Wirkung beantragen; vorhandene Materialien dokumentieren; nachträglichen Erlaubnisantrag erwägen. Nächster Skill: `denkmalschutz-bayern-baydschg` und `bussgeld-ordnungswidrigkeitsverfahren`.
+Eigentümerin Lechner hat ohne Erlaubnis das Dach eines eingetragenen Pfarrhauses in Regensburg eindecken lassen. Untersagungsbescheid mit Beseitigungsanordnung kam vor zehn Tagen; zusätzlich kündigt die Behörde ein Bußgeldverfahren an. Sofortmaßnahmen: Rechtsbehelfsfrist für die verwaltungsrechtliche Anordnung prüfen, vorhandene Materialien dokumentieren, nachträglichen Erlaubnisantrag erwägen und bei einem echten Bußgeldbescheid sofort die gesonderte OWiG-Frist sichern. Nächste Skills: `denkmalschutz-bayern-baydschg`, `widerspruch-und-klagewege` und `bussgeld-ordnungswidrigkeitsverfahren`.
 
 ---
 
@@ -163,6 +163,66 @@ Mandatsannahmevermerk in vollständiger Sprache mit den Blöcken Mandantenstammd
 ## Beispiel
 
 Mandantin Frau Dr. Helena Volkenrath erbt 2026 ein eingetragenes Bürgerhaus von 1841 in Quedlinburg, Welterbe-Pufferzone, und möchte einen Teil als Ferienwohnung herrichten. Mandatsziel ist die Erlaubnis nach DSchG-LSA für den Innenausbau und die Klärung steuerlicher Förderung nach Paragraf 7i EStG.
+
+---
+
+## Skill: `denkmalschutz-niedersachsen-ndschg`
+
+_Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft und Kultur; Niedersächsisches Landesamt für Denkmalpflege in Hannover; Untere Denkmalschutzbehörden bei den Landkreisen und kreisfreien Städten), die deklaratorische Listenwirkung bei unbeweglichen Kulturdenkmalen und Bodendenkmalen sowie den eintragungsabhängigen Sonderfall beweglicher Denkmale mit besonderem Augenmerk auf Goslar, Hildesheim, Fagus-Werk und Wattenmeer._
+
+# Denkmalschutz Niedersachsen (NDSchG)
+
+## Zweck und Anwendungsfall
+
+Niedersachsen arbeitet nicht mit einem pauschal konstitutiven Listenmodell. Für unbewegliche Kulturdenkmale und Bodendenkmale folgt die Denkmaleigenschaft aus dem Gesetz; die Eintragung im Verzeichnis ist insoweit regelmäßig nachrichtlich beziehungsweise deklaratorisch. Bewegliche Denkmale sind dagegen gesondert zu behandeln, weil § 4 Abs. 1 Satz 2 NDSchG ihre Eintragung an eine besondere Bedeutung knüpft und § 5 Abs. 1 Satz 2 NDSchG zentrale Schutzpflichten für bewegliche Denkmale an die Eintragung koppelt. Die Welterbestätten Goslar (Altstadt und Erzbergwerk Rammelsberg), Hildesheim (Mariendom und Michaeliskirche), das Fagus-Werk Alfeld und das Wattenmeer prägen die Verfahrenspraxis.
+
+## Anwendbares Gesetz
+
+- **Gesetzesbezeichnung**: Niedersächsisches Denkmalschutzgesetz
+- **Abkürzung**: NDSchG
+- **Zitiergrundlage**: amtliche Landesgesetz-Datenbank voris.wolterskluwer-online.de / nds-voris.de
+
+## Zuständige Behörden
+
+- **Oberste Denkmalschutzbehörde**: Niedersächsisches Ministerium für Wissenschaft und Kultur
+- **Obere Denkmalschutzbehörde**: Niedersächsisches Landesamt für Denkmalpflege (zugleich Fachbehörde) in Hannover
+- **Untere Denkmalschutzbehörde**: Landkreise und kreisfreie Städte (Braunschweig, Hannover, Osnabrück, Wolfsburg u. a.)
+- **Fachbehörde**: Niedersächsisches Landesamt für Denkmalpflege
+
+## Verfahrensbesonderheiten Niedersachsen
+
+- Deklaratorisches Verzeichnis für unbewegliche Kulturdenkmale und Bodendenkmale; bewegliche Denkmale gesondert nach § 4 Abs. 1 Satz 2 und § 5 Abs. 1 Satz 2 NDSchG prüfen.
+- Welterbestätten Goslar, Hildesheim, Wattenmeer, Fagus-Werk Alfeld.
+- Bodendenkmäler in den Küstenregionen mit besonderer Schutzpflicht.
+- Energetische Sanierung von Fachwerkbauten ist landesweit besonders konfliktträchtig.
+
+## Eintragungssystem
+
+- **Systematik**: unbewegliche Kulturdenkmale und Bodendenkmale sind nicht erst durch die Eintragung geschützt; bei beweglichen Denkmalen entscheidet die landesrechtliche Eintragungs- und Schutzwirkung über die Anwendbarkeit der einschlägigen Pflichten.
+
+## Ablauf / Checkliste
+
+1. Klären, ob das Objekt ein Bau-, Boden- oder bewegliches Denkmal ist.
+2. Eintragungsstatus über die Denkmalliste des Landes feststellen — über voris.wolterskluwer-online.de bzw. nds-voris.de — und zugleich prüfen, ob es um ein unbewegliches Denkmal oder den eintragungsabhängigen Sonderfall eines beweglichen Denkmals geht.
+3. Zuständige untere Denkmalschutzbehörde am Belegenheitsort kontaktieren.
+4. Bei Maßnahmen das Erlaubnisverfahren nach NDSchG starten; bei zugleich bauordnungsrechtlich relevanten Maßnahmen die Kombination mit der Baugenehmigung berücksichtigen.
+5. Konkrete Paragrafen vor Ausgabe live in voris.wolterskluwer-online.de / nds-voris.de verifizieren.
+
+## Quellenpflicht
+
+Sämtliche Paragrafenzitate werden vor Mandatsverwendung in voris.wolterskluwer-online.de / nds-voris.de live geprüft. Verwaltungsgerichts- und Oberverwaltungsgerichtsrechtsprechung des Landes nur mit Aktenzeichen, Datum und frei zugänglicher Fundstelle benennen.
+
+## Ausgabeformat
+
+Landesrechtliche Stellungnahme in vollständigen Sätzen mit konkreten Paragrafenverweisen aus dem Landesgesetz und den zuständigen Behörden.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Beispiel
+
+Erwerber eines Fachwerkhauses in der Hildesheimer Altstadt, eingetragenes Baudenkmal nahe Mariendom, plant Innendämmung und neue Heizungsanlage. Zuständig ist die Stadt Hildesheim mit fachlicher Stellungnahme des Niedersächsischen Landesamts für Denkmalpflege.
 
 ---
 
@@ -265,6 +325,48 @@ Landesrechtliche Stellungnahme in vollständigen Sätzen mit konkreten Paragrafe
 ## Beispiel
 
 Eigentümerin eines Bürgerhauses in Quedlinburg-Altstadt (UNESCO-Welterbe) plant Umnutzung als Ferienwohnung. Zuständig ist der Landkreis Harz als untere Denkmalschutzbehörde mit fachlicher Stellungnahme des Landesamts für Denkmalpflege und Archäologie und ICOMOS-Berücksichtigung.
+
+---
+
+## Skill: `widerspruch-und-klagewege`
+
+_Rechtsschutz im Denkmalschutzrecht: Widerspruchsverfahren nach Paragrafen 68 ff. VwGO (soweit landesrechtlich vorgesehen), Anfechtungsklage nach Paragraf 42 VwGO gegen Eintragung, Erlaubnisversagung, Untersagung und Beseitigungsanordnung, Verpflichtungsklage auf Erteilung der Erlaubnis, Eilrechtsschutz nach Paragraf 80 Abs. 5 VwGO oder Paragraf 123 VwGO sowie klare Aussteuerung denkmalrechtlicher Bußgeldbescheide in den OWiG-Einspruch._
+
+# Widerspruch und Klagewege im Denkmalrecht
+
+## Rechtlicher Rahmen
+
+- **Widerspruch**: Paragrafen 68 ff. VwGO, soweit das jeweilige Land ein Widerspruchsverfahren noch vorsieht. Einige Länder (etwa Niedersachsen, Bayern in Teilen) haben das Vorverfahren weitgehend abgeschafft; dann führt die Klage unmittelbar zum Verwaltungsgericht.
+- **Anfechtungsklage**: Paragraf 42 Abs. 1 Alternative 1 VwGO gegen belastende Verwaltungsakte wie Eintragung, Erlaubnisversagung, Untersagung oder Beseitigungsanordnung.
+- **Verpflichtungsklage**: Paragraf 42 Abs. 1 Alternative 2 VwGO auf Erteilung einer beantragten und versagten Erlaubnis; bei Spruchreife auf konkrete Erteilung, sonst auf Neubescheidung.
+- **Eilrechtsschutz**: Paragraf 80 Abs. 5 VwGO bei sofort vollziehbarer Untersagung; Paragraf 123 VwGO bei drohender, nicht durch Verwaltungsakt geregelter Maßnahme.
+- **Fortsetzungsfeststellungsklage**: Paragraf 113 Abs. 1 Satz 4 VwGO bei Erledigung des Verwaltungsakts, wenn ein berechtigtes Interesse fortbesteht.
+- **Denkmalrechtlicher Bußgeldbescheid**: kein VwGO-Rechtsbehelf. Der richtige Rechtsbehelf ist der Einspruch nach §§ 67 ff. OWiG, regelmäßig binnen zwei Wochen ab Zustellung; gerichtlicher Weg ist nach § 68 OWiG das Amtsgericht. Solche Fälle sofort in den Skill `bussgeld-ordnungswidrigkeitsverfahren` routen.
+
+## Ablauf / Checkliste
+
+1. Frist berechnen: Widerspruch oder Klage innerhalb eines Monats ab Bekanntgabe; bei fehlender oder fehlerhafter Rechtsbehelfsbelehrung verlängert sich die Frist auf ein Jahr nach Paragraf 58 Abs. 2 VwGO. Bei Bußgeldbescheiden gilt dagegen die OWiG-Schiene mit regelmäßig zwei Wochen Einspruchsfrist nach § 67 OWiG.
+2. Klageart wählen je nach Bescheid.
+3. Aufschiebende Wirkung: Anfechtungsklage hat sie nach Paragraf 80 Abs. 1 VwGO; bei sofort vollziehbaren Anordnungen oder bei Erlassen mit Bezug zu Paragraf 80 Abs. 2 Nr. 4 VwGO (besonderes Vollzugsinteresse) gesondertes Eilverfahren erforderlich. Bei Bußgeldbescheiden nicht mit § 80 VwGO arbeiten, sondern Zulässigkeit und Begründung des OWiG-Einspruchs prüfen.
+4. Zuständiges Verwaltungsgericht nach Paragraf 52 VwGO bestimmen.
+5. Bei Welterbestätten oder Ensembleschutz: Streitwert und Beweisbedarf (Sachverständigengutachten zu Denkmalwert und Wirtschaftlichkeit) frühzeitig planen.
+
+## Typische Anträge
+
+- **Klageantrag bei Erlaubnisversagung:** „Den Bescheid des [Behörde] vom [Datum], Aktenzeichen [Az.], aufzuheben und die Beklagte zu verpflichten, der Klägerin die beantragte Erlaubnis für die im Antrag vom [Datum] beschriebenen Maßnahmen nach [Norm des Landesgesetzes] zu erteilen, hilfsweise die Beklagte zur Neubescheidung unter Beachtung der Rechtsauffassung des Gerichts zu verpflichten."
+- **Eilantrag gegen Untersagung:** „Die aufschiebende Wirkung des Widerspruchs der Antragstellerin gegen den Bescheid vom [Datum] wird angeordnet, hilfsweise wiederhergestellt."
+
+## Quellenpflicht
+
+Normverweise und Rechtsprechungsanker werden vor Mandatsverwendung live in den amtlichen Datenbanken verifiziert; siehe references/zitierweise.md.
+
+## Ausgabeformat
+
+Strukturierte Stellungnahme in vollständigen Sätzen mit konkreten Norm-Ankern und klarem Bezug zum Mandatsbegehren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -459,66 +561,6 @@ Landesrechtliche Stellungnahme in vollständigen Sätzen mit konkreten Paragrafe
 ## Beispiel
 
 Eigentümerin eines Winzeranwesens im Mittelrheintal-Welterbe plant Erweiterung der Kelterei. Zuständig ist der Rhein-Hunsrück-Kreis als untere Denkmalbehörde mit fachlicher Stellungnahme der Generaldirektion Kulturelles Erbe; ICOMOS-Belange in der Pufferzone berücksichtigen.
-
----
-
-## Skill: `denkmalschutz-niedersachsen-ndschg`
-
-_Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft und Kultur; Niedersächsisches Landesamt für Denkmalpflege in Hannover; Untere Denkmalschutzbehörden bei den Landkreisen und kreisfreien Städten) und die konstitutive Eintragungssystematik mit besonderem Augenmerk auf das Welterbe Goslar, Hildesheim und das Wattenmeer._
-
-# Denkmalschutz Niedersachsen (NDSchG)
-
-## Zweck und Anwendungsfall
-
-Niedersachsen arbeitet im Grundsatz mit konstitutiver Eintragung; das NDSchG kennt unterschiedliche Schutzkategorien. Die Welterbestätten Goslar (Altstadt und Erzbergwerk Rammelsberg), Hildesheim (Mariendom und Michaeliskirche) und das Wattenmeer prägen die Verfahrenspraxis.
-
-## Anwendbares Gesetz
-
-- **Gesetzesbezeichnung**: Niedersächsisches Denkmalschutzgesetz
-- **Abkürzung**: NDSchG
-- **Zitiergrundlage**: amtliche Landesgesetz-Datenbank voris.wolterskluwer-online.de / nds-voris.de
-
-## Zuständige Behörden
-
-- **Oberste Denkmalschutzbehörde**: Niedersächsisches Ministerium für Wissenschaft und Kultur
-- **Obere Denkmalschutzbehörde**: Niedersächsisches Landesamt für Denkmalpflege (zugleich Fachbehörde) in Hannover
-- **Untere Denkmalschutzbehörde**: Landkreise und kreisfreie Städte (Braunschweig, Hannover, Osnabrück, Wolfsburg u. a.)
-- **Fachbehörde**: Niedersächsisches Landesamt für Denkmalpflege
-
-## Verfahrensbesonderheiten Niedersachsen
-
-- Konstitutives Eintragungssystem mit klarer Anhörungsregel.
-- Welterbestätten Goslar, Hildesheim, Wattenmeer, Fagus-Werk Alfeld.
-- Bodendenkmäler in den Küstenregionen mit besonderer Schutzpflicht.
-- Energetische Sanierung von Fachwerkbauten ist landesweit besonders konfliktträchtig.
-
-## Eintragungssystem
-
-- **Systematik**: konstitutive Eintragung in das Denkmalverzeichnis
-
-## Ablauf / Checkliste
-
-1. Klären, ob das Objekt ein Bau-, Boden- oder bewegliches Denkmal ist.
-2. Eintragungsstatus über die Denkmalliste des Landes feststellen — über voris.wolterskluwer-online.de bzw. nds-voris.de.
-3. Zuständige untere Denkmalschutzbehörde am Belegenheitsort kontaktieren.
-4. Bei Maßnahmen das Erlaubnisverfahren nach NDSchG starten; bei zugleich bauordnungsrechtlich relevanten Maßnahmen die Kombination mit der Baugenehmigung berücksichtigen.
-5. Konkrete Paragrafen vor Ausgabe live in voris.wolterskluwer-online.de / nds-voris.de verifizieren.
-
-## Quellenpflicht
-
-Sämtliche Paragrafenzitate werden vor Mandatsverwendung in voris.wolterskluwer-online.de / nds-voris.de live geprüft. Verwaltungsgerichts- und Oberverwaltungsgerichtsrechtsprechung des Landes nur mit Aktenzeichen, Datum und frei zugänglicher Fundstelle benennen.
-
-## Ausgabeformat
-
-Landesrechtliche Stellungnahme in vollständigen Sätzen mit konkreten Paragrafenverweisen aus dem Landesgesetz und den zuständigen Behörden.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Beispiel
-
-Erwerber eines Fachwerkhauses in der Hildesheimer Altstadt, eingetragenes Baudenkmal nahe Mariendom, plant Innendämmung und neue Heizungsanlage. Zuständig ist die Stadt Hildesheim mit fachlicher Stellungnahme des Niedersächsischen Landesamts für Denkmalpflege.
 
 ---
 
@@ -719,48 +761,6 @@ Normverweise und Rechtsprechungsanker werden vor Mandatsverwendung live in den a
 ## Ausgabeformat
 
 Strukturierte Stellungnahme in vollständigen Sätzen mit konkreten Norm-Ankern und klarem Bezug zum Mandatsbegehren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `art-14-gg-eigentum-und-denkmalschutz`
-
-_Art. 14 GG im Denkmalschutz: die Eintragung in die Denkmalliste und die daraus folgenden Erhaltungs-, Duldungs- und Veränderungsverbote sind Inhalts- und Schrankenbestimmung des Eigentums. Skill erklärt Sozialbindung, Zumutbarkeitsgrenze (Rheinland-Pfalz-Beschluss BVerfGE 100 Seite 226), Ausgleichspflicht bei unzumutbarer Belastung und das Eingriffsregime nach Art. 14 Abs. 3 GG bei Enteignung._
-
-# Art. 14 GG — Eigentum und Denkmalschutz
-
-## Zweck und Anwendungsfall
-
-Der Skill erklärt, warum die Eintragung und die Erlaubnispflichten verfassungsrechtlich Inhalts- und Schrankenbestimmung sind, wo die Zumutbarkeitsgrenze liegt und wann eine ausgleichspflichtige Inhaltsbestimmung oder eine Enteignung in Betracht kommt. Tragender Anker ist die Leitentscheidung des BVerfG zum Rheinland-Pfalz-Denkmalschutzgesetz.
-
-## Tragende Leitentscheidung
-
-- **BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226** — Rheinland-Pfalz-Beschluss: Erhaltungspflichten am Baudenkmal sind Inhaltsbestimmung; wird die Belastung unzumutbar, muss das Landesgesetz einen Ausgleichsmechanismus vorsehen (Übernahmeanspruch, Entschädigung, finanzielle Hilfe). Fundstelle bitte vor Verwendung in der BVerfG-Entscheidungsdatenbank verifizieren.
-
-## Rechtlicher Rahmen
-
-- **Art. 14 Abs. 1 Satz 1 GG** Eigentumsgarantie; **Satz 2** Inhalts- und Schrankenbestimmung durch Gesetz.
-- **Art. 14 Abs. 2 GG** Sozialbindung; das öffentliche Interesse am Denkmalschutz ist ein anerkannter Gemeinwohlbelang.
-- **Art. 14 Abs. 3 GG** Enteignung nur durch oder aufgrund eines Gesetzes mit ausdrücklicher Regelung von Art und Ausmaß der Entschädigung. Die Landesgesetze enthalten dazu Enteignungs- und Übernahmenormen.
-- **Grenze der Zumutbarkeit:** Erhaltungspflicht und Veränderungsverbote dürfen die wirtschaftliche Nutzbarkeit nicht vollständig aufheben. Die meisten Landesgesetze kennen eine Wirtschaftlichkeitsklausel mit Übernahmeanspruch.
-
-## Ablauf / Checkliste
-
-1. Eingriffsintensität feststellen: bloße Veränderungssperre, umfassende Erhaltungspflicht, Untersagung der wirtschaftlichen Nutzung.
-2. Zumutbarkeit prüfen anhand der wirtschaftlichen Belastung gegenüber dem zu schützenden Denkmalwert; Wirtschaftlichkeitsgutachten kann erforderlich sein.
-3. Ausgleichsmechanismus im Landesgesetz prüfen (typischerweise: finanzielle Hilfen, Übernahmeanspruch, Erlaubnis trotz Schutzes).
-4. Bei behaupteter Unzumutbarkeit konkretes Begehren formulieren: Erlaubnis erteilen, Ausgleich gewähren, Übernahme verlangen.
-
-## Quellenpflicht
-
-BVerfG-Aktenzeichen und Fundstelle in der BVerfG-Entscheidungsdatenbank live verifizieren; siehe references/zitierweise.md.
-
-## Ausgabeformat
-
-Verfassungsrechtliche Argumentation in vollständigen Sätzen, die das konkrete Mandatsbegehren mit Art. 14 GG und dem Ausgleichsmechanismus des Landesgesetzes verknüpft.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.

@@ -1,13 +1,13 @@
 ---
 name: denkmalschutz-niedersachsen-ndschg
-description: "Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft und Kultur; Niedersächsisches Landesamt für Denkmalpflege in Hannover; Untere Denkmalschutzbehörden bei den Landkreisen und kreisfreien Städten) und die konstitutive Eintragungssystematik mit besonderem Augenmerk auf das Welterbe Goslar, Hildesheim und das Wattenmeer."
+description: "Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft und Kultur; Niedersächsisches Landesamt für Denkmalpflege in Hannover; Untere Denkmalschutzbehörden bei den Landkreisen und kreisfreien Städten), die deklaratorische Listenwirkung bei unbeweglichen Kulturdenkmalen und Bodendenkmalen sowie den eintragungsabhängigen Sonderfall beweglicher Denkmale mit besonderem Augenmerk auf Goslar, Hildesheim, Fagus-Werk und Wattenmeer."
 ---
 
 # Denkmalschutz Niedersachsen (NDSchG)
 
 ## Zweck und Anwendungsfall
 
-Niedersachsen arbeitet im Grundsatz mit konstitutiver Eintragung; das NDSchG kennt unterschiedliche Schutzkategorien. Die Welterbestätten Goslar (Altstadt und Erzbergwerk Rammelsberg), Hildesheim (Mariendom und Michaeliskirche) und das Wattenmeer prägen die Verfahrenspraxis.
+Niedersachsen arbeitet nicht mit einem pauschal konstitutiven Listenmodell. Für unbewegliche Kulturdenkmale und Bodendenkmale folgt die Denkmaleigenschaft aus dem Gesetz; die Eintragung im Verzeichnis ist insoweit regelmäßig nachrichtlich beziehungsweise deklaratorisch. Bewegliche Denkmale sind dagegen gesondert zu behandeln, weil § 4 Abs. 1 Satz 2 NDSchG ihre Eintragung an eine besondere Bedeutung knüpft und § 5 Abs. 1 Satz 2 NDSchG zentrale Schutzpflichten für bewegliche Denkmale an die Eintragung koppelt. Die Welterbestätten Goslar (Altstadt und Erzbergwerk Rammelsberg), Hildesheim (Mariendom und Michaeliskirche), das Fagus-Werk Alfeld und das Wattenmeer prägen die Verfahrenspraxis.
 
 ## Anwendbares Gesetz
 
@@ -24,19 +24,19 @@ Niedersachsen arbeitet im Grundsatz mit konstitutiver Eintragung; das NDSchG ken
 
 ## Verfahrensbesonderheiten Niedersachsen
 
-- Konstitutives Eintragungssystem mit klarer Anhörungsregel.
+- Deklaratorisches Verzeichnis für unbewegliche Kulturdenkmale und Bodendenkmale; bewegliche Denkmale gesondert nach § 4 Abs. 1 Satz 2 und § 5 Abs. 1 Satz 2 NDSchG prüfen.
 - Welterbestätten Goslar, Hildesheim, Wattenmeer, Fagus-Werk Alfeld.
 - Bodendenkmäler in den Küstenregionen mit besonderer Schutzpflicht.
 - Energetische Sanierung von Fachwerkbauten ist landesweit besonders konfliktträchtig.
 
 ## Eintragungssystem
 
-- **Systematik**: konstitutive Eintragung in das Denkmalverzeichnis
+- **Systematik**: unbewegliche Kulturdenkmale und Bodendenkmale sind nicht erst durch die Eintragung geschützt; bei beweglichen Denkmalen entscheidet die landesrechtliche Eintragungs- und Schutzwirkung über die Anwendbarkeit der einschlägigen Pflichten.
 
 ## Ablauf / Checkliste
 
 1. Klären, ob das Objekt ein Bau-, Boden- oder bewegliches Denkmal ist.
-2. Eintragungsstatus über die Denkmalliste des Landes feststellen — über voris.wolterskluwer-online.de bzw. nds-voris.de.
+2. Eintragungsstatus über die Denkmalliste des Landes feststellen — über voris.wolterskluwer-online.de bzw. nds-voris.de — und zugleich prüfen, ob es um ein unbewegliches Denkmal oder den eintragungsabhängigen Sonderfall eines beweglichen Denkmals geht.
 3. Zuständige untere Denkmalschutzbehörde am Belegenheitsort kontaktieren.
 4. Bei Maßnahmen das Erlaubnisverfahren nach NDSchG starten; bei zugleich bauordnungsrechtlich relevanten Maßnahmen die Kombination mit der Baugenehmigung berücksichtigen.
 5. Konkrete Paragrafen vor Ausgabe live in voris.wolterskluwer-online.de / nds-voris.de verifizieren.
