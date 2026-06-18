@@ -1,0 +1,68 @@
+# Rubric Versorgungsausgleich Schaefer ./. Schaefer (Haerteklausel § 27 VersAusglG)
+# Pass/Fail-Checks fuer fachspezifische Plausibilitaet.
+
+name: "Versorgungsausgleich Schaefer ./. Schaefer - Haerteklausel § 27 VersAusglG"
+plugin: "fachanwalt-familienrecht"
+
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: "README.md vorhanden"
+    path: "README.md"
+
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: "Gesamt-PDF gebaut"
+    path: "gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf"
+
+  - id: r03-mindestens-15-aktenstuecke
+    check_type: file_count
+    description: "mindestens 15 Markdown-Aktenstuecke"
+    glob: "*.md"
+    min: 15
+
+  - id: r04-ag-beschluss-vorhanden
+    check_type: file_exists
+    description: "AG Nuernberg-Fuerth Beschluss als DOCX vorhanden"
+    path: "docx/AG_Nuernberg_Fuerth_Beschluss_28_02_2022.docx"
+
+  - id: r05-olg-beschluss-vorhanden
+    check_type: file_exists
+    description: "OLG Nuernberg Beschluss als DOCX vorhanden"
+    path: "docx/OLG_Nuernberg_Beschluss_14_11_2022.docx"
+
+  - id: r06-notarvereinbarung-vorhanden
+    check_type: file_exists
+    description: "Notarielle Vereinbarung 11.11.2021 als DOCX vorhanden"
+    path: "docx/Notarielle_Vereinbarung_11_11_2021.docx"
+
+  - id: r07-vollmacht-bgh-anwalt
+    check_type: file_exists
+    description: "Untervollmacht BGH-Anwalt vorhanden"
+    path: "docx/Vollmacht_BGH_Ehrlinger_25_11_2022.docx"
+
+  - id: r08-versorgungsausgleich-xlsx
+    check_type: file_exists
+    description: "Versorgungsausgleichsberechnung als XLSX vorhanden"
+    path: "xlsx/versorgungsausgleich_berechnung_schaefer.xlsx"
+
+  - id: r09-emails-mindestens-15
+    check_type: file_count
+    description: "mindestens 15 E-Mails im Korrespondenzordner"
+    glob: "emails/*.eml"
+    min: 15
+
+  - id: r10-keine-erfolgsaussichtspruefung
+    check_type: human_review
+    description: "Die Akte enthaelt keine Aussagen zur Erfolgsaussicht der Rechtsbeschwerde - diese sind ausschliesslich der BGH-Kanzlei vorbehalten."
+    note: "Pruefen, dass weder Aktenstueck 15 noch 16 noch sonstige Markdown-Files eine Empfehlung der Erfolgswahrscheinlichkeit aussprechen."
+
+  - id: r11-versorgungstraeger-vollstaendig
+    check_type: human_review
+    description: "Alle sechs Versorgungstraeger sind abgebildet"
+    note: "Bayerische Aerzteversorgung, DRV Nordbayern, Allianz Riester, Wuerttembergische Direktversicherung, BayLfF Beamtenversorgung, DRV Bund."
+
+  - id: r12-paragraph-27-rechtsprechungsspiegel
+    check_type: file_exists
+    description: "§ 27-Rechtsprechungsspiegel als Aktenstueck vorhanden"
+    path: "11_paragraph_27_rechtsprechungsspiegel.md"

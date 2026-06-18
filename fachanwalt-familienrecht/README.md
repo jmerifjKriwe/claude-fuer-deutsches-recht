@@ -18,6 +18,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
 | **Scheidung Hanna Trüffelberch / Franz Trüffelberch — Patchwork, Wechselmodell-Streit, Zugewinn** (`scheidungsdrama`) | [Gesamt-PDF lesen](../testakten/scheidungsdrama/gesamt-pdf/scheidungsdrama_gesamt.pdf) | [`testakte-scheidungsdrama.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidungsdrama.zip) |
+| **Aktenkonvolut Schäfer ./. Schäfer — Versorgungsausgleich, Härteklausel § 27 VersAusglG, Vorbereitung Rechtsbeschwerde BGH** (`versausgleich-haerte-bgh-schaefer-nuernberg`) | [Gesamt-PDF lesen](../testakten/versausgleich-haerte-bgh-schaefer-nuernberg/gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf) | [`testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

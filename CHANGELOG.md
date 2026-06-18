@@ -1,3 +1,26 @@
+# v338.0.0 — Testakte Versorgungsausgleich Schaefer (§ 27 VersAusglG, BGH-Mandat)
+
+## Neue Testakte
+
+- Testakte `versausgleich-haerte-bgh-schaefer-nuernberg` hinzugefügt (Plugin `fachanwalt-familienrecht`): Versorgungsausgleichsverfahren Leonie Schaefer ./. Dr. Maximilian Schaefer, AG Nürnberg-Fürth 110 F 2418/21 (Beschluss 28.02.2022) und OLG Nürnberg 7 UF 743/22 (Beschluss 14.11.2022). OLG hat den Versorgungsausgleich nach § 27 VersAusglG vollständig ausgeschlossen und die Rechtsbeschwerde zugelassen.
+- 17 Markdown-Aktenstücke (Erstgespräch, Familienkonstellation, eheliche Vermögensverhältnisse, Erbschaft Winterstein 2019, notarielle Zugewinn-Vereinbarung, Versorgungsanrechte Ehemann/Ehefrau, AG-Verfahrensgang, Beschwerdebegründung, Erwiderung, Rechtsprechungsspiegel § 27 VersAusglG, Härteeinwand, gesundheitliche Situation, Vermögensverwertung, Strategie BGH-Mandat, Vermerk Beauftragung, Übergabeprotokoll).
+- 21 E-Mails (Mandantin, Korrespondenzanwalt Vorndran, Gerichte AG/OLG, Versorgungsträger Allianz, Württembergische, DRV, Bayerische Ärzteversorgung, BayLfF, drei BGH-Kanzleien inkl. Bestaetigung Ehrlinger und Absage Lammers).
+- 8 DOCX (AG-Beschluss, OLG-Beschluss, Beschwerdebegründung, Beschwerdeerwiderung, notarielle Vereinbarung, BGH-Vollmacht Ehrlinger, OLG-Sitzungsprotokoll, Aktenvermerk Telefonat), 2 XLSX (VA-Berechnung, Liquiditätsbetrachtung), 3 PDF (Auskunft BVZ, BayLfF, Erbschein AG Bamberg), 1 JPG (Whiteboard Vermögensskizze).
+- Korrespondenzkanzlei Söll Rödelsteiner und Partner Nürnberg, mandatierte BGH-Kanzlei Dr. Ehrlinger Karlsruhe; Gegenseite RA Vorndran Erlangen.
+- 207 → 208 Testakten.
+
+## Version-Bump
+
+- v337.0.0 → v338.0.0 (marketplace.json 215 Eintraege, 214 plugin.json, READMEs, SKILLS.md, skills-index).
+
+## Validatoren
+
+- `validate-plugin-structure.mjs`: OK
+- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen
+- `validate-testakten-gesamt-pdf.py`: OK (206 Testakten ohne Hilfsmaterial-Ordner)
+
+---
+
 # v337.0.0 — Sanity-Check und kleine Template-Politur
 
 ## Sanity und Upload-Fitness
