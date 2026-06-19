@@ -66,7 +66,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** konkreter Skill aus diesem Plugin, z.B. `weichenstellung-bereicherung-oder-anfechtung` — [warum dieser Arbeitsgang hilft]
+- **Primärer Pfad:** Wähle zuerst den Skill, der die tragende Weiche zwischen Leistungskondiktion, Nichtleistungskondiktion, Insolvenzanfechtung, BGB-Anfechtung, Fristenlage oder Entreicherungseinwand klärt; bei Vertragsrückabwicklung regelmäßig `weichenstellung-bereicherung-oder-anfechtung`.
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 

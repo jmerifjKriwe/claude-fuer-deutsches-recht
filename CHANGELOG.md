@@ -1,3 +1,14 @@
+# v344.0.0 — Sanity-Politur: letzte Routing-Platzhalter bereinigt
+
+Light-touch-Bughunt nach v343:
+
+- Fünf verbliebene Kaltstart-Routing-Platzhalter in `ki-vo-ai-act-pruefer`, `bereicherungs-und-anfechtungsrecht-pruefer`, `arbeitsrecht` und `datenschutzrecht` durch fachlich verwendbare Routing-Sätze ersetzt.
+- Einen rohen Folge-Skill-Platzhalter im Migrationsrecht durch einen sprechenden Ausfüllhinweis für den nächsten echten Migrationsrecht-Arbeitsgang ersetzt.
+- Megaprompts, Unified Mini Prompts, Skill-Übersichten und Plugin-Indizes auf `v344.0.0` regeneriert.
+- Validatoren erneut grün: Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF und `git diff --check`.
+
+---
+
 # v343.0.0 — Sanity-Sprint: tote Skill-Routen geschlossen und Routing-Platzhalter entfernt
 
 Light-touch-Bughunt nach v342:

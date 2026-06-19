@@ -47,7 +47,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `passender-datenschutz-skill` — [warum dieser Arbeitsgang hilft]
+- **Primärer Pfad:** Route zuerst auf den Datenschutz-Skill, der die konkrete Sofortfolge steuert: Frist zur Betroffenenanfrage, 72-Stunden-Meldung, Behördenschreiben, Transfermechanik, Lösch-/Auskunftsverlangen oder Bußgeld-/VG-Rechtsschutz.
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 

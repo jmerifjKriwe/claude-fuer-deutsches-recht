@@ -1,6 +1,6 @@
 # steuerrecht-anwalt-und-berater
 
-**384 Skills** · Stand `v343.0.0`
+**384 Skills** · Stand `v344.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/steuerrecht-anwalt-und-berater/README.md)

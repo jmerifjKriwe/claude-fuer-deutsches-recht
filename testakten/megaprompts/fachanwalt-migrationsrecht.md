@@ -285,7 +285,7 @@ Naechste Frist: [DATUM — Art der Frist]
 PKH-Antrag: [gestellt / noch nicht / nicht erforderlich]
 
 5. ROUTING
-Folge-Skill: [skill-name]
+Folge-Skill: [konkreter naechster Migrationsrecht-Skill, z.B. BAMF-Anhoerung, Asylklage, Familiennachzug, Aufenthaltstitel, Abschiebungsschutz, Ausweisung oder Einbuergerung]
 Eskalation: [ ] Sofort-Telefon [ ] Heute [ ] Diese Woche
 
 Aktennummer: [AZ]

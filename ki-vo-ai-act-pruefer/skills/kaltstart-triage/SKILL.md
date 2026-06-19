@@ -50,7 +50,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `passender-ki-vo-skill` — [warum dieser Arbeitsgang hilft]
+- **Primärer Pfad:** Wähle den KI-VO-Spezialskill, der zuerst die konkrete Rolle im Vorgang (Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter), das Systemrisiko, die Produkt- oder Sektoraufsicht, die Dokumentationspflicht oder die Bußgeld-/Governance-Frage entscheidet.
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
