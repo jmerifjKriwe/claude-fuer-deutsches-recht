@@ -1,3 +1,13 @@
+# v357.0.0 — Aufräumen: 95 macOS-Duplikatdateien entfernt
+
+Sanity-Sweep über versehentlich eingecheckte macOS-/Sync-Duplikate (Dateinamen mit Suffix-Muster `… 2.md`, `… 3.py`).
+
+- 95 Duplikatdateien entfernt (92 `SKILL 2.md` u. ä. unter `roemisch-katholisches-kirchenrecht/skills/`, 3 `… 2.py`/`… 3.py` unter `scripts/`). Jede entfernte Datei hatte nachweislich ihr reguläres Gegenstück ohne Ziffersuffix; es wurde nur die Dublette gelöscht, nie das Original.
+- Zwei der Skript-Dubletten (`testakte_einzelpdf_common 2.py`, `validate-testakten-einzelpdf-zips 2.py`) waren in v356 versehentlich mit eingecheckt worden und sind nun bereinigt.
+- Versionsbump 356 → 357 inklusive Skill-Index-Regenerierung. Validatoren grün (plugin-structure, yaml, Gesamt-PDF 210, Testakten-ZIPs 210/5893, Einzel-PDF-ZIPs 212/5699).
+
+---
+
 # v356.0.0 — Codex-Review-Fixes zu v355 (Düsseldorfer Gruppen, Rubric-Checks, Einkommenszahl)
 
 Arbeitet drei Befunde aus dem Codex-Review zu PR #308 ab und behebt einen dabei entdeckten Streuner.
