@@ -1,6 +1,6 @@
 # verlagsrecht-buchpreisbindung
 
-**100 Skills** · Stand `v347.0.0`
+**100 Skills** · Stand `v348.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verlagsrecht-buchpreisbindung/README.md)
