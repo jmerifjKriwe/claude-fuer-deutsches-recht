@@ -1,3 +1,13 @@
+# v347.0.0 — Release-Upload gehärtet und v346 sauber veröffentlicht
+
+Sanity- und Release-Hygiene-Fix nach v346: Der Inhalt aus v346 bleibt erhalten, aber der GitHub-Release-Upload ist gegen stehenbleibende Alt-Assets gehärtet.
+
+- Release-Workflow gehärtet: vorhandene Assets werden vor dem erneuten Upload explizit gelöscht, damit bei sehr großen Releases keine alten ZIPs im Release stehen bleiben.
+- Plugin-Manifeste und Marketplace auf `v347.0.0` gebracht; Übersichten, Unified Mini Prompts und Release-Assets werden neu generiert.
+- Inhaltlicher Stand aus v346 bleibt maßgeblich: fachfremde Standardanker entfernt, generische Workflow-Opener geglättet, zentrale Validatoren bleiben Pflicht.
+
+---
+
 # v346.0.0 — Skill-Hardening: fachfremde Standardanker entfernt
 
 Sanity- und Qualitätsrelease nach v345 mit einem repo-weiten Light-Touch-Hardening der Skilltexte.

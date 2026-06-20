@@ -206,15 +206,23 @@ jobs:
           # ausloesen. Deshalb laden wir bewusst einzeln und mit kleinen Pausen.
           upload_asset() {
             local asset="$1"
+            local asset_name
+            asset_name="$(basename "$asset")"
             local attempt
             for attempt in 1 2 3 4; do
+              # "gh release upload --clobber" kann bei sehr vielen Assets
+              # gelegentlich erfolgreich zurueckkehren, ohne das entfernte
+              # Asset tatsaechlich sichtbar zu ersetzen. Deshalb loeschen wir
+              # vorhandene Assets explizit und laden dann frisch hoch.
+              gh release delete-asset "$RELEASE_TAG" "$asset_name" -y >/dev/null 2>&1 || true
+              sleep 1
               if gh release upload "$RELEASE_TAG" "$asset" --clobber; then
                 return 0
               fi
-              echo "Upload fehlgeschlagen (Versuch $attempt): $(basename "$asset")"
+              echo "Upload fehlgeschlagen (Versuch $attempt): $asset_name"
               sleep $((attempt * 20))
             done
-            echo "Upload endgueltig fehlgeschlagen: $(basename "$asset")" >&2
+            echo "Upload endgueltig fehlgeschlagen: $asset_name" >&2
             return 1
           }
 
