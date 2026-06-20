@@ -21,6 +21,7 @@ description: "DBA-Ländermatrix Deutschland 2026 nach BMF-Stand 01.01.2026. Rout
 4. Natürliche Person, Kapitalgesellschaft, Personengesellschaft, Stiftung, Fonds oder Betriebsstätte?
 5. Geht es um Quellensteuer, Veranlagung, Lohnsteuer, Erbschaftsteuer, Amtshilfe oder Streitbeilegung?
 6. Gibt es EU/EWR-Bezug, MLI, Russland/Belarus/VAE-Status oder Alt-DBA?
+7. Muss das DBA nur eine nationale Steuerbarkeit begrenzen oder ist die DBA-Zuweisung selbst Tatbestandsbaustein in § 49 Abs. 1 Nr. 4 Buchst. a Satz 2 EStG?
 
 ## Workflow
 
@@ -30,10 +31,13 @@ description: "DBA-Ländermatrix Deutschland 2026 nach BMF-Stand 01.01.2026. Rout
 4. Falls nein: `stb-dba-regionenrouter-nichteu` und `stb-dba-all-country-memo-generator` verwenden.
 5. Bei Quellensteuer zusätzlich `stb-dba-quellensteuer-atlas-weltweit`.
 6. Bei Doppelbesteuerung trotz DBA zusätzlich `stb-dba-map-eu-streitbeilegung`.
+7. Bei beschränkt Steuerpflichtigen mit § 49-EStG-Inlandsanknüpfung zusätzlich `dba-49-estg-brueckentatbestand-nationalrecht` laden, wenn Art. 13 Abs. 4 OECD-MA, Art. 15 OECD-MA, Homeoffice-Tage oder Immobiliengesellschaften den Fall tragen.
 
 ## Quellenpflicht
 
 Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirkungen aus dem Gedächtnis. Immer DBA-Text und BMF/BZSt/OECD-Status prüfen.
+
+DBA-Matrix nie als Steuerbegründung verwenden. Für jede beschränkte Steuerpflicht zuerst den nationalen Hook nennen: etwa § 49 Abs. 1 Nr. 2 Buchst. e Doppelbuchst. cc EStG bei real-estate-rich-Anteilen oder § 49 Abs. 1 Nr. 4 Buchst. a Satz 2 EStG bei Homeoffice-/Auslandstätigkeitstagen, für die das konkrete DBA Deutschland ein Besteuerungsrecht zuweist.
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
@@ -74,6 +78,8 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 | Rente Wohnsitz Portugal NHR | Portugal | Pensionen | `stb-dba-portugal` | `stb-dba-rentner-pensionen-art-18` |
 | BS-Bauausfuehrung Tuerkei | Tuerkei | Unternehmensgewinn | `stb-dba-tuerkei-2011` | `stb-dba-betriebsstaette-art-5-musterabkommen` |
 | Drittland ohne Fachmodul (z.B. Mexiko) | Mexiko | Diverse | `stb-dba-regionenrouter-nichteu` + `stb-dba-all-country-memo-generator` | DBA-Text bundesfinanzministerium.de |
+| Beschränkt steuerpflichtiger Share Deal an deutscher Immobiliengesellschaft | DBA-Staat des Veräußerers | Veräußerungsgewinn | `dba-49-estg-brueckentatbestand-nationalrecht` | Art. 13 Abs. 4 OECD-MA, § 49 Abs. 1 Nr. 2 Buchst. e Doppelbuchst. cc EStG |
+| Homeoffice-Tage im Ansässigkeitsstaat mit deutschem Besteuerungsrecht | DBA-Staat des Arbeitnehmers | Arbeitslohn | `dba-49-estg-brueckentatbestand-nationalrecht` | `stb-dba-home-office-pandemie-folgeregelung`, Art. 15 OECD-MA |
 
 ## Output (erweitert)
 
@@ -93,6 +99,7 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 | Doppelbesteuerung trotz DBA | `stb-dba-map-eu-streitbeilegung` | `stb-dba-grundprinzip-oecd-musterabkommen` |
 | Hybridgesellschaft (LLC, LP) | `stb-dba-edge-cases-playbook` | Land-Skill, `stb-dba-grundprinzip-oecd-musterabkommen` |
 | Home-Office-Grenzgaenger | `stb-dba-home-office-pandemie-folgeregelung` | Land-Grenzgaenger-Skill |
+| § 49-EStG-Brückentatbestand / DBA zuerst im nationalen Tatbestand | `dba-49-estg-brueckentatbestand-nationalrecht` | Art. 13 Abs. 4 OECD-MA, Art. 15 OECD-MA, § 49 Abs. 1 Nr. 2 Buchst. e Doppelbuchst. cc EStG, § 49 Abs. 1 Nr. 4 Buchst. a Satz 2 EStG |
 | Kuenstler/Sportler-Auftritt | `stb-dba-kuenstler-sportler-art-17-ma` | `stb-dba-quellensteuer-erstattung-bzst-50c-estg` |
 | Drittstaat ohne Fachmodul | `stb-dba-regionenrouter-nichteu` + `stb-dba-all-country-memo-generator` | `stb-dba-quellensteuer-atlas-weltweit` |
 

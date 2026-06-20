@@ -45,11 +45,27 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 - Jeweiliges DBA mit Grenzgaenger- oder Art. 15-Regelung.
 - Konsultationsvereinbarung als BMF-Schreiben veroeffentlicht.
 - **OECD-Sekretariat-Empfehlungen** zu Home-Office-Effekten.
-- **§ 1 EStG, § 49 EStG, § 9 Abs. 5 EStG** (haeusliches Arbeitszimmer).
+- **§ 1 Abs. 4 EStG, § 19 EStG, § 49 Abs. 1 Nr. 4 Buchst. a Satz 1 und Satz 2 EStG, §§ 38, 39b, 41a, 42d EStG, § 9 Abs. 5 EStG, § 34c EStG, § 50d EStG, Art. 15 und Art. 25 OECD-MA**.
+
+### Wachstumschancengesetz-Technik: DBA-Zuweisung im § 49-EStG-Tatbestand
+
+Für Zeiträume nach Einführung des § 49 Abs. 1 Nr. 4 Buchst. a Satz 2 EStG darf die Homeoffice-Prüfung nicht mehr nur als "Tätigkeitsort gegen Ansässigkeitsstaat" laufen. Die Norm fingiert die im Inland ausgeübte oder verwertete nichtselbständige Arbeit auch für Tätigkeiten im Ansässigkeitsstaat oder in Drittstaaten, soweit ein mit dem Ansässigkeitsstaat abgeschlossenes DBA oder eine zwischenstaatliche Vereinbarung Deutschland für diese Tätigkeit ein Besteuerungsrecht zuweist.
+
+Die Prüfungsreihenfolge lautet deshalb:
+
+1. Person mit beschränkter Steuerpflicht nach § 1 Abs. 4 EStG oder Lohnsteuerabzugsfall mit deutschem Arbeitgeberbezug erfassen.
+2. Einkünfte aus nichtselbständiger Arbeit nach § 19 EStG feststellen.
+3. Arbeitstage nach Inland, Ansässigkeitsstaat und Drittstaaten trennen.
+4. Für ausländische Homeoffice- oder Drittstaatentage den konkreten DBA-Artikel des mit dem Ansässigkeitsstaat abgeschlossenen DBA, die Konsultationsvereinbarung oder die zwischenstaatliche Regel prüfen.
+5. Nur soweit diese Regel Deutschland das Besteuerungsrecht zuweist, § 49 Abs. 1 Nr. 4 Buchst. a Satz 2 EStG als nationale Inlandsfiktion anwenden.
+6. Lohnsteuerabzug, Haftung und Bescheinigung nach §§ 38, 39b, 41a, 42d EStG gesondert prüfen.
+
+Wichtig für das Memo: Das DBA begründet die Steuerpflicht nicht selbst. Die Steuerbarkeit folgt aus § 49 Abs. 1 Nr. 4 Buchst. a Satz 2 EStG, der die DBA-Zuweisung als Tatbestandsmerkmal benutzt. Bei Zweifeln zusätzlich `dba-49-estg-brueckentatbestand-nationalrecht` laden.
 
 ### Leitentscheidungen und BMF-Schreiben
 - BMF-Schreiben zu Konsultationsvereinbarungen Home-Office (laufende Aktualisierung) — **konkret prüfen**.
-- **BMF-Schreiben vom 08.10.2024** zum DBA-Arbeitslohn und Auslandstaetigkeitserlass (Lohnsteuerabzugsverfahren); Anwendung auf Lohnzahlungszeitraeume nach dem 31.12.2024 (PDF abrufbar unter bundesfinanzministerium.de, Bereich Internationales Steuerrecht).
+- **BMF-Schreiben vom 12.12.2023** zur steuerlichen Behandlung des Arbeitslohns nach den DBA; vor Verwendung prüfen, ob für den konkreten Zeitraum ein Nachfolgeschreiben oder eine besondere Konsultationsvereinbarung gilt.
+- **BFH, Urteil vom 04.11.2021 - VI R 22/19**: als allgemeine Fehlerbremse zur Trennung von nationaler Steuerbegründung und DBA-Zuweisung verwenden; die Entscheidung ersetzt keine Prüfung des aktuellen § 49 Abs. 1 Nr. 4 Buchst. a Satz 2 EStG.
 
 ## Inhalt der typischen Konsultationsvereinbarung
 

@@ -183,7 +183,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (142 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (111 Skills)
 - [status-navigator-step-plan](./status-navigator-step-plan.md) (35 Skills)
-- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (384 Skills)
+- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (385 Skills)
 - [strafanzeige-vorbereiter](./strafanzeige-vorbereiter.md) (56 Skills)
 - [strafbefehl-verteidiger](./strafbefehl-verteidiger.md) (60 Skills)
 - [strafzumessung](./strafzumessung.md) (60 Skills)

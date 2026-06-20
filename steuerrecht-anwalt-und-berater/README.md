@@ -219,7 +219,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 384 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 385 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -271,6 +271,7 @@ Automatisch generierte Komplett-Liste aller 384 Skills in diesem Plugin. Beschre
 | `datev-bwa-modul-bedienen-tipps` | DATEV Kanzlei-Rechnungswesen BWA-Modul Bedienung. Anwendungsfall Erstellung BWA in DATEV Auswahl Form Konfiguration Periodenvergleich Branchenvergleich. Methodik Workflow-Tipps. Output BWA-konfiguriert. |
 | `datev-lohn-modul-eau-elektronische-arbeitsunfaehigkeit` | DATEV LODAS und Lohn und Gehalt LUG. Anwendungsfall Lohnabrechnung in DATEV-Welt Konfiguration ELSTER ELStAM sv.net Schnittstellen. Methodik Unterschiede LODAS vs Lohn und Gehalt Praxis-Tipps. Output Lohnprogramm konfiguriert im Steuerre... |
 | `datev-lohn-modul-lodas-luh` | DATEV LODAS und Lohn und Gehalt LUG. Anwendungsfall Lohnabrechnung in DATEV-Welt Konfiguration ELSTER ELStAM sv.net Schnittstellen. Methodik Unterschiede LODAS vs Lohn und Gehalt Praxis-Tipps. Output Lohnprogramm konfiguriert. |
+| `dba-49-estg-brueckentatbestand-nationalrecht` | Prüft die Reihenfolge nationales Steuerrecht und DBA bei beschraenkter Steuerpflicht: DBA begruenden grundsaetzlich keine Steuerpflicht, § 49 EStG muss den Inlandsanknuepfungstatbestand liefern. Spezialfaelle: real-estate-rich-Anteile na... |
 | `dba-all-country-memo-generator` | Generiert ein länderspezifisches DBA-Memo für jeden deutschen DBA-Staat aus Matrix, DBA-Text und Sachverhalt. Für Länder ohne eigenen Detail-Skill: Artikelroute, Einkunftsart, Methode, Quellensteuer, Beweise, Edge-Cases und offene Live-P... |
 | `dba-alle-abkommen-laendermatrix-2026` | DBA-Ländermatrix Deutschland 2026 nach BMF-Stand 01.01.2026. Routet alle deutschen DBA und Sonderfälle nach Staat, Region, Abkommensart, MLI, Erbschaftsteuer-DBA, Amtshilfe, Zeitraum und passendem Detail-Skill. Keine DBA-Antwort ohne kon... |
 | `dba-anrechnung-vs-freistellung-methodenartikel` | Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl zwischen Anrechnung und Freistellung mit Progressionsvorbehalt. Anwendungsfall Steuerberater entscheidet zwischen Anrechnungsmethode mit § 34c EStG und Freistellungsmetho... |
