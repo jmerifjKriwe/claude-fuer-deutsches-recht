@@ -119,7 +119,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 |---|---|---|
 | Hintergrund Hauptfläche | Sehr helles Blaugrau (#F0F4F8) | Standardhintergrund aller Ausgaben |
 | Primärtext | Tiefdunkelblau (#1A2B4A) | Fließtext, Tabelleninhalt, Überschriften |
-| Akzent — Entscheidungspunkte | Warmes Orange (#E87722) | Rote Schwellen, TODO, Deadlines, Freigabe |
+| Akzent — Entscheidungspunkte | Warmes Orange (#E87722) | Rote Schwellen, offene Punkte, Deadlines, Freigabe |
 | Akzent — Navigation / Links | Mittelblau (#2B6CB0) | Skill-Links, Anker, Querverweise |
 | Tabellenhintergrund (gerade Zeilen) | Sehr helles Blau (#EBF4FF) | Lesbarkeit bei dichten Tabellen |
 | Statusampel Grün | #38A169 | Workstream auf Kurs |
@@ -158,7 +158,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. **Adressat und Format bestimmen** — Ausgabe auf Tabelle oben anpassen.
 2. **Vertraulichkeitsstufe prüfen** — Deckblatt oder Kopfzeile mit Vertraulichkeitsmarkierung.
-3. **Risikoelemente identifizieren** — rote Schwellen und TODO farblich abheben (Orange).
+3. **Risikoelemente identifizieren** — rote Schwellen und offene Punkte farblich abheben (Orange).
 4. **Struktur aufbauen:** Executive Summary → Statusampel → Hauptinhalt → Offene Punkte → Freigabegrad.
 5. **Tabellen bevorzugen** — überall wo mehr als 3 Items verglichen werden.
 6. **Qualitätscheck:** Text ohne Fließtextblöcke > 5 Zeilen? Ampelstatus sichtbar? Freigabegrad angegeben?
@@ -198,7 +198,7 @@ ROTE SCHWELLEN / ENTSCHEIDUNGSPUNKTE
 [ ] [Schwelle 1: Beschreibung — Owner, Frist]
 [ ] [Schwelle 2: Beschreibung — Owner, Frist]
 
-OFFENE PUNKTE (TODO)
+OFFENE PUNKTE
 | Nr. | Punkt | Owner | Frist | Eskalation |
 |----|-------|-------|-------|------------|
 | 1 | [Punkt] | [Name] | [Datum] | [Stufe] |

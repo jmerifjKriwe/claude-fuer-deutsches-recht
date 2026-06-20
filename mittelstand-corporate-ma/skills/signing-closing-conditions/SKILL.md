@@ -162,9 +162,9 @@ Deal: [DEALNAME] — Signing: [DATUM] — Longstop: [DATUM]
 | Nr. | CP-Bezeichnung | Owner | Faelligkeit | Nachweistyp | Status |
 |----|---------------|-------|------------|-------------|--------|
 | 1 | Kartellfreigabe (BKartA) | [KAEUFER] | [DATUM] | Behördenbescheid | Ausstehend |
-| 2 | FDI-Freigabe § 55 AWV | [KAEUFER] | [DATUM] | BMWi-Schreiben | Ausstehend |
-| 3 | Gesellschafterbeschluss Verkaeufer | [VERKAEUFER] | [DATUM] | Notarielles Protokoll | OK |
-| 4 | W&I Deckungszusage | [VERKAEUFER] | [DATUM] | Versicherer-Schreiben | TODO |
+| 2 | FDI-Freigabe § 55 AWV | [KAEUFER] | [DATUM] | BMWK-Schreiben | Ausstehend |
+| 3 | Gesellschafterbeschluss Verkäufer | [Verkäufer] | [Datum] | notarielles Protokoll | geprüft |
+| 4 | W&I-Deckungszusage | [Verkäufer] | [Datum] | Versicherer-Schreiben | offen: finale Deckungsbestätigung fehlt |
 
 AMPEL: [ ] Alle CPs gruen [ ] CPs ausstehend — Eskalation erforderlich
 ```

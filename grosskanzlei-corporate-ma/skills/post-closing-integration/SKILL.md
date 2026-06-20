@@ -184,7 +184,7 @@ PMI-MEILENSTEINE
 
 - PMI-Checkliste mit Fristen und Owner
 - Garantiefristen-Kalender
-- Offene Punkte als `TODO`
+- Offene Punkte mit verantwortlicher Person und Frist
 
 ## Übergabe an andere Skills
 

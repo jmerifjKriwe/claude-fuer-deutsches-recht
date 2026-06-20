@@ -66,7 +66,7 @@ Im Mittelstands-M&A sind die Transaktionen häufig vom Gesellschafter-Geschäfts
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
-| 1 | KYC / Mandatsannahme | GwG-Identifikation; bei Familienunternehmen: wirtschaftlich Berechtigte (>25 %) identifizieren; Erbengemeinschaft prüfen | TODO / OK |
+| 1 | KYC / Mandatsannahme | GwG-Identifikation; bei Familienunternehmen: wirtschaftlich Berechtigte (>25 %) identifizieren; Erbengemeinschaft prüfen | offen / geprüft |
 | 2 | Matter Opening Card | Deal-Code, Aktenzeichen, Mandant, Zielgesellschaft, Gegenseite, Vertraulichkeit, Deadline | Angelegt |
 | 3 | Gesellschaftsrechtliche Grundstruktur | HRB/HRA, Gesellschafterliste (§ 40 GmbHG), Satzung, Gesellschaftervereinbarungen | Struktur klar |
 | 4 | Nachfolgerechtliche Dimension | Testament, Erbvertrag, vorweggenommene Erbfolge, Pflichtteilsrechte; ggf. Steuerberater für Schenkungssteuer | Erbrecht geprüft |
@@ -144,13 +144,13 @@ Gegenseite: [Name] — vertreten durch [Kanzlei / Steuerberater]
 GESELLSCHAFTSRECHTLICHE DATEN
 Gesellschafterliste: [Datum, Anlage]
 Satzung: [Datum, Version]
-Gesellschaftervereinbarungen: [Ja / Nein / TODO prüfen]
+Gesellschaftervereinbarungen: [Ja / Nein / offen prüfen]
 Vinkulierung: [Ja / Nein]
 
 NACHFOLGE / ERBRECHT
-Testament / Erbvertrag vorhanden: [Ja / Nein / TODO]
+Testament / Erbvertrag vorhanden: [Ja / Nein / offen prüfen]
 Vorweggenommene Erbfolge: [Ja / Nein]
-Pflichtteilsberechtigte: [Namen / TODO]
+Pflichtteilsberechtigte: [Namen / offen prüfen]
 
 FRISTEN
 LOI-Unterzeichnung: [Datum]
@@ -185,9 +185,9 @@ ENTHALTENE DOKUMENTE (Inventar)
 5. Wesentliche Kundenverträge — Anzahl: [X]
 6. Grundbuchauszüge — Anzahl: [X]
 
-DATENLÜCKEN (TODO)
-- Steuerbescheid [Jahr] fehlt → TODO [Owner] bis [Datum]
-- Pensionsgutachten nicht übergeben → TODO [Owner] bis [Datum]
+DATENLÜCKEN
+- Steuerbescheid [Jahr] fehlt → Verantwortlich: [Name] bis [Datum]
+- Pensionsgutachten nicht übergeben → Verantwortlich: [Name] bis [Datum]
 
 VERTRAULICHKEITSVERMERK: Alle übermittelten Unterlagen unterliegen dem
 Vertraulichkeitsvertrag vom [Datum] (Anlage [X]).

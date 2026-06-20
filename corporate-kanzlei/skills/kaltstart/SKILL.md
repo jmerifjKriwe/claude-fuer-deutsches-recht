@@ -165,7 +165,7 @@ Compliance-Sofort-Check:
 [ ] Insider-Log angelegt — [Ja / Nein]
 [ ] GwG-CDD angestossen — [Ja / Nein]
 
-Naechste Aktion: [TODO mit Datum und Owner]
+Nächste Aktion: [konkrete Aktion] — Verantwortlich: [Name] — Frist: [Datum]
 Eskalation: [Falls Konflikt oder Insider-Verdacht → Partner sofort]
 ```
 

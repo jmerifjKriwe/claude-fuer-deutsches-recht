@@ -156,7 +156,7 @@ Deal: [DEALNAME] — Datum: [DATUM]
 |--------|---------|---------------|---------|------|----------|--------|
 | [KAEUFER] | GF/Vorstand | [DATUM] | Einfach | Intern | [NAME] | OK |
 | [VERKAEUFER] | GV | [DATUM] | 3/4 | Notariell | [NOTAR] | OK |
-| [ZIELGES.] | AR | [DATUM] | Einfach | Schriftlich | [NAME] | TODO |
+| [ZIELGES.] | AR | [DATUM] | Einfach | Schriftlich | [NAME] | offen: prüfen |
 ```
 
 ## Rote Schwellen
@@ -169,7 +169,7 @@ Deal: [DEALNAME] — Datum: [DATUM]
 ## Standardausgabe
 
 - Corporate Approval Tabelle
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
 - Belegkette: Dokument, Datum, Version, Fundstelle
 
 ## Übergabe an andere Skills

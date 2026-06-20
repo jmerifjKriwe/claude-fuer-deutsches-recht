@@ -123,7 +123,7 @@ Organ: [Vorstand / Geschäftsführung / Aufsichtsrat]
  Owner: [Name/Funktion]
  Zeitplan: [Meilensteine]
 
-8. OFFENE PUNKTE (TODO)
+8. OFFENE PUNKTE
  | Nr. | Punkt | Owner | Frist | Eskalation |
  |----|-------|-------|-------|------------|
  | 1 | [Punkt] | [Name] | [Datum] | [Stufe] |

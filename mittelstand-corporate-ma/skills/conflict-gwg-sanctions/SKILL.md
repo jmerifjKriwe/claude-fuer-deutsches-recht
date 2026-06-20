@@ -192,7 +192,7 @@ Freigabe: [PARTNER] am [DATUM]
 ## Standardausgabe
 
 - Screening-Protokoll mit Datum, Parteien, Ergebnis, Freigabe
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
 - Bei Treffer: sofortige Senior-Review und Partner-Freigabe
 
 ## Übergabe an andere Skills

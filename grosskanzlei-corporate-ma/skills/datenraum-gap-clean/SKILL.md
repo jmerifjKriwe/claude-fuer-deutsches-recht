@@ -121,7 +121,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
 - Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe.
 - Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
 
 ## Übergabe an andere Skills

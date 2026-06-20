@@ -56,7 +56,7 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
-| 1 | KYC / Mandatsannahme | GwG-Identifikation (§§ 5, 6 GwG): Gesellschaftsunterlagen, wirtschaftlich Berechtigter, PEP-Screening; Interessenkonfliktprüfung | TODO / OK |
+| 1 | KYC / Mandatsannahme | GwG-Identifikation (§§ 5, 6 GwG): Gesellschaftsunterlagen, wirtschaftlich Berechtigter, PEP-Screening; Interessenkonfliktprüfung | offen / geprüft |
 | 2 | Matter Opening Card erstellen | Deal-Code, Aktenzeichen, Mandant, Gegenseite, Parteienrollen, Vertraulichkeit, Long-Stop-Date | Angelegt |
 | 3 | Aktenzeichen-Matrix | Intern: [Kanzlei-AZ] + [Deal-Code]; extern: HRB/HRA, LEI, ISIN, Steuer-ID, Notar, Registergerichte | Matrix fertig |
 | 4 | Ordnerstruktur anlegen | 00_Admin bis 90_Archive; je Ordner: Zweck, Owner, Vertraulichkeit, Namensschema | Struktur angelegt |
@@ -176,10 +176,10 @@ Ordner 2: Commercial — [X] Dokumente — Vollständig: [Ja/Nein]
 Ordner 3: Finance — [X] Dokumente — Vollständig: [Ja/Nein]
 [...]
 
-DATENLÜCKEN (TODO für DD-Team)
-- Jahresabschluss 2024 fehlt → TODO Finance-Owner bis [Datum]
-- Gesellschafterliste aktuell nicht vorhanden → TODO Legal bis [Datum]
-- Pensionsgutachten nicht hochgeladen → TODO HR-Owner bis [Datum]
+DATENLÜCKEN FÜR DAS DD-TEAM
+- Jahresabschluss 2024 fehlt → Finance-Owner bis [Datum]
+- Gesellschafterliste aktuell nicht vorhanden → Legal-Owner bis [Datum]
+- Pensionsgutachten nicht hochgeladen → HR-Owner bis [Datum]
 
 DOWNLOAD-LOG
 Dokument [Titel], DR-ID [X], heruntergeladen am [Datum], geprüft von [Name], Status: [geprüft / offen]
@@ -209,7 +209,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Akteur | Empfehlung |
 |---|---|
 | Partner-in-Charge | Aktenanlage am Tag der Mandatsannahme; KYC nicht delegieren ohne Dokumentation; Deal-Code frühzeitig vergeben |
-| Associate | Dokumenten-Log täglich führen; Datenlücken sofort als TODO markieren; Q&A-Register nie unstrukturiert in E-Mails belassen |
+| Associate | Dokumenten-Log täglich führen; Datenlücken sofort mit verantwortlicher Person und Frist markieren; Q&A-Register nie unstrukturiert in E-Mails belassen |
 | DD-Team | VDR-Spiegel nach jeder Datenraumaktualisierung synchronisieren; Lücken-Liste in Echtzeit führen |
 
 ## Anschluss-Skills

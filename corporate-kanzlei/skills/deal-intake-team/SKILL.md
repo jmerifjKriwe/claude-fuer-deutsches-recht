@@ -236,7 +236,7 @@ Senior Associate: [NAME]
 Junior: [NAME]
 Budget: [EUR]
 
-NAECHSTE AKTION: [TODO mit Datum und Owner]
+NÄCHSTE AKTION: [konkrete Aktion] — Verantwortlich: [Name] — Frist: [Datum]
 ```
 
 ## Rote Schwellen

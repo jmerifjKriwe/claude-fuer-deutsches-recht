@@ -169,9 +169,9 @@ Deal: [DEALNAME] — Datum: [DATUM]
 
 | Partei | Gremium | Beschlussdatum | Mehrheit | Form | Vollmacht | Status |
 |--------|---------|---------------|---------|------|----------|--------|
-| [KAEUFER] | GF/Vorstand | [DATUM] | Einfach | Intern | [NAME] | OK |
-| [VERKAEUFER] | GV | [DATUM] | 3/4 | Notariell | [NOTAR] | OK |
-| [ZIELGES.] | AR | [DATUM] | Einfach | Schriftlich | [NAME] | TODO |
+| [Käufer] | Geschäftsführung/Vorstand | [Datum] | einfache Mehrheit | intern | [Name] | geprüft |
+| [Verkäufer] | Gesellschafterversammlung | [Datum] | drei Viertel | notariell | [Notar] | geprüft |
+| [Zielgesellschaft] | Aufsichtsrat/Beirat | [Datum] | einfache Mehrheit | schriftlich | [Name] | offen: Beschlussnachweis anfordern |
 ```
 
 ## Rote Schwellen
@@ -184,7 +184,7 @@ Deal: [DEALNAME] — Datum: [DATUM]
 ## Standardausgabe
 
 - Corporate Approval Tabelle
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
 - Belegkette: Dokument, Datum, Version, Fundstelle
 
 ## Übergabe an andere Skills

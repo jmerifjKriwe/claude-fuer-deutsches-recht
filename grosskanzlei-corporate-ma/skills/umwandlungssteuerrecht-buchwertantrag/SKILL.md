@@ -160,7 +160,7 @@ Deal: [DEALNAME] — Datum: [DATUM]
 | Sperrfrist § 22 UmwStG | [7-Jahres-Frist bis DATUM] | [Einbringungsgewinn] | [Monitoring] |
 | Organschaft | [Besteht/Endet durch Umwandlung] | [EAV-Kündigung] | [...] |
 
-Offene Fragen an Steuerteam: [TODO Owner Datum]
+Offene Fragen an Steuerteam: [konkrete Frage] — Verantwortlich: [Name] — Frist: [Datum]
 ```
 
 ## Rote Schwellen
@@ -173,7 +173,7 @@ Offene Fragen an Steuerteam: [TODO Owner Datum]
 ## Standardausgabe
 
 - Steuerliche Strukturmatrix mit Risikobewertung
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
 - Belegkette: Normen, BFH-Urteile, Finanzamts-Korrespondenz
 
 ## Übergabe an andere Skills

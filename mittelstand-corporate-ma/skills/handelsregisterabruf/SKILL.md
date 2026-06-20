@@ -147,12 +147,12 @@ Deal: [DEALNAME] — Datum: [DATUM]
 
 | Gesellschaft | HR-Nr. | Abruf-Datum | Aktuell? | Gesellschafter laut Liste | Vertretung | Anmerkung |
 |-------------|--------|------------|----------|--------------------------|-----------|-----------|
-| [ZIELGES.] | HRB XXX | [DATUM] | JA | [NAME, ANTEIL] | [NAME] GF Einzelv. | OK |
-| [HOLDING] | HRB XXX | [DATUM] | JA | [NAME, 100%] | [NAME] GF | OK |
-| [KOMP-GMBH] | HRB XXX | [DATUM] | JA | [NAME] | [NAME] GF | Prüfen |
+| [ZIELGESELLSCHAFT] | HRB XXX | [DATUM] | Ja | [Name, Anteil] | [Name], Geschäftsführer, einzelvertretungsberechtigt | geprüft |
+| [HOLDING] | HRB XXX | [DATUM] | Ja | [Name, 100 %] | [Name], Geschäftsführer | geprüft |
+| [KOMP-GMBH] | HRB XXX | [DATUM] | Ja | [Name] | [Name], Geschäftsführer | Komplementärstellung und Vertretung prüfen |
 
-TRANSPARENZREGISTER: [ ] Abgeglichen — WB: [NAME] [ANTEIL %]
-OFFENE PUNKTE: [TODO Owner Datum]
+TRANSPARENZREGISTER: [ ] Abgeglichen — wirtschaftlich Berechtigter: [Name], [Anteil %]
+OFFENE PUNKTE: [konkreter Punkt] — Verantwortlich: [Name] — Frist: [Datum]
 ```
 
 ## Rote Schwellen
@@ -165,7 +165,7 @@ OFFENE PUNKTE: [TODO Owner Datum]
 
 - Registerabruf-Protokoll
 - Beteiligungsketten-Organigramm
-- Offene Punkte als `TODO`
+- Offene Punkte mit Verantwortlichem, Frist und Eskalationsstufe
 
 ## Übergabe an andere Skills
 

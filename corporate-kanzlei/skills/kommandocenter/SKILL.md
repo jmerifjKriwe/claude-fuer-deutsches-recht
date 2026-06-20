@@ -155,7 +155,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 5. **Routing-Entscheidung** — passenden Fachmodul aus Deal-Routing-Matrix auswählen.
 6. **Deal-Karte erstellen** — Standardausgabe mit Ampel, Rollen, Owner, Deadline, Risiko, Freigabegrad.
 7. **Rote Schwellen prüfen** — Stop bei Insiderinformation, Clean-Room-Problem, unklarem Closing-Datum oder Insolvenzantragspflicht.
-8. **An Fachmodul übergeben** — Deal-Karte und Sachverhalt weitergeben; offene Punkte als TODO mit Owner und Frist.
+8. **An Fachmodul übergeben** — Deal-Karte und Sachverhalt weitergeben; offene Punkte mit verantwortlicher Person und Frist.
 
 ## Output-Template Deal-Karte
 
@@ -192,7 +192,7 @@ ROUTING
 Primärer Fachmodul: [Skill-Name]
 Sekundärer Skill: [Skill-Name oder —]
 
-OFFENE PUNKTE (TODO)
+OFFENE PUNKTE
 | Nr. | Punkt | Owner | Frist | Eskalation |
 |----|-------|-------|-------|------------|
 | 1 | [Punkt] | [Name] | [Datum] | [Stufe] |

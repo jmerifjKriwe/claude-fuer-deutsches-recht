@@ -49,10 +49,10 @@ Gilt für alle Vorlagen, Verträge, Memos, Schriftsätze und sonstigen Dokumente
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 215 |
-| **Skills (SKILL.md)** | 25731 — [Gesamtübersicht](./SKILLS.md) |
+| **Skills (SKILL.md)** | 25732 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 208 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v348.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v349.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads

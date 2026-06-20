@@ -144,7 +144,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Standardausgabe
 
 - SPA-/APA-Strukturentwurf mit Gliederung und zentralen Klauseln
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
 - Belegkette: DD-Finding, SPA-Klausel, Norm
 
 ## Übergabe an andere Skills

@@ -167,7 +167,7 @@ ANTEILSUEBERTRAGUNG
  Abtretungsvertrag formfrei: [ ] JA — Notarpflicht: [ ] NEIN
 
 REGISTER
- HR-Eintrag Kommanditistenwechsel: [ ] OK [ ] TODO
+ HR-Eintrag Kommanditistenwechsel: [ ] OK [ ] offen
  MoPeG eGbR: [ ] nicht relevant [ ] Eintragung erforderlich bis [DATUM]
 ```
 
@@ -180,7 +180,7 @@ REGISTER
 ## Standardausgabe
 
 - KG-Checkliste mit Haftungs- und Vertretungsanalyse
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
 
 ## Übergabe an andere Skills
 

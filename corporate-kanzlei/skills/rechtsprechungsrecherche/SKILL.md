@@ -99,7 +99,7 @@ NICHT GEFUNDEN / LÜCKEN
 - [Rechtsgebiet X]: Keine aktuelle BGH-Entscheidung ab 2020; ältester Bezug: [Az.]
 - [Rechtsgebiet Y]: Nur Instanzgericht-Entscheidung verfügbar; OLG [Ort] [Az.]
 
-OFFENE RECHERCHEFRAGEN (TODO)
+OFFENE RECHERCHEFRAGEN
 | Nr. | Frage | Owner | Frist | Eskalation |
 |----|-------|-------|-------|------------|
 | 1 | [Frage] | [Name] | [Datum] | [Stufe] |

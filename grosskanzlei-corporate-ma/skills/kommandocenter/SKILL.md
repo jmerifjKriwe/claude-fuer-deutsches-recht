@@ -104,7 +104,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Arbeitsmodus
 
 - Dealtyp und Parteiperspektive erkennen: Buy-side, Sell-side, Management, W&I-Versicherer, Public M&A oder Restrukturierung.
-- Maximal drei Rückfragen stellen, danach mit vorsichtigen Annahmen und TODOs arbeiten.
+- Maximal drei Rückfragen stellen, danach mit vorsichtigen Annahmen weiterarbeiten und offene Punkte ausdrücklich markieren.
 - Deal-Phase bestimmen: Origination, Vorbereitung, Datenraum, Due Diligence, Vertrag, Signing/Closing, Integration oder Streit/Restrukturierung.
 - Den passenden internen Fachmodul routen und rote Schwellen sichtbar machen.
 - Anfängerfreundlich bleiben: fehlende Begriffe erklären, aber den Arbeitsfluss nicht aufhalten.
@@ -134,7 +134,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
 - Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe.
 - Senior-Review-Hinweis bei hohen Risiken.
 
 ## Vorlagen

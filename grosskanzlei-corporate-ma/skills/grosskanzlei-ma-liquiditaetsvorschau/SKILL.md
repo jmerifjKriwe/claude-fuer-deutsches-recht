@@ -72,7 +72,7 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 | 10 | Management-Forecast-Plausibilisierung | Forecast vs. Bankdaten; historische Abweichungen; unrealistische Annahmen markieren | Forecast-Qualität bewertet |
 | 11 | Passiva II sichtbar machen | Eventualverbindlichkeiten, Bürgschaften, Patronatserklärungen, Pensionsrückstellungen | Passiva II dokumentiert |
 | 12 | Steuer- und SV-Rückstand prüfen | Rückstände Finanzamt, Krankenkassen, Berufsgenossenschaft; Vollstreckungsrisiko | Steuer/SV-Status |
-| 13 | Quellenlog und Annahmenbuch | Jede Zahl belegen; unklare Posten als TODO mit Owner und Frist | Quellenlog vollständig |
+| 13 | Quellenlog und Annahmenbuch | Jede Zahl belegen; unklare Posten mit verantwortlicher Person und Frist | Quellenlog vollständig |
 | 14 | Insolvenzreife-Schwelle prüfen | Bei Liquiditätslücke > 10 % über 3 Wochen: § 17 InsO; → Übergabe an `grosskanzlei-ma-insolvenzreife` | Schwellen klar |
 | 15 | Freigabe und Senior Review | Board Paper-Version; Senior-Review-Gate; Human-in-the-loop-Eskalation | Freigabe dokumentiert |
 
@@ -140,7 +140,7 @@ Stichtag: [TT.MM.JJJJ] Erstellt von: [Name]
 | AMPEL | GRÜN | GRÜN | ROT |
 
 HINWEIS: Woche 3 zeigt Deckungslücke EUR [B]. Prüfung § 17 InsO erforderlich.
-TODO [Owner] bis [Datum]: Brückenfinanzierung sicherstellen oder StaRUG-Anzeige prüfen.
+Verantwortlich: [Name] bis [Datum]: Brückenfinanzierung sicherstellen oder StaRUG-Anzeige prüfen.
 ```
 
 ### Baustein 2 — Annahmen-Memo für Management Forecast-Plausibilisierung
@@ -151,18 +151,18 @@ Stand: [Datum]
 
 A. EINZAHLUNGEN
 1. Debitoren-OPOS: EUR [X] fällig in Woche [X]. Ausfallwahrscheinlichkeit [Y] %.
- Quelle: OPOS-Liste vom [Datum]. NICHT BELEGBAR: [Posten] — TODO [Owner].
+ Quelle: OPOS-Liste vom [Datum]. NICHT BELEGBAR: [Posten] — Verantwortlich: [Name].
 2. Anzahlungen Auftrag [Nr.]: EUR [X], Zahlungseingang [Datum] lt. Auftragsbestätigung.
  Quelle: Auftragsbestätigung Anlage [X].
 
 B. AUSZAHLUNGEN
 1. Löhne: EUR [X], Fälligkeit [Datum]. Quelle: Lohnliste [Datum].
 2. Steuerrückstand: EUR [X], Fälligkeit [Datum] lt. Bescheid [AZ].
- Risiko: Vollstreckung bei Nichtzahlung. TODO [Owner] bis [Datum]: Ratenzahlungsantrag.
+ Risiko: Vollstreckung bei Nichtzahlung. Verantwortlich: [Name] bis [Datum]: Ratenzahlungsantrag.
 
 C. KRITISCHE ANNAHMEN
 - Kreditlinie Bank [Name]: EUR [X] verfügbar. Covenant-Verletzung ab [Datum] möglich.
- TODO: Bankgespräch bis [Datum].
+ Bankgespräch bis [Datum] vorbereiten.
 - Management-Forecast-Umsatz Q2 +15 %: NICHT PLAUSIBEL auf Basis OPOS.
  Korrektur: -8 % angesetzt.
 ```

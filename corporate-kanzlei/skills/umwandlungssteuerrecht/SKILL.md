@@ -199,8 +199,8 @@ VERLUSTVORTRAEGE (§ 8c KStG)
 [ ] Sanierungsklausel (§ 8c Ia KStG): [geprueft/nicht anwendbar]
 
 OFFENE PUNKTE
-[ ] [TODO 1: Owner, Frist]
-[ ] [TODO 2: Owner, Frist]
+[ ] [konkrete Frage 1: Verantwortlich, Frist]
+[ ] [konkrete Frage 2: Verantwortlich, Frist]
 ```
 
 ## Rote Schwellen

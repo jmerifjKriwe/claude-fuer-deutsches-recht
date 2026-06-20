@@ -1222,7 +1222,7 @@ _Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vertragswerk, HR,
 
 1. **DD-Scope festlegen** — Workstreams, Tiefen-Level (Full/Limited), Ressourcen, Zeitplan
 2. **IRL (Information Request List) erstellen** — gegliedert nach Workstreams; priorisiert nach Wesentlichkeit
-3. **Datenraum strukturieren** — Index-Mapping, Gap-Analyse, fehlende Dokumente als TODO markieren
+3. **Datenraum strukturieren** — Index-Mapping, Gap-Analyse, fehlende Dokumente mit verantwortlicher Person und Frist markieren
 4. **Workstream-Prüfung** — jedes Dokument mit Datum, Fundstelle (Datenraum-ID) und Risikoklasse erfassen
 5. **Red Flag Memo intern** — laufende Zusammenfassung für Deal-Team; taeglich aktualisieren
 6. **Rueckfragen (Q&A)** — schriftliche Fragen an Verkaefer über Q&A-Funktion; Antworten dokumentieren
@@ -1894,7 +1894,7 @@ Compliance-Sofort-Check:
 [ ] Insider-Log angelegt — [Ja / Nein]
 [ ] GwG-CDD angestossen — [Ja / Nein]
 
-Naechste Aktion: [TODO mit Datum und Owner]
+Nächste Aktion: [konkrete Aktion] — Verantwortlich: [Name] — Frist: [Datum]
 Eskalation: [Falls Konflikt oder Insider-Verdacht → Partner sofort]
 ```
 

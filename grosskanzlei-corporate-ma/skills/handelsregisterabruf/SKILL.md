@@ -158,7 +158,7 @@ Deal: [DEALNAME] — Datum: [DATUM]
 | [KOMP-GMBH] | HRB XXX | [DATUM] | JA | [NAME] | [NAME] GF | Prüfen |
 
 TRANSPARENZREGISTER: [ ] Abgeglichen — WB: [NAME] [ANTEIL %]
-OFFENE PUNKTE: [TODO Owner Datum]
+OFFENE PUNKTE: [konkreter Punkt] — Verantwortlich: [Name] — Frist: [Datum]
 ```
 
 ## Rote Schwellen
@@ -171,7 +171,7 @@ OFFENE PUNKTE: [TODO Owner Datum]
 
 - Registerabruf-Protokoll
 - Beteiligungsketten-Organigramm
-- Offene Punkte als `TODO`
+- Offene Punkte mit verantwortlicher Person und Frist
 
 ## Übergabe an andere Skills
 

@@ -73,7 +73,7 @@ Im Mittelstand ist die Insolvenzreife-Prüfung besonders heikel, weil der Gesell
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
-| 1 | Datenqualität sicherstellen | Bankkontoauszüge, OPOS, BWA, JA, Steuerrückstandsauskunft; Lücken als TODO | Datenlücken-Liste |
+| 1 | Datenqualität sicherstellen | Bankkontoauszüge, OPOS, BWA, JA, Steuerrückstandsauskunft; Lücken mit Verantwortlichem und Frist | Datenlücken-Liste |
 | 2 | Krisenindikator-Screening | Überzogener Kontokorrentkredit, Rücklastschriften, Lieferantensperren, Steuerrückstände, GF-Ratlosigkeit | Indikatoren dokumentiert |
 | 3 | Liquiditätsstatus erstellen | Aktuelle Banksalden; OPOS fällig < 3 Wochen; Deckungslücke berechnen | Deckungslücke EUR [X] |
 | 4 | § 17 InsO-Prüfung | Deckungslücke > 10 %? Dauer > 3 Wochen? Ausreichende Einzahlungen plausibel? | § 17 InsO: [Ja / Nein / unklar] |
@@ -197,9 +197,9 @@ DEAL-AUSWIRKUNGEN:
  beruhen. W&I-Broker informieren.
 
 NÄCHSTE SCHRITTE:
-TODO [Käufer-Anwalt]: MAC-Analyse abschließen bis [Datum]
-TODO [Käufer-GF]: Finanzierungsbereitschaft bei MAC neu bewerten
-TODO [W&I-Broker]: Police-Ausschlüsse klären bis [Datum]
+- Käufer-Anwalt: MAC-Analyse bis [Datum] abschließen.
+- Käufer-Geschäftsführung: Finanzierungsbereitschaft bei MAC-Szenario neu bewerten.
+- W&I-Broker: Police-Ausschlüsse bis [Datum] klären.
 ```
 
 --- vor Versand klären ---

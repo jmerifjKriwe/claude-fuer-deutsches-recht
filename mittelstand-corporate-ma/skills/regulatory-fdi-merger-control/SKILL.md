@@ -124,7 +124,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 54-56 GWB — Ministererlaubnis; Nebenbestimmungen; sog. "second chance" nach Untersagung durch BKartA
 - Art. 1-4 FKVO (EU-Fusionskontrollverordnung 139/2004) — EU-Fusionskontrolle: Schwellen, Vollzugsverbot Art. 7
 - §§ 55-62 AWV — Investitionspruefung: sektorspezifische Prüfung (§ 55 AWV: kritische Infrastruktur u.a.); sektoruebergreifende Prüfung (§ 60 AWV: ab 25 % aus Drittstaaten); Meldepflicht; Genehmigungsvorbehalt
-- § 4 Abs. 2 AWG — Untersagungsmacht des BMWi bei Bedrohung der öffentlichen Ordnung oder Sicherheit
+- § 4 Abs. 2 AWG — Untersagungsmacht des BMWK bei Bedrohung der öffentlichen Ordnung oder Sicherheit
 - Art. 3 EU-FDI-Screening-VO 2019/452 — Koordinierungsrahmen für nationale FDI-Screenings innerhalb der EU
 
 ## Aktuelle Rechtsprechung
@@ -146,7 +146,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Schwelle GWB § 35 erreicht → Filing BKartA → Phase I 1 Monat → Phase II Risiko? → ggf. 4 Monate
 - EU-Schwelle FKVO Art. 1 erreicht → Kommission zuständig (one-stop-shop) → keine nationalen Filings
-- Erwerber ausserhalb EU mit >25 % Anteil → § 60 AWV FDI-Prüfung → ggf. Genehmigungsvorbehalt; BMWi
+- Erwerber ausserhalb EU mit >25 % Anteil → § 60 AWV FDI-Prüfung → ggf. Genehmigungsvorbehalt; BMWK
 - Sektor Verteidigung/kritische Infra → § 55 AWV → strenges sektorbezogenes Screening
 
 ## Output-Template: Freigabe-Landkarte
@@ -159,10 +159,10 @@ Deal: [DEALNAME] — Datum: [DATUM]
 
 | Jurisdiktion | Schwelle | Filing erforderlich | Behörde | Phase I | Phase II | Status |
 |-------------|---------|---------------------|---------|---------|---------|--------|
-| Deutschland | § 35 GWB | JA / NEIN | BKartA | 1 Monat | 4 Monate | TODO |
-| EU | Art. 1 FKVO | JA / NEIN | KOM | 25 AT | 90 AT | TODO |
-| AWV/FDI | § 55/60 AWV | JA / NEIN | BMWi | 2 Monate | 4 Monate | TODO |
-| USA | HSR Act | JA / NEIN | FTC/DOJ | 30 Tage | variabel | TODO |
+| Deutschland | § 35 GWB | ja / nein | Bundeskartellamt | 1 Monat | 4 Monate | offen: Umsatzschwellen belegen |
+| EU | Art. 1 FKVO | ja / nein | Europäische Kommission | 25 Arbeitstage | 90 Arbeitstage | offen: EU-Dimension prüfen |
+| AWV/FDI | §§ 55, 60 AWV | ja / nein | BMWK | 2 Monate | 4 Monate | offen: sektorbezogenen Bezug prüfen |
+| USA | HSR Act | ja / nein | FTC/DOJ | 30 Tage | variabel | offen: US-Nexus prüfen |
 
 VOLLZUGSVERBOT: [ ] Aktiv — kein wirtschaftlicher Vollzug bis [DATUM]
 CLEAN TEAM: [ ] eingerichtet — Information Barriers aktiv

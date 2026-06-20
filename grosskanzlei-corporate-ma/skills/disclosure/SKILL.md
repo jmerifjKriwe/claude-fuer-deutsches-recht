@@ -181,7 +181,7 @@ Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 
 - Disclosure Letter mit General und Specific Disclosures
 - Disclosure-Index (Datenraum-ID, Garantie, Kategorie)
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
 
 ## Übergabe an andere Skills
 

@@ -88,7 +88,7 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 |---|---|---|
 | Nach Datenraum-Öffnung | Erster Tabellenreview innerhalb 3–5 Werktage | Q&A-Frist der Gegenseite nutzen |
 | Nach Q&A-Antworten | Aktualisierter Review mit geschlossenen Lücken | Neue Widersprüche durch Antworten möglich |
-| Vor Signing | Finaler Review: alle offenen TODOs geschlossen | SPA-Anlage: Disclosure Schedule |
+| Vor Signing | Finaler Review: alle offenen offene Punkte geschlossen | SPA-Anlage: Disclosure Schedule |
 | Nach Completion Accounts (Closing) | Zahlen-Abgleich mit vorläufigen und finalen Accounts | Kaufpreisanpassungsfrist lt. SPA (typisch 45–90 Tage) |
 
 ## Typische Fehlerarten und Gegenmaßnahmen
@@ -127,7 +127,7 @@ Erstellt von: [Name]
 | Dok.-Nr. | Dokument | Stichtag | Umsatz | EBITDA | Net Debt | Status | Kommentar |
 |----------|-----------------|------------|----------|----------|----------|-------------|-----------|
 | DR-001 | JA 2023 (HGB) | 31.12.2023 | EUR 50M | EUR 7M | EUR 12M | belegt | OK |
-| DR-002 | Forecast 2024 | 31.12.2024 | EUR 55M | EUR 8M | n.v. | prüfen | Net Debt fehlt — TODO Finance bis [Datum] |
+| DR-002 | Forecast 2024 | 31.12.2024 | EUR 55M | EUR 8M | n.v. | prüfen | Net Debt fehlt — Finance-Owner bis [Datum] |
 | DR-003 | Interim Q1 2024 | 31.03.2024 | EUR 13M | EUR 2M | EUR 11M | widersprüchl.| Umsatz Q1 2024 vs. Forecast-Ableitung: EUR 0,5M Differenz — Q&A stellen |
 | DR-004 | Tax Return 2022 | 31.12.2022 | nicht v. | nicht v. | nicht v. | leer | Nicht in DR hochgeladen — Q&A: Steuerbescheid 2022 anfordern |
 ```
@@ -172,8 +172,8 @@ Mögliche Erklärungen:
 (b) Umsatz enthält Intercompany-Erlöse, die in Kundenliste nicht erscheinen.
 (c) Datenfehler in einer der beiden Quellen.
 
-TODO [Finance-Owner]: Segmentumsatz-Überleitung bis [Datum].
-TODO [Commercial-Owner]: Kundenliste um Intercompany-Position ergänzen.
+Finance-Owner: Segmentumsatz-Überleitung bis [Datum].
+Commercial-Owner: Kundenliste um Intercompany-Position ergänzen.
 Eskalation: Bei Nichtbehebung bis [Datum] → Q&A an Verkäufer.
 ```
 
@@ -201,7 +201,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Akteur | Empfehlung |
 |---|---|
 | DD-Team | Review Grid ab Tag 1 anlegen; Materiality-Schwelle vor Start festlegen; Kreuzblatt-Widersprüche sofort Q&A zuführen |
-| Partner | Final Review vor Signing persönlich freigeben; alle TODOs müssen geschlossen oder als Disclosure offengelegt sein |
+| Partner | Final Review vor Signing persönlich freigeben; alle offene Punkte müssen geschlossen oder als Disclosure offengelegt sein |
 | Mandant | Vollständige Disclosure Schedule als Verhandlungsmasse; Fehler im Datenraum können Verhandlungsposition stärken |
 
 ## Anschluss-Skills

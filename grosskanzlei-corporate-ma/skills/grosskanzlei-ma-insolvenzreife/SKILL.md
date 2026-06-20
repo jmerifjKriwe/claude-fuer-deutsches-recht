@@ -161,7 +161,7 @@ DRINGLICHE MASSNAHMEN:
 1. Liquiditätsprüfung durch Restrukturierungsberater bis [Datum].
 2. Finanzierungszusage Bank [Name] schriftlich bestätigen lassen bis [Datum].
 3. Entscheidung über StaRUG-Anzeige bis [Datum].
-TODO: Insolvenzanwalt hinzuziehen.
+4. Spezialisiertes Insolvenzrechtsteam sofort hinzuziehen.
 
 HINWEIS: Diese erste Einschätzung ersetzt keine finale insolvenzrechtliche
 Stellungnahme. Wir empfehlen die sofortige Hinzuziehung eines spezialisierten
@@ -184,7 +184,7 @@ DEAL-AUSWIRKUNGEN:
  Einschätzung: Der festgestellte Liquiditätsrückgang von EUR [X] innerhalb von
  [Y] Wochen könnte als MAC-Ereignis zu werten sein. Endgültige Entscheidung
  erfordert Vergleich mit Ausgangszustand bei Signing (Anlage [X]).
- TODO [Partner] bis [Datum]: MAC-Analyse abschließen.
+ Partner: MAC-Analyse bis [Datum] abschließen.
 
 2. Closing Condition (SPA Ziffer [X]):
  Garantie der Zahlungsfähigkeit bei Closing. Bei Zahlungsunfähigkeit ist Closing
@@ -192,7 +192,7 @@ DEAL-AUSWIRKUNGEN:
 
 3. W&I-Versicherung:
  Police Ziffer [X] schließt Schäden aus, die auf Insolvenzreife beruhen.
- TODO [W&I-Owner] bis [Datum]: W&I-Broker über Situation informieren.
+ W&I-Owner: W&I-Broker bis [Datum] über Situation informieren.
 
 4. Ordinary-Course-Covenant:
  Geschäftsleitung darf ohne Käufer-Zustimmung keine außerordentlichen Zahlungen

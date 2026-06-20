@@ -177,7 +177,7 @@ Steuerl. Schlusspunkt UmwStG | Steuer [NAME] | [DATUM] | [ ]
 ## Standardausgabe
 
 - Umwandlungs-Checkliste mit Zeitplan, Owner und Status
-- Offene Punkte als `TODO` mit Eskalationsstufe
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
 - Belegkette: Normen, Beschlüsse, Registerschritte
 
 ## Übergabe an andere Skills

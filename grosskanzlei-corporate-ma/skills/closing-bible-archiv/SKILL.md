@@ -197,7 +197,7 @@ TAB D — POST-CLOSING OBLIGATIONS
 ## Standardausgabe
 
 - Closing Bible Index mit Tab-Struktur, Parteien, Datum, Datenraum-ID
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
 - Belegkette: Dokument, Datum, Version, Fundstelle
 - Bei hohem Risiko immer Human-in-the-loop und Senior Review
 

@@ -1,3 +1,14 @@
+# v349.0.0 — DBA-§49-EStG-Brückentechnik und Corporate-Workflow-Politur
+
+Qualitäts- und Sanity-Release nach v348.
+
+- `steuerrecht-anwalt-und-berater`: neuer DBA-/§49-EStG-Spezialskill zur Prüfungsreihenfolge nationales Recht und DBA; real-estate-rich-Anteile nach § 49 Abs. 1 Nr. 2 Buchst. e Doppelbuchst. cc EStG und Homeoffice-Brückentatbestand nach § 49 Abs. 1 Nr. 4 Buchst. a Satz 2 EStG verankert.
+- DBA-Grundskill, Homeoffice-DBA-Skill und DBA-Ländermatrix um die Fehlerbremse ergänzt: DBA begründen grundsätzlich keine Steuerpflicht; § 49 EStG muss den nationalen Zugriff liefern, kann aber die DBA-Zuweisung als Tatbestandsmerkmal einbauen.
+- Corporate/M&A-Skills in `corporate-kanzlei`, `grosskanzlei-corporate-ma` und `mittelstand-corporate-ma`: rohe TODO-/Owner-Marker durch verwendbare Felder für Verantwortliche, Fristen, offene Punkte und Eskalationsstufen ersetzt.
+- Einzel-PDF-ZIPs der Testakten lokal neu gebaut und validiert; Struktur-, YAML-, Testakten- und Release-ZIP-Checks erneut grün.
+
+---
+
 # v348.0.0 — Einzel-PDF-ZIPs je Testakte + Familienrecht-Korrekturen + Sanity-Fixes
 
 Jede Testakte gibt es jetzt zusätzlich als **Einzel-PDF-ZIP**: ein ZIP pro Akte, in dem jede Unterlage als eigene, sauber gerenderte PDF im Originalordnerlayout vorliegt — neben dem Gesamt-PDF (alles in einer Datei) und dem Akten-ZIP (Originalformate).

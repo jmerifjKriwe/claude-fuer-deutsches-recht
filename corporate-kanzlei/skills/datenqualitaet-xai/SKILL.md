@@ -47,7 +47,7 @@ description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat
 1. **Quellen inventarisieren:** Alle Quellen mit Bezeichnung, Version, Datum, Datenraum-ID und Vollständigkeitsgrad in Belegkette erfassen.
 2. **Risikolevel bestimmen:** Geht Ergebnis in Entscheidungsvorlage (hohes Risiko), DD-Bericht (mittleres Risiko) oder internen Vermerk (niedriges Risiko)?
 3. **Konsistenzcheck:** Zahlen aus mindestens zwei unabhängigen Quellen gegenprüfen; Abweichungen > [10 %] als Konflikt markieren.
-4. **Lückenanalyse:** Fehlende Daten als TODO mit Owner und Frist erfassen; keine Lücken stillschweigend interpolieren.
+4. **Lückenanalyse:** Fehlende Daten mit verantwortlicher Person und Frist erfassen; keine Lücken stillschweigend interpolieren.
 5. **Schlussfolgerungsprotokoll:** Jede analytische Schlussfolgerung mit Begründung und Unsicherheitsgrad versehen.
 6. **Human-in-the-loop-Gate:** Bei Risikoniveau Hoch: Senior Review vor Weiterverwendung; Freigabe dokumentieren.
 7. **Qualitätsprotokoll finalisieren:** Ergebnis mit Ampelstatus, Belegkette, offenen Punkten und Freigabegrad übergeben.
@@ -92,7 +92,7 @@ Reviewer: [Name, Funktion]
 Freigabedatum: [Datum]
 Freigabegrad: [Vollständig / Unter Vorbehalt / Abgelehnt]
 
-OFFENE PUNKTE (TODO)
+OFFENE PUNKTE
 | Nr. | Punkt | Owner | Frist | Eskalationsstufe |
 |----|-------|-------|-------|-----------------|
 | 1 | [Punkt] | [Name] | [Datum] | [Partner/Counsel/Associate] |

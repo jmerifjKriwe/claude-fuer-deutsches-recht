@@ -165,7 +165,7 @@ Deal: [DEALNAME] — Datum: [DATUM]
 | Genehmigungen | Ggf. Fusionskontrolle, FDI | Zustimmungen je Asset | HR-Anmeldung, ggf. FKE |
 
 Empfehlung: [STRUKTUR] — Begruendung: [...]
-Offene Punkte: [TODO Owner Datum]
+Offene Punkte: [konkreter Punkt] — Verantwortlich: [Name] — Frist: [Datum]
 ```
 
 ## Rote Schwellen
@@ -177,7 +177,7 @@ Offene Punkte: [TODO Owner Datum]
 ## Standardausgabe
 
 - Strukturmatrix mit Pros/Cons und Deal-Auswirkung
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
 - Belegkette: Quellen, Normen, Fundstellen
 
 ## Übergabe an andere Skills

@@ -180,7 +180,7 @@ PHASE 4: Closing bis [DATUM]
  - Anmeldung HR, Transparenzregister
  - § 613a BGB Information Arbeitnehmer
 
-OFFENE PUNKTE: [TODO Owner Datum]
+OFFENE PUNKTE: [konkreter Punkt] — Verantwortlich: [Name] — Frist: [Datum]
 ```
 
 ## Rote Schwellen
