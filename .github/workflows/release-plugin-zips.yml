@@ -212,10 +212,25 @@ jobs:
           RELEASE_TAG: ${{ steps.tagref.outputs.tag }}
         run: |
           set -euo pipefail
+          gh_retry() {
+            local attempt
+            for attempt in 1 2 3 4 5 6; do
+              if "$@"; then
+                return 0
+              fi
+              echo "GitHub API-Aufruf fehlgeschlagen (Versuch $attempt): $*" >&2
+              sleep $((attempt * 60))
+            done
+            echo "GitHub API-Aufruf endgueltig fehlgeschlagen: $*" >&2
+            return 1
+          }
+
+          release_exists=0
           if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
             echo "Release $RELEASE_TAG existiert bereits; fehlende/aktualisierte Assets werden ueberschrieben."
+            release_exists=1
           else
-            gh release create "$RELEASE_TAG" --title "$RELEASE_TAG" --generate-notes
+            gh_retry gh release create "$RELEASE_TAG" --title "$RELEASE_TAG" --generate-notes
           fi
 
           # GitHub kann bei sehr vielen Release-Assets ein Secondary Rate Limit
@@ -228,10 +243,14 @@ jobs:
             for attempt in 1 2 3 4; do
               # "gh release upload --clobber" kann bei sehr vielen Assets
               # gelegentlich erfolgreich zurueckkehren, ohne das entfernte
-              # Asset tatsaechlich sichtbar zu ersetzen. Deshalb loeschen wir
-              # vorhandene Assets explizit und laden dann frisch hoch.
-              gh release delete-asset "$RELEASE_TAG" "$asset_name" -y >/dev/null 2>&1 || true
-              sleep 1
+              # Asset tatsaechlich sichtbar zu ersetzen. Bei bestehenden
+              # Releases loeschen wir deshalb vorhandene Assets explizit.
+              # Bei frisch erzeugten Releases sparen wir den Delete-Call, damit
+              # der Actions-Installation-Token nicht unnoetig Rate-Limit frisst.
+              if [ "$release_exists" = "1" ]; then
+                gh release delete-asset "$RELEASE_TAG" "$asset_name" -y >/dev/null 2>&1 || true
+                sleep 1
+              fi
               if gh release upload "$RELEASE_TAG" "$asset" --clobber; then
                 return 0
               fi

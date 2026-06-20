@@ -1,3 +1,13 @@
+# v354.0.0 — Release-Upload weiter gehärtet
+
+Nach dem erfolgreichen v353-Build scheiterte der Upload am GitHub-Actions-Installation-Rate-Limit, das durch ältere, inzwischen abgebrochene Release-Läufe verbraucht war. Dieser Release senkt die API-Last des Upload-Schritts und macht das Anlegen des Releases robuster.
+
+- Bei frisch erzeugten Releases werden Assets nicht mehr vorab gelöscht; der Delete-Call bleibt nur für echte Wiederholungs-/Überschreibungsfälle aktiv.
+- `gh release create` läuft jetzt über einen Retry-Wrapper mit wachsender Wartezeit, damit temporäre GitHub-API-Limits nicht sofort den gesamten Release kippen.
+- Versionsstand auf `v354.0.0` synchronisiert; Mini-Prompt-Sammel-ZIP, Plugin-/Skill-/Testakten-ZIPs und Komplettpaket bleiben unverändert Bestandteil des Release-Workflows.
+
+---
+
 # v353.0.0 — Release-Asset-Limit sauber abgefangen
 
 GitHub begrenzt Release-Anhänge hart auf 1000 Assets. Die fachlichen Plugin-, Skill- und Testaktenpakete bleiben erhalten; nur die Verteilung der Unified Mini Prompts wurde robuster gemacht.
