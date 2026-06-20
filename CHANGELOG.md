@@ -1,3 +1,18 @@
+# v351.0.0 — Skill-Indizes mit der Release-Version synchronisiert
+
+Behebt eine von Codex (PR #305) gemeldete Navigations-Inkonsistenz: Der Versionsbump auf v350 hatte die generierten Skill-Index-Seiten nicht mitgezogen, sodass `SKILLS.md` und `skills-index/*.md` weiter `Stand: v349.0.0` auswiesen, während die Marketplace-Version bereits 350 war.
+
+## Fix
+
+- `scripts/generate-skills-md.py` neu ausgeführt: `SKILLS.md` und alle 215 `skills-index/*.md`-Detailseiten plus `skills-index/README.md` tragen jetzt den korrekten Stand (`v351.0.0`) und aktuelle Skill-/Plugin-Zahlen.
+- Versionsbump und Index-Regenerierung erfolgen in diesem Release **atomar**, damit Repo-Ansicht und Release-Assets denselben Stand zeigen.
+
+## Robustheit
+
+- `.github/workflows/release-plugin-zips.yml`: neuer Schritt „Skill-Indizes neu erzeugen", der `generate-skills-md.py` vor dem Packen der Release-Assets ausführt (analog zu den Unified Mini Prompts). Damit kann der Index-Stand künftig nicht mehr hinter die Marketplace-Version zurückfallen, selbst wenn ein Bump das Regenerieren beim Commit vergisst.
+
+---
+
 # v350.0.0 — Familienrecht demo-tauglich poliert (Konsistenz, Düsseldorfer-Stand, Gliederung)
 
 Qualitätsrunde auf den familien- und unterhaltsrechtlichen Testakten, damit sie sich verlässlich vorführen lassen. Alle Validatoren grün (plugin-structure, yaml, gesamt-pdf 208, Testakten-ZIPs 208/5854, Einzel-PDF-ZIPs 210/5664).
