@@ -30,27 +30,13 @@ Für den ganz schnellen Einsatz ohne Plugin-Installation gibt es zusätzlich pro
 
 Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sortierte Liste: **[Klotzkettes Juristische Promptliste](./PROMPTLISTE.md)** — alle Angaben ohne Gewähr, mit großem Disclaimer auf der Seite. Workflow-Eingangs-Skills, generische Router und ausgesprochen historisch-exotische Inhalte (Preußisches Landrecht, Römisches Recht, Kanonisches Recht, Weltraumrecht) bleiben dort bewusst ausgespart.
 
-## Verbindliche Gliederungsregel für alle Vorlagen und Verträge
-
-Diese Regel gilt **dauerhaft und für jedes Werkzeug**, das in diesem Repository arbeitet – Claude, Codex, Perplexity, Cloud und jedes weitere Modell. Sie ist auch in [`CLAUDE.md`](./CLAUDE.md) und [`AGENTS.md`](./AGENTS.md) festgehalten.
-
-- **Ausschließlich dezimale Gliederung:** `1`, dann `1.1`, dann `1.1.1`, dann `1.1.1.1` und so weiter, beliebig tief.
-
-- **Niemals** römische Ziffern (`I`, `II`), Großbuchstaben (`A`, `B`, `C`), Kleinbuchstaben (`a`, `b`) oder gemischte Verlags-Gliederungen (`A. I. 1. a) aa)`) – genau diese Schemata sind verboten, weil man sich darin nicht zurechtfindet.
-
-- **Leerzeile** zwischen Gliederungspunkt und seinem Inhalt sowie zwischen den Gliederungsebenen, sonst ist es nicht lesbar.
-
-- **Einrückung sparsam** – nur leicht einrücken, gerade so viel, dass die Hierarchie sichtbar bleibt und es gut aussieht, nie so tief, dass das Dokument zerfleddert wirkt.
-
-Gilt für alle Vorlagen, Verträge, Memos, Schriftsätze und sonstigen Dokumente in diesem Repository.
-
 ## Überblick
 
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 228 (inkl. 13 experimentelle Gerichts-Plugins im Ordner `_GERICHTE_EXPERIMENTAL/`) |
 | **Skills (SKILL.md)** | 25883 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 208 |
+| **Testakten** | 212 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v359.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
@@ -93,7 +79,15 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 /plugin install <plugin-name>@klotzkette-german-legal-skills
 ```
 
-> ⏱️ **Geduld beim ersten `marketplace add`.** Claude Code klont beim Hinzufügen das **komplette Repository** in den lokalen Plugin-Cache — inklusive der 208 Testakten mit über 600 PDFs (rund 150 MB) und der Git-History. Das sind insgesamt etwa **600 MB**, die einmalig über die GitHub-Leitung gezogen werden. Auf normaler DSL dauert das nach unserer Einschätzung **circa 2 bis 3 Minuten**, je nach Verbindung und GitHub-Edge auch mal etwas länger. Das ist kein Fehler — bitte einfach durchlaufen lassen, bis Claude die Marketplace-Übersicht öffnet. Folge-Updates (`/plugin marketplace update`) sind danach deutlich schneller, weil nur noch der Delta-Pull über die Leitung geht. Wer nur einzelne Plugins ohne Testakten will, kann alternativ einzelne Plugin-ZIPs aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) laden — siehe nächster Absatz.
+> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 228 Plugins, 25883 Skills und 212 Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
+>
+> - `<plugin>.zip` — installierbares Plugin für Claude Code / Claude Desktop / Cowork.
+> - `<plugin>-skills-markdown.zip` — reine `SKILL.md`-Dateien, lädt in jeden anderen Chatbot (ChatGPT, Gemini, Mistral, Le Chat, Perplexity).
+> - `unified-mini-prompts/<plugin>.md` — Ein-Datei-Sparversion (bis 7.500 Zeichen), wenn keine Plugin-Installation möglich ist.
+>
+> Vorteil: viel kleinerer Download, schnellerer Start, kein Overhead durch ungenutzte Plugins.
+
+> ⏱️ **Geduld beim ersten `marketplace add`.** Claude Code klont beim Hinzufügen das **komplette Repository** in den lokalen Plugin-Cache — inklusive der 212 Testakten mit über 600 PDFs (rund 150 MB) und der Git-History. Das sind insgesamt etwa **600 MB**, die einmalig über die GitHub-Leitung gezogen werden. Auf normaler DSL dauert das nach unserer Einschätzung **circa 2 bis 3 Minuten**, je nach Verbindung und GitHub-Edge auch mal etwas länger. Das ist kein Fehler — bitte einfach durchlaufen lassen, bis Claude die Marketplace-Übersicht öffnet. Folge-Updates (`/plugin marketplace update`) sind danach deutlich schneller, weil nur noch der Delta-Pull über die Leitung geht. Wer nur einzelne Plugins ohne Testakten will, kann alternativ einzelne Plugin-ZIPs aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) laden — siehe nächster Absatz.
 
 Alternativ: über die Claude-Desktop-/Cowork-GUI unter **Customize → Skills / Plugins** → ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) hochladen. Schritt-für-Schritt unter [Schnellstart](#schnellstart), [Für Einsteiger](#für-einsteiger-schritt-für-schritt-anleitung) und besonders für Mac-Probleme in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
 
