@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 2 BvR 2017/94 u.a.: Das Legalitaetsprinzip (Paragraf 152 Abs. 2 StPO) verpflichtet die Staatsanwaltschaft, bei zureichenden tatsaechlichen Anhaltspunkten einzuschreiten; vor Verwendung Aktenzeichen verifizieren.
+- Das Legalitaetsprinzip (Paragraf 152 Abs. 2 in Verbindung mit Paragraf 170 StPO) verpflichtet die Staatsanwaltschaft, bei zureichenden tatsaechlichen Anhaltspunkten einzuschreiten; das Bundesverfassungsgericht hat das Prinzip wiederholt bestaetigt (st. Rspr.; Aktenzeichen vor Verwendung verifizieren).
 - Nr. 1 bis Nr. 6 RiStBV: Die Staatsanwaltschaft leitet das Ermittlungsverfahren und bestimmt Umfang und Richtung der Ermittlungen sachleitend.
 - Anfangsverdacht setzt konkrete, auf Tatsachen gestuetzte Anhaltspunkte voraus, nicht blosse Vermutung (st. Rspr.; Aktenzeichen vor Verwendung verifizieren).
 

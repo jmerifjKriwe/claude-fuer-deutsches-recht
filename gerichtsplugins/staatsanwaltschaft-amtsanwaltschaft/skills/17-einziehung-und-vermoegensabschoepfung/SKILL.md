@@ -61,7 +61,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 - Das Erlangte wird netto statt nach dem Bruttoprinzip bestimmt.
 - Der Vermoegensarrest wird zu spaet beantragt, sodass Vermoegen beiseitegeschafft wird.
-- Die Dritteinziehung gegen einen begUenstigten Dritten wird uebersehen.
+- Die Dritteinziehung gegen einen beguenstigten Dritten wird uebersehen.
 - Der Einziehungsbetrag wird nicht nachvollziehbar beziffert.
 
 ## Antrags- bzw. Verfuegungs-Bausteine

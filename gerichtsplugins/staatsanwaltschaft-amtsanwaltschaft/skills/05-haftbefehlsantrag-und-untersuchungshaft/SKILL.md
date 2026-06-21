@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 2 BvR 2292/00: Untersuchungshaft steht unter strengem Verhaeltnismaessigkeitsgebot; mit zunehmender Haftdauer waechst das Gewicht des Freiheitsgrundrechts (Beschleunigungsgebot in Haftsachen).
+- Untersuchungshaft steht unter strengem Verhaeltnismaessigkeitsgebot; mit zunehmender Haftdauer waechst das Gewicht des Freiheitsgrundrechts, woraus das Bundesverfassungsgericht das Beschleunigungsgebot in Haftsachen ableitet (st. Rspr.; Aktenzeichen vor Verwendung verifizieren).
 - Der Haftgrund der Fluchtgefahr (Paragraf 112 Abs. 2 Nr. 2 StPO) ist mit konkreten Tatsachen zu begruenden; die Straferwartung allein genuegt nicht (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
 - Verdunkelungsgefahr (Paragraf 112 Abs. 2 Nr. 3 StPO) verlangt konkrete Anhaltspunkte fuer Verdunkelungshandlungen, nicht die blosse Moeglichkeit (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
 

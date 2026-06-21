@@ -1,3 +1,24 @@
+# v366.0.0 — Staatsanwaltschafts-Plugin: Qualitaets-Loops, Quellenhygiene und Sanity-Korrekturen
+
+Drei Verbesserungs-Loops und ein Sanity- und Bug-Hunt-Durchgang am neuen Plugin `gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft`.
+
+## Qualitaets-Loops
+
+- Loop 1 (Mechanik): Tippfehler in der Einziehungs-Fallstrickliste korrigiert (beguenstigter Dritter).
+- Loop 2 (Quellenhygiene): Zwei nicht sicher verifizierbare Bundesverfassungsgerichts-Aktenzeichen (Legalitaetsprinzip, Beschleunigungsgebot in Haftsachen) durch belegfeste st.-Rspr.-Formulierungen mit Verifikationshinweis ersetzt, statt ein moeglicherweise falsches Aktenzeichen als Tatsache zu behaupten. Die sicher zuzuordnenden Leitentscheidungen bleiben mit Aktenzeichen erhalten (Online-Durchsuchung 1 BvR 370/07, Gefahr im Verzug 2 BvR 1444/00, Widerspruchsloesung GSSt 1/96).
+- Loop 3 (Verweise): Querverweis-Kette Davor und Danach ueber alle 24 Skills auf gueltige Ziel-Slugs geprueft (keine toten Verweise).
+
+## Sanity und Bug-Hunt
+
+- Frontmatter aller 24 Skills auf genau name und description geprueft; plugin.json-Description 238 Zeichen (bis 300); keine Paragraf-Zeichen, keine spitzen Klammern, keine doppelten H1-Ueberschriften, JSON valide, keine Doppelpunkt-Gender-Formen.
+- Komma-Zahl in einer Testakte (Warenwert) auf eine kommafreie Angabe geaendert.
+
+## Versionierung
+
+- Repo-weiter Bump auf v366.0.0 (229 plugin.json, marketplace.json, README, SKILLS.md, skills-index-Uebersicht und Asset-Stand).
+
+---
+
 # v365.0.0 — Gerichts-Plugins: neues Staatsanwaltschafts-Plugin, Wertgrenzen 2026, generisches Maskulinum, Verfeinerung und Verifikation
 
 Abschliessender Qualitaets-Loop mit Schwerpunkt auf den 13 Gerichts-Plugins unter `gerichtsplugins/`. Die inhaltliche Anreicherung der 140 Skills (Anker-Rechtsprechung, Pruefungsschemata, Fallstricke, Tenor-Bausteine) war in v358 bis v364 vorbereitet; v365 zieht die Korrektheits- und Sprachschicht nach und vereinheitlicht die Versionierung.

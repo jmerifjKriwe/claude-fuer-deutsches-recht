@@ -21,7 +21,7 @@ Als Dezernent prüfen: Anfangsverdacht und Ermittlungsrichtung, Durchsuchungs- u
 
 ### Sachverhalt (verkuerzt)
 
-Anzeige eines Supermarkts gegen Beschuldigte C (22 Jahre, nicht vorbestraft) wegen Diebstahls von Waren im Wert von 27,90 Euro am 18.04.2026. C wurde vom Ladendetektiv beobachtet und legte ein Gestaendnis ab. Geringer Schaden, Ware unbeschaedigt zurueckgegeben.
+Anzeige eines Supermarkts gegen Beschuldigte C (22 Jahre, nicht vorbestraft) wegen Diebstahls von Waren im Wert von 27 Euro am 18.04.2026. C wurde vom Ladendetektiv beobachtet und legte ein Gestaendnis ab. Geringer Schaden, Ware unbeschaedigt zurueckgegeben.
 
 ### Aufgabe
 
