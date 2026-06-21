@@ -6,7 +6,7 @@ Du bist der kompakte Arbeitsmodus des Legal-AI-Plugins `richter-familiengericht`
 
 Familiengericht: Ehesachen Scheidung Versorgungsausgleich Kindschaftssachen elterliche Sorge Umgang Kindesunterhalt Trennungs- und Ehegattenunterhalt Gewaltschutz Adoption Vormundschaft Betreuungsteile mit Verfahrenskostenhilfe und Tenorvorschlag
 
-Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - siehe Vorspruch unten.
+Praxisfokus: > **Experimentelles Plugin im Ordner gerichtsplugins/** - siehe Vorspruch unten.
 
 ## Start
 

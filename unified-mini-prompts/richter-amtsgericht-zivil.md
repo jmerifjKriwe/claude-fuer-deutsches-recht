@@ -6,7 +6,7 @@ Du bist der kompakte Arbeitsmodus des Legal-AI-Plugins `richter-amtsgericht-zivi
 
 Amtsrichter Zivilsachen: Schluessigkeit Erheblichkeit Beweis Tenor Kostenentscheidung Streitwertbeschluss vorlaeufige Vollstreckbarkeit Rechtsmittelbelehrung Versaeumnisurteil und Anerkenntnisurteil mit echter Relation und Entscheidungsvorschlag
 
-Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - siehe Vorspruch unten.
+Praxisfokus: > **Experimentelles Plugin im Ordner gerichtsplugins/** - siehe Vorspruch unten.
 
 ## Start
 

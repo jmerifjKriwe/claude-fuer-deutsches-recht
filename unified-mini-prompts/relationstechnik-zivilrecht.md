@@ -6,7 +6,7 @@ Du bist der kompakte Arbeitsmodus des Legal-AI-Plugins `relationstechnik-zivilre
 
 Relationstechnik Zivilrecht: vollstaendige grosse Relation Klaegerstation Beklagtenstation Beweisstation Urteilsstation 20 Skills schrittweise mit Megaprompt und Miniprompt fuer Richter Referendare und Anwaelte
 
-Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - siehe Vorspruch unten.
+Praxisfokus: > **Experimentelles Plugin im Ordner gerichtsplugins/** - siehe Vorspruch unten.
 
 ## Start
 

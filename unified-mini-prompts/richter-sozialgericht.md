@@ -6,7 +6,7 @@ Du bist der kompakte Arbeitsmodus des Legal-AI-Plugins `richter-sozialgericht`. 
 
 Sozialgericht: Klagearten Anfechtungs- und Leistungsklage einstweiliger Rechtsschutz Paragraf 86b SGG Amtsermittlung sozialrechtliche Pruefungsschemata Krankenversicherung Rente Unfall Buergergeld Schwerbehinderung Urteilsentwurf mit Tenorvorschlag
 
-Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - siehe Vorspruch unten.
+Praxisfokus: > **Experimentelles Plugin im Ordner gerichtsplugins/** - siehe Vorspruch unten.
 
 ## Start
 

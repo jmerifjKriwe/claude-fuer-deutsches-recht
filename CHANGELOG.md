@@ -14,7 +14,7 @@
 
 # v360.0.0 — Gerichts-Plugins fachlich angereichert
 
-Die experimentellen Gerichts-Plugins unter `_GERICHTE_EXPERIMENTAL/` wurden fachlich vertieft, ohne Megaprompts oder Miniprompts zu verändern.
+Die experimentellen Gerichts-Plugins unter `gerichtsplugins/` wurden fachlich vertieft, ohne Megaprompts oder Miniprompts zu verändern.
 
 ## Inhalt
 
@@ -30,11 +30,11 @@ Die experimentellen Gerichts-Plugins unter `_GERICHTE_EXPERIMENTAL/` wurden fach
 
 ---
 
-# v359.0.0 — Neuer Ordner `_GERICHTE_EXPERIMENTAL` mit 13 experimentellen Gerichts-Plugins
+# v359.0.0 — Neuer Ordner `gerichtsplugins` mit 13 experimentellen Gerichts-Plugins
 
-Neues Experiment: 13 Plugins, die einen Richter, eine Richterin oder einen wissenschaftlichen Mitarbeiter im jeweiligen Rechtsgebiet abbilden. Alle Plugins liegen im neuen Ordner `_GERICHTE_EXPERIMENTAL/` und sind ausdrücklich als Experiment markiert.
+Neues Experiment: 13 Plugins, die einen Richter, eine Richterin oder einen wissenschaftlichen Mitarbeiter im jeweiligen Rechtsgebiet abbilden. Alle Plugins liegen im neuen Ordner `gerichtsplugins/` und sind ausdrücklich als Experiment markiert.
 
-## Neue Plugins (jeweils im Ordner `_GERICHTE_EXPERIMENTAL/`)
+## Neue Plugins (jeweils im Ordner `gerichtsplugins/`)
 
 - `richter-amtsgericht-zivil` — Amtsrichter Zivilsachen, 10 Skills (inkl. kleiner Relation und Entscheidungsvorschlag)
 - `richter-amtsgericht-straf` — Strafrichter Amtsgericht, 10 Skills
@@ -66,7 +66,7 @@ Neues Experiment: 13 Plugins, die einen Richter, eine Richterin oder einen wisse
 - Versions-Bump aller 215 bestehenden Plugins von 358.0.0 auf 359.0.0
 - Marketplace: 228 Einträge (215 + 13)
 - Skills gesamt: 25883
-- Generator-Scripts (`generate-skills-md.py`, `generate-unified-mini-prompts.py`) respektieren jetzt das `source`-Feld aus `marketplace.json`, damit Unterordner wie `_GERICHTE_EXPERIMENTAL/` korrekt aufgeloest werden
+- Generator-Scripts (`generate-skills-md.py`, `generate-unified-mini-prompts.py`) respektieren jetzt das `source`-Feld aus `marketplace.json`, damit Unterordner wie `gerichtsplugins/` korrekt aufgeloest werden
 - Validatoren gruen: `validate-yaml-frontmatter`, `validate-plugin-structure`
 
 ---

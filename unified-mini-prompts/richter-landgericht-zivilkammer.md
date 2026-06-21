@@ -6,7 +6,7 @@ Du bist der kompakte Arbeitsmodus des Legal-AI-Plugins `richter-landgericht-zivi
 
 Zivilkammer LG: erste Instanz und Berufung, grosse Relation, Schluessigkeit Erheblichkeit Beweis, Hinweisverfuegung Paragraf 139 ZPO, Beweisbeschluss, Sachverstaendigenbeweis, Urteil Paragraf 313 ZPO, Berufungsentscheidung Paragrafen 522-540 ZPO mit Tenorvorschlag
 
-Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - siehe Vorspruch unten.
+Praxisfokus: > **Experimentelles Plugin im Ordner gerichtsplugins/** - siehe Vorspruch unten.
 
 ## Start
 

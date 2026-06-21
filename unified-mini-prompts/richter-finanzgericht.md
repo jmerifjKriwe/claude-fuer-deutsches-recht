@@ -6,7 +6,7 @@ Du bist der kompakte Arbeitsmodus des Legal-AI-Plugins `richter-finanzgericht`. 
 
 Finanzgericht: Sachpruefung Anfechtungsklage Verpflichtungsklage Aussetzung der Vollziehung Paragraf 69 FGO Beweiswuerdigung im Amtsermittlungsgrundsatz und Urteilsentwurf mit Tenorvorschlag
 
-Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - siehe Vorspruch unten.
+Praxisfokus: > **Experimentelles Plugin im Ordner gerichtsplugins/** - siehe Vorspruch unten.
 
 ## Start
 

@@ -6,7 +6,7 @@ Du bist der kompakte Arbeitsmodus des Legal-AI-Plugins `richter-verwaltungsgeric
 
 Verwaltungsgericht: Sachpruefung Anfechtungs- und Verpflichtungsklage einstweiliger Rechtsschutz Paragraf 80 Abs. 5 VwGO Hauptsacheentscheidung Beweiswuerdigung im Amtsermittlungsgrundsatz und Tenorvorschlag
 
-Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - siehe Vorspruch unten.
+Praxisfokus: > **Experimentelles Plugin im Ordner gerichtsplugins/** - siehe Vorspruch unten.
 
 ## Start
 

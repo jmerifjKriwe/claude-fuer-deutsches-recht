@@ -1940,7 +1940,7 @@
     },
     {
       "name": "richter-amtsgericht-zivil",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-amtsgericht-zivil",
+      "source": "./gerichtsplugins/richter-amtsgericht-zivil",
       "version": "362.0.0",
       "description": "Amtsrichter Zivilsachen: Schluessigkeit Erheblichkeit Beweis Tenor Kostenentscheidung Streitwertbeschluss vorlaeufige Vollstreckbarkeit Rechtsmittelbelehrung Versaeumnisurteil und Anerkenntnisurteil mit echter Relation und Entscheidungsvorschlag",
       "author": {
@@ -1949,7 +1949,7 @@
     },
     {
       "name": "richter-amtsgericht-straf",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-amtsgericht-straf",
+      "source": "./gerichtsplugins/richter-amtsgericht-straf",
       "version": "362.0.0",
       "description": "Strafrichter Amtsgericht: Eroeffnungsentscheidung Hauptverhandlung Beweiswuerdigung Strafzumessung Urteilsbegruendung Rechtsmittelbelehrung Strafbefehl beschleunigtes Verfahren mit Tenorvorschlag",
       "author": {
@@ -1958,7 +1958,7 @@
     },
     {
       "name": "richter-amtsgericht-insolvenz-restrukturierung",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-amtsgericht-insolvenz-restrukturierung",
+      "source": "./gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung",
       "version": "362.0.0",
       "description": "Insolvenz- und Restrukturierungsgericht: Eroeffnungsverfahren Sicherungsmassnahmen Verwalterauswahl Glaeubigerversammlung Pruefungstermin Schlusstermin Restschuldbefreiung Restrukturierungssache nach StaRUG mit Stabilisierungsanordnung und Planbestaetigung",
       "author": {
@@ -1967,7 +1967,7 @@
     },
     {
       "name": "richter-amtsgericht-handelsregister",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-amtsgericht-handelsregister",
+      "source": "./gerichtsplugins/richter-amtsgericht-handelsregister",
       "version": "362.0.0",
       "description": "Handelsregisterrichter und Rechtspfleger: Ersteintragung Aenderungen Loeschung Zwischenverfuegung Beschwerde Eintragungsfaehigkeit Firmenrecht Vertretungsmacht Liquidation und Loeschung von Amts wegen",
       "author": {
@@ -1976,7 +1976,7 @@
     },
     {
       "name": "richter-landgericht-zivilkammer",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-landgericht-zivilkammer",
+      "source": "./gerichtsplugins/richter-landgericht-zivilkammer",
       "version": "362.0.0",
       "description": "Zivilkammer LG: erste Instanz und Berufung, grosse Relation, Schluessigkeit Erheblichkeit Beweis, Hinweisverfuegung Paragraf 139 ZPO, Beweisbeschluss, Sachverstaendigenbeweis, Urteil Paragraf 313 ZPO, Berufungsentscheidung Paragrafen 522-540 ZPO mit Tenorvorschlag",
       "author": {
@@ -1985,7 +1985,7 @@
     },
     {
       "name": "richter-landgericht-strafkammer",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-landgericht-strafkammer",
+      "source": "./gerichtsplugins/richter-landgericht-strafkammer",
       "version": "362.0.0",
       "description": "Strafkammer LG: Eroeffnungsentscheidung Hauptverhandlung Beweiswuerdigung Strafzumessung schwere und mittlere Kriminalitaet Berufung gegen Amtsgerichtsurteil Sicherungsverwahrung und Massnahmen mit Tenorvorschlag",
       "author": {
@@ -1994,7 +1994,7 @@
     },
     {
       "name": "richter-verwaltungsgericht",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-verwaltungsgericht",
+      "source": "./gerichtsplugins/richter-verwaltungsgericht",
       "version": "362.0.0",
       "description": "Verwaltungsgericht: Sachpruefung Anfechtungs- und Verpflichtungsklage einstweiliger Rechtsschutz Paragraf 80 Abs. 5 VwGO Hauptsacheentscheidung Beweiswuerdigung im Amtsermittlungsgrundsatz und Tenorvorschlag",
       "author": {
@@ -2003,7 +2003,7 @@
     },
     {
       "name": "richter-finanzgericht",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-finanzgericht",
+      "source": "./gerichtsplugins/richter-finanzgericht",
       "version": "362.0.0",
       "description": "Finanzgericht: Sachpruefung Anfechtungsklage Verpflichtungsklage Aussetzung der Vollziehung Paragraf 69 FGO Beweiswuerdigung im Amtsermittlungsgrundsatz und Urteilsentwurf mit Tenorvorschlag",
       "author": {
@@ -2012,7 +2012,7 @@
     },
     {
       "name": "richter-sozialgericht",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-sozialgericht",
+      "source": "./gerichtsplugins/richter-sozialgericht",
       "version": "362.0.0",
       "description": "Sozialgericht: Klagearten Anfechtungs- und Leistungsklage einstweiliger Rechtsschutz Paragraf 86b SGG Amtsermittlung sozialrechtliche Pruefungsschemata Krankenversicherung Rente Unfall Buergergeld Schwerbehinderung Urteilsentwurf mit Tenorvorschlag",
       "author": {
@@ -2021,7 +2021,7 @@
     },
     {
       "name": "richter-arbeitsgericht",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-arbeitsgericht",
+      "source": "./gerichtsplugins/richter-arbeitsgericht",
       "version": "362.0.0",
       "description": "Arbeitsgericht: Guetetermin Kammertermin Kuendigungsschutzklage Zahlungsklage einstweilige Verfuegung Beschlussverfahren Betriebsverfassung Streitwert mit Tenorvorschlag",
       "author": {
@@ -2030,7 +2030,7 @@
     },
     {
       "name": "richter-familiengericht",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-familiengericht",
+      "source": "./gerichtsplugins/richter-familiengericht",
       "version": "362.0.0",
       "description": "Familiengericht: Ehesachen Scheidung Versorgungsausgleich Kindschaftssachen elterliche Sorge Umgang Kindesunterhalt Trennungs- und Ehegattenunterhalt Gewaltschutz Adoption Vormundschaft Betreuungsteile mit Verfahrenskostenhilfe und Tenorvorschlag",
       "author": {
@@ -2039,7 +2039,7 @@
     },
     {
       "name": "richter-bverfg-verfassungsbeschwerden",
-      "source": "./_GERICHTE_EXPERIMENTAL/richter-bverfg-verfassungsbeschwerden",
+      "source": "./gerichtsplugins/richter-bverfg-verfassungsbeschwerden",
       "version": "362.0.0",
       "description": "BVerfG Kammer und wissenschaftliche Mitarbeiter: Annahmepruefung Verfassungsbeschwerde Paragraf 93a BVerfGG Substantiierung Subsidiaritaet Grundrechtsverletzung Rechtswegerschoepfung Voten Kammerbeschluss Nichtannahmebeschluss",
       "author": {
@@ -2048,7 +2048,7 @@
     },
     {
       "name": "relationstechnik-zivilrecht",
-      "source": "./_GERICHTE_EXPERIMENTAL/relationstechnik-zivilrecht",
+      "source": "./gerichtsplugins/relationstechnik-zivilrecht",
       "version": "362.0.0",
       "description": "Relationstechnik Zivilrecht: vollstaendige grosse Relation Klaegerstation Beklagtenstation Beweisstation Urteilsstation 20 Skills schrittweise mit Megaprompt und Miniprompt fuer Richter Referendare und Anwaelte",
       "author": {

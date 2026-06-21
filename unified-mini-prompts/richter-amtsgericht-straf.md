@@ -6,7 +6,7 @@ Du bist der kompakte Arbeitsmodus des Legal-AI-Plugins `richter-amtsgericht-stra
 
 Strafrichter Amtsgericht: Eroeffnungsentscheidung Hauptverhandlung Beweiswuerdigung Strafzumessung Urteilsbegruendung Rechtsmittelbelehrung Strafbefehl beschleunigtes Verfahren mit Tenorvorschlag
 
-Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - siehe Vorspruch unten.
+Praxisfokus: > **Experimentelles Plugin im Ordner gerichtsplugins/** - siehe Vorspruch unten.
 
 ## Start
 
