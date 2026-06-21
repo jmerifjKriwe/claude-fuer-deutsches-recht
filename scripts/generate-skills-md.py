@@ -82,7 +82,9 @@ def collect_plugins() -> list[tuple[str, list[str]]]:
     out: list[tuple[str, list[str]]] = []
     for plugin in market["plugins"]:
         name = plugin["name"]
-        skills_dir = REPO_ROOT / name / "skills"
+        source = plugin.get("source", f"./{name}")
+        rel = source[2:] if source.startswith("./") else source
+        skills_dir = REPO_ROOT / rel / "skills"
         if not skills_dir.is_dir():
             continue
         skills = sorted(
@@ -167,12 +169,22 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
     return "\n".join(lines)
 
 
+def _source_rel_for(name: str) -> str:
+    market = json.loads((REPO_ROOT / ".claude-plugin" / "marketplace.json").read_text())
+    for p in market["plugins"]:
+        if p["name"] == name:
+            src = p.get("source", f"./{name}")
+            return src[2:] if src.startswith("./") else src
+    return name
+
+
 def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
-    skills_dir = REPO_ROOT / name / "skills"
+    _source_rel = _source_rel_for(name)
+    skills_dir = REPO_ROOT / _source_rel / "skills"
     plugin_zip = f"{GH_RELEASE}/{name}.zip"
     md_zip = f"{GH_RELEASE}/{name}-skills-markdown.zip"
     mini_prompt = f"../unified-mini-prompts/{name}.md"
-    plugin_readme = f"{GH_BLOB}/{name}/README.md"
+    plugin_readme = f"{GH_BLOB}/{_source_rel}/README.md"
     lines = [
         f"# {name}",
         "",
@@ -206,7 +218,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     for s in skills:
         skill_md = skills_dir / s / "SKILL.md"
         desc = read_description(skill_md)
-        rel_md = f"{name}/skills/{s}/SKILL.md"
+        rel_md = f"{_source_rel}/skills/{s}/SKILL.md"
         blob_url = f"{GH_BLOB}/{rel_md}"
         raw_url = f"{GH_RAW}/{rel_md}"
         lines.append(

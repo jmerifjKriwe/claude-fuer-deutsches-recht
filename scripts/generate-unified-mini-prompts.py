@@ -219,7 +219,9 @@ def main() -> int:
     too_long: list[tuple[str, int]] = []
     for plugin in plugins:
         name = plugin["name"]
-        plugin_dir = REPO_ROOT / name
+        source = plugin.get("source", f"./{name}")
+        rel = source[2:] if source.startswith("./") else source
+        plugin_dir = REPO_ROOT / rel
         prompt = fit_prompt(plugin, plugin_dir)
         if len(prompt) > MAX_CHARS:
             too_long.append((name, len(prompt)))

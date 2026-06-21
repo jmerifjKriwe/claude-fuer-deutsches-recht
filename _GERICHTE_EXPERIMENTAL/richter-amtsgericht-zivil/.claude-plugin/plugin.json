@@ -1,0 +1,16 @@
+{
+  "name": "richter-amtsgericht-zivil",
+  "version": "359.0.0",
+  "description": "Amtsrichter Zivilsachen: Schluessigkeit Erheblichkeit Beweis Tenor Kostenentscheidung Streitwertbeschluss vorlaeufige Vollstreckbarkeit Rechtsmittelbelehrung Versaeumnisurteil und Anerkenntnisurteil mit echter Relation und Entscheidungsvorschlag",
+  "keywords": [
+    "experimental-justiz",
+    "gericht",
+    "richter",
+    "ki-vo",
+    "art-22-dsgvo",
+    "aktengeheimnis",
+    "revisionssicher",
+    "richter"
+  ],
+  "license": "Apache-2.0"
+}

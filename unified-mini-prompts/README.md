@@ -221,3 +221,16 @@ Die vollstaendigen Plugin-ZIPs bleiben der bessere Weg fuer Claude Code / Claude
 | `zitierweise-deutsches-recht` | [`zitierweise-deutsches-recht.md`](./zitierweise-deutsches-recht.md) |
 | `zwangsverwaltung-zvg` | [`zwangsverwaltung-zvg.md`](./zwangsverwaltung-zvg.md) |
 | `zwangsvollstreckung` | [`zwangsvollstreckung.md`](./zwangsvollstreckung.md) |
+| `richter-amtsgericht-zivil` | [`richter-amtsgericht-zivil.md`](./richter-amtsgericht-zivil.md) |
+| `richter-amtsgericht-straf` | [`richter-amtsgericht-straf.md`](./richter-amtsgericht-straf.md) |
+| `richter-amtsgericht-insolvenz-restrukturierung` | [`richter-amtsgericht-insolvenz-restrukturierung.md`](./richter-amtsgericht-insolvenz-restrukturierung.md) |
+| `richter-amtsgericht-handelsregister` | [`richter-amtsgericht-handelsregister.md`](./richter-amtsgericht-handelsregister.md) |
+| `richter-landgericht-zivilkammer` | [`richter-landgericht-zivilkammer.md`](./richter-landgericht-zivilkammer.md) |
+| `richter-landgericht-strafkammer` | [`richter-landgericht-strafkammer.md`](./richter-landgericht-strafkammer.md) |
+| `richter-verwaltungsgericht` | [`richter-verwaltungsgericht.md`](./richter-verwaltungsgericht.md) |
+| `richter-finanzgericht` | [`richter-finanzgericht.md`](./richter-finanzgericht.md) |
+| `richter-sozialgericht` | [`richter-sozialgericht.md`](./richter-sozialgericht.md) |
+| `richter-arbeitsgericht` | [`richter-arbeitsgericht.md`](./richter-arbeitsgericht.md) |
+| `richter-familiengericht` | [`richter-familiengericht.md`](./richter-familiengericht.md) |
+| `richter-bverfg-verfassungsbeschwerden` | [`richter-bverfg-verfassungsbeschwerden.md`](./richter-bverfg-verfassungsbeschwerden.md) |
+| `relationstechnik-zivilrecht` | [`relationstechnik-zivilrecht.md`](./relationstechnik-zivilrecht.md) |

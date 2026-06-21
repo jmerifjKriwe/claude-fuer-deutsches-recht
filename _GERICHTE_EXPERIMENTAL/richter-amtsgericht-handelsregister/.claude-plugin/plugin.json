@@ -1,0 +1,16 @@
+{
+  "name": "richter-amtsgericht-handelsregister",
+  "version": "359.0.0",
+  "description": "Handelsregisterrichter und Rechtspfleger: Ersteintragung Aenderungen Loeschung Zwischenverfuegung Beschwerde Eintragungsfaehigkeit Firmenrecht Vertretungsmacht Liquidation und Loeschung von Amts wegen",
+  "keywords": [
+    "experimental-justiz",
+    "gericht",
+    "richter",
+    "ki-vo",
+    "art-22-dsgvo",
+    "aktengeheimnis",
+    "revisionssicher",
+    "richter"
+  ],
+  "license": "Apache-2.0"
+}

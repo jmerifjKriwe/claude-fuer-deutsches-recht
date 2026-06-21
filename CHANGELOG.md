@@ -1,3 +1,44 @@
+# v359.0.0 — Neuer Ordner `_GERICHTE_EXPERIMENTAL` mit 13 experimentellen Gerichts-Plugins
+
+Neues Experiment: 13 Plugins, die einen Richter, eine Richterin oder einen wissenschaftlichen Mitarbeiter im jeweiligen Rechtsgebiet abbilden. Alle Plugins liegen im neuen Ordner `_GERICHTE_EXPERIMENTAL/` und sind ausdruecklich als Experiment markiert.
+
+## Neue Plugins (jeweils im Ordner `_GERICHTE_EXPERIMENTAL/`)
+
+- `richter-amtsgericht-zivil` — Amtsrichter Zivilsachen, 10 Skills (inkl. kleiner Relation und Entscheidungsvorschlag)
+- `richter-amtsgericht-straf` — Strafrichter Amtsgericht, 10 Skills
+- `richter-amtsgericht-insolvenz-restrukturierung` — Insolvenz- und Restrukturierungsgericht, 10 Skills (InsO und StaRUG)
+- `richter-amtsgericht-handelsregister` — Registerrichter und Rechtspfleger, 10 Skills
+- `richter-landgericht-zivilkammer` — Zivilkammer LG erste Instanz und Berufung, 10 Skills (inkl. grosser Relation)
+- `richter-landgericht-strafkammer` — Grosse Strafkammer, 10 Skills
+- `richter-verwaltungsgericht` — Verwaltungsrichter, 10 Skills
+- `richter-finanzgericht` — Finanzrichter, 10 Skills
+- `richter-sozialgericht` — Sozialrichter, 10 Skills
+- `richter-arbeitsgericht` — Arbeitsrichter, 10 Skills
+- `richter-familiengericht` — Familiengericht, 10 Skills (Scheidung, Versorgungsausgleich, Sorge, Umgang, Unterhalt, Gewaltschutz)
+- `richter-bverfg-verfassungsbeschwerden` — BVerfG wissenschaftlicher Mitarbeiter, 10 Skills
+- `relationstechnik-zivilrecht` — vertiefte Zivilrelation und Urteilsbau, 20 Skills
+
+## Rahmen und Hinweise (in jedem Plugin enthalten)
+
+- Experiment-Warnung: keine Produktivempfehlung; Capability-Studie
+- KI-VO Art. 6 Abs. 2 i.V.m. Anhang III Nr. 8 lit. a (Justiz = Hochrisiko-KI), Art. 6 Abs. 3 (vorbereitende Taetigkeit), Registrierungspflicht Art. 49 Abs. 2
+- Art. 22 DSGVO (kein automatisierter Letztentscheid)
+- Paragraf 353b StGB und Paragraf 43 DRiG (Aktengeheimnis, Amtsverschwiegenheit) ausdruecklich beachten
+- Schatten-KI ausdruecklich abgelehnt
+- Revisionssicherheit: Logging und menschliche Letztentscheidung dokumentiert
+- Realismus-Hinweis: produktive Nutzung in deutschen Gerichten derzeit unwahrscheinlich; Megaprompt und Miniprompt sind portabel
+- Verwendung auf eigene Gefahr
+
+## Sonstiges
+
+- Versions-Bump aller 215 bestehenden Plugins von 358.0.0 auf 359.0.0
+- Marketplace: 228 Eintraege (215 + 13)
+- Skills gesamt: 25883
+- Generator-Scripts (`generate-skills-md.py`, `generate-unified-mini-prompts.py`) respektieren jetzt das `source`-Feld aus `marketplace.json`, damit Unterordner wie `_GERICHTE_EXPERIMENTAL/` korrekt aufgeloest werden
+- Validatoren gruen: `validate-yaml-frontmatter`, `validate-plugin-structure`
+
+---
+
 # v358.0.0 — Vergabekammer-Workflow und BVerfG-Prozessarten geschärft
 
 Gezielter Qualitäts- und Release-Sweep für Vergaberecht, Verfassungsrecht und die abgeleiteten Übersichten.

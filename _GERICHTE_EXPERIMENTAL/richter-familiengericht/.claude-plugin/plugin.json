@@ -1,0 +1,16 @@
+{
+  "name": "richter-familiengericht",
+  "version": "359.0.0",
+  "description": "Familiengericht: Ehesachen Scheidung Versorgungsausgleich Kindschaftssachen elterliche Sorge Umgang Kindesunterhalt Trennungs- und Ehegattenunterhalt Gewaltschutz Adoption Vormundschaft Betreuungsteile mit Verfahrenskostenhilfe und Tenorvorschlag",
+  "keywords": [
+    "experimental-justiz",
+    "gericht",
+    "richter",
+    "ki-vo",
+    "art-22-dsgvo",
+    "aktengeheimnis",
+    "revisionssicher",
+    "richter"
+  ],
+  "license": "Apache-2.0"
+}

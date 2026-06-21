@@ -1,6 +1,6 @@
 ---
 name: gewaehrleistung-digitale-produkte-warenkauf-327-ff-434-ff-bgb
-description: "Gewährleistung für digitale Produkte und Warenkauf im Onlinehandel: §§ 327 ff., 434 ff., 475b, 475c, 477 BGB, BGH-Rechtsprechung vom 06.05.2026, Verjährung und B2B-Abgrenzung mit § 377 HGB."
+description: "Gewährleistung für digitale Produkte und Warenkauf im Onlinehandel: §§ 327 ff., 434 ff., 475b und 475c und 477 BGB, BGH-Rechtsprechung vom 06.05.2026, Verjährung und B2B-Abgrenzung mit § 377 HGB."
 ---
 
 # Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB

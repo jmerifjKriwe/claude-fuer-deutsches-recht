@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Fachanwalt Verkehrsrecht: prüft Normen (StGB §§ 142/315c, 316, StVG, StVO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt AG (Bußgeld + Straf) und Quellenhygiene nach references/quellenhygiene.md."
+description: "Quellen-Live-Check für Fachanwalt Verkehrsrecht: prüft Normen (StGB §§ 142/315c und 316, StVG, StVO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt AG (Bußgeld + Straf) und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck

@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v358.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v359.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -223,3 +223,16 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [zitierweise-deutsches-recht](./zitierweise-deutsches-recht.md) (83 Skills)
 - [zwangsverwaltung-zvg](./zwangsverwaltung-zvg.md) (58 Skills)
 - [zwangsvollstreckung](./zwangsvollstreckung.md) (59 Skills)
+- [richter-amtsgericht-zivil](./richter-amtsgericht-zivil.md) (10 Skills)
+- [richter-amtsgericht-straf](./richter-amtsgericht-straf.md) (10 Skills)
+- [richter-amtsgericht-insolvenz-restrukturierung](./richter-amtsgericht-insolvenz-restrukturierung.md) (10 Skills)
+- [richter-amtsgericht-handelsregister](./richter-amtsgericht-handelsregister.md) (10 Skills)
+- [richter-landgericht-zivilkammer](./richter-landgericht-zivilkammer.md) (10 Skills)
+- [richter-landgericht-strafkammer](./richter-landgericht-strafkammer.md) (10 Skills)
+- [richter-verwaltungsgericht](./richter-verwaltungsgericht.md) (10 Skills)
+- [richter-finanzgericht](./richter-finanzgericht.md) (10 Skills)
+- [richter-sozialgericht](./richter-sozialgericht.md) (10 Skills)
+- [richter-arbeitsgericht](./richter-arbeitsgericht.md) (10 Skills)
+- [richter-familiengericht](./richter-familiengericht.md) (10 Skills)
+- [richter-bverfg-verfassungsbeschwerden](./richter-bverfg-verfassungsbeschwerden.md) (10 Skills)
+- [relationstechnik-zivilrecht](./relationstechnik-zivilrecht.md) (20 Skills)

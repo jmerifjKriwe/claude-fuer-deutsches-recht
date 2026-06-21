@@ -1,6 +1,6 @@
 ---
 name: honorar-vorschuss-absatzhonorar-und-abrechnung
-description: "Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §§ 32 und 32a, 32d — Berechnung, Angemessenheit und Auskunft im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..."
+description: "Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §§ 32 und 32a und 32d — Berechnung, Angemessenheit und Auskunft im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..."
 ---
 
 # Verl-005 · Honorar, Vorschuss, Absatzhonorar und Abrechnung

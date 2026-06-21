@@ -1,0 +1,16 @@
+{
+  "name": "richter-landgericht-strafkammer",
+  "version": "359.0.0",
+  "description": "Strafkammer LG: Eroeffnungsentscheidung Hauptverhandlung Beweiswuerdigung Strafzumessung schwere und mittlere Kriminalitaet Berufung gegen Amtsgerichtsurteil Sicherungsverwahrung und Massnahmen mit Tenorvorschlag",
+  "keywords": [
+    "experimental-justiz",
+    "gericht",
+    "richter",
+    "ki-vo",
+    "art-22-dsgvo",
+    "aktengeheimnis",
+    "revisionssicher",
+    "richter"
+  ],
+  "license": "Apache-2.0"
+}
