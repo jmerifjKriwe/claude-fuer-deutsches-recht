@@ -1,55 +1,49 @@
 ---
 name: verfassung-grundgesetz-organstreitverfahren
-description: "Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Änderungen im Verfassungsrecht."
+description: "Organstreitverfahren nach Art. 93 Abs. 1 Nr. 1 GG und §§ 63 ff. BVerfGG allgemein prüfen: Beteiligtenfähigkeit, Antragsgegenstand, Antragsbefugnis, Sechsmonatsfrist, Rechtsschutzbedürfnis, verfassungsrechtliche Rechtsposition und Tenorierungsziel."
 ---
 
-# GG-Änderung Art. 79 GG
+# Organstreitverfahren nach dem Grundgesetz
 
-## Arbeitsbereich
+## Einsatzbereich
 
-Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Änderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dieser Skill prüft den allgemeinen Organstreit vor dem Bundesverfassungsgericht. Er ist passend, wenn Bundestag, Bundesrat, Bundesregierung, Bundespräsident, Fraktion, Abgeordnete oder ein mit eigenen Rechten ausgestatteter Organbestandteil geltend macht, durch eine Maßnahme oder Unterlassung eines anderen Verfassungsorgans in eigenen verfassungsrechtlichen Rechten verletzt zu sein.
 
-## Arbeitsweg
+## Normenanker
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Art. 38 Abs. 1 Satz 2 GG: freies Mandat der Abgeordneten.
+- Art. 44 GG: Untersuchungsausschussrechte.
+- Art. 45a GG: Verteidigungsausschuss und Untersuchungsausschussfunktion.
+- Art. 53 GG: Anwesenheits- und Anhörungsrechte der Bundesregierung und des Bundesrates.
+- Art. 63 bis 69 GG: Bundesregierung, Bundeskanzler, Minister, Vertrauensfrage.
+- Art. 76 bis 78 GG: Gesetzgebungsverfahren und Bundesratsbeteiligung.
+- Art. 93 Abs. 1 Nr. 1 GG: Zuständigkeit des Bundesverfassungsgerichts für Organstreitigkeiten.
+- § 13 Nr. 5 BVerfGG, §§ 63 bis 67 BVerfGG: Beteiligte, Antrag, Frist, Entscheidung.
 
-## Fachkern: GG-Änderung Art. 79 GG
-- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
-- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
+## Zulässigkeit
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+1. **Beteiligtenfähigkeit:** Prüfe, ob Antragsteller und Antragsgegner oberste Bundesorgane oder andere Beteiligte sind, die durch das Grundgesetz oder die Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind.
+2. **Antragsgegenstand:** Maßnahme oder Unterlassung muss rechtserheblich sein. Reine politische Kritik, unhöfliche Behandlung oder bloßer Parlamentsstil genügen nicht.
+3. **Antragsbefugnis:** Möglichkeit einer Verletzung oder unmittelbaren Gefährdung eigener verfassungsrechtlicher Rechte darlegen. Fremdrechte oder allgemeine Verfassungsaufsicht tragen den Organstreit nicht.
+4. **Frist:** § 64 Abs. 3 BVerfGG: Antrag binnen sechs Monaten nach Bekanntwerden der beanstandeten Maßnahme oder Unterlassung.
+5. **Rechtsschutzbedürfnis:** Fortbestehendes Klärungsinteresse prüfen, besonders bei erledigten parlamentarischen Vorgängen.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+## Begründetheit
 
-## Prüfraster
+Der Antrag ist begründet, wenn die beanstandete Maßnahme oder Unterlassung den Antragsteller in einer eigenen verfassungsrechtlichen Rechtsposition verletzt. Baue die Prüfung nicht wie eine Grundrechtsprüfung auf, sondern aus der organschaftlichen Kompetenz- und Statusordnung des Grundgesetzes.
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+## Typische Fallgruppen
 
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- Abgeordnetenrechte aus Art. 38 Abs. 1 Satz 2 GG: Redezeit, Ausschussarbeit, Informationszugang, Mandatsausübung.
+- Fraktionsrechte: Gleichbehandlung, parlamentarische Initiativrechte, Ausschussbesetzung, Oppositionsrechte.
+- Bundesregierung/Bundestag: Unterrichtungspflichten, Auslandseinsätze, europäische Integrationsverantwortung.
+- Bundesrat: Beteiligungsrechte im Gesetzgebungsverfahren.
+- Bundespräsident: Ausfertigung, Ernennung, Entlassung und politische Neutralität in engen Ausnahmefällen.
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+## Rechtsprechungs- und Quellenarbeit
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+Arbeite nur mit verifizierten BVerfG-Entscheidungen. Eine Organstreit-Quelle ist erst tragfähig, wenn Beteiligte, angegriffene Maßnahme, geltend gemachte Rechtsposition und Tenor zum eigenen Fall passen. Bei Bundestags- und Oppositionsfällen zusätzlich den Skill `organstreit-bundestag-fraktion-opposition` heranziehen.
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+## Arbeitsprodukt
+
+Erstelle eine Organstreit-Matrix mit Beteiligtenfähigkeit, Maßnahme/Unterlassung, eigener Rechtsposition, Frist, Tenorierungsziel und Risiko. Danach folgt ein ausformulierter Antrag, eine Erwiderung oder ein internes Votum.

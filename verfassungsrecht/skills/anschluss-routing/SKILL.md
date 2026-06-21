@@ -13,6 +13,7 @@ Dieses Anschluss-Routing für **Verfassungsrecht** wählt nach dem ersten Ergebn
 
 - `acht-zahlen-schwellen-und-berechnung` — Acht Zahlen Schwellen und Berechnung
 - `bundesverfassungsgericht-quellenkarte-check` — Bundesverfassungsgericht Quellenkarte Check
+- `bverfg-prozessarten-navigator-parteien-antraege` — Statthaftigkeit und Antragstellerrolle vor dem BVerfG klären: Verfassungsbeschwerde, § 32, Organstreit, Bund-Länder-Streit, Normenkontrollen, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung und sonstige §-13-BVerfGG-Verfahren.
 - `bverfg-rechtsprechung-recherchieren` — Bverfg Rechtsprechung Recherchieren
 - `bverfg-verfahrenssicht-und-annahmerisiko` — Bverfg Verfahrenssicht und Annahmerisiko
 - `formelle-mehrparteien-konflikt-und-interessen` — Formelle Mehrparteien Konflikt und Interessen
@@ -30,6 +31,7 @@ Dieses Anschluss-Routing für **Verfassungsrecht** wählt nach dem ersten Ergebn
 ## Arbeitsweg
 
 - Ergebnis sichten: Welche Verfassungsrecht-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Wenn Akte oder Nutzer nur sagt „zum Bundesverfassungsgericht“ oder wenn Parteien, Fraktionen, Abgeordnete, Bundes-/Landesorgane, Gerichte oder Gemeinden beteiligt sind, zuerst `bverfg-prozessarten-navigator-parteien-antraege` vorschalten. Nicht vorschnell als Verfassungsbeschwerde behandeln.
 - Anschlussweichen identifizieren: drohende Frist (§ 93 BVerfGG Verfassungsbeschwerde 1 Monat nach Rechtswegerschöpfung / 1 Jahr bei Gesetzen, § 32 BVerfGG einstweilige Anordnung), notwendige Dokumente (Verfassungsbeschwerde, Antrag auf einstweilige Anordnung, Annahmebeschluss, BVerfGE-Entscheidung), nächste Verfahrensstufe oder Sachgebiet.
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Beschwerdeführer, BVerfG (1. und 2. Senat, Kammern), Landesverfassungsgerichte, EGMR oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
@@ -60,6 +62,6 @@ Dieses Anschluss-Routing für **Verfassungsrecht** wählt nach dem ersten Ergebn
 
 ### Leitentscheidungen
 
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+- BVerfG, Beschluss vom 15.01.1958, 1 BvR 400/51 (Lüth) — Drittwirkung und Wechselwirkungslehre.
+- BVerfG, Beschluss vom 24.03.2021, 1 BvR 2656/18 u. a. (Klimabeschluss) — intertemporale Freiheitssicherung.
+- BVerfG, Beschluss vom 24.06.2025, 1 BvR 2466/19 (Trojaner I) — digitale Eingriffsintensität und Sicherungen.

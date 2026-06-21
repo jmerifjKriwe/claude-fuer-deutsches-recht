@@ -23,6 +23,8 @@ Dieser Einstieg routet **Fachanwalt Vergaberecht** vom ersten Sachverhalt zu Rol
 - `konzvgv-risikoampel-und-gegenargumente` — Konzvgv Rahmenvereinbarung International
 - `mandantenpadlet-vergabe-canvas` — Mandantenpadlet Vergabe Triage Vergaberecht
 - `nachpruefungsverfahren-paragraf-160-gwb` — Nachpruefungsverfahren Paragraf 160 GWB
+- `vergabekammer-sachverhalt-abstellungsantraege` — Vergabekammer-Sachverhalt, Rügehistorie und konkrete Abstellungsanträge: Zurückversetzung, Neuwertung, Änderung der Vergabeunterlagen, Aufhebung, Akteneinsicht und Zuschlagsverbot.
+- `vergabekammer-verhandlung-vergleich-und-eskalation` — Mündliche Verhandlung, Aufklärungsrunde, Vergleichskorridor und OLG-Eskalation im laufenden VK-Verfahren.
 - `nebenabrede-paragraf-58-vgv` — Nebenabrede Paragraf 58 VGV
 - `dokumente-intake` — Dokumente Intake
 - `output-waehlen` — Output Waehlen
@@ -32,6 +34,7 @@ Dieser Einstieg routet **Fachanwalt Vergaberecht** vom ersten Sachverhalt zu Rol
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
 - Fachpfad wählen: zentrale Anker im Fachanwalt Vergaberecht sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Bei Bieterangriffen immer das **konkrete Ziel** erfragen oder aus der Akte ableiten: bloße Rüge, vorgerichtliche Abhilfe, Änderung der Vergabeunterlagen, Fristverlängerung, Wiederaufnahme des Angebots, Neuwertung, Zurückversetzung, Untersagung des Zuschlags, Unwirksamkeitsfeststellung oder Schadensersatz. Wenn dieses Ziel auf eine VK-Entscheidung oder VK-Verhandlung zuläuft, direkt zu `vergabekammer-sachverhalt-abstellungsantraege` oder `vergabekammer-verhandlung-vergleich-und-eskalation` routen.
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 

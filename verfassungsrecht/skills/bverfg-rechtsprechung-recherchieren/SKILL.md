@@ -9,7 +9,7 @@ description: "BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren 
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -115,7 +115,10 @@ Auch eine sorgfältige Recherche ersetzt nicht die anwaltliche Mandatsbearbeitun
 Die folgenden Entscheidungen sind in jüngerer Zeit für die Pluginarbeit besonders relevant. Vor Verwendung im Schriftsatz auf der offiziellen Seite [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) Rn. und Tenor verifizieren.
 
 - 1 BvL 3/22, Beschl. v. 14.11.2024 — Längerfristige Observation/Bildaufnahmen PolG NRW ohne hinreichende Eingriffsschwelle verfassungswidrig; Übergangsfortgeltung bis 31.12.2025 — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241114_1bvl000322.html).
-- 1 BvR 2466/19 (Trojaner I) und 1 BvR 180/23 (Trojaner II), beide Beschlüsse vom 07.08.2025 — präventiv-polizeirechtliche und strafprozessuale Quellen-TKÜ/Online-Durchsuchung; präventiv im Wesentlichen verfassungskonform, StPO-Befugnisse für Niedrig-Strafrahmen teilweise nichtig.
+- 1 BvR 2466/19 (Trojaner I), Beschl. v. 24.06.2025 — präventiv-polizeirechtliche Quellen-TKÜ/Online-Durchsuchung nach PolG NRW; Art. 10 GG, IT-Grundrecht, Eingriffsschwellen und flankierende Sicherungen — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250624_1bvr246619.html).
+- 1 BvR 180/23 (Trojaner II), Beschl. v. 24.06.2025 — strafprozessuale Quellen-TKÜ/Online-Durchsuchung, insbesondere Straftatenschwellen und Verhältnismäßigkeit bei niedrigeren Strafrahmen — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250624_1bvr018023.html).
+- 1 BvR 2284/23 (Triage II), Beschl. v. 23.09.2025 — Triage-Regelungen des IfSG mit dem Grundgesetz unvereinbar und nichtig; Art. 3 Abs. 3 Satz 2 GG, Schutzpflicht und Benachteiligungsverbot — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250923_1bvr228423.html).
+- 1 BvL 5/21, Beschl. v. 15.04.2026 — AsylbLG-Grundleistungen im Zeitraum 2018/2019 und Anforderungen des menschenwürdigen Existenzminimums — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/04/ls20260415_1bvl000521.html).
 - 1 BvR 2656/18 u. a. (Klimabeschluss), Beschl. v. 24.03.2021 — intertemporale Freiheitssicherung Art. 20a GG — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html).
 - Jahresbericht BVerfG 2025 (Polizeikosten Hochrisikospiele u. a.) — [PDF](https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/Jahresbericht/jahresbericht_2025.pdf).
 
@@ -138,6 +141,6 @@ Die folgenden Entscheidungen sind in jüngerer Zeit für die Pluginarbeit besond
 
 ### Leitentscheidungen
 
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+- BVerfG, Beschluss vom 15.01.1958, 1 BvR 400/51 (Lüth) — Grundrechte als objektive Wertordnung und Wechselwirkungslehre.
+- BVerfG, Beschluss vom 15.12.1983, 1 BvR 209/83 u. a. (Volkszählung) — informationelle Selbstbestimmung.
+- BVerfG, Beschluss vom 24.03.2021, 1 BvR 2656/18 u. a. (Klimabeschluss) — Art. 20a GG und intertemporale Freiheitssicherung.

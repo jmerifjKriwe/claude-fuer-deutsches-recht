@@ -1,3 +1,23 @@
+# v358.0.0 — Vergabekammer-Workflow und BVerfG-Prozessarten geschärft
+
+Gezielter Qualitäts- und Release-Sweep für Vergaberecht, Verfassungsrecht und die abgeleiteten Übersichten.
+
+## Inhalt
+
+- `fachanwalt-vergaberecht`: Vergabekammerarbeit deutlich präzisiert. Neu bzw. geschärft sind Sachverhaltsvortrag, vorgerichtliche Abhilfe, Akteneinsicht nach § 165 GWB, konkrete Abstellungsanträge nach § 168 GWB, mündliche Verhandlung, Erledigung/Rücknahme/Kosten und OLG-Reserve nach §§ 171 bis 173 GWB.
+- Alte falsche Vergabekammer-Altlogik entfernt: keine Behauptung eines pauschalen Vergleichs nach § 158 Abs. 3 GWB mehr; die Nachprüfungsfrist nach Nichtabhilfe ist als 15-Kalendertage-Frist nach § 160 Abs. 3 GWB klargestellt.
+- `verfassungsrecht`: BVerfG-Prozessarten-Navigator ergänzt und in Routing, README, Mini-Prompt und Megaprompt eingebunden. Erfasst sind Verfassungsbeschwerde, § 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, abstrakte und konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Präsidentenanklage, Richteranklage, Völkerrechtsregelprüfung, Kommunalverfassungsbeschwerde und parteibezogene Anträge.
+- Verfassungsrechtliche Grundrechtsprüfung redaktionell geglättet: wiederholte Quellenhygiene-Sätze aus dem Prüfschema entfernt und an einer passenden Stelle gebündelt.
+- Neue Insolvenzrechts-Gruppenseite unter `plugin-gruppen/insolvenzrecht/` ergänzt, damit die verschiedenen Insolvenz-/Sanierungsplugins leichter als zusammengehöriger Bereich auffindbar sind.
+
+## Sanity
+
+- Generatoren neu gelaufen: Plugin-READMEs, `SKILLS.md`, `skills-index/`, Unified Mini Prompts und Megaprompts.
+- Validatoren grün: `validate-plugin-structure`, eigener Frontmatter-Spotcheck, `git diff --check`, Gesamt-PDF 210, Testakten-ZIPs 210/5893, Einzel-PDF-ZIPs 212/5699, lokale Plugin-ZIPs 215.
+- Versionsbump 357 → 358.
+
+---
+
 # v357.0.0 — Aufräumen: 95 macOS-Duplikatdateien entfernt
 
 Sanity-Sweep über versehentlich eingecheckte macOS-/Sync-Duplikate (Dateinamen mit Suffix-Muster `… 2.md`, `… 3.py`).

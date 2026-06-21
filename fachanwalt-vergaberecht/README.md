@@ -21,7 +21,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Plugin Fachanwalt für Vergaberecht. Orientierung GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A EU-Vergabe-RL Nachprüfungsverfahren Vergabekammer OLG-Vergabesenat. Schnittstellen fachanwalt-bau-architektenrecht.
+Plugin Fachanwalt für Vergaberecht. Orientierung GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A EU-Vergabe-RL Nachprüfungsverfahren Vergabekammer OLG-Vergabesenat. Es führt nicht nur zur abstrakten Rechtsprüfung, sondern auch zu vorgerichtlicher Abhilfe, Rüge, Nachprüfungsantrag, Sachverhaltsvortrag vor der Vergabekammer, Akteneinsicht, Zurückversetzung, Neuwertung, Änderung der Vergabeunterlagen, Vergleich und sofortiger Beschwerde. Schnittstellen fachanwalt-bau-architektenrecht.
 
 ## Installation in Claude Code
 
@@ -36,6 +36,7 @@ Plugin Fachanwalt für Vergaberecht. Orientierung GWB §§ 97 ff. VgV UVgO SektV
 | Skill | Zweck |
 | --- | --- |
 | `fachanwalt-vergaberecht-orientierung` | Orientierung im Vergaberecht — FAO Voraussetzungen Normen typische Mandate Fristen Quellenprüfung. EU-Schwellenwertabhängiges Vergaberecht GWB §§ 97 ff. VgV (Vergabeverordnung) SektVO (Sektorenverordnung) KonzVgV.… |
+| `vergabekammer-sachverhalt-abstellungsantraege` | Baut aus Rügehistorie, Aktenlage und Belegen konkrete VK-Anträge: Zuschlagsuntersagung, Zurückversetzung, Neuwertung, Änderung der Unterlagen, Akteneinsicht und Vergleichsvorschlag. |
 
 ## Lizenz
 
@@ -46,7 +47,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 120 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -76,7 +77,7 @@ Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschre
 | `fachanwalt-vergaberecht-konzessionsvergabe-konzvgv` | Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung fuer Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster... |
 | `fachanwalt-vergaberecht-losbildung-mittelstandsfoerderung` | Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fac... |
 | `fachanwalt-vergaberecht-nachpruefungsantrag-vk` | Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff. GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachprüfungsantrag), § 160 Abs. 2 GWB (Antragsbefugnis droh... |
-| `fachanwalt-vergaberecht-nachpruefungsverfahren-vk` | Nachprüfungsverfahren bei der Vergabekammer durchführen: Laufendes VK-Verfahren oder Beschluss der VK liegt vor. Normen: §§ 160 ff. GWB, § 169 GWB (Suspensiveffekt Zuschlagsverbot), § 171 GWB (Sofortige Beschwerde OLG). Prüfraster: Antra... |
+| `fachanwalt-vergaberecht-nachpruefungsverfahren-vk` | Laufendes Nachprüfungsverfahren vor der Vergabekammer steuern: Rüge- und Zulässigkeitslage, Zuschlagsverbot, Akteneinsicht, Aufklärung, mündliche Verhandlung, § 168-GWB-Abstellungsziel, Kosten und sofortige Beschwerde nach §§ 171 bis 173... |
 | `fachanwalt-vergaberecht-olg-sofortige-beschwerde` | Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Auftraggeber will VK-Beschluss angreifen oder verteidigen. Normen: §§ 171-184 GWB (Beschwerde), § 172 GWB (Frist zwei Wochen ab Zustellung), § 173 GW... |
 | `fachanwalt-vergaberecht-orientierung` | Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Prüfraster: Sch... |
 | `fachanwalt-vergaberecht-ruege-vor-zuschlag` | Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvoraussetzung). Prüfraster:... |
@@ -86,7 +87,7 @@ Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschre
 | `fachanwalt-vergaberecht-uvgo-unterschwellenvergabe` | Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen. Normen: UVgO (Bund seit 2017, Laender ueberwiegend), § 55 BHO, LHO der Laender, Primaerrechtsschutz vo... |
 | `fachanwalt-vergaberecht-vergabesperre-korruption-selbstreinigung` | Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will Sperre abwenden oder beenden; Auftraggeber will sperren. Normen: §§ 123-126 GWB (zwingende und fakultative Ausschlussgruende), § 125... |
 | `fachanwalt-vergaberecht-verhandlungsverfahren-dialog` | Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren fuer komplexe Beschaffung. Normen: §§ 119 GWB, 17 VgV (Verhandlungsverfahren), § 18 VgV (Wettbewerblicher D... |
-| `fachanwalt-vergaberecht-vk-aufklaerung-vergleich` | VK-Aufklärungsverfahren und Vergleich im Vergabenachprüfungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmöglichkeit. Normen: § 158 Abs. 3 GWB (Vergleich vor VK), § 173 GWB (OLG-Beschwerdeinstanz), § 106 VwVfG (Vergleich). Prüfrast... |
+| `fachanwalt-vergaberecht-vk-aufklaerung-vergleich` | Vergabekammer-Erörterung, Akteneinsicht, Abhilfeverhandlung und Vergleichskorridor im Nachprüfungsverfahren: Sachverhalt schärfen, Aufklärungsverlangen beantworten, § 168-GWB-Abstellungsziel formulieren, Kosten- und OLG-Risiko bewerten u... |
 | `fachanwalt-vergaberecht-vob-a-bauvergabe` | VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: oeffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren. Normen: VOB-A Abschnitt 1 (Unterschwelle), VOB-A Abschnitt 2 (Oberschwelle, ergaenzend zu... |
 | `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema` | Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 1... |
 | `foerdermittelvergabe-rueckforderung` | Foerdermittelvergaben und Rueckforderungsrisiken prüfen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern: Foerdermittelvergaben und Rueckforderungsrisiken prüfen: Nebenbestimmun... |
@@ -108,7 +109,7 @@ Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschre
 | `nachpruefungsantrag-vk` | Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff: GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachprüfungsantrag), §... |
 | `nachpruefungsverfahren-paragraf-160-gwb` | Nachpruefungsverfahren § 160 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `nachpruefungsverfahren-textbausteine` | Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine: Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine. |
-| `nachpruefungsverfahren-vk` | Nachprüfungsverfahren bei der Vergabekammer durchführen: Laufendes VK-Verfahren oder Beschluss der VK liegt vor: Normen: §§ 160 ff. GWB, § 169 G... |
+| `nachpruefungsverfahren-vk` | Vergabekammerverfahren operativ führen: Zulässigkeit, Rügepräklusion, Zuschlagsverbot, Akteneinsicht, Aufklärung, mündliche Verhandlung, Abhilfe nach § 168 GWB, Kosten und OLG-Beschwerde nach §§ 171 bis 173 GWB in einen verwertbaren Schr... |
 | `nebenabrede-paragraf-58-vgv` | Nebenabrede § 58 VgV: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `oeffentlich-privat-partnerschaft` | Oeffentlich Privat Partnerschaft: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `olg-sofortige-beschwerde` | Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Auftraggeber will VK-Beschluss angreifen oder verteidigen: Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Au... |
@@ -146,8 +147,9 @@ Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschre
 | `vergabe-nachpruefung-aussicht` | Aussichten eines Vergabenachprüfungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen: Normen: §... |
 | `vergabe-os-master-orchestrator` | Vergabe-OS für Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte: Vergabe-OS für Anfaenger und Profis: erkennt Rolle... |
 | `vergabeakte-dokumentationsvermerk-builder` | Vergabeakte und Dokumentationsvermerk für Auftraggeber aufbauen: Beschaffungsbedarf, Markterkundung, Verfahrenswahl, Eignung, Wertung, Kommunikation, Entscheidungen und Nachvollziehbarkeit: Vergabeakte und Dokumentationsvermerk für Auftr... |
+| `vergabekammer-sachverhalt-abstellungsantraege` | Vergabekammer-Schriftsatz mit Sachverhalt, Rügehistorie und konkretem Abstellungsziel bauen: Zurückversetzung, Neuwertung, Änderung der Vergabeunterlagen, Aufhebung, Wiederholung von Verfahrensschritten, Akteneinsicht, Beiladung, Zuschla... |
 | `vergabekammer-termin-simulation` | Vergabekammer-Termin simulieren: Fragenkatalog, Schwachstellen, Vergleichsfenster, Antragstaktik, Mandantenbriefing und Nachterminplan: Vergabekammer-Termin simulieren: Fragenkatalog, Schwachstellen, Vergleichsfenster, Antragstaktik, Man... |
-| `vergabekammer-verhandlung-vergleich-und-eskalation` | Vergabekammer: Verhandlung, Vergleich und Eskalation: Vergabekammer: Verhandlung, Vergleich und Eskalation. |
+| `vergabekammer-verhandlung-vergleich-und-eskalation` | Mündliche Verhandlung und Erörterung vor der Vergabekammer vorbereiten: Sachverhaltslinie, Fragen der Kammer, Akteneinsicht, Geschäftsgeheimnisse, Vergleichskorridor, Abhilfeentscheidung, Zurückversetzung, Neuwertung und OLG-Eskalation. |
 | `vergaberecht-anti-korruption-paragraf-123-gwb` | Vergaberecht Anti Korruption § 123 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `vergaberecht-tatbestand-beweis-und-belege` | Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `vergaberechtliche-pruefung-anwaltlich-megaprompt` | Megaprompt fuer die vollstaendige anwaltliche vergaberechtliche Pruefung einer Auftragsvergabe aus Bieter- oder Auftraggebersicht: Anwendungsbereich GWB/VgV/SektVO/KonzVgV/VOB-A/UVgO, Schwellenwerte, Verfahrensart, Bekanntmachung TED/eFo... |
@@ -157,7 +159,7 @@ Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschre
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich):... |
 | `verhandlungsverfahren-dialog` | Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren für komplexe Beschaffung: Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog struktu... |
 | `vertragsaenderung-132-gwb-change-control` | Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prüfen: wesentliche Änderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation: Vertragsaenderungen nach Paragraph 132 GWB und Change-Control p... |
-| `vk-aufklaerung-vergleich` | VK-Aufklärungsverfahren und Vergleich im Vergabenachprüfungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmöglichkeit: Normen: §... |
+| `vk-aufklaerung-vergleich` | VK-Aufklärung und prozessuale Erledigung im Vergabenachprüfungsverfahren: Fragen der Vergabekammer beantworten, Akteneinsicht nach § 165 GWB nutzen, Abhilfe nach § 168 GWB konkretisieren und Rücknahme-, Erledigungs-, Kosten- oder OLG-Bes... |
 | `vob-a-bauvergabe` | VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren: VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeb... |
 | `vorinformation-134-gwb-stillhaltefrist` | Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist prüfen: Inhalt, Versandweg, Fristlauf, Zuschlagsverbot, Fehlerfolgen und taktische Sofortmassnahmen: Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist prüfen: Inhalt,... |
 | `wertungspreisqualitaet-matrix` | Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder prüfen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation: Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder prüfen: Zuschlagsk... |

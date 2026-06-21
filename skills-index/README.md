@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v357.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v358.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -76,7 +76,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (240 Skills)
 - [fachanwalt-transport-speditionsrecht](./fachanwalt-transport-speditionsrecht.md) (77 Skills)
 - [fachanwalt-urheber-medienrecht](./fachanwalt-urheber-medienrecht.md) (77 Skills)
-- [fachanwalt-vergaberecht](./fachanwalt-vergaberecht.md) (119 Skills)
+- [fachanwalt-vergaberecht](./fachanwalt-vergaberecht.md) (120 Skills)
 - [fachanwalt-verkehrsrecht](./fachanwalt-verkehrsrecht.md) (77 Skills)
 - [fachanwalt-versicherungsrecht](./fachanwalt-versicherungsrecht.md) (91 Skills)
 - [fachanwalt-verwaltungsrecht](./fachanwalt-verwaltungsrecht.md) (80 Skills)
@@ -205,7 +205,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [verbraucherschutzrecht-pruefer](./verbraucherschutzrecht-pruefer.md) (147 Skills)
 - [verbraucherschutzverband-durchsetzung](./verbraucherschutzverband-durchsetzung.md) (120 Skills)
 - [vereinsrecht-vereinsmanager](./vereinsrecht-vereinsmanager.md) (58 Skills)
-- [verfassungsrecht](./verfassungsrecht.md) (59 Skills)
+- [verfassungsrecht](./verfassungsrecht.md) (67 Skills)
 - [verhaeltnismaessigkeitspruefer](./verhaeltnismaessigkeitspruefer.md) (85 Skills)
 - [verkehr-infrastrukturrecht](./verkehr-infrastrukturrecht.md) (59 Skills)
 - [verkehrsowi-verteidiger](./verkehrsowi-verteidiger.md) (60 Skills)

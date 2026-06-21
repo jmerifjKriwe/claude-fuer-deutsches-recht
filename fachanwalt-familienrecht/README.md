@@ -62,7 +62,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 154 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 156 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -193,6 +193,8 @@ Automatisch generierte Komplett-Liste aller 154 Skills in diesem Plugin. Beschre
 | `unterhalt-internationaler-bezug-und-schnittstellen` | Unterhalt: Internationaler Bezug und Schnittstellen im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzb... |
 | `unterhalt-selbstaendige-einkommensaufklaerung` | Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen: N... |
 | `unterhaltsberechnung` | Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen: Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant trennt sich oder wurde getrennt und will Unte... |
+| `unterhaltsberechnung-megaprompt` | Megaprompt fuer die vollstaendige Unterhaltsberechnung im deutschen Familienrecht. Deckt alle Unterhaltsarten in einem Skill ab: Kindesunterhalt nach Duesseldorfer Tabelle (Altersstufen, Einkommensgruppen, Mindestunterhalt 1612a, Kinderg... |
+| `unterhaltsberechnung-miniprompt` | Kompakter, eigenstaendiger Mini-Prompt fuer die Unterhaltsberechnung im deutschen Familienrecht. Sparversion des Unterhaltsberechnung-Megaprompts fuer den schnellen Einsatz in Chatbots ohne Plugin: Kindesunterhalt nach Duesseldorfer Tabe... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Familienrecht: trennt fehlende Tatsachen von fehlenden Belegen (Heiratsurkunde, Scheidungsantrag, Vermögensauseinandersetzung), nennt pro Lücke Beweisthema, Beschaffungsweg (Familiengericht (A... |
 | `unternehmerversorgung-gesellschafter-geschaeftsfuehrer` | Unternehmerversorgung Gesellschafter-Geschäftsführer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ... |
 | `va-bei-lebenspartnerschaft` | VA bei Lebenspartnerschaft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: Norm-/Quellenanker: VersAusglG, FamFG Scheidungsver... |
