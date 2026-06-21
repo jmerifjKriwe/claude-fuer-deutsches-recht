@@ -1,3 +1,31 @@
+# v365.0.0 — Gerichts-Plugins: neues Staatsanwaltschafts-Plugin, Wertgrenzen 2026, generisches Maskulinum, Verfeinerung und Verifikation
+
+Abschliessender Qualitaets-Loop mit Schwerpunkt auf den 13 Gerichts-Plugins unter `gerichtsplugins/`. Die inhaltliche Anreicherung der 140 Skills (Anker-Rechtsprechung, Pruefungsschemata, Fallstricke, Tenor-Bausteine) war in v358 bis v364 vorbereitet; v365 zieht die Korrektheits- und Sprachschicht nach und vereinheitlicht die Versionierung.
+
+## Gerichts-Plugins
+
+- Wertgrenzen 2026 korrigiert: In allen 13 Gerichts-Plugins war die sachliche Zustaendigkeit des Amtsgerichts noch mit der alten Streitwertgrenze bis 5.000 Euro und die Landgerichts-Zustaendigkeit mit ab 5.001 Euro angesetzt. Nach dem Justizstandort-Staerkungsgesetz gilt seit 01.01.2026 Paragraf 23 Nummer 1 GVG mit 10.000 Euro. Korrigiert auf bis 10.000 Euro beziehungsweise ab 10.001 Euro (29 Ersetzungen in 28 Dateien); die Streitwertangabe von Testakten als Fallbetrag blieb unveraendert.
+- Generisches Maskulinum durchgaengig hergestellt: Die nachtraeglich hinzugekommenen Gerichts-Plugins verwendeten noch Doppelpunkt-Formen (Amtsrichter:in, Berichterstatter:in, Vorsitzende:r und weitere). Auf das im uebrigen Repo bereits etablierte generische Maskulinum vereinheitlicht (346 Ersetzungen in 180 Dateien, 19 Rollenbegriffe). Originalwortlaut zitierter Gerichtsentscheidungen blieb unangetastet.
+- Struktur und Formalia der 13 Plugins verifiziert: README, plugin.json, MEGAPROMPT, MINIPROMPT, Skills (12 mal 10 plus Relationstechnik 20 gleich 140) und Testakte je vollstaendig; Pflicht-Disclaimer (KI-VO Artikel 6, Anhang III Nummer 8 Buchstabe a, Artikel 49 Absatz 2, Artikel 22 DSGVO, Paragraf 353b StGB, Paragraf 43 DRiG, Schatten-KI-Ablehnung, Revisionssicherheit) in jedem README vorhanden.
+
+## Neues Plugin: Staatsanwaltschaft und Amtsanwaltschaft
+
+- Neues experimentelles Plugin `gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft` mit 24 Skills, das das staatsanwaltschaftliche Dezernat von der Erstdurchsicht des Ermittlungsvorgangs bis zur Strafvollstreckung abbildet: Anfangsverdacht und Zustaendigkeit (auch Abgrenzung Amtsanwaltschaft nach OrgStA), Ermittlungsfuehrung und Ermittlungsanweisung, Zwangsmassnahmen (Durchsuchung und Beschlagnahme, Haftbefehl, vorlaeufige Festnahme, Telekommunikationsueberwachung, koerperliche Untersuchung), Beschuldigtenvernehmung, alle Einstellungsvarianten (Paragrafen 170 Absatz 2, 153, 153a, 154, 154a StPO), Strafbefehlsantrag, Anklageschrift nach Paragraf 200 StPO, beschleunigtes Verfahren, Sicherungsverfahren und Massregeln, Einziehung und Vermoegensabschoepfung, Jugendsache und Diversion, Sitzungsdienst, Plaedoyer und Schlussvortrag, Rechtsmittel der Staatsanwaltschaft, Strafvollstreckung sowie Klageerzwingungsbescheid und Abschlussverfuegung.
+- Jeder Skill folgt dem Standard der uebrigen Gerichts-Plugins: Anker-Rechtsprechung (famose Leitentscheidungen mit Aktenzeichen sonst als st. Rspr. mit Verifikationshinweis), gestuftes Pruefungsschema, typische Fallstricke, mindestens zwei Copy-Paste-Antrags- oder Verfuegungs-Bausteine und Querverweise.
+- Disclaimer staatsanwaltschaftlich angepasst: Aktengeheimnis ueber Paragraf 353b StGB und die beamtenrechtliche Verschwiegenheit (Paragraf 37 BeamtStG beziehungsweise Paragraf 67 BBG, nicht Paragraf 43 DRiG), KI-VO Anhang III Nummer 6 (Strafverfolgung) und Nummer 8 (Justiz), Objektivitaetspflicht (Paragraf 160 Absatz 2 StPO) und Weisungsgebundenheit (Paragrafen 146, 147 GVG). Zwei Testakten (Wohnungseinbruchdiebstahl und amtsanwaltliche Ladendiebstahlssache).
+
+## Sanity und Bug-Hunt
+
+- Keine `_GERICHTE_EXPERIMENTAL`-Verweise mehr (0).
+- Description-Laengen und Zeichenregeln in den Gerichts-Plugins geprueft (0 Verstoesse): plugin.json bis 300, SKILL.md bis 1024 Zeichen, keine Komma-Zahl-Sequenzen, keine Paragraf-Zeichen, keine spitzen Klammern, Slugs nur Kleinbuchstaben.
+- Keine doppelten H1-Ueberschriften in den Gerichts-Plugin-Skills.
+
+## Versionierung
+
+- Repo-weiter Bump auf v365.0.0 (229 plugin.json inklusive des neuen Staatsanwaltschafts-Plugins, marketplace.json, README, SKILLS.md und skills-index neu erzeugt, Asset- und Testakten-Stand).
+
+---
+
 # v364.0.0 — Prozesskosten-Kniff und Remote-Aenderungen integriert
 
 - Remote-Stand von `main` als Basis uebernommen; die neuen Sammelordner-Hinweise fuer Gerichts- und Insolvenzrechts-Plugins bleiben erhalten.

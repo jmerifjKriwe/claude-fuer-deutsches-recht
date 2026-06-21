@@ -1,16 +1,16 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **25885 Skills** in **228 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **25909 Skills** in **229 Plugins**.
 
-Stand: `v364.0.0`.
+Stand: `v365.0.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien aller 228 Plugins plus Unified Mini Prompts — als echte Datei-Downloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien aller 229 Plugins plus Unified Mini Prompts — als echte Datei-Downloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Alle Unified Mini Prompts** | Pro Plugin ein kompakter Ein-Datei-Prompt bis 7.500 Zeichen fuer Chatbots ohne Plugin-Installation | [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
-| **Alle Plugins (installierbar)** | Alle 228 Plugin-ZIPs in einem Archiv (fuer Claude Code) | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
+| **Alle Plugins (installierbar)** | Alle 229 Plugin-ZIPs in einem Archiv (fuer Claude Code) | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Uebersichten | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
 Das Markdown-Paket reicht, wenn man die vollstaendigen Skills in ChatGPT, Gemini, Mistral, Le Chat oder Perplexity nutzen will. Die Unified Mini Prompts sind die Sparvariante: ein kurzer Workflow pro Plugin, wenn man nur eine einzige Markdown-Datei verwenden moechte. Das Plugin-Paket ist fuer Claude-Code-/Cowork-Nutzer. Das Komplettpaket enthaelt zusaetzlich Testakten und alle Repo-Uebersichten.
@@ -39,7 +39,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 25885 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 25909 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -264,6 +264,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **zwangsvollstreckung** | 59 | [Skills ansehen](skills-index/zwangsvollstreckung.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsvollstreckung.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsvollstreckung-skills-markdown.zip) | [Mini](unified-mini-prompts/zwangsvollstreckung.md) |
 | **richter-amtsgericht-zivil** | 10 | [Skills ansehen](skills-index/richter-amtsgericht-zivil.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-skills-markdown.zip) | [Mini](unified-mini-prompts/richter-amtsgericht-zivil.md) |
 | **richter-amtsgericht-straf** | 10 | [Skills ansehen](skills-index/richter-amtsgericht-straf.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-straf.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-straf-skills-markdown.zip) | [Mini](unified-mini-prompts/richter-amtsgericht-straf.md) |
+| **staatsanwaltschaft-amtsanwaltschaft** | 24 | [Skills ansehen](skills-index/staatsanwaltschaft-amtsanwaltschaft.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft-skills-markdown.zip) | [Mini](unified-mini-prompts/staatsanwaltschaft-amtsanwaltschaft.md) |
 | **richter-amtsgericht-insolvenz-restrukturierung** | 10 | [Skills ansehen](skills-index/richter-amtsgericht-insolvenz-restrukturierung.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-insolvenz-restrukturierung.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-insolvenz-restrukturierung-skills-markdown.zip) | [Mini](unified-mini-prompts/richter-amtsgericht-insolvenz-restrukturierung.md) |
 | **richter-amtsgericht-handelsregister** | 10 | [Skills ansehen](skills-index/richter-amtsgericht-handelsregister.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-handelsregister.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-handelsregister-skills-markdown.zip) | [Mini](unified-mini-prompts/richter-amtsgericht-handelsregister.md) |
 | **richter-landgericht-zivilkammer** | 10 | [Skills ansehen](skills-index/richter-landgericht-zivilkammer.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-landgericht-zivilkammer.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-landgericht-zivilkammer-skills-markdown.zip) | [Mini](unified-mini-prompts/richter-landgericht-zivilkammer.md) |

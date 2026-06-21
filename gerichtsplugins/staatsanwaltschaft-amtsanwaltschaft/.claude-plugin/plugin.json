@@ -1,0 +1,16 @@
+{
+  "name": "staatsanwaltschaft-amtsanwaltschaft",
+  "version": "365.0.0",
+  "description": "Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsfuehrung Ermittlungsanweisung Durchsuchung Haftbefehl Einstellung Strafbefehl Anklageschrift beschleunigtes Verfahren Einziehung Plaedoyer Rechtsmittel Vollstreckung mit Antragsvorschlag",
+  "keywords": [
+    "experimental-justiz",
+    "gericht",
+    "staatsanwaltschaft",
+    "amtsanwaltschaft",
+    "ki-vo",
+    "art-22-dsgvo",
+    "aktengeheimnis",
+    "revisionssicher"
+  ],
+  "license": "Apache-2.0"
+}

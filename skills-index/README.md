@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v364.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v365.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -180,6 +180,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [softwarerecht-de-eu-us](./softwarerecht-de-eu-us.md) (105 Skills)
 - [solo-selbststaendige-praxis](./solo-selbststaendige-praxis.md) (201 Skills)
 - [sozialversicherungsstatus-pruefer](./sozialversicherungsstatus-pruefer.md) (101 Skills)
+- [staatsanwaltschaft-amtsanwaltschaft](./staatsanwaltschaft-amtsanwaltschaft.md) (24 Skills)
 - [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (142 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (111 Skills)
 - [status-navigator-step-plan](./status-navigator-step-plan.md) (35 Skills)
