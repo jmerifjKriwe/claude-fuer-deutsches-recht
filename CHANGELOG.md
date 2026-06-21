@@ -1,3 +1,19 @@
+# v367.0.0 — Staatsanwaltschafts-Plugin: Validator-Fix der Skill-Descriptions
+
+Forward-Fix nach dem Release-Validator. Fuenf Skill-Descriptions des neuen Plugins
+`gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft` enthielten Paragrafenlisten mit
+Zahl-Komma-Zahl-Sequenzen (zum Beispiel Paragrafen 142, 143 GVG), die der
+Cowork-Strukturvalidator nicht zulaesst. Betroffen waren die Skills 02, 03, 05, 08 und
+16. Die Sequenzen wurden in Frontmatter und Zweck auf die Schreibweise mit und
+umgestellt (Paragrafen 142 und 143 GVG), sodass der Validator und der
+Release-ZIP-Build wieder durchlaufen. Inhaltlich unveraendert.
+
+## Versionierung
+
+- Repo-weiter Bump auf v367.0.0.
+
+---
+
 # v366.0.0 — Staatsanwaltschafts-Plugin: Qualitaets-Loops, Quellenhygiene und Sanity-Korrekturen
 
 Drei Verbesserungs-Loops und ein Sanity- und Bug-Hunt-Durchgang am neuen Plugin `gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft`.

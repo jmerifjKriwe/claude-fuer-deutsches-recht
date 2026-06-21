@@ -1,13 +1,13 @@
 ---
 name: 16-sicherungsverfahren-und-massregeln
-description: "Antrag im Sicherungsverfahren (Paragrafen 413 bis 416 StPO), Massregeln der Besserung und Sicherung (Paragrafen 61 ff. StGB), Unterbringung (Paragrafen 63, 64 StGB), Schuldunfaehigkeit (Paragraf 20 StGB)"
+description: "Antrag im Sicherungsverfahren (Paragrafen 413 bis 416 StPO), Massregeln der Besserung und Sicherung (Paragrafen 61 ff. StGB), Unterbringung (Paragrafen 63 und 64 StGB), Schuldunfaehigkeit (Paragraf 20 StGB)"
 ---
 
 # 16 Sicherungsverfahren Und Massregeln
 
 ## Zweck
 
-Antrag im Sicherungsverfahren (Paragrafen 413 bis 416 StPO), Massregeln der Besserung und Sicherung (Paragrafen 61 ff. StGB), Unterbringung (Paragrafen 63, 64 StGB), Schuldunfaehigkeit (Paragraf 20 StGB)
+Antrag im Sicherungsverfahren (Paragrafen 413 bis 416 StPO), Massregeln der Besserung und Sicherung (Paragrafen 61 ff. StGB), Unterbringung (Paragrafen 63 und 64 StGB), Schuldunfaehigkeit (Paragraf 20 StGB)
 
 ## Rolle
 

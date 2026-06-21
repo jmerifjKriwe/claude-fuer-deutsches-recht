@@ -1,13 +1,13 @@
 ---
 name: 03-ermittlungsfuehrung-und-ermittlungsanweisung
-description: "Sachleitungsbefugnis der Staatsanwaltschaft (Paragrafen 161, 163 StPO), Ermittlungsanweisungen an Polizei und Ermittlungspersonen (Paragraf 152 GVG), Ermittlungsplan, Beweisthemen, Aktenfuehrung"
+description: "Sachleitungsbefugnis der Staatsanwaltschaft (Paragrafen 161 und 163 StPO), Ermittlungsanweisungen an Polizei und Ermittlungspersonen (Paragraf 152 GVG), Ermittlungsplan, Beweisthemen, Aktenfuehrung"
 ---
 
 # 03 Ermittlungsfuehrung Und Ermittlungsanweisung
 
 ## Zweck
 
-Sachleitungsbefugnis der Staatsanwaltschaft (Paragrafen 161, 163 StPO), Ermittlungsanweisungen an Polizei und Ermittlungspersonen (Paragraf 152 GVG), Ermittlungsplan, Beweisthemen, Aktenfuehrung
+Sachleitungsbefugnis der Staatsanwaltschaft (Paragrafen 161 und 163 StPO), Ermittlungsanweisungen an Polizei und Ermittlungspersonen (Paragraf 152 GVG), Ermittlungsplan, Beweisthemen, Aktenfuehrung
 
 ## Rolle
 

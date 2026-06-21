@@ -1,13 +1,13 @@
 ---
 name: 02-zustaendigkeit-sta-und-amtsanwaltschaft
-description: "Sachliche und oertliche Zustaendigkeit (Paragrafen 142, 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszustaendigkeit, Abgabe und Uebernahme, Zustaendigkeit beim Amtsgericht und Landgericht"
+description: "Sachliche und oertliche Zustaendigkeit (Paragrafen 142 und 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszustaendigkeit, Abgabe und Uebernahme, Zustaendigkeit beim Amtsgericht und Landgericht"
 ---
 
 # 02 Zustaendigkeit Staatsanwaltschaft Und Amtsanwaltschaft
 
 ## Zweck
 
-Sachliche und oertliche Zustaendigkeit (Paragrafen 142, 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszustaendigkeit, Abgabe und Uebernahme, Zustaendigkeit beim Amtsgericht und Landgericht
+Sachliche und oertliche Zustaendigkeit (Paragrafen 142 und 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszustaendigkeit, Abgabe und Uebernahme, Zustaendigkeit beim Amtsgericht und Landgericht
 
 ## Rolle
 

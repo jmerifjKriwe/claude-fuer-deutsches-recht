@@ -1,13 +1,13 @@
 ---
 name: 05-haftbefehlsantrag-und-untersuchungshaft
-description: "Antrag auf Erlass eines Haftbefehls (Paragrafen 112, 112a, 114 StPO), dringender Tatverdacht, Haftgruende, Verhaeltnismaessigkeit (Paragraf 112 Abs. 1 Satz 2), Haftverschonung (Paragraf 116 StPO)"
+description: "Antrag auf Erlass eines Haftbefehls (Paragrafen 112 und 112a und 114 StPO), dringender Tatverdacht, Haftgruende, Verhaeltnismaessigkeit (Paragraf 112 Abs. 1 Satz 2), Haftverschonung (Paragraf 116 StPO)"
 ---
 
 # 05 Haftbefehlsantrag Und Untersuchungshaft
 
 ## Zweck
 
-Antrag auf Erlass eines Haftbefehls (Paragrafen 112, 112a, 114 StPO), dringender Tatverdacht, Haftgruende, Verhaeltnismaessigkeit (Paragraf 112 Abs. 1 Satz 2), Haftverschonung (Paragraf 116 StPO)
+Antrag auf Erlass eines Haftbefehls (Paragrafen 112 und 112a und 114 StPO), dringender Tatverdacht, Haftgruende, Verhaeltnismaessigkeit (Paragraf 112 Abs. 1 Satz 2), Haftverschonung (Paragraf 116 StPO)
 
 ## Rolle
 

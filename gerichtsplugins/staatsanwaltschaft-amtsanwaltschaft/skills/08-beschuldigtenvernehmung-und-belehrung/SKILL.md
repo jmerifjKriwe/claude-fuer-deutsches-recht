@@ -1,13 +1,13 @@
 ---
 name: 08-beschuldigtenvernehmung-und-belehrung
-description: "Vernehmung des Beschuldigten (Paragrafen 133, 136, 163a StPO), Belehrung ueber Schweigerecht und Verteidigerkonsultation, verbotene Vernehmungsmethoden (Paragraf 136a StPO), Verwertungsfragen"
+description: "Vernehmung des Beschuldigten (Paragrafen 133 und 136 und 163a StPO), Belehrung ueber Schweigerecht und Verteidigerkonsultation, verbotene Vernehmungsmethoden (Paragraf 136a StPO), Verwertungsfragen"
 ---
 
 # 08 Beschuldigtenvernehmung Und Belehrung
 
 ## Zweck
 
-Vernehmung des Beschuldigten (Paragrafen 133, 136, 163a StPO), Belehrung ueber Schweigerecht und Verteidigerkonsultation, verbotene Vernehmungsmethoden (Paragraf 136a StPO), Verwertungsfragen
+Vernehmung des Beschuldigten (Paragrafen 133 und 136 und 163a StPO), Belehrung ueber Schweigerecht und Verteidigerkonsultation, verbotene Vernehmungsmethoden (Paragraf 136a StPO), Verwertungsfragen
 
 ## Rolle
 
