@@ -23,6 +23,8 @@ Diese Output-Weiche für **Fachanwalt Vergaberecht** entscheidet, ob Memo, Antra
 - `konzvgv-risikoampel-und-gegenargumente` — Konzvgv Rahmenvereinbarung International
 - `mandantenpadlet-vergabe-canvas` — Mandantenpadlet Vergabe Triage Vergaberecht
 - `nachpruefungsverfahren-paragraf-160-gwb` — Nachpruefungsverfahren Paragraf 160 GWB
+- `vergabekammer-sachverhalt-abstellungsantraege` — VK-Schriftsatz, der Sachverhalt, Rügehistorie, Akteneinsicht und konkrete Abhilfeziele wie Zurückversetzung, Neuwertung oder Änderung der Unterlagen bündelt.
+- `vergabekammer-verhandlung-vergleich-und-eskalation` — Terminbriefing, Vergleichslinie, Kammerfragen und OLG-Eskalationsnotiz für das laufende Nachprüfungsverfahren.
 - `nebenabrede-paragraf-58-vgv` — Nebenabrede Paragraf 58 VGV
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
@@ -30,6 +32,7 @@ Diese Output-Weiche für **Fachanwalt Vergaberecht** entscheidet, ob Memo, Antra
 ## Arbeitsweg
 
 - Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Bei Vergabekammer-Sachen nicht nur „Nachprüfungsantrag“ wählen, sondern das **Abstellungsziel** als Outputtyp festlegen: Rüge mit Abhilfeverlangen, VK-Antrag mit Sachanträgen, Antrag auf Akteneinsicht, Antrag auf Zurückversetzung, Antrag auf Neuwertung, Änderung der Vergabeunterlagen, Aufhebung/Neustart, Vergleichsvorschlag, Terminsprechzettel oder sofortige Beschwerde.
 - Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Fachanwalt Vergaberecht (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) einarbeiten.
 - Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.

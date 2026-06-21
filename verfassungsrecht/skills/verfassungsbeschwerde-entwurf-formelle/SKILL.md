@@ -13,7 +13,7 @@ Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grun
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -189,8 +189,8 @@ Anlagen
 Stand 05/2026. Vor Verwendung im Schriftsatz Pinpoint (Rn., Tenor) auf [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
 
 - BVerfG, Beschl. v. 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen bei polizeirechtlicher Datenerhebung; Übergangsfortgeltung bis 31.12.2025; methodisch Pinpoint für Verhältnismäßigkeit/Wesentlichkeit.
-- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 2466/19 (Trojaner I) — präventiv-polizeirechtliche Quellen-TKÜ / Online-Durchsuchung, PolG NRW im Wesentlichen verfassungskonform.
-- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 180/23 (Trojaner II) — strafprozessuale Quellen-TKÜ teilweise nichtig (Niedrig-Strafrahmen).
+- BVerfG, Beschl. v. 24.06.2025 — 1 BvR 2466/19 (Trojaner I) — präventiv-polizeirechtliche Quellen-TKÜ / Online-Durchsuchung, PolG NRW, Art. 10 GG und IT-Grundrecht; Pinpoint über die amtliche Entscheidung verifizieren.
+- BVerfG, Beschl. v. 24.06.2025 — 1 BvR 180/23 (Trojaner II) — strafprozessuale Quellen-TKÜ / Online-Durchsuchung, insbesondere Straftatenschwellen und Verhältnismäßigkeit; Pinpoint über die amtliche Entscheidung verifizieren.
 - BVerfG, Beschl. v. 24.03.2021 — 1 BvR 2656/18 u. a. (Klimabeschluss) — intertemporale Freiheitssicherung; Art. 20a GG; subjektive Schutzpflicht.
 
 ## Zentrale Normen (Paragrafenkette)

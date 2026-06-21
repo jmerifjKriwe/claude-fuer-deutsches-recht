@@ -2,25 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `verfassungsrecht`.
+Dieser Megaprompt enthaelt top-10 von 67 Skills des Plugins `verfassungsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Verfassungsrecht: ordnet Rolle (Beschwerdeführer, Beschwerdegegner, BVerfG), markiert F…
-2. **bverfg-rechtsprechung-recherchieren** — BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren und für Schriftsatz aufbereiten. BVerfGG Art. 93 GG BV…
-3. **dokumente-intake** — Dokumentenintake für Verfassungsrecht: sortiert Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorl…
-4. **formelle-verfassungsmaessigkeit** — Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen A…
-5. **gesetzentwurf-gg-konformitaet-pruefen** — Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzi…
-6. **gesetzgebungskompetenz-pruefen** — Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompe…
-7. **verfassungsbeschwerde-entwurf-formelle** — Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt…
-8. **grundrechtspruefung-acht-formelle-interessen** — Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Maßnahme Grundrecht beruehrt. Art. 1-19 GG Gr…
-9. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und …
-10. **verfassungsrechtliche-pruefung** — Verfassungsrechtliche Prüfung einer Maßnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisatio…
-11. **verhaeltnismaessigkeit** — Verhältnismäßigkeitsprüfung für staatliche Maßnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVe…
-12. **verfassung-grundrechte-uebersicht** — Grundrechte des GG Überblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5…
-13. **unterlagen-luecken** — Lücken- und Beschaffungsliste für Verfassungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Letzter fachgericht…
-14. **anschluss-routing** — Anschluss-Routing für Verfassungsrecht: wählt den nächsten Spezial-Skill nach Engpass (§ 93 BVerfGG 1 Monat Verfassungsb…
-15. **vfgr-verfassungsbeschwerde-substantiierung-spezial** — Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis, Selbst- gegenwaertig- unmittel…
+2. **bverfg-prozessarten-navigator-parteien-antraege** — BVerfG-Prozessarten vollständig routen: Verfassungsbeschwerde, § 32 BVerfGG, Organstreit, Bund-Länder-Streit, abstrakte/…
+3. **bverfg-rechtsprechung-recherchieren** — BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren und für Schriftsatz aufbereiten. BVerfGG Art. 93 GG BV…
+4. **dokumente-intake** — Dokumentenintake für Verfassungsrecht: sortiert Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorl…
+5. **formelle-verfassungsmaessigkeit** — Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen A…
+6. **gesetzentwurf-gg-konformitaet-pruefen** — Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzi…
+7. **gesetzgebungskompetenz-pruefen** — Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompe…
+8. **verfassungsbeschwerde-entwurf-formelle** — Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt…
+9. **grundrechtspruefung-acht-formelle-interessen** — Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Maßnahme Grundrecht beruehrt. Art. 1-19 GG Gr…
+10. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und …
 
 ---
 
@@ -68,6 +63,86 @@ Dieser Einstieg routet **Verfassungsrecht** vom ersten Sachverhalt zu Rollen, Fr
 
 ---
 
+## Skill: `bverfg-prozessarten-navigator-parteien-antraege`
+
+_BVerfG-Prozessarten vollständig routen: Verfassungsbeschwerde, § 32 BVerfGG, Organstreit, Bund-Länder-Streit, abstrakte/konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Präsidentenanklage, Richteranklage, Völkerrechtsregelprüfung und parteibezogene Anträge._
+
+# BVerfG-Prozessarten-Navigator
+
+## Einsatzbereich
+
+Dieser Skill entscheidet, **welches Verfahren vor dem Bundesverfassungsgericht** überhaupt statthaft ist. Er verhindert, dass jeder verfassungsrechtliche Streit reflexhaft als Verfassungsbeschwerde behandelt wird. Er ist besonders wichtig, wenn Verfassungsorgane, Fraktionen, Abgeordnete, Parteien, Landesregierungen, Gerichte, Kommunen oder Bürger unterschiedliche Anträge stellen wollen.
+
+## Normenanker
+
+- Art. 18 GG, §§ 36 ff. BVerfGG: Grundrechtsverwirkung.
+- Art. 21 Abs. 2 bis 4 GG, §§ 43 ff., § 46a BVerfGG: Parteiverbot und Ausschluss von staatlicher Finanzierung.
+- Art. 41 Abs. 2 GG: Wahlprüfungsbeschwerde.
+- Art. 61 GG: Präsidentenanklage.
+- Art. 93 Abs. 1 Nr. 1 GG, §§ 63 ff. BVerfGG: Organstreit.
+- Art. 93 Abs. 1 Nr. 2 und Nr. 2a GG, §§ 76 ff. BVerfGG: abstrakte Normenkontrolle und Kompetenz-/Erforderlichkeitskontrolle.
+- Art. 93 Abs. 1 Nr. 3 und Nr. 4 GG, §§ 68 ff. BVerfGG: Bund-Länder-Streit, Zwischenländerstreit und sonstige öffentlich-rechtliche Verfassungsstreitigkeiten.
+- Art. 93 Abs. 1 Nr. 4a GG, §§ 90 ff. BVerfGG: Individualverfassungsbeschwerde.
+- Art. 93 Abs. 1 Nr. 4b GG, § 91 BVerfGG: Kommunalverfassungsbeschwerde.
+- Art. 98 Abs. 2 und Abs. 5 GG: Richteranklage.
+- Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG: konkrete Normenkontrolle.
+- Art. 100 Abs. 2 GG, §§ 83 ff. BVerfGG: Prüfung, ob eine Regel des Völkerrechts Bestandteil des Bundesrechts ist.
+- Art. 100 Abs. 3 GG, §§ 85 ff. BVerfGG: Vorlage eines Landesverfassungsgerichts zur Auslegung des Grundgesetzes.
+- § 32 BVerfGG: einstweilige Anordnung als Annex zum Hauptsacheverfahren.
+- § 13 BVerfGG: Zuständigkeitskatalog des Bundesverfassungsgerichts.
+
+## Erste Weiche: Wer stellt den Antrag?
+
+| Antragsteller | Typische Verfahren |
+| --- | --- |
+| Bürger, Unternehmen, Vereinigung | Verfassungsbeschwerde, ggf. Kommunalverfassungsbeschwerde bei Gemeinden/Gemeindeverbänden |
+| Fachgericht | konkrete Normenkontrolle nach Art. 100 Abs. 1 GG |
+| Bundestag, Bundesrat, Bundesregierung | Organstreit, abstrakte Normenkontrolle, Parteiverbot, Finanzierungsausschluss, Präsidentenanklage |
+| Fraktion oder Abgeordneter | Organstreit, meist wegen parlamentarischer Statusrechte |
+| Bundesregierung oder Landesregierung | Bund-Länder-Streit, abstrakte Normenkontrolle, Kompetenzstreit |
+| Politische Partei | häufig Organstreit oder Verfassungsbeschwerde bei eigener Rechtsbetroffenheit; Parteiverbot/Finanzierungsausschluss richtet sich gegen Parteien, wird aber von den antragsberechtigten Verfassungsorganen betrieben |
+| Gemeinde/Gemeindeverband | Kommunalverfassungsbeschwerde wegen Selbstverwaltungsrecht |
+| Landesverfassungsgericht | Vorlage nach Art. 100 Abs. 3 GG |
+
+## Zweite Weiche: Was ist der Angriffspunkt?
+
+1. **Ein Gerichtsurteil oder Verwaltungsakt verletzt Grundrechte:** Verfassungsbeschwerde, Rechtswegerschöpfung und Subsidiarität prüfen.
+2. **Ein Gesetz soll abstrakt kontrolliert werden:** abstrakte Normenkontrolle; Antragstellerkreis streng prüfen.
+3. **Ein Fachgericht hält ein Gesetz für verfassungswidrig:** konkrete Normenkontrolle; Entscheidungserheblichkeit und Überzeugung des Gerichts prüfen.
+4. **Ein Verfassungsorgan verletzt Rechte eines anderen Organs:** Organstreit; eigene organschaftliche Rechtsposition nötig.
+5. **Bund und Land streiten über Kompetenz oder Pflicht:** Bund-Länder-Streit; Beteiligtenfähigkeit nach §§ 68 ff. BVerfGG.
+6. **Partei soll verboten oder von Finanzierung ausgeschlossen werden:** Art. 21 GG; Potentialität und Finanzierungsausschluss streng trennen.
+7. **Bundestagswahl oder Mandatsverlust ist betroffen:** Wahlprüfungsbeschwerde nach vorheriger Bundestagsentscheidung.
+8. **Sofortiger irreversibler Nachteil droht:** § 32 BVerfGG zusätzlich, aber nicht als Ersatz für ein unstatthaftes Hauptsacheverfahren.
+
+## Parteibezogene Verfahren
+
+Parteien können vor dem BVerfG in mehreren Rollen auftauchen:
+
+- als **Antragstellerin**, wenn sie eigene Rechte aus Art. 21 GG, Wahlrechtsgleichheit oder Chancengleichheit im Organstreit oder per Verfassungsbeschwerde geltend macht;
+- als **Antragsgegnerin** im Parteiverbots- oder Finanzierungsausschlussverfahren;
+- als **Beschwerdeführerin** gegen wahlbezogene Entscheidungen, soweit das jeweilige Verfahrensrecht dies eröffnet;
+- als **Beteiligte** in Wahlprüfungs- oder Organstreitkonstellationen.
+
+Nicht vermischen: Ein Parteiverbotsverfahren ist kein allgemeines politisches Missbilligungsverfahren. Ein Finanzierungsausschluss nach Art. 21 Abs. 3 GG ist eigenständig und verlangt nicht dieselbe Potentialität wie das Parteiverbot.
+
+## Output
+
+Erzeuge eine Prozessarten-Matrix mit:
+
+1. Antragsteller und Antragsgegner;
+2. Angriffspunkt;
+3. statthaftem Verfahren;
+4. Normenkette;
+5. Zulässigkeitsengpass;
+6. Frist/Form;
+7. passendem Anschluss-Skill;
+8. Entwurf des nächsten Antrags oder einer kurzen Nichtstatthaftigkeitsnotiz.
+
+Wenn mehrere Verfahren in Betracht kommen, ordne sie nach Geschwindigkeit, Zulässigkeitsrisiko, Rechtsschutzziel und politisch-praktischer Wirkung.
+
+---
+
 ## Skill: `bverfg-rechtsprechung-recherchieren`
 
 _BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren und für Schriftsatz aufbereiten. BVerfGG Art. 93 GG BVerfG-Judikatur. Prüfraster: Leitsaetze Tragsaetze obiter dicta Randnummern-Suche Weiterführung durch Folge-Rspr. Output: Rechtsprechungsueberblick Zitatliste Leitentscheidungen...._
@@ -78,7 +153,7 @@ _BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren und für Schr
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -184,7 +259,10 @@ Auch eine sorgfältige Recherche ersetzt nicht die anwaltliche Mandatsbearbeitun
 Die folgenden Entscheidungen sind in jüngerer Zeit für die Pluginarbeit besonders relevant. Vor Verwendung im Schriftsatz auf der offiziellen Seite [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) Rn. und Tenor verifizieren.
 
 - 1 BvL 3/22, Beschl. v. 14.11.2024 — Längerfristige Observation/Bildaufnahmen PolG NRW ohne hinreichende Eingriffsschwelle verfassungswidrig; Übergangsfortgeltung bis 31.12.2025 — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241114_1bvl000322.html).
-- 1 BvR 2466/19 (Trojaner I) und 1 BvR 180/23 (Trojaner II), beide Beschlüsse vom 07.08.2025 — präventiv-polizeirechtliche und strafprozessuale Quellen-TKÜ/Online-Durchsuchung; präventiv im Wesentlichen verfassungskonform, StPO-Befugnisse für Niedrig-Strafrahmen teilweise nichtig.
+- 1 BvR 2466/19 (Trojaner I), Beschl. v. 24.06.2025 — präventiv-polizeirechtliche Quellen-TKÜ/Online-Durchsuchung nach PolG NRW; Art. 10 GG, IT-Grundrecht, Eingriffsschwellen und flankierende Sicherungen — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250624_1bvr246619.html).
+- 1 BvR 180/23 (Trojaner II), Beschl. v. 24.06.2025 — strafprozessuale Quellen-TKÜ/Online-Durchsuchung, insbesondere Straftatenschwellen und Verhältnismäßigkeit bei niedrigeren Strafrahmen — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250624_1bvr018023.html).
+- 1 BvR 2284/23 (Triage II), Beschl. v. 23.09.2025 — Triage-Regelungen des IfSG mit dem Grundgesetz unvereinbar und nichtig; Art. 3 Abs. 3 Satz 2 GG, Schutzpflicht und Benachteiligungsverbot — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250923_1bvr228423.html).
+- 1 BvL 5/21, Beschl. v. 15.04.2026 — AsylbLG-Grundleistungen im Zeitraum 2018/2019 und Anforderungen des menschenwürdigen Existenzminimums — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/04/ls20260415_1bvl000521.html).
 - 1 BvR 2656/18 u. a. (Klimabeschluss), Beschl. v. 24.03.2021 — intertemporale Freiheitssicherung Art. 20a GG — [URL](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html).
 - Jahresbericht BVerfG 2025 (Polizeikosten Hochrisikospiele u. a.) — [PDF](https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/Jahresbericht/jahresbericht_2025.pdf).
 
@@ -207,9 +285,9 @@ Die folgenden Entscheidungen sind in jüngerer Zeit für die Pluginarbeit besond
 
 ### Leitentscheidungen
 
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+- BVerfG, Beschluss vom 15.01.1958, 1 BvR 400/51 (Lüth) — Grundrechte als objektive Wertordnung und Wechselwirkungslehre.
+- BVerfG, Beschluss vom 15.12.1983, 1 BvR 209/83 u. a. (Volkszählung) — informationelle Selbstbestimmung.
+- BVerfG, Beschluss vom 24.03.2021, 1 BvR 2656/18 u. a. (Klimabeschluss) — Art. 20a GG und intertemporale Freiheitssicherung.
 
 ---
 
@@ -285,7 +363,7 @@ Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -446,7 +524,7 @@ Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren 
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -618,7 +696,7 @@ _Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvor
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -780,7 +858,7 @@ Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grun
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -956,8 +1034,8 @@ Anlagen
 Stand 05/2026. Vor Verwendung im Schriftsatz Pinpoint (Rn., Tenor) auf [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
 
 - BVerfG, Beschl. v. 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen bei polizeirechtlicher Datenerhebung; Übergangsfortgeltung bis 31.12.2025; methodisch Pinpoint für Verhältnismäßigkeit/Wesentlichkeit.
-- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 2466/19 (Trojaner I) — präventiv-polizeirechtliche Quellen-TKÜ / Online-Durchsuchung, PolG NRW im Wesentlichen verfassungskonform.
-- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 180/23 (Trojaner II) — strafprozessuale Quellen-TKÜ teilweise nichtig (Niedrig-Strafrahmen).
+- BVerfG, Beschl. v. 24.06.2025 — 1 BvR 2466/19 (Trojaner I) — präventiv-polizeirechtliche Quellen-TKÜ / Online-Durchsuchung, PolG NRW, Art. 10 GG und IT-Grundrecht; Pinpoint über die amtliche Entscheidung verifizieren.
+- BVerfG, Beschl. v. 24.06.2025 — 1 BvR 180/23 (Trojaner II) — strafprozessuale Quellen-TKÜ / Online-Durchsuchung, insbesondere Straftatenschwellen und Verhältnismäßigkeit; Pinpoint über die amtliche Entscheidung verifizieren.
 - BVerfG, Beschl. v. 24.03.2021 — 1 BvR 2656/18 u. a. (Klimabeschluss) — intertemporale Freiheitssicherung; Art. 20a GG; subjektive Schutzpflicht.
 
 ## Zentrale Normen (Paragrafenkette)
@@ -991,7 +1069,7 @@ Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Ma�
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -1005,25 +1083,20 @@ Grundrechtsprüfungen sind hochkomplex und in der konkreten Anwendung nur durch 
 
 ## Quellenpflicht
 
-Skill `bverfg-rechtsprechung-recherchieren` zuerst aufrufen. Pinpoint Az. + Rn. + URL pro tragender Aussage.
+Skill `bverfg-rechtsprechung-recherchieren` zuerst aufrufen. Tragende Rechtsprechung wird nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, Randnummer und frei oder amtlich prüfbarer URL eingesetzt; keine Entscheidung wird aus Modellwissen erzwungen.
 
 ## Grundschema: Schutzbereich – Eingriff – Rechtfertigung
 
 ### Schritt 1 — Schutzbereichseröffnung
 
 #### 1a. Persönlicher Schutzbereich
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Jedermanngrundrechte:** Art. 1, 2, 3, 4, 5, 10, 13, 14, 17 GG — alle natürlichen Personen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 1b. Sachlicher Schutzbereich
 
 Was schützt das Grundrecht? Wortlaut, Systematik, Telos. Bei der Bestimmung **nicht restriktiv** vorgehen (in dubio pro libertate).
 
 **Standard-Schutzbereiche** (mit Pinpoint live nachrecherchieren):
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Art. 4 Abs. 1, 2 GG:** Glaubens-, Gewissens- und Bekenntnisfreiheit — vorbehaltlos.
 - **Art. 5 Abs. 1 GG:** Meinungs-, Informations-, Presse-, Rundfunk- und Filmfreiheit.
 - **Art. 5 Abs. 3 GG:** Kunst- und Wissenschaftsfreiheit — vorbehaltlos.
@@ -1043,8 +1116,6 @@ Final, unmittelbar, rechtsförmig, mit Befehl und Zwang.
 #### 2b. Moderner Eingriffsbegriff
 
 Jede dem Staat zurechenbare Beeinträchtigung des grundrechtlich geschützten Verhaltens. Erfasst auch:
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Faktische Eingriffe** (Maßnahmen ohne Zwang, die das geschützte Verhalten erschweren).
 - **Schutzpflicht-Verletzungen** (untermaß-Verbot bei Schutz vor Dritten).
 
@@ -1072,13 +1143,10 @@ Die Schranke darf ihrerseits nicht gegen Verfassungsrecht verstoßen:
 2. **Wesensgehaltsgarantie** (Art. 19 Abs. 2 GG): absoluter Kernbereich darf nicht verletzt werden.
 3. **Zitiergebot** (Art. 19 Abs. 1 S. 2 GG, nur bei einschränkenden Gesetzen mit Wirkungsabsicht auf das Grundrecht).
 4. **Allgemeinheit** (Art. 19 Abs. 1 S. 1 GG).
-5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-6. **Spezifische Vorgaben des qualifizierten Vorbehalts** (z. B. Allgemeinheit des Gesetzes bei Art. 5 Abs. 2 GG).
-7. **Bestimmtheitsgebot, Wesentlichkeit** (siehe Skill `formelle-verfassungsmaessigkeit`).
+5. **Spezifische Vorgaben des qualifizierten Vorbehalts** (z. B. Allgemeinheit des Gesetzes bei Art. 5 Abs. 2 GG).
+6. **Bestimmtheitsgebot, Wesentlichkeit** (siehe Skill `formelle-verfassungsmaessigkeit`).
 
 ### Schritt 4 — Spezielle Strukturen einzelner Grundrechte
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Stufe | Charakter | Rechtfertigungsanforderung |
 | --- | --- | --- |
@@ -1091,19 +1159,16 @@ Eingriff stets auf der **geringstmöglichen Stufe**.
 #### 4b. Art. 14 GG — Eigentum
 
 - Drei Eingriffsformen: **Inhalts- und Schrankenbestimmung** (Art. 14 Abs. 1 S. 2 GG), **Enteignung** (Art. 14 Abs. 3 GG), **ausgleichspflichtige Inhalts- und Schrankenbestimmung**.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 4c. Art. 8 GG — Versammlung
 
 - Versammlungsbegriff: gemeinsame Erörterung oder Kundgabe auf Teilnahme an öffentlicher Meinungsbildung gerichtet.
 - Versammlungen **unter freiem Himmel:** qualifizierter Gesetzesvorbehalt Art. 8 Abs. 2 GG.
 - **In geschlossenen Räumen:** vorbehaltlos.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 4d. Art. 5 Abs. 1 GG — Meinungsfreiheit
 
 - Tatsachenbehauptungen sind geschützt, **soweit** sie Voraussetzung der Meinungsbildung sind; **unwahre und bewusst unwahre** Tatsachenbehauptungen sind nicht geschützt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Wechselwirkungslehre Lüth.
 
 ### Schritt 5 — Konkurrenzen
@@ -1161,7 +1226,7 @@ _Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -1169,7 +1234,7 @@ _Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Verfassungsrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und Verfassungsbeschwerde.
+**Arbeitsfokus:** Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Der Einstieg erkennt, ob die Akte in Richtung Verfassungsbeschwerde, Eilantrag nach § 32 BVerfGG, Organstreit, Bund-Länder-Streit, abstrakte oder konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Präsidenten-/Richteranklage, Grundrechtsprüfung, Gesetzgebungskompetenz oder EU-Grundrechte führt, und verlangt für tragende Aussagen einen BVerfG-Pinpoint aus amtlicher oder frei prüfbarer Quelle.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -1180,7 +1245,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
 2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
 3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
-4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
+4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder in der verfassungsrechtlichen Akte wirklich trägt.
 5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
 6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
 
@@ -1261,6 +1326,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
+| `bverfg-prozessarten-navigator-parteien-antraege` | Wenn unklar ist, welches BVerfG-Verfahren statthaft ist; besonders bei Verfassungsorganen, Fraktionen, Parteien, Landesregierungen, Gerichten, Kommunen oder parallelem §-32-Antrag. |
 | `bverfg-rechtsprechung-recherchieren` | BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren und für Schriftsatz aufbereiten. BVerfGG Art. 93 GG BVerfG-Judikatur. Prüfraster: Leitsaetze Tragsaetze obiter dicta Randnummern-Suche Weiterführung… |
 | `formelle-verfassungsmaessigkeit` | Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG… |
 | `gesetzentwurf-gg-konformitaet-pruefen` | Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG… |
@@ -1363,525 +1429,10 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 ### Aktuelle Linien 2024-2026 (Pinpoint-Recherche vor Verwendung pflicht)
 
 - BVerfG, Beschl. v. 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Längerfristige Observation unter Anfertigung von Bildaufnahmen ohne hinreichende Eingriffsschwelle unvereinbar mit Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG; Übergangsfortgeltung bis 31.12.2025 — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241114_1bvl000322.html).
-- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 2466/19 (Trojaner I, PolG NRW Quellen-TKÜ / Online-Durchsuchung präventiv) — polizeirechtliche Befugnisse im Wesentlichen verfassungskonform — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
-- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 180/23 (Trojaner II, Quellen-TKÜ / Online-Durchsuchung StPO) — strafprozessuale Quellen-TKÜ für Taten mit niedrigem Strafrahmen teilweise nichtig — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
+- BVerfG, Beschl. v. 24.06.2025 — 1 BvR 2466/19 (Trojaner I, PolG NRW Quellen-TKÜ / Online-Durchsuchung präventiv) — polizeirechtliche Befugnisse, Art. 10 GG und IT-Grundrecht — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250624_1bvr246619.html) verifizieren.
+- BVerfG, Beschl. v. 24.06.2025 — 1 BvR 180/23 (Trojaner II, Quellen-TKÜ / Online-Durchsuchung StPO) — strafprozessuale Befugnisse, Straftatenschwellen und Verhältnismäßigkeit — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250624_1bvr018023.html) verifizieren.
 - BVerfG, Klimabeschluss vom 24.03.2021 — 1 BvR 2656/18 u. a. — intertemporale Freiheitssicherung — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html).
 - BVerfG, Jahresbericht 2025 — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/Jahresbericht/jahresbericht_2025.pdf).
-
----
-
-## Skill: `verfassungsrechtliche-pruefung`
-
-_Verfassungsrechtliche Prüfung einer Maßnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU-Recht. Output: umfassendes Verfassungsprüfmemo. Abgrenzung..._
-
-# Verfassungsrechtliche Prüfung — Master-Workflow
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Verfassungsrechtliche Prüfung — Master-Workflow
-- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
-- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
-
-## Disclaimer (Schlüsselstelle, mehrfach)
-
-Verfassungsrechtliche Prüfungen sind hochspezialisiert und haben existentielle Folgen für Mandanten und Allgemeinheit. Diese Prüfung ist **kein Ersatz** für anwaltliche Mandatsbearbeitung durch eine verfassungsrechtliche Spezialkanzlei. Bei konkreten Vorhaben (Verfassungsbeschwerde, Stellungnahme, Gutachten) ist eine Spezialkanzlei einzuschalten.
-
-## Quellenpflicht
-
-Vor jeder verfassungsrechtlichen Aussage ist Skill `bverfg-rechtsprechung-recherchieren` aufzurufen. Jede tragende Aussage benötigt einen BVerfG-Pinpoint (Az. + Rn. + URL).
-
-## Prüfungsgegenstand klären
-
-Vor Beginn der Prüfung ist zu klären, was eigentlich geprüft wird:
-
-- **Formelles Gesetz** (Bundes- oder Landesgesetz)
-- **Rechtsverordnung** (Prüfung gegen Ermächtigungsnorm und unmittelbar gegen GG)
-- **Satzung**
-- **Verwaltungsakt** oder sonstige Maßnahme der vollziehenden Gewalt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Gesamtschema
-
-### A. Formelle Verfassungsmäßigkeit
-
-**Skill aufrufen:** `gesetzgebungskompetenz-pruefen` und `formelle-verfassungsmaessigkeit`.
-
-1. **Zuständigkeit (Gesetzgebungskompetenz)**
- - Art. 70 GG (Grundregel: Länder, soweit GG nicht Bund)
- - Art. 71–72 GG (ausschließliche und konkurrierende Gesetzgebung)
- - Art. 73 GG (Katalog Bund ausschließlich)
- - Art. 74 GG (Katalog konkurrierend) ggf. mit Art. 72 Abs. 2 GG (Erforderlichkeitsklausel) oder Art. 72 Abs. 3 GG (Abweichungsgesetzgebung)
- - Art. 75 GG a.F. (Rahmengesetzgebung) — **seit Föderalismusreform 2006 abgeschafft**
- - Bei Verwaltungskompetenzen: Art. 83 ff. GG
-
-2. **Verfahren (Art. 76–82 GG)**
- - Einbringung (Art. 76 GG)
- - Drei Lesungen im Bundestag (§§ 78–86 GOBT)
- - Beteiligung Bundesrat (Art. 77, 78 GG — Zustimmungs- vs. Einspruchsgesetz)
- - Ausfertigung durch Bundespräsidenten (Art. 82 Abs. 1 S. 1 GG)
- - Verkündung im Bundesgesetzblatt (Art. 82 Abs. 1 S. 1 GG)
-
-3. **Form**
- - Bestimmtheitsgebot (rechtsstaatliches Erfordernis)
- - Zitiergebot (Art. 19 Abs. 1 S. 2 GG bei Grundrechtseinschränkungen)
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### B. Materielle Verfassungsmäßigkeit
-
-**Skill aufrufen:** `grundrechtspruefung` und `verhaeltnismaessigkeit`.
-
-Pro betroffenem Grundrecht und pro betroffener Verfassungsnorm separat:
-
-1. **Schutzbereichseröffnung** — persönlich und sachlich
-2. **Eingriff** — modern: jede Beeinträchtigung des Schutzbereichs, klassisch: final, unmittelbar, rechtsförmig, mit Befehl/Zwang
-3. **Verfassungsrechtliche Rechtfertigung**
- - Schranke (einfacher Gesetzesvorbehalt, qualifizierter Vorbehalt, verfassungsimmanente Schranken bei vorbehaltlosen Grundrechten)
- - Schranken-Schranken (Verhältnismäßigkeit, Wesensgehalt Art. 19 Abs. 2 GG, Zitiergebot Art. 19 Abs. 1 S. 2 GG, allgemeine Geltung Art. 19 Abs. 1 S. 1 GG, Wechselwirkung)
- - **Verhältnismäßigkeit** (Skill `verhaeltnismaessigkeit`): legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit
-
-4. **Sonstige verfassungsrechtliche Bindungen**
- - Bundesstaatsprinzip Art. 20 Abs. 1 GG
- - Demokratieprinzip Art. 20 Abs. 1, 2 GG
- - Rechtsstaatsprinzip Art. 20 Abs. 3 GG (Vertrauensschutz, Rückwirkungsverbot, Bestimmtheit)
- - Sozialstaatsprinzip Art. 20 Abs. 1 GG
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### C. Gesamtergebnis
-
-- Wenn formell **und** materiell verfassungsgemäß: Norm/Maßnahme bestätigt.
-- Wenn ein Prüfungspunkt scheitert: Norm/Maßnahme verfassungswidrig.
-- Bei verfassungskonformer Auslegung: Auslegung formulieren, die Norm und GG vereinbart (Grenzen: Wortlaut und gesetzgeberischer Wille).
-
-## Output-Format
-
-```
-VERFASSUNGSRECHTLICHE PRÜFUNG
-
-Prüfungsgegenstand: <Norm / Maßnahme>
-
-A. Formelle Verfassungsmäßigkeit
-1. Gesetzgebungskompetenz
- - Einschlägig: Art. ___ GG
- - Ergebnis: [vereinbar / unvereinbar]
- - BVerfG-Pinpoint: ___
-2. Verfahren
- - Einbringung Art. 76 GG: ___
- - Drei Lesungen: ___
- - Bundesrat (Art. 77, 78 GG): ___
- - Ausfertigung Art. 82 GG: ___
-3. Form
- - Bestimmtheit: ___
- - Zitiergebot Art. 19 Abs. 1 S. 2 GG: ___
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-B. Materielle Verfassungsmäßigkeit
-1. Grundrecht ___
- - Schutzbereich: ___
- - Eingriff: ___
- - Rechtfertigung: Schranke ___ / Schranken-Schranken
- - Verhältnismäßigkeit:
- - Legitimer Zweck: ___
- - Geeignetheit: ___
- - Erforderlichkeit: ___
- - Angemessenheit: ___
- - BVerfG-Pinpoint: ___
-
-C. Gesamtergebnis
-[verfassungsgemäß / verfassungswidrig / verfassungskonform auslegbar]
-
-Quellen
-- [Liste aller BVerfG-Entscheidungen mit Az., Rn., URL]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Disclaimer-Wiederholung (vor jedem Output)
-
-Diese Prüfung ist eine strukturierte Modellauswertung und **kein Ersatz** für anwaltliche Mandatsbearbeitung. Insbesondere die Beurteilung der Vereinbarkeit konkreter Normen mit dem GG bleibt im Streitfall dem BVerfG vorbehalten (Verwerfungsmonopol Art. 100 GG).
-
----
-
-## Skill: `verhaeltnismaessigkeit`
-
-_Verhältnismäßigkeitsprüfung für staatliche Maßnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenprüfung Abwaegung. Output: Verhältnismäßigkeitsprüfschema Ergebnis Argument..._
-
-# Verhältnismäßigkeit (Vier-Stufen-Prüfung)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Verhältnismäßigkeit (Vier-Stufen-Prüfung)
-- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
-- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
-
-## Disclaimer
-
-Verhältnismäßigkeitsprüfungen sind regelmäßig der Kern jeder Grundrechtsprüfung und im Streitfall nur durch das BVerfG verbindlich entscheidbar. Diese Prüfung ist eine Unterstützung, **kein Ersatz** für anwaltliche Beratung.
-
-## Quellenpflicht
-
-Skill `bverfg-rechtsprechung-recherchieren` zuerst. Pinpoint pro tragender Aussage.
-
-## Grundsätzliches
-
-- Die Verhältnismäßigkeit ist die **wichtigste Schranken-Schranke**.
-- Sie wurzelt im **Rechtsstaatsprinzip** (Art. 20 Abs. 3 GG) und im Wesen der Grundrechte selbst.
-- **Stufenverhältnis:** Die vier Prüfungspunkte stehen in einem Stufenverhältnis. Wird ein Punkt verneint, ist die Prüfung beendet — der Eingriff ist unverhältnismäßig.
-
-## Die vier Stufen
-
-### Stufe 1 — Legitimer Zweck
-
-**Frage:** Verfolgt der Eingriff einen verfassungsrechtlich nicht missbilligten Zweck?
-
-- Bei einfachem Gesetzesvorbehalt: jeder Zweck, der das Grundgesetz nicht verbietet.
-- Bei qualifiziertem Vorbehalt: nur Zwecke, die der qualifizierte Vorbehalt erlaubt (z. B. "Schutz der Jugend" und "Schutz der persönlichen Ehre" bei Art. 5 Abs. 2 GG).
-- Bei vorbehaltlosem Grundrecht: nur **kollidierendes Verfassungsrecht** (verfassungsimmanente Schranken).
-- **Wichtig:** Nicht der subjektive, sondern der **objektive** Zweck der Norm zählt.
-
-**Häufige Fehler:** Zweck als bloße Wiederholung des Eingriffs ("Verbot von X zum Zweck, X zu verbieten") — das ist kein legitimer Zweck.
-
-### Stufe 2 — Geeignetheit
-
-**Frage:** Ist das Mittel zur Erreichung des Zwecks geeignet?
-
-- **Maßstab:** Das Mittel muss den Zweck **fördern können** (nicht: vollständig erreichen).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Eingeschränkter Maßstab: **Evident ungeeignet** bedeutet verfassungswidrig.
-
-### Stufe 3 — Erforderlichkeit
-
-**Frage:** Gibt es kein milderes, gleich wirksames Mittel?
-
-- **Maßstab:** ein anderes Mittel muss
- - die Grundrechte des Betroffenen **weniger intensiv** einschränken **und**
- - den Zweck **gleich wirksam** erreichen.
-- Strikter Maßstab — Einschätzungsspielraum des Gesetzgebers ist hier geringer als bei Geeignetheit.
-- Häufiger Knackpunkt: Sind Selbstregulierung, Aufklärungspflichten, Erlaubnisvorbehalt mit Auflagen, mildere Sanktion etc. gleich wirksam wie das gewählte Mittel?
-
-### Stufe 4 — Angemessenheit (Verhältnismäßigkeit im engeren Sinne)
-
-**Frage:** Steht der Eingriff in angemessenem Verhältnis zum verfolgten Zweck?
-
-**Gesamtabwägung** zwischen:
-
-- Schwere des Eingriffs (Tiefe, Breite, Dauer, Reversibilität)
-- Gewicht der durch den Eingriff geschützten Belange
-- Wahrscheinlichkeit des Schadenseintritts ohne den Eingriff
-- Eingriffsintensität auf Grundrechtsseite
-
-**Indikatoren für hohe Eingriffsintensität** (Verschärfung der Anforderungen):
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Heimliche Eingriffe ohne Kenntnis des Betroffenen
-- Streubreite (viele Unbeteiligte betroffen)
-- Lange Dauer / Dauerwirkung
-- Irreversibilität
-- Doppelte oder kumulative Belastung
-
-**Indikatoren für hohes Gewicht des Zwecks:**
-
-- Schutz überragend wichtiger Gemeinschaftsgüter (Leben, Gesundheit, äußere und innere Sicherheit)
-- Hohe Wahrscheinlichkeit schwerer Schäden bei Untätigkeit
-
-### Praktische Konkordanz (bei vorbehaltlosen Grundrechten)
-
-Bei Eingriff in ein vorbehaltlos gewährtes Grundrecht und kollidierendem Verfassungsrecht:
-
-- **Praktische Konkordanz** als Methode der Abwägung: Beide Rechtsgüter sind so zu balancieren, dass jedes größtmögliche Wirksamkeit entfaltet.
-- Kein vorrangiges Verfassungsgut. Es gibt keine Hierarchie zwischen Grundrechten.
-
-## Spezielle Fallgruppen
-
-### Klimaschutz und intertemporale Freiheitssicherung
-
-BVerfG, Beschl. v. 24.03.2021 — 1 BvR 2656/18 u. a. (Klimabeschluss) — Schutzauftrag aus Art. 20a GG; eingriffsähnliche Vorwirkung gegenwärtiger Untätigkeit auf künftige Freiheitsräume; Maßstab der intertemporalen Freiheitssicherung — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html). EGMR-Linie ergänzend: KlimaSeniorinnen gegen Schweiz, Urt. v. 09.04.2024 — Bf-Nr. 53600/20 (Verletzung Art. 8 EMRK durch unzureichende Klimamaßnahmen) — [hudoc.echr.coe.int](https://hudoc.echr.coe.int).
-
-### Triage
-
-Rechtsprechung zur "Triage" (Pandemie-Priorisierung) live über [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren — keine Aktenzeichen aus Modellwissen. Methodisch zentral: Verhältnismäßigkeit von Schutzpflichten aus Art. 3 Abs. 3 S. 2 GG (Verbot der Benachteiligung wegen Behinderung) und Art. 2 Abs. 2 S. 1 GG.
-
-### Online-Durchsuchung / IT-Grundrecht / Quellen-TKÜ
-
-- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 2466/19 (Trojaner I) — präventiv-polizeirechtliche Quellen-TKÜ und Online-Durchsuchung nach PolG NRW im Wesentlichen verfassungskonform — vor Ausgabe live verifizieren.
-- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 180/23 (Trojaner II) — strafprozessuale Quellen-TKÜ für Niedrig-Strafrahmen teilweise nichtig.
-- BVerfG, Beschl. v. 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwelle für längerfristige Observation mit Bildaufnahmen.
-
-## Output-Format
-
-```
-VERHÄLTNISMÄSSIGKEITSPRÜFUNG
-
-Eingriff: ___
-Betroffenes Grundrecht: Art. ___ GG
-
-1. Legitimer Zweck
- - Verfolgter Zweck: ___
- - Verfassungsrechtlich nicht missbilligt: [ja / nein]
- - BVerfG-Pinpoint: ___
-
-2. Geeignetheit
- - Zweckförderung: ___
- - Einschätzungsspielraum: ___
- - Ergebnis: [geeignet / evident ungeeignet]
-
-3. Erforderlichkeit
- - Mildere Mittel geprüft: ___
- - Gleich wirksam: [ja / nein]
- - Ergebnis: [erforderlich / nicht erforderlich]
-
-4. Angemessenheit
- - Eingriffstiefe: ___
- - Geschützte Belange: ___
- - Abwägung: ___
- - BVerfG-Pinpoint: ___
- - Ergebnis: [angemessen / unangemessen]
-
-Gesamtergebnis: [verhältnismäßig / unverhältnismäßig auf Stufe ___]
-```
-
-## Disclaimer-Wiederholung
-
-Die Verhältnismäßigkeitsabwägung ist im konkreten Einzelfall hochsensibel und wird im Streitfall verbindlich nur durch das BVerfG entschieden.
-
----
-
-## Skill: `verfassung-grundrechte-uebersicht`
-
-_Grundrechte des GG Überblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken, Schranken-Schranken im Verfassungsrecht._
-
-# Grundrechte Überblick
-
-## Arbeitsbereich
-
-Grundrechte des GG Überblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken, Schranken-Schranken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Grundrechte Überblick
-- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
-- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `unterlagen-luecken`
-
-_Lücken- und Beschaffungsliste für Verfassungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss), nennt pro Lücke Beweisthema, Beschaffungsweg (BVerfG), Frist und Ersatznachweis._
-
-# Unterlagen und Lücken
-
-## Einsatzlage
-
-Diese Unterlagenprüfung für **Verfassungsrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
-
-## Fachlandkarte dieses Plugins
-
-- `acht-zahlen-schwellen-und-berechnung` — Acht Zahlen Schwellen und Berechnung
-- `bundesverfassungsgericht-quellenkarte-check` — Bundesverfassungsgericht Quellenkarte Check
-- `bverfg-rechtsprechung-recherchieren` — Bverfg Rechtsprechung Recherchieren
-- `bverfg-verfahrenssicht-und-annahmerisiko` — Bverfg Verfahrenssicht und Annahmerisiko
-- `formelle-mehrparteien-konflikt-und-interessen` — Formelle Mehrparteien Konflikt und Interessen
-- `formelle-verfassungsmaessigkeit` — Formelle Verfassungsmaessigkeit
-- `gesetzentwurf-gg-konformitaet-pruefen` — Gesetzentwurf GG Konformitaet Prüfen
-- `gesetzgebungskompetenz-grundrechtspruefung` — Gesetzgebungskompetenz Grundrechtspruefung
-- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz Prüfen
-- `grundgesetz-fristen-form-und-zustaendigkeit` — Grundgesetz Fristen Form und Zustaendigkeit
-- `grundrechte-fehlerkatalog` — Grundrechte Fehlerkatalog
-- `grundrechtspruefung-acht-formelle-interessen` — Grundrechtspruefung Acht Formelle Interessen
-- `grundrechtspruefung-und-verhaeltnismaessigkeit` — Grundrechtspruefung und Verhältnismäßigkeit
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
-
-## Arbeitsweg
-
-- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Verfassungsrecht-Frage zwingend (Verfassungsbeschwerde, Antrag auf einstweilige Anordnung, Annahmebeschluss, BVerfGE-Entscheidung)?
-- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
-- Lückenliste priorisieren nach: fristrelevant (§ 93 BVerfGG Verfassungsbeschwerde 1 Monat nach Rechtswegerschöpfung / 1 Jahr bei Gesetzen, § 32 BVerfGG einstweilige Anordnung), beweisrelevant, formerheblich.
-- Rückfrageschreiben an Beschwerdeführer, BVerfG (1. und 2. Senat, Kammern), Landesverfassungsgerichte, EGMR entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
-- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
----
-
-## Skill: `anschluss-routing`
-
-_Anschluss-Routing für Verfassungsrecht: wählt den nächsten Spezial-Skill nach Engpass (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde, Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss), dokumentiert Router-Entscheidung mit Begründung._
-
-# Anschluss-Routing
-
-## Einsatzlage
-
-Dieses Anschluss-Routing für **Verfassungsrecht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
-
-## Fachlandkarte dieses Plugins
-
-- `acht-zahlen-schwellen-und-berechnung` — Acht Zahlen Schwellen und Berechnung
-- `bundesverfassungsgericht-quellenkarte-check` — Bundesverfassungsgericht Quellenkarte Check
-- `bverfg-rechtsprechung-recherchieren` — Bverfg Rechtsprechung Recherchieren
-- `bverfg-verfahrenssicht-und-annahmerisiko` — Bverfg Verfahrenssicht und Annahmerisiko
-- `formelle-mehrparteien-konflikt-und-interessen` — Formelle Mehrparteien Konflikt und Interessen
-- `formelle-verfassungsmaessigkeit` — Formelle Verfassungsmaessigkeit
-- `gesetzentwurf-gg-konformitaet-pruefen` — Gesetzentwurf GG Konformitaet Prüfen
-- `gesetzgebungskompetenz-grundrechtspruefung` — Gesetzgebungskompetenz Grundrechtspruefung
-- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz Prüfen
-- `grundgesetz-fristen-form-und-zustaendigkeit` — Grundgesetz Fristen Form und Zustaendigkeit
-- `grundrechte-fehlerkatalog` — Grundrechte Fehlerkatalog
-- `grundrechtspruefung-acht-formelle-interessen` — Grundrechtspruefung Acht Formelle Interessen
-- `grundrechtspruefung-und-verhaeltnismaessigkeit` — Grundrechtspruefung und Verhältnismäßigkeit
-- `dokumente-intake` — Dokumente Intake
-- `einstieg-routing` — Einstieg Routing
-
-## Arbeitsweg
-
-- Ergebnis sichten: Welche Verfassungsrecht-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
-- Anschlussweichen identifizieren: drohende Frist (§ 93 BVerfGG Verfassungsbeschwerde 1 Monat nach Rechtswegerschöpfung / 1 Jahr bei Gesetzen, § 32 BVerfGG einstweilige Anordnung), notwendige Dokumente (Verfassungsbeschwerde, Antrag auf einstweilige Anordnung, Annahmebeschluss, BVerfGE-Entscheidung), nächste Verfahrensstufe oder Sachgebiet.
-- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
-- Eskalation an Beschwerdeführer, BVerfG (1. und 2. Senat, Kammern), Landesverfassungsgerichte, EGMR oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
-- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 93 BVerfGG
-- § 32 BVerfGG
-- § 90 BVerfGG
-- Art. 82 GG
-- Art. 73 GG
-- Art. 100 GG
-- Art. 79 GG
-- § 92 BVerfGG
-- Art. 93 GG
-- Art. 74 GG
-- § 93a BVerfGG
-- Art. 76 GG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `vfgr-verfassungsbeschwerde-substantiierung-spezial`
-
-_Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis, Selbst- gegenwaertig- unmittelbar, Rechtswegerschoepfung: Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis, Selbst- gegenwaerti..._
-
-# Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis, Selbst- gegenwaertig- unmittelbar, Rechtswegerschoepfung
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis, Selbst- gegenwaertig- unmittelbar, Rechtswegerschoepfung. Prüfraster für Anwalt.
-
-### VfgR: VB-Substantiierung
-
-## Fachkern: VfgR: VB-Substantiierung
-- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
-- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 

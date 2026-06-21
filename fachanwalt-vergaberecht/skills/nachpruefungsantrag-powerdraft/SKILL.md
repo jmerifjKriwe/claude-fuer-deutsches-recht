@@ -24,7 +24,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die vergaberechtlich einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -49,7 +49,22 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Typische Outputs
 
-Antrag, Sachverhalt, Zulassungsteil, Begruendung, Anlagenliste.
+Antrag, Sachverhalt, Zulassungsteil, Begründung, Anlagenliste, Abstellungsanträge, Akteneinsichtsantrag und Vergleichsvorschlag.
+
+## Sachanträge und Abstellungsziel
+
+Vor dem Ausformulieren ist festzulegen, welche rechtliche oder tatsächliche Änderung der Vergabe erreicht werden soll. Der Nachprüfungsantrag darf nicht bei der Feststellung eines Fehlers stehen bleiben.
+
+| Ziel | Typischer Antrag |
+| --- | --- |
+| Zuschlag verhindern | Zuschlagsuntersagung bis zur Entscheidung der Vergabekammer, § 169 GWB mitdenken |
+| Angebotswertung korrigieren | Zurückversetzung vor Wertung und Neuwertung unter Beachtung der Rechtsauffassung der Vergabekammer |
+| Ausschluss beseitigen | Wiederaufnahme des Angebots in die Wertung und erneute Eignungs-/Formprüfung |
+| Unterlagen ändern | Änderung der Vergabeunterlagen und angemessene Verlängerung der Angebotsfrist |
+| Aktenlage klären | Akteneinsicht nach § 165 GWB in Wertungsvermerk, Protokolle, Bieterkommunikation und dokumentierte Ermessensentscheidung |
+| Verfahrensfehler heilen | Wiederholung des betroffenen Verfahrensschritts, etwa Aufklärung, Nachforderung oder Bieterinformation |
+
+Wenn der Schwerpunkt nicht der Erstentwurf des Nachprüfungsantrags, sondern die präzise Reparatur der Vergabe ist, zusätzlich `vergabekammer-sachverhalt-abstellungsantraege` verwenden.
 
 ## Qualitaetsgates
 

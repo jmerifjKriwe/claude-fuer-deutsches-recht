@@ -4,6 +4,58 @@ Stand: Mai 2026. Quellen vorrangig bundesverfassungsgericht.de (SharedDocs/Entsc
 
 ---
 
+## Aktuelle Arbeitsanker 2024-2026
+
+- **1 BvL 3/22**
+- **Datum**: 14.11.2024
+- **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241114_1bvl000322.html)
+- **Kernsatz**: Längerfristige Observation unter Anfertigung von Bildaufnahmen und Bildaufzeichnungen nach dem PolG NRW verlangte eine hinreichend bestimmte Eingriffsschwelle; die konkrete Ausgestaltung war mit dem Grundgesetz unvereinbar.
+- **Anwendung**: Polizeirechtliche Datenerhebung, Bestimmtheit, Verhältnismäßigkeit, informationelle Selbstbestimmung.
+
+- **1 BvR 2466/19**
+- **Datum**: 24.06.2025
+- **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250624_1bvr246619.html)
+- **Kernsatz**: Präventiv-polizeirechtliche Quellen-TKÜ und Online-Durchsuchung sind an Art. 10 GG, IT-Grundrecht, Eingriffsschwellen und flankierenden Sicherungen zu messen.
+- **Anwendung**: Digitalgrundrechte, Polizeirecht, Quellen-TKÜ, Online-Durchsuchung.
+
+- **1 BvR 180/23**
+- **Datum**: 24.06.2025
+- **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250624_1bvr018023.html)
+- **Kernsatz**: Strafprozessuale Quellen-TKÜ und Online-Durchsuchung verlangen eine dem Gewicht des Eingriffs entsprechende Straftatenschwelle und wirksame Sicherungen.
+- **Anwendung**: StPO, digitale Ermittlungsmaßnahmen, Verhältnismäßigkeit, Art. 10 GG.
+
+- **1 BvR 2284/23**
+- **Datum**: 23.09.2025
+- **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250923_1bvr228423.html)
+- **Kernsatz**: Triage-Regelungen müssen Benachteiligungen wegen Behinderung wirksam verhindern; Art. 3 Abs. 3 Satz 2 GG wirkt als scharfer Schutzpflichtanker.
+- **Anwendung**: Medizinrecht, Sozialrecht, Gleichheitsrecht, Schutzpflicht.
+
+- **1 BvR 1796/23**
+- **Datum**: 23.09.2025
+- **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250923_1bvr179623.html)
+- **Kernsatz**: Eine gesetzliche Altersgrenze für Anwaltsnotarinnen und Anwaltsnotare muss durch den verfolgten Zweck und die tatsächlichen Marktbedingungen getragen sein; sonst verletzt sie Art. 12 Abs. 1 GG.
+- **Anwendung**: Berufsfreiheit, Altersgrenzen, Berufsrecht, Verhältnismäßigkeit.
+
+- **2 BvE 14/25**
+- **Datum**: 27.01.2026
+- **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/es20260127_2bve001425.html)
+- **Kernsatz**: Fraktionen benötigen für Organstreit und Eilrechtsschutz eine eigene, im Grundgesetz verankerte Rechtsposition; symbolische oder politische Präferenzpositionen genügen nicht.
+- **Anwendung**: Organstreit, Fraktionsrechte, Bundestagsbinnenrecht, § 32 BVerfGG.
+
+- **1 BvR 2637/21**
+- **Datum**: 27.01.2026
+- **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rs20260127_1bvr263721.html)
+- **Kernsatz**: Sektorale Verbote im Kernbereich der Fleischwirtschaft sind an Art. 12 Abs. 1 GG zu messen; Arbeitsschutz und Gesundheitsschutz können gewichtige Gemeinwohlzwecke tragen.
+- **Anwendung**: Berufsfreiheit, Wirtschaftsregulierung, Arbeitsschutz, gesetzgeberischer Einschätzungsspielraum.
+
+- **1 BvL 5/21**
+- **Datum**: 15.04.2026
+- **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/04/ls20260415_1bvl000521.html)
+- **Kernsatz**: Grundleistungen nach dem Asylbewerberleistungsgesetz sind am menschenwürdigen Existenzminimum aus Art. 1 Abs. 1 GG in Verbindung mit Art. 20 Abs. 1 GG zu messen; Datenbasis und Begründung müssen realitätsgerecht sein.
+- **Anwendung**: Sozialstaatsprinzip, Existenzminimum, AsylbLG, Gesetzgeberbegründung.
+
+---
+
 ## I. Grundrechte allgemein
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

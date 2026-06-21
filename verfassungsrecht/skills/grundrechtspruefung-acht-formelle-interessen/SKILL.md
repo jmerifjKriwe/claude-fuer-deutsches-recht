@@ -13,7 +13,7 @@ Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Ma�
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -27,25 +27,20 @@ Grundrechtsprüfungen sind hochkomplex und in der konkreten Anwendung nur durch 
 
 ## Quellenpflicht
 
-Skill `bverfg-rechtsprechung-recherchieren` zuerst aufrufen. Pinpoint Az. + Rn. + URL pro tragender Aussage.
+Skill `bverfg-rechtsprechung-recherchieren` zuerst aufrufen. Tragende Rechtsprechung wird nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, Randnummer und frei oder amtlich prüfbarer URL eingesetzt; keine Entscheidung wird aus Modellwissen erzwungen.
 
 ## Grundschema: Schutzbereich – Eingriff – Rechtfertigung
 
 ### Schritt 1 — Schutzbereichseröffnung
 
 #### 1a. Persönlicher Schutzbereich
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Jedermanngrundrechte:** Art. 1, 2, 3, 4, 5, 10, 13, 14, 17 GG — alle natürlichen Personen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 1b. Sachlicher Schutzbereich
 
 Was schützt das Grundrecht? Wortlaut, Systematik, Telos. Bei der Bestimmung **nicht restriktiv** vorgehen (in dubio pro libertate).
 
 **Standard-Schutzbereiche** (mit Pinpoint live nachrecherchieren):
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Art. 4 Abs. 1, 2 GG:** Glaubens-, Gewissens- und Bekenntnisfreiheit — vorbehaltlos.
 - **Art. 5 Abs. 1 GG:** Meinungs-, Informations-, Presse-, Rundfunk- und Filmfreiheit.
 - **Art. 5 Abs. 3 GG:** Kunst- und Wissenschaftsfreiheit — vorbehaltlos.
@@ -65,8 +60,6 @@ Final, unmittelbar, rechtsförmig, mit Befehl und Zwang.
 #### 2b. Moderner Eingriffsbegriff
 
 Jede dem Staat zurechenbare Beeinträchtigung des grundrechtlich geschützten Verhaltens. Erfasst auch:
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Faktische Eingriffe** (Maßnahmen ohne Zwang, die das geschützte Verhalten erschweren).
 - **Schutzpflicht-Verletzungen** (untermaß-Verbot bei Schutz vor Dritten).
 
@@ -94,13 +87,10 @@ Die Schranke darf ihrerseits nicht gegen Verfassungsrecht verstoßen:
 2. **Wesensgehaltsgarantie** (Art. 19 Abs. 2 GG): absoluter Kernbereich darf nicht verletzt werden.
 3. **Zitiergebot** (Art. 19 Abs. 1 S. 2 GG, nur bei einschränkenden Gesetzen mit Wirkungsabsicht auf das Grundrecht).
 4. **Allgemeinheit** (Art. 19 Abs. 1 S. 1 GG).
-5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-6. **Spezifische Vorgaben des qualifizierten Vorbehalts** (z. B. Allgemeinheit des Gesetzes bei Art. 5 Abs. 2 GG).
-7. **Bestimmtheitsgebot, Wesentlichkeit** (siehe Skill `formelle-verfassungsmaessigkeit`).
+5. **Spezifische Vorgaben des qualifizierten Vorbehalts** (z. B. Allgemeinheit des Gesetzes bei Art. 5 Abs. 2 GG).
+6. **Bestimmtheitsgebot, Wesentlichkeit** (siehe Skill `formelle-verfassungsmaessigkeit`).
 
 ### Schritt 4 — Spezielle Strukturen einzelner Grundrechte
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Stufe | Charakter | Rechtfertigungsanforderung |
 | --- | --- | --- |
@@ -113,19 +103,16 @@ Eingriff stets auf der **geringstmöglichen Stufe**.
 #### 4b. Art. 14 GG — Eigentum
 
 - Drei Eingriffsformen: **Inhalts- und Schrankenbestimmung** (Art. 14 Abs. 1 S. 2 GG), **Enteignung** (Art. 14 Abs. 3 GG), **ausgleichspflichtige Inhalts- und Schrankenbestimmung**.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 4c. Art. 8 GG — Versammlung
 
 - Versammlungsbegriff: gemeinsame Erörterung oder Kundgabe auf Teilnahme an öffentlicher Meinungsbildung gerichtet.
 - Versammlungen **unter freiem Himmel:** qualifizierter Gesetzesvorbehalt Art. 8 Abs. 2 GG.
 - **In geschlossenen Räumen:** vorbehaltlos.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 4d. Art. 5 Abs. 1 GG — Meinungsfreiheit
 
 - Tatsachenbehauptungen sind geschützt, **soweit** sie Voraussetzung der Meinungsbildung sind; **unwahre und bewusst unwahre** Tatsachenbehauptungen sind nicht geschützt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Wechselwirkungslehre Lüth.
 
 ### Schritt 5 — Konkurrenzen

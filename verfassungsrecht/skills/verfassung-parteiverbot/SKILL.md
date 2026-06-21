@@ -1,119 +1,56 @@
 ---
 name: verfassung-parteiverbot
-description: "Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Prüfraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG im Verfassungsrecht."
+description: "Parteiverbot und Finanzierungsausschluss nach Art. 21 GG prüfen: Antragsberechtigung, Parteienprivileg, freiheitliche demokratische Grundordnung, Potentialität, V-Leute-Risiken, Beweisprogramm, Rechtsfolgen nach BVerfGG/PartG und Abgrenzung zu Vereinsverbot und Verfassungsschutzbeobachtung."
 ---
 
-# Parteiverbot
+# Parteiverbot und Finanzierungsausschluss
 
-## Arbeitsbereich
+## Einsatzbereich
 
-Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Prüfraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dieser Skill prüft Parteiverbotsverfahren nach Art. 21 Abs. 2 und 4 GG sowie Verfahren auf Ausschluss von staatlicher Finanzierung nach Art. 21 Abs. 3 GG. Er eignet sich für Ministerialvermerke, Fraktionsvorlagen, wissenschaftliche Gutachten, Prozessrisikoanalysen und die Abgrenzung zu Verfassungsschutzbeobachtung oder Vereinsverbot.
 
-## Arbeitsweg
+## Normenanker
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Art. 21 Abs. 1 GG: Parteienfreiheit, innere Ordnung und Parteienprivileg.
+- Art. 21 Abs. 2 GG: Parteiverbot bei aktivem Ausgehen auf Beseitigung oder Beeinträchtigung der freiheitlichen demokratischen Grundordnung oder Gefährdung des Bestandes der Bundesrepublik.
+- Art. 21 Abs. 3 GG: Ausschluss von staatlicher Finanzierung bei verfassungsfeindlicher Zielrichtung ohne Verbotsausspruch.
+- Art. 21 Abs. 4 GG, § 13 Nr. 2 und Nr. 2a BVerfGG: ausschließliche Entscheidungskompetenz des Bundesverfassungsgerichts.
+- §§ 43 bis 47 BVerfGG: Parteiverbotsverfahren.
+- § 46a BVerfGG: Finanzierungsausschlussverfahren.
+- §§ 18, 33 PartG: staatliche Parteienfinanzierung und Folgen eines Verbots.
+- § 84 StGB: Fortführung einer für verfassungswidrig erklärten Partei.
 
-## Fachkern: Parteiverbot
-- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
-- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
+## Prüfschritte Parteiverbot
 
-## Aufgabe
-Parteiverbot Art. 21 II GG iVm § 13 Nr. 2, §§ 43-47 BVerfGG; Finanzierungsausschluss Art. 21 III GG iVm § 13 Nr. 2a BVerfGG. Prüfraster, hohe Schwelle (Potentialitaet); Antragsbefugnis, Verfahren, Rechtsfolgen.
+1. **Antragsberechtigung:** Bundestag, Bundesrat oder Bundesregierung sind nach § 43 Abs. 1 BVerfGG antragsberechtigt. Landesregierungen tragen kein Parteiverbotsverfahren; bei Nicht-Parteien ist an Art. 9 Abs. 2 GG und Vereinsrecht zu denken.
+2. **Parteieigenschaft:** Satzung, tatsächliche Organisation, Teilnahme am politischen Willensbildungsprozess und Abgrenzung zu Verein, Wählergruppe oder bloßem Netzwerk prüfen.
+3. **Schutzgut:** Freiheitliche demokratische Grundordnung im Kern auf Menschenwürde, Demokratieprinzip und Rechtsstaatlichkeit zurückführen; nicht jede radikale, polemische oder verfassungsfeindliche Meinung genügt.
+4. **Ziele oder Verhalten der Anhänger:** Programmatik, Funktionärsreden, Wahlkampfmaterial, Schulungen, Gewaltbezug, Einschüchterungsstrategie und organisatorische Duldung trennen.
+5. **Darauf-Ausgehen:** Erforderlich ist planvolles, qualifiziertes Handeln gegen die verfassungsrechtlichen Kernprinzipien.
+6. **Potentialität:** Nach dem NPD-II-Urteil reicht bloße Gesinnung nicht; es muss eine realistische Möglichkeit bestehen, die verfassungsfeindlichen Ziele erfolgreich zu verfolgen.
+7. **Beweisprogramm:** V-Leute, verdeckte Quellen, nachrichtendienstliche Erkenntnisse und öffentliches Material streng trennen. Quellenrisiken können das Verfahren entwerten.
 
-## Fachlicher Arbeitskern
+## Finanzierungsausschluss
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug für `verfassungsrecht` zum Thema `verfassung-parteiverbot`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Prüfraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG.
+Der Finanzierungsausschluss nach Art. 21 Abs. 3 GG ist kein kleines Parteiverbot. Er setzt eine verfassungsfeindliche Zielrichtung voraus, verlangt aber keine Potentialität wie das Parteiverbot. Rechtsfolge ist der zeitlich begrenzte Ausschluss von staatlicher Finanzierung und steuerlicher Begünstigung. Prüfe deshalb immer, ob das Ziel politisch-rechtlich mit Art. 21 Abs. 3 GG tragfähiger erreichbar ist als mit Art. 21 Abs. 2 GG.
 
-Arbeite deshalb fallnah:
+## Rechtsprechungsanker
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die für diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behörden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+- BVerfG, Urteil vom 23.10.1952, 1 BvB 1/51, SRP: frühe Kontur der freiheitlichen demokratischen Grundordnung.
+- BVerfG, Urteil vom 17.08.1956, 1 BvB 2/51, KPD: Parteiverbot als Ausnahmeinstrument gegen kämpferisch-aggressive Verfassungsfeindschaft.
+- BVerfG, Beschluss vom 18.03.2003, 2 BvB 1/01 u. a., NPD I: Einstellung wegen V-Leute-Problematik.
+- BVerfG, Urteil vom 17.01.2017, 2 BvB 1/13, NPD II: Potentialität als zentrale Verbotsgrenze.
+- BVerfG, Urteil vom 23.01.2024, 2 BvB 1/19, Finanzierungsausschluss „Die Heimat“: Art. 21 Abs. 3 GG als eigenständiges Instrument.
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+Alle Entscheidungen vor Nutzung mit Gericht, Datum, Aktenzeichen und amtlicher BVerfG-Quelle verifizieren.
 
-## Einstieg
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## Abgrenzungen
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+- **Verfassungsschutzbeobachtung:** niedrigere Schwelle; keine BVerfG-Entscheidung über Parteistatus.
+- **Vereinsverbot:** Art. 9 Abs. 2 GG und VereinsG; wegen Parteienprivileg nicht gegen Parteien als Ersatzroute nutzbar.
+- **Wahlrechtsausschluss oder Nichtzulassung:** darf ein Parteiverbot nicht vorwegnehmen.
+- **Strafrechtliche Verfolgung einzelner Funktionäre:** ersetzt kein Parteiverbotsverfahren und beweist nicht automatisch eine Parteizielrichtung.
 
-## Prüfraster Parteiverbot Art. 21 II GG
+## Arbeitsprodukt
 
-### 1. Zulaessigkeit
-- **Zuständigkeit BVerfG** Art. 21 IV GG iVm § 13 Nr. 2, §§ 43 ff. BVerfGG.
-- **Antragsberechtigte** § 43 I BVerfGG: Bundestag, Bundesrat, Bundesregierung. Nicht Landesregierungen (anders bei Vereinen § 3 VereinsG).
-- **Antragsgegner**: die betroffene Partei (Art. 21 GG, § 2 PartG).
-- **Form** § 23 BVerfGG: schriftlich mit Begruendung; Beweismittel.
-
-### 2. Begruendetheit — materielle Voraussetzungen
-- Partei muss
- - **nach ihren Zielen** (Programm, Satzung, Wahlprogramm) oder
- - **dem Verhalten ihrer Anhaenger** (organisierte Aktionen, nicht Einzelfaelle)
-- darauf **ausgehen**, dass sie
- - die **freiheitliche demokratische Grundordnung beeintraechtigt oder beseitigt** oder
- - den **Bestand der BRD gefaehrdet**.
-
-### 3. Potentialitaet (BVerfG, Urteil v. 17.01.2017, 2 BvB 1/13 — NPD II)
-- "Darauf ausgehen" verlangt **aktives, planvolles Handeln** mit dem **Potenzial, das Ziel zu erreichen**.
-- **Erfolgsmoeglichkeit** muss konkret bestehen; rein theoretisches Potenzial reicht nicht.
-- Ist Partei chancenlos, fehlt Potentialitaet — kein Verbot möglich; statt dessen evtl. Finanzierungsausschluss Art. 21 III GG.
-
-### 4. Freiheitliche demokratische Grundordnung (BVerfGE 2, 1 — SRP; aktualisiert NPD II)
-- Menschenwuerde Art. 1 GG.
-- Demokratie- und Volkssouveraenitaetsprinzip.
-- Rechtsstaatlichkeit.
-
-### 5. Rechtsfolgen § 46 BVerfGG iVm § 33 PartG
-- **Verbot** und **Aufloesung** der Partei.
-- **Verbot Ersatzorganisation** § 33 II PartG.
-- **Einziehung Vermögen** zugunsten der öffentlichen Hand.
-- **Verlust Mandate** § 46 III BVerfGG (Abgeordnete verlieren Mandat).
-- **Strafbarkeit** Fortfuehrung § 84 StGB.
-
-### 6. Bindungswirkung § 31 BVerfGG
-- BVerfG-Entscheidung bindet Bundes- und Landesverfassungsorgane, Gerichte, Behörden.
-
-## Prüfraster Finanzierungsausschluss Art. 21 III GG iVm § 46a BVerfGG
-
-- Eingefuehrt 2017 nach NPD II als "Mildere-Variante" — kein Verbot, aber Ausschluss von staatlicher Finanzierung.
-- Voraussetzungen: wie Verbot, aber **ohne Potentialitaet** (Erfolgsaussicht fehlt).
-- Rechtsfolge: Ausschluss von staatlicher Parteienfinanzierung für **sechs Jahre** (§ 18 VII PartG); Wegfall Steuerbeguenstigung.
-- BVerfG, Urteil v. 23.01.2024, 2 BvB 1/19 — "Die Heimat" (vormals NPD): erste erfolgreiche Anwendung Art. 21 III GG.
-
-## Abgrenzung
-
-- **Verfassungsschutz-Beobachtung** (§ 3 BVerfSchG): geringere Schwelle; Bundesamt für Verfassungsschutz.
-- **Vereinsverbot** Art. 9 II GG, § 3 VereinsG: für Nicht-Parteien; durch BMI / Landesinnenministerien; Klage vor BVerwG (§ 4 VereinsG).
-- **Parteienprivileg**: solange BVerfG nicht entschieden hat, geniesst Partei vollen Status (kein Vereinsverbot möglich, keine Wahlteilnahme-Beschraenkung).
-
-## Praxisfallen
-
-- **V-Maenner-Problematik**: BVerfG, Beschluss v. 18.03.2003, 2 BvB 1/01 — NPD I (Einstellung). Nachrichtendienstliche Quellen müssen offengelegt sein; Abschaltverpflichtung.
-- **Einstweilige Anordnung** § 32 BVerfGG bei Parteiverboten grds. ausgeschlossen.
-- **Beweislast** beim Antragsteller; "in dubio pro reo" gilt entsprechend.
-- **Anhaltspunkte aus Modellwissen** zu konkreten BVerfG-Az. immer live auf bundesverfassungsgericht.de verifizieren.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Erstelle eine Entscheidungsvorlage mit Kurzvotum, Antragstelleroptionen, Beweisstand, V-Leute-Risiko, Parteiverbots- und Finanzierungsausschlussmatrix, Prozessrisiko und Kommunikationsrisiken. Wenn der Antrag nicht tragfähig ist, formuliere eine rechtlich sauberere Alternative.

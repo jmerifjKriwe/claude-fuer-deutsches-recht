@@ -1,61 +1,64 @@
 ---
 name: vergabekammer-verhandlung-vergleich-und-eskalation
-description: "Vergabekammer: Verhandlung, Vergleich und Eskalation: Vergabekammer: Verhandlung, Vergleich und Eskalation."
+description: "Mündliche Verhandlung und Erörterung vor der Vergabekammer vorbereiten: Sachverhaltslinie, Fragen der Kammer, Akteneinsicht, Geschäftsgeheimnisse, Vergleichskorridor, Abhilfeentscheidung, Zurückversetzung, Neuwertung und OLG-Eskalation."
 ---
 
 # Vergabekammer: Verhandlung, Vergleich und Eskalation
 
+## Einsatzbereich
+
+Dieser Skill bereitet die mündliche Verhandlung, Erörterung oder schriftliche Aufklärungsrunde im Vergabenachprüfungsverfahren vor. Er ist nicht für abstrakte Vergaberechtsgutachten gedacht, sondern für den Moment, in dem die Vergabekammer Fragen stellt, Vergleichsmöglichkeiten auslotet oder eine konkrete Maßnahme nach § 168 Abs. 1 GWB im Raum steht.
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- § 160 GWB: Antrag, Antragsbefugnis, Rügeobliegenheit.
+- § 162 GWB: Beteiligte und Beiladung.
+- § 163 GWB: Untersuchungsgrundsatz der Vergabekammer.
+- § 165 GWB: Akteneinsicht und Schutz von Betriebs- und Geschäftsgeheimnissen.
+- § 166 GWB: mündliche Verhandlung, rechtliches Gehör.
+- § 167 GWB: Beschleunigung und Fünf-Wochen-Frist.
+- § 168 GWB: Entscheidung und geeignete Maßnahmen zur Beseitigung der Rechtsverletzung.
+- § 169 GWB: Zuschlagsverbot und Gestattung des Zuschlags.
+- § 171 GWB: sofortige Beschwerde.
+- § 182 GWB: Kosten und notwendige Hinzuziehung eines Bevollmächtigten.
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+## Terminvorbereitung
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. **Kammerfragen antizipieren:** Zulässigkeit, Rügekonkretheit, Kausalität, drohender Schaden, Akteneinsicht, Geheimschutz, Heilbarkeit des Fehlers.
+2. **Tatsachenlinie bauen:** Jede streitige Tatsache wird mit Aktenstelle, Anlage, Zeuge/Ansprechperson, Vergabeaktenstelle und möglicher Gegendarstellung verbunden.
+3. **Antragsziel schärfen:** Untersagung des Zuschlags, Zurückversetzung, Neuwertung, Änderung der Unterlagen, Wiederholung einer Aufklärung, Aufhebung oder Vergleich.
+4. **Vergleichskorridor festlegen:** Best Case, tragfähiger Kompromiss, rote Linie, Kosten, Reputationsrisiko, Folgeausschreibung.
+5. **OLG-Schatten prüfen:** Was muss für eine sofortige Beschwerde nach §§ 171 ff. GWB protokolliert, behauptet oder beantragt werden?
 
-## Arbeitsweg
+## Rollen im Termin
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+| Rolle | Arbeitsauftrag |
+| --- | --- |
+| Antragsteller | Rechtsverletzung, Schaden und konkretes Abstellungsziel plastisch machen |
+| Auftraggeber | Dokumentation verteidigen, Heilungsmöglichkeiten zeigen, Beschaffungssicherheit erklären |
+| Beigeladener | Zuschlagsinteresse, Geschäftsgeheimnisse und eigene Eignung/Wertung sichern |
+| Vergabekammer | Sachverhalt aufklären, Verfahrensbeschleunigung sichern, Rechtsverletzung abstellen |
 
-**Fokus:** Vergabekammer: Verhandlung, Vergleich und Eskalation.
+## Vergleichslogik
 
-## Spezialwissen: Vergabekammer: Verhandlung, Vergleich und Eskalation
-- **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
+Ein Vergleich ist sinnvoll, wenn der Auftraggeber den Fehler im laufenden Verfahren rechtssicher beheben kann und der Mandant dadurch schneller oder günstiger ans Ziel kommt als durch Beschluss und OLG-Beschwerde. Typische Vergleichspunkte:
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- Rücknahme oder Änderung einer Wertungsentscheidung;
+- erneute Angebotswertung mit dokumentiertem Prüfprogramm;
+- Nachforderung/Aufklärung in rechtlich zulässigem Umfang;
+- Verlängerung der Angebotsfrist nach Änderung der Unterlagen;
+- Kostenquotelung und Rücknahme des Nachprüfungsantrags nach Umsetzung;
+- Geheimschutzvereinbarung für Akteneinsicht oder geschwärzte Aktenauszüge.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+Keine Vergleichslinie vorschlagen, die Gleichbehandlung oder Transparenz gegenüber anderen Bietern verletzt. Die Reparatur darf nicht selbst der nächste Vergabefehler sein.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vergabekammer** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Output
 
-## Vergabe-Workbench-Boost v61.2
+Erstelle ein Terminbriefing mit:
 
-- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
-- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
-- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
-- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+1. **Ein-Minuten-Eröffnung** für die eigene Seite;
+2. **Kammerfragen mit Antwortlinie**;
+3. **Antrags- und Hilfsantragsliste**;
+4. **Vergleichskorridor**;
+5. **Akteneinsichts- und Geheimschutzposition**;
+6. **OLG-Eskalationsnotiz** mit Frist, Angriffspunkt und fehlenden Belegen.

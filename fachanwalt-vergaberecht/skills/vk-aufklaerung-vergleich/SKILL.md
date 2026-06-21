@@ -1,180 +1,67 @@
 ---
 name: vk-aufklaerung-vergleich
-description: "VK-Aufklärungsverfahren und Vergleich im Vergabenachprüfungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmöglichkeit: Normen: §..."
+description: "VK-Aufklärung und prozessuale Erledigung im Vergabenachprüfungsverfahren: Fragen der Vergabekammer beantworten, Akteneinsicht nach § 165 GWB nutzen, Abhilfe nach § 168 GWB konkretisieren und Rücknahme-, Erledigungs-, Kosten- oder OLG-Beschwerdeszenario sauber vorbereiten."
 ---
 
-# VK-Aufklärungsverfahren und Vergleich im Vergabenachprüfungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmöglichkeit
+# VK-Aufklärung, Abhilfe und prozessuale Erledigung
 
+## Ziel dieses Skills
+
+Dieser Skill ist der schnelle Arbeitsmodus, wenn ein Nachprüfungsverfahren bereits läuft und die Vergabekammer Aufklärung verlangt, eine mündliche Verhandlung vorbereitet oder die Beteiligten eine praktische Korrektur des Vergabeverfahrens ausloten. Er ersetzt kein Nachprüfungsantrags-Template, sondern steuert die Phase zwischen Antrag, Akteneinsicht, Verhandlung, Abhilfe und möglicher sofortiger Beschwerde.
+
+## Normenanker
+
+- `§ 160 Abs. 2 und 3 GWB`: Antragsbefugnis, drohender Schaden und Rügeobliegenheit.
+- `§ 162 GWB`: Beteiligtenstellung und Beiladung.
+- `§ 163 GWB`: Untersuchungsgrundsatz, der Aufklärungsfragen der Vergabekammer trägt.
+- `§ 165 GWB`: Akteneinsicht mit Geschäftsgeheimnis- und Schwärzungsprüfung.
+- `§ 166 GWB`: mündliche Verhandlung vor der Vergabekammer.
+- `§ 167 GWB`: Fünf-Wochen-Entscheidungsrahmen der Vergabekammer.
+- `§ 168 Abs. 1 GWB`: geeignete Maßnahmen zur Beseitigung der Rechtsverletzung.
+- `§ 169 GWB`: Zuschlagsverbot während des Nachprüfungsverfahrens.
+- `§§ 171 bis 173 GWB`: sofortige Beschwerde, Frist/Form/Inhalt und Wirkung.
+- `§ 182 GWB`: Gebühren, Auslagen und Kostenentscheidung.
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+1. Bestimme die Rolle der Mandantin: Antragstellerin, Auftraggeberin oder Beigeladene.
+2. Markiere die nächste Frist: Kammerfrist, Stellungnahmefrist, Verhandlungstermin, Zuschlagsverbot, Beschwerdefrist.
+3. Extrahiere aus der Akte den tatsächlichen Streitkern: Ausschluss, Eignung, Zuschlagswertung, Angebotsaufklärung, unklare Unterlagen, Dokumentationsmangel oder De-facto-Vergabe.
+4. Formuliere das gewünschte Abstellungsziel: Zurückversetzung, Neuwertung, Fristverlängerung, Änderung der Unterlagen, Aufhebung einzelner Lose, Akteneinsicht oder Zurückweisung des Antrags.
+5. Entscheide, ob eine streitige Entscheidung, eine Rücknahme, übereinstimmende Erledigung oder sofortige Beschwerde vorbereitet werden soll.
 
-**Fokus:** VK-Aufklärungsverfahren und Vergleich im Vergabenachprüfungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmöglichkeit. Normen: § 158 Abs. 3 GWB (Vergleich vor VK), § 173 GWB (OLG-Beschwerdeinstanz), § 106 VwVfG (Vergleich). Prüfraster: Aufklärungsverlangen VK, Vergleichsbereitschaft Auftraggeber, OLG-Risiko bei Beschwerde, Vergleichs-Konditionen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Nachprüfungsantrag initial siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; OLG-Beschwerde siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk.
+## Aufklärung beantworten
 
-### VK-Vergleich / OLG-Vergabesenat-Verhandlung
+Beantworte Kammerfragen nicht abstrakt. Jede Antwort braucht:
 
-## Eingaben
+- die konkrete Frage der Vergabekammer,
+- die betroffene Aktenstelle,
+- die dazugehörige Norm oder Vergaberegel,
+- die Auswirkung auf die Zuschlagschance,
+- das präzise Abstellungsziel.
 
-- Bieter-Position (Verfügung berücksichtigt / abgelehnt / Zuschlag droht / Konkurrent)
-- Vergabeart (EU-Vergabe ≥ Schwellenwert, national)
-- Streitgegenstand (Eignungs-Bewertung, Zuschlagskriterien, Bekanntmachungs-Mangel)
-- Bisherige Rüge § 160 GWB
+Wenn Akteneinsicht fehlt, beantrage sie konkret nach `§ 165 GWB` und benenne, welche Wertungsunterlagen, Protokolle, Aufklärungsnotizen oder Konkurrenzdetails ohne Offenlegung nicht überprüfbar sind.
 
-## Rechtlicher Rahmen
+## Abhilfe statt Scheinkompromiss
 
-- **§ 155 GWB** — Beginn 2. Teil GWB (Vergabe-Nachpruefungsverfahren)
-- **§ 156 GWB** — Vergabekammern (Zuständigkeit, Besetzung)
-- **§ 169 GWB** — Suspensiveffekt/Zuschlagsverbot waehrend Nachpruefungsverfahren (Aussetzung des Zuschlags)
-- **§ 160 GWB** — Ruegeobliegenheit Bieter
-- **§ 158 GWB** — Entscheidung VK / Vergleich
-- **§ 160 III GWB** — Rüge vor VK-Antrag (Pflicht)
-- **§ 173 GWB** — Sofortige Beschwerde OLG-Vergabesenat
-- **§ 168 GWB** — Akteneinsicht
+Eine Einigung ist nur tragfähig, wenn sie das Vergabeverfahren rechtlich repariert. Prüfe deshalb:
 
-## ADR-Pfade
+- Ist die Korrektur mit Gleichbehandlung und Transparenz aus `§ 97 Abs. 1 und 2 GWB` vereinbar?
+- Erhält nur die Antragstellerin einen Vorteil oder werden alle betroffenen Bieter gleich behandelt?
+- Muss die Vergabestelle das Verfahren zurückversetzen oder reicht eine begründete Neuwertung?
+- Ist ein Zuschlag nach der Korrektur sofort möglich oder muss eine neue Stillhaltefrist nach `§ 134 GWB` beachtet werden?
+- Welche Kostenfolge nach `§ 182 GWB` ist angemessen?
 
-### Pfad 1 — Außergerichtliche Rüge § 160 GWB
+## Direkt nutzbares Ergebnis
 
-- Anwalts-Schreiben mit Mangel-Beanstandung
-- Frist 10 Tage (BGH-Linie)
-- Bei Erfolg: Vergabestelle korrigiert
+Erzeuge am Ende einen ausformulierten Baustein:
 
-### Pfad 2 — Aufklärungsgespräch bei VK
+1. **Stellungnahme an die Vergabekammer** mit Sachverhalt, Aktenbelegen und Antrag.
+2. **Abhilfevorschlag** mit genauem Reparaturschritt.
+3. **Verhandlungssprechzettel** für den Termin.
+4. **Erledigungs- oder Rücknahmeerklärung** mit Kostenantrag.
+5. **Beschwerdereserve** für `§§ 171 ff. GWB`, wenn die Kammer den Kernfehler nicht beseitigt.
 
-- VK lädt zu Erörterungstermin
-- Vergabestelle erläutert Bewertung
-- Bieter kann Stellung nehmen
-- Vergleich möglich
+## Fehlerbremse
 
-### Pfad 3 — Vergleich vor VK § 158 III GWB
-
-- Vergabestelle gibt Zuschlag an Antragsteller
-- Oder Wiederholung des Verfahrens
-- Kostenregelung im Vergleich
-
-### Pfad 4 — Beschwerde OLG-Vergabesenat
-
-- 2 Wochen nach VK-Entscheidung
-- Aufschiebende Wirkung
-- Beschluss-Verfahren
-
-### Pfad 5 — Mediation (selten)
-
-- Bei mehrjährigen Rahmenverträgen
-- Vor Vergabe-Streit
-
-## Workflow
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-### Phase 1 — Verfahrens-Beobachtung
-
-- Bekanntmachung TED / Bund / Land
-- Vergabeunterlagen prüfen
-- Eignungs-/Zuschlagskriterien
-
-### Phase 2 — Rüge § 160 GWB
-
-- Sobald Mangel erkennbar (10 Tage)
-- Schriftlich an Vergabestelle
-- Wenn nicht beseitigt: VK-Antrag
-
-### Phase 3 — VK-Antrag
-
-- Schriftlich bei zuständiger VK
-- Sachverhalt + Rüge-Nachweis
-- 5-Wochen-Verfahren
-
-### Phase 4 — Erörterungstermin
-
-- VK lädt
-- Vergleichs-Bereitschaft signalisieren
-- Bei Erfolg: Vergleich
-
-### Phase 5 — Beschwerde
-
-- Bei Misserfolg: OLG-Vergabesenat
-- 2-Wochen-Frist
-- Aufschiebende Wirkung
-
-## Strategie und Taktik
-
-- **10-Tage-Rüge-Frist** zwingend; Schweigen lässt Mangel verfristen
-- **Akteneinsicht § 168 GWB** für Eignungs-Bewertung-Analyse
-- **Erörterungstermin nutzen**: VK ist vergleichsfreundlich
-- **Beschwerde-Strategie**: nur bei klarem Rechtsfehler (kein Tatsachen-Neu)
-- **Kostenrisiko**: Vergabestelle trägt regelmäßig 50 % bei Vergleich
-
-## Quellen und Updates
-
-Stand: 05/2026. GWB §§ 155-184. 10-Tage-Rüge-Frist stehende BGH-Linie.
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — VK-Aufklaerung und Vergleich | Vergleichsvorschlag; Template unten |
-| Variante A — Aufklaerung ergibt neue Vergabefehler | Erweiterung NPA; VK informieren |
-| Variante B — Auftraggeber nicht kooperativ | Akteneinsicht § 165 GWB beantragen |
-| Variante C — Vergleich scheitert | VK-Entscheidung abwarten; OLG-Beschwerde vorbereiten |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Vertiefung: Output-Template VK-Aufklaerung
-
-### Triage — Bevor losgelegt wird, klaere:
-
-1. Hat VK Aufklärungsschreiben versandt? → Frist beachten (meist 2-3 Wochen)
-2. Welche Dokumente fordert VK an (Vergabeakte, Wertungsunterlagen, Akteneinblick)?
-3. Ist Akteneinsichtsrecht nach §§ 165, 166 GWB geltend zu machen?
-4. Bietet Auftraggeber Einigung an? → Vergleich im VK-Verfahren möglich
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-### Output-Template Stellungnahme im VK-Verfahren
-**Adressat:** Vergabekammer [NAME] — Tonfall: sachlich-juristisch
-
-```
-Vergabekammer [NAME]
-[ANSCHRIFT]
-
-Az. [VERFAHRENS-AZ.]
-
-Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
-
-[...]
-
-1. Zu den Fragen Nr. [X] bis [Y]:
- [Konkrete Antworten, mit Beweisanlagen]
-
-2. Akteneinsicht:
- Wir beantragen Akteneinsicht nach § 165 GWB in
- [Wertungsunterlagen / Verhandlungsprotokoll] soweit
- keine Geheimhaltungsinteressen entgegenstehen.
-
-3. Zu einem moeglichen Vergleich:
- [Position Mandant; Bereitschaft oder Ablehnung]
-
-[Rechtsanwalt/-anwaeltin]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-## Vergabe-Workbench-Boost v61.2
-
-- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
-- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
-- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
-- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+Kein pauschaler "VK-Vergleich" ohne vergaberechtliche Reparatur. Kein OLG-Hinweis ohne `§ 171`, `§ 172` und `§ 173 GWB` zu trennen. Keine Akteneinsicht verlangen, ohne Geheimschutz mitzudenken. Keine Rechtsprechung aus Modellwissen zitieren; Entscheidungen nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.

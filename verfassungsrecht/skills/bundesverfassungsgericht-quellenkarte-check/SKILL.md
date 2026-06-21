@@ -1,62 +1,69 @@
 ---
 name: bundesverfassungsgericht-quellenkarte-check
-description: "Bundesverfassungsgericht Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "BVerfG-Quellenkarte für tragende verfassungsrechtliche Aussagen: amtliche Entscheidung, Aktenzeichen, Entscheidungsform, Datum, Randnummer, Tenorbindung nach § 31 BVerfGG und Übertragbarkeit auf den konkreten Fall."
 ---
 
-# Bundesverfassungsgericht Quellenkarte Check
+# Bundesverfassungsgericht Quellenkarte
 
-## Einsatzlage
+## Zweck des Skills
 
-Diese Quellenkarte sichert im Bereich **Verfassungsrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Dieser Skill sichert jede verfassungsrechtliche Aussage ab, bevor sie in Schriftsatz, Gutachten, Memo oder Mandantenkommunikation wandert. Er ist keine allgemeine Internetrecherche, sondern ein Quellen- und Übertragbarkeitsgate für BVerfG-Rechtsprechung.
 
-## Suchraster
+## Normenanker
 
-- `allgemein-workflow-chronologie-workflow-fristen`
-- `gesetzgebungskompetenz-grundrechtspruefung`
-- `grundrechtspruefung-acht-formelle-interessen`
-- `materielle-petition-sonderfall-recherche`
-- `rechtsprechungsgetrieben-rechtsweg-bverfg-verfahrenssicht`
-- `sicht-spezialkanzlei-unter`
-- `verfassung-beweislast-verfassungsbeschwerde`
-- `verfassung-grundgesetz-verfassung-organstreitverfahren`
-- `verfassung-grundrechte-juristische-uebersicht-eu`
-- `verfassung-konkrete-normenkontrolle-parteiverbot-petition`
-- `verfassung-staatsorganisation-verfassungsrechtliche`
-- `verfassungsbeschwerde-entwurf-formelle-verfassungsmaessigkeit`
+- Art. 93 GG für die Zuständigkeiten des Bundesverfassungsgerichts.
+- § 13 BVerfGG für die Verfahrensarten.
+- § 23 Abs. 1 BVerfGG für Begründungsanforderungen.
+- § 31 BVerfGG für Bindungswirkung und Gesetzeskraft.
+- § 32 BVerfGG für einstweilige Anordnungen.
+- §§ 90 bis 95 BVerfGG für Verfassungsbeschwerden.
+- §§ 76 bis 82 BVerfGG für abstrakte Normenkontrolle.
+- §§ 80 bis 82 BVerfGG für konkrete Normenkontrolle.
 
-## Prüfroute
+## Quellenhierarchie
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Amtliche Entscheidung auf bundesverfassungsgericht.de.
+2. Amtliche PDF-Fassung derselben Entscheidung.
+3. DFR/servat, dejure oder openJur nur als Ersatz oder Auffindehilfe.
+4. Pressemitteilung nur als Recherchehinweis, nie als tragende Fundstelle.
+5. Literatur nur, wenn sie vom Nutzer geliefert wurde oder mit lizenziertem Zugriff tatsächlich vorliegt.
+
+## Pflichtfelder der Quellenkarte
+
+Für jede tragende Aussage werden diese Felder gefüllt:
+
+| Feld | Inhalt |
+| --- | --- |
+| Gericht | Bundesverfassungsgericht, Senat oder Kammer |
+| Entscheidungsform | Urteil, Beschluss, Kammerbeschluss, einstweilige Anordnung |
+| Datum | Entscheidungsdatum, nicht Veröffentlichungsdatum |
+| Aktenzeichen | exakt aus der amtlichen Entscheidung |
+| Fundstelle | URL der Entscheidung oder PDF |
+| Pinpoint | Randnummer oder Leitsatzstelle |
+| Tragweite | tragender Satz, obiter dictum, bloße Sachverhaltsdarstellung |
+| Übertragbarkeit | gleicher Verfahrensstand, gleiches Grundrecht, vergleichbare Eingriffsintensität |
+
+## Arbeitsroutine
+
+1. Formuliere die juristische Aussage in einem Satz.
+2. Suche die Entscheidung auf bundesverfassungsgericht.de.
+3. Prüfe, ob es die Entscheidung selbst oder nur eine Pressemitteilung ist.
+4. Extrahiere Datum, Aktenzeichen und Randnummer.
+5. Prüfe, ob der Satz wirklich tragend ist.
+6. Markiere Abweichungen: anderes Grundrecht, andere Verfahrensart, andere Eingriffsschwelle, andere Tatsachenlage.
+
+## Aktuelle Pflichtnotiz
+
+Bei Entscheidungen, die über Pressemitteilungen bekannt wurden, darf das Veröffentlichungsdatum nicht als Entscheidungsdatum übernommen werden. Beispiel: Die Entscheidungen Trojaner I und Trojaner II wurden amtlich als Beschlüsse vom 24.06.2025 veröffentlicht; das spätere Presse- oder Veröffentlichungsdatum ersetzt dieses Entscheidungsdatum nicht.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS- oder juris-Blindzitate.
+- Keine erfundenen Randnummern.
+- Keine Gleichsetzung von Leitsatz und tragendem Subsumtionssatz.
+- Keine Übertragung alter Leitentscheidungen ohne Prüfung späterer Fortentwicklung.
+- Keine Aussage "nach ständiger Rechtsprechung", wenn nur eine Entscheidung gefunden wurde.
 
-## Normen und Rechtsprechung
+## Output
 
-### Kuratierte Normen-Bibliothek
-
-- § 93 BVerfGG
-- § 32 BVerfGG
-- § 90 BVerfGG
-- Art. 82 GG
-- Art. 73 GG
-- Art. 100 GG
-- Art. 79 GG
-- § 92 BVerfGG
-- Art. 93 GG
-- Art. 74 GG
-- § 93a BVerfGG
-- Art. 76 GG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+Erzeuge eine Quellenmatrix und danach eine kurze Verwertbarkeitsnotiz. Wenn keine belastbare Quelle gefunden wird, lautet das Ergebnis nicht "wahrscheinlich", sondern "nicht zitierfähig; Live-Recherche fortsetzen".

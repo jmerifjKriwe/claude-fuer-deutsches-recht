@@ -9,7 +9,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -17,7 +17,7 @@ description: "Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Verfassungsrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und Verfassungsbeschwerde.
+**Arbeitsfokus:** Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Der Einstieg erkennt, ob die Akte in Richtung Verfassungsbeschwerde, Eilantrag nach § 32 BVerfGG, Organstreit, Bund-Länder-Streit, abstrakte oder konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Präsidenten-/Richteranklage, Grundrechtsprüfung, Gesetzgebungskompetenz oder EU-Grundrechte führt, und verlangt für tragende Aussagen einen BVerfG-Pinpoint aus amtlicher oder frei prüfbarer Quelle.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -28,7 +28,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
 2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
 3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
-4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
+4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder in der verfassungsrechtlichen Akte wirklich trägt.
 5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
 6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
 
@@ -109,6 +109,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
+| `bverfg-prozessarten-navigator-parteien-antraege` | Wenn unklar ist, welches BVerfG-Verfahren statthaft ist; besonders bei Verfassungsorganen, Fraktionen, Parteien, Landesregierungen, Gerichten, Kommunen oder parallelem §-32-Antrag. |
 | `bverfg-rechtsprechung-recherchieren` | BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren und für Schriftsatz aufbereiten. BVerfGG Art. 93 GG BVerfG-Judikatur. Prüfraster: Leitsaetze Tragsaetze obiter dicta Randnummern-Suche Weiterführung… |
 | `formelle-verfassungsmaessigkeit` | Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG… |
 | `gesetzentwurf-gg-konformitaet-pruefen` | Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG… |
@@ -211,7 +212,7 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 ### Aktuelle Linien 2024-2026 (Pinpoint-Recherche vor Verwendung pflicht)
 
 - BVerfG, Beschl. v. 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Längerfristige Observation unter Anfertigung von Bildaufnahmen ohne hinreichende Eingriffsschwelle unvereinbar mit Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG; Übergangsfortgeltung bis 31.12.2025 — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241114_1bvl000322.html).
-- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 2466/19 (Trojaner I, PolG NRW Quellen-TKÜ / Online-Durchsuchung präventiv) — polizeirechtliche Befugnisse im Wesentlichen verfassungskonform — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
-- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 180/23 (Trojaner II, Quellen-TKÜ / Online-Durchsuchung StPO) — strafprozessuale Quellen-TKÜ für Taten mit niedrigem Strafrahmen teilweise nichtig — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
+- BVerfG, Beschl. v. 24.06.2025 — 1 BvR 2466/19 (Trojaner I, PolG NRW Quellen-TKÜ / Online-Durchsuchung präventiv) — polizeirechtliche Befugnisse, Art. 10 GG und IT-Grundrecht — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250624_1bvr246619.html) verifizieren.
+- BVerfG, Beschl. v. 24.06.2025 — 1 BvR 180/23 (Trojaner II, Quellen-TKÜ / Online-Durchsuchung StPO) — strafprozessuale Befugnisse, Straftatenschwellen und Verhältnismäßigkeit — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250624_1bvr018023.html) verifizieren.
 - BVerfG, Klimabeschluss vom 24.03.2021 — 1 BvR 2656/18 u. a. — intertemporale Freiheitssicherung — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html).
 - BVerfG, Jahresbericht 2025 — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/Jahresbericht/jahresbericht_2025.pdf).

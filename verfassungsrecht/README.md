@@ -24,7 +24,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Deutsches Verfassungsrecht unter dem Grundgesetz aus der Sicht einer verfassungsrechtlichen Spezialkanzlei. **Rechtsprechungsgetrieben** mit verpflichtender Live-Recherche auf [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) und einem internen Kanon der ca. 50 wichtigsten Leitentscheidungen mit Aktenzeichen, Randnummer und URL.
+Deutsches Verfassungsrecht unter dem Grundgesetz aus der Sicht einer verfassungsrechtlichen Spezialkanzlei. **Rechtsprechungsgetrieben** mit verpflichtender Live-Recherche auf [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de), Quellenkarte, Pinpoint-Pflicht und Prozessarten-Navigator für Verfassungsbeschwerde, §-32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, abstrakte und konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Richter-/Präsidentenanklage sowie aktuelle BVerfG-Linien zu Digitalgrundrechten, Triage, Existenzminimum und Berufsfreiheit.
 
 ## Wofür
 
@@ -40,14 +40,17 @@ Verfassungsrecht ist ein hochspezialisiertes Rechtsgebiet mit existentiellen Fol
 
 ## Skills
 
-- **`bverfg-rechtsprechung-recherchieren`** — Live-Recherche auf bundesverfassungsgericht.de plus Kanon-Referenz (Az., Rn., URL). Verbindlicher Einstiegspunkt vor jeder verfassungsrechtlichen Aussage.
-- **`verfassungsrechtliche-pruefung`** — Master-Workflow: Gesamtschema formelle + materielle Verfassungsmäßigkeit.
-- **`gesetzgebungskompetenz-pruefen`** — Art. 70–74 GG, ausschließliche/konkurrierende/Rahmen, Erforderlichkeitsklausel Art. 72 II GG.
-- **`formelle-verfassungsmaessigkeit`** — Verfahren Art. 76–82 GG (drei Lesungen, Bundesrat, Ausfertigung), Zitiergebot Art. 19 I 2 GG, Bestimmtheitsgebot, Wesentlichkeitstheorie/Parlamentsvorbehalt.
-- **`grundrechtspruefung`** — Schutzbereich-Eingriff-Rechtfertigung mit Drei-Stufen-Theorie (Apothekenurteil), Schranken-Schranken, Wechselwirkungslehre (Lüth).
-- **`verhaeltnismaessigkeit`** — Vier-Stufen-Prüfung: legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit, jeweils mit BVerfG-Pinpoint.
-- **`verfassungsbeschwerde-entwurf`** — § 90 BVerfGG: Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Begründungsanforderungen, Frist.
-- **`gesetzentwurf-gg-konformitaet-pruefen`** — Gesetzgeber-/Ministeriumssicht: GG-Check vor Einbringung des Entwurfs.
+- **`bverfg-prozessarten-navigator-parteien-antraege`** — statthaftes BVerfG-Verfahren bestimmen, bevor geschrieben wird: Bürger, Parteien, Fraktionen, Bundestag, Bundesrat, Bundesregierung, Landesregierungen, Gerichte, Gemeinden und sonstige Beteiligte sauber routen.
+- **`bverfg-rechtsprechung-recherchieren`** und **`bundesverfassungsgericht-quellenkarte-check`** — amtliche Entscheidung, Entscheidungsdatum, Aktenzeichen, Randnummer, Tragweite und Übertragbarkeit sichern.
+- **`verfassungsbeschwerde-entwurf-formelle`** und **`verfassungsbeschwerde-subsidiaritaet-substantiierung`** — § 90 BVerfGG, § 23 Abs. 1 BVerfGG, § 92 BVerfGG, § 93 BVerfGG, Annahmerisiko und fachgerichtliche Vorarbeit.
+- **`bverfg-eilantrag-paragraf-32-doppelhypothese`** — Eilantrag nach § 32 BVerfGG mit Doppelhypothese, Tenor und Anlagenpaket.
+- **`gesetzgebungskompetenz-pruefen`**, **`formelle-verfassungsmaessigkeit`** und **`gesetzentwurf-gg-konformitaet-pruefen`** — Art. 70 bis 82 GG, Parlamentsvorbehalt, Zitiergebot, Bestimmtheit und Gesetzgebungspraxis.
+- **`grundrechtspruefung-und-verhaeltnismaessigkeit`**, **`verhaeltnismaessigkeit`** und **`art-12-berufsfreiheit-regulierungsdichte`** — Schutzbereich, Eingriff, Rechtfertigung, Drei-Stufen-Theorie und aktuelle Berufsfreiheitsregulierung.
+- **`grundrechte-digitaler-staat-polizei-ueberwachung`** — Art. 10 GG, IT-Grundrecht, PolG NRW, Quellen-TKÜ, Online-Durchsuchung und Observation.
+- **`gleichheit-existenzminimum-triage-asylblg`** — Art. 3 GG, Art. 3 Abs. 3 Satz 2 GG, Menschenwürde, Existenzminimum, Triage und AsylbLG.
+- **`art-5-meinung-presse-mehrdeutigkeit`** — Meinungs-, Presse- und Rundfunkfreiheit, mehrdeutige Äußerung, Wechselwirkungslehre und behördliche Veröffentlichungen.
+- **`organstreit-bundestag-fraktion-opposition`** — Organstreit, Fraktionsrechte, Oppositionsrechte, Bundestagsbinnenrecht und § 64 Abs. 3 BVerfGG.
+- **`verfassung-grundrechte-und-eu-recht`** — GG, EU-Grundrechtecharta, Art. 51 GRC, Solange, Recht auf Vergessen I/II, Identitätskontrolle und Vorlagefragen.
 
 ## Referenzen
 
@@ -73,13 +76,17 @@ Anwältinnen und Anwälte sind nach **§ 203 StGB** (Verletzung von Privatgeheim
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `acht-zahlen-schwellen-und-berechnung` | Acht: Zahlen, Schwellenwerte und Berechnung im Verfassungsrecht. |
 | `anschluss-routing` | Anschluss-Routing für Verfassungsrecht: wählt den nächsten Spezial-Skill nach Engpass (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde, Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss), dokumentiert Router... |
-| `bundesverfassungsgericht-quellenkarte-check` | Bundesverfassungsgericht Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `art-12-berufsfreiheit-regulierungsdichte` | Art. 12 GG in Berufs- und Wirtschaftsregulierung: Berufsausübung, subjektive und objektive Zulassung, Altersgrenzen, sektorale Verbote, Einschätzungsspielraum und Verhältnismäßigkeit nach aktueller BVerfG-Linie. |
+| `art-5-meinung-presse-mehrdeutigkeit` | Art. 5 GG für Meinungs-, Presse- und Rundfunkfreiheit: Meinungsbegriff, Tatsachenbehauptung, Schmähkritik, mehrdeutige Äußerung, strafgerichtliche Deutung, Lebensmittelkontrolle und Wechselwirkungslehre. |
+| `bundesverfassungsgericht-quellenkarte-check` | BVerfG-Quellenkarte für tragende verfassungsrechtliche Aussagen: amtliche Entscheidung, Aktenzeichen, Entscheidungsform, Datum, Randnummer, Tenorbindung nach § 31 BVerfGG und Übertragbarkeit auf den konkreten Fall. |
+| `bverfg-eilantrag-paragraf-32-doppelhypothese` | Einstweilige Anordnung vor dem Bundesverfassungsgericht nach § 32 BVerfGG: Doppelhypothese, Folgenabwägung, Hauptsacheoffenheit, irreversible Nachteile, Tenorierung und Anlagenpaket für Verfassungsbeschwerde, Organstreit oder Normenkontr... |
+| `bverfg-prozessarten-navigator-parteien-antraege` | BVerfG-Prozessarten vollständig routen: Verfassungsbeschwerde, § 32 BVerfGG, Organstreit, Bund-Länder-Streit, abstrakte/konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Präsidentenankla... |
 | `bverfg-rechtsprechung-recherchieren` | BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren und für Schriftsatz aufbereiten. BVerfGG Art. 93 GG BVerfG-Judikatur. Prüfraster: Leitsaetze Tragsaetze obiter dicta Randnummern-Suche Weiterführung durch Folge-Rspr. Outp... |
 | `bverfg-verfahrenssicht-und-annahmerisiko` | BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Verfassungsrecht. |
 | `dokumente-intake` | Dokumentenintake für Verfassungsrecht: sortiert Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss, prüft Datum, Absender, Frist und Beweiswert (Tragende Erwägungen Vorinstanzen, Substantiierung Grundrec... |
@@ -89,21 +96,24 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `gesetzentwurf-gg-konformitaet-pruefen` | Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip... |
 | `gesetzgebungskompetenz-grundrechtspruefung` | Gesetzgebungskompetenz: Compliance-Dokumentation und Aktenvermerk im Verfassungsrecht. |
 | `gesetzgebungskompetenz-pruefen` | Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Prüfraster: ausschließliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirk... |
+| `gleichheit-existenzminimum-triage-asylblg` | Art. 3 GG, Menschenwürde, Existenzminimum und Schutzpflichten: Triage, Behinderung, AsylbLG-Grundleistungen, Sozialstaatsprinzip und Begründungslast des Gesetzgebers nach aktueller BVerfG-Rechtsprechung. |
 | `grundgesetz-fristen-form-und-zustaendigkeit` | Grundgesetz: Fristen, Form, Zuständigkeit und Rechtsweg im Verfassungsrecht. |
+| `grundrechte-digitaler-staat-polizei-ueberwachung` | Digitale Grundrechte gegen staatliche Überwachung: Art. 10 GG, Art. 13 GG, Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG, IT-Grundrecht, Quellen-TKÜ, Online-Durchsuchung, längerfristige Observation und Datenerhebung nach neuer BVerfG-Linie. |
 | `grundrechte-fehlerkatalog` | Grundrechte Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `grundrechtspruefung-acht-formelle-interessen` | Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Maßnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtli... |
 | `grundrechtspruefung-und-verhaeltnismaessigkeit` | Grundrechtsprüfung und Verhältnismäßigkeit: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Verfassungsrecht. |
 | `live-schriftsatz-brief-und-memo-bausteine` | Live: Schriftsatz-, Brief- und Memo-Bausteine im Verfassungsrecht. |
 | `mandantenkommunikation-redteam-qualitygate` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Verfassungsrecht. |
 | `materielle-petition-sonderfall-recherche` | Materielle: Internationaler Bezug und Schnittstellen im Verfassungsrecht. |
+| `organstreit-bundestag-fraktion-opposition` | Organstreit vor dem BVerfG: Bundestag, Fraktionen, Abgeordnete, Opposition, Ausschüsse, Sitzungssäle, Informationsrechte, Chancengleichheit und Sechsmonatsfrist nach § 64 Abs. 3 BVerfGG. |
 | `output-waehlen` | Output-Wahl für Verfassungsrecht: stimmt Adressat (Beschwerdeführer, Beschwerdegegner, BVerfG), Frist (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde) und Form auf den Zweck ab — typische Outputs: Verfassungsbeschwerde, Vorlagebeschluss, Ste... |
 | `petition-sonderfall-und-edge-case` | Petition: Sonderfall und Edge-Case-Prüfung im Verfassungsrecht. |
 | `quellen-livecheck` | Quellen-Live-Check für Verfassungsrecht: prüft Normen (GG, BVerfGG, Landesverfassungen) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BVerfG und Quellenhygiene nach references/quellenhygiene.md. |
 | `recherche-verhandlung-vergleich-und-eskalation` | Recherche: Verhandlung, Vergleich und Eskalation im Verfassungsrecht. |
 | `rechtsprechungsgetrieben-rechtsweg-bverfg` | Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg im Verfassungsrecht. |
 | `sicht-spezialkanzlei-unter` | Sicht: Dokumentenmatrix, Lückenliste und Nachforderung im Verfassungsrecht. |
-| `spezial-bundesverfassungsgericht-livequellen-check` | Bundesverfassungsgericht: Livequellen- und Rechtsprechungscheck. |
-| `spezial-grundrechte-red-team-und-qualitaetskontrolle` | Grundrechte: Red-Team und Qualitätskontrolle. |
+| `spezial-bundesverfassungsgericht-livequellen-check` | Livequellen-Check für BVerfG-Zitate: entscheidet, ob Entscheidung, Pressemitteilung, Leitsatz, Randnummer und Tenor wirklich die konkrete verfassungsrechtliche Aussage tragen. |
+| `spezial-grundrechte-red-team-und-qualitaetskontrolle` | Red-Team für Grundrechtsprüfungen: findet Schutzbereichsfehler, falsche Schranken, übersehene Schranken-Schranken, fehlende BVerfG-Pinpoints, Substantiierungslücken und schwache Verhältnismäßigkeitsabwägungen. |
 | `spezialkanzlei-risikoampel-und-gegenargumente` | Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien im Verfassungsrecht. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokume... |
 | `unter-tatbestand-beweis-und-belege` | Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Verfassungsrecht. |
@@ -112,18 +122,19 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `verfassung-abstrakte-normenkontrolle` | Abstrakte Normenkontrolle Art. 93 Abs. 1 Nr. 2 GG, §§ 76 ff. BVerfGG: Antragsteller (BReg, Landesregierung, ein Viertel BT-Mitglieder), Verfahrensgegenstand Bundes- oder Landesgesetz. Prüfraster im Verfassungsrecht. |
 | `verfassung-beweislast-verfassungsbeschwerde` | Verfassung: Beweislast, Darlegungslast und Substantiierung im Verfassungsrecht. |
 | `verfassung-bund-laender-streit` | Bund-Länder-Streit Art. 93 Abs. 1 Nr. 3 GG, §§ 68 ff. BVerfGG: Streitigkeiten Bund/Land oder Land/Land. Prüfraster und Beispiele (Finanzausgleich, Schulrecht, Polizeirecht) im Verfassungsrecht. |
-| `verfassung-grundgesetz-organstreitverfahren` | Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Änderungen im Verfassungsrecht. |
-| `verfassung-grundgesetz-verfahren` | Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen. |
+| `verfassung-grundgesetz-organstreitverfahren` | Organstreitverfahren nach Art. 93 Abs. 1 Nr. 1 GG und §§ 63 ff. BVerfGG allgemein prüfen: Beteiligtenfähigkeit, Antragsgegenstand, Antragsbefugnis, Sechsmonatsfrist, Rechtsschutzbedürfnis, verfassungsrechtliche Rechtsposition und Tenorie... |
+| `verfassung-grundgesetz-verfahren` | Verfassungsänderung nach Art. 79 GG prüfen: Änderungsform, Zwei-Drittel-Mehrheiten in Bundestag und Bundesrat, Art. 79 Abs. 3 GG, Identitätskern, Bundesstaats- und Demokratiegrenzen, europäische Integrationsschnittstelle und Formulierung... |
 | `verfassung-grundrechte-juristische-uebersicht` | Grundrechtsfaehigkeit juristischer Personen Art. 19 Abs. 3 GG: inlaendische jur. Personen, Wesensmaessigkeitsklausel. Beispiele: Wirtschafts-Grundrechte ja, Wuerde nein. Ausländische jur. Personen jetzt teilweise EuGH-konform anerkannt i... |
 | `verfassung-grundrechte-uebersicht` | Grundrechte des GG Überblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken,... |
-| `verfassung-grundrechte-und-eu-recht` | Verhältnis GG-Grundrechte und EU-Grundrechtecharta: Solange-II BVerfGE 73 S. 339, Bananenmarkt BVerfGE 102 S. 147, Recht auf Vergessen I sowie II BVerfG 1 BvR 16 aus 13 und 1 BvR 276 aus 17. Prüfraster: Anwendungsbereich Charta vs. GG im... |
+| `verfassung-grundrechte-und-eu-recht` | GG-Grundrechte, EU-Grundrechtecharta und Unionsrecht sauber abgrenzen: Solange, Bananenmarkt, Recht auf Vergessen I/II, Art. 51 GRC, Anwendungsvorrang, Identitätskontrolle und konkrete Vorlagefragen. |
 | `verfassung-konkrete-normenkontrolle` | Konkrete Normenkontrolle Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG: Vorlage durch Gericht, das Gesetz für verfassungswidrig haelt. Vorlagepflicht und Entscheidungserheblichkeit im Verfassungsrecht. |
 | `verfassung-organstreitverfahren` | Organstreitverfahren Art. 93 Abs. 1 Nr. 1 GG, § 13 Nr. 5, §§ 63 ff. BVerfGG: Antragsteller (Verfassungsorgane, mit eigenen Rechten ausgestattete Teile), Antragsgegenstand Maßnahme Verfassungsorgan, Frist 6 Monate. Prüfraster im Verfassun... |
-| `verfassung-parteiverbot` | Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Prüfraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG im Verfassungsrecht. |
+| `verfassung-parteiverbot` | Parteiverbot und Finanzierungsausschluss nach Art. 21 GG prüfen: Antragsberechtigung, Parteienprivileg, freiheitliche demokratische Grundordnung, Potentialität, V-Leute-Risiken, Beweisprogramm, Rechtsfolgen nach BVerfGG/PartG und Abgrenz... |
 | `verfassung-petition-und-verfassungsschutz` | Petitionsrecht Art. 17 GG und Verfassungsschutz: Verhältnis demokratische Teilhabe und Sicherheitsbehoerden. Beobachtung politischer Parteien und Akteure, Rechtsschutz vor VG im Verfassungsrecht. |
 | `verfassung-staatsorganisation` | Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Prüfraster Staatsfunktionen im Verfassungsrecht. |
 | `verfassungsbeschwerde-entwurf-formelle` | Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Prüfraster: Beschwerdeführerbefugnis Beschwerdeobje... |
 | `verfassungsbeschwerde-mandantenentscheidung` | Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage im Verfassungsrecht. |
+| `verfassungsbeschwerde-subsidiaritaet-substantiierung` | Verfassungsbeschwerde auf Zulässigkeit härten: Rechtswegerschöpfung, Subsidiarität, fachgerichtliche Grundrechtsrüge, § 23 Abs. 1 BVerfGG, § 92 BVerfGG, § 93 BVerfGG und Annahmerisiko nach § 93a BVerfGG. |
 | `verfassungsmaessigkeit-formular-portal-und-einreichung` | Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik im Verfassungsrecht. |
 | `verfassungsrechtliche-pruefung` | Verfassungsrechtliche Prüfung einer Maßnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU... |
 | `verhaeltnismaessigkeit` | Verhältnismäßigkeitsprüfung für staatliche Maßnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenprüfung Abwaegun... |

@@ -1,52 +1,44 @@
 ---
 name: spezial-grundrechte-red-team-und-qualitaetskontrolle
-description: "Grundrechte: Red-Team und Qualitätskontrolle im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Red-Team für Grundrechtsprüfungen: findet Schutzbereichsfehler, falsche Schranken, übersehene Schranken-Schranken, fehlende BVerfG-Pinpoints, Substantiierungslücken und schwache Verhältnismäßigkeitsabwägungen."
 ---
 
 # Grundrechte: Red-Team und Qualitätskontrolle
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `verfassungsrecht`. Ausgangspunkt ist: Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und Verfassungsbeschwerde.
+## Zweck des Skills
 
-Er führt durch **Red-Team und Qualitätskontrolle** im Themenfeld **Grundrechte**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill prüft eine fertige oder halbfertige Grundrechtsprüfung so streng, wie es eine Gegenseite, ein Fachgericht oder eine Kammer des Bundesverfassungsgerichts tun würde. Er ist besonders nützlich vor Abgabe eines Gutachtens, vor Einreichung einer Verfassungsbeschwerde oder vor Versand einer ministeriellen Verfassungsmäßigkeitsprüfung.
 
+## Normenanker
 
-## Fachlicher Zuschnitt
+- Art. 1 Abs. 1 GG für Menschenwürde und absolute Grenzen.
+- Art. 2 Abs. 1 GG für allgemeine Handlungsfreiheit und Persönlichkeitsrecht.
+- Art. 3 GG für Gleichheit und Diskriminierungsverbote.
+- Art. 5 GG für Kommunikationsgrundrechte.
+- Art. 8 GG für Versammlungsfreiheit.
+- Art. 12 GG für Berufsfreiheit.
+- Art. 14 GG für Eigentum.
+- Art. 19 Abs. 1 Satz 2 GG für Zitiergebot.
+- Art. 19 Abs. 3 GG für juristische Personen.
+- Art. 20 Abs. 3 GG für Verhältnismäßigkeit und Rechtsstaatsprinzip.
 
-- **Thema:** Grundrechte.
-- **Arbeitsfokus:** Red-Team und Qualitätskontrolle.
-- **Plugin-Rahmen:** Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgerich....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Prüfschärfe
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Das Red-Team fragt nicht, ob der Text gut klingt. Es fragt, ob er hält. Jede Grundrechtsprüfung wird gegen diese Fehlerquellen geprüft:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wurde das speziellere Grundrecht übersehen?
+2. Ist der Schutzbereich zu weit oder zu eng formuliert?
+3. Wird ein Eingriff behauptet, ohne Wirkung, Intensität und Adressat zu bestimmen?
+4. Ist die Schranke wirklich einschlägig?
+5. Fehlt bei vorbehaltlosen Grundrechten die kollidierende Verfassungsposition?
+6. Wird Verhältnismäßigkeit nur behauptet statt abgewogen?
+7. Fehlen BVerfG-Entscheidungen mit Datum, Aktenzeichen und Randnummer?
+8. Werden Tatsachen vorausgesetzt, die in der Akte nicht belegt sind?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Grundrechte** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## BVerfG-Anker
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+Nutze je nach Grundrecht die Leitentscheidungen aus `references/bverfg-leitentscheidungen.md`. Für aktuelle digitale Eingriffe sind insbesondere 1 BvL 3/22, 1 BvR 2466/19 und 1 BvR 180/23 zu prüfen. Für Art. 3 und Schutzpflichten sind 1 BvR 1541/20, 1 BvR 2284/23 und 1 BvL 5/21 relevant. Für Art. 12 sind Apothekenurteil, 1 BvR 1796/23 und 1 BvR 2637/21 als Ausgangspunkte zu prüfen.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+## Output
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+Erzeuge eine Rot-Gelb-Grün-Matrix mit Fehler, Fundstelle im Entwurf, rechtlichem Risiko, Verbesserungsvorschlag und benötigter Quelle. Danach folgt eine ausformulierte Ersatzpassage für die drei gefährlichsten Stellen.

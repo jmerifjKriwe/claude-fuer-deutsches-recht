@@ -1,52 +1,36 @@
 ---
 name: spezial-bundesverfassungsgericht-livequellen-check
-description: "Bundesverfassungsgericht: Livequellen- und Rechtsprechungscheck im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Livequellen-Check für BVerfG-Zitate: entscheidet, ob Entscheidung, Pressemitteilung, Leitsatz, Randnummer und Tenor wirklich die konkrete verfassungsrechtliche Aussage tragen."
 ---
 
-# Bundesverfassungsgericht: Livequellen- und Rechtsprechungscheck
+# Bundesverfassungsgericht: Livequellen-Check
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `verfassungsrecht`. Ausgangspunkt ist: Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und Verfassungsbeschwerde.
+## Zweck des Skills
 
-Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Bundesverfassungsgericht**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill wird aufgerufen, wenn ein Text bereits ein BVerfG-Zitat enthält oder ein solches benötigt. Er prüft, ob die Fundstelle echt, aktuell, richtig datiert und für die konkrete Aussage tragfähig ist.
 
+## Normenanker
 
-## Fachlicher Zuschnitt
+- § 31 BVerfGG für Bindungswirkung und Gesetzeskraft.
+- § 30 BVerfGG für Entscheidung und Sondervotum.
+- § 23 Abs. 1 BVerfGG für Begründungsanforderungen.
+- § 92 BVerfGG für die Bezeichnung verletzter Rechte in der Verfassungsbeschwerde.
+- § 93a BVerfGG für Annahmegründe.
+- Art. 93 GG für die Verfahrenszuständigkeit.
 
-- **Thema:** Bundesverfassungsgericht.
-- **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
-- **Plugin-Rahmen:** Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgerich....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Livecheck
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Suche zuerst auf bundesverfassungsgericht.de nach Aktenzeichen und Datum.
+2. Prüfe, ob der Treffer die Entscheidung selbst oder nur eine Pressemitteilung ist.
+3. Vergleiche Entscheidungsdatum, Veröffentlichungsdatum und Pressemitteilungsdatum.
+4. Extrahiere Randnummer und tragenden Satz.
+5. Prüfe, ob die Entscheidung noch gilt oder durch spätere Rechtsprechung präzisiert wurde.
+6. Markiere, ob das Zitat eine Leitsatz-, Tenor-, Gründe- oder obiter-Stelle ist.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Typischer Fehler
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bundesverfassungsgericht** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Bei neueren Entscheidungen wird oft das Veröffentlichungs- oder Pressemitteilungsdatum übernommen. Das ist falsch. Für Trojaner I und II lautet das Entscheidungsdatum jeweils 24.06.2025; die amtlichen Volltexte stehen unter den Aktenzeichen 1 BvR 2466/19 und 1 BvR 180/23.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Output
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+Erzeuge eine Quellenkarte mit Gericht, Entscheidungsform, Datum, Aktenzeichen, URL, Randnummer, zitierfähigem Kernsatz und Übertragbarkeitsnotiz. Wenn keine tragfähige Quelle gefunden wird, schreibe ausdrücklich: "Nicht zitierfähig; Quelle fehlt oder trägt die Aussage nicht."

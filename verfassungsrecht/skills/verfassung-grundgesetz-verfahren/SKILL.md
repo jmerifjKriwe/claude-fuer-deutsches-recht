@@ -1,63 +1,49 @@
 ---
 name: verfassung-grundgesetz-verfahren
-description: "Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen."
+description: "Verfassungsänderung nach Art. 79 GG prüfen: Änderungsform, Zwei-Drittel-Mehrheiten in Bundestag und Bundesrat, Art. 79 Abs. 3 GG, Identitätskern, Bundesstaats- und Demokratiegrenzen, europäische Integrationsschnittstelle und Formulierung verfassungsfester Änderungsalternativen."
 ---
 
-# GG-Aenderung Art. 79 GG
+# Verfassungsänderung nach Art. 79 GG
 
-## Aufgabe
-Verfahren der Verfassungsaenderung Art.
+## Einsatzbereich
 
+Dieser Skill prüft, ob eine Änderung des Grundgesetzes formal wirksam beschlossen werden kann und materiell an Art. 79 Abs. 3 GG scheitert. Er ist für Gesetzentwurfsprüfung, Ministerialvermerk, Fraktionsberatung, wissenschaftlichen Dienst, Verfassungsbeschwerde- oder Organstreitvorbereitung und politische Risikoanalyse gedacht.
 
-## Fachlicher Arbeitskern
+## Normenanker
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `verfassungsrecht` zum Thema `verfassung-grundgesetz-verfahren`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen..
+- Art. 20 Abs. 1 bis 3 GG: Demokratie, Rechtsstaat, Sozialstaat, Bundesstaat, Gesetzesbindung.
+- Art. 23 Abs. 1 GG: europäische Integration und Integrationsverantwortung.
+- Art. 38 Abs. 1 Satz 1 GG: Wahlrechtsgleichheit und demokratische Selbstbestimmung des Bundestages.
+- Art. 79 Abs. 1 GG: ausdrückliche Änderung oder Ergänzung des Grundgesetztextes.
+- Art. 79 Abs. 2 GG: Zwei-Drittel-Mehrheit der Mitglieder des Bundestages und zwei Drittel der Stimmen des Bundesrates.
+- Art. 79 Abs. 3 GG: Unantastbarkeit der Gliederung des Bundes in Länder, grundsätzliche Mitwirkung der Länder bei der Gesetzgebung und der in Art. 1 und Art. 20 GG niedergelegten Grundsätze.
+- Art. 93 Abs. 1 Nr. 1, Nr. 2 GG, §§ 13 Nr. 5, Nr. 6, 63 ff., 76 ff. BVerfGG: mögliche Verfahren vor dem Bundesverfassungsgericht.
 
-Arbeite deshalb fallnah:
+## Entscheidungsbaum
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+1. **Textänderung prüfen:** Art. 79 Abs. 1 GG verlangt, dass der Grundgesetztext selbst geändert oder ergänzt wird. Eine einfache Gesetzesnorm, die das Grundgesetz nur „anders versteht“, genügt nicht.
+2. **Mehrheiten trennen:** Bundestag zählt nach Mitgliedern, Bundesrat nach Stimmen. Enthaltungen, nicht abgegebene Stimmen und abweichende Länderabstimmungen sind getrennt zu prüfen.
+3. **Ewigkeitsgrenze bestimmen:** Art. 79 Abs. 3 GG schützt nicht jede Einzelvorschrift unveränderlich, sondern die tragenden Grundsätze aus Art. 1 und Art. 20 GG sowie föderale Mindeststrukturen.
+4. **Substanz statt Etikett prüfen:** Auch eine formal neutrale Änderung kann unzulässig sein, wenn sie Menschenwürde, demokratische Selbstbestimmung, effektiven Rechtsschutz, Gewaltenteilung oder Rechtsbindung strukturell entkernt.
+5. **Verfassungsfeste Alternative formulieren:** Wenn ein Ziel legitim ist, aber die gewählte Fassung zu tief schneidet, ist eine mildere Grundgesetzänderung oder einfache Gesetzeslösung zu entwerfen.
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+## Rechtsprechungsanker
 
-## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+- BVerfG, Urteil vom 30.06.2009, 2 BvE 2/08 u. a., Lissabon: demokratische Selbstbestimmung und Integrationsverantwortung des Bundestages.
+- BVerfG, Urteil vom 12.09.2012, 2 BvR 1390/12 u. a., ESM/Fiskalpakt: Haushaltsverantwortung und demokratische Kontrolle.
+- BVerfG, Urteil vom 21.06.2016, 2 BvR 2728/13 u. a., OMT: Integrationsverantwortung, Ultra-vires-Kontrolle und demokratische Rückbindung.
+- BVerfG, Urteil vom 05.05.2020, 2 BvR 859/15 u. a., PSPP: Kompetenzgrenzen und demokratische Verantwortungszurechnung.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+Rechtsprechung vor Verwendung live über die amtliche BVerfG-Datenbank prüfen; keine Fundstelle aus bloßer Erinnerung übernehmen.
 
-## Pruefraster
+## Typische Fehler
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+- Art. 79 Abs. 3 GG als Schutz jeder einzelnen Grundrechtsformulierung missverstehen. Geschützt sind die Grundsätze, nicht jede historische Normfassung.
+- Die Bundesratsmehrheit mit der Mehrheit der Länder verwechseln. Maßgeblich sind zwei Drittel der Stimmen, nicht zwei Drittel der Länder.
+- Eine Änderung, die demokratische Kontrolle faktisch verlagert, nur als Kompetenztechnik behandeln.
+- Europarechtliche Bindung und verfassungsrechtliche Integrationsgrenze unverbunden nebeneinanderstellen.
+- Politische Zweckmäßigkeit mit materieller Verfassungsänderungsbefugnis vermengen.
 
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Arbeitsprodukt
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Liefere ein ausformuliertes Memo mit Kurzantwort, formeller Prüfung, Art.-79-Abs.-3-GG-Prüfung, Prozessrisiko, Alternativfassung und einer Ampel. Bei Gesetzentwürfen zusätzlich eine konkrete Formulierung vorschlagen, die das Ziel mit geringerem Identitätsrisiko erreicht.
