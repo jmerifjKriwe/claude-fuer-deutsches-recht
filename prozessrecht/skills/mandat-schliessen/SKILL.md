@@ -31,8 +31,11 @@ description: "Mandat nach Prozessabschluss formal schließen: Kostenfestsetzung,
  | Vergleich | §§ 794 Abs. 1 Nr. 1, 278 ZPO; vollstreckbar |
  | Klagerücknahme | §§ 269, 270 ZPO; Kostenfolge § 269 Abs. 3 ZPO |
  | Erledigungserklärung | § 91a ZPO; Kostenbeschluss |
+ | Kostenfeststellungsklage nach erledigter Hauptsache | §§ 263, 264 Nr. 2, 256 ZPO; §§ 280, 286 BGB |
  | Einstellung (Strafrecht) | §§ 153, 153a, 170 Abs. 2, 204 StPO |
  | Verfahrensvergleich (Verwaltungsrecht) | § 106 VwGO |
+
+Vor jeder Klagerücknahme oder Erledigungserklärung ist bei Zahlung, Aufrechnung, dauernder Einrede, Unmöglichkeit oder Wegfall des Rechtsschutzbedürfnisses die Zeitachse zu prüfen. War die Gegenseite bei Klageeinreichung in Verzug, kann die Umstellung auf Feststellung der materiellen Kostenerstattungspflicht als Verzugsschaden strategisch besser sein als § 91a ZPO oder § 269 Abs. 3 Satz 3 ZPO. Dann den Skill `kostenfeststellungsklage-verzugsschaden-erledigung` nutzen und die Entscheidung in der Handakte begründen.
 
 2. **Endexposition berechnen:**
  - Gezahlter Betrag / auferlegte Leistung
@@ -110,6 +113,7 @@ _log.yaml-Status: archiv
 - **Fremdgelder nicht abgewickelt:** § 43a Abs. 5 BRAO – Fremdgelder (Kostenvorschüsse, Schadensersatzbeträge) unverzüglich weiterleiten; Verzögerung kann zur Strafbarkeit führen (§ 266 StGB).
 - **Rechtsmittelfrist läuft noch:** Vor dem Schließen prüfen, ob Berufungs- (§ 517 ZPO: 1 Monat) oder Revisionsfrist (§ 548 ZPO: 1 Monat) noch offen ist; Mandat erst nach Eintritt der Rechtskraft schließen oder Mandanten ausdrücklich auf Verzicht hinweisen.
 - **Vollstreckungsverjährung:** Vollstreckungstitel verjähren nach § 197 Abs. 1 Nr. 3 BGB in 30 Jahren; Abschluss nicht ohne Dokumentation der Vollstreckungsmaßnahmen.
+- **Erledigungsfalle bei Zahlung nach Klageeinreichung:** Nicht automatisch erledigen oder zurücknehmen. Zuerst prüfen, ob die Kosten des Klageverfahrens wegen Verzugs nach §§ 280, 286 BGB als materieller Schaden feststellbar sind.
 
 <!-- AUDIT 27.05.2026
 Halluzinierte Referenz geloescht. Keine Ersatzquelle gefunden.

@@ -14,6 +14,7 @@ Wenn Sie gewonnen haben, traegt die Gegenseite die Kosten (§ 91 ZPO). Aber: Das
 - Sie haben gewonnen und Urteil ist rechtskraeftig.
 - Sie wollen Ihre Auslagen erstattet bekommen.
 - Vergleich mit klarer Kosten-Regelung.
+- Die Gegenseite hat erst nach Klageeinreichung gezahlt und es gibt bereits eine gerichtliche Entscheidung, dass sie die Kosten tragen muss.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -28,6 +29,20 @@ Wenn Sie gewonnen haben, traegt die Gegenseite die Kosten (§ 91 ZPO). Aber: Das
 - **§ 103 ZPO** — Kostenfestsetzungs-Antrag.
 - **§ 104 ZPO** — Verfahren.
 - **§ 91 II 1 ZPO** — Anwaltskosten.
+
+## Wichtige Abgrenzung: Zahlung nach Klageeinreichung
+
+Wenn die Gegenseite nach Einreichung Ihrer Klage zahlt, aber bevor die Klage zugestellt wurde, ist die Kostenfrage gefährlich. Eine normale Kostenfestsetzung nach §§ 103, 104 ZPO hilft erst, wenn Sie einen Kostengrundtitel haben, also zum Beispiel ein Urteil, einen Vergleich oder eine Kostenentscheidung.
+
+War die Gegenseite bei Klageeinreichung bereits in Verzug, kann es eine weitere Möglichkeit geben: Sie stellen den Antrag um und verlangen die Feststellung, dass die Gegenseite die Kosten des Rechtsstreits als Verzugsschaden nach §§ 280, 286 BGB tragen muss. Das ist für Laien anspruchsvoll. Vor einer Klagerücknahme oder Erledigungserklärung sollten Sie jedenfalls die Zeitpunkte Klageeinreichung, Zustellung und Zahlung sauber notieren und prüfen lassen.
+
+Ein möglicher Antrag lautet:
+
+```text
+Es wird festgestellt, dass die Beklagte verpflichtet ist, mir die durch
+die Einreichung der Klage entstandenen Kosten des Rechtsstreits als
+Verzugsschaden zu ersetzen.
+```
 
 ## Schritt-für-Schritt-Anleitung
 
@@ -124,6 +139,7 @@ Mit dem Kostenfestsetzungs-Beschluss können Sie:
 - **Selbstvertretung erhaelt weniger Kostenfestsetzung** als Anwalts-Mandate.
 - **Beschwerde-Frist 2 Wochen**.
 - **Vollstreckung mit Beschluss** wie mit Urteil.
+- **Nicht voreilig zurücknehmen:** Wenn die Gegenseite erst nach Klageeinreichung zahlt, kann eine falsche Klagerücknahme oder Erledigungserklärung dazu führen, dass Sie auf Kosten sitzen bleiben.
 
 ## Typische Fehler
 

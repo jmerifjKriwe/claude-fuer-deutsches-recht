@@ -20,6 +20,7 @@ Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die
 | Vollmacht | original oder beglaubigte Abschrift mit Klage | ZPO 80 |
 | Gerichtskostenvorschuss | nach Eingang Rechnung sofort einzahlen | GKG 12 |
 | Zustellung | Gericht von Amts wegen an Beklagten | ZPO 271 |
+| Zahlung nach Einreichung | vor Rücknahme oder Erledigung Kostenfeststellungsklage als Verzugsschaden prüfen | ZPO 91a 269 III 3; BGB 280 286 |
 
 ## beA-Pflicht ZPO 130d
 
@@ -28,6 +29,16 @@ Seit 1.1.2022 müssen Rechtsanwaeltinnen Schriftsaetze elektronisch einreichen. 
 ## Gerichtskostenvorschuss
 
 Nach Eingang der Klage versendet das Gericht eine Kostenrechnung. Erst nach Eingang des Vorschusses wird die Klage zugestellt. Wer Verjährungshemmung will muss demnaechst zahlen ZPO 167. In der Praxis innerhalb von zwei Wochen.
+
+## Zahlung, Aufrechnung oder Erledigung vor Zustellung
+
+Geht nach Einreichung der Klage, aber vor Zustellung an die Beklagte, eine Zahlung ein oder fällt der Klageanlass sonst weg, ist das keine reine Formsache. Vor einer Prozesserklärung sind drei Wege zu vergleichen:
+
+1. Klagerücknahme mit Kostenantrag nach § 269 Abs. 3 Satz 3 ZPO.
+2. Erledigungserklärung nur, wenn die zeitliche Lage und die Reaktion der Gegenseite dies tragen.
+3. Umstellung auf Feststellung, dass die Beklagte die Kosten als Verzugsschaden nach §§ 280, 286 BGB zu ersetzen hat.
+
+Die dritte Spur ist besonders wichtig, wenn der Schuldner bei Klageeinreichung schon in Verzug war und die summarische Kostenentscheidung nach § 269 Abs. 3 Satz 3 ZPO wegen offener Beweis- oder Rechtsfragen eine Kostenaufhebung riskieren würde. Dann zum Skill `kostenfeststellungsklage-verzugsschaden-erledigung` wechseln.
 
 ## Streitwert und Gebühren Beispiele 2026
 
@@ -59,6 +70,7 @@ Im Text Bezugnahme z B Anlage K 1.
 - ZPO 167 Rueckwirkung
 - ZPO 253 271
 - GKG 12 39
+- BGB 280 286 Rechtsverfolgungskosten als Verzugsschaden
 
 ## Quellen
 

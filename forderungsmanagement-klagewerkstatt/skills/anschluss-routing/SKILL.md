@@ -14,6 +14,7 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 | Akte neu oder Ordner/ZIP hochgeladen | aktenordner-schnellstart | dokumente-intake bei Belegchaos |
 | Akte neu Schuldner privater Verbraucher Forderung dokumentiert | mahnung-aussergerichtlich-stufenmodell | mahnbescheid-online wenn Verjährung droht |
 | Mahnung verstrichen Schuldner schweigt | mahnbescheid-online | zahlungsklage-erstellen wenn Streit erwartbar |
+| Zahlung Aufrechnung oder dauernde Einrede nach Klageeinreichung | kostenfeststellungsklage-verzugsschaden-erledigung | § 91a ZPO oder § 269 Abs. 3 Satz 3 ZPO nur nach Zeitachsenprüfung |
 | Mahnbescheid eingelegt Widerspruch | zahlungsklage-erstellen | inkasso-risikoampel zur Aussichtspruefung |
 | Vollstreckungsbescheid rechtskraeftig | vollstreckungsbescheid-folgen | zwangsvollstreckung-überblick |
 | Urteil rechtskraeftig | zwangsvollstreckung-überblick | forderung-im-ausland-vollstrecken bei Auslandsbezug |

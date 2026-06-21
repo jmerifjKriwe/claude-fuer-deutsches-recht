@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v362.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v363.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -85,7 +85,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fashion-law-moderecht](./fashion-law-moderecht.md) (50 Skills)
 - [festlandchina-wirtschaftsverkehr](./festlandchina-wirtschaftsverkehr.md) (198 Skills)
 - [fluggastrechte](./fluggastrechte.md) (87 Skills)
-- [forderungsmanagement-klagewerkstatt](./forderungsmanagement-klagewerkstatt.md) (83 Skills)
+- [forderungsmanagement-klagewerkstatt](./forderungsmanagement-klagewerkstatt.md) (84 Skills)
 - [forschungszulage-antragstellung](./forschungszulage-antragstellung.md) (84 Skills)
 - [fortbestehensprognose](./fortbestehensprognose.md) (59 Skills)
 - [franchiserecht-praxis](./franchiserecht-praxis.md) (122 Skills)
@@ -162,7 +162,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (462 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (108 Skills)
 - [produktrecht](./produktrecht.md) (69 Skills)
-- [prozessrecht](./prozessrecht.md) (63 Skills)
+- [prozessrecht](./prozessrecht.md) (64 Skills)
 - [pruefungsrecht-hochschule](./pruefungsrecht-hochschule.md) (108 Skills)
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (59 Skills)
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (64 Skills)

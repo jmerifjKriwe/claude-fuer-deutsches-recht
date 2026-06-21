@@ -24,6 +24,7 @@ Dieses Anschluss-Routing für **Prozessrecht** wählt nach dem ersten Ergebnis d
 - `gegenseite-status-mahnbescheid-mahnschreiben` — Gegenseite Status Mahnbescheid Mahnschreiben
 - `kaltstart-interview` — Kaltstart Interview
 - `mahnbescheid` — Mahnbescheid
+- `kostenfeststellungsklage-verzugsschaden-erledigung` — Zahlung, Aufrechnung, dauernde Einrede, Unmöglichkeit oder Wegfall des Rechtsschutzbedürfnisses nach Klageeinreichung; prüft § 91a ZPO, § 269 Abs. 3 Satz 3 ZPO und materiellen Kostenerstattungsanspruch als Verzugsschaden.
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 

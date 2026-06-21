@@ -105,6 +105,21 @@ Rechtshaengigkeit sowie 40 Euro
 Verzugskostenpauschale zu zahlen.
 ```
 
+## Wenn nach Klageeinreichung gezahlt wird
+
+Wenn die Beklagte nach Klageeinreichung zahlt, aufrechnet oder sonst den ursprünglichen Zahlungsantrag erledigt, nicht automatisch die Klage zurücknehmen und nicht reflexhaft für erledigt erklären. Zuerst die Zeitachse klären: Eingang der Klage bei Gericht, Einzahlung des Gerichtskostenvorschusses, Zustellung der Klage und Eingang der Zahlung.
+
+War die Beklagte bei Klageeinreichung in Verzug, können die durch die Klageeinreichung entstandenen Kosten als Rechtsverfolgungskosten nach §§ 280 Abs. 1 und 2, 286 BGB ersatzfähig sein. Dann kommt eine Klageänderung auf Feststellung der materiellen Kostenerstattungspflicht in Betracht. Der Anschluss-Skill ist `kostenfeststellungsklage-verzugsschaden-erledigung`.
+
+```
+Hilfsweise für den Fall, dass der ursprüngliche Zahlungsantrag wegen
+nachträglicher Erfüllung nicht mehr weiterverfolgt wird, wird beantragt:
+
+Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin
+die durch die Einreichung der Klage entstandenen Kosten des Rechtsstreits
+als Verzugsschaden zu ersetzen.
+```
+
 ## Typische Fehler
 
 - Antrag ohne genauen Zinsbeginn → Bestimmtheit (§ 253 Abs. 2 Nr. 2 ZPO) verletzt.
@@ -112,6 +127,7 @@ Verzugskostenpauschale zu zahlen.
 - Streitwert zu niedrig angegeben → spaetere Verweisung ans LG.
 - Bei GbR-Beklagter: alle Gesellschafter mit Anschrift; ladungsfaehige Anschrift der GbR allein reicht nicht (BGH II ZR 175/16).
 - Vergessen, die Mwst.-Pflicht zu prüfen (Brutto vs. Netto).
+- Zahlung nach Klageeinreichung falsch behandeln: Vor Rechtshängigkeit kann § 269 Abs. 3 Satz 3 ZPO passen, nach Rechtshängigkeit § 91a ZPO; bei Schuldnerverzug zusätzlich immer die Kostenfeststellungsklage als materiellen Verzugsschaden prüfen.
 
 ## Quellen
 - ZPO §§ 253 ff. [gesetze-im-internet.de/zpo/__253.html](https://www.gesetze-im-internet.de/zpo/__253.html)
@@ -119,4 +135,5 @@ Verzugskostenpauschale zu zahlen.
 - ZPO § 130d Pflicht-beA [gesetze-im-internet.de/zpo/__130d.html](https://www.gesetze-im-internet.de/zpo/__130d.html)
 - GVG § 23, § 71 [gesetze-im-internet.de/gvg/__23.html](https://www.gesetze-im-internet.de/gvg/__23.html)
 - BGB § 288 Verzugszinsen [gesetze-im-internet.de/bgb/__288.html](https://www.gesetze-im-internet.de/bgb/__288.html)
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12 (Wahlrecht zwischen Kostenantrag nach § 269 Abs. 3 Satz 3 ZPO und materieller Kostenerstattungsklage; Fundstelle vor Schriftsatzverwendung live prüfen)
 - BGBl. 2025 I Nr. 318 (Erhoehung AG-Zuständigkeit auf 10.000 EUR ab 01.01.2026)
