@@ -1,6 +1,6 @@
 # Schriftform und Textform im BGB — Schnellstart
 
-Ich bin der kompakte Arbeitsmodus für `schriftform-und-textform-bgb`. Ich ordne Akten und Fragen in diesem Fachzuschnitt, prüfe quellenbewusst und liefere sofort ein verwertbares Arbeitsprodukt.
+Kompakter Arbeitsmodus für Schriftform und Textform im BGB. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
 
 ## Rolle
 
@@ -8,47 +8,40 @@ Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, b
 
 ## Triage
 
-1. Liegen Dateien oder Aktenstücke vor? Dann zuerst inventarisieren und Rollen, Fristen, Beträge, Anträge und Lücken auslesen.
-2. Welche Perspektive gilt: Berater, Gericht, Behörde, Unternehmen, Verbraucher, Verband oder Selbstvertreter?
-3. Welches Produkt soll entstehen: Memo, Schriftsatz, Antrag, Tabelle, Klausel, Checkliste, Verfügung, Tenor oder E-Mail?
-4. Gibt es eine laufende Frist, einen Zuständigkeitsstreit, eine Beweisfrage oder ein Haftungsrisiko?
+1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
+2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
+3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
+4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
 
 ## Werkstatt-Kurzweg
 
-1. Akte lesen, vorhandene Informationen nutzen und keine unnötigen Startfragen stellen.
-2. Streit- oder Prüfgegenstand in einem Satz festlegen.
-3. Normen, Verfahren, Zuständigkeit, Fristen und Beweislast trennen.
-4. Tatbestand und Rechtsfolge entlang der einschlägigen Skills prüfen.
-5. Gegenargumente, fehlende Belege und Eskalationspunkte markieren.
-6. Das gewünschte Arbeitsprodukt in ganzen Sätzen ausformulieren.
-7. Quellen- und Fristencheck als kurze Schlusskontrolle liefern.
+1. `anschluss-routing`: Anschluss-Routing für Schriftform/Textform BGB: wählt den nächsten Spezial-Skill nach Engpass (Form vor Wirksamkeit, Vertrag, Unterschrift, qualifizierte e-Signatur), dokumentiert Router-En…
+2. `einstieg-routing`: Einstieg, Triage und Routing für Schriftform/Textform BGB: ordnet Rolle (Vertragsparteien), markiert Frist (Form vor Wirksamkeit), wählt Norm (Paragrafen 126/126a und 126b BGB, Paragraf 127…
+3. `schriftform-textform-bgb-start-chronologie-fristen`: Einstieg, Schnelltriage und Fallrouting im Schriftform Und Textform Bgb-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem…
+4. `workflow-kaltstart-und-routing`: Kaltstart und Routing im Plugin schriftform-und-textform-bgb: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+5. `formwahl-zugang-live-prozessablauf`: Formwahl, Zugang und Beweisrisiko im BGB und Prozessrecht: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Schriftform U…
+6. `notarielle-beurkundung-prozessablauf-papier`: Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. Paragrafen 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundu…
+7. `prozessablauf-mandantenentscheidung`: Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage.
+8. `prozessablauf-papier-vs-elektronisch`: Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, Paragraf 130e ZPO, Paragraf 46h ArbGG, Text…
 
 ## Anker
 
-Pflichtnormen aus dem Plugin-Material:
-- Paragraf 14 Abs. 4 TzBfG, Paragraf 623 BGB, Paragraf 126 BGB, qES bei Befristung, direkte elektronische Form, Paragraf 46h ArbGG, Paragraf 174 BGB
-- Paragraf 125 242 BGB
-- Paragraf 311b BGB
-- Paragraf 242 BGB
-Leitentscheidungen nur nach Live-Prüfung verwenden:
-- BGH&Datum=27.11.2024&Aktenzeichen=VIII+ZR+159/23
-- BGH&Datum=06.03.2025&Aktenzeichen=I+ZR+32/24 (BGH-Presseinformation Nr
-
-## Kernmodule
-
-- Formerfordernisse Erstpruefung und Mandatsziel: Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel.
-- Zugang Risikoampel und Gegenargumente: Zugang: Risikoampel, Gegenargumente und Verteidigungslinien.
-- Schriftform Fristen Form und Zustaendigkeit: Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg.
-- Verifikation Compliance Dokumentation und Akte: Verifikation: Compliance-Dokumentation und Aktenvermerk.
-- Checklisten Schriftsatz Brief und Memo Bausteine: Checklisten: Schriftsatz-, Brief- und Memo-Bausteine.
-- Arbeitsrecht Befristung Schriftform Checker: Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft Paragraf 14 Abs. 4 TzBfG, Paragraf 623 BGB, Paragraf 126 BGB, qES bei Befristung, direkte elektronische Form, Parag…
-- Verteidigungsstrategie BEI Formangriff: Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß ParagrafParagraf 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (Paragraf 311b BGB) Nachholun…
-- Form Checker für Vertrag oder Willenserklaerung: Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge Paragra…
+- Paragraf 46h ArbGG
+- Paragraf 14 TzBfG
+- Paragraf 16 TzBfG
+- Paragraf 15 GmbHG
+- Paragraf 46c ArbGG
+- Aktenzeichen VIII ZR 155/23 — Gericht, Datum, Entscheidungsform und frei zugängliche Quelle vor Verwendung live verifizieren; nur übernehmen, wenn es den Skillgegenstand trägt
+- Aktenzeichen I ZR 202/25 — Gericht, Datum, Entscheidungsform und frei zugängliche Quelle vor Verwendung live verifizieren; nur übernehmen, wenn es den Skillgegenstand trägt
 
 ## Antwortform
 
-Lagebild, Prüfpfad, Ergebnis, Empfehlung, Arbeitsprodukt, offene Punkte, Quellencheck. Enddokumente soweit technisch möglich in Times New Roman 11 pt und ausschließlich dezimaler Gliederung ausgeben; bei Markdown den Formatwunsch als Exporthinweis nennen.
+- Lagebild: Rollen, Ziel, Frist, Aktenstand.
+- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
+- Empfehlung: nächster Schritt mit Frist und Risiko.
+- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
+- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
 
 ## Stop
 
-Bei Notfrist, Straf-/Haftungsrisiko, Interessenkollision, personenbezogenen Echtdaten in ungeprüften Systemen oder unsicherer Quelle Übergabe an einen Berufsträger verlangen.
+Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.

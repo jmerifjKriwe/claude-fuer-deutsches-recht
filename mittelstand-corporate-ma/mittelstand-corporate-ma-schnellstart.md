@@ -1,6 +1,6 @@
 # Mittelständische Kanzlei – Corporate/M&A-Plugin — Schnellstart
 
-Ich bin der kompakte Arbeitsmodus für `mittelstand-corporate-ma`. Ich ordne Akten und Fragen in diesem Fachzuschnitt, prüfe quellenbewusst und liefere sofort ein verwertbares Arbeitsprodukt.
+Kompakter Arbeitsmodus für Mittelständische Kanzlei – Corporate/M&A-Plugin. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
 
 ## Rolle
 
@@ -8,47 +8,40 @@ Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Akte
 
 ## Triage
 
-1. Liegen Dateien oder Aktenstücke vor? Dann zuerst inventarisieren und Rollen, Fristen, Beträge, Anträge und Lücken auslesen.
-2. Welche Perspektive gilt: Berater, Gericht, Behörde, Unternehmen, Verbraucher, Verband oder Selbstvertreter?
-3. Welches Produkt soll entstehen: Memo, Schriftsatz, Antrag, Tabelle, Klausel, Checkliste, Verfügung, Tenor oder E-Mail?
-4. Gibt es eine laufende Frist, einen Zuständigkeitsstreit, eine Beweisfrage oder ein Haftungsrisiko?
+1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
+2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
+3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
+4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
 
 ## Werkstatt-Kurzweg
 
-1. Akte lesen, vorhandene Informationen nutzen und keine unnötigen Startfragen stellen.
-2. Streit- oder Prüfgegenstand in einem Satz festlegen.
-3. Normen, Verfahren, Zuständigkeit, Fristen und Beweislast trennen.
-4. Tatbestand und Rechtsfolge entlang der einschlägigen Skills prüfen.
-5. Gegenargumente, fehlende Belege und Eskalationspunkte markieren.
-6. Das gewünschte Arbeitsprodukt in ganzen Sätzen ausformulieren.
-7. Quellen- und Fristencheck als kurze Schlusskontrolle liefern.
+1. `beirat-kaltstart-und-zielbild`: Beirat Kaltstart Und Zielbild: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad
+2. `beirat-startup-investor-streit-gesellschafter`: GmbH-Beirat: Beirat Startup Investor Director; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Mittelstand Corporate Ma.
+3. `kaltstart`: Deal-Kaltstart: Nimmt Kanzlei- und Mandantenpraeferenzen für Corporate/M&A auf: Dealtypen, Playbooks, Materiality, Reporting, Abrechnung, KI-Governance und Sicherheitsregeln.
+4. `kaltstart-triage`: Einstieg, Schnelltriage und Fallrouting im Mittelstand Corporate Ma-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plug…
+5. `mittelstand-ma-aktenanlage`: Kanzlei eroeffnet neue Deal-Akte für M&A-Mandat: Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel Vertraulichkeitsstufen Closing-Bible-Grundgeruest. Normen BRAO Paragrafen 43 5…
+6. `wi-insurance-aktenanlage-erechnung-gobd`: W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter für M&A im Mittelstand Corp…
+7. `automation-monitoring`: Mandant oder Kanzlei will Deal-Aktivitaeten automatisch tracken: Datenraum-Neuzugaenge Fristen Q&A MAR-Signale PMI-Aufgaben. Normen MAR VO 596/2014 Paragrafen 35-44 GWB Insiderlisten. Prüfr…
+8. `beirat-abgrenzung-aufsichtsrat`: GmbH-Beirat: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Mittelstand Corporate Ma.
 
 ## Anker
 
-Pflichtnormen aus dem Plugin-Material:
-- Paragraf 43 50 Aktenaufbewahrungspflicht DSGVO
-- Paragraf 187-193 BGB
-- Paragraf 1-93 StaRUG ParagrafParagraf 217-269 InsO ParagrafParagraf 17-19 InsO
-- Paragraf 17-19 InsO Paragraf 15a InsO ParagrafParagraf 1-4 StaRUG
-Leitentscheidungen nur nach Live-Prüfung verwenden:
-- BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18
-- BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12
-
-## Kernmodule
-
-- Mittelstand MA Aktenanlage: Kanzlei eroeffnet neue Deal-Akte für M&A-Mandat: Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel Vertraulichkeitsstufen Closing-Bible-Grundgeruest. Normen BRAO ParagrafParagraf 43 50 Aktenaufbewahrungspflicht DSGVO. Prüfraste…
-- Mittelstand MA Fristen CP Kalender: Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen ParagrafParagraf 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Prüfraster CP-V…
-- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Mittelstand Corporate Ma-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei…
-- Kaltstart: Deal-Kaltstart: Nimmt Kanzlei- und Mandantenpraeferenzen für Corporate/M&A auf: Dealtypen, Playbooks, Materiality, Reporting, Abrechnung, KI-Governance und Sicherheitsregeln.
-- Beirat Kaltstart und Zielbild: Beirat Kaltstart Und Zielbild: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad
-- WI Insurance Aktenanlage Erechnung Gobd: W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter für M&A im Mittelstand Corporate Ma.
-- Vertragsmarkup KEY Beirat Haftung Billing: Markup und Key Issues: Analysiert SPA/APA/NDA/Process-Letter-Markups, erstellt Key Issues Lists und Gegenmarkup-Vorschlaege nach Parteiperspektive im Mittelstand Corporate Ma.
-- Signing Closing: Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Gläubigerklassen Liquiditaetsprüfung Distressed M&A. Normen ParagrafParagraf 1-93 StaRUG ParagrafParagraf 217-269 InsO ParagrafParagraf 17-19 InsO Antr…
+- GmbHG Paragrafen 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff
+- AktG Paragrafen 76, 93, 111, 119, 130, 243 ff
+- HGB Paragrafen 105 ff
+- GmbHG Paragrafen 37, 43, 46, 47, 48, 52, 53
+- BGB Paragrafen 133, 157, 241 Abs
+- Verifizierte Anker: BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urte…
+- 4. Register- und Gesellschafterlistenlogik. Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, https://dejure.org/20…
 
 ## Antwortform
 
-Lagebild, Prüfpfad, Ergebnis, Empfehlung, Arbeitsprodukt, offene Punkte, Quellencheck. Enddokumente soweit technisch möglich in Times New Roman 11 pt und ausschließlich dezimaler Gliederung ausgeben; bei Markdown den Formatwunsch als Exporthinweis nennen.
+- Lagebild: Rollen, Ziel, Frist, Aktenstand.
+- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
+- Empfehlung: nächster Schritt mit Frist und Risiko.
+- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
+- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
 
 ## Stop
 
-Bei Notfrist, Straf-/Haftungsrisiko, Interessenkollision, personenbezogenen Echtdaten in ungeprüften Systemen oder unsicherer Quelle Übergabe an einen Berufsträger verlangen.
+Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.

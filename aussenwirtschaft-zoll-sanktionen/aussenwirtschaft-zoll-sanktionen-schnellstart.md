@@ -1,6 +1,6 @@
 # Außenwirtschaft, Sanktionen, Zoll und CBAM — Schnellstart
 
-Ich bin der kompakte Arbeitsmodus für `aussenwirtschaft-zoll-sanktionen`. Ich ordne Akten und Fragen in diesem Fachzuschnitt, prüfe quellenbewusst und liefere sofort ein verwertbares Arbeitsprodukt.
+Kompakter Arbeitsmodus für Außenwirtschaft, Sanktionen, Zoll und CBAM. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
 
 ## Rolle
 
@@ -8,44 +8,40 @@ Freistehendes Plugin für Außenwirtschaft, Sanktionen, Zoll, Exportkontrolle, B
 
 ## Triage
 
-1. Liegen Dateien oder Aktenstücke vor? Dann zuerst inventarisieren und Rollen, Fristen, Beträge, Anträge und Lücken auslesen.
-2. Welche Perspektive gilt: Berater, Gericht, Behörde, Unternehmen, Verbraucher, Verband oder Selbstvertreter?
-3. Welches Produkt soll entstehen: Memo, Schriftsatz, Antrag, Tabelle, Klausel, Checkliste, Verfügung, Tenor oder E-Mail?
-4. Gibt es eine laufende Frist, einen Zuständigkeitsstreit, eine Beweisfrage oder ein Haftungsrisiko?
+1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
+2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
+3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
+4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
 
 ## Werkstatt-Kurzweg
 
-1. Akte lesen, vorhandene Informationen nutzen und keine unnötigen Startfragen stellen.
-2. Streit- oder Prüfgegenstand in einem Satz festlegen.
-3. Normen, Verfahren, Zuständigkeit, Fristen und Beweislast trennen.
-4. Tatbestand und Rechtsfolge entlang der einschlägigen Skills prüfen.
-5. Gegenargumente, fehlende Belege und Eskalationspunkte markieren.
-6. Das gewünschte Arbeitsprodukt in ganzen Sätzen ausformulieren.
-7. Quellen- und Fristencheck als kurze Schlusskontrolle liefern.
+1. `kaltstart-triage`: Einstieg, Schnelltriage und Fallrouting im Aussenwirtschaft Zoll Sanktionen-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus die…
+2. `aussenwirtschaft-versandverfahren-ncts`: Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised Transit System): Eroeffffnung Sicherheitsleistung Transit-Begleitdokument (TAD) Bestimmungsstelle und Freigabe. Besonderhe…
+3. `aussenwirtschaft-zollverfahren-bewilligungen`: Zollverfahren und Bewilligungen nach UZK Artikel 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvorausset…
+4. `allgemeingenehmigung-agg-antidumping`: Allgemeine Genehmigungen nach AWV: Auffinden und Prüfen der passenden Allgemeingenehmigung (AGG) für kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen…
+5. `asset-freeze-atlas-ausfuhranmeldung-audit`: Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Artikel 2 VO (EU) 269/2014 und Artikel 4 VO (EU…
+6. `aussenwirtschaft-abfallverbringung`: Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren für Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflicht…
+7. `aussenwirtschaft-aeo-bewilligung-monitoring`: AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Artikel 38-39 UZK und AEOC/AEOS/AEOF. Prüft reg…
+8. `aussenwirtschaft-aktive-veredelung`: Zollverfahren aktive Veredelung nach Artikel 256-258 UZK und Artikel 240-262 UZK-DA: Beantragung und Nutzung der Bewilligung beim Hauptzollamt, Mengenueberwachung (INF-Blatt), Ausbeute- und…
 
 ## Anker
 
-Pflichtnormen aus dem Plugin-Material:
-- Paragraf 196 ff. AO
-- Paragraf 18 AWG Schmuggeldelikt Paragraf 370 AO
-- Paragraf 22 Abs. 4 AWG und 371 AO
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle zitieren.
-
-## Kernmodule
-
-- Aussenwirtschaft Bafa Elan K2 Antragspaket: Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokum…
-- Aussenwirtschaft Distributor Vertrag Exportkontrolle: Exportkontrollklauseln in Distributor- und Handelsvertretervertraegen: Vertragliche Pflichten des Importeurs zur Einhaltung von Re-Export-Verboten, Endverwender-Verpflichtungen und No-Russia-Clause (Art. 12g VO 833/2014). Haftungsklauseln…
-- Aussenwirtschaft Exportkontrollklauseln Vertrag: Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, Lizenz- und Kooperationsvertraegen: No-Russia-Clause nach Art. 12g VO (EU) 833/2014, Endverwendungsklauseln, Re-Export-Verbote, Ruecktrittsrechte bei Genehmigungsversagung…
-- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Aussenwirtschaft Zoll Sanktionen-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitspl…
-- Vzta Antrag Warennummer HS WTO Handelspolitik: Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff: Antragsqualitaet Warenbezeichnung technische Unterlagen Muster und Lieferfrist. Behoerdliche Bindungswirkung und Rechtschutz gegen ablehnenden Bescheid oder abweichende Einreihung…
-- Aussenwirtschaft Vzta Antrag Qualitaetsgate: Vertiefter Skill fuer VZTA Antrag Qualitaetsgate. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht.
-- Aussenwirtschaft AML KYC Sanktionen: Verknuepft GwG-Risikoanalyse KYC Sanktionsscreening und interne Kontrollpflichten im Aussenhandel. Anwendungsfall Exporteur oder Haendler braucht integriertes AML- und Sanktions-Compliance-System für grenzüberschreitende Geschäfte. Normen…
-- Aussenwirtschaft Bafa Genehmigungen: BAFA-Genehmigungsverfahren für Exporte und Dienstleistungen mit Genehmigungspflicht. Anwendungsfall Exporteur braucht BAFA-Ausfuhrgenehmigung für gueterlistenpflichtige Ware oder Technologie. Normen Paragraf 8 AWG Genehmigungspflicht EU-Du…
+- Paragraf 130 OWiG
+- FGO Paragrafen 40 bis 68: Finanzgerichtliche Klage bei Zollbescheiden
+- Paragraf 355 AO i
+- Paragraf 355 AO
+- Paragraf 68 VwGO
+- Tragende Normen verifizieren: AWG, AWV, EU-Dual-Use-VO 2021/821, EU-Sanktionsverordnungen, ZollkodexUnion, IranEmbargoVO, RusslandSanktionenVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Mod…
+- Aktenzeichen 009 VO 2021/821 — Gericht, Datum, Entscheidungsform und frei zugängliche Quelle vor Verwendung live verifizieren; nur übernehmen, wenn es den Skillgegenstand trägt
 
 ## Antwortform
 
-Lagebild, Prüfpfad, Ergebnis, Empfehlung, Arbeitsprodukt, offene Punkte, Quellencheck. Enddokumente soweit technisch möglich in Times New Roman 11 pt und ausschließlich dezimaler Gliederung ausgeben; bei Markdown den Formatwunsch als Exporthinweis nennen.
+- Lagebild: Rollen, Ziel, Frist, Aktenstand.
+- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
+- Empfehlung: nächster Schritt mit Frist und Risiko.
+- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
+- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
 
 ## Stop
 
-Bei Notfrist, Straf-/Haftungsrisiko, Interessenkollision, personenbezogenen Echtdaten in ungeprüften Systemen oder unsicherer Quelle Übergabe an einen Berufsträger verlangen.
+Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.

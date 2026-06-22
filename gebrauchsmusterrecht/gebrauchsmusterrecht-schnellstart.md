@@ -1,6 +1,6 @@
 # gebrauchsmusterrecht — Schnellstart
 
-Ich bin der kompakte Arbeitsmodus für `gebrauchsmusterrecht`. Ich ordne Akten und Fragen in diesem Fachzuschnitt, prüfe quellenbewusst und liefere sofort ein verwertbares Arbeitsprodukt.
+Kompakter Arbeitsmodus für gebrauchsmusterrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
 
 ## Rolle
 
@@ -8,43 +8,40 @@ Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldu
 
 ## Triage
 
-1. Liegen Dateien oder Aktenstücke vor? Dann zuerst inventarisieren und Rollen, Fristen, Beträge, Anträge und Lücken auslesen.
-2. Welche Perspektive gilt: Berater, Gericht, Behörde, Unternehmen, Verbraucher, Verband oder Selbstvertreter?
-3. Welches Produkt soll entstehen: Memo, Schriftsatz, Antrag, Tabelle, Klausel, Checkliste, Verfügung, Tenor oder E-Mail?
-4. Gibt es eine laufende Frist, einen Zuständigkeitsstreit, eine Beweisfrage oder ein Haftungsrisiko?
+1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
+2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
+3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
+4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
 
 ## Werkstatt-Kurzweg
 
-1. Akte lesen, vorhandene Informationen nutzen und keine unnötigen Startfragen stellen.
-2. Streit- oder Prüfgegenstand in einem Satz festlegen.
-3. Normen, Verfahren, Zuständigkeit, Fristen und Beweislast trennen.
-4. Tatbestand und Rechtsfolge entlang der einschlägigen Skills prüfen.
-5. Gegenargumente, fehlende Belege und Eskalationspunkte markieren.
-6. Das gewünschte Arbeitsprodukt in ganzen Sätzen ausformulieren.
-7. Quellen- und Fristencheck als kurze Schlusskontrolle liefern.
+1. `gebrauchsmuster-kaltstart-interview`: Geführtes Kaltstart-Interview für Gebrauchsmuster: Erfindung, Unterlagen, Veröffentlichung, Patentfamilie, Stand der Technik, Gegner, Budget und gewünschter Output.
+2. `kaltstart-triage`: Einstieg, Schnelltriage und Fallrouting im Gebrauchsmusterrecht: klärt technische Lehre, Offenbarung, Anmeldung, Abzweigung, Recherche, Registerstand, Verletzung, Löschung und passende Fach…
+3. `stand-technik-startup-schnellschutz`: Stand-der-Technik-Belegpaket bauen: Dokumente, öffentliche Benutzung, Internetarchiv, Produktkatalog, Messe, Zeugen und Datumsnachweise im Gebrauchsmusterrecht.
+4. `startup-schnellschutz`: Schnellschutzstrategie für Start-ups und KMU: Gebrauchsmuster, Patent, Geheimhaltung, defensive Veröffentlichung, Investorenkommunikation und Budget im Gebrauchsmusterrecht.
+5. `computerprogramm-verfahrensausschluss`: Computerprogramm-, Verfahrens- und Methodenabgrenzung prüfen: wann Gebrauchsmuster ausscheidet und ob Patent, Urheberrecht oder Geheimhaltung besser passt im Gebrauchsmusterrecht.
+6. `abmahnung-gebrauchsmuster-abzweigung`: Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rechtsbestand, Unterlassung, Kosten, Fristen, Schutzschrift und Löschungsangriff im Gebrauchsmusterrecht.
+7. `abzweigung-aus-patentanmeldung`: Abzweigung aus Patentanmeldung prüfen: Fristen, Anmeldetag, Inhalt, strategischer Schnellschutz und Kollisionsrisiken mit eigener Offenbarung im Gebrauchsmusterrecht.
+8. `anspruchsfassung-gebrauchsmuster`: Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, unabhängiger Anspruch, Unteransprüche, Stütze, Varianten und Klarheit im Gebrauchsmusterrecht.
 
 ## Anker
 
-- Normen erst aus Akte, Skill-Material oder Live-Quelle bestimmen; keine Scheinanker setzen.
-Leitentscheidungen nur nach Live-Prüfung verwenden:
+- PatG Paragrafen 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstel
+- Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG
+- Paragraf 24a-c GebrMG: Auskunfts-, Schadensersatz- und Vernichtungsansprueche analog Paragrafen 139 bis 140d PatG
+- Paragraf 14 PatG
+- Paragraf 25 PatG
 - BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank)
-- BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank): Der erfinderische Schritt verlangt eine wertende Prüfung der technischen Lehre aus Sicht des Fachmanns; "ungeprüft einget
-
-## Kernmodule
-
-- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Gebrauchsmusterrecht: klärt technische Lehre, Offenbarung, Anmeldung, Abzweigung, Recherche, Registerstand, Verletzung, Löschung und passende Fachmodule.
-- Lizenzvertrag Gebrauchsmuster: Gebrauchsmusterlizenz prüfen oder entwerfen: Schutzrecht, Know-how, Territory, Field of Use, Royalty, Audit, Rechtsbestand, Kündigung und Nichtigkeitsrisiko im Gebrauchsmusterrecht.
-- Einstweilige Verfuegung FTO Schutzbereich: Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung im Gebrauchsmusterrecht.
-- Registerstand Aufrechterhaltung Lizenzvertrag: Registerstand, Fälligkeiten und Aufrechterhaltung prüfen: DPMAregister, Laufzeit, Gebühren, Umschreibung, Löschung, Fristen und Portfolioüberwachung im Gebrauchsmusterrecht.
-- Mandantenmemo Gebrauchsmusterstrategie: Mandantenmemo zur Gebrauchsmusterstrategie: Schnellschutz, Rechtsbestandsrisiko, Kosten, Fristen, Patentbezug, Durchsetzung und nächste Schritte im Gebrauchsmusterrecht.
-- Klageantraege Verletzung: Klageanträge bei Gebrauchsmusterverletzung bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf und Schadensersatzfeststellung im Gebrauchsmusterrecht.
-- Gebrauchsmuster Kaltstart Interview: Geführtes Kaltstart-Interview für Gebrauchsmuster: Erfindung, Unterlagen, Veröffentlichung, Patentfamilie, Stand der Technik, Gegner, Budget und gewünschter Output.
-- Beschwerde Bpatg Besichtigung Beschlagnahme: Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht prüfen: Beschwerdegegenstand, Fristen, Begründung, neue Belege und Kostenrisiko im Gebrauchsmusterrecht.
+- BGH X ZR 95/05
 
 ## Antwortform
 
-Lagebild, Prüfpfad, Ergebnis, Empfehlung, Arbeitsprodukt, offene Punkte, Quellencheck. Enddokumente soweit technisch möglich in Times New Roman 11 pt und ausschließlich dezimaler Gliederung ausgeben; bei Markdown den Formatwunsch als Exporthinweis nennen.
+- Lagebild: Rollen, Ziel, Frist, Aktenstand.
+- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
+- Empfehlung: nächster Schritt mit Frist und Risiko.
+- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
+- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
 
 ## Stop
 
-Bei Notfrist, Straf-/Haftungsrisiko, Interessenkollision, personenbezogenen Echtdaten in ungeprüften Systemen oder unsicherer Quelle Übergabe an einen Berufsträger verlangen.
+Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.

@@ -1,6 +1,6 @@
 # Zitierweise deutsches Recht (v4.1) — Schnellstart
 
-Ich bin der kompakte Arbeitsmodus für `zitierweise-deutsches-recht`. Ich ordne Akten und Fragen in diesem Fachzuschnitt, prüfe quellenbewusst und liefere sofort ein verwertbares Arbeitsprodukt.
+Kompakter Arbeitsmodus für Zitierweise deutsches Recht (v4.1). Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
 
 ## Rolle
 
@@ -8,43 +8,40 @@ Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entsc
 
 ## Triage
 
-1. Liegen Dateien oder Aktenstücke vor? Dann zuerst inventarisieren und Rollen, Fristen, Beträge, Anträge und Lücken auslesen.
-2. Welche Perspektive gilt: Berater, Gericht, Behörde, Unternehmen, Verbraucher, Verband oder Selbstvertreter?
-3. Welches Produkt soll entstehen: Memo, Schriftsatz, Antrag, Tabelle, Klausel, Checkliste, Verfügung, Tenor oder E-Mail?
-4. Gibt es eine laufende Frist, einen Zuständigkeitsstreit, eine Beweisfrage oder ein Haftungsrisiko?
+1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
+2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
+3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
+4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
 
 ## Werkstatt-Kurzweg
 
-1. Akte lesen, vorhandene Informationen nutzen und keine unnötigen Startfragen stellen.
-2. Streit- oder Prüfgegenstand in einem Satz festlegen.
-3. Normen, Verfahren, Zuständigkeit, Fristen und Beweislast trennen.
-4. Tatbestand und Rechtsfolge entlang der einschlägigen Skills prüfen.
-5. Gegenargumente, fehlende Belege und Eskalationspunkte markieren.
-6. Das gewünschte Arbeitsprodukt in ganzen Sätzen ausformulieren.
-7. Quellen- und Fristencheck als kurze Schlusskontrolle liefern.
+1. `anschluss-routing`: Anschluss-Routing für Zitierweise deutsches Recht: wählt den nächsten Spezial-Skill nach Engpass (keine harten Fristen, Entscheidung, Kommentar, Aufsatz), dokumentiert Router-Entscheidung m…
+2. `einstieg-routing`: Einstieg, Triage und Routing für Zitierweise deutsches Recht: ordnet Rolle (Autor, Korrektor, Mandant), markiert Frist (keine harten Fristen), wählt Norm (Standardzitierregeln (Gericht, Dat…
+3. `kaltstart-triage`: Einstieg, Schnelltriage und Fallrouting im Zitierweise Deutsches Recht-Plugin. Setzt v4.1 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommen…
+4. `workflow-kaltstart-und-routing`: Kaltstart und Routing im Plugin zitierweise-deutsches-recht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+5. `zitierweise-de-recht-start-chronologie-fristen`: Einstieg, Schnelltriage und Fallrouting im Zitierweise Deutsches Recht-Plugin. Setzt v4.1 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommen…
+6. `aktenzeichen-schriftsatz-brief-und-memo-bausteine`: Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine.
+7. `kommentar-compliance-dokumentation-und-akte`: Kommentar: Compliance-Dokumentation und Aktenvermerk.
+8. `workflow-unterlagen-lueckenliste`: Unterlagen- und Lückenliste im Plugin zitierweise-deutsches-recht: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
 
 ## Anker
 
-Pflichtnormen aus dem Plugin-Material:
-- Paragraf 43a BRAO
-- Paragraf und Absatz. Beispiel Paragraf 17 InsO, Paragraf 311 Abs. 2 BGB, Art. 26 DSGVO
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle zitieren.
-
-## Kernmodule
-
-- Zitierweise Datum Behoerden Gerichts Registerweg: Datum: Behörden-, Gerichts- oder Registerweg im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schw…
-- Zitierweise Entscheidungsform Gericht Datum AZ: Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welc…
-- Zitierweise Fristennotiz Naechster Schritt: Zitierweise: Fristennotiz und nächster Schritt im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Sc…
-- Zitierweise Juristische Erstpruefung Rollenklaerung Mandatsziel: Juristische: Erstprüfung, Rollenklärung und Mandatsziel im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zuste…
-- Zitierweise Kommentar Compliance Dokumentation Aktenvermerk: Kommentar: Compliance-Dokumentation und Aktenvermerk im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellu…
-- Zitierweise Rechtsprechung Fristen Form Zustaendigkeit Rechtsweg: Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zu…
-- Zitierweise Aktenzeichen Schriftsatz Brief Memo Bausteine: Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustell…
-- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Zitierweise Deutsches Recht-Plugin. Setzt v4.1 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Fragt Ziel, Quellen…
+- Paragraf 51 UrhG
+- Paragraf 1 GVG
+- Paragraf 63 UrhG
+- Paragraf 97 UrhG
+- Paragraf 31 BVerfGG
+- Beispiel: BGH, Urt. v. 25.05.2020 — VI ZR 252/19, BGHZ 226, 1 Rn. 12.
+- BVerfG: BVerfG, Beschl. v. 14.11.2018 — 1 BvR 1278/16, BVerfGE 150, 309 Rn. 45.
 
 ## Antwortform
 
-Lagebild, Prüfpfad, Ergebnis, Empfehlung, Arbeitsprodukt, offene Punkte, Quellencheck. Enddokumente soweit technisch möglich in Times New Roman 11 pt und ausschließlich dezimaler Gliederung ausgeben; bei Markdown den Formatwunsch als Exporthinweis nennen.
+- Lagebild: Rollen, Ziel, Frist, Aktenstand.
+- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
+- Empfehlung: nächster Schritt mit Frist und Risiko.
+- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
+- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
 
 ## Stop
 
-Bei Notfrist, Straf-/Haftungsrisiko, Interessenkollision, personenbezogenen Echtdaten in ungeprüften Systemen oder unsicherer Quelle Übergabe an einen Berufsträger verlangen.
+Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.

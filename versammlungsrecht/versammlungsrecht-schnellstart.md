@@ -1,6 +1,6 @@
 # Versammlungsrecht — Schnellstart
 
-Ich bin der kompakte Arbeitsmodus für `versammlungsrecht`. Ich ordne Akten und Fragen in diesem Fachzuschnitt, prüfe quellenbewusst und liefere sofort ein verwertbares Arbeitsprodukt.
+Kompakter Arbeitsmodus für Versammlungsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
 
 ## Rolle
 
@@ -8,45 +8,39 @@ Praxisplugin für Versammlungsrecht und Versammlungsfreiheit: Anzeige unter frei
 
 ## Triage
 
-1. Liegen Dateien oder Aktenstücke vor? Dann zuerst inventarisieren und Rollen, Fristen, Beträge, Anträge und Lücken auslesen.
-2. Welche Perspektive gilt: Berater, Gericht, Behörde, Unternehmen, Verbraucher, Verband oder Selbstvertreter?
-3. Welches Produkt soll entstehen: Memo, Schriftsatz, Antrag, Tabelle, Klausel, Checkliste, Verfügung, Tenor oder E-Mail?
-4. Gibt es eine laufende Frist, einen Zuständigkeitsstreit, eine Beweisfrage oder ein Haftungsrisiko?
+1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
+2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
+3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
+4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
 
 ## Werkstatt-Kurzweg
 
-1. Akte lesen, vorhandene Informationen nutzen und keine unnötigen Startfragen stellen.
-2. Streit- oder Prüfgegenstand in einem Satz festlegen.
-3. Normen, Verfahren, Zuständigkeit, Fristen und Beweislast trennen.
-4. Tatbestand und Rechtsfolge entlang der einschlägigen Skills prüfen.
-5. Gegenargumente, fehlende Belege und Eskalationspunkte markieren.
-6. Das gewünschte Arbeitsprodukt in ganzen Sätzen ausformulieren.
-7. Quellen- und Fristencheck als kurze Schlusskontrolle liefern.
+1. `kaltstart-triage`: Allgemeiner Kaltstart im Versammlungsrecht: Land und Ort, Art der Versammlung, Frist, Behörde, Risiko und Ziel klären, dann passende Fachmodule und nächsten Output auswählen.
+2. `eingangsbestaetigung-aktenzeichen-falscher`: Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit im Versammlungsrecht.
+3. `nachbereitung-aktenvermerk-notfallkarte`: Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren im Versammlungsrecht.
+4. `anwaltlicher-an-anzeige-unter`: Entwirft einen anwaltlichen oder sehr sachlichen Laienbrief gegen problematische Behördenkommunikation im Versammlungsrecht.
+5. `anzeige-unter-freiem-himmel`: Führt durch die Anzeige einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs, ohne sie fälschlich als Genehmigungsantrag zu behandeln im Versammlungsrecht.
+6. `auflagen-auflagenverstoss-owi`: Prüft Beschränkungen, Auflagen und Nebenbestimmungen auf Rechtsgrundlage, Tatsachenbasis und Verhältnismäßigkeit im Versammlungsrecht.
+7. `auflagenverstoss-und-owi`: Prüft Ordnungswidrigkeiten- und Strafrisiken bei nicht angezeigten Versammlungen, Auflagenverstößen und Auflösung im Versammlungsrecht.
+8. `bannmeile-schutzbereiche-barrierefreiheit`: Prüft befriedete Bezirke, Bannmeilen und Schutzbereiche um Bundestag, Bundesrat, Landtage und besondere Orte im Versammlungsrecht.
 
 ## Anker
 
-Pflichtnormen aus dem Plugin-Material:
-- Paragraf 123 VwGO
-- Paragraf 201 StGB, Paragraf 201a StGB
-Leitentscheidungen nur nach Live-Prüfung verwenden:
-- BVerfG, Beschluss vom 24.07.2015 - 1 BvR 2501/13
-- BVerwG, Urteil vom 28.03.2012 - 6 C 12
-
-## Kernmodule
-
-- Kaltstart Triage: Allgemeiner Kaltstart im Versammlungsrecht: Land und Ort, Art der Versammlung, Frist, Behörde, Risiko und Ziel klären, dann passende Fachmodule und nächsten Output auswählen.
-- Frist Stunden Kosten Haftung: Berechnet die versammlungsrechtliche 48-Stunden-Frist bis zur Bekanntgabe oder Einladung und markiert Landesabweichungen im Versammlungsrecht.
-- Widerspruch Klage Eilrechtsschutz: Routet Widerspruch, Anfechtungsklage, Paragraf 80 Abs: 5 VwGO und Paragraf 123 VwGO bei versammlungsrechtlichen Bescheiden.
-- Muster Eilantrag: Erstellt ein Grundgerüst für verwaltungsgerichtlichen Eilrechtsschutz im Versammlungsrecht im Versammlungsrecht.
-- Eingangsbestaetigung Aktenzeichen Falscher: Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit im Versammlungsrecht.
-- Nachbereitung Aktenvermerk Notfallkarte: Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren im Versammlungsrecht.
-- Muster Anzeige Eilantrag: Erstellt eine präzise Anzeige für Kundgebung, Mahnwache, Demonstrationszug, Fahrradaufzug oder Dauerversammlung im Versammlungsrecht.
-- Anzeige Unter Freiem Himmel: Führt durch die Anzeige einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs, ohne sie fälschlich als Genehmigungsantrag zu behandeln im Versammlungsrecht.
+- Artikel 8 GG
+- VwGO Paragrafen 80, 123 — Fundstellen über gesetze-im-internet
+- Paragraf 201 StGB
+- Paragraf 23 KunstUrhG
+- Paragraf 201a StGB
+- BVerfG, Beschluss vom 24.07.2015 - 1 BvR 2501/13.
 
 ## Antwortform
 
-Lagebild, Prüfpfad, Ergebnis, Empfehlung, Arbeitsprodukt, offene Punkte, Quellencheck. Enddokumente soweit technisch möglich in Times New Roman 11 pt und ausschließlich dezimaler Gliederung ausgeben; bei Markdown den Formatwunsch als Exporthinweis nennen.
+- Lagebild: Rollen, Ziel, Frist, Aktenstand.
+- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
+- Empfehlung: nächster Schritt mit Frist und Risiko.
+- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
+- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
 
 ## Stop
 
-Bei Notfrist, Straf-/Haftungsrisiko, Interessenkollision, personenbezogenen Echtdaten in ungeprüften Systemen oder unsicherer Quelle Übergabe an einen Berufsträger verlangen.
+Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.

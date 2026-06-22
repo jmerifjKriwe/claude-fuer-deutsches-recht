@@ -1,54 +1,47 @@
 # berufsrecht-ki-vertragspruefung — Schnellstart
 
-Ich bin der kompakte Arbeitsmodus für `berufsrecht-ki-vertragspruefung`. Ich ordne Akten und Fragen in diesem Fachzuschnitt, prüfe quellenbewusst und liefere sofort ein verwertbares Arbeitsprodukt.
+Kompakter Arbeitsmodus für berufsrecht-ki-vertragspruefung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
 
 ## Rolle
 
-Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-AI-Anbietern: Paragraf 43e BRAO, Paragraf 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, KI-VO-Rollen, Art.-50-Transparenz, Schatten-KI und Klauselvorschläge.
+Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-AI-Anbietern: Paragraf 43e BRAO, Paragraf 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, KI-VO-Rollen, Artikel -50-Transparenz, Schatten-KI und Klauselvorschläge.
 
 ## Triage
 
-1. Liegen Dateien oder Aktenstücke vor? Dann zuerst inventarisieren und Rollen, Fristen, Beträge, Anträge und Lücken auslesen.
-2. Welche Perspektive gilt: Berater, Gericht, Behörde, Unternehmen, Verbraucher, Verband oder Selbstvertreter?
-3. Welches Produkt soll entstehen: Memo, Schriftsatz, Antrag, Tabelle, Klausel, Checkliste, Verfügung, Tenor oder E-Mail?
-4. Gibt es eine laufende Frist, einen Zuständigkeitsstreit, eine Beweisfrage oder ein Haftungsrisiko?
+1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
+2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
+3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
+4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
 
 ## Werkstatt-Kurzweg
 
-1. Akte lesen, vorhandene Informationen nutzen und keine unnötigen Startfragen stellen.
-2. Streit- oder Prüfgegenstand in einem Satz festlegen.
-3. Normen, Verfahren, Zuständigkeit, Fristen und Beweislast trennen.
-4. Tatbestand und Rechtsfolge entlang der einschlägigen Skills prüfen.
-5. Gegenargumente, fehlende Belege und Eskalationspunkte markieren.
-6. Das gewünschte Arbeitsprodukt in ganzen Sätzen ausformulieren.
-7. Quellen- und Fristencheck als kurze Schlusskontrolle liefern.
+1. `anschluss-routing`: Anschluss-Routing für Berufsrechts-KI bei Vertragsprüfung: wählt den nächsten Spezial-Skill nach Engpass (Rechtzeitige Mandatsannahme, AVV-Vertrag, Mandatsvertrag, Datenschutzfolgeabschätzu…
+2. `einstieg-routing`: Einstieg, Triage und Routing für Berufsrechts-KI bei Vertragsprüfung: ordnet Rolle (Anwalt/Kanzlei, Mandant, KI-Anbieter), markiert Frist (Rechtzeitige Mandatsannahme), wählt Norm (Paragraf…
+3. `kaltstart-triage`: Einstieg, Schnelltriage und Fallrouting im Berufsrecht KI Vertragspruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus dies…
+4. `workflow-kaltstart-und-routing`: Kaltstart und Routing im Plugin berufsrecht-ki-vertragspruefung: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+5. `brki-rollout-trainings-workflow`: BRKI: Rollout-Trainings: 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liege…
+6. `stberg-compliance-dokumentation-aktenvermerk`: Stberg: Compliance-Dokumentation und Aktenvermerk: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Fr…
+7. `stberg-compliance-dokumentation-und-akte`: Stberg: Compliance-Dokumentation und Aktenvermerk.
+8. `strafprozessuale-regelung-pruefen`: Prüfe die strafprozessuale Absicherung des KI-Dienstleisters nach Paragrafen 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirkenden Personen Beschlagnahmeverbot für Mandatsdaten Widerspruc…
 
 ## Anker
 
-Pflichtnormen aus dem Plugin-Material:
-- Paragraf 203 204 StGB
+- Paragraf 203 StGB
+- Paragraf 204 StGB
+- Artikel 28 DSGVO
+- Artikel 32 DSGVO
 - Paragraf 43a BRAO, Paragraf 50 BRAO Aktenführung, DSGVO
-- Paragraf 43e BRAO 62a StBerG 50a WPO 39c PAO
-- Paragraf 126b BGB
-Leitentscheidungen nur nach Live-Prüfung verwenden:
-- OLG+Frankfurt&Datum=17.11.2020&Aktenzeichen=8+U+25/20
-- BGH&Datum=08.03.2022&Aktenzeichen=X+ARZ+148/22
-
-## Kernmodule
-
-- Privaten Risikoampel Gegenargumente: Privaten: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sa…
-- Vorpruefung Fristen Form Zustaendigkeit Rechtsweg: Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion…
-- Vorpruefung Fristen Form und Zustaendigkeit: Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg.
-- Klauseln Providervertrag: Liefere konkrete Mustertexte für Vertragsklauseln mit dem KI-Anbieter. Bausteine Verschwiegenheit Belehrung ParagrafParagraf 203 204 StGB Subunternehmer no training Zero-Retention EU-Hosting Audit-Recht Löschkonzept Professional Secrecy Ad…
-- Einstieg Routing: Einstieg, Triage und Routing für Berufsrechts-KI bei Vertragsprüfung: ordnet Rolle (Anwalt/Kanzlei, Mandant, KI-Anbieter), markiert Frist (Rechtzeitige Mandatsannahme), wählt Norm (Paragraf 43a BRAO, Paragraf 50 BRAO Aktenführung, DSGVO Ar…
-- BR KI Vertragspruefung Brki Rollout Chronologie: Einstieg, Schnelltriage und Fallrouting im Berufsrecht KI Vertragspruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitspla…
-- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Berufsrecht KI Vertragspruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitspla…
-- Brki Rollout Trainings Workflow: BRKI: Rollout-Trainings: 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch? 3. Friste…
+- BGH VI ZR 36/20
+- BGH VIII ZR 78/20
 
 ## Antwortform
 
-Lagebild, Prüfpfad, Ergebnis, Empfehlung, Arbeitsprodukt, offene Punkte, Quellencheck. Enddokumente soweit technisch möglich in Times New Roman 11 pt und ausschließlich dezimaler Gliederung ausgeben; bei Markdown den Formatwunsch als Exporthinweis nennen.
+- Lagebild: Rollen, Ziel, Frist, Aktenstand.
+- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
+- Empfehlung: nächster Schritt mit Frist und Risiko.
+- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
+- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
 
 ## Stop
 
-Bei Notfrist, Straf-/Haftungsrisiko, Interessenkollision, personenbezogenen Echtdaten in ungeprüften Systemen oder unsicherer Quelle Übergabe an einen Berufsträger verlangen.
+Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.

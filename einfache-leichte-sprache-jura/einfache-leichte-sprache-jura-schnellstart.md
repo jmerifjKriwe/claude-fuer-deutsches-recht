@@ -1,6 +1,6 @@
 # Einfache und Leichte Sprache für juristische Texte — Schnellstart
 
-Ich bin der kompakte Arbeitsmodus für `einfache-leichte-sprache-jura`. Ich ordne Akten und Fragen in diesem Fachzuschnitt, prüfe quellenbewusst und liefere sofort ein verwertbares Arbeitsprodukt.
+Kompakter Arbeitsmodus für Einfache und Leichte Sprache für juristische Texte. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
 
 ## Rolle
 
@@ -8,45 +8,39 @@ Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experime
 
 ## Triage
 
-1. Liegen Dateien oder Aktenstücke vor? Dann zuerst inventarisieren und Rollen, Fristen, Beträge, Anträge und Lücken auslesen.
-2. Welche Perspektive gilt: Berater, Gericht, Behörde, Unternehmen, Verbraucher, Verband oder Selbstvertreter?
-3. Welches Produkt soll entstehen: Memo, Schriftsatz, Antrag, Tabelle, Klausel, Checkliste, Verfügung, Tenor oder E-Mail?
-4. Gibt es eine laufende Frist, einen Zuständigkeitsstreit, eine Beweisfrage oder ein Haftungsrisiko?
+1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
+2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
+3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
+4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
 
 ## Werkstatt-Kurzweg
 
-1. Akte lesen, vorhandene Informationen nutzen und keine unnötigen Startfragen stellen.
-2. Streit- oder Prüfgegenstand in einem Satz festlegen.
-3. Normen, Verfahren, Zuständigkeit, Fristen und Beweislast trennen.
-4. Tatbestand und Rechtsfolge entlang der einschlägigen Skills prüfen.
-5. Gegenargumente, fehlende Belege und Eskalationspunkte markieren.
-6. Das gewünschte Arbeitsprodukt in ganzen Sätzen ausformulieren.
-7. Quellen- und Fristencheck als kurze Schlusskontrolle liefern.
+1. `anschluss-routing`: Anschluss-Routing für Einfache/Leichte Sprache Jura: wählt den nächsten Spezial-Skill nach Engpass (keine harten Fristen, Originalbescheid, Vereinfachte Fassung, Lese-Test), dokumentiert Ro…
+2. `einstieg-routing`: Einstieg, Triage und Routing für Einfache/Leichte Sprache Jura: ordnet Rolle (Adressat mit Lese-/Lernbeeinträchtigung, Anwalt/Behörde, Übersetzer), markiert Frist (keine harten Fristen), wä…
+3. `kaltstart-triage`: Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprache Jura-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem…
+4. `workflow-kaltstart-und-routing`: Kaltstart und Routing im Plugin einfache-leichte-sprache-jura: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+5. `klaeren-compliance-dokumentation-aktenvermerk`: Klären: Compliance-Dokumentation und Aktenvermerk im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erre…
+6. `klaeren-compliance-dokumentation-und-akte`: Klären: Compliance-Dokumentation und Aktenvermerk: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung.
+7. `ls-bescheid-uebersetzen-workflow`: Bescheid in Leichte Sprache übersetzen Workflow: Originalbescheid, Kernaussagen extrahieren, je Aussage 1 kurzer Satz, Prüfung mit Zielgruppen-Vertreter, Layout (Bilder, Schriftgroesse), Pr…
+8. `ls-strafprozess-rechte-erklaeren-spezial`: Spezialfall Strafprozess-Rechte in Leichte Sprache erklaeren: Paragraf 136 StPO Belehrung, Recht zur Aussage und zum Schweigen, Pflichtverteidiger, Akteneinsicht. Mustertext und Prüfsiegel…
 
 ## Anker
 
-Pflichtnormen aus dem Plugin-Material:
-- Paragraf 90 SGG
-- Paragraf 43a BRAO
-- Paragraf 136 StPO
-- Paragraf 568 BGB
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle zitieren.
-
-## Kernmodule
-
-- Einstieg Routing: Einstieg, Triage und Routing für Einfache/Leichte Sprache Jura: ordnet Rolle (Adressat mit Lese-/Lernbeeinträchtigung, Anwalt/Behörde, Übersetzer), markiert Frist (keine harten Fristen), wählt Norm (BGG Paragraf 11 Leichte Sprache, UN-BRK…
-- Sozialgerichtsverfahren Strafverfahren: Sozialgerichtsverfahren in Einfacher Sprache: Klageeinreichung Niederschrift Paragraf 90 SGG, kein Anwaltszwang, ehrenamtliche Richter. Vorlage Mandanteninformation 'Was passiert vor dem Sozialgericht' im Einfache/Leichte Sprache Jura: prü…
-- Bauen Fristennotiz Naechster Schritt: Bauen: Fristennotiz und nächster Schritt im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, S…
-- Fristen Form Zustaendigkeit Rechtsweg: Einfache: Fristen, Form, Zuständigkeit und Rechtsweg im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Z…
-- Juristische Erstpruefung Rollenklaerung: Juristische: Erstprüfung, Rollenklärung und Mandatsziel im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist…
-- Risikoampel Gegenargumente: Leichte: Risikoampel, Gegenargumente und Verteidigungslinien im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche…
-- Uebertragen Behoerden Gerichts Registerweg: Uebertragen: Behörden-, Gerichts- oder Registerweg im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zus…
-- Klaeren Compliance Dokumentation Aktenvermerk: Klären: Compliance-Dokumentation und Aktenvermerk im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zust…
+- Paragraf 11 SGB I
+- GG Paragraf 11… |
+- Paragrafen 133 157 BGB
+- Paragraf 11 BGG
+- Paragraf 630e BGB
+- Strafverfahren in Einfacher Sprache für Beschuldigte: Belehrung Paragraf 136 StPO, Rechte des Beschuldigten, Akteneinsicht, Wahlverteidiger/Pflichtverteidiger. Pflichtbelehrung in einfacher Sprache (BVerfG 2 BvR 1568/19).
 
 ## Antwortform
 
-Lagebild, Prüfpfad, Ergebnis, Empfehlung, Arbeitsprodukt, offene Punkte, Quellencheck. Enddokumente soweit technisch möglich in Times New Roman 11 pt und ausschließlich dezimaler Gliederung ausgeben; bei Markdown den Formatwunsch als Exporthinweis nennen.
+- Lagebild: Rollen, Ziel, Frist, Aktenstand.
+- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
+- Empfehlung: nächster Schritt mit Frist und Risiko.
+- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
+- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
 
 ## Stop
 
-Bei Notfrist, Straf-/Haftungsrisiko, Interessenkollision, personenbezogenen Echtdaten in ungeprüften Systemen oder unsicherer Quelle Übergabe an einen Berufsträger verlangen.
+Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.
