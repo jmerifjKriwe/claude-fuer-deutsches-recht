@@ -1,26 +1,11 @@
 # Umweltschutzverband Verbandsklage
 
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Umweltschutzverband Verbandsklage-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`umweltschutzverband-verbandsklage-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage-werkstatt.zip) |
-| **Umweltschutzverband Verbandsklage-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`umweltschutzverband-verbandsklage-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage-schnellstart.zip) |
-| **Umweltschutzverband Verbandsklage-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`umweltschutzverband-verbandsklage.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage.zip) |
-| **Umweltschutzverband Verbandsklage-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-umweltschutzverband-windpark-moorbach-umwrg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltschutzverband-windpark-moorbach-umwrg.zip) (Umweltverbandsakte Moorbach) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`umweltschutzverband-verbandsklage-werkstatt.md`](./umweltschutzverband-verbandsklage-werkstatt.md) (im Browser ansehen)
-- [`umweltschutzverband-verbandsklage-schnellstart.md`](./umweltschutzverband-verbandsklage-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
 
 ### Plugin als ZIP
 
@@ -36,6 +21,25 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Umweltverbandsakte Moorbach** (`umweltschutzverband-windpark-moorbach-umwrg`) | [Gesamt-PDF lesen](../testakten/umweltschutzverband-windpark-moorbach-umwrg/gesamt-pdf/umweltschutzverband-windpark-moorbach-umwrg_gesamt.pdf) | [`testakte-umweltschutzverband-windpark-moorbach-umwrg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltschutzverband-windpark-moorbach-umwrg.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
+
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Umweltschutzverband Verbandsklage-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`umweltschutzverband-verbandsklage-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage-werkstatt.zip) |
+| **Umweltschutzverband Verbandsklage-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`umweltschutzverband-verbandsklage-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage-schnellstart.zip) |
+| **Umweltschutzverband Verbandsklage-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`umweltschutzverband-verbandsklage.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage.zip) |
+| **Umweltschutzverband Verbandsklage-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-umweltschutzverband-windpark-moorbach-umwrg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltschutzverband-windpark-moorbach-umwrg.zip) (Umweltverbandsakte Moorbach) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`umweltschutzverband-verbandsklage-werkstatt.md`](./umweltschutzverband-verbandsklage-werkstatt.md) (im Browser ansehen)
+- [`umweltschutzverband-verbandsklage-schnellstart.md`](./umweltschutzverband-verbandsklage-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 Dieses Plugin ist für anerkannte und werdende Umweltvereinigungen gebaut: Beteiligung, Einwendungen, Akteneinsicht, Umweltinformationen, Verbandsklage, Normenkontrolle und strategische, aber sorgfältige Prozessführung.
 
 ## Start

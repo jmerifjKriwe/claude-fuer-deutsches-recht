@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Fuegt in jeden SKILL.md, der ein Endprodukt erzeugt, am Ende des
 '## Ausgabeformat'-Blocks einen Hinweis auf die in CLAUDE.md verankerte
-Ausformulierungspflicht ein. Idempotent ueber HTML-Marker.
+Ausformulierungspflicht und den Formatstandard ein. Idempotent ueber
+HTML-Marker; bestehende Markerbloecke werden auf den aktuellen Text gehoben.
 
 Heuristik fuer 'erzeugt ein Endprodukt':
 - Skill-Slug oder description enthaelt mindestens eines der Endprodukt-Woerter
@@ -35,7 +36,11 @@ AUSGABE_RE = re.compile(r"^#{2,6}\s+(Ausgabe|Endprodukt|Output)", re.IGNORECASE)
 
 
 BLOCK = f"""{MARKER_BEGIN}
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 {MARKER_END}"""
 
 
@@ -111,7 +116,15 @@ def process_skill(path: Path) -> str:
     except (UnicodeDecodeError, OSError):
         return "skip-read"
 
-    if MARKER_BEGIN in text:
+    if MARKER_BEGIN in text and MARKER_END in text:
+        pattern = re.compile(
+            re.escape(MARKER_BEGIN) + r"[\s\S]*?" + re.escape(MARKER_END),
+            re.MULTILINE,
+        )
+        new_text = pattern.sub(BLOCK, text, count=1)
+        if new_text != text:
+            path.write_text(new_text, encoding="utf-8")
+            return "updated"
         return "already"
 
     slug = path.parent.name
@@ -136,13 +149,15 @@ SKIP_PARTS = {".git", "node_modules", "__pycache__", "testakten", "docs",
 
 
 def main() -> None:
-    added = already = not_endprodukt = no_section = errors = 0
+    added = updated = already = not_endprodukt = no_section = errors = 0
     for skill_md in REPO.rglob("SKILL.md"):
         if any(part in SKIP_PARTS for part in skill_md.parts):
             continue
         result = process_skill(skill_md)
         if result == "added":
             added += 1
+        elif result == "updated":
+            updated += 1
         elif result == "already":
             already += 1
         elif result == "not-endprodukt":
@@ -152,7 +167,7 @@ def main() -> None:
         else:
             errors += 1
 
-    print(f"added={added} already={already} not-endprodukt={not_endprodukt} "
+    print(f"added={added} updated={updated} already={already} not-endprodukt={not_endprodukt} "
           f"no-ausgabe-section={no_section} errors={errors}")
 
 

@@ -1,26 +1,11 @@
 # Handelsvertreterrecht und Vertriebsverträge
 
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Handelsvertreterrecht und Vertriebsverträge-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`handelsvertreterrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsvertreterrecht-werkstatt.zip) |
-| **Handelsvertreterrecht und Vertriebsverträge-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`handelsvertreterrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsvertreterrecht-schnellstart.zip) |
-| **Handelsvertreterrecht und Vertriebsverträge-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`handelsvertreterrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsvertreterrecht.zip) |
-| **Handelsvertreterrecht und Vertriebsverträge-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip) (Akte Nordstern MedTech Vertrieb - Provision, Buchauszug und Ausgleich) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`handelsvertreterrecht-werkstatt.md`](./handelsvertreterrecht-werkstatt.md) (im Browser ansehen)
-- [`handelsvertreterrecht-schnellstart.md`](./handelsvertreterrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
 
 ### Plugin als ZIP
 
@@ -36,6 +21,25 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Akte Nordstern MedTech Vertrieb - Provision, Buchauszug und Ausgleich** (`handelsvertreterrecht-provisionsausgleich-nordstern-medtech`) | [Gesamt-PDF lesen](../testakten/handelsvertreterrecht-provisionsausgleich-nordstern-medtech/gesamt-pdf/handelsvertreterrecht-provisionsausgleich-nordstern-medtech_gesamt.pdf) | [`testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
+
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Handelsvertreterrecht und Vertriebsverträge-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`handelsvertreterrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsvertreterrecht-werkstatt.zip) |
+| **Handelsvertreterrecht und Vertriebsverträge-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`handelsvertreterrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsvertreterrecht-schnellstart.zip) |
+| **Handelsvertreterrecht und Vertriebsverträge-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`handelsvertreterrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsvertreterrecht.zip) |
+| **Handelsvertreterrecht und Vertriebsverträge-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip) (Akte Nordstern MedTech Vertrieb - Provision, Buchauszug und Ausgleich) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`handelsvertreterrecht-werkstatt.md`](./handelsvertreterrecht-werkstatt.md) (im Browser ansehen)
+- [`handelsvertreterrecht-schnellstart.md`](./handelsvertreterrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 Dieses Plugin prüft und gestaltet Handelsvertreter- und Vertriebsverhältnisse vom Statuscheck bis zum Ausgleichsanspruch: rechtlich präzise, zahlenfest, beweisnah und mit Blick auf Kartellrecht, Datenschutz, Steuer und internationale Vertriebsmodelle.
 
 ## Wofür dieses Plugin da ist

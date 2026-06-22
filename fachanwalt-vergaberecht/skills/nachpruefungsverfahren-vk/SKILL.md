@@ -45,6 +45,14 @@ Erzeuge ein ausformuliertes Ergebnis mit:
 6. Abstellungsziel nach `§ 168 GWB`.
 7. Kosten- und OLG-Reserve.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Fehlerbremse
 
 Keine Werktagsfrist bei `§ 160 Abs. 3 Satz 1 Nr. 4 GWB`; maßgeblich sind 15 Kalendertage nach Eingang der Nichtabhilfemitteilung. Keine alten Schwellenwerte ohne Live-Check. Keine Akteneinsicht ohne Geheimnisschutz. Keine OLG-Strategie ohne `§ 171`, `§ 172` und `§ 173 GWB` sauber zu trennen.

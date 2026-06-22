@@ -28,6 +28,10 @@ Viele Skills in diesem Repo sind im Kern strukturierte **Werkstatt-Prompts** —
 
 Für den Einsatz ohne Plugin-Installation gibt es zusätzlich pro Plugin zwei reine Markdown-Dateien: einen ausführlichen **Werkstatt-Prompt** und einen kompakten **Schnellstart-Prompt** mit höchstens 7.500 Zeichen. Beide stehen als echte Download-ZIPs im Release bereit; die Markdown-Dateien selbst bleiben im Repo als Browser-Ansicht nachvollziehbar.
 
+### Formatstandard für erzeugte Dokumente
+
+Alle Skills, Werkstatt-Prompts und Schnellstart-Prompts sind darauf ausgerichtet, verwertbare Endprodukte nicht nur inhaltlich, sondern auch formal sauber auszugeben. Für Schriftsätze, Klagen, Klageerwiderungen, Repliken, Dupliken, Anträge, Memos, Vermerke, Verträge, Beschlussentwürfe, Verfügungen und Mandantenbriefe gilt deshalb als Standard: **Times New Roman, Schriftgröße 11 pt, vollständig ausformulierte Sätze und ausschließlich dezimale Gliederung** (`1`, `1.1`, `1.1.1`). Wenn ein amtliches Formular, ein Gerichtslayout, ein Mandantentemplate oder ein Tabellenformat davon abweicht, soll der Prompt die Abweichung ausdrücklich benennen.
+
 Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sortierte Liste: **[Klotzkettes Juristische Promptliste](./PROMPTLISTE.md)** — alle Angaben ohne Gewähr, mit großem Disclaimer auf der Seite. Workflow-Eingangs-Skills, generische Router und ausgesprochen historisch-exotische Inhalte (Preußisches Landrecht, Römisches Recht, Kanonisches Recht, Weltraumrecht) bleiben dort bewusst ausgespart.
 
 ## Überblick

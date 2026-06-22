@@ -1,26 +1,11 @@
 # Fachanwalt Familienrecht
 
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Fachanwalt Familienrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-familienrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht-werkstatt.zip) |
-| **Fachanwalt Familienrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-familienrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht-schnellstart.zip) |
-| **Fachanwalt Familienrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-familienrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) |
-| **Fachanwalt Familienrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen.zip) (Elternunterhalt Markus Reinhold — Sozialamtsregress für Heimkosten der Mutter Hildegard Reinhold (Angehörigen-Entlastungsgesetz)); [`testakte-nachehelicher-unterhalt-befristung-1578b-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachehelicher-unterhalt-befristung-1578b-muenster.zip) (Nachehelicher Unterhalt Voßkamp — Herabsetzung und Befristung nach Paragraf 1578b BGB); [`testakte-scheidungsdrama.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidungsdrama.zip) (Scheidung Hanna Trüffelberch / Franz Trüffelberch — Patchwork, Wechselmodell-Streit, Zugewinn); [`testakte-unterhalt-berechnungsakte-vollstaendig-rosenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-unterhalt-berechnungsakte-vollstaendig-rosenheim.zip) (Unterhalt Mira Aiblinger ./. Tobias Aiblinger — vollständige Zahlen, Trennungsunterhalt, nacheheliche Varianten); [`testakte-unterhalt-stufenklage-selbststaendiger-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-unterhalt-stufenklage-selbststaendiger-hamburg.zip) (Unterhalt Lene Harms ./. Joris Harms — Auskunft, Stufenklage, Selbstständigen-Einkommen); [`testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip) (Aktenkonvolut Schäfer ./. Schäfer — Versorgungsausgleich, Härteklausel Paragraf 27 VersAusglG, Vorbereitung Rechtsbeschwerde BGH) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fachanwalt-familienrecht-werkstatt.md`](./fachanwalt-familienrecht-werkstatt.md) (im Browser ansehen)
-- [`fachanwalt-familienrecht-schnellstart.md`](./fachanwalt-familienrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
 
 ### Plugin als ZIP
 
@@ -41,6 +26,25 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Aktenkonvolut Schäfer ./. Schäfer — Versorgungsausgleich, Härteklausel Paragraf 27 VersAusglG, Vorbereitung Rechtsbeschwerde BGH** (`versausgleich-haerte-bgh-schaefer-nuernberg`) | [Gesamt-PDF lesen](../testakten/versausgleich-haerte-bgh-schaefer-nuernberg/gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf) | [`testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
+
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Fachanwalt Familienrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-familienrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht-werkstatt.zip) |
+| **Fachanwalt Familienrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-familienrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht-schnellstart.zip) |
+| **Fachanwalt Familienrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-familienrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) |
+| **Fachanwalt Familienrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen.zip) (Elternunterhalt Markus Reinhold — Sozialamtsregress für Heimkosten der Mutter Hildegard Reinhold (Angehörigen-Entlastungsgesetz)); [`testakte-nachehelicher-unterhalt-befristung-1578b-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachehelicher-unterhalt-befristung-1578b-muenster.zip) (Nachehelicher Unterhalt Voßkamp — Herabsetzung und Befristung nach Paragraf 1578b BGB); [`testakte-scheidungsdrama.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidungsdrama.zip) (Scheidung Hanna Trüffelberch / Franz Trüffelberch — Patchwork, Wechselmodell-Streit, Zugewinn); [`testakte-unterhalt-berechnungsakte-vollstaendig-rosenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-unterhalt-berechnungsakte-vollstaendig-rosenheim.zip) (Unterhalt Mira Aiblinger ./. Tobias Aiblinger — vollständige Zahlen, Trennungsunterhalt, nacheheliche Varianten); [`testakte-unterhalt-stufenklage-selbststaendiger-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-unterhalt-stufenklage-selbststaendiger-hamburg.zip) (Unterhalt Lene Harms ./. Joris Harms — Auskunft, Stufenklage, Selbstständigen-Einkommen); [`testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip) (Aktenkonvolut Schäfer ./. Schäfer — Versorgungsausgleich, Härteklausel Paragraf 27 VersAusglG, Vorbereitung Rechtsbeschwerde BGH) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fachanwalt-familienrecht-werkstatt.md`](./fachanwalt-familienrecht-werkstatt.md) (im Browser ansehen)
+- [`fachanwalt-familienrecht-schnellstart.md`](./fachanwalt-familienrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 ## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:

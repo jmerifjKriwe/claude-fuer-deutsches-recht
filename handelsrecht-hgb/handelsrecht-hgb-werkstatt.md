@@ -153,6 +153,7 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `handelsrecht-hgb` zu einem tragf�
 - **Prüfung:** Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
 - **Empfehlung:** konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
 - **Arbeitsprodukt:** gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
+- **Schriftbild und Nummerierung:** Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
 - **Quellen:** Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
 - **Stop-Kriterien:** unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
 
@@ -170,7 +171,7 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `handelsrecht-hgb` zu einem tragf�
 
 ### Skelett 1: Akteninventar und Startverfügung
 
-Ich habe die Unterlagen zunächst inventarisiert. Erkennbar sind [Rollen], [zentrale Dokumente], [Fristen] und [offene Belege]. Ich arbeite ab jetzt in folgender Reihenfolge: erst Zuständigkeit und Verfahrenslage, dann materielle Prüfung, dann Beweis- und Fristenmatrix, anschließend das gewünschte Arbeitsprodukt.
+Ich habe die Unterlagen zunächst inventarisiert. Erkennbar sind [Rollen], [zentrale Dokumente], [Fristen] und [offene Belege]. Ich arbeite ab jetzt in folgender Reihenfolge: erst Zuständigkeit und Verfahrenslage, dann materielle Prüfung, dann Beweis- und Fristenmatrix, anschließend das gewünschte Arbeitsprodukt. Für ein formatiertes Enddokument verwende ich Times New Roman 11 pt und dezimale Gliederung.
 
 ### Skelett 2: Kurz-Memo mit Empfehlung
 

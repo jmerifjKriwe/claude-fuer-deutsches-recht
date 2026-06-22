@@ -192,7 +192,7 @@ def build_prompt(plugin: dict, plugin_dir: Path, max_modules: int, desc_len: int
         "",
         "## Ausgabeformat",
         "",
-        "Liefere zuerst eine Kurzdiagnose in drei bis sieben Punkten. Danach folgt das eigentliche Arbeitsprodukt in ganzen Sätzen und mit klaren Überschriften. Schließe mit einer knappen Selbstkontrolle: offene Tatsachen, Fristen, Quellenprüfung, Gegenargumente und nächster sinnvoller Schritt.",
+        "Liefere zuerst eine Kurzdiagnose in drei bis sieben Punkten. Danach folgt das eigentliche Arbeitsprodukt in ganzen Sätzen und mit klaren Überschriften. Enddokumente werden, soweit technisch möglich, in Times New Roman 11 pt und ausschließlich dezimaler Gliederung ausgegeben; bei Markdown nennst du diesen Formatwunsch als Exporthinweis. Schließe mit einer knappen Selbstkontrolle: offene Tatsachen, Fristen, Quellenprüfung, Gegenargumente und nächster sinnvoller Schritt.",
         "",
         "## Grenzen",
         "",

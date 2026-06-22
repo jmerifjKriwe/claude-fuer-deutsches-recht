@@ -27,10 +27,13 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - **Leitentscheidungs-Anker:** [`references/leitentscheidungen-anker.md`](./references/leitentscheidungen-anker.md) ist die kuratierte Themen-Anker-Liste je Rechtsgebiet. Sie ersetzt nicht die Live-Verifikation, aber sie liefert sichere Sucheinstiege ohne Modellwissens-Halluzination.
 
-## Gliederung und Nummerierung (verbindlich für alle Vorlagen und Verträge)
+## Gliederung, Schriftbild und Nummerierung (verbindlich für alle Vorlagen und Verträge)
 
-Diese Regel gilt **dauerhaft und für jedes Werkzeug**, das in diesem Repository arbeitet – Claude, Codex, Perplexity, Cloud und jedes weitere Modell. Sie ist nicht verhandelbar.
+Diese Regel gilt **dauerhaft und für jedes Werkzeug**, das in diesem Repository arbeitet. Sie ist nicht verhandelbar.
 
+- **Grundschrift für Enddokumente:** Schriftsätze, Klagen, Klageerwiderungen, Repliken, Dupliken, Anträge, Memos, Vermerke, Verträge, Beschlüsse, Urteilsentwürfe, Verfügungen, Mandantenbriefe und vergleichbare Arbeitsprodukte werden, soweit technisch möglich, in **Times New Roman, Schriftgröße 11 pt** ausgegeben. Überschriften dürfen fett und abgestuft sein, bleiben aber in derselben Schriftfamilie.
+- **Exporthinweis bei Markdown oder Chat-Ausgabe:** Wenn das System kein echtes DOCX/PDF formatiert, muss es den Formatwunsch ausdrücklich im Arbeitsprodukt oder Exporthinweis aufnehmen: Times New Roman, 11 pt, dezimale Gliederung.
+- **Abweichungen nur mit Grund:** Amtliche Formulare, gerichtliche Hausformate, Mandantentemplates oder Tabellenlayouts dürfen abweichen, wenn der Skill die Abweichung benennt und erklärt.
 - **Ausschließlich dezimale Gliederung:** `1`, dann `1.1`, dann `1.1.1`, dann `1.1.1.1` und so weiter, beliebig tief.
 - **Niemals** römische Ziffern (`I`, `II`), Großbuchstaben (`A`, `B`, `C`), Kleinbuchstaben (`a`, `b`) oder gemischte Verlags-Gliederungen (`A. I. 1. a) aa)`). Genau diese Schemata sind verboten, weil man sich darin nicht zurechtfindet.
 - **Leerzeile zwischen Gliederungspunkt und seinem Inhalt sowie zwischen Gliederungsebenen.** Überschrift bzw. Nummer und der folgende Text/Unterpunkt werden durch eine Leerzeile getrennt, sonst ist es nicht lesbar.
@@ -67,7 +70,7 @@ Gilt für alle Vorlagen, Verträge, Vertragsmuster, Memos, Schriftsätze und son
 
 ## Ausformulierungspflicht für Verträge, Vorlagen und juristische Dokumente (verbindlich)
 
-Diese Regel gilt **ausnahmslos und für alle Zeiten** für jedes Dokument, das ein Skill, ein Plugin oder ein anderes Werkzeug in diesem Repository als Endprodukt erzeugt — Verträge, Vertragsmuster, Klausel-Sets, Schriftsätze, Bescheide, Beschlüsse, Verfügungen, Memos, Mandantenbriefe, Vollmachten, Anschreiben, Vermerke, Stellungnahmen, NDA-Texte, AGB-Entwürfe, Vereinbarungen, Anträge, Erwiderungen und alle vergleichbaren Endprodukte — unabhängig davon, welches Werkzeug es erzeugt (Claude, Perplexity, Codex oder andere).
+Diese Regel gilt **ausnahmslos und für alle Zeiten** für jedes Dokument, das ein Skill, ein Plugin oder ein anderes Werkzeug in diesem Repository als Endprodukt erzeugt — Verträge, Vertragsmuster, Klausel-Sets, Schriftsätze, Bescheide, Beschlüsse, Verfügungen, Memos, Mandantenbriefe, Vollmachten, Anschreiben, Vermerke, Stellungnahmen, NDA-Texte, AGB-Entwürfe, Vereinbarungen, Anträge, Erwiderungen und alle vergleichbaren Endprodukte — unabhängig davon, welches Werkzeug es erzeugt.
 
 - **Vollständig ausformuliert.** Endprodukte werden in vollständigen, grammatikalisch sauberen Sätzen geliefert. Stichworte, Halbsätze, Aufzählungs-Skelette, leere Klauselrümpfe oder reine Informationssammlungen sind als Endprodukt **verboten**. Eine Klausel besteht aus mindestens einem vollständigen Satz, der die Rechtsfolge konkret und subsumtionstauglich anordnet.
 - **Crisp und prägnant.** „Vollständig" heißt nicht „aufgebläht". Jeder Satz trägt; rhetorische Füllstücke sind zu vermeiden. Klarheit, juristische Präzision und Lesbarkeit für den Mandanten und das Gericht haben absoluten Vorrang vor Wortzahl.
@@ -88,7 +91,7 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jedes Dokument, das e
   2. Eingaben
   3. Ablauf / Checkliste
   4. Quellenpflicht (Verweis auf references/zitierweise.md)
-  5. Ausgabeformat — bei Skills, die Verträge, Vorlagen, Schriftsätze, Memos oder vergleichbare Endprodukte erzeugen, muss dieser Block ausdrücklich auf die **Ausformulierungspflicht** verweisen: Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswurfe sind als Endprodukt verboten.
+  5. Ausgabeformat — bei Skills, die Verträge, Vorlagen, Schriftsätze, Memos oder vergleichbare Endprodukte erzeugen, muss dieser Block ausdrücklich auf die **Ausformulierungspflicht** und den **Formatstandard** verweisen: Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswurfe sind als Endprodukt verboten. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung.
   6. Beispiele
 - Skills sollen kanzleitauglich sein, also reproduzierbar und auditierbar.
 
