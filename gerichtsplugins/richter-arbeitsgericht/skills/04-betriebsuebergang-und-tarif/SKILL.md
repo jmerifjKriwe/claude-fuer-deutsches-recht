@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus.
-- BAG, Urteil vom 19.02.2019 - 9 AZR 541/15, frei nachweisbar über dejure/openJur: Urlaubsansprüche verfallen nur bei ordnungsgemäßer Mitwirkung und klarem Hinweis des Arbeitgebers.
-- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind im Kündigungsschutzprozess sauber voneinander zu trennen.
+- Paragraf 613a BGB: Übergang einer wirtschaftlichen Einheit, Unterrichtung, Widerspruch und Haftung müssen getrennt geprüft werden.
+- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind bei betriebsbedingten Gestaltungen sauber voneinander zu trennen.
+- Paragrafen 3, 4 und 5 TVG: Tarifbindung, Nachwirkung und Allgemeinverbindlichkeit bestimmen die Anspruchsgrundlage.
+- Paragraf 125 InsO: Interessenausgleich mit Namensliste hat besondere Darlegungs- und Vermutungswirkungen.
+- Ständige Rechtsprechung zu Paragraf 613a BGB: Betriebsübergang verlangt eine Gesamtwürdigung von Organisation, Personal, Betriebsmitteln, Kundenstamm und Kontinuität; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Betriebsübergang und Tarif: Verfahrensart, Beteiligtenfähigkeit und Zuständigkeit des Arbeitsgerichts zuerst bestimmen.
+1. Betriebsübergang und Tarif: Verfahrensart, Beteiligtenfähigkeit und Zuständigkeit des Arbeitsgerichts zuerst bestimmen.
 2. Betriebsverfassungsrechtliche Mitbestimmung, Tarifbindung oder Betriebsübergang nach Tatbestandsmerkmalen trennen.
 3. Anhörungs-, Unterrichtungs- und Beteiligungsrechte anhand der konkreten Maßnahme prüfen.
 4. Beschlussverfahren mit Antrag, Beteiligtenrubrum, Anhörung und Tenorvollstreckbarkeit vorbereiten.
@@ -70,5 +71,5 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 
 ## Benachbarte Skills
 
-- **Davor**: `03-zahlungsklage-lohn-und-gehalt` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Betriebsübergang und Tarif trägt.
-- **Danach**: `05-befristung-und-teilzeit` - Folgeschritt im selben Plugin; nutze ihn, sobald Betriebsübergang und Tarif entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `03-zahlungsklage-lohn-und-gehalt` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Betriebsübergang und Tarif trägt.
+- **Danach**: `05-befristung-und-teilzeit` - Folgeskill nutzen, sobald Betriebsübergang und Tarif entscheidungs- oder verfügungsreif vorbereitet ist.

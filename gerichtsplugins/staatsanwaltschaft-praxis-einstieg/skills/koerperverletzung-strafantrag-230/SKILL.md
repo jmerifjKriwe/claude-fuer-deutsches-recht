@@ -34,7 +34,7 @@ description: "Körperverletzung und Strafantrag nach Paragraf 230 StGB: Praxis-S
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Körperverletzung und Strafantrag nach Paragraf 230 StGB: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+1. Körperverletzung und Strafantrag nach Paragraf 230 StGB: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
 2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
 3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
 4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.

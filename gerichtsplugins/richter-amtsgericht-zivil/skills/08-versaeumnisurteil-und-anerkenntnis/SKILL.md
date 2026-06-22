@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Versäumnisurteil und Anerkenntnis: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+1. Versäumnisurteil und Anerkenntnis: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
 2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
 3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
 4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `07-urteilsentwurf-paragraf-313` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Versäumnisurteil und Anerkenntnis trägt.
-- **Danach**: `09-vergleich-und-erledigung` - Folgeschritt im selben Plugin; nutze ihn, sobald Versäumnisurteil und Anerkenntnis entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `07-urteilsentwurf-paragraf-313` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Versäumnisurteil und Anerkenntnis trägt.
+- **Danach**: `09-vergleich-und-erledigung` - Folgeskill nutzen, sobald Versäumnisurteil und Anerkenntnis entscheidungs- oder verfügungsreif vorbereitet ist.

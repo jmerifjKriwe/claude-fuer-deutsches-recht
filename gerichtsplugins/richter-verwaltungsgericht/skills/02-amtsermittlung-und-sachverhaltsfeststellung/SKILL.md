@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Amtsermittlung und Sachverhaltsfeststellung: Amtsermittlungsbedarf, Behördenakte, Beweisanträge und entscheidungserhebliche Tatsachen zuerst trennen.
+1. Amtsermittlung und Sachverhaltsfeststellung: Amtsermittlungsbedarf, Behördenakte, Beweisanträge und entscheidungserhebliche Tatsachen zuerst trennen.
 2. Aktenvollständigkeit prüfen: Ausgangsbescheid, Widerspruchsbescheid, Verwaltungsvorgänge, Ermessenserwägungen und Zustellnachweise.
 3. Beweisaufnahme nur für streitige und erhebliche Tatsachen anordnen; rechtliche Wertungen nicht beweisen lassen.
 4. Aufklärungsverfügung mit konkreter Unterlagenanforderung, Frist und Folgen für die Entscheidungsreife formulieren.
@@ -70,5 +70,5 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 
 ## Benachbarte Skills
 
-- **Davor**: `01-zulaessigkeit-verwaltungsklage` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Amtsermittlung und Sachverhaltsfeststellung trägt.
-- **Danach**: `03-begruendetheit-anfechtungsklage` - Folgeschritt im selben Plugin; nutze ihn, sobald Amtsermittlung und Sachverhaltsfeststellung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-zulaessigkeit-verwaltungsklage` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Amtsermittlung und Sachverhaltsfeststellung trägt.
+- **Danach**: `03-begruendetheit-anfechtungsklage` - Folgeskill nutzen, sobald Amtsermittlung und Sachverhaltsfeststellung entscheidungs- oder verfügungsreif vorbereitet ist.

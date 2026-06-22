@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Begründetheit Verpflichtungsklage: Ermächtigungsgrundlage, formelle Rechtmäßigkeit und materielle Tatbestandsvoraussetzungen zuerst strukturieren.
+1. Begründetheit Verpflichtungsklage: Ermächtigungsgrundlage, formelle Rechtmäßigkeit und materielle Tatbestandsvoraussetzungen zuerst strukturieren.
 2. Verwaltungsakt, Nebenbestimmung, Ermessen und Beurteilungsspielraum getrennt prüfen.
 3. Bei Anfechtungsklage Rechtsverletzung des Klägers; bei Verpflichtungsklage Spruchreife und Bescheidungsreife bestimmen.
 4. Ermessensfehler nach Paragraf 114 VwGO nur innerhalb der gerichtlichen Kontrollgrenzen prüfen.
@@ -70,5 +70,5 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 
 ## Benachbarte Skills
 
-- **Davor**: `03-begruendetheit-anfechtungsklage` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Begründetheit Verpflichtungsklage trägt.
-- **Danach**: `05-eilrechtsschutz-paragraf-80-abs-5` - Folgeschritt im selben Plugin; nutze ihn, sobald Begründetheit Verpflichtungsklage entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `03-begruendetheit-anfechtungsklage` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Begründetheit Verpflichtungsklage trägt.
+- **Danach**: `05-eilrechtsschutz-paragraf-80-abs-5` - Folgeskill nutzen, sobald Begründetheit Verpflichtungsklage entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -34,7 +34,7 @@ description: "Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko: Praxis
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+1. Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
 2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
 3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
 4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.

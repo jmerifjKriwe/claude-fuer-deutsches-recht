@@ -34,19 +34,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
-- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
-- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
-- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
-- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- BGH, Beschluss vom 16.05.2017 - II ZB 7/16, frei nachweisbar über dejure: Der Betrieb mehrerer Kindertagesstätten schließt die Einordnung als Idealverein nicht schon wegen wirtschaftlicher Betätigung aus, wenn der ideelle Zweck prägend bleibt.
+- BGH, Beschluss vom 16.05.2017 - II ZB 6/16, frei nachweisbar über dejure: Für Paragraf 21 BGB kommt es auf den prägenden Vereinszweck und die Zuordnung wirtschaftlicher Tätigkeiten zum ideellen Hauptzweck an.
+- BGH, Beschluss vom 16.05.2017 - II ZB 9/16, frei nachweisbar über dejure: Amtslöschung eines Vereins verlangt eine tragfähige Prüfung, ob der wirtschaftliche Geschäftsbetrieb den Idealverein verdrängt.
+- Ständige Rechtsprechung zu Paragrafen 55 bis 79 BGB: Satzungsänderungen, Vorstandswahlen und Vertretungsregelungen müssen aus Protokoll, Einladung und Satzung registerfähig nachvollziehbar sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Ständige Rechtsprechung zu GenG und Genossenschaftsregister: Prüfungsverband, Satzung, Vorstand und Aufsichtsrat sind vor Eintragung anhand der gesetzlichen Registervoraussetzungen getrennt zu prüfen.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Vereins und Genossenschaftsregister: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
-2. Formelle Voraussetzungen prüfen: elektronische Einreichung, notarielle Beglaubigung, Vertretungsmacht, Vollmacht und Urkundenlage.
-3. Materielle Eintragungsfähigkeit anhand HGB, GmbHG, AktG, UmwG, GenG oder Vereinsrecht abarbeiten.
-4. Bei Zweifeln nur registerrelevante Tatsachen aufklären; zivilrechtliche Binnenstreitigkeiten nicht als Hauptsacheprozess entscheiden.
-5. Eintragung, Zwischenverfügung oder Zurückweisung mit konkretem Registervollzug abschließen.
+1. Vereins- oder Genossenschaftsanmeldung einordnen: Neuanmeldung, Satzungsänderung, Vorstandswechsel, Löschung oder Genossenschaftseintragung getrennt behandeln.
+2. Beim Verein Satzung, Einladung, Beschlussfähigkeit, Beschlussfassung und Vertretungsregel nach Paragrafen 57, 58, 59, 67 und 71 BGB aktenfest prüfen.
+3. Beim wirtschaftlichen Geschäftsbetrieb den prägenden Vereinszweck herausarbeiten und wirtschaftliche Nebentätigkeit vom wirtschaftlichen Hauptzweck abgrenzen.
+4. Bei Genossenschaften Satzung, Mitgliederzahl, Prüfungsverband, Vorstand, Aufsichtsrat und Gründungsprüfung anhand GenG und Registerunterlagen gesondert abhaken.
+5. Zwischenverfügung nur für konkret behebbare Nachweise; bei nicht registerfähiger Satzung oder fehlendem Idealvereinscharakter begründete Zurückweisung vorbereiten.
 
 ## Typische Fallstricke
 
@@ -71,5 +71,5 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `08-loeschung-von-amts-wegen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Vereins und Genossenschaftsregister trägt.
-- **Danach**: `10-entscheidungsvorschlag-register` - Folgeschritt im selben Plugin; nutze ihn, sobald Vereins und Genossenschaftsregister entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `08-loeschung-von-amts-wegen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vereins und Genossenschaftsregister trägt.
+- **Danach**: `10-entscheidungsvorschlag-register` - Folgeskill nutzen, sobald Vereins und Genossenschaftsregister entscheidungs- oder verfügungsreif vorbereitet ist.

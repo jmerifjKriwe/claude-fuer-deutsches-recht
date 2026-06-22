@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus.
-- BAG, Urteil vom 19.02.2019 - 9 AZR 541/15, frei nachweisbar über dejure/openJur: Urlaubsansprüche verfallen nur bei ordnungsgemäßer Mitwirkung und klarem Hinweis des Arbeitgebers.
-- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind im Kündigungsschutzprozess sauber voneinander zu trennen.
+- Paragrafen 46, 54, 60, 61 und 64 ArbGG: Entscheidungsvorschlag muss Verfahrensstand, Güteversuch, Tenor, Kosten und Rechtsmittelstatus geschlossen abbilden.
+- Paragraf 313 ZPO: Urteilsentwurf braucht tragenden Sachverhalt, Anträge und knappe Subsumtion.
+- Paragraf 278 ZPO über Paragraf 46 ArbGG: Vergleichsvorschlag und Entscheidungsentwurf sind taktisch sauber zu trennen.
+- Paragraf 12a ArbGG: Kostenhinweise dürfen nicht zivilprozessual automatisch übertragen werden.
+- Ständige Rechtsprechung zur arbeitsgerichtlichen Vergleichspraxis: Vergleich muss Beendigung, Zeugnis, Abrechnung, Urlaub, Herausgabe und Erledigungsklausel vollständig erfassen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Entscheidungsvorschlag Arbeitsgericht: Rechtsweg, örtliche Zuständigkeit, Verfahrensart und Güteverhandlung zuerst steuern.
+1. Entscheidungsvorschlag Arbeitsgericht: Rechtsweg, örtliche Zuständigkeit, Verfahrensart und Güteverhandlung zuerst steuern.
 2. Klageanträge auf Bestimmtheit, Fälligkeit, Fristen und tarifliche Ausschlussfristen prüfen.
 3. Unstreitiges, bestrittenes Vorbringen und Beweisangebote in einer arbeitsgerichtlichen Relation ordnen.
 4. Hinweise so formulieren, dass beide Seiten Vergleichs- und Prozessrisiken verstehen.
@@ -70,5 +71,5 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 
 ## Benachbarte Skills
 
-- **Davor**: `09-urteil-arbeitsgericht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Arbeitsgericht trägt.
+- **Davor**: `09-urteil-arbeitsgericht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Arbeitsgericht trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

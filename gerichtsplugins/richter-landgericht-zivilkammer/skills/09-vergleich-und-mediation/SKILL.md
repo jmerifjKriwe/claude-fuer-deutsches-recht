@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Vergleich und Mediation: Anerkenntnis, Säumnis, Vergleich, Erledigung und Klagerücknahme als unterschiedliche Prozesslagen trennen.
+1. Vergleich und Mediation: Anerkenntnis, Säumnis, Vergleich, Erledigung und Klagerücknahme als unterschiedliche Prozesslagen trennen.
 2. Zeitpunkt und Umfang bestimmen: vor oder nach Rechtshängigkeit, vollständig oder teilweise, einseitig oder übereinstimmend.
 3. Kostenpfad wählen: Paragraf 91a ZPO, Paragraf 269 Abs. 3 Satz 3 ZPO, Anerkenntnisprivileg oder materieller Kostenerstattungsanspruch.
 4. Tenor so formulieren, dass Hauptsache, Kosten und Vollstreckbarkeit nicht widersprüchlich werden.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `08-kostenentscheidung-und-streitwert` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Vergleich und Mediation trägt.
-- **Danach**: `10-entscheidungsvorschlag-kammer` - Folgeschritt im selben Plugin; nutze ihn, sobald Vergleich und Mediation entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `08-kostenentscheidung-und-streitwert` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vergleich und Mediation trägt.
+- **Danach**: `10-entscheidungsvorschlag-kammer` - Folgeskill nutzen, sobald Vergleich und Mediation entscheidungs- oder verfügungsreif vorbereitet ist.

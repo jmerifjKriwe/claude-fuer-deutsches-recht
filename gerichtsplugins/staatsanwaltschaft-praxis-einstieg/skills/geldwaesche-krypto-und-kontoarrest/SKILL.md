@@ -34,7 +34,7 @@ description: "Geldwäsche mit Krypto- oder Kontospuren: Praxis-Skill für neue S
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Geldwäsche mit Krypto- oder Kontospuren: Tatertrag, Wertersatz, Drittbetroffene, Sicherungsbedarf und Vermögensarrest zuerst prüfen.
+1. Geldwäsche mit Krypto- oder Kontospuren: Tatertrag, Wertersatz, Drittbetroffene, Sicherungsbedarf und Vermögensarrest zuerst prüfen.
 2. Erlangtes, Surrogat, Nutzungen, Abzugsverbot und Entreicherung nicht vermengen.
 3. Drittbeteiligung, Verletztenansprüche und Insolvenzbezug ausdrücklich markieren.
 4. Sicherungsmaßnahme nach Arrestgrund, Betrag, Vollstreckbarkeit und Verhältnismäßigkeit begründen.

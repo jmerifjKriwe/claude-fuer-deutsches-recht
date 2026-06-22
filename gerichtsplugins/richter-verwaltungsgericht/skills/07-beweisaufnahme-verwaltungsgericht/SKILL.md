@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Beweisaufnahme Verwaltungsgericht: Amtsermittlungsbedarf, Behördenakte, Beweisanträge und entscheidungserhebliche Tatsachen zuerst trennen.
+1. Beweisaufnahme Verwaltungsgericht: Amtsermittlungsbedarf, Behördenakte, Beweisanträge und entscheidungserhebliche Tatsachen zuerst trennen.
 2. Aktenvollständigkeit prüfen: Ausgangsbescheid, Widerspruchsbescheid, Verwaltungsvorgänge, Ermessenserwägungen und Zustellnachweise.
 3. Beweisaufnahme nur für streitige und erhebliche Tatsachen anordnen; rechtliche Wertungen nicht beweisen lassen.
 4. Aufklärungsverfügung mit konkreter Unterlagenanforderung, Frist und Folgen für die Entscheidungsreife formulieren.
@@ -70,5 +70,5 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 
 ## Benachbarte Skills
 
-- **Davor**: `06-eilrechtsschutz-paragraf-123` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beweisaufnahme Verwaltungsgericht trägt.
-- **Danach**: `08-urteilsentwurf-paragraf-117-vwgo` - Folgeschritt im selben Plugin; nutze ihn, sobald Beweisaufnahme Verwaltungsgericht entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-eilrechtsschutz-paragraf-123` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweisaufnahme Verwaltungsgericht trägt.
+- **Danach**: `08-urteilsentwurf-paragraf-117-vwgo` - Folgeskill nutzen, sobald Beweisaufnahme Verwaltungsgericht entscheidungs- oder verfügungsreif vorbereitet ist.

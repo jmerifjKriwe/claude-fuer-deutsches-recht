@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Rechtsmittel Der Staatsanwaltschaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+1. Rechtsmittel Der Staatsanwaltschaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
 2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
 3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
 4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
@@ -70,5 +70,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `20-plaedoyer-und-schlussvortrag-paragraf-258` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Rechtsmittel Der Staatsanwaltschaft trägt.
-- **Danach**: `22-strafvollstreckung-paragraf-451` - Folgeschritt im selben Plugin; nutze ihn, sobald Rechtsmittel Der Staatsanwaltschaft entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `20-plaedoyer-und-schlussvortrag-paragraf-258` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Rechtsmittel Der Staatsanwaltschaft trägt.
+- **Danach**: `22-strafvollstreckung-paragraf-451` - Folgeskill nutzen, sobald Rechtsmittel Der Staatsanwaltschaft entscheidungs- oder verfügungsreif vorbereitet ist.

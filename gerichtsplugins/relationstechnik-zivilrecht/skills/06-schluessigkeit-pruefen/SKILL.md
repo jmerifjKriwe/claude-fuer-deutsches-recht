@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Schlüssigkeit Prüfen: Klageantrag, Streitgegenstand und passende Anspruchsgrundlagen in der Reihenfolge der Klägerstation festlegen.
+1. Schlüssigkeit Prüfen: Klageantrag, Streitgegenstand und passende Anspruchsgrundlagen in der Reihenfolge der Klägerstation festlegen.
 2. Anspruchsgrundlagen in Prüfungsreihenfolge notieren; vertragliche, gesetzliche, dingliche und bereicherungsrechtliche Anspruchsziele nicht vermengen.
 3. Schlüssigkeit nur nach dem Klägervortrag prüfen: jedes Tatbestandsmerkmal mit Tatsachenvortrag, Anlage und Beweisangebot verbinden.
 4. Fehlende Tatsachen als Hinweisproblem kennzeichnen; keine Beweisaufnahme für unschlüssigen Vortrag anstoßen.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `05-anspruchsgrundlagen-identifizieren` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Schlüssigkeit Prüfen trägt.
-- **Danach**: `07-klaegerstation-votum` - Folgeschritt im selben Plugin; nutze ihn, sobald Schlüssigkeit Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-anspruchsgrundlagen-identifizieren` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Schlüssigkeit Prüfen trägt.
+- **Danach**: `07-klaegerstation-votum` - Folgeskill nutzen, sobald Schlüssigkeit Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.

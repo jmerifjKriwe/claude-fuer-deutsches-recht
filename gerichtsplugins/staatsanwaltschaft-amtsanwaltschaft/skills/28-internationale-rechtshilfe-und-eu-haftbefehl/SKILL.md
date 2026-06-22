@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Internationale Rechtshilfe und EU Haftbefehl: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+1. Internationale Rechtshilfe und EU Haftbefehl: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
 2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
 3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
 4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
@@ -70,5 +70,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `27-wiederaufnahme-zuungunsten-paragraf-362` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Internationale Rechtshilfe und EU Haftbefehl trägt.
+- **Davor**: `27-wiederaufnahme-zuungunsten-paragraf-362` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Internationale Rechtshilfe und EU Haftbefehl trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

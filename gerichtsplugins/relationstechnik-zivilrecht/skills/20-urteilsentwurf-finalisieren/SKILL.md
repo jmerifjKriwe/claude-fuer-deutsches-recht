@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Urteilsentwurf Finalisieren: Tenor, Tatbestand und Entscheidungsgründe aus der Relation ableiten und mit Kosten sowie Vollstreckbarkeit abstimmen.
+1. Urteilsentwurf Finalisieren: Tenor, Tatbestand und Entscheidungsgründe aus der Relation ableiten und mit Kosten sowie Vollstreckbarkeit abstimmen.
 2. Hauptsachetenor, Nebenforderungen, Kostenquote, vorläufige Vollstreckbarkeit und Streitwert aufeinander abstimmen.
 3. Tatbestand knapp, aber vollständig schreiben: Anträge, unstreitiger Kern, streitiger Vortrag, Prozessgeschichte.
 4. Entscheidungsgründe nach Zulässigkeit, Begründetheit, Beweiswürdigung und Nebenentscheidungen gliedern.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Urteilsentwurf Finalisieren trägt.
+- **Davor**: `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteilsentwurf Finalisieren trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

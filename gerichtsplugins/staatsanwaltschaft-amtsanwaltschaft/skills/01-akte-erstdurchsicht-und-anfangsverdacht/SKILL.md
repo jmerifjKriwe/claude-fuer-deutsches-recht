@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Akte-Erstdurchsicht und Anfangsverdacht: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+1. Akte-Erstdurchsicht und Anfangsverdacht: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
 2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
 3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
 4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
@@ -70,4 +70,4 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Folgeschritt im selben Plugin; nutze ihn, sobald Akte-Erstdurchsicht und Anfangsverdacht entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Folgeskill nutzen, sobald Akte-Erstdurchsicht und Anfangsverdacht entscheidungs- oder verfügungsreif vorbereitet ist.

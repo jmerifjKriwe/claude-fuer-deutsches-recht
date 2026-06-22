@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Streitstand Erfassen: Antrag, Verteidigung, Verfahrensstand, Fristen und gewünschtes Arbeitsprodukt in einem Eingangssatz festlegen.
+1. Streitstand Erfassen: Antrag, Verteidigung, Verfahrensstand, Fristen und gewünschtes Arbeitsprodukt in einem Eingangssatz festlegen.
 2. Aktenstücke chronologisch ordnen: Klage, Anlagen, Zustellnachweise, Verteidigungsanzeige, Schriftsatzfolge, gerichtliche Hinweise und Protokolle getrennt erfassen.
 3. Tatsachen nach unstreitig, bestritten, nicht hinreichend bestritten und beweisbedürftig markieren; bloße Rechtsansichten nicht als Tatsachen übernehmen.
 4. Aus dem Parteivortrag eine streitstandsgeeignete Arbeitstabelle mit Antrag, Anspruchsziel, Einwendung, Einrede, Beweismittel und Normbezug erstellen.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `02-parteivortrag-strukturieren` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Streitstand Erfassen trägt.
-- **Danach**: `04-klage-antrag-auslegen` - Folgeschritt im selben Plugin; nutze ihn, sobald Streitstand Erfassen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `02-parteivortrag-strukturieren` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Streitstand Erfassen trägt.
+- **Danach**: `04-klage-antrag-auslegen` - Folgeskill nutzen, sobald Streitstand Erfassen entscheidungs- oder verfügungsreif vorbereitet ist.

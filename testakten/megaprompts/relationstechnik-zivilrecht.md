@@ -65,27 +65,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Urteilsentwurf Finalisieren: Tenor, Tatbestand und Entscheidungsgründe aus der Relation ableiten und mit Kosten sowie Vollstreckbarkeit abstimmen.
+2. Hauptsachetenor, Nebenforderungen, Kostenquote, vorläufige Vollstreckbarkeit und Streitwert aufeinander abstimmen.
+3. Tatbestand knapp, aber vollständig schreiben: Anträge, unstreitiger Kern, streitiger Vortrag, Prozessgeschichte.
+4. Entscheidungsgründe nach Zulässigkeit, Begründetheit, Beweiswürdigung und Nebenentscheidungen gliedern.
+5. Rechtsmittel und Beschwer prüfen; Berufungszulassung oder Nichtzulassung begründen, wenn sie entscheidungserheblich ist.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -95,19 +90,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 20 Urteilsentwurf Finalisieren bearbeitet wird.
-- **Danach**: `01-akte-erstdurchsicht-zivil` - Nutze diesen Folgeschritt, sobald 20 Urteilsentwurf Finalisieren als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteilsentwurf Finalisieren trägt.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
 
 ---
 
@@ -147,27 +142,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage als Alternative zu Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit: Tenor, Tatbestand und Entscheidungsgründe aus der Relation ableiten und mit Kosten sowie Vollstreckbarkeit abstimmen.
+2. Hauptsachetenor, Nebenforderungen, Kostenquote, vorläufige Vollstreckbarkeit und Streitwert aufeinander abstimmen.
+3. Tatbestand knapp, aber vollständig schreiben: Anträge, unstreitiger Kern, streitiger Vortrag, Prozessgeschichte.
+4. Entscheidungsgründe nach Zulässigkeit, Begründetheit, Beweiswürdigung und Nebenentscheidungen gliedern.
+5. Rechtsmittel und Beschwer prüfen; Berufungszulassung oder Nichtzulassung begründen, wenn sie entscheidungserheblich ist.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -177,19 +167,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `18-entscheidungsgruende-aufbauen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit bearbeitet wird.
-- **Danach**: `20-urteilsentwurf-finalisieren` - Nutze diesen Folgeschritt, sobald 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `18-entscheidungsgruende-aufbauen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit trägt.
+- **Danach**: `20-urteilsentwurf-finalisieren` - Folgeskill nutzen, sobald Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -229,27 +219,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Beweislastverteilung Prüfen: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
+2. Beweislast für jedes Tatbestandsmerkmal, jede Einwendung und jede Einrede getrennt festlegen; Beweiserleichterungen ausdrücklich benennen.
+3. Beweismittel nach Urkunde, Zeuge, Sachverständiger, Augenschein und Parteivernehmung ordnen; Ausforschungsbeweis aussortieren.
+4. Beweisbeschluss mit Beweisthema, Beweismittel, Kostenvorschuss und Fristen gerichtsfest formulieren.
+5. Nach Beweisaufnahme die Würdigung nach Paragraf 286 ZPO nicht mit Beweislastentscheidung verwechseln.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -259,19 +244,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `12-beweisbeduerftige-tatsachen-isolieren` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 13 Beweislastverteilung Prüfen bearbeitet wird.
-- **Danach**: `14-beweismittel-wuerdigen` - Nutze diesen Folgeschritt, sobald 13 Beweislastverteilung Prüfen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `12-beweisbeduerftige-tatsachen-isolieren` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweislastverteilung Prüfen trägt.
+- **Danach**: `14-beweismittel-wuerdigen` - Folgeskill nutzen, sobald Beweislastverteilung Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -311,27 +296,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Tatbestand Schreiben: Tenor, Tatbestand und Entscheidungsgründe aus der Relation ableiten und mit Kosten sowie Vollstreckbarkeit abstimmen.
+2. Hauptsachetenor, Nebenforderungen, Kostenquote, vorläufige Vollstreckbarkeit und Streitwert aufeinander abstimmen.
+3. Tatbestand knapp, aber vollständig schreiben: Anträge, unstreitiger Kern, streitiger Vortrag, Prozessgeschichte.
+4. Entscheidungsgründe nach Zulässigkeit, Begründetheit, Beweiswürdigung und Nebenentscheidungen gliedern.
+5. Rechtsmittel und Beschwer prüfen; Berufungszulassung oder Nichtzulassung begründen, wenn sie entscheidungserheblich ist.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -341,19 +321,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `16-tenor-formulieren` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 17 Tatbestand Schreiben bearbeitet wird.
-- **Danach**: `18-entscheidungsgruende-aufbauen` - Nutze diesen Folgeschritt, sobald 17 Tatbestand Schreiben als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `16-tenor-formulieren` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Tatbestand Schreiben trägt.
+- **Danach**: `18-entscheidungsgruende-aufbauen` - Folgeskill nutzen, sobald Tatbestand Schreiben entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -393,27 +373,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Beweismittel Wuerdigen: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
+2. Beweislast für jedes Tatbestandsmerkmal, jede Einwendung und jede Einrede getrennt festlegen; Beweiserleichterungen ausdrücklich benennen.
+3. Beweismittel nach Urkunde, Zeuge, Sachverständiger, Augenschein und Parteivernehmung ordnen; Ausforschungsbeweis aussortieren.
+4. Beweisbeschluss mit Beweisthema, Beweismittel, Kostenvorschuss und Fristen gerichtsfest formulieren.
+5. Nach Beweisaufnahme die Würdigung nach Paragraf 286 ZPO nicht mit Beweislastentscheidung verwechseln.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -423,19 +398,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `13-beweislastverteilung-pruefen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 14 Beweismittel Wuerdigen bearbeitet wird.
-- **Danach**: `15-beweisstation-votum` - Nutze diesen Folgeschritt, sobald 14 Beweismittel Wuerdigen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `13-beweislastverteilung-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweismittel Wuerdigen trägt.
+- **Danach**: `15-beweisstation-votum` - Folgeskill nutzen, sobald Beweismittel Wuerdigen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -475,27 +450,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Tenor Formulieren: Tenor, Tatbestand und Entscheidungsgründe aus der Relation ableiten und mit Kosten sowie Vollstreckbarkeit abstimmen.
+2. Hauptsachetenor, Nebenforderungen, Kostenquote, vorläufige Vollstreckbarkeit und Streitwert aufeinander abstimmen.
+3. Tatbestand knapp, aber vollständig schreiben: Anträge, unstreitiger Kern, streitiger Vortrag, Prozessgeschichte.
+4. Entscheidungsgründe nach Zulässigkeit, Begründetheit, Beweiswürdigung und Nebenentscheidungen gliedern.
+5. Rechtsmittel und Beschwer prüfen; Berufungszulassung oder Nichtzulassung begründen, wenn sie entscheidungserheblich ist.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -505,19 +475,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `15-beweisstation-votum` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 16 Tenor Formulieren bearbeitet wird.
-- **Danach**: `17-tatbestand-schreiben` - Nutze diesen Folgeschritt, sobald 16 Tenor Formulieren als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `15-beweisstation-votum` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Tenor Formulieren trägt.
+- **Danach**: `17-tatbestand-schreiben` - Folgeskill nutzen, sobald Tenor Formulieren entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -529,7 +499,7 @@ _Prüfung der Einwendungen und Einreden: Verjaehrung Paragrafen 194 ff. BGB, Erf
 
 ## Zweck
 
-Prüfung der Einwendungen und Einreden: Verjaehrung Paragrafen 194 ff. BGB, Erfuellung Paragrafen 362 ff., Aufrechnung Paragrafen 387 ff., Anfechtung Paragrafen 142 ff., Stundung, Verzicht
+Prüfung der Einwendungen und Einreden: Verjaehrung Paragrafen 194 ff. BGB, Erfüllung Paragrafen 362 ff., Aufrechnung Paragrafen 387 ff., Anfechtung Paragrafen 142 ff., Stundung, Verzicht
 
 ## Rolle
 
@@ -557,27 +527,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Einwendungen Einreden Prüfen: Bestreiten, Einwendung, Einrede, Hilfsaufrechnung und Widerklage getrennt in die Beklagtenstation aufnehmen.
+2. Erheblichkeit nur bei unterstellter Wahrheit prüfen: Welche Verteidigung würde die schlüssige Klage ganz oder teilweise zu Fall bringen?
+3. Präklusion, Geständnis, sekundäre Darlegungslast und Bestreiten mit Nichtwissen gesondert markieren.
+4. Einreden wie Verjährung, Zurückbehaltung oder dauernde Leistungsverweigerung mit Frist- und Tatsachenkern versehen.
+5. Beklagtenstation mit Beweisbedarf, Hinweisbedarf und Vergleichsfenster abschließen.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -587,19 +552,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `08-beklagtenvortrag-strukturieren` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 09 Einwendungen Einreden Prüfen bearbeitet wird.
-- **Danach**: `10-erheblichkeit-pruefen` - Nutze diesen Folgeschritt, sobald 09 Einwendungen Einreden Prüfen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `08-beklagtenvortrag-strukturieren` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Einwendungen Einreden Prüfen trägt.
+- **Danach**: `10-erheblichkeit-pruefen` - Folgeskill nutzen, sobald Einwendungen Einreden Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -639,27 +604,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Entscheidungsgründe Aufbauen: Tenor, Tatbestand und Entscheidungsgründe aus der Relation ableiten und mit Kosten sowie Vollstreckbarkeit abstimmen.
+2. Hauptsachetenor, Nebenforderungen, Kostenquote, vorläufige Vollstreckbarkeit und Streitwert aufeinander abstimmen.
+3. Tatbestand knapp, aber vollständig schreiben: Anträge, unstreitiger Kern, streitiger Vortrag, Prozessgeschichte.
+4. Entscheidungsgründe nach Zulässigkeit, Begründetheit, Beweiswürdigung und Nebenentscheidungen gliedern.
+5. Rechtsmittel und Beschwer prüfen; Berufungszulassung oder Nichtzulassung begründen, wenn sie entscheidungserheblich ist.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -669,19 +629,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `17-tatbestand-schreiben` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 18 Entscheidungsgründe Aufbauen bearbeitet wird.
-- **Danach**: `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit` - Nutze diesen Folgeschritt, sobald 18 Entscheidungsgründe Aufbauen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `17-tatbestand-schreiben` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsgründe Aufbauen trägt.
+- **Danach**: `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit` - Folgeskill nutzen, sobald Entscheidungsgründe Aufbauen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -721,27 +681,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Beweisstation Votum: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
+2. Beweislast für jedes Tatbestandsmerkmal, jede Einwendung und jede Einrede getrennt festlegen; Beweiserleichterungen ausdrücklich benennen.
+3. Beweismittel nach Urkunde, Zeuge, Sachverständiger, Augenschein und Parteivernehmung ordnen; Ausforschungsbeweis aussortieren.
+4. Beweisbeschluss mit Beweisthema, Beweismittel, Kostenvorschuss und Fristen gerichtsfest formulieren.
+5. Nach Beweisaufnahme die Würdigung nach Paragraf 286 ZPO nicht mit Beweislastentscheidung verwechseln.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -751,19 +706,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `14-beweismittel-wuerdigen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 15 Beweisstation Votum bearbeitet wird.
-- **Danach**: `16-tenor-formulieren` - Nutze diesen Folgeschritt, sobald 15 Beweisstation Votum als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `14-beweismittel-wuerdigen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweisstation Votum trägt.
+- **Danach**: `16-tenor-formulieren` - Folgeskill nutzen, sobald Beweisstation Votum entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -775,7 +730,7 @@ _Erheblichkeitsprüfung (Beklagtenstation): sind Einwendungen und Einreden recht
 
 ## Zweck
 
-Erheblichkeitsprüfung (Beklagtenstation): sind Einwendungen und Einreden rechtlich erheblich? Schluessigkeit + Erheblichkeit = Erfolgsaussicht der Klage bei unstreitigem Sachverhalt
+Erheblichkeitsprüfung (Beklagtenstation): sind Einwendungen und Einreden rechtlich erheblich? Schlüssigkeit + Erheblichkeit = Erfolgsaussicht der Klage bei unstreitigem Sachverhalt
 
 ## Rolle
 
@@ -803,27 +758,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Erheblichkeit Prüfen: Bestreiten, Einwendung, Einrede, Hilfsaufrechnung und Widerklage getrennt in die Beklagtenstation aufnehmen.
+2. Erheblichkeit nur bei unterstellter Wahrheit prüfen: Welche Verteidigung würde die schlüssige Klage ganz oder teilweise zu Fall bringen?
+3. Präklusion, Geständnis, sekundäre Darlegungslast und Bestreiten mit Nichtwissen gesondert markieren.
+4. Einreden wie Verjährung, Zurückbehaltung oder dauernde Leistungsverweigerung mit Frist- und Tatsachenkern versehen.
+5. Beklagtenstation mit Beweisbedarf, Hinweisbedarf und Vergleichsfenster abschließen.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -833,19 +783,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `09-einwendungen-einreden-pruefen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 10 Erheblichkeit Prüfen bearbeitet wird.
-- **Danach**: `11-beklagtenstation-votum` - Nutze diesen Folgeschritt, sobald 10 Erheblichkeit Prüfen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `09-einwendungen-einreden-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Erheblichkeit Prüfen trägt.
+- **Danach**: `11-beklagtenstation-votum` - Folgeskill nutzen, sobald Erheblichkeit Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -885,27 +835,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Beklagtenstation Votum: Bestreiten, Einwendung, Einrede, Hilfsaufrechnung und Widerklage getrennt in die Beklagtenstation aufnehmen.
+2. Erheblichkeit nur bei unterstellter Wahrheit prüfen: Welche Verteidigung würde die schlüssige Klage ganz oder teilweise zu Fall bringen?
+3. Präklusion, Geständnis, sekundäre Darlegungslast und Bestreiten mit Nichtwissen gesondert markieren.
+4. Einreden wie Verjährung, Zurückbehaltung oder dauernde Leistungsverweigerung mit Frist- und Tatsachenkern versehen.
+5. Beklagtenstation mit Beweisbedarf, Hinweisbedarf und Vergleichsfenster abschließen.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -915,19 +860,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-erheblichkeit-pruefen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 11 Beklagtenstation Votum bearbeitet wird.
-- **Danach**: `12-beweisbeduerftige-tatsachen-isolieren` - Nutze diesen Folgeschritt, sobald 11 Beklagtenstation Votum als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `10-erheblichkeit-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beklagtenstation Votum trägt.
+- **Danach**: `12-beweisbeduerftige-tatsachen-isolieren` - Folgeskill nutzen, sobald Beklagtenstation Votum entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -939,7 +884,7 @@ _Schriftliches Votum der Klägerstation: Anspruchsgrundlage, geprüfte Tatbestan
 
 ## Zweck
 
-Schriftliches Votum der Klägerstation: Anspruchsgrundlage, geprüfte Tatbestandsmerkmale, schluessige Rechtsfolge oder nicht schluessig, Hinweise nach Paragraf 139 ZPO
+Schriftliches Votum der Klägerstation: Anspruchsgrundlage, geprüfte Tatbestandsmerkmale, schlüssige Rechtsfolge oder nicht schlüssig, Hinweise nach Paragraf 139 ZPO
 
 ## Rolle
 
@@ -967,27 +912,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Klägerstation Votum: Klageantrag, Streitgegenstand und passende Anspruchsgrundlagen in der Reihenfolge der Klägerstation festlegen.
+2. Anspruchsgrundlagen in Prüfungsreihenfolge notieren; vertragliche, gesetzliche, dingliche und bereicherungsrechtliche Anspruchsziele nicht vermengen.
+3. Schlüssigkeit nur nach dem Klägervortrag prüfen: jedes Tatbestandsmerkmal mit Tatsachenvortrag, Anlage und Beweisangebot verbinden.
+4. Fehlende Tatsachen als Hinweisproblem kennzeichnen; keine Beweisaufnahme für unschlüssigen Vortrag anstoßen.
+5. Klägerstation mit Kurzvotum abschließen: vollständig schlüssig, teilweise schlüssig, unschlüssig mit Hinweis oder entscheidungsreif abweisungsreif.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -997,19 +937,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-schluessigkeit-pruefen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 07 Klägerstation Votum bearbeitet wird.
-- **Danach**: `08-beklagtenvortrag-strukturieren` - Nutze diesen Folgeschritt, sobald 07 Klägerstation Votum als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-schluessigkeit-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Klägerstation Votum trägt.
+- **Danach**: `08-beklagtenvortrag-strukturieren` - Folgeskill nutzen, sobald Klägerstation Votum entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -1017,11 +957,11 @@ Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Ta
 
 _Schluessigkeitsprüfung (Klägerstation): liegen die Voraussetzungen der Anspruchsgrundlage nach dem Klägervortrag vor? Subsumtion, Auslegung, Hilfstatsachen, Indizien_
 
-# 06 Schluessigkeit Prüfen
+# 06 Schlüssigkeit Prüfen
 
 ## Zweck
 
-Schluessigkeitsprüfung (Klägerstation): liegen die Voraussetzungen der Anspruchsgrundlage nach dem Klägervortrag vor? Subsumtion, Auslegung, Hilfstatsachen, Indizien
+Schlüssigkeitsprüfung (Klägerstation): liegen die Voraussetzungen der Anspruchsgrundlage nach dem Klägervortrag vor? Subsumtion, Auslegung, Hilfstatsachen, Indizien
 
 ## Rolle
 
@@ -1049,27 +989,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Schlüssigkeit Prüfen: Klageantrag, Streitgegenstand und passende Anspruchsgrundlagen in der Reihenfolge der Klägerstation festlegen.
+2. Anspruchsgrundlagen in Prüfungsreihenfolge notieren; vertragliche, gesetzliche, dingliche und bereicherungsrechtliche Anspruchsziele nicht vermengen.
+3. Schlüssigkeit nur nach dem Klägervortrag prüfen: jedes Tatbestandsmerkmal mit Tatsachenvortrag, Anlage und Beweisangebot verbinden.
+4. Fehlende Tatsachen als Hinweisproblem kennzeichnen; keine Beweisaufnahme für unschlüssigen Vortrag anstoßen.
+5. Klägerstation mit Kurzvotum abschließen: vollständig schlüssig, teilweise schlüssig, unschlüssig mit Hinweis oder entscheidungsreif abweisungsreif.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -1079,19 +1014,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-anspruchsgrundlagen-identifizieren` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 06 Schluessigkeit Prüfen bearbeitet wird.
-- **Danach**: `07-klaegerstation-votum` - Nutze diesen Folgeschritt, sobald 06 Schluessigkeit Prüfen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `05-anspruchsgrundlagen-identifizieren` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Schlüssigkeit Prüfen trägt.
+- **Danach**: `07-klaegerstation-votum` - Folgeskill nutzen, sobald Schlüssigkeit Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -1131,27 +1066,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Streitstand Erfassen: Antrag, Verteidigung, Verfahrensstand, Fristen und gewünschtes Arbeitsprodukt in einem Eingangssatz festlegen.
+2. Aktenstücke chronologisch ordnen: Klage, Anlagen, Zustellnachweise, Verteidigungsanzeige, Schriftsatzfolge, gerichtliche Hinweise und Protokolle getrennt erfassen.
+3. Tatsachen nach unstreitig, bestritten, nicht hinreichend bestritten und beweisbedürftig markieren; bloße Rechtsansichten nicht als Tatsachen übernehmen.
+4. Aus dem Parteivortrag eine streitstandsgeeignete Arbeitstabelle mit Antrag, Anspruchsziel, Einwendung, Einrede, Beweismittel und Normbezug erstellen.
+5. Offene Punkte in richterliche Verfügungssprache übersetzen: Hinweis nach Paragraf 139 ZPO, Fristsetzung, Auflage oder Terminvorbereitung.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -1161,19 +1091,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-parteivortrag-strukturieren` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Streitstand Erfassen bearbeitet wird.
-- **Danach**: `04-klage-antrag-auslegen` - Nutze diesen Folgeschritt, sobald 03 Streitstand Erfassen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-parteivortrag-strukturieren` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Streitstand Erfassen trägt.
+- **Danach**: `04-klage-antrag-auslegen` - Folgeskill nutzen, sobald Streitstand Erfassen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -1213,27 +1143,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Beklagtenvortrag Strukturieren: Bestreiten, Einwendung, Einrede, Hilfsaufrechnung und Widerklage getrennt in die Beklagtenstation aufnehmen.
+2. Erheblichkeit nur bei unterstellter Wahrheit prüfen: Welche Verteidigung würde die schlüssige Klage ganz oder teilweise zu Fall bringen?
+3. Präklusion, Geständnis, sekundäre Darlegungslast und Bestreiten mit Nichtwissen gesondert markieren.
+4. Einreden wie Verjährung, Zurückbehaltung oder dauernde Leistungsverweigerung mit Frist- und Tatsachenkern versehen.
+5. Beklagtenstation mit Beweisbedarf, Hinweisbedarf und Vergleichsfenster abschließen.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -1243,19 +1168,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-klaegerstation-votum` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Beklagtenvortrag Strukturieren bearbeitet wird.
-- **Danach**: `09-einwendungen-einreden-pruefen` - Nutze diesen Folgeschritt, sobald 08 Beklagtenvortrag Strukturieren als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-klaegerstation-votum` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beklagtenvortrag Strukturieren trägt.
+- **Danach**: `09-einwendungen-einreden-pruefen` - Folgeskill nutzen, sobald Beklagtenvortrag Strukturieren entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -1295,27 +1220,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Beweisbedürftige Tatsachen Isolieren: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
+2. Beweislast für jedes Tatbestandsmerkmal, jede Einwendung und jede Einrede getrennt festlegen; Beweiserleichterungen ausdrücklich benennen.
+3. Beweismittel nach Urkunde, Zeuge, Sachverständiger, Augenschein und Parteivernehmung ordnen; Ausforschungsbeweis aussortieren.
+4. Beweisbeschluss mit Beweisthema, Beweismittel, Kostenvorschuss und Fristen gerichtsfest formulieren.
+5. Nach Beweisaufnahme die Würdigung nach Paragraf 286 ZPO nicht mit Beweislastentscheidung verwechseln.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -1325,19 +1245,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `11-beklagtenstation-votum` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 12 Beweisbedürftige Tatsachen Isolieren bearbeitet wird.
-- **Danach**: `13-beweislastverteilung-pruefen` - Nutze diesen Folgeschritt, sobald 12 Beweisbedürftige Tatsachen Isolieren als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `11-beklagtenstation-votum` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweisbedürftige Tatsachen Isolieren trägt.
+- **Danach**: `13-beweislastverteilung-pruefen` - Folgeskill nutzen, sobald Beweisbedürftige Tatsachen Isolieren entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -1377,27 +1297,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Akte Erstdurchsicht Zivil: Antrag, Verteidigung, Verfahrensstand, Fristen und gewünschtes Arbeitsprodukt in einem Eingangssatz festlegen.
+2. Aktenstücke chronologisch ordnen: Klage, Anlagen, Zustellnachweise, Verteidigungsanzeige, Schriftsatzfolge, gerichtliche Hinweise und Protokolle getrennt erfassen.
+3. Tatsachen nach unstreitig, bestritten, nicht hinreichend bestritten und beweisbedürftig markieren; bloße Rechtsansichten nicht als Tatsachen übernehmen.
+4. Aus dem Parteivortrag eine streitstandsgeeignete Arbeitstabelle mit Antrag, Anspruchsziel, Einwendung, Einrede, Beweismittel und Normbezug erstellen.
+5. Offene Punkte in richterliche Verfügungssprache übersetzen: Hinweis nach Paragraf 139 ZPO, Fristsetzung, Auflage oder Terminvorbereitung.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -1407,19 +1322,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `20-urteilsentwurf-finalisieren` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 01 Akte Erstdurchsicht Zivil bearbeitet wird.
-- **Danach**: `02-parteivortrag-strukturieren` - Nutze diesen Folgeschritt, sobald 01 Akte Erstdurchsicht Zivil als gerichtlicher Arbeitsstand verwertbar ist.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
+- **Danach**: `02-parteivortrag-strukturieren` - Folgeskill nutzen, sobald Akte Erstdurchsicht Zivil entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -1459,27 +1374,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Anspruchsgrundlagen Identifizieren: Klageantrag, Streitgegenstand und passende Anspruchsgrundlagen in der Reihenfolge der Klägerstation festlegen.
+2. Anspruchsgrundlagen in Prüfungsreihenfolge notieren; vertragliche, gesetzliche, dingliche und bereicherungsrechtliche Anspruchsziele nicht vermengen.
+3. Schlüssigkeit nur nach dem Klägervortrag prüfen: jedes Tatbestandsmerkmal mit Tatsachenvortrag, Anlage und Beweisangebot verbinden.
+4. Fehlende Tatsachen als Hinweisproblem kennzeichnen; keine Beweisaufnahme für unschlüssigen Vortrag anstoßen.
+5. Klägerstation mit Kurzvotum abschließen: vollständig schlüssig, teilweise schlüssig, unschlüssig mit Hinweis oder entscheidungsreif abweisungsreif.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -1489,19 +1399,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `04-klage-antrag-auslegen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 05 Anspruchsgrundlagen Identifizieren bearbeitet wird.
-- **Danach**: `06-schluessigkeit-pruefen` - Nutze diesen Folgeschritt, sobald 05 Anspruchsgrundlagen Identifizieren als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `04-klage-antrag-auslegen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Anspruchsgrundlagen Identifizieren trägt.
+- **Danach**: `06-schluessigkeit-pruefen` - Folgeskill nutzen, sobald Anspruchsgrundlagen Identifizieren entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -1541,27 +1451,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Klage Antrag Auslegen: Klageantrag, Streitgegenstand und passende Anspruchsgrundlagen in der Reihenfolge der Klägerstation festlegen.
+2. Anspruchsgrundlagen in Prüfungsreihenfolge notieren; vertragliche, gesetzliche, dingliche und bereicherungsrechtliche Anspruchsziele nicht vermengen.
+3. Schlüssigkeit nur nach dem Klägervortrag prüfen: jedes Tatbestandsmerkmal mit Tatsachenvortrag, Anlage und Beweisangebot verbinden.
+4. Fehlende Tatsachen als Hinweisproblem kennzeichnen; keine Beweisaufnahme für unschlüssigen Vortrag anstoßen.
+5. Klägerstation mit Kurzvotum abschließen: vollständig schlüssig, teilweise schlüssig, unschlüssig mit Hinweis oder entscheidungsreif abweisungsreif.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -1571,19 +1476,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-streitstand-erfassen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Klage Antrag Auslegen bearbeitet wird.
-- **Danach**: `05-anspruchsgrundlagen-identifizieren` - Nutze diesen Folgeschritt, sobald 04 Klage Antrag Auslegen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-streitstand-erfassen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Klage Antrag Auslegen trägt.
+- **Danach**: `05-anspruchsgrundlagen-identifizieren` - Folgeskill nutzen, sobald Klage Antrag Auslegen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -1623,27 +1528,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Parteivortrag Strukturieren: Antrag, Verteidigung, Verfahrensstand, Fristen und gewünschtes Arbeitsprodukt in einem Eingangssatz festlegen.
+2. Aktenstücke chronologisch ordnen: Klage, Anlagen, Zustellnachweise, Verteidigungsanzeige, Schriftsatzfolge, gerichtliche Hinweise und Protokolle getrennt erfassen.
+3. Tatsachen nach unstreitig, bestritten, nicht hinreichend bestritten und beweisbedürftig markieren; bloße Rechtsansichten nicht als Tatsachen übernehmen.
+4. Aus dem Parteivortrag eine streitstandsgeeignete Arbeitstabelle mit Antrag, Anspruchsziel, Einwendung, Einrede, Beweismittel und Normbezug erstellen.
+5. Offene Punkte in richterliche Verfügungssprache übersetzen: Hinweis nach Paragraf 139 ZPO, Fristsetzung, Auflage oder Terminvorbereitung.
 
 ## Typische Fallstricke
 
-- Schluessigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnoetige Beweisbeschluesse.
+- Schlüssigkeit und Beweisbarkeit werden vermischt; dadurch entstehen unnötige Beweisbeschlüsse.
 - Ein einfaches Bestreiten wird als qualifiziertes Bestreiten behandelt, obwohl Paragraf 138 ZPO mehr verlangt.
 - Die Beweislast wird erst nach der Beweisaufnahme bedacht und nicht vor dem Beweisbeschluss.
 - Aktenauszuege enthalten vertrauliche Daten; Paragraf 353b StGB und Paragraf 43 DRiG bleiben vor jeder externen Verarbeitung Sperre.
@@ -1653,19 +1553,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal] noch nicht erkennen laesst, welche konkrete Tatsache die geltend gemachte Rechtsfolge tragen soll. Die Partei erhaelt Gelegenheit, binnen [Frist] hierzu ergaenzend und beweisbezogen vorzutragen.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `01-akte-erstdurchsicht-zivil` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 02 Parteivortrag Strukturieren bearbeitet wird.
-- **Danach**: `03-streitstand-erfassen` - Nutze diesen Folgeschritt, sobald 02 Parteivortrag Strukturieren als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `01-akte-erstdurchsicht-zivil` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Parteivortrag Strukturieren trägt.
+- **Danach**: `03-streitstand-erfassen` - Folgeskill nutzen, sobald Parteivortrag Strukturieren entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 

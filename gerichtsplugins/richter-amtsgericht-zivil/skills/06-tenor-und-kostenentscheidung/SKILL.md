@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Tenor und Kostenentscheidung: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+1. Tenor und Kostenentscheidung: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
 2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
 3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
 4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `05-beweisaufnahme-kleine-zivilkammer` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Tenor und Kostenentscheidung trägt.
-- **Danach**: `07-urteilsentwurf-paragraf-313` - Folgeschritt im selben Plugin; nutze ihn, sobald Tenor und Kostenentscheidung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-beweisaufnahme-kleine-zivilkammer` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Tenor und Kostenentscheidung trägt.
+- **Danach**: `07-urteilsentwurf-paragraf-313` - Folgeskill nutzen, sobald Tenor und Kostenentscheidung entscheidungs- oder verfügungsreif vorbereitet ist.

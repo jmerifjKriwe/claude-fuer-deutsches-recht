@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Klage Antrag Auslegen: Klageantrag, Streitgegenstand und passende Anspruchsgrundlagen in der Reihenfolge der Klägerstation festlegen.
+1. Klage Antrag Auslegen: Klageantrag, Streitgegenstand und passende Anspruchsgrundlagen in der Reihenfolge der Klägerstation festlegen.
 2. Anspruchsgrundlagen in Prüfungsreihenfolge notieren; vertragliche, gesetzliche, dingliche und bereicherungsrechtliche Anspruchsziele nicht vermengen.
 3. Schlüssigkeit nur nach dem Klägervortrag prüfen: jedes Tatbestandsmerkmal mit Tatsachenvortrag, Anlage und Beweisangebot verbinden.
 4. Fehlende Tatsachen als Hinweisproblem kennzeichnen; keine Beweisaufnahme für unschlüssigen Vortrag anstoßen.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `03-streitstand-erfassen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Klage Antrag Auslegen trägt.
-- **Danach**: `05-anspruchsgrundlagen-identifizieren` - Folgeschritt im selben Plugin; nutze ihn, sobald Klage Antrag Auslegen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `03-streitstand-erfassen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Klage Antrag Auslegen trägt.
+- **Danach**: `05-anspruchsgrundlagen-identifizieren` - Folgeskill nutzen, sobald Klage Antrag Auslegen entscheidungs- oder verfügungsreif vorbereitet ist.

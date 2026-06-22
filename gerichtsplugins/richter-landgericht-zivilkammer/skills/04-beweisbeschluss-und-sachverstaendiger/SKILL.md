@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Beweisbeschluss und Sachverständiger: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen.
+1. Beweisbeschluss und Sachverständiger: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen.
 2. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen.
 3. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren.
 4. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `03-fruehe-erste-verfuegung-paragraf-139` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beweisbeschluss und Sachverständiger trägt.
-- **Danach**: `05-zeugenbeweis-und-parteivernehmung` - Folgeschritt im selben Plugin; nutze ihn, sobald Beweisbeschluss und Sachverständiger entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `03-fruehe-erste-verfuegung-paragraf-139` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweisbeschluss und Sachverständiger trägt.
+- **Danach**: `05-zeugenbeweis-und-parteivernehmung` - Folgeskill nutzen, sobald Beweisbeschluss und Sachverständiger entscheidungs- oder verfügungsreif vorbereitet ist.

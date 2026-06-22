@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Adhaesionsverfahren Paragraf 403: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+1. Adhaesionsverfahren Paragraf 403: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
 2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
 3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
 4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `24-abschlussverfuegung-und-entscheidungsvorschlag` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Adhaesionsverfahren Paragraf 403 trägt.
-- **Danach**: `26-opferschutz-nebenklage-und-verletztenrechte` - Folgeschritt im selben Plugin; nutze ihn, sobald Adhaesionsverfahren Paragraf 403 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `24-abschlussverfuegung-und-entscheidungsvorschlag` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Adhaesionsverfahren Paragraf 403 trägt.
+- **Danach**: `26-opferschutz-nebenklage-und-verletztenrechte` - Folgeskill nutzen, sobald Adhaesionsverfahren Paragraf 403 entscheidungs- oder verfügungsreif vorbereitet ist.

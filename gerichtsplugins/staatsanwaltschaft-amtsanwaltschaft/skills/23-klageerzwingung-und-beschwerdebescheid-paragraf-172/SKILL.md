@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Klageerzwingung und Beschwerdebescheid Paragraf 172: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+1. Klageerzwingung und Beschwerdebescheid Paragraf 172: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
 2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
 3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
 4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `22-strafvollstreckung-paragraf-451` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Klageerzwingung und Beschwerdebescheid Paragraf 172 trägt.
-- **Danach**: `24-abschlussverfuegung-und-entscheidungsvorschlag` - Folgeschritt im selben Plugin; nutze ihn, sobald Klageerzwingung und Beschwerdebescheid Paragraf 172 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `22-strafvollstreckung-paragraf-451` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Klageerzwingung und Beschwerdebescheid Paragraf 172 trägt.
+- **Danach**: `24-abschlussverfuegung-und-entscheidungsvorschlag` - Folgeskill nutzen, sobald Klageerzwingung und Beschwerdebescheid Paragraf 172 entscheidungs- oder verfügungsreif vorbereitet ist.

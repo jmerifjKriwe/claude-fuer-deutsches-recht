@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04, Kittel und Recolta Recycling: Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er in Umsatzsteuerbetrug einbezogen war.
-- EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11, Mahagében und Dávid: Redlichen Unternehmern dürfen keine überspannten Nachforschungspflichten auferlegt werden.
-- EuGH, Urteil vom 18.12.2014 - C-131/13, C-163/13 und C-164/13, Italmoda: Unionsrechtlich geprägte Steuerrechte können bei Beteiligung an Steuerbetrug versagt werden.
-- BFH, Urteil vom 04.11.2021 - VI R 22/19, BStBl. II 2022, 562: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen oder verteilen nationale Besteuerung.
+- Paragraf 76 FGO: Finanzgericht erforscht den Sachverhalt von Amts wegen, bleibt aber an Mitwirkungslasten und Beweisnähe gebunden.
+- Paragraf 79 FGO: Aufklärungsverfügungen müssen auf entscheidungserhebliche Tatsachen zielen.
+- Paragrafen 90, 93, 97 und 162 AO: Mitwirkung, Auskunft, Urkundenvorlage und Schätzung sind in Steuerakten getrennt zu würdigen.
+- Paragraf 96 FGO: Entscheidung beruht auf dem Gesamtergebnis des Verfahrens und verlangt nachvollziehbare Überzeugungsbildung.
+- Ständige Rechtsprechung des BFH zu Aufklärungsrügen: Entscheidungserheblichkeit, Beweisthema und unterlassene Ermittlungsmaßnahme müssen konkret dargelegt sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Amtsermittlung Finanzgericht: Einspruchsentscheidung, Klagefrist, Klagebefugnis, Vorverfahren und finanzgerichtliche Zuständigkeit zuerst prüfen.
+1. Amtsermittlung Finanzgericht: Einspruchsentscheidung, Klagefrist, Klagebefugnis, Vorverfahren und finanzgerichtliche Zuständigkeit zuerst prüfen.
 2. Amtsermittlung und Mitwirkungspflichten in ein konkretes Aufklärungsprogramm übersetzen.
 3. Streitige Besteuerungsgrundlagen tabellarisch nach Bescheid, Antrag, Finanzamtsauffassung und Klägervortrag ordnen.
 4. Revision oder Nichtzulassungsbeschwerde nur bei grundsätzlicher Bedeutung, Divergenz oder Verfahrensmangel vorbereiten.
@@ -70,5 +71,5 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 
 ## Benachbarte Skills
 
-- **Davor**: `01-zulaessigkeit-finanzgerichtsklage` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Amtsermittlung Finanzgericht trägt.
-- **Danach**: `03-aussetzung-der-vollziehung` - Folgeschritt im selben Plugin; nutze ihn, sobald Amtsermittlung Finanzgericht entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-zulaessigkeit-finanzgerichtsklage` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Amtsermittlung Finanzgericht trägt.
+- **Danach**: `03-aussetzung-der-vollziehung` - Folgeskill nutzen, sobald Amtsermittlung Finanzgericht entscheidungs- oder verfügungsreif vorbereitet ist.

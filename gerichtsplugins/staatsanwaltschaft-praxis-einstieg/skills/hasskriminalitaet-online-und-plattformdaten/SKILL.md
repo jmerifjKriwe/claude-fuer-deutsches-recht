@@ -34,7 +34,7 @@ description: "Hasskriminalität online: Plattformdaten und Kontext: Praxis-Skill
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Hasskriminalität online: Plattformdaten und Kontext: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+1. Hasskriminalität online: Plattformdaten und Kontext: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
 2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
 3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
 4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.

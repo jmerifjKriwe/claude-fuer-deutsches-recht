@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Entscheidungsvorschlag Register: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
+1. Entscheidungsvorschlag Register: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
 2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
 3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
 4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
@@ -70,5 +70,5 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `09-vereins-und-genossenschaftsregister` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Register trägt.
+- **Davor**: `09-vereins-und-genossenschaftsregister` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Register trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

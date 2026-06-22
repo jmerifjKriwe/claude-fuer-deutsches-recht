@@ -27,7 +27,7 @@ description: "Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Rolle der Staatsanwaltschaft: Legalität und Objektivität: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+1. Rolle der Staatsanwaltschaft: Legalität und Objektivität: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
 2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
 3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
 4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.

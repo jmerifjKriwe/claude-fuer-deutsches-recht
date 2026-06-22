@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Rechtsmittel Vwgo: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist, Beteiligtenfähigkeit und Rechtsschutzbedürfnis prüfen.
+1. Rechtsmittel Vwgo: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist, Beteiligtenfähigkeit und Rechtsschutzbedürfnis prüfen.
 2. Rechtsweg und Zuständigkeit nicht aus dem Behördenrubrum ableiten, sondern nach Streitgegenstand bestimmen.
 3. Widerspruchsverfahren und landesrechtliche Ausnahmen ausdrücklich markieren.
 4. Klageantrag nach erkennbarem Rechtsschutzziel auslegen, ohne das Begehren umzudeuten.
@@ -70,5 +70,5 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 
 ## Benachbarte Skills
 
-- **Davor**: `08-urteilsentwurf-paragraf-117-vwgo` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Rechtsmittel Vwgo trägt.
-- **Danach**: `10-entscheidungsvorschlag-verwaltungsgericht` - Folgeschritt im selben Plugin; nutze ihn, sobald Rechtsmittel Vwgo entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `08-urteilsentwurf-paragraf-117-vwgo` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Rechtsmittel Vwgo trägt.
+- **Danach**: `10-entscheidungsvorschlag-verwaltungsgericht` - Folgeskill nutzen, sobald Rechtsmittel Vwgo entscheidungs- oder verfügungsreif vorbereitet ist.

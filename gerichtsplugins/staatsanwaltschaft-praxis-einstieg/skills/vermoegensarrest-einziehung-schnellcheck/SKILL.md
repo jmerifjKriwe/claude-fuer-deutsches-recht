@@ -34,7 +34,7 @@ description: "Vermögensarrest und Einziehung: schneller Sicherungscheck: Praxis
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Vermögensarrest und Einziehung: schneller Sicherungscheck: Tatertrag, Wertersatz, Drittbetroffene, Sicherungsbedarf und Vermögensarrest zuerst prüfen.
+1. Vermögensarrest und Einziehung: schneller Sicherungscheck: Tatertrag, Wertersatz, Drittbetroffene, Sicherungsbedarf und Vermögensarrest zuerst prüfen.
 2. Erlangtes, Surrogat, Nutzungen, Abzugsverbot und Entreicherung nicht vermengen.
 3. Drittbeteiligung, Verletztenansprüche und Insolvenzbezug ausdrücklich markieren.
 4. Sicherungsmaßnahme nach Arrestgrund, Betrag, Vollstreckbarkeit und Verhältnismäßigkeit begründen.

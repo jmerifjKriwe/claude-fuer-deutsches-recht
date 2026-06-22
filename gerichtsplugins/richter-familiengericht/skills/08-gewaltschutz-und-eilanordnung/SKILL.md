@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
-- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
+- Paragrafen 1 und 2 GewSchG: Kontakt-, Näherungs- und Wohnungszuweisung verlangen konkrete Verletzungs-, Drohungs- oder Nachstellungstatsachen.
+- Paragrafen 49, 51 und 54 FamFG: Einstweilige Anordnung, mündliche Verhandlung und Aufhebung/Änderung sind verfahrensrechtlich gesondert zu behandeln.
+- Paragraf 214 FamFG: Gewaltschutzsachen verlangen Beteiligtenanhörung und Schutzbedarfsprüfung ohne unnötige Eskalation.
+- Paragraf 4 GewSchG: Strafbarkeit des Verstoßes muss im Tenor und Hinweis korrekt abgebildet werden.
+- Ständige Rechtsprechung zum Gewaltschutz: Glaubhaftmachung, Wiederholungsgefahr, Reichweite und Befristung der Schutzanordnung sind konkret zu begründen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Gewaltschutz und Eilanordnung: Schutzbedürfnis, konkrete Verletzungshandlung, Glaubhaftmachung und Eilzuständigkeit zuerst prüfen.
+1. Gewaltschutz und Eilanordnung: Schutzbedürfnis, konkrete Verletzungshandlung, Glaubhaftmachung und Eilzuständigkeit zuerst prüfen.
 2. Kontakt-, Näherungs-, Wohnungs- und Herausgabeanordnungen getrennt nach Erforderlichkeit formulieren.
 3. Anhörung, einstweilige Anordnung ohne mündliche Verhandlung und Befristung mit Gefährdungslage begründen.
 4. Kindeswohl, Polizeischutz, Strafverfahren und Datenschutzfolgen sichtbar voneinander abgrenzen.
@@ -70,5 +71,5 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 
 ## Benachbarte Skills
 
-- **Davor**: `07-ehegattenunterhalt-trennung-und-nachehe` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Gewaltschutz und Eilanordnung trägt.
-- **Danach**: `09-beschluss-familiensache-paragraf-38-famfg` - Folgeschritt im selben Plugin; nutze ihn, sobald Gewaltschutz und Eilanordnung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `07-ehegattenunterhalt-trennung-und-nachehe` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Gewaltschutz und Eilanordnung trägt.
+- **Danach**: `09-beschluss-familiensache-paragraf-38-famfg` - Folgeskill nutzen, sobald Gewaltschutz und Eilanordnung entscheidungs- oder verfügungsreif vorbereitet ist.

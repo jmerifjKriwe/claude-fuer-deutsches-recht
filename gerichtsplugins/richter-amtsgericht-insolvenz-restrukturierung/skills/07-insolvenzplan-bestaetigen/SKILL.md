@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Insolvenzplan Bestaetigen: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen.
+1. Insolvenzplan Bestaetigen: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen.
 2. Gläubigerrechte, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Versagungsgründe getrennt prüfen.
 3. Masseinteresse, Verfahrensökonomie und rechtliches Gehör dokumentieren.
 4. Beschluss mit Tenor, Gründen, Zustellung und Rechtsmittelbelehrung formulieren.
@@ -70,5 +70,5 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 
 ## Benachbarte Skills
 
-- **Davor**: `06-eigenverwaltung-und-schutzschirm` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Insolvenzplan Bestaetigen trägt.
-- **Danach**: `08-starug-restrukturierungssache-anzeigen` - Folgeschritt im selben Plugin; nutze ihn, sobald Insolvenzplan Bestaetigen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-eigenverwaltung-und-schutzschirm` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Insolvenzplan Bestaetigen trägt.
+- **Danach**: `08-starug-restrukturierungssache-anzeigen` - Folgeskill nutzen, sobald Insolvenzplan Bestaetigen entscheidungs- oder verfügungsreif vorbereitet ist.

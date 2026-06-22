@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Wiederaufnahme Zuungunsten Paragraf 362: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+1. Wiederaufnahme Zuungunsten Paragraf 362: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
 2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
 3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
 4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `26-opferschutz-nebenklage-und-verletztenrechte` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Wiederaufnahme Zuungunsten Paragraf 362 trägt.
-- **Danach**: `28-internationale-rechtshilfe-und-eu-haftbefehl` - Folgeschritt im selben Plugin; nutze ihn, sobald Wiederaufnahme Zuungunsten Paragraf 362 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `26-opferschutz-nebenklage-und-verletztenrechte` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Wiederaufnahme Zuungunsten Paragraf 362 trägt.
+- **Danach**: `28-internationale-rechtshilfe-und-eu-haftbefehl` - Folgeskill nutzen, sobald Wiederaufnahme Zuungunsten Paragraf 362 entscheidungs- oder verfügungsreif vorbereitet ist.

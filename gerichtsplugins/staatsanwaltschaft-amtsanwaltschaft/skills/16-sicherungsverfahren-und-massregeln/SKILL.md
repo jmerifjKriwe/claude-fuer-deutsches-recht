@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Sicherungsverfahren und Maßregeln: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+1. Sicherungsverfahren und Maßregeln: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
 2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
 3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
 4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `15-antrag-beschleunigtes-verfahren-paragraf-417` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Sicherungsverfahren und Maßregeln trägt.
-- **Danach**: `17-einziehung-und-vermoegensabschoepfung` - Folgeschritt im selben Plugin; nutze ihn, sobald Sicherungsverfahren und Maßregeln entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `15-antrag-beschleunigtes-verfahren-paragraf-417` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Sicherungsverfahren und Maßregeln trägt.
+- **Danach**: `17-einziehung-und-vermoegensabschoepfung` - Folgeskill nutzen, sobald Sicherungsverfahren und Maßregeln entscheidungs- oder verfügungsreif vorbereitet ist.

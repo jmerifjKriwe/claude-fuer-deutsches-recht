@@ -54,23 +54,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- BVerfG, Beschluss vom 29.01.2010 - 1 BvR 374/09, frei nachweisbar über bundesverfassungsgericht.de und dejure: Trennung eines Kindes von seinen Eltern verlangt eine besonders tragfähige Kindeswohlgefährdungsprognose.
+- BVerfG, Beschluss vom 22.05.2014 - 1 BvR 2882/13, frei nachweisbar über bundesverfassungsgericht.de und dejure: Elternrecht und Kindeswohl erfordern eine am konkreten Kind orientierte Sachverhaltsaufklärung.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
+- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
+- Ständige Rechtsprechung zu Paragrafen 158 und 159 FamFG: Verfahrensbeistand und persönliche Kindesanhörung sind bei substantiellen Sorgerechtsentscheidungen konkret zu prüfen und aktenkundig zu begründen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Sorgerechtsantrag präzise zuordnen: Alleinsorge, Teilbereich, Aufenthaltsbestimmung, Gesundheitsfürsorge, Schulangelegenheiten oder einstweilige Schutzanordnung.
+2. Beteiligte und Verfahrensgarantien sichern: Jugendamt, Verfahrensbeistand, persönliche Elternanhörung, Kindesanhörung nach Alter und Entwicklungsstand sowie erforderlichenfalls Sachverständigengutachten.
+3. Kindeswohl konkret prüfen: Bindung, Förderung, Kontinuität, Kindeswille, Kooperationsfähigkeit der Eltern, Gewalt- oder Manipulationsvorwürfe und alltagspraktische Umsetzbarkeit.
+4. Eingriffstiefe staffeln: mildere Mittel, Auflagen, Beratung, Umgangsregelung oder Teilübertragung vor vollständigem Sorgerechtsentzug prüfen.
+5. Beschluss so tenorieren, dass Zuständigkeit, Teilbereich, Übergabe von Unterlagen, Vollstreckungshinweis und Befristung bei Eilentscheidungen eindeutig sind.
 
 ## Typische Fallstricke
 
@@ -84,19 +80,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-versorgungsausgleich-vorbereiten` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Kindschaftssache Elterliche Sorge bearbeitet wird.
-- **Danach**: `05-umgangsrecht-paragraf-1684-bgb` - Nutze diesen Folgeschritt, sobald 04 Kindschaftssache Elterliche Sorge als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-versorgungsausgleich-vorbereiten` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kindschaftssache Elterliche Sorge trägt.
+- **Danach**: `05-umgangsrecht-paragraf-1684-bgb` - Folgeskill nutzen, sobald Kindschaftssache Elterliche Sorge entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -135,23 +131,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- Paragrafen 26, 38, 39, 81 und 84 FamFG: Entscheidungsvorschlag muss Amtsermittlung, Beschlussformel, Bekanntgabe, Kosten und Rechtsmittel geschlossen abbilden.
+- Paragrafen 158 und 159 FamFG: Bei Kindschaftssachen sind Verfahrensbeistand und Kindesanhörung im Vorschlag ausdrücklich abzuhaken.
+- Paragraf 137 FamFG: Scheidungsverbund und Folgesachen sind vor Endentscheidung auf Abtrennung oder Entscheidungsreife zu prüfen.
+- BVerfG, Beschluss vom 22.05.2014 - 1 BvR 2882/13, frei nachweisbar über bundesverfassungsgericht.de und dejure: Familiengerichtliche Sachverhaltsaufklärung muss am konkreten Kind und am Eingriff in Art. 6 GG ausgerichtet sein.
+- Ständige Rechtsprechung zu FamFG-Endentscheidungen: Der Vorschlag darf keine offen gebliebenen Anhörungen, Auskünfte oder Sachverständigenfragen überspringen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Entscheidungsvorschlag Familienrichter: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
+2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
+3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
+4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
+5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
 
 ## Typische Fallstricke
 
@@ -165,19 +157,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `09-beschluss-familiensache-paragraf-38-famfg` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 10 Entscheidungsvorschlag Familienrichter bearbeitet wird.
-- **Danach**: `01-zustaendigkeit-und-zuteilung-familiensache` - Nutze diesen Folgeschritt, sobald 10 Entscheidungsvorschlag Familienrichter als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `09-beschluss-familiensache-paragraf-38-famfg` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Familienrichter trägt.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
 
 ---
 
@@ -216,23 +208,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- Paragrafen 1565, 1566 und 1567 BGB: Scheitern der Ehe, Trennungsjahr, unwiderlegliche Vermutung und Getrenntleben sind getrennt festzustellen.
+- Paragraf 137 FamFG: Verbundfolgesachen sind vor Scheidungstenor auf Rechtshängigkeit, Frist und Abtrennungsbedarf zu prüfen.
+- Paragraf 128 FamFG: Persönliche Anhörung der Ehegatten ist in der Scheidungssache der Regelfall.
+- Ständige Rechtsprechung zu Paragraf 1565 BGB: Scheitern ist aus Trennung, Wiederherstellungserwartung und Parteiverhalten konkret herzuleiten; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 150 FamFG: Kosten der Scheidung und Folgesachen sind eigenständig zu tenorieren.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Ehesache Scheidung Paragraf 1565: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
+2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
+3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
+4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
+5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
 
 ## Typische Fallstricke
 
@@ -246,19 +234,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `01-zustaendigkeit-und-zuteilung-familiensache` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 02 Ehesache Scheidung Paragraf 1565 bearbeitet wird.
-- **Danach**: `03-versorgungsausgleich-vorbereiten` - Nutze diesen Folgeschritt, sobald 02 Ehesache Scheidung Paragraf 1565 als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `01-zustaendigkeit-und-zuteilung-familiensache` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ehesache Scheidung Paragraf 1565 trägt.
+- **Danach**: `03-versorgungsausgleich-vorbereiten` - Folgeskill nutzen, sobald Ehesache Scheidung Paragraf 1565 entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -297,23 +285,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- Paragraf 38 FamFG: Beschluss braucht Rubrum, Beschlussformel, Gründe, Rechtsbehelfsbelehrung und Unterschrift beziehungsweise Signatur.
+- Paragrafen 39, 40 und 41 FamFG: Bekanntgabe, Wirksamwerden und Rechtsbehelfsbelehrung sind nicht bloße Formalien.
+- Paragraf 81 FamFG: Kostenentscheidung verlangt Ermessen und darf nicht aus der ZPO abgeschrieben werden.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt sichtbare Berücksichtigung entscheidungserheblichen Vortrags.
+- Ständige Rechtsprechung zu FamFG-Beschlüssen: Tenor muss vollstreckbar, Gründe müssen kindes- oder vermögensbezogen nachvollziehbar sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Beschluss Familiensache Paragraf 38 FamFG: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
+2. Amtsverfahren, Antragsverfahren, Verbund und Folgesachen sauber trennen.
+3. Anhörungen, Jugendamt, Verfahrensbeistand, Sachverständige und Auskunftsanordnungen terminlich steuern.
+4. Vergleichs- und Einigungsoptionen prüfen, ohne Schutz- oder Kindeswohlfragen zu relativieren.
+5. Beschluss mit Tenor, Gründen, Kosten, Rechtsbehelfsbelehrung und Vollstreckungshinweis fassen.
 
 ## Typische Fallstricke
 
@@ -327,19 +311,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `08-gewaltschutz-und-eilanordnung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 09 Beschluss Familiensache Paragraf 38 FamFG bearbeitet wird.
-- **Danach**: `10-entscheidungsvorschlag-familienrichter` - Nutze diesen Folgeschritt, sobald 09 Beschluss Familiensache Paragraf 38 FamFG als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `08-gewaltschutz-und-eilanordnung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beschluss Familiensache Paragraf 38 FamFG trägt.
+- **Danach**: `10-entscheidungsvorschlag-familienrichter` - Folgeskill nutzen, sobald Beschluss Familiensache Paragraf 38 FamFG entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -347,7 +331,7 @@ Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zu
 
 _Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569 ff. BGB: Anspruchsgrundlagen (Betreuungs-, Alters-, Krankheits-, Aufstockungsunterhalt), Befristung und Begrenzung Paragraf 1578b, Verwirkung Paragraf 1579_
 
-# 07 Ehegattenunterhalt Trennung Und Nachehe
+# 07 Ehegattenunterhalt Trennung und Nachehe
 
 ## Zweck
 
@@ -378,23 +362,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- Paragrafen 1361, 1569, 1570 bis 1578b BGB: Trennungsunterhalt und nachehelicher Unterhalt folgen unterschiedlichen Einsatzzeitpunkten und Begrenzungsregeln.
+- Paragraf 1578b BGB: Herabsetzung und Befristung verlangen ehebedingte Nachteile und Billigkeitsabwägung.
+- Paragraf 1585b BGB: Rückstände setzen Verzug, Rechtshängigkeit oder Auskunftsverlangen voraus.
+- Paragraf 235 FamFG: Einkommensermittlung muss durch Auskunfts- und Beleganordnung abgesichert werden.
+- Ständige Rechtsprechung des BGH zum Ehegattenunterhalt: Bedarf, Bedürftigkeit, Leistungsfähigkeit, Erwerbsobliegenheit und Begrenzung sind nacheinander zu prüfen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Ehegattenunterhalt Trennung und Nachehe: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
+2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
+3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
+4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
+5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
 
 ## Typische Fallstricke
 
@@ -408,19 +388,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-kindesunterhalt-duesseldorfer-tabelle` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 07 Ehegattenunterhalt Trennung Und Nachehe bearbeitet wird.
-- **Danach**: `08-gewaltschutz-und-eilanordnung` - Nutze diesen Folgeschritt, sobald 07 Ehegattenunterhalt Trennung Und Nachehe als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-kindesunterhalt-duesseldorfer-tabelle` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ehegattenunterhalt Trennung und Nachehe trägt.
+- **Danach**: `08-gewaltschutz-und-eilanordnung` - Folgeskill nutzen, sobald Ehegattenunterhalt Trennung und Nachehe entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -428,7 +408,7 @@ Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zu
 
 _Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 FamFG, Geschaeftsverteilung; Verbund Paragraf 137 FamFG bei Scheidung; Verfahrenskostenhilfe Paragraf 76 FamFG_
 
-# 01 Zuständigkeit Und Zuteilung Familiensache
+# 01 Zuständigkeit und Zuteilung Familiensache
 
 ## Zweck
 
@@ -459,23 +439,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- Paragrafen 23b GVG sowie 111, 112 und 151 FamFG: Zuständigkeit und Verfahrensart entscheiden, ob Amtsbetrieb, Antragsverfahren oder Familienstreitsache vorliegt.
+- Paragraf 113 FamFG: ZPO-Vorschriften gelten in Familienstreitsachen nur nach Maßgabe der Verweisung.
+- Paragraf 266 FamFG: Sonstige Familiensachen verlangen eine präzise Abgrenzung zu allgemeinem Zivilprozess und Güterrecht.
+- Ständige Rechtsprechung zur funktionellen Zuständigkeit in Familiensachen: Verfahrensgegenstand, Beteiligte und Verbundfähigkeit sind vor Sachprüfung zu klären; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 4 FamFG: Abgabe und Verweisung sind nur tragfähig, wenn Zuständigkeit und Kindeswohlgesichtspunkte aktenbezogen begründet werden.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Zuständigkeit und Zuteilung Familiensache: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
+2. Amtsverfahren, Antragsverfahren, Verbund und Folgesachen sauber trennen.
+3. Anhörungen, Jugendamt, Verfahrensbeistand, Sachverständige und Auskunftsanordnungen terminlich steuern.
+4. Vergleichs- und Einigungsoptionen prüfen, ohne Schutz- oder Kindeswohlfragen zu relativieren.
+5. Beschluss mit Tenor, Gründen, Kosten, Rechtsbehelfsbelehrung und Vollstreckungshinweis fassen.
 
 ## Typische Fallstricke
 
@@ -489,19 +465,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-familienrichter` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 01 Zuständigkeit Und Zuteilung Familiensache bearbeitet wird.
-- **Danach**: `02-ehesache-scheidung-paragraf-1565` - Nutze diesen Folgeschritt, sobald 01 Zuständigkeit Und Zuteilung Familiensache als gerichtlicher Arbeitsstand verwertbar ist.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
+- **Danach**: `02-ehesache-scheidung-paragraf-1565` - Folgeskill nutzen, sobald Zuständigkeit und Zuteilung Familiensache entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -509,7 +485,7 @@ Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zu
 
 _Gewaltschutzverfahren GewSchG: Schutzanordnungen Paragraf 1 (Abstand, Naehe, Kontakt), Wohnungszuweisung Paragraf 2, Eilbeschluss Paragraf 214 FamFG, sofortige Wirksamkeit Paragraf 209 FamFG, Strafbewehrung Paragraf 4 GewSchG_
 
-# 08 Gewaltschutz Und Eilanordnung
+# 08 Gewaltschutz und Eilanordnung
 
 ## Zweck
 
@@ -540,23 +516,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- Paragrafen 1 und 2 GewSchG: Kontakt-, Näherungs- und Wohnungszuweisung verlangen konkrete Verletzungs-, Drohungs- oder Nachstellungstatsachen.
+- Paragrafen 49, 51 und 54 FamFG: Einstweilige Anordnung, mündliche Verhandlung und Aufhebung/Änderung sind verfahrensrechtlich gesondert zu behandeln.
+- Paragraf 214 FamFG: Gewaltschutzsachen verlangen Beteiligtenanhörung und Schutzbedarfsprüfung ohne unnötige Eskalation.
+- Paragraf 4 GewSchG: Strafbarkeit des Verstoßes muss im Tenor und Hinweis korrekt abgebildet werden.
+- Ständige Rechtsprechung zum Gewaltschutz: Glaubhaftmachung, Wiederholungsgefahr, Reichweite und Befristung der Schutzanordnung sind konkret zu begründen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Gewaltschutz und Eilanordnung: Schutzbedürfnis, konkrete Verletzungshandlung, Glaubhaftmachung und Eilzuständigkeit zuerst prüfen.
+2. Kontakt-, Näherungs-, Wohnungs- und Herausgabeanordnungen getrennt nach Erforderlichkeit formulieren.
+3. Anhörung, einstweilige Anordnung ohne mündliche Verhandlung und Befristung mit Gefährdungslage begründen.
+4. Kindeswohl, Polizeischutz, Strafverfahren und Datenschutzfolgen sichtbar voneinander abgrenzen.
+5. Beschluss mit Reichweite, Ordnungsmittelhinweis, Zustellung und Vollzug klar fassen.
 
 ## Typische Fallstricke
 
@@ -570,19 +542,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-ehegattenunterhalt-trennung-und-nachehe` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Gewaltschutz Und Eilanordnung bearbeitet wird.
-- **Danach**: `09-beschluss-familiensache-paragraf-38-famfg` - Nutze diesen Folgeschritt, sobald 08 Gewaltschutz Und Eilanordnung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-ehegattenunterhalt-trennung-und-nachehe` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Gewaltschutz und Eilanordnung trägt.
+- **Danach**: `09-beschluss-familiensache-paragraf-38-famfg` - Folgeskill nutzen, sobald Gewaltschutz und Eilanordnung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -621,23 +593,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
+- Paragrafen 1, 3, 5, 10 und 14 VersAusglG: Ehezeit, Ausgleichswert, interne Teilung und externe Teilung sind getrennte Prüfungsstationen.
+- Paragraf 220 FamFG: Versorgungsträgerauskünfte müssen vollständig, nachvollziehbar und ehezeitbezogen sein.
+- Paragrafen 18 und 27 VersAusglG: Bagatellausschluss und grobe Unbilligkeit dürfen nicht schematisch, sondern nur fallbezogen angewandt werden.
+- Ständige Rechtsprechung des BGH zu Teilungskosten und Ausgleichswert: Rechenweg und Zielversorgung müssen im Beschluss nachvollziehbar erscheinen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Versorgungsausgleich Vorbereiten: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
+2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
+3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
+4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
+5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
 
 ## Typische Fallstricke
 
@@ -651,19 +619,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-ehesache-scheidung-paragraf-1565` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Versorgungsausgleich Vorbereiten bearbeitet wird.
-- **Danach**: `04-kindschaftssache-elterliche-sorge` - Nutze diesen Folgeschritt, sobald 03 Versorgungsausgleich Vorbereiten als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-ehesache-scheidung-paragraf-1565` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Versorgungsausgleich Vorbereiten trägt.
+- **Danach**: `04-kindschaftssache-elterliche-sorge` - Folgeskill nutzen, sobald Versorgungsausgleich Vorbereiten entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -702,23 +670,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
+- Paragrafen 1601, 1602, 1603, 1610, 1612a und 1612b BGB: Anspruchsgrund, Bedürftigkeit, Leistungsfähigkeit, Bedarf, dynamischer Titel und Kindergeldanrechnung sind getrennt zu prüfen.
+- Paragraf 243 FamFG: Kosten in Unterhaltssachen folgen einer eigenen Billigkeitslogik.
+- Paragraf 235 FamFG: Auskunftsanordnung und Belegvorlage sind vor Schätzung oder Säumnisentscheidung auszuschöpfen.
+- Ständige Rechtsprechung zur Düsseldorfer Tabelle: Tabelle ist Hilfsmittel, ersetzt aber nicht Einkommensbereinigung, Bedarfskontrollbetrag und Mangelfallprüfung; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Kindesunterhalt Duesseldorfer Tabelle: Kindeswohl, Beteiligtenstellung, Anhörung des Kindes, Elternrechte und Jugendamtsbeteiligung zuerst prüfen.
+2. Sorge, Umgang, Aufenthaltsbestimmung und Schutzmaßnahmen getrennt behandeln.
+3. Eilbedürftigkeit, Verfahrensbeistand, Sachverständigengutachten und persönliche Anhörung konkret steuern.
+4. Kooperationsfähigkeit, Bindungen, Kontinuität und Kindeswille nur alters- und konfliktangemessen würdigen.
+5. Beschluss mit Umgangszeiten, Übergaben, Auflagen, Vollstreckungshinweis und Kosten fassen.
 
 ## Typische Fallstricke
 
@@ -732,19 +696,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-umgangsrecht-paragraf-1684-bgb` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 06 Kindesunterhalt Duesseldorfer Tabelle bearbeitet wird.
-- **Danach**: `07-ehegattenunterhalt-trennung-und-nachehe` - Nutze diesen Folgeschritt, sobald 06 Kindesunterhalt Duesseldorfer Tabelle als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `05-umgangsrecht-paragraf-1684-bgb` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kindesunterhalt Duesseldorfer Tabelle trägt.
+- **Danach**: `07-ehegattenunterhalt-trennung-und-nachehe` - Folgeskill nutzen, sobald Kindesunterhalt Duesseldorfer Tabelle entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -783,23 +747,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
+- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
+- Paragraf 1684 BGB: Umgangsrecht, Wohlverhaltenspflicht, Einschränkung und Ausschluss sind jeweils gesondert zu begründen.
+- Paragrafen 158 und 159 FamFG: Verfahrensbeistand und Kindesanhörung sind bei streitigem Umgang regelmäßig aktenkundig zu prüfen.
+- Ständige Rechtsprechung zum begleiteten Umgang: Schutzbedarf, Anbahnung, Träger, Dauer und Überprüfungstermin müssen im Tenor vollstreckungsfähig angelegt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Umgangsrecht Paragraf 1684 Bgb: Kindeswohl, Beteiligtenstellung, Anhörung des Kindes, Elternrechte und Jugendamtsbeteiligung zuerst prüfen.
+2. Sorge, Umgang, Aufenthaltsbestimmung und Schutzmaßnahmen getrennt behandeln.
+3. Eilbedürftigkeit, Verfahrensbeistand, Sachverständigengutachten und persönliche Anhörung konkret steuern.
+4. Kooperationsfähigkeit, Bindungen, Kontinuität und Kindeswille nur alters- und konfliktangemessen würdigen.
+5. Beschluss mit Umgangszeiten, Übergaben, Auflagen, Vollstreckungshinweis und Kosten fassen.
 
 ## Typische Fallstricke
 
@@ -813,19 +773,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `04-kindschaftssache-elterliche-sorge` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 05 Umgangsrecht Paragraf 1684 Bgb bearbeitet wird.
-- **Danach**: `06-kindesunterhalt-duesseldorfer-tabelle` - Nutze diesen Folgeschritt, sobald 05 Umgangsrecht Paragraf 1684 Bgb als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `04-kindschaftssache-elterliche-sorge` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Umgangsrecht Paragraf 1684 Bgb trägt.
+- **Danach**: `06-kindesunterhalt-duesseldorfer-tabelle` - Folgeskill nutzen, sobald Umgangsrecht Paragraf 1684 Bgb entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 

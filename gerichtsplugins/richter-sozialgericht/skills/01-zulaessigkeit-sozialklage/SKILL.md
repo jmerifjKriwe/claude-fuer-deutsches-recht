@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98, BVerfGE 115, 25: Bei lebensbedrohlicher Erkrankung kann ausnahmsweise ein Anspruch auf neue Behandlungsmethoden bestehen.
-- BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09, 1 BvL 3/09 und 1 BvL 4/09, BVerfGE 125, 175: Existenzsichernde Leistungen müssen realitätsgerecht, transparent und folgerichtig bemessen werden.
-- BVerfG, Urteil vom 18.07.2012 - 1 BvL 10/10 und 1 BvL 2/11, BVerfGE 132, 134: Das menschenwürdige Existenzminimum darf nicht migrationspolitisch relativiert werden.
-- BSG, Urteil vom 28.05.2019 - B 1 KR 32/18 R, frei nachweisbar über sozialgerichtsbarkeit.de/dejure: Krankenhausbehandlung und neue Methoden verlangen die Abgrenzung von Standard, Potential und Einzelfallanspruch.
+- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
+- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
+- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
+- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
+- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Zulässigkeit Sozialklage: Klageart, Vorverfahren, Klagefrist, Beteiligtenfähigkeit und zuständigen Sozialleistungsträger prüfen.
+1. Zulässigkeit Sozialklage: Klageart, Vorverfahren, Klagefrist, Beteiligtenfähigkeit und zuständigen Sozialleistungsträger prüfen.
 2. Verwaltungsakte, Widerspruchsbescheid und Streitgegenstand exakt abgrenzen.
 3. Amtsermittlung auf die entscheidungserheblichen medizinischen, beruflichen oder wirtschaftlichen Tatsachen begrenzen.
 4. Ehrenamtliche Richter, Terminvorbereitung und Vergleichsmöglichkeiten rechtzeitig einbeziehen.
@@ -71,4 +72,4 @@ Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, 
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-amtsermittlung-sozialgericht` - Folgeschritt im selben Plugin; nutze ihn, sobald Zulässigkeit Sozialklage entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-amtsermittlung-sozialgericht` - Folgeskill nutzen, sobald Zulässigkeit Sozialklage entscheidungs- oder verfügungsreif vorbereitet ist.

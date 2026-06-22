@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Eröffnungsantrag Prüfen Insolvenz: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
+1. Eröffnungsantrag Prüfen Insolvenz: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
 2. Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung anhand Aktenzahlen, Gutachten und Liquiditätsstatus trennen.
 3. Sicherungsmaßnahmen nur nach Erforderlichkeit, Verhältnismäßigkeit und konkreter Massegefährdung anordnen.
 4. Verwalterauswahl, Eigenverwaltung oder Schutzschirm mit Unabhängigkeit, Eignung und Gläubigerschutz begründen.
@@ -71,4 +71,4 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-sicherungsmassnahmen-vor-eroeffnung` - Folgeschritt im selben Plugin; nutze ihn, sobald Eröffnungsantrag Prüfen Insolvenz entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-sicherungsmassnahmen-vor-eroeffnung` - Folgeskill nutzen, sobald Eröffnungsantrag Prüfen Insolvenz entscheidungs- oder verfügungsreif vorbereitet ist.

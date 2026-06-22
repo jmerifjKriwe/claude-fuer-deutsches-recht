@@ -34,19 +34,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
-- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör und effektiver Rechtsschutz verlangen eine fachgerichtliche Möglichkeit zur Selbstkorrektur entscheidungserheblicher Gehörsverstöße.
+- BVerfG, Beschluss vom 08.02.1994 - 1 BvR 1693/92, BVerfGE 90, 22: Annahmegründe nach Paragraf 93a Abs. 2 BVerfGG sind eigenständig zu prüfen und nicht mit der bloßen Begründetheitsprognose gleichzusetzen.
 - BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
 - BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
-- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- Ständige Rechtsprechung zu Paragraf 93a BVerfGG: Annahmevotum und Nichtannahmebeschluss müssen zwischen grundsätzlicher verfassungsrechtlicher Bedeutung und Durchsetzungsannahme unterscheiden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Votum Wissenschaftlicher Mitarbeiter: Senat, Kammer, Berichterstatterzuständigkeit und Entscheidungsform zuerst bestimmen.
-2. Nichtannahme, stattgebender Kammerbeschluss oder Senatsentscheidung nach Annahmevoraussetzungen und Tragweite trennen.
-3. Tenor, Gründe, Gegenstandswert, Auslagenerstattung und Vollzugsfolgen aufeinander abstimmen.
-4. Fachgerichtliche Entscheidungsfolgen und Rückverweisung präzise formulieren.
-5. Veröffentlichungs- und Begründungsniveau an Bedeutung, Wiederholungsgefahr und Grundsatzcharakter anpassen.
+1. Senat, Kammerzuständigkeit, Berichterstatterlinie und Entscheidungsform bestimmen: Nichtannahme, stattgebender Kammerbeschluss, Senatsvorlage oder einstweilige Anordnung.
+2. Zulässigkeit knapp, aber vollständig prüfen: Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, materielle Subsidiarität, Frist und Substantiierung.
+3. Annahmevoraussetzungen nach Paragraf 93a Abs. 2 BVerfGG ausdrücklich trennen: grundsätzliche Bedeutung oder Erforderlichkeit zur Durchsetzung eines Grundrechts.
+4. Begründetheit nur verfassungsrechtlich, nicht fachgerichtlich neu entscheiden: Schutzbereich, Eingriff, Rechtfertigung, spezifischer Verfassungsverstoß und fachgerichtliche Entscheidungsrelevanz.
+5. Votum mit Tenorvorschlag, tragender Kurzbegründung, Rückverweisung oder Nichtannahmeformel, Auslagen- und Gegenstandswertvorschlag abschließen.
 
 ## Typische Fallstricke
 
@@ -71,5 +71,5 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 
 ## Benachbarte Skills
 
-- **Davor**: `07-kammer-und-senat-zustaendigkeit` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Votum Wissenschaftlicher Mitarbeiter trägt.
-- **Danach**: `09-nichtannahmebeschluss-entwurf` - Folgeschritt im selben Plugin; nutze ihn, sobald Votum Wissenschaftlicher Mitarbeiter entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `07-kammer-und-senat-zustaendigkeit` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Votum Wissenschaftlicher Mitarbeiter trägt.
+- **Danach**: `09-nichtannahmebeschluss-entwurf` - Folgeskill nutzen, sobald Votum Wissenschaftlicher Mitarbeiter entscheidungs- oder verfügungsreif vorbereitet ist.

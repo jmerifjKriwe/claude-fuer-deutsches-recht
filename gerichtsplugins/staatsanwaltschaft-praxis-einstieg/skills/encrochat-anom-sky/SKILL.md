@@ -27,7 +27,7 @@ description: "EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt EncroChat, ANOM, Sky ECC und Kryptodienste: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+1. EncroChat, ANOM, Sky ECC und Kryptodienste: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
 2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
 3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
 4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.

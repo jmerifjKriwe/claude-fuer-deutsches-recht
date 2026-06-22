@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Urteilsentwurf Paragraf 117 Vwgo: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist, Beteiligtenfähigkeit und Rechtsschutzbedürfnis prüfen.
+1. Urteilsentwurf Paragraf 117 Vwgo: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist, Beteiligtenfähigkeit und Rechtsschutzbedürfnis prüfen.
 2. Rechtsweg und Zuständigkeit nicht aus dem Behördenrubrum ableiten, sondern nach Streitgegenstand bestimmen.
 3. Widerspruchsverfahren und landesrechtliche Ausnahmen ausdrücklich markieren.
 4. Klageantrag nach erkennbarem Rechtsschutzziel auslegen, ohne das Begehren umzudeuten.
@@ -70,5 +70,5 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 
 ## Benachbarte Skills
 
-- **Davor**: `07-beweisaufnahme-verwaltungsgericht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Urteilsentwurf Paragraf 117 Vwgo trägt.
-- **Danach**: `09-rechtsmittel-vwgo` - Folgeschritt im selben Plugin; nutze ihn, sobald Urteilsentwurf Paragraf 117 Vwgo entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `07-beweisaufnahme-verwaltungsgericht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteilsentwurf Paragraf 117 Vwgo trägt.
+- **Danach**: `09-rechtsmittel-vwgo` - Folgeskill nutzen, sobald Urteilsentwurf Paragraf 117 Vwgo entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Restschuldbefreiung und Schlusstermin: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen.
+1. Restschuldbefreiung und Schlusstermin: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen.
 2. Gläubigerrechte, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Versagungsgründe getrennt prüfen.
 3. Masseinteresse, Verfahrensökonomie und rechtliches Gehör dokumentieren.
 4. Beschluss mit Tenor, Gründen, Zustellung und Rechtsmittelbelehrung formulieren.
@@ -70,5 +70,5 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 
 ## Benachbarte Skills
 
-- **Davor**: `04-glaeubigerversammlung-und-pruefungstermin` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Restschuldbefreiung und Schlusstermin trägt.
-- **Danach**: `06-eigenverwaltung-und-schutzschirm` - Folgeschritt im selben Plugin; nutze ihn, sobald Restschuldbefreiung und Schlusstermin entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `04-glaeubigerversammlung-und-pruefungstermin` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Restschuldbefreiung und Schlusstermin trägt.
+- **Danach**: `06-eigenverwaltung-und-schutzschirm` - Folgeskill nutzen, sobald Restschuldbefreiung und Schlusstermin entscheidungs- oder verfügungsreif vorbereitet ist.

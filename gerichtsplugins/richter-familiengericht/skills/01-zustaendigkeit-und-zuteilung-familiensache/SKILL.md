@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
-- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
+- Paragrafen 23b GVG sowie 111, 112 und 151 FamFG: Zuständigkeit und Verfahrensart entscheiden, ob Amtsbetrieb, Antragsverfahren oder Familienstreitsache vorliegt.
+- Paragraf 113 FamFG: ZPO-Vorschriften gelten in Familienstreitsachen nur nach Maßgabe der Verweisung.
+- Paragraf 266 FamFG: Sonstige Familiensachen verlangen eine präzise Abgrenzung zu allgemeinem Zivilprozess und Güterrecht.
+- Ständige Rechtsprechung zur funktionellen Zuständigkeit in Familiensachen: Verfahrensgegenstand, Beteiligte und Verbundfähigkeit sind vor Sachprüfung zu klären; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 4 FamFG: Abgabe und Verweisung sind nur tragfähig, wenn Zuständigkeit und Kindeswohlgesichtspunkte aktenbezogen begründet werden.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Zuständigkeit und Zuteilung Familiensache: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
+1. Zuständigkeit und Zuteilung Familiensache: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
 2. Amtsverfahren, Antragsverfahren, Verbund und Folgesachen sauber trennen.
 3. Anhörungen, Jugendamt, Verfahrensbeistand, Sachverständige und Auskunftsanordnungen terminlich steuern.
 4. Vergleichs- und Einigungsoptionen prüfen, ohne Schutz- oder Kindeswohlfragen zu relativieren.
@@ -71,4 +72,4 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-ehesache-scheidung-paragraf-1565` - Folgeschritt im selben Plugin; nutze ihn, sobald Zuständigkeit und Zuteilung Familiensache entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-ehesache-scheidung-paragraf-1565` - Folgeskill nutzen, sobald Zuständigkeit und Zuteilung Familiensache entscheidungs- oder verfügungsreif vorbereitet ist.

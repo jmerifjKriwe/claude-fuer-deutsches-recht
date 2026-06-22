@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Strafzumessung Paragraf 46 Stgb: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
+1. Strafzumessung Paragraf 46 Stgb: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
 2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
 3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
 4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
@@ -70,5 +70,5 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 ## Benachbarte Skills
 
-- **Davor**: `05-beweiswuerdigung-strafrecht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Strafzumessung Paragraf 46 Stgb trägt.
-- **Danach**: `07-tenor-und-rechtsmittelbelehrung-straf` - Folgeschritt im selben Plugin; nutze ihn, sobald Strafzumessung Paragraf 46 Stgb entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-beweiswuerdigung-strafrecht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Strafzumessung Paragraf 46 Stgb trägt.
+- **Danach**: `07-tenor-und-rechtsmittelbelehrung-straf` - Folgeskill nutzen, sobald Strafzumessung Paragraf 46 Stgb entscheidungs- oder verfügungsreif vorbereitet ist.

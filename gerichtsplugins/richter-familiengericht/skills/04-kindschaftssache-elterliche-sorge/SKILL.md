@@ -34,19 +34,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
-- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
+- BVerfG, Beschluss vom 29.01.2010 - 1 BvR 374/09, frei nachweisbar über bundesverfassungsgericht.de und dejure: Trennung eines Kindes von seinen Eltern verlangt eine besonders tragfähige Kindeswohlgefährdungsprognose.
+- BVerfG, Beschluss vom 22.05.2014 - 1 BvR 2882/13, frei nachweisbar über bundesverfassungsgericht.de und dejure: Elternrecht und Kindeswohl erfordern eine am konkreten Kind orientierte Sachverhaltsaufklärung.
 - BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
 - BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
+- Ständige Rechtsprechung zu Paragrafen 158 und 159 FamFG: Verfahrensbeistand und persönliche Kindesanhörung sind bei substantiellen Sorgerechtsentscheidungen konkret zu prüfen und aktenkundig zu begründen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Kindschaftssache Elterliche Sorge: Kindeswohl, Beteiligtenstellung, Anhörung des Kindes, Elternrechte und Jugendamtsbeteiligung zuerst prüfen.
-2. Sorge, Umgang, Aufenthaltsbestimmung und Schutzmaßnahmen getrennt behandeln.
-3. Eilbedürftigkeit, Verfahrensbeistand, Sachverständigengutachten und persönliche Anhörung konkret steuern.
-4. Kooperationsfähigkeit, Bindungen, Kontinuität und Kindeswille nur alters- und konfliktangemessen würdigen.
-5. Beschluss mit Umgangszeiten, Übergaben, Auflagen, Vollstreckungshinweis und Kosten fassen.
+1. Sorgerechtsantrag präzise zuordnen: Alleinsorge, Teilbereich, Aufenthaltsbestimmung, Gesundheitsfürsorge, Schulangelegenheiten oder einstweilige Schutzanordnung.
+2. Beteiligte und Verfahrensgarantien sichern: Jugendamt, Verfahrensbeistand, persönliche Elternanhörung, Kindesanhörung nach Alter und Entwicklungsstand sowie erforderlichenfalls Sachverständigengutachten.
+3. Kindeswohl konkret prüfen: Bindung, Förderung, Kontinuität, Kindeswille, Kooperationsfähigkeit der Eltern, Gewalt- oder Manipulationsvorwürfe und alltagspraktische Umsetzbarkeit.
+4. Eingriffstiefe staffeln: mildere Mittel, Auflagen, Beratung, Umgangsregelung oder Teilübertragung vor vollständigem Sorgerechtsentzug prüfen.
+5. Beschluss so tenorieren, dass Zuständigkeit, Teilbereich, Übergabe von Unterlagen, Vollstreckungshinweis und Befristung bei Eilentscheidungen eindeutig sind.
 
 ## Typische Fallstricke
 
@@ -71,5 +71,5 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 
 ## Benachbarte Skills
 
-- **Davor**: `03-versorgungsausgleich-vorbereiten` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Kindschaftssache Elterliche Sorge trägt.
-- **Danach**: `05-umgangsrecht-paragraf-1684-bgb` - Folgeschritt im selben Plugin; nutze ihn, sobald Kindschaftssache Elterliche Sorge entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `03-versorgungsausgleich-vorbereiten` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kindschaftssache Elterliche Sorge trägt.
+- **Danach**: `05-umgangsrecht-paragraf-1684-bgb` - Folgeskill nutzen, sobald Kindschaftssache Elterliche Sorge entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -19,7 +19,7 @@ description: "Digitale Durchsuchung und Datensicherung: Praxis-Skill für neue S
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Digitale Durchsuchung und Datensicherung: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+1. Digitale Durchsuchung und Datensicherung: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
 2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
 3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
 4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.

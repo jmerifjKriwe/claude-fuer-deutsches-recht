@@ -34,7 +34,7 @@ description: "Sitzungsdienst für Referendare: Notfallkarte: Praxis-Skill für n
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Sitzungsdienst für Referendare: Notfallkarte: Sitzungsrolle, Beweisthema, Verfahrensstand und Ziel des staatsanwaltschaftlichen Antrags zuerst bestimmen.
+1. Sitzungsdienst für Referendare: Notfallkarte: Sitzungsrolle, Beweisthema, Verfahrensstand und Ziel des staatsanwaltschaftlichen Antrags zuerst bestimmen.
 2. Fragerecht, Beweisanträge, Verständigung, Befangenheit und Rechtsmittel nur auf aktenkundige Tatsachen stützen.
 3. Bei Verteidigeranträgen sofort Zulässigkeit, Begründetheit, Ablehnungsgrund und Protokollierungsbedarf trennen.
 4. Schlussvortrag nach Tatnachweis, rechtlicher Würdigung, Strafzumessung und Nebenfolgen gliedern.

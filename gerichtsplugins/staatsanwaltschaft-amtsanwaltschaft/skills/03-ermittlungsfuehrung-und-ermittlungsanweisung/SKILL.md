@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Ermittlungsfuehrung und Ermittlungsanweisung: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+1. Ermittlungsfuehrung und Ermittlungsanweisung: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
 2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
 3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
 4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Ermittlungsfuehrung und Ermittlungsanweisung trägt.
-- **Danach**: `04-durchsuchung-und-beschlagnahme-antrag` - Folgeschritt im selben Plugin; nutze ihn, sobald Ermittlungsfuehrung und Ermittlungsanweisung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ermittlungsfuehrung und Ermittlungsanweisung trägt.
+- **Danach**: `04-durchsuchung-und-beschlagnahme-antrag` - Folgeskill nutzen, sobald Ermittlungsfuehrung und Ermittlungsanweisung entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Berufungsverfahren Paragraf 511 Ff: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
+1. Berufungsverfahren Paragraf 511 Ff: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
 2. Klage nach Paragraf 253 ZPO auf Antrag, Parteien, Lebenssachverhalt, Bezifferung, Anlagen und Zustellfähigkeit kontrollieren.
 3. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Paragraf 495a ZPO oder Sonderzuständigkeit.
 4. Fristen und Kostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen können.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `06-urteil-grosses-zivilurteil` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Berufungsverfahren Paragraf 511 Ff trägt.
-- **Danach**: `08-kostenentscheidung-und-streitwert` - Folgeschritt im selben Plugin; nutze ihn, sobald Berufungsverfahren Paragraf 511 Ff entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-urteil-grosses-zivilurteil` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Berufungsverfahren Paragraf 511 Ff trägt.
+- **Danach**: `08-kostenentscheidung-und-streitwert` - Folgeskill nutzen, sobald Berufungsverfahren Paragraf 511 Ff entscheidungs- oder verfügungsreif vorbereitet ist.

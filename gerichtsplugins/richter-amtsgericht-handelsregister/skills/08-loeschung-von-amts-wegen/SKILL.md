@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Löschung Von Amts Wegen: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
+1. Löschung Von Amts Wegen: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
 2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
 3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
 4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
@@ -70,5 +70,5 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `07-zwischenverfuegung-und-beschwerde` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Löschung Von Amts Wegen trägt.
-- **Danach**: `09-vereins-und-genossenschaftsregister` - Folgeschritt im selben Plugin; nutze ihn, sobald Löschung Von Amts Wegen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `07-zwischenverfuegung-und-beschwerde` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Löschung Von Amts Wegen trägt.
+- **Danach**: `09-vereins-und-genossenschaftsregister` - Folgeskill nutzen, sobald Löschung Von Amts Wegen entscheidungs- oder verfügungsreif vorbereitet ist.

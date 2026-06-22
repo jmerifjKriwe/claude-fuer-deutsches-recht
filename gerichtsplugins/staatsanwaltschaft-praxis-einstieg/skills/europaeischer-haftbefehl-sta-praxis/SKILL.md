@@ -35,7 +35,7 @@ description: "Europäischer Haftbefehl aus StA-Sicht: Praxis-Skill für neue Sta
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Europäischer Haftbefehl aus StA-Sicht: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+1. Europäischer Haftbefehl aus StA-Sicht: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
 2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
 3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
 4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.

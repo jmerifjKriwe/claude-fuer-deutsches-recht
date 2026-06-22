@@ -48,15 +48,15 @@ Dieser Skill baut den Prüfvermerk, bevor eine Bußgeldakte ans Gericht weiterge
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
-- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
+- Paragrafen 46, 47, 65, 66, 67, 68 und 69 OWiG: Bußgeldverfahren, Einspruch, Abgabe an das Amtsgericht und Opportunität sind als eigener Verfahrenspfad zu behandeln.
+- Paragrafen 71, 72, 73, 74 und 77 OWiG: Hauptverhandlung, Beschlussverfahren, Entbindung, Verwerfung und Beweisaufnahme bestimmen die gerichtliche Rolle nach Einspruch.
+- Paragrafen 79 und 80 OWiG: Rechtsbeschwerde und Zulassungsrechtsbeschwerde verlangen eine genaue Trennung von Sachrüge, Verfahrensrüge und Zulassungsgrund.
+- Paragraf 46 OWiG in Verbindung mit StPO: Strafprozessuale Eingriffsnormen gelten nur entsprechend und müssen zur geringeren Eingriffsintensität des Bußgeldverfahrens passen.
+- Ständige Rechtsprechung zum OWi-Verfahren: Verfahrensvereinfachung entbindet nicht von rechtlichem Gehör, tragfähiger Beweiswürdigung und sauberer Zustellung; konkretes Aktenzeichen vor produktiver Zitierung verifizieren.
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Vorlage der OWi-Akte an das Amtsgericht: Staatsanwaltschaft als Filter, nicht als Anklageschreiberin: Tatbestand, Zuständigkeit der Verwaltungsbehörde, Einspruchslage und gerichtliche Rolle zuerst prüfen.
+1. Vorlage der OWi-Akte an das Amtsgericht: Staatsanwaltschaft als Filter, nicht als Anklageschreiberin: Tatbestand, Zuständigkeit der Verwaltungsbehörde, Einspruchslage und gerichtliche Rolle zuerst prüfen.
 2. Bußgeldbescheid, Einspruchsfrist, Aktenvorlage, Opportunität und Verfahrenshindernisse getrennt kontrollieren.
 3. Datenschutz-, Verkehrs- oder Wirtschafts-OWi nach Spezialgesetz und OWiG-Tatbestand subsumieren.
 4. Beweismaß, Betroffenenrechte und Unternehmensgeldbuße gesondert behandeln.

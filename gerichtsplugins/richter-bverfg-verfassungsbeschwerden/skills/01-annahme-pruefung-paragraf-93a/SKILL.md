@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Annahme Prüfung Paragraf 93A: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
+1. Annahme Prüfung Paragraf 93A: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
 2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
 3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
 4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
@@ -72,4 +72,4 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-substantiierungs-pruefung-paragraf-92` - Folgeschritt im selben Plugin; nutze ihn, sobald Annahme Prüfung Paragraf 93A entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-substantiierungs-pruefung-paragraf-92` - Folgeskill nutzen, sobald Annahme Prüfung Paragraf 93A entscheidungs- oder verfügungsreif vorbereitet ist.

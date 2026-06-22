@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Substantiierungs Prüfung Paragraf 92: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
+1. Substantiierungs Prüfung Paragraf 92: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
 2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
 3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
 4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
@@ -71,5 +71,5 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 
 ## Benachbarte Skills
 
-- **Davor**: `01-annahme-pruefung-paragraf-93a` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Substantiierungs Prüfung Paragraf 92 trägt.
-- **Danach**: `03-rechtswegerschoepfung-paragraf-90-abs-2` - Folgeschritt im selben Plugin; nutze ihn, sobald Substantiierungs Prüfung Paragraf 92 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-annahme-pruefung-paragraf-93a` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Substantiierungs Prüfung Paragraf 92 trägt.
+- **Danach**: `03-rechtswegerschoepfung-paragraf-90-abs-2` - Folgeskill nutzen, sobald Substantiierungs Prüfung Paragraf 92 entscheidungs- oder verfügungsreif vorbereitet ist.

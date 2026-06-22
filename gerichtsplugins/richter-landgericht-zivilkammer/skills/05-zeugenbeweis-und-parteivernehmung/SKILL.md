@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen.
+1. Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen.
 2. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen.
 3. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren.
 4. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `04-beweisbeschluss-und-sachverstaendiger` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zeugenbeweis und Parteivernehmung trägt.
-- **Danach**: `06-urteil-grosses-zivilurteil` - Folgeschritt im selben Plugin; nutze ihn, sobald Zeugenbeweis und Parteivernehmung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `04-beweisbeschluss-und-sachverstaendiger` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zeugenbeweis und Parteivernehmung trägt.
+- **Danach**: `06-urteil-grosses-zivilurteil` - Folgeskill nutzen, sobald Zeugenbeweis und Parteivernehmung entscheidungs- oder verfügungsreif vorbereitet ist.

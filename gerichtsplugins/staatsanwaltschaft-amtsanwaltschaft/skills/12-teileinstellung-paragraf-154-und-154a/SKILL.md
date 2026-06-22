@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Teileinstellung Paragraf 154 und 154a: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+1. Teileinstellung Paragraf 154 und 154a: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
 2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
 3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
 4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Teileinstellung Paragraf 154 und 154a trägt.
-- **Danach**: `13-strafbefehlsantrag-paragraf-407` - Folgeschritt im selben Plugin; nutze ihn, sobald Teileinstellung Paragraf 154 und 154a entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Teileinstellung Paragraf 154 und 154a trägt.
+- **Danach**: `13-strafbefehlsantrag-paragraf-407` - Folgeskill nutzen, sobald Teileinstellung Paragraf 154 und 154a entscheidungs- oder verfügungsreif vorbereitet ist.

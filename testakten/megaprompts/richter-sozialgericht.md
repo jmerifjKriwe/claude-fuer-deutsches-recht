@@ -54,23 +54,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
+- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
+- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
+- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
+- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Urteil Sozialgericht: Anordnungsanspruch, Anordnungsgrund und existenzielle Dringlichkeit zuerst prüfen.
+2. Regelungsanordnung und Sicherungsanordnung trennen; Vorwegnahme der Hauptsache gesondert begründen.
+3. Glaubhaftmachungsmittel nach Einkommen, Bedarf, Gesundheit, Wohnung oder Pflegebedarf ordnen.
+4. Folgenabwägung nur bei offener Rechtslage und gewichtigen Grundrechtsfolgen einsetzen.
+5. Beschluss mit Zeitraum, Leistungshöhe, Kostentragung und Vollzugsadressat formulieren.
 
 ## Typische Fallstricke
 
@@ -84,19 +80,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `08-schwerbehinderung-und-grad` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 09 Urteil Sozialgericht bearbeitet wird.
-- **Danach**: `10-entscheidungsvorschlag-sozialgericht` - Nutze diesen Folgeschritt, sobald 09 Urteil Sozialgericht als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `08-schwerbehinderung-und-grad` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteil Sozialgericht trägt.
+- **Danach**: `10-entscheidungsvorschlag-sozialgericht` - Folgeskill nutzen, sobald Urteil Sozialgericht entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -135,23 +131,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
+- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
+- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
+- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
+- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Entscheidungsvorschlag Sozialgericht: Klageart, Vorverfahren, Klagefrist, Beteiligtenfähigkeit und zuständigen Sozialleistungsträger prüfen.
+2. Verwaltungsakte, Widerspruchsbescheid und Streitgegenstand exakt abgrenzen.
+3. Amtsermittlung auf die entscheidungserheblichen medizinischen, beruflichen oder wirtschaftlichen Tatsachen begrenzen.
+4. Ehrenamtliche Richter, Terminvorbereitung und Vergleichsmöglichkeiten rechtzeitig einbeziehen.
+5. Urteil mit Tenor zur Aufhebung, Verurteilung, Feststellung oder Klageabweisung sauber formulieren.
 
 ## Typische Fallstricke
 
@@ -165,19 +157,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `09-urteil-sozialgericht` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 10 Entscheidungsvorschlag Sozialgericht bearbeitet wird.
-- **Danach**: `01-zulaessigkeit-sozialklage` - Nutze diesen Folgeschritt, sobald 10 Entscheidungsvorschlag Sozialgericht als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `09-urteil-sozialgericht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Sozialgericht trägt.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
 
 ---
 
@@ -216,23 +208,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98, BVerfGE 115, 25: Bei lebensbedrohlicher Erkrankung kann ausnahmsweise ein Anspruch auf neue Behandlungsmethoden bestehen.
+- BSG, Urteil vom 28.05.2019 - B 1 KR 32/18 R, frei nachweisbar über sozialgerichtsbarkeit.de/dejure: Krankenhausbehandlung und neue Methoden verlangen die Abgrenzung von Standard, Potential und Einzelfallanspruch.
+- Paragrafen 27, 39, 92 und 135 SGB V: Krankenbehandlung, Krankenhausbehandlung, Richtlinien und Methodenbewertung sind getrennt zu prüfen.
+- Paragraf 13 Abs. 3 SGB V: Kostenerstattung verlangt Unaufschiebbarkeit oder rechtswidrige Ablehnung sowie Kausalität.
+- Ständige Rechtsprechung des BSG zu GBA-Richtlinien: Leistungsanspruch folgt nicht aus medizinischer Plausibilität allein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Krankenversicherung Prüfung: Versicherungszweig, Leistungsart, Verwaltungsakt und medizinischen oder beruflichen Tatsachenkern zuerst bestimmen.
+2. Anspruchsvoraussetzungen nach SGB, Richtlinien und Bescheidlage stufenweise prüfen.
+3. Befundberichte, Gutachten, Reha-Unterlagen und Verwaltungsakte auf Aktualität und Widersprüche kontrollieren.
+4. Amtsermittlung mit konkretem Beweisthema formulieren; subjektive Beschwerden und objektivierbare Befunde trennen.
+5. Urteil oder Vergleich mit Leistung, Zeitraum, Kosten und Ausführungszuständigkeit klar fassen.
 
 ## Typische Fallstricke
 
@@ -246,19 +234,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-eilrechtsschutz-paragraf-86b` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Krankenversicherung Prüfung bearbeitet wird.
-- **Danach**: `05-rentenversicherung-pruefung` - Nutze diesen Folgeschritt, sobald 04 Krankenversicherung Prüfung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-eilrechtsschutz-paragraf-86b` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Krankenversicherung Prüfung trägt.
+- **Danach**: `05-rentenversicherung-pruefung` - Folgeskill nutzen, sobald Krankenversicherung Prüfung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -266,11 +254,11 @@ Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird a
 
 _Buergergeld SGB II: Anspruchsberechtigung Paragraf 7 SGB II, Bedarfsgemeinschaft, Regelbedarf Paragraf 20, Kosten der Unterkunft Paragraf 22, Sanktionen Paragraf 31 ff. (jetzt Leistungsminderungen)_
 
-# 07 Buergergeld Und Sgb Ii
+# 07 Bürgergeld und Sgb Ii
 
 ## Zweck
 
-Buergergeld SGB II: Anspruchsberechtigung Paragraf 7 SGB II, Bedarfsgemeinschaft, Regelbedarf Paragraf 20, Kosten der Unterkunft Paragraf 22, Sanktionen Paragraf 31 ff. (jetzt Leistungsminderungen)
+Bürgergeld SGB II: Anspruchsberechtigung Paragraf 7 SGB II, Bedarfsgemeinschaft, Regelbedarf Paragraf 20, Kosten der Unterkunft Paragraf 22, Sanktionen Paragraf 31 ff. (jetzt Leistungsminderungen)
 
 ## Rolle
 
@@ -297,23 +285,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09, 1 BvL 3/09 und 1 BvL 4/09, BVerfGE 125, 175: Existenzsichernde Leistungen müssen realitätsgerecht, transparent und folgerichtig bemessen werden.
+- BVerfG, Urteil vom 18.07.2012 - 1 BvL 10/10 und 1 BvL 2/11, BVerfGE 132, 134: Das menschenwürdige Existenzminimum darf nicht migrationspolitisch relativiert werden.
+- Paragrafen 7, 9, 19, 20, 22 und 41a SGB II: Leistungsberechtigung, Hilfebedürftigkeit, Regelbedarf, Unterkunft und vorläufige Entscheidung sind getrennt zu prüfen.
+- Paragraf 86b SGG: Eilrechtsschutz bei existenzsichernden Leistungen verlangt Folgenabwägung und existenzielle Dringlichkeit.
+- Ständige Rechtsprechung des BSG zu Kosten der Unterkunft: Angemessenheitskonzept, Vergleichsraum und konkrete Unterkunftsalternative müssen belastbar sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Bürgergeld und Sgb Ii: Versicherungszweig, Leistungsart, Verwaltungsakt und medizinischen oder beruflichen Tatsachenkern zuerst bestimmen.
+2. Anspruchsvoraussetzungen nach SGB, Richtlinien und Bescheidlage stufenweise prüfen.
+3. Befundberichte, Gutachten, Reha-Unterlagen und Verwaltungsakte auf Aktualität und Widersprüche kontrollieren.
+4. Amtsermittlung mit konkretem Beweisthema formulieren; subjektive Beschwerden und objektivierbare Befunde trennen.
+5. Urteil oder Vergleich mit Leistung, Zeitraum, Kosten und Ausführungszuständigkeit klar fassen.
 
 ## Typische Fallstricke
 
@@ -327,19 +311,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-unfallversicherung-pruefung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 07 Buergergeld Und Sgb Ii bearbeitet wird.
-- **Danach**: `08-schwerbehinderung-und-grad` - Nutze diesen Folgeschritt, sobald 07 Buergergeld Und Sgb Ii als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-unfallversicherung-pruefung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Bürgergeld und Sgb Ii trägt.
+- **Danach**: `08-schwerbehinderung-und-grad` - Folgeskill nutzen, sobald Bürgergeld und Sgb Ii entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -378,23 +362,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
+- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
+- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
+- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
+- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Amtsermittlung Sozialgericht: Klageart, Vorverfahren, Klagefrist, Beteiligtenfähigkeit und zuständigen Sozialleistungsträger prüfen.
+2. Verwaltungsakte, Widerspruchsbescheid und Streitgegenstand exakt abgrenzen.
+3. Amtsermittlung auf die entscheidungserheblichen medizinischen, beruflichen oder wirtschaftlichen Tatsachen begrenzen.
+4. Ehrenamtliche Richter, Terminvorbereitung und Vergleichsmöglichkeiten rechtzeitig einbeziehen.
+5. Urteil mit Tenor zur Aufhebung, Verurteilung, Feststellung oder Klageabweisung sauber formulieren.
 
 ## Typische Fallstricke
 
@@ -408,19 +388,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `01-zulaessigkeit-sozialklage` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 02 Amtsermittlung Sozialgericht bearbeitet wird.
-- **Danach**: `03-eilrechtsschutz-paragraf-86b` - Nutze diesen Folgeschritt, sobald 02 Amtsermittlung Sozialgericht als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `01-zulaessigkeit-sozialklage` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Amtsermittlung Sozialgericht trägt.
+- **Danach**: `03-eilrechtsschutz-paragraf-86b` - Folgeskill nutzen, sobald Amtsermittlung Sozialgericht entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -459,23 +439,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
+- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
+- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
+- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
+- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Eilrechtsschutz Paragraf 86B: Anordnungsanspruch, Anordnungsgrund und existenzielle Dringlichkeit zuerst prüfen.
+2. Regelungsanordnung und Sicherungsanordnung trennen; Vorwegnahme der Hauptsache gesondert begründen.
+3. Glaubhaftmachungsmittel nach Einkommen, Bedarf, Gesundheit, Wohnung oder Pflegebedarf ordnen.
+4. Folgenabwägung nur bei offener Rechtslage und gewichtigen Grundrechtsfolgen einsetzen.
+5. Beschluss mit Zeitraum, Leistungshöhe, Kostentragung und Vollzugsadressat formulieren.
 
 ## Typische Fallstricke
 
@@ -489,19 +465,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-amtsermittlung-sozialgericht` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Eilrechtsschutz Paragraf 86B bearbeitet wird.
-- **Danach**: `04-krankenversicherung-pruefung` - Nutze diesen Folgeschritt, sobald 03 Eilrechtsschutz Paragraf 86B als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-amtsermittlung-sozialgericht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Eilrechtsschutz Paragraf 86B trägt.
+- **Danach**: `04-krankenversicherung-pruefung` - Folgeskill nutzen, sobald Eilrechtsschutz Paragraf 86B entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -540,23 +516,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
+- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
+- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
+- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
+- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Unfallversicherung Prüfung: Versicherungszweig, Leistungsart, Verwaltungsakt und medizinischen oder beruflichen Tatsachenkern zuerst bestimmen.
+2. Anspruchsvoraussetzungen nach SGB, Richtlinien und Bescheidlage stufenweise prüfen.
+3. Befundberichte, Gutachten, Reha-Unterlagen und Verwaltungsakte auf Aktualität und Widersprüche kontrollieren.
+4. Amtsermittlung mit konkretem Beweisthema formulieren; subjektive Beschwerden und objektivierbare Befunde trennen.
+5. Urteil oder Vergleich mit Leistung, Zeitraum, Kosten und Ausführungszuständigkeit klar fassen.
 
 ## Typische Fallstricke
 
@@ -570,19 +542,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-rentenversicherung-pruefung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 06 Unfallversicherung Prüfung bearbeitet wird.
-- **Danach**: `07-buergergeld-und-sgb-ii` - Nutze diesen Folgeschritt, sobald 06 Unfallversicherung Prüfung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `05-rentenversicherung-pruefung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Unfallversicherung Prüfung trägt.
+- **Danach**: `07-buergergeld-und-sgb-ii` - Folgeskill nutzen, sobald Unfallversicherung Prüfung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -621,23 +593,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
+- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
+- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
+- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
+- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Zulässigkeit Sozialklage: Klageart, Vorverfahren, Klagefrist, Beteiligtenfähigkeit und zuständigen Sozialleistungsträger prüfen.
+2. Verwaltungsakte, Widerspruchsbescheid und Streitgegenstand exakt abgrenzen.
+3. Amtsermittlung auf die entscheidungserheblichen medizinischen, beruflichen oder wirtschaftlichen Tatsachen begrenzen.
+4. Ehrenamtliche Richter, Terminvorbereitung und Vergleichsmöglichkeiten rechtzeitig einbeziehen.
+5. Urteil mit Tenor zur Aufhebung, Verurteilung, Feststellung oder Klageabweisung sauber formulieren.
 
 ## Typische Fallstricke
 
@@ -651,19 +619,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-sozialgericht` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 01 Zulässigkeit Sozialklage bearbeitet wird.
-- **Danach**: `02-amtsermittlung-sozialgericht` - Nutze diesen Folgeschritt, sobald 01 Zulässigkeit Sozialklage als gerichtlicher Arbeitsstand verwertbar ist.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
+- **Danach**: `02-amtsermittlung-sozialgericht` - Folgeskill nutzen, sobald Zulässigkeit Sozialklage entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -702,23 +670,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
+- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
+- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
+- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
+- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Rentenversicherung Prüfung: Versicherungszweig, Leistungsart, Verwaltungsakt und medizinischen oder beruflichen Tatsachenkern zuerst bestimmen.
+2. Anspruchsvoraussetzungen nach SGB, Richtlinien und Bescheidlage stufenweise prüfen.
+3. Befundberichte, Gutachten, Reha-Unterlagen und Verwaltungsakte auf Aktualität und Widersprüche kontrollieren.
+4. Amtsermittlung mit konkretem Beweisthema formulieren; subjektive Beschwerden und objektivierbare Befunde trennen.
+5. Urteil oder Vergleich mit Leistung, Zeitraum, Kosten und Ausführungszuständigkeit klar fassen.
 
 ## Typische Fallstricke
 
@@ -732,19 +696,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `04-krankenversicherung-pruefung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 05 Rentenversicherung Prüfung bearbeitet wird.
-- **Danach**: `06-unfallversicherung-pruefung` - Nutze diesen Folgeschritt, sobald 05 Rentenversicherung Prüfung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `04-krankenversicherung-pruefung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Rentenversicherung Prüfung trägt.
+- **Danach**: `06-unfallversicherung-pruefung` - Folgeskill nutzen, sobald Rentenversicherung Prüfung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -752,7 +716,7 @@ Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird a
 
 _Schwerbehindertenrecht SGB IX: Grad der Behinderung Paragraf 152, Versorgungsmedizinverordnung (VersMedV), Merkzeichen, Gleichstellung, Nachteilsausgleiche_
 
-# 08 Schwerbehinderung Und Grad
+# 08 Schwerbehinderung und Grad
 
 ## Zweck
 
@@ -783,23 +747,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
+- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
+- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
+- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
+- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Schwerbehinderung und Grad: Versicherungszweig, Leistungsart, Verwaltungsakt und medizinischen oder beruflichen Tatsachenkern zuerst bestimmen.
+2. Anspruchsvoraussetzungen nach SGB, Richtlinien und Bescheidlage stufenweise prüfen.
+3. Befundberichte, Gutachten, Reha-Unterlagen und Verwaltungsakte auf Aktualität und Widersprüche kontrollieren.
+4. Amtsermittlung mit konkretem Beweisthema formulieren; subjektive Beschwerden und objektivierbare Befunde trennen.
+5. Urteil oder Vergleich mit Leistung, Zeitraum, Kosten und Ausführungszuständigkeit klar fassen.
 
 ## Typische Fallstricke
 
@@ -813,19 +773,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-buergergeld-und-sgb-ii` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Schwerbehinderung Und Grad bearbeitet wird.
-- **Danach**: `09-urteil-sozialgericht` - Nutze diesen Folgeschritt, sobald 08 Schwerbehinderung Und Grad als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-buergergeld-und-sgb-ii` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Schwerbehinderung und Grad trägt.
+- **Danach**: `09-urteil-sozialgericht` - Folgeskill nutzen, sobald Schwerbehinderung und Grad entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 

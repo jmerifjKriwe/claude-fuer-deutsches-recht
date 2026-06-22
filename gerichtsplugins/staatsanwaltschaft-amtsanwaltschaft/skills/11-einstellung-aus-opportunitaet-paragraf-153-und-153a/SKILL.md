@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Einstellung Aus Opportunitaet Paragraf 153 und 153a: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+1. Einstellung Aus Opportunitaet Paragraf 153 und 153a: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
 2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
 3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
 4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `10-einstellung-mangels-tatverdacht-paragraf-170` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Einstellung Aus Opportunitaet Paragraf 153 und 153a trägt.
-- **Danach**: `12-teileinstellung-paragraf-154-und-154a` - Folgeschritt im selben Plugin; nutze ihn, sobald Einstellung Aus Opportunitaet Paragraf 153 und 153a entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `10-einstellung-mangels-tatverdacht-paragraf-170` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Einstellung Aus Opportunitaet Paragraf 153 und 153a trägt.
+- **Danach**: `12-teileinstellung-paragraf-154-und-154a` - Folgeskill nutzen, sobald Einstellung Aus Opportunitaet Paragraf 153 und 153a entscheidungs- oder verfügungsreif vorbereitet ist.

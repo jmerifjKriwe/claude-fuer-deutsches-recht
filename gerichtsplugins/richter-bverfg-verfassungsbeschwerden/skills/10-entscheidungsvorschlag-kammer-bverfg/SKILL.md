@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Entscheidungsvorschlag Kammer BVerfG: Senat, Kammer, Berichterstatterzuständigkeit und Entscheidungsform zuerst bestimmen.
+1. Entscheidungsvorschlag Kammer BVerfG: Senat, Kammer, Berichterstatterzuständigkeit und Entscheidungsform zuerst bestimmen.
 2. Nichtannahme, stattgebender Kammerbeschluss oder Senatsentscheidung nach Annahmevoraussetzungen und Tragweite trennen.
 3. Tenor, Gründe, Gegenstandswert, Auslagenerstattung und Vollzugsfolgen aufeinander abstimmen.
 4. Fachgerichtliche Entscheidungsfolgen und Rückverweisung präzise formulieren.
@@ -71,5 +71,5 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 
 ## Benachbarte Skills
 
-- **Davor**: `09-nichtannahmebeschluss-entwurf` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Kammer BVerfG trägt.
+- **Davor**: `09-nichtannahmebeschluss-entwurf` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Kammer BVerfG trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

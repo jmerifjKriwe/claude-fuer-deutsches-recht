@@ -27,7 +27,7 @@ _Strukturierter Entscheidungsvorschlag für den Registerrichter oder Rechtspfleg
 
 ## Zweck
 
-Strukturierter Entscheidungsvorschlag für den Registerrichter oder Rechtspfleger: Eintragungsentwurf, Hinweise zur Eintragungsfähigkeit, ggf. Zwischenverfuegungsentwurf, ausdrücklich zur Prüfung markiert
+Strukturierter Entscheidungsvorschlag für den Registerrichter oder Rechtspfleger: Eintragungsentwurf, Hinweise zur Eintragungsfähigkeit, ggf. Zwischenverfügungsentwurf, ausdrücklich zur Prüfung markiert
 
 ## Rolle
 
@@ -54,27 +54,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
-- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
-- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
-- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Registerart, funktionelle Zuständigkeit und elektronische Anmeldung prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Form, Beglaubigung, Vertretungsmacht und Anlagenvollständigkeit feststellen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-3. Materielle Eintragungsvoraussetzungen nach HGB, GmbHG, UmwG oder GenG prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Behebbares Hindernis als Zwischenverfuegung, unbehebbares Hindernis als Zurückweisung behandeln.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Eintragung, Bekanntmachung, Kosten und Rechtsmittelbelehrung abschliessen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Entscheidungsvorschlag Register: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
+2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
+3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
+4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
+5. Rechtsmittel, Abhilfe und Geschäftsstelle mit klarer Wiedervorlage steuern.
 
 ## Typische Fallstricke
 
-- Zwischenverfuegung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
 - Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
 - Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
 - Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
@@ -84,19 +79,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Anmeldung steht derzeit folgendes behebbares Eintragungshindernis entgegen: [Hindernis]. Zur Behebung wird eine Frist bis zum [Datum] gesetzt.
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
 ```
 
 ### Baustein B
 
 ```text
-Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hinweis nicht behoben wurde und die beantragte Eintragung deshalb registerrechtlich unzulaessig bleibt.
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `09-vereins-und-genossenschaftsregister` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 10 Entscheidungsvorschlag Register bearbeitet wird.
-- **Danach**: `01-anmeldung-pruefen-zustaendigkeit` - Nutze diesen Folgeschritt, sobald 10 Entscheidungsvorschlag Register als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `09-vereins-und-genossenschaftsregister` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Register trägt.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
 
 ---
 
@@ -135,27 +130,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
-- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
-- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
-- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Registerart, funktionelle Zuständigkeit und elektronische Anmeldung prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Form, Beglaubigung, Vertretungsmacht und Anlagenvollständigkeit feststellen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-3. Materielle Eintragungsvoraussetzungen nach HGB, GmbHG, UmwG oder GenG prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Behebbares Hindernis als Zwischenverfuegung, unbehebbares Hindernis als Zurückweisung behandeln.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Eintragung, Bekanntmachung, Kosten und Rechtsmittelbelehrung abschliessen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Anmeldung Prüfen Zuständigkeit: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
+2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
+3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
+4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
+5. Rechtsmittel, Abhilfe und Geschäftsstelle mit klarer Wiedervorlage steuern.
 
 ## Typische Fallstricke
 
-- Zwischenverfuegung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
 - Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
 - Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
 - Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
@@ -165,19 +155,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Anmeldung steht derzeit folgendes behebbares Eintragungshindernis entgegen: [Hindernis]. Zur Behebung wird eine Frist bis zum [Datum] gesetzt.
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
 ```
 
 ### Baustein B
 
 ```text
-Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hinweis nicht behoben wurde und die beantragte Eintragung deshalb registerrechtlich unzulaessig bleibt.
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-register` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 01 Anmeldung Prüfen Zuständigkeit bearbeitet wird.
-- **Danach**: `02-firmenrecht-pruefen` - Nutze diesen Folgeschritt, sobald 01 Anmeldung Prüfen Zuständigkeit als gerichtlicher Arbeitsstand verwertbar ist.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
+- **Danach**: `02-firmenrecht-pruefen` - Folgeskill nutzen, sobald Anmeldung Prüfen Zuständigkeit entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -185,7 +175,7 @@ Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hin
 
 _Vereinsregister Paragrafen 55-79 BGB: Anmeldung Paragraf 59, Eintragung, Vorstandsbestellung, Wahrnehmung wirtschaftlicher Geschaefte (BGH Wertungen); Genossenschaftsregister Paragrafen 156 ff. GenG_
 
-# 09 Vereins Und Genossenschaftsregister
+# 09 Vereins und Genossenschaftsregister
 
 ## Zweck
 
@@ -216,27 +206,23 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
-- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
-- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
-- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH, Beschluss vom 16.05.2017 - II ZB 7/16, frei nachweisbar über dejure: Der Betrieb mehrerer Kindertagesstätten schließt die Einordnung als Idealverein nicht schon wegen wirtschaftlicher Betätigung aus, wenn der ideelle Zweck prägend bleibt.
+- BGH, Beschluss vom 16.05.2017 - II ZB 6/16, frei nachweisbar über dejure: Für Paragraf 21 BGB kommt es auf den prägenden Vereinszweck und die Zuordnung wirtschaftlicher Tätigkeiten zum ideellen Hauptzweck an.
+- BGH, Beschluss vom 16.05.2017 - II ZB 9/16, frei nachweisbar über dejure: Amtslöschung eines Vereins verlangt eine tragfähige Prüfung, ob der wirtschaftliche Geschäftsbetrieb den Idealverein verdrängt.
+- Ständige Rechtsprechung zu Paragrafen 55 bis 79 BGB: Satzungsänderungen, Vorstandswahlen und Vertretungsregelungen müssen aus Protokoll, Einladung und Satzung registerfähig nachvollziehbar sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Ständige Rechtsprechung zu GenG und Genossenschaftsregister: Prüfungsverband, Satzung, Vorstand und Aufsichtsrat sind vor Eintragung anhand der gesetzlichen Registervoraussetzungen getrennt zu prüfen.
 
 ## Prüfungsschema in Stufen
 
-1. Registerart, funktionelle Zuständigkeit und elektronische Anmeldung prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Form, Beglaubigung, Vertretungsmacht und Anlagenvollständigkeit feststellen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-3. Materielle Eintragungsvoraussetzungen nach HGB, GmbHG, UmwG oder GenG prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Behebbares Hindernis als Zwischenverfuegung, unbehebbares Hindernis als Zurückweisung behandeln.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Eintragung, Bekanntmachung, Kosten und Rechtsmittelbelehrung abschliessen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Vereins- oder Genossenschaftsanmeldung einordnen: Neuanmeldung, Satzungsänderung, Vorstandswechsel, Löschung oder Genossenschaftseintragung getrennt behandeln.
+2. Beim Verein Satzung, Einladung, Beschlussfähigkeit, Beschlussfassung und Vertretungsregel nach Paragrafen 57, 58, 59, 67 und 71 BGB aktenfest prüfen.
+3. Beim wirtschaftlichen Geschäftsbetrieb den prägenden Vereinszweck herausarbeiten und wirtschaftliche Nebentätigkeit vom wirtschaftlichen Hauptzweck abgrenzen.
+4. Bei Genossenschaften Satzung, Mitgliederzahl, Prüfungsverband, Vorstand, Aufsichtsrat und Gründungsprüfung anhand GenG und Registerunterlagen gesondert abhaken.
+5. Zwischenverfügung nur für konkret behebbare Nachweise; bei nicht registerfähiger Satzung oder fehlendem Idealvereinscharakter begründete Zurückweisung vorbereiten.
 
 ## Typische Fallstricke
 
-- Zwischenverfuegung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
 - Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
 - Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
 - Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
@@ -246,19 +232,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Anmeldung steht derzeit folgendes behebbares Eintragungshindernis entgegen: [Hindernis]. Zur Behebung wird eine Frist bis zum [Datum] gesetzt.
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
 ```
 
 ### Baustein B
 
 ```text
-Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hinweis nicht behoben wurde und die beantragte Eintragung deshalb registerrechtlich unzulaessig bleibt.
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `08-loeschung-von-amts-wegen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 09 Vereins Und Genossenschaftsregister bearbeitet wird.
-- **Danach**: `10-entscheidungsvorschlag-register` - Nutze diesen Folgeschritt, sobald 09 Vereins Und Genossenschaftsregister als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `08-loeschung-von-amts-wegen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vereins und Genossenschaftsregister trägt.
+- **Danach**: `10-entscheidungsvorschlag-register` - Folgeskill nutzen, sobald Vereins und Genossenschaftsregister entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -266,7 +252,7 @@ Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hin
 
 _Eintragung Geschaeftsfuehrer Paragraf 39 GmbHG, Vorstand Paragraf 81 AktG, Prokura Paragrafen 48-53 HGB (Erteilung, Erloeschen, Gesamtprokura), Handlungsvollmacht Paragraf 54_
 
-# 04 Vertretungsmacht Und Prokura
+# 04 Vertretungsmacht und Prokura
 
 ## Zweck
 
@@ -297,27 +283,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
-- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
-- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
-- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Registerart, funktionelle Zuständigkeit und elektronische Anmeldung prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Form, Beglaubigung, Vertretungsmacht und Anlagenvollständigkeit feststellen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-3. Materielle Eintragungsvoraussetzungen nach HGB, GmbHG, UmwG oder GenG prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Behebbares Hindernis als Zwischenverfuegung, unbehebbares Hindernis als Zurückweisung behandeln.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Eintragung, Bekanntmachung, Kosten und Rechtsmittelbelehrung abschliessen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Vertretungsmacht und Prokura: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
+2. Formelle Voraussetzungen prüfen: elektronische Einreichung, notarielle Beglaubigung, Vertretungsmacht, Vollmacht und Urkundenlage.
+3. Materielle Eintragungsfähigkeit anhand HGB, GmbHG, AktG, UmwG, GenG oder Vereinsrecht abarbeiten.
+4. Bei Zweifeln nur registerrelevante Tatsachen aufklären; zivilrechtliche Binnenstreitigkeiten nicht als Hauptsacheprozess entscheiden.
+5. Eintragung, Zwischenverfügung oder Zurückweisung mit konkretem Registervollzug abschließen.
 
 ## Typische Fallstricke
 
-- Zwischenverfuegung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
 - Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
 - Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
 - Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
@@ -327,19 +308,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Anmeldung steht derzeit folgendes behebbares Eintragungshindernis entgegen: [Hindernis]. Zur Behebung wird eine Frist bis zum [Datum] gesetzt.
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
 ```
 
 ### Baustein B
 
 ```text
-Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hinweis nicht behoben wurde und die beantragte Eintragung deshalb registerrechtlich unzulaessig bleibt.
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-gesellschaftsvertrag-pruefen-gmbh` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Vertretungsmacht Und Prokura bearbeitet wird.
-- **Danach**: `05-kapitalerhoehung-und-kapitalherabsetzung` - Nutze diesen Folgeschritt, sobald 04 Vertretungsmacht Und Prokura als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-gesellschaftsvertrag-pruefen-gmbh` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vertretungsmacht und Prokura trägt.
+- **Danach**: `05-kapitalerhoehung-und-kapitalherabsetzung` - Folgeskill nutzen, sobald Vertretungsmacht und Prokura entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -347,7 +328,7 @@ Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hin
 
 _Prüfung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 AktG; Kapitalherabsetzung Paragrafen 58-58f GmbHG; Werthaltigkeit Sacheinlage Paragraf 9 GmbHG_
 
-# 05 Kapitalerhoehung Und Kapitalherabsetzung
+# 05 Kapitalerhoehung und Kapitalherabsetzung
 
 ## Zweck
 
@@ -378,27 +359,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
-- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
-- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
-- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Registerart, funktionelle Zuständigkeit und elektronische Anmeldung prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Form, Beglaubigung, Vertretungsmacht und Anlagenvollständigkeit feststellen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-3. Materielle Eintragungsvoraussetzungen nach HGB, GmbHG, UmwG oder GenG prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Behebbares Hindernis als Zwischenverfuegung, unbehebbares Hindernis als Zurückweisung behandeln.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Eintragung, Bekanntmachung, Kosten und Rechtsmittelbelehrung abschliessen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Kapitalerhoehung und Kapitalherabsetzung: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
+2. Formelle Voraussetzungen prüfen: elektronische Einreichung, notarielle Beglaubigung, Vertretungsmacht, Vollmacht und Urkundenlage.
+3. Materielle Eintragungsfähigkeit anhand HGB, GmbHG, AktG, UmwG, GenG oder Vereinsrecht abarbeiten.
+4. Bei Zweifeln nur registerrelevante Tatsachen aufklären; zivilrechtliche Binnenstreitigkeiten nicht als Hauptsacheprozess entscheiden.
+5. Eintragung, Zwischenverfügung oder Zurückweisung mit konkretem Registervollzug abschließen.
 
 ## Typische Fallstricke
 
-- Zwischenverfuegung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
 - Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
 - Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
 - Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
@@ -408,19 +384,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Anmeldung steht derzeit folgendes behebbares Eintragungshindernis entgegen: [Hindernis]. Zur Behebung wird eine Frist bis zum [Datum] gesetzt.
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
 ```
 
 ### Baustein B
 
 ```text
-Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hinweis nicht behoben wurde und die beantragte Eintragung deshalb registerrechtlich unzulaessig bleibt.
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `04-vertretungsmacht-und-prokura` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 05 Kapitalerhoehung Und Kapitalherabsetzung bearbeitet wird.
-- **Danach**: `06-umwandlung-eintragen` - Nutze diesen Folgeschritt, sobald 05 Kapitalerhoehung Und Kapitalherabsetzung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `04-vertretungsmacht-und-prokura` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kapitalerhoehung und Kapitalherabsetzung trägt.
+- **Danach**: `06-umwandlung-eintragen` - Folgeskill nutzen, sobald Kapitalerhoehung und Kapitalherabsetzung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -459,27 +435,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
-- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
-- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
-- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Registerart, funktionelle Zuständigkeit und elektronische Anmeldung prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Form, Beglaubigung, Vertretungsmacht und Anlagenvollständigkeit feststellen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-3. Materielle Eintragungsvoraussetzungen nach HGB, GmbHG, UmwG oder GenG prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Behebbares Hindernis als Zwischenverfuegung, unbehebbares Hindernis als Zurückweisung behandeln.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Eintragung, Bekanntmachung, Kosten und Rechtsmittelbelehrung abschliessen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Firmenrecht Prüfen: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
+2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
+3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
+4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
+5. Rechtsmittel, Abhilfe und Geschäftsstelle mit klarer Wiedervorlage steuern.
 
 ## Typische Fallstricke
 
-- Zwischenverfuegung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
 - Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
 - Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
 - Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
@@ -489,19 +460,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Anmeldung steht derzeit folgendes behebbares Eintragungshindernis entgegen: [Hindernis]. Zur Behebung wird eine Frist bis zum [Datum] gesetzt.
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
 ```
 
 ### Baustein B
 
 ```text
-Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hinweis nicht behoben wurde und die beantragte Eintragung deshalb registerrechtlich unzulaessig bleibt.
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `01-anmeldung-pruefen-zustaendigkeit` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 02 Firmenrecht Prüfen bearbeitet wird.
-- **Danach**: `03-gesellschaftsvertrag-pruefen-gmbh` - Nutze diesen Folgeschritt, sobald 02 Firmenrecht Prüfen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `01-anmeldung-pruefen-zustaendigkeit` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Firmenrecht Prüfen trägt.
+- **Danach**: `03-gesellschaftsvertrag-pruefen-gmbh` - Folgeskill nutzen, sobald Firmenrecht Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -540,27 +511,23 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
-- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
-- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
-- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure: Registergerichtliche Prüfung bleibt auf eintragungsrelevante Tatsachen beschränkt und ersetzt keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure und BGH-Zitierung in II ZB 11/24: Ausländische Notare können registerrechtlich relevante GmbH-Unterlagen nur bei Gleichwertigkeit der Beurkundung einreichen.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure: Die Gesellschafterliste wirkt registerrechtlich legitimierend, ohne die materielle Anteilsinhaberschaft endgültig zu klären.
+- Ständige Rechtsprechung zu Paragraf 3 GmbHG und Paragraf 9c GmbHG: Firma, Sitz, Unternehmensgegenstand und Stammkapital müssen eintragungsfähig, bestimmt und satzungskonform belegt sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Ständige Rechtsprechung zu Paragraf 382 FamFG: Eine Zwischenverfügung darf nur behebbarer Hindernisse wegen ergehen; unbehebbare Satzungsmängel führen zur Zurückweisung.
 
 ## Prüfungsschema in Stufen
 
-1. Registerart, funktionelle Zuständigkeit und elektronische Anmeldung prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Form, Beglaubigung, Vertretungsmacht und Anlagenvollständigkeit feststellen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-3. Materielle Eintragungsvoraussetzungen nach HGB, GmbHG, UmwG oder GenG prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Behebbares Hindernis als Zwischenverfuegung, unbehebbares Hindernis als Zurückweisung behandeln.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Eintragung, Bekanntmachung, Kosten und Rechtsmittelbelehrung abschliessen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Registeranmeldung und notarielle Form prüfen: elektronische Einreichung, Beglaubigung, Vertretung der anmeldenden Geschäftsführer und Vollständigkeit der Gründungsunterlagen.
+2. Mindestinhalt nach Paragraf 3 GmbHG abarbeiten: Firma, Sitz, Gegenstand, Stammkapital, Geschäftsanteile und etwaige Sacheinlagen einzeln mit dem Satzungstext abgleichen.
+3. Eintragungsfähigkeit des Unternehmensgegenstands prüfen: hinreichende Bestimmtheit, keine evident erlaubnispflichtige oder verbotene Tätigkeit ohne Nachweis, keine irreführende Branchenbeschreibung.
+4. Kapital- und Geschäftsführerangaben mit Paragrafen 5, 6, 7, 8 und 9c GmbHG abgleichen; Versicherungen der Geschäftsführer nur auf registerrechtliche Plausibilität, nicht als Hauptsachebeweis, würdigen.
+5. Bei behebbaren Satzungs- oder Nachweismängeln eine konkrete Zwischenverfügung fassen; bei unbehebbarem Mangel zurückweisen und die Beschwerdemöglichkeit nach FamFG sauber eröffnen.
 
 ## Typische Fallstricke
 
-- Zwischenverfuegung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
 - Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
 - Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
 - Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
@@ -570,19 +537,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Anmeldung steht derzeit folgendes behebbares Eintragungshindernis entgegen: [Hindernis]. Zur Behebung wird eine Frist bis zum [Datum] gesetzt.
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
 ```
 
 ### Baustein B
 
 ```text
-Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hinweis nicht behoben wurde und die beantragte Eintragung deshalb registerrechtlich unzulaessig bleibt.
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-firmenrecht-pruefen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Gesellschaftsvertrag Prüfen Gmbh bearbeitet wird.
-- **Danach**: `04-vertretungsmacht-und-prokura` - Nutze diesen Folgeschritt, sobald 03 Gesellschaftsvertrag Prüfen Gmbh als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-firmenrecht-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Gesellschaftsvertrag Prüfen Gmbh trägt.
+- **Danach**: `04-vertretungsmacht-und-prokura` - Folgeskill nutzen, sobald Gesellschaftsvertrag Prüfen Gmbh entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -621,27 +588,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
-- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
-- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
-- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Registerart, funktionelle Zuständigkeit und elektronische Anmeldung prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Form, Beglaubigung, Vertretungsmacht und Anlagenvollständigkeit feststellen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-3. Materielle Eintragungsvoraussetzungen nach HGB, GmbHG, UmwG oder GenG prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Behebbares Hindernis als Zwischenverfuegung, unbehebbares Hindernis als Zurückweisung behandeln.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Eintragung, Bekanntmachung, Kosten und Rechtsmittelbelehrung abschliessen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Umwandlung Eintragen: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
+2. Formelle Voraussetzungen prüfen: elektronische Einreichung, notarielle Beglaubigung, Vertretungsmacht, Vollmacht und Urkundenlage.
+3. Materielle Eintragungsfähigkeit anhand HGB, GmbHG, AktG, UmwG, GenG oder Vereinsrecht abarbeiten.
+4. Bei Zweifeln nur registerrelevante Tatsachen aufklären; zivilrechtliche Binnenstreitigkeiten nicht als Hauptsacheprozess entscheiden.
+5. Eintragung, Zwischenverfügung oder Zurückweisung mit konkretem Registervollzug abschließen.
 
 ## Typische Fallstricke
 
-- Zwischenverfuegung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
 - Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
 - Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
 - Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
@@ -651,19 +613,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Anmeldung steht derzeit folgendes behebbares Eintragungshindernis entgegen: [Hindernis]. Zur Behebung wird eine Frist bis zum [Datum] gesetzt.
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
 ```
 
 ### Baustein B
 
 ```text
-Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hinweis nicht behoben wurde und die beantragte Eintragung deshalb registerrechtlich unzulaessig bleibt.
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-kapitalerhoehung-und-kapitalherabsetzung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 06 Umwandlung Eintragen bearbeitet wird.
-- **Danach**: `07-zwischenverfuegung-und-beschwerde` - Nutze diesen Folgeschritt, sobald 06 Umwandlung Eintragen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `05-kapitalerhoehung-und-kapitalherabsetzung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Umwandlung Eintragen trägt.
+- **Danach**: `07-zwischenverfuegung-und-beschwerde` - Folgeskill nutzen, sobald Umwandlung Eintragen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -671,11 +633,11 @@ Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hin
 
 _Zwischenverfuegung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Rechtsbeschwerde Paragrafen 70 ff._
 
-# 07 Zwischenverfuegung Und Beschwerde
+# 07 Zwischenverfügung und Beschwerde
 
 ## Zweck
 
-Zwischenverfuegung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Rechtsbeschwerde Paragrafen 70 ff.
+Zwischenverfügung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Rechtsbeschwerde Paragrafen 70 ff.
 
 ## Rolle
 
@@ -702,49 +664,44 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
-- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
-- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
-- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Registerart, funktionelle Zuständigkeit und elektronische Anmeldung prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Form, Beglaubigung, Vertretungsmacht und Anlagenvollständigkeit feststellen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-3. Materielle Eintragungsvoraussetzungen nach HGB, GmbHG, UmwG oder GenG prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Behebbares Hindernis als Zwischenverfuegung, unbehebbares Hindernis als Zurückweisung behandeln.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Eintragung, Bekanntmachung, Kosten und Rechtsmittelbelehrung abschliessen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Zwischenverfügung und Beschwerde: Behebbares Eintragungshindernis und endgültigen Zurückweisungsgrund strikt auseinanderhalten.
+2. Anmeldung, notarielle Form, Vertretungsnachweis, Registerzuständigkeit und konkrete Eintragungstatsache einzeln prüfen.
+3. Zwischenverfügung nur mit genau bezeichnetem Hindernis, behebbarer Handlung, Frist und Rechtsfolge formulieren.
+4. Bei Beschwerde Abhilfe prüfen: neuer Vortrag, nachgereichte Urkunden und registerrechtliche Bindungen getrennt bewerten.
+5. Zurückweisung oder Abhilfe so begründen, dass Rechtsbeschwerde- und Aktenklarheit gewährleistet sind.
 
 ## Typische Fallstricke
 
-- Zwischenverfuegung wird genutzt, obwohl das Hindernis nicht behebbar ist.
-- Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
-- Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
-- Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Die Beschwerde wird ohne Abhilfeprüfung an das Obergericht gegeben.
+- Materielle Gesellschafterstreitigkeiten werden registerrechtlich überentschieden.
+- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Der Anmeldung steht derzeit folgendes behebbares Eintragungshindernis entgegen: [Hindernis]. Zur Behebung wird eine Frist bis zum [Datum] gesetzt.
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
 ```
 
 ### Baustein B
 
 ```text
-Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hinweis nicht behoben wurde und die beantragte Eintragung deshalb registerrechtlich unzulaessig bleibt.
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-umwandlung-eintragen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 07 Zwischenverfuegung Und Beschwerde bearbeitet wird.
-- **Danach**: `08-loeschung-von-amts-wegen` - Nutze diesen Folgeschritt, sobald 07 Zwischenverfuegung Und Beschwerde als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-umwandlung-eintragen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zwischenverfügung und Beschwerde trägt.
+- **Danach**: `08-loeschung-von-amts-wegen` - Folgeskill nutzen, sobald Zwischenverfügung und Beschwerde entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -752,11 +709,11 @@ Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hin
 
 _Loeschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Loeschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 FamFG; Anhörung Steuerverwaltung_
 
-# 08 Loeschung Von Amts Wegen
+# 08 Löschung Von Amts Wegen
 
 ## Zweck
 
-Loeschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Loeschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 FamFG; Anhörung Steuerverwaltung
+Löschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Löschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 FamFG; Anhörung Steuerverwaltung
 
 ## Rolle
 
@@ -783,27 +740,22 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
-- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
-- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
-- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Registerart, funktionelle Zuständigkeit und elektronische Anmeldung prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Form, Beglaubigung, Vertretungsmacht und Anlagenvollständigkeit feststellen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-3. Materielle Eintragungsvoraussetzungen nach HGB, GmbHG, UmwG oder GenG prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Behebbares Hindernis als Zwischenverfuegung, unbehebbares Hindernis als Zurückweisung behandeln.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Eintragung, Bekanntmachung, Kosten und Rechtsmittelbelehrung abschliessen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Löschung Von Amts Wegen: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
+2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
+3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
+4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
+5. Rechtsmittel, Abhilfe und Geschäftsstelle mit klarer Wiedervorlage steuern.
 
 ## Typische Fallstricke
 
-- Zwischenverfuegung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
 - Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
 - Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
 - Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
@@ -813,19 +765,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Anmeldung steht derzeit folgendes behebbares Eintragungshindernis entgegen: [Hindernis]. Zur Behebung wird eine Frist bis zum [Datum] gesetzt.
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
 ```
 
 ### Baustein B
 
 ```text
-Die Anmeldung wird zurückgewiesen, weil [Hindernis] auch nach gerichtlichem Hinweis nicht behoben wurde und die beantragte Eintragung deshalb registerrechtlich unzulaessig bleibt.
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-zwischenverfuegung-und-beschwerde` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Loeschung Von Amts Wegen bearbeitet wird.
-- **Danach**: `09-vereins-und-genossenschaftsregister` - Nutze diesen Folgeschritt, sobald 08 Loeschung Von Amts Wegen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-zwischenverfuegung-und-beschwerde` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Löschung Von Amts Wegen trägt.
+- **Danach**: `09-vereins-und-genossenschaftsregister` - Folgeskill nutzen, sobald Löschung Von Amts Wegen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 

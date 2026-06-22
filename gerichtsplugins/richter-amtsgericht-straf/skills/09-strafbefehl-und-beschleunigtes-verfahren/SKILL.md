@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Strafbefehl und Beschleunigtes Verfahren: Prüfen, ob die gewählte Verfahrensart gesetzlich eröffnet und angesichts Tatvorwurf, Beweislage und Rechtsfolge angemessen ist.
+1. Strafbefehl und Beschleunigtes Verfahren: Prüfen, ob die gewählte Verfahrensart gesetzlich eröffnet und angesichts Tatvorwurf, Beweislage und Rechtsfolge angemessen ist.
 2. Strafbefehl, beschleunigtes Verfahren oder Berufungskammer nur nutzen, wenn Zuständigkeit, Ladungsfristen und Verteidigungsrechte gesichert sind.
 3. Einspruch, Beschränkung, Säumnis und Rücknahmefolgen in die Terminverfügung aufnehmen.
 4. Beweisaufnahme auf das verfahrensspezifisch Erforderliche konzentrieren, ohne Aufklärungspflicht zu verkürzen.
@@ -70,5 +70,5 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 ## Benachbarte Skills
 
-- **Davor**: `08-urteilsbegruendung-paragraf-267-stpo` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Strafbefehl und Beschleunigtes Verfahren trägt.
-- **Danach**: `10-entscheidungsvorschlag-strafrichter` - Folgeschritt im selben Plugin; nutze ihn, sobald Strafbefehl und Beschleunigtes Verfahren entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `08-urteilsbegruendung-paragraf-267-stpo` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Strafbefehl und Beschleunigtes Verfahren trägt.
+- **Danach**: `10-entscheidungsvorschlag-strafrichter` - Folgeskill nutzen, sobald Strafbefehl und Beschleunigtes Verfahren entscheidungs- oder verfügungsreif vorbereitet ist.

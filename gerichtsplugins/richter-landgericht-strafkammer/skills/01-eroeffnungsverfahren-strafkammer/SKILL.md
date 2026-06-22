@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Eröffnungsverfahren Strafkammer: Tatvorwurf, Angeschuldigter, Tatzeit, Tatort, gesetzliche Merkmale und Eröffnungszuständigkeit zuerst prüfen.
+1. Eröffnungsverfahren Strafkammer: Tatvorwurf, Angeschuldigter, Tatzeit, Tatort, gesetzliche Merkmale und Eröffnungszuständigkeit zuerst prüfen.
 2. Hinreichenden Tatverdacht aus Aktenstoff, Beweismitteln und Einlassung ableiten; bloßen Anfangsverdacht nicht genügen lassen.
 3. Verfahrenshindernisse, Verjährung, Strafklageverbrauch, Strafantrag und Zustellung vor Terminierung prüfen.
 4. Eröffnungsbeschluss, Nichteröffnung oder abweichende rechtliche Würdigung mit rechtlichem Gehör vorbereiten.
@@ -71,4 +71,4 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-hauptverhandlung-grosse-strafkammer` - Folgeschritt im selben Plugin; nutze ihn, sobald Eröffnungsverfahren Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-hauptverhandlung-grosse-strafkammer` - Folgeskill nutzen, sobald Eröffnungsverfahren Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.

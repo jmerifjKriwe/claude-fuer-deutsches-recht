@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Fachgerichtliche Entscheidung Prüfen: Schutzbereich, Eingriff, Schranke, Schranken-Schranke und verfassungsrechtlichen Prüfungsmaßstab festlegen.
+1. Fachgerichtliche Entscheidung Prüfen: Schutzbereich, Eingriff, Schranke, Schranken-Schranke und verfassungsrechtlichen Prüfungsmaßstab festlegen.
 2. Fachrechtliche Fehler nur als spezifische Verfassungsverletzung erfassen; keine Superrevisionsinstanz eröffnen.
 3. Verhältnismäßigkeit mit legitimer Zwecksetzung, Geeignetheit, Erforderlichkeit und Angemessenheit ausformulieren.
 4. Gehör, Willkür, effektiver Rechtsschutz und Gleichheit gesondert prüfen, wenn der Beschwerdevortrag darauf zielt.
@@ -71,5 +71,5 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 
 ## Benachbarte Skills
 
-- **Davor**: `05-grundrechtsdogmatik-pruefen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Fachgerichtliche Entscheidung Prüfen trägt.
-- **Danach**: `07-kammer-und-senat-zustaendigkeit` - Folgeschritt im selben Plugin; nutze ihn, sobald Fachgerichtliche Entscheidung Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-grundrechtsdogmatik-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Fachgerichtliche Entscheidung Prüfen trägt.
+- **Danach**: `07-kammer-und-senat-zustaendigkeit` - Folgeskill nutzen, sobald Fachgerichtliche Entscheidung Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.

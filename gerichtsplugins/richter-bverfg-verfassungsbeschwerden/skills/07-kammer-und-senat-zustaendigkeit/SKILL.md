@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Kammer und Senat Zuständigkeit: Senat, Kammer, Berichterstatterzuständigkeit und Entscheidungsform zuerst bestimmen.
+1. Kammer und Senat Zuständigkeit: Senat, Kammer, Berichterstatterzuständigkeit und Entscheidungsform zuerst bestimmen.
 2. Nichtannahme, stattgebender Kammerbeschluss oder Senatsentscheidung nach Annahmevoraussetzungen und Tragweite trennen.
 3. Tenor, Gründe, Gegenstandswert, Auslagenerstattung und Vollzugsfolgen aufeinander abstimmen.
 4. Fachgerichtliche Entscheidungsfolgen und Rückverweisung präzise formulieren.
@@ -71,5 +71,5 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 
 ## Benachbarte Skills
 
-- **Davor**: `06-fachgerichtliche-entscheidung-pruefen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Kammer und Senat Zuständigkeit trägt.
-- **Danach**: `08-votum-wissenschaftlicher-mitarbeiter` - Folgeschritt im selben Plugin; nutze ihn, sobald Kammer und Senat Zuständigkeit entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-fachgerichtliche-entscheidung-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kammer und Senat Zuständigkeit trägt.
+- **Danach**: `08-votum-wissenschaftlicher-mitarbeiter` - Folgeskill nutzen, sobald Kammer und Senat Zuständigkeit entscheidungs- oder verfügungsreif vorbereitet ist.

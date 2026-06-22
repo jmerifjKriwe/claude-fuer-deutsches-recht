@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Einstellung Mangels Tatverdacht Paragraf 170: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+1. Einstellung Mangels Tatverdacht Paragraf 170: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
 2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
 3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
 4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `09-sachverstaendige-und-koerperliche-untersuchung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Einstellung Mangels Tatverdacht Paragraf 170 trägt.
-- **Danach**: `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` - Folgeschritt im selben Plugin; nutze ihn, sobald Einstellung Mangels Tatverdacht Paragraf 170 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `09-sachverstaendige-und-koerperliche-untersuchung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Einstellung Mangels Tatverdacht Paragraf 170 trägt.
+- **Danach**: `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` - Folgeskill nutzen, sobald Einstellung Mangels Tatverdacht Paragraf 170 entscheidungs- oder verfügungsreif vorbereitet ist.

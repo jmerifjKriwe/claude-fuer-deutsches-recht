@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Beweisstation Votum: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
+1. Beweisstation Votum: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
 2. Beweislast für jedes Tatbestandsmerkmal, jede Einwendung und jede Einrede getrennt festlegen; Beweiserleichterungen ausdrücklich benennen.
 3. Beweismittel nach Urkunde, Zeuge, Sachverständiger, Augenschein und Parteivernehmung ordnen; Ausforschungsbeweis aussortieren.
 4. Beweisbeschluss mit Beweisthema, Beweismittel, Kostenvorschuss und Fristen gerichtsfest formulieren.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `14-beweismittel-wuerdigen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beweisstation Votum trägt.
-- **Danach**: `16-tenor-formulieren` - Folgeschritt im selben Plugin; nutze ihn, sobald Beweisstation Votum entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `14-beweismittel-wuerdigen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweisstation Votum trägt.
+- **Danach**: `16-tenor-formulieren` - Folgeskill nutzen, sobald Beweisstation Votum entscheidungs- oder verfügungsreif vorbereitet ist.

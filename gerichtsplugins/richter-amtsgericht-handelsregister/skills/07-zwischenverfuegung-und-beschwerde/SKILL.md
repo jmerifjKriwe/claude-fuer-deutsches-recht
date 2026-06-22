@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Zwischenverfügung und Beschwerde: Behebbares Eintragungshindernis und endgültigen Zurückweisungsgrund strikt auseinanderhalten.
+1. Zwischenverfügung und Beschwerde: Behebbares Eintragungshindernis und endgültigen Zurückweisungsgrund strikt auseinanderhalten.
 2. Anmeldung, notarielle Form, Vertretungsnachweis, Registerzuständigkeit und konkrete Eintragungstatsache einzeln prüfen.
 3. Zwischenverfügung nur mit genau bezeichnetem Hindernis, behebbarer Handlung, Frist und Rechtsfolge formulieren.
 4. Bei Beschwerde Abhilfe prüfen: neuer Vortrag, nachgereichte Urkunden und registerrechtliche Bindungen getrennt bewerten.
@@ -70,5 +70,5 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `06-umwandlung-eintragen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zwischenverfügung und Beschwerde trägt.
-- **Danach**: `08-loeschung-von-amts-wegen` - Folgeschritt im selben Plugin; nutze ihn, sobald Zwischenverfügung und Beschwerde entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-umwandlung-eintragen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zwischenverfügung und Beschwerde trägt.
+- **Danach**: `08-loeschung-von-amts-wegen` - Folgeskill nutzen, sobald Zwischenverfügung und Beschwerde entscheidungs- oder verfügungsreif vorbereitet ist.

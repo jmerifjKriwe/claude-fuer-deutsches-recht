@@ -54,23 +54,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Insolvenzplan Bestaetigen: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen.
+2. Gläubigerrechte, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Versagungsgründe getrennt prüfen.
+3. Masseinteresse, Verfahrensökonomie und rechtliches Gehör dokumentieren.
+4. Beschluss mit Tenor, Gründen, Zustellung und Rechtsmittelbelehrung formulieren.
+5. Bei Verbraucher- oder Regelinsolvenz Besonderheiten nicht vermengen.
 
 ## Typische Fallstricke
 
@@ -84,19 +79,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-eigenverwaltung-und-schutzschirm` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 07 Insolvenzplan Bestaetigen bearbeitet wird.
-- **Danach**: `08-starug-restrukturierungssache-anzeigen` - Nutze diesen Folgeschritt, sobald 07 Insolvenzplan Bestaetigen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-eigenverwaltung-und-schutzschirm` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Insolvenzplan Bestaetigen trägt.
+- **Danach**: `08-starug-restrukturierungssache-anzeigen` - Folgeskill nutzen, sobald Insolvenzplan Bestaetigen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -104,7 +99,7 @@ Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Drei
 
 _Planabstimmung Paragrafen 17 ff. StaRUG, gruppeninternes Mehrheitserfordernis, gruppenübergreifender Cramdown Paragraf 26 StaRUG, gerichtliche Planbestätigung Paragrafen 60 ff., Wirkungen Paragraf 67_
 
-# 10 StaRUG Planbestätigung Und Folgen
+# 10 StaRUG Planbestätigung und Folgen
 
 ## Zweck
 
@@ -135,23 +130,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. StaRUG Planbestätigung und Folgen: StarUG-Voraussetzungen, drohende Zahlungsunfähigkeit und Planbetroffenheit zuerst prüfen.
+2. Stabilisierungsanordnung, Planabstimmung und Planbestätigung nach Eingriffsgewicht und Gläubigergruppen trennen.
+3. Obstruktionsverbot, Minderheitenschutz, Vergleichsrechnung und Best-Interest-Test gesondert abarbeiten.
+4. Beschluss so fassen, dass Reichweite, Dauer und betroffene Forderungen eindeutig sind.
+5. Bekanntmachung, Zustellung und Rechtsmittel risikoorientiert steuern.
 
 ## Typische Fallstricke
 
@@ -165,19 +155,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `09-starug-stabilisierungsanordnung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 10 StaRUG Planbestätigung Und Folgen bearbeitet wird.
-- **Danach**: `01-eroeffnungsantrag-pruefen-insolvenz` - Nutze diesen Folgeschritt, sobald 10 StaRUG Planbestätigung Und Folgen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `09-starug-stabilisierungsanordnung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis StaRUG Planbestätigung und Folgen trägt.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
 
 ---
 
@@ -216,23 +206,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. StaRUG Stabilisierungsanordnung: StarUG-Voraussetzungen, drohende Zahlungsunfähigkeit und Planbetroffenheit zuerst prüfen.
+2. Stabilisierungsanordnung, Planabstimmung und Planbestätigung nach Eingriffsgewicht und Gläubigergruppen trennen.
+3. Obstruktionsverbot, Minderheitenschutz, Vergleichsrechnung und Best-Interest-Test gesondert abarbeiten.
+4. Beschluss so fassen, dass Reichweite, Dauer und betroffene Forderungen eindeutig sind.
+5. Bekanntmachung, Zustellung und Rechtsmittel risikoorientiert steuern.
 
 ## Typische Fallstricke
 
@@ -246,19 +231,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `08-starug-restrukturierungssache-anzeigen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 09 StaRUG Stabilisierungsanordnung bearbeitet wird.
-- **Danach**: `10-starug-planbestaetigung-und-folgen` - Nutze diesen Folgeschritt, sobald 09 StaRUG Stabilisierungsanordnung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `08-starug-restrukturierungssache-anzeigen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis StaRUG Stabilisierungsanordnung trägt.
+- **Danach**: `10-starug-planbestaetigung-und-folgen` - Folgeskill nutzen, sobald StaRUG Stabilisierungsanordnung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -297,23 +282,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Sicherungsmaßnahmen Vor Eröffnung: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
+2. Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung anhand Aktenzahlen, Gutachten und Liquiditätsstatus trennen.
+3. Sicherungsmaßnahmen nur nach Erforderlichkeit, Verhältnismäßigkeit und konkreter Massegefährdung anordnen.
+4. Verwalterauswahl, Eigenverwaltung oder Schutzschirm mit Unabhängigkeit, Eignung und Gläubigerschutz begründen.
+5. Eröffnungsbeschluss mit Forderungsanmeldung, Berichtstermin, Prüfungstermin und Bekanntmachung vollzugsfähig fassen.
 
 ## Typische Fallstricke
 
@@ -327,19 +307,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `01-eroeffnungsantrag-pruefen-insolvenz` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 02 Sicherungsmaßnahmen Vor Eröffnung bearbeitet wird.
-- **Danach**: `03-eroeffnungsbeschluss-und-verwalterbestellung` - Nutze diesen Folgeschritt, sobald 02 Sicherungsmaßnahmen Vor Eröffnung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `01-eroeffnungsantrag-pruefen-insolvenz` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Sicherungsmaßnahmen Vor Eröffnung trägt.
+- **Danach**: `03-eroeffnungsbeschluss-und-verwalterbestellung` - Folgeskill nutzen, sobald Sicherungsmaßnahmen Vor Eröffnung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -378,23 +358,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. StaRUG Restrukturierungssache Anzeigen: StarUG-Voraussetzungen, drohende Zahlungsunfähigkeit und Planbetroffenheit zuerst prüfen.
+2. Stabilisierungsanordnung, Planabstimmung und Planbestätigung nach Eingriffsgewicht und Gläubigergruppen trennen.
+3. Obstruktionsverbot, Minderheitenschutz, Vergleichsrechnung und Best-Interest-Test gesondert abarbeiten.
+4. Beschluss so fassen, dass Reichweite, Dauer und betroffene Forderungen eindeutig sind.
+5. Bekanntmachung, Zustellung und Rechtsmittel risikoorientiert steuern.
 
 ## Typische Fallstricke
 
@@ -408,19 +383,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-insolvenzplan-bestaetigen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 StaRUG Restrukturierungssache Anzeigen bearbeitet wird.
-- **Danach**: `09-starug-stabilisierungsanordnung` - Nutze diesen Folgeschritt, sobald 08 StaRUG Restrukturierungssache Anzeigen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-insolvenzplan-bestaetigen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis StaRUG Restrukturierungssache Anzeigen trägt.
+- **Danach**: `09-starug-stabilisierungsanordnung` - Folgeskill nutzen, sobald StaRUG Restrukturierungssache Anzeigen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -428,7 +403,7 @@ Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Drei
 
 _Schlusstermin Paragraf 197 InsO, Schlussverteilung, Restschuldbefreiungsverfahren Paragrafen 286 ff. InsO, Versagungsgründe Paragraf 290, Obliegenheiten Paragraf 295_
 
-# 05 Restschuldbefreiung Und Schlusstermin
+# 05 Restschuldbefreiung und Schlusstermin
 
 ## Zweck
 
@@ -459,23 +434,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Restschuldbefreiung und Schlusstermin: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen.
+2. Gläubigerrechte, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Versagungsgründe getrennt prüfen.
+3. Masseinteresse, Verfahrensökonomie und rechtliches Gehör dokumentieren.
+4. Beschluss mit Tenor, Gründen, Zustellung und Rechtsmittelbelehrung formulieren.
+5. Bei Verbraucher- oder Regelinsolvenz Besonderheiten nicht vermengen.
 
 ## Typische Fallstricke
 
@@ -489,19 +459,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `04-glaeubigerversammlung-und-pruefungstermin` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 05 Restschuldbefreiung Und Schlusstermin bearbeitet wird.
-- **Danach**: `06-eigenverwaltung-und-schutzschirm` - Nutze diesen Folgeschritt, sobald 05 Restschuldbefreiung Und Schlusstermin als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `04-glaeubigerversammlung-und-pruefungstermin` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Restschuldbefreiung und Schlusstermin trägt.
+- **Danach**: `06-eigenverwaltung-und-schutzschirm` - Folgeskill nutzen, sobald Restschuldbefreiung und Schlusstermin entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -509,7 +479,7 @@ Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Drei
 
 _Eröffnungsbeschluss Paragraf 27 InsO, Bestellung Insolvenzverwalter, Bestimmung Berichts-, Prüfungs- und Schlusstermin, Veröffentlichung, Registereintragung_
 
-# 03 Eröffnungsbeschluss Und Verwalterbestellung
+# 03 Eröffnungsbeschluss und Verwalterbestellung
 
 ## Zweck
 
@@ -540,23 +510,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Eröffnungsbeschluss und Verwalterbestellung: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
+2. Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung anhand Aktenzahlen, Gutachten und Liquiditätsstatus trennen.
+3. Sicherungsmaßnahmen nur nach Erforderlichkeit, Verhältnismäßigkeit und konkreter Massegefährdung anordnen.
+4. Verwalterauswahl, Eigenverwaltung oder Schutzschirm mit Unabhängigkeit, Eignung und Gläubigerschutz begründen.
+5. Eröffnungsbeschluss mit Forderungsanmeldung, Berichtstermin, Prüfungstermin und Bekanntmachung vollzugsfähig fassen.
 
 ## Typische Fallstricke
 
@@ -570,19 +535,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-sicherungsmassnahmen-vor-eroeffnung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Eröffnungsbeschluss Und Verwalterbestellung bearbeitet wird.
-- **Danach**: `04-glaeubigerversammlung-und-pruefungstermin` - Nutze diesen Folgeschritt, sobald 03 Eröffnungsbeschluss Und Verwalterbestellung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-sicherungsmassnahmen-vor-eroeffnung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Eröffnungsbeschluss und Verwalterbestellung trägt.
+- **Danach**: `04-glaeubigerversammlung-und-pruefungstermin` - Folgeskill nutzen, sobald Eröffnungsbeschluss und Verwalterbestellung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -621,23 +586,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Eröffnungsantrag Prüfen Insolvenz: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
+2. Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung anhand Aktenzahlen, Gutachten und Liquiditätsstatus trennen.
+3. Sicherungsmaßnahmen nur nach Erforderlichkeit, Verhältnismäßigkeit und konkreter Massegefährdung anordnen.
+4. Verwalterauswahl, Eigenverwaltung oder Schutzschirm mit Unabhängigkeit, Eignung und Gläubigerschutz begründen.
+5. Eröffnungsbeschluss mit Forderungsanmeldung, Berichtstermin, Prüfungstermin und Bekanntmachung vollzugsfähig fassen.
 
 ## Typische Fallstricke
 
@@ -651,19 +611,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-starug-planbestaetigung-und-folgen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 01 Eröffnungsantrag Prüfen Insolvenz bearbeitet wird.
-- **Danach**: `02-sicherungsmassnahmen-vor-eroeffnung` - Nutze diesen Folgeschritt, sobald 01 Eröffnungsantrag Prüfen Insolvenz als gerichtlicher Arbeitsstand verwertbar ist.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
+- **Danach**: `02-sicherungsmassnahmen-vor-eroeffnung` - Folgeskill nutzen, sobald Eröffnungsantrag Prüfen Insolvenz entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -671,7 +631,7 @@ Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Drei
 
 _Gläubigerversammlung Paragrafen 74 ff. InsO, Berichtstermin Paragraf 156, Prüfungstermin Paragraf 176, Feststellung zur Tabelle Paragrafen 174 ff._
 
-# 04 Gläubigerversammlung Und Prüfungstermin
+# 04 Gläubigerversammlung und Prüfungstermin
 
 ## Zweck
 
@@ -702,23 +662,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Gläubigerversammlung und Prüfungstermin: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen.
+2. Gläubigerrechte, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Versagungsgründe getrennt prüfen.
+3. Masseinteresse, Verfahrensökonomie und rechtliches Gehör dokumentieren.
+4. Beschluss mit Tenor, Gründen, Zustellung und Rechtsmittelbelehrung formulieren.
+5. Bei Verbraucher- oder Regelinsolvenz Besonderheiten nicht vermengen.
 
 ## Typische Fallstricke
 
@@ -732,19 +687,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-eroeffnungsbeschluss-und-verwalterbestellung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Gläubigerversammlung Und Prüfungstermin bearbeitet wird.
-- **Danach**: `05-restschuldbefreiung-und-schlusstermin` - Nutze diesen Folgeschritt, sobald 04 Gläubigerversammlung Und Prüfungstermin als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-eroeffnungsbeschluss-und-verwalterbestellung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Gläubigerversammlung und Prüfungstermin trägt.
+- **Danach**: `05-restschuldbefreiung-und-schlusstermin` - Folgeskill nutzen, sobald Gläubigerversammlung und Prüfungstermin entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -752,7 +707,7 @@ Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Drei
 
 _Eigenverwaltung Paragrafen 270 ff. InsO, Eigenverwaltungsplanung Paragraf 270a, Schutzschirmverfahren Paragraf 270d, Sachwalter Paragraf 274_
 
-# 06 Eigenverwaltung Und Schutzschirm
+# 06 Eigenverwaltung und Schutzschirm
 
 ## Zweck
 
@@ -783,23 +738,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Eigenverwaltung und Schutzschirm: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
+2. Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung anhand Aktenzahlen, Gutachten und Liquiditätsstatus trennen.
+3. Sicherungsmaßnahmen nur nach Erforderlichkeit, Verhältnismäßigkeit und konkreter Massegefährdung anordnen.
+4. Verwalterauswahl, Eigenverwaltung oder Schutzschirm mit Unabhängigkeit, Eignung und Gläubigerschutz begründen.
+5. Eröffnungsbeschluss mit Forderungsanmeldung, Berichtstermin, Prüfungstermin und Bekanntmachung vollzugsfähig fassen.
 
 ## Typische Fallstricke
 
@@ -813,19 +763,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-restschuldbefreiung-und-schlusstermin` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 06 Eigenverwaltung Und Schutzschirm bearbeitet wird.
-- **Danach**: `07-insolvenzplan-bestaetigen` - Nutze diesen Folgeschritt, sobald 06 Eigenverwaltung Und Schutzschirm als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `05-restschuldbefreiung-und-schlusstermin` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Eigenverwaltung und Schutzschirm trägt.
+- **Danach**: `07-insolvenzplan-bestaetigen` - Folgeskill nutzen, sobald Eigenverwaltung und Schutzschirm entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 

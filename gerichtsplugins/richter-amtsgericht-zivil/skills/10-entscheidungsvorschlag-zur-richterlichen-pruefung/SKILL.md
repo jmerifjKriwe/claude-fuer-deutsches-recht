@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Entscheidungsvorschlag Zur Richterlichen Prüfung: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+1. Entscheidungsvorschlag Zur Richterlichen Prüfung: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
 2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
 3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
 4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `09-vergleich-und-erledigung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Zur Richterlichen Prüfung trägt.
+- **Davor**: `09-vergleich-und-erledigung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Zur Richterlichen Prüfung trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

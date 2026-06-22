@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Rechtsmittelbelehrung Strafkammer: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
+1. Rechtsmittelbelehrung Strafkammer: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
 2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
 3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
 4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
@@ -70,5 +70,5 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 ## Benachbarte Skills
 
-- **Davor**: `08-berufung-strafkammer` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Rechtsmittelbelehrung Strafkammer trägt.
-- **Danach**: `10-entscheidungsvorschlag-strafkammer` - Folgeschritt im selben Plugin; nutze ihn, sobald Rechtsmittelbelehrung Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `08-berufung-strafkammer` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Rechtsmittelbelehrung Strafkammer trägt.
+- **Danach**: `10-entscheidungsvorschlag-strafkammer` - Folgeskill nutzen, sobald Rechtsmittelbelehrung Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.

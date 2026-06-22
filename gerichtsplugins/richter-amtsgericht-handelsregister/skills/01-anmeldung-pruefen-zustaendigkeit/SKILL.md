@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Anmeldung Prüfen Zuständigkeit: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
+1. Anmeldung Prüfen Zuständigkeit: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
 2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
 3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
 4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
@@ -71,4 +71,4 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-firmenrecht-pruefen` - Folgeschritt im selben Plugin; nutze ihn, sobald Anmeldung Prüfen Zuständigkeit entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-firmenrecht-pruefen` - Folgeskill nutzen, sobald Anmeldung Prüfen Zuständigkeit entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Sitzungsdienst und Fragerecht Hauptverhandlung: Sitzungsrolle, Beweisthema, Verfahrensstand und Ziel des staatsanwaltschaftlichen Antrags zuerst bestimmen.
+1. Sitzungsdienst und Fragerecht Hauptverhandlung: Sitzungsrolle, Beweisthema, Verfahrensstand und Ziel des staatsanwaltschaftlichen Antrags zuerst bestimmen.
 2. Fragerecht, Beweisanträge, Verständigung, Befangenheit und Rechtsmittel nur auf aktenkundige Tatsachen stützen.
 3. Bei Verteidigeranträgen sofort Zulässigkeit, Begründetheit, Ablehnungsgrund und Protokollierungsbedarf trennen.
 4. Schlussvortrag nach Tatnachweis, rechtlicher Würdigung, Strafzumessung und Nebenfolgen gliedern.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `18-jugendsache-und-diversion-paragraf-45-jgg` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Sitzungsdienst und Fragerecht Hauptverhandlung trägt.
-- **Danach**: `20-plaedoyer-und-schlussvortrag-paragraf-258` - Folgeschritt im selben Plugin; nutze ihn, sobald Sitzungsdienst und Fragerecht Hauptverhandlung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `18-jugendsache-und-diversion-paragraf-45-jgg` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Sitzungsdienst und Fragerecht Hauptverhandlung trägt.
+- **Danach**: `20-plaedoyer-und-schlussvortrag-paragraf-258` - Folgeskill nutzen, sobald Sitzungsdienst und Fragerecht Hauptverhandlung entscheidungs- oder verfügungsreif vorbereitet ist.

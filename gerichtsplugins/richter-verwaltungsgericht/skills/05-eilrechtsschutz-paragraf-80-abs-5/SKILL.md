@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Eilrechtsschutz Paragraf 80 Abs 5: Statthaften Antrag, Antragsbefugnis, Rechtsschutzbedürfnis und Eilbedürftigkeit zuerst prüfen.
+1. Eilrechtsschutz Paragraf 80 Abs 5: Statthaften Antrag, Antragsbefugnis, Rechtsschutzbedürfnis und Eilbedürftigkeit zuerst prüfen.
 2. Anordnungsanspruch oder Erfolgsaussichten der Hauptsache vom Anordnungsgrund beziehungsweise Aussetzungsinteresse trennen.
 3. Bei Paragraf 80 Abs. 5 VwGO gesetzliche Sofortvollziehbarkeit, behördliche Anordnung und Begründung nach Paragraf 80 Abs. 3 VwGO prüfen.
 4. Folgenabwägung nur einsetzen, wenn die Erfolgsaussichten offen bleiben; Grundrechtsgewicht ausdrücklich benennen.
@@ -70,5 +70,5 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 
 ## Benachbarte Skills
 
-- **Davor**: `04-begruendetheit-verpflichtungsklage` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Eilrechtsschutz Paragraf 80 Abs 5 trägt.
-- **Danach**: `06-eilrechtsschutz-paragraf-123` - Folgeschritt im selben Plugin; nutze ihn, sobald Eilrechtsschutz Paragraf 80 Abs 5 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `04-begruendetheit-verpflichtungsklage` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Eilrechtsschutz Paragraf 80 Abs 5 trägt.
+- **Danach**: `06-eilrechtsschutz-paragraf-123` - Folgeskill nutzen, sobald Eilrechtsschutz Paragraf 80 Abs 5 entscheidungs- oder verfügungsreif vorbereitet ist.

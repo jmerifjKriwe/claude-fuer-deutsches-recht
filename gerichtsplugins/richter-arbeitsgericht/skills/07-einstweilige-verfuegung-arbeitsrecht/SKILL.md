@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus.
-- BAG, Urteil vom 19.02.2019 - 9 AZR 541/15, frei nachweisbar über dejure/openJur: Urlaubsansprüche verfallen nur bei ordnungsgemäßer Mitwirkung und klarem Hinweis des Arbeitgebers.
-- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind im Kündigungsschutzprozess sauber voneinander zu trennen.
+- Paragrafen 935, 940 ZPO in Verbindung mit Paragraf 62 ArbGG: Verfügungsanspruch und Verfügungsgrund müssen arbeitsgerichtlich getrennt glaubhaft gemacht werden.
+- Paragraf 940 ZPO: Beschäftigungs-, Unterlassungs- und Zutrittsbegehren verlangen konkrete Eilbedürftigkeit.
+- Paragraf 294 ZPO: Glaubhaftmachung ersetzt keine pauschale Behauptung, sondern verlangt präsente Mittel.
+- Ständige Rechtsprechung zum Weiterbeschäftigungsanspruch: Bestandsinteresse, Titulierbarkeit und Vorwegnahme der Hauptsache sind konkret abzuwägen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 890 ZPO: Ordnungsmittel müssen im Tenor vollstreckungsfähig vorbereitet werden.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Einstweilige Verfügung Arbeitsrecht: Schutzrichtung, Frist und Anspruchsziel zuerst erfassen.
+1. Einstweilige Verfügung Arbeitsrecht: Schutzrichtung, Frist und Anspruchsziel zuerst erfassen.
 2. Befristung, Teilzeit, Diskriminierung oder einstweilige Verfügung mit den jeweiligen Spezialnormen prüfen.
 3. Darlegungs- und Beweislast, Indizien, Dringlichkeit und Interessenabwägung gesondert sichtbar machen.
 4. Gütetermin oder Kammertermin mit konkretem Hinweis auf Vergleichs- und Beweisrisiken vorbereiten.
@@ -70,5 +71,5 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 
 ## Benachbarte Skills
 
-- **Davor**: `06-agg-diskriminierung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Einstweilige Verfügung Arbeitsrecht trägt.
-- **Danach**: `08-betriebsverfassung-beschlussverfahren` - Folgeschritt im selben Plugin; nutze ihn, sobald Einstweilige Verfügung Arbeitsrecht entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-agg-diskriminierung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Einstweilige Verfügung Arbeitsrecht trägt.
+- **Danach**: `08-betriebsverfassung-beschlussverfahren` - Folgeskill nutzen, sobald Einstweilige Verfügung Arbeitsrecht entscheidungs- oder verfügungsreif vorbereitet ist.

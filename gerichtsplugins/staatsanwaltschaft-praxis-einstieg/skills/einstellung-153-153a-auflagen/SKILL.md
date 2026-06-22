@@ -34,7 +34,7 @@ description: "Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begrün
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+1. Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
 2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
 3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
 4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.

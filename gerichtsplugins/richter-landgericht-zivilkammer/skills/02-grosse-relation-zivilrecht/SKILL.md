@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
+1. Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
 2. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
 3. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
 4. Beweisbedürftige Tatsachen nur aufnehmen, wenn sie streitig und entscheidungserheblich sind.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `01-eingang-und-besetzung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Große Relation Zivilrecht trägt.
-- **Danach**: `03-fruehe-erste-verfuegung-paragraf-139` - Folgeschritt im selben Plugin; nutze ihn, sobald Große Relation Zivilrecht entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-eingang-und-besetzung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Große Relation Zivilrecht trägt.
+- **Danach**: `03-fruehe-erste-verfuegung-paragraf-139` - Folgeskill nutzen, sobald Große Relation Zivilrecht entscheidungs- oder verfügungsreif vorbereitet ist.

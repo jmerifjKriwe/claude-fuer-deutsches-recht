@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
 - BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
-- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
+- Paragrafen 1601, 1602, 1603, 1610, 1612a und 1612b BGB: Anspruchsgrund, Bedürftigkeit, Leistungsfähigkeit, Bedarf, dynamischer Titel und Kindergeldanrechnung sind getrennt zu prüfen.
+- Paragraf 243 FamFG: Kosten in Unterhaltssachen folgen einer eigenen Billigkeitslogik.
+- Paragraf 235 FamFG: Auskunftsanordnung und Belegvorlage sind vor Schätzung oder Säumnisentscheidung auszuschöpfen.
+- Ständige Rechtsprechung zur Düsseldorfer Tabelle: Tabelle ist Hilfsmittel, ersetzt aber nicht Einkommensbereinigung, Bedarfskontrollbetrag und Mangelfallprüfung; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Kindesunterhalt Duesseldorfer Tabelle: Kindeswohl, Beteiligtenstellung, Anhörung des Kindes, Elternrechte und Jugendamtsbeteiligung zuerst prüfen.
+1. Kindesunterhalt Duesseldorfer Tabelle: Kindeswohl, Beteiligtenstellung, Anhörung des Kindes, Elternrechte und Jugendamtsbeteiligung zuerst prüfen.
 2. Sorge, Umgang, Aufenthaltsbestimmung und Schutzmaßnahmen getrennt behandeln.
 3. Eilbedürftigkeit, Verfahrensbeistand, Sachverständigengutachten und persönliche Anhörung konkret steuern.
 4. Kooperationsfähigkeit, Bindungen, Kontinuität und Kindeswille nur alters- und konfliktangemessen würdigen.
@@ -70,5 +71,5 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 
 ## Benachbarte Skills
 
-- **Davor**: `05-umgangsrecht-paragraf-1684-bgb` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Kindesunterhalt Duesseldorfer Tabelle trägt.
-- **Danach**: `07-ehegattenunterhalt-trennung-und-nachehe` - Folgeschritt im selben Plugin; nutze ihn, sobald Kindesunterhalt Duesseldorfer Tabelle entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-umgangsrecht-paragraf-1684-bgb` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kindesunterhalt Duesseldorfer Tabelle trägt.
+- **Danach**: `07-ehegattenunterhalt-trennung-und-nachehe` - Folgeskill nutzen, sobald Kindesunterhalt Duesseldorfer Tabelle entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Einziehung und Vermoegensabschoepfung: Tatertrag, Wertersatz, Drittbetroffene, Sicherungsbedarf und Vermögensarrest zuerst prüfen.
+1. Einziehung und Vermoegensabschoepfung: Tatertrag, Wertersatz, Drittbetroffene, Sicherungsbedarf und Vermögensarrest zuerst prüfen.
 2. Erlangtes, Surrogat, Nutzungen, Abzugsverbot und Entreicherung nicht vermengen.
 3. Drittbeteiligung, Verletztenansprüche und Insolvenzbezug ausdrücklich markieren.
 4. Sicherungsmaßnahme nach Arrestgrund, Betrag, Vollstreckbarkeit und Verhältnismäßigkeit begründen.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `16-sicherungsverfahren-und-massregeln` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Einziehung und Vermoegensabschoepfung trägt.
-- **Danach**: `18-jugendsache-und-diversion-paragraf-45-jgg` - Folgeschritt im selben Plugin; nutze ihn, sobald Einziehung und Vermoegensabschoepfung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `16-sicherungsverfahren-und-massregeln` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Einziehung und Vermoegensabschoepfung trägt.
+- **Danach**: `18-jugendsache-und-diversion-paragraf-45-jgg` - Folgeskill nutzen, sobald Einziehung und Vermoegensabschoepfung entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -54,24 +54,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör und effektiver Rechtsschutz verlangen eine fachgerichtliche Möglichkeit zur Selbstkorrektur entscheidungserheblicher Gehörsverstöße.
+- BVerfG, Beschluss vom 08.02.1994 - 1 BvR 1693/92, BVerfGE 90, 22: Annahmegründe nach Paragraf 93a Abs. 2 BVerfGG sind eigenständig zu prüfen und nicht mit der bloßen Begründetheitsprognose gleichzusetzen.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- Ständige Rechtsprechung zu Paragraf 93a BVerfGG: Annahmevotum und Nichtannahmebeschluss müssen zwischen grundsätzlicher verfassungsrechtlicher Bedeutung und Durchsetzungsannahme unterscheiden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Senat, Kammerzuständigkeit, Berichterstatterlinie und Entscheidungsform bestimmen: Nichtannahme, stattgebender Kammerbeschluss, Senatsvorlage oder einstweilige Anordnung.
+2. Zulässigkeit knapp, aber vollständig prüfen: Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, materielle Subsidiarität, Frist und Substantiierung.
+3. Annahmevoraussetzungen nach Paragraf 93a Abs. 2 BVerfGG ausdrücklich trennen: grundsätzliche Bedeutung oder Erforderlichkeit zur Durchsetzung eines Grundrechts.
+4. Begründetheit nur verfassungsrechtlich, nicht fachgerichtlich neu entscheiden: Schutzbereich, Eingriff, Rechtfertigung, spezifischer Verfassungsverstoß und fachgerichtliche Entscheidungsrelevanz.
+5. Votum mit Tenorvorschlag, tragender Kurzbegründung, Rückverweisung oder Nichtannahmeformel, Auslagen- und Gegenstandswertvorschlag abschließen.
 
 ## Typische Fallstricke
 
@@ -85,19 +80,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-kammer-und-senat-zustaendigkeit` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Votum Wissenschaftlicher Mitarbeiter bearbeitet wird.
-- **Danach**: `09-nichtannahmebeschluss-entwurf` - Nutze diesen Folgeschritt, sobald 08 Votum Wissenschaftlicher Mitarbeiter als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-kammer-und-senat-zustaendigkeit` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Votum Wissenschaftlicher Mitarbeiter trägt.
+- **Danach**: `09-nichtannahmebeschluss-entwurf` - Folgeskill nutzen, sobald Votum Wissenschaftlicher Mitarbeiter entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -136,24 +131,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Entscheidungsvorschlag Kammer BVerfG: Senat, Kammer, Berichterstatterzuständigkeit und Entscheidungsform zuerst bestimmen.
+2. Nichtannahme, stattgebender Kammerbeschluss oder Senatsentscheidung nach Annahmevoraussetzungen und Tragweite trennen.
+3. Tenor, Gründe, Gegenstandswert, Auslagenerstattung und Vollzugsfolgen aufeinander abstimmen.
+4. Fachgerichtliche Entscheidungsfolgen und Rückverweisung präzise formulieren.
+5. Veröffentlichungs- und Begründungsniveau an Bedeutung, Wiederholungsgefahr und Grundsatzcharakter anpassen.
 
 ## Typische Fallstricke
 
@@ -167,19 +157,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `09-nichtannahmebeschluss-entwurf` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 10 Entscheidungsvorschlag Kammer BVerfG bearbeitet wird.
-- **Danach**: `01-annahme-pruefung-paragraf-93a` - Nutze diesen Folgeschritt, sobald 10 Entscheidungsvorschlag Kammer BVerfG als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `09-nichtannahmebeschluss-entwurf` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Kammer BVerfG trägt.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
 
 ---
 
@@ -187,7 +177,7 @@ Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrec
 
 _Materielle Subsidiaritaet (zumutbare anderweitige Abhilfe, prozessuale Obliegenheiten), Beschwerdefrist Paragraf 93 BVerfGG (ein Monat bei Entscheidungen, ein Jahr bei Gesetzen), Wiedereinsetzung Paragraf 93 Abs. 2_
 
-# 04 Subsidiaritaet Und Frist
+# 04 Subsidiaritaet und Frist
 
 ## Zweck
 
@@ -218,24 +208,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Subsidiaritaet und Frist: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
+2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
+3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
+4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
+5. Votum mit Kammerzuständigkeit, Entscheidungsvorschlag und offenem Prüfbedarf abschließen.
 
 ## Typische Fallstricke
 
@@ -249,19 +234,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-rechtswegerschoepfung-paragraf-90-abs-2` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Subsidiaritaet Und Frist bearbeitet wird.
-- **Danach**: `05-grundrechtsdogmatik-pruefen` - Nutze diesen Folgeschritt, sobald 04 Subsidiaritaet Und Frist als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-rechtswegerschoepfung-paragraf-90-abs-2` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Subsidiaritaet und Frist trägt.
+- **Danach**: `05-grundrechtsdogmatik-pruefen` - Folgeskill nutzen, sobald Subsidiaritaet und Frist entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -300,24 +285,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Annahme Prüfung Paragraf 93A: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
+2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
+3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
+4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
+5. Votum mit Kammerzuständigkeit, Entscheidungsvorschlag und offenem Prüfbedarf abschließen.
 
 ## Typische Fallstricke
 
@@ -331,19 +311,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-kammer-bverfg` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 01 Annahme Prüfung Paragraf 93A bearbeitet wird.
-- **Danach**: `02-substantiierungs-pruefung-paragraf-92` - Nutze diesen Folgeschritt, sobald 01 Annahme Prüfung Paragraf 93A als gerichtlicher Arbeitsstand verwertbar ist.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
+- **Danach**: `02-substantiierungs-pruefung-paragraf-92` - Folgeskill nutzen, sobald Annahme Prüfung Paragraf 93A entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -382,24 +362,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Grundrechtsdogmatik Prüfen: Schutzbereich, Eingriff, Schranke, Schranken-Schranke und verfassungsrechtlichen Prüfungsmaßstab festlegen.
+2. Fachrechtliche Fehler nur als spezifische Verfassungsverletzung erfassen; keine Superrevisionsinstanz eröffnen.
+3. Verhältnismäßigkeit mit legitimer Zwecksetzung, Geeignetheit, Erforderlichkeit und Angemessenheit ausformulieren.
+4. Gehör, Willkür, effektiver Rechtsschutz und Gleichheit gesondert prüfen, wenn der Beschwerdevortrag darauf zielt.
+5. Entscheidungsvorschlag mit Aufhebung, Zurückverweisung, Nichtannahme oder Stattgabeoption begründen.
 
 ## Typische Fallstricke
 
@@ -413,19 +388,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `04-subsidiaritaet-und-frist` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 05 Grundrechtsdogmatik Prüfen bearbeitet wird.
-- **Danach**: `06-fachgerichtliche-entscheidung-pruefen` - Nutze diesen Folgeschritt, sobald 05 Grundrechtsdogmatik Prüfen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `04-subsidiaritaet-und-frist` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Grundrechtsdogmatik Prüfen trägt.
+- **Danach**: `06-fachgerichtliche-entscheidung-pruefen` - Folgeskill nutzen, sobald Grundrechtsdogmatik Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -464,24 +439,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Substantiierungs Prüfung Paragraf 92: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
+2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
+3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
+4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
+5. Votum mit Kammerzuständigkeit, Entscheidungsvorschlag und offenem Prüfbedarf abschließen.
 
 ## Typische Fallstricke
 
@@ -495,19 +465,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `01-annahme-pruefung-paragraf-93a` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 02 Substantiierungs Prüfung Paragraf 92 bearbeitet wird.
-- **Danach**: `03-rechtswegerschoepfung-paragraf-90-abs-2` - Nutze diesen Folgeschritt, sobald 02 Substantiierungs Prüfung Paragraf 92 als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `01-annahme-pruefung-paragraf-93a` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Substantiierungs Prüfung Paragraf 92 trägt.
+- **Danach**: `03-rechtswegerschoepfung-paragraf-90-abs-2` - Folgeskill nutzen, sobald Substantiierungs Prüfung Paragraf 92 entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -546,24 +516,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Rechtswegerschoepfung Paragraf 90 Abs 2: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
+2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
+3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
+4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
+5. Votum mit Kammerzuständigkeit, Entscheidungsvorschlag und offenem Prüfbedarf abschließen.
 
 ## Typische Fallstricke
 
@@ -577,19 +542,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-substantiierungs-pruefung-paragraf-92` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Rechtswegerschoepfung Paragraf 90 Abs 2 bearbeitet wird.
-- **Danach**: `04-subsidiaritaet-und-frist` - Nutze diesen Folgeschritt, sobald 03 Rechtswegerschoepfung Paragraf 90 Abs 2 als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-substantiierungs-pruefung-paragraf-92` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Rechtswegerschoepfung Paragraf 90 Abs 2 trägt.
+- **Danach**: `04-subsidiaritaet-und-frist` - Folgeskill nutzen, sobald Rechtswegerschoepfung Paragraf 90 Abs 2 entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -597,7 +562,7 @@ Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrec
 
 _Zuständigkeit Kammer (drei Richter) Paragraf 93b BVerfGG vs. Senatszuständigkeit, Annahmebeschluss durch Kammer, Senatsannahme bei besonderer Bedeutung, einstimmige Nichtannahme_
 
-# 07 Kammer Und Senat Zuständigkeit
+# 07 Kammer und Senat Zuständigkeit
 
 ## Zweck
 
@@ -628,24 +593,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Kammer und Senat Zuständigkeit: Senat, Kammer, Berichterstatterzuständigkeit und Entscheidungsform zuerst bestimmen.
+2. Nichtannahme, stattgebender Kammerbeschluss oder Senatsentscheidung nach Annahmevoraussetzungen und Tragweite trennen.
+3. Tenor, Gründe, Gegenstandswert, Auslagenerstattung und Vollzugsfolgen aufeinander abstimmen.
+4. Fachgerichtliche Entscheidungsfolgen und Rückverweisung präzise formulieren.
+5. Veröffentlichungs- und Begründungsniveau an Bedeutung, Wiederholungsgefahr und Grundsatzcharakter anpassen.
 
 ## Typische Fallstricke
 
@@ -659,19 +619,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-fachgerichtliche-entscheidung-pruefen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 07 Kammer Und Senat Zuständigkeit bearbeitet wird.
-- **Danach**: `08-votum-wissenschaftlicher-mitarbeiter` - Nutze diesen Folgeschritt, sobald 07 Kammer Und Senat Zuständigkeit als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-fachgerichtliche-entscheidung-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kammer und Senat Zuständigkeit trägt.
+- **Danach**: `08-votum-wissenschaftlicher-mitarbeiter` - Folgeskill nutzen, sobald Kammer und Senat Zuständigkeit entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -710,24 +670,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Fachgerichtliche Entscheidung Prüfen: Schutzbereich, Eingriff, Schranke, Schranken-Schranke und verfassungsrechtlichen Prüfungsmaßstab festlegen.
+2. Fachrechtliche Fehler nur als spezifische Verfassungsverletzung erfassen; keine Superrevisionsinstanz eröffnen.
+3. Verhältnismäßigkeit mit legitimer Zwecksetzung, Geeignetheit, Erforderlichkeit und Angemessenheit ausformulieren.
+4. Gehör, Willkür, effektiver Rechtsschutz und Gleichheit gesondert prüfen, wenn der Beschwerdevortrag darauf zielt.
+5. Entscheidungsvorschlag mit Aufhebung, Zurückverweisung, Nichtannahme oder Stattgabeoption begründen.
 
 ## Typische Fallstricke
 
@@ -741,19 +696,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-grundrechtsdogmatik-pruefen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 06 Fachgerichtliche Entscheidung Prüfen bearbeitet wird.
-- **Danach**: `07-kammer-und-senat-zustaendigkeit` - Nutze diesen Folgeschritt, sobald 06 Fachgerichtliche Entscheidung Prüfen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `05-grundrechtsdogmatik-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Fachgerichtliche Entscheidung Prüfen trägt.
+- **Danach**: `07-kammer-und-senat-zustaendigkeit` - Folgeskill nutzen, sobald Fachgerichtliche Entscheidung Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -792,24 +747,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Nichtannahmebeschluss Entwurf: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
+2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
+3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
+4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
+5. Votum mit Kammerzuständigkeit, Entscheidungsvorschlag und offenem Prüfbedarf abschließen.
 
 ## Typische Fallstricke
 
@@ -823,19 +773,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `08-votum-wissenschaftlicher-mitarbeiter` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 09 Nichtannahmebeschluss Entwurf bearbeitet wird.
-- **Danach**: `10-entscheidungsvorschlag-kammer-bverfg` - Nutze diesen Folgeschritt, sobald 09 Nichtannahmebeschluss Entwurf als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `08-votum-wissenschaftlicher-mitarbeiter` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Nichtannahmebeschluss Entwurf trägt.
+- **Danach**: `10-entscheidungsvorschlag-kammer-bverfg` - Folgeskill nutzen, sobald Nichtannahmebeschluss Entwurf entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 

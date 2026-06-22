@@ -48,14 +48,15 @@ Der Skill prüft nach Urteil oder Paragraf 72-Beschluss, ob die Staatsanwaltscha
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
+- Paragrafen 79 und 80 OWiG: Rechtsbeschwerde, Zulassung und Beschränkung sind vor jeder staatsanwaltschaftlichen Stellungnahme zu trennen.
+- Paragrafen 344, 345 und 349 StPO entsprechend über Paragraf 79 Abs. 3 OWiG: Sachrüge und Verfahrensrüge brauchen unterschiedliche Begründungstiefe.
+- Paragraf 80 Abs. 1 OWiG: Zulassung kommt insbesondere zur Fortbildung des Rechts, Sicherung einheitlicher Rechtsprechung oder bei Gehörsverletzung in Betracht.
+- Paragraf 79 Abs. 1 OWiG: Statthafte Rechtsbeschwerde hängt von Geldbuße, Nebenfolge und Zulassung ab.
+- Ständige Rechtsprechung zu OWi-Rechtsbeschwerden: Pauschaler Angriff auf Beweiswürdigung ersetzt keine zulässige Verfahrensrüge; konkretes OLG-Aktenzeichen vor produktiver Zitierung verifizieren.
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Rechtsbeschwerde im OWi-Verfahren: Zulässigkeit, Zulassung, Frist und StA-Entscheidung: Tatbestand, Zuständigkeit der Verwaltungsbehörde, Einspruchslage und gerichtliche Rolle zuerst prüfen.
+1. Rechtsbeschwerde im OWi-Verfahren: Zulässigkeit, Zulassung, Frist und StA-Entscheidung: Tatbestand, Zuständigkeit der Verwaltungsbehörde, Einspruchslage und gerichtliche Rolle zuerst prüfen.
 2. Bußgeldbescheid, Einspruchsfrist, Aktenvorlage, Opportunität und Verfahrenshindernisse getrennt kontrollieren.
 3. Datenschutz-, Verkehrs- oder Wirtschafts-OWi nach Spezialgesetz und OWiG-Tatbestand subsumieren.
 4. Beweismaß, Betroffenenrechte und Unternehmensgeldbuße gesondert behandeln.

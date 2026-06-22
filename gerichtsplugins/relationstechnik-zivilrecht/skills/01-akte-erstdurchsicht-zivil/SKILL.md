@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Akte Erstdurchsicht Zivil: Antrag, Verteidigung, Verfahrensstand, Fristen und gewünschtes Arbeitsprodukt in einem Eingangssatz festlegen.
+1. Akte Erstdurchsicht Zivil: Antrag, Verteidigung, Verfahrensstand, Fristen und gewünschtes Arbeitsprodukt in einem Eingangssatz festlegen.
 2. Aktenstücke chronologisch ordnen: Klage, Anlagen, Zustellnachweise, Verteidigungsanzeige, Schriftsatzfolge, gerichtliche Hinweise und Protokolle getrennt erfassen.
 3. Tatsachen nach unstreitig, bestritten, nicht hinreichend bestritten und beweisbedürftig markieren; bloße Rechtsansichten nicht als Tatsachen übernehmen.
 4. Aus dem Parteivortrag eine streitstandsgeeignete Arbeitstabelle mit Antrag, Anspruchsziel, Einwendung, Einrede, Beweismittel und Normbezug erstellen.
@@ -72,4 +72,4 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-parteivortrag-strukturieren` - Folgeschritt im selben Plugin; nutze ihn, sobald Akte Erstdurchsicht Zivil entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-parteivortrag-strukturieren` - Folgeskill nutzen, sobald Akte Erstdurchsicht Zivil entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Firmenrecht Prüfen: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
+1. Firmenrecht Prüfen: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
 2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
 3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
 4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
@@ -70,5 +70,5 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `01-anmeldung-pruefen-zustaendigkeit` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Firmenrecht Prüfen trägt.
-- **Danach**: `03-gesellschaftsvertrag-pruefen-gmbh` - Folgeschritt im selben Plugin; nutze ihn, sobald Firmenrecht Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-anmeldung-pruefen-zustaendigkeit` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Firmenrecht Prüfen trägt.
+- **Danach**: `03-gesellschaftsvertrag-pruefen-gmbh` - Folgeskill nutzen, sobald Firmenrecht Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.

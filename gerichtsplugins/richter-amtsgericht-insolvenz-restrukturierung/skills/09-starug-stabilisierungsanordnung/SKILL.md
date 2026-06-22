@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt StaRUG Stabilisierungsanordnung: StarUG-Voraussetzungen, drohende Zahlungsunfähigkeit und Planbetroffenheit zuerst prüfen.
+1. StaRUG Stabilisierungsanordnung: StarUG-Voraussetzungen, drohende Zahlungsunfähigkeit und Planbetroffenheit zuerst prüfen.
 2. Stabilisierungsanordnung, Planabstimmung und Planbestätigung nach Eingriffsgewicht und Gläubigergruppen trennen.
 3. Obstruktionsverbot, Minderheitenschutz, Vergleichsrechnung und Best-Interest-Test gesondert abarbeiten.
 4. Beschluss so fassen, dass Reichweite, Dauer und betroffene Forderungen eindeutig sind.
@@ -70,5 +70,5 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 
 ## Benachbarte Skills
 
-- **Davor**: `08-starug-restrukturierungssache-anzeigen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis StaRUG Stabilisierungsanordnung trägt.
-- **Danach**: `10-starug-planbestaetigung-und-folgen` - Folgeschritt im selben Plugin; nutze ihn, sobald StaRUG Stabilisierungsanordnung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `08-starug-restrukturierungssache-anzeigen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis StaRUG Stabilisierungsanordnung trägt.
+- **Danach**: `10-starug-planbestaetigung-und-folgen` - Folgeskill nutzen, sobald StaRUG Stabilisierungsanordnung entscheidungs- oder verfügungsreif vorbereitet ist.

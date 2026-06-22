@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Eilrechtsschutz Paragraf 123: Statthaften Antrag, Antragsbefugnis, Rechtsschutzbedürfnis und Eilbedürftigkeit zuerst prüfen.
+1. Eilrechtsschutz Paragraf 123: Statthaften Antrag, Antragsbefugnis, Rechtsschutzbedürfnis und Eilbedürftigkeit zuerst prüfen.
 2. Anordnungsanspruch oder Erfolgsaussichten der Hauptsache vom Anordnungsgrund beziehungsweise Aussetzungsinteresse trennen.
 3. Bei Paragraf 80 Abs. 5 VwGO gesetzliche Sofortvollziehbarkeit, behördliche Anordnung und Begründung nach Paragraf 80 Abs. 3 VwGO prüfen.
 4. Folgenabwägung nur einsetzen, wenn die Erfolgsaussichten offen bleiben; Grundrechtsgewicht ausdrücklich benennen.
@@ -70,5 +70,5 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 
 ## Benachbarte Skills
 
-- **Davor**: `05-eilrechtsschutz-paragraf-80-abs-5` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Eilrechtsschutz Paragraf 123 trägt.
-- **Danach**: `07-beweisaufnahme-verwaltungsgericht` - Folgeschritt im selben Plugin; nutze ihn, sobald Eilrechtsschutz Paragraf 123 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-eilrechtsschutz-paragraf-80-abs-5` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Eilrechtsschutz Paragraf 123 trägt.
+- **Danach**: `07-beweisaufnahme-verwaltungsgericht` - Folgeskill nutzen, sobald Eilrechtsschutz Paragraf 123 entscheidungs- oder verfügungsreif vorbereitet ist.

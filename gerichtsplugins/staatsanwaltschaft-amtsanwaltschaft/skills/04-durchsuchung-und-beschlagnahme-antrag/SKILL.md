@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Durchsuchung und Beschlagnahme Antrag: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+1. Durchsuchung und Beschlagnahme Antrag: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
 2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
 3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
 4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.
@@ -70,5 +70,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `03-ermittlungsfuehrung-und-ermittlungsanweisung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Durchsuchung und Beschlagnahme Antrag trägt.
-- **Danach**: `05-haftbefehlsantrag-und-untersuchungshaft` - Folgeschritt im selben Plugin; nutze ihn, sobald Durchsuchung und Beschlagnahme Antrag entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `03-ermittlungsfuehrung-und-ermittlungsanweisung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Durchsuchung und Beschlagnahme Antrag trägt.
+- **Danach**: `05-haftbefehlsantrag-und-untersuchungshaft` - Folgeskill nutzen, sobald Durchsuchung und Beschlagnahme Antrag entscheidungs- oder verfügungsreif vorbereitet ist.

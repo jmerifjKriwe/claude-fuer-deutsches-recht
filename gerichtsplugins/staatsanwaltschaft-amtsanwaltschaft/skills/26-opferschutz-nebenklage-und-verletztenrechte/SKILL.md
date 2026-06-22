@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Opferschutz Nebenklage und Verletztenrechte: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+1. Opferschutz Nebenklage und Verletztenrechte: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
 2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
 3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
 4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `25-adhaesionsverfahren-paragraf-403` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Opferschutz Nebenklage und Verletztenrechte trägt.
-- **Danach**: `27-wiederaufnahme-zuungunsten-paragraf-362` - Folgeschritt im selben Plugin; nutze ihn, sobald Opferschutz Nebenklage und Verletztenrechte entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `25-adhaesionsverfahren-paragraf-403` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Opferschutz Nebenklage und Verletztenrechte trägt.
+- **Danach**: `27-wiederaufnahme-zuungunsten-paragraf-362` - Folgeskill nutzen, sobald Opferschutz Nebenklage und Verletztenrechte entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus.
-- BAG, Urteil vom 19.02.2019 - 9 AZR 541/15, frei nachweisbar über dejure/openJur: Urlaubsansprüche verfallen nur bei ordnungsgemäßer Mitwirkung und klarem Hinweis des Arbeitgebers.
-- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind im Kündigungsschutzprozess sauber voneinander zu trennen.
+- Paragrafen 14, 15 und 17 TzBfG: Sachgrund, Schriftform, Laufzeit und Entfristungsklagefrist sind die tragenden Stationen.
+- Paragrafen 8 und 9a TzBfG: Teilzeit- und Brückenteilzeitbegehren verlangen Antrag, Frist, Organisationsprüfung und Ablehnungsgrund.
+- Ständige Rechtsprechung des BAG zur sachgrundlosen Befristung: Vorbeschäftigung, institutioneller Rechtsmissbrauch und Schriftform sind gesondert zu prüfen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 307 BGB: Vorformulierte Befristungs- oder Arbeitszeitklauseln bleiben zusätzlich AGB-rechtlich kontrollfähig.
+- Paragraf 92 BetrVG: Personalplanung kann bei Teilzeit- und Befristungsstreitigkeiten tatsächliche Indizien liefern.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Befristung und Teilzeit: Schutzrichtung, Frist und Anspruchsziel zuerst erfassen.
+1. Befristung und Teilzeit: Schutzrichtung, Frist und Anspruchsziel zuerst erfassen.
 2. Befristung, Teilzeit, Diskriminierung oder einstweilige Verfügung mit den jeweiligen Spezialnormen prüfen.
 3. Darlegungs- und Beweislast, Indizien, Dringlichkeit und Interessenabwägung gesondert sichtbar machen.
 4. Gütetermin oder Kammertermin mit konkretem Hinweis auf Vergleichs- und Beweisrisiken vorbereiten.
@@ -70,5 +71,5 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 
 ## Benachbarte Skills
 
-- **Davor**: `04-betriebsuebergang-und-tarif` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Befristung und Teilzeit trägt.
-- **Danach**: `06-agg-diskriminierung` - Folgeschritt im selben Plugin; nutze ihn, sobald Befristung und Teilzeit entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `04-betriebsuebergang-und-tarif` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Befristung und Teilzeit trägt.
+- **Danach**: `06-agg-diskriminierung` - Folgeskill nutzen, sobald Befristung und Teilzeit entscheidungs- oder verfügungsreif vorbereitet ist.

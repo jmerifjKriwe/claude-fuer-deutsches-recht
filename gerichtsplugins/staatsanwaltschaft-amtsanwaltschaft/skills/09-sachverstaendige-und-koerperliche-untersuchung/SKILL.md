@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Sachverstaendige und Koerperliche Untersuchung: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+1. Sachverstaendige und Koerperliche Untersuchung: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
 2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
 3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
 4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `08-beschuldigtenvernehmung-und-belehrung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Sachverstaendige und Koerperliche Untersuchung trägt.
-- **Danach**: `10-einstellung-mangels-tatverdacht-paragraf-170` - Folgeschritt im selben Plugin; nutze ihn, sobald Sachverstaendige und Koerperliche Untersuchung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `08-beschuldigtenvernehmung-und-belehrung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Sachverstaendige und Koerperliche Untersuchung trägt.
+- **Danach**: `10-einstellung-mangels-tatverdacht-paragraf-170` - Folgeskill nutzen, sobald Sachverstaendige und Koerperliche Untersuchung entscheidungs- oder verfügungsreif vorbereitet ist.

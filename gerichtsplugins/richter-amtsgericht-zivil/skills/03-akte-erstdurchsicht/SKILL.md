@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Akte Erstdurchsicht: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
+1. Akte Erstdurchsicht: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
 2. Klage nach Paragraf 253 ZPO auf Antrag, Parteien, Lebenssachverhalt, Bezifferung, Anlagen und Zustellfähigkeit kontrollieren.
 3. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Paragraf 495a ZPO oder Sonderzuständigkeit.
 4. Fristen und Kostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen können.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `02-streitwert-und-gerichtskosten` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Akte Erstdurchsicht trägt.
-- **Danach**: `04-relation-zivilrecht-klein` - Folgeschritt im selben Plugin; nutze ihn, sobald Akte Erstdurchsicht entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `02-streitwert-und-gerichtskosten` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Akte Erstdurchsicht trägt.
+- **Danach**: `04-relation-zivilrecht-klein` - Folgeskill nutzen, sobald Akte Erstdurchsicht entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Eröffnungsbeschluss und Verwalterbestellung: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
+1. Eröffnungsbeschluss und Verwalterbestellung: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
 2. Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung anhand Aktenzahlen, Gutachten und Liquiditätsstatus trennen.
 3. Sicherungsmaßnahmen nur nach Erforderlichkeit, Verhältnismäßigkeit und konkreter Massegefährdung anordnen.
 4. Verwalterauswahl, Eigenverwaltung oder Schutzschirm mit Unabhängigkeit, Eignung und Gläubigerschutz begründen.
@@ -70,5 +70,5 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 
 ## Benachbarte Skills
 
-- **Davor**: `02-sicherungsmassnahmen-vor-eroeffnung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Eröffnungsbeschluss und Verwalterbestellung trägt.
-- **Danach**: `04-glaeubigerversammlung-und-pruefungstermin` - Folgeschritt im selben Plugin; nutze ihn, sobald Eröffnungsbeschluss und Verwalterbestellung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `02-sicherungsmassnahmen-vor-eroeffnung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Eröffnungsbeschluss und Verwalterbestellung trägt.
+- **Danach**: `04-glaeubigerversammlung-und-pruefungstermin` - Folgeskill nutzen, sobald Eröffnungsbeschluss und Verwalterbestellung entscheidungs- oder verfügungsreif vorbereitet ist.

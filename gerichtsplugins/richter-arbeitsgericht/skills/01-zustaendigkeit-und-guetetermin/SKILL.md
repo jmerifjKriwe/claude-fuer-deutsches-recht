@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus.
-- BAG, Urteil vom 19.02.2019 - 9 AZR 541/15, frei nachweisbar über dejure/openJur: Urlaubsansprüche verfallen nur bei ordnungsgemäßer Mitwirkung und klarem Hinweis des Arbeitgebers.
-- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind im Kündigungsschutzprozess sauber voneinander zu trennen.
+- Paragrafen 2, 2a, 46 und 54 ArbGG: Rechtsweg, Verfahrensart, Güteverhandlung und frühe Terminssteuerung müssen vor materieller Prüfung feststehen.
+- BAG, Beschluss vom 22.10.2014 - 10 AZB 46/14, frei nachweisbar über dejure: Der Rechtsweg zu den Gerichten für Arbeitssachen hängt von Arbeitnehmereigenschaft und Streitgegenstand ab.
+- Ständige Rechtsprechung zu Paragraf 54 ArbGG: Gütetermin dient ernsthafter Vergleichsanbahnung, ersetzt aber keine ungeordnete materiell-rechtliche Vorentscheidung; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragrafen 61a und 64 ArbGG: Beschleunigung und Berufungsfähigkeit sind schon bei der Terminsverfügung mitzudenken.
+- Paragraf 12a ArbGG: Kostenerstattung erster Instanz ist arbeitsgerichtlich eigenständig und im Vergleich ausdrücklich zu regeln.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Zuständigkeit und Guetetermin: Rechtsweg, örtliche Zuständigkeit, Verfahrensart und Güteverhandlung zuerst steuern.
+1. Zuständigkeit und Guetetermin: Rechtsweg, örtliche Zuständigkeit, Verfahrensart und Güteverhandlung zuerst steuern.
 2. Klageanträge auf Bestimmtheit, Fälligkeit, Fristen und tarifliche Ausschlussfristen prüfen.
 3. Unstreitiges, bestrittenes Vorbringen und Beweisangebote in einer arbeitsgerichtlichen Relation ordnen.
 4. Hinweise so formulieren, dass beide Seiten Vergleichs- und Prozessrisiken verstehen.
@@ -71,4 +72,4 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-kuendigungsschutzklage-pruefen` - Folgeschritt im selben Plugin; nutze ihn, sobald Zuständigkeit und Guetetermin entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-kuendigungsschutzklage-pruefen` - Folgeskill nutzen, sobald Zuständigkeit und Guetetermin entscheidungs- oder verfügungsreif vorbereitet ist.

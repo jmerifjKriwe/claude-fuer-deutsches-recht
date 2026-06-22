@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus.
-- BAG, Urteil vom 19.02.2019 - 9 AZR 541/15, frei nachweisbar über dejure/openJur: Urlaubsansprüche verfallen nur bei ordnungsgemäßer Mitwirkung und klarem Hinweis des Arbeitgebers.
-- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind im Kündigungsschutzprozess sauber voneinander zu trennen.
+- Paragrafen 1, 2, 7, 15 und 22 AGG: Merkmal, Benachteiligung, Rechtfertigung, Entschädigung und Beweiserleichterung sind strikt zu trennen.
+- EuGH, Urteil vom 17.07.2008 - C-303/06, Coleman: Diskriminierungsschutz kann auch bei Benachteiligung wegen Nähe zu einer geschützten Person eingreifen.
+- BAG, Urteil vom 19.02.2015 - 8 AZR 1007/13, frei nachweisbar über dejure/openJur: Indizien nach Paragraf 22 AGG müssen eine überwiegende Wahrscheinlichkeit für Benachteiligung tragen.
+- Paragraf 61b ArbGG: Klagefrist für Entschädigungsansprüche ist gesondert von der schriftlichen Geltendmachung zu prüfen.
+- Ständige Rechtsprechung zu Stellenausschreibungen und Indizien: Wortlaut, Auswahlvermerk und Vergleichspersonen müssen aktenbezogen ausgewertet werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Agg Diskriminierung: Schutzrichtung, Frist und Anspruchsziel zuerst erfassen.
+1. Agg Diskriminierung: Schutzrichtung, Frist und Anspruchsziel zuerst erfassen.
 2. Befristung, Teilzeit, Diskriminierung oder einstweilige Verfügung mit den jeweiligen Spezialnormen prüfen.
 3. Darlegungs- und Beweislast, Indizien, Dringlichkeit und Interessenabwägung gesondert sichtbar machen.
 4. Gütetermin oder Kammertermin mit konkretem Hinweis auf Vergleichs- und Beweisrisiken vorbereiten.
@@ -70,5 +71,5 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 
 ## Benachbarte Skills
 
-- **Davor**: `05-befristung-und-teilzeit` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Agg Diskriminierung trägt.
-- **Danach**: `07-einstweilige-verfuegung-arbeitsrecht` - Folgeschritt im selben Plugin; nutze ihn, sobald Agg Diskriminierung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-befristung-und-teilzeit` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Agg Diskriminierung trägt.
+- **Danach**: `07-einstweilige-verfuegung-arbeitsrecht` - Folgeskill nutzen, sobald Agg Diskriminierung entscheidungs- oder verfügungsreif vorbereitet ist.

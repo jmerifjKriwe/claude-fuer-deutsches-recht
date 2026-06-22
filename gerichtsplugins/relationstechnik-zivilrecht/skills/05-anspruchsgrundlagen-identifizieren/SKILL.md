@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Anspruchsgrundlagen Identifizieren: Klageantrag, Streitgegenstand und passende Anspruchsgrundlagen in der Reihenfolge der Klägerstation festlegen.
+1. Anspruchsgrundlagen Identifizieren: Klageantrag, Streitgegenstand und passende Anspruchsgrundlagen in der Reihenfolge der Klägerstation festlegen.
 2. Anspruchsgrundlagen in Prüfungsreihenfolge notieren; vertragliche, gesetzliche, dingliche und bereicherungsrechtliche Anspruchsziele nicht vermengen.
 3. Schlüssigkeit nur nach dem Klägervortrag prüfen: jedes Tatbestandsmerkmal mit Tatsachenvortrag, Anlage und Beweisangebot verbinden.
 4. Fehlende Tatsachen als Hinweisproblem kennzeichnen; keine Beweisaufnahme für unschlüssigen Vortrag anstoßen.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `04-klage-antrag-auslegen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Anspruchsgrundlagen Identifizieren trägt.
-- **Danach**: `06-schluessigkeit-pruefen` - Folgeschritt im selben Plugin; nutze ihn, sobald Anspruchsgrundlagen Identifizieren entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `04-klage-antrag-auslegen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Anspruchsgrundlagen Identifizieren trägt.
+- **Danach**: `06-schluessigkeit-pruefen` - Folgeskill nutzen, sobald Anspruchsgrundlagen Identifizieren entscheidungs- oder verfügungsreif vorbereitet ist.

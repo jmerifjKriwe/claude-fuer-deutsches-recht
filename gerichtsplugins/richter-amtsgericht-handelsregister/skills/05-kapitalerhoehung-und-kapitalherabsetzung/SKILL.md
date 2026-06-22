@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Kapitalerhoehung und Kapitalherabsetzung: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
+1. Kapitalerhoehung und Kapitalherabsetzung: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
 2. Formelle Voraussetzungen prüfen: elektronische Einreichung, notarielle Beglaubigung, Vertretungsmacht, Vollmacht und Urkundenlage.
 3. Materielle Eintragungsfähigkeit anhand HGB, GmbHG, AktG, UmwG, GenG oder Vereinsrecht abarbeiten.
 4. Bei Zweifeln nur registerrelevante Tatsachen aufklären; zivilrechtliche Binnenstreitigkeiten nicht als Hauptsacheprozess entscheiden.
@@ -70,5 +70,5 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `04-vertretungsmacht-und-prokura` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Kapitalerhoehung und Kapitalherabsetzung trägt.
-- **Danach**: `06-umwandlung-eintragen` - Folgeschritt im selben Plugin; nutze ihn, sobald Kapitalerhoehung und Kapitalherabsetzung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `04-vertretungsmacht-und-prokura` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kapitalerhoehung und Kapitalherabsetzung trägt.
+- **Danach**: `06-umwandlung-eintragen` - Folgeskill nutzen, sobald Kapitalerhoehung und Kapitalherabsetzung entscheidungs- oder verfügungsreif vorbereitet ist.

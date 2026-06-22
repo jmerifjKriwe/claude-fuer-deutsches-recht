@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Haftbefehlsantrag und Untersuchungshaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+1. Haftbefehlsantrag und Untersuchungshaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
 2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
 3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
 4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
@@ -70,5 +70,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `04-durchsuchung-und-beschlagnahme-antrag` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Haftbefehlsantrag und Untersuchungshaft trägt.
-- **Danach**: `06-vorlaeufige-festnahme-und-eilkompetenz` - Folgeschritt im selben Plugin; nutze ihn, sobald Haftbefehlsantrag und Untersuchungshaft entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `04-durchsuchung-und-beschlagnahme-antrag` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Haftbefehlsantrag und Untersuchungshaft trägt.
+- **Danach**: `06-vorlaeufige-festnahme-und-eilkompetenz` - Folgeskill nutzen, sobald Haftbefehlsantrag und Untersuchungshaft entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
-- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
+- Paragrafen 26, 38, 39, 81 und 84 FamFG: Entscheidungsvorschlag muss Amtsermittlung, Beschlussformel, Bekanntgabe, Kosten und Rechtsmittel geschlossen abbilden.
+- Paragrafen 158 und 159 FamFG: Bei Kindschaftssachen sind Verfahrensbeistand und Kindesanhörung im Vorschlag ausdrücklich abzuhaken.
+- Paragraf 137 FamFG: Scheidungsverbund und Folgesachen sind vor Endentscheidung auf Abtrennung oder Entscheidungsreife zu prüfen.
+- BVerfG, Beschluss vom 22.05.2014 - 1 BvR 2882/13, frei nachweisbar über bundesverfassungsgericht.de und dejure: Familiengerichtliche Sachverhaltsaufklärung muss am konkreten Kind und am Eingriff in Art. 6 GG ausgerichtet sein.
+- Ständige Rechtsprechung zu FamFG-Endentscheidungen: Der Vorschlag darf keine offen gebliebenen Anhörungen, Auskünfte oder Sachverständigenfragen überspringen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Entscheidungsvorschlag Familienrichter: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
+1. Entscheidungsvorschlag Familienrichter: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
 2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
 3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
 4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
@@ -70,5 +71,5 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 
 ## Benachbarte Skills
 
-- **Davor**: `09-beschluss-familiensache-paragraf-38-famfg` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Familienrichter trägt.
+- **Davor**: `09-beschluss-familiensache-paragraf-38-famfg` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Familienrichter trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

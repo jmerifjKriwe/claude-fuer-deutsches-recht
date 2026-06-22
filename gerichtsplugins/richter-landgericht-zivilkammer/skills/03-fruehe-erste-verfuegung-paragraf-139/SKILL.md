@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Frühe Erste Verfügung Paragraf 139: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
+1. Frühe Erste Verfügung Paragraf 139: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
 2. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
 3. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
 4. Beweisbedürftige Tatsachen nur aufnehmen, wenn sie streitig und entscheidungserheblich sind.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `02-grosse-relation-zivilrecht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Frühe Erste Verfügung Paragraf 139 trägt.
-- **Danach**: `04-beweisbeschluss-und-sachverstaendiger` - Folgeschritt im selben Plugin; nutze ihn, sobald Frühe Erste Verfügung Paragraf 139 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `02-grosse-relation-zivilrecht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Frühe Erste Verfügung Paragraf 139 trägt.
+- **Danach**: `04-beweisbeschluss-und-sachverstaendiger` - Folgeskill nutzen, sobald Frühe Erste Verfügung Paragraf 139 entscheidungs- oder verfügungsreif vorbereitet ist.

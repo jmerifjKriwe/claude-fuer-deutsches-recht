@@ -48,14 +48,15 @@ Der Skill prüft, ob eine Leitungspersonenhandlung, eine betriebliche Pflichtver
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+- Paragrafen 30 und 130 OWiG: Verbandsgeldbuße und Aufsichtspflichtverletzung müssen nach Leitungsperson, betriebsbezogener Pflicht, Pflichtverletzung und Vorteil getrennt aufgebaut werden.
+- Paragrafen 46, 65, 66, 67, 68 und 69 OWiG: Bußgeldbescheid, Einspruch und gerichtliche Vorlage bleiben auch bei Unternehmen formgebunden.
+- Paragraf 17 OWiG: Zumessung verlangt Bedeutung der Ordnungswidrigkeit, Vorwurf, wirtschaftliche Verhältnisse und Abschöpfungsvorteil.
+- Ständige Rechtsprechung zu Paragraf 30 OWiG: Unternehmensgeldbuße darf nicht als Ersatz für ungeklärte Individualtat verwendet werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Unternehmens- und Aufsichtspflicht-Ordnungswidrigkeiten: Paragrafen 30 und 130 OWiG in der Praxis: Tatbestand, Zuständigkeit der Verwaltungsbehörde, Einspruchslage und gerichtliche Rolle zuerst prüfen.
+1. Unternehmens- und Aufsichtspflicht-Ordnungswidrigkeiten: Paragrafen 30 und 130 OWiG in der Praxis: Tatbestand, Zuständigkeit der Verwaltungsbehörde, Einspruchslage und gerichtliche Rolle zuerst prüfen.
 2. Bußgeldbescheid, Einspruchsfrist, Aktenvorlage, Opportunität und Verfahrenshindernisse getrennt kontrollieren.
 3. Datenschutz-, Verkehrs- oder Wirtschafts-OWi nach Spezialgesetz und OWiG-Tatbestand subsumieren.
 4. Beweismaß, Betroffenenrechte und Unternehmensgeldbuße gesondert behandeln.

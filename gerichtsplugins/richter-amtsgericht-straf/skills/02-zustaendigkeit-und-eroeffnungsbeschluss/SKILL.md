@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Zuständigkeit und Eröffnungsbeschluss: Tatvorwurf, Angeschuldigter, Tatzeit, Tatort, gesetzliche Merkmale und Eröffnungszuständigkeit zuerst prüfen.
+1. Zuständigkeit und Eröffnungsbeschluss: Tatvorwurf, Angeschuldigter, Tatzeit, Tatort, gesetzliche Merkmale und Eröffnungszuständigkeit zuerst prüfen.
 2. Hinreichenden Tatverdacht aus Aktenstoff, Beweismitteln und Einlassung ableiten; bloßen Anfangsverdacht nicht genügen lassen.
 3. Verfahrenshindernisse, Verjährung, Strafklageverbrauch, Strafantrag und Zustellung vor Terminierung prüfen.
 4. Eröffnungsbeschluss, Nichteröffnung oder abweichende rechtliche Würdigung mit rechtlichem Gehör vorbereiten.
@@ -70,5 +70,5 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 ## Benachbarte Skills
 
-- **Davor**: `01-akte-erstdurchsicht-strafsache` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zuständigkeit und Eröffnungsbeschluss trägt.
-- **Danach**: `03-hauptverhandlung-vorbereiten` - Folgeschritt im selben Plugin; nutze ihn, sobald Zuständigkeit und Eröffnungsbeschluss entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-akte-erstdurchsicht-strafsache` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zuständigkeit und Eröffnungsbeschluss trägt.
+- **Danach**: `03-hauptverhandlung-vorbereiten` - Folgeskill nutzen, sobald Zuständigkeit und Eröffnungsbeschluss entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Urteilsentwurf Paragraf 313: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+1. Urteilsentwurf Paragraf 313: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
 2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
 3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
 4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `06-tenor-und-kostenentscheidung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Urteilsentwurf Paragraf 313 trägt.
-- **Danach**: `08-versaeumnisurteil-und-anerkenntnis` - Folgeschritt im selben Plugin; nutze ihn, sobald Urteilsentwurf Paragraf 313 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-tenor-und-kostenentscheidung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteilsentwurf Paragraf 313 trägt.
+- **Danach**: `08-versaeumnisurteil-und-anerkenntnis` - Folgeskill nutzen, sobald Urteilsentwurf Paragraf 313 entscheidungs- oder verfügungsreif vorbereitet ist.

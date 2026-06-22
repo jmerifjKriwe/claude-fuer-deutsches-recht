@@ -1,3 +1,20 @@
+# v376.0.0 — Gerichtsplugins: Rechtsprechungsanker und Arbeitssprache nachgeschärft
+
+Fokussierter Abschlusslauf für die 15 Plugins im Sammelordner `gerichtsplugins/`.
+
+## Juristische Nachschärfung
+
+- Fehlgeroutete Fremdanker in Register-, Finanz-, Familien- und Verfassungsbeschwerde-Skills wurden entfernt oder ersetzt.
+- Arbeitsgerichts-, Familiengerichts-, Finanzgerichts-, Sozialgerichts- und OWi-Skills tragen jetzt stärker fachbezogene Normen- und Rechtsprechungsanker.
+- Mechanische Prüfungsschema-Startformeln und alte Generator-Wendungen wurden in den Gerichts-Skills geglättet.
+- Wiederkehrende Rechtsprechungsanker wurden anhand amtlicher oder frei zugänglicher Quellen plausibilisiert; unsichere Einzelstellen bleiben als ständige Rechtsprechung mit Verifikationshinweis formuliert.
+
+## Versionierung
+
+- Repo-weiter Bump auf v376.0.0. Marketplace, Plugin-Manifeste und Übersichten wurden nachgezogen.
+
+---
+
 # v375.0.0 — Gerichtsplugins: Prüfungsschemata und Rechtsprechungsanker vertieft
 
 Fokussierter Qualitätslauf für die 15 Plugins im Sammelordner `gerichtsplugins/`.

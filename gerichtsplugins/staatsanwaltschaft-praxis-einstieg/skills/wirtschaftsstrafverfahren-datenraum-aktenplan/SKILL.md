@@ -35,7 +35,7 @@ description: "Wirtschaftsstrafverfahren: Aktenplan und Datenraum: Praxis-Skill f
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Wirtschaftsstrafverfahren: Aktenplan und Datenraum: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+1. Wirtschaftsstrafverfahren: Aktenplan und Datenraum: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
 2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
 3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
 4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.

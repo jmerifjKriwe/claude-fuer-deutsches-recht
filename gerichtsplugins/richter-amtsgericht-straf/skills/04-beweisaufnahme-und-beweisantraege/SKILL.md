@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Beweisaufnahme und Beweisantraege: Beweisthema, Beweisart und bisheriges Ergebnis der Hauptverhandlung dem konkreten Tatbestandsmerkmal zuordnen.
+1. Beweisaufnahme und Beweisantraege: Beweisthema, Beweisart und bisheriges Ergebnis der Hauptverhandlung dem konkreten Tatbestandsmerkmal zuordnen.
 2. Beweisantrag, Beweisermittlungsantrag und bloße Beweisanregung unterscheiden; Ablehnungsgründe nach Paragraf 244 StPO einzeln subsumieren.
 3. Aussagepsychologische Risiken, Aussage-gegen-Aussage-Konstellation, Indizienkette und Sachverständigengutachten getrennt würdigen.
 4. Verständigungs- und Protokollpflichten nach Paragrafen 243, 257c und 273 StPO sichtbar halten.
@@ -70,5 +70,5 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 ## Benachbarte Skills
 
-- **Davor**: `03-hauptverhandlung-vorbereiten` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beweisaufnahme und Beweisantraege trägt.
-- **Danach**: `05-beweiswuerdigung-strafrecht` - Folgeschritt im selben Plugin; nutze ihn, sobald Beweisaufnahme und Beweisantraege entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `03-hauptverhandlung-vorbereiten` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweisaufnahme und Beweisantraege trägt.
+- **Danach**: `05-beweiswuerdigung-strafrecht` - Folgeskill nutzen, sobald Beweisaufnahme und Beweisantraege entscheidungs- oder verfügungsreif vorbereitet ist.

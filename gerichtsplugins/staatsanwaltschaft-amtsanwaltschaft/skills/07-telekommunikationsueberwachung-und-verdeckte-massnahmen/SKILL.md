@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Telekommunikationsüberwachung und Verdeckte Maßnahmen: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+1. Telekommunikationsüberwachung und Verdeckte Maßnahmen: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
 2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
 3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
 4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `06-vorlaeufige-festnahme-und-eilkompetenz` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Telekommunikationsüberwachung und Verdeckte Maßnahmen trägt.
-- **Danach**: `08-beschuldigtenvernehmung-und-belehrung` - Folgeschritt im selben Plugin; nutze ihn, sobald Telekommunikationsüberwachung und Verdeckte Maßnahmen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-vorlaeufige-festnahme-und-eilkompetenz` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Telekommunikationsüberwachung und Verdeckte Maßnahmen trägt.
+- **Danach**: `08-beschuldigtenvernehmung-und-belehrung` - Folgeskill nutzen, sobald Telekommunikationsüberwachung und Verdeckte Maßnahmen entscheidungs- oder verfügungsreif vorbereitet ist.

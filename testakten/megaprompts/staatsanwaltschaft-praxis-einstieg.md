@@ -45,30 +45,32 @@ _Durchsuchung und Beschlagnahme: Praxis-Skill für neue Staatsanwälte zu richte
 
 ## Prüf- und Arbeitslogik
 
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, einschlägiges Nebenstrafrecht und landesrechtliche Verwaltungsvorschriften live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+1. Durchsuchung und Beschlagnahme: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
+3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
+4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.
+5. Antrag oder Verfügung mit Tatvorwurf, Beweismittel, Begrenzung, Vollzugsauftrag und Dokumentationspflicht formulieren.
 
 ## Normen & Rechtsprechung
 
-Konkret zu prüfen:
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug darf den Richtervorbehalt nur bei dokumentierter Eilbedürftigkeit verdrängen.
+- BVerfG, Beschluss vom 12.04.2005 - 2 BvR 1027/02, BVerfGE 113, 29: Durchsuchung und Beschlagnahme bei Berufsgeheimnisträgern verlangen gesteigerte Verhältnismäßigkeit und Schutz vertraulicher Mandatskommunikation.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
 
-- Paragraf 102 StPO (Durchsuchung beim Verdächtigen)
-- Paragraf 103 StPO (Durchsuchung bei Nichtverdächtigen)
-- Paragraf 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
-- BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
-- BVerfGE 96, 44 (Verhältnismäßigkeit)
-- Paragraf 94 StPO (Sicherstellung, Beschlagnahme)
-- Paragraf 98 Abs. 1 StPO (Richtervorbehalt)
-- Paragraf 97 StPO (Beschlagnahmeverbote)
-- BVerfGE 113, 29 (Anwaltskanzleien)
-- Paragraf 160a Abs. 1 StPO (absolutes Beweiserhebungsverbot – Strafverteidiger)
-- Paragraf 160a Abs. 2 StPO (relatives Verbot – sonstige Berufsgeheimnisträger)
-- Paragraf 97 StPO (Beschlagnahmeverbot)
-- BVerfGE 113, 29 (Kanzleidurchsuchung)
-- Nr. 135 RiStBV
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```
 
 ---
 
@@ -92,23 +94,32 @@ _Umgang mit harter Verteidigung: Praxis-Skill für neue Staatsanwälte zu konfli
 
 ## Prüf- und Arbeitslogik
 
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, einschlägiges Nebenstrafrecht und landesrechtliche Verwaltungsvorschriften live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+1. Umgang mit harter Verteidigung: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Normen & Rechtsprechung
 
-Konkret zu prüfen:
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
 
-- Paragraf 138a StPO (Ausschluss des Verteidigers)
-- Paragraf 145 StPO
-- Paragraf 257 StPO (Erklärungsrechte)
-- Paragraf 176 GVG (Sitzungspolizei)
-- Paragrafen 226 ff. StPO (Hauptverhandlung)
-- Paragraf 258 StPO (Schlussvorträge)
-- Nr. 126-138 RiStBV
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```
 
 ---
 
@@ -140,22 +151,32 @@ _Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermitt
 
 ## Prüf- und Arbeitslogik
 
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, einschlägiges Nebenstrafrecht und landesrechtliche Verwaltungsvorschriften live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+1. Zusammenarbeit mit der Polizei: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Normen & Rechtsprechung
 
-Konkret zu prüfen:
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
 
-- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
-- Nr. 3 RiStBV (Wächterin des Gesetzes)
-- Paragraf 168b StPO (Aufzeichnung)
-- Paragraf 169a StPO (Schlussvermerk)
-- Nr. 9-13 RiStBV (Aktenführung)
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```
 
 ---
 
@@ -187,22 +208,32 @@ _Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte zu Ersuchen, 
 
 ## Prüf- und Arbeitslogik
 
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, einschlägiges Nebenstrafrecht und landesrechtliche Verwaltungsvorschriften live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+1. Internationale Rechtshilfe: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
+3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
+4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
+5. Antrag mit konkreter Tatsachengrundlage, Beweismitteln und Vollzugshinweisen formulieren.
 
 ## Normen & Rechtsprechung
 
-Konkret zu prüfen:
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
 
-- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
-- Nr. 3 RiStBV (Wächterin des Gesetzes)
-- Paragraf 168b StPO (Aufzeichnung)
-- Paragraf 169a StPO (Schlussvermerk)
-- Nr. 9-13 RiStBV (Aktenführung)
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```
 
 ---
 
@@ -226,22 +257,32 @@ _RiStBV finden und anwenden: Praxis-Skill für neue Staatsanwälte zu Richtlinie
 
 ## Prüf- und Arbeitslogik
 
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, einschlägiges Nebenstrafrecht und landesrechtliche Verwaltungsvorschriften live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+1. RiStBV finden und anwenden: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Normen & Rechtsprechung
 
-Konkret zu prüfen:
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
 
-- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
-- Nr. 3 RiStBV (Wächterin des Gesetzes)
-- Paragraf 168b StPO (Aufzeichnung)
-- Paragraf 169a StPO (Schlussvermerk)
-- Nr. 9-13 RiStBV (Aktenführung)
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```
 
 ---
 
@@ -265,19 +306,32 @@ _Ermittlungsvermerk schreiben: Praxis-Skill für neue Staatsanwälte zu Sachstan
 
 ## Prüf- und Arbeitslogik
 
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, einschlägiges Nebenstrafrecht und landesrechtliche Verwaltungsvorschriften live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+1. Ermittlungsvermerk schreiben: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Normen & Rechtsprechung
 
-Konkret zu prüfen:
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
 
-- Paragraf 168b StPO (Aufzeichnung)
-- Paragraf 169a StPO (Schlussvermerk)
-- Nr. 9-13 RiStBV (Aktenführung)
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```
 
 ---
 
@@ -309,26 +363,33 @@ _EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwäl
 
 ## Prüf- und Arbeitslogik
 
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, einschlägiges Nebenstrafrecht und landesrechtliche Verwaltungsvorschriften live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+1. EncroChat, ANOM, Sky ECC und Kryptodienste: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
+3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
+4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.
+5. Antrag oder Verfügung mit Tatvorwurf, Beweismittel, Begrenzung, Vollzugsauftrag und Dokumentationspflicht formulieren.
 
 ## Normen & Rechtsprechung
 
-Konkret zu prüfen:
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten verlangen Prüfung von Europäischer Ermittlungsanordnung, Zuständigkeit, Verteidigungsrechten und Zugang zum Beweismaterial.
+- BGH, Beschluss vom 02.03.2022 - 5 StR 457/21, BGHSt 67, 29: EncroChat-Daten können verwertbar sein; die konkrete Herkunft, Übermittlung und Relevanz bleiben aktenbezogen zu prüfen.
+- BVerfG, Beschluss vom 01.11.2023 - 2 BvR 1832/22, frei nachweisbar über bundesverfassungsgericht.de/dejure: Verfassungsbeschwerden gegen EncroChat-Verwertung scheitern nicht an abstrakter Skepsis, sondern an konkreter Darlegung.
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
 
-- Paragraf 100b, Paragraf 100e Abs. 6 StPO
-- EuGH C-670/22 (M.N., Encrochat)
-- BGHSt 67, 29 (Encrochat-Verwertbarkeit)
-- BVerfG 2 BvR 1832/22 v. 1.11.2023
-- Paragraf 100a StPO (TKÜ)
-- Paragraf 100b StPO (Online-Durchsuchung)
-- Paragraf 100g StPO (Verkehrsdaten)
-- Paragraf 110 Abs. 3 StPO (Netzwerkdurchsicht)
-- Paragrafen 202a, 202c StGB
-- BVerfGE 125, 260; BVerfGE 154, 152
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```
 
 ---
 
@@ -352,26 +413,33 @@ _EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwäl
 
 ## Prüf- und Arbeitslogik
 
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, einschlägiges Nebenstrafrecht und landesrechtliche Verwaltungsvorschriften live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+1. EncroChat, ANOM, Sky ECC und Kryptodienste: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
+3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
+4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.
+5. Antrag oder Verfügung mit Tatvorwurf, Beweismittel, Begrenzung, Vollzugsauftrag und Dokumentationspflicht formulieren.
 
 ## Normen & Rechtsprechung
 
-Konkret zu prüfen:
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten verlangen Prüfung von Europäischer Ermittlungsanordnung, Zuständigkeit, Verteidigungsrechten und Zugang zum Beweismaterial.
+- BGH, Beschluss vom 02.03.2022 - 5 StR 457/21, BGHSt 67, 29: EncroChat-Daten können verwertbar sein; die konkrete Herkunft, Übermittlung und Relevanz bleiben aktenbezogen zu prüfen.
+- BVerfG, Beschluss vom 01.11.2023 - 2 BvR 1832/22, frei nachweisbar über bundesverfassungsgericht.de/dejure: Verfassungsbeschwerden gegen EncroChat-Verwertung scheitern nicht an abstrakter Skepsis, sondern an konkreter Darlegung.
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
 
-- Paragraf 100b, Paragraf 100e Abs. 6 StPO
-- EuGH C-670/22 (M.N., Encrochat)
-- BGHSt 67, 29 (Encrochat-Verwertbarkeit)
-- BVerfG 2 BvR 1832/22 v. 1.11.2023
-- Paragraf 100a StPO (TKÜ)
-- Paragraf 100b StPO (Online-Durchsuchung)
-- Paragraf 100g StPO (Verkehrsdaten)
-- Paragraf 110 Abs. 3 StPO (Netzwerkdurchsicht)
-- Paragrafen 202a, 202c StGB
-- BVerfGE 125, 260; BVerfGE 154, 152
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```
 
 ---
 

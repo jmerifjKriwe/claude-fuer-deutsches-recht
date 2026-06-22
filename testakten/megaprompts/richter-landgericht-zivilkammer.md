@@ -32,7 +32,7 @@ Urteilsentwurf nach Paragraf 313 ZPO bei groesserem Streitwert: ausfuehrlicher T
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -54,23 +54,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Urteil Großes Zivilurteil: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
+3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
+4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
+5. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann.
 
 ## Typische Fallstricke
 
@@ -84,19 +79,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-zeugenbeweis-und-parteivernehmung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 06 Urteil Großes Zivilurteil bearbeitet wird.
-- **Danach**: `07-berufungsverfahren-paragraf-511-ff` - Nutze diesen Folgeschritt, sobald 06 Urteil Großes Zivilurteil als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `05-zeugenbeweis-und-parteivernehmung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteil Großes Zivilurteil trägt.
+- **Danach**: `07-berufungsverfahren-paragraf-511-ff` - Folgeskill nutzen, sobald Urteil Großes Zivilurteil entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -108,12 +103,12 @@ _Vollständige zivilrechtliche Relation: Schluessigkeitsprüfung (Klägerstation
 
 ## Zweck
 
-Vollständige zivilrechtliche Relation: Schluessigkeitsprüfung (Klägerstation), Erheblichkeitsprüfung (Beklagtenstation), beweisbedürftige Tatsachen, Beweislastverteilung, Plausibilisierung, schriftliches Votum für die Kammerberatung
+Vollständige zivilrechtliche Relation: Schlüssigkeitsprüfung (Klägerstation), Erheblichkeitsprüfung (Beklagtenstation), beweisbedürftige Tatsachen, Beweislastverteilung, Plausibilisierung, schriftliches Votum für die Kammerberatung
 
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -135,23 +130,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
+2. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
+3. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
+4. Beweisbedürftige Tatsachen nur aufnehmen, wenn sie streitig und entscheidungserheblich sind.
+5. Das Votum mit Entscheidungsreife, Beweisbeschlussbedarf, Vergleichsansatz und Terminplan schließen.
 
 ## Typische Fallstricke
 
@@ -165,19 +155,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `01-eingang-und-besetzung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 02 Große Relation Zivilrecht bearbeitet wird.
-- **Danach**: `03-fruehe-erste-verfuegung-paragraf-139` - Nutze diesen Folgeschritt, sobald 02 Große Relation Zivilrecht als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `01-eingang-und-besetzung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Große Relation Zivilrecht trägt.
+- **Danach**: `03-fruehe-erste-verfuegung-paragraf-139` - Folgeskill nutzen, sobald Große Relation Zivilrecht entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -185,7 +175,7 @@ Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsf
 
 _Eingangsprüfung Paragraf 522 ZPO bei Berufung, sachliche Zuständigkeit Paragraf 71 GVG (Erste Instanz) und Paragraf 119 GVG (Berufung gegen Amtsgerichtsurteil), Geschaeftsverteilungsplan, Einzelrichterübertragung Paragraf 348a ZPO_
 
-# 01 Eingang Und Besetzung
+# 01 Eingang und Besetzung
 
 ## Zweck
 
@@ -194,7 +184,7 @@ Eingangsprüfung Paragraf 522 ZPO bei Berufung, sachliche Zuständigkeit Paragra
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -216,49 +206,44 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Eingang und Besetzung: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
+2. Klage nach Paragraf 253 ZPO auf Antrag, Parteien, Lebenssachverhalt, Bezifferung, Anlagen und Zustellfähigkeit kontrollieren.
+3. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Paragraf 495a ZPO oder Sonderzuständigkeit.
+4. Fristen und Kostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen können.
+5. Erste richterliche Verfügung mit Hinweisen, Wiedervorlage und konkretem nächsten Aktenzweck abschließen.
 
 ## Typische Fallstricke
 
-- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
-- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
+- Der Gerichtsstand wird aus der Parteianschrift statt aus dem Streitgegenstand abgeleitet.
+- Zustellung wird verfügt, obwohl Kostenvorschuss, ladungsfähige Anschrift oder Antrag noch fehlen.
+- Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen.
+- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-kammer` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 01 Eingang Und Besetzung bearbeitet wird.
-- **Danach**: `02-grosse-relation-zivilrecht` - Nutze diesen Folgeschritt, sobald 01 Eingang Und Besetzung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
+- **Danach**: `02-grosse-relation-zivilrecht` - Folgeskill nutzen, sobald Eingang und Besetzung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -266,7 +251,7 @@ Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsf
 
 _Hinweisverfuegung Paragraf 139 ZPO: Hinweise auf rechtliche Bedenken, Auflagen zur Substantiierung, Ergaenzung des Vortrags, Beweisangebote, Fristsetzung; Verfahrensbeschleunigung Paragrafen 282 296_
 
-# 03 Fruehe Erste Verfügung Paragraf 139
+# 03 Frühe Erste Verfügung Paragraf 139
 
 ## Zweck
 
@@ -275,7 +260,7 @@ Hinweisverfuegung Paragraf 139 ZPO: Hinweise auf rechtliche Bedenken, Auflagen z
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -297,23 +282,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Frühe Erste Verfügung Paragraf 139: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
+2. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
+3. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
+4. Beweisbedürftige Tatsachen nur aufnehmen, wenn sie streitig und entscheidungserheblich sind.
+5. Das Votum mit Entscheidungsreife, Beweisbeschlussbedarf, Vergleichsansatz und Terminplan schließen.
 
 ## Typische Fallstricke
 
@@ -327,19 +307,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-grosse-relation-zivilrecht` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Fruehe Erste Verfügung Paragraf 139 bearbeitet wird.
-- **Danach**: `04-beweisbeschluss-und-sachverstaendiger` - Nutze diesen Folgeschritt, sobald 03 Fruehe Erste Verfügung Paragraf 139 als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-grosse-relation-zivilrecht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Frühe Erste Verfügung Paragraf 139 trägt.
+- **Danach**: `04-beweisbeschluss-und-sachverstaendiger` - Folgeskill nutzen, sobald Frühe Erste Verfügung Paragraf 139 entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -356,7 +336,7 @@ Strukturierter Entscheidungsvorschlag für die Kammerberatung: Tenor-Vorschlag, 
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -378,23 +358,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Entscheidungsvorschlag Kammer: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
+3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
+4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
+5. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann.
 
 ## Typische Fallstricke
 
@@ -408,19 +383,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `09-vergleich-und-mediation` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 10 Entscheidungsvorschlag Kammer bearbeitet wird.
-- **Danach**: `01-eingang-und-besetzung` - Nutze diesen Folgeschritt, sobald 10 Entscheidungsvorschlag Kammer als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `09-vergleich-und-mediation` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Kammer trägt.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
 
 ---
 
@@ -437,7 +412,7 @@ Berufungsverfahren: Zulässigkeit Paragraf 511, Berufungsbegründung Paragraf 52
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -459,49 +434,44 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Berufungsverfahren Paragraf 511 Ff: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
+2. Klage nach Paragraf 253 ZPO auf Antrag, Parteien, Lebenssachverhalt, Bezifferung, Anlagen und Zustellfähigkeit kontrollieren.
+3. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Paragraf 495a ZPO oder Sonderzuständigkeit.
+4. Fristen und Kostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen können.
+5. Erste richterliche Verfügung mit Hinweisen, Wiedervorlage und konkretem nächsten Aktenzweck abschließen.
 
 ## Typische Fallstricke
 
-- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
-- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
+- Der Gerichtsstand wird aus der Parteianschrift statt aus dem Streitgegenstand abgeleitet.
+- Zustellung wird verfügt, obwohl Kostenvorschuss, ladungsfähige Anschrift oder Antrag noch fehlen.
+- Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen.
+- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-urteil-grosses-zivilurteil` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 07 Berufungsverfahren Paragraf 511 Ff bearbeitet wird.
-- **Danach**: `08-kostenentscheidung-und-streitwert` - Nutze diesen Folgeschritt, sobald 07 Berufungsverfahren Paragraf 511 Ff als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-urteil-grosses-zivilurteil` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Berufungsverfahren Paragraf 511 Ff trägt.
+- **Danach**: `08-kostenentscheidung-und-streitwert` - Folgeskill nutzen, sobald Berufungsverfahren Paragraf 511 Ff entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -509,7 +479,7 @@ Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsf
 
 _Vergleichsgespraech leiten Paragraf 278 ZPO, Mediation Paragraf 278a ZPO, Prozessvergleich Paragraf 794 Abs. 1 Nr. 1, Vollstreckungstitel, Vollstreckungsklausel Paragrafen 724 ff._
 
-# 09 Vergleich Und Mediation
+# 09 Vergleich und Mediation
 
 ## Zweck
 
@@ -518,7 +488,7 @@ Vergleichsgespraech leiten Paragraf 278 ZPO, Mediation Paragraf 278a ZPO, Prozes
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -540,49 +510,44 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage als Alternative zu Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Vergleich und Mediation: Anerkenntnis, Säumnis, Vergleich, Erledigung und Klagerücknahme als unterschiedliche Prozesslagen trennen.
+2. Zeitpunkt und Umfang bestimmen: vor oder nach Rechtshängigkeit, vollständig oder teilweise, einseitig oder übereinstimmend.
+3. Kostenpfad wählen: Paragraf 91a ZPO, Paragraf 269 Abs. 3 Satz 3 ZPO, Anerkenntnisprivileg oder materieller Kostenerstattungsanspruch.
+4. Tenor so formulieren, dass Hauptsache, Kosten und Vollstreckbarkeit nicht widersprüchlich werden.
+5. Bei Erledigung wegen Zahlung im Verzug die Möglichkeit der Feststellung materieller Rechtsverfolgungskosten ausdrücklich prüfen.
 
 ## Typische Fallstricke
 
-- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
-- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
+- Erledigung vor Rechtshängigkeit wird wie Paragraf 91a ZPO behandelt, obwohl Paragraf 269 Abs. 3 Satz 3 ZPO oder materielle Kostenfeststellungsklage näher liegt.
+- Teilweise Erledigung wird im Tenor nicht von der fortbestehenden Hauptsache getrennt.
+- Verzugsschaden wegen Rechtsverfolgungskosten wird übersehen, obwohl der Beklagte bei Klageeinreichung in Verzug war.
+- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `08-kostenentscheidung-und-streitwert` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 09 Vergleich Und Mediation bearbeitet wird.
-- **Danach**: `10-entscheidungsvorschlag-kammer` - Nutze diesen Folgeschritt, sobald 09 Vergleich Und Mediation als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `08-kostenentscheidung-und-streitwert` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vergleich und Mediation trägt.
+- **Danach**: `10-entscheidungsvorschlag-kammer` - Folgeskill nutzen, sobald Vergleich und Mediation entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -590,7 +555,7 @@ Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsf
 
 _Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51 GKG, Streitwertbeschluss, Änderung der Kostenquote bei Teilerfolg, Mehrwert eines Vergleichs_
 
-# 08 Kostenentscheidung Und Streitwert
+# 08 Kostenentscheidung und Streitwert
 
 ## Zweck
 
@@ -599,7 +564,7 @@ Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -621,23 +586,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage als Alternative zu Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Kostenentscheidung und Streitwert: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
+3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
+4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
+5. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann.
 
 ## Typische Fallstricke
 
@@ -651,19 +611,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-berufungsverfahren-paragraf-511-ff` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Kostenentscheidung Und Streitwert bearbeitet wird.
-- **Danach**: `09-vergleich-und-mediation` - Nutze diesen Folgeschritt, sobald 08 Kostenentscheidung Und Streitwert als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-berufungsverfahren-paragraf-511-ff` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kostenentscheidung und Streitwert trägt.
+- **Danach**: `09-vergleich-und-mediation` - Folgeskill nutzen, sobald Kostenentscheidung und Streitwert entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -671,7 +631,7 @@ Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsf
 
 _Beweisbeschluss Paragrafen 358-360 ZPO: Beweisthema, Beweismittel, Auswahl des Sachverständigen, Sachverständigenfragen, Vorschuss, Würdigung des Gutachtens Paragraf 286_
 
-# 04 Beweisbeschluss Und Sachverständiger
+# 04 Beweisbeschluss und Sachverständiger
 
 ## Zweck
 
@@ -680,7 +640,7 @@ Beweisbeschluss Paragrafen 358-360 ZPO: Beweisthema, Beweismittel, Auswahl des S
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -702,23 +662,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Beweisbeschluss und Sachverständiger: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen.
+2. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen.
+3. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren.
+4. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
+5. Nach Beweisaufnahme Überzeugungsbildung nach Paragraf 286 ZPO, Beweislastreserve und Vergleichsoption dokumentieren.
 
 ## Typische Fallstricke
 
@@ -732,19 +687,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-fruehe-erste-verfuegung-paragraf-139` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Beweisbeschluss Und Sachverständiger bearbeitet wird.
-- **Danach**: `05-zeugenbeweis-und-parteivernehmung` - Nutze diesen Folgeschritt, sobald 04 Beweisbeschluss Und Sachverständiger als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-fruehe-erste-verfuegung-paragraf-139` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweisbeschluss und Sachverständiger trägt.
+- **Danach**: `05-zeugenbeweis-und-parteivernehmung` - Folgeskill nutzen, sobald Beweisbeschluss und Sachverständiger entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -752,7 +707,7 @@ Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsf
 
 _Zeugenbeweis Paragrafen 373-401 ZPO, Beweisaufnahme im Termin, Belehrung, Glaubhaftigkeit, Parteivernehmung Paragrafen 445-455 ZPO, Aussagewert_
 
-# 05 Zeugenbeweis Und Parteivernehmung
+# 05 Zeugenbeweis und Parteivernehmung
 
 ## Zweck
 
@@ -761,7 +716,7 @@ Zeugenbeweis Paragrafen 373-401 ZPO, Beweisaufnahme im Termin, Belehrung, Glaubh
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -783,23 +738,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen.
+2. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen.
+3. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren.
+4. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
+5. Nach Beweisaufnahme Überzeugungsbildung nach Paragraf 286 ZPO, Beweislastreserve und Vergleichsoption dokumentieren.
 
 ## Typische Fallstricke
 
@@ -813,19 +763,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `04-beweisbeschluss-und-sachverstaendiger` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 05 Zeugenbeweis Und Parteivernehmung bearbeitet wird.
-- **Danach**: `06-urteil-grosses-zivilurteil` - Nutze diesen Folgeschritt, sobald 05 Zeugenbeweis Und Parteivernehmung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `04-beweisbeschluss-und-sachverstaendiger` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zeugenbeweis und Parteivernehmung trägt.
+- **Danach**: `06-urteil-grosses-zivilurteil` - Folgeskill nutzen, sobald Zeugenbeweis und Parteivernehmung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 

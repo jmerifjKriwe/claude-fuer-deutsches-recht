@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Umwandlung Eintragen: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
+1. Umwandlung Eintragen: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
 2. Formelle Voraussetzungen prüfen: elektronische Einreichung, notarielle Beglaubigung, Vertretungsmacht, Vollmacht und Urkundenlage.
 3. Materielle Eintragungsfähigkeit anhand HGB, GmbHG, AktG, UmwG, GenG oder Vereinsrecht abarbeiten.
 4. Bei Zweifeln nur registerrelevante Tatsachen aufklären; zivilrechtliche Binnenstreitigkeiten nicht als Hauptsacheprozess entscheiden.
@@ -70,5 +70,5 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `05-kapitalerhoehung-und-kapitalherabsetzung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Umwandlung Eintragen trägt.
-- **Danach**: `07-zwischenverfuegung-und-beschwerde` - Folgeschritt im selben Plugin; nutze ihn, sobald Umwandlung Eintragen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-kapitalerhoehung-und-kapitalherabsetzung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Umwandlung Eintragen trägt.
+- **Danach**: `07-zwischenverfuegung-und-beschwerde` - Folgeskill nutzen, sobald Umwandlung Eintragen entscheidungs- oder verfügungsreif vorbereitet ist.

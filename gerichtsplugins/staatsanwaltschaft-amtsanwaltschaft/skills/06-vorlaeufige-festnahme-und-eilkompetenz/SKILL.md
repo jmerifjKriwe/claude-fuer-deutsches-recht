@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Vorlaeufige Festnahme und Eilkompetenz: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+1. Vorlaeufige Festnahme und Eilkompetenz: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
 2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
 3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
 4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `05-haftbefehlsantrag-und-untersuchungshaft` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Vorlaeufige Festnahme und Eilkompetenz trägt.
-- **Danach**: `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` - Folgeschritt im selben Plugin; nutze ihn, sobald Vorlaeufige Festnahme und Eilkompetenz entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-haftbefehlsantrag-und-untersuchungshaft` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vorlaeufige Festnahme und Eilkompetenz trägt.
+- **Danach**: `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` - Folgeskill nutzen, sobald Vorlaeufige Festnahme und Eilkompetenz entscheidungs- oder verfügungsreif vorbereitet ist.

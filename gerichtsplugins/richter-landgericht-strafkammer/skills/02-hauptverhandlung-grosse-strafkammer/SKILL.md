@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Hauptverhandlung Große Strafkammer: Beweisthema, Beweisart und bisheriges Ergebnis der Hauptverhandlung dem konkreten Tatbestandsmerkmal zuordnen.
+1. Hauptverhandlung Große Strafkammer: Beweisthema, Beweisart und bisheriges Ergebnis der Hauptverhandlung dem konkreten Tatbestandsmerkmal zuordnen.
 2. Beweisantrag, Beweisermittlungsantrag und bloße Beweisanregung unterscheiden; Ablehnungsgründe nach Paragraf 244 StPO einzeln subsumieren.
 3. Aussagepsychologische Risiken, Aussage-gegen-Aussage-Konstellation, Indizienkette und Sachverständigengutachten getrennt würdigen.
 4. Verständigungs- und Protokollpflichten nach Paragrafen 243, 257c und 273 StPO sichtbar halten.
@@ -70,5 +70,5 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 ## Benachbarte Skills
 
-- **Davor**: `01-eroeffnungsverfahren-strafkammer` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Hauptverhandlung Große Strafkammer trägt.
-- **Danach**: `03-beweisantraege-und-ablehnung` - Folgeschritt im selben Plugin; nutze ihn, sobald Hauptverhandlung Große Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-eroeffnungsverfahren-strafkammer` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Hauptverhandlung Große Strafkammer trägt.
+- **Danach**: `03-beweisantraege-und-ablehnung` - Folgeskill nutzen, sobald Hauptverhandlung Große Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.

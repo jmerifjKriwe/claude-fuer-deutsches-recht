@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Parteivortrag Strukturieren: Antrag, Verteidigung, Verfahrensstand, Fristen und gewünschtes Arbeitsprodukt in einem Eingangssatz festlegen.
+1. Parteivortrag Strukturieren: Antrag, Verteidigung, Verfahrensstand, Fristen und gewünschtes Arbeitsprodukt in einem Eingangssatz festlegen.
 2. Aktenstücke chronologisch ordnen: Klage, Anlagen, Zustellnachweise, Verteidigungsanzeige, Schriftsatzfolge, gerichtliche Hinweise und Protokolle getrennt erfassen.
 3. Tatsachen nach unstreitig, bestritten, nicht hinreichend bestritten und beweisbedürftig markieren; bloße Rechtsansichten nicht als Tatsachen übernehmen.
 4. Aus dem Parteivortrag eine streitstandsgeeignete Arbeitstabelle mit Antrag, Anspruchsziel, Einwendung, Einrede, Beweismittel und Normbezug erstellen.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `01-akte-erstdurchsicht-zivil` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Parteivortrag Strukturieren trägt.
-- **Danach**: `03-streitstand-erfassen` - Folgeschritt im selben Plugin; nutze ihn, sobald Parteivortrag Strukturieren entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-akte-erstdurchsicht-zivil` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Parteivortrag Strukturieren trägt.
+- **Danach**: `03-streitstand-erfassen` - Folgeskill nutzen, sobald Parteivortrag Strukturieren entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
-- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
+- Paragrafen 1565, 1566 und 1567 BGB: Scheitern der Ehe, Trennungsjahr, unwiderlegliche Vermutung und Getrenntleben sind getrennt festzustellen.
+- Paragraf 137 FamFG: Verbundfolgesachen sind vor Scheidungstenor auf Rechtshängigkeit, Frist und Abtrennungsbedarf zu prüfen.
+- Paragraf 128 FamFG: Persönliche Anhörung der Ehegatten ist in der Scheidungssache der Regelfall.
+- Ständige Rechtsprechung zu Paragraf 1565 BGB: Scheitern ist aus Trennung, Wiederherstellungserwartung und Parteiverhalten konkret herzuleiten; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 150 FamFG: Kosten der Scheidung und Folgesachen sind eigenständig zu tenorieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Ehesache Scheidung Paragraf 1565: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
+1. Ehesache Scheidung Paragraf 1565: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
 2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
 3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
 4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
@@ -70,5 +71,5 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 
 ## Benachbarte Skills
 
-- **Davor**: `01-zustaendigkeit-und-zuteilung-familiensache` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Ehesache Scheidung Paragraf 1565 trägt.
-- **Danach**: `03-versorgungsausgleich-vorbereiten` - Folgeschritt im selben Plugin; nutze ihn, sobald Ehesache Scheidung Paragraf 1565 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-zustaendigkeit-und-zuteilung-familiensache` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ehesache Scheidung Paragraf 1565 trägt.
+- **Danach**: `03-versorgungsausgleich-vorbereiten` - Folgeskill nutzen, sobald Ehesache Scheidung Paragraf 1565 entscheidungs- oder verfügungsreif vorbereitet ist.

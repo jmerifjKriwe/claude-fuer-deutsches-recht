@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
 - BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
+- Paragrafen 1, 3, 5, 10 und 14 VersAusglG: Ehezeit, Ausgleichswert, interne Teilung und externe Teilung sind getrennte Prüfungsstationen.
+- Paragraf 220 FamFG: Versorgungsträgerauskünfte müssen vollständig, nachvollziehbar und ehezeitbezogen sein.
+- Paragrafen 18 und 27 VersAusglG: Bagatellausschluss und grobe Unbilligkeit dürfen nicht schematisch, sondern nur fallbezogen angewandt werden.
+- Ständige Rechtsprechung des BGH zu Teilungskosten und Ausgleichswert: Rechenweg und Zielversorgung müssen im Beschluss nachvollziehbar erscheinen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Versorgungsausgleich Vorbereiten: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
+1. Versorgungsausgleich Vorbereiten: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
 2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
 3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
 4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
@@ -70,5 +71,5 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 
 ## Benachbarte Skills
 
-- **Davor**: `02-ehesache-scheidung-paragraf-1565` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Versorgungsausgleich Vorbereiten trägt.
-- **Danach**: `04-kindschaftssache-elterliche-sorge` - Folgeschritt im selben Plugin; nutze ihn, sobald Versorgungsausgleich Vorbereiten entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `02-ehesache-scheidung-paragraf-1565` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Versorgungsausgleich Vorbereiten trägt.
+- **Danach**: `04-kindschaftssache-elterliche-sorge` - Folgeskill nutzen, sobald Versorgungsausgleich Vorbereiten entscheidungs- oder verfügungsreif vorbereitet ist.

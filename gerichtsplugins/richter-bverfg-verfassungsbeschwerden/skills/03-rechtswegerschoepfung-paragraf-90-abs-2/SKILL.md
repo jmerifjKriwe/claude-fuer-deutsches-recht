@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Rechtswegerschoepfung Paragraf 90 Abs 2: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
+1. Rechtswegerschoepfung Paragraf 90 Abs 2: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
 2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
 3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
 4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
@@ -71,5 +71,5 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 
 ## Benachbarte Skills
 
-- **Davor**: `02-substantiierungs-pruefung-paragraf-92` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Rechtswegerschoepfung Paragraf 90 Abs 2 trägt.
-- **Danach**: `04-subsidiaritaet-und-frist` - Folgeschritt im selben Plugin; nutze ihn, sobald Rechtswegerschoepfung Paragraf 90 Abs 2 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `02-substantiierungs-pruefung-paragraf-92` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Rechtswegerschoepfung Paragraf 90 Abs 2 trägt.
+- **Danach**: `04-subsidiaritaet-und-frist` - Folgeskill nutzen, sobald Rechtswegerschoepfung Paragraf 90 Abs 2 entscheidungs- oder verfügungsreif vorbereitet ist.

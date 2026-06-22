@@ -48,14 +48,15 @@ Dieser Skill erklärt den wichtigsten Mentalitätswechsel: Ordnungswidrigkeiten 
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
+- Paragrafen 46, 47, 65, 66, 67, 68 und 69 OWiG: Bußgeldverfahren, Einspruch, Abgabe an das Amtsgericht und Opportunität sind als eigener Verfahrenspfad zu behandeln.
+- Paragrafen 71, 72, 73, 74 und 77 OWiG: Hauptverhandlung, Beschlussverfahren, Entbindung, Verwerfung und Beweisaufnahme bestimmen die gerichtliche Rolle nach Einspruch.
+- Paragrafen 79 und 80 OWiG: Rechtsbeschwerde und Zulassungsrechtsbeschwerde verlangen eine genaue Trennung von Sachrüge, Verfahrensrüge und Zulassungsgrund.
+- Paragraf 46 OWiG in Verbindung mit StPO: Strafprozessuale Eingriffsnormen gelten nur entsprechend und müssen zur geringeren Eingriffsintensität des Bußgeldverfahrens passen.
+- Ständige Rechtsprechung zum OWi-Verfahren: Verfahrensvereinfachung entbindet nicht von rechtlichem Gehör, tragfähiger Beweiswürdigung und sauberer Zustellung; konkretes Aktenzeichen vor produktiver Zitierung verifizieren.
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Opportunität im OWi-Verfahren: Paragraf 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+1. Opportunität im OWi-Verfahren: Paragraf 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
 2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
 3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
 4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.

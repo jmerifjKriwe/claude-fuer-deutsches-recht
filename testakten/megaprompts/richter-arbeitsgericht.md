@@ -54,23 +54,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- Paragrafen 46 und 60 ArbGG sowie Paragraf 313 ZPO: Tatbestand, Entscheidungsgründe, Rechtsmittelbelehrung und Zustellung sind arbeitsgerichtlich vollständig abzusetzen.
+- Paragraf 12a ArbGG: Erstinstanzliche Kostentragung unterscheidet sich vom allgemeinen Zivilprozess.
+- Paragraf 61 ArbGG: Streitwert und Berufungszulassung müssen im Urteil sichtbar behandelt werden, wenn sie entscheidungserheblich sind.
+- Ständige Rechtsprechung zu Paragraf 286 ZPO: Beweiswürdigung verlangt eine nachvollziehbare Überzeugungsbildung aus dem gesamten Inhalt der Verhandlung; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 64 ArbGG: Berufungsfähigkeit und Zulassung sind im Tenor beziehungsweise in den Gründen präzise zu prüfen.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Urteil Arbeitsgericht: Rechtsweg, örtliche Zuständigkeit, Verfahrensart und Güteverhandlung zuerst steuern.
+2. Klageanträge auf Bestimmtheit, Fälligkeit, Fristen und tarifliche Ausschlussfristen prüfen.
+3. Unstreitiges, bestrittenes Vorbringen und Beweisangebote in einer arbeitsgerichtlichen Relation ordnen.
+4. Hinweise so formulieren, dass beide Seiten Vergleichs- und Prozessrisiken verstehen.
+5. Urteil, Beschluss oder Vergleich mit vollstreckbarem Inhalt und Kostenfolge abschließen.
 
 ## Typische Fallstricke
 
@@ -84,19 +80,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `08-betriebsverfassung-beschlussverfahren` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 09 Urteil Arbeitsgericht bearbeitet wird.
-- **Danach**: `10-entscheidungsvorschlag-arbeitsgericht` - Nutze diesen Folgeschritt, sobald 09 Urteil Arbeitsgericht als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `08-betriebsverfassung-beschlussverfahren` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteil Arbeitsgericht trägt.
+- **Danach**: `10-entscheidungsvorschlag-arbeitsgericht` - Folgeskill nutzen, sobald Urteil Arbeitsgericht entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -104,7 +100,7 @@ Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund orde
 
 _Zahlungsklage: faelliger Arbeitslohn, Annahmeverzug Paragrafen 615 BGB, Urlaubsabgeltung Paragraf 7 Abs. 4 BUrlG, Entgeltfortzahlung im Krankheitsfall Paragraf 3 EFZG, Verzugspauschale Paragraf 288 Abs. 5 BGB_
 
-# 03 Zahlungsklage Lohn Und Gehalt
+# 03 Zahlungsklage Lohn und Gehalt
 
 ## Zweck
 
@@ -135,23 +131,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- Paragrafen 611a, 612 und 614 BGB: Vergütung, Höhe und Fälligkeit des Arbeitsentgelts müssen aus Vertrag, Tarif, Übung oder Gesetz hergeleitet werden.
+- Paragraf 3 MiLoG: Mindestlohnansprüche sind unabdingbar; Ausschlussfristen und Verzicht sind gesondert zu kontrollieren.
+- Paragraf 286 BGB: Verzugszinsen und Verzugsschaden setzen Fälligkeit, Nichtleistung und gegebenenfalls Mahnung voraus.
+- Paragraf 138 ZPO: Erfüllung, Abrechnung, Arbeitszeit und Einwendungen gegen Entgelt sind nach Darlegungslast getrennt zu würdigen.
+- Ständige Rechtsprechung des BAG zu Ausschlussfristen: Transparenz, Mindestlohnausnahme und rechtzeitige Geltendmachung sind im Zahlungsprozess konkret zu prüfen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Zahlungsklage Lohn und Gehalt: Anspruchszeitraum, Brutto-Netto-Bezug, Fälligkeit und Ausschlussfristen zuerst aufklären.
+2. Arbeitsvertrag, Tarifvertrag, Betriebsvereinbarung, Entgeltabrechnung und tatsächliche Arbeitsleistung gegeneinander prüfen.
+3. Annahmeverzug, Überstunden, Sonderzahlung und Zurückbehaltungsrechte getrennt behandeln.
+4. Beweislast für Arbeitsleistung, Anordnung/Duldung und Höhe sichtbar machen.
+5. Tenor vollstreckbar mit Betrag, Zinsen, Abrechnungsanspruch und Kosten formulieren.
 
 ## Typische Fallstricke
 
@@ -165,19 +157,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-kuendigungsschutzklage-pruefen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Zahlungsklage Lohn Und Gehalt bearbeitet wird.
-- **Danach**: `04-betriebsuebergang-und-tarif` - Nutze diesen Folgeschritt, sobald 03 Zahlungsklage Lohn Und Gehalt als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-kuendigungsschutzklage-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zahlungsklage Lohn und Gehalt trägt.
+- **Danach**: `04-betriebsuebergang-und-tarif` - Folgeskill nutzen, sobald Zahlungsklage Lohn und Gehalt entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -216,23 +208,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- Paragrafen 46, 54, 60, 61 und 64 ArbGG: Entscheidungsvorschlag muss Verfahrensstand, Güteversuch, Tenor, Kosten und Rechtsmittelstatus geschlossen abbilden.
+- Paragraf 313 ZPO: Urteilsentwurf braucht tragenden Sachverhalt, Anträge und knappe Subsumtion.
+- Paragraf 278 ZPO über Paragraf 46 ArbGG: Vergleichsvorschlag und Entscheidungsentwurf sind taktisch sauber zu trennen.
+- Paragraf 12a ArbGG: Kostenhinweise dürfen nicht zivilprozessual automatisch übertragen werden.
+- Ständige Rechtsprechung zur arbeitsgerichtlichen Vergleichspraxis: Vergleich muss Beendigung, Zeugnis, Abrechnung, Urlaub, Herausgabe und Erledigungsklausel vollständig erfassen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Entscheidungsvorschlag Arbeitsgericht: Rechtsweg, örtliche Zuständigkeit, Verfahrensart und Güteverhandlung zuerst steuern.
+2. Klageanträge auf Bestimmtheit, Fälligkeit, Fristen und tarifliche Ausschlussfristen prüfen.
+3. Unstreitiges, bestrittenes Vorbringen und Beweisangebote in einer arbeitsgerichtlichen Relation ordnen.
+4. Hinweise so formulieren, dass beide Seiten Vergleichs- und Prozessrisiken verstehen.
+5. Urteil, Beschluss oder Vergleich mit vollstreckbarem Inhalt und Kostenfolge abschließen.
 
 ## Typische Fallstricke
 
@@ -246,19 +234,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `09-urteil-arbeitsgericht` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 10 Entscheidungsvorschlag Arbeitsgericht bearbeitet wird.
-- **Danach**: `01-zustaendigkeit-und-guetetermin` - Nutze diesen Folgeschritt, sobald 10 Entscheidungsvorschlag Arbeitsgericht als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `09-urteil-arbeitsgericht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Arbeitsgericht trägt.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
 
 ---
 
@@ -266,7 +254,7 @@ Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund orde
 
 _Betriebsübergang Paragraf 613a BGB, Eintritt in Arbeitsverhältnisse, Widerspruchsrecht, Informationspflichten Abs. 5; Tarifgebundenheit Paragraf 3 TVG, Tariftreue, Nachwirkung Paragraf 4 Abs. 5_
 
-# 04 Betriebsübergang Und Tarif
+# 04 Betriebsübergang und Tarif
 
 ## Zweck
 
@@ -297,23 +285,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- Paragraf 613a BGB: Übergang einer wirtschaftlichen Einheit, Unterrichtung, Widerspruch und Haftung müssen getrennt geprüft werden.
+- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind bei betriebsbedingten Gestaltungen sauber voneinander zu trennen.
+- Paragrafen 3, 4 und 5 TVG: Tarifbindung, Nachwirkung und Allgemeinverbindlichkeit bestimmen die Anspruchsgrundlage.
+- Paragraf 125 InsO: Interessenausgleich mit Namensliste hat besondere Darlegungs- und Vermutungswirkungen.
+- Ständige Rechtsprechung zu Paragraf 613a BGB: Betriebsübergang verlangt eine Gesamtwürdigung von Organisation, Personal, Betriebsmitteln, Kundenstamm und Kontinuität; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Betriebsübergang und Tarif: Verfahrensart, Beteiligtenfähigkeit und Zuständigkeit des Arbeitsgerichts zuerst bestimmen.
+2. Betriebsverfassungsrechtliche Mitbestimmung, Tarifbindung oder Betriebsübergang nach Tatbestandsmerkmalen trennen.
+3. Anhörungs-, Unterrichtungs- und Beteiligungsrechte anhand der konkreten Maßnahme prüfen.
+4. Beschlussverfahren mit Antrag, Beteiligtenrubrum, Anhörung und Tenorvollstreckbarkeit vorbereiten.
+5. Vergleich oder Beschluss auf betriebliche Umsetzbarkeit und Folgestreitigkeiten prüfen.
 
 ## Typische Fallstricke
 
@@ -327,19 +311,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-zahlungsklage-lohn-und-gehalt` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Betriebsübergang Und Tarif bearbeitet wird.
-- **Danach**: `05-befristung-und-teilzeit` - Nutze diesen Folgeschritt, sobald 04 Betriebsübergang Und Tarif als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-zahlungsklage-lohn-und-gehalt` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Betriebsübergang und Tarif trägt.
+- **Danach**: `05-befristung-und-teilzeit` - Folgeskill nutzen, sobald Betriebsübergang und Tarif entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -378,23 +362,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
+- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus.
+- Paragrafen 1, 4 und 7 KSchG: Kündigungsgrund, Dreiwochenfrist und Wirksamkeitsfiktion sind strikt zu trennen.
+- Paragraf 102 BetrVG: Betriebsratsanhörung ist eigener Wirksamkeitsbaustein und nicht bloße Prozessformalie.
+- Ständige Rechtsprechung zur abgestuften Darlegungslast im Kündigungsschutzprozess: Arbeitgebervortrag, Bestreiten und Beweisangebot sind stufenweise zu ordnen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Kündigungsschutzklage Prüfen: Klagefrist, Zugang der Kündigung, Betriebsgröße, Wartezeit und Kündigungsart zuerst feststellen.
+2. Personen-, verhaltens- oder betriebsbedingte Gründe getrennt prüfen; Abmahnung, Interessenabwägung und Sozialauswahl nicht vermengen.
+3. Betriebsrat, Schwerbehindertenvertretung, Sonderkündigungsschutz und Massenentlassung vor der Begründetheit kontrollieren.
+4. Gütetermin auf Weiterbeschäftigung, Annahmeverzug, Abfindungsvergleich und Zeugnisfolge vorbereiten.
+5. Urteil oder Vergleich mit Beendigungsdatum, Abrechnung, Freistellung und Kosten sauber fassen.
 
 ## Typische Fallstricke
 
@@ -408,19 +388,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `01-zustaendigkeit-und-guetetermin` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 02 Kündigungsschutzklage Prüfen bearbeitet wird.
-- **Danach**: `03-zahlungsklage-lohn-und-gehalt` - Nutze diesen Folgeschritt, sobald 02 Kündigungsschutzklage Prüfen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `01-zustaendigkeit-und-guetetermin` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kündigungsschutzklage Prüfen trägt.
+- **Danach**: `03-zahlungsklage-lohn-und-gehalt` - Folgeskill nutzen, sobald Kündigungsschutzklage Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -428,7 +408,7 @@ Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund orde
 
 _Befristungskontrolle TzBfG: sachgrundlose Befristung Paragraf 14 Abs. 2, Sachgrundbefristung Paragraf 14 Abs. 1, Zweckbefristung; Teilzeit Paragraf 8 TzBfG (Anspruch auf Verringerung)_
 
-# 05 Befristung Und Teilzeit
+# 05 Befristung und Teilzeit
 
 ## Zweck
 
@@ -459,23 +439,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- Paragrafen 14, 15 und 17 TzBfG: Sachgrund, Schriftform, Laufzeit und Entfristungsklagefrist sind die tragenden Stationen.
+- Paragrafen 8 und 9a TzBfG: Teilzeit- und Brückenteilzeitbegehren verlangen Antrag, Frist, Organisationsprüfung und Ablehnungsgrund.
+- Ständige Rechtsprechung des BAG zur sachgrundlosen Befristung: Vorbeschäftigung, institutioneller Rechtsmissbrauch und Schriftform sind gesondert zu prüfen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 307 BGB: Vorformulierte Befristungs- oder Arbeitszeitklauseln bleiben zusätzlich AGB-rechtlich kontrollfähig.
+- Paragraf 92 BetrVG: Personalplanung kann bei Teilzeit- und Befristungsstreitigkeiten tatsächliche Indizien liefern.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Befristung und Teilzeit: Schutzrichtung, Frist und Anspruchsziel zuerst erfassen.
+2. Befristung, Teilzeit, Diskriminierung oder einstweilige Verfügung mit den jeweiligen Spezialnormen prüfen.
+3. Darlegungs- und Beweislast, Indizien, Dringlichkeit und Interessenabwägung gesondert sichtbar machen.
+4. Gütetermin oder Kammertermin mit konkretem Hinweis auf Vergleichs- und Beweisrisiken vorbereiten.
+5. Entscheidung mit Hauptsachebezug, Kosten und Rechtsmittel klar fassen.
 
 ## Typische Fallstricke
 
@@ -489,19 +465,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `04-betriebsuebergang-und-tarif` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 05 Befristung Und Teilzeit bearbeitet wird.
-- **Danach**: `06-agg-diskriminierung` - Nutze diesen Folgeschritt, sobald 05 Befristung Und Teilzeit als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `04-betriebsuebergang-und-tarif` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Befristung und Teilzeit trägt.
+- **Danach**: `06-agg-diskriminierung` - Folgeskill nutzen, sobald Befristung und Teilzeit entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -540,23 +516,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- Paragrafen 1, 2, 7, 15 und 22 AGG: Merkmal, Benachteiligung, Rechtfertigung, Entschädigung und Beweiserleichterung sind strikt zu trennen.
+- EuGH, Urteil vom 17.07.2008 - C-303/06, Coleman: Diskriminierungsschutz kann auch bei Benachteiligung wegen Nähe zu einer geschützten Person eingreifen.
+- BAG, Urteil vom 19.02.2015 - 8 AZR 1007/13, frei nachweisbar über dejure/openJur: Indizien nach Paragraf 22 AGG müssen eine überwiegende Wahrscheinlichkeit für Benachteiligung tragen.
+- Paragraf 61b ArbGG: Klagefrist für Entschädigungsansprüche ist gesondert von der schriftlichen Geltendmachung zu prüfen.
+- Ständige Rechtsprechung zu Stellenausschreibungen und Indizien: Wortlaut, Auswahlvermerk und Vergleichspersonen müssen aktenbezogen ausgewertet werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Agg Diskriminierung: Schutzrichtung, Frist und Anspruchsziel zuerst erfassen.
+2. Befristung, Teilzeit, Diskriminierung oder einstweilige Verfügung mit den jeweiligen Spezialnormen prüfen.
+3. Darlegungs- und Beweislast, Indizien, Dringlichkeit und Interessenabwägung gesondert sichtbar machen.
+4. Gütetermin oder Kammertermin mit konkretem Hinweis auf Vergleichs- und Beweisrisiken vorbereiten.
+5. Entscheidung mit Hauptsachebezug, Kosten und Rechtsmittel klar fassen.
 
 ## Typische Fallstricke
 
@@ -570,19 +542,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-befristung-und-teilzeit` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 06 Agg Diskriminierung bearbeitet wird.
-- **Danach**: `07-einstweilige-verfuegung-arbeitsrecht` - Nutze diesen Folgeschritt, sobald 06 Agg Diskriminierung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `05-befristung-und-teilzeit` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Agg Diskriminierung trägt.
+- **Danach**: `07-einstweilige-verfuegung-arbeitsrecht` - Folgeskill nutzen, sobald Agg Diskriminierung entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -621,23 +593,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- Paragrafen 2a, 80, 87, 99 und 100 BetrVG: Zuständigkeit, Beteiligungsrecht, Unterrichtung und Eilmaßnahmen sind getrennte Prüfungsstationen.
+- Paragrafen 83 und 84 ArbGG: Amtsermittlung und Beteiligtenstellung prägen das Beschlussverfahren.
+- BAG, Beschluss vom 13.12.2016 - 1 ABR 7/15, frei nachweisbar über dejure/openJur: Mitbestimmung verlangt konkrete Zuordnung zum gesetzlichen Beteiligungstatbestand.
+- Paragraf 23 Abs. 3 BetrVG: Grobe Pflichtverletzung und Unterlassungsanspruch brauchen belastbare Tatsachenbasis.
+- Ständige Rechtsprechung zu Paragraf 87 BetrVG: Mitbestimmung setzt kollektiven Tatbestand voraus; individuelle Rechtsausübung genügt nicht. Konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Betriebsverfassung Beschlussverfahren: Verfahrensart, Beteiligtenfähigkeit und Zuständigkeit des Arbeitsgerichts zuerst bestimmen.
+2. Betriebsverfassungsrechtliche Mitbestimmung, Tarifbindung oder Betriebsübergang nach Tatbestandsmerkmalen trennen.
+3. Anhörungs-, Unterrichtungs- und Beteiligungsrechte anhand der konkreten Maßnahme prüfen.
+4. Beschlussverfahren mit Antrag, Beteiligtenrubrum, Anhörung und Tenorvollstreckbarkeit vorbereiten.
+5. Vergleich oder Beschluss auf betriebliche Umsetzbarkeit und Folgestreitigkeiten prüfen.
 
 ## Typische Fallstricke
 
@@ -651,19 +619,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-einstweilige-verfuegung-arbeitsrecht` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Betriebsverfassung Beschlussverfahren bearbeitet wird.
-- **Danach**: `09-urteil-arbeitsgericht` - Nutze diesen Folgeschritt, sobald 08 Betriebsverfassung Beschlussverfahren als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-einstweilige-verfuegung-arbeitsrecht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Betriebsverfassung Beschlussverfahren trägt.
+- **Danach**: `09-urteil-arbeitsgericht` - Folgeskill nutzen, sobald Betriebsverfassung Beschlussverfahren entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -702,23 +670,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- Paragrafen 935, 940 ZPO in Verbindung mit Paragraf 62 ArbGG: Verfügungsanspruch und Verfügungsgrund müssen arbeitsgerichtlich getrennt glaubhaft gemacht werden.
+- Paragraf 940 ZPO: Beschäftigungs-, Unterlassungs- und Zutrittsbegehren verlangen konkrete Eilbedürftigkeit.
+- Paragraf 294 ZPO: Glaubhaftmachung ersetzt keine pauschale Behauptung, sondern verlangt präsente Mittel.
+- Ständige Rechtsprechung zum Weiterbeschäftigungsanspruch: Bestandsinteresse, Titulierbarkeit und Vorwegnahme der Hauptsache sind konkret abzuwägen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 890 ZPO: Ordnungsmittel müssen im Tenor vollstreckungsfähig vorbereitet werden.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Einstweilige Verfügung Arbeitsrecht: Schutzrichtung, Frist und Anspruchsziel zuerst erfassen.
+2. Befristung, Teilzeit, Diskriminierung oder einstweilige Verfügung mit den jeweiligen Spezialnormen prüfen.
+3. Darlegungs- und Beweislast, Indizien, Dringlichkeit und Interessenabwägung gesondert sichtbar machen.
+4. Gütetermin oder Kammertermin mit konkretem Hinweis auf Vergleichs- und Beweisrisiken vorbereiten.
+5. Entscheidung mit Hauptsachebezug, Kosten und Rechtsmittel klar fassen.
 
 ## Typische Fallstricke
 
@@ -732,19 +696,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-agg-diskriminierung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 07 Einstweilige Verfügung Arbeitsrecht bearbeitet wird.
-- **Danach**: `08-betriebsverfassung-beschlussverfahren` - Nutze diesen Folgeschritt, sobald 07 Einstweilige Verfügung Arbeitsrecht als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-agg-diskriminierung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Einstweilige Verfügung Arbeitsrecht trägt.
+- **Danach**: `08-betriebsverfassung-beschlussverfahren` - Folgeskill nutzen, sobald Einstweilige Verfügung Arbeitsrecht entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 
@@ -752,7 +716,7 @@ Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund orde
 
 _Sachliche Zuständigkeit Paragraf 2 ArbGG, örtliche Zuständigkeit Paragraf 48 ArbGG i.V.m. Paragrafen 12 ff. ZPO, Klagezustellung, Anberaumung Guetetermin Paragraf 54 ArbGG_
 
-# 01 Zuständigkeit Und Guetetermin
+# 01 Zuständigkeit und Guetetermin
 
 ## Zweck
 
@@ -783,23 +747,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- Paragrafen 2, 2a, 46 und 54 ArbGG: Rechtsweg, Verfahrensart, Güteverhandlung und frühe Terminssteuerung müssen vor materieller Prüfung feststehen.
+- BAG, Beschluss vom 22.10.2014 - 10 AZB 46/14, frei nachweisbar über dejure: Der Rechtsweg zu den Gerichten für Arbeitssachen hängt von Arbeitnehmereigenschaft und Streitgegenstand ab.
+- Ständige Rechtsprechung zu Paragraf 54 ArbGG: Gütetermin dient ernsthafter Vergleichsanbahnung, ersetzt aber keine ungeordnete materiell-rechtliche Vorentscheidung; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragrafen 61a und 64 ArbGG: Beschleunigung und Berufungsfähigkeit sind schon bei der Terminsverfügung mitzudenken.
+- Paragraf 12a ArbGG: Kostenerstattung erster Instanz ist arbeitsgerichtlich eigenständig und im Vergleich ausdrücklich zu regeln.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Zuständigkeit und Guetetermin: Rechtsweg, örtliche Zuständigkeit, Verfahrensart und Güteverhandlung zuerst steuern.
+2. Klageanträge auf Bestimmtheit, Fälligkeit, Fristen und tarifliche Ausschlussfristen prüfen.
+3. Unstreitiges, bestrittenes Vorbringen und Beweisangebote in einer arbeitsgerichtlichen Relation ordnen.
+4. Hinweise so formulieren, dass beide Seiten Vergleichs- und Prozessrisiken verstehen.
+5. Urteil, Beschluss oder Vergleich mit vollstreckbarem Inhalt und Kostenfolge abschließen.
 
 ## Typische Fallstricke
 
@@ -813,19 +773,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-arbeitsgericht` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 01 Zuständigkeit Und Guetetermin bearbeitet wird.
-- **Danach**: `02-kuendigungsschutzklage-pruefen` - Nutze diesen Folgeschritt, sobald 01 Zuständigkeit Und Guetetermin als gerichtlicher Arbeitsstand verwertbar ist.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
+- **Danach**: `02-kuendigungsschutzklage-pruefen` - Folgeskill nutzen, sobald Zuständigkeit und Guetetermin entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ---
 

@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Eigenverwaltung und Schutzschirm: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
+1. Eigenverwaltung und Schutzschirm: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
 2. Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung anhand Aktenzahlen, Gutachten und Liquiditätsstatus trennen.
 3. Sicherungsmaßnahmen nur nach Erforderlichkeit, Verhältnismäßigkeit und konkreter Massegefährdung anordnen.
 4. Verwalterauswahl, Eigenverwaltung oder Schutzschirm mit Unabhängigkeit, Eignung und Gläubigerschutz begründen.
@@ -70,5 +70,5 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 
 ## Benachbarte Skills
 
-- **Davor**: `05-restschuldbefreiung-und-schlusstermin` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Eigenverwaltung und Schutzschirm trägt.
-- **Danach**: `07-insolvenzplan-bestaetigen` - Folgeschritt im selben Plugin; nutze ihn, sobald Eigenverwaltung und Schutzschirm entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-restschuldbefreiung-und-schlusstermin` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Eigenverwaltung und Schutzschirm trägt.
+- **Danach**: `07-insolvenzplan-bestaetigen` - Folgeskill nutzen, sobald Eigenverwaltung und Schutzschirm entscheidungs- oder verfügungsreif vorbereitet ist.

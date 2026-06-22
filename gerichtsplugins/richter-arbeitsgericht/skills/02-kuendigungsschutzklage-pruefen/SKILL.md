@@ -36,12 +36,13 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 - BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
 - BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus.
-- BAG, Urteil vom 19.02.2019 - 9 AZR 541/15, frei nachweisbar über dejure/openJur: Urlaubsansprüche verfallen nur bei ordnungsgemäßer Mitwirkung und klarem Hinweis des Arbeitgebers.
-- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind im Kündigungsschutzprozess sauber voneinander zu trennen.
+- Paragrafen 1, 4 und 7 KSchG: Kündigungsgrund, Dreiwochenfrist und Wirksamkeitsfiktion sind strikt zu trennen.
+- Paragraf 102 BetrVG: Betriebsratsanhörung ist eigener Wirksamkeitsbaustein und nicht bloße Prozessformalie.
+- Ständige Rechtsprechung zur abgestuften Darlegungslast im Kündigungsschutzprozess: Arbeitgebervortrag, Bestreiten und Beweisangebot sind stufenweise zu ordnen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Kündigungsschutzklage Prüfen: Klagefrist, Zugang der Kündigung, Betriebsgröße, Wartezeit und Kündigungsart zuerst feststellen.
+1. Kündigungsschutzklage Prüfen: Klagefrist, Zugang der Kündigung, Betriebsgröße, Wartezeit und Kündigungsart zuerst feststellen.
 2. Personen-, verhaltens- oder betriebsbedingte Gründe getrennt prüfen; Abmahnung, Interessenabwägung und Sozialauswahl nicht vermengen.
 3. Betriebsrat, Schwerbehindertenvertretung, Sonderkündigungsschutz und Massenentlassung vor der Begründetheit kontrollieren.
 4. Gütetermin auf Weiterbeschäftigung, Annahmeverzug, Abfindungsvergleich und Zeugnisfolge vorbereiten.
@@ -70,5 +71,5 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 
 ## Benachbarte Skills
 
-- **Davor**: `01-zustaendigkeit-und-guetetermin` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Kündigungsschutzklage Prüfen trägt.
-- **Danach**: `03-zahlungsklage-lohn-und-gehalt` - Folgeschritt im selben Plugin; nutze ihn, sobald Kündigungsschutzklage Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-zustaendigkeit-und-guetetermin` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kündigungsschutzklage Prüfen trägt.
+- **Danach**: `03-zahlungsklage-lohn-und-gehalt` - Folgeskill nutzen, sobald Kündigungsschutzklage Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.

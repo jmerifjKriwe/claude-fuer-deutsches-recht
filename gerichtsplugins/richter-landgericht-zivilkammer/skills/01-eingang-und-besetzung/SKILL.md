@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Eingang und Besetzung: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
+1. Eingang und Besetzung: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
 2. Klage nach Paragraf 253 ZPO auf Antrag, Parteien, Lebenssachverhalt, Bezifferung, Anlagen und Zustellfähigkeit kontrollieren.
 3. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Paragraf 495a ZPO oder Sonderzuständigkeit.
 4. Fristen und Kostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen können.
@@ -71,4 +71,4 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-grosse-relation-zivilrecht` - Folgeschritt im selben Plugin; nutze ihn, sobald Eingang und Besetzung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-grosse-relation-zivilrecht` - Folgeskill nutzen, sobald Eingang und Besetzung entscheidungs- oder verfügungsreif vorbereitet ist.

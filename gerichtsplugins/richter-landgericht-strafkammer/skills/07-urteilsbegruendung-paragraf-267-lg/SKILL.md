@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Urteilsbegründung Paragraf 267 Lg: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
+1. Urteilsbegründung Paragraf 267 Lg: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
 2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
 3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
 4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
@@ -70,5 +70,5 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 ## Benachbarte Skills
 
-- **Davor**: `06-massnahmen-paragraf-61-stgb` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Urteilsbegründung Paragraf 267 Lg trägt.
-- **Danach**: `08-berufung-strafkammer` - Folgeschritt im selben Plugin; nutze ihn, sobald Urteilsbegründung Paragraf 267 Lg entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-massnahmen-paragraf-61-stgb` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteilsbegründung Paragraf 267 Lg trägt.
+- **Danach**: `08-berufung-strafkammer` - Folgeskill nutzen, sobald Urteilsbegründung Paragraf 267 Lg entscheidungs- oder verfügungsreif vorbereitet ist.

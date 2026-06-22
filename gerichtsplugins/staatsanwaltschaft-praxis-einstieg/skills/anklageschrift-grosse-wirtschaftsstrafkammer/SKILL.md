@@ -35,7 +35,7 @@ description: "Anklageschrift zur großen Wirtschaftsstrafkammer: Praxis-Skill f�
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Anklageschrift zur großen Wirtschaftsstrafkammer: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+1. Anklageschrift zur großen Wirtschaftsstrafkammer: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
 2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
 3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
 4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.

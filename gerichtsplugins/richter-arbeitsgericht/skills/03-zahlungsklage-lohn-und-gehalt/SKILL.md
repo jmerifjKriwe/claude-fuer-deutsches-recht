@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus.
-- BAG, Urteil vom 19.02.2019 - 9 AZR 541/15, frei nachweisbar über dejure/openJur: Urlaubsansprüche verfallen nur bei ordnungsgemäßer Mitwirkung und klarem Hinweis des Arbeitgebers.
-- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind im Kündigungsschutzprozess sauber voneinander zu trennen.
+- Paragrafen 611a, 612 und 614 BGB: Vergütung, Höhe und Fälligkeit des Arbeitsentgelts müssen aus Vertrag, Tarif, Übung oder Gesetz hergeleitet werden.
+- Paragraf 3 MiLoG: Mindestlohnansprüche sind unabdingbar; Ausschlussfristen und Verzicht sind gesondert zu kontrollieren.
+- Paragraf 286 BGB: Verzugszinsen und Verzugsschaden setzen Fälligkeit, Nichtleistung und gegebenenfalls Mahnung voraus.
+- Paragraf 138 ZPO: Erfüllung, Abrechnung, Arbeitszeit und Einwendungen gegen Entgelt sind nach Darlegungslast getrennt zu würdigen.
+- Ständige Rechtsprechung des BAG zu Ausschlussfristen: Transparenz, Mindestlohnausnahme und rechtzeitige Geltendmachung sind im Zahlungsprozess konkret zu prüfen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Zahlungsklage Lohn und Gehalt: Anspruchszeitraum, Brutto-Netto-Bezug, Fälligkeit und Ausschlussfristen zuerst aufklären.
+1. Zahlungsklage Lohn und Gehalt: Anspruchszeitraum, Brutto-Netto-Bezug, Fälligkeit und Ausschlussfristen zuerst aufklären.
 2. Arbeitsvertrag, Tarifvertrag, Betriebsvereinbarung, Entgeltabrechnung und tatsächliche Arbeitsleistung gegeneinander prüfen.
 3. Annahmeverzug, Überstunden, Sonderzahlung und Zurückbehaltungsrechte getrennt behandeln.
 4. Beweislast für Arbeitsleistung, Anordnung/Duldung und Höhe sichtbar machen.
@@ -70,5 +71,5 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 
 ## Benachbarte Skills
 
-- **Davor**: `02-kuendigungsschutzklage-pruefen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zahlungsklage Lohn und Gehalt trägt.
-- **Danach**: `04-betriebsuebergang-und-tarif` - Folgeschritt im selben Plugin; nutze ihn, sobald Zahlungsklage Lohn und Gehalt entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `02-kuendigungsschutzklage-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zahlungsklage Lohn und Gehalt trägt.
+- **Danach**: `04-betriebsuebergang-und-tarif` - Folgeskill nutzen, sobald Zahlungsklage Lohn und Gehalt entscheidungs- oder verfügungsreif vorbereitet ist.

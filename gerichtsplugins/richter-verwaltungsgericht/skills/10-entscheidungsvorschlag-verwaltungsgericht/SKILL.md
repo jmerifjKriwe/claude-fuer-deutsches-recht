@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Entscheidungsvorschlag Verwaltungsgericht: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist, Beteiligtenfähigkeit und Rechtsschutzbedürfnis prüfen.
+1. Entscheidungsvorschlag Verwaltungsgericht: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist, Beteiligtenfähigkeit und Rechtsschutzbedürfnis prüfen.
 2. Rechtsweg und Zuständigkeit nicht aus dem Behördenrubrum ableiten, sondern nach Streitgegenstand bestimmen.
 3. Widerspruchsverfahren und landesrechtliche Ausnahmen ausdrücklich markieren.
 4. Klageantrag nach erkennbarem Rechtsschutzziel auslegen, ohne das Begehren umzudeuten.
@@ -70,5 +70,5 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 
 ## Benachbarte Skills
 
-- **Davor**: `09-rechtsmittel-vwgo` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Verwaltungsgericht trägt.
+- **Davor**: `09-rechtsmittel-vwgo` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Verwaltungsgericht trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

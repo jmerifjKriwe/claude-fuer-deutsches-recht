@@ -19,7 +19,7 @@ description: "Plädoyer der Staatsanwaltschaft: Praxis-Skill für neue Staatsanw
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Plädoyer der Staatsanwaltschaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+1. Plädoyer der Staatsanwaltschaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
 2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
 3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
 4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.

@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98, BVerfGE 115, 25: Bei lebensbedrohlicher Erkrankung kann ausnahmsweise ein Anspruch auf neue Behandlungsmethoden bestehen.
-- BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09, 1 BvL 3/09 und 1 BvL 4/09, BVerfGE 125, 175: Existenzsichernde Leistungen müssen realitätsgerecht, transparent und folgerichtig bemessen werden.
-- BVerfG, Urteil vom 18.07.2012 - 1 BvL 10/10 und 1 BvL 2/11, BVerfGE 132, 134: Das menschenwürdige Existenzminimum darf nicht migrationspolitisch relativiert werden.
-- BSG, Urteil vom 28.05.2019 - B 1 KR 32/18 R, frei nachweisbar über sozialgerichtsbarkeit.de/dejure: Krankenhausbehandlung und neue Methoden verlangen die Abgrenzung von Standard, Potential und Einzelfallanspruch.
+- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
+- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
+- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
+- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
+- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Unfallversicherung Prüfung: Versicherungszweig, Leistungsart, Verwaltungsakt und medizinischen oder beruflichen Tatsachenkern zuerst bestimmen.
+1. Unfallversicherung Prüfung: Versicherungszweig, Leistungsart, Verwaltungsakt und medizinischen oder beruflichen Tatsachenkern zuerst bestimmen.
 2. Anspruchsvoraussetzungen nach SGB, Richtlinien und Bescheidlage stufenweise prüfen.
 3. Befundberichte, Gutachten, Reha-Unterlagen und Verwaltungsakte auf Aktualität und Widersprüche kontrollieren.
 4. Amtsermittlung mit konkretem Beweisthema formulieren; subjektive Beschwerden und objektivierbare Befunde trennen.
@@ -70,5 +71,5 @@ Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, 
 
 ## Benachbarte Skills
 
-- **Davor**: `05-rentenversicherung-pruefung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Unfallversicherung Prüfung trägt.
-- **Danach**: `07-buergergeld-und-sgb-ii` - Folgeschritt im selben Plugin; nutze ihn, sobald Unfallversicherung Prüfung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-rentenversicherung-pruefung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Unfallversicherung Prüfung trägt.
+- **Danach**: `07-buergergeld-und-sgb-ii` - Folgeskill nutzen, sobald Unfallversicherung Prüfung entscheidungs- oder verfügungsreif vorbereitet ist.

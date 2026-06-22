@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Beklagtenvortrag Strukturieren: Bestreiten, Einwendung, Einrede, Hilfsaufrechnung und Widerklage getrennt in die Beklagtenstation aufnehmen.
+1. Beklagtenvortrag Strukturieren: Bestreiten, Einwendung, Einrede, Hilfsaufrechnung und Widerklage getrennt in die Beklagtenstation aufnehmen.
 2. Erheblichkeit nur bei unterstellter Wahrheit prüfen: Welche Verteidigung würde die schlüssige Klage ganz oder teilweise zu Fall bringen?
 3. Präklusion, Geständnis, sekundäre Darlegungslast und Bestreiten mit Nichtwissen gesondert markieren.
 4. Einreden wie Verjährung, Zurückbehaltung oder dauernde Leistungsverweigerung mit Frist- und Tatsachenkern versehen.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `07-klaegerstation-votum` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beklagtenvortrag Strukturieren trägt.
-- **Danach**: `09-einwendungen-einreden-pruefen` - Folgeschritt im selben Plugin; nutze ihn, sobald Beklagtenvortrag Strukturieren entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `07-klaegerstation-votum` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beklagtenvortrag Strukturieren trägt.
+- **Danach**: `09-einwendungen-einreden-pruefen` - Folgeskill nutzen, sobald Beklagtenvortrag Strukturieren entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Strafbefehlsantrag Paragraf 407: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+1. Strafbefehlsantrag Paragraf 407: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
 2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
 3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
 4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `12-teileinstellung-paragraf-154-und-154a` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Strafbefehlsantrag Paragraf 407 trägt.
-- **Danach**: `14-anklageschrift-paragraf-200` - Folgeschritt im selben Plugin; nutze ihn, sobald Strafbefehlsantrag Paragraf 407 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `12-teileinstellung-paragraf-154-und-154a` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Strafbefehlsantrag Paragraf 407 trägt.
+- **Danach**: `14-anklageschrift-paragraf-200` - Folgeskill nutzen, sobald Strafbefehlsantrag Paragraf 407 entscheidungs- oder verfügungsreif vorbereitet ist.

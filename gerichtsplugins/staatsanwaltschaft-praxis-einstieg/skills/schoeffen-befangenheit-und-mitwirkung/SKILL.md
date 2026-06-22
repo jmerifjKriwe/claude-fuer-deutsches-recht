@@ -34,7 +34,7 @@ description: "Schöffen: Befangenheit, Ausfall und Mitwirkung: Praxis-Skill für
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Schöffen: Befangenheit, Ausfall und Mitwirkung: Sitzungsrolle, Beweisthema, Verfahrensstand und Ziel des staatsanwaltschaftlichen Antrags zuerst bestimmen.
+1. Schöffen: Befangenheit, Ausfall und Mitwirkung: Sitzungsrolle, Beweisthema, Verfahrensstand und Ziel des staatsanwaltschaftlichen Antrags zuerst bestimmen.
 2. Fragerecht, Beweisanträge, Verständigung, Befangenheit und Rechtsmittel nur auf aktenkundige Tatsachen stützen.
 3. Bei Verteidigeranträgen sofort Zulässigkeit, Begründetheit, Ablehnungsgrund und Protokollierungsbedarf trennen.
 4. Schlussvortrag nach Tatnachweis, rechtlicher Würdigung, Strafzumessung und Nebenfolgen gliedern.

@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Kostenentscheidung und Streitwert: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+1. Kostenentscheidung und Streitwert: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
 2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
 3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
 4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `07-berufungsverfahren-paragraf-511-ff` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Kostenentscheidung und Streitwert trägt.
-- **Danach**: `09-vergleich-und-mediation` - Folgeschritt im selben Plugin; nutze ihn, sobald Kostenentscheidung und Streitwert entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `07-berufungsverfahren-paragraf-511-ff` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kostenentscheidung und Streitwert trägt.
+- **Danach**: `09-vergleich-und-mediation` - Folgeskill nutzen, sobald Kostenentscheidung und Streitwert entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Berufung Strafkammer: Prüfen, ob die gewählte Verfahrensart gesetzlich eröffnet und angesichts Tatvorwurf, Beweislage und Rechtsfolge angemessen ist.
+1. Berufung Strafkammer: Prüfen, ob die gewählte Verfahrensart gesetzlich eröffnet und angesichts Tatvorwurf, Beweislage und Rechtsfolge angemessen ist.
 2. Strafbefehl, beschleunigtes Verfahren oder Berufungskammer nur nutzen, wenn Zuständigkeit, Ladungsfristen und Verteidigungsrechte gesichert sind.
 3. Einspruch, Beschränkung, Säumnis und Rücknahmefolgen in die Terminverfügung aufnehmen.
 4. Beweisaufnahme auf das verfahrensspezifisch Erforderliche konzentrieren, ohne Aufklärungspflicht zu verkürzen.
@@ -70,5 +70,5 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 ## Benachbarte Skills
 
-- **Davor**: `07-urteilsbegruendung-paragraf-267-lg` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Berufung Strafkammer trägt.
-- **Danach**: `09-rechtsmittelbelehrung-strafkammer` - Folgeschritt im selben Plugin; nutze ihn, sobald Berufung Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `07-urteilsbegruendung-paragraf-267-lg` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Berufung Strafkammer trägt.
+- **Danach**: `09-rechtsmittelbelehrung-strafkammer` - Folgeskill nutzen, sobald Berufung Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.

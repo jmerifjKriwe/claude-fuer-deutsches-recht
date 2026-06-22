@@ -34,19 +34,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
-- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
-- EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04, Kittel und Recolta Recycling: Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er in Umsatzsteuerbetrug einbezogen war.
-- EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11, Mahagében und Dávid: Redlichen Unternehmern dürfen keine überspannten Nachforschungspflichten auferlegt werden.
-- EuGH, Urteil vom 18.12.2014 - C-131/13, C-163/13 und C-164/13, Italmoda: Unionsrechtlich geprägte Steuerrechte können bei Beteiligung an Steuerbetrug versagt werden.
+- BFH, Urteil vom 15.03.2023 - I R 41/19, frei nachweisbar über BFH und dejure: Abweichendes Verhalten zwischen Kapitalgesellschaft und Gesellschafter indiziert bei Fremdvergleichsverstoß die gesellschaftliche Veranlassung einer verdeckten Gewinnausschüttung.
+- BFH, Urteil vom 11.11.2015 - I R 26/15, frei nachweisbar über dejure: Arbeitszeitkonten beherrschender Gesellschafter-Geschäftsführer sind am Fremdvergleich und an der Organstellung zu messen.
+- BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17, BVerfGE 158, 282: Gesetzliche Verzinsung von Steuernachforderungen und Steuererstattungen muss realitätsgerecht und verhältnismäßig ausgestaltet sein.
+- BFH, Urteil vom 04.11.2021 - VI R 22/19, BStBl. II 2022, 562: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen oder verteilen nationale Besteuerung.
+- Ständige Rechtsprechung zu Paragraf 8 Abs. 3 Satz 2 KStG: Vorteilsgewährung, gesellschaftliche Veranlassung und außerbilanzielle Korrektur müssen getrennt begründet werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Körperschaft und Gewerbesteuer: Steuerart, Streitjahr, Bescheidlage, Änderungsnorm und streitige Besteuerungsgrundlage zuerst festlegen.
-2. Tatbestandsmerkmale der materiellen Steuernorm mit Buchführung, Erklärung, Betriebsprüfung und Schätzung abgleichen.
-3. Feststellungslast, Mitwirkungspflichten, Auslandssachverhalte und Schätzungsbefugnis getrennt prüfen.
-4. DBA, Unionsrecht oder Missbrauchsnormen nur einziehen, wenn sie den nationalen Tatbestand tatsächlich begrenzen oder auslösen.
-5. Tenor mit Änderung des Bescheids, Neuberechnung durch das Finanzamt und Kostenentscheidung vorbereiten.
+1. Körperschaftsteuerliche Subjektsteuerpflicht nach Paragraf 1 KStG und gewerbesteuerlichen Steuergegenstand nach Paragraf 2 GewStG getrennt feststellen.
+2. Streitige Einkommenskorrektur bestimmen: verdeckte Gewinnausschüttung, verdeckte Einlage, nicht abziehbare Betriebsausgabe, Hinzurechnung oder Kürzung.
+3. Bei verdeckter Gewinnausschüttung Vermögensminderung, Veranlassung durch das Gesellschaftsverhältnis, Fremdvergleich und außerbilanzielle Hinzurechnung sichtbar nacheinander prüfen.
+4. Gewerbesteuermessbetrag aus Gewinn, Hinzurechnungen nach Paragraf 8 GewStG, Kürzungen nach Paragraf 9 GewStG und Verlustvorträgen rechnerisch nachvollziehen.
+5. Tenor so fassen, dass Bescheidänderung, Neuberechnung durch das Finanzamt und Kostenentscheidung ohne zweite Sachprüfung vollziehbar sind.
 
 ## Typische Fallstricke
 
@@ -71,5 +71,5 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 
 ## Benachbarte Skills
 
-- **Davor**: `06-ust-pruefungsschema` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Körperschaft und Gewerbesteuer trägt.
-- **Danach**: `08-schaetzung-und-betriebspruefung` - Folgeschritt im selben Plugin; nutze ihn, sobald Körperschaft und Gewerbesteuer entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-ust-pruefungsschema` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Körperschaft und Gewerbesteuer trägt.
+- **Danach**: `08-schaetzung-und-betriebspruefung` - Folgeskill nutzen, sobald Körperschaft und Gewerbesteuer entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt StaRUG Planbestätigung und Folgen: StarUG-Voraussetzungen, drohende Zahlungsunfähigkeit und Planbetroffenheit zuerst prüfen.
+1. StaRUG Planbestätigung und Folgen: StarUG-Voraussetzungen, drohende Zahlungsunfähigkeit und Planbetroffenheit zuerst prüfen.
 2. Stabilisierungsanordnung, Planabstimmung und Planbestätigung nach Eingriffsgewicht und Gläubigergruppen trennen.
 3. Obstruktionsverbot, Minderheitenschutz, Vergleichsrechnung und Best-Interest-Test gesondert abarbeiten.
 4. Beschluss so fassen, dass Reichweite, Dauer und betroffene Forderungen eindeutig sind.
@@ -70,5 +70,5 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 
 ## Benachbarte Skills
 
-- **Davor**: `09-starug-stabilisierungsanordnung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis StaRUG Planbestätigung und Folgen trägt.
+- **Davor**: `09-starug-stabilisierungsanordnung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis StaRUG Planbestätigung und Folgen trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

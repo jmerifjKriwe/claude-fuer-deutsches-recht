@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Strafvollstreckung Paragraf 451: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+1. Strafvollstreckung Paragraf 451: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
 2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
 3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
 4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `21-rechtsmittel-der-staatsanwaltschaft` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Strafvollstreckung Paragraf 451 trägt.
-- **Danach**: `23-klageerzwingung-und-beschwerdebescheid-paragraf-172` - Folgeschritt im selben Plugin; nutze ihn, sobald Strafvollstreckung Paragraf 451 entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `21-rechtsmittel-der-staatsanwaltschaft` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Strafvollstreckung Paragraf 451 trägt.
+- **Danach**: `23-klageerzwingung-und-beschwerdebescheid-paragraf-172` - Folgeskill nutzen, sobald Strafvollstreckung Paragraf 451 entscheidungs- oder verfügungsreif vorbereitet ist.

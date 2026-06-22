@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Subsidiaritaet und Frist: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
+1. Subsidiaritaet und Frist: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
 2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
 3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
 4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
@@ -71,5 +71,5 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 
 ## Benachbarte Skills
 
-- **Davor**: `03-rechtswegerschoepfung-paragraf-90-abs-2` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Subsidiaritaet und Frist trägt.
-- **Danach**: `05-grundrechtsdogmatik-pruefen` - Folgeschritt im selben Plugin; nutze ihn, sobald Subsidiaritaet und Frist entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `03-rechtswegerschoepfung-paragraf-90-abs-2` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Subsidiaritaet und Frist trägt.
+- **Danach**: `05-grundrechtsdogmatik-pruefen` - Folgeskill nutzen, sobald Subsidiaritaet und Frist entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -34,19 +34,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
-- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
-- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
-- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
-- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure: Registergerichtliche Prüfung bleibt auf eintragungsrelevante Tatsachen beschränkt und ersetzt keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure und BGH-Zitierung in II ZB 11/24: Ausländische Notare können registerrechtlich relevante GmbH-Unterlagen nur bei Gleichwertigkeit der Beurkundung einreichen.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure: Die Gesellschafterliste wirkt registerrechtlich legitimierend, ohne die materielle Anteilsinhaberschaft endgültig zu klären.
+- Ständige Rechtsprechung zu Paragraf 3 GmbHG und Paragraf 9c GmbHG: Firma, Sitz, Unternehmensgegenstand und Stammkapital müssen eintragungsfähig, bestimmt und satzungskonform belegt sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Ständige Rechtsprechung zu Paragraf 382 FamFG: Eine Zwischenverfügung darf nur behebbarer Hindernisse wegen ergehen; unbehebbare Satzungsmängel führen zur Zurückweisung.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Gesellschaftsvertrag Prüfen Gmbh: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
-2. Formelle Voraussetzungen prüfen: elektronische Einreichung, notarielle Beglaubigung, Vertretungsmacht, Vollmacht und Urkundenlage.
-3. Materielle Eintragungsfähigkeit anhand HGB, GmbHG, AktG, UmwG, GenG oder Vereinsrecht abarbeiten.
-4. Bei Zweifeln nur registerrelevante Tatsachen aufklären; zivilrechtliche Binnenstreitigkeiten nicht als Hauptsacheprozess entscheiden.
-5. Eintragung, Zwischenverfügung oder Zurückweisung mit konkretem Registervollzug abschließen.
+1. Registeranmeldung und notarielle Form prüfen: elektronische Einreichung, Beglaubigung, Vertretung der anmeldenden Geschäftsführer und Vollständigkeit der Gründungsunterlagen.
+2. Mindestinhalt nach Paragraf 3 GmbHG abarbeiten: Firma, Sitz, Gegenstand, Stammkapital, Geschäftsanteile und etwaige Sacheinlagen einzeln mit dem Satzungstext abgleichen.
+3. Eintragungsfähigkeit des Unternehmensgegenstands prüfen: hinreichende Bestimmtheit, keine evident erlaubnispflichtige oder verbotene Tätigkeit ohne Nachweis, keine irreführende Branchenbeschreibung.
+4. Kapital- und Geschäftsführerangaben mit Paragrafen 5, 6, 7, 8 und 9c GmbHG abgleichen; Versicherungen der Geschäftsführer nur auf registerrechtliche Plausibilität, nicht als Hauptsachebeweis, würdigen.
+5. Bei behebbaren Satzungs- oder Nachweismängeln eine konkrete Zwischenverfügung fassen; bei unbehebbarem Mangel zurückweisen und die Beschwerdemöglichkeit nach FamFG sauber eröffnen.
 
 ## Typische Fallstricke
 
@@ -71,5 +71,5 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `02-firmenrecht-pruefen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Gesellschaftsvertrag Prüfen Gmbh trägt.
-- **Danach**: `04-vertretungsmacht-und-prokura` - Folgeschritt im selben Plugin; nutze ihn, sobald Gesellschaftsvertrag Prüfen Gmbh entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `02-firmenrecht-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Gesellschaftsvertrag Prüfen Gmbh trägt.
+- **Danach**: `04-vertretungsmacht-und-prokura` - Folgeskill nutzen, sobald Gesellschaftsvertrag Prüfen Gmbh entscheidungs- oder verfügungsreif vorbereitet ist.

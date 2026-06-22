@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Gläubigerversammlung und Prüfungstermin: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen.
+1. Gläubigerversammlung und Prüfungstermin: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen.
 2. Gläubigerrechte, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Versagungsgründe getrennt prüfen.
 3. Masseinteresse, Verfahrensökonomie und rechtliches Gehör dokumentieren.
 4. Beschluss mit Tenor, Gründen, Zustellung und Rechtsmittelbelehrung formulieren.
@@ -70,5 +70,5 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 
 ## Benachbarte Skills
 
-- **Davor**: `03-eroeffnungsbeschluss-und-verwalterbestellung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Gläubigerversammlung und Prüfungstermin trägt.
-- **Danach**: `05-restschuldbefreiung-und-schlusstermin` - Folgeschritt im selben Plugin; nutze ihn, sobald Gläubigerversammlung und Prüfungstermin entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `03-eroeffnungsbeschluss-und-verwalterbestellung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Gläubigerversammlung und Prüfungstermin trägt.
+- **Danach**: `05-restschuldbefreiung-und-schlusstermin` - Folgeskill nutzen, sobald Gläubigerversammlung und Prüfungstermin entscheidungs- oder verfügungsreif vorbereitet ist.

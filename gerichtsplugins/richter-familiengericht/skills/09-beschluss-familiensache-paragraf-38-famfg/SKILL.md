@@ -34,14 +34,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
-- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
+- Paragraf 38 FamFG: Beschluss braucht Rubrum, Beschlussformel, Gründe, Rechtsbehelfsbelehrung und Unterschrift beziehungsweise Signatur.
+- Paragrafen 39, 40 und 41 FamFG: Bekanntgabe, Wirksamwerden und Rechtsbehelfsbelehrung sind nicht bloße Formalien.
+- Paragraf 81 FamFG: Kostenentscheidung verlangt Ermessen und darf nicht aus der ZPO abgeschrieben werden.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt sichtbare Berücksichtigung entscheidungserheblichen Vortrags.
+- Ständige Rechtsprechung zu FamFG-Beschlüssen: Tenor muss vollstreckbar, Gründe müssen kindes- oder vermögensbezogen nachvollziehbar sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Beschluss Familiensache Paragraf 38 FamFG: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
+1. Beschluss Familiensache Paragraf 38 FamFG: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
 2. Amtsverfahren, Antragsverfahren, Verbund und Folgesachen sauber trennen.
 3. Anhörungen, Jugendamt, Verfahrensbeistand, Sachverständige und Auskunftsanordnungen terminlich steuern.
 4. Vergleichs- und Einigungsoptionen prüfen, ohne Schutz- oder Kindeswohlfragen zu relativieren.
@@ -70,5 +71,5 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 
 ## Benachbarte Skills
 
-- **Davor**: `08-gewaltschutz-und-eilanordnung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beschluss Familiensache Paragraf 38 FamFG trägt.
-- **Danach**: `10-entscheidungsvorschlag-familienrichter` - Folgeschritt im selben Plugin; nutze ihn, sobald Beschluss Familiensache Paragraf 38 FamFG entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `08-gewaltschutz-und-eilanordnung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beschluss Familiensache Paragraf 38 FamFG trägt.
+- **Danach**: `10-entscheidungsvorschlag-familienrichter` - Folgeskill nutzen, sobald Beschluss Familiensache Paragraf 38 FamFG entscheidungs- oder verfügungsreif vorbereitet ist.

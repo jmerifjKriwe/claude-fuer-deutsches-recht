@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Tenor Formulieren: Tenor, Tatbestand und Entscheidungsgründe aus der Relation ableiten und mit Kosten sowie Vollstreckbarkeit abstimmen.
+1. Tenor Formulieren: Tenor, Tatbestand und Entscheidungsgründe aus der Relation ableiten und mit Kosten sowie Vollstreckbarkeit abstimmen.
 2. Hauptsachetenor, Nebenforderungen, Kostenquote, vorläufige Vollstreckbarkeit und Streitwert aufeinander abstimmen.
 3. Tatbestand knapp, aber vollständig schreiben: Anträge, unstreitiger Kern, streitiger Vortrag, Prozessgeschichte.
 4. Entscheidungsgründe nach Zulässigkeit, Begründetheit, Beweiswürdigung und Nebenentscheidungen gliedern.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `15-beweisstation-votum` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Tenor Formulieren trägt.
-- **Danach**: `17-tatbestand-schreiben` - Folgeschritt im selben Plugin; nutze ihn, sobald Tenor Formulieren entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `15-beweisstation-votum` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Tenor Formulieren trägt.
+- **Danach**: `17-tatbestand-schreiben` - Folgeskill nutzen, sobald Tenor Formulieren entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -49,14 +49,14 @@ Der Skill ist für Fälle, in denen Datenschutzaufsichtsbehörden Bußgelder ver
 ## Normen & Rechtsprechung
 
 - EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Datenschutzrechtliche Unternehmensgeldbußen folgen unionsrechtlichen Zurechnungsmaßstäben; eine identifizierte Leitungsperson ist nicht in jedem Fall Voraussetzung.
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
+- Art. 83 DSGVO, Paragraf 41 BDSG und Paragrafen 30, 46, 65 bis 69 OWiG: Bußgeldhöhe, Unternehmenszurechnung, Einspruch und gerichtlicher Verfahrensweg müssen getrennt geprüft werden.
+- Paragraf 68 OWiG und Paragraf 41 BDSG: Zuständigkeit und gerichtlicher Rechtsweg hängen von Bußgeldbescheid, Einspruch und spezialgesetzlicher Verweisung ab.
+- Paragrafen 72, 73, 74 und 77 OWiG: Beschlussverfahren, Entbindung, Abwesenheit und Beweisaufnahme sind im Datenschutzbußgeld nicht schematisch aus dem Strafprozess zu übernehmen.
+- Ständige Rechtsprechung zu Art. 83 DSGVO: Geldbußen verlangen wirksame, verhältnismäßige und abschreckende Zumessung; konkrete nationale Anschlussentscheidung vor produktiver Zitierung verifizieren.
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße: Tatbestand, Zuständigkeit der Verwaltungsbehörde, Einspruchslage und gerichtliche Rolle zuerst prüfen.
+1. Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße: Tatbestand, Zuständigkeit der Verwaltungsbehörde, Einspruchslage und gerichtliche Rolle zuerst prüfen.
 2. Bußgeldbescheid, Einspruchsfrist, Aktenvorlage, Opportunität und Verfahrenshindernisse getrennt kontrollieren.
 3. Datenschutz-, Verkehrs- oder Wirtschafts-OWi nach Spezialgesetz und OWiG-Tatbestand subsumieren.
 4. Beweismaß, Betroffenenrechte und Unternehmensgeldbuße gesondert behandeln.

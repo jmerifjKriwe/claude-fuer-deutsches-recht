@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Zulässigkeit Verwaltungsklage: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist, Beteiligtenfähigkeit und Rechtsschutzbedürfnis prüfen.
+1. Zulässigkeit Verwaltungsklage: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist, Beteiligtenfähigkeit und Rechtsschutzbedürfnis prüfen.
 2. Rechtsweg und Zuständigkeit nicht aus dem Behördenrubrum ableiten, sondern nach Streitgegenstand bestimmen.
 3. Widerspruchsverfahren und landesrechtliche Ausnahmen ausdrücklich markieren.
 4. Klageantrag nach erkennbarem Rechtsschutzziel auslegen, ohne das Begehren umzudeuten.
@@ -71,4 +71,4 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-amtsermittlung-und-sachverhaltsfeststellung` - Folgeschritt im selben Plugin; nutze ihn, sobald Zulässigkeit Verwaltungsklage entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Danach**: `02-amtsermittlung-und-sachverhaltsfeststellung` - Folgeskill nutzen, sobald Zulässigkeit Verwaltungsklage entscheidungs- oder verfügungsreif vorbereitet ist.

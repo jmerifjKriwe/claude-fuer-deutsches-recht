@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Beklagtenstation Votum: Bestreiten, Einwendung, Einrede, Hilfsaufrechnung und Widerklage getrennt in die Beklagtenstation aufnehmen.
+1. Beklagtenstation Votum: Bestreiten, Einwendung, Einrede, Hilfsaufrechnung und Widerklage getrennt in die Beklagtenstation aufnehmen.
 2. Erheblichkeit nur bei unterstellter Wahrheit prüfen: Welche Verteidigung würde die schlüssige Klage ganz oder teilweise zu Fall bringen?
 3. Präklusion, Geständnis, sekundäre Darlegungslast und Bestreiten mit Nichtwissen gesondert markieren.
 4. Einreden wie Verjährung, Zurückbehaltung oder dauernde Leistungsverweigerung mit Frist- und Tatsachenkern versehen.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `10-erheblichkeit-pruefen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beklagtenstation Votum trägt.
-- **Danach**: `12-beweisbeduerftige-tatsachen-isolieren` - Folgeschritt im selben Plugin; nutze ihn, sobald Beklagtenstation Votum entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `10-erheblichkeit-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beklagtenstation Votum trägt.
+- **Danach**: `12-beweisbeduerftige-tatsachen-isolieren` - Folgeskill nutzen, sobald Beklagtenstation Votum entscheidungs- oder verfügungsreif vorbereitet ist.

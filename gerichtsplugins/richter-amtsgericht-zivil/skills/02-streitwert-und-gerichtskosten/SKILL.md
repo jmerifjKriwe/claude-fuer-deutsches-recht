@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Streitwert und Gerichtskosten: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+1. Streitwert und Gerichtskosten: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
 2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
 3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
 4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `01-eingangspruefung-zustaendigkeit` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Streitwert und Gerichtskosten trägt.
-- **Danach**: `03-akte-erstdurchsicht` - Folgeschritt im selben Plugin; nutze ihn, sobald Streitwert und Gerichtskosten entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-eingangspruefung-zustaendigkeit` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Streitwert und Gerichtskosten trägt.
+- **Danach**: `03-akte-erstdurchsicht` - Folgeskill nutzen, sobald Streitwert und Gerichtskosten entscheidungs- oder verfügungsreif vorbereitet ist.

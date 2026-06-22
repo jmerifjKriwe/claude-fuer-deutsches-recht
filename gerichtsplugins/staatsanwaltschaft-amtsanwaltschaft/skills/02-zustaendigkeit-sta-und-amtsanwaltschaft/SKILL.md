@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+1. Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
 2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
 3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
 4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
@@ -70,5 +70,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `01-akte-erstdurchsicht-und-anfangsverdacht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft trägt.
-- **Danach**: `03-ermittlungsfuehrung-und-ermittlungsanweisung` - Folgeschritt im selben Plugin; nutze ihn, sobald Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-akte-erstdurchsicht-und-anfangsverdacht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft trägt.
+- **Danach**: `03-ermittlungsfuehrung-und-ermittlungsanweisung` - Folgeskill nutzen, sobald Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft entscheidungs- oder verfügungsreif vorbereitet ist.

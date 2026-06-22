@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Beweisbedürftige Tatsachen Isolieren: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
+1. Beweisbedürftige Tatsachen Isolieren: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
 2. Beweislast für jedes Tatbestandsmerkmal, jede Einwendung und jede Einrede getrennt festlegen; Beweiserleichterungen ausdrücklich benennen.
 3. Beweismittel nach Urkunde, Zeuge, Sachverständiger, Augenschein und Parteivernehmung ordnen; Ausforschungsbeweis aussortieren.
 4. Beweisbeschluss mit Beweisthema, Beweismittel, Kostenvorschuss und Fristen gerichtsfest formulieren.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `11-beklagtenstation-votum` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beweisbedürftige Tatsachen Isolieren trägt.
-- **Danach**: `13-beweislastverteilung-pruefen` - Folgeschritt im selben Plugin; nutze ihn, sobald Beweisbedürftige Tatsachen Isolieren entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `11-beklagtenstation-votum` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweisbedürftige Tatsachen Isolieren trägt.
+- **Danach**: `13-beweislastverteilung-pruefen` - Folgeskill nutzen, sobald Beweisbedürftige Tatsachen Isolieren entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Beweismittel Wuerdigen: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
+1. Beweismittel Wuerdigen: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
 2. Beweislast für jedes Tatbestandsmerkmal, jede Einwendung und jede Einrede getrennt festlegen; Beweiserleichterungen ausdrücklich benennen.
 3. Beweismittel nach Urkunde, Zeuge, Sachverständiger, Augenschein und Parteivernehmung ordnen; Ausforschungsbeweis aussortieren.
 4. Beweisbeschluss mit Beweisthema, Beweismittel, Kostenvorschuss und Fristen gerichtsfest formulieren.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `13-beweislastverteilung-pruefen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beweismittel Wuerdigen trägt.
-- **Danach**: `15-beweisstation-votum` - Folgeschritt im selben Plugin; nutze ihn, sobald Beweismittel Wuerdigen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `13-beweislastverteilung-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweismittel Wuerdigen trägt.
+- **Danach**: `15-beweisstation-votum` - Folgeskill nutzen, sobald Beweismittel Wuerdigen entscheidungs- oder verfügungsreif vorbereitet ist.

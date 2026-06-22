@@ -42,7 +42,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Arbeitsschritt Beweislastverteilung Prüfen: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
+1. Beweislastverteilung Prüfen: Nur streitige, erhebliche und beweisbedürftige Tatsachen in das Beweisprogramm aufnehmen.
 2. Beweislast für jedes Tatbestandsmerkmal, jede Einwendung und jede Einrede getrennt festlegen; Beweiserleichterungen ausdrücklich benennen.
 3. Beweismittel nach Urkunde, Zeuge, Sachverständiger, Augenschein und Parteivernehmung ordnen; Ausforschungsbeweis aussortieren.
 4. Beweisbeschluss mit Beweisthema, Beweismittel, Kostenvorschuss und Fristen gerichtsfest formulieren.
@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `12-beweisbeduerftige-tatsachen-isolieren` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beweislastverteilung Prüfen trägt.
-- **Danach**: `14-beweismittel-wuerdigen` - Folgeschritt im selben Plugin; nutze ihn, sobald Beweislastverteilung Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `12-beweisbeduerftige-tatsachen-isolieren` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweislastverteilung Prüfen trägt.
+- **Danach**: `14-beweismittel-wuerdigen` - Folgeskill nutzen, sobald Beweislastverteilung Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.

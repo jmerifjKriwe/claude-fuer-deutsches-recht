@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Arbeitsschritt Beschuldigtenvernehmung und Belehrung: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+1. Beschuldigtenvernehmung und Belehrung: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
 2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
 3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
 4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beschuldigtenvernehmung und Belehrung trägt.
-- **Danach**: `09-sachverstaendige-und-koerperliche-untersuchung` - Folgeschritt im selben Plugin; nutze ihn, sobald Beschuldigtenvernehmung und Belehrung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beschuldigtenvernehmung und Belehrung trägt.
+- **Danach**: `09-sachverstaendige-und-koerperliche-untersuchung` - Folgeskill nutzen, sobald Beschuldigtenvernehmung und Belehrung entscheidungs- oder verfügungsreif vorbereitet ist.
