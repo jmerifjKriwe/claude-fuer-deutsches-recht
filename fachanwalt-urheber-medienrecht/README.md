@@ -1,7 +1,24 @@
 # Fachanwalt Urheber Medienrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Fachanwalt Urheber Medienrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-urheber-medienrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-urheber-medienrecht-werkstatt.zip) |
+| **Fachanwalt Urheber Medienrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-urheber-medienrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-urheber-medienrecht-schnellstart.zip) |
+| **Fachanwalt Urheber Medienrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-urheber-medienrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-urheber-medienrecht.zip) |
+| **Fachanwalt Urheber Medienrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip) (KI-Training TDM Fotografin Windgassen Hamburg); [`testakte-urheberrecht-musik-ki-songstreit-auerbach.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-urheberrecht-musik-ki-songstreit-auerbach.zip) (Akte Auerbach Soundworks / Nordlicht in Beton) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fachanwalt-urheber-medienrecht-werkstatt.md`](./fachanwalt-urheber-medienrecht-werkstatt.md) (im Browser ansehen)
+- [`fachanwalt-urheber-medienrecht-schnellstart.md`](./fachanwalt-urheber-medienrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -20,22 +37,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Akte Auerbach Soundworks / Nordlicht in Beton** (`urheberrecht-musik-ki-songstreit-auerbach`) | [Gesamt-PDF lesen](../testakten/urheberrecht-musik-ki-songstreit-auerbach/gesamt-pdf/urheberrecht-musik-ki-songstreit-auerbach_gesamt.pdf) | [`testakte-urheberrecht-musik-ki-songstreit-auerbach.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-urheberrecht-musik-ki-songstreit-auerbach.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Fachanwalt Urheber Medienrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-urheber-medienrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-urheber-medienrecht-werkstatt.zip) |
-| **Fachanwalt Urheber Medienrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-urheber-medienrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-urheber-medienrecht-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fachanwalt-urheber-medienrecht-werkstatt.md`](./fachanwalt-urheber-medienrecht-werkstatt.md) (im Browser ansehen)
-- [`fachanwalt-urheber-medienrecht-schnellstart.md`](./fachanwalt-urheber-medienrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Plugin Fachanwalt für Urheber- und Medienrecht. Orientierung UrhG VGG Verwertungsgesellschaften KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag. EU-Bezug InfoSoc-RL DSM-RL. Schnittstellen gewerblicher-rechtsschutz und verlagsredaktion.
 
 ## Installation in Claude Code

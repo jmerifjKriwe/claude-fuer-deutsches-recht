@@ -1,9 +1,9 @@
 ---
 name: umgangsregelung-mustervorlagen
-description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden: Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgang..."
+description: "Familienrechtlicher Skill zu Umgangsregelungen nach Paragrafen 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
 ---
 
-# Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden
+# Umgangsregelungen nach Paragrafen 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelm�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden. Normen: § 1684 BGB (Umgang Eltern), § 1685 BGB (Umgang Dritte), § 1697a BGB (Kindeswohl-Maßstab), § 89 FamFG (Vollstreckung Ordnungsmittel), § 165 FamFG (Vermittlungsverfahren). Prüfraster: Wochenend-/Ferien-/Feiertagsregelungen, Wechselmodell vs. Residenzmodell, Begleitumgang, Vollstreckbarkeit. Output Umgangsregelungs-Mustervorlagen. Abgrenzung: Kindeswohlgefaehrdung Eilantrag siehe fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag; Mediation siehe fachanwalt-familienrecht-mediation-156-famfg-cochemer.
+**Fokus:** Umgangsregelungen nach Paragrafen 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden. Normen: Paragraf 1684 BGB (Umgang Eltern), Paragraf 1685 BGB (Umgang Dritte), Paragraf 1697a BGB (Kindeswohl-Maßstab), Paragraf 89 FamFG (Vollstreckung Ordnungsmittel), Paragraf 165 FamFG (Vermittlungsverfahren). Prüfraster: Wochenend-/Ferien-/Feiertagsregelungen, Wechselmodell vs. Residenzmodell, Begleitumgang, Vollstreckbarkeit. Output Umgangsregelungs-Mustervorlagen. Abgrenzung: Kindeswohlgefaehrdung Eilantrag siehe fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag; Mediation siehe fachanwalt-familienrecht-mediation-156-famfg-cochemer.
 
 ### Umgangsregelung — Mustervorlagen
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Umgangsregelung — Mustervorlagen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG §§ 49 ff., 76, 86 ff., 112 ff.; VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, § 51 VersAusglG, § 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
+- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
+- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -39,25 +39,25 @@ description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelm�
 4. Konfliktniveau — kooperativ, mittleres Konfliktpotenzial oder Hochkonflikt-Familie?
 5. Verdacht auf Kindeswohlgefährdung — Gewalt, Sucht, psychische Erkrankung des umgangsberechtigten Elternteils?
 6. Geographische Entfernung der Elternteile — beeinflusst Hol-/Bring-Lösung und Reisekostenverteilung?
-7. Wunsch Kind bekannt? Ist Kind 14+ Jahre (Anhörungspflicht § 159 FamFG), 10–13 Jahre (altersgemäße Berücksichtigung)?
+7. Wunsch Kind bekannt? Ist Kind 14+ Jahre (Anhörungspflicht Paragraf 159 FamFG), 10–13 Jahre (altersgemäße Berücksichtigung)?
 8. Ist Vollstreckbarkeit der Regelung erforderlich — notarielle Beurkundung, Gerichtsprotokoll oder gerichtlicher Beschluss?
 
 ## Rechtsgrundlagen
 
 | Norm | Inhalt |
 |------|--------|
-| § 1684 Abs. 1 BGB | Recht des Kindes auf Umgang mit jedem Elternteil; Pflicht jedes Elternteils zum Umgang |
-| § 1684 Abs. 2 BGB | Pflicht beider Eltern zur Förderung der Beziehung zum anderen Elternteil (Wohlverhaltensgebot) |
-| § 1685 BGB | Umgangsrecht Dritter — Großeltern, Geschwister, Stiefeltern, enge Bezugspersonen |
-| § 1697a BGB | Kindeswohl als Leitprinzip aller familiengerichtlichen Entscheidungen |
-| § 1671 BGB | Übertragung alleinige Sorge — Konsequenz wiederholter Umgangsvereitelung |
-| § 1666 BGB | Kindeswohlgefährdung — gerichtliche Maßnahmen |
-| § 156 FamFG | Hinwirkungspflicht auf Einvernehmen — Gericht soll Einigung fördern |
-| § 158 FamFG | Verfahrensbeistand — "Anwalt des Kindes" |
-| § 159 FamFG | Anhörungspflicht des Kindes ab 14 Jahren; ab 3 Jahren i.d.R. anzuhören |
-| § 165 FamFG | Vermittlungsverfahren bei Umgangsverweigerung — binnen eines Monats |
-| § 89 FamFG | Vollstreckung Umgangsregelungen — Ordnungsgeld bis EUR 25.000; Ordnungshaft bis 6 Monate |
-| § 127a BGB | Notarielle Beurkundung der Scheidungsfolgenvereinbarung |
+| Paragraf 1684 Abs. 1 BGB | Recht des Kindes auf Umgang mit jedem Elternteil; Pflicht jedes Elternteils zum Umgang |
+| Paragraf 1684 Abs. 2 BGB | Pflicht beider Eltern zur Förderung der Beziehung zum anderen Elternteil (Wohlverhaltensgebot) |
+| Paragraf 1685 BGB | Umgangsrecht Dritter — Großeltern, Geschwister, Stiefeltern, enge Bezugspersonen |
+| Paragraf 1697a BGB | Kindeswohl als Leitprinzip aller familiengerichtlichen Entscheidungen |
+| Paragraf 1671 BGB | Übertragung alleinige Sorge — Konsequenz wiederholter Umgangsvereitelung |
+| Paragraf 1666 BGB | Kindeswohlgefährdung — gerichtliche Maßnahmen |
+| Paragraf 156 FamFG | Hinwirkungspflicht auf Einvernehmen — Gericht soll Einigung fördern |
+| Paragraf 158 FamFG | Verfahrensbeistand — "Anwalt des Kindes" |
+| Paragraf 159 FamFG | Anhörungspflicht des Kindes ab 14 Jahren; ab 3 Jahren i.d.R. anzuhören |
+| Paragraf 165 FamFG | Vermittlungsverfahren bei Umgangsverweigerung — binnen eines Monats |
+| Paragraf 89 FamFG | Vollstreckung Umgangsregelungen — Ordnungsgeld bis EUR 25.000; Ordnungshaft bis 6 Monate |
+| Paragraf 127a BGB | Notarielle Beurkundung der Scheidungsfolgenvereinbarung |
 
 ## Leitentscheidungen
 
@@ -75,7 +75,7 @@ description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelm�
 | Residenzmodell erweitert | Kind 60–70 % bei Hauptelternteil | Barunterhalt anteilig | Guter Konflikt, Annäherung Wechselmodell |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Begleitumgang | Begleitung durch neutral Dritte | Normal | Kindeswohlbedenken, Wiederaufbau Beziehung |
-| Kein Umgang | Ausnahme § 1684 Abs. 4 BGB | Normal | Ernsthafte Kindeswohlgefährdung |
+| Kein Umgang | Ausnahme Paragraf 1684 Abs. 4 BGB | Normal | Ernsthafte Kindeswohlgefährdung |
 
 ## Mustervorlagen
 
@@ -84,17 +84,17 @@ description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelm�
 ```
 UMGANGSREGELUNG — RESIDENZMODELL
 
-§ 1 Lebensmittelpunkt
+Paragraf 1 Lebensmittelpunkt
 Das Kind [Name], geboren am [Datum], hat seinen
 Lebensmittelpunkt bei der Mutter / dem Vater.
 
-§ 2 Regelmäßiger Umgang
+Paragraf 2 Regelmäßiger Umgang
 Der Vater / die Mutter hat Umgang mit dem Kind:
 a) Jeden zweiten Freitag ab 17:00 Uhr bis Sonntag 19:00 Uhr
 b) Jede zweite Woche mittwochs von 15:00 Uhr bis 19:00 Uhr
  (oder Schulschluss bis 19:00 Uhr)
 
-§ 3 Schulferien
+Paragraf 3 Schulferien
 a) Die Sommerferien werden hälftig geteilt; erste Hälfte
  jährlich wechselnd
 b) Die Osterferien werden hälftig geteilt; Ostersonntag
@@ -104,7 +104,7 @@ c) Die Herbstferien (1 Woche) im Wechseljahr ganz beim
 d) Die Weihnachtsferien: erste Hälfte (Heiligabend bis
  27.12.) im Wechseljahr, zweite Hälfte entsprechend
 
-§ 4 Feiertage und Geburtstage
+Paragraf 4 Feiertage und Geburtstage
 a) Heiligabend bis 14:00 Uhr bei Elternteil A, ab 14:00
  Uhr bei Elternteil B; jährlich wechselnd
 b) Ostern: Ostersonntag bei Elternteil A (gerades Jahr),
@@ -113,30 +113,30 @@ c) Geburtstag des Kindes: Wechseljahr; Abholung 14:00 Uhr,
  Rückbringung 19:00 Uhr
 d) Muttertag / Vatertag: beim jeweiligen Elternteil
 
-§ 5 Holen und Bringen
+Paragraf 5 Holen und Bringen
 Abholung und Rückbringung des Kindes erfolgt durch den
 Umgangs-Elternteil am Wohnort des betreuenden Elternteils.
 Eine Toleranzzeit von 15 Minuten gilt als vereinbart.
 
-§ 6 Auslandsreisen
+Paragraf 6 Auslandsreisen
 Mehrtägige Reisen ins Ausland bedürfen der Zustimmung des
 anderen Elternteils; Zustimmung gilt als erteilt wenn keine
 Ablehnung binnen 5 Tagen nach Anfrage erfolgt.
 
-§ 7 Wohlverhaltensklausel (§ 1684 Abs. 2 BGB)
+Paragraf 7 Wohlverhaltensklausel (Paragraf 1684 Abs. 2 BGB)
 Beide Elternteile verpflichten sich, die Beziehung des Kindes
 zum anderen Elternteil zu fördern und nichts zu unternehmen,
 was das Verhältnis des Kindes zum anderen Elternteil
 beeinträchtigen könnte.
 
-§ 8 Informationspflicht
+Paragraf 8 Informationspflicht
 Beide Elternteile informieren sich gegenseitig über wichtige
 Ereignisse (Krankheit, Schule, Arzttermine) zeitnah.
 
-§ 9 Vollstreckbarkeit
+Paragraf 9 Vollstreckbarkeit
 Diese Vereinbarung wird notariell beurkundet /
 familiengerichtlich gebilligt und ist damit Vollstreckungstitel
-nach § 89 FamFG.
+nach Paragraf 89 FamFG.
 ```
 
 ### Vorlage 2 — Wechselmodell paritätisch
@@ -144,39 +144,39 @@ nach § 89 FamFG.
 ```
 UMGANGSREGELUNG — WECHSELMODELL
 
-§ 1 Paritätisches Betreuungsmodell
+Paragraf 1 Paritätisches Betreuungsmodell
 Das Kind [Name], geboren am [Datum], lebt im gleichen
 Umfang bei beiden Elternteilen.
 
-§ 2 Wochen-Rhythmus
+Paragraf 2 Wochen-Rhythmus
 a) Woche A: Das Kind lebt bei Elternteil A
  (Sonntag 18:00 Uhr bis Sonntag 18:00 Uhr der Folgewoche)
 b) Woche B: Das Kind lebt bei Elternteil B (alternierend)
 c) Übergabe: Sonntags 18:00 Uhr am Wohnort des übergebenden
  Elternteils
 
-§ 3 Ferien
+Paragraf 3 Ferien
 a) Sommerferien: je eine Hälfte; Beginn nach Wochenrhythmus
-b) Andere Ferien: wie § 3 Residenzmodell
+b) Andere Ferien: wie Paragraf 3 Residenzmodell
 
-§ 4 Kindesunterhalt
+Paragraf 4 Kindesunterhalt
 Beim paritätischen Wechselmodell verrechnen sich die
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Mehrverdiener zahlt Ausgleich an den Minderverdienenden
 nach Maßgabe der Einkommensunterschiede (berechnet nach
 aktueller Düsseldorfer Tabelle).
 
-§ 5 Schule und Kindergarten
+Paragraf 5 Schule und Kindergarten
 Das Kind besucht [Schule] in [Ort]. Schulweg-Entfernung
 von beiden Wohnorten maximal [Angabe] km.
 
-§ 6 Entscheidungen in Angelegenheiten von erheblicher
-Bedeutung (§ 1628 BGB)
+Paragraf 6 Entscheidungen in Angelegenheiten von erheblicher
+Bedeutung (Paragraf 1628 BGB)
 Eltern entscheiden gemeinsam; bei Meinungsverschiedenheiten
 Schiedsverfahren beim [Jugendamt / Mediator] binnen
 2 Wochen.
 
-§ 7 Kommunikation
+Paragraf 7 Kommunikation
 Wöchentlicher Info-Austausch per [Messenger] über schulische
 und gesundheitliche Belange.
 ```
@@ -186,31 +186,31 @@ und gesundheitliche Belange.
 ```
 BEGLEITUMGANG — STUFENPLAN
 
-§ 1 Ausgangslage
+Paragraf 1 Ausgangslage
 Aufgrund [Sachverhalt: Vorwürfe / Entfremdung / Wiederherstellung
 Kontakt] findet Umgang zunächst nur in begleitetem Rahmen statt.
 
-§ 2 Begleit-Einrichtung
+Paragraf 2 Begleit-Einrichtung
 Begleitung durch [Träger der Jugendhilfe / Jugendamt] in
 deren Räumlichkeiten. Kontakt mit Begleitperson im Vorfeld.
 
-§ 3 Frequenz und Dauer (Stufe 1)
+Paragraf 3 Frequenz und Dauer (Stufe 1)
 Jede zweite Woche; 2 Stunden; mittwochs oder samstags.
 
-§ 4 Übergabe
+Paragraf 4 Übergabe
 Übergabe durch neutralen Dritten (Jugendamt-Mitarbeiter);
 kein direkter Kontakt der Eltern bei Übergabe.
 
-§ 5 Überprüfung und Steigerung
+Paragraf 5 Überprüfung und Steigerung
 Nach [3 Monaten]: Überprüfung durch Familiengericht und
 Jugendamt. Bei positivem Verlauf Steigerung auf:
  Stufe 2: 4 Stunden, 14-täglich
  Stufe 3: Samstag 10–18 Uhr ohne Begleitung
  Stufe 4: Übernachtung alle 2 Wochen
 
-§ 6 Abbruchklausel
+Paragraf 6 Abbruchklausel
 Bei erneuten Vorkommnissen Rückstufung oder Aussetzung
-durch Familiengericht nach § 1684 Abs. 4 BGB.
+durch Familiengericht nach Paragraf 1684 Abs. 4 BGB.
 ```
 
 ## Sonderregelungen und Klauseln
@@ -256,7 +256,7 @@ Während des Umgangs:
 
 ## Vollstreckbarkeit
 
-### Anforderungen § 89 FamFG
+### Anforderungen Paragraf 89 FamFG
 
 Vollstreckungstitel muss enthalten:
 - **Konkret bestimmbare Umgangszeiten** (Tag, Uhrzeit, Datum oder klare Berechnung)
@@ -268,30 +268,30 @@ Vollstreckungstitel muss enthalten:
 | Form | Vollstreckbar | Voraussetzungen |
 |-----|--------------|----------------|
 | Schriftliche Elternvereinbarung | Nein | Nur moralisch |
-| Notarielle Vereinbarung mit Unterwerfungsklausel | Ja | § 127a BGB; notarielle Beurkundung |
-| Gerichtlich gebilligte Vereinbarung § 156 Abs. 2 FamFG | Ja | Familiengericht billigt Einigung |
+| Notarielle Vereinbarung mit Unterwerfungsklausel | Ja | Paragraf 127a BGB; notarielle Beurkundung |
+| Gerichtlich gebilligte Vereinbarung Paragraf 156 Abs. 2 FamFG | Ja | Familiengericht billigt Einigung |
 | Gerichtlicher Beschluss | Ja | Anhörungsverfahren; Kindesanhörung |
 
-### Ordnungsmittel § 89 FamFG
+### Ordnungsmittel Paragraf 89 FamFG
 
 - Ordnungsgeld bis EUR 25.000 je Verstoß
 - Ordnungshaft bis 6 Monate
 - Voraussetzung: Ermahnung durch Gericht; vorsätzliche Zuwiderhandlung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Vermittlungsverfahren § 165 FamFG
+### Vermittlungsverfahren Paragraf 165 FamFG
 
 - **Anwendung:** Ein Elternteil verweigert regelmäßig den Umgang
 - **Verfahren:** Antrag beim Familiengericht; Termin binnen eines Monats
 - **Inhalt:** Persönliches Erscheinen beider Eltern + Jugendamt; keine Ordnungsmittel im Termin; Fokus auf Einvernehmen
 - **Vorteil:** Weniger eskalativ als Ordnungsmittel; Grundlage für funktionierenden Umgang
-- **Bei Scheitern:** Übergang zu Ordnungsmittel § 89 FamFG oder Sorgerechtsänderung § 1671 BGB
+- **Bei Scheitern:** Übergang zu Ordnungsmittel Paragraf 89 FamFG oder Sorgerechtsänderung Paragraf 1671 BGB
 
 ## Kindeswohlprüfung
 
 ### Faktoren zugunsten Umgang
 
-- Recht des Kindes auf beide Elternteile § 1684 BGB
+- Recht des Kindes auf beide Elternteile Paragraf 1684 BGB
 - Positive Eltern-Kind-Beziehung in Vergangenheit
 - Kein Nachweis konkreter Gefährdung
 
@@ -299,17 +299,17 @@ Vollstreckungstitel muss enthalten:
 
 | Faktor | Maßnahme |
 |--------|---------|
-| Häusliche Gewalt gegen Kind | Aussetzung Umgang § 1684 Abs. 4 BGB |
+| Häusliche Gewalt gegen Kind | Aussetzung Umgang Paragraf 1684 Abs. 4 BGB |
 | Häusliche Gewalt gegen anderen Elternteil | Begleitumgang; Schutzmaßnahmen |
 | Suchtproblematik (Alkohol, Drogen) | Nüchternheitstest als Bedingung; ärztliches Attest |
 | Psychische Erkrankung mit Einschränkungen | Sachverständigengutachten; ggf. Begleitumgang |
-| PAS (Parental Alienation Syndrome) | Intervention Familiengericht; ggf. § 1671 BGB |
+| PAS (Parental Alienation Syndrome) | Intervention Familiengericht; ggf. Paragraf 1671 BGB |
 
 ## Beweislast und strategische Fragen
 
 | Partei | Beweislastgegenstand | Beweismittel |
 |--------|---------------------|--------------|
-| Umgangs-Elternteil | Recht auf Umgang | § 1684 BGB als gesetzliches Recht |
+| Umgangs-Elternteil | Recht auf Umgang | Paragraf 1684 BGB als gesetzliches Recht |
 | Betreuungs-Elternteil | Kindeswohlgefährdung | Sachverständigengutachten, Jugendamt-Bericht |
 | Umgangs-Elternteil | Vereinbarten Umgang vereinbarungsgemäß wahrgenommen | Protokolle, Zeugen |
 | Antragsteller Ordnungsmittel | Vorsätzliche Zuwiderhandlung | Beweise für Verweigerung ohne Grund |
@@ -318,23 +318,23 @@ Vollstreckungstitel muss enthalten:
 
 | Frist | Auslöser | Dauer | Folge |
 |-------|---------|-------|-------|
-| Vermittlungsverfahren § 165 FamFG | Umgangsverweigerung | Termin binnen 1 Monat | — |
-| Vollstreckungsantrag § 89 FamFG | Wiederholte Zuwiderhandlung | Keine Ausschlussfrist | Ordnungsgeld |
-| Folgesachenantrag Umgang bei Scheidung | Scheidungsverfahren | Spätestens 2 Wochen vor mündl. Verhandlung § 137 FamFG | Isolierung |
-| Kindesanhörung § 159 FamFG | Gerichtliches Verfahren | Ab 14: Pflicht; ab 3: i.d.R. | — |
+| Vermittlungsverfahren Paragraf 165 FamFG | Umgangsverweigerung | Termin binnen 1 Monat | — |
+| Vollstreckungsantrag Paragraf 89 FamFG | Wiederholte Zuwiderhandlung | Keine Ausschlussfrist | Ordnungsgeld |
+| Folgesachenantrag Umgang bei Scheidung | Scheidungsverfahren | Spätestens 2 Wochen vor mündl. Verhandlung Paragraf 137 FamFG | Isolierung |
+| Kindesanhörung Paragraf 159 FamFG | Gerichtliches Verfahren | Ab 14: Pflicht; ab 3: i.d.R. | — |
 
 ## Gegenargumente und Reaktion
 
 | Gegenargument | Reaktion |
 |--------------|---------|
-| "Kind will keinen Umgang" | Kindeswille ab 14 erhebliches Gewicht; bei Jüngeren: Hintergründe prüfen (PAS?); Verfahrensbeistand § 158 FamFG |
+| "Kind will keinen Umgang" | Kindeswille ab 14 erhebliches Gewicht; bei Jüngeren: Hintergründe prüfen (PAS?); Verfahrensbeistand Paragraf 158 FamFG |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| "Vollstreckung sei zu hart" | § 89 FamFG: Kindesrecht auf Umgang ist vollstreckungsfähig; Ordnungsmittel verhältnismäßig bei wiederholter Verweigerung |
+| "Vollstreckung sei zu hart" | Paragraf 89 FamFG: Kindesrecht auf Umgang ist vollstreckungsfähig; Ordnungsmittel verhältnismäßig bei wiederholter Verweigerung |
 
 ## Streitwert und Kosten
 
 **Gerichtsverfahren Umgang:**
-- Verfahrenswert § 45 FamGKG: EUR 3.000–4.000 je Umgangsregelung
+- Verfahrenswert Paragraf 45 FamGKG: EUR 3.000–4.000 je Umgangsregelung
 - RA-Gebühren: ca. EUR 1.500–2.500 je Partei
 - SV-Gutachten Kindeswohl: EUR 3.000–8.000
 
@@ -346,8 +346,8 @@ Vollstreckungstitel muss enthalten:
 | Strategie | Empfehlung | Begründung |
 |-----------|-----------|------------|
 | Vollstreckbarkeit | Immer notarielle oder gerichtliche Beurkundung | Schriftliche Elternvereinbarung nicht vollstreckbar |
-| Konkrete Formulierung | Exakte Uhrzeiten und Abholdaten; keine Generalklauseln | § 89 FamFG erfordert Bestimmtheit für Vollstreckung |
-| Kindeswille | Ab 14 Jahre: eigenständiger Anwalt prüfen | § 159 FamFG; Kindeswille hat erhebliches Gewicht |
+| Konkrete Formulierung | Exakte Uhrzeiten und Abholdaten; keine Generalklauseln | Paragraf 89 FamFG erfordert Bestimmtheit für Vollstreckung |
+| Kindeswille | Ab 14 Jahre: eigenständiger Anwalt prüfen | Paragraf 159 FamFG; Kindeswille hat erhebliches Gewicht |
 | Mediation | Vor Gerichtsverfahren Mediation prüfen | Kostengünstiger; Beziehung der Eltern möglichst erhaltend |
 | Begleitumgang früh prüfen | Bei Bedenken lieber Begleitumgang als Abbruch | Erhalt der Eltern-Kind-Beziehung; Stufenplan ermöglicht Erweiterung |
 
@@ -359,8 +359,8 @@ Vollstreckungstitel muss enthalten:
 
 ## Quellen
 
-- BGB §§ 1684, 1685, 1697a, 1671, 1666
-- FamFG §§ 89, 156, 158, 159, 165
+- BGB Paragrafen 1684, 1685, 1697a, 1671, 1666
+- FamFG Paragrafen 89, 156, 158, 159, 165
 - BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23 (Begründungsanforderungen Umgangsausschluss): https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/10/rk20251007_1bvr074623.html
 - BVerfG, Pressemitteilung Nr. 93/2025 (Verfassungsbeschwerden Umgangsregelungen): https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2025/bvg25-093.html
 - Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

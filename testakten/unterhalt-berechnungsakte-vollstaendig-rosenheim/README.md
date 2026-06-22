@@ -24,6 +24,10 @@ Mira und Tobias Aiblinger leben seit dem 01.02.2026 getrennt. Die Ehe wurde 2014
 
 Anders als die Stufenklage-Akte ist diese Akte zahlenreich und grundsätzlich berechenbar. Streit besteht nicht über das Ob der Auskunft, sondern über den Rechenweg und die Varianten.
 
+## Live-Verifikation der Rechengrundlagen
+
+Die Akte enthält viele Zahlen, aber keine eingefrorene Musterlösung. Vor jeder Nutzung sind die aktuelle Düsseldorfer Tabelle, Kindergeld, Selbstbehalte, Bedarfskontrollbeträge, Steuerklassenwirkung, Wohnvorteil und die Leitlinien des zuständigen Oberlandesgerichts live nachzuziehen.
+
 ## Aktenstücke
 
 | Nr. | Datei | Inhalt |

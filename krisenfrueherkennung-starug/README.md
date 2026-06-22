@@ -1,7 +1,24 @@
 # Krisenfrüherkennung und StaRUG-Management
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Krisenfrüherkennung und StaRUG-Management-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`krisenfrueherkennung-starug-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug-werkstatt.zip) |
+| **Krisenfrüherkennung und StaRUG-Management-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`krisenfrueherkennung-starug-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug-schnellstart.zip) |
+| **Krisenfrüherkennung und StaRUG-Management-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`krisenfrueherkennung-starug.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug.zip) |
+| **Krisenfrüherkennung und StaRUG-Management-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-krisenfrueherkennung-starug-vier-varianten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krisenfrueherkennung-starug-vier-varianten.zip) (Krisenfrüherkennung & StaRUG – Vier Varianten) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`krisenfrueherkennung-starug-werkstatt.md`](./krisenfrueherkennung-starug-werkstatt.md) (im Browser ansehen)
+- [`krisenfrueherkennung-starug-schnellstart.md`](./krisenfrueherkennung-starug-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -19,22 +36,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Krisenfrüherkennung & StaRUG – Vier Varianten** (`krisenfrueherkennung-starug-vier-varianten`) | [Gesamt-PDF lesen](../testakten/krisenfrueherkennung-starug-vier-varianten/gesamt-pdf/krisenfrueherkennung-starug-vier-varianten_gesamt.pdf) | [`testakte-krisenfrueherkennung-starug-vier-varianten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krisenfrueherkennung-starug-vier-varianten.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Krisenfrüherkennung und StaRUG-Management-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`krisenfrueherkennung-starug-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug-werkstatt.zip) |
-| **Krisenfrüherkennung und StaRUG-Management-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`krisenfrueherkennung-starug-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`krisenfrueherkennung-starug-werkstatt.md`](./krisenfrueherkennung-starug-werkstatt.md) (im Browser ansehen)
-- [`krisenfrueherkennung-starug-schnellstart.md`](./krisenfrueherkennung-starug-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 **Plugin-Slug:** `krisenfrueherkennung-starug`
 **Version:** 3.2.1
 **Autor:** Klotzkette

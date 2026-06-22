@@ -1,7 +1,24 @@
 # KI-Richtlinie für Kanzleien und Rechtsabteilungen
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **KI-Richtlinie für Kanzleien und Rechtsabteilungen-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`ki-richtlinie-kanzleien-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-richtlinie-kanzleien-werkstatt.zip) |
+| **KI-Richtlinie für Kanzleien und Rechtsabteilungen-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`ki-richtlinie-kanzleien-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-richtlinie-kanzleien-schnellstart.zip) |
+| **KI-Richtlinie für Kanzleien und Rechtsabteilungen-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`ki-richtlinie-kanzleien.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-richtlinie-kanzleien.zip) |
+| **KI-Richtlinie für Kanzleien und Rechtsabteilungen-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-ki-richtlinie-musterkanzlei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-richtlinie-musterkanzlei.zip) (KI-Richtlinie Musterkanzlei) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`ki-richtlinie-kanzleien-werkstatt.md`](./ki-richtlinie-kanzleien-werkstatt.md) (im Browser ansehen)
+- [`ki-richtlinie-kanzleien-schnellstart.md`](./ki-richtlinie-kanzleien-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -19,22 +36,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **KI-Richtlinie Musterkanzlei** (`ki-richtlinie-musterkanzlei`) | [Gesamt-PDF lesen](../testakten/ki-richtlinie-musterkanzlei/gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf) | [`testakte-ki-richtlinie-musterkanzlei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-richtlinie-musterkanzlei.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **KI-Richtlinie für Kanzleien und Rechtsabteilungen-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`ki-richtlinie-kanzleien-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-richtlinie-kanzleien-werkstatt.zip) |
-| **KI-Richtlinie für Kanzleien und Rechtsabteilungen-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`ki-richtlinie-kanzleien-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-richtlinie-kanzleien-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`ki-richtlinie-kanzleien-werkstatt.md`](./ki-richtlinie-kanzleien-werkstatt.md) (im Browser ansehen)
-- [`ki-richtlinie-kanzleien-schnellstart.md`](./ki-richtlinie-kanzleien-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Dieses Plugin erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwälten sowie Syndikus-Anwältinnen und Syndikus-Anwälten. Es beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie den Hinweisen der BRAK (Dezember 2024) und der DAV-Stellungnahme Nr. 32/2025.
 
 ---

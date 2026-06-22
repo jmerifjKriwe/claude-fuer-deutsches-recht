@@ -1,7 +1,24 @@
 # Haushaltsrecht BHO Bund und Länder
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Haushaltsrecht BHO Bund und Länder-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`haushaltsrecht-bho-bund-laender-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender-werkstatt.zip) |
+| **Haushaltsrecht BHO Bund und Länder-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`haushaltsrecht-bho-bund-laender-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender-schnellstart.zip) |
+| **Haushaltsrecht BHO Bund und Länder-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`haushaltsrecht-bho-bund-laender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender.zip) |
+| **Haushaltsrecht BHO Bund und Länder-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip) (Haushaltsakte Bund/Land) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`haushaltsrecht-bho-bund-laender-werkstatt.md`](./haushaltsrecht-bho-bund-laender-werkstatt.md) (im Browser ansehen)
+- [`haushaltsrecht-bho-bund-laender-schnellstart.md`](./haushaltsrecht-bho-bund-laender-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -19,22 +36,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Haushaltsakte Bund/Land** (`haushaltsrecht-bho-szenario-buergergeld-verteidigung`) | [Gesamt-PDF lesen](../testakten/haushaltsrecht-bho-szenario-buergergeld-verteidigung/gesamt-pdf/haushaltsrecht-bho-szenario-buergergeld-verteidigung_gesamt.pdf) | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Haushaltsrecht BHO Bund und Länder-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`haushaltsrecht-bho-bund-laender-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender-werkstatt.zip) |
-| **Haushaltsrecht BHO Bund und Länder-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`haushaltsrecht-bho-bund-laender-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`haushaltsrecht-bho-bund-laender-werkstatt.md`](./haushaltsrecht-bho-bund-laender-werkstatt.md) (im Browser ansehen)
-- [`haushaltsrecht-bho-bund-laender-schnellstart.md`](./haushaltsrecht-bho-bund-laender-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Dieses Plugin macht Haushaltsrecht verständlich und bedienbar: vom ersten Blick in Einzelplan und Titel bis zur haushaltsrechtlichen Szenario-Umschichtung, Wirtschaftlichkeitsprüfung, Sondervermögen-Logik und Dashboard.
 
 ## Start

@@ -1,7 +1,24 @@
 # Fachanwalt Miet- und Wohnungseigentumsrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Fachanwalt Miet- und Wohnungseigentumsrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-miet-wohnungseigentumsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.zip) |
+| **Fachanwalt Miet- und Wohnungseigentumsrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-miet-wohnungseigentumsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.zip) |
+| **Fachanwalt Miet- und Wohnungseigentumsrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-miet-wohnungseigentumsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht.zip) |
+| **Fachanwalt Miet- und Wohnungseigentumsrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip) (Eigenbedarf + WEG-Konflikt – Straßburger / Köln-Südstadt) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md`](./fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md) (im Browser ansehen)
+- [`fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md`](./fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -19,22 +36,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Eigenbedarf + WEG-Konflikt – Straßburger / Köln-Südstadt** (`eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt`) | [Gesamt-PDF lesen](../testakten/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt/gesamt-pdf/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt_gesamt.pdf) | [`testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Fachanwalt Miet- und Wohnungseigentumsrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-miet-wohnungseigentumsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.zip) |
-| **Fachanwalt Miet- und Wohnungseigentumsrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-miet-wohnungseigentumsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md`](./fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md) (im Browser ansehen)
-- [`fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md`](./fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 ## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:

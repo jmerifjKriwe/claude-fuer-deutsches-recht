@@ -83,8 +83,8 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `richter-amtsgericht-zivil` zu ein
   - Paragraf 511 ZPO
   - Paragraf 269 Abs. 3 Satz 3 ZPO
   - Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind. - Kostenentscheidung wird ohne Erledigungs- oder Teilunterliegensquote fo…
+  - Paragrafen 23, 71 GVG sowie Paragrafen 139, 495a, 286, 313 ZPO
   - Paragraf 253 ZPO
-  - Paragraf 495a ZPO
 
 ## Leitentscheidungen
 

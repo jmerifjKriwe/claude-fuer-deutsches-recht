@@ -9,7 +9,7 @@ description: "Megaprompt fuer die vollstaendige Unterhaltsberechnung im deutsche
 
 Dieser Skill ist ein vollständiger, eigenständiger Megaprompt für die Berechnung von Unterhalt im deutschen Familienrecht. Er führt von der Mandatslage über die Einkommensermittlung bis zum ausformulierten Berechnungsergebnis und deckt alle praktisch wichtigen Unterhaltsarten ab: Kindesunterhalt (minderjährig und volljährig), Trennungsunterhalt und nachehelichen Unterhalt.
 
-Der Skill ist bewusst so geschrieben, dass er auch ohne die übrige Plugin-Umgebung funktioniert: Diese Datei lässt sich als Markdown herunterladen und unverändert in ChatGPT, Claude, Gemini, Perplexity, Mistral oder ein anderes Werkzeug kopieren. Er ersetzt keine anwaltliche Prüfung im Einzelfall.
+Der Skill ist bewusst so geschrieben, dass er auch ohne die übrige Plugin-Umgebung funktioniert: Diese Datei lässt sich als Markdown herunterladen und unverändert in ein anderes Textsystem kopieren. Er ersetzt keine anwaltliche Prüfung im Einzelfall.
 
 ## Eingaben
 
@@ -36,11 +36,11 @@ Beginne die Ausgabe mit einem kurzen Hinweis, dass es sich um eine methodisch ge
 
 ### Phase 0 — Sofort-Check
 
-1. Bestimme die Unterhaltsart und die Rolle (pflichtig oder berechtigt). Bei mehreren Unterhaltsverhältnissen: alle benennen und die Rangfolge nach § 1609 BGB vormerken.
+1. Bestimme die Unterhaltsart und die Rolle (pflichtig oder berechtigt). Bei mehreren Unterhaltsverhältnissen: alle benennen und die Rangfolge nach Paragraf 1609 BGB vormerken.
 
-2. Markiere Stichtag und Verzug. Unterhalt für die Vergangenheit besteht erst ab Verzug, Auskunftsaufforderung oder Rechtshängigkeit (§ 1613 BGB; für Trennungsunterhalt § 1361 i. V. m. § 1585b BGB). Kläre, ab welchem Monat gerechnet wird.
+2. Markiere Stichtag und Verzug. Unterhalt für die Vergangenheit besteht erst ab Verzug, Auskunftsaufforderung oder Rechtshängigkeit (Paragraf 1613 BGB; für Trennungsunterhalt Paragraf 1361 i. V. m. Paragraf 1585b BGB). Kläre, ab welchem Monat gerechnet wird.
 
-3. Prüfe Eilbedarf: Bei akutem Bedarf kommt eine einstweilige Anordnung in Betracht (§§ 246 ff. FamFG); bei Auskunftsverweigerung die Stufenklage (§ 254 ZPO).
+3. Prüfe Eilbedarf: Bei akutem Bedarf kommt eine einstweilige Anordnung in Betracht (Paragrafen 246 ff. FamFG); bei Auskunftsverweigerung die Stufenklage (Paragraf 254 ZPO).
 
 4. Stelle die eine Frage, deren Antwort den größten Einfluss auf das Ergebnis hat, bevor du weiterrechnest (häufig: Höhe und Nachweis des bereinigten Nettoeinkommens der pflichtigen Person).
 
@@ -62,7 +62,7 @@ Maßgeblich ist das Durchschnittsnetto der letzten zwölf Monate einschließlich
 
 2. Korrigiere unterhaltsrechtlich: Privatentnahmen, die den Gewinn übersteigen, deuten auf höhere Leistungsfähigkeit; rein steuerliche Abschreibungen (insbesondere degressive AfA, Sonderabschreibungen) werden ganz oder teilweise hinzugerechnet; private Kostenanteile (Pkw, Telefon) werden bereinigt.
 
-3. Bei Verschleierung oder Erwerbsobliegenheitsverletzung ist ein fiktives Einkommen anzusetzen. Begründe die Schätzgrundlage und benenne den Auskunftsanspruch (§ 1605 BGB) als Mittel der Aufklärung.
+3. Bei Verschleierung oder Erwerbsobliegenheitsverletzung ist ein fiktives Einkommen anzusetzen. Begründe die Schätzgrundlage und benenne den Auskunftsanspruch (Paragraf 1605 BGB) als Mittel der Aufklärung.
 
 #### 1.4 Abzüge (in dieser Reihenfolge)
 
@@ -84,7 +84,7 @@ Stelle das bereinigte Nettoeinkommen jeder Seite als nachvollziehbares Tableau d
 
 #### 2.1 Barunterhalt und Betreuungsunterhalt
 
-Beim Residenzmodell erbringt der betreuende Elternteil den Unterhalt durch Pflege und Erziehung (§ 1606 Abs. 3 Satz 2 BGB); der andere Elternteil schuldet Barunterhalt. Beim echten Wechselmodell haften beide anteilig nach ihren Einkommen bar; der Bedarf erhöht sich um Mehrkosten zweier Haushalte.
+Beim Residenzmodell erbringt der betreuende Elternteil den Unterhalt durch Pflege und Erziehung (Paragraf 1606 Abs. 3 Satz 2 BGB); der andere Elternteil schuldet Barunterhalt. Beim echten Wechselmodell haften beide anteilig nach ihren Einkommen bar; der Bedarf erhöht sich um Mehrkosten zweier Haushalte.
 
 #### 2.2 Tabellenbedarf
 
@@ -96,7 +96,7 @@ Beim Residenzmodell erbringt der betreuende Elternteil den Unterhalt durch Pfleg
 
 #### 2.3 Kindergeldanrechnung
 
-Das Kindergeld wird beim minderjährigen Kind zur Hälfte auf den Barunterhalt angerechnet (§ 1612b Abs. 1 BGB); beim volljährigen Kind in voller Höhe. Der Zahlbetrag ist der Tabellenbetrag abzüglich des anzurechnenden Kindergeldanteils. Kindergeldhöhe und Mindestunterhalt (§ 1612a BGB) sind stichtagsabhängig und zu verifizieren.
+Das Kindergeld wird beim minderjährigen Kind zur Hälfte auf den Barunterhalt angerechnet (Paragraf 1612b Abs. 1 BGB); beim volljährigen Kind in voller Höhe. Der Zahlbetrag ist der Tabellenbetrag abzüglich des anzurechnenden Kindergeldanteils. Kindergeldhöhe und Mindestunterhalt (Paragraf 1612a BGB) sind stichtagsabhängig und zu verifizieren.
 
 #### 2.4 Selbstbehalt und Mangelfall
 
@@ -104,13 +104,13 @@ Das Kindergeld wird beim minderjährigen Kind zur Hälfte auf den Barunterhalt a
 
 2. Reicht das Einkommen nach Abzug des Selbstbehalts nicht für alle gleichrangigen Bedarfe, liegt ein Mangelfall vor. Verteile die Verteilungsmasse im Verhältnis der Einsatzbeträge auf die gleichrangig Berechtigten und rechne die Quote vor.
 
-3. Beachte die Rangfolge des § 1609 BGB: minderjährige und privilegiert volljährige Kinder zuerst, dann betreuende oder langjährig verheiratete Ehegatten, dann weitere.
+3. Beachte die Rangfolge des Paragraf 1609 BGB: minderjährige und privilegiert volljährige Kinder zuerst, dann betreuende oder langjährig verheiratete Ehegatten, dann weitere.
 
 #### 2.5 Volljährige und Studenten
 
-1. Mit Volljährigkeit haften beide Elternteile anteilig nach ihren Einkommen (§ 1606 Abs. 3 Satz 1 BGB); das Kind macht den Anspruch selbst geltend, das volle Kindergeld wird angerechnet.
+1. Mit Volljährigkeit haften beide Elternteile anteilig nach ihren Einkommen (Paragraf 1606 Abs. 3 Satz 1 BGB); das Kind macht den Anspruch selbst geltend, das volle Kindergeld wird angerechnet.
 
-2. Privilegiert volljährige Kinder (bis 21, im Haushalt eines Elternteils, allgemeine Schulausbildung) bleiben im ersten Rang (§ 1603 Abs. 2 Satz 2 BGB).
+2. Privilegiert volljährige Kinder (bis 21, im Haushalt eines Elternteils, allgemeine Schulausbildung) bleiben im ersten Rang (Paragraf 1603 Abs. 2 Satz 2 BGB).
 
 3. Für Studenten mit eigenem Hausstand gilt regelmäßig ein pauschaler Gesamtbedarf (Betrag verifizieren); eigene Einkünfte und BAföG sind zu berücksichtigen.
 
@@ -136,7 +136,7 @@ Beim echten Wechselmodell (annähernd hälftige Betreuung) schulden beide Eltern
 
 Liegt das Einkommen oberhalb der höchsten Einkommensgruppe (nach dem Stand 2026 die fünfzehnte Gruppe), wird der Bedarf nicht automatisch fortgeschrieben. Bis zum Doppelten des höchsten Tabellensatzes ist eine Fortschreibung vertretbar; darüber hinaus ist der Bedarf konkret darzulegen, weil mit steigendem Einkommen ein zunehmender Anteil der Vermögensbildung dient. Verlange in diesem Fall eine konkrete Bedarfsdarstellung statt einer bloßen Quote.
 
-### Phase 3 — Trennungsunterhalt (§ 1361 BGB)
+### Phase 3 — Trennungsunterhalt (Paragraf 1361 BGB)
 
 #### 3.1 Bedarf nach den ehelichen Lebensverhältnissen
 
@@ -160,21 +160,21 @@ Der Bedarf bemisst sich nach den ehelichen Lebensverhältnissen im Trennungszeit
 
 #### 4.1 Grundsatz der Eigenverantwortung
 
-Nach der Scheidung gilt der Grundsatz der Eigenverantwortung (§ 1569 BGB). Ein Anspruch besteht nur, wenn ein Unterhaltstatbestand erfüllt ist. Prüfe die Tatbestände einzeln und in dieser Reihenfolge.
+Nach der Scheidung gilt der Grundsatz der Eigenverantwortung (Paragraf 1569 BGB). Ein Anspruch besteht nur, wenn ein Unterhaltstatbestand erfüllt ist. Prüfe die Tatbestände einzeln und in dieser Reihenfolge.
 
 #### 4.2 Unterhaltstatbestände
 
-1. Betreuungsunterhalt (§ 1570 BGB): Basisunterhalt bis zur Vollendung des dritten Lebensjahres des Kindes, Verlängerung aus kind- und elternbezogenen Billigkeitsgründen.
+1. Betreuungsunterhalt (Paragraf 1570 BGB): Basisunterhalt bis zur Vollendung des dritten Lebensjahres des Kindes, Verlängerung aus kind- und elternbezogenen Billigkeitsgründen.
 
-2. Unterhalt wegen Alters (§ 1571 BGB): wenn eine Erwerbstätigkeit im Zeitpunkt von Scheidung, Betreuungsende oder Wegfall anderer Gründe altersbedingt nicht mehr erwartet werden kann.
+2. Unterhalt wegen Alters (Paragraf 1571 BGB): wenn eine Erwerbstätigkeit im Zeitpunkt von Scheidung, Betreuungsende oder Wegfall anderer Gründe altersbedingt nicht mehr erwartet werden kann.
 
-3. Unterhalt wegen Krankheit oder Gebrechen (§ 1572 BGB) zu denselben Einsatzzeitpunkten.
+3. Unterhalt wegen Krankheit oder Gebrechen (Paragraf 1572 BGB) zu denselben Einsatzzeitpunkten.
 
-4. Unterhalt wegen Erwerbslosigkeit und Aufstockungsunterhalt (§ 1573 BGB): wenn trotz Bemühens keine angemessene Erwerbstätigkeit gefunden wird beziehungsweise das eigene Einkommen den vollen Bedarf nicht deckt.
+4. Unterhalt wegen Erwerbslosigkeit und Aufstockungsunterhalt (Paragraf 1573 BGB): wenn trotz Bemühens keine angemessene Erwerbstätigkeit gefunden wird beziehungsweise das eigene Einkommen den vollen Bedarf nicht deckt.
 
-5. Ausbildungs-, Fortbildungs- und Umschulungsunterhalt (§ 1575 BGB).
+5. Ausbildungs-, Fortbildungs- und Umschulungsunterhalt (Paragraf 1575 BGB).
 
-6. Billigkeitsunterhalt (§ 1576 BGB) als eng auszulegender Auffangtatbestand.
+6. Billigkeitsunterhalt (Paragraf 1576 BGB) als eng auszulegender Auffangtatbestand.
 
 #### 4.3 Bedarf, Bedürftigkeit, Leistungsfähigkeit
 
@@ -184,13 +184,13 @@ Nach der Scheidung gilt der Grundsatz der Eigenverantwortung (§ 1569 BGB). Ein 
 
 3. Leistungsfähigkeit: dem Pflichtigen verbleibt der angemessene Selbstbehalt gegenüber dem geschiedenen Ehegatten (Betrag verifizieren).
 
-#### 4.4 Befristung und Herabsetzung (§ 1578b BGB)
+#### 4.4 Befristung und Herabsetzung (Paragraf 1578b BGB)
 
 1. Der Anspruch ist zu befristen oder der Höhe nach herabzusetzen, soweit ein zeitlich unbegrenzter Unterhalt nach den ehelichen Lebensverhältnissen unbillig wäre.
 
 2. Entscheidend sind ehebedingte Nachteile (insbesondere Erwerbsnachteile durch Kinderbetreuung oder Haushaltsführung). Bestehen keine fortwirkenden ehebedingten Nachteile, ist eine Befristung naheliegend; bestehen sie, ist der Ausgleich dieser Nachteile maßgeblich. Arbeite die ehebedingten Nachteile konkret heraus.
 
-#### 4.5 Verwirkung (§ 1579 BGB)
+#### 4.5 Verwirkung (Paragraf 1579 BGB)
 
 Prüfe Verwirkungsgründe (kurze Ehedauer, verfestigte neue Lebensgemeinschaft, schwerwiegendes Fehlverhalten) und ihre Rechtsfolge (Versagung, Herabsetzung oder zeitliche Begrenzung).
 
@@ -202,11 +202,11 @@ Prüfe Verwirkungsgründe (kurze Ehedauer, verfestigte neue Lebensgemeinschaft, 
 
 3. Unterscheide Anrechnungs- und Differenzmethode: prägende eigene Einkünfte der berechtigten Person fließen über die Differenzmethode in die Bedarfsbemessung ein; nicht prägende oder überobligatorische Einkünfte werden nach der Anrechnungsmethode behandelt. Benenne, welche Methode du anwendest und warum.
 
-4. Steuerliche Optimierung: Beim Trennungs- und nachehelichen Ehegattenunterhalt kommt das begrenzte Realsplitting (§ 10 Abs. 1a EStG) in Betracht. Die zahlende Person setzt den Unterhalt als Sonderausgabe ab, die empfangende versteuert ihn; der steuerliche Vorteil erhöht das unterhaltsrelevante Einkommen und der entstehende Nachteil der berechtigten Person ist auszugleichen. Weise den Effekt aus, ohne ihn als feststehende Steuerberatung darzustellen.
+4. Steuerliche Optimierung: Beim Trennungs- und nachehelichen Ehegattenunterhalt kommt das begrenzte Realsplitting (Paragraf 10 Abs. 1a EStG) in Betracht. Die zahlende Person setzt den Unterhalt als Sonderausgabe ab, die empfangende versteuert ihn; der steuerliche Vorteil erhöht das unterhaltsrelevante Einkommen und der entstehende Nachteil der berechtigten Person ist auszugleichen. Weise den Effekt aus, ohne ihn als feststehende Steuerberatung darzustellen.
 
 ### Phase 5 — Rang, Mangel und Selbstbehalte
 
-1. Stelle bei mehreren Berechtigten die Rangfolge nach § 1609 BGB klar und ordne jeden Anspruch ein.
+1. Stelle bei mehreren Berechtigten die Rangfolge nach Paragraf 1609 BGB klar und ordne jeden Anspruch ein.
 
 2. Liste die einschlägigen Selbstbehaltssätze (notwendiger Selbstbehalt erwerbstätig und nicht erwerbstätig, angemessener Selbstbehalt, Ehegattenselbstbehalt, Bedarfskontrollbetrag) mit dem ausdrücklichen Hinweis auf, dass die Beträge zum Stichtag zu verifizieren sind.
 
@@ -214,15 +214,15 @@ Prüfe Verwirkungsgründe (kurze Ehedauer, verfestigte neue Lebensgemeinschaft, 
 
 ### Phase 6 — Durchsetzung und Verfahren
 
-1. Auskunft: Anspruch auf Auskunft und Belege über das Einkommen (§ 1605 BGB), bei Selbständigen über mehrere Jahre.
+1. Auskunft: Anspruch auf Auskunft und Belege über das Einkommen (Paragraf 1605 BGB), bei Selbständigen über mehrere Jahre.
 
-2. Stufenklage (§ 254 ZPO): Auskunft, gegebenenfalls Versicherung an Eides statt, dann bezifferte Leistung.
+2. Stufenklage (Paragraf 254 ZPO): Auskunft, gegebenenfalls Versicherung an Eides statt, dann bezifferte Leistung.
 
-3. Verzug und Rückstand: Unterhalt für die Vergangenheit nur ab Verzug, Auskunftsaufforderung oder Rechtshängigkeit (§ 1613 BGB).
+3. Verzug und Rückstand: Unterhalt für die Vergangenheit nur ab Verzug, Auskunftsaufforderung oder Rechtshängigkeit (Paragraf 1613 BGB).
 
-4. Titulierung und Abänderung: Jugendamtsurkunde, gerichtlicher Vergleich, Beschluss; Abänderung bei wesentlicher Änderung der Verhältnisse (§ 238 FamFG; vereinfachtes Verfahren für den Kindesunterhalt § 249 FamFG).
+4. Titulierung und Abänderung: Jugendamtsurkunde, gerichtlicher Vergleich, Beschluss; Abänderung bei wesentlicher Änderung der Verhältnisse (Paragraf 238 FamFG; vereinfachtes Verfahren für den Kindesunterhalt Paragraf 249 FamFG).
 
-5. Dynamisierung des Kindesunterhalts als Prozentsatz des Mindestunterhalts (§ 1612a BGB).
+5. Dynamisierung des Kindesunterhalts als Prozentsatz des Mindestunterhalts (Paragraf 1612a BGB).
 
 ### Phase 7 — Plausibilitäts- und Selbstkontrolle
 
@@ -230,7 +230,7 @@ Bevor du das Ergebnis ausgibst, prüfe es gegen sich selbst:
 
 1. Selbstbehalt gewahrt? Der pflichtigen Person verbleibt mindestens der einschlägige Selbstbehalt (notwendig oder angemessen, je nach Rang).
 
-2. Rangfolge beachtet? Kindesunterhalt vor Ehegattenunterhalt; § 1609 BGB korrekt angewandt.
+2. Rangfolge beachtet? Kindesunterhalt vor Ehegattenunterhalt; Paragraf 1609 BGB korrekt angewandt.
 
 3. Vorwegabzug erfolgt? Der Kindesunterhalt wurde vor der Ehegattenbedarfsberechnung abgezogen.
 
@@ -278,7 +278,7 @@ Eingabe: beide Ehegatten erwerbstätig mit unterschiedlichem Einkommen, ein Kind
 
 ### Beispiel 3 — Nachehelicher Unterhalt mit Befristungsfrage
 
-Eingabe: langjährige Ehe, ein Ehegatte hat zur Kinderbetreuung beruflich zurückgesteckt. Erwartetes Vorgehen: einschlägigen Tatbestand bestimmen (Betreuungs-, danach Aufstockungsunterhalt), Bedarf nach ehelichen Lebensverhältnissen, ehebedingte Nachteile herausarbeiten und an § 1578b BGB für Befristung oder Herabsetzung spiegeln, Verwirkung prüfen.
+Eingabe: langjährige Ehe, ein Ehegatte hat zur Kinderbetreuung beruflich zurückgesteckt. Erwartetes Vorgehen: einschlägigen Tatbestand bestimmen (Betreuungs-, danach Aufstockungsunterhalt), Bedarf nach ehelichen Lebensverhältnissen, ehebedingte Nachteile herausarbeiten und an Paragraf 1578b BGB für Befristung oder Herabsetzung spiegeln, Verwirkung prüfen.
 
 ### Beispiel 4 — Vollständig durchgerechnet (Arbeitswerte, zu verifizieren)
 
@@ -316,4 +316,28 @@ Eingabe: M ist barpflichtig (Nettoeinkommen 3.500 EUR), F betreut die beiden Kin
 
 6. Den Bedarfskontrollbetrag und die Halbteilung nicht prüfen; den Mangelfall ohne offene Quote verteilen.
 
-7. Beim nachehelichen Unterhalt die Befristung nach § 1578b BGB und die ehebedingten Nachteile übergehen.
+7. Beim nachehelichen Unterhalt die Befristung nach Paragraf 1578b BGB und die ehebedingten Nachteile übergehen.
+
+## Unterhalts-Schärfung: Rechenweg, Auskunft, Abänderung
+
+1. Anspruchsart festlegen.
+   - Kindesunterhalt, Trennungsunterhalt, nachehelicher Unterhalt, Mehrbedarf, Sonderbedarf, Elternunterhalt oder Anpassung im Versorgungsausgleich dürfen nicht vermischt werden.
+2. Auskunftsstufe vorbereiten.
+   - Vor jeder Berechnung werden Auskunft, Belege und eidesstattliche Versicherung geprüft. Pflichtanker sind Paragraf 1605 BGB, Paragraf 1580 BGB, Paragraf 235 FamFG und bei Stufenklage Paragraf 113 FamFG in Verbindung mit Paragraf 254 ZPO.
+3. Einkommen bereinigen.
+   - Bei Arbeitnehmern: Brutto, Netto, Steuer, Sozialabgaben, berufsbedingte Aufwendungen, Altersvorsorge, Schulden und Wohnvorteil. Bei Selbstständigen: regelmäßig Drei-Jahres-Bild, Steuerbescheide, Gewinnermittlungen, BWA, Privatentnahmen, Darlehen, Investitionen und Liquidität plausibilisieren.
+4. Bedarf und Leistungsfähigkeit rechnen.
+   - Düsseldorfer Tabelle stets live nachziehen; Selbstbehalt, Rang, Kindergeldanrechnung, Erwerbstätigenbonus, Mangelfall und Verteilungsmasse offenlegen.
+5. Antrag oder Schreiben ausformulieren.
+   - Ergebnis ist eine Stufenklage, ein Auskunftsverlangen, ein Zahlungsantrag, ein Abänderungsantrag oder ein Vergleichsvorschlag mit konkretem Rechenweg.
+
+## Unterhalts-Anker
+
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft kann nicht pauschal mit behaupteter unbegrenzter Leistungsfähigkeit verweigert werden.
+- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Vertretung und Verfahrensbefugnis in Kindesunterhaltssachen getrennt lebender Eltern sind vor jedem Antrag live zu prüfen.
+- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs-, Einkommens- und Begrenzungsprüfung.
+- Paragrafen 1601, 1602, 1603, 1605, 1610, 1612a, 1612b, 1361, 1569, 1570 bis 1578b, 1580 BGB und Paragrafen 235, 243 FamFG bilden den Kernbestand.
+
+## Unterhalts-Stop
+
+Wenn aktuelle Tabelle, vollständige Belege, Steuerlast, Wohnvorteil, Selbstständigenunterlagen oder Betreuungsmodell fehlen, wird nicht gerechnet, sondern ein Auskunfts- und Belegplan erstellt. Jede Zahl braucht eine Aktenfundstelle oder den Hinweis, dass sie nur Platzhalter bis zur Belegprüfung ist.

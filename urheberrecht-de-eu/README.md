@@ -1,7 +1,24 @@
 # Urheberrecht DE EU
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Urheberrecht DE EU-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`urheberrecht-de-eu-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urheberrecht-de-eu-werkstatt.zip) |
+| **Urheberrecht DE EU-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`urheberrecht-de-eu-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urheberrecht-de-eu-schnellstart.zip) |
+| **Urheberrecht DE EU-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`urheberrecht-de-eu.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urheberrecht-de-eu.zip) |
+| **Urheberrecht DE EU-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-urheberrecht-musik-ki-songstreit-auerbach.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-urheberrecht-musik-ki-songstreit-auerbach.zip) (Akte Auerbach Soundworks / Nordlicht in Beton) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`urheberrecht-de-eu-werkstatt.md`](./urheberrecht-de-eu-werkstatt.md) (im Browser ansehen)
+- [`urheberrecht-de-eu-schnellstart.md`](./urheberrecht-de-eu-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -19,22 +36,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Akte Auerbach Soundworks / Nordlicht in Beton** (`urheberrecht-musik-ki-songstreit-auerbach`) | [Gesamt-PDF lesen](../testakten/urheberrecht-musik-ki-songstreit-auerbach/gesamt-pdf/urheberrecht-musik-ki-songstreit-auerbach_gesamt.pdf) | [`testakte-urheberrecht-musik-ki-songstreit-auerbach.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-urheberrecht-musik-ki-songstreit-auerbach.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Urheberrecht DE EU-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`urheberrecht-de-eu-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urheberrecht-de-eu-werkstatt.zip) |
-| **Urheberrecht DE EU-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`urheberrecht-de-eu-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urheberrecht-de-eu-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`urheberrecht-de-eu-werkstatt.md`](./urheberrecht-de-eu-werkstatt.md) (im Browser ansehen)
-- [`urheberrecht-de-eu-schnellstart.md`](./urheberrecht-de-eu-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Dieses Plugin ist der tiefe Urheberrechtsprüfer für deutsches und europäisches Urheberrecht. Es führt durch Werkhöhe, Schöpfungshöhe, Musikwerke, Songtexte, Tonaufnahmen, Sampling, KI-Output, KI-Training, Software, Datenbanken, Leistungsschutzrechte, Lizenzketten, Schranken, Plattformprozesse, Abmahnungen, einstweilige Verfügung und urheberrechtliche Vertragsgestaltung.
 
 Der Einstieg ist bewusst praktisch: erst Rolle, Ziel, Material, Frist und Beweisstand; dann die passende Prüfroute. Das Plugin soll keine Rechtsmythen reproduzieren, sondern sauber zwischen Idee, Stil, Technik, Ausdruck, Aufnahme, Leistungsschutz und Vertrag unterscheiden.

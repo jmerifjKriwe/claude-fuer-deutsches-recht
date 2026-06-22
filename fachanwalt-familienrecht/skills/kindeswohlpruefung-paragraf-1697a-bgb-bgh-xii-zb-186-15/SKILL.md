@@ -11,12 +11,12 @@ Wechselmodell Eltern getrennt; Streit Schulwahl.
 
 ## Normenanker
 
-- § 1697a BGB
-- §§ 1564 ff. BGB
-- § 1671 BGB
-- § 1684 BGB
-- §§ 1601 ff. BGB
-- §§ 1372 ff. BGB
+- Paragraf 1697a BGB
+- Paragrafen 1564 ff. BGB
+- Paragraf 1671 BGB
+- Paragraf 1684 BGB
+- Paragrafen 1601 ff. BGB
+- Paragrafen 1372 ff. BGB
 
 ## Rechtsprechungsanker und Quellenhygiene
 

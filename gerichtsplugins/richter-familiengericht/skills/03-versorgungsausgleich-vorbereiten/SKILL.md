@@ -34,42 +34,52 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
-- Paragrafen 1, 3, 5, 10 und 14 VersAusglG: Ehezeit, Ausgleichswert, interne Teilung und externe Teilung sind getrennte Prüfungsstationen.
-- Paragraf 220 FamFG: Versorgungsträgerauskünfte müssen vollständig, nachvollziehbar und ehezeitbezogen sein.
-- Paragrafen 18 und 27 VersAusglG: Bagatellausschluss und grobe Unbilligkeit dürfen nicht schematisch, sondern nur fallbezogen angewandt werden.
-- Ständige Rechtsprechung des BGH zu Teilungskosten und Ausgleichswert: Rechenweg und Zielversorgung müssen im Beschluss nachvollziehbar erscheinen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: Versorgungsausgleich ist auf gleichmäßige Teilhabe an den in der Ehezeit erworbenen Anrechten ausgerichtet; interne und externe Teilung sind nicht austauschbar.
+- BGH, Beschluss vom 29.03.2017 - XII ZB 336/16: Bagatell- und Teilungskostenfragen sind an der gesetzlichen Systematik des Versorgungsausgleichsgesetzes und nicht an bloßer Praktikabilität auszurichten.
+- Paragrafen 1, 3, 5, 10, 14, 18, 27 und 31 VersAusglG sowie Paragrafen 220 bis 224 FamFG bilden den Pflichtstamm: Ehezeit, Ausgleichswert, Teilungsform, Auskunft, Tenor und Ausschluss.
 
 ## Prüfungsschema in Stufen
 
-1. Versorgungsausgleich Vorbereiten: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
-2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
-3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
-4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
-5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
+1. Ehezeit exakt bestimmen.
+   - Beginn ist der erste Tag des Monats der Eheschließung; Ende ist der letzte Tag des Monats vor Zustellung des Scheidungsantrags.
+2. Auskünfte vollständig machen.
+   - Jeder Versorgungsträger muss Ehezeitanteil, Ausgleichswert, korrespondierenden Kapitalwert, Teilungskosten und Teilungsvorschlag ausweisen.
+3. Teilungsart auswählen.
+   - Interne Teilung ist Regelfall; externe Teilung braucht gesetzliche Grundlage, Zielversorgung und konkrete Zahlungsanordnung.
+4. Korrekturen prüfen.
+   - Geringfügigkeit, kurze Ehezeit, grobe Unbilligkeit, Tod eines Beteiligten, ausländische Anrechte und nicht ausgleichsreife Anrechte getrennt behandeln.
+5. Tenor kontrollieren.
+   - Jeder Tenor nennt Versorgungsträger, Vertragsnummer, Ausgleichswert, Bezugszeitpunkt und Teilungsrichtung.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Gesamtanwartschaft wird mit Ehezeitanteil verwechselt; dadurch wird zu viel oder zu wenig übertragen.
+- Teilungskosten werden im Tenor nicht nachvollziehbar berücksichtigt.
+- Externe Teilung wird tenoriert, obwohl Zielversorgung, Kapitalbetrag oder Zahlungsadressat fehlen.
+- Geringfügigkeit wird pauschal angenommen, ohne alle Anrechte und die beiderseitige Versorgungslage zu vergleichen.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Im Wege der internen Teilung wird zulasten des Anrechts des Antragstellers bei [Versorgungsträger], Vertragsnummer [Nummer], zugunsten der Antragsgegnerin ein Anrecht in Höhe von [Ausgleichswert] bezogen auf den [Ehezeitende] übertragen.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Der Versorgungsträger [Name] wird aufgefordert, binnen drei Wochen eine ergänzte Auskunft vorzulegen, aus der Ehezeitanteil, Ausgleichswert, korrespondierender Kapitalwert und Teilungskosten getrennt hervorgehen.
 ```
 
 ## Benachbarte Skills
 
 - **Davor**: `02-ehesache-scheidung-paragraf-1565` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Versorgungsausgleich Vorbereiten trägt.
 - **Danach**: `04-kindschaftssache-elterliche-sorge` - Folgeskill nutzen, sobald Versorgungsausgleich Vorbereiten entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

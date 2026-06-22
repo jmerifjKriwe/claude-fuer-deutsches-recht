@@ -72,3 +72,10 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 
 - **Davor**: `05-eilrechtsschutz-paragraf-80-abs-5` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Eilrechtsschutz Paragraf 123 trägt.
 - **Danach**: `07-beweisaufnahme-verwaltungsgericht` - Folgeskill nutzen, sobald Eilrechtsschutz Paragraf 123 entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Verwaltungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eilbeschluss, Gerichtsbescheid, Urteil, Hinweis oder Vergleichsvorschlag; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 42, 80, 80a, 86, 88, 113, 123 VwGO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

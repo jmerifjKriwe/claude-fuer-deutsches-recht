@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Familienrecht: stimmt Adressat (Ehegatten, Kinder, Jugendamt), Frist (Trennungsjahr § 1565 BGB) und Form auf den Zweck ab — typische Outputs: Scheidungsantrag, Unterhaltsklage, Umgangsregelung."
+description: "Output-Wahl für Fachanwalt Familienrecht: stimmt Adressat (Ehegatten, Kinder, Jugendamt), Frist (Trennungsjahr Paragraf 1565 BGB) und Form auf den Zweck ab — typische Outputs: Scheidungsantrag, Unterhaltsklage, Umgangsregelung."
 ---
 
 # Output wählen

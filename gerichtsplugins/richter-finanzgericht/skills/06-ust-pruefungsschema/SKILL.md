@@ -73,3 +73,10 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 
 - **Davor**: `05-est-pruefungsschema` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis USt Prüfungsschema trägt.
 - **Danach**: `07-koerperschaft-und-gewerbesteuer` - Folgeskill nutzen, sobald USt Prüfungsschema entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Finanzgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Gerichtsbescheid, Urteil, AdV-Beschluss oder Hinweisverfügung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 40, 69, 76, 96, 100 FGO und Paragrafen 164, 165, 173 AO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

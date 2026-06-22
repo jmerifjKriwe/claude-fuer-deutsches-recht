@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-familienrecht
-description: "Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich: Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausg..."
+description: "Familienrechtlicher Skill zu Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
 ---
 
 # Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich
@@ -14,14 +14,14 @@ description: "Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheid
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich. Normen: § 63 FamFG (Beschwerde 1 Monat), § 1600b BGB (Vaterschaftsanfechtung 2 Jahre), § 1666 BGB (Kindeswohlgefaehrdung Eilantrag). Prüfraster: Konflikt-Check, Eilbedürftigkeit (Gewaltschutz, Sorge-Eilantrag), Streitwert, Komplexitaet. Output Triage-Protokoll, Fristen-Ampel, Folge-Skill-Empfehlung. Abgrenzung: Detailberechnung siehe Fachmodule; Schriftsatzkern siehe schriftsatzkern-substantiierung.
+**Fokus:** Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich. Normen: Paragraf 63 FamFG (Beschwerde 1 Monat), Paragraf 1600b BGB (Vaterschaftsanfechtung 2 Jahre), Paragraf 1666 BGB (Kindeswohlgefaehrdung Eilantrag). Prüfraster: Konflikt-Check, Eilbedürftigkeit (Gewaltschutz, Sorge-Eilantrag), Streitwert, Komplexitaet. Output Triage-Protokoll, Fristen-Ampel, Folge-Skill-Empfehlung. Abgrenzung: Detailberechnung siehe Fachmodule; Schriftsatzkern siehe schriftsatzkern-substantiierung.
 
 ### Mandat-Triage Familienrecht
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Familienrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG §§ 49 ff., 76, 86 ff., 112 ff.; VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, § 51 VersAusglG, § 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
+- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
+- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -103,32 +103,32 @@ Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 ### Frage 7 — Fristen?
 
 - Letztes Anwaltsschreiben oder Beschluss empfangen am ?
-- Beschwerdefrist § 63 FamFG ein Monat
-- Vaterschaftsanfechtung § 1600b BGB zwei Jahre ab Kenntnis
+- Beschwerdefrist Paragraf 63 FamFG ein Monat
+- Vaterschaftsanfechtung Paragraf 1600b BGB zwei Jahre ab Kenntnis
 
 ## Routing-Matrix
 
 | Hauptanliegen | Folge-Skill | Frist-Sofort-Check |
 |---|---|---|
 | Scheidung | (Skill scheidungsverbund-vorbereiten — perspektivisch) | Versorgungsausgleichs-Auskunft anfordern |
-| Kindesunterhalt | `unterhalt-duesseldorfer-tabelle` | Verzug § 1613 BGB durch Auskunftsschreiben |
-| Ehegattenunterhalt | `unterhalt-duesseldorfer-tabelle` | Verzug § 1613 BGB |
+| Kindesunterhalt | `unterhalt-duesseldorfer-tabelle` | Verzug Paragraf 1613 BGB durch Auskunftsschreiben |
+| Ehegattenunterhalt | `unterhalt-duesseldorfer-tabelle` | Verzug Paragraf 1613 BGB |
 | Sorge / Umgang | (Skill kindeswohl-prüfung — perspektivisch) | Eilantrag prüfen |
 | Zugewinn | (Skill zugewinnausgleich-berechnen — perspektivisch) | Stichtag Zustellung Scheidungsantrag |
 | Versorgungsausgleich | (Skill versorgungsausgleich — perspektivisch) | Auskunft DRV / Versorgungsträger |
-| Vaterschaft | (Skill vaterschafts-verfahren — perspektivisch) | § 1600b BGB Zwei-Jahres-Frist |
+| Vaterschaft | (Skill vaterschafts-verfahren — perspektivisch) | Paragraf 1600b BGB Zwei-Jahres-Frist |
 | Gewaltschutz | EILMODUS — Antrag GewSchG Skill `mandat-triage-familienrecht` wechselt | sofort |
 
 ## Mandatsannahme-Kriterien
 
-- **Konflikt-Check** — keine Beratung des Gegners im selben Sachverhalt (§ 43a Abs. 4 BRAO)
+- **Konflikt-Check** — keine Beratung des Gegners im selben Sachverhalt (Paragraf 43a Abs. 4 BRAO)
 - **Streitwert** über EUR 30000 OLG Familiensenat erste Instanz bei Verbund
 - **Komplexität** bei Auslandsbezug Selbstständigen-Einkommen Unternehmens-Beteiligungen Gesellschafter-Streit
 
 ## Sofort-Fristen-Check
 
 - Empfangsdatum letzter Beschluss notieren
-- Bei Beschluss eingegangen heute: Beschwerdefrist nach FamFG (§§ 63, 64 FamFG i.V.m. ZPO) — Zugang nach Vier-Tages-Fiktion (§ 270 ZPO n.F., seit 1.1.2025 PostModG; bis 31.12.2024 drei Tage), danach Lauf der Beschwerdefrist von einem Monat (§ 63 FamFG)
+- Bei Beschluss eingegangen heute: Beschwerdefrist nach FamFG (Paragrafen 63, 64 FamFG i.V.m. ZPO) — Zugang nach Vier-Tages-Fiktion (Paragraf 270 ZPO n.F., seit 1.1.2025 PostModG; bis 31.12.2024 drei Tage), danach Lauf der Beschwerdefrist von einem Monat (Paragraf 63 FamFG)
 - Eintrag in `fristenbuch.yaml` (Skill `kanzlei-allgemein`)
 
 ## Eskalationspfad
@@ -152,7 +152,7 @@ Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 
 ## Quellen
 
-- §§ 111 ff. FamFG (Familiensachen)
+- Paragrafen 111 ff. FamFG (Familiensachen)
 - BGH XII. Zivilsenat
 - Wendl/Dose
 - Schwab Familienrecht

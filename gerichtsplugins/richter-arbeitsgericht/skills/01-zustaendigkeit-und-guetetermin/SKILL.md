@@ -73,3 +73,10 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-kuendigungsschutzklage-pruefen` - Folgeskill nutzen, sobald Zuständigkeit und Guetetermin entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Arbeitsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Güteterminverfügung, Kammertermin, Urteil, Vergleich oder Beschluss; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 2, 46, 54, 61a ArbGG, Paragrafen 1, 4, 7 KSchG und Paragraf 102 BetrVG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

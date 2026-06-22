@@ -83,8 +83,8 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `relationstechnik-zivilrecht` zu e
   - Paragraf 269 Abs. 3 Satz 3 ZPO
   - Paragraf 138 ZPO
   - Paragraf 353b StGB
+  - Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO
   - Paragraf 139 ZPO
-  - Paragraf 133 BGB analog, Bestimmtheit Paragraf 253 Abs. 2 Nr. 2 ZPO
 
 ## Leitentscheidungen
 
@@ -92,7 +92,7 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `relationstechnik-zivilrecht` zu e
 - BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgesc. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 - BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathem. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 - BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
-- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage als Alternative zu Paragraf 269 Abs. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
+- BGH, Urteil vom 13.07.2004 - VI ZR 136/03: Freie Beweiswürdigung nach Paragraf 286 ZPO verlangt eine umfassende, widerspruchsfreie Würdigung des Prozessstoffs. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 
 ## Prüfraster oder Indizienliste
 

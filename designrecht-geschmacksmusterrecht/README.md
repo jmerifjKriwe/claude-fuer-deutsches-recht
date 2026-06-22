@@ -1,7 +1,24 @@
 # designrecht-geschmacksmusterrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **designrecht-geschmacksmusterrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`designrecht-geschmacksmusterrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/designrecht-geschmacksmusterrecht-werkstatt.zip) |
+| **designrecht-geschmacksmusterrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`designrecht-geschmacksmusterrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/designrecht-geschmacksmusterrecht-schnellstart.zip) |
+| **designrecht-geschmacksmusterrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`designrecht-geschmacksmusterrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/designrecht-geschmacksmusterrecht.zip) |
+| **designrecht-geschmacksmusterrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip) (Lichtbogen-Stuhl L-27: Designschutz, Vorveröffentlichung und Copycat-Marktstart) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`designrecht-geschmacksmusterrecht-werkstatt.md`](./designrecht-geschmacksmusterrecht-werkstatt.md) (im Browser ansehen)
+- [`designrecht-geschmacksmusterrecht-schnellstart.md`](./designrecht-geschmacksmusterrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -19,22 +36,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Lichtbogen-Stuhl L-27: Designschutz, Vorveröffentlichung und Copycat-Marktstart** (`designrecht-geschmacksmuster-lichtbogen-stuhl-copycat`) | [Gesamt-PDF lesen](../testakten/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat/gesamt-pdf/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat_gesamt.pdf) | [`testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **designrecht-geschmacksmusterrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`designrecht-geschmacksmusterrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/designrecht-geschmacksmusterrecht-werkstatt.zip) |
-| **designrecht-geschmacksmusterrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`designrecht-geschmacksmusterrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/designrecht-geschmacksmusterrecht-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`designrecht-geschmacksmusterrecht-werkstatt.md`](./designrecht-geschmacksmusterrecht-werkstatt.md) (im Browser ansehen)
-- [`designrecht-geschmacksmusterrecht-schnellstart.md`](./designrecht-geschmacksmusterrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Dieses Plugin führt durch das Designrecht, also das frühere Geschmacksmusterrecht, vom ersten Produktfoto bis zur Anmeldung, Registerstrategie, Verletzungsprüfung, Nichtigkeit und gerichtlichen Durchsetzung. Es ist bewusst praktisch gebaut: erst Bild, Produkt, Offenbarung und Frist klären, dann Schutzweg und Risiko bestimmen, dann den verwertbaren Output liefern.
 
 ## Arbeitsmodus

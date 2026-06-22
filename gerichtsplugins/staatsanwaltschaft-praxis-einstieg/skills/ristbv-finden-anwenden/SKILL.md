@@ -1,6 +1,6 @@
 ---
 name: ristbv-finden-anwenden
-description: "RiStBV finden und anwenden: Praxis-Skill für neue Staatsanwälte zu Richtlinien für Straf- und Bußgeldverfahren als bundeseinheitliche Verwaltungsvorschrift finden, lesen und in Vermerken nutzbar machen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und näc..."
+description: "Staatsanwaltschaftlicher Skill zu RiStBV finden und anwenden: ordnet Tatverdacht, Zuständigkeit, Beweisstand, Verfügung, Frist und Vorlagegrenze."
 ---
 
 # RiStBV finden und anwenden
@@ -45,3 +45,11 @@ Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] erg�
 ```text
 Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
+
+## Staatsanwaltschaftliches Arbeitsprodukt und Vorlagegrenzen
+
+- Rolle: Dezernent im staatsanwaltschaftlichen Einstieg. Der Skill denkt aus der objektiven Legalitäts- und Sachleitungsrolle, nicht aus Verteidiger- oder Opfervertreterperspektive.
+- Pflichtstamm: Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO; bei Ordnungswidrigkeiten Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG.
+- Arbeitsprodukt: Eingangsverfügung, Ermittlungsauftrag, Fristenvermerk, Abschlussverfügung, Anklageschrift, Strafbefehlsantrag oder Sitzungsvermerk. Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand, Verfügung, Frist und nächste Kontrolle.
+- Beweis- und Eingriffsdisziplin: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft, Vermögensarrest, Presseauskunft und Verfahrensabgabe werden nur mit Richtervorbehalt, Zuständigkeit und Verhältnismäßigkeit als eigener Prüfzeile behandelt.
+- Stop-Kriterium: Bei Aktengeheimnis, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.

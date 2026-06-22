@@ -72,3 +72,10 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 - **Davor**: `03-gesellschaftsvertrag-pruefen-gmbh` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vertretungsmacht und Prokura trägt.
 - **Danach**: `05-kapitalerhoehung-und-kapitalherabsetzung` - Folgeskill nutzen, sobald Vertretungsmacht und Prokura entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Registergericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Zwischenverfügung, Eintragung, Zurückweisung oder Beschwerdevorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 8, 12, 16 HGB, Paragrafen 382 ff. FamFG und Paragrafen 40, 78 GmbHG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

@@ -50,3 +50,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Unterhalts-Schärfung: Rechenweg, Auskunft, Abänderung
+
+1. Anspruchsart festlegen.
+   - Kindesunterhalt, Trennungsunterhalt, nachehelicher Unterhalt, Mehrbedarf, Sonderbedarf, Elternunterhalt oder Anpassung im Versorgungsausgleich dürfen nicht vermischt werden.
+2. Auskunftsstufe vorbereiten.
+   - Vor jeder Berechnung werden Auskunft, Belege und eidesstattliche Versicherung geprüft. Pflichtanker sind Paragraf 1605 BGB, Paragraf 1580 BGB, Paragraf 235 FamFG und bei Stufenklage Paragraf 113 FamFG in Verbindung mit Paragraf 254 ZPO.
+3. Einkommen bereinigen.
+   - Bei Arbeitnehmern: Brutto, Netto, Steuer, Sozialabgaben, berufsbedingte Aufwendungen, Altersvorsorge, Schulden und Wohnvorteil. Bei Selbstständigen: regelmäßig Drei-Jahres-Bild, Steuerbescheide, Gewinnermittlungen, BWA, Privatentnahmen, Darlehen, Investitionen und Liquidität plausibilisieren.
+4. Bedarf und Leistungsfähigkeit rechnen.
+   - Düsseldorfer Tabelle stets live nachziehen; Selbstbehalt, Rang, Kindergeldanrechnung, Erwerbstätigenbonus, Mangelfall und Verteilungsmasse offenlegen.
+5. Antrag oder Schreiben ausformulieren.
+   - Ergebnis ist eine Stufenklage, ein Auskunftsverlangen, ein Zahlungsantrag, ein Abänderungsantrag oder ein Vergleichsvorschlag mit konkretem Rechenweg.
+
+## Unterhalts-Anker
+
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft kann nicht pauschal mit behaupteter unbegrenzter Leistungsfähigkeit verweigert werden.
+- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Vertretung und Verfahrensbefugnis in Kindesunterhaltssachen getrennt lebender Eltern sind vor jedem Antrag live zu prüfen.
+- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs-, Einkommens- und Begrenzungsprüfung.
+- Paragrafen 1601, 1602, 1603, 1605, 1610, 1612a, 1612b, 1361, 1569, 1570 bis 1578b, 1580 BGB und Paragrafen 235, 243 FamFG bilden den Kernbestand.
+
+## Unterhalts-Stop
+
+Wenn aktuelle Tabelle, vollständige Belege, Steuerlast, Wohnvorteil, Selbstständigenunterlagen oder Betreuungsmodell fehlen, wird nicht gerechnet, sondern ein Auskunfts- und Belegplan erstellt. Jede Zahl braucht eine Aktenfundstelle oder den Hinweis, dass sie nur Platzhalter bis zur Belegprüfung ist.

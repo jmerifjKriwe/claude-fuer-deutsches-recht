@@ -1,7 +1,24 @@
 # Steuerrecht – Steuerberater und Anwälte
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Steuerrecht – Steuerberater und Anwälte-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`steuerrecht-anwalt-und-berater-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater-werkstatt.zip) |
+| **Steuerrecht – Steuerberater und Anwälte-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`steuerrecht-anwalt-und-berater-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater-schnellstart.zip) |
+| **Steuerrecht – Steuerberater und Anwälte-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`steuerrecht-anwalt-und-berater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
+| **Steuerrecht – Steuerberater und Anwälte-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip) (Auslandseinsatz Mexiko - Wasserbau, Laufbahn und Besoldung); [`testakte-beispielakte-edelholz-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) (Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte); [`testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip) (Betriebsprüfung & Selbstanzeige — Marquardt Handelsvertretung Maschinenbau GmbH & Co. KG (Augsburg)); [`testakte-forschungszulage-sensorik-startup-taunus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-forschungszulage-sensorik-startup-taunus.zip) (Forschungszulage Riedblick Sensorik GmbH); [`testakte-fortbestehensprognose-paragrafix-gmbh.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) (Fortbestehensprognose Paragrafix GmbH); [`testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) (Grunderwerbsteuer Share Deal Waldkrone); [`testakte-grundsteuer-rosenwinkel-bescheidkette.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) (Grundsteuer Rosenwinkel-Bescheidkette); [`testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) (Akte Luna Kanal: Sachleistungen, Rabattcodes, Musikrechte und Steuerprüfung); [`testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip) (Sanierungsgewinn im Insolvenzplan — Grossbach Druckguss & Präzision GmbH & Co. KG Erfurt (2026)); [`testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip) (Sanierungsgewinn bei solventer GmbH-Liquidation — Strassburger Handelshof GmbH (Berlin-Charlottenburg)); [`testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip) (Sanierungsgewinn im StaRUG-Plan — Pellbach Windenergie GmbH Brandenburg (2026)); [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) (Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026); [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) (Klingenhain Musikschule / DRV-Statusprüfung) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`steuerrecht-anwalt-und-berater-werkstatt.md`](./steuerrecht-anwalt-und-berater-werkstatt.md) (im Browser ansehen)
+- [`steuerrecht-anwalt-und-berater-schnellstart.md`](./steuerrecht-anwalt-und-berater-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -31,22 +48,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Klingenhain Musikschule / DRV-Statusprüfung** (`statusfeststellung-drv-musikschule-gf-freelancer-klingenhain`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) | [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Steuerrecht – Steuerberater und Anwälte-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`steuerrecht-anwalt-und-berater-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater-werkstatt.zip) |
-| **Steuerrecht – Steuerberater und Anwälte-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`steuerrecht-anwalt-und-berater-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`steuerrecht-anwalt-und-berater-werkstatt.md`](./steuerrecht-anwalt-und-berater-werkstatt.md) (im Browser ansehen)
-- [`steuerrecht-anwalt-und-berater-schnellstart.md`](./steuerrecht-anwalt-und-berater-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 > **Hinweis: Dieses Plugin deckt zugleich den vollständigen Fachbereich des Fachanwalts für Steuerrecht ab.**
 >
 > Es gibt **kein eigenes Plugin `fachanwalt-steuerrecht`** – dieser frühere Pfad ist als Redirect erhalten. Die gesamten Skills, Vorlagen und Workflows sind hier gebündelt, weil sich anwaltliche und steuerberatende Sicht im Mandat überlappen und ein gemeinsames Plugin Doppelpflege erspart. Die Skills decken sämtliche **FAO-§-9-Bereiche** ab – vom materiellen Steuerrecht über Steuerverfahrensrecht und Steuerstrafrecht bis zu Bilanz- und Buchführungsrecht.

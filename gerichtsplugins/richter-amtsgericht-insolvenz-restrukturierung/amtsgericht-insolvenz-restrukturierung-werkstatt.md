@@ -83,8 +83,8 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `richter-amtsgericht-insolvenz-res
   - Paragraf 21 InsO
   - Paragraf 26 InsO
   - Paragraf 353b StGB
+  - Paragrafen 2, 13, 21, 27, 56 InsO sowie Paragrafen 29 ff. StaRUG
   - Paragrafen 217 ff. InsO
-  - Paragrafen 17 ff. StaRUG, gruppeninternes Mehrheitserfordernis, gruppenübergreifender Cramdown Paragraf 26 StaRUG
 
 ## Leitentscheidungen
 

@@ -34,42 +34,52 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- Paragraf 1684 BGB: Umgangsrecht, Wohlverhaltenspflicht, Einschränkung und Ausschluss sind jeweils gesondert zu begründen.
-- Paragrafen 158 und 159 FamFG: Verfahrensbeistand und Kindesanhörung sind bei streitigem Umgang regelmäßig aktenkundig zu prüfen.
-- Ständige Rechtsprechung zum begleiteten Umgang: Schutzbedarf, Anbahnung, Träger, Dauer und Überprüfungstermin müssen im Tenor vollstreckungsfähig angelegt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: Auch ein paritätisches Wechselmodell kann Umgangsregelung sein, wenn Kindeswohl und praktische Durchführbarkeit es tragen.
+- BVerfG, Beschluss vom 29.01.2015 - 1 BvR 351/13: Umgangsbeschränkungen brauchen eine am Kindeswohl ausgerichtete Tatsachengrundlage und dürfen Elternrechte nicht schematisch verkürzen.
+- Paragrafen 1684, 1685, 1686, 1696 BGB sowie Paragrafen 155, 156, 158, 159, 89 FamFG bilden den Pflichtstamm: Umgangsrecht, Bindungspersonen, Auskunft, Abänderung, Beschleunigung, Anhörung, Verfahrensbeistand und Ordnungsmittel.
 
 ## Prüfungsschema in Stufen
 
-1. Umgangsrecht Paragraf 1684 Bgb: Kindeswohl, Beteiligtenstellung, Anhörung des Kindes, Elternrechte und Jugendamtsbeteiligung zuerst prüfen.
-2. Sorge, Umgang, Aufenthaltsbestimmung und Schutzmaßnahmen getrennt behandeln.
-3. Eilbedürftigkeit, Verfahrensbeistand, Sachverständigengutachten und persönliche Anhörung konkret steuern.
-4. Kooperationsfähigkeit, Bindungen, Kontinuität und Kindeswille nur alters- und konfliktangemessen würdigen.
-5. Beschluss mit Umgangszeiten, Übergaben, Auflagen, Vollstreckungshinweis und Kosten fassen.
+1. Umgangsmodell bestimmen.
+   - Regelumgang, Ferien, Feiertage, digitale Kontakte, Übergaben und Transportpflichten konkretisieren.
+2. Kindeswohl prüfen.
+   - Bindung, Belastung, Loyalitätskonflikt, Distanz, Schulrhythmus, Krankheit, Gewaltvorwürfe und Schutzanordnungen getrennt erfassen.
+3. Durchführbarkeit testen.
+   - Wohnorte, Arbeitszeiten, Kommunikationswege, Übergabeort, Kosten und Konfliktintensität in den Tenor übersetzen.
+4. Einschränkungen begründen.
+   - Begleiteter Umgang, Ausschluss, Ordnungsmittel oder Umgangspflegschaft nur auf Tatsachen und Verhältnismäßigkeit stützen.
+5. Vollstreckbarkeit sichern.
+   - Uhrzeiten, Orte, Ferienhälften, Ersatztermine und Ordnungsmittelhinweis ausformulieren.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Der Tenor sagt nur regelmäßiger Umgang und ist deshalb nicht vollstreckbar.
+- Gewalt- oder Missbrauchsvorwürfe werden entweder ignoriert oder ohne Tatsachengrundlage zum Umgangsausschluss erhoben.
+- Ferien und Feiertage fehlen; der nächste Konflikt ist dadurch vorprogrammiert.
+- Ordnungsmittel werden angedroht, ohne dass die Umgangsregelung hinreichend bestimmt ist.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Der Vater ist berechtigt und verpflichtet, mit dem Kind [Name] in jeder geraden Kalenderwoche von Freitag 16:00 Uhr bis Sonntag 18:00 Uhr Umgang zu haben. Übergabeort ist [Ort].
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Für jeden Fall der schuldhaften Zuwiderhandlung gegen diese Umgangsregelung kann das Gericht ein Ordnungsgeld und ersatzweise Ordnungshaft festsetzen.
 ```
 
 ## Benachbarte Skills
 
 - **Davor**: `04-kindschaftssache-elterliche-sorge` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Umgangsrecht Paragraf 1684 Bgb trägt.
 - **Danach**: `06-kindesunterhalt-duesseldorfer-tabelle` - Folgeskill nutzen, sobald Umgangsrecht Paragraf 1684 Bgb entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

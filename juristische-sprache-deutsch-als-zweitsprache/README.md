@@ -1,7 +1,24 @@
 # Juristische Sprache Deutsch als Zweitsprache
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Juristische Sprache Deutsch als Zweitsprache-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`juristische-sprache-deutsch-als-zweitsprache-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache-werkstatt.zip) |
+| **Juristische Sprache Deutsch als Zweitsprache-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`juristische-sprache-deutsch-als-zweitsprache-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache-schnellstart.zip) |
+| **Juristische Sprache Deutsch als Zweitsprache-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`juristische-sprache-deutsch-als-zweitsprache.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache.zip) |
+| **Juristische Sprache Deutsch als Zweitsprache-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`juristische-sprache-deutsch-als-zweitsprache-werkstatt.md`](./juristische-sprache-deutsch-als-zweitsprache-werkstatt.md) (im Browser ansehen)
+- [`juristische-sprache-deutsch-als-zweitsprache-schnellstart.md`](./juristische-sprache-deutsch-als-zweitsprache-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -15,22 +32,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Juristische Sprache Deutsch als Zweitsprache-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`juristische-sprache-deutsch-als-zweitsprache-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache-werkstatt.zip) |
-| **Juristische Sprache Deutsch als Zweitsprache-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`juristische-sprache-deutsch-als-zweitsprache-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`juristische-sprache-deutsch-als-zweitsprache-werkstatt.md`](./juristische-sprache-deutsch-als-zweitsprache-werkstatt.md) (im Browser ansehen)
-- [`juristische-sprache-deutsch-als-zweitsprache-schnellstart.md`](./juristische-sprache-deutsch-als-zweitsprache-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Dieses Plugin hilft Menschen, die mit deutschem Recht zu tun haben, aber Deutsch nicht als Herkunftssprache sprechen. Es erklaert Bescheide, Fristen, Formulare, Verträge, Schriftsaetze und Gerichtssprache respektvoll und klar.
 
 Es ist kein einfacher Sprachkurs. Es ist ein juristischer Verstehens- und Formulierungsassistent: Was bedeutet dieser Satz? Was muss ich tun? Was darf ich nicht aus Versehen zugeben? Wie schreibe ich das in gutem, formalem Deutsch, ohne meinen Inhalt zu verlieren?

@@ -31,8 +31,8 @@ Pflichtnormen aus dem Plugin-Material:
 - Paragraf 158 FamFG
 - Paragraf 159 FamFG
 Leitentscheidungen nur nach Live-Prüfung verwenden:
-- BVerfG, Beschluss vom 22.05.2014 - 1 BvR 2882/13, frei nachweisbar über bundesverfassungsgericht
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt sichtbare Berücksichtigung entscheidungserheblichen Vortrags
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Ein Entscheidungsvorschlag muss den entscheidungserheblichen Vortrag sichtbar aufnehmen, sonst droht ein Gehörsfehler
+- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: In Verbundsachen muss der Entscheidungsvorschlag die einzelnen Gegenstände getrennt und teilhabegerecht behandeln
 
 ## Kernmodule
 

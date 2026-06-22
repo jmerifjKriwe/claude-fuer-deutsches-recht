@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-versorgungsausgleich
-description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (externe Teilung), § 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen."
+description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), Paragrafen 1 und 10 VersAusglG (Hin- und Herrechnung), Paragraf 17 VersAusglG (externe Teilung), Paragraf 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen."
 ---
 
 # Versorgungsausgleich
@@ -22,11 +22,11 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 
 - **VersAusglG 2009** (Versorgungsausgleichsgesetz seit 1.9.2009)
 - Vorher: Splitting / Quasi-Splitting -> heute Halbteilung
-- **§ 1 VersAusglG**: Pflicht zur Halbteilung
-- **§ 6 VersAusglG**: Vertragliche Modifikationen (Ehevertrag)
-- **§ 27 VersAusglG**: Härteklausel
+- **Paragraf 1 VersAusglG**: Pflicht zur Halbteilung
+- **Paragraf 6 VersAusglG**: Vertragliche Modifikationen (Ehevertrag)
+- **Paragraf 27 VersAusglG**: Härteklausel
 
-## 3) Ehezeit-Begriff § 3 VersAusglG
+## 3) Ehezeit-Begriff Paragraf 3 VersAusglG
 
 - **Beginn**: 1. des Monats der Eheschliessung
 - **Ende**: letzter Tag des Monats der Rechtshaengigkeit Scheidung
@@ -58,13 +58,13 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 
 ## 5) Interne vs. externe Teilung
 
-### Interne Teilung § 10 VersAusglG
+### Interne Teilung Paragraf 10 VersAusglG
 
 - Im selben Versorgungs-System
 - Ausgleichs-Berechtigter erhaelt eigenen Anspruch
 - Standardform
 
-### Externe Teilung § 14 VersAusglG
+### Externe Teilung Paragraf 14 VersAusglG
 
 - Bei kleinem Wert (< 84 EUR/Monat Rente, Stand 2024)
 - Auf Antrag des Versorgungs-Trägers
@@ -85,13 +85,13 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 
 ## 7) Verzicht / Modifikation
 
-### Ehevertrag § 6 VersAusglG
+### Ehevertrag Paragraf 6 VersAusglG
 
 - Notarielle Form
-- Kontrolle § 138 BGB (Sittenwidrigkeit)
+- Kontrolle Paragraf 138 BGB (Sittenwidrigkeit)
 - BGH-Linie zur Wirksamkeitsprüfung bei Inkompetenz / Druck
 
-### Härteklausel § 27 VersAusglG
+### Härteklausel Paragraf 27 VersAusglG
 
 - Grobe Unbilligkeit bei kurzer Ehe (< 3 Jahre)
 - Bei wesentlicher Wert-Disproportion
@@ -125,7 +125,7 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 
 ### Bei vermeintlich kurzem Ehe-Verlauf
 
-- Prüfen ob VA-Ausschluss durch § 27 sinnvoll
+- Prüfen ob VA-Ausschluss durch Paragraf 27 sinnvoll
 - Bei höheren Anrechten: VA-Ausschluss bringt Verlust
 
 ### Bei selbstständigem Mandanten
@@ -143,8 +143,8 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 1. **Versorgungs-Auskunft übersehen** -> falsche Berechnung
 2. **Ehezeit falsch berechnet** -> Falschberechnung
 3. **Interne vs. externe Teilung nicht optimiert** -> wirtschaftlicher Verlust
-4. **Härte-Antrag § 27 versäumt** -> ungewollte Aufteilung
-5. **Ehevertrag-Prüfung übersprungen** -> § 138 BGB-Streit später
+4. **Härte-Antrag Paragraf 27 versäumt** -> ungewollte Aufteilung
+5. **Ehevertrag-Prüfung übersprungen** -> Paragraf 138 BGB-Streit später
 
 ## 11) BGH-Linien
 
@@ -160,7 +160,7 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC
 Kindesunterhalt und Immobilienfinanzierung (Tilgungsraten bis Wohnwert berücksichtigbar,
-§ 1603 Abs. 2 BGB) – nicht den Mehrwert-Faktor im Versorgungsausgleich.
+Paragraf 1603 Abs. 2 BGB) – nicht den Mehrwert-Faktor im Versorgungsausgleich.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Maßnahme: Zeile aus BGH-Linien (Abschnitt 11) gelöscht.
 -->

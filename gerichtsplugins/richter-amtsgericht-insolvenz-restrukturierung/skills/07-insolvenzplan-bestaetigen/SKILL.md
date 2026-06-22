@@ -72,3 +72,10 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 
 - **Davor**: `06-eigenverwaltung-und-schutzschirm` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Insolvenzplan Bestaetigen trägt.
 - **Danach**: `08-starug-restrukturierungssache-anzeigen` - Folgeskill nutzen, sobald Insolvenzplan Bestaetigen entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Insolvenz- und Restrukturierungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Sicherungsbeschluss, Eröffnungsbeschluss, Hinweisverfügung oder StaRUG-Entscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 2, 13, 21, 27, 56 InsO sowie Paragrafen 29 ff. StaRUG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

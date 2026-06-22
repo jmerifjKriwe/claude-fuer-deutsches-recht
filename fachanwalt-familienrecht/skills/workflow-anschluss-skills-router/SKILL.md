@@ -19,7 +19,7 @@ Dieser Arbeitsgang macht **Anschluss-Skills Router** im Bereich **fachanwalt-fam
 
 ## Fachliche Anker
 
-- BGB §§ 1297 ff., 1353 ff., 1564 ff., 1601 ff., 1626 ff.; FamFG; VersAusglG; GewSchG bei Schutzsachen.
+- BGB Paragrafen 1297 ff., 1353 ff., 1564 ff., 1601 ff., 1626 ff.; FamFG; VersAusglG; GewSchG bei Schutzsachen.
 - Eilbedürftigkeit, Kindeswohl, Unterhalt, Vermögen, Sorge/Umgang, Versorgungsausgleich und Vollstreckung getrennt strukturieren.
 - Belege: Einkommen, Betreuung, Kommunikation, Vermögen, Rentenanwartschaften und gerichtliche Fristen mit Datum erfassen.
 

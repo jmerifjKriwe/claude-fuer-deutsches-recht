@@ -19,7 +19,7 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **fachanwalt-fa
 
 ## Fachliche Anker
 
-- BGB §§ 1297 ff., 1353 ff., 1564 ff., 1601 ff., 1626 ff.; FamFG; VersAusglG; GewSchG bei Schutzsachen.
+- BGB Paragrafen 1297 ff., 1353 ff., 1564 ff., 1601 ff., 1626 ff.; FamFG; VersAusglG; GewSchG bei Schutzsachen.
 - Eilbedürftigkeit, Kindeswohl, Unterhalt, Vermögen, Sorge/Umgang, Versorgungsausgleich und Vollstreckung getrennt strukturieren.
 - Belege: Einkommen, Betreuung, Kommunikation, Vermögen, Rentenanwartschaften und gerichtliche Fristen mit Datum erfassen.
 
@@ -34,12 +34,12 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **fachanwalt-fa
 ## Ergänzende Hinweise
 
 ## Typische Fristen im Familienrecht
-- Beschwerde gegen Endentscheidung: ein Monat ab schriftlicher Bekanntgabe (§ 63 Abs. 1 FamFG); bei einstweiliger Anordnung zwei Wochen (§ 63 Abs. 2 FamFG).
-- Begründungsfrist Beschwerde: zwei Monate ab schriftlicher Bekanntgabe (§ 117 Abs. 1 FamFG).
-- Antrag auf Anpassung Versorgungsausgleich nach § 5 VersAusglG-AnpG nach Ablauf der Trennungszeit.
-- Sechs-Monats-Frist Zugewinnausgleich Auskunft Stichtag (§ 1379 BGB).
-- Rückforderung Schenkung Schwiegereltern: regelmäßige Verjährung drei Jahre ab Ende des Jahres der Trennungserkenntnis (§§ 195, 199 BGB).
+- Beschwerde gegen Endentscheidung: ein Monat ab schriftlicher Bekanntgabe (Paragraf 63 Abs. 1 FamFG); bei einstweiliger Anordnung zwei Wochen (Paragraf 63 Abs. 2 FamFG).
+- Begründungsfrist Beschwerde: zwei Monate ab schriftlicher Bekanntgabe (Paragraf 117 Abs. 1 FamFG).
+- Antrag auf Anpassung Versorgungsausgleich nach Paragraf 5 VersAusglG-AnpG nach Ablauf der Trennungszeit.
+- Sechs-Monats-Frist Zugewinnausgleich Auskunft Stichtag (Paragraf 1379 BGB).
+- Rückforderung Schenkung Schwiegereltern: regelmäßige Verjährung drei Jahre ab Ende des Jahres der Trennungserkenntnis (Paragrafen 195, 199 BGB).
 
 ## Praxis-Trade-off
-- Schnelle einstweilige Anordnung (§§ 49 ff. FamFG) vs. Hauptsacheantrag: einstweilige Anordnung wirkt sofort, aber begründet keinen Rechtskraftvorteil und kann durch Hauptsache überholt werden.
-- Verbund (§ 137 FamFG) vs. isolierte Folgesache: Verbund spart Gebühren, verzögert aber Scheidungsausspruch.
+- Schnelle einstweilige Anordnung (Paragrafen 49 ff. FamFG) vs. Hauptsacheantrag: einstweilige Anordnung wirkt sofort, aber begründet keinen Rechtskraftvorteil und kann durch Hauptsache überholt werden.
+- Verbund (Paragraf 137 FamFG) vs. isolierte Folgesache: Verbund spart Gebühren, verzögert aber Scheidungsausspruch.

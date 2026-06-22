@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag
-description: "Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einstweilige Anordnung), § 8a SGB VIII (Jugendamt-Meldung), § 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen."
+description: "Kindeswohlgefaehrdung nach Paragraf 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: Paragraf 1666 BGB (Eingriff Familiengericht), Paragraf 49 FamFG (Einstweilige Anordnung), Paragraf 8a SGB VIII (Jugendamt-Meldung), Paragraf 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen."
 ---
 
 # Kindeswohlgefährdung — Eilanordnung
@@ -20,15 +20,15 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 
 ## 2) Rechtsgrundlagen
 
-- **§ 1666 BGB** Maßnahmen bei Kindeswohlgefährdung
-- **§ 1666a BGB** Verhältnismaessigkeit
-- **§ 1671 BGB** Sorgerechts-Übertragung
-- **§ 1684 BGB** Umgangsrecht
-- **§ 1696 BGB** Änderung
-- **§§ 8a, 42 SGB VIII** Jugendamts-Maßnahmen
-- **§ 49 FamFG** einstweilige Anordnung
+- **Paragraf 1666 BGB** Maßnahmen bei Kindeswohlgefährdung
+- **Paragraf 1666a BGB** Verhältnismaessigkeit
+- **Paragraf 1671 BGB** Sorgerechts-Übertragung
+- **Paragraf 1684 BGB** Umgangsrecht
+- **Paragraf 1696 BGB** Änderung
+- **Paragrafen 8a, 42 SGB VIII** Jugendamts-Maßnahmen
+- **Paragraf 49 FamFG** einstweilige Anordnung
 
-## 3) Stufen der Maßnahme § 1666 BGB
+## 3) Stufen der Maßnahme Paragraf 1666 BGB
 
 ### Stufe 1 — Auflagen
 
@@ -51,9 +51,9 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 ### Stufe 4 — Wegnahme Kind aus Familie
 
 - Bei akuter Gefahr
-- Inobhutnahme § 42 SGB VIII
+- Inobhutnahme Paragraf 42 SGB VIII
 
-## 4) Jugendamt-Verfahren § 8a SGB VIII
+## 4) Jugendamt-Verfahren Paragraf 8a SGB VIII
 
 ### Prüf-Auftrag
 
@@ -64,15 +64,15 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 ### Schutzplan
 
 - Konkrete Auflagen
-- Hilfe zur Erziehung § 27 ff. SGB VIII
+- Hilfe zur Erziehung Paragraf 27 ff. SGB VIII
 - Familienhilfe
 
 ### Eskalation Familiengericht
 
 - Bei nicht-Kooperation oder akuter Gefährdung
-- Pflicht-Anrufung § 8a IV SGB VIII
+- Pflicht-Anrufung Paragraf 8a IV SGB VIII
 
-## 5) Eilanordnung § 49 FamFG
+## 5) Eilanordnung Paragraf 49 FamFG
 
 ### Voraussetzungen
 
@@ -91,11 +91,11 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 - Mutter psychotisch — Inobhutnahme + Vormundschaft
 - Eltern verweigern Schul-Anmeldung — Schul-Begleitung durch JA
 
-## 6) Anhörung Beteiligter § 159 FamFG
+## 6) Anhörung Beteiligter Paragraf 159 FamFG
 
 - **Kind ab 14 Jahre** zwingend
 - Kind 3-14 Jahre: nach Verständnis-Fähigkeit
-- Verfahrensbeistand (Anwalt des Kindes) § 158 FamFG
+- Verfahrensbeistand (Anwalt des Kindes) Paragraf 158 FamFG
 
 ## 7) Workflow Eltern-Verteidigung
 
@@ -112,8 +112,8 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 
 ### Schritt 3 — Akteneinsicht
 
-- § 13 FamFG Akteneinsicht
-- Sozialhilfeakten Jugendamt § 25 SGB X
+- Paragraf 13 FamFG Akteneinsicht
+- Sozialhilfeakten Jugendamt Paragraf 25 SGB X
 
 ### Schritt 4 — Schriftsatz
 
@@ -129,7 +129,7 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 
 ## 8) Workflow Jugendamts-Klage / Eilantrag
 
-### Schritt 1 — Eilantrag § 49 FamFG
+### Schritt 1 — Eilantrag Paragraf 49 FamFG
 
 - Glaubhaftmachung Gefährdung
 - Eidesstattliche Versicherung Sozialarbeiter
@@ -147,7 +147,7 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 - Auflagen oder Teil-Entzug
 - Vollstreckbar
 
-## 9) Inobhutnahme § 42 SGB VIII
+## 9) Inobhutnahme Paragraf 42 SGB VIII
 
 ### Voraussetzungen
 
@@ -157,14 +157,14 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 
 ### Pflicht-Information
 
-- Eltern unverzueglich informieren (§ 42 III SGB VIII)
+- Eltern unverzueglich informieren (Paragraf 42 III SGB VIII)
 - FamG binnen Tagen
 
 ### Eltern-Rechte
 
 - Widerspruch JA
 - Antrag auf Aufhebung beim FamG
-- Eilantrag § 49 FamFG (Rueckgabe Kind)
+- Eilantrag Paragraf 49 FamFG (Rueckgabe Kind)
 
 ## 10) Typische Fehler
 

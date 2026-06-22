@@ -34,42 +34,57 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
-- Paragrafen 1601, 1602, 1603, 1610, 1612a und 1612b BGB: Anspruchsgrund, Bedürftigkeit, Leistungsfähigkeit, Bedarf, dynamischer Titel und Kindergeldanrechnung sind getrennt zu prüfen.
-- Paragraf 243 FamFG: Kosten in Unterhaltssachen folgen einer eigenen Billigkeitslogik.
-- Paragraf 235 FamFG: Auskunftsanordnung und Belegvorlage sind vor Schätzung oder Säumnisentscheidung auszuschöpfen.
-- Ständige Rechtsprechung zur Düsseldorfer Tabelle: Tabelle ist Hilfsmittel, ersetzt aber nicht Einkommensbereinigung, Bedarfskontrollbetrag und Mangelfallprüfung; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: In Kindesunterhaltsverfahren getrennt lebender verheirateter Eltern ist die Vertretungs- und Verfahrensbefugnis sauber zu prüfen; die Entscheidung ist vor Verwendung live über die BGH-Quelle nachzuziehen.
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Ein Auskunftsanspruch kann nicht allein mit dem Hinweis auf angeblich unbegrenzte Leistungsfähigkeit abgewehrt werden.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: Paritätische Betreuung beeinflusst die Unterhaltslogik, ersetzt aber nicht die konkrete Bedarfsermittlung und Leistungsfähigkeitsprüfung.
+- Paragrafen 1601, 1602, 1603, 1610, 1612a, 1612b BGB sowie Paragrafen 235, 236, 243 FamFG bilden den Pflichtstamm: Unterhaltspflicht, Bedürftigkeit, Leistungsfähigkeit, Bedarf, dynamischer Titel, Kindergeld, Auskunft und Kosten.
 
 ## Prüfungsschema in Stufen
 
-1. Kindesunterhalt Duesseldorfer Tabelle: Kindeswohl, Beteiligtenstellung, Anhörung des Kindes, Elternrechte und Jugendamtsbeteiligung zuerst prüfen.
-2. Sorge, Umgang, Aufenthaltsbestimmung und Schutzmaßnahmen getrennt behandeln.
-3. Eilbedürftigkeit, Verfahrensbeistand, Sachverständigengutachten und persönliche Anhörung konkret steuern.
-4. Kooperationsfähigkeit, Bindungen, Kontinuität und Kindeswille nur alters- und konfliktangemessen würdigen.
-5. Beschluss mit Umgangszeiten, Übergaben, Auflagen, Vollstreckungshinweis und Kosten fassen.
+1. Beteiligtenstellung klären.
+   - Wer macht den Anspruch geltend: Kind, betreuender Elternteil, Beistand, Jugendamt oder gesetzlicher Vertreter. Vertretungsbefugnis und Interessenkollision prüfen.
+2. Bedarf bestimmen.
+   - Alter, Haushaltszuordnung, Betreuungsmodell, Mehrbedarf, Sonderbedarf und aktuelle Düsseldorfer Tabelle live nachziehen; keine Tabellenzahl aus Erinnerung verwenden.
+3. Einkommen bereinigen.
+   - Brutto, Netto, berufsbedingte Aufwendungen, Schulden, Wohnvorteil, fiktives Einkommen und sonstige Unterhaltspflichten getrennt erfassen.
+4. Leistungsfähigkeit und Mangelfall prüfen.
+   - Selbstbehalt, Einsatzbetrag, Verteilungsmasse, gleichrangige Kinder und Herabstufung transparent darstellen.
+5. Titel und Tenor formulieren.
+   - Dynamisierung, Beginn, Rückstand, laufender Betrag, Kindergeldanrechnung, Kosten und Vollstreckbarkeit ausformulieren.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Die Düsseldorfer Tabelle wird als Rechenautomat benutzt, obwohl Einkommen, Rang, Kindergeld und Selbstbehalt vorher zu klären sind.
+- Wechselmodell wird behauptet, ohne tatsächliche Betreuungsanteile, Fahrtkosten und Kommunikationsfähigkeit zu prüfen.
+- Auskunft wird übersprungen; danach fehlen Belege für Einkommen, Steuererstattung, Bonus, Nebenjob oder Selbstständigkeit.
+- Mangelfall wird nicht gerechnet, obwohl mehrere gleichrangige Kinder und ein knapper Selbstbehalt aktenkundig sind.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Der Antragsgegner wird verpflichtet, an das Kind [Name], geboren am [Datum], ab dem [Datum] Kindesunterhalt in Höhe von [Prozentsatz] Prozent des jeweiligen Mindestunterhalts der [Altersstufe] abzüglich des anzurechnenden Kindergeldanteils zu zahlen.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Der Antragsgegner wird aufgefordert, binnen zwei Wochen Auskunft über sein Einkommen der letzten zwölf Monate zu erteilen und Lohnabrechnungen, Steuerbescheid, Steuererklärung, Nachweise zu Bonuszahlungen und Nachweise über weitere Unterhaltspflichten vorzulegen.
 ```
+
+### Stop-Kriterium
+
+Ohne aktuelle Tabelle, vollständige Einkommensbelege und Klärung des Betreuungsmodells darf nur ein Auskunfts- oder Hinweisbeschluss entworfen werden, kein abschließender Unterhaltstitel.
 
 ## Benachbarte Skills
 
 - **Davor**: `05-umgangsrecht-paragraf-1684-bgb` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kindesunterhalt Duesseldorfer Tabelle trägt.
 - **Danach**: `07-ehegattenunterhalt-trennung-und-nachehe` - Folgeskill nutzen, sobald Kindesunterhalt Duesseldorfer Tabelle entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

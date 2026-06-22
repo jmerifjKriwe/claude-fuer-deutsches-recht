@@ -79,12 +79,12 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `fachanwalt-familienrecht` zu eine
   - Paragraf 49 FamFG
   - Paragraf 8a SGB VIII
   - Paragraf 42 SGB VIII
-  - Paragraf 1600b BGB
-  - Paragraf 1666 BGB, Anordnungen Familiengericht, einstweilige Anordnung Paragraf 49 FamFG, Inobhutnahme Jugendamt Paragraf 42 SGB VIII
-  - Paragraf 1379 BGB
-  - Paragraf 137 FamFG
-  - Paragraf 23a und 23b GVG
-  - Paragraf 1372-1390 BGB
+  - Paragraf 1666a BGB
+  - Paragraf 1671 BGB
+  - Paragraf 1684 BGB
+  - Paragraf 1696 BGB
+  - Paragrafen 8a, 42 SGB VIII
+  - Paragraf 27 ff. SGB VIII
 
 ## Leitentscheidungen
 
@@ -106,53 +106,53 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `fachanwalt-familienrecht` zu eine
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **Vaterschaftsanfechtung Frist Paragraf 1600b BGB Bverfg**
+3. **Mandate Risikoampel und Gegenargumente**
+   - Fachlicher Fokus: Familienrechtlicher Skill zu Mandate: Risikoampel, Gegenargumente und Verteidigungslinien im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
+   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
+   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
+   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
+4. **Orientierung Fristen Form und Zustaendigkeit**
+   - Fachlicher Fokus: Familienrechtlicher Skill zu Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
+   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
+   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
+   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
+5. **Vaterschaftsanfechtung Frist Paragraf 1600b BGB Bverfg**
    - Fachlicher Fokus: Vaterschaftsanfechtung Frist Paragraf 1600b BGB mit BVerfG 1 BvR 2007/10.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Famr Kindeswohlgefaehrdung Eilantrag Spezial**
-   - Fachlicher Fokus: Spezialfall Kindeswohlgefaehrdung und Eilantrag: Paragraf 1666 BGB, Anordnungen Familiengericht, einstweilige Anordnung Paragraf 49 FamFG, Inobhutnahme Jugendamt Paragraf 42 SGB VIII: Spezialfall Kindeswohlgefaehrdung und Eilantrag: Paragraf 1666 BGB, Anordnungen Familiengericht, eins...
-   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
-   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
-   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Einstieg Routing**
-   - Fachlicher Fokus: Anwalts-Dashboard Fachanwalt Familienrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs, Norm-Radar; maximal eine Rückfrage. Der Anwalt bleibt im Driver Seat.
-   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
-   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
-   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
 6. **Erstpruefung und Mandatsziel**
-   - Fachlicher Fokus: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodu...
+   - Fachlicher Fokus: Familienrechtlicher Skill zu Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
 7. **Familiengericht Verhandlung Vergleich und Eskalation**
-   - Fachlicher Fokus: Familiengericht: Verhandlung, Vergleich und Eskalation im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodu...
+   - Fachlicher Fokus: Familienrechtlicher Skill zu Familiengericht: Verhandlung, Vergleich und Eskalation im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Mandat Triage Familienrecht**
-   - Fachlicher Fokus: Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich: Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausg...
+8. **Sorge Compliance Dokumentation und Akte**
+   - Fachlicher Fokus: Familienrechtlicher Skill zu Sorge: Compliance-Dokumentation und Aktenvermerk im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Mandate Risikoampel und Gegenargumente**
-   - Fachlicher Fokus: Mandate: Risikoampel, Gegenargumente und Verteidigungslinien im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeit...
+9. **Fristen Behoerden Gericht und Registerweg**
+   - Fachlicher Fokus: Familienrechtlicher Skill zu Fristen: Behörden-, Gerichts- oder Registerweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **Orientierung Fristen Form und Zustaendigkeit**
-   - Fachlicher Fokus: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitspro...
+10. **Ehevertrag RED Team und Qualitaetskontrolle**
+   - Fachlicher Fokus: Familienrechtlicher Skill zu Ehevertrag: Red-Team und Qualitätskontrolle im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **Ehevertrag RED Team und Qualitaetskontrolle**
-   - Fachlicher Fokus: Ehevertrag: Red-Team und Qualitätskontrolle im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: Ehever...
+11. **Kanzlei Fristennotiz und Naechster Schritt**
+   - Fachlicher Fokus: Familienrechtlicher Skill zu Kanzlei: Fristennotiz und nächster Schritt im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
 12. **Erstgespraech Mandatsannahme**
-   - Fachlicher Fokus: Strukturierter Erstgespraechsleitfaden für Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter E...
+   - Fachlicher Fokus: Familienrechtlicher Skill zu Strukturierter Erstgespraechsleitfaden für Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.

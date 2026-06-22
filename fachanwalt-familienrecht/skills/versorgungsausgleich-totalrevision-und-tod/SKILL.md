@@ -1,9 +1,9 @@
 ---
 name: versorgungsausgleich-totalrevision-und-tod
-description: "Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur: Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der geset..."
+description: "Familienrechtlicher Skill zu Prüft Abänderungsverfahren nach Paragraf 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
 ---
 
-# Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur.
+# Prüft Abänderungsverfahren nach Paragraf 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur.
 
 
 ## Arbeitsweg
@@ -14,16 +14,16 @@ description: "Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz i
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur.
+**Fokus:** Prüft Abänderungsverfahren nach Paragraf 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur.
 
 ### Versorgungsausgleich: Abänderung, Totalrevision, Tod und 24-Monats-Regel
 
 ## Verifizierte Entscheidungen
-- BGH, Beschluss vom 02.04.2025 - XII ZB 576/24: Bei Abänderung nach Tod eines Ehegatten ist § 88 Abs. 2 SGB VI für Entgeltpunkte nur bei neuem Rentenbezug innerhalb von 24 Kalendermonaten maßgeblich.
-- BGH, Beschluss vom 18.10.2023 - XII ZB 197/23: § 51 VersAusglG dient nicht der Korrektur bloßer Fehler der Ausgangsentscheidung.
+- BGH, Beschluss vom 02.04.2025 - XII ZB 576/24: Bei Abänderung nach Tod eines Ehegatten ist Paragraf 88 Abs. 2 SGB VI für Entgeltpunkte nur bei neuem Rentenbezug innerhalb von 24 Kalendermonaten maßgeblich.
+- BGH, Beschluss vom 18.10.2023 - XII ZB 197/23: Paragraf 51 VersAusglG dient nicht der Korrektur bloßer Fehler der Ausgangsentscheidung.
 
 ## Normenradar
-VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; FamFG; SGB VI § 88; Übergangsrecht bei Altentscheidungen.
+VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; FamFG; SGB VI Paragraf 88; Übergangsrecht bei Altentscheidungen.
 
 ## Workflow
 1. Ausgangsentscheidung, Ehezeitende, Rechtskraft und einbezogene Anrechte erfassen.

@@ -34,42 +34,52 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- Paragrafen 1361, 1569, 1570 bis 1578b BGB: Trennungsunterhalt und nachehelicher Unterhalt folgen unterschiedlichen Einsatzzeitpunkten und Begrenzungsregeln.
-- Paragraf 1578b BGB: Herabsetzung und Befristung verlangen ehebedingte Nachteile und Billigkeitsabwägung.
-- Paragraf 1585b BGB: Rückstände setzen Verzug, Rechtshängigkeit oder Auskunftsverlangen voraus.
-- Paragraf 235 FamFG: Einkommensermittlung muss durch Auskunfts- und Beleganordnung abgesichert werden.
-- Ständige Rechtsprechung des BGH zum Ehegattenunterhalt: Bedarf, Bedürftigkeit, Leistungsfähigkeit, Erwerbsobliegenheit und Begrenzung sind nacheinander zu prüfen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs- und Einkommensprüfung; ehebedingte Nachteile, Erwerbsobliegenheit und Begrenzung dürfen nicht schematisch abgearbeitet werden.
+- BGH, Beschluss vom 11.03.2026 - XII ZB 387/25: Trennungsunterhalt und verfahrensrechtliche Behandlung sind vor Verwendung live über die BGH-Quelle nachzuziehen.
+- Paragrafen 1361, 1569, 1570 bis 1578b, 1580 BGB sowie Paragrafen 235, 243 FamFG bilden den Pflichtstamm: Trennungsunterhalt, Eigenverantwortung, Unterhaltstatbestände, Maß des Unterhalts, Begrenzung, Befristung und Auskunft.
 
 ## Prüfungsschema in Stufen
 
-1. Ehegattenunterhalt Trennung und Nachehe: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
-2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
-3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
-4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
-5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
+1. Unterhaltsart trennen.
+   - Trennungsunterhalt, nachehelicher Unterhalt, Aufstockung, Betreuungsunterhalt, Altersunterhalt, Krankheitsunterhalt und Ausbildungsunterhalt nicht vermengen.
+2. Einkommen beider Seiten bereinigen.
+   - Erwerbseinkommen, Selbstständigkeit, Wohnvorteil, Steuererstattung, Vorsorge, Schulden und Kindesunterhalt vor Quotenrechnung bereinigen.
+3. Bedarf und Quote ermitteln.
+   - Halbteilungsgrundsatz, Erwerbstätigenbonus, Vorsorgeunterhalt, trennungsbedingter Mehrbedarf und konkrete Bedarfspositionen offenlegen.
+4. Bedürftigkeit und Leistungsfähigkeit prüfen.
+   - Selbstbehalt, Erwerbsobliegenheit, fiktives Einkommen, Kindesbetreuung, Krankheit und Vermögenseinsatz gesondert begründen.
+5. Begrenzung und Befristung prüfen.
+   - Ehebedingte Nachteile, Dauer der Ehe, Rollenverteilung, Kindesbetreuung und Vertrauenstatbestand einzelfallbezogen würdigen.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Trennungsunterhalt wird wie nachehelicher Unterhalt befristet, obwohl der rechtliche Prüfungsmaßstab anders ist.
+- Selbstständigeneinkommen wird aus einer einzelnen BWA abgeleitet; erforderlich ist regelmäßig ein Mehrjahresbild mit Entnahmen und Steuerlast.
+- Kindesunterhalt wird nach der Quote gerechnet, statt vorrangig in die Bereinigung einzufließen.
+- Begrenzung nach Paragraf 1578b BGB wird behauptet, ohne ehebedingte Nachteile und Lebensstandard konkret festzustellen.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Der Antragsgegner wird verpflichtet, an die Antragstellerin ab dem [Datum] monatlichen Ehegattenunterhalt in Höhe von [Betrag] Euro jeweils monatlich im Voraus bis zum dritten Werktag eines Monats zu zahlen.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Die Beteiligten werden darauf hingewiesen, dass vor einer abschließenden Unterhaltsberechnung Auskunft über Einkommen, Steuererstattungen, Vorsorgeaufwendungen, Wohnvorteil, Schulden und bestehende Kindesunterhaltspflichten zu erteilen ist.
 ```
 
 ## Benachbarte Skills
 
 - **Davor**: `06-kindesunterhalt-duesseldorfer-tabelle` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ehegattenunterhalt Trennung und Nachehe trägt.
 - **Danach**: `08-gewaltschutz-und-eilanordnung` - Folgeskill nutzen, sobald Ehegattenunterhalt Trennung und Nachehe entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

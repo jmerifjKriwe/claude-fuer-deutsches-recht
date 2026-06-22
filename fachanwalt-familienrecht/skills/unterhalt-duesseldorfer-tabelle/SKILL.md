@@ -1,6 +1,6 @@
 ---
 name: unterhalt-duesseldorfer-tabelle
-description: "Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten: Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdate..."
+description: "Familienrechtlicher Skill zu Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
 ---
 
 # Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten
@@ -14,14 +14,14 @@ description: "Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechne
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten. Normen: §§ 1601 ff. BGB, § 1605 BGB (Selbstauskunft), § 1613 BGB (Verzug). Prüfraster: Bereinigtes Nettoeinkommen (5%-Pauschale Berufsaufwendungen, Schulden, Vorsorge, Krankenversicherung), Selbstbehalt, Mangelfaelle, Erwerbstätigenbonus, Halbteilungsgrundsatz, fiktives Einkommen. Output Unterhalts-Berechnung Schritt für Schritt. Abgrenzung: Strategische Beratung siehe fachanwalt-familienrecht-unterhaltsberechnung; Abbaenderungsklage siehe fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt.
+**Fokus:** Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten. Normen: Paragrafen 1601 ff. BGB, Paragraf 1605 BGB (Selbstauskunft), Paragraf 1613 BGB (Verzug). Prüfraster: Bereinigtes Nettoeinkommen (5%-Pauschale Berufsaufwendungen, Schulden, Vorsorge, Krankenversicherung), Selbstbehalt, Mangelfaelle, Erwerbstätigenbonus, Halbteilungsgrundsatz, fiktives Einkommen. Output Unterhalts-Berechnung Schritt für Schritt. Abgrenzung: Strategische Beratung siehe fachanwalt-familienrecht-unterhaltsberechnung; Abbaenderungsklage siehe fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt.
 
 ### Unterhalt nach Düsseldorfer Tabelle
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Unterhalt nach Düsseldorfer Tabelle` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG §§ 49 ff., 76, 86 ff., 112 ff.; VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, § 51 VersAusglG, § 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
+- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
+- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -65,11 +65,11 @@ Die Düsseldorfer Tabelle (Fassung aktuelles Jahr) staffelt nach Einkommen und A
 - Altersstufe 3: zwölf bis siebzehn Jahre
 - Altersstufe 4: ab achtzehn Jahre
 
-Mindestunterhalt 2026 nach § 1612a BGB (ab 01.01.2026): EUR 486 (0-5), EUR 558 (6-11), EUR 653 (12-17). Rechtsgrundlage: Siebte Mindestunterhaltsverordnung vom 15.11.2024 (BGBl. 2024 I Nr. 359). Aktuelle Tabelle stets über olg-duesseldorf.nrw.de verifizieren.
+Mindestunterhalt 2026 nach Paragraf 1612a BGB (ab 01.01.2026): EUR 486 (0-5), EUR 558 (6-11), EUR 653 (12-17). Rechtsgrundlage: Siebte Mindestunterhaltsverordnung vom 15.11.2024 (BGBl. 2024 I Nr. 359). Aktuelle Tabelle stets über olg-duesseldorf.nrw.de verifizieren.
 
 ### Schritt 3 — Kindergeld-Anrechnung
 
-- Beim minderjährigen Kind hälftige Anrechnung auf Barunterhalt (§ 1612b Abs. 1 BGB).
+- Beim minderjährigen Kind hälftige Anrechnung auf Barunterhalt (Paragraf 1612b Abs. 1 BGB).
 - Beim volljährigen Kind volle Anrechnung.
 
 ### Schritt 4 — Selbstbehalt
@@ -81,7 +81,7 @@ Mindestunterhalt 2026 nach § 1612a BGB (ab 01.01.2026): EUR 486 (0-5), EUR 558 
 
 Bei Unterschreitung des Selbstbehalts Mangelfallberechnung mit anteiliger Quotelung aller Unterhaltsansprüche.
 
-## Trennungsunterhalt § 1361 BGB
+## Trennungsunterhalt Paragraf 1361 BGB
 
 ### Halbteilungsgrundsatz
 
@@ -98,17 +98,17 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 - Eigeneinkommen anrechnen.
 - Wohnvorteil bewerten.
 
-## Nachehelicher Unterhalt §§ 1569 ff. BGB
+## Nachehelicher Unterhalt Paragrafen 1569 ff. BGB
 
 ### Anspruchsgrundlagen
 
-- § 1570 Betreuungsunterhalt (Kind unter drei Jahre Basisanspruch)
-- § 1571 Alter
-- § 1572 Krankheit
-- § 1573 Erwerbslosigkeit / Aufstockung
-- § 1575 Ausbildungsunterhalt
+- Paragraf 1570 Betreuungsunterhalt (Kind unter drei Jahre Basisanspruch)
+- Paragraf 1571 Alter
+- Paragraf 1572 Krankheit
+- Paragraf 1573 Erwerbslosigkeit / Aufstockung
+- Paragraf 1575 Ausbildungsunterhalt
 
-### Befristung und Herabsetzung § 1578b BGB
+### Befristung und Herabsetzung Paragraf 1578b BGB
 
 - Ehebedingte Nachteile prüfen
 - Dauer der Ehe
@@ -120,13 +120,13 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 - Nach Trennungsphase Erwerbsobliegenheit prüfen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Auskunftsanspruch § 1605 BGB
+## Auskunftsanspruch Paragraf 1605 BGB
 
 - Beidseitig alle zwei Jahre
 - Belege: Lohnsteuerbescheinigung Steuerbescheid Selbstständige drei Jahresabschlüsse
-- Bei Selbstauskunfts-Verweigerung Stufenklage § 254 ZPO
+- Bei Selbstauskunfts-Verweigerung Stufenklage Paragraf 254 ZPO
 
-## Verzug § 1613 BGB
+## Verzug Paragraf 1613 BGB
 
 - Rückwirkend nur ab Aufforderung zur Auskunft / Zahlung
 - Daher früh und schriftlich auffordern (Mahnschreiben mit Auskunftsanforderung)
@@ -134,7 +134,7 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 ## Sonderbedarf und Mehrbedarf
 
 - Mehrbedarf (Kindergarten Nachhilfe Krankenkosten) zusätzlich
-- Sonderbedarf (Konfirmation Klassenfahrt) einmalig § 1613 Abs. 2 BGB
+- Sonderbedarf (Konfirmation Klassenfahrt) einmalig Paragraf 1613 Abs. 2 BGB
 
 ## Ausgabe
 
@@ -147,3 +147,27 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 ## Hinweis
 
 Detaillierte Sonderfälle (Auslandsbezug fiktives Einkommen Selbstständige Wohnvorteil PKW-Nutzung GmbH-Geschäftsführer-Gehalt) erfordern Fachanwalts-Expertise.
+
+## Unterhalts-Schärfung: Rechenweg, Auskunft, Abänderung
+
+1. Anspruchsart festlegen.
+   - Kindesunterhalt, Trennungsunterhalt, nachehelicher Unterhalt, Mehrbedarf, Sonderbedarf, Elternunterhalt oder Anpassung im Versorgungsausgleich dürfen nicht vermischt werden.
+2. Auskunftsstufe vorbereiten.
+   - Vor jeder Berechnung werden Auskunft, Belege und eidesstattliche Versicherung geprüft. Pflichtanker sind Paragraf 1605 BGB, Paragraf 1580 BGB, Paragraf 235 FamFG und bei Stufenklage Paragraf 113 FamFG in Verbindung mit Paragraf 254 ZPO.
+3. Einkommen bereinigen.
+   - Bei Arbeitnehmern: Brutto, Netto, Steuer, Sozialabgaben, berufsbedingte Aufwendungen, Altersvorsorge, Schulden und Wohnvorteil. Bei Selbstständigen: regelmäßig Drei-Jahres-Bild, Steuerbescheide, Gewinnermittlungen, BWA, Privatentnahmen, Darlehen, Investitionen und Liquidität plausibilisieren.
+4. Bedarf und Leistungsfähigkeit rechnen.
+   - Düsseldorfer Tabelle stets live nachziehen; Selbstbehalt, Rang, Kindergeldanrechnung, Erwerbstätigenbonus, Mangelfall und Verteilungsmasse offenlegen.
+5. Antrag oder Schreiben ausformulieren.
+   - Ergebnis ist eine Stufenklage, ein Auskunftsverlangen, ein Zahlungsantrag, ein Abänderungsantrag oder ein Vergleichsvorschlag mit konkretem Rechenweg.
+
+## Unterhalts-Anker
+
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft kann nicht pauschal mit behaupteter unbegrenzter Leistungsfähigkeit verweigert werden.
+- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Vertretung und Verfahrensbefugnis in Kindesunterhaltssachen getrennt lebender Eltern sind vor jedem Antrag live zu prüfen.
+- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs-, Einkommens- und Begrenzungsprüfung.
+- Paragrafen 1601, 1602, 1603, 1605, 1610, 1612a, 1612b, 1361, 1569, 1570 bis 1578b, 1580 BGB und Paragrafen 235, 243 FamFG bilden den Kernbestand.
+
+## Unterhalts-Stop
+
+Wenn aktuelle Tabelle, vollständige Belege, Steuerlast, Wohnvorteil, Selbstständigenunterlagen oder Betreuungsmodell fehlen, wird nicht gerechnet, sondern ein Auskunfts- und Belegplan erstellt. Jede Zahl braucht eine Aktenfundstelle oder den Hinweis, dass sie nur Platzhalter bis zur Belegprüfung ist.

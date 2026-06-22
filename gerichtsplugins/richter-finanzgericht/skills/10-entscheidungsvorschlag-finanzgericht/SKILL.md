@@ -73,3 +73,10 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 
 - **Davor**: `09-urteil-finanzgericht-und-revision` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Finanzgericht trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Finanzgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Gerichtsbescheid, Urteil, AdV-Beschluss oder Hinweisverfügung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 40, 69, 76, 96, 100 FGO und Paragrafen 164, 165, 173 AO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

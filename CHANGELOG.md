@@ -1,3 +1,11 @@
+# v377.0.0 — Gerichts-, Staatsanwaltschafts- und Familienrechtsprompts finalisiert
+
+- Gerichtsplugins, Staatsanwaltschaftsplugins und Relationstechnik um gerichtliche Arbeitsprodukte, Vorlagegrenzen, Relationspflichtfelder und konkrete Anschlussverfügungen geschärft.
+- Familiengericht und Fachanwalt Familienrecht im Unterhaltsbereich mit Rechenweg, Auskunftsstufe, Selbstständigen-Einkommen, Stufenklage, Mangelfall und Live-Prüfung der Düsseldorfer Tabelle nachgezogen.
+- Werkstatt-, Schnellstart- und Testakten-Downloads über ZIP-Bundles gehärtet; pluginlokale Testakten erhalten eigene Release-ZIPs.
+- Unterhalts-Testakten und Relationstechnik-Testakte nachgepflegt; Coverage-Dokumente für Gerichts- und Familienrecht ergänzt.
+- Repo-weiter Bump auf v377.0.0; Marketplace, Plugin-Manifeste, Übersichten und Prompt-Bundles aktualisiert.
+
 # v376.0.0 — Gerichtsplugins: Rechtsprechungsanker und Arbeitssprache nachgeschärft
 
 Fokussierter Abschlusslauf für die 15 Plugins im Sammelordner `gerichtsplugins/`.

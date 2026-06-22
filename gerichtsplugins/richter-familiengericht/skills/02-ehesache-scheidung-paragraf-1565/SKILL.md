@@ -34,42 +34,57 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- Paragrafen 1565, 1566 und 1567 BGB: Scheitern der Ehe, Trennungsjahr, unwiderlegliche Vermutung und Getrenntleben sind getrennt festzustellen.
-- Paragraf 137 FamFG: Verbundfolgesachen sind vor Scheidungstenor auf Rechtshängigkeit, Frist und Abtrennungsbedarf zu prüfen.
-- Paragraf 128 FamFG: Persönliche Anhörung der Ehegatten ist in der Scheidungssache der Regelfall.
-- Ständige Rechtsprechung zu Paragraf 1565 BGB: Scheitern ist aus Trennung, Wiederherstellungserwartung und Parteiverhalten konkret herzuleiten; konkrete Fundstelle vor produktiver Zitierung verifizieren.
-- Paragraf 150 FamFG: Kosten der Scheidung und Folgesachen sind eigenständig zu tenorieren.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Rechtliches Gehör verlangt, dass der entscheidungserhebliche Vortrag sichtbar zur Kenntnis genommen und in die Entscheidungsbildung einbezogen wird.
+- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: Der Scheidungsverbund darf Versorgungsausgleich und Folgesachen nicht mechanisch mitschleppen, sondern muss verfahrensökonomisch und teilhabegerecht gesteuert werden.
+- BGH, Beschluss vom 11.03.2026 - XII ZB 387/25: Trennungsunterhalt und Folgesachen müssen in ihrer prozessualen Eigenständigkeit sauber vom Scheidungsausspruch getrennt werden; die Entscheidung ist vor Verwendung live nachzuziehen.
+- Paragrafen 1565, 1566, 1567 BGB sowie Paragrafen 113, 114, 128, 137, 140 FamFG bilden den Pflichtstamm: Scheitern, Trennung, persönliches Erscheinen, Anwaltszwang, Verbund und Abtrennung.
 
 ## Prüfungsschema in Stufen
 
-1. Ehesache Scheidung Paragraf 1565: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
-2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
-3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
-4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
-5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
+1. Verfahrenslage fixieren.
+   - Aktenzeichen, Ehezeit, Zustellung des Scheidungsantrags, anwaltliche Vertretung und anhängige Folgesachen feststellen.
+2. Scheidungsvoraussetzungen prüfen.
+   - Trennungszeit, Trennungswille, häusliche Trennung innerhalb der Wohnung, Härtefallvortrag und Zustimmung oder Widerspruch gesondert auswerten.
+3. Verbund kontrollieren.
+   - Versorgungsausgleich, Unterhalt, Zugewinn, Ehewohnung und Kindschaftssachen darauf prüfen, ob sie entscheidungsreif, abzutrennen oder noch aufzuklären sind.
+4. Anhörung vorbereiten.
+   - Persönliches Erscheinen, Dolmetscherbedarf, Schutzbedarf und fehlende Urkunden durch gerichtliche Verfügung abarbeiten.
+5. Beschlussentwurf schreiben.
+   - Tenor, Gründe, Kosten, Verfahrenswert und Rechtsmittelbelehrung vollständig formulieren.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Trennungsdatum wird aus Parteivortrag übernommen, obwohl Kontoauszüge, Meldeunterlagen oder WhatsApp-Verläufe eine andere Trennungswirklichkeit zeigen.
+- Der Scheidungsausspruch wird vorbereitet, obwohl eine Folgesache im Verbund noch nicht entscheidungsreif ist und keine Abtrennung begründet wurde.
+- Persönliche Anhörung wird zu knapp protokolliert; später fehlt die belastbare Grundlage für Scheitern, Trennung oder Härteeinwand.
+- Rechtsmittelbelehrung und Verfahrenswert werden aus einem Muster übernommen, ohne Verbundgegenstände und anwaltliche Anträge abzugleichen.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Die am [Datum] vor dem Standesbeamten des Standesamts [Ort], Heiratsregister [Nummer], geschlossene Ehe der Beteiligten wird geschieden.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Der Versorgungsausgleich bleibt dem gesonderten Ausspruch nach Maßgabe der nachfolgenden Ziffern vorbehalten, weil die Auskünfte der Versorgungsträger [konkrete Lücke] noch nicht entscheidungsreif vorliegen.
 ```
+
+### Stop-Kriterium
+
+Wenn Trennungszeit, Verbundreife oder Verfahrensfähigkeit nicht belastbar feststehen, wird kein Scheidungsbeschluss entworfen. Dann ist eine gerichtliche Aufklärungsverfügung mit konkreter Urkunden- und Anhörungsagenda auszugeben.
 
 ## Benachbarte Skills
 
 - **Davor**: `01-zustaendigkeit-und-zuteilung-familiensache` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ehesache Scheidung Paragraf 1565 trägt.
 - **Danach**: `03-versorgungsausgleich-vorbereiten` - Folgeskill nutzen, sobald Ehesache Scheidung Paragraf 1565 entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern für Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau: Substantiierter Schriftsatzkern für Sche..."
+description: "Familienrechtlicher Skill zu Substantiierter Schriftsatzkern für Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
 ---
 
 # Substantiierter Schriftsatzkern für Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
@@ -20,8 +20,8 @@ description: "Substantiierter Schriftsatzkern für Scheidungsantrag, Unterhaltsk
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schriftsatzkern und Substantiierung im Familien-, Kindschafts- und Versorgungsausgleichsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG §§ 49 ff., 76, 86 ff., 112 ff.; VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, § 51 VersAusglG, § 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
+- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
+- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -62,7 +62,7 @@ Klassischer Antrag-Block; je nach Verfahrenstyp:
 
 ### C. Tatsachenvortrag
 
-Der Substantiierungs-Kern; pro Anspruchsgrundlage in §§ 1297 ff. BGB, FamFG, VersAusglG, UVG, GewSchG, IntFamRVG eine eigene Tatsachen-Sequenz:
+Der Substantiierungs-Kern; pro Anspruchsgrundlage in Paragrafen 1297 ff. BGB, FamFG, VersAusglG, UVG, GewSchG, IntFamRVG eine eigene Tatsachen-Sequenz:
 
 1. **Sachverhalts-Chronologie** mit konkreten Daten (Tag, Uhrzeit, Ort, Personen).
 2. **Mandantenseitige Tatsachenbehauptungen** mit Beweisangeboten.
@@ -73,7 +73,7 @@ Der Substantiierungs-Kern; pro Anspruchsgrundlage in §§ 1297 ff. BGB, FamFG, V
 
 Anspruchsaufbau klassisch:
 
-1. **Anspruchsgrundlage** nennen (z.B. § X iVm § Y).
+1. **Anspruchsgrundlage** nennen (z.B. Paragraf X iVm Paragraf Y).
 2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal wird gegen den Tatsachenvortrag gespiegelt.
 3. **Einwendungen** der Gegenseite vorwegnehmen und entkraeften.
 4. **Rechtsprechungs-Verweise:** BAG/BGH/BVerfG/EuGH/BFH je nach Fachgebiet; bei Familien-, Kindschafts- und Versorgungsausgleichsrecht typischerweise die letzte hoechstrichterliche Linie zitieren.
@@ -83,10 +83,10 @@ Anspruchsaufbau klassisch:
 
 Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
-- Urkundenbeweis: konkrete Anlage Kxx benennen, Inhalt nicht nur "Vertrag" sondern "Vertrag vom TT.MM.JJJJ, dort § X Abs. Y, Anlage K1".
+- Urkundenbeweis: konkrete Anlage Kxx benennen, Inhalt nicht nur "Vertrag" sondern "Vertrag vom TT.MM.JJJJ, dort Paragraf X Abs. Y, Anlage K1".
 - Zeugenbeweis: Name, ladungsfaehige Anschrift, Beweisthema in einem Satz.
 - Sachverstaendigenbeweis: ggf. Privatgutachten mit anfuegen, gerichtliches Gutachten beantragen.
-- Parteivernehmung als letzte Stufe, mit Antrag § 448 ZPO und Indiziengeruest.
+- Parteivernehmung als letzte Stufe, mit Antrag Paragraf 448 ZPO und Indiziengeruest.
 - Inaugenscheinnahme: bei Sache vor Ort (Mietraum, Baustelle, Fahrzeug, Hardware).
 
 ### F. Anlagenverzeichnis
@@ -101,7 +101,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 - **Pauschaltatsachen** ohne konkrete Daten ("seit Jahren", "regelmaessig", "in mehreren Faellen") werden vom Gericht uebergangen.
 - **Beweisangebot zur falschen Tatsache:** Beweisthema deckt nur Teilaussage ab.
 - **Selbst-widersprueche** zwischen Schriftsatz und Anlage ("Im Vertrag steht doch was anderes").
-- **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
+- **Verspaeteter Vortrag** Paragraf 296 ZPO/Paragraf 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
 - **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
 
 ## Prüfkette vor Versand
@@ -118,7 +118,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 ## Rechtsprechungs-Werkzeugkasten
 
 - BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Familien-, Kindschafts- und Versorgungsausgleichsrecht.
-- §§ 1297 ff. BGB, FamFG, VersAusglG, UVG, GewSchG, IntFamRVG sowie Verordnungen/Richtlinien dazu.
+- Paragrafen 1297 ff. BGB, FamFG, VersAusglG, UVG, GewSchG, IntFamRVG sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
 ## Pflicht-Output
@@ -131,7 +131,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Beispiel-Anspruchsgrundlagen im Familien-, Kindschafts- und Versorgungsausgleichsrecht
 
-Drei haeufig gebrauchte Anspruchsgrundlagen aus §§ 1297 ff. BGB, FamFG, VersAusglG, UVG, GewSchG, IntFamRVG und ihre Substantiierungs-Anforderungen:
+Drei haeufig gebrauchte Anspruchsgrundlagen aus Paragrafen 1297 ff. BGB, FamFG, VersAusglG, UVG, GewSchG, IntFamRVG und ihre Substantiierungs-Anforderungen:
 
 ### Grundlage 1
 
@@ -176,7 +176,7 @@ Typische Antraege in Familien-, Kindschafts- und Versorgungsausgleichsrecht (Sch
 - Privatgutachten als Anlage K vorlegen + zugleich gerichtliches Gutachten beantragen.
 - Verfahrensoekonomie: Sachverstaendigen-Kosten frueh mit Mandantin besprechen.
 
-### Parteivernehmung (§ 448 ZPO)
+### Parteivernehmung (Paragraf 448 ZPO)
 
 - Letzte Stufe, nur wenn andere Beweismittel ausgeschoepft.
 - Indiziengeruest vortragen, das eine gewisse Wahrscheinlichkeit der Behauptung tragt.

@@ -23,14 +23,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Routing-Heuristik Familienrecht
-- Scheidung mit Folgesachen → Verbundverfahren (§ 137 FamFG) prüfen; Trennungsjahr (§ 1566 BGB) klären.
-- Unterhalt → Düsseldorfer Tabelle (Stand prüfen), Mangelfall vs. Quotenanteil, Mindestunterhalt §§ 1612a, 1612b BGB.
-- Versorgungsausgleich → Auskunftsersuchen Versorgungsträger nach §§ 4, 5 VersAusglG; Bagatellgrenze § 18 VersAusglG.
-- Kindschaftssachen → § 156 FamFG Beratung/Vermittlung; Einigungszwang Sorge/Umgang nach Hinwirkungspflicht.
-- Gewaltschutz → §§ 1, 2 GewSchG, Eilantrag § 214 FamFG.
+- Scheidung mit Folgesachen → Verbundverfahren (Paragraf 137 FamFG) prüfen; Trennungsjahr (Paragraf 1566 BGB) klären.
+- Unterhalt → Düsseldorfer Tabelle (Stand prüfen), Mangelfall vs. Quotenanteil, Mindestunterhalt Paragrafen 1612a, 1612b BGB.
+- Versorgungsausgleich → Auskunftsersuchen Versorgungsträger nach Paragrafen 4, 5 VersAusglG; Bagatellgrenze Paragraf 18 VersAusglG.
+- Kindschaftssachen → Paragraf 156 FamFG Beratung/Vermittlung; Einigungszwang Sorge/Umgang nach Hinwirkungspflicht.
+- Gewaltschutz → Paragrafen 1, 2 GewSchG, Eilantrag Paragraf 214 FamFG.
 
 ## Praxis-Hinweis
-- In familiengerichtlichen Verfahren Anwaltszwang nach § 114 FamFG beachten (Ehesachen, Folgesachen). Selbstvertretung nur Ausnahme.
+- In familiengerichtlichen Verfahren Anwaltszwang nach Paragraf 114 FamFG beachten (Ehesachen, Folgesachen). Selbstvertretung nur Ausnahme.
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.

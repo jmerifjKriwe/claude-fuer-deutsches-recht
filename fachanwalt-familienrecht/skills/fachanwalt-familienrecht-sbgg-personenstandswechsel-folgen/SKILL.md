@@ -13,7 +13,7 @@ description: "Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswech
 4. Hat der Ehegatte/Lebenspartner von dem geplanten Wechsel Kenntnis? Besteht Konfliktpotenzial?
 5. Bestehen laufende Scheidungs- oder Unterhaltsverfahren, die durch den Personenstandswechsel beeinflusst werden könnten?
 6. Gibt es Versorgungsanrechte bei berufsständischen Versorgungswerken mit geschlechtsspezifischen Tabellen?
-7. Handelt es sich um einen Minderjährigen (ab 14 — Zustimmung Sorgeberechtigte § 2 SBGG; unter 14 — ausschließlich durch gesetzlichen Vertreter)?
+7. Handelt es sich um einen Minderjährigen (ab 14 — Zustimmung Sorgeberechtigte Paragraf 2 SBGG; unter 14 — ausschließlich durch gesetzlichen Vertreter)?
 8. Ist Mandatskonflikt möglich — vertritt Kanzlei auch den anderen Ehegatten?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -21,22 +21,22 @@ description: "Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswech
 
 | Norm | Inhalt |
 |------|--------|
-| § 1 SBGG | Recht auf Erklärung des Geschlechtseintrags beim Standesamt — ohne ärztliches Gutachten oder Gerichtsverfahren |
-| § 2 SBGG | Dreimonate-Vormerkungsfrist — Bedenkzeit vor endgültiger Erklärung |
-| § 3 SBGG | Vornamensänderung — gleichzeitig mit Geschlechtseintrag möglich |
-| § 4 SBGG | Eintragung im Geburtenregister |
-| § 5 SBGG | Wiederholung — erneuter Wechsel frühestens nach einem Jahr |
-| § 6 SBGG | Offenbarungsverbot — unbefugte Offenbarung des früheren Eintrags ist bußgeldbewehrt (bis EUR 10.000) |
-| § 10 SBGG | Auswirkung auf bestehende Rechtsverhältnisse — bestehende Rechte und Pflichten bleiben unberührt |
-| § 11 SBGG | Stellung als Mutter/Vater bleibt unverändert — Schutz bestehender Eltern-Kind-Verhältnisse |
-| § 14 SBGG | Bußgeldvorschriften bei Verletzung des Offenbarungsverbots bis EUR 10.000 |
-| § 1591 BGB | Mutterschaft — gebärende Person |
-| § 1592 BGB | Vaterschaft — Ehe / Anerkennung / Feststellung |
-| § 1626 BGB | Elterliche Sorge |
-| § 1684 BGB | Umgangsrecht |
-| § 1565 BGB | Scheitern der Ehe |
-| §§ 1–49 VersAusglG | Versorgungsausgleich |
-| § 42 PStG | Berichtigung von Personenstandsregistern |
+| Paragraf 1 SBGG | Recht auf Erklärung des Geschlechtseintrags beim Standesamt — ohne ärztliches Gutachten oder Gerichtsverfahren |
+| Paragraf 2 SBGG | Dreimonate-Vormerkungsfrist — Bedenkzeit vor endgültiger Erklärung |
+| Paragraf 3 SBGG | Vornamensänderung — gleichzeitig mit Geschlechtseintrag möglich |
+| Paragraf 4 SBGG | Eintragung im Geburtenregister |
+| Paragraf 5 SBGG | Wiederholung — erneuter Wechsel frühestens nach einem Jahr |
+| Paragraf 6 SBGG | Offenbarungsverbot — unbefugte Offenbarung des früheren Eintrags ist bußgeldbewehrt (bis EUR 10.000) |
+| Paragraf 10 SBGG | Auswirkung auf bestehende Rechtsverhältnisse — bestehende Rechte und Pflichten bleiben unberührt |
+| Paragraf 11 SBGG | Stellung als Mutter/Vater bleibt unverändert — Schutz bestehender Eltern-Kind-Verhältnisse |
+| Paragraf 14 SBGG | Bußgeldvorschriften bei Verletzung des Offenbarungsverbots bis EUR 10.000 |
+| Paragraf 1591 BGB | Mutterschaft — gebärende Person |
+| Paragraf 1592 BGB | Vaterschaft — Ehe / Anerkennung / Feststellung |
+| Paragraf 1626 BGB | Elterliche Sorge |
+| Paragraf 1684 BGB | Umgangsrecht |
+| Paragraf 1565 BGB | Scheitern der Ehe |
+| Paragrafen 1–49 VersAusglG | Versorgungsausgleich |
+| Paragraf 42 PStG | Berichtigung von Personenstandsregistern |
 
 ## Leitentscheidungen
 
@@ -53,14 +53,14 @@ description: "Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswech
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
-| 1 | Volljährigkeit des Antragstellers? | § 2 SBGG | Minderjährige ab 14: Zustimmung Sorgeberechtigte erforderlich |
-| 2 | Jahresfrist seit letztem Wechsel? | § 5 SBGG | Kein Wechsel innerhalb eines Jahres möglich |
-| 3 | Dreimonate-Vormerkungsfrist eingeplant? | § 2 SBGG | Zwischen Anmeldung und Erklärung mindestens 3 Monate |
-| 4 | Mandatskonflikt prüfen | § 43a BRAO | Kanzlei darf nicht beide Ehegatten vertreten |
+| 1 | Volljährigkeit des Antragstellers? | Paragraf 2 SBGG | Minderjährige ab 14: Zustimmung Sorgeberechtigte erforderlich |
+| 2 | Jahresfrist seit letztem Wechsel? | Paragraf 5 SBGG | Kein Wechsel innerhalb eines Jahres möglich |
+| 3 | Dreimonate-Vormerkungsfrist eingeplant? | Paragraf 2 SBGG | Zwischen Anmeldung und Erklärung mindestens 3 Monate |
+| 4 | Mandatskonflikt prüfen | Paragraf 43a BRAO | Kanzlei darf nicht beide Ehegatten vertreten |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 7 | Versorgungsausgleich beeinflusst? | §§ 1–49 VersAusglG | Anwartschaften berechnen; geschlechtsspezifische Tabellen Altverträge |
-| 8 | Offenbarungsverbot einhalten | § 6 SBGG | Kein Hinweis auf frühere Eintragung gegenüber Dritten |
-| 9 | Personalausweis, Reisepass, Versicherungen aktualisieren | § 4 SBGG | Ummeldungen nach Standesamtseintragung |
+| 7 | Versorgungsausgleich beeinflusst? | Paragrafen 1–49 VersAusglG | Anwartschaften berechnen; geschlechtsspezifische Tabellen Altverträge |
+| 8 | Offenbarungsverbot einhalten | Paragraf 6 SBGG | Kein Hinweis auf frühere Eintragung gegenüber Dritten |
+| 9 | Personalausweis, Reisepass, Versicherungen aktualisieren | Paragraf 4 SBGG | Ummeldungen nach Standesamtseintragung |
 
 ## Folgen für das Familienrecht im Detail
 
@@ -70,28 +70,28 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Praktische Konsequenzen:**
 - Kein automatischer Scheidungsgrund durch SBGG-Wechsel
-- Ehe kann auf Wunsch eines Ehegatten durch Scheidungsantrag § 1565 BGB beendet werden (Trennungsjahr beachten)
-- Einschlägig: Informationspflicht gegenüber Ehegatten aus § 1353 BGB-Treuepflicht
+- Ehe kann auf Wunsch eines Ehegatten durch Scheidungsantrag Paragraf 1565 BGB beendet werden (Trennungsjahr beachten)
+- Einschlägig: Informationspflicht gegenüber Ehegatten aus Paragraf 1353 BGB-Treuepflicht
 
 **Mögliche Konfliktfelder:**
 - Ehegatte möchte keine gleichgeschlechtliche Ehe führen → Scheidungsantrag ist einzige Option (kein Sonderrecht SBGG)
-- Mandatskollision wenn Kanzlei beide Ehegatten betreut (§ 43a BRAO)
+- Mandatskollision wenn Kanzlei beide Ehegatten betreut (Paragraf 43a BRAO)
 
 ### Folge 2 — Sorgerecht und Vater-/Mutter-Status
 
-**Schutzregel § 11 SBGG:** Die erbrechtliche und familienrechtliche Stellung als Mutter oder Vater bleibt vollständig unverändert.
+**Schutzregel Paragraf 11 SBGG:** Die erbrechtliche und familienrechtliche Stellung als Mutter oder Vater bleibt vollständig unverändert.
 
 | Konstellation | Rechtliche Folge |
 |--------------|----------------|
-| Person die geboren hat wechselt zu "männlich" | Bleibt rechtlich Mutter § 1591 BGB; neuer Personenstand = männlich |
-| Person die vorehelich anerkannte Vaterschaft wechselt zu "weiblich" | Bleibt rechtlich Vater § 1592 BGB |
+| Person die geboren hat wechselt zu "männlich" | Bleibt rechtlich Mutter Paragraf 1591 BGB; neuer Personenstand = männlich |
+| Person die vorehelich anerkannte Vaterschaft wechselt zu "weiblich" | Bleibt rechtlich Vater Paragraf 1592 BGB |
 | Gemeinsame elterliche Sorge | Unverändert; Sorgerechtstitel gilt weiter |
-| Spätere Geburt nach Wechsel | Neuer Personenstand gilt; Mutterschaft folgt § 1591 BGB (gebärende Person) |
+| Spätere Geburt nach Wechsel | Neuer Personenstand gilt; Mutterschaft folgt Paragraf 1591 BGB (gebärende Person) |
 
 **Umgangsrecht:**
-- Kein automatischer Einfluss auf Umgangsrecht § 1684 BGB
-- Bei konfliktträchtiger Reaktion des anderen Elternteils: Vermittlungsverfahren § 165 FamFG
-- Psychosoziale Begleitung der Kinder empfehlenswert bei jüngeren Kindern (Jugendamt § 17 SGB VIII)
+- Kein automatischer Einfluss auf Umgangsrecht Paragraf 1684 BGB
+- Bei konfliktträchtiger Reaktion des anderen Elternteils: Vermittlungsverfahren Paragraf 165 FamFG
+- Psychosoziale Begleitung der Kinder empfehlenswert bei jüngeren Kindern (Jugendamt Paragraf 17 SGB VIII)
 
 ### Folge 3 — Versorgungsausgleich
 
@@ -103,7 +103,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Altverträge mit geschlechtsspezifischen Tabellen: Versicherungsunternehmen anfragen ob Anpassung möglich
 
 **Versorgungsausgleich in der Scheidung:**
-- Stichtag = letzter Tag des Monats vor Rechtshängigkeit des Scheidungsantrags (§ 3 VersAusglG)
+- Stichtag = letzter Tag des Monats vor Rechtshängigkeit des Scheidungsantrags (Paragraf 3 VersAusglG)
 - Anwartschaften aus gesetzlicher RV, Beamtenversorgung, Versorgungswerken werden ausgeglichen
 - Personenstandswechsel ändert nichts an der Berechnung des Ausgleichswertes
 
@@ -129,16 +129,16 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Phase 1 — Beratung (vor Anmeldung)
 
-- Aufklärung über § 2 SBGG-Vormerkungsfrist (3 Monate Bedenkzeit)
+- Aufklärung über Paragraf 2 SBGG-Vormerkungsfrist (3 Monate Bedenkzeit)
 - Information Familienrechtsfolgen (Ehe, Sorgerecht, Unterhalt)
-- Mandatskollisions-Check (§ 43a BRAO)
-- Beratung Offenbarungsverbot § 6 SBGG (bis EUR 10.000 Bußgeld bei Verletzung)
+- Mandatskollisions-Check (Paragraf 43a BRAO)
+- Beratung Offenbarungsverbot Paragraf 6 SBGG (bis EUR 10.000 Bußgeld bei Verletzung)
 - Bei Minderjährigen: Sorgeberechtigte-Zustimmung organisieren
 
 ### Phase 2 — SBGG-Anmeldung
 
 1. Schriftliche oder persönliche Anmeldung beim zuständigen Standesamt (Geburtsstandesamt oder Wohnsitz)
-2. Dreimonatsfrist beginnt (Bedenkzeit § 2 Abs. 2 SBGG)
+2. Dreimonatsfrist beginnt (Bedenkzeit Paragraf 2 Abs. 2 SBGG)
 3. Keine Gutachten erforderlich; Selbsterklärung genügt
 
 ### Phase 3 — SBGG-Erklärung (nach 3 Monaten)
@@ -162,8 +162,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Phase 5 — Familienrechts-Folge-Maßnahmen
 
 - Bei laufenden Unterhaltsverfahren: Anpassung der Parteibezeichnung im Verfahren
-- Bei Sorgerechts-Konflikten: Vermittlungsverfahren § 165 FamFG oder Jugendamt § 17 SGB VIII
-- Bei Scheidungswunsch des anderen Ehegatten: Trennungsjahr § 1565 BGB abwarten (1 Jahr)
+- Bei Sorgerechts-Konflikten: Vermittlungsverfahren Paragraf 165 FamFG oder Jugendamt Paragraf 17 SGB VIII
+- Bei Scheidungswunsch des anderen Ehegatten: Trennungsjahr Paragraf 1565 BGB abwarten (1 Jahr)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -187,11 +187,11 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 An das Standesamt [Ort]
 
-Anmeldung nach § 2 SBGG — Geschlechtseintrag
+Anmeldung nach Paragraf 2 SBGG — Geschlechtseintrag
 
 Sehr geehrte Damen und Herren,
 
-hiermit melde ich gemäß § 2 Abs. 1 SBGG an, meinen
+hiermit melde ich gemäß Paragraf 2 Abs. 1 SBGG an, meinen
 Geschlechtseintrag im Geburtenregister zu ändern.
 
 Personalien:
@@ -204,12 +204,12 @@ Bisheriger Geschlechtseintrag: [männlich / weiblich / divers]
 Gewünschter Geschlechtseintrag: [männlich / weiblich / divers / ohne Eintrag]
 
 Bisherige Vornamen: [Vorname(n)]
-Gewünschte neue Vornamen (§ 3 SBGG): [neue Vornamen]
+Gewünschte neue Vornamen (Paragraf 3 SBGG): [neue Vornamen]
 
 Ich versichere, dass die Erklärung meiner inneren Identität
-entspricht (§ 2 Abs. 1 Satz 1 SBGG).
+entspricht (Paragraf 2 Abs. 1 Satz 1 SBGG).
 
-Diese Anmeldung wird als Vormerkung gemäß § 2 Abs. 2 SBGG
+Diese Anmeldung wird als Vormerkung gemäß Paragraf 2 Abs. 2 SBGG
 geführt. Die endgültige Erklärung erfolgt frühestens nach
 Ablauf von drei Monaten.
 
@@ -221,7 +221,7 @@ Mit freundlichen Grüßen
 Anlage: Personalausweis / Reisepass
 ```
 
-### Mitteilung an Ehegatten (Treuepflicht § 1353 BGB)
+### Mitteilung an Ehegatten (Treuepflicht Paragraf 1353 BGB)
 
 ```
 [Datum]
@@ -231,7 +231,7 @@ Liebe/r [Name Ehegatte],
 ich teile dir mit, dass ich meinen Geschlechtseintrag nach
 dem Selbstbestimmungsgesetz (SBGG) ändern werde.
 
-Der Personenstandswechsel hat nach § 11 SBGG keine Auswirkung
+Der Personenstandswechsel hat nach Paragraf 11 SBGG keine Auswirkung
 auf unsere Ehe oder die gemeinsame elterliche Sorge für
 [Kindernamen].
 
@@ -241,24 +241,24 @@ und schlage ein Gespräch vor, ggf. mit anwaltlicher Begleitung.
 [Unterschrift]
 ```
 
-### Antrag Vermittlungsverfahren bei Sorgerechts-Konflikt nach SBGG § 165 FamFG
+### Antrag Vermittlungsverfahren bei Sorgerechts-Konflikt nach SBGG Paragraf 165 FamFG
 
 ```
 Amtsgericht [Ort] — Familiengericht —
 
-Antrag auf Vermittlungsverfahren nach § 165 FamFG
+Antrag auf Vermittlungsverfahren nach Paragraf 165 FamFG
 
 In der Familiensache
 [Name 1] ./. [Name 2]
 
-beantragen wir ein Vermittlungsverfahren nach § 165 FamFG.
+beantragen wir ein Vermittlungsverfahren nach Paragraf 165 FamFG.
 
 Seit dem Personenstandswechsel der Antragstellerin nach SBGG
 (Geschlechtseintrag geändert am [Datum]) verweigert der
 Antragsgegner die Durchführung der vereinbarten Umgangstermine
 für das Kind [Name], geb. [Datum].
 
-Nach § 11 SBGG hat der Personenstandswechsel keine Auswirkung
+Nach Paragraf 11 SBGG hat der Personenstandswechsel keine Auswirkung
 auf die Sorge- und Umgangsrechte. Wir bitten um Anberaumung
 eines Vermittlungstermins innerhalb eines Monats.
 ```
@@ -276,23 +276,23 @@ eines Vermittlungstermins innerhalb eines Monats.
 | Antragsteller | Identität und Personenstand | Personalausweis, Geburtsurkunde |
 | Antragsteller (Minderjähriger) | Zustimmung Sorgeberechtigte | Schriftliche Zustimmungserklärung |
 | Standesamt | Ordnungsgemäße Anmeldung | Eingangsstempel, Registereintrag |
-| Gegner (Sorgerechtsstreit) | Nachteil für Kindeswohl durch SBGG | Sachverständigengutachten; § 11 SBGG spricht gegen Veränderung |
+| Gegner (Sorgerechtsstreit) | Nachteil für Kindeswohl durch SBGG | Sachverständigengutachten; Paragraf 11 SBGG spricht gegen Veränderung |
 
 ## Fristen
 
 | Frist | Auslöser | Dauer | Folge |
 |-------|---------|-------|-------|
-| Dreimonate-Vormerkungsfrist § 2 Abs. 2 SBGG | Anmeldung beim Standesamt | 3 Monate Mindest-Wartezeit | Kein früherer Abschluss möglich |
-| Wiederholungsfrist § 5 SBGG | Vorangegangener Wechsel | 1 Jahr | Neuer Wechsel erst nach 1 Jahr |
-| Trennungsjahr § 1565 Abs. 2 BGB | Bei Scheidungswunsch Ehegatte | 1 Jahr | Scheidungsantrag erst danach möglich |
-| Sorgerechtsantrag bei Konflikt | Umgangsverweigerung | Unverzüglich | Vermittlungsverfahren § 165 FamFG |
+| Dreimonate-Vormerkungsfrist Paragraf 2 Abs. 2 SBGG | Anmeldung beim Standesamt | 3 Monate Mindest-Wartezeit | Kein früherer Abschluss möglich |
+| Wiederholungsfrist Paragraf 5 SBGG | Vorangegangener Wechsel | 1 Jahr | Neuer Wechsel erst nach 1 Jahr |
+| Trennungsjahr Paragraf 1565 Abs. 2 BGB | Bei Scheidungswunsch Ehegatte | 1 Jahr | Scheidungsantrag erst danach möglich |
+| Sorgerechtsantrag bei Konflikt | Umgangsverweigerung | Unverzüglich | Vermittlungsverfahren Paragraf 165 FamFG |
 
 ## Gegenargumente und Reaktion
 
 | Gegenargument Behörde / Ehegatte | Reaktion |
 |----------------------------------|---------|
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| "Offenbarungsverbot verhindert Behördentransparenz" | § 6 SBGG gilt nur für unbefugte Offenbarung; Behörden mit Sachgrund dürfen zugreifen |
+| "Offenbarungsverbot verhindert Behördentransparenz" | Paragraf 6 SBGG gilt nur für unbefugte Offenbarung; Behörden mit Sachgrund dürfen zugreifen |
 | "Minderjähriger muss Gutachten beibringen" | SBGG: kein Gutachten erforderlich; Zustimmung Sorgeberechtigte genügt |
 
 ## Streitwert und Kosten
@@ -302,7 +302,7 @@ eines Vermittlungstermins innerhalb eines Monats.
 - Neue Personaldokumente: ca. EUR 37 (Personalausweis) + EUR 60–100 (Reisepass)
 
 **Familiengerichtliches Verfahren bei SBGG-Folgestreit:**
-- Sorgerechtsverfahren: Verfahrenswert EUR 3.000–4.000 (§ 45 FamGKG)
+- Sorgerechtsverfahren: Verfahrenswert EUR 3.000–4.000 (Paragraf 45 FamGKG)
 - Umgangsverfahren: Verfahrenswert EUR 3.000–4.000
 - RA-Gebühren: ca. EUR 1.200–2.500 je Partei
 
@@ -310,10 +310,10 @@ eines Vermittlungstermins innerhalb eines Monats.
 
 | Strategie | Empfehlung | Begründung |
 |-----------|-----------|------------|
-| Vorab-Information Ehegatte | Persönliche Mitteilung vor Anmeldung | Vermeidung unerwarteter Konflikte; Treuepflicht § 1353 BGB |
+| Vorab-Information Ehegatte | Persönliche Mitteilung vor Anmeldung | Vermeidung unerwarteter Konflikte; Treuepflicht Paragraf 1353 BGB |
 | Kinder-Begleitung | Jugendamt und Kinderpsychologin einbeziehen | Kindeswohl; insbes. bei jungen Kindern |
-| Mandatskollision prüfen | Vertreter des anderen Ehegatten ablehnen | § 43a BRAO; bei Scheidungsfolgen-Streit unausweichlich |
-| Offenbarungsverbot beachten | Kanzlei-intern briefen | § 14 SBGG: bis EUR 10.000 Bußgeld |
+| Mandatskollision prüfen | Vertreter des anderen Ehegatten ablehnen | Paragraf 43a BRAO; bei Scheidungsfolgen-Streit unausweichlich |
+| Offenbarungsverbot beachten | Kanzlei-intern briefen | Paragraf 14 SBGG: bis EUR 10.000 Bußgeld |
 | Verwaltungsmaßnahmen bündeln | Alle Ummeldungen koordiniert nach Eintragung | Verhindert Inkonsistenzen in Dokumenten |
 
 ## Anschluss-Skills
@@ -325,8 +325,8 @@ eines Vermittlungstermins innerhalb eines Monats.
 
 ## Quellen
 
-- SBGG (Selbstbestimmungsgesetz) §§ 1–14, in Kraft 01.11.2024
-- BGB §§ 1353, 1565, 1591, 1592, 1626, 1684
-- VersAusglG §§ 1–49
+- SBGG (Selbstbestimmungsgesetz) Paragrafen 1–14, in Kraft 01.11.2024
+- BGB Paragrafen 1353, 1565, 1591, 1592, 1626, 1684
+- VersAusglG Paragrafen 1–49
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Stand: 05/2026; weitere SBGG-Rechtsprechung im Entstehen — bei BGH-Linie aktualisieren

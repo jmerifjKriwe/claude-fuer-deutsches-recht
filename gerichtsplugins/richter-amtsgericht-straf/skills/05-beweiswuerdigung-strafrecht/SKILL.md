@@ -72,3 +72,10 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 - **Davor**: `04-beweisaufnahme-und-beweisantraege` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweiswürdigung Strafrecht trägt.
 - **Danach**: `06-strafzumessung-paragraf-46-stgb` - Folgeskill nutzen, sobald Beweiswürdigung Strafrecht entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Amtsgericht Strafsachen. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsbeschluss, Strafbefehl, Sitzungsverfügung oder Urteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 24, 25, 28 GVG sowie Paragrafen 199, 203, 244, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

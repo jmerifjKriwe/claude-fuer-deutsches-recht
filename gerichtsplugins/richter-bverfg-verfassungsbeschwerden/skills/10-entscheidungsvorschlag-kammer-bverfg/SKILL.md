@@ -73,3 +73,10 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 
 - **Davor**: `09-nichtannahmebeschluss-entwurf` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Kammer BVerfG trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Bundesverfassungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervermerk, Nichtannahmebeschluss, Annahmevotum oder Senatsvorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 23, 90, 92, 93a, 93b, 93c BVerfGG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

@@ -73,3 +73,30 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 - **Davor**: `17-tatbestand-schreiben` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsgründe Aufbauen trägt.
 - **Danach**: `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit` - Folgeskill nutzen, sobald Entscheidungsgründe Aufbauen entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Relations-Pflichtfelder
+
+Dieser Skill arbeitet in der Station **Entscheidungsstation**. Er erzeugt kein abstraktes Gutachten, sondern einen verwertbaren Relationsbaustein zu: Tenor, Tatbestand, Entscheidungsgründe, Kosten und vorläufige Vollstreckbarkeit.
+
+1. Aktenfundstelle sichern.
+   - Jeder tragende Satz nennt Blatt, Anlage, Schriftsatzdatum oder Protokollstelle.
+2. Vortrag trennen.
+   - Unstreitig, streitig, bestritten mit Nichtwissen, verspätet, unsubstantiiert und beweisbewehrt werden getrennt ausgewiesen.
+3. Norm und Tatbestand koppeln.
+   - Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO für Schadensschätzung, Paragraf 296 ZPO für Verspätung und Paragraf 313 ZPO für Urteilsaufbau werden sichtbar abgearbeitet.
+4. Arbeitsprodukt formulieren.
+   - Ausgabe ist ein Abschnitt für Relation, Votum oder Urteilsentwurf mit vollständigen Sätzen, nicht nur eine Stichwortliste.
+5. Anschlussentscheidung treffen.
+   - Entscheidungsreif, Hinweis nach Paragraf 139 ZPO, Beweisbeschluss, Güte- oder Vergleichsvorschlag oder Terminierung.
+
+## Zivilprozessuale Anker
+
+- BGH, Urteil vom 13.07.2004 - VI ZR 136/03: Freie Beweiswürdigung nach Paragraf 286 ZPO verlangt eine umfassende, widerspruchsfreie Würdigung des Prozessstoffs.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12: Materiell-rechtliche Kostenerstattungsansprüche können nach erledigtem Klageanlass eigenständig verfolgt werden; der prozessuale Kostenweg ist nicht immer gleichwertig.
+- Paragrafen 253, 256, 263, 264, 269, 286, 287, 296, 313 ZPO bilden den Pflichtstamm für Antrag, Feststellung, Klageänderung, Rücknahme, Beweiswürdigung, Schätzung, Präklusion und Urteilsaufbau.
+
+## Skelett für den Relationsbaustein
+
+```text
+Entscheidungsstation: Nach dem derzeitigen Aktenstand ist [Tatsache] unstreitig, weil [Fundstelle]. Streitig bleibt [Tatsache]. Beweisbelastet ist [Partei], da [Norm/Anspruchsmerkmal]. Das angebotene Beweismittel [Beweismittel] ist erheblich, weil die Tatsache bei Wahrunterstellung zu [Rechtsfolge] führt. Anschluss: [Hinweis/Beweisbeschluss/Entscheidung].
+```

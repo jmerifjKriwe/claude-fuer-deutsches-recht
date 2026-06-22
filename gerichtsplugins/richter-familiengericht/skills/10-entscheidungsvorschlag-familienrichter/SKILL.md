@@ -34,42 +34,53 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- Paragrafen 26, 38, 39, 81 und 84 FamFG: Entscheidungsvorschlag muss Amtsermittlung, Beschlussformel, Bekanntgabe, Kosten und Rechtsmittel geschlossen abbilden.
-- Paragrafen 158 und 159 FamFG: Bei Kindschaftssachen sind Verfahrensbeistand und Kindesanhörung im Vorschlag ausdrücklich abzuhaken.
-- Paragraf 137 FamFG: Scheidungsverbund und Folgesachen sind vor Endentscheidung auf Abtrennung oder Entscheidungsreife zu prüfen.
-- BVerfG, Beschluss vom 22.05.2014 - 1 BvR 2882/13, frei nachweisbar über bundesverfassungsgericht.de und dejure: Familiengerichtliche Sachverhaltsaufklärung muss am konkreten Kind und am Eingriff in Art. 6 GG ausgerichtet sein.
-- Ständige Rechtsprechung zu FamFG-Endentscheidungen: Der Vorschlag darf keine offen gebliebenen Anhörungen, Auskünfte oder Sachverständigenfragen überspringen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Ein Entscheidungsvorschlag muss den entscheidungserheblichen Vortrag sichtbar aufnehmen, sonst droht ein Gehörsfehler.
+- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: In Verbundsachen muss der Entscheidungsvorschlag die einzelnen Gegenstände getrennt und teilhabegerecht behandeln.
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft, Beleglage und Leistungsfähigkeit dürfen im Unterhaltsvotum nicht durch pauschale Annahmen ersetzt werden.
+- Paragrafen 26, 38, 39, 113 FamFG sowie Paragrafen 286, 313 ZPO über Paragraf 113 FamFG bilden den Pflichtstamm: Amtsermittlung, Beschluss, Begründung, ZPO-Verweisung, Beweiswürdigung und Entscheidungsaufbau.
 
 ## Prüfungsschema in Stufen
 
-1. Entscheidungsvorschlag Familienrichter: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
-2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
-3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
-4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
-5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
+1. Aktenfrage festlegen.
+   - Scheidung, Versorgungsausgleich, Kindschaft, Unterhalt, Gewaltschutz, Ehewohnung oder Kostenfrage als eigene Entscheidungsstation behandeln.
+2. Entscheidungsreife prüfen.
+   - Anhörung, Auskunft, Belege, Jugendamt, Versorgungsträger, Gutachten und rechtliches Gehör abhaken.
+3. Streitstoff verdichten.
+   - Unstreitiges, streitiges Vorbringen, Beweisangebote und fehlende Tatsachen in Entscheidungsalternativen ordnen.
+4. Tenorvarianten entwerfen.
+   - Haupttenor, Hilfstenor, einstweilige Regelung, Auflage, Ordnungsmittel, Kosten und Rechtsmittelbelehrung ausformulieren.
+5. Vorlageentscheidung treffen.
+   - Bei Grundrechtseingriff, ungeklärter Kindeswohlgefahr, unvollständigem Versorgungsausgleich oder erheblichem Rechenstreit nicht final entscheiden, sondern Hinweis- oder Aufklärungsverfügung vorschlagen.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Das Votum beantwortet die Rechtsfrage, aber nicht die konkrete Aktenfrage des Dezernats.
+- Zahlen im Unterhalt oder Versorgungsausgleich werden nicht mit Anlagenfundstelle und Rechenschritt belegt.
+- Der Entscheidungsvorschlag enthält keine echte Alternative für den Fall, dass das Gericht Beweis erhebt oder einen Hinweis erteilt.
+- Verfahrensrechtliche Vorfragen wie Zuständigkeit, Anwaltszwang oder Beteiligtenfähigkeit werden übergangen.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Entscheidungsvorschlag: Der Antrag ist derzeit nicht entscheidungsreif. Das Gericht sollte den Beteiligten nach Paragraf 139 ZPO in Verbindung mit Paragraf 113 FamFG und nach Paragraf 26 FamFG Gelegenheit geben, zu [konkreter Lücke] bis zum [Datum] vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Entscheidungsvorschlag: Der Antrag ist nach dem derzeitigen Sach- und Streitstand begründet, weil [Tatsachenkern] feststeht und die gesetzlichen Voraussetzungen von [Normen] erfüllt sind.
 ```
 
 ## Benachbarte Skills
 
 - **Davor**: `09-beschluss-familiensache-paragraf-38-famfg` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Familienrichter trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

@@ -82,9 +82,9 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `staatsanwaltschaft-amtsanwaltscha
   - Paragraf 142 GVG
   - Paragraf 160 Abs. 2 StPO
   - Paragrafen 406i bis 406k StPO
+  - Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO
+  - Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG
   - Paragraf 170 Abs. 2 StPO
-  - Paragrafen 407 bis 408a StPO
-  - Paragraf 407 Abs. 2 StPO
 
 ## Leitentscheidungen
 

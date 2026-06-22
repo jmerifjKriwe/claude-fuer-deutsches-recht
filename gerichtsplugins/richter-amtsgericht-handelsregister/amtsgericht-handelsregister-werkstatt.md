@@ -84,7 +84,7 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `richter-amtsgericht-handelsregist
   - Paragraf 14 HGB, Paragrafen 388 ff. FamFG
   - Paragrafen 382 ff. FamFG
   - Paragraf 353b StGB
-  - Paragraf 3 GmbHG
+  - Paragrafen 8, 12, 16 HGB, Paragrafen 382 ff. FamFG und Paragrafen 40, 78 GmbHG
 
 ## Leitentscheidungen
 

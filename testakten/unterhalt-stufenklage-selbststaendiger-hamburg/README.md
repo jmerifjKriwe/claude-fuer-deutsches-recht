@@ -24,6 +24,10 @@ Lene Harms lebt seit Januar 2026 mit den Kindern Tilda (14) und Bent (8) getrenn
 
 Die Akte ist auf Auskunft, vorläufigen Unterhalt und Stufenklage angelegt. Die Einkommensunterlagen sind widersprüchlich und unvollständig; der Rechner enthält nur eine Schätzung. Das System soll erkennen, welche Auskünfte und Belege fehlen, wie der Auskunftsanspruch aufzubauen ist und welche Beträge vorläufig verlangt werden können.
 
+## Live-Verifikation der Rechengrundlagen
+
+Die Akte ist bewusst auskunfts- und lückengetrieben. Vor einer Bezifferung sind aktuelle Düsseldorfer Tabelle, Selbstbehalte, steuerliche Grundlagen, Drei-Jahres-Durchschnitt, BWA-Plausibilität, Privatentnahmen und die Leitlinien des zuständigen Oberlandesgerichts live zu prüfen.
+
 ## Aktenstücke
 
 | Nr. | Datei | Inhalt |

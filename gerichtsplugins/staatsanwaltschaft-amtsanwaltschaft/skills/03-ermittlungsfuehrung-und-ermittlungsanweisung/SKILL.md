@@ -71,3 +71,11 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 - **Davor**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ermittlungsfuehrung und Ermittlungsanweisung trägt.
 - **Danach**: `04-durchsuchung-und-beschlagnahme-antrag` - Folgeskill nutzen, sobald Ermittlungsfuehrung und Ermittlungsanweisung entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Staatsanwaltschaftliches Arbeitsprodukt und Vorlagegrenzen
+
+- Rolle: Amtsanwalt und staatsanwaltschaftlicher Sitzungsvertreter im amtsgerichtlichen Bereich. Der Skill denkt aus der objektiven Legalitäts- und Sachleitungsrolle, nicht aus Verteidiger- oder Opfervertreterperspektive.
+- Pflichtstamm: Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO; bei Ordnungswidrigkeiten Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG.
+- Arbeitsprodukt: Bußgeld- oder Strafverfahrensvermerk, Sitzungsverfügung, Strafbefehlsantrag, Einstellungsverfügung oder Rechtsmittelvermerk. Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand, Verfügung, Frist und nächste Kontrolle.
+- Beweis- und Eingriffsdisziplin: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft, Vermögensarrest, Presseauskunft und Verfahrensabgabe werden nur mit Richtervorbehalt, Zuständigkeit und Verhältnismäßigkeit als eigener Prüfzeile behandelt.
+- Stop-Kriterium: Bei Aktengeheimnis, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.

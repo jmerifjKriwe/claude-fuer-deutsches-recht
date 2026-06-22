@@ -19,7 +19,7 @@ Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **fachanwalt-fami
 
 ## Fachliche Anker
 
-- BGB §§ 1297 ff., 1353 ff., 1564 ff., 1601 ff., 1626 ff.; FamFG; VersAusglG; GewSchG bei Schutzsachen.
+- BGB Paragrafen 1297 ff., 1353 ff., 1564 ff., 1601 ff., 1626 ff.; FamFG; VersAusglG; GewSchG bei Schutzsachen.
 - Eilbedürftigkeit, Kindeswohl, Unterhalt, Vermögen, Sorge/Umgang, Versorgungsausgleich und Vollstreckung getrennt strukturieren.
 - Belege: Einkommen, Betreuung, Kommunikation, Vermögen, Rentenanwartschaften und gerichtliche Fristen mit Datum erfassen.
 
@@ -35,8 +35,8 @@ Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **fachanwalt-fami
 
 ## Besonderheiten Familienrechts-Mandate
 - Hochkonfliktfälle: Trennungsschmerz, gewachsene Vorwürfe, Kinder als emotionaler Hebel. Klare Rolle als Rechtsbeistand, nicht Psycholog/Mediator.
-- Mandatskonflikt: bei gemeinsamer Beratung beider Ehegatten Vorsicht; § 43a Abs. 4 BRAO. Im Zweifel nur einen Ehegatten vertreten.
-- Datenschutz: bei Kindern besondere Sensibilität; Schweigepflicht gegenüber Familienangehörigen (§ 43a Abs. 2 BRAO).
-- Kostenstruktur: Mandant über Kosten klar informieren. RVG-Werte: Scheidung Verfahrenswert nach § 43 FamGKG (3-fach Nettoeinkommen); Folgesachen separate Werte.
-- Verfahrenskostenhilfe (§§ 76 ff. FamFG iVm § 114 ZPO) prüfen.
+- Mandatskonflikt: bei gemeinsamer Beratung beider Ehegatten Vorsicht; Paragraf 43a Abs. 4 BRAO. Im Zweifel nur einen Ehegatten vertreten.
+- Datenschutz: bei Kindern besondere Sensibilität; Schweigepflicht gegenüber Familienangehörigen (Paragraf 43a Abs. 2 BRAO).
+- Kostenstruktur: Mandant über Kosten klar informieren. RVG-Werte: Scheidung Verfahrenswert nach Paragraf 43 FamGKG (3-fach Nettoeinkommen); Folgesachen separate Werte.
+- Verfahrenskostenhilfe (Paragrafen 76 ff. FamFG iVm Paragraf 114 ZPO) prüfen.
 - Schlüsselthema im Schreiben: Frist, Empfehlung, nächste Schritte. Keine endgültige Wertung vor Beweisaufnahme.

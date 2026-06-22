@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich
-description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen: Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung),..."
+description: "Familienrechtlicher Skill zu Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
 ---
 
 # Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen
@@ -14,14 +14,14 @@ description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (externe Teilung), § 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen.
+**Fokus:** Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), Paragrafen 1 und 10 VersAusglG (Hin- und Herrechnung), Paragraf 17 VersAusglG (externe Teilung), Paragraf 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen.
 
 ### Versorgungsausgleich
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Versorgungsausgleich` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG §§ 49 ff., 76, 86 ff., 112 ff.; VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, § 51 VersAusglG, § 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
+- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
+- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -44,11 +44,11 @@ description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanre
 
 - **VersAusglG 2009** (Versorgungsausgleichsgesetz seit 1.9.2009)
 - Vorher: Splitting / Quasi-Splitting -> heute Halbteilung
-- **§ 1 VersAusglG**: Pflicht zur Halbteilung
-- **§ 6 VersAusglG**: Vertragliche Modifikationen (Ehevertrag)
-- **§ 27 VersAusglG**: Härteklausel
+- **Paragraf 1 VersAusglG**: Pflicht zur Halbteilung
+- **Paragraf 6 VersAusglG**: Vertragliche Modifikationen (Ehevertrag)
+- **Paragraf 27 VersAusglG**: Härteklausel
 
-## 3) Ehezeit-Begriff § 3 VersAusglG
+## 3) Ehezeit-Begriff Paragraf 3 VersAusglG
 
 - **Beginn**: 1. des Monats der Eheschliessung
 - **Ende**: letzter Tag des Monats der Rechtshaengigkeit Scheidung
@@ -80,13 +80,13 @@ description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanre
 
 ## 5) Interne vs. externe Teilung
 
-### Interne Teilung § 10 VersAusglG
+### Interne Teilung Paragraf 10 VersAusglG
 
 - Im selben Versorgungs-System
 - Ausgleichs-Berechtigter erhaelt eigenen Anspruch
 - Standardform
 
-### Externe Teilung § 14 VersAusglG
+### Externe Teilung Paragraf 14 VersAusglG
 
 - Bei kleinem Wert (< 84 EUR/Monat Rente, Stand 2024)
 - Auf Antrag des Versorgungs-Trägers
@@ -107,13 +107,13 @@ description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanre
 
 ## 7) Verzicht / Modifikation
 
-### Ehevertrag § 6 VersAusglG
+### Ehevertrag Paragraf 6 VersAusglG
 
 - Notarielle Form
-- Kontrolle § 138 BGB (Sittenwidrigkeit)
+- Kontrolle Paragraf 138 BGB (Sittenwidrigkeit)
 - BGH-Linie zur Wirksamkeitsprüfung bei Inkompetenz / Druck
 
-### Härteklausel § 27 VersAusglG
+### Härteklausel Paragraf 27 VersAusglG
 
 - Grobe Unbilligkeit bei kurzer Ehe (< 3 Jahre)
 - Bei wesentlicher Wert-Disproportion
@@ -147,7 +147,7 @@ description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanre
 
 ### Bei vermeintlich kurzem Ehe-Verlauf
 
-- Prüfen ob VA-Ausschluss durch § 27 sinnvoll
+- Prüfen ob VA-Ausschluss durch Paragraf 27 sinnvoll
 - Bei höheren Anrechten: VA-Ausschluss bringt Verlust
 
 ### Bei selbstständigem Mandanten
@@ -165,8 +165,8 @@ description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanre
 1. **Versorgungs-Auskunft übersehen** -> falsche Berechnung
 2. **Ehezeit falsch berechnet** -> Falschberechnung
 3. **Interne vs. externe Teilung nicht optimiert** -> wirtschaftlicher Verlust
-4. **Härte-Antrag § 27 versäumt** -> ungewollte Aufteilung
-5. **Ehevertrag-Prüfung übersprungen** -> § 138 BGB-Streit später
+4. **Härte-Antrag Paragraf 27 versäumt** -> ungewollte Aufteilung
+5. **Ehevertrag-Prüfung übersprungen** -> Paragraf 138 BGB-Streit später
 
 ## 11) BGH-Linien
 
@@ -182,7 +182,7 @@ description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanre
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC
 Kindesunterhalt und Immobilienfinanzierung (Tilgungsraten bis Wohnwert berücksichtigbar,
-§ 1603 Abs. 2 BGB) – nicht den Mehrwert-Faktor im Versorgungsausgleich.
+Paragraf 1603 Abs. 2 BGB) – nicht den Mehrwert-Faktor im Versorgungsausgleich.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Maßnahme: Zeile aus BGH-Linien (Abschnitt 11) gelöscht.
 -->

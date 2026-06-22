@@ -1,6 +1,6 @@
 ---
 name: orientierung-mandat-fachanwaltschaft
-description: "Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblicken: Normen:..."
+description: "Familienrechtlicher Skill zu Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblicken: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
 ---
 
 # Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblicken
@@ -8,7 +8,7 @@ description: "Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzunge
 
 ## Arbeitsbereich
 
-Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in die tragende Prüfungslinie. Im Mittelpunkt stehen Kindeswohlgefährdung nach § 1666 BGB, Familienmediation nach § 156 FamFG und Cochemer Praxis, der Scheidungsantrag (§§ 1564 ff. BGB, § 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüfungslinien bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in die tragende Prüfungslinie. Im Mittelpunkt stehen Kindeswohlgefährdung nach Paragraf 1666 BGB, Familienmediation nach Paragraf 156 FamFG und Cochemer Praxis, der Scheidungsantrag (Paragrafen 1564 ff. BGB, Paragraf 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüfungslinien bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 
 ## Arbeitsweg
 
@@ -18,14 +18,14 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Fachmodule.
+**Fokus:** Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblicken. Normen: FamFG (Beschluss statt Urteil, Verbund Paragraf 137 FamFG), Paragrafen 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Fachmodule.
 
 ### Fachanwalt für Familienrecht — Orientierung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Familienrecht — Orientierung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG §§ 49 ff., 76, 86 ff., 112 ff.; VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, § 51 VersAusglG, § 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
+- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
+- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -47,22 +47,22 @@ Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen z
 
 Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org, openjur.de verifizieren.
 
-## FAO-Voraussetzungen (§ 5 Abs. 1 FAO)
+## FAO-Voraussetzungen (Paragraf 5 Abs. 1 FAO)
 
-- **Theoretischer Lehrgang** 120 Stunden (§ 4 FAO).
-- **Drei Klausuren** zum Familienrecht (§ 4a FAO).
-- **120 Fälle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Fälle (§ 5 FAO).
+- **Theoretischer Lehrgang** 120 Stunden (Paragraf 4 FAO).
+- **Drei Klausuren** zum Familienrecht (Paragraf 4a FAO).
+- **120 Fälle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Fälle (Paragraf 5 FAO).
 - **Anmeldung** bei der Rechtsanwaltskammer.
 
 ## Wichtige Normen
 
 | Bereich | Norm |
 |---|---|
-| BGB Familienrecht | §§ 1297 ff. BGB (Ehe Scheidung) §§ 1601 ff. BGB (Unterhalt) §§ 1626 ff. BGB (Elterliche Sorge) §§ 1684 ff. BGB (Umgangsrecht) §§ 1740 ff. BGB (Adoption) §§ 1773 ff. BGB (Vormundschaft) |
-| Verfahrensrecht | FamFG §§ 111 ff. (Familiensachen) § 137 FamFG (Scheidungsverbund) §§ 151 ff. FamFG (Kindschaftssachen) |
+| BGB Familienrecht | Paragrafen 1297 ff. BGB (Ehe Scheidung) Paragrafen 1601 ff. BGB (Unterhalt) Paragrafen 1626 ff. BGB (Elterliche Sorge) Paragrafen 1684 ff. BGB (Umgangsrecht) Paragrafen 1740 ff. BGB (Adoption) Paragrafen 1773 ff. BGB (Vormundschaft) |
+| Verfahrensrecht | FamFG Paragrafen 111 ff. (Familiensachen) Paragraf 137 FamFG (Scheidungsverbund) Paragrafen 151 ff. FamFG (Kindschaftssachen) |
 | Versorgungsausgleich | VersAusglG |
 | Lebenspartnerschaft | LPartG |
-| Gerichtsverfassung | § 23a GVG (Familiengericht beim AG) § 23b GVG |
+| Gerichtsverfassung | Paragraf 23a GVG (Familiengericht beim AG) Paragraf 23b GVG |
 | EU- und Völkerrecht | Brüssel IIb-VO (EU) 2019/1111 |
 
 ## Typische Mandate
@@ -78,16 +78,16 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 
 ## Wichtige Fristen
 
-- **Beschwerde** § 63 FamFG — ein Monat.
-- **Sofortige Beschwerde** § 64 FamFG — zwei Wochen.
-- **Wiedereinsetzung** § 17 FamFG.
+- **Beschwerde** Paragraf 63 FamFG — ein Monat.
+- **Sofortige Beschwerde** Paragraf 64 FamFG — zwei Wochen.
+- **Wiedereinsetzung** Paragraf 17 FamFG.
 - **Versorgungsausgleichs-Anträge** parallel zum Scheidungsverfahren.
-- **Anfechtungsfristen** Vaterschaft § 1600b BGB — zwei Jahre ab Kenntnis.
+- **Anfechtungsfristen** Vaterschaft Paragraf 1600b BGB — zwei Jahre ab Kenntnis.
 
 ## Hauptgericht
 
-- **Familiengericht** beim Amtsgericht (§ 23a Abs. 1 Nr. 1 GVG).
-- **OLG-Familiensenat** als Beschwerdegericht (§ 119 GVG).
+- **Familiengericht** beim Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG).
+- **OLG-Familiensenat** als Beschwerdegericht (Paragraf 119 GVG).
 - **BGH XII. Zivilsenat** in Familiensachen.
 
 ## Berufsverband

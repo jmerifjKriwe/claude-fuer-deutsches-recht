@@ -1,7 +1,24 @@
 # Verhältnismäßigkeitsprüfer
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Verhältnismäßigkeitsprüfer-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`verhaeltnismaessigkeitspruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-werkstatt.zip) |
+| **Verhältnismäßigkeitsprüfer-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`verhaeltnismaessigkeitspruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-schnellstart.zip) |
+| **Verhältnismäßigkeitsprüfer-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`verhaeltnismaessigkeitspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer.zip) |
+| **Verhältnismäßigkeitsprüfer-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip) (Initiative Lausitzer Lebensraum e.V. ./. Polizeipraesidium Cottbus (Polizeiverfuegung Anti-Kohle-Versammlung Forst Lausitz)) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`verhaeltnismaessigkeitspruefer-werkstatt.md`](./verhaeltnismaessigkeitspruefer-werkstatt.md) (im Browser ansehen)
+- [`verhaeltnismaessigkeitspruefer-schnellstart.md`](./verhaeltnismaessigkeitspruefer-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -19,22 +36,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Initiative Lausitzer Lebensraum e.V. ./. Polizeipraesidium Cottbus (Polizeiverfuegung Anti-Kohle-Versammlung Forst Lausitz)** (`polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz`) | [Gesamt-PDF lesen](../testakten/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz/gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf) | [`testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Verhältnismäßigkeitsprüfer-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`verhaeltnismaessigkeitspruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-werkstatt.zip) |
-| **Verhältnismäßigkeitsprüfer-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`verhaeltnismaessigkeitspruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`verhaeltnismaessigkeitspruefer-werkstatt.md`](./verhaeltnismaessigkeitspruefer-werkstatt.md) (im Browser ansehen)
-- [`verhaeltnismaessigkeitspruefer-schnellstart.md`](./verhaeltnismaessigkeitspruefer-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Plugin für die juristisch tiefe Anwendung der vierstufigen Schranken-Schranke
 (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) auf
 Grundrechtseingriffe nach deutschem Verfassungsrecht. Mit Vor-Trias (Schutzbereich, Eingriff, Schranke), absoluten Grenzen (Menschenwürde, Wesensgehalt, Existenzminimum), Bestimmtheit und Wesentlichkeitstheorie, BVerfG-Leitentscheidungen, rechtsvergleichenden Skills zu Südafrika Section 36, Kanada Oakes-Test, EGMR/EMRK, EuGH/Charta, US-Tiers-of-Scrutiny sowie 12 europäischen Rechtsordnungen (Frankreich, Italien, Spanien, Niederlande, Belgien, Österreich, Luxemburg, Dänemark, Polen, Tschechien, Griechenland, Irland) sowie Workflow-Werkzeugen.

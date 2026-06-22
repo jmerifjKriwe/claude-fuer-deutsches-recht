@@ -83,8 +83,8 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `richter-landgericht-zivilkammer` 
   - Paragraf 286 ZPO
   - Paragraf 269 Abs. 3 Satz 3 ZPO
   - Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt. - Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht. - Sachverständigenbeweis wird ohne klares…
+  - Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO
   - Paragraf 522 ZPO bei Berufung, sachliche Zuständigkeit Paragraf 71 GVG
-  - Paragraf 119 GVG
 
 ## Leitentscheidungen
 

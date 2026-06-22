@@ -11,7 +11,7 @@ Diese Quellenkarte sichert für **Fachanwalt Familienrecht** jede tragende Aussa
 
 ## Tragende Normen (live prüfen)
 
-- **BGB §§ 1297 ff.** — amtlichen Stand vor tragender Aussage prüfen
+- **BGB Paragrafen 1297 ff.** — amtlichen Stand vor tragender Aussage prüfen
 - **FamFG** — amtlichen Stand vor tragender Aussage prüfen
 - **VersAusglG** — amtlichen Stand vor tragender Aussage prüfen
 - **KindUVO** — amtlichen Stand vor tragender Aussage prüfen
@@ -29,8 +29,8 @@ Diese Quellenkarte sichert für **Fachanwalt Familienrecht** jede tragende Aussa
 
 ## Fristen mit Quellenrelevanz
 
-- Trennungsjahr § 1565 BGB
-- Beschwerde 1 Monat § 63 FamFG
+- Trennungsjahr Paragraf 1565 BGB
+- Beschwerde 1 Monat Paragraf 63 FamFG
 
 ## Prüfroute
 

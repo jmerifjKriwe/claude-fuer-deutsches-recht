@@ -1,14 +1,14 @@
 ---
 name: kindeswohlgefaehrdung-eilantrag
-description: "Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen: Norme..."
+description: "Familienrechtlicher Skill zu Kindeswohlgefaehrdung nach Paragraf 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
 ---
 
-# Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen
+# Kindeswohlgefaehrdung nach Paragraf 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen
 
 
 ## Arbeitsbereich
 
-Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in die tragende Prüfungslinie. Im Mittelpunkt stehen Kindeswohlgefährdung nach § 1666 BGB, Familienmediation nach § 156 FamFG und Cochemer Praxis, der Scheidungsantrag (§§ 1564 ff. BGB, § 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüfungslinien bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in die tragende Prüfungslinie. Im Mittelpunkt stehen Kindeswohlgefährdung nach Paragraf 1666 BGB, Familienmediation nach Paragraf 156 FamFG und Cochemer Praxis, der Scheidungsantrag (Paragrafen 1564 ff. BGB, Paragraf 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüfungslinien bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 
 ## Arbeitsweg
 
@@ -18,14 +18,14 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einstweilige Anordnung), § 8a SGB VIII (Jugendamt-Meldung), § 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen.
+**Fokus:** Kindeswohlgefaehrdung nach Paragraf 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: Paragraf 1666 BGB (Eingriff Familiengericht), Paragraf 49 FamFG (Einstweilige Anordnung), Paragraf 8a SGB VIII (Jugendamt-Meldung), Paragraf 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen.
 
 ### Kindeswohlgefährdung — Eilanordnung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kindeswohlgefährdung — Eilanordnung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG §§ 49 ff., 76, 86 ff., 112 ff.; VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, § 51 VersAusglG, § 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
+- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
+- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -46,15 +46,15 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 
 ## 2) Rechtsgrundlagen
 
-- **§ 1666 BGB** Maßnahmen bei Kindeswohlgefährdung
-- **§ 1666a BGB** Verhältnismaessigkeit
-- **§ 1671 BGB** Sorgerechts-Übertragung
-- **§ 1684 BGB** Umgangsrecht
-- **§ 1696 BGB** Änderung
-- **§§ 8a, 42 SGB VIII** Jugendamts-Maßnahmen
-- **§ 49 FamFG** einstweilige Anordnung
+- **Paragraf 1666 BGB** Maßnahmen bei Kindeswohlgefährdung
+- **Paragraf 1666a BGB** Verhältnismaessigkeit
+- **Paragraf 1671 BGB** Sorgerechts-Übertragung
+- **Paragraf 1684 BGB** Umgangsrecht
+- **Paragraf 1696 BGB** Änderung
+- **Paragrafen 8a, 42 SGB VIII** Jugendamts-Maßnahmen
+- **Paragraf 49 FamFG** einstweilige Anordnung
 
-## 3) Stufen der Maßnahme § 1666 BGB
+## 3) Stufen der Maßnahme Paragraf 1666 BGB
 
 ### Stufe 1 — Auflagen
 
@@ -77,9 +77,9 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 ### Stufe 4 — Wegnahme Kind aus Familie
 
 - Bei akuter Gefahr
-- Inobhutnahme § 42 SGB VIII
+- Inobhutnahme Paragraf 42 SGB VIII
 
-## 4) Jugendamt-Verfahren § 8a SGB VIII
+## 4) Jugendamt-Verfahren Paragraf 8a SGB VIII
 
 ### Prüf-Auftrag
 
@@ -90,15 +90,15 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 ### Schutzplan
 
 - Konkrete Auflagen
-- Hilfe zur Erziehung § 27 ff. SGB VIII
+- Hilfe zur Erziehung Paragraf 27 ff. SGB VIII
 - Familienhilfe
 
 ### Eskalation Familiengericht
 
 - Bei nicht-Kooperation oder akuter Gefährdung
-- Pflicht-Anrufung § 8a IV SGB VIII
+- Pflicht-Anrufung Paragraf 8a IV SGB VIII
 
-## 5) Eilanordnung § 49 FamFG
+## 5) Eilanordnung Paragraf 49 FamFG
 
 ### Voraussetzungen
 
@@ -117,11 +117,11 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 - Mutter psychotisch — Inobhutnahme + Vormundschaft
 - Eltern verweigern Schul-Anmeldung — Schul-Begleitung durch JA
 
-## 6) Anhörung Beteiligter § 159 FamFG
+## 6) Anhörung Beteiligter Paragraf 159 FamFG
 
 - **Kind ab 14 Jahre** zwingend
 - Kind 3-14 Jahre: nach Verständnis-Fähigkeit
-- Verfahrensbeistand (Anwalt des Kindes) § 158 FamFG
+- Verfahrensbeistand (Anwalt des Kindes) Paragraf 158 FamFG
 
 ## 7) Eltern-Verteidigung
 
@@ -138,8 +138,8 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 
 ### Schritt 3 — Akteneinsicht
 
-- § 13 FamFG Akteneinsicht
-- Sozialhilfeakten Jugendamt § 25 SGB X
+- Paragraf 13 FamFG Akteneinsicht
+- Sozialhilfeakten Jugendamt Paragraf 25 SGB X
 
 ### Schritt 4 — Schriftsatz
 
@@ -155,7 +155,7 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 
 ## 8) Jugendamts-Klage / Eilantrag
 
-### Schritt 1 — Eilantrag § 49 FamFG
+### Schritt 1 — Eilantrag Paragraf 49 FamFG
 
 - Glaubhaftmachung Gefährdung
 - Eidesstattliche Versicherung Sozialarbeiter
@@ -173,7 +173,7 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 - Auflagen oder Teil-Entzug
 - Vollstreckbar
 
-## 9) Inobhutnahme § 42 SGB VIII
+## 9) Inobhutnahme Paragraf 42 SGB VIII
 
 ### Voraussetzungen
 
@@ -183,14 +183,14 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 
 ### Pflicht-Information
 
-- Eltern unverzueglich informieren (§ 42 III SGB VIII)
+- Eltern unverzueglich informieren (Paragraf 42 III SGB VIII)
 - FamG binnen Tagen
 
 ### Eltern-Rechte
 
 - Widerspruch JA
 - Antrag auf Aufhebung beim FamG
-- Eilantrag § 49 FamFG (Rueckgabe Kind)
+- Eilantrag Paragraf 49 FamFG (Rueckgabe Kind)
 
 ## 10) Typische Fehler
 

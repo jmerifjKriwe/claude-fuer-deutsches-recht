@@ -106,19 +106,20 @@ def get_akte_title(akte_slug: str) -> str:
     for line in readme.read_text(encoding="utf-8").splitlines():
         if line.startswith("# "):
             title = line[2:].strip()
-            return re.sub(
+            title = re.sub(
                 r"^(Akte|Beispielakte|Testakte|Mandantenakte)\s*[:–-]\s*",
                 "",
                 title,
                 flags=re.IGNORECASE,
             )
+            return title.replace("§§", "Paragrafen").replace("§", "Paragraf")
     return akte_slug
 
 
 def build_section(plugin_name: str, akten_slugs: list[str], plugin_dir: Path | None = None) -> str:
     lines: list[str] = []
     lines.append(MARKER_BEGIN)
-    lines.append("## \u2b07\ufe0f Sofort-Downloads")
+    lines.append("## Sofort-Downloads")
     lines.append("")
     lines.append("Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).")
     lines.append("")
@@ -157,6 +158,16 @@ def build_section(plugin_name: str, akten_slugs: list[str], plugin_dir: Path | N
                 f"[Gesamt-PDF lesen]({pdf_url}) | "
                 f"[`testakte-{slug}.zip`]({zip_url}) |"
             )
+        lines.append("")
+    elif plugin_dir is not None and (plugin_dir / "testakte").is_dir():
+        lines.append("### Demonstrations-Akte")
+        lines.append("")
+        lines.append("| Akte | Download |")
+        lines.append("| --- | --- |")
+        lines.append(
+            f"| Pluginlokale Testakte | "
+            f"[`{plugin_name}-testakte.zip`]({RELEASE_BASE}/{plugin_name}-testakte.zip) |"
+        )
         lines.append("")
     else:
         lines.append("Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.")

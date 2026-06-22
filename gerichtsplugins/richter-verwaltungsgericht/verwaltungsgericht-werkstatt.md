@@ -84,7 +84,7 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `richter-verwaltungsgericht` zu ei
   - Paragraf 124 VwGO
   - Paragraf 114 VwGO
   - Paragraf 80 Abs. 5 VwGO wird mit Paragraf 123 VwGO vermischt. - Ermessen wird durch eigene Zweckmaessigkeitserwaegungen ersetzt. - Aktengeheimnis und Amtsverschwiegenheit nach Par…
-  - Paragraf 40 VwGO
+  - Paragrafen 42, 80, 80a, 86, 88, 113, 123 VwGO
 
 ## Leitentscheidungen
 

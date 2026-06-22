@@ -1,7 +1,24 @@
 # Fachanwalt Internationales Wirtschaftsrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Fachanwalt Internationales Wirtschaftsrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-internationales-wirtschaftsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht-werkstatt.zip) |
+| **Fachanwalt Internationales Wirtschaftsrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-internationales-wirtschaftsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht-schnellstart.zip) |
+| **Fachanwalt Internationales Wirtschaftsrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-internationales-wirtschaftsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht.zip) |
+| **Fachanwalt Internationales Wirtschaftsrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip) (Exportkontrolle / Dual-Use — Werkmann Anlagentechnik AG, Mannheim) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fachanwalt-internationales-wirtschaftsrecht-werkstatt.md`](./fachanwalt-internationales-wirtschaftsrecht-werkstatt.md) (im Browser ansehen)
+- [`fachanwalt-internationales-wirtschaftsrecht-schnellstart.md`](./fachanwalt-internationales-wirtschaftsrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -19,22 +36,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Exportkontrolle / Dual-Use — Werkmann Anlagentechnik AG, Mannheim** (`exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim`) | [Gesamt-PDF lesen](../testakten/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim/gesamt-pdf/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim_gesamt.pdf) | [`testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Fachanwalt Internationales Wirtschaftsrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-internationales-wirtschaftsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht-werkstatt.zip) |
-| **Fachanwalt Internationales Wirtschaftsrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-internationales-wirtschaftsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fachanwalt-internationales-wirtschaftsrecht-werkstatt.md`](./fachanwalt-internationales-wirtschaftsrecht-werkstatt.md) (im Browser ansehen)
-- [`fachanwalt-internationales-wirtschaftsrecht-schnellstart.md`](./fachanwalt-internationales-wirtschaftsrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Plugin Fachanwalt für Internationales Wirtschaftsrecht. Orientierung CISG Brüssel Ia Rom I Rom II grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Außenhandel LkSG.
 
 ## Installation in Claude Code

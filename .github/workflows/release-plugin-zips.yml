@@ -3,7 +3,7 @@ name: Release Plugin ZIPs
 # Baut bei jedem Tag oder bei manueller Ausloesung pro Plugin eine ZIP-Datei
 # und haengt sie an den GitHub Release. Damit ergeben sich stabile Download-URLs:
 #   https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<plugin>.zip
-# Direkt einzeln in Claude Code (Customize Plugins) installierbar.
+# Direkt einzeln in kompatiblen Plugin-Oberflaechen installierbar.
 
 on:
   push:
@@ -140,6 +140,15 @@ jobs:
           ls dist/*-schnellstart.zip | wc -l
           ls -lh dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip
 
+      - name: Pluginlokale Testakten-Bundles bauen
+        run: |
+          # Einige Plugins, insbesondere Gerichtsplugins, haben ihre
+          # Demonstrationsakte direkt unter <plugin>/testakte. Diese Akten
+          # bekommen eigene Release-Assets fuer echte Direkt-Downloads.
+          python3 scripts/build-plugin-testakte-bundles.py dist
+          ls dist/*-testakte.zip | wc -l
+          ls -lh dist/alle-pluginlokalen-testakten.zip
+
       - name: Schnellstart-Kompatibilitaetsdateien buendeln
         run: |
           # GitHub Releases erlauben maximal 1000 Assets. Deshalb werden die
@@ -188,6 +197,7 @@ jobs:
           cp dist/alle-unified-mini-prompts.zip dist/komplettpaket/alle-unified-mini-prompts.zip
           cp dist/alle-werkstatt-prompts.zip dist/komplettpaket/alle-werkstatt-prompts.zip
           cp dist/alle-schnellstart-prompts.zip dist/komplettpaket/alle-schnellstart-prompts.zip
+          cp dist/alle-pluginlokalen-testakten.zip dist/komplettpaket/alle-pluginlokalen-testakten.zip
           for plugin in ${{ steps.plugins.outputs.names }}; do
             cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
             cp "unified-mini-prompts/${plugin}.md" "dist/komplettpaket/unified-mini-prompts/${plugin}.md"
@@ -221,6 +231,15 @@ jobs:
               cp "$z" "dist/komplettpaket/testakten/$(basename "$z")"
             done
           fi
+          for z in dist/*-testakte.zip; do
+            [ -e "$z" ] || continue
+            base="$(basename "$z")"
+            case "$base" in
+              testakte-*) continue ;;
+              alle-*) continue ;;
+            esac
+            cp "$z" "dist/komplettpaket/testakten/$base"
+          done
           cp README.md SKILLS.md ASSET_INDEX.md CHANGELOG.md dist/komplettpaket/uebersichten/
           # skills-index/ enthaelt die pro-Plugin-Detailseiten, auf die SKILLS.md
           # mit relativen Links zeigt. Ohne diesen Ordner waeren die Links im
@@ -238,8 +257,9 @@ jobs:
           test -s dist/alle-unified-mini-prompts.zip
           test -s dist/alle-werkstatt-prompts.zip
           test -s dist/alle-schnellstart-prompts.zip
+          test -s dist/alle-pluginlokalen-testakten.zip
           test -s dist/alles-komplettpaket.zip
-          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-unified-mini-prompts.zip dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip dist/alles-komplettpaket.zip
+          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-unified-mini-prompts.zip dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip dist/alle-pluginlokalen-testakten.zip dist/alles-komplettpaket.zip
 
       - name: Checksums erzeugen
         run: |

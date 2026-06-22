@@ -1,7 +1,24 @@
 # fashion-law-moderecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **fashion-law-moderecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fashion-law-moderecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fashion-law-moderecht-werkstatt.zip) |
+| **fashion-law-moderecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fashion-law-moderecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fashion-law-moderecht-schnellstart.zip) |
+| **fashion-law-moderecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fashion-law-moderecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fashion-law-moderecht.zip) |
+| **fashion-law-moderecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) (Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fashion-law-moderecht-werkstatt.md`](./fashion-law-moderecht-werkstatt.md) (im Browser ansehen)
+- [`fashion-law-moderecht-schnellstart.md`](./fashion-law-moderecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -19,22 +36,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien** (`fashion-law-moderecht-nachtfalter-kollektion-2026`) | [Gesamt-PDF lesen](../testakten/fashion-law-moderecht-nachtfalter-kollektion-2026/gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesamt.pdf) | [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **fashion-law-moderecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fashion-law-moderecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fashion-law-moderecht-werkstatt.zip) |
-| **fashion-law-moderecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fashion-law-moderecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fashion-law-moderecht-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fashion-law-moderecht-werkstatt.md`](./fashion-law-moderecht-werkstatt.md) (im Browser ansehen)
-- [`fashion-law-moderecht-schnellstart.md`](./fashion-law-moderecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Dieses Plugin behandelt Mode nicht als hübschen Sonderfall, sondern als verdichteten Rechtslebenszyklus: Entwurf, Rechtekette, Produktion, Lieferkette, Label, Launch, Vertrieb, Plattform, Influencer, Nachhaltigkeit, Krise, Kopie und Exit. Es ist für Kanzlei, Inhouse Legal, Founder, Kreativteam und Retail gebaut.
 
 ## Arbeitsmodus

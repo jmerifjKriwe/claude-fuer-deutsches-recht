@@ -72,3 +72,10 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 - **Davor**: `08-kostenentscheidung-und-streitwert` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vergleich und Mediation trägt.
 - **Danach**: `10-entscheidungsvorschlag-kammer` - Folgeskill nutzen, sobald Vergleich und Mediation entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

@@ -7,11 +7,11 @@ description: "Workflow-Skill zu fachanwalt familienrecht duesseldorfer tabelle u
 
 ## Mandantenfragen beim Kaltstart
 
-1. Welche Unterhaltsart wird berechnet — Kindesunterhalt, Trennungsunterhalt (§ 1361 BGB) oder nachehelicher Unterhalt (§§ 1569 ff. BGB)?
+1. Welche Unterhaltsart wird berechnet — Kindesunterhalt, Trennungsunterhalt (Paragraf 1361 BGB) oder nachehelicher Unterhalt (Paragrafen 1569 ff. BGB)?
 2. Wie viele Kinder, welches Alter, welches Betreuungsmodell (Residenz, Wechsel)?
 3. Einkommenssituation beider Eltern — Angestellte, Selbständige, Beamte, Teilzeit, Arbeitslos?
 4. Trennungs-/Scheidungsdatum; seit wann wird Unterhalt verlangt?
-5. Besteht ein Unterhaltstitel (Jugendamtsurkunde, Beschluss, Vergleich)? Änderungsklage § 238 FamFG prüfen?
+5. Besteht ein Unterhaltstitel (Jugendamtsurkunde, Beschluss, Vergleich)? Änderungsklage Paragraf 238 FamFG prüfen?
 6. Weitere Unterhaltspflichten (andere Kinder, Elternunterhalt, weiterer Ehegatte)?
 7. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 8. Hat der Unterhaltspflichtige fiktives Einkommen zu berücksichtigen (Obliegenheit zur Erwerbstätigkeit, Schwarzarbeit, verschleiertes Einkommen)?
@@ -21,19 +21,19 @@ description: "Workflow-Skill zu fachanwalt familienrecht duesseldorfer tabelle u
 
 | Norm | Inhalt |
 |------|--------|
-| § 1601 BGB | Unterhaltspflicht unter Verwandten gerader Linie |
-| § 1602 BGB | Bedürftigkeit — Selbstunterhalt erst wenn eigenes Einkommen/Vermögen erschöpft |
-| § 1603 BGB | Leistungsfähigkeit — Selbstbehalt des Unterhaltspflichtigen |
-| § 1609 BGB | Rangfolge bei mehreren Unterhaltsberechtigten — minderjährige Kinder = erste Rang |
-| § 1612a BGB | Mindestunterhalt minderjähriger Kinder — Prozentsatz des steuerlichen Kinderfreibetrags |
-| § 1361 BGB | Trennungsunterhalt — während der Trennungszeit bis Scheidung |
-| § 1569 BGB | Grundsatz der Eigenverantwortung nachehelich |
-| § 1570 BGB | Betreuungsunterhalt — bis vollendetes 3. Lebensjahr des jüngsten Kindes; danach stufenweise |
-| § 1573 BGB | Aufstockungsunterhalt — Einkommen reicht nicht zur Aufrechterhaltung des ehelichen Lebensstandards |
-| § 1578 BGB | Maß des nachehelichen Unterhalts — ehelicher Lebensstandard |
-| § 1578b BGB | Begrenzung und Befristung — bei fehlender ehebedingter Nachteil |
-| § 1579 BGB | Verwirkung nachehelichen Unterhalts |
-| § 238 FamFG | Abänderungsklage bei wesentlicher Veränderung der Verhältnisse |
+| Paragraf 1601 BGB | Unterhaltspflicht unter Verwandten gerader Linie |
+| Paragraf 1602 BGB | Bedürftigkeit — Selbstunterhalt erst wenn eigenes Einkommen/Vermögen erschöpft |
+| Paragraf 1603 BGB | Leistungsfähigkeit — Selbstbehalt des Unterhaltspflichtigen |
+| Paragraf 1609 BGB | Rangfolge bei mehreren Unterhaltsberechtigten — minderjährige Kinder = erste Rang |
+| Paragraf 1612a BGB | Mindestunterhalt minderjähriger Kinder — Prozentsatz des steuerlichen Kinderfreibetrags |
+| Paragraf 1361 BGB | Trennungsunterhalt — während der Trennungszeit bis Scheidung |
+| Paragraf 1569 BGB | Grundsatz der Eigenverantwortung nachehelich |
+| Paragraf 1570 BGB | Betreuungsunterhalt — bis vollendetes 3. Lebensjahr des jüngsten Kindes; danach stufenweise |
+| Paragraf 1573 BGB | Aufstockungsunterhalt — Einkommen reicht nicht zur Aufrechterhaltung des ehelichen Lebensstandards |
+| Paragraf 1578 BGB | Maß des nachehelichen Unterhalts — ehelicher Lebensstandard |
+| Paragraf 1578b BGB | Begrenzung und Befristung — bei fehlender ehebedingter Nachteil |
+| Paragraf 1579 BGB | Verwirkung nachehelichen Unterhalts |
+| Paragraf 238 FamFG | Abänderungsklage bei wesentlicher Veränderung der Verhältnisse |
 
 ## Leitentscheidungen
 
@@ -77,7 +77,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Kindesunterhalt
 
-### Mindestunterhalt § 1612a BGB (Stand 2026)
+### Mindestunterhalt Paragraf 1612a BGB (Stand 2026)
 
 | Altersgruppe | Mindestunterhalt monatlich |
 |-------------|--------------------------|
@@ -135,7 +135,7 @@ Anteil Minderverdienender = Bedarf × Einkommensanteil
 Ausgleich = Anteil Besserverdiener - Anteil Minderverdienender
 ```
 
-## Trennungsunterhalt § 1361 BGB
+## Trennungsunterhalt Paragraf 1361 BGB
 
 ### Voraussetzungen
 
@@ -163,19 +163,19 @@ Trennungsunterhalt (3/7 der Differenz): EUR [(A-B) × 3/7]
 | Übergangszeit 0–3 Jahre Kind | Keine Vollerwerbsobliegenheit; Betreuungsunterhalt |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
-## Nachehelicher Unterhalt §§ 1569 ff. BGB
+## Nachehelicher Unterhalt Paragrafen 1569 ff. BGB
 
 ### Tatbestände
 
 | Unterhaltstatbestand | Norm | Dauer |
 |--------------------|------|-------|
-| Betreuungsunterhalt | § 1570 BGB | Bis vollendetes 3. Lebensjahr; danach stufenweise Erwerbsobliegenheit |
-| Aufstockungsunterhalt | § 1573 BGB | Bei Einkommensunterschied unter ehel. Lebensstandard |
-| Ausbildungsunterhalt | § 1575 BGB | Für Ausbildung die ehebedingt unterblieb |
-| Krankheits-/Invaliditätsunterhalt | § 1572 BGB | Bei ehebedingter oder eheüberdauernder Erkrankung |
-| Altersunterhalt | § 1571 BGB | Unterhalt nach Rentenalter bei ehebed. Nachteilen |
+| Betreuungsunterhalt | Paragraf 1570 BGB | Bis vollendetes 3. Lebensjahr; danach stufenweise Erwerbsobliegenheit |
+| Aufstockungsunterhalt | Paragraf 1573 BGB | Bei Einkommensunterschied unter ehel. Lebensstandard |
+| Ausbildungsunterhalt | Paragraf 1575 BGB | Für Ausbildung die ehebedingt unterblieb |
+| Krankheits-/Invaliditätsunterhalt | Paragraf 1572 BGB | Bei ehebedingter oder eheüberdauernder Erkrankung |
+| Altersunterhalt | Paragraf 1571 BGB | Unterhalt nach Rentenalter bei ehebed. Nachteilen |
 
-### Maß des Unterhalts § 1578 BGB
+### Maß des Unterhalts Paragraf 1578 BGB
 
 - Ehelicher Lebensstandard als Ausgangsgröße
 - Bereinigtes Netto beider Ehegatten
@@ -186,7 +186,7 @@ Nachehelicher Unterhalt = (A + B) / 2 - B (Berechtiger-Einkommen)
 = (A - B) / 2
 ```
 
-### Begrenzung und Befristung § 1578b BGB
+### Begrenzung und Befristung Paragraf 1578b BGB
 
 **Begrenzung:** Herabsetzung auf angemessenen Unterhalt (ohne Ehestandard)
 
@@ -196,7 +196,7 @@ Nachehelicher Unterhalt = (A + B) / 2 - B (Berechtiger-Einkommen)
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Verwirkung § 1579 BGB
+### Verwirkung Paragraf 1579 BGB
 
 | Verwirkungsgrund | Inhalt |
 |----------------|--------|
@@ -208,7 +208,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Anwendung:** Bereinigtes Netto des Pflichtigen reicht nicht für alle Unterhaltspflichten + Selbstbehalt.
 
-### Rangfolge § 1609 BGB
+### Rangfolge Paragraf 1609 BGB
 
 1. Rang: Minderjährige Kinder und volljährige Kinder bis 21 Jahre in Schulausbildung
 2. Rang: Elternteil der das Kind betreut (Ehegatte, Lebenspartner)
@@ -235,9 +235,9 @@ Falls Verteilmasse < EUR 1.000:
   (Mindestunterhalt prüfen!)
 ```
 
-**Sonderfall:** Mindestunterhalt nach § 1612a BGB gilt als Untergrenze — wenn selbst im Mangelfall nicht erreichbar, erhöhte Erwerbsobliegenheit des Pflichtigen prüfen.
+**Sonderfall:** Mindestunterhalt nach Paragraf 1612a BGB gilt als Untergrenze — wenn selbst im Mangelfall nicht erreichbar, erhöhte Erwerbsobliegenheit des Pflichtigen prüfen.
 
-## Abänderungsklage § 238 FamFG
+## Abänderungsklage Paragraf 238 FamFG
 
 **Voraussetzung:** Wesentliche Veränderung der Verhältnisse seit Erlass des Titels.
 
@@ -250,10 +250,10 @@ Falls Verteilmasse < EUR 1.000:
 | Einkommenserhöhung/-verminderung > 10 % | Anpassung Unterhalt |
 | Wegfall Unterhaltspflicht für Kind (Volljährigkeit) | Neuberechnung; Erhöhung anderer Ansprüche möglich |
 | Neue Unterhaltspflicht (neues Kind) | Mangelfall-Prüfung |
-| Neue Ehe/Lebensgemeinschaft Berechtigter | Ggf. Verwirkung § 1579 BGB |
+| Neue Ehe/Lebensgemeinschaft Berechtigter | Ggf. Verwirkung Paragraf 1579 BGB |
 | Kindergeldänderung | Anpassung Zahlbetrag |
 
-**Kein rückwirkender Effekt:** Abänderung nur ab Rechtshängigkeit des Antrags (§ 238 Abs. 3 FamFG).
+**Kein rückwirkender Effekt:** Abänderung nur ab Rechtshängigkeit des Antrags (Paragraf 238 Abs. 3 FamFG).
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -302,14 +302,14 @@ des Monats zu überweisen.
 Bei Nichtleistung werden wir gerichtliche Schritte einleiten.
 ```
 
-### Abänderungsantrag § 238 FamFG
+### Abänderungsantrag Paragraf 238 FamFG
 
 ```
 Amtsgericht [Ort] — Familiengericht —
 
 In der Familiensache [Name] ./. [Name]
 
-Abänderungsantrag nach § 238 FamFG
+Abänderungsantrag nach Paragraf 238 FamFG
 
 Wir beantragen, den Unterhaltsbeschluss vom [Datum] /
 die Jugendamtsurkunde vom [Datum] wie folgt abzuändern:
@@ -336,7 +336,7 @@ der Verhältnisse dar.
 |--------|---------------------|--------------|
 | Berechtigter | Bedürftigkeit | Einkommensnachweise, Ausgabenlisten |
 | Pflichtiger | Leistungsfähigkeit / Selbstbehalt | Gehaltsabrechnungen, Steuerbescheide |
-| Berechtigter | Einkommensermittlung Pflichtiger | Auskunftsklage § 1605 BGB; Lohnsteuerakte |
+| Berechtigter | Einkommensermittlung Pflichtiger | Auskunftsklage Paragraf 1605 BGB; Lohnsteuerakte |
 | Pflichtiger | Fiktives Einkommen Berechtigter | Nachweis Erwerbsobliegenheit |
 | Abänderungskläger | Wesentliche Veränderung | Nachweise aktuelle vs. frühere Verhältnisse |
 
@@ -344,15 +344,15 @@ der Verhältnisse dar.
 
 | Frist | Auslöser | Dauer | Folge |
 |-------|---------|-------|-------|
-| Rückwirkende Unterhaltspflicht | Schriftliche Mahnung/Antrag | Ab Mahnung § 1613 BGB | Ohne Mahnung kein Rückstand |
-| Abänderung | Wesentliche Änderung | Klage / Antrag ab Rechtshängigkeit | Keine Rückwirkung § 238 Abs. 3 FamFG |
-| Verjährung laufender Unterhalt | Fälligkeit | 3 Jahre § 195 BGB | Anspruchsverlust rückwirkend |
+| Rückwirkende Unterhaltspflicht | Schriftliche Mahnung/Antrag | Ab Mahnung Paragraf 1613 BGB | Ohne Mahnung kein Rückstand |
+| Abänderung | Wesentliche Änderung | Klage / Antrag ab Rechtshängigkeit | Keine Rückwirkung Paragraf 238 Abs. 3 FamFG |
+| Verjährung laufender Unterhalt | Fälligkeit | 3 Jahre Paragraf 195 BGB | Anspruchsverlust rückwirkend |
 
 ## Gegenargumente und Reaktion
 
 | Gegenargument | Reaktion |
 |--------------|---------|
-| "Einkommen niedriger als behauptet" | Auskunftsklage § 1605 BGB; Lohnsteuerbescheinigung; Steuerbescheid |
+| "Einkommen niedriger als behauptet" | Auskunftsklage Paragraf 1605 BGB; Lohnsteuerbescheinigung; Steuerbescheid |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Düsseldorfer Tabelle veraltet" | Tabelle jährlich angepasst; bei Mandatsbeginn aktuelle Version prüfen |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
@@ -372,7 +372,7 @@ der Verhältnisse dar.
 |-----------|-----------|------------|
 | Jugendamtsurkunde | Bei klarem Fall zuerst Jugendamtsbeurkundung | Kostenlos; schnell; vollstreckbarer Titel |
 | Düsseldorfer Tabelle | Immer aktuelle Tabelle verwenden | Jährliche Anpassung — veraltete Tabelle führt zu Falschberechnung |
-| Einkommensauskunft | § 1605 BGB frühzeitig einfordern | Grundlage Berechnung; Verschleierungsrisiko minimieren |
+| Einkommensauskunft | Paragraf 1605 BGB frühzeitig einfordern | Grundlage Berechnung; Verschleierungsrisiko minimieren |
 | Erwerbsobliegenheit | Fiktives Einkommen prüfen | Häufig erhebliche Differenz zwischen tatsächlichem und zurechenbarem Einkommen |
 | Abänderung | Schon ab 10 % Veränderung prüfen | Titel veraltet schnell; regelmäßige Anpassung sichert Realwert |
 
@@ -384,8 +384,8 @@ der Verhältnisse dar.
 
 ## Quellen
 
-- BGB §§ 1601–1615n, 1361, 1569–1586b
-- FamFG § 238
+- BGB Paragrafen 1601–1615n, 1361, 1569–1586b
+- FamFG Paragraf 238
 - Düsseldorfer Tabelle, OLG Düsseldorf (jährlich aktualisiert)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Wendl/Dose Das Unterhaltsrecht, 11. Aufl.
@@ -393,3 +393,27 @@ der Verhältnisse dar.
 - Siebte Mindestunterhaltsverordnung vom 15.11.2024 (BGBl. 2024 I Nr. 359)
 - BGH, Beschluss vom 22.01.2025 - XII ZB 148/24 (Elternunterhalt, Familienselbstbehalt)
 - Stand: 05/2026; Tabellenwerte 2026 — bei Jahreswechsel aktualisieren
+
+## Unterhalts-Schärfung: Rechenweg, Auskunft, Abänderung
+
+1. Anspruchsart festlegen.
+   - Kindesunterhalt, Trennungsunterhalt, nachehelicher Unterhalt, Mehrbedarf, Sonderbedarf, Elternunterhalt oder Anpassung im Versorgungsausgleich dürfen nicht vermischt werden.
+2. Auskunftsstufe vorbereiten.
+   - Vor jeder Berechnung werden Auskunft, Belege und eidesstattliche Versicherung geprüft. Pflichtanker sind Paragraf 1605 BGB, Paragraf 1580 BGB, Paragraf 235 FamFG und bei Stufenklage Paragraf 113 FamFG in Verbindung mit Paragraf 254 ZPO.
+3. Einkommen bereinigen.
+   - Bei Arbeitnehmern: Brutto, Netto, Steuer, Sozialabgaben, berufsbedingte Aufwendungen, Altersvorsorge, Schulden und Wohnvorteil. Bei Selbstständigen: regelmäßig Drei-Jahres-Bild, Steuerbescheide, Gewinnermittlungen, BWA, Privatentnahmen, Darlehen, Investitionen und Liquidität plausibilisieren.
+4. Bedarf und Leistungsfähigkeit rechnen.
+   - Düsseldorfer Tabelle stets live nachziehen; Selbstbehalt, Rang, Kindergeldanrechnung, Erwerbstätigenbonus, Mangelfall und Verteilungsmasse offenlegen.
+5. Antrag oder Schreiben ausformulieren.
+   - Ergebnis ist eine Stufenklage, ein Auskunftsverlangen, ein Zahlungsantrag, ein Abänderungsantrag oder ein Vergleichsvorschlag mit konkretem Rechenweg.
+
+## Unterhalts-Anker
+
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft kann nicht pauschal mit behaupteter unbegrenzter Leistungsfähigkeit verweigert werden.
+- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Vertretung und Verfahrensbefugnis in Kindesunterhaltssachen getrennt lebender Eltern sind vor jedem Antrag live zu prüfen.
+- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs-, Einkommens- und Begrenzungsprüfung.
+- Paragrafen 1601, 1602, 1603, 1605, 1610, 1612a, 1612b, 1361, 1569, 1570 bis 1578b, 1580 BGB und Paragrafen 235, 243 FamFG bilden den Kernbestand.
+
+## Unterhalts-Stop
+
+Wenn aktuelle Tabelle, vollständige Belege, Steuerlast, Wohnvorteil, Selbstständigenunterlagen oder Betreuungsmodell fehlen, wird nicht gerechnet, sondern ein Auskunfts- und Belegplan erstellt. Jede Zahl braucht eine Aktenfundstelle oder den Hinweis, dass sie nur Platzhalter bis zur Belegprüfung ist.

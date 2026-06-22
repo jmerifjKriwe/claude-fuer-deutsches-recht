@@ -34,42 +34,52 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG, Beschluss vom 29.01.2010 - 1 BvR 374/09, frei nachweisbar über bundesverfassungsgericht.de und dejure: Trennung eines Kindes von seinen Eltern verlangt eine besonders tragfähige Kindeswohlgefährdungsprognose.
-- BVerfG, Beschluss vom 22.05.2014 - 1 BvR 2882/13, frei nachweisbar über bundesverfassungsgericht.de und dejure: Elternrecht und Kindeswohl erfordern eine am konkreten Kind orientierte Sachverhaltsaufklärung.
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- Ständige Rechtsprechung zu Paragrafen 158 und 159 FamFG: Verfahrensbeistand und persönliche Kindesanhörung sind bei substantiellen Sorgerechtsentscheidungen konkret zu prüfen und aktenkundig zu begründen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- BVerfG, Beschluss vom 21.07.2010 - 1 BvR 420/09: Der Ausschluss des nicht verheirateten Vaters von der Sorgerechtsprüfung verletzt Elternrecht, wenn keine am Kindeswohl orientierte Einzelfallprüfung eröffnet ist.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: Paritätische Betreuung kann familiengerichtlich angeordnet werden, wenn sie dem Kindeswohl entspricht und praktisch tragfähig ist.
+- Paragrafen 1626, 1627, 1671, 1684, 1696 BGB sowie Paragrafen 155, 156, 158, 159, 162 FamFG bilden den Pflichtstamm: Kindeswohl, Elternkonsens, Übertragung, Beschleunigung, Verfahrensbeistand, Anhörung und Jugendamt.
 
 ## Prüfungsschema in Stufen
 
-1. Sorgerechtsantrag präzise zuordnen: Alleinsorge, Teilbereich, Aufenthaltsbestimmung, Gesundheitsfürsorge, Schulangelegenheiten oder einstweilige Schutzanordnung.
-2. Beteiligte und Verfahrensgarantien sichern: Jugendamt, Verfahrensbeistand, persönliche Elternanhörung, Kindesanhörung nach Alter und Entwicklungsstand sowie erforderlichenfalls Sachverständigengutachten.
-3. Kindeswohl konkret prüfen: Bindung, Förderung, Kontinuität, Kindeswille, Kooperationsfähigkeit der Eltern, Gewalt- oder Manipulationsvorwürfe und alltagspraktische Umsetzbarkeit.
-4. Eingriffstiefe staffeln: mildere Mittel, Auflagen, Beratung, Umgangsregelung oder Teilübertragung vor vollständigem Sorgerechtsentzug prüfen.
-5. Beschluss so tenorieren, dass Zuständigkeit, Teilbereich, Übergabe von Unterlagen, Vollstreckungshinweis und Befristung bei Eilentscheidungen eindeutig sind.
+1. Antragsziel präzisieren.
+   - Geht es um Alleinsorge, Teilbereiche, Aufenthaltsbestimmung, Gesundheitsfürsorge, Schulwahl oder einstweilige Schutzanordnung.
+2. Kindeswohlkriterien aktenfest machen.
+   - Bindungen, Kontinuität, Förderung, Erziehungsfähigkeit, Kooperationsfähigkeit, Kindeswille und Schutzbedarf einzeln würdigen.
+3. Anhörungen steuern.
+   - Kind, Eltern, Jugendamt und Verfahrensbeistand mit konkretem Beweisthema anhören; Sachverständige nur bei aufklärungsbedürftiger Tatsachenfrage.
+4. Mildere Mittel prüfen.
+   - Auflagen, Beratung, Umgangspflegschaft, Teilübertragung oder gerichtliche Vereinbarung vor vollständiger Sorgerechtsentziehung prüfen.
+5. Beschluss präzisieren.
+   - Teilbereich, Umfang, Dauer, Vollstreckbarkeit und Anschlusskontrolle dürfen nicht offen bleiben.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Elternkonflikt wird mit Kindeswohlgefährdung verwechselt.
+- Kindeswille wird altersunabhängig als Entscheidungsvorgabe behandelt.
+- Teilbereiche der Sorge werden nicht getrennt; der Tenor wird dadurch unvollstreckbar.
+- Das Jugendamt wird gehört, aber dessen konkrete Tatsachengrundlage nicht geprüft.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Das Aufenthaltsbestimmungsrecht für das Kind [Name], geboren am [Datum], wird auf den Antragsteller übertragen. Im Übrigen verbleibt es bei der gemeinsamen elterlichen Sorge.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Das Jugendamt [Ort] wird gebeten, bis zum [Datum] zu Bindungen, Betreuungskontinuität, Schulweg, Kommunikationsfähigkeit der Eltern und erkennbarem Kindeswillen Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
 - **Davor**: `03-versorgungsausgleich-vorbereiten` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kindschaftssache Elterliche Sorge trägt.
 - **Danach**: `05-umgangsrecht-paragraf-1684-bgb` - Folgeskill nutzen, sobald Kindschaftssache Elterliche Sorge entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

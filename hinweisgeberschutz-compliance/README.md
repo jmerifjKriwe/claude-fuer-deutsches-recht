@@ -1,7 +1,24 @@
 # Hinweisgeberschutz, Meldestellen und NDA-Konflikte
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Hinweisgeberschutz, Meldestellen und NDA-Konflikte-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`hinweisgeberschutz-compliance-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance-werkstatt.zip) |
+| **Hinweisgeberschutz, Meldestellen und NDA-Konflikte-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`hinweisgeberschutz-compliance-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance-schnellstart.zip) |
+| **Hinweisgeberschutz, Meldestellen und NDA-Konflikte-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`hinweisgeberschutz-compliance.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance.zip) |
+| **Hinweisgeberschutz, Meldestellen und NDA-Konflikte-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-hinweisgeberschutz-nda-meldekanal-waldkrone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hinweisgeberschutz-nda-meldekanal-waldkrone.zip) (Akte Waldkrone HealthTech GmbH - NDA, Meldekanal und Lieferantenhinweis); [`testakte-internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot.zip) (Vertriebsbonus und staatsanwaltschaftlicher Honeypot) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`hinweisgeberschutz-compliance-werkstatt.md`](./hinweisgeberschutz-compliance-werkstatt.md) (im Browser ansehen)
+- [`hinweisgeberschutz-compliance-schnellstart.md`](./hinweisgeberschutz-compliance-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -20,22 +37,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Vertriebsbonus und staatsanwaltschaftlicher Honeypot** (`internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot`) | [Gesamt-PDF lesen](../testakten/internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot/gesamt-pdf/internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot_gesamt.pdf) | [`testakte-internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Hinweisgeberschutz, Meldestellen und NDA-Konflikte-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`hinweisgeberschutz-compliance-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance-werkstatt.zip) |
-| **Hinweisgeberschutz, Meldestellen und NDA-Konflikte-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`hinweisgeberschutz-compliance-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`hinweisgeberschutz-compliance-werkstatt.md`](./hinweisgeberschutz-compliance-werkstatt.md) (im Browser ansehen)
-- [`hinweisgeberschutz-compliance-schnellstart.md`](./hinweisgeberschutz-compliance-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Dieses Plugin führt Unternehmen, Kanzleien und Rechtsabteilungen durch den ganzen Lebenszyklus eines Hinweises: Meldekanal, Fristen, Vertraulichkeit, NDA-Konflikte, Untersuchung, Repressalienschutz, Behördenkommunikation und Dokumentation.
 
 ## Wofür dieses Plugin da ist

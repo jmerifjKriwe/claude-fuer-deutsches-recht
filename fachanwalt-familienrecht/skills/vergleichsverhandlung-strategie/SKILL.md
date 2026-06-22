@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverhandlun..."
+description: "Familienrechtlicher Skill zu Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
 ---
 
 # Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
@@ -20,8 +20,8 @@ description: "Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und 
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung und Einigung im Familien-, Kindschafts- und Versorgungsausgleichsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG §§ 49 ff., 76, 86 ff., 112 ff.; VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, § 51 VersAusglG, § 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
+- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
+- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -72,7 +72,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ### Eroeffnung
 
 - Anker setzen: erste Zahl/Position deutlich hoeher als Reservation, aber begruendbar.
-- Begruendung mit konkreten Positionen aus §§ 1297 ff. BGB, FamFG, VersAusglG, UVG, GewSchG, IntFamRVG verknuepfen.
+- Begruendung mit konkreten Positionen aus Paragrafen 1297 ff. BGB, FamFG, VersAusglG, UVG, GewSchG, IntFamRVG verknuepfen.
 
 ### Konzessionsphase
 
@@ -99,18 +99,18 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 7. **Verschwiegenheit** (wenn von einer Partei gewuenscht).
 8. **Steuerliche Behandlung** ggf. ausdruecklich, sonst Hinweis auf Steuerberatung.
 9. **Salvatorische Klausel und Schriftform.**
-10. **Vollstreckungstitel-Ersatz:** notarielle Beurkundung, Anwaltsvergleich nach § 796a ZPO, oder Schiedsvergleich.
+10. **Vollstreckungstitel-Ersatz:** notarielle Beurkundung, Anwaltsvergleich nach Paragraf 796a ZPO, oder Schiedsvergleich.
 
 ### Bei Prozessvergleich
 
-- Protokollvergleich nach § 794 Abs. 1 Nr. 1 ZPO (Vollstreckungstitel kraft Protokollierung).
+- Protokollvergleich nach Paragraf 794 Abs. 1 Nr. 1 ZPO (Vollstreckungstitel kraft Protokollierung).
 - Widerrufsvorbehalt mit klarer Frist.
 - Kostenregelung: ueblich Kostenaufhebung, ggf. Quote.
 - Beteiligung der Streithelfer/Nebenintervenienten beachten.
 
 ## Risiken und Stolpersteine im Familien-, Kindschafts- und Versorgungsausgleichsrecht
 
-- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> §§ 1297 ff. BGB und ESt-/USt-Regeln prüfen.
+- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> Paragrafen 1297 ff. BGB und ESt-/USt-Regeln prüfen.
 - Vollmacht: Mandantin muss zustimmen, anwaltliche Vergleichsbefugnis muss in Vollmacht expliziert sein.
 - Vollstreckbarkeit: aussergerichtlicher Vergleich ohne notarielle Form/Anwaltsvergleich ist kein Vollstreckungstitel.
 - Verzicht zu weit gefasst: pauschale Abgeltungsklausel kann eigene Ansprueche unbeabsichtigt mit erfassen.
@@ -128,7 +128,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 1: Eroeffnung mit Ankerwert
 
-> "Wir haben die Sache durchgerechnet. Auf Basis von §§ 1297 ff. BGB und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, über eine Pauschalsumme zu sprechen, die die Sache abschliesst."
+> "Wir haben die Sache durchgerechnet. Auf Basis von Paragrafen 1297 ff. BGB und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, über eine Pauschalsumme zu sprechen, die die Sache abschliesst."
 
 ### Skript 2: Begruendete Konzession
 
@@ -167,10 +167,10 @@ Im Bereich Familien-, Kindschafts- und Versorgungsausgleichsrecht oft uebersehen
 
 ## Vollstreckbarkeit
 
-- **Anwaltsvergleich nach § 796a ZPO:** anwaltlich beurkundeter Vergleich, mit Vollstreckungsklausel des Gerichts = Vollstreckungstitel.
+- **Anwaltsvergleich nach Paragraf 796a ZPO:** anwaltlich beurkundeter Vergleich, mit Vollstreckungsklausel des Gerichts = Vollstreckungstitel.
 - **Notarieller Vergleich:** als Schuldanerkenntnis mit Vollstreckungsunterwerfung.
-- **Prozessvergleich:** § 794 Abs. 1 Nr. 1 ZPO, sofort vollstreckbar.
-- **Schiedsvergleich:** Vollstreckbarerklaerung nach §§ 1054, 1060 ZPO.
+- **Prozessvergleich:** Paragraf 794 Abs. 1 Nr. 1 ZPO, sofort vollstreckbar.
+- **Schiedsvergleich:** Vollstreckbarerklaerung nach Paragrafen 1054, 1060 ZPO.
 
 ## Vergleichs-Reichweite und Abgeltungsklausel
 

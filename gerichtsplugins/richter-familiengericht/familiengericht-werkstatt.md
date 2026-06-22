@@ -80,19 +80,19 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `richter-familiengericht` zu einem
   - Paragraf 158 FamFG
   - Paragraf 159 FamFG
   - Paragraf 26 FamFG
-  - Paragrafen 26, 38, 39, 81 und 84 FamFG
-  - Paragrafen 158 und 159 FamFG
-  - Paragraf 137 FamFG
-  - Paragraf 353b StGB
+  - Paragrafen 26, 38, 39, 113 FamFG sowie Paragrafen 286, 313 ZPO über Paragraf 113 FamFG
+  - Paragraf 139 ZPO in Verbindung mit Paragraf 113 FamFG und nach Paragraf 26 FamFG
   - Paragraf 38 FamFG
+  - Paragrafen 80 ff. FamFG, Rechtsmittelbelehrung Beschwerde Paragrafen 58 ff. FamFG
+  - Paragrafen 38, 39, 40, 41 FamFG sowie Paragrafen 58 ff. FamFG
 
 ## Leitentscheidungen
 
-- BVerfG, Beschluss vom 22.05.2014 - 1 BvR 2882/13, frei nachweisbar über bundesverfassungsgericht. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt sichtbare Berücksichtigung entscheidungserheblichen Vortrags. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
-- BVerfG, Beschluss vom 29.01.2010 - 1 BvR 374/09, frei nachweisbar über bundesverfassungsgericht. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Ein Entscheidungsvorschlag muss den entscheidungserheblichen Vortrag sichtbar aufnehmen, sonst droht ein Gehörsfehler. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
+- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: In Verbundsachen muss der Entscheidungsvorschlag die einzelnen Gegenstände getrennt und teilhabegerecht behandeln. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft, Beleglage und Leistungsfähigkeit dürfen im Unterhaltsvotum nicht durch pauschale Annahmen ersetzt werden. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Der Anspruch auf rechtliches Gehör verlangt eine erkennbare Befassung mit dem entscheidungserheblichen Vortrag. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: In Kindschaftssachen müssen Tenor und Gründe das Kindeswohl und die praktische Durchführbarkeit nachvollziehbar verbinden. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 
 ## Prüfraster oder Indizienliste
 

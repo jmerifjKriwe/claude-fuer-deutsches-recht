@@ -81,10 +81,10 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `richter-bverfg-verfassungsbeschwe
   - Paragraf 32 BVerfGG
   - Paragraf 32 BVerfGG wird ohne Doppelhypothese begründet. - Vorlagen und Beratungsunterlagen unterliegen Paragraf 353b StGB
   - Paragraf 93a Abs. 2 BVerfGG
+  - Paragrafen 23, 90, 92, 93a, 93b, 93c BVerfGG
   - Paragraf 90 Abs. 2 BVerfGG
   - Paragraf 92 BVerfGG
   - Paragraf 93b BVerfGG
-  - Paragraf 93d Abs. 1 BVerfGG
 
 ## Leitentscheidungen
 

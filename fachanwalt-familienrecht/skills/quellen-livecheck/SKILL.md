@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Fachanwalt Familienrecht: prüft Normen (BGB §§ 1297 ff., FamFG, VersAusglG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Familiengericht (AG) und Quellenhygiene nach references/quellenhygiene.md."
+description: "Quellen-Live-Check für Fachanwalt Familienrecht: prüft Normen (BGB Paragrafen 1297 ff., FamFG, VersAusglG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Familiengericht (AG) und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck

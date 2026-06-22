@@ -72,3 +72,10 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 - **Davor**: `01-eroeffnungsverfahren-strafkammer` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Hauptverhandlung Große Strafkammer trägt.
 - **Danach**: `03-beweisantraege-und-ablehnung` - Folgeskill nutzen, sobald Hauptverhandlung Große Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Strafkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsentscheidung, Hauptverhandlungsplan, Beschluss oder Strafurteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 74, 76 GVG sowie Paragrafen 199, 203, 229, 244, 257c, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

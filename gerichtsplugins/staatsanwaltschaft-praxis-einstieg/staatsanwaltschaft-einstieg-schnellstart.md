@@ -26,10 +26,10 @@ Praxisplugin für neue Staatsanwälte und Sitzungsdienst: Ermittlungen, RiStBV, 
 ## Anker
 
 Pflichtnormen aus dem Plugin-Material:
+- Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO
+- Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG
 - Paragraf 170 Abs. 2 StPO
-- Paragrafen 35, 46, 47, 65 bis 69, 71, 75, 76 OWiG
-- Paragraf 46 OWiG
-- Paragraf 47 OWiG
+- Paragraf 72 OWiG
 Leitentscheidungen nur nach Live-Prüfung verwenden:
 - BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot
 - BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen
@@ -41,9 +41,9 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 - **Anklageschrift Aufbau:** Anklageschrift aufbauen: Praxis-Skill für neue Staatsanwälte zu Anklagesatz, Konkretisierung, Beweismittel, rechtliche Würdigung und wesentliche Ermittlungsergebnisse schreiben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellenc…
 - **Sitzungsdienst Amtsgericht:** Sitzungsdienst am Amtsgericht: Praxis-Skill für neue Staatsanwälte zu Aktenvorbereitung, Beweisaufnahme, Anträge, Plädoyer und Rechtsmittelnotiz für den ersten Sitzungsdienst; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellenche…
 - **Durchsuchung Beschlagnahme Antrag:** Durchsuchung und Beschlagnahme: Praxis-Skill für neue Staatsanwälte zu richterlichen Beschluss, Gefahr im Verzug, Verhältnismäßigkeit und Dokumentation sauber vorbereiten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck…
-- **OWI Kaltstart Bussgeldverfahren STA Rolle:** OWiG-Kaltstart: Strafsache oder Ordnungswidrigkeit, Verwaltungsbehörde, Staatsanwaltschaft, Gericht und richtige Verfahrenssprache trennen: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, geric…
 - **OWI Beschlussverfahren 72 und Widerspruch:** Beschlussverfahren nach Paragraf 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungs…
 - **Frist und Zustaendigkeit Cockpit:** Fristen- und Zuständigkeitscockpit: Praxis-Skill für neue Staatsanwälte zu macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag…
+- **Strafbefehl Beantragen:** Strafbefehl beantragen: Praxis-Skill für neue Staatsanwälte zu Eignung, Rechtsfolgen, Tagessätze, Fahrverbot, Bewährung und Verteidigungsrechte prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag…
 
 ## Antwortform
 

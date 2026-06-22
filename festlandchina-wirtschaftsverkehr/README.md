@@ -1,7 +1,24 @@
 # Festlandchina Wirtschaftsverkehr
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Festlandchina Wirtschaftsverkehr-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`festlandchina-wirtschaftsverkehr-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr-werkstatt.zip) |
+| **Festlandchina Wirtschaftsverkehr-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`festlandchina-wirtschaftsverkehr-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr-schnellstart.zip) |
+| **Festlandchina Wirtschaftsverkehr-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`festlandchina-wirtschaftsverkehr.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr.zip) |
+| **Festlandchina Wirtschaftsverkehr-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip) (China-Wirtschaftsakte Morgenstern) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`festlandchina-wirtschaftsverkehr-werkstatt.md`](./festlandchina-wirtschaftsverkehr-werkstatt.md) (im Browser ansehen)
+- [`festlandchina-wirtschaftsverkehr-schnellstart.md`](./festlandchina-wirtschaftsverkehr-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -19,22 +36,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **China-Wirtschaftsakte Morgenstern** (`festlandchina-wirtschaftsverkehr-fabrik-import-investition`) | [Gesamt-PDF lesen](../testakten/festlandchina-wirtschaftsverkehr-fabrik-import-investition/gesamt-pdf/festlandchina-wirtschaftsverkehr-fabrik-import-investition_gesamt.pdf) | [`testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Festlandchina Wirtschaftsverkehr-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`festlandchina-wirtschaftsverkehr-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr-werkstatt.zip) |
-| **Festlandchina Wirtschaftsverkehr-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`festlandchina-wirtschaftsverkehr-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`festlandchina-wirtschaftsverkehr-werkstatt.md`](./festlandchina-wirtschaftsverkehr-werkstatt.md) (im Browser ansehen)
-- [`festlandchina-wirtschaftsverkehr-schnellstart.md`](./festlandchina-wirtschaftsverkehr-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 China-Geschäft ohne Illusionen und ohne Reflexe: freiheitsbewusst, regelgebunden, de-risked, dokumentiert und wirtschaftlich handlungsfähig.
 
 Dieses Plugin führt durch **Festlandchina Wirtschaftsverkehr** und erzeugt je nach Bedarf Memos, Quellenmatrizen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.

@@ -34,42 +34,52 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- Paragraf 38 FamFG: Beschluss braucht Rubrum, Beschlussformel, Gründe, Rechtsbehelfsbelehrung und Unterschrift beziehungsweise Signatur.
-- Paragrafen 39, 40 und 41 FamFG: Bekanntgabe, Wirksamwerden und Rechtsbehelfsbelehrung sind nicht bloße Formalien.
-- Paragraf 81 FamFG: Kostenentscheidung verlangt Ermessen und darf nicht aus der ZPO abgeschrieben werden.
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt sichtbare Berücksichtigung entscheidungserheblichen Vortrags.
-- Ständige Rechtsprechung zu FamFG-Beschlüssen: Tenor muss vollstreckbar, Gründe müssen kindes- oder vermögensbezogen nachvollziehbar sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Der Anspruch auf rechtliches Gehör verlangt eine erkennbare Befassung mit dem entscheidungserheblichen Vortrag.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: In Kindschaftssachen müssen Tenor und Gründe das Kindeswohl und die praktische Durchführbarkeit nachvollziehbar verbinden.
+- Paragrafen 38, 39, 40, 41 FamFG sowie Paragrafen 58 ff. FamFG bilden den Pflichtstamm: Beschlussinhalt, Rechtsbehelfsbelehrung, Bekanntgabe, Wirksamwerden und Beschwerde.
 
 ## Prüfungsschema in Stufen
 
-1. Beschluss Familiensache Paragraf 38 FamFG: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
-2. Amtsverfahren, Antragsverfahren, Verbund und Folgesachen sauber trennen.
-3. Anhörungen, Jugendamt, Verfahrensbeistand, Sachverständige und Auskunftsanordnungen terminlich steuern.
-4. Vergleichs- und Einigungsoptionen prüfen, ohne Schutz- oder Kindeswohlfragen zu relativieren.
-5. Beschluss mit Tenor, Gründen, Kosten, Rechtsbehelfsbelehrung und Vollstreckungshinweis fassen.
+1. Beschlussart bestimmen.
+   - Endbeschluss, Zwischenbeschluss, einstweilige Anordnung, Genehmigung oder Hinweisverfügung strikt unterscheiden.
+2. Rubrum und Beteiligte prüfen.
+   - Beteiligtenstellung, gesetzliche Vertretung, Verfahrensbeistand, Jugendamt und Versorgungsträger vollständig aufnehmen.
+3. Tenor vollstreckbar formulieren.
+   - Person, Pflicht, Zeitraum, Betrag, Übergabeort, Anordnung oder Genehmigung konkret nennen.
+4. Gründe schreiben.
+   - Sachverhalt, Verfahrensgang, Anhörung, Beweiswürdigung und rechtliche Subsumtion getrennt darstellen.
+5. Nebenentscheidungen anfügen.
+   - Kosten, Verfahrenswert, Wirksamwerden, Vollstreckung und Rechtsmittelbelehrung vollständig ausformulieren.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Tenor und Gründe passen nicht zusammen, weil der Tenor aus einem alten Muster stammt.
+- Rechtsmittelbelehrung ist unvollständig oder für die falsche FamFG-Sache gewählt.
+- Anhörung des Kindes oder eines Beteiligten wird erwähnt, aber nicht inhaltlich verwertet.
+- Kostenentscheidung und Verfahrenswert fehlen, obwohl sie für die Akte und spätere Kostenfestsetzung erforderlich sind.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Der Antrag wird zurückgewiesen. Die Kosten des Verfahrens trägt [Beteiligter] nach Maßgabe der nachstehenden Gründe.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Der Beschluss wird mit Bekanntgabe an die Beteiligten wirksam. Die Beteiligten werden über das statthafte Rechtsmittel nach Maßgabe der Rechtsmittelbelehrung belehrt.
 ```
 
 ## Benachbarte Skills
 
 - **Davor**: `08-gewaltschutz-und-eilanordnung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beschluss Familiensache Paragraf 38 FamFG trägt.
 - **Danach**: `10-entscheidungsvorschlag-familienrichter` - Folgeskill nutzen, sobald Beschluss Familiensache Paragraf 38 FamFG entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.

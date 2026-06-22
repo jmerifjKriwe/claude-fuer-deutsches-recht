@@ -11,16 +11,16 @@ Prüfe **Zugewinnausgleich Anfangsvermoegen** von der ersten Aktenordnung bis zu
 
 ## Normenanker
 
-- § 1363 Abs. 1 BGB
-- § 1373 BGB
-- § 1374 Abs. 1 und 2 BGB
-- § 1378 Abs. 1 BGB
-- § 1565 Abs. 1 BGB
-- § 1570 BGB
-- § 1601 BGB
-- § 1626 Abs. 1 BGB
-- § 1684 Abs. 1 BGB
-- § 1697a BGB
+- Paragraf 1363 Abs. 1 BGB
+- Paragraf 1373 BGB
+- Paragraf 1374 Abs. 1 und 2 BGB
+- Paragraf 1378 Abs. 1 BGB
+- Paragraf 1565 Abs. 1 BGB
+- Paragraf 1570 BGB
+- Paragraf 1601 BGB
+- Paragraf 1626 Abs. 1 BGB
+- Paragraf 1684 Abs. 1 BGB
+- Paragraf 1697a BGB
 
 ## Prüfpfad
 

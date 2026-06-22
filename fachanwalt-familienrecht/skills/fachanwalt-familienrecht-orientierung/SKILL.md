@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-orientierung
-description: "Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Spezialskills."
+description: "Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund Paragraf 137 FamFG), Paragrafen 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Spezialskills."
 ---
 
 # Fachanwalt für Familienrecht — Orientierung
@@ -20,22 +20,22 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## FAO-Voraussetzungen (§ 5 Abs. 1 FAO)
+## FAO-Voraussetzungen (Paragraf 5 Abs. 1 FAO)
 
-- **Theoretischer Lehrgang** 120 Stunden (§ 4 FAO).
-- **Drei Klausuren** zum Familienrecht (§ 4a FAO).
-- **120 Fälle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Fälle (§ 5 FAO).
+- **Theoretischer Lehrgang** 120 Stunden (Paragraf 4 FAO).
+- **Drei Klausuren** zum Familienrecht (Paragraf 4a FAO).
+- **120 Fälle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Fälle (Paragraf 5 FAO).
 - **Anmeldung** bei der Rechtsanwaltskammer.
 
 ## Wichtige Normen
 
 | Bereich | Norm |
 |---|---|
-| BGB Familienrecht | §§ 1297 ff. BGB (Ehe Scheidung) §§ 1601 ff. BGB (Unterhalt) §§ 1626 ff. BGB (Elterliche Sorge) §§ 1684 ff. BGB (Umgangsrecht) §§ 1740 ff. BGB (Adoption) §§ 1773 ff. BGB (Vormundschaft) |
-| Verfahrensrecht | FamFG §§ 111 ff. (Familiensachen) § 137 FamFG (Scheidungsverbund) §§ 151 ff. FamFG (Kindschaftssachen) |
+| BGB Familienrecht | Paragrafen 1297 ff. BGB (Ehe Scheidung) Paragrafen 1601 ff. BGB (Unterhalt) Paragrafen 1626 ff. BGB (Elterliche Sorge) Paragrafen 1684 ff. BGB (Umgangsrecht) Paragrafen 1740 ff. BGB (Adoption) Paragrafen 1773 ff. BGB (Vormundschaft) |
+| Verfahrensrecht | FamFG Paragrafen 111 ff. (Familiensachen) Paragraf 137 FamFG (Scheidungsverbund) Paragrafen 151 ff. FamFG (Kindschaftssachen) |
 | Versorgungsausgleich | VersAusglG |
 | Lebenspartnerschaft | LPartG |
-| Gerichtsverfassung | § 23a GVG (Familiengericht beim AG) § 23b GVG |
+| Gerichtsverfassung | Paragraf 23a GVG (Familiengericht beim AG) Paragraf 23b GVG |
 | EU- und Völkerrecht | Brüssel IIb-VO (EU) 2019/1111 |
 
 ## Typische Mandate
@@ -51,16 +51,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Wichtige Fristen
 
-- **Beschwerde** § 63 FamFG — ein Monat.
-- **Sofortige Beschwerde** § 64 FamFG — zwei Wochen.
-- **Wiedereinsetzung** § 17 FamFG.
+- **Beschwerde** Paragraf 63 FamFG — ein Monat.
+- **Sofortige Beschwerde** Paragraf 64 FamFG — zwei Wochen.
+- **Wiedereinsetzung** Paragraf 17 FamFG.
 - **Versorgungsausgleichs-Anträge** parallel zum Scheidungsverfahren.
-- **Anfechtungsfristen** Vaterschaft § 1600b BGB — zwei Jahre ab Kenntnis.
+- **Anfechtungsfristen** Vaterschaft Paragraf 1600b BGB — zwei Jahre ab Kenntnis.
 
 ## Hauptgericht
 
-- **Familiengericht** beim Amtsgericht (§ 23a Abs. 1 Nr. 1 GVG).
-- **OLG-Familiensenat** als Beschwerdegericht (§ 119 GVG).
+- **Familiengericht** beim Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG).
+- **OLG-Familiensenat** als Beschwerdegericht (Paragraf 119 GVG).
 - **BGH XII. Zivilsenat** in Familiensachen.
 
 ## Quellenregel

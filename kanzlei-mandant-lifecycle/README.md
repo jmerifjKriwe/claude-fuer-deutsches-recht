@@ -1,7 +1,24 @@
 # Kanzlei-Mandant Lifecycle
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Kanzlei-Mandant Lifecycle-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`kanzlei-mandant-lifecycle-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-mandant-lifecycle-werkstatt.zip) |
+| **Kanzlei-Mandant Lifecycle-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`kanzlei-mandant-lifecycle-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-mandant-lifecycle-schnellstart.zip) |
+| **Kanzlei-Mandant Lifecycle-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`kanzlei-mandant-lifecycle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-mandant-lifecycle.zip) |
+| **Kanzlei-Mandant Lifecycle-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip) (Falkenried & Partner mbB — Managementakte Q2/2026); [`testakte-mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech.zip) (Mandatsbeziehung Nordstern BioTherapeutics — Kanzlei Falkenried) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`kanzlei-mandant-lifecycle-werkstatt.md`](./kanzlei-mandant-lifecycle-werkstatt.md) (im Browser ansehen)
+- [`kanzlei-mandant-lifecycle-schnellstart.md`](./kanzlei-mandant-lifecycle-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
+## Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
@@ -20,22 +37,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Mandatsbeziehung Nordstern BioTherapeutics — Kanzlei Falkenried** (`mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech`) | [Gesamt-PDF lesen](../testakten/mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech/gesamt-pdf/mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech_gesamt.pdf) | [`testakte-mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
-
-| Prompt | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Kanzlei-Mandant Lifecycle-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`kanzlei-mandant-lifecycle-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-mandant-lifecycle-werkstatt.zip) |
-| **Kanzlei-Mandant Lifecycle-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`kanzlei-mandant-lifecycle-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-mandant-lifecycle-schnellstart.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`kanzlei-mandant-lifecycle-werkstatt.md`](./kanzlei-mandant-lifecycle-werkstatt.md) (im Browser ansehen)
-- [`kanzlei-mandant-lifecycle-schnellstart.md`](./kanzlei-mandant-lifecycle-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
-
 Ein Plugin für die ganze Lebensbeziehung zwischen Kanzlei, Einzelanwalt, Mandant und Rechtsabteilung: Mandatsannahme, Scope, Outside Counsel Guidelines, Budget, Forecast, Statusbericht, Gerichtsakte, Rechnung, Erwartungsmanagement, Enttäuschung, Eskalation, Quickwins und Abschluss.
 
 Es denkt nicht nur juristisch, sondern auch organisatorisch und kaufmännisch: Wer braucht welche Entscheidung, was kostet es, was ist schon erledigt, was blockiert, was darf aus Geheimhaltungs-, Datenschutz- oder Berufsrechtsgründen überhaupt in ein gemeinsames System?

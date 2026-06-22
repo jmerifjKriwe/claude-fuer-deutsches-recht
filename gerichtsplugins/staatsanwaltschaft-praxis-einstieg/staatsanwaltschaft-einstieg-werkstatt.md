@@ -75,16 +75,16 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `staatsanwaltschaft-praxis-einstie
 - Wenn eine Entscheidung nicht sicher verifiziert ist, schreibe ausdrücklich: Rechtsprechung live prüfen, Aktenzeichen nicht aus Modellwissen einsetzen.
 - Aktualität ist Teil des Outputs: prüfe bei laufenden Fristen, Gesetzesänderungen, Übergangsrecht, Landesrecht und Unionsrecht, ob der Stand noch trägt.
 - Aus dem Plugin übernommene Normanker:
+  - Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO
+  - Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG
   - Paragraf 170 Abs. 2 StPO
-  - Paragrafen 35, 46, 47, 65 bis 69, 71, 75, 76 OWiG
-  - Paragraf 46 OWiG
+  - Paragraf 72 OWiG
+  - Paragrafen 71, 75 OWiG
   - Paragraf 47 OWiG
   - Paragrafen 46, 47, 65, 66, 67, 68 und 69 OWiG
   - Paragrafen 71, 72, 73, 74 und 77 OWiG
   - Paragrafen 79 und 80 OWiG
   - Paragraf 46 OWiG in Verbindung mit StPO
-  - Paragraf 72 OWiG
-  - Paragrafen 71, 75 OWiG
 
 ## Leitentscheidungen
 
@@ -121,23 +121,23 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `staatsanwaltschaft-praxis-einstie
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **OWI Kaltstart Bussgeldverfahren STA Rolle**
-   - Fachlicher Fokus: OWiG-Kaltstart: Strafsache oder Ordnungswidrigkeit, Verwaltungsbehörde, Staatsanwaltschaft, Gericht und richtige Verfahrenssprache trennen: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst u...
-   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
-   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
-   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **OWI Beschlussverfahren 72 und Widerspruch**
+6. **OWI Beschlussverfahren 72 und Widerspruch**
    - Fachlicher Fokus: Beschlussverfahren nach Paragraf 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Frist und Zustaendigkeit Cockpit**
+7. **Frist und Zustaendigkeit Cockpit**
    - Fachlicher Fokus: Fristen- und Zuständigkeitscockpit: Praxis-Skill für neue Staatsanwälte zu macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Strafbefehl Beantragen**
+8. **Strafbefehl Beantragen**
    - Fachlicher Fokus: Strafbefehl beantragen: Praxis-Skill für neue Staatsanwälte zu Eignung, Rechtsfolgen, Tagessätze, Fahrverbot, Bewährung und Verteidigungsrechte prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
+   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
+   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
+9. **OWI Kaltstart Bussgeldverfahren STA Rolle**
+   - Fachlicher Fokus: Staatsanwaltschaftlicher Skill zu OWiG-Kaltstart: Strafsache oder Ordnungswidrigkeit, Verwaltungsbehörde, Staatsanwaltschaft, Gericht und richtige Verfahrenssprache trennen: ordnet Tatverdacht, Zuständigkeit, Beweisstand, Verfügung, Frist und Vorlagegrenze.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
